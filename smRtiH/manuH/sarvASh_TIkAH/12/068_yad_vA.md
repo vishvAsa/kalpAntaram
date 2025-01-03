@@ -20,8 +20,7 @@ There is nothing here that is not quite clear.—(68)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.211);—and in *Parāśaramādhdva*
-(Prāyaścitta, p. 512).
+This verse is quoted in *Mitākṣarā* (3.211);—and in *Parāśaramādhdva* (Prāyaścitta, p. 512).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -29,8 +28,7 @@ This verse is quoted in *Mitākṣarā* (3.211);—and in *Parāśaramādhdva*
 **(verses 12.60-68)  
 **
 
-See Comparative notes for [Verse
-12.60].
+See Comparative notes for [Verse 12.60].
 </details>
 
 <details><summary>Bühler</summary>

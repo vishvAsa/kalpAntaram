@@ -44,23 +44,19 @@ Their fault lies in having listened to misguided reasonings (which make him thin
 
 *Cf*. 11.115.
 
-This verse is quoted in *Aparārka* (p. 809), which adds that ‘*asya*’
-stands for the *Śūdra*;—and in *Vivādaratnākara* (p. 254).
+This verse is quoted in *Aparārka* (p. 809), which adds that ‘*asya*’ stands for the *Śūdra*;—and in *Vivādaratnākara* (p. 254).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (5-24).—‘If a low-born man, through arrogance, give instruction
-to a member of the highest caste, concerning his duty, let the King
-order hot oil to be poured into his mouth.’
+to a member of the highest caste, concerning his duty, let the King order hot oil to be poured into his mouth.’
 
 *Nārada* (15-16.24).—‘If the Śūdra is insolent enough to give lessons to
-Brāhmaṇas regarding their duty, the King shall order hot oil to he
-poured into his mouth and ears.’
+Brāhmaṇas regarding their duty, the King shall order hot oil to he poured into his mouth and ears.’
 
 *Bṛhaspati* (20.12).—‘A Śūdra teaching the precepts of religion, or
-uttering the words of the Veda, or insulting a Brāhmaṇa, shall he
-punished by cutting out his tongue.’
+uttering the words of the Veda, or insulting a Brāhmaṇa, shall he punished by cutting out his tongue.’
 </details>
 
 <details><summary>भारुचिः</summary>

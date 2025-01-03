@@ -28,10 +28,7 @@ The epithet ‘*learned*’ reiterates the rule that it is only the learned Brā
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 190), where ‘*ekānudiṣṭa*’ is
-explained as the ‘*Ekoddiṣṭa Śrāddha*’;—in *Hemādri* (Kāla, p. 756),
-which explains ‘*gandha*’ etc. as ‘the odour of the sandal-paint and the
-incense’;—and in *Gadādharapaddhati* (Kāla, p. 195).
+This verse is quoted in *Aparārka* (p. 190), where ‘*ekānudiṣṭa*’ is explained as the ‘*Ekoddiṣṭa Śrāddha*’;—in *Hemādri* (Kāla, p. 756), which explains ‘*gandha*’ etc. as ‘the odour of the sandal-paint and the incense’;—and in *Gadādharapaddhati* (Kāla, p. 195).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

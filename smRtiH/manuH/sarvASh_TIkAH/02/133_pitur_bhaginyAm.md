@@ -42,10 +42,7 @@ Others however hold that, there is some difference in the treatment to be accord
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra p. 459) in support of
-the view that the ladies herein mentioned should be accosted by the
-clasping of the feet, as they are here declared to be treated ‘like the
-mother’;—and in *Smṛticandrikā* (Saṃskāra, p. 90).
+This verse is quoted in *Vīramitrodaya* (Saṃskāra p. 459) in support of the view that the ladies herein mentioned should be accosted by the clasping of the feet, as they are here declared to be treated ‘like the mother’;—and in *Smṛticandrikā* (Saṃskāra, p. 90).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

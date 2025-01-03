@@ -22,9 +22,7 @@ In connection with the Fire-laying rite, a horse is to be given as the ‘fee.�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Prājāpatyam*’.—‘Dedicated to Prajāpati’ (Govindarāja, Kullūka,
-Nārāyaṇa and Rāghavānanda);—the epithet is merely laudatory; or it may
-mean ‘neither very good nor very inferior’ (Medhātithi);—
+‘*Prājāpatyam*’.—‘Dedicated to Prajāpati’ (Govindarāja, Kullūka, Nārāyaṇa and Rāghavānanda);—the epithet is merely laudatory; or it may mean ‘neither very good nor very inferior’ (Medhātithi);—
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

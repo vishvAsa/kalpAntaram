@@ -64,18 +64,9 @@ Another *Smṛti* declares all kinds of land as ‘not to be sold.’—(61)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vratalopanam*’.—‘Breaking a vow voluntarily taken’ (Medhātithi and
-Nārāyaṇa):—‘breaking the vow of Studentship’ (Govindarāja, Kullūka and
-Rāghavānanda).
+‘*Vratalopanam*’.—‘Breaking a vow voluntarily taken’ (Medhātithi and Nārāyaṇa):—‘breaking the vow of Studentship’ (Govindarāja, Kullūka and Rāghavānanda).
 
-This verse is quoted in *Prāyaścittaviveka* (p. 192), which has the
-following notes—‘*Kanyāyā dūṣaṇam*’ calling a virgin a ‘non-virgin’, or
-piercing with the finger her private parts,—‘*vārdhuṣitvam*’ (which is
-its reading for ‘*vārdhuṣyam*’) for the Brāhmaṇa or the
-Kṣātriya,—‘*vratāt cyutiḥ*’ (which is its reading for ‘*vratalopanam*’),
-‘*avakīrṇitvam*’, sexual delinquency of the Religious
-Student,—‘*dāraṇām*’, even such as have not been married by
-one,—‘*apatyasya*’, of the various kinds of children.
+This verse is quoted in *Prāyaścittaviveka* (p. 192), which has the following notes—‘*Kanyāyā dūṣaṇam*’ calling a virgin a ‘non-virgin’, or piercing with the finger her private parts,—‘*vārdhuṣitvam*’ (which is its reading for ‘*vārdhuṣyam*’) for the Brāhmaṇa or the Kṣātriya,—‘*vratāt cyutiḥ*’ (which is its reading for ‘*vratalopanam*’), ‘*avakīrṇitvam*’, sexual delinquency of the Religious Student,—‘*dāraṇām*’, even such as have not been married by one,—‘*apatyasya*’, of the various kinds of children.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -83,8 +74,7 @@ one,—‘*apatyasya*’, of the various kinds of children.
 **(verses 11.58-66)  
 **
 
-See Comparative notes for [Verse
-11.58].
+See Comparative notes for [Verse 11.58].
 </details>
 
 <details><summary>Bühler</summary>

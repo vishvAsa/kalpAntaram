@@ -38,21 +38,13 @@ Since the precise ‘deities’ of sacrifices are always those indicated by the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 909), which notes that
-(*a*) according to *Aparārkā* the ‘*ājya—homa*’ should begin with
-‘*Vātāya svāhā*’ and end with ‘*Vahnayesvāhā*’ and after these
-‘Principal offerings’ there should be one more offering of *Ājya* with
-the mantra ‘*Samāsiñcantu etc*.’—(*b*) while according to
+This verse is quoted in *Madanapārijāta* (p. 909), which notes that (*a*) according to *Aparārkā* the ‘*ājya—homa*’ should begin with ‘*Vātāya svāhā*’ and end with ‘*Vahnayesvāhā*’ and after these ‘Principal offerings’ there should be one more offering of *Ājya* with the mantra ‘*Samāsiñcantu etc*.’—(*b*) while according to
 *Smṛtimañjarī*, after the ‘Principal offerings,’ the offering of
-clarified butter with the mantra ‘*Samasiñcantu etc*.’ should be made to
-Suvarchala and other deities;—so that in view of these two views, this
-is a case of option.
+clarified butter with the mantra ‘*Samasiñcantu etc*.’ should be made to Suvarchala and other deities;—so that in view of these two views, this is a case of option.
 
 It is quoted in *Parāśaramādhava* (Prāyaścitta, p. 436);—and in
 *Aparārka* (p. 1140), which adds the following notes:—The first
-offerings to be made are the offerings of *Ājya* with the mantras
-‘*Vātāya svāhā*’ and so forth;—the time for the offering is the ‘night,’
-and that on the *Amāvāṣyā* day.
+offerings to be made are the offerings of *Ājya* with the mantras ‘*Vātāya svāhā*’ and so forth;—the time for the offering is the ‘night,’ and that on the *Amāvāṣyā* day.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -60,8 +52,7 @@ and that on the *Amāvāṣyā* day.
 **(verses 11.118-123)  
 **
 
-See Comparative notes for [Verse
-11.118].
+See Comparative notes for [Verse 11.118].
 </details>
 
 <details><summary>भारुचिः</summary>

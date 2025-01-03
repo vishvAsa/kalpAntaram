@@ -30,8 +30,7 @@ Bhṛgu, to the sages who had questioned Manu*.\]
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-With this verse ends the *Introductory Section* of the work, describing
-the Origin of the Law and the authorship of the ordinances.
+With this verse ends the *Introductory Section* of the work, describing the Origin of the Law and the authorship of the ordinances.
 </details>
 
 <details><summary>Bühler</summary>

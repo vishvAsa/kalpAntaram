@@ -32,19 +32,9 @@ The ‘Priest’ has been described here, in connection with the mention of pers
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vidhānapārijāta* (H, p. 5) as supporting the
-view that the title ‘*Ṛtvik*’ is applicable to the man from the moment
-of ‘appointment’ till the end of the performance of the rites for which
-he has been appointed; and that during this time any impurity attaching
-to the man would be only ‘immediate’;—and in *Smṛticandrikā* (Saṃskāra,
-p. 91) as defining the *Ṛtvik'*
+This verse is quoted in *Vidhānapārijāta* (H, p. 5) as supporting the view that the title ‘*Ṛtvik*’ is applicable to the man from the moment of ‘appointment’ till the end of the performance of the rites for which he has been appointed; and that during this time any impurity attaching to the man would be only ‘immediate’;—and in *Smṛticandrikā* (Saṃskāra, p. 91) as defining the *Ṛtvik'*
 
-It is quoted also in *Vīramitrodaya* (Saṃskāra, p. 477) where
-‘*agnyādhāyam*’ is explained as *agnyādhānam*, and ‘*Pākayajña'* as *the
-Aṣṭaka and the rest*;—in *Madanapārijāta* (p. 31);—and in *Aparārka* (p.
-66) as meaning that the title ‘Ṛtvik’ applies to that man whose services
-are paid for by a sacrificer for the performance of the sacrificial
-rite;—and again on p. 919.
+It is quoted also in *Vīramitrodaya* (Saṃskāra, p. 477) where ‘*agnyādhāyam*’ is explained as *agnyādhānam*, and ‘*Pākayajña'* as *the Aṣṭaka and the rest*;—in *Madanapārijāta* (p. 31);—and in *Aparārka* (p. 66) as meaning that the title ‘Ṛtvik’ applies to that man whose services are paid for by a sacrificer for the performance of the sacrificial rite;—and again on p. 919.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -58,8 +48,7 @@ him he should know as the *Ṛtvik*.’
 *Hārīta* (Aparārka, p. 66).—‘The Ṛtvik is of three kinds called—(1) the
 *Kṣirahotā*, *i.e*., one who helps one, in the Firelaying, (2) the
 *Ahāryavṛtā, i.e*., one who, in the absence of the (1) is appointed for
-purposes of the obligatory rites, (3) the *Viśesavṛta, i.e*., one who is
-appointed at the subsequent sacrifices.’
+purposes of the obligatory rites, (3) the *Viśesavṛta, i.e*., one who is appointed at the subsequent sacrifices.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -26,10 +26,7 @@ This theory regarding the greater and less degree of wrong involved in the vario
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 232);—in *Mitākṣarā*
-(3.40)—and in *Saṃskāramayūkha* (p. 124), which explains ‘*itareṣām*’ as
-‘all aforesaid articles except *milk*’;—and adds that all this refers to
-normal times.
+This verse is quoted in *Madanapārijāta* (p. 232);—in *Mitākṣarā* (3.40)—and in *Saṃskāramayūkha* (p. 124), which explains ‘*itareṣām*’ as ‘all aforesaid articles except *milk*’;—and adds that all this refers to normal times.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -37,8 +34,7 @@ normal times.
 **(verses 10.85-93)  
 **
 
-See Comparative notes for [Verse
-10.85].
+See Comparative notes for [Verse 10.85].
 </details>
 
 <details><summary>भारुचिः</summary>

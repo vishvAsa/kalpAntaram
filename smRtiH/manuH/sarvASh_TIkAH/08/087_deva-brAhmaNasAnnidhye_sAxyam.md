@@ -26,10 +26,7 @@ In the presence of gods and Brāhmaṇas, during forenoon, the judge, pure himse
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 673);—in *Parāśaramādhava*
-(Vyavahāra, p. 78);—in *Vyvahāramayūkha* (p. 18);—in *Vyavahāratattva*
-(p. 32);—in *Smṛticandrikā* (Vyavahāra, p. 203);—and in *Kṛtyakalpataru*
-(33b).
+This verse is quoted in *Aparārka* (p. 673);—in *Parāśaramādhava* (Vyavahāra, p. 78);—in *Vyvahāramayūkha* (p. 18);—in *Vyavahāratattva* (p. 32);—in *Smṛticandrikā* (Vyavahāra, p. 203);—and in *Kṛtyakalpataru* (33b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -40,14 +37,10 @@ This verse is quoted in *Aparārka* (p. 673);—in *Parāśaramādhava*
 sunrise, and examine them after having bound them by an oath.’
 
 *Nārada* (1.198).—‘After having summoned all the witnesses, and bound
-them down firmly by oath, the Judge shall examine them separately; they
-should be men of proved integrity and conversant with the circumstances
-of the case.’
+them down firmly by oath, the Judge shall examine them separately; they should be men of proved integrity and conversant with the circumstances of the case.’
 
 *Bṛhaspati* (7.22, 23).—‘Knowing all this, the witness should give
-evidence according to truth. After putting off his shoes and his turban,
-he should stretch out his right hand, and declare the truth, taking in
-his hands, gold, cowdung or blades of *kuśa* grass.’
+evidence according to truth. After putting off his shoes and his turban, he should stretch out his right hand, and declare the truth, taking in his hands, gold, cowdung or blades of *kuśa* grass.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -34,9 +34,7 @@ To the above we make the following reply:—It has been ordained that after the 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 *Medhātithi* (P. 166, 1. 20)—‘*Na tatra jātyapekṣā*’—A better instance
-than the one cited by Medhātithi is found in Manu 3. 234—‘*Vṛatasṭhamapi
-dauhitram śrāddhe yatnena bhojayet*,’ by which ‘feeding at Śrāddha’ is
-applicable to the *Kṣatriya Brahmacārī* also.
+than the one cited by Medhātithi is found in Manu 3. 234—‘*Vṛatasṭhamapi dauhitram śrāddhe yatnena bhojayet*,’ by which ‘feeding at Śrāddha’ is applicable to the *Kṣatriya Brahmacārī* also.
 </details>
 
 <details><summary>Bühler</summary>

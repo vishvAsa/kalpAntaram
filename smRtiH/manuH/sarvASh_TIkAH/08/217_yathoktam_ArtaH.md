@@ -32,15 +32,7 @@ If the employer does not dismiss the man, when he has fallen ill, after having p
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 797), which explains
-‘*Yathoktam*’ as ‘as agreed upon’;—in *Mitākṣarā* (2.198), to the effect
-that—‘if the man,—on recovery, if he has been ill, or even while he is
-in perfect health’,—does not complete the task of which only a little is
-left undone,—either himself or through some one else,—then he should not
-be given any wages at all—and in *Kṛtyakalpataru* (102a), which explains
-‘*kārayet*’ as ‘gets it done by another person’, and ‘*alponasyāpi*’ as
-‘even though only a very little be wanting in the completion of the
-work.’
+This verse is quoted in *Aparārka* (p. 797), which explains ‘*Yathoktam*’ as ‘as agreed upon’;—in *Mitākṣarā* (2.198), to the effect that—‘if the man,—on recovery, if he has been ill, or even while he is in perfect health’,—does not complete the task of which only a little is left undone,—either himself or through some one else,—then he should not be given any wages at all—and in *Kṛtyakalpataru* (102a), which explains ‘*kārayet*’ as ‘gets it done by another person’, and ‘*alponasyāpi*’ as ‘even though only a very little be wanting in the completion of the work.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -48,8 +40,7 @@ work.’
 **(verses 8.215-217)  
 **
 
-See Comparative notes for [Verse
-8.215].
+See Comparative notes for [Verse 8.215].
 </details>
 
 <details><summary>भारुचिः</summary>

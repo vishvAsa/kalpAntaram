@@ -28,29 +28,18 @@ Cows are large animals, and hence cannot he ‘surrounded’ by jackals, etc.; h
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 773):—in *Vivādaratnākara* (p.
-175), which notes that ‘goats and sheep’ stand for all such animals as
-are liable to be attacked by wolves; and explains ‘*Samruddhe*’ as
+This verse is quoted in *Aparārka* (p. 773):—in *Vivādaratnākara* (p. 175), which notes that ‘goats and sheep’ stand for all such animals as are liable to be attacked by wolves; and explains ‘*Samruddhe*’ as
 *attacked*;—in *Parāśaramādhava* (Vyavahāra, p. 265), which adds the
-following notes:—‘*Anāyati*’, not coming to ward off the
-attack,—‘*yām*’, animal belonging to the category of ‘goats and
-sheep—this pertains to cases where the attack takes place in easily
-accessible places; in the case of its coming in a place which is
-inaccessible, no blame attaches to the keeper;—in *Kṛtyakalpataru*
-(105b);—and in *Vīramitrodaya* (Vyavahāra, 137a), which explains
-‘*anāyati*’ as ‘if he does not come to avert the danger.’
+following notes:—‘*Anāyati*’, not coming to ward off the attack,—‘*yām*’, animal belonging to the category of ‘goats and sheep—this pertains to cases where the attack takes place in easily accessible places; in the case of its coming in a place which is inaccessible, no blame attaches to the keeper;—in *Kṛtyakalpataru* (105b);—and in *Vīramitrodaya* (Vyavahāra, 137a), which explains ‘*anāyati*’ as ‘if he does not come to avert the danger.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Narada* (6.15).—‘If goats and sheep are surrounded by wolves, and the
-herdsman does not come to their assistance, he shall he responsible for
-any animal that the wolf attacks or kills.’
+herdsman does not come to their assistance, he shall he responsible for any animal that the wolf attacks or kills.’
 
 *Viṣṇu* (5.137-138).—‘Cattle being attacked, during daytime, by wolves
-or other ferocious animals, and the keeper not going to repel the
-attack, the blame shall fall upon him; and he shall make good to the
-owner the value of the cattle that has perished.’
+or other ferocious animals, and the keeper not going to repel the attack, the blame shall fall upon him; and he shall make good to the owner the value of the cattle that has perished.’
 </details>
 
 <details><summary>भारुचिः</summary>

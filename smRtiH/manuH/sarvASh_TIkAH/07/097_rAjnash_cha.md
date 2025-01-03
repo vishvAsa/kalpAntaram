@@ -30,12 +30,9 @@ In a case where the booty has been won by the King himself, or where it has not 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Indro vai vṛtram* *&c*.’ (Medhātithi, p. 522, l. 19).—This quotation
-is from the Aitareya Brāhmaṇa, III. 21—(Buhler).
+‘*Indro vai vṛtram* *&c*.’ (Medhātithi, p. 522, l. 19).—This quotation is from the Aitareya Brāhmaṇa, III. 21—(Buhler).
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 409), which
-explains ‘*apṛthagjitam*’ as ‘what has been won by the soldiers
-collectively.’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 409), which explains ‘*apṛthagjitam*’ as ‘what has been won by the soldiers collectively.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -43,8 +40,7 @@ collectively.’
 **(verses 7.96-98)  
 **
 
-See Comparative notes for [Verse
-7.96].
+See Comparative notes for [Verse 7.96].
 </details>
 
 <details><summary>भारुचिः</summary>

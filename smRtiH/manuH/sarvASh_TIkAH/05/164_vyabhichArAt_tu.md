@@ -31,8 +31,7 @@ This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 30);—in
 **(verses 5.154-163)  
 **
 
-See Comparative notes for [Verse
-5.154].
+See Comparative notes for [Verse 5.154].
 </details>
 
 <details><summary>Bühler</summary>

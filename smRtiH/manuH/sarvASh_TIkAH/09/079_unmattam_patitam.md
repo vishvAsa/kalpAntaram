@@ -44,8 +44,7 @@ This verse is quoted in Vivādaratnākara (p. 423).
 **(verses 9.77-84)  
 **
 
-See Comparative notes for [Verse
-9.77].
+See Comparative notes for [Verse 9.77].
 </details>
 
 <details><summary>भारुचिः</summary>

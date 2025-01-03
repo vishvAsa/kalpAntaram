@@ -39,8 +39,7 @@ The term ‘*clearly*’ implies *importance*, the sense being that the woman is
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 191);—in *Vivādaratnākara*
-(p. 417), which notes that the construction is ‘*pratyaham lokayātrāyāḥ*
+This verse is quoted in *Madanapārijāta* (p. 191);—in *Vivādaratnākara* (p. 417), which notes that the construction is ‘*pratyaham lokayātrāyāḥ*
 *nibandhanam strī*’, and that both the bringing forth and the rearing of
 children are her function;—and in *Nṛsiṃhaprasāda* (Saṃs kāra, 66b).
 </details>
@@ -50,8 +49,7 @@ children are her function;—and in *Nṛsiṃhaprasāda* (Saṃs kāra, 66b).
 **(verses 9.26-27)  
 **
 
-See Comparative notes for [Verse
-9.26].
+See Comparative notes for [Verse 9.26].
 </details>
 
 <details><summary>भारुचिः</summary>

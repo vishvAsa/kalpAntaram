@@ -28,9 +28,7 @@ Here also what is meant is that among gifts from the low, the lower and the lowe
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 935);—in *Madanapārijāta* (p.
-233);—in *Parāśaramādhava* (Prāyaścitta, p. 326);—in *Smṛtitattva* II
-(p. 362);—and in *Prāyaścittaviveka* (p. 409).
+This verse is quoted in *Aparārka* (p. 935);—in *Madanapārijāta* (p. 233);—in *Parāśaramādhava* (Prāyaścitta, p. 326);—in *Smṛtitattva* II (p. 362);—and in *Prāyaścittaviveka* (p. 409).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -38,8 +36,7 @@ This verse is quoted in *Aparārka* (p. 935);—in *Madanapārijāta* (p.
 **(verses 10.101-108)  
 **
 
-See Comparative notes for [Verse
-10.101].
+See Comparative notes for [Verse 10.101].
 </details>
 
 <details><summary>भारुचिः</summary>

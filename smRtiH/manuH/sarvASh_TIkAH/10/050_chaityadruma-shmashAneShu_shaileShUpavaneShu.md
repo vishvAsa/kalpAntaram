@@ -37,8 +37,7 @@ They shall dwell outside the village; in hilly tracts and other such places.
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-See Comparative notes for [Verse
-10.46].
+See Comparative notes for [Verse 10.46].
 </details>
 
 <details><summary>Bühler</summary>

@@ -40,8 +40,7 @@ Others again hold that the withholding of ‘property’ is meant to apply to th
 [\[See above,
 9.201.\]]
 
-See Comparative notes for [Verse
-11.182].
+See Comparative notes for [Verse 11.182].
 </details>
 
 <details><summary>Bühler</summary>

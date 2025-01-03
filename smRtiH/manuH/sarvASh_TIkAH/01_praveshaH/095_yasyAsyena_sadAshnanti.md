@@ -26,8 +26,7 @@ The Gods, occupying the highest regions, and the *Pitṛs* occupying the interme
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-See Comparative notes for [Verse 1.94 (Brahmā created the
-Brāhmaṇas)].
+See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 </details>
 
 <details><summary>Bühler</summary>

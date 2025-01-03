@@ -94,10 +94,7 @@ What you say is not enough. For the Brāhmaṇa also, *stealing* is forbidden. T
 
 **(verse 11.12)**
 
-According to Nārāyaṇa and Nandana, ‘the king’ is the agent to be
-understood with the verb ‘*āharet*’, ‘may take’;—this being supported by
-a parallel passage in the Mahābhārata which ends with
-‘*Yajñārthampārthivo haret*’.
+According to Nārāyaṇa and Nandana, ‘the king’ is the agent to be understood with the verb ‘*āharet*’, ‘may take’;—this being supported by a parallel passage in the Mahābhārata which ends with ‘*Yajñārthampārthivo haret*’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -107,11 +104,7 @@ a parallel passage in the Mahābhārata which ends with
 *Mahābhārata* (12.165.6-9).—(Same as Manu.)
 
 *Gautama* (18.24-27).—‘In order to defray the expenses of a wedding,—and
-when engaged in a rite enjoined by the secred texts, one may take money
-from a Śūdra,—or from a man rich in small cattle who neglects his
-religious duties, though he does not belong to the Śūdra caste,—or from
-the owner of a hundred cows who has not laid the fire;—or from the owner
-of a thousand cows who does not drink *Soma*.’
+when engaged in a rite enjoined by the secred texts, one may take money from a Śūdra,—or from a man rich in small cattle who neglects his religious duties, though he does not belong to the Śūdra caste,—or from the owner of a hundred cows who has not laid the fire;—or from the owner of a thousand cows who does not drink *Soma*.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -44,11 +44,7 @@ As regards the wife who is harsh of speech, as there is no such serious defect, 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 188), which adds that
-‘*adhivettavyā*’ has to be supplied at the end;—in *Vīramitrodaya*
-(Saṃskāra, p. 873);—in *Aparārka* (p. 100);—in *Nirṇayasindhu* (p.
-230);—in *Parāśaramādhava* (Ācāra, p. 508);—and in *Vidhānapārijāta*
-(II, p. 363).
+This verse is quoted in *Madanapārijāta* (p. 188), which adds that ‘*adhivettavyā*’ has to be supplied at the end;—in *Vīramitrodaya* (Saṃskāra, p. 873);—in *Aparārka* (p. 100);—in *Nirṇayasindhu* (p. 230);—in *Parāśaramādhava* (Ācāra, p. 508);—and in *Vidhānapārijāta* (II, p. 363).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -56,8 +52,7 @@ This verse is quoted in *Madanapārijāta* (p. 188), which adds that
 **(verses 9.77-84)  
 **
 
-See Comparative notes for [Verse
-9.77].
+See Comparative notes for [Verse 9.77].
 </details>
 
 <details><summary>भारुचिः</summary>

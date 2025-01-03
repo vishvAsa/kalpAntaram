@@ -131,28 +131,15 @@ The real explanation is that the deity to whom a sacrifice is offered is to be m
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Kapiñjalaiḥ*’ (Medhātithi, p. 937, l. 11)—This refers to a case dealt
-with in Mīmāṃsā-sūtra, where it is said that whenever the plural number
-is used, we should understand it to mean *three*; for instance, when
-‘Kapiñjala birds’ are spoken of as to be sacrificed. Medhātithi says
-that this principle should not be applied to the present case of the
-plural in ‘*Charrubhiḥ*’.
+‘*Kapiñjalaiḥ*’ (Medhātithi, p. 937, l. 11)—This refers to a case dealt with in Mīmāṃsā-sūtra, where it is said that whenever the plural number is used, we should understand it to mean *three*; for instance, when ‘Kapiñjala birds’ are spoken of as to be sacrificed. Medhātithi says that this principle should not be applied to the present case of the plural in ‘*Charrubhiḥ*’.
 
 Nandana does not read the verse differently as asserted by Hopkins.
 
-This verse is quoted in *Aparārka* (p. 682), which adds that the plural
-number in ‘*Carubhiḥ*’ is due to the plurality of the persons referred
-to here—‘*te*’, ‘*they*’;—in *Prāyaścittaviveka* (p. 432), which says
-that this refers to the three higher castes only.
+This verse is quoted in *Aparārka* (p. 682), which adds that the plural number in ‘*Carubhiḥ*’ is due to the plurality of the persons referred to here—‘*te*’, ‘*they*’;—in *Prāyaścittaviveka* (p. 432), which says that this refers to the three higher castes only.
 
 It is quoted in *Parāśaramādhava* (Prāyaścitta, p. 390);—in
 *Smṛtitattva* (II, p. 355), which adds that ‘*Vāgdevatā*’ here must be
-taken as standing for *Sarasvatī*, the terms ‘*Vāk*’ and ‘*Sarasvatī*’
-being synonymous, specially as it is only thus that the offering shall
-be consistent with its name ‘*Sacrifice to Sarasvatī*’; it proceeds to
-add that the pronoun ‘*te*’ here stands for those witnesses who tell a
-lie for saving a Brāhmaṇa or a Kṣatriya from death;—in *Smṛticandrikā*
-(Vyavahāra, p. 207); and in *Kṛtyakalpataru* (38b).
+taken as standing for *Sarasvatī*, the terms ‘*Vāk*’ and ‘*Sarasvatī*’ being synonymous, specially as it is only thus that the offering shall be consistent with its name ‘*Sacrifice to Sarasvatī*’; it proceeds to add that the pronoun ‘*te*’ here stands for those witnesses who tell a lie for saving a Brāhmaṇa or a Kṣatriya from death;—in *Smṛticandrikā* (Vyavahāra, p. 207); and in *Kṛtyakalpataru* (38b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -161,18 +148,13 @@ lie for saving a Brāhmaṇa or a Kṣatriya from death;—in *Smṛticandrikā*
 **
 
 *Yājñavalkya* (2.83).—‘For expiating the sin involved in deposing
-falsely for saving the life of a man, twice-born persons should offer
-the cooked rice dedicated to Sarasvatī.’
+falsely for saving the life of a man, twice-born persons should offer the cooked rice dedicated to Sarasvatī.’
 
 *Viṣṇu* (8.16-17).—‘In order to expiate the sin committed (by deposing
-falsely for saving the life of a man), the witness, if he is a
-twice-born person, must pour an oblation into the fire, consecrating it
-with the Mantra-texts called *Kūṣmāṇḍī*; if he is a Śūdra, he must feed
-ten cows for one day.’
+falsely for saving the life of a man), the witness, if he is a twice-born person, must pour an oblation into the fire, consecrating it with the Mantra-texts called *Kūṣmāṇḍī*; if he is a Śūdra, he must feed ten cows for one day.’
 
 *Baudhāyana* (1.19.16).—‘Let him who has given false evidence (for any
-reason) drink hot milk during twelve days and nights, and pour oblations
-into the fire with the mantras called *Kūṣmāṇḍī*.’
+reason) drink hot milk during twelve days and nights, and pour oblations into the fire with the mantras called *Kūṣmāṇḍī*.’
 </details>
 
 <details><summary>भारुचिः</summary>

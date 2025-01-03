@@ -42,8 +42,7 @@ son &c. &c.,’ which lays down the handing over of the Fires. This renunciation
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 973);—and in *Yatidharmasaṅgraha*
-(p. 5).
+This verse is quoted in *Aparārka* (p. 973);—and in *Yatidharmasaṅgraha* (p. 5).
 </details>
 
 <details><summary>भारुचिः</summary>

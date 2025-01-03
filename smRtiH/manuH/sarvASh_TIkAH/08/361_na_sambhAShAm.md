@@ -27,22 +27,16 @@ Hence the person meant to be fined one ‘*suvarṇa*’ is one who, even though
 
 This verse is quoted in *Vivādaratnākara* (p. 386);—in
 *Vyavahāra-Bālambhaṭṭī* (p. 1011);—and in *Vivādacintāmaṇi* (p. 173),
-which explains ‘*niṣiddhaḥ*’ as ‘forbidden by the husband or other
-relatives of the woman.’
+which explains ‘*niṣiddhaḥ*’ as ‘forbidden by the husband or other relatives of the woman.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (2.285).—‘If a man converses with a woman who has been
-forbidden to do so, the woman shall be fined one hundred, and the man,
-two hundred; if both have been previously forbidden, the punishment for
-conversing shall be the same as in adultery.’
+forbidden to do so, the woman shall be fined one hundred, and the man, two hundred; if both have been previously forbidden, the punishment for conversing shall be the same as in adultery.’
 
 *Matsyapurāṇa* (Aparārka, p. 856).—‘A mendicant male or female, a
-player,—if these enter the residence of women, after being forbidden,
-they shall be fined two hundred; and the man who may have admitted them,
-or who affords them the opportunity for entering, shall be punished like
-an adulterer.’
+player,—if these enter the residence of women, after being forbidden, they shall be fined two hundred; and the man who may have admitted them, or who affords them the opportunity for entering, shall be punished like an adulterer.’
 </details>
 
 <details><summary>भारुचिः</summary>

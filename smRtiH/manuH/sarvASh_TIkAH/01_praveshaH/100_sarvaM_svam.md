@@ -26,8 +26,7 @@ This is mere praise, not an injunction; hence we have the word ‘*deserves*’.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in the *Aparārka* (p. 282) as indicating that the
-learned Brāhmaṇa is the owner of all things.
+This verse is quoted in the *Aparārka* (p. 282) as indicating that the learned Brāhmaṇa is the owner of all things.
 </details>
 
 <details><summary>Bühler</summary>

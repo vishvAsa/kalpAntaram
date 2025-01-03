@@ -39,28 +39,17 @@ The terra ‘cart’ is connected with each of the foregoing terras; and the car
 This verse is quoted in *Madanapārijāta* (p. 107);—and in
 *Vīramitrodaya* (Saṃskāra, p. 462) where ‘*phalakam*’ is explained as
 *Kāṣṭhanirmitam dīrghāsanam*, ‘a long seat made of wood’, a bench:—also
-on page 491, where it is quoted in support of the view that the
-prohibition contained in verse 198 must refer to cases other than those
-of carts and conveyances. It further adds that though the riding on
-conveyances drawn by ox etc. is prohibited,—yet the sanction accorded
-here is in view of the possibility of such lading in abnormal times of
-distress. It is interesting to note that no such scruples have
-prejudiced Medhātithi, who apparently belonged to a part of the country
-where riding on bullock-carts is permissible; while the author of
+on page 491, where it is quoted in support of the view that the prohibition contained in verse 198 must refer to cases other than those of carts and conveyances. It further adds that though the riding on conveyances drawn by ox etc. is prohibited,—yet the sanction accorded here is in view of the possibility of such lading in abnormal times of distress. It is interesting to note that no such scruples have prejudiced Medhātithi, who apparently belonged to a part of the country where riding on bullock-carts is permissible; while the author of
 *Vīramitrodaya* belonged to a part of the country where such riding is
 prohibited, e.g. in Mithilā.
 
-It is quoted in *Smṛticandrikā* (Saṃskāra, p. 120) as sanctioning, in
-certain cases, the sitting of the pupil with the teacher.
+It is quoted in *Smṛticandrikā* (Saṃskāra, p. 120) as sanctioning, in certain cases, the sitting of the pupil with the teacher.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (1. 2. 35).—‘There is nothing wrong in sitting with the
-Teacher on a boat, or a stone-slab, or an elephant, or the roof of a
-house, or a mat, or on a wheeled conveyance.’ *Āpastamba Dharmasūtra*
-(1. 8. 12).—‘In a journey he should ascend the conveyance behind the
-Teacher.’
+Teacher on a boat, or a stone-slab, or an elephant, or the roof of a house, or a mat, or on a wheeled conveyance.’ *Āpastamba Dharmasūtra* (1. 8. 12).—‘In a journey he should ascend the conveyance behind the Teacher.’
 
 *Viṣṇu* (28.27, 28).—‘He should not sit on the same seat with the
 Teacher;—except on a stone-slab, a boat, or a conveyance.’

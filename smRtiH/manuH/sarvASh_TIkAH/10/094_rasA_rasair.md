@@ -46,44 +46,21 @@ This however is not right. Because Gautama has indicated the difference between 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.39), which adds the following
-notes:—‘*Kṛtānna*’ is cooked food, and this should be exchanged with
-cooked food; it notes the. reading ‘*Kṛtānnañcākṛtannena*’, and explains
-it as ‘cooked food should be exchanged for uncooked rice and other
-grains’.
+This verse is quoted in *Mitākṣarā* (3.39), which adds the following notes:—‘*Kṛtānna*’ is cooked food, and this should be exchanged with cooked food; it notes the. reading ‘*Kṛtānnañcākṛtannena*’, and explains it as ‘cooked food should be exchanged for uncooked rice and other grains’.
 
-It is quoted in *Aparārka* (p. 933);—in *Madanapārijāta* (p. 233), which
-explains ‘*nimātavyāḥ*’ as ‘should be exchanged’;—in *Parāśaramādhava*
-(Ācāra p. 431), which adds that the law laid down regarding the selling
-of sesamum applies to that of *rasas* also;—in *Saṃskāramayūkha* (p.
-124);—and in *Prāyaścittaviveka* (p. 429).
+It is quoted in *Aparārka* (p. 933);—in *Madanapārijāta* (p. 233), which explains ‘*nimātavyāḥ*’ as ‘should be exchanged’;—in *Parāśaramādhava* (Ācāra p. 431), which adds that the law laid down regarding the selling of sesamum applies to that of *rasas* also;—in *Saṃskāramayūkha* (p. 124);—and in *Prāyaścittaviveka* (p. 429).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (7.16-23).—‘But it is permissible to barter one kind of
-substances used for flavouring for others, and animals. Salt and
-prepared food must not be bartered, nor sesamum. But for present use, an
-equal quantity of uncooked food may be exchanged for cooked food.—But if
-no other course is possible, a Brāhmaṇa may support himself in any way
-except by following the occupations of a Śūdra. Some people permit even
-this in case his life is in danger.’
+substances used for flavouring for others, and animals. Salt and prepared food must not be bartered, nor sesamum. But for present use, an equal quantity of uncooked food may be exchanged for cooked food.—But if no other course is possible, a Brāhmaṇa may support himself in any way except by following the occupations of a Śūdra. Some people permit even this in case his life is in danger.’
 
 *Āpastamba* (1.20.14-16—1.21.1-4).—‘The exchange of one of these
-(above-mentioned goods) for the other is likewise unlawful. But food may
-be exchanged for food, and slaves for slaves, and condiments for
-condiments, and perfumes for perfumes and learning for learning. Let him
-traffic with lawful merchandise which he has not bought, with *Muñja*
-grass, *Balvaja* -g rass, roots and fruits; and with grass and wood
-which have not been worked up. He shall not be too eager for such
-livelihood. If he obtains another livelihood, he shall leave off
-trading.’
+(above-mentioned goods) for the other is likewise unlawful. But food may be exchanged for food, and slaves for slaves, and condiments for condiments, and perfumes for perfumes and learning for learning. Let him traffic with lawful merchandise which he has not bought, with *Muñja* grass, *Balvaja* -g rass, roots and fruits; and with grass and wood which have not been worked up. He shall not be too eager for such livelihood. If he obtains another livelihood, he shall leave off trading.’
 
 *Vaśiṣṭha* (2.37-39).—‘Substances used for flavouring may be bartered
-for other substances of the same kind, be it for one more valuable or
-for one worth less. But salt must never be exchanged for other
-substances used for flavouring. It is permitted to barter sesamum, rice,
-cooked food, learning, and slaves.’
+for other substances of the same kind, be it for one more valuable or for one worth less. But salt must never be exchanged for other substances used for flavouring. It is permitted to barter sesamum, rice, cooked food, learning, and slaves.’
 </details>
 
 <details><summary>भारुचिः</summary>

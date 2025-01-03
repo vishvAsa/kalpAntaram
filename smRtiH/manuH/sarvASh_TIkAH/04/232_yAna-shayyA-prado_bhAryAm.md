@@ -26,10 +26,7 @@ The giver or carriage and couch obtains a wife, the giver of fearlessness sovere
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 177);—in *Aparārka*
-(p. 386);—in *Smṛtitattva* (II, p. 364);—in *Hemādri* (Dāna, p. 152),
-which explains ‘*brahmasārṣṭitām*’ as the ‘condition of a Brāhmaṇa’;—and
-in *Dānakriyākaumudī* (p. 66).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 177);—in *Aparārka* (p. 386);—in *Smṛtitattva* (II, p. 364);—in *Hemādri* (Dāna, p. 152), which explains ‘*brahmasārṣṭitām*’ as the ‘condition of a Brāhmaṇa’;—and in *Dānakriyākaumudī* (p. 66).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -38,9 +35,7 @@ in *Dānakriyākaumudī* (p. 66).
 luck; by the giving of a couch, a wife.’
 
 *Yājñavalkya* (2.211).—‘By giving away a house, grains, fearlessness,
-shoes, umbrellas, garlands, unguents, conveyances, trees, highly
-desirable objects (like spiritual merit) and conches,—one becomes
-extremely happy.’
+shoes, umbrellas, garlands, unguents, conveyances, trees, highly desirable objects (like spiritual merit) and conches,—one becomes extremely happy.’
 
 *Vaśiṣṭha* (29.12).—‘By the giving of couches and seats one obtains
 sovereignty over his inner apartments.’

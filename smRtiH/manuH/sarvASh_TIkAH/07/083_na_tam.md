@@ -23,8 +23,7 @@ The wealth that is given away to *Brāhmaṇas*, that ‘no thieves’—forest-
 **(verses 7.82-83)  
 **
 
-See Comparative notes for [Verse
-7.82].
+See Comparative notes for [Verse 7.82].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -58,20 +58,9 @@ In both these cases, the debtor has ‘*entered into the wheel-ccntract*’—*i
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Cakarvṛddhi*’;—‘Interest on wheeled carriage’ (Medhātithi,
-Govindarāja, Kullūka and Rāghavānanda);—‘compound interest’ (Nārāyaṇa as
-also ‘others’ in Medhātithi on verse 157).
+‘*Cakarvṛddhi*’;—‘Interest on wheeled carriage’ (Medhātithi, Govindarāja, Kullūka and Rāghavānanda);—‘compound interest’ (Nārāyaṇa as also ‘others’ in Medhātithi on verse 157).
 
-This verse is quoted in *Vivādaratnākara* (p. 73), which gives a totally
-different explanation:—‘*Deśakālavyavosthitaḥ cakravṛddhim samārūḍhaḥ*’
-means ‘having entered into an agreement regarding *cakravṛddhi*’ to the
-effect that “at such and such a place and time I shall take döuble this
-amount,”—if the creditor asks for repayment of his dues with compound
-interest, before the stipulated time, or at a place other than the
-stipulated one, then he shall not receive his dues with compound
-interest;’—in *Kṛtyakalpataru* (80a), which explains ‘*samārūḍha*’ as
-‘stipulated, agreed upon,’ and ‘*tatphalam*’ as *the effect of the
-cakravṛddhi*;—and in *Vīramitrodaya* (Vyavahāra, 104a).
+This verse is quoted in *Vivādaratnākara* (p. 73), which gives a totally different explanation:—‘*Deśakālavyavosthitaḥ cakravṛddhim samārūḍhaḥ*’ means ‘having entered into an agreement regarding *cakravṛddhi*’ to the effect that “at such and such a place and time I shall take döuble this amount,”—if the creditor asks for repayment of his dues with compound interest, before the stipulated time, or at a place other than the stipulated one, then he shall not receive his dues with compound interest;’—in *Kṛtyakalpataru* (80a), which explains ‘*samārūḍha*’ as ‘stipulated, agreed upon,’ and ‘*tatphalam*’ as *the effect of the cakravṛddhi*;—and in *Vīramitrodaya* (Vyavahāra, 104a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -84,8 +73,7 @@ cakravṛddhi*;—and in *Vīramitrodaya* (Vyavahāra, 104a).
 *Paṇas* for dealers on the seas.’
 
 *Yājñavalkya* (2-38).—‘Dealers in forests should pay 10 per cent., and
-dealers on the seas, 20 per cent.; or men may pay to all castes whatever
-interest may have been agreed upon by themselves.’
+dealers on the seas, 20 per cent.; or men may pay to all castes whatever interest may have been agreed upon by themselves.’
 </details>
 
 <details><summary>भारुचिः</summary>

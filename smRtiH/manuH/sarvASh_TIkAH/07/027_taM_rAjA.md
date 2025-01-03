@@ -30,15 +30,9 @@ The King who metes out punishment in the proper manner prospers in respect of hi
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Viṣamaḥ*’—‘Irascible’ (Medhātithi, Govindarāja, Kullūka and
-Rāghavānanda);—‘partial’ (Nārāyaṇa).
+‘*Viṣamaḥ*’—‘Irascible’ (Medhātithi, Govindarāja, Kullūka and Rāghavānanda);—‘partial’ (Nārāyaṇa).
 
-This verse is quoted in *Vivādaratnākara*, (p. 647), which explains
-‘*samyak*’ as ‘with due deliberation,’—‘*kāmātmā*’ as ‘one who acts just
-as he pleases’—and ‘*Viṣamaḥ*’ as ‘adopting the wrong course by reason
-of partiality;’—and in *Vivādacintāmaṇi*’ (p. 262), which explains
-‘*Kāmātmā*’ as ‘if the king acts as he pleases,’ and ‘*Viṣamaḥ*’ as
-‘acting wrongly through partiality or prejudice.’
+This verse is quoted in *Vivādaratnākara*, (p. 647), which explains ‘*samyak*’ as ‘with due deliberation,’—‘*kāmātmā*’ as ‘one who acts just as he pleases’—and ‘*Viṣamaḥ*’ as ‘adopting the wrong course by reason of partiality;’—and in *Vivādacintāmaṇi*’ (p. 262), which explains ‘*Kāmātmā*’ as ‘if the king acts as he pleases,’ and ‘*Viṣamaḥ*’ as ‘acting wrongly through partiality or prejudice.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -47,29 +41,14 @@ of partiality;’—and in *Vivādacintāmaṇi*’ (p. 262), which explains
 upholds this stayless world.’
 
 *Kāmandaka* (1.11-13).—‘A righteous king protecting his subjects to the
-best of his resources and having the power of capturing hostile cities,
-should be held in as high a regard as the god Prajāpati himself. A
-sovereign discharging his duties according to the rules of polity soon
-secures the three ends for himself and for his people; acting otherwise,
-he is sure to ruin himself and his people.’
+best of his resources and having the power of capturing hostile cities, should be held in as high a regard as the god Prajāpati himself. A sovereign discharging his duties according to the rules of polity soon secures the three ends for himself and for his people; acting otherwise, he is sure to ruin himself and his people.’
 
-Do. (2.36).—‘Tho self-controlled king holds the key to the spiritual and
-material advancement of himself and bis people; therefore he should mete
-out punishments impartially.’
+Do. (2.36).—‘Tho self-controlled king holds the key to the spiritual and material advancement of himself and bis people; therefore he should mete out punishments impartially.’
 
 *Yājñavalkya* (1.354-356).—(See under 19.)
 
 *Arthaśāstra* (p. 32).—‘The Teachers have declared that for the king
-there is no other means save punishment for the subjugating of living
-beings. Such is not the view of kauṭilya; for if a king is very severe
-in his punishments, the people become discontented; if he is very
-lenient, he is disregarded; he is respected only when he inflicts
-punishment impartially in the right manner. If intelligently
-administered, punishment brings prosperity and happiness to the people;
-if improperly administered, through ignorance, or greed, or anger, it
-angers even Hermits and Renunciates; what to say of Householders? The
-people consisting of the four castes and orders is protected by the king
-through punishment.’
+there is no other means save punishment for the subjugating of living beings. Such is not the view of kauṭilya; for if a king is very severe in his punishments, the people become discontented; if he is very lenient, he is disregarded; he is respected only when he inflicts punishment impartially in the right manner. If intelligently administered, punishment brings prosperity and happiness to the people; if improperly administered, through ignorance, or greed, or anger, it angers even Hermits and Renunciates; what to say of Householders? The people consisting of the four castes and orders is protected by the king through punishment.’
 </details>
 
 <details><summary>भारुचिः</summary>

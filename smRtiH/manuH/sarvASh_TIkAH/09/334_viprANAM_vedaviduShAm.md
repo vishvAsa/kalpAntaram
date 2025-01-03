@@ -22,16 +22,14 @@ This is the duty that leads to his highest good.—(334)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 230);—in *Parāśaramādhava*
-(Ācāra, p. 418);—and in *Nṛsiṃhaprasāda* (Āhnika 36b).
+This verse is quoted in *Madanapārijāta* (p. 230);—in *Parāśaramādhava* (Ācāra, p. 418);—and in *Nṛsiṃhaprasāda* (Āhnika 36b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 9.333-336)**
 
-See Comparative notes for [Verse
-9.333].
+See Comparative notes for [Verse 9.333].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -28,12 +28,7 @@ At the same time as stated above, he shall drink water and other things,—in qu
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This v erse is quoted in *Madanapārijāta* (p. 735), which explains the
-meaning to be that ‘he should live for three days each upon water, milk,
-and clarified butter and air’;—thus the penance being Completed in
-twelve days;—in *Prāyaścittaviveka* (p. 511), which says that the
-‘drinking of hot air’ is done by inhaling the vapour emanating from hot
-milk; and that this penance is completed in *twelve* days;—in
+This v erse is quoted in *Madanapārijāta* (p. 735), which explains the meaning to be that ‘he should live for three days each upon water, milk, and clarified butter and air’;—thus the penance being Completed in twelve days;—in *Prāyaścittaviveka* (p. 511), which says that the ‘drinking of hot air’ is done by inhaling the vapour emanating from hot milk; and that this penance is completed in *twelve* days;—in
 *Saṃskāraratnamālā* (p. 782);—and in *Yatidharmasaṅgraha* (p. 7).
 </details>
 
@@ -43,18 +38,13 @@ milk; and that this penance is completed in *twelve* days;—in
 fasting,—each for three days, and taking the three fluids hot,—that is
 *Taptakṛcchra* penance.’
 
-Do. (4.5.10).—‘If one drinks hot milk, hot clarified butter, and a hot
-decoction of *Kuśa* grass, each during three days, and fasts during
-another three days, that is called the *Taptakṛcchra*.’
+Do. (4.5.10).—‘If one drinks hot milk, hot clarified butter, and a hot decoction of *Kuśa* grass, each during three days, and fasts during another three days, that is called the *Taptakṛcchra*.’
 
 *Vaśiṣṭha* (21.21).—‘Let him drink hot water during three days; hot milk
-during the next three days; after drinking, during another three days,
-hot clarified butter, he shall subsist on air during the last three
-days. That is the *Taptakṛcchra* penance.’
+during the next three days; after drinking, during another three days, hot clarified butter, he shall subsist on air during the last three days. That is the *Taptakṛcchra* penance.’
 
 *Viṣṇu* (46.11).—‘Let him drink for three days hot water, for another
-three days, hot clarified butter; and for further three days, not milk,
-and let him fast for three days. That is the *Taptakṛcchra*.’
+three days, hot clarified butter; and for further three days, not milk, and let him fast for three days. That is the *Taptakṛcchra*.’
 </details>
 
 <details><summary>Bühler</summary>

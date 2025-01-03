@@ -83,18 +83,9 @@ From among these texts listen to those that are meant to be ‘expiatory’ of t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse, is quoted in *Vīramitrodaya* (Vyavahāra, 158b), which has
-the following notes:—‘*Śrutayaḥ*,’ Vedic texts,—‘*nigameṣu*,’ in the
-Vedas,—‘listen to those rites that are referred to in the Vedas as
-expiatory of the misbehaviour of women,—and these will give you an idea
-of the character of women.’
+This verse, is quoted in *Vīramitrodaya* (Vyavahāra, 158b), which has the following notes:—‘*Śrutayaḥ*,’ Vedic texts,—‘*nigameṣu*,’ in the Vedas,—‘listen to those rites that are referred to in the Vedas as expiatory of the misbehaviour of women,—and these will give you an idea of the character of women.’
 
-It is quoted in *Vivādaratnākara* (p. 412), which adds the following
-notes:—‘*Śrutayaḥ*’, Vedic texts;—‘*nigameṣu*,’ in the
-Vedas;—‘*svālakṣaṇyam*,’ characterestic;—‘*tāṣām* etc,’ listen to that
-Vedic text, from among the said texts, which is in the form of an
-expiation for the sin of unchaste thoughts, this text being indicative
-of the character of women in general.
+It is quoted in *Vivādaratnākara* (p. 412), which adds the following notes:—‘*Śrutayaḥ*’, Vedic texts;—‘*nigameṣu*,’ in the Vedas;—‘*svālakṣaṇyam*,’ characterestic;—‘*tāṣām* etc,’ listen to that Vedic text, from among the said texts, which is in the form of an expiation for the sin of unchaste thoughts, this text being indicative of the character of women in general.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -102,9 +93,7 @@ of the character of women in general.
 **(verses 9.19-20)  
 **
 
-The same Vedic text is referred to and prescribed for reciting—in
-Śāṅkhāyana-Yama-Gṛhyasūtra (3.13.5), and also in Āpastamba-Śrauta-Sutra
-(1.9.9).
+The same Vedic text is referred to and prescribed for reciting—in Śāṅkhāyana-Yama-Gṛhyasūtra (3.13.5), and also in Āpastamba-Śrauta-Sutra (1.9.9).
 </details>
 
 <details><summary>भारुचिः</summary>

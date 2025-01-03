@@ -66,14 +66,7 @@ These birds are partly ‘fit to be eaten’ also, in view of the assertion that
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 540), which adds the
-following notes:—‘*pratudāḥ*’ are the birds that strike with the peak
-and then eat;—‘*jālapāda*’ is the web-footed bird, *e.g*. the *cāṣa* and
-the like;—‘*koyaṣṭi*’ is a species of wild birds;—‘*nakhaviṣkira*’ is
-the bird that scratches out food with its nails;—‘*nimajjya matsyādān*’
-are those birds that catch fish by diving under water; *e.g*. the
-aquatic crow and the like;—‘*sūnā*’ is the *slaughter-house*, and
-‘*sauna*’ is that which is got from there;—‘*vallūra*’ is *dry fish*.
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 540), which adds the following notes:—‘*pratudāḥ*’ are the birds that strike with the peak and then eat;—‘*jālapāda*’ is the web-footed bird, *e.g*. the *cāṣa* and the like;—‘*koyaṣṭi*’ is a species of wild birds;—‘*nakhaviṣkira*’ is the bird that scratches out food with its nails;—‘*nimajjya matsyādān*’ are those birds that catch fish by diving under water; *e.g*. the aquatic crow and the like;—‘*sūnā*’ is the *slaughter-house*, and ‘*sauna*’ is that which is got from there;—‘*vallūra*’ is *dry fish*.
 
 It is quoted in *Hemādri* (Śrāddha, p. 583).
 </details>
@@ -89,8 +82,7 @@ web-footed may be eaten.’
 slaughter-house or dry flesh, one should perform the Cāndrāyaṇa.
 
 *Yājñavalkya* (1.172, 174, 175).—(See above,—and also) ‘Chāṣas,
-red-footed birds, meat from the slaughter-house and dry flesh,—on eating
-these; intentionally one should go without food for three days.’
+red-footed birds, meat from the slaughter-house and dry flesh,—on eating these; intentionally one should go without food for three days.’
 </details>
 
 <details><summary>Bühler</summary>

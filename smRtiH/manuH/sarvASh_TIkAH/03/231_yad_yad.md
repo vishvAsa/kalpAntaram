@@ -36,50 +36,30 @@ Another reading is ‘*brahmādyāśca kathāḥ*’—*i.e*., discourses, in or
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Brahmodyāḥ kathāḥ*’—Buhler does not represent Medhātithi quite
-rightly: The explanation that he attributes to him, ‘riddles from the
-Veda’, is not found in Medhātithi at all. Medhātithi’s *first*
-explanation is—‘stories related in the Veda’;—the *second* alternative
-proposed is ‘such Vedic texts as the one contained in 23.9 of the
-Vājasaneya Saṃhitā’;—and the third explanation, ‘discourses, inordinary
-language, on the meaning of Mantras bearing upon Brāhmaṇ’, is offered as
-that of the reading ‘*Brahmodyāḥ kathāḥ*’. It will thus be seen that
-‘riddles from the Veda’ are not found in Medhātithi at all. It is the
-third explanation apparently that has misled Buhler. Hopkins has quoted
-Medhātithi correctly.
+‘*Brahmodyāḥ kathāḥ*’—Buhler does not represent Medhātithi quite rightly: The explanation that he attributes to him, ‘riddles from the Veda’, is not found in Medhātithi at all. Medhātithi’s *first* explanation is—‘stories related in the Veda’;—the *second* alternative proposed is ‘such Vedic texts as the one contained in 23.9 of the Vājasaneya Saṃhitā’;—and the third explanation, ‘discourses, inordinary language, on the meaning of Mantras bearing upon Brāhmaṇ’, is offered as that of the reading ‘*Brahmodyāḥ kathāḥ*’. It will thus be seen that ‘riddles from the Veda’ are not found in Medhātithi at all. It is the third explanation apparently that has misled Buhler. Hopkins has quoted Medhātithi correctly.
 
 This verse is quoted in *Gadādharapaddhati* (Kāla, p. 546);—in
 *Śrāddhakriyākaumudī* (p. 158);—and in *Hemādri* (Śrāddha, p. 1027),
-which adds the following notes:—‘*Brahmodyāḥ*’, stories that are related
-by the Brāhmaṇa, such as accounts of the war between the Gods and the
-Asuras, of the killing of Vṛttra, of Saramā and so forth,—or it may
-refer to such texts as ‘*Kaścidekāki charati* etc.’; ‘*Brahmādyāḥ*’ is
-another reading, which means—‘Those mantras and Arthavāda texts which
-deal with Brahman’; ‘*Kathāḥ*’, conversations in the ordinary language
-should be carried on, in connection with the said subjects;—‘*this is
-liked by the Pitṛs*’—this is *Arthavāda*.
+which adds the following notes:—‘*Brahmodyāḥ*’, stories that are related by the Brāhmaṇa, such as accounts of the war between the Gods and the Asuras, of the killing of Vṛttra, of Saramā and so forth,—or it may refer to such texts as ‘*Kaścidekāki charati* etc.’; ‘*Brahmādyāḥ*’ is another reading, which means—‘Those mantras and Arthavāda texts which deal with Brahman’; ‘*Kathāḥ*’, conversations in the ordinary language should be carried on, in connection with the said subjects;—‘*this is liked by the Pitṛs*’—this is *Arthavāda*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (1.240).—‘Free from anger and without hurry, one shall
-offer such food as may be desired and *pure*—reciting the *Pavitra*
-mantras till complete satisfaction.’
+offer such food as may be desired and *pure*—reciting the *Pavitra* mantras till complete satisfaction.’
 
 *Laghu-Āśvalāyana* (23.68).—‘After the Brāhmaṇas have eaten to their
 heart’s content, he shall pronounce the Gāyatrī.’
 
 *Varūha-purāṇa* (Caturvarga-cintāmaṇi-Śrāddha, p. 1388).—‘The offerer
-having offered food, clean, profuse and carefully prepared,—he should
-politely say —*please fall* *to*.’
+having offered food, clean, profuse and carefully prepared,—he should politely say —*please fall* *to*.’
 
 *Yama* (Parāśaramādhava, p. 423).—‘So long as the food is pure, so long
 as what is desired is offered, and so long as the offerer does not say
 *I give*,—so long do the Pitṛs partake of the food.’
 
 *Sumantu* (Parāśaramādhava, p. 424).—‘Without anger, he shall offer to
-each such dishes as he may relish; they should be fed till they are
-fully satisfied; and he shall not selfishly keep back any food.’
+each such dishes as he may relish; they should be fed till they are fully satisfied; and he shall not selfishly keep back any food.’
 </details>
 
 <details><summary>Bühler</summary>

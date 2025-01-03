@@ -32,8 +32,7 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 573).
 **(verses 4.179-181)  
 **
 
-See Comparative notes for [Verse
-4.179].
+See Comparative notes for [Verse 4.179].
 </details>
 
 <details><summary>Bühler</summary>

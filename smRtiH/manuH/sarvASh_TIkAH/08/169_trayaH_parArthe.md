@@ -94,9 +94,7 @@ Or, the whole of the present verse, as also the next, is meant to be illustrativ
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Kulam*’—‘Judge’ (Kullūka and Govindarāja)—‘undivided family’ (Nārāyaṇa
-and Rāghavānanda);—‘member of a family’ (Nandana, who is misrepresented
-by Hopkins, who wrongly translates ‘Kulīnaḥ’ (?) *as friend* ).
+‘*Kulam*’—‘Judge’ (Kullūka and Govindarāja)—‘undivided family’ (Nārāyaṇa and Rāghavānanda);—‘member of a family’ (Nandana, who is misrepresented by Hopkins, who wrongly translates ‘Kulīnaḥ’ (?) *as friend* ).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -18,9 +18,7 @@ Those among them who do not come, and those who are careful in their dealings wi
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Mūlapraṇihitāḥ*’.—‘Who suspect the old thieves employed by the king’
-(Kullūka and Rāghavānanda);—‘who have been sent by ministers and others
-staying in his kingdom’ (Nārāyaṇa);—‘who have discovered the root,
+‘*Mūlapraṇihitāḥ*’.—‘Who suspect the old thieves employed by the king’ (Kullūka and Rāghavānanda);—‘who have been sent by ministers and others staying in his kingdom’ (Nārāyaṇa);—‘who have discovered the root,
 *i.e*., the reasons of the proceedings of the spies’ (Nandana).
 </details>
 
@@ -29,8 +27,7 @@ staying in his kingdom’ (Nārāyaṇa);—‘who have discovered the root,
 **(verses 9.264-269)  
 **
 
-See Comparative notes for [Verse
-9.264-266].
+See Comparative notes for [Verse 9.264-266].
 </details>
 
 <details><summary>भारुचिः</summary>

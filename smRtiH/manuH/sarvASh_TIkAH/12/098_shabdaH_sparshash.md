@@ -62,9 +62,7 @@ There are several other curious readings, which we do not note, as they are usel
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Prasūtirguṇakarmataḥ*’.—An obscure word, the different readings for
-which disgusted even Medhātithi. For the various explanations see
-Buhler.
+‘*Prasūtirguṇakarmataḥ*’.—An obscure word, the different readings for which disgusted even Medhātithi. For the various explanations see Buhler.
 </details>
 
 <details><summary>भारुचिः</summary>

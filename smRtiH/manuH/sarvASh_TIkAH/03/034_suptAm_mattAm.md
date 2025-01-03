@@ -132,11 +132,9 @@ In the words, ‘*Brāhma*,’ etc., the nominal affix denotes *relation*; and t
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 *Medhātithi* (P. 206, l. 20)—‘*Varṇyate chetihāsādiṣu &c*.’;—*e.g*. the
-case of Kunti, who was married to Pāṇḍu, after she had given birth to
-Karṇa.
+case of Kunti, who was married to Pāṇḍu, after she had given birth to Karṇa.
 
-This verse is quoted in *Smṛtitattva* (II, p. 129);—in *Aparārka* (p.
-91);—and in *Hemādri* (Dāna, p. 685).
+This verse is quoted in *Smṛtitattva* (II, p. 129);—in *Aparārka* (p. 91);—and in *Hemādri* (Dāna, p. 685).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -156,8 +154,7 @@ asleep or unconscious.’
 unconscious, constitutes the Paiśāca.’
 
 *Devala* (Vīramitrodaya-Saṃskāra, p. 858).—‘The carrying away of a girl
-who is asleep, unconscious or mad, or in distress,—is the Paiśāca, the
-eighth form of marriage, based upon want of care.’
+who is asleep, unconscious or mad, or in distress,—is the Paiśāca, the eighth form of marriage, based upon want of care.’
 
 *Hārīta* (Vīramitrodaya-Saṃskāra, p. 858).—‘it is the Paiśāca form when
 the girl is won by the employment of women, drinks, wine, and presents.’

@@ -22,8 +22,7 @@ But the guilt incurred in the receiving of gifts is removed only by the ‘*reno
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 936);—in *Mitākṣarā* (3.35);—and
-in *Prāyaścittaviveka* (p. 404).
+This verse is quoted in *Aparārka* (p. 936);—in *Mitākṣarā* (3.35);—and in *Prāyaścittaviveka* (p. 404).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -31,8 +30,7 @@ in *Prāyaścittaviveka* (p. 404).
 **(verses 10.109-111)  
 **
 
-See Comparative notes for [Verse
-10.109].
+See Comparative notes for [Verse 10.109].
 
 \[See 11.194.\]
 </details>

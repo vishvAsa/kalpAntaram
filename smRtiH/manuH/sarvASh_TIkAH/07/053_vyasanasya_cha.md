@@ -44,9 +44,7 @@ These vices become destructive of virtue, wealth, pleasure and life, even in the
 
 This verse is quoted on *Parāśaramādhava* (Ācāra, p. 414);—and in
 *Vīramitrodaya* (Rājanīti, p. 149), which explains ‘*adhodho vrajati*’
-as ‘falls into hell,’ and adds that hells have been described as located
-in the Nether Regions (that is why they are spoken of as ‘*adhaḥ*,’
-‘down below’).
+as ‘falls into hell,’ and adds that hells have been described as located in the Nether Regions (that is why they are spoken of as ‘*adhaḥ*,’ ‘down below’).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -54,8 +52,7 @@ in the Nether Regions (that is why they are spoken of as ‘*adhaḥ*,’
 **(verses 7.45-53)  
 **
 
-See Comparative notes for [Verse
-7.45](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200709.html#comparative-notes "English translation of verse").
+See Comparative notes for [Verse 7.45](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200709.html#comparative-notes "English translation of verse").
 </details>
 
 <details><summary>भारुचिः</summary>

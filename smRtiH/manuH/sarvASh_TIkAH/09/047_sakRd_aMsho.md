@@ -91,60 +91,36 @@ There is no force in this objection. In the case in question there are two relat
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 490), which adds
-that this rule regarding the betrothal of a girl pertains to cases where
-the bridegroom to whom the girl has been betrothed has no disqualifying
-defects;—in
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 490), which adds that this rule regarding the betrothal of a girl pertains to cases where the bridegroom to whom the girl has been betrothed has no disqualifying defects;—in
 
 *Parāśaramādhava* (Vyavahāra, p. 388), which adds that the
-irrevocability of a partition here spoken of is meant for those cases
-where all doubts regarding its fairness can be set at rest by reasonable
-arguments;—in *Smṛtitattva* (II, p. 145), and again on p. 182, where it
-is added that this irrevocability of partitions is meant for cases where
-the partition has been made by the objector himself;—and in
+irrevocability of a partition here spoken of is meant for those cases where all doubts regarding its fairness can be set at rest by reasonable arguments;—in *Smṛtitattva* (II, p. 145), and again on p. 182, where it is added that this irrevocability of partitions is meant for cases where the partition has been made by the objector himself;—and in
 *Smṛticandrikā* (Saṃskāra, p. 218), which explains the first clause to
-mean that ‘a man obtains his share in a property only once,’ and adds
-that what is said in regard to the ‘girl’ applies only to those cases
-where there is no defect in the bridegroom (to whom the girl has been
-betrothed).
+mean that ‘a man obtains his share in a property only once,’ and adds that what is said in regard to the ‘girl’ applies only to those cases where there is no defect in the bridegroom (to whom the girl has been betrothed).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (5.160).—‘He who, having promised his daughter to one suitor,
-gives her in marriage to another, shall he punished as a thief;—unless
-the first suitor have a blemish.’
+gives her in marriage to another, shall he punished as a thief;—unless the first suitor have a blemish.’
 
 *Yājñavalkya* (1.65).—‘A maiden is given away hut once; having given her
-away, if one takes her hack, he becomes liable to punishment; hut even
-after giving her away, one may take her hack, if a better suitor should
-arrive.’
+away, if one takes her hack, he becomes liable to punishment; hut even after giving her away, one may take her hack, if a better suitor should arrive.’
 
 *Gautama* (Aparārka, p. 94),—‘Even though he may have promised the girl
-to a suitor, one may not give her to him if he happen to he beset with
-vice.’
+to a suitor, one may not give her to him if he happen to he beset with vice.’
 
 *Nārada* (12.28).—(Same as Manu.)
 
-Do. (12.32).—‘When a man, after having made a solemn promise of marrying
-his daughter to a certain suitor, does not deliver her afterwards, he
-shall be punished by the King like a thief, in case the suitor be free
-from defects.’
+Do. (12.32).—‘When a man, after having made a solemn promise of marrying his daughter to a certain suitor, does not deliver her afterwards, he shall be punished by the King like a thief, in case the suitor be free from defects.’
 
-Do. (Aparārka, p. 94).—‘If even after betrothal, some defect is found in
-either the bride or the bridegroom, the betrothal may be cancelled;
-there is no finality in mere betrothal.’
+Do. (Aparārka, p. 94).—‘If even after betrothal, some defect is found in either the bride or the bridegroom, the betrothal may be cancelled; there is no finality in mere betrothal.’
 
 *Kātyāyana* (Do.)—‘If, after betrothal, the bridegroom becomes lost, the
-girl shall wait for three months and then select another man. If a girl
-has been betrothed to one and married to another, she shall be given
-away, even after the performance of the ceremonies, to the person to
-whom she had been previously promised.’
+girl shall wait for three months and then select another man. If a girl has been betrothed to one and married to another, she shall be given away, even after the performance of the ceremonies, to the person to whom she had been previously promised.’
 
 *Vaśiṣṭha* (Do.).—‘If the bridegroom happen to die after the girl has
-been given away with water and verbally,—hut has not gone through the
-ceremonies with mantras,—she remains an unmarried maiden with her
-father.’
+been given away with water and verbally,—hut has not gone through the ceremonies with mantras,—she remains an unmarried maiden with her father.’
 </details>
 
 <details><summary>भारुचिः</summary>

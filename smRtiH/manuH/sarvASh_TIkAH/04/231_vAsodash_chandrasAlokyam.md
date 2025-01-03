@@ -76,20 +76,16 @@ The giving of water, etc., also is found mentioned as bringing all kinds of rewa
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra p. 177);—in *Aparārka*
-(p. 386);—in *Smṛtitattva* (II, p. 364);—in *Hemādri* (Dāna, p.
-152);—and in *Dānakriyākaumudī* (p. 46).
+This verse is quoted in *Parāśaramādhava* (Ācāra p. 177);—in *Aparārka* (p. 386);—in *Smṛtitattva* (II, p. 364);—in *Hemādri* (Dāna, p. 152);—and in *Dānakriyākaumudī* (p. 46).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (92.5.11, 12).—‘By giving away cows one obtains the heavenly
-regions; the giver of a horse obtains the regions of the sun; the giver
-of clothes, the regions of the moon.’
+regions; the giver of a horse obtains the regions of the sun; the giver of clothes, the regions of the moon.’
 
 *Yājñavalkya* (1.204, 206).—‘One should give away along with a fee, a
-milch cow, which has golden horns and silvered hoofs, and is quiet and
-adorned with clothes, and accompanied by a *Kāṃsya* vessel.’
+milch cow, which has golden horns and silvered hoofs, and is quiet and adorned with clothes, and accompanied by a *Kāṃsya* vessel.’
 
 (Do.) (1.210).—(See above.)
 </details>

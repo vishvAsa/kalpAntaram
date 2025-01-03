@@ -24,10 +24,7 @@ This deprecation of Agriculture is meant to eulogise the other occupations of th
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka*, (p. 936), to the effect that even
-when taking to the Vaiśya’s livelihood, the Brāhmaṇa shall avoid
-cultivating land himself;—and in *Parāśaramādhava* (Ācara, p. 426), as
-prohibiting the Brāhmaṇa’s cultivation of land by himself.
+This verse is quoted in *Aparārka*, (p. 936), to the effect that even when taking to the Vaiśya’s livelihood, the Brāhmaṇa shall avoid cultivating land himself;—and in *Parāśaramādhava* (Ācara, p. 426), as prohibiting the Brāhmaṇa’s cultivation of land by himself.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -35,8 +32,7 @@ prohibiting the Brāhmaṇa’s cultivation of land by himself.
 **(verses 10.81-84)  
 **
 
-See Comparative notes for [Verse
-10.81].
+See Comparative notes for [Verse 10.81].
 </details>
 
 <details><summary>Bühler</summary>

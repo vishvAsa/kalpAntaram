@@ -60,39 +60,13 @@ number ‘one.’ And, if what is sanctioned is the exceeding of it by means of 
 
 This verse is quoted by Jīmūtavāhana (Dāyabhāga, p. 209);—and in
 *Madanapārijāta* (p. 143) as providing permissible substitutes for the
-proper ‘wife’;—it explains ‘*avarāḥ*’ (which it reads in place of
-‘*varāḥ*’) as *jaghanyāḥ*, ‘lower’;—in *Saṃskāramayūkha* (p. 98), which
-adds the following notes:—There are three classes of Marriage—(1) for
-Dharma, (2) for offispring and (3) for physical pleasure; that for
-offspring is obligatory, and for this one should have a girl of the same
-caste as himself; and in that for Pleasure, or for avoiding the sin of
-not entering the second life-stage, one may have girls of other castes,
-even a Śūdra girl; in the former also, if no girl of the same caste is
-available, girls of other castes may be taken.
+proper ‘wife’;—it explains ‘*avarāḥ*’ (which it reads in place of ‘*varāḥ*’) as *jaghanyāḥ*, ‘lower’;—in *Saṃskāramayūkha* (p. 98), which adds the following notes:—There are three classes of Marriage—(1) for Dharma, (2) for offispring and (3) for physical pleasure; that for offspring is obligatory, and for this one should have a girl of the same caste as himself; and in that for Pleasure, or for avoiding the sin of not entering the second life-stage, one may have girls of other castes, even a Śūdra girl; in the former also, if no girl of the same caste is available, girls of other castes may be taken.
 
-The first half of the verse is quoted in *Vīramitrodaya* (Saṃskāra, p.
-747), which adds the following explanations:—The term ‘*varṇa*’ stands
-for *caste*;—‘*agre*’ means *the first marriage*;—the term ‘*dvijāti*’
-indicates also persons born of the Śūdra through mixed marriages,
-‘natural’ as well as ‘inverse—‘*praśastā*’ means that she is recommended
-as the first and best alternative for taking a wife for the purposes of
-(1) enjoyment, (2) begetting a son and (3) helping in religious acts
-(these three being ‘*dārakarma*’ the *function of the wife*).
+The first half of the verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 747), which adds the following explanations:—The term ‘*varṇa*’ stands for *caste*;—‘*agre*’ means *the first marriage*;—the term ‘*dvijāti*’ indicates also persons born of the Śūdra through mixed marriages, ‘natural’ as well as ‘inverse—‘*praśastā*’ means that she is recommended as the first and best alternative for taking a wife for the purposes of (1) enjoyment, (2) begetting a son and (3) helping in religious acts (these three being ‘*dārakarma*’ the *function of the wife*).
 
-This is quoted also in *Parāśaramādhava* (Ācāra, p. 493), where we have
-the following notes:—‘*Agre*’ means ‘at the first marriage of the
-Accomplished Student.’;—‘*dārakarmaṇi*’—for the performance of the
-Agnihotra and other rites;—‘*Savarṇā*’—‘she who has the same caste as
-the bridegroom’ is recommended;—*i.e*., the Brāhmaṇī for the Brāhmaṇa,
-the Kṣatriyā for the Kṣatriya and the Vaiśya for the Vaiśya. Having, for
-the sake of religious acts, married a girl of the same caste, if one is
-desirous of ha ving more wives for purposes of physical enjoyment, he
-may marry girls of lower castes (‘*avarāḥ*’) in due order;—and in
+This is quoted also in *Parāśaramādhava* (Ācāra, p. 493), where we have the following notes:—‘*Agre*’ means ‘at the first marriage of the Accomplished Student.’;—‘*dārakarmaṇi*’—for the performance of the Agnihotra and other rites;—‘*Savarṇā*’—‘she who has the same caste as the bridegroom’ is recommended;—*i.e*., the Brāhmaṇī for the Brāhmaṇa, the Kṣatriyā for the Kṣatriya and the Vaiśya for the Vaiśya. Having, for the sake of religious acts, married a girl of the same caste, if one is desirous of ha ving more wives for purposes of physical enjoyment, he may marry girls of lower castes (‘*avarāḥ*’) in due order;—and in
 *Smṛticandrikā* (Saṃskāra, p. 205), which says that the implication of
-the text is that after one has married a girl of the same caste, he may
-marry others of other castes also, but they will be less and less
-desirable in order; this means that for the sake of Dharma one should
-marry a girl of the same caste.
+the text is that after one has married a girl of the same caste, he may marry others of other castes also, but they will be less and less desirable in order; this means that for the sake of Dharma one should marry a girl of the same caste.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -101,48 +75,33 @@ marry a girl of the same caste.
 **
 
 *Baudhāyana* (1. 8. 2-5)—‘For the Brāhmaṇa there are four wives, in the
-order of the castes; for the Kṣatriya, there are three; for the Vaiśya,
-two; for the Śūdra, one.’
+order of the castes; for the Kṣatriya, there are three; for the Vaiśya, two; for the Śūdra, one.’
 
 *Viṣṇu* (21. 1-1).—\[Same as above.\]
 
 *Viṣṇu* (Parāśaramādhava, p. 191).—‘For the twice-born, the Śūdra wife
-can serve no spiritual purpose; the only purpose she can serve is that
-of lust and hence she has been permitted only for one who is blinded by
-lust.’
+can serve no spiritual purpose; the only purpose she can serve is that of lust and hence she has been permitted only for one who is blinded by lust.’
 
 *Yājñavalkya* (1. 57).—‘In the order of ṭhe castes, there are three
-wives for the Brāhmaṇa, two for the Kṣatriya and for tho Vaiśya; for the
-Śūdra, there is only the wife of the same caste.’
+wives for the Brāhmaṇa, two for the Kṣatriya and for tho Vaiśya; for the Śūdra, there is only the wife of the same caste.’
 
 *Vaśiṣṭha* (1. 24-25).—‘In the order of the castes, there are three
-wives for the Brāhmaṇa, two for the Kṣatriya, one each for the Vaiśya
-and the Śūdra;—according to some people, the Shíidra girl may also he
-married, but without mantras.’
+wives for the Brāhmaṇa, two for the Kṣatriya, one each for the Vaiśya and the Śūdra;—according to some people, the Shíidra girl may also he married, but without mantras.’
 
 *Pāraśara* (1.4. 8-1.1).—‘For the Brāhmaṇa, there are three wives, in
-the order of the castes;—two for the Kṣatriya;—one for the Vaiśya;—for
-all, the Śūdra wife also, hut without mantras.’
+the order of the castes;—two for the Kṣatriya;—one for the Vaiśya;—for all, the Śūdra wife also, hut without mantras.’
 
 *Yama* (Vīramitrodaya-Saṃskāra, p. 747,).—‘For all men the first
 alternative is to have a wife of the same caste as oneself.’
 
 *Yama* (Vīramitrodaya-Saṃskāra, p. 748).—‘In the order of the castes,
-the Brāhmaṇa may have four wives; the Kṣatriya, three; the Vaiśya, two;
-the Śūdra, only one, the Śūdra.’
+the Brāhmaṇa may have four wives; the Kṣatriya, three; the Vaiśya, two; the Śūdra, only one, the Śūdra.’
 
 *Paiṭhīnasi* (Vīramitrodaya-Saṃskāra, p. 748).—‘In the event of his not
-obtaining a girl of the same caste as himself, the Brāhmaṇa may beget, a
-son on a Kṣatriya wife, or on a Vaiśya wife, or according to some, on a
-Śūdra wife.’
+obtaining a girl of the same caste as himself, the Brāhmaṇa may beget, a son on a Kṣatriya wife, or on a Vaiśya wife, or according to some, on a Śūdra wife.’
 
 *Nārada* (Vīramitrodaya-Saṃskāra, p. 748).—‘Apart from the Brāhmaṇa
-wife, there are three wives, in the descending order of the castes; for
-the Śūdra girl, there are (apart from the Śūdra husband), three husbands
-in the ascending order of the castes; for the Kṣatriya there are two
-wives, in addition to the one of his own caste; for the Vaiśya only one;
-for the Vaiśya girl there are two husbands and for the Kṣatriya, one
-only—in addition to that of her own caste.’
+wife, there are three wives, in the descending order of the castes; for the Śūdra girl, there are (apart from the Śūdra husband), three husbands in the ascending order of the castes; for the Kṣatriya there are two wives, in addition to the one of his own caste; for the Vaiśya only one; for the Vaiśya girl there are two husbands and for the Kṣatriya, one only—in addition to that of her own caste.’
 </details>
 
 <details><summary>Bühler</summary>

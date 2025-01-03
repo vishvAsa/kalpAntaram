@@ -101,15 +101,9 @@ It is in view of what, is said in the present verse that we have the saying—�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vahiḥ*’—Burnell represents Medhātithi as explaining this term to be
-‘on a river-island and the like.’ This is not right; the word used by
-Medhātithi is ‘*nadīpulinādau*’—which means ‘on the *bank* of rivers and
-such places’.
+‘*Vahiḥ*’—Burnell represents Medhātithi as explaining this term to be ‘on a river-island and the like.’ This is not right; the word used by Medhātithi is ‘*nadīpulinādau*’—which means ‘on the *bank* of rivers and such places’.
 
-This verse is quoted in *Aparārka* (p. 1220) where ‘*vahiḥ*’ is
-explained as ‘outside the village’—and ‘*trikam*’ as ‘the Sāvitrī along
-with the Vyāhṛtis’;—and in *Gadādharapaddhai* (Kālasāra, p. 30), which
-explains ‘*trikam*’ as (1) *Praṇava*. (2) *Vyāhṛti* and (3) *Gāyatrī*.
+This verse is quoted in *Aparārka* (p. 1220) where ‘*vahiḥ*’ is explained as ‘outside the village’—and ‘*trikam*’ as ‘the Sāvitrī along with the Vyāhṛtis’;—and in *Gadādharapaddhai* (Kālasāra, p. 30), which explains ‘*trikam*’ as (1) *Praṇava*. (2) *Vyāhṛti* and (3) *Gāyatrī*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -117,8 +111,7 @@ explains ‘*trikam*’ as (1) *Praṇava*. (2) *Vyāhṛti* and (3) *Gāyatrī*
 **(Verses 78-79)  
 **
 
-See Comparative notes for [Verse
-2.78].
+See Comparative notes for [Verse 2.78].
 </details>
 
 <details><summary>Bühler</summary>

@@ -32,8 +32,7 @@ He shall make the roots of trees his dwelling. In the event of their being not a
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The first half of this verse is quoted in *Parāśaramādhava* (Ācāra, p.
-531).
+The first half of this verse is quoted in *Parāśaramādhava* (Ācāra, p. 531).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

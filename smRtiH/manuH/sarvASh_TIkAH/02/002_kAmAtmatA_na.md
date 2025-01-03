@@ -92,15 +92,9 @@ The opponent, taking the ‘*absorption in desires*’ to mean mere
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Much ingenuity has again been displayed to show that verses 2—5 are a
-‘later interpolation.’ Burnell remarks that it must be so, because ‘in
-the old Vedic religion, all ceremonies and sacrifices were avowedly
-performed in order to gain desired objects of various kinds.’ He
-evidently forgot that what is expounded by Manu is not exactly what the
-writer speaks of as ‘the old Vedic religion.’
+Much ingenuity has again been displayed to show that verses 2—5 are a ‘later interpolation.’ Burnell remarks that it must be so, because ‘in the old Vedic religion, all ceremonies and sacrifices were avowedly performed in order to gain desired objects of various kinds.’ He evidently forgot that what is expounded by Manu is not exactly what the writer speaks of as ‘the old Vedic religion.’
 
-‘*Na praśastā*’—Because leading to new births, and obstructing Final
-Release.
+‘*Na praśastā*’—Because leading to new births, and obstructing Final Release.
 
 *Medhātithi*, (p. 50, 1. 27)—*Viśvajit-nyāya*—see Mīmāṃsā Sūtra
 4.3.15—16.
@@ -109,34 +103,22 @@ Release.
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 [*Bhagavadgītā*,
-3.5](http://www.bhagavad-gita.us/bhagavad-gita-3-5/ "Read English translation with commentaries").—‘Apart
-from action done for sacrifice, all action tends to the bondage of men.’
+3.5](http://www.bhagavad-gita.us/bhagavad-gita-3-5/ "Read English translation with commentaries").—‘Apart from action done for sacrifice, all action tends to the bondage of men.’
 
 [*Bhagavadgītā*,
-5](http://www.bhagavad-gita.us/category/bhagavad-gita-chapter-5/ "Read English translation with commentaries").—‘Renouncing
-the fruit of the act, if one engages himself in it with a concentrated
-mind, he attains eternal peace; doing it without concentration, and
-drawn by desire to the fruit of the act, he becomes bound.’
+5](http://www.bhagavad-gita.us/category/bhagavad-gita-chapter-5/ "Read English translation with commentaries").—‘Renouncing the fruit of the act, if one engages himself in it with a concentrated mind, he attains eternal peace; doing it without concentration, and drawn by desire to the fruit of the act, he becomes bound.’
 
 *Ibid*, 6.27.—‘If one performs an act as a duty, without any regard for
 its fruit, etc.’
 
 *Ibid*, 9.20.—‘Men learned in the three Vedas, drinking Soma, having
-their sins washed off, perform sacrifices and seek to go to heaven;
-having reached the sacred regions of Indra, they enjoy, in heaven,
-pleasures fit for the gods.’
+their sins washed off, perform sacrifices and seek to go to heaven; having reached the sacred regions of Indra, they enjoy, in heaven, pleasures fit for the gods.’
 
 *Sūtasaṃhitā*, 3.4.—‘It is only the unfortunate people who, imbued with
-due faith, betake themselves to acts prescribed as leading to certain
-desirable results; those are extremely fortunate who engage themselves
-only in those daily and occasional acts that are obligatory; for these
-latter liberation is obtained without effort; doing with due faith, as
-they do, every act simply because it is enjoined by the scriptures.’
+due faith, betake themselves to acts prescribed as leading to certain desirable results; those are extremely fortunate who engage themselves only in those daily and occasional acts that are obligatory; for these latter liberation is obtained without effort; doing with due faith, as they do, every act simply because it is enjoined by the scriptures.’
 
 [*Āpastaṃba*, *Dharmasūtra*,
-1.20.1-2](/hinduism/book/apastamba-dharma-sutra/d/doc116252.html "Read English translation by Bühler").—‘One
-should not do his duties with the view to attain worldly ends;—those
-that bring no fruits are conducive to good.’
+1.20.1-2](/hinduism/book/apastamba-dharma-sutra/d/doc116252.html "Read English translation by Bühler").—‘One should not do his duties with the view to attain worldly ends;—those that bring no fruits are conducive to good.’
 
 *Ibid*, 1.21-5.—‘Having fully comprehended the nature of acts, one
 should undertake that which he likes.’

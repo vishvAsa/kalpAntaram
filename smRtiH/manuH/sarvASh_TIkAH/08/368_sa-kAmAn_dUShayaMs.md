@@ -34,13 +34,9 @@ Or, the ‘*defiling*’ meant here may be taken as the *touching of the hand* a
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 403), which adds that this
-applies to the case where the maiden is of a lower caste;—in
+This verse is quoted in *Vivādaratnākara* (p. 403), which adds that this applies to the case where the maiden is of a lower caste;—in
 *Parāśaramādhava* (Vyavahāra, p. 321);—in *Mitākṣarā* (2.288) as
-providing for a case where the finger-defilement occurs in the case of a
-willing maiden. *Bālambhaṭṭī* adds that ‘*tulyaḥ*’ means a man of the
-same caste as the girl;—he is to be fined 200 with a view to prevent
-repetition.
+providing for a case where the finger-defilement occurs in the case of a willing maiden. *Bālambhaṭṭī* adds that ‘*tulyaḥ*’ means a man of the same caste as the girl;—he is to be fined 200 with a view to prevent repetition.
 
 It is quoted in *Vīramitrodaya* (Vyavahāra, 157a).
 </details>
@@ -50,8 +46,7 @@ It is quoted in *Vīramitrodaya* (Vyavahāra, 157a).
 **(verses 8.364-368)  
 **
 
-See Comparative notes for [Verse
-8.364](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201297.html#comparative-notes "English translation of verse").
+See Comparative notes for [Verse 8.364](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201297.html#comparative-notes "English translation of verse").
 </details>
 
 <details><summary>भारुचिः</summary>

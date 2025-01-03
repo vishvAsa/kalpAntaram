@@ -34,11 +34,7 @@ What is meant is that in such cases the girl should be made to choose her own hu
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Saṃskāramayūkha* (p. 104), which says that this
-refers to cases where no defects have been discovered in the
-bride-groom;—in *Saṃskāra-ratnamālā* (p. 503), which has the same
-note;—and in *Smṛticandrikā* (Saṃskāra, p. 218), which says that this
-refers to cases where the bride-groom has no defects.
+This verse is quoted in *Saṃskāramayūkha* (p. 104), which says that this refers to cases where no defects have been discovered in the bride-groom;—in *Saṃskāra-ratnamālā* (p. 503), which has the same note;—and in *Smṛticandrikā* (Saṃskāra, p. 218), which says that this refers to cases where the bride-groom has no defects.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -46,8 +42,7 @@ refers to cases where the bride-groom has no defects.
 **(verses 9.98-100)  
 **
 
-See Comparative notes for [Verse
-9.98].
+See Comparative notes for [Verse 9.98].
 </details>
 
 <details><summary>भारुचिः</summary>

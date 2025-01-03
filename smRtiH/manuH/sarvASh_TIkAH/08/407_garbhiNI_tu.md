@@ -33,22 +33,16 @@ Having mentioned ‘toll’ already, the author has added the term ‘*at a ferr
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 835), which adds that this is an
-exception to the preceding rules;—aṇd in *Vyavahāra-Bālambhaṭṭī* (p.
-957).
+This verse is quoted in *Aparārka* (p. 835), which adds that this is an exception to the preceding rules;—aṇd in *Vyavahāra-Bālambhaṭṭī* (p. 957).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (18.38).—‘The Brāhmaṇa has the right to cross rivers without
-paying toll, and to be conveyed to the other side before others. When
-engaged in trading, if he uses a ferry boat, he shall have to pay no
-toll.’
+paying toll, and to be conveyed to the other side before others. When engaged in trading, if he uses a ferry boat, he shall have to pay no toll.’
 
 *Viṣṇu* (5.132-133).—‘A ferry-man, or a toll-official, who takes a fare
-or toll from a student or an ascetic or a renunciate, or a pregnant
-woman, or one going on pilgrimage,—shall he fined 10 Paṇas,—and he shall
-restore the toll to them.’
+or toll from a student or an ascetic or a renunciate, or a pregnant woman, or one going on pilgrimage,—shall he fined 10 Paṇas,—and he shall restore the toll to them.’
 </details>
 
 <details><summary>भारुचिः</summary>

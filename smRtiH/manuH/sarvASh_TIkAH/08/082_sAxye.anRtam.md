@@ -36,10 +36,7 @@ In the term ‘*ājātīḥ*,’ the initial *ā* is not the indeclinable ‘*ā
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“Dropsy is a disease specially attributed to Varuṇa (see Ṛgveda 7.89.1,
-and the story of Śunaḥśepha, Aitareya Brāhmaṇa 7.15). The fetters of
-Varuṇa are mentioned as the punishment of liars in the Atharva Veda,
-4.16.6.”—Buhler.
+“Dropsy is a disease specially attributed to Varuṇa (see Ṛgveda 7.89.1, and the story of Śunaḥśepha, Aitareya Brāhmaṇa 7.15). The fetters of Varuṇa are mentioned as the punishment of liars in the Atharva Veda, 4.16.6.”—Buhler.
 
 This verse is quoted in *Smṛticandrikā* (Vyavahāra, p. 199);—in
 *Kṛtyakalpataru* (33b), which explains ‘*śatam-ājātīḥ*’ as ‘during a
@@ -51,8 +48,7 @@ hundred lives’;—and in *Vīramitrodaya* (Vyavahāra, 53b).
 **(verses 8.79-86)  
 **
 
-See Comparative notes for [Verse
-8.79](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200984.html#comparative-notes "English translation of verse").
+See Comparative notes for [Verse 8.79](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200984.html#comparative-notes "English translation of verse").
 </details>
 
 <details><summary>भारुचिः</summary>

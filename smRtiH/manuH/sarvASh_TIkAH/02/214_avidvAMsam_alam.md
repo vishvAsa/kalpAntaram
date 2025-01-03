@@ -32,11 +32,7 @@ It should not be thought that the person who has full control over his organs an
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 104) as laying
-down the reason why the young wife of the Teacher should not be touched
-in the feet by the young pupil, the meaning being—‘Because women are
-capable of leading the learned as well as the ignorant man, who may
-yield to to physical desires and other weaknesses’.
+This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 104) as laying down the reason why the young wife of the Teacher should not be touched in the feet by the young pupil, the meaning being—‘Because women are capable of leading the learned as well as the ignorant man, who may yield to to physical desires and other weaknesses’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -44,8 +40,7 @@ yield to to physical desires and other weaknesses’.
 **(verses 213-215)  
 **
 
-See Comparative notes for [Verse
-2.213].
+See Comparative notes for [Verse 2.213].
 </details>
 
 <details><summary>Bühler</summary>

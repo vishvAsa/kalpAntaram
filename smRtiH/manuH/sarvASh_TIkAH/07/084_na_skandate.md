@@ -28,8 +28,7 @@ This is purely commendatory; and should not be taken as actually detracting from
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Chyavate*’—‘Becomes spoilt’ (Medhātithi); Kullūka reads ‘*vyathate*’
-and explains it as ‘dries up’; and Rāghavānanda as ‘causes pain’.
+‘*Chyavate*’—‘Becomes spoilt’ (Medhātithi); Kullūka reads ‘*vyathate*’ and explains it as ‘dries up’; and Rāghavānanda as ‘causes pain’.
 
 This verse is quoted in *Rājanītiratnākara* (p. 14a).
 </details>
@@ -37,12 +36,10 @@ This verse is quoted in *Rājanītiratnākara* (p. 14a).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (30.7).—‘The offering made through the mouth of a Brāhmaṇa,
-which is neither spilt nor causes pain, nor assails him who makes it, is
-far more excellent than the *Agnihotra*.’
+which is neither spilt nor causes pain, nor assails him who makes it, is far more excellent than the *Agnihotra*.’
 
 *Yājñavalkya* (1.315),—‘What is offered into the Brāhmaṇa-fire is an
-oblation that involves no spilling and no pain, and is not tainted by
-expiations.’
+oblation that involves no spilling and no pain, and is not tainted by expiations.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -42,9 +42,7 @@ This verse is quoted in *Nṛsiṃhaprāsada* (Prāyaścitta, 31b);—in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (25.3),—‘Those constantly engaged in breath-suspension, in
-reciting sacred texts, in giving gifts, in offering oblations with fire
-and repeating *mantras*, will undoubtedly, become freed from the guilt
-of crimes.’
+reciting sacred texts, in giving gifts, in offering oblations with fire and repeating *mantras*, will undoubtedly, become freed from the guilt of crimes.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -24,21 +24,13 @@ regions*;—*i.e*., the three regions would not help each other by imparting rai
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 286), which adds
-the following notes:—‘*Duṣyeyuḥ*’—‘men of the lower castes would have
-intercourse with women of the higher ones and thus give birth to
-improperly *mixed-castes* ’; and on this same account ‘all bounds of
-propriety indicated by the scriptures would be broken down.’ It is
-quoted again on p. 293;—and in *Vivādacintāmaṇi* (p. 263), which
-explains ‘*vibhrama*’ as ‘non-infliction’ or ‘wrong infliction’ (of
-punishment).
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 286), which adds the following notes:—‘*Duṣyeyuḥ*’—‘men of the lower castes would have intercourse with women of the higher ones and thus give birth to improperly *mixed-castes* ’; and on this same account ‘all bounds of propriety indicated by the scriptures would be broken down.’ It is quoted again on p. 293;—and in *Vivādacintāmaṇi* (p. 263), which explains ‘*vibhrama*’ as ‘non-infliction’ or ‘wrong infliction’ (of punishment).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Śukranīti* (1.50).—‘The king should make his subjects acquire the habit
-of sticking to their own duty; he himself should stick to his own
-Dharma’
+of sticking to their own duty; he himself should stick to his own Dharma’
 </details>
 
 <details><summary>भारुचिः</summary>

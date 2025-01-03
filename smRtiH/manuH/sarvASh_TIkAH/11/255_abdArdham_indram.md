@@ -30,8 +30,7 @@ The verses referred to are the seven beginning with ‘*Indram mitram varuṇama
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The second half of this verse is quoted in *Mitākṣarā* (3.307) as
-referring to cases of passing urine, semen and such things in water.
+The second half of this verse is quoted in *Mitākṣarā* (3.307) as referring to cases of passing urine, semen and such things in water.
 </details>
 
 <details><summary>भारुचिः</summary>

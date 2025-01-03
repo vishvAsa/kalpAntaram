@@ -50,8 +50,7 @@ This verse is quoted in *Kṛtyakalpataru* (14a).
 **(verses 8.312-313)  
 **
 
-See Comparative notes for [Verse
-8.313].
+See Comparative notes for [Verse 8.313].
 </details>
 
 <details><summary>भारुचिः</summary>

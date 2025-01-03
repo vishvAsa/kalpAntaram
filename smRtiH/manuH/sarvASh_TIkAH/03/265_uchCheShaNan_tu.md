@@ -42,13 +42,9 @@ Our reply to the above is as follows:—If the *Vaiśvadeva* oblation is offered
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Nirṇayasindhu* (p. 331);—in *Gadādharapaddhati*
-(Kāla, p. 490), which explains ‘*Gṛhabali*’ as standing for *Bhūtayajña*
-and implying the entire Vaiśvadeva offering,—as held in *Kalpataru*;—in
+This verse is quoted in *Nirṇayasindhu* (p. 331);—in *Gadādharapaddhati* (Kāla, p. 490), which explains ‘*Gṛhabali*’ as standing for *Bhūtayajña* and implying the entire Vaiśvadeva offering,—as held in *Kalpataru*;—in
 *Saṃskāraratnamālā* (p. 958), which notes that according to Medhātithi
-and Karka the term ‘*bali*’ here stands for the Vaiśvadeva offering; but
-for the Kākabali, according to Divodāsa;—in *Hemādri* (*Kāla*, p. 606),
-which reproduces the entire commentary of Medhātithi—in
+and Karka the term ‘*bali*’ here stands for the Vaiśvadeva offering; but for the Kākabali, according to Divodāsa;—in *Hemādri* (*Kāla*, p. 606), which reproduces the entire commentary of Medhātithi—in
 
 *Puruṣārthacintāmaṇi* (p. 426), which also quotes Medhātithi to the
 effect that ‘*bali*’ stands for the *Vaiśvadeva* offering;—and in
@@ -62,11 +58,7 @@ reproduced *in toto*.
 leavings shall not he washed.’
 
 *Vaśiṣṭha* (11.18-20).—‘Till the end of ṭhe day, the leavings of the
-Śrāddha shall not be removed; as from those flow currents of nectar
-which are drunk by those to whom no water-offerings have been made.—So
-long as the sun has not set, the leavings shall not be washed.—Manu has
-declared that the leavings and the remnants form the share of those who
-have died before the performance of their sacramental rites.’
+Śrāddha shall not be removed; as from those flow currents of nectar which are drunk by those to whom no water-offerings have been made.—So long as the sun has not set, the leavings shall not be washed.—Manu has declared that the leavings and the remnants form the share of those who have died before the performance of their sacramental rites.’
 </details>
 
 <details><summary>Bühler</summary>

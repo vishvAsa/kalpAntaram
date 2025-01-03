@@ -26,24 +26,19 @@ The Violator of the Preceptor’s Bed becomes absolved by repeating the ‘Havi�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.305), which says that this refers
-to cases of *unintentional* offences;—and in *Parāśaramādhava*
-(Prāyaścitta, p. 458).
+This verse is quoted in *Mitākṣarā* (3.305), which says that this refers to cases of *unintentional* offences;—and in *Parāśaramādhava* (Prāyaścitta, p. 458).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (3.304).—‘By reciting the *Sahasraśīrṣā* hymn, the
-violator of the *Guru’s* bed becomes freed from sin; and afterwards a
-milch cow should be given away.’
+violator of the *Guru’s* bed becomes freed from sin; and afterwards a milch cow should be given away.’
 
 *Vaśiṣṭha* (26.7).—‘The violator of the *Guru’s* bed is freed from sin
-if he repeatedly recites the hymn beginning with “*Haviṣpāntam ajaram*,”
-that beginning with “*Na tam* *aṃhaḥ*,” and the *Puruṣa-hymn*.’
+if he repeatedly recites the hymn beginning with “*Haviṣpāntam ajaram*,” that beginning with “*Na tam* *aṃhaḥ*,” and the *Puruṣa-hymn*.’
 
 *Viṣṇu* (55.6).—‘The violator of the *Guru’s* bed becomes free from sin
-by fasting for three days and reciting the *Puruṣa-hymn* and, at the
-same time, offering *Homa*.’
+by fasting for three days and reciting the *Puruṣa-hymn* and, at the same time, offering *Homa*.’
 </details>
 
 <details><summary>भारुचिः</summary>

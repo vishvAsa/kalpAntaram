@@ -60,17 +60,11 @@ Or, the text may be explained in the following manner:—‘He shall not eat to 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 476), which explains
-‘*uddhṛtasneham*’ as refering to ‘*piṇyāka*’ (residue of seeds ground
-for oil) and things of that kind; and ‘*atiprage*’, as ‘before the sun
-long risen’;—the third quarter is quoted in *Mitākṣarā* (on 3. 290);—in
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 476), which explains ‘*uddhṛtasneham*’ as refering to ‘*piṇyāka*’ (residue of seeds ground for oil) and things of that kind; and ‘*atiprage*’, as ‘before the sun long risen’;—the third quarter is quoted in *Mitākṣarā* (on 3. 290);—in
 *Smṛtitattva* (p. 30), as precluding the time of sunset and sunrise, and
 explains
 
-‘*Sauhitya*’ as ‘over-satisfaction ‘satiation’;—and in *Saṃskāramyūkha*
-(p. 71), which remarks that by this the eating of ‘*takra*’ becomes
-wrong; as there is nothing to justify an exception in favour of *takra*;
-it explains ‘*Sauhitya*’ as ‘over-eating’.
+‘*Sauhitya*’ as ‘over-satisfaction ‘satiation’;—and in *Saṃskāramyūkha* (p. 71), which remarks that by this the eating of ‘*takra*’ becomes wrong; as there is nothing to justify an exception in favour of *takra*; it explains ‘*Sauhitya*’ as ‘over-eating’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -85,8 +79,7 @@ out of which the oil has been extracted.’
 being entirely satisfied’
 
 *Yājñavalkya* (1.114).—‘Having said the evening prayers, having offered
-oblation into the fires and having attended upon them, he shall take his
-meals, without being entirely satisfied, and then go to sleep.’
+oblation into the fires and having attended upon them, he shall take his meals, without being entirely satisfied, and then go to sleep.’
 
 *Viṣṇu* (Vīramitrodaya-Āhnika, p. 475).—‘One should never eat
 unwholesome food,—neither too early, etc. (as in Manu).’

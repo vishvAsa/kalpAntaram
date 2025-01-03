@@ -63,21 +63,16 @@ Thus, what the present verse lays down is neither that one shall observe the *Ya
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Yama*’ and ‘*nigama*’ are best taken as explained by Medhātithi;
-though Kullūka and others quote the somewhat artificial distinction made
-by Yājñavalkya (III. 313-314).
+‘*Yama*’ and ‘*nigama*’ are best taken as explained by Medhātithi; though Kullūka and others quote the somewhat artificial distinction made by Yājñavalkya (III. 313-314).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (3.312-313).—‘Celibacy, Compassion, Forgiveness,
-Charitableness, Truthfulness, Straightforwardness, Harmlessness,
-Non-appropriation of other’s property, Sweet disposition and
-Self-control have been declared to be the
+Charitableness, Truthfulness, Straightforwardness, Harmlessness, Non-appropriation of other’s property, Sweet disposition and Self-control have been declared to be the
 
 *Restraints*.—Bathing, Silence, Fasting, Sacrificing, Study, Control of
-the sexual organs, Attendance on the teacher, Cleanliness, Freedom from
-anger and Alertness are the *Observances*.’
+the sexual organs, Attendance on the teacher, Cleanliness, Freedom from anger and Alertness are the *Observances*.’
 
 *Atri* (47).—\[Same as Manu.\]
 </details>

@@ -52,8 +52,7 @@ The sense of all this is tbat just as the good things herein enumerated are acce
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 514) along with
-the preceding verse;—and in *Smṛticandrikā* (Saṃskāra, p. 144).
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 514) along with the preceding verse;—and in *Smṛticandrikā* (Saṃskāra, p. 144).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

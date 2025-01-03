@@ -69,58 +69,15 @@ This rule regarding *additional portions* is meant only for those cases where th
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (2.114), which notes that this
-unequal division pertains to eases where the Father himself is dividing
-his *self-acquired* property among his sons,—no such division being
-permissible regarding ancestral property.
+This verse is quoted in *Mitākṣarā* (2.114), which notes that this unequal division pertains to eases where the Father himself is dividing his *self-acquired* property among his sons,—no such division being permissible regarding ancestral property.
 
-It is quoted in *Madanapārijāta* (p. 645), which supplies the following
-explanation:—The twentieth part of the property going to be divided, as
-also the *best* thing among the articles, should be given to the eldest
-brother; to the second brother, the fortieth part of the estate and also
-an article of the second quality; and to the youngest brother, the
-eightieth part of the estate and a third-rate article; the property that
-remains after this is to be divided equally;—it goes on to add that,
-though this unequal division has been sanctioned by several texts, yet
-it should never be adopted in practice, as it is contrary to popular
-sentiment, and what is against popular sentiment should not be done.
+It is quoted in *Madanapārijāta* (p. 645), which supplies the following explanation:—The twentieth part of the property going to be divided, as also the *best* thing among the articles, should be given to the eldest brother; to the second brother, the fortieth part of the estate and also an article of the second quality; and to the youngest brother, the eightieth part of the estate and a third-rate article; the property that remains after this is to be divided equally;—it goes on to add that, though this unequal division has been sanctioned by several texts, yet it should never be adopted in practice, as it is contrary to popular sentiment, and what is against popular sentiment should not be done.
 
-It is quoted in *Vivādaratnākara* (p. 468), along with the next two
-verses which adds the following notes.—This deduction of special shares
-pertains to cases where the eldest brother is endowed with superior
-qualifications;—the law on this point may be thus summed up: In a case
-where there are several sons born of the same mother, and every one is
-endowed with qualities,—but there is a gradual inferiority in the
-qualities,—then the eldest brother should receive as his special share,
-the twentieth part out of the whole property, as also the best among the
-articles in the property; the second brother is to receive half of that,
+It is quoted in *Vivādaratnākara* (p. 468), along with the next two verses which adds the following notes.—This deduction of special shares pertains to cases where the eldest brother is endowed with superior qualifications;—the law on this point may be thus summed up: In a case where there are several sons born of the same mother, and every one is endowed with qualities,—but there is a gradual inferiority in the qualities,—then the eldest brother should receive as his special share, the twentieth part out of the whole property, as also the best among the articles in the property; the second brother is to receive half of that,
 *i.e*., the fortieth part, and also one article of the second quality;
-and the youngest brother, the eightieth part, and also an article of the
-lowest quality;—when however the eldest and the youngest alone are
-possessed of superior qualities, then the said special shares are to be
-given to these two only, the second brother receiving only his ordinary
-share, the special share prescribed for the *qualified* second
-brother—*i.e*., the fortieth pari of the property,—being equally divided
-among the throe;—in a case where there are several brothers between the
-oldest and the youngest, and many of them are possessed of superior
-qualities, each one of the middle brothers is to receive a fortieth part
-as his special share;—when the eldest brother is possessed of very
-superior qualities, while the others are entirely devoid of qualities,
-he shall take as his special share the best among the articles,—the best
-of every kind of articles, *e.g*., ruby among the gems and so forth,—and
-also one among each kind of cows, buffaloes and other cattle.
+and the youngest brother, the eightieth part, and also an article of the lowest quality;—when however the eldest and the youngest alone are possessed of superior qualities, then the said special shares are to be given to these two only, the second brother receiving only his ordinary share, the special share prescribed for the *qualified* second brother—*i.e*., the fortieth pari of the property,—being equally divided among the throe;—in a case where there are several brothers between the oldest and the youngest, and many of them are possessed of superior qualities, each one of the middle brothers is to receive a fortieth part as his special share;—when the eldest brother is possessed of very superior qualities, while the others are entirely devoid of qualities, he shall take as his special share the best among the articles,—the best of every kind of articles, *e.g*., ruby among the gems and so forth,—and also one among each kind of cows, buffaloes and other cattle.
 
-It is quoted in *Vyavahāramayūkha* (p. 43);—in the *Smṛtitattva* II (p.
-193);—in *Vivādacintāmaṇi* (Calcutta, p. 128), which notes on p. 125
-that this refers to cases where the elder brother is endowed with
-special qualifications, or where he is specially desirous of having the
-extra share;—in *Smṛtisāroddhāra*, (p. 331), which says that this refers
-to the property acquired by the father when he divides it among his sons
-during his own life-time;—and by *Jīmūtavāhana* (Dāyabhāga, p. 64), who
-says that equal partition is to be made after all these ‘special shares’
-have been extracted, as is made clear by verse 116; the special share of
-the eldest brother being the twentieth part of the property along with
-the ‘best article’.
+It is quoted in *Vyavahāramayūkha* (p. 43);—in the *Smṛtitattva* II (p. 193);—in *Vivādacintāmaṇi* (Calcutta, p. 128), which notes on p. 125 that this refers to cases where the elder brother is endowed with special qualifications, or where he is specially desirous of having the extra share;—in *Smṛtisāroddhāra*, (p. 331), which says that this refers to the property acquired by the father when he divides it among his sons during his own life-time;—and by *Jīmūtavāhana* (Dāyabhāga, p. 64), who says that equal partition is to be made after all these ‘special shares’ have been extracted, as is made clear by verse 116; the special share of the eldest brother being the twentieth part of the property along with the ‘best article’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -128,73 +85,36 @@ the ‘best article’.
 **(verses 9.112-113)**
 
 *Gautama* (28.5-8).—‘The additional share of the eldest son consists of
-the twentieth part of the estate, a male and a female (of animals with
-one row of front teeth), a cart yoked with animals with two rows of
-front teeth, and a bull; the additional share of the middlemost consists
-of the one-eyed, old, hornless and tailless animals, if there are
-several of them; the additional share of the youngest consists of the
-sheep, grain, iron-utensils in the house, a house, a cart yoked with
-oxen, and one of each kind of the other animals. The remaining property
-shall be divided equally.’
+the twentieth part of the estate, a male and a female (of animals with one row of front teeth), a cart yoked with animals with two rows of front teeth, and a bull; the additional share of the middlemost consists of the one-eyed, old, hornless and tailless animals, if there are several of them; the additional share of the youngest consists of the sheep, grain, iron-utensils in the house, a house, a cart yoked with oxen, and one of each kind of the other animals. The remaining property shall be divided equally.’
 
 *Baudhāyana* (2-3.4-5).—‘Or the eldest may receive the most excellent
-chattel; for the Veda says “they distinguished the eldest by an
-additional share of the property;” or the eldest may receive in excess,
-one part out of ten; and the other sons shall receive equal shares. The
-additional share of the eldest is a cow, a horse, a goat or a sheep,
-respectively among the four castes.’
+chattel; for the Veda says “they distinguished the eldest by an additional share of the property;” or the eldest may receive in excess, one part out of ten; and the other sons shall receive equal shares. The additional share of the eldest is a cow, a horse, a goat or a sheep, respectively among the four castes.’
 
 *Viṣṇu* (18.37).—‘A best part shall be given to the eldest as his
 additional share.’
 
 *Yājñavalkya* (12.114).—‘If the father makes the partition, he can
-distribute the property among his sons as he pleases; or he shall give
-the superior share to the eldest; or he may give equal shares to all.’
+distribute the property among his sons as he pleases; or he shall give the superior share to the eldest; or he may give equal shares to all.’
 
 *Arthaśāstra* (p. 33).—‘If the father makes the division during his
-life-time, he shall not make any difference in favour of any son; nor
-shall he disinherit any without reason.’
+life-time, he shall not make any difference in favour of any son; nor shall he disinherit any without reason.’
 
 *Nārada* (13.4).—‘Or the father himself may distribute his property
-among his sons, when he is stricken in years,—either allotting a larger
-share to the eldest son, or in any other way that he chooses.’
+among his sons, when he is stricken in years,—either allotting a larger share to the eldest son, or in any other way that he chooses.’
 
-Do. (13.13).—‘To the eldest son, a larger share shall be allotted and a
-lesser share than that to the youngest, the rest shall take equal
-shares; and so shall an unmarried sister.’
+Do. (13.13).—‘To the eldest son, a larger share shall be allotted and a lesser share than that to the youngest, the rest shall take equal shares; and so shall an unmarried sister.’
 
 *Bṛhaspati* (25.7-10).—‘Partition among coparceners is held to be of two
-kinds. One is with attention to priority of birth, the other consists of
-the allotment of equal shares. All sons of the twice-born, begotten on
-wives of the same caste as themselves, shall take equal shares, after
-giving a preferential share to the eldest. He who is the first by birth,
-by sacred knowledge, or by good qualities, shall take a couple of shares
-out of the partible wealth, and the rest shall take equal shares; hut
-the former stands to these latter in the relation of father, as it were.
-When they divide their father’s heritage, the sons shall share alike;
-but he who is distinguished by sacred knowledge and virtue shall obtain
-a larger share than the rest.’
+kinds. One is with attention to priority of birth, the other consists of the allotment of equal shares. All sons of the twice-born, begotten on wives of the same caste as themselves, shall take equal shares, after giving a preferential share to the eldest. He who is the first by birth, by sacred knowledge, or by good qualities, shall take a couple of shares out of the partible wealth, and the rest shall take equal shares; hut the former stands to these latter in the relation of father, as it were. When they divide their father’s heritage, the sons shall share alike; but he who is distinguished by sacred knowledge and virtue shall obtain a larger share than the rest.’
 
 *Hārīta* (Vivādaratnākara, p. 471).—‘When the property is going to be
-divided, they shall make over to the eldest a hull from among the cows
-and hulls, or some superior article, and the household temple; the
-others shall go out of the family-house and build their own houses. If
-they do not build separate houses, then the best house shall go the
-eldest, the next best to the middlemost, and the next to the youngest.’
+divided, they shall make over to the eldest a hull from among the cows and hulls, or some superior article, and the household temple; the others shall go out of the family-house and build their own houses. If they do not build separate houses, then the best house shall go the eldest, the next best to the middlemost, and the next to the youngest.’
 
 *Āpastamba* (2.14.7, 10-15).—‘In some countries, gold, black cattle, or
-black produce of the earth (iron) is the share of the eldest. This
-preference for the eldest son is forbidden by the scriptures; for it is
-declared in the Veda, without making any differentiation among sons,
-that “Manu divided his wealth amongst his sons.” The Veda also lends
-support to the rule in favour of the eldest son—“They distinguish the
-eldest by a larger share of the heritage.” But the answer to this is
-that those versed in the science of interpreting the law declare that a
-mere statement of facts cannot he a rule.’
+black produce of the earth (iron) is the share of the eldest. This preference for the eldest son is forbidden by the scriptures; for it is declared in the Veda, without making any differentiation among sons, that “Manu divided his wealth amongst his sons.” The Veda also lends support to the rule in favour of the eldest son—“They distinguish the eldest by a larger share of the heritage.” But the answer to this is that those versed in the science of interpreting the law declare that a mere statement of facts cannot he a rule.’
 
 *Devala* (Vivādaratnākara, p. 472).—‘One should allot the tenth part of
-the property as the additional share for the eldest who happens to be
-well-behaved.’
+the property as the additional share for the eldest who happens to be well-behaved.’
 </details>
 
 <details><summary>भारुचिः</summary>

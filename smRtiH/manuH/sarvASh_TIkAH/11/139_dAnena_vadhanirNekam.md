@@ -32,21 +32,16 @@ In the absence of any specification, the term ‘*Kṛcchra*’ has been taken t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Prāyaścittaviveka* (pp. 30 and 50) which
-explains the meaning to be that, if the offender is not in a position to
-give the male cow or other things prescribed, be becomes absolved from
-the sin by performing the *Kṛcchra* penance.’
+This verse is quoted in *Prāyaścittaviveka* (pp. 30 and 50) which explains the meaning to be that, if the offender is not in a position to give the male cow or other things prescribed, be becomes absolved from the sin by performing the *Kṛcchra* penance.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (21.26).—‘The *Kṛcchra* penance of twelve days’ duration and
-a gift to the Brāhmaṇa are required for expiating the sin of killing
-each such animal as has bones.’
+a gift to the Brāhmaṇa are required for expiating the sin of killing each such animal as has bones.’
 
 *Yājñavalkya* (3.275).—‘If one is unable to make the gifts necessary for
-the expiating of the sin of killing the elephant and such animals, he
-shall perform the *Kṛcchra* penance for each animal that one kills.’
+the expiating of the sin of killing the elephant and such animals, he shall perform the *Kṛcchra* penance for each animal that one kills.’
 </details>
 
 <details><summary>भारुचिः</summary>

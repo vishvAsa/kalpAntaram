@@ -86,8 +86,7 @@ This fact, already implied by the Injunction of ‘Vedic Study,’ has been reca
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Śāstram*’.—‘Veda’ (Govindarāja and Nārāyaṇa);—‘Veda and Smṛti’
-(Medhātithi),—‘Smṛti’ (Kullūka).
+‘*Śāstram*’.—‘Veda’ (Govindarāja and Nārāyaṇa);—‘Veda and Smṛti’ (Medhātithi),—‘Smṛti’ (Kullūka).
 </details>
 
 <details><summary>भारुचिः</summary>

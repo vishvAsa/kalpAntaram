@@ -28,27 +28,18 @@ If at the stated time he should fail to obtain food, he shall not be ‘*sorry*,
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Mātrā*’—‘Implements, vessels, staff and so forth’ (Medhātithi,
-Govindarāja and Kullūka);—‘portion, mouthful’ (Nārāyaṇa and Nandana).
+‘*Mātrā*’—‘Implements, vessels, staff and so forth’ (Medhātithi, Govindarāja and Kullūka);—‘portion, mouthful’ (Nārāyaṇa and Nandana).
 
-This verse is quoted in *Aparārka*, (p. 963), which explains ‘*mātrā*’
-as ‘*upakaraṇadravyam*, accessories’;—and in *Parāśaramādhava* (Ācāra,
-p. 563), which explains ‘*mātrā*’ etymologically as ‘*mīyante iti*’, as
-meaning ‘objects’; since he is free from attachment to all objects,
-therefore he should be neither glad at getting them nor sorry at not
-getting them.
+This verse is quoted in *Aparārka*, (p. 963), which explains ‘*mātrā*’ as ‘*upakaraṇadravyam*, accessories’;—and in *Parāśaramādhava* (Ācāra, p. 563), which explains ‘*mātrā*’ etymologically as ‘*mīyante iti*’, as meaning ‘objects’; since he is free from attachment to all objects, therefore he should be neither glad at getting them nor sorry at not getting them.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (12.278.10).—‘He shall have only as much as would sustain
-his life, and should not care for the obtaining of vessels; he should
-not be aggrieved when ho fails to obtain things, nor should he exult at
-obtaining them.’
+his life, and should not care for the obtaining of vessels; he should not be aggrieved when ho fails to obtain things, nor should he exult at obtaining them.’
 
 *Vaśiṣṭha* (10-22).—‘He should not be dejected when he obtains nothing,
-nor glad when he receives something. He should seek only as much as will
-sustain life, without caring for property.’
+nor glad when he receives something. He should seek only as much as will sustain life, without caring for property.’
 
 *Viṣṇu* (96.4).—‘If he does not get alms, he must not be sorry.’
 </details>

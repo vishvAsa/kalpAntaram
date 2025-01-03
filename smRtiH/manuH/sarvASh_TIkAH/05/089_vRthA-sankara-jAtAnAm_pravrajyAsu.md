@@ -176,21 +176,7 @@ The prohibiting of ‘water-offerings’ should be taken as applicable to all ki
 
 (Verse 89 of others.)
 
-This verse is quoted in *Aparārka* (p. 877);—in *Madanapārijāta* (p.
-406), which adds the following notes:—‘*Vṛthājātāḥ*’ are those who do
-not perform the ‘Five Great Sacrifices’;—‘*Saṅkarajātāḥ*’ are those born
-of castes mixed in the reverse order;—in *Smṛtisāroddhāra* (p. 217),
-which reads ‘*nivāpo na vidhīyate*’ for the last foot and explains
-‘*nivāpaḥ*’ as *Śrāddha-Tarpaṇa*’,—in *Śuddhikaumudī*, (p. 80), which
-explains ‘*Vṛthāsaṅkarajāta*’ as born of a lower caste father and higher
-caste mother;—and in *Hāralatā* (p. 202), which has the same explanation
-and adds that such persons are precluded from all religious acts; it
-adds the following remarks—Those born of higher caste father and lower
-caste mothers are not called ‘*Vṛthāsaṅkarajāta*’, as these persons are
-permitted to perform all religious acts to which their mother’s caste is
-entitled,—‘*ātmatyāgin*’ are those who have committed suicide by hanging
-or poison or some such means, or those who have renounced the duties of
-their caste.
+This verse is quoted in *Aparārka* (p. 877);—in *Madanapārijāta* (p. 406), which adds the following notes:—‘*Vṛthājātāḥ*’ are those who do not perform the ‘Five Great Sacrifices’;—‘*Saṅkarajātāḥ*’ are those born of castes mixed in the reverse order;—in *Smṛtisāroddhāra* (p. 217), which reads ‘*nivāpo na vidhīyate*’ for the last foot and explains ‘*nivāpaḥ*’ as *Śrāddha-Tarpaṇa*’,—in *Śuddhikaumudī*, (p. 80), which explains ‘*Vṛthāsaṅkarajāta*’ as born of a lower caste father and higher caste mother;—and in *Hāralatā* (p. 202), which has the same explanation and adds that such persons are precluded from all religious acts; it adds the following remarks—Those born of higher caste father and lower caste mothers are not called ‘*Vṛthāsaṅkarajāta*’, as these persons are permitted to perform all religious acts to which their mother’s caste is entitled,—‘*ātmatyāgin*’ are those who have committed suicide by hanging or poison or some such means, or those who have renounced the duties of their caste.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -201,30 +187,22 @@ their caste.
 offerings of water.’
 
 *Yājñavalkya* (3.6).—‘Those who have recourse to heretics, thieves,
-women who have killed their husbands, loose women, and women drinking
-wine, and women killing themselves, do not partake of impurity or of
-water-offerings.’
+women who have killed their husbands, loose women, and women drinking wine, and women killing themselves, do not partake of impurity or of water-offerings.’
 
 *Vṛddha-Manu* (Aparārka, p. 876).—‘Eunuchs and others should not make
-water-offerings, nor thieves and apostates, nor women who injure their
-embryo and husband, or drink wine.’
+water-offerings, nor thieves and apostates, nor women who injure their embryo and husband, or drink wine.’
 
 *Vṛddha-Yājñavalkya* (Do.).—‘Persons killed by lightning, bulls, kings,
-Brāhmaṇas, water, horned animals, tusked animals or fire, persons born
-in vain, the eunuch, and the religious student are not deserving of
-water-offerings.’
+Brāhmaṇas, water, horned animals, tusked animals or fire, persons born in vain, the eunuch, and the religious student are not deserving of water-offerings.’
 
 *Āpastamba* (Do., p. 877).—‘One who kills himself by means of fire,
-water and such things,—for him there is no impurity; nor should water be
-offered to him.’
+water and such things,—for him there is no impurity; nor should water be offered to him.’
 
 *Gautama* (Do.).—‘For those who intentionally kill themselves by
-starvation, or weapons, or fire or poison, or water (there shall be no
-offering).’
+starvation, or weapons, or fire or poison, or water (there shall be no offering).’
 
 *Aṅgiras* (Do.).—‘If one is killed, through carelessness, by fire, water
-and such things, for him impurity shall be observed and water-offerings
-made.’
+and such things, for him impurity shall be observed and water-offerings made.’
 </details>
 
 <details><summary>Bühler</summary>

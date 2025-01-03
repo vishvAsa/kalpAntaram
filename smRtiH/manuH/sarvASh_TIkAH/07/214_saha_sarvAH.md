@@ -36,9 +36,7 @@ How this shall be done is explained in the next verse.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 413), which
-explains ‘*Saṃyuktān*’ as ‘arisen together’,—‘*viyuktān*’, as ‘arisen
-separately,’ and ‘*nayet*’ as ‘should employ.’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 413), which explains ‘*Saṃyuktān*’ as ‘arisen together’,—‘*viyuktān*’, as ‘arisen separately,’ and ‘*nayet*’ as ‘should employ.’
 </details>
 
 <details><summary>भारुचिः</summary>

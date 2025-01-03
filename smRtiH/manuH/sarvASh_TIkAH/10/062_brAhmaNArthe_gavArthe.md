@@ -35,20 +35,16 @@ Or, ‘*perfection*’ may stand for the *attaining of heaven*.—(62)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 119):—and in *Nṛsiṃhaprasāda*
-(Prāyaścitta 7b.)
+This verse is quoted in *Aparārka* (p. 119):—and in *Nṛsiṃhaprasāda* (Prāyaścitta 7b.)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (13.48.34-35).—‘Rendering help to cows and Brāhmaṇas, and
-practising sympathy, mercy, truthfulness, forgiveness and protecting
-others even by one’s own body,—these are the means of success for
-outcasts.’
+practising sympathy, mercy, truthfulness, forgiveness and protecting others even by one’s own body,—these are the means of success for outcasts.’
 
 *Viṣṇu* (16.18).—‘Giving up life, regardless of any reward, in order to
-save a Brāhmaṇa, or a cow, or for the sake of a woman or a child,—may
-confer heavenly bliss even upon members of the base castes.’
+save a Brāhmaṇa, or a cow, or for the sake of a woman or a child,—may confer heavenly bliss even upon members of the base castes.’
 </details>
 
 <details><summary>भारुचिः</summary>

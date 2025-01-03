@@ -26,10 +26,7 @@ That place is said to be ‘*hallowed by the cows*’ by which they pass to the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vipreṣu satyam uktvā*.’—‘Having truly promised to the Brāhmaṇas that
-he would never again accept an improper gift’ (Kullūka);—‘having told
-the truth to the Brāhmaṇas regarding his offence and the consequent
-penance’ (Nārāyaṇa and Nandana).
+‘*Vipreṣu satyam uktvā*.’—‘Having truly promised to the Brāhmaṇas that he would never again accept an improper gift’ (Kullūka);—‘having told the truth to the Brāhmaṇas regarding his offence and the consequent penance’ (Nārāyaṇa and Nandana).
 
 This verse is quoted in *Smṛtittava* (p. 473).
 </details>
@@ -39,8 +36,7 @@ This verse is quoted in *Smṛtittava* (p. 473).
 **(verses 11.195-196)  
 **
 
-See Comparative notes for [Verse
-11.195].
+See Comparative notes for [Verse 11.195].
 </details>
 
 <details><summary>भारुचिः</summary>

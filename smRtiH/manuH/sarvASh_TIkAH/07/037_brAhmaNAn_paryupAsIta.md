@@ -38,12 +38,9 @@ The King shall wait upon Brāhmaṇas thus qualified; and shall act up to their 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Viduṣaḥ*’—‘Those who know the meaning of the Vedas’
-(Medhātithi);—‘learned in the Sciences of Polity and the like’
-(Kullūka).
+‘*Viduṣaḥ*’—‘Those who know the meaning of the Vedas’ (Medhātithi);—‘learned in the Sciences of Polity and the like’ (Kullūka).
 
-This verse is quoted, along with verses 38 to 42, in *Rājanītiratnākara*
-(p. 56).
+This verse is quoted, along with verses 38 to 42, in *Rājanītiratnākara* (p. 56).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -52,11 +49,7 @@ This verse is quoted, along with verses 38 to 42, in *Rājanītiratnākara*
 the Brāhmaṇas.’
 
 *Arthaśāstra* (p. 10).—‘He shall fix upon the Teachers and the Ministers
-as checks upon himself; as these would save him from improper positions
-and would regulate his activities by indicating the passage of time by
-means of shadows or time-sticks. Kingship is dependent upon assistant; a
-chariot never moves on a single wheel; therefore the king shall appoint
-ministers and listen to their opinions.’
+as checks upon himself; as these would save him from improper positions and would regulate his activities by indicating the passage of time by means of shadows or time-sticks. Kingship is dependent upon assistant; a chariot never moves on a single wheel; therefore the king shall appoint ministers and listen to their opinions.’
 </details>
 
 <details><summary>भारुचिः</summary>

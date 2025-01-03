@@ -40,35 +40,20 @@ This however is not right; as it would lie in direct contravention to the direct
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 438) as
-laying down the *Avakīrṇivrata* (actually prescribed in 11.118 in
-connection with the loss of chastity on the part of the Student) as
-applicable to other omissions also;—in *Vīramitrodaya* (Saṃskāra p.
-485), in support of the view that the Begging of Alms is not optional,
-but compulsory, since the present verse prescribes an expiation for its
-omission, which clearly implies that the omission is sinful;—in
+This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 438) as laying down the *Avakīrṇivrata* (actually prescribed in 11.118 in connection with the loss of chastity on the part of the Student) as applicable to other omissions also;—in *Vīramitrodaya* (Saṃskāra p. 485), in support of the view that the Begging of Alms is not optional, but compulsory, since the present verse prescribes an expiation for its omission, which clearly implies that the omission is sinful;—in
 *Vidhānapārijāta* (p. 498) to the effect that the omission of Begging
-alms involves sin; and again on page 500, where it is explained that the
-expiation here prescribed is to be performed in the event of repeated
-omissions;—and in *Mitākṣarā* (p. 1345, on 3. 281), where it is
-explained as laying down an expiation for those cases where the duty of
-‘fire-tending’ is omitted without any such extenuating circumstance as
-being occupied with some other duty.
+alms involves sin; and again on page 500, where it is explained that the expiation here prescribed is to be performed in the event of repeated omissions;—and in *Mitākṣarā* (p. 1345, on 3. 281), where it is explained as laying down an expiation for those cases where the duty of ‘fire-tending’ is omitted without any such extenuating circumstance as being occupied with some other duty.
 
 *Nirṇayosindhu* (p. 190) quotes it as laying down the expiatory rites
 due on the omission of the duties laid down for the Student.
 
-It is quoted in *Aparārka* (p. 1142) as laying down the expiation for
-omitting the said duties, without sufficient reason;—in *Smṛticandrikā*
-(Saṃskāra, p. 111) to the effect that alms-begging is an obligatory
-duty;—and in *Saṃskāraratnamālā* (p. 357).
+It is quoted in *Aparārka* (p. 1142) as laying down the expiation for omitting the said duties, without sufficient reason;—in *Smṛticandrikā* (Saṃskāra, p. 111) to the effect that alms-begging is an obligatory duty;—and in *Saṃskāraratnamālā* (p. 357).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (1.2.5).—‘There is sin in omitting the alms-begging, sin in
-the non-kindling of fire; one who omits these for seven days should
-perform the *Avakīrṇi-vrata*.’
+the non-kindling of fire; one who omits these for seven days should perform the *Avakīrṇi-vrata*.’
 
 *Viṣṇu* (28.52)—(reproduces Manu’s words).
 </details>

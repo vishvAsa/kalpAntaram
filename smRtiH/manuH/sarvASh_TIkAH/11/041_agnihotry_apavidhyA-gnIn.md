@@ -29,14 +29,9 @@ The addition of the qualifying team ‘*wilfully*’ indicates that when the neg
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vīra*’—‘Son’ (Govindarāja, Kullūka, Nārāyaṇa and Rāghavānanda);—‘a
-Kṣatriya’ (Nandana);—‘a deity’ (suggested by Rāghavānanda).
+‘*Vīra*’—‘Son’ (Govindarāja, Kullūka, Nārāyaṇa and Rāghavānanda);—‘a Kṣatriya’ (Nandana);—‘a deity’ (suggested by Rāghavānanda).
 
-This verse is quoted in *Aparārka* (p. 1154), which adds the following
-notes:—The construction is ‘*māsamagnīn apavidhya*’;—‘*vīra*’ is the
-sacrificer;—if the omission lasts longer than a month, the man should
-perform the ‘Three monthly Goghna expiation’;—in *Vidhānapārijāta* II
-(p. 115);—in *Parāśaramādhava* (Prāyaścitta p. 425);—and in
+This verse is quoted in *Aparārka* (p. 1154), which adds the following notes:—The construction is ‘*māsamagnīn apavidhya*’;—‘*vīra*’ is the sacrificer;—if the omission lasts longer than a month, the man should perform the ‘Three monthly Goghna expiation’;—in *Vidhānapārijāta* II (p. 115);—in *Parāśaramādhava* (Prāyaścitta p. 425);—and in
 *Prāyaścittaviveka* (p. 391), which explains ‘*apavidhya*’ as
 ‘abandoning’,—‘*vīrahatyā*’ as ‘murdering the sacrificer’.
 </details>
@@ -44,27 +39,20 @@ perform the ‘Three monthly Goghna expiation’;—in *Vidhānapārijāta* II
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (22.34).—‘The penance of abstaining from sexual intercourse
-for one year shall be performed by him who extinguishes the sacred
-fires, who neglects the daily recitation of the Veda or who has been
-guilty of a minor offence.’
+for one year shall be performed by him who extinguishes the sacred fires, who neglects the daily recitation of the Veda or who has been guilty of a minor offence.’
 
 *Vaśiṣṭha* (1.18).—‘One who extinguishes the sacred fires, or who
-forgets the Veda through neglect of the daily recitation, is a sinful
-man.’
+forgets the Veda through neglect of the daily recitation, is a sinful man.’
 
 Do. (21-27).—‘He who extinguishes the sacred fires shall perform the
 *Kṛcchra* penance of twelve days, and shall cause them to he kindled
 again.’
 
 *Viṣṇu* (54-13).—‘One who forgets the Vedic texts be has studied, or who
-forsakes the sacred fires, must subsist on alms for one year, bathing
-three times, sleeping on the ground and eating only one meal a day.’
+forsakes the sacred fires, must subsist on alms for one year, bathing three times, sleeping on the ground and eating only one meal a day.’
 
 *Hārīta* (Aparārka, p. 1154).—‘If the sacred fires have remained
-extinguished for a year, one should perform the *Cāndrāyaṇa* penance and
-kindle them again; if for two years, he should perforin the *Somāyana*
-and the *Cāndrāyaṇa*; if for three years, he shall repeat the *Kṛcchra*
-perance for a year and then kindle the fires again.’
+extinguished for a year, one should perform the *Cāndrāyaṇa* penance and kindle them again; if for two years, he should perforin the *Somāyana* and the *Cāndrāyaṇa*; if for three years, he shall repeat the *Kṛcchra* perance for a year and then kindle the fires again.’
 
 *Śaṅkha* (Do.).—‘One who has neglected the fires shall perform the
 *Kṛcchra* for one year and also give a cow.’

@@ -20,9 +20,7 @@ The text states the evil results following from the illiterate man accepting the
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 221);—in *Hemādri* (Dāna,
-p. 60);—in *Dānamayūkha* (p. 6);—and in *Prāyaścittaviveka* (p. 405),
-which says that this prohibition refers to persons ignorant of
+This verse is quoted in *Madanapārijāta* (p. 221);—in *Hemādri* (Dāna, p. 60);—in *Dānamayūkha* (p. 6);—and in *Prāyaścittaviveka* (p. 405), which says that this prohibition refers to persons ignorant of
 *mantras*.
 </details>
 
@@ -32,15 +30,10 @@ which says that this prohibition refers to persons ignorant of
 cloth, or land or sesamum, becomes reduced to ashes, like wood.’
 
 *Yājñavalkya* (1.201-202).—‘Cows, land and sesamum, should be
-respectfully offered by the wise man who desires his own welfare to a
-proper recipient and never to an improper person; the latter accepting
-the gift, drops the giver downwards.’
+respectfully offered by the wise man who desires his own welfare to a proper recipient and never to an improper person; the latter accepting the gift, drops the giver downwards.’
 
 *Bṛhad-Yama* (58).—‘Just as when milk, curd, butter and honey placed in
-an unbaked vessel becomes destroyed through the weakness of the vessel,
-and the vessel also becomes destroyed, in the same manner, when an
-illiterate person accepts the gift of cows or gold or clothes or food or
-land or sesamum, he becomes reduced to ashes like wood.’
+an unbaked vessel becomes destroyed through the weakness of the vessel, and the vessel also becomes destroyed, in the same manner, when an illiterate person accepts the gift of cows or gold or clothes or food or land or sesamum, he becomes reduced to ashes like wood.’
 </details>
 
 <details><summary>Bühler</summary>

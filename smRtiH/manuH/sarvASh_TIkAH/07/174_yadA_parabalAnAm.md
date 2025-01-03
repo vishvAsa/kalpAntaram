@@ -28,9 +28,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 328).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇudharmottara* (Vīramitrodaya-Rājanīti, p. 328).—‘When the king is
-attacked by a stronger enemy who refuses to make peace, he shall have
-recourse to *seeking shelter*, which is the lowest of the methods. When
-he finds himself devoid of all power, he should seek shelter.’
+attacked by a stronger enemy who refuses to make peace, he shall have recourse to *seeking shelter*, which is the lowest of the methods. When he finds himself devoid of all power, he should seek shelter.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -55,9 +55,7 @@ The particle ‘*vā*’ shows that all the offerings mentioned are to be regard
 *Kūṣmaṇḍaiḥ*’—*i.e* ., Vājasaneya Saṃhitā, 20.14-16, or *Taittirīya
 Āraṇyaka*, 10.3-5.
 
-This verse is quoted in *Aparārka* (p. 682), which adds that ‘*uditi*’
-refers to the opening word of the mantra ‘*Uduttamamvaruṇa pāśamasmat*
-&c.’ (Ṛgveda, 1.24.15);—in Parāśaramādhava (Prāyaścitta, p. 390);—in
+This verse is quoted in *Aparārka* (p. 682), which adds that ‘*uditi*’ refers to the opening word of the mantra ‘*Uduttamamvaruṇa pāśamasmat* &c.’ (Ṛgveda, 1.24.15);—in Parāśaramādhava (Prāyaścitta, p. 390);—in
 *Smṛticandrikā* (Vyavahāra, p. 207);—and in *Kṛtyakalpataru* (38b).
 </details>
 
@@ -66,8 +64,7 @@ refers to the opening word of the mantra ‘*Uduttamamvaruṇa pāśamasmat*
 **(verses 8.105-106)  
 **
 
-See Comparative notes for [Verse
-8.105].
+See Comparative notes for [Verse 8.105].
 </details>
 
 <details><summary>भारुचिः</summary>

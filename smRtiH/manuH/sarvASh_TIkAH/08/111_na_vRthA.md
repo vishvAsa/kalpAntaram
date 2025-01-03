@@ -28,8 +28,7 @@ The gravity of the sin of ‘false swearing’ is dependent upon the nature of t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vṛthā*’—‘False’ (Medhātithi, Nārāyaṇa and Nandana);—‘needlessly, in
-small matters’ (Rāghavānanda).
+‘*Vṛthā*’—‘False’ (Medhātithi, Nārāyaṇa and Nandana);—‘needlessly, in small matters’ (Rāghavānanda).
 
 This verse is quoted in *Smṛtitattva* (II, p. 229),—in
 *Vyavahāra-Bālambhaṭṭī* (p.406);—and in *Vīramitrodaya* (Vyavāhara,
@@ -39,11 +38,7 @@ This verse is quoted in *Smṛtitattva* (II, p. 229),—in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (1.257, 258).—‘Where no one declares himself ready to undergo
-punishment, an ordeal cannot take place. An ordeal shall be administered
-to litigants when there is reason for it, not otherwise. Therefore an
-intelligent, virtuous, righteous and wise king (or judge) should abstain
-from administering any one of the five ordeals, unless both parties
-consent to it.’
+punishment, an ordeal cannot take place. An ordeal shall be administered to litigants when there is reason for it, not otherwise. Therefore an intelligent, virtuous, righteous and wise king (or judge) should abstain from administering any one of the five ordeals, unless both parties consent to it.’
 </details>
 
 <details><summary>भारुचिः</summary>

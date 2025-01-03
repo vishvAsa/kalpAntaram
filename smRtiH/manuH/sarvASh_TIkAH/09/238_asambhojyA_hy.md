@@ -50,14 +50,9 @@ If the muling is ‘*asampāṭhyavigarhitāḥ*’—the compound would be ‘*
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 635), which adds the
-following notes:—‘*Asambhojyāḥ*’, *i.e*., people should not join with
-them in any convivial gatherings;—‘*asampāṭhyāḥ*’, they are unfit for
-teaching;—‘*asamyājyāḥ*’, unfit for sacrificing;—‘*avivāhinaḥ*’, not
-entitled to marry;—in *Vyavahāra-Bālambhaṭṭī* (p. 116);—and in
+This verse is quoted in *Vivādaratnākara* (p. 635), which adds the following notes:—‘*Asambhojyāḥ*’, *i.e*., people should not join with them in any convivial gatherings;—‘*asampāṭhyāḥ*’, they are unfit for teaching;—‘*asamyājyāḥ*’, unfit for sacrificing;—‘*avivāhinaḥ*’, not entitled to marry;—in *Vyavahāra-Bālambhaṭṭī* (p. 116);—and in
 *Prāyaścittaviveka* (p. 37), to the effect that one who has committed a
-‘heinous’ crime is not entitled to any of the acts to which the
-twice-born are entitled.
+‘heinous’ crime is not entitled to any of the acts to which the twice-born are entitled.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -65,8 +60,7 @@ twice-born are entitled.
 **(verses 9.235-242)  
 **
 
-See Comparative notes for [Verse
-9.235].
+See Comparative notes for [Verse 9.235].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -36,11 +36,7 @@ Since the present text speaks of the ‘fresh jar’ and the foregoing one speak
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.296), to the effect that the
-aforesaid offering should be made after the offenders have taken a bath
-in a sacred tank;—in *Nirṇayasindhu* (pp. 402 and 409);—in *Smṛtitattva*
-(p. 472);—and in *Madanapārijāta* (p. 966), which explains ‘*prāsyeyuḥ*’
-as ‘should throw’.
+This verse is quoted in *Mitākṣarā* (3.296), to the effect that the aforesaid offering should be made after the offenders have taken a bath in a sacred tank;—in *Nirṇayasindhu* (pp. 402 and 409);—in *Smṛtitattva* (p. 472);—and in *Madanapārijāta* (p. 966), which explains ‘*prāsyeyuḥ*’ as ‘should throw’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -48,25 +44,15 @@ as ‘should throw’.
 **(verses 11.186-187)**
 
 *Gautama* (20.10-14).—‘But if an outcast has been purified by penances,
-his kinsmen shall fill a golden vessel with water from a very holy lake
-or river, and make him bathe in that water. Then they shall give him
-that vessel, and he, after taking it, shall recite the following
-text—“Cleansed is the sky, etc.” Let him offer clarified butter reciting
-the sacred texts. Let him then present gold or a cow to a Brāhmaṇa, and
-also to his teacher.’
+his kinsmen shall fill a golden vessel with water from a very holy lake or river, and make him bathe in that water. Then they shall give him that vessel, and he, after taking it, shall recite the following text—“Cleansed is the sky, etc.” Let him offer clarified butter reciting the sacred texts. Let him then present gold or a cow to a Brāhmaṇa, and also to his teacher.’
 
 *Baudhāyana* (2.1.36).—(See above, under 182.)
 
 *Yājñavalkya* (3.295).—‘When he returns after having performed the
-requisite penances, they shall pour a fresh jarful of water; after that
-they shall not despise him, and they shall associate with him in all
-matters.’
+requisite penances, they shall pour a fresh jarful of water; after that they shall not despise him, and they shall associate with him in all matters.’
 
 *Vaśiṣṭha* (15.17-20).—‘Outcasts who have performed the prescribed
-penance may be re-admitted. Those who strike their teacher, mother or
-father may be re-admitted in the following manner: Having filled a
-golden or an earthen vessel with water from a sacred lake or river, they
-pour it over him reciting three sacred texts.’
+penance may be re-admitted. Those who strike their teacher, mother or father may be re-admitted in the following manner: Having filled a golden or an earthen vessel with water from a sacred lake or river, they pour it over him reciting three sacred texts.’
 </details>
 
 <details><summary>Bühler</summary>

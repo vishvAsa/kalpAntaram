@@ -39,15 +39,9 @@ Hence the ‘preferential share’ laid down for the son born of the eldest wife
 **(verses 9.122-123)  
 **
 
-These verses are quoted in *Vivādaratnākara* (p. 473), which adds the
-following explanation: The question here raised pertains to the case
-where there are several sons born of several mothers belonging to the
+These verses are quoted in *Vivādaratnākara* (p. 473), which adds the following explanation: The question here raised pertains to the case where there are several sons born of several mothers belonging to the
 *same caste* as the father; the term ‘*pūrvajaḥ*’ (in verse 123) stands
-for the *younger son born of the senior wife*, as is clear from the
-latter half of the verse; which means that the next best bullocks—those
-not the very best—shall belong to those brothers who are ‘junior’ *by
-reason of the junior position of their mothers*; *i.e*., whose mothers
-are junior to the mother of the aforesaid
+for the *younger son born of the senior wife*, as is clear from the latter half of the verse; which means that the next best bullocks—those not the very best—shall belong to those brothers who are ‘junior’ *by reason of the junior position of their mothers*; *i.e*., whose mothers are junior to the mother of the aforesaid
 
 brother;—and in *Vyavahāra-Bālambhaṭṭī* (p. 461).
 </details>
@@ -58,22 +52,13 @@ brother;—and in *Vyavahāra-Bālambhaṭṭī* (p. 461).
 **
 
 *Gautama* (28.14-17).—‘If a man has several wives, the additional share
-of the eldest son is one bull;—but if the eldest son also happen to be
-born of the first-married wife, his additional share shall consist of
-fifteen cows and one hull. The oldest son born of a later-married wife
-shall share the estate equally with his younger brothers born of the
-senior wife. Or the special shares shall be adjusted in each class of
-sons, according to their mothers.’
+of the eldest son is one bull;—but if the eldest son also happen to be born of the first-married wife, his additional share shall consist of fifteen cows and one hull. The oldest son born of a later-married wife shall share the estate equally with his younger brothers born of the senior wife. Or the special shares shall be adjusted in each class of sons, according to their mothers.’
 
 *Bṛhaspati* (25.15).—‘When there are many sons sprung from one father,
-equal in caste and number, but born of different mothers, a legal
-division may be effected by adjusting the shares according to the
-mothers.’
+equal in caste and number, but born of different mothers, a legal division may be effected by adjusting the shares according to the mothers.’
 
 *Devala* (Vivādaratnākara, p. 477).—‘Among sons belonging to castes
-other than that of the father, seniority is determined by their moral
-character; between twins, by actual birth, *i.e*., that one is senior
-whose face the father sees first.’
+other than that of the father, seniority is determined by their moral character; between twins, by actual birth, *i.e*., that one is senior whose face the father sees first.’
 </details>
 
 <details><summary>भारुचिः</summary>

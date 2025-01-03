@@ -42,30 +42,20 @@ There is no force in this objection; it is quite possible that he may have forgo
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 76), which adds the
-following explanation;—‘when the debtor has received something,—and the
-creditor approaches the king for the recovery of that, then the king
-should have the creditor’s dues paid to him by the debtor;—if it is
+This verse is quoted in *Vivādaratnākara* (p. 76), which adds the following explanation;—‘when the debtor has received something,—and the creditor approaches the king for the recovery of that, then the king should have the creditor’s dues paid to him by the debtor;—if it is
 *adhamarṇavibhāvitam*, that is, if it is proved by the creditor that the
-amount claimed is really due from the debtor’;—and in *Kṛtyakalpataru*
-(80b).
+amount claimed is really due from the debtor’;—and in *Kṛtyakalpataru* (80b).
 
-The clear meaning, specially in view of verse 51, appears to be ‘if the
-debt is *admitted by the debtor*.’
+The clear meaning, specially in view of verse 51, appears to be ‘if the debt is *admitted by the debtor*.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (6.20-22).—‘If a creditor sues before the King and fully proves
-bis demand, the debtor shall pay as fine to the King a tenth part of the
-sum proved. The creditor, having received the sum due, shall pay a
-twentieth part of it. If the whole demand has been contested by the
-debtor, and even a part of it only has been proved against him, he must
-pay the whole.’
+bis demand, the debtor shall pay as fine to the King a tenth part of the sum proved. The creditor, having received the sum due, shall pay a twentieth part of it. If the whole demand has been contested by the debtor, and even a part of it only has been proved against him, he must pay the whole.’
 
 *Matsyapurāṇa* (Rājadharma, 227.4),—‘The man who, having received a
-loan, does not repay it in due course, should be compelled to repay it,
-and should also he fined the first amercement.’
+loan, does not repay it in due course, should be compelled to repay it, and should also he fined the first amercement.’
 </details>
 
 <details><summary>भारुचिः</summary>

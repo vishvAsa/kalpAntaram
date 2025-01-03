@@ -32,8 +32,7 @@ that any minute details regarding the time are hard to indicate; a general indic
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 411),—and in
 *Vīramitrodaya* (Rājanīti, p. 324), which explains ‘*Saṃśraya*’ as
-‘seeking the shelter of a more powerful king, when hard-pressed by the
-enemy.’
+‘seeking the shelter of a more powerful king, when hard-pressed by the enemy.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -41,8 +40,7 @@ enemy.’
 **(verses 7.160-161)  
 **
 
-See Comparative notes for [Verse
-7.160].
+See Comparative notes for [Verse 7.160].
 </details>
 
 <details><summary>भारुचिः</summary>

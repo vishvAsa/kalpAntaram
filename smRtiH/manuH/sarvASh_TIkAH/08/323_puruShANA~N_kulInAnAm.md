@@ -48,47 +48,26 @@ In the case of the stealing of men and women who are not ‘noble,’ or of gems
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 317), which explains
-‘*Kulīnānām*’ as ‘born of good families—and ‘*mukhyānām ratnānām*’ as
-‘emerald and the like’,—again at p. 324.
+This verse is quoted in *Vivādaratnākara* (p. 317), which explains ‘*Kulīnānām*’ as ‘born of good families—and ‘*mukhyānām ratnānām*’ as ‘emerald and the like’,—again at p. 324.
 
-It is quoted in *Mitākṣarā* (2.275), where *Bālambhaṭṭī* has the
-following notes:—The reading of the third foot accepted by all is
-‘*mukhyānāñcaiva ratnānām*’, and ‘*ratnānāñcaiva sarveṣām*’ is wrong
-reading; the meaning is that ‘for stealing persons born of great
-families, specially ladies of great families, and also of diamond,
-sapphire and other valuable gems, the thief deserves the death-penalty’
-in *Prāyaścittaviveka* (p. 344), which says that this clearly refers to
-the enticing away of boys and girls of good families, and not of
-slaves,—in *Vivādacintāmaṇi* (p. 134), which explains ‘*mukhya-ratna*’
-as standing for the emerald and the rest;—and in *Vīramitrodaya*
-(Vyavahāra, 152a).
+It is quoted in *Mitākṣarā* (2.275), where *Bālambhaṭṭī* has the following notes:—The reading of the third foot accepted by all is ‘*mukhyānāñcaiva ratnānām*’, and ‘*ratnānāñcaiva sarveṣām*’ is wrong reading; the meaning is that ‘for stealing persons born of great families, specially ladies of great families, and also of diamond, sapphire and other valuable gems, the thief deserves the death-penalty’ in *Prāyaścittaviveka* (p. 344), which says that this clearly refers to the enticing away of boys and girls of good families, and not of slaves,—in *Vivādacintāmaṇi* (p. 134), which explains ‘*mukhya-ratna*’ as standing for the emerald and the rest;—and in *Vīramitrodaya* (Vyavahāra, 152a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (Theft, 28).—‘he who steals a man shall have to pay the highest
-fine; he who steals a woman shall be deprived of his entire wealth; and
-he who steals a maiden shall suffer corporal punishment.’
+fine; he who steals a woman shall be deprived of his entire wealth; and he who steals a maiden shall suffer corporal punishment.’
 
 *Bṛhaspati* (22. 27-28).—‘In the case of women, men, gold, gems, the
-property of a deity or a Brāhmaṇa, silk and other precious things, the
-fine shall be equal to the value of the article stolen; or double that
-amount shall he inflicted as fine; or the thief shall be executed.’
+property of a deity or a Brāhmaṇa, silk and other precious things, the fine shall be equal to the value of the article stolen; or double that amount shall he inflicted as fine; or the thief shall be executed.’
 
-Do. (22.18; Vivādaratnākara, p. 317)—‘Those who steal human beings
-should be burnt by the slow fire of chaff.’
+Do. (22.18; Vivādaratnākara, p. 317)—‘Those who steal human beings should be burnt by the slow fire of chaff.’
 
 *Vyāsa* (Do.).—‘The stealer of women shall he burnt on an iron bed by
-the slow fire of chaff; the stealer of man should have his hands and
-feet cut off and then exposed on the road-crossing. He who steals a man
-should he fined the highest amercement; he who steals a woman should
-have his entire property confiscated; and he who steals a maiden shall
-he put to death.’
+the slow fire of chaff; the stealer of man should have his hands and feet cut off and then exposed on the road-crossing. He who steals a man should he fined the highest amercement; he who steals a woman should have his entire property confiscated; and he who steals a maiden shall he put to death.’
 
 *Śaṅkha-Likhita* (Do., p. 318).—‘For stealing a king’s son, the fine is
-108 *kārṣāpaṇas*, or corporal punishment; half of that for stealing
-persons of the royal family, or of men and women in general.’
+108 *kārṣāpaṇas*, or corporal punishment; half of that for stealing persons of the royal family, or of men and women in general.’
 
 *Arthaśāstra* (p. 101).—‘If one forcibly confines, or forcibly releases,
 a man or woman, he shall be fined not less than 500 or more than 1,000

@@ -42,12 +42,7 @@ Or, the verse may mean that the persons specified shall not be made councillors,
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 309), which adds
-the following notes:—‘*Jaḍa*’ is ‘one who is devoid of intelligence,
-idiot,’—‘*tairyagyonāḥ*’,—‘parrots, starlings and the
-like,’—‘*vayotigāhi*,’ ‘very old persons,’—‘*Mleccha*’, stands for
-‘persons whose language is not intelligible’;—for ‘*Mleccho*’, another
-reading is ‘*klībo*.’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 309), which adds the following notes:—‘*Jaḍa*’ is ‘one who is devoid of intelligence, idiot,’—‘*tairyagyonāḥ*’,—‘parrots, starlings and the like,’—‘*vayotigāhi*,’ ‘very old persons,’—‘*Mleccha*’, stands for ‘persons whose language is not intelligible’;—for ‘*Mleccho*’, another reading is ‘*klībo*.’
 
 It is quoted in *Rājanītiratnākara* (p. 22b).
 </details>
@@ -58,10 +53,7 @@ It is quoted in *Rājanītiratnākara* (p. 22b).
 divulged by women and dishonoured persons.’
 
 *Mahābhārata* (Do., p. 310).—‘The following are the ways by which secret
-counsel becomes divulged,—hence one who is desirous of continued
-prosperity should guard against these—intoxication, sleep,
-ill-treatment, appearance, trust in wicked councillors and inept
-ambassador.’
+counsel becomes divulged,—hence one who is desirous of continued prosperity should guard against these—intoxication, sleep, ill-treatment, appearance, trust in wicked councillors and inept ambassador.’
 
 *Viṣṇudharmottara* (Do.)—‘The king shall never hold counsel with
 illiterate or untrustworthy or unrighteous persons.’

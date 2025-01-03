@@ -26,10 +26,7 @@ Or this may refer to the several forms of worship that have been laid down for a
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 943), which explains ‘*dīkṣā*’ as
-‘determination to keep the penances’;—and ‘*saṃsiddhi*’ as ‘well-defined
-cognition’;—in *Mitākṣarā* (on 3.51), which explains ‘*ātmasamsiddhi*’
-as ‘the attaining of Brahman’;—and in *Parāśaramādhava* (Ācāra, p. 531).
+This verse is quoted in *Aparārka* (p. 943), which explains ‘*dīkṣā*’ as ‘determination to keep the penances’;—and ‘*saṃsiddhi*’ as ‘well-defined cognition’;—in *Mitākṣarā* (on 3.51), which explains ‘*ātmasamsiddhi*’ as ‘the attaining of Brahman’;—and in *Parāśaramādhava* (Ācāra, p. 531).
 </details>
 
 <details><summary>भारुचिः</summary>

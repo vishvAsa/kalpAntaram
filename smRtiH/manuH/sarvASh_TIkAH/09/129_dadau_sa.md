@@ -35,8 +35,7 @@ This verse is quoted in *Vyavahāra-Bālambhaṭṭī* (p. 654) and in
 **(verses 9.127-129, 9.132-133)  
 **
 
-See Comparative notes for [Verse
-9.127].
+See Comparative notes for [Verse 9.127].
 </details>
 
 <details><summary>भारुचिः</summary>

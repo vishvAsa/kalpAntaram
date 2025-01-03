@@ -103,22 +103,9 @@ In this manner ‘*State*’ and the rest shall be discussed.—(56).
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Sthānam*’—‘Halting’ (Nandana).—Buhler misrepresents Medhātithi when he
-attributes to him the alternative explanation of *sthāna* as ‘loss of
-his Kingdom’, in reality Medhātithi says ‘stability of the Kingdom’ as
-rightly understood by Hopkins.
+‘*Sthānam*’—‘Halting’ (Nandana).—Buhler misrepresents Medhātithi when he attributes to him the alternative explanation of *sthāna* as ‘loss of his Kingdom’, in reality Medhātithi says ‘stability of the Kingdom’ as rightly understood by Hopkins.
 
-This verse is quoted in *Virāmitrodaya* (Rājanīti, p. 316), which adds
-the following notes:—*Taiḥ*, ‘with the said councillors,—*chintayet*,
-‘the. King should deliberate,’—*sandhiḥ*, ‘alliances’—*vigrahaḥ*,
-‘declaration of war’,—*sthānam*, ‘consisting of the four factors of the
-army, treasury, capital city and Kingdom’,—‘*samudayaḥ*,’ ‘agriculture,
-pastures, outposts, traders, cattle, customs, fines and so
-forth,’—*guptiḥ*, protection of his Kingdom,—*labdhapraśamanam*,
-‘bestowing of honours and gifts upon temples, hermitages and learned
-men’;—the meaning of the phrase *sāmānyam sandhivigraham* is that he
-should discuss questions of peace and war in general, the detailed and
-specific details being discussed in connection with the ‘*ṣāḍguṇya*.’
+This verse is quoted in *Virāmitrodaya* (Rājanīti, p. 316), which adds the following notes:—*Taiḥ*, ‘with the said councillors,—*chintayet*, ‘the. King should deliberate,’—*sandhiḥ*, ‘alliances’—*vigrahaḥ*, ‘declaration of war’,—*sthānam*, ‘consisting of the four factors of the army, treasury, capital city and Kingdom’,—‘*samudayaḥ*,’ ‘agriculture, pastures, outposts, traders, cattle, customs, fines and so forth,’—*guptiḥ*, protection of his Kingdom,—*labdhapraśamanam*, ‘bestowing of honours and gifts upon temples, hermitages and learned men’;—the meaning of the phrase *sāmānyam sandhivigraham* is that he should discuss questions of peace and war in general, the detailed and specific details being discussed in connection with the ‘*ṣāḍguṇya*.’
 
 It is quoted also in *Parāśaramādhava* (Ācāra, p. 405) and in
 *Rājanītiratnākara*;—(p. 10b).
@@ -130,35 +117,13 @@ It is quoted also in *Parāśaramādhava* (Ācāra, p. 405) and in
 specially with the Brāhmaṇa.’
 
 *Arthaśāstra* (p. 45).—‘The following are the qualities of the Chief
-Minister: He should have been born and bred in the kingdom, of noble
-birth, having a large family, versed in the arts, with keen powers of
-perception, intelligent, possessed of a retentive memory, clever,
-eloquent, bold, quick-witted, endowed with courage and influence,
-capable of hard work, pure, sympathetic, firmly loyal, equipped with
-character, strength, health and patience, devoid of haughtiness and
-fickleness, of prepossessing appearance and never likely to create
-enmities. The king shall therefore examine the land of birth and family
-of the candidates for Chief Ministership; the exact amount of their
-knowledge of arts and sciences he shall find out from other persons
-learned in the same; their intelligence, memory and cleverness he shall
-find out from actual experience; eloquence he shall find out from his
-conversations; as also lowness and quickness of wit; courage and
-influence shall be found out in times of trouble; purity, sympathy and
-loyalty from actual experience; character, strength, health and patience
-from their neighbours; and prepossessing appearance from direct
-perception.’
+Minister: He should have been born and bred in the kingdom, of noble birth, having a large family, versed in the arts, with keen powers of perception, intelligent, possessed of a retentive memory, clever, eloquent, bold, quick-witted, endowed with courage and influence, capable of hard work, pure, sympathetic, firmly loyal, equipped with character, strength, health and patience, devoid of haughtiness and fickleness, of prepossessing appearance and never likely to create enmities. The king shall therefore examine the land of birth and family of the candidates for Chief Ministership; the exact amount of their knowledge of arts and sciences he shall find out from other persons learned in the same; their intelligence, memory and cleverness he shall find out from actual experience; eloquence he shall find out from his conversations; as also lowness and quickness of wit; courage and influence shall be found out in times of trouble; purity, sympathy and loyalty from actual experience; character, strength, health and patience from their neighbours; and prepossessing appearance from direct perception.’
 
 *Arthaśāstra* (p. 71).—‘All operations should be preceded by due
 discussion among Ministers.’
 
 *Kāmandaka* (13.23).—‘The functions of the *Prakritimaṇḍala* are the
-following:—To hold counsels, to secure the results of counsels, to
-direct others to perform their functions, to ascertain the effects of
-coming events, to look after income and expenditure, to administer
-justice, to subjugate enemies, to avert threatening evils and
-calamities, to protect the kingdom,—those are the functions of the
-minister. But the minister who is subject to the *vyasanas* fails in all
-this.’
+following:—To hold counsels, to secure the results of counsels, to direct others to perform their functions, to ascertain the effects of coming events, to look after income and expenditure, to administer justice, to subjugate enemies, to avert threatening evils and calamities, to protect the kingdom,—those are the functions of the minister. But the minister who is subject to the *vyasanas* fails in all this.’
 </details>
 
 <details><summary>भारुचिः</summary>

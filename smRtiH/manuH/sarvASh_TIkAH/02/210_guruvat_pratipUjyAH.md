@@ -24,22 +24,19 @@ The teacher’s ladies belonging to the same caste should be honoured like the t
 
 The verse is quoted in *Parāśaramādhava* (Ācāra, p. 300) and in
 *Vīramitrodaya* (Saṃskāra, p. 402);—in *Smṛticandrikā* (Saṃskāra, pp.
-103 and 123) as indicating the figurative use of the title ‘*guru*’;—and
-in *Smṛtikaustubha* (p. 478).
+103 and 123) as indicating the figurative use of the title ‘*guru*’;—and in *Smṛtikaustubha* (p. 478).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (32.2,5).—‘ Also the wives of these;—of such wives of the
-teachers as belong to lower castes, the salutation should be done from a
-distance; there should be no clasping of the feet.’
+teachers as belong to lower castes, the salutation should be done from a distance; there should be no clasping of the feet.’
 
 *Gautama* (2. 38).—‘Similarly towards the wives and sons of the
 teachers.’
 
 *Āpastamba Dharmasūtra* (1. 7.27).—‘The behaviour towards the teacher’s
-wives should be similar to that towards the teacher; with the exception
-of the clasping of the feet and the eating of the leavings.’
+wives should be similar to that towards the teacher; with the exception of the clasping of the feet and the eating of the leavings.’
 
 *Baudhāyana* (1.2.38).—‘In the case of the teacher’s wife, one should
 avoid hair-dressing, dressing, bathing and eating of the leavings.’

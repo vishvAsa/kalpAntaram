@@ -28,12 +28,7 @@ The brother’s wife, if of the same caste, should be clasped in the feet day by
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 458) in support of
-the view that the clasping of the feet of the brother’s wife should be
-done when one belongs to the same caste as her husband; and the
-prohibition of such clasping met with in some Smṛtis should be taken as
-referring to cases where the sister-in-law happens to belong to a lower
-caste;—also in *Smṛticandrikā* (Saṃskāra p. 103).
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 458) in support of the view that the clasping of the feet of the brother’s wife should be done when one belongs to the same caste as her husband; and the prohibition of such clasping met with in some Smṛtis should be taken as referring to cases where the sister-in-law happens to belong to a lower caste;—also in *Smṛticandrikā* (Saṃskāra p. 103).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

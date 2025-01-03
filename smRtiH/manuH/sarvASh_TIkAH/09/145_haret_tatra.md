@@ -50,11 +50,7 @@ This verse is purely declamatory.—(145)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“Medhātithi and Kullūka state that the object of this verse is to teach
-that a *Kṣetraja*, if endowed with good qualities, may even receive
-(against verse 120) the additional share of an eldest son;—Nārāyaṇa says
-the expression ‘like a legitimate son’ is used in order to establish the
-title to an equal share.”—Buhler.
+“Medhātithi and Kullūka state that the object of this verse is to teach that a *Kṣetraja*, if endowed with good qualities, may even receive (against verse 120) the additional share of an eldest son;—Nārāyaṇa says the expression ‘like a legitimate son’ is used in order to establish the title to an equal share.”—Buhler.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -62,8 +58,7 @@ title to an equal share.”—Buhler.
 **(verses 9.145-148)**
 
 *Bṛhaṣpati* (25.35).—‘No one but the Body-born son is the inheritor of
-the father’s property; an Appointed Daughter’s also is equal to him; all
-the other sons are entitled only to maintenance.’
+the father’s property; an Appointed Daughter’s also is equal to him; all the other sons are entitled only to maintenance.’
 </details>
 
 <details><summary>भारुचिः</summary>

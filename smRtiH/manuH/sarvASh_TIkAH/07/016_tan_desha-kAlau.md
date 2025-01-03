@@ -32,18 +32,12 @@ The two (similar) verses occurring in discourses VII and VIII differ in the foll
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākoì'a* (p. 646), which adds the
-following notes:—*Rājā*, so called because of his *giving satisfaction
-(rañjanāt*),—*puruṣaḥ*, ‘equal to the Supreme Being’, residing in the
-hearts of the people;—he is the *netā*, the ‘leader’, the propagator of
+This verse is quoted in *Vivādaratnākoì'a* (p. 646), which adds the following notes:—*Rājā*, so called because of his *giving satisfaction (rañjanāt*),—*puruṣaḥ*, ‘equal to the Supreme Being’, residing in the hearts of the people;—he is the *netā*, the ‘leader’, the propagator of
 *Dharma*,
 
 It is quoted in *Vīramitrodaya* (Rājanīti, p. 292);—and in
 *Vivādacintāmaṇi* (p. 261), which has the following notes:—*Rājā*, so
-called because he keeps the people contented (),—*puruṣaḥ*, the Supreme
-Person, because he abides in the heart (*puri shete*) of the
-people,—*nètā*, - ruler, master,—‘*śāsitā*’, the propagator of proper
-righteousness.
+called because he keeps the people contented (),—*puruṣaḥ*, the Supreme Person, because he abides in the heart (*puri shete*) of the people,—*nètā*, - ruler, master,—‘*śāsitā*’, the propagator of proper righteousness.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -51,34 +45,25 @@ righteousness.
 *Yājñavalkya* (1.352).—(See under l5.)
 
 *Yājñavalkya* (1.367).—‘The king shall inflict punishment upon those who
-deserve it, after duly taking into consideration, the crime, the place
-and the time, as also the strength, age, act and wealth of the culprit,’
+deserve it, after duly taking into consideration, the crime, the place and the time, as also the strength, age, act and wealth of the culprit,’
 
 *Gautama* (12.51).—‘The award of punishment should be regulated by a
-consideration of the status of the criminal, of his bodily strength, of
-the nature of the crime and whether the offence has been repeated.’
+consideration of the status of the criminal, of his bodily strength, of the nature of the crime and whether the offence has been repeated.’
 
 *Vasiṣṭha* (19, 9-10).—‘Punishment should be awarded in cases of assault
-and abuse after due consideration of the particular place and time, of
-the duties, age, learning, and the sect; in accordance with the
-scriptures and in accordance with precedents.’
+and abuse after due consideration of the particular place and time, of the duties, age, learning, and the sect; in accordance with the scriptures and in accordance with precedents.’
 
 *Viṣṇu* (3.91, 92).—‘He should inflict punishments, corresponding to the
-nature of their offences, upon evil-doers. He should inflict punishments
-according to justice.’
+nature of their offences, upon evil-doers. He should inflict punishments according to justice.’
 
 *Matsya-purāṇa* (Vīramitrodaya-Rājanīti, p. 255).—‘The king should
 inflict punishment after due enquiry; everything rests upon punishment.’
 
 *Arthaśāstra* (p. 32).—‘Punishment is the means whereby the security of
-the science of philosophy, Vedic triad and Trade-Agriculture is
-obtained.’
+the science of philosophy, Vedic triad and Trade-Agriculture is obtained.’
 
 *Śukranīti* 1.45-47).—‘Through fear of punishment meted out by the king,
-each man gets into the habit of following his own Dharma. The person who
-follows his own Dharma can become powerful and influential in this
-world. With strict adherence to one’s own duty, there can he no
-happiness. Poliowing one’s own Dharma is the highest penance.’
+each man gets into the habit of following his own Dharma. The person who follows his own Dharma can become powerful and influential in this world. With strict adherence to one’s own duty, there can he no happiness. Poliowing one’s own Dharma is the highest penance.’
 </details>
 
 <details><summary>भारुचिः</summary>

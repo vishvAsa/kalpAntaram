@@ -26,12 +26,7 @@ Though the present conditions of ‘unfitness for study,’ are mentioned in the
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 193), which adds that this refers
-to that ‘Vedic study’ which forms part of the daily ‘*Brahmayajña*’,
-being based, as it is, on the following Taittirīya text: ‘*Tasya vā
-etasya yajñasya dvāvanadhyāyau yadātmā*’ *śuciryoddeśaḥ*,’—which bears
-specially upon the *Brahmayajña*;—in *Hemādri* (Kāla, p. 775), which
-says that this refers to that Vedic study which forms part of the daily
+This verse is quoted in *Aparārka* (p. 193), which adds that this refers to that ‘Vedic study’ which forms part of the daily ‘*Brahmayajña*’, being based, as it is, on the following Taittirīya text: ‘*Tasya vā etasya yajñasya dvāvanadhyāyau yadātmā*’ *śuciryoddeśaḥ*,’—which bears specially upon the *Brahmayajña*;—in *Hemādri* (Kāla, p. 775), which says that this refers to that Vedic study which forms part of the daily
 *Brahmayajña*;—in *Smṛticandrikā* (Saṃskāra, p. 164), which has the same
 note;—and in *Gadādharapaddhati* (Kāla, p. 196).
 </details>
@@ -42,17 +37,13 @@ note;—and in *Gadādharapaddhati* (Kāla, p. 196).
 when there is thunder and lightning, etc.’
 
 *Āśvalāyana Gṛhyasūtra* (3.4.7).—‘Two occasions have been recognised as
-unfit for study—*viz*., when the place is unclean and when the man
-himself is unclean.’
+unfit for study—*viz*., when the place is unclean and when the man himself is unclean.’
 
 *Pāraskara* (1.11.7-9).—‘On the death of the teacher, one shall enter
-the water and desist from study for ten days—for three days, on the
-death of a fellow-student;—for one day on the death of one who is not a
-fellow-student.’
+the water and desist from study for ten days—for three days, on the death of a fellow-student;—for one day on the death of one who is not a fellow-student.’
 
 *Gobhila* (3.3.24.27).—‘On the death of a fellow-student,—on the death
-of one’s own king,—on the death of the teacher, for three days; for a
-day and night, on the death of the pupil.’
+of one’s own king,—on the death of the teacher, for three days; for a day and night, on the death of the pupil.’
 </details>
 
 <details><summary>Bühler</summary>

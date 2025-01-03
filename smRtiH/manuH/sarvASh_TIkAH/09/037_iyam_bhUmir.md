@@ -50,8 +50,7 @@ development’ would be superfluous. Hence, according to the principle that verb
 
 **(verses 9.31-44)**
 
-See Comparative notes for [Verse
-9.31].
+See Comparative notes for [Verse 9.31].
 </details>
 
 <details><summary>भारुचिः</summary>

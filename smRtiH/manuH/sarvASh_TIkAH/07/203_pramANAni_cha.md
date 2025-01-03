@@ -28,18 +28,7 @@ The next verse explains why precious gifts are to be made to the people.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 410), which adds
-the following notes:—‘*Teṣām*,’ ‘of the other king,’—‘*yathoditān*,’ ‘as
-handed down by his family-traditions,’—‘*dharmān*,’ ‘practices,
-customs,’—these he should make the ‘*pramāṇāni*’, the *authority*, by
-way of oath, *i.e*., he should administer the oath in such words as—‘if
-you act contrary to this compact of yours, you fall off from such and
-such high morality and custom handed down by your family-traditions.’—It
-suggests also another explanation of the verse as as follows—‘*Teṣām*,’
-‘of the former king’—‘*yathoditān dharmān*,’ ‘the administrative
-measures taken for the grant of livings to Brāhmaṇas, ministers and
-others,’—these he should ‘*pramāṇani kurvīta*,’ ‘declare to be
-inviolable.’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 410), which adds the following notes:—‘*Teṣām*,’ ‘of the other king,’—‘*yathoditān*,’ ‘as handed down by his family-traditions,’—‘*dharmān*,’ ‘practices, customs,’—these he should make the ‘*pramāṇāni*’, the *authority*, by way of oath, *i.e*., he should administer the oath in such words as—‘if you act contrary to this compact of yours, you fall off from such and such high morality and custom handed down by your family-traditions.’—It suggests also another explanation of the verse as as follows—‘*Teṣām*,’ ‘of the former king’—‘*yathoditān dharmān*,’ ‘the administrative measures taken for the grant of livings to Brāhmaṇas, ministers and others,’—these he should ‘*pramāṇani kurvīta*,’ ‘declare to be inviolable.’
 
 It is quoted in *Nṛsiṃhaprasāda* (Saṃskāra, p. 73b).
 </details>
@@ -53,15 +42,10 @@ disregard the laws of that country.’
 he should preserve the observances, laws and customs of the place.’
 
 *Arthaśāstra* (Trans. Shama Śastri, p. 491).—‘Having acquired new
-territory, he should cover the enemy’s vices with his own virtues... by
-strict observance of his own duties, by bestowing rewards, by remitting
-taxes, by giving gifts and by bestowing honours. He should follow the
-friends and leaders of the people... He should adopt the same mode of
-life, the same dress, language and customs as those of the people.’
+territory, he should cover the enemy’s vices with his own virtues... by strict observance of his own duties, by bestowing rewards, by remitting taxes, by giving gifts and by bestowing honours. He should follow the friends and leaders of the people... He should adopt the same mode of life, the same dress, language and customs as those of the people.’
 
 *Kāmandaka* (2.35).—‘A king protecting the Varṇas and Āśramas and living
-according to their usages and knowing their duties, becomes worthy of
-place in Indra’s heaven.’
+according to their usages and knowing their duties, becomes worthy of place in Indra’s heaven.’
 </details>
 
 <details><summary>भारुचिः</summary>

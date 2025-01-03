@@ -40,11 +40,7 @@ These two verses are instances of cases where the attendant circumstances have t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 266), which adds that
-‘*duḥkhāya*’ means ‘with the intention of giving pain and the addition
-of this implies that there is no crime if the hurt is caused by
-chance;—and in *Vivādacintāmaṇi* (Calcutta, p. 75), which explains
-‘*duḥkhāya*’ as ‘with the intention of causing pain.’
+This verse is quoted in *Vivādaratnākara* (p. 266), which adds that ‘*duḥkhāya*’ means ‘with the intention of giving pain and the addition of this implies that there is no crime if the hurt is caused by chance;—and in *Vivādacintāmaṇi* (Calcutta, p. 75), which explains ‘*duḥkhāya*’ as ‘with the intention of causing pain.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -56,22 +52,16 @@ chance;—and in *Vivādacintāmaṇi* (Calcutta, p. 75), which explains
 of his cure;—so also those who have hurt a domestic animal.’
 
 *Yājñavalkya* (2.222).—‘he who hurts a man should pay the expenses of
-the cure, and should also be made to pay the fine that has been ordained
-in connection with lighting.’
+the cure, and should also be made to pay the fine that has been ordained in connection with lighting.’
 
 *Kātyāyana* (Aparārka, p. 816).—‘On hurting the body or the
-sense-organs, the offender should be fined and also made to pay whatever
-may satisfy the man hurt, as also the expenses that may be incurred in
-the complete healing of the wounds inflicted.’
+sense-organs, the offender should be fined and also made to pay whatever may satisfy the man hurt, as also the expenses that may be incurred in the complete healing of the wounds inflicted.’
 
 *Bṛhaspati* (21.10).—‘He who injures a limb, or divides it, or cuts it
-off, shall be compelled to pay the expenses of curing it, and he who may
-have taken away an article during the quarrel shall restore it.’
+off, shall be compelled to pay the expenses of curing it, and he who may have taken away an article during the quarrel shall restore it.’
 
 *Arthaśāstra* (p. 107).—‘For breaking the thigh or the neck, for
-piercing the eye, and for making a man unable to move, or speak or eat,
-the middle amercement shall he inflicted, and the offender shall also be
-made to pay the expenses for the healing of the wound.’
+piercing the eye, and for making a man unable to move, or speak or eat, the middle amercement shall he inflicted, and the offender shall also be made to pay the expenses for the healing of the wound.’
 </details>
 
 <details><summary>भारुचिः</summary>

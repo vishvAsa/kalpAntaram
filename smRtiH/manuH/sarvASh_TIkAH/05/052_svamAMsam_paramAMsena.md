@@ -15,8 +15,7 @@ This deprecates the man who eats meat for the purposc of fattening himself, and 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“In the Mahābhārata (13.114.14) this verse is ascribed to
-Nārada.”—Hopkins.
+“In the Mahābhārata (13.114.14) this verse is ascribed to Nārada.”—Hopkins.
 
 This verse is quoted in *Vīramitrodaya* (Āhnika, p. 531);—and in
 *Smṛtisāroddhāra* (p. 301).
@@ -25,10 +24,7 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 531);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (13.115.14, 36) (116.11).—(Reproduces Manu, the second
-line reading as ‘*Nāradaḥ prāha dharmātmā niyatam sovasīdati* under 14;
-and under 36, the second line reading as ‘*udvignavāso vasati yatra
-yatrābhijāyate*’ and under 116.16, the second line reading as ‘*nāsti
-kṣudratarastasmāt sa nṛśaṃsataro naraḥ*.’)
+line reading as ‘*Nāradaḥ prāha dharmātmā niyatam sovasīdati* under 14; and under 36, the second line reading as ‘*udvignavāso vasati yatra yatrābhijāyate*’ and under 116.16, the second line reading as ‘*nāsti kṣudratarastasmāt sa nṛśaṃsataro naraḥ*.’)
 
 *Viṣṇu* (51.76).—(Same as Manu.)
 

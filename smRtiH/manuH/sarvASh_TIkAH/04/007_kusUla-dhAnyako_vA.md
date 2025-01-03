@@ -52,29 +52,15 @@ The author next states the law relating to the options just mentioned:—
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Kusūladhānyakaḥ*’—Having as much grain as is contained in a *Kusūla*,
-a granary, *i*. *e*., enough to feed the household for *one year*’ (not
+‘*Kusūladhānyakaḥ*’—Having as much grain as is contained in a *Kusūla*, a granary, *i*. *e*., enough to feed the household for *one year*’ (not
 *three* as mentioned by Buhler) \[Medhātithi\];—‘enough to last twelve
-days’ (Govindarāja);—‘enough for three years’ (Kullūka and
-Rāghavānanda);—‘enough for twelve, six or three months’ (Nārāyaṇa).
+days’ (Govindarāja);—‘enough for three years’ (Kullūka and Rāghavānanda);—‘enough for twelve, six or three months’ (Nārāyaṇa).
 
 ‘*Kumbhīdhānyakaḥ*’—‘Having as much grain as may be contained in a
 *Kumbhī*, *i.e*., enough to last for six months’ (Medhātithi);—‘enough
-to last for six days’ (Govindarāja and Nārāyaṇa);—‘enough for one year’
-(Kullūka and Rāghavānanda).
+to last for six days’ (Govindarāja and Nārāyaṇa);—‘enough for one year’ (Kullūka and Rāghavānanda).
 
-This verse is quoted in *Aparārka*, (p. 169);—in *Mitākṣarā*, (on
-1.128), which adds that this refers, not to all Brāhmaṇas, but to those
-only who are ‘*yāyāvara*’ *i.e*., ‘who devote themselves entirely to
-study, sacrifice and making gifts, and do not have recourse to teaching,
-sacrificing for others and receiving gifts, or amassing of wealth’
-(according to Devala);—also on 3.29, as describing the four kinds of
-‘Householder’;—in *Madanapārijāta* (p. 216);—in *Vidhānapārijāta* (II,
-p. 246), which explains ‘*Kusūla*’ as ‘*Koṣṭhakam*,’—‘*Kumbhī*’ as
-‘*aṣṭrikā*,’ and the whole compound as ‘one who possesses grain enough
-to fill the one or the other’;—‘*tryahika*’ as ‘one who has grains
-enough *to last for* three days,’ and ‘*aśvastana*’ as ‘one not having
-grains for the morrow’;—and in *Nṛsiṃhaprasāda* (Āhnika, p. 37a).
+This verse is quoted in *Aparārka*, (p. 169);—in *Mitākṣarā*, (on 1.128), which adds that this refers, not to all Brāhmaṇas, but to those only who are ‘*yāyāvara*’ *i.e*., ‘who devote themselves entirely to study, sacrifice and making gifts, and do not have recourse to teaching, sacrificing for others and receiving gifts, or amassing of wealth’ (according to Devala);—also on 3.29, as describing the four kinds of ‘Householder’;—in *Madanapārijāta* (p. 216);—in *Vidhānapārijāta* (II, p. 246), which explains ‘*Kusūla*’ as ‘*Koṣṭhakam*,’—‘*Kumbhī*’ as ‘*aṣṭrikā*,’ and the whole compound as ‘one who possesses grain enough to fill the one or the other’;—‘*tryahika*’ as ‘one who has grains enough *to last for* three days,’ and ‘*aśvastana*’ as ‘one not having grains for the morrow’;—and in *Nṛsiṃhaprasāda* (Āhnika, p. 37a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -83,23 +69,15 @@ grains for the morrow’;—and in *Nṛsiṃhaprasāda* (Āhnika, p. 37a).
 **
 
 *Yājñavalkya* (1.228).—‘He may be the possessor of a granary-full or a
-jar-full of grains, or of grain enough for three days, or of grain not
-enough for the morrow; or he may live by gleaning and picking; the
-succeeding being superior to the preceding among these.’
+jar-full of grains, or of grain enough for three days, or of grain not enough for the morrow; or he may live by gleaning and picking; the succeeding being superior to the preceding among these.’
 
 *Laghu-Viṣṇu* (2.16-17).—‘The virtuous householders are divided into
-four classes according to the difference in their means of livelihood;
-of these the following is superior to the preceding. \[Three quarters of
-Manu’s text being reproduced, the fourth part is read as
+four classes according to the difference in their means of livelihood; of these the following is superior to the preceding. \[Three quarters of Manu’s text being reproduced, the fourth part is read as
 *sadyaḥprakṣālakaḥ*, one who had just enough for the last meal that he
 has had.\]’
 
 *Mahābhārata* (12.249.2-3).—‘Four kinds of livelihood for householders
-have been described by the wise—the first is the possessing of a
-granary-full of grains; then the possessing of a jar-full of grains;
-then the possessing of not enough for the morrow; and the last is the
-method of the pigeon (having nothing beyond the present meal); among
-these the following is superior to the preceding.’
+have been described by the wise—the first is the possessing of a granary-full of grains; then the possessing of a jar-full of grains; then the possessing of not enough for the morrow; and the last is the method of the pigeon (having nothing beyond the present meal); among these the following is superior to the preceding.’
 </details>
 
 <details><summary>Bühler</summary>

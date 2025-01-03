@@ -75,8 +75,7 @@ From all this it follows that Austerities are conducive to all kinds of desirabl
 **(verses 11.234-244)  
 **
 
-See Comparative notes for [Verse
-11.234].
+See Comparative notes for [Verse 11.234].
 </details>
 
 <details><summary>भारुचिः</summary>

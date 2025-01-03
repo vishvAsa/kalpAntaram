@@ -44,9 +44,7 @@ As regards dress, if the Teacher’s happens to be woolen, the pupil should wear
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 101), where it is explained
-that the ‘inferiority’ of the food, dress and apparel, is meant to be in
-comparison to the Teacher’s in *Aparārka* (p. 56);—and in
+This verse is quoted in *Madanapārijāta* (p. 101), where it is explained that the ‘inferiority’ of the food, dress and apparel, is meant to be in comparison to the Teacher’s in *Aparārka* (p. 56);—and in
 *Nṛsiṃhaprasāda* (Saṃskāra, p. 47b).
 </details>
 
@@ -61,9 +59,7 @@ sleeping after the teacher.’
 
 Do. Do. (1.4.22).—‘Should avoid sleep.’
 
-Do. Do. (1.4.28).—‘One who sleeps after and rises before the teacher is
-described as *not sleeping*.’ *Viṣṇu* (2.8.13).—‘Rising before the
-teacher, he should sleep after him.’
+Do. Do. (1.4.28).—‘One who sleeps after and rises before the teacher is described as *not sleeping*.’ *Viṣṇu* (2.8.13).—‘Rising before the teacher, he should sleep after him.’
 </details>
 
 <details><summary>Bühler</summary>

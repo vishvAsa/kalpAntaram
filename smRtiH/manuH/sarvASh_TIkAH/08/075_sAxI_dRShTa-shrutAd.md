@@ -30,12 +30,9 @@ The term ‘seen and heard’ is synonymous with ‘apprehended,’ as has been 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Saṃsadi*’—‘In the Court’ (Medhātithi);—‘in an assembly of Brāhmaṇas’
-(Govindarāja).
+‘*Saṃsadi*’—‘In the Court’ (Medhātithi);—‘in an assembly of Brāhmaṇas’ (Govindarāja).
 
-‘*Svargāt hīyate*’—‘Falls off from heaven which he may have earned by
-meritorious acts’ (Medhātithi, Govindarāja, Kullūka and Nandana);—‘even
-after passing through hell, he cannot get into heaven’ (Nārāyaṇa).
+‘*Svargāt hīyate*’—‘Falls off from heaven which he may have earned by meritorious acts’ (Medhātithi, Govindarāja, Kullūka and Nandana);—‘even after passing through hell, he cannot get into heaven’ (Nārāyaṇa).
 
 This verse is quoted in *Smṛticandrikā* (Vyavahāra, p. 200);—and in
 *Kṛtyakalpataru* (38a).
@@ -47,12 +44,10 @@ This verse is quoted in *Smṛticandrikā* (Vyavahāra, p. 200);—and in
 truth; in the contrary case, hell.’
 
 *Baudhāyana* (1.19.14-15).—‘If the witness rightly recollects the facts
-of the case, he will receive commendation from the most eminent men;—in
-the contrary case, he will fall into hell.’
+of the case, he will receive commendation from the most eminent men;—in the contrary case, he will fall into hell.’
 
 *Āpastamba* (2.29.9-10)—‘If he tells an untruth, hell will he his
-punishment after death;—if he speaks the truth, his reward will be
-heaven and the approbation of all beings.’
+punishment after death;—if he speaks the truth, his reward will be heaven and the approbation of all beings.’
 
 *Viṣṇu* (8.14).—‘Witnesses are free from blame, if they give true
 evidence.’

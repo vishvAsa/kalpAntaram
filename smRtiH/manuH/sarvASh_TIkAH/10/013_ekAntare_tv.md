@@ -43,8 +43,7 @@ Among the products of the ‘inverse marriages,’ the ‘*Caṇḍāla*’ alon
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

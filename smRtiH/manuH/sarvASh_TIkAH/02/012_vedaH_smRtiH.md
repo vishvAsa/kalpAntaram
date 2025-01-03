@@ -55,8 +55,7 @@ and having explained it, repeats it again.—(12)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The first half of this verse is precisley the same as that of
-Yājñavalkya 1.7.
+The first half of this verse is precisley the same as that of Yājñavalkya 1.7.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -64,8 +63,7 @@ Yājñavalkya 1.7.
 **(Verses 6, 10 and 12)  
 **
 
-See Comparative notes for [Verse 2.6 (Sources of Knowledge of
-Dharma)].
+See Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 </details>
 
 <details><summary>Bühler</summary>

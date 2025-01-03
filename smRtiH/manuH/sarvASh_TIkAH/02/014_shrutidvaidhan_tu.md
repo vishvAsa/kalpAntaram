@@ -49,12 +49,7 @@ There is no difference; in the former statement, the author has stated his own o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in the *Smṛticandrikā* (Saṃskāra, p. 15) as
-describing the comparative authority of the several sources. Where there
-are two Vedic texts setting forth two conflicting views, both are to be
-accepted, since they have been so accepted by authorities older than
-Manu himself, *i. e*. the two are to be regarded as optional
-alternatives.
+This verse is quoted in the *Smṛticandrikā* (Saṃskāra, p. 15) as describing the comparative authority of the several sources. Where there are two Vedic texts setting forth two conflicting views, both are to be accepted, since they have been so accepted by authorities older than Manu himself, *i. e*. the two are to be regarded as optional alternatives.
 
 It is quoted also in the *Nṛsiṃhaprasāda (Saṃskāra*, p. 136.)
 </details>
@@ -64,8 +59,7 @@ It is quoted also in the *Nṛsiṃhaprasāda (Saṃskāra*, p. 136.)
 *Gautama-Dharmasūtra*, 1.6.—‘When there is a conflict between two
 equally authoritative texts, there is option.’
 
-Also see the Comparative notes for [Verse 2.6 (Sources of Knowledge of
-Dharma)].
+Also see the Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 </details>
 
 <details><summary>Bühler</summary>

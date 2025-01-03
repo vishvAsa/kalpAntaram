@@ -33,8 +33,7 @@ It is only when the ornament has been given to her beforehand by persons, with t
 
 This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 772);—in
 *Nirṇayasindhu* (p. 223);—in *Aparārka* (p. 94);—in *Madanapārijāta* (p.
-148);—in *Smṛticandrikā* (Saṃskāra, p. 217);—and in *Saṃskāraratnamālā*
-(p. 501).
+148);—in *Smṛticandrikā* (Saṃskāra, p. 217);—and in *Saṃskāraratnamālā* (p. 501).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -42,8 +41,7 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 772);—in
 **(verses 9.90-92)  
 **
 
-See Comparative notes for [Verse
-9.90].
+See Comparative notes for [Verse 9.90].
 </details>
 
 <details><summary>भारुचिः</summary>

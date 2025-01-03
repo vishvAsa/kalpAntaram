@@ -44,18 +44,11 @@ In the case of all the things mentioned in the present contest, all that is mean
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Kālaśāka*’—Buhler has misread Medhātithi; there is no such expression
-in Medhātithi as ‘*Kṛṣṇavāsudeva*’; the word used is *Kṛṣṇe
-vāstukabhede*, which means ‘the darker variety of the *vāstuka* herb’.
-According to Nandana, it stands for the ‘Black
+‘*Kālaśāka*’—Buhler has misread Medhātithi; there is no such expression in Medhātithi as ‘*Kṛṣṇavāsudeva*’; the word used is *Kṛṣṇe vāstukabhede*, which means ‘the darker variety of the *vāstuka* herb’. According to Nandana, it stands for the ‘Black
 *neem*’.—*Parāśaramādhava* (Ācāra, p. 706) quoting the verse, explains
 it as ‘well known in the northern country’.
 
-‘*Mahāśalka*’—Medhātithi explains this as ‘*śalyakā*’, ‘the porcupine’,
-or (according to ‘others’, a *kind of fish*). \[Medhātithi says nothing
-as to ‘others’ *reading ‘saśalkhān*’\].—*Parāśaramādhava* explains it as
-‘a particular kind of fish’;—‘*loha*’ as ‘the red-coloured goat’—and
-‘*munyanna*’ as ‘*Nīvāra* and the like’.
+‘*Mahāśalka*’—Medhātithi explains this as ‘*śalyakā*’, ‘the porcupine’, or (according to ‘others’, a *kind of fish*). \[Medhātithi says nothing as to ‘others’ *reading ‘saśalkhān*’\].—*Parāśaramādhava* explains it as ‘a particular kind of fish’;—‘*loha*’ as ‘the red-coloured goat’—and ‘*munyanna*’ as ‘*Nīvāra* and the like’.
 
 This verse is quoted in *Hemādri* (Śrāddha, pp. 541 and 586);—in
 *Śrāddhakriyākaumudī* (p. 14), which says that according to the
@@ -66,16 +59,13 @@ This verse is quoted in *Hemādri* (Śrāddha, pp. 541 and 586);—in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba-Dharmasūtra* (2.17.1-3).—‘For endless time, with the meat of
-the rhinoceros; so also with the meat of the Śātabali fish, and that of
-the old goat.’
+the rhinoceros; so also with the meat of the Śātabali fish, and that of the old goat.’
 
 *Viṣṇu* (80.23-24).—‘Here is the song sung by the Pitṛs—Kālaśāka,
-porcupine, the meat of the old goat, and the rhinoceros without
-horns,—these we eat constantly.’
+porcupine, the meat of the old goat, and the rhinoceros without horns,—these we eat constantly.’
 
 *Yājñavalkya* (1.260).—‘The meat of the rhinoceros, the porcupine,
-honey, hermit’s food, meat of the red goat, Mahāśāka, and the meat of
-the old goat.’
+honey, hermit’s food, meat of the red goat, Mahāśāka, and the meat of the old goat.’
 </details>
 
 <details><summary>Bühler</summary>

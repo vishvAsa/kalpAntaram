@@ -36,19 +36,9 @@ The vendors in the market should not he allowed to fix their prices at their own
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara*, (p. 301), which adds the
-following notes:—‘*Āgamam*,’ the import of foreign commodities from
-countries either remote and inaccessible, or proximate and easily
-accessible—‘*nirgamam*,’ export of commodities of the country to the
-said foreign countries;—‘*sthānam*,’ the determining of the expenses
-incurred in the storing of the commodity during the larger or shorter
-interval between its purchase and sale;—similarily ‘*vṛddhikṣayam*,’ the
-profit or loss actually accrued;—‘*vicārya*,’ having fully considered
-all this,—the king shall so regulate buying and selling that there may
-be no undue profit or loss to the traders.
+This verse is quoted in *Vivādaratnākara*, (p. 301), which adds the following notes:—‘*Āgamam*,’ the import of foreign commodities from countries either remote and inaccessible, or proximate and easily accessible—‘*nirgamam*,’ export of commodities of the country to the said foreign countries;—‘*sthānam*,’ the determining of the expenses incurred in the storing of the commodity during the larger or shorter interval between its purchase and sale;—similarily ‘*vṛddhikṣayam*,’ the profit or loss actually accrued;—‘*vicārya*,’ having fully considered all this,—the king shall so regulate buying and selling that there may be no undue profit or loss to the traders.
 
-It is quoted in *Aparārka* (p. 827);—and in *Vyavahāra-Bālambhaṭṭī* (p.
-942).
+It is quoted in *Aparārka* (p. 827);—and in *Vyavahāra-Bālambhaṭṭī* (p. 942).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -57,18 +47,10 @@ It is quoted in *Aparārka* (p. 827);—and in *Vyavahāra-Bālambhaṭṭī* (p
 **
 
 *Yājñavalkya* (2.251-253).—‘Sales should be carried on according to the
-prices fixed by the King day by day; whatever profit accrues from such
-sale is lawful for the trader. In the case of commodities purchased in
-the country itself, the merchant shall take a profit of 5 per cent.; and
-in that of those imported from outside, 10 per cent.; this rule applies
-to commodities bought and sold quickly. The King shall consider the
-intrinsic value of the merchandise and the cost incurred in its
-marketing and then fix a price which shall be favourable alike to the
-vendor and the vendee.’
+prices fixed by the King day by day; whatever profit accrues from such sale is lawful for the trader. In the case of commodities purchased in the country itself, the merchant shall take a profit of 5 per cent.; and in that of those imported from outside, 10 per cent.; this rule applies to commodities bought and sold quickly. The King shall consider the intrinsic value of the merchandise and the cost incurred in its marketing and then fix a price which shall be favourable alike to the vendor and the vendee.’
 
 *Śaṅkha-Likhita* (Vivādaratnākara, p. 302).—‘Fixing of weights and
-measures, and the fixing of the price of commodities shall be placed in
-charge of a trustworthy official.’
+measures, and the fixing of the price of commodities shall be placed in charge of a trustworthy official.’
 </details>
 
 <details><summary>भारुचिः</summary>

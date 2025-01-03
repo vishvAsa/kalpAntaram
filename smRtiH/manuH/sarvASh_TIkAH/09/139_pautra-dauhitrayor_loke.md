@@ -27,23 +27,18 @@ Between these two ‘*there is no difference*’;—in the case of one (the son�
 [*Cf*. verse
 133.]
 
-The second half of this verse is quoted in *Smṛtitattva* II (p. 185), as
-attributing the character of the ‘son’s son’ to the daughter’s son.
+The second half of this verse is quoted in *Smṛtitattva* II (p. 185), as attributing the character of the ‘son’s son’ to the daughter’s son.
 
-It is quoted in *Dāyakramasaṅgraha* (p. 25);—in *Dattakamīmānsā* (p.
-40);—and in *Vyavahāra-Bālambhaṭṭī*.
+It is quoted in *Dāyakramasaṅgraha* (p. 25);—in *Dattakamīmānsā* (p. 40);—and in *Vyavahāra-Bālambhaṭṭī*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-See texts under
-[133]
-and
-[132].
+See texts under [133]
+and [132].
 
 *Viṣṇu* (15.47).—‘No difference is made in this world between the son’s
-son and the daughter’s son: for even a daughter’s son works the
-salvation of a sonless man just like a son’s son.’
+son and the daughter’s son: for even a daughter’s son works the salvation of a sonless man just like a son’s son.’
 </details>
 
 <details><summary>भारुचिः</summary>

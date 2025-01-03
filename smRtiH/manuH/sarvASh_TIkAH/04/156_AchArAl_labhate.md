@@ -40,11 +40,9 @@ Thus all that is unrighteous and evil is destroyed, if a man sticks to Right Con
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse has not been omitted by Medhātithi, as Buhler has wrongly
-stated.
+This verse has not been omitted by Medhātithi, as Buhler has wrongly stated.
 
-This verse is quoted in *Aparārka* (p. 231);—in *Nityācārapradīpa* (p.
-12);—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 17a).
+This verse is quoted in *Aparārka* (p. 231);—in *Nityācārapradīpa* (p. 12);—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 17a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -55,8 +53,7 @@ This verse is quoted in *Aparārka* (p. 231);—in *Nityācārapradīpa* (p.
 prajām*’ and ‘*śriyamāpnoti*’ for ‘*dhanamakṣayyam*.’)
 
 *Mahābhārata* (Anuśāsana, 161.6).—‘By right conduct the man obtains
-longevity; by right conduct he acquires prosperity; by right conduct he
-acquires fame, here as well as after death.’
+longevity; by right conduct he acquires prosperity; by right conduct he acquires fame, here as well as after death.’
 </details>
 
 <details><summary>Bühler</summary>

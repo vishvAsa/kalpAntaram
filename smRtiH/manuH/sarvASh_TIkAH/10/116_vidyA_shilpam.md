@@ -36,20 +36,15 @@ The meaning of this verse is that in the absence of the particular means of live
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“Govindarāja thinks that teaching for a stipulated fee is also
-permissible under this rule.”—Buhler.
+“Govindarāja thinks that teaching for a stipulated fee is also permissible under this rule.”—Buhler.
 
-This verse is quoted in *Aparārka* (p. 936);—and in *Mitākṣarā* (3.42),
-both of which read ‘*giriḥ*’ for ‘*dhṛtiḥ*;’ ‘*giriḥ*’ is explained by
-Nandana as ‘selling of fruits and roots growing on hills.’
+This verse is quoted in *Aparārka* (p. 936);—and in *Mitākṣarā* (3.42), both of which read ‘*giriḥ*’ for ‘*dhṛtiḥ*;’ ‘*giriḥ*’ is explained by Nandana as ‘selling of fruits and roots growing on hills.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (3.41).—‘Agriculture, mechanical arts, work for wages,
-learning, money-lending on interest, cart, hill, service, forest-land,
-King and begging alms—these are the means of livelihood in times of
-distress.’
+learning, money-lending on interest, cart, hill, service, forest-land, King and begging alms—these are the means of livelihood in times of distress.’
 
 *Hārīta* (Aparārka, p. 937).—‘In times of distress, agriculture may be
 undertaken.’

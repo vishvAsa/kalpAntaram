@@ -23,10 +23,7 @@ Such is the usage of the world, and the learned Brāhmaṇas also have made the 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba* (2.14.16).—‘There is no division between husband and
-wife;—for from the time of marriage, they are united in religious
-ceremonies;—likewise also as regards the rewards for acts by which
-spiritual merit is acquired;—and with respect to the acquisition of
-property.’
+wife;—for from the time of marriage, they are united in religious ceremonies;—likewise also as regards the rewards for acts by which spiritual merit is acquired;—and with respect to the acquisition of property.’
 </details>
 
 <details><summary>भारुचिः</summary>

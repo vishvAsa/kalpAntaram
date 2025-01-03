@@ -26,8 +26,7 @@ scriptures as to be performed—‘*in the case of girls of the same caste*,’ 
 
 This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 835);—and in
 *Smṛtitattva* (II, p. 107), which latter adds that this verse makes it
-clear that ‘marriage’ is something distinct from the ‘holding of the
-hand’ (*Pāṇigrahaṇa*).
+clear that ‘marriage’ is something distinct from the ‘holding of the hand’ (*Pāṇigrahaṇa*).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

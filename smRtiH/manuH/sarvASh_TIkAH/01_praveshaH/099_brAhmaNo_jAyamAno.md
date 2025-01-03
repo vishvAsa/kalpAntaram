@@ -22,14 +22,12 @@ The Brāhmaṇa comes to the top of the entire world; this ‘coming to the top�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The *Aparārka* (p. 281) quotes this verse in support of the view that
-the learned Brāhmaṇa is the master of everything in the world.
+The *Aparārka* (p. 281) quotes this verse in support of the view that the learned Brāhmaṇa is the master of everything in the world.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-See Comparative notes for [Verse 1.94 (Brahmā created the
-Brāhmaṇas)].
+See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 </details>
 
 <details><summary>Bühler</summary>

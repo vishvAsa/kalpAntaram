@@ -24,8 +24,7 @@ It should not be thought that ‘if the man is killed after having turned back, 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Nowhere in Medhātithi do we find any indication of the explanation that
-is attributed to him by Hopkins.
+Nowhere in Medhātithi do we find any indication of the explanation that is attributed to him by Hopkins.
 
 This verse is quoted in *Nītimayūkha* (p. 80).
 </details>

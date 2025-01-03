@@ -32,8 +32,7 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 498.)
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārafa* (13.137.17).—‘The one-eyed person defiles sixty; the
-eunuch, a hundred; the man suffering from leucoderma, as much as he sees
-_(;)—in the line of invitees seated in a line.’
+eunuch, a hundred; the man suffering from leucoderma, as much as he sees _(;)—in the line of invitees seated in a line.’
 </details>
 
 <details><summary>Bühler</summary>

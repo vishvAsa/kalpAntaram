@@ -31,8 +31,7 @@ in *Kṛtyakalpataru* (37b).
 
 **(verses 8.118-123)**
 
-See Comparative notes for [Verse
-8.118].
+See Comparative notes for [Verse 8.118].
 </details>
 
 <details><summary>भारुचिः</summary>

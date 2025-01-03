@@ -33,8 +33,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 167);—and in
 *Viṣṇu* (3.86).—‘He shall be splendid in apparel and ornaments.’
 
 *Śukranīti* (1.734).—‘Every day the wise king shall inspect the
-elephants, horses, chariots, cattle, servants, officers, provisions and
-soldiers; preserving and maintaining the lit and discarding the unfit.’
+elephants, horses, chariots, cattle, servants, officers, provisions and soldiers; preserving and maintaining the lit and discarding the unfit.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -39,13 +39,7 @@ The article ‘*ā*’ (in the expression ‘*ā* *saptamāt*’) indicates
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-If the daughter of a Brāhmaṇa from a Śudrā female and all their
-descendants marry Brāhmaṇas, the offspring of the sixth female
-descendant of the original couple will become a Brāhmaṇa (Medhātithi,
-Govindarāja, Kullūka and Rāghavānanda).—If the son of a Brāhmaṇa from a
-Śūdra female marries a similar girl possessed of excellent virtues and
-if his descendants go on doing the same, the child born of the sixth
-generation will become a Brāhmaṇa (Nārāyaṇa and Nandana)
+If the daughter of a Brāhmaṇa from a Śudrā female and all their descendants marry Brāhmaṇas, the offspring of the sixth female descendant of the original couple will become a Brāhmaṇa (Medhātithi, Govindarāja, Kullūka and Rāghavānanda).—If the son of a Brāhmaṇa from a Śūdra female marries a similar girl possessed of excellent virtues and if his descendants go on doing the same, the child born of the sixth generation will become a Brāhmaṇa (Nārāyaṇa and Nandana)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -57,8 +51,7 @@ generation will become a Brāhmaṇa (Nārāyaṇa and Nandana)
 42.\]]
 
 *Gautama* (4.22).—‘In the seventh generation, men obtain a change of
-caste, either being raised to a higher, or degraded to a lower one.—The
-venerable teacher declares that this happens in the fifth generation.’
+caste, either being raised to a higher, or degraded to a lower one.—The venerable teacher declares that this happens in the fifth generation.’
 
 *Yājñavalkya* (1.96).—[(See under 24
 above.)]

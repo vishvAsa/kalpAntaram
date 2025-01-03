@@ -28,8 +28,7 @@ Persons who have been disgraced, animals, and particularly women betray secret p
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 309), which
-explains ‘*Ādṛta*’ as ‘suspicious.’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 309), which explains ‘*Ādṛta*’ as ‘suspicious.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

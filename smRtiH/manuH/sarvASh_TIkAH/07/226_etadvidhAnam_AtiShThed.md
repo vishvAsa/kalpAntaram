@@ -30,9 +30,7 @@ Thus ends Discourse Seventh.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 1.330);—and in *Vīramitrodaya*
-(Rājanīti, p. 169), which explains ‘*etat sarvam*’ as ‘protection of the
-people and so forth’.
+This verse is quoted in *Mitākṣarā* (on 1.330);—and in *Vīramitrodaya* (Rājanīti, p. 169), which explains ‘*etat sarvam*’ as ‘protection of the people and so forth’.
 </details>
 
 <details><summary>भारुचिः</summary>

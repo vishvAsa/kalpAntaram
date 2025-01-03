@@ -34,8 +34,7 @@ What is deduced from this valedictory description is the advice that learning sh
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-As a parallel to this *Vīramitrodaya* (Saṃskāra, p. 515) quotes the
-following ‘śruti’—
+As a parallel to this *Vīramitrodaya* (Saṃskāra, p. 515) quotes the following ‘śruti’—
 
 > yameva vidyā śucimapramattaṃ  
 > medhāvinaṃ brahmacaryopapannam \|  
@@ -50,8 +49,7 @@ This verse is quoted in *Madanapārijāta* (p. 103) also in
 
 **(Verse 114-115)**
 
-See Comparative notes for [Verse
-2.114].
+See Comparative notes for [Verse 2.114].
 </details>
 
 <details><summary>Bühler</summary>

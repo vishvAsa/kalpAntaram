@@ -32,20 +32,9 @@ The *touching of the cow* and *looking at the sun* are meant to be optional alte
 
 (Verse 87 of others.)
 
-This verse is quoted in *Aparārka* (p. 924), which notes that what is
-meant is the combination of all the three—(1) *ācamana*, (2) touching of
-the cow, and (3) looking at the sun; and that this pertains to the case
-of touching the bone *unintentionally*; for intentional touching, there
-is impurity for three days (when fat is adhering to the bone), and one
-day (when the bone is dry).
+This verse is quoted in *Aparārka* (p. 924), which notes that what is meant is the combination of all the three—(1) *ācamana*, (2) touching of the cow, and (3) looking at the sun; and that this pertains to the case of touching the bone *unintentionally*; for intentional touching, there is impurity for three days (when fat is adhering to the bone), and one day (when the bone is dry).
 
-It is quoted in *Mitākṣarā* (on 3.30), which remarks that this refers to
-the bone of a twice-born person;—in *Smṛtitattva* (II, p. 293), which,
-explains ‘*ālabhya*’ as ‘having touched,’ and adds that this refers to
-the *unintentional* touching of the bone;—in *Madanapārijāta* (p. 257),
-which adds that ‘this refers to twice-born persons’;—in *Vīramitrodaya*
-(Āhnika, p. 214);—in *Hemādri* (Śrāddha, p. 796);—in *Śuddhikaumudī*,
-(p. 329), which explains ‘*ālabhya*’ as ‘having touched’;—in
+It is quoted in *Mitākṣarā* (on 3.30), which remarks that this refers to the bone of a twice-born person;—in *Smṛtitattva* (II, p. 293), which, explains ‘*ālabhya*’ as ‘having touched,’ and adds that this refers to the *unintentional* touching of the bone;—in *Madanapārijāta* (p. 257), which adds that ‘this refers to twice-born persons’;—in *Vīramitrodaya* (Āhnika, p. 214);—in *Hemādri* (Śrāddha, p. 796);—in *Śuddhikaumudī*, (p. 329), which explains ‘*ālabhya*’ as ‘having touched’;—in
 *Nṛsiṃhaprasāda* (Āhnika, p. 16b);—and in *Prāyaścittaviveka* (p. 485),
 which says that this refers to cases of unintentional touching
 </details>
@@ -53,8 +42,7 @@ which says that this refers to cases of unintentional touching
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (Aparārka, p. 925).—‘On touching a fatty human bone, there is
-impurity lasting for three days; when it is not fatty, for one day and
-night.’
+impurity lasting for three days; when it is not fatty, for one day and night.’
 
 *Devala* (Do.).—‘Human bone, human fat, ordure, menstrual blood, wine,
 semen, marrow, blood,—on touching these one should bathe.’
@@ -62,8 +50,7 @@ semen, marrow, blood,—on touching these one should bathe.’
 *Chyavana*—(See under 84.)
 
 *Saṃvarta* (Viramitrodaya-Āhnika, p. 214)—‘Indigo, indigo-products,
-human bone, or the shadow cast by the *Caṇḍāla* and the outcast,—on
-touching these, the twice-born person shall bathe.’
+human bone, or the shadow cast by the *Caṇḍāla* and the outcast,—on touching these, the twice-born person shall bathe.’
 </details>
 
 <details><summary>Bühler</summary>

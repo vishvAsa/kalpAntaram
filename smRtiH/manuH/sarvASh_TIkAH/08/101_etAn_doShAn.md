@@ -24,12 +24,9 @@ Give up all suspense and hesitation, speak out what you have seen and heard.—(
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Añjasā*’—‘Without hesitation or śilly-shallying (Medhātithi);—‘truly’
-(Govindarāja and Kullūka);—‘quickly’ (Nārāyaṇa).
+‘*Añjasā*’—‘Without hesitation or śilly-shallying (Medhātithi);—‘truly’ (Govindarāja and Kullūka);—‘quickly’ (Nārāyaṇa).
 
-This verse is quoted in *Aparārka* (p. 674);—in *Smṛticandrikā*
-(Vyavahāra, p. 205), which explains ‘*añjasā*’ as ‘with a clear
-heart’;—and in *Kṛtyakalpataru* (35b).
+This verse is quoted in *Aparārka* (p. 674);—in *Smṛticandrikā* (Vyavahāra, p. 205), which explains ‘*añjasā*’ as ‘with a clear heart’;—and in *Kṛtyakalpataru* (35b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

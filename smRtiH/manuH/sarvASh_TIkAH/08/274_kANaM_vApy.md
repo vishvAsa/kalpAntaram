@@ -47,19 +47,13 @@ This rule may be taken, as before, as referring to either all men, or to the *Ś
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (2.204), which notes that this rule
-refers to a case where the defamer is a very wicked person; and
+This verse is quoted in *Mitākṣarā* (2.204), which notes that this rule refers to a case where the defamer is a very wicked person; and
 *Bālambhaṭṭī* has the following notes:—‘*Tathyena*,’ even in
-truth,—‘*kārṣāpaṇāvaram*,’ at least one *kārṣāpaṇa*, never less than
-that; this refers to cases where a wicked and ill-behaved person insults
-a caste-fellow.
+truth,—‘*kārṣāpaṇāvaram*,’ at least one *kārṣāpaṇa*, never less than that; this refers to cases where a wicked and ill-behaved person insults a caste-fellow.
 
-It is quoted in *Aparārka* (p. 806), which adds that this refers to a
-case where the insulter is a man with very superior qualifications, or
-where the motive of insulting is very insignificant.
+It is quoted in *Aparārka* (p. 806), which adds that this refers to a case where the insulter is a man with very superior qualifications, or where the motive of insulting is very insignificant.
 
-It is quoted in *Vivādaratnākara* (p. 247), which explains
-‘*kārṣāpaṇāvaram*’ as ‘that than which one *kārṣā* *paṇa* is lower,’
+It is quoted in *Vivādaratnākara* (p. 247), which explains ‘*kārṣāpaṇāvaram*’ as ‘that than which one *kārṣā* *paṇa* is lower,’
 *i.e*., ‘two *kārṣāpaṇas*—in *Parāśaramādhava* (Vyavahāra, p. 295),
 which adds that this refers to an extremely wicked person;—in
 *Nṛsiṃhaprasāda* (Vyavahāra, 44b);—and in *Vīramitrodaya* (Vyavahāra,
@@ -69,16 +63,13 @@ which adds that this refers to an extremely wicked person;—in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Arthaśāstra* (p. 103).—‘If one reviles a man as one-eyed, lame and so
-forth when he is really so,—the fine is 3 *Paṇas*; if he is not so, it
-is 6 *Paṇas*.’
+forth when he is really so,—the fine is 3 *Paṇas*; if he is not so, it is 6 *Paṇas*.’
 
 *Viṣṇu* (5.27).—‘If a man is blind, with one eye, or lame, or defective
-in any similar way,—and another calls him so,—the latter shall be fined
-2 *kārṣāpāṇas*, though he speaks the truth.’
+in any similar way,—and another calls him so,—the latter shall be fined 2 *kārṣāpāṇas*, though he speaks the truth.’
 
 *Yājñavalkya*( 2-204).—‘If a man reviles another—either falsely or truly
-or ironically—in regard to defective limbs or sense-organs or
-diseases,—he shall he fined twelve and a half *Paṇas*.’
+or ironically—in regard to defective limbs or sense-organs or diseases,—he shall he fined twelve and a half *Paṇas*.’
 
 *Nārada* (15-16.18).—(Same as Manu.)
 </details>

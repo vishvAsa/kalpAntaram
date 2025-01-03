@@ -44,8 +44,7 @@ As a matter of fact, no stress is meant to be laid upon the special form of the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 402), where it is
-added that ‘*evam*’ means ‘in the manner of the sacrifice to Gods’.
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 402), where it is added that ‘*evam*’ means ‘in the manner of the sacrifice to Gods’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -53,8 +52,7 @@ added that ‘*evam*’ means ‘in the manner of the sacrifice to Gods’.
 **(verses 3.84-93)  
 **
 
-See Comparative notes for [Verse
-3.84].
+See Comparative notes for [Verse 3.84].
 </details>
 
 <details><summary>Bühler</summary>

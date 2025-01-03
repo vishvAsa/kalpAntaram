@@ -55,10 +55,7 @@ This verse is quoted in *Parāsaramādhava* (Prāyaścitta, p. 454).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (27.1-2).—‘If a hundred improper acts, and even more, have
-been committed, and the knowledge of the Veda is retained, the fire of
-the Veda destroys all the guilt of the man, just as fire consumes fuel.
-As a fire burning strongly consumes even green trees, even so the fire
-of the Veda destroys one’s guilt caused by evil deeds.’
+been committed, and the knowledge of the Veda is retained, the fire of the Veda destroys all the guilt of the man, just as fire consumes fuel. As a fire burning strongly consumes even green trees, even so the fire of the Veda destroys one’s guilt caused by evil deeds.’
 </details>
 
 <details><summary>भारुचिः</summary>

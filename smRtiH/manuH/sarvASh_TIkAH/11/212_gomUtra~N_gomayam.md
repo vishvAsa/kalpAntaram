@@ -27,32 +27,25 @@ Others hold that each of the things named has to be eaten on one day,—as no co
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Prāyaścittaviveka* (p. 513), which says that
-this penance requires *seven* days for its completion;—and in
+This verse is quoted in *Prāyaścittaviveka* (p. 513), which says that this penance requires *seven* days for its completion;—and in
 *Saṃskāraratnamālā* (p. 782).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (4.5.11).—‘If one lives one day on cow’s urine, one day on
-cow-dung, one day on milk, one day on sour milk, one day on clarified
-butter, one day on a decoction of *Kuśa* grass, and during one day and
-night, on air; that is called the *Sāntapana Kṛcchra*.’
+cow-dung, one day on milk, one day on sour milk, one day on clarified butter, one day on a decoction of *Kuśa* grass, and during one day and night, on air; that is called the *Sāntapana Kṛcchra*.’
 
 *Vaśiṣṭha* (27.13).—‘Subsisting during one day on each of the following
-substances—cow’s urine, cowdung, milk, sour milk, butter, and decoction
-of *Kuśa-* grass,—and fasting on the seventh day—purifies even him who
-fears that he has partaken of the food of a *Caṇḍāla*.’
+substances—cow’s urine, cowdung, milk, sour milk, butter, and decoction of *Kuśa-* grass,—and fasting on the seventh day—purifies even him who fears that he has partaken of the food of a *Caṇḍāla*.’
 
 *Parāśara* (10.29).—(Same as Manu.)
 
 *Viṣṇu* (46, 19).—‘Subsisting one day on cow’s urine and cowdung, milk,
-sour milk, butter and water in which *Kuśa* grass has been boiled, and
-fasting the next day, is called *Sāntapana*.’
+sour milk, butter and water in which *Kuśa* grass has been boiled, and fasting the next day, is called *Sāntapana*.’
 
 *Yājñavalkya* (3.315).—‘Kuśa-water, cow’s milk, sour milk, urine,
-cowdung, and butter,—having eaten these, if one fasts on the following
-day, it is *Sāntapana Kṛcchra*.’
+cowdung, and butter,—having eaten these, if one fasts on the following day, it is *Sāntapana Kṛcchra*.’
 </details>
 
 <details><summary>भारुचिः</summary>

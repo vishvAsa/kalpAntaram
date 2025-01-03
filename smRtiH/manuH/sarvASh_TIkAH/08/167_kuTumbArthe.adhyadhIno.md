@@ -52,20 +52,13 @@ But this must refer to the cases where the master is present on the spot, and no
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Adhyadhīnaḥ*’—‘Servant’ (Medhātithi and Nārāyaṇa);—‘slave’
-(Kullūka);—‘Youngest brother and one in some such position
-(Rāghavānanda).
+‘*Adhyadhīnaḥ*’—‘Servant’ (Medhātithi and Nārāyaṇa);—‘slave’ (Kullūka);—‘Youngest brother and one in some such position (Rāghavānanda).
 
-This verse is quoted in *Smṛtitattva* (II, p. 232) as indicating the
-necessary character of the maintaining of the family;—in
+This verse is quoted in *Smṛtitattva* (II, p. 232) as indicating the necessary character of the maintaining of the family;—in
 *Vivādaratnākara* (p. 55), which explains ‘*Ādhyadhīna*’ as ‘servants
-and others,’ and ‘*jyāyān*’ as ‘the master’;—in *Parāśaramādhava*
-(Vyavahāra, p. 164), to the effect that a debt cannot be repudiated if
-it has been contracted for the support of the family, even if it may
-have been contracted by a dependant without the master’s permission;—in
+and others,’ and ‘*jyāyān*’ as ‘the master’;—in *Parāśaramādhava* (Vyavahāra, p. 164), to the effect that a debt cannot be repudiated if it has been contracted for the support of the family, even if it may have been contracted by a dependant without the master’s permission;—in
 *Kṛtyakalpataru* (76b), which explains ‘*adhyadhīnaḥ*’ as ‘the slave and
-the like—and in *Vīramitrodaya* (Vyavahāra, 40a), which explains
-‘*adhyadhīnaḥ*’ *as* ‘son, nephew, slaves and so forth.’
+the like—and in *Vīramitrodaya* (Vyavahāra, 40a), which explains ‘*adhyadhīnaḥ*’ *as* ‘son, nephew, slaves and so forth.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -73,8 +66,7 @@ the like—and in *Vīramitrodaya* (Vyavahāra, 40a), which explains
 **(verses 8.166-167)  
 **
 
-See Comparative notes for [Verse
-8.166].
+See Comparative notes for [Verse 8.166].
 </details>
 
 <details><summary>भारुचिः</summary>

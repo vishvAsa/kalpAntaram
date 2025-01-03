@@ -24,11 +24,9 @@ Thus it is that even low-born women, belonging to the lower castes, came to be h
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“The story of Mandapāla is told in the Mahābhārata 1.8335, adhyāya
-229”—Buhler.
+“The story of Mandapāla is told in the Mahābhārata 1.8335, adhyāya 229”—Buhler.
 
-This verse is quoted in *Vivādaratnākara* (p. 416), which reads
-‘*śārṅgī*’, with Medhātithi.
+This verse is quoted in *Vivādaratnākara* (p. 416), which reads ‘*śārṅgī*’, with Medhātithi.
 </details>
 
 <details><summary>भारुचिः</summary>

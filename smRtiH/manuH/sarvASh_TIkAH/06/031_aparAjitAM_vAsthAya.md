@@ -28,18 +28,11 @@ This refers to the ‘Grand Journey’ (towards certain death).—(31).
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Yuktaḥ*’—‘Intent on the practice of yoga’ (Govindarāja and
-Kullūka),—‘firmly resolved’ (Nārāyaṇa and Rāghavānaṇda).
+‘*Yuktaḥ*’—‘Intent on the practice of yoga’ (Govindarāja and Kullūka),—‘firmly resolved’ (Nārāyaṇa and Rāghavānaṇda).
 
-This verse is quoted in *Aparārka* (p. 945), which adds the following
-notes:—‘*yuktaḥ*’ means ‘*samāhitaḥ*’, ‘intent, calm, collected’; this
-teaching regarding the ‘Great Journey’ is only by way of an illustration
-for all such means of self-immolation as burning, drowning and the like.
+This verse is quoted in *Aparārka* (p. 945), which adds the following notes:—‘*yuktaḥ*’ means ‘*samāhitaḥ*’, ‘intent, calm, collected’; this teaching regarding the ‘Great Journey’ is only by way of an illustration for all such means of self-immolation as burning, drowning and the like.
 
-It is quoted in *Mitākṣarā* (on 3.55);—and in *Hemādri* (Śrāddha, p.
-1660), which explains ‘*aparājitā*’ as ‘the north-easterly
-direction,’—towards that he should go straight on, till his body falls,
-living upon water and air and with mind duly concentrated and calm.
+It is quoted in *Mitākṣarā* (on 3.55);—and in *Hemādri* (Śrāddha, p. 1660), which explains ‘*aparājitā*’ as ‘the north-easterly direction,’—towards that he should go straight on, till his body falls, living upon water and air and with mind duly concentrated and calm.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -48,19 +41,16 @@ living upon water and air and with mind duly concentrated and calm.
 **
 
 *Baudhāyana* (3.3.10.11, 12).—‘The hermits called *Unmajjakas* avoid
-iron and stone implements; those called *Pravṛttāśins* take food with
-the hand; those called *Mukhenādāyins* take it with the mouth only.’
+iron and stone implements; those called *Pravṛttāśins* take food with the hand; those called *Mukhenādāyins* take it with the mouth only.’
 
 *Āpastamba* (2.23 also 2.22.24).—‘Then he shall live on water, then on
-air and finally on *Ākaśa*:—each succeeding method bringing a greater
-reward.’
+air and finally on *Ākaśa*:—each succeeding method bringing a greater reward.’
 
 *Yājñavalkya* (3.55).—‘Eating air, he shall proceed towards the
 North-East till his body perishes.’
 
 *Smṛtyantara* (Aparārka, p. 945).—‘The hermit shall undertake either the
-Long Journey, or drown in water or enter the fire, or fall from a
-precipice.’
+Long Journey, or drown in water or enter the fire, or fall from a precipice.’
 </details>
 
 <details><summary>भारुचिः</summary>

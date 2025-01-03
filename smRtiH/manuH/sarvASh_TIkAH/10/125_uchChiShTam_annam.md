@@ -22,17 +22,13 @@ Similarly ‘*worn-out clothes*’—after they have been washed white; ‘*grai
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Varṣakriyākaumudī* (p. 571), which explains
-‘*pulākāḥ*’ as ‘chaff,’—‘*paricchadāḥ*’ as ‘umbrellas, beddings and so
-forth,’—and adds that the intention appears to he that all this should
-be given to such *Śūdras* as are one’s servants.
+This verse is quoted in *Varṣakriyākaumudī* (p. 571), which explains ‘*pulākāḥ*’ as ‘chaff,’—‘*paricchadāḥ*’ as ‘umbrellas, beddings and so forth,’—and adds that the intention appears to he that all this should be given to such *Śūdras* as are one’s servants.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (10.58-59).—‘The Śūdra shall use their cast off shoes,
-umbrellas, garments, and sitting mats; and shall eat the remnants of
-their food.’
+umbrellas, garments, and sitting mats; and shall eat the remnants of their food.’
 </details>
 
 <details><summary>भारुचिः</summary>

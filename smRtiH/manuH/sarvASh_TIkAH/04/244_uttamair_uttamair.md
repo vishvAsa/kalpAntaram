@@ -46,8 +46,7 @@ be due to diversity of connections; some connections being desirable for some ki
 
 This verse is quoted in Vīramitrodaya (Saṃskāra, p. 587);—in
 *Vidhānapārijāta* (p. 674);—and in *Saṃskāraratnamālā*, (p. 75). All
-these quote the following description of the ‘*uttama*’ as from Manu;
-but these verses are not found in Manu—
+these quote the following description of the ‘*uttama*’ as from Manu; but these verses are not found in Manu—
 
 > viśuddhāḥ karmami(bhi?)ścaiva śrutismṛtinidarśitaiḥ \|  
 > aviplutabrahmacaryā mahākulasamanvitāḥ \|  
@@ -58,8 +57,7 @@ but these verses are not found in Manu—
 
 and as description of ‘*adharma*’ they quote Manu 3.150-152.
 
-It is quoted in *Saṃskāramayūkha* (p. 75);—and in *Smṛticandrikā*
-(Saṃskāra, p. 205).
+It is quoted in *Saṃskāramayūkha* (p. 75);—and in *Smṛticandrikā* (Saṃskāra, p. 205).
 </details>
 
 <details><summary>Bühler</summary>

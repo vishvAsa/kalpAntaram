@@ -34,8 +34,7 @@ This verse is quoted in *Smṛtitattva* (p. 835).
 **(verses 11.234-244)  
 **
 
-See Comparative notes for [Verse
-11.234].
+See Comparative notes for [Verse 11.234].
 </details>
 
 <details><summary>Bühler</summary>

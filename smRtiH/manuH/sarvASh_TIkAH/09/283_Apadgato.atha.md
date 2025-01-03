@@ -43,13 +43,7 @@ Blood also is included under ‘*filth*.’
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 765), which explains
-‘*paribhāṣaṇa*’ as ‘reproof’;—in *Vivādaratnākara* (p. 222), which
-explains ‘*paribhāṣaṇa*’ as reprimanding—‘don’t do this again’—without
-punishment,—‘*shodhyam*’, *i.e*., by the person who committed the act
-under urgent necessity;—in *Vivādacintāmaṇi* (Calcutta, p. 63), which
-explains ‘*paribhāṣaṇa*’ as ‘warning *never do so again*’—without any
-punishment—and in *Vīramitrodaya* (Vyavahāra 143b).
+This verse is quoted in *Aparārka* (p. 765), which explains ‘*paribhāṣaṇa*’ as ‘reproof’;—in *Vivādaratnākara* (p. 222), which explains ‘*paribhāṣaṇa*’ as reprimanding—‘don’t do this again’—without punishment,—‘*shodhyam*’, *i.e*., by the person who committed the act under urgent necessity;—in *Vivādacintāmaṇi* (Calcutta, p. 63), which explains ‘*paribhāṣaṇa*’ as ‘warning *never do so again*’—without any punishment—and in *Vīramitrodaya* (Vyavahāra 143b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -57,8 +51,7 @@ punishment—and in *Vīramitrodaya* (Vyavahāra 143b).
 **(verses 9.282-283)  
 **
 
-See Comparative notes for [Verse
-9.282](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201672.html#comparative-notes "English translation of verse").
+See Comparative notes for [Verse 9.282](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201672.html#comparative-notes "English translation of verse").
 </details>
 
 <details><summary>भारुचिः</summary>

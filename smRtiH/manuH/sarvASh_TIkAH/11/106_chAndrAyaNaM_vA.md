@@ -27,8 +27,7 @@ This expiation refers to those cases where the woman happens to be the wife of t
 **(verses 11.103-107)  
 **
 
-See Comparative notes for [Verse
-11.103].
+See Comparative notes for [Verse 11.103].
 </details>
 
 <details><summary>भारुचिः</summary>

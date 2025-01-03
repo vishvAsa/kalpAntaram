@@ -34,9 +34,7 @@ The same holds good regarding ‘*grandsons*’ also.
 *Vaiśvānara* sacrifice is performed by the Father, yet its results
 accrue to the Son.
 
-This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 68)—which adds
-‘*Kṛtodharmaḥ*’ should be construed as ‘*Kṛtaḥ adharma*’, as the context
-deals with *Adharma*,—‘*na* *niṣphalaḥ*,’ *i.e*., unless it is expiated.
+This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 68)—which adds ‘*Kṛtodharmaḥ*’ should be construed as ‘*Kṛtaḥ adharma*’, as the context deals with *Adharma*,—‘*na* *niṣphalaḥ*,’ *i.e*., unless it is expiated.
 </details>
 
 <details><summary>Bühler</summary>

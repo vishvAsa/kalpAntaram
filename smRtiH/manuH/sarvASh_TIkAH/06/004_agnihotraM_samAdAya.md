@@ -17,24 +17,18 @@ Taking with him the Sacred Fire, as also all the ritualistic appurtenances of th
 
 The term ‘*agnihotra*’ here stands for the *fires* themselves.
 
-Taking with himself the Fires that had been kindled according to Śrauta
-rites, and also ‘*the ritualistic appurtenances of the Fire*’—in the
-shape of the *sruk*, the *sruva* and the rest. The abandoning of all
-belongings having been laid down, the present text makes an exception in
-favour of those pertaining to the Fires—(4)
+Taking with himself the Fires that had been kindled according to Śrauta rites, and also ‘*the ritualistic appurtenances of the Fire*’—in the shape of the *sruk*, the *sruva* and the rest. The abandoning of all belongings having been laid down, the present text makes an exception in favour of those pertaining to the Fires—(4)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (3.25-27).—‘The hermit shall live in the forest... kindling
-the fire according to the rule of the Śramaṇaka, he shall offer
-oblations in the morning and evening.’
+the fire according to the rule of the Śramaṇaka, he shall offer oblations in the morning and evening.’
 
 *Baudhāyana* (2.11-15).—(See under 3.)
 
 *Vaśiṣṭha* (9.2-10).—‘The hermit shall not enter a village; kindling a
-lire according to the rule of the Śramaṇaka, he shall offer the
-Agnihotra.’
+lire according to the rule of the Śramaṇaka, he shall offer the Agnihotra.’
 
 *Viṣṇu* (94.4).—‘Let him keep the sacred fires in his new abode.’
 

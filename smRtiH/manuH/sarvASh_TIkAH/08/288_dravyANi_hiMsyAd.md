@@ -40,10 +40,7 @@ To this rule, there are some exceptions’ (and these are noted below).—(288)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 820);—in *Vivādaratnākara* (p.
-352), which adds that each case has to be taken on its merits, in
-relation to the quality of the property damaged;—in *Mitākṣarā* (p.
-264);—and in *Vivādacintāmaṇi* (p. 151).
+This verse is quoted in *Aparārka* (p. 820);—in *Vivādaratnākara* (p. 352), which adds that each case has to be taken on its merits, in relation to the quality of the property damaged;—in *Mitākṣarā* (p. 264);—and in *Vivādacintāmaṇi* (p. 151).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -52,13 +49,10 @@ relation to the quality of the property damaged;—in *Mitākṣarā* (p.
 **
 
 *Arthaśāstra* (pp. 108-109).—([See under
-285],
-then)—‘For damaging such things as clothes, ornaments, gold-vessels, the
-first amercement and also double the value of the article damaged.’
+285], then)—‘For damaging such things as clothes, ornaments, gold-vessels, the first amercement and also double the value of the article damaged.’
 
 *Kātyāyana* (Vivādaratnākara, p. 353).—‘If a man should damage, injure
-or destroy any articles, he should be made to pay the lowest
-amercement.’
+or destroy any articles, he should be made to pay the lowest amercement.’
 </details>
 
 <details><summary>भारुचिः</summary>

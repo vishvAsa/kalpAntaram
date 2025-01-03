@@ -29,9 +29,7 @@ This has been explained under the text ‘*Rājanirdhūta-daṇḍaḥ etc., etc
 
 This verse is quoted in *Vivādaratnākara* (p. 637);—in
 *Vyavahāra-Bālambhaṭṭī* (p. 1053);—and in *Prāyaścittaviveka* (p. 121),
-which says that what is forbidden is the confiscation of the property by
-the king for his own use, and not the taking of it for other purposes,
-such as is mentioned in the next verse.
+which says that what is forbidden is the confiscation of the property by the king for his own use, and not the taking of it for other purposes, such as is mentioned in the next verse.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

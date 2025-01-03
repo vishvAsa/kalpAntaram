@@ -39,9 +39,7 @@ This has been set forth here in the present context, because it deals with culti
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba* (2.28.1).—‘If a person who has taken up a plot of land for
-cultivation does not exert himself and hence the land bears no crop, he
-shall, if he is rich, be made to pay to the owner of the land the value
-of the crops that ought to have been grown.’
+cultivation does not exert himself and hence the land bears no crop, he shall, if he is rich, be made to pay to the owner of the land the value of the crops that ought to have been grown.’
 </details>
 
 <details><summary>भारुचिः</summary>

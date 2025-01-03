@@ -21,8 +21,7 @@ They shall bring them together by means of offers of food and drink, by introduc
 **(verses 9.264-269)  
 **
 
-See Comparative notes for [Verse
-9.264-266].
+See Comparative notes for [Verse 9.264-266].
 </details>
 
 <details><summary>भारुचिः</summary>

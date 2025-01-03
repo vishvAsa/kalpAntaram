@@ -38,8 +38,7 @@ The term ‘thorn’ is applied to robbers and others who are a source of suffer
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-\[See under
-[7.69]-[70].\]
+\[See under [7.69]-[70].\]
 </details>
 
 <details><summary>भारुचिः</summary>

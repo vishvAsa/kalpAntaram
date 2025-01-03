@@ -32,8 +32,7 @@ All this is a purely commendatory statement; and much attention need not be paid
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 336) under the
-section ‘Worship of the Guru’;—in *Prāyaścittaviveka* (p. 129);—and in
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 336) under the section ‘Worship of the Guru’;—in *Prāyaścittaviveka* (p. 129);—and in
 *Smṛticandrikā* (Saṃskāra, p. 95).
 </details>
 
@@ -42,8 +41,7 @@ section ‘Worship of the Guru’;—in *Prāyaścittaviveka* (p. 129);—and in
 *Viṣṇu* (31.10).—\[Reproduces Manu.\]
 
 *Śruti* (Parāśaramādhava, p. 336).—‘These objects become manifest to
-that person who has the highest devotion to God, and as towards God so
-towards the Guru.’
+that person who has the highest devotion to God, and as towards God so towards the Guru.’
 
 *Śivapurāṇa* (Parāśaramādhava, p. 336).—‘The Guru has been declared to
 be Śiva.’

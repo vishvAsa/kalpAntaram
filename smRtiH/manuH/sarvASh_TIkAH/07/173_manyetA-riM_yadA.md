@@ -34,8 +34,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 327).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇudharmottara* (Vīramitrodaya-Rājanīti, p. 327).—‘The powerful king
-shall have recourse to the division of his army, when he finds that his
-rear-guard is not reliable.’
+shall have recourse to the division of his army, when he finds that his rear-guard is not reliable.’
 </details>
 
 <details><summary>भारुचिः</summary>

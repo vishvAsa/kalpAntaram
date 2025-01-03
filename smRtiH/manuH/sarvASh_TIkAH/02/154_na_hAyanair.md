@@ -28,18 +28,13 @@ The term ‘*made*’ stands for *laying* not for bringing into existence what d
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Anūcānaḥ*’—‘Teacher of the Veda’ (Medhātithi and Govindarāja);—‘he who
-has learnt the Veda’ (Kullūka, Nārāyaṇa, Nandana and Rāghavānanda).
+‘*Anūcānaḥ*’—‘Teacher of the Veda’ (Medhātithi and Govindarāja);—‘he who has learnt the Veda’ (Kullūka, Nārāyaṇa, Nandana and Rāghavānanda).
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 305);—in
 *Vīramitrodaya* (Saṃskāra p. 480);—and in *Smṛticandrikā* (Saṃskāra, p.
-93), which explains the meaning as, ‘the sages have not laid down the
-principle that greatness depends on years and the rest; what they have
-asserted is that among us he is great who is the best expounder of the
-‘Veda.’
+93), which explains the meaning as, ‘the sages have not laid down the principle that greatness depends on years and the rest; what they have asserted is that among us he is great who is the best expounder of the ‘Veda.’
 
-“This verse with the following one is proverbial, and is repeated
-several times in the Mahābhārata and the other law-books.”—Hopkins.
+“This verse with the following one is proverbial, and is repeated several times in the Mahābhārata and the other law-books.”—Hopkins.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -47,8 +42,7 @@ several times in the Mahābhārata and the other law-books.”—Hopkins.
 **(verse 150-154)  
 **
 
-See Comparative notes for [Verse
-2.150].
+See Comparative notes for [Verse 2.150].
 </details>
 
 <details><summary>Bühler</summary>

@@ -28,8 +28,7 @@ The present text is a commendatory exaggeration: it is not meant that meat shoul
 **(verses 5.48-49)  
 **
 
-See Explanatory notes for [Verse
-5.48].
+See Explanatory notes for [Verse 5.48].
 </details>
 
 <details><summary>Bühler</summary>

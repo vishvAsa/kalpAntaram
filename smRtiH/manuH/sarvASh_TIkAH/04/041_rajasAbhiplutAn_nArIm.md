@@ -24,9 +24,7 @@ This verse is supplementary to the preceding Verse.—(41)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 562), which explains
-it to mean that if he approaches her during the first four days, he
-loses his wisdom &c.—in *Hemādri* (Kāla, p. 726);—and in
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 562), which explains it to mean that if he approaches her during the first four days, he loses his wisdom &c.—in *Hemādri* (Kāla, p. 726);—and in
 *Nṛsiṃhaprasāda* (Saṃskāra, p. 25a).
 </details>
 
@@ -35,8 +33,7 @@ loses his wisdom &c.—in *Hemādri* (Kāla, p. 726);—and in
 **(verses 4.40-42)  
 **
 
-See Comparative notes for [Verse
-4.40].
+See Comparative notes for [Verse 4.40].
 </details>
 
 <details><summary>Bühler</summary>

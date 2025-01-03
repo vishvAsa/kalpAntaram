@@ -24,8 +24,7 @@ This is a reference to the law going to be laid down below (under 415).
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 154), which explains the
-meaning to be that a *Śūdra* may be made to do even the meanest service.
+This verse is quoted in *Vivādaratnākara* (p. 154), which explains the meaning to be that a *Śūdra* may be made to do even the meanest service.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -33,8 +32,7 @@ meaning to be that a *Śūdra* may be made to do even the meanest service.
 **(verses 8.410-418)  
 **
 
-See Comparative notes for [Verse
-8.410].
+See Comparative notes for [Verse 8.410].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -36,27 +36,19 @@ On the other hand, if the King were to realise taxes at all times of the year, t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodayā* (Rājanīti, p. 275), which
-explains ‘*ātmamūloccheda*’ as ‘not realising revenues and taxes,’ and
-‘*paramuloccheda*’ as ‘realising more revenue and taxes than what is
-proper.’
+This verse is quoted in *Vīramitrodayā* (Rājanīti, p. 275), which explains ‘*ātmamūloccheda*’ as ‘not realising revenues and taxes,’ and ‘*paramuloccheda*’ as ‘realising more revenue and taxes than what is proper.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (12.87.18).—‘Taxes therefore shall be levied by the king
-after proper investigation; he should not destroy his own as well as
-other people’s roots by too much greed.’
+after proper investigation; he should not destroy his own as well as other people’s roots by too much greed.’
 
 *Yājñavalkya* (1.338-339).—‘The king, who unlawfully adds to his
-treasury out of the kingdom, speedily perishes along with his relations,
-losing all his prosperity. The fire arising out of the heat produced by
-harassing the people, is extinguished only after having burnt the king’s
-prosperity, family and life.’
+treasury out of the kingdom, speedily perishes along with his relations, losing all his prosperity. The fire arising out of the heat produced by harassing the people, is extinguished only after having burnt the king’s prosperity, family and life.’
 
 *Kātyāyana* (Vīramitrodaya-Rājanīti, p. 276).—‘The king who unlawfully
-realises from the kingdom, taxes, fines, duties and shares of the land’s
-produce, is a sinner.’
+realises from the kingdom, taxes, fines, duties and shares of the land’s produce, is a sinner.’
 </details>
 
 <details><summary>भारुचिः</summary>

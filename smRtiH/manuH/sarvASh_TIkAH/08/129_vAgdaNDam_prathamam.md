@@ -32,26 +32,15 @@ If he does not mind the fine either through folly or pride of wealth,—then he 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (1.366), which, in quoting it,
-transposes, ‘*vāgdaṇḍam*’ and ‘*dhigdaṇḍam*,’—such reading is more in
-keeping with Yājñvalkya’s text (1.356),—and it explains ‘*dhigdaṇḍa*’ as
-addressing such terms as ‘fie upon thee,’—and ‘*vāgdaṇḍa*’ as
-‘pronouncing a terrible curse
+This verse is quoted in *Mitākṣarā* (1.366), which, in quoting it, transposes, ‘*vāgdaṇḍam*’ and ‘*dhigdaṇḍam*,’—such reading is more in keeping with Yājñvalkya’s text (1.356),—and it explains ‘*dhigdaṇḍa*’ as addressing such terms as ‘fie upon thee,’—and ‘*vāgdaṇḍa*’ as ‘pronouncing a terrible curse
 
-It is quoted in *Parāśaramādhava* (Vyavahāra, p. 156); as laying down
-the order of sequence among the various forms of punishment; it explains
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 156); as laying down the order of sequence among the various forms of punishment; it explains
 *vāgdaṇḍa* as pronouncing a terrible curse (reproducing the exact words
-of Mitākṣarā) and ‘*dhigdaṇḍa*’ as ‘chiding with such words as *fie* and
-the like.’
+of Mitākṣarā) and ‘*dhigdaṇḍa*’ as ‘chiding with such words as *fie* and the like.’
 
-It is quoted in *Vivādaratnākara* (p. 630), which adds the following
-notes:—‘*vāgdaṇḍa*’, ‘thou hast not done right,’—‘*dhigdaṇḍa*’, ‘fie
-upon thee, damned sinner.’
+It is quoted in *Vivādaratnākara* (p. 630), which adds the following notes:—‘*vāgdaṇḍa*’, ‘thou hast not done right,’—‘*dhigdaṇḍa*’, ‘fie upon thee, damned sinner.’
 
-It is quoted in *Vīramitrodaya* (Rājanīti, p. 273), which adds the
-following notes:—The first two forms of punishment are meant for light
-offences; ‘*vadhadaṇḍa*’ means *corporal punishment*, which has to be
-inflicted upon all except the Brāhmaṇas.
+It is quoted in *Vīramitrodaya* (Rājanīti, p. 273), which adds the following notes:—The first two forms of punishment are meant for light offences; ‘*vadhadaṇḍa*’ means *corporal punishment*, which has to be inflicted upon all except the Brāhmaṇas.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -60,9 +49,7 @@ inflicted upon all except the Brāhmaṇas.
 **
 
 *Yājñavalkya* (1.366).—‘Punishment in the form of Reproach, (2) in the
-form of Reprimand and (3) in the form of Fine,—shall be inflicted either
-severally or collectively, in accordance with the nature of the
-offence.’
+form of Reprimand and (3) in the form of Fine,—shall be inflicted either severally or collectively, in accordance with the nature of the offence.’
 
 *Bṛhaspati* (27.4-5).—(See under 120.)
 </details>

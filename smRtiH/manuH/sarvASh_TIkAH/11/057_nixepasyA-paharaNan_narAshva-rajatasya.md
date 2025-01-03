@@ -30,9 +30,7 @@ Stealing of a deposit, or of men, horse, silver, land, diamonds and other oems,�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.265), as referring to the
-stealing of property belonging to the Brāhmana;—in *Parāśaramādhava*
-(Prāyaścitta p. 421);—in *Aparārka* (p. 1048);—and in
+This verse is quoted in *Mitākṣarā* (3.265), as referring to the stealing of property belonging to the Brāhmana;—in *Parāśaramādhava* (Prāyaścitta p. 421);—in *Aparārka* (p. 1048);—and in
 *Prāyaścittaviveka* (p. 177 and 344), which has the following
 note—‘Deposit’, belonging to the Brāhmaṇa.
 </details>

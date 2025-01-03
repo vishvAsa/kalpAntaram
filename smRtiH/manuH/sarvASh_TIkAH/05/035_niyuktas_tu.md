@@ -26,22 +26,17 @@ Except when there is danger to life through hunger, if a man does not worship th
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 251), which explains ‘*niyuktaḥ*’
-as ‘invited, at a sacrifice to the gods or at a Śrāddha’;—in *Mitākṣarā*
-(on 1.179) to the effect that one must eat meat when iṅvited to a
-Śrāddha;—in
+This verse is quoted in *Aparārka* (p. 251), which explains ‘*niyuktaḥ*’ as ‘invited, at a sacrifice to the gods or at a Śrāddha’;—in *Mitākṣarā* (on 1.179) to the effect that one must eat meat when iṅvited to a Śrāddha;—in
 
 *Nirṇayasindhu* (p. 294) as setting forth the sinfulness of not eating
-the meat duly offered;—in *Vīramitrodaya* (Āhnika, p. 530), which
-explains ‘*sambhavān*’ as ‘births’;—in *Smṛtitattva* (p. 449);—in
+the meat duly offered;—in *Vīramitrodaya* (Āhnika, p. 530), which explains ‘*sambhavān*’ as ‘births’;—in *Smṛtitattva* (p. 449);—in
 *Hemādri* (Śrāddha, p. 577);—and in *Prāyaścittaviveka* (p. 279), which
 remarks that this refers to such meat as is not forbidden.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-Vaśiṣṭha (11.34).—‘An ascetic who, invited to dine at a sacrifice to
-Pitṛs or to gods, refuses meat, shall go to hell.’
+Vaśiṣṭha (11.34).—‘An ascetic who, invited to dine at a sacrifice to Pitṛs or to gods, refuses meat, shall go to hell.’
 
 *Yama* (Aparārka, p. 251).—‘The man who, invited to a Śrāddha or to a
 sacrifice to the gods, refuses meat, shall go to hell, etc.’

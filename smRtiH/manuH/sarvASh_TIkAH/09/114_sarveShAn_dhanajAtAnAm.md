@@ -36,17 +36,11 @@ Others again declare that the term refers to a particular kind of animals; those
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Yacca sātiśayam kiñcit*.’—‘A dress or an ornament’
-(Medhātithi);—‘something impartible, like an idol’ (Nandana).
+‘*Yacca sātiśayam kiñcit*.’—‘A dress or an ornament’ (Medhātithi);—‘something impartible, like an idol’ (Nandana).
 
-‘*Daśataḥ varam*’—‘The best among ten animals’ (Medhātithi, Kullūka,
-Nārāyaṇa and Rāghavānanda);—‘ten superior articles’ (‘others’ in
-Medhātithi; the reading for ‘*varam*,’ in this case, being
-‘*varān*’).—‘Everything shall he divided into ten shares and the eldest
-shall receive one such share in excess’ (Nandana).
+‘*Daśataḥ varam*’—‘The best among ten animals’ (Medhātithi, Kullūka, Nārāyaṇa and Rāghavānanda);—‘ten superior articles’ (‘others’ in Medhātithi; the reading for ‘*varam*,’ in this case, being ‘*varān*’).—‘Everything shall he divided into ten shares and the eldest shall receive one such share in excess’ (Nandana).
 
-This verse is quoted in *Vivādaratnākara* (p. 469), which adds an
-explanation (for which see note on 112).
+This verse is quoted in *Vivādaratnākara* (p. 469), which adds an explanation (for which see note on 112).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -55,12 +49,10 @@ explanation (for which see note on 112).
 112-113.]
 
 *Gautama* (28.11-13).—‘Or, let them each take one kind of property,
-selecting, according to seniority, what they desire, ten head of cattle.
-But no one brother shall take ten one-hoofed animals or ten slaves.’
+selecting, according to seniority, what they desire, ten head of cattle. But no one brother shall take ten one-hoofed animals or ten slaves.’
 
 *Vaśiṣṭha* (17. 42-45).—‘Let the eldest take a double share;—and a tithe
-of kine and horses:—the goats, the sheep, the house belong to the
-youngest;—black iron, the utensils and the furniture to the middlemost.’
+of kine and horses:—the goats, the sheep, the house belong to the youngest;—black iron, the utensils and the furniture to the middlemost.’
 
 *Yājñavalkya* (2-114).—(See above under 312-313.)
 </details>

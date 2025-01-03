@@ -38,16 +38,9 @@ The option is based either upon the peculiarity of the attendant circumstances o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The amount of the fine depends on the circumstances of the case and the
-virtues of the offender (Medhātithi),—or only on the virtues of the
-offender (Govindarāja, Kullūka and Rāghavānanda).
+The amount of the fine depends on the circumstances of the case and the virtues of the offender (Medhātithi),—or only on the virtues of the offender (Govindarāja, Kullūka and Rāghavānanda).
 
-The first half of this verse is quoted in *Aparārka* (p. 641);—and the
-whole verse in *Vivādaratnākara* (p. 642), which adds the following
-notes:—‘*Alpīyasīm kalām*’ implies that'the fine is to be imposed in
-such a manner that the entire treasure may not become absorbed,—this
-being meant for those cases where the exact extent of the
-entire-property is not known.
+The first half of this verse is quoted in *Aparārka* (p. 641);—and the whole verse in *Vivādaratnākara* (p. 642), which adds the following notes:—‘*Alpīyasīm kalām*’ implies that'the fine is to be imposed in such a manner that the entire treasure may not become absorbed,—this being meant for those cases where the exact extent of the entire-property is not known.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -55,14 +48,12 @@ entire-property is not known.
 *Agnipurāṇa* (Rājadharma, 222.16).—(Same as Manu.)
 
 *Viṣṇu* (3.64).—‘The man, who falsely claims property hidden by another
-as having been hidden by himself, shall he condemned to pay a fine equal
-in amount to the property falsely claimed by him.’
+as having been hidden by himself, shall he condemned to pay a fine equal in amount to the property falsely claimed by him.’
 
 *Yājñavalkya* (2.35).—(See under 31.)
 
 *Nārada* (Vivādaratnākara, p. 642).—‘If a man recovers his own lost
-property, he shall report it to the King; and if he makes good his
-claim, he shall take it; otherwise he would be suspected.’
+property, he shall report it to the King; and if he makes good his claim, he shall take it; otherwise he would be suspected.’
 </details>
 
 <details><summary>भारुचिः</summary>

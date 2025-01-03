@@ -48,8 +48,7 @@ of only *one* insect.
 **(verses 11.140-141)  
 **
 
-See Comparative notes for [Verse
-11.140].
+See Comparative notes for [Verse 11.140].
 </details>
 
 <details><summary>भारुचिः</summary>

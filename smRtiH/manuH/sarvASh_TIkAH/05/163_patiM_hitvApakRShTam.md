@@ -24,9 +24,7 @@ It is not only Contempt and disgrace that is hers; but something more (described
 
 This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 30);—and in
 *Vivādaratnākara* (p. 452), which adds that for being called
-‘*Parapūrva*’ the only necessary condition is that she should have taken
-another husband; and not that this husband must be of a lower caste (as
-the words of the text would seem to imply).
+‘*Parapūrva*’ the only necessary condition is that she should have taken another husband; and not that this husband must be of a lower caste (as the words of the text would seem to imply).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -34,8 +32,7 @@ the words of the text would seem to imply).
 **(verses 5.154-163)  
 **
 
-See Comparative notes for [Verse
-5.154].
+See Comparative notes for [Verse 5.154].
 </details>
 
 <details><summary>Bühler</summary>

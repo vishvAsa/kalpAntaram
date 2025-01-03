@@ -37,8 +37,7 @@ This verse mentions the names (of Organs).—(90)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted (along with 92) in *Aparārka* (p. 982) as
-enumerating the sense organs.
+This verse is quoted (along with 92) in *Aparārka* (p. 982) as enumerating the sense organs.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -46,8 +45,7 @@ enumerating the sense organs.
 **(Verses 89-92)  
 **
 
-See Comparative notes for [Verse
-2.89].
+See Comparative notes for [Verse 2.89].
 </details>
 
 <details><summary>Bühler</summary>

@@ -32,11 +32,9 @@ Or, the term ‘*bhāva*’, ‘*spirit*,’ may stand for *desire, purpose*, th
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Dhāvena*’—‘Disposition’ (Medhātithi, Govindarāja, Nārāyaṇa and
-Rāghavānanda);—‘motive’ (suggested by Medhātithi,and also Kullūka).
+‘*Dhāvena*’—‘Disposition’ (Medhātithi, Govindarāja, Nārāyaṇa and Rāghavānanda);—‘motive’ (suggested by Medhātithi,and also Kullūka).
 
-This verse is quoted in *Hemādri* (Dāna, p. 17), which, explains
-‘*bhāva*’ as standing for the predominance of one or other of the three
+This verse is quoted in *Hemādri* (Dāna, p. 17), which, explains ‘*bhāva*’ as standing for the predominance of one or other of the three
 *guṇas*, Sattva, Rajas and Tamas.
 </details>
 
@@ -46,10 +44,7 @@ This verse is quoted in *Hemādri* (Dāna, p. 17), which, explains
 **
 
 *Mahābhārata* (Anuśāsana, 17.3.5.6).—‘Neither father, nor mother, nor
-brother, nor son, nor teacher, nor relations, parental or marital, nor
-friends are any help to man;...therefore with lawfully acquired riches,
-the wise man should serve Righteousness; Righteousness is the only
-helper for men as regards the other world.’
+brother, nor son, nor teacher, nor relations, parental or marital, nor friends are any help to man;...therefore with lawfully acquired riches, the wise man should serve Righteousness; Righteousness is the only helper for men as regards the other world.’
 
 *Āpastamba* (1.7.22.23).—‘Having made a gift, one should not advertise
 it;—having done an act, one should not think of it again.’

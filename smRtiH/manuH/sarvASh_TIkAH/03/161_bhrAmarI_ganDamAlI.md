@@ -44,11 +44,7 @@ Not so; *deriding* is something totally different from being *inimical*; being *
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 688), and on p.
-694, the term ‘*bhrāmarī*’ is explained as ‘*vṛttyarthameva bhramaravat
-arthārjakaḥ*,’ ‘one who, for his living, picks up wealth from here,
-there and everywhere, like the black bee’;—in *Hemādri* (Śrāddha, p.
-481);—and in *Nṛsiṃhaprasāda* (Śrāddha, p. 9a).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 688), and on p. 694, the term ‘*bhrāmarī*’ is explained as ‘*vṛttyarthameva bhramaravat arthārjakaḥ*,’ ‘one who, for his living, picks up wealth from here, there and everywhere, like the black bee’;—in *Hemādri* (Śrāddha, p. 481);—and in *Nṛsiṃhaprasāda* (Śrāddha, p. 9a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -56,8 +52,7 @@ there and everywhere, like the black bee’;—in *Hemādri* (Śrāddha, p.
 **(verses 3.150-166)  
 **
 
-See Comparative notes for [Verse
-3.150].
+See Comparative notes for [Verse 3.150].
 </details>
 
 <details><summary>Bühler</summary>

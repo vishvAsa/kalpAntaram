@@ -28,8 +28,7 @@ The four acts mentioned bring about their result in the form of the remembrance 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 229), where ‘*jātī*’ is explained
-as ‘birth’;—and in *Vīramitrodaya* (Āhnika, p. 320).
+This verse is quoted in *Aparārka* (p. 229), where ‘*jātī*’ is explained as ‘birth’;—and in *Vīramitrodaya* (Āhnika, p. 320).
 </details>
 
 <details><summary>Bühler</summary>

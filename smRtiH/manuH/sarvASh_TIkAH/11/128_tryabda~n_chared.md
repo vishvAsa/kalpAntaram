@@ -38,11 +38,7 @@ This, however, is not right. For what the present verse does is to apply to the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-According to Medhātithi and Rāghavānanda this verse only reiterates what
-has been prescribed in verse 126, all the details of which are meant to
-be observed in the present connection;—but according to Govindarāja and
-Kullūka, the special details, of carrying the skull and so forth, which
-are not expressly mentioned here, are not meant here.
+According to Medhātithi and Rāghavānanda this verse only reiterates what has been prescribed in verse 126, all the details of which are meant to be observed in the present connection;—but according to Govindarāja and Kullūka, the special details, of carrying the skull and so forth, which are not expressly mentioned here, are not meant here.
 
 This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 128);—and in
 *Prāyaścittaviveka* (pp. 216 and 534).
@@ -53,8 +49,7 @@ This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 128);—and in
 **(verses 11.126-130)  
 **
 
-See Comparative notes for [Verse
-11.126].
+See Comparative notes for [Verse 11.126].
 </details>
 
 <details><summary>भारुचिः</summary>

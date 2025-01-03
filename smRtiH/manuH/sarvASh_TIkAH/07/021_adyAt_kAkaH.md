@@ -26,9 +26,7 @@ Further, ‘the *rights of ownership*’—the relation of possessor and possess
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 648), which explains
-‘*adharottaram*’ as ‘subversion of the natural order of superiority and
-inferiority;’—in *Vīramitrodaya* (Rājanīti, p. 292);—and in
+This verse is quoted in *Vivādaratnākara* (p. 648), which explains ‘*adharottaram*’ as ‘subversion of the natural order of superiority and inferiority;’—in *Vīramitrodaya* (Rājanīti, p. 292);—and in
 *Vīvādacintāmaṇi* (p. 263), which explains ‘*adharottaram*’ as ‘the
 reversal of all standards of superiority and inferiority.’
 </details>

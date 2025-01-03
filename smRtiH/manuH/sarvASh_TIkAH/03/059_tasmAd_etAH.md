@@ -21,15 +21,9 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
-> interpolations?\] “These are very probably a later addition. The
-> corresponding section in the Mahābhārata, 13.46 stops right here
-> also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
-> *Parāśaramādhava*.
+> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they > interpolations?\] “These are very probably a later addition. The > corresponding section in the Mahābhārata, 13.46 stops right here > also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in > *Parāśaramādhava*.
 
-‘*Satkāreṣu*’—‘On holidays’ (Govindarāja, Kullūka, and
-Rāghavānanda);—Reading ‘*Satkāreṇa*’, Nārāyaṇa explains it as ‘by kind
-speech’.
+‘*Satkāreṣu*’—‘On holidays’ (Govindarāja, Kullūka, and Rāghavānanda);—Reading ‘*Satkāreṇa*’, Nārāyaṇa explains it as ‘by kind speech’.
 
 This verse is quoted in *Vivādaratnākara* (p. 418);—and in
 *Parāśaramādhava* (Ācāra, p. 506).
@@ -38,8 +32,7 @@ This verse is quoted in *Vivādaratnākara* (p. 418);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (Anuśā. 46.15).—‘The women are like the Goddess of Wealth:
-they should be respected by the man desiring his own welfare; when loved
-and fondled, woman becomes the veritable Goddess of Prosperity.’
+they should be respected by the man desiring his own welfare; when loved and fondled, woman becomes the veritable Goddess of Prosperity.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -28,10 +28,7 @@ This verse serves to make clear what has been said before. If the creditor recov
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 74), which explains the
-meaning to be that if a creditor adopts any of the five methods
-mentioned in the preceding verse, he should not be prevented by the king
-from doing so and in *Kṛtyakalpataru* (p. 80a).
+This verse is quoted in *Vivādaratnākara* (p. 74), which explains the meaning to be that if a creditor adopts any of the five methods mentioned in the preceding verse, he should not be prevented by the king from doing so and in *Kṛtyakalpataru* (p. 80a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -43,8 +40,7 @@ by him shall not be reproved by the King.’
 he shall not be reproved by the King.’
 
 *Nārada* (1.123).—‘A creditor who tries to recover his loan from the
-debtor must not be checked by the King, both for secular and religious
-reasons.’
+debtor must not be checked by the King, both for secular and religious reasons.’
 </details>
 
 <details><summary>भारुचिः</summary>

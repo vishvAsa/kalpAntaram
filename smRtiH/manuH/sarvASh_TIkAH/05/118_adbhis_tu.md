@@ -46,17 +46,9 @@ If even by washing the stain in the cloth does not go, then that much of it shou
 
 (Verse 118 of others.)
 
-This verse is quoted in *Mitākṣarā* (on 1.184), which adds that when a
-lager portion of the heap is defiled, then the whole lot should be
-washed; while if a smaller portion only is defiled, then that small
-quantity should be washed;—in *Madanapārijāta* (p. 453), which adds that
-what is indicated by ‘*bahūnām*’ ‘large quantities’, is that quantity
-which is more than what can be carried by one man;—in *Parāśaramādhava*
-(Prāyaścitta, p. 136);—in *Smṛtitattva* (II, p. 297);—in *Hemādri*
-(Śrāddha, p. 805);—in *Nṛsiṃhaprasāda* (Śrāddha, p. 166);—in
+This verse is quoted in *Mitākṣarā* (on 1.184), which adds that when a lager portion of the heap is defiled, then the whole lot should be washed; while if a smaller portion only is defiled, then that small quantity should be washed;—in *Madanapārijāta* (p. 453), which adds that what is indicated by ‘*bahūnām*’ ‘large quantities’, is that quantity which is more than what can be carried by one man;—in *Parāśaramādhava* (Prāyaścitta, p. 136);—in *Smṛtitattva* (II, p. 297);—in *Hemādri* (Śrāddha, p. 805);—in *Nṛsiṃhaprasāda* (Śrāddha, p. 166);—in
 *Śuddhikaumudī* (p. 310);—and in *Smṛtisāroddhāra*, (p. 248), which
-notes that ‘*bahutva*’, ‘largeness of quantity’, is to be determined by
-the consideration of what can be carried by one or more men.
+notes that ‘*bahutva*’, ‘largeness of quantity’, is to be determined by the consideration of what can be carried by one or more men.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -71,15 +63,12 @@ the consideration of what can be carried by one or more men.
 and the like shall be cleansed with earth, water and the like.’
 
 *Baudhāyana* (1.14.11, 12).—‘If unhusked rice has been defiled, it must
-he washed and dried;—hut a large quantity should he sprinkled with
-water.’
+he washed and dried;—hut a large quantity should he sprinkled with water.’
 
 *Vaśiṣṭha* (3.49).—‘...cloth made of yarns should be washed.’
 
 *Viṣṇu* (23.13, 14, 18).—‘A large quantity of anything is cleansed by
-sprinkling water;—so also grain, skins, ropes, woven cloth, things made
-of bamboo, thread, cotton and clothes—when there are large quantities of
-them; when in small quantities these are cleansed by washing.’
+sprinkling water;—so also grain, skins, ropes, woven cloth, things made of bamboo, thread, cotton and clothes—when there are large quantities of them; when in small quantities these are cleansed by washing.’
 
 *Yājñavalkya* (1.184).—(See under 116.)
 </details>

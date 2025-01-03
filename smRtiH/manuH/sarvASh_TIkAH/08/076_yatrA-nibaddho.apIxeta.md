@@ -30,13 +30,9 @@ The rest is clear.—(76)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Anibaddhaḥ*’—‘Not entered as a witness in the document’
-(Medhātithi),‘—but accidentally present at the transaction’ (Kullūka,
-Nārāyaṇa and Nandana).
+‘*Anibaddhaḥ*’—‘Not entered as a witness in the document’ (Medhātithi),‘—but accidentally present at the transaction’ (Kullūka, Nārāyaṇa and Nandana).
 
-This verse is quoted in *Vyavahāratattva* (p. 26);—in *Kṛtyakalpataru*
-(28a);—and in *Vīramitrodaya* (Vyavahāra, 46a), which explains
-‘*anibaddhaḥ*’ as ‘not cited or entered.’
+This verse is quoted in *Vyavahāratattva* (p. 26);—in *Kṛtyakalpataru* (28a);—and in *Vīramitrodaya* (Vyavahāra, 46a), which explains ‘*anibaddhaḥ*’ as ‘not cited or entered.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -45,16 +41,12 @@ This verse is quoted in *Vyavahāratattva* (p. 26);—in *Kṛtyakalpataru*
 who have heard the tacts from him may give evidence.’
 
 *Śukranīti* (4.5.392).—‘A person present in court must depose truly as
-to what he has seen or heard, when asked, even though he may not have
-been cited as a witness.’
+to what he has seen or heard, when asked, even though he may not have been cited as a witness.’
 
 *Nārada* (1.161).—‘He who, without having been appointed to ho a
-witness, comes of his own accord to make a deposition, is termed a *spy*
-in the law-books; he is unworthy to bear testimony.’
+witness, comes of his own accord to make a deposition, is termed a *spy* in the law-books; he is unworthy to bear testimony.’
 
-Do. (1.166).—‘If a witness dies or goes abroad after having been
-appointed, those who may have heard his statement may give evidence; for
-indirect proof makes evidence.’
+Do. (1.166).—‘If a witness dies or goes abroad after having been appointed, those who may have heard his statement may give evidence; for indirect proof makes evidence.’
 </details>
 
 <details><summary>भारुचिः</summary>

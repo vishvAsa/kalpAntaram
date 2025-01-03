@@ -26,8 +26,7 @@ Kings, Kṣatriyas, priests of kings, and leading wranglers and warriors represe
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 1000);—in *Madanapārijāta* (p.
-693);—in *Parāśaramādhava* (Prāyaścitta, p. 488);—and in
+This verse is quoted in *Aparārka* (p. 1000);—in *Madanapārijāta* (p. 693);—in *Parāśaramādhava* (Prāyaścitta, p. 488);—and in
 *Nṛsimhaprasāda* (Prāyaścitta 41a).
 </details>
 
@@ -36,8 +35,7 @@ This verse is quoted in *Aparārka* (p. 1000);—in *Madanapārijāta* (p.
 **(verses 12.32-51)  
 **
 
-See Comparative notes for [Verse
-12.32].
+See Comparative notes for [Verse 12.32].
 </details>
 
 <details><summary>Bühler</summary>

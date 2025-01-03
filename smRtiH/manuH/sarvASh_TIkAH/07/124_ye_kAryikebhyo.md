@@ -24,8 +24,7 @@ Those officers appointed for protecting the people who—‘*from men engaged in
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 367), which explains
-‘*kāryikebhyaḥ*’ as ‘men who have business, suitors.’
+This verse is quoted in *Vivādaratnākara* (p. 367), which explains ‘*kāryikebhyaḥ*’ as ‘men who have business, suitors.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

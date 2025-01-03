@@ -26,8 +26,7 @@ This same idea is otherwise expressed by calling the act ‘*counterfeit virtue*
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 283);—and in *Hemādri* (Dāna p.
-40).
+This verse is quoted in *Aparārka* (p. 283);—and in *Hemādri* (Dāna p. 40).
 
 \[note: this either belongs to verse 8 or 9\]
 </details>

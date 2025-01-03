@@ -22,8 +22,7 @@ Desiring his own prosperity, he shall never despise a Kṣatriya, a serpent, a l
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 194);—and in *Parāśaramādhava*
-(Ācāra, p. 523).
+This verse is quoted in *Aparārka* (p. 194);—and in *Parāśaramādhava* (Ācāra, p. 523).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -38,9 +37,7 @@ for ‘*vai bhūṣṇuḥ*’ and ‘*etat prayatnena*’ for ‘*etat trayanni
 self,—these should never be despised.’
 
 *Mahābhārata* (Anuśāsana, 161.82).—‘Desiring to live a long life, one
-shall never despise the following three, even though they be very much
-reduced—the Brāhmaṇa, the Kṣatriya, the serpent and other poisonous
-animals.’
+shall never despise the following three, even though they be very much reduced—the Brāhmaṇa, the Kṣatriya, the serpent and other poisonous animals.’
 </details>
 
 <details><summary>Bühler</summary>

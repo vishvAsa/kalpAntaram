@@ -71,10 +71,7 @@ Our answer to the above is that one can always ‘buy’ the meat brought by fow
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 527), which adds
-that ‘*svayamutpādya*’ refers to the *Kṣatriya* alone;—in *Smṛtitattva*
-(p. 449);—in *Hemādri* (Śrāddha, p. 582);—and in *Prāyaścittaviveka* (p.
-276).
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 527), which adds that ‘*svayamutpādya*’ refers to the *Kṣatriya* alone;—in *Smṛtitattva* (p. 449);—in *Hemādri* (Śrāddha, p. 582);—and in *Prāyaścittaviveka* (p. 276).
 </details>
 
 <details><summary>Bühler</summary>

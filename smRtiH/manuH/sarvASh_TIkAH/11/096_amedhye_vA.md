@@ -36,8 +36,7 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 548).
 **(verses 11.94-97)  
 **
 
-See Comparative notes for [Verse
-11.94].
+See Comparative notes for [Verse 11.94].
 </details>
 
 <details><summary>भारुचिः</summary>

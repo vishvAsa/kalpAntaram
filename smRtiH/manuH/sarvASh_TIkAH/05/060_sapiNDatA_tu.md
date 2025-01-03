@@ -171,35 +171,9 @@ In the case of persons within the limits of ‘Samānodaka-relationship,’ all 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka*, (p. 893), as providing the
-definition of the ‘*Samānodaka*’ relationship, and explains the meaning
-to be that this relationship subsists among all those people who clearly
-recognise a common ancestor;—in *Mitākṣarā* (on 1.253);—in
+This verse is quoted in *Aparārka*, (p. 893), as providing the definition of the ‘*Samānodaka*’ relationship, and explains the meaning to be that this relationship subsists among all those people who clearly recognise a common ancestor;—in *Mitākṣarā* (on 1.253);—in
 *Parāśaramādhava* (Ācāra, p. 590);—in *Vyāvahāramayūkha* (p. 63) which,
-construes ‘*Saptame*’ as ‘*Saptame atīte*,’ so that the seventh also
-becomes included in ‘*Sapiṇḍa*’ relationship;—in *Madanapārijāta* (p.
-427);—in *Śuddhimayūkha* (p. 37), which says that ‘*vinivartate*’ is to
-be construed with the second line also;—in *Smṛtisāroddhāra* (p. 230),
-which says that from the point where ‘*Samānodaka*’ relationship ceases,
-‘*Sagotra*’ relationship alone remains;—in *Nityācārapradīpa* (p. 104),
-which quotes Medhātithi to the effect that all those who are descended
-from the great-grandfather of one’s own great-grandfather are his
-‘Sapiṇḍas’;—in *Hāralatā* (p. 96), which has the following note:—Six
-ancestors beginning from one’s father are *his* ‘Sapiṇḍa,’ the seventh
-ancestor is not ‘*Sapiṇḍa*’; and the reason for this lies in the fact
-that one’s three immediate ancestors—father, grandfather and
-great-grandfather—are entitled to receive the ‘piṇḍa’ from him, and the
-next three ancestors—*i*. *e*., the father, grandfather and
-great-grandfather of the great-grandfather,—are entitled to the
-‘smearings of his piṇḍa;’ while the seventh ancestor is not entitled to
-any share of *Piṇḍa*; it adds that the man himself is ‘*Sapiṇḍa*’ of his
-own six ancestors;—in *Śuddhikaumudī* (p. 52), which explains that the
-‘Sapiṇḍā’ relationship ceases in one’s *seventh* ancestor, and
-‘*Samānodaka*’ relationship extends upto that person who is known to be
-descended from ‘my such and such ancestor,’ and from the point where no
-such descent can be specifically pointed out, that relationship ceases
-and beyond that all are ‘*gotraja*’ only;—in *Gadādharapaddhati* (Kāla,
-p. 256), which reproduces Medhātithi’s remark quoted above;—in
+construes ‘*Saptame*’ as ‘*Saptame atīte*,’ so that the seventh also becomes included in ‘*Sapiṇḍa*’ relationship;—in *Madanapārijāta* (p. 427);—in *Śuddhimayūkha* (p. 37), which says that ‘*vinivartate*’ is to be construed with the second line also;—in *Smṛtisāroddhāra* (p. 230), which says that from the point where ‘*Samānodaka*’ relationship ceases, ‘*Sagotra*’ relationship alone remains;—in *Nityācārapradīpa* (p. 104), which quotes Medhātithi to the effect that all those who are descended from the great-grandfather of one’s own great-grandfather are his ‘Sapiṇḍas’;—in *Hāralatā* (p. 96), which has the following note:—Six ancestors beginning from one’s father are *his* ‘Sapiṇḍa,’ the seventh ancestor is not ‘*Sapiṇḍa*’; and the reason for this lies in the fact that one’s three immediate ancestors—father, grandfather and great-grandfather—are entitled to receive the ‘piṇḍa’ from him, and the next three ancestors—*i*. *e*., the father, grandfather and great-grandfather of the great-grandfather,—are entitled to the ‘smearings of his piṇḍa;’ while the seventh ancestor is not entitled to any share of *Piṇḍa*; it adds that the man himself is ‘*Sapiṇḍa*’ of his own six ancestors;—in *Śuddhikaumudī* (p. 52), which explains that the ‘Sapiṇḍā’ relationship ceases in one’s *seventh* ancestor, and ‘*Samānodaka*’ relationship extends upto that person who is known to be descended from ‘my such and such ancestor,’ and from the point where no such descent can be specifically pointed out, that relationship ceases and beyond that all are ‘*gotraja*’ only;—in *Gadādharapaddhati* (Kāla, p. 256), which reproduces Medhātithi’s remark quoted above;—in
 *Smṛticandrikā* (Saṃskāra, p. 181);—and in *Vīramitrodaya* (Vyavahāra,
 209b).
 </details>
@@ -213,33 +187,24 @@ seventh degree.’
 to the seventh degree.’
 
 *Āpastamba* (2.15.2).—‘On account of the blood-relations of his mother,
-and of his father, within six degrees,—or as far as the relation is
-traceable (he shall bathe, if they die).’
+and of his father, within six degrees,—or as far as the relation is traceable (he shall bathe, if they die).’
 
 *Vaśiṣṭha* (4.17-18).—‘It has been declared in the Veda that
-Sapiṇḍa-relationship extends to the seventh degree; that for married
-females, it extends to the third degree.’
+Sapiṇḍa-relationship extends to the seventh degree; that for married females, it extends to the third degree.’
 
 *Viṣṇu* (22.5).—‘Sapiṇḍa-relationship ceases at the seventh degree.’
 
 *Parāśara* (1.3.8).—‘In the case of descendants of a different caste,
-the Sapiṇḍa-relationship (and the consequent impurity) ceases with the
-fourth degree; one’s descendant in the fifth degree, becomes excluded
-from the Sapiṇḍa-relationship.’
+the Sapiṇḍa-relationship (and the consequent impurity) ceases with the fourth degree; one’s descendant in the fifth degree, becomes excluded from the Sapiṇḍa-relationship.’
 
 *Matsyapurāṇa* (Parāśaramādhava, p. 589).—‘Those beginning with the
-fourth ancestor, are *Partakers of the Smearing*; those beginning with
-the father, are *Partakers of the Balls*; the offerer of the hall
-himself is the seventh; thus does Sapiṇḍa-relationship extend over seven
-degrees.’
+fourth ancestor, are *Partakers of the Smearing*; those beginning with the father, are *Partakers of the Balls*; the offerer of the hall himself is the seventh; thus does Sapiṇḍa-relationship extend over seven degrees.’
 
 *Paiṭhīnasī* (Do., p. 590).—‘The Sapiṇḍa-relationship ceases beyond
 three from the mother and five from the father.’
 
 *Vṛddha-Parāśara* (Do., p. 589).—‘Sapiṇḍa-relationship ceases with the
-seventh degree, in the case of their being all of the same caste; in the
-ease of their being of different castes, it ceases with the fourth
-degree.’
+seventh degree, in the case of their being all of the same caste; in the ease of their being of different castes, it ceases with the fourth degree.’
 </details>
 
 <details><summary>Bühler</summary>

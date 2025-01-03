@@ -42,9 +42,7 @@ This should be understood to be the highest duty of man and wife, stated in brie
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 110), which adds that fidelity to
-each other is an obligatory duty, the transgression of which
-necessitates expiation;—and in *Vivādaratnākara* (p. 421).
+This verse is quoted in *Aparārka* (p. 110), which adds that fidelity to each other is an obligatory duty, the transgression of which necessitates expiation;—and in *Vivādaratnākara* (p. 421).
 </details>
 
 <details><summary>भारुचिः</summary>

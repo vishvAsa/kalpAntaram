@@ -26,19 +26,14 @@ If he subsists by these, he should be punished with confiscation of property and
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 363), which adds the
-explanation that—‘if the Vaiśya or other lower castes should have
-recourse to the modes of living ordained for the higher castes, he
-should have all his property confiscated and then banished from the
-kingdom;—and in *Vivādacintāmaṇi* (Calcutta p. 101).
+This verse is quoted in *Vivādaratnākara* (p. 363), which adds the explanation that—‘if the Vaiśya or other lower castes should have recourse to the modes of living ordained for the higher castes, he should have all his property confiscated and then banished from the kingdom;—and in *Vivādacintāmaṇi* (Calcutta p. 101).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 10.95-96)**
 
-See Comparative notes for [Verse
-10.95].
+See Comparative notes for [Verse 10.95].
 </details>
 
 <details><summary>भारुचिः</summary>

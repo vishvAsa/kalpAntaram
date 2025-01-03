@@ -54,8 +54,7 @@ The Brāhmaṇa also, if he happen to be a *non-expounder*,—*i.e*., if he is n
 **(verses 241-242)  
 **
 
-See Comparative notes for [Verse
-2.241].
+See Comparative notes for [Verse 2.241].
 </details>
 
 <details><summary>Bühler</summary>

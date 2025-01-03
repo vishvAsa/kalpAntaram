@@ -26,12 +26,9 @@ He should eat only such salt as is ‘*prepared by himself*’ and not rock-salt
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Lavaṇam svayam kṛtam*’—‘Collected from saltmarshes’
-(Kullūka);—‘collected from salt or alkaline elements of trees and the
-like’ (Nārāyaṇa).
+‘*Lavaṇam svayam kṛtam*’—‘Collected from saltmarshes’ (Kullūka);—‘collected from salt or alkaline elements of trees and the like’ (Nārāyaṇa).
 
-This verse is quoted in *Mitākṣarā* (on 3.46), which explains that the
-salt is to be collected from salt-marshes.
+This verse is quoted in *Mitākṣarā* (on 3.46), which explains that the salt is to be collected from salt-marshes.
 </details>
 
 <details><summary>भारुचिः</summary>

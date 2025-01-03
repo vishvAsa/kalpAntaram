@@ -44,23 +44,18 @@ Or ‘*abhidroha*’ may mean *anger*.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 153), which adds the
-following notes:—‘*Abhidroheṇa*’, in an extremely insulting
-manner,—‘*ayomayaḥ*’, made of iron,—‘*śaṅkuḥ*’, nail.
+This verse is quoted in *Vivādaratnākara* (p. 153), which adds the following notes:—‘*Abhidroheṇa*’, in an extremely insulting manner,—‘*ayomayaḥ*’, made of iron,—‘*śaṅkuḥ*’, nail.
 
-It is quoted in *Aparārka* (p. 809), which says that this is meant for
-very frequently repeated offence.
+It is quoted in *Aparārka* (p. 809), which says that this is meant for very frequently repeated offence.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (5.25).—‘If a low-born man revilingly mentions the name or caste
-of a superior,—an iron pin, ten inches long, shall be thrust into his
-mouth.’
+of a superior,—an iron pin, ten inches long, shall be thrust into his mouth.’
 
 *Nārada* (15-16.23).—‘If the Śūdra refers to the name or caste of a
-superior caste in terms indicating contempt, an iron-rod, ten inches
-long, shall be thrust red-hot into his mouth.’
+superior caste in terms indicating contempt, an iron-rod, ten inches long, shall be thrust red-hot into his mouth.’
 </details>
 
 <details><summary>भारुचिः</summary>

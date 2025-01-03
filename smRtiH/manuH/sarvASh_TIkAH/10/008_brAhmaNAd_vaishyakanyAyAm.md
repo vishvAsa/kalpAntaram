@@ -26,8 +26,7 @@ The term ‘maiden’ stands for *woman in general*,—say some people; ‘*Vai�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Buhler is not right in saying that “Medhātithi does not give this
-verse”.
+Buhler is not right in saying that “Medhātithi does not give this verse”.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -35,8 +34,7 @@ verse”.
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

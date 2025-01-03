@@ -28,8 +28,7 @@ If the king ‘*deal with eases unjustly*,’ it is only ‘*through folly*’ t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Kṛtyakalpataru* (6b);—and in *Vīramitrodaya*
-(Vyavahāra, 39a).
+This verse is quoted in *Kṛtyakalpataru* (6b);—and in *Vīramitrodaya* (Vyavahāra, 39a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

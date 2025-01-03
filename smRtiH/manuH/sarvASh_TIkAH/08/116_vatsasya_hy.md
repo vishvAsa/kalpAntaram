@@ -121,8 +121,7 @@ Thus then, what has been said regarding ordeals is not meant simply to frighten 
 **(verses 8.114-116)  
 **
 
-See Comparative notes for [Verse
-8.114].
+See Comparative notes for [Verse 8.114].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -70,8 +70,7 @@ This verse is quoted in *Vyavahāra-Bālambhaṭṭī* (p. 256 and 281);—and i
 **(verses 8.61-63)  
 **
 
-See Comparative notes for [Verse
-8.61].
+See Comparative notes for [Verse 8.61].
 </details>
 
 <details><summary>भारुचिः</summary>

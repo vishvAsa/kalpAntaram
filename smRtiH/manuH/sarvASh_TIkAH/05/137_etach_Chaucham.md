@@ -22,9 +22,7 @@ The rules regarding Purification vary with the stages of life. For those who do 
 
 (Verse 137 of others.)
 
-This verse is quoted in *Aparārka* (p. 36);—in *Parāśaramādhava* (Ācāra,
-p. 215);—in *Madanapārijāta* (p. 47);—in *Vīramitrodaya* (Āhnika, p.
-52);—in *Nityācārapradīpa* (p. 257);—in *Ācāramayūkha* (p. 13);—in
+This verse is quoted in *Aparārka* (p. 36);—in *Parāśaramādhava* (Ācāra, p. 215);—in *Madanapārijāta* (p. 47);—in *Vīramitrodaya* (Āhnika, p. 52);—in *Nityācārapradīpa* (p. 257);—in *Ācāramayūkha* (p. 13);—in
 
 *Śuddhikaumudī* (p. 336);—and in *Yatidharmasaṅgraha* (p. 53.)
 </details>
@@ -32,8 +30,7 @@ p. 215);—in *Madanapārijāta* (p. 47);—in *Vīramitrodaya* (Āhnika, p.
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (6.19).—‘Such is the purification ordained for householders;
-it is double this for students, treble for hermits, but quadruple for
-ascetics.’
+it is double this for students, treble for hermits, but quadruple for ascetics.’
 
 *Viṣṇu* (60.26).—‘Such is the purification ordained for householders; it
 is double for students, treble for hermits and quadruple for ascetics.’

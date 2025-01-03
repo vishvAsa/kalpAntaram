@@ -43,8 +43,7 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 538).
 **(verse 5.42-46)  
 **
 
-See Comparative notes for [Verse
-5.42].
+See Comparative notes for [Verse 5.42].
 </details>
 
 <details><summary>Bühler</summary>

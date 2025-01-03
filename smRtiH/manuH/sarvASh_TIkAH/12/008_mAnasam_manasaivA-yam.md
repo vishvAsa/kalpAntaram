@@ -33,8 +33,7 @@ This verse is quoted in *Madanapārijāta* (p. 692);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Hārīta* (Aparārka, p. 998).—‘In the body, he suffers the consequences
-of his bodily acts; in his speech, those of his vocal acts; and in the
-mind, those of his mental acts.’
+of his bodily acts; in his speech, those of his vocal acts; and in the mind, those of his mental acts.’
 </details>
 
 <details><summary>भारुचिः</summary>

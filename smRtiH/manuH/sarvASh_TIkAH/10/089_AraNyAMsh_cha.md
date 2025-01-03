@@ -30,9 +30,7 @@ Some people read ‘*bahūn*’ for ‘*tathā*’; and by that, there would be 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 232);—in *Aparārka* (p.
-931), which adds that this prohibition is meant for the Brāhmaṇa
-only;—in *Mitākṣarā* (3.38);—and in *Saṃskāramayūkha* (p. 123).
+This verse is quoted in *Madanapārijāta* (p. 232);—in *Aparārka* (p. 931), which adds that this prohibition is meant for the Brāhmaṇa only;—in *Mitākṣarā* (3.38);—and in *Saṃskāramayūkha* (p. 123).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -40,8 +38,7 @@ only;—in *Mitākṣarā* (3.38);—and in *Saṃskāramayūkha* (p. 123).
 **(verses 10.85-93)  
 **
 
-See Comparative notes for [Verse
-10.85].
+See Comparative notes for [Verse 10.85].
 </details>
 
 <details><summary>भारुचिः</summary>

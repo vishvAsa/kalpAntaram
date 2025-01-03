@@ -28,20 +28,13 @@ But according to this view, it will be necessary to find out why the
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.265), as referring to cases of
-intentionally committed offences, and as standing for the ‘Three *Years*
-Penance’;—in *Aparārkā* (p. 1105), which also notes that this stands for
-the ‘Three Years Penance’;—in *Parāśaramādhava* (Prāyaścitta, p. 425) as
-referring to the ‘Three Years Penance’;—in *Prāyaścīttaviveka* (p. 394
-and 463);—and in *Smṛtisāroddhāra* (p. 362), which says that ‘*etat*’
-stands for the ‘Three monthly Penance’ prescribed for cow-killing.
+This verse is quoted in *Mitākṣarā* (3.265), as referring to cases of intentionally committed offences, and as standing for the ‘Three *Years* Penance’;—in *Aparārkā* (p. 1105), which also notes that this stands for the ‘Three Years Penance’;—in *Parāśaramādhava* (Prāyaścitta, p. 425) as referring to the ‘Three Years Penance’;—in *Prāyaścīttaviveka* (p. 394 and 463);—and in *Smṛtisāroddhāra* (p. 362), which says that ‘*etat*’ stands for the ‘Three monthly Penance’ prescribed for cow-killing.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (3.263).—‘From the *Upapātakas* (minor sins), one becomes
-absolved either in the aforesaid manner, or by the *Cāndrāyaṇa*, or by
-the *Parāka*, or by living upon milk for a month.’
+absolved either in the aforesaid manner, or by the *Cāndrāyaṇa*, or by the *Parāka*, or by living upon milk for a month.’
 </details>
 
 <details><summary>भारुचिः</summary>

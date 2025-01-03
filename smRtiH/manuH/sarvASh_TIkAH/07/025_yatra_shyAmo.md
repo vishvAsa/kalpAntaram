@@ -32,12 +32,7 @@ Punishment should be inflicted, but with due consideration of the exigencies of 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara*, (p. 646), which adds the
-following explanation:—‘In the kingdom where the dark-complexioned
-red-eyed Personification of Punishment is active, the people
-prosper,—provided that the administrator, the ruler, judges
-rightly’;—and in *Vivādacintāmāṇi* (p. 261), which explains
-‘*netā......paśyati*’, ‘if the administator of justice judges rightly.’
+This verse is quoted in *Vivādaratnākara*, (p. 646), which adds the following explanation:—‘In the kingdom where the dark-complexioned red-eyed Personification of Punishment is active, the people prosper,—provided that the administrator, the ruler, judges rightly’;—and in *Vivādacintāmāṇi* (p. 261), which explains ‘*netā......paśyati*’, ‘if the administator of justice judges rightly.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -45,8 +40,7 @@ rightly’;—and in *Vivādacintāmāṇi* (p. 261), which explains
 *Mahābhārata* (12.15.11).—(Same as Manu.)
 
 *Viṣṇu* (3.95).—‘Where punishment with a black hue and red eyes advances
-with irresistible might, the king deciding causes justly,—there the
-people will prosper.’
+with irresistible might, the king deciding causes justly,—there the people will prosper.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -23,23 +23,12 @@ title = "029 एकङ् गोमिथुनम्"
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Burnell is not right in remarking that ‘this is the most common form
-now.’ Among the better classes of the Brāhmaṇas the ‘Brāhma’ still
-continues to be the most common form; and among others, the form most
-common now is the Āsura.
+Burnell is not right in remarking that ‘this is the most common form now.’ Among the better classes of the Brāhmaṇas the ‘Brāhma’ still continues to be the most common form; and among others, the form most common now is the Āsura.
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 849), where
-‘*dharmataḥ*’ is explained as meaning ‘according to family-custom’; or
-‘in obedience to the law governing the Ārṣa marriage, not by way of a
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 849), where ‘*dharmataḥ*’ is explained as meaning ‘according to family-custom’; or ‘in obedience to the law governing the Ārṣa marriage, not by way of a
 *price* for the girl.’
 
-It is quoted also in *Madanapārijāta* (p. 155) as showing that it is not
-necessary that the number of ‘cows given should be always ‘two’ as
-mentioned in other *Smṛtis*;—it adds that if the Father of the Bride
-accept this ‘pair of cow and bull’ it becomes a ‘selling’ of the
-girl;—in *Hemādri* (Dana, p. 684);—in *Nṛsiṃhaprasāda* (Saṃskāra, p.
-62a);—and in *Smṛticandrikā* (Saṃskāra, p. 228), which explains
-‘*Gomithunam*’ as ‘a milch cow and a bull.’
+It is quoted also in *Madanapārijāta* (p. 155) as showing that it is not necessary that the number of ‘cows given should be always ‘two’ as mentioned in other *Smṛtis*;—it adds that if the Father of the Bride accept this ‘pair of cow and bull’ it becomes a ‘selling’ of the girl;—in *Hemādri* (Dana, p. 684);—in *Nṛsiṃhaprasāda* (Saṃskāra, p. 62a);—and in *Smṛticandrikā* (Saṃskāra, p. 228), which explains ‘*Gomithunam*’ as ‘a milch cow and a bull.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -48,8 +37,7 @@ girl;—in *Hemādri* (Dana, p. 684);—in *Nṛsiṃhaprasāda* (Saṃskāra, p
 the bride’s guardian a pair of cow and bull.’
 
 *Baudhāyana* (1. 11).—‘After having made the first two offerings of
-fried grains, the bridegroom should present a pair of cow and hull to
-the bride’s guardian and then marry her; this is the *Ārṣa* form.’
+fried grains, the bridegroom should present a pair of cow and hull to the bride’s guardian and then marry her; this is the *Ārṣa* form.’
 
 *Āpastamba- Dharmasūtra* (2. 11. 18).—‘In the Ārṣa form, two pairs of
 cow and bull should be given to the bride’s father.’
@@ -63,17 +51,13 @@ pair of cow and bull.’
 *Yājñavalkya* (1. 59).—‘By accepting a pair of cows, it is the Ārṣa.’
 
 *Āśvalāyana-Gṛhyasūtra* (1. 6. 4).—‘If one marries the girl after
-presenting a pair of cow and bull, it is the *Ārṣa* marriage: it
-purifies seven future and seven past generations on both sides.’
+presenting a pair of cow and bull, it is the *Ārṣa* marriage: it purifies seven future and seven past generations on both sides.’
 
 *Devala* (Vīramitrodaya-Saṃskāra, p. 851).—‘That wherein there is giving
-away of the girl, along with a pair of cow and bull, to a bridegroom,
-praiseworthy and not. belonging to the same *gotra*,—this they know as
-the *Ārṣa* marriage.’
+away of the girl, along with a pair of cow and bull, to a bridegroom, praiseworthy and not. belonging to the same *gotra*,—this they know as the *Ārṣa* marriage.’
 
 *Śaṅkha-Likhita* (Do.).—‘The Ārṣa is accomplished by means of a pair of
-cow and bull, or of a pair of clothes; but in every case ornaments and
-dowry should be given.’
+cow and bull, or of a pair of clothes; but in every case ornaments and dowry should be given.’
 </details>
 
 <details><summary>Bühler</summary>

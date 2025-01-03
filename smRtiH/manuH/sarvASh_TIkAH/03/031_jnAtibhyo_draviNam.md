@@ -27,21 +27,12 @@ rules laid down in the scriptures. This is what distinguishes this from the ‘*
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 852), where it
-explains ‘*Āpradānam*’ as *ādānam grahaṇamiti yāvat*, *i.e*.,
-‘taking’;—and ‘*Svācchandyāt*’ as ‘of his own free will, not in
-obedience to the wish of the bride’s father,’ his right over her having
-been created by purchase.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 852), where it explains ‘*Āpradānam*’ as *ādānam grahaṇamiti yāvat*, *i.e*., ‘taking’;—and ‘*Svācchandyāt*’ as ‘of his own free will, not in obedience to the wish of the bride’s father,’ his right over her having been created by purchase.
 
 *Smṛtitattva* (I, p. 593) quotes the verse and refers to Kullūka Bhaṭṭa
-as explaining ‘*āpradānam*’ as ‘taking of the girl’; and it explains
-‘*svācchandyāt*’ as ‘by his own will.’
+as explaining ‘*āpradānam*’ as ‘taking of the girl’; and it explains ‘*svācchandyāt*’ as ‘by his own will.’
 
-It is quoted in *Hemādri* (Dana, p. 685);—and in *Smṛticandrikā*
-(Saṃskāra, p. 229), which explains ‘*āpradānam*’ as ‘*ādānam*’,
-‘taking’, and ‘*svācchandyāt*’ as ‘at one’s will’, irrespectively of the
-willingness or otherwise of the gill, thus differing from the
-‘*Gāndharva*’ in which both are willing.
+It is quoted in *Hemādri* (Dana, p. 685);—and in *Smṛticandrikā* (Saṃskāra, p. 229), which explains ‘*āpradānam*’ as ‘*ādānam*’, ‘taking’, and ‘*svācchandyāt*’ as ‘at one’s will’, irrespectively of the willingness or otherwise of the gill, thus differing from the ‘*Gāndharva*’ in which both are willing.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -56,8 +47,7 @@ satisfying with wealth (the girl and her guardians).’
 having given as much wealth as he can, it is the Āsura form.’
 
 *Vaśiṣṭha* (1.35).—‘When one obtains a girl who has been purchased with
-wealth after staking, it is the Mānuṣa form.’ \[Manuṣa is another name
-for ‘Āsura,’ says the Vīramitrodaya Saṃskāra, p. 853.\]
+wealth after staking, it is the Mānuṣa form.’ \[Manuṣa is another name for ‘Āsura,’ says the Vīramitrodaya Saṃskāra, p. 853.\]
 
 *Viṣṇu* (24.24).—‘Marriage by purchase is Āsura.’
 

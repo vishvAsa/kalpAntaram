@@ -36,9 +36,7 @@ There is nothing wrong in this. When the prohibition is stated in so many words,
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 1.177);—in *Vīramitrodaya*
-(Āhnika, p. 545), which explains ‘*ekatodataḥ*’ as ‘those that have only
-one line of teeth’;—and in *Smṛtisāroddhāra* (p. 299).
+This verse is quoted in *Mitākṣarā* (on 1.177);—in *Vīramitrodaya* (Āhnika, p. 545), which explains ‘*ekatodataḥ*’ as ‘those that have only one line of teeth’;—and in *Smṛtisāroddhāra* (p. 299).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -46,8 +44,7 @@ one line of teeth’;—and in *Smṛtisāroddhāra* (p. 299).
 **(verses 5.17-18)  
 **
 
-See Comparative notes for [Verse
-5.17].
+See Comparative notes for [Verse 5.17].
 </details>
 
 <details><summary>Bühler</summary>

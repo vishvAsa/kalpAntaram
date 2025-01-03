@@ -34,10 +34,7 @@ People might be led to think that, even when the girl is pregnant, it would be r
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka*, (p. 163) to the effect that only
-such truth should be told as is agreeable; it quotes the words of Vyāsa
-to the effect that ‘only such truth should be told as is beneficial to
-living beings.’
+This verse is quoted in *Aparārka*, (p. 163) to the effect that only such truth should be told as is agreeable; it quotes the words of Vyāsa to the effect that ‘only such truth should be told as is beneficial to living beings.’
 
 It is quoted also in *Parāśaramādhava* (Ācāra, p. 523);—and in
 *Smṛticandrikā* (Saṃskāra, p. 14).
@@ -50,14 +47,10 @@ It is quoted also in *Parāśaramādhava* (Ācāra, p. 523);—and in
 *Viṣṇu* (71.73-4).—‘Not what is untrue;—nor what is disagreeable.’
 
 *Yājñavalkya* (1.132).—‘He shall never expose himself to danger; he
-shall not, without reason, say what is disagreeable, nor what is not
-beneficial or untrue; he shall not be a thief, nor an usurer.’
+shall not, without reason, say what is disagreeable, nor what is not beneficial or untrue; he shall not be a thief, nor an usurer.’
 
 *Devala* (Aparārka, p. 174).—‘Harsh words, calumny, hack-biting, lying,
-useless talk, cruel words are the six defects of speech; also speaking
-before a person of the defects of his country, family, caste, learning,
-arts, appearance, conduct, character, dress, body, livelihood; words
-productive of anger and fear, etc., etc.’
+useless talk, cruel words are the six defects of speech; also speaking before a person of the defects of his country, family, caste, learning, arts, appearance, conduct, character, dress, body, livelihood; words productive of anger and fear, etc., etc.’
 
 *Dukṣa* (Do., p. 175).—‘Lying, adultery, eating of forbidden food, etc.,
 etc.’

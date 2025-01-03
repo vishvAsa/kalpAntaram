@@ -28,9 +28,7 @@ If the labourer falls ill and gives up work after it has been half-done,—hut, 
 
 This verse is quoted in *Nṛsiṃhaprasāda* (Vyavahāra, 24a):—in
 *Kṛtyakalpataru* (102a), winch adds the explanation that the man who had
-stopped the work through some disability—if, on recovery, he comes and
-completes the stipulated work, then, if it were done after a lapse of
-time, he should receive his wages.
+stopped the work through some disability—if, on recovery, he comes and completes the stipulated work, then, if it were done after a lapse of time, he should receive his wages.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -38,8 +36,7 @@ time, he should receive his wages.
 **(verses 8.215-217)  
 **
 
-See Comparative notes for [Verse
-8.215].
+See Comparative notes for [Verse 8.215].
 </details>
 
 <details><summary>भारुचिः</summary>

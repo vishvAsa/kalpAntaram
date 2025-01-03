@@ -20,9 +20,7 @@ The king shall emulate the energetic activity of Indra, of Arka, of Vāyu, of Ya
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 19), where
-‘*tejovṛttam'* is explained as ‘conduct in keeping with the portions of
-Indra and other gods.’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 19), where ‘*tejovṛttam'* is explained as ‘conduct in keeping with the portions of Indra and other gods.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

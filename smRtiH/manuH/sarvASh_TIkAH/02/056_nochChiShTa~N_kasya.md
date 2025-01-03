@@ -50,10 +50,7 @@ The phrase ‘*antarā*’ ‘*in between*,’ means *middle*. There are two tim
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The second half of this verse is quoted in *Vīramitrodaya* (Saṃskāra, p.
-458); in *Aparārka* (p. 61) in support of the view that by avoiding
-over-eating one acquires health;—and in *Smṛticandrikā* (Saṃskāra, p.
-115).
+The second half of this verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 458); in *Aparārka* (p. 61) in support of the view that by avoiding over-eating one acquires health;—and in *Smṛticandrikā* (Saṃskāra, p. 115).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -62,8 +59,7 @@ over-eating one acquires health;—and in *Smṛticandrikā* (Saṃskāra, p.
 **
 
 *Āpastamba-Dharmasūtra*, 1. 3. 36-10.—‘After eating, he should himself
-wash the dish; he should not have any leavings; what he does not eat he
-should bury in the ground; or throw into water.’
+wash the dish; he should not have any leavings; what he does not eat he should bury in the ground; or throw into water.’
 
 *Āpastamba*, 1. 11- 31. 22.—‘He should not offer the leavings to a
 non-Brāhmaṇa.’
@@ -72,11 +68,9 @@ non-Brāhmaṇa.’
 food.’
 
 *Vaśiṣṭha* (Aparārka, p. 61).—‘For the ascetic the meal should consist
-of eight morsels, for the hermit, sixteen, for the householder,
-thirty-two; for the student, there is no limit.’
+of eight morsels, for the hermit, sixteen, for the householder, thirty-two; for the student, there is no limit.’
 
-\[This same text is quoted in Parāśaramādhava, p. 370, as from
-Āpastamba. \]
+\[This same text is quoted in Parāśaramādhava, p. 370, as from Āpastamba. \]
 
 *Vaśiṣṭha*, 17.—‘Leavings or no leavings,—he should not offer the food
 to a Śūdra.’
@@ -93,8 +87,7 @@ unclean.’
 *Baudhāyana-Dharmasūtra*, 1. 2. 37.—‘Leavings should he avoided.’
 
 *Saṃvarta* (Aparārka, p. 61).—‘Eating in the morning and in the evening
-has been prescribed for men, by the gods; one shall not eat in between
-these two meals; this practice is equal to the Agnihotra.’
+has been prescribed for men, by the gods; one shall not eat in between these two meals; this practice is equal to the Agnihotra.’
 
 *Mahābhārata*. (Aśvamedhika-Parāśaramādhava, p. 370).—‘One should never
 overeat himself, nor eat too little.’

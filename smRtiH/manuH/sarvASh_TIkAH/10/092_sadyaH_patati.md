@@ -20,13 +20,7 @@ The meaning of this has been already explained.—(92)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.40);—in *Parāśaramādhava* (Ācāra
-p. 422);—in *Aparārka* (p. 934), where it is pointed out that this
-refers to a Brāhmaṇa who has not performed the requisite expiatory
-rites;—again on p. 1046;—in *Smṛtitattva* (p. 353)—in *Madanapārijāta*
-(p. 232);—in *Saṃskāramayūkha* (p. 124);—in *Nṛsiṃhaprasāda* (Āhnika
-36b) and in *Prāyaścittaviveka* (p. 427), which says that only strong
-deprecation is what is meant
+This verse is quoted in *Mitākṣarā* (3.40);—in *Parāśaramādhava* (Ācāra p. 422);—in *Aparārka* (p. 934), where it is pointed out that this refers to a Brāhmaṇa who has not performed the requisite expiatory rites;—again on p. 1046;—in *Smṛtitattva* (p. 353)—in *Madanapārijāta* (p. 232);—in *Saṃskāramayūkha* (p. 124);—in *Nṛsiṃhaprasāda* (Āhnika 36b) and in *Prāyaścittaviveka* (p. 427), which says that only strong deprecation is what is meant
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -34,8 +28,7 @@ deprecation is what is meant
 **(verses 10.85-93)  
 **
 
-See Comparative notes for [Verse
-10.85].
+See Comparative notes for [Verse 10.85].
 </details>
 
 <details><summary>Bühler</summary>

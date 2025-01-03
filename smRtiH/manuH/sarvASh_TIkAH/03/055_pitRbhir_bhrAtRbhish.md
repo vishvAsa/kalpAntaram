@@ -40,22 +40,16 @@ The injunction contained in this verse has been set forth for the purpose of ind
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 506), in support of
-the view that the wife, whether young or old—should always be respected,
-‘worshipped’; but it adds that this does not apply to the *unchaste*
-wife, for whom one should provide just enough to keep her body and soul
-together.
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 506), in support of the view that the wife, whether young or old—should always be respected, ‘worshipped’; but it adds that this does not apply to the *unchaste* wife, for whom one should provide just enough to keep her body and soul together.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (1.82).—‘Women should be honoured with ornaments, clothes
-and food, by their husbands, brothers, fathers, parental relations,
-mothers-in-law, fathers-in-law, brothers-in-law and maternal relations.’
+and food, by their husbands, brothers, fathers, parental relations, mothers-in-law, fathers-in-law, brothers-in-law and maternal relations.’
 
 *Mahābhārata* (Anuśā.) (also 13.46.3).—‘Women should he honoured and
-fondled by their fathers, brothers, fathers-in-law and
-brothers-in-law—if these are desirous of their own welfare.’
+fondled by their fathers, brothers, fathers-in-law and brothers-in-law—if these are desirous of their own welfare.’
 </details>
 
 <details><summary>Bühler</summary>

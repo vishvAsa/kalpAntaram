@@ -34,39 +34,24 @@ Similarly account has to be taken of the position of the tree,—whether it stan
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“According to Govindarāja the fine for injuring trees which give shade
-only is to be very small; in the case of flower-bearing trees, middling;
-and in the case of fruit trees, high.”—Buhler.
+“According to Govindarāja the fine for injuring trees which give shade only is to be very small; in the case of flower-bearing trees, middling; and in the case of fruit trees, high.”—Buhler.
 
-This verse is quoted in *Vyavahāramayūkha* (p. 100);—and in *Aparārka*
-(p. 819).
+This verse is quoted in *Vyavahāramayūkha* (p. 100);—and in *Aparārka* (p. 819).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (5.55-59).—‘A feller of trees yielding fruit shall pay the
-highest amercement; a feller of flower-bearing trees, only the middle
-amercement; he who cuts creepers, shrubs or climbing plants shall pay a
-hundred *kārṣāpaṇas*; he who cuts grass shall pay one *kārṣāpaṇa*; and
-all such offenders shall make good to the owners the revenue which they
-yield.’
+highest amercement; a feller of flower-bearing trees, only the middle amercement; he who cuts creepers, shrubs or climbing plants shall pay a hundred *kārṣāpaṇas*; he who cuts grass shall pay one *kārṣāpaṇa*; and all such offenders shall make good to the owners the revenue which they yield.’
 
 *Arthaśāstra* (pp. 108-109).—‘One who destroys small things shall make
-good their value and also pay a line equal to it;—on destroying large
-things, he shall make good their value and pay double that amount as
-fine.’
+good their value and also pay a line equal to it;—on destroying large things, he shall make good their value and pay double that amount as fine.’
 
 *Yājñavalkya* (2.227-229).—‘For tearing the branches of wide-spreading
-trees, and of such trees as supply food, the fine shall he 20; for
-tearing their trunks, 40, and for destroying the entire tree, 80. For
-such trees as are growing on places of worship, in the cremation-ground,
-in a sacred place, or in a temple, the fine shall be double. Half of the
-above-mentioned fine, in the case of destroying thickets, creepers and
-plants.’
+trees, and of such trees as supply food, the fine shall he 20; for tearing their trunks, 40, and for destroying the entire tree, 80. For such trees as are growing on places of worship, in the cremation-ground, in a sacred place, or in a temple, the fine shall be double. Half of the above-mentioned fine, in the case of destroying thickets, creepers and plants.’
 
 *Vaśiṣṭha* (Vivādaratnākara, p. 286).—‘For the purpose of making
-agricultural implements or implements for the household, one may cut
-even fruit-bearing and flower-bearing trees and thickets.’
+agricultural implements or implements for the household, one may cut even fruit-bearing and flower-bearing trees and thickets.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -32,22 +32,16 @@ In the case of a difference of opinion, the opinion of a majority of them should
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 759);—in *Mitākṣarā* (p. 152), to
-the effect that when the witnesses thus questioned unanimously declare
-the boundary point, the king shall, for fear of the settlement being
-forgotten, record this settlement in writing, setting forth therein all
-the boundary marks shown by them as also the names of the witnesses.
+This verse is quoted in *Aparārka* (p. 759);—in *Mitākṣarā* (p. 152), to the effect that when the witnesses thus questioned unanimously declare the boundary point, the king shall, for fear of the settlement being forgotten, record this settlement in writing, setting forth therein all the boundary marks shown by them as also the names of the witnesses.
 
-It is quoted in *Vivādaratnākara* (p. 205);—in *Kṛtyakalpataru*
-(111a);—and in *Vīramitrodaya* (Vyavahāra, 141a).
+It is quoted in *Vivādaratnākara* (p. 205);—in *Kṛtyakalpataru* (111a);—and in *Vīramitrodaya* (Vyavahāra, 141a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 8.253-264)**
 
-See Comparative notes for [Verse
-8.253].
+See Comparative notes for [Verse 8.253].
 </details>
 
 <details><summary>भारुचिः</summary>

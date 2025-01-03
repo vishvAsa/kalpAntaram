@@ -30,11 +30,7 @@ Or, it. may mean—‘while the father’s own self is there, in the shape of th
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 591);—in *Vivādacintāmaṇi*
-(Calcutta, p. 152), to the effect that like the son, the daughter also
-serves the purpose of propagating the father’s race;—in *Hāralatā* (p.
-179);—in *Vyavahāra-Bālambhaṭṭī* (pp. 663 and 691);—in *Vīramitrodaya*
-(Vyavahāra 203a);—and by Jīmūtavāhana (*Dāyabhāga*, p. 270).
+This verse is quoted in *Vivādaratnākara* (p. 591);—in *Vivādacintāmaṇi* (Calcutta, p. 152), to the effect that like the son, the daughter also serves the purpose of propagating the father’s race;—in *Hāralatā* (p. 179);—in *Vyavahāra-Bālambhaṭṭī* (pp. 663 and 691);—in *Vīramitrodaya* (Vyavahāra 203a);—and by Jīmūtavāhana (*Dāyabhāga*, p. 270).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -42,10 +38,7 @@ serves the purpose of propagating the father’s race;—in *Hāralatā* (p.
 *Mahābhārata* (13.45-11).—(Same as Manu.)
 
 *Baudhāyana* (2.3-14).—‘One must know a son begotten by the husband
-himself on a wedded wife of equal caste to be a legitimate son of the
-body. They quote the following: “From the several limbs of my body art
-thou produced, from my heart art thou born; thou art my very *self*
-called a son; mayst thou live a hundred years.’
+himself on a wedded wife of equal caste to be a legitimate son of the body. They quote the following: “From the several limbs of my body art thou produced, from my heart art thou born; thou art my very *self* called a son; mayst thou live a hundred years.’
 </details>
 
 <details><summary>भारुचिः</summary>

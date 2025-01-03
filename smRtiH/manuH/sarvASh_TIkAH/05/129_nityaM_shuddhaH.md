@@ -45,15 +45,9 @@ artisan’s hand is pure, and so also are substances in a heap.’
 
 (Verse 129 of others.)
 
-This verse is quoted in *Madanapārijāta* (p. 468), which notes *that
-‘brahmacārigatam bhaikṣyam*,’ stands
+This verse is quoted in *Madanapārijāta* (p. 468), which notes *that ‘brahmacārigatam bhaikṣyam*,’ stands
 
-for all that is permitted by way of ‘alms’;—in *Hemādri* (Śrāddha, p.
-838);—in *Śuddhikaumudī* (p. 355), which explains ‘*nityam śuddhaḥ*’ as
-‘even without washing, an article made by an artisan may be
-used—‘*kāru*’ means ‘artisan’,—‘*paṇyam*’ is ‘merchandise’, ‘spread out’
-at the place of sale;—among these, however, cooked food is an
-exception;—in *Nṛsiṃhaprasāda* (Śrāddha, p. 17a);—and in
+for all that is permitted by way of ‘alms’;—in *Hemādri* (Śrāddha, p. 838);—in *Śuddhikaumudī* (p. 355), which explains ‘*nityam śuddhaḥ*’ as ‘even without washing, an article made by an artisan may be used—‘*kāru*’ means ‘artisan’,—‘*paṇyam*’ is ‘merchandise’, ‘spread out’ at the place of sale;—among these, however, cooked food is an exception;—in *Nṛsiṃhaprasāda* (Śrāddha, p. 17a);—and in
 *Smṛtisāroddhāra* (p. 250), which says that ‘*brahmacāri*’ stands for
 ‘*bhikṣu* in general.’
 </details>
@@ -61,20 +55,16 @@ exception;—in *Nṛsiṃhaprasāda* (Śrāddha, p. 17a);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (1.9.1).—‘The Veda declares that the hand of the artisan is
-always pure; so is vendible commodity exposed for sale and food obtained
-by begging which a student holds in his hand.’
+always pure; so is vendible commodity exposed for sale and food obtained by begging which a student holds in his hand.’
 
 *Viṣṇu* (23.48).—‘The hand of a cook or other artisan, things exposed
-for sale in a shop, food given to a Brāhmaṇa, and all manufactories or
-mines are always pure.’
+for sale in a shop, food given to a Brāhmaṇa, and all manufactories or mines are always pure.’
 
 *Vaśiṣṭha* (3.46).—‘A vendible commodity tendered for sale, and what is
 not dirtied by gnats and flies that have settled on it (is pure).’
 
 *Yājñavalkya* (1.187).—‘The artisan’s hand is pure; so also commodity
-exposed for sale, alms and woman’s mouth.’ *Śaṅkha* (Aparārka, p.
-263).—‘The artisan’s hand is pure, so also substances got out of mines
-and washed.’
+exposed for sale, alms and woman’s mouth.’ *Śaṅkha* (Aparārka, p. 263).—‘The artisan’s hand is pure, so also substances got out of mines and washed.’
 </details>
 
 <details><summary>Bühler</summary>

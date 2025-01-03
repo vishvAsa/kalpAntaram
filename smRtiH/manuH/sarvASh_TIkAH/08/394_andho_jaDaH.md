@@ -32,8 +32,7 @@ These men should not be made to pay any taxes,—snoh as working for the king fo
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 272), which adds
-the following notes:—‘*Pīṭhasarpī*’ is the
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 272), which adds the following notes:—‘*Pīṭhasarpī*’ is the
 *lame*;—‘*śrotriyeṣūpakurvan*,’ he who accords to learned Brāhmaṇas
 grain and monetary assistance.
 </details>
@@ -41,8 +40,7 @@ grain and monetary assistance.
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba* (2.26.16-17).—‘Blind, deaf and diseased persons, as also
-those to whom the acquisition of property is forbidden, shall be free
-from taxes.’
+those to whom the acquisition of property is forbidden, shall be free from taxes.’
 </details>
 
 <details><summary>भारुचिः</summary>

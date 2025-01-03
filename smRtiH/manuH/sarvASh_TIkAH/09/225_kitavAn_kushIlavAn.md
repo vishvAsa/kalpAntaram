@@ -18,20 +18,11 @@ Gamblers, dancers, cruel men, men belonging to heretical sects, men addicted to 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Krūrān*’.—Nārāyaṇa and Rāghavānanda read ‘*kerān*’ and explain it as
-‘men of crooked behaviour.’—Nandana reads ‘*kailān*’ and explains it as
-‘men addicted to sporting.’
+‘*Krūrān*’.—Nārāyaṇa and Rāghavānanda read ‘*kerān*’ and explain it as ‘men of crooked behaviour.’—Nandana reads ‘*kailān*’ and explains it as ‘men addicted to sporting.’
 
-‘*Śauṇḍikān*’.—‘Liquor-vendors’ (Nārāyaṇa and Kūlluka);—‘Drunkards’
-(Nandana).
+‘*Śauṇḍikān*’.—‘Liquor-vendors’ (Nārāyaṇa and Kūlluka);—‘Drunkards’ (Nandana).
 
-This verse is quoted in *Vivādaratnākara* (p. 315), which adds the
-following notes:—‘*Kitavān*’, fraudulent gamblers;—‘*kuśīlavān*’, here
-stands for those men who are sharp enough to entrap even unwilling
-people;—‘*kerān*’, ‘go-betweens between strange
-couples’;—‘*pāṣaṇḍasthān*’, men belonging to the *Kṣapaṇaka* and other
-heretical sects;—‘*Vikarmasthān*’, men addicted to entirely forbidden
-occupations ‘*śauṇḍikān*’, men addicted to excessive drinking.
+This verse is quoted in *Vivādaratnākara* (p. 315), which adds the following notes:—‘*Kitavān*’, fraudulent gamblers;—‘*kuśīlavān*’, here stands for those men who are sharp enough to entrap even unwilling people;—‘*kerān*’, ‘go-betweens between strange couples’;—‘*pāṣaṇḍasthān*’, men belonging to the *Kṣapaṇaka* and other heretical sects;—‘*Vikarmasthān*’, men addicted to entirely forbidden occupations ‘*śauṇḍikān*’, men addicted to excessive drinking.
 
 It is quoted in *Vīramitrodaya* (Rājanīti, p. 153);—and in
 *Vyavahāra-Bālambhaṭṭī* (p. 880).
@@ -43,8 +34,7 @@ It is quoted in *Vīramitrodaya* (Rājanīti, p. 153);—and in
 **
 
 *Bṛhsapati* (Vivādaratnākara, p. 315).—‘Those who cheat men through
-incantations or medicinal herbs, and those who perform malevolent rites,
-should he banished by the King.’
+incantations or medicinal herbs, and those who perform malevolent rites, should he banished by the King.’
 </details>
 
 <details><summary>भारुचिः</summary>

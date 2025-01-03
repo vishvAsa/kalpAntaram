@@ -30,8 +30,7 @@ What is stated in the first half in the negative form is re-affirmed, in the sec
 
 **(verses 9.31-44)**
 
-See Comparative notes for [Verse
-9.31].
+See Comparative notes for [Verse 9.31].
 </details>
 
 <details><summary>भारुचिः</summary>

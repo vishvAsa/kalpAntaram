@@ -34,20 +34,17 @@ Others have held that this verse also should be understood as addressed to those
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 172); and
-again on p. 379.
+This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 172); and again on p. 379.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (27.7).—‘The daily recitation of the Veda and the
-performance, according to one’s ability, of the series of Great
-Sacrifices quickly destroy guilt, even that of the *Mahāpātakas*.’
+performance, according to one’s ability, of the series of Great Sacrifices quickly destroy guilt, even that of the *Mahāpātakas*.’
 
 *Yājñavalkya* (3.311).—‘Sins,—even those born of the
 *Mahāpātakas*,—touch not one who is devoted to the reciting of the Veda,
-who is tolerant and addicted to the performance of the Great
-Sacrifices.’
+who is tolerant and addicted to the performance of the Great Sacrifices.’
 </details>
 
 <details><summary>भारुचिः</summary>

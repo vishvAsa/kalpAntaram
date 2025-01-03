@@ -26,13 +26,7 @@ The rule here laid down refers to a case where there is no suspicion regarding t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 566);—which adds the
-following notes:—‘*Talpaja*’, born of the wife;—the actual progenitor of
-this child being unknown, it belongs to the same caste as its mother;
-this is the case when there is no suspicion of the mother having had
-intercourse with a man of a lower caste; in the case of there being such
-suspicion, the child must he regarded as ‘born in the reverse order’,
-and hence not capable of serving any useful purpose.
+This verse is quoted in *Vivādaratnākara* (p. 566);—which adds the following notes:—‘*Talpaja*’, born of the wife;—the actual progenitor of this child being unknown, it belongs to the same caste as its mother; this is the case when there is no suspicion of the mother having had intercourse with a man of a lower caste; in the case of there being such suspicion, the child must he regarded as ‘born in the reverse order’, and hence not capable of serving any useful purpose.
 
 It is quoted in *Parāśaramādhava* (Prāyaścitta, p. 38);—in
 *Vyavahāra-Bālambhaṭṭī* (pp. 541 and 557);—in *Nṛsiṃhaprasāda*
@@ -42,8 +36,7 @@ It is quoted in *Parāśaramādhava* (Prāyaścitta, p. 38);—in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (2.3.22).—‘He is called the *Gūḍhaja*, secretly born, son
-who is horn in the house and whose origin is only afterwards
-recognised.’
+who is horn in the house and whose origin is only afterwards recognised.’
 
 *Vaśiṣṭha* (17.24).—‘A male child secretly horn in the house is the
 sixth kind of son.’

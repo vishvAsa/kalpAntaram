@@ -34,32 +34,21 @@ The *dog* also has to be included among the ‘*unclean things*’; as it also i
 
 (Verse 86 of others.)
 
-Kullūka and others take the verse as referring to the case where a man
-happens to see an unclean thing after having done *ācamana* (preparatory
-to some religious act).—Medhātithi and Govindarāja take it as referring
-to the case already noted in the foregoing verse,—*i.e*., the meaning
-being that ‘whenever one happens to *see* any of the unclean things just
-enumerated, he shall do *ācamana* and then recite the verses
-prescribed.’
+Kullūka and others take the verse as referring to the case where a man happens to see an unclean thing after having done *ācamana* (preparatory to some religious act).—Medhātithi and Govindarāja take it as referring to the case already noted in the foregoing verse,—*i.e*., the meaning being that ‘whenever one happens to *see* any of the unclean things just enumerated, he shall do *ācamana* and then recite the verses prescribed.’
 
-This verse is quoted in *Aparārka* (p. 1198);—and in *Hemādri* (Śrāddha,
-p. 796).
+This verse is quoted in *Aparārka* (p. 1198);—and in *Hemādri* (Śrāddha, p. 796).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (1.15.31).—‘If he has looked at any unclean substance, he
-mutters the verse—“Unrestrained is the internal organ, wretched the
-eye-sight, the sun is the chief of the lights; O *Dīkṣā*, do not forsake
-me!”’
+mutters the verse—“Unrestrained is the internal organ, wretched the eye-sight, the sun is the chief of the lights; O *Dīkṣā*, do not forsake me!”’
 
 *Āpastamba* (Aparārka, p. 1197).—‘On seeing in the evening a *Caṇḍāla*
-or an outcast, a woman in her courses or unclean things, he should look
-at the rising sun.’
+or an outcast, a woman in her courses or unclean things, he should look at the rising sun.’
 
 *Bodhāyana* (Aparārka, p. 1200).—‘On seeing the *Caṇḍāla*, one should
-look at the stars; on talking to him, one should converse with the
-Brāhmaṇa; on touching him, he shall bathe.’
+look at the stars; on talking to him, one should converse with the Brāhmaṇa; on touching him, he shall bathe.’
 </details>
 
 <details><summary>Bühler</summary>

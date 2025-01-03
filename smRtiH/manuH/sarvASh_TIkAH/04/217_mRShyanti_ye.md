@@ -44,23 +44,13 @@ If the term, ‘*anirdaśam*’ (of verse 212), is to be taken by itself, as for
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 3.190) in *Madanapārijāta* (p.
-945);—and in *Vīramitrodaya* (Āhnika, p. 496), which adds that one
-should not eat the food of a person who brooks the presence of a
-paramour in his house, as also of one who, *in all things* (*sarvaśaḥ*)
-is under the sway of women,—‘*anirdaśam pretānnam*’ is that food which
-has been offered to the dead within ten days of the
-death,—‘*atuṣṭikaram*’ is that food the taste of which is not
-agreeable;—in *Hemādri* (Śrāddha, p. 774);—and in *Prāyaścittaviveka*
-(p. 261).
+This verse is quoted in *Mitākṣarā* (on 3.190) in *Madanapārijāta* (p. 945);—and in *Vīramitrodaya* (Āhnika, p. 496), which adds that one should not eat the food of a person who brooks the presence of a paramour in his house, as also of one who, *in all things* (*sarvaśaḥ*) is under the sway of women,—‘*anirdaśam pretānnam*’ is that food which has been offered to the dead within ten days of the death,—‘*atuṣṭikaram*’ is that food the taste of which is not agreeable;—in *Hemādri* (Śrāddha, p. 774);—and in *Prāyaścittaviveka* (p. 261).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (Śānti., 35.26, 28).—‘The food belonging to a house where
-there has been a death or a birth,—until ten days have passed;—those who
-permit their wife’s paramour, and those who are controlled by their
-wives.’
+there has been a death or a birth,—until ten days have passed;—those who permit their wife’s paramour, and those who are controlled by their wives.’
 
 *Gautama* (17.18).—(See above.)
 
@@ -68,24 +58,15 @@ wives.’
 food should he eaten until ten days have passed.’
 
 *Vaśiṣṭha* (14.6).—‘The gods do not eat the food belonging to one who is
-controlled by his wife, or one who permits his wife’s paramour in the
-house.'
+controlled by his wife, or one who permits his wife’s paramour in the house.'
 
 *Yājñavalkya* (1.163).—(See above.)
 
 *Yama* (Vīramitrodaya-Āhnika, p. 499).—‘The following are persons whose
-food should not be eaten:—Actor, dancer, carpenter, cobbler, goldsmith,
-a brotherless woman, eunuch, prostitute, singer, ironsmith, butcher,
-weaver, cloth-dealer, dyer, gambler, thief, wine-seller, weigher,
-Śūdra’s teacher, Śūdra’s sacrificer, potter, painter, usurer, and
-leather-seller.’
+food should not be eaten:—Actor, dancer, carpenter, cobbler, goldsmith, a brotherless woman, eunuch, prostitute, singer, ironsmith, butcher, weaver, cloth-dealer, dyer, gambler, thief, wine-seller, weigher, Śūdra’s teacher, Śūdra’s sacrificer, potter, painter, usurer, and leather-seller.’
 
 *Sumanta* (Do.).—‘The accused, outcast, son of a remarried widow,
-embryo-killer, harlot, weapon-maker, oil-presser, wine-seller,
-goldsmith, writer, eunuch, loose woman, astrologer, prostitute,—the food
-of these should not be eaten. The hog-dealer, fowler, vagabond, dyer,
-stage-maker, bamboo-dealer, cobbler,—of these, the food should not bo
-eaten, nor gifts accepted.
+embryo-killer, harlot, weapon-maker, oil-presser, wine-seller, goldsmith, writer, eunuch, loose woman, astrologer, prostitute,—the food of these should not be eaten. The hog-dealer, fowler, vagabond, dyer, stage-maker, bamboo-dealer, cobbler,—of these, the food should not bo eaten, nor gifts accepted.
 </details>
 
 <details><summary>Bühler</summary>

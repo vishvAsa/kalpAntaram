@@ -46,8 +46,7 @@ It is in view of this that we have the next verse.—(93)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Kṛtakṛtyaḥ* ‘All whose ends have been accomplished’ (Medhātithi);—who
-has done all he ought to do’ (Govindarāja).
+‘*Kṛtakṛtyaḥ* ‘All whose ends have been accomplished’ (Medhātithi);—who has done all he ought to do’ (Govindarāja).
 </details>
 
 <details><summary>भारुचिः</summary>

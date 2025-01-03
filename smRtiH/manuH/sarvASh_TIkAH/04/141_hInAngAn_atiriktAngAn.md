@@ -34,15 +34,13 @@ He shall not insult those who have redundant limbs, or those who are deficient i
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 194);—and in *Parāśaramādhava*
-(Ācāra, p. 523).
+This verse is quoted in *Aparārka* (p. 194);—and in *Parāśaramādhava* (Ācāra, p. 523).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (71.2).—‘He shall not laugh at persons who have redundant limbs,
-or who are deficient in limbs, or who are illiterate, or who are devoid
-of wealth.’
+or who are deficient in limbs, or who are illiterate, or who are devoid of wealth.’
 
 *Mahābhārata* (Anuśāsana, p. 161.36).—\[Reproduces Manu but reading
 ‘*satya*’ for ‘*jāti*.’\]
@@ -51,9 +49,7 @@ of wealth.’
 person.’
 
 *Devala* (Aparārka, p. 174).—‘One should avoid such ironical words as
-calling the blind *one with excellent eyes*, the Caṇḍāla a *Brāhmaṇa*;
-nor should one call the Śūdra a *Śūdra* or the outcast an *outcast*;
-such words, though truthful are twice as bad as untruthful words.’
+calling the blind *one with excellent eyes*, the Caṇḍāla a *Brāhmaṇa*; nor should one call the Śūdra a *Śūdra* or the outcast an *outcast*; such words, though truthful are twice as bad as untruthful words.’
 </details>
 
 <details><summary>Bühler</summary>

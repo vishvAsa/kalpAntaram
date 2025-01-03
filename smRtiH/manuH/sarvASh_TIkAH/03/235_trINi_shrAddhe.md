@@ -34,8 +34,7 @@ This verse is quoted in *Aparārka* (p. 474).
 **(verses 3.234-235)  
 **
 
-See Comparative notes for [Verse
-3.234].
+See Comparative notes for [Verse 3.234].
 </details>
 
 <details><summary>Bühler</summary>

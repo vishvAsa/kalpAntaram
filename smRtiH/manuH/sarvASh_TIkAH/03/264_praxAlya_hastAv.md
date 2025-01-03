@@ -38,22 +38,9 @@ In that case, the man will have to cook food again. Or, the offering of the remn
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-There is nothing in Medhātithi to show that he reads ‘*pūjayet*’ for
-‘*bhojayet*’, as stated by Buhler.
+There is nothing in Medhātithi to show that he reads ‘*pūjayet*’ for ‘*bhojayet*’, as stated by Buhler.
 
-This verse is quoted in *Aparārka* (p. 512), which explains ‘*Jñāti*’ as
-‘relations on the father’s side’, and ‘*bāndhava*’ as ‘relations on the
-mother’s side’;—and in *Hemādri* (Śrāddha, p. 1515), which has the
-following notes:—‘*Jñāti*’ are relations on the father’s side, *i.e*.,
-Sapiṇḍas;—the remnant of the food cooked for the *Śrāddha* should be
-made to reach those; *i.e*., they should be fed with it with due
-respect; after which one should honour the ‘*Bāndhavas*,’ *i.e*.,
-relations on the mother’s and the wife’s side; if, however, on being
-asked ‘what shall be done with the remnant?’—the Brāhmaṇas should say
-‘give it to us’—then other food should be cooked for the relations; and
-these are to be fed with the remnant, only if so permitted by the
-Brāhmaṇas. It may be regarded as incumbent on the Brāhmaṇas to give this
-permission.
+This verse is quoted in *Aparārka* (p. 512), which explains ‘*Jñāti*’ as ‘relations on the father’s side’, and ‘*bāndhava*’ as ‘relations on the mother’s side’;—and in *Hemādri* (Śrāddha, p. 1515), which has the following notes:—‘*Jñāti*’ are relations on the father’s side, *i.e*., Sapiṇḍas;—the remnant of the food cooked for the *Śrāddha* should be made to reach those; *i.e*., they should be fed with it with due respect; after which one should honour the ‘*Bāndhavas*,’ *i.e*., relations on the mother’s and the wife’s side; if, however, on being asked ‘what shall be done with the remnant?’—the Brāhmaṇas should say ‘give it to us’—then other food should be cooked for the relations; and these are to be fed with the remnant, only if so permitted by the Brāhmaṇas. It may be regarded as incumbent on the Brāhmaṇas to give this permission.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -62,20 +49,13 @@ permission.
 Brāhmaṇas, he shall eat the remnants, along with his friends.’
 
 *Brahmapurāṇa* (Caturvargacintāmaṇi-Śrāddha, p. 1394).—‘On being asked
-what shall be done with the food left over, they shall say that it
-should be given to gentlemen.’
+what shall be done with the food left over, they shall say that it should be given to gentlemen.’
 
 *Devala and Kūrmapurāṇa* (Do.).—‘Having washed his hands and sipped
-water, he shall feed his paternal relations with the remnants; and after
-the paternal relations have been satisfied, he shall feed his servants.’
+water, he shall feed his paternal relations with the remnants; and after the paternal relations have been satisfied, he shall feed his servants.’
 
 *Āditya-Purāṇa* (Do.).—‘Sisters and relations should be entertained at
-Śrāddhas; the poverty-stricken, the meek, one with deficient limbs, one
-with redundant fingers, those whose birth has been fruitless, those
-disgusted and those struck by disease,—all these deserve to be fed.
-Bards and Māgadhas, charioteers, dancers and singers, those who have not
-got at the Śrāddha what they desired,—these people destroy all fame;
-therefore these also should be fed.’
+Śrāddhas; the poverty-stricken, the meek, one with deficient limbs, one with redundant fingers, those whose birth has been fruitless, those disgusted and those struck by disease,—all these deserve to be fed. Bards and Māgadhas, charioteers, dancers and singers, those who have not got at the Śrāddha what they desired,—these people destroy all fame; therefore these also should be fed.’
 
 *Śātātapa* (Do.).—‘What food is left over, he shall himself eat with the
 permission of the Brāhmaṇas,—along with his friends.’
@@ -92,8 +72,7 @@ his friends and eat it himself.’
 servants and also his friends and other relations.’
 
 *Matsyapurāṇa* (Do.).—‘Then, at the end of the Vaiśvadeva-offering,
-along with his servants, sons and relations, and accompanied by guests,
-he shall eat all that had been offered to the Pitṛs.’
+along with his servants, sons and relations, and accompanied by guests, he shall eat all that had been offered to the Pitṛs.’
 </details>
 
 <details><summary>Bühler</summary>

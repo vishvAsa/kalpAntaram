@@ -36,16 +36,14 @@ In a case where a man dies leaving more than three sons, the eldest and the youn
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 468), which adds an
-explanation \[see preceding note\].
+This verse is quoted in *Vivādaratnākara* (p. 468), which adds an explanation \[see preceding note\].
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 9.112-113)**
 
-See Comparative notes for [Verse
-9.112].
+See Comparative notes for [Verse 9.112].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -40,9 +40,7 @@ Even apart from the seasons mentioned in the preceding verse, ‘*at other times
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 401);—in
 *Vīramitrodaya* (Rājanīti, p. 330), to the effect that the ‘enemy’s
-difficulty’ being itself laid down as affording the best opportunity for
-marching against him, there is no room for any other consideration;—and
-in *Smṛtitattva* (p. 742) to the same effect.
+difficulty’ being itself laid down as affording the best opportunity for marching against him, there is no room for any other consideration;—and in *Smṛtitattva* (p. 742) to the same effect.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -50,8 +48,7 @@ in *Smṛtitattva* (p. 742) to the same effect.
 **(verses 7.182-183)  
 **
 
-See Comparative notes for [Verse
-7.182].
+See Comparative notes for [Verse 7.182].
 </details>
 
 <details><summary>भारुचिः</summary>

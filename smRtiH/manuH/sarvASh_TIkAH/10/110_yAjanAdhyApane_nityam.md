@@ -22,8 +22,7 @@ The very nature of men is such that persons not initiated do not study the Veda,
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 936);—and in *Prāyaścittaviveka*
-(p. 408).
+This verse is quoted in *Aparārka* (p. 936);—and in *Prāyaścittaviveka* (p. 408).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -31,8 +30,7 @@ This verse is quoted in *Aparārka* (p. 936);—and in *Prāyaścittaviveka*
 **(verses 10.109-111)  
 **
 
-See Comparative notes for [Verse
-10.109].
+See Comparative notes for [Verse 10.109].
 
 \[See 11.194.\]
 </details>

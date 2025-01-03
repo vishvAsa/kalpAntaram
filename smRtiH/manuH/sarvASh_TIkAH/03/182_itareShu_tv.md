@@ -44,8 +44,7 @@ This verse is quoted in *Aparārka* (p. 454).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (13. 90, 239).—‘Those *unfit for the line* should be
-avoided: those *fit for the line* alone should be invited; if one feeds
-the sinful man, he goes to hell.’
+avoided: those *fit for the line* alone should be invited; if one feeds the sinful man, he goes to hell.’
 </details>
 
 <details><summary>Bühler</summary>

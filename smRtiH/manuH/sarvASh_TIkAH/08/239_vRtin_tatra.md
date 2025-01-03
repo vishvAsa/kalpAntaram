@@ -56,29 +56,16 @@ After the enclosure has been set up—
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (2.162) as laying down the necessity
-of fencing fields and gardens; and *Bālambhaṭṭī* adds the following
-notes:—‘*Tatra*’, round the field,—the fence should be so high that even
-a tall animal like the camel should not be able to see the crops from
-the other side;—‘*mukhānugam*’, enabling the mouth of the dog or the hog
-lo reach the crops,—‘*mukhonantam*’ is another reading;—the meaning is
-as “follows:—One should build a fence, like a wall, round the field,
-which should be so high that the camel may not be able to see the crops;
-and if there are any holes there, large enough to enable the dog or the
-hog to thrust its mouth into it, then all these should be securely
-closed up: If we read ‘*vā vārayet*’, then the second half is to be
-taken as laying down another method of having the fence.
+This verse is quoted in *Mitākṣarā* (2.162) as laying down the necessity of fencing fields and gardens; and *Bālambhaṭṭī* adds the following notes:—‘*Tatra*’, round the field,—the fence should be so high that even a tall animal like the camel should not be able to see the crops from the other side;—‘*mukhānugam*’, enabling the mouth of the dog or the hog lo reach the crops,—‘*mukhonantam*’ is another reading;—the meaning is as “follows:—One should build a fence, like a wall, round the field, which should be so high that the camel may not be able to see the crops; and if there are any holes there, large enough to enable the dog or the hog to thrust its mouth into it, then all these should be securely closed up: If we read ‘*vā vārayet*’, then the second half is to be taken as laying down another method of having the fence.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (11.41).—‘On that side of the field which faces the road, a
-fence shall ho made, over which a camel cannot look, nor horses or
-cattle jump, and which a hoar cannot break through.’
+fence shall ho made, over which a camel cannot look, nor horses or cattle jump, and which a hoar cannot break through.’
 
 *Śaṅkha-Likhita* (Vivādaratnākara, p. 233).—‘Round a field situated on
-the road-side, an enclosure should he erected which the camel may not
-look over, nor may horses or boars be able to gain entrance.’
+the road-side, an enclosure should he erected which the camel may not look over, nor may horses or boars be able to gain entrance.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -51,33 +51,22 @@ declaration.—(247)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse, as quoted by Medhātithi on p. 290, l. 1, reads
-‘*Asapiṇḍa*’.—But the same sense may be got out of the reading
-‘*Āsapiṇḍa*’.—See *Translation*.
+This verse, as quoted by Medhātithi on p. 290, l. 1, reads ‘*Asapiṇḍa*’.—But the same sense may be got out of the reading ‘*Āsapiṇḍa*’.—See *Translation*.
 
-“The *Sapiṇḍīkaraṇa*, the solemn reception of a dead person among the
-partakers of oblations, is performed either on the thirteenth day, or a
-year after death,”—says Buhler. But the rite is performed on the
+“The *Sapiṇḍīkaraṇa*, the solemn reception of a dead person among the partakers of oblations, is performed either on the thirteenth day, or a year after death,”—says Buhler. But the rite is performed on the
 *twelfth*, not the *thirteenth* day.
 
-Hopkins has misunderstood the signification of the *Sapiṇḍīkaraṇa* rite.
-He calls it ‘ceremony on making a Sapiṇḍa (relative) for him’ and adds
-that ‘it implies that the deceased died without any family to offer the
-Śrāddha for him.’
+Hopkins has misunderstood the signification of the *Sapiṇḍīkaraṇa* rite. He calls it ‘ceremony on making a Sapiṇḍa (relative) for him’ and adds that ‘it implies that the deceased died without any family to offer the Śrāddha for him.’
 
-As a matter of fact, this rite is performed for every one; and its
-meaning is as explained by Buhler (see above).
+As a matter of fact, this rite is performed for every one; and its meaning is as explained by Buhler (see above).
 
-The second half of this verse is quoted in *Smṛtitattva* (p. 802) in
-support of the view that the ‘Śrāddha’ and ‘offering of the Ball’ are
-two distinct acts.
+The second half of this verse is quoted in *Smṛtitattva* (p. 802) in support of the view that the ‘Śrāddha’ and ‘offering of the Ball’ are two distinct acts.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Paiṭhīnasi*.—‘Before the performance of the Sapīṇḍīkaraṇa one should
-perform the sixteen Śrāddhas; and all these should be performed by the
-unitary process.’
+perform the sixteen Śrāddhas; and all these should be performed by the unitary process.’
 </details>
 
 <details><summary>Bühler</summary>

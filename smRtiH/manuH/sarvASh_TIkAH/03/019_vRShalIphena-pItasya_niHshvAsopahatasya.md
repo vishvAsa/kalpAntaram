@@ -52,18 +52,14 @@ sanctioned; so that, by having intercourse with a *Śūdra* woman, only if one a
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 495) along with the
-preceding four verses;—in *Vīramitrodaya* (Saṃskāra, p. 75), where
-‘*phenapītasya*’ is explained as ‘*pītamukhāsavasya*’, ‘he who has drunk
-wine from the mouth.’
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 495) along with the preceding four verses;—in *Vīramitrodaya* (Saṃskāra, p. 75), where ‘*phenapītasya*’ is explained as ‘*pītamukhāsavasya*’, ‘he who has drunk wine from the mouth.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 3.13-19)**
 
-See Comparative notes for [Verse
-3.13].
+See Comparative notes for [Verse 3.13].
 </details>
 
 <details><summary>Bühler</summary>

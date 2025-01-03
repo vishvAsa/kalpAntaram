@@ -20,8 +20,7 @@ It is well known that these three are worse than Tale-bearing and other vices.�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 1.301);—in *Vīramitrodaya*
-(Lakṣaṇa, p. 198);—in *Vīramitrodaya* (Rājanīti, p. 148);—in
+This verse is quoted in *Mitākṣarā* (on 1.301);—in *Vīramitrodaya* (Lakṣaṇa, p. 198);—in *Vīramitrodaya* (Rājanīti, p. 148);—in
 *Parāśaramādhava* (Ācāra, p. 413).
 </details>
 
@@ -30,8 +29,7 @@ This verse is quoted in *Mitākṣarā* (on 1.301);—in *Vīramitrodaya*
 **(verses 7.45-53)  
 **
 
-See Comparative notes for [Verse
-7.45](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200709.html#comparative-notes "English translation of verse").
+See Comparative notes for [Verse 7.45](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200709.html#comparative-notes "English translation of verse").
 </details>
 
 <details><summary>भारुचिः</summary>

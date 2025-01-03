@@ -36,9 +36,7 @@ This verse constitutes a hortatory supplement to the injunctions regarding the p
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara*, (p. 408), which adds the
-following notes:—‘*Duṣṭavāk*,’ defamer of people,—‘*daṇḍaghna*,’ one who
-strikes people with a stick, *i.e*., an assaulter;—and in
+This verse is quoted in *Vivādaratnākara*, (p. 408), which adds the following notes:—‘*Duṣṭavāk*,’ defamer of people,—‘*daṇḍaghna*,’ one who strikes people with a stick, *i.e*., an assaulter;—and in
 *Vivādacintāmaṇi* (p. 264).
 </details>
 
@@ -48,24 +46,16 @@ strikes people with a stick, *i.e*., an assaulter;—and in
 **
 
 *Viṣṇu* (5.196).—‘The King in whose dominion there exists neither thief,
-nor adulterer, nor calumniator, nor robber, nor murderer, attains the
-world of Indra.’
+nor adulterer, nor calumniator, nor robber, nor murderer, attains the world of Indra.’
 
 *Cf*. The Upaniṣad text, where a king is represented as saying—‘In my
-realm there is no thief, no miser, no drunkard, none who is not tending
-the Fires, nor any illiterate person, no female libertine,—whence then
-can there be any male libertine.’
+realm there is no thief, no miser, no drunkard, none who is not tending the Fires, nor any illiterate person, no female libertine,—whence then can there be any male libertine.’
 
 *Yama* (Vivādaratnākara, p. 408).—‘Wicked persons, criminals, rogues,
-gamblers, oppressors,—that King in whose realm these persons are not
-found becomes entitled to the realm of India.’
+gamblers, oppressors,—that King in whose realm these persons are not found becomes entitled to the realm of India.’
 
 *Nārada* (18.7-8).—‘Whenever wicked acts, opposed to the dictates of the
-sacred law, have been committed, the King, after having reflected upon
-the matter, shall himself inflict punishment upon those who deserve it.
-What is opposed to revealed and traditional law, or injurious to living
-beings, must not be practised by the King; wherever it is practised, he
-must check it.’
+sacred law, have been committed, the King, after having reflected upon the matter, shall himself inflict punishment upon those who deserve it. What is opposed to revealed and traditional law, or injurious to living beings, must not be practised by the King; wherever it is practised, he must check it.’
 </details>
 
 <details><summary>भारुचिः</summary>

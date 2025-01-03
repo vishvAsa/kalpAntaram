@@ -48,10 +48,7 @@ M G omit: sthalāni; DK: sthalā
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 203), which adds the
-following notes:—‘*Kāpālikā*’ is *karparā*, tiles,—‘*aṅgāra*’,
-extinguished cinders, known as ‘*kokila*,’ *coal*,—‘*śarkarā*’ is small
-pieces of broken earthenware.
+This verse is quoted in *Vivādaratnākara* (p. 203), which adds the following notes:—‘*Kāpālikā*’ is *karparā*, tiles,—‘*aṅgāra*’, extinguished cinders, known as ‘*kokila*,’ *coal*,—‘*śarkarā*’ is small pieces of broken earthenware.
 
 It is quoted in *Mitākṣarā* (2.151);—and in *Vivādacintāmaṇi* (p. 93).
 </details>
@@ -61,8 +58,7 @@ It is quoted in *Mitākṣarā* (2.151);—and in *Vivādacintāmaṇi* (p. 93).
 **(verses 8.245-251)  
 **
 
-See Comparative notes for [Verse
-8.245].
+See Comparative notes for [Verse 8.245].
 </details>
 
 <details><summary>Bühler</summary>

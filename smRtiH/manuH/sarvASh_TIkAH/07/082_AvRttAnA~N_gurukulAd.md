@@ -42,8 +42,7 @@ Others however hold that what is enjoined under 11.1 is the giving of gifts to p
 **
 
 *Yājñavalkya* (1.314).—‘He shall present to Brāhmaṇas objects of
-enjoyment, and various kinds of riches; what is given to Brāhmaṇas
-constitutes an inexhaustible treasure for the king.’
+enjoyment, and various kinds of riches; what is given to Brāhmaṇas constitutes an inexhaustible treasure for the king.’
 
 Do. (1.321).—(See under 80.)
 </details>

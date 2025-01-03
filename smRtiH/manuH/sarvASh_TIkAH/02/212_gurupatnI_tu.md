@@ -26,11 +26,7 @@ In any case stress is not meant to be laid upon the number ‘*twenty*.’—(21
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 462), where it is
-explained that the term ‘*purṇaviṃśativarṣeṇa*’ stands for *full youth*,
-and stress is not meant to be laid upon the precise age mentioned;—also
-in *Parāśaramādhava* (Ācāra, p. 301);—and in *Smṛticandrikā* (Saṃskāra,
-p. 104).
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 462), where it is explained that the term ‘*purṇaviṃśativarṣeṇa*’ stands for *full youth*, and stress is not meant to be laid upon the precise age mentioned;—also in *Parāśaramādhava* (Ācāra, p. 301);—and in *Smṛticandrikā* (Saṃskāra, p. 104).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -41,8 +37,7 @@ p. 104).
 the teacher’s wife.’
 
 *Baudhāyana* (1. 2. 34).—‘One who has become an adult shall not salute
-(by feet-clasping) the youthful sister-in-law or the youthful wife of
-the teacher.’
+(by feet-clasping) the youthful sister-in-law or the youthful wife of the teacher.’
 </details>
 
 <details><summary>Bühler</summary>

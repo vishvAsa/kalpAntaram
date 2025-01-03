@@ -61,8 +61,7 @@ Well, as a matter of fact, the root^(‘)to bathe’ denotes the act of washing 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 183), which explains ‘*tataḥ*’ as
-standing for the *head*.
+This verse is quoted in *Aparārka* (p. 183), which explains ‘*tataḥ*’ as standing for the *head*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

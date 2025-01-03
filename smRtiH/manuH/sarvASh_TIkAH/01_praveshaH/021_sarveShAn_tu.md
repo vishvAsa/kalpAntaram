@@ -64,8 +64,7 @@ What the real truth on this point is we have already set forth above; while for 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata*, 12.232.26.—‘Out of the words of the Veda itself did He,
-in the beginning, create the names of the sages, as also of all those
-creations that are described in the Veda.’
+in the beginning, create the names of the sages, as also of all those creations that are described in the Veda.’
 </details>
 
 <details><summary>Bühler</summary>

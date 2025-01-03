@@ -91,8 +91,7 @@ From all this it is clear that the terms ‘*the Great One*’ and ‘*Unmanifes
 ‘*Mahān*’.—‘Supreme soul’ (Medhātithi);—‘the deity presiding over the
 *Mohat-tattva* of the Sāṅkhyas’ (Govindarāja and Kullūka).
 
-This verse is quoted in *Aparārka* (p. 999);—in *Madanapārijāta* (p.
-694);—in *Parāśaramādhava* (Prāyaścitta, p. 489);—and in
+This verse is quoted in *Aparārka* (p. 999);—in *Madanapārijāta* (p. 694);—in *Parāśaramādhava* (Prāyaścitta, p. 489);—and in
 *Nṛsiṃhaprasāda* (Prāyaścitta 41a).
 </details>
 
@@ -101,8 +100,7 @@ This verse is quoted in *Aparārka* (p. 999);—in *Madanapārijāta* (p.
 **(verses 12.32-51)  
 **
 
-See Comparative notes for [Verse
-12.32].
+See Comparative notes for [Verse 12.32].
 </details>
 
 <details><summary>भारुचिः</summary>

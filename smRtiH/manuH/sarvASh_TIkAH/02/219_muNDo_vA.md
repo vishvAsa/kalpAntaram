@@ -44,13 +44,9 @@ Others have explained this to mean that ‘the Sun should not set while he is st
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Grāme*’—‘While he stays in the village’ Medhātithi, Govindarāja,
-Nārāyaṇa and Nandana);—‘while he is still sleeping in the village’
-(‘others’ in Medhātithi, Kullūka and Rāghavānanda).
+‘*Grāme*’—‘While he stays in the village’ Medhātithi, Govindarāja, Nārāyaṇa and Nandana);—‘while he is still sleeping in the village’ (‘others’ in Medhātithi, Kullūka and Rāghavānanda).
 
-This verse is quoted in *Aparārka* (p. 64);—in *Saṃskāramayūkha* (p.
-42), as laying down three distinct alternatives;—and in *Nṛsiṃhaprasāda*
-(Saṃskāra, p. 46b).
+This verse is quoted in *Aparārka* (p. 64);—in *Saṃskāramayūkha* (p. 42), as laying down three distinct alternatives;—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 46b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -34,8 +34,7 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 480).
 *Āpastamba-Dharmasūtra*, 1.2-2.—‘The parents produce body.’
 
 *Vaśiṣṭha-Dharmasūtra*, 2.5.9.—‘They call the Teacher Father because of
-his imparting the Veda.’—‘Therefore the learned expounder of the Veda is
-never regarded as *childless*.’
+his imparting the Veda.’—‘Therefore the learned expounder of the Veda is never regarded as *childless*.’
 </details>
 
 <details><summary>Bühler</summary>

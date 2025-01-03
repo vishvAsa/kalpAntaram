@@ -30,8 +30,7 @@ When the sun shines through a window-hole or lattice, we see a particle of dust;
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The ‘*Trasareṇu*’, Triad,’ consists of three diads, each ‘diad’
-consisting of two ‘*aṇus*’ or atoms.
+The ‘*Trasareṇu*’, Triad,’ consists of three diads, each ‘diad’ consisting of two ‘*aṇus*’ or atoms.
 
 This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 115);—in
 *Vivādaratnākara* (p. 665);—in *Smṛtitattva* (II, p. 580); in *Hemādri*
@@ -43,8 +42,7 @@ This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 115);—in
 **(verses 8.131-137)  
 **
 
-See Comparative notes for [Verse
-8.131].
+See Comparative notes for [Verse 8.131].
 </details>
 
 <details><summary>Bühler</summary>

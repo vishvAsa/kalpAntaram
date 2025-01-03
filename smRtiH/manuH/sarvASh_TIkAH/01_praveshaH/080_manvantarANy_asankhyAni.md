@@ -39,8 +39,7 @@ It is in view of this fact that the author has added the qualifying term ‘*as 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Krīḍan*’—*cf*. Brahmasūtra—‘*Lokavattu līlākaivalyam*.’ This idea of
-creation being a ‘sport’ for God is common in Hindu Theism.
+‘*Krīḍan*’—*cf*. Brahmasūtra—‘*Lokavattu līlākaivalyam*.’ This idea of creation being a ‘sport’ for God is common in Hindu Theism.
 </details>
 
 <details><summary>Bühler</summary>

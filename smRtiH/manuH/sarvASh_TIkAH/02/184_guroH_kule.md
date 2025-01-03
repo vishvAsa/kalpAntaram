@@ -42,24 +42,17 @@ From houses other than those here mentioned.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vihāyasi*’—In the air, *i.e.* on the roof of the house (Medhātithi,
-Govindarāja and Kullūka);—‘on a platform’ (Nārāyaṇa);—‘in the open air
-(Nandana);—‘in any pure place except the ground’ (Rāghavānanda).
+‘*Vihāyasi*’—In the air, *i.e.* on the roof of the house (Medhātithi, Govindarāja and Kullūka);—‘on a platform’ (Nārāyaṇa);—‘in the open air (Nandana);—‘in any pure place except the ground’ (Rāghavānanda).
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 451), as laying
-down the method of ‘tending the fire’, and ‘explains it that ‘he should
-place the fuel somewhere in the open, not on the grouhd;’—in
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 451), as laying down the method of ‘tending the fire’, and ‘explains it that ‘he should place the fuel somewhere in the open, not on the grouhd;’—in
 *Smṛtitattva* (p. 936) as laying down the morning and evening offerings
-into the Fire;—in *Vīramitrodaya* (Saṃskāra, p. 448), where ‘*dūrāt*’ is
-explained as from a spot not owned
+into the Fire;—in *Vīramitrodaya* (Saṃskāra, p. 448), where ‘*dūrāt*’ is explained as from a spot not owned
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (2.44-45).—‘Food should be begged from the house of the
-Ācārya, or one’s relations, or the Guru; from one’s own family, only in
-the event of its not being obtained elsewhere,—the succeeding one of
-these being preferred to the preceding.’
+Ācārya, or one’s relations, or the Guru; from one’s own family, only in the event of its not being obtained elsewhere,—the succeeding one of these being preferred to the preceding.’
 </details>
 
 <details><summary>Bühler</summary>

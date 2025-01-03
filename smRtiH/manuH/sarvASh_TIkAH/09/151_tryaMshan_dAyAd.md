@@ -28,8 +28,7 @@ Though the text has used the singular number throughout, yet the rule here laid 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 528);—and by Jīmūtavāhana
-(*Dāyabhāga*, p. 212).
+This verse is quoted in *Vivādaratnākara* (p. 528);—and by Jīmūtavāhana (*Dāyabhāga*, p. 212).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -37,8 +36,7 @@ This verse is quoted in *Vivādaratnākara* (p. 528);—and by Jīmūtavāhana
 **(verses 9.149-157)  
 **
 
-See Comparative notes for [Verse
-9.149].
+See Comparative notes for [Verse 9.149].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -44,10 +44,7 @@ road, some damage or death may be caused; and all such cases would come under th
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 280), which adds the
-following notes:—‘*Yāna*’, the chariot and the rest,—‘*yantṛ*’, the
-charioteer,—‘*ativartanāni*’, ‘lying beyond punishment’, *i.e*., not to
-be punished;—and in *Vyavahāra-Bālambhaṭṭī* (p. 1040).
+This verse is quoted in *Vivādaratnākara* (p. 280), which adds the following notes:—‘*Yāna*’, the chariot and the rest,—‘*yantṛ*’, the charioteer,—‘*ativartanāni*’, ‘lying beyond punishment’, *i.e*., not to be punished;—and in *Vyavahāra-Bālambhaṭṭī* (p. 1040).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -56,15 +53,7 @@ be punished;—and in *Vyavahāra-Bālambhaṭṭī* (p. 1040).
 **
 
 *Yājñavalkya* (297-299).—‘In the cases of injury caused through
-quadrupeds, or through wood and bricks, or through stones, beasts of
-burden or conveyances, there is no offence, if the man operating calls
-out—*Move* *out* *of the* *way*;—nor does any offence attach to the
-owner of the conveyance, if the injury caused by it has been due, either
-to the snapping of the nose-string, or to the breaking of the yoke, or
-to the cart moving backwards. In the case of tusked and horned animals
-committing havoc, if the owner, though able to do so, does not check
-them, he should be made to pay the first amercement; and double of this
-when the man about to be injured has cried for help.’
+quadrupeds, or through wood and bricks, or through stones, beasts of burden or conveyances, there is no offence, if the man operating calls out—*Move* *out* *of the* *way*;—nor does any offence attach to the owner of the conveyance, if the injury caused by it has been due, either to the snapping of the nose-string, or to the breaking of the yoke, or to the cart moving backwards. In the case of tusked and horned animals committing havoc, if the owner, though able to do so, does not check them, he should be made to pay the first amercement; and double of this when the man about to be injured has cried for help.’
 </details>
 
 <details><summary>भारुचिः</summary>

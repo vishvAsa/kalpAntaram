@@ -49,15 +49,11 @@ throughout is very talkative and bold and clever, gestures and other indicatives
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Kṛtyakalpataru* (22b), which explains
-‘*dharmasthaḥ*’ as ‘one who is occupying the judgment seat’;—and in
+This verse is quoted in *Kṛtyakalpataru* (22b), which explains ‘*dharmasthaḥ*’ as ‘one who is occupying the judgment seat’;—and in
 *Vīramitrodaya* (Vyavahāra, 31b), which explains the construction
-as—‘*mā*,’ *mām*, ‘*gnātāraḥ*,’ persons knowing that what I state is
-true, &c., &c., as being, according to Medhātithi, but goes on to add,
-that according to the Ācārya,’ ‘*meti*’stands for ‘*me-iti*,’ the
+as—‘*mā*,’ *mām*, ‘*gnātāraḥ*,’ persons knowing that what I state is true, &c., &c., as being, according to Medhātithi, but goes on to add, that according to the Ācārya,’ ‘*meti*’stands for ‘*me-iti*,’ the
 *sandhi* being explained as a Vedic anomaly. It notes the reading,
-‘*Santi jñātāra ityuktvā*,’ as found in *Kalpataru*, but rejects it as
-an unauthorised reading.
+‘*Santi jñātāra ityuktvā*,’ as found in *Kalpataru*, but rejects it as an unauthorised reading.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -65,8 +61,7 @@ an unauthorised reading.
 **(verses 8.53-57)  
 **
 
-See Comparative notes for [Verse
-8.53].
+See Comparative notes for [Verse 8.53].
 </details>
 
 <details><summary>भारुचिः</summary>

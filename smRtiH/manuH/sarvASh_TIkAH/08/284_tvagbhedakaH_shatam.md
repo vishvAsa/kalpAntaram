@@ -49,19 +49,11 @@ The term ‘*niṣka*’ here stands for a measure of gold, as has been already 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“According to Rāghavānanda the rule refers to Śūdras assaulting Śūdras.
-According to Nārāyaṇa, the last offender’s property shall be
-confiscated.”—Buhler.
+“According to Rāghavānanda the rule refers to Śūdras assaulting Śūdras. According to Nārāyaṇa, the last offender’s property shall be confiscated.”—Buhler.
 
-This verse is quoted in *Vivādaratnākara* (p. 164), which remarks that
-in view of the law laid down by Viṣṇu, that for causing bleeding the
-fine shall be 64 *paṇas*,—the penalty here laid down should be
-understood to be applicable to cases where there is much bleeding caused
-by the tearing of the skin.
+This verse is quoted in *Vivādaratnākara* (p. 164), which remarks that in view of the law laid down by Viṣṇu, that for causing bleeding the fine shall be 64 *paṇas*,—the penalty here laid down should be understood to be applicable to cases where there is much bleeding caused by the tearing of the skin.
 
-It is quoted in *Parāśaramādhava* (Vyavahāra, p. 287);—in *Aparārka* (p.
-815) which adds that, the bleeding is due to grievous hurt, then the
-fine is to be 100, otherwise 64;—in *Mitākṣarā* (2.218), where
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 287);—in *Aparārka* (p. 815) which adds that, the bleeding is due to grievous hurt, then the fine is to be 100, otherwise 64;—in *Mitākṣarā* (2.218), where
 *Bālambhaṭṭī* remarks that the penalty here laid down applies to cases
 where the hurt has been inflicted on some vital part of the body;—and in
 *Vivādacintāmaṇi* (Calcutta, p. 74), which explains ‘*niṣka*’ as
@@ -71,60 +63,29 @@ equivalent to four ‘*suvarṇas*’
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (5.66-72).—‘If he causes pain to him, without fetching blood, he
-shall pay 32 *Paṇas*; for fetching blood, 64;—for mutilating or injuring
-a hand, or a foot, or a tooth,—and for slitting an ear, or the nose,—the
-second amercement. For rendering a man unable to move about, or to oat,
-or to speak,—or for striking him violently,—the same punishment is
-ordained. For wounding or breaking an eye, or the neck, or an arm, or a
-hone, or a shoulder, the highest amercement. For striking out both eyes
-of a man, the King shall confine him and not release him from the jail
-as long as he lives;—or he shall order him to be mutilated in the same
-way.’
+shall pay 32 *Paṇas*; for fetching blood, 64;—for mutilating or injuring a hand, or a foot, or a tooth,—and for slitting an ear, or the nose,—the second amercement. For rendering a man unable to move about, or to oat, or to speak,—or for striking him violently,—the same punishment is ordained. For wounding or breaking an eye, or the neck, or an arm, or a hone, or a shoulder, the highest amercement. For striking out both eyes of a man, the King shall confine him and not release him from the jail as long as he lives;—or he shall order him to be mutilated in the same way.’
 
 *Yājñavalkya* (2.218-220).—‘If one causes pain with wood and other
 things, without fetching blood, he should ho made to pay a fine of 32
 *Paṇas*; on fetching blood, the double of that. If he breaks a hand, or
-a foot, or a tooth, or slits the ear or the nose, or reopens a wound, or
-beats him nearly to death,—the middle amercement. On incapacitating him
-from moving, eating or speaking, also for piercing the eyes and other
-organs, or for breaking the shoulder, or the arms or the thighs, the
-middle amercement.’
+a foot, or a tooth, or slits the ear or the nose, or reopens a wound, or beats him nearly to death,—the middle amercement. On incapacitating him from moving, eating or speaking, also for piercing the eyes and other organs, or for breaking the shoulder, or the arms or the thighs, the middle amercement.’
 
 *Nārada* (15-16.29).—‘If a man breaks the skin of an equal, or fetches
-blood from him, he shall be fined a hundred *Paṇas*; if he cuts the
-flesh, 6 *Niṣkas*; if he breaks a bone, ho shall be banished.’
+blood from him, he shall be fined a hundred *Paṇas*; if he cuts the flesh, 6 *Niṣkas*; if he breaks a bone, ho shall be banished.’
 
 *Bṛhaspati* (22.720).—‘For injuring a person with bricks, stones or a
-wooden club, he shall he fined two *Māṣas*; double of this, if blood
-flows. For tearing the skin, the lowest amercement shall be inflicted;
-for tearing the flesh, the middle amercement; for breaking a hone, the
-highest amercement; for killing, capital punishment. For breaking the
-oar, the nose or hand, or injuring teeth, or feet,—the middle
-amercement; and double of that for cutting off any of those limbs. He
-who injures a limb or divides it, shall be compelled to pay the expense
-of curing it.’
+wooden club, he shall he fined two *Māṣas*; double of this, if blood flows. For tearing the skin, the lowest amercement shall be inflicted; for tearing the flesh, the middle amercement; for breaking a hone, the highest amercement; for killing, capital punishment. For breaking the oar, the nose or hand, or injuring teeth, or feet,—the middle amercement; and double of that for cutting off any of those limbs. He who injures a limb or divides it, shall be compelled to pay the expense of curing it.’
 
 *Arthaśāstra* (p. 107).—‘On hurting a person, without fetching blood,
 with wood, stones, bricks, iron-stick, or ropes—the fine shall be 24
 *Paṇas*; double of that if blood is fetched. The lowest amercement for
-beating a man nearly to death, without fetching blood; as also for
-disabling a hand or foot. For breaking the hand or foot, or for tearing
-the nose or the ear, or for opening a wound, the same punishment. For
-breaking the thigh or the neck or the eyes, or making one unable to
-speak or move or eat,—the middle amercement; also the expenses for
-effecting a cure. If the man happen to die, the culprit should be tried
-as a heinous criminal.’
+beating a man nearly to death, without fetching blood; as also for disabling a hand or foot. For breaking the hand or foot, or for tearing the nose or the ear, or for opening a wound, the same punishment. For breaking the thigh or the neck or the eyes, or making one unable to speak or move or eat,—the middle amercement; also the expenses for effecting a cure. If the man happen to die, the culprit should be tried as a heinous criminal.’
 
 *Kātyāyana* (Vivādaratnākara, p. 265).—‘For striking a man with bricks,
-stones or wooden sticks, the fine is two *Māṣas*; double of this if
-blood is fetched; for cutting of the ear, the lip, the nose, the eye,
-the tongue, the penis or the hand,—the highest amercement; and for
-piercing these, the middle amercement.’
+stones or wooden sticks, the fine is two *Māṣas*; double of this if blood is fetched; for cutting of the ear, the lip, the nose, the eye, the tongue, the penis or the hand,—the highest amercement; and for piercing these, the middle amercement.’
 
 *Hārīta* (Vivādaratnākara, p. 266).—‘If a low-caste man breaks the head,
-or ears or any limb of a person of the higher castes, he shall be fined
-200 *Purāṇas*; for striking him with the foot, his feet shall be cut
-off, or he shall he fined 500.’
+or ears or any limb of a person of the higher castes, he shall be fined 200 *Purāṇas*; for striking him with the foot, his feet shall be cut off, or he shall he fined 500.’
 </details>
 
 <details><summary>भारुचिः</summary>

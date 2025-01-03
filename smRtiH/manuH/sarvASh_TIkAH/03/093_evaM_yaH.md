@@ -53,15 +53,9 @@ We say—*no*. For it has already been explained that the injunction of the offe
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Tejomūrtiḥ*’—‘Endowed with the body of light,’ qualifying the
-‘*Brāhmaṇa*’ (Medhātithi);—Kullūka reads ‘*tejomūrti*’ (neuter) and
-explains it as ‘resplendent’, qualifying the ‘place’.
+‘*Tejomūrtiḥ*’—‘Endowed with the body of light,’ qualifying the ‘*Brāhmaṇa*’ (Medhātithi);—Kullūka reads ‘*tejomūrti*’ (neuter) and explains it as ‘resplendent’, qualifying the ‘place’.
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 403), where it is
-noted that the use of the word ‘*archati*’, ‘honours’, is meant to imply
-that even the making of offerings to crows and others should not be
-accompanied by a feeling of disrespect, or contempt.—‘*Patharjunā*’ is
-to be construed as ‘*ṛjunā pathā*’.
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 403), where it is noted that the use of the word ‘*archati*’, ‘honours’, is meant to imply that even the making of offerings to crows and others should not be accompanied by a feeling of disrespect, or contempt.—‘*Patharjunā*’ is to be construed as ‘*ṛjunā pathā*’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -69,8 +63,7 @@ to be construed as ‘*ṛjunā pathā*’.
 **(verses 3.84-93)  
 **
 
-See Comparative notes for [Verse
-3.84].
+See Comparative notes for [Verse 3.84].
 </details>
 
 <details><summary>Bühler</summary>

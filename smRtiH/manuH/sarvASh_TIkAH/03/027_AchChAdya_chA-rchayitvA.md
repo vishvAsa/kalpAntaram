@@ -74,131 +74,67 @@ As for what has been said regarding the sense of *making one’s own*, such a se
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Arcayitvā*’—Medhātithi and Kullūka take this as well as ‘*ācchādya*’
-as referring to both the bride and the bridegroom;—Nārāyaṇa and
-Rāghvānanda refer ‘*urcayitvā*’ to the bridegroom only.
+‘*Arcayitvā*’—Medhātithi and Kullūka take this as well as ‘*ācchādya*’ as referring to both the bride and the bridegroom;—Nārāyaṇa and Rāghvānanda refer ‘*urcayitvā*’ to the bridegroom only.
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 847), where the
-following explanatory notes are added:—‘*Ācchādya*,’ ‘having dressed,’
-with clothes;—‘*arcayitvā*’ ‘having worshipped’ with garlands,
-sandal-paint and so forth;—both these are to be done to the bridegroom,
-not to the bride; since both these are related to ‘*āhūya*’ ‘having
-invited,’ which cannot refer to the bride;—‘*Svayam*,’ ‘himself,’ should
-not be taken (as Medhātithi and Kullūka take it) as precluding the
-possiblity of the request for the girl coming from the bridegroom; as
-such preclusion would be inconsistent with the rule laying down the
-‘selection’ of the bride by the bridegroom.—Further Baudhāyana
-says—“After ascertaining his *Śrutaśīle*, learning and character, one
-gives the girl to the Student *who seeks for her*,”—and here we find it
-distinctly laid down that there should be *a seeking for the girl* by
-the bridegroom;—in this passage ‘Student,’ *Brahmacāri*, stands for one
-whose observance of studentship has not suffered in any way.—‘The
-seeing’ spoken of by Baudhāyana consists in selecting the bride. That
-the father should ‘himself’ invite the bridegroom has been laid down as
-the peculiar characteristic of the ‘Brāhma’ form of marriage. Such also
-is the custom among the people of the south.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 847), where the following explanatory notes are added:—‘*Ācchādya*,’ ‘having dressed,’ with clothes;—‘*arcayitvā*’ ‘having worshipped’ with garlands, sandal-paint and so forth;—both these are to be done to the bridegroom, not to the bride; since both these are related to ‘*āhūya*’ ‘having invited,’ which cannot refer to the bride;—‘*Svayam*,’ ‘himself,’ should not be taken (as Medhātithi and Kullūka take it) as precluding the possiblity of the request for the girl coming from the bridegroom; as such preclusion would be inconsistent with the rule laying down the ‘selection’ of the bride by the bridegroom.—Further Baudhāyana says—“After ascertaining his *Śrutaśīle*, learning and character, one gives the girl to the Student *who seeks for her*,”—and here we find it distinctly laid down that there should be *a seeking for the girl* by the bridegroom;—in this passage ‘Student,’ *Brahmacāri*, stands for one whose observance of studentship has not suffered in any way.—‘The seeing’ spoken of by Baudhāyana consists in selecting the bride. That the father should ‘himself’ invite the bridegroom has been laid down as the peculiar characteristic of the ‘Brāhma’ form of marriage. Such also is the custom among the people of the south.
 
-This verse is quoted also in *Smṛtitattva* (II, p. 106) in connection
-with a somewhat subtle discussion. The author holds the view that
-‘marriage,’ ‘*vivāha*,’ is the *act of taking a wife*, and hence the
-‘giving’ of the bride cannot be called ‘marriage,’ as the *giving* is
-done by the Father, while the *taking of a wife* is done by the
-Bridegroom. On this ground, he argues, the definition of the Brāhma form
-of *marriage* provided in the present text of Manu should not be
-explained as consisting in the ‘*giving* of the girl’; the word
-‘*Dānam*’ has, therefore, to be explained differently, in its
-etymological sense ‘*yasmai dīyate tat dānam*’ *i.e*., ‘*dānam*’ means
-‘that for the sake of accomplishing which the *giving* is done’;—and as
-it is the Student’s ‘taking of a wife’ that is accomplished by *giving*,
-it is this ‘taking of the wife’ which should be taken as expressed by
-the word ‘*dānam*.’ He argues further that if the ‘marriage consisted in
-the *giving* of the girl, then the agent, *person* marrying, would be
-the bride’s Father, and not the Bridegroom. The author is conscious of
-the syntactical difficulty involved in his explanation, in connection
-with the participle ‘*āhūya*’, ‘having invited,’ which, as it stands,
-must have the same nominative agent as the ‘giving.’ But he brushes it
-off with the remark that the derivation of the verbal root in ‘*āhūya*’
-being only a secondary factor, may be ignored, or we may supply some
-such word as ‘*sthitaḥ*’;—the meaning thus being—‘the man who takes the
-wife when he comes *after being invited*.’
+This verse is quoted also in *Smṛtitattva* (II, p. 106) in connection with a somewhat subtle discussion. The author holds the view that ‘marriage,’ ‘*vivāha*,’ is the *act of taking a wife*, and hence the ‘giving’ of the bride cannot be called ‘marriage,’ as the *giving* is done by the Father, while the *taking of a wife* is done by the Bridegroom. On this ground, he argues, the definition of the Brāhma form of *marriage* provided in the present text of Manu should not be explained as consisting in the ‘*giving* of the girl’; the word ‘*Dānam*’ has, therefore, to be explained differently, in its etymological sense ‘*yasmai dīyate tat dānam*’ *i.e*., ‘*dānam*’ means ‘that for the sake of accomplishing which the *giving* is done’;—and as it is the Student’s ‘taking of a wife’ that is accomplished by *giving*, it is this ‘taking of the wife’ which should be taken as expressed by the word ‘*dānam*.’ He argues further that if the ‘marriage consisted in the *giving* of the girl, then the agent, *person* marrying, would be the bride’s Father, and not the Bridegroom. The author is conscious of the syntactical difficulty involved in his explanation, in connection with the participle ‘*āhūya*’, ‘having invited,’ which, as it stands, must have the same nominative agent as the ‘giving.’ But he brushes it off with the remark that the derivation of the verbal root in ‘*āhūya*’ being only a secondary factor, may be ignored, or we may supply some such word as ‘*sthitaḥ*’;—the meaning thus being—‘the man who takes the wife when he comes *after being invited*.’
 
 It is interesting to note that the question raised by Raghunandana in
 *Smṛtitattva* has been anticipated and satisfactorily explained by
 Medhātithi (see *Translation*, p. 58).
 
-This verse is quoted in *Aparārka* (p. 88);—in *Dānakriyākaumudī* (p. 9)
-as laying down the necessity of *clothing* the girl properly;—in
+This verse is quoted in *Aparārka* (p. 88);—in *Dānakriyākaumudī* (p. 9) as laying down the necessity of *clothing* the girl properly;—in
 *Nṛsiṃhaprasāda* (Saṃskāra, p. 61a);—and in *Smṛticandrikā* (Saṃskāra,
-p. 227), which explains ‘*arcayitvā*’ as ‘having worshipped him with
-offerings of ornaments and other tilings.’
+p. 227), which explains ‘*arcayitvā*’ as ‘having worshipped him with offerings of ornaments and other tilings.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (4. 6).—‘One should give away his daughter, dressed and
-adorned, to a man who is endowed with learning, character, good conduct,
-and relations;—this is the Brāhma form.’
+adorned, to a man who is endowed with learning, character, good conduct, and relations;—this is the Brāhma form.’
 
 *Baudhāyana* (1. 11. 2).—‘The Brāhma form consists in giving the girl to
-a man who has kept the vows of the Religious Student seeking for wife,
-after having tested his learning and character.’
+a man who has kept the vows of the Religious Student seeking for wife, after having tested his learning and character.’
 
 *Āpastamba-Dharmasūtra* (2. 11. 17).—‘In the Brāhma form of marriage,
-one should find out all about the relations, the character, the learning
-and the health of the man and then give to him the girl after having
-adorned her to the best of his power, for the purpose of hearing
-children and for companionship.’
+one should find out all about the relations, the character, the learning and the health of the man and then give to him the girl after having adorned her to the best of his power, for the purpose of hearing children and for companionship.’
 
 *Vaśiṣṭha* (1.30).—‘That is the form of marriage in which the father
-gives away the girl to a person desirous of having a wife, after having
-made to him an offering of water.’
+gives away the girl to a person desirous of having a wife, after having made to him an offering of water.’
 
 *Viṣṇu* (24.19).—‘The Brāhma form consists in inviting the qualified man
 and giving the girl to him.’
 
 *Yājñavalkya* (1. 58).—‘When the girl, adorned to the best of one’s
-power, is given to a man who has been invited for the purpose, it
-constitutes the Brāhma form of marriage; the son born of these marriages
-purities twenty-one generations on both sides.’
+power, is given to a man who has been invited for the purpose, it constitutes the Brāhma form of marriage; the son born of these marriages purities twenty-one generations on both sides.’
 
 *Āśvalāyana-Gṛhyasūtra* (1. 6. 15).—‘Having adorned the girl one should
-give her away, preceded by the water-offering; the son born thereof
-purifies twelve future generations and twelve past generations on both
-sides.’
+give her away, preceded by the water-offering; the son born thereof purifies twelve future generations and twelve past generations on both sides.’
 
 *Devala* (Vīramitrodaya-Saṃskāra, p. 847).—‘One should give away the
-girl, endowed with auspicious qualities, dressed and adorned, wearing
-now bangles, to a deserving man; this constitutes the Brāhma form of
-marriage.’
+girl, endowed with auspicious qualities, dressed and adorned, wearing now bangles, to a deserving man; this constitutes the Brāhma form of marriage.’
 
 *Saṃvarta* (Vīramitrodaya-Saṃskāra, p. 847).—‘One should give away—by
-the Brāhma form of marriage—his daughter, endowed with good qualities,
-after having adorned her with excellent ornaments, to a suitable
-bridegroom.’
+the Brāhma form of marriage—his daughter, endowed with good qualities, after having adorned her with excellent ornaments, to a suitable bridegroom.’
 
 *Vyāsa* (Vīramitrodaya-Saṃskāra, p. 847).—‘One should give away the
-girl, dressed and adorned, after going round the fire thrice and
-pronounced the name and *gotra*; this is the Brāhma form.’
+girl, dressed and adorned, after going round the fire thrice and pronounced the name and *gotra*; this is the Brāhma form.’
 
 *Yama* (Vīramitrodaya-Saṃskāra, p. 848).—‘The girl that is given away
 with water, they regard as *Brahmadeyā*.’
 
 *Hārīta* (Vīramitrodaya-Saṃskāra, p. 848).—‘When one offers a pair of
-clothes to a man and gives his girl to him, without deprecating or
-discussing him, directing him to jointly carry on Dharma, this is the
-Brāhma form of marriage.’
+clothes to a man and gives his girl to him, without deprecating or discussing him, directing him to jointly carry on Dharma, this is the Brāhma form of marriage.’
 
 *Śaṅkha-Likhita* (Vīramitrodaya-Saṃskāra, p. 848).—‘When one gives to a
-man of his own caste, who is well known to him, the girl who has not
-reached puberty,—this is the Brāhma marriage.’
+man of his own caste, who is well known to him, the girl who has not reached puberty,—this is the Brāhma marriage.’
 
 *Paiṭhīnasi* (Vīramitrodaya-Saṃskāra, p. 848).—‘One should give away the
 girl adorned with gold, before she has reached puberty.’
 
 *Brahmapurāṇa* (Vīramitrodaya-Saṃskāra, p. 848).—‘To a qualified
-bridegroom, you give the girl, with proper faith and confidence, after
-having adorned her to the best of your power and endowed her with
-wealth.’
+bridegroom, you give the girl, with proper faith and confidence, after having adorned her to the best of your power and endowed her with wealth.’
 </details>
 
 <details><summary>Bühler</summary>

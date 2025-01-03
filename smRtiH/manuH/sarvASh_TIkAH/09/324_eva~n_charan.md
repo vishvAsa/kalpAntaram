@@ -38,8 +38,7 @@ Acting in this manner, and ever intent upon his Kingly Duties, the king shall or
 **(verses 9.323-325)  
 **
 
-See Comparative notes for [Verse
-9.323].
+See Comparative notes for [Verse 9.323].
 </details>
 
 <details><summary>Bühler</summary>

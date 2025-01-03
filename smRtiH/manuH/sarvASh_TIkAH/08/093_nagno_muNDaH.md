@@ -20,19 +20,16 @@ title = "093 नग्नो मुण्डः"
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Hopkins remarks that ‘*gṛham*’ is the reading of Medhātithi (for
-‘*Kulam*’). But there is nothing in the *Bhāṣya* to show this.
+Hopkins remarks that ‘*gṛham*’ is the reading of Medhātithi (for ‘*Kulam*’). But there is nothing in the *Bhāṣya* to show this.
 
-This verse is quoted in *Aparārka* (p. 674);—in *Smṛticandrikā*
-(Vyavahāra, p. 204);—and in *Kṛtyakalpataru* (35a).
+This verse is quoted in *Aparārka* (p. 674);—in *Smṛticandrikā* (Vyavahāra, p. 204);—and in *Kṛtyakalpataru* (35a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 8.89-97)**
 
-\[See the texts under [79 *et
-seq*.]\]
+\[See the texts under [79 *et seq*.]\]
 </details>
 
 <details><summary>Bühler</summary>

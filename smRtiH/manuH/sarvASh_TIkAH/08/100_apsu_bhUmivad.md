@@ -43,8 +43,7 @@ This verse is quoted in *Smṛticandrikā* (Vyavahāra, p. 205),—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (13.18-19).—‘By false evidence regarding water, one incurs the
-same guilt as in that regarding land; likewise by false evidence
-regarding criminal intercourse.’
+same guilt as in that regarding land; likewise by false evidence regarding criminal intercourse.’
 </details>
 
 <details><summary>Bühler</summary>

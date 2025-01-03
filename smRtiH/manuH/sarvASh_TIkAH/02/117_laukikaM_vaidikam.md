@@ -50,18 +50,9 @@ Some people have explained the term ‘first’ to mean ‘before saluting one�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 25);—in *Vidhānapārijāta*
-(p. 501);—in *Parāśaramādhava* (Ācāra, p. 296), as mentioning the person
-to whom, among a number of people, the salutation is to be offered
-first;—and in *Vīramitrodaya* (Saṃskāra, p. 460); where ‘*laukikam*’ is
-explained as *arthaśāstrīyādi*, and ‘*ādhyātmikam*’ as
+This verse is quoted in *Madanapārijāta* (p. 25);—in *Vidhānapārijāta* (p. 501);—in *Parāśaramādhava* (Ācāra, p. 296), as mentioning the person to whom, among a number of people, the salutation is to be offered first;—and in *Vīramitrodaya* (Saṃskāra, p. 460); where ‘*laukikam*’ is explained as *arthaśāstrīyādi*, and ‘*ādhyātmikam*’ as
 *brahmapratipādakaśāstrīyādi*;—‘*pūrvan*’ as *bahumānyasamavāye
-prathamam*;—and it proceeds to point out that among the teachers
-enumerated, the succeeding one is to have priority over the preceding
-one;—also in *Aparārka* (p. 54) without comment;—and again on p.
-142;—also in *Smṛticandrikā* (Saṃskāra, p. 97) as laying down the order
-in which salutation has to be offered when there are a number of
-Brāhmaṇas assembled;—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 44a).
+prathamam*;—and it proceeds to point out that among the teachers enumerated, the succeeding one is to have priority over the preceding one;—also in *Aparārka* (p. 54) without comment;—and again on p. 142;—also in *Smṛticandrikā* (Saṃskāra, p. 97) as laying down the order in which salutation has to be offered when there are a number of Brāhmaṇas assembled;—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 44a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -73,30 +64,22 @@ him.’
 people hold that the Teacher’s feet should he clasped.’
 
 *Āpastamba-Dharmasūtra* (14.7-9)—‘When one has completed his study he
-should clasp the feet of all his superiors;—also when he meets them on
-returning from a journey;—there should he clasping of the feet of
-brothers and sisters, in the order of seniority.’
+should clasp the feet of all his superiors;—also when he meets them on returning from a journey;—there should he clasping of the feet of brothers and sisters, in the order of seniority.’
 
 *Vaśiṣṭha-Smṛti* (13.12).—‘The feet should be clasped of one who is
 superior either in Vedic learning or in birth.’
 
 *Viṣṇu-Smṛti* (27. 14-17).—‘Having offered the Twilight Prayers, he
-should salute the Teacher:—he should touch his feet with reverent hands,
-the right with the right and the left with the left;—at the salutation,
-he should also announce his name, ending with the term *bhoḥ*.’
+should salute the Teacher:—he should touch his feet with reverent hands, the right with the right and the left with the left;—at the salutation, he should also announce his name, ending with the term *bhoḥ*.’
 
 *Gobhila-Gṛhyasūtra* (3.1.27).—‘Wearing of the girdle, begging alms,
-fetching fuel, water-sipping, morning-salutation,—these are obligatory
-daily duties.’
+fetching fuel, water-sipping, morning-salutation,—these are obligatory daily duties.’
 
 *Śānkhyāyana-Gṛhyasūtra* (Vīramitrodaya-Saṃskāra, p. 460).—‘Daily, one
-shall salute the Teacher, as also his elders—of these, the Vedic scholar
-whenever one meets him; and one who is not learned in the Veda, only
-when one meets him on returning from a journey.’
+shall salute the Teacher, as also his elders—of these, the Vedic scholar whenever one meets him; and one who is not learned in the Veda, only when one meets him on returning from a journey.’
 
 *Paiṭhīnasi* (Do.).—‘One should salute, first of all, that person from
-whom one acquires knowledge, either temporal or scriptural or related to
-Dharma.’
+whom one acquires knowledge, either temporal or scriptural or related to Dharma.’
 </details>
 
 <details><summary>Bühler</summary>

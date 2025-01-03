@@ -44,16 +44,9 @@ The addition of the term ‘*proficient in dishonesty*’ indicates that the pen
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Verses 59-61 are not omitted by Medhātithi, as wrongly asserted by
-Hopkins.
+Verses 59-61 are not omitted by Medhātithi, as wrongly asserted by Hopkins.
 
-This verse is quoted in *Vivādaratnākara* (p. 77), which adds the
-following explanation:—When the defendant, through dishonest motives,
-denies the claim,—or when the plaintiff prefers a false claim,—both
-those are dishonest dealers, and they should be punished with a fine,
-which is the double of the amount of the claim;—in *Vivādacintāmaṇi* (p.
-34), which says that this rule refers to cases where the culprit is very
-wealthy;—and in *Kṛtyakalpataru* (80b).
+This verse is quoted in *Vivādaratnākara* (p. 77), which adds the following explanation:—When the defendant, through dishonest motives, denies the claim,—or when the plaintiff prefers a false claim,—both those are dishonest dealers, and they should be punished with a fine, which is the double of the amount of the claim;—in *Vivādacintāmaṇi* (p. 34), which says that this rule refers to cases where the culprit is very wealthy;—and in *Kṛtyakalpataru* (80b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -62,19 +55,13 @@ wealthy;—and in *Kṛtyakalpataru* (80b).
 made to pay twice the value of the claim.’
 
 *Yama* (Do., p. 78).—‘If the debtor, even though possessed of the
-requisite means, does not repay the debt, through dishonesty, he should
-be compelled by the King to pay, having realised from him double of his
-debt.’
+requisite means, does not repay the debt, through dishonesty, he should be compelled by the King to pay, having realised from him double of his debt.’
 
 *Nārada* (Vivādaratnākara, p. 78).—‘If the debtor, even though possessed
-of the requisite means, does not repay the debt, through dishonesty, he
-should be compelled by the King to repay, after taking from him the
-twentieth part of the claim as fine.’
+of the requisite means, does not repay the debt, through dishonesty, he should be compelled by the King to repay, after taking from him the twentieth part of the claim as fine.’
 
 *Yājñavalkya* (2.11).—‘If a party makes a false statement, and the other
-party proves it to he so, then the former shall pay to the King a fine
-equal to the amount of the claim. The man who makes a false claim shall
-pay to the King a fine equal to double the amount of the claim.’
+party proves it to he so, then the former shall pay to the King a fine equal to the amount of the claim. The man who makes a false claim shall pay to the King a fine equal to double the amount of the claim.’
 </details>
 
 <details><summary>भारुचिः</summary>

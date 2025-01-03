@@ -27,8 +27,7 @@ This is the answer to the question of the sages.
 **(verses 12.1-4)  
 **
 
-See Comparative notes for [Verse
-12.1].
+See Comparative notes for [Verse 12.1].
 </details>
 
 <details><summary>भारुचिः</summary>

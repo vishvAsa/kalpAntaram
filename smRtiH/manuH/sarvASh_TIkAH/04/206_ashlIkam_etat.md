@@ -30,18 +30,13 @@ This verse is supplementary to the foregoing prohibitive Injunction.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 494), which explains
-‘*aślīka*’ as ‘conducive to adversity’,—and ‘*pratīpa*’ as
-‘disagreeable’;—and in *Prāyaścittaviveka* (p. 250), which remarks that
-the entire verse is ‘*Arthavāda*’.
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 494), which explains ‘*aślīka*’ as ‘conducive to adversity’,—and ‘*pratīpa*’ as ‘disagreeable’;—and in *Prāyaścittaviveka* (p. 250), which remarks that the entire verse is ‘*Arthavāda*’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (14.5).—‘The gods do not partake of the offerings of one who
-is suffering from white leprosy, or of one who has married a girl after
-puberty, or of one who is under the subjection of his wife, or of one
-who permits his wife’s paramour to live in the house.’
+is suffering from white leprosy, or of one who has married a girl after puberty, or of one who is under the subjection of his wife, or of one who permits his wife’s paramour to live in the house.’
 </details>
 
 <details><summary>Bühler</summary>

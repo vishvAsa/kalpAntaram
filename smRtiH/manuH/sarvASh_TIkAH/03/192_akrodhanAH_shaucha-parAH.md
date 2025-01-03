@@ -50,26 +50,16 @@ Since it is in all this form that the Pitṛs enter into the body of the Brāhma
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Hemādri* (Śrāddha, pp. 61 and 1005), which adds
-the following notes ‘*Akrodhanāḥ*,’ free from anger,—‘*śaucaparāḥ*’ is
-qualified by ‘*satatam*’, ‘always pure,’—hence the invited should sip
-water immediatly on sneezing or spitting,—‘*brahmacāriṇaḥ*,’ avoiding
-intercourse with women,—‘*nyastaśastrāḥ*’, who have renounced
-cruelty,—‘*mahābhāgāḥ*’, endowed with mercy, generosity and other such
-qualities; ‘since Fathers are such the invited who take their form,
-should also be so.’
+This verse is quoted in *Hemādri* (Śrāddha, pp. 61 and 1005), which adds the following notes ‘*Akrodhanāḥ*,’ free from anger,—‘*śaucaparāḥ*’ is qualified by ‘*satatam*’, ‘always pure,’—hence the invited should sip water immediatly on sneezing or spitting,—‘*brahmacāriṇaḥ*,’ avoiding intercourse with women,—‘*nyastaśastrāḥ*’, who have renounced cruelty,—‘*mahābhāgāḥ*’, endowed with mercy, generosity and other such qualities; ‘since Fathers are such the invited who take their form, should also be so.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (9.14,17, 24).—‘He should offer metallic vessels;—specially
-those of silver;—whatever is offered with a vessel—howsoever small—made
-of gold or silver or rhinoceros-horn or *Udumbara* wood,—becomes
-imperishable.’
+those of silver;—whatever is offered with a vessel—howsoever small—made of gold or silver or rhinoceros-horn or *Udumbara* wood,—becomes imperishable.’
 
 *Yājñavalkya* (1. 237).—‘The remnant of the oblations one should
-carefully offer into vessels, such as may be available; but specially in
-those of silver.’
+carefully offer into vessels, such as may be available; but specially in those of silver.’
 </details>
 
 <details><summary>Bühler</summary>

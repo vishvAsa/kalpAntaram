@@ -274,17 +274,9 @@ The term ‘*sutaiḥ*,’ ‘sons’ in the text stands for *children*; though 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Burnell is wrong in saying that ‘verse 248 is apparently omitted by
-Medhātithi’ It is strange that scholars of the ‘Critical School’ should
-be making such statements on the strength of Mss. which they know to be
-imperfect and incomplete.
+Burnell is wrong in saying that ‘verse 248 is apparently omitted by Medhātithi’ It is strange that scholars of the ‘Critical School’ should be making such statements on the strength of Mss. which they know to be imperfect and incomplete.
 
-This verse is quoted in *Smṛtitattva* (p. 802) as likely to be
-interpreted as indicating the ‘offering of the Ball’ to be the principal
-factor. It combats this view and adds that in the compound
-‘*piṇḍanirvapaṇam*’ the term ‘*piṇḍa*’ is to be understood as synonymous
-with ‘*pitṛ*’, so that what the compound means is ‘offering to the
-Pitṛs.’
+This verse is quoted in *Smṛtitattva* (p. 802) as likely to be interpreted as indicating the ‘offering of the Ball’ to be the principal factor. It combats this view and adds that in the compound ‘*piṇḍanirvapaṇam*’ the term ‘*piṇḍa*’ is to be understood as synonymous with ‘*pitṛ*’, so that what the compound means is ‘offering to the Pitṛs.’
 
 *Medhātithi* (P. 286, l. 14)—‘*Sapiṇḍīkaraṇaśrāddham* *&c*.’ This
 appears to be a paraphrase of the verse, which is quoted also in
@@ -295,13 +287,10 @@ nirdishet*.’ See below Bhāṣya, p. 289, ll. 15-20.
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Jātūkarṇa* (Parāśaramādhava, p. 445).—‘When the father has become one
-of the Pitṛs, his son shall, year after year, and month after month,
-offer to him Śrāddha in the manner of the *Pārvaṇa* Śrāddhas.’
+of the Pitṛs, his son shall, year after year, and month after month, offer to him Śrāddha in the manner of the *Pārvaṇa* Śrāddhas.’
 
 *Jamadagni* (Do.).—‘When the father or the mother has become amalgamated
-with the Piṭṛs, the body-born son shall offer to the parents, on the day
-of their death, in the manner of the Śrāddha performed on the moonless
-day.’
+with the Piṭṛs, the body-born son shall offer to the parents, on the day of their death, in the manner of the Śrāddha performed on the moonless day.’
 </details>
 
 <details><summary>Bühler</summary>

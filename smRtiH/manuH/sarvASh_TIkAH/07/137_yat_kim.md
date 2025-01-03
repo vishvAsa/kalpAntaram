@@ -25,8 +25,7 @@ The King shall make the other people living by business p ay during the year som
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (19.26-27).—‘No taxes shall he paid on the usufruct, of
-rivers, dry grass, forests, places of combustion and mountains;—or,
-those who derive subsistence from these may pay something.’
+rivers, dry grass, forests, places of combustion and mountains;—or, those who derive subsistence from these may pay something.’
 </details>
 
 <details><summary>भारुचिः</summary>

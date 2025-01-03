@@ -46,26 +46,11 @@ The particle ‘*ca*’ indicates that, though what the words directly declare i
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (2.195), which adds the following
-notes:—As a matter of fact, this appearing of husband and wife before
-the king as plaintiff and defendant is forbidden, and as such there is
-no room for this subject under the present head; but what is meant is
-that if, from other sources, the king should happen to hear of the
-misbehaviour of the one or the other of the party, he should interfere,
-and by means of judicious punishment bring them back to the path of
-righteousness; otherwise he becomes involved in sin.—*Bālambhaṭṭī* has
-the following explanatory notes:—‘*Svaiḥ*’, the women’s own brother and
-other relations,—‘*divāniśam*,’ always,—‘*viṣayesu*’, even such objects
-of enjoyment as are not actually forbidden, such as beautiful things,
-tasty food, and so forth,—‘*sajjantyaḥ*’ addicted,—they should be kept
-under control.
+This verse is quoted in *Mitākṣarā* (2.195), which adds the following notes:—As a matter of fact, this appearing of husband and wife before the king as plaintiff and defendant is forbidden, and as such there is no room for this subject under the present head; but what is meant is that if, from other sources, the king should happen to hear of the misbehaviour of the one or the other of the party, he should interfere, and by means of judicious punishment bring them back to the path of righteousness; otherwise he becomes involved in sin.—*Bālambhaṭṭī* has the following explanatory notes:—‘*Svaiḥ*’, the women’s own brother and other relations,—‘*divāniśam*,’ always,—‘*viṣayesu*’, even such objects of enjoyment as are not actually forbidden, such as beautiful things, tasty food, and so forth,—‘*sajjantyaḥ*’ addicted,—they should be kept under control.
 
 It is quoted in *Parāśaramādhava* (Vyavahāra, p. 322); in
 *Smṛtisāroddhāra* (p. 330), which adds that ‘though a regular law-suit
-between husband and wife has been prohibited, yet if the king happens to
-learn from other sources, of quarrels between them, he should intervene
-and make them keep to the right path,’—in *Kṛtyasārasamuccaya* (p. 98)
-which explains ‘*sajjantyaḥ*’ as becoming ‘addicted’—and in
+between husband and wife has been prohibited, yet if the king happens to learn from other sources, of quarrels between them, he should intervene and make them keep to the right path,’—in *Kṛtyasārasamuccaya* (p. 98) which explains ‘*sajjantyaḥ*’ as becoming ‘addicted’—and in
 *Nṛsiṃhaprasāda* (Vyavahāra, 31b).
 </details>
 
@@ -87,15 +72,10 @@ masters.’
 *Yājñavalkya* (1.85).—‘There is no independence for woman at any time.’
 
 *Bṛhaspati* (24.2).—‘A woman must be restrained from even slight
-transgressions by her relations,—by night and by day she must be watched
-by her mother-in-law and other ladies of the family.
+transgressions by her relations,—by night and by day she must be watched by her mother-in-law and other ladies of the family.
 
 *Śukranīti* (4.4.11, 23).—‘Women have no separate right to the
-employment of the means of realising the three ends of spiritual merit,
-wealth and pleasure. The wife should be pure in mind, speech and action;
-she should abide by the instructions of her husband, and follow him like
-his shadow, and be a friend in all his activities and servant in all his
-commands.’
+employment of the means of realising the three ends of spiritual merit, wealth and pleasure. The wife should be pure in mind, speech and action; she should abide by the instructions of her husband, and follow him like his shadow, and be a friend in all his activities and servant in all his commands.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -26,13 +26,7 @@ What is prescribed in connection with ‘wine-drinking’ is certainly somewhat 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.244), which adds the following
-notes:—This refers to cases where the false evidence leads to the death
-of men;—‘*pratirabhya*,’ becoming passionately angry with;—‘*nikṣepa*,’
-the deposit placed by a Brāhmaṇa,—‘*strī*’ here stands for the wife of a
-person who has taken the fires, who is endowed with the quality of being
-devoted to her husband and so forth;—in *Prāyaścittaviveka* (p.
-179);—and in *Vīramitrodaya* (Vyavahāra 56b).
+This verse is quoted in *Mitākṣarā* (3.244), which adds the following notes:—This refers to cases where the false evidence leads to the death of men;—‘*pratirabhya*,’ becoming passionately angry with;—‘*nikṣepa*,’ the deposit placed by a Brāhmaṇa,—‘*strī*’ here stands for the wife of a person who has taken the fires, who is endowed with the quality of being devoted to her husband and so forth;—in *Prāyaścittaviveka* (p. 179);—and in *Vīramitrodaya* (Vyavahāra 56b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -40,8 +34,7 @@ devoted to her husband and so forth;—in *Prāyaścittaviveka* (p.
 **(verses 11.87-88)  
 **
 
-See Comparative notes for [Verse
-11.87].
+See Comparative notes for [Verse 11.87].
 </details>
 
 <details><summary>भारुचिः</summary>

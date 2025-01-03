@@ -26,8 +26,7 @@ In the administration of his kingdom he shall adopt the procedure described belo
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 248), which
-explains ‘*saṅgraha*’ as ‘protecting, consolidation, making one’s own.’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 248), which explains ‘*saṅgraha*’ as ‘protecting, consolidation, making one’s own.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -35,8 +34,7 @@ explains ‘*saṅgraha*’ as ‘protecting, consolidation, making one’s own.
 **(verses 7.110-113)  
 **
 
-See Comparative notes for [Verse
-7.110].
+See Comparative notes for [Verse 7.110].
 </details>
 
 <details><summary>Bühler</summary>

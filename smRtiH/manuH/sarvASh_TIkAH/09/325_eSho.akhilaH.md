@@ -31,8 +31,7 @@ The first half of this verse sums up the entire section dealing with the Duties 
 **(verses 9.323-325)  
 **
 
-See Comparative notes for [Verse
-9.323].
+See Comparative notes for [Verse 9.323].
 </details>
 
 <details><summary>भारुचिः</summary>

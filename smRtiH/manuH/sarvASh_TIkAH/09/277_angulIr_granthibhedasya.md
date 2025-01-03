@@ -26,33 +26,15 @@ When such a man has been detected in doing this for the first time, his fingers 
 
 **(verse 9.276)**
 
-This verse is quoted in *Mitākṣarā* (2. 275), as illustrating the
-principle that the severity of the penalty is to be determined by the
-seriousness of the offence;—in *Aparārka* (p. 845), which explains the
-meaning to be that the nails are to he fixed on the points where the two
-hands have been cut off;—in *Vivādaratnākara* (p. 316), which adds that
-when construed with ‘*śūle niveśayet*’, ‘*teṣām*’ is to be taken as
-‘*tān*’;—in *Vivādacintāmaṇi* (Calcutta, p. 86);—and in *Vīramitrodaya*
-(Vyavahāra 151b).
+This verse is quoted in *Mitākṣarā* (2. 275), as illustrating the principle that the severity of the penalty is to be determined by the seriousness of the offence;—in *Aparārka* (p. 845), which explains the meaning to be that the nails are to he fixed on the points where the two hands have been cut off;—in *Vivādaratnākara* (p. 316), which adds that when construed with ‘*śūle niveśayet*’, ‘*teṣām*’ is to be taken as ‘*tān*’;—in *Vivādacintāmaṇi* (Calcutta, p. 86);—and in *Vīramitrodaya* (Vyavahāra 151b).
 
 **(verse 9.277)**
 
-‘*Aṅgulīḥ*’—Rāghavānanda reads ‘*aṅgulī*’ (Dual) and explains that the
-thumb and the index-finger are meant;—the same view is held by Kullūka
-also;—according to Nandana, the ‘two fingers’ are the index and the
-middle fingers,—Medhātithi adopts the reading in the plural.
+‘*Aṅgulīḥ*’—Rāghavānanda reads ‘*aṅgulī*’ (Dual) and explains that the thumb and the index-finger are meant;—the same view is held by Kullūka also;—according to Nandana, the ‘two fingers’ are the index and the middle fingers,—Medhātithi adopts the reading in the plural.
 
-This verse is quoted in *Vivādaratnākara* (p. 321), which reads
-‘*aṅgulī*’ (Dual) and explains it as the thumb and the index
-finger;—‘*graha*’, detection;—in *Parāśaramādhava* (Vyavahāra, p. 302),
-which explains the ‘two fingers’ as the thumb and the index finger;—in
+This verse is quoted in *Vivādaratnākara* (p. 321), which reads ‘*aṅgulī*’ (Dual) and explains it as the thumb and the index finger;—‘*graha*’, detection;—in *Parāśaramādhava* (Vyavahāra, p. 302), which explains the ‘two fingers’ as the thumb and the index finger;—in
 *Aparārka* (p. 845);—in *Mitākṣarā* (2. 274) to the effect that a
-pickpocket detected thrice should be put to death;—in *Vivādacintāmaṇi*
-(Calcutta, p. 87), which adds the following explanations—‘If one is
-detected in untying cattle for stealing it, then, if it is the first
-offence of its kind, his fingers should be cut off, in the second
-offence, his hands and feet, and in the third, death-penalty is to be
-inflicted;—and in *Nṛṣiṃhaprasāda* (Vyavahāra 42b).
+pickpocket detected thrice should be put to death;—in *Vivādacintāmaṇi* (Calcutta, p. 87), which adds the following explanations—‘If one is detected in untying cattle for stealing it, then, if it is the first offence of its kind, his fingers should be cut off, in the second offence, his hands and feet, and in the third, death-penalty is to be inflicted;—and in *Nṛṣiṃhaprasāda* (Vyavahāra 42b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -63,17 +45,14 @@ inflicted;—and in *Nṛṣiṃhaprasāda* (Vyavahāra 42b).
 goods and to suffer various forms of corporal punishment.’
 
 *Vyāsa* (Vivādaratnākara, p. 316).—‘If a man cuts a hole in the wall and
-steals wealth, he should be made to restore to the owner the stolen
-goods and should then be impaled.’
+steals wealth, he should be made to restore to the owner the stolen goods and should then be impaled.’
 
 **(verse 9.277)**
 
 *Viṣṇu* (5.136).—‘Cut-purses shall lose one hand.’
 
 *Yāñjavalkya* (2.274).—‘The pick-pocket and the cut-purse should be
-deprived of their picking fingers (thumb and index), for the first
-offence; on the second they should be deprived of one hand and one
-foot.’
+deprived of their picking fingers (thumb and index), for the first offence; on the second they should be deprived of one hand and one foot.’
 
 *Vyāsa* (Vivādaratnākara, p. 321).—‘The pick-pocket and the cut-purse
 should be deprived of their picking fingers.’
@@ -81,8 +60,7 @@ should be deprived of their picking fingers.’
 *Nārada* (Do., p. 322).—‘For the first offence, cut-purses shall have
 the thumb and the index finger cut off; for the
 
-second, the remaining fingers shall be cut off; and for the third, he
-shall be put to death.’
+second, the remaining fingers shall be cut off; and for the third, he shall be put to death.’
 </details>
 
 <details><summary>भारुचिः</summary>

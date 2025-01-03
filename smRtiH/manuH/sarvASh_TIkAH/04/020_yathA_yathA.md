@@ -26,8 +26,7 @@ The root ‘*ruc*’ governs the Dative only when it is used in the sense of ‘
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 155), which explains
-‘*rocate*’ as ‘becomes bright.’
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 155), which explains ‘*rocate*’ as ‘becomes bright.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -35,8 +34,7 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 155), which explains
 **(verses 4.19-20)  
 **
 
-See Comparative notes for [Verse
-4.19].
+See Comparative notes for [Verse 4.19].
 </details>
 
 <details><summary>Bühler</summary>

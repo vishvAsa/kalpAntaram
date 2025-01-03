@@ -28,9 +28,7 @@ The mention of the sages is by way of a commendatory statement—(94)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Nityācārapradīpa* (p. 386), which explains that
-‘*dīrghasandhyatva*’ is secured by continuing the Japa till after
-sunrise.
+This verse is quoted in *Nityācārapradīpa* (p. 386), which explains that ‘*dīrghasandhyatva*’ is secured by continuing the Japa till after sunrise.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

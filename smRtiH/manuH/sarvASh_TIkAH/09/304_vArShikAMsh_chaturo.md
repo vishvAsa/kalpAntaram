@@ -24,8 +24,7 @@ The actual limitation regarding the *four months* is not meant to be emphasised 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 19), where
-‘*caturaḥ*’ is explained as the four months beginning with *Śrāvaṇa*.
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 19), where ‘*caturaḥ*’ is explained as the four months beginning with *Śrāvaṇa*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

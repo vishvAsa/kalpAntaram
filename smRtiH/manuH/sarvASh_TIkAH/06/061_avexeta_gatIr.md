@@ -36,22 +36,16 @@ Something more has to be reflected upon (and this is pointed out in the next ver
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 968), which explains
-‘*Yamakṣaye*’ as ‘in Yama’s abode’;—and in *Yatidharmasaṅgraha* (p. 34).
+This verse is quoted in *Aparārka* (p. 968), which explains ‘*Yamakṣaye*’ as ‘in Yama’s abode’;—and in *Yatidharmasaṅgraha* (p. 34).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (96.36, 38).—‘He shall reflect upon the anxieties arising in
-youth from not obtaining the objects of pleasure, and upon the abode in
-hells awarded as punishment for enjoying them after they have been
-obtained unlawfully; and on the fearful agonies of hell.’
+youth from not obtaining the objects of pleasure, and upon the abode in hells awarded as punishment for enjoying them after they have been obtained unlawfully; and on the fearful agonies of hell.’
 
 *Yājñavalkya* (3.63, 64).—‘He should reflect upon residence in the womb,
-as also the sufferings brought about by one’s own acts, mental agonies,
-physical ailments and other troubles, decrepitude, bodily deformities,
-birth and rebirth during thousands of lives, and vicissitudes of
-pleasure and pain.’
+as also the sufferings brought about by one’s own acts, mental agonies, physical ailments and other troubles, decrepitude, bodily deformities, birth and rebirth during thousands of lives, and vicissitudes of pleasure and pain.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -68,9 +68,7 @@ Some people have hold that—“In connection with the performance of Śrāddhas
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 1125);—and in *Prāyaścittaviveka*
-(p. 373), which says that this refers to her fourth repetition of the
-act, done against her wishes.
+This verse is quoted in *Aparārka* (p. 1125);—and in *Prāyaścittaviveka* (p. 373), which says that this refers to her fourth repetition of the act, done against her wishes.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -78,8 +76,7 @@ act, done against her wishes.
 **(verses 11.176-177)  
 **
 
-See Comparative notes for [Verse
-11.176].
+See Comparative notes for [Verse 11.176].
 </details>
 
 <details><summary>भारुचिः</summary>

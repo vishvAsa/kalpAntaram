@@ -17,9 +17,7 @@ The twice-born man, knowing the law, should cremate the wife of his own caste,�
 
 This verse reiterates what is already implied by the law.
 
-In us much as she is a ‘good’ wife, it is only right that she should be
-cremated with the sacred *Agnihotra* fire; specially in view of the
-assertion—‘on the death of the wife the Fires are not maintained’—(165).
+In us much as she is a ‘good’ wife, it is only right that she should be cremated with the sacred *Agnihotra* fire; specially in view of the assertion—‘on the death of the wife the Fires are not maintained’—(165).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -31,12 +29,10 @@ assertion—‘on the death of the wife the Fires are not maintained’—(165).
 consecrated fire, shall take to another wife without delay.’
 
 *Viṣṇu* (Aparārka, p. 114).—‘Even on the death of his wife, he shall not
-abandon his *śrauta* fire; the fire has to be maintained throughout
-life, even with a substitute.’
+abandon his *śrauta* fire; the fire has to be maintained throughout life, even with a substitute.’
 
 *Satyāṣāḍha* (Do.).—‘There can be no substitute for the husband, the
-wife, the son, the time, the place, the duty, the act itself, or the
-word.’
+wife, the son, the time, the place, the duty, the act itself, or the word.’
 
 *Bahvṛca-Brāhmaṇa* (Do, p. 115).—‘Therefore, he should kindle the fire
 without a wife.’

@@ -56,16 +56,11 @@ As a matter of fact, the ends to be attained by means of the Expedients are endl
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Upetāram*’—‘The employer of the means, *i.e*., the king himself’
-(Medhātithi, Govindarāja, Kullūka, Nārāyaṇa and Rāghavānanda);—‘the
-king’s minister’ (Nandana).
+‘*Upetāram*’—‘The employer of the means, *i.e*., the king himself’ (Medhātithi, Govindarāja, Kullūka, Nārāyaṇa and Rāghavānanda);—‘the king’s minister’ (Nandana).
 
-‘*Āśritya*’—‘Undertaking’ (Medhātithi);—‘depending upon’ (Govindarāja
-and Kullūka);—‘pondering over’ (Nārāyaṇa and Raghavānanda).
+‘*Āśritya*’—‘Undertaking’ (Medhātithi);—‘depending upon’ (Govindarāja and Kullūka);—‘pondering over’ (Nārāyaṇa and Raghavānanda).
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 413), which
-explains ‘*upetāram*’ as ‘the employer of the means, *i.e*., the king
-himself,’—and ‘*upeyam*’ as ‘one who is to be won by the means employed,
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 413), which explains ‘*upetāram*’ as ‘the employer of the means, *i.e*., the king himself,’—and ‘*upeyam*’ as ‘one who is to be won by the means employed,
 *i.e*., the enemy’—again, on p. 319, where also the explanations are
 repeated;—and in *Nītimayūkha* (p. 50).
 </details>
@@ -73,8 +68,7 @@ repeated;—and in *Nītimayūkha* (p. 50).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Arthaśāstra* (Part II, pp. 248 and 343).—‘He may have recourse to the
-methods, either singly or severally or collectively and win over the
-subjects.’
+methods, either singly or severally or collectively and win over the subjects.’
 </details>
 
 <details><summary>भारुचिः</summary>

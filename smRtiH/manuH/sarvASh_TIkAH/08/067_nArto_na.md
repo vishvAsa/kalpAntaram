@@ -40,8 +40,7 @@ title = "067 नार्तो न"
 
 This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 66);—in
 *Nṛsiṃhaprasāda* (Vyavahāra, p. 10a);—in *Vyavahāra-Bālambhaṭṭī* (p.
-281);—in *Smṛticandrikā* (Vyavahāra, p. 177);—in *Kṛtyakalpataru*
-(30b);—and in *Vīramitrodaya* (Vyavahāra, 49b).
+281);—in *Smṛticandrikā* (Vyavahāra, p. 177);—in *Kṛtyakalpataru* (30b);—and in *Vīramitrodaya* (Vyavahāra, 49b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -49,8 +48,7 @@ This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 66);—in
 **(verses 8.64-67)  
 **
 
-See Comparative notes for [Verse
-8.64].
+See Comparative notes for [Verse 8.64].
 </details>
 
 <details><summary>भारुचिः</summary>

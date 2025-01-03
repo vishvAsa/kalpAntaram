@@ -34,31 +34,23 @@ Another Smṛti text has declared immediate purification; and the same text has 
 
 (Verse 67 of other commentators.)
 
-This verse is quoted in *Mitākṣarā* (on 3.23), where it is explained
-that all that this means is that in the case of all before initiation,
-the impurity lasts for three days;—in *Nirṇayasindhu* (p. 373);—and in
+This verse is quoted in *Mitākṣarā* (on 3.23), where it is explained that all that this means is that in the case of all before initiation, the impurity lasts for three days;—in *Nirṇayasindhu* (p. 373);—and in
 *Smṛtitattva* (II, p. 271), which remarks that the second half of the
 verse makes it clear to what case the following two verses refer.
 
-Medhātithi offers two constructions:—(1) By one the verse is made to
-provide a rule for the impurity of the untonsured child on the death of
-others;—(2) by the other, for the impurity of others on the death of the
-untonsured children.
+Medhātithi offers two constructions:—(1) By one the verse is made to provide a rule for the impurity of the untonsured child on the death of others;—(2) by the other, for the impurity of others on the death of the untonsured children.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (22-29-30).—‘On the death of a child after teething, hut before
-tonsure, the impurity lasts for a day and night; after tonsure, but
-before initiation, for three days.’
+tonsure, the impurity lasts for a day and night; after tonsure, but before initiation, for three days.’
 
 *Yājñavalkya* (3.23).—‘Before teething, the impurity is for the moment
-only; till tonsure, for one night; till initiation, three nights; after
-that, ten days.’
+only; till tonsure, for one night; till initiation, three nights; after that, ten days.’
 
 *Kātyāyana* (Aparārka, p. 909).—‘If the child dies within ten days, the
-impurity ceases at once; in fact, in this case there is neither *death*
-nor impurity.’
+impurity ceases at once; in fact, in this case there is neither *death* nor impurity.’
 
 *Vṛddha-Manu* (Aparārka, p. 910).—‘If the child happen to die within ten
 days, one need not observe anything due to death.’
@@ -67,19 +59,13 @@ days, one need not observe anything due to death.’
 immediately on birth, the *Sapiṇḍas* remain impure for ten days.’
 
 *Bṛhat-Mann* (Aparārka, p. 910).—‘If the child dies immediately after
-birth, or if it is still-born, then for the mother there is impurity for
-the entire period; for the father and others, for three days.’
+birth, or if it is still-born, then for the mother there is impurity for the entire period; for the father and others, for three days.’
 
 *Bṛhat-Pracetas* (Aparārka, p. 910).—‘If the child dies after living for
-just one moment, the mother is purified in ten days, and the *Sagotras*
-at the same moment.’
+just one moment, the mother is purified in ten days, and the *Sagotras* at the same moment.’
 
 *Śaṅkha* (Aparārka, 910).—‘If the child dies before the lapse of ten
-days, the mother is affected by the entire impurity due to child-birth;
-but the father becomes purified by bathing. In the case of the child
-dying before teething, the purification is immediate; after tonsure, in
-one day; before initiation, its relations become purified in three days.
-Before the naming ceremony, it is immediate.’
+days, the mother is affected by the entire impurity due to child-birth; but the father becomes purified by bathing. In the case of the child dying before teething, the purification is immediate; after tonsure, in one day; before initiation, its relations become purified in three days. Before the naming ceremony, it is immediate.’
 
 *Paiṭhīnasi* (Aparārka, p. 910).—‘In the case of children dying before
 teething, the impurity due to their death lasts three days.’
@@ -91,23 +77,15 @@ teething, purification comes in throe days.’
 also on miscarriage, all the *Sapiṇḍas* become pure after a day.’
 
 *Aṅgiras* (Aparārka, p. 911).—‘When a child dies before tonsure, and
-after teething, one should remain impure for three days after cremating
-it On the death of a Brāhmaṇa child before it is throe years old, the
-impurity lasts one night; on that of a Kṣatriya, three days; of a
-Vaiśya, three days.
+after teething, one should remain impure for three days after cremating it On the death of a Brāhmaṇa child before it is throe years old, the impurity lasts one night; on that of a Kṣatriya, three days; of a Vaiśya, three days.
 
-......In the case of the Brāhmaṇa dying after tonsure, the impurity
-lasts for three days; of the Kṣattnya, six days; of the Vaiśya, nine
-days. If a Śūdra child dies before three years, the impurity lasts five
-days.’
+......In the case of the Brāhmaṇa dying after tonsure, the impurity lasts for three days; of the Kṣattnya, six days; of the Vaiśya, nine days. If a Śūdra child dies before three years, the impurity lasts five days.’
 
 *Ṛṣyaśṛṅga* (Aparārka, p. 911).—‘Where the impurity for the Brāhmaṇa
-lasts three days, that for the Kṣatriya, Vaiśya and Śūdra, lasts for
-six, nine and twelve days respectively.’
+lasts three days, that for the Kṣatriya, Vaiśya and Śūdra, lasts for six, nine and twelve days respectively.’
 
 *Hārīta* (Aparārka, p. 911.).—‘Before the Upanayana, for all castes, the
-impurity lasts for three days in the case of the death of the boy, and
-for one day in that of a girl.’
+impurity lasts for three days in the case of the death of the boy, and for one day in that of a girl.’
 
 *Pāraskara* (Aparārka, p. 911).—‘On the death of a child less than two
 years old, the impurity attaches to the parents only.’

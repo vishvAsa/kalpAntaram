@@ -50,72 +50,34 @@ Or, we may read ‘*aparivṛtā*,’ ‘*unenclosed*,’ ‘*unfenced*,’ *for
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vārayet*’—Rāmacandra reads ‘*cārayet*’ and takes the whole verse as a
-single sentence—‘If the cattle-keeper *takes the cattle to graze* in a
-field that is fenced, he shall be fined along with his master.’
+‘*Vārayet*’—Rāmacandra reads ‘*cārayet*’ and takes the whole verse as a single sentence—‘If the cattle-keeper *takes the cattle to graze* in a field that is fenced, he shall be fined along with his master.’
 
-This verse is quoted in *Vivādaratnākara* (p. 232), which reads
-‘*cārayet*’ for ‘*vārayet* it explains the meaning of the verse to
-be—‘The field on the road-side or on village precincts being duly
-fenced, if its crops are eaten (this clause is to be added), then the
-keeper of the cattle is to be fined one hundred (*paṇas*), and the stray
-cattle is to he caught and tied up.’
+This verse is quoted in *Vivādaratnākara* (p. 232), which reads ‘*cārayet*’ for ‘*vārayet* it explains the meaning of the verse to be—‘The field on the road-side or on village precincts being duly fenced, if its crops are eaten (this clause is to be added), then the keeper of the cattle is to be fined one hundred (*paṇas*), and the stray cattle is to he caught and tied up.’
 
-It is quoted in *Parāśaramādhava* (Vyavahāra, p. 266), which adds the
-following notes:—When a field on the road-side has been duly fenced, if
-cattle break through the fence and destroy the crops, the keeper of the
-cattle is to be filled a hundred *paṇas*; similarly when a field on the
-precincts of a village has been duly fenced, if cattle break into it and
-eat the crops, the keeper is to be fined a hundred *paṇas*. This
-indicates that there is to be no punishment if the field is unfenced.
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 266), which adds the following notes:—When a field on the road-side has been duly fenced, if cattle break through the fence and destroy the crops, the keeper of the cattle is to be filled a hundred *paṇas*; similarly when a field on the precincts of a village has been duly fenced, if cattle break into it and eat the crops, the keeper is to be fined a hundred *paṇas*. This indicates that there is to be no punishment if the field is unfenced.
 
-It is quoted in *Aparārka* (p. 771), which explains the meaning to be
-that when the field on the road-side and other such places has been duly
-fenced, if it is damaged by cattle which is attended by their keeper,
-then the keeper is to be fined one hundred; but if the cattle is
-unattended it shall be driven off;—and in *Vīramitrodaya* (Vyavahāra,
-137b), which explains ‘*pathi kṣetre*’ a s ‘in a field close by the
-path,’—and ‘*grāmāntīye*’ as ‘lying on the outskirts of the village.’
+It is quoted in *Aparārka* (p. 771), which explains the meaning to be that when the field on the road-side and other such places has been duly fenced, if it is damaged by cattle which is attended by their keeper, then the keeper is to be fined one hundred; but if the cattle is unattended it shall be driven off;—and in *Vīramitrodaya* (Vyavahāra, 137b), which explains ‘*pathi kṣetre*’ a s ‘in a field close by the path,’—and ‘*grāmāntīye*’ as ‘lying on the outskirts of the village.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (11.28, 29, 35).—‘When crops have been destroyed by cows or
-other cattle crossing a fence, the herdsman deserves punishment in that
-case, unless he should have done his best to keep the cattle off. When
-the crops have been entirely destroyed to the very roots, the owner of
-them may claim a corresponding quantity of grain as damages; the
-herdsman shall be corporally punished: and the owner of the cattle shall
-pay a fine. When cows, straying through the fault of their keeper, have
-entered a field, no punishment shall be inflicted on their owner; the
-herdsman alone being punishable.’
+other cattle crossing a fence, the herdsman deserves punishment in that case, unless he should have done his best to keep the cattle off. When the crops have been entirely destroyed to the very roots, the owner of them may claim a corresponding quantity of grain as damages; the herdsman shall be corporally punished: and the owner of the cattle shall pay a fine. When cows, straying through the fault of their keeper, have entered a field, no punishment shall be inflicted on their owner; the herdsman alone being punishable.’
 
 *Gautama* (12.19-20).—‘If damage is done by cattle, the responsibility
-lies on the owner; but if the cattle were attended by a herdsman, then
-it falls on the latter.’
+lies on the owner; but if the cattle were attended by a herdsman, then it falls on the latter.’
 
 *Āpastamba* (2.28.5).—‘If cattle, leaving their stable, eat the crops of
-other persons, then the owner of the crops, or the King’s servants, may
-make them lean by impounding them; hut this punishment shall not he
-over-done.’
+other persons, then the owner of the crops, or the King’s servants, may make them lean by impounding them; hut this punishment shall not he over-done.’
 
 *Viṣṇu* (5.140-146).—‘If a she-buffalo damages crops, her keeper shall
-he fined eight *māṣas*; if she has been without a keeper, her owner
-shall pay the fine. For mischief done by a horse or a camel, or an ass,
-the fine shall he the same. For damage done by a cow, it shall he half;
-half of that again in the case of the goat or the sheep. For cattle
-abiding in the field after eating the crops, the fine shall he double;
-and in every case the owner of the field shall receive the value of the
-crops that have been destroyed.’
+he fined eight *māṣas*; if she has been without a keeper, her owner shall pay the fine. For mischief done by a horse or a camel, or an ass, the fine shall he the same. For damage done by a cow, it shall he half; half of that again in the case of the goat or the sheep. For cattle abiding in the field after eating the crops, the fine shall he double; and in every case the owner of the field shall receive the value of the crops that have been destroyed.’
 
 *Yājñavalkya* (2.162).—‘In the case of a field on the roadside, or
-adjacent to the pasture-land of the village, if cattle is allowed to
-graze unintentionally, there is no offence; but if it is done
-intentionally, the man deserves punishment like the thief.’
+adjacent to the pasture-land of the village, if cattle is allowed to graze unintentionally, there is no offence; but if it is done intentionally, the man deserves punishment like the thief.’
 
 *Uśanas* (Vivādaratnākara, p. 232).—‘If a man asks for compensation for
-the crops that may haves been grazed by a cow, his Pitṛs and deities do
-not accept his offerings.’
+the crops that may haves been grazed by a cow, his Pitṛs and deities do not accept his offerings.’
 </details>
 
 <details><summary>भारुचिः</summary>

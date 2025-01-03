@@ -50,8 +50,7 @@ The last foot of this verse is quoted in *Aparārka* (p. 183).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (9.33).—‘Blowing the fire with the mouth...... crossing the
-river with arms, climbing difficult places........., these he shall
-avoid.’
+river with arms, climbing difficult places........., these he shall avoid.’
 
 *Baudhāyana* (2.3.46).—‘He shall not cross the river with his arms.’
 
@@ -63,12 +62,10 @@ avoid.’
 anything unclean.........’
 
 *Āśvalāyana Gṛhyasūtra* (3.9.7).—‘He shall not climb a tree; he shall
-not descend into a well; he shall not cross a river with his arms; he
-shall not expose himself to danger.’
+not descend into a well; he shall not cross a river with his arms; he shall not expose himself to danger.’
 
 *Pāraskara* (1.7.6).—‘Looking into a water-reservoir, climbing trees,
-fruit-gathering, crossing over difficult places......, these he shall
-not do.’
+fruit-gathering, crossing over difficult places......, these he shall not do.’
 </details>
 
 <details><summary>Bühler</summary>

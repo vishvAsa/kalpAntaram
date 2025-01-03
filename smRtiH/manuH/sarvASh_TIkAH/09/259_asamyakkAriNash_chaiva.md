@@ -38,19 +38,11 @@ Misbehaving High officials and physicians, art-exhibitors, and clever harlots.�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Mahāmātra*’.—‘Courtiers’ (Medhātithi);—‘Ministers’
-(Nārāyaṇa);—‘elephant-drivers’ (Kullūka).
+‘*Mahāmātra*’.—‘Courtiers’ (Medhātithi);—‘Ministers’ (Nārāyaṇa);—‘elephant-drivers’ (Kullūka).
 
-‘*Śilpopacārayuktāḥ*’.—‘Men living by such arts as painting and the
-like’ (Medhātithi and Kullūka);—Nārāyaṇa and Nandana, read
-‘*śilpopakārayuktāḥ*’ and explain it as people living by *śilpa*, the
-arte of painting and the rest, and by *upakāra*, hairdressing and other
-arts of the toilet; Nandana explains it as ‘umbrella and fanmakers’.
+‘*Śilpopacārayuktāḥ*’.—‘Men living by such arts as painting and the like’ (Medhātithi and Kullūka);—Nārāyaṇa and Nandana, read ‘*śilpopakārayuktāḥ*’ and explain it as people living by *śilpa*, the arte of painting and the rest, and by *upakāra*, hairdressing and other arts of the toilet; Nandana explains it as ‘umbrella and fanmakers’.
 
-This verse is quoted in *Vivādaratnākara*, (p. 291), which adds the
-following notes:—‘*Asamyak-kāriṇaḥ*,’ who obtained their wages without
-honestly working for it;—‘*mahāmātrāḥ*,’ chief officers of the king *who
-act dishonestly* (*asamyak-kāriṇaḥ*) through avarice.
+This verse is quoted in *Vivādaratnākara*, (p. 291), which adds the following notes:—‘*Asamyak-kāriṇaḥ*,’ who obtained their wages without honestly working for it;—‘*mahāmātrāḥ*,’ chief officers of the king *who act dishonestly* (*asamyak-kāriṇaḥ*) through avarice.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -58,8 +50,7 @@ act dishonestly* (*asamyak-kāriṇaḥ*) through avarice.
 **(verses 9.256-260)  
 **
 
-See Comparative notes for [Verse
-9.256].
+See Comparative notes for [Verse 9.256].
 </details>
 
 <details><summary>Bühler</summary>

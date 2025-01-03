@@ -52,11 +52,9 @@ The King shall attempt the alienation of all such persons from the other King; a
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Buhler remarks that “Medhātithi reads *atandritaḥ*,” but there is
-nothing in *Bhāṣya* to indicate this.
+Buhler remarks that “Medhātithi reads *atandritaḥ*,” but there is nothing in *Bhāṣya* to indicate this.
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 134), which
-explains ‘*amāyayā*’ as ‘without guile’, ‘*varteta*,’ as ‘should behave
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 134), which explains ‘*amāyayā*’ as ‘without guile’, ‘*varteta*,’ as ‘should behave
 *i*.*e*., towards his counsellors and others’;—and in *Parāśaramādhava*
 (Ācāra, p. 413).
 </details>

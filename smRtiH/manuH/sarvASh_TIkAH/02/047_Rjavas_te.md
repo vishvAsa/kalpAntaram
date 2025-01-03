@@ -36,16 +36,11 @@ All these should be straight, unimpaired, handsome-looking, not frightening to m
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Anudvegakarāḥ*’—‘not frightening’ (Medhātithi and
-Govindarāja);—Kullūka does not explain the term;—‘not displeasing to the
-wearer’ (Nārāyaṇa).
+‘*Anudvegakarāḥ*’—‘not frightening’ (Medhātithi and Govindarāja);—Kullūka does not explain the term;—‘not displeasing to the wearer’ (Nārāyaṇa).
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 448);—in
 *Smṛtitattva* (p. 930)—in *Madanapārijāta* (p. 22);—‘in *Vīramitrodaya*
-(Saṃskāra, p. 436);—in *Aparārka* (p. 57);—and in *Saṃskāraratnamālā*
-(p. 193), which adds the following notes:—‘*Ṛjavaḥ*,’
-straight,—‘*avraṇāḥ*,’ free from holes,—‘*Saumyadarśanāḥ*,’ free from
-thorns, etc.,—‘*Agnidūṣitaḥ*,’ burnt by fire.
+(Saṃskāra, p. 436);—in *Aparārka* (p. 57);—and in *Saṃskāraratnamālā* (p. 193), which adds the following notes:—‘*Ṛjavaḥ*,’ straight,—‘*avraṇāḥ*,’ free from holes,—‘*Saumyadarśanāḥ*,’ free from thorns, etc.,—‘*Agnidūṣitaḥ*,’ burnt by fire.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -94,28 +94,13 @@ The prohibition of the *acids*, etc., is such as has room for it in other cases 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Rasān*’—“Molasses and the like’ (Govindarāja, Kullūka and
-Nārāyaṇa);—‘clarified butter, oil and the like’ (Nandana);—‘sweet, acid
-and the rest;—*i.e*. very richly flavoured food’ (Medhātithi, who also
-notes one‘other’ explanation, *juices of sugar-cane, tamarind and other
-fruits*, which he rejects);—Nārāyaṇa mentions one explanation, ‘poetic
-sentiments’.
+‘*Rasān*’—“Molasses and the like’ (Govindarāja, Kullūka and Nārāyaṇa);—‘clarified butter, oil and the like’ (Nandana);—‘sweet, acid and the rest;—*i.e*. very richly flavoured food’ (Medhātithi, who also notes one‘other’ explanation, *juices of sugar-cane, tamarind and other fruits*, which he rejects);—Nārāyaṇa mentions one explanation, ‘poetic sentiments’.
 
-This is quoted in *Parāśaramādhava* (Ācāra, p. 456), along with the next
-two verses and a half, as enumerating the things to be avoided by the
-Student;—in *Vīramitrodaya* (Saṃskāra, p. 494), which adds the notes:
-‘*Rasān*’ stands for the juices of sugar-cane and other things;—even
-though *Honey* also is a juice, yet it has been mentioned separately in
-view of the heavier expiatory rites prescribed for the transgressors of
-the rule prohibiting it.
+This is quoted in *Parāśaramādhava* (Ācāra, p. 456), along with the next two verses and a half, as enumerating the things to be avoided by the Student;—in *Vīramitrodaya* (Saṃskāra, p. 494), which adds the notes: ‘*Rasān*’ stands for the juices of sugar-cane and other things;—even though *Honey* also is a juice, yet it has been mentioned separately in view of the heavier expiatory rites prescribed for the transgressors of the rule prohibiting it.
 
-The verse is quoted also in *Madanopārjāta* (p. 39) as enumerating the
-things prohibited for the Student;—and in *Aparārka* (p. 62);—in
+The verse is quoted also in *Madanopārjāta* (p. 39) as enumerating the things prohibited for the Student;—and in *Aparārka* (p. 62);—in
 *Saṃskāramayūkha* (p. 42);—and in *Smṛticandrikā* (Saṃskāra, p. 125),
-which adds the following notes:—‘*Rasa*’ stands for the sugar-cane juice
-and the rest; though ‘*madhu*’ also is a ‘*rasa*,’ yet it is mentioned
-separately with a view to indicate that the taking of it involves a
-heavier expiation.
+which adds the following notes:—‘*Rasa*’ stands for the sugar-cane juice and the rest; though ‘*madhu*’ also is a ‘*rasa*,’ yet it is mentioned separately with a view to indicate that the taking of it involves a heavier expiation.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -124,45 +109,31 @@ heavier expiation.
 **
 
 *Gautama* (2.19).—‘He should abstain from honey, meat, scents, garland
-and the like, sleeping during the day, anointing, riding on conveyances,
-applying collyrium, wearing shoes, umbrella, attachment, anger, avarice,
-delusion, wrangling, bathing, teeth-cleansing, rejoicing, dancing,
-singing, calumniating and dangers.’
+and the like, sleeping during the day, anointing, riding on conveyances, applying collyrium, wearing shoes, umbrella, attachment, anger, avarice, delusion, wrangling, bathing, teeth-cleansing, rejoicing, dancing, singing, calumniating and dangers.’
 
 *Āpastamba-Dharmasūtra* (1.23-26).—‘Avoiding saline salts, honey and
-meat; not using scents;—he should never have recourse to sexual
-intercourse;—free from anger, and jealousy.’
+meat; not using scents;—he should never have recourse to sexual intercourse;—free from anger, and jealousy.’
 
 *Yājñavalkya* (1-33).—‘Honey, meat, collyrium, eating of leavings,
-fermented acids, woman, killing of living creatures, gazing at the Sun,
-indecent talk and so forth,—these he shall avoid.’
+fermented acids, woman, killing of living creatures, gazing at the Sun, indecent talk and so forth,—these he shall avoid.’
 
 *Pāraskara Gṛhyasūtra* (2.5).—‘He should avoid honey, meat, collyrium,
-sitting on a raised seat, approaching women, lying, taking what is not
-given.’
+sitting on a raised seat, approaching women, lying, taking what is not given.’
 
 *Gobhila Gṛhyasūtra* (3.1,16.25).—‘Sexual intercourse, dramatic acting,
-scents, collyrium, honey and meat, anger, lying, sleeping on raised bed,
-bathing, scratching of ground, teeth-washing, feet-washing, use of the
-razor, riding on conveyances yoked with bulls, wearing of shoes within
-the village,—he shall avoid.’
+scents, collyrium, honey and meat, anger, lying, sleeping on raised bed, bathing, scratching of ground, teeth-washing, feet-washing, use of the razor, riding on conveyances yoked with bulls, wearing of shoes within the village,—he shall avoid.’
 
 *Baudhāyana* (1.2.25).—‘Dancing, singing, playing on musical
-instruments, scents, garlands, shoes, holding of umbrella,
-anointing,—these he shall avoid.’
+instruments, scents, garlands, shoes, holding of umbrella, anointing,—these he shall avoid.’
 
 *Viṣṇu* (28.11).—‘He should abstain from śrāddhas, artificial salts,
-fermented acids, food kept over-night, dancing, singing, women, honey,
-meat, collyrium, eating of leavings, killing of animals, indecencies.’
+fermented acids, food kept over-night, dancing, singing, women, honey, meat, collyrium, eating of leavings, killing of animals, indecencies.’
 
 *Hārīta* (Vīramitrodaya-Saṃskāra, p. 495).—‘He shall abstain from riding
-on horses and elephants and oxen, walking over funeral pyres, ascending
-trees, much talking, passing through crevices and openings, crossing of
-large rivers and oceans, dangerous positions.’
+on horses and elephants and oxen, walking over funeral pyres, ascending trees, much talking, passing through crevices and openings, crossing of large rivers and oceans, dangerous positions.’
 
 *Kūrma-Purāṇa* (Parāśaramādhava).—‘He shall not look at the mirror; he
-shall not cleanse his teeth; the leavings of his teacher also he shall
-use as a medicine, not with an eager longing for them.’
+shall not cleanse his teeth; the leavings of his teacher also he shall use as a medicine, not with an eager longing for them.’
 </details>
 
 <details><summary>Bühler</summary>

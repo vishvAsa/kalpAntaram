@@ -28,10 +28,7 @@ These several Castes should be known by these names.—(22-23)
 
 **(verse 10.22)**
 
-“As ‘a’ and ‘i’ are constantly exchanged ‘*licchivi*’ may be considered
-as a vicarious form for ‘*licchavi*,’ and it may be assumed that the
-Manusaṃhitā considered the famous Kṣatriya race of Magadha and Nepal as
-unorthodox.”—(Buhler).
+“As ‘a’ and ‘i’ are constantly exchanged ‘*licchivi*’ may be considered as a vicarious form for ‘*licchavi*,’ and it may be assumed that the Manusaṃhitā considered the famous Kṣatriya race of Magadha and Nepal as unorthodox.”—(Buhler).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -39,8 +36,7 @@ unorthodox.”—(Buhler).
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -46,38 +46,26 @@ The expiation here laid down is for approaching the woman only once. In the even
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 348), which adds the
-following notes:—By doing the act unintentionally the man ‘falls’,
-‘*patati*’, *i.e*., becomes sinful; hence the repetition of the act
-involves the ‘Twelve Years’ Penance—when done intentionally, the act
-makes the man turn into the same caste; hence the repetition of this
-would involve expiation by death; which however applies only to the act
-repeated during a long period of time.
+This verse is quoted in *Madanapārijāta* (p. 348), which adds the following notes:—By doing the act unintentionally the man ‘falls’, ‘*patati*’, *i.e*., becomes sinful; hence the repetition of the act involves the ‘Twelve Years’ Penance—when done intentionally, the act makes the man turn into the same caste; hence the repetition of this would involve expiation by death; which however applies only to the act repeated during a long period of time.
 
-It is quoted in *Aparārka* (p. 1121), which notes that the said
-‘equality’ involves expiation by death;—in *Smṛtitattva* (p. 543);—in
+It is quoted in *Aparārka* (p. 1121), which notes that the said ‘equality’ involves expiation by death;—in *Smṛtitattva* (p. 543);—in
 *Parāśaramādhava* (Prāyaścitta, p. 88), as referring to eases of
 intentional continuation of the act for a long time;—and in
 *Prāyaścittaviveka* (pp. 160, 187, 258, 412), which says that this
-prescribes the ‘Twelve Years’ Penance’ for the *unintentional* eating of
-the Caṇḍāla’s food;—that the accepting of gifts also that is meant is
-twenty-four unintentional repetitions of the acceptance.
+prescribes the ‘Twelve Years’ Penance’ for the *unintentional* eating of the Caṇḍāla’s food;—that the accepting of gifts also that is meant is twenty-four unintentional repetitions of the acceptance.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (53.5, 6).—‘By intentional intercourse with a *Caṇḍāla* woman,
-he becomes her equal in caste; for intercourse unawares with such, he
-must perform the *Cāndrāyaṇa* twice.’
+he becomes her equal in caste; for intercourse unawares with such, he must perform the *Cāndrāyaṇa* twice.’
 
 Do. (53.9).—‘That guilt which a Brāhmaṇa incurs by intercourse with a
 *Caṇḍāla* woman for one night he can remove only by subsisting on alms
 and constantly repeating the Gāyatrī for three years.’
 
 *Baudhāyana* (2.4.14).—‘They quote the following:—“A Brāhmaṇa who
-unintentionally approaches a female of the *Caṇḍāla* caste, eats food
-given by a *Caṇḍāla*, or receives presents from him, becomes an outcast.
-But if he does it intentionally, he becomes equal to a *Caṇḍāla*.”’
+unintentionally approaches a female of the *Caṇḍāla* caste, eats food given by a *Caṇḍāla*, or receives presents from him, becomes an outcast. But if he does it intentionally, he becomes equal to a *Caṇḍāla*.”’
 
 Do. (2.4.13).—‘The rule regarding intercourse with a woman of the
 *Caṇḍāla* caste is that the man should perform the penance of
@@ -85,8 +73,7 @@ Do. (2.4.13).—‘The rule regarding intercourse with a woman of the
 
 *Vaśiṣṭha* (23.41).—‘The penance for intercourse with a woman of the
 *Caṇḍāla* caste is that he shall subsist during a -month on water only
-and constantly repeat the *Śuddhavatī* verses;—or he may go to bathe
-with the priests at the conclusion of the *Aśvamedha* sacrifice.’
+and constantly repeat the *Śuddhavatī* verses;—or he may go to bathe with the priests at the conclusion of the *Aśvamedha* sacrifice.’
 </details>
 
 <details><summary>भारुचिः</summary>

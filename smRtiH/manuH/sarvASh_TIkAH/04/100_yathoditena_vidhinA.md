@@ -53,8 +53,7 @@ same chapter. It is not so in the Ṛgveda or in the Sāma Veda; in both of whic
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (quoted in commentary on Gobhila, p. 64).—‘There is no
-stopping of reading for that reading which has been laid down as to be
-done every day.’
+stopping of reading for that reading which has been laid down as to be done every day.’
 </details>
 
 <details><summary>Bühler</summary>

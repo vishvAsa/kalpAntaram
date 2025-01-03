@@ -37,8 +37,7 @@ have been used if the *Kṣatriya* and the *Vaiśya* alone had been intended \].
 
 \[See texts under 71 *et seq*. below.\]
 
-See Comparative notes for [Verse
-10.1].
+See Comparative notes for [Verse 10.1].
 </details>
 
 <details><summary>भारुचिः</summary>

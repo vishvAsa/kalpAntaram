@@ -42,22 +42,16 @@ By means of the variations of all these the innermost heart is indicated even in
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 260);—in *Parāśaramādhava*
-(Vyavahāra, p. 43);—in *Smṛticandrikā* (Vyavahāra, p. 112);—in
+This verse is quoted in *Aparārka* (p. 260);—in *Parāśaramādhava* (Vyavahāra, p. 43);—in *Smṛticandrikā* (Vyavahāra, p. 112);—in
 *Kṛtyakalpataru* (22a), which has the following notes:—‘*Iṅgita*’ stands
-for perspiration, thrilling of the hair,—‘*vikāra*’ of the eye, the look
-of love or anger,—‘*ceṣṭita*’, throwing about of the hand and so
-forth,—‘*gatyā*’ halting gait and so forth;—‘*ceṣṭita*’, inconsistent
-and contradictory statements,—‘*vaktra vikāra*’, drying of the mouth
-&c—and in *Vīramitrodaya* (Vyavahāra, p. 30b).
+for perspiration, thrilling of the hair,—‘*vikāra*’ of the eye, the look of love or anger,—‘*ceṣṭita*’, throwing about of the hand and so forth,—‘*gatyā*’ halting gait and so forth;—‘*ceṣṭita*’, inconsistent and contradictory statements,—‘*vaktra vikāra*’, drying of the mouth &c—and in *Vīramitrodaya* (Vyavahāra, p. 30b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 8.25-26)**
 
-See Comparative notes for [Verse
-8.25].
+See Comparative notes for [Verse 8.25].
 </details>
 
 <details><summary>भारुचिः</summary>

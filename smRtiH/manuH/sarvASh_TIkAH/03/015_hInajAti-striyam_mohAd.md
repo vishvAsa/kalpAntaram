@@ -24,8 +24,7 @@ This is a deprecatory exhortation, supplementing the foregoing prohibition.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 495) its
-prohibiting the marrying of a *Śūdra* wife by the twice-born;—in
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 495) its prohibiting the marrying of a *Śūdra* wife by the twice-born;—in
 *Vīramitrodaya* (Saṃskāra, p. 750);—and in *Aparārka* (p. 87).
 </details>
 
@@ -33,8 +32,7 @@ prohibiting the marrying of a *Śūdra* wife by the twice-born;—in
 
 **(verses 3.13-19)**
 
-See Comparative notes for [Verse
-3.13].
+See Comparative notes for [Verse 3.13].
 </details>
 
 <details><summary>Bühler</summary>

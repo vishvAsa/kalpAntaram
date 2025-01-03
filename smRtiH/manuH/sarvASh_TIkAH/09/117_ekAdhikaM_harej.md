@@ -27,9 +27,7 @@ The brother born next to him ‘*a share and a half*,’—this being the second
 This verse is quoted in the *Vyavahāramayūkha* (p. 43);—in the
 *Smṛtisāroddhāra* (p. 331), which has the following notes—‘*ekādhikam*’,
 *i.e*., two shares,—‘*adhyardham*’, *i.e*., a share and a half,—‘*tataḥ
-anujaḥ*’, ‘born after the eldest brother’,—‘*aṃśamaṃśam*’, *i.e*., one
-share each; this refers to cases where no ‘special share’ has been
-taken;—and by Jīmūtavāhana (*Dāyabhāga*, p. 64).
+anujaḥ*’, ‘born after the eldest brother’,—‘*aṃśamaṃśam*’, *i.e*., one share each; this refers to cases where no ‘special share’ has been taken;—and by Jīmūtavāhana (*Dāyabhāga*, p. 64).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -37,8 +35,7 @@ taken;—and by Jīmūtavāhana (*Dāyabhāga*, p. 64).
 **(verses 9.116-117)  
 **
 
-See Comparative notes for [Verse
-9.116].
+See Comparative notes for [Verse 9.116].
 </details>
 
 <details><summary>भारुचिः</summary>

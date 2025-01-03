@@ -22,9 +22,7 @@ Control over Speech, control over the Mind and control over the Body,—the man 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Nirṇayasindhu* (p. 454);—in *Aparārka* (p.
-951);—in *Parāśaramādhava* (Ācāra, p. 553);—in *Madanapārijāta* (p.
-374);—and in *Nṛsiṃhaprasāda* (Saṃskāra 70a).
+This verse is quoted in *Nirṇayasindhu* (p. 454);—in *Aparārka* (p. 951);—in *Parāśaramādhava* (Ācāra, p. 553);—in *Madanapārijāta* (p. 374);—and in *Nṛsiṃhaprasāda* (Saṃskāra 70a).
 </details>
 
 <details><summary>भारुचिः</summary>

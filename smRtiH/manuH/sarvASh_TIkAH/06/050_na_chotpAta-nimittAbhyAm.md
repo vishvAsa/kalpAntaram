@@ -34,20 +34,13 @@ He shall never obtain alms either by means of prodigies and portents, or by mean
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Nakṣatrāṅgavidyā*’—‘Astrology and Palmistry’ (Medhātithi and
-Kullūka);—‘Astrology and the Science of Grammar and other Vedic
-Subsidiaries’ (Nārāyaṇa);—‘Astrology’ (Govindarāja).
+‘*Nakṣatrāṅgavidyā*’—‘Astrology and Palmistry’ (Medhātithi and Kullūka);—‘Astrology and the Science of Grammar and other Vedic Subsidiaries’ (Nārāyaṇa);—‘Astrology’ (Govindarāja).
 
-‘*Anuśāsana*’—‘Offering advice’ (Medhātithi, Govindarāja, Kullūka, and
-Rāghavānanda);—‘teaching of the Veda’ (Nārāyaṇa and Nandana).
+‘*Anuśāsana*’—‘Offering advice’ (Medhātithi, Govindarāja, Kullūka, and Rāghavānanda);—‘teaching of the Veda’ (Nārāyaṇa and Nandana).
 
-‘*Vāda*’—‘Disputation’ (Medhātithi and Nārāyaṇa);—Exposition of the
-Śāstras’ (Govindarāja and Kullūka);—‘Science of Dialectics’ (Nandana and
-Rāghavānanda).
+‘*Vāda*’—‘Disputation’ (Medhātithi and Nārāyaṇa);—Exposition of the Śāstras’ (Govindarāja and Kullūka);—‘Science of Dialectics’ (Nandana and Rāghavānanda).
 
-Buhler remarks—“This verse is historically important, as it shows that
-in ancient as in modern times, ascetics followed worldly pursuits and
-were the teachers and advisers of the people”.
+Buhler remarks—“This verse is historically important, as it shows that in ancient as in modern times, ascetics followed worldly pursuits and were the teachers and advisers of the people”.
 
 This verse is quoted in *Yatidharmasaṅgraha* (p. 86).
 </details>
@@ -55,8 +48,7 @@ This verse is quoted in *Yatidharmasaṅgraha* (p. 86).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (10.21).—‘Neither by explaining prodigies and omens, nor by
-skill in astrology and palmistry, nor by casuistry and expositions,
-shall he ever seek to obtain alms.’
+skill in astrology and palmistry, nor by casuistry and expositions, shall he ever seek to obtain alms.’
 </details>
 
 <details><summary>Bühler</summary>

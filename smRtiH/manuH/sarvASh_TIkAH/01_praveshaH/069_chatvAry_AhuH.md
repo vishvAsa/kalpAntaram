@@ -34,13 +34,10 @@ The text contains the word ‘*tāvacchatī*’; and it is necessary to And out 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Sandhyā*’—it is not clear whether the *succeeding* or *preceding*
-twilight is meant. Kullūka, and possibly Medhātithi, accepts the former
-view.
+‘*Sandhyā*’—it is not clear whether the *succeeding* or *preceding* twilight is meant. Kullūka, and possibly Medhātithi, accepts the former view.
 
 *Medhātithi* (p. 34, l. 24) for ‘*Svabhāvānuvṛttiḥ*’; how would it do to
-read ‘*Svabhāvānanuvṛttiḥ*’—the meaning being that the preceding
-Twilight has the character of neither Day nor Night?
+read ‘*Svabhāvānanuvṛttiḥ*’—the meaning being that the preceding Twilight has the character of neither Day nor Night?
 </details>
 
 <details><summary>Bühler</summary>

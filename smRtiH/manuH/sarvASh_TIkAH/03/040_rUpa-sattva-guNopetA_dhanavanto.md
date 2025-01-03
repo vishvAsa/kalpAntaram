@@ -36,9 +36,7 @@ Endowed with beauty and the quality of goodness, possessing wealth, and fame, wi
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Rūpasattvaguṇopetāḥ*’—‘Endowed with beauty and the quality of
-goodness’ (Medhātithi);—‘Endowed with beauty, goodness and other
-qualities’ (Govindarāja and Kullūka).
+‘*Rūpasattvaguṇopetāḥ*’—‘Endowed with beauty and the quality of goodness’ (Medhātithi);—‘Endowed with beauty, goodness and other qualities’ (Govindarāja and Kullūka).
 
 This is quoted in *Vīramitrodaya* (Saṃskāra, p. 865);—in
 *Parāśaramādhava* (Ācāra, p. 488);—in *Aparārka* (p. 115);—in *Hemādri*
@@ -50,8 +48,7 @@ This is quoted in *Vīramitrodaya* (Saṃskāra, p. 865);—in
 **(verses 3.39-42)  
 **
 
-See Comparative notes for [Verse
-3.39].
+See Comparative notes for [Verse 3.39].
 </details>
 
 <details><summary>Bühler</summary>

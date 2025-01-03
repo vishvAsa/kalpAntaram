@@ -31,9 +31,7 @@ Similarly he should do, without being told to do so, such helpful acts for the t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vidhānapārijāta* (p. 521);—in *Madanapārijāta*
-(p. 100);—in *Aparārka* (p. 64);—and in *Nṛsiṃhaprasāda* (Saṃskāra, p.
-47a).
+This verse is quoted in *Vidhānapārijāta* (p. 521);—in *Madanapārijāta* (p. 100);—in *Aparārka* (p. 64);—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 47a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -48,8 +46,7 @@ Teacher:—Reading when called upon to do so.’
 agreeable and beneficial to the Teacher.’
 
 *Yājñavalkya* (1-27).—‘On being called upon, he should read; whatever he
-obtains as alms, he should present to the teacher; he should always do,
-with mind, body and aot, what is good for the teacher.’
+obtains as alms, he should present to the teacher; he should always do, with mind, body and aot, what is good for the teacher.’
 
 *Gobhila Gṛhyasūtra* (3.1.15).—‘He should be entirely under the
 teacher.’

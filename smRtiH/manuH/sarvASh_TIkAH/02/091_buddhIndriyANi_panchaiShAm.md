@@ -37,8 +37,7 @@ The author now proceeds to describe the functions of the organs, with a view to 
 **(Verses 89-92)  
 **
 
-See Comparative notes for [Verse
-2.89].
+See Comparative notes for [Verse 2.89].
 </details>
 
 <details><summary>Bühler</summary>

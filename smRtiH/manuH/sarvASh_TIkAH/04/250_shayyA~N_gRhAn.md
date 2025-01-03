@@ -24,13 +24,7 @@ The *couch* and other things one should not refuse to accept, even when they are
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is. quoted in *Aparārka* (p. 406); in *Mitākṣarā* (on
-1.214);—in *Parāśaramādhava* (Ācāra, p. 190);—in *Madanapārijāta* (p.
-220), which adds—‘*maṇi*’ stands for those that serve as *antidotes to
-poisons*,—‘*dhānā*’ is ‘fried grain,’—these one should not refuse;—in
-‘*Prāyascittaviveka*’ (p. 412), which explains ‘*na nirnudet*’ as
-‘should not refuse when presented unasked’;—in *Hemādri* (Dāna, p.
-56);—and in *Nṛsiṃhaprasāda* (Āhnika, p. 37b).
+This verse is. quoted in *Aparārka* (p. 406); in *Mitākṣarā* (on 1.214);—in *Parāśaramādhava* (Ācāra, p. 190);—in *Madanapārijāta* (p. 220), which adds—‘*maṇi*’ stands for those that serve as *antidotes to poisons*,—‘*dhānā*’ is ‘fried grain,’—these one should not refuse;—in ‘*Prāyascittaviveka*’ (p. 412), which explains ‘*na nirnudet*’ as ‘should not refuse when presented unasked’;—in *Hemādri* (Dāna, p. 56);—and in *Nṛsiṃhaprasāda* (Āhnika, p. 37b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -40,8 +34,7 @@ poisons*,—‘*dhānā*’ is ‘fried grain,’—these one should not refuse;
 *Āpastamba* (1.18.1).—(Do.)
 
 *Vaśiṣṭha* (14.7).—‘Fuel, water, fodder, Kuśa grass, fried grains, what
-is presented without asking, conveyances, house, fish, Priyaṅgu corn,
-garlands, perfumes, honey, flesh,—these he shall accept.’
+is presented without asking, conveyances, house, fish, Priyaṅgu corn, garlands, perfumes, honey, flesh,—these he shall accept.’
 
 *Viṣṇu* (57.10).—(See above, under p. 47.)
 

@@ -32,8 +32,7 @@ This verse is quoted in *Bālambhaṭṭi* (Vyāvahāra, p. 606).
 **(Verses 93-95)  
 **
 
-See Comparative notes for [Verse
-2.93].
+See Comparative notes for [Verse 2.93].
 </details>
 
 <details><summary>Bühler</summary>

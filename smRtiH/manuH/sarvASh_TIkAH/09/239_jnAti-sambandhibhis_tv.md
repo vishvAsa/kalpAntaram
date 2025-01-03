@@ -24,12 +24,7 @@ That such is the law is to be directly learnt from the words of the text itself.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 635), which adds the
-following notes:—‘*Jñāti*’ are paternal relations;—‘*sambandhi*’,
-maternal relations;—‘*kṛtalakṣaṇāḥ*’, branded;—‘*nirdayāḥ*’, undeserving
-of the sympathy of gentlemen, even when suffering from
-diseases;—‘*nirnamaskārāḥ*,’ not deserving of salutations even though
-possessing seniority and such other qualifications.
+This verse is quoted in *Vivādaratnākara* (p. 635), which adds the following notes:—‘*Jñāti*’ are paternal relations;—‘*sambandhi*’, maternal relations;—‘*kṛtalakṣaṇāḥ*’, branded;—‘*nirdayāḥ*’, undeserving of the sympathy of gentlemen, even when suffering from diseases;—‘*nirnamaskārāḥ*,’ not deserving of salutations even though possessing seniority and such other qualifications.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -37,8 +32,7 @@ possessing seniority and such other qualifications.
 **(verses 9.235-242)  
 **
 
-See Comparative notes for [Verse
-9.235].
+See Comparative notes for [Verse 9.235].
 </details>
 
 <details><summary>भारुचिः</summary>

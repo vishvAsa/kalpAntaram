@@ -127,13 +127,9 @@ For the said reasons, the person fails in the matter of the suit;
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Pūrvāparam*’—‘The plaint and its answer’ (Medhātithi);—‘the proof and
-the matter to be proved’ (Kullūka);—‘what should be said first and what
-afterwards’ (Nārāyaṇa and Nandana).
+‘*Pūrvāparam*’—‘The plaint and its answer’ (Medhātithi);—‘the proof and the matter to be proved’ (Kullūka);—‘what should be said first and what afterwards’ (Nārāyaṇa and Nandana).
 
-This verse is quoted in *Kṛtyakalpataru* (22b) which says that
-‘*brūhi*’, ‘speak out’ has to he reiterated for the sake of
-firmness;—and in *Vīramitrodaya* (Vyavahāra, 31b).
+This verse is quoted in *Kṛtyakalpataru* (22b) which says that ‘*brūhi*’, ‘speak out’ has to he reiterated for the sake of firmness;—and in *Vīramitrodaya* (Vyavahāra, 31b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -141,8 +137,7 @@ firmness;—and in *Vīramitrodaya* (Vyavahāra, 31b).
 **(verses 8.53-57)  
 **
 
-See Comparative notes for [Verse
-8.53].
+See Comparative notes for [Verse 8.53].
 </details>
 
 <details><summary>भारुचिः</summary>

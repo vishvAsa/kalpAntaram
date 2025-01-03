@@ -92,17 +92,13 @@ would remain doubtful even when the *pravaras* are known.—(108)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 21);—and in *Smṛticandrikā*
-(Saṃskāra, p. 7), which explains ‘*Dharmeṣu*’ as ‘the sources of the
-knowledge of Dharma.’
+This verse is quoted in *Aparārka* (p. 21);—and in *Smṛticandrikā* (Saṃskāra, p. 7), which explains ‘*Dharmeṣu*’ as ‘the sources of the knowledge of Dharma.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (28.48).—‘In cases where no rule has been given, that course
-should he followed which is approved of by at least ten such Brāhmaṇas
-as are well-instructed, skilled in reasoning and free from
-covetousness.’
+should he followed which is approved of by at least ten such Brāhmaṇas as are well-instructed, skilled in reasoning and free from covetousness.’
 </details>
 
 <details><summary>भारुचिः</summary>

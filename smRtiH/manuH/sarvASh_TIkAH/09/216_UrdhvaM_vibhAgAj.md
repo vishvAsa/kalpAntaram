@@ -46,34 +46,13 @@ As regards the sisters, they are not entitled to any share until they have borne
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 538), which adds the
-following explanation.—If a son is born to the father after partition of
-the property between himself and his sons, then on the death of the
-father that son shall inherit the entire share of the father; but during
-his father’s lifetime he shall be entitled to only a part of the
-father’s property;—it adds that the particle ‘*eva*’ has been added with
-a view to emphasise that the new-born son would not be entitled to any
-part of the share of the divided brothers.
+This verse is quoted in *Vivādaratnākara* (p. 538), which adds the following explanation.—If a son is born to the father after partition of the property between himself and his sons, then on the death of the father that son shall inherit the entire share of the father; but during his father’s lifetime he shall be entitled to only a part of the father’s property;—it adds that the particle ‘*eva*’ has been added with a view to emphasise that the new-born son would not be entitled to any part of the share of the divided brothers.
 
-It is quoted in *Parāśaramādhava* (Vyavahāra, p. 340), which explains
-‘*pītryam*’ as ‘belonging to the parents—in *Madanapārijāta* (p. 655),
-which also adds the same explanation of ‘*pitryam*’;—in *Aparārka* (p.
-729), which adds the explanation that ‘if a son is born after partition
-has been made he shall take only his father’s, not the brothers’
-property, and if there be no brothers, he shall share the father’s
-property with those who may have lived jointly with his father’;—in
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 340), which explains ‘*pītryam*’ as ‘belonging to the parents—in *Madanapārijāta* (p. 655), which also adds the same explanation of ‘*pitryam*’;—in *Aparārka* (p. 729), which adds the explanation that ‘if a son is born after partition has been made he shall take only his father’s, not the brothers’ property, and if there be no brothers, he shall share the father’s property with those who may have lived jointly with his father’;—in
 *Vyavahāramayūkha* (p. 46);—in *Vivādacintāmaṇi* (Calcutta, p. 159),
-which remarks that the first half of the verse having definitely made
-the new-born son the sole heir to the father’s property, his joint
-brothers, mentioned in the second half, could be entitled to it only on
-the death of that new-born son;—in *Nṛsiṃhaprasāda* (Vyavahāra 35a):—in
+which remarks that the first half of the verse having definitely made the new-born son the sole heir to the father’s property, his joint brothers, mentioned in the second half, could be entitled to it only on the death of that new-born son;—in *Nṛsiṃhaprasāda* (Vyavahāra 35a):—in
 *Smṛtisāroddharā* (p. 332);—and by Jīmātavāhana (*Dāyabhāga*, p. 203),
-which explains the meaning to be as follows—‘If the father, after having
-divided his property among his sons and taken his own share, obtains
-another son, then the share taken by the father devolves upon this son,
-and if the father had been living with some other sons, then the
-new-born son shall receive his share out of the share of all those with
-whom the father may have been living.’
+which explains the meaning to be as follows—‘If the father, after having divided his property among his sons and taken his own share, obtains another son, then the share taken by the father devolves upon this son, and if the father had been living with some other sons, then the new-born son shall receive his share out of the share of all those with whom the father may have been living.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -85,22 +64,10 @@ property of his father.’
 share to the brother who is born after the partition.’
 
 *Yājñavalkya* (2.122).—‘If a son is born of a wife of equal caste, after
-the property has been partitioned (among the sons), ho is entitled to
-the share of his father; or he may obtain his share from any such
-property as may he discovered after the said partition, after it has
-been cleared of all accounts of income and expenditure.’
+the property has been partitioned (among the sons), ho is entitled to the share of his father; or he may obtain his share from any such property as may he discovered after the said partition, after it has been cleared of all accounts of income and expenditure.’
 
 *Bṛhsapati* (25.17, 20).—‘When step-brothers horn of different mothers,
-or uterine brothers, have come to a division with their father, brothers
-born after that shall take their father’s share. In such cases the son
-horn before partition has no right to the father’s share; nor can a
-brother’s property be claimed by one born after partition; whatever
-shall have been acquired by the father, after he has come to a partition
-with his sons, all that belongs to the son born after partition; those
-born before it have no right to it. In regard to the property, as also
-debts, gifts, pledges and purchases, the father and the divided sons
-have no concern with one another; except in regard to impurity (due to
-births and deaths) and the funeral oblations.’
+or uterine brothers, have come to a division with their father, brothers born after that shall take their father’s share. In such cases the son horn before partition has no right to the father’s share; nor can a brother’s property be claimed by one born after partition; whatever shall have been acquired by the father, after he has come to a partition with his sons, all that belongs to the son born after partition; those born before it have no right to it. In regard to the property, as also debts, gifts, pledges and purchases, the father and the divided sons have no concern with one another; except in regard to impurity (due to births and deaths) and the funeral oblations.’
 </details>
 
 <details><summary>भारुचिः</summary>

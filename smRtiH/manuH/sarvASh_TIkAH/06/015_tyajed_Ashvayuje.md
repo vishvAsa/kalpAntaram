@@ -32,16 +32,11 @@ The answer to this is as follows At the time that the man is gathering food he c
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Ārtaḥ*’—‘In distress, *i.e*., not having anything else to offer to the
-god’s’ (Medhātithi);—‘tormented by hunger’ (Kullūka and
-Govindarāja);—‘ill’ (Nārāyaṇa).
+‘*Ārtaḥ*’—‘In distress, *i.e*., not having anything else to offer to the god’s’ (Medhātithi);—‘tormented by hunger’ (Kullūka and Govindarāja);—‘ill’ (Nārāyaṇa).
 
-This verse is quoted in *Aparārka*, (p. 942);—and in *Parāśaramādhava*
-(Ācāra, p. 529).
+This verse is quoted in *Aparārka*, (p. 942);—and in *Parāśaramādhava* (Ācāra, p. 529).
 
-This verse is quoted in *Aparārka* (p. 942), which quotes Laugākṣi
-enumerating the ‘*grāmajātāni*’—‘*vrīhayo yava-godhūmāvubhau ca
-tilasarṣapau ikṣuḥ priyaṅgavaścaiva grāmyā oṣadhayaḥ smṛtaḥ*.’
+This verse is quoted in *Aparārka* (p. 942), which quotes Laugākṣi enumerating the ‘*grāmajātāni*’—‘*vrīhayo yava-godhūmāvubhau ca tilasarṣapau ikṣuḥ priyaṅgavaścaiva grāmyā oṣadhayaḥ smṛtaḥ*.’
 
 The verse is quoted also in *Parāśaramādhava* (Ācāra, p. 529).
 </details>
@@ -55,8 +50,7 @@ the old one.’
 away his store on the full moon day of the month of *Āśvina*.’
 
 *Yājñavalkya* (3.47).—‘He shall store provision sufficient either for a
-day, or for a month, or for six months, or for a year; and give it up in
-the month of *Āśvina*.’
+day, or for a month, or for six months, or for a year; and give it up in the month of *Āśvina*.’
 </details>
 
 <details><summary>भारुचिः</summary>

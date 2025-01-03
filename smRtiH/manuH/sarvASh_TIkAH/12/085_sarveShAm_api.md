@@ -56,8 +56,7 @@ As for the knowledge of the one Supreme Self, which is attained by long-continue
 **(verse 12.85)  
 **
 
-‘*Ātmajñānam*.’—‘Knowledge of the Supreme Soul, taught in the Upaniṣads’
-(Medhātithi, Govindarāja, Kullūka and Nandana);—‘Meditation’ (Nārāyaṇa).
+‘*Ātmajñānam*.’—‘Knowledge of the Supreme Soul, taught in the Upaniṣads’ (Medhātithi, Govindarāja, Kullūka and Nandana);—‘Meditation’ (Nārāyaṇa).
 </details>
 
 <details><summary>भारुचिः</summary>

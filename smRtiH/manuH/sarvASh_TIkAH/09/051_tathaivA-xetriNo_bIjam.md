@@ -34,8 +34,7 @@ This verse is quoted in *Vivādaratnākara* (p. 579);—and in
 [(See the texts under
 31-44.)]
 
-See Comparative notes for [Verse
-9.48].
+See Comparative notes for [Verse 9.48].
 </details>
 
 <details><summary>भारुचिः</summary>

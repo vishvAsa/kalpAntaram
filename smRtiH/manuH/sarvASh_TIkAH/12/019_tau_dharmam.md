@@ -111,8 +111,7 @@ It is for this reason that in the sentence ‘*the two look into his merit and d
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Paśyataḥ*.’—‘Examine’ (Medhātithi and Kullūka);—‘by their presence,
-cause to be performed’ (Raghavānanda).
+‘*Paśyataḥ*.’—‘Examine’ (Medhātithi and Kullūka);—‘by their presence, cause to be performed’ (Raghavānanda).
 </details>
 
 <details><summary>भारुचिः</summary>

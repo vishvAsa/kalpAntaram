@@ -38,8 +38,7 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 417);—and in
 [\[See texts under
 8.410-418.\]]
 
-See Comparative notes for [Verse
-9.326].
+See Comparative notes for [Verse 9.326].
 </details>
 
 <details><summary>Bühler</summary>

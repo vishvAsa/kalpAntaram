@@ -24,8 +24,7 @@ For Kṣattṛs, Ugras and Pukkasas, the killing and catching of animals living 
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-See Comparative notes for [Verse
-10.46].
+See Comparative notes for [Verse 10.46].
 </details>
 
 <details><summary>Bühler</summary>

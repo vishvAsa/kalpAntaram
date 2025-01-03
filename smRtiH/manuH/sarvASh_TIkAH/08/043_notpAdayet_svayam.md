@@ -37,22 +37,11 @@ The following is yet another explanation offered by others:—‘*The king himse
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Anyena*’—‘By another’,—*i.e*., the plaintiff (Medhātithi),—‘the
-plaintiff or the defendant’ (Kullūka).
+‘*Anyena*’—‘By another’,—*i.e*., the plaintiff (Medhātithi),—‘the plaintiff or the defendant’ (Kullūka).
 
-This verse is quoted in *Mitākṣarā* (on 22.5), where *Bālambhaṭṭī*
-offers the following explanations of the second half of the verse:—(*a*)
-The king should not entertain any suit illegally brought up by any
-one;—or (*b*) he shall not ignore a suit brought forward by any
-one;—(*c*) (if we adopt the reading ‘*na cāprāpitam*’) ‘he shall not
-admit into the proceedings any facts not presented by either of the two
-parties to the suit.’ The *Subodhinī* reproduces the same explanations.
+This verse is quoted in *Mitākṣarā* (on 22.5), where *Bālambhaṭṭī* offers the following explanations of the second half of the verse:—(*a*) The king should not entertain any suit illegally brought up by any one;—or (*b*) he shall not ignore a suit brought forward by any one;—(*c*) (if we adopt the reading ‘*na cāprāpitam*’) ‘he shall not admit into the proceedings any facts not presented by either of the two parties to the suit.’ The *Subodhinī* reproduces the same explanations.
 
-It is quoted in *Aparārka* (p. 605), which adds the following
-notes:—‘*Kāryam*’ here means ‘suit,’ ‘dispute’;—any proved fact that may
-be adduced during the hearing of the suit, the king should not ignore or
-set aside;—in *Kṛtyakalpataru* (13b), which explains ‘*na graset*’ as
-‘he should not ignore’;—and in *Vīramitrodaya* (Vyavahāra, 15b).
+It is quoted in *Aparārka* (p. 605), which adds the following notes:—‘*Kāryam*’ here means ‘suit,’ ‘dispute’;—any proved fact that may be adduced during the hearing of the suit, the king should not ignore or set aside;—in *Kṛtyakalpataru* (13b), which explains ‘*na graset*’ as ‘he should not ignore’;—and in *Vīramitrodaya* (Vyavahāra, 15b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -60,14 +49,10 @@ set aside;—in *Kṛtyakalpataru* (13b), which explains ‘*na graset*’ as
 *Gautama* (13.27).—‘The litigant shall humbly go to seek the judge.’
 
 *Pitāmaha* (Smṛticandrikā-Vyavahāra, p. 61).—‘The King shall not himself
-or through his officers, promote law-suits; nor through anger or through
-greed or through affection, shall he suppress a suit; nor shall he, on
-his own account, institute suits not brought up by the parties
-concerned.’
+or through his officers, promote law-suits; nor through anger or through greed or through affection, shall he suppress a suit; nor shall he, on his own account, institute suits not brought up by the parties concerned.’
 
 *Nārada* (Do.).—‘The King shall not, either for asserting his power or
-through greed for making money out of it, create law-suits among people
-who have no disputes among themselves.’
+through greed for making money out of it, create law-suits among people who have no disputes among themselves.’
 </details>
 
 <details><summary>भारुचिः</summary>

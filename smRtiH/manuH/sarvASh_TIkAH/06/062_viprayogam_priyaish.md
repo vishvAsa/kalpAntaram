@@ -46,17 +46,13 @@ The Accusative ending is due to the verse being construed along with the verb �
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 968);—and in *Yatidharmasaṅgraha*
-(p. 35).
+This verse is quoted in *Aparārka* (p. 968);—and in *Yatidharmasaṅgraha* (p. 35).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (96.27-29, 37).—‘He shall reflect upon the destruction of beauty
-by old age,—and upon the pain arising from diseases—bodily, mental, or
-due to excesses,—and upon that arising from the five naturally inherent
-affections; on the union of those whom we hate, and the separation from
-those whom we love.’
+by old age,—and upon the pain arising from diseases—bodily, mental, or due to excesses,—and upon that arising from the five naturally inherent affections; on the union of those whom we hate, and the separation from those whom we love.’
 
 *Yājñavalkya* (3.63.64).—(See under 61.)
 </details>

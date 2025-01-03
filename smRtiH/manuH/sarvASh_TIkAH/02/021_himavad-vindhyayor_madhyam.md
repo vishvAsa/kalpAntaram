@@ -34,15 +34,12 @@ The region having these four as its boundaries is to be known by the name ‘*Ma
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vināśana*’—This is the name given to the place where the river
-Sarasvatī becomes lost in the sands. Buhler says it lies in the district
-of Hissar, in the Punjab.
+‘*Vināśana*’—This is the name given to the place where the river Sarasvatī becomes lost in the sands. Buhler says it lies in the district of Hissar, in the Punjab.
 
 Buhler curiously translates ‘*pratyak*’ by ‘east,’ while it means
 *west*.
 
-This verse is quoted in the *Smṛticandrikā* (p. 18), which explains
-‘*vinaśana*’ as the place where the Sarasvatī has disappeared;—in the
+This verse is quoted in the *Smṛticandrikā* (p. 18), which explains ‘*vinaśana*’ as the place where the Sarasvatī has disappeared;—in the
 *Vīramitrodaya* (Paribhāṣa, p. 56) which locates ‘Vinaśana’ in the
 *Kurukṣetra*,—in the *Dānamayūkha*, (p. 7),—and the *Saṃskāramayūkha*
 (p. 4).
@@ -52,8 +49,7 @@ This verse is quoted in the *Smṛticandrikā* (p. 18), which explains
 
 **(Verses 18-23)**
 
-See Comparative notes for [Verse 2.18 (The Practice of Good
-Men)].
+See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 
 <details><summary>Bühler</summary>

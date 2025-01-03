@@ -26,18 +26,13 @@ The meaning is that Renunciation constitutes the principal merit.—(64)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 968);—and in *Yatidharmasaṅgraha*
-(p. 35).
+This verse is quoted in *Aparārka* (p. 968);—and in *Yatidharmasaṅgraha* (p. 35).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (96.40-42).—‘He shall reflect thus that there is no pleasure to
-bo met within this never-ceasing passage of the soul through mundane
-existence; and that even what is called pleasure, on account of the
-absence of pain, is of a transient nature; and that he who is unable to
-enjoy such pleasures, from sickness and other causes, or who is unable
-to procure them, suffers severe pangs.’
+bo met within this never-ceasing passage of the soul through mundane existence; and that even what is called pleasure, on account of the absence of pain, is of a transient nature; and that he who is unable to enjoy such pleasures, from sickness and other causes, or who is unable to procure them, suffers severe pangs.’
 
 *Yājñavalkya* (3.63.64).—(See under 61.)
 </details>

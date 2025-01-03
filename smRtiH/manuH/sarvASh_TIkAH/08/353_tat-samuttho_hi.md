@@ -26,8 +26,7 @@ For this reason, taking into consideration the fact that the act would be produc
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 388);—and in *Aparārka*
-(p. 854).
+This verse is quoted in *Vivādaratnākara* (p. 388);—and in *Aparārka* (p. 854).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -35,8 +34,7 @@ This verse is quoted in *Vivādaratnākara* (p. 388);—and in *Aparārka*
 **(verses 8.352-353)  
 **
 
-See Comparative notes for [Verse
-8.352].
+See Comparative notes for [Verse 8.352].
 </details>
 
 <details><summary>भारुचिः</summary>

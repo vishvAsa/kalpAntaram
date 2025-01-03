@@ -27,8 +27,7 @@ Even if the king’s treasury be empty, he shall make this provision, even out o
 **(verses 11.19-22)  
 **
 
-See Comparative notes for [Verse
-11.19].
+See Comparative notes for [Verse 11.19].
 </details>
 
 <details><summary>भारुचिः</summary>

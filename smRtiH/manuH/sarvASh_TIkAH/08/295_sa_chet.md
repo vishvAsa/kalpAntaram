@@ -34,12 +34,7 @@ Or, the words may he construed to mean that—when the cart is ‘*on the road*�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 282), which explains the
-meaning to be that in a case where being inefficiently driven by the
-driver, the chariot happens to be obstructed on the road by another
-chariot or by an animal, and thereby causes hurt to a living being, the
-punishment is to be inflicted on the driver, ‘*avicāritaḥ*,’ most
-surely.
+This verse is quoted in *Vivādaratnākara* (p. 282), which explains the meaning to be that in a case where being inefficiently driven by the driver, the chariot happens to be obstructed on the road by another chariot or by an animal, and thereby causes hurt to a living being, the punishment is to be inflicted on the driver, ‘*avicāritaḥ*,’ most surely.
 
 It is quoted in ‘*Bālambhaṭṭī*’ on 2.300.
 </details>
@@ -49,13 +44,10 @@ It is quoted in ‘*Bālambhaṭṭī*’ on 2.300.
 **(verses 8.295-298)**
 
 *Kātyāyana* (Vivādaratnākara, p. 284).—‘If any animal happen to be
-killed, the man should be made to pay a fine according to the character
-of the animal killed, and the value of the animal to its owner.’
+killed, the man should be made to pay a fine according to the character of the animal killed, and the value of the animal to its owner.’
 
 *Viṣṇu* (5.50-54).—‘He who kills domestic animals shall pay a fine of
-100 *kārṣāpaṇaṣ*;—he shall make good their value to the owner; be who
-kills wild animals shall pay 500 *kārṣāpaṇas*; a killer of birds or
-fish, ten *kārṣāpaṇas*; a killer of insects, one *kārṣāpaṇa*.’
+100 *kārṣāpaṇaṣ*;—he shall make good their value to the owner; be who kills wild animals shall pay 500 *kārṣāpaṇas*; a killer of birds or fish, ten *kārṣāpaṇas*; a killer of insects, one *kārṣāpaṇa*.’
 </details>
 
 <details><summary>भारुचिः</summary>

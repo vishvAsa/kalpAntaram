@@ -26,15 +26,13 @@ In support of this there is the deprecatory declamation—‘*He who subsists, e
 
 This verse is quoted in *Mitākṣarā* (3.41);—in *Aparārka* (p. 935);—in
 *Madanapārijāta* (p. 233), to the effect that even in times of distress
-it is better for the Brāhmaṇa to stick to his own functions than take to
-others;—and in *Saṃskāramayūkha* (p. 123).
+it is better for the Brāhmaṇa to stick to his own functions than take to others;—and in *Saṃskāramayūkha* (p. 123).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (2. 2 2-23).—‘Those who are unable to live by their own
-occupation may adopt that of the next inferior caste; but never that of
-a higher caste.’
+occupation may adopt that of the next inferior caste; but never that of a higher caste.’
 
 *Viṣṇu* (2.15).—‘In times of distress, each caste may follow the
 occupation of that next below it in rank.’

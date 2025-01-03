@@ -31,8 +31,7 @@ These verses are quoted in *Parāśaramādhara* (Prāyaścitta, p. 512).
 **(verses 12.60-68)  
 **
 
-See Comparative notes for [Verse
-12.60].
+See Comparative notes for [Verse 12.60].
 </details>
 
 <details><summary>Bühler</summary>

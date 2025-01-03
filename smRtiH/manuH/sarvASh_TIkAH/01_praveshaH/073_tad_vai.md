@@ -26,8 +26,7 @@ If it be asked—what happens to the people who know this?—it is added that �
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Puṇyam*’—Medhātithi takes this not merely as an epithet of ‘*ahaḥ*,’
-but as constituting a distinct sentence by itself.
+‘*Puṇyam*’—Medhātithi takes this not merely as an epithet of ‘*ahaḥ*,’ but as constituting a distinct sentence by itself.
 </details>
 
 <details><summary>Bühler</summary>

@@ -106,17 +106,14 @@ For the man who has not maintained the Fire, the duty of ‘committing the Fires
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 3.45) as indicating the purpose
-for which the Hermit is to carry with him his *Śrauta* Fire;—in
+This verse is quoted in *Mitākṣarā* (on 3.45) as indicating the purpose for which the Hermit is to carry with him his *Śrauta* Fire;—in
 *Parāśaramādhava* (Ācāra, p. 528);—and in *Aparārka* (p. 941).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (3.3.5-8, 20).—‘They offer Agnihotra in the evening and in
-the morning, give food to ascetics, guests and students and eat the
-remainder. They shall be sedulous in worshipping gods and Brāhmaṇas, in
-offering Agnihotra, and in practising austerities.’
+the morning, give food to ascetics, guests and students and eat the remainder. They shall be sedulous in worshipping gods and Brāhmaṇas, in offering Agnihotra, and in practising austerities.’
 
 *Āpastamba* (2.22.12).—‘He shall offer sacrifices.’
 

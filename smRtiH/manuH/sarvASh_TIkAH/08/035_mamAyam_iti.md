@@ -26,30 +26,14 @@ The option regarding the ‘sixth’ or ‘twelfth’ part is based upon the qua
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The amount to be taken depends ‘upon the character of the finder’
-(Medhātithi, Kullūka and Rāghavānanda),—or ‘on the caste of the finder’
-(Nārāyaṇa),—or, ‘on the time, place, the caste of the finder and so
-forth’ (Govindarāja).
+The amount to be taken depends ‘upon the character of the finder’ (Medhātithi, Kullūka and Rāghavānanda),—or ‘on the caste of the finder’ (Nārāyaṇa),—or, ‘on the time, place, the caste of the finder and so forth’ (Govindarāja).
 
-This verse is quoted in *Aparārka* (p. 641), which adds that the amount
-of the royalty shall be determined in due accordance with the character
-(of the claimant, and of the treasure);—in *Mitākṣarā* (on 2.34-35),
-which notes that the proportion of the royalty is to be determined by
-considerations of the caste of the claimant, the nature of the place and
-time and such other details;—in *Vivādaratnākara* (p. 642), which adds
-the following notes:—‘*Nidhi*’ here stands for ‘treasure buried
-underground long ago and forgotten’,—whether the king shall receive the
-sixth or twelfth part shall depend upon the virtuous character or
-otherwise of the person claiming it.
+This verse is quoted in *Aparārka* (p. 641), which adds that the amount of the royalty shall be determined in due accordance with the character (of the claimant, and of the treasure);—in *Mitākṣarā* (on 2.34-35), which notes that the proportion of the royalty is to be determined by considerations of the caste of the claimant, the nature of the place and time and such other details;—in *Vivādaratnākara* (p. 642), which adds the following notes:—‘*Nidhi*’ here stands for ‘treasure buried underground long ago and forgotten’,—whether the king shall receive the sixth or twelfth part shall depend upon the virtuous character or otherwise of the person claiming it.
 
-It is quoted in *Vyavahāramayūkha* (p. 88), which appears to take the
-meaning to be that the king shall take the sixth part for the state,
+It is quoted in *Vyavahāramayūkha* (p. 88), which appears to take the meaning to be that the king shall take the sixth part for the state,
 *and also* the twelfth part for the person who discovered the treasure.
 
-It is quoted in *Vīramitrodaya* (Rājanīti, p. 269), which adds that the
-exact proportion shall depend upon the time and upon the qualifications
-of the owner of the treasure;—and that this refers to treasure belonging
-to others than the Brāhmaṇas.
+It is quoted in *Vīramitrodaya* (Rājanīti, p. 269), which adds that the exact proportion shall depend upon the time and upon the qualifications of the owner of the treasure;—and that this refers to treasure belonging to others than the Brāhmaṇas.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -58,28 +42,19 @@ to others than the Brāhmaṇas.
 castes excepting Brāhmaṇas, shall give a twelfth part to the King.’
 
 *Yājñavalkya* (2.35).—‘When some one has discovered hidden treasure, the
-King shall take the sixth part of it. In cases where the find is not
-reported to the King, on coming to know of it, he shall take the whole
-of it, and also fine the finder.’
+King shall take the sixth part of it. In cases where the find is not reported to the King, on coming to know of it, he shall take the whole of it, and also fine the finder.’
 
 *Vaśiṣṭha* (3.13).—‘If anyone finds treasure, the owner of which is not
 known, the King shall take it, giving one-sixth to the finder.’
 
 *Gautama* (10.43-45).—‘Treasure-trove is the property of the
-King,—excepting such as is found by a Brāhmaṇa who lives according to
-the law. Some people declare that a finder belonging to a
-non-Brāhmaṇical caste also, who reports the find to the King, shall
-obtain the sixth part of its value.’
+King,—excepting such as is found by a Brāhmaṇa who lives according to the law. Some people declare that a finder belonging to a non-Brāhmaṇical caste also, who reports the find to the King, shall obtain the sixth part of its value.’
 
 *Nārada* (Vivādaratnākara, p. 343).—‘If a man finds treasure hidden by
-some one else, he shall take it to the King; all treasure-trove, to
-whomsoever it may have belonged, should go to the King; except that
-belonging to the Brāhmaṇa.’
+some one else, he shall take it to the King; all treasure-trove, to whomsoever it may have belonged, should go to the King; except that belonging to the Brāhmaṇa.’
 
 *Viṣṇudharmottara* (Vīramitrodaya-Rājanīti, pp. 269-270).—‘Having
-obtained a treasure-trove, the King shall keep half of it in his
-Treasury; and the other half the righteous King shall make over to
-Brāhmaṇas.’
+obtained a treasure-trove, the King shall keep half of it in his Treasury; and the other half the righteous King shall make over to Brāhmaṇas.’
 </details>
 
 <details><summary>भारुचिः</summary>

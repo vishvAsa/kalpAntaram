@@ -36,9 +36,7 @@ These are the means of subsistence for widows, depending upon their own labour.�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 438), which explains the
-construction as ‘*vṛttim vidhāya proṣiie*;’ and explains ‘*jīvet*’ as
-‘should maintain herself by the means provided for her by her husband.’
+This verse is quoted in *Vivādaratnākara* (p. 438), which explains the construction as ‘*vṛttim vidhāya proṣiie*;’ and explains ‘*jīvet*’ as ‘should maintain herself by the means provided for her by her husband.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -46,8 +44,7 @@ construction as ‘*vṛttim vidhāya proṣiie*;’ and explains ‘*jīvet*’
 **(verses 9.74-75)  
 **
 
-See Comparative notes for [Verse
-9.74].
+See Comparative notes for [Verse 9.74].
 </details>
 
 <details><summary>भारुचिः</summary>

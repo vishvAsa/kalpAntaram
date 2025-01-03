@@ -25,8 +25,7 @@ This is a praise of the conduct described.
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (3.97).—‘Of a king thus disposed, oven though he subsist by
-gleaning, the fame is far spread in the world, like a drop of oil in
-water.’
+gleaning, the fame is far spread in the world, like a drop of oil in water.’
 </details>
 
 <details><summary>भारुचिः</summary>

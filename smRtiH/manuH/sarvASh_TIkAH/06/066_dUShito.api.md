@@ -30,10 +30,7 @@ By deprecating the external marks it is not meant that the man should wear ornam
 
 This verse is quoted in *Mitākṣarā* (on 3.65);—and in
 *Yatidharmasaṅgraha* (p. 35), which reads *bhūṣitaḥ*’ for ‘*dūṣitaḥ*’,
-explains it as ‘*adorned* with the staff and other signs of the
-Remmciate’ and says that the particle ‘*api*’ implies that even when
-without these, he should meditate upon the identity of the individual
-and supreme selves.
+explains it as ‘*adorned* with the staff and other signs of the Remmciate’ and says that the particle ‘*api*’ implies that even when without these, he should meditate upon the identity of the individual and supreme selves.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

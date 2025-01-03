@@ -22,15 +22,9 @@ Where the censuring or defaming of his Teacher is going on, there he should eith
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 491), where the
-distinction is made between ‘*parīvāda*’ which is *the proclaiming of
-wrongs really* *committed*, and ‘*nindā*’ the *setting forth of wrongs
-not committed*.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 491), where the distinction is made between ‘*parīvāda*’ which is *the proclaiming of wrongs really* *committed*, and ‘*nindā*’ the *setting forth of wrongs not committed*.
 
-It is quoted also in *Madanapārijāta* (p. 107);—in *Aparārka* (p.
-56);—in *Smṛticandrikā* (Saṃskāra, p. 120), which says that the
-‘*parīvāda*’ is the mentioning of such defects as are really present,
-and ‘*nindā*’ the mentioning of such as are not present;—in
+It is quoted also in *Madanapārijāta* (p. 107);—in *Aparārka* (p. 56);—in *Smṛticandrikā* (Saṃskāra, p. 120), which says that the ‘*parīvāda*’ is the mentioning of such defects as are really present, and ‘*nindā*’ the mentioning of such as are not present;—in
 *Saṃskāramayūkha* (p. 41), which notes the same distinction;—in
 *Nṛsiṃhaprasāda* (Saṃskāra, p. 45b);—and in *Yatidharmasaṅgraha* (p.
 33).
@@ -45,17 +39,13 @@ and ‘*nindā*’ the mentioning of such as are not present;—in
 being defamed or censured.’
 
 *Viṣṇu* (32. 8-11).—‘He should not address the teacher as *thou*;—in the
-event of his insulting the teacher, he should fast for the day, and take
-food in the evening, only after having propitiated the teacher;—one
-should not talk to the teacher disputatiously;—should not utter anything
-defamatory regarding the teacher;—nor anything not agreeable to him.’
+event of his insulting the teacher, he should fast for the day, and take food in the evening, only after having propitiated the teacher;—one should not talk to the teacher disputatiously;—should not utter anything defamatory regarding the teacher;—nor anything not agreeable to him.’
 
 *Viṣṇu* (45. 18).—‘One who is inimical to his teacher suffers from
 epilepsy.’
 
 *Vaśiṣṭha* (2. 17).—‘Those persons who, on being taught, respect not
-their Teacher, by speech, mind and deed,—are as useless to them, as they
-are to the Teacher.’
+their Teacher, by speech, mind and deed,—are as useless to them, as they are to the Teacher.’
 </details>
 
 <details><summary>Bühler</summary>

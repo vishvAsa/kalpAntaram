@@ -40,57 +40,33 @@ What is forbidden is what is not induced in the parental heritage, even though i
 
 The second half of this verse is quoted in *Mitākṣarā* (on 3.290).
 
-The verse is quoted in *Smṛtitattva* (p. 451), which explains
-‘*ghuṣṭānnam*’ as ‘the food that is offered at sacrificial sessions and
-other similar occasions, to all and sundry by public proclamation’;—and
-in *Vīramitrodaya* (Āhnika, p. 495), which explains ‘*ghuṣṭānna*’ in the
-same manner as *Smṛtitattva*, but quotes Medhātithi’s second alternative
-explanation of it as ‘what had been previously promised to another
-person’; ‘*viśeṣataḥ*’ has been added with a view to indicate the
-exceptional objectionability of the food;—‘*gaṇa*’ is ‘multitude,’—this
-term is not applicable to brothers who have not separated;—‘*gaṇikā*’ is
-a ‘prostitute’;—‘what has been condemned by a disinterested person
-learned in the Veda, even without his detecting any of the specified
-defects.’
+The verse is quoted in *Smṛtitattva* (p. 451), which explains ‘*ghuṣṭānnam*’ as ‘the food that is offered at sacrificial sessions and other similar occasions, to all and sundry by public proclamation’;—and in *Vīramitrodaya* (Āhnika, p. 495), which explains ‘*ghuṣṭānna*’ in the same manner as *Smṛtitattva*, but quotes Medhātithi’s second alternative explanation of it as ‘what had been previously promised to another person’; ‘*viśeṣataḥ*’ has been added with a view to indicate the exceptional objectionability of the food;—‘*gaṇa*’ is ‘multitude,’—this term is not applicable to brothers who have not separated;—‘*gaṇikā*’ is a ‘prostitute’;—‘what has been condemned by a disinterested person learned in the Veda, even without his detecting any of the specified defects.’
 
 It is quoted in *Hemādri* (Śrāddha, pp. 510 and 771);—and in
 *Prāyaścittaviveka* (p. 260), which adds the following notes:
-—‘*Ghuṣṭānnam*’, that food which is offered publicly with such words as
-‘who is there who will take this food?’,—‘*gaṇānnam*’ food cooked by
-several persons jointly.
+—‘*Ghuṣṭānnam*’, that food which is offered publicly with such words as ‘who is there who will take this food?’,—‘*gaṇānnam*’ food cooked by several persons jointly.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (17.11).—(See above.)
 
-(Do.) (17. 15).—‘What has been touched by the unchaste woman, the
-accused person, or one who is unknown, or one who is undergoing
-punishment, or the carpenter, the miser, the physician, the fowler, one
-who lives upon leavings,—of the multitude or of enemies.’
+(Do.) (17. 15).—‘What has been touched by the unchaste woman, the accused person, or one who is unknown, or one who is undergoing punishment, or the carpenter, the miser, the physician, the fowler, one who lives upon leavings,—of the multitude or of enemies.’
 
 *Āpastamba* (17.5).—‘What has been smelt by men, or by other unclean
 animals.’
 
-(Do.) (18.16-17).—‘The food belonging to a multitude should not be
-eaten, or what has been censured.’
+(Do.) (18.16-17).—‘The food belonging to a multitude should not be eaten, or what has been censured.’
 
 *Vaśiṣṭha* (14.4).—‘What has been publicly offered, or the food
 belonging to a multitude or to a harlot.’
 
 *Viṣṇu* (61.7, 9, 17).—‘The food belonging to a multitude or to a harlot
-or to a thief or to a singer—if one eats this he should live for seven
-days on milk only,—also the food belonging to a woman, a miser, one who
-has been initiated for a sacrifice, one who is accused of a crime, or
-the eunuch. What has been seen by the abortionist, or touched by the
-woman in her courses, or pecked by birds, or touched by the dog or smelt
-by the cow.’
+or to a thief or to a singer—if one eats this he should live for seven days on milk only,—also the food belonging to a woman, a miser, one who has been initiated for a sacrifice, one who is accused of a crime, or the eunuch. What has been seen by the abortionist, or touched by the woman in her courses, or pecked by birds, or touched by the dog or smelt by the cow.’
 
 *Yājñavalkya* (1.168).—(See above.)
 
-(Do.) (1.161.).—‘Food belonging to a miser, a prisoner, a thief, a
-eunuch, an actor, a dealer in bamboos, one accused of a crime, an
-usurer, a harlot, a multitude, or the person initiated for a sacrifice.’
+(Do.) (1.161.).—‘Food belonging to a miser, a prisoner, a thief, a eunuch, an actor, a dealer in bamboos, one accused of a crime, an usurer, a harlot, a multitude, or the person initiated for a sacrifice.’
 </details>
 
 <details><summary>Bühler</summary>

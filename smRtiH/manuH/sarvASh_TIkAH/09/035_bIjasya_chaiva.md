@@ -30,8 +30,7 @@ This verse is quoted in *Vyavahāra-Bālambhaṭṭī* (p. 675).
 
 **(verses 9.31-44)**
 
-See Comparative notes for [Verse
-9.31].
+See Comparative notes for [Verse 9.31].
 </details>
 
 <details><summary>भारुचिः</summary>

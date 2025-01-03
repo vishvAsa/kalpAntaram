@@ -63,8 +63,7 @@ expression used; the term ‘*jīvet*,’ ‘*should live*,’ being explained a
 perform any acts or any religious duty.’
 
 *Yājñavalkya* (1.123).—‘He shall lead a straightforward and sincere
-life, in due accordance with his age, intelligence, wealth, dress,
-learning and occupation.’
+life, in due accordance with his age, intelligence, wealth, dress, learning and occupation.’
 </details>
 
 <details><summary>Bühler</summary>

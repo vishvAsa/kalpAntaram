@@ -24,8 +24,7 @@ This prohibition regarding the explaining of doubts without being asked refers t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Jaḍavat*.’—‘*Jaḍa*’ is ‘dumb’ here (Medhātithi and Kullūka);—an
-‘idiot’ (according to others).
+‘*Jaḍavat*.’—‘*Jaḍa*’ is ‘dumb’ here (Medhātithi and Kullūka);—an ‘idiot’ (according to others).
 
 This verse is quoted in *Yatidharmasaṃgraha* (p. 107).
 </details>
@@ -36,9 +35,7 @@ This verse is quoted in *Yatidharmasaṃgraha* (p. 107).
 not prepared to render such respect as lies within his power.’
 
 *Baudhāyana-Dharmasūtra* (2.50).—‘If a question regarding the Veda is
-asked without due respect, it destroys the questioner, as fire burns
-straw; therefore the Veda should not be expounded to those who do not
-render proper respect.’
+asked without due respect, it destroys the questioner, as fire burns straw; therefore the Veda should not be expounded to those who do not render proper respect.’
 </details>
 
 <details><summary>Bühler</summary>

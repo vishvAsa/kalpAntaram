@@ -73,22 +73,9 @@ Others have explained the word ‘*Ātreyī*’ to mean a *woman in her courses*
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.251), according to which
-‘*avijñāta garbha*’ indicates the stage of pregnancy before the sex of
-the child has been determined;—it adds that though the fact of the child
-in the womb belonging to the Brāhmaṇa-caste would make the offender
-liable to the expiation for Brāhmaṇa-slaying,—yet, in as much as the
-possibility of the child being female might lead one to think that the
-guilt of killing a female would be a ‘minor sin,’ and hence involve a
-lighter expiation,—it becomes necessary to emphasise the necessity of
-performing the heavier expiation.
+This verse is quoted in *Mitākṣarā* (3.251), according to which ‘*avijñāta garbha*’ indicates the stage of pregnancy before the sex of the child has been determined;—it adds that though the fact of the child in the womb belonging to the Brāhmaṇa-caste would make the offender liable to the expiation for Brāhmaṇa-slaying,—yet, in as much as the possibility of the child being female might lead one to think that the guilt of killing a female would be a ‘minor sin,’ and hence involve a lighter expiation,—it becomes necessary to emphasise the necessity of performing the heavier expiation.
 
-It is quoted in *Prāyaścittaviveka* (pp. 87, 179 and 228), which adds
-the explanation that, having killed the Brāhmaṇa embryo, *before its sex
-has been determined*, one should perform the rites laid down in
-connection with ‘Brāhmaṇa-murder,’ as also for killing a Kṣatriya or a
-Vaiśya—while they are performing a sacrifice,—an d also for killing an
-‘*ātreyī*,’ *i.e*., a Brāhmaṇī.
+It is quoted in *Prāyaścittaviveka* (pp. 87, 179 and 228), which adds the explanation that, having killed the Brāhmaṇa embryo, *before its sex has been determined*, one should perform the rites laid down in connection with ‘Brāhmaṇa-murder,’ as also for killing a Kṣatriya or a Vaiśya—while they are performing a sacrifice,—an d also for killing an ‘*ātreyī*,’ *i.e*., a Brāhmaṇī.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -97,26 +84,19 @@ Vaiśya—while they are performing a sacrifice,—an d also for killing an
 **
 
 *Gautama* (22.12-13).—‘The same penance that has been prescribed for
-Brāhmaṇa-slaying shall be performed by one who has killed a Brāhmaṇa
-female when she has bathed after her course; also for destroying the
-embryo of a Brāhmaṇa, though its sex may be not distinguishable.’
+Brāhmaṇa-slaying shall be performed by one who has killed a Brāhmaṇa female when she has bathed after her course; also for destroying the embryo of a Brāhmaṇa, though its sex may be not distinguishable.’
 
 *Bodhāyam* (2.1-12).—‘The penance for killing a woman who has bathed
 after her courses is the same as that for the killing of a Brāhmaṇa.’
 
 *Āpastamba* (1.24.8-9).—‘He who has destroyed an embryo of a Brāhmaṇa,
-or a woman during her courses, is called *Abhiśasta*, accursed, and
-stands on the same footing regarding expiation, as the Brāhmaṇa-killer.’
+or a woman during her courses, is called *Abhiśasta*, accursed, and stands on the same footing regarding expiation, as the Brāhmaṇa-killer.’
 
 *Vaśiṣṭha* (20.23, 34-35).—‘He is called *Bhrūṇahan* who kills a
-Brāhmaṇa or destroys an embryo the sex of which is unknown. For killing
-a female of the Brāhmaṇa caste who is an *Ātreyī*...... the same penance
-that is prescribed for the Brāhmaṇa-killer should be performed. That
-woman is called *Ātreyī* who has bathed after her courses.’
+Brāhmaṇa or destroys an embryo the sex of which is unknown. For killing a female of the Brāhmaṇa caste who is an *Ātreyī*...... the same penance that is prescribed for the Brāhmaṇa-killer should be performed. That woman is called *Ātreyī* who has bathed after her courses.’
 
 *Viṣṇu* (50.8-10).—‘He who has killed a pregnant woman, or a woman in
-her courses, or a woman who has bathed after her courses, or a friend,
-shall perform the *Mahāvrata*.’ (p. 839)
+her courses, or a woman who has bathed after her courses, or a friend, shall perform the *Mahāvrata*.’ (p. 839)
 
 *Yājñavalkya* (3.251).—‘He who destroys an embryo or an *Ātreyī* woman
 should perform the penance laid down for the Brāhmaṇa-killer.’

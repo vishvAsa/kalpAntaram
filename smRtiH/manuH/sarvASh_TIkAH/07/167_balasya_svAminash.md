@@ -37,27 +37,15 @@ The answer to this is that it is by implication that we get at the other two kin
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“The text really mentions only one method of ‘Division.’ Hence
-Medhātithi thinks that, in order to obtain the two kinds required, it
-must be understood that the measure may be resorted to either for one’s
-sake or for the sake of somebody else.—Nārāyaṇa makes the two methods
-out by supposing that in the one case the army stops in front of the
-enemy under the command of a general, while the king marches with a
-portion of his forces, and that in the other case the contrary takes
-place.—Govindarāja quotes Kāmandaki, 11.24, where a different meaning,
-‘duplicity’ is attributed to the term ‘*dvaidhībhāva*.”—Buhler.
+“The text really mentions only one method of ‘Division.’ Hence Medhātithi thinks that, in order to obtain the two kinds required, it must be understood that the measure may be resorted to either for one’s sake or for the sake of somebody else.—Nārāyaṇa makes the two methods out by supposing that in the one case the army stops in front of the enemy under the command of a general, while the king marches with a portion of his forces, and that in the other case the contrary takes place.—Govindarāja quotes Kāmandaki, 11.24, where a different meaning, ‘duplicity’ is attributed to the term ‘*dvaidhībhāva*.”—Buhler.
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 326) which
-explains ‘*sthitiḥ*’ as ‘*dvidhābhūya sthitiḥ*’ ‘taking up a position
-with forces divided,’ and adopts the explanation attributed (in the
-above note) to Nārāyaṇa;—and in *Rājanītiratnākara* (p. 24b).
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 326) which explains ‘*sthitiḥ*’ as ‘*dvidhābhūya sthitiḥ*’ ‘taking up a position with forces divided,’ and adopts the explanation attributed (in the above note) to Nārāyaṇa;—and in *Rājanītiratnākara* (p. 24b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Kāmandaka* (11.27).—‘*Dvaidhībhāva* is of two kinds: (1) *Svatantra*,
-when the man himself has recourse to duplicity and (2) *Paratantra*, in
-which a person receives remuneration from contending parties.’
+when the man himself has recourse to duplicity and (2) *Paratantra*, in which a person receives remuneration from contending parties.’
 </details>
 
 <details><summary>भारुचिः</summary>

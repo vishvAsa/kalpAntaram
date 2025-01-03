@@ -25,16 +25,11 @@ Just as these derive full nourishment by taking in only a little food, similarly
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The order of verses 128 and 129 of Medhātithi is reversed in the other
-commentaries and hence by Buhler and Burnell.
+The order of verses 128 and 129 of Medhātithi is reversed in the other commentaries and hence by Buhler and Burnell.
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 404);—and in
 *Vīramitrodaya* (Rājanīti, p. 260), which adds the following
-notes:—‘*Adanti*’, ‘eat’;—‘*ādyam*,’ ‘what is fit for eating, *i.e*.,
-blood, milk and honey’;—‘*vāryoko-vatsa-ṣaṭpadāḥ*,’ ‘the leech, the calf
-and the bee’;—in the same manner should the king draw from his kingdom
-only a small amount of annual revenue, so that the principal capital of
-the people may not be affected.
+notes:—‘*Adanti*’, ‘eat’;—‘*ādyam*,’ ‘what is fit for eating, *i.e*., blood, milk and honey’;—‘*vāryoko-vatsa-ṣaṭpadāḥ*,’ ‘the leech, the calf and the bee’;—in the same manner should the king draw from his kingdom only a small amount of annual revenue, so that the principal capital of the people may not be affected.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -43,15 +38,13 @@ the people may not be affected.
 **
 
 *Baudhāyana* (1.18.15).—‘He shall levy equitable duties on other
-marketable goods according to their intrinsic value, without causing
-oppression.’
+marketable goods according to their intrinsic value, without causing oppression.’
 
 *Āpastamba* (2.26.9).—‘The king shall make them collect the lawful
 taxes.’
 
 *Mārkaṇḍeya* (Parāśaramādhava, p. 404).—‘Just as during eight months of
-the year the sun draws out moisture, gently through his rays,—so should
-the king collect the taxes by gentle methods.’
+the year the sun draws out moisture, gently through his rays,—so should the king collect the taxes by gentle methods.’
 </details>
 
 <details><summary>भारुचिः</summary>

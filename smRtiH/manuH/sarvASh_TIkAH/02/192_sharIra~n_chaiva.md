@@ -34,8 +34,7 @@ The meaning of all this is that when he is near his Teacher, he should not permi
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 106) and in *Aparārka* (p.
-55),
+This verse is quoted in *Madanapārijāta* (p. 106) and in *Aparārka* (p. 55),
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -50,9 +50,7 @@ This verse shows the purpose of indicating all the duties of the king.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Karmāntān*’—‘Completion of his undertakings’ (Kullūka);—‘the works,
-such as agriculture and the rest’; (Medhātithi, Govindarāja and
-Nandana);—‘workshops’ (Nārāyaṇa).
+‘*Karmāntān*’—‘Completion of his undertakings’ (Kullūka);—‘the works, such as agriculture and the rest’; (Medhātithi, Govindarāja and Nandana);—‘workshops’ (Nārāyaṇa).
 
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 155).
 </details>
@@ -60,8 +58,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 155).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇudharmottara* (Vīramitrodaya-Rājanīti, p. 154).—‘Towards the end of
-the night the King shall listen to an account of his income and
-expenditure.’
+the night the King shall listen to an account of his income and expenditure.’
 
 *Yājñavalkya* (1.325).—‘After having made arrangements for safety, he
 shall himself examine his income and expenditure.’

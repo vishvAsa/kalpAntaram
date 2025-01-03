@@ -79,37 +79,19 @@ This prohibition of feeding a very large number is not with a view to any transc
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Buhler is not quite fair to Medhātithi when he says that he takes the
-first part of the verse in a peculiar manner, “one must feed two
-Brāhmaṇas at the offering to the gods and three for each ancestor (or
-nine in all) at the offering to the manes”. This is not quite what
-Medhātithi takes the text *to mean*; what he mentions is what ought to
-be done, in consideration of the other texts that he quotes.
+Buhler is not quite fair to Medhātithi when he says that he takes the first part of the verse in a peculiar manner, “one must feed two Brāhmaṇas at the offering to the gods and three for each ancestor (or nine in all) at the offering to the manes”. This is not quite what Medhātithi takes the text *to mean*; what he mentions is what ought to be done, in consideration of the other texts that he quotes.
 
 This verse is quoted in *Gadādharapaddhati* (Kāla, p. 511);—in
 *Nṛsiṃhaprasāda* (Śrāddha, p. 24b);—in *Hemādri* (Śrāddha, pp. 159 and
-114);—and in *Śrāddhakriyākaumudī* (p. 94), which explains ‘*ubhayatra*’
-as ‘one in *Devakṛtya* and one in *Pitṛkṛtya*.’
+114);—and in *Śrāddhakriyākaumudī* (p. 94), which explains ‘*ubhayatra*’ as ‘one in *Devakṛtya* and one in *Pitṛkṛtya*.’
 
-The first quarter of this verse is quoted in *Parāśaramādhava* (Ācāra,
-p. 698) as laying down the proportion of Brāhmaṇas to be fed at the two
-sorts of rites. If five Brāhmaṇas are to be fed, two should be fed in
-connection with the offering to the Gods and three in connection with
-that to the *Pitṛs*.
+The first quarter of this verse is quoted in *Parāśaramādhava* (Ācāra, p. 698) as laying down the proportion of Brāhmaṇas to be fed at the two sorts of rites. If five Brāhmaṇas are to be fed, two should be fed in connection with the offering to the Gods and three in connection with that to the *Pitṛs*.
 
 *Madanapārijāta* (p. 592) quotes the verse, and explains that the
-forbidding of the feeding of a large company is based on the fear that
-if a large number of people are invited at a time or place not quite
-suited for the purpose, there may be many defects that, would go to
-vitiate the entire rite.
+forbidding of the feeding of a large company is based on the fear that if a large number of people are invited at a time or place not quite suited for the purpose, there may be many defects that, would go to vitiate the entire rite.
 
 *Nirṇayasindhu* (p. 287) quotes this verse;—also *Aparārka* (p. 430),
-which adds that the term ‘*Pitṛ*’ here includes the maternal grandfather
-and all those who have been declared to be ‘deities’ (for the
-Śrāddha);—again on p. 463, where it adds that it is meant to eulogise
-the lesser number, and not to prohibit large numbers; if it meant the
-latter, it would be wrong to feed a large number of men, which is
-actually enjoined by other *Smṛtis*.
+which adds that the term ‘*Pitṛ*’ here includes the maternal grandfather and all those who have been declared to be ‘deities’ (for the Śrāddha);—again on p. 463, where it adds that it is meant to eulogise the lesser number, and not to prohibit large numbers; if it meant the latter, it would be wrong to feed a large number of men, which is actually enjoined by other *Smṛtis*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -117,25 +99,16 @@ actually enjoined by other *Smṛtis*.
 *Vaśiṣṭha* (11.24).—\[Reproduces Manu.\]
 
 *Gautama* (15.8, 21).—‘At least nine; or an odd number; or any number,
-in accordance with his zeal; (the man invited) should be possessed of
-excellent qualities.’
+in accordance with his zeal; (the man invited) should be possessed of excellent qualities.’
 
 *Viṣṇu* (73, 3-4).—‘In connection with the offering to the gods one
-should feed two men, who should be facing the east; and in connection
-with the offering to Pitṛs, three men, who should he facing the north;
-or one in connection with each of the two offerings.’
+should feed two men, who should be facing the east; and in connection with the offering to Pitṛs, three men, who should he facing the north; or one in connection with each of the two offerings.’
 
 *Yājñavalkya* (1.227-229).—‘At the offering to gods, an even number, and
-at that to Pitṛs, an odd number of Brāhmaṇas should be invited, to the
-best of one’s capacity. Two men facing the east, in connection with the
-offering to the gods; three facing the north, in connection with the
-offering to Pitṛs; or one in connection with each of the two offerings;
-so also in the case of the offering to the maternal grand-fathers.’
+at that to Pitṛs, an odd number of Brāhmaṇas should be invited, to the best of one’s capacity. Two men facing the east, in connection with the offering to the gods; three facing the north, in connection with the offering to Pitṛs; or one in connection with each of the two offerings; so also in the case of the offering to the maternal grand-fathers.’
 
 *Āśvalāyana-Gṛhyasūtra* (4.2).—‘Brāhmaṇas endowed with learning and
-character and good conduct, invited in time, bathed and purified, should
-be made to face the north, as if they were Pitṛs, either one or two or
-three for each one of the Pitṛs; but never only one for all.’
+character and good conduct, invited in time, bathed and purified, should be made to face the north, as if they were Pitṛs, either one or two or three for each one of the Pitṛs; but never only one for all.’
 
 *Baudhāyana* (2.9.21).—\[The same as Manu.\]
 
@@ -145,13 +118,10 @@ or two Brāhmaṇas learned in the Veda.’
 *Śaunaka* (Do.).—‘Two for each Pitṛ; one for each; or three for each.’
 
 *Brahmāṇḍa-purāṇa* (Do., p. 699).—‘Even though he has the capacity, he
-should feed less than nine, never more; so say those who perceive
-difficulties in feeding a large number,’
+should feed less than nine, never more; so say those who perceive difficulties in feeding a large number,’
 
 *Vṛddha-Bṛhaspati* (Do.).—‘At the rite in honour of Pitṛs and gods, one
-shall feed one or two or three on behalf of each; due honour and
-observance of right time and place cannot be fulfilled if there is an
-excess.’
+shall feed one or two or three on behalf of each; due honour and observance of right time and place cannot be fulfilled if there is an excess.’
 
 *Śaṅkha* (Do.).—‘Or one may feed a single Brāhmaṇa, who is the
 *sanctifier of company*.’

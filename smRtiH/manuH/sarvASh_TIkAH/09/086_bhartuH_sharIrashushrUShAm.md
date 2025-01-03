@@ -45,8 +45,7 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 509);—in
 **(verses 9.85-87)  
 **
 
-See Comparative notes for [Verse
-9.85].
+See Comparative notes for [Verse 9.85].
 </details>
 
 <details><summary>भारुचिः</summary>

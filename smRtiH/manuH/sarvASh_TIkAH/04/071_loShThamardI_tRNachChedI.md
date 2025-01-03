@@ -36,9 +36,7 @@ It is in view of the word ‘*loṣṭha*,’ ‘clod,’ being used here by its
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 183),—and again on (p. 253), as
-lending support to the idea that the man himself becomes ‘unclean’ by
-dealing with ‘unclean things.’
+This verse is quoted in *Aparārka* (p. 183),—and again on (p. 253), as lending support to the idea that the man himself becomes ‘unclean’ by dealing with ‘unclean things.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -46,8 +44,7 @@ dealing with ‘unclean things.’
 **(verses 4.70-71)  
 **
 
-See Comparative notes for [Verse
-4.70].
+See Comparative notes for [Verse 4.70].
 </details>
 
 <details><summary>Bühler</summary>

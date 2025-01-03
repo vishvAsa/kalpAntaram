@@ -30,11 +30,7 @@ The *ātmanepada* participial affix in ‘*rudyamāne*,’ in the Active sense, 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 535), without any
-comment;—in *Hemādri* (Kāla, p. 771), which says that ‘*vṛṣala*’ here
-stands for unrighteous persons reading in the presence of Śūdras having
-been already forbidden in verse 99;—in *Gadādharapaddhati* (Kāla, p.
-194);—and in *Smṛticandrikā* (Saṃskāra, p. 162).
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 535), without any comment;—in *Hemādri* (Kāla, p. 771), which says that ‘*vṛṣala*’ here stands for unrighteous persons reading in the presence of Śūdras having been already forbidden in verse 99;—in *Gadādharapaddhati* (Kāla, p. 194);—and in *Smṛticandrikā* (Saṃskāra, p. 162).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -42,18 +38,14 @@ been already forbidden in verse 99;—in *Gadādharapaddhati* (Kāla, p.
 *Gautama* (16.7).—‘When there are sounds of the flute or the drum or of
 the chariot.’
 
-Do. (16.19).—‘When there is rotting smell, when there is a dead body in
-the village, and in the proximity of the Caṇḍāla or the Śūdra.’
+Do. (16.19).—‘When there is rotting smell, when there is a dead body in the village, and in the proximity of the Caṇḍāla or the Śūdra.’
 
 *Baudhāyana* (1.11.23).—‘When there is rotting smell in the wind, when
-there is fog, when there are sounds of dancing, singing or musical
-instruments, or of weeping and of Sāma-singing,—it will be unfit for
-study during the time.’
+there is fog, when there are sounds of dancing, singing or musical instruments, or of weeping and of Sāma-singing,—it will be unfit for study during the time.’
 
 *Āpastamba Dharmasūtra* (1.9.14).—‘When a corpse is lying within.’
 
-Do. (1.10.19).—‘Sounds of dog, ass, wolf, owl,—sounds of all musical
-instruments,—also sounds of weeping, singing and Sāma-singing.’
+Do. (1.10.19).—‘Sounds of dog, ass, wolf, owl,—sounds of all musical instruments,—also sounds of weeping, singing and Sāma-singing.’
 
 *Vaśiṣṭha* (Vīramitrodaya-Saṃskāra).—‘When there is a corpse lying in
 the village, or a Caṇḍāla.’
@@ -62,22 +54,16 @@ the village, or a Caṇḍāla.’
 Śūdra or the outcast.’
 
 *Yājñavalkya* (1.148).—‘When there are sounds of a dog, the jackal, the
-ass, or the owl, of Sāma-singing, or of the flute, or of some one in
-pain; or in the proximity of an unclean thing, a dead-body, a Śūdra, a
-Caṇḍāla, the cremation-ground, or the outcast.’
+ass, or the owl, of Sāma-singing, or of the flute, or of some one in pain; or in the proximity of an unclean thing, a dead-body, a Śūdra, a Caṇḍāla, the cremation-ground, or the outcast.’
 
 *Parāśara* (2.11.4).—‘After meals, so long as the hands are wet,—in
-water,—at night,—during the two twilights,—while a dead body is lying in
-the village, or while a Caṇḍāla happens to be in the village.’
+water,—at night,—during the two twilights,—while a dead body is lying in the village, or while a Caṇḍāla happens to be in the village.’
 
 *Pāraskara* (2.11.6).—‘When there is fog, or sound of musical
-instruments, or cries of pain, on the outskirts of the village, in the
-cremation ground, when there are sounds of the dog, the ass, the owl or
-the jackal, or of Sāma singing,—during the time that it lasts.’
+instruments, or cries of pain, on the outskirts of the village, in the cremation ground, when there are sounds of the dog, the ass, the owl or the jackal, or of Sāma singing,—during the time that it lasts.’
 
 *Gobhila* (3.3.28).—‘When there are sounds of singing, or of musical
-instruments, or of weeping,—and when there is high wind;—during that
-time it will be unfit for study.’
+instruments, or of weeping,—and when there is high wind;—during that time it will be unfit for study.’
 </details>
 
 <details><summary>Bühler</summary>

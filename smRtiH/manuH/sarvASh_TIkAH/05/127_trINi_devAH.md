@@ -69,21 +69,9 @@ What has been said under 5.21 is in connection with what is *At for being eaten*
 
 (Verse 127 of others.)
 
-This is quoted in *Madanapārijāta* (p. 469) as laying down the means of
-satisfaction where defilement is only suspected;—in *Smṛtitattva* (p.
-454), which adds the following note:—‘*adṛṣṭam*’ is ‘that which has
-never been known to be suspected of defilement’,—‘*vācā
-praśasyate*’—when a thing has been suspected of being defiled, if the
-Brāhmaṇas declare ‘may this be pure’, it has to be regarded as
-pure;—such being the explanation, it adds, provided by *Dīpakalikā* and
-Kullūka Bhaṭṭa;—in *Hemādri* (Śrāddha, p. 818);—in *Nityācāropradīpa*
-(p. 102) which explains ‘*adṛṣṭam*’, as ‘not perceived to be defiled’,
+This is quoted in *Madanapārijāta* (p. 469) as laying down the means of satisfaction where defilement is only suspected;—in *Smṛtitattva* (p. 454), which adds the following note:—‘*adṛṣṭam*’ is ‘that which has never been known to be suspected of defilement’,—‘*vācā praśasyate*’—when a thing has been suspected of being defiled, if the Brāhmaṇas declare ‘may this be pure’, it has to be regarded as pure;—such being the explanation, it adds, provided by *Dīpakalikā* and Kullūka Bhaṭṭa;—in *Hemādri* (Śrāddha, p. 818);—in *Nityācāropradīpa* (p. 102) which explains ‘*adṛṣṭam*’, as ‘not perceived to be defiled’,
 *i.e*., where no defilement is known to exist by any means of
-knowledge,—‘*nirṇiktam*’, washed, when suspected of being
-defiled,—‘*Vācā etc*.’ if even after washing, there is some compunction,
-this is removed when the thing is commended;—in *Prāyaścittaviveka* (p
-292);—and in *Śuddhikaumudī* (p. 459) which says that ‘*brāhmaṇa*’
-stands for all the four castes.
+knowledge,—‘*nirṇiktam*’, washed, when suspected of being defiled,—‘*Vācā etc*.’ if even after washing, there is some compunction, this is removed when the thing is commended;—in *Prāyaścittaviveka* (p 292);—and in *Śuddhikaumudī* (p. 459) which says that ‘*brāhmaṇa*’ stands for all the four castes.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -91,21 +79,16 @@ stands for all the four castes.
 *Mahābhārata* (3.101.40).—(Same as Manu).
 
 *Baudhāyana* (1.9.9).—‘The gods created for Brāhmaṇas three means of
-purification—ignorance of defilement, sprinkling with water and
-commending by word of mouth.’
+purification—ignorance of defilement, sprinkling with water and commending by word of mouth.’
 
 *Vaśiṣṭha* (14.24).—‘They quote the following words of Prajāpati—The
-gods created for Brāhmaṇas, three means of purifying—Ignorance,
-sprinkling and commending by word of mouth.’
+gods created for Brāhmaṇas, three means of purifying—Ignorance, sprinkling and commending by word of mouth.’
 
 *Viṣṇu* (2?.47).—‘The gods have declared, as peculiar to Brāhmaṇas,
-three means of effecting purity—if the impurity has not been perceived,
-if the object is sprinkled with water, if, in doubtful cases, they
-commend it with speech.’
+three means of effecting purity—if the impurity has not been perceived, if the object is sprinkled with water, if, in doubtful cases, they commend it with speech.’
 
 *Yājñavalkya* (1.191).—(See under 124 then)—‘What is verbally cemmended
-(commended?), or washed with water, or unknown (as defiled) is ever
-pure.’
+(commended?), or washed with water, or unknown (as defiled) is ever pure.’
 </details>
 
 <details><summary>Bühler</summary>

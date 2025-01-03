@@ -34,9 +34,7 @@ Wine is forbidden for women also. It has been declared in the work of Vaśiṣ�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 412), which
-adds that this refers to the same case as the preceding verse; *i.e*.,
-to the intentional -drinking of liquor distilled from grains;—and in
+This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 412), which adds that this refers to the same case as the preceding verse; *i.e*., to the intentional -drinking of liquor distilled from grains;—and in
 *Prāyaścittaviveka* (p. 93), which says that the ‘milk’ and ‘clarified
 butter’ meant are those of the *cow* only.
 </details>
@@ -46,8 +44,7 @@ butter’ meant are those of the *cow* only.
 **(verses 11.90-93)  
 **
 
-See Comparative notes for [Verse
-11.90].
+See Comparative notes for [Verse 11.90].
 </details>
 
 <details><summary>भारुचिः</summary>

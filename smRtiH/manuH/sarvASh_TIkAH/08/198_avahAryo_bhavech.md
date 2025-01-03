@@ -32,37 +32,14 @@ Or the term ‘*apasara*,’ ‘*access*,’ may be taken as standing for modes 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 103), which adds the
-following notes:—‘*Avahāryo bhavet*,’ should be fined;—‘*svānvayaḥ*’
-(which is its reading for ‘*sānvayaḥ*’) a son or some relation of the
-rightful owner;—‘*ṣaṭśatam*,’ six hundred *paṇas*;—‘*niranvayaḥ*,’ not
-related to the rightful owner;—‘*anapasaraḥ*,’ means *the removing of
-the property from the owner’s house*;—and the man who does this and
-sells what belongs to another should be fined six hundred *paṇas*. If
-this seller is not a relative of the owner,—and if the removing of the
-property from the owner’s house has been done, not by any person related
-to the owner, but by the seller himself,—then he should be punished like
-a thief. If however the removing has been done by some one else, but the
-selling is done by the owner’s relative, then the fine may be even more
-than six hundred *paṇas*.—The author of
+This verse is quoted in *Vivādaratnākara* (p. 103), which adds the following notes:—‘*Avahāryo bhavet*,’ should be fined;—‘*svānvayaḥ*’ (which is its reading for ‘*sānvayaḥ*’) a son or some relation of the rightful owner;—‘*ṣaṭśatam*,’ six hundred *paṇas*;—‘*niranvayaḥ*,’ not related to the rightful owner;—‘*anapasaraḥ*,’ means *the removing of the property from the owner’s house*;—and the man who does this and sells what belongs to another should be fined six hundred *paṇas*. If this seller is not a relative of the owner,—and if the removing of the property from the owner’s house has been done, not by any person related to the owner, but by the seller himself,—then he should be punished like a thief. If however the removing has been done by some one else, but the selling is done by the owner’s relative, then the fine may be even more than six hundred *paṇas*.—The author of
 
 *Kalpataru* has explained ‘*apasara*’ as the justification for moving
-the article from the owner’s possession—such as its being a gift and so
-forth *by which property moves away from the owner’s possession*
-(*apasarati anena*); and he who has no such justification is
-‘*anapasara*’; and this writer adds that this view has the support of
-Bhāguri, Medhātithi and the *Vṛttikāra*.
+the article from the owner’s possession—such as its being a gift and so forth *by which property moves away from the owner’s possession* (*apasarati anena*); and he who has no such justification is ‘*anapasara*’; and this writer adds that this view has the support of Bhāguri, Medhātithi and the *Vṛttikāra*.
 
-It is quoted in *Vivādacintāmaṇi* (p. 41) which has the following
-notes:—‘*Avahāryaḥ*,’ should be made to give up,—‘*sānvayaḥ*’ belonging
-to the family of the owner of the property concerned,—‘*niranvayaḥ*,’
-not a member of the owner’s family,—‘*anapasaraḥ*,’ ‘who has not
-received the property by any equitable method of acquisition, such as
-gift and the like’—‘*ṣaṭśatam*,’ he is to be fined 600 *paṇas*;—and in
+It is quoted in *Vivādacintāmaṇi* (p. 41) which has the following notes:—‘*Avahāryaḥ*,’ should be made to give up,—‘*sānvayaḥ*’ belonging to the family of the owner of the property concerned,—‘*niranvayaḥ*,’ not a member of the owner’s family,—‘*anapasaraḥ*,’ ‘who has not received the property by any equitable method of acquisition, such as gift and the like’—‘*ṣaṭśatam*,’ he is to be fined 600 *paṇas*;—and in
 *Kṛtyakalpataru* (85b), which explains ‘*avahāryaḥ*’ as ‘should be made
-to pay—‘*sānvayaḥ*’, as ‘along with his brothers and
-relatives,’—‘*ṣaṭśatam*,’ *i.e*., 600 *paṇas*.—It goes on to say what
-has been quoted in *Vivādaratnākara* (above).
+to pay—‘*sānvayaḥ*’, as ‘along with his brothers and relatives,’—‘*ṣaṭśatam*,’ *i.e*., 600 *paṇas*.—It goes on to say what has been quoted in *Vivādaratnākara* (above).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -70,52 +47,22 @@ has been quoted in *Vivādaratnākara* (above).
 **(verses 8.198-199)**
 
 *Arthaśāstra* (p. 95).—‘When the rightful owner has found the article
-that he had lost or which had been stolen from him, he shall have the
-man in possession of it arrested by the Judge. If the exigencies of time
-and place do not permit of this procedure, he may himself arrest the man
-and take him to the Judge;—the Judge shall ask the man in possession
-—*From where did you obtain this thing*? If the man explains the manner
-of his acquisition, but fails to produce the man who had sold it to him,
-he should be let off after he has surrendered the property; if the
-vendor is produced, the vendor should he made to pay the price obtained
-to the purchaser, and also a penalty for theft.’
+that he had lost or which had been stolen from him, he shall have the man in possession of it arrested by the Judge. If the exigencies of time and place do not permit of this procedure, he may himself arrest the man and take him to the Judge;—the Judge shall ask the man in possession —*From where did you obtain this thing*? If the man explains the manner of his acquisition, but fails to produce the man who had sold it to him, he should be let off after he has surrendered the property; if the vendor is produced, the vendor should he made to pay the price obtained to the purchaser, and also a penalty for theft.’
 
 *Nārada* (7.4, 5).—‘The purchaser must not make a secret of the way in
-which he came by a chattel purchased by him. He becomes free from blame
-if he can point out the way in which the chattel was acquired by him. In
-any other case, he is equally guilty with the vendor and shall suffer
-the punishment of a thief. The vendor shall restore the property to the
-rightful owner, and shall pay to the purchaser the price for which he
-had sold it; besides that, he shall pay a fine to the King.’
+which he came by a chattel purchased by him. He becomes free from blame if he can point out the way in which the chattel was acquired by him. In any other case, he is equally guilty with the vendor and shall suffer the punishment of a thief. The vendor shall restore the property to the rightful owner, and shall pay to the purchaser the price for which he had sold it; besides that, he shall pay a fine to the King.’
 
 *Bṛhaspati* (13.3, 4).—‘When the vendor has been produced and cast in
-the suit, the judge shall make him pay the price to the buyer and a fine
-to the King, and to restore the property to the owner. When the former
-owner comes forward and makes good his claim to the thing sold, the
-vendor shall be produced by the purchaser, who thereupon becomes
-cleared.’
+the suit, the judge shall make him pay the price to the buyer and a fine to the King, and to restore the property to the owner. When the former owner comes forward and makes good his claim to the thing sold, the vendor shall be produced by the purchaser, who thereupon becomes cleared.’
 
 *Vyāsa* (Vivādaratnākara, p. 202).—‘When the purchaser has shown the
-person from whom he had purchased the article, he shall not be blamed in
-any way; after that, the dispute shall he between that person and the
-rightful owner of the lost article.’
+person from whom he had purchased the article, he shall not be blamed in any way; after that, the dispute shall he between that person and the rightful owner of the lost article.’
 
 *Yājñavalkya* (2.168, 169, 170).—‘If one’s property has been sold by
-another person, the property shall be restored to him; the purchaser
-becomes guilty if he cannot produce the seller; and he shall be dealt
-with as a *thief*, if he bought the thing either in secret, or at a very
-low price, or at an improper time. If a man comes by his property that
-had been lost or stolen, he should have the possessor arrested; or if
-the time or place does not permit of this, he shall arrest him himself
-and produce him before the court; the man becomes absolved from blame on
-producing the seller; and from the seller, the owner recovers his
-property,—the purchaser, the price that he had paid, and the King, a
-fine.’
+another person, the property shall be restored to him; the purchaser becomes guilty if he cannot produce the seller; and he shall be dealt with as a *thief*, if he bought the thing either in secret, or at a very low price, or at an improper time. If a man comes by his property that had been lost or stolen, he should have the possessor arrested; or if the time or place does not permit of this, he shall arrest him himself and produce him before the court; the man becomes absolved from blame on producing the seller; and from the seller, the owner recovers his property,—the purchaser, the price that he had paid, and the King, a fine.’
 
 *Bṛhaspati* (13.11)—‘That should be regarded as *Fraudulent Purchase*
-which is made at an unreasonably low price, or in the interior of a
-house, or outside of the village, or at night, or in secret, or from a
-dishonest person.’
+which is made at an unreasonably low price, or in the interior of a house, or outside of the village, or at night, or in secret, or from a dishonest person.’
 </details>
 
 <details><summary>भारुचिः</summary>

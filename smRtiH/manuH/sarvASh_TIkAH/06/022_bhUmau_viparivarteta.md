@@ -32,15 +32,13 @@ He shall roll about on the ground, or stand on tip-toe during the day; he shall 
 
 ‘*Sthānāsanābhyām*’—See note above on 2.248.
 
-This verse is quoted in *Aparārka* (p. 943);—and in *Mitākṣarā* (on
-3.51) which explains ‘*prapadaiḥ*’ as ‘*pādāgraiḥ*’ (like Medhātithi).
+This verse is quoted in *Aparārka* (p. 943);—and in *Mitākṣarā* (on 3.51) which explains ‘*prapadaiḥ*’ as ‘*pādāgraiḥ*’ (like Medhātithi).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (3.26).—‘The hermit shall live in the forest, subsisting on
-roots and fruits and practising austerities.’ *Baudhāyana*
-(2.11.15).—(See under 3.)
+roots and fruits and practising austerities.’ *Baudhāyana* (2.11.15).—(See under 3.)
 
 *Vaśiṣṭha* (9.9).—‘He shall bathe at noon, morn and eve.’
 
@@ -48,8 +46,7 @@ roots and fruits and practising austerities.’ *Baudhāyana*
 
 *Yājñavalkya* (3.48.51).—‘Self-controlled, bathing at the three
 *Savanas*......—Being pure, he shall sleep on the ground at night; the
-day he shall pass on tip-toe, or standing, sitting and walking, or by
-the practice of yoga.’
+day he shall pass on tip-toe, or standing, sitting and walking, or by the practice of yoga.’
 
 *Padma-purāṇa* (Ādikhaṇḍa, 58, 26).—‘He shall divert himself with
 standing and sitting, and shall never lose his steadiness.’

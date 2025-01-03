@@ -25,8 +25,7 @@ The base-born man bears the character or his father, or of his mother, or of bot
 **(verses 10.57-61)  
 **
 
-See Comparative notes for [Verse
-10.57].
+See Comparative notes for [Verse 10.57].
 </details>
 
 <details><summary>भारुचिः</summary>

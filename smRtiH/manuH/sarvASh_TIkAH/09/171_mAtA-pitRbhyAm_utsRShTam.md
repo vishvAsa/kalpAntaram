@@ -42,31 +42,19 @@ This desertion may be by either one of the parents.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 739), which explains the meaning
-to be that the ‘*Apaviddha*’ son is one who is taken up on being
-abandoned by the parents for some cause, other than his having become an
-‘outcast—and in the *Vivādaratnākara* (p. 571), which adds the following
-notes:—‘*Utsṛṣṭam*’, abandoned,—for some such reason as extreme poverty
-and consequent incapability to maintain him, or the presence of some
-defect in him; the acceptance also by the receiver should be for the
-definite purpose of making him his son;—also in *Parāśaramādhava*
-(Prāyaścitta, p. 38);—in *Vyavahāra-Bālambhaṭṭī* (pp. 547 and 557);—and
-in *Nṛsiṃhaprasāda* (Vyavahāra, p. 38a).
+This verse is quoted in *Aparārka* (p. 739), which explains the meaning to be that the ‘*Apaviddha*’ son is one who is taken up on being abandoned by the parents for some cause, other than his having become an ‘outcast—and in the *Vivādaratnākara* (p. 571), which adds the following notes:—‘*Utsṛṣṭam*’, abandoned,—for some such reason as extreme poverty and consequent incapability to maintain him, or the presence of some defect in him; the acceptance also by the receiver should be for the definite purpose of making him his son;—also in *Parāśaramādhava* (Prāyaścitta, p. 38);—in *Vyavahāra-Bālambhaṭṭī* (pp. 547 and 557);—and in *Nṛsiṃhaprasāda* (Vyavahāra, p. 38a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (2.3.23).—‘He is called the *Apaviddha*, cast-off, son,
-who, being cast off by his father and mother, or by either of them, is
-received by one in the place of a child.’
+who, being cast off by his father and mother, or by either of them, is received by one in the place of a child.’
 
 *Vaśiṣṭha* (17.36-37).—‘The son *cast off* is the fifth;—that son is
-so-called who, being cast off by his father and his mother, is received
-by one as a son.’
+so-called who, being cast off by his father and his mother, is received by one as a son.’
 
 *Viṣṇu* (15.24-26).—‘The son *cast off* is the eleventh;—that son is so
-called who has been forsaken by his father or mother;—and he belongs to
-him by whom he is received.’
+called who has been forsaken by his father or mother;—and he belongs to him by whom he is received.’
 
 *Yājñavalkya* (2.132).—‘The son who is received by one after having been
 abandoned (by his parents) is called the *cast-off* son.’

@@ -40,8 +40,7 @@ This verse is quoted in *Vīramitrodaya* (Rājantti, p. 152).
 **(verses 9.313-322)  
 **
 
-See Comparative notes for [Verse
-9.313].
+See Comparative notes for [Verse 9.313].
 </details>
 
 <details><summary>Bühler</summary>

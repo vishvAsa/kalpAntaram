@@ -28,25 +28,16 @@ Having, with concentrated mind, repeated the Sāvitrī three thousand times, and
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 430), as
-referring to cases where both the *giver* and the *gift* are unfit, and
-improper;—in *Aparārka* (p. 1150), to the effect that ‘residence in the
-cow-pen’ is an essential factor in the expiation;—in *Mitākṣarā*
-(3.290), which adds the following notes:—The repetition of the *Sāvitrī*
-here prescribed is to be done daily, as is clear from the Accusative
-ending in ‘*māsam*’ which denotes *duration*;—and in *Prāyaścittaviveka*
-(p. 403).
+This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 430), as referring to cases where both the *giver* and the *gift* are unfit, and improper;—in *Aparārka* (p. 1150), to the effect that ‘residence in the cow-pen’ is an essential factor in the expiation;—in *Mitākṣarā* (3.290), which adds the following notes:—The repetition of the *Sāvitrī* here prescribed is to be done daily, as is clear from the Accusative ending in ‘*māsam*’ which denotes *duration*;—and in *Prāyaścittaviveka* (p. 403).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (54.24).—‘By repeating attentively the *Gāyatrī* three thousand
-times, by dwelling in the pasture of cows, by subsisting on milk for a
-month, one becomes free from the sin of receiving unlawful presents.’
+times, by dwelling in the pasture of cows, by subsisting on milk for a month, one becomes free from the sin of receiving unlawful presents.’
 
 *Yājñavalkya* (3.288).—‘One becomes free from the sin of receiving
-improper presents if one dwells in the cow-pen for one month, subsisting
-on milk and devoted to the repeating of the *Gāyatrī*.’
+improper presents if one dwells in the cow-pen for one month, subsisting on milk and devoted to the repeating of the *Gāyatrī*.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -34,10 +34,7 @@ A sharp ‘iron *spade*’ should be given. The qualification ‘iron’ exclude
 
 This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 67);—in
 *Aparārka* (p. 1132), which explains ‘*palāla*’ as paddy-stalks without
-grains;—in *Mitākṣarā* (3. 273);—in *Madanapārijāta* (p. 950), which
-adds that the ‘*palālabhāra*’ and ‘one *māṣa* of *Sīsaka*’ are optional
-alternatives;—and in *Prāyaścittaviveka* (p. 527), which says that the
-gift prescribed removes the sin of the killing.
+grains;—in *Mitākṣarā* (3. 273);—in *Madanapārijāta* (p. 950), which adds that the ‘*palālabhāra*’ and ‘one *māṣa* of *Sīsaka*’ are optional alternatives;—and in *Prāyaścittaviveka* (p. 527), which says that the gift prescribed removes the sin of the killing.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -46,13 +43,10 @@ gift prescribed removes the sin of the killing.
 straw and a *māṣa* of lead. For killing a snake, a bar of iron.’
 
 *Viṣṇu* (50.34-35).—‘If he has killed a snake, he must give an iron
-spade. If he has killed emasculated cattle or birds, he must give a load
-of straw.’
+spade. If he has killed emasculated cattle or birds, he must give a load of straw.’
 
 *Yājñavalkya* (3.274).—‘For killing serpents, one should give an iron
-bar; for killing a eunuch, lead and tin; for killing a boar, a jar of
-clarified butter; for killing a camel, gold weighing one *Ratti*: and
-for killing a horse, a cloth.’
+bar; for killing a eunuch, lead and tin; for killing a boar, a jar of clarified butter; for killing a camel, gold weighing one *Ratti*: and for killing a horse, a cloth.’
 </details>
 
 <details><summary>भारुचिः</summary>

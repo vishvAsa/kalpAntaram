@@ -26,8 +26,7 @@ The term ‘*even*’ indicates that a relation or any other person also, who ma
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 472), which explains ‘*khañjaḥ*’
-as ‘*kuṇṭhaḥ*—and in *Hemādri* (Śrāddha, p. 516.)
+This verse is quoted in *Aparārka* (p. 472), which explains ‘*khañjaḥ*’ as ‘*kuṇṭhaḥ*—and in *Hemādri* (Śrāddha, p. 516.)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -36,9 +35,7 @@ as ‘*kuṇṭhaḥ*—and in *Hemādri* (Śrāddha, p. 516.)
 not look at the Śrāddha.’
 
 *Yama* (Caturvargacintāmaṇi-Śrāddha, p. 518).—‘If any servant of the
-Śrāddha-offerer should happen to be crippled or one-eyed, or with a
-crooked arm, or suffering from leucoderma, or with deficient limbs, or
-with redundant limbs,—he should be speedily removed from the place.’
+Śrāddha-offerer should happen to be crippled or one-eyed, or with a crooked arm, or suffering from leucoderma, or with deficient limbs, or with redundant limbs,—he should be speedily removed from the place.’
 </details>
 
 <details><summary>Bühler</summary>

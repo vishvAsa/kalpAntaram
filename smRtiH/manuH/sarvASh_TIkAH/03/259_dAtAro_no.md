@@ -29,8 +29,7 @@ This verse is quoted in *Smṛtitattva* (p. 183) without comment;—in
 **(verses 3.258-259)  
 **
 
-See Comparative notes for [Verse
-3.258].
+See Comparative notes for [Verse 3.258].
 </details>
 
 <details><summary>Bühler</summary>

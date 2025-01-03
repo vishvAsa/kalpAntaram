@@ -30,8 +30,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 308);—and in
 
 **(verses 7.147-148)**
 
-See Comparative notes for [Verse
-7.148].
+See Comparative notes for [Verse 7.148].
 </details>
 
 <details><summary>भारुचिः</summary>

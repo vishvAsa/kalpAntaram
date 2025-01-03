@@ -30,11 +30,9 @@ All that this means is that even when the Kṣatriya is very old and the Brāhma
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 474), as showing
-that the Brāhmaṇa is ‘superior’ to all.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 474), as showing that the Brāhmaṇa is ‘superior’ to all.
 
-It quotes the same verse as contained in *Bhaviṣyapurāṇa*.—. It is
-quoted also in *Nṛsiṃhaprasāda* (Saṃskāra, p. 44b);—and in
+It quotes the same verse as contained in *Bhaviṣyapurāṇa*.—. It is quoted also in *Nṛsiṃhaprasāda* (Saṃskāra, p. 44b);—and in
 *Smṛticandrikā* (Saṃskāra, p. 101) to the effect that as between a
 *Brāhmaṇa* and a *Kṣatriya*, the former is to be saluted by the latter,
 even though he be very much junior in age.
@@ -47,20 +45,16 @@ even though he be very much junior in age.
 *Viṣṇu-Smṛti* (32.17)—(reproduces the exact words of Manu).
 
 *Bhaviṣya-purāṇa* (Vīramitrodaya-Saṃskāra, p. 474)—(has the verse of
-Manu, to which it adds another verse to the effect that)—‘the Brāhmaṇa
-has thus been declared by the wise the Kṣatriya’s father, the Vaiśya’s
-grand-father and the Śūdra’s great-grand-father.’
+Manu, to which it adds another verse to the effect that)—‘the Brāhmaṇa has thus been declared by the wise the Kṣatriya’s father, the Vaiśya’s grand-father and the Śūdra’s great-grand-father.’
 
 *Śātātapa* (Vīramitrodaya-Saṃskāra, pp. 473-474).—‘Agni is the superior
 of the Twice-born men, the Brāhmaṇa is the superior of all castes.’
 
 *Śātātapa* (Parāśaramāḍhava, p. 299).—‘The Kṣatriya and the rest should
-never be saluted by the Brāhmaṇa, even though they be endowed with
-knowledge and of good conduct and very learned.’
+never be saluted by the Brāhmaṇa, even though they be endowed with knowledge and of good conduct and very learned.’
 
 *Mahābhārata* (13.8.21).—‘The Kṣatriya, hundred years old and the
-Brāhmaṇa, ten years old, should he regarded as father and son; of the
-two, the Brāhmaṇa being the superior.’
+Brāhmaṇa, ten years old, should he regarded as father and son; of the two, the Brāhmaṇa being the superior.’
 </details>
 
 <details><summary>Bühler</summary>

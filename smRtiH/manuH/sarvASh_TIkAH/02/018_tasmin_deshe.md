@@ -70,25 +70,9 @@ supplementary to the Injunction coming later on that ‘the Twice-born people sh
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 *Medhātithi* (p. 75, 1. 5)—*Kāraṇagrahaṇāt*.’—When a *custom* or even a
-Smṛti rule, is found to be actually based upon some material motive,—no
-authority can attach to such custom or rule. Read in this connection
-Mīmāṃsā Sūtra 1. 3. 4, which discusses the authoritative character of
-such *Smṛti* rules as, while not contradicting any Śruti-rule, are yet
-found to be due to ignorance or covetousness; *e.g*. the text laying
-down that the cloth with which the sacrificial post is covered should be
-given to the priest. The conclusion on this point is that such rules
-have no authority. (See, for further details, Prābhākara—Mīmāṃsā, pp.
-138-139).
+Smṛti rule, is found to be actually based upon some material motive,—no authority can attach to such custom or rule. Read in this connection Mīmāṃsā Sūtra 1. 3. 4, which discusses the authoritative character of such *Smṛti* rules as, while not contradicting any Śruti-rule, are yet found to be due to ignorance or covetousness; *e.g*. the text laying down that the cloth with which the sacrificial post is covered should be given to the priest. The conclusion on this point is that such rules have no authority. (See, for further details, Prābhākara—Mīmāṃsā, pp. 138-139).
 
-This verse is quoted in the Madanapārijāta (p. 12);—in the *Dānamayūkha*
-(p. 7);—in the *Saṃskāramayūkha* (p. 4),—and in the
-Vīramitrodaya—Paribhāṣa (p. 55), which adds the following
-notes:—‘*Paramparya*;’ is the same as ‘*paramparā*’, ‘Tradition,’—*i.
-e*., that whose beginning cannot be traced;—this precludes the authority
-of *modern* customs;—‘*antarāla*’ are the mixed castes;—it quotes
-Medhātithi to the effect that the purport of this verse is to eulogise
-the custom of the particular country, and not to deny the authority of
-the customs of other countries.
+This verse is quoted in the Madanapārijāta (p. 12);—in the *Dānamayūkha* (p. 7);—in the *Saṃskāramayūkha* (p. 4),—and in the Vīramitrodaya—Paribhāṣa (p. 55), which adds the following notes:—‘*Paramparya*;’ is the same as ‘*paramparā*’, ‘Tradition,’—*i. e*., that whose beginning cannot be traced;—this precludes the authority of *modern* customs;—‘*antarāla*’ are the mixed castes;—it quotes Medhātithi to the effect that the purport of this verse is to eulogise the custom of the particular country, and not to deny the authority of the customs of other countries.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -97,50 +81,27 @@ the customs of other countries.
 **
 
 *Vaśiṣṭha*, 1.7-12.—‘Aryāvarta is the country which is to the East of
-the *spot of* disappearance, to the West of Kālakavana, to the North of
-Pāriyātra and the Vindhya and to the South of the Himālaya. The Dharma
-and practices prevalent in this country should be accepted in all
-places. Some people apply the name *Āryāvarta* to the land between the
-Gaṅgā and the Yamunā. Brahmanic glory is coterminous with the tract over
-which the black antelope roams.
+the *spot of* disappearance, to the West of Kālakavana, to the North of Pāriyātra and the Vindhya and to the South of the Himālaya. The Dharma and practices prevalent in this country should be accepted in all places. Some people apply the name *Āryāvarta* to the land between the Gaṅgā and the Yamunā. Brahmanic glory is coterminous with the tract over which the black antelope roams.
 
 *Vaśiṣṭha*, 15.9-14.—‘The Dharmas and Ācāras prevalent in that country
-should be accepted everywhere. The others are of contrary Dharma. Some
-people restrict Dharma to the country lying between the Gaṅgā and the
-Yamunā. Others again state that Brahmanic glory extends all over that
-tract of land over which the black deer roams. The limits of this tract
-are hounded on the west by the river Sindhu and on other sides by the
-Vaitariṇī river (in Mālwā, according to Vīramitrodaya, Paribhāṣa, p.
-57); and by the spot where the sun rises.’ *Vyāsa*, 1.3.—‘The Vedic
-dharma can prevail only in that country over which the black deer roams
-naturally.’
+should be accepted everywhere. The others are of contrary Dharma. Some people restrict Dharma to the country lying between the Gaṅgā and the Yamunā. Others again state that Brahmanic glory extends all over that tract of land over which the black deer roams. The limits of this tract are hounded on the west by the river Sindhu and on other sides by the Vaitariṇī river (in Mālwā, according to Vīramitrodaya, Paribhāṣa, p. 57); and by the spot where the sun rises.’ *Vyāsa*, 1.3.—‘The Vedic dharma can prevail only in that country over which the black deer roams naturally.’
 
 *Samvarta*, 4.—‘That country where the black deer constantly roams at
-will is to be known as *Dharma-deśa*, where alone the duties of the
-twice-born can be performed.’
+will is to be known as *Dharma-deśa*, where alone the duties of the twice-born can be performed.’
 
 *Baudhāyana*, 1.25.25.—‘To the East of the spot of disappearance (of the
-Sarasvatī river), to the West of the Kālakavana, to the North of
-Pāriyātra and to the South of Himālaya,—this is Āryāvarta; it is the
+Sarasvatī river), to the West of the Kālakavana, to the North of Pāriyātra and to the South of Himālaya,—this is Āryāvarta; it is the
 *Sadāchāra* of this country that is authoritative; according to some
 people it is the tract included between the Gaṅgā and the Yamunā.’
 
 *Śaṅkha-Likhita* (Vīra-Pari.,p. 57).—‘That country is noble which lies
-to the East of the mountain where the Sun sets, to the West of that
-where the Sun rises, which is interspersed with high mountains and
-sacred rivers; this is the *sacred land*; or the land where the black
-antelope roams, or that to the East of the Sindhu and the Sauvīra, to
-the West of Kāmpilya, to the North of the Pāriyātra and to the South of
-the Himalaya,—here Brahmanic glory is complete.’
+to the East of the mountain where the Sun sets, to the West of that where the Sun rises, which is interspersed with high mountains and sacred rivers; this is the *sacred land*; or the land where the black antelope roams, or that to the East of the Sindhu and the Sauvīra, to the West of Kāmpilya, to the North of the Pāriyātra and to the South of the Himalaya,—here Brahmanic glory is complete.’
 
 *Paiṭhīnasi* (*ibid*).—‘From Himālaya to the Kumārī (Cape Comorin), from
-the Sindhu and the Vaitariṇī and to the place where the sun rises, or
-where the black antelope roams,—over this land alone is Dharma present
-in its complete form.’
+the Sindhu and the Vaitariṇī and to the place where the sun rises, or where the black antelope roams,—over this land alone is Dharma present in its complete form.’
 
 *Viṣṇu*, 74.4.—‘That country where there is no differentiation of the
-four castes should be known as the *mleccha deśa*; other than this is
-Āryāvarta.’
+four castes should be known as the *mleccha deśa*; other than this is Āryāvarta.’
 </details>
 
 <details><summary>Bühler</summary>

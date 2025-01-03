@@ -47,14 +47,10 @@ These verses are quoted in *Vīramitrodaya* (Saṃskāra, p. 573);—and in
 **
 
 *Mahābhārata* (Śānti, 249.14-17).—(Same as Manu; but reading ‘*Etān
-vīmucya saṃvādān*’ for ‘*etairvivādān santyajya* and ‘*jitaḥ*.’ for
-‘*jitaiḥ*.’)
+vīmucya saṃvādān*’ for ‘*etairvivādān santyajya* and ‘*jitaḥ*.’ for ‘*jitaiḥ*.’)
 
 *Yājñavalkya* (1.157-158).—‘The Householder wins all regions by avoiding
-quarrels with his mother, father, brother, female relations, relations
-by marriage, maternal uncle, aged persons, boys, sick persons, his
-teacher, doctors, dependants and relations, his priest, the officiating
-priest, his own children, wife, slaves and paternal relations.’
+quarrels with his mother, father, brother, female relations, relations by marriage, maternal uncle, aged persons, boys, sick persons, his teacher, doctors, dependants and relations, his priest, the officiating priest, his own children, wife, slaves and paternal relations.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -50,9 +50,7 @@ Our opinion however is that when even gifts from improper persons are not availa
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 233);—in *Aparārka* (p.
-935);—in *Smṛtitattva* II (p. 362), which notes that Kullūka Bhaṭṭa
-explains ‘*jvalanāmbusamāḥ*’ as ‘like water and fire’;—in
+This verse is quoted in *Madanapārijāta* (p. 233);—in *Aparārka* (p. 935);—in *Smṛtitattva* II (p. 362), which notes that Kullūka Bhaṭṭa explains ‘*jvalanāmbusamāḥ*’ as ‘like water and fire’;—in
 *Parāśaramādhava* (Ācāra, p. 183), which notes that the reading is
 ‘*agarhitāt*’;—in *Parāśaramādhava* (Prāyaścitta p. 326);—and in
 *Prāyaścittaviveka* (p. 409).
@@ -63,8 +61,7 @@ explains ‘*jvalanāmbusamāḥ*’ as ‘like water and fire’;—in
 **(verses 10.101-108)  
 **
 
-See Comparative notes for [Verse
-10.101].
+See Comparative notes for [Verse 10.101].
 </details>
 
 <details><summary>भारुचिः</summary>

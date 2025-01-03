@@ -42,18 +42,11 @@ Among wives of the same caste, all this is governed by the order of their marria
 
 *Cf*. the Mahābhārata 13.47.31.
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 509), as laying
-down the order in which the several wives of a man are to be
-honoured;—in *Smṛtitattva* (p. 298) as declaring who is to be regarded
-as the ‘Senior’ wife,
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 509), as laying down the order in which the several wives of a man are to be honoured;—in *Smṛtitattva* (p. 298) as declaring who is to be regarded as the ‘Senior’ wife,
 
-‘*Jyesṭhā*’;—also in Vol. II, p. 191;—in *Vivādaratnākara* (p. 419),
-which explains ‘*svāḥ*’ as ‘belonging to the same caste as her husband,’
-and ‘*svāvarāḥ*’ (which is its reading for ‘*aparāḥ*’) as ‘belonging to
-a different caste’;—in *Vīramitrodaya* (Vyavahāra, 198a);—and by
+‘*Jyesṭhā*’;—also in Vol. II, p. 191;—in *Vivādaratnākara* (p. 419), which explains ‘*svāḥ*’ as ‘belonging to the same caste as her husband,’ and ‘*svāvarāḥ*’ (which is its reading for ‘*aparāḥ*’) as ‘belonging to a different caste’;—in *Vīramitrodaya* (Vyavahāra, 198a);—and by
 *Jīmūtavāhana* (Dāyabhāga, p. 257), which says that the wife of one’s
-own caste, even though married later, would be the *Senior* and hence
-entitled to associate with the husband in his religious acts.
+own caste, even though married later, would be the *Senior* and hence entitled to associate with the husband in his religious acts.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -62,24 +55,13 @@ entitled to associate with the husband in his religious acts.
 **
 
 *Viṣṇu* (26.1-4).—‘If a man has several wives of his own caste, he shall
-perform his religious duties with the eldest wife. If he has several
-wives of diverse castes, he shall perform them, even with the youngest
-wife, if she is of the same caste as himself. On failure of a wife of
-his own caste, be shall perform them with one belonging to the caste
-next below his own; so also in cases of distress;—but no twice-born man
-shall ever do it with a Śūdra wife.’
+perform his religious duties with the eldest wife. If he has several wives of diverse castes, he shall perform them, even with the youngest wife, if she is of the same caste as himself. On failure of a wife of his own caste, be shall perform them with one belonging to the caste next below his own; so also in cases of distress;—but no twice-born man shall ever do it with a Śūdra wife.’
 
 *Yājñavalkya* (1.88).—‘So long as a wife of the same caste as himself is
-alive, he shall not have his religious acts done by another; and among
-several wives of the same caste, the younger one shall not be employed
-in religious acts, except along with the eldest.’
+alive, he shall not have his religious acts done by another; and among several wives of the same caste, the younger one shall not be employed in religious acts, except along with the eldest.’
 
 *Kātyāyana* (Vivādaratnākara, p. 420).—‘If a man has several wives, he
-should have his religious acts, such as the tending of the Sacrificial
-Fire, done by one who belongs to the same caste as himself; if there are
-several of the same caste as himself, then by the eldest among them, if
-she is not defective; or by one who has given birth to a heroic son and
-is most obedient to him, skilful, sweet-speaking and pure.’
+should have his religious acts, such as the tending of the Sacrificial Fire, done by one who belongs to the same caste as himself; if there are several of the same caste as himself, then by the eldest among them, if she is not defective; or by one who has given birth to a heroic son and is most obedient to him, skilful, sweet-speaking and pure.’
 </details>
 
 <details><summary>भारुचिः</summary>

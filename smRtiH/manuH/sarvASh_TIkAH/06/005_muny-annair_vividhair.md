@@ -39,8 +39,7 @@ attain imperishable heaven’
 with fruits, herbs or roots growing wild.’
 
 *Yājñavalkya* (3.16).—‘With beard and hair in braids, self-controlled,
-he shall maintain, with things obtained without ploughing, the fires,
-Pitṛs, gods and guests and dependants.’
+he shall maintain, with things obtained without ploughing, the fires, Pitṛs, gods and guests and dependants.’
 
 *Yama* (Aparārka).—(See under 3.)
 </details>

@@ -36,9 +36,7 @@ In view of this question, the Author says—‘*Recollecting his former births, 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 229);—and in *Vīramitrodaya*
-(Āhnika, p. 320), which explains ‘*Brahma*’ as ‘Veda,’—and ‘*anantam*’
-as ‘to be enjoyed for a long time.’
+This verse is quoted in *Aparārka* (p. 229);—and in *Vīramitrodaya* (Āhnika, p. 320), which explains ‘*Brahma*’ as ‘Veda,’—and ‘*anantam*’ as ‘to be enjoyed for a long time.’
 </details>
 
 <details><summary>Bühler</summary>

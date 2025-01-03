@@ -70,13 +70,9 @@ But this cannot be right. Because marrying a Śūdra woman is not permitted; and
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vṛṣalī*’—‘*Cāṇḍālī*’ (Medhātithi and Kullūka);—‘a Śūdra woman’
-(Govindarāja and Nārāyaṇa).
+‘*Vṛṣalī*’—‘*Cāṇḍālī*’ (Medhātithi and Kullūka);—‘a Śūdra woman’ (Govindarāja and Nārāyaṇa).
 
-This verse is quoted in *Mitākṣarā* (3.260), which explains ‘*vṛṣalī*’
-as *Cāṇḍālī*;—and in *Prāyaścittaviveka* (p. 363), which says that this
-lays down the expiation for the marrying of a *Śūdra girl, in a manner
-not sanctioned by the scriptures*.
+This verse is quoted in *Mitākṣarā* (3.260), which explains ‘*vṛṣalī*’ as *Cāṇḍālī*;—and in *Prāyaścittaviveka* (p. 363), which says that this lays down the expiation for the marrying of a *Śūdra girl, in a manner not sanctioned by the scriptures*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -84,16 +80,13 @@ not sanctioned by the scriptures*.
 *Viṣṇu* (53.9).—(See under 175.)
 
 *Āpastamba* (1.27.11).—‘A Brāhmaṇa removes the sin which he committed by
-serving one day and night a man of the black race, if he bathes for
-three years, eating at every fourth meal-time.’
+serving one day and night a man of the black race, if he bathes for three years, eating at every fourth meal-time.’
 
 *Baudhāyana* (2.2.11).—‘A Brāhmaṇa removes the sin which he committed by
-serving the black race one day and one night, if he bathes during three
-years at every fourth meal-time.’
+serving the black race one day and one night, if he bathes during three years at every fourth meal-time.’
 
 *Parāśara* (7.9).—‘If a twice-born man commits the sin of attending upon
-a *Vṛṣalī* for one night, he becomes pure by living on alms and
-repeating the sacred texts during three years.’
+a *Vṛṣalī* for one night, he becomes pure by living on alms and repeating the sacred texts during three years.’
 </details>
 
 <details><summary>भारुचिः</summary>

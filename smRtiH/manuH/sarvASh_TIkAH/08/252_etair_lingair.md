@@ -64,14 +64,9 @@ Witnesses regarding boundaries shall be questioned in regard to the boundary-mar
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (2. 151), which adds the following
-explanation:—‘By means of these marks, visible and invisible, as
-indicated by his ministers and others, the king should determine the
-boundary for those quarrelling over it.’
+This verse is quoted in *Mitākṣarā* (2. 151), which adds the following explanation:—‘By means of these marks, visible and invisible, as indicated by his ministers and others, the king should determine the boundary for those quarrelling over it.’
 
-It is quoted in *Vivādaratnākara* (p. 204), which adds the following
-notes:—‘*Satatam upabhuktyā*’, by long unbroken possession—‘he should
-determine’, ‘*nayet*’;—‘*udakasyāgamaḥ*’ is flowing current of water;—in
+It is quoted in *Vivādaratnākara* (p. 204), which adds the following notes:—‘*Satatam upabhuktyā*’, by long unbroken possession—‘he should determine’, ‘*nayet*’;—‘*udakasyāgamaḥ*’ is flowing current of water;—in
 *Vivādacintāmaṇi* (p. 93);—in *Kṛtyakalpataru* (110b);—and in
 *Vīramitrodaya* (Vyavahāra, 139b).
 </details>
@@ -79,29 +74,13 @@ determine’, ‘*nayet*’;—‘*udakasyāgamaḥ*’ is flowing current of wa
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (11.6, 11, 27).—‘When a piece of land has been carried off by a
-stream, or abandoned by the owner, or when the boundry-marks have become
-obliterated, they shall fix the boundary according to inferences drawn
-from an inspection of the spot, and according to the traces of
-possession. Should there be no persons conversant with the true state of
-tilings, and no boundary-marks, then the King himself shall fix the
-boundary between the two estates as he thinks host. A field which has
-been held by three generations in succession, and a house which has been
-inherited from an ancestor, cannot be estranged from its legitimate
-owner by force of possession, except when the King wills it so.’
+stream, or abandoned by the owner, or when the boundry-marks have become obliterated, they shall fix the boundary according to inferences drawn from an inspection of the spot, and according to the traces of possession. Should there be no persons conversant with the true state of tilings, and no boundary-marks, then the King himself shall fix the boundary between the two estates as he thinks host. A field which has been held by three generations in succession, and a house which has been inherited from an ancestor, cannot be estranged from its legitimate owner by force of possession, except when the King wills it so.’
 
 *Bṛhaspati* (19.14, 23, 24).—‘Those are witnesses in a suit of this kind
-who know the title of acquisition, the size, the duration of possession,
-the name and the characteristic features of the land in question. When
-land is taken from a person enjoying it without legitimate title or
-ownership, and given to a worthier person, the latter shall not he
-deprived of it. A house, tank, shop or the like having been used by a
-man since the time of its foundation, must not he taken away from him,
-nor diminished or altered.’
+who know the title of acquisition, the size, the duration of possession, the name and the characteristic features of the land in question. When land is taken from a person enjoying it without legitimate title or ownership, and given to a worthier person, the latter shall not he deprived of it. A house, tank, shop or the like having been used by a man since the time of its foundation, must not he taken away from him, nor diminished or altered.’
 
 *Kātyāyana* (Vivādaratnākara, p. 205).—‘Possession is to be taken into
-consideration in the matter of deciding boundary-disputes; but only
-while there are witnesses deposing to the possession; and witnesses are
-of two kinds—those named in documents and those not so named.’
+consideration in the matter of deciding boundary-disputes; but only while there are witnesses deposing to the possession; and witnesses are of two kinds—those named in documents and those not so named.’
 </details>
 
 <details><summary>भारुचिः</summary>

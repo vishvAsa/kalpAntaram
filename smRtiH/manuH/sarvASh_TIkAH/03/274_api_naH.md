@@ -39,39 +39,26 @@ But this is not right; as in that case, the term ‘elephant’ will have to ba 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Prākchāye kuñjarasya*’—‘In the afternoon, when the shadow cast by the
-elephant falls towards the East’ (Medhātithi, Kullūka, Nārāyaṇa and
-Rāghavānanda);—‘daring an eclipse’ (‘others’ in Medhātithi, who rejects
-it).—*Mitākṣarā* (on 1.218) quotes a definition by which the name
-applies to a particular day—
+‘*Prākchāye kuñjarasya*’—‘In the afternoon, when the shadow cast by the elephant falls towards the East’ (Medhātithi, Kullūka, Nārāyaṇa and Rāghavānanda);—‘daring an eclipse’ (‘others’ in Medhātithi, who rejects it).—*Mitākṣarā* (on 1.218) quotes a definition by which the name applies to a particular day—
 
 > yadenduḥ pitṛdaivatye haṃsaścaiva kare sthitaḥ \|  
 > yāmyāṃ tithirbhavetsāhi gajacchāyā prakīrtitā \|\|
 
 This verse is quoted in *Nirṇayasindhu* (p. 109), which quotes from
 *Vāyupurāṇa* a definition of ‘*Gajacchāyā*’ as the 13th day of the month
-during which the sun lies in the asterism of Hastā, and the moon in that
-of Maghā;—in *Hemādri* (Śrāddha, p. 245);—in *Śrāddhakriyākaumudī* (p.
-271), which explains ‘*dadyāt*’ as ‘*dadāti*’ and ‘*prākchāye etc*.’ as
-‘when the shadow of the elephant is cast towards the East,’ and notes
-that this is mere *Arthavāda*;—and in *Vaṛṣakriyākaumudī* (p. 355).
+during which the sun lies in the asterism of Hastā, and the moon in that of Maghā;—in *Hemādri* (Śrāddha, p. 245);—in *Śrāddhakriyākaumudī* (p. 271), which explains ‘*dadyāt*’ as ‘*dadāti*’ and ‘*prākchāye etc*.’ as ‘when the shadow of the elephant is cast towards the East,’ and notes that this is mere *Arthavāda*;—and in *Vaṛṣakriyākaumudī* (p. 355).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (13.88.12). \[after reproducing the first line of
-Manu\].—‘During the asterism of Maghā, during the Southern Sojourn of
-the sun, offering milk-preparations mixed with honey and butter.’
+Manu\].—‘During the asterism of Maghā, during the Southern Sojourn of the sun, offering milk-preparations mixed with honey and butter.’
 
 *Vaśiṣṭha* (11.37).—‘This person shall offer Śrāddha to us, during ṭhe
-rains and during the asterism of Maghā, with honey and meats,
-vegetables, milk and milk-preparations.’
+rains and during the asterism of Maghā, with honey and meats, vegetables, milk and milk-preparations.’
 
 *Viṣṇu* (78.52-53).—‘May some one, the best among men, be born in our
-family who, during the rains, on the thirteenth day of the brighter
-fortnight, perform Śrāddha with honey offered profusely; as also during
-the whole month of Kārtika, and when the Elephant’s shadow falls towards
-the East.’
+family who, during the rains, on the thirteenth day of the brighter fortnight, perform Śrāddha with honey offered profusely; as also during the whole month of Kārtika, and when the Elephant’s shadow falls towards the East.’
 </details>
 
 <details><summary>Bühler</summary>

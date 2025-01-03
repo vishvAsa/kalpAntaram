@@ -23,8 +23,7 @@ For reasons above described ‘*one should not sit alone*’—in a solitary roo
 **(verses 213-215)  
 **
 
-See Comparative notes for [Verse
-2.213].
+See Comparative notes for [Verse 2.213].
 </details>
 
 <details><summary>Bühler</summary>

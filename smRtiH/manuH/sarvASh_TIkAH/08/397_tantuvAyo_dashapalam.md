@@ -46,18 +46,13 @@ Others hold that the fine is to be paid to the king.—(397)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Dvādaśakam*’—‘*Twelve paṇas*’ (Kullūka and Medhātithi, who does not
-say ‘*palas*,’ as asserted by Buhler);—‘twelve times the value of the
-yarn’(Govindarāja);—‘one-twelth of the value of the yarn’ (Nārāyaṇa).
+‘*Dvādaśakam*’—‘*Twelve paṇas*’ (Kullūka and Medhātithi, who does not say ‘*palas*,’ as asserted by Buhler);—‘twelve times the value of the yarn’(Govindarāja);—‘one-twelth of the value of the yarn’ (Nārāyaṇa).
 
-This verse is quoted in *Aparārka*, (p. 785), which explains
-‘*dvādaśakam*’ as ‘fine consisting of 12 *kārṣāpaṇas*’;—and in
+This verse is quoted in *Aparārka*, (p. 785), which explains ‘*dvādaśakam*’ as ‘fine consisting of 12 *kārṣāpaṇas*’;—and in
 *Vivādaratnākara* (p. 311), which adds the following
-notes:—‘*Tantuvāya*,’ the weaver of cloth, having received 10 *palas* of
-yarn, shall, after weaving it, give to the owner cloth weighing 11
+notes:—‘*Tantuvāya*,’ the weaver of cloth, having received 10 *palas* of yarn, shall, after weaving it, give to the owner cloth weighing 11
 *palas*; otherwise acting,—*i.e*., having received 10 *palas* of yam, if
-he gives cloth weighing only 10 *palas*,—he should pay a fine. It adds
-that this rule refers to coarse yams.
+he gives cloth weighing only 10 *palas*,—he should pay a fine. It adds that this rule refers to coarse yams.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -65,18 +60,12 @@ that this rule refers to coarse yams.
 *Yājñavalkya* (2.179-180).—‘In the matter of woolen and cotton yarns, of
 the ordinary counts, the increase is 10 *Palas* per 100 *Palas*; it is 5
 *Palas* per 100, when the yarns are of the middling count; and 3 *Palas*
-per cent, in the case of very fine yarns. In the case of clothes that
-are embroidered, or worked with wool, the loss in weight is the
-thirtieth part; in the case of garments of silk or of bark, there is
-neither increase nor decrease.’
+per cent, in the case of very fine yarns. In the case of clothes that are embroidered, or worked with wool, the loss in weight is the thirtieth part; in the case of garments of silk or of bark, there is neither increase nor decrease.’
 
 *Nārada* (Aparārka, p. 784, and Vivādaratnākara, p. 312).—‘In the case
-of cotton and woolen cloth, there is an increase of 10 *Palas* per cent
-.; this in the case of thick yarns; in the case of yarns of middle
-counts it is 5 *Palas* per cent; and in that of fine yarns, it is only 3
+of cotton and woolen cloth, there is an increase of 10 *Palas* per cent .; this in the case of thick yarns; in the case of yarns of middle counts it is 5 *Palas* per cent; and in that of fine yarns, it is only 3
 *Palas* per cent. In the case of cloth that is embroidered or
-wool-worked, there is a decrease by the thirtieth part. In the case of
-cloth of silk or of bark, there is neither decrease nor increase.’
+wool-worked, there is a decrease by the thirtieth part. In the case of cloth of silk or of bark, there is neither decrease nor increase.’
 </details>
 
 <details><summary>भारुचिः</summary>

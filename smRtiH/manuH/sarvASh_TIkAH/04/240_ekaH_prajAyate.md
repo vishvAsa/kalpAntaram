@@ -37,15 +37,13 @@ True; but all that this mentis is that such a dutiful son is horn only to a pers
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 232);—and in *Vīramitrodaya*
-(Paribhāṣā, p. 64).
+This verse is quoted in *Aparārka* (p. 232);—and in *Vīramitrodaya* (Paribhāṣā, p. 64).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (Anuśāsana, 173.11).—‘O king, man is born alone, and alone
-he dies, alone by himself does he pass through difficulties, and by
-himself alone does he fall into misfortune.’
+he dies, alone by himself does he pass through difficulties, and by himself alone does he fall into misfortune.’
 </details>
 
 <details><summary>Bühler</summary>

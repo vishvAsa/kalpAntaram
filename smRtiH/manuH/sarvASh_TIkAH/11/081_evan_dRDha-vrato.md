@@ -28,16 +28,14 @@ This verse sums up what has gone before.—(81)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.244) as summing up the ‘twelve
-years’ penance.
+This verse is quoted in *Mitākṣarā* (3.244) as summing up the ‘twelve years’ penance.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 11.72-86)**
 
-See Comparative notes for [Verse
-11.72].
+See Comparative notes for [Verse 11.72].
 </details>
 
 <details><summary>Bühler</summary>

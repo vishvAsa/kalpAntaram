@@ -45,16 +45,9 @@ Other people have explained this rule regarding the time of ceasing as applying 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Nārāyaṇa and Nandana read ‘*adhyeṣyamāṇastu gurum etc*,’ which
-means—‘the pupil, proceeding to study, shall say to his Teacher etc.,
-etc.’
+Nārāyaṇa and Nandana read ‘*adhyeṣyamāṇastu gurum etc*,’ which means—‘the pupil, proceeding to study, shall say to his Teacher etc., etc.’
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 136), where the
-verse is explained to mean that—‘each day at the beginning of the
-teaching, the Teacher should begin the work with the word ‘*Ho! read*;’
-and at the end, should finish with the words ‘*Let there he a stop*;’
-and it adds that all this is to be done for the purpose of ‘pleasing
-God.’
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 136), where the verse is explained to mean that—‘each day at the beginning of the teaching, the Teacher should begin the work with the word ‘*Ho! read*;’ and at the end, should finish with the words ‘*Let there he a stop*;’ and it adds that all this is to be done for the purpose of ‘pleasing God.’
 
 The verse is quoted also in *Madanapārijāta* (p. 100);—in
 *Vidhānapārijāta* (p. 521);—in *Vīramitrodaya* (Saṃskāra, p. 514);—in
@@ -68,13 +61,10 @@ which explains *ārame* as ‘should desist from teaching.’
 he should address the request to him—*pray read*.’
 
 *Āpastamba-Dharmasūtra*, 1.3.10,13,15.—‘When one desirous of learning
-meets a learned man, he should obtain his permission and then proceed to
-read; and having approached near the teacher, he should read after
-having requested the teacher to *please read*.’
+meets a learned man, he should obtain his permission and then proceed to read; and having approached near the teacher, he should read after having requested the teacher to *please read*.’
 
 *Yama* (Vīramitrodaya-Saṃskāra, p. 514).—‘Regularly rising in the
-morning, he should cleanse his teeth, bathe, pour libations into fire;
-then the man should carry on teaching.’
+morning, he should cleanse his teeth, bathe, pour libations into fire; then the man should carry on teaching.’
 
 *Āpastamba* (Vīramitrodaya-Saṃskāra).—‘One should avoid teaching on the
 bed; he should never teach on the bed whereupon he sleeps.’

@@ -39,22 +39,17 @@ The sense of the verse thus is that—‘if one drops his manhood unintentionall
 ‘*Punarmām*’—“This verse occurs in *Taittirīya Āraṇyaka* 1. 30,”—Buhler.
 
 *Punarmāmaitvindriyam*—*Taittirīya Āraṇyaka* 1. 30. Such uses of texts
-are frequent in the later Vedic works; *e.g*. the *Sāmavidhāna Brāhmaṇa*
-and the several Ṛgvidhānas,”—Burnell.
+are frequent in the later Vedic works; *e.g*. the *Sāmavidhāna Brāhmaṇa* and the several Ṛgvidhānas,”—Burnell.
 
-This verse is quoted in *Parāśatramādhava* (Prāyaścitta, p. 394), as
-laying down what should be done by the Religious Student, in the event
-of a ‘wet dream—in *Madanapārijāta* (p. 39);—in *Aparārka* (p. 1141);—in
+This verse is quoted in *Parāśatramādhava* (Prāyaścitta, p. 394), as laying down what should be done by the Religious Student, in the event of a ‘wet dream—in *Madanapārijāta* (p. 39);—in *Aparārka* (p. 1141);—in
 *Smṛticandrikā* (Saṃskāra, p. 127) as showing that unintentional
-emission involves only an expiation;—and in *Prāyoscittaviveka* (p.
-462).
+emission involves only an expiation;—and in *Prāyoscittaviveka* (p. 462).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yama* (Aparārka, 11.41).—‘The Religious Student involuntarily emitting
-semen during a dream shall bathe, look at the Sun and repeat the Gāyatrī
-a hundred and eight times.’
+semen during a dream shall bathe, look at the Sun and repeat the Gāyatrī a hundred and eight times.’
 
 *Viṣṇu* (28.53)—(reproduces Manu’s words).
 </details>

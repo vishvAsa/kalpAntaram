@@ -28,8 +28,7 @@ Since Prajāpati has ordained all this to be ‘food’ in times of distress, al
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 527), as reiterative
-of what has gone before;—and in *Smṛtitattva* (p. 449).
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 527), as reiterative of what has gone before;—and in *Smṛtitattva* (p. 449).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

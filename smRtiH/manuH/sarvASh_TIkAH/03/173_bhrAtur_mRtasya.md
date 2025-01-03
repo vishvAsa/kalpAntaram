@@ -40,15 +40,9 @@ these definitions are not applicable to the present context (which might have ju
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-It is interesting to note that Medhātithi states that “some people have
-held that the present verse does not form part of the text at all.”
-(*Trans*, p. 194).
+It is interesting to note that Medhātithi states that “some people have held that the present verse does not form part of the text at all.” (*Trans*, p. 194).
 
-This verse is quoted in *Aparārka* (p. 452) as providing a definition of
-‘*didhiṣūpati*’ as distinct from that provided by *Devala*, according to
-whom he is the husband of the girl whose younger sister is married
-before her;—and it adds that the implication of the definition itself is
-that such a person is to be excluded.
+This verse is quoted in *Aparārka* (p. 452) as providing a definition of ‘*didhiṣūpati*’ as distinct from that provided by *Devala*, according to whom he is the husband of the girl whose younger sister is married before her;—and it adds that the implication of the definition itself is that such a person is to be excluded.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

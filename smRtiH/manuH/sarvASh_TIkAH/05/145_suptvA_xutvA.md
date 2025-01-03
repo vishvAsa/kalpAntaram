@@ -38,20 +38,9 @@ As for the following declaration—^(‘)Having slept, having sneezed, having ea
 
 *Cf* 2.70.
 
-This verse is quoted in *Aparārka* (p. 1139), which adds that the
-‘water-sipping’ here laid down for lying is to be combined with the
-repeating of the *Gāyatrī*—the water-sipping removing the uncleanliness
-and the *Gāyatrī* removing
+This verse is quoted in *Aparārka* (p. 1139), which adds that the ‘water-sipping’ here laid down for lying is to be combined with the repeating of the *Gāyatrī*—the water-sipping removing the uncleanliness and the *Gāyatrī* removing
 
-the sin;—in *Mitākṣarā* (on 1.196);—in *Vīramitrodaya* (Āhnika, p. 115),
-which notes that though this verse clearly implies that water-sipping is
-not done for the purpose of removing impurity, yet it is absolutely
-necessary, whenever one eats or drinks;—in *Parāśaramādhava* (Ācāra, p.
-224);—in *Parāśaramādhava* (Prāyaścitta, p. 423), which says that this
-refers to unintentional lying;—in *Vīramitrodaya* (Saṃskāra, p. 523),
-which adds that ‘*prayatopi*’ means ‘though he may have already
-washed’;—and in *Śuddhikaumudī* (p. 349), which explains
-‘*Adhyeṣyamāṇaḥ*’ as ‘going to read.’
+the sin;—in *Mitākṣarā* (on 1.196);—in *Vīramitrodaya* (Āhnika, p. 115), which notes that though this verse clearly implies that water-sipping is not done for the purpose of removing impurity, yet it is absolutely necessary, whenever one eats or drinks;—in *Parāśaramādhava* (Ācāra, p. 224);—in *Parāśaramādhava* (Prāyaścitta, p. 423), which says that this refers to unintentional lying;—in *Vīramitrodaya* (Saṃskāra, p. 523), which adds that ‘*prayatopi*’ means ‘though he may have already washed’;—and in *Śuddhikaumudī* (p. 349), which explains ‘*Adhyeṣyamāṇaḥ*’ as ‘going to read.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -62,31 +51,22 @@ water.’
 *Āpastamba* (1.16.14).—‘On touching during sleep or sternutation, the
 effluvia of the nose or the eyes, or touching
 
-blood, hair, fire, kine, a Brāhmaṇa or a woman, and after having walked
-on the high road, and after having touched an impure thing or man, and
-after having put on his lower garment, he shall either bathe or sip or
-merely touch water.’
+blood, hair, fire, kine, a Brāhmaṇa or a woman, and after having walked on the high road, and after having touched an impure thing or man, and after having put on his lower garment, he shall either bathe or sip or merely touch water.’
 
 *Vaśiṣṭha* (3.38).—‘If, after having sipped water, he sleeps, eats,
-sneezes, drinks, weeps or bathes, or puts on a dress, he must again sip
-water.’
+sneezes, drinks, weeps or bathes, or puts on a dress, he must again sip water.’
 
 *Viṣṇu* (22.75)—‘Having sneezed, slept, and eaten, or going to eat and
-to study, or having drunk water, bathed, spat, or having put on his
-garment, walked on the high road, discharged urine or faeces, touched
-dry hone of five-toed animals—he must sip water.’
+to study, or having drunk water, bathed, spat, or having put on his garment, walked on the high road, discharged urine or faeces, touched dry hone of five-toed animals—he must sip water.’
 
 *Gobhila* (1.2.33).—‘Having slept or eaten or sneezed or taken a bath or
-drunk something or changed his garments or walked on the high road or
-gone to a crematorium,—he should sip water again and again.’
+drunk something or changed his garments or walked on the high road or gone to a crematorium,—he should sip water again and again.’
 
 *Yājñavalkya* (1.196).—‘Having bathed or drunk, or sneezing or sleeping
-or passing along the road, or after putting on a garment, he shall sip
-water again, even though he may have already sipped water.’
+or passing along the road, or after putting on a garment, he shall sip water again, even though he may have already sipped water.’
 
 *Baudhāyana* (Aparārka, p. 278).—‘On the cloth-knot becoming loose, if
-he re-ties it, he shall sip water; or he may touch moist earth, cowdung
-or grass.’
+he re-ties it, he shall sip water; or he may touch moist earth, cowdung or grass.’
 
 *Āpastamba* (Do.).—‘When going to eat, he shall sip water.’
 
@@ -99,23 +79,16 @@ a road-crossing, he shall sip water again.’
 *Hārīta* (Do., p. 279).—‘When going to sleep, he shall sip water.’
 
 *Parāśara* (Aparārka, p. 780).—‘On sneezing, or spitting, or
-food-remnant adhering to the teeth, on lying, and on conversing with
-outcasts, one shall touch the right car.’
+food-remnant adhering to the teeth, on lying, and on conversing with outcasts, one shall touch the right car.’
 
 *Vṛddha-Śātātapa* (Aparārka, p. 780).—‘On passing wind, having spat, on
-throwing out a tooth, on sneezing, and on conversing with an outcast,
-one shall touch the right ear.’
+throwing out a tooth, on sneezing, and on conversing with an outcast, one shall touch the right ear.’
 
 *Bṛhaspati* (Parāśaramādhava-Ācāra, p. 224).—‘On passing wind, on
-weeping, on becoming angry, on touching a cat or a rat, on laughing, on
-lying, one should sip water.’
+weeping, on becoming angry, on touching a cat or a rat, on laughing, on lying, one should sip water.’
 
 *Kūrmapurāṇa* (Do., p. 225).—‘After having taken his food, he shall sip
-water twice; on touching his hairless lips, on putting on clothes, on
-passing semen, faeces or urine, on improper speaking, on yawning, when
-going to study, on the approach of an asthmatic ñt, on passing through a
-road-crossing or a crematorium,—and also during the two twilights,—the
-Brāhmaṇa shall sip water, even though he may have sipped it already.’
+water twice; on touching his hairless lips, on putting on clothes, on passing semen, faeces or urine, on improper speaking, on yawning, when going to study, on the approach of an asthmatic ñt, on passing through a road-crossing or a crematorium,—and also during the two twilights,—the Brāhmaṇa shall sip water, even though he may have sipped it already.’
 </details>
 
 <details><summary>Bühler</summary>

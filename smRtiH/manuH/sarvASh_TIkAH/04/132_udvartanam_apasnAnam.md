@@ -28,13 +28,9 @@ He shall not intentionally stand upon unguent-powder, or upon used water, or on 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Apasnānam*’—‘Water that has been used already’ (Medhātithi);—‘water
-used for washing a corpse’ (Nārāyaṇa and Nandana).
+‘*Apasnānam*’—‘Water that has been used already’ (Medhātithi);—‘water used for washing a corpse’ (Nārāyaṇa and Nandana).
 
-This verse has been quoted in *Aparārka* (p. 183);—in *Vīramitrodaya*
-(Saṃskāra, p. 576), which explains ‘*apasnānam*’ as ‘water that drops
-from the body when one is bathing,’—‘*niṣṭhyūtam*’ as ‘spittings’;—and
-in *Smṛtisāroddhāra* (p. 321).
+This verse has been quoted in *Aparārka* (p. 183);—in *Vīramitrodaya* (Saṃskāra, p. 576), which explains ‘*apasnānam*’ as ‘water that drops from the body when one is bathing,’—‘*niṣṭhyūtam*’ as ‘spittings’;—and in *Smṛtisāroddhāra* (p. 321).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

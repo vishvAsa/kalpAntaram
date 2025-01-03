@@ -27,9 +27,7 @@ What are referred to here are such things as Musical Sounds and the like which t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in the Vīramitrodaya—Paribhāṣā, p. 45, which reads
-‘*saktim*’, and explains ‘*viṣayeṣu aprasaktim*’ as ‘control, of the
-senses;’ and in the *Nṛsiṃhaprasāda*, *Saṃskāra*, p. 73*b*.
+This verse is quoted in the Vīramitrodaya—Paribhāṣā, p. 45, which reads ‘*saktim*’, and explains ‘*viṣayeṣu aprasaktim*’ as ‘control, of the senses;’ and in the *Nṛsiṃhaprasāda*, *Saṃskāra*, p. 73*b*.
 </details>
 
 <details><summary>Bühler</summary>

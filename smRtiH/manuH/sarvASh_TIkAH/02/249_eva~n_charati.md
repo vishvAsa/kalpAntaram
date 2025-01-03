@@ -32,8 +32,7 @@ The Brāhmaṇa who thus keeps his studentship unflinchingly, goes to the highes
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Mānyā kāpi etc*.’—This does not form part of the text of Medhātithi
-This has been added by a subsequent ‘Editor.’
+‘*Mānyā kāpi etc*.’—This does not form part of the text of Medhātithi This has been added by a subsequent ‘Editor.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

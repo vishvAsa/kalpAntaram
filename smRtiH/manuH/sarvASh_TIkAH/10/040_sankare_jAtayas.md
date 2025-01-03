@@ -29,8 +29,7 @@ In the case of the ‘*Āyogavī*,’ the description was through the caste of t
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

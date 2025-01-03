@@ -85,15 +85,9 @@ But these people say what is not reasonable; because the present text refers to 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The second half of this verse has been taken as a corruption of the line
-“nirindriyā adāyādāḥ sthiyo (?) nityamiti sthitiḥ”. Hopkins
-remarks:—“This is supported by the sūtras; *cf*. the text and quotations
-given by Mandlik, *Mayūkha*, 2.366-367; also Baudhāyana, 2.3.46.”
+The second half of this verse has been taken as a corruption of the line “nirindriyā adāyādāḥ sthiyo (?) nityamiti sthitiḥ”. Hopkins remarks:—“This is supported by the sūtras; *cf*. the text and quotations given by Mandlik, *Mayūkha*, 2.366-367; also Baudhāyana, 2.3.46.”
 
-This verse is quoted in *Vivādaratnākara* (p. 412), which adds the
-following notes ‘*Nirindriyāḥ*,’ devoid of the faculties conducive to
-steadiness, truthfulness and so forth;—“*strīyonṛtam*,” women are called
-‘untruth’ in the sense of bang addicted *to lying*,— and in
+This verse is quoted in *Vivādaratnākara* (p. 412), which adds the following notes ‘*Nirindriyāḥ*,’ devoid of the faculties conducive to steadiness, truthfulness and so forth;—“*strīyonṛtam*,” women are called ‘untruth’ in the sense of bang addicted *to lying*,— and in
 *Vīramitrodaya* (Vyavahāra, 158b).
 </details>
 
@@ -107,8 +101,7 @@ steadiness, truthfulness and so forth;—“*strīyonṛtam*,” women are calle
 *Baudhāyana* (1.11.7).—‘Women are considered to have no business with
 the sacred texts.’
 
-Do. (2.3.56).—‘The Veda declares that women are considered to be
-destitute of strength and portion.’
+Do. (2.3.56).—‘The Veda declares that women are considered to be destitute of strength and portion.’
 
 *Śukranīti* (4.4.9-10).—‘The woman and the Śūdra shall never recite
 *mantras*.’

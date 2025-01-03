@@ -45,8 +45,7 @@ This verse is quoted in *Virāmitrodaya* (Rājanīti, p. 177);—and in
 **(verses 7.54-55)  
 **
 
-See Comparative notes for [Verse
-7.54].
+See Comparative notes for [Verse 7.54].
 </details>
 
 <details><summary>भारुचिः</summary>

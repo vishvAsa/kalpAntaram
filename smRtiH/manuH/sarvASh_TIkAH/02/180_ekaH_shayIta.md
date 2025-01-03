@@ -26,26 +26,20 @@ Next follows a commendatory statement—‘*Intentionally, etc*.’ ‘*Intentio
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 39), which explains
-‘*Vratam*’ as ‘*brahmacharyam*’;—in *Vīramitrodaya* (Saṃskāra, p.
-496);—only the first half in *Parāśaramādhava* (Ācāra, p. 456);—in
+This verse is quoted in *Madanapārijāta* (p. 39), which explains ‘*Vratam*’ as ‘*brahmacharyam*’;—in *Vīramitrodaya* (Saṃskāra, p. 496);—only the first half in *Parāśaramādhava* (Ācāra, p. 456);—in
 *Nṛsiṃhaprasāda* (Saṃskāra, p. 46b);—and in *Smṛticandrikā* (Saṃskāra,
-p. 127), which explains ‘*vratam*’ as the vow of
-Studentship;—unintentional emission involves only an expiation, and not
-a breach of the vow.
+p. 127), which explains ‘*vratam*’ as the vow of Studentship;—unintentional emission involves only an expiation, and not a breach of the vow.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (28.48).—‘Those Vedic Scholars who know Dharma have declared
-that in the case of the Brāhmaṇa under vow of studentship, intentional
-emission is a transgression.’
+that in the case of the Brāhmaṇa under vow of studentship, intentional emission is a transgression.’
 
 *Gobhila Gṛhyasūtra* (2.26).—‘He should avoid giving vent to his organ.’
 
 *Yama* (Vīramitrodaya-Saṃskāra, p. 496).—‘Sitting and sleeping on a
-couch and teeth-cleansing should be avoided; he should sleep alone, on
-kuśa-grass, and should never emit his semen anywhere.’
+couch and teeth-cleansing should be avoided; he should sleep alone, on kuśa-grass, and should never emit his semen anywhere.’
 </details>
 
 <details><summary>Bühler</summary>

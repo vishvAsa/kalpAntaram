@@ -30,8 +30,7 @@ While lying upon his head, he should not place the fire-pan underneath it. ‘*U
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 1.137);—and in *Aparārka* (p.
-181).
+This verse is quoted in *Mitākṣarā* (on 1.137);—and in *Aparārka* (p. 181).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -36,8 +36,7 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574).
 **(verses 4.182-185)  
 **
 
-See Comparative notes for [Verse
-4.182].
+See Comparative notes for [Verse 4.182].
 </details>
 
 <details><summary>Bühler</summary>

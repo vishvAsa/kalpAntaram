@@ -30,21 +30,15 @@ The term ‘*dakṣiṇā*’ here stands for *gift*.—(141)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Paiśācī*’—‘Gift of devils;—*i.e*., offered in the manner of devils’
-(Medhātithi, Govindarāja, Kullūka, and Rāghavānanda);—‘offered to
-devils’ (Nārāyaṇa and Nandana).
+‘*Paiśācī*’—‘Gift of devils;—*i.e*., offered in the manner of devils’ (Medhātithi, Govindarāja, Kullūka, and Rāghavānanda);—‘offered to devils’ (Nārāyaṇa and Nandana).
 
-Hopkins traces the origin of verses 138 to 141 to certain verses of the
-Mahābhārata: Verse 140 corresponds to 13.90.42 of the Mahābhārata; verse
-138 to 13.90.43; verse 142 to 13.90.44; verse 141 to 13.90.46 of the
-Mahābhārata.
+Hopkins traces the origin of verses 138 to 141 to certain verses of the Mahābhārata: Verse 140 corresponds to 13.90.42 of the Mahābhārata; verse 138 to 13.90.43; verse 142 to 13.90.44; verse 141 to 13.90.46 of the Mahābhārata.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (Anuśāsana, 90.46).—‘A convivial dinner is the *Devil’s
-Gift*; it reaches neither the gods nor Pitṛs; devoid of virtue, it
-wanders about in this world.’
+Gift*; it reaches neither the gods nor Pitṛs; devoid of virtue, it wanders about in this world.’
 
 *Āpastamba-Dharmasūtra* (2.17.7).—\[Reproduces the above with one slight
 verbal variation.\]

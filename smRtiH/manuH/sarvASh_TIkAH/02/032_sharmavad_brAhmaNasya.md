@@ -62,14 +62,9 @@ of the four caste-names;—also in *Vidhānapārijāta* (p. 309);—and in
 *Parāśaramādḥava* (Ācāra, p. 441) quoting the verse explains it to mean
 that ‘*śarman*’ must be the suffixed word to the Brāhmaṇa’s name.
 
-Nārayaṇa and Rāghavānanda opine that the name of the Brāhmaṇa must
-always contain the word ‘śarman’ itself. But Medhātithi and several
-others hold that the name should connote what is connoted by the term
-‘*śarman*.’
+Nārayaṇa and Rāghavānanda opine that the name of the Brāhmaṇa must always contain the word ‘śarman’ itself. But Medhātithi and several others hold that the name should connote what is connoted by the term ‘*śarman*.’
 
-The present day practice, however, follows the former
-explanation—‘*śarman*’.being regarded now as the suffixed title to every
-Brāhmaṇa’s name.
+The present day practice, however, follows the former explanation—‘*śarman*’.being regarded now as the suffixed title to every Brāhmaṇa’s name.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -78,21 +73,12 @@ Brāhmaṇa’s name.
 the Kṣatriya, *Gupta* for the Vaiśya.’
 
 *Vyāsa-Smṛti* (Vīramitrodaya-Saṃskāra, p. 213).—‘*Śarma* is the name
-commended for the Brāhmaṇa, *Varma* for the Kṣatriya, *Gupta* for the
-Vaiśya, and *Dāsa* for the Śūdra.’
+commended for the Brāhmaṇa, *Varma* for the Kṣatriya, *Gupta* for the Vaiśya, and *Dāsa* for the Śūdra.’
 
 *Yama-Smṛti* (Do.).—‘*Śarma* and *Deva* for the Brāhmaṇa, *Rājā* for the
 Kṣatriya, *Gupta* and *Datta* for the Vaiśya and *Dāsa* for the Śūdra.
 
-These titles have been thus explained by Āśvalāyanāchārya:—‘The name of
-the Brāhmaṇa should end with *Śarma* because he imparts *Śarma*
-(happiness) to the world through his religious character, calmness and
-self-control; that of the Kṣatriya should end with *Varmā*, because like
-the *Varma* (armour), he protects the world from the three kinds of
-pain; that of the Vaiśya should end with *Gupta*, because he fosters
-(*gopāyati*) the people by giving them money at certain times; that of
-the Śūdra should end with *Dāsa*, because he keeps the twice-born people
-satisfied by constant service.’
+These titles have been thus explained by Āśvalāyanāchārya:—‘The name of the Brāhmaṇa should end with *Śarma* because he imparts *Śarma* (happiness) to the world through his religious character, calmness and self-control; that of the Kṣatriya should end with *Varmā*, because like the *Varma* (armour), he protects the world from the three kinds of pain; that of the Vaiśya should end with *Gupta*, because he fosters (*gopāyati*) the people by giving them money at certain times; that of the Śūdra should end with *Dāsa*, because he keeps the twice-born people satisfied by constant service.’
 </details>
 
 <details><summary>Bühler</summary>

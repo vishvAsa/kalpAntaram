@@ -34,10 +34,7 @@ Those attended to by ‘*Brāhmaṇa-householders*’;—as has been declared un
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Brāhmaṇaiḥ gṛhasthaiḥ*’—Medhātithi takes the two together, in the
-sense of ‘Brāhmaṇa-householders’;—Kullūka and Govindarāja take them
-separately, in the sense of ‘(1) sages knowing the Brahman and (2)
-hermits.’
+‘*Brāhmaṇaiḥ gṛhasthaiḥ*’—Medhātithi takes the two together, in the sense of ‘Brāhmaṇa-householders’;—Kullūka and Govindarāja take them separately, in the sense of ‘(1) sages knowing the Brahman and (2) hermits.’
 
 This verse is quoted in *Aparārka* (p. 943).
 </details>

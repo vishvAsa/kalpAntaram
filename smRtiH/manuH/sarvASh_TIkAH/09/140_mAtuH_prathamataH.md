@@ -41,23 +41,16 @@ In accordance with this view there would be no offering laid down for the matern
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 563);—in *Aparārka* (p.
-435), as referring to the case of the ‘grandson’ whose mother herself
-had been an ‘appointed daughter’ in the sense that she herself was made
-a ‘son’; in *Madanapārijāta* (p. 609);—and in *Vīramitrodaya* (Vyavahāra
-185b).
+This verse is quoted in *Vivādaratnākara* (p. 563);—in *Aparārka* (p. 435), as referring to the case of the ‘grandson’ whose mother herself had been an ‘appointed daughter’ in the sense that she herself was made a ‘son’; in *Madanapārijāta* (p. 609);—and in *Vīramitrodaya* (Vyavahāra 185b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-See texts under
-[132]
-and
-[136].
+See texts under [132]
+and [136].
 
 *Baudhāyana* (2.3.16).—‘They quote the following:—“The son of an
-Appointed Daughter offers the first funeral cake to his mother, the
-second to her father and the third to his father’s father.”’
+Appointed Daughter offers the first funeral cake to his mother, the second to her father and the third to his father’s father.”’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -30,8 +30,7 @@ For this reason the King should prevent such caste-confusions.
 **(verses 10.57-61)  
 **
 
-See Comparative notes for [Verse
-10.57].
+See Comparative notes for [Verse 10.57].
 </details>
 
 <details><summary>भारुचिः</summary>

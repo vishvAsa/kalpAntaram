@@ -52,22 +52,15 @@ For these reasons, if a man guards his wife, he preserves all these—(7).
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Kulam*’—‘Ancestors who can obtain offerings only from legitimate
-descendants’ (Medhātithi, Govindarāja and Kullūka);—‘relatives, who are
-dishonoured by ladies of the family misbehaving’ (Medhātithi,
-alternatively, and Rāghavā nanda);—‘position of the family’
-(Nārāyaṇa);—‘property’ (Rāghavānanda).
+‘*Kulam*’—‘Ancestors who can obtain offerings only from legitimate descendants’ (Medhātithi, Govindarāja and Kullūka);—‘relatives, who are dishonoured by ladies of the family misbehaving’ (Medhātithi, alternatively, and Rāghavā nanda);—‘position of the family’ (Nārāyaṇa);—‘property’ (Rāghavānanda).
 
 ‘*Ātmānam*’—‘Himself,’ ‘as only legitimate children can offer
 *Śrāddhas*’ (Govindarāja, Kullūka and Rāghavānanda);—‘because an
 adultress and her paramour may attempt his life’ (Medhātithi).
 
-‘*Dharmam*’—‘Tending of the sacred fires, to which the husband of an
-adultress is not entitled’ (Govindarāja, Kullūka and Rāghavānanda);—‘the
-duties of the Householder’ (Nārāyaṇa).
+‘*Dharmam*’—‘Tending of the sacred fires, to which the husband of an adultress is not entitled’ (Govindarāja, Kullūka and Rāghavānanda);—‘the duties of the Householder’ (Nārāyaṇa).
 
-This verse is quoted in *Vivādaratnākara* (p. 411);—in *Parāśaramādhava*
-(Vyavahāra, p. 323);—in *Kṛtyasārasamuccaya* (p. 987);—and in
+This verse is quoted in *Vivādaratnākara* (p. 411);—in *Parāśaramādhava* (Vyavahāra, p. 323);—in *Kṛtyasārasamuccaya* (p. 987);—and in
 *Nṛsiṃhaprasāda* (Vyavahāra, 32a).
 </details>
 
@@ -76,8 +69,7 @@ This verse is quoted in *Vivādaratnākara* (p. 411);—in *Parāśaramādhava*
 **(verses 9.5-7)  
 **
 
-See Comparative notes for [Verse
-9.5].
+See Comparative notes for [Verse 9.5].
 </details>
 
 <details><summary>भारुचिः</summary>

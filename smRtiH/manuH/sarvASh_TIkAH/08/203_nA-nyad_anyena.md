@@ -59,26 +59,17 @@ Others, however, hold that since that penalty is laid down in another context, t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Tirohitam*’—‘Concealed’—‘in cloth or some such cover’ (Medhātithi and
-Nārāyaṇa),—‘in the earth’ (Nandana),—‘covered with paint’ (Govindarāja,
-Kullūka and Rāghavānanda).
+‘*Tirohitam*’—‘Concealed’—‘in cloth or some such cover’ (Medhātithi and Nārāyaṇa),—‘in the earth’ (Nandana),—‘covered with paint’ (Govindarāja, Kullūka and Rāghavānanda).
 
 This verse is quoted in *Vivādaratnākara* (p. 199), which reads
 *saṃsṛṣṭam rūpam* for ‘*saṃsṛṣṭarūpam*’ and adds the following
-notes:—‘*Anyat*’, saffron and such costly tilings,—‘*anyena*’ the
-Kusumbha flower and such cheaper tilings,—‘*saṃsṛṣṭam*,’
-adulterated,—‘*rūpam*,’ commodity,—‘*sāvadyam*,’ defective,—this last is
-meant to include all defects other than those just
-specified;—‘*nyūnam*,’ less in weight—‘*dure*,’ being at a distance and
-hence incapable of having its defects detected,—‘*tirohitam*,’ covered
-by cloth or some such thing;—and in *Kṛtyakalpataru* (110a).
+notes:—‘*Anyat*’, saffron and such costly tilings,—‘*anyena*’ the Kusumbha flower and such cheaper tilings,—‘*saṃsṛṣṭam*,’ adulterated,—‘*rūpam*,’ commodity,—‘*sāvadyam*,’ defective,—this last is meant to include all defects other than those just specified;—‘*nyūnam*,’ less in weight—‘*dure*,’ being at a distance and hence incapable of having its defects detected,—‘*tirohitam*,’ covered by cloth or some such thing;—and in *Kṛtyakalpataru* (110a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (2.245).—‘In the sale of medicines, oils, salts, perfumes,
-grains, molasses and such things, if the vendor mixes inferior stuff, he
-shall be fined 16 *Paṇas*.’
+grains, molasses and such things, if the vendor mixes inferior stuff, he shall be fined 16 *Paṇas*.’
 
 *Katyāyana* (Aparārka, p. 776).—‘One should make a purchase and pay its
 price openly.’

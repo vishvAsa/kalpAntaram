@@ -27,15 +27,9 @@ The confiscation of property laid down above (under 231) was in connection with 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“Medhātithi and Kullūka think that the rule refers to cases where the
-cause of the unjust decision is not a bribe, because the punishment of
-corrupt judges has been prescribed above, verse 231;—But Nārāyaṇa and
-Rāghavānanda think that it applies to cases of bribery also, and that
-the fine shall vary according to the nature of the case, 1,000 *Paṇas*
-being the lowest punishment.”—Buhler.
+“Medhātithi and Kullūka think that the rule refers to cases where the cause of the unjust decision is not a bribe, because the punishment of corrupt judges has been prescribed above, verse 231;—But Nārāyaṇa and Rāghavānanda think that it applies to cases of bribery also, and that the fine shall vary according to the nature of the case, 1,000 *Paṇas* being the lowest punishment.”—Buhler.
 
-This verse is quoted in *Kṛtyakalpataru* (65a);—and in *Vīramitrodaya*
-(Vyavahāra 38b).
+This verse is quoted in *Kṛtyakalpataru* (65a);—and in *Vīramitrodaya* (Vyavahāra 38b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -43,8 +37,7 @@ This verse is quoted in *Kṛtyakalpataru* (65a);—and in *Vīramitrodaya*
 **(verses 9.233-234)  
 **
 
-See Comparative notes for [Verse
-9.234]
+See Comparative notes for [Verse 9.234]
 </details>
 
 <details><summary>भारुचिः</summary>

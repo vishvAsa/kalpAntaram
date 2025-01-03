@@ -52,36 +52,15 @@ In the former explanation, the creditor shall not have recourse to ‘trick’ o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vyavahāreṇa*’.—‘By business-transaction: advancing more money to the
-debtor with which, as capital, the latter would carry on some trade,
-with the profits of which he would gradually clear off the older debt
-also’ (Medhātithi);—‘by law-suit’ (Govindarāja, Kullūka and Narāyāṇa;
-noted but rejected by Medhātithi);—‘by threatening a suit’
-(Nandana);—‘by forced sale of property’ (Rāghavānanda).
+‘*Vyavahāreṇa*’.—‘By business-transaction: advancing more money to the debtor with which, as capital, the latter would carry on some trade, with the profits of which he would gradually clear off the older debt also’ (Medhātithi);—‘by law-suit’ (Govindarāja, Kullūka and Narāyāṇa; noted but rejected by Medhātithi);—‘by threatening a suit’ (Nandana);—‘by forced sale of property’ (Rāghavānanda).
 
-Both Buhler and Hopkins represent Medhātithi as explaining this term to
-mean ‘forced labour’. But there is nothing in Medhātithi to show this.
-What Medhātithi means is quite clear, and it is made clearer by the
-illustration given by him of ‘*karṇodaka*’; it is a common practice in
-India that when water gets into the ear and cannot be easily got out,
-people pour more water into it, and along with this latter, the former
-water also flows out.
+Both Buhler and Hopkins represent Medhātithi as explaining this term to mean ‘forced labour’. But there is nothing in Medhātithi to show this. What Medhātithi means is quite clear, and it is made clearer by the illustration given by him of ‘*karṇodaka*’; it is a common practice in India that when water gets into the ear and cannot be easily got out, people pour more water into it, and along with this latter, the former water also flows out.
 
-This verse is quoted in and *Aparārka* (p. 645), which adds the
-following notes:—‘*dharma*:’ is ‘truth’,—‘*vyavahāra*’, stands for such
-evidence as is documentary, oral and so forth,—‘*chala*’ is
+This verse is quoted in and *Aparārka* (p. 645), which adds the following notes:—‘*dharma*:’ is ‘truth’,—‘*vyavahāra*’, stands for such evidence as is documentary, oral and so forth,—‘*chala*’ is
 *trick*,—‘*ācaritam*,’ ‘custom of the country’,—‘*balam*’ means
 oppression by starving and so forth.
 
-It is quoted in *Vivādaratnākara* (p. 67);—and in *Mitākṣarā* (on 2.40),
-which adds the following notes:—‘*dharmeṇa*,’ *i.e*., ‘by truthful
-persuasion’,—‘*vyavahāreṇa*’, *i.e*., ‘by adducing witnesses, documents
-and other kinds of evidence’,—‘*chalena*’, *i.e*., borrowing from him
-ornaments and other things under the pretext of some ceremonies &c. in
-the family,—‘*ācaritena*’, *i.e*., by starving,—the fifth method being
-the application of ‘*bala*’, force, in the shape of keeping him chained
-and so forth;—by these methods is the creditor to recover the money that
-he had advanced on interest.
+It is quoted in *Vivādaratnākara* (p. 67);—and in *Mitākṣarā* (on 2.40), which adds the following notes:—‘*dharmeṇa*,’ *i.e*., ‘by truthful persuasion’,—‘*vyavahāreṇa*’, *i.e*., ‘by adducing witnesses, documents and other kinds of evidence’,—‘*chalena*’, *i.e*., borrowing from him ornaments and other things under the pretext of some ceremonies &c. in the family,—‘*ācaritena*’, *i.e*., by starving,—the fifth method being the application of ‘*bala*’, force, in the shape of keeping him chained and so forth;—by these methods is the creditor to recover the money that he had advanced on interest.
 
 It is quoted in *Parāśaramādhava* (Vyavahāra, p. 191);—in
 *Nṛsiṃhaprasāda* (Vyavahāra, p. 19a);—and in *Kṛtyakalpataru* (78b).
@@ -92,29 +71,17 @@ It is quoted in *Parāśaramādhava* (Vyavahāra, p. 191);—in
 *Nārada* (4.122).—(Same as Manu.)
 
 *Kātyāyana* (Vivādaratnākara, p. 67).—‘When the debtor is openly
-arrested and brought before the assembly of men and kept there till he
-pays—this, being in consonance with the custom of the country, is called
+arrested and brought before the assembly of men and kept there till he pays—this, being in consonance with the custom of the country, is called
 *Legal Proceedings*. By beating, by arresting, by work, by law-suit, and
-first of all, by peaceful persuasion,—should the creditor obtain
-repayment of his dues.’
+first of all, by peaceful persuasion,—should the creditor obtain repayment of his dues.’
 
 *Nārada* (1.122).—‘By the mode consonant with religion, by legal
-proceedings, by fraud, by customary mode, and fifthly, by force, a
-creditor may recover what he has lent.’
+proceedings, by fraud, by customary mode, and fifthly, by force, a creditor may recover what he has lent.’
 
 *Bṛhaspati* (11.54 *et seq*.).—‘When a debtor has admitted a debt, it
-may he recovered from him by the expedients of friendly expostulation,
-by moral suasion, by artful management, by compulsion and by confinement
-in the house. When a debtor is caused to pay by the advice of friends
-and kinsmen, by friendly remonstrances, by constant following, or by the
-creditor starving himself, it is termed *Moral Suasion*. When a creditor
-with a crafty design, borrows something from the debtor and withholds it
-as a pledge, and thereby enforces payment of the debt, it is termed
+may he recovered from him by the expedients of friendly expostulation, by moral suasion, by artful management, by compulsion and by confinement in the house. When a debtor is caused to pay by the advice of friends and kinsmen, by friendly remonstrances, by constant following, or by the creditor starving himself, it is termed *Moral Suasion*. When a creditor with a crafty design, borrows something from the debtor and withholds it as a pledge, and thereby enforces payment of the debt, it is termed
 *Artful Management*;—when the debtor is fettered and conducted to the
-creditor’s house, where he is compelled by beating and other forcible
-means, to pay the debt, it is called *Compulsion*;—when the debtor is
-made to pay by confining his son, wife, or cattle, or by sitting at his
-door, it is termed *Confinement in the* *House*.’
+creditor’s house, where he is compelled by beating and other forcible means, to pay the debt, it is called *Compulsion*;—when the debtor is made to pay by confining his son, wife, or cattle, or by sitting at his door, it is termed *Confinement in the* *House*.’
 </details>
 
 <details><summary>भारुचिः</summary>

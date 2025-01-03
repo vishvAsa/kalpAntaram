@@ -28,33 +28,20 @@ The Religious Student, being pure, should fetch alms daily from the houses of pe
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 453) in support of
-the view that alms are to be begged only from ‘praiseworthy’ persons;—in
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 453) in support of the view that alms are to be begged only from ‘praiseworthy’ persons;—in
 *Vīramitrodaya* (Saṃskāra, p. 381), as laying down the special
-qualifications of the Brāhmaṇas from whom the Brāhmaṇa Student is to beg
-alms;—and in *Vidhānapārijāta* (p. 496) in support of the view that even
-among people of his own caste, alms should be begged only from the
-houses of specially qualified men.
+qualifications of the Brāhmaṇas from whom the Brāhmaṇa Student is to beg alms;—and in *Vidhānapārijāta* (p. 496) in support of the view that even among people of his own caste, alms should be begged only from the houses of specially qualified men.
 
 This is quoted in *Aparārka* (p. 59);—in *Saṃskāramayūkha* (p. 60);—in
 *Saṃskāraratnamālā* (p.
 
-288), which adds the following notes:—Those who are not devoid of the
-knowledge of one or two or three Vedas,—those who have not omitted to
-perform the sacrifices,—and those who are carrying out in a praiseworthy
-manner all the duties prescribed for them,—from the house of such
-parsons, the Brahmacārī—ha who is keeping the vows for the sake of Vedic
-study—keeping all the restraints and observances—should daily obtain
-‘alms’—‘*bhaikṣam*’ being a collective noun;—and in *Smṛticandrikā*
-(Saṃskāra, p. 109).
+288), which adds the following notes:—Those who are not devoid of the knowledge of one or two or three Vedas,—those who have not omitted to perform the sacrifices,—and those who are carrying out in a praiseworthy manner all the duties prescribed for them,—from the house of such parsons, the Brahmacārī—ha who is keeping the vows for the sake of Vedic study—keeping all the restraints and observances—should daily obtain ‘alms’—‘*bhaikṣam*’ being a collective noun;—and in *Smṛticandrikā* (Saṃskāra, p. 109).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba-Dharmasūtra* (1.3.1).—‘All that he obtains he should present
-to the Teacher, going out pot in hand, morning and evening, for begging
-alms from all except those that are considered unfit for this purpose
-and also those of ill-repute.’
+to the Teacher, going out pot in hand, morning and evening, for begging alms from all except those that are considered unfit for this purpose and also those of ill-repute.’
 
 *Baudhāyana*. (1.2.19).—‘Persons to be begged from are the Brāhmaṇa and
 the rest, who are firm in their duties.’
@@ -66,23 +53,19 @@ from those who are accused or outcast.’
 except from the teacher’s family.’
 
 *Viṣṇu* (Vīramitrodaya-Saṃskāra, p. 482).—‘Alms should be begged from
-the good people among Brāhmaṇas, Kṣatriyas and Vaiśyas who are firm in
-their duties; from all four castes in times of distress.’
+the good people among Brāhmaṇas, Kṣatriyas and Vaiśyas who are firm in their duties; from all four castes in times of distress.’
 
 *Yājñavalkya* (1.29).—‘For his own subsistence, he should beg alms from
 irreproachable Brāhmaṇas.’
 
 *Vyāsa* (Vīramitrodaya-Saṃskāra, p. 482).—‘They should daily beg alms
-from Brāhmaṇas, Kṣatriyas and Vaiśyas, only from the houses of people
-belonging to one’s own caste, or from those of all castes.’
+from Brāhmaṇas, Kṣatriyas and Vaiśyas, only from the houses of people belonging to one’s own caste, or from those of all castes.’
 
 *Bhaviṣya Purāṇa* (Vīramitrodaya-Saṃskāra, p. 482).—‘In the absence of
-the above, he may go for alms to the entire village, with the exception
-of the Caṇḍāla.’
+the above, he may go for alms to the entire village, with the exception of the Caṇḍāla.’
 
 *Aṅgiras* (Vīramitrodaya-Saṃskāra, p. 482).—‘In the absence of any other
-means of subsistence, he may accept uncooked food from the Śūdra, enough
-to keep him for a day and night.’
+means of subsistence, he may accept uncooked food from the Śūdra, enough to keep him for a day and night.’
 
 *Parāśara* (Vīramitrodaya-Saṃskāra, p. 483).—‘The Renunciate and the
 Religious Student are entitled to cooked food only.’

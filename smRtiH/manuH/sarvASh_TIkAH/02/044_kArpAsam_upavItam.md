@@ -56,33 +56,22 @@ being formed with the ‘*ṭhan*’ affix having the sense of the possessive.�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtichandrikā* (Saṃskāra, p. 80), Which says
-that ‘*trivṛt*’ means ‘made of nine yarns’;—and in *Nityāchārapradīpa*
-(p. 31).
+This verse is quoted in *Smṛtichandrikā* (Saṃskāra, p. 80), Which says that ‘*trivṛt*’ means ‘made of nine yarns’;—and in *Nityāchārapradīpa* (p. 31).
 
-It is quoted in *Parāśaramādhava* (Ācāra, p. 448); in *Madanapārijāta*
-(p. 21),—and in *Vīramitrodaya* (Saṃskāra, p. 414);—also in
+It is quoted in *Parāśaramādhava* (Ācāra, p. 448); in *Madanapārijāta* (p. 21),—and in *Vīramitrodaya* (Saṃskāra, p. 414);—also in
 *Nirṇayasindhu* (p. 190);—in *Aparārka* (p. 58);—in *Nṛsiṃhaprasāda*
-(Saṃskāra, p. 43a);—in *Saṃskāramayūkha* (p. 38), which has the
-following notes:—‘*ūrdhvavṛtam*’ and ‘*trivṛt*’ are to be construed with
-‘*śaṇasūtramayam*’; also,—‘*āvikam*’ means ‘of sheep- *wool*.’
+(Saṃskāra, p. 43a);—in *Saṃskāramayūkha* (p. 38), which has the following notes:—‘*ūrdhvavṛtam*’ and ‘*trivṛt*’ are to be construed with ‘*śaṇasūtramayam*’; also,—‘*āvikam*’ means ‘of sheep- *wool*.’
 
-‘*Urdhvavṛtam*’—This is thus defined by ‘*Saṅgrahākāra*.’ a writer
-quoted in Parāśaramādhava and Madanapārijāta—‘That which is twisted
-threefold by the right hand moving upward’—*i.e*. twisted towards the
-right.
+‘*Urdhvavṛtam*’—This is thus defined by ‘*Saṅgrahākāra*.’ a writer quoted in Parāśaramādhava and Madanapārijāta—‘That which is twisted threefold by the right hand moving upward’—*i.e*. twisted towards the right.
 
-‘*Trivṛt*’—has been explained in *Vīramitrodaya* as standing for
-‘consisting of *nine* threads’; and thus on the basis of a *Śruti* text
-which defines ‘*Trivṛt*’ as *nine*. The same explanation is given in
+‘*Trivṛt*’—has been explained in *Vīramitrodaya* as standing for ‘consisting of *nine* threads’; and thus on the basis of a *Śruti* text which defines ‘*Trivṛt*’ as *nine*. The same explanation is given in
 *Aparārka* also;—so also *Smṛtikaumudī* (p. 6.)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana-Dharmasūtra*, 5.5.—‘The Sacred Garment consists of the
-silken thread triplicated, hanging down to the navel and passing under
-the right arm.’ \[‘*Kauśa*’ has been taken to mean ‘silken’ by the
+silken thread triplicated, hanging down to the navel and passing under the right arm.’ \[‘*Kauśa*’ has been taken to mean ‘silken’ by the
 *Kalpataru*, but ‘made of *kuśa*’ by the *Vīramitrodaya-* Saṃskāra, p.
 415.\]
 
@@ -95,22 +84,19 @@ cotton, hempen fibre and wool.’
 of cotton, cloth or *Kuśa* -string.’
 
 *Devala* (Vīramitrodaya-Sarhskāra,p. 415).—‘The Twice-born should wear
-the sacred garment made of cotton or flax or cow-hair or hemp or
-tree-bark or grass.’
+the sacred garment made of cotton or flax or cow-hair or hemp or tree-bark or grass.’
 
 *Devala* (Parāśaramādhava, p. 449).—‘The sacred thread should be made of
 nine-yarned thread.’
 
 *Ṛṣyaśṛṅga* (Parāśaramādhava, p. 449).—‘The purposes of the sacred
-garment should be served by means of the cloth, and in the absence of
-cloth, by means of the Triplicated Thread.’
+garment should be served by means of the cloth, and in the absence of cloth, by means of the Triplicated Thread.’
 
 *Ādityapurāṇa* (Parāśaramādhava, p. 449).—‘The sacred garment to be worn
 should consist of either flax or cotton or hemp.’
 
 *Bhṛgu and Kātyāyana* (Do., p. 416).—‘The Upavīta should consist of
-three threads twisted upwards, then twisted downwards, then twisted
-upwards again.
+three threads twisted upwards, then twisted downwards, then twisted upwards again.
 
 *Gṛhyapariśiṣṭa* (Do.).—‘One thread should be folded thrice and then
 twisted three times.’
@@ -119,16 +105,13 @@ twisted three times.’
 a single knot.’
 
 *Paiṭhinasi* (Do.).—‘The sacred garment should be of cotton for the
-Brāhmaṇa consisting of six triplicated threads; for the Kṣatriya, of
-flax, and for the Vaiśya, of wool.’
+Brāhmaṇa consisting of six triplicated threads; for the Kṣatriya, of flax, and for the Vaiśya, of wool.’
 
 *Bhṛgu* (Do., p. 421).—‘For the Student there should be only one
-Upavīta, for the Householder and the Recluse, two; and for the
-Renunciate also only one.’
+Upavīta, for the Householder and the Recluse, two; and for the Renunciate also only one.’
 
 *Bhṛgu* (Aparārka, p. 58).—‘Three threads should he twisted upwards in
-three folds; the Upavīta shall be triplicated; and it should have a
-single knot.’
+three folds; the Upavīta shall be triplicated; and it should have a single knot.’
 
 *Vaśiṣṭha* (Do.).—‘For the Accomplished Student there should he two
 Upavītas.’
@@ -142,11 +125,7 @@ eight or ten; for the Student only one; so also for the Recluse.’
 three-fold, twisted upward and turned downwards. It has one knot.’
 
 *Pariśiṣṭa* (Do., p. 423).—‘During acts in honour of Gods, the garment
-should be worn on the left shoulder (technically called *Upavīta*);
-during those in honour of Pitṛs, on the right shoulder (technically
-called *Prāchīnāvīta*); during malevolent rites, on both shoulders,
-hanging over the chest down to the navel; and during the vulgar act,
-hanging on the hack (technically called *nivīta*).’
+should be worn on the left shoulder (technically called *Upavīta*); during those in honour of Pitṛs, on the right shoulder (technically called *Prāchīnāvīta*); during malevolent rites, on both shoulders, hanging over the chest down to the navel; and during the vulgar act, hanging on the hack (technically called *nivīta*).’
 
 *Śruti* (Darśapūrṇamāsa section—quoted by Śabara, 3.4.1).—‘*Nivīta* for
 men, *Prachīnāvīta* for Pitṛs and *Upavīta* for Gods.’

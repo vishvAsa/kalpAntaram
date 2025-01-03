@@ -39,29 +39,19 @@ This has been taken to imply that when even an unauthorised person happens.to be
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 604);—in *Mitākṣarā* (on 2.2), in
-support, of the view that the assessors duly appointed incur sin if they
-do not, check the king in the event of his taking an illegal course; but
-as regards other people present, these incur sin only if they either
-speak falsely or suppress the truth,—and not for not checking the
-king;—and again on 2.83;—and also in *Vīramitrodaya* (Vyavahāra, p.
-12a).
+This verse is quoted in *Aparārka* (p. 604);—in *Mitākṣarā* (on 2.2), in support, of the view that the assessors duly appointed incur sin if they do not, check the king in the event of his taking an illegal course; but as regards other people present, these incur sin only if they either speak falsely or suppress the truth,—and not for not checking the king;—and again on 2.83;—and also in *Vīramitrodaya* (Vyavahāra, p. 12a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Śukranīti* (4.5.53, 55).—‘The man who knows Dharma can speak, whether
-appointed or not appointed. Either one should not come to the Court, or
-should speak truthfully. That man is a sinner who keeps silent or utters
-falsehood.’
+appointed or not appointed. Either one should not come to the Court, or should speak truthfully. That man is a sinner who keeps silent or utters falsehood.’
 
 *Nārada* (3.10).—‘Either the judicial assembly must not be entered at
-all, or a fair opinion should be delivered. That man who stands mute or
-delivers an opinion contrary to justice, is a sinner.’
+all, or a fair opinion should be delivered. That man who stands mute or delivers an opinion contrary to justice, is a sinner.’
 
 *Nārada* (3.14).—‘He who, having entered the Court, delivers a strange
-opinion, ignoring the true state of the case, resembles a blind man who,
-regardless, swallows fish together with the bones.’
+opinion, ignoring the true state of the case, resembles a blind man who, regardless, swallows fish together with the bones.’
 </details>
 
 <details><summary>भारुचिः</summary>

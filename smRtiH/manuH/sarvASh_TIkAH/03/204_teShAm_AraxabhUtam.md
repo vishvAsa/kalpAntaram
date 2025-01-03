@@ -40,18 +40,13 @@ In the *Gṛhyasūtra*, we find the *mantra*—‘We invite the Viśvedevas, &c.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 476), which explains ‘*ārakṣa*’
-as equivalent to ‘*rakṣaṇa*’;—in *Gadādharapaddhati* (Kāla, p. 426),
-which explains ‘*ārakṣabhūtam*,’ as some little (not complete)
-safeguard;—and in *Śrāddhakriyākaumudī* (p. 54) as indicating the
-importance of Daiva Śrāddha.
+This verse is quoted in *Aparārka* (p. 476), which explains ‘*ārakṣa*’ as equivalent to ‘*rakṣaṇa*’;—in *Gadādharapaddhati* (Kāla, p. 426), which explains ‘*ārakṣabhūtam*,’ as some little (not complete) safeguard;—and in *Śrāddhakriyākaumudī* (p. 54) as indicating the importance of Daiva Śrāddha.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Laghu-Āśvalāyana* (23.27).—‘Having, in the prescribed manner,
-worshipped the gods, he shall, with their permission, perform the
-worship of the Pitṛs, in the *Apasavya* form.’
+worshipped the gods, he shall, with their permission, perform the worship of the Pitṛs, in the *Apasavya* form.’
 
 *Dharma* (Aparārka, p. 476).—‘Having seated the Gods, and then the
 Pitṛs.’

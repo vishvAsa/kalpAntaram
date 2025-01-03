@@ -32,8 +32,7 @@ This verse is quoted in *Madanapārijāta* (p. 693).
 **(verses 12.32-51)  
 **
 
-See Comparative notes for [Verse
-12.32].
+See Comparative notes for [Verse 12.32].
 </details>
 
 <details><summary>भारुचिः</summary>

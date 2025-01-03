@@ -46,8 +46,7 @@ But what you have got to explain is—from where you have learnt this distinctio
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 403) without any
-comment.
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 403) without any comment.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -55,8 +54,7 @@ comment.
 **(verses 3.84-93)  
 **
 
-See Comparative notes for [Verse
-3.84].
+See Comparative notes for [Verse 3.84].
 </details>
 
 <details><summary>Bühler</summary>

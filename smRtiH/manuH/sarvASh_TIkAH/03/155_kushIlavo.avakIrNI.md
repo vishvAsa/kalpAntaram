@@ -48,13 +48,7 @@ In another connection, we find a recapitulation of reprehensible practices, wher
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 687), which (on p.
-693) adds the following notes:—‘*Kuśīlava*’ stands for ‘singers and
-others,’—‘*Vṛṣalīpati*’ is ‘the husband of a girl who attained puberty
-before marriage;’—that person also is to be excluded in whose house a
-paramour of his wife’s lives constantly;—in *Hemādri* (Śrāddha, p.
-481);—and in *Śrāddhakriyākaumudī* (p. 40), which explains ‘*Kuśīlavaḥ*’
-as ‘dancer’.
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 687), which (on p. 693) adds the following notes:—‘*Kuśīlava*’ stands for ‘singers and others,’—‘*Vṛṣalīpati*’ is ‘the husband of a girl who attained puberty before marriage;’—that person also is to be excluded in whose house a paramour of his wife’s lives constantly;—in *Hemādri* (Śrāddha, p. 481);—and in *Śrāddhakriyākaumudī* (p. 40), which explains ‘*Kuśīlavaḥ*’ as ‘dancer’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -62,8 +56,7 @@ as ‘dancer’.
 **(verses 3.150-166)  
 **
 
-See Comparative notes for [Verse
-3.150].
+See Comparative notes for [Verse 3.150].
 </details>
 
 <details><summary>Bühler</summary>

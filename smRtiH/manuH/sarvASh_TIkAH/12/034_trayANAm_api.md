@@ -25,8 +25,7 @@ This should be understood to be in brief the characteristic of these three quali
 **(verses 12.32-51)  
 **
 
-See Comparative notes for [Verse
-12.32].
+See Comparative notes for [Verse 12.32].
 </details>
 
 <details><summary>Bühler</summary>

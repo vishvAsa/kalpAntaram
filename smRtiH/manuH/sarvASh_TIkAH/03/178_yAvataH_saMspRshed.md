@@ -26,12 +26,9 @@ As many Brāhmaṇas he may happen to touch with his limbs,—when he happens to
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Paurtikam*’—‘Rewards that follow from gifts made outside the
-sacrificial altar’ (Medhātithi and Govindarāja);—‘the gift of food at a
-Śrāddha’ (Kullūka and Rāghavānanda).
+‘*Paurtikam*’—‘Rewards that follow from gifts made outside the sacrificial altar’ (Medhātithi and Govindarāja);—‘the gift of food at a Śrāddha’ (Kullūka and Rāghavānanda).
 
-This verse is quoted in *Aparārka*, (p. 454);—and in *Hemādri* (Śrāddha,
-p. 498).
+This verse is quoted in *Aparārka*, (p. 454);—and in *Hemādri* (Śrāddha, p. 498).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -40,9 +37,7 @@ p. 498).
 avoided).’
 
 *Bṛhad-Yama-Smṛti* (35, 37, 38).—‘The ill-visaged, the eunuch, the
-heretic, the decrier of the Veda, the sophist, the sacrificer for the
-Śūdra, and those who sacrifice for improper persons,—these should be
-avoided with great care at the Śrāddha.’
+heretic, the decrier of the Veda, the sophist, the sacrificer for the Śūdra, and those who sacrifice for improper persons,—these should be avoided with great care at the Śrāddha.’
 </details>
 
 <details><summary>Bühler</summary>

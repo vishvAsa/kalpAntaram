@@ -24,17 +24,13 @@ Because persons with sins unexpiated are born with disgraceful marks, therefore 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā*, (3.220), to the effect that the
-omission of an expiatory rite involves sin;—in *Parāśaramādhava*
-(Prāyaścitta. p. 3) to the same effect—in *Smṛtitattva*, (p. 473);—and
-in *Prāyaścittaviveka*, (p. 17).
+This verse is quoted in *Mitākṣarā*, (3.220), to the effect that the omission of an expiatory rite involves sin;—in *Parāśaramādhava* (Prāyaścitta. p. 3) to the same effect—in *Smṛtitattva*, (p. 473);—and in *Prāyaścittaviveka*, (p. 17).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (3.220).—‘Therefore, for his purification, the sinner
-should perform expiatory penances; thus do the people and his own self
-become appeased.’
+should perform expiatory penances; thus do the people and his own self become appeased.’
 </details>
 
 <details><summary>भारुचिः</summary>

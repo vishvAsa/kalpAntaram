@@ -40,9 +40,7 @@ This objection has been already answered by as (under 62). Or, ‘stealing’ he
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Prāyaścittaviveka* (p. 192), which has the
-following notes—‘*Kupya*,’ articles of copper and so forth,—and the
-Brāhmaṇa serving a drunkard man or woman.
+This verse is quoted in *Prāyaścittaviveka* (p. 192), which has the following notes—‘*Kupya*,’ articles of copper and so forth,—and the Brāhmaṇa serving a drunkard man or woman.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -50,8 +48,7 @@ Brāhmaṇa serving a drunkard man or woman.
 **(verses 11.58-66)  
 **
 
-See Comparative notes for [Verse
-11.58].
+See Comparative notes for [Verse 11.58].
 </details>
 
 <details><summary>भारुचिः</summary>

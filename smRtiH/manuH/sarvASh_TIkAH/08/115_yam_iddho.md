@@ -40,8 +40,7 @@ Such a person is to ‘*be regarded as pure*’—*i.e*., innocent.
 
 See Atharva Veda 2.12; Chāndogya Upaniṣad 6.16.1.
 
-‘*Kṣipram*’—‘Within fourteen days’ (Medhātithi); ‘within three
-fortnights’ (Rāghavānanda).
+‘*Kṣipram*’—‘Within fourteen days’ (Medhātithi); ‘within three fortnights’ (Rāghavānanda).
 
 This verse is quoted in *Kṛtyakalpataru* (62b).
 </details>
@@ -51,8 +50,7 @@ This verse is quoted in *Kṛtyakalpataru* (62b).
 **(verses 8.114-116)  
 **
 
-See Comparative notes for [Verse
-8.114].
+See Comparative notes for [Verse 8.114].
 </details>
 
 <details><summary>भारुचिः</summary>

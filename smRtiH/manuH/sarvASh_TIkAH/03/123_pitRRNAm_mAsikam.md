@@ -46,8 +46,7 @@ The question that arises now is that the *śrāddha* consisting of the several a
 
 This verse is quoted in *Hemādri* (Śrāddha, p. 573);—and in
 *Godādharapaddhati* (Kāla, p. 431), which expounds the name
-‘*anvāhāryam*’ as ‘*anu, paścāt*, *āhāryam kāryam*,’ and says that this
-the learned call ‘*Dārśa-Śrāddha*.’
+‘*anvāhāryam*’ as ‘*anu, paścāt*, *āhāryam kāryam*,’ and says that this the learned call ‘*Dārśa-Śrāddha*.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -59,13 +58,10 @@ month.’
 Śrāddhas the offering should consist of butter and meat.’
 
 *Viṣṇu-Smṛti* (70.24).—\[The Pitṛs are represented as
-saying\]—‘Kālaśāka, Mahāśalka, the meat of the Vārdhrīṇasa goat, and the
-meat of the rhinoceros whose horn has not come out,—these we partake
-of.’
+saying\]—‘Kālaśāka, Mahāśalka, the meat of the Vārdhrīṇasa goat, and the meat of the rhinoceros whose horn has not come out,—these we partake of.’
 
 *Laugākṣi* (quoted in Parāśaramādhava, p. 308)—‘The twice-born person
-whose father is dead must perform Śrāddha on the moonless day every
-month.’
+whose father is dead must perform Śrāddha on the moonless day every month.’
 </details>
 
 <details><summary>Bühler</summary>

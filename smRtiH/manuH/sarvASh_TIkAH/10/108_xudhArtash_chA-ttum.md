@@ -28,8 +28,7 @@ The ‘*dog’s* *haunch*’ has been mentioned with a view to show that there i
 
 See Mahābhārata 12.141.28 etc. seg.
 
-This verse is quoted in *Aparārka* (p. 935);—in *Madanapārijāta* (p.
-234). which explains ‘*śvajāghanī*’ as the loins of a dog;—and in
+This verse is quoted in *Aparārka* (p. 935);—in *Madanapārijāta* (p. 234). which explains ‘*śvajāghanī*’ as the loins of a dog;—and in
 *Parāśaramadhava* (Prāyaścitta p. 326).
 </details>
 
@@ -38,8 +37,7 @@ This verse is quoted in *Aparārka* (p. 935);—in *Madanapārijāta* (p.
 **(verses 10.101-108)  
 **
 
-See Comparative notes for [Verse
-10.101].
+See Comparative notes for [Verse 10.101].
 </details>
 
 <details><summary>भारुचिः</summary>

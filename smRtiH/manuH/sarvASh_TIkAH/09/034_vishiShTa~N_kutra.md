@@ -37,8 +37,7 @@ Compare 10.72.
 
 **(verses 9.31-44)**
 
-See Comparative notes for [Verse
-9.31].
+See Comparative notes for [Verse 9.31].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -32,8 +32,7 @@ Such—truthful—speech is honoured by Brahmā, Prajāpati, himself.—(81)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Hopkins is again wrong in saying that “this verse is omitted by
-Nandana.”
+Hopkins is again wrong in saying that “this verse is omitted by Nandana.”
 
 This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 75);—in
 *Kṛtyakalpataru* (33b);—and in *Vīramitrodaya* (Vyavahāra, p. 53b).
@@ -44,8 +43,7 @@ This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 75);—in
 **(verses 8.79-86)  
 **
 
-See Comparative notes for [Verse
-8.79].
+See Comparative notes for [Verse 8.79].
 </details>
 
 <details><summary>भारुचिः</summary>

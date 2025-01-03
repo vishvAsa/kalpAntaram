@@ -26,8 +26,7 @@ The ‘*Triad*’ is an object whose measure is fixed; and through this Triad al
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 666);—in *Parāśaramādhava*
-(Vyavahāra, p. 115);—in *Hemādri* (Vrata, p. 53);—and in
+This verse is quoted in *Vivādaratnākara* (p. 666);—in *Parāśaramādhava* (Vyavahāra, p. 115);—in *Hemādri* (Vrata, p. 53);—and in
 *Nṛsiṃhaprasāda* (Dāna 4a).
 </details>
 
@@ -36,8 +35,7 @@ This verse is quoted in *Vivādaratnākara* (p. 666);—in *Parāśaramādhava*
 **(verses 8.131-137)  
 **
 
-See Comparative notes for [Verse
-8.131].
+See Comparative notes for [Verse 8.131].
 </details>
 
 <details><summary>Bühler</summary>

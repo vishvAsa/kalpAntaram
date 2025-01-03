@@ -20,8 +20,7 @@ The two words ‘*bright*’ and ‘*radiant*,’ which are synonymous, have bee
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-See Comparative notes for [Verse 1.75 (Ākāśa produced out of
-‘Mind’)].
+See Comparative notes for [Verse 1.75 (Ākāśa produced out of ‘Mind’)].
 </details>
 
 <details><summary>Bühler</summary>

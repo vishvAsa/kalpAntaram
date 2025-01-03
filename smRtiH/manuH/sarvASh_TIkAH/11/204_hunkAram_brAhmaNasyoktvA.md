@@ -38,8 +38,7 @@ The expiation here laid down is for the use of the singular form of the pronoun 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 1185);—and in *Parāśaramādhava*
-(Prāyaścitta, p. 355), as laying down fasting.
+This verse is quoted in *Aparārka* (p. 1185);—and in *Parāśaramādhava* (Prāyaścitta, p. 355), as laying down fasting.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -49,18 +48,12 @@ This verse is quoted in *Aparārka* (p. 1185);—and in *Parāśaramādhava*
 *Parāśara* (11.49-50).—(Same as Manu.)
 
 *Yājñavalkya* (3.292).—‘For addressing one’s elder with such
-disrespectful terms as “*Tvam*” and “*Hum*,” for defeating him in a
-discussion, or for binding him with a cloth, one should immediately
-appease him and fast during the day.’
+disrespectful terms as “*Tvam*” and “*Hum*,” for defeating him in a discussion, or for binding him with a cloth, one should immediately appease him and fast during the day.’
 
 *Yama* (Aparārka, p. 1185).—‘For addressing unspeakable words to a
 Brāhmaṇa, the expiation ordained is that the man should perform the
 *Kṛcchrātikṛcchra* penance and appease the insulted person by falling at
-his feet; and for tying a cloth round his neck, the expiation prescribed
-is that the man shall fast for three days and appease him by falling at
-his feet. If one falsely calumniates the Brāhmaṇa, or injures him, he
-shall fast for one day, or for three days, or for six days, according to
-circumstances.’
+his feet; and for tying a cloth round his neck, the expiation prescribed is that the man shall fast for three days and appease him by falling at his feet. If one falsely calumniates the Brāhmaṇa, or injures him, he shall fast for one day, or for three days, or for six days, according to circumstances.’
 </details>
 
 <details><summary>भारुचिः</summary>

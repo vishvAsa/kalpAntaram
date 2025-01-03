@@ -30,16 +30,7 @@ For this reason one should never trust the King; that is, either by reason of fr
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 392); in the same
-work (Vyavahāra, p. 6);—and in *Vīramitrodaya* (Rājanīti, p. 18), which
-adds the following notes:—‘*Kāryam*’ means ‘fitness for being pardoned
-or punished’,—‘*śakti*’ is ‘capacity’,—‘*deśa*’ means ‘remoteness or
-proximity’,—‘*kālam*’ refers to times of scarcity or opulence;—having
-considered all this, he assumes various forms;—*i*. *e*., in a moment he
-is pleased, and in a moment displeased; when he finds a man weak, he
-becomes forgiving and if the man is strong, he uproots him, *i.e*., he
-assumes a friendly, inimical or disinterested attitude in accordance
-with the considerations of state.
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 392); in the same work (Vyavahāra, p. 6);—and in *Vīramitrodaya* (Rājanīti, p. 18), which adds the following notes:—‘*Kāryam*’ means ‘fitness for being pardoned or punished’,—‘*śakti*’ is ‘capacity’,—‘*deśa*’ means ‘remoteness or proximity’,—‘*kālam*’ refers to times of scarcity or opulence;—having considered all this, he assumes various forms;—*i*. *e*., in a moment he is pleased, and in a moment displeased; when he finds a man weak, he becomes forgiving and if the man is strong, he uproots him, *i.e*., he assumes a friendly, inimical or disinterested attitude in accordance with the considerations of state.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -47,8 +38,7 @@ with the considerations of state.
 **(verses 7.3-13)  
 **
 
-See Comparative notes for [Verse
-7.3](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200663.html#comparative-notes "English translation of verse").
+See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200663.html#comparative-notes "English translation of verse").
 </details>
 
 <details><summary>भारुचिः</summary>

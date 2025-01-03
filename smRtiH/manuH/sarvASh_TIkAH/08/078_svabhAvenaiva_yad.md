@@ -67,13 +67,7 @@ But the real meaning is as explained above; so much attention need not be paid t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Svabhāvena*’—‘Quite naturally’—‘not out of compassion’ (Medhātithi,
-who says nothing regarding ‘depending on women’ as Buhler wrongly puts
-it),—‘not out of fear and the like’ (Kullūka);—‘the reliability or
-otherwise of the witness is to be ascertained after due consideration of
-his *Svabhāva*, character, and not from the manner of bis giving
-evidence’ (‘others’ in Medhātithi),—‘without hesitation, quickly’
-(Nārāyaṇa);—‘in accordance with truth’ (Govindarāja and Nandana).
+‘*Svabhāvena*’—‘Quite naturally’—‘not out of compassion’ (Medhātithi, who says nothing regarding ‘depending on women’ as Buhler wrongly puts it),—‘not out of fear and the like’ (Kullūka);—‘the reliability or otherwise of the witness is to be ascertained after due consideration of his *Svabhāva*, character, and not from the manner of bis giving evidence’ (‘others’ in Medhātithi),—‘without hesitation, quickly’ (Nārāyaṇa);—‘in accordance with truth’ (Govindarāja and Nandana).
 
 This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 80);—and in
 *Vyavahāra-Bālambhaṭṭī* (p. 282).
@@ -82,8 +76,7 @@ This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 80);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Śukranīti* (4.5.396).—‘One should accept the evidence of witnesses
-given spontaneously, not through force; after the evidence has been once
-given by the witness, he shall not be repeatedly cross-examined.’
+given spontaneously, not through force; after the evidence has been once given by the witness, he shall not be repeatedly cross-examined.’
 </details>
 
 <details><summary>भारुचिः</summary>

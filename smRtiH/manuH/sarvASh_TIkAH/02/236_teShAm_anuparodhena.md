@@ -48,9 +48,7 @@ Or, the verse may be construed as—‘whatever act for the sake of the next lif
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 95), which
-explains ‘*pāratryam*’ as ‘acts pertaining to the other world, spiritual
-acts.’
+This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 95), which explains ‘*pāratryam*’ as ‘acts pertaining to the other world, spiritual acts.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

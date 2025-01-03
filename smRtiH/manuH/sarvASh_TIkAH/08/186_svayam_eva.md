@@ -35,21 +35,13 @@ The condition of ‘*the absence of witnesses*’ (mentioned in 182-183) should 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 87), whieh adds the
-following explanation:—On the death of the depositor, if the depository
-deliver the deposit to the depositor’s heir, he should not be blamed
-either by the king or by the dead man’s relatives. The term
-‘*svayameva*’ implies that during the depositor’s life-time, he should
-not deliver it to the heir, even though asked to do so by the
-latter;—and that on his death he should give it to the heir even without
-being asked to do so;—and in *Vivādacintāmaṇi* (p. 37).
+This verse is quoted in *Vivādaratnākara* (p. 87), whieh adds the following explanation:—On the death of the depositor, if the depository deliver the deposit to the depositor’s heir, he should not be blamed either by the king or by the dead man’s relatives. The term ‘*svayameva*’ implies that during the depositor’s life-time, he should not deliver it to the heir, even though asked to do so by the latter;—and that on his death he should give it to the heir even without being asked to do so;—and in *Vivādacintāmaṇi* (p. 37).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (11.10).—‘The depositor being dead, if the depositary restores
-the deposit to his next of kin of his own accord, he must not be
-harassed, either by the King or by the relations of the depositor.’
+the deposit to his next of kin of his own accord, he must not be harassed, either by the King or by the relations of the depositor.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -47,8 +47,7 @@ and Vaiśya’.
 **(verses 8.382-385)  
 **
 
-See Comparative notes for [Verse
-8.382].
+See Comparative notes for [Verse 8.382].
 </details>
 
 <details><summary>भारुचिः</summary>

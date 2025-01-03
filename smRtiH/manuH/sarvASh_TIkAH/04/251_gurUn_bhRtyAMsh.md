@@ -45,16 +45,13 @@ _कथं तर्ह्य् आत्मा यापयितव्यः 
 Teacher and the dependants,—it is ditferent.’
 
 *Āpastamba* (1.7.21).—‘Some people hold that for the sake of the teacher
-the acceptance of gifts even from Śūdras and Ugras is sanctioned by the
-scriptures.’
+the acceptance of gifts even from Śūdras and Ugras is sanctioned by the scriptures.’
 
 *Yājñavalkya* (1.216).—‘For the worshipping of gods and guests, and for
-the sake of one’s teacher and dependants, and for one’s own livelihood,
-one may accept gifts from all.’
+the sake of one’s teacher and dependants, and for one’s own livelihood, one may accept gifts from all.’
 
 *Aṅgiras* (Aparārka, p. 408).—‘For the teacher, for guests and for
-dependants one may accept food from the Śūdra; but he himself shall not
-partake of it.’
+dependants one may accept food from the Śūdra; but he himself shall not partake of it.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -30,10 +30,7 @@ Others say that a ‘*yadā*’, ‘when’, should be supplied in this verse; s
 
 (Verse 168 of others.)
 
-This verse is quoted in *Nirṇayasindhu* (p. 413) to the effect that if a
-man with the Fire loses his wife and wishes to marry another, he should
-cremate his dead wife with the Fire that he had set up with her
-help;—and in *Saṃskāraratnamālā* (p. 591).
+This verse is quoted in *Nirṇayasindhu* (p. 413) to the effect that if a man with the Fire loses his wife and wishes to marry another, he should cremate his dead wife with the Fire that he had set up with her help;—and in *Saṃskāraratnamālā* (p. 591).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -41,8 +38,7 @@ help;—and in *Saṃskāraratnamālā* (p. 591).
 **(verses 5.165-166)  
 **
 
-See Comparative notes for [Verse
-5.165].
+See Comparative notes for [Verse 5.165].
 </details>
 
 <details><summary>Bühler</summary>

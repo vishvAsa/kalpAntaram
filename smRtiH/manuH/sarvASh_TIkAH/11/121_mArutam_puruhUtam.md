@@ -29,8 +29,7 @@ In the case of the Religious Student who has committed an immoral act, his ‘*s
 **(verses 11.118-123)  
 **
 
-See Comparative notes for [Verse
-11.118].
+See Comparative notes for [Verse 11.118].
 </details>
 
 <details><summary>भारुचिः</summary>

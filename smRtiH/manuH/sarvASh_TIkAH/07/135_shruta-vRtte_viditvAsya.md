@@ -22,32 +22,22 @@ Having provided a living ‘*he shall protect him against all things*’—from 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 141) as indicating
-that it is incumbent on the king to see that no *learned* Brāhmaṇa in
-his kingdom suffers from hunger;—and in *Parāśaramādhava* (Ācāra, p.
-408).
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 141) as indicating that it is incumbent on the king to see that no *learned* Brāhmaṇa in his kingdom suffers from hunger;—and in *Parāśaramādhava* (Ācāra, p. 408).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (3.44).—‘Having found out all about his conduct, race,
-character, learning, knowledge, austerities and family,—the king shall
-ordain livelihood for him.’
+character, learning, knowledge, austerities and family,—the king shall ordain livelihood for him.’
 
 *Dakṣa* (Aparārka, p. 939).—‘Father, mother, teacher, wife, the poor,
-one seeking shelter, guest, fire, relations—maternal and paternal, the
-emaciated, one who has no supporter,—these are persons that should bo
-fed by every rich person; gifts should be made to the learned, otherwise
-one would go to hell.’
+one seeking shelter, guest, fire, relations—maternal and paternal, the emaciated, one who has no supporter,—these are persons that should bo fed by every rich person; gifts should be made to the learned, otherwise one would go to hell.’
 
 *Gautama* (10.9-12).—‘He shall support Vedic scholars and Brāhmaṇas;—and
-non-Brāhmaṇas who are unable to work;—and those who arc free from taxes,
-and the ordinary Religious Students.’
+non-Brāhmaṇas who are unable to work;—and those who arc free from taxes, and the ordinary Religious Students.’
 
 *Yama* (Vīramitrodaya-Rājanīti, p. 142).—‘The Brāhmaṇas keep intact the
-unbreakable, imperishable, indestructible ancient treasure (of the
-Veda); the king shall therefore honour them and thereby become
-unconquerable, like the King of the Gods.’
+unbreakable, imperishable, indestructible ancient treasure (of the Veda); the king shall therefore honour them and thereby become unconquerable, like the King of the Gods.’
 </details>
 
 <details><summary>Bühler</summary>

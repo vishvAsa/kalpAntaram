@@ -24,15 +24,12 @@ The answer to this is given in the second line—‘*what is conducive* &c.’ F
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Rātriḥ svapnāya* &c.’—This line supplies the definition of ‘Day’ and
-‘Night’ for those regions that are beyond the reach of the Sun;—‘Day’
-being the *period of activity*, and ‘Night’ the *period of repose*.
+‘*Rātriḥ svapnāya* &c.’—This line supplies the definition of ‘Day’ and ‘Night’ for those regions that are beyond the reach of the Sun;—‘Day’ being the *period of activity*, and ‘Night’ the *period of repose*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-See the comparative notes for [Verse 1.64 (Measures of
-Time)].
+See the comparative notes for [Verse 1.64 (Measures of Time)].
 </details>
 
 <details><summary>Bühler</summary>

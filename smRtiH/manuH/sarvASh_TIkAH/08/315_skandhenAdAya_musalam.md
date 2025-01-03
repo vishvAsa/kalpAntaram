@@ -29,16 +29,14 @@ It is only the *club*, and not the *pestle*, that is to be taken as qualified by
 **(verses 8.314-315)  
 **
 
-See Comparative notes for [Verse
-8.314].
+See Comparative notes for [Verse 8.314].
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 8.314-315)**
 
-See Comparative notes for [Verse
-8.314].
+See Comparative notes for [Verse 8.314].
 </details>
 
 <details><summary>भारुचिः</summary>

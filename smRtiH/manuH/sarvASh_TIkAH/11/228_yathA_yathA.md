@@ -25,8 +25,7 @@ In the expression ‘*naro-dharmam*,’ an ‘a’ is to be understood between t
 **(verses 11.227-233)  
 **
 
-See Comparative notes for [Verse
-11.228].
+See Comparative notes for [Verse 11.228].
 </details>
 
 <details><summary>Bühler</summary>

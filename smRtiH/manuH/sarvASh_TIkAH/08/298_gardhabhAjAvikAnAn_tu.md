@@ -30,22 +30,17 @@ The final conclusion is that the exact substance is to be determined in accordan
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p; 283), which notes that the
-‘*māṣaka*’ is equal to two *kṛṣṇalas*, as declared by *Pārijāta*;—in
+This verse is quoted in *Vivādaratnākara* (p; 283), which notes that the ‘*māṣaka*’ is equal to two *kṛṣṇalas*, as declared by *Pārijāta*;—in
 *Parāśaramādhava* (Vyavahāra, p. 291);—and in *Mitākṣarā* (2.300), where
 *Bālambhaṭṭī* adds the following notes:—For the killing of a donkey, or
-goat, or sheep, the fine consists in *silver*, 5 *Māsas* in weight, and
-not *gold*, and for the killing of a dog or a pig, one *Māṣa* of silver.
-It notes both the readings, ‘*pāñcamāṣikaḥ*... *māṣikaḥ*’ and
-‘*pañcamāṣakaḥ...... māṣakaḥ*’.
+goat, or sheep, the fine consists in *silver*, 5 *Māsas* in weight, and not *gold*, and for the killing of a dog or a pig, one *Māṣa* of silver. It notes both the readings, ‘*pāñcamāṣikaḥ*... *māṣikaḥ*’ and ‘*pañcamāṣakaḥ...... māṣakaḥ*’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 8.295-298)**
 
-See Comparative notes for [Verse
-8.295].
+See Comparative notes for [Verse 8.295].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -35,13 +35,10 @@ This verse is quoted in *Gadādharapaddhati* (Kāla, p. 194).
 dust-raising wind;—also during the day if there is audible wind.’
 
 *Āpastamba Dharmasūtra* (1.11.8).—‘When there is noisy wind, or wind
-blowing straws on the ground, or when there is rain sufficient to flow
-along on the ground.’
+blowing straws on the ground, or when there is rain sufficient to flow along on the ground.’
 
 *Baudhāyana* (1.11, 23).—‘When the wind blows carrying rotting smell, or
-when there is fog, or when there are sounds of dancing, singing,
-weeping, or Sāma-chant,—then during the time that these last (it is
-unfit for study).’
+when there is fog, or when there are sounds of dancing, singing, weeping, or Sāma-chant,—then during the time that these last (it is unfit for study).’
 
 *Viṣṇu* (30.7).—‘Not when fierce wind is blowing.’
 

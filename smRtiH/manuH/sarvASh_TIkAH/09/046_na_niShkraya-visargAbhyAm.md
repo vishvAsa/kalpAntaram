@@ -41,8 +41,7 @@ The reason for this lies in the fact that verse 3.4, which contains the injuncti
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtitattva* (II, p. 149), which explains
-‘*niṣkraya*’ as *selling* and ‘*visarga*’ as *renouncing*, *divorcing*.
+This verse is quoted in *Smṛtitattva* (II, p. 149), which explains ‘*niṣkraya*’ as *selling* and ‘*visarga*’ as *renouncing*, *divorcing*.
 </details>
 
 <details><summary>भारुचिः</summary>

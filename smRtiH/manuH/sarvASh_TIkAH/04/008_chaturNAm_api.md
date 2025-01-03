@@ -38,8 +38,7 @@ For these reasons, the rule on this point would be as follows:—
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka*, (p. 169);—and in *Madanapārijāta*,
-(p. 216).
+This verse is quoted in *Aparārka*, (p. 169);—and in *Madanapārijāta*, (p. 216).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -47,8 +46,7 @@ This verse is quoted in *Aparārka*, (p. 169);—and in *Madanapārijāta*,
 **(verses 4.7-8)  
 **
 
-See Comparative notes for [Verse
-4.7].
+See Comparative notes for [Verse 4.7].
 </details>
 
 <details><summary>Bühler</summary>

@@ -32,10 +32,7 @@ The ‘*pupil*’ is meant to exclude the male and female slaves also; the purpo
 
 *Cf*. 8.298-299 and 4.175.
 
-This verse is quoted in *Aparārka* (p. 231), which adds:—‘*Śiṣya*’ here
-means ‘one who has to be taught—the ‘son’ is mentioned separately with a
-view to emphasis;—and in support of this it quotes the rule of Viṣṇu,
-which is in the general form ‘*Śāsyam śāset tāḍayet*’.
+This verse is quoted in *Aparārka* (p. 231), which adds:—‘*Śiṣya*’ here means ‘one who has to be taught—the ‘son’ is mentioned separately with a view to emphasis;—and in support of this it quotes the rule of Viṣṇu, which is in the general form ‘*Śāsyam śāset tāḍayet*’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -44,8 +41,7 @@ which is in the general form ‘*Śāsyam śāset tāḍayet*’.
 smṛtam*’ for ‘*tāḍayettu tam*’).
 
 *Viṣṇu* (71.80.82).—‘He shall not raise the rod against another
-person;—for disciplinary purposes, he shall beat his pupil, on the back,
-either with a rope or a bamboo-piece.’
+person;—for disciplinary purposes, he shall beat his pupil, on the back, either with a rope or a bamboo-piece.’
 
 *Yājñavalkya* (1.155).—‘He shall beat his son and his pupil.’
 </details>

@@ -26,10 +26,7 @@ the life of living beings, and by some invisible power they bring about diseases
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Pitṛṇām gaṇān*’—The ‘*pitṛs*’ are not actually the ‘fathers,’ as is
-clear from the present text; they are a particular class of divine
-beings, though it is from these that human beings are descended. See
-III, 194—199.
+‘*Pitṛṇām gaṇān*’—The ‘*pitṛs*’ are not actually the ‘fathers,’ as is clear from the present text; they are a particular class of divine beings, though it is from these that human beings are descended. See III, 194—199.
 </details>
 
 <details><summary>Bühler</summary>

@@ -34,12 +34,7 @@ The present verse enjoins—(a) that her consent is to be obtained, and (b) that
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 100), which adds that the
-qualification ‘*sick*’ includes also the ‘barren’ wife, and ‘one who
-gives birth *to* female children only’;—in *Parāśaramādhava* (Ācāra, p.
-508), as laying down a special consideration in the case of the devoted
-wife;—and in *Vīramitrodaya* (Saṃskāra, p. 872) which adds that ‘*hitā*’
-is mentioned only by way of illustration.
+This verse is quoted in *Aparārka* (p. 100), which adds that the qualification ‘*sick*’ includes also the ‘barren’ wife, and ‘one who gives birth *to* female children only’;—in *Parāśaramādhava* (Ācāra, p. 508), as laying down a special consideration in the case of the devoted wife;—and in *Vīramitrodaya* (Saṃskāra, p. 872) which adds that ‘*hitā*’ is mentioned only by way of illustration.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -47,8 +42,7 @@ is mentioned only by way of illustration.
 **(verses 9.77-84)  
 **
 
-See Comparative notes for [Verse
-9.77].
+See Comparative notes for [Verse 9.77].
 </details>
 
 <details><summary>भारुचिः</summary>

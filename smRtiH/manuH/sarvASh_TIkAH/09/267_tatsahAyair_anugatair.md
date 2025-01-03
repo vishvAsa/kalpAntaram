@@ -18,8 +18,7 @@ He shall detect and exterminate them by means of clever reformed thieves, who as
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Utsādayet*’.—Govindarāja and Nārāyaṇa read ‘*utsāhayet*’ ‘should
-incite them to commit crimes’.
+‘*Utsādayet*’.—Govindarāja and Nārāyaṇa read ‘*utsāhayet*’ ‘should incite them to commit crimes’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -27,8 +26,7 @@ incite them to commit crimes’.
 **(verses 9.264-269)  
 **
 
-See Comparative notes for [Verse
-9.264-266].
+See Comparative notes for [Verse 9.264-266].
 </details>
 
 <details><summary>Bühler</summary>

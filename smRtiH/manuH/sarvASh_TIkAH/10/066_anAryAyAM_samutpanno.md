@@ -26,12 +26,9 @@ If the ‘seed’ forms the more important factor, the children born from mother
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Anāryāyām*’—‘A Śūdra female’ (Medhātithi, Govindarāja, Kullūka,
-Rāghavānanda and Nandana);—‘the daughter of a Vrātya and the like’
-(Nārāyaṇa).
+‘*Anāryāyām*’—‘A Śūdra female’ (Medhātithi, Govindarāja, Kullūka, Rāghavānanda and Nandana);—‘the daughter of a Vrātya and the like’ (Nārāyaṇa).
 
-‘*Yadṛcchayā*’—‘By chance, *i.e*. even on an unmarried one’ (Medhātithi
-and Govindarāja);—‘unknowingly’ (Nārāyaṇa).
+‘*Yadṛcchayā*’—‘By chance, *i.e*. even on an unmarried one’ (Medhātithi and Govindarāja);—‘unknowingly’ (Nārāyaṇa).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

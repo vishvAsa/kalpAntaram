@@ -52,25 +52,11 @@ In as much as the text has put forward a reason for settling the dispute during 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 201), which adds the
-following notes:—‘*Nayet*’, ‘should find out’;—‘*setu*’ here stands for
-any mark of boundary,—where these are ‘*saprakāśa*,’ *i*. *e*., quite
-perceptible by reason of water having dried up;—the word ‘*Jyaiṣṭha*’
-also should be taken as standing for any time which makes it possible
-for the boundary-marks to be perceived.
+This verse is quoted in *Vivādaratnākara* (p. 201), which adds the following notes:—‘*Nayet*’, ‘should find out’;—‘*setu*’ here stands for any mark of boundary,—where these are ‘*saprakāśa*,’ *i*. *e*., quite perceptible by reason of water having dried up;—the word ‘*Jyaiṣṭha*’ also should be taken as standing for any time which makes it possible for the boundary-marks to be perceived.
 
-It is quoted in *Aparārka* (p. 758), which adds the following notes:—The
-term ‘*grāma*’ should be taken including cities, fields and houses in
-regard to which boundary-disputes arise, so that boundary-disputes fall
-into these four classes;—when the text mentions the month of
-‘*Jyeṣṭha*’, it does not mean that it must be done during that month;
-all that it means to imply is *convenience*, that month being the most
-convenient for the purpose of determining boundaries;—‘*setu*’ stands
-for bunds and other boundary-marks;—in *Vivādacintāmaṇi* (p. 92);—and in
+It is quoted in *Aparārka* (p. 758), which adds the following notes:—The term ‘*grāma*’ should be taken including cities, fields and houses in regard to which boundary-disputes arise, so that boundary-disputes fall into these four classes;—when the text mentions the month of ‘*Jyeṣṭha*’, it does not mean that it must be done during that month; all that it means to imply is *convenience*, that month being the most convenient for the purpose of determining boundaries;—‘*setu*’ stands for bunds and other boundary-marks;—in *Vivādacintāmaṇi* (p. 92);—and in
 *Vīramitrodaya* (Vyavahāra, 142a), which says that the month of,
-‘*Jyeṣṭha*’ is mentioned only by way of illustration; all that is meant
-is that it shall be done at a time when the boundary-marks may be
-perceptible,—and that ‘*grāma*’ stands for *city* also.
+‘*Jyeṣṭha*’ is mentioned only by way of illustration; all that is meant is that it shall be done at a time when the boundary-marks may be perceptible,—and that ‘*grāma*’ stands for *city* also.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -79,26 +65,13 @@ perceptible,—and that ‘*grāma*’ stands for *city* also.
 **
 
 *Yājñavalkya* (2.151).—‘They should determine the boundary as indicated
-by a mound, coal, chaff or trees; as also by dikes, ant-hills, pits,
-bones, stone-piles and such other things.’
+by a mound, coal, chaff or trees; as also by dikes, ant-hills, pits, bones, stone-piles and such other things.’
 
 *Nārada* (11.4-5).—‘They shall determine the boundary in accordance with
-old landmarks, chaff of grain, coal, potsherds, wells, sanctuaries,
-trees,—objects of general notoriety, such as ant-hills, artificial
-mounds, slopes, hills and the like, fields, gardens, roads and old
-dikes.’
+old landmarks, chaff of grain, coal, potsherds, wells, sanctuaries, trees,—objects of general notoriety, such as ant-hills, artificial mounds, slopes, hills and the like, fields, gardens, roads and old dikes.’
 
 *Bṛhaspati* (19.2-6).—‘The determination of boundaries should be settled
-at the time of foundation, and it should be marked by visible and
-invisible signs, so as to dispel all doubt. Wells, tanks, pools, large
-trees, gardens, temples, mounds, channels, the course of a river, sands,
-shrubs, or piles of stones;—by such visible signs as these a boundary
-line should always be marked; also by other marks deposited underground,
-which the earth is not likely to destroy;—such as dry cowdung, bones,
-chaff, charcoal, stones, potsherds, sand, bricks, cow’s tails,
-cotton-seeds and ashes; after having placed these substances in vessels
-one should deposit them there underground at the extremities of the
-boundary.’
+at the time of foundation, and it should be marked by visible and invisible signs, so as to dispel all doubt. Wells, tanks, pools, large trees, gardens, temples, mounds, channels, the course of a river, sands, shrubs, or piles of stones;—by such visible signs as these a boundary line should always be marked; also by other marks deposited underground, which the earth is not likely to destroy;—such as dry cowdung, bones, chaff, charcoal, stones, potsherds, sand, bricks, cow’s tails, cotton-seeds and ashes; after having placed these substances in vessels one should deposit them there underground at the extremities of the boundary.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -26,8 +26,7 @@ Though all these have already been mentioned before, yet they are repeated here 
 
 **(verses 6.87-93)**
 
-See Comparative notes for [Verse
-6.87].
+See Comparative notes for [Verse 6.87].
 </details>
 
 <details><summary>भारुचिः</summary>

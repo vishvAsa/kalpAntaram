@@ -28,13 +28,9 @@ Mushrooms having been already forbidden before, their repented prohibition in th
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Bhaumāni kavakāni*’—Medhātithi prefers to take the two
-separately—‘*bhaumāni*’ being ‘the vegetable known among foresters’ as
-‘*gojihvikā*’ and ‘*kavakāni*’ as ‘mushrooms’;—Govindarāja, Kullūka and
-Nārāyaṇa take the two together ‘mushrooms growing on the ground.’
+‘*Bhaumāni kavakāni*’—Medhātithi prefers to take the two separately—‘*bhaumāni*’ being ‘the vegetable known among foresters’ as ‘*gojihvikā*’ and ‘*kavakāni*’ as ‘mushrooms’;—Govindarāja, Kullūka and Nārāyaṇa take the two together ‘mushrooms growing on the ground.’
 
-This verse is quoted in *Aparārka* (p. 942);—and in *Parāśaramādhava*
-(Ācāra, p. 529), which explains ‘*Kavakāni*’ as ‘mushrooms.’
+This verse is quoted in *Aparārka* (p. 942);—and in *Parāśaramādhava* (Ācāra, p. 529), which explains ‘*Kavakāni*’ as ‘mushrooms.’
 </details>
 
 <details><summary>भारुचिः</summary>

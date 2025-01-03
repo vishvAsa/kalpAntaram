@@ -26,18 +26,11 @@ What is prohibited here is imitating the teacher in a joking spirit.—(199)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Kevalam*’—Such titles are always to be added as ‘*Upādhyāya*’ or
-‘*Bhaṭṭa*’ or ‘*Ācārya*’ (Medhātithi),—‘*ācārya*’ (Kullūka),—‘*caraṇa*’
-(Nārāyaṇa).
+‘*Kevalam*’—Such titles are always to be added as ‘*Upādhyāya*’ or ‘*Bhaṭṭa*’ or ‘*Ācārya*’ (Medhātithi),—‘*ācārya*’ (Kullūka),—‘*caraṇa*’ (Nārāyaṇa).
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 492) in support of
-the view that whenever the teacher’s name has got to he pronounced, it
-should he accompanied with such honorific titles as ‘*upādhyāya*’ and
-the like;—also in *Madanapārijāta* (p. 1 06);—in *Aparārka* (p. 56);—in
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 492) in support of the view that whenever the teacher’s name has got to he pronounced, it should he accompanied with such honorific titles as ‘*upādhyāya*’ and the like;—also in *Madanapārijāta* (p. 1 06);—in *Aparārka* (p. 56);—in
 *Saṃskāramayūkha* (p. 42), which says that the name should not be
-uttered *by itself* (*kevalam*), it should always he accompanied by some
-such title as ‘*upādhyāya*’ and the like;—and in *Smṛticandrikā*
-(Saṃskāra, p. 121).
+uttered *by itself* (*kevalam*), it should always he accompanied by some such title as ‘*upādhyāya*’ and the like;—and in *Smṛticandrikā* (Saṃskāra, p. 121).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -49,8 +42,7 @@ of the teacher’s son and of one initiated for a sacrifice.’
 *gotra* should be uttered with respect.’
 
 *Āpastamba Dharmasūtra* (1. 8. 15).—‘Poking with the finger, whispering
-at the ear, laughing, addressing loudly, uttering the name, and
-directing—these should be avoided, in regard to the teacher.’
+at the ear, laughing, addressing loudly, uttering the name, and directing—these should be avoided, in regard to the teacher.’
 
 *Viṣṇu* (28. 24. 25).—‘He should not pronounce his mere name;—nor should
 he mimic his gait, speech or deportment.’

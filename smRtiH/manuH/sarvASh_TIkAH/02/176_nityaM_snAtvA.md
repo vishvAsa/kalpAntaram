@@ -104,12 +104,9 @@ What the truth on this point is we shall explain below, under verse 189.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Snātvā*’—“He should bathe for cleanliness, not for *pleasure*;
-according to Gautama 2.8,2 and 9.61; Baudhāyana 1.2.3.39 and Viṣṇu
-28.5”.—Hopkins.
+‘*Snātvā*’—“He should bathe for cleanliness, not for *pleasure*; according to Gautama 2.8,2 and 9.61; Baudhāyana 1.2.3.39 and Viṣṇu 28.5”.—Hopkins.
 
-This verse is quoted in *Aparārka* (p. 62);—and in *Smṛticandrikā*
-(Saṃskāra, p. 117).
+This verse is quoted in *Aparārka* (p. 62);—and in *Smṛticandrikā* (Saṃskāra, p. 117).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -127,9 +124,7 @@ repetition of the *Gāyatrī*.,—daily.’
 *Gautama* (2.12, 14).—‘Fire-kindling, alms-begging;—bathing in water.’
 
 *Yama* (*Aparārka*, p. 02).—‘With sleep, indolence, anger and his own
-self under control, he shall avoid sleeping and sitting on the couch,
-and the cleansing of the teeth; he shall sleep alone on kuśa-gass, and
-shall never emit his semen anywhere.’
+self under control, he shall avoid sleeping and sitting on the couch, and the cleansing of the teeth; he shall sleep alone on kuśa-gass, and shall never emit his semen anywhere.’
 </details>
 
 <details><summary>Bühler</summary>

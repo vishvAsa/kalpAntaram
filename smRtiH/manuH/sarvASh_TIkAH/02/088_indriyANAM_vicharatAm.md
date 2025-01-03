@@ -48,11 +48,9 @@ If the organs did not operate among them, what could even the most alluring obje
 This verse is quoted in *Bālambhaṭṭi* (Vyāvahāra, p. 606).
 
 *Medhātithi* (p. 116, 11. 11-12)—*Pariśiṣṭorthavādaḥ
-āṣandhyopāsanavidhiḥ*—*i.e*. upto verse 100, all this is mere Arthavāda.
-But on p. 110, he says that verse 97 contains a *vidhi*.
+āṣandhyopāsanavidhiḥ*—*i.e*. upto verse 100, all this is mere Arthavāda. But on p. 110, he says that verse 97 contains a *vidhi*.
 
-It is interesting to note that what Medhātithi has called Arthavāda,
-Hopkins calls ‘elaborate interpolation’ (note on verse 91).
+It is interesting to note that what Medhātithi has called Arthavāda, Hopkins calls ‘elaborate interpolation’ (note on verse 91).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -64,14 +62,10 @@ under control attains the regions of Brahman.’
 with fully qualified-aids.’
 
 *Kaṭha*-*Upaniṣad*, 3.6.—‘He who is equipped with knowledge, with mind
-composed, has his senses under control; just as good horses are under
-ṭhe control of the charioteer.’
+composed, has his senses under control; just as good horses are under ṭhe control of the charioteer.’
 
 *Bhagavadgītā*, 2.67-68.—‘When the mind follows in the wake of the
-roaming sense-organs, it deprives him of his wisdom; just as the storm
-destroys the boat in water. Therefore that man whose sense-organs have
-been withdrawn from the objects of sense, has his wisdom firmly
-established.’
+roaming sense-organs, it deprives him of his wisdom; just as the storm destroys the boat in water. Therefore that man whose sense-organs have been withdrawn from the objects of sense, has his wisdom firmly established.’
 </details>
 
 <details><summary>Bühler</summary>

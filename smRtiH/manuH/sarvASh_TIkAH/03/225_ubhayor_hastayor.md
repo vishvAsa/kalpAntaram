@@ -30,28 +30,19 @@ In ‘*ubhayoḥ*,’ ‘*both*,’ the Locative ending denotes location; and �
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 439);—in *Hemādri* (Śrāddha, p.
-1368), which explains the meaning as ‘the food that is not brought by
-both hands is taken away by force’ (‘*sahasā*’) by the wicked
-(*duṣṭacetasaḥ*) ‘Asuras’;—in ‘*Śrāddhakriyākaumudī*’ (p. 158), which
-explains ‘*ubhayorhastayormuktam*’ as ‘(brought) with only one
-hand’;—and in ‘*Gadādharapaddhati*’ (Kāla, p. 545).
+This verse is quoted in *Aparārka* (p. 439);—in *Hemādri* (Śrāddha, p. 1368), which explains the meaning as ‘the food that is not brought by both hands is taken away by force’ (‘*sahasā*’) by the wicked (*duṣṭacetasaḥ*) ‘Asuras’;—in ‘*Śrāddhakriyākaumudī*’ (p. 158), which explains ‘*ubhayorhastayormuktam*’ as ‘(brought) with only one hand’;—and in ‘*Gadādharapaddhati*’ (Kāla, p. 545).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (11.22).—‘One shall offer food to the Pitṛs, with both hands;
-wicked-minded Asuras keep in waiting for the interval between the two
-hands.’
+wicked-minded Asuras keep in waiting for the interval between the two hands.’
 
 *Maṭysapurāṇa* (quoted in Caturvarga-cintāmaṇi-Śrāddha, p. 2370).—‘He
-shall bring up the food, with both hands, then serve it, with a calm
-mind, keeping in his hand water and kuśa.’
+shall bring up the food, with both hands, then serve it, with a calm mind, keeping in his hand water and kuśa.’
 
 *Brahmāṇḍapurāṇa* (quoted in Caturvarga-cintāmaṇi-Śrāddha, p.
-2370).—‘Serving shall not be done at the Śrāddha with any article made
-of iron, nor by one who is without the Pavitra and the kuśa, nor with
-one hand.’
+2370).—‘Serving shall not be done at the Śrāddha with any article made of iron, nor by one who is without the Pavitra and the kuśa, nor with one hand.’
 </details>
 
 <details><summary>Bühler</summary>

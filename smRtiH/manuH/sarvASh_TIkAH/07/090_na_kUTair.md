@@ -28,8 +28,7 @@ Those whose shafts are ‘*flaming*’, i.e., consisting of fire. He shell not f
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 405), which
-explains ‘*digdhaiḥ*’ as ‘poisoned’.
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 405), which explains ‘*digdhaiḥ*’ as ‘poisoned’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -37,8 +37,7 @@ This verse is quoted in *Hemādri* (Dāna, p. 90).
 **(verses 4.234-239)  
 **
 
-See Comparative notes for [Verse
-4.234].
+See Comparative notes for [Verse 4.234].
 </details>
 
 <details><summary>Bühler</summary>

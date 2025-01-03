@@ -37,15 +37,11 @@ These staves the Brahmacārīs ‘*should* *have*’ during the act to be descri
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 447);—in
 *Madanapārijāta* (p. 22),—in *Vīramitrodaya* (Saṃskāra, p. 436);—in
 *Smṛtitattva* (p. 930), which last points out that the copulative
-compound ‘*bailvapālaśau*’ should not be taken to imply that two staves
-have to be taken up; because later on, in verse 48, we have the singular
-form ‘*daṇḍam*’;—in *Nirṇayasindhu* (p. 189), and *Aparārka* (p. 57);—in
+compound ‘*bailvapālaśau*’ should not be taken to imply that two staves have to be taken up; because later on, in verse 48, we have the singular form ‘*daṇḍam*’;—in *Nirṇayasindhu* (p. 189), and *Aparārka* (p. 57);—in
 *Nṛsiṃhaprasāda* (Saṃskāra p. 43b);—in *Smṛticandrikā* (Saṃskāra, p.
 77), which adds that the text lays down optional alternatives;—in
 *Saṃskāramayūkha* (p. 37), which adds that a combination of all the
-staves is not meant, only one staff being held, as is clear from the
-singular number in the next verse; they are to be taken as optional
-alternatives;—and in *Saṃskāraratnamālā* (p. 193), which, along with
+staves is not meant, only one staff being held, as is clear from the singular number in the next verse; they are to be taken as optional alternatives;—and in *Saṃskāraratnamālā* (p. 193), which, along with
 *Mayūkha* reads ‘*paippala*’ or ‘*pailava*,’ and adds that option is
 clearly meant.
 </details>
@@ -56,14 +52,10 @@ clearly meant.
 tree.’
 
 *Gautama-Dharmasūtra*, 1.21.26.—‘The staff of the Brāhmaṇa is of Bilva
-and Palāśa; for the rest, of Aśvattha and Pīlu; or for all, of some
-sacrificial wood.’
+and Palāśa; for the rest, of Aśvattha and Pīlu; or for all, of some sacrificial wood.’
 
 *Āpastamba-Dharmasūtra*, 1.2.37.—‘The staff for tho Brāhmaṇa is of
-Palāśa; for the Kṣatriya, of the trunk or of the lower ends of the
-Nyagrodha tree; for the Vaiśya, of Badara or Udumbara; some people
-prescribe simply that the staff should be of some tree, without
-reference to particular castes.’
+Palāśa; for the Kṣatriya, of the trunk or of the lower ends of the Nyagrodha tree; for the Vaiśya, of Badara or Udumbara; some people prescribe simply that the staff should be of some tree, without reference to particular castes.’
 
 *Vaśiṣṭha-Smṛti*, 11.45.—‘For the Brāhmaṇa, the staff is of Palāśa or
 Bilva; for the Kṣatriya of Nyagrodha; for the Vaiśya, of Udumbara.’
@@ -74,19 +66,16 @@ Bilva; for the Kṣatriya of Nyagrodha; for the Vaiśya, of Udumbara.’
 Palāśa; for the Kṣatriya, of Udumbara; for the Vaiśva, of Bilva.’
 
 *Pāraskara-Gṛhyasūtra*, 2.5.25-28.—‘The staff for the Brāhmaṇa is of
-Palāśa; for the Kṣatriya, of Bilva; for the Vaiśya, of Udumbara; or all
-for all.’
+Palāśa; for the Kṣatriya, of Bilva; for the Vaiśya, of Udumbara; or all for all.’
 
 *Gobhila-Gṛhyasūtra*, 2.10.11.—‘Staves are of Palāśa, Bilva and
 Aśvattha.’
 
 *Hīraṇyakeśin* (Vīramitrodaya-Saṃskāra, p. 134).—‘The staff for the
-Brāhmaṇa is of Bilva or Palāśa; for the Kṣatriya, of Nyagrodha; for the
-Vaiśya, of Udumbara.’
+Brāhmaṇa is of Bilva or Palāśa; for the Kṣatriya, of Nyagrodha; for the Vaiśya, of Udumbara.’
 
 *Bhaviṣya-purāṇa* (Do., p. 434).—‘For the Brāhmaṇa, the staff is of
-Bilva, Palāśa and Plakṣa; for the Kṣatriya, of Nyagrodha, Khadira and
-Vetasa; for tho Vaiśya, of Pīlu, Udumbara and Aśvattha.’
+Bilva, Palāśa and Plakṣa; for the Kṣatriya, of Nyagrodha, Khadira and Vetasa; for tho Vaiśya, of Pīlu, Udumbara and Aśvattha.’
 
 *Śaṅkha* (Vīramitrodaya-Saṃskara, p. 435).—‘The staves are of Palāśa,
 Pippala and Bilva, respectively.’
@@ -100,10 +89,7 @@ Varaṇa.’
 *Yama* (Aparārka, p. 57).—‘In the absence of those enumerated, any
 sacrificial wood may be used by any caste.’
 
-The ‘sacrificial trees have been enumerated in Brahma-purāṇa, as
-follows:—‘Śamī, Palāśa, Nyagrodha, Plakṣa, Vikaṅkata, Aśvattha,
-Udumbara, Bilva, Chandana, Sarala, Sālva, Devadāru and Khadira.’
-(Vīramitrodaya-Saṃskara, p. 435).
+The ‘sacrificial trees have been enumerated in Brahma-purāṇa, as follows:—‘Śamī, Palāśa, Nyagrodha, Plakṣa, Vikaṅkata, Aśvattha, Udumbara, Bilva, Chandana, Sarala, Sālva, Devadāru and Khadira.’ (Vīramitrodaya-Saṃskara, p. 435).
 </details>
 
 <details><summary>Bühler</summary>

@@ -24,26 +24,16 @@ The text speaks of only ladies of older age; but in the case of younger ladies a
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 458) in support of
-the view that the mother-in-law should be accosted with the clasping of
-her feet, whereby the prohibition of clasping of the feet of the
-mother-in-law, met with in some Smṛtis, has to be taken as referring to
-eases where the mother-in-law happens to be a youthful woman,—under
-which circumstances the Teacher’s wife also should not be clasped in the
-feet.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 458) in support of the view that the mother-in-law should be accosted with the clasping of her feet, whereby the prohibition of clasping of the feet of the mother-in-law, met with in some Smṛtis, has to be taken as referring to eases where the mother-in-law happens to be a youthful woman,—under which circumstances the Teacher’s wife also should not be clasped in the feet.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama-Dharmasūtra* (6.7).—‘Unless one has returned from journey, one
-shall not touch the feet of a woman, except his mother, paternal aunt
-and sister.’
+shall not touch the feet of a woman, except his mother, paternal aunt and sister.’
 
 *Āpastamba-Dharmasūtra* (1.14.6.9).—‘The Mother and the Father should be
-attended upon like the Teacher;—on the completion of his study, he
-should clasp the feet of all his elders;—also when he meets them on
-returning from a journey;—in the case of brothers and sisters, clasping
-of feet should be done in order of seniority.’
+attended upon like the Teacher;—on the completion of his study, he should clasp the feet of all his elders;—also when he meets them on returning from a journey;—in the case of brothers and sisters, clasping of feet should be done in order of seniority.’
 
 *Viṣṇu-Smṛti* (32.3).—‘Mother’s sister, father’s sister and the elder
 sister also.’

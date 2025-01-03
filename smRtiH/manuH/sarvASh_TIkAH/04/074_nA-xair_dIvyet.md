@@ -32,8 +32,7 @@ His shoes, made of leather, he shall not carry from one place to another, ‘*hi
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Na pāṇistham*’—‘Placed in the left hand’ (Nārāyaṇa);—‘served in the
-hand, and not in a dish’ (Medhātithi and Kullūka).
+‘*Na pāṇistham*’—‘Placed in the left hand’ (Nārāyaṇa);—‘served in the hand, and not in a dish’ (Medhātithi and Kullūka).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

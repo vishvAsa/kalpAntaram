@@ -24,15 +24,13 @@ What is meant by this verse has already been explained.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This also is quoted along with verses 233 and 234, in *Parāśaramādhava*
-(Ācāra, p. 336);—and in *Smṛticandrikā* (Saṃskāra, p. 95).
+This also is quoted along with verses 233 and 234, in *Parāśaramādhava* (Ācāra, p. 336);—and in *Smṛticandrikā* (Saṃskāra, p. 95).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (31.3.5.6).—‘One should always attend upon these;—he should do
-what is agreeable and beneficial to them;—he should do nothing without
-their permission.’
+what is agreeable and beneficial to them;—he should do nothing without their permission.’
 </details>
 
 <details><summary>Bühler</summary>

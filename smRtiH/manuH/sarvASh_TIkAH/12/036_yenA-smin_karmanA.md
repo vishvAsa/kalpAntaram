@@ -48,8 +48,7 @@ The motive being—‘by doing this act I shall obtain praise in the world,’�
 **(verses 12.32-51)  
 **
 
-See Comparative notes for [Verse
-12.32].
+See Comparative notes for [Verse 12.32].
 </details>
 
 <details><summary>Bühler</summary>

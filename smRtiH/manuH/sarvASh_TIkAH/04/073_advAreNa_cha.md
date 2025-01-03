@@ -20,8 +20,7 @@ It is only in the case of the *walled* village that the text forbids entering, e
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 184),—and in *Saṃskāramayūkha*
-(p. 72).
+This verse is quoted in *Aparārka* (p. 184),—and in *Saṃskāramayūkha* (p. 72).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -30,12 +29,10 @@ This verse is quoted in *Aparārka* (p. 184),—and in *Saṃskāramayūkha*
 the wrong gate......,—these he shall avoid.’
 
 *Āpastamba* (1.31.21).—‘He shall not enter the village by the wrong way;
-if he does so enter it, he shall recite the mantra *Namo rudrāya
-vāstoṣpataye*, *etc*., or some other mantra sacred to Rudra.’
+if he does so enter it, he shall recite the mantra *Namo rudrāya vāstoṣpataye*, *etc*., or some other mantra sacred to Rudra.’
 
 *Pāraskara* (2.7.6).—‘Looking at the water-reservoir, climbing the
-tree......, crossing over dangerous places........., these he shall
-avoid.’
+tree......, crossing over dangerous places........., these he shall avoid.’
 
 *Yājñavalkya* (1.140).—‘He shall not enter anywhere except through the
 right gate.’

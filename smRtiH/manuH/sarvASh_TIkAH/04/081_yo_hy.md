@@ -32,8 +32,7 @@ This verse is quoted in *Aparārka* (p. 220).
 **(verses 4.80-81)  
 **
 
-See Comparative notes for [Verse
-4.80].
+See Comparative notes for [Verse 4.80].
 </details>
 
 <details><summary>Bühler</summary>

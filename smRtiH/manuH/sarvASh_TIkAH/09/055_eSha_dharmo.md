@@ -40,12 +40,7 @@ It is only a reiteration of the well-known fact that birds and other animals do 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 580), which explains ‘*eṣa
-dharmaḥ*’, as ‘the principle that the owner of the seed does not obtain
-the fruit;’—also in *Smṛtitattva* (II, p. 150), which adds that the term
-‘*dāsī*’ here stands for the slave-girl married to another slave; the
-child of such a slave-girl belongs to the owner of the girl, not to that
-of the father;—and in *Vyavahāra-Bālambhaṭṭī* (pp. 521 and 574).
+This verse is quoted in *Vivādaratnākara* (p. 580), which explains ‘*eṣa dharmaḥ*’, as ‘the principle that the owner of the seed does not obtain the fruit;’—also in *Smṛtitattva* (II, p. 150), which adds that the term ‘*dāsī*’ here stands for the slave-girl married to another slave; the child of such a slave-girl belongs to the owner of the girl, not to that of the father;—and in *Vyavahāra-Bālambhaṭṭī* (pp. 521 and 574).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -56,8 +51,7 @@ of the father;—and in *Vyavahāra-Bālambhaṭṭī* (pp. 521 and 574).
 [(See the texts under
 31-44.)]
 
-See Comparative notes for [Verse
-9.48].
+See Comparative notes for [Verse 9.48].
 </details>
 
 <details><summary>भारुचिः</summary>

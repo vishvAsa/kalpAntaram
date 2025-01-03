@@ -38,15 +38,9 @@ She shall be made to live in her father’s house, till she gets rid of her love
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Samyatām*’—‘Kept away from amusements and guarded by chamberlains’
-\[not ‘relatives’ as stated by Buhler\] (Medhātithi);—‘bound’
-(Nārāyaṇa). Kullūka is misrepresented by Buhler: he says nothing about
-‘fettering’; he only says that she is to be kept in the house ‘with
-care’.
+‘*Samyatām*’—‘Kept away from amusements and guarded by chamberlains’ \[not ‘relatives’ as stated by Buhler\] (Medhātithi);—‘bound’ (Nārāyaṇa). Kullūka is misrepresented by Buhler: he says nothing about ‘fettering’; he only says that she is to be kept in the house ‘with care’.
 
-This verse is quoted in *Vivādaratnākara* (p. 404), which explains
-‘*Sāvamānām*’ as ‘winning him over to herself for the purposes of sexual
-intercourse’,—and ‘*samyatām*’ as ‘imprisoned.’
+This verse is quoted in *Vivādaratnākara* (p. 404), which explains ‘*Sāvamānām*’ as ‘winning him over to herself for the purposes of sexual intercourse’,—and ‘*samyatām*’ as ‘imprisoned.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -54,8 +48,7 @@ intercourse’,—and ‘*samyatām*’ as ‘imprisoned.’
 **(verses 8.364-368)  
 **
 
-See Comparative notes for [Verse
-8.364].
+See Comparative notes for [Verse 8.364].
 </details>
 
 <details><summary>भारुचिः</summary>

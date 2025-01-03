@@ -26,18 +26,13 @@ When however he rises to meek him and salutes him, the breaths proceed, as befor
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 460);—again in the
-same work (Ācāra, p. 150), where ‘*Āyāti*’ is explained as
-‘*āyocchati*’;—and in *Smṛticandrikā* (Saṃskāra, p. 97), as laying down
-that before saluting one should rise.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 460);—again in the same work (Ācāra, p. 150), where ‘*Āyāti*’ is explained as ‘*āyocchati*’;—and in *Smṛticandrikā* (Saṃskāra, p. 97), as laying down that before saluting one should rise.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha-smṛti* (13.13).—‘The Priest, the Father-in-law, the paternal
-uncle, the maternal uncle—those not junior in age;—these he shall salute
-after standing to receive them.’ *Āpastamba*, (Parāśaramādhava, p.
-297)—\[reproduces Manu\].
+uncle, the maternal uncle—those not junior in age;—these he shall salute after standing to receive them.’ *Āpastamba*, (Parāśaramādhava, p. 297)—\[reproduces Manu\].
 
 *Mahābhārata* (13.104.64-65).—(same as Manu).
 </details>

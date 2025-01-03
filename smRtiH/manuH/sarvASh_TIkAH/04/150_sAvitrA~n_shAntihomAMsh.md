@@ -36,8 +36,7 @@ These oblations are mentioned here for the first time, and the exact procedure o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in Apar ā rka (p. 229), where it is explained to
-mean that ‘one should offer on the fifteenth day of every fortnight the
+This verse is quoted in Apar ā rka (p. 229), where it is explained to mean that ‘one should offer on the fifteenth day of every fortnight the
 *Ājya-homas* to Savitṛ, which alleviate the evil effects of sins;—and in
 *Hemādri* (Kāla, p. 682), which explains ‘*Savitrai*’ as ‘those
 dedicated to the deity Savitṛ.’
@@ -49,14 +48,10 @@ dedicated to the deity Savitṛ.’
 oblations.’
 
 *Viṣṇu* (76.1-2).—‘The moonless day, the three Aṣṭakās, the three
-Anvaṣṭakās, the full moon day of Māgha, the thirteenth day after the
-full moon day of Bhādra, and also the ripening of the Vrīhi and the
-Yava;—these are the compulsory occasions for Śrāddha—says Prajāpati. If
-one does not offer Śrāddha on these occasions, he falls into hell.’
+Anvaṣṭakās, the full moon day of Māgha, the thirteenth day after the full moon day of Bhādra, and also the ripening of the Vrīhi and the Yava;—these are the compulsory occasions for Śrāddha—says Prajāpati. If one does not offer Śrāddha on these occasions, he falls into hell.’
 
 *Yājñavalkya* (1.217).—‘The moonless day, the Aṣṭakās, the Vṛddhi, the
-darker fortnight, the two solstices, materials, excellent Brāhmaṇas, and
-the Viṣuvat Saṅkrānti.’
+darker fortnight, the two solstices, materials, excellent Brāhmaṇas, and the Viṣuvat Saṅkrānti.’
 
 *Prajāpati* (30).—‘On all the Aṣṭakās, and all the Anvaṣṭakās, one
 should offer balls of food, which is conducive to endless satisfaction.’

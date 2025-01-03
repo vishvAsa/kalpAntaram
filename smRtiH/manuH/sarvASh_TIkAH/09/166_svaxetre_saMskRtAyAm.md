@@ -143,12 +143,9 @@ What is the harm if it does? This may be the *thirteenth* kind of son. In fact, 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Svakṣetre*’—‘On his own wife’ (Medhātithi);—‘on his wife of the same
-caste as himself’ (‘others’ in Medhātithi, Nārāyaṇa and Kullūka).
+‘*Svakṣetre*’—‘On his own wife’ (Medhātithi);—‘on his wife of the same caste as himself’ (‘others’ in Medhātithi, Nārāyaṇa and Kullūka).
 
-This verse is quoted in *Vivādaratnākara* (p. 553);—in *Parāśaramādhava*
-(Prayāścitta, p. 38);—in *Vyavahāra-Bālambhaṭṭī* (pp. 538, 557 and
-689);—and in *Nṛsiṃhaprasāda* (Vyavahāra 38a);
+This verse is quoted in *Vivādaratnākara* (p. 553);—in *Parāśaramādhava* (Prayāścitta, p. 38);—in *Vyavahāra-Bālambhaṭṭī* (pp. 538, 557 and 689);—and in *Nṛsiṃhaprasāda* (Vyavahāra 38a);
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -157,9 +154,7 @@ This verse is quoted in *Vivādaratnākara* (p. 553);—in *Parāśaramādhava*
 wedded wife of equal caste is called the *Aurasa*, *Body-born*, son.’
 
 *Āpastamba* (2.13.1-2)—‘Sons begotten by a man who approaches in the
-proper season, a woman of equal caste, who has not belonged to another
-man, and who has been married legally, have a right to follow the
-occupations of the caste and to inherit the father’s estate.’
+proper season, a woman of equal caste, who has not belonged to another man, and who has been married legally, have a right to follow the occupations of the caste and to inherit the father’s estate.’
 
 *Vaśiṣṭha* (17.13).—‘The first among sons is the son begotten by the
 husband himself on his legally married wife.’
@@ -171,8 +166,7 @@ begotten by the husband himself on his own lawfully wedded wife.’
 wedded wife.’
 
 *Devala* (Vivādaratnākara, p. 554).—‘One who is begotten by one’s self
-on one’s legally married wife, is the body-born son, the principal
-upholder of the father’s family.’
+on one’s legally married wife, is the body-born son, the principal upholder of the father’s family.’
 
 *Arthaśāstra* (II, p. 40).—‘The son begotten by the man himself on his
 lawfully wedded wife is the body-born son.’

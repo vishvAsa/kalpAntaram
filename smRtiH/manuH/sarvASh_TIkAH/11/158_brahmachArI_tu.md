@@ -36,8 +36,7 @@ If a person keeping a vow happens, in any way, to eat honey or meat, he should p
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha*, (23.11).—‘If a Student eats meat which has been given to him
-as leavings, he shall perform the *Kṛcchra* penance of twelve days’
-duration, and afterwards complete his vow.’
+as leavings, he shall perform the *Kṛcchra* penance of twelve days’ duration, and afterwards complete his vow.’
 
 *Viṣṇu* (51.45).—‘If a Student eats honey or meat at any time, he must
 perform the *Prājāpatya* penance.’

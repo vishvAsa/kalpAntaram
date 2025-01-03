@@ -56,8 +56,7 @@ Our revered teacher however declares that if we read ‘*aniyuktā*,’ ‘not a
 **(verses 9.145-148)  
 **
 
-See Comparative notes for [Verse
-9.145].
+See Comparative notes for [Verse 9.145].
 </details>
 
 <details><summary>भारुचिः</summary>

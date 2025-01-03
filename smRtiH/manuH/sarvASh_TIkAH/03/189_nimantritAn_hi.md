@@ -36,8 +36,7 @@ seated. The meaning is that the invited Brāhmaṇas take the form of the Pitṛ
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Hemādri* (Śrāddha, p. 1005), which adds that
-the Fathers ‘*upatiṣṭhanti*,’ enter the bodies of the invited Brāhmaṇas;
+This verse is quoted in *Hemādri* (Śrāddha, p. 1005), which adds that the Fathers ‘*upatiṣṭhanti*,’ enter the bodies of the invited Brāhmaṇas;
 *i*. *e*., the Brāhmaṇas represent the Fathers; for this reason they
 should keep pure.
 </details>

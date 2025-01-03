@@ -32,8 +32,7 @@ Cf. 9.78 *et. seq*.
 
 This verse is quoted in *Madanapārijāta*, (p. 193);—in
 *Saṃskāraratnamālā*, (p. 675), which leads ‘*upacāraiḥ*’ (for
-‘*upacaryaḥ*’), and says that ‘*pūjanīyaḥ*,’ ‘should be honoured’, is
-understood;—in *Nṛsiṃhaprasāda* (Saṃskāra, p. 67a);—and in
+‘*upacaryaḥ*’), and says that ‘*pūjanīyaḥ*,’ ‘should be honoured’, is understood;—in *Nṛsiṃhaprasāda* (Saṃskāra, p. 67a);—and in
 *Varṣakriyākaumudī*, (p. 579).
 </details>
 
@@ -49,14 +48,10 @@ husbands,—this is the highest duty of woman.’
 shall she undertake fasts, observances and the like.’
 
 *Viṣṇu* (25.15-16).—‘No sacrifice, no penance, and no fasting is
-permitted to women apart from their husbands; to pay obedience to her
-lord is the only means for a woman to obtain bliss in heaven. A woman
-who keeps a fast or performs a penance in the life-time of her husband,
-deprives him of his life and will go to hell.’
+permitted to women apart from their husbands; to pay obedience to her lord is the only means for a woman to obtain bliss in heaven. A woman who keeps a fast or performs a penance in the life-time of her husband, deprives him of his life and will go to hell.’
 
 *Mārkaṇḍeya* (Parāśaramādhava, Prāyaścitta, p. 31).—‘If a woman without
-the permission of her father, husband or son performs a penance, it
-becomes futile.’
+the permission of her father, husband or son performs a penance, it becomes futile.’
 
 *Kātyāyana* (Parāśaramādhava, Prāyaścitta, p. 31).—‘The wife should
 perform penances only with the permission of her husband.’

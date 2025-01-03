@@ -52,8 +52,7 @@ Then again, it has already been explained that the term ‘friend’ in the pres
 **(verses 3.139-140)  
 **
 
-See Comparative notes for [Verse
-3.139].
+See Comparative notes for [Verse 3.139].
 </details>
 
 <details><summary>Bühler</summary>

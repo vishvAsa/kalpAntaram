@@ -22,16 +22,7 @@ The pronouncing of the Father’s name stands here for his invitation, offering 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 542), which, in explaining
-the phrase ‘*pituḥ svanāma saṅkīrtya*,’ says that in offering the
-Ball—to his own great-grandfather, *e.g*., he should refer to him as
-‘the grandfather of my father, so aṇd so’;—also in *Nirṇayasindhu* (p.
-362) in support of the view that if the grandfather be living, the
-offerings; should be made to the Father, the great-grandfather and the
-great-great-grandfather;—and in *Śrāddhakriyākaumudī* (p. 553), which
-notes that ‘*nāmakīrtaṇa*,’ ‘mentioning of the name’ stands for
-‘offering the Śrāddha’ and ‘*prapitāmaha*,’ ‘great-grandfather’ means
-the ‘great-great-grandfather’ also.
+This verse is quoted in *Madanapārijāta* (p. 542), which, in explaining the phrase ‘*pituḥ svanāma saṅkīrtya*,’ says that in offering the Ball—to his own great-grandfather, *e.g*., he should refer to him as ‘the grandfather of my father, so aṇd so’;—also in *Nirṇayasindhu* (p. 362) in support of the view that if the grandfather be living, the offerings; should be made to the Father, the great-grandfather and the great-great-grandfather;—and in *Śrāddhakriyākaumudī* (p. 553), which notes that ‘*nāmakīrtaṇa*,’ ‘mentioning of the name’ stands for ‘offering the Śrāddha’ and ‘*prapitāmaha*,’ ‘great-grandfather’ means the ‘great-great-grandfather’ also.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -40,8 +31,7 @@ the ‘great-great-grandfather’ also.
 father and then to the two ancestors above the grand-father.’
 
 *Laghu-Ā* *svalāyana* (20.38).—‘If the father dies while the
-grand-father is alive, three balls shall be offered beginning with the
-great-grand-father.’
+grand-father is alive, three balls shall be offered beginning with the great-grand-father.’
 </details>
 
 <details><summary>Bühler</summary>

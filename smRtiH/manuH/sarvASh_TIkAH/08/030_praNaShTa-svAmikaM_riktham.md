@@ -82,43 +82,15 @@ Thus then, there is no reason for abandoning the direct literal meaning of the w
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This rule is meant for only such property as does not belong to a
-Brāhmaṇa—says Nandana.
+This rule is meant for only such property as does not belong to a Brāhmaṇa—says Nandana.
 
-This verse is quoted in *Aparārka* (p. 778), which notes that the rule
-(relating to the keeping of the property for three years) pertains to
-the case of property belonging to Brāhmaṇas with exceptional
-qualifications;—in *Mitākṣarā* on 2.38, which notes that the meaning is
-that for three years, the property must be kept in safe custody; if the
-owner turns up before the lapse of one year, the entire property should
-be handed over to him; but if he turns up after one year then a portion
-of the property is to be taken by the king as fee for keeping it; the
-proportion being specified below in verse 33; it adds that the last
-clause, permits the king to spend the property after three years, only
-in the case of the owner not turning up at all.—It is quoted again under
-1.173, where it is noted that the period of three years is meant for the
-case of the owner being a Brāhmaṇa ‘endowed with learning and
-character.’
+This verse is quoted in *Aparārka* (p. 778), which notes that the rule (relating to the keeping of the property for three years) pertains to the case of property belonging to Brāhmaṇas with exceptional qualifications;—in *Mitākṣarā* on 2.38, which notes that the meaning is that for three years, the property must be kept in safe custody; if the owner turns up before the lapse of one year, the entire property should be handed over to him; but if he turns up after one year then a portion of the property is to be taken by the king as fee for keeping it; the proportion being specified below in verse 33; it adds that the last clause, permits the king to spend the property after three years, only in the case of the owner not turning up at all.—It is quoted again under 1.173, where it is noted that the period of three years is meant for the case of the owner being a Brāhmaṇa ‘endowed with learning and character.’
 
-It is quoted in *Madanapārijāta* (p. 226), which notes that this only
-permits the king to *make use* of the property (not to make it his own).
-In view of what the *Mitākṣarā* and *Aparārka* have said, it is
-interesting to note that *Madnapārijāta* reads ‘*abdam*’ and ‘*abdāt*’,
-which clearly puts down the period as *one year* only.
+It is quoted in *Madanapārijāta* (p. 226), which notes that this only permits the king to *make use* of the property (not to make it his own). In view of what the *Mitākṣarā* and *Aparārka* have said, it is interesting to note that *Madnapārijāta* reads ‘*abdam*’ and ‘*abdāt*’, which clearly puts down the period as *one year* only.
 
-It is quoted in *Vyavahāramayūkha* (p. 87), which also notes that the
-rules refer to the property of a Brāhmaṇa learned in the Veda.
+It is quoted in *Vyavahāramayūkha* (p. 87), which also notes that the rules refer to the property of a Brāhmaṇa learned in the Veda.
 
-This is quoted in *Vīramitrodaya* (Rājanīti, p. 266), which adds the
-following notes:—Reading this text along with *Yājñavalkya* (2-33), we
-take the rule to be that, if the owner turns up before the lapse of one
-year, the entire property should be made over to him, but if after that,
-the king should take from it his own share;—for three years he should
-keep the property in the same condition in which it was found; and after
-that he is permitted to spend out of it;—and if the owner turns up after
-three years, then the king should take out of it his own share, which
-should be equal to that of the owner,—giving the fourth part of the
-royal share to the man who found the property.
+This is quoted in *Vīramitrodaya* (Rājanīti, p. 266), which adds the following notes:—Reading this text along with *Yājñavalkya* (2-33), we take the rule to be that, if the owner turns up before the lapse of one year, the entire property should be made over to him, but if after that, the king should take from it his own share;—for three years he should keep the property in the same condition in which it was found; and after that he is permitted to spend out of it;—and if the owner turns up after three years, then the king should take out of it his own share, which should be equal to that of the owner,—giving the fourth part of the royal share to the man who found the property.
 
 It is quoted in *Nṛsiṃhaprasāda* (Āhnika, p. 36a and Vyavahāra, p. 27b).
 </details>
@@ -126,39 +98,23 @@ It is quoted in *Nṛsiṃhaprasāda* (Āhnika, p. 36a and Vyavahāra, p. 27b).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (10.36-38).—‘Those who find lost, property, the owner of which
-is not known, shall report it to the King. The King shall cause it to be
-proclaimed and hold it in his custody for a year. After that one-fourth
-of the value of the property goes to the finder and the remainder to the
-King.’
+is not known, shall report it to the King. The King shall cause it to be proclaimed and hold it in his custody for a year. After that one-fourth of the value of the property goes to the finder and the remainder to the King.’
 
 *Vaśiṣṭha* (16.19-20).—‘Property entirely given up goes to the King. If
-it be otherwise, the King with his ministers and the citizens shall
-administer it.’
+it be otherwise, the King with his ministers and the citizens shall administer it.’
 
 *Yājñavalkya* (2.33).—‘The property lost and found, the King shall make
-over to him to whom it belongs; if he fails to substantiate with proofs
-his claim to it, he shall he punished with fine equal to the value of
-the property.’
+over to him to whom it belongs; if he fails to substantiate with proofs his claim to it, he shall he punished with fine equal to the value of the property.’
 
-Do. (2.172).—‘If a man obtains from another person the property that had
-been stolen or lost,—without reporting it to the King—he should he fined
-96 *Paṇas*.’
+Do. (2.172).—‘If a man obtains from another person the property that had been stolen or lost,—without reporting it to the King—he should he fined 96 *Paṇas*.’
 
 *Yājñavalkya* (2.173).—‘When a stolen or lost property is brought to the
-King by the customs-officers or by village-officers, the owner thereof
-shall get it if he turns up before one year; after that the King shall
-take it himself.’
+King by the customs-officers or by village-officers, the owner thereof shall get it if he turns up before one year; after that the King shall take it himself.’
 
 *Agnipurāṇa* (Rājadharma, 222.16-17).—(Same as Manu.)
 
 *Arthaśāstra* (p. 96).—‘If the owner of the lost property proves his
-ownership, he obtains what had been lost and recovered. If he fails to
-prove his ownership, he is fined the fifth part of the value of the
-article: and the article becomes the lawful property of the King; if the
-owner takes forcible possession of the article lost and found, he is to
-he fined the first amercement. Property lost and found should remain
-deposited in the Customs Office; and after three fortnights, it is to he
-handed over to the rightful owner or surrendered to the royal treasury.’
+ownership, he obtains what had been lost and recovered. If he fails to prove his ownership, he is fined the fifth part of the value of the article: and the article becomes the lawful property of the King; if the owner takes forcible possession of the article lost and found, he is to he fined the first amercement. Property lost and found should remain deposited in the Customs Office; and after three fortnights, it is to he handed over to the rightful owner or surrendered to the royal treasury.’
 </details>
 
 <details><summary>भारुचिः</summary>

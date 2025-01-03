@@ -34,9 +34,7 @@ One devoid of right conduct, the man without vigour, the constant beggar, he who
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted without comment in *Parāśaramādhava* (Ācāra, p.
-688);—in *Hemādri* (Śrāddha, p. 482);—and in *Śrāddhakriyākaumudī* (p.
-40).
+This verse is quoted without comment in *Parāśaramādhava* (Ācāra, p. 688);—in *Hemādri* (Śrāddha, p. 482);—and in *Śrāddhakriyākaumudī* (p. 40).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -44,8 +42,7 @@ This verse is quoted without comment in *Parāśaramādhava* (Ācāra, p.
 **(verses 3.150-166)  
 **
 
-See Comparative notes for [Verse
-3.150].
+See Comparative notes for [Verse 3.150].
 </details>
 
 <details><summary>Bühler</summary>

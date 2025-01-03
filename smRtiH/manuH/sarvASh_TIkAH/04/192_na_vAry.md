@@ -82,8 +82,7 @@ to be expressed, the Dative would have been the right form to use.—(192).
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 285);—and in *Parāśaramādhava*
-(Ācāra, p. 74).
+This verse is quoted in *Aparārka* (p. 285);—and in *Parāśaramādhava* (Ācāra, p. 74).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

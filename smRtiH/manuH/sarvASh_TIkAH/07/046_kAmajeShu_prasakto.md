@@ -36,8 +36,7 @@ again on p. 742), as describing the vices.
 **(verses 7.45-53)  
 **
 
-See Comparative notes for [Verse
-7.45].
+See Comparative notes for [Verse 7.45].
 </details>
 
 <details><summary>भारुचिः</summary>

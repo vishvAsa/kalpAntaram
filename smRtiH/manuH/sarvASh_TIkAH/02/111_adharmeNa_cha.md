@@ -24,19 +24,15 @@ He who instructs a pupil—‘you should read this’—in an unlawful manner, e
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vidveṣam vādhigacchati*’—‘Incurs the ill-will of the people’
-(Medhātithi and Govindarāja);—‘loses the reward’ (Rāghavānanda);—‘incurs
-the other party’s enmity’ (Kullūka).
+‘*Vidveṣam vādhigacchati*’—‘Incurs the ill-will of the people’ (Medhātithi and Govindarāja);—‘loses the reward’ (Rāghavānanda);—‘incurs the other party’s enmity’ (Kullūka).
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 516), as laying
-down the duties of the Teacher.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 516), as laying down the duties of the Teacher.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu-Smṛti* (29.7)—(reproduces the words of Manu). Do.,
-(Vīramitrodaya-Saṃskāra, p. 516).—‘One should not teach, or sacrifice
-for, a person who has not been duly tested.’
+(Vīramitrodaya-Saṃskāra, p. 516).—‘One should not teach, or sacrifice for, a person who has not been duly tested.’
 </details>
 
 <details><summary>Bühler</summary>

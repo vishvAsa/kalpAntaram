@@ -62,43 +62,22 @@ From all this it follows that the ‘Five Great Sacrifices’ are not to be perf
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Upaskaraḥ*’—‘The pot, the kettle and other household implements’
-(Medhātithi);—‘a pot, a broom and the rest’ (Kullūka);—‘a broom and the
-rest’ (Rāghavānanda);—all these take the word in the collective sense,
-including all ‘household implements’;—Nārāyaṇa alone takes it in the
-purely singular sense of ‘the broom’ only.
+‘*Upaskaraḥ*’—‘The pot, the kettle and other household implements’ (Medhātithi);—‘a pot, a broom and the rest’ (Kullūka);—‘a broom and the rest’ (Rāghavānanda);—all these take the word in the collective sense, including all ‘household implements’;—Nārāyaṇa alone takes it in the purely singular sense of ‘the broom’ only.
 
-This verse is quoted in *Smṛtitattva* (p. 533) as laying down the
-sources of ‘the sin of the slaughter house’;—it adds the following
-explanations:—‘*Sūnā*’ means occasions for killing’;—‘*cullī*’ is the
-cooking place’;—‘*Peṣaṇī*’ ‘grinding stone’;—‘*upaskaraḥ*’ ‘the broom
-and the rest’;—‘*Kaṇḍanī*,’ ‘mortar and pestle’;—by making use of these
-the man incurs sin.
+This verse is quoted in *Smṛtitattva* (p. 533) as laying down the sources of ‘the sin of the slaughter house’;—it adds the following explanations:—‘*Sūnā*’ means occasions for killing’;—‘*cullī*’ is the cooking place’;—‘*Peṣaṇī*’ ‘grinding stone’;—‘*upaskaraḥ*’ ‘the broom and the rest’;—‘*Kaṇḍanī*,’ ‘mortar and pestle’;—by making use of these the man incurs sin.
 
 *Vīramitrodaya* (Āhnika, p. 389) quotes the verse and adds the following
-explanations:—‘*Sūnā*’ is ‘occasion for the killing of living
-beings’;—‘*Upaskaraḥ*’ is ‘the broom, the pot, the stick and the rest’;
-‘*bādhyate*’ (which is its reading for ‘*badhyate*’) means ‘is
-stricken—*i.e*., by sin accruing from the killing of
-animals’;—‘*vāhayan*’ means ‘making use of,’ ‘operating.’
+explanations:—‘*Sūnā*’ is ‘occasion for the killing of living beings’;—‘*Upaskaraḥ*’ is ‘the broom, the pot, the stick and the rest’; ‘*bādhyate*’ (which is its reading for ‘*badhyate*’) means ‘is stricken—*i.e*., by sin accruing from the killing of animals’;—‘*vāhayan*’ means ‘making use of,’ ‘operating.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (59.19).—‘Mortar and pestle, Grinding stone, Hearth, Water-jar,
-Household Implements;—these are the five slaughter-houses for the
-Householder.’
+Household Implements;—these are the five slaughter-houses for the Householder.’
 
 *Hārīta* (Vīramitrodaya-Āhnika, p. 389).—‘We are going to describe the
 *Sūnās* or slaughterings—by which is meant *that which destroys living
-beings*; these are of five kinds: The first *slaughtering* is done by
-people hurriedly entering water, by swimming, splashing, throwing about
-of water, catching of impurities, and moving in water; (2) the second
-they do by hurriedly walking in darkness or in dim light, or by
-trampling (upon insects); (3) the third they do by striking, collecting,
-capturing, grinding, tearing and so forth; (4) the fourth they do by
-attacking, rubbing, pounding and so forth; (5) the fifth by tiring,
-heating, sweating, frying, cooking and so forth. These are the five
+beings*; these are of five kinds: The first *slaughtering* is done by people hurriedly entering water, by swimming, splashing, throwing about of water, catching of impurities, and moving in water; (2) the second they do by hurriedly walking in darkness or in dim light, or by trampling (upon insects); (3) the third they do by striking, collecting, capturing, grinding, tearing and so forth; (4) the fourth they do by attacking, rubbing, pounding and so forth; (5) the fifth by tiring, heating, sweating, frying, cooking and so forth. These are the five
 *slaughterings*, t he source of sin, which people do day by day.’
 </details>
 

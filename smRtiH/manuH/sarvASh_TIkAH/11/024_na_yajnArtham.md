@@ -33,8 +33,7 @@ Some people regard this verse only as supplementary to what has gone before; the
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 165);—in *Parāśaramādhava* (Ācāra
-p. 185);—and in *Hemādri* (Dāna, p. 60).
+This verse is quoted in *Aparārka* (p. 165);—in *Parāśaramādhava* (Ācāra p. 185);—and in *Hemādri* (Dāna, p. 60).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -46,9 +45,7 @@ p. 185);—and in *Hemādri* (Dāna, p. 60).
 from a Śūdra.’
 
 *Yājñavalkya* (1.127).—‘If a man performs a sacrifice with accessories
-obtained in alms from a Śūdra, he becomes a *Caṇḍāla*.—If one does not
-offer away in a sacrifice what he has obtained for that purpose, one
-becomes a Bhāsa bird or a crow.’
+obtained in alms from a Śūdra, he becomes a *Caṇḍāla*.—If one does not offer away in a sacrifice what he has obtained for that purpose, one becomes a Bhāsa bird or a crow.’
 </details>
 
 <details><summary>भारुचिः</summary>

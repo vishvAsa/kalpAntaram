@@ -38,10 +38,7 @@ For this reason, when a man calls a *virgin* a ‘*non-virgin*,’ he should be 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 741), to the
-effect that the *mantric* marriage rites are meant only for those girls
-who are entitled to the name ‘*Kanyā*’ (virgin), *i*. *e*., those whose
-generative organs have not been ‘penetrated’;—and in
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 741), to the effect that the *mantric* marriage rites are meant only for those girls who are entitled to the name ‘*Kanyā*’ (virgin), *i*. *e*., those whose generative organs have not been ‘penetrated’;—and in
 *Vyavahāra-Bālambhaṭṭī* (p. 1019).
 </details>
 
@@ -51,8 +48,7 @@ generative organs have not been ‘penetrated’;—and in
 **
 
 *Vaśiṣṭha* (Vīramitrodaya-Saṃskāra, p. 741).—‘On the completion of the
-ceremony of Joining Hands, the maiden is married only *in mantras*; even
-after that, until she has had intercourse, she may be married again.’
+ceremony of Joining Hands, the maiden is married only *in mantras*; even after that, until she has had intercourse, she may be married again.’
 
 *Smṛti* (Do., p. 585).—‘The maiden becomes separated from her *gotra* on
 marriage, on the completion of the *Seventh Step*.’

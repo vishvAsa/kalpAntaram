@@ -22,8 +22,7 @@ He shall deposit such property in the water and offer it to Varuṇa, or bestow 
 
 This verse is quoted in *Vivādaratnākara* (p. 637);—in
 *Vyavahāra-Bālambhaṭṭī* (p. 1053);—and in *Prāyaścittaviveka* (p. 122),
-which says that the expiation here prescribed refers to the stealing of
-gold more than 16 *māṣas* in weight.
+which says that the expiation here prescribed refers to the stealing of gold more than 16 *māṣas* in weight.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -31,8 +30,7 @@ gold more than 16 *māṣas* in weight.
 **(verses 9.243-246)  
 **
 
-See Comparative notes for [Verse
-9.243].
+See Comparative notes for [Verse 9.243].
 </details>
 
 <details><summary>भारुचिः</summary>

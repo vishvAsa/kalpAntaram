@@ -37,8 +37,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 161);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Kāmandaka* (7.43).—‘When the king is in the harem, the guards of the
-harem, whose honesty has been commended by the virtuous, and who are
-skilful in guard-duty, should guard him, with weapons ready for use.’
+harem, whose honesty has been commended by the virtuous, and who are skilful in guard-duty, should guard him, with weapons ready for use.’
 </details>
 
 <details><summary>Bühler</summary>

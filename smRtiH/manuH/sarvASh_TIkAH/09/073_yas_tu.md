@@ -23,8 +23,7 @@ The defects of the maiden have been already described. If a man gives her away w
 **(verses 9.72-73)  
 **
 
-See Comparative notes for [Verse
-9.72].
+See Comparative notes for [Verse 9.72].
 </details>
 
 <details><summary>भारुचिः</summary>

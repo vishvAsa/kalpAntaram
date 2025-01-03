@@ -48,8 +48,7 @@ involves a heavy penance;—in *Hemādri* (Śrāddha, p. 782);—and in
 *Viṣṇu* (51. 8).—‘The food of the carpenter and of the leather-cutter.’
 
 *Āpastamba* (9.28).—‘The King’s food takes off one’s vigour, and the
-Śūdra’s food one’s Brāhmic glory; he who cats unpurified food, eats the
-dirt of the earth.’
+Śūdra’s food one’s Brāhmic glory; he who cats unpurified food, eats the dirt of the earth.’
 </details>
 
 <details><summary>Bühler</summary>

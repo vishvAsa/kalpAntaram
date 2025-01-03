@@ -41,8 +41,7 @@ sesamum.’
 *Viṣṇu* (70.3).—‘Nor naked (shall he sleep).’
 
 *Āśvalāyana Gṛhyasūtra* (3.9.6).—‘He shall not bathe during night; he
-shall not bathe naked; he shall not sleep naked; he shall not look at a
-naked woman, except......’
+shall not bathe naked; he shall not sleep naked; he shall not look at a naked woman, except......’
 </details>
 
 <details><summary>Bühler</summary>

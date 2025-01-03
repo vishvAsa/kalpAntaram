@@ -42,10 +42,7 @@ Others hold, that it is ‘Fire-kindling’ that is here spoken of as ‘sacrifi
 
 Hopkins is not quite accurate in his interjectory remark—“So the *twice*
 -born has *three* births!” It is not every twice-born person that has
-three births; the third ‘birth’ belongs to only that twice-born person
-who is initiated for a sacrifice. Hopkins might as well exclaim in
-connection with the next verse—“So the twice-born has two mothers and
-two fathers!”
+three births; the third ‘birth’ belongs to only that twice-born person who is initiated for a sacrifice. Hopkins might as well exclaim in connection with the next verse—“So the twice-born has two mothers and two fathers!”
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -55,9 +52,7 @@ two fathers!”
 *Viṣṇu* (27. 37)—(reproduces the first part of Manu).
 
 *Yājñavalkya* (1. 39).—‘For the first time, the Brāhmaṇa, the Kṣatriya
-and the Vaiśya are born from their mother; for the second time, out of
-the girdle-tying Rite (of Upanayana); it is for this reason that they
-have been declared to be *twice-born*.’
+and the Vaiśya are born from their mother; for the second time, out of the girdle-tying Rite (of Upanayana); it is for this reason that they have been declared to be *twice-born*.’
 </details>
 
 <details><summary>Bühler</summary>

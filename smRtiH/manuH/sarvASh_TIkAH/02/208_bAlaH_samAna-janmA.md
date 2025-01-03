@@ -45,23 +45,11 @@ the use is in accordance with Pāṇini 3.2.128; and the *act* is directly menti
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Yajñakarmaṇi*’—Medhātithi, Govindarāja and Nārāyaṇa construe this with
-‘*śiṣyaḥ*’, and explain the phrase ‘*Yajñakarmaṇi śiṣyaḥ*’ as ‘student
-of sacrificial ritual (and other Vedic subsidiaries)’;—Nandana construes
-it with ‘*adhyāpayan*’, explaining the phrase as ‘who imparts
-instruction in sacrificial ritual—Kullūka and Rāghavānanda take it by
-itself, explaining it as ‘who happens to be present *at a sacrificial
-performance*’.
+‘*Yajñakarmaṇi*’—Medhātithi, Govindarāja and Nārāyaṇa construe this with ‘*śiṣyaḥ*’, and explain the phrase ‘*Yajñakarmaṇi śiṣyaḥ*’ as ‘student of sacrificial ritual (and other Vedic subsidiaries)’;—Nandana construes it with ‘*adhyāpayan*’, explaining the phrase as ‘who imparts instruction in sacrificial ritual—Kullūka and Rāghavānanda take it by itself, explaining it as ‘who happens to be present *at a sacrificial performance*’.
 
-‘*Adhyāpayan*’—‘Teaching’ (Medhātithi); ‘Having the capacity to teach’
-(Kullūka, also Vīramitrodaya).
+‘*Adhyāpayan*’—‘Teaching’ (Medhātithi); ‘Having the capacity to teach’ (Kullūka, also Vīramitrodaya).
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 462) where
-‘*adhyāpayan*’ is explained as ‘capable of teaching’; and the
-construction is explained as *yajñakarmaṇi guruvanmānamarhati*’—*i.e*.,
-‘at a sacrificial performance, he deserves to be honoured like the
-Teacher’;—thus agreeing on all points with the explanation given by
-Kullūka.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 462) where ‘*adhyāpayan*’ is explained as ‘capable of teaching’; and the construction is explained as *yajñakarmaṇi guruvanmānamarhati*’—*i.e*., ‘at a sacrificial performance, he deserves to be honoured like the Teacher’;—thus agreeing on all points with the explanation given by Kullūka.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -70,21 +58,16 @@ Kullūka.
 **
 
 *Viṣṇu* (28.31-33).—‘One should behave towards the teacher’s son who
-imparts instruction to him just as he would towards the teacher
-himself,—whether he be younger than him or of the same age;—he should
-not wash his feet;—nor should he eat his leavings.’
+imparts instruction to him just as he would towards the teacher himself,—whether he be younger than him or of the same age;—he should not wash his feet;—nor should he eat his leavings.’
 
 *Gautama* (2.38,39).—‘He should behave similarly towards ṭhe teacher’s
-wife and his sons;—but should not eat his leavings, or bathe him, or
-dress his hair, or wash his feet, or rub his body, or clasp his feet.’
+wife and his sons;—but should not eat his leavings, or bathe him, or dress his hair, or wash his feet, or rub his body, or clasp his feet.’
 
 *Baudhāyana* (1.2.37).—‘Towards the teacher’s son, or towards the
-expounder of the Veda, one should behave similarly, with the exception
-of eating his leavings.’
+expounder of the Veda, one should behave similarly, with the exception of eating his leavings.’
 
 *Āpastamba Dharmasūtra* (1.7.30).—‘I he behaviour towards the teacher’s
-son should be like that towards the teacher himself,—with the exception
-of eating the leavings.’
+son should be like that towards the teacher himself,—with the exception of eating the leavings.’
 </details>
 
 <details><summary>Bühler</summary>

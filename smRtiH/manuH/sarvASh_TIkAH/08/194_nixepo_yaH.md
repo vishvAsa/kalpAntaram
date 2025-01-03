@@ -34,12 +34,7 @@ This verse also prescribes nothing new.—(194)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 664), which explains ‘*vibruvan*’
-as ‘telling what is not true;’—in *Vivādaratnākara* (p. 94), which adds
-the following notes:—‘*Vibruvan*,’ declaring it to be more when it was
-less; from a parity of reasoning, it follows that if the depository also
-declares the deposit to be less where it was really more, he also should
-be fined;—and in *Kṛtyakalpataru* (85a).
+This verse is quoted in *Aparārka* (p. 664), which explains ‘*vibruvan*’ as ‘telling what is not true;’—in *Vivādaratnākara* (p. 94), which adds the following notes:—‘*Vibruvan*,’ declaring it to be more when it was less; from a parity of reasoning, it follows that if the depository also declares the deposit to be less where it was really more, he also should be fined;—and in *Kṛtyakalpataru* (85a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -47,8 +42,7 @@ be fined;—and in *Kṛtyakalpataru* (85a).
 **(verses 8.193-194)  
 **
 
-See Comparative notes for [Verse
-8.193].
+See Comparative notes for [Verse 8.193].
 </details>
 
 <details><summary>भारुचिः</summary>

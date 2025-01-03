@@ -48,9 +48,7 @@ repaid *where* it was taken; but if the creditor so wish it, it may he paid at a
 
 **(verse 8.4)**
 
-This verse is quoted in *Mitākṣarā (on* 2. 5);—in *Nṛsiṃhaprasāda*
-(Vyavahāra, p. 3 b);—in *Vyavahāramayūkha* (p. 1) which explains
-‘*anapākarma*’ *as* ‘*non-delivery*’;—in *Aparārka* (p. 596);—in
+This verse is quoted in *Mitākṣarā (on* 2. 5);—in *Nṛsiṃhaprasāda* (Vyavahāra, p. 3 b);—in *Vyavahāramayūkha* (p. 1) which explains ‘*anapākarma*’ *as* ‘*non-delivery*’;—in *Aparārka* (p. 596);—in
 *Vivādacintāmaṇi* (p. 1);—in *Smṛtisāroddhāra* (p. 325);—in
 *Nṛsiṃhaprasāda* (Vyavahāra, p. 3 b);—in *Kṛtyakalpataru* (12b);—and in
 *Vīramitrodaya* (Vyavahāra, p. 89b).
@@ -65,41 +63,23 @@ This verse is quoted in *Aparārka* (p, 596);—in *Mitākṣarā* (on 2.5);—i
 
 **(verse 8.6)**
 
-This verse is quoted in *Aparārka* (p, 596);—in *Vyavahāramayūkha* (p.
-1);—in *Mitākṣarā* (on 2.5);—in *Vivādacintāmaṇi* (p. 1);—in
+This verse is quoted in *Aparārka* (p, 596);—in *Vyavahāramayūkha* (p. 1);—in *Mitākṣarā* (on 2.5);—in *Vivādacintāmaṇi* (p. 1);—in
 *Smṛtisāroddhāra* (p. 325);—in *Nṛsiṃhaprasāda* (Vyavahāra, p. 3b);—in
 *Kṛtyakalpataru* (12b);—and in *Vīramitrodaya* (Vyavahāra, 89b).
 
 **(verse 8.7)**
 
-‘*Vyavahārasthitau*’—‘Giving rise to law-suits’ (Govindarāja);—‘in
-deciding law-suits’ (Nārāyaṇa),
+‘*Vyavahārasthitau*’—‘Giving rise to law-suits’ (Govindarāja);—‘in deciding law-suits’ (Nārāyaṇa),
 
-This verse is quoted in *Mitākṣarā* (on 2.5);—in *Vyavahāramayūkha* (p.
-1), which explains ‘*dyūta*’ as ‘gambling with inanimate objects’ and
-‘*samāhvayaḥ*’ as ‘gambling with animals,’ and notes that though theft,
-adultery, defamation and assault are all only forms of ‘crime’
-(‘*Sāhasa*’) yet they have been mentioned separately, also, on the
-analogy of such expressions as ‘*Gobalīvarda* .’
+This verse is quoted in *Mitākṣarā* (on 2.5);—in *Vyavahāramayūkha* (p. 1), which explains ‘*dyūta*’ as ‘gambling with inanimate objects’ and ‘*samāhvayaḥ*’ as ‘gambling with animals,’ and notes that though theft, adultery, defamation and assault are all only forms of ‘crime’ (‘*Sāhasa*’) yet they have been mentioned separately, also, on the analogy of such expressions as ‘*Gobalīvarda* .’
 
-It is quoted in *Aparārka* (p. 596), which explains ‘*padāni*’ as
-‘*sthāna*’, ‘*viṣāya*’, ‘subjects;’—in *Vivādacintāmaṇi* (p. 1);—in
+It is quoted in *Aparārka* (p. 596), which explains ‘*padāni*’ as ‘*sthāna*’, ‘*viṣāya*’, ‘subjects;’—in *Vivādacintāmaṇi* (p. 1);—in
 *Smṛtisāroddhāra* (p. 325);—in *Nṛṣiṃhaprasāda* (Vyavahāra, p. 3b);—in
 *Kṛtya* *kalpataru*’ (12b);—and in *Vīramitrodaya* (Vyavahāra, 89b.)
 
-On verses 1-7 *Vīramitrodaya* (Vyavahāra, p. 4a) has the following
-notes:—‘*Vyavahārān*,’ business described above,—‘*pārthivaḥ*,’ the
-anointed Kṣatriya;—the term ‘*nṛpaḥ*’ implies that what is here enjoined
-applies also to those who, though not themselves kings, are appointed by
-the king to work for him;—‘seated or standing’ may be options to be
-determined by the king’s capacity, or by the respectability or otherwise
-of the parties appearing before him the raising of the right arm is for
-calling the attention of suitors; the dress etc. are to be humble, so
-that the parties may not be confounded by his gorgeous
-attire;—‘*pratyaham*’ shows that cases should be tried every day ;—‘
+On verses 1-7 *Vīramitrodaya* (Vyavahāra, p. 4a) has the following notes:—‘*Vyavahārān*,’ business described above,—‘*pārthivaḥ*,’ the anointed Kṣatriya;—the term ‘*nṛpaḥ*’ implies that what is here enjoined applies also to those who, though not themselves kings, are appointed by the king to work for him;—‘seated or standing’ may be options to be determined by the king’s capacity, or by the respectability or otherwise of the parties appearing before him the raising of the right arm is for calling the attention of suitors; the dress etc. are to be humble, so that the parties may not be confounded by his gorgeous attire;—‘*pratyaham*’ shows that cases should be tried every day ;—‘
 *deśadṛṣṭa*’ are those customs and arguments that may have local
-application, such as the customs regarding the betrothal of girls
-(described above) among ‘northerners.’
+application, such as the customs regarding the betrothal of girls (described above) among ‘northerners.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -108,25 +88,10 @@ application, such as the customs regarding the betrothal of girls
 **
 
 *Nārada* (1.16 *et. seq*.).—‘Recovery of Debt, Deposits, Partnership,
-Resumption of Gift, Breach of Contract of Service;—Non-payment of wages,
-Sales effected by a person other than the rightful owner, Non-delivery
-of sold chattel, Recission of Purchase, Transgression of a Compact,
-Boundary-disputes, Mutual Duties of Husband and Wife, Law of
-Inheritances, Heinous offences, Abuse, Assault, Games, and
-Miscellaneous;—these are the eighteen topics of legal procedure.’
+Resumption of Gift, Breach of Contract of Service;—Non-payment of wages, Sales effected by a person other than the rightful owner, Non-delivery of sold chattel, Recission of Purchase, Transgression of a Compact, Boundary-disputes, Mutual Duties of Husband and Wife, Law of Inheritances, Heinous offences, Abuse, Assault, Games, and Miscellaneous;—these are the eighteen topics of legal procedure.’
 
 *Bṛhaspati* (2.5 *et. seq*.).—‘Law-suits are of two kinds, according as
-they originate in demands regarding wealth or ininjuries. Law-suits
-regarding wealth are divided into fourteen kinds; and those regarding
-injuries into four kinds. (1) Lending money on interest, (2) Deposits
-(and Treasure Trove), (3) Invalid gifts, (4) Concerns of Partnership,
-(5) Nonpayment of wages, (6) Disobedience, (7) Disputes concerning Land,
-(8) Sale without ownership, (9) Revocation of sale and purchase, (10)
-Breach of agreements, (11) Law between wife and husband, (12) Theft,
-(13) Inheritance and (14) Gambling.—These are the fourteen titles
-regarding wealth.—(l) and (2) Two kinds of Insults, (3) Violence and (4)
-Criminal connexion with the wife of another man,—these are the four
-titles originating in injury.’
+they originate in demands regarding wealth or ininjuries. Law-suits regarding wealth are divided into fourteen kinds; and those regarding injuries into four kinds. (1) Lending money on interest, (2) Deposits (and Treasure Trove), (3) Invalid gifts, (4) Concerns of Partnership, (5) Nonpayment of wages, (6) Disobedience, (7) Disputes concerning Land, (8) Sale without ownership, (9) Revocation of sale and purchase, (10) Breach of agreements, (11) Law between wife and husband, (12) Theft, (13) Inheritance and (14) Gambling.—These are the fourteen titles regarding wealth.—(l) and (2) Two kinds of Insults, (3) Violence and (4) Criminal connexion with the wife of another man,—these are the four titles originating in injury.’
 </details>
 
 <details><summary>भारुचिः</summary>

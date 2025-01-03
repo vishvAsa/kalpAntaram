@@ -24,16 +24,13 @@ Accepting gifts from despicable persons, trading, serving Śūdras and the telli
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.242) in *Madanapārijāta* (p.
-924);—in *Nṛsiṃhaprasāda* (Prāyaścitta 30a);—and in *Prāyaścittaviveka*
-(pp. 42, 403, 424 and 465.)
+This verse is quoted in *Mitākṣarā* (3.242) in *Madanapārijāta* (p. 924);—in *Nṛsiṃhaprasāda* (Prāyaścitta 30a);—and in *Prāyaścittaviveka* (pp. 42, 403, 424 and 465.)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (40.1).—‘Receiving anything from a despicable person, trading,
-subsisting by money-lending, telling lies, and serving a Śūdra—are
-crimes rendering one unworthy to receive alms.’
+subsisting by money-lending, telling lies, and serving a Śūdra—are crimes rendering one unworthy to receive alms.’
 
 *Baudhāyana* (2.2.6).—‘Serving Śūdras (involves loss of caste).’
 </details>

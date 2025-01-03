@@ -22,9 +22,7 @@ This verse serves to sum up the section.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 20), which adds
-the following notes:—‘*Ātandritaḥ*’, free from idleness,—‘*stenān*’,
-thieves.
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 20), which adds the following notes:—‘*Ātandritaḥ*’, free from idleness,—‘*stenān*’, thieves.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

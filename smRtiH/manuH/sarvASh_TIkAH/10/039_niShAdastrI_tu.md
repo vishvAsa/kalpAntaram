@@ -35,8 +35,7 @@ As a matter of fact, the number of mixed castes is endless. Hence what the text 
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

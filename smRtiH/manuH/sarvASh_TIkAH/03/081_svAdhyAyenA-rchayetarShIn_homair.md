@@ -75,8 +75,7 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 392);—in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (1.103).—‘Out of the remnant of what has been offered to
-the gods, one should make offerings to the Elementals, and also offer
-food on the ground for Caṇḍālas and birds.’
+the gods, one should make offerings to the Elementals, and also offer food on the ground for Caṇḍālas and birds.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -24,8 +24,7 @@ Such giving becomes a source of trouble to both the giver and the receiver in th
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka*, (p. 285), which explains ‘*anarthe*’
-as ‘sin’;—and in *Parāśaramādhava* (Ācāra p. 174).
+This verse is quoted in *Aparārka*, (p. 285), which explains ‘*anarthe*’ as ‘sin’;—and in *Parāśaramādhava* (Ācāra p. 174).
 </details>
 
 <details><summary>Bühler</summary>

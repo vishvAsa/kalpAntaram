@@ -26,9 +26,7 @@ The two-foldness of Marching is based upon its being undertaken by the king alon
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 326), as setting
-forth the two kinds of ‘marching’—(*a*) alone or (*b*) accompanied by
-the ally.
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 326), as setting forth the two kinds of ‘marching’—(*a*) alone or (*b*) accompanied by the ally.
 </details>
 
 <details><summary>भारुचिः</summary>

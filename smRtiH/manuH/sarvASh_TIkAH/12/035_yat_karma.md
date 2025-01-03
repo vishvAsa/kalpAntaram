@@ -23,8 +23,7 @@ When, having done, or doing, or going to do a certain act, a man happen to feel 
 **(verses 12.32-51)  
 **
 
-See Comparative notes for [Verse
-12.32].
+See Comparative notes for [Verse 12.32].
 </details>
 
 <details><summary>Bühler</summary>

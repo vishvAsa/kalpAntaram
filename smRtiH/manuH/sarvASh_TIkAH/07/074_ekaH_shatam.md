@@ -28,8 +28,7 @@ Some people have held that the example of the ‘rampart’ indicates that this 
 
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 202);—in
 *Vīramitrodaya* (Lakṣaṇa, p. 238);—in *Nītimayūkha* (p. 65), which says
-that even if the attack is made by men ten times the number of the
-garrison, they are repulsed;—and in *Rājanītiratnākara* (p. 20a).
+that even if the attack is made by men ten times the number of the garrison, they are repulsed;—and in *Rājanītiratnākara* (p. 20a).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -30,28 +30,16 @@ This (acceptance of unequal price) is not a condition of ‘sale’ proper; the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 851), which
-deduces from the word ‘*lobhena*,’ ‘through greed,’ the conclusion that
-if something is received *without greed* on the part of the father, it
-is not the ‘*price*,’ but only an *honorific present* to the bridegroom;
-and in support of this it quotes Manu 3.54;—in *Vyāvahāra-Bālambhaṭṭī*
-(p. 761);—and in *Smṛticandrikā* (Saṃskāra, p. 232);—and by Jīmūtavāhana
-(Dāyabhāga, p. 151).
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 851), which deduces from the word ‘*lobhena*,’ ‘through greed,’ the conclusion that if something is received *without greed* on the part of the father, it is not the ‘*price*,’ but only an *honorific present* to the bridegroom; and in support of this it quotes Manu 3.54;—in *Vyāvahāra-Bālambhaṭṭī* (p. 761);—and in *Smṛticandrikā* (Saṃskāra, p. 232);—and by Jīmūtavāhana (Dāyabhāga, p. 151).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (1.11.21).—‘Those persons who, deluded by greed, give away
-their daughters for a consideration, are soul-sellers, sinful and grave
-sinners, and up to their seventh generation, they fall into hell.’
+their daughters for a consideration, are soul-sellers, sinful and grave sinners, and up to their seventh generation, they fall into hell.’
 
 *Āpastamba Dharmasūtra* (2.13.11).—‘In connection with marriage, a gift
-to the girl’s guardian has been prescribed with a view to securing a
-special end, and for a righteous purpose; therefore one should present
-to the girl’s guardian a chariot and a hundred cows; which present joins
-the couple in wedlock; the applying of the name *selling* to such giving
-of the girl is a mere declamation; because the acceptance of the present
-is for a righteous purpose.’
+to the girl’s guardian has been prescribed with a view to securing a special end, and for a righteous purpose; therefore one should present to the girl’s guardian a chariot and a hundred cows; which present joins the couple in wedlock; the applying of the name *selling* to such giving of the girl is a mere declamation; because the acceptance of the present is for a righteous purpose.’
 </details>
 
 <details><summary>Bühler</summary>

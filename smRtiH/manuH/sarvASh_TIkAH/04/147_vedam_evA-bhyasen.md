@@ -30,26 +30,21 @@ This deprecation of other duties is meant to be a praise of Vedic recitation, an
 
 *Cf*. 2.237.
 
-This verse is quoted in *Aparārka*, on p. 69, and again on p. 229;—and
-in *Vīramitrodaya* (Āhnika, p. 320), which explains ‘*upadharmaḥ*’ as
-‘small dharma; *i.e*., such penances as the *Kṛcchra* and the like’.
+This verse is quoted in *Aparārka*, on p. 69, and again on p. 229;—and in *Vīramitrodaya* (Āhnika, p. 320), which explains ‘*upadharmaḥ*’ as ‘small dharma; *i.e*., such penances as the *Kṛcchra* and the like’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñāvalkya* (1.40).—‘From among all sacrifices, austerities and other
-meritorious acts, the Veda alone is what secures the highest good for
-twice-born men.’
+meritorious acts, the Veda alone is what secures the highest good for twice-born men.’
 
 *Vyāsa* (Vīramitrodaya, Saṃskāra, p. 508).—‘Dharma is not known by any
-other means, it grew out of the Veda alone; therefore for the purposes
-of sacrifice, one should have recourse to the Veda only.’
+other means, it grew out of the Veda alone; therefore for the purposes of sacrifice, one should have recourse to the Veda only.’
 
 *Vaśiṣṭha* (Do., p. 511).—‘Without the Veda one cannot he a Brāhmaṇa.’
 
 *Atri* (151).—‘There is no scripture superior to the Veda; there is no
-elder superior to the mother; there is no friend superior to
-charity,—either here or in the next world.’
+elder superior to the mother; there is no friend superior to charity,—either here or in the next world.’
 
 *Āpastamba Dharmasūtra* (1.14.12).—‘There is no refuge beyond the Veda.’
 </details>

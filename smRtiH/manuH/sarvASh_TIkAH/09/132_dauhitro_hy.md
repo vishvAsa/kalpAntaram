@@ -92,22 +92,11 @@ principle applies as that in the case of the father;—that is, he shall otter t
 
 *Cf*. 136 and 140.
 
-This verse is quoted in *Vivādaratnākara* (p. 560), which adds the
-following notes:—‘*Aputrasya*’ *i.e*., one who has no ‘body-born’
-son;—the second half is a mere reiteration of what goes before—says
+This verse is quoted in *Vivādaratnākara* (p. 560), which adds the following notes:—‘*Aputrasya*’ *i.e*., one who has no ‘body-born’ son;—the second half is a mere reiteration of what goes before—says
 *Prakāśa*; it is an Arthavāda providing a reason for what has gone
-before—says Udayakara in his commentary on Manu. \[These remarks are
-based on the reading of the second line as *dauhitra eva tu
-haredaputrasyāsvilaṃ dhanam* \].
+before—says Udayakara in his commentary on Manu. \[These remarks are based on the reading of the second line as *dauhitra eva tu haredaputrasyāsvilaṃ dhanam* \].
 
-It is quoted in *Vyavahāra-Bālambhaṭṭī* (pp. 631 and 664);—in *Hemādri*
-(Śrādha, p. 87);—in *Gadādharapaddhati* (Kāla, p. 427), which says that
-the two ‘balls’ are to be offered to the father and to the mother’s
-father;—in *Vivādacintāmaṇi* (Calcutta, p. 153) which adds that this
-refers to cases where neither of the parents of the deceased is
-alive;—and by Jīmūtavāhāna (*Dāyabhāga*, p. 278) as indicating that the
-grandson is entitled to the property of his mother’s father by reason of
-the mother deriving her body from that father.
+It is quoted in *Vyavahāra-Bālambhaṭṭī* (pp. 631 and 664);—in *Hemādri* (Śrādha, p. 87);—in *Gadādharapaddhati* (Kāla, p. 427), which says that the two ‘balls’ are to be offered to the father and to the mother’s father;—in *Vivādacintāmaṇi* (Calcutta, p. 153) which adds that this refers to cases where neither of the parents of the deceased is alive;—and by Jīmūtavāhāna (*Dāyabhāga*, p. 278) as indicating that the grandson is entitled to the property of his mother’s father by reason of the mother deriving her body from that father.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -115,8 +104,7 @@ the mother deriving her body from that father.
 **(verses 9.127-129, 9.132-133)  
 **
 
-See Comparative notes for [Verse
-9.127](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201500.html#comparative-notes "English translation of verse").
+See Comparative notes for [Verse 9.127](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201500.html#comparative-notes "English translation of verse").
 </details>
 
 <details><summary>भारुचिः</summary>

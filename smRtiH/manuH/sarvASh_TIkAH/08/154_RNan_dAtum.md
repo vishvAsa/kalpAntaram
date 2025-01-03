@@ -92,41 +92,22 @@ In view of this text, the use of altering the bond is just as we have explained 
 *Karaṇa*’—‘Written bond’ (Kullūka and Rāghavānanda);—‘written bond and
 witnesses’ (Medhātithi).
 
-This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 193), which
-adds the following explanation:—‘When the time for repayment arrives, if
-the debtor, find himself unable to pay the whole amount due—the
-principal along with accrued interest,—and the creditor is unwilling to
-keep the loan hanging,—and should wish to renew the transaction on the
-same terms, he should pay the accrued interest and renew the bond, dated
-afresh with the new date.’
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 193), which adds the following explanation:—‘When the time for repayment arrives, if the debtor, find himself unable to pay the whole amount due—the principal along with accrued interest,—and the creditor is unwilling to keep the loan hanging,—and should wish to renew the transaction on the same terms, he should pay the accrued interest and renew the bond, dated afresh with the new date.’
 
-It is quoted in *Vivādaratnākara* (p. 72), as laying down one of the
-methods of ‘compound interest.’ It adds the following
-notes:—‘*Nirjitām*,’ legally due to the creditor; of this accrued
-interest he should pay either the whole, or a part only, and add the
-remainder to the principal and renew the bond for the total;—in
+It is quoted in *Vivādaratnākara* (p. 72), as laying down one of the methods of ‘compound interest.’ It adds the following notes:—‘*Nirjitām*,’ legally due to the creditor; of this accrued interest he should pay either the whole, or a part only, and add the remainder to the principal and renew the bond for the total;—in
 *Nṛsiṃhaprasāda* (Vyavahāra, 19b);—in *Kṛtyakalpataru* (80a), which
-explains ‘*nirjitām*’ as ‘determined to have already accrued to the
-creditor,’—and ‘*karaṇ* *am parivartayet*’ as ‘should write another
-document attested by fresh witnesses’;—and in *Vīramitrodaya*
-(Vyavahāra, 104a).
+explains ‘*nirjitām*’ as ‘determined to have already accrued to the creditor,’—and ‘*karaṇ* *am parivartayet*’ as ‘should write another document attested by fresh witnesses’;—and in *Vīramitrodaya* (Vyavahāra, 104a).
 
-At the end of Adhyāya VIII, Mandlik has printed the following verse with
-Medhātithi’s explanation thereupon—
+At the end of Adhyāya VIII, Mandlik has printed the following verse with Medhātithi’s explanation thereupon—
 
 > atha śaktivihīnaḥ syād ṛṇī kālaviparyayāt \|  
 > śakyaprekṣam ṛṇaṃ dāpyaḥ kāle deśe yathodayam \|\|
 
-This verse, though commented upon by Medhātithi, has been omitted by all
-other commentators.
+This verse, though commented upon by Medhātithi, has been omitted by all other commentators.
 
-It is found in Nārada (131.) It is quoted in *Vivādaratnākara* (p. 71)
-as from Nārada; it explains ‘*Śaktivihīnaḥ*’ as ‘without ability to
-repay the debt,’ and ‘*kālaviparyayāt*’ as ‘on account of famine and so
-forth.’
+It is found in Nārada (131.) It is quoted in *Vivādaratnākara* (p. 71) as from Nārada; it explains ‘*Śaktivihīnaḥ*’ as ‘without ability to repay the debt,’ and ‘*kālaviparyayāt*’ as ‘on account of famine and so forth.’
 
-The verse is not Manu’s, it is Nārada’s; and it has been only quoted by
-Medhātithi and explained by him in course of his comment on verse 159.
+The verse is not Manu’s, it is Nārada’s; and it has been only quoted by Medhātithi and explained by him in course of his comment on verse 159.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -135,22 +116,13 @@ Medhātithi and explained by him in course of his comment on verse 159.
 **
 
 *Nārada* (1.131, 134).—‘When a debtor has been disabled by a reverse of
-fortune (from paying the debt), he shall be made to discharge the debt
-gradually, according to bis means, as he happens to gain wealth. If the
-debtor, owing to a calamity, has not means sufficient to discharge the
-whole debt, the claim of the creditor shall be entered in a legal
-document, specifying the caste (of the parties), their names and names
-of their neighbours.’
+fortune (from paying the debt), he shall be made to discharge the debt gradually, according to bis means, as he happens to gain wealth. If the debtor, owing to a calamity, has not means sufficient to discharge the whole debt, the claim of the creditor shall be entered in a legal document, specifying the caste (of the parties), their names and names of their neighbours.’
 
 *Bṛhaspati* (11.47, 60).—‘A loan shall be restored on demand, if no time
-has been fixed; or on the expiry of the time, if time has been fixed; or
-when interest ceases. When the time fixed for payment has elapsed, and
-the interest has ceased, the creditor may either recover his loan or
-cause a new bond to be written in the form of compound interest.’
+has been fixed; or on the expiry of the time, if time has been fixed; or when interest ceases. When the time fixed for payment has elapsed, and the interest has ceased, the creditor may either recover his loan or cause a new bond to be written in the form of compound interest.’
 
 *Bhāradvāja* (Parāśaramādhava-Vyava., p. 193).—‘If the debtor has no
-money to repay the debt, he shall liquidate it by giving grains, gold,
-or cattle, or clothes, slaves or conveyances.’
+money to repay the debt, he shall liquidate it by giving grains, gold, or cattle, or clothes, slaves or conveyances.’
 </details>
 
 <details><summary>भारुचिः</summary>

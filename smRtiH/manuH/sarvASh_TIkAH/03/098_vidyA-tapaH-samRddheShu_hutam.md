@@ -30,8 +30,7 @@ It is not only the gifts made in connection with auspicious rites that are to be
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted without comment in *Vīramitrodaya* (Āhnika, p.
-434).
+This verse is quoted without comment in *Vīramitrodaya* (Āhnika, p. 434).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -39,8 +38,7 @@ This verse is quoted without comment in *Vīramitrodaya* (Āhnika, p.
 **(verses 3.97-98)  
 **
 
-See Comparative notes for [Verse
-3.97].
+See Comparative notes for [Verse 3.97].
 </details>
 
 <details><summary>Bühler</summary>

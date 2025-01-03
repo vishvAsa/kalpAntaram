@@ -47,16 +47,9 @@ The term ‘*bruva*,’ ‘*so-called*,’ is deprecatory.—(20)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Brāhmaṇabruvaḥ*’—‘One whose origin is doubtful, but who calls himself
-a *Brāhmaṇa*’ (’Kullūka and Rāghavānanda);—‘despicable Brāhmaṇa’
-(Medhātithi and Govindarāja);—‘an initiated Brāhmaṇa who does not study
-the Veda’ (Nārāyaṇa).
+‘*Brāhmaṇabruvaḥ*’—‘One whose origin is doubtful, but who calls himself a *Brāhmaṇa*’ (’Kullūka and Rāghavānanda);—‘despicable Brāhmaṇa’ (Medhātithi and Govindarāja);—‘an initiated Brāhmaṇa who does not study the Veda’ (Nārāyaṇa).
 
-This verse is quoted in *Aparārka* (p. 601);—in *Parāśaramādhava*
-(Vyavahāra, p. 22);—in *Smṛtitattva* (II, p. 200), which supplies the
-definition of ‘*brāhmaṇabruvaḥ*’ as ‘the Brāhmaṇa who neither studies
-nor teaches (the Veda)—in *Kṛtyakalpataru* (9a);—and in *Vīramitrodaya*
-(Vyavahāra, p. 11a).
+This verse is quoted in *Aparārka* (p. 601);—in *Parāśaramādhava* (Vyavahāra, p. 22);—in *Smṛtitattva* (II, p. 200), which supplies the definition of ‘*brāhmaṇabruvaḥ*’ as ‘the Brāhmaṇa who neither studies nor teaches (the Veda)—in *Kṛtyakalpataru* (9a);—and in *Vīramitrodaya* (Vyavahāra, p. 11a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -64,8 +57,7 @@ nor teaches (the Veda)—in *Kṛtyakalpataru* (9a);—and in *Vīramitrodaya*
 **(verses 8.20-21)**
 
 *Śukranīti* (4.5.27).—‘If the Brāhmaṇa he not learned enough, the King
-should appoint a Kṣatriya or Vaiśya learned in the legal law;—but he
-shall always avoid the Śūdra.’
+should appoint a Kṣatriya or Vaiśya learned in the legal law;—but he shall always avoid the Śūdra.’
 
 *Kātyāyana* (Aparārka, p. 601).—(Same as Manu.)
 

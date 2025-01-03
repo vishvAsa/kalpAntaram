@@ -40,9 +40,7 @@ One who is applying collyrium to another’s eyes, looks beautiful (hence there 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 180);—in *Mitākṣarā*, (on
-1.135);—in *Madanapārijāta* (p. 123);—in *Vīramitrodaya* (Saṃskāra, p.
-578);—in *Smṛtisāroddhāra*, (p. 320);—and in *Saṃskāramayūkha* (p. 71).
+This verse is quoted in *Aparārka* (p. 180);—in *Mitākṣarā*, (on 1.135);—in *Madanapārijāta* (p. 123);—in *Vīramitrodaya* (Saṃskāra, p. 578);—in *Smṛtisāroddhāra*, (p. 320);—and in *Saṃskāramayūkha* (p. 71).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -50,8 +48,7 @@ This verse is quoted in *Aparārka* (p. 180);—in *Mitākṣarā*, (on
 **(verses 4.43-44)  
 **
 
-See Comparative notes for [Verse
-4.43].
+See Comparative notes for [Verse 4.43].
 </details>
 
 <details><summary>Bühler</summary>

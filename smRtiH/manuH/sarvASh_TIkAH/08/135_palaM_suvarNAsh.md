@@ -52,8 +52,7 @@ This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 115);—in
 **(verses 8.131-137)  
 **
 
-See Comparative notes for [Verse
-8.131].
+See Comparative notes for [Verse 8.131].
 </details>
 
 <details><summary>Bühler</summary>

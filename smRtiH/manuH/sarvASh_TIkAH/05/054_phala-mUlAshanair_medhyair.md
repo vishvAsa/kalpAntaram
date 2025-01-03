@@ -24,9 +24,7 @@ This verse also is a purely commendatory exaggeration—(54)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 719), which adds
-that the renouncing of meat here spoken of refers to meat other than the
-‘consecrated’ and the rest that have been spoken of before.
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 719), which adds that the renouncing of meat here spoken of refers to meat other than the ‘consecrated’ and the rest that have been spoken of before.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

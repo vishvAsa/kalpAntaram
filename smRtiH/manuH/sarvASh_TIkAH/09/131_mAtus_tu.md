@@ -64,39 +64,15 @@ The term ‘*grandson*’ stands for *the son of the appointed daughter*, in the
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“According to Medhātithi, Kullūka and Nārāyaṇa, all *Strīdhana* is
-meant;—according to ‘others’ mentioned by Medhātithi, Nandana and
-Rāghavānanda, the so-called ‘*saudāyika*’ or property derived from the
-father’s family.”—Buhler.
+“According to Medhātithi, Kullūka and Nārāyaṇa, all *Strīdhana* is meant;—according to ‘others’ mentioned by Medhātithi, Nandana and Rāghavānanda, the so-called ‘*saudāyika*’ or property derived from the father’s family.”—Buhler.
 
-‘*Kumārī*’—‘an unmarried daughter (Medhātithi and Kullūka);—‘a daughter
-who has no sons’ (Nārāyaṇa).
+‘*Kumārī*’—‘an unmarried daughter (Medhātithi and Kullūka);—‘a daughter who has no sons’ (Nārāyaṇa).
 
-The first half of this verse is quoted in *Vivādaratnākara* (p. 517)
-which adds the following notes:—‘*Yautakam*’ here stands for what has
-been given to the girl at the time of her marriage, by her father and
-other relatives. Halāyudha however holds that it stands for what has
-been given to the woman for such household purposes as the purchase of
-vegetables and other things, out of which, by her clever management, she
-may have saved and increased by judicious handling. To such property of
-the mother either the sons or the married daughters can have no right,
-as a rule; but if among the married daughters there be such as are
-childless or otherwise ill-conditioned, these are to have an equal share
-in the property.
+The first half of this verse is quoted in *Vivādaratnākara* (p. 517) which adds the following notes:—‘*Yautakam*’ here stands for what has been given to the girl at the time of her marriage, by her father and other relatives. Halāyudha however holds that it stands for what has been given to the woman for such household purposes as the purchase of vegetables and other things, out of which, by her clever management, she may have saved and increased by judicious handling. To such property of the mother either the sons or the married daughters can have no right, as a rule; but if among the married daughters there be such as are childless or otherwise ill-conditioned, these are to have an equal share in the property.
 
-It is quoted in *Parāśaramādhava* (Vyavahāra, p. 372), which explains
-‘*yautakam*’ as ‘property obtained from the father’s family’;—in
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 372), which explains ‘*yautakam*’ as ‘property obtained from the father’s family’;—in
 *Aparārka* (p. 721), to the effect that when the mother’s property comes
-to be divided among her daughters, the unmarried ones have the
-preference over the married ones;—in *Smṛtitattva* II (p. 186), which
-has the following note:—The term ‘*yautaka*’ is derived from the root
-‘yu’ (to join), and hence signifying *junction*, or *union*, it stands
-for ‘what is given at marriage’;—in *Vyavahāra-Bālambhaṭṭī* (pp. 631 and
-750);—in *Dāyakramasaṅgraha* (p. 21);—and by *Jīmūtavāhana*
-(*Dāyabhāga*, p. 132), which says ‘*yautakam*’ stands for the dowry
-obtained at marriage,—this being indicated by the root ‘*yu*’ (to join)
-from which the word is derived,—marriage being the ‘*joining*’ of the
-husband and wife.
+to be divided among her daughters, the unmarried ones have the preference over the married ones;—in *Smṛtitattva* II (p. 186), which has the following note:—The term ‘*yautaka*’ is derived from the root ‘yu’ (to join), and hence signifying *junction*, or *union*, it stands for ‘what is given at marriage’;—in *Vyavahāra-Bālambhaṭṭī* (pp. 631 and 750);—in *Dāyakramasaṅgraha* (p. 21);—and by *Jīmūtavāhana* (*Dāyabhāga*, p. 132), which says ‘*yautakam*’ stands for the dowry obtained at marriage,—this being indicated by the root ‘*yu*’ (to join) from which the word is derived,—marriage being the ‘*joining*’ of the husband and wife.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -109,8 +85,7 @@ husband and wife.
 daughters, and on failure of such, to unsettled married daughters.’
 
 *Baudhāyana* (2.3.43).—‘The daughters shall obtain the ornaments of
-their mother, as many as are presented according to the custom of the
-caste; or anything else may be given.’
+their mother, as many as are presented according to the custom of the caste; or anything else may be given.’
 
 *Vaśiṣṭha* (17.46).—‘Let the daughters divide the nuptial present of
 their mother.’
@@ -119,23 +94,17 @@ their mother.’
 case to her daughter.’
 
 *Yājñavalkya* (2.145).—‘If a woman has died without issue, her property
-goes to her husband, in the case of her having been married by the first
-four forms of marriage; but to her father, in the case of her having
-been married by the other forms of marriage; if she has died leaving
-children, her property goes to her daughters.’
+goes to her husband, in the case of her having been married by the first four forms of marriage; but to her father, in the case of her having been married by the other forms of marriage; if she has died leaving children, her property goes to her daughters.’
 
 *Devala* (Vivādaratnākara, p. 519).—‘On the mother’s death her
 *Strīdhana* belongs equally to her sons and daughters; if she dies
-childless, it goes to her husband, or to her mother, or brother or
-father.’
+childless, it goes to her husband, or to her mother, or brother or father.’
 
 *Bṛhaspati* (25.87 Aparārka, p. 721).—‘A woman’s *Strīdhana* goes to her
-children; her daughter also has a share in it, if she is unmarried; if
-married, she receives only some honorific trifle.’
+children; her daughter also has a share in it, if she is unmarried; if married, she receives only some honorific trifle.’
 
 *Pāraskara* (Parāśaramādhana-Vyāvahāra, p. 372).—‘A woman’s *Strīdhana*
-has been declared to belong to her unmarried daughter; if the daughter
-has been married, she shares it equally with her brothers.’
+has been declared to belong to her unmarried daughter; if the daughter has been married, she shares it equally with her brothers.’
 </details>
 
 <details><summary>भारुचिः</summary>

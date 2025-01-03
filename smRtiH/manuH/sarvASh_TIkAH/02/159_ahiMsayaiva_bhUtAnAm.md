@@ -35,21 +35,16 @@ The answer is supplied by the next line:—‘*Words sweet*’—gentle and lovi
 ‘*Ahiṃsayā*’—*cf*. Gautama 2. 42—*śiṣyaśiṣṭaravadhena*
 
 *Medhātithi* (P. 140, 1. 13)—‘*Rajjvā veṇudálena vā*—See 8. 299; also
-Gautama II. 43: *aśaktau rajjuveṇudalābhyāṃ tanubhyām* \| *anyena ghan
-rājñā śāsyaḥ* \|
+Gautama II. 43: *aśaktau rajjuveṇudalābhyāṃ tanubhyām* \| *anyena ghan rājñā śāsyaḥ* \|
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama*, 2.49-50.—‘The training of the pupil should be done without
-hurting him; in case of this being impossible, the chastisement should
-be inflicted by means of a thin rope or a thin piece of split bamboo.’
+hurting him; in case of this being impossible, the chastisement should be inflicted by means of a thin rope or a thin piece of split bamboo.’
 
 *Āpastamba-Dharmasūtra*, 1.8.28-29.—‘In the case of the pupil committing
-some fault, the Teacher should admonish him; and until the pupil
-desists, the following punishments may be inflicted in accordance with
-the gravity of the offence: threatening, fasting, water-bath, refusing
-to see him.’
+some fault, the Teacher should admonish him; and until the pupil desists, the following punishments may be inflicted in accordance with the gravity of the offence: threatening, fasting, water-bath, refusing to see him.’
 </details>
 
 <details><summary>Bühler</summary>

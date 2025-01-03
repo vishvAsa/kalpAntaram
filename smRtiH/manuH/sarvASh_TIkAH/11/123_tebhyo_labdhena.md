@@ -25,8 +25,7 @@ Subsisting on a single meal per day out of the alms obtained from those houses, 
 
 **(verses 11.122-123)**
 
-See Explanatory notes for [Verse
-11.122].
+See Explanatory notes for [Verse 11.122].
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -34,8 +33,7 @@ See Explanatory notes for [Verse
 **(verses 11.118-123)  
 **
 
-See Comparative notes for [Verse
-11.118].
+See Comparative notes for [Verse 11.118].
 </details>
 
 <details><summary>भारुचिः</summary>

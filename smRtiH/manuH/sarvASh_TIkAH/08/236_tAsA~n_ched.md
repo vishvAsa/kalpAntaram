@@ -28,11 +28,7 @@ The addition of the term ‘*together*’ shows that if they are allowed to roam
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 175), which explains
-‘*mithaḥ*’ as ‘herded together’,—‘*tatra*’ *i.e*., on the death of the
-cow;—in *Parāśaramādhava* (Vyavahāra, p. 265), which explains
-‘*avaruddhānām*’ as ‘herded together by the keeper’ and in *Aparārka*
-(p. 773).
+This verse is quoted in *Vivādaratnākara* (p. 175), which explains ‘*mithaḥ*’ as ‘herded together’,—‘*tatra*’ *i.e*., on the death of the cow;—in *Parāśaramādhava* (Vyavahāra, p. 265), which explains ‘*avaruddhānām*’ as ‘herded together by the keeper’ and in *Aparārka* (p. 773).
 </details>
 
 <details><summary>भारुचिः</summary>

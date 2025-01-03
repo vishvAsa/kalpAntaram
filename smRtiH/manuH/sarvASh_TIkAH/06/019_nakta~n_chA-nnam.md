@@ -24,10 +24,7 @@ Two meals having been prescribed for the man’s ordinary purposes, the present 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka*, (p. 943), which notes that the text
-provides several options, to be adopted according to the physical
-strength of the person concerned; and the particular option selected in
-the beginning should be kept up throughout the life-stage.
+This verse is quoted in *Aparārka*, (p. 943), which notes that the text provides several options, to be adopted according to the physical strength of the person concerned; and the particular option selected in the beginning should be kept up throughout the life-stage.
 
 The verse is quoted in *Mitākṣarā* verse XXI, which has the same note as
 *Aparārka*.
@@ -39,8 +36,7 @@ The verse is quoted in *Mitākṣarā* verse XXI, which has the same note as
 fasted entirely for one day, or for two days, or for three days.’
 
 *Yājñavalkya* (3.50).—‘He may maintain his life by the *Candrāyaṇa* or
-the *Kṛcchra* method; or he may eat food on the lapse of a fortnight, or
-of a month, or of one day.’
+the *Kṛcchra* method; or he may eat food on the lapse of a fortnight, or of a month, or of one day.’
 </details>
 
 <details><summary>भारुचिः</summary>

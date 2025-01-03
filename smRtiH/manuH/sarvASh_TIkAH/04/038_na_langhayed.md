@@ -26,9 +26,7 @@ He shall not step over the rope to which a calf is tied; he shall not run when i
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Saṃskāramayūkha* (p. 71), which explains
-‘*vatsatantrī*’ as ‘the rope to which a calf is tied’, and quotes
-Haradatta to the effect that ‘*vatsa*’ here stands for the entire
+This verse is quoted in *Saṃskāramayūkha* (p. 71), which explains ‘*vatsatantrī*’ as ‘the rope to which a calf is tied’, and quotes Haradatta to the effect that ‘*vatsa*’ here stands for the entire
 *bovine species*.
 </details>
 
@@ -47,11 +45,7 @@ is tied, when it is spread out.’
 *Viṣṇu* (71.23).—‘He shall not look at his own reflection in water, or
 in oil.’
 
-Do. (63.42-43).—‘He shall not cross over the rope to which the calf is
-tied; he shall not run while it is raining.’ *Āśvalāyana Gṛhyasūtra*
-(3.9.6).—He shall not bathe during the night; he shall not bathe naked;
-he shall not sleep naked; he shall not look at a naked woman,
-except......; he shall not run while it is raining.’
+Do. (63.42-43).—‘He shall not cross over the rope to which the calf is tied; he shall not run while it is raining.’ *Āśvalāyana Gṛhyasūtra* (3.9.6).—He shall not bathe during the night; he shall not bathe naked; he shall not sleep naked; he shall not look at a naked woman, except......; he shall not run while it is raining.’
 
 *Pāraṣkara* (2.7.8).—‘He shall not look at himself in water.’
 

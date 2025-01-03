@@ -22,8 +22,7 @@ The construction is—That king for whom the ‘*investigation of law*’—*i.e
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 601);—in *Kṛtyakalpataru*
-(9b);—and in *Vīramitrodaya* (Vyavahāra, p. 11a).
+This verse is quoted in *Aparārka* (p. 601);—in *Kṛtyakalpataru* (9b);—and in *Vīramitrodaya* (Vyavahāra, p. 11a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -31,8 +30,7 @@ This verse is quoted in *Aparārka* (p. 601);—in *Kṛtyakalpataru*
 **(verses 8.20-21)  
 **
 
-See Comparative notes for [Verse
-8.20].
+See Comparative notes for [Verse 8.20].
 </details>
 
 <details><summary>भारुचिः</summary>

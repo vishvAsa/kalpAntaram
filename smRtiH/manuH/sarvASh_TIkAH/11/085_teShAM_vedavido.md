@@ -62,8 +62,7 @@ This explanation, however, is not right What the present verse refers to is the 
 
 **(verses 11.72-86)**
 
-See Comparative notes for [Verse
-11.72].
+See Comparative notes for [Verse 11.72].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -41,16 +41,14 @@ The sense of the verse is that the man who is possessed of any intelligence shou
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vijñānam*’—‘Treatises on logic, arts, and so forth’
-(Medhātithi);—‘subsidiary sciences’ (Kullūka).
+‘*Vijñānam*’—‘Treatises on logic, arts, and so forth’ (Medhātithi);—‘subsidiary sciences’ (Kullūka).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 9.31-44)**
 
-See Comparative notes for [Verse
-9.31].
+See Comparative notes for [Verse 9.31].
 </details>
 
 <details><summary>भारुचिः</summary>

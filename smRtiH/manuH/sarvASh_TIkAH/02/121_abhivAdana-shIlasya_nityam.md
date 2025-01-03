@@ -28,8 +28,7 @@ Though this verse is purely valedictory, yet it serves to afford some idea as to
 
 This verse is quoted in *Vīramitrodaya*, (Saṃskāra, p. 460);—in
 *Vidhānapārijāta* (p. 501) as describing the reward for saluting one’s
-superiors;—in *Parāśaramādhava* (Ācāra, p. 306) as eulogising the act of
-saluting one’s superiors;—and in *Smṛticandrikā* (Saṃskāra, p. 97).
+superiors;—in *Parāśaramādhava* (Ācāra, p. 306) as eulogising the act of saluting one’s superiors;—and in *Smṛticandrikā* (Saṃskāra, p. 97).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -38,8 +37,7 @@ saluting one’s superiors;—and in *Smṛticandrikā* (Saṃskāra, p. 97).
 should salute the Teacher).’
 
 *Baudhāyana-Dharmasūtra* (1.2.26).—‘Desiring Heaven and Longevity, one
-should grasp his right foot with the right hand and the left foot with
-the left.’
+should grasp his right foot with the right hand and the left foot with the left.’
 </details>
 
 <details><summary>Bühler</summary>

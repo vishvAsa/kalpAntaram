@@ -47,8 +47,7 @@ All the people here spoken of form the races inhabiting the borders of Āryāvar
 **(verses 10.43-44)  
 **
 
-See Comparative notes for [Verse
-10.43].
+See Comparative notes for [Verse 10.43].
 </details>
 
 <details><summary>भारुचिः</summary>

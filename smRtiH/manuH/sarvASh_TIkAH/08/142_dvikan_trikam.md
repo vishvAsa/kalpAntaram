@@ -54,11 +54,7 @@ This rate of interest however is to be charged for one year only, and not beyond
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This rule is quoted in *Vivādaratnākara* (p. 8), which adds the
-following notes:—‘*Dvikam*’ means ‘that in which two *Purāṇas* per month
-are charged’; so with ‘*trika*’ and the other terms.—From the Brāhmaṇa,
-Kṣatriya, Vaiśya and Śūdra, one should charge an interest of two, three,
-four and five *Purāṇas* respectively, for every hundred of the debt;—in
+This rule is quoted in *Vivādaratnākara* (p. 8), which adds the following notes:—‘*Dvikam*’ means ‘that in which two *Purāṇas* per month are charged’; so with ‘*trika*’ and the other terms.—From the Brāhmaṇa, Kṣatriya, Vaiśya and Śūdra, one should charge an interest of two, three, four and five *Purāṇas* respectively, for every hundred of the debt;—in
 *Smṛtisāroddhāra* (p. 320);—and in *Kṛtyakalpataru* (67b).
 </details>
 
@@ -67,8 +63,7 @@ four and five *Purāṇas* respectively, for every hundred of the debt;—in
 **(verses 8.140-142)  
 **
 
-See Comparative notes for [Verse
-8.140].
+See Comparative notes for [Verse 8.140].
 </details>
 
 <details><summary>भारुचिः</summary>

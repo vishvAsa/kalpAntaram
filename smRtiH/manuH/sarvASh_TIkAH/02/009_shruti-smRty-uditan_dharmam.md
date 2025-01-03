@@ -30,41 +30,29 @@ For these reasons, it is only right that the unbeliever also, who seeks for noth
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Hemādri* (Vrata, p. 14);—in the *Vīramitrodaya*
-(Paribhāṣā, p. 61), which explains that, ‘*anuttamam sukham*’ stands for
-the rewards that are spoken of in connection with each act;—and in the
+This verse is quoted in *Hemādri* (Vrata, p. 14);—in the *Vīramitrodaya* (Paribhāṣā, p. 61), which explains that, ‘*anuttamam sukham*’ stands for the rewards that are spoken of in connection with each act;—and in the
 *Nṛsiṃhaprasāda* (Saṃskāra, p. 16b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Atri-Saṃhitā*, 16.—‘By me has been described that Dharma in which
-remaining firm, men of the various castes acquire reputation in the
-world and after death attain the highest condition.’
+remaining firm, men of the various castes acquire reputation in the world and after death attain the highest condition.’
 
 *Āpastamba-Dharmasūtra*, 2.2.5.—‘In course of evolution, the man, by the
-residue of the results of his past acts, obtains his caste, his- body,
-his complexion, strength, intelligence, knowledge and also other things
-and activities; and in its revolution, this process brings him happiness
-in both worlds.’ *Āpastamba-Dharmasūtra*, 2.2.7.—‘Through acts conducive
-to sin, one becomes born in undesirable families.’
+residue of the results of his past acts, obtains his caste, his- body, his complexion, strength, intelligence, knowledge and also other things and activities; and in its revolution, this process brings him happiness in both worlds.’ *Āpastamba-Dharmasūtra*, 2.2.7.—‘Through acts conducive to sin, one becomes born in undesirable families.’
 
 *Gautama-Dharmasūtra*, 11-31.—‘People of various castes and in various
-stages of life, remaining firm in their duties, on death, enjoy the
-fruits of their acts, and by reason of the residue of those, become born
-again in a good family of superior caste, endowed with long life,
-learning, wealth, happiness and intelligence.’
+stages of life, remaining firm in their duties, on death, enjoy the fruits of their acts, and by reason of the residue of those, become born again in a good family of superior caste, endowed with long life, learning, wealth, happiness and intelligence.’
 
 *Vaśiṣṭha-Smṛti*, 1.2.—‘The man who performs his duties with due
-knowledge becomes highly praiseworthy in the world, and after death
-attains Heaven.’
+knowledge becomes highly praiseworthy in the world, and after death attains Heaven.’
 
 *Dakṣa-Smṛti*, 2.66.—‘The Householder, ever intent on his own duties,
 partakes of Heaven.’
 
 *Laghu-Viṣṇu-Smṛti*, 2.17.—‘Whatever has been prescribed in the Śruti
-and in the Smṛti,—all this should be done by the Housoholder; otherwise,
-he becomes open to censure.’
+and in the Smṛti,—all this should be done by the Housoholder; otherwise, he becomes open to censure.’
 </details>
 
 <details><summary>Bühler</summary>

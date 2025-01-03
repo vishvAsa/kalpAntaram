@@ -47,8 +47,7 @@ For this reason there is no difference between the Goddess of Fortune and women 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 416);—in *Madanapārijāta*
-(p. 190);—and in *Nṛsiṃhaprasāda* (Saṃskāra, 66b).
+This verse is quoted in *Vivādaratnākara* (p. 416);—in *Madanapārijāta* (p. 190);—and in *Nṛsiṃhaprasāda* (Saṃskāra, 66b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -57,8 +56,7 @@ This verse is quoted in *Vivādaratnākara* (p. 416);—in *Madanapārijāta*
 **
 
 *Mahābhārata* (13.40.11).—‘One who desires his own prosperity should
-always honour women; O Bhārata, when the woman is loved and also held in
-restraint, she becomes the Goddess of Prosperity herself.’
+always honour women; O Bhārata, when the woman is loved and also held in restraint, she becomes the Goddess of Prosperity herself.’
 </details>
 
 <details><summary>भारुचिः</summary>

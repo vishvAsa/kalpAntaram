@@ -36,19 +36,7 @@ Others have held that this verse sums up what has been said (under 361) regardin
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 321), to the
-effect that two fingers are to be cut off if the man only defiles the
-maiden with his fingers;—in *Aparārka* (p. 858), which adds the
-following notes:—‘*Abhiṣahya*’, forcibly,—‘*kuryāt*,’ defile the maiden
-by the introduction of fingers,—the two fingers (its reading being
-‘*kartye aṅgulyau*’) with which he defiles her should be cut off at
-once, without delay;—in *Vivādaratnākara* (p. 403), which has the
-following notes:—‘*Abhiṣahya*,’ insolently,—‘*kuryāt*,’ should
-defile,—‘*kalpye*’ (which is its reading for ‘*kartye*’), should be cut
-off;—and in *Mitākṣarā* (2.288), to the effect that when a man defiles
-an unwilling maiden of the same caste as himself by thrusting his
-fingers into her, he should be fined 600 and two of his fingers should
-be cut off.
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 321), to the effect that two fingers are to be cut off if the man only defiles the maiden with his fingers;—in *Aparārka* (p. 858), which adds the following notes:—‘*Abhiṣahya*’, forcibly,—‘*kuryāt*,’ defile the maiden by the introduction of fingers,—the two fingers (its reading being ‘*kartye aṅgulyau*’) with which he defiles her should be cut off at once, without delay;—in *Vivādaratnākara* (p. 403), which has the following notes:—‘*Abhiṣahya*,’ insolently,—‘*kuryāt*,’ should defile,—‘*kalpye*’ (which is its reading for ‘*kartye*’), should be cut off;—and in *Mitākṣarā* (2.288), to the effect that when a man defiles an unwilling maiden of the same caste as himself by thrusting his fingers into her, he should be fined 600 and two of his fingers should be cut off.
 
 It is quoted in *Vīramitrodaya* (Vyavahāra, 157a).
 </details>
@@ -58,8 +46,7 @@ It is quoted in *Vīramitrodaya* (Vyavahāra, 157a).
 **(verses 8.364-368)  
 **
 
-See Comparative notes for [Verse
-8.364](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201297.html#comparative-notes "English translation of verse").
+See Comparative notes for [Verse 8.364](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201297.html#comparative-notes "English translation of verse").
 </details>
 
 <details><summary>भारुचिः</summary>

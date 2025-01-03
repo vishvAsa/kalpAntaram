@@ -39,19 +39,9 @@ control, he shall maintain continence and keep up also the other restraints and 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 456);—and in *Hemādri* (Śrāddha,
-p. 1014), which adds the following notes:—The Brāhmaṇa invited at
-Śrāddha should keep himself self-controlled, *i.e*., should keep himself
-free from sexual intercourse and also keep the other restrictions;
-Medhātithi
+This verse is quoted in *Aparārka* (p. 456);—and in *Hemādri* (Śrāddha, p. 1014), which adds the following notes:—The Brāhmaṇa invited at Śrāddha should keep himself self-controlled, *i.e*., should keep himself free from sexual intercourse and also keep the other restrictions; Medhātithi
 
-says that the obeservances laid down for the Accomplished Student, the
-avoidance of dancing and music, &c. are all meant to be kept; the
-meaning is that the inviter should see to it that the invited keeps
-these restrictions:—‘*Chandāṃsi*’ Vedas;—‘*adhīyīta*’, ‘utter the words
-of the Veda’; the *Japa* of texts is not prohibited:—the performer of
-the *Śrāddha* himself also is to observe these restrictions; the role is
-meant for both the inviter and the invited.
+says that the obeservances laid down for the Accomplished Student, the avoidance of dancing and music, &c. are all meant to be kept; the meaning is that the inviter should see to it that the invited keeps these restrictions:—‘*Chandāṃsi*’ Vedas;—‘*adhīyīta*’, ‘utter the words of the Veda’; the *Japa* of texts is not prohibited:—the performer of the *Śrāddha* himself also is to observe these restrictions; the role is meant for both the inviter and the invited.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -63,17 +53,13 @@ religious student,’
 mind, speech and acts duly controlled.’
 
 *Prajāpati* (93).—‘The Brāhmaṇa invited at the Śrāddha should avoid
-association with women on the previous day and on the next day; as also
-the second meal.’
+association with women on the previous day and on the next day; as also the second meal.’
 
 *Likhita* (60).—‘One who has eaten at the Śrāddha shall avoid eight
-things: the second meal, journeying, carrying loads, study, sexual
-intercourse, making and receiving gifts, and offering of oblations into
-fire.’
+things: the second meal, journeying, carrying loads, study, sexual intercourse, making and receiving gifts, and offering of oblations into fire.’
 
 *Devala* (Aparārka, p. 457).—‘Having been previously invited, if the
-Brāhmaṇa accept a gift, or if he eat at the Śrāddha after having taken
-his food, then all his merit becomes destroyed.’
+Brāhmaṇa accept a gift, or if he eat at the Śrāddha after having taken his food, then all his merit becomes destroyed.’
 </details>
 
 <details><summary>Bühler</summary>

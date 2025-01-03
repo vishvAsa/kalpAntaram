@@ -40,13 +40,9 @@ But in that case the substitute should have been put forward in that same connec
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 393), which adds the
-explanation that ‘for an offence in connection with which death penalty
-has been prescribed, the Brāhmaṇa shall only have his head shaved’;—in
+This verse is quoted in *Vivādaratnākara* (p. 393), which adds the explanation that ‘for an offence in connection with which death penalty has been prescribed, the Brāhmaṇa shall only have his head shaved’;—in
 *Parāśaramādhava* (Ācāra, p. 399);—in *Parāśaramādhava* (Vyavahāra, p.
-159);—in *Aparārka* (p. 681), which adds that *banishment from the city*
-and such other penalties are equal to the death-penalty, so far as the
-Brāhmaṇa is concerned;—in *Vyavahāra-Bālambhaṭṭī* (p. 115);—and in
+159);—in *Aparārka* (p. 681), which adds that *banishment from the city* and such other penalties are equal to the death-penalty, so far as the Brāhmaṇa is concerned;—in *Vyavahāra-Bālambhaṭṭī* (p. 115);—and in
 *Vīramitrodaya* (Vyavahāra, 58b).
 </details>
 
@@ -56,41 +52,28 @@ Brāhmaṇa is concerned;—in *Vyavahāra-Bālambhaṭṭī* (p. 115);—and in
 **
 
 *Gautama* (8.13).—‘The Brāhmaṇa who is well-versed in his *dharma* must
-not be subjected to corporal punishment; he must not be imprisoned; he
-must not be fined; he must not be exiled; he must not be reviled; he
-must not be excluded.’
+not be subjected to corporal punishment; he must not be imprisoned; he must not be fined; he must not be exiled; he must not be reviled; he must not be excluded.’
 
 *Baudhāyana* (1.18.17).—‘A Brāhmaṇa, forsooth, shall not suffer corporal
 punishment for any offence.’
 
 *Viṣṇu* (5.2-3).—‘In the case of a Brāhmaṇa, no corporal punishment must
-be inflicted; a Brāhmaṇa must be banished from the country, his body
-having been branded.’
+be inflicted; a Brāhmaṇa must be banished from the country, his body having been branded.’
 
 *Nārada* (Theft, 41, 42).—‘On no account shall the King kill a Brāhmaṇa,
-though convicted of all possible crimes. He may be banished. The King
-shall confiscate his entire wealth or leave him a fourth part for
-himself.’
+though convicted of all possible crimes. He may be banished. The King shall confiscate his entire wealth or leave him a fourth part for himself.’
 
 *Bṛhaspati* (27.11, 12).—‘A Brāhmaṇa, though a mortal sinner, shall not
-suffer capital punishment; the King shall banish him and cause him to be
-branded and shaved; the Brāhmaṇa who deserves capital punishment shall
-be compelled to pay one hundred *Suvarṇas*; one deserving to have a limb
-cut off, half as much; and one deserving to have the thumb and index
-finger cut off, half of that.’
+suffer capital punishment; the King shall banish him and cause him to be branded and shaved; the Brāhmaṇa who deserves capital punishment shall be compelled to pay one hundred *Suvarṇas*; one deserving to have a limb cut off, half as much; and one deserving to have the thumb and index finger cut off, half of that.’
 
 *Śaṅkha-Likhita* (Vivādaratnākara, p. 634).—‘Even if he has committed
-heinous crimes, the Brāhmaṇa may be banished, branded, or made to
-undergo expiations; for the Brāhmaṇa should not be made to suffer bodily
-pain.’
+heinous crimes, the Brāhmaṇa may be banished, branded, or made to undergo expiations; for the Brāhmaṇa should not be made to suffer bodily pain.’
 
 *Hārīta* (Do., p. 631).—‘For the Brāhmaṇa, there is no cutting off of
 limbs; the Brāhmaṇa is always purified by penances and austerities.’
 
 *Yama* (Do., p. 636).—‘For crimes committed by the Brāhmaṇa, the
-following punishments have been ordained: shaving of the head,
-banishment from the city, proclamation of his sin, parading on an ass,
-branding on the forehead.’
+following punishments have been ordained: shaving of the head, banishment from the city, proclamation of his sin, parading on an ass, branding on the forehead.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -26,10 +26,7 @@ show that the property of minors does not come within the scope of legal proceed
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 598), which explains
-‘*Bāladāyāgatam*’ as ‘belonging to a minor’ and ‘*ānupālayet*’ as
-‘should guard it against co-parceners’;—and in *Vivādacintāmaṇi* (p.
-244).
+This verse is quoted in *Vivādaratnākara* (p. 598), which explains ‘*Bāladāyāgatam*’ as ‘belonging to a minor’ and ‘*ānupālayet*’ as ‘should guard it against co-parceners’;—and in *Vivādacintāmaṇi* (p. 244).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -38,19 +35,16 @@ This verse is quoted in *Vivādaratnākara* (p. 598), which explains
 attain their majority or complete their studentship.’
 
 *Vaśiṣṭha* (16.8-9).—‘The King shall protect the property of persons
-unfit to transact business;—but when a minor comes of age, his property
-must be made over to him.’
+unfit to transact business;—but when a minor comes of age, his property must be made over to him.’
 
 *Viṣṇu* (3.65, Vivādaratnākara, p. 598).—‘The King shall protect the
 property of infants, of people without protectors and of women.’
 
 *Śaṅkha-Likhita* (Do., p. 599).—‘The King shall protect the property of
-infants, of persons unable to transact business, and of the wives of the
-Vedic Scholar and the Warrior. Ownerless properties revert to the King.’
+infants, of persons unable to transact business, and of the wives of the Vedic Scholar and the Warrior. Ownerless properties revert to the King.’
 
 *Baudhāyana* (Do.).—‘Until sons are able to transact, business, they
-shall keep their property along with the accrued profits carefully till
-they attain majority.’
+shall keep their property along with the accrued profits carefully till they attain majority.’
 
 *Agnipurāṇa* (Rājadharma, 222.18-19).—(Same as Manu, reading
 ‘*bālaputrāsu*’ in place of ‘*baśāputrāsu*.’)

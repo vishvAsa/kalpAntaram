@@ -38,8 +38,7 @@ name connoting the fact that the owl cannot see in solar light—(72)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.220) in the same sense as the
-above.
+This verse is quoted in *Mitākṣarā* (3.220) in the same sense as the above.
 </details>
 
 <details><summary>भारुचिः</summary>

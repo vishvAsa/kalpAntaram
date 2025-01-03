@@ -26,10 +26,7 @@ Whenever one perceives in himself something full of bliss, calm and pure,—he s
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 999), which has the following
-notes:—‘*Prīti*’ is *sukha*, happiness; what brings about this happiness
-is ‘*prītisaṃyuktam*’;—*śuddhābham*, the source of faultless
-knowledge,—this is ‘*Sattva*.’
+This verse is quoted in *Aparārka* (p. 999), which has the following notes:—‘*Prīti*’ is *sukha*, happiness; what brings about this happiness is ‘*prītisaṃyuktam*’;—*śuddhābham*, the source of faultless knowledge,—this is ‘*Sattva*.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

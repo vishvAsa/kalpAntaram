@@ -30,11 +30,7 @@ As a commendatory supplement to this we have the next verse.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 43), which explains
-‘*paśyan*’ as ‘before’, ‘*sammukhaḥ*’;—and in *Vīramitrodaya* (Āhnika,
-p. 37), which explains ‘*paśyan*’ as ‘looking at, in front of’, in order
-to make it applicable to the *wind*, which is not ‘*visible*’ with the
-eye.
+This verse is quoted in *Madanapārijāta* (p. 43), which explains ‘*paśyan*’ as ‘before’, ‘*sammukhaḥ*’;—and in *Vīramitrodaya* (Āhnika, p. 37), which explains ‘*paśyan*’ as ‘looking at, in front of’, in order to make it applicable to the *wind*, which is not ‘*visible*’ with the eye.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -42,8 +38,7 @@ eye.
 **(verses 4.45-49)  
 **
 
-See Comparative notes for [Verse
-4.45].
+See Comparative notes for [Verse 4.45].
 </details>
 
 <details><summary>Bühler</summary>

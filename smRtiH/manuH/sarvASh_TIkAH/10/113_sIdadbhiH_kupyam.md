@@ -41,15 +41,9 @@ Or ‘*giving up*’ may mean *loss*; and as nothing else is mentioned, it must 
 *Cf*. 4.84, which is rescinded by this verse, according to Govindarāja
 and Kullūka.
 
-‘*Kupyam*’.—‘Pots, kettles, wooden stools, and the like’
-(Medhātithi);—‘Beds and seats and such articles of small value’
-(Govindarāja);—‘also grain and clothes’ (Kullūka, Rāghavānanda and
-Nandana);—‘Brass, copper and other common metals’ (Nārāyaṇa).
+‘*Kupyam*’.—‘Pots, kettles, wooden stools, and the like’ (Medhātithi);—‘Beds and seats and such articles of small value’ (Govindarāja);—‘also grain and clothes’ (Kullūka, Rāghavānanda and Nandana);—‘Brass, copper and other common metals’ (Nārāyaṇa).
 
-‘*Tyāgamarhati*’.—‘The realm of such a king should be abandoned by the
-Brāhmaṇas’ (Medhātithi, Govindarāja, Nārāyaṇa and Rāghavānanda);—‘such a
-king is to be excluded from teaching and sacrifices’ (Nandana);—‘must be
-left to himself, *i.e*., not asked again’ (Kullūka).
+‘*Tyāgamarhati*’.—‘The realm of such a king should be abandoned by the Brāhmaṇas’ (Medhātithi, Govindarāja, Nārāyaṇa and Rāghavānanda);—‘such a king is to be excluded from teaching and sacrifices’ (Nandana);—‘must be left to himself, *i.e*., not asked again’ (Kullūka).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -61,14 +55,10 @@ left to himself, *i.e*., not asked again’ (Kullūka).
 *seq*.\]]
 
 *Vaśiṣṭha* (12.2-3).—‘The Accomplished Student shall not beg from any
-body except from the King and a pupil. But he may ask from any body, if
-pressed by hunger, for some small gift, such as cultivated or
-uncultivated field, a cow, a goat or a sheep or, at the last extremity,
-for gold, grain or food.’
+body except from the King and a pupil. But he may ask from any body, if pressed by hunger, for some small gift, such as cultivated or uncultivated field, a cow, a goat or a sheep or, at the last extremity, for gold, grain or food.’
 
 *Yājñavalkya* (3.42),—‘When he has remained hungry for three days, he
-may take grains from a non-Brāhmaṇa, and if accused of it, he should
-rightly state the truth.’
+may take grains from a non-Brāhmaṇa, and if accused of it, he should rightly state the truth.’
 </details>
 
 <details><summary>भारुचिः</summary>

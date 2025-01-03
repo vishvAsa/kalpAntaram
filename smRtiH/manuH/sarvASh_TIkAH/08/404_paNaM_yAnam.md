@@ -47,28 +47,17 @@ At a river-crossing, a ‘*cart*’—a conveyance, in the form of a chariot and
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p, 270), which adds
-the following notes:—This rule applies to the case of *unladen*
-carts;—an empty cart, for crossing a ferry, should be made to pay one
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p, 270), which adds the following notes:—This rule applies to the case of *unladen* carts;—an empty cart, for crossing a ferry, should be made to pay one
 *paṇa*;—a man with load, one-half of a *paṇa*, cattle and women, a
 quarter *paṇa* and a man without load the eighth part of a *paṇa*.
 
-It is quoted in *Aparārka* (p. 834), which adds the following
-explanatory notes:—The *Pālki* and such conveyances, for crossing a
-ferry, should be made to pay one *paṇa*,—a man should pay one-half of a
+It is quoted in *Aparārka* (p. 834), which adds the following explanatory notes:—The *Pālki* and such conveyances, for crossing a ferry, should be made to pay one *paṇa*,—a man should pay one-half of a
 *paṇa*,—cattle and woman should pay a quarter *paṇa*,—as also a man,
 with only his two hands, *i.e*., without any load.
 
-It is quoted in *Vivādaratnākara* (p. 640), which adds that ‘*yānam*’
-here stands for the *empty chariot*, and so forth;—‘*pauruṣaḥ*’, load
-carried by one man,—‘*pādārdham*’, the eighth part of a *paṇa*.
+It is quoted in *Vivādaratnākara* (p. 640), which adds that ‘*yānam*’ here stands for the *empty chariot*, and so forth;—‘*pauruṣaḥ*’, load carried by one man,—‘*pādārdham*’, the eighth part of a *paṇa*.
 
-It is quoted in *Mitākṣarā* (2.263), where *Bālambhaṭṭī* has the
-following notes:—An empty cart should pay a *paṇa*,—a man with a load,
-one-half of a *paṇa*,—cattle and woman (with the exception of those
-specified below in 407) a quarter *paṇa*; and a man without load, the
-eighth part of a *paṇa*. It adds that this refers to river-crossings;
-the rates for sea-voyages are different.
+It is quoted in *Mitākṣarā* (2.263), where *Bālambhaṭṭī* has the following notes:—An empty cart should pay a *paṇa*,—a man with a load, one-half of a *paṇa*,—cattle and woman (with the exception of those specified below in 407) a quarter *paṇa*; and a man without load, the eighth part of a *paṇa*. It adds that this refers to river-crossings; the rates for sea-voyages are different.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -76,12 +65,9 @@ the rates for sea-voyages are different.
 **(verses 8.404-406)**
 
 *Vaśiṣṭha* (19.21, Vivādaratnākara, p. 639).—‘The toll for crossing a
-river whose width is within an arrow-reach is 8 *māṣas*; for crossing a
-river whose width is more than an arrow-reach is a quarter of a
+river whose width is within an arrow-reach is 8 *māṣas*; for crossing a river whose width is more than an arrow-reach is a quarter of a
 *Kārṣāpaṇa*; and that for crossing a river in which there is scanty
-water, it is one *māṣa*; it is to be one and a half times these in the
-case of women...... If a man swims a river-crossing, he should he made
-to pay a sum hundred times of the toll.’
+water, it is one *māṣa*; it is to be one and a half times these in the case of women...... If a man swims a river-crossing, he should he made to pay a sum hundred times of the toll.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -94,20 +94,13 @@ But first of all, these persons should be required to point out the subject of Y
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 23) \[for whose
-explanatory note, see note on verse 144\];—in *Aparārka* (p. 659), which
-adds that what is here laid down applies to cases where very little use
-has been made of the thing; in cases where the pledged thing has been
-very much used, no interest is to be paid; thus the reduction in the
-interest has to be determined by the extent of the use to which the
-thing may have been put;—and in *Kṛtyakalpataru*, (70a).
+This verse is quoted in *Vivādaratnākara* (p. 23) \[for whose explanatory note, see note on verse 144\];—in *Aparārka* (p. 659), which adds that what is here laid down applies to cases where very little use has been made of the thing; in cases where the pledged thing has been very much used, no interest is to be paid; thus the reduction in the interest has to be determined by the extent of the use to which the thing may have been put;—and in *Kṛtyakalpataru*, (70a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (1.128).—‘That foolish person who uses a pledge without the
-authority of the owner, shall lose one half of his interest, as a
-compensation for such use.’
+authority of the owner, shall lose one half of his interest, as a compensation for such use.’
 
 [\[See Texts under
 143-144.\]]

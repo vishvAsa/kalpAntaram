@@ -32,8 +32,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 255).
 **(verses 8.307-309)  
 **
 
-See Comparative notes for [Verse
-8.308].
+See Comparative notes for [Verse 8.308].
 </details>
 
 <details><summary>Bühler</summary>

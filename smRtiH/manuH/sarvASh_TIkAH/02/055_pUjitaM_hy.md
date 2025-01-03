@@ -28,13 +28,9 @@ This verse is only a valedictory supplement to the rule prescribed above; it is 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Ūrjam*’.—Buhler wrongly attributes to Medhātithi the explanation that
-this term means ‘bulk’. The term used by him is ‘*mahāprāṇatā*’ which
-means the same as ‘*vīrya*’ of Kullūka or ‘energy’ of Nārāyaṇa. Buhler
-has apparently been misled by a mis-reading of Medhātithi.
+‘*Ūrjam*’.—Buhler wrongly attributes to Medhātithi the explanation that this term means ‘bulk’. The term used by him is ‘*mahāprāṇatā*’ which means the same as ‘*vīrya*’ of Kullūka or ‘energy’ of Nārāyaṇa. Buhler has apparently been misled by a mis-reading of Medhātithi.
 
-This verse has been quoted in *Vīramitrodaya* (Saṃskāra, p. 486) where
-‘*pūjitam*’ has been explained as, ‘*samskṛtam*’, well prepared;—and in
+This verse has been quoted in *Vīramitrodaya* (Saṃskāra, p. 486) where ‘*pūjitam*’ has been explained as, ‘*samskṛtam*’, well prepared;—and in
 *Smṛticandrikā* (Saṃskāra, p. 114).
 </details>
 
@@ -42,8 +38,7 @@ This verse has been quoted in *Vīramitrodaya* (Saṃskāra, p. 486) where
 
 **(Verses 54-55)**
 
-See Comparative notes for [Verse
-2.54].
+See Comparative notes for [Verse 2.54].
 </details>
 
 <details><summary>Bühler</summary>

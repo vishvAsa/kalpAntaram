@@ -46,8 +46,7 @@ In fact, the whole of this subject relating to the relationship of the child and
 
 **(verses 9.31-44)**
 
-See Comparative notes for [Verse
-9.31].
+See Comparative notes for [Verse 9.31].
 </details>
 
 <details><summary>भारुचिः</summary>

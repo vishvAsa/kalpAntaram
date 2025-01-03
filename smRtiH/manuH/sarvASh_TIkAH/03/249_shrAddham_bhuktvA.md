@@ -26,8 +26,7 @@ The term ‘*śrāddha*’ has been repeated here for the purpose of guarding ag
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 498);—and in *Gadādharapaddhati*
-(Kāla, p. 559).
+This verse is quoted in *Aparārka* (p. 498);—and in *Gadādharapaddhati* (Kāla, p. 559).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

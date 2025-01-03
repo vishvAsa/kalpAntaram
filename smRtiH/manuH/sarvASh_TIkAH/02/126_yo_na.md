@@ -35,29 +35,11 @@ It is not so; the construction is—‘the return-greeting *in keeping with the*
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 450), where the
-following explanation is added:—The meaning is that the man who does not
-know the return greeting in strict consonance with rules of salutation
-does not deserve to be greeted at all, the correct form of the response
-being as laid down in the preceding verse—the ultra-elongation of the
-vowel at the end of the name pronounced by the saluter in the formula of
-salutation. What is prohibited here is only that salutation which is
-accompanied by the formula containing the saluter’s name; that all
-salutation is not entirely interdicted is indicated by the words ‘he is
-exactly as the Śūdra is’;—the Śūdra also, when over ninety years of age,
-is deserving of salutation, according to Manu 2. 137. The word
-‘*pratyabhivādanam*’ means the pronouncing, by the elder who has been
-saluted, of benediction with prescribed formula.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 450), where the following explanation is added:—The meaning is that the man who does not know the return greeting in strict consonance with rules of salutation does not deserve to be greeted at all, the correct form of the response being as laid down in the preceding verse—the ultra-elongation of the vowel at the end of the name pronounced by the saluter in the formula of salutation. What is prohibited here is only that salutation which is accompanied by the formula containing the saluter’s name; that all salutation is not entirely interdicted is indicated by the words ‘he is exactly as the Śūdra is’;—the Śūdra also, when over ninety years of age, is deserving of salutation, according to Manu 2. 137. The word ‘*pratyabhivādanam*’ means the pronouncing, by the elder who has been saluted, of benediction with prescribed formula.
 
-This verse is quoted also in *Madanapārijāta* (p. 28), which adds a
-verse from Yama to the effect that the Brāhmaṇa who, on being saluted,
-does not return the proper benediction, is born as a tree in the
-crematorium, inhabited by crows and vultures.
+This verse is quoted also in *Madanapārijāta* (p. 28), which adds a verse from Yama to the effect that the Brāhmaṇa who, on being saluted, does not return the proper benediction, is born as a tree in the crematorium, inhabited by crows and vultures.
 
-It is quoted in *Parāśaramādhava* (Ācāra, p. 297) as laying down that no
-salutation should be offered to one ignorant of the proper form of the
-response to it;—in *Nityāchārapradīpa* (p. 407);—in *Saṃskāramayūkha*
-(p. 57);—and in *Smṛticandrikā* (Saṃskāra, p. 98).
+It is quoted in *Parāśaramādhava* (Ācāra, p. 297) as laying down that no salutation should be offered to one ignorant of the proper form of the response to it;—in *Nityāchārapradīpa* (p. 407);—in *Saṃskāramayūkha* (p. 57);—and in *Smṛticandrikā* (Saṃskāra, p. 98).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -66,25 +48,19 @@ response to it;—in *Nityāchārapradīpa* (p. 407);—in *Saṃskāramayūkha*
 who knows not the form of the return-greeting.’
 
 *Yama* (Vīramitrodaya-Saṃskāra, p. 465).—‘On being saluted, if one does
-not offer his blessing, a part of the saluter’s sins falls upon the
-person saluted. To the Brāhmaṇa he should say *svasti* (all may be
-well), to the Kṣatriya *āyuṣyam* (long-life), to the Vaiśya *vardhatām*
-(may you prosper), to the Śūdra *ārogyam* (freedom from disease).’
+not offer his blessing, a part of the saluter’s sins falls upon the person saluted. To the Brāhmaṇa he should say *svasti* (all may be well), to the Kṣatriya *āyuṣyam* (long-life), to the Vaiśya *vardhatām* (may you prosper), to the Śūdra *ārogyam* (freedom from disease).’
 
 \[Yama also reproduces Manu’s Verse.\]
 
 *Bhaviṣya-purāṇa* (Parāśaramādhava, p. 298).—‘On bring saluted, if one
-does not return the salutation, or if one does not pronounce the
-blessing, one falls into many hells.’
+does not return the salutation, or if one does not pronounce the blessing, one falls into many hells.’
 
 *Gautama-Dharmasūtra* (7.42).—‘*Welfare, Freedom from* *Distemper* ,
 *Freedom from Loss* and *Freedom from Disease*, the asking of these
 constitutes the return-greeting; the last being for the Śūdra.’
 
 *Āpastamba-Dharmasūtra* (1.14.26-29).—‘One should ask one who is not
-senior, also one of the same age, about his *welfare*; the Kṣatriya
-about his *freedom from distemper*;—the Vaiśya about *freedom from
-loss*;—the Śūdra about *freedom from disease*.’
+senior, also one of the same age, about his *welfare*; the Kṣatriya about his *freedom from distemper*;—the Vaiśya about *freedom from loss*;—the Śūdra about *freedom from disease*.’
 </details>
 
 <details><summary>Bühler</summary>

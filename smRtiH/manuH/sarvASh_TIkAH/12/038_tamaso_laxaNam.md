@@ -33,8 +33,7 @@ Thus then, whenever a man has an excessive craving for Pleasure, he becomes depr
 **(verses 12.32-51)  
 **
 
-See Comparative notes for [Verse
-12.32].
+See Comparative notes for [Verse 12.32].
 </details>
 
 <details><summary>भारुचिः</summary>

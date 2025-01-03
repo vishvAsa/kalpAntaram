@@ -34,17 +34,9 @@ Some people have held that the verb ‘should be got done’ is to be construed 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Kārayet*’—‘The sacrificer should have it done by another priest’
-(Medhātithi);—‘the defaulting priest should have it done by another
-(Nārāyaṇa, Kullūka, Rāghavānanda and Nandana).
+‘*Kārayet*’—‘The sacrificer should have it done by another priest’ (Medhātithi);—‘the defaulting priest should have it done by another (Nārāyaṇa, Kullūka, Rāghavānanda and Nandana).
 
-This verse is quoted in *Aparārka* (p. 837);—in *Paraśāramādhava*
-(Vyavahāra, p. 222), which explains ‘*anyena*’ as ‘by some from among
-that group of priests to which he himself belongs’;—in *Vivādaratnākara*
-(p. 118);—in *Vivādacintāmaṇi* (p. 49), which says—‘if the priest leaves
-his work after, having received the fee after the midday rites, then he
-is to return the entire fee, and get the work completed by his son or
-others’;—and in *Kṛtyakalpataru* (89b).
+This verse is quoted in *Aparārka* (p. 837);—in *Paraśāramādhava* (Vyavahāra, p. 222), which explains ‘*anyena*’ as ‘by some from among that group of priests to which he himself belongs’;—in *Vivādaratnākara* (p. 118);—in *Vivādacintāmaṇi* (p. 49), which says—‘if the priest leaves his work after, having received the fee after the midday rites, then he is to return the entire fee, and get the work completed by his son or others’;—and in *Kṛtyakalpataru* (89b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -52,23 +44,10 @@ others’;—and in *Kṛtyakalpataru* (89b).
 *Yājñavalkya* (2.265).—(See under 206.)
 
 *Śaṅkha-Likhita* (Vivādaratnākara, p. 120).—‘After a Priest has been
-appointed, if the sacrificer appoint another, the fee shall be paid to
-the former; if he happen to go out for some time, then his return shall
-be awaited, and the sacrificer shall not go on with the performance
-during his absence. If the completion of the performance becomes urgent,
-he may have it completed; and on his return, the priest may be given
-some fee.’
+appointed, if the sacrificer appoint another, the fee shall be paid to the former; if he happen to go out for some time, then his return shall be awaited, and the sacrificer shall not go on with the performance during his absence. If the completion of the performance becomes urgent, he may have it completed; and on his return, the priest may be given some fee.’
 
 *Nārada* (3.8-11).—‘When an officiating priest has met with an accident,
-another priest shall officiate for him, and receive from him his part of
-the fee. Where an officiating priest forsakes a sacrificer, who is no
-offender and is free from guilt,—or when a sacrificer forsakes a
-faultless priest,—they shall both be punished. There are three sorts of
-officiating priests: hereditary, appointed by the sacrificer himself,
-and one who performs the priestly functions of his own accord, through
-friendship; the above law applies to the hereditary and appointed
-priests; no sin attaches to the forsaking of the priest acting of his
-own accord.’
+another priest shall officiate for him, and receive from him his part of the fee. Where an officiating priest forsakes a sacrificer, who is no offender and is free from guilt,—or when a sacrificer forsakes a faultless priest,—they shall both be punished. There are three sorts of officiating priests: hereditary, appointed by the sacrificer himself, and one who performs the priestly functions of his own accord, through friendship; the above law applies to the hereditary and appointed priests; no sin attaches to the forsaking of the priest acting of his own accord.’
 </details>
 
 <details><summary>भारुचिः</summary>

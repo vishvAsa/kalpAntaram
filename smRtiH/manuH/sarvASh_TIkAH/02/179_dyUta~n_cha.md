@@ -41,16 +41,9 @@ Every one of these words has the Accusative ending, on account of its being gove
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Janavādam*’—‘Quarelling with people’ (Medhātithi, Govindarāja, Kullūka
-and Rāghavānanda);—‘asking people at random for news’ (alternative
-suggested by Medhātithi, and Nārāyaṇa).
+‘*Janavādam*’—‘Quarelling with people’ (Medhātithi, Govindarāja, Kullūka and Rāghavānanda);—‘asking people at random for news’ (alternative suggested by Medhātithi, and Nārāyaṇa).
 
-This is quoted in *Parāśaramādhava* (Ācāra, p. 456);—in *Madanapārijāta*
-(p. 39);—in *Vīramitrodaya* (Saṃskāra, p. 495);—in *Saṃskāramayūkha* (p.
-42), which notes that ‘*prekṣanālambhana*’ of women is forbidden, lest
-they lead on to intercourse;—in *Smṛticandrikā* (Saṃskāra, p. 125),
-which has the same notes and adds that in ordinary crowds and other
-places, the *seeing* and *touching* cannot be avoided;—and in
+This is quoted in *Parāśaramādhava* (Ācāra, p. 456);—in *Madanapārijāta* (p. 39);—in *Vīramitrodaya* (Saṃskāra, p. 495);—in *Saṃskāramayūkha* (p. 42), which notes that ‘*prekṣanālambhana*’ of women is forbidden, lest they lead on to intercourse;—in *Smṛticandrikā* (Saṃskāra, p. 125), which has the same notes and adds that in ordinary crowds and other places, the *seeing* and *touching* cannot be avoided;—and in
 *Saṃskāraratnamālā* (p. 292), which explains ‘*dyūta*’ as gambling with
 dice, and ‘*janavāda*’ as talking of the people in general.
 </details>
@@ -60,17 +53,13 @@ dice, and ‘*janavāda*’ as talking of the people in general.
 **(verses 177-179)  
 **
 
-Include Comparative notes for [Verse
-2.177].
+Include Comparative notes for [Verse 2.177].
 
 *Gautama* (2.22.24).—‘Looking at and touching of women should be
-avoided, for fear of the intercourse proceeding further; also gambling,
-service of low people, appropriating what is not given, killing;—also
-harsh words.’
+avoided, for fear of the intercourse proceeding further; also gambling, service of low people, appropriating what is not given, killing;—also harsh words.’
 
 *Baudhāyana* (1.2.23-24).—‘Truthful in speech, modest, free from
-egotism;—conversing with women, only to the extent that may be
-necessary.’
+egotism;—conversing with women, only to the extent that may be necessary.’
 
 *Āpastamba-Dharmasūtra* (1.3.11, 23).—‘He should not see any dancing; he
 should not talk ill of people.’

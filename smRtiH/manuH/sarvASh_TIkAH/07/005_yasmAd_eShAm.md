@@ -26,13 +26,7 @@ He was created after ‘*taking out*’ the essential constituents. The root ‘
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 392);—again in the
-same work (Vyavahāra, p. 5);—and in *Vīramitrodaya* (Rājanīti, p. 16),
-which adds the following notes:—‘*Eṣām surendrāṇām*’—‘these principal
-gods, Indra and the rest’;—‘*mātrābhyaḥ*’—‘the king has been created
-after extracting the most essential portions out of the constituent
-portions of the said deities; for this reason in glory, he surpasses all
-beings, *i.e*., he is superior to all things.’
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 392);—again in the same work (Vyavahāra, p. 5);—and in *Vīramitrodaya* (Rājanīti, p. 16), which adds the following notes:—‘*Eṣām surendrāṇām*’—‘these principal gods, Indra and the rest’;—‘*mātrābhyaḥ*’—‘the king has been created after extracting the most essential portions out of the constituent portions of the said deities; for this reason in glory, he surpasses all beings, *i.e*., he is superior to all things.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -40,8 +34,7 @@ beings, *i.e*., he is superior to all things.’
 **(verses 7.3-13)  
 **
 
-See Comparative notes for [Verse
-7.3].
+See Comparative notes for [Verse 7.3].
 </details>
 
 <details><summary>भारुचिः</summary>

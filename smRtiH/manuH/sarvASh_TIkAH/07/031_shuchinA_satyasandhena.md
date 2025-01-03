@@ -34,9 +34,7 @@ Thus he who is equipped with these five qualities, and free from the correspondi
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Satyasandhaḥ*’—‘Regarding Truth as predominant’
-(Medhātithi);—‘faithful to his promise’ (Govindarāja, Kullūka and
-Rāghavānanda).
+‘*Satyasandhaḥ*’—‘Regarding Truth as predominant’ (Medhātithi);—‘faithful to his promise’ (Govindarāja, Kullūka and Rāghavānanda).
 
 This verse is quoted in *Vivādaratnākara* (p. 647);—and in
 *Vivādacintāmaṇi* (p. 262).
@@ -45,16 +43,13 @@ This verse is quoted in *Vivādaratnākara* (p. 647);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (11.4).—‘The king shall be pure, of subdued senses, surrounded
-by companions possessing excellent qualities and by the means of
-upholding his rule.’
+by companions possessing excellent qualities and by the means of upholding his rule.’
 
 *Yājñavalkya* (1.310).—‘He shall appoint ministers who are intelligent,
 hereditarily connected, firm and pure.’
 
 *Kāmandaka* (2.37).—‘inflicting extraordinarily heavy punishments, the
-king frightens his people; and inflicting light ones, he ceases to be
-feared. That king deserves praise who deals out punishment proportionate
-to the offence.’
+king frightens his people; and inflicting light ones, he ceases to be feared. That king deserves praise who deals out punishment proportionate to the offence.’
 </details>
 
 <details><summary>भारुचिः</summary>

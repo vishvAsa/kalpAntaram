@@ -60,8 +60,7 @@ The presence of even one of the qualities mentioned, marks out the man as one of
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 170);—in *Mitākṣarā* (on
-1.130);—and in *Hemādri* (Śrāddha, p. 364).
+This verse is quoted in *Aparārka* (p. 170);—in *Mitākṣarā* (on 1.130);—and in *Hemādri* (Śrāddha, p. 364).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

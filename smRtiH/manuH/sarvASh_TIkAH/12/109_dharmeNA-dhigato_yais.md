@@ -90,17 +90,9 @@ Or, the phrase may mean that ‘they rely upon such Vedic texts as are directly 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Śrutipratyakṣahetavaḥ*’—‘Those who have learnt the Vedic text, also
-facts of perception and reasonings’, *or* ‘those for whom the
-perceptible Vedic texts are the sole means of discriminating virtue and
-vice’ (Medhātithi);—‘who are the cause of the teaching of the subjects
-perceptible in the Veda’ (Govindarāja),—‘who are the causes of making
-the revealed texts perceptible by reciting them’ (Kullūka);—‘those for
-whose knowledge and exposition of the Law, the causes consist of Hearing
-and Perception by the senses’ (Nandana).
+‘*Śrutipratyakṣahetavaḥ*’—‘Those who have learnt the Vedic text, also facts of perception and reasonings’, *or* ‘those for whom the perceptible Vedic texts are the sole means of discriminating virtue and vice’ (Medhātithi);—‘who are the cause of the teaching of the subjects perceptible in the Veda’ (Govindarāja),—‘who are the causes of making the revealed texts perceptible by reciting them’ (Kullūka);—‘those for whose knowledge and exposition of the Law, the causes consist of Hearing and Perception by the senses’ (Nandana).
 
-This verse is quoted in *Smṛticandrikā* (Saṃskāra p. 6) as defining the
-‘*Śiṣṭa*.’
+This verse is quoted in *Smṛticandrikā* (Saṃskāra p. 6) as defining the ‘*Śiṣṭa*.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -110,26 +102,15 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra p. 6) as defining the
 worldly cause is perceptible.’
 
 *Vaśiṣṭha* (6.43).—‘Those Brāhmaṇas in whose families the study of the
-Veda and the subsidiary sciences is hereditary, and who are able to
-adduce proofs perceptible by the senses from the revealed texts, must be
-known to be *śiṣṭa*, cultured.’
+Veda and the subsidiary sciences is hereditary, and who are able to adduce proofs perceptible by the senses from the revealed texts, must be known to be *śiṣṭa*, cultured.’
 
 *Baudhāyana* (1.1.5-6).—‘*Śiṣṭa*, cultured, forsooth, are those who are
-free from envy, free from pride, contented with a store of grain
-sufficient for ten days, free from covetousness, and free from
-hypocrisy, arrogance, greed, perplexity and anger. Those are called
+free from envy, free from pride, contented with a store of grain sufficient for ten days, free from covetousness, and free from hypocrisy, arrogance, greed, perplexity and anger. Those are called
 *cultured* who, in accordance with the sacred Law, have studied the Veda
-together with its subsidiaries, know how to draw inferences from it, and
-are able to adduce proofs perceptible by the senses from the revealed
-texts.’
+together with its subsidiaries, know how to draw inferences from it, and are able to adduce proofs perceptible by the senses from the revealed texts.’
 
 *Āpastamba* (2.29.14-15).—‘The indications for doubtful cases are—“He
-shall regulate his course of action according to the conduct which is
-unanimously recognised in all countries by men of the three twice-born
-castes, who have been properly obedient to their teachers, who are aged,
-of subdued senses, free from avarice and hypocrisy.” Acting thus he will
-gain both worlds. Some people say that the remaining duties must be
-learnt from women and from men of all castes.’
+shall regulate his course of action according to the conduct which is unanimously recognised in all countries by men of the three twice-born castes, who have been properly obedient to their teachers, who are aged, of subdued senses, free from avarice and hypocrisy.” Acting thus he will gain both worlds. Some people say that the remaining duties must be learnt from women and from men of all castes.’
 </details>
 
 <details><summary>भारुचिः</summary>

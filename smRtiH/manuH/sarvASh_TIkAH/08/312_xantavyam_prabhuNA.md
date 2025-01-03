@@ -46,10 +46,7 @@ This verse is quoted in *Smṛticandrikā* (Vyavahāra, p. 66);—and in
 **
 
 *Nārada* (Theft, 39-40).—‘Neither for the purpose of gaining a friend,
-nor for the acquisition of wealth, should a wicked criminal be suffered
-by the King to go free. By pardoning an offender, a king commits the
-same offence as by punishing an innocent man. Religious merit accrues to
-him from punishing the wicked.’
+nor for the acquisition of wealth, should a wicked criminal be suffered by the King to go free. By pardoning an offender, a king commits the same offence as by punishing an innocent man. Religious merit accrues to him from punishing the wicked.’
 
 *Bṛhaspati* (22-33).—‘By punishment of the wicked and release of the
 virtuous, the renown and religious merit of the King is increased.’

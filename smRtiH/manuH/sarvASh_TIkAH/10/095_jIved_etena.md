@@ -24,8 +24,7 @@ But, even when renouncing his own proper occupation, ‘*he shall never think of
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Apararka* (p. 934), which explains ‘*jyāyasī
-vṛtti*’ as the ‘functions of the Brāhmaṇa.’
+This verse is quoted in *Apararka* (p. 934), which explains ‘*jyāyasī vṛtti*’ as the ‘functions of the Brāhmaṇa.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -91,21 +91,16 @@ Another reading is ‘*parisamvatsarāt*;’ which means that the honour is to b
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Priyaḥ*’—‘Son-in-law’ (Medhātithi, Govindarāja, Kullūka and
-Rāghavānanda);—‘Friend’ (Nārāyaṇa and Nandana).
+‘*Priyaḥ*’—‘Son-in-law’ (Medhātithi, Govindarāja, Kullūka and Rāghavānanda);—‘Friend’ (Nārāyaṇa and Nandana).
 
 ‘*Parisaṃvatsarān*’—Kullūka reads ‘*parisaṃvatsarāt*.’
 
-“The Mahābhārata has here *parisaṃvatsaroṣitān*, ‘gone a year on a
-journey.’”—(Hopkins).
+“The Mahābhārata has here *parisaṃvatsaroṣitān*, ‘gone a year on a journey.’”—(Hopkins).
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 454) as laying down
-the ‘Madhuparka’ offering for the King and some others.
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 454) as laying down the ‘Madhuparka’ offering for the King and some others.
 
 *Medhātithi* (Footnote, p. 237.)—The printed editions have wrongly
-treated the verse ‘*yadyadiṣṭatamam &c*.’ as Manu’s text. It is only a
-part of Medhātithi’s comment, quoted by him as the ‘*Smṛtyantara*’
-referred to by him in line 16.
+treated the verse ‘*yadyadiṣṭatamam &c*.’ as Manu’s text. It is only a part of Medhātithi’s comment, quoted by him as the ‘*Smṛtyantara*’ referred to by him in line 16.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -114,42 +109,25 @@ referred to by him in line 16.
 **
 
 *Gautama* (5.28-30).—‘The Priest, the Teacher, the Father-in-law, the
-paternal uncle and the maternal uncle,—when these arrive the
-Honey-mixture is to be offered; again on the lapse of a year; and also
-before the marriage and the sacrifice.’
+paternal uncle and the maternal uncle,—when these arrive the Honey-mixture is to be offered; again on the lapse of a year; and also before the marriage and the sacrifice.’
 
 *Āpastamba-Dharmasūtra* (2.8.5-9).—‘The Vedic Scholar deserves the cow
-and the honey-mixture; as also the Teacher, the Priest, the Accomplished
-Student, and the King, if he be righteous; to the Teacher, the Priest,
-the Father-in-law and the King, the cow and the Honey-mixture shall be
-offered when they come after the lapse of one year; the Honey-mixture
-consists of curd mixed with honey, or water mixed with honey, or, in the
-absence of other things, water only.’
+and the honey-mixture; as also the Teacher, the Priest, the Accomplished Student, and the King, if he be righteous; to the Teacher, the Priest, the Father-in-law and the King, the cow and the Honey-mixture shall be offered when they come after the lapse of one year; the Honey-mixture consists of curd mixed with honey, or water mixed with honey, or, in the absence of other things, water only.’
 
 *Vaśiṣṭha* (11.1).—‘Six persons deserve to be honoured: the Priest, the
-bridegroom, the king, the paternal uncle, the Accomplished Student and
-the maternal uncle.’
+bridegroom, the king, the paternal uncle, the Accomplished Student and the maternal uncle.’
 
 *Yājñavalkya* (1.109-110).—‘One shall offer either a big bull or a big
-goat to the Vedic scholar, as also honour, attendance, delicious food
-and sweet words; once every year are to be entertained the Accomplished
-Student, the Teacher, the King; as also the friend and the bridegroom,
-and the Priests when going to officiate at a sacrifice.’
+goat to the Vedic scholar, as also honour, attendance, delicious food and sweet words; once every year are to be entertained the Accomplished Student, the Teacher, the King; as also the friend and the bridegroom, and the Priests when going to officiate at a sacrifice.’
 
 *Āśvalāyana-Gṛhyasūtra* (1.24.1-4).—‘After having appointed the Priest,
-he shall offer to him the Honey-mixture; also to an Accomplished Student
-that may happen to arrive; also to the King, the Teacher, the
-Father-in-law, the paternal uncle and the maternal uncle.’
+he shall offer to him the Honey-mixture; also to an Accomplished Student that may happen to arrive; also to the King, the Teacher, the Father-in-law, the paternal uncle and the maternal uncle.’
 
 *Pāraskara* (1.3. 1-3).—‘Six persons deserve to be honoured: the
-Teacher, the Bridegroom, the King, the dear friend, and the Accomplished
-Student; these shall be entertained once every year; also the Priests
-that are going to officiate at a sacrifice.’
+Teacher, the Bridegroom, the King, the dear friend, and the Accomplished Student; these shall be entertained once every year; also the Priests that are going to officiate at a sacrifice.’
 
 *Gobhila* (4.10.23-26).—‘Six persons are deserving of the honour of
-entertainment: the Teacher, the Priest, the Accomplished Student, the
-Bridegroom, the dear friend and the guest; these should be entertained
-after the lapse of one year; and also at marriage and at a sacrifice.’
+entertainment: the Teacher, the Priest, the Accomplished Student, the Bridegroom, the dear friend and the guest; these should be entertained after the lapse of one year; and also at marriage and at a sacrifice.’
 </details>
 
 <details><summary>Bühler</summary>

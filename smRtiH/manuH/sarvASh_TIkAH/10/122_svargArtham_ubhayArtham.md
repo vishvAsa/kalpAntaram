@@ -55,8 +55,7 @@ Or, the meaning may be, ‘when he has come to be known as *related to the Brāh
 [\[See under 99
 above.\]]
 
-See Comparative notes for [Verse
-10.121].
+See Comparative notes for [Verse 10.121].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -20,9 +20,7 @@ We have not heard of such a thing from any source. ‘*Pūrveṣu janmasu*’—
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 232), which says
-that this refers to cases where the father receives the money for his
-own benefit
+This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 232), which says that this refers to cases where the father receives the money for his own benefit
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -30,8 +28,7 @@ own benefit
 **(verses 9.98-100)  
 **
 
-See Comparative notes for [Verse
-9.98].
+See Comparative notes for [Verse 9.98].
 </details>
 
 <details><summary>भारुचिः</summary>

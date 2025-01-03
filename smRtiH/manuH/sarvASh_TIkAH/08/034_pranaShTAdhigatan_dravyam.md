@@ -34,20 +34,14 @@ Out of the property that has been lost and found, the king, remembering the duty
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 347), which adds the
-following notes:—‘*Praṇaṣṭādhigatam*’, ‘was first lost and then
-recovered’;—‘*yuktaiḥ*’, ‘carefully devoted to guarding the
-property—‘*ibhena*’, ‘by means of an elephant’;—and in *Vivādacintāmaṇi*
-(p. 149). which notes that the ‘guarding’ is to be done by the king’s
-officers, and explains ‘*ibhena*’ as ‘by an elephant’.
+This verse is quoted in *Vivādaratnākara* (p. 347), which adds the following notes:—‘*Praṇaṣṭādhigatam*’, ‘was first lost and then recovered’;—‘*yuktaiḥ*’, ‘carefully devoted to guarding the property—‘*ibhena*’, ‘by means of an elephant’;—and in *Vivādacintāmaṇi* (p. 149). which notes that the ‘guarding’ is to be done by the king’s officers, and explains ‘*ibhena*’ as ‘by an elephant’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 8.33-34)**
 
-See Comparative notes for [Verse
-8.33].
+See Comparative notes for [Verse 8.33].
 </details>
 
 <details><summary>भारुचिः</summary>

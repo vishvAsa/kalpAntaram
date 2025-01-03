@@ -24,8 +24,7 @@ The rule here laid down applies to the case, of *intentional* emission of semen.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 1140), which explains that this
-‘emission of the seed’ is meant to be ‘in a woman’;—and in
+This verse is quoted in *Aparārka* (p. 1140), which explains that this ‘emission of the seed’ is meant to be ‘in a woman’;—and in
 *Madanapārijāta* (p. 909.)
 </details>
 
@@ -34,8 +33,7 @@ This verse is quoted in *Aparārka* (p. 1140), which explains that this
 **(verses 11.118-123)  
 **
 
-See Comparative notes for [Verse
-11.118].
+See Comparative notes for [Verse 11.118].
 </details>
 
 <details><summary>भारुचिः</summary>

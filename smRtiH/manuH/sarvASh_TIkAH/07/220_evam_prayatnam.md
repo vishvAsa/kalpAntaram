@@ -33,10 +33,7 @@ This verse is quoted in *Vīramitrodaya* (p. 51).
 
 *Kāmandaka* (7-9).—(See under 217.)
 
-Do. (7.30).—‘The King shall ride conveyances and vehicles which have
-either been thoroughly examined by himself, or which have been
-recommended by his acquaintances He should not pass through narrow and
-unknown roads.’
+Do. (7.30).—‘The King shall ride conveyances and vehicles which have either been thoroughly examined by himself, or which have been recommended by his acquaintances He should not pass through narrow and unknown roads.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -40,8 +40,7 @@ This ‘water-rite’ is to be performed only in the case of the ‘outcast’ r
 
 **(verses 11.186-187)**
 
-See Comparative notes for [Verse
-11.186].
+See Comparative notes for [Verse 11.186].
 </details>
 
 <details><summary>भारुचिः</summary>

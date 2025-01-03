@@ -23,8 +23,7 @@ Those that grow in a plot of land that has been cultivated with the plough, the 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (50.50).—‘If a man has wantonly cut such plants as grow by
-cultivation, or such as rise spontaneously in the woods,—he must wait on
-a cow and subsist on milk for one day.’
+cultivation, or such as rise spontaneously in the woods,—he must wait on a cow and subsist on milk for one day.’
 
 *Yājñavalkya* (3.276).—(See under 142.)
 </details>

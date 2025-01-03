@@ -25,8 +25,7 @@ This is another expiation in the form of gifts. It is going to be laid down (und
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.266);—in *Parāśaramādhava*
-(Prāyaścitta, p. 73);—and in *Prāyaścittaviveka* (pp. 215 and 534).
+This verse is quoted in *Mitākṣarā* (3.266);—in *Parāśaramādhava* (Prāyaścitta, p. 73);—and in *Prāyaścittaviveka* (pp. 215 and 534).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -34,8 +33,7 @@ This verse is quoted in *Mitākṣarā* (3.266);—in *Parāśaramādhava*
 **(verses 11.126-130)  
 **
 
-See Comparative notes for [Verse
-11.126].
+See Comparative notes for [Verse 11.126].
 </details>
 
 <details><summary>भारुचिः</summary>

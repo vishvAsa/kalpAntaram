@@ -51,24 +51,16 @@ This we shall explain at that place. As for the exact meaning and purpose of suc
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 240), which adds that the term
-‘*kṛcchra*’ here stands for the ‘*atikṛcchra*,’ on the strength of a
-text quoted from Śaṅkha;—in *Parāśaramādhava* (Prāyaścitta, p. 300),
-which adds that what is prescribed in the first half is to be done only
-in the event of the man being unable to throw out the food eaten; and
-again on p. 305;—in *Smṛtitattva* (p. 542);—and in *Prāyaścittaviveka*
-(pp. 252, 261 and 524).
+This verse is quoted in *Aparārka* (p. 240), which adds that the term ‘*kṛcchra*’ here stands for the ‘*atikṛcchra*,’ on the strength of a text quoted from Śaṅkha;—in *Parāśaramādhava* (Prāyaścitta, p. 300), which adds that what is prescribed in the first half is to be done only in the event of the man being unable to throw out the food eaten; and again on p. 305;—in *Smṛtitattva* (p. 542);—and in *Prāyaścittaviveka* (pp. 252, 261 and 524).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (23.23.24).—‘If one eats food of the man whose food should not
-be eaten, he should reduce himself to a condition when there is nothing
-in his bowels;—he should not eat anything for three days.’
+be eaten, he should reduce himself to a condition when there is nothing in his bowels;—he should not eat anything for three days.’
 
 *Prajāpati*—‘On eating the food of one whose food should not be eaten
-one should give to the Brāhmaṇa the price of that food; he should remain
-with wet clothes throughout the day, or he should give a cow.’
+one should give to the Brāhmaṇa the price of that food; he should remain with wet clothes throughout the day, or he should give a cow.’
 </details>
 
 <details><summary>Bühler</summary>

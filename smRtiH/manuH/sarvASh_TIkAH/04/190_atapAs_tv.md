@@ -43,8 +43,7 @@ This verse is quoted in *Hemādri* (Dāna, p. 60).
 **
 
 *Yājñavalkya* (1.202).—‘A gift should never be accepted by one devoid of
-learning and austerities; if he does accept it, he drags down himself as
-well as the giver.’
+learning and austerities; if he does accept it, he drags down himself as well as the giver.’
 </details>
 
 <details><summary>Bühler</summary>

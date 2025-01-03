@@ -36,39 +36,23 @@ After these *Kṛcchra* penances have been performed, he should be initiated.
 [See
 2.38.]
 
-This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 433), as
-laying down the expiation for the ‘*Vrātya*’;—in *Madanapārijāta* (p.
-871), which adds that—(*a*) in the case of the omission being due to the
-absence of an initiator, the expiation should he that prescribed by Manu
-and Yājñavalkya, and (*b*) in the case of omission being due to no such
-unavoidable circumstances, nor in times of digress, it should be ‘Three
-Years’ Penance’ prescribed under the section on cow-slaughter.
+This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 433), as laying down the expiation for the ‘*Vrātya*’;—in *Madanapārijāta* (p. 871), which adds that—(*a*) in the case of the omission being due to the absence of an initiator, the expiation should he that prescribed by Manu and Yājñavalkya, and (*b*) in the case of omission being due to no such unavoidable circumstances, nor in times of digress, it should be ‘Three Years’ Penance’ prescribed under the section on cow-slaughter.
 
-It is quoted in *Aparārka* (p. 1107), which explains ‘*trīn kṛcchrān*’
-as meaning—(1) The *Prājāpatya*, (2) the *Kṛcchra* and (3) the
+It is quoted in *Aparārka* (p. 1107), which explains ‘*trīn kṛcchrān*’ as meaning—(1) The *Prājāpatya*, (2) the *Kṛcchra* and (3) the
 *Atikṛcchra*;—in *Mitākṣarā* (3.265), as laying down what should be done
-when one has become a ‘*vrātya*’;—in *Vīramitrodaya* (Saṃskāra, p.
-350);—and in *Prāyaścittaviveka* (p. 384.)
+when one has become a ‘*vrātya*’;—in *Vīramitrodaya* (Saṃskāra, p. 350);—and in *Prāyaścittaviveka* (p. 384.)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (54-26).—‘Those twice-born men by whom the *Gāyatrī* has not
-been repeated, nor the other ceremonies performed, as the law directs,
-must be made to perform three *Prājāpatya* penances and then initiated
-according to custom.’
+been repeated, nor the other ceremonies performed, as the law directs, must be made to perform three *Prājāpatya* penances and then initiated according to custom.’
 
 *Āpastamba* (1.1.28-29).—‘If the proper time for initiation has passed,
-he shall observe, for the space of two months, the duties of a Student,
-as observed by those who are studying the three Vedas; after that he may
-be initiated; and after that he may be instructed.’
+he shall observe, for the space of two months, the duties of a Student, as observed by those who are studying the three Vedas; after that he may be initiated; and after that he may be instructed.’
 
 *Vaśiṣṭha* (11.76-78).—‘A man who has missed the *Sāvitrī* may undergo
-the *Uddālaka* penance. Let him subsist, during two months, on
-barley-gruel, during one month on milk, during half a month on curds,
-during eight days on clarified butter, during six days on alms given
-without asking, and during three days on water; and let him fast for one
-day and night. Or, he may go to bathe with the priests at the end of an
+the *Uddālaka* penance. Let him subsist, during two months, on barley-gruel, during one month on milk, during half a month on curds, during eight days on clarified butter, during six days on alms given without asking, and during three days on water; and let him fast for one day and night. Or, he may go to bathe with the priests at the end of an
 *Āśvamedha* sacrifice. Or, he may perform the *Vrātya-stoma*.’
 </details>
 

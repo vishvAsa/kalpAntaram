@@ -43,8 +43,7 @@ This verse is quoted in *Vivādaratnākara* (p. 412);—and in
 **(verses 9.14-16)  
 **
 
-See Comparative notes for [Verse
-9.14].
+See Comparative notes for [Verse 9.14].
 </details>
 
 <details><summary>भारुचिः</summary>

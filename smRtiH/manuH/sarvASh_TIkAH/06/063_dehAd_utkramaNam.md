@@ -40,8 +40,7 @@ All this we shall explain again under Discourse XII and we need not prolong the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 968);—and in *Yatidharmasaṅgraha*
-(p. 35).
+This verse is quoted in *Aparārka* (p. 968);—and in *Yatidharmasaṅgraha* (p. 35).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

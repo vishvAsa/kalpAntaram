@@ -48,63 +48,32 @@ According to this view, the prohibition would apply to eating in the company of 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Śūdrasyocchiṣṭam*’—‘Food of a Śūdra, and the leavings of any man’
-(Kullūka and Nārāyaṇa);—‘the leavings of a Śūdra’ (Medhātithi,
-Rāghavānanda, Govindarāja and Nandana).
+‘*Śūdrasyocchiṣṭam*’—‘Food of a Śūdra, and the leavings of any man’ (Kullūka and Nārāyaṇa);—‘the leavings of a Śūdra’ (Medhātithi, Rāghavānanda, Govindarāja and Nandana).
 
-This verse is quoted in *Mitākṣarā* (on 3. 290);—in *Smṛtitattva* (p.
-451) which explains ‘*paryuṣitam*’ as ‘food kept overnight’, and
-‘*ucchiṣṭa*’ as ‘leavings’;—and in *Vīramitrodaya* (Āhnika, p. 495)
-which adds the following notes:—‘*Abhiśasta*’ is ‘one accused of such
-crimes as make one outcast,’—‘*ṣaṇḍaka*’ is
-‘hermaphrodite,’—‘*puṃścalī*’ is ‘unchaste woman,’—‘*dāmbhika*’ is ‘the
-religious hypocrite,’—‘*śukta*’ is that which has been very much soured
-by the contact of the juice of other things,—‘*paryuṣita*’ is ‘food kept
-over-night,’ even though not soured;—according to Haradatta, food cooked
-during the day becomes ‘*paryuṣita*’ after sunset, and that cooked
-during the night becomes so after sunrise;—one should not eat the
-‘leavings’ of a Śūdra; though the eating of all ‘leavings’ has been
-forbidden, yet that of the Śūdra has been specified for the purpose of
-indicating that this is doubly objectionable;—or the meaning of the
-clause ‘*śūdrasyocchiṣṭam*’ may be that ‘one should not eat a Śūdra’s
-food, nor the leavings of any person’;—or ‘out of the dish out of which
-a Śūdra has eaten and left some food.’
+This verse is quoted in *Mitākṣarā* (on 3. 290);—in *Smṛtitattva* (p. 451) which explains ‘*paryuṣitam*’ as ‘food kept overnight’, and ‘*ucchiṣṭa*’ as ‘leavings’;—and in *Vīramitrodaya* (Āhnika, p. 495) which adds the following notes:—‘*Abhiśasta*’ is ‘one accused of such crimes as make one outcast,’—‘*ṣaṇḍaka*’ is ‘hermaphrodite,’—‘*puṃścalī*’ is ‘unchaste woman,’—‘*dāmbhika*’ is ‘the religious hypocrite,’—‘*śukta*’ is that which has been very much soured by the contact of the juice of other things,—‘*paryuṣita*’ is ‘food kept over-night,’ even though not soured;—according to Haradatta, food cooked during the day becomes ‘*paryuṣita*’ after sunset, and that cooked during the night becomes so after sunrise;—one should not eat the ‘leavings’ of a Śūdra; though the eating of all ‘leavings’ has been forbidden, yet that of the Śūdra has been specified for the purpose of indicating that this is doubly objectionable;—or the meaning of the clause ‘*śūdrasyocchiṣṭam*’ may be that ‘one should not eat a Śūdra’s food, nor the leavings of any person’;—or ‘out of the dish out of which a Śūdra has eaten and left some food.’
 
-It is quoted in *Hemādri* (Śrāddha, p. 772);—and in *Prāyaścittaviveka*
-(p. 250) which explains ‘*ṣaṇḍaka*’ as ‘sexless’; and adds that of
-‘*śaktu*’ and ‘*paryuṣita*’ food, only repeated eating involves
-expiation.
+It is quoted in *Hemādri* (Śrāddha, p. 772);—and in *Prāyaścittaviveka* (p. 250) which explains ‘*ṣaṇḍaka*’ as ‘sexless’; and adds that of ‘*śaktu*’ and ‘*paryuṣita*’ food, only repeated eating involves expiation.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (17, 14-16).—‘Food kept overnight (should be avoided), with
-the exception of vegetables, oils, meat and honey:—also the food of the
-loose woman, the accused, etc., etc.,—of those unfit for company, except
-the baldheaded.’
+the exception of vegetables, oils, meat and honey:—also the food of the loose woman, the accused, etc., etc.,—of those unfit for company, except the baldheaded.’
 
 *Āpastamba* (1.17.17-20).—‘Cooked food kept overnight,—food turned sour,
 etc.’
 
-(Do.) (1.18.13).—‘One may eat food offered by men of all castes, who are
-devoted to their duties; except the Śūdra.’
+(Do.) (1.18.13).—‘One may eat food offered by men of all castes, who are devoted to their duties; except the Śūdra.’
 
 *Vaśiṣṭha* (14.2, 3, 16. 17, 28, 29).—‘The food offered by the following
-shall not bo eaten—the physician,...... the loose woman, the accused,
-the eunuch and the outcast;—the Śūdra, who wields weapons, the paramour,
-one who permits the paramour in his house,—of the eunuch, the unchaste
-woman, it is not accepted; no leavings except those of the teacher shall
-be eaten; nor what has been defiled by the touch of leavings.’
+shall not bo eaten—the physician,...... the loose woman, the accused, the eunuch and the outcast;—the Śūdra, who wields weapons, the paramour, one who permits the paramour in his house,—of the eunuch, the unchaste woman, it is not accepted; no leavings except those of the teacher shall be eaten; nor what has been defiled by the touch of leavings.’
 
 *Viṣṇu* (51.9,10).—‘Of the usurer, the miser, the initiated, the
-accused, the eunuch, the loose woman, the hypocrite, the physician, the
-fowler, the cruel man, the *Ugra*, and those who live upon leavings.’
+accused, the eunuch, the loose woman, the hypocrite, the physician, the fowler, the cruel man, the *Ugra*, and those who live upon leavings.’
 
 *Yājñavalkya* (1.161).—(See above.)
 
-(Do.) (1.162).—‘Of the physician, the invalid, the enraged, the loose
-woman, the intoxicated, the enemy, the cruel man, the *Ugra*, the
-outcast, the apostate, the hypocrite, and those who live on leavings.’
+(Do.) (1.162).—‘Of the physician, the invalid, the enraged, the loose woman, the intoxicated, the enemy, the cruel man, the *Ugra*, the outcast, the apostate, the hypocrite, and those who live on leavings.’
 
 *Gobhila* (3.5.9,10).—‘Not what has been left overnight;—except
 vegetables, meat and preparations of barley-flour.’

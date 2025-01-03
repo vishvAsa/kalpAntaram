@@ -34,11 +34,7 @@ There is a special reason why the ‘*Prājāpatya* though with superior results
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 487);—the first
-half is quoted in *Vīramitrodaya* (Saṃskāra, p. 863), where the term
-‘*daivoḍhāja*’ is explained as ‘one born of a wife married in the Daiva
-form’; and it is added that the phrase ‘*ātmānañca*’ of the preceding
-verse has to be construed here also;—in *Hemādri* (Dāna, p. 683);—and in
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 487);—the first half is quoted in *Vīramitrodaya* (Saṃskāra, p. 863), where the term ‘*daivoḍhāja*’ is explained as ‘one born of a wife married in the Daiva form’; and it is added that the phrase ‘*ātmānañca*’ of the preceding verse has to be construed here also;—in *Hemādri* (Dāna, p. 683);—and in
 *Smṛticandrikā* (Saṃskāra, p. 228), which explains ‘*Kāya*’ as the
 Prājāpatya.’
 </details>
@@ -49,30 +45,19 @@ Prājāpatya.’
 by the *Daiva*, and ten by the Prājāpatya.’
 
 *Viṣṇu* (24.30-32).—‘The son of the wife married in the *Daiva* form
-purifies fourteen generations; that of one married in the Ārṣa form,
-seven; that of one married in the Prājāpatya form, four.’
+purifies fourteen generations; that of one married in the Ārṣa form, seven; that of one married in the Prājāpatya form, four.’
 
 *Yājñavalkya* (1.59-60).—‘The son born of the first (*i.e*., Daiva) form
-of marriage purifies fourteen generations, and that born of the second,
-Ārṣa form, six; that born of the Prājāpatya purifies six generations,
-along with oneself.’
+of marriage purifies fourteen generations, and that born of the second, Ārṣa form, six; that born of the Prājāpatya purifies six generations, along with oneself.’
 
 *Āśvalāyana-Gṛhyasūtra* (16.1).—‘The Daiva purifies ten past and ten
-future generations on both sides; the Prājāpatya purifies eight past and
-eight future generations on both sides; the Ārṣa purifies seven past and
-seven future generations on both sides.’
+future generations on both sides; the Prājāpatya purifies eight past and eight future generations on both sides; the Ārṣa purifies seven past and seven future generations on both sides.’
 
 *Shannaka* (Vīramitrodaya-Saṃskāra, pp. 863 and 864).—‘The son born of a
-girl married by the Daiva form purifies ten past and ten future
-generations on the father’s and on the mother’s side. The son born of
-the girl married by the Ārṣa form purifies seven past and seven future
-generations on the father’s and on the mother’s side. The son born of
-the girl married by the Prājāpatya form purifies eight past and eight
-future generations on both sides.’
+girl married by the Daiva form purifies ten past and ten future generations on the father’s and on the mother’s side. The son born of the girl married by the Ārṣa form purifies seven past and seven future generations on the father’s and on the mother’s side. The son born of the girl married by the Prājāpatya form purifies eight past and eight future generations on both sides.’
 
 *Śaṅkha-Likhita* (Vīramitrodaya-Saṃskāra, p. 865).—‘The Prājāpatya-born
-purifies seven generations below and seven above, and also oneself; the
-Ārṣa-born, five; and the Daiva-born, three.’
+purifies seven generations below and seven above, and also oneself; the Ārṣa-born, five; and the Daiva-born, three.’
 </details>
 
 <details><summary>Bühler</summary>

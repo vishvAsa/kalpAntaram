@@ -38,8 +38,7 @@ This verse is quoted in *Madanapārijāta* (p. 68).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (10.5).—‘The one syllable *om* is the best Veda; the
-suppression of breath is the highest austerity; living on alms is better
-than fasting; compassion is preferable to liberality.’
+suppression of breath is the highest austerity; living on alms is better than fasting; compassion is preferable to liberality.’
 </details>
 
 <details><summary>भारुचिः</summary>

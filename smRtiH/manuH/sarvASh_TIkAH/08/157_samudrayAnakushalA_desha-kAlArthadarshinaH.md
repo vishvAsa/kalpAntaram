@@ -40,15 +40,9 @@ Others have explained the foregoing verses in the following manner, making gratu
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 11), which adds that the
-term ‘*Samudrayānakuśalāḥ*’ stands for *all
-merchants*;—‘*deśakālārthadarśinaḥ*,’ those who know that in such and
-such a country such and such profit is to be made;—‘*adhigama*’ is
-‘decision’ *i.e*., ‘by that is the interest to be determined;’—and in
+This verse is quoted in *Vivādaratnākara* (p. 11), which adds that the term ‘*Samudrayānakuśalāḥ*’ stands for *all merchants*;—‘*deśakālārthadarśinaḥ*,’ those who know that in such and such a country such and such profit is to be made;—‘*adhigama*’ is ‘decision’ *i.e*., ‘by that is the interest to be determined;’—and in
 *Kṛtyakalpataru* (68a), which has the following
-notes:—‘*Samudrayānakuśalāḥ*’ stands for tradesmen in
-general,—‘*deśakālārthadarśinaḥ*,’ one who knows what profit is obtained
-at what time,—‘*adhigama*’ is *decision*, *finding*.
+notes:—‘*Samudrayānakuśalāḥ*’ stands for tradesmen in general,—‘*deśakālārthadarśinaḥ*,’ one who knows what profit is obtained at what time,—‘*adhigama*’ is *decision*, *finding*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -56,8 +50,7 @@ at what time,—‘*adhigama*’ is *decision*, *finding*.
 **(verses 8.156-157)  
 **
 
-See Comparative notes for [Verse
-8.156].
+See Comparative notes for [Verse 8.156].
 </details>
 
 <details><summary>भारुचिः</summary>

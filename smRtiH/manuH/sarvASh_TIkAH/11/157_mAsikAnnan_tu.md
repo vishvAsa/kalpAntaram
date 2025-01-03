@@ -34,29 +34,20 @@ Out of the three days, on any ono day, he may remain in water. Since the ‘thre
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Ekāhañcodāke vaset*’.—This is to be done, on the fourth day
-(Medhātithi),—on any one of the three fasting days (Govindarāja and
-Kullūka),—on the first day (Nārāyaṇa).
+‘*Ekāhañcodāke vaset*’.—This is to be done, on the fourth day (Medhātithi),—on any one of the three fasting days (Govindarāja and Kullūka),—on the first day (Nārāyaṇa).
 
-This verse is quoted in *Aparārka* (p. 1144), which explains ‘*Māsika*’
-as standing for the *Śrāddha* that is done every month during the first
-year on the date of death, and *not* for the *Amāvāsyā śrāddha*;—and in
+This verse is quoted in *Aparārka* (p. 1144), which explains ‘*Māsika*’ as standing for the *Śrāddha* that is done every month during the first year on the date of death, and *not* for the *Amāvāsyā śrāddha*;—and in
 *Prāyaścittaviveka* (p. 307), which says that this refers to the act
-being *unintentional*, and adds that ‘*māsikānnam*’ refers to food given
-at all after-death *śrāddhas*,—and that what is meant by ‘*ekāhamudake
-vaset*’ is that ‘he should fast for three days and live on water on the
-fourth day.’
+being *unintentional*, and adds that ‘*māsikānnam*’ refers to food given at all after-death *śrāddhas*,—and that what is meant by ‘*ekāhamudake vaset*’ is that ‘he should fast for three days and live on water on the fourth day.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (23.12).—‘The *Kṛcchra* penance must he performed if the
-Student eats food even at a Śrāddha, or by a person who is impure on
-account of a recent birth or death.’
+Student eats food even at a Śrāddha, or by a person who is impure on account of a recent birth or death.’
 
 *Viṣṇu* (51.43-44).—‘A Student who partakes of a Śrāddha repast must
-fast for three days; and he must remain in water for a whole day
-afterwards.’
+fast for three days; and he must remain in water for a whole day afterwards.’
 </details>
 
 <details><summary>भारुचिः</summary>

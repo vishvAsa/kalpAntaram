@@ -30,8 +30,7 @@ The verse is apparently one the sense of which has been already explained.—(11
 [\[See 4.84 *et*
 *seq*.\]]
 
-See Comparative notes for [Verse
-10.113].
+See Comparative notes for [Verse 10.113].
 </details>
 
 <details><summary>भारुचिः</summary>

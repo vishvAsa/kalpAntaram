@@ -26,9 +26,7 @@ This verse applies to all castes.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Ādānanityāḥ*’.—‘Men of all castes who constantly amass wealth’
-(Medhātithi and Nārāyaṇa;);—‘Brāhmaṇas who always accept gifts’
-(Kullūka, Govindarāja and Rāghavānanda).
+‘*Ādānanityāḥ*’.—‘Men of all castes who constantly amass wealth’ (Medhātithi and Nārāyaṇa;);—‘Brāhmaṇas who always accept gifts’ (Kullūka, Govindarāja and Rāghavānanda).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

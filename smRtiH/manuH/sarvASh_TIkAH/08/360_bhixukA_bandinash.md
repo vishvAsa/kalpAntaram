@@ -30,10 +30,7 @@ These should not be prevented even at such places as the watering-place and the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 386), which adds the
-following notes ‘*Vandinaḥ*,’ bards singing the praises of
-people,—‘*dīkṣitāḥ*,’ persons initiated for a sacrificial
-performance,—‘*kāravaḥ*,’ professional artisans;—and in
+This verse is quoted in *Vivādaratnākara* (p. 386), which adds the following notes ‘*Vandinaḥ*,’ bards singing the praises of people,—‘*dīkṣitāḥ*,’ persons initiated for a sacrificial performance,—‘*kāravaḥ*,’ professional artisans;—and in
 *Vyavahāra-Bālambhaṭṭī* (p. 1002).
 </details>
 

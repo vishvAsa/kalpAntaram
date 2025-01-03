@@ -30,9 +30,7 @@ He shall purify all his things by means of liquids destructive of poisons; and h
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 161), which
-explains ‘*nejayet*’ (which is its reading for ‘shodhayet’) as ‘should
-wash’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 161), which explains ‘*nejayet*’ (which is its reading for ‘shodhayet’) as ‘should wash’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

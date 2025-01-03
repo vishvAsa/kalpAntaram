@@ -35,8 +35,7 @@ The author will point out later on that there is not much harm in the learned ma
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Atri-Smṛti* (2, 5).—‘One shall not be addicted to sinful acts, on the
-strength of the Veda; for an intentional sin is not destroyed by the
-Veda.’
+strength of the Veda; for an intentional sin is not destroyed by the Veda.’
 
 *Atri-Saṃhitā* (145).—‘By accepting gifts they perish, as fire perishes
 by water.’

@@ -28,12 +28,7 @@ The name of ‘*Brahman*’ has been mentioned for the purpose of extolling the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtitāttva* (II, p. 199), to the effect that
-the court becomes a true ‘Court,’ only by reason of the presence of the
-duly qualified Brāhmaṇa-judge appointed by the king;—in *Smṛticandrikā*
-(Vyavahāra, p. 46), which explains ‘*prakṛtaḥ*’ as the *appointed*
-judge;—in *Kṛtyakalpataru* (8b);—in *Vīramitrodaya* (Vyavahāra, 36 and
-11b), which says that no stress is meant to be laid upon the number
+This verse is quoted in *Smṛtitāttva* (II, p. 199), to the effect that the court becomes a true ‘Court,’ only by reason of the presence of the duly qualified Brāhmaṇa-judge appointed by the king;—in *Smṛticandrikā* (Vyavahāra, p. 46), which explains ‘*prakṛtaḥ*’ as the *appointed* judge;—in *Kṛtyakalpataru* (8b);—in *Vīramitrodaya* (Vyavahāra, 36 and 11b), which says that no stress is meant to be laid upon the number
 *three*, as the number may be larger, up to seven; what is meant is that
 they shall not be less than three;—and in *Rājanītiratnākara* (p. 17a).
 </details>
@@ -41,25 +36,19 @@ they shall not be less than three;—and in *Rājanītiratnākara* (p. 17a).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Bṛhaspati* (1.11).—‘That assembly is equal in sanctity to a sacrificial
-session in which there sit seven, or five or three Brāhmaṇas, who are
-acquainted with the world, with the Veda and with Law.’
+session in which there sit seven, or five or three Brāhmaṇas, who are acquainted with the world, with the Veda and with Law.’
 
 *Bṛhaspati* (1.5).—‘A Court of Justice is composed of ten members; and
-an assembly of this sort, in which the King examines the cases
-attentively, is comparable to a religious session.’
+an assembly of this sort, in which the King examines the cases attentively, is comparable to a religious session.’
 
 *Śukranīti* (4.5.50-52).—‘The assembly in which there are seven, five,
-or even three Brāhmaṇas versed in human affairs, the Vedas and the
-Dharmaśāstras is like a sacrificial session.’
+or even three Brāhmaṇas versed in human affairs, the Vedas and the Dharmaśāstras is like a sacrificial session.’
 
 *Śukranīti* (4.5.72).—‘The ten requisites in the administration of
-justice are—the king, officers, councillors, smṛti-books, accountant,
-clerk, gold, fire, water and one’s own men.’
+justice are—the king, officers, councillors, smṛti-books, accountant, clerk, gold, fire, water and one’s own men.’
 
 *Nārada* (3.18).—‘That is not a court where there are no elders; they
-are not elders who do not pass a just, sentence; that is not just
-sentence where there is no truth; that is not truth which is vitiated by
-error.’
+are not elders who do not pass a just, sentence; that is not just sentence where there is no truth; that is not truth which is vitiated by error.’
 </details>
 
 <details><summary>भारुचिः</summary>

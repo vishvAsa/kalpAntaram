@@ -30,9 +30,7 @@ This also is purely eulogistic.—(230)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Traya āśramāḥ*’;—‘The *last* three, life-stages’; (Medhātithi and
-Govindarāja);—‘the *first* three life-stages’ (Kullūka, Nārāyaṇa and
-Nandana).
+‘*Traya āśramāḥ*’;—‘The *last* three, life-stages’; (Medhātithi and Govindarāja);—‘the *first* three life-stages’ (Kullūka, Nārāyaṇa and Nandana).
 
 This verse is quoted in *Smṛticandrikā* (Saṃskāra, P. 95).
 </details>

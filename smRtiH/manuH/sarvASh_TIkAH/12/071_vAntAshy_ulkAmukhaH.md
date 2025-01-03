@@ -35,9 +35,7 @@ The *Preta* feeds upon vomitings; and its mouth keeps flaming like a fire-brand.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.220), in the sense that the man
-neglecting his duties suffers the same tortures as the *Ulkāmukha* and
-the rest.
+This verse is quoted in *Mitākṣarā* (3.220), in the sense that the man neglecting his duties suffers the same tortures as the *Ulkāmukha* and the rest.
 </details>
 
 <details><summary>Bühler</summary>

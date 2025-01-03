@@ -36,22 +36,13 @@ Some people regard the ‘placing in the air’ as serving some transcendental p
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vihāyasi*’—In the air, *i*. *e*. on the roof of the house (Medhātithi,
-Govindarāja and Kullūka);—‘on a platform’ (Nārāyaṇa);—‘in the open air
-(Nandana);—‘in any pure place except the ground’ (Rāghavānanda).
+‘*Vihāyasi*’—In the air, *i*. *e*. on the roof of the house (Medhātithi, Govindarāja and Kullūka);—‘on a platform’ (Nārāyaṇa);—‘in the open air (Nandana);—‘in any pure place except the ground’ (Rāghavānanda).
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 451), as laying
-down the method of ‘tending the fire’, and ‘explains it that ‘he should
-place the fuel somewhere in the open, not on the grouhd;’—in
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 451), as laying down the method of ‘tending the fire’, and ‘explains it that ‘he should place the fuel somewhere in the open, not on the grouhd;’—in
 *Smṛtitattva* (p. 936) as laying down the morning and evening offerings
-into the Fire;—in *Vīramitrodaya* (Saṃskāra, p. 448), where ‘*dūrāt*’ is
-explained as from a spot not owned by any one’;—in *Vidhānapārijāta* (p.
-498), where *vihāyasi* is explained as ‘*antarīkṣe*’ ‘in the open air—in
+into the Fire;—in *Vīramitrodaya* (Saṃskāra, p. 448), where ‘*dūrāt*’ is explained as from a spot not owned by any one’;—in *Vidhānapārijāta* (p. 498), where *vihāyasi* is explained as ‘*antarīkṣe*’ ‘in the open air—in
 *Madanapārijāta* (p. 24), where ‘*dūrāt*’ is explained as ‘from a spot
-not owned by any other person’, and ‘*vihāyasi*’ as ‘*maṇḍapādau*’ ‘oh
-an altar or some such place’;—in *Saṃskāramayūkha* (p. 43), which says
-that, according to *Dharmaprakāśa*, ‘*vihāyasi*’ means ‘on the
-house-top’;—in *Smṛticandrikā* (Saṃskāra, p. 86), which explains
+not owned by any other person’, and ‘*vihāyasi*’ as ‘*maṇḍapādau*’ ‘oh an altar or some such place’;—in *Saṃskāramayūkha* (p. 43), which says that, according to *Dharmaprakāśa*, ‘*vihāyasi*’ means ‘on the house-top’;—in *Smṛticandrikā* (Saṃskāra, p. 86), which explains
 *dūrāt*, as ‘from places not belonging to any person’, and *vihāyasi* as
 ‘on the house-top’,—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 34a).
 </details>
@@ -59,8 +50,7 @@ house-top’;—in *Smṛticandrikā* (Saṃskāra, p. 86), which explains
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba-Dharmasūtra* (2.4.16).—‘Having kindled fire and swept the
-place, he should lay fuel on it, morning and evening, in accordance with
-instructions received.’
+place, he should lay fuel on it, morning and evening, in accordance with instructions received.’
 
 *Āpastamba-Dharmasūtra* (Vīramitrodaya-Saṃskāra, p. 448).—‘He should not
 go for fetching fuel in the evening.’
@@ -74,24 +64,19 @@ fuel.’
 fuel from the forest, lay it on the fire and then utter speech.’
 
 *Gobhila Gṛhyasūtra* (3-2-27).—‘Girdle-wearing, alms-begging,
-staff-carrying, fuel-fetching, water-bathing, morning salutation,—these
-are the daily compulsory duties.’
+staff-carrying, fuel-fetching, water-bathing, morning salutation,—these are the daily compulsory duties.’
 
 *Baudhāyana* (1.2.54).—‘Therefore, the Religious Student should fetch
 fuel.’
 
 *Āpastamba* (Vīramitrodaya-Saṃskāra, p. 448).—‘Some people say that
-Fire-kindling should be done in the evening only.’ *Laugākṣi*
-(Do.)—(same as above).
+Fire-kindling should be done in the evening only.’ *Laugākṣi* (Do.)—(same as above).
 
 *Baijavāpa* (Do.).—‘Before sunset, and also in the morning, going
-northward, without causing injury, he should fetch fuel,—wet, if
-desirous of food; dry, if desirous of Brahmic glory; both, if desirous
-of both.’
+northward, without causing injury, he should fetch fuel,—wet, if desirous of food; dry, if desirous of Brahmic glory; both, if desirous of both.’
 
 *Vāyu-purāṇa* (Parāśaramādhava, p. 452).—‘The fuel should he of Palāśa;
-in the absence of that, Khadira or Śamī or Rohitaka or Aśvattha; and in
-the absence of these, Arka and Vetasa.’
+in the absence of that, Khadira or Śamī or Rohitaka or Aśvattha; and in the absence of these, Arka and Vetasa.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -30,17 +30,14 @@ All this is meant to indicate the condition of the minor and other persons; the 
 
 Nandana is misrepresented by Hopkins.
 
-This verse is quoted in *Smṛticandrikā* (Vyavahāra, p. 196), which
-explains ‘*Utsiktamanasām*’ as ‘impatient’;—and in *Kṛtyakalpataru*
-(32b).
+This verse is quoted in *Smṛticandrikā* (Vyavahāra, p. 196), which explains ‘*Utsiktamanasām*’ as ‘impatient’;—and in *Kṛtyakalpataru* (32b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 8.70-72)**
 
-See Comparative notes for [Verse
-8.70].
+See Comparative notes for [Verse 8.70].
 </details>
 
 <details><summary>भारुचिः</summary>

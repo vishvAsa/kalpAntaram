@@ -15,8 +15,7 @@ The twice-born person, who seeks Liberation, without having studied the Vedas, w
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Sacrifices*’—such as the Animal-Sacrifice, the Some-Sacrifice and the
-like, which an obligatory on persons who have set up the Fire.—(37).
+‘*Sacrifices*’—such as the Animal-Sacrifice, the Some-Sacrifice and the like, which an obligatory on persons who have set up the Fire.—(37).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -24,8 +23,7 @@ like, which an obligatory on persons who have set up the Fire.—(37).
 **(verses 6.36-37)  
 **
 
-See Comparative notes for [Verse
-6.36].
+See Comparative notes for [Verse 6.36].
 </details>
 
 <details><summary>भारुचिः</summary>

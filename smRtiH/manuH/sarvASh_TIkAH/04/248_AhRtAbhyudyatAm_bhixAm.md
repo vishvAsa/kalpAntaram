@@ -50,8 +50,7 @@ Such alms ‘*Prajāpati*’—Hiraṇyagarbha—*has declared*,—what?—*to b
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 407), which adds that the term
-‘*bhikṣā*’ here stands for ‘cooked food’ and in *Hemādri* (Dāna, p. 56).
+This verse is quoted in *Aparārka* (p. 407), which adds that the term ‘*bhikṣā*’ here stands for ‘cooked food’ and in *Hemādri* (Dāna, p. 56).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -64,12 +63,10 @@ varied.)
 *Viṣṇu* (3.7.11).—(Do.)
 
 *Yājñavalkya* (1.215).—‘What is presented without asking should be
-accepted, even though it come from a sinner,—except from a loose woman,
-a eunuch, an outcast and an enemy.’
+accepted, even though it come from a sinner,—except from a loose woman, a eunuch, an outcast and an enemy.’
 
 *Yama* (Aparārka, p. 407).—‘Of the physician, the hunter, the
-prostitute, the eunuch, the dancer—gifts of these should be refused,
-even when presented without asking.’
+prostitute, the eunuch, the dancer—gifts of these should be refused, even when presented without asking.’
 </details>
 
 <details><summary>Bühler</summary>

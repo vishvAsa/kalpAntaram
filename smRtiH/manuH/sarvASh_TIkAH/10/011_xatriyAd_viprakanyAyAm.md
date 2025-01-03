@@ -28,8 +28,7 @@ From the *Vaiśya* are born the ‘*Māgadha*’ and the *Vaideha*,’ respectiv
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtitattva* (p. 540);—and in *Parāśaramādhava*
-(Āchāra, p. 513).
+This verse is quoted in *Smṛtitattva* (p. 540);—and in *Parāśaramādhava* (Āchāra, p. 513).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -37,8 +36,7 @@ This verse is quoted in *Smṛtitattva* (p. 540);—and in *Parāśaramādhava*
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

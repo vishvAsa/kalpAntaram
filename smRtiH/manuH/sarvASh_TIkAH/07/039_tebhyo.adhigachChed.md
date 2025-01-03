@@ -26,11 +26,7 @@ The reward of this discipline is that the King never perishes—(39)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 119), as
-describing the results proceeding from doing what is prescribed in the
-preceding verse; it adds the notes that ‘even though the king be already
-well-disciplined, yet he should learn discipline further, for the
-purpose of securing greater efficiency.’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 119), as describing the results proceeding from doing what is prescribed in the preceding verse; it adds the notes that ‘even though the king be already well-disciplined, yet he should learn discipline further, for the purpose of securing greater efficiency.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -39,11 +35,7 @@ purpose of securing greater efficiency.’
 the senses. One possessing it becomes learned in the Śāstras.’
 
 *Arthaśāstra* (8.34).—‘Punishment brings about security of life and
-property only when it is based upon discipline. Discipline is of two
-kinds—artificial and natural. Learning disciplines only such a man as
-has his intelligence duly cultivated through service, listening to
-teachings, carrying them in memory, and knowledge of reasonings and
-arguments.’
+property only when it is based upon discipline. Discipline is of two kinds—artificial and natural. Learning disciplines only such a man as has his intelligence duly cultivated through service, listening to teachings, carrying them in memory, and knowledge of reasonings and arguments.’
 
 *Śukranīti* (1.101).—‘Discipline is the chief thing for the king; this
 comes through the dictates of Śāstra; it gives mastery over the senses.’

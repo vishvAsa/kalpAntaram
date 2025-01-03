@@ -29,11 +29,9 @@ Though the expiation mentioned here is without any distinction, yet, a distincti
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The ‘*Saṅkarīkaraṇa*’, ‘*apātrīkaraṇa*’ and ‘*malinīkaraṇa*’ offences
-have been enumerated above, under verses 68, 69 and 70.
+The ‘*Saṅkarīkaraṇa*’, ‘*apātrīkaraṇa*’ and ‘*malinīkaraṇa*’ offences have been enumerated above, under verses 68, 69 and 70.
 
-This verse is quoted in *Mitākṣaṛā* (3.290);—and in *Prāyaścittaviveka*
-(p. 403 and 431).
+This verse is quoted in *Mitākṣaṛā* (3.290);—and in *Prāyaścittaviveka* (p. 403 and 431).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -42,10 +40,7 @@ This verse is quoted in *Mitākṣaṛā* (3.290);—and in *Prāyaścittaviveka
 caste shall eat barley-gruel for a month, or perform the penance of
 *Kṛcchrātikṛcchra*.’
 
-Do. (40.2).—‘He who has committed a crime rendering one unworthy to
-receive alms, is purified by the penance *Taptakṛcchra*, or by the
-penance *Śitakṛcchra*, or by the penance *Mahāsāntapana*, if the act has
-been committed repeatedly.’
+Do. (40.2).—‘He who has committed a crime rendering one unworthy to receive alms, is purified by the penance *Taptakṛcchra*, or by the penance *Śitakṛcchra*, or by the penance *Mahāsāntapana*, if the act has been committed repeatedly.’
 
 Do. (41.5).—‘The penance ordained for crimes causing defilement is the
 *Taptakṛcchra*; or they shall he expiated by the *Kṛcchrātikṛcchra*

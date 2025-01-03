@@ -52,28 +52,15 @@ Others have explained this verse to mean that these things constitute the ‘exc
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 474), which explains ‘*Sṛṣṭi*’ as
-connoting ‘plenty’, and ‘*Mṛṣṭi*’ as connoting ‘deliciousness’;—and in
+This verse is quoted in *Aparārka* (p. 474), which explains ‘*Sṛṣṭi*’ as connoting ‘plenty’, and ‘*Mṛṣṭi*’ as connoting ‘deliciousness’;—and in
 *Hemādri* (Śrāddha, pp. 111 and 72), which adds the following
-notes:—‘*V* *āstu*’, the house built for the Śrāddha-performance,—its
-‘*Sampādana*’ means ‘building or acquiring by purchase, making it slope
-towards the South, levelling, washing and besmearing with
-cow-dung’—‘*Sṛṣṭi*’ means ‘giving away’ *i.e*., freely giving away
-vegetables and other things,—‘*Mṛṣṭi*’, cleanliness or
-sweetness,—‘*agryāḥ*’, those equipped with *Vedic* learning,—these are
-‘*Śrāddhasampadaḥ*’ *i.e*., excellences of things used at the Śrāddha;
-this implies that all these should be got together.
+notes:—‘*V* *āstu*’, the house built for the Śrāddha-performance,—its ‘*Sampādana*’ means ‘building or acquiring by purchase, making it slope towards the South, levelling, washing and besmearing with cow-dung’—‘*Sṛṣṭi*’ means ‘giving away’ *i.e*., freely giving away vegetables and other things,—‘*Mṛṣṭi*’, cleanliness or sweetness,—‘*agryāḥ*’, those equipped with *Vedic* learning,—these are ‘*Śrāddhasampadaḥ*’ *i.e*., excellences of things used at the Śrāddha; this implies that all these should be got together.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Prajāpati* (70.71).—‘The following Brāhmaṇas are conducive to the
-accomplishment of the Śrāddha:—Those that are devoted to the Vedic
-duties, those that are of calm disposition, sinless, devoted to the
-fires, firm in their duties, firm in their austerities, conversant with
-the meaning of the Veda, born of noble families, devoted to their
-parents, living by the methods prescribed for Brāhmaṇas, teachers, those
-conversant with Brahman.’
+accomplishment of the Śrāddha:—Those that are devoted to the Vedic duties, those that are of calm disposition, sinless, devoted to the fires, firm in their duties, firm in their austerities, conversant with the meaning of the Veda, born of noble families, devoted to their parents, living by the methods prescribed for Brāhmaṇas, teachers, those conversant with Brahman.’
 
 *Yama-Hārīta-Śātātapa* (quoted in Caturvargacintāmaṇi-Śrāddha, p.
 1172).—\[Reproduce Manu.\]

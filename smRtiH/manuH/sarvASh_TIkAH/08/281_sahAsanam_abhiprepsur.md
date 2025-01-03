@@ -54,34 +54,22 @@ also because the penalty laid down is very severe.—(281)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka*, (p. 814);—and in *Vivādaratnākara*
-(p. 268), which adds the following notes:—‘*Sahāsanamabhiprepsuḥ*’
-sitting on the same seat,—‘*abhiprepsu*’ (lit. *desirous of getting at*)
-standing here for actually *getting at* itself,—the man sitting upon the
-same seat with his superior should be ‘branded on his hip and
-banished—‘*utkṛṣṭa*,’ the Brāhmaṇa, ‘*apakṛṣṭaja*,’ the
-Śūdra,—‘*kṛtāṅkah*’, branded with red hot iron,—‘*spicha*,’ a part of
-the loin;—and in *Vivādacintāmaṇi* (Calcutta, p.75), which says that the
-‘branding’ is to be done with iron, and that ‘*spicha*’ is a part of the
-waist.
+This verse is quoted in *Aparārka*, (p. 814);—and in *Vivādaratnākara* (p. 268), which adds the following notes:—‘*Sahāsanamabhiprepsuḥ*’ sitting on the same seat,—‘*abhiprepsu*’ (lit. *desirous of getting at*) standing here for actually *getting at* itself,—the man sitting upon the same seat with his superior should be ‘branded on his hip and banished—‘*utkṛṣṭa*,’ the Brāhmaṇa, ‘*apakṛṣṭaja*,’ the Śūdra,—‘*kṛtāṅkah*’, branded with red hot iron,—‘*spicha*,’ a part of the loin;—and in *Vivādacintāmaṇi* (Calcutta, p.75), which says that the ‘branding’ is to be done with iron, and that ‘*spicha*’ is a part of the waist.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (12.7).—‘If he assumes a position equal to that of twice-born
-men, in sitting, in lying down, in conversation, or on the road, he
-shall undergo corporal punishment.’
+men, in sitting, in lying down, in conversation, or on the road, he shall undergo corporal punishment.’
 
 *Āpastamba* (2.27.15).—‘A. Śūdra who assumes a position equal to that of
-a member of the first three castes, in conversation, on the road, or a
-coach, in sitting and on similar occasions, shall be flogged.’
+a member of the first three castes, in conversation, on the road, or a coach, in sitting and on similar occasions, shall be flogged.’
 
 *Viṣṇu* (5.20).—‘If he places himself on the same seat with his
 superior, he shall be banished with a mark on his buttocks.’
 
 *Nārada* (15-16. 26).—‘A low-born man, who tries to place himself on the
-same seat with his superior in caste, shall be branded on his hip and
-banished; or the King shall cause his backside to be gashed.’
+same seat with his superior in caste, shall be branded on his hip and banished; or the King shall cause his backside to be gashed.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -63,10 +63,7 @@ be neuter and would be treated as an adverb, the meaning being—‘*by knowledg
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Asevayā*”—‘avoidance of excessive longing for pleasures’—(Medhātithi);
-‘avoidance of places where pleasures are to be obtained’
-(Kullūka);—‘abstinence from pleasures’ (Govindarāja, Nārāyaṇa and
-Nandana).
+‘*Asevayā*”—‘avoidance of excessive longing for pleasures’—(Medhātithi); ‘avoidance of places where pleasures are to be obtained’ (Kullūka);—‘abstinence from pleasures’ (Govindarāja, Nārāyaṇa and Nandana).
 
 This verse is quoted in *Bālambhaṭṭi* (Vyāvahāra, p. 606).
 </details>
@@ -74,9 +71,7 @@ This verse is quoted in *Bālambhaṭṭi* (Vyāvahāra, p. 606).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Śaṅkha-smṛti* (7. 10-11).—‘That man the Gods regard as a Brāhmaṇa, who
-is disgusted with birth, with death and with mental and physical
-ailments. The impurity of the body, the reversal of pleasure and pain,
-residence in the womb,—from all this one becomes freed.’
+is disgusted with birth, with death and with mental and physical ailments. The impurity of the body, the reversal of pleasure and pain, residence in the womb,—from all this one becomes freed.’
 </details>
 
 <details><summary>Bühler</summary>

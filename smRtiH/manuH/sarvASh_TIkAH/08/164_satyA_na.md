@@ -38,35 +38,20 @@ This verse is supplementary to what has gone in the preceding verse, regarding t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Kṛtyakalpataru* (65b), which adds the following
-explanation:—An agreement, even though formally put in writing, has no
-legal force, if it is contrary to the laws and customs prevalent among
-business-men; and such an agreement cannot be enforced,—such agreement,
-for instance, as where a man who has children agrees to bequeath all his
-property to a stranger.
+This verse is quoted in *Kṛtyakalpataru* (65b), which adds the following explanation:—An agreement, even though formally put in writing, has no legal force, if it is contrary to the laws and customs prevalent among business-men; and such an agreement cannot be enforced,—such agreement, for instance, as where a man who has children agrees to bequeath all his property to a stranger.
 
-It is quoted also in *Vīramitrodaya* (Vyavahāra, 21b and 39b), which has
-the following notes—‘*Pratiṣṭhita*’, free from the defect of being
-impossible and unknown and so forth,—‘*bhāṣā*’, proposition,
-statement,—is not ‘*satya*,’ accepted by the king or the court,—‘that
-statement which is contrary to all rules of business, even though it be
-established by evidence, oral and documentary, should not be accepted’;
+It is quoted also in *Vīramitrodaya* (Vyavahāra, 21b and 39b), which has the following notes—‘*Pratiṣṭhita*’, free from the defect of being impossible and unknown and so forth,—‘*bhāṣā*’, proposition, statement,—is not ‘*satya*,’ accepted by the king or the court,—‘that statement which is contrary to all rules of business, even though it be established by evidence, oral and documentary, should not be accepted’;
 *e.g*., the statement that ‘this man has promised his entire property to
-me’,—when the man concerned is one who has got sons and oilier
-successors.
+me’,—when the man concerned is one who has got sons and oilier successors.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (7.11).—‘That instrument is termed *proof* which is not adverse
-to peculiar local usages, which detines clearly the nature of the pledge
-given, and is free, from confusion in the arrangement of t he
-subject-matter and in the succession of the syllables.’
+to peculiar local usages, which detines clearly the nature of the pledge given, and is free, from confusion in the arrangement of t he subject-matter and in the succession of the syllables.’
 
 *Nārada* (1.136).—‘That, document is said to be valid which is not
-adverse, to the custom of the country, the contents of which answer to
-the rules regarding pledges and other kinds of security and which is
-consistent in import and language.’
+adverse, to the custom of the country, the contents of which answer to the rules regarding pledges and other kinds of security and which is consistent in import and language.’
 </details>
 
 <details><summary>भारुचिः</summary>

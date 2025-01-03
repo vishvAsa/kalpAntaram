@@ -32,10 +32,7 @@ The ‘*falling back*’ mentioned here is the same as the ‘*refracting*’ me
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Kṛtyakalpataru* (22b), which has the following
-notes:—‘*Asambhāṣye*’ ‘in a place where no conversation should be
-held,’—‘*niṣpatet*,’ ‘should go away without mentioning his
-destination’;—and in *Vīramitrodaya* (Vyavahāra, 31b).
+This verse is quoted in *Kṛtyakalpataru* (22b), which has the following notes:—‘*Asambhāṣye*’ ‘in a place where no conversation should be held,’—‘*niṣpatet*,’ ‘should go away without mentioning his destination’;—and in *Vīramitrodaya* (Vyavahāra, 31b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -43,8 +40,7 @@ destination’;—and in *Vīramitrodaya* (Vyavahāra, 31b).
 **(verses 8.53-57)  
 **
 
-See Comparative notes for [Verse
-8.53].
+See Comparative notes for [Verse 8.53].
 </details>
 
 <details><summary>भारुचिः</summary>

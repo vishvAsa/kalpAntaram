@@ -42,12 +42,10 @@ Or, the term may betaken in its literal sense; sleeping during the day is positi
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 413);—in
 *Vīramitrodaya* (Rājanīti, p. 147), which explains ‘*parivādaḥ*’ as
-‘describing the defects of other persons—‘*vṛthāṭyā*’ as ‘listless
-wandering,’—and ‘*tauryatrikam*’ as ‘dancing, singing and music’;—in
+‘describing the defects of other persons—‘*vṛthāṭyā*’ as ‘listless wandering,’—and ‘*tauryatrikam*’ as ‘dancing, singing and music’;—in
 *Vīramitrodaya* (Lakṣaṇa, p. 198);—in *Mitākṣarā* (on 1.310);—in
 *Smṛtitattva* (p. 717), which explains ‘*tauryatrikam*’ as ‘dancing,
-singing and music’;—and again on p. 742, where ‘*akṣa*’ is explained as
-‘gambling.’
+singing and music’;—and again on p. 742, where ‘*akṣa*’ is explained as ‘gambling.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -55,8 +53,7 @@ singing and music’;—and again on p. 742, where ‘*akṣa*’ is explained a
 **(verses 7.45-53)  
 **
 
-See Comparative notes for [Verse
-7.45].
+See Comparative notes for [Verse 7.45].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -47,8 +47,7 @@ If the man happens to be satisfied with anpther person, he shall not create enmi
 
 This verse is quoted in *Saṃskāramyūkha* (p. 71).
 
-‘*Kṣveḍet*’—‘Grind his teeth’ (Medhātithi);—‘roar like a lion’
-(Nārāyaṇa);—‘snap his fingers’ (Nandana).
+‘*Kṣveḍet*’—‘Grind his teeth’ (Medhātithi);—‘roar like a lion’ (Nārāyaṇa);—‘snap his fingers’ (Nandana).
 
 ‘*Sphoṭayet*—‘slap’ (Medhātithi);—‘make his fingers crack’ (Nandana).
 </details>
@@ -63,9 +62,7 @@ avoided).’
 *Viṣṇu* (71.70-71).—‘Not dancing or singing;—nor clapping.’
 
 *Pāraskara* (2.7.3-4).—‘He shall not do, nor go to, any dancing or
-singing or playing of musical instruments. Singing he may do; but being
-captivated by the singing of some one else is a totally different
-thing.’
+singing or playing of musical instruments. Singing he may do; but being captivated by the singing of some one else is a totally different thing.’
 </details>
 
 <details><summary>Bühler</summary>

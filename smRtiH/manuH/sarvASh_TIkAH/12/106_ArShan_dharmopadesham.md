@@ -153,8 +153,7 @@ meant by ‘*ratiocination*’ in the present context.—(106)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 22);—and in *Smṛtitattva* (p.
-511).
+This verse is quoted in *Aparārka* (p. 22);—and in *Smṛtitattva* (p. 511).
 </details>
 
 <details><summary>भारुचिः</summary>

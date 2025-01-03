@@ -28,11 +28,7 @@ Of copper, iron, brass, pewter and tin, the purification should be done, accordi
 
 (Verse 114 of others.)
 
-This verse is quoted in *Mitākṣarā* (on 1.190);—in *Hemādri* (Śrāddha,
-p. 805);—and in *Śuddhikaumudī*, (p. 305), which explains ‘*Kṣāra*’ as
-‘ashes’—‘*amlodaka*’ as the juice of lemon and such things, this latter
-goes with ‘tāmra’ and ‘kṣārodaka’ with rest ,—*washing* goes with
-all,—‘*yathārham*’ sufficient to remove dirt and soiling.
+This verse is quoted in *Mitākṣarā* (on 1.190);—in *Hemādri* (Śrāddha, p. 805);—and in *Śuddhikaumudī*, (p. 305), which explains ‘*Kṣāra*’ as ‘ashes’—‘*amlodaka*’ as the juice of lemon and such things, this latter goes with ‘tāmra’ and ‘kṣārodaka’ with rest ,—*washing* goes with all,—‘*yathārham*’ sufficient to remove dirt and soiling.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -40,38 +36,28 @@ all,—‘*yathārham*’ sufficient to remove dirt and soiling.
 *Baudhāyana* (1.8.33).—(See under 111.)
 
 *Vaśiṣṭha* (3.58, 63).—‘A woman is purified by her courses, a river by
-its current, brass by ashes, and earthenware by heating again. Copper is
-cleansed by acids.’
+its current, brass by ashes, and earthenware by heating again. Copper is cleansed by acids.’
 
 *Viṣṇu* (23.25, 26).—Vessels of copper, bell-metal, tin and lead are
-cleansed with acidulated water;—vessels of white copper and iron with
-ashes.’
+cleansed with acidulated water;—vessels of white copper and iron with ashes.’
 
 *Yājñavalkya* (1.190).—‘Tin, lead and copper are cleansed by acids and
-water and ashes; hell-metal and iron by ashes and water; a liquid
-substance by over-flowing.’
+water and ashes; hell-metal and iron by ashes and water; a liquid substance by over-flowing.’
 
 *Brahmāṇḍapurāṇa* (Aparārka, p. 269).—‘Liquid substances should he made
-to overflow with water; grains, vegetables, roots and fruits should he
-washed with water, after throwing away the defiled portion.’
+to overflow with water; grains, vegetables, roots and fruits should he washed with water, after throwing away the defiled portion.’
 
 *Śaṅkha* (Do.).—‘Clarified butter and oil should be melted; milk should
-be flooded over; vessels should be washed with water; as also
-vegetables, fruits and roots... There is no defilement for curds,
-clarified butter, milk and *Takra* when those are contained in large
-vessels.’
+be flooded over; vessels should be washed with water; as also vegetables, fruits and roots... There is no defilement for curds, clarified butter, milk and *Takra* when those are contained in large vessels.’
 
 *Laugākṣi* (Do.).—‘Milk, curds and their preparations are purified by
-being placed in another vessel; also by being flooded over, or passed
-though cloth or heating on fire.’
+being placed in another vessel; also by being flooded over, or passed though cloth or heating on fire.’
 
 *Yama* (Do.).—‘Raw meat, clarified butter, honey, oils of fruits—these
-are impure while contained in vessels belonging to *Mlecchas*, but pure
-as soon as taken out of those vessels.’
+are impure while contained in vessels belonging to *Mlecchas*, but pure as soon as taken out of those vessels.’
 
 *Vṛddha-Śātātapa* (Do., p. 270).—‘For clarified butter and oils,
-heating; for milk, flooding; curd and thickened milk are purified by
-throwing out the defiled part.’
+heating; for milk, flooding; curd and thickened milk are purified by throwing out the defiled part.’
 </details>
 
 <details><summary>Bühler</summary>

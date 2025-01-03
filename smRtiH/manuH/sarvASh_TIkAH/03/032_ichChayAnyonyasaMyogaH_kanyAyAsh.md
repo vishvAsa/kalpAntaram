@@ -22,24 +22,9 @@ In deprecation of this form of marriage it is added—‘*It has sexual intercou
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Govindarāja and Nārāyaṇa raise the question as to the prescribed
-offerings and wedding ceremonies being performed in the cage of the
-Gāndharva, Rākṣasa and Paiśāca forms of marriage; and on the strength of
-a text of Devala’s and another of Śaunaka (*Bahvṛca Gṛhyapariśiṣṭa*)
-they declare that the offerings must be made, but that no Vaidika
-mantras should be recited; this latter reservation being based on Manu’s
-text (8.226). Medhātithi discusses this at great length under verse 34
-below, from which it appears that the opinion on this subject has always
-been divided. In support of the view that the subsequent rites are
-essential, several texts are quoted in *Vīramitrodaya* (Saṃskāra, pp.
-861-862).
+Govindarāja and Nārāyaṇa raise the question as to the prescribed offerings and wedding ceremonies being performed in the cage of the Gāndharva, Rākṣasa and Paiśāca forms of marriage; and on the strength of a text of Devala’s and another of Śaunaka (*Bahvṛca Gṛhyapariśiṣṭa*) they declare that the offerings must be made, but that no Vaidika mantras should be recited; this latter reservation being based on Manu’s text (8.226). Medhātithi discusses this at great length under verse 34 below, from which it appears that the opinion on this subject has always been divided. In support of the view that the subsequent rites are essential, several texts are quoted in *Vīramitrodaya* (Saṃskāra, pp. 861-862).
 
-This verse is quoted in ‘*Vīramitrodaya*’ (Saṃskāra, p. 855), where the
-‘*Anyonyasaṃyogaḥ*’ is explained as ‘mutual agreement’,—‘*Maithunyaḥ*,’
-‘conducive to all acts accomplished by means of sexual intercourse’,—and
-‘*Kāmasambhavaḥ*,’ as ‘originating from excessive lust’;—in *Hemādri*
-(Dāna, p. 685);—and in *Smṛticandrikā* (Saṃskāra, p. 229), which
-explains ‘*Maithunyaḥ*’ as ‘favourable to sexual intercourse.’
+This verse is quoted in ‘*Vīramitrodaya*’ (Saṃskāra, p. 855), where the ‘*Anyonyasaṃyogaḥ*’ is explained as ‘mutual agreement’,—‘*Maithunyaḥ*,’ ‘conducive to all acts accomplished by means of sexual intercourse’,—and ‘*Kāmasambhavaḥ*,’ as ‘originating from excessive lust’;—in *Hemādri* (Dāna, p. 685);—and in *Smṛticandrikā* (Saṃskāra, p. 229), which explains ‘*Maithunyaḥ*’ as ‘favourable to sexual intercourse.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -66,8 +51,7 @@ agreement.’
 marries the girl after coming to a mutual agreement.’
 
 *Devala* (Vīramitrodaya-Saṃskāra, p. 855).—‘When in a sacred place, the
-man and the woman become united by mutual agreement, through love, it is
-the fifth form of marriage, the Gāndharva.’
+man and the woman become united by mutual agreement, through love, it is the fifth form of marriage, the Gāndharva.’
 
 *Hārīta* (Do., p. 856).—‘When the girl herself selects the bridegroom,
 it is Gāndharva.’

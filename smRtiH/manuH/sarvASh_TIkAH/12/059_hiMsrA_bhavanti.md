@@ -32,8 +32,7 @@ Sanguinary persons become carnivorous animals; the eaters of impure food become 
 
 **(verses 12.53-59)**
 
-See Comparative notes for [Verse
-12.53].
+See Comparative notes for [Verse 12.53].
 </details>
 
 <details><summary>Bühler</summary>

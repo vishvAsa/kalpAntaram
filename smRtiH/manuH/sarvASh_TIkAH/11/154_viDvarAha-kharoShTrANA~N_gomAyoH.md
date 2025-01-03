@@ -24,15 +24,13 @@ Since nothing has been specially mentioned, this should be understood to apply t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 1164);—and in *Parāśaramādhava*
-(Prāyaścitta p. 296).
+This verse is quoted in *Aparārka* (p. 1164);—and in *Parāśaramādhava* (Prāyaścitta p. 296).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Saṃvarta* (Parāsaramādhava-Prāyaścitta, p. 296).—‘On eating the urine
-or excreta of the dog, the cat, the ass, the camel, the monkey, the
-jackal or the crow,—one should perform the *Cāndrāyaṇa* penance.’
+or excreta of the dog, the cat, the ass, the camel, the monkey, the jackal or the crow,—one should perform the *Cāndrāyaṇa* penance.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -61,17 +61,11 @@ with the price thus obtained, *Vrīhi* and other corns needed for the performanc
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Śuddhān*’—‘unmixed’ (Medhātithi, Govindarāja, Kullūka and
-Rāghavānanda);—‘white’ (Nandana);—‘of good quality’ (Nārāyaṇa).
+‘*Śuddhān*’—‘unmixed’ (Medhātithi, Govindarāja, Kullūka and Rāghavānanda);—‘white’ (Nandana);—‘of good quality’ (Nārāyaṇa).
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 431) as permitting
-the selling of sesamum. It notes on this point two views—(*a*) that what
-is said here refers to *exchanging*, and (*b*) that it permits the
-selling only for the purpose of paying off a debt not otherwise
-payable;—aṇd it prefers the latter.
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 431) as permitting the selling of sesamum. It notes on this point two views—(*a*) that what is said here refers to *exchanging*, and (*b*) that it permits the selling only for the purpose of paying off a debt not otherwise payable;—aṇd it prefers the latter.
 
-It is quoted in *Mitākṣarā* (3.39), which adds that ‘*dharma*’ stands
-for such necessities as medication and the like.
+It is quoted in *Mitākṣarā* (3.39), which adds that ‘*dharma*’ stands for such necessities as medication and the like.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -79,8 +73,7 @@ for such necessities as medication and the like.
 **(verses 10.85-93)  
 **
 
-See Comparative notes for [Verse
-10.85].
+See Comparative notes for [Verse 10.85].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -24,8 +24,7 @@ Thus this ‘repeating of the mantra’ is an expiation alternative to the afore
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.305) as referring to cases of
-intentional offence;—and in *Parāśaramādhava*, (Prāyaścitta p. 457).
+This verse is quoted in *Mitākṣarā* (3.305) as referring to cases of intentional offence;—and in *Parāśaramādhava*, (Prāyaścitta p. 457).
 </details>
 
 <details><summary>भारुचिः</summary>

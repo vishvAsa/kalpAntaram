@@ -44,29 +44,21 @@ In swearing, each man should be made to pronounce the words—‘whatever merit 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (p. 152), to the effect that the
-witnesses, the Sāmantas and others should indicate the boundary after
-being put on oath.
+This verse is quoted in *Mitākṣarā* (p. 152), to the effect that the witnesses, the Sāmantas and others should indicate the boundary after being put on oath.
 
-It adds that the plural number in ‘*nayeyuḥ*’ indicates that the
-boundary cannot be determined on the basis of only *two* witnesses; the
-admission of one being permitted by Nārada.
+It adds that the plural number in ‘*nayeyuḥ*’ indicates that the boundary cannot be determined on the basis of only *two* witnesses; the admission of one being permitted by Nārada.
 
 *Bālambhaṭṭī* adds the following notes:—‘*Svaiḥ svaiḥ*’ means ‘by the
-deeds of the caste to which each of them belongs’, —‘*urvīm*’, a piece
-of earth,—‘*tām*’ (which is its reading for ‘*tam*’)
-boundary,—‘*Samañjasam*’ is an adverb modifying the verb ‘*nayeyuḥ*.’
+deeds of the caste to which each of them belongs’, —‘*urvīm*’, a piece of earth,—‘*tām*’ (which is its reading for ‘*tam*’) boundary,—‘*Samañjasam*’ is an adverb modifying the verb ‘*nayeyuḥ*.’
 
-It is quoted in *Aparārka* (p. 762);—in *Kṛtyakalpataru* (p. 111b);—and
-in *Vīramitrodaya* (Vyavahāra, 141a).
+It is quoted in *Aparārka* (p. 762);—in *Kṛtyakalpataru* (p. 111b);—and in *Vīramitrodaya* (Vyavahāra, 141a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 8.253-264)**
 
-See Comparative notes for [Verse
-8.253].
+See Comparative notes for [Verse 8.253].
 </details>
 
 <details><summary>भारुचिः</summary>

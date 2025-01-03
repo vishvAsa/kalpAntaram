@@ -35,8 +35,7 @@ This verse has been quoted in *Aparārka* (p. 231).
 *Vaśiṣṭha* (6.6).—(Same as Manu.)
 
 *Mahābhārata* (Anuśāsana, 161.7).—‘The man of evil conduct does not
-attain a long life in the world; all living beings shun him and also
-despise him.’
+attain a long life in the world; all living beings shun him and also despise him.’
 
 **(verse 4.158)**
 

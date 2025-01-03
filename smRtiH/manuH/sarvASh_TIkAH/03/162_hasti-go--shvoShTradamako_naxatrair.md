@@ -30,9 +30,7 @@ The keeper of birds,—he who keeps them for the purposes of chase.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted without comment in *Parāśaramādhava* (Ācāra, p.
-688);—in *Hemādri* (Śrāddha, p. 481);—and in *Nṛsiṃhaprasāda* (Śrāddha,
-p. 9a).
+This verse is quoted without comment in *Parāśaramādhava* (Ācāra, p. 688);—in *Hemādri* (Śrāddha, p. 481);—and in *Nṛsiṃhaprasāda* (Śrāddha, p. 9a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -40,8 +38,7 @@ p. 9a).
 **(verses 3.150-166)  
 **
 
-See Comparative notes for [Verse
-3.150].
+See Comparative notes for [Verse 3.150].
 </details>
 
 <details><summary>Bühler</summary>

@@ -30,10 +30,7 @@ According to the declaration of Āpastamba, the same holds good regarding offeri
 
 This verse is quoted in *Smṛtitattva* (p. 117) without comment;—in
 *Aparārka* (p. 555), which adds that the Accusative ending in
-‘*trayodaśīm*’ has the force of the Locative;—in *Hemādri* (Śrāddha, p.
-201);—in *Śrāddhakriyākaumudī* (p. 272), which explains the meaning as
-‘whatever mixed with Honey is offered on the thirteenth of the month,
-under the asterism of *Maghā* becomes inexhaustible’;—in
+‘*trayodaśīm*’ has the force of the Locative;—in *Hemādri* (Śrāddha, p. 201);—in *Śrāddhakriyākaumudī* (p. 272), which explains the meaning as ‘whatever mixed with Honey is offered on the thirteenth of the month, under the asterism of *Maghā* becomes inexhaustible’;—in
 *Puruṣārthacintāmaṇi* (p. 385);—in *Varṣakriyākaumudī* (p. 356);—and in
 *Hemādri* (Kāla, p. 470 and Śrāddha, p. 87).
 </details>
@@ -41,24 +38,19 @@ under the asterism of *Maghā* becomes inexhaustible’;—in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (13.88.15).—‘Water, roots, fruits, meat, and
-grains—whatsoever is mixed with honey and offered during Pitṛpakṣa, is
-conducive to imperishability.’
+grains—whatsoever is mixed with honey and offered during Pitṛpakṣa, is conducive to imperishability.’
 
 *Yājñavalkya* (1.260).—‘During the rains, on the thirteenth day of the
 month, and during the asterism of Maghā.’
 
 *Pitṛgāthā* (Aparārka, p. 555).—‘May some one be born in our family who
-may offer rice cooked in milk mixed with honey and butter, during the
-rains, on the thirteenth day of the month and during the asterism of
-Maghā.’
+may offer rice cooked in milk mixed with honey and butter, during the rains, on the thirteenth day of the month and during the asterism of Maghā.’
 
 *Vaśiṣṭha* (Do.).—‘The ancestors rejoice at the birth of a son in the
-hope that he would offer Śrāddha to them with honey, meat, vegetables,
-milk and rice cooked in milk.’
+hope that he would offer Śrāddha to them with honey, meat, vegetables, milk and rice cooked in milk.’
 
 *Paiṭhīnasi* (Aparārka, p. 555).—‘A son or a grandson may offer to us
-Śrāddha with a red goat during the rains, during the asterism of Maghā,
-on the thirteenth day of the month.’
+Śrāddha with a red goat during the rains, during the asterism of Maghā, on the thirteenth day of the month.’
 </details>
 
 <details><summary>Bühler</summary>

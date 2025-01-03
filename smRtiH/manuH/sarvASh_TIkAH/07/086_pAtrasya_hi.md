@@ -35,9 +35,7 @@ The ‘*peculiar character*’ of the recipient consists in his possessing or no
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 303), to the effect that the
-value of a gift varies in proportion to the qualifications of its giver
-and receiver.
+This verse is quoted in *Aparārka* (p. 303), to the effect that the value of a gift varies in proportion to the qualifications of its giver and receiver.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -45,8 +43,7 @@ and receiver.
 **(verses 7.85-86)  
 **
 
-See Comparative notes for [Verse
-7.85].
+See Comparative notes for [Verse 7.85].
 </details>
 
 <details><summary>भारुचिः</summary>

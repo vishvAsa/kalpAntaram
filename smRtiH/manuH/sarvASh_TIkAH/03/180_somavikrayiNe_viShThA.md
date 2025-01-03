@@ -28,13 +28,9 @@ Various forms of expression have been used here to show the fruitlessness of the
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-What is meant is that ‘the man will be born as an animal feeding upon
-the things specified’ (according to Medhātithi, Govindarāja, Kullūka and
-Rāghavānanda);—that ‘the food will be rejected by the Pitṛs and Gods, as
-impure’ (according to Nārāyaṇa).
+What is meant is that ‘the man will be born as an animal feeding upon the things specified’ (according to Medhātithi, Govindarāja, Kullūka and Rāghavānanda);—that ‘the food will be rejected by the Pitṛs and Gods, as impure’ (according to Nārāyaṇa).
 
-‘*Apratiṣṭham*’—‘Has no place’ (Medātithi, Govindarāja, Kullūka and
-Rāghvānanda);—‘secures no fame to the giver’ (Nārāyaṇa).
+‘*Apratiṣṭham*’—‘Has no place’ (Medātithi, Govindarāja, Kullūka and Rāghvānanda);—‘secures no fame to the giver’ (Nārāyaṇa).
 
 This verse is quoted in *Aparārka* (p. 454).
 </details>
@@ -42,8 +38,7 @@ This verse is quoted in *Aparārka* (p. 454).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (13.90, 13, 14).—‘What is given to the Soma-seller and to
-the physician becomes pus and blood; what is given to the temple-servant
-perishes; it is neither here nor there.’
+the physician becomes pus and blood; what is given to the temple-servant perishes; it is neither here nor there.’
 </details>
 
 <details><summary>Bühler</summary>

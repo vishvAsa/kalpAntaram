@@ -30,25 +30,16 @@ The older writers have explained that this has not been done, because the author
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse lays down an option regarding observances during the twelve
-years of penance (verse 72)—according to Medhātithi, Govindarāja and
-Kullūka;—according to Nārāyaṇa it provides a general rule for all
-penances.
+This verse lays down an option regarding observances during the twelve years of penance (verse 72)—according to Medhātithi, Govindarāja and Kullūka;—according to Nārāyaṇa it provides a general rule for all penances.
 
-This verse is quoted in *Mitākṣarā* (3.243), which cays that this is an
-option to what has been said in verse 72;—in *Madanapārijāta* (p. 788),
-which also adds that this lays down an option;—and in *parāśaramādhava*
-(Prāyaścitta, pp. 399-400), which notes that the ‘*vā*’ of the
-‘*Kṛtavāpanaḥ*’ indicates that ‘shaving’ is an option to the wearing of
-matted locks.
+This verse is quoted in *Mitākṣarā* (3.243), which cays that this is an option to what has been said in verse 72;—in *Madanapārijāta* (p. 788), which also adds that this lays down an option;—and in *parāśaramādhava* (Prāyaścitta, pp. 399-400), which notes that the ‘*vā*’ of the ‘*Kṛtavāpanaḥ*’ indicates that ‘shaving’ is an option to the wearing of matted locks.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 11.72-86)**
 
-See Comparative notes for [Verse
-11.72].
+See Comparative notes for [Verse 11.72].
 </details>
 
 <details><summary>भारुचिः</summary>

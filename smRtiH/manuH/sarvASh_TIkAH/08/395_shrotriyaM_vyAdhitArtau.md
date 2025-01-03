@@ -34,18 +34,13 @@ Some people explain the term ‘*indigent*’ as qualifying ‘*the man of high 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 252), which adds
-the following notes:—‘*Sampūjayet*,’ honour them with presents; this
-implies that he should not take anything from them.
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 252), which adds the following notes:—‘*Sampūjayet*,’ honour them with presents; this implies that he should not take anything from them.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (18.34-35).—‘Let a king be constantly intent on showing honour
-to the Brāhmaṇas; a field furnished with Brāhmaṇas is the source of
-prosperity of the world. A Brāhmaṇa may command respect and a
-distinguished seat at the King’s court. In the morning, the King shall
-show his face to, and salute, the Brāhmaṇa first of all.’
+to the Brāhmaṇas; a field furnished with Brāhmaṇas is the source of prosperity of the world. A Brāhmaṇa may command respect and a distinguished seat at the King’s court. In the morning, the King shall show his face to, and salute, the Brāhmaṇa first of all.’
 </details>
 
 <details><summary>भारुचिः</summary>

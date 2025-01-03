@@ -32,8 +32,7 @@ This verse praises learning and the learner.
 
 ‘*Kāṣṭhamayo hasti*’—“Probably allusions to old stories. *Cf*. the
 *Bṛhatkathā* for the ‘wooden elephant’... In Mahābhārata the same idea
-is expressed in slightly different words (12. 30. 40 ff.) and with added
-similes.” (Burnell-Hopkins).
+is expressed in slightly different words (12. 30. 40 ff.) and with added similes.” (Burnell-Hopkins).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -36,15 +36,9 @@ In the case of householders, even though they also belong to an ‘order,’—y
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Āśrameṣu*’—‘The hermitages of Vānaprasthas and other hermits living in
-the forest’ (Medhātithi);—‘the Householder’s and other life-stages’
-(Kullūka).
+‘*Āśrameṣu*’—‘The hermitages of Vānaprasthas and other hermits living in the forest’ (Medhātithi);—‘the Householder’s and other life-stages’ (Kullūka).
 
-This verse is quoted in *Vyavahāramayūkha* (p. 4);—in *Vīramitrodaya*
-(Vyavahāra, 10a), which explains ‘*āśrameṣu kārye*’ as ‘business arising
-out of the life-stages’;—and in *Kṛtyakalpataru* (10a), which explains
-‘*āśrameṣu*’ as ‘in the matter of the life-stages’,—and ‘*na vibrūyāt*,’
-as ‘should not apportion victory and defeat.’
+This verse is quoted in *Vyavahāramayūkha* (p. 4);—in *Vīramitrodaya* (Vyavahāra, 10a), which explains ‘*āśrameṣu kārye*’ as ‘business arising out of the life-stages’;—and in *Kṛtyakalpataru* (10a), which explains ‘*āśrameṣu*’ as ‘in the matter of the life-stages’,—and ‘*na vibrūyāt*,’ as ‘should not apportion victory and defeat.’
 </details>
 
 <details><summary>भारुचिः</summary>

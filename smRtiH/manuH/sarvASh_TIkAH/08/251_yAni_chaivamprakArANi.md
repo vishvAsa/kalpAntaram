@@ -26,17 +26,11 @@ The text adds what is meant by ‘*such-like*’—‘*which* *the earth may not
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“According to Kullūka, who relies on a passage of Bṛhaspati, these
-objects are to be placed in jars.” (Buhler.)
+“According to Kullūka, who relies on a passage of Bṛhaspati, these objects are to be placed in jars.” (Buhler.)
 
-This verse is quoted in *Mitākṣarā* (2-151), whereon *Bālambhaṭṭī* has
-the following notes:—‘*Yāni*’ other things similar to those just
-mentioned,—‘*sīmāyām*’, on the boundary that has got to be
-marked,—‘*sandhi*’, meeting point of the boundaries.
+This verse is quoted in *Mitākṣarā* (2-151), whereon *Bālambhaṭṭī* has the following notes:—‘*Yāni*’ other things similar to those just mentioned,—‘*sīmāyām*’, on the boundary that has got to be marked,—‘*sandhi*’, meeting point of the boundaries.
 
-It is quoted in *Vivādaratnākara* (p. 203), which adds the following
-notes:—‘*Evamprakārāṇi*,’ such as pebbles and so forth;—and in
-‘*Vivādacintāmaṇi*’ (p. 93).
+It is quoted in *Vivādaratnākara* (p. 203), which adds the following notes:—‘*Evamprakārāṇi*,’ such as pebbles and so forth;—and in ‘*Vivādacintāmaṇi*’ (p. 93).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -44,8 +38,7 @@ notes:—‘*Evamprakārāṇi*,’ such as pebbles and so forth;—and in
 **(verses 8.245-251)  
 **
 
-See Comparative notes for [Verse
-8.245].
+See Comparative notes for [Verse 8.245].
 </details>
 
 <details><summary>भारुचिः</summary>

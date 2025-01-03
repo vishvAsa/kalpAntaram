@@ -26,10 +26,7 @@ _सप्ताष्टश्लोकाः अध्येतृवेदि
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 511) as
-deprecating ignorance of the Veda;—and in *Smṛticandrikā* (Saṃskāra, p.
-129) to the effect that all acts are futile for one who is ignorant of
-the Veda.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 511) as deprecating ignorance of the Veda;—and in *Smṛticandrikā* (Saṃskāra, p. 129) to the effect that all acts are futile for one who is ignorant of the Veda.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

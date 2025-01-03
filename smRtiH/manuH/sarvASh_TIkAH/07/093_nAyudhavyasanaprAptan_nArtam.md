@@ -47,8 +47,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 406);—and in
 **(verses 7.91-93)  
 **
 
-See Comparative notes for [Verse
-7.91].
+See Comparative notes for [Verse 7.91].
 </details>
 
 <details><summary>भारुचिः</summary>

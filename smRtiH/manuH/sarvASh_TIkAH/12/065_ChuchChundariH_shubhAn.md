@@ -23,8 +23,7 @@ For stealing excellent perfumes, a musk-rat; for stealing vegetables with leaves
 **(verses 12.64-67)  
 **
 
-See Comparative notes for [Verse
-12.64].
+See Comparative notes for [Verse 12.64].
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -32,8 +31,7 @@ See Comparative notes for [Verse
 **(verses 12.60-68)  
 **
 
-See Comparative notes for [Verse
-12.60].
+See Comparative notes for [Verse 12.60].
 </details>
 
 <details><summary>Bühler</summary>

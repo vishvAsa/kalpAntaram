@@ -34,32 +34,17 @@ He in whose house there lives the paramour of his wife.—(216)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Nṛśaṃsa*’—‘cruel person’ (Medhātithi, Govindarāja and Kullūka);—‘a
-bard’ (Nārāyaṇa and Rāghavānanda, also suggested by Medhātithi).
+‘*Nṛśaṃsa*’—‘cruel person’ (Medhātithi, Govindarāja and Kullūka);—‘a bard’ (Nārāyaṇa and Rāghavānanda, also suggested by Medhātithi).
 
-This verse is quoted in *Mitākṣarā* (on 3.290);—in *Madanapārijāta* (p.
-945),—and in *Vīramitrodaya* (Āhnika, p. 496), which adds the
-following—‘*Śvavān*’ is one who keeps dogs for
-hunting-purposes,—‘*Śauṇḍika*’ is the liquor-seller,—‘*Celanirṇejaka*’
-is one who lives by washing clothes,—‘*rajaka*’ is the
-cloth-dyer,—‘*nṛśaṃsa*’ is one devoid of pity—and the man in whose house
-a recognised paramour lives;—in *Hemādri* (Śrāddha, p. 774);—and in
+This verse is quoted in *Mitākṣarā* (on 3.290);—in *Madanapārijāta* (p. 945),—and in *Vīramitrodaya* (Āhnika, p. 496), which adds the following—‘*Śvavān*’ is one who keeps dogs for hunting-purposes,—‘*Śauṇḍika*’ is the liquor-seller,—‘*Celanirṇejaka*’ is one who lives by washing clothes,—‘*rajaka*’ is the cloth-dyer,—‘*nṛśaṃsa*’ is one devoid of pity—and the man in whose house a recognised paramour lives;—in *Hemādri* (Śrāddha, p. 774);—and in
 *Prāyaścittaviveka* (p. 251), which explains ‘*Śvavān*’ as ‘one who
-keeps dogs for hunting purposes’ and remarks that ‘*Śauṇḍika*’ and the
-other terms stand for the twice-born person who follows these
-professions.
+keeps dogs for hunting purposes’ and remarks that ‘*Śauṇḍika*’ and the other terms stand for the twice-born person who follows these professions.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (14.3, 6).—‘The miser, the initiated, the imprisoned, the
-diseased, the Soma-seller, the carpenter, the dyer, the wine-seller, the
-spy, the usurer, the dealer in leather, the Śūdra, the weapon-wielder,
-the paramour, the person who permits a paramour, who burns houses, he
-who kills for the sake of other people eating the meat. The gods eat not
-the food of the dog-keeper, nor of the man who has a Śūdra wife, nor of
-the man controlled by his wife, nor of one who permits a paramour in the
-house.’
+diseased, the Soma-seller, the carpenter, the dyer, the wine-seller, the spy, the usurer, the dealer in leather, the Śūdra, the weapon-wielder, the paramour, the person who permits a paramour, who burns houses, he who kills for the sake of other people eating the meat. The gods eat not the food of the dog-keeper, nor of the man who has a Śūdra wife, nor of the man controlled by his wife, nor of one who permits a paramour in the house.’
 
 *Vyāsa* (3.51).—‘The actor, the wine-seller, the intoxicated, the
 apostate and those who have neglected their vows.’
@@ -67,8 +52,7 @@ apostate and those who have neglected their vows.’
 *Gautama* (17.18).—(See above.)
 
 *Viṣṇu* (51.16-16).—‘One who makes a living by dogs, the wine-seller,
-the oilsman, the clothes-washer, the woman in her courses, and of the
-man who has a paramour in the house of his wife.’
+the oilsman, the clothes-washer, the woman in her courses, and of the man who has a paramour in the house of his wife.’
 
 *Yājñavalkya* (1.163, 164).—(See above.)
 </details>

@@ -25,14 +25,10 @@ If these persons pour the oblations, they sink into hell, as also the person to 
 **(verses 11.36-37)  
 **
 
-See Comparative notes for [Verse
-11.36].
+See Comparative notes for [Verse 11.36].
 
-\[See
-above.—[2.72];
-[5.155]
-and
-[9.18].\]
+\[See above.—[2.72]; [5.155]
+and [9.18].\]
 </details>
 
 <details><summary>भारुचिः</summary>

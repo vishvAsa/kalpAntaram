@@ -35,10 +35,7 @@ The word ‘*Brahman*’ here stands, according to the view of the Purāṇas, f
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 459) as describing
-the reward that accrues to the life-long Student;—in *Vidhānapārijāta*
-(p. 504) to the same effect;—also in *Vīramitrodaya* (Saṃskāra, p.
-550);—and in *Smṛticandrikā* (Saṃskāra, p. 170).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 459) as describing the reward that accrues to the life-long Student;—in *Vidhānapārijāta* (p. 504) to the same effect;—also in *Vīramitrodaya* (Saṃskāra, p. 550);—and in *Smṛticandrikā* (Saṃskāra, p. 170).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -46,8 +43,7 @@ the reward that accrues to the life-long Student;—in *Vidhānapārijāta*
 **(verses 243-244)  
 **
 
-See Comparative notes for [Verse
-2.243].
+See Comparative notes for [Verse 2.243].
 </details>
 
 <details><summary>Bühler</summary>

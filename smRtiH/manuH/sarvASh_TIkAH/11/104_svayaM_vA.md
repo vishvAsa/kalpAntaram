@@ -40,18 +40,11 @@ The South-west is the ‘*region of evil spirits*.’
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.259), which offers the following
-explanation:—He should himself cut off his testicles and the organ, take
-them in his hands and go away straight onwards towards the South-West,
-till his body falls off; it adds that the man should go towards the
-South-West backwards and with eyes bandaged.
+This verse is quoted in *Mitākṣarā* (3.259), which offers the following explanation:—He should himself cut off his testicles and the organ, take them in his hands and go away straight onwards towards the South-West, till his body falls off; it adds that the man should go towards the South-West backwards and with eyes bandaged.
 
-It is quoted in *Madanapārijāta* (p. 836), which also adds that the man
-should go backwards and with eyes closed;—in *Aparārka* (p. 1083);—in
+It is quoted in *Madanapārijāta* (p. 836), which also adds that the man should go backwards and with eyes closed;—in *Aparārka* (p. 1083);—in
 *Parāśaramādhava* (Prāyaścitta, p. 253);—in *Nṛsiṃhaprasāda*
-(Prāyaścitta, p. 11a);—and in *Prāyaścittaviveka* (p. 137), which says
-that the ‘cutting’ should be done with a *razor* as distinctly
-prescribed by *Śaṅkha-Likhita*.
+(Prāyaścitta, p. 11a);—and in *Prāyaścittaviveka* (p. 137), which says that the ‘cutting’ should be done with a *razor* as distinctly prescribed by *Śaṅkha-Likhita*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -59,8 +52,7 @@ prescribed by *Śaṅkha-Likhita*.
 **(verses 11.103-107)  
 **
 
-See Comparative notes for [Verse
-11.103].
+See Comparative notes for [Verse 11.103].
 </details>
 
 <details><summary>Bühler</summary>

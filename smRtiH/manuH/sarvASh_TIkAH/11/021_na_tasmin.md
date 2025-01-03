@@ -25,8 +25,7 @@ Stress is not meant to be laid on ‘hunger’ only; as both ‘hunger’ and �
 **(verses 11.19-22)  
 **
 
-See Comparative notes for [Verse
-11.19].
+See Comparative notes for [Verse 11.19].
 </details>
 
 <details><summary>भारुचिः</summary>

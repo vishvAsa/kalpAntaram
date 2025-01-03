@@ -34,8 +34,7 @@ This verse is quoted in *Hemādri* (Dāna, p. 60).
 **(verses 4.190-191)  
 **
 
-See Comparative notes for [Verse
-4.190].
+See Comparative notes for [Verse 4.190].
 </details>
 
 <details><summary>Bühler</summary>

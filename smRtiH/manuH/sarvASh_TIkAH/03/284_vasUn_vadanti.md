@@ -35,22 +35,16 @@ The three grades of ancestors, to whom balls are offered, are the same as the Va
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 461), which explains the meaning
-to be that the Father should be thought of as Vasu, the grandfather as
-Rudra and the great-grandfather as Āditya;—in *Hemādri* (Śrāddha, p.
-64);—and in *Gadādharapaddhati* (Kāla, p. 562) as setting forth the form
-of the Pitṛs.
+This verse is quoted in *Aparārka* (p. 461), which explains the meaning to be that the Father should be thought of as Vasu, the grandfather as Rudra and the great-grandfather as Āditya;—in *Hemādri* (Śrāddha, p. 64);—and in *Gadādharapaddhati* (Kāla, p. 562) as setting forth the form of the Pitṛs.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (1.269).—‘The Pitṛs are the deities of the Śrāddha—Vasu,
-Rudra and Āditya; and being satisfied with the Śrāddha, they satisfy the
-Pitṛs.’
+Rudra and Āditya; and being satisfied with the Śrāddha, they satisfy the Pitṛs.’
 
 *Nandipurāṇa* (Caturvargacintāmaṇi-Śrāddha, p. 64).—‘Viṣṇu is the father
-of the world, Brahmā the grand-father and myself (Śiva), the
-great-grand-father.’
+of the world, Brahmā the grand-father and myself (Śiva), the great-grand-father.’
 
 *Ādityapurāṇa* (Do.).—‘The months are the father, the seasons the
 grand-father and the year the great-grandfather of the people.’

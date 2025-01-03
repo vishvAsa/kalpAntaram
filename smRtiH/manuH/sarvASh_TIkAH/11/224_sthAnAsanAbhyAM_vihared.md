@@ -32,23 +32,18 @@ The ‘*worshipping*’ of the elders and the rest shall consist in offering to 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vratī syāt*.’—‘Should resolve to abstain from what is forbidden by
-cultured men’ (Medhātithi);—‘should wear the Muñja-girdle, a staff and
-so forth’ (Govindarāja and Kullūka).
+‘*Vratī syāt*.’—‘Should resolve to abstain from what is forbidden by cultured men’ (Medhātithi);—‘should wear the Muñja-girdle, a staff and so forth’ (Govindarāja and Kullūka).
 
-This verse is quoted in *Madanapārijāta* (p. 748);—in *Aparārka* (p.
-1230);—and in *Nṛsiṃhaprasāda* (Prāyaścitta 38a).
+This verse is quoted in *Madanapārijāta* (p. 748);—in *Aparārka* (p. 1230);—and in *Nṛsiṃhaprasāda* (Prāyaścitta 38a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (3.8.15-16).—‘When he goes to rest, he mutters the words,
-“O fire, keep thou good watch.” When he awakes, the words, “O fire, thou
-art the protector of vows.”’
+“O fire, keep thou good watch.” When he awakes, the words, “O fire, thou art the protector of vows.”’
 
 *Vaśiṣṭha* (24.5).—‘He shall carefully keep himself upright, in sitting
-posture, he shall stand during the day and remain seated during the
-night.’
+posture, he shall stand during the day and remain seated during the night.’
 
 *Gautama* (26.6).—‘He who desires to be purified quickly shall stand
 during the day and sit during the night.’

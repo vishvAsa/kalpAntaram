@@ -29,12 +29,9 @@ The meaning of the teaching is as follows:—Though the man is permitted (in 167
 
 (Verse 165 of others.)
 
-It is not right to say that this and the next verse have been ‘omitted’
-by Medhātithi, who says that he has not explained them as they are easy.
-It is repeated in 9.29.
+It is not right to say that this and the next verse have been ‘omitted’ by Medhātithi, who says that he has not explained them as they are easy. It is repeated in 9.29.
 
-This is quoted in *Vivādaratnākara* (p. 436);—and in *Varṣakriyākaumudī*
-(p. 579).
+This is quoted in *Vivādaratnākara* (p. 436);—and in *Varṣakriyākaumudī* (p. 579).
 
 **(verse 5.164)**
 
@@ -42,10 +39,7 @@ This is quoted in *Vivādaratnākara* (p. 436);—and in *Varṣakriyākaumudī*
 
 This is repeated in 9.30.
 
-This verse is quoted in *Vivādaratnākara* (p. 436), which adds that what
-is meant by ‘*patiloka*’ is that heavenly region which she has won for
-herself by the religious rites she has performed in association with her
-husband;—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 67a).
+This verse is quoted in *Vivādaratnākara* (p. 436), which adds that what is meant by ‘*patiloka*’ is that heavenly region which she has won for herself by the religious rites she has performed in association with her husband;—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 67a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -53,14 +47,12 @@ husband;—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 67a).
 **(verses 5.154-163)  
 **
 
-See Comparative notes for [Verse
-5.154].
+See Comparative notes for [Verse 5.154].
 
 **(verse 5.164)**
 
 *Yājñavalkya* (1.87).—‘She who is devoted to her husband’s welfare,
-well-behaved, with senses under control, attains fame in this world and
-the supreme state, after death.’
+well-behaved, with senses under control, attains fame in this world and the supreme state, after death.’
 </details>
 
 <details><summary>Bühler</summary>

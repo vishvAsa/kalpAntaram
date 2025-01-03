@@ -25,11 +25,9 @@ If one is unable to bestow a large gift, or perform a difficult austerity, or of
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 232), which reads ‘*vaprikāḥ*’
-for ‘*puttikāḥ*’, and explains it as ‘a particular kind of art’;—and in
+This verse is quoted in *Aparārka* (p. 232), which reads ‘*vaprikāḥ*’ for ‘*puttikāḥ*’, and explains it as ‘a particular kind of art’;—and in
 *Vīramitrodaya* (Paribhāṣā, p. 64), which explains ‘*puttikā*’ as ‘a
-kind of art’; and explains that this and the following verses are meant
-to eulogise *Dharma*.
+kind of art’; and explains that this and the following verses are meant to eulogise *Dharma*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -37,8 +35,7 @@ to eulogise *Dharma*.
 **(verses 4.234-239)  
 **
 
-See Comparative notes for [Verse
-4.234].
+See Comparative notes for [Verse 4.234].
 </details>
 
 <details><summary>Bühler</summary>

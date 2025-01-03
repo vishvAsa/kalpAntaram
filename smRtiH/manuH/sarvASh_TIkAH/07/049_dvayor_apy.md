@@ -46,8 +46,7 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 413);—and in
 **(verses 7.45-53)  
 **
 
-See Comparative notes for [Verse
-7.45].
+See Comparative notes for [Verse 7.45].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -35,35 +35,17 @@ The term ‘woman’ has been used with a view to include women of all castes; t
 
 (Verse 66 of other commentators.)
 
-“Nārāyaṇa and Rāghavānanda think that this rule refers to miscarriages
-which happen during the first six months of pregnancy; and that from the
-seventh month, whether the child lives or not, the full period of
-impurity must he kept. Nārāyaṇa moreover asserts that in the first and
-second months the impurity shall last three
-days”.—Buhler.—‘*Sādhvī*’.—‘Becomes pure’ (Medhātithi and
-Kullūka);—‘chaste’ (Nārāyaṇa).
+“Nārāyaṇa and Rāghavānanda think that this rule refers to miscarriages which happen during the first six months of pregnancy; and that from the seventh month, whether the child lives or not, the full period of impurity must he kept. Nārāyaṇa moreover asserts that in the first and second months the impurity shall last three days”.—Buhler.—‘*Sādhvī*’.—‘Becomes pure’ (Medhātithi and Kullūka);—‘chaste’ (Nārāyaṇa).
 
-This verse is quoted in *Mitākṣarā* (on 3.20), which explains the second
-half to mean as follows:—‘The woman in her courses becomes pure—*i.e*.,
-fit for religious functions—on bathing *after the cessation of the
-menstrual flow*; but as regards touchability, she becomes fit for it by
-bathing on the fourth day, even though the flow may not have ceased
-entirely.
+This verse is quoted in *Mitākṣarā* (on 3.20), which explains the second half to mean as follows:—‘The woman in her courses becomes pure—*i.e*., fit for religious functions—on bathing *after the cessation of the menstrual flow*; but as regards touchability, she becomes fit for it by bathing on the fourth day, even though the flow may not have ceased entirely.
 
-The verse is quoted also in *Nirṇayasindhu* (p. 369);—in *Śuddhikaumudī*
-(p. 3);—in *Hāralatā* (p. 68), which says that, the plural number in
-‘*rātribhiḥ*’ indicates that miscarriage is a source of purity only when
-it occurs in the third and subsequent months of the pregnancy, and that
-the mention of the ‘woman’ in the second line makes it clear that the
-impurity due to miscarriage also attaches to the wife only, and not to
-the husband;—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 25a).
+The verse is quoted also in *Nirṇayasindhu* (p. 369);—in *Śuddhikaumudī* (p. 3);—in *Hāralatā* (p. 68), which says that, the plural number in ‘*rātribhiḥ*’ indicates that miscarriage is a source of purity only when it occurs in the third and subsequent months of the pregnancy, and that the mention of the ‘woman’ in the second line makes it clear that the impurity due to miscarriage also attaches to the wife only, and not to the husband;—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 25a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (14.17-18).—‘For miscarriage the impurity lasts for a number
-of days, equal to the number of months from conception;—or for three
-days.’
+of days, equal to the number of months from conception;—or for three days.’
 
 *Baudhāyana*, (1.11.31).—‘On miscarriage, the female remains impure for
 as many days as months that may have elapsed since conception.’
@@ -72,31 +54,22 @@ as many days as months that may have elapsed since conception.’
 the fourth day.’
 
 *Yājñavalkya* (3.20).—‘On miscarriage, purification is brought about by
-the lapse of as many nights as the months (that may have elapsed since
-conception).’
+the lapse of as many nights as the months (that may have elapsed since conception).’
 
 *Ādipurāṇa* (Aparārka, p. 901).—‘If there is miscarriage within six
-months of conception, then purification is brought about by the lapse of
-days equal in number to that of the months; after six months the
-purification follows the ordinary rule of the caste. For the *Sapiṇḍas*,
-the purification is immediate.’
+months of conception, then purification is brought about by the lapse of days equal in number to that of the months; after six months the purification follows the ordinary rule of the caste. For the *Sapiṇḍas*, the purification is immediate.’
 
 *Vaśiṣṭha* (Aparārka, p. 901).—‘On the death of a child less than two
 years old and on miscarriage, the *Sapiṇḍas* are impure for three days.’
 
 *Marīci* (Aparārka, p. 901).—‘On miscarriage, for the Brāhmaṇa, the
-impurity lasts three days; for the Kṣatriya, four days; for the Vaiśya,
-five days, and for the Śūdra eight days. On miscarriage, the mother
-herself remains impure in accordance with the number of months, while
-the father and others remain impure for three days.’
+impurity lasts three days; for the Kṣatriya, four days; for the Vaiśya, five days, and for the Śūdra eight days. On miscarriage, the mother herself remains impure in accordance with the number of months, while the father and others remain impure for three days.’
 
 *Vṛddha-Vaśiṣṭha* (Aparārka, p. 901).—‘On miscarriage, the woman herself
-is impure for as many days as the number of months; the man is purified
-by simple bathing; but after three days if the pregnancy had advanced.’
+is impure for as many days as the number of months; the man is purified by simple bathing; but after three days if the pregnancy had advanced.’
 
 *Smṛtyantara* (Aparārka, p. 901).—‘Till the fourth month the miscarriage
-is called “*Srāva*,” *Flowing out*; during the fifth and sixth months,
-it is called “*Pāta*” *Falling out*; after that it is “*Prasūti*,”
+is called “*Srāva*,” *Flowing out*; during the fifth and sixth months, it is called “*Pāta*” *Falling out*; after that it is “*Prasūti*,”
 *child-birth*; and the impurity due to this last lasts for four days.’
 </details>
 

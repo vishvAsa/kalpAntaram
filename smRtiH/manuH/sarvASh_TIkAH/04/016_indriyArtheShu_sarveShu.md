@@ -30,8 +30,7 @@ In regard to all these, one should keep one’s own enjoyment under proper check
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 217);—and in *Prāyaścittaviveka*
-(p. 10).
+This verse is quoted in *Aparārka* (p. 217);—and in *Prāyaścittaviveka* (p. 10).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -40,13 +39,10 @@ This verse is quoted in *Aparārka* (p. 217);—and in *Prāyaścittaviveka*
 the stomach, the hand, the feet, the speech and the eye.’
 
 *Āpastamba* (2.5).—‘By controlling the activities of the mind, the
-speech, the breath, the eye, the ear, the tactile organ, the sexual
-organ,—he attains immortality.’
+speech, the breath, the eye, the ear, the tactile organ, the sexual organ,—he attains immortality.’
 
 *Baudhāyana* (2.2.1).—‘Always using water, always wearing the sacred
-thread, daily studying the Veda, avoiding the Śūdra’s food, approaching
-his wife only during the *season*, offering oblations according to
-rule,—the Brāhmaṇa falls not from the region of Brahman.’
+thread, daily studying the Veda, avoiding the Śūdra’s food, approaching his wife only during the *season*, offering oblations according to rule,—the Brāhmaṇa falls not from the region of Brahman.’
 
 *Yājñavalkya* (1.122).—‘......Control of the senses......these are
 conducive to the accomplishment of Dharma, for all men.’

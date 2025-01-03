@@ -36,9 +36,7 @@ They eat ‘*despised food*’—*i.e*., leavings.—(35)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vaidehikāt*’—‘From a Vaidehika father, by women of the Kārāvara and
-Niṣāda castes (Medhātithi and Kullūka);—by women of the Vaideha caste’
-(Govindarāja).
+‘*Vaidehikāt*’—‘From a Vaidehika father, by women of the Kārāvara and Niṣāda castes (Medhātithi and Kullūka);—by women of the Vaideha caste’ (Govindarāja).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -46,8 +44,7 @@ Niṣāda castes (Medhātithi and Kullūka);—by women of the Vaideha caste’
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

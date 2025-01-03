@@ -26,11 +26,7 @@ Among the rest—the person riding a chariot and others—there is option, depen
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse also is simply quoted in *Vīramitrodaya* (Saṃskāra, p.
-477);—and in *Smṛticandrikā* (Saṃskāra, p. 107) to the effect that among
-the persons mentioned in the preceding verse the accomplished student
-and the king deserve to be respected by the others’, and between these
-two the former is to be respected by the latter.
+This verse also is simply quoted in *Vīramitrodaya* (Saṃskāra, p. 477);—and in *Smṛticandrikā* (Saṃskāra, p. 107) to the effect that among the persons mentioned in the preceding verse the accomplished student and the king deserve to be respected by the others’, and between these two the former is to be respected by the latter.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -38,8 +34,7 @@ two the former is to be respected by the latter.
 **(verses 138-139)  
 **
 
-See Comparative notes for [Verse
-2.138].
+See Comparative notes for [Verse 2.138].
 </details>
 
 <details><summary>Bühler</summary>

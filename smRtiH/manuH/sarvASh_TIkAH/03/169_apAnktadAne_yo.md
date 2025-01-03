@@ -31,8 +31,7 @@ The results that accrue, from giving to such persons, to the giver,—all that I
 **
 
 *Mahābhārata* (13.90, 11).—‘O Yudhiṣṭhira, that offering to the gods
-which is eaten by the twice-born men ‘unfit for company’ goes to the
-Rākṣasas; so say the teachers of the Veda.’
+which is eaten by the twice-born men ‘unfit for company’ goes to the Rākṣasas; so say the teachers of the Veda.’
 </details>
 
 <details><summary>Bühler</summary>

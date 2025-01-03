@@ -38,9 +38,7 @@ Half of this verse is meant to be the injunction of the time for the husband and
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 364), as laying
-down the manner in which the Householder himself should take his
-food;—and in *Vīramitrodaya* (Āhnika, p. 456) without comment.
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 364), as laying down the manner in which the Householder himself should take his food;—and in *Vīramitrodaya* (Āhnika, p. 456) without comment.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

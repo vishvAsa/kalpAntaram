@@ -42,33 +42,18 @@ If the keeper gives the information after the thieves have gone away after takin
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka*, (p. 772), which explains ‘*Kilviṣī*’
-(its reading being ‘*na* *pālastatra kilviṣī*,’ for ‘*na* *pālo
-dādumarhati*’) as ‘blame-worthy’;—in *Mitākṣarā* (2.164) to the effect
-that the keeper should not be made to pay to the owner the value of such
-cattle as are carried away by thieves ‘*by force*,’ *i*.*e*., openly, by
-beat of drums and so forth;—provided that he reports it to the owner at
-the same time and places (this latter being added in *Bālambhatṭṭī* as
-explaining the latter half of the verse);—in *Vivādacintāmaṇi*, (p. 81)
-which explains ‘*deśe*’ as ‘place where a search could be made;’—and in
+This verse is quoted in *Aparārka*, (p. 772), which explains ‘*Kilviṣī*’ (its reading being ‘*na* *pālastatra kilviṣī*,’ for ‘*na* *pālo dādumarhati*’) as ‘blame-worthy’;—in *Mitākṣarā* (2.164) to the effect that the keeper should not be made to pay to the owner the value of such cattle as are carried away by thieves ‘*by force*,’ *i*.*e*., openly, by beat of drums and so forth;—provided that he reports it to the owner at the same time and places (this latter being added in *Bālambhatṭṭī* as explaining the latter half of the verse);—in *Vivādacintāmaṇi*, (p. 81) which explains ‘*deśe*’ as ‘place where a search could be made;’—and in
 *Kṛtyakalpataru*, (105a);—and in *Vīramitrodaya* (Vyavahāra, 137a),
-which explains ‘*vighuṣya*’ as ‘with a flourish of the trumpet’ and so
-forth,—‘*deśe*’ as at ‘the place where the master lives’,—and *kāle* as
-‘immediately after the robbery’.
+which explains ‘*vighuṣya*’ as ‘with a flourish of the trumpet’ and so forth,—‘*deśe*’ as at ‘the place where the master lives’,—and *kāle* as ‘immediately after the robbery’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada*.—(6.12, 16).—‘If a cow under the cowherd’s charge meets with am
-accident, he shall struggle to save her as best he may. If he is unable
-to rescue her, he shall hasten to announce the fact to his master. For
-an animal seized by robbers, though he raised a cry, the cowherd shall
-not be made to pay; provided he gives notice to his master at the proper
-time and place.’
+accident, he shall struggle to save her as best he may. If he is unable to rescue her, he shall hasten to announce the fact to his master. For an animal seized by robbers, though he raised a cry, the cowherd shall not be made to pay; provided he gives notice to his master at the proper time and place.’
 
 *Vyāsa* (Vivādaratnākara, p. 172).—‘If a cattle perishes or is taken
-away, when the cowherd has been captured, or during an attack on the
-village, or during anarchy,—the cowherd shall not he held to blame.’
+away, when the cowherd has been captured, or during an attack on the village, or during anarchy,—the cowherd shall not he held to blame.’
 </details>
 
 <details><summary>भारुचिः</summary>

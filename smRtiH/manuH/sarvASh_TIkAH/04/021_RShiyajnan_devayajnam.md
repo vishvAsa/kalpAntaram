@@ -49,9 +49,7 @@ and Elementals.’
 sacrifices to Brahman (Veda), Gods, Elementals, Pitṛs and Men.’
 
 *Baudhāyana* (2. 6.1).—‘These are the five great sacrifices, these the
-five great *Sattras*—the sacrifice to Gods, the sacrifice to Pitṛs, the
-sacrifice to Elementals, the sacrifice to Men and the sacrifice to
-Brahman (Veda).’
+five great *Sattras*—the sacrifice to Gods, the sacrifice to Pitṛs, the sacrifice to Elementals, the sacrifice to Men and the sacrifice to Brahman (Veda).’
 
 *Mahābhārata* (12. 241. 15).—‘Living upon remnants, he shall constantly
 perform the five sacrifices.’

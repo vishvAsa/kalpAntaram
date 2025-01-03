@@ -30,11 +30,7 @@ He shall al so ‘*thoroughly acquaint himself with*’—find but all about—t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 250), which adds
-the following notes:—‘*Anuparikrāmāt*’ *i.e*., wherever the lawful
-people are being oppressed by unlawful people, he should strengthen the
-former with his own forces;—‘*vṛttam*’ means ‘behaviour’;—‘*pariṇayet*’
-means ‘report’; ‘*taccaraiḥ*,’ ‘through the king’s agents.’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 250), which adds the following notes:—‘*Anuparikrāmāt*’ *i.e*., wherever the lawful people are being oppressed by unlawful people, he should strengthen the former with his own forces;—‘*vṛttam*’ means ‘behaviour’;—‘*pariṇayet*’ means ‘report’; ‘*taccaraiḥ*,’ ‘through the king’s agents.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -44,9 +40,7 @@ ministers and then appoint spies, who shall go forth disguised as
 *kāpālika* and the like.’
 
 *Śukranīti* (1.751-752).—‘Every year the king should personally inspect
-the villages, towns, cities, and districts and provinces and see which
-people are happy and which oppressed by the officers, and investigate
-cases brought up before him by the people.’
+the villages, towns, cities, and districts and provinces and see which people are happy and which oppressed by the officers, and investigate cases brought up before him by the people.’
 
 *Mahābhārata* (12.87.11-12).—‘All their actions shall be watched by the
 king’s spy.’
@@ -54,10 +48,7 @@ king’s spy.’
 *Yājñavalkya* (1.337).—(See under 120.)
 
 *Kāmandaka* (12.25).—‘A person skilled in the interpretation of internal
-sentiments by conjecture and by external gestures, accurate of memory,
-polite and soft in speech, agile in movements, capable of bearing up
-with all sorts of privations and difficulties, ready-witted and expert
-in all things,—such a person is fit to become a spy.’
+sentiments by conjecture and by external gestures, accurate of memory, polite and soft in speech, agile in movements, capable of bearing up with all sorts of privations and difficulties, ready-witted and expert in all things,—such a person is fit to become a spy.’
 </details>
 
 <details><summary>भारुचिः</summary>

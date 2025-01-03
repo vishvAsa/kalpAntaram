@@ -26,18 +26,11 @@ In the same manner, the man’s steadiness acquired through continuous practice 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Prajñā*’—‘Wisdom, control over the senses’ (Medhātithi, Govindarāja,
-and Rāghavānanda);—‘knowledge of truth’ (Kullūka).
+‘*Prajñā*’—‘Wisdom, control over the senses’ (Medhātithi, Govindarāja, and Rāghavānanda);—‘knowledge of truth’ (Kullūka).
 
-‘*Pādāt*’—This may be taken literally in the sense of *foot*; as Hopkins
-rightly remarks—“The hide often is used in oriental countries complete,
-each leg being made water-tight.” This is indicated by Medhātithi’s
-remarks also.
+‘*Pādāt*’—This may be taken literally in the sense of *foot*; as Hopkins rightly remarks—“The hide often is used in oriental countries complete, each leg being made water-tight.” This is indicated by Medhātithi’s remarks also.
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 493) where the
-‘*dṛti*’ is explained as a ‘leathern bag.’ It is quoted to show that
-during studentship the strict observance of the vows and restraints is
-essential.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 493) where the ‘*dṛti*’ is explained as a ‘leathern bag.’ It is quoted to show that during studentship the strict observance of the vows and restraints is essential.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -46,8 +39,7 @@ essential.
 organs get beyond control,—like vicious horses under the charioteer.’
 
 *Bhagavadgītā*, (3. 67).—‘When the mind follows in the wake of the
-roaming senses, it deprives him of his wisdom, and it is lost like the
-boat at sea.’
+roaming senses, it deprives him of his wisdom, and it is lost like the boat at sea.’
 </details>
 
 <details><summary>Bühler</summary>

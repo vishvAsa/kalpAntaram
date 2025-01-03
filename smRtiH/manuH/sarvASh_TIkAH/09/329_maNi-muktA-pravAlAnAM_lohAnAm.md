@@ -28,8 +28,7 @@ He shall find out the relative value of gems, pearls, corals, metals, woven clot
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 227), which explains
-‘*lohānām*’ as *metals*;—in *Parāśaramādhava* (Ācāra, p. 417);—and in
+This verse is quoted in *Madanapārijāta* (p. 227), which explains ‘*lohānām*’ as *metals*;—in *Parāśaramādhava* (Ācāra, p. 417);—and in
 *Nṛsiṃhaprasāda* (Āhnika, 36a, and Saṃskāra 74a).
 </details>
 
@@ -41,8 +40,7 @@ This verse is quoted in *Madanapārijāta* (p. 227), which explains
 [\[See texts under
 8.410-418.\]]
 
-See Comparative notes for [Verse
-9.326].
+See Comparative notes for [Verse 9.326].
 </details>
 
 <details><summary>Bühler</summary>

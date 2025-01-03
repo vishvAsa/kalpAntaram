@@ -28,8 +28,7 @@ The various forms of corporal punishment such as *beheading, branding, striking 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 396) as
-prescribing the punishment for one who harasses a Brāhmaṇa.
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 396) as prescribing the punishment for one who harasses a Brāhmaṇa.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -28,8 +28,7 @@ It is in view of this text that older people have explained that the rule regard
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 420);—and in *Gadādharapaddhati*
-(Kāla, p. 467).
+This verse is quoted in *Aparārka* (p. 420);—and in *Gadādharapaddhati* (Kāla, p. 467).
 </details>
 
 <details><summary>Bühler</summary>

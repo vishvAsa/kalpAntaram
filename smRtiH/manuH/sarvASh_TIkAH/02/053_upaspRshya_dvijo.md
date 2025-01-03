@@ -86,9 +86,7 @@ As a matter of fact, where a certain primary act has become known as equipped wi
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Nityam*’—This, according to Govindarāja, Kullūka Nārāyaṇa and Nandana
-indicates that the rule refers to householders also. The first half of
-this verse has been quoted in *Madanapārijāta* (p. 327).
+‘*Nityam*’—This, according to Govindarāja, Kullūka Nārāyaṇa and Nandana indicates that the rule refers to householders also. The first half of this verse has been quoted in *Madanapārijāta* (p. 327).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -97,8 +95,7 @@ this verse has been quoted in *Madanapārijāta* (p. 327).
 wetted hands and mouth.’
 
 *Gautama-Dharmasūtṛa*, 2.48.—‘While eating, he should keep silent,
-contented, not greedy; and he should keep water near him; he should
-touch with water the holes in his head.’
+contented, not greedy; and he should keep water near him; he should touch with water the holes in his head.’
 
 *Baudhāyana-Dhaṛmasūtra*, 5.1.21—‘Touching the holes with water, as also
 the feet, the head and the left hand.’
@@ -118,13 +115,10 @@ mouth and hands by rubbing with clay.’
 the forefinger, the foolish man falls into the *Raurava* hell.’
 
 *Vyāsa* (Do.). ‘Having washed his hand, if the foolish man drinks the
-water taken for rinsing, he degrades the gods, his Pitṛs and himself.
-One shall not wash in the vessel in which he has eaten. If he rises from
-his seat before, washing, he should bathe at once.’
+water taken for rinsing, he degrades the gods, his Pitṛs and himself. One shall not wash in the vessel in which he has eaten. If he rises from his seat before, washing, he should bathe at once.’
 
 *Kūrmapurāṇa* (Parāśaramādhava, p. 379).—‘He shall sip water with the
-mantra *amṛtāpidhānamasi*; having sipped water, he shall wash again,
-with the mantra *Āyaṅgauḥ*, *etc*
+mantra *amṛtāpidhānamasi*; having sipped water, he shall wash again, with the mantra *Āyaṅgauḥ*, *etc*
 
 *Āpastamba* (Aparārka, p. 61).—‘Having eaten, he shall wash himself,
 without any mantra.’

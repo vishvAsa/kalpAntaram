@@ -37,17 +37,11 @@ Others read ‘*agre*’ ‘*before*’ (the guests).
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Suvāsinīḥ*’—‘Newly married girls *i.e*., daughters and
-daughters-in-law’ (Medhātithi);—‘women whose fathers and fathers-in-law
-are living, even though they may have got children’ (‘others,’ quoted by
-Medhātithi).
+‘*Suvāsinīḥ*’—‘Newly married girls *i.e*., daughters and daughters-in-law’ (Medhātithi);—‘women whose fathers and fathers-in-law are living, even though they may have got children’ (‘others,’ quoted by Medhātithi).
 
-‘*Agre*’—‘Before (the guests)’ (Kullūka);—Medhātithi adopts the reading
-‘*anvak*’ and explains it to mean ‘along with (the guests)’; and not as
-‘even if they come later,’ as Hopkins interprets him.
+‘*Agre*’—‘Before (the guests)’ (Kullūka);—Medhātithi adopts the reading ‘*anvak*’ and explains it to mean ‘along with (the guests)’; and not as ‘even if they come later,’ as Hopkins interprets him.
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 455), which explains
-‘*agre*’ as ‘first’;—and in *Aparārka* (p. 147).
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 455), which explains ‘*agre*’ as ‘first’;—and in *Aparārka* (p. 147).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -56,31 +50,25 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 455), which explains
 throughout the first half.\]
 
 *Gautama* (5.26).—‘First he shall feed the guests, the young boys, the
-sick, the woman with child, the newly-married girls, the old and the
-dependents.’
+sick, the woman with child, the newly-married girls, the old and the dependents.’
 
 *Baudhāyana* (2.7.19).—‘They quote here the following text:—First of all
-he shall feed the guests, after them the woman with child, then the
-boys, the old persons, the weak and the sick.’
+he shall feed the guests, after them the woman with child, then the boys, the old persons, the weak and the sick.’
 
 *Āpastamba-Dharmasūtra* (2.4.12).—‘The boys, the old, those suffering
 from disease, women with child.’
 
 *Yājñavalkya* (1.5.105).—‘Boys, newly-married girls, old persons,
-pregnant women, the sick and the maidens, guests and servants,—it is
-only after these have been fed that the householder and his wife shall
-eat whatever is left.’
+pregnant women, the sick and the maidens, guests and servants,—it is only after these have been fed that the householder and his wife shall eat whatever is left.’
 
 *Pāraskara* (1.9.13).—‘The younger and the older members of the family
 shall take their food in the manner befitting them.’
 
 *Viṣṇu-purāṇa* (Parāśaramādhava, p. 364).—‘Then with cooked food he
-shall feed the newly married girls, the sick, the pregnant women, the
-old and the young; after that he should himself eat.’
+shall feed the newly married girls, the sick, the pregnant women, the old and the young; after that he should himself eat.’
 
 *Mārkaṇḍeya-purāṇa* (Do.).—‘Having honoured the Brāhmaṇa guests,
-relations, paternal and maternal, and also persons seeking for food, he
-shall feed the young and old and the sick.’
+relations, paternal and maternal, and also persons seeking for food, he shall feed the young and old and the sick.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -26,13 +26,9 @@ He shall also be equipped with an army consisting of elephants, horses and the r
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Graham*’—‘The planet Mars’ (Medhātithi);—‘Planet, Venus and others’
-(Kullūka);—‘the Sun’ (Govindarāja);—‘the Moon’ (Nārāyaṇa).
+‘*Graham*’—‘The planet Mars’ (Medhātithi);—‘Planet, Venus and others’ (Kullūka);—‘the Sun’ (Govindarāja);—‘the Moon’ (Nārāyaṇa).
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 249), which adds
-the following notes:—‘*Uccaissthānam*’ means ‘highly placed in the
-matter of birth and so forth,’—or ‘having a lùghly placed
-seat’,—‘*ghorarūpam*’ means ‘awe-inspiring.’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 249), which adds the following notes:—‘*Uccaissthānam*’ means ‘highly placed in the matter of birth and so forth,’—or ‘having a lùghly placed seat’,—‘*ghorarūpam*’ means ‘awe-inspiring.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -40,12 +36,10 @@ seat’,—‘*ghorarūpam*’ means ‘awe-inspiring.’
 *Mahābhārata* (12.87.10-11).—(Same as Manu.)
 
 *Āpastamba* (2.26.4).—‘He shall appoint men of the first three castes,
-who are pure and truthful, over villages and towns, for the protection
-of the people.’
+who are pure and truthful, over villages and towns, for the protection of the people.’
 
 *Arthaśāstra* (p. 160).—‘To the best of his power he shall place such
-officers in charge of departments as are endowed with all the qualities
-of a minister; and their work shall he constantly inspected.’
+officers in charge of departments as are endowed with all the qualities of a minister; and their work shall he constantly inspected.’
 </details>
 
 <details><summary>भारुचिः</summary>

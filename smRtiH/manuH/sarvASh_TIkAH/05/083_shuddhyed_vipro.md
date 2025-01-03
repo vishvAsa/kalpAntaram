@@ -62,48 +62,29 @@ Is is for these reasons that we have explained that throughout this context the 
 
 (Verse 83 of others.)
 
-This verse is quoted in *Smṛtitattva* (II, p. 245) as laying down the
-period of impurity for each several caste;—in *Gadādharapaddhati* (Kāla,
-p.288);—in *Kṛtyasārasamuccaya* (p. 64);—in *Nityācārapradīpa* (p.
-115);—in *Dānakriyākaumudī* (p. 21);—in *Śuddhikaumudī* (p. 6), which
-says that the meaning is that on the death of a *Sapiṇḍa* who is over
-six years and two months of age,—for the survivor who is ignorant of the
-Veda and has not set up the fires, but has passed through all the
-sacramental rites, the impurity in the case of the Brāhmaṇa lasts for
-ten days;—it adds that if death occurs before sunrise, then the
-preceding day is to be counted among the ten,—if the survivor is an
-Agnihotri or Vedic scholar, it is over in a single day;—and in
+This verse is quoted in *Smṛtitattva* (II, p. 245) as laying down the period of impurity for each several caste;—in *Gadādharapaddhati* (Kāla, p.288);—in *Kṛtyasārasamuccaya* (p. 64);—in *Nityācārapradīpa* (p. 115);—in *Dānakriyākaumudī* (p. 21);—in *Śuddhikaumudī* (p. 6), which says that the meaning is that on the death of a *Sapiṇḍa* who is over six years and two months of age,—for the survivor who is ignorant of the Veda and has not set up the fires, but has passed through all the sacramental rites, the impurity in the case of the Brāhmaṇa lasts for ten days;—it adds that if death occurs before sunrise, then the preceding day is to be counted among the ten,—if the survivor is an Agnihotri or Vedic scholar, it is over in a single day;—and in
 *Hāralatā* (pp. 4 and 9).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (14.2-5).—‘The impurity of the Kṣatriya lasts for eleven days;
-of a Vaiśya, twelve days, or according to some, half-a-month; and that
-of a Śūdra, a whole month,’
+of a Vaiśya, twelve days, or according to some, half-a-month; and that of a Śūdra, a whole month,’
 
 *Vaśiṣṭha* (4.26-29).—‘A Brāhmaṇa is freed from impurity, after ten
-days; a Kṣatriya, after fifteen days; a Vaiśya, after twenty days, a
-Śūdra, after a mouth.’
+days; a Kṣatriya, after fifteen days; a Vaiśya, after twenty days, a Śūdra, after a mouth.’
 
 *Viṣṇu* (22.1-1).—‘The impurity of a Brāhmaṇa caused by the birth or
-death of *Sapiṇḍas* lasts ten days; of a Kṣatriya, twelve days;—of a
-Vaiśya, fifteen days, of a Śūdra, a month.’
+death of *Sapiṇḍas* lasts ten days; of a Kṣatriya, twelve days;—of a Vaiśya, fifteen days, of a Śūdra, a month.’
 
 *Yājñavalkya* (3.22-23).—‘The impurity lasts for twelve days for the
-Kṣatriya, fifteen days for the Vaiśya, thirty days for the Śūdra; but
-only half the time, if the person affected is one who remains firm in
-law.’
+Kṣatriya, fifteen days for the Vaiśya, thirty days for the Śūdra; but only half the time, if the person affected is one who remains firm in law.’
 
 *Aṅgiras* (Aparārka, p. 911).—‘On the death of a Brāhmaṇa after tonsure,
-his relations are purified in three days; on that of a Kṣatriya, in six
-days; on that of a Vaiśya, in nine days; on that of a Śūdra less than
-three years old, in five days; on that of one three years old, in twelve
-days; on that of a Śūdra more than six years old, in a month.’
+his relations are purified in three days; on that of a Kṣatriya, in six days; on that of a Vaiśya, in nine days; on that of a Śūdra less than three years old, in five days; on that of one three years old, in twelve days; on that of a Śūdra more than six years old, in a month.’
 
 *Ṛṣyaśṛṅga* (Aparārka, p. 912).—‘In eases where the impurity of the
-Brāhmaṇa lasts three days, that of the Śūdra lasts twelve days; and that
-of the Kṣatriya and the Vaiśya, for six and nine days respectively.’
+Brāhmaṇa lasts three days, that of the Śūdra lasts twelve days; and that of the Kṣatriya and the Vaiśya, for six and nine days respectively.’
 </details>
 
 <details><summary>Bühler</summary>

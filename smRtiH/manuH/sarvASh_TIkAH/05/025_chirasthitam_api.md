@@ -26,8 +26,7 @@ Also ‘*preparations* *of milk*.’—such as curd, skimmed milk and the like.�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtitattva* (p. 452);—in *Vīramitrodaya*
-(Āhnika, p. 523);—in *Hemādri* (Śrāddha, p. 616);—and in
+This verse is quoted in *Smṛtitattva* (p. 452);—in *Vīramitrodaya* (Āhnika, p. 523);—in *Hemādri* (Śrāddha, p. 616);—and in
 *Prāyaścittaviveka* (p. 291).
 </details>
 
@@ -36,8 +35,7 @@ This verse is quoted in *Smṛtitattva* (p. 452);—in *Vīramitrodaya*
 **(verses 5.24-25)  
 **
 
-See Comparative notes for [Verse
-5.24].
+See Comparative notes for [Verse 5.24].
 </details>
 
 <details><summary>Bühler</summary>

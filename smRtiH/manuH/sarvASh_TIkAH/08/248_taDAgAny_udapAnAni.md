@@ -30,14 +30,9 @@ All these are such marks as are publicly visible; and cannot be easily obliterat
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 202), which adds the
-following notes:—‘*Taḍāga*’, large water-reservoirs,—‘*vāpī*’, smaller
-tanks,—‘*udapāna*’ wells,—‘*prasravaṇa*’, water-streams other than
-rivers.
+This verse is quoted in *Vivādaratnākara* (p. 202), which adds the following notes:—‘*Taḍāga*’, large water-reservoirs,—‘*vāpī*’, smaller tanks,—‘*udapāna*’ wells,—‘*prasravaṇa*’, water-streams other than rivers.
 
-It is quoted in *Mitākṣarā* (2.151), where *Bālambhaṭṭī* adds the
-following notes:—‘*Udapāna*’, well,—‘*vāpī*’, long ponds with
-stone-walls,—‘*prasravaṇa*’, springs and in *Vivādacintāmaṇi* (p. 93).
+It is quoted in *Mitākṣarā* (2.151), where *Bālambhaṭṭī* adds the following notes:—‘*Udapāna*’, well,—‘*vāpī*’, long ponds with stone-walls,—‘*prasravaṇa*’, springs and in *Vivādacintāmaṇi* (p. 93).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -45,8 +40,7 @@ stone-walls,—‘*prasravaṇa*’, springs and in *Vivādacintāmaṇi* (p. 93
 **(verses 8.245-251)  
 **
 
-See Comparative notes for [Verse
-8.245].
+See Comparative notes for [Verse 8.245].
 </details>
 
 <details><summary>Bühler</summary>

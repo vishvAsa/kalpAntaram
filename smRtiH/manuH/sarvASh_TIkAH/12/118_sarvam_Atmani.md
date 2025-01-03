@@ -143,14 +143,9 @@ As for the Injunction regarding the resolving of all things into the Self,—wha
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Ātmani*’.—‘In the supreme self’ (Kullūka and Nandana),—‘in his Own
-individual self’ (Govindarāja).
+‘*Ātmani*’.—‘In the supreme self’ (Kullūka and Nandana),—‘in his Own individual self’ (Govindarāja).
 
-‘*Sadasat*’.—‘The products and the causes, or the intelligent and the
-non-intelligent’ (Nandana),—‘that which has shape and which is
-shapeless’ (Govindarāja),—‘that which comes into existence and
-perishes,’ or ‘that which is an absolute non-entity and that which is
-eternal’ (proposed by Medhātithi).
+‘*Sadasat*’.—‘The products and the causes, or the intelligent and the non-intelligent’ (Nandana),—‘that which has shape and which is shapeless’ (Govindarāja),—‘that which comes into existence and perishes,’ or ‘that which is an absolute non-entity and that which is eternal’ (proposed by Medhātithi).
 
 This verse is quoted in *Aparārka* (p. 1027).
 </details>

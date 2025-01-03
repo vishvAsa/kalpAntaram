@@ -46,17 +46,14 @@ Just as Brāhmaṇas are ‘*purified*’ by the ‘*daily sacrifices*’—the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 618), which explains
-‘*pāpāḥ*’ as *sinners*,—and ‘*Sādhavaḥ*’ as ‘persons acting in
-accordance with the scriptures.’
+This verse is quoted in *Vivādaratnākara* (p. 618), which explains ‘*pāpāḥ*’ as *sinners*,—and ‘*Sādhavaḥ*’ as ‘persons acting in accordance with the scriptures.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 8.310-311)**
 
-See Comparative notes for [Verse
-8.310].
+See Comparative notes for [Verse 8.310].
 </details>
 
 <details><summary>भारुचिः</summary>

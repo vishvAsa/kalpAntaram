@@ -40,11 +40,7 @@ These are not the only ‘thorns’; but also those that are going to be mention
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 291), which has the
-following notes:—‘*Pracchannavañcakāḥ*’, those who commit burglaries by
-breaking through walls and so forth;—‘*ātavyāḥ*’, thieves who frequent
-the forests and commit thefts even during the day;—‘*ādi*’ is meant to
-include the thief living in one’s neighbourhood and such others.
+This verse is quoted in *Vivādaratnākara* (p. 291), which has the following notes:—‘*Pracchannavañcakāḥ*’, those who commit burglaries by breaking through walls and so forth;—‘*ātavyāḥ*’, thieves who frequent the forests and commit thefts even during the day;—‘*ādi*’ is meant to include the thief living in one’s neighbourhood and such others.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -52,8 +48,7 @@ include the thief living in one’s neighbourhood and such others.
 **(verses 9.256-260)  
 **
 
-See Comparative notes for [Verse
-9.256].
+See Comparative notes for [Verse 9.256].
 </details>
 
 <details><summary>भारुचिः</summary>

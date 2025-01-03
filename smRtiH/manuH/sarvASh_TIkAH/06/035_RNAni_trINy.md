@@ -24,19 +24,14 @@ _कानि पुनस् तानि त्रीणि ऋणान्य
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 3.57), to the effect that until
-one has begotten offsprings he is not entitled to the life of
-Renunciation;—in *Vidhānapārijāta* (II, p. 373);—in *Hemādri* (Kāla, p.
-808), which says that ‘*mokṣa*’ here stands for *jñāna*, knowledge, as
-is clear from the use of the term ‘*sevamānaḥ*’—and in
+This verse is quoted in *Mitākṣarā* (on 3.57), to the effect that until one has begotten offsprings he is not entitled to the life of Renunciation;—in *Vidhānapārijāta* (II, p. 373);—in *Hemādri* (Kāla, p. 808), which says that ‘*mokṣa*’ here stands for *jñāna*, knowledge, as is clear from the use of the term ‘*sevamānaḥ*’—and in
 *Yatidharmasaṅgraha* (p. 3) along with the next verse (see below).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Smṛtyantara* (Aparārka, p. 966).—‘Having paid off the three debts,
-being freed from all motions of *I* and *mine*, the Brāhmaṇa, the
-Kṣatriya and the Vaiśya may go forth from the house.’
+being freed from all motions of *I* and *mine*, the Brāhmaṇa, the Kṣatriya and the Vaiśya may go forth from the house.’
 </details>
 
 <details><summary>भारुचिः</summary>

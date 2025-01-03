@@ -26,18 +26,13 @@ In a case where, in connection with such things as cattle, gold, lands and so fo
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 635), which says that what is
-meant is that what proof of ownership is, not mere possession, but
-possession accompanied by ‘title’—*i.e*., something that indicates
-actual ownership.
+This verse is quoted in *Aparārka* (p. 635), which says that what is meant is that what proof of ownership is, not mere possession, but possession accompanied by ‘title’—*i.e*., something that indicates actual ownership.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (2.171).—‘By title and by possession shall the rightful
-owner establish his claim to a lost property; if he fails to establish
-his claim, he shall be fined; he should be made to pay a fine the fifth
-part of the value of the article concerned.’
+owner establish his claim to a lost property; if he fails to establish his claim, he shall be fined; he should be made to pay a fine the fifth part of the value of the article concerned.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -34,8 +34,7 @@ In the event of one’s inability to perfom (perform?) one’s obligatory duties
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 224);—and in *Madanapārijāta* (p.
-14).
+This verse is quoted in *Aparārka* (p. 224);—and in *Madanapārijāta* (p. 14).
 </details>
 
 <details><summary>Bühler</summary>

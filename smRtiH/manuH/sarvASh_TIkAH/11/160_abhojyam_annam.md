@@ -48,9 +48,7 @@ Hence the meaning must be that in the event of the man not vomiting the food, he
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Śodhanaiḥ*.’—‘Penances’ (Medhātithi, Govindarāja, Kullūka and
-Rāghavānanda);—‘purgative decoctions’ (‘others’ in Medhātithi, Nārāyaṇa
-and Nandana).
+‘*Śodhanaiḥ*.’—‘Penances’ (Medhātithi, Govindarāja, Kullūka and Rāghavānanda);—‘purgative decoctions’ (‘others’ in Medhātithi, Nārāyaṇa and Nandana).
 
 This verse is quoted in *Smṛtitattva* (p. 548);—and in
 *Prayaścittaviveka* (p. 342).

@@ -22,8 +22,7 @@ This is a declamatory statement in support of the injunction that—‘the man s
 
 **(verses 11.72-86)**
 
-See Comparative notes for [Verse
-11.72].
+See Comparative notes for [Verse 11.72].
 </details>
 
 <details><summary>भारुचिः</summary>

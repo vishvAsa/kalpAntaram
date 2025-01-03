@@ -47,8 +47,7 @@ This verse is quoted in *Nṛsiṃhaprasāda* (Vyavahāra, 2b).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (18.30).—‘When the King, having seated himself full of majesty
-on the throne of judgment, deals out punishment, equitable towards all
-creatures, he is called *Vaivasvata* or *Yama*.’
+on the throne of judgment, deals out punishment, equitable towards all creatures, he is called *Vaivasvata* or *Yama*.’
 </details>
 
 <details><summary>भारुचिः</summary>

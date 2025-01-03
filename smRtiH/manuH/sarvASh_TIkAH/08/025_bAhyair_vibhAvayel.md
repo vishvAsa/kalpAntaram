@@ -46,35 +46,14 @@ It is a fact of common experience that voice and the rest, if carefully watched,
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Iṅgita*’—‘Perspiring, trembling, horripilation and so forth’
-(Medhātithi, Govindarāja and Rāghavānanda);—‘casting down the eyes &c,’
-(Kullūka);—‘aimlessly moving about the arms &c.’ (Nārāyaṇa).
+‘*Iṅgita*’—‘Perspiring, trembling, horripilation and so forth’ (Medhātithi, Govindarāja and Rāghavānanda);—‘casting down the eyes &c,’ (Kullūka);—‘aimlessly moving about the arms &c.’ (Nārāyaṇa).
 
-‘*Ākāra*’—‘Manner’ compounded with ‘*svara-varṇa-iṅgita*’ collectively,
-(Medhātithi and Rāghavānanda);—‘aspect, *e.g*., pallor, horripilation,
-sweating’ (Govindarāja, Kullūka, and Nārāyaṇa) who take the term
-independently—copulatively compounded with ‘*svara*’ &c.
+‘*Ākāra*’—‘Manner’ compounded with ‘*svara-varṇa-iṅgita*’ collectively, (Medhātithi and Rāghavānanda);—‘aspect, *e.g*., pallor, horripilation, sweating’ (Govindarāja, Kullūka, and Nārāyaṇa) who take the term independently—copulatively compounded with ‘*svara*’ &c.
 
-This verse is quoted in *Aparārka* (p. 620);—in *Smṛtitattva* (p. II,
-218),... which adds the following notes:—‘*Svara*,’ such as choking
-voice,—‘*varṇa*,’ abnormal pallor and so forth,—‘iṅgita,’ *i*. *e*.,
-sweating, trembling and horripilation—‘*ākāra*,’
-disfigurement,—‘*cakṣuṣ*,’ timid, or piteous look,—‘*ceṣṭita*,’ the
-manner of standing and moving. It adds that all these, being uncertain
-indications, have to be regarded as inferior to witnesses and other
-kinds of direct evidence;—in
+This verse is quoted in *Aparārka* (p. 620);—in *Smṛtitattva* (p. II, 218),... which adds the following notes:—‘*Svara*,’ such as choking voice,—‘*varṇa*,’ abnormal pallor and so forth,—‘iṅgita,’ *i*. *e*., sweating, trembling and horripilation—‘*ākāra*,’ disfigurement,—‘*cakṣuṣ*,’ timid, or piteous look,—‘*ceṣṭita*,’ the manner of standing and moving. It adds that all these, being uncertain indications, have to be regarded as inferior to witnesses and other kinds of direct evidence;—in
 
 *Kṛtykalpataru*, (21b), which has the following notes:—‘*Vibhāvayet*,’
-determine, ascertain,—‘*bhāvam*,’ motive, intention, ‘*nṛṇām*,’ of the
-two parties and of the witnesses,—‘*ākāra*’ transformation in the
-natural voice and other things,—that of ‘*svara*’ appears in the form of
-trembling and so forth, that of ‘*varṇa*’ in the shape of paleness and
-so forth;—and in *Vīramitrodaya* (Vyavahāra, p. 30a), which adds the
-following notes:—‘*Svara*’ stands for the choking of the voice and so
-forth,—‘*varṇa*’ for the ‘darkness of complexion,’ and so
-forth,—‘*iṅgita*’ for perspiration, trembling and the like,—‘*ākāra*’
-for the raising of the eye-brows and so forth—‘*cakṣu*’ for the timid
-look,—‘*ceṣṭita*’ for the listless changing of position.—(25)
+determine, ascertain,—‘*bhāvam*,’ motive, intention, ‘*nṛṇām*,’ of the two parties and of the witnesses,—‘*ākāra*’ transformation in the natural voice and other things,—that of ‘*svara*’ appears in the form of trembling and so forth, that of ‘*varṇa*’ in the shape of paleness and so forth;—and in *Vīramitrodaya* (Vyavahāra, p. 30a), which adds the following notes:—‘*Svara*’ stands for the choking of the voice and so forth,—‘*varṇa*’ for the ‘darkness of complexion,’ and so forth,—‘*iṅgita*’ for perspiration, trembling and the like,—‘*ākāra*’ for the raising of the eye-brows and so forth—‘*cakṣu*’ for the timid look,—‘*ceṣṭita*’ for the listless changing of position.—(25)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -82,24 +61,13 @@ look,—‘*ceṣṭita*’ for the listless changing of position.—(25)
 **(verses 8.25-26)**
 
 *Nārada* (6.10-11).—‘When the face changes colour, or the voice falters,
-or the features look suspicious, when they do not give evidence in
-public, when they make impossible statements as to place and time, when
-there are doubts regarding their place of residence, when they indulge
-in expense for bad purposes, when they have been previously convicted of
-larceny, when they keep bad company, or when documents speak against
-them,—they may be convicted as thieves,—not by the possession of stolen
-goods alone.’
+or the features look suspicious, when they do not give evidence in public, when they make impossible statements as to place and time, when there are doubts regarding their place of residence, when they indulge in expense for bad purposes, when they have been previously convicted of larceny, when they keep bad company, or when documents speak against them,—they may be convicted as thieves,—not by the possession of stolen goods alone.’
 
 *Yājñavalkya* (2.13-15).—‘If he shifts his position, licks the ends of
-his mouth, perspires in his forehead, his face becomes pale, speech is
-dry and halting, talks much and inconsistently, is not pleasant in the
-eye or in his speech, twists his lips, the natural condition of his
-mind, speech and body becomes changed,—such a person, whether he be a
-complainant or a witness, should be regarded as at fault or wicked.’
+his mouth, perspires in his forehead, his face becomes pale, speech is dry and halting, talks much and inconsistently, is not pleasant in the eye or in his speech, twists his lips, the natural condition of his mind, speech and body becomes changed,—such a person, whether he be a complainant or a witness, should be regarded as at fault or wicked.’
 
 *Rāmāyaṇa* (Vyavahāratattva, p. 31).—‘The man cannot hide his internal
-feelings entirely, without showing some slight shadow of it in his
-external appearance; it becomes exposed even against his will.’
+feelings entirely, without showing some slight shadow of it in his external appearance; it becomes exposed even against his will.’
 </details>
 
 <details><summary>भारुचिः</summary>

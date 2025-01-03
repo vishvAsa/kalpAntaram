@@ -24,21 +24,11 @@ By eating these the man becomes an outcast. That is, he should perform the Expia
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 1157), which notes that the
-intentional eating of these things make the twice-born person an
-‘outcast,’ *i.e*., disqualifies him from all that is done by twice-born
-persons, and the expiation for this would be the same as that prescribed
-for wine-drinking.
+This verse is quoted in *Aparārka* (p. 1157), which notes that the intentional eating of these things make the twice-born person an ‘outcast,’ *i.e*., disqualifies him from all that is done by twice-born persons, and the expiation for this would be the same as that prescribed for wine-drinking.
 
-It is quoted in *Mitākṣarā* (on 1.176), which says that this refers to
-intentional and repeated eating of the things; also on 3.229;—in
+It is quoted in *Mitākṣarā* (on 1.176), which says that this refers to intentional and repeated eating of the things; also on 3.229;—in
 *Parāśaramādhava* (Prāyaścitta, p. 317), as referring to intentional
-eating;—and in *Madanapārijāta* (p. 825) to the effect that the
-intentional eating of forbidden things is equal to wine-drinking; and
-again on p. 927, to the effect that *it is intentional and repeated*
-eating that is equal to wine-drinking and hence makes one outcast, while
-by intentionally eating these only *once*, one only becomes liable to
-the performance of the *Cāndrāyaṇa*.
+eating;—and in *Madanapārijāta* (p. 825) to the effect that the intentional eating of forbidden things is equal to wine-drinking; and again on p. 927, to the effect that *it is intentional and repeated* eating that is equal to wine-drinking and hence makes one outcast, while by intentionally eating these only *once*, one only becomes liable to the performance of the *Cāndrāyaṇa*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -47,17 +37,13 @@ the performance of the *Cāndrāyaṇa*.
 cocks or tame pigs.’
 
 *Viṣṇu* (51.3-4).—‘If the twice-born eat of the following—garlic, onion,
-tame pig, tame cock,—he should perform expiations and should go through
-the sacraments over again.’
+tame pig, tame cock,—he should perform expiations and should go through the sacraments over again.’
 
 *Yājñavalkya* (1.176).—‘Onion, tame pig, mushroom, tame cock, garlic,
 and leeks,—on eating these one should perform the Cāndrāyaṇa.’
 
 *Parāśara* (2.9-10).—‘Milk of newly calved cow, white garlic, brinjals,
-leeks, onion, exudation from trees, the property of gods, mushrooms,
-milk of the camel, milk of sheep,—if the twice-born eats these
-unintentionally, he becomes purified by fasting for three days and
-eating *Pañcagavya*.’
+leeks, onion, exudation from trees, the property of gods, mushrooms, milk of the camel, milk of sheep,—if the twice-born eats these unintentionally, he becomes purified by fasting for three days and eating *Pañcagavya*.’
 </details>
 
 <details><summary>Bühler</summary>

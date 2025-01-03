@@ -45,17 +45,7 @@ Others have offered the construction—‘*who buys and sells at the improper ti
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 297), which adds the
-following notes:—‘*Śulka*’ is the duty realised by the king on all sales
-and purchases,—the ‘*sthānas*’ of this are the customs-outposts
-established by the king on rivers, in cities, on mountains, and so
-forth;—when themerchant reaches these out-posts, he should pay the
-custom; he should never seek to avoid their payment by going by
-untrodden tracks;—if with a view to avoiding customs-outposts, the
-merchant should seek to carry on his sale and purchases at the improper
-time—*e.g*., at night,—or if he declares his goods falsely,—then he
-should be made to pay a fine which is eight times the value of the
-commodity in question.
+This verse is quoted in *Vivādaratnākara* (p. 297), which adds the following notes:—‘*Śulka*’ is the duty realised by the king on all sales and purchases,—the ‘*sthānas*’ of this are the customs-outposts established by the king on rivers, in cities, on mountains, and so forth;—when themerchant reaches these out-posts, he should pay the custom; he should never seek to avoid their payment by going by untrodden tracks;—if with a view to avoiding customs-outposts, the merchant should seek to carry on his sale and purchases at the improper time—*e.g*., at night,—or if he declares his goods falsely,—then he should be made to pay a fine which is eight times the value of the commodity in question.
 
 It is quoted in *Vyavahāra-Bālambhaṭṭī*, (p. 955).
 </details>
@@ -63,9 +53,7 @@ It is quoted in *Vyavahāra-Bālambhaṭṭī*, (p. 955).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñvalkya* (2.262).—‘A. traitor who makes a false declaration of the
-measure of his commodity, or who evades the customs outpost, or who buys
-and sells fraudulently, should be made to pay eight times the value of
-the merchandise.’
+measure of his commodity, or who evades the customs outpost, or who buys and sells fraudulently, should be made to pay eight times the value of the merchandise.’
 
 *Nārada* (Aparārka, p. 834).—(Same as Manu.)
 
@@ -73,12 +61,10 @@ the merchandise.’
 have his entire goods confiscated.’
 
 *Bṛhaspati* (Do.).—‘On arriving at the customs-office the trader shall
-pay the proper duty, and shall never evade it, as this is meant to be an
-offering to the King.’
+pay the proper duty, and shall never evade it, as this is meant to be an offering to the King.’
 
 *Śaṅkha-Likhita* (Vivādaratnākara, p. 298).—‘The trader who uses false
-weights and measures incurs the penalty of having his limbs cut off, or
-some corporal punishment.’
+weights and measures incurs the penalty of having his limbs cut off, or some corporal punishment.’
 </details>
 
 <details><summary>भारुचिः</summary>

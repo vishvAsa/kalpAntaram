@@ -22,9 +22,7 @@ The prohibition of wandering about at night in villages, and cities is with a vi
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“Govindarāja and Nārāyaṇa take the beginning of the verse
-differently—Their food shall be given to them by others in a broken
-vessel.”—Buhler.
+“Govindarāja and Nārāyaṇa take the beginning of the verse differently—Their food shall be given to them by others in a broken vessel.”—Buhler.
 </details>
 
 <details><summary>Bühler</summary>

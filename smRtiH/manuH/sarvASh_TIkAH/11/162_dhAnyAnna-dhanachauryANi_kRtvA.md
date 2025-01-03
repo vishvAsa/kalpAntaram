@@ -71,10 +71,7 @@ Some people take the expiation here laid down as meant for the stealing of all t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3. 265);—in *Madanapārijāta* (p.
-874), which adds the following notes:—‘*Dhana*’ stands for valuables
-other than gold,—‘*dvijottama*,’ Brāhmaṇa,—his ‘*svajāti*’ is
-Brāhmaṇa;—this refers to cases where the Brāhmaṇa has stolen;—in
+This verse is quoted in *Mitākṣarā* (3. 265);—in *Madanapārijāta* (p. 874), which adds the following notes:—‘*Dhana*’ stands for valuables other than gold,—‘*dvijottama*,’ Brāhmaṇa,—his ‘*svajāti*’ is Brāhmaṇa;—this refers to cases where the Brāhmaṇa has stolen;—in
 *Parāśaramādhava* (Prāyaścitta p. 427);—and in *Prāyaścittaviveka* (p.
 342), which explains ‘*anna*’ as *cooked* food, and ‘*dhana*’ as cattle.
 </details>
@@ -82,11 +79,7 @@ Brāhmaṇa;—this refers to cases where the Brāhmaṇa has stolen;—in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba* (1.25.10).—‘Those who have committed theft of gold, or drunk
-wine, or had connection with a *guru’s* wife,—hut not those who have
-slain a Brāhmaṇa,—shall eat, every fourth meal-time, a little food,
-bathe at the time of the three libations, passing the day standing and
-the night sitting. After the lapse of three years, they throw off their
-guilt.’
+wine, or had connection with a *guru’s* wife,—hut not those who have slain a Brāhmaṇa,—shall eat, every fourth meal-time, a little food, bathe at the time of the three libations, passing the day standing and the night sitting. After the lapse of three years, they throw off their guilt.’
 
 *Viṣṇu* (52.5).—‘He who steals grains or valuable objects must perform
 the *Kṛcchra* for a year.’

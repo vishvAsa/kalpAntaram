@@ -36,12 +36,9 @@ He who sacrifices to the deities called ‘*gaṇas*.’ ‘*Gaṇayāgas*’ ar
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Gaṇānām-yājakaḥ*’—‘One who sacrifices to the gods; *i.e*., he who
-performs the well known *Gaṇayāgas*,’ (Medhātithi);—‘one who sacrifices
-for a group of men or friends’ (Nārāyaṇa and Nandana).
+‘*Gaṇānām-yājakaḥ*’—‘One who sacrifices to the gods; *i.e*., he who performs the well known *Gaṇayāgas*,’ (Medhātithi);—‘one who sacrifices for a group of men or friends’ (Nārāyaṇa and Nandana).
 
-This verse is quoted in *Parāśaramādhava*, (Ācāra, p. 688) without
-comment;—and in *Hemādri* (Śrāddha, p. 482).
+This verse is quoted in *Parāśaramādhava*, (Ācāra, p. 688) without comment;—and in *Hemādri* (Śrāddha, p. 482).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -49,8 +46,7 @@ comment;—and in *Hemādri* (Śrāddha, p. 482).
 **(verses 3.150-166)  
 **
 
-See Comparative notes for [Verse
-3.150].
+See Comparative notes for [Verse 3.150].
 </details>
 
 <details><summary>Bühler</summary>

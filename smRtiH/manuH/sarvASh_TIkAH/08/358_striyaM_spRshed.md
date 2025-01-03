@@ -72,8 +72,7 @@ Or, when touched by her, pressed with her breasts for instance, if the man does 
 
 **(verses 8.357-358)**
 
-See Comparative notes for [Verse
-8.357].
+See Comparative notes for [Verse 8.357].
 </details>
 
 <details><summary>भारुचिः</summary>

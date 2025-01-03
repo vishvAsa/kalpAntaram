@@ -30,12 +30,9 @@ The modes of disposal mentioned above apply to the first and the last balls; but
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“There are many such magical ceremonies in the Sāmavidhāna and the
-Ṛgvidhāna”.—Burnell.
+“There are many such magical ceremonies in the Sāmavidhāna and the Ṛgvidhāna”.—Burnell.
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 759) without any
-comment;—in *Aparārka* (p. 550);—in *Śrāddhakriyākaumudī* (p. 215);—and
-in *Gadādharapaddhati* (Kāla, p. 563).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 759) without any comment;—in *Aparārka* (p. 550);—in *Śrāddhakriyākaumudī* (p. 215);—and in *Gadādharapaddhati* (Kāla, p. 563).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -50,15 +47,13 @@ shall he thrown into the water.’
 ball, pronouncing the mantra—*ādhatta pitaro garbhan*.’
 
 *Laghu-Āśvalāyana* (83.23).—‘One who desires a son should make his wife
-eat the middlemost hall, with the mantra *ādhatta*, etc., whereupon she
-hears a male child.’
+eat the middlemost hall, with the mantra *ādhatta*, etc., whereupon she hears a male child.’
 
 *Bṛhaspati* (Caturvargacintāmaṇi-Śrāddba, p. 1506).—\[Reproduces Manu,
 262 and 263.)
 
 *Devala* (Do.).—‘From among the balls, the wife desiring a son shall eat
-the middlemost; and through the favour of the Pitṛs, she obtains a son
-endowed with all good qualities.’
+the middlemost; and through the favour of the Pitṛs, she obtains a son endowed with all good qualities.’
 
 *Vāyupurāṇa* (Parāśaramādhava, p. 758).—‘Desiring progeny, he shall give
 the middle hall to his wife.’
@@ -70,8 +65,7 @@ or with child, the hall may be eaten by an old bull or a goat.’
 into the sky.’
 
 *Devala* (Do.).—‘The rites being completed, the ball may be eaten by the
-Brāhmaṇa or the fire, the goat or the bull; or it may be thrown into
-water.’
+Brāhmaṇa or the fire, the goat or the bull; or it may be thrown into water.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -40,33 +40,18 @@ This, however, is not right; it is through desire to eat that men become prone t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Atikrāman*’—‘Does not present himself at the time of eating, and does
-not maintain continence’ (Medhātithi, who is slightly misrepresented by
-Buhler, who attributes to him only the latter part of the
-explanation);—‘breaks the appointment’ (Govindarāja, Kullūka, Nārāyaṇa
-and Rāghavānanda);—‘who does not accept the invitation’ (‘others’ in
-Medhātithi, who rejects this explanation).
+‘*Atikrāman*’—‘Does not present himself at the time of eating, and does not maintain continence’ (Medhātithi, who is slightly misrepresented by Buhler, who attributes to him only the latter part of the explanation);—‘breaks the appointment’ (Govindarāja, Kullūka, Nārāyaṇa and Rāghavānanda);—‘who does not accept the invitation’ (‘others’ in Medhātithi, who rejects this explanation).
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 701) in support of
-the view that the man ‘who having accepted the invitation, subsequently
-refuses it, even though quite fit to respond to it, incurs a sin.’ It
-explains ‘*ketitaḥ*’ as ‘being invited.’
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 701) in support of the view that the man ‘who having accepted the invitation, subsequently refuses it, even though quite fit to respond to it, incurs a sin.’ It explains ‘*ketitaḥ*’ as ‘being invited.’
 
 *Madanapārijāta* (p. 565) quotes the verse;—also *Aparārka*, (p. 457),
-which adds that this refers to the person who has accepted the
-invitation;—and *Hemādri* (Śrāddha, p. 1002), which adds the following
-notes;—‘*Ketitaḥ*,’ invited;—the meaning is that if, on an invitation,
-the invited fails to keep the restrictions, he becomes a
-pig;—‘*Kathañcit*,’ intentionally or through forgetfulness; others hold
-that ‘*atikrāman*’ means ‘not accepting the invitation,’ but this view
-has been criticised and rejected by Medhātithi.
+which adds that this refers to the person who has accepted the invitation;—and *Hemādri* (Śrāddha, p. 1002), which adds the following notes;—‘*Ketitaḥ*,’ invited;—the meaning is that if, on an invitation, the invited fails to keep the restrictions, he becomes a pig;—‘*Kathañcit*,’ intentionally or through forgetfulness; others hold that ‘*atikrāman*’ means ‘not accepting the invitation,’ but this view has been criticised and rejected by Medhātithi.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yama* (Parāśaramādhava, p. 701).—‘Having been invited, if the Brāhmaṇa
-goes elsewhere to take his food, he goes to a hundred hells and is born
-among Cāṇḍālas.’
+goes elsewhere to take his food, he goes to a hundred hells and is born among Cāṇḍālas.’
 
 *Ādipurāṇa* (Do.).—‘Being invited, the Brāhmaṇa should not be late; one
 who is late... falls into hell.’

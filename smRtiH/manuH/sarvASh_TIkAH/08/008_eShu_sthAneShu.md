@@ -24,8 +24,7 @@ The addition of the adverb ‘*mostly*’ is for the purpose of indicating the i
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 596);—and in *Kṛtyakalpataru*
-(12b).
+This verse is quoted in *Aparārka* (p. 596);—and in *Kṛtyakalpataru* (12b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -33,8 +32,7 @@ This verse is quoted in *Aparārka* (p. 596);—and in *Kṛtyakalpataru*
 **(verses 8.4-8)  
 **
 
-See Comparative notes for [Verses
-8.4-7].
+See Comparative notes for [Verses 8.4-7].
 </details>
 
 <details><summary>भारुचिः</summary>

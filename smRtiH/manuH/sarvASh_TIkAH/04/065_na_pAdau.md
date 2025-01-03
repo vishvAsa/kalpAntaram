@@ -28,8 +28,7 @@ In a broken vessel—even in one that may be broken in a single place;—the use
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 328), which adds that the
-prohibition regarding the ‘broken vessel’ applies to vessels of metal
+This verse is quoted in *Madanapārijāta* (p. 328), which adds that the prohibition regarding the ‘broken vessel’ applies to vessels of metal
 *other than copper and the like*;—in *Saṃskāramayūkha* (p. 71);—and in
 *Śuddhikaumudī* (p. 839).
 </details>

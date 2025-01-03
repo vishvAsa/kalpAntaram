@@ -32,8 +32,7 @@ This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 45).
 **(verses 10.74-76)  
 **
 
-See Comparative notes for [Verse
-10.74].
+See Comparative notes for [Verse 10.74].
 </details>
 
 <details><summary>भारुचिः</summary>

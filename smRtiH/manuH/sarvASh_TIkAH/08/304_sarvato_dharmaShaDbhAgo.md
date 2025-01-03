@@ -64,20 +64,7 @@ It has already been explained that there are many persons who pay no taxes at al
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“This is that famous ‘sixth’ of good or evil which the king draws upon
-himself by protecting or neglecting his people; he revives a sixth of
-the produce as tax (7.130), and in return, it may be, must give security
-to the realm, or he gets the same proportion of the fruits of their bad
-deeds; or (*cf*. verse 308) he takes all the sin of the world.
-Yājñavalkya says (1.334-336) he takes one-sixth of the fruit of their
-good deeds, but one half of their sin in case he does not protect them.
-Similarly the sixth or the twelfth part (8. 35), or half (8.39) is the
-share of the treasure the king receives; and again in 8.18 he receives a
-fourth of the fruits of the sin caused by a wrong decision in
-court.”—Hopkins, who refers to the Mahābhārata (13.61.34-35), where, in
-regard to the sin, different views (fourth part, half, whole) are set
-forth and then the conclusion stated in favour of the *fourth* part,
-which, it is said, is in accordance with the ‘teaching of Manu.’
+“This is that famous ‘sixth’ of good or evil which the king draws upon himself by protecting or neglecting his people; he revives a sixth of the produce as tax (7.130), and in return, it may be, must give security to the realm, or he gets the same proportion of the fruits of their bad deeds; or (*cf*. verse 308) he takes all the sin of the world. Yājñavalkya says (1.334-336) he takes one-sixth of the fruit of their good deeds, but one half of their sin in case he does not protect them. Similarly the sixth or the twelfth part (8. 35), or half (8.39) is the share of the treasure the king receives; and again in 8.18 he receives a fourth of the fruits of the sin caused by a wrong decision in court.”—Hopkins, who refers to the Mahābhārata (13.61.34-35), where, in regard to the sin, different views (fourth part, half, whole) are set forth and then the conclusion stated in favour of the *fourth* part, which, it is said, is in accordance with the ‘teaching of Manu.’
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 397);—in
 *Vīramitrodaya* (Rājanīti, p. 255);—in *Nṛsiṃhaprasāda* (p. 73p);—and in
@@ -92,8 +79,7 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 397);—in
 *Yājñavalkya* (1.334).—‘Protecting the people according to law, the King
 obtains the sixth part of the spiritual merit of the people.’
 
-Do. (1.335).—‘Whatever sin is committed by the people not protected by
-the King, half of it goes to the King; since he takes taxes from them.’
+Do. (1.335).—‘Whatever sin is committed by the people not protected by the King, half of it goes to the King; since he takes taxes from them.’
 
 *Vaśiṣṭha* (1.44).—‘It has been declared in the Veda—“the King obtains
 the sixth part of the merit of sacrifices and charitable works.”’
@@ -105,9 +91,7 @@ iniquitous acts committed by his subjects goes to the King.’
 share of the spiritual merit gained by his subjects.’
 
 *Viṣṇudharmottara* (Vīramitrodaya-Rājanīti).—‘O Rāma, the King obtains
-the sixth part of the virtuous as well as the iniquitous deeds committed
-by his people; and also a portion of their spiritual merit, if he is
-engaged in protecting them.’
+the sixth part of the virtuous as well as the iniquitous deeds committed by his people; and also a portion of their spiritual merit, if he is engaged in protecting them.’
 </details>
 
 <details><summary>भारुचिः</summary>

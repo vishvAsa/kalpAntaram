@@ -33,8 +33,7 @@ The danger of incurring such sin however could not apply to the case of one who 
 
 This verse is quoted in *Smṛtitattva* (p. 353);—and in
 *Varṣakriyākaumudī* (p. 571), which adds that there would be nothing
-wrong in the Śūdra amassing wealth, for the benefit of ‘Brāhmaṇas and
-others.’
+wrong in the Śūdra amassing wealth, for the benefit of ‘Brāhmaṇas and others.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

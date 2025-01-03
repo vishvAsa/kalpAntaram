@@ -34,20 +34,13 @@ This verse is a purely laudatory exaggeration. Hence the question need not be ra
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 863), where it
-explains ‘*Brāhmaṇī*’ as ‘the girl married in the Brāhma form;’ and adds
-that the term ‘*pitṛn*’ includes the son and other descendants
-also;—also in *Parāśaramādhava* (Ācāra, p. 487);—in *Aparārka* (p. 88),
-which explains ‘*Sukṛta*’ as ‘doing what is enjoined and avoiding what
-is forbidden’;—in *Hemādri* (Dāna, p. 683); and in *Smṛticandrikā*
-(Saṃskāra, p. 227).
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 863), where it explains ‘*Brāhmaṇī*’ as ‘the girl married in the Brāhma form;’ and adds that the term ‘*pitṛn*’ includes the son and other descendants also;—also in *Parāśaramādhava* (Ācāra, p. 487);—in *Aparārka* (p. 88), which explains ‘*Sukṛta*’ as ‘doing what is enjoined and avoiding what is forbidden’;—in *Hemādri* (Dāna, p. 683); and in *Smṛticandrikā* (Saṃskāra, p. 227).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (4.29.33).—‘The good sons purify; the son born of a wife
-married by the Brāhma form purifies ten past and ten future generations,
-along with oneself.’
+married by the Brāhma form purifies ten past and ten future generations, along with oneself.’
 
 *Viṣṇu* (24.29).—‘The son of a wife married by the Brāhma form purifies
 twenty-one generations.’
@@ -59,9 +52,7 @@ generations.’
 past and twelve future venerations on both sides.’
 
 *Śaunaka* (Vīramitrodaya-Saṃskāra, p. 863).—‘When a girl has been given
-away in the Brāhma form of marriage, the son born of her purifies twelve
-past and twelve future generations both on his maternal and his paternal
-sides.’
+away in the Brāhma form of marriage, the son born of her purifies twelve past and twelve future generations both on his maternal and his paternal sides.’
 </details>
 
 <details><summary>Bühler</summary>

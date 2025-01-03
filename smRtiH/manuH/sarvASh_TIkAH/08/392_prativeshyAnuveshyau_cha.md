@@ -50,20 +50,11 @@ If the man does not entertain these two, after having invited them to the ‘*fe
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Prativeśya-anuveśya*’—‘Neighbour living in front—neighbour living at
-the back’ (Medhātithi);—‘the next neighbour and the neighbour next to
-him’ (Kullūka, Nārāyaṇa and Rāghvānanda).
+‘*Prativeśya-anuveśya*’—‘Neighbour living in front—neighbour living at the back’ (Medhātithi);—‘the next neighbour and the neighbour next to him’ (Kullūka, Nārāyaṇa and Rāghvānanda).
 
 ‘*Māṣakam*’—‘Of gold’ (Medhātithi);—‘of silver’ (Kullūka).
 
-This verse is quoted in *Vivādaratnākara* (p. 358), which adds the
-following notes:—‘*Kalyāṇe viṃśatidvije*,’ ‘at which twenty Brāhmaṇas
-are entertained’;—at such a festival if one does not feed his front
-neighbour and back neighbour,—both of whom are perfectly fit persons for
-being entertained,—he should be fined one ‘*Māṣa*’ which should be
-understood to be of *silver*, in view of the fact that Manu in the next
-verse prescribes the *golden* ‘*māṣa*’ as the fine for the offence of
-not feeding the neighbours at a rich entertainment.
+This verse is quoted in *Vivādaratnākara* (p. 358), which adds the following notes:—‘*Kalyāṇe viṃśatidvije*,’ ‘at which twenty Brāhmaṇas are entertained’;—at such a festival if one does not feed his front neighbour and back neighbour,—both of whom are perfectly fit persons for being entertained,—he should be fined one ‘*Māṣa*’ which should be understood to be of *silver*, in view of the fact that Manu in the next verse prescribes the *golden* ‘*māṣa*’ as the fine for the offence of not feeding the neighbours at a rich entertainment.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -72,17 +63,13 @@ not feeding the neighbours at a rich entertainment.
 **
 
 *Viṣṇu* (5.94-96).—‘A fine of 25 *Kārṣāpaṇas* should he inflicted for
-neglecting to invite at a *śrāddha*, a Brāhmaṇa neighbour; also for not
-offering him food after inviting him. He who, after having accepted an
-invitation, does not eat, shall pay a fine of a gold Māṣaka to the King,
-and double the quantity of food to the inviter.’
+neglecting to invite at a *śrāddha*, a Brāhmaṇa neighbour; also for not offering him food after inviting him. He who, after having accepted an invitation, does not eat, shall pay a fine of a gold Māṣaka to the King, and double the quantity of food to the inviter.’
 
 *Yājñavalkya* (2.263).—‘If a Brāhmaṇa omits to invite his neighbours, he
 shall be fined 15 *Paṇas*.’
 
 *Matsyapurāṇa* (Aparārka, p. 835).—‘If a twice-born who is in the habit
-of accepting gifts, fails to attend an invitation, he should be made to
-pay a fine of 108.’
+of accepting gifts, fails to attend an invitation, he should be made to pay a fine of 108.’
 </details>
 
 <details><summary>भारुचिः</summary>

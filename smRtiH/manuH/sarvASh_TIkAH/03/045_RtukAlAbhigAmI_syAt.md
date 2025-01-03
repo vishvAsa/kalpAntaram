@@ -179,39 +179,16 @@ Thus the conclusion is that the present verse contains three statements.—(1) t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Tadvrataḥ*’—‘In consideration of her’ (Medhātithi and
-Kullūka);—‘careful to keep the said rule regarding the *Parvas*’
-(Nārāyaṇa). The *Parvas* are described in 4.128.
+‘*Tadvrataḥ*’—‘In consideration of her’ (Medhātithi and Kullūka);—‘careful to keep the said rule regarding the *Parvas*’ (Nārāyaṇa). The *Parvas* are described in 4.128.
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 497), which adds
-the following explanation;—‘*Ṛtu*’, ‘season’, is the name given to the
-period of sixteen days, counted from the first day of the menstrual
-flow,—during which the woman is capable of conceiving;—during this
-‘season’ one should always approach his wife for the purpose of
-obtaining a child; and if is only his wife that the man should
-approach;—but during the ‘season’ the ‘second days’ should be
-avoided:—even apart from the season,one may approach his wife, when
-specially desired by her.
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 497), which adds the following explanation;—‘*Ṛtu*’, ‘season’, is the name given to the period of sixteen days, counted from the first day of the menstrual flow,—during which the woman is capable of conceiving;—during this ‘season’ one should always approach his wife for the purpose of obtaining a child; and if is only his wife that the man should approach;—but during the ‘season’ the ‘second days’ should be avoided:—even apart from the season,one may approach his wife, when specially desired by her.
 
-It is quoted in *Vīramitrodaya* (Saṃskāra, p. 162), which explains
-‘*tadvrataḥ*’ as ‘intent upon begetting a child’; and it is added that
-what is meant is that ‘one should never omit to approach his wife during
-her season’.
+It is quoted in *Vīramitrodaya* (Saṃskāra, p. 162), which explains ‘*tadvrataḥ*’ as ‘intent upon begetting a child’; and it is added that what is meant is that ‘one should never omit to approach his wife during her season’.
 
 *Vīramitrodaya* (Āhnika, p. 558) quotes the verse and adds the following
-notes:—‘*Ṛtu*’, ‘season’, denotes the woman’s capacity of conceiving;
-and the time during which the capacity is present is called the ‘period
-of the season’—‘*Tadvrataḥ*’ means ‘who is intent upon the
-approaching’;—this approaching during the period beyond the ‘season’ is
-sanctioned with a view to guarding the impassioned woman from going
-astray.
+notes:—‘*Ṛtu*’, ‘season’, denotes the woman’s capacity of conceiving; and the time during which the capacity is present is called the ‘period of the season’—‘*Tadvrataḥ*’ means ‘who is intent upon the approaching’;—this approaching during the period beyond the ‘season’ is sanctioned with a view to guarding the impassioned woman from going astray.
 
-This is quoted in *Hemādri* (Kāla, p. 724):—and in *Smṛticandrikā*
-(Saṃskāra, p. 41), which explains ‘*tadvrataḥ*’ as ‘bent upon getting a
-son’, and adds that the implication is that ‘during the period, even
-though the man may not be keenly desirous of intercourse, yet he should
-have recourse to his wife for the purpose of begetting a son’, as
-otherwise he would be incurring a sin.
+This is quoted in *Hemādri* (Kāla, p. 724):—and in *Smṛticandrikā* (Saṃskāra, p. 41), which explains ‘*tadvrataḥ*’ as ‘bent upon getting a son’, and adds that the implication is that ‘during the period, even though the man may not be keenly desirous of intercourse, yet he should have recourse to his wife for the purpose of begetting a son’, as otherwise he would be incurring a sin.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -223,8 +200,7 @@ otherwise he would be incurring a sin.
 days except those that have been prohibited.’
 
 *Āpastamba-Dharmasūtra* (2.1.15, 18).—‘By approaching his wife during
-the seasons, one maintains one’s vows; even during the intervening days,
-ho should approach only his wife.’
+the seasons, one maintains one’s vows; even during the intervening days, ho should approach only his wife.’
 
 *Vaśiṣṭha* (12.18).—‘He should have intercourse only with his wife,
 during her seasons, except the forbidden days.’
@@ -233,12 +209,7 @@ during her seasons, except the forbidden days.’
 fourteenth and fifteenth days of the fortnight.’
 
 *Yājñavalkya* (1.79-81).—‘Sixteen are the *nights of season* for women;
-during this season, he shall lie with her on the even nights, avoiding
-the first four nights; acting thus, he would be as good as a Religious
-Student. In approaching his wife, he shall avoid the asterisms of Maghā
-and Mūla. Or, he may approach her according to his desire, always
-bearing in mind what is good for women; he should ever remain devoted to
-his own wife.’
+during this season, he shall lie with her on the even nights, avoiding the first four nights; acting thus, he would be as good as a Religious Student. In approaching his wife, he shall avoid the asterisms of Maghā and Mūla. Or, he may approach her according to his desire, always bearing in mind what is good for women; he should ever remain devoted to his own wife.’
 
 *Pāraskara Gṛhyasūtra* (1.11.7-8).—‘Having married her, he should go to
 her during her seasons; or whenever they desire.’
@@ -247,25 +218,19 @@ her during her seasons; or whenever they desire.’
 fourth day, he shall approach her on the even nights.’
 
 *Ātharvaṇa Śruti* (Parāśaramādhava, p. 497).—‘Those who have recourse to
-sexual intercourse during the day, pour out their life-breath; if one
-has intercourse during the night, it is as good as celibacy.’
+sexual intercourse during the day, pour out their life-breath; if one has intercourse during the night, it is as good as celibacy.’
 
 *Śaṅkha-Likhita* (Parāśaramādhava, p. 497).—‘Even during the period, one
 shall not have intercourse during the day.’
 
 *Devala* (Parāśaramādhava, p. 498).—‘If a man, when healthy, does not
-approach his wife during the period, he incurs the sin of killing the
-embryo.’
+approach his wife during the period, he incurs the sin of killing the embryo.’
 
 *Baudhāyana* (Parāśaramādhava, p. 498).—‘If a man approaches not his
-wife during the period, for three years, he incurs the sin of killing
-the embryo. He who approaches not his wife during the period, and who
-approaches her apart from the period, the sin of both is equal, as also
-that of the man who throws out his semen unnaturally.’
+wife during the period, for three years, he incurs the sin of killing the embryo. He who approaches not his wife during the period, and who approaches her apart from the period, the sin of both is equal, as also that of the man who throws out his semen unnaturally.’
 
 *Bṛhaspati* (Parāśaramādhava, p. 499).—‘Excess of woman’s seed makes the
-progeny female, excess of man’s seed makes the progeny male; therefore
-for increasing his seed, the man shall eat oily and delicious food.’
+progeny female, excess of man’s seed makes the progeny male; therefore for increasing his seed, the man shall eat oily and delicious food.’
 </details>
 
 <details><summary>Bühler</summary>

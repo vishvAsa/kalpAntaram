@@ -28,18 +28,12 @@ It is like ‘*surety*’ of ‘*the Law of the Four Stages*’;—*i.e*., Punis
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 646), which adds the
-following notes:—*Rājā*, so called because of his *giving satisfaction*
-(*rañjanāt*),—*puruṣaḥ*, ‘equal to the Supreme Being’, residing in the
-hearts of the people;—he is the *netā*, the ‘leader’, the propagator of
+This verse is quoted in *Vivādaratnākara* (p. 646), which adds the following notes:—*Rājā*, so called because of his *giving satisfaction* (*rañjanāt*),—*puruṣaḥ*, ‘equal to the Supreme Being’, residing in the hearts of the people;—he is the *netā*, the ‘leader’, the propagator of
 *Dharma*.
 
 It is quoted in *Vīramitrodaya* (Rājanīti, p. 292);—and in
 *Vivādacintāmaṇi* (p. 261), which has the following notes:—*Rājā*, so
-called because he keeps the people contented
-(*prajārañjanāt*),—*puruṣaḥ*, the Supreme Person, because he abides in
-the heart (*puri shete*) of the people,—*netā*,— ruler,
-master,—‘*śāsitā*’, the propagator of proper righteousness.
+called because he keeps the people contented (*prajārañjanāt*),—*puruṣaḥ*, the Supreme Person, because he abides in the heart (*puri shete*) of the people,—*netā*,— ruler, master,—‘*śāsitā*’, the propagator of proper righteousness.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -48,13 +42,10 @@ master,—‘*śāsitā*’, the propagator of proper righteousness.
 **
 
 *Matsyapurāṇa* (Vīramitrodaya-Rājanīti, p. 286).—‘Punishment governs all
-creatures; punishment alone protects them; punishment lies awake while
-all are asleep; the wise regard punishment as Law itself.’
+creatures; punishment alone protects them; punishment lies awake while all are asleep; the wise regard punishment as Law itself.’
 
 *Mahābhārata* (Do., p. 287).—‘It is punishment that protects Dharma, and
-also property; it is punishment that protects pleasure; hence is
-punishment called the *Triad*; by punishment is grain protected, as also
-wealth.’
+also property; it is punishment that protects pleasure; hence is punishment called the *Triad*; by punishment is grain protected, as also wealth.’
 </details>
 
 <details><summary>भारुचिः</summary>

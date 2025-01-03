@@ -20,34 +20,18 @@ If the man gives up his life in trying to save,—even though he does not succee
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 797), which adds the
-following explanation:—Here the text lays down separately, (*a*)
-‘immediate surrendering of his life for the sake of a Brāhmaṇa,’ and
-(*b*) ‘saving of the cow and the Brāhmaṇa’; from which it follows
-that—(*a*) if the man succeeds in saving the cow or the Brāhmaṇa, he
-becomes purified, even though his own life may have been saved, and
-(*b*) even though he may not succeed in saving the cow or the Bārhmaṇa,
-he becomes purified, if he has tried his best and lost his life in the
-attempt to save them.
+This verse is quoted in *Madanapārijāta* (p. 797), which adds the following explanation:—Here the text lays down separately, (*a*) ‘immediate surrendering of his life for the sake of a Brāhmaṇa,’ and (*b*) ‘saving of the cow and the Brāhmaṇa’; from which it follows that—(*a*) if the man succeeds in saving the cow or the Brāhmaṇa, he becomes purified, even though his own life may have been saved, and (*b*) even though he may not succeed in saving the cow or the Bārhmaṇa, he becomes purified, if he has tried his best and lost his life in the attempt to save them.
 
-It is quoted in *Aparārka* (p. 1058), which adds the following
-notes:—This is to be taken in connection with the ‘Twelve years
-penance’; even though the man may not succeed in saving the cow or the
-Brāhmaṇa, if he has tried his best, and perishes in the attempt, he
-becomes purified; and if he has succeeded in saving them, he becomes
-purified, even though he may not have lost his life in the attempt.
+It is quoted in *Aparārka* (p. 1058), which adds the following notes:—This is to be taken in connection with the ‘Twelve years penance’; even though the man may not succeed in saving the cow or the Brāhmaṇa, if he has tried his best, and perishes in the attempt, he becomes purified; and if he has succeeded in saving them, he becomes purified, even though he may not have lost his life in the attempt.
 
-It is quoted in *Mitākṣarā* (3.244), which adds that ‘saving the
-Brāhmaṇa’ and ‘perishing for the sake of the Brāhmaṇa’ are two distinct
-things.
+It is quoted in *Mitākṣarā* (3.244), which adds that ‘saving the Brāhmaṇa’ and ‘perishing for the sake of the Brāhmaṇa’ are two distinct things.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 11.72-86)**
 
-See Comparative notes for [Verse
-11.72].
+See Comparative notes for [Verse 11.72].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -64,10 +64,7 @@ From all this it follows that what the verse means is that food and clothing, et
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.260), which explains that this
-prescribes the ‘Twelve Years’ Penance,’ halved in consideration of the
-sex of the offender;—and that in reference to an *unintentioned*
-offence.
+This verse is quoted in *Mitākṣarā* (3.260), which explains that this prescribes the ‘Twelve Years’ Penance,’ halved in consideration of the sex of the offender;—and that in reference to an *unintentioned* offence.
 
 It is quoted in *Aparārka* (p. 99).
 </details>
@@ -75,14 +72,10 @@ It is quoted in *Aparārka* (p. 99).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (3.296).—‘This same rule has been declared to be
-applicable to women who have become outcasts. They should however be
-given a dwelling in the vicinity of the household, and should also
-receive clothes, food and protection.’
+applicable to women who have become outcasts. They should however be given a dwelling in the vicinity of the household, and should also receive clothes, food and protection.’
 
 *Vaśiṣṭha* (Āparārka, p. 1208).—‘Four kinds of women must be entirely
-abandoned: One who has intercourse with her husband’s pupil, one who has
-intercourse with her Guru, one who has killed her husband, and one who
-has intercourse with a despicable person.’
+abandoned: One who has intercourse with her husband’s pupil, one who has intercourse with her Guru, one who has killed her husband, and one who has intercourse with a despicable person.’
 </details>
 
 <details><summary>भारुचिः</summary>

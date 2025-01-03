@@ -24,8 +24,7 @@ There would be no harm in the case of *vrīhi* and other corns.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vidhivat*’—‘Pronouncing a benediction on the giver’ (Govindarāja and
-Kullūka);—‘at the Sautrāmaṇi sacrifice’ (Nandana).
+‘*Vidhivat*’—‘Pronouncing a benediction on the giver’ (Govindarāja and Kullūka);—‘at the Sautrāmaṇi sacrifice’ (Nandana).
 
 This verse is quoted in *Aparārka* (p. 1164.)
 </details>
@@ -33,8 +32,7 @@ This verse is quoted in *Aparārka* (p. 1164.)
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Bṛhaspati* (Aparārka, p. 1164).—‘If a twice-born person intentionally
-touches wine, onions or garlic, he shall live for three days on
-Kuśa-water and also repeat the *Gāyatrī*.’
+touches wine, onions or garlic, he shall live for three days on Kuśa-water and also repeat the *Gāyatrī*.’
 </details>
 
 <details><summary>भारुचिः</summary>

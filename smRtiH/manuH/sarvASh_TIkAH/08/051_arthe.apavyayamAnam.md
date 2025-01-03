@@ -32,29 +32,18 @@ If the man he unable to pay the whole fine, he may be made to pay a fine even le
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 76), which adds the
-following notes:—‘*Āpavyayamānam*’, ‘denying’,—‘*Karaṇena*,’ ‘by
-evidence, documentary and otherwise’,—‘*vibhāvitam*’, ‘faced,
-convinced’;—such a debtor the king shall compel to pay the amount to the
-creditor;—and by reason of the man having denied what was true, the king
-shall exact from him a slight fine also.
+This verse is quoted in *Vivādaratnākara* (p. 76), which adds the following notes:—‘*Āpavyayamānam*’, ‘denying’,—‘*Karaṇena*,’ ‘by evidence, documentary and otherwise’,—‘*vibhāvitam*’, ‘faced, convinced’;—such a debtor the king shall compel to pay the amount to the creditor;—and by reason of the man having denied what was true, the king shall exact from him a slight fine also.
 
-It is quoted in *Parāśaramādhava* (Vyavahāra, p. 153), which adds that
-this rule is meant for the case where the debtor is a well behaved
-Brāhmaṇa;—in *Vyavahāratattva* (p. 61);—and in *Kṛtyakalpataru* (p.
-80b).
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 153), which adds that this rule is meant for the case where the debtor is a well behaved Brāhmaṇa;—in *Vyavahāratattva* (p. 61);—and in *Kṛtyakalpataru* (p. 80b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (6, 19-20).—‘If the debtor, forced to discharge the debt,
-complains to the King, he shall be fined in an equal sum. If a creditor
-sues before the King and fully proves his demand, the debtor shall pay
-to the King, as fine, the tenth part of the sum proved.’
+complains to the King, he shall be fined in an equal sum. If a creditor sues before the King and fully proves his demand, the debtor shall pay to the King, as fine, the tenth part of the sum proved.’
 
 *Bṛhaspati* (11.62).—‘A debtor denying his liability shall be compelled
-to pay, on the debt being proved, in court, by a document or by
-witnesses.’
+to pay, on the debt being proved, in court, by a document or by witnesses.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -33,39 +33,29 @@ If we read ‘*Sarvartugam*’—it means ‘the place where all the seasons are
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Sarvartukam*’—‘Provided with the produce of all seasons’ (Medhātithi,
-Govindarāja, Kullūka and Rāghavānanda);—‘habitable in all seasons’
-(Nandana and Nārāyaṇa).
+‘*Sarvartukam*’—‘Provided with the produce of all seasons’ (Medhātithi, Govindarāja, Kullūka and Rāghavānanda);—‘habitable in all seasons’ (Nandana and Nārāyaṇa).
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 407);—and in
 *Nītimayūkha* (p. 65), which explains ‘*sarvartukam*’ as ‘with gardens
-containing trees of fruits of all seasons, or stocked with fruits and
-flowers of all seasons’,—and ‘*sarvavastusamanvitam*’ as ‘stocked with
-things needed in several seasons’.
+containing trees of fruits of all seasons, or stocked with fruits and flowers of all seasons’,—and ‘*sarvavastusamanvitam*’ as ‘stocked with things needed in several seasons’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba* (2. 25.2-3).—‘He shall cause to be built a town and a
-palace, the gates of both being towards the South. The palace shall
-stand in the heart of the town.’
+palace, the gates of both being towards the South. The palace shall stand in the heart of the town.’
 
 *Śukranīti* (1.435-437).—‘The palace is to be built in the midst of the
-council-buildings, equipped with stables for elephants, horses and
-cattle, well adorned with spacious tanks, wells and water-pumps, having
-sides of equal length in all directions, high, towards the South and
-North.’
+council-buildings, equipped with stables for elephants, horses and cattle, well adorned with spacious tanks, wells and water-pumps, having sides of equal length in all directions, high, towards the South and North.’
 
 *Bṛhaspati* (Vīramitrodaya-Rājanīti, p. 206).—‘At the centre of the
-fort, the king shall build a separate house supplied with trees and
-water, to the East of which facing the East, should be the Hall.’
+fort, the king shall build a separate house supplied with trees and water, to the East of which facing the East, should be the Hall.’
 
 *Viṣṇudharmottara* (Do.).—‘Therein shall the king build a house, after
 consulting the astrologer and the architect.’
 
 *Kāmandaka* (4.58).—‘The king should build a castle, proof against the
-inclemencies of weather, well supplied with provisions and money and an
-abundant water-supply.’
+inclemencies of weather, well supplied with provisions and money and an abundant water-supply.’
 </details>
 
 <details><summary>भारुचिः</summary>

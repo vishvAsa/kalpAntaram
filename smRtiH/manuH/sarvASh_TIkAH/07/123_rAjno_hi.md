@@ -37,9 +37,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 253);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (12.87.12-13).—‘The guardians of the people appointed by
-the king are generally cruel and wicked and inclined to misappropriate
-the property of others; from these therefore he shall protect the
-people.’
+the king are generally cruel and wicked and inclined to misappropriate the property of others; from these therefore he shall protect the people.’
 
 *Yājñavalkya* (1.337).—(See under 120.)
 </details>

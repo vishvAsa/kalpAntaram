@@ -34,13 +34,7 @@ The deposit should be restored as unhesitatingly and quickly as it had been rece
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 664);—and in *Vivādaratnākara*
-(p. 94), which continues the explanation (see last note)—‘If the man
-admit the deposit and surrender it exactly in the condition in which it
-had been deposited—neither more nor less,—then the king should conclude
-that the former deposit, the subject-matter of the dispute, had not been
-made over to him, and he should be acquitted of the charge brought
-against him by the other party’.
+This verse is quoted in *Aparārka* (p. 664);—and in *Vivādaratnākara* (p. 94), which continues the explanation (see last note)—‘If the man admit the deposit and surrender it exactly in the condition in which it had been deposited—neither more nor less,—then the king should conclude that the former deposit, the subject-matter of the dispute, had not been made over to him, and he should be acquitted of the charge brought against him by the other party’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -48,8 +42,7 @@ against him by the other party’.
 **(verses 8.181-184)  
 **
 
-See Comparative notes for [Verse
-8.181-182].
+See Comparative notes for [Verse 8.181-182].
 </details>
 
 <details><summary>भारुचिः</summary>

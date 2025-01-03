@@ -39,8 +39,7 @@ It is not only that his purpose is not accomplished, in fact, such Brāhmaṇas�
 **(verses 4.195-199)  
 **
 
-See Comparative notes for [Verse
-4.195].
+See Comparative notes for [Verse 4.195].
 </details>
 
 <details><summary>Bühler</summary>

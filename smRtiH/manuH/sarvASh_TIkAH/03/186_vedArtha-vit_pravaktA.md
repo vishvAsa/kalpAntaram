@@ -50,11 +50,7 @@ Gautama (15.10-11) has declared that ‘gifts should first be made to young men;
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 557), which explains
-‘*pravaktā*’ as ‘the expounder of the meaning of the Veda’;—and
-‘*Sahasradaḥ*’ as ‘one who gives a thousand *cows*’ (quoting Medhātithi
-as the propounder of this explanation),—and ‘*śatāyuḥ*’ as ‘one who has
-completed a full hundred years’.
+This verse is quoted in *Madanapārijāta* (p. 557), which explains ‘*pravaktā*’ as ‘the expounder of the meaning of the Veda’;—and ‘*Sahasradaḥ*’ as ‘one who gives a thousand *cows*’ (quoting Medhātithi as the propounder of this explanation),—and ‘*śatāyuḥ*’ as ‘one who has completed a full hundred years’.
 
 ‘*Brahmacāri*’ is explained by Nandana as ‘the chaste man’.
 </details>
@@ -64,8 +60,7 @@ completed a full hundred years’.
 **(verses 3.184-186)  
 **
 
-See Comparative notes for [Verse
-3.184].
+See Comparative notes for [Verse 3.184].
 </details>
 
 <details><summary>Bühler</summary>

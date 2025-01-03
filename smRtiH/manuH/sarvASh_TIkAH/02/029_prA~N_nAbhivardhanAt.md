@@ -177,56 +177,28 @@ From all this it follows that the present text prescribes the sacraments for *ma
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Hiranya-madhu-sarpisām*’—Though the text clearly says that the child
-is to be fed with *gold, honey and butter*, it appears from the *Gṛhya
-Sūtras* that the last two substances only are to be given to the child,
-after they have been touched with a piece of gold.’—Buhler.
+‘*Hiranya-madhu-sarpisām*’—Though the text clearly says that the child is to be fed with *gold, honey and butter*, it appears from the *Gṛhya Sūtras* that the last two substances only are to be given to the child, after they have been touched with a piece of gold.’—Buhler.
 
 ‘*Mantravat*.’—The mantras are those used by his own sect or his gurus.
 
-Hopkins has the following note here:—“This commentator’s (Medhātithi’s)
-use of ‘some think’, ‘some explain’ is such, as in this passage, to
-suggest that they are occasionally used hypothetically, a possible view
-being set up and overthrown rather than actual statement that other
-commentators explain the passage so and so; a modification of meaning
-that would somewhat affect the amount of criticism devoted to the text
-before Medhātithi’s day.”
+Hopkins has the following note here:—“This commentator’s (Medhātithi’s) use of ‘some think’, ‘some explain’ is such, as in this passage, to suggest that they are occasionally used hypothetically, a possible view being set up and overthrown rather than actual statement that other commentators explain the passage so and so; a modification of meaning that would somewhat affect the amount of criticism devoted to the text before Medhātithi’s day.”
 
-Though this may be true, to a certain extent, regarding the references
-in the form of ‘*kechit*’, it cannot be so regarding those in the form
-‘*anye tu*’ or ‘*anyevya cakṣate*’ and such other moṛe definite
-references to *other explanations*.
+Though this may be true, to a certain extent, regarding the references in the form of ‘*kechit*’, it cannot be so regarding those in the form ‘*anye tu*’ or ‘*anyevya cakṣate*’ and such other moṛe definite references to *other explanations*.
 
-This verse has been quoted by Raghunandana in his *Smṛtitattva* (Jyotiṣ,
-p. 648)—dealing with the *Jātakarma* Sacrament;—also in the
+This verse has been quoted by Raghunandana in his *Smṛtitattva* (Jyotiṣ, p. 648)—dealing with the *Jātakarma* Sacrament;—also in the
 *Madanapārijāta* (p. 353).
 
-This verse is quoted in the *Puruṣārthacintāmaṇi* (p. 433) as laying
-down the time for the ‘Birth-sacrament’;—in the *Saṃskāramayūkha* (p.
-23) which adds the following notes—‘*Vardhana*’ is *cutting*; some
-people have held that no significance attaches to the masculine gender
-of ‘*puruṣaḥ*’; but Medhātithi has held that it is meant to be
-significant, there being no such rite in the case of the child without
-gender-signs, and for the woman it is performed without *mantras* in
-accordance with another text;—it is quoted in *Nṛsiṃhaprasāda*
-(Saṃskāra, p. 31 *b*);—in *Hemādri* (*Pariśeṣa*, p. 583),
-where‘*Vardhana*’ is explained as *cutting*; and again on p. 736, where
-the same is repeated;—in the same work (Śrāddha, p. 326);—in
+This verse is quoted in the *Puruṣārthacintāmaṇi* (p. 433) as laying down the time for the ‘Birth-sacrament’;—in the *Saṃskāramayūkha* (p. 23) which adds the following notes—‘*Vardhana*’ is *cutting*; some people have held that no significance attaches to the masculine gender of ‘*puruṣaḥ*’; but Medhātithi has held that it is meant to be significant, there being no such rite in the case of the child without gender-signs, and for the woman it is performed without *mantras* in accordance with another text;—it is quoted in *Nṛsiṃhaprasāda* (Saṃskāra, p. 31 *b*);—in *Hemādri* (*Pariśeṣa*, p. 583), where‘*Vardhana*’ is explained as *cutting*; and again on p. 736, where the same is repeated;—in the same work (Śrāddha, p. 326);—in
 *Saṃskāraratnamālā* (p. 831) to the effect that the rite is to be
 performed before the cutting of the umbilical cord;—and in
 *Smṛticandrikā* (Saṃskāra, p. 49) to the same effect; it reads
 ‘*puruṣam*’ for ‘*puruṣaḥ*’
 
 *Vīramitrodaya* (Saṃskāra, p. 192) quotes it as laying down the exact
-time for the performance of the sacrament, in the first half,—and the
-form of the sacrament in the second half. It quotes it again (p. 403) in
-support of the view that Manu having prescribed the sacraments of
+time for the performance of the sacrament, in the first half,—and the form of the sacrament in the second half. It quotes it again (p. 403) in support of the view that Manu having prescribed the sacraments of
 *Nāmakaraṇa*, *Niṣkramaṇa*, *Annaprāśana*, *Chuḍā, Upanayaṇa* and
 *Keśānta*, for the *male* child,—adds a verse (2. 66) to the effect that
-‘all this is to be done for the *female* child &c. &c.,—which makes it
-clear that the *Upanayaṇa rite* should be performed for the female child
-also; and the statement (in 2-67) that for women the ‘marriage’
-constitutes the ‘upanayaṇa’ only provides a possible *substitute* for
+‘all this is to be done for the *female* child &c. &c.,—which makes it clear that the *Upanayaṇa rite* should be performed for the female child also; and the statement (in 2-67) that for women the ‘marriage’ constitutes the ‘upanayaṇa’ only provides a possible *substitute* for
 *Upanayaṇa* in the case of females.
 
 This verse is quoted in *Nirṇayasindhu* (p. 171) as laying down the
@@ -240,11 +212,9 @@ This verse is quoted in *Nirṇayasindhu* (p. 171) as laying down the
 *Viṣṇu* (Smṛti, 1.27.1).—‘On the birth of the child, the Jātakarma.’
 
 *Āśvalāyana* (Gṛhyasūtrā, 15.1.3).—‘When the boy is born, before he has
-been touched by any other person, he should be made to eat, with a
-golden spoon, butter, honey and gold, with the mantra—‘*Pra te*
+been touched by any other person, he should be made to eat, with a golden spoon, butter, honey and gold, with the mantra—‘*Pra te*
 *dadhāmi*, *etc*.’—‘The following mantra is to he recited into the ear
-of the child —*medhānte devaḥ savitā*, *etc*.’—‘The shoulders are
-touched with the mantra —*Aśmā bhava*’, etc.
+of the child —*medhānte devaḥ savitā*, *etc*.’—‘The shoulders are touched with the mantra —*Aśmā bhava*’, etc.
 
 *Āṣhvalāyana* (Vīra-Saṃskāra, p. 193).—‘The Jātakarma should be
 performed by the twice-born immediately on the birth of the child.’
@@ -261,27 +231,22 @@ should perform the Jātakarma sacrament after having performed the
 consequent on child-birth should be performed.’
 
 *Garga* (*Ibid*).—‘The Jātakarma is prescribed as to be performed, as
-soon as the boy is born, before he is put to the mother’s breast, or
-before the umbilical cord has been cut.’
+soon as the boy is born, before he is put to the mother’s breast, or before the umbilical cord has been cut.’
 
 *Śaṅkha* (Parāśaramādhava, p. 110).—‘To all members of his family he
 shall give quadrupeds, grains, gold and other things.’
 
 *Śaṅkha-Likhita* (*Ibid*).—‘On. birth, there is Jātakarma; and feeding
-of the child with barley-dour, honey, butter, by means of a golden
-spoon.’
+of the child with barley-dour, honey, butter, by means of a golden spoon.’
 
 *Baijavāpa* (*Ibid*).—‘As soon as the boy is born, before the cutting of
-the cord, he should be fed with water touched with gold, and also with
-curd, honey, butter.’
+the cord, he should be fed with water touched with gold, and also with curd, honey, butter.’
 
 *Viṣṇudarmottara* (Parāśaramādhava, p. 440).—‘On the birth of the son,
-the Śrāddha should be performed before the cutting of the umbilical
-cord; or after the expiry of the period of impurity.’
+the Śrāddha should be performed before the cutting of the umbilical cord; or after the expiry of the period of impurity.’
 
 *Vyāsa* (Do.)—‘When the man is away from home, or when his wife is in
-her courses, when he has no materials nor Brāh-niaṇas at hand, lie shall
-perform the Birth-śrāddha with gold.’
+her courses, when he has no materials nor Brāh-niaṇas at hand, lie shall perform the Birth-śrāddha with gold.’
 
 *Samvārta* (Paraśaramādhava, p. 439).—‘On the birth of the son, bathing
 with clothes on has been prescribed for the father.’
@@ -290,21 +255,13 @@ with clothes on has been prescribed for the father.’
 offer cooked food to the Brāhmaṇas.’
 
 *Pāraskara* (*Ibid*, p. 440).—‘When the boy is horn, before the cord is
-cut, one should perform rites tending to longevity and intelligence;
-uttering into his right ear, the word ‘*Vāk*’ and then his secret name.’
+cut, one should perform rites tending to longevity and intelligence; uttering into his right ear, the word ‘*Vāk*’ and then his secret name.’
 
 *Brahmapurūṇa* (Aparārka, p. 20) and *Ādityapurāṇa*, (Parāśaramādhava,
-p. 440).—‘Gods and Pitṛs come to the house of the twice-born whenever a
-son is born; therefore on that occasion, sacred rites should be
-performed; one should give away gold, land, cows and chariots,
-umbrellas, goats, garlands, sesamum, houses and much wealth, and after
-performing the śrāddha, he should offer cooked food to Brāhmaṇas.’
+p. 440).—‘Gods and Pitṛs come to the house of the twice-born whenever a son is born; therefore on that occasion, sacred rites should be performed; one should give away gold, land, cows and chariots, umbrellas, goats, garlands, sesamum, houses and much wealth, and after performing the śrāddha, he should offer cooked food to Brāhmaṇas.’
 
 *Hārīta* (Do.)—‘On the birth of the son, the Pitṛs become delighted;
-hence that day is sacred; hence one should give away vessels full of
-sesamum, along with gold; and having invited Brāhmaṇas, one should make
-offerings to the Pitṛs; and prior to the cutting of the umbilical cord,
-they make
+hence that day is sacred; hence one should give away vessels full of sesamum, along with gold; and having invited Brāhmaṇas, one should make offerings to the Pitṛs; and prior to the cutting of the umbilical cord, they make
 </details>
 
 <details><summary>Bühler</summary>

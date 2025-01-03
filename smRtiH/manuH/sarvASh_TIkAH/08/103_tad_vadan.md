@@ -38,8 +38,7 @@ Witnesses should tell the truth; and that in the manner in which it is enjoined;
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Buhler wrongly says that Nandana omits this verse; Hopkins is equally
-inaccurate in saying that Nandana places this verse after 104.
+Buhler wrongly says that Nandana omits this verse; Hopkins is equally inaccurate in saying that Nandana places this verse after 104.
 
 This verse is quoted in *Kṛtyakalpataru* (38a).
 </details>
@@ -47,8 +46,7 @@ This verse is quoted in *Kṛtyakalpataru* (38a).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Bṛhaspati* (7.34).—‘Let him preserve, even by telling a lie, a Brāhmaṇa
-who has sinned once through error and is in peril of his life, and is
-oppressed by rogues and others.’
+who has sinned once through error and is in peril of his life, and is oppressed by rogues and others.’
 </details>
 
 <details><summary>भारुचिः</summary>

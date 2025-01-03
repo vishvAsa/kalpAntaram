@@ -53,15 +53,13 @@ The form used is due to the exigencies of metre; and exigencies of metre justify
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Nandana places verse 27 before 20. There appears to be no justification
-for deviating from the order adopted by all other commentators.
+Nandana places verse 27 before 20. There appears to be no justification for deviating from the order adopted by all other commentators.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata*, 12.232.8.—‘The qualities of the preceding go over to the
-succeeding and whatever it is and in whatever form and place, so many
-qualities it is declared to possess.’
+succeeding and whatever it is and in whatever form and place, so many qualities it is declared to possess.’
 </details>
 
 <details><summary>Bühler</summary>

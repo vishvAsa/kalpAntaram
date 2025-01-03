@@ -68,8 +68,7 @@ The mention of such results following from the act in question does not deprive 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 257) as eulogising
-the Twilight Prayer,—where ‘*malam*’ is explained as *sin*.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 257) as eulogising the Twilight Prayer,—where ‘*malam*’ is explained as *sin*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -77,18 +76,10 @@ the Twilight Prayer,—where ‘*malam*’ is explained as *sin*.
 *Vaśiṣṭha-Smṛti* (26. 2. 8).—(See under 101.)
 
 *Baudhāyana-Dharmasūtra* (2. 4. 18-21).—‘The sin committed through the
-reproductive organs, through the feet, through the arms, through the
-mind, through speech,—from all this one becomes absolved by offering the
-Evening Prayers. If one offers the Evening Prayers, him Varuṇa captures
-not. Similarly by offering the Morning Prayers, one becomes absolved
-from sins committed during the night.’
+reproductive organs, through the feet, through the arms, through the mind, through speech,—from all this one becomes absolved by offering the Evening Prayers. If one offers the Evening Prayers, him Varuṇa captures not. Similarly by offering the Morning Prayers, one becomes absolved from sins committed during the night.’
 
 *Yama (Parāśaramādhava*, p. 278).—‘Those who constantly observe the
-Twilight have their sins removed;... whatever sin is committed during
-the day, by act, mind and word, all that one destroys by means of the
-Evening Prayers and by Breath-control; whatever sin is committed during
-the night, all that one destroys by means of the Morning Prayers and by
-Breath-control.’
+Twilight have their sins removed;... whatever sin is committed during the day, by act, mind and word, all that one destroys by means of the Evening Prayers and by Breath-control; whatever sin is committed during the night, all that one destroys by means of the Morning Prayers and by Breath-control.’
 </details>
 
 <details><summary>Bühler</summary>

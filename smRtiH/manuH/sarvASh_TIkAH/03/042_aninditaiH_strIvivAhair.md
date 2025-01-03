@@ -34,8 +34,7 @@ This verse also is quoted in *Vīramitrodaya* (Saṃskāra, p. 865);—in
 **(verses 3.39-42)  
 **
 
-See Comparative notes for [Verse
-3.39].
+See Comparative notes for [Verse 3.39].
 </details>
 
 <details><summary>Bühler</summary>

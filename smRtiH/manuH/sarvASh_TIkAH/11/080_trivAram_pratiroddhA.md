@@ -41,8 +41,7 @@ This verse is quoted in *Mitākṣarā* (3.246).
 
 **(verses 11.72-86)**
 
-See Comparative notes for [Verse
-11.72].
+See Comparative notes for [Verse 11.72].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -30,16 +30,14 @@ In such oases the character of the witnesses need not be investigated;—this pr
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Kṛtyakalpataru* (32a);—and in *Vīramitrodaya*
-(Vyavahāra, 50b).
+This verse is quoted in *Kṛtyakalpataru* (32a);—and in *Vīramitrodaya* (Vyavahāra, 50b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 8.70-72)**
 
-See Comparative notes for [Verse
-8.70].
+See Comparative notes for [Verse 8.70].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -108,17 +108,9 @@ In connection with adultery some people hold the following opinion—The avoidin
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The second half of this verse is quoted in *Mitākṣarā* (1.70), and again
-under 3.265, as laying down the ‘Three Years’ Penance’ and such other
-penances for the woman’s offence of adultery with a man of the higher
-caste;—and in *Aparārka* (p. 98);—and the first half is quoted in
+The second half of this verse is quoted in *Mitākṣarā* (1.70), and again under 3.265, as laying down the ‘Three Years’ Penance’ and such other penances for the woman’s offence of adultery with a man of the higher caste;—and in *Aparārka* (p. 98);—and the first half is quoted in
 *Parāśaramādhava* (Prāyaścitta, p. 285), which explains that the first
-half of the verse lays down what is to be done by the husband of the
-offending woman, and the second half what is to be done by the woman
-herself;—and in *Prāyaścittaviveka* (p. 370), which says that the
-meaning is that the husband should keep her in a room, without toilet or
-bath, meanly dressed, sleeping on the ground, with food just enough to
-keep her alive,—all this till her next menstruation.
+half of the verse lays down what is to be done by the husband of the offending woman, and the second half what is to be done by the woman herself;—and in *Prāyaścittaviveka* (p. 370), which says that the meaning is that the husband should keep her in a room, without toilet or bath, meanly dressed, sleeping on the ground, with food just enough to keep her alive,—all this till her next menstruation.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -127,8 +119,7 @@ keep her alive,—all this till her next menstruation.
 **
 
 *Mahābhārata* (12.165.63).—‘If one’s wife has misbehaved, she shall be
-kept confined, and made to perform the same penance that has been
-prescribed for the man committing adultery.’
+kept confined, and made to perform the same penance that has been prescribed for the man committing adultery.’
 
 *Viṣṇu* (53.8).—‘A woman who has committed adultery once must perform
 that penance which has been prescribed for the adulterer.’
@@ -137,22 +128,14 @@ that penance which has been prescribed for the adulterer.’
 penances are only half of what has been prescribed for men.’
 
 *Bṛhaspati* (Do., p. 1124).—‘The woman who commits adultery should
-perform that same penance which men perform for the guilt of having
-intercourse with women of the same caste...... If the act has been
-committed without the woman’s consent, her husband shall keep her
-guarded in the house, clad in dirty clothes, sleeping on the ground, and
-subsisting on food given to her just enough to keep her alive; and he
-should have the expiatory penances of *Kṛcchra* and *Parāka* performed
-by her.’
+perform that same penance which men perform for the guilt of having intercourse with women of the same caste...... If the act has been committed without the woman’s consent, her husband shall keep her guarded in the house, clad in dirty clothes, sleeping on the ground, and subsisting on food given to her just enough to keep her alive; and he should have the expiatory penances of *Kṛcchra* and *Parāka* performed by her.’
 
 *Uśanas* (Do., p. 1125).—‘If a man’s wife has misbehaved, he should keep
-her clad in inferior clothes, with all her authority taken away from
-her; and she should he made to perform either the *Cāndrāyaṇa* or the
+her clad in inferior clothes, with all her authority taken away from her; and she should he made to perform either the *Cāndrāyaṇa* or the
 *Prājāpatya*.’
 
 *Saṃvarta* (Do.).—‘If a woman has been ravished by force, with her heart
-burning with shame, she becomes purified by performing the *Prājāpatya*;
-there is no other purification for her.’
+burning with shame, she becomes purified by performing the *Prājāpatya*; there is no other purification for her.’
 
 *Ṛṣyaśṛṇga* (Do.).—‘If a woman has been ravished by force by a man of
 her own caste, her expiation shall consist of fasting for three days.’

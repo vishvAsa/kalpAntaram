@@ -30,24 +30,15 @@ On ‘*passing*’ these, one should bathe ‘*in his clothes*’—the clothes 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.293), which adds the following
-notes—‘*Vinā adbhiḥ*’, when there is no water near at hand,—‘*śārīram*,’
-the passing of urine and stools;—it adds that this refers to cases where
-the act has been done *unintentionally*.
+This verse is quoted in *Mitākṣarā* (3.293), which adds the following notes—‘*Vinā adbhiḥ*’, when there is no water near at hand,—‘*śārīram*,’ the passing of urine and stools;—it adds that this refers to cases where the act has been done *unintentionally*.
 
-It is quoted in *Aparārka* (p. 1187), which explains ‘*Śārīram*’ as the
-passing of urine and stools;—and in the *Prāyaścittaviveka* (p. 456),
-which explains ‘*Śārīram*’ as ‘the passing of urine or stools,’ and says
-that it refers to cases where the man omits the use of water on account
-of dire urgency.
+It is quoted in *Aparārka* (p. 1187), which explains ‘*Śārīram*’ as the passing of urine and stools;—and in the *Prāyaścittaviveka* (p. 456), which explains ‘*Śārīram*’ as ‘the passing of urine or stools,’ and says that it refers to cases where the man omits the use of water on account of dire urgency.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yama* (Aparārka, p. 1187).—‘When a Brāhmaṇa is travelling in places
-where there is no water, if he happen to become unclean, he should
-plunge into water with clothes on, as soon as he finds it; or he may
-repeat the *Gāyatrī* a hundred times, which is the highest kind of
+where there is no water, if he happen to become unclean, he should plunge into water with clothes on, as soon as he finds it; or he may repeat the *Gāyatrī* a hundred times, which is the highest kind of
 *Bath*.’
 </details>
 

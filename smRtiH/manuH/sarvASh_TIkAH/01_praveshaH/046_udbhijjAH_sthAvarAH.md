@@ -35,9 +35,7 @@ constitutes the distinguishing feature of *Vṛkṣas* (Perennial Trees); the ch
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Medhātithi takes ‘*udbhijjāḥ sthāvarāḥ*’ as the subject, and
-‘*bījakāṇḍaprarohiṇaḥ*’ as the predicate of the sentence. Buhler
-reverses this.
+Medhātithi takes ‘*udbhijjāḥ sthāvarāḥ*’ as the subject, and ‘*bījakāṇḍaprarohiṇaḥ*’ as the predicate of the sentence. Buhler reverses this.
 </details>
 
 <details><summary>Bühler</summary>

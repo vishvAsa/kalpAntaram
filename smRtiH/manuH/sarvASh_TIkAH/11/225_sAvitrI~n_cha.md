@@ -30,10 +30,7 @@ He shall constantly repeat the Sāvitrī, as also other purificatory texts, to t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 1230), which notes that in all
-these penances, the capacity of the penitent is to be taken into
-consideration;—in *Madanapārijāta* (p. 748);—and in the *Nṛsiṃhaprasāda*
-(Prāyaścitta 38a).
+This verse is quoted in *Aparārka* (p. 1230), which notes that in all these penances, the capacity of the penitent is to be taken into consideration;—in *Madanapārijāta* (p. 748);—and in the *Nṛsiṃhaprasāda* (Prāyaścitta 38a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

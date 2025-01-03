@@ -36,16 +36,14 @@ This is quite true; but the statement in the text is based upon an assumed disti
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 674);—and in *Kṛtyakalpataru*
-(35b).
+This verse is quoted in *Aparārka* (p. 674);—and in *Kṛtyakalpataru* (35b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 8.89-97)**
 
-\[See the texts under [79 *et
-seq*.]\]
+\[See the texts under [79 *et seq*.]\]
 </details>
 
 <details><summary>भारुचिः</summary>

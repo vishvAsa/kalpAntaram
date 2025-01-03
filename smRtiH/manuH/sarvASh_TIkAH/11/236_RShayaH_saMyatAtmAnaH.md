@@ -29,8 +29,7 @@ By means of this Austerity, they survey, as if by direct perception, the whole o
 **(verses 11.234-244)  
 **
 
-See Comparative notes for [Verse
-11.234].
+See Comparative notes for [Verse 11.234].
 </details>
 
 <details><summary>भारुचिः</summary>

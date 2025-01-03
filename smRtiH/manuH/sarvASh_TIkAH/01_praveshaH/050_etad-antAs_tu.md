@@ -36,12 +36,9 @@ This description of the cycle of births and deaths as being due to Virtue and Vi
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Bhūta*’—here stands for the *Kṣetrajña*, the Conscious Being ensouling
-the body—according to Govindarāja and Kullūka.
+‘*Bhūta*’—here stands for the *Kṣetrajña*, the Conscious Being ensouling the body—according to Govindarāja and Kullūka.
 
-‘*Nityam*’—qualifies ‘*ghore*’; ‘Ever terrible’ according to Medhātithi,
-Govindarāja and Nārāyaṇa, the last, along with Nandana, however,
-suggests the reading ‘*nitye*’ meaning ‘in this eternal samsāra.’
+‘*Nityam*’—qualifies ‘*ghore*’; ‘Ever terrible’ according to Medhātithi, Govindarāja and Nārāyaṇa, the last, along with Nandana, however, suggests the reading ‘*nitye*’ meaning ‘in this eternal samsāra.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -24,9 +24,7 @@ This is a recapitulation.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 232);—in *Hemādri* (Vrata, p.
-14);—in *Vīramitrodaya* (Paribhāṣā, p. 64), which explains ‘*tamas*’ as
-‘sin’;—and in *Nṛsiṃhaprasāda* (Saṃskāra, pp. 17a and b).
+This verse is quoted in *Aparārka* (p. 232);—in *Hemādri* (Vrata, p. 14);—in *Vīramitrodaya* (Paribhāṣā, p. 64), which explains ‘*tamas*’ as ‘sin’;—and in *Nṛsiṃhaprasāda* (Saṃskāra, pp. 17a and b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -34,8 +32,7 @@ This verse is quoted in *Aparārka* (p. 232);—in *Hemādri* (Vrata, p.
 **(verses 4.241-242)  
 **
 
-See Comparative notes for [Verse
-4.241].
+See Comparative notes for [Verse 4.241].
 </details>
 
 <details><summary>Bühler</summary>

@@ -26,9 +26,7 @@ In the absence of such alms.—
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 945) as laying down the means of
-subsistence for the Hermit, in the event of his being unable to obtain
-fruits and roots.
+This verse is quoted in *Aparārka* (p. 945) as laying down the means of subsistence for the Hermit, in the event of his being unable to obtain fruits and roots.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

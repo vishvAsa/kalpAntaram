@@ -57,35 +57,23 @@ True; this would be so if there were not a great difference between the expiatio
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 1074), which explains that
-‘*payaḥ*’ here stands for *milk*;—again on p. 1160, where it is added
-that this refers to cases where the water has been drunk and vomitted by
-women or children, and it was contained in a vessel that had contained
-wine, hut was not wet with it, so that the water had not imbibed either
-the taste or the smell of the liquor.
+This verse is quoted in *Aparārka* (p. 1074), which explains that ‘*payaḥ*’ here stands for *milk*;—again on p. 1160, where it is added that this refers to cases where the water has been drunk and vomitted by women or children, and it was contained in a vessel that had contained wine, hut was not wet with it, so that the water had not imbibed either the taste or the smell of the liquor.
 
-It is quoted in *Parāśaramādhava* (Prāyaścitta, p. 349), which adds that
-this refers to cases of unintentional repeated drinking of the
-water;—and in *Prāyaścittaviveka* (p. 324), which says that ‘*payaḥ*’
-means *milk*; ‘*Śaṅkhapuṣpī*’ is a particular herb.
+It is quoted in *Parāśaramādhava* (Prāyaścitta, p. 349), which adds that this refers to cases of unintentional repeated drinking of the water;—and in *Prāyaścittaviveka* (p. 324), which says that ‘*payaḥ*’ means *milk*; ‘*Śaṅkhapuṣpī*’ is a particular herb.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (2.1.22).—‘He who drinks water which has stood in a vessel
-used for keeping *Surā*, shall live six days on milk in which leaves of
-the *Śaṅkhapuṣpī* plant has been boiled.’
+used for keeping *Surā*, shall live six days on milk in which leaves of the *Śaṅkhapuṣpī* plant has been boiled.’
 
 *Vaśiṣṭha* (20-21).—‘If a Brāhmaṇa drinks water which has stood in a
-vessel used for keeping wine, he becomes pure by drinking, during three
-days, water mixed with a decoction of lotus, Udumbara, Bilva, and Palāsa
-leaves.’
+vessel used for keeping wine, he becomes pure by drinking, during three days, water mixed with a decoction of lotus, Udumbara, Bilva, and Palāsa leaves.’
 
 *Viṣṇu* (51.23-24).—‘After having drunk water from a vessel in which
 liquor had been kept, he must drink for seven days milk boiled with the
 *Śaṅkhapuṣpī* plant. After having drunk water from a vessel in which any
-intoxicating beverage had been kept, he must drink the said milk for
-five days.’
+intoxicating beverage had been kept, he must drink the said milk for five days.’
 </details>
 
 <details><summary>भारुचिः</summary>

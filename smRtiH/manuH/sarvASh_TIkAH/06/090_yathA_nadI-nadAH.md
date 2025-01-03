@@ -32,8 +32,7 @@ Just as the Ocean is the resting place for all kinds of water, so is the Househo
 
 **(verses 6.87-93)**
 
-See Comparative notes for [Verse
-6.87].
+See Comparative notes for [Verse 6.87].
 
 **(verses 6.90)**
 
@@ -44,10 +43,7 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 563);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (8.15-17).—‘As all rivers, great and small, find a resting
-place in the ocean, even so men of all orders find protection with
-Householders. As all creatures exist through the protection afforded by
-their mothers, even so all mendicants subsist through the protection
-afforded by Householders.’
+place in the ocean, even so men of all orders find protection with Householders. As all creatures exist through the protection afforded by their mothers, even so all mendicants subsist through the protection afforded by Householders.’
 </details>
 
 <details><summary>भारुचिः</summary>

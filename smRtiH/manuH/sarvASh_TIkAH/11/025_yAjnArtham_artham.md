@@ -24,8 +24,7 @@ If a man has begged some wealth for the purpose of performing a sacrifice, and i
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (1.127), which explains ‘*bhāsa*’ as
-the *Śakunta* bird.
+This verse is quoted in *Mitākṣarā* (1.127), which explains ‘*bhāsa*’ as the *Śakunta* bird.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -33,8 +32,7 @@ the *Śakunta* bird.
 **(verses 11.24-25)  
 **
 
-See Comparative notes for [Verse
-11.24].
+See Comparative notes for [Verse 11.24].
 </details>
 
 <details><summary>भारुचिः</summary>

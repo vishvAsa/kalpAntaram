@@ -28,9 +28,7 @@ This verse also is only reiterative of what has gone before; the terms ‘*vaṇ
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 397), to the effect
-that the wielding of weapons for the protection of the weak is the duty
-of the Kṣatriya only;—and in *Mitākṣarā* (1.119).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 397), to the effect that the wielding of weapons for the protection of the weak is the duty of the Kṣatriya only;—and in *Mitākṣarā* (1.119).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -41,8 +39,7 @@ of the Kṣatriya only;—and in *Mitākṣarā* (1.119).
 [\[See texts under 9.326 *et
 seq*.\]]
 
-See Comparative notes for [Verse
-10.77].
+See Comparative notes for [Verse 10.77].
 </details>
 
 <details><summary>Bühler</summary>

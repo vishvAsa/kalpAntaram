@@ -19,17 +19,13 @@ During summer he shall keep five fires; during the rains, he shall have the sky 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-He shall heat himself with five fires; he shall kindle, four fires close
-to himself on his four sides and shall expose himself to the sun at the
-head.
+He shall heat himself with five fires; he shall kindle, four fires close to himself on his four sides and shall expose himself to the sun at the head.
 
 During the rainy season, he shall have the sky for his sole shelter;
 *i.e*., he shall live in a place where the rain falls, and he shall not
 hold the umbrella or any such thing to ward off the rain.
 
-‘*During the winter*’,—*i.e*., whenever it is cold; *i.e*., during the
-two seasons of *Hemanta* and *Śiśira* (Winter and Midwinter)—he shall
-have his clothes wet.
+‘*During the winter*’,—*i.e*., whenever it is cold; *i.e*., during the two seasons of *Hemanta* and *Śiśira* (Winter and Midwinter)—he shall have his clothes wet.
 
 ‘*Gradually*’— In due course.—(23).
 </details>
@@ -40,23 +36,15 @@ have his clothes wet.
 **
 
 *Viṣṇu* (95.1-4).—‘The hermit should emaciate his frame by the practice
-of austerities. In summer he should expose himself to five fires. During
-the rains, he should sleep in the open air. In the winter, he should
-wear wet clothes.’
+of austerities. In summer he should expose himself to five fires. During the rains, he should sleep in the open air. In the winter, he should wear wet clothes.’
 
 *Yājñavalkya* (3.52).—‘During the summer, he shall sit in the middle of
-five fires; during the rains, he shall he in an open space; during the
-winter he shall wear wet clothes; and he shall perform austerities to
-the best of his capacity.’
+five fires; during the rains, he shall he in an open space; during the winter he shall wear wet clothes; and he shall perform austerities to the best of his capacity.’
 
 *Do*. (3.46).—(See under 5.)
 
 *Śaṅkha* (Aparārka, p. 944).—‘In the course of time, he should emaciate
-his frame by the practice of restrictions, observances, *mantras* and
-fastings, to the best of his capacity; clothed in *kuśa* -grass, rags,
-hark and skins, wearing his hair in braids, having an upper garment of
-the skin of the black antelope and observing such rules as sleeping in
-water, among five fires, or in open space.’
+his frame by the practice of restrictions, observances, *mantras* and fastings, to the best of his capacity; clothed in *kuśa* -grass, rags, hark and skins, wearing his hair in braids, having an upper garment of the skin of the black antelope and observing such rules as sleeping in water, among five fires, or in open space.’
 </details>
 
 <details><summary>भारुचिः</summary>

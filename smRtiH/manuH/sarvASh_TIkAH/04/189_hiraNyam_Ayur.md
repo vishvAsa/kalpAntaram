@@ -22,8 +22,7 @@ In the case of the expression, ‘*hiraṇyam āyuḥ*,’ the form of the verb 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Prāyaścittaviveka* (p. 405), which has the same
-note as on the preceding verse.
+This verse is quoted in *Prāyaścittaviveka* (p. 405), which has the same note as on the preceding verse.
 </details>
 
 <details><summary>Bühler</summary>

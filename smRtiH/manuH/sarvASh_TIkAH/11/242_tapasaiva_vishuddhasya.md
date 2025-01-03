@@ -59,8 +59,7 @@ When the gods are described as ‘accepting the offerings,’ it is not meant th
 **(verses 11.234-244)  
 **
 
-See Comparative notes for [Verse
-11.234].
+See Comparative notes for [Verse 11.234].
 </details>
 
 <details><summary>भारुचिः</summary>

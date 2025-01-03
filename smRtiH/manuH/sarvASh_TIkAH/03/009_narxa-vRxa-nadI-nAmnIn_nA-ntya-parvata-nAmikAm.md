@@ -47,17 +47,9 @@ This compound (‘*parvatanāmikām*’) also is to be expounded as the former; 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 732), where
-‘*ṛkṣa*’ is explained as ‘asterism;’—and ‘*antya*’ as ‘*mleccha*;’—in
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 732), where ‘*ṛkṣa*’ is explained as ‘asterism;’—and ‘*antya*’ as ‘*mleccha*;’—in
 *Smṛtitattva* (II, p. 149) to the same effect as the preceding
-verse;’—in *Vīramitrodaya* (Lakṣaṇa, p. 120), where ‘*antya*’ is
-explained as ‘*antyaja*,’ *i.e*., *cāṇḍāla*;—in *Aparārka* (p. 78) as
-indicating the unmarriageability of girls with the wrong type of
-names;—in *Samkāramayūkha* (p. 74);—in *Saṃskāraratnamālā* (p. 510),
-which explains ‘*antya*’ as bearing a Mleccha name;—in *Smṛticandrikā*
-(Saṃskāra, p. 201), which explains ‘*ṛkṣa*’ as ‘*nakṣatra*,’ ‘*antya*’
-as ‘*mleccha*,’ and ‘*bhīṣaṇā*’ as terrifying;—and in *Nṛsiṃhaprasāda*
-(Saṃskāra, p. 50a).
+verse;’—in *Vīramitrodaya* (Lakṣaṇa, p. 120), where ‘*antya*’ is explained as ‘*antyaja*,’ *i.e*., *cāṇḍāla*;—in *Aparārka* (p. 78) as indicating the unmarriageability of girls with the wrong type of names;—in *Samkāramayūkha* (p. 74);—in *Saṃskāraratnamālā* (p. 510), which explains ‘*antya*’ as bearing a Mleccha name;—in *Smṛticandrikā* (Saṃskāra, p. 201), which explains ‘*ṛkṣa*’ as ‘*nakṣatra*,’ ‘*antya*’ as ‘*mleccha*,’ and ‘*bhīṣaṇā*’ as terrifying;—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 50a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -65,8 +57,7 @@ as ‘*mleccha*,’ and ‘*bhīṣaṇā*’ as terrifying;—and in *Nṛsiṃ
 **(verses 3.8-9)  
 **
 
-See Comparative notes for [Verse
-3.8].
+See Comparative notes for [Verse 3.8].
 </details>
 
 <details><summary>Bühler</summary>

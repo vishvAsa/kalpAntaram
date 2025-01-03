@@ -24,8 +24,7 @@ The meaning of ‘*loathing*’ is well-known.—(229)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Śarīram*.’—‘The soul in the body’ (Medhātithi, Govindarāja and
-Kullūka);—‘the subtle body’ (Nārāyaṇa).
+‘*Śarīram*.’—‘The soul in the body’ (Medhātithi, Govindarāja and Kullūka);—‘the subtle body’ (Nārāyaṇa).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -33,8 +32,7 @@ Kullūka);—‘the subtle body’ (Nārāyaṇa).
 **(verses 11.227-233)  
 **
 
-See Comparative notes for [Verse
-11.228].
+See Comparative notes for [Verse 11.228].
 </details>
 
 <details><summary>भारुचिः</summary>

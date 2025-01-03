@@ -44,8 +44,7 @@ Conciliation and the rest having failed,—even though victory be uncertain, and
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 403);—in
 *Vīramitrodaya* (Rājanīti, p. 404);—and in *Smṛtitattva* (p. 742), which
-reading ‘*saṃyattaḥ*’ (for ‘*sampannaḥ*’), explains it as ‘with due
-effort’.
+reading ‘*saṃyattaḥ*’ (for ‘*sampannaḥ*’), explains it as ‘with due effort’.
 </details>
 
 <details><summary>भारुचिः</summary>

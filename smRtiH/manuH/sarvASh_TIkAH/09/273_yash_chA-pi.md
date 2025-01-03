@@ -18,10 +18,7 @@ If one who subsists on religion deviates from religious ordinances, he shall pun
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 625), which adds the
-following notes:—‘*Samaya*’, scriptural conventions;—‘*dharmajīvanaḥ*’
-Brāhmaṇa and the rest;—‘*āploṣet*’, should bum *i.e*., inflict pain;—and
-in *Vyavahāra-Bālambhaṭṭī* (p. 991).
+This verse is quoted in *Vivādaratnākara* (p. 625), which adds the following notes:—‘*Samaya*’, scriptural conventions;—‘*dharmajīvanaḥ*’ Brāhmaṇa and the rest;—‘*āploṣet*’, should bum *i.e*., inflict pain;—and in *Vyavahāra-Bālambhaṭṭī* (p. 991).
 </details>
 
 <details><summary>भारुचिः</summary>

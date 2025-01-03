@@ -40,9 +40,7 @@ This is a declamatory supplement to what has gone before.—(65)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskara, p. 737, which notes
-that this verse supplies the reason for what has been asserted in the
-preceding verse;—in *Nṛsiṃhaprasāda* (Vyavahāra, p. 38a),—and in
+This verse is quoted in *Vīramitrodaya* (Saṃskara, p. 737, which notes that this verse supplies the reason for what has been asserted in the preceding verse;—in *Nṛsiṃhaprasāda* (Vyavahāra, p. 38a),—and in
 *Vīramitrodaya* (Vyavahāra, 186a).
 </details>
 
@@ -51,8 +49,7 @@ preceding verse;—in *Nṛsiṃhaprasāda* (Vyavahāra, p. 38a),—and in
 **(verses 9.60-68)  
 **
 
-See Comparative notes for [Verse
-9.60].
+See Comparative notes for [Verse 9.60].
 </details>
 
 <details><summary>भारुचिः</summary>

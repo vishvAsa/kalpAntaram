@@ -70,20 +70,16 @@ There is no force in this; as Munu’s way of teaching Dharma is diverse: someti
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Nirṇayasindhu* (p. 284);—and in *Hemādri*
-(Śrāddha, p. 382).
+This verse is quoted in *Nirṇayasindhu* (p. 284);—and in *Hemādri* (Śrāddha, p. 382).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Laghu-Śātātapa* (99-100).—\[After reproducing Manu 145, it adds the
-following.\]—‘At the Śrāddha one shall feed the Sāmavedin; at the
-Vaiśvadeva offering, the Ṛgvedin; at the Pacificatory rite, the
-Yajurvedin; and at the Harder rites, the Atharvavedin.’
+following.\]—‘At the Śrāddha one shall feed the Sāmavedin; at the Vaiśvadeva offering, the Ṛgvedin; at the Pacificatory rite, the Yajurvedin; and at the Harder rites, the Atharvavedin.’
 
 *Laghvāśvalāyana* (24.15).—‘At the Śrāddha, one should invite such
-Ṛgvedin Brāhmaṇas as are learned in the Veda; in the absence of them,
-those learned in the other Vedas.’
+Ṛgvedin Brāhmaṇas as are learned in the Veda; in the absence of them, those learned in the other Vedas.’
 </details>
 
 <details><summary>Bühler</summary>

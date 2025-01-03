@@ -34,9 +34,7 @@ long time becomes spoilt,’ ‘this is lasting,’ ‘that is not lasting.’
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 227), which explains
-‘*bhāṇḍāṇām*’ as ‘saleable commodities—in *Parāśaramādhava* (Ācāra, p.
-417);—and in *Nṛsiṃhaprasāda* (Āhnika 36a).
+This verse is quoted in *Madanapārijāta* (p. 227), which explains ‘*bhāṇḍāṇām*’ as ‘saleable commodities—in *Parāśaramādhava* (Ācāra, p. 417);—and in *Nṛsiṃhaprasāda* (Āhnika 36a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -47,8 +45,7 @@ This verse is quoted in *Madanapārijāta* (p. 227), which explains
 [\[See texts under
 8.410-418.\]]
 
-See Comparative notes for [Verse
-9.326].
+See Comparative notes for [Verse 9.326].
 </details>
 
 <details><summary>Bühler</summary>

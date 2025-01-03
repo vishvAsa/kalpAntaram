@@ -24,8 +24,7 @@ It has been said under 3.96 that gifts are to be offered to ‘one who knows the
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 385);—and in *Hemādri* (Dāna, p.
-7).
+This verse is quoted in *Aparārka* (p. 385);—and in *Hemādri* (Dāna, p. 7).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -33,9 +32,7 @@ This verse is quoted in *Aparārka* (p. 385);—and in *Hemādri* (Dāna, p.
 *Yājñavalkya* (1.203).—(See above.)
 
 *Dakṣa* (3.30),—‘If one asks him for charity for the sake of obviating
-some trouble or for the maintenance of his family,—he shall give what is
-asked for, after due investigation. Such is the law relating to all
-gifts.’
+some trouble or for the maintenance of his family,—he shall give what is asked for, after due investigation. Such is the law relating to all gifts.’
 </details>
 
 <details><summary>Bühler</summary>

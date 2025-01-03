@@ -26,9 +26,7 @@ The term ‘*Brāhmaṇa*’ has been added only for filling up the metre.—(22
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-There is a confusion in the position of the two verses 225 and 226.
-Burnell places 226—‘*Ācāryo brahmaṇo mūrtiḥ* &c.’—before 225—‘*Ācāryaśca
-pitā chaiva &c*.’
+There is a confusion in the position of the two verses 225 and 226. Burnell places 226—‘*Ācāryo brahmaṇo mūrtiḥ* &c.’—before 225—‘*Ācāryaśca pitā chaiva &c*.’
 
 This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 94).
 </details>
@@ -45,8 +43,7 @@ towards his father and mother.’
 one’s service shall be as towards the Ācārya.’
 
 *Viṣṇu* (31.1).—‘For man there are three *super-elders*;—the Father, the
-Mother and the Ācārya;—one should ever attend upon these;—one should do
-what is agreeable and beneficial to these.’
+Mother and the Ācārya;—one should ever attend upon these;—one should do what is agreeable and beneficial to these.’
 </details>
 
 <details><summary>Bühler</summary>

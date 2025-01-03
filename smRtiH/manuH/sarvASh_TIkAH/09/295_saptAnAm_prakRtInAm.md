@@ -58,11 +58,7 @@ And between ‘Treasury’ and the ‘People,’—if the People are injured, wh
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 278), which
-explains ‘*vyasanam*’ as ‘*vyasanakāraṇam*’, ‘source of trouble’—and
-adds that these are so only when they defective.—It is quoted again on
-p. 319, where the same notes are repeated and ‘*prakṛtīnām*’ is
-explained as ‘among the factors’.
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 278), which explains ‘*vyasanam*’ as ‘*vyasanakāraṇam*’, ‘source of trouble’—and adds that these are so only when they defective.—It is quoted again on p. 319, where the same notes are repeated and ‘*prakṛtīnām*’ is explained as ‘among the factors’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -70,8 +66,7 @@ explained as ‘among the factors’.
 **(verses 9.294-297)  
 **
 
-See Comparative notes for [Verse
-9.294].
+See Comparative notes for [Verse 9.294].
 </details>
 
 <details><summary>भारुचिः</summary>

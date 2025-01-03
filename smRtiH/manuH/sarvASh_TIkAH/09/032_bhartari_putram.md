@@ -32,8 +32,7 @@ Having thus propounded the doubt due to the difference of opinion among teachers
 
 **(verses 9.31-44)**
 
-See Comparative notes for [Verse
-9.31].
+See Comparative notes for [Verse 9.31].
 </details>
 
 <details><summary>भारुचिः</summary>

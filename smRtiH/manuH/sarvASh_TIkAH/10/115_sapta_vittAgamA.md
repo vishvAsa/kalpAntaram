@@ -76,44 +76,26 @@ Similarly some people explain ‘*prayoga*’ as meaning *action*, on the ground
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Lābhaḥ*’.—‘Friendly present’ (Medhātithi, Govindaraja and
-Kullūka);—‘acquisition of treasure-trove’ (Nārāyaṇa and Nandana).
+‘*Lābhaḥ*’.—‘Friendly present’ (Medhātithi, Govindaraja and Kullūka);—‘acquisition of treasure-trove’ (Nārāyaṇa and Nandana).
 
-‘*Jayaḥ*’.—‘Conquest in war’ (Medhātithi);—‘winning law-suits’
-(Nandana).
+‘*Jayaḥ*’.—‘Conquest in war’ (Medhātithi);—‘winning law-suits’ (Nandana).
 
 ‘*Prayogaḥ*.’—‘Money-lending,’ (Medhātithi);—‘Teaching’ (bandana).
 
-‘*Karmayogaḥ*.’—‘Trade and agriculture’ (Medhātithi);—‘Sacrificing for
-others’ (Nandana).
+‘*Karmayogaḥ*.’—‘Trade and agriculture’ (Medhātithi);—‘Sacrificing for others’ (Nandana).
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 309), which adds
-the following explanations:—‘*Āyaḥ* (*Dā*yaḥ**?)’, ancestral
-property,—‘*lābhaḥ*,’ finding of a treasure-trove;—inheriting ancestral
-property, finding of treasure-trove and purchase are for all the four
-castes, ‘conquest’ is for the Kṣatriya alone,—‘*prayoga*’ is lending
-money on interest,—and ‘*karmayoga*’ is trade and agriculture;—these two
-are for the Vaiśya only;—and ‘acceptance of gifts from righteous
-persons’ is for the Brāhmaṇa only.
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 309), which adds the following explanations:—‘*Āyaḥ* (*Dā*yaḥ**?)’, ancestral property,—‘*lābhaḥ*,’ finding of a treasure-trove;—inheriting ancestral property, finding of treasure-trove and purchase are for all the four castes, ‘conquest’ is for the Kṣatriya alone,—‘*prayoga*’ is lending money on interest,—and ‘*karmayoga*’ is trade and agriculture;—these two are for the Vaiśya only;—and ‘acceptance of gifts from righteous persons’ is for the Brāhmaṇa only.
 
-It is quoted in *Parāśaramādhava* (Vyavahāra, p. 330);—in *Smṛtitattva*
-II (p. 350), which adds the following notes:—‘*Dāya*’ is inheritance of
-ancestral property,—‘*lābha*’ is finding of treasure-trove and such
-tilings,—‘*jaya*’ is conquest of war,—‘*prayoga*’ is
-money-lending,—‘*karmayoga*’ is trade, agriculture, sons and
-daughters;—in *Vidhānapārijāta* II (p. 245);—in *Mitākṣarā* (2.113);—in
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 330);—in *Smṛtitattva* II (p. 350), which adds the following notes:—‘*Dāya*’ is inheritance of ancestral property,—‘*lābha*’ is finding of treasure-trove and such tilings,—‘*jaya*’ is conquest of war,—‘*prayoga*’ is money-lending,—‘*karmayoga*’ is trade, agriculture, sons and daughters;—in *Vidhānapārijāta* II (p. 245);—in *Mitākṣarā* (2.113);—in
 *Hemādri* (Śrāddha, p. 525);—in *Hemādri* (Dāna, p. 41), which explains
-‘*prayoga*’ as ‘monetary transaction for earning interest,’ and
-‘*karmayoga*’ as ‘officiating as priests at sacrifices’;—and in
+‘*prayoga*’ as ‘monetary transaction for earning interest,’ and ‘*karmayoga*’ as ‘officiating as priests at sacrifices’;—and in
 *Nṛsiṃhaprasāda* (Āhnika 37a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (10.39-42).—‘A man becomes an *owner* by inheritance,
-purchase, partition, seizure or finding; acceptance of gift is an
-additional mode of acquisition for the Brāhmaṇa; conquest for the
-Kṣatriya; and gain by labour for the Vaiśya and the Śūdra.’
+purchase, partition, seizure or finding; acceptance of gift is an additional mode of acquisition for the Brāhmaṇa; conquest for the Kṣatriya; and gain by labour for the Vaiśya and the Śūdra.’
 
 *Arthaśāstra* (II. p. 97).—‘In places where conditions are unsettled,
 undisturbed possession is the basis for ownership.’

@@ -36,8 +36,7 @@ This verse is quoted in *Prāyaścittaviveka* (p. 87).
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

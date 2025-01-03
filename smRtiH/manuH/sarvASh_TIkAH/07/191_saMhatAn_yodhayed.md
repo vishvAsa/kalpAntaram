@@ -47,8 +47,7 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 402):—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (12.100.47).—(The first half as in Manu).—‘When a small
-army is fighting against a larger one, the former should be arrayed like
-a needle-point.’
+army is fighting against a larger one, the former should be arrayed like a needle-point.’
 </details>
 
 <details><summary>भारुचिः</summary>

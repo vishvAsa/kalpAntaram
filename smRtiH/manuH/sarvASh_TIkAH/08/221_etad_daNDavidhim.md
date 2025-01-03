@@ -24,10 +24,7 @@ This verse sums up the section:—(221)
 
 This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 253);—in
 *Vivādaratnākara* (p. 182), which explains ‘*Jātisamūha*’ as ‘community
-of several castes’:—in *Kṛtyakalpataru* (107a);—and in *Vīramitrodaya*
-(Vyavahāra, 132a), which adds that the penalty to be imposed in each
-case is to be determined by considerations of caste, learning and other
-qualifications of the culprit.
+of several castes’:—in *Kṛtyakalpataru* (107a);—and in *Vīramitrodaya* (Vyavahāra, 132a), which adds that the penalty to be imposed in each case is to be determined by considerations of caste, learning and other qualifications of the culprit.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -35,8 +32,7 @@ qualifications of the culprit.
 **(verses 8.219-221)  
 **
 
-See Comparative notes for [Verse
-8.219].
+See Comparative notes for [Verse 8.219].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -32,27 +32,17 @@ This same rule should be applicable to the case where the article deposited has 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The second half of this verse is quoted in *Vivādaratnākara* (p. 86),
-which adds the explanation that if the deposit has been handed over to
-the depository *sealed*,—then, unless the latter extracts anything from
-it, he shall incur no blame; but if he does extract anything, then he
-certainly becomes open to censure. In the case of an unsealed deposition
-the other hand, even though he may have extracted something, if he
-delivers it before the depositor, he does not incur blame.
+The second half of this verse is quoted in *Vivādaratnākara* (p. 86), which adds the explanation that if the deposit has been handed over to the depository *sealed*,—then, unless the latter extracts anything from it, he shall incur no blame; but if he does extract anything, then he certainly becomes open to censure. In the case of an unsealed deposition the other hand, even though he may have extracted something, if he delivers it before the depositor, he does not incur blame.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (2.14, 15).—‘The same law applies in the case of *Yācita*,
 *Anvāhita*, and other forms of deposits, also in those of articles made
-over to artisans, as also *Nyāsa* and *Pratinyāsa* deposits; if a man
-takes charge of a wealthy boy, the law applicable in this case also is
-the same.’
+over to artisans, as also *Nyāsa* and *Pratinyāsa* deposits; if a man takes charge of a wealthy boy, the law applicable in this case also is the same.’
 
 *Bṛhaspati* (12.15).—‘The same set of rules applies in the case of a
-bailment for delivery to a third party, a loan for use, an article made
-over to an artisan, a pledge and a person offering himself for
-protection.’
+bailment for delivery to a third party, a loan for use, an article made over to an artisan, a pledge and a person offering himself for protection.’
 
 *Yājñavalkya* (2.67).—‘The same law applies to the other forms of
 deposit- the *Yācita*, the *Anvāhita*, the *Nyāsa* and the *Nikṣepa*.’

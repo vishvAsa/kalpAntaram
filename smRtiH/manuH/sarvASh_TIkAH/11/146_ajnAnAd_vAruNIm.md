@@ -96,27 +96,13 @@ Thus the ‘*settled law*’ on this point is as follows:—(*a*) If one drinks 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Anirdeśyam*.’—‘What is stated in the first half is not to be
-prescribed in the case of the *intentional* drinking of Vāruṇī’
-(Medhātithi and Nandana);—‘Any expiation involving death shall not be
-prescribed even in the wise of the intentional drinking of Vāruṇī’
-(Nārāyaṇa and others.)
+‘*Anirdeśyam*.’—‘What is stated in the first half is not to be prescribed in the case of the *intentional* drinking of Vāruṇī’ (Medhātithi and Nandana);—‘Any expiation involving death shall not be prescribed even in the wise of the intentional drinking of Vāruṇī’ (Nārāyaṇa and others.)
 
-This verse is quoted in *Aparārka* (p. 1074), which explains the meaning
-to be—‘The intentional drinking of *Surā* is an offence for which no
-expiation can be prescribed by any Assembly; it has to be found out by
-the offender himself.’ It adds that the re-performance of the
-sacramental rites in itself cannot absolve the man from the sin; these
-rites have to be performed after the man has undergone the expiation
-specifically prescribed for wine-drinking.
+This verse is quoted in *Aparārka* (p. 1074), which explains the meaning to be—‘The intentional drinking of *Surā* is an offence for which no expiation can be prescribed by any Assembly; it has to be found out by the offender himself.’ It adds that the re-performance of the sacramental rites in itself cannot absolve the man from the sin; these rites have to be performed after the man has undergone the expiation specifically prescribed for wine-drinking.
 
-It is quoted in *Mitākṣarā* (3.255), which adds that the sacramental
-rites are to be performed after the performance of the *Tapta-Kṛcchra*.
+It is quoted in *Mitākṣarā* (3.255), which adds that the sacramental rites are to be performed after the performance of the *Tapta-Kṛcchra*.
 
-It is quoted in *Parāyaścittaviveka* (p. 100), which explains the second
-half to mean that ‘if one drinks wine *intentionally*, then the
-expiation just prescribed will not serve his purpose his only expiation
-will consist in giving up his life.’
+It is quoted in *Parāyaścittaviveka* (p. 100), which explains the second half to mean that ‘if one drinks wine *intentionally*, then the expiation just prescribed will not serve his purpose his only expiation will consist in giving up his life.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -125,28 +111,19 @@ will consist in giving up his life.’
 seq*.)]
 
 *Gautama* (23.2).—‘If the Brāhmaṇa has drunk wine unintentionally, he
-shall subsist for three days on hot milk, clarified hatter and water;
-and inhale hot air. This penance is called *Tapta-Kṛcchra*. After that
-he shall undergo a second initiation.’
+shall subsist for three days on hot milk, clarified hatter and water; and inhale hot air. This penance is called *Tapta-Kṛcchra*. After that he shall undergo a second initiation.’
 
 *Baudhāyana* (2.1.19).—‘For unintentionally drinking wine one shall
 perform the *Kṛcchra* penance for three months and he initiated again.’
 
 *Vaśiṣṭha* (20.19).—‘If a Brāhmaṇa intentionally drinks liquor other
-than that distilled from rice, or if he unintentionally drinks liquor
-extracted from rice, he must perform a *Kṛcchra* and an *Atikṛcchra*,
-and after eating clarified butter, he initiated again.’
+than that distilled from rice, or if he unintentionally drinks liquor extracted from rice, he must perform a *Kṛcchra* and an *Atikṛcchra*, and after eating clarified butter, he initiated again.’
 
 *Viṣṇu* (51.1-4).—‘A drinker of liquor must abstain from all religions
-rites and subsist on grains separated from the husk, for a year. If a
-man has knowingly tasted any of the excretions of the body, or of
-intoxicating drinks, he should perform the *Cāndrāyaṇa* penance. In all
-these cases, the twice-born man shall be initiated a second time, after
-the penance is over,’
+rites and subsist on grains separated from the husk, for a year. If a man has knowingly tasted any of the excretions of the body, or of intoxicating drinks, he should perform the *Cāndrāyaṇa* penance. In all these cases, the twice-born man shall be initiated a second time, after the penance is over,’
 
 *Yājñavalkya* (3.255).—‘On drinking the Vāruṇī wine or semen, or urine
-or ordure, unwittingly, the three twice-born castes shall undergo
-initiation a second time.’
+or ordure, unwittingly, the three twice-born castes shall undergo initiation a second time.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -28,18 +28,13 @@ In the case of cotton, silk, wool, an animal with cleft hoofs, an animal with un
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijātā* (p. 875);—and in *Mitākṣarā*
-(3.265), which notes that, since the expiation is thrice as heavy as
-that prescribed in 165, it should he understood as referring to the
-stealing of the things mentioned, when their value is three times that
-of the single meal.
+This verse is quoted in *Madanapārijātā* (p. 875);—and in *Mitākṣarā* (3.265), which notes that, since the expiation is thrice as heavy as that prescribed in 165, it should he understood as referring to the stealing of the things mentioned, when their value is three times that of the single meal.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (62.11, 13).—‘For stealing cotton, silk, wool or other stuffs,
-he should subsist on milk for three days. For stealing birds or perfumes
-or medicinal herbs, or cords, or basket-work,—he must fast for one day.’
+he should subsist on milk for three days. For stealing birds or perfumes or medicinal herbs, or cords, or basket-work,—he must fast for one day.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -67,37 +67,21 @@ Some people do not take the phrase ‘to the best of his ability’ in the prece
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 355) in support of
-the view that—‘if a guest comes to one’s house with a view to getting
-food, and goes away without getting any, then all the rites that the
-master of the house performs, in honour of the Gods and the Pitṛs,
-become futile.’
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 355) in support of the view that—‘if a guest comes to one’s house with a view to getting food, and goes away without getting any, then all the rites that the master of the house performs, in honour of the Gods and the Pitṛs, become futile.’
 
-The verse is quoted in *Vīramitrodaya* (Āhnika, p. 441), which adds the
-following explanations:—‘*Śilāt*’ (which is the reading it adopts)—‘from
-the remnant of the gleanings dropped in the
-fields.’—‘*uñchataḥ*’—‘pickings’;—what is meant is that even a poor man
-should entertain his guest.
+The verse is quoted in *Vīramitrodaya* (Āhnika, p. 441), which adds the following explanations:—‘*Śilāt*’ (which is the reading it adopts)—‘from the remnant of the gleanings dropped in the fields.’—‘*uñchataḥ*’—‘pickings’;—what is meant is that even a poor man should entertain his guest.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (67.33).—‘If a guest goes away disappointed from the home of any
-person, he leaves behind him all his sins and takes away all the merit
-of that householder.’
+person, he leaves behind him all his sins and takes away all the merit of that householder.’
 
 *Parāśara* (1.45.46).—‘If a guest goes away from one’s house
-disappointed, his Pitṛs do not partake of anything in that house for
-fifteen years. If one disappoints a guest, one’s libations are futile,
-even though made with a thousand loads of fuel and a hundred jars of
-butter.’
+disappointed, his Pitṛs do not partake of anything in that house for fifteen years. If one disappoints a guest, one’s libations are futile, even though made with a thousand loads of fuel and a hundred jars of butter.’
 
 *Mahābhārata-Āśvamedhika* (Parsāharamādhava, p. 355).—‘One may study,
-day after day, the Vedas and the subsidiaries, if he honours not his
-guest, all study becomes futile. He who honours not the guest arrived
-after the Viśvadeva offering, immediately becomes a Caṇḍāla. If a man
-turns out a guest from his house, arrived at the right time and place,
-he becomes an outcast at that very moment.’
+day after day, the Vedas and the subsidiaries, if he honours not his guest, all study becomes futile. He who honours not the guest arrived after the Viśvadeva offering, immediately becomes a Caṇḍāla. If a man turns out a guest from his house, arrived at the right time and place, he becomes an outcast at that very moment.’
 </details>
 
 <details><summary>Bühler</summary>

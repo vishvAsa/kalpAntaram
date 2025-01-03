@@ -55,63 +55,39 @@ The ‘sipping,’ as consisting of the drinking of water, has been prescribed; 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 66), where it is
-explained that what the epithet ‘*anuṣṇabhiḥ*’ means is that the water
-should *not be heated by fire*, as is distinctly stated by Viṣṇu;—again
-on page 77, where it is stated to be the injunction of *ācamana* in
-general, for all the three castes;—also on page 79, where it is added
-that ‘*ekānte*’ means *not crowded*,—where alone the mind can be calm
-and collected,—as is laid down by Viṣṇu.
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 66), where it is explained that what the epithet ‘*anuṣṇabhiḥ*’ means is that the water should *not be heated by fire*, as is distinctly stated by Viṣṇu;—again on page 77, where it is stated to be the injunction of *ācamana* in general, for all the three castes;—also on page 79, where it is added that ‘*ekānte*’ means *not crowded*,—where alone the mind can be calm and collected,—as is laid down by Viṣṇu.
 
-On the tern ‘*prāgudaṅmukhaḥ*,’ this work has the following note,
-criticising Medhātithi’s explanation:—“The term *prāgudaṅmukhaḥ* must
-mean the *north-east quarter*, on the strength of the declaration of
-Hārīta; and in the Śruti also we see the term used in the sense of the
+On the tern ‘*prāgudaṅmukhaḥ*,’ this work has the following note, criticising Medhātithi’s explanation:—“The term *prāgudaṅmukhaḥ* must mean the *north-east quarter*, on the strength of the declaration of Hārīta; and in the Śruti also we see the term used in the sense of the
 *north-east*—*e. g*. in the passage referring to the branch of the
 *Palāśa* tree—
 
 ‘*Prāchīmāharati*, *udīchīmāharati*, *prāgudīchīmāharati*’ and also in
 *Kātyāyanasūtra*, where it is said—‘*prāgudakpravaṇam devayajanam*,’
-where the term ‘*prāgudak*’ stands for the north-east. For these reasons
-the assertion of Medhātithi—that ‘the term *prāgudak* being never found
-used in the sense of north-east, it should not be explained as
-such,’—must be disregarded. Medhātithi has explained the compound
+where the term ‘*prāgudak*’ stands for the north-east. For these reasons the assertion of Medhātithi—that ‘the term *prāgudak* being never found used in the sense of north-east, it should not be explained as such,’—must be disregarded. Medhātithi has explained the compound
 *prāguduṅmukhaḥ* as a Bahuvrīhi compound composed of three terms,
-whereby the meaning comes to be that the man must face the East or the
-North.”
+whereby the meaning comes to be that the man must face the East or the North.”
 
-The writer has conveniently ignored Medhātithi’s reference to Gautama
-1.35, in support of his interpretation.
+The writer has conveniently ignored Medhātithi’s reference to Gautama 1.35, in support of his interpretation.
 
-The second half of the verse is quoted in *Śuddhi-kaumudī* (p. 339);—and
-in *Hemādri* (Śrāddha, p. 983), which notes that ‘*anuṣṇābhiḥ*’ is meant
-to prohibit the water heated by fire.
+The second half of the verse is quoted in *Śuddhi-kaumudī* (p. 339);—and in *Hemādri* (Śrāddha, p. 983), which notes that ‘*anuṣṇābhiḥ*’ is meant to prohibit the water heated by fire.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Bodhāyanā-Dharmasūtra*, 1. 5. 14.—‘Water-sipping should never be done
-with the lingers, nor with such water as has hubbies or foam, is
-brackish or saltish, or muddy, or discoloured, or foul-smelling.’
+with the lingers, nor with such water as has hubbies or foam, is brackish or saltish, or muddy, or discoloured, or foul-smelling.’
 
 *Baudhāyana* (Vīra-Āhnika, p. 71).—‘Sipping should not be done with
-water left over after washing the feet; or if this has to be done, it
-should be done after pouring out some of the water on the ground.’
+water left over after washing the feet; or if this has to be done, it should be done after pouring out some of the water on the ground.’
 
 *Āpastamba-Dharmasūtra*, 5. 15. 4-7.—‘Water should not bo sipped out of
-rain-showers; nor out of cavities in the Earth; nor with warm water,
-without reason.’ \[‘Reason’ such as sickness.\] \[Hut according to
-Vaśiṣṭha, if the cavity contained water enough for satisfying the cow,
-which is not unclean, then, it may be used.\]
+rain-showers; nor out of cavities in the Earth; nor with warm water, without reason.’ \[‘Reason’ such as sickness.\] \[Hut according to Vaśiṣṭha, if the cavity contained water enough for satisfying the cow, which is not unclean, then, it may be used.\]
 
 *Vaśiṣṭha-Smṛti*, 3. 36.—‘Sipping should not be done with water with bad
-colour, bad smell or bad taste, or that proceeding from an unclean
-source.’
+colour, bad smell or bad taste, or that proceeding from an unclean source.’
 
 *Viṣṇu-Smṛti*, 62. 5.—‘Seated in a clean place, with arms between the
-knees, facing the East or the North, with happy and concentrated mind,
-he should sip water, which is not fire-heated, which is free from foam,
-which has not been brought by the Śūdra, and which is not brackish.’
+knees, facing the East or the North, with happy and concentrated mind, he should sip water, which is not fire-heated, which is free from foam, which has not been brought by the Śūdra, and which is not brackish.’
 
 *Yājñavalkya*, 1.20.—‘With water in its natural condition, free from
 bubbles and foam.’
@@ -123,9 +99,7 @@ bubbles.’
 from bubbles and foam, not heated by fire, nor brackish.’
 
 *Gautama and Śaṅkha-Likhita* (Do., p. 67).—‘Not with water fetched by a
-Śūdra or an unclean person or by one hand.’ *Kūrmapurāṇa* (Do.).—‘With
-water which is not brackish and which has not been fetched by a Śūdra or
-by an unclean person; nor with water brought with one hand.’
+Śūdra or an unclean person or by one hand.’ *Kūrmapurāṇa* (Do.).—‘With water which is not brackish and which has not been fetched by a Śūdra or by an unclean person; nor with water brought with one hand.’
 
 *Saṃvarta* (Do.).—‘Never with water offered by a Śūdra or an unclean
 person, or with one hand.’
@@ -134,19 +108,16 @@ person, or with one hand.’
 examined, not brackish, nor heated, nor with foam and bubbles.’
 
 *Pracetas* (Do., p. 69).—‘One should twice, thrice or four times sip
-water, without making any sound, which is not hot, nor with foam, which
-has been purified by cloth and by the eve,—reaching the heart.’
+water, without making any sound, which is not hot, nor with foam, which has been purified by cloth and by the eve,—reaching the heart.’
 
 *Hārīta* (Do., p. 70).—‘Nor with water which has not been looked into,
 which is hot or unclean; discoloured or foul-smelling or foamy.’
 
 *Parāśara* (Do., p. 71).—‘Sipping should not be done with water fetched
-by a Śūdra, or with one hand, or by one who has not kept the
-observances, or by an unknown person.’
+by a Śūdra, or with one hand, or by one who has not kept the observances, or by an unknown person.’
 
 *Yama* (Parāśaramādhava, p. 222).—‘It has been declared that at night,
-the wise men may be purified by even such water as has not been looked
-into; as also for sick men.’
+the wise men may be purified by even such water as has not been looked into; as also for sick men.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -332,22 +332,15 @@ for the reason that the exact method of his initiation would vary with the Resce
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Ānulomyena*’.—‘In the direct order, *i.e*., by a Brāhmaṇa on a
-Brāhmaṇī and so forth’ (Medhātithi, Govindarāja and Kullūka);—‘the
-bridegroom being always older than the bride” (Nārāyaṇa).
+‘*Ānulomyena*’.—‘In the direct order, *i.e*., by a Brāhmaṇa on a Brāhmaṇī and so forth’ (Medhātithi, Govindarāja and Kullūka);—‘the bridegroom being always older than the bride” (Nārāyaṇa).
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 511), which
-explains the meaning to be that children born of a Brāhmaṇa couple are
-Brāhmaṇa by caste; so also in the case of Kṣatriya couples and so
-forth;—and in *Nṛsiṃhaprasāda* (Saṃskāra 76a).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 511), which explains the meaning to be that children born of a Brāhmaṇa couple are Brāhmaṇa by caste; so also in the case of Kṣatriya couples and so forth;—and in *Nṛsiṃhaprasāda* (Saṃskāra 76a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba* (2.13.1).—‘Sons begotten by a man who approaches in the
-proper season a woman of equal caste, who has not belonged to another
-man, and who has been married legally, have a right to follow the
-occupations of their castes.’
+proper season a woman of equal caste, who has not belonged to another man, and who has been married legally, have a right to follow the occupations of their castes.’
 
 *Viṣṇu* (16.1).—‘On women equal in caste to their husbands, sons are
 begotten who are equal in caste to their fathers.’
@@ -358,8 +351,7 @@ are born sons of the same caste.’
 *Baudhāyana* (1.17.2).—‘Sons of equal caste spring from women of equal
 caste.’
 
-Do. (1.16.6).—‘Sons begotten on wives of equal caste or of the next
-lower caste are of the same caste as the father’
+Do. (1.16.6).—‘Sons begotten on wives of equal caste or of the next lower caste are of the same caste as the father’
 </details>
 
 <details><summary>भारुचिः</summary>

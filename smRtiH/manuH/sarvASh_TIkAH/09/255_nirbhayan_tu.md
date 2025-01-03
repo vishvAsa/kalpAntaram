@@ -32,12 +32,10 @@ This verse is quoted in *Vivādaratnākara* (p. 294).
 **(verses 9.253-255)  
 **
 
-\[See under
-[8.307],
+\[See under [8.307],
 [386-387].\]
 
-See Comparative notes for [Verse
-9.253].
+See Comparative notes for [Verse 9.253].
 </details>
 
 <details><summary>भारुचिः</summary>

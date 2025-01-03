@@ -40,34 +40,17 @@ The purpose of this rule is that it has been emphasised with a view to preclude 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Apasavyam*’—‘In such a manner that they tend towards the South’
-(Medhātithi);—‘Passing the sacrificial thread over the right shoulder
-under the left arm’ (Nārāyaṇa);—‘with the right hand’ (‘others’ in
-Medhātithi, which he rejects).
+‘*Apasavyam*’—‘In such a manner that they tend towards the South’ (Medhātithi);—‘Passing the sacrificial thread over the right shoulder under the left arm’ (Nārāyaṇa);—‘with the right hand’ (‘others’ in Medhātithi, which he rejects).
 
-‘*Āpasavyena hastena*’—‘With the right hand’ (Kullūka). This
-explanation, which Buhler wrongly attributes to ‘others’ (in
-Medhātithi), is really put forth by Medhātithi in connection with the
-former term ‘*Apasavyam*’, and not the second expression ‘*Āpasavyena
-hastena*.’ Nor is it right to say that according to Medhātithi this
-second expression means ‘out of the Tīrtha of the right hand which is
-sacred to the Manes’; because, as a matter of fact, Medhātithi has given
-no explanation of this expression at all. Buhler seems to have got an
-imperfect copy of Medhātithi; or did he not pay careful attention to
-reading it?
+‘*Āpasavyena hastena*’—‘With the right hand’ (Kullūka). This explanation, which Buhler wrongly attributes to ‘others’ (in Medhātithi), is really put forth by Medhātithi in connection with the former term ‘*Apasavyam*’, and not the second expression ‘*Āpasavyena hastena*.’ Nor is it right to say that according to Medhātithi this second expression means ‘out of the Tīrtha of the right hand which is sacred to the Manes’; because, as a matter of fact, Medhātithi has given no explanation of this expression at all. Buhler seems to have got an imperfect copy of Medhātithi; or did he not pay careful attention to reading it?
 
-This verse is quoted in *Madanapārijāta* (p. 601) without any
-comment;—and in *Hemādri* (Śrāddha, p. 1321) as distinctly laying down
-the ‘*Prācīnāvīta*’.
+This verse is quoted in *Madanapārijāta* (p. 601) without any comment;—and in *Hemādri* (Śrāddha, p. 1321) as distinctly laying down the ‘*Prācīnāvīta*’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Laghu-Āśvalāyana Smṛti* (13.73-74).—‘On the spot which is sloping
-towards the south-east, he shall draw a line with the mantra *Apahata*,
-etc.; he shall spread *kuśa* over it and then adopting the *Apasavya*
-form, he shall sprinkle water over it with the mantra *Śundhantām*,
-etc.; and then upon the kuśa he shall offer the balls.’
+towards the south-east, he shall draw a line with the mantra *Apahata*, etc.; he shall spread *kuśa* over it and then adopting the *Apasavya* form, he shall sprinkle water over it with the mantra *Śundhantām*, etc.; and then upon the kuśa he shall offer the balls.’
 </details>
 
 <details><summary>Bühler</summary>

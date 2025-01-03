@@ -32,62 +32,27 @@ As the whole passage is purely valedictory, we need not be very particular as to
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Payo dadhi ghṛtam madhu*’—stand respectively for Merit, Wealth,
-Pleasure and Final Release, according to Nārāyaṇa and Nandana.
-Medhātithi notes this explanation as provided by ‘others.’
+‘*Payo dadhi ghṛtam madhu*’—stand respectively for Merit, Wealth, Pleasure and Final Release, according to Nārāyaṇa and Nandana. Medhātithi notes this explanation as provided by ‘others.’
 
 *Medhātithi* (p. 124, 1. 15)—‘*Ekasya tūhhayatve*’—This is Mīmāṃsā Sūtra
-4. 3. 4. There are two texts—‘makes an offering of curd’ and ‘for the
-benefit of one desiring sense-organs, one should sacrifice with curd’;
-the question that arises is whether these two texts lay down two
-distinct acts, or both conjointly enjoin a single act; and the
-conclusion is that the two acts are distinct.
+4. 3. 4. There are two texts—‘makes an offering of curd’ and ‘for the benefit of one desiring sense-organs, one should sacrifice with curd’; the question that arises is whether these two texts lay down two distinct acts, or both conjointly enjoin a single act; and the conclusion is that the two acts are distinct.
 
-This principle, Medhātithi argues, is not applicable to the present
-case; the mention of the four distinct substances cannot he taken as
-supplying the motive for four distinct acts.
+This principle, Medhātithi argues, is not applicable to the present case; the mention of the four distinct substances cannot he taken as supplying the motive for four distinct acts.
 
 *Medhātithi* (p. 124,1. 16)—‘*Rātrisatranyāyaḥ*’—This is enunciated in
-Mīmāṃsā Sūtra 4. 3. 17 *et seq*. In connection with the *Rātrisatra*
-sacrifice, it has been held that it is conducive to ‘respectability,’
-even though this is a result mentioned in an Arthavāda passage. This
-principle also is not applicable to the present case where the necessary
-motive is provided by the compulsory character of the act.
+Mīmāṃsā Sūtra 4. 3. 17 *et seq*. In connection with the *Rātrisatra* sacrifice, it has been held that it is conducive to ‘respectability,’ even though this is a result mentioned in an Arthavāda passage. This principle also is not applicable to the present case where the necessary motive is provided by the compulsory character of the act.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu-Smṛti* (30. 34-38).—‘When one recites the Ṛk verses, he satisfies
-the Pitṛs with clarified butter;—when he recites the Yajuṣ verse, he
-satisfies them with honey;—when he recites the Sāma verses, he satisfies
-them with milk;—when he recites the Atharva verses, he satisfies them
-with meat;—when he reads the Purāṇas, the Itihāsas, the Vedic Subsidiary
-Sciences and the Dharmaśāstras,—he satisfies them with grain-food.’
+the Pitṛs with clarified butter;—when he recites the Yajuṣ verse, he satisfies them with honey;—when he recites the Sāma verses, he satisfies them with milk;—when he recites the Atharva verses, he satisfies them with meat;—when he reads the Purāṇas, the Itihāsas, the Vedic Subsidiary Sciences and the Dharmaśāstras,—he satisfies them with grain-food.’
 
 *Yājñavalkya-Smṛti* (1. 41-47).—‘One who daily reads the Ṛk verses
-satisfies the gods and the Pitṛs with honey and clarified butter;—he who
-reads the Yajuṣ verses every day, to the best of his ability, satisfies
-the gods with clarified butter and the Pitṛs with clarified butter and
-honey;—he who reads the Sāma verses daily satisfies the gods with Soma
-and clarified butter, and the Pitṛs with honey and clarified butter;—he
-who daily reads the Atharvāñgiras texts satisfies the gods with fat and
-the Pitre with honey and clarified butter;—he who to the best of his
-capacity, daily reads the Vākovākya, Purāṇa, the Narāśamsī hymns,
-ītihāsa and the Sciences, satisfies the gods with meat, milk, rice and
-honey, and the Pitṛs with honey and clarified butter—all these being
-satisfied endow him with all kinds of prosperity.’
+satisfies the gods and the Pitṛs with honey and clarified butter;—he who reads the Yajuṣ verses every day, to the best of his ability, satisfies the gods with clarified butter and the Pitṛs with clarified butter and honey;—he who reads the Sāma verses daily satisfies the gods with Soma and clarified butter, and the Pitṛs with honey and clarified butter;—he who daily reads the Atharvāñgiras texts satisfies the gods with fat and the Pitre with honey and clarified butter;—he who to the best of his capacity, daily reads the Vākovākya, Purāṇa, the Narāśamsī hymns, ītihāsa and the Sciences, satisfies the gods with meat, milk, rice and honey, and the Pitṛs with honey and clarified butter—all these being satisfied endow him with all kinds of prosperity.’
 
 *Āpastamba-Gṛhyasūtra* (3. 3. 2-3).—‘When one reads the Ṛk verses he
-satisfies the gods with offerings of milk;—when he reads the Yajuṣ
-verses, with offerings of clarified butter;—when he reads the Sāma
-verses, with offerings of honey;—when he reads the Atharvāñgiras verses,
-with offerings of Soma;—when he reads the Brāhmaṇas, the Kalpas, the
-Nārāśamsī hymns, the Itihāsas and the Purāṇas,—with offerings of nectar.
-When he reads the Ṛk verses, streams of milk reach his Pitṛs;—when he
-reads the Yajuṣ verses, streams of clarified butter;—when he reads the
-Sāma verses, streams of honey;—when he reads the tharvāúgiras verses,
-streams of Soma;—when he reads the Brāhmaṇas, the Kalpas, the Nārāśamsī
-hymns, the Itihāsas and Purāṇas, streams of nectar.’
+satisfies the gods with offerings of milk;—when he reads the Yajuṣ verses, with offerings of clarified butter;—when he reads the Sāma verses, with offerings of honey;—when he reads the Atharvāñgiras verses, with offerings of Soma;—when he reads the Brāhmaṇas, the Kalpas, the Nārāśamsī hymns, the Itihāsas and the Purāṇas,—with offerings of nectar. When he reads the Ṛk verses, streams of milk reach his Pitṛs;—when he reads the Yajuṣ verses, streams of clarified butter;—when he reads the Sāma verses, streams of honey;—when he reads the tharvāúgiras verses, streams of Soma;—when he reads the Brāhmaṇas, the Kalpas, the Nārāśamsī hymns, the Itihāsas and Purāṇas, streams of nectar.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -40,9 +40,7 @@ The rule here laid down pertains to the case of girls only, that relating to sim
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“Yet he has emphatically inveighed against the sale of women 3.51,
-9.98”—says Hopkins. But he forgets that ‘*śulka*’ is *not price*, Buhler
-also has been similarly misled.
+“Yet he has emphatically inveighed against the sale of women 3.51, 9.98”—says Hopkins. But he forgets that ‘*śulka*’ is *not price*, Buhler also has been similarly misled.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -51,14 +49,10 @@ also has been similarly misled.
 **
 
 *Yājñavalkya* (1.66).—‘If a man gives away his daughter in marriage,
-without mentioning her defects, he should be fined the highest
-amercement.’
+without mentioning her defects, he should be fined the highest amercement.’
 
 *Nārada* (Aparārka, p. 95).—‘If a man gives away a defective girl in
-marriage, without mentioning the defect, he should be punished by the
-King with the first amercement; the defects of a girl being presence of
-chronic and loathsome disease, shortness of limbs, loss of virginity,
-immodesty, attachment to another man.’
+marriage, without mentioning the defect, he should be punished by the King with the first amercement; the defects of a girl being presence of chronic and loathsome disease, shortness of limbs, loss of virginity, immodesty, attachment to another man.’
 </details>
 
 <details><summary>भारुचिः</summary>

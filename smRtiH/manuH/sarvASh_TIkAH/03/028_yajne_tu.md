@@ -34,17 +34,9 @@ In this case, there is some slight return made by the bridegroom in the form of 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Hopkins is not quite right when he says that ‘the priest receives the
-maiden as part of the fee.’ It is not so, as has been made clear by
-Medhātithi. Further the ‘fee’ is always given *after the completion* of
-the rite, and not only when ‘*it has begun*’, or while the priest is
-still ‘*doing his work*.’
+Hopkins is not quite right when he says that ‘the priest receives the maiden as part of the fee.’ It is not so, as has been made clear by Medhātithi. Further the ‘fee’ is always given *after the completion* of the rite, and not only when ‘*it has begun*’, or while the priest is still ‘*doing his work*.’
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 849), where the
-explanation is added—*Samyak sauṣṭhavena karma kurvate ṛtvije
-ityanvayaḥ*; the construction is that the girl is given ‘to the priest
-who is doing the work efficiently, in a proper manner’;—in *Hemādri*
-(Dāna, p. 684);—and in *Smṛticandrikā* (Saṃskāra, p. 228.).
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 849), where the explanation is added—*Samyak sauṣṭhavena karma kurvate ṛtvije ityanvayaḥ*; the construction is that the girl is given ‘to the priest who is doing the work efficiently, in a proper manner’;—in *Hemādri* (Dāna, p. 684);—and in *Smṛticandrikā* (Saṃskāra, p. 228.).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -53,34 +45,28 @@ who is doing the work efficiently, in a proper manner’;—in *Hemādri*
 within the sacrificial altar.’
 
 *Baudhāyana* (1. 11. 5).—‘At the time that the sacrificial fees are
-being given, if the girl is given to the Priest within the sacrificial
-altar,—this the Daiva.’
+being given, if the girl is given to the Priest within the sacrificial altar,—this the Daiva.’
 
 *Āpastamba Dharmasūtra* (2. 11. 19).—‘In the Daiva form, the girl is to
 be given to the Priest, in course of the sacrificial performance.’
 
 *Vaśiṣṭha* (1. 31).—‘In course of a sacrificial performance, if one
-gives his girl, after having decked her, to the Priest carrying on his
-sacrificial duties,—this they call the Daiva marriage.’
+gives his girl, after having decked her, to the Priest carrying on his sacrificial duties,—this they call the Daiva marriage.’
 
 *Viṣṇu* (24.20).—‘The Daiva is that offered to the Priest engaged in a
 sacrifice.’
 
 *Āpastamba-Gṛhyasūtra* (1.6.2).—‘When a sacrifice is being performed, if
-one gives the girl duly decked to the Priest therein engaged, this is
-called the Daiva marriage; the son bora thereof purifies ten past and
-ten future generations on both sides.’
+one gives the girl duly decked to the Priest therein engaged, this is called the Daiva marriage; the son bora thereof purifies ten past and ten future generations on both sides.’
 
 *Devala* (Vīramitrodaya-Saṃskāra, p. 849).—‘When one brings into the
-sacrificial altar the girl decked in gold and gives her to the Priest,
-this is the marriage called *Daiva*.’
+sacrificial altar the girl decked in gold and gives her to the Priest, this is the marriage called *Daiva*.’
 
 *Yama* (Vīramitrodaya-Saṃskāra, 849).—‘The marriage of the Priest is
 called *Daiva*.’
 
 *Hārīta* (Vīramitrodaya-Saṃskāra, 849).—‘When the girl is given within
-the altar, to the bridegroom after having presented to him a pair (of
-cow and bull), this is the *Daiva* marriage.’
+the altar, to the bridegroom after having presented to him a pair (of cow and bull), this is the *Daiva* marriage.’
 </details>
 
 <details><summary>Bühler</summary>

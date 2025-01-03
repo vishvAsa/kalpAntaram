@@ -30,20 +30,16 @@ The option of ‘immediate purity’ is also laid down in another Smṛti-text, 
 
 (Verse 71 of other commentators.)
 
-This verse is quoted in *Nityācārapradīpa* (p. 131);—in *Hāralatā* (p.
-76), which explains ‘*ekodaka*’ as *samānodaka*;—and in *Śuddhimayūkha*
-(p. 37).
+This verse is quoted in *Nityācārapradīpa* (p. 131);—in *Hāralatā* (p. 76), which explains ‘*ekodaka*’ as *samānodaka*;—and in *Śuddhimayūkha* (p. 37).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (14.20).—‘The impurity lasts for one night together with the
-preceding and following days, in the case of the death of a
-fellow-student.’
+preceding and following days, in the case of the death of a fellow-student.’
 
 *Baudhāyana* (1.11.30).—‘Let him keep, on account of a pupil, for one
-who has the same spiritual guide, for a fellow-student,—three days, one
-day and a night, one day and so forth.’
+who has the same spiritual guide, for a fellow-student,—three days, one day and a night, one day and so forth.’
 
 *Āśvalāyana Gṛhyasūtra* (4.4.26).—‘One day after the death of a
 fellow-pupil.’

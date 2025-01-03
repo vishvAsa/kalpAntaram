@@ -20,8 +20,7 @@ For stealing things, women also should incur guilt on this same principle; they 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.21?);—in *Madanapārijāta* (p.
-702) and in *Parāśaramādhava* (Prāyaścitta, p. 512).
+This verse is quoted in *Mitākṣarā* (3.21?);—in *Madanapārijāta* (p. 702) and in *Parāśaramādhava* (Prāyaścitta, p. 512).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

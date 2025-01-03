@@ -32,8 +32,7 @@ Though this is already implied in what has gone before (in the first line), yet 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 155) as introducing the
-enumeration of the different forms of marriage.
+This verse is quoted in *Madanapārijāta* (p. 155) as introducing the enumeration of the different forms of marriage.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

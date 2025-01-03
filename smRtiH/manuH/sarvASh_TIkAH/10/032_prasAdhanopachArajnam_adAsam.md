@@ -62,9 +62,7 @@ It is under orders of the king that men take to the profession of killing wild a
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Dasyu*’—‘One of the tribes described under verse 45’ (Medhātithi,
-Govindarāja and Kullūka);—‘one of this above-mentioned 15 Pratiloma
-races’ (Nārāyaṇa and Nandana).
+‘*Dasyu*’—‘One of the tribes described under verse 45’ (Medhātithi, Govindarāja and Kullūka);—‘one of this above-mentioned 15 Pratiloma races’ (Nārāyaṇa and Nandana).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -72,8 +70,7 @@ races’ (Nārāyaṇa and Nandana).
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

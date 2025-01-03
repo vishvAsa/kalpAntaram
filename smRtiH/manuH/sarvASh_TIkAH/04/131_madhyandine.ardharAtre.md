@@ -26,8 +26,7 @@ Under this explanation, however, it would be necessary to seek for some usage in
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 193);—in *Madanapārijāta* (p.
-121);—and in *Vīramitrodaya* (Saṃskāra, p. 576).
+This verse is quoted in *Aparārka* (p. 193);—in *Madanapārijāta* (p. 121);—and in *Vīramitrodaya* (Saṃskāra, p. 576).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -35,8 +34,7 @@ This verse is quoted in *Aparārka* (p. 193);—in *Madanapārijāta* (p.
 *Viṣṇu* (63.19).—‘he shall not stand upon road-crossings.’
 
 *Mahābhārata* (13. Anuśāsana, 161.28).—‘He shall not stand at
-road-crossings at midday, or at midnight, or late at night, or during
-the two twilights.’
+road-crossings at midday, or at midnight, or late at night, or during the two twilights.’
 </details>
 
 <details><summary>Bühler</summary>

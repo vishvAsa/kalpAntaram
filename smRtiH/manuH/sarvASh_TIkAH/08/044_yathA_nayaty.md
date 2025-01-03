@@ -32,8 +32,7 @@ The restriction of ‘inference’ as a means of finding out truth, already ment
 
 *Cf*. 12.104; also the *Mahābhārata* 12.132.21.
 
-‘*Padam*’—‘Footsteps’ (Medhātithi and Govindarāja)—and ‘lair’ (Kullūka
-and Rāghavānanda).
+‘*Padam*’—‘Footsteps’ (Medhātithi and Govindarāja)—and ‘lair’ (Kullūka and Rāghavānanda).
 
 This verse is quoted in, *Parāśaramādhava* (Vyavahāra, p. 30);—in
 *Smṛticandrikā* (Vyavahāra, p. 56);—and in *Kṛtyakalpataru* (5a).
@@ -53,16 +52,13 @@ finally the offence will become evident thereby.’
 *Nārada* (1.38).—‘As a huntsman traces the vestiges of a wounded deer in
 a thicket by the drops of blood, even so let the King trace justice.’
 
-Do. (1.40).—‘When it is impossible to act up to the precepts of sacred
-law, it becomes necessary to adopt a method founded on reasoning.’
+Do. (1.40).—‘When it is impossible to act up to the precepts of sacred law, it becomes necessary to adopt a method founded on reasoning.’
 
 *Bṛhaspati* (1.32).—‘The insight of kings surpasses by far the
-understandings of other persons, in the deciding of the highest, lowest
-and middling disputes.’
+understandings of other persons, in the deciding of the highest, lowest and middling disputes.’
 
 *Mahābhārata* (12.132.21).—‘Just as of a wounded deer, one foot-print
-leads to another through the blood-mark, so oven shall the King trace
-the steps of justice.’
+leads to another through the blood-mark, so oven shall the King trace the steps of justice.’
 </details>
 
 <details><summary>भारुचिः</summary>

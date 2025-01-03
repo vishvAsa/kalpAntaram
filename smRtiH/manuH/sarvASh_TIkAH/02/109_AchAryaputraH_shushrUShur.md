@@ -68,27 +68,20 @@ The revered teacher however says that what the term ‘*dharmataḥ*’ means is
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Dharmataḥ*’—‘According to the sacred law’ (Kullūka and Nandana);—‘for
-the sake of merit’ (Medhātithi, Govindarājā and Nārāyaṇa).
+‘*Dharmataḥ*’—‘According to the sacred law’ (Kullūka and Nandana);—‘for the sake of merit’ (Medhātithi, Govindarājā and Nārāyaṇa).
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 517) as laying
-down the duties of the Teacher;—in *Saṃskāramayūkha* (p. 51);—in
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 517) as laying down the duties of the Teacher;—in *Saṃskāramayūkha* (p. 51);—in
 *Saṃskāraratnamālā* (p. 812);—and in *Smṛticandrikā* (Saṃskāra, p. 140)
-which explains ‘*śaktaḥ*’ as ‘capable of acquiring knowledge’ and
-‘*jñānadaḥ*’ as ‘one who has imparted knowledge.’
+which explains ‘*śaktaḥ*’ as ‘capable of acquiring knowledge’ and ‘*jñānadaḥ*’ as ‘one who has imparted knowledge.’
 
 *Medhātithi* (p. 125, 1. 22)—‘*Upādhyāyastu*’—This ‘*Upādhyāya*’ is
-referred to several times. He is either Medhātithi’s teacher, or an
-older commentator on Manu. The former is more probable.
+referred to several times. He is either Medhātithi’s teacher, or an older commentator on Manu. The former is more probable.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (1.28).—‘(1) One who is grateful, (2) who bears no hatred,
-(3) who is exceptionally intelligent, (4) who is clean, (5) who is not
-jealous, (6) who is gentle, (7) who is competent, (8) a near relative,
-(9) who imparts knowledge and (10) who gives money;—these should be
-taught for the sake of merit.’
+(3) who is exceptionally intelligent, (4) who is clean, (5) who is not jealous, (6) who is gentle, (7) who is competent, (8) a near relative, (9) who imparts knowledge and (10) who gives money;—these should be taught for the sake of merit.’
 </details>
 
 <details><summary>Bühler</summary>

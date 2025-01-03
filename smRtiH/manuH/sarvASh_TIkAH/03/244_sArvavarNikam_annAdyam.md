@@ -20,11 +20,7 @@ The term ‘*varṇa*’ should be taken as standing for *kind*. Having ‘*mixe
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 750), which adds
-the following notes:—‘*Sārvavarṇikam*’ means ‘that food which contains
-the particular vegetable called *Sarvavarṇā*;—and in *Aparārka* (p.
-504), which explains that what is meant by ‘*sannīya*’ is that the food
-should be collected in one vessel.
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 750), which adds the following notes:—‘*Sārvavarṇikam*’ means ‘that food which contains the particular vegetable called *Sarvavarṇā*;—and in *Aparārka* (p. 504), which explains that what is meant by ‘*sannīya*’ is that the food should be collected in one vessel.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -32,8 +28,7 @@ should be collected in one vessel.
 *Viṣṇu* (81.21).—\[Reproduces Manu.\]
 
 *Yājñavalkya* (1.241).—‘Addressing them the words—*Are you
-satisfied*,—and having obtained their permission, he shall take up the
-food and scatter it on the ground, oífering water once for each.’
+satisfied*,—and having obtained their permission, he shall take up the food and scatter it on the ground, oífering water once for each.’
 
 *Āśvalāyana Gṛhyasūtra* (4.8.14).—‘Having scattered the food on the
 ground, ho should dismiss them, pronouncing *svadhā-om*.’

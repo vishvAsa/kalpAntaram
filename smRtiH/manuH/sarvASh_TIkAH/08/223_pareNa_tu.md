@@ -26,8 +26,7 @@ If the buyer does repent of the transaction and applies to the king for its resc
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (2.258);—in *Aparārka* (p. 831);—and
-in *Vivādaratnākara* (p. 199), which adds that the fine meant is 100
+This verse is quoted in *Mitākṣarā* (2.258);—in *Aparārka* (p. 831);—and in *Vivādaratnākara* (p. 199), which adds that the fine meant is 100
 *paṇas*;—in *Vivādacintāmaṇi* (p. 88);—and in *Kṛtyakalpataru* (108b).
 </details>
 
@@ -36,8 +35,7 @@ in *Vivādaratnākara* (p. 199), which adds that the fine meant is 100
 **(verses 8.222-223)  
 **
 
-See Comparative notes for [Verse
-8.222].
+See Comparative notes for [Verse 8.222].
 </details>
 
 <details><summary>भारुचिः</summary>

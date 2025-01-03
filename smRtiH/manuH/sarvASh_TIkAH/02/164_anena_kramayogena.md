@@ -28,12 +28,9 @@ the meaning*.—(164)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Curiously enough Buhler’s translation omits the phrase ‘*gurau vasan*’,
-rightly rendered by Burnell as ‘while dwelling with his guru.’
+Curiously enough Buhler’s translation omits the phrase ‘*gurau vasan*’, rightly rendered by Burnell as ‘while dwelling with his guru.’
 
-‘*Vedādhigamikam tapaḥ*.’—“Sanctity for the learning of the Veda”
-(Medhātithi);—‘austerity consisting of Vedic study’ (Nārāyaṇa and
-Nandana).
+‘*Vedādhigamikam tapaḥ*.’—“Sanctity for the learning of the Veda” (Medhātithi);—‘austerity consisting of Vedic study’ (Nārāyaṇa and Nandana).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

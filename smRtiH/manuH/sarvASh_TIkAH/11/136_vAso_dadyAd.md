@@ -32,8 +32,7 @@ On killing a ‘*hare*’, a ‘*one-year-old calf*’— as is clear from the p
 
 This verse is quoted in *Parāśaramādhava* (Prāyaścitta p. 69);—in
 *Mitākṣarā* (3.271);—and in *Prāyaścittaviveka* (p. 230), which explains
-the meaning to he that for the killing of an ass, a ram or a goat, one
-should give a one year old bullock.
+the meaning to he that for the killing of an ass, a ram or a goat, one should give a one year old bullock.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -46,8 +45,7 @@ shall perform a *Cāndrāyaṇa* after paying the prescribed fine.’
 
 *Viṣṇu* (50.25-28).—‘If he has killed an elephant, he shall give five
 *nīla* bulls; if he has killed a horse, he must give a cloth; if he has
-killed an ass, he must give a calf one year old; the same if he has
-killed a ram or a goat.’
+killed an ass, he must give a calf one year old; the same if he has killed a ram or a goat.’
 </details>
 
 <details><summary>भारुचिः</summary>

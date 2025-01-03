@@ -31,8 +31,7 @@ When persons fulfilling their duties and learned in the Veda lay down a certain 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (1.1.16).—‘Many thousands cannot form an Assembly, if they
-have not fulfilled their sacred duties, are unacquainted with the Veda,
-and subsist only by the name of their caste.’
+have not fulfilled their sacred duties, are unacquainted with the Veda, and subsist only by the name of their caste.’
 
 *Vaśiṣṭha* (3.5).—(Same as above.)
 

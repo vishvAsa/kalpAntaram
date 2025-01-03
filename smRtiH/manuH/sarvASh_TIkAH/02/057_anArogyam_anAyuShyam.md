@@ -45,8 +45,7 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 488); in
 **(Verse 56-57)  
 **
 
-See Comparative notes for [Verse
-2.56].
+See Comparative notes for [Verse 2.56].
 </details>
 
 <details><summary>Bühler</summary>

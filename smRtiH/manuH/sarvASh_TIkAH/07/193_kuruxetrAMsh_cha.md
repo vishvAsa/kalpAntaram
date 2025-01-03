@@ -47,8 +47,7 @@ This verse is quoted in *Parāśaramādhava* (Ācāra; p. 402);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Kāmandaka* (18.8).—‘The low forest-tribes are by nature faithless,
-greedy and sinful; for this reason the weaned over troops of the enemy
-are better than they who are wild and undisciplined.’
+greedy and sinful; for this reason the weaned over troops of the enemy are better than they who are wild and undisciplined.’
 </details>
 
 <details><summary>भारुचिः</summary>

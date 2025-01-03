@@ -54,22 +54,16 @@ That may be so; and in that case, the present right may be only a reiteration of
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 290), which notes that this
-is meant to apply only to the offering of water;—in *Aparārka*, (p.
-488);—in *Hemādri* (Śrāddha, p. 675);—in *Gadādharapaddhati*, (Kāla, p.
-549);—and in *Smṛtisāroddhāra*, (p. 277).
+This verse is quoted in *Madanapārijāta* (p. 290), which notes that this is meant to apply only to the offering of water;—in *Aparārka*, (p. 488);—in *Hemādri* (Śrāddha, p. 675);—in *Gadādharapaddhati*, (Kāla, p. 549);—and in *Smṛtisāroddhāra*, (p. 277).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (9.14, 17, 24).—‘He should offer metallic vessels;—specially
-those of silver;—whatever is offered with a vessel—howsoever small—made
-of gold or silver or rhinoceros-horn or *Udumbara* wood,—becomes
-imperishable.’
+those of silver;—whatever is offered with a vessel—howsoever small—made of gold or silver or rhinoceros-horn or *Udumbara* wood,—becomes imperishable.’
 
 *Yājñavalkya* (1.237).—‘The remnant of the oblations one should
-carefully offer into vessels, such as may be available; but specially in
-those of silver.’
+carefully offer into vessels, such as may be available; but specially in those of silver.’
 </details>
 
 <details><summary>Bühler</summary>

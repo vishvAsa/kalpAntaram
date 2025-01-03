@@ -31,19 +31,9 @@ Similarly, by mentioning the sins going to be enumerated (in the next verse), he
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Gobījakañcanaiḥ*’—‘Threatening him with the guilt of all offences
-committed against kine and the rest’ (Medhātithi) ‘with the guilt of the
-theft of kine etc.’ (Govindarāja, Kullūka and Rāghavānanda);—‘with the
-loss of his kine etc.’ (Nārāyaṇa);—‘by making him touch the cow and
-other things’ (Nandana).
+‘*Gobījakañcanaiḥ*’—‘Threatening him with the guilt of all offences committed against kine and the rest’ (Medhātithi) ‘with the guilt of the theft of kine etc.’ (Govindarāja, Kullūka and Rāghavānanda);—‘with the loss of his kine etc.’ (Nārāyaṇa);—‘by making him touch the cow and other things’ (Nandana).
 
-This verse is quoted in *Aparārka* (p. 674);—and in *Parāśaramādhava*
-(Vyavahāra, p. 78), where however the first half is read as “sasyena
-śāpayedvi??aṃ kṣanniyaṃ vāhanāyudhaiḥ”;—in *Smṛtitattva* (II, p. 215),
-which adds:—The Vaiśya is to be admonished with the words:—‘those sins
-would accrue to you which are involved in stealing the cow etc. if you
-tell a lie and the Śūdra with the words—‘all kinds of sins would fall on
-you etc. etc.’;—in *Smṛticandrikā* (Vyavahāra, p. 204);—and in
+This verse is quoted in *Aparārka* (p. 674);—and in *Parāśaramādhava* (Vyavahāra, p. 78), where however the first half is read as “sasyena śāpayedvi??aṃ kṣanniyaṃ vāhanāyudhaiḥ”;—in *Smṛtitattva* (II, p. 215), which adds:—The Vaiśya is to be admonished with the words:—‘those sins would accrue to you which are involved in stealing the cow etc. if you tell a lie and the Śūdra with the words—‘all kinds of sins would fall on you etc. etc.’;—in *Smṛticandrikā* (Vyavahāra, p. 204);—and in
 *Kṛtyakalpataru* (33b).
 </details>
 
@@ -51,13 +41,10 @@ you etc. etc.’;—in *Smṛticandrikā* (Vyavahāra, p. 204);—and in
 
 *Viṣṇu* (8.20-23).—‘The Brāhmaṇa witness, the Judge shall exhort to
 *declare*,—the Kṣatriya, to *declare the truth*:—the Vaiśya he shall
-address thus:—‘*Thy kine and gold shall yield thee no fruit*”;—the Śūdra
-he should address thus:—“*Thou shalt have to atone for all heavy
-crimes*.”’
+address thus:—‘*Thy kine and gold shall yield thee no fruit*”;—the Śūdra he should address thus:—“*Thou shalt have to atone for all heavy crimes*.”’
 
 *Nārada* (1.198).—‘He shall cause the Brāhmaṇa to swear by truth, the
-Kṣatriya by his conveyances and weapons, the Vaiśya by his cows, grain
-or gold; and the Śūdra by all sorts of crimes.’
+Kṣatriya by his conveyances and weapons, the Vaiśya by his cows, grain or gold; and the Śūdra by all sorts of crimes.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -44,17 +44,14 @@ Everything else, in the shape of wife, son and so forth,—except Morality—per
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Hitopadeśa* 1,59;—in *Hemādri* (Vrata, p.
-14);—in *Nṛsiṃhaprasāda* (Saṃskāra, p. 17a);—and in *Kṛtyakalpataru*
-(11a).
+This verse is quoted in *Hitopadeśa* 1,59;—in *Hemādri* (Vrata, p. 14);—in *Nṛsiṃhaprasāda* (Saṃskāra, p. 17a);—and in *Kṛtyakalpataru* (11a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 8.16-17)**
 
-See Comparative notes for [Verse
-8.16].
+See Comparative notes for [Verse 8.16].
 </details>
 
 <details><summary>भारुचिः</summary>

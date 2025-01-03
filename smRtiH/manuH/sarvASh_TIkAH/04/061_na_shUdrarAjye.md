@@ -49,8 +49,7 @@ This verse is quoted in *Smṛticandrikā* (p. 20).
 **(verses 4.60-61)  
 **
 
-See Comparative notes for [Verse
-4.60].
+See Comparative notes for [Verse 4.60].
 </details>
 
 <details><summary>Bühler</summary>

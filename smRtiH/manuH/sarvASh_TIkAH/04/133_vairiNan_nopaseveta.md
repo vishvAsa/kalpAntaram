@@ -38,21 +38,15 @@ To his enemy, he shall not send presents,—he shall not sit or stand in the sam
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 194);—in *Parāśaramādhava*
-(Ācāra, p. 523);—and in *Vīramitrodaya* (Saṃskāra, p. 576).
+This verse is quoted in *Aparārka* (p. 194);—in *Parāśaramādhava* (Ācāra, p. 523);—and in *Vīramitrodaya* (Saṃskāra, p. 576).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (Śānti, 138.192.191).—‘O Friend, wise men do not, without
-reason, place themselves under the influence of their enemies...... He
-shall not trust the untrust worthy, even the trustworthy he shall not
-trust over-much; he should always make others trust him, but he himself
-shall not trust others.’
+reason, place themselves under the influence of their enemies...... He shall not trust the untrust worthy, even the trustworthy he shall not trust over-much; he should always make others trust him, but he himself shall not trust others.’
 
-Do. (139.75).—‘Having done harm to a certain person, he shall not trust
-him......... By reposing trust upon a person after having injured him,
-one always falls into trouble.’
+Do. (139.75).—‘Having done harm to a certain person, he shall not trust him......... By reposing trust upon a person after having injured him, one always falls into trouble.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -38,28 +38,16 @@ Another reading is ‘*kṛtā tu sārādadhikā*’; and the meaning of the tex
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse in quoted in *Vivādaratnākara* (p. 14), which adds the
-following explanations:—Any interest, over and above what has been
-prescribed in the scriptures,—such as
+This verse in quoted in *Vivādaratnākara* (p. 14), which adds the following explanations:—Any interest, over and above what has been prescribed in the scriptures,—such as
 
-2 per cent and so forth,—cannot be permitted, even though agreed to by
-the debtor;—why?—because they declare this to be the ‘usurious way’. If,
-under the stress of business, the creditor wishes to reap a large profit
-out of the debtor, then the utmost that he can recover is 5 per
-cent,—and not more, even though the debtor may have agreed to it;—and in
+2 per cent and so forth,—cannot be permitted, even though agreed to by the debtor;—why?—because they declare this to be the ‘usurious way’. If, under the stress of business, the creditor wishes to reap a large profit out of the debtor, then the utmost that he can recover is 5 per cent,—and not more, even though the debtor may have agreed to it;—and in
 *Kṛtyakalpataru* (p. 68b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Bṛhaspati* (11.9, 10-12).—‘That interest has always to be paid which
-has been stipulated by the debtor himself, over and above the ordinary
-rate of interest, and has been promised in times of distress; when such
-special interest has been stipulated in any other manner, it must not be
-paid by any means. The use of a pledge after twice the principal has
-been realised from it, compound interest, and the exaction of the
-principal and interest together (as principal) are usury and are
-reprehensible.’
+has been stipulated by the debtor himself, over and above the ordinary rate of interest, and has been promised in times of distress; when such special interest has been stipulated in any other manner, it must not be paid by any means. The use of a pledge after twice the principal has been realised from it, compound interest, and the exaction of the principal and interest together (as principal) are usury and are reprehensible.’
 </details>
 
 <details><summary>भारुचिः</summary>

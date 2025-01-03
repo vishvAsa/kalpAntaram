@@ -34,9 +34,7 @@ The meaning is that neither habitation nor barbaric speech is a ground for regar
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vaidehikāt*’—‘From a Vaidehika father, by women of the Kārāvara and
-Niṣāda castes (Medhātithi and Kullūka);—by women of the Vaideha caste’
-(Govindarāja).
+‘*Vaidehikāt*’—‘From a Vaidehika father, by women of the Kārāvara and Niṣāda castes (Medhātithi and Kullūka);—by women of the Vaideha caste’ (Govindarāja).
 </details>
 
 <details><summary>भारुचिः</summary>

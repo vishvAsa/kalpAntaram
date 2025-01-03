@@ -28,8 +28,7 @@ present verse, there would be no point in the prohibition of ‘begging’ conta
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 168);—and in *Hemādri* (Dāna, p.
-60).
+This verse is quoted in *Aparārka* (p. 168);—and in *Hemādri* (Dāna, p. 60).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

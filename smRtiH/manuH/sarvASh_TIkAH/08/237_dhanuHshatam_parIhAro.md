@@ -32,31 +32,18 @@ the ‘bow’ is four cubits in length; four hundred such ‘bows.’
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 774), which adds the following
-notes:—‘*Śaṃyā*’ is the piece of wood which serves as the bolt keeping
-the bullock fixed to the yoke,—and the distance covered by the tin-owing
-of tins piece of wood is what is called ‘*Śamyāpāta*.’
+This verse is quoted in *Aparārka* (p. 774), which adds the following notes:—‘*Śaṃyā*’ is the piece of wood which serves as the bolt keeping the bullock fixed to the yoke,—and the distance covered by the tin-owing of tins piece of wood is what is called ‘*Śamyāpāta*.’
 
-It is quoted in *Vivādaratnākara* (p. 231), which, reading
-‘*Saṃyāpātāḥ*’ (in place of ‘*Śaṃyāpātāḥ*’) notes that the ‘*Sami*’ is a
-wooden bolt, and three times the distance covered by the throwing of it
-should be the extent of the pasture-land round the village, and three
-times this should be the pasture-land surrounding a city.
+It is quoted in *Vivādaratnākara* (p. 231), which, reading ‘*Saṃyāpātāḥ*’ (in place of ‘*Śaṃyāpātāḥ*’) notes that the ‘*Sami*’ is a wooden bolt, and three times the distance covered by the throwing of it should be the extent of the pasture-land round the village, and three times this should be the pasture-land surrounding a city.
 
-It is quoted in *Vyavahāramayūkha* (p. 96), which explains ‘*parīhāra*’
-as ‘land reserved for the grazing of cattle—and in
+It is quoted in *Vyavahāramayūkha* (p. 96), which explains ‘*parīhāra*’ as ‘land reserved for the grazing of cattle—and in
 *Vyavahāra-Bālambhaṭṭī* (p. 817).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (2.166-167).—‘In accordance with the wishes of the
-village-people, and in consonance with the extent of land available and
-the orders of the King, pasture-land for the grazing of cows shall he
-reserved...... This pasture-land shall he one hundred bow-lengths in
-extent, and shall he beyond the village and the cultivated holds; it
-shall he two hundred how-lengths round a market-town, and four hundred
-bow-lengths round a city.’
+village-people, and in consonance with the extent of land available and the orders of the King, pasture-land for the grazing of cows shall he reserved...... This pasture-land shall he one hundred bow-lengths in extent, and shall he beyond the village and the cultivated holds; it shall he two hundred how-lengths round a market-town, and four hundred bow-lengths round a city.’
 </details>
 
 <details><summary>भारुचिः</summary>

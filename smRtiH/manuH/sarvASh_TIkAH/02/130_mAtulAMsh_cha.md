@@ -36,11 +36,7 @@ When the said persons have arrived, one should rise to meet them and accost them
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Gurūn*’—‘Superiors, in point of wealth, &c.’ (Medhātithi);—‘those
-venerable on account of learning and austerities (Kullūka and
-Rāghavānanda);—‘the husband of a maternal aunt and so forth, but not
-those more learned than himself’ (Govindarāja);—‘the teacher and the
-rest’ (Nandana);—‘Subteachers’ (Nārāyaṇa).
+‘*Gurūn*’—‘Superiors, in point of wealth, &c.’ (Medhātithi);—‘those venerable on account of learning and austerities (Kullūka and Rāghavānanda);—‘the husband of a maternal aunt and so forth, but not those more learned than himself’ (Govindarāja);—‘the teacher and the rest’ (Nandana);—‘Subteachers’ (Nārāyaṇa).
 
 *Medhātithi* (p. 133, 1. 27)—‘*Gautamīye*’—This refers to Gautama 6.9,
 which reads—
@@ -53,30 +49,24 @@ which reads—
 
 *cf*. also Manu, 2.136.
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 456), where it is
-explained that the term ‘*gurūn*’ stands for those who are possessed of
-superior learning and other qualifications.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 456), where it is explained that the term ‘*gurūn*’ stands for those who are possessed of superior learning and other qualifications.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama-Dharmasūtra* (6.9).—‘One should rise to welcome the priest, the
-father-in-law, the paternal uncle, and the maternal uncle; but they
-should not be saluted, if they are junior in age.’
+father-in-law, the paternal uncle, and the maternal uncle; but they should not be saluted, if they are junior in age.’
 
 *Baudhāyana-Dharmasūtra* (2.46).—‘The priest, the father-in-law, the
-paternal uncle and the maternal uncle, when they are junior in age,—one
-should accost after rising from the seat.’
+paternal uncle and the maternal uncle, when they are junior in age,—one should accost after rising from the seat.’
 
 *Āpastamba-Dharmasūtra* (1.14.11).—‘One should rise and accost,—or
-silently embrace—the priest, the father-in-law, the paternal uncle and
-the maternal uncle, if they are junior in age.’
+silently embrace—the priest, the father-in-law, the paternal uncle and the maternal uncle, if they are junior in age.’
 
 *Vaśiṣṭha-Smṛti* (13.13)—(reproduces the words of Āpastamba).
 
 *Viṣṇu-Smṛti* (32.4).—‘In the case of the father-in-law, the paternal
-uncle and the maternal uncle, if these are junior in age—salutation
-consists in rising to welcome.’
+uncle and the maternal uncle, if these are junior in age—salutation consists in rising to welcome.’
 </details>
 
 <details><summary>Bühler</summary>

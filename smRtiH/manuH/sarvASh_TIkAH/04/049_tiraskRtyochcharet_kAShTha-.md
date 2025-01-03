@@ -37,14 +37,9 @@ This verse is supplementary to the foregoing one.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse, which is 52 in Buhler, Burnell and Kullūka and other
-commentators, is 49 according to Medhātithi, who remarks that ‘some
-people do not read this verse in the present Discourse’. It is
-interesting, in the light of this remark, to note that this verse is not
-quoted in any of the important Nibandhas.
+This verse, which is 52 in Buhler, Burnell and Kullūka and other commentators, is 49 according to Medhātithi, who remarks that ‘some people do not read this verse in the present Discourse’. It is interesting, in the light of this remark, to note that this verse is not quoted in any of the important Nibandhas.
 
-This verse is quoted in *Nityācārapradīpa* (p. 248), which explains
-‘*saṃvītāṅgaḥ*’ as ‘with the sacred thread hanging by the neck.’
+This verse is quoted in *Nityācārapradīpa* (p. 248), which explains ‘*saṃvītāṅgaḥ*’ as ‘with the sacred thread hanging by the neck.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -52,8 +47,7 @@ This verse is quoted in *Nityācārapradīpa* (p. 248), which explains
 **(verses 4.45-49)  
 **
 
-See Comparative notes for [Verse
-4.45].
+See Comparative notes for [Verse 4.45].
 </details>
 
 <details><summary>Bühler</summary>

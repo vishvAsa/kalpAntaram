@@ -24,15 +24,13 @@ When one speaks in a manner contrary to the scriptures, his words are called ‘
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 953);—in *Parāśaramādhava*
-(Ācāra, p. 569);—and in *Yatidharmasaṅgraha* (p. 107).
+This verse is quoted in *Aparārka* (p. 953);—in *Parāśaramādhava* (Ācāra, p. 569);—and in *Yatidharmasaṅgraha* (p. 107).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (12.278.6)—(Reproduces the first half of Manu).—‘When
-angry, he should speak gently; when abused, he should speak in an
-agreeable manner.’
+angry, he should speak gently; when abused, he should speak in an agreeable manner.’
 
 *Gautama* (3.24).—‘He shall be indifferent towards all creatures, and to
 an injury or to a kindness.’
@@ -44,9 +42,7 @@ thought and action,—he shall not injure created beings.’
 and kindness towards living beings.’
 
 *Viṣṇu* (96.19, 29, 23).—‘He must hear abuse patiently;—he must treat no
-one with contempt. Should one man chop his one arm with an axe, and
-another sprinkle his other arm with sandal, he must neither curse the
-one in his mind, nor bless the other.’
+one with contempt. Should one man chop his one arm with an axe, and another sprinkle his other arm with sandal, he must neither curse the one in his mind, nor bless the other.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -122,60 +122,28 @@ Or, when what is lent is *gold*, and what is received in interest is
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘A creditor may take, for the term of a year, interest which has been
-settled by the following agreement—“when one, two or three months have
-passed, the interest on the capital shall be calculated and paid to me
-at one time”; but he shall not take the interest according to the
-agreement, if the year has passed’ (Kullūka and Rāghavānanda);—‘If the
-creditor does not take the money due for two or three years, and the
-debtor pays then, the creditor shall not take more interest than for one
-year’ (Govindarāja).
+‘A creditor may take, for the term of a year, interest which has been settled by the following agreement—“when one, two or three months have passed, the interest on the capital shall be calculated and paid to me at one time”; but he shall not take the interest according to the agreement, if the year has passed’ (Kullūka and Rāghavānanda);—‘If the creditor does not take the money due for two or three years, and the debtor pays then, the creditor shall not take more interest than for one year’ (Govindarāja).
 
-‘*Adrṣṭam*’—‘Not found (in the *Śāstras*)’ (Medhātithi, Kullūka and
-Rāghavānanda);—‘not accumulated by the lapse of several months’
-(Medhātithi, alternatively and Nārāyaṇa).
+‘*Adrṣṭam*’—‘Not found (in the *Śāstras*)’ (Medhātithi, Kullūka and Rāghavānanda);—‘not accumulated by the lapse of several months’ (Medhātithi, alternatively and Nārāyaṇa).
 
-‘*Kālavṛddhiḥ*’—‘Periodical (*i.e*., monthly) interest’ (Medhātithi,
-Govindarāja, Nārāyaṇa and Kullūka, who is not rightly represented by
-Buhler).—See Nārada —‘*Pratimāsam bhavantī yā vṛddhiḥ sā kālikā sṛmtā*
-(*smṛta*?)’ (‘*kālikā*’ being the technical name for *monthly interest*,
+‘*Kālavṛddhiḥ*’—‘Periodical (*i.e*., monthly) interest’ (Medhātithi, Govindarāja, Nārāyaṇa and Kullūka, who is not rightly represented by Buhler).—See Nārada —‘*Pratimāsam bhavantī yā vṛddhiḥ sā kālikā sṛmtā* (*smṛta*?)’ (‘*kālikā*’ being the technical name for *monthly interest*,
 *kālavṛddhiḥ*).
 
-‘*Kāyikā*’—‘To be paid by bodily labour’ (Medhātithi),—or ‘by the use of
-a pledged animal or slave’ (Medhātithi, alternative, Kullūka,
-Rāghavānanda and Nandana).
+‘*Kāyikā*’—‘To be paid by bodily labour’ (Medhātithi),—or ‘by the use of a pledged animal or slave’ (Medhātithi, alternative, Kullūka, Rāghavānanda and Nandana).
 
-This verse is quoted in *Vivādaratnākara* (p. 9), which adds the
-following notes:—‘*Atisāṃvatsarī*’ is that which has gone beyond a year.
-The meaning is that if the creditor, suspecting an early repayment of
-the loan, should stipulate that the loan must continue for a certain
-time, then he cannot stipulate for more than a year. Halāyudha, however
-holds the meaning to be that however much be the eagerness of the
-creditor to earn much interest, he should receive payment before one
-year passes, and not beyond that.—Nor should he receive an interest that
-is ‘*adṛṣtā*,’ ‘not permitted by the scriptures.’—There are four kinds
-of interest not permitted,—*cakravṛddhi*, *kālavṛddhi*, *kāritā* and
+This verse is quoted in *Vivādaratnākara* (p. 9), which adds the following notes:—‘*Atisāṃvatsarī*’ is that which has gone beyond a year. The meaning is that if the creditor, suspecting an early repayment of the loan, should stipulate that the loan must continue for a certain time, then he cannot stipulate for more than a year. Halāyudha, however holds the meaning to be that however much be the eagerness of the creditor to earn much interest, he should receive payment before one year passes, and not beyond that.—Nor should he receive an interest that is ‘*adṛṣtā*,’ ‘not permitted by the scriptures.’—There are four kinds of interest not permitted,—*cakravṛddhi*, *kālavṛddhi*, *kāritā* and
 *kāyikā*; these he should not take.
 
-It is quoted in *Madanapārijāta* (p. 229);—in *Vīdhanapārijāta* (II, p.
-252);—in *Nṛsiṃhaprasāda* (Āhnika, 36a);—and in *Kṛtyakalpataru* (67b),
-which adds the explanation.—‘The interest is to be calculated from the
-first month upto the end of the year, and not beyond that.’
+It is quoted in *Madanapārijāta* (p. 229);—in *Vīdhanapārijāta* (II, p. 252);—in *Nṛsiṃhaprasāda* (Āhnika, 36a);—and in *Kṛtyakalpataru* (67b), which adds the explanation.—‘The interest is to be calculated from the first month upto the end of the year, and not beyond that.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (12.30, 34-35).—‘Some declare that the said rates of interest
-should not be paid longer than a year. The following are the special
-forms of interest:—Compound interest, Periodical interest, Stipulated
-interest, Corporal interest, Daily interest and interest in the shape of
-using the pledge.’
+should not be paid longer than a year. The following are the special forms of interest:—Compound interest, Periodical interest, Stipulated interest, Corporal interest, Daily interest and interest in the shape of using the pledge.’
 
 *Nārada* (l.102-104)—‘Interest has been declared in lawbooks to be of
-four kinds:—Periodical, Stipulated, *Kāyikā*, and Compound. That which
-runs by the month is Periodical interest; that promised by the debtor
-himself is Stipulated interest; interest at the rate of one Paṇa and a
-quarter, paid regularly without diminishing the principal, is denoted
+four kinds:—Periodical, Stipulated, *Kāyikā*, and Compound. That which runs by the month is Periodical interest; that promised by the debtor himself is Stipulated interest; interest at the rate of one Paṇa and a quarter, paid regularly without diminishing the principal, is denoted
 *Kāyikā* interest; interest upon interest is called Compound interest.’
 
 *Bṛhaspati* (11.4-12).—‘Interest has been declared by some to be of four
@@ -183,19 +151,10 @@ kinds; by others, of five kinds; and by others again, of six kinds.
 *Kāyikā*, *Kālikā*, *Cakravṛddhi*, *Kāritā*, *Śikhāvṛddhi*, and
 *Bhogalābha*. *Kāyikā* interest is in the form of bodily labour;
 *Kālikā* is what is due every month; *Cakravṛddhi* is interest on
-interest; *Kāritā* is interest promised by the debtor; when interest is
-received every day, it is called *Śikhāvṛddhi*; because it grows
-constantly like *hair*, except on the loss of the head, that is, the
-payment of the principal. The use of a mortgaged house, or the produce
-of a field, is termed *Bhogalābha*. *Sikhā* interest, *Kāyikā* interest
-and *Bhogalābha* interest shall be realised by the creditor so long as
-the principal remains unpaid. But the use of a pledge after twice the
-principal has been realised, compound interest, and the exaction of the
-interest and the principal together are usury and are reprehensible.’
+interest; *Kāritā* is interest promised by the debtor; when interest is received every day, it is called *Śikhāvṛddhi*; because it grows constantly like *hair*, except on the loss of the head, that is, the payment of the principal. The use of a mortgaged house, or the produce of a field, is termed *Bhogalābha*. *Sikhā* interest, *Kāyikā* interest and *Bhogalābha* interest shall be realised by the creditor so long as the principal remains unpaid. But the use of a pledge after twice the principal has been realised, compound interest, and the exaction of the interest and the principal together are usury and are reprehensible.’
 
 *Śukranīti* (4.5.638).—‘Creditors take away people’s wealth by the
-compound rate of interest; so the King should protect the people from
-them.’
+compound rate of interest; so the King should protect the people from them.’
 </details>
 
 <details><summary>भारुचिः</summary>

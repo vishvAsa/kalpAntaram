@@ -48,9 +48,7 @@ The treatment of the ‘non-payment of debts’ has been finished. This also is 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Pratyaya*’—‘Inference and supernatural proof’
-(Medhātithi);—‘inference, oaths and so forth’ (Govindarāja);—‘oaths’
-(Nārāyaṇa and Nandana).
+‘*Pratyaya*’—‘Inference and supernatural proof’ (Medhātithi);—‘inference, oaths and so forth’ (Govindarāja);—‘oaths’ (Nārāyaṇa and Nandana).
 
 This verse is quoted in *Vivādaratnākara* (p. 618).
 </details>
@@ -58,8 +56,7 @@ This verse is quoted in *Vivādaratnākara* (p. 618).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Bṛhaspati* (27.25)—‘Thus let the King every day examine in common with
-learned Brāhmaṇas, both the suits preferred by litigants and those
-instituted by the King himself.’
+learned Brāhmaṇas, both the suits preferred by litigants and those instituted by the King himself.’
 </details>
 
 <details><summary>भारुचिः</summary>

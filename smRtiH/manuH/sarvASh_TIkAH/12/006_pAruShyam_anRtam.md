@@ -24,9 +24,7 @@ Abusing, lying, calumniating all men, and idle prattling,—are the pour kinds o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 692);—in *Aparārka* (p.
-998);—in *Nṛsiṃhaprasāda* (Prāyaścitta 41a);—in *Hemādri* (Kāla, p.
-632);—and in *Smṛtisāroddhāra* (p. 88).
+This verse is quoted in *Madanapārijāta* (p. 692);—in *Aparārka* (p. 998);—in *Nṛsiṃhaprasāda* (Prāyaścitta 41a);—in *Hemādri* (Kāla, p. 632);—and in *Smṛtisāroddhāra* (p. 88).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

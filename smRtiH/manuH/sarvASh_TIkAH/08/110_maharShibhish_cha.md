@@ -47,9 +47,7 @@ during his reign, on being accused by Viśvāmitra in the midst of an assembly, 
 
 ‘*Paijavana*’ is another name for king Sudās, say Nārāyāṇa and Kullūka.
 
-For the story of the seven sages, see the Mahābhārata 13.93; 13. “See
-Sāyana on Ṛgveda 7.104.15, which is considered to contain the oath
-sworn.”—Buhler.
+For the story of the seven sages, see the Mahābhārata 13.93; 13. “See Sāyana on Ṛgveda 7.104.15, which is considered to contain the oath sworn.”—Buhler.
 
 This verse is quoted in *Vyavahāra-Bālambhaṭṭī* (p. 406);—and in
 *Kṛtyakalpataru* (62a).
@@ -58,14 +56,10 @@ This verse is quoted in *Vyavahāra-Bālambhaṭṭī* (p. 406);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (1.243, 244).—‘Of gods and sages even, the taking of oaths is
-recorded. Vasiṣṭha took an oath when he was accused of having assumed
-the shape of an evil spirit. The seven *Ṛṣis* resolutely took an oath
-together with Indra, in order to clean themselves mutually of suspicion,
-when each was suspected of having stolen lotus-fibres.’
+recorded. Vasiṣṭha took an oath when he was accused of having assumed the shape of an evil spirit. The seven *Ṛṣis* resolutely took an oath together with Indra, in order to clean themselves mutually of suspicion, when each was suspected of having stolen lotus-fibres.’
 
 *Śukranīti* (4.5.461).—‘Ordeals are known as *divya*, *divine*, because
-they were used by the *devas*, gods, in the discrimination of difficult
-cases.’
+they were used by the *devas*, gods, in the discrimination of difficult cases.’
 </details>
 
 <details><summary>भारुचिः</summary>

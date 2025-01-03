@@ -34,11 +34,7 @@ As a matter of fact however, the former explanation appears to be more reasonabl
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 396), which adds the
-following explanatory notes:—For having recourse to a guarded Brāhmaṇa
-woman, the Vaiśya is to be imprisoned for one year and his entire
-property is to be confiscated,—the Kṣatriya is to be fined 1000, and
-shall have his head wetted with urine and then shaved;—and in
+This verse is quoted in *Vivādaratnākara* (p. 396), which adds the following explanatory notes:—For having recourse to a guarded Brāhmaṇa woman, the Vaiśya is to be imprisoned for one year and his entire property is to be confiscated,—the Kṣatriya is to be fined 1000, and shall have his head wetted with urine and then shaved;—and in
 *Vyavahāra-Bālambhaṭṭī* (p. 1009).
 </details>
 
@@ -46,8 +42,7 @@ shall have his head wetted with urine and then shaved;—and in
 
 **(verses 8.374-378)**
 
-See Comparative notes for [Verse
-8.374].
+See Comparative notes for [Verse 8.374].
 </details>
 
 <details><summary>भारुचिः</summary>

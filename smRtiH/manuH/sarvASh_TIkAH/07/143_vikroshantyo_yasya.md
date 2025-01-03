@@ -24,20 +24,16 @@ If the king is not awake to the necessity of establishing outposts, then his sub
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 294), which explains
-‘*hriyante*’ as ‘are robbed’; and adds that the Genitive in
-‘*sampaśyataḥ*’ denotes *disregard*.
+This verse is quoted in *Vivādaratnākara* (p. 294), which explains ‘*hriyante*’ as ‘are robbed’; and adds that the Genitive in ‘*sampaśyataḥ*’ denotes *disregard*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (13.61.31).—‘A king in whose kingdom women are taken away
-by force, while their husbands and sons are crying for help, is really
-dead; he is not alive.’
+by force, while their husbands and sons are crying for help, is really dead; he is not alive.’
 
 *Āpastamba* (Vivādaratnākara, p. 294).—‘That king is said to he the
-ordainer of security in whose kingdom there is no fear of thieves,
-either in villages or in forests.’
+ordainer of security in whose kingdom there is no fear of thieves, either in villages or in forests.’
 
 *Hārīta* (Do.).—‘If wicked robbers prosper in the kingdom of a king, the
 sin being very much enhanced cuts off the very roots of that king.’

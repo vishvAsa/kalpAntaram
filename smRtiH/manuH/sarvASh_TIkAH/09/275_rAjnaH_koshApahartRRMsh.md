@@ -32,19 +32,9 @@ It has been already explained that since the penalty is meant for the accomplish
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 853), which notes that ‘*rājñaḥ*’
-is to be construed with each of the other terms;—again on p. 864, it
-adds the following notes:—‘*Upajāpakāḥ*’ supporters,—‘*Vividhaiḥ
-daṇḍaiḥ*’ *i.e*. every form of punishment should be inflicted in
-accordance with the nature of the offence.
+This verse is quoted in *Aparārka* (p. 853), which notes that ‘*rājñaḥ*’ is to be construed with each of the other terms;—again on p. 864, it adds the following notes:—‘*Upajāpakāḥ*’ supporters,—‘*Vividhaiḥ daṇḍaiḥ*’ *i.e*. every form of punishment should be inflicted in accordance with the nature of the offence.
 
-It is quoted in *Mitākṣarā* (2.302), which explains ‘*vividhaiḥ
-daṇḍaiḥ*’ as ‘such penalties as confiscation of the entire property,
-cutting off of limbs and death;’—in *Vivādaratnākara* (p. 367), which
-explains ‘*koṣa*’ as the ‘king’s amassed wealth’,—and ‘*upajāpakān*’ as
-persons creating dissension in the kingdom (among the *soldiers*,
-‘*virāṇām*’ which is its reading for ‘*arīṇām*’);—in *Vyavahāramayūkha*
-(p. 110);—in *Parāśaramādhava* (Vyavahara, p. 395);—in
+It is quoted in *Mitākṣarā* (2.302), which explains ‘*vividhaiḥ daṇḍaiḥ*’ as ‘such penalties as confiscation of the entire property, cutting off of limbs and death;’—in *Vivādaratnākara* (p. 367), which explains ‘*koṣa*’ as the ‘king’s amassed wealth’,—and ‘*upajāpakān*’ as persons creating dissension in the kingdom (among the *soldiers*, ‘*virāṇām*’ which is its reading for ‘*arīṇām*’);—in *Vyavahāramayūkha* (p. 110);—in *Parāśaramādhava* (Vyavahara, p. 395);—in
 *Vyavahāra-Bālambhaṭṭī* (p. 991);—and in *Vīramitrodaya* (Vyavahāra
 225b).
 </details>
@@ -52,20 +42,13 @@ persons creating dissension in the kingdom (among the *soldiers*,
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Kātyāyana* (Vivādaratnākara, p. 368).—‘Those who are addicted to
-amusements reserved for the King, those who take upon themselves the
-functions of the King, and those who talk ill of the King, all these
-shall suffer corporal punishment.—Those who assume the appearance of the
-King, those who amuse themselves during the hours of work, those who
-extort exorbitant taxes, and those who steal the King’s wealth,—should
-suffer diverse forms of corporal punishment.’
+amusements reserved for the King, those who take upon themselves the functions of the King, and those who talk ill of the King, all these shall suffer corporal punishment.—Those who assume the appearance of the King, those who amuse themselves during the hours of work, those who extort exorbitant taxes, and those who steal the King’s wealth,—should suffer diverse forms of corporal punishment.’
 
 *Viṣṇu* (Do., p. 369).—‘Those who, not belonging to the royal family,
 seek to obtain the kingdom should be put to death.’
 
 *Vyāsa* (Parāśaramādhava-Vyavahāra, p. 395).—‘Those Judges who, on
-receiving bribes, decide a case unjustly, those who injure the King’s
-property, those who live on bribes,—these the King shall banish, after
-having confiscated all their property.’
+receiving bribes, decide a case unjustly, those who injure the King’s property, those who live on bribes,—these the King shall banish, after having confiscated all their property.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -39,10 +39,7 @@ What is meant by the last phrase includes also the dropping of all such courtesi
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.295) to the effect that the
-outcast should thenceforward be kept outside the pale of conversation,
-sitting together and other forms of association;—and in *Nirṇayasindhu*
-(p. 409).
+This verse is quoted in *Mitākṣarā* (3.295) to the effect that the outcast should thenceforward be kept outside the pale of conversation, sitting together and other forms of association;—and in *Nirṇayasindhu* (p. 409).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -53,8 +50,7 @@ sitting together and other forms of association;—and in *Nirṇayasindhu*
 [\[See above,
 9.201.\]]
 
-See Comparative notes for [Verse
-11.182].
+See Comparative notes for [Verse 11.182].
 </details>
 
 <details><summary>Bühler</summary>

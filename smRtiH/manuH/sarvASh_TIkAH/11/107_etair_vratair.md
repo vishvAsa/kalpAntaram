@@ -23,8 +23,7 @@ This summarises what has been said before and what is going to be said next—(1
 **(verses 11.103-107)  
 **
 
-See Comparative notes for [Verse
-11.103].
+See Comparative notes for [Verse 11.103].
 </details>
 
 <details><summary>Bühler</summary>

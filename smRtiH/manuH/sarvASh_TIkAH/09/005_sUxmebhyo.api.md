@@ -44,13 +44,7 @@ Thus the meaning is that the woman should be guarded by all the men of the famil
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 412);—*Parāśaramādhava*
-(Vyavahāra, p. 323), which adds the following notes:—‘If they are not
-guarded, they bring grief to the families of their husbands and fathers;
-hence for the sake of both families, special care is to be taken of
-them’;—in *Nṛsiṃhaprasāda* (Saṃskāra, 66b);—in *Saṃskāraratnamālā* (p.
-674);—in *Kṛtyasārasamuccaya* (p. 98);—and in *Vīramitrodaya* (Vyavahāra
-158a).
+This verse is quoted in *Vivādaratnākara* (p. 412);—*Parāśaramādhava* (Vyavahāra, p. 323), which adds the following notes:—‘If they are not guarded, they bring grief to the families of their husbands and fathers; hence for the sake of both families, special care is to be taken of them’;—in *Nṛsiṃhaprasāda* (Saṃskāra, 66b);—in *Saṃskāraratnamālā* (p. 674);—in *Kṛtyasārasamuccaya* (p. 98);—and in *Vīramitrodaya* (Vyavahāra 158a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -61,12 +55,7 @@ them’;—in *Nṛsiṃhaprasāda* (Saṃskāra, 66b);—in *Saṃskāraratnam�
 *Mahābhārata* (3.12.68).—
 
 *Hārīta* (Vivādaratnākara, p. 410).—‘One must guard one’s wife against
-sensual contact, as the ruin of the wife involves the ruin of the
-family; the ruin of the family involves the ruin of the line; the ruin
-of the line involves the ruin of all offerings to gods and Pitṛs; the
-ruin of offerings involves the ruin of Dharma; the ruin of Dharma leads
-to the ruin of the soul; and the ruin of the soul means the loss of all
-things.’
+sensual contact, as the ruin of the wife involves the ruin of the family; the ruin of the family involves the ruin of the line; the ruin of the line involves the ruin of all offerings to gods and Pitṛs; the ruin of offerings involves the ruin of Dharma; the ruin of Dharma leads to the ruin of the soul; and the ruin of the soul means the loss of all things.’
 
 *Paiṭhīnaśi* (Do., p. 411).—‘For these reasons, one must guard one’s
 wife: lest there he a confusion of castes.’

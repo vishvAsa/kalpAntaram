@@ -30,8 +30,7 @@ This, however, is not right; as all that the text means is that gift, offered un
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 407);—and in *Hemādri* (Dāna, p.
-56).
+This verse is quoted in *Aparārka* (p. 407);—and in *Hemādri* (Dāna, p. 56).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

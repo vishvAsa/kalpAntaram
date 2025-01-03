@@ -55,8 +55,7 @@ There is no force in this objection. Where it was said that the *Vedic Act* is o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.58);—and in *Aparārka*, (p.
-1033).
+This verse is quoted in *Mitākṣarā* (3.58);—and in *Aparārka*, (p. 1033).
 </details>
 
 <details><summary>भारुचिः</summary>

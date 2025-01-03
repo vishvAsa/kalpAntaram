@@ -26,11 +26,9 @@ The mention of the sesamum and other grains is not meant to be preclusive of oth
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 1.257) as describing what is
-meant by ‘*haviṣyānna*’;—in *Parāśaramādhava* (Ācāra, p. 705);—in
+This verse is quoted in *Mitākṣarā* (on 1.257) as describing what is meant by ‘*haviṣyānna*’;—in *Parāśaramādhava* (Ācāra, p. 705);—in
 *Smṛtitattva* (p. 224), which explains ‘*vrīhi*’ as ‘rice ripening in
-the autumn’;—in *Vidhānapārijāta* (II, p. 744);—in *Aparārka* (pp. 500
-and 552);—in *Hemādri* (Śrāddha, pp. 541 and 586);—in
+the autumn’;—in *Vidhānapārijāta* (II, p. 744);—in *Aparārka* (pp. 500 and 552);—in *Hemādri* (Śrāddha, pp. 541 and 586);—in
 *Gadādharapaddhati* (Kāla, p. 536);—and in *Nṛsiṃhaprasāda* (Śrāddha, p.
 9b).
 </details>
@@ -40,8 +38,7 @@ and 552);—in *Hemādri* (Śrāddha, pp. 541 and 586);—in
 **(verses 3.266-267)  
 **
 
-See Comparative notes for [Verse
-3.266].
+See Comparative notes for [Verse 3.266].
 </details>
 
 <details><summary>Bühler</summary>

@@ -33,8 +33,7 @@ being stated in the text in a somewhat different form—‘gifts shall be given 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba* (2.10.3).—‘But if persons ask for alms for the sake of
-sexual gratification, that is improper; and he shall not take heed of
-such begging.’
+sexual gratification, that is improper; and he shall not take heed of such begging.’
 </details>
 
 <details><summary>भारुचिः</summary>

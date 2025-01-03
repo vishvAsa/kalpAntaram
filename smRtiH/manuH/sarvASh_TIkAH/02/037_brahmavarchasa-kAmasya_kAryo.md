@@ -50,24 +50,15 @@ Then again, in the *Sarvasvāra* sacrifice (which is performed by one who wishes
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Medhātithi (p. 90, 1. 15)—‘*Sarvasvāre*’—See Mīmāṃsā Sūtra 10.2.56-57.
-At the Sarvasvāra sacrifice the sacrificer recites the Ārbhaya hymn just
-before he enters the fire for self-immolation,
+Medhātithi (p. 90, 1. 15)—‘*Sarvasvāre*’—See Mīmāṃsā Sūtra 10.2.56-57. At the Sarvasvāra sacrifice the sacrificer recites the Ārbhaya hymn just before he enters the fire for self-immolation,
 
-This verse is quoted in *Aparārka* (p. 27) as laying down the time for
-the performance of the Upanayaṇa with special ends in view.
+This verse is quoted in *Aparārka* (p. 27) as laying down the time for the performance of the Upanayaṇa with special ends in view.
 
-It is quoted in *Parāśaramādhava* (Ācāra, p. 446), which quotes
-Āpastamba as connecting The seventh year with ‘Brāhmic glory,’ the
-eighth with ‘longevity,’ the ninth with ‘splendour,’ the tenth with
-‘food’, the eleventh with ‘efficiency of organs,’ and the twelfth with
-‘cattle’.
+It is quoted in *Parāśaramādhava* (Ācāra, p. 446), which quotes Āpastamba as connecting The seventh year with ‘Brāhmic glory,’ the eighth with ‘longevity,’ the ninth with ‘splendour,’ the tenth with ‘food’, the eleventh with ‘efficiency of organs,’ and the twelfth with ‘cattle’.
 
 *Madanapārijāta* (p. 17) quotes it mentioning the said assertions.
 
-It is quoted in *Hemādri* (Pariśeṣa, p. 748);—in *Saṃskāramayūkha* (p.
-12), as mentioning special results to be achieved;—in *Nṛsiṃhaprasāda*
-(Saṃskāra, p. 41 b); and in *Smṛticandrikā* (Saṃskāra, p. 68).
+It is quoted in *Hemādri* (Pariśeṣa, p. 748);—in *Saṃskāramayūkha* (p. 12), as mentioning special results to be achieved;—in *Nṛsiṃhaprasāda* (Saṃskāra, p. 41 b); and in *Smṛticandrikā* (Saṃskāra, p. 68).
 
 *Vīramitrodaya* (Saṃskāra, p. 345) quotes it as describing the *Kāmya*
 options.
@@ -81,38 +72,19 @@ options.
 the ninth or the fifth year.’
 
 *Āpastamba-Dharmasūtra*, 1.21-26.—‘During the seventh year, if Brāhmic
-glory is desired for the boy; during the eighth year, if longevity is
-desired; during the ninth year, if brilliance is desired; during the
-tenth year, if possession of much food is desired; during the eleventh
-year, if efficiency of sense-organs is desired; during the twelfth year,
-if possession of cattle is desired.’
+glory is desired for the boy; during the eighth year, if longevity is desired; during the ninth year, if brilliance is desired; during the tenth year, if possession of much food is desired; during the eleventh year, if efficiency of sense-organs is desired; during the twelfth year, if possession of cattle is desired.’
 
 *Uśanas* (Vīramitrodaya-Saṃskāra, p. 315).—‘The Upanayana of the
-Brāhmaṇa should be done during the fifth year from birth, of the
-Kṣatriya during the sixth, and of the Vaiśya during the seventh year,—if
-strength is desired.’
+Brāhmaṇa should be done during the fifth year from birth, of the Kṣatriya during the sixth, and of the Vaiśya during the seventh year,—if strength is desired.’
 
 *Vaśiṣṭha* (Vīra-Saṃskara, p. 345).—‘For the Brāhmaṇa if Brāhmic glory
-is desired, his Upanayana should be performed during the eighth year
-(either from conception or from birth); if food is desired, during the
-ninth year; if intelligence is desired, during the tenth year: if
-possession of jewels is desired, during the eleventh year; if bodily
-stoutness is desired, during the twelfth year.’
+is desired, his Upanayana should be performed during the eighth year (either from conception or from birth); if food is desired, during the ninth year; if intelligence is desired, during the tenth year: if possession of jewels is desired, during the eleventh year; if bodily stoutness is desired, during the twelfth year.’
 
 *Aṅgiras* (Do., p. 346).—‘For the Kṣatriya desiring prosperity or
-strength, it should be performed during the sixth or the twelfth year,
-respectively; for the Vaiśya desiring success in agriculture or
-longevity, it should be performed during the eighth or fourth year,
-respectively.’
+strength, it should be performed during the sixth or the twelfth year, respectively; for the Vaiśya desiring success in agriculture or longevity, it should be performed during the eighth or fourth year, respectively.’
 
 *Baudhāyana* (Do., p. 346).—‘During the seventh year, if Brāhmic glory
-is desired; during the eighth, if longevity is desired; during the
-ninth, if brilliance is desired; during the tenth, if food is desired;
-during the eleventh, if efficient sense-organs are desired; during the
-twelfth, if cattle is desired; during the thirteenth, if intelligence is
-desired; during the fourteenth, if stoutness is desired; during the
-fifteenth, if the birth of a brother’s son is desired; and during the
-sixteenth, if all desirable things are desired.’
+is desired; during the eighth, if longevity is desired; during the ninth, if brilliance is desired; during the tenth, if food is desired; during the eleventh, if efficient sense-organs are desired; during the twelfth, if cattle is desired; during the thirteenth, if intelligence is desired; during the fourteenth, if stoutness is desired; during the fifteenth, if the birth of a brother’s son is desired; and during the sixteenth, if all desirable things are desired.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -39,28 +39,13 @@ The sense of all this is that.—‘The King should investigate the cases proper
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 275), which adds
-the following notes;—‘*Svādānāt*’, ‘by taking what is his own legally,
-such as taxes and so forth’;—‘*varṇasaṃsargāt*’, ‘by marriages and such
-relationships contracted by the Brāhmaṇa’ and other castes with persons
-of their own respective castes’; the ‘*saṃsarga*’ of different castes is
-not meant, as that would lead to the evil of ‘mixed castes.’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 275), which adds the following notes;—‘*Svādānāt*’, ‘by taking what is his own legally, such as taxes and so forth’;—‘*varṇasaṃsargāt*’, ‘by marriages and such relationships contracted by the Brāhmaṇa’ and other castes with persons of their own respective castes’; the ‘*saṃsarga*’ of different castes is not meant, as that would lead to the evil of ‘mixed castes.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (18.5-7, 33, 43).—‘The King shall be careful to protect all
-orders and the constituent elements of the state... Whenever any caste
-should remain behind others, or exceed its limits,—seeing that it has
-strayed from its path,—the King shall bring it back to the path of duty.
-So also when other wicked acts, opposed to the dictates of the sacred
-law, have been committed, the King after having reflected upon the
-matter shall inflict punishment on those who deserve it... The King’s
-duties are the protecting of his subjects, the honouring of the aged and
-the wise, the trying of law-suits and making each caste abide by its
-duties...... If a ruler, though severe, is mindful of his duty, correct
-in his conduct find quick to punish the wicked and to protect the
-virtuous,—his wealth is declared to he pure.’
+orders and the constituent elements of the state... Whenever any caste should remain behind others, or exceed its limits,—seeing that it has strayed from its path,—the King shall bring it back to the path of duty. So also when other wicked acts, opposed to the dictates of the sacred law, have been committed, the King after having reflected upon the matter shall inflict punishment on those who deserve it... The King’s duties are the protecting of his subjects, the honouring of the aged and the wise, the trying of law-suits and making each caste abide by its duties...... If a ruler, though severe, is mindful of his duty, correct in his conduct find quick to punish the wicked and to protect the virtuous,—his wealth is declared to he pure.’
 
 *Yājñavalkya* (1.315).—‘What he has not obtained, he should seek to
 obtain lawfully.’

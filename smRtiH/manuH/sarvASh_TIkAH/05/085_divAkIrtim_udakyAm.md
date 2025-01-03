@@ -54,65 +54,42 @@ From all this it follows that it is only on the strength of usage that a right c
 
 (Verse 85 of others.)
 
-‘*Tatspṛṣṭinam*’—‘One who has touched these, *i.e*., the *Divākīrti* and
-the rest’ (Medhātithi, Nārāyaṇa and Nandana); ‘one who has touched a
-corpse’ (‘others’ in Medhātithi, Govindarāja, Kullūka and Rāghavānanda).
+‘*Tatspṛṣṭinam*’—‘One who has touched these, *i.e*., the *Divākīrti* and the rest’ (Medhātithi, Nārāyaṇa and Nandana); ‘one who has touched a corpse’ (‘others’ in Medhātithi, Govindarāja, Kullūka and Rāghavānanda).
 
-This verse is.quoted in *Aparārka* (p. 921), which adds the
-following:—Even though through its proximity to the term ‘*śava*’,
-‘*tatspṛṣṭinam*’ would appear to mean ‘one who has touched a *śava*’,
-yet inasmuch as the ‘*Divākīrti*’ and others mentioned before also
-belong, like the corpse, to the category of ‘unclean things’, it is only
-right that one who touches the person that has touched *all those*
-should bathe. This agrees with Medhātithi.
+This verse is.quoted in *Aparārka* (p. 921), which adds the following:—Even though through its proximity to the term ‘*śava*’, ‘*tatspṛṣṭinam*’ would appear to mean ‘one who has touched a *śava*’, yet inasmuch as the ‘*Divākīrti*’ and others mentioned before also belong, like the corpse, to the category of ‘unclean things’, it is only right that one who touches the person that has touched *all those* should bathe. This agrees with Medhātithi.
 
-It is quoted in *Mitākṣarā* (on 3. 30) to the effect that even when
-between the man and an unclean thing, there interposes a *living thing*
-(like the man who has touched the unclean things) the man has to bathe.
+It is quoted in *Mitākṣarā* (on 3. 30) to the effect that even when between the man and an unclean thing, there interposes a *living thing* (like the man who has touched the unclean things) the man has to bathe.
 
-It is quoted in *Madanapārijāta* (p. 258) to the effect that the man who
-touches one who has touched the *Divākīrti* and the rest, should bathe;
+It is quoted in *Madanapārijāta* (p. 258) to the effect that the man who touches one who has touched the *Divākīrti* and the rest, should bathe;
 *i.e*., the touch of an unclean thing defiles also when it is indirect,
-being interposed by a living object (like the man touching the Divākīrti
-&c.).
+being interposed by a living object (like the man touching the Divākīrti &c.).
 
 It is quoted in *Vīramitrodaya* (Āhnika, p. 202), which explains
 *Divākīrti* as ‘Chaṇḍāla’;—and in *Vidhānapārijāta* (p. 54), which
 reproduces the note made by *Madanapārijāta* is quoted in
 *Parāśaramādhava* (Ācāra, p. 257), which explains ‘*divākīrti*’ as
-‘Chaṇḍāla’;—in *Hemādri* (Śrāddha, p. 796);—in *Śuddhikaumudī*. (p.
-327), which explains ‘*divākīrti*’ as ‘chaṇḍāla’;—in *Ācāramayūkha* (p.
-42);—and in *Prāyaścittaviveka* (pp. 159 and 468), which explains
-‘*tatspṛṣṭin*’ as ‘one who has touched a dead body’.
+‘Chaṇḍāla’;—in *Hemādri* (Śrāddha, p. 796);—in *Śuddhikaumudī*. (p. 327), which explains ‘*divākīrti*’ as ‘chaṇḍāla’;—in *Ācāramayūkha* (p. 42);—and in *Prāyaścittaviveka* (pp. 159 and 468), which explains ‘*tatspṛṣṭin*’ as ‘one who has touched a dead body’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (14.30).—‘On touching an outcast, a Caṇḍāla, a woman impure on
-account of confinement, a woman in her courses, or a corpse,—and on
-touching persons who have touched them,—he shall purify himself by
-bathing in his clothes.’
+account of confinement, a woman in her courses, or a corpse,—and on touching persons who have touched them,—he shall purify himself by bathing in his clothes.’
 
 *Baudhāyana* (1.9.5).—‘On touching a tree standing on a sacred spot, a
-funeral pyre, a sacrificial post, a *Caṇḍāla*, or a person who sells the
-Veda,—a Brāhmaṇa shall bathe in his clothes.’
+funeral pyre, a sacrificial post, a *Caṇḍāla*, or a person who sells the Veda,—a Brāhmaṇa shall bathe in his clothes.’
 
 *Baudhāyana* (1.11.36).—‘On touching one who sells the Veda, a
-sacrificial post, an outcast, a funeral pyre, a dog or a *Caṇḍāla*, he
-shall bathe.’
+sacrificial post, an outcast, a funeral pyre, a dog or a *Caṇḍāla*, he shall bathe.’
 
 *Vaśiṣṭha* (4.37).—‘When he has touched a sacrificial post, a pyre, a
-burial ground, a menstruating woman, a woman lately confined, impure
-men, or *Cāṇḍalas* and so forth,—he shall bathe, submerging both bis
-body and his head.’
+burial ground, a menstruating woman, a woman lately confined, impure men, or *Cāṇḍalas* and so forth,—he shall bathe, submerging both bis body and his head.’
 
 *Viṣṇu* (22.69).—‘After having touched one who has touched a corpse, or
-a woman in her courses, or a *Caṇḍāla* or a sacrificial post,—bathing is
-ordained.’
+a woman in her courses, or a *Caṇḍāla* or a sacrificial post,—bathing is ordained.’
 
 *Yājñavalkya* (3.29).—‘On touching a woman in her courses or persons
-suffering from impurity due to birth and death, one should bathe; on
-touching persons who have touched them he shall rinse his mouth.’
+suffering from impurity due to birth and death, one should bathe; on touching persons who have touched them he shall rinse his mouth.’
 
 *Saṃvarta* (Aparārka, p. 921).—‘For one who touches one who has touched
 these, bathing has been enjoined.’
@@ -121,55 +98,36 @@ these, bathing has been enjoined.’
 *Caṇḍāla*, human bone with fat, one should bathe with his clothes on.’
 
 *Chyavana* (Do., p. 922).—‘One shall bathe with clothes on on touching
-an outcast, a *Caṇḍāla*, one who lives upon property belonging to gods,
-the village-priest, the Soma-vendor, the sacrilìcial post, a funeral
-pyre, a wood of the pyre, wine, wine-vessel, human bone with fat, one
-who has touched a corpse, a woman in her courses, one who has committed
-a heinous crime, or a corpse; after bathing, he should touch fire,
-repeat the *Gāyatrī* a hundred and eight times, bathe again and then
-rinse his mouth thrice.’
+an outcast, a *Caṇḍāla*, one who lives upon property belonging to gods, the village-priest, the Soma-vendor, the sacrilìcial post, a funeral pyre, a wood of the pyre, wine, wine-vessel, human bone with fat, one who has touched a corpse, a woman in her courses, one who has committed a heinous crime, or a corpse; after bathing, he should touch fire, repeat the *Gāyatrī* a hundred and eight times, bathe again and then rinse his mouth thrice.’
 
 *Bṛhaspati* (Aparārka, p. 922).—‘An outcast, a woman lately confined, a
 *Caṇḍāla*,— on touching these intentionally one becomes purified by
-bathing with clothes on, touching fire and eating butter. On touching a
-person who has touched a corpse, a *Caṇḍāla*, a funeral pyre, a
-sacrificial post, a woman in her courses, intentionally, the Brāhmaṇa
-shall become purified by bathing.’
+bathing with clothes on, touching fire and eating butter. On touching a person who has touched a corpse, a *Caṇḍāla*, a funeral pyre, a sacrificial post, a woman in her courses, intentionally, the Brāhmaṇa shall become purified by bathing.’
 
 *Mārkaṇḍeya Purāṇa* (Aparārka, p. 923).—‘One whose food should not be
-eaten, a woman lately confined, a eunuch, a cat, a *Caṇḍāla*, a dog, a
-cock, an outcast, an excommunicated person, a corpse-carrier, a woman in
-her courses, a pig,—on touching these one becomes purified by bathing.’
+eaten, a woman lately confined, a eunuch, a cat, a *Caṇḍāla*, a dog, a cock, an outcast, an excommunicated person, a corpse-carrier, a woman in her courses, a pig,—on touching these one becomes purified by bathing.’
 
 *Vṛddha-Yājñavalkya* (Do.).—‘On touching a *Caṇḍāla*, a *Pukkasa*, a
 *Mleccha*, a *Bhilla*, a *Pārasīka*, one who has committed a heinous
 crime,—one should bathe with clothes on.’
 
 *Parāśara* (Do.).—‘On touching a tree growing in a crematorium, a
-funeral pyre, a sacrificial post, a *Caṇḍāla*, a Soma-vendor,—the
-Brāhmaṇa should enter water with clothes on.’
+funeral pyre, a sacrificial post, a *Caṇḍāla*, a Soma-vendor,—the Brāhmaṇa should enter water with clothes on.’
 
 *Devala* (Do.).—‘A *Caṇḍāla*, an outcast, a corpse-carrier, a woman
-lately confined, a woman in her courses,—on touching these one becomes
-purified by bathing.’
+lately confined, a woman in her courses,—on touching these one becomes purified by bathing.’
 
 *Vāyupurāṇa* (Do.).—‘The woman in her courses, the woman lately
-confined, the dog, the *Antyāvasāyin*, the corpse-carrier,—on touching
-these there is impurity, from which one becomes purified by bathing with
-clay and with clothes on.’
+confined, the dog, the *Antyāvasāyin*, the corpse-carrier,—on touching these there is impurity, from which one becomes purified by bathing with clay and with clothes on.’
 
 *Parāśara* (Do., p. 926).—‘If one happens to touch a *Caṇḍāla* and the
-corpse and other things after sunset, he becomes purified by touching
-fire and gold.’
+corpse and other things after sunset, he becomes purified by touching fire and gold.’
 
 *Aṅgiras* (Parāśaramādhava, p. 257).—‘On touching a person who has
-touched a corpse, a woman in her courses and a woman lately confined or
-one outcast—one becomes purified on bathing with clothes on.’
+touched a corpse, a woman in her courses and a woman lately confined or one outcast—one becomes purified on bathing with clothes on.’
 
 *Kūrmapurāṇa* (Do., p. 258).—‘If one touches by chance a person who has
-been touched by a *Caṇḍāla*, a woman lately confined, or a corpse,—he
-shall sip water and do *japa*; if one intentionally touches the said
-person, he should sip water for the purpose of purifying himself.’
+been touched by a *Caṇḍāla*, a woman lately confined, or a corpse,—he shall sip water and do *japa*; if one intentionally touches the said person, he should sip water for the purpose of purifying himself.’
 </details>
 
 <details><summary>Bühler</summary>

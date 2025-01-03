@@ -29,8 +29,7 @@ This verse is quoted in *Prāyaścittaviveka* (p. 172).
 
 **(verses 11.72-86)**
 
-See Comparative notes for [Verse
-11.72].
+See Comparative notes for [Verse 11.72].
 </details>
 
 <details><summary>Bühler</summary>

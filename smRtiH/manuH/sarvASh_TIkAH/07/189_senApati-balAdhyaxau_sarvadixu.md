@@ -37,9 +37,7 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 402);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Kāmandaka* (15.18).—‘When a foe must he marched upon, the energetic
-king should not he afraid of the difficulties that may be at his roar;
-to the front he should depute the commander-in-chief or the Prince, with
-a portion of the army.’
+king should not he afraid of the difficulties that may be at his roar; to the front he should depute the commander-in-chief or the Prince, with a portion of the army.’
 </details>
 
 <details><summary>भारुचिः</summary>

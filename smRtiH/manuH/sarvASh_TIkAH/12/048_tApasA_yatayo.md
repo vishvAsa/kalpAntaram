@@ -34,8 +34,7 @@ Others, however, think that there are a people known as ‘*Yatis*,’ ‘Hermit
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārkā* (p. 999);—in *Madanapārijāta* (p.
-694);—in *Parāśaramādhava*, (Prāyaścitta, p. 488);—anil in
+This verse is quoted in *Aparārkā* (p. 999);—in *Madanapārijāta* (p. 694);—in *Parāśaramādhava*, (Prāyaścitta, p. 488);—anil in
 *Nṛsiṃhaprasāda* (Prāyaścitta 41a).
 </details>
 
@@ -44,8 +43,7 @@ This verse is quoted in *Aparārkā* (p. 999);—in *Madanapārijāta* (p.
 **(verses 12.32-51)  
 **
 
-See Comparative notes for [Verse
-12.32].
+See Comparative notes for [Verse 12.32].
 </details>
 
 <details><summary>Bühler</summary>

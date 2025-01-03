@@ -28,10 +28,7 @@ Thus is the special law established that ‘*the owner of the seed does receive 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtitattva* (II, p. 150);—in *Vivādaratnākara*
-(p. 579), which explains ‘*ogha*’ as ‘current of water’ and ‘*āhṛtam*’
-as ‘earned,’ and adds that this also only serves to indicate the greater
-importance of the ‘field’;—and in *Vyavahāra-Bālambhaṭṭī* (p. 521).
+This verse is quoted in *Smṛtitattva* (II, p. 150);—in *Vivādaratnākara* (p. 579), which explains ‘*ogha*’ as ‘current of water’ and ‘*āhṛtam*’ as ‘earned,’ and adds that this also only serves to indicate the greater importance of the ‘field’;—and in *Vyavahāra-Bālambhaṭṭī* (p. 521).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -42,8 +39,7 @@ importance of the ‘field’;—and in *Vyavahāra-Bālambhaṭṭī* (p. 521).
 [(See the texts under
 31-44.)]
 
-See Comparative notes for [Verse
-9.48].
+See Comparative notes for [Verse 9.48].
 </details>
 
 <details><summary>भारुचिः</summary>

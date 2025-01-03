@@ -39,8 +39,7 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 392);—and in
 **(verses 3.73-74)  
 **
 
-See Comparative notes for [Verse
-3.73].
+See Comparative notes for [Verse 3.73].
 </details>
 
 <details><summary>Bühler</summary>

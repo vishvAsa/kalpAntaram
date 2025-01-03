@@ -42,9 +42,7 @@ minister is intelligent, loyal, industrious, well versed in matters relating to 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Ādhyakṣapracāre*’ (Medhātithi, p. 511, 1.14)—This is the name of one
-of the chapters in Kauṭilya’s *Arthaśāstra*. It is referred to again in
-the *Bhāṣya* on verse 81 below.
+‘*Ādhyakṣapracāre*’ (Medhātithi, p. 511, 1.14)—This is the name of one of the chapters in Kauṭilya’s *Arthaśāstra*. It is referred to again in the *Bhāṣya* on verse 81 below.
 
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 185);—and in
 *Nītimayūkha* (p. 53).
@@ -55,8 +53,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 185);—and in
 **(verses 7.60-62)  
 **
 
-See Comparative notes for [Verse
-7.60].
+See Comparative notes for [Verse 7.60].
 </details>
 
 <details><summary>भारुचिः</summary>

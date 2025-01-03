@@ -30,8 +30,7 @@ After ‘*kalpate*,’ the term ‘*prete*,’ ‘for the food,’ should be sup
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 500);—in *Hemādri* (Śrāddha, p.
-540);—and in *Gadādharapaddhati* (Kāla, p. 536).
+This verse is quoted in *Aparārka* (p. 500);—in *Hemādri* (Śrāddha, p. 540);—and in *Gadādharapaddhati* (Kāla, p. 536).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -43,12 +42,10 @@ This verse is quoted in *Aparārka* (p. 500);—in *Hemādri* (Śrāddha, p.
 sesamum is largely used, Manu has declared to be imperishable.’
 
 *Āpastamba-Dharmasūtra* (2.7.23-24).—‘The substances to he employed are
-sesamum, Māṣa, Vrīhi, barley, water, roots and fruits. If the food is
-oily, the satisfaction of the Pitṛs is intense and long-standing.’
+sesamum, Māṣa, Vrīhi, barley, water, roots and fruits. If the food is oily, the satisfaction of the Pitṛs is intense and long-standing.’
 
 *Viṣṇu* (Do., 1).—‘With sesamum, Vrīhi, barley, Māṣa, water, roots and
-fruits, Priyaṅgu, Nīvāra, Mudga, wheat—they remain satisfied for a
-month.’
+fruits, Priyaṅgu, Nīvāra, Mudga, wheat—they remain satisfied for a month.’
 
 *Mahābhārata* (13.88.3).—\[Reproduces Manu.\]
 
@@ -56,8 +53,7 @@ month.’
 milk-preparations for a year.’
 
 *Pracetas* (Parāśaramādhava, p. 702).—‘Black Māṣa, sesamum, Yava,
-paddy-rice, Mahāyava, Vrīhi, Madhūlika—black, white and red,—these
-should be used at Śrāddha.’
+paddy-rice, Mahāyava, Vrīhi, Madhūlika—black, white and red,—these should be used at Śrāddha.’
 
 *Mārkaṇḍeya* (Do.).—Yava, Vrīhi, wheat, sesamum, Mudga, rapeseed,
 Priyaṅgu, Kovidāra, and Niṣpāva are excellent.’
@@ -65,15 +61,10 @@ Priyaṅgu, Kovidāra, and Niṣpāva are excellent.’
 *Atri* (Do.).—‘A Śrāddha without wheat is as good as not performed.’
 
 *Vāyupurāṇa* (Do., p. 703).—‘Bilva, Āmalaka, grapes, jackfruit, mango,
-pomegranate, Cavya, Pālevata, Akṣoṭa, dates, Kaśaru, Kovidāra,
-palm-root, lotus-root, Kāleya, Kālaśāka, Suvarcalā, Kaṭphala, Kiṅkiṇī,
-raisins, Lakuca, Moca, Kabandhū, Grīvaka, Tīndaka, Madhūka, Vaikaṅkata,
-cocoanut, Śṛṅgāṭaka, Parūṣaka, Pippalī, Marica, Paṭola, Bṛhatī,
-sweet-smelling fish, Kalāya, Nāgara and Dīrghamūlaka.’
+pomegranate, Cavya, Pālevata, Akṣoṭa, dates, Kaśaru, Kovidāra, palm-root, lotus-root, Kāleya, Kālaśāka, Suvarcalā, Kaṭphala, Kiṅkiṇī, raisins, Lakuca, Moca, Kabandhū, Grīvaka, Tīndaka, Madhūka, Vaikaṅkata, cocoanut, Śṛṅgāṭaka, Parūṣaka, Pippalī, Marica, Paṭola, Bṛhatī, sweet-smelling fish, Kalāya, Nāgara and Dīrghamūlaka.’
 
 *Śaṅkha* (Parāśaramādhava, p. 704).—‘Mango, Pālevata, sugarcane, grapes,
-Cavya, pomegranate, Vidāryā, Bhucuṇḍa, raisins with honey, Śaktu with
-sugar, Śṛṅgāṭaka, Kaśaruka.’
+Cavya, pomegranate, Vidāryā, Bhucuṇḍa, raisins with honey, Śaktu with sugar, Śṛṅgāṭaka, Kaśaruka.’
 
 *Ādityapurāṇa* (Do.).—‘Madhūka, Rāmaṭha, Karpūra, Marica, Guḍa,
 Saindhava and Trapusa are commended at Śrāddha.’

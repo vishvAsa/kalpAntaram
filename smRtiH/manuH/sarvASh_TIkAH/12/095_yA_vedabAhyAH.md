@@ -92,8 +92,7 @@ Under this explanation, the syntactical connection of the participle ‘*pretya*
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Pretya*’—‘Having acquired excellence’ (Medhātithi);—‘after death’
-(‘others’ in Medhātithi, Govindarāja and Kullūka).
+‘*Pretya*’—‘Having acquired excellence’ (Medhātithi);—‘after death’ (‘others’ in Medhātithi, Govindarāja and Kullūka).
 </details>
 
 <details><summary>भारुचिः</summary>

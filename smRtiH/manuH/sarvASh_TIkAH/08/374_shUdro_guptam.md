@@ -51,24 +51,13 @@ The present verse lays down the amputation of the limb, the confiscation of his 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Vyavahāra p. 378), to the
-effect that when a Śūdra has intercourse with an *unguarded* woman of a
-higher caste, his organ is to be cut off and all his property
-confiscated, and if he has recourse to a *guarded* woman of the higher
-caste, he shall suffer death and his entire property shall be
-confiscated.
+This verse is quoted in *Parāśaramādhava* (Vyavahāra p. 378), to the effect that when a Śūdra has intercourse with an *unguarded* woman of a higher caste, his organ is to be cut off and all his property confiscated, and if he has recourse to a *guarded* woman of the higher caste, he shall suffer death and his entire property shall be confiscated.
 
-It is quoted in *Vivādaratnākara* (p. 395), which adds the following
-notes:—‘*Dvaijātam varṇam*’, a woman of the twice-born
-caste,—‘*āvasan*’, having recourse to,—‘*aguptaikāṅgasarvasvī*’ (which
-is its reading for ‘*aguptamaṅgasarvasvī*’), if the woman is one who is
+It is quoted in *Vivādaratnākara* (p. 395), which adds the following notes:—‘*Dvaijātam varṇam*’, a woman of the twice-born caste,—‘*āvasan*’, having recourse to,—‘*aguptaikāṅgasarvasvī*’ (which is its reading for ‘*aguptamaṅgasarvasvī*’), if the woman is one who is
 *not guarded*, the man shall be deprived of one limb and also of his
-entire property; and of his entire property as also of his entire body
-(if the woman is one who is *guarded*).
+entire property; and of his entire property as also of his entire body (if the woman is one who is *guarded*).
 
-It is quoted in *Mitākṣarā* (2.280), which has the same explanation as
-the one in para 1 above;—in *Vyavahāramayūkha* (p. 100), which also has
-the same explanation—and in *Vīramitrodaya* (Vyavahāra, 156a).
+It is quoted in *Mitākṣarā* (2.280), which has the same explanation as the one in para 1 above;—in *Vyavahāramayūkha* (p. 100), which also has the same explanation—and in *Vīramitrodaya* (Vyavahāra, 156a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -87,40 +76,25 @@ intercourse with an *Ārya* woman.’
 *Āpastamba* (2.27.9).—‘A Śūdra committing adultery with a woman of any
 of the three higher castes shall suffer capital punishment.’
 
-Do. (2-26.20).—‘If a man has actually committed adultery, his organ
-shall be cut off, together with the testicles.’
+Do. (2-26.20).—‘If a man has actually committed adultery, his organ shall be cut off, together with the testicles.’
 
 *Vaśiṣṭha* (21.1-5).—[(See under
 372.)]
 
 *Yājñavalkya* (2.286, 294).—‘If one has intercourse with a woman of the
-same caste as himself, he shall be punished with the highest fine; if
-with a woman of a lower caste, with the middle fine; if with a woman of
-a higher caste, he shall be put to death and the woman’s ears and nose
-shall be cut off. If a Caṇḍāla has intercourse with an Ārya woman, he
-shall be put to death.’
+same caste as himself, he shall be punished with the highest fine; if with a woman of a lower caste, with the middle fine; if with a woman of a higher caste, he shall be put to death and the woman’s ears and nose shall be cut off. If a Caṇḍāla has intercourse with an Ārya woman, he shall be put to death.’
 
 *Viṣṇu* (5.40-43).—‘An adulterer shall be made to pay the highest
-amercement, if he has had connection with a woman of his own caste;—for
-adultery with a woman of a lower caste, the middle amercement. He who
-has had connection with a woman of one of the lowest castes shall be put
-to death;—as also for having connection with a woman of the highest
-caste.’
+amercement, if he has had connection with a woman of his own caste;—for adultery with a woman of a lower caste, the middle amercement. He who has had connection with a woman of one of the lowest castes shall be put to death;—as also for having connection with a woman of the highest caste.’
 
 *Nārada* (12.78).—‘Intercourse is permitted with a wanton woman who
-belongs to another than a Brāhmaṇa-caste, or a prostitute, or a female
-slave, or a female not restrained by her master; if these women belong
-to a lower caste than oneself; but with a woman of a superior caste
-intercourse is forbidden.’
+belongs to another than a Brāhmaṇa-caste, or a prostitute, or a female slave, or a female not restrained by her master; if these women belong to a lower caste than oneself; but with a woman of a superior caste intercourse is forbidden.’
 
 *Bṛhaspati* (23.12).—‘The highest fine shall he inflicted for connection
-with a woman of equal caste; half of that, for connection with a woman
-of inferior caste; but a man who has connection with a woman of superior
-caste shall be put to death.’
+with a woman of equal caste; half of that, for connection with a woman of inferior caste; but a man who has connection with a woman of superior caste shall be put to death.’
 
 *Yama* (Vivādaratnākara, p. 395).—‘If a Śūdra has connection with a
-Brāhmaṇa woman, the King shall put him to death on a heated iron-bed,
-burning the sinful man there with wood, leaves and grass.’
+Brāhmaṇa woman, the King shall put him to death on a heated iron-bed, burning the sinful man there with wood, leaves and grass.’
 </details>
 
 <details><summary>भारुचिः</summary>

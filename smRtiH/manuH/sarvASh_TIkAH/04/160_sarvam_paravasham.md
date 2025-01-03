@@ -30,8 +30,7 @@ This verse deprecates begging.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 14);—and in *Aparārka* (p.
-224).
+This verse is quoted in *Madanapārijāta* (p. 14);—and in *Aparārka* (p. 224).
 </details>
 
 <details><summary>Bühler</summary>

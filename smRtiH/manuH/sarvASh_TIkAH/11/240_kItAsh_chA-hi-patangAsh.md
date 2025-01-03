@@ -27,8 +27,7 @@ What forms the basis of this assertion is the fact that the suffering that, thes
 **(verses 11.234-244)  
 **
 
-See Comparative notes for [Verse
-11.234].
+See Comparative notes for [Verse 11.234].
 </details>
 
 <details><summary>भारुचिः</summary>

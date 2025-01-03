@@ -156,33 +156,14 @@ Gṛhya Sūtra* 1-13-14.
 
 *Medhātithi* (p. 80, 1. 10) ‘*Mekhalā badhyate*’—see *Gautama*, 1-15.
 
-This verse has been quoted by the *Mitākṣarā* on 3.253 (p. 1285), where
-it has been taken to mean that the sacrament of the Upanayaṇa wipes off
-all the sins committed by the boy prior to it.
+This verse has been quoted by the *Mitākṣarā* on 3.253 (p. 1285), where it has been taken to mean that the sacrament of the Upanayaṇa wipes off all the sins committed by the boy prior to it.
 
-It is also quoted in the *Vīramitrodaya* (Saṃskāra, p. 134) and has been
-taken to mean that the Sacramental Rites are meant only for the
-‘Twice-bom—and in the *Aparārka* (p. 25), as indicating that the
-sacraments are meant for the Twice-born only, on the ground that they
-have been mentioned after the injunction of *Upanayaṇa* which pertains
-to the Twice-born only. It is quoted in the Smṛtikaumudī (p. 48), which
-notes that the term ‘*Saṃskāra*’ (Sacrament) connotes *destruction of
-sin or impurity*.
+It is also quoted in the *Vīramitrodaya* (Saṃskāra, p. 134) and has been taken to mean that the Sacramental Rites are meant only for the ‘Twice-bom—and in the *Aparārka* (p. 25), as indicating that the sacraments are meant for the Twice-born only, on the ground that they have been mentioned after the injunction of *Upanayaṇa* which pertains to the Twice-born only. It is quoted in the Smṛtikaumudī (p. 48), which notes that the term ‘*Saṃskāra*’ (Sacrament) connotes *destruction of sin or impurity*.
 
-It is quoted in the *Smṛticandrikā* (Saṃskāra, p. 36), which adds the
-following notes:—‘*Bīja*’ stands for semen-ovule, the impurity due to
-defects in that is called ‘*baijika*’—that due to residence in the womb
-is called, ‘*gārbhika*’;—‘*homaiḥ*’ includes the Garbhādhāna and other
-rites that are accompanied by libations into fire;—and in the *Saṃskāra*
+It is quoted in the *Smṛticandrikā* (Saṃskāra, p. 36), which adds the following notes:—‘*Bīja*’ stands for semen-ovule, the impurity due to defects in that is called ‘*baijika*’—that due to residence in the womb is called, ‘*gārbhika*’;—‘*homaiḥ*’ includes the Garbhādhāna and other rites that are accompanied by libations into fire;—and in the *Saṃskāra*
 - *ratnamālā* (p. 5) to the effect that Homa is to be performed by the
 *Twice-bom* only;—‘*baijika*’ is such impurity relating to the
-semen-ovule as is due to the intercourse having taken place at a
-forbidden time,—‘*Gārbhika*’ is the impurity due to residence in a womb
-that is not quite clean;—it quotes Medhātithi to the effect that as.the
-‘semen-ovule’ and the ‘womb’ cannot be the effects of any sins of the
-child, the ‘*enaḥ*’ mentioned in the text must be taken as standing not
-for actual sin, but for the impurity or uncleanliness due to the child’s
-physical connection with them.
+semen-ovule as is due to the intercourse having taken place at a forbidden time,—‘*Gārbhika*’ is the impurity due to residence in a womb that is not quite clean;—it quotes Medhātithi to the effect that as.the ‘semen-ovule’ and the ‘womb’ cannot be the effects of any sins of the child, the ‘*enaḥ*’ mentioned in the text must be taken as standing not for actual sin, but for the impurity or uncleanliness due to the child’s physical connection with them.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -191,14 +172,10 @@ physical connection with them.
 **
 
 *Sumantu* (Vīra-Saṃskāra, p. 131).—‘The sacraments common to the
-Brāhmaṇa, the Kṣatriya and the Vaiśya, are the following—Garbhādhāna,
-Sīmantonnayana, Jātakarma, Nāmakaraṇa, Annaprāśana, Cūḍā, Upanayana,
-Vratacaryā, Adhyayana, Samāvartana, Vivāha, Yajña and Dāna.’
+Brāhmaṇa, the Kṣatriya and the Vaiśya, are the following—Garbhādhāna, Sīmantonnayana, Jātakarma, Nāmakaraṇa, Annaprāśana, Cūḍā, Upanayana, Vratacaryā, Adhyayana, Samāvartana, Vivāha, Yajña and Dāna.’
 
 *Hārīta* (*Ibid*, p. 135).—‘There are two kinds of Sacraments—Brāhma and
-Daiva; the Garbhādhāna and the rest ending with Snāna, which are
-proscribed in the Smṛtis, are “brāhma”; the Pākayajñas, the Haviryajñas
-and the Somayajñas are “daiva”.’
+Daiva; the Garbhādhāna and the rest ending with Snāna, which are proscribed in the Smṛtis, are “brāhma”; the Pākayajñas, the Haviryajñas and the Somayajñas are “daiva”.’
 
 *Jātūkarṇya* (*Ibid*, p. 135).—‘The sixteen sacramental rites are the
 following—
@@ -242,15 +219,10 @@ following—
 > (24) Upākaraṇa,  
 > (25) Mahāyajñas;
 
-these are the obligatory sacraments, specially for the Brāhmaṇa. It is
-by means of the sacraments that Brāhmaṇahood comes to be gradually
-manifested.’
+these are the obligatory sacraments, specially for the Brāhmaṇa. It is by means of the sacraments that Brāhmaṇahood comes to be gradually manifested.’
 
 *Āśvalāyana* (*Ibid*, p. 136).—‘The five mahāyajñas are to be performed
-daily; the sixteen cuding with Marriage are *naimittīka*, to be done on
-prescribed occasions; the Pārvaṇa is to be done every month, or if this
-be not possible, then every year; the seven sacrifices beginning with
-Āgrayaṇa are to be performed once in the year.’
+daily; the sixteen cuding with Marriage are *naimittīka*, to be done on prescribed occasions; the Pārvaṇa is to be done every month, or if this be not possible, then every year; the seven sacrifices beginning with Āgrayaṇa are to be performed once in the year.’
 
 *Gautama* (*Ibid*, p. 137).—‘The following are the 10 Sacraments—
 
@@ -266,37 +238,23 @@ be not possible, then every year; the seven sacrifices beginning with
 > (13) Snāna,  
 > (14) Sahadharmacāriṇīsaṃyoga,  
 > (15-19) the five mahāyajñas,  
-> (20-26) the seven Pākayajñas—Aṣṭakā, Pārvaṇa-Śrāddba, Śrāvanī,
-> Āgrahāyaṇī, Caitrī and Āśvayujī,  
-> (27-33) the seven Haviryajñas—Agnyādheya, Agnihotra, Darśapūrṇamāsa,
-> Cāturmāsya, Āgrayaṇeṣṭi, Nirūdhapaśubandha, and Sautrāmaṇi,  
-> (33-40) the seven Somayajñas—Agniṣṭoma, Atyagniṣṭoma, Ukthya, Ṣoḍasbī,
-> Vājapeya, Atirātra and Āptoryamā’
+> (20-26) the seven Pākayajñas—Aṣṭakā, Pārvaṇa-Śrāddba, Śrāvanī, > Āgrahāyaṇī, Caitrī and Āśvayujī,  
+> (27-33) the seven Haviryajñas—Agnyādheya, Agnihotra, Darśapūrṇamāsa, > Cāturmāsya, Āgrayaṇeṣṭi, Nirūdhapaśubandha, and Sautrāmaṇi,  
+> (33-40) the seven Somayajñas—Agniṣṭoma, Atyagniṣṭoma, Ukthya, Ṣoḍasbī, > Vājapeya, Atirātra and Āptoryamā’
 
-...‘He who has not had these forty sacraments, nor is endowed with the
-eight qualities of the soul (sympathy for all beings, forgiveness,
-freedom from jealousy, purity, equanimity, good character,
-non-miserliness) is never united to Brahman, nor does he attain the
-regions of Brahman.’
+...‘He who has not had these forty sacraments, nor is endowed with the eight qualities of the soul (sympathy for all beings, forgiveness, freedom from jealousy, purity, equanimity, good character, non-miserliness) is never united to Brahman, nor does he attain the regions of Brahman.’
 
 *Hārita* (*Ibid*, p. 130).—‘He who has been sanctified by the Brāhma
-Sacraments becomes equal to the sages and becomes united with them and
-attains their regions; and he who is sanctified by the Daiva sacraments
-becomes equal to the gods, is united with them and reaches their
-regions.’
+Sacraments becomes equal to the sages and becomes united with them and attains their regions; and he who is sanctified by the Daiva sacraments becomes equal to the gods, is united with them and reaches their regions.’
 
 *Do*. (Aparārka, p. 25).—‘When the women of the twice-born castes are
-sanctified by the performance of a single sacrament, every child that
-they bear thereafter becomes sanctified thereby.’
+sanctified by the performance of a single sacrament, every child that they bear thereafter becomes sanctified thereby.’
 
 *Śaṅkha-Likhita* (*Ibid*, p. 110).—‘The Brāhmaṇa who is endowed with the
-two sets of sacraments and is equipped with the eight qualities (of the
-soul) attains the regions of Brahman.’
+two sets of sacraments and is equipped with the eight qualities (of the soul) attains the regions of Brahman.’
 
 *Devala* (Aparārka, p. 25).—‘Just as a picture becomes manifested
-through the gradual appearance of the several limbs, in the same manner
-Brāhmaṇahood becomes manifested through the lawful performance of the
-sacraments.’
+through the gradual appearance of the several limbs, in the same manner Brāhmaṇahood becomes manifested through the lawful performance of the sacraments.’
 </details>
 
 <details><summary>Bühler</summary>

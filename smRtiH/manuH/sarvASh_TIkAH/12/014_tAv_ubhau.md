@@ -44,8 +44,7 @@ different from these two, and is called the *Supreme* Self, who, being the infal
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vyāpya*.’—‘Pervade,’ (Govindarāja),—‘rest on’ (Kullūka);—‘Conceal
-through illusion’ (Nārāyaṇa).
+‘*Vyāpya*.’—‘Pervade,’ (Govindarāja),—‘rest on’ (Kullūka);—‘Conceal through illusion’ (Nārāyaṇa).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -66,26 +66,19 @@ What is said here is not something to be done in abnormal times of distress; as 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 33), which adds that where
-the text says ‘not from others’, what it means is that ‘in the event of
-those named here being available, one should not seek for it from
-others’;—and in *Prāyaścittaviveka* (p. 402), which explains ‘*rājan*’
-as standing for ‘the just king of the Kṣatriya caste’.
+This verse is quoted in *Madanapārijāta* (p. 33), which adds that where the text says ‘not from others’, what it means is that ‘in the event of those named here being available, one should not seek for it from others’;—and in *Prāyaścittaviveka* (p. 402), which explains ‘*rājan*’ as standing for ‘the just king of the Kṣatriya caste’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (9.6 3, 64).—‘For the sake of his own maintenance and welfare
-he shall approach none except those who may he dutiful towards gods and
-elders.’
+he shall approach none except those who may he dutiful towards gods and elders.’
 
 *Vaśiṣṭha* (12.2),—‘He shall beg from any one except the king and his
 own pupils.’
 
 *Yājñavalkya* (1.130).—‘Suffering from hunger, he may seek for wealth
-from the king, from his own pupils and from one at whose sacrifices he
-officiates; and he shall avoid the hypocrite, the sceptic, the impostor
-and the heron-like.’
+from the king, from his own pupils and from one at whose sacrifices he officiates; and he shall avoid the hypocrite, the sceptic, the impostor and the heron-like.’
 
 *Viṣṇu* (63.1).—‘For the sake of his maintenance and welfare he shall
 approach the king.’

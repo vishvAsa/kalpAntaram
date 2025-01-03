@@ -25,11 +25,7 @@ _तथा चाह ।_
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Chihnitāḥ*’—‘Distinguished—by a thunder-bolt or some such weapon
-carried on the shoulder’ (Medhātithi),—“by sticks and so forth
-(Govindarāja),—‘by iron ornaments and peacock’s feathers’
-(Nārāyaṇa),—‘branded on the forehead and other parts of the body’
-(Rāghavananda).
+‘*Chihnitāḥ*’—‘Distinguished—by a thunder-bolt or some such weapon carried on the shoulder’ (Medhātithi),—“by sticks and so forth (Govindarāja),—‘by iron ornaments and peacock’s feathers’ (Nārāyaṇa),—‘branded on the forehead and other parts of the body’ (Rāghavananda).
 </details>
 
 <details><summary>Bühler</summary>

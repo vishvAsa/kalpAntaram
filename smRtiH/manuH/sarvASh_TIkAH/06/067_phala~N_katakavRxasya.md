@@ -25,8 +25,7 @@ This verse is a laudatory supplement to what has gone before.—(67)
 **(verses 6.66-67)  
 **
 
-See Comparative notes for [Verse
-6.66].
+See Comparative notes for [Verse 6.66].
 </details>
 
 <details><summary>भारुचिः</summary>

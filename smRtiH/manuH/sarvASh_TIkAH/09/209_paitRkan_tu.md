@@ -88,65 +88,33 @@ As for the declaration—‘unequal division has been declared to be legal, when
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse has been taken by Nārāyaṇa to imply that ancestral property
-may be divided by the sons even during the life-time of the father, even
-though the latter may be unwilling.
+This verse has been taken by Nārāyaṇa to imply that ancestral property may be divided by the sons even during the life-time of the father, even though the latter may be unwilling.
 
-This verse is quoted in *Mitākṣarā* (2.121), which explains the meaning
-as follows:—“If a property was acquired by the grandfather, but taken
-away by some one else and not redeemed during his life-time, when such
-property has been redeemed by the father (the grandfather’s son), this
-is as good as ‘self-acquired’ by the father, and hence the father may
-not divide this with his sons, unless he is himself willing to do so”;
-and it takes this to imply that in the case of other kinds of ancestral
-property the sons may force partition on the father.—The *Bālambhaṭṭī*
-adds that ‘*svārjitam*’ being explained as ‘as good as self-acquired’,
-the explanation of it given by ‘Medhātithi—as ‘acquired by his own
-learning &c.’—becomes unacceptable.
+This verse is quoted in *Mitākṣarā* (2.121), which explains the meaning as follows:—“If a property was acquired by the grandfather, but taken away by some one else and not redeemed during his life-time, when such property has been redeemed by the father (the grandfather’s son), this is as good as ‘self-acquired’ by the father, and hence the father may not divide this with his sons, unless he is himself willing to do so”; and it takes this to imply that in the case of other kinds of ancestral property the sons may force partition on the father.—The *Bālambhaṭṭī* adds that ‘*svārjitam*’ being explained as ‘as good as self-acquired’, the explanation of it given by ‘Medhātithi—as ‘acquired by his own learning &c.’—becomes unacceptable.
 
-It is quoted in *Vivādaratnākara* (p. 461), which adds the following
-notes:—‘*Paitṛkam*’, ancestral—‘*anavāpyam*’ (which is its reading for
-‘*anavāptam*’), which is hard to be recovered by the father; such
-property being ‘self-acquired’ by the father, he shall not divide it
-with his sons, except when he is quite willing.
+It is quoted in *Vivādaratnākara* (p. 461), which adds the following notes:—‘*Paitṛkam*’, ancestral—‘*anavāpyam*’ (which is its reading for ‘*anavāptam*’), which is hard to be recovered by the father; such property being ‘self-acquired’ by the father, he shall not divide it with his sons, except when he is quite willing.
 
-It is quoted in *Parāśaramādhava* (Vyavahāra, p. 339), which has the
-same explanation as *Mitākṣarā*;—in *Dāyatattva* (p. 9);—in
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 339), which has the same explanation as *Mitākṣarā*;—in *Dāyatattva* (p. 9);—in
 *Nṛsiṃhaprasāda* (Vyavahāra 35a);—in *Vivādacintāmaṇi* (Calcutta, p.
-126), to the effect that in regard to the property acquired by the
-father, independently of his ancestral property, sons have no voice, he
-himself being the sole disposer of it;—in *Vīramitrodaya* (Vyavahāra
-177b), which explains ‘*svayamārjitam*’, (1) as ‘*svayamarjitamiva*’,
-‘it is *as if it were* his self-acquired property’; and (2) as giving
-the reason for the law laid down, ‘*since*,’ ‘it is his self-acquired
-property’;—and says that ‘*akāmaḥ*’ implies that *if the father so
-wishes*, he may divide the property among his sons;—and by Jīmūtavāhana
-(*Dāyabhāga*, p. 201).
+126), to the effect that in regard to the property acquired by the father, independently of his ancestral property, sons have no voice, he himself being the sole disposer of it;—in *Vīramitrodaya* (Vyavahāra 177b), which explains ‘*svayamārjitam*’, (1) as ‘*svayamarjitamiva*’, ‘it is *as if it were* his self-acquired property’; and (2) as giving the reason for the law laid down, ‘*since*,’ ‘it is his self-acquired property’;—and says that ‘*akāmaḥ*’ implies that *if the father so wishes*, he may divide the property among his sons;—and by Jīmūtavāhana (*Dāyabhāga*, p. 201).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (18.43).—‘If a man recovers a property which could not before be
-recovered by his father, he shall not, unless by his own free will,
-divide it with his sons; as it is an acquisition made by himself.’
+recovered by his father, he shall not, unless by his own free will, divide it with his sons; as it is an acquisition made by himself.’
 
 *Yājñavalkya* (2.119).—‘If one recovers an ancestral property that had
-been taken away by others, he shall not give it to his co-parceners; nor
-what he has acquired by his learning.’
+been taken away by others, he shall not give it to his co-parceners; nor what he has acquired by his learning.’
 
 *Ṛṣyaśṛṅga* (Aparārka, p. 724).—‘If one of the co-parceners recovers
-landed property that had been lost, the other co-parceners also shall
-have shares in it, alter making over to him a fourth part as his special
-share.’
+landed property that had been lost, the other co-parceners also shall have shares in it, alter making over to him a fourth part as his special share.’
 
 *Bṛhaspati* (Parāśaramādhava-Vyavahāra, p. 339).—‘If a property that
-belonged to the grandfather but became lost, is recovered by the father
-by his own effort, or what is acquired by him by his valour or
-learning,—over that property the father’s right is absolute.’
+belonged to the grandfather but became lost, is recovered by the father by his own effort, or what is acquired by him by his valour or learning,—over that property the father’s right is absolute.’
 
 *Kātyāyana* (Do.).—‘What had become lost,—if that is recovered by the
-father through his own effort,—all that the father cannot he forced to
-share with his sons.’
+father through his own effort,—all that the father cannot he forced to share with his sons.’
 </details>
 
 <details><summary>भारुचिः</summary>

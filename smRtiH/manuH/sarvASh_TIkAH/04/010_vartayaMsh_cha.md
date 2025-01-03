@@ -87,9 +87,7 @@ From all this it follows that the man, whose wife is disabled, is not entitled t
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Laghu-Viṣṇu* (2.27.29).—‘Whatever means of Dharma have been laid down
-in the Śruti and in the Smṛti,—every one of these should be carried out
-in practice by one living in the house; otherwise he becomes open to
-censure.’
+in the Śruti and in the Smṛti,—every one of these should be carried out in practice by one living in the house; otherwise he becomes open to censure.’
 </details>
 
 <details><summary>Bühler</summary>

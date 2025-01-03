@@ -50,10 +50,7 @@ True; what is meant by the second injunction is that it should not be done by ge
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 748), which
-explains that the addition of the particle ‘*eva*’ is meant to emphasise
-that ‘they should not give up eating, even though they may happen to
-touch one another.’
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 748), which explains that the addition of the particle ‘*eva*’ is meant to emphasise that ‘they should not give up eating, even though they may happen to touch one another.’
 
 The second half of the verse is quoted in *Aparārka* (p. 497);—in
 *Śrāddhakriyākaumudī* (p. 170), which says that this verse forbids the
@@ -76,10 +73,7 @@ But in both the reading is ‘*uṣṇam*’ for ‘*uṣmā*.’
 the food...he destroys the Śrāddha and becomes degraded.’
 
 *Śāṅkha-Likhita* (Aparārka, p. 497).—‘The Brāhmaṇas shall not describe,
-praise or decry the food. They should say nothing except by the gesture
-of the hand. The Pitṛs partake of the food only so long as it is on the
-ground, until it is praised, and so long as it is hot, except in the
-case of fruits, roots and drinks.’
+praise or decry the food. They should say nothing except by the gesture of the hand. The Pitṛs partake of the food only so long as it is on the ground, until it is praised, and so long as it is hot, except in the case of fruits, roots and drinks.’
 </details>
 
 <details><summary>Bühler</summary>

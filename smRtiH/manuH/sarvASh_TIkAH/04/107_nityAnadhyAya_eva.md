@@ -28,18 +28,9 @@ Those who desire perfect merit, should not study in villages and cities.—The t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 534), which
-explains ‘*Dharmanaipuṇyakāmāḥ*’ as ‘those who have not yet got up the
-Veda adding that for those who have already got up the Veda, there would
-be nothing wrong in reading it in the village’;—in *Hemādri* (Kāla, p.
-771), which has the following notes:—Those who have completed their
-studies and carry it on further only for the sake of acquiring spiritual
-merit are here spoken of as ‘*Dharmanaipuṇyakāma*’, those still engaged
-in elementary studies are called ‘*vidyānaipuṇyakāma*’; it is for the
-former that reading in villages and towns is here prohibited;—in
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 534), which explains ‘*Dharmanaipuṇyakāmāḥ*’ as ‘those who have not yet got up the Veda adding that for those who have already got up the Veda, there would be nothing wrong in reading it in the village’;—in *Hemādri* (Kāla, p. 771), which has the following notes:—Those who have completed their studies and carry it on further only for the sake of acquiring spiritual merit are here spoken of as ‘*Dharmanaipuṇyakāma*’, those still engaged in elementary studies are called ‘*vidyānaipuṇyakāma*’; it is for the former that reading in villages and towns is here prohibited;—in
 *Smṛticandrikā* (Saṃskāra, p. 161), which has the same note and adds
-that the implication is that for those who are ‘*vidyānaipuṇyakāma*,’
-reading in villages and towns is not forbidden;—and in
+that the implication is that for those who are ‘*vidyānaipuṇyakāma*,’ reading in villages and towns is not forbidden;—and in
 *Gadādharapaddhati* (Kāla, p. 194), which notes that the holidays laid
 down for the ‘*dharmanaipuṇayakāma*’ are not meant for others.
 </details>
@@ -53,26 +44,17 @@ Caṇḍāla or Śūdra.’
 for study.’
 
 *Bodhāyana* (1.11.23).—‘When there is rotting smell in the wind, when
-there is fog, and when there are sounds of dancing, music, musical
-instruments, weeping, and Sāma-singing,—it will be unfit for study so
-long as these last.’
+there is fog, and when there are sounds of dancing, music, musical instruments, weeping, and Sāma-singing,—it will be unfit for study so long as these last.’
 
 *Āpastamba Dharmasūtra* (1.10.24).—‘Hotting smell.’
 
-Do. (1.10.31).—‘Unseasonable clouds, halos round the sun and the moon,
-rainbow, rotting smell in the wind, fog,—in all these cases, it will he
-unfit for study, till they last.’
+Do. (1.10.31).—‘Unseasonable clouds, halos round the sun and the moon, rainbow, rotting smell in the wind, fog,—in all these cases, it will he unfit for study, till they last.’
 
 *Vaśiṣṭha* (13.5).—‘At sunset, during the twilight, if there is a dead
-body in the house, or a Caṇḍāla, in cities, in places where cowdung has
-been lying overnight, or which bear marks of the cowdung, near the
-cremation-ground, while one is lying down, or after one has taken part
-in a Śrāddha.’
+body in the house, or a Caṇḍāla, in cities, in places where cowdung has been lying overnight, or which bear marks of the cowdung, near the cremation-ground, while one is lying down, or after one has taken part in a Śrāddha.’
 
 *Yājñavalkya* (1.150).—‘When there is dust-storm or fiery quarters,
-during the twilights, when there is fog or when there is danger, while
-one is running, when there is rotting smell, and when a
-gentleman-visitor has come to the house.’
+during the twilights, when there is fog or when there is danger, while one is running, when there is rotting smell, and when a gentleman-visitor has come to the house.’
 
 *Bharadvāja* (Vīramitrodaya-Saṃskāra, p. 530).—‘When there are
 fire-portents or dust-storm there should be no reading in the village.’

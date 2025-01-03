@@ -26,15 +26,9 @@ If he raises his hand for the purpose of striking, then the hand should be cut o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p, 268) in *Parāśaramādhava*
-(Vyavahāra, p. 288), which adds that, though in the case of other castes
-raising a weapon to strike one of a higher caste, the penalty is to be
-the ‘first amercement,’ yet for the Śūdra it has to be the cutting of
-the hand and other limbs.
+This verse is quoted in *Vivādaratnākara* (p, 268) in *Parāśaramādhava* (Vyavahāra, p. 288), which adds that, though in the case of other castes raising a weapon to strike one of a higher caste, the penalty is to be the ‘first amercement,’ yet for the Śūdra it has to be the cutting of the hand and other limbs.
 
-This is quoted in *Aparārka* (p. 814);—in *Mitākṣarā* (2.215), to the
-effect that in the case of the Śūdra for merely raising a weapon, the
-hand is to be cut off;—in *Vivādacintāmaṇi* (Calcutta, p. 75);—and in
+This is quoted in *Aparārka* (p. 814);—in *Mitākṣarā* (2.215), to the effect that in the case of the Śūdra for merely raising a weapon, the hand is to be cut off;—in *Vivādacintāmaṇi* (Calcutta, p. 75);—and in
 *Vīramitrodaya* (Vyavahāra, 146b).
 </details>
 
@@ -43,8 +37,7 @@ hand is to be cut off;—in *Vivādacintāmaṇi* (Calcutta, p. 75);—and in
 **(verses 8.279-280)  
 **
 
-See Comparative notes for [Verse
-8.279].
+See Comparative notes for [Verse 8.279].
 </details>
 
 <details><summary>Bühler</summary>

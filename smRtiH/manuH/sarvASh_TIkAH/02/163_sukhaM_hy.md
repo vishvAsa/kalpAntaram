@@ -31,8 +31,7 @@ That person however who has done the scorning perishes by that very sin.—(163)
 **(verses 162-163)  
 **
 
-See Comparative notes for [Verse
-2.162].
+See Comparative notes for [Verse 2.162].
 </details>
 
 <details><summary>Bühler</summary>

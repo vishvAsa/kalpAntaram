@@ -61,26 +61,20 @@ When one drinks the ‘gruel’ (of barley), it becomes the *drinking* *of* ‘*
 [*Cf*.
 4.222.]
 
-This verse is quoted in *Aparārka* (p. 1167);—in *Mitākṣarā* (3.291),
-which adds that *this refers to* intentional and repeated acts;—and in
+This verse is quoted in *Aparārka* (p. 1167);—in *Mitākṣarā* (3.291), which adds that *this refers to* intentional and repeated acts;—and in
 *Prāyaścittaviveka* (pp. 269 and 281), which says that this refers to
 *unintentional* eating.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-See above under
-[4.222].
+See above under [4.222].
 
 *Vaśiṣṭha* (14. 33).—‘For eating garlic, onions, mushrooms, turnips,
-śleṣmātaka, exudations from trees, the red sap flowing from incisions in
-trees, food peeked at by crows or carried by dogs, or the leavings of a
-Śūdra, an *Atikṛcchra* penance must be performed.’
+śleṣmātaka, exudations from trees, the red sap flowing from incisions in trees, food peeked at by crows or carried by dogs, or the leavings of a Śūdra, an *Atikṛcchra* penance must be performed.’
 
 *Viṣṇu* (51.50, 54, 56).—‘If a Brāhmaṇa eats the leavings of a Śūdra, he
-should subsist on milk for seven days. If a Kṣatriya eats the leavings
-of a Śūdra, he should subsist on milk for five days. If a Vaiśya eats
-the leavings of a Śūdra, he should subsist on milk for three days.’
+should subsist on milk for seven days. If a Kṣatriya eats the leavings of a Śūdra, he should subsist on milk for five days. If a Vaiśya eats the leavings of a Śūdra, he should subsist on milk for three days.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -28,8 +28,7 @@ This verse is quoted in *Parāśaramādhava*, (Vyavahāra, p. 82);—and in
 
 **(verses 8.118-123)**
 
-See Comparative notes for [Verse
-8.118].
+See Comparative notes for [Verse 8.118].
 </details>
 
 <details><summary>Bühler</summary>

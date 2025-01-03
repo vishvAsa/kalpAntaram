@@ -48,9 +48,7 @@ These and others of the same kind one should know as the open ‘thorns’ of th
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 291), which explains
-‘*anāryānāryaliṅginaḥ*’ as ‘persons who, while not being real religious
-students, pretend to be such and make money by it’.
+This verse is quoted in *Vivādaratnākara* (p. 291), which explains ‘*anāryānāryaliṅginaḥ*’ as ‘persons who, while not being real religious students, pretend to be such and make money by it’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -58,8 +56,7 @@ students, pretend to be such and make money by it’.
 **(verses 9.256-260)  
 **
 
-See Comparative notes for [Verse
-9.256].
+See Comparative notes for [Verse 9.256].
 </details>
 
 <details><summary>Bühler</summary>

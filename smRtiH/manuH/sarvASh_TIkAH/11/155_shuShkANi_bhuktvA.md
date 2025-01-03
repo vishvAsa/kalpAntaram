@@ -42,23 +42,15 @@ When, however, the exact species of the animal is known, the repeated eating of 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Ajñātam*’.—‘Unknown’ (Medhātithi);—‘unintentionally’ (Govindarāja and
-Rāghavānanda); ‘*Bhaumāni kavakāni*’.—To be taken together according to
-Medhātithi; separately, according to Rāghavānanda, who takes
-‘*bhaumāni*’ as ‘mushrooms growing on the ground,’ and ‘*Kavakānī*’ as
-‘mushrooms growing on trees’.
+‘*Ajñātam*’.—‘Unknown’ (Medhātithi);—‘unintentionally’ (Govindarāja and Rāghavānanda); ‘*Bhaumāni kavakāni*’.—To be taken together according to Medhātithi; separately, according to Rāghavānanda, who takes ‘*bhaumāni*’ as ‘mushrooms growing on the ground,’ and ‘*Kavakānī*’ as ‘mushrooms growing on trees’.
 
-This verse is quoted in *Aparārka* (p. 1166), which adds that the
-expiation here prescribed is for the eating of mushrooms growing on the
-ground, not those growing on trees;—and in *Prāyaścittaviveka* (p. 285).
+This verse is quoted in *Aparārka* (p. 1166), which adds that the expiation here prescribed is for the eating of mushrooms growing on the ground, not those growing on trees;—and in *Prāyaścittaviveka* (p. 285).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (51.27, 34).—‘The *Cāndrāyaṇa* penance should be performed for
-eating unknown flesh, meat kept in a slaughterhouse and dried meat. For
-eating the *Chatrāka* or the *Kavaka*, one must perform the *Sāntapana*
-penance.’
+eating unknown flesh, meat kept in a slaughterhouse and dried meat. For eating the *Chatrāka* or the *Kavaka*, one must perform the *Sāntapana* penance.’
 </details>
 
 <details><summary>भारुचिः</summary>

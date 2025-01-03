@@ -29,9 +29,7 @@ He shall not seek wealth by clinging pursuits, or by contrary acts; nor when wea
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Prasaṅgena*’—‘Music, singing and such other things to which man
-becomes addicted’ (Medhātithi, Govindarāja, Kullūka Rāghavānanda and
-Nandana);—‘with too great eagerness’ (Nārāyaṇa).
+‘*Prasaṅgena*’—‘Music, singing and such other things to which man becomes addicted’ (Medhātithi, Govindarāja, Kullūka Rāghavānanda and Nandana);—‘with too great eagerness’ (Nārāyaṇa).
 
 This verse is quoted in *Hemādri* (Dāna, p. 59).
 </details>
@@ -39,8 +37,7 @@ This verse is quoted in *Hemādri* (Dāna, p. 59).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (1.129).—‘He shall not seek for such wealth as may be
-incompatible with Vedic Study; nor from here and there; nor by recourse
-to what is improper; and he shall remain ever contented.’
+incompatible with Vedic Study; nor from here and there; nor by recourse to what is improper; and he shall remain ever contented.’
 
 *Gautama* (9.49).—‘Among Dharma, Artha and Kāma, he shall attach the
 greatest importance to Dharma.’

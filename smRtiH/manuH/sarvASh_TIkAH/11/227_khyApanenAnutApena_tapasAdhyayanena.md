@@ -34,11 +34,7 @@ When a man is unable to perforin the austerity, there shall be^(‘)*gifts*.’ 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtitattva* (p. 483);—in *Pāraśaramādhava*
-(Prāyaścitta, p. 336);—and in *Prāyaścittaviveka* (p. 29), which says
-that the mention of ‘*āpadi*’ implies that ‘making gifts’ is the
-secondary alternative for ‘Vedic study and austerities’; and notes that
-this refers to sins other than that of *killing*.
+This verse is quoted in *Smṛtitattva* (p. 483);—in *Pāraśaramādhava* (Prāyaścitta, p. 336);—and in *Prāyaścittaviveka* (p. 29), which says that the mention of ‘*āpadi*’ implies that ‘making gifts’ is the secondary alternative for ‘Vedic study and austerities’; and notes that this refers to sins other than that of *killing*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -49,12 +45,10 @@ this refers to sins other than that of *killing*.
 *Mahābhārata* (13.112.5).—(Same as Manu 230.)
 
 *Yājñavalkya* (3.30; also Parāśaramādhava-Prāyaścitta, p. 336).—‘Time,
-Fire, Action, Earth, Air, Mind, Knowledge, Austerity, Water, Repentance
-and Fasting are conducive to purification.’
+Fire, Action, Earth, Air, Mind, Knowledge, Austerity, Water, Repentance and Fasting are conducive to purification.’
 
 *Baudhāyana* (Do.).—‘Abandonment, Austerity, Charity, Repentance,
-Proclaiming the deed, Devotion to Learning, and Bath,—these are the
-seven factors in the destruction of Sin.’
+Proclaiming the deed, Devotion to Learning, and Bath,—these are the seven factors in the destruction of Sin.’
 </details>
 
 <details><summary>भारुचिः</summary>

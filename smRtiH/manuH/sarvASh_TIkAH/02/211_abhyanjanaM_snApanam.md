@@ -31,11 +31,9 @@ What is prohibited here is every service that involves the touching of the body;
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 *Parāśaramādhava* (Ācāra, p. 301.) quotes this verse as laying down
-exceptions to the general rule regarding the clasping of the feet and
-the rendering of other services to the Teacher’s wife.
+exceptions to the general rule regarding the clasping of the feet and the rendering of other services to the Teacher’s wife.
 
-It is quoted in *Vidhānapārijāta* (p. 495);—and in *Vīramitrodaya*
-(Saṃskāra, p. 402);—also on p. 493.
+It is quoted in *Vidhānapārijāta* (p. 495);—and in *Vīramitrodaya* (Saṃskāra, p. 402);—also on p. 493.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -48,8 +46,7 @@ hair-dressing, feet-washing, shampooing and feet-clasping.’
 *Āpastamba Dharmasūtra* (1. 7. 57).—(See above.)
 
 *Viṣṇu* (32. 6).—‘For the teacher’s wives one should not do shampooing,
-applying of collyrium, dressing of hair, or touching the feet and such
-like acts.’
+applying of collyrium, dressing of hair, or touching the feet and such like acts.’
 </details>
 
 <details><summary>Bühler</summary>

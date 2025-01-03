@@ -31,12 +31,10 @@ This verse is quoted in *Gadādharapaddhati* (Kāla, p. 194);—in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Purāṇa* (quoted in Caturvargacintāmaṇi, p. 776).—‘The pupil, carrying
-on his study, should avoid the days unfit for study; and the teacher,
-carrying on the teaching should avoid the days unfit for study.’
+on his study, should avoid the days unfit for study; and the teacher, carrying on the teaching should avoid the days unfit for study.’
 
 *Viṣṇu* (30.31).—‘The Preceptor desiring the Brāhmic regions should sow
-knowledge in the fertile soil of the true pupil, except on the days
-unfit for study.’
+knowledge in the fertile soil of the true pupil, except on the days unfit for study.’
 </details>
 
 <details><summary>Bühler</summary>

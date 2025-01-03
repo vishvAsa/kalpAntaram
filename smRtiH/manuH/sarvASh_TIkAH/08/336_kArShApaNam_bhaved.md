@@ -38,8 +38,7 @@ The fine imposed upon himself should be either given away to Brāhmaṇas, or th
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 654), which adds that the
-‘rājās’ meant here are the *subsidiary kings*.
+This verse is quoted in *Vivādaratnākara* (p. 654), which adds that the ‘rājās’ meant here are the *subsidiary kings*.
 </details>
 
 <details><summary>भारुचिः</summary>

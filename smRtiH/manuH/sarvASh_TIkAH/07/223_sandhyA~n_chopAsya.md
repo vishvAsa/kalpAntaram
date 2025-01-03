@@ -32,9 +32,7 @@ This shall be done in such a manner that other people may not know it, and that 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Rahasyākhyāyinām*’—‘Of the ministers and others making secret reports’
-(Nārāyaṇa);—‘of the citizens who may have come to make secret reports’
-(Medhātithi).
+‘*Rahasyākhyāyinām*’—‘Of the ministers and others making secret reports’ (Nārāyaṇa);—‘of the citizens who may have come to make secret reports’ (Medhātithi).
 
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 167);—in
 *Nītimayūkha* (p. 53);—and in *Nṛsiṃhaprasāda* (Āhnika, p. 36a).
@@ -48,13 +46,10 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 167);—in
 *Arthaśāstra*.—(See under 145.)
 
 *Yājñavalkya* (1.329).—‘Having performed the Twilight Prayers he shall
-hear the secret reports of spies; then he shall take his food to the
-accompaniment of singing and dancing, and then study the Veda.’
+hear the secret reports of spies; then he shall take his food to the accompaniment of singing and dancing, and then study the Veda.’
 
 *Vṛddha-Vashistha* (Vīramitrodaya-Rājanīti, p. 168).—‘Then having
-performed the Twilight Prayers, he shall again enter the Hall of
-Audience; after that the ladies of his harem shall make the
-evening-offerings.’
+performed the Twilight Prayers, he shall again enter the Hall of Audience; after that the ladies of his harem shall make the evening-offerings.’
 
 *Arthaśāstra* (p. 52).—‘He shall appoint spies disguised as *Kāpālika*,
 etc.’

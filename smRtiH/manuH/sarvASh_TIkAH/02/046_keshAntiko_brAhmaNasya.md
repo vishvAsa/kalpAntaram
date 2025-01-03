@@ -32,11 +32,7 @@ Similarly for the Vaiśya, it should reach up to the tip of the nose.—(46)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtitattva* (p. 930), which adds that in the
-event of the specified wood not being available any one of the woods
-recommended for the three castes may be used for any one of these
-three;—in *Madanapārijāta* (p. 22);—in *Vīramitrodaya* (Saṃskāra, p.
-436), which last explains ‘*Keśāntikaḥ*’ as ‘*Mūrdhāpramāṇaḥ*’;—in
+This verse is quoted in *Smṛtitattva* (p. 930), which adds that in the event of the specified wood not being available any one of the woods recommended for the three castes may be used for any one of these three;—in *Madanapārijāta* (p. 22);—in *Vīramitrodaya* (Saṃskāra, p. 436), which last explains ‘*Keśāntikaḥ*’ as ‘*Mūrdhāpramāṇaḥ*’;—in
 *Parāśaramādhava* (Ācāra, p. 448);—in *Aparārka* (p. 57);—in
 *Nṛsiṃhaprasāda* (Saṃskāra, p.43b);—and in *Smṛticandrikā* (Saṃskāra, p.
 78), which explains ‘*Keśāntikaḥ*’ as *reaching up to the head*.
@@ -51,16 +47,13 @@ head, the forehead and the nose-tip.’
 reaching up to the head, the forehead and the nose-ṭip.’
 
 *Vaśiṣṭha-Smṛti*, 11.46.—‘For the Brāhmaṇa, it should reach up to the
-hair; for the Kṣatriya, up to the forehead; for the Vaiśya, up to tho
-nose.’
+hair; for the Kṣatriya, up to the forehead; for the Vaiśya, up to tho nose.’
 
 *Āśvalāyana-Gṛhyasūtra*, 19.13.—‘For the Brāhmaṇa, reaching up to the
-hair; for the Kṣatriya, reaching up to the forehead; for the Vaiśya,
-reaching up to ṭhe Breath (Nose-tip).’
+hair; for the Kṣatriya, reaching up to the forehead; for the Vaiśya, reaching up to ṭhe Breath (Nose-tip).’
 
 *Pāraskara-Gṛhyasūtra* (Vīramitrodaya-Saṃskāra, p. 436).—‘The staff of
-the Brāhmaṇa should reach to his hair; of the Kṣatriya, to his forehead;
-of the Vaiśya, to the Breath.’
+the Brāhmaṇa should reach to his hair; of the Kṣatriya, to his forehead; of the Vaiśya, to the Breath.’
 
 *Vyāsa* (Do.).—‘Reaching up to the head, the forehead and the nose-tip.’
 

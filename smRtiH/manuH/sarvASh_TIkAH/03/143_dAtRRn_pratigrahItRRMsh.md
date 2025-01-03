@@ -38,8 +38,7 @@ addition to the perceptible one,—what to say of the *giver*.’
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (1.270).—‘Men’s grandfathers, when pleased, bestow upon
-them, long life, offspring, wealth, learning, heaven, final deliverance
-and pleasures.’
+them, long life, offspring, wealth, learning, heaven, final deliverance and pleasures.’
 </details>
 
 <details><summary>Bühler</summary>

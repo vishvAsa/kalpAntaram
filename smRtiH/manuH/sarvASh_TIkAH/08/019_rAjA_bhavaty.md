@@ -24,24 +24,17 @@ From verse 14 onwards we have a set of supplementary exaggerations, containing p
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 604);—in *Parāśaramādhava*
-(Vyavahāra, p. 26), to the effect that the king becomes absolved from
-all sin if he shows complete impartiality;—in *Smṛtitattva* (II, p. 200)
-which adds the following notes:—‘*Kartāram*’ means the ‘speaker’, the
-perjuror,—the term ‘*rājā*’ here stands for the Judge, —‘*anenāḥ*’ means
-‘free from sin’;—in *Smṛticandrikā* (Vyavahāra, p. 48);—and in
+This verse is quoted in *Aparārka* (p. 604);—in *Parāśaramādhava* (Vyavahāra, p. 26), to the effect that the king becomes absolved from all sin if he shows complete impartiality;—in *Smṛtitattva* (II, p. 200) which adds the following notes:—‘*Kartāram*’ means the ‘speaker’, the perjuror,—the term ‘*rājā*’ here stands for the Judge, —‘*anenāḥ*’ means ‘free from sin’;—in *Smṛticandrikā* (Vyavahāra, p. 48);—and in
 *Vīramitrodaya* (Vyavahāra, 5a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (3.13).—‘The King is freed from responsibility, the members of
-the Court obtain their absolution, and the guilt rests on the
-offender,—when the guilty person is punished.’
+the Court obtain their absolution, and the guilt rests on the offender,—when the guilty person is punished.’
 
 *Bodhāyana* (1.19.8).—‘When he who deserves condemnation is condemned,
-the King is guiltless and the judges free from blame; the guilt falls on
-the offender alone.’
+the King is guiltless and the judges free from blame; the guilt falls on the offender alone.’
 
 *Hārita*( Vyavahāratattva).—(Same as Manu.)
 </details>

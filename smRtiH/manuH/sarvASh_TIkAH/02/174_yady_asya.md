@@ -38,8 +38,7 @@ All this stands ‘*during* *the observances, also*.’ In view of the context, 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 58), which explains ‘*vrateṣu*’
-as standing for the *Sāvitrya* and the rest.’
+This verse is quoted in *Aparārka* (p. 58), which explains ‘*vrateṣu*’ as standing for the *Sāvitrya* and the rest.’
 </details>
 
 <details><summary>Bühler</summary>

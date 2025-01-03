@@ -32,8 +32,7 @@ Through his spies he shall also keep himself informed of the ‘*enomy’s doing
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The second half of this verse is quoted in *Smṛtitattva* (p. 742);—the
-entire verse in *Parāśaramādhava* (Ācāra, p. 402);—and in
+The second half of this verse is quoted in *Smṛtitattva* (p. 742);—the entire verse in *Parāśaramādhava* (Ācāra, p. 402);—and in
 *Vīramitrodaya* (Rājanīti, p. 404), which explains ‘*upajapet*’ as
 ‘should create dissension, alienate.’
 </details>
@@ -41,12 +40,7 @@ entire verse in *Parāśaramādhava* (Ācāra, p. 402);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Arthaśāstra* (Part II, p. 248).—‘The king shall employ the six methods
-of conquest, in accordance with his own capacity; with those equal, or
-superior, to himself, he shall make alliance; against those inferior, he
-shall wage war... If the superior king does not agree to an alliance, he
-should have recourse to such methods as making presents to him, creating
-dissension and discontent among the vassals and subjects of that king
-and so forth.’
+of conquest, in accordance with his own capacity; with those equal, or superior, to himself, he shall make alliance; against those inferior, he shall wage war... If the superior king does not agree to an alliance, he should have recourse to such methods as making presents to him, creating dissension and discontent among the vassals and subjects of that king and so forth.’
 </details>
 
 <details><summary>भारुचिः</summary>

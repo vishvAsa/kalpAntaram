@@ -24,15 +24,9 @@ On the strength of the declaration contained in the forthcoming verse some peopl
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“According to Nārāyaṇa this rule refers to the case where each of the
-wives has several sons, while the preceding one is applicable where each
-wife has one son only.—Rāghavānanda thinks that the first rule shall be
-followed when the son of the Brāhmaṇa possesses good qualities, the
-second when he is destitute of them”.—Buhler.
+“According to Nārāyaṇa this rule refers to the case where each of the wives has several sons, while the preceding one is applicable where each wife has one son only.—Rāghavānanda thinks that the first rule shall be followed when the son of the Brāhmaṇa possesses good qualities, the second when he is destitute of them”.—Buhler.
 
-This verse is quoted in *Vivādaratnākara* (p. 528), as containing the
-sanction for partition with ‘special shares’ in *Parāśaramādhava*
-(Vyavahāra, p. 353);—and by Jīmūtavāhana (*Dāyabhāga*, p. 212).
+This verse is quoted in *Vivādaratnākara* (p. 528), as containing the sanction for partition with ‘special shares’ in *Parāśaramādhava* (Vyavahāra, p. 353);—and by Jīmūtavāhana (*Dāyabhāga*, p. 212).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -40,8 +34,7 @@ sanction for partition with ‘special shares’ in *Parāśaramādhava*
 **(verses 9.149-157)  
 **
 
-See Comparative notes for [Verse
-9.149].
+See Comparative notes for [Verse 9.149].
 </details>
 
 <details><summary>भारुचिः</summary>

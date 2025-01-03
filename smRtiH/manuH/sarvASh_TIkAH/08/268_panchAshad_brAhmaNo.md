@@ -30,10 +30,7 @@ In the case of the *Śūdra* abusing a *Śūdra*, the punishment shall depend up
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (2. 207), to the effect that the
-Brāhmaṇa is to be fined 50 for insulting a Kṣatriya, 25 for insulting a
-Vaiśya and 12½ for insulting a Śūdra;—in *Aparārka* (p. 808), to the
-same effect, adding that so many *paṇas* are meant;—and in
+This verse is quoted in *Mitākṣarā* (2. 207), to the effect that the Brāhmaṇa is to be fined 50 for insulting a Kṣatriya, 25 for insulting a Vaiśya and 12½ for insulting a Śūdra;—in *Aparārka* (p. 808), to the same effect, adding that so many *paṇas* are meant;—and in
 *Vivādaratnākara* (p. 151), which adds that ‘*abhiśaṃsana*’ means
 ‘defaming,’ ‘insulting.’
 </details>
@@ -43,8 +40,7 @@ same effect, adding that so many *paṇas* are meant;—and in
 **(verses 8.267-270)  
 **
 
-See Comparative notes for [Verse
-8.267].
+See Comparative notes for [Verse 8.267].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -24,14 +24,9 @@ He who eats what has been left by a cat, a crow, a rat, a dog, or an ichneumon,�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 932), to the effect that on
-eating the *ucchiṣṭa* of the cat and other animals one should drink the
+This verse is quoted in *Madanapārijāta* (p. 932), to the effect that on eating the *ucchiṣṭa* of the cat and other animals one should drink the
 *Brāhmīsuvarcalā* for one day;—in *Prāyaścittaviveka* (p. 320), which
-explains ‘*Brāhmasuvarcalā*’ as the yellow sun-flower,—the offender
-should pass one day living on this;—and adds that this refers to cases
-where the act is *unintentional*; where it is done intentionally, the
-penance should he kept for *three* days;—and in *Śuddhikaumudī* (p.
-316).
+explains ‘*Brāhmasuvarcalā*’ as the yellow sun-flower,—the offender should pass one day living on this;—and adds that this refers to cases where the act is *unintentional*; where it is done intentionally, the penance should he kept for *three* days;—and in *Śuddhikaumudī* (p. 316).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -26,9 +26,7 @@ For the atonement of the offence of being naked, the man should bathe along with
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 1184), which adds that in the
-case of the offence being *unintentional*, the expiation is to consist
-of *bathing only*;—and in *Prāyaścittaviveka* (p. 462).
+This verse is quoted in *Aparārka* (p. 1184), which adds that in the case of the offence being *unintentional*, the expiation is to consist of *bathing only*;—and in *Prāyaścittaviveka* (p. 462).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -37,8 +35,7 @@ of *bathing only*;—and in *Prāyaścittaviveka* (p. 462).
 camel should perform breath-suspension in water.’
 
 *Viṣṇu* (54.23).—‘One who has been riding upon a camel, or upon an ass,
-and one who has bathed, or slept, or eaten, quite naked, must suspend
-his breath thrice.’
+and one who has bathed, or slept, or eaten, quite naked, must suspend his breath thrice.’
 </details>
 
 <details><summary>Bühler</summary>

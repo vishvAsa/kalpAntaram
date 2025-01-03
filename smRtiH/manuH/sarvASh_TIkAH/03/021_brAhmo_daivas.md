@@ -26,13 +26,7 @@ These are the names of the eight forms of Marriage that were referred to in the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 846) as
-enumerating the different forms of marriage;—in *Madanapārijāta* (p.
-155);—in *Parāśaramādhava* (Ācāra, p. 485);—in *Vidhānapārijāta* (p.
-758);—in *Saṃskāra-ratnamālā* (p. 479);—in *Nṛsiṃhaprasāda* (Saṃskāra,
-p. 61a);—in *Hemādri* (Dāna, p. 682)—in *Vyāvahāra Bālambhaṭṭī* (p.
-175);—in *Saṃskāramayūkha* (p. 99);—in *Smṛticandrikā* (Saṃskāra, p.
-227);—and by *Jīmūtavāhana* (Dāyabhāga, p. 152).
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 846) as enumerating the different forms of marriage;—in *Madanapārijāta* (p. 155);—in *Parāśaramādhava* (Ācāra, p. 485);—in *Vidhānapārijāta* (p. 758);—in *Saṃskāra-ratnamālā* (p. 479);—in *Nṛsiṃhaprasāda* (Saṃskāra, p. 61a);—in *Hemādri* (Dāna, p. 682)—in *Vyāvahāra Bālambhaṭṭī* (p. 175);—in *Saṃskāramayūkha* (p. 99);—in *Smṛticandrikā* (Saṃskāra, p. 227);—and by *Jīmūtavāhana* (Dāyabhāga, p. 152).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -40,8 +34,7 @@ p. 61a);—in *Hemādri* (Dāna, p. 682)—in *Vyāvahāra Bālambhaṭṭī* (p
 **(verses 3.20-21)  
 **
 
-See Comparative notes for [Verse
-3.20].
+See Comparative notes for [Verse 3.20].
 </details>
 
 <details><summary>Bühler</summary>

@@ -34,12 +34,7 @@ See *Kāmandaka* (11.27).
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 411);—and in
 *Vīramitrodaya* (Rājanīti, p. 324), which adds the following
-notes:—‘*Sandhi*’ is ‘alliance, entering into a compact, such as we
-shall help each other with elephants, horses and so forth,—‘*vigraha*’
-is ‘war’,—‘*yāna*’ is ‘marching against the enemy’,—‘*āsana*’ is
-‘staying within one’s own territories, not minding the war that may have
-been declared;’—‘*dvaidhībhāva*’ is ‘dividing one’s own forces into two
-parts’,—and in; *Nṛsiṃhaprasāda* (Saṃskāra, p. 72b).
+notes:—‘*Sandhi*’ is ‘alliance, entering into a compact, such as we shall help each other with elephants, horses and so forth,—‘*vigraha*’ is ‘war’,—‘*yāna*’ is ‘marching against the enemy’,—‘*āsana*’ is ‘staying within one’s own territories, not minding the war that may have been declared;’—‘*dvaidhībhāva*’ is ‘dividing one’s own forces into two parts’,—and in; *Nṛsiṃhaprasāda* (Saṃskāra, p. 72b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -48,35 +43,21 @@ parts’,—and in; *Nṛsiṃhaprasāda* (Saṃskāra, p. 72b).
 **
 
 *Viṣṇu* (3.39).—‘He shall resort, as the time demands, to the six
-measures of making alliance and waging war, marching to battle and
-halting, seeking shelter and help and distributing his forces.’
+measures of making alliance and waging war, marching to battle and halting, seeking shelter and help and distributing his forces.’
 
 *Yājñavalkya* (1.346).—‘He shall duly have recourse to alliance, war,
 marching, sitting, seeking help and dividing his forces.’
 
 *Arthaśāstra* (Part II, p. 237).—‘The circle of constituents forms the
-source of the six Measures.—The six Measures are Alliance, War, Halting,
-Marching, Seeking Shelter and Duplicity—say the Teachers. According to
-Vātavyādhi, there are only two measures, all the six being included
-under Alliance and War. Alliance consists in entering into treaty; War
-in inflicting injury; Halting in disregarding; Marching in rising
-against the enemy; Seeking Shelter in surrendering oneself to another;
-and Duplicity in planning both peace and war.’
+source of the six Measures.—The six Measures are Alliance, War, Halting, Marching, Seeking Shelter and Duplicity—say the Teachers. According to Vātavyādhi, there are only two measures, all the six being included under Alliance and War. Alliance consists in entering into treaty; War in inflicting injury; Halting in disregarding; Marching in rising against the enemy; Seeking Shelter in surrendering oneself to another; and Duplicity in planning both peace and war.’
 
 *Śukranīti* (4.7. 464, *et.seq*.).—‘The six constituents of state-craft
 are—*Sandhi*, *Vigraha*, *Yāna*, *Āsana*, *Āśraya* and
 *Dvaidhībhāva*;—*Sandhi*, Peace, is that by which a powerful enemy
-becomes friendly;—*Vigraha*, War, is that by which the enemy is pressed
-and subdued;—*Yāna* is marching for the furtherance of one’s own
-interests and the destruction of the enemy’s;—*Āsana*, Entrenching, is
-that step by which one protects himself but destroys the
-enemy;—*Āśraya*, Seeking shelter, is that whereby even the weak becomes
-strong;—*Dvaidhībhāva* is the stationing of one’s troops in several
-directions.’
+becomes friendly;—*Vigraha*, War, is that by which the enemy is pressed and subdued;—*Yāna* is marching for the furtherance of one’s own interests and the destruction of the enemy’s;—*Āsana*, Entrenching, is that step by which one protects himself but destroys the enemy;—*Āśraya*, Seeking shelter, is that whereby even the weak becomes strong;—*Dvaidhībhāva* is the stationing of one’s troops in several directions.’
 
 *Kāmandaka* (11.1).—‘There are six modes of foreign Policy—according to
-some only two—Peace (including Duplicity and Shelter) and War (including
-Marching and Halting).
+some only two—Peace (including Duplicity and Shelter) and War (including Marching and Halting).
 </details>
 
 <details><summary>भारुचिः</summary>

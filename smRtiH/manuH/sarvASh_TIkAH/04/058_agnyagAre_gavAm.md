@@ -30,10 +30,7 @@ The term ‘*goṣṭha*,’ ‘*pen*’ signifies the dwelling-place; and it is
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 90), which
-explains ‘*gavām goṣṭhe*’ as ‘*goviśisṭe goṣṭhe*’,—and ‘*dakṣiṇam etc*.’
-as ‘he should place the upper cloth on his left shoulder and keep the
-right one outside the cloth’;—and in *Saṃskāramayūkha* (p. 71).
+This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 90), which explains ‘*gavām goṣṭhe*’ as ‘*goviśisṭe goṣṭhe*’,—and ‘*dakṣiṇam etc*.’ as ‘he should place the upper cloth on his left shoulder and keep the right one outside the cloth’;—and in *Saṃskāramayūkha* (p. 71).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -45,9 +42,7 @@ right one outside the cloth’;—and in *Saṃskāramayūkha* (p. 71).
 gods and Brāhmaṇas.’
 
 *Āpastamba* (Vīramitrodaya-Paribhāṣā, p. 90).—‘In a temple, at Śrāddhas,
-in cow-pens, at sacrifices, near Brāhmaṇas, during the twilights, at
-meeting saintly men, in the fire-house, at marriages, during
-Vedic-study, during meals, one shall raise the right arm.’
+in cow-pens, at sacrifices, near Brāhmaṇas, during the twilights, at meeting saintly men, in the fire-house, at marriages, during Vedic-study, during meals, one shall raise the right arm.’
 
 *Mahābhārata* (12.193.20).—\[Same as Manu, the first line being read as
 ‘*Devāgāre gavūm madhye brāhmaṇānām kriyāpathe*.’\]

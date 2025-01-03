@@ -59,15 +59,10 @@ the fire or to make *Bali* offerings.'
 the fire; nor a child that has not been initiated.’
 
 *Vaśiṣṭha* (2-6).—‘Hārīta quotes the following verse—“No religious rite
-can be performed by a child before he has been girt with the sacred
-girdle; since he is on a level with the Śūdra before he is born in the
-Veda.’
+can be performed by a child before he has been girt with the sacred girdle; since he is on a level with the Śūdra before he is born in the Veda.’
 
-\[See
-above.—[2.72];
-[5.155]
-and
-[9.18].\]
+\[See above.—[2.72]; [5.155]
+and [9.18].\]
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -64,21 +64,11 @@ Another Smṛti-text has prescribed’ (l) melting, (2) heating and (3) hammerin
 
 (Verse 112 of others.)
 
-This verse is quoted in *Madanapārijāta* (p. 446), which explains
-‘*anupaskṛtam*’ as ‘*not chased*’, *i.e*., ‘the chasings whereof do not
-retain any such unclean thing as wine, food leavings and so forth’;—in
+This verse is quoted in *Madanapārijāta* (p. 446), which explains ‘*anupaskṛtam*’ as ‘*not chased*’, *i.e*., ‘the chasings whereof do not retain any such unclean thing as wine, food leavings and so forth’;—in
 *Hemādri* (Śrāddha, p. 805);—in *Parāśaramādhava* (Prāyaścitta, p. 134),
-which explains ‘*anupaskṛtam*’ as ‘unsoiled,’ and ‘*abjam*’ as ‘the
-conch and such things’;—in *Nṛsiṃhaprasāda*, (Śrāddha, p. 15b);—in
+which explains ‘*anupaskṛtam*’ as ‘unsoiled,’ and ‘*abjam*’ as ‘the conch and such things’;—in *Nṛsiṃhaprasāda*, (Śrāddha, p. 15b);—in
 *Aparārka*, (p. 254), which explains ‘*anupaskṛtam*’ as ‘the chasings
-wherein are not filled with copper or other metals’;—in *Mitākṣarā*, (on
-1.193), which explains ‘*anupaskṛtam*’ as ‘*akhātapūritam*’ (the term
-used by Medhātithi), *i*. *e*., ‘the chasings in which are not filled
-in’;—in *Nityācārapradīpa*, (p. 96), which explains ‘*nirlepam*’ as
-absolutely unsoiled;—and in *Śuddhikaumudī*, (p. 305), which explains
-‘*abja*’ as ‘conches, shells and the like,’—‘*ca*’ as including
-glass-vessels, and ‘*anupaskṛtam*’ as ‘not chased or otherwise
-modified.’
+wherein are not filled with copper or other metals’;—in *Mitākṣarā*, (on 1.193), which explains ‘*anupaskṛtam*’ as ‘*akhātapūritam*’ (the term used by Medhātithi), *i*. *e*., ‘the chasings in which are not filled in’;—in *Nityācārapradīpa*, (p. 96), which explains ‘*nirlepam*’ as absolutely unsoiled;—and in *Śuddhikaumudī*, (p. 305), which explains ‘*abja*’ as ‘conches, shells and the like,’—‘*ca*’ as including glass-vessels, and ‘*anupaskṛtam*’ as ‘not chased or otherwise modified.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -87,8 +77,7 @@ modified.’
 **
 
 *Baudhāyana* (1.8, 33, 46, 47).—‘Copper, silver and gold must be
-cleansed with acids,—conch-shells, horn, pearl-shell and ivory, with a
-paste of yellow mustard; or they may he cleansed with milk.’
+cleansed with acids,—conch-shells, horn, pearl-shell and ivory, with a paste of yellow mustard; or they may he cleansed with milk.’
 
 *Vaśiṣṭha* (3.61, 62).—‘Gold is purified by fire alone; likewise
 silver.’
@@ -99,20 +88,10 @@ smeared, are cleansed with water.’
 *Yājñavalkya* (1.182).—(See above, under 110.)
 
 *Parāśara* (7.25-30).—‘Iron things are cleansed by being scrubbed with
-iron; lead by heating in fire; vessels made of ivory, bone, horn, silver
-and gold, as also gems, stones and conch-shells, one should wash with
-water; in stone however, scrubbing also should be done; earthenware is
-cleansed by heating in fire; grains by water sprinkled on them; things
-made of bamboo, tree-bark, linen, cotton cloth and woolen cloth, are
-purified by washing. For *muñja* grass and things made of it, winnowing
-basket, jute, fruits and leather, grasses, wood and ropes, sprinkling
-with water has been prescribed. Cotton-beds and pillows, red-coloured
-cloths and the ? become pure by being dried over fire and then sprinkled
-with water.’
+iron; lead by heating in fire; vessels made of ivory, bone, horn, silver and gold, as also gems, stones and conch-shells, one should wash with water; in stone however, scrubbing also should be done; earthenware is cleansed by heating in fire; grains by water sprinkled on them; things made of bamboo, tree-bark, linen, cotton cloth and woolen cloth, are purified by washing. For *muñja* grass and things made of it, winnowing basket, jute, fruits and leather, grasses, wood and ropes, sprinkling with water has been prescribed. Cotton-beds and pillows, red-coloured cloths and the ? become pure by being dried over fire and then sprinkled with water.’
 
 *Mārkaṇḍeyapurūṇa* (Parāśaramādhava, p. 134).—‘Vessels and men are
-purified by water; metal things are cleansed by washing with water and
-scrubbing with stone.’
+purified by water; metal things are cleansed by washing with water and scrubbing with stone.’
 </details>
 
 <details><summary>Bühler</summary>

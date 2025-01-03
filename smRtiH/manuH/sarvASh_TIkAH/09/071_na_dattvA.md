@@ -36,10 +36,7 @@ When the girl has been betrothed, given away, to one man,—if he happens to die
 [See above,
 8.98.]
 
-“Medhātithi and Nandana say that the verse is meant to forbid marriage
-of a girl whose betrothed has died. But Kullūka thinks that it refers to
-all cases where a betrothal has taken place, and that it removes a doubt
-which might arise through a too strict interpretation of 8.227.”—Buhler.
+“Medhātithi and Nandana say that the verse is meant to forbid marriage of a girl whose betrothed has died. But Kullūka thinks that it refers to all cases where a betrothal has taken place, and that it removes a doubt which might arise through a too strict interpretation of 8.227.”—Buhler.
 
 This verse in quoted in *Vyavahāra-Bālambhaṭṭī* (p. 326);—and in
 *Smṛticandrikā* (Saṃskāra, p. 220).
@@ -48,18 +45,13 @@ This verse in quoted in *Vyavahāra-Bālambhaṭṭī* (p. 326);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (5.160-161).—‘He who, having promised his daughter to one
-suitor, marries her to another, shall be punished as a thief, unless the
-first suitor have a blemish.’
+suitor, marries her to another, shall be punished as a thief, unless the first suitor have a blemish.’
 
 *Yājñavalkya* (1.65).—‘A girl is betrothed but once; if the father takes
-her away after that, he should suffer the punishment of a thief; but he
-may take her away from the man to whom she has been betrothed, if a
-superior suitor happens to turn up.’
+her away after that, he should suffer the punishment of a thief; but he may take her away from the man to whom she has been betrothed, if a superior suitor happens to turn up.’
 
 *Nārada* (12-30).—‘Should a more respectable suitor, who appears
-eligible in point of religious merit, fortune and amiability, present
-himself,—after the nuptial fee has already been presented by a former
-suitor,—the verbal engagement previously made shall he annulled.’
+eligible in point of religious merit, fortune and amiability, present himself,—after the nuptial fee has already been presented by a former suitor,—the verbal engagement previously made shall he annulled.’
 
 [(See texts under
 47.)]

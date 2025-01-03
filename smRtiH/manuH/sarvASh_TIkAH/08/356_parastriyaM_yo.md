@@ -41,15 +41,13 @@ What Āpastamba has declared that—‘One should not pass over *a woman without
 
 This verse is quoted in *Vyavahāra-Bālambhaṭṭī* (p. 1002);—and in
 *Vivādacintāmaṇi* (p. 173), to the effect that, even though not
-suspected, if one converses with a woman in secluded places, he is
-guilty of an offence.
+suspected, if one converses with a woman in secluded places, he is guilty of an offence.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (12.63).—‘When a woman and a man have meetings at the
-confluence of two rivers, at a bathing place, in a garden, or in a
-park,—this also is called *Adultery*.’
+confluence of two rivers, at a bathing place, in a garden, or in a park,—this also is called *Adultery*.’
 </details>
 
 <details><summary>भारुचिः</summary>

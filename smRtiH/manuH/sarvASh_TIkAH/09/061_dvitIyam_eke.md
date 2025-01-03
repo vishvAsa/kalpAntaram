@@ -76,8 +76,7 @@ They hold that the singular number (in the word ‘son’ in the injunction ‘a
 
 This verse is quoted in *Vyavahāra-Bālambhaṭṭī* (p. 700);—and in
 *Smṛticandrikā* (Saṃskāra, p. 225) which notes that this view has been
-held by some people on the ground that one son is as good as none at
-all.
+held by some people on the ground that one son is as good as none at all.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -85,8 +84,7 @@ all.
 **(verses 9.60-68)  
 **
 
-See Comparative notes for [Verse
-9.60].
+See Comparative notes for [Verse 9.60].
 </details>
 
 <details><summary>भारुचिः</summary>

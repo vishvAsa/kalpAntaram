@@ -24,10 +24,7 @@ Those village-troubles that the Village-lord cannot settle himself,—he shall r
 
 **(verse 7.116)**
 
-“This rule refers to offences with which the persons who report them are
-unable to deal (according to Medhātithi, Govindarāja, Kullūka and
-Rāghavānanda); Nārāyaṇa thinks that chiefly refusals to pay the revenue
-or disputes on such matters are meant”—Buhler.
+“This rule refers to offences with which the persons who report them are unable to deal (according to Medhātithi, Govindarāja, Kullūka and Rāghavānanda); Nārāyaṇa thinks that chiefly refusals to pay the revenue or disputes on such matters are meant”—Buhler.
 
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 250).
 
@@ -44,17 +41,11 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 250).
 *Mahābhārata* (12.87.4, 5).—(Same as Manu.)
 
 *Viṣṇu* (3.11-15).—‘If any offence has been committed in a village, the
-lord of the village shall suppress the evil; if he is unable to do so,
-he shall report it to the lord of ten villages; if he too is unable, he
-shall report it to the lord of hundred villages; if he too is unable, he
-shall report it to the lord of the whole district; the lord of the
-district must eradicate the evil to the best of his power.’
+lord of the village shall suppress the evil; if he is unable to do so, he shall report it to the lord of ten villages; if he too is unable, he shall report it to the lord of hundred villages; if he too is unable, he shall report it to the lord of the whole district; the lord of the district must eradicate the evil to the best of his power.’
 
 *Viṣṇudharmottara* (Vīramitrodaya-Rājanīti, p. 250).—\[The same as
 *Viṣṇu*, down to the ‘lord of the district,’ then\]—The lord of the
-district shall report it to the king, if he is himself unable to deal
-with it; the king shall himself take the necessary measures, and protect
-the people of the province in every way.’
+district shall report it to the king, if he is himself unable to deal with it; the king shall himself take the necessary measures, and protect the people of the province in every way.’
 </details>
 
 <details><summary>भारुचिः</summary>

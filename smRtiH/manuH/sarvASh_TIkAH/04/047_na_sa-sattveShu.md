@@ -30,14 +30,7 @@ Nor in holes inhabited by living creatures, nor walking, nor standing, nor on re
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 179), which adds that, the
-‘*parvata*’ having been already mentioned in the preceding verse, the
-‘top of the mountain’ is mentioned here with a view to indicate that if,
-under certain circumstances, it cannot be avoided, one may pass urine on
-a mountain elsewhere than on the ‘top’;—and in *Vīramitrodaya* (Āhnika,
-p. 33), which quotes only the first foot, and explains ‘*sasattveṣu*’ as
-‘with living creatures’; the second foot being quoted on p. 37, where
-‘*sthitaḥ*’ is explained as ‘standing’.
+This verse is quoted in *Aparārka* (p. 179), which adds that, the ‘*parvata*’ having been already mentioned in the preceding verse, the ‘top of the mountain’ is mentioned here with a view to indicate that if, under certain circumstances, it cannot be avoided, one may pass urine on a mountain elsewhere than on the ‘top’;—and in *Vīramitrodaya* (Āhnika, p. 33), which quotes only the first foot, and explains ‘*sasattveṣu*’ as ‘with living creatures’; the second foot being quoted on p. 37, where ‘*sthitaḥ*’ is explained as ‘standing’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -45,8 +38,7 @@ p. 33), which quotes only the first foot, and explains ‘*sasattveṣu*’ as
 **(verses 4.45-49)  
 **
 
-See Comparative notes for [Verse
-4.45].
+See Comparative notes for [Verse 4.45].
 </details>
 
 <details><summary>Bühler</summary>

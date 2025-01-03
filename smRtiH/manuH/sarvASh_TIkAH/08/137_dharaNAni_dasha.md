@@ -24,10 +24,7 @@ Ten ‘dharaṇas’ are to be known as the ‘silver śatamāna’ (centimetre)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 666);—in *Parāśaramādhava*
-(Vyavahāra, p. 115), which adds that the terms ‘*nīṣka*’ and
-‘*śatamāna*’ are applied to one *pala* of silver;—in *Hemādri* (Vrata,
-p. 53);—and in *Nṛsiṃhaprasāda* (Dāna, 4a).
+This verse is quoted in *Vivādaratnākara* (p. 666);—in *Parāśaramādhava* (Vyavahāra, p. 115), which adds that the terms ‘*nīṣka*’ and ‘*śatamāna*’ are applied to one *pala* of silver;—in *Hemādri* (Vrata, p. 53);—and in *Nṛsiṃhaprasāda* (Dāna, 4a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -35,8 +32,7 @@ p. 53);—and in *Nṛsiṃhaprasāda* (Dāna, 4a).
 **(verses 8.131-137)  
 **
 
-See Comparative notes for [Verse
-8.131].
+See Comparative notes for [Verse 8.131].
 </details>
 
 <details><summary>Bühler</summary>

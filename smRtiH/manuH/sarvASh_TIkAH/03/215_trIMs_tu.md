@@ -44,12 +44,7 @@ Inasmuch as ‘the manner of the water-libations’ is laid down as applicable t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 601), without any
-comment;—and in *Hemādri* (Śrāddha, p. 1427), which adds the following
-notes:—‘*Tasmāt haviḥśeṣāt*’, out of the remnant of the substance
-offered into the Fire,—‘*audakavidhi*’ stands for the method by which an
-offering of water is made with hands in the *Apasavya* form, as laid
-down in the preceding verse.
+This verse is quoted in *Madanapārijāta* (p. 601), without any comment;—and in *Hemādri* (Śrāddha, p. 1427), which adds the following notes:—‘*Tasmāt haviḥśeṣāt*’, out of the remnant of the substance offered into the Fire,—‘*audakavidhi*’ stands for the method by which an offering of water is made with hands in the *Apasavya* form, as laid down in the preceding verse.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -57,12 +52,10 @@ down in the preceding verse.
 *Viṣṇu* (73.17-19).—‘Near the food-remnant, upon kuśa-blades pointing
 southwards, he shall deposit one ball for his father, with the mantra
 *Pṛthivī darvirakṣitā*, etc.;—the second to the grand-father, with the
-mantra *Antarikṣam darvirakṣitā*, etc.; the third to the
-great-grand-father, with the mantra *Dyaurdarviraksiṭā*, *etc*.’
+mantra *Antarikṣam darvirakṣitā*, etc.; the third to the great-grand-father, with the mantra *Dyaurdarviraksiṭā*, *etc*.’
 
 *Yājñavalkya* (1.241-242).—‘Taking up all the food and mixing it up with
-sesamum, he shall offer the balls near the food-remnant, in the manner
-of the Pitṛyajña.’
+sesamum, he shall offer the balls near the food-remnant, in the manner of the Pitṛyajña.’
 
 *Laghu-Āśvalāyana* (13.74).—(See above.)
 </details>

@@ -34,31 +34,23 @@ This is meant to be only illustrative. The same rule holds good regarding other 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Sadṛśāḥ*’—‘Inhabitants of the same place, of the same caste, same
-occupations, same qualifications’ (Medhātithi);—‘of the same caste’
-(Kullūka) ‘of the same caste and equally virtuous’ (Govindarāja).
+‘*Sadṛśāḥ*’—‘Inhabitants of the same place, of the same caste, same occupations, same qualifications’ (Medhātithi);—‘of the same caste’ (Kullūka) ‘of the same caste and equally virtuous’ (Govindarāja).
 
-This verse is quoted in *Aparārka* (p. 665);—in *Mitākṣarā* (on
-2.68);—in *Smṛtitattva* (II, p. 214);—in *Nṛsiṃhaprasāda* (Vyavahāra, p.
-9b);—in *Kṛtyakalpataru*, 30b);—and in *Vīramitrodaya* (Vyavahāra, 47a).
+This verse is quoted in *Aparārka* (p. 665);—in *Mitākṣarā* (on 2.68);—in *Smṛtitattva* (II, p. 214);—in *Nṛsiṃhaprasāda* (Vyavahāra, p. 9b);—in *Kṛtyakalpataru*, 30b);—and in *Vīramitrodaya* (Vyavahāra, 47a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (16.30).—‘Let the King admit women as witnesses regarding
-women; for twice-born men, twice-born men of the same caste; good Śūdras
-for Śūdras, and men of low birth for men of the low caste.’
+women; for twice-born men, twice-born men of the same caste; good Śūdras for Śūdras, and men of low birth for men of the low caste.’
 
 *Yājñavalkya* (2.69).—‘Or all men may be witnesses for all castes.’
 
 *Nārada* (1.153).—‘Among companies of artisans, or guilds of merchants,
-artisans or merchants shall be witnesses; and members of an association
-among other members of the association; persons living outside, among
-those living outside; and women among women.’
+artisans or merchants shall be witnesses; and members of an association among other members of the association; persons living outside, among those living outside; and women among women.’
 
 *Nārada* (1.156).—‘If in a company of artisans or guilds of merchants,
-or in any other association, anyone falls out with his associates, they
-should not bo made witnesses against him; for they all are his enemies.’
+or in any other association, anyone falls out with his associates, they should not bo made witnesses against him; for they all are his enemies.’
 </details>
 
 <details><summary>भारुचिः</summary>

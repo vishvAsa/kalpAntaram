@@ -28,23 +28,17 @@ What has been laid down before pertains to the repayment of the debt to the debt
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 658), which adds the
-following notes:—‘*Karmaṇā*,’ by such service as may be a proper
-recompense for the money owed;—the Brāhmaṇa is not to liquidate the debt
-by service; he must pay it off, by and bye;—and in
+This verse is quoted in *Vivādaratnākara* (p. 658), which adds the following notes:—‘*Karmaṇā*,’ by such service as may be a proper recompense for the money owed;—the Brāhmaṇa is not to liquidate the debt by service; he must pay it off, by and bye;—and in
 *Vyavahāra-Bālambhaṭṭī* (p. 880).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (2.43).—‘If a man of the lower castes is very much reduced
-in circumstances, he should be made to do work, towards repayment of the
-debt; but the Brāhmaṇa should never be made to work; he should be made
-to pay up gradually, as he goes on getting money.’
+in circumstances, he should be made to do work, towards repayment of the debt; but the Brāhmaṇa should never be made to work; he should be made to pay up gradually, as he goes on getting money.’
 
 *Bṛhaspati* (Aparārka, p. 616).—‘If the debtor has absolutely no wealth,
-he should be brought home and made to work; but the Brāhmaṇa should be
-made to repay the debt gradually.’
+he should be brought home and made to work; but the Brāhmaṇa should be made to repay the debt gradually.’
 </details>
 
 <details><summary>भारुचिः</summary>

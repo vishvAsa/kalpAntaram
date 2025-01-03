@@ -28,15 +28,7 @@ Those however who may have entered into some compact with the thieves, shall be 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in ‘*Aparārka*’ (p. 850), which explains
-‘*hiḍabhaṅge*’ (which is its reading for ‘*hitābhaṅge*’ as the
-destroying of crops in a field belonging to others;—in *Vivādaratnākara*
-(p. 341), which adds the following notes—‘*Grāmaghāte*’ during village
-disturbances;—‘*hitabhaṅge*’, the breaking of dams set up for the
-protection of crops;—‘*moṣābhidarśana*’, looking on theft being
-committed;—‘*nivāṣyāḥ*’, should be banished from the
-country;—‘*saparichadāḥ*’, along with their families and belongings;—and
-in *Vyavahāra-Bālambhaṭṭī* (p. 991).
+This verse is quoted in ‘*Aparārka*’ (p. 850), which explains ‘*hiḍabhaṅge*’ (which is its reading for ‘*hitābhaṅge*’ as the destroying of crops in a field belonging to others;—in *Vivādaratnākara* (p. 341), which adds the following notes—‘*Grāmaghāte*’ during village disturbances;—‘*hitabhaṅge*’, the breaking of dams set up for the protection of crops;—‘*moṣābhidarśana*’, looking on theft being committed;—‘*nivāṣyāḥ*’, should be banished from the country;—‘*saparichadāḥ*’, along with their families and belongings;—and in *Vyavahāra-Bālambhaṭṭī* (p. 991).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -45,12 +37,10 @@ in *Vyavahāra-Bālambhaṭṭī* (p. 991).
 272.\]]
 
 *Viṣṇu* (5.74)—‘The double punishment is likewise ordained for those who
-do not give assistance to one calling for help, though they happen to he
-on the spot, or who run away after having approached it.’
+do not give assistance to one calling for help, though they happen to he on the spot, or who run away after having approached it.’
 
 *Nārada* (Aparārka, p. 850).—‘When people are crying for help when some
-one is being forcibly carried away,—if one, on hearing the cry, does not
-go forward to help, he shall partake of the crime.’
+one is being forcibly carried away,—if one, on hearing the cry, does not go forward to help, he shall partake of the crime.’
 </details>
 
 <details><summary>भारुचिः</summary>

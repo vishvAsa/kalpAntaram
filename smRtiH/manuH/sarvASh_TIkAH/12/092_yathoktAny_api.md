@@ -34,8 +34,7 @@ Having renounced even the said acts, the Brāhmaṇa shall concentrate his effor
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.58) which explains ‘Vedābhyāsa’
-as ‘repeating the Praṇava, *Om*’—and in *Yatidharmasāṅgraha* (p. 26).
+This verse is quoted in *Mitākṣarā* (3.58) which explains ‘Vedābhyāsa’ as ‘repeating the Praṇava, *Om*’—and in *Yatidharmasāṅgraha* (p. 26).
 </details>
 
 <details><summary>भारुचिः</summary>

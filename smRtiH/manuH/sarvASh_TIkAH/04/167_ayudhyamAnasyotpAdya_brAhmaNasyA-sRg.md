@@ -30,9 +30,7 @@ The man, who, through folly, causes blood to flow from the body or a Brāhmaṇa
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 223);—and in *Mitākṣarā* (on
-1.155), to the effect that no one should be struck who has given no
-cause of offence.
+This verse is quoted in *Aparārka* (p. 223);—and in *Mitākṣarā* (on 1.155), to the effect that no one should be struck who has given no cause of offence.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -44,10 +42,7 @@ cause of offence.
 dust-particles wetted with the blood (he shall be unfit for heaven).’
 
 *Baudhāyana* (1.1.6.8).—‘Having struck the Brāhmaṇa unintentionally, one
-becomes defiled under the law; for this unintentional striking, the
-sages have prescribed expiations; there is no expiation for intentional
-striking. On threatening the Brāhmaṇa, one should perform the *Kṛcchra*;
-on striking him, the *A* *tikṛcchra*; on spilling his blood, the
+becomes defiled under the law; for this unintentional striking, the sages have prescribed expiations; there is no expiation for intentional striking. On threatening the Brāhmaṇa, one should perform the *Kṛcchra*; on striking him, the *A* *tikṛcchra*; on spilling his blood, the
 *Kṛccra* as well as the *Cāndrāyaṇa*.’
 </details>
 

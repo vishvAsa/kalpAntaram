@@ -20,10 +20,7 @@ This mention of *flourishing* also is purely commendatory.—(42)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 562), which explains
-it to mean that if the man avoids her during the first four days, his
-wisdom and other things become enhanced;—and in *Hemādri* (Kāla, p.
-726).
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 562), which explains it to mean that if the man avoids her during the first four days, his wisdom and other things become enhanced;—and in *Hemādri* (Kāla, p. 726).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -31,8 +28,7 @@ wisdom and other things become enhanced;—and in *Hemādri* (Kāla, p.
 **(verses 4.40-42)  
 **
 
-See Comparative notes for [Verse
-4.40].
+See Comparative notes for [Verse 4.40].
 </details>
 
 <details><summary>Bühler</summary>

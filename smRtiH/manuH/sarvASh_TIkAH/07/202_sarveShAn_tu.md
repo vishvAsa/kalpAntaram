@@ -26,21 +26,13 @@ Having briefly ascertained that such and such is the wish of the citizens and ot
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 403);—and in
 *Vīramitrodaya* (Rājanīti, p. 410), which adds the following
-notes:—‘*Teṣām*,’ ‘of the minister and other office-bearers of the late
-king,’—‘*cikīrṣitam*,’ ‘wish,’—‘*samam*,’ ‘unanimous,’—‘*viditvā*,’
-‘having ascertained,’—‘*tadvaṃśyam*,’ ‘one born of the same family as
-the king killed in battle’,—‘*sthāpayet*,’ ‘should install him in the
-place of the late king’,—‘Saṃyakriyām,’ ‘a compact to the effect that
-henceforward you shall behave towards me in such and such a manner’;—and
-in *Nrsiṃhaprasāda* (Saṃskāra, p. 73 a).
+notes:—‘*Teṣām*,’ ‘of the minister and other office-bearers of the late king,’—‘*cikīrṣitam*,’ ‘wish,’—‘*samam*,’ ‘unanimous,’—‘*viditvā*,’ ‘having ascertained,’—‘*tadvaṃśyam*,’ ‘one born of the same family as the king killed in battle’,—‘*sthāpayet*,’ ‘should install him in the place of the late king’,—‘Saṃyakriyām,’ ‘a compact to the effect that henceforward you shall behave towards me in such and such a manner’;—and in *Nrsiṃhaprasāda* (Saṃskāra, p. 73 a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (3.47).—‘The King having captured the capital of his enemy,
-should invest a prince of the royal race of that country with the royal
-dignity. He shall not extirpate the royal race, unless the royal race be
-of low descent.’
+should invest a prince of the royal race of that country with the royal dignity. He shall not extirpate the royal race, unless the royal race be of low descent.’
 
 *Kātyāyana* (Vīramitrodaya-Rājanīti, p. 411).—‘Even though the enemy may
 have been wicked, the conqueror should not destroy the Kingdom.’

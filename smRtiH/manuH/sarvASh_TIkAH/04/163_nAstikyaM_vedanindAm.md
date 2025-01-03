@@ -34,8 +34,7 @@ He shall, avoid atheism, cavilling at the Vedas, abusing of the gods, hatred, ha
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Stambham*’—‘Want of modesty’ (Medhātithi, Govindarāja and
-Nārāyaṇa);—‘want of energy in the performance of duties’ (Kullūka).
+‘*Stambham*’—‘Want of modesty’ (Medhātithi, Govindarāja and Nārāyaṇa);—‘want of energy in the performance of duties’ (Kullūka).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -43,12 +42,10 @@ Nārāyaṇa);—‘want of energy in the performance of duties’ (Kullūka).
 *Āpastamba Dharmasūtra* (1.31.5).—‘He shall avoid harshness towards the
 gods and the king.’
 
-Do. (1.31.23).—‘He shall avoid anger and other bad feelings painful to
-living beings.’
+Do. (1.31.23).—‘He shall avoid anger and other bad feelings painful to living beings.’
 
 *Vaśiṣṭha* (12.38).—‘Disbelief in the Vedas, reviling of the works of
-sages, absence of restraint in all things,—all this is destructive of
-the soul.’
+sages, absence of restraint in all things,—all this is destructive of the soul.’
 
 *Viṣṇu* (71.83).—‘He shall avoid the reviling of the gods, Brāhmaṇas,
 scriptures and great men.’

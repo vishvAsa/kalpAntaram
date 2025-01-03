@@ -30,22 +30,13 @@ Others read the text as ‘*vinyastapāṇinā*,’ ‘with well-placed hands.�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 455), where it is
-explained that the ‘left’ and ‘right’ of the second half stand for the
-left and right *feet*; so that the meaning is that the left foot of the
-teacher should be touched by the left hand and the right one by the
-right hand; and it quotes Baudhāyann laying down that the pupil should
-pass his hands from the knee downwards to the foot.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 455), where it is explained that the ‘left’ and ‘right’ of the second half stand for the left and right *feet*; so that the meaning is that the left foot of the teacher should be touched by the left hand and the right one by the right hand; and it quotes Baudhāyann laying down that the pupil should pass his hands from the knee downwards to the foot.
 
-A similar explanation is given also in *Parāśaramādhava* (Ācāra, p.
-300).
+A similar explanation is given also in *Parāśaramādhava* (Ācāra, p. 300).
 
-The verse is quoted also in *Vidhānapārijāta* (p. 52.1);—in *Aparārka*
-(p. 55), as laying down the ‘feet clasping’ of the teacher;—in
+The verse is quoted also in *Vidhānapārijāta* (p. 52.1);—in *Aparārka* (p. 55), as laying down the ‘feet clasping’ of the teacher;—in
 *Saṃskāramayūkha* (p. 40), which says that ‘*spraṣṭavyaḥ*’ goes with
-‘*gurucaraṇaḥ*’ understood;—and in *Smṛticandrikā* (Saṃskāra, p. 103),
-which explains the meaning to be that the left and right feet of the
-teacher are to be touched with the left and right hands respectively.
+‘*gurucaraṇaḥ*’ understood;—and in *Smṛticandrikā* (Saṃskāra, p. 103), which explains the meaning to be that the left and right feet of the teacher are to be touched with the left and right hands respectively.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -59,31 +50,25 @@ teacher should be clasped.’
 well as at the beginning and end of Vedic lectures.’
 
 *Āpastamba-Dharmasūtra*, 1.2.5.21-22.—‘With the right hand clasping the
-right foot, he should touch it both up and down, along with the
-ankle;—according to others, the two feet should he clasped with the two
-hands.’
+right foot, he should touch it both up and down, along with the ankle;—according to others, the two feet should he clasped with the two hands.’
 
 *Āpastamba* (Aparārka, p. 55).—‘At sunrise, he shall meet the teacher
 and clasp his feet.’
 
 *Baudhāyana-Dharmasūtra*, 1. 2. 26.—‘Clasping the right foot with the
-right, and the left with the left hand, one obtains long life and goes
-to heaven.’
+right, and the left with the left hand, one obtains long life and goes to heaven.’
 
 *Paithīnasi* (Vīramitrodaya-Saṃskāra, p. 455).—‘With the palms of the
-two hands turned upwards, he should clasp the two feet of the teacher,
-the right with the right and the left with the left.’
+two hands turned upwards, he should clasp the two feet of the teacher, the right with the right and the left with the left.’
 
 *Vaśiṣṭha* (Vīramitrodaya-Saṃskāra, p. V56).—‘The clasping of the
 teacher’s feet should be done.’
 
 *Baudhāyana* (Parāśaramādhava, p. 300).—‘Touching his ears,
-concentrating his mind, he shall touch the teacher below his knees down
-to his feet, this is *feet-clasping*.’
+concentrating his mind, he shall touch the teacher below his knees down to his feet, this is *feet-clasping*.’
 
 *Atri* (Aparārka, p. 55).—‘Ordinarily one should salute by raising the
-right band; hands should be joined in saluting a Vedic scholar; in the
-case of the teacher, the feet should he clasped.’
+right band; hands should be joined in saluting a Vedic scholar; in the case of the teacher, the feet should he clasped.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -62,21 +62,13 @@ The meaning is that the man shall pay the tenth part of the fine that would be p
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Hopkins again misrepresents Nandana as reading ‘*gatonaraḥ*’ for
-‘*Narogadaḥ*.’ It is clear that Hopkins had a very defective manuscript
-of Nandana’s commentary.
+Hopkins again misrepresents Nandana as reading ‘*gatonaraḥ*’ for ‘*Narogadaḥ*.’ It is clear that Hopkins had a very defective manuscript of Nandana’s commentary.
 
-This verse is quoted in *Kṛtyakalpataru* (37b);—in *Aparārka* (p. 677),
-to the effect that it is only in cases relating to debts and the like
-that the absentee witness who is fit to attend, does not attend;—in
+This verse is quoted in *Kṛtyakalpataru* (37b);—in *Aparārka* (p. 677), to the effect that it is only in cases relating to debts and the like that the absentee witness who is fit to attend, does not attend;—in
 *Mitākṣarā* (on 2.76) which adds that ‘*agadaḥ*’ stands for freedom from
-disease and state or divine oppression;—in *Smṛticandrikā* (Vyavahāra,
-p. 213), which explains ‘*agadaḥ*’ as ‘in good health,’—‘*tadṛnam*’ as
-that which can be proved by means of witnesses;—‘*sarvam*’ as ‘along
-with accrued interest,’ and ‘*prāpnuyāt*’ as ‘should be paid’;—and in
+disease and state or divine oppression;—in *Smṛticandrikā* (Vyavahāra, p. 213), which explains ‘*agadaḥ*’ as ‘in good health,’—‘*tadṛnam*’ as that which can be proved by means of witnesses;—‘*sarvam*’ as ‘along with accrued interest,’ and ‘*prāpnuyāt*’ as ‘should be paid’;—and in
 *Vīramitrodaya* (Vyavahāra, 54b) which explains that ‘*agadaḥ*’ stands
-for the ‘absence of obstacles arising either from natural causes or from
-some action of the king.’
+for the ‘absence of obstacles arising either from natural causes or from some action of the king.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -85,17 +77,13 @@ some action of the king.’
 guilty of a crime.’
 
 *Yājñavalkya* (2.76).—‘A person not deposing as a witness should be made
-to pay, on the forty-sixth day, the entire amount of the debt (involved
-in the suit), along with the tenth part of that amount as penalty.’
+to pay, on the forty-sixth day, the entire amount of the debt (involved in the suit), along with the tenth part of that amount as penalty.’
 
 *Bṛhaspati* (7.31).—‘If a witness, who is not ill, being summoned, does
-not make his appearance, he should be made to pay the debt and also a
-fine, after the lapse of three fortnights.’
+not make his appearance, he should be made to pay the debt and also a fine, after the lapse of three fortnights.’
 
 *Nārada* (1.197).—‘He who conceals his knowledge at the time of trial,
-although previously he has stated to others what he knows, deserves
-specially heavy punishment; for he is more criminal than a false
-witness.’
+although previously he has stated to others what he knows, deserves specially heavy punishment; for he is more criminal than a false witness.’
 
 *Śukranīti* (4.5.387).—‘The man who, when summoned, does not bear
 witness is punishable.’

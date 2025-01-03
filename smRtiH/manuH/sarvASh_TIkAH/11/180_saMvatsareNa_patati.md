@@ -78,42 +78,15 @@ The right reading would be^(‘)*yājanādhyāpanam*,’ with the Accusative end
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“Govindarāja and Nārāyaṇa explain the verse differently:—‘He who
-associates with an outcast by sacrificing for him, or by forming a
-matrimonial alliance with him, himself becomes an outcast after a year,
-but not by using the same carriage or seat, or eating with
-him’.”—Buhler.
+“Govindarāja and Nārāyaṇa explain the verse differently:—‘He who associates with an outcast by sacrificing for him, or by forming a matrimonial alliance with him, himself becomes an outcast after a year, but not by using the same carriage or seat, or eating with him’.”—Buhler.
 
-This verse is quoted in *Madanapārijāta* (p. 849), which explains the
-meaning as follows:—‘By associating with an outcast on conveyances,
-seats and dinners after one year,—but by associating with him in
-sacrificing, teaching and the like, he becomes an outcast, not after one
-year, but immediately
+This verse is quoted in *Madanapārijāta* (p. 849), which explains the meaning as follows:—‘By associating with an outcast on conveyances, seats and dinners after one year,—but by associating with him in sacrificing, teaching and the like, he becomes an outcast, not after one year, but immediately
 
-It is quoted in *Aparārka* (p. 1087), which offers the following
-explanation:—By associating in any way with a known outcast, himself
-becomes an outcast; that is, becomes like him;—there are some acts in
-which associating with the outcast makes one an outcast, irrespective of
-all other considerations; and such acts are ‘sacrificing, teaching and
-marrying’; each of these acts by itself makes the associator an
-outcast;—the acts of going on the same conveyance, sitting together and
-eating, on the other hand, do not by themselves make him an outcast;
-they do so through other acts.
+It is quoted in *Aparārka* (p. 1087), which offers the following explanation:—By associating in any way with a known outcast, himself becomes an outcast; that is, becomes like him;—there are some acts in which associating with the outcast makes one an outcast, irrespective of all other considerations; and such acts are ‘sacrificing, teaching and marrying’; each of these acts by itself makes the associator an outcast;—the acts of going on the same conveyance, sitting together and eating, on the other hand, do not by themselves make him an outcast; they do so through other acts.
 
-It is quoted in *Mitākṣarā* (8.261), as meaning that only such acts as
-those of ‘travelling together and so forth’ make one an outcast by being
-continued for one year;—it adds that ‘sitting’ includes ‘sleeping’ also.
-It remarks that the passage is to be construed as
-follows:—‘*Saṃvatsareṇa patati patitena sahācaran yānāsanāśanāt*’; and
-‘*Yājanādhyāpanādyaunāt na tu saṃvatsareṇa patati, kintu sadya eva*’;
-and concludes thus—‘By sacrificing and other acts the man becomes an
-outcast at once, while by sleeping and other acts he becomes so only by
-continuing it for one year’.
+It is quoted in *Mitākṣarā* (8.261), as meaning that only such acts as those of ‘travelling together and so forth’ make one an outcast by being continued for one year;—it adds that ‘sitting’ includes ‘sleeping’ also. It remarks that the passage is to be construed as follows:—‘*Saṃvatsareṇa patati patitena sahācaran yānāsanāśanāt*’; and ‘*Yājanādhyāpanādyaunāt na tu saṃvatsareṇa patati, kintu sadya eva*’; and concludes thus—‘By sacrificing and other acts the man becomes an outcast at once, while by sleeping and other acts he becomes so only by continuing it for one year’.
 
-It is quoted in *Prāyaścittaviveka*, (pp. 149 and 156), which construes
-‘*Yāṇāṣanāśanāt*’ as ‘*Yānasanāśanāt utpannam saṃyogam ācaran*’,—and
-adds that these three, when done all together and intentionally, do
-degrade the man.
+It is quoted in *Prāyaścittaviveka*, (pp. 149 and 156), which construes ‘*Yāṇāṣanāśanāt*’ as ‘*Yānasanāśanāt utpannam saṃyogam ācaran*’,—and adds that these three, when done all together and intentionally, do degrade the man.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -121,43 +94,29 @@ degrade the man.
 *Mahābhārata* (12.165.37).—(Same as Manu.)
 
 *Baudhāyana* (2.2.35).—‘He who associates with an outcast, by using the
-same carriage or seat with him, becomes an outcast in one year; not so
-by sacrificing for him, or teaching him, or forming a matrimonial
-alliance with him.’
+same carriage or seat with him, becomes an outcast in one year; not so by sacrificing for him, or teaching him, or forming a matrimonial alliance with him.’
 
 *Vaśiṣṭha* (1.22).—‘They quote the following:—“He who during a year
-associates with an outcast becomes an outcast; not by sacrificing for
-him, or teaching him, or forming a matrimonial alliance with him, but by
-using the same carriage or seat.”’
+associates with an outcast becomes an outcast; not by sacrificing for him, or teaching him, or forming a matrimonial alliance with him, but by using the same carriage or seat.”’
 
 *Gautama* (21, 3).—‘He who associates for a year with outcasts (becomes
 an outcast).’
 
 *Viṣṇu* (35.3-5).—‘He who associates with an outcast becomes an outcast
-himself after one year; and so does he who rides in the same carriage
-with him, or who eats in his company, or who sits on the same bench, or
-who lies on the same couch with him. Matrimonial intercourse,
-sacrificial intercourse or vocal intercourse with an outcast entails
-immediate loss of caste.’
+himself after one year; and so does he who rides in the same carriage with him, or who eats in his company, or who sits on the same bench, or who lies on the same couch with him. Matrimonial intercourse, sacrificial intercourse or vocal intercourse with an outcast entails immediate loss of caste.’
 
 *Yājñavalkya* (3.261).—‘He who associates with these (outcasts) for one
 year, himself becomes equal to them.’
 
 *Devala* (Aparārka, p. 1086).—‘If a man knowingly lives with an outcast
-for one year, he becomes mingled with him, and at the end of the year,
-becomes an outcast himself. Sacrificing for the outcast, forming
-matrimonial connections with him, teaching him, eating with him,—doing
-these one becomes an outcast immediately.’
+for one year, he becomes mingled with him, and at the end of the year, becomes an outcast himself. Sacrificing for the outcast, forming matrimonial connections with him, teaching him, eating with him,—doing these one becomes an outcast immediately.’
 
 *Bṛhaspati* (Do.).—‘Occupying the same seat or couch with an outcast,
-sitting in the same line with him, mixing up one’s cooked food with his,
-using the same vessels, sacrificing for him, teaching him, going on the
-same conveyance with him, eating with him; these are the nine forms of
+sitting in the same line with him, mixing up one’s cooked food with his, using the same vessels, sacrificing for him, teaching him, going on the same conveyance with him, eating with him; these are the nine forms of
 *association*; this should not he done with low men.’
 
 *Parāśara* (Do., p. 1088).—‘The Brāhmaṇa unintentionally forming
-connections with outcasts becomes equal to him, either in five days, or
-ten days, or twelve days, or half-a-year, or one year.’
+connections with outcasts becomes equal to him, either in five days, or ten days, or twelve days, or half-a-year, or one year.’
 </details>
 
 <details><summary>भारुचिः</summary>

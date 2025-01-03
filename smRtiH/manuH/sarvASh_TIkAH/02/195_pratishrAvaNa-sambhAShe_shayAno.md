@@ -42,8 +42,7 @@ He should not listen to and converse with (his Teacher), while lying down; nor w
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 106);—and in *Aparārka* (p.
-56), which explains ‘*pratiśravaṇc*’ as ‘*aṅgīkāra*’ ‘acceptance’.
+This verse is quoted in *Madanapārijāta* (p. 106);—and in *Aparārka* (p. 56), which explains ‘*pratiśravaṇc*’ as ‘*aṅgīkāra*’ ‘acceptance’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -52,8 +51,7 @@ This verse is quoted in *Madanapārijāta* (p. 106);—and in *Aparārka* (p.
 is not lying down, or sitting or standing.’
 
 *Āpastamba-Dharmasūtra* (1.6.5, 7).—‘Near the teacher, he should not
-address the teacher lying down; nor without rising while the teacher is
-standing.’
+address the teacher lying down; nor without rising while the teacher is standing.’
 
 *Viṣṇu* (28.18).—‘He should not address the teacher, while standing, or
 seated or lying down, or eating, or with face turned away.’

@@ -26,9 +26,7 @@ These trees are long-lived; hence they should he planted on boundaries; but neve
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (2.151) as describing *visible*
-boundaries;—in *Vivādaratnākara* (p. 202);—in *Parāśaramādhava*
-(Vyavahāra, p. 270);—in *Vivādacintāmaṇi* (p. 73);—and in
+This verse is quoted in *Mitākṣarā* (2.151) as describing *visible* boundaries;—in *Vivādaratnākara* (p. 202);—in *Parāśaramādhava* (Vyavahāra, p. 270);—in *Vivādacintāmaṇi* (p. 73);—and in
 *Vīramitrodaya* (Vyavahāra, 139b).
 </details>
 
@@ -37,8 +35,7 @@ boundaries;—in *Vivādaratnākara* (p. 202);—in *Parāśaramādhava*
 **(verses 8.245-251)  
 **
 
-See Comparative notes for [Verse
-8.245].
+See Comparative notes for [Verse 8.245].
 </details>
 
 <details><summary>Bühler</summary>

@@ -31,20 +31,14 @@ about creation in a particular manner;—from out of the ‘Mind’ (*i.e*., the
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Medhātithi forces the Sāṅkhya doctrine on Manu, whose words clearly
-favour the *Vaiśeṣika* view.
+Medhātithi forces the Sāṅkhya doctrine on Manu, whose words clearly favour the *Vaiśeṣika* view.
 
-The words clearly mean ‘From out of Ākāśa, undergoing modifications,
-proceeds Vāyu.’ But Medhātithi construes them to mean—‘After Ākāśa—(from
-out of Mahat) which undergoes modifications—proceeds Vāyu &c.,’—in order
-to make it agree with the Sāṅkhya doctrine that Vāyu, like every other
-elementary substance, proceeds from Mahat.
+The words clearly mean ‘From out of Ākāśa, undergoing modifications, proceeds Vāyu.’ But Medhātithi construes them to mean—‘After Ākāśa—(from out of Mahat) which undergoes modifications—proceeds Vāyu &c.,’—in order to make it agree with the Sāṅkhya doctrine that Vāyu, like every other elementary substance, proceeds from Mahat.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-See Comparative notes for [Verse 1.75 (Ākāśa produced out of
-‘Mind’)].
+See Comparative notes for [Verse 1.75 (Ākāśa produced out of ‘Mind’)].
 </details>
 
 <details><summary>Bühler</summary>

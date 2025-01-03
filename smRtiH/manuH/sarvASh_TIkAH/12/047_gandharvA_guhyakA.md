@@ -22,9 +22,7 @@ Gandharvas, Guhyakas, ‘Yakṣas,’ the attendants of the gods, and all the Ap
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 1000);—in *Madanapārijāta* (p.
-694);—in *Parāśaramādhava* (Prāyaścitta p. 488);—and in *Nṛsiṃhaprasāda*
-(Prāyaścitta 41a).
+This verse is quoted in *Aparārka* (p. 1000);—in *Madanapārijāta* (p. 694);—in *Parāśaramādhava* (Prāyaścitta p. 488);—and in *Nṛsiṃhaprasāda* (Prāyaścitta 41a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -32,8 +30,7 @@ This verse is quoted in *Aparārka* (p. 1000);—in *Madanapārijāta* (p.
 **(verses 12.32-51)  
 **
 
-See Comparative notes for [Verse
-12.32].
+See Comparative notes for [Verse 12.32].
 </details>
 
 <details><summary>Bühler</summary>

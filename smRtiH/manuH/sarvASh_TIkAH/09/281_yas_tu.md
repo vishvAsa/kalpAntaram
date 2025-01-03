@@ -15,11 +15,7 @@ If a man take away the water of a tank dug in ancient times, or cut off the supp
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 365), which adds the
-following notes ‘*Pūrvaniviṣṭasya*’, which has been in existence
-already, *i*. e, which has been used for bathing, drinking and so
-forth;—‘*āgama*’ the channel by which the tank is filled with water;—he
-who blocks or obstructs this should be fined with the ‘first amercement
+This verse is quoted in *Vivādaratnākara* (p. 365), which adds the following notes ‘*Pūrvaniviṣṭasya*’, which has been in existence already, *i*. e, which has been used for bathing, drinking and so forth;—‘*āgama*’ the channel by which the tank is filled with water;—he who blocks or obstructs this should be fined with the ‘first amercement
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -27,8 +23,7 @@ who blocks or obstructs this should be fined with the ‘first amercement
 **(verses 9.279-281)  
 **
 
-See Comparative notes for [Verse
-9.279].
+See Comparative notes for [Verse 9.279].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -32,23 +32,13 @@ The second half of the verse is purely commendatory.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 119), which adds
-the following notes:—‘*vṛddhān*’ as ‘advanced in age, be they Brāhmaṇas
-or non-Brāhmaṇas’;—‘*viprān*’ and ‘*vedavidaḥ*’ have been already
-explained ‘*śucīn*’ is ‘free from guile’;—Medhātithi adds that this
-qualification also is one that has not been mentioned elsewhere; but
-Kullūka Bhaṭṭa holds that all the rest are only qualifications of
-‘*viprān*’ \[so that Brāhmaṇas alone are meant\];—the meaning of the
-second line is that ‘the king is respected also by those reckless,
-merciless ruffians who are devoid of all virtues, not say by ordinary
-people.’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 119), which adds the following notes:—‘*vṛddhān*’ as ‘advanced in age, be they Brāhmaṇas or non-Brāhmaṇas’;—‘*viprān*’ and ‘*vedavidaḥ*’ have been already explained ‘*śucīn*’ is ‘free from guile’;—Medhātithi adds that this qualification also is one that has not been mentioned elsewhere; but Kullūka Bhaṭṭa holds that all the rest are only qualifications of ‘*viprān*’ \[so that Brāhmaṇas alone are meant\];—the meaning of the second line is that ‘the king is respected also by those reckless, merciless ruffians who are devoid of all virtues, not say by ordinary people.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Kāmandaka* (1.60).—‘A king serving elderly persons is held in high
-esteem by the pious; though induced by vile men, he commits no vile
-deeds.’
+esteem by the pious; though induced by vile men, he commits no vile deeds.’
 
 *Viṣṇu* (3.77).—‘He should honour the aged.’
 </details>

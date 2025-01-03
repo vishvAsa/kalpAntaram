@@ -38,8 +38,7 @@ Kuśa-Grass, the sanctificatory texts, the forenoon, all kinds of sacrificial fo
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Pavitram*’—‘Purificatory texts’ (Medhātithi);—‘Means of purification’
-(Nārāyaṇa).
+‘*Pavitram*’—‘Purificatory texts’ (Medhātithi);—‘Means of purification’ (Nārāyaṇa).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

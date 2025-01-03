@@ -28,11 +28,9 @@ One should daily offer Śrāddha with food, or with water, or with milk, roots a
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 145);—in *Saṃskāra-ratnamālā* (p.
-922), which explains ‘*payaḥ*’ as *milk* and adds that this daily
+This verse is quoted in *Aparārka* (p. 145);—in *Saṃskāra-ratnamālā* (p. 922), which explains ‘*payaḥ*’ as *milk* and adds that this daily
 *Śrāddha* need not be offered on a day on which a special *Śrāddha* is
-offered;—in *Smrtisāroddhāra* (p. 283);—in *Hemādri* (Śrāddha, pp. 208
-and 1564);—in *Śrāddhakriyākaumudī* (pp. 3 and 289);—in
+offered;—in *Smrtisāroddhāra* (p. 283);—in *Hemādri* (Śrāddha, pp. 208 and 1564);—in *Śrāddhakriyākaumudī* (pp. 3 and 289);—in
 *Varṣakriyākaumudī* (p. 353);—and in *Godādharapoddhati* (Kāla, p. 372).
 </details>
 

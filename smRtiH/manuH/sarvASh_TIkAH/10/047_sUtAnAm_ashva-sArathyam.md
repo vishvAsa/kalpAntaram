@@ -31,8 +31,7 @@ This verse is quoted in *Aparārka* (p. 119).
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-See Comparative notes for [Verse
-10.46].
+See Comparative notes for [Verse 10.46].
 </details>
 
 <details><summary>भारुचिः</summary>

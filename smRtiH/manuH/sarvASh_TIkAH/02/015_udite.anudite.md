@@ -76,25 +76,15 @@ In the case of conflicting *Smṛti* -texts also, the most reasonable view to ta
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Samayādhyuṣite*’;—The dawn (Medhātithi),—or that twilight which comes
-after the departure of the night (Ibid, and Govindarāja);—the time when
-neither the sun nor the stars are visible (Kullūka).
+‘*Samayādhyuṣite*’;—The dawn (Medhātithi),—or that twilight which comes after the departure of the night (Ibid, and Govindarāja);—the time when neither the sun nor the stars are visible (Kullūka).
 
-This verse has been quoted by the *Madanapārijāta* (p. 175) as
-indicating the two divisions of the time ‘before sunrise’;—these two
-divisions being ‘*Anudita*’ and ‘*Samayādhyuṣita*.’ These two are more
-fully described by Kātyāyana, who defines the ‘*anudita*’ as ‘the
-sixteenth part of the night, adorned by stars and planets’,—and the
-‘*Samayādhyuṣita*’ as that time in the morning when the stars have
-disappeared, but the sun has not risen.
+This verse has been quoted by the *Madanapārijāta* (p. 175) as indicating the two divisions of the time ‘before sunrise’;—these two divisions being ‘*Anudita*’ and ‘*Samayādhyuṣita*.’ These two are more fully described by Kātyāyana, who defines the ‘*anudita*’ as ‘the sixteenth part of the night, adorned by stars and planets’,—and the ‘*Samayādhyuṣita*’ as that time in the morning when the stars have disappeared, but the sun has not risen.
 
-The same authority defines the ‘*udita* ‘sunrise,’ as that when the mere
-streak of the sun is visible, not all its rays.
+The same authority defines the ‘*udita* ‘sunrise,’ as that when the mere streak of the sun is visible, not all its rays.
 
 It is quoted also in the the *Nṛsiṃhaprasāda* (Ācāra, p. 326);—in the
 *Saṃskāraratnamālā*, (p. 2) as laying down the two times for *Homa*, and
-it reads ‘*homaḥ*’ for ‘*yajñaḥ*’;—in the *Ācāramayūkha* (p. 65) as
-laying down the time for the morning *Homa*;—and in the
+it reads ‘*homaḥ*’ for ‘*yajñaḥ*’;—in the *Ācāramayūkha* (p. 65) as laying down the time for the morning *Homa*;—and in the
 *Nityāchārapradīpa* (p. 410.)
 </details>
 
@@ -104,15 +94,13 @@ laying down the time for the morning *Homa*;—and in the
 both morning and evening.’
 
 *Kātyāyana-Smṛti*, 1.9.35.—‘Before the stars are distinctly visible and
-before the redness of the sky has disappeared, one should offer the
-evening oblation.’
+before the redness of the sky has disappeared, one should offer the evening oblation.’
 
 *Muṇḍopaniṣad*, 1.2.1.—‘All those detailed acts that the wise ones have
 found mentioned in the Vedas,—all these one should always perform.’
 
 *Muṇḍopaniṣad*, 1.2.3.—‘One who does not perform the Agnihotra, or the
-Darśapūrṇamāsa, or the Cāturmāsya, or the Vaisvadeva......destroys his
-entire family.’
+Darśapūrṇamāsa, or the Cāturmāsya, or the Vaisvadeva......destroys his entire family.’
 
 *Īśopaniṣad*, 2.—‘One should desire to live for a hundred years, all
 along doing his duties.’

@@ -42,8 +42,7 @@ Himāvat and the Vindhya;—and in the *Vīramitrodaya* (Paribhāṣā, p. 56).
 
 **(Verses 18-23)**
 
-See Comparative notes for [Verse 2.18 (The Practice of Good
-Men)].
+See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 
 <details><summary>Bühler</summary>

@@ -34,13 +34,7 @@ practices are reprehensible, and are on that account distinctly debarred by a di
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Medhātithi is misrepresented by Buhler, who says that “according to
-Medhātithi the object of this verse is to admit virtuous and learned
-men, afflicted with bodily defects, as guests at rites in honour of the
-gods.” As a matter of fact, this explanation is adduced by Medhātithi as
-given by ‘others’; its meaning, given by himself being that ‘just as the
-thief and the rest are defilers of company, so equally blameworthy is
-the unlearned Brāhmaṇa also’,—exactly as Kullūka explains the verse.
+Medhātithi is misrepresented by Buhler, who says that “according to Medhātithi the object of this verse is to admit virtuous and learned men, afflicted with bodily defects, as guests at rites in honour of the gods.” As a matter of fact, this explanation is adduced by Medhātithi as given by ‘others’; its meaning, given by himself being that ‘just as the thief and the rest are defilers of company, so equally blameworthy is the unlearned Brāhmaṇa also’,—exactly as Kullūka explains the verse.
 
 This verse is quoted in *Hemādri* (Śrāddha, p. 465);—and in
 *Śrāddhakriyākaumudī* (p. 41).
@@ -52,8 +46,7 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 465);—and in
 ‘*havyam*.’\]
 
 *Mahābhārata* (13.90.46).—‘Just as a butter-oblation that is poured in
-extinguished fire reaches neither the Gods nor the Pitṛs, so also what
-is given to the dancer or the singer.’
+extinguished fire reaches neither the Gods nor the Pitṛs, so also what is given to the dancer or the singer.’
 </details>
 
 <details><summary>Bühler</summary>

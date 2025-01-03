@@ -52,22 +52,15 @@ There is no force however in this; as people are found to many very young girls 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Aprāptām*’—‘Who has not attained the marriageable age,’ (Medhātithi
-and Rāghavānanda);—‘who has not attained eight years of age’ (Kullūka
-and Nārāyaṇa).
+‘*Aprāptām*’—‘Who has not attained the marriageable age,’ (Medhātithi and Rāghavānanda);—‘who has not attained eight years of age’ (Kullūka and Nārāyaṇa).
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 481), which
-explains ‘*aprāptām*’ as ‘one whose marriage time has not arrived, *i*.
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 481), which explains ‘*aprāptām*’ as ‘one whose marriage time has not arrived, *i*.
 *e*., who is still a child’;—in *Smṛtitattva* (II, p. 124), which
-explains ‘*aprāptām*’ as ‘one who has not attained the age that is most
-commended for marriage’;—in *Vīramitrodya* (Saṃskāra, p. 755), which
-reproduces the explanation of ‘*aprāptām*’ given in
+explains ‘*aprāptām*’ as ‘one who has not attained the age that is most commended for marriage’;—in *Vīramitrodya* (Saṃskāra, p. 755), which reproduces the explanation of ‘*aprāptām*’ given in
 *Parāśaramādhava*;—in *Smṛtikaumudī* (p. 39), as countenancing the
 marrying of a girl even before she is of the proper age;—in
 *Śuddhikaumudī* (p. 30) to the same effect;—and in *Saṃskāramayūkha* (p.
-103), which explains ‘*aprāptām*’ as ‘one who has not attained the right
-age,’ who may be given away in consideration of the special
-qualifications of the bridegroom.
+103), which explains ‘*aprāptām*’ as ‘one who has not attained the right age,’ who may be given away in consideration of the special qualifications of the bridegroom.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -77,31 +70,22 @@ qualifications of the bridegroom.
 *Gautama* (18-21).—‘A girl should be given in marriage before puberty.’
 
 *Vaśiṣṭha* (17.70).—‘Out of fear of the appearance of the menses, let
-the father marry his daughter while she still runs about naked. For if
-she stays in the home after the age of puberty, sin falls on the
-father.’
+the father marry his daughter while she still runs about naked. For if she stays in the home after the age of puberty, sin falls on the father.’
 
 *Baudhāyana* (4. 1.11).—‘Let him give his daughter, while she still goes
-about naked, to a man who has not broken the vow of chastity and who
-possesses good qualities, or even to one destitute of good qualities;
-let him not keep the maiden in his house after she has reached the age
-of puberty.’
+about naked, to a man who has not broken the vow of chastity and who possesses good qualities, or even to one destitute of good qualities; let him not keep the maiden in his house after she has reached the age of puberty.’
 
 *Yama* (Vīramitrodaya-Saṃskāra, p. 754).—‘Family, character, beautiful
-body, age, learning, wealth, presence of guardians,—these seven
-qualifications should he sought for before a girl is given away; nothing
-else need he considered.’
+body, age, learning, wealth, presence of guardians,—these seven qualifications should he sought for before a girl is given away; nothing else need he considered.’
 
 *Lalla* (Do.).—‘Caste, learning, age, character, health, large family,
-wealth, Brahmanic character,—these eight should he the qualities of the
-Bridegroom.’
+wealth, Brahmanic character,—these eight should he the qualities of the Bridegroom.’
 
 *Gautama* (Do.).—‘One should give away his daughter to a man who is
 endowed with learning, character, relations and good conduct.’
 
 *Śātātapa* (Do., p. 755).—‘That bridegroom should he selected who is
-seeking for a wife and is endowed with good family and character,
-handsome, learned, intelligent and young, and free from defects.’
+seeking for a wife and is endowed with good family and character, handsome, learned, intelligent and young, and free from defects.’
 </details>
 
 <details><summary>भारुचिः</summary>

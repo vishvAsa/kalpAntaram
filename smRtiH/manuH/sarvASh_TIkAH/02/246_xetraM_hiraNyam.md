@@ -63,21 +63,13 @@ Only such things have to be presented as the pupil happens to possess, he should
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 178), which adds
-that what is meant is that if possible, the best articles should be
-presented;—in *Saṃskāraratnamālā* (p. 368), which adds the following
-notes:—‘*Kṣetram*,’ field with corns standing,—the umbrella and shoes,
-should both go together, such being the sense of the
-compounding,—‘*Vāsāṃsi*’ *three* pieces of cloth,—‘*gurave
-prītimāvahan*,’ the ‘completion of the study should be done only when
-the Teacher permits it’;—also in *Nṛsiṃhaprasāda* (Saṃskāra, p. 48a).
+This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 178), which adds that what is meant is that if possible, the best articles should be presented;—in *Saṃskāraratnamālā* (p. 368), which adds the following notes:—‘*Kṣetram*,’ field with corns standing,—the umbrella and shoes, should both go together, such being the sense of the compounding,—‘*Vāsāṃsi*’ *three* pieces of cloth,—‘*gurave prītimāvahan*,’ the ‘completion of the study should be done only when the Teacher permits it’;—also in *Nṛsiṃhaprasāda* (Saṃskāra, p. 48a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vyāsa* (Vīramitrodaya-Saṃskāra, p. 574).—‘Having completed his study,
-the pupil should with bis permission take the Bath, after having offered
-to him a cow as his fee.’
+the pupil should with bis permission take the Bath, after having offered to him a cow as his fee.’
 </details>
 
 <details><summary>Bühler</summary>

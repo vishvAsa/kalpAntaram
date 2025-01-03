@@ -41,40 +41,24 @@ In all this the husband shall employ his wife.—(11)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 416), which explains
-‘*pāriṇāhyasya*’ as ‘ear-rings, bracelets, and so forth’;—in
+This verse is quoted in *Vivādaratnākara* (p. 416), which explains ‘*pāriṇāhyasya*’ as ‘ear-rings, bracelets, and so forth’;—in
 *Parāśaramādhava* (Vyavahāra, p. 323);—in *Smṛtitattva* (II, p. 147),
-which explains ‘*pāriṇāyya*’ (which is its reading for ‘*pāriṇāhya*’) as
-‘bed-stead and other household furniture’;—and in *Madanapārijāta* (p.
-191).
+which explains ‘*pāriṇāyya*’ (which is its reading for ‘*pāriṇāhya*’) as ‘bed-stead and other household furniture’;—and in *Madanapārijāta* (p. 191).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Śukranīti* (4.4.12-32).—‘She should get up before her husband and
-purify her body, then raise the beddings and clean the house by sweeping
-and washing...... should then cleanse the vessels used in sacrifices and
-keep them at the proper places; empty out the vessels and fill them with
-water; should wash the cooking utensils, cleanse the hearth and place
-therein fire with fuel;—should scrutinise the vessels to be used and the
-various articles of food...... She should then dress and cook the food,
-inform her husband and feed those who have to be fed with the offerings
-made to gods and Pitṛs;—again in the evening, as in the morning, she
-should clean the house, cook the food and feed her husband and the
-servants.’
+purify her body, then raise the beddings and clean the house by sweeping and washing...... should then cleanse the vessels used in sacrifices and keep them at the proper places; empty out the vessels and fill them with water; should wash the cooking utensils, cleanse the hearth and place therein fire with fuel;—should scrutinise the vessels to be used and the various articles of food...... She should then dress and cook the food, inform her husband and feed those who have to be fed with the offerings made to gods and Pitṛs;—again in the evening, as in the morning, she should clean the house, cook the food and feed her husband and the servants.’
 
 *Bṛhaspati* (24.4).—‘Employing the woman in looking after income and
-expenditure, in the preparation of food, in looking after household
-furniture, in purifications and in the care of the fires, is declared to
-he the best way of guarding her.’
+expenditure, in the preparation of food, in looking after household furniture, in purifications and in the care of the fires, is declared to he the best way of guarding her.’
 
 *Yajñavalkya* (1.83).—‘Keeping the household articles in order, expert
-in work, happy, averse to expensive ways, devoted to her husband, she
-shall how to the feet of her parents-in-law.’
+in work, happy, averse to expensive ways, devoted to her husband, she shall how to the feet of her parents-in-law.’
 
 *Viṣṇu* (25.1 *et seq*.).—‘The duties of a woman are to keep household
-articles in good array, to maintain saving habits, to be careful with
-her domestic utensils,’
+articles in good array, to maintain saving habits, to be careful with her domestic utensils,’
 </details>
 
 <details><summary>भारुचिः</summary>

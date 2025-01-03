@@ -26,8 +26,7 @@ Among their respective occupations, the most useful are—constant Vedic study f
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vārtā*.’—‘Trade’ (Nandana);—‘trade and cattle-tending’
-(Kullūka);—‘trade, cattle-tending and agriculture’ (Govindarāja).
+‘*Vārtā*.’—‘Trade’ (Nandana);—‘trade and cattle-tending’ (Kullūka);—‘trade, cattle-tending and agriculture’ (Govindarāja).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -38,8 +37,7 @@ Among their respective occupations, the most useful are—constant Vedic study f
 [\[See texts under 9.326 *et
 seq*.\]]
 
-See Comparative notes for [Verse
-10.77].
+See Comparative notes for [Verse 10.77].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -30,22 +30,17 @@ The insects inside figs and such others are those ‘*bred in fruits and flowers
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 1138), which adds that ‘*ghāte*,’
-‘on cutting,’ is to be construed with
+This verse is quoted in *Aparārka* (p. 1138), which adds that ‘*ghāte*,’ ‘on cutting,’ is to be construed with
 
-this verse;—and in *Prāyaścittaviveka* (p. 242), which explains
-‘*anādya*’ as *śaktu* and the rest,—‘*rasa*’ as ‘molasses and the
-like,’—‘*phala*’ as ‘the jujube and so forth,’—‘*puṣpa*’ as the
+this verse;—and in *Prāyaścittaviveka* (p. 242), which explains ‘*anādya*’ as *śaktu* and the rest,—‘*rasa*’ as ‘molasses and the like,’—‘*phala*’ as ‘the jujube and so forth,’—‘*puṣpa*’ as the
 *Madhūka* and the rest,—if one kills the insects produced in these
-things *unintentionally*, one should eat clarified butter and then fast
-for a day.
+things *unintentionally*, one should eat clarified butter and then fast for a day.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (50.49).—‘For killing insects bred in rice or other food, or in
-sweets and such things, or in liquids, or elsewhere, or in flowers or
-fruits,—the penance consists in eating clarified butter.’
+sweets and such things, or in liquids, or elsewhere, or in flowers or fruits,—the penance consists in eating clarified butter.’
 </details>
 
 <details><summary>भारुचिः</summary>

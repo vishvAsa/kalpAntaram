@@ -20,8 +20,7 @@ The sense of this declaratory passage is clear.—(68)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 738 and Vyavahāra,
-186a).
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 738 and Vyavahāra, 186a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -29,8 +28,7 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 738 and Vyavahāra,
 **(verses 9.60-68)  
 **
 
-See Comparative notes for [Verse
-9.60].
+See Comparative notes for [Verse 9.60].
 </details>
 
 <details><summary>भारुचिः</summary>

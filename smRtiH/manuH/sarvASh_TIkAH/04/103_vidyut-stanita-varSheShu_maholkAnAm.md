@@ -26,25 +26,7 @@ The name of Manu has been, mentioned for the purpose of filling up the verse. Ot
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 529), which
-explains it as—‘From the time of the phenomenon to the same time next
-day, it is unfit for study in *Smṛtitattva* (p. 834), which also gives
-the same explanation of ‘*ākālikam*’;—in *Puruṣārthacintāmaṇi* (p. 443),
-which explains ‘*eteṣu*’ as referring to ‘*vidyut*’ and the rest, and
-notes that ‘*ākālikam*’ goes with each of them;—in *Hemādri* (Kāla, p.
-761), which has the same note and explains ‘*ākālikam*’ as beginning
-from the time of the phenomenon and extending up to the same time of the
-next day;—and adds that in seasons other than the rains, the ‘holiday’
-is to be observed in the evening;—in *Gadādharapaddhati* (Kāla, p.
-194);—in *Saṃskāramayūkha*, (p. 57), which adds the following notes:—all
-the three phenomena are to be taken collectively here, on account of the
-copulative compound—says Medhātithi; according to Hemādri, each is to be
-taken separately; what is said here refers to the rainy season;
-‘*ākālikam*’ means ‘from the time of the occurrence to the same time on
-the morrow’; ‘Lightning and the rest’ are to be treated as ‘occasions of
-holiday’ only when they occur either in the morning or in the
-evening;—and in *Smṛticandrikā* (Saṃskāra, p. 149), which takes each of
-the three phenomena separately, and has the same notes as above.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 529), which explains it as—‘From the time of the phenomenon to the same time next day, it is unfit for study in *Smṛtitattva* (p. 834), which also gives the same explanation of ‘*ākālikam*’;—in *Puruṣārthacintāmaṇi* (p. 443), which explains ‘*eteṣu*’ as referring to ‘*vidyut*’ and the rest, and notes that ‘*ākālikam*’ goes with each of them;—in *Hemādri* (Kāla, p. 761), which has the same note and explains ‘*ākālikam*’ as beginning from the time of the phenomenon and extending up to the same time of the next day;—and adds that in seasons other than the rains, the ‘holiday’ is to be observed in the evening;—in *Gadādharapaddhati* (Kāla, p. 194);—in *Saṃskāramayūkha*, (p. 57), which adds the following notes:—all the three phenomena are to be taken collectively here, on account of the copulative compound—says Medhātithi; according to Hemādri, each is to be taken separately; what is said here refers to the rainy season; ‘*ākālikam*’ means ‘from the time of the occurrence to the same time on the morrow’; ‘Lightning and the rest’ are to be treated as ‘occasions of holiday’ only when they occur either in the morning or in the evening;—and in *Smṛticandrikā* (Saṃskāra, p. 149), which takes each of the three phenomena separately, and has the same notes as above.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -53,10 +35,7 @@ the three phenomena separately, and has the same notes as above.
 **
 
 *Gautama* (16.10, 15, 16, 22-23).—‘When clouds are seen out of
-season,—when there is untimely thunder, earthquake, eclipse or
-meteors,—also when there are ominous rumblings, rain or lightning, after
-the fires have been lighted,—when there are halos round the teacher or
-the sun or the moon.’
+season,—when there is untimely thunder, earthquake, eclipse or meteors,—also when there are ominous rumblings, rain or lightning, after the fires have been lighted,—when there are halos round the teacher or the sun or the moon.’
 
 *Baudhāyana* (1.11.24).—‘When there are thunder, rain and lightning,
 three days become unlit for study, except during the annual rains.’
@@ -68,25 +47,16 @@ thunder; nor when there is earthquake, meteor-fall or fiery quarters.’
 days are unfit for study.’
 
 *Yājñavalkya* (1.145).—‘When there is thunder during the twilights, or
-ominous rumblings, earthquake or fall of meteors, he shall stop the
-reading of the Veda, and proceed to read the Āraṇyaka texts.’
+ominous rumblings, earthquake or fall of meteors, he shall stop the reading of the Veda, and proceed to read the Āraṇyaka texts.’
 
 *Pāraskara* (1.11.2).—‘When he has eaten at the Śrāddha, when there is
-fall of meteors, thunder, earthquake, or fiery portents, and at the
-juncture of the seasons,—till the same time next day.’
+fall of meteors, thunder, earthquake, or fiery portents, and at the juncture of the seasons,—till the same time next day.’
 
 *Gobhila* (3.3.17-19).—‘When there is lightning, thunder or rain,—then,
-till the same time next day; also when there is fall of meteors,
-earthquake or collision of planets; as also when there are ominous
-rumblings.’
+till the same time next day; also when there is fall of meteors, earthquake or collision of planets; as also when there are ominous rumblings.’
 
 *Āpastamba Dharmasūtra* (1.11.27, 28, 31).—‘On the simultaneous
-appearance of lightning, thunder and rain, out of season, three days
-shall he regarded as unfit for study; only till such time as rain-water
-remains on the ground, say some; if there are untimely clouds, if there
-are halos round the sun or the moon, if the rainbow appears, or when
-there is a rotting smell in the wind,—so long as these last, it will be
-unfit for study.’
+appearance of lightning, thunder and rain, out of season, three days shall he regarded as unfit for study; only till such time as rain-water remains on the ground, say some; if there are untimely clouds, if there are halos round the sun or the moon, if the rainbow appears, or when there is a rotting smell in the wind,—so long as these last, it will be unfit for study.’
 </details>
 
 <details><summary>Bühler</summary>

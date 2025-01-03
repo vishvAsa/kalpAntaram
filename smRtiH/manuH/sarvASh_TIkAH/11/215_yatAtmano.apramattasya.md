@@ -24,16 +24,13 @@ This is purely commendatory, being common to all forms of ‘*Kṛcchra*’ (and
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 26), as
-describing the form of the ‘*Parāka*’ penance;—in *Smṛtitattva* (p.
-546);—and in *Prāyaścittaviveka* (p. 514).
+This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 26), as describing the form of the ‘*Parāka*’ penance;—in *Smṛtitattva* (p. 546);—and in *Prāyaścittaviveka* (p. 514).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (4.5.15).—‘If self-restrained and attentive, he fasts
-during twelve days, that is called the *Parākakṛcchra*, which destroys
-all sin.’
+during twelve days, that is called the *Parākakṛcchra*, which destroys all sin.’
 
 *Viṣṇu* (46.18).—‘A total fast for twelve days is called *Parāka*.’
 

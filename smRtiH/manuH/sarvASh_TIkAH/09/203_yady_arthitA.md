@@ -84,23 +84,13 @@ sexual desire. As for the rites prescribed in *Śrutis*, it is only one who has 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Kathañcana*’.—This indicates that the eunuch and the rest are not
-worthy to marry (Kullūka).
+‘*Kathañcana*’.—This indicates that the eunuch and the rest are not worthy to marry (Kullūka).
 
 ‘*Apatyam*’.—The *Kṣetraja* son (Kullūka, Rāghavānanda and Nandana).
 
-This verse is quoted in *Vivādaratnākara* (p. 488), which explains
-‘*tantu*’ as *child*;—in *Aparārka* (p. 750), to the effect that
-marriage is legal for the persons enumerated in 201; it remarks that in
-view of the epithet ‘*jāti*’, ‘born’, in the term ‘*jātyandha*’, the
-present verse cannot be taken as referring to cases where the
-disabilities appear after marriage; it comes to the conclusion that the
-disability to inheritance cannot thus be due to their not marrying and
-hence not being able to perform religious rites; it must be due to the
-mere authoritative assertion of the law.
+This verse is quoted in *Vivādaratnākara* (p. 488), which explains ‘*tantu*’ as *child*;—in *Aparārka* (p. 750), to the effect that marriage is legal for the persons enumerated in 201; it remarks that in view of the epithet ‘*jāti*’, ‘born’, in the term ‘*jātyandha*’, the present verse cannot be taken as referring to cases where the disabilities appear after marriage; it comes to the conclusion that the disability to inheritance cannot thus be due to their not marrying and hence not being able to perform religious rites; it must be due to the mere authoritative assertion of the law.
 
-It is quoted in *Vīramitrodaya* (Saṃskāra, p. 195) as indicating that
-the marriage of the said persons is sanctioned.
+It is quoted in *Vīramitrodaya* (Saṃskāra, p. 195) as indicating that the marriage of the said persons is sanctioned.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -112,14 +102,10 @@ the marriage of the said persons is sanctioned.
 father’s share.’
 
 *Viṣṇu* (15.34-38).—‘Of the idiot and the rest the legitimate sons
-receive a share;—but not the children of an outcast,—provided they are
-born after the commission of the act that rendered the parents
-outcasts.’
+receive a share;—but not the children of an outcast,—provided they are born after the commission of the act that rendered the parents outcasts.’
 
 *Yājñavalkya* (2.141).—‘Of the eunuch and the rest, the *Body-born* and
-the *Kṣetraja* sons, if they are free from defects, are entitled to
-shares; and their daughters should be maintained till they are made over
-to their husbands.’
+the *Kṣetraja* sons, if they are free from defects, are entitled to shares; and their daughters should be maintained till they are made over to their husbands.’
 
 *Vaśiṣṭha* (Aparāka, p. 751).—‘One born of the outcast is an outcast,
 except the female child.’
@@ -128,11 +114,7 @@ except the female child.’
 shares.’
 
 *Kātyāyana* (Do., p, 491).—‘The son of a wife married irregularly is
-entitled to inheritance when he belongs to the same caste as his father;
-so also is the son born of a regularly married wife, even though she may
-have been of a different caste; but the son of a woman married in the
-reverse order is not entitled to a share; to him his kinsmen should give
-food and clothing.’
+entitled to inheritance when he belongs to the same caste as his father; so also is the son born of a regularly married wife, even though she may have been of a different caste; but the son of a woman married in the reverse order is not entitled to a share; to him his kinsmen should give food and clothing.’
 </details>
 
 <details><summary>भारुचिः</summary>

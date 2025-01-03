@@ -20,9 +20,7 @@ The term ‘*first*’ is a mere reiterative reference; that the offering to Agn
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 402), where it is
-added that what ‘*Samastayoḥ*’ means is that ‘the offering should be
-made with the formula *agnīsomābhyām svāhā*.
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 402), where it is added that what ‘*Samastayoḥ*’ means is that ‘the offering should be made with the formula *agnīsomābhyām svāhā*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -30,8 +28,7 @@ made with the formula *agnīsomābhyām svāhā*.
 **(verses 3.84-93)  
 **
 
-See Comparative notes for [Verse
-3.84].
+See Comparative notes for [Verse 3.84].
 </details>
 
 <details><summary>Bühler</summary>

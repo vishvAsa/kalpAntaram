@@ -29,24 +29,17 @@ These verses are meant to prescribe the wages of the servants.—(126)
 
 ‘*Paṇa*’—See 8.136.
 
-‘*Droṇa*’—‘Four *āḍhakas*, *i.e*., 10 seers’ (Medhātithi and
-Kullūka);—‘512 *palas*’ (Govindarāja).
+‘*Droṇa*’—‘Four *āḍhakas*, *i.e*., 10 seers’ (Medhātithi and Kullūka);—‘512 *palas*’ (Govindarāja).
 
-“Govindarāja and Kullūka state that the highest servants shall receive
-six times as much grain and clothes as the lowest, and the middle class
-servants three times as much as the lowest”—Buhler.
+“Govindarāja and Kullūka state that the highest servants shall receive six times as much grain and clothes as the lowest, and the middle class servants three times as much as the lowest”—Buhler.
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 252), which adds
-the following notes:—‘*Avakṛṣṭasya*,’ ‘of domestic
-servants’;—‘*vetanam*,’ fooding,—‘*āchādaḥ*’, ‘two pieces of
-clothing’,—‘*droṇaḥ* ‘four ‘*Āḍhakas*’;—and in *Śuddhikaumudī* (p. 240).
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 252), which adds the following notes:—‘*Avakṛṣṭasya*,’ ‘of domestic servants’;—‘*vetanam*,’ fooding,—‘*āchādaḥ*’, ‘two pieces of clothing’,—‘*droṇaḥ* ‘four ‘*Āḍhakas*’;—and in *Śuddhikaumudī* (p. 240).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Śaṅkha-Likhita* (Vīramitrodaya-Rājanīti, p. 252).—‘Two golden pieces
-constitute the monthly wage; to be paid on calculating after six months,
-or four months.’
+constitute the monthly wage; to be paid on calculating after six months, or four months.’
 </details>
 
 <details><summary>भारुचिः</summary>

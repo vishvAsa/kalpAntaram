@@ -32,11 +32,7 @@ If the girl desires to take to life-long celibacy, then the fee shall remain wit
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 153);—in *Nirṇayasindhu*
-(p. 227);—in *Vīramitrodaya* (Saṃskāra, p. 739);—in *Saṃskāramayūkha*
-(p. 105), which explains the meaning to be that ‘if the girl agrees she
-may be given to the younger brother, but if she prefers to be given to
-some one else, she should be given to this latter’—in
+This verse is quoted in *Madanapārijāta* (p. 153);—in *Nirṇayasindhu* (p. 227);—in *Vīramitrodaya* (Saṃskāra, p. 739);—in *Saṃskāramayūkha* (p. 105), which explains the meaning to be that ‘if the girl agrees she may be given to the younger brother, but if she prefers to be given to some one else, she should be given to this latter’—in
 *Puruṣārthacintāmaṇi* (p. 454);—in *Vyavahāra-Bālambhaṭṭī* (p. 530);—in
 *Gadādharapaddhati* (Kāla, p. 227);—and in *Smṛticandrikā* (Saṃskāra, p.
 219).
@@ -44,22 +40,15 @@ some one else, she should be given to this latter’—in
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-(See under
-[47],
+(See under [47],
 [69]
-and
-[71].)
+and [71].)
 
 *Vaśiṣṭha* (17-72).—‘If the betrothed of a maiden die after she has been
-promised to him verbally and by a libation of water,—but before she was
-married to him with the sacred texts,—she belongs to her father.’
+promised to him verbally and by a libation of water,—but before she was married to him with the sacred texts,—she belongs to her father.’
 
 *Kātyāyana* (Vīramitrodaya-Saṃskāra, 739).—‘If a man should die or
-become lost, after betrothal, the girl shall wait for three menstrual
-periods and then marry another person. If the betrothed should go away
-after having paid the nuptial fee and the girl’s dowry, the girl shall
-be kept unmarried for one year, after which she should be given away in
-the proper form to another man.’
+become lost, after betrothal, the girl shall wait for three menstrual periods and then marry another person. If the betrothed should go away after having paid the nuptial fee and the girl’s dowry, the girl shall be kept unmarried for one year, after which she should be given away in the proper form to another man.’
 </details>
 
 <details><summary>भारुचिः</summary>

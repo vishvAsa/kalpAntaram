@@ -64,8 +64,7 @@ This verse is quoted in *Vyavahāra-Bālambhaṭṭī* (p. 572).
 **(verses 8.410-418)  
 **
 
-See Comparative notes for [Verse
-8.410].
+See Comparative notes for [Verse 8.410].
 </details>
 
 <details><summary>भारुचिः</summary>

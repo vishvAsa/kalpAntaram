@@ -55,13 +55,9 @@ For these reasons the Brāhmaṇa is the ‘*lord*’—controller—‘*of the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vaiśeṣyāt*’.—‘Through pre-eminence,—of qualities’ (Medhātithi),—‘of
-race’ (Govindarāja, Kullūka, Nārāyaṇa and Rāghavānanda).
+‘*Vaiśeṣyāt*’.—‘Through pre-eminence,—of qualities’ (Medhātithi),—‘of race’ (Govindarāja, Kullūka, Nārāyaṇa and Rāghavānanda).
 
-‘*Niyamasya dhāraṇāt*—‘On account of the observance of the restrictive
-rules, *i.e*., those prescribed for the Accomplished student’
-(Medhātithi, Govindarāja, Nārāyaṇa and Rāghavānanda);—‘on account of his
-possessing superior knowledge of the Veda’ (Kullūka).
+‘*Niyamasya dhāraṇāt*—‘On account of the observance of the restrictive rules, *i.e*., those prescribed for the Accomplished student’ (Medhātithi, Govindarāja, Nārāyaṇa and Rāghavānanda);—‘on account of his possessing superior knowledge of the Veda’ (Kullūka).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -71,8 +67,7 @@ possessing superior knowledge of the Veda’ (Kullūka).
 
 \[See texts under 71 *et seq*. below.\]
 
-See Comparative notes for [Verse
-10.1].
+See Comparative notes for [Verse 10.1].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -26,14 +26,7 @@ The term ‘*anta*’ means *proximity*. The meaning is that he shall not study 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 534), which
-explains the third quarter to mean that ‘one should not read the Veda
-when wearing the cloth that he had worn at the time of sexual
-intercourse’; and adds that this refers to cases where the cloth has not
-been washed after the act;—in *Hemādri* (Kāla, p. 770), which explains
-‘*ante*’ as ‘near’ and ‘*maithunam vāsaḥ*’ as ‘the cloth, clad in which
-he has had sexual intercourse’; he should not wear this—without its
-being washed—while reading;—in *Saṃskāramayūkha* (p. 56);—in
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 534), which explains the third quarter to mean that ‘one should not read the Veda when wearing the cloth that he had worn at the time of sexual intercourse’; and adds that this refers to cases where the cloth has not been washed after the act;—in *Hemādri* (Kāla, p. 770), which explains ‘*ante*’ as ‘near’ and ‘*maithunam vāsaḥ*’ as ‘the cloth, clad in which he has had sexual intercourse’; he should not wear this—without its being washed—while reading;—in *Saṃskāramayūkha* (p. 56);—in
 *Smṛticandrikā* (Saṃskāra, p. 160), which reproduces the same remarks as
 those in *Hemādri*;—and in *Gadādharapaddhati* (Kāla, p. 195).
 </details>
@@ -46,10 +39,7 @@ those in *Hemādri*;—and in *Gadādharapaddhati* (Kāla, p. 195).
 village, on the public roads, and in unclean places.’
 
 *Baudhāyana* (1.11.22).—‘On the full moon day, or the Aṣṭakās, on the
-moonless day, when there are fire-portents, or earthquake, or near the
-cremation-ground, or on the death of the country’s king or a Vedic
-scholar, of one’s fellow-student,—the whole day and night shall be unfit
-for study.’
+moonless day, when there are fire-portents, or earthquake, or near the cremation-ground, or on the death of the country’s king or a Vedic scholar, of one’s fellow-student,—the whole day and night shall be unfit for study.’
 
 *Āpastamba Dharmasūtra* (1.9.6).—‘In the cremation-ground, entirely.’
 

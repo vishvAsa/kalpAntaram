@@ -30,12 +30,10 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 134).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yama* (Vīramitrodaya-Rājanīti, p. 134).—‘Impartial to all creatures,
-well-versed in what is lawful and what unlawful, he shall never do
-things alone by himself,—thus alone can he protect the earth.’
+well-versed in what is lawful and what unlawful, he shall never do things alone by himself,—thus alone can he protect the earth.’
 
 *Śukranīti* (4.1.130).—‘The king should punish his own people, being
-mild internally, but harsh externally; and should be severe in
-punishment upon those who are by nature wicked.’
+mild internally, but harsh externally; and should be severe in punishment upon those who are by nature wicked.’
 
 *Śukranīti* (4.1.191).—‘The king should be merciful and inflict
 punishment with care.’

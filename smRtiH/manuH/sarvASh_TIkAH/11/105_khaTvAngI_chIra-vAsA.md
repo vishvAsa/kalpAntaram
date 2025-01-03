@@ -48,8 +48,7 @@ unintentional intercourse with the *guru-patnī* who is unchaste.
 **(verses 11.103-107)  
 **
 
-See Comparative notes for [Verse
-11.103].
+See Comparative notes for [Verse 11.103].
 </details>
 
 <details><summary>Bühler</summary>

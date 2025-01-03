@@ -41,8 +41,7 @@ in *Kṛtyakalpataru* (35a).
 
 **(verses 8.89-97)**
 
-\[See the texts under [79 *et
-seq*.]\]
+\[See the texts under [79 *et seq*.]\]
 </details>
 
 <details><summary>Bühler</summary>

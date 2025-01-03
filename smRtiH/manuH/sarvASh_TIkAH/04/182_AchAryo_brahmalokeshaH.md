@@ -24,9 +24,7 @@ The Father is the sovereign of the world of Prajāpati.—(182).
 
 *Cf*. 2.244.
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574), as setting
-forth reasons for not quarelling with those mentioned in the preceding
-verses.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574), as setting forth reasons for not quarelling with those mentioned in the preceding verses.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -35,11 +33,7 @@ verses.
 **
 
 *Mahābhārata* (Śānti, 249.17-21).—(Same as Manu, hut reading
-‘*indralokesya*’ for ‘*indralokeśaḥ*’—‘*vaiśvadeve tu jñātayaḥ*’ for
-‘*vaiśvadeve tu bāndhavāḥ*,’—‘*bāndharā dikṣu*’ for ‘*no yapām
-loke*,’—‘*bṛddhabālāturakṛśāstvākāśe prabhaviṣṇavaḥ*’ for ‘*ākāśeśāstu
-vijñeyā bālabṛddhakṛśāturāḥ*,’—and ‘*sahenni-tyamasañjvaraḥ*’ for
-‘*sahetāsañjvaraḥ sadā*.’)
+‘*indralokesya*’ for ‘*indralokeśaḥ*’—‘*vaiśvadeve tu jñātayaḥ*’ for ‘*vaiśvadeve tu bāndhavāḥ*,’—‘*bāndharā dikṣu*’ for ‘*no yapām loke*,’—‘*bṛddhabālāturakṛśāstvākāśe prabhaviṣṇavaḥ*’ for ‘*ākāśeśāstu vijñeyā bālabṛddhakṛśāturāḥ*,’—and ‘*sahenni-tyamasañjvaraḥ*’ for ‘*sahetāsañjvaraḥ sadā*.’)
 </details>
 
 <details><summary>Bühler</summary>

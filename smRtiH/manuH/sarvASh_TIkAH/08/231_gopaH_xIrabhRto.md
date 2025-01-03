@@ -69,28 +69,11 @@ This verse should have gone before; some people read it later on.—(231)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 170), which adds the
-following notes:—‘*Kṣīrabhṛtaḥ*’, whose wages consist of milk
-only;—‘*duḥyad daśato varām*,’ he should milk that cow (for himself)
-which is the best among ten cows;—‘*sā*,’ the said milk of the one
-cow;—‘*pāle*’, for the cowherd;—‘*abhṛte*,’ who is not paid any thing
-else in the shape of fooding, clothing, and so forth.
+This verse is quoted in *Vivādaratnākara* (p. 170), which adds the following notes:—‘*Kṣīrabhṛtaḥ*’, whose wages consist of milk only;—‘*duḥyad daśato varām*,’ he should milk that cow (for himself) which is the best among ten cows;—‘*sā*,’ the said milk of the one cow;—‘*pāle*’, for the cowherd;—‘*abhṛte*,’ who is not paid any thing else in the shape of fooding, clothing, and so forth.
 
-This is quoted in *Aparārka*, (p. 772) winch adds the following
-explanation:—That keeper of the cattle who has his wages paid in milk,
-shall, with the owner’s permission, milk the best cow among ten milch
-cows, taking that for himself,—this being the ‘wage’ of the
-cattle-keeper who does not receive wages in any other form;—in
+This is quoted in *Aparārka*, (p. 772) winch adds the following explanation:—That keeper of the cattle who has his wages paid in milk, shall, with the owner’s permission, milk the best cow among ten milch cows, taking that for himself,—this being the ‘wage’ of the cattle-keeper who does not receive wages in any other form;—in
 *Vivādacintāmaṇi* (p. 80), which explains ‘*Kṣīrabhṛtaḥ*’ as ‘one whose
-wages are paid in the form of milk only’;—he shall milk the best of ten
-cows;—‘*abhṛte*’, the keeper who gets no fooding and clothing,—and notes
-that this refers to the keeper of milch-cattle only:—in *Kṛtyakalpataru*
-(104b), which explains ‘*Ksīrabhṛtaḥ*’ as ‘one whose wages consist of
-milk only; he shall milk for himself that cow which may be the best
-among ten cows—but only once’; —‘*abhṛte*’ one who receives no food or
-clothing;—and in *Vīramitrodaya* (Vyavahāra, 136b), which says that the
-milk of the best among ten cows is to be taken by the cowherd only when
-he receives nothing else as wages.
+wages are paid in the form of milk only’;—he shall milk the best of ten cows;—‘*abhṛte*’, the keeper who gets no fooding and clothing,—and notes that this refers to the keeper of milch-cattle only:—in *Kṛtyakalpataru* (104b), which explains ‘*Ksīrabhṛtaḥ*’ as ‘one whose wages consist of milk only; he shall milk for himself that cow which may be the best among ten cows—but only once’; —‘*abhṛte*’ one who receives no food or clothing;—and in *Vīramitrodaya* (Vyavahāra, 136b), which says that the milk of the best among ten cows is to be taken by the cowherd only when he receives nothing else as wages.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -99,9 +82,7 @@ he receives nothing else as wages.
 shall pay twenty-five *Kārṣāpaṇas* as a line.’
 
 *Nārada* (6.10).—‘For tending a hundred cows, a heifer shall be given to
-the cowherd as his wages every year; for tending two hundred cows, a
-milch cow, and he shall be allowed to milk all the cows every eighth
-day.’
+the cowherd as his wages every year; for tending two hundred cows, a milch cow, and he shall be allowed to milk all the cows every eighth day.’
 
 *Bṛhaspati* (16.19).—‘A man hired for attendance on the wild cows of
 another person shall receive the whole milk every eighth day.’

@@ -20,9 +20,7 @@ When he is tired with looking after the affairs of his subjects, he shall depute
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Buhler attributes the reading ‘*Śāntam*’, for ‘*prājñam*’, to
-Medhātithi; but there is nothing in *Bhāṣya* itself to justify this
-conclusion.
+Buhler attributes the reading ‘*Śāntam*’, for ‘*prājñam*’, to Medhātithi; but there is nothing in *Bhāṣya* itself to justify this conclusion.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -30,8 +28,7 @@ conclusion.
 *Viṣṇu* (3.73).—‘He shall entrust a Brāhmaṇa with judicial business.’
 
 *Yājñavalkya* (2.3).—‘If, under pressure of business, the king is unable
-to look after cases, he shall appoint a Brāhmaṇa versed in all duties,
-along with the members of the Court.’
+to look after cases, he shall appoint a Brāhmaṇa versed in all duties, along with the members of the Court.’
 
 *Vṛddha-Bṛhaspati* (Aparārka, p. 602).—‘The king or the Brāhmaṇa Judge
 shall look after the cases.’

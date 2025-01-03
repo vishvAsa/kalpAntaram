@@ -52,15 +52,9 @@ Another reading for’ the last quarter is ‘*asatyañca nṛpam tyajet*’;—
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vipralumpakam*’—‘Deserter of the Brāhmaṇa’ (Nandana, whose reading is
-‘*vipralopakam*’);—‘who takes property even from a Brāhmaṇa’
-(Nārāyaṇa);—‘rapacious, *i.e*., who takes (grains &c) improperly’
-(Medhātithi).
+‘*Vipralumpakam*’—‘Deserter of the Brāhmaṇa’ (Nandana, whose reading is ‘*vipralopakam*’);—‘who takes property even from a Brāhmaṇa’ (Nārāyaṇa);—‘rapacious, *i.e*., who takes (grains &c) improperly’ (Medhātithi).
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 255), which
-explains ‘*vipralopakam*’ (which is its reading for ‘*vipralumpakam*’)
-as ‘one who injures the livelihood of the Brāhmaṇas’,—and ‘*attaram*’,
-‘one who enjoys.’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 255), which explains ‘*vipralopakam*’ (which is its reading for ‘*vipralumpakam*’) as ‘one who injures the livelihood of the Brāhmaṇas’,—and ‘*attaram*’, ‘one who enjoys.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -68,8 +62,7 @@ as ‘one who injures the livelihood of the Brāhmaṇas’,—and ‘*attaram*�
 **(verses 8.307-309)  
 **
 
-See Comparative notes for [Verse
-8.308].
+See Comparative notes for [Verse 8.308].
 </details>
 
 <details><summary>भारुचिः</summary>

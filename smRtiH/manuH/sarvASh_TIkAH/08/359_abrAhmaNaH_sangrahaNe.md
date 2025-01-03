@@ -149,47 +149,30 @@ Each of these has been found in other cases to constitute a ‘punishment’ by 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Abrāhmaṇaḥ*’—‘*Kṣatriya* and the rest’ (misbehaving with a woman of
-the higher caste) (Medhātithi and Nandana);—‘Śūdra misbehaving with a
-Brāhmaṇa woman’ (Kullūka and Rāghavānanda).
+‘*Abrāhmaṇaḥ*’—‘*Kṣatriya* and the rest’ (misbehaving with a woman of the higher caste) (Medhātithi and Nandana);—‘Śūdra misbehaving with a Brāhmaṇa woman’ (Kullūka and Rāghavānanda).
 
-This verse is quoted in *Vivādaratnākara* (p. 388), which says that this
-refers to the ‘non-Brāhmaṇa’ misbehaving with a woman of a superior
-caste;—in *Vyavahāra-Bālambhaṭṭī* (p. 115);—and in *Vivādacintāmaṇi* (p.
-174) as laying down the penalty for one of the lower caste. misbehaving
-with a woman of the higher caste.
+This verse is quoted in *Vivādaratnākara* (p. 388), which says that this refers to the ‘non-Brāhmaṇa’ misbehaving with a woman of a superior caste;—in *Vyavahāra-Bālambhaṭṭī* (p. 115);—and in *Vivādacintāmaṇi* (p. 174) as laying down the penalty for one of the lower caste. misbehaving with a woman of the higher caste.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (2.4.1-2).—‘Anybody but a Brāhmaṇa shall suffer corporal
-punishment for Adultery;—the wives of men of all castes must be guarded
-more carefully than wealth.’
+punishment for Adultery;—the wives of men of all castes must be guarded more carefully than wealth.’
 
 *Āpastamba* (2.26.20).—‘If a man has actually committed adultery, his
 organ shall be cut off together with the testicles.’
 
 *Bṛhaspati* (23.10-12).—‘If a man violates an unwilling woman, the King
-shall confiscate his entire property, have his penis and scrotum cut off
-and have him paraded on an ass. When a man enjoys a woman by fraud, bis
-punishment shall be confiscation of his entire wealth; and afterwards he
-shall be branded with the mark of the female organ and banished from the
-town. The highest fine shall be inflicted for connexion with a woman of
-equal caste; half that for connexion with a woman of a lower caste; and
-a man who has connexion with a woman of a higher caste shall be put to
-death.’
+shall confiscate his entire property, have his penis and scrotum cut off and have him paraded on an ass. When a man enjoys a woman by fraud, bis punishment shall be confiscation of his entire wealth; and afterwards he shall be branded with the mark of the female organ and banished from the town. The highest fine shall be inflicted for connexion with a woman of equal caste; half that for connexion with a woman of a lower caste; and a man who has connexion with a woman of a higher caste shall be put to death.’
 
 *Kātyāyana* (Vivādaratnākara, p. 389).—‘When a man has completed his
-intercourse with the woman, by force, the penalty of death shall be
-inflicted.’
+intercourse with the woman, by force, the penalty of death shall be inflicted.’
 
 *Vyāsa* (Vivādaratnākara, p. 392).—‘If a man has intercourse with a
-woman who comes to him of her own accord, the punishment shall be half
-of that in the case of the woman being unwilling.’
+woman who comes to him of her own accord, the punishment shall be half of that in the case of the woman being unwilling.’
 
 *Arthaśāstra* (p. 172).—‘A man shall never take liberties with an
-unwilling woman; if he has illicit intercourse with a willing woman, he
-shall be fined 50 Paṇas, and the woman, half of that.’
+unwilling woman; if he has illicit intercourse with a willing woman, he shall be fined 50 Paṇas, and the woman, half of that.’
 </details>
 
 <details><summary>भारुचिः</summary>

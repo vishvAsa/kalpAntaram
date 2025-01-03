@@ -42,9 +42,7 @@ Some people read ‘*gatvā*’ (for ‘*hatvā*’) (‘having intercourse’).
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 1128), which explains
-‘*anavasthitāḥ*’ as ‘not faithful to their husbands,’ *i.e*.,
-‘adulterous’;—and in *Prāyaścittaviveka* (p. 227).
+This verse is quoted in *Aparārka* (p. 1128), which explains ‘*anavasthitāḥ*’ as ‘not faithful to their husbands,’ *i.e*., ‘adulterous’;—and in *Prāyaścittaviveka* (p. 227).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -53,10 +51,7 @@ This verse is quoted in *Aparārka* (p. 1128), which explains
 in name, one should give a leather bag.’
 
 *Yājñavalkya* (3.269).—‘For killing an ill-behaved Brāhmaṇi, or
-Kṣatriyā, or Vaiśya, or Śūdra woman, one shall give, for purifying
-himself, a leather bag, a bow, a goat, or a ram respectively. But for
-killing a woman not badly behaved he should perform the same penance as
-that for killing a Śūdra.’
+Kṣatriyā, or Vaiśya, or Śūdra woman, one shall give, for purifying himself, a leather bag, a bow, a goat, or a ram respectively. But for killing a woman not badly behaved he should perform the same penance as that for killing a Śūdra.’
 </details>
 
 <details><summary>भारुचिः</summary>

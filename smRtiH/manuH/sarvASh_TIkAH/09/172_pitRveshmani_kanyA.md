@@ -32,30 +32,21 @@ This verse has been already explained before, and the shares to be allowed to hi
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (2. 129), which adds that if the
-girl remains unmarried, then the son belongs to her father; but if she
-is married subsequently, the son belongs to her husband;—in
+This verse is quoted in *Mitākṣarā* (2. 129), which adds that if the girl remains unmarried, then the son belongs to her father; but if she is married subsequently, the son belongs to her husband;—in
 *Parāśaramādhava* (Prāyaścitta, p. 38);—in *Vyavahāra-Bālambhaṭṭī* (p.
-557);—in *Nṛsiṃhaprasāda* (Vyavahāra 38a);—and in *Vīramitro* *daya*
-(Vyavahāra 187b).
+557);—in *Nṛsiṃhaprasāda* (Vyavahāra 38a);—and in *Vīramitro* *daya* (Vyavahāra 187b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (2.3-24).—‘If anyone approaches an unmarried girl without
-authorisation, the son born of such union is called the *Kānīna*, born
-of the unmarried damsel.’
+authorisation, the son born of such union is called the *Kānīna*, born of the unmarried damsel.’
 
 *Vaśiṣṭha* (17.22-23).—‘They declare that the son whom an unmarried girl
-bears, through lust, in her father’s house is the son of his maternal
-grandfather. They quote the following—“If an unmarried daughter bear a
-son begotten by a man of equal caste, the maternal grandfather has a son
-through him; he shall offer the Ball to and take the wealth of that
-grandfather.”’
+bears, through lust, in her father’s house is the son of his maternal grandfather. They quote the following—“If an unmarried daughter bear a son begotten by a man of equal caste, the maternal grandfather has a son through him; he shall offer the Ball to and take the wealth of that grandfather.”’
 
 *Viṣṇu* (15.10.11-12).—‘The *Kānīna* is the fifth kind of son; that son
-is called so who is born of an unmarried daughter in the house of her
-father;—and he belongs to the man who afterwards marries his mother.’
+is called so who is born of an unmarried daughter in the house of her father;—and he belongs to the man who afterwards marries his mother.’
 
 *Yājñavalkya* (2.129).—‘The *Kānīna*, horn of an unmarried damsel, is
 the son to his maternal grandfather.’
@@ -64,9 +55,7 @@ the son to his maternal grandfather.’
 girl.’
 
 *Brahmapurāṇa* (Vivādaratnākara, p. 565).—‘If a son is born to a girl
-who has not yet been given in marriage, in her father’s house, from a
-man of the same caste as herself, that son is called *Kānīna*; and he is
-a son to that man to whom the girl is subsequently given in marriage.’
+who has not yet been given in marriage, in her father’s house, from a man of the same caste as herself, that son is called *Kānīna*; and he is a son to that man to whom the girl is subsequently given in marriage.’
 
 *Nārada* (Do.).—‘The *Kānīna*, the *Sahoḍha* and the *Gūḍhaja* sons
 belong to him who marries the mother.’

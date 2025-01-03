@@ -46,10 +46,7 @@ obtain wealth from Kṣatriyas, etc., etc.’ (4.33).
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in. *Madanapārijāta*, (p. 215);—in *Mitākṣarā*,
-(1.118) to the effect that three out of the six functions are conducive
-to merit and these are to be practised as means of livelihood; so that
-while the former are obligatory, the latter are not so;—in *Par* *ā*
+This verse is quoted in. *Madanapārijāta*, (p. 215);—in *Mitākṣarā*, (1.118) to the effect that three out of the six functions are conducive to merit and these are to be practised as means of livelihood; so that while the former are obligatory, the latter are not so;—in *Par* *ā*
 *śaram* *ā* *dhava* (Ācāra, p. 140), to the same effect;—in
 *Vyavahāra-Bālambhaṭṭī*, (p. 424);—and in *Saṃskāramayūkha* (p. 122).
 </details>
@@ -59,8 +56,7 @@ while the former are obligatory, the latter are not so;—in *Par* *ā*
 **(verses 10.74-76)  
 **
 
-See Comparative notes for [Verse
-10.74].
+See Comparative notes for [Verse 10.74].
 </details>
 
 <details><summary>भारुचिः</summary>

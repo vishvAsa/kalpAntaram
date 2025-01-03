@@ -24,27 +24,20 @@ One shall always remain *pure in his mind*; *i.e*. he shall not even think of po
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 953);—and in *Parāśaramādhava*
-(Ācāra, p. 569).
+This verse is quoted in *Aparārka* (p. 953);—and in *Parāśaramādhava* (Ācāra, p. 569).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (2.11.25, 24).—‘He shall perform the necessary
-purifications with water which has been taken out and has been strained.
-He shall carry a cloth for straining water for the sake of
-purifications.’
+purifications with water which has been taken out and has been strained. He shall carry a cloth for straining water for the sake of purifications.’
 
-Do. (2-17.43).—‘He shall not sip water which has not been drawn up,
-which has not been strained and which has not been thoroughly cleansed.’
+Do. (2-17.43).—‘He shall not sip water which has not been drawn up, which has not been strained and which has not been thoroughly cleansed.’
 
-Do. (2.18.2).—‘Abstention from injuring living beings, truthfulness,
-abstention from appropriating the property of others, continence and
-liberality.’
+Do. (2.18.2).—‘Abstention from injuring living beings, truthfulness, abstention from appropriating the property of others, continence and liberality.’
 
 *Viṣṇu* (96.14-17).—‘He must set down his feet purified by looking down:
-he must drink water purified (by straining) with a cloth; he must utter
-speech purified by truth; ho must perform acts purified by his mind.’
+he must drink water purified (by straining) with a cloth; he must utter speech purified by truth; ho must perform acts purified by his mind.’
 </details>
 
 <details><summary>भारुचिः</summary>

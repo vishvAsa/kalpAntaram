@@ -35,12 +35,9 @@ in the extension of the motions of the Sun and other planets, and is liable to r
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 *Medhātithi* (p. 19, 1. 21)—It is interesting to note that even so late
-as Medhātithi’s time, the Lunar Mansions were counted from *Kṛttikā*
-onwards, and not from *Aśvinī* as in the more recent astronomical
-systems. (See Thibaut on ‘Indian Astronomy’ in *Indian Thought Vol. I*.)
+as Medhātithi’s time, the Lunar Mansions were counted from *Kṛttikā* onwards, and not from *Aśvinī* as in the more recent astronomical systems. (See Thibaut on ‘Indian Astronomy’ in *Indian Thought Vol. I*.)
 
-This verse is quoted in the *Gadādharapaddhati* — *Kālasāra*, p. 5, as
-describing the creation of time and its divisions;—also in the
+This verse is quoted in the *Gadādharapaddhati* — *Kālasāra*, p. 5, as describing the creation of time and its divisions;—also in the
 *Kālamādhava* (p. 45) as describing the creation of time by God; it
 reads ‘*vibhaktim*’ for ‘*vibhaktiḥ*.’
 </details>

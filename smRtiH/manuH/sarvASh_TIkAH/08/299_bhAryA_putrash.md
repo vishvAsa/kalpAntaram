@@ -53,15 +53,9 @@ In the place of ‘*uterine*’ we should read ‘*younger*,’ and the right re
 [*Cf*.
 4.164.]
 
-This verse is quoted in *Vivādaratnākara* (p. 271), which explains that
-the *younger* ‘brother’ is meant;—in *Vīramitrodaya* (Saṃskāra, p.
-514);—in *Aparārka* (p. 610, and also p. 817);—in
+This verse is quoted in *Vivādaratnākara* (p. 271), which explains that the *younger* ‘brother’ is meant;—in *Vīramitrodaya* (Saṃskāra, p. 514);—in *Aparārka* (p. 610, and also p. 817);—in
 *Vyavahāra-Bālambhaṭṭī* (pp. 572 and 919);—in *Saṃskāramayūkha* (p.
-52);—in *Samskāraratnamālā* (p. 314), which says that the specific
-mention of the ‘uterine’ brother indicates that the half-brother shall
-not be beaten;—and in *Smṛticandrikā* (Saṃskāra, p. 142), which says
-that this beating should be done only when the boy proves intractable to
-chiding and other means;—and in *Vivādacintāmaṇi* (Calcutta, p. 76).
+52);—in *Samskāraratnamālā* (p. 314), which says that the specific mention of the ‘uterine’ brother indicates that the half-brother shall not be beaten;—and in *Smṛticandrikā* (Saṃskāra, p. 142), which says that this beating should be done only when the boy proves intractable to chiding and other means;—and in *Vivādacintāmaṇi* (Calcutta, p. 76).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -70,26 +64,16 @@ chiding and other means;—and in *Vivādacintāmaṇi* (Calcutta, p. 76).
 **
 
 *Gautama* (2.42-44).—‘As a rule, a pupil shall not be punished
-corporally,—if no other course is possible, he may be corrected with a
-thin rope or a thin cane; if the teacher strikes him with any other
-thing, he should be punished by the King.’
+corporally,—if no other course is possible, he may be corrected with a thin rope or a thin cane; if the teacher strikes him with any other thing, he should be punished by the King.’
 
 *Āpastamba* (1.8.28-29).—‘If the pupil commits faults, the teacher shall
-always reprove him;—frightening, fasting, bathing in cold water and
-expulsion from the teacher’s presence are the punishments to be
-employed, according to the seriousness of the fault, until the pupil
-leaves off the mischief.’
+always reprove him;—frightening, fasting, bathing in cold water and expulsion from the teacher’s presence are the punishments to be employed, according to the seriousness of the fault, until the pupil leaves off the mischief.’
 
 *Yama* (Vivādaratnākara, p. 2.).—‘Wife, son, slave, slave-girl and
-pupil,—when these commit a fault, they should be chastised with a rope
-or with split bamboo; but in the lower, never in the higher, parts of
-the body:—if one strikes them otherwise, he should be punished.’
+pupil,—when these commit a fault, they should be chastised with a rope or with split bamboo; but in the lower, never in the higher, parts of the body:—if one strikes them otherwise, he should be punished.’
 
 *Nārada* (*Do*.).—‘If the pupil does not obey the teacher, he should be
-chastised, without hurting him, either with a thin rope or with split
-bamboo; the teacher shall not beat him much, nor in the head or on the
-chest. Behaving otherwise than this, the teacher should be punished by
-the King.’
+chastised, without hurting him, either with a thin rope or with split bamboo; the teacher shall not beat him much, nor in the head or on the chest. Behaving otherwise than this, the teacher should be punished by the King.’
 </details>
 
 <details><summary>भारुचिः</summary>

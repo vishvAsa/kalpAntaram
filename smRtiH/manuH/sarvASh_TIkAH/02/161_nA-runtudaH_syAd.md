@@ -47,18 +47,15 @@ One should not utter such words as they are ‘*alokyā*,’—*i.e*., obstructi
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Compare with this, Mahābhārata (13.104-31)—Vidura’s advice to
-Duryodhana—
+Compare with this, Mahābhārata (13.104-31)—Vidura’s advice to Duryodhana—
 
 > nāruntudaḥ syānna nṛśaṃsavādī  
 > na hīnataḥ paramabhyādadīta \|\|
 
 *Medhātithi* (P. 147, 1. 13)—‘*Arthaprakaraṇādinā*’—*cf. Kāvyaprakāśa*.
 
-> arthaḥ prakaraṇaṃ liṅgaṃ vākyasyānyasya sannidhiḥ \|
->
-> \*   \*   \*
->
+> arthaḥ prakaraṇaṃ liṅgaṃ vākyasyānyasya sannidhiḥ \| >
+> \*   \*   \* >
 > yo'rthasya nyārthadhīhetuḥ etc., etc.
 </details>
 
@@ -67,8 +64,7 @@ Duryodhana—
 *Gautama*, 2-25.—‘One should avoid harsh speech.’
 
 *Gautama*, 90.50-51.—‘Ever harmless, kind, firm in his actions,
-self-controlled and charitable; the Accomplished Student who behaves
-thus never falls from the regions of Brahman.’
+self-controlled and charitable; the Accomplished Student who behaves thus never falls from the regions of Brahman.’
 
 *Āpastamba-Dharmasūtra*, 1.1-15.—‘One should bear no malice towards
 him.’

@@ -45,21 +45,15 @@ This deprecation of the ignorant person is meant to be a praise of the learned m
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-In place of ‘*prītaḥ*,’ Nārāyaṇa reads ‘*yuktaḥ*’ which he connects with
-‘*dharmataḥ*’;—Nandana reads ‘*vipraḥ*.’
+In place of ‘*prītaḥ*,’ Nārāyaṇa reads ‘*yuktaḥ*’ which he connects with ‘*dharmataḥ*’;—Nandana reads ‘*vipraḥ*.’
 
-This verse is quoted in *Madanapārijāta* (p. 556) without comment;—and
-in *Hemādri* (Śrāddha, p. 377).
+This verse is quoted in *Madanapārijāta* (p. 556) without comment;—and in *Hemādri* (Śrāddha, p. 377).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Bṛhad-Yama* (3.40-42).—‘The excellent Brāhmaṇa, free from jealousy, of
-pure character, learned in the Veda, knowing Brahman, youthful, endowed
-with learning and humility,—is the proper recipient; one who is learned
-in Vedanta, superior in Sāman, free from avarice, devoted to the Veda,
-should be employed in rites sacred to Pitṛs and Gods; whatever is
-offered to such a one is imperishable without doubt.’
+pure character, learned in the Veda, knowing Brahman, youthful, endowed with learning and humility,—is the proper recipient; one who is learned in Vedanta, superior in Sāman, free from avarice, devoted to the Veda, should be employed in rites sacred to Pitṛs and Gods; whatever is offered to such a one is imperishable without doubt.’
 </details>
 
 <details><summary>Bühler</summary>

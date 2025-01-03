@@ -23,8 +23,7 @@ Inasmuch as the term ‘*morning*’ is used here along with ‘the *setting of 
 **(verses 11.218-219)  
 **
 
-See Explanatory notes for [Verse
-11.218].
+See Explanatory notes for [Verse 11.218].
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -33,8 +32,7 @@ See Explanatory notes for [Verse
 evening, one performs the *Śiśu-Cāndrāyaṇa*.’
 
 *Baudhāyana* (4.5, 18).—‘If with concentrated mind, a Brāhmaṇa eats four
-mouthfuls in the morning and four mouthfuls when the sun has set, he
-performs the *Śiśu-Cāndrāyaṇa*.’
+mouthfuls in the morning and four mouthfuls when the sun has set, he performs the *Śiśu-Cāndrāyaṇa*.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -36,8 +36,7 @@ This verse is quoted in *Vivādaratnākara* (p. 625).
 **(verses 8.410-418)  
 **
 
-See Comparative notes for [Verse
-8.410].
+See Comparative notes for [Verse 8.410].
 </details>
 
 <details><summary>भारुचिः</summary>

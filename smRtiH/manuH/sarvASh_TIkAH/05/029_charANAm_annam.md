@@ -28,11 +28,7 @@ The meaning is that those possessed of inferior strength are killed for food—(
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 527), which adds—the
-‘*cara*’ are the deer and the rest,—the ‘*acara*’ grasses
-etc.,—‘*damṣṭṛn*’, the tiger and others, ‘*adamṣṭṛn*,’ the deer and the
-like,—‘*sahasta*’ are men and the like,—and ‘*ahasta*’ fish etc.,
-‘*śūra*’ are brave persons—and ‘*bhīru*’ are the timid.
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 527), which adds—the ‘*cara*’ are the deer and the rest,—the ‘*acara*’ grasses etc.,—‘*damṣṭṛn*’, the tiger and others, ‘*adamṣṭṛn*,’ the deer and the like,—‘*sahasta*’ are men and the like,—and ‘*ahasta*’ fish etc., ‘*śūra*’ are brave persons—and ‘*bhīru*’ are the timid.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

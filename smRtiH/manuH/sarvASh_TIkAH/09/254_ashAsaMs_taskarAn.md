@@ -30,8 +30,7 @@ Hence if the king receives taxes and yet fights shy of repressing thieves, he in
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 294), which adds that the
-subject of ‘*parihīyate*’ is ‘*rājā*’, the king;—and in
+This verse is quoted in *Vivādaratnākara* (p. 294), which adds that the subject of ‘*parihīyate*’ is ‘*rājā*’, the king;—and in
 *Vivādacintāmaṇi* (Calcutta, p. 80), which says that ‘*parihīyate*’ is
 to be construed with ‘*saḥ*’ understood.
 </details>
@@ -41,12 +40,10 @@ to be construed with ‘*saḥ*’ understood.
 **(verses 9.253-255)  
 **
 
-\[See under
-[8.307],
+\[See under [8.307],
 [386-387].\]
 
-See Comparative notes for [Verse
-9.253].
+See Comparative notes for [Verse 9.253].
 </details>
 
 <details><summary>Bühler</summary>

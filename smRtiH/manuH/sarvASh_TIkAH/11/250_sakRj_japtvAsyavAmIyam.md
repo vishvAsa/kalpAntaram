@@ -30,16 +30,13 @@ a hymn containing fifty-two verses, beginning with the words ‘*asya vāmasya p
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.304), which remarks that this
-refers to a case where a person with excellent qualifications has stolen
-the gold belonging to a man with absolutely no good qualities.
+This verse is quoted in *Mitākṣarā* (3.304), which remarks that this refers to a case where a person with excellent qualifications has stolen the gold belonging to a man with absolutely no good qualities.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (26.6).—‘Even the gold-stealer becomes instantly freed from
-guilt, if he once recites the hymn beginning with “*Asya vāmasya*,” and
-also the *Śivasaṅkalpa* texts.’
+guilt, if he once recites the hymn beginning with “*Asya vāmasya*,” and also the *Śivasaṅkalpa* texts.’
 
 *Yājñavalkya* (3.303).—[(See above verse
 249.)]

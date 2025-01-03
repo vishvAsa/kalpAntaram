@@ -40,9 +40,7 @@ But whence does- it follow that there is a single Homa? Verse 85, which speaks o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 402), where it is
-explained that the offering to ‘*Dyāuḥ-pṛthivī jointly*’ should be made
-with the formula —*Dyāvāpṛthivībhyām svāhā*’.
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 402), where it is explained that the offering to ‘*Dyāuḥ-pṛthivī jointly*’ should be made with the formula —*Dyāvāpṛthivībhyām svāhā*’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -50,8 +48,7 @@ with the formula —*Dyāvāpṛthivībhyām svāhā*’.
 **(verses 3.84-93)  
 **
 
-See Comparative notes for [Verse
-3.84].
+See Comparative notes for [Verse 3.84].
 </details>
 
 <details><summary>Bühler</summary>

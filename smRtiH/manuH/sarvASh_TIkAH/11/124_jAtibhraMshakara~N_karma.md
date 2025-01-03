@@ -34,23 +34,18 @@ The exact form of the two penances, ‘Prājāpatya’ and ‘Sāntapana,’ sha
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The ‘*Jātibhraṃśakara*’ offences have been enumerated [above in verse
-67].
+The ‘*Jātibhraṃśakara*’ offences have been enumerated [above in verse 67].
 
 This verse is quoted in *Mitākṣarā* (3.254),—and again under 3.290);—in
 *Smṛtitattva* (p. 542);—in *Parāśaramādhava* (Prāyaścitta p. 441), as
-laying down the expiation common to all ‘*Jātibhraṃśakara*’
-offences;—and in *Prāyaścittaviveka* (pp. 464 and 542), which says that
-when the offence is committed *intentionally*, the penance to be
-performed is the *Sāntapana*, and when it is committed
+laying down the expiation common to all ‘*Jātibhraṃśakara*’ offences;—and in *Prāyaścittaviveka* (pp. 464 and 542), which says that when the offence is committed *intentionally*, the penance to be performed is the *Sāntapana*, and when it is committed
 *unintentionally*, it is *Prājāpatya*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (38.7).—‘He who has knowingly committed an act causing loss of
-caste shall perform the *Sāntapana* penance; he who has done so unawares
-shall perform the *Prājāpatya* penance.’
+caste shall perform the *Sāntapana* penance; he who has done so unawares shall perform the *Prājāpatya* penance.’
 </details>
 
 <details><summary>भारुचिः</summary>

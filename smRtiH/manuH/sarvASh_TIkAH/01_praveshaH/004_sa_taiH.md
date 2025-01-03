@@ -52,14 +52,8 @@ He answered the great sages;—what was the answer?—‘Listen to what I have b
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-The injunctions and prohibitions in the Institute are the work of
-Prajāpati himself;—He taught them to Manu, who composed the ‘ordinance’,
-and taught it to the sages, among whom was Bhṛgu, who was commissioned
-to relate it to the sages; and the ‘ordinance’ in its present form is
-what was related by Bhṛgu to the sages at a later time —*Vide* [Bhāṣya
-on
-1.1]
-and l.56.
+The injunctions and prohibitions in the Institute are the work of Prajāpati himself;—He taught them to Manu, who composed the ‘ordinance’, and taught it to the sages, among whom was Bhṛgu, who was commissioned to relate it to the sages; and the ‘ordinance’ in its present form is what was related by Bhṛgu to the sages at a later time —*Vide* [Bhāṣya on
+1.1] and l.56.
 </details>
 
 <details><summary>Bühler</summary>

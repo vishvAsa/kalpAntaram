@@ -46,18 +46,13 @@ life becomes shortened *in part*’, i.e. some die while they are young children
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Quarter by quarter*’—The natural meaning is that men lived for 400
-years during *Kṛta*, 300 years during *Tretā*, 200 years during
+‘*Quarter by quarter*’—The natural meaning is that men lived for 400 years during *Kṛta*, 300 years during *Tretā*, 200 years during
 *Dvāpara* and 100 years during *Kali* But in view of the assertion in
-the *Chāndogya Upaniṣad* of a man having lived for 1600 years (3.16.17)
-Medhātithi has been forced to remark that ‘quarter’ here stands for
+the *Chāndogya Upaniṣad* of a man having lived for 1600 years (3.16.17) Medhātithi has been forced to remark that ‘quarter’ here stands for
 *part*, and not for the precise *fourth part*, and to explain the text
-to mean that ‘man’s life becomes shortened *in part*; some die while
-they are young children, others on reaching youth and others on
-attaining old age.’
+to mean that ‘man’s life becomes shortened *in part*; some die while they are young children, others on reaching youth and others on attaining old age.’
 
-The *Aparārka* (p. 1012) quotes the first line in support of the view
-that each cycle has a distinct character of its own.
+The *Aparārka* (p. 1012) quotes the first line in support of the view that each cycle has a distinct character of its own.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -65,8 +60,7 @@ that each cycle has a distinct character of its own.
 **(Verse 81-86)  
 **
 
-See Comparative notes for [Verse 1.81 (Dharma in the
-Kṛta-yuga)].
+See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 </details>
 
 <details><summary>Bühler</summary>

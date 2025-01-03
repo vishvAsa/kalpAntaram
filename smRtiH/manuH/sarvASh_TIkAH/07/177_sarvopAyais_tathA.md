@@ -56,8 +56,7 @@ By means of these expedients, the king shall deliberate upon his. whole circle.�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 328);—‘and *in
-Nītimayūkha* (p. 58).
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 328);—‘and *in Nītimayūkha* (p. 58).
 </details>
 
 <details><summary>भारुचिः</summary>

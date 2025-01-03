@@ -25,8 +25,7 @@ He who becomes tainted by the setting of the sun,—similarly who becomes tainte
 **(verses 220-220)  
 **
 
-See Comparative notes for [Verse
-2.220].
+See Comparative notes for [Verse 2.220].
 </details>
 
 <details><summary>Bühler</summary>

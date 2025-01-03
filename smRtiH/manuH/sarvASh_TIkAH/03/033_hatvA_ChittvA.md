@@ -34,19 +34,11 @@ The forcible abduction of the maiden from her home, while she is crying out and 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in ‘*Vīramitrodaya*’ (Saṃskāra, p. 856), where the
-following explanation is given—‘*Hatvā*’—‘having beaten, those
-obstructing him’;—‘*Chittvā*’—having cut off, the heads of the
-obstructors’;—‘*Bhittvā*’—‘having pierced, with strokes of
-weapons’;—‘*Krośantīm*’—calling for her relations;—all this indicates
-fighting.
+This verse is quoted in ‘*Vīramitrodaya*’ (Saṃskāra, p. 856), where the following explanation is given—‘*Hatvā*’—‘having beaten, those obstructing him’;—‘*Chittvā*’—having cut off, the heads of the obstructors’;—‘*Bhittvā*’—‘having pierced, with strokes of weapons’;—‘*Krośantīm*’—calling for her relations;—all this indicates fighting.
 
-The second half is quoted in *Smṛtitattva* (II, p. 129) in support of
-the view that what distinguishes the *Rākṣasa* form is *forcible
-abduction*.
+The second half is quoted in *Smṛtitattva* (II, p. 129) in support of the view that what distinguishes the *Rākṣasa* form is *forcible abduction*.
 
-The verse is quoted in *Hemādri* (Dāna, p. 685);—and in *Smṛticandrikā*
-(Saṃskāra,:p. 229), which explains ‘*prosahya*’ as ‘by force’.
+The verse is quoted in *Hemādri* (Dāna, p. 685);—and in *Smṛticandrikā* (Saṃskāra,:p. 229), which explains ‘*prosahya*’ as ‘by force’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -68,12 +60,10 @@ the girl, it is the *Kṣātra* form of marriage.’
 by fight.’
 
 *Āśvalāyana- Gṛhyasūtra* (6.15).—'When one wrests the crying girl from
-her crying guardians after having killed and maimed them, it is the
-Rākṣasa.’
+her crying guardians after having killed and maimed them, it is the Rākṣasa.’
 
 *Hārīta* (Vīramitrodaya-Saṃskāra, p. 856).—‘It is the Rākṣasa form of
-marriage when, with the king’s support, the girl is obtained by
-attacking and chastising her guardians.’
+marriage when, with the king’s support, the girl is obtained by attacking and chastising her guardians.’
 
 *Hārīta* (Vīramitrodaya-Saṃskāra, p. 857).—‘It is th *e Kṣātra* form
 when the decked girl is won in battle.’

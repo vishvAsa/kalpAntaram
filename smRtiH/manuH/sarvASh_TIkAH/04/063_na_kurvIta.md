@@ -29,8 +29,7 @@ He shall not put forth any exertion without a purpose. He shall not drink water 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (9.9, 51, 56).—‘He shall not drink with joined hands. He shall
-not do such acts as cutting, breaking, scratching, crushing, clapping,
-without reason. He shall not eat articles of food on his lap.’
+not do such acts as cutting, breaking, scratching, crushing, clapping, without reason. He shall not eat articles of food on his lap.’
 
 *Baudhāyana* (2.3.26).—‘He shall not eat food on his lap.’
 

@@ -32,10 +32,7 @@ The mention of ‘*demons*’ is a purely deprecatory exaggeration.—(1 *7* 0)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Avrataiḥ*’—‘Devoid of self-restraint’ (Medhātithi);—‘who have not
-fulfilled the vows of studentship’ (Govindarāja, Kullūka and
-Rāghavānanda);—‘who do not observe the rules laid down for the
-Accomplished Student’.
+‘*Avrataiḥ*’—‘Devoid of self-restraint’ (Medhātithi);—‘who have not fulfilled the vows of studentship’ (Govindarāja, Kullūka and Rāghavānanda);—‘who do not observe the rules laid down for the Accomplished Student’.
 
 This verse is quoted in *Hemādri* (Śrāddha, pp. 471 and 493).
 </details>
@@ -45,8 +42,7 @@ This verse is quoted in *Hemādri* (Śrāddha, pp. 471 and 493).
 **(verses 3.169-170)  
 **
 
-See Comparative notes for [Verse
-3.170].
+See Comparative notes for [Verse 3.170].
 </details>
 
 <details><summary>Bühler</summary>

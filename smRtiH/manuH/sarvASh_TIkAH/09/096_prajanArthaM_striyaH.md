@@ -26,9 +26,7 @@ Consequently, since alone by himself he could not be entitled to the performance
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 418), which adds that the
-term ‘*prajana*’ here stands for the act of conceiving and ‘*santāna*’
-for the act of *depositing the seed*, fecundating.
+This verse is quoted in *Vivādaratnākara* (p. 418), which adds that the term ‘*prajana*’ here stands for the act of conceiving and ‘*santāna*’ for the act of *depositing the seed*, fecundating.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -47,9 +47,7 @@ Or, the verse may be construed in the following manner:—‘The Pitṛs that ar
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“This verse probably contains a second classification of the Manes,
-which differs from the preceding, because it is based on a different
-tradition.”—Buhler.
+“This verse probably contains a second classification of the Manes, which differs from the preceding, because it is based on a different tradition.”—Buhler.
 
 This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 </details>

@@ -96,13 +96,11 @@ Thus all the declarations of rewards that there are, are to be regarded as purel
 **(verses 9.253-255)  
 **
 
-\[See under
-[8.307],
+\[See under [8.307],
 [386-387].\]
 
 *Hārita* (Vivādaratnākara, p. 294).—‘If wicked robbers prosper in the
-kingdom, that sin, becoming magnified, destroys the very roots of the
-King.’
+kingdom, that sin, becoming magnified, destroys the very roots of the King.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -41,8 +41,7 @@ The meaning is that people continue to eulogise the king, even though they say t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 408), which explains
-‘*sajāteṣu*’ as ‘among persons of the same class with himself’;—and in
+This verse is quoted in *Vivādaratnākara* (p. 408), which explains ‘*sajāteṣu*’ as ‘among persons of the same class with himself’;—and in
 *Vivādacintāmaṇi* (p. 264).
 </details>
 
@@ -51,8 +50,7 @@ This verse is quoted in *Vivādaratnākara* (p. 408), which explains
 **(verses 8.386-387)  
 **
 
-See Comparative notes for [Verse
-8.386].
+See Comparative notes for [Verse 8.386].
 </details>
 
 <details><summary>भारुचिः</summary>

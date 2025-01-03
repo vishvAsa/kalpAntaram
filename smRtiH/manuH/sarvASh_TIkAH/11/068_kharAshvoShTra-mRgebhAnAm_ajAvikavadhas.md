@@ -26,9 +26,7 @@ The killing of an ass, of a horse, of a camel, of a deer, of an elephant, of a g
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.242);—in *Madanapārijāta* (p.
-924);—in *Nṛsiṃhaprasāda* (Prāyaścitta 30a);—and i n *Prāyaścittaviveka*
-(p. 42 and 465).
+This verse is quoted in *Mitākṣarā* (3.242);—in *Madanapārijāta* (p. 924);—in *Nṛsiṃhaprasāda* (Prāyaścitta 30a);—and i n *Prāyaścittaviveka* (p. 42 and 465).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

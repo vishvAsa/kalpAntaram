@@ -107,10 +107,7 @@ All the words in the second person contained in verse 88 onwards (up to 92) are 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Sarvam hanti*’—‘Destroys everything—*i*. *e*., incurs the guilt of
-killing *all animate beings*’ (Kullūka and Govindarāja);—‘destroys even
-more than a thousand beings’ (Nārāyaṇa);—‘destroys the entire universe’
-(Nandana).
+‘*Sarvam hanti*’—‘Destroys everything—*i*. *e*., incurs the guilt of killing *all animate beings*’ (Kullūka and Govindarāja);—‘destroys even more than a thousand beings’ (Nārāyaṇa);—‘destroys the entire universe’ (Nandana).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

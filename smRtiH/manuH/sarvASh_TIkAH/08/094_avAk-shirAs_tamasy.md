@@ -20,16 +20,14 @@ On being questioned regarding the subject-matter of the investigation, if one sh
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Kṛtyakalpataru* (35a);—in *Aparārka* (p.
-674);—and in *Smṛticandrikā* (Vyavahāra, p. 204).
+This verse is quoted in *Kṛtyakalpataru* (35a);—in *Aparārka* (p. 674);—and in *Smṛticandrikā* (Vyavahāra, p. 204).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 8.89-97)**
 
-\[See the texts under [79 *et
-seq*.]\]
+\[See the texts under [79 *et seq*.]\]
 </details>
 
 <details><summary>Bühler</summary>

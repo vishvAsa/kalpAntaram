@@ -43,22 +43,13 @@ He should always worship the food and eat it without disparaging it. When he see
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 *Pūjayet*—‘worship’ (Govindarāja and Nandana.);—Medhātithi offers three
-explanations as to what is meant by the ‘worshipping’ of the
-food;—Nārāyaṇa takes it to mean that the *mantra* (Ṛgveda, 1. 187.1)
-should be addressed to it Kullūka explains it as ‘meditate upon it as
-sustaining life’.
+explanations as to what is meant by the ‘worshipping’ of the food;—Nārāyaṇa takes it to mean that the *mantra* (Ṛgveda, 1. 187.1) should be addressed to it Kullūka explains it as ‘meditate upon it as sustaining life’.
 
-The first half of the verse is quoted in *Vīramitrodaya* (Saṃskāra, p.
-486), which explains the *pūjā* as standing for saṃskāra, *due
-preparation*.
+The first half of the verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 486), which explains the *pūjā* as standing for saṃskāra, *due preparation*.
 
-It is quoted again in the *Āhnika* section of the same work (p. 382),
-where, on the strength of a statement attributed to Śātātapa, it is said
-that in the case of food, ‘worship’ can only mean being *regarded as a
-deity*.
+It is quoted again in the *Āhnika* section of the same work (p. 382), where, on the strength of a statement attributed to Śātātapa, it is said that in the case of food, ‘worship’ can only mean being *regarded as a deity*.
 
-The verse is quoted in *Smṛtitattva* (p. 433);—and in *Smṛticandrikā*
-(Saṃskāra, p. 114), which explains ‘*akutsayan*’ as ‘not decrying.’
+The verse is quoted in *Smṛtitattva* (p. 433);—and in *Smṛticandrikā* (Saṃskāra, p. 114), which explains ‘*akutsayan*’ as ‘not decrying.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -70,19 +61,13 @@ The verse is quoted in *Smṛtitattva* (p. 433);—and in *Smṛticandrikā*
 not disparaging it.’
 
 *Baudhāyana-Dharmasūtra*, 7.2.6.—‘Seated—he should eat the food, intent
-upon it, without disparaging the food,—not dropping it on the ground;
-and after earing, he should touch Fire.’
+upon it, without disparaging the food,—not dropping it on the ground; and after earing, he should touch Fire.’
 
 *Viṣṇu-Smṛti*, 67.42-43.—‘Worshipping the food, with contented mind,
 wearing a garland and smeared with sandal-paste.’
 
 *Baudhāyana Dhaṛmasūtra*, 2.3.17.—‘\[Says the Food\]—He who eats me,
-without having made offerings to Pitṛs, Gods, dependents, guests, and to
-friends, eats, through foolishness, poison; and him I devour; for him I
-am death. He who eats me after having made the Agnihotra-ofFerings and
-the Vaiśvadeva-offerings and after having honoured the guests and fed
-his dependents,—content, clean and reverential,—for him I am nectar; he
-alone eats me.’
+without having made offerings to Pitṛs, Gods, dependents, guests, and to friends, eats, through foolishness, poison; and him I devour; for him I am death. He who eats me after having made the Agnihotra-ofFerings and the Vaiśvadeva-offerings and after having honoured the guests and fed his dependents,—content, clean and reverential,—for him I am nectar; he alone eats me.’
 
 *Gautama-Dharmasūtra*, 7.59.—‘He should eat the food, morning and
 evening, after worshipping it, never disparaging it.’

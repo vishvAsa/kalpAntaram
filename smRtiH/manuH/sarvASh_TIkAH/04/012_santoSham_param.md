@@ -26,11 +26,7 @@ One should have recourse to contentment; that is, one should not make an effort 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 170), which remarks that in
-connection with all these ‘*vratas*’, it has to be borne in mind that
-what is exactly meant by the term ‘*vrata*’ is the *mental
-determination* that ‘I shall do this—I shall not do that’,—and that all
-these have to be taken up immediately after the Final Bath.
+This verse is quoted in *Aparārka* (p. 170), which remarks that in connection with all these ‘*vratas*’, it has to be borne in mind that what is exactly meant by the term ‘*vrata*’ is the *mental determination* that ‘I shall do this—I shall not do that’,—and that all these have to be taken up immediately after the Final Bath.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

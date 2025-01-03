@@ -28,10 +28,7 @@ After every six months he should have them re-examined by his officers, so that 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 301), which explains
-‘*pratimānam*’ as prices of stone and other materials stamped with a
-royal mark, which are used for determining the exact weight of gold;—and
-in *Vyavaharā-Bālambhaṭṭī* (p. 940).
+This verse is quoted in *Vivādaratnākara* (p. 301), which explains ‘*pratimānam*’ as prices of stone and other materials stamped with a royal mark, which are used for determining the exact weight of gold;—and in *Vyavaharā-Bālambhaṭṭī* (p. 940).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

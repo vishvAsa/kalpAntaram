@@ -24,15 +24,13 @@ This same subsidiary character is more clearly stated,—‘*The rite*’—*i.e
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Gadādharapaddhati* (Kāla, p. 526), which
-explains ‘*āpyāyanam*’ as ‘helping’, ‘subsidiary’.
+This verse is quoted in *Gadādharapaddhati* (Kāla, p. 526), which explains ‘*āpyāyanam*’ as ‘helping’, ‘subsidiary’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āśvalāyana* (24.1).—‘Without offering the sacrifice to the Pitṛs, or
-the annual Śrāddha to individual ancestors,—if one performs other five
-sacrifices, he surely goes to hell.’
+the annual Śrāddha to individual ancestors,—if one performs other five sacrifices, he surely goes to hell.’
 </details>
 
 <details><summary>Bühler</summary>

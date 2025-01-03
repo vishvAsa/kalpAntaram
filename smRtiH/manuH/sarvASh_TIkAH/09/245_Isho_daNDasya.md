@@ -38,8 +38,7 @@ This verse is quoted in *Vivādaratnākara* (p. 638);—and in
 **(verses 9.243-246)  
 **
 
-See Comparative notes for [Verse
-9.243].
+See Comparative notes for [Verse 9.243].
 </details>
 
 <details><summary>भारुचिः</summary>

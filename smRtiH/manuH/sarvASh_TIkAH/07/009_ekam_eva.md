@@ -34,19 +34,7 @@ When a man touches fire with his hand, or goes too near the fire when it is burn
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 392);—in the same
-work (Vyavahāra, p. 6);—and in *Vīramitrodaya* (Rājanīti, p. 18), which
-adds the following notes:—When a man carelessly approaches too near the
-fire, he himself alone is burnt, not his sons or other relations;—others
-have explained ‘*durupasarpiṇam*’ as ‘one who approaches the fire for
-the purpose of throwing himself into it, with a view to escape from
-misery’;—better still than both these explanations is the following
-one:—‘When a man, knowing himself to be guilty, proceeds, through
-bravado, to touch Fire in an ordeal, it is he alone that is burnt by the
-fire; but the king, becoming angry with him, destroys the man himself as
-well as his son, brother and other members of the family, along with his
-cattle and other possessions.’ It is thus alone that the two halves of
-the verse become correlated.
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 392);—in the same work (Vyavahāra, p. 6);—and in *Vīramitrodaya* (Rājanīti, p. 18), which adds the following notes:—When a man carelessly approaches too near the fire, he himself alone is burnt, not his sons or other relations;—others have explained ‘*durupasarpiṇam*’ as ‘one who approaches the fire for the purpose of throwing himself into it, with a view to escape from misery’;—better still than both these explanations is the following one:—‘When a man, knowing himself to be guilty, proceeds, through bravado, to touch Fire in an ordeal, it is he alone that is burnt by the fire; but the king, becoming angry with him, destroys the man himself as well as his son, brother and other members of the family, along with his cattle and other possessions.’ It is thus alone that the two halves of the verse become correlated.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -54,8 +42,7 @@ the verse become correlated.
 **(verses 7.3-13)  
 **
 
-See Comparative notes for [Verse
-7.3](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200663.html#comparative-notes "English translation of verse").
+See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200663.html#comparative-notes "English translation of verse").
 </details>
 
 <details><summary>भारुचिः</summary>

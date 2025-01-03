@@ -41,18 +41,13 @@ In answer to the question—With whom should he seek shelter?—the text has add
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 326), as
-describing the two kinds of ‘Refuge’—(*a*) that taken for the purpose of
-regaining of what has been lost to. the enemy, and (*b*) that taken for
-the averting of future trouble.
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 326), as describing the two kinds of ‘Refuge’—(*a*) that taken for the purpose of regaining of what has been lost to. the enemy, and (*b*) that taken for the averting of future trouble.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Kāmandaka* (9.55).—‘When assaulted by a powerful adversary, a sovereign
-should seek shelter inside his forts, whence ho should make vigorous
-efforts, and, for his own liberation, invoke the assistance of another
-king more powerful than his assailant.’
+should seek shelter inside his forts, whence ho should make vigorous efforts, and, for his own liberation, invoke the assistance of another king more powerful than his assailant.’
 </details>
 
 <details><summary>भारुचिः</summary>

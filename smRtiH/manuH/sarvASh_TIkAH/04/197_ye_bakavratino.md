@@ -23,8 +23,7 @@ This verse is explained by its own words.—(197).
 **(verses 4.195-199)  
 **
 
-See Comparative notes for [Verse
-4.195].
+See Comparative notes for [Verse 4.195].
 </details>
 
 <details><summary>Bühler</summary>

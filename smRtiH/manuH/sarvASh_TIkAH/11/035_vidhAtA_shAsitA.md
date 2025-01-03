@@ -48,29 +48,18 @@ Thus, being endowed with all kinds of power, he should not be disregarded as a w
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vidhātā*’.—‘Creator’ (Medhātithi and Nārāyaṇa);—‘performer of the
-prescribed rites’ (Govindarāja and Kullūka);—‘one who is able to do, to
-undo and to change’ (Rāghavānanda);—‘the performer of magic rites’
-(Nandana);—‘*Śāsitā*’,—‘Punisher, controller, adviser’—of the king
-(Medhātithi),—‘of his sons and pupils’ (Kullūka);—‘instructor in the
-sacred daw’ (Nārāyaṇa);—‘the instigator of incantations’ (Nandana).
+‘*Vidhātā*’.—‘Creator’ (Medhātithi and Nārāyaṇa);—‘performer of the prescribed rites’ (Govindarāja and Kullūka);—‘one who is able to do, to undo and to change’ (Rāghavānanda);—‘the performer of magic rites’ (Nandana);—‘*Śāsitā*’,—‘Punisher, controller, adviser’—of the king (Medhātithi),—‘of his sons and pupils’ (Kullūka);—‘instructor in the sacred daw’ (Nārāyaṇa);—‘the instigator of incantations’ (Nandana).
 
-‘*Vaktā*’.—‘One who gives wholesome advice’ (Medhātithi);—‘the teacher’,
-(Govindarāja and Nārāyaṇa);—‘the expounder of the sacred law’ (Kullūka
-and Rāghavānanda).
+‘*Vaktā*’.—‘One who gives wholesome advice’ (Medhātithi);—‘the teacher’, (Govindarāja and Nārāyaṇa);—‘the expounder of the sacred law’ (Kullūka and Rāghavānanda).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 11.31-35)**
 
-\[[See 9.290
-above];
-and texts thereunder; [also
-9.313-321.]\]
+\[[See 9.290 above]; and texts thereunder; [also 9.313-321.]\]
 
-See Comparative notes for [Verse
-11.31].
+See Comparative notes for [Verse 11.31].
 </details>
 
 <details><summary>भारुचिः</summary>

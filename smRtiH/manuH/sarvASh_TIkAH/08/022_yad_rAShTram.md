@@ -32,13 +32,9 @@ From the context it is clear that ‘*the majority of Śūdras*’ is meant with
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Śūdrabhūyiṣṭham*’—‘Where Śūdras form a majority among judges’
-(Medhātithi);—‘where Śūdras, *i*. *e*., disbelievers, form the majority
-of inhabitants’ (Kullūka);—‘where Śūdras form the majority among holders
-of high office’ (Nandana).
+‘*Śūdrabhūyiṣṭham*’—‘Where Śūdras form a majority among judges’ (Medhātithi);—‘where Śūdras, *i*. *e*., disbelievers, form the majority of inhabitants’ (Kullūka);—‘where Śūdras form the majority among holders of high office’ (Nandana).
 
-Medhātithi does not explain ‘*Śūdra*’ here as ‘unbelievers’; he has been
-misrepresented by Hopkins.
+Medhātithi does not explain ‘*Śūdra*’ here as ‘unbelievers’; he has been misrepresented by Hopkins.
 </details>
 
 <details><summary>भारुचिः</summary>

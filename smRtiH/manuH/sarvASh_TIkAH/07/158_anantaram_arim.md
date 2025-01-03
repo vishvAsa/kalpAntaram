@@ -30,8 +30,7 @@ These same characteristics of the ‘friend’ and the ‘enemy’ are to be fou
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The second half of this verse is quoted in *Parāśaramādhava* (Ācāra, p.
-411);—and the first half in *Vīramitrodaya* (Rājanīti, p. 321).
+The second half of this verse is quoted in *Parāśaramādhava* (Ācāra, p. 411);—and the first half in *Vīramitrodaya* (Rājanīti, p. 321).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -39,8 +38,7 @@ The second half of this verse is quoted in *Parāśaramādhava* (Ācāra, p.
 **(verses 7.155-159)  
 **
 
-See Comparative notes for [Verse
-7.155].
+See Comparative notes for [Verse 7.155].
 </details>
 
 <details><summary>भारुचिः</summary>

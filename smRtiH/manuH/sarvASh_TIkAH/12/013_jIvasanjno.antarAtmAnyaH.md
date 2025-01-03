@@ -52,10 +52,7 @@ That this should be called the ‘*inner self*’ is also quite right, since it 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Jīvasaṃjñaḥ*’.—Nandana is again misrepresented by Buhler; his words
-are ‘*Jīvāt saṃjñā jñānam yasya*,’ which means ‘that which derives
-consciousness from the *Jīva*,’ and not ‘who fully knows the Jīvas,’ as
-Buhler puts it.
+‘*Jīvasaṃjñaḥ*’.—Nandana is again misrepresented by Buhler; his words are ‘*Jīvāt saṃjñā jñānam yasya*,’ which means ‘that which derives consciousness from the *Jīva*,’ and not ‘who fully knows the Jīvas,’ as Buhler puts it.
 </details>
 
 <details><summary>भारुचिः</summary>

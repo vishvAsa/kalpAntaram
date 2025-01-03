@@ -37,8 +37,7 @@ This verse is quoted in *Parāśaramādhava*, (Ācāra, p. 418).
 
 **(verses 9.333-336)**
 
-See Comparative notes for [Verse
-9.333].
+See Comparative notes for [Verse 9.333].
 </details>
 
 <details><summary>भारुचिः</summary>

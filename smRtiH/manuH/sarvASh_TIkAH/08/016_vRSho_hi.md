@@ -28,8 +28,7 @@ Consequently one should not violate Justice, lest he become tainted with the cha
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 447), in support of the
-interpretation of ‘*vṛṣala*’ as ‘one devoid of *dharma*’;—and in
+This verse is quoted in *Aparārka* (p. 447), in support of the interpretation of ‘*vṛṣala*’ as ‘one devoid of *dharma*’;—and in
 *Kṛtyakalpataru* (11a).
 </details>
 
@@ -38,11 +37,9 @@ interpretation of ‘*vṛṣala*’ as ‘one devoid of *dharma*’;—and in
 **(verses 8.16-17)**
 
 *Mahābhārata* (Śānti, 90.16).—‘Justice is the sacred Bull, *Vṛṣa*; he
-who brings about his destruction, *laya*, is called the *Vṛṣala*;
-therefore one should never renounce justice.’
+who brings about his destruction, *laya*, is called the *Vṛṣala*; therefore one should never renounce justice.’
 
-Do. (Anuśāsana, 173.14.16).—‘When one abandons his body, Dharma alone
-goes with him. Dharma is the only helper for men in the other world.’
+Do. (Anuśāsana, 173.14.16).—‘When one abandons his body, Dharma alone goes with him. Dharma is the only helper for men in the other world.’
 </details>
 
 <details><summary>भारुचिः</summary>

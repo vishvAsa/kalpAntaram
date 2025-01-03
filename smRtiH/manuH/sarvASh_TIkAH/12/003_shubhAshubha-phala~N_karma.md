@@ -45,17 +45,13 @@ This should not be understood to mean that good and bad results are obtained onl
 **(verses 12.1-4)  
 **
 
-See Comparative notes for [Verse
-12.1].
+See Comparative notes for [Verse 12.1].
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Hārīta* (Aparārka, p. 998).—‘Whatever act, good or bad, a man does, in
-whatever circumstances, of that he obtains the reward under the same
-circumstances. In the body he suffers the consequences of his bodily
-acts; in speech, those of his verbal acts; and in his mind, those of his
-mental acts.’
+whatever circumstances, of that he obtains the reward under the same circumstances. In the body he suffers the consequences of his bodily acts; in speech, those of his verbal acts; and in his mind, those of his mental acts.’
 </details>
 
 <details><summary>भारुचिः</summary>

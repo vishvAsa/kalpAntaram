@@ -31,8 +31,7 @@ This sums up the section.
 **(verses 7.96-98)  
 **
 
-See Comparative notes for [Verse
-7.96].
+See Comparative notes for [Verse 7.96].
 </details>
 
 <details><summary>भारुचिः</summary>

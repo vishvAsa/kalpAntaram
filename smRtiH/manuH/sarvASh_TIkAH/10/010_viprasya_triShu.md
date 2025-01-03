@@ -34,10 +34,7 @@ These are called ‘low-born’ because, though they serve the purposes of the �
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 512), which adds
-that these are called ‘*apasada*,’ ‘base-born,’ on account of their
-being devoid of the pure caste of the Father,—and in *Nṛsiṃhaprasadā*
-(Saṃskāra 76a).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 512), which adds that these are called ‘*apasada*,’ ‘base-born,’ on account of their being devoid of the pure caste of the Father,—and in *Nṛsiṃhaprasadā* (Saṃskāra 76a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -45,8 +42,7 @@ being devoid of the pure caste of the Father,—and in *Nṛsiṃhaprasadā*
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

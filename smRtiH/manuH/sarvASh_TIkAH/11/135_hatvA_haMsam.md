@@ -26,11 +26,7 @@ This expiation applies to the killing of any one of the animals mentioned; becau
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 62), which
-notes that this refers to ‘eases where the offender is a wealthy person
-unable to do any fasting;—in *Aparārka* (p. 1132) in *Mitākṣarā*
-(3.272);—in *Madanapārijāta* (p. 950);—and in *Prāyaścittaviveka* (p.
-239).
+This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 62), which notes that this refers to ‘eases where the offender is a wealthy person unable to do any fasting;—in *Aparārka* (p. 1132) in *Mitākṣarā* (3.272);—in *Madanapārijāta* (p. 950);—and in *Prāyaścittaviveka* (p. 239).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -38,8 +34,7 @@ unable to do any fasting;—in *Aparārka* (p. 1132) in *Mitākṣarā*
 *Baudhāyana* (1.19.6).—(See under 131.)
 
 *Viṣṇu* (50.33).—‘If he has killed a *Haṃsa*, or a crane, or a heron, or
-a cormorant, or an ape, or a falcon, or the vulture called *Bhāsa*, or a
-Brāhmaṇī duck, he must give a cow to a Brāhmaṇa.’
+a cormorant, or an ape, or a falcon, or the vulture called *Bhāsa*, or a Brāhmaṇī duck, he must give a cow to a Brāhmaṇa.’
 
 *Yājñavalkya* (3.273).—(See under 135.)
 </details>

@@ -29,8 +29,7 @@ The answer is that possessing the whole Earth, he was a great King, but he had h
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 738 and in
-Vyavahāra, 186a).
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 738 and in Vyavahāra, 186a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -38,8 +37,7 @@ Vyavahāra, 186a).
 **(verses 9.60-68)  
 **
 
-See Comparative notes for [Verse
-9.60].
+See Comparative notes for [Verse 9.60].
 </details>
 
 <details><summary>Bühler</summary>

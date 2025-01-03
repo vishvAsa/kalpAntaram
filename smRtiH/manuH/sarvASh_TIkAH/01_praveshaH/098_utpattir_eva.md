@@ -31,15 +31,12 @@ The peculiarity of the Brāhmaṇa endowed with the qualities of learning and th
 
 ‘*Brahma*’—stands here for the Highest Spiritual Being; and not for the
 *Veda*, as Burnell understands it to mean, even after entertaining
-doubts on the matter. All the commentators agree in explaining the
-phrase ‘*brahmabhūyāya kalpate*’ as ‘becomes fit for being liberated—by
-being absorbed into Brahman, the Supreme Self.’
+doubts on the matter. All the commentators agree in explaining the phrase ‘*brahmabhūyāya kalpate*’ as ‘becomes fit for being liberated—by being absorbed into Brahman, the Supreme Self.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-See Comparative notes for [Verse 1.94 (Brahmā created the
-Brāhmaṇas)].
+See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 </details>
 
 <details><summary>Bühler</summary>

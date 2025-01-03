@@ -92,29 +92,11 @@ So far as the present verse is concerned however, it can he taken as referring t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Nirṇayasindhu* (p. 383);—in *Aparārka* (p.
-1152), which explains ‘*antya karma*’ as the ‘*antyeṣṭi*,’ and adds that
-this refers to one who does the acts on hire, and not merely with a
-religious motive; and that it refers to the Brāhmaṇa who performs the
-death-rites for the Kṣatriya and other castes;—the ‘*Ahīna*’ is the name
-for all those *Ahargaṇa* sacrifices which begin with the ‘*Dvirātra*’
-and end with the ‘*Dvādaśarātra*.’
+This verse is quoted in *Nirṇayasindhu* (p. 383);—in *Aparārka* (p. 1152), which explains ‘*antya karma*’ as the ‘*antyeṣṭi*,’ and adds that this refers to one who does the acts on hire, and not merely with a religious motive; and that it refers to the Brāhmaṇa who performs the death-rites for the Kṣatriya and other castes;—the ‘*Ahīna*’ is the name for all those *Ahargaṇa* sacrifices which begin with the ‘*Dvirātra*’ and end with the ‘*Dvādaśarātra*.’
 
-It is quoted in *Parāśaramādhava* (Prāyaścitta, p. 429), as laying down
-the expiation for officiating at sacrifices performed by those who
-should not perform them;—and in *Madanapārijāta* (p. 917), which adds
-the following notes:—‘*Antya karma*,’ the rites performed on the
-cremation ground,—‘*pareṣām*,’ *non-sapiṇḍas* or *śūdras*,—in the case
-of the former it is repetition that is reprehensible, and in that of the
-latter, even the first act;—‘*abhicāra*,’ ‘murderous rite,’ is
-reprehensible, when it is performed against one who has not done any
-similar act against the man;—the ‘*Ahīna*’ is a particular kind of
-sacrifice.
+It is quoted in *Parāśaramādhava* (Prāyaścitta, p. 429), as laying down the expiation for officiating at sacrifices performed by those who should not perform them;—and in *Madanapārijāta* (p. 917), which adds the following notes:—‘*Antya karma*,’ the rites performed on the cremation ground,—‘*pareṣām*,’ *non-sapiṇḍas* or *śūdras*,—in the case of the former it is repetition that is reprehensible, and in that of the latter, even the first act;—‘*abhicāra*,’ ‘murderous rite,’ is reprehensible, when it is performed against one who has not done any similar act against the man;—the ‘*Ahīna*’ is a particular kind of sacrifice.
 
-It is quoted in *Saṃskāramayūkha* (p. 122);—and in *Prāyaścittaviveka*
-(p. 247), which says that, as ‘*hīna*’ means ‘unrighteous,’ ‘*ahīna*’
-means ‘righteous,’ and hence what is forbidden is ‘magical rites against
-righteous persons.’
+It is quoted in *Saṃskāramayūkha* (p. 122);—and in *Prāyaścittaviveka* (p. 247), which says that, as ‘*hīna*’ means ‘unrighteous,’ ‘*ahīna*’ means ‘righteous,’ and hence what is forbidden is ‘magical rites against righteous persons.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -123,24 +105,13 @@ righteous persons.’
 **
 
 *Viṣṇu* (54.25).—‘He who has knowingly offered a sacrifice for an
-unworthy person, he who has performed the funeral rites for a stranger,
-he who has practised magic rites, and he who has performed sacrifices of
-the *Ahīna* class,—all these may rid themselves of their sin by
-performing three *Kṛcchra* penances.’
+unworthy person, he who has performed the funeral rites for a stranger, he who has practised magic rites, and he who has performed sacrifices of the *Ahīna* class,—all these may rid themselves of their sin by performing three *Kṛcchra* penances.’
 
 *Āpastamba* (1.26.7).—‘He who has been guilty of conduct unworthy of an
-Aryan, of calumniating others, of actions contrary to the rules of
-conduct, of eating or drinking forbidden things, of connection with a
-woman of the Śūdra caste, of an unnatural crime, of performing magic
-rites, shall bathe and sprinkle himself with water, reciting the seven
-verses addressed to *Apas*, or those addressed to Varuṇa,......... in
-proportion to the frequency with which the crime has been committed.’
+Aryan, of calumniating others, of actions contrary to the rules of conduct, of eating or drinking forbidden things, of connection with a woman of the Śūdra caste, of an unnatural crime, of performing magic rites, shall bathe and sprinkle himself with water, reciting the seven verses addressed to *Apas*, or those addressed to Varuṇa,......... in proportion to the frequency with which the crime has been committed.’
 
 *Yājñavalkya* (3.289).—‘One who performs sacrifices for an Apostate, one
-who performs magic rites for encompassing the death of some person, one
-who misuses the Veda, or one who abandons a person who has sought his
-protection, should perform three *Kṛcchra* penances and subsist upon
-barley for one year.’
+who performs magic rites for encompassing the death of some person, one who misuses the Veda, or one who abandons a person who has sought his protection, should perform three *Kṛcchra* penances and subsist upon barley for one year.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -40,14 +40,9 @@ The mention of ‘colour, number and other details’ is only by way of illustra
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 347), which adds the
-following notes’—‘*anuyojyaḥ*’ ‘should be questioned’,—‘*rūpam*’, ‘white
-and so forth’,—‘*saṅkhyā*,’ ‘four, five &c’,—the term ‘*ādi*’ is meant
-to include the ‘kind’ character and such other details regarding lost
-property.
+This verse is quoted in *Vivādaratnākara* (p. 347), which adds the following notes’—‘*anuyojyaḥ*’ ‘should be questioned’,—‘*rūpam*’, ‘white and so forth’,—‘*saṅkhyā*,’ ‘four, five &c’,—the term ‘*ādi*’ is meant to include the ‘kind’ character and such other details regarding lost property.
 
-It is quoted in *Madanapārijāta* (p. 226);—and in *Nṛsiṃhaprasāda*
-(Āhnika, p. 36a).
+It is quoted in *Madanapārijāta* (p. 226);—and in *Nṛsiṃhaprasāda* (Āhnika, p. 36a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

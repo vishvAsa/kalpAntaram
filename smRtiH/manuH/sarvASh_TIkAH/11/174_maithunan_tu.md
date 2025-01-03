@@ -29,8 +29,7 @@ This verse is quoted in *Parāśaramādhava* (Prāyaścitta p. 276);—and in
 **(verses 11.173-174)  
 **
 
-See Comparative notes for [Verse
-11.173].
+See Comparative notes for [Verse 11.173].
 </details>
 
 <details><summary>भारुचिः</summary>

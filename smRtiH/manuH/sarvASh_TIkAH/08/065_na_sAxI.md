@@ -46,15 +46,11 @@ Similarly with those that follow.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Kuśīlava*’—‘Actors, dancers singers and so forth’
-(Medhātithi);—‘actors’ (Nārāyaṇa);—‘actors and so forth’ (Govindarāja
-and Kullūka);—‘singers’ (Nandana).
+‘*Kuśīlava*’—‘Actors, dancers singers and so forth’ (Medhātithi);—‘actors’ (Nārāyaṇa);—‘actors and so forth’ (Govindarāja and Kullūka);—‘singers’ (Nandana).
 
 This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 66);—in
 *Nṛsiṃhaprasāda* (Vyavahāra, p. 10a);—in *Vyavahāra-Bālambhaṭṭī* (p.
-281);—in *Smṛticandrikā*, (Vyavahāra, p. 177);—in *Kṛtyakalpataru*
-(80b);—and in *Vīramitrodaya* (Vyavahāra, 49b), which reproduces
-Medhātithi’s, explanation.
+281);—in *Smṛticandrikā*, (Vyavahāra, p. 177);—in *Kṛtyakalpataru* (80b);—and in *Vīramitrodaya* (Vyavahāra, 49b), which reproduces Medhātithi’s, explanation.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -62,8 +58,7 @@ Medhātithi’s, explanation.
 **(verses 8.64-67)  
 **
 
-See Comparative notes for [Verse
-8.64].
+See Comparative notes for [Verse 8.64].
 </details>
 
 <details><summary>भारुचिः</summary>

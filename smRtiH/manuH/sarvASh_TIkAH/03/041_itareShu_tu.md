@@ -28,9 +28,7 @@ It is for this reason that these marriages have been deprecatingly called ‘inf
 
 This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 865);—in
 *Parāśaramadhava* (Ācāra, p. 488);—in *Aparārka* (p. 115);—in *Hemādri*
-(Dāna, p. 683);—in *Smṛticandrikā* (Saṃskāra, p. 230), which explains
-‘*Nṛśaṃsaḥ*’ as ‘cruel,’ ‘*brahmadviṣaḥ*’ as ‘inimical to the Veda’;—and
-in *Saṃskāramayūkha* (p. 99), which adds the same notes.
+(Dāna, p. 683);—in *Smṛticandrikā* (Saṃskāra, p. 230), which explains ‘*Nṛśaṃsaḥ*’ as ‘cruel,’ ‘*brahmadviṣaḥ*’ as ‘inimical to the Veda’;—and in *Saṃskāramayūkha* (p. 99), which adds the same notes.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -38,8 +36,7 @@ in *Saṃskāramayūkha* (p. 99), which adds the same notes.
 **(verses 3.39-42)  
 **
 
-See Comparative notes for [Verse
-3.39].
+See Comparative notes for [Verse 3.39].
 </details>
 
 <details><summary>Bühler</summary>

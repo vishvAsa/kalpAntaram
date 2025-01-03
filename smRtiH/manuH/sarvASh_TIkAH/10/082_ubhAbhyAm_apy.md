@@ -42,13 +42,9 @@ The conclusion therefore is that so long as the Brāhmaṇa can make a living by
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Nārāyaṇa thinks that ‘*Kṛṣi*’ means here that agriculture whereat the
-Brāhmaṇa himself does not do any manual work; bat Govindarāja and
-Kullūka reject this view.
+Nārāyaṇa thinks that ‘*Kṛṣi*’ means here that agriculture whereat the Brāhmaṇa himself does not do any manual work; bat Govindarāja and Kullūka reject this view.
 
-This verse is quoted in *Mitākṣarā*, (3.35), to the; effect that in
-abnormal times for purposes of livelihood the Br āh maṇa may have
-recourse to the functions of the Vaiśya, but never to those of the
+This verse is quoted in *Mitākṣarā*, (3.35), to the; effect that in abnormal times for purposes of livelihood the Br āh maṇa may have recourse to the functions of the Vaiśya, but never to those of the
 *Śūdra*;—in *Madanapārijāta*, (p. 232);—and in *Nṛsiṃhaprasāda* (Āhnika,
 36b).
 </details>
@@ -58,8 +54,7 @@ recourse to the functions of the Vaiśya, but never to those of the
 **(verses 10.81-84)  
 **
 
-See Comparative notes for [Verse
-10.81].
+See Comparative notes for [Verse 10.81].
 </details>
 
 <details><summary>भारुचिः</summary>

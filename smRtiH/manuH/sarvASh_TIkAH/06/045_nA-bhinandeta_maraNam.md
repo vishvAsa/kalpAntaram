@@ -28,8 +28,7 @@ Worldliness having thus ceased, when the man’s body falls off, he attains Libe
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 953), which explains ‘*nirveśam*’
-as ‘time limit’—in *Parāśaramādhava* (Ācāra, p. 569);—and in
+This verse is quoted in *Aparārka* (p. 953), which explains ‘*nirveśam*’ as ‘time limit’—in *Parāśaramādhava* (Ācāra, p. 569);—and in
 *Nṛsiṃhaprasāda* (Saṃskāra, p. 70a).
 </details>
 

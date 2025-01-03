@@ -36,8 +36,7 @@ This verse is quoted in *Aparārka* (1107.)
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (54.27).—‘Those twice-born men who are anxious to make an
-atonement for having committed an unlawful act, or for having neglected
-the study of the Veda, must he made to perform the same penance (three
+atonement for having committed an unlawful act, or for having neglected the study of the Veda, must he made to perform the same penance (three
 *Prājāpatyas*).’
 </details>
 

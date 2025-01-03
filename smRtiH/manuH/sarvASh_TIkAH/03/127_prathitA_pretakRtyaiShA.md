@@ -42,10 +42,7 @@ Others, however, have regarded this as indicating another incentive, for one des
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vidhukṣaye*’—‘On the moonless day’.—Govindarāja reads ‘*vidhiḥ
-kṣaye*’, which Medhātithi notes with approval, and explains as—the
-‘*vidhi*’, *rite*, named—‘*nāma*’—‘*Pitrya*,’ is to be performed *in the
-house*, ‘*kṣaye, gṛhe*.’
+‘*Vidhukṣaye*’—‘On the moonless day’.—Govindarāja reads ‘*vidhiḥ kṣaye*’, which Medhātithi notes with approval, and explains as—the ‘*vidhi*’, *rite*, named—‘*nāma*’—‘*Pitrya*,’ is to be performed *in the house*, ‘*kṣaye, gṛhe*.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -54,17 +51,13 @@ house*, ‘*kṣaye, gṛhe*.’
 day.’
 
 *Viṣṇu* (76.1-2).—‘The moonless day, the three Aṣṭakās, the three
-Anvaṣṭakās, the full-moon days of the month of Māgha, the thirteenth day
-of the darker fortnight following after the full-moon day of the month
-of Bhādra;—these are the occasions for obligatory Śrāddha, laid down by
-Prajāpati; one not offering Śrāddha on these days falls into hell.’
+Anvaṣṭakās, the full-moon days of the month of Māgha, the thirteenth day of the darker fortnight following after the full-moon day of the month of Bhādra;—these are the occasions for obligatory Śrāddha, laid down by Prajāpati; one not offering Śrāddha on these days falls into hell.’
 
 *Baudhāyana* (2.8.1).—‘Offerings to Pitṛs are praiseworthy and conducive
 to longevity, heaven and prosperity.’
 
 *Prajāpati-Smṛti* (21).—‘If one performs Śrāddha on the moonless day,
-with the help of Brāhmaṇas learned in the Veda, his Pitṛs become
-satisfied and reward him with what he desires.’
+with the help of Brāhmaṇas learned in the Veda, his Pitṛs become satisfied and reward him with what he desires.’
 </details>
 
 <details><summary>Bühler</summary>

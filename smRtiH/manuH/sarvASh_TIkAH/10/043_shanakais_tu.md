@@ -39,8 +39,7 @@ It is not that the man’s caste becomes *lost*; all that happens is that he bec
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtattva* II (p. 268) to the effect that even
-in in modern times *Kṣatriyas* can become degraded to *śūdrahood*.
+This verse is quoted in *Smṛtattva* II (p. 268) to the effect that even in in modern times *Kṣatriyas* can become degraded to *śūdrahood*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -49,16 +48,10 @@ in in modern times *Kṣatriyas* can become degraded to *śūdrahood*.
 **
 
 *Mahabharata* (13.33.21-22; 13.35.17-18).—‘Śākas, Yavanas, Kāmbojas and
-other Kṣatriya castes became degraded by not seeing the Brāhmaṇas.
-Drāviḍas, Kaliṅgas, Pulindas, Uśīnaras, Kolisarpas and Māhiṣakas and
-other Kṣatriya castes became degraded by not seeing the Brāhmaṇas.
-Kirātas, Yavanas and other Kṣatriya castes became degraded because they
-would not bear with the Brāhmaṇas.’
+other Kṣatriya castes became degraded by not seeing the Brāhmaṇas. Drāviḍas, Kaliṅgas, Pulindas, Uśīnaras, Kolisarpas and Māhiṣakas and other Kṣatriya castes became degraded by not seeing the Brāhmaṇas. Kirātas, Yavanas and other Kṣatriya castes became degraded because they would not bear with the Brāhmaṇas.’
 
 *Śukranīti* (4.4.74).—‘The *Yavanas* have all the four castes mixed
-together; they recognise authority other than the Vedas and live in the
-North and West. Their Śāstras have been framed for their welfare by
-their own teachers.’
+together; they recognise authority other than the Vedas and live in the North and West. Their Śāstras have been framed for their welfare by their own teachers.’
 </details>
 
 <details><summary>भारुचिः</summary>

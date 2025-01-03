@@ -22,8 +22,7 @@ The child that is born for her from another man is not her ‘child’; similarl
 
 (Verse 162 of others.)
 
-‘*Naprajā*’—‘Is not her offspring at all’ (Medhātithi, Nārāyaṇa and
-Nandana);—‘is not her *lawful* child’ (Kullūka and Govindarāja).
+‘*Naprajā*’—‘Is not her offspring at all’ (Medhātithi, Nārāyaṇa and Nandana);—‘is not her *lawful* child’ (Kullūka and Govindarāja).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -31,8 +30,7 @@ Nandana);—‘is not her *lawful* child’ (Kullūka and Govindarāja).
 **(verses 5.154-163)  
 **
 
-See Comparative notes for [Verse
-5.154].
+See Comparative notes for [Verse 5.154].
 </details>
 
 <details><summary>Bühler</summary>

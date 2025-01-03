@@ -20,8 +20,7 @@ The man who, through greed, steals gems, pearls and corals, or the various kinds
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.213);—in *Parāśaramādhava*
-(Prāyaścitta, p. 511);—and in *Nṛsiṃhaprasāda* (Saṃskāra 74a).
+This verse is quoted in *Mitākṣarā* (3.213);—in *Parāśaramādhava* (Prāyaścitta, p. 511);—and in *Nṛsiṃhaprasāda* (Saṃskāra 74a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -29,8 +28,7 @@ This verse is quoted in *Mitākṣarā* (3.213);—in *Parāśaramādhava*
 **(verses 12.60-68)  
 **
 
-See Comparative notes for [Verse
-12.60].
+See Comparative notes for [Verse 12.60].
 </details>
 
 <details><summary>Bühler</summary>

@@ -22,10 +22,7 @@ For the Vaiśya, tending of cattle, giving of gifts, sacrificing and studying; a
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśara-mādhava* (Ācāra, p. 416), in support
-of *Parāśara*, verse 63;—and in the *Vīramitrodaya*—*Paribhāṣā* (p. 45),
-which explains ‘*Vaṇikpatham*’ as ‘trade’ and ‘*Kusīdam*’ as ‘lending
-money on interest’.
+This verse is quoted in *Parāśara-mādhava* (Ācāra, p. 416), in support of *Parāśara*, verse 63;—and in the *Vīramitrodaya*—*Paribhāṣā* (p. 45), which explains ‘*Vaṇikpatham*’ as ‘trade’ and ‘*Kusīdam*’ as ‘lending money on interest’.
 </details>
 
 <details><summary>Bühler</summary>

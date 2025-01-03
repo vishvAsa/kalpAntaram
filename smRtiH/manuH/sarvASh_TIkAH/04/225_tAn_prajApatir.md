@@ -28,8 +28,7 @@ This dialogue between Prajāpati and the gods is purely imaginary; all that is m
 
 **(verses 4.224-225)**
 
-See Explanatory notes for [Verse
-4.224].
+See Explanatory notes for [Verse 4.224].
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -37,8 +36,7 @@ See Explanatory notes for [Verse
 **(verses 4.224-225)  
 **
 
-See Comparative notes for [Verse
-4.224].
+See Comparative notes for [Verse 4.224].
 </details>
 
 <details><summary>Bühler</summary>

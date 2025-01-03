@@ -27,8 +27,7 @@ When some cows are standing, some are walking and some are sitting, he shall do 
 **(verses 11.108-116)  
 **
 
-See Explanatory notes for [Verse
-11.108].
+See Explanatory notes for [Verse 11.108].
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -36,8 +35,7 @@ See Explanatory notes for [Verse
 **(verses 11.108-116)  
 **
 
-See Comparative notes for [Verse
-11.108].
+See Comparative notes for [Verse 11.108].
 </details>
 
 <details><summary>Bühler</summary>

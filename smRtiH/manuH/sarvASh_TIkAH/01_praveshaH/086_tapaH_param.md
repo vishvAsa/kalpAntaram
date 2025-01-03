@@ -37,9 +37,7 @@ In *Charity*, there is neither physical suffering, nor need for internal discipl
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in Hemādri—Pariśeṣa—Kāla, p. 657, where ‘*Tapas*’
-is explained as ‘Kṛcchra, Cāndrāyaṇa etc.,’ and ‘*jñāna*’ as ‘*dhyāna*’
-‘meditation’;—in the Vīramitrodaya—Paribhāṣā, p. 48;—in the
+This verse is quoted in Hemādri—Pariśeṣa—Kāla, p. 657, where ‘*Tapas*’ is explained as ‘Kṛcchra, Cāndrāyaṇa etc.,’ and ‘*jñāna*’ as ‘*dhyāna*’ ‘meditation’;—in the Vīramitrodaya—Paribhāṣā, p. 48;—in the
 *Smṛticandrikā*—Samskāra, p. 27, which explains ‘*par* *am*’ as ‘the
 most important;’—and in the *Kṛtyasārsamuccaya*, p. 80.
 </details>
@@ -49,8 +47,7 @@ most important;’—and in the *Kṛtyasārsamuccaya*, p. 80.
 **(Verse 81-86)  
 **
 
-See Comparative notes for [Verse 1.81 (Dharma in the
-Kṛta-yuga)].
+See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 </details>
 
 <details><summary>Bühler</summary>

@@ -64,33 +64,20 @@ In regard to the ‘*man who eats his food*’ and the rest, the present text sh
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Mss. N and S place 317 and its *Bhāṣya* after 318 but both add a note to
-the effect—‘*ayam shloko rājabhirityasmāt pūrvam lekhanīyaḥ*’, ‘this
-verse should be written after the verse *rājabhiḥ &c*.’ This is
-apparently a corrector’s note on the mistake committed by a copyist.
+Mss. N and S place 317 and its *Bhāṣya* after 318 but both add a note to the effect—‘*ayam shloko rājabhirityasmāt pūrvam lekhanīyaḥ*’, ‘this verse should be written after the verse *rājabhiḥ &c*.’ This is apparently a corrector’s note on the mistake committed by a copyist.
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 509), which adds the
-following note:—‘*Kilviṣam*’ is to be construed with each of the
-four—‘*annāda*’, ‘*pati*’, ‘*guru*’ and ‘*rājā*’—and ‘*mārṣṭi*’ means
-‘passes on.’
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 509), which adds the following note:—‘*Kilviṣam*’ is to be construed with each of the four—‘*annāda*’, ‘*pati*’, ‘*guru*’ and ‘*rājā*’—and ‘*mārṣṭi*’ means ‘passes on.’
 
-It is quoted in *Prāyaścittaviveka* (p. 146), which explains ‘*mārṣṭi*’
-as ‘transfer’;—and in *Hemādri* (Śrāddha, p. 781).
+It is quoted in *Prāyaścittaviveka* (p. 146), which explains ‘*mārṣṭi*’ as ‘transfer’;—and in *Hemādri* (Śrāddha, p. 781).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (19.44).—‘They quote the following verse:—“The slayer of a
-learned Brāhmaṇa casts his guilt on him who eats his food; a misbehaving
-wife on her husband; a student and a sacrificer on the teacher and the
-officiating priest; and a thief on the King.” The guilt falls on the
-King who pardons an offender, if he causes him to he slain, he destroys
-sin in accordance with the sacred law.’
+learned Brāhmaṇa casts his guilt on him who eats his food; a misbehaving wife on her husband; a student and a sacrificer on the teacher and the officiating priest; and a thief on the King.” The guilt falls on the King who pardons an offender, if he causes him to he slain, he destroys sin in accordance with the sacred law.’
 
 *Āpastamba* (1.19.15).—‘They quote the following:—“The murderer of a
-Brāhmaṇa learned in the Veda heaps his guilt on his guest; an innocent
-man on his calumniator; a thief set at liberty, on the King; and the
-petitioner, on him who makes false promises.”
+Brāhmaṇa learned in the Veda heaps his guilt on his guest; an innocent man on his calumniator; a thief set at liberty, on the King; and the petitioner, on him who makes false promises.”
 </details>
 
 <details><summary>भारुचिः</summary>

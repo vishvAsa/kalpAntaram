@@ -30,9 +30,7 @@ When a commodity placed on the boat happen, in course of the crossing, to be dam
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 642), which explains
-‘*dāśa*’ (or as it reads ‘*dāsa*’) as ‘the fisherman and others engaged
-for rowing the ferry.’
+This verse is quoted in *Vivādaratnākara* (p. 642), which explains ‘*dāśa*’ (or as it reads ‘*dāsa*’) as ‘the fisherman and others engaged for rowing the ferry.’
 </details>
 
 <details><summary>भारुचिः</summary>

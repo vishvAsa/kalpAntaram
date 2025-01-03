@@ -70,52 +70,30 @@ No; the use of the term ‘*dhani*,’ ‘*owner*,’ clearly indicates that the
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Śāstrāntareṇa*’—(Medhātithi, p. 965, l. 1)—This refers to Yājñavalkya,
-2.65. ‘*Vāsanasthamanākhyāya haste nyasya yadarpayet*’; and
-Nārada—‘*asaṅkhyātamavijñātam samudram yannidhīyate*.’
+‘*Śāstrāntareṇa*’—(Medhātithi, p. 965, l. 1)—This refers to Yājñavalkya, 2.65. ‘*Vāsanasthamanākhyāya haste nyasya yadarpayet*’; and Nārada—‘*asaṅkhyātamavijñātam samudram yannidhīyate*.’
 
-This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 109), which
-adds that the term ‘*śrotriya*’ includes also all such persons who have
-their attention too much taken up by other things to allow their looking
-after their belongings in *Smṛticandrikā* (Vyavahāra, p. 158), which
-notes the following reasons for neglect—(*a*) In regard to boundaries,
-people are apt to be lulled into security by the ease with which the
-boundary-line can be determined,—(*b*) in regard to women, their natural
-shyness lulls men into security,—(*c*) in the case of the king and the
-scholar, their minds are too much taken up with their temporal and
-spiritual concerns respectively;—and in *Vīramitrodaya*, (Vyavahāra,
-69b).
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 109), which adds that the term ‘*śrotriya*’ includes also all such persons who have their attention too much taken up by other things to allow their looking after their belongings in *Smṛticandrikā* (Vyavahāra, p. 158), which notes the following reasons for neglect—(*a*) In regard to boundaries, people are apt to be lulled into security by the ease with which the boundary-line can be determined,—(*b*) in regard to women, their natural shyness lulls men into security,—(*c*) in the case of the king and the scholar, their minds are too much taken up with their temporal and spiritual concerns respectively;—and in *Vīramitrodaya*, (Vyavahāra, 69b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Śukranīti* (4.5.445).—‘The following property cannot be destroyed by
-length of adverse, possession:—pledge, boundary-land, minor’s property,
-trust property, sealed deposit, female slaves, government property and
-the property of Vedic Scholars.’
+length of adverse, possession:—pledge, boundary-land, minor’s property, trust property, sealed deposit, female slaves, government property and the property of Vedic Scholars.’
 
 *Nārada* (1.81).—‘A pledge, a boundary, property of a child, an open
-deposit, a sealed deposit, women, what belongs to the King, or to the
-Vedic Scholar—none of these is lost by adverse possession.’
+deposit, a sealed deposit, women, what belongs to the King, or to the Vedic Scholar—none of these is lost by adverse possession.’
 
 *Bṛhaspati* (9.13, 14).—‘Forcible means should not be resorted to by the
-present occupant, or his son, in maintaining possession of the property
-of an infant, or of a learned Brāhmaṇa, or the property inherited from
-one’s father;—nor of cattle, a woman, a slave, or other property.’
+present occupant, or his son, in maintaining possession of the property of an infant, or of a learned Brāhmaṇa, or the property inherited from one’s father;—nor of cattle, a woman, a slave, or other property.’
 
 *Vaśiṣṭha* (16.18).—‘They quote the following:—“A pledge, a boundary,
-the property of minors, an open deposit, a sealed deposit, women, king’s
-property and property of the Vedic Scholar are not lost by being enjoyed
-by others.”
+the property of minors, an open deposit, a sealed deposit, women, king’s property and property of the Vedic Scholar are not lost by being enjoyed by others.”
 
 *Gautama* (12.39).—‘Animals, land, and females are not lost by adverse
 possession.’
 
 *Yājñavalkya* (2.25).—‘A pledge, a boundary, deposit—^(:) open and
-sealed, the property of infants, idiots, and of the King, and of women,
-and of the Vedic scholars;—with the exception of these, all property
-becomes lost to the owner by adverse possession extending over twenty
-years.’
+sealed, the property of infants, idiots, and of the King, and of women, and of the Vedic scholars;—with the exception of these, all property becomes lost to the owner by adverse possession extending over twenty years.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -42,76 +42,42 @@ The term ‘*payaḥ*’ ‘milk,’ has been added because it is not easy to co
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Sandhinī*’—‘a cow that gives milk only once a day’ (Medhātithi, and
-Govindarāja);—‘a cow in heat’ (Kullūka, who quotes Hārita in support,
-Nārāyaṇa and Rāghavānanda);—‘a cow big with calf’ (Nandana);—‘a cow
-whose own calf being dead, is milked with the help of another’s calf’
-(‘some one’ mentioned in Medhātithi.)
+‘*Sandhinī*’—‘a cow that gives milk only once a day’ (Medhātithi, and Govindarāja);—‘a cow in heat’ (Kullūka, who quotes Hārita in support, Nārāyaṇa and Rāghavānanda);—‘a cow big with calf’ (Nandana);—‘a cow whose own calf being dead, is milked with the help of another’s calf’ (‘some one’ mentioned in Medhātithi.)
 
-This verse is quoted in *Mitākṣarā* (on 3.290), where it is said that
-the unintentional drinking of these milks, if done once only, makes one
-liable to the penance of a single day’s fast, while if done
-intentionally, or if repeated, it entails a three days’ fast.
+This verse is quoted in *Mitākṣarā* (on 3.290), where it is said that the unintentional drinking of these milks, if done once only, makes one liable to the penance of a single day’s fast, while if done intentionally, or if repeated, it entails a three days’ fast.
 
-It is quoted in *Parāśaramādhava* (Ācāra, p. 712), where the
-‘*Sandhinī*’ is described as ‘the cow that approaches the bull *i.e*.,
-the cow in heat’,—and the ‘*anirdaśā*’ as ‘the one that has not passed
-more than ten days since delivery.’
+It is quoted in *Parāśaramādhava* (Ācāra, p. 712), where the ‘*Sandhinī*’ is described as ‘the cow that approaches the bull *i.e*., the cow in heat’,—and the ‘*anirdaśā*’ as ‘the one that has not passed more than ten days since delivery.’
 
-It is quoted in *Smṛtitattva* (p. 448), which adds the
-following:—‘*anirdaśā*’ is that which has not passed ten days since its
-delivery;—the ‘cow’ stands for the goat and the buffallo
-also;—‘*ekaśapha*’ are the horse and other one-hoofed animals;—the
-‘*sandhinī*’ is the cow that seeks for the bull; the avoiding of the
-second ‘*goḥ*’ in the second line indicates that it is the milk of the
+It is quoted in *Smṛtitattva* (p. 448), which adds the following:—‘*anirdaśā*’ is that which has not passed ten days since its delivery;—the ‘cow’ stands for the goat and the buffallo also;—‘*ekaśapha*’ are the horse and other one-hoofed animals;—the ‘*sandhinī*’ is the cow that seeks for the bull; the avoiding of the second ‘*goḥ*’ in the second line indicates that it is the milk of the
 *cow* only that has lost its calf, and not that of the goat or the
 buffalo.
 
-It is quoted in *Vīramitrodaya* (Āhnika, p. 525), which adds the
-following:—‘*nirdaśā*’ is the cow that has passed ten days since
-delivery;—‘*ekaśapha*’ are the horse and other one-hoofed
-animals—‘*āvika*’ is ‘the milk of the ewe’;—‘*sandhinī*’ is the cow in
-heat;—‘*vivatsā*’ is one devoid of her calf.
+It is quoted in *Vīramitrodaya* (Āhnika, p. 525), which adds the following:—‘*nirdaśā*’ is the cow that has passed ten days since delivery;—‘*ekaśapha*’ are the horse and other one-hoofed animals—‘*āvika*’ is ‘the milk of the ewe’;—‘*sandhinī*’ is the cow in heat;—‘*vivatsā*’ is one devoid of her calf.
 
-It is quoted in *Madanapārijāta* (p. 929), which contains the same
-remarks as *Mitākṣarā*;—in *Nṛsiṃhaprasāda* (Śrāddha p. 13a)—in
+It is quoted in *Madanapārijāta* (p. 929), which contains the same remarks as *Mitākṣarā*;—in *Nṛsiṃhaprasāda* (Śrāddha p. 13a)—in
 *Hemādri* (Śrāddha, p. 567);—in *Śuddhikaumudī* (p. 328), which explains
-‘*ekaśapha*’ as standing for the Horse and the like, and ‘*Sandhinī*’ as
-the cow ‘which has been covered by the bull’;—and in *Prāyaścittaviveka*
-(p. 335).
+‘*ekaśapha*’ as standing for the Horse and the like, and ‘*Sandhinī*’ as the cow ‘which has been covered by the bull’;—and in *Prāyaścittaviveka* (p. 335).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (17.22-26).—‘The milk of the cow until ten days have elapsed
-since its calving, which is its period of impurity;—also of the she-goat
-and the she-buffalo;—the milk of sheep and of the camel is never to be
-drunk, as also that of one-hoofed animals; also the milk of the cow that
-is constantly dripping milk, or which gives birth to twins or of the
-irregular cow; also of the cow that has lost its calf.’
+since its calving, which is its period of impurity;—also of the she-goat and the she-buffalo;—the milk of sheep and of the camel is never to be drunk, as also that of one-hoofed animals; also the milk of the cow that is constantly dripping milk, or which gives birth to twins or of the irregular cow; also of the cow that has lost its calf.’
 
 *Baudhāyana* (1.12.9-11).—‘The milk of an animal until its calf is ten
-days old, and of one that gives milk while pregnant should not be
-drunk;—nor that of a cow which has no calf, or which is milked with a
-strange calf; the milk of sheep, camels or one-hoofed animals.’
+days old, and of one that gives milk while pregnant should not be drunk;—nor that of a cow which has no calf, or which is milked with a strange calf; the milk of sheep, camels or one-hoofed animals.’
 
 *Āpastamba* (1.17.22-24).—‘The milk of sheep,—also the milk of the
-camel, the deer, the milk of the irregular cow and of the cow that gives
-birth to twins,—also of the cow within ten days of its calving.’
+camel, the deer, the milk of the irregular cow and of the cow that gives birth to twins,—also of the cow within ten days of its calving.’
 
 *Vaśiṣṭha* (14.34-85).—‘Let him not drink the milk of the cow in heat,
-nor of one whose calf has died;—nor that given by cows, buffalos and
-goats within ten days of calving.’
+nor of one whose calf has died;—nor that given by cows, buffalos and goats within ten days of calving.’
 
 *Viṣṇu* (51.28-40).—‘All milks, except that of the cow, the goat and the
-buffalo;—the milk of even these within ten days of calving;—also the
-milk of those which are irregular in milk, or which constantly drip
-milk, or which has lost its calf.’
+buffalo;—the milk of even these within ten days of calving;—also the milk of those which are irregular in milk, or which constantly drip milk, or which has lost its calf.’
 
 *Yājñavalkya* (1.170).—‘Milk of the cow in heat, of the cow within ten
-days of its calving, of the cow that has lost its calf,—one should
-avoid; also the milk of camels, of one-hoofed animals, of women, of wild
-animals and of sheep.’
+days of its calving, of the cow that has lost its calf,—one should avoid; also the milk of camels, of one-hoofed animals, of women, of wild animals and of sheep.’
 
 *Śaṅkha* (Aparārka, p. 216).—‘The milk of all animals with two teats
 should be avoided, except that of the goat.’
@@ -120,13 +86,7 @@ should be avoided, except that of the goat.’
 Vaiśya or Śūdra should not drink the milk of the Kapilā cow.’
 
 *Hārīta* (Vīramitrodaya-Āhnika, pp. 525, 526).—‘One shall not drink the
-milk of the cow in heat;—nor of the cow whose calf is absent or dead, of
-the cow that has been milked dry, nor of one just calved, till seven
-days have elapsed, according to some,—ten days, according to
-others,—while according to some, milk becomes drinkable after a
-month;—they say that for two months, all the milk should he given to the
-calf; during the third month, one shall milk only two teats, during the
-fourth three teats.’
+milk of the cow in heat;—nor of the cow whose calf is absent or dead, of the cow that has been milked dry, nor of one just calved, till seven days have elapsed, according to some,—ten days, according to others,—while according to some, milk becomes drinkable after a month;—they say that for two months, all the milk should he given to the calf; during the third month, one shall milk only two teats, during the fourth three teats.’
 </details>
 
 <details><summary>Bühler</summary>

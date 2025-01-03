@@ -22,20 +22,11 @@ This only refers to the ‘Twelve-year Penance,’ and not to any other of the s
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“According to Nārāyaṇa this verse refers to an unintentional offence;
-according to Kullūka and Rāghvānanda, to the theft of a small
-sum.”—Buhler.
+“According to Nārāyaṇa this verse refers to an unintentional offence; according to Kullūka and Rāghvānanda, to the theft of a small sum.”—Buhler.
 
-This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 415), as
-describing the ‘austerity’ mentioned in the preceding verse;—and in
+This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 415), as describing the ‘austerity’ mentioned in the preceding verse;—and in
 *Aparārka* (p. 1080), which remarks that this refers to a case where the
-gold stolen belonged to a Brāhmaṇa devoid of good qualities, or where
-the theft has been committed by a Brāhmaṇa possessing good qualities in
-times of distress for the support of his family;—and that in a case
-where one without qualities has stolen gold belonging; to a Brāhmaṇa
-with good qualities, in large quantities, or for such evil purposes as
-gambling and the like, the expiation must be one that ends in the
-culprit’s death.
+gold stolen belonged to a Brāhmaṇa devoid of good qualities, or where the theft has been committed by a Brāhmaṇa possessing good qualities in times of distress for the support of his family;—and that in a case where one without qualities has stolen gold belonging; to a Brāhmaṇa with good qualities, in large quantities, or for such evil purposes as gambling and the like, the expiation must be one that ends in the culprit’s death.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -46,8 +37,7 @@ culprit’s death.
 [\[See above
 8.314-316.\]]
 
-See Comparative notes for [Verse
-11.99].
+See Comparative notes for [Verse 11.99].
 </details>
 
 <details><summary>भारुचिः</summary>

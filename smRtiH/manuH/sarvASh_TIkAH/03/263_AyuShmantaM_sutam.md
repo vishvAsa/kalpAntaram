@@ -24,9 +24,7 @@ Having eaten the said ball, ‘*she brings forth*’—gives birth to—‘*a so
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 759);—in *Aparārka*
-(p. 550);—in *Śrāddhakriyākaumudī* (p. 215):—and in *Gadādharapaddhati*
-(Kāla, p. 553).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 759);—in *Aparārka* (p. 550);—in *Śrāddhakriyākaumudī* (p. 215):—and in *Gadādharapaddhati* (Kāla, p. 553).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -34,8 +32,7 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 759);—in *Aparārka*
 **(verses 3.262-263)  
 **
 
-See Comparative notes for [Verse
-3.262].
+See Comparative notes for [Verse 3.262].
 </details>
 
 <details><summary>Bühler</summary>

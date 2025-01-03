@@ -50,21 +50,17 @@ On this point he puts forward the different opinions that have been held.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Hopkins remarks “*four* schools are noted but he ignores the fifth,—the
-Siddhānta—‘*trivargamiti tu sthitiḥ*’ ‘the truth is that it is the
-aggregate of the three.’
+Hopkins remarks “*four* schools are noted but he ignores the fifth,—the Siddhānta—‘*trivargamiti tu sthitiḥ*’ ‘the truth is that it is the aggregate of the three.’
 
 This verse is quoted in *Aparārka* (p. 158), which adds that *Dharma*,
 *Artha* and *Kāma* are the ‘group of three’;—this constitutes the
-‘*Śreyaḥ*’, which one should constantly bear in mind as the aim to be
-attained.
+‘*Śreyaḥ*’, which one should constantly bear in mind as the aim to be attained.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (9.48.49).—‘Either the morning or the midday or tho evening,
-he shall not make devoid of merit, wealth and pleasure;—from among these
-he should regard merit as the highest.’
+he shall not make devoid of merit, wealth and pleasure;—from among these he should regard merit as the highest.’
 
 *Vaśiṣṭha* (1.1).—‘The investigation of Dharma for the good of man.’
 

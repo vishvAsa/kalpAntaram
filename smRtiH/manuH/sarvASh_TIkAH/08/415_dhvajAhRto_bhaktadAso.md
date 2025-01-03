@@ -105,24 +105,15 @@ There is no force in this objection. Because in his case ‘slavery’ is not in
 
 *Cf*. 8.49, 177 and 9.229.
 
-‘*Dhvajāhṛtaḥ*’—‘Captured in war’ (Medhātithi);—‘who has become a slave
-by marrying a slave-girl’ (Nārāyaṇa).
+‘*Dhvajāhṛtaḥ*’—‘Captured in war’ (Medhātithi);—‘who has become a slave by marrying a slave-girl’ (Nārāyaṇa).
 
-‘*Daṇḍadāsaḥ*’—‘Enslaved for debt’ (Medhātithi);—‘enslaved for having
-abandoned a religious order’. (Nārāyaṇa and Nandana).
+‘*Daṇḍadāsaḥ*’—‘Enslaved for debt’ (Medhātithi);—‘enslaved for having abandoned a religious order’. (Nārāyaṇa and Nandana).
 
-This verse is quoted in *Aparārka* (p. 789), which explains
-‘*daṇḍadāsa*’ as ‘one who has been enslaved in payment of fine imposed,’
-and adds that the list here given is not meant to be exhaustive.
+This verse is quoted in *Aparārka* (p. 789), which explains ‘*daṇḍadāsa*’ as ‘one who has been enslaved in payment of fine imposed,’ and adds that the list here given is not meant to be exhaustive.
 
-It is quoted in *Mitākṣarā* (2.181), which remarks that the list is not
-exhaustive; and *Bālambhaṭṭī* explains ‘*dhvajadāsa*’ as ‘a captive of
-war,’—‘*daṇḍadāsa*’ as ‘one who has abandoned a religious order and has
-not performed the consequent expiatory rite, and has thereupon, by way
-of punishment, been made by the king a life-long slave.
+It is quoted in *Mitākṣarā* (2.181), which remarks that the list is not exhaustive; and *Bālambhaṭṭī* explains ‘*dhvajadāsa*’ as ‘a captive of war,’—‘*daṇḍadāsa*’ as ‘one who has abandoned a religious order and has not performed the consequent expiatory rite, and has thereupon, by way of punishment, been made by the king a life-long slave.
 
-It is quoted in *Parāśaramādhava* (Vyavahāra, p. 240), which also notes
-that the list is not exhaustive.
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 240), which also notes that the list is not exhaustive.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -130,8 +121,7 @@ that the list is not exhaustive.
 **(verses 8.410-418)  
 **
 
-See Comparative notes for [Verse
-8.410].
+See Comparative notes for [Verse 8.410].
 </details>
 
 <details><summary>भारुचिः</summary>

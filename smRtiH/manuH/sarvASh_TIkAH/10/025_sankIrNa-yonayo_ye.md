@@ -25,8 +25,7 @@ This verse serves to introduce the enumeration of the names in the following ver
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

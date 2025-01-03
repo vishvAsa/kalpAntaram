@@ -34,10 +34,7 @@ The child born of the *Brāhmaṇa* on the *Kṣatriya* or the *Vaiśya* mother,
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtikaumudī* (p. 4), which adds the following
-notes:—‘*Anantarastrījāḥ*,’ born of wives of inferior
-castes;—‘*mātṛdoṣāt*,’ by reason of the inferiority of the mother’s
-caste,—‘*anantaranāmnaḥ*,’ named after the mother’s caste.
+This verse is quoted in *Smṛtikaumudī* (p. 4), which adds the following notes:—‘*Anantarastrījāḥ*,’ born of wives of inferior castes;—‘*mātṛdoṣāt*,’ by reason of the inferiority of the mother’s caste,—‘*anantaranāmnaḥ*,’ named after the mother’s caste.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -45,8 +42,7 @@ caste,—‘*anantaranāmnaḥ*,’ named after the mother’s caste.
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

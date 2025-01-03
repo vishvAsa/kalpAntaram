@@ -40,8 +40,7 @@ This verse is quoted in *Aparārka* (p. 194).
 **(verses 4.135-136)  
 **
 
-See Comparative notes for [Verse
-4.135].
+See Comparative notes for [Verse 4.135].
 </details>
 
 <details><summary>Bühler</summary>

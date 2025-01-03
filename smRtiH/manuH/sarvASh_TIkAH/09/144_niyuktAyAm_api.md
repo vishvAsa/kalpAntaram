@@ -24,8 +24,7 @@ The brother-in-law ‘and the sister-in-law are both rightly regarded as ‘outc
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara*, (p. 587), which explains
-‘*avidhānataḥ*’ as ‘not in accordance with the method prescribed for
+This verse is quoted in *Vivādaratnākara*, (p. 587), which explains ‘*avidhānataḥ*’ as ‘not in accordance with the method prescribed for
 *Niyoga*’;—and in *Dattakamīmānsā*, (p. 29) as referring to the
 *Kṣetraja* son.
 </details>
@@ -35,8 +34,7 @@ This verse is quoted in *Vivādaratnākara*, (p. 587), which explains
 **(verses 9.143-144)  
 **
 
-See Comparative notes for [Verse
-9.143].
+See Comparative notes for [Verse 9.143].
 </details>
 
 <details><summary>भारुचिः</summary>

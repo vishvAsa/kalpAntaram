@@ -32,8 +32,7 @@ This verse is quoted in *Vivādaratnākara* (p. 347).
 **(verses 8.31-32)  
 **
 
-See Comparative notes for [Verse
-8.31].
+See Comparative notes for [Verse 8.31].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -35,8 +35,7 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 94).
 **(verses 225-228)  
 **
 
-See Comparative notes for [Verse
-2.225].
+See Comparative notes for [Verse 2.225].
 </details>
 
 <details><summary>Bühler</summary>

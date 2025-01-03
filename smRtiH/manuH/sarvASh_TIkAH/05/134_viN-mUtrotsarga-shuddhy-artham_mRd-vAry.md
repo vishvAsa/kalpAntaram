@@ -35,40 +35,27 @@ since this occurs among the latter group of six, for cleansing it earth need not
 
 (Verse 134 of others.)
 
-This verse is quoted in *Aparārka* (p. 271), which explains ‘*arthavat*’
-as ‘as much as may be needed for removing the smell and stains,’ and
-adds that in the case of the latter six of the twelve ‘impurities’
-(enumerated in the next verse) the use of clay is optional;—in
+This verse is quoted in *Aparārka* (p. 271), which explains ‘*arthavat*’ as ‘as much as may be needed for removing the smell and stains,’ and adds that in the case of the latter six of the twelve ‘impurities’ (enumerated in the next verse) the use of clay is optional;—in
 *Madanapārijāta* (p. 51), which adds that after the passing of urine and
-feces, washing with water is ‘*arthavat*,’ ‘useful’;—in *Vīramitrodaya*
-(Āhnika, p. 45), which explains ‘*arthavat*’ as ‘fulfilling the purposes
-of removing the smell and stains’;—and again on p. 104, to say that Manu
-should be understood to mean that *out* of the case of the twelve
-‘impurities,’ in some both water and clay should be used, while in some
-either of the two only;—and in *Hemādri* (Śrāddha, p. 794).
+feces, washing with water is ‘*arthavat*,’ ‘useful’;—in *Vīramitrodaya* (Āhnika, p. 45), which explains ‘*arthavat*’ as ‘fulfilling the purposes of removing the smell and stains’;—and again on p. 104, to say that Manu should be understood to mean that *out* of the case of the twelve ‘impurities,’ in some both water and clay should be used, while in some either of the two only;—and in *Hemādri* (Śrāddha, p. 794).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (1.42, 43).—‘Purification from defilement by unclean
-substances is effected when the stains and the smell have been
-removed;—and this shall be done first by water and then by earth.’
+substances is effected when the stains and the smell have been removed;—and this shall be done first by water and then by earth.’
 
 *Baudhāyana* (1.10.11-15).—‘After urinating, he shall cleanse it with
-earth and water; in like manner on evacuating bowels;—after an emission
-of semen, in the same manner as after urinating.’
+earth and water; in like manner on evacuating bowels;—after an emission of semen, in the same manner as after urinating.’
 
 *Āpastamba* (1.16.14-15).—‘On touching the effluvia of the nose or the
-eyes,... he shall either bathe or sip or merely touch water;—or he may
-touch moist cowdung, wet herbs or moist earth.’
+eyes,... he shall either bathe or sip or merely touch water;—or he may touch moist cowdung, wet herbs or moist earth.’
 
 *Vaśiṣṭha* (6.14, 16).—‘He shall perform the purification with water and
-with earth... For purification, the Brāhmaṇa shall take earth mixed with
-gravel from the river-bank.’
+with earth... For purification, the Brāhmaṇa shall take earth mixed with gravel from the river-bank.’
 
 *Viṣṇu* (60.24).—‘Having cleaned his hind parts with a clod of earth, or
-with brick...... he must rise and clean himself with water and earth—so
-as to remove the smell and the filth.’
+with brick...... he must rise and clean himself with water and earth—so as to remove the smell and the filth.’
 
 *Yājñavalkya* (1.17).—‘The man shall perform purification with earth and
 water fetched for the purpose—till the stain and the smell disappear.’

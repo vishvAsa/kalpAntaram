@@ -27,8 +27,7 @@ Also various forms of torments, being devoured by ravens and owls, tortures from
 [\[See above,
 4.88-89.\]]
 
-See Comparative notes for [Verse
-12.75].
+See Comparative notes for [Verse 12.75].
 </details>
 
 <details><summary>Bühler</summary>

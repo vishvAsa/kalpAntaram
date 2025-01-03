@@ -28,11 +28,7 @@ In the whole of this section on ‘deposits’ only two or three verses are mand
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 95), which adds the
-following notes:—‘*Akṣiṇvan*,’ not harassing the person who is believed
-to have been the holder of the deposit;—and in *Parāśaramādhava*
-(Vyavahāra, p. 209), which explains ‘*aprakṣiṇvan*’ (which is its
-reading for ‘*akṣiṇvan*’), as ‘not chastising.’
+This verse is quoted in *Vivādaratnākara* (p. 95), which adds the following notes:—‘*Akṣiṇvan*,’ not harassing the person who is believed to have been the holder of the deposit;—and in *Parāśaramādhava* (Vyavahāra, p. 209), which explains ‘*aprakṣiṇvan*’ (which is its reading for ‘*akṣiṇvan*’), as ‘not chastising.’
 </details>
 
 <details><summary>भारुचिः</summary>

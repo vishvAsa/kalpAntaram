@@ -74,13 +74,9 @@ What is meant being already expressed by the term ‘*twice-born*,’ the term �
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vaiśeṣyāt*’.—‘Through pre-eminence,—of qualities’ (Medhātithi),—‘of
-race’ (Govindarāja, Kullūka, Nārāyaṇa and Rāghavānanda).
+‘*Vaiśeṣyāt*’.—‘Through pre-eminence,—of qualities’ (Medhātithi),—‘of race’ (Govindarāja, Kullūka, Nārāyaṇa and Rāghavānanda).
 
-‘*Niyamasya dhāraṇāt*—‘On account of the observance of the restrictive
-rules, *i.e*., those prescribed for the Accomplished student’
-(Medhātithi, Govindarāja, Nārāyaṇa and Rāghavānanda);—‘on account of his
-possessing superior knowledge of the Veda’ (Kullūka).
+‘*Niyamasya dhāraṇāt*—‘On account of the observance of the restrictive rules, *i.e*., those prescribed for the Accomplished student’ (Medhātithi, Govindarāja, Nārāyaṇa and Rāghavānanda);—‘on account of his possessing superior knowledge of the Veda’ (Kullūka).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -94,8 +90,7 @@ possessing superior knowledge of the Veda’ (Kullūka).
 the sciences; it is he who expounds them to others.’
 
 *Pālakāpyasaṃhitā* (Vīramitrodaya-Saṃskāra, p. 513).—‘The Brāhmaṇa may
-teach the other three castes; the Kṣatriya, two castes, and the Vaiśya,
-only one caste.’
+teach the other three castes; the Kṣatriya, two castes, and the Vaiśya, only one caste.’
 </details>
 
 <details><summary>भारुचिः</summary>

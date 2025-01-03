@@ -55,20 +55,13 @@ Or, the root ‘*hanti*’ (in ‘hiṃsa’) may he taken as used in the sense 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Hiṃsyāt*’—‘Strike, or talk in an offensive manner, or act against’
-(Medhātithi);—‘act against’ (Kullūka);—‘injure’ (Govindarāja).
+‘*Hiṃsyāt*’—‘Strike, or talk in an offensive manner, or act against’ (Medhātithi);—‘act against’ (Kullūka);—‘injure’ (Govindarāja).
 
-‘*Tapasvinaḥ*’—‘All persons engaged in austerities, including those
-engaged in expiatory penances’ (Medhātithi and Govindarāja);—‘ascetics’
-(Nandana and Rāghavānanda).
+‘*Tapasvinaḥ*’—‘All persons engaged in austerities, including those engaged in expiatory penances’ (Medhātithi and Govindarāja);—‘ascetics’ (Nandana and Rāghavānanda).
 
-This verse is quoted in *Aparārka* (p. 223);—in *Mitākṣarā* (on 2.21),
-in the sense that no injury should be inflicted upon the persons
-mentioned, even though they attack one with murderous intent;—in
+This verse is quoted in *Aparārka* (p. 223);—in *Mitākṣarā* (on 2.21), in the sense that no injury should be inflicted upon the persons mentioned, even though they attack one with murderous intent;—in
 *Vyāvahāra-Bālambhaṭṭī* (p. 118);—and in *Vīramitrodaya* (Vyāvahāra, p.
-7a), which explains the meaning to be that the persons mentioned should
-not be killed, even if they turn out to be ‘*ātatāyin*’, ‘dangerous
-criminal’.
+7a), which explains the meaning to be that the persons mentioned should not be killed, even if they turn out to be ‘*ātatāyin*’, ‘dangerous criminal’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -82,10 +75,7 @@ parents.’
 *Mahābhārata* (Śānti, 132.9).—‘He shall never injure the Brāhmaṇas.’
 
 *Viṣṇu* (30.43.47).—‘He shall never hear ill-will towards the person
-from whom he acquires any knowledge, temporal or scriptural or
-spiritual...... one who fills the ears with truth...... him one shall
-regard as Father and as Mother, and shall never bear ill-will towards
-him.’
+from whom he acquires any knowledge, temporal or scriptural or spiritual...... one who fills the ears with truth...... him one shall regard as Father and as Mother, and shall never bear ill-will towards him.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -48,9 +48,7 @@ This however is not right. Because the word ‘*madhu*’ is not denotative of t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The second half of this verse is quoted in *Mitākṣarā* (3.38), which
-adds the following notes:—‘*Dadhi* and *kṣīra*’ stand for all
-preparations of milk and curd; ‘*ghṛtam*’ for all oily substances;—in
+The second half of this verse is quoted in *Mitākṣarā* (3.38), which adds the following notes:—‘*Dadhi* and *kṣīra*’ stand for all preparations of milk and curd; ‘*ghṛtam*’ for all oily substances;—in
 *Madanapārijāta* (p. 232), which adds that ‘*kṣaudram*’ stands for
 *bees-wax*, honey itself being mentioned separately (‘*madhu*’);—and in
 *Saṃskāramayūkha* (p. 123).
@@ -61,8 +59,7 @@ preparations of milk and curd; ‘*ghṛtam*’ for all oily substances;—in
 **(verses 10.85-93)  
 **
 
-See Comparative notes for [Verse
-10.85].
+See Comparative notes for [Verse 10.85].
 </details>
 
 <details><summary>भारुचिः</summary>

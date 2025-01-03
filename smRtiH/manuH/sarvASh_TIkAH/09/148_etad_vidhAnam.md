@@ -48,11 +48,7 @@ set forth (in 153),—*viz*., ‘The Brāhmaṇa son shall take four shares etc.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 527), which adds that
-‘*ekayoniṣu*’ means ‘those belonging to the same caste’, ‘*ekajātānām*’,
-‘begotten by one man’,—‘*bahvīṣu*’, ‘on wives belonging to diverse
-castes’;—and notes that ‘*ekajātānām*’ is to be construed with
-‘*bahvīṣu*’ also.
+This verse is quoted in *Vivādaratnākara* (p. 527), which adds that ‘*ekayoniṣu*’ means ‘those belonging to the same caste’, ‘*ekajātānām*’, ‘begotten by one man’,—‘*bahvīṣu*’, ‘on wives belonging to diverse castes’;—and notes that ‘*ekajātānām*’ is to be construed with ‘*bahvīṣu*’ also.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -60,8 +56,7 @@ castes’;—and notes that ‘*ekajātānām*’ is to be construed with
 **(verses 9.145-148)  
 **
 
-See Comparative notes for [Verse
-9.145].
+See Comparative notes for [Verse 9.145].
 </details>
 
 <details><summary>भारुचिः</summary>

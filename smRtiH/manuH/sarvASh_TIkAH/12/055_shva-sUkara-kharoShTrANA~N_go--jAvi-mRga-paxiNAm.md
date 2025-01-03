@@ -20,16 +20,14 @@ He who kills a Brāhmaṇa enters the womb of a dog, a pig, an ass, a camel, a c
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 700);—and in *Mitākṣarā*
-(3.208).
+This verse is quoted in *Madanapārijāta* (p. 700);—and in *Mitākṣarā* (3.208).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 12.53-59)**
 
-See Comparative notes for [Verse
-12.53].
+See Comparative notes for [Verse 12.53].
 </details>
 
 <details><summary>Bühler</summary>

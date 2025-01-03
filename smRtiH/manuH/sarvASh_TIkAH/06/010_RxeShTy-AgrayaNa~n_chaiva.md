@@ -22,11 +22,9 @@ According to some people the performance of the *Turāyaṇa* and the rest is ob
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 941), which explains ‘*ṛkṣeṣṭi*’
-as the *Nakṣatreṣṭi*, the sacrifice to the lunar mansions,—and the
+This verse is quoted in *Aparārka* (p. 941), which explains ‘*ṛkṣeṣṭi*’ as the *Nakṣatreṣṭi*, the sacrifice to the lunar mansions,—and the
 *Uttarāyaṇa* and *Dakṣiṇāyana* as the two six-monthly sacrifices
-pertaining to the two solstices;—and in *Parāśaramādhava* (Ācāra, p.
-528).
+pertaining to the two solstices;—and in *Parāśaramādhava* (Ācāra, p. 528).
 </details>
 
 <details><summary>भारुचिः</summary>

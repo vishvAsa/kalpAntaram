@@ -51,10 +51,7 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra,. p. 187).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (2.1.37-38).—‘If he unintentionally marries a female
-belonging to the same *Gotra* as himself he shall support her, treating
-her as his mother. If such a woman has borne a child, he shall perform
-the *Kṛcchra* penance during three months and pour two oblations into
-the fire.’
+belonging to the same *Gotra* as himself he shall support her, treating her as his mother. If such a woman has borne a child, he shall perform the *Kṛcchra* penance during three months and pour two oblations into the fire.’
 </details>
 
 <details><summary>भारुचिः</summary>

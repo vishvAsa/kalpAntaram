@@ -36,10 +36,7 @@ He who plants trees for payment. Planting them as a righteous act is not reprehe
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 688), which
-explains (on p. 694) ‘*gṛhasaṃveśakaḥ*’ as ‘one who makes a living by
-carpentry’;—in *Hemādri* (Śrāddha, p. 482);—and in *Nṛsiṃhaprasāda*
-(Śrāddha, p. 9a).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 688), which explains (on p. 694) ‘*gṛhasaṃveśakaḥ*’ as ‘one who makes a living by carpentry’;—in *Hemādri* (Śrāddha, p. 482);—and in *Nṛsiṃhaprasāda* (Śrāddha, p. 9a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -47,8 +44,7 @@ carpentry’;—in *Hemādri* (Śrāddha, p. 482);—and in *Nṛsiṃhaprasāda
 **(verses 3.150-166)  
 **
 
-See Comparative notes for [Verse
-3.150].
+See Comparative notes for [Verse 3.150].
 </details>
 
 <details><summary>Bühler</summary>

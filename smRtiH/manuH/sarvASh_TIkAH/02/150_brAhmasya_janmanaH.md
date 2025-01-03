@@ -42,10 +42,7 @@ mean not necessarily the Initiatory Ṛte, but only the getting up of the Veda. 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 31);—in *Parāśaramādhava*
-(Ācāra, p. 305) in support of the view that when a boy teaches an old
-man, the former is his superior;—and in *Vīramitrodaya* (Saṃskāra, p.
-480).
+This verse is quoted in *Madanapārijāta* (p. 31);—in *Parāśaramādhava* (Ācāra, p. 305) in support of the view that when a boy teaches an old man, the former is his superior;—and in *Vīramitrodaya* (Saṃskāra, p. 480).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -63,8 +60,7 @@ being* or an *uncultured person*,—is the result of ignorance.’
 forms the very basis of Dharma.’
 
 *Viṣṇu-smṛti* (Parāśaramādhava, p. 305).—‘One should behave towards the
-Teacher,—be he a child or of the same age as oneself,—as towards the
-Guru.’
+Teacher,—be he a child or of the same age as oneself,—as towards the Guru.’
 </details>
 
 <details><summary>Bühler</summary>

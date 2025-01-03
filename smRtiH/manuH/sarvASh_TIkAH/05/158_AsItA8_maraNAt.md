@@ -30,8 +30,7 @@ Under the said circumstances, if, by living upon fruits and roots, she happen to
 
 (Verse 158 of others.)
 
-This verse is quoted in *Mitākṣarā*, (on, 2.127) as forbidding the widow
-having recourse to another man for the sake of off-spring.
+This verse is quoted in *Mitākṣarā*, (on, 2.127) as forbidding the widow having recourse to another man for the sake of off-spring.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -39,8 +38,7 @@ having recourse to another man for the sake of off-spring.
 **(verses 5.154-163)  
 **
 
-See Comparative notes for [Verse
-5.154].
+See Comparative notes for [Verse 5.154].
 </details>
 
 <details><summary>Bühler</summary>

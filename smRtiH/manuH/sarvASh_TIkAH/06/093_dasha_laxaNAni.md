@@ -22,8 +22,7 @@ This describes the reward of what has just been enjoined. The mention of the rew
 
 **(verses 6.87-93)**
 
-See Comparative notes for [Verse
-6.87].
+See Comparative notes for [Verse 6.87].
 </details>
 
 <details><summary>भारुचिः</summary>

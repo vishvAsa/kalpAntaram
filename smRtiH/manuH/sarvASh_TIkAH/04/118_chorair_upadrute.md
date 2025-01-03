@@ -26,9 +26,7 @@ When the village has bees beset with thieves, when alarm has been caused by fire
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 188) to the effect that there
-should be option between (a) ‘the duration of the phenomenon’ and (b)
-‘the day and night’;—in *Parāśaramādhava* (Ācāra, p. 148);—in
+This verse is quoted in *Aparārka* (p. 188) to the effect that there should be option between (a) ‘the duration of the phenomenon’ and (b) ‘the day and night’;—in *Parāśaramādhava* (Ācāra, p. 148);—in
 *Vīramitrodaya* (Saṃskāra, p. 531) which explains ‘*adbhuteṣu*’ as ‘the
 rain of blood and the like’;—in *Puruṣārthacintāmaṇi* (p. 443);—in
 *Hemādri* (Kāla, p. 762), which explains ‘*adbhuteṣu*’ as ‘the rain of
@@ -38,8 +36,7 @@ blood’;—and in *Smṛticandrikā* (Saṃskāra, p, 150).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (16.34).—‘On account of a catastrophe, or fire-alarm, or
-completion of Veda, or vomitting or eating at a Śrāddha or at a
-sacrifice to men, it is unfit for study for one day and night.’
+completion of Veda, or vomitting or eating at a Śrāddha or at a sacrifice to men, it is unfit for study for one day and night.’
 
 *Baudhāyana* (11.22).—‘By reason of fire-calamity during one day and
 night.’
@@ -48,9 +45,7 @@ night.’
 fire-portents, there shall be no reading in the village.’
 
 *Pāraskara* (2.11.2, 5).—‘On account of eating at Śrāddha, or
-meteor-shower, or earthquake, or fire-calamity till the same time next
-day;—during running, while the accused or the outcast is looking on, and
-during a wonderful phenomenon, it is unfit for study during the time.’
+meteor-shower, or earthquake, or fire-calamity till the same time next day;—during running, while the accused or the outcast is looking on, and during a wonderful phenomenon, it is unfit for study during the time.’
 </details>
 
 <details><summary>Bühler</summary>

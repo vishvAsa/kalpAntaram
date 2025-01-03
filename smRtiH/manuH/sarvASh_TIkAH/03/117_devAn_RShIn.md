@@ -52,10 +52,7 @@ But why all this? The simple explanation is that the deities to whom sacrificers
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 456) without
-comment;—also on p. 395, as indieating (along with verse 115) the
-necessity of making the *Vaiśvadeva* and *Bali* offerings both in the
-evening and in the morning;—and in *Hemādri* (Śrāddha, p. 581).
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 456) without comment;—also on p. 395, as indieating (along with verse 115) the necessity of making the *Vaiśvadeva* and *Bali* offerings both in the evening and in the morning;—and in *Hemādri* (Śrāddha, p. 581).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -63,8 +60,7 @@ evening and in the morning;—and in *Hemādri* (Śrāddha, p. 581).
 *Viṣṇu* (67.42).—\[Reproduces Manu.\]
 
 *Baudhāyana* (27.21).—‘One should eat the remnant left by the Pitṛs, the
-gods, the dependents, the parents and the teacher; such is the
-prescribed law.’
+gods, the dependents, the parents and the teacher; such is the prescribed law.’
 </details>
 
 <details><summary>Bühler</summary>

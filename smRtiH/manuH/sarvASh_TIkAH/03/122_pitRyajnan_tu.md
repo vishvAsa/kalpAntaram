@@ -37,43 +37,30 @@ character becomes established. Though the term ‘*anumāsa*’ alone dignities 
 *Piṇḍapitṛyajña*, a Śrauta rite (Āśvalāyana, Śrauta-sūtra 2.6-7); and
 *Piṇḍānvāhāryaka* is another name for the monthly Śrāddha.”—Buhler.
 
-This verse is quoted in *Smṛtitattva*, (p. 165), where it is explained
-as laying down the order of sequence between *Piṇḍapitṛyajña* and
+This verse is quoted in *Smṛtitattva*, (p. 165), where it is explained as laying down the order of sequence between *Piṇḍapitṛyajña* and
 *Piṇḍānvāhāryaka*, as performed by the man with the consecrated
-fire;—the particle ‘*anu*’ denotes repetition;—‘*candrakṣaye*’ means ‘on
-the *Amāvasyā* day.’
+fire;—the particle ‘*anu*’ denotes repetition;—‘*candrakṣaye*’ means ‘on the *Amāvasyā* day.’
 
-It is quoted in *Kālaviveka* (p. 354) as laying down *Śrāddha* to be
-performed on the *Amāvasyā* day.
+It is quoted in *Kālaviveka* (p. 354) as laying down *Śrāddha* to be performed on the *Amāvasyā* day.
 
 *Madanapārijāta* (p. 321) quotes it in support of the view that all
-those texts that lay down the Vaiśvadeva offering as to be done before
-the *Śrāddha*, are to be taken as applying only to the *man who has set
-up the Śrauta Fire* (which is what is meant by the term ‘*agnimān*’ in
-the present verse);—again on p. 495, where it adds that
-‘*māsānumāsikam*’ means ‘every month’; and goes on to explain that
+those texts that lay down the Vaiśvadeva offering as to be done before the *Śrāddha*, are to be taken as applying only to the *man who has set up the Śrauta Fire* (which is what is meant by the term ‘*agnimān*’ in the present verse);—again on p. 495, where it adds that ‘*māsānumāsikam*’ means ‘every month’; and goes on to explain that
 *Piṇḍapitṛyajña* is to be performed also by the man who has not set up
-the *Śrauta* Fire; so that for the man with the ‘Śrauta Fire,’ as well
-as for the man with the ‘Domestic Fire,’ it is necessary to perform
+the *Śrauta* Fire; so that for the man with the ‘Śrauta Fire,’ as well as for the man with the ‘Domestic Fire,’ it is necessary to perform
 *Anvādhāna, Piṇḍapitṛyajña* and *Amāvasyā-Śrāddha*,—all on the same day.
 
 *Nirṇayasindhu* (p. 40) quotes this verse as permitting the performance
 of Śrāddha on a day on which there is *Caturdaśī* in the morning but
 *Amāvasyā* for the rest of the day.
 
-This is quoted in *Aparārka* (p. 418), which remarks that the repetitive
-form of the term ‘*māsānumāsikam*’ is meant to imply that the Śrāddha on
-the Amāvasyā day is compulsory;—in *Hemādri* (Kāla, p. 609) to the
-effect that ‘*Pitṛyajña*’ should be performed before the ‘*Śrāddha*’;—in
+This is quoted in *Aparārka* (p. 418), which remarks that the repetitive form of the term ‘*māsānumāsikam*’ is meant to imply that the Śrāddha on the Amāvasyā day is compulsory;—in *Hemādri* (Kāla, p. 609) to the effect that ‘*Pitṛyajña*’ should be performed before the ‘*Śrāddha*’;—in
 *Hemādri* (Śrāddha, pp. 72,171,321 and 1064);—in *Saṃskāraratnamālā*
-(pp. 956 and 989) to the effect that the *Amāvasyā-Śrāddha* should be
-performed after *Piṇḍapitṛyajña*; it explains ‘*Piṇḍānvāhāryakam*’ as
+(pp. 956 and 989) to the effect that the *Amāvasyā-Śrāddha* should be performed after *Piṇḍapitṛyajña*; it explains ‘*Piṇḍānvāhāryakam*’ as
 *Piṇḍānām piṇḍapitṛyajñārthānām anu paścāt āhṛyate kṛyate iti*,’ and
 calls it a name for the *Amāvasyā*
 
 *Śrāddha*;—in *Smṛtisāroddhāra* (p. 185), which explains
-‘*Piṇḍānvāhāryakam*’ as *Pārvaṇaśrāddha*, and expounds the same as
-‘*piṇḍāḥ anu brāhmaṇabhojanānantaram āhriyante asmin*’;—in
+‘*Piṇḍānvāhāryakam*’ as *Pārvaṇaśrāddha*, and expounds the same as ‘*piṇḍāḥ anu brāhmaṇabhojanānantaram āhriyante asmin*’;—in
 *Śrāddhakriyākaumudī* (p. 6) as laying down *Amāvasyā-Śrāddha*;—and in
 *Gadādharapaddhati* (Kāla, pp. 431 and 492).
 </details>
@@ -84,40 +71,28 @@ calls it a name for the *Amāvasyā*
 to those to whom his father offers it.’
 
 *Maitrāyaṇīya-pariśiṣṭa* (Do.).—‘Marriage, the birth of a son, the
-Pitrya Iṣṭi, Soma-sacrifice, sacred places, and the arrival of the right
-Brāhmaṇa,—these are occasions for the performance of Śrāddha by one
-whose father is living.’
+Pitrya Iṣṭi, Soma-sacrifice, sacred places, and the arrival of the right Brāhmaṇa,—these are occasions for the performance of Śrāddha by one whose father is living.’
 
 *Viṣṇu* (Do.).—‘If the man with his father living performs Śrāddha, he
-should offer it to those to whom his father offers it; if his
-grandfather is alive, to those to whom the grandfather offers it; if his
-father, grandfather and greatgrandfather are all alive, he shall not
-offer it at all.’
+should offer it to those to whom his father offers it; if his grandfather is alive, to those to whom the grandfather offers it; if his father, grandfather and greatgrandfather are all alive, he shall not offer it at all.’
 
 *Gautama* (15.2).—‘During the later fortnight, from the fifth day
 onwards, Śrāddha shall be performed.’
 
 *Yājñavalkya* (1. 217).—‘The Moonless day, the Aṣṭakās, the Auspicious
-ceremonies, the darker fortnight, the two solstices...... (these are the
-occasions for Śrāddha).’
+ceremonies, the darker fortnight, the two solstices...... (these are the occasions for Śrāddha).’
 
 *Vyāsa* (Aparārka, p. 417).—‘The Moonless day on which the moon sets
-after appearing is called *Sinīvālī*; on that day should Śrāddha be
-offered by Agnihotrins; and that day on which the moon is entirely
-invisible (called *Kuhū*), on that it should be offered by Brāhmaṇas
-without fire and by others.’
+after appearing is called *Sinīvālī*; on that day should Śrāddha be offered by Agnihotrins; and that day on which the moon is entirely invisible (called *Kuhū*), on that it should be offered by Brāhmaṇas without fire and by others.’
 
 *Laugākṣi* (Do., p. 418).—‘The man whose father is dead should offer
-Śrāddha every day, also every month on the moonless day, on auspicious
-occasions and also every year.’
+Śrāddha every day, also every month on the moonless day, on auspicious occasions and also every year.’
 
 *Uśanas* (Aparārka, p. 418).—‘The twice-born man whose father has died
-shall offer Śrāddha every day—be he with Fire or without Fire; also
-every month and every year.’
+shall offer Śrāddha every day—be he with Fire or without Fire; also every month and every year.’
 
 *Hārīta* (Do.).—‘While one’s father is living, one should avoid all
-Śrāddhas; but according to some people, he should offer it to those
-Pitṛs to whom his father offers it.’
+Śrāddhas; but according to some people, he should offer it to those Pitṛs to whom his father offers it.’
 </details>
 
 <details><summary>Bühler</summary>

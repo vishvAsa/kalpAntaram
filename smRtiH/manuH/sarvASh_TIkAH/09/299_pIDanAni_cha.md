@@ -45,8 +45,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 328).
 
 **(verses 9.298-300)**
 
-See Comparative notes for [Verse
-9.298].
+See Comparative notes for [Verse 9.298].
 </details>
 
 <details><summary>भारुचिः</summary>

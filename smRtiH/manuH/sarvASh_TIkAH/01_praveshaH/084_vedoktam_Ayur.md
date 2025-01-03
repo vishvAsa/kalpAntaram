@@ -51,13 +51,9 @@ Others again argue as follows:—Among the *Mantra* and *Arthavāda* texts of th
 *Medhātithi* (p. 39, l. 5)—‘*Dīrghasatreṣu*’—Sec Mīmāṃsā-Sūtra 6.7.31-40
 and Śabara on 6.7.7—
 
-> *yadi pañca pañāśataḥ ‘trivṛtaḥ*’ (*i*. *e*., the three days of the
-> *Gavāmayana*), *na saṃvatsarāḥ* \| *yadi saṃvatsarāḥ ‘trivṛtaḥ’, na
-> pañcapañcāśataḥ* \| *tasmāt virodhādanyatarad gauṇam* \|
+> *yadi pañca pañāśataḥ ‘trivṛtaḥ*’ (*i*. *e*., the three days of the > *Gavāmayana*), *na saṃvatsarāḥ* \| *yadi saṃvatsarāḥ ‘trivṛtaḥ’, na > pañcapañcāśataḥ* \| *tasmāt virodhādanyatarad gauṇam* \|
 
-This is the *virodha* mentioned by Medhātithi in line (6\] Which of the
-two is to be taken as *gauṇa* is explained by Śabara on 6.7.38, where
-the conclusion is that the term *saṃvatsara* should be regarded as
+This is the *virodha* mentioned by Medhātithi in line (6\] Which of the two is to be taken as *gauṇa* is explained by Śabara on 6.7.38, where the conclusion is that the term *saṃvatsara* should be regarded as
 *gauṇa*.
 
 *Medhātithi* ( p. 39, l. 12 )—*Śataśabdaśca bahunāmasu
@@ -71,8 +67,7 @@ Medhātithi himself.
 **(Verse 81-86)  
 **
 
-See Comparative notes for [Verse 1.81 (Dharma in the
-Kṛta-yuga)].
+See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 </details>
 
 <details><summary>Bühler</summary>

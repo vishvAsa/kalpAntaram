@@ -24,12 +24,9 @@ He should not wear these things, when they have been worn by his father and othe
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vidhānapārijāta* (p. 671);—in *Nirṇayasindhu*
-(p. 195) as laying down certain rules for the Accomplished Student;—in
+This verse is quoted in *Vidhānapārijāta* (p. 671);—in *Nirṇayasindhu* (p. 195) as laying down certain rules for the Accomplished Student;—in
 *Śuddhikaumudī* (p. 313), which explains ‘*Karaka*’ as *Kamaṇḍalu*,
-water-pot;—in *Nṛsiṃhaprasāda* (Saṃskāra, p. 71b);—in *Saṃskāramayūkha*
-(p. 71);—and in *Smṛtisāroddhāra* (p. 319), which also explains
-‘*Karaka*’ as *Kamaṇḍalu*.
+water-pot;—in *Nṛsiṃhaprasāda* (Saṃskāra, p. 71b);—in *Saṃskāramayūkha* (p. 71);—and in *Smṛtisāroddhāra* (p. 319), which also explains ‘*Karaka*’ as *Kamaṇḍalu*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

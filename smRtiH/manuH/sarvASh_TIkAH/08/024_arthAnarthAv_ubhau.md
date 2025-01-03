@@ -28,50 +28,28 @@ In the event of several suitors coming up at the same time, he shall take them u
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Arthānarthāvubhau buddhvā dharmādharmau ca kevalau*’—Medhātithi has
-given three explanations of this (See *Translation*):—‘Fully realizing
-the wordly evils and advantages, but paying due heed to Dharma and
-Adharma as alone conducive to spiritual results’
-(Kullūka);—‘discriminating the righteous and the unrighteous, and taking
-up the righteous first’ (Nārāyaṇa and Nandana);—‘knowing what will
-please and what displease the people and understanding what is just and
-what is unjust’ (Govindarāja).
+‘*Arthānarthāvubhau buddhvā dharmādharmau ca kevalau*’—Medhātithi has given three explanations of this (See *Translation*):—‘Fully realizing the wordly evils and advantages, but paying due heed to Dharma and Adharma as alone conducive to spiritual results’ (Kullūka);—‘discriminating the righteous and the unrighteous, and taking up the righteous first’ (Nārāyaṇa and Nandana);—‘knowing what will please and what displease the people and understanding what is just and what is unjust’ (Govindarāja).
 
-This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 46), as laying
-down the order in which the king is to take up the cases, when several
-come up at the same time;—in *Smṛticandrikā* (Vyavahāra, p. 80);—in
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 46), as laying down the order in which the king is to take up the cases, when several come up at the same time;—in *Smṛticandrikā* (Vyavahāra, p. 80);—in
 *Kṛtyakalpataru*, (16b);—and in *Vīramitrodaya* (Vyavahāra, p. 19a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Śukranīti* (4.5.113-117).—‘The King with the Ministers after receiving
-the plaintiff duly should first console him and then commence the trial,
-he should then enquire of the plaintiff standing submissively before him
-—*What is your business? What is your complaint? Do not be afraid—by
-what ruffian and under what circumstances hare you been molested?*’
+the plaintiff duly should first console him and then commence the trial, he should then enquire of the plaintiff standing submissively before him —*What is your business? What is your complaint? Do not be afraid—by what ruffian and under what circumstances hare you been molested?*’
 
 *Bṛhaspati* (1.24).—‘Let the King, or a member of the twice-born caste
-officiating as Chief-Judge, try causes, acting on principles of equity,
-and abiding by the opinion of the judges, and by the doctrine of the
-sacred law.’
+officiating as Chief-Judge, try causes, acting on principles of equity, and abiding by the opinion of the judges, and by the doctrine of the sacred law.’
 
 *Nārada* (1.31, 31, 35).—‘A King who acts justly must reject error when
-brought forward, and seek truth alone; because prosperity depends on the
-discharge of duty. Therefore let a King, after having seated himself on
-the seat of judgment, be equitable towards all beings, discarding
-selfish interests and acting the part of Yama Vaivasvata. Attending to
-the dictates of the Law, and adhering to the opinion of the Chief-Judge,
-he should try causes in due order, exhibiting great care.’
+brought forward, and seek truth alone; because prosperity depends on the discharge of duty. Therefore let a King, after having seated himself on the seat of judgment, be equitable towards all beings, discarding selfish interests and acting the part of Yama Vaivasvata. Attending to the dictates of the Law, and adhering to the opinion of the Chief-Judge, he should try causes in due order, exhibiting great care.’
 
 *Bṛhaspati* (Parāśaramādhava- Vyasa, p. 46).—‘Where two complainants
-arrive accusing each other and claiming the first hearing, the King
-shall admit them, either in the order of their castes, or in accordance
-with the comparative seriousness of the complaints.’
+arrive accusing each other and claiming the first hearing, the King shall admit them, either in the order of their castes, or in accordance with the comparative seriousness of the complaints.’
 
 *Kātyāyana* (Do.).—‘Between two mutual complainants, that man should be
-treated as the plaintiff whose hurt or complaint is more serious,—and
-not necessarily the man who appears first before the court.’
+treated as the plaintiff whose hurt or complaint is more serious,—and not necessarily the man who appears first before the court.’
 
 *Nārada* (Do.).—(Same as Kātyāyana.)
 </details>

@@ -50,8 +50,7 @@ This verse is quoted in *Vivādaratnākara* (p. 638);—and in
 **(verse 9.247)  
 **
 
-This verse is quoted in *Vivādaratnākara* (p. 638), which explains
-‘*vikṛtam*’ as being maimed of hands, feet and so forth;—and in
+This verse is quoted in *Vivādaratnākara* (p. 638), which explains ‘*vikṛtam*’ as being maimed of hands, feet and so forth;—and in
 *Vyavahāra-Bālambhaṭṭī* (p. 1053).
 </details>
 
@@ -60,8 +59,7 @@ This verse is quoted in *Vivādaratnākara* (p. 638), which explains
 **(verses 9.243-246)  
 **
 
-See Comparative notes for [Verse
-9.243].
+See Comparative notes for [Verse 9.243].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -39,8 +39,7 @@ This verse is quoted in *Nṛsiṃhaprasāda* (Śrāddha, p. 15b);—in
 **(verses 5.111-112)  
 **
 
-See Comparative notes for [Verse
-5.111].
+See Comparative notes for [Verse 5.111].
 </details>
 
 <details><summary>Bühler</summary>

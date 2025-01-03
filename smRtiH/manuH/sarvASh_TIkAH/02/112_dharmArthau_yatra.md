@@ -43,13 +43,7 @@ Though verse 215 below says that ‘one should not confer any benefit upon the t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 515), among texts
-laying down the Teacher’s duties;—in *Vidhānapārijāta* (p. 523), as
-mentioning those who should not be taught;—in *Madanapārjāta* (p. 103)
-as mentioning certain persons not fit for teaching;—in *Saṃskāramayūkha*
-(p. 51);—in *Saṃskāraratnamālā* (p. 312), which explains the meaning to
-be that ‘there is no merit in teaching a heretic who neglects the
-prescribed duties’;—and in *Smṛticandrikā* (Saṃskāra, p. 140).
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 515), among texts laying down the Teacher’s duties;—in *Vidhānapārijāta* (p. 523), as mentioning those who should not be taught;—in *Madanapārjāta* (p. 103) as mentioning certain persons not fit for teaching;—in *Saṃskāramayūkha* (p. 51);—in *Saṃskāraratnamālā* (p. 312), which explains the meaning to be that ‘there is no merit in teaching a heretic who neglects the prescribed duties’;—and in *Smṛticandrikā* (Saṃskāra, p. 140).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -58,14 +52,12 @@ prescribed duties’;—and in *Smṛticandrikā* (Saṃskāra, p. 140).
 **
 
 *Baudhāyana-Dharmasūtra* (2.4.9).—‘Where merit and wealth are not
-possible, nor is there an adequate desire to serve, there one may rather
-perish with his learning, than sow it on barren soil.’
+possible, nor is there an adequate desire to serve, there one may rather perish with his learning, than sow it on barren soil.’
 
 *Viṣṇu-Smṛti* (29.8).—(reproduces the words of Manu 112).
 
 *Yama* (Vīramitrodaya-Saṃskāra, p. 516).—‘Where there is no merit or
-wealth, nor desire to serve nor clxance of riches,—there one may perish
-along with his learning; he should never sow it on barren soil.’
+wealth, nor desire to serve nor clxance of riches,—there one may perish along with his learning; he should never sow it on barren soil.’
 </details>
 
 <details><summary>Bühler</summary>

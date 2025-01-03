@@ -30,39 +30,22 @@ Thus ends the treatment of ‘Joint Concerns.’—(211)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 221), which
-remarks that this distribution pertains to only cases where the thing to
-be divided is mentioned as common to all;—in *Kṛtyakalpataru* (90a);—and
-in *Vīramitrodaya* (Vyavahāra, 119b), which says that this refers, *not*
-to the fee that is prescribed for individual priests, but to the *common
-fee* of 1200 cows, which is prescribed for all the officiating priests.
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 221), which remarks that this distribution pertains to only cases where the thing to be divided is mentioned as common to all;—in *Kṛtyakalpataru* (90a);—and in *Vīramitrodaya* (Vyavahāra, 119b), which says that this refers, *not* to the fee that is prescribed for individual priests, but to the *common fee* of 1200 cows, which is prescribed for all the officiating priests.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (2.259).—‘Among traders carrying on a joint concern for
-profit, their profit and loss shall be commensurate with the share of
-capital contributed by each.’
+profit, their profit and loss shall be commensurate with the share of capital contributed by each.’
 
 *Nārada* (3.1-3).—When traders or others carry on business jointly, it
-is called *Partnership*. When several partners are jointly carrying on
-business for the purpose of profit, the contribution of funds towards
-the common stock of the association shall form the basis of their
-undertakings. Therefore let each contribute his proper share. The loss,
-expenses and profit of each partner are either equal to those of other
-partners or exceed them, or remain below them, according as his share is
-equal to theirs, or greater or less.’
+is called *Partnership*. When several partners are jointly carrying on business for the purpose of profit, the contribution of funds towards the common stock of the association shall form the basis of their undertakings. Therefore let each contribute his proper share. The loss, expenses and profit of each partner are either equal to those of other partners or exceed them, or remain below them, according as his share is equal to theirs, or greater or less.’
 
 *Bṛhaspati* (14.3).—‘As an equal, smaller, or larger share of the joint
-stock has been contributed by a partner, in the same proportion shall he
-defray charges, perform labour and obtain profit.’
+stock has been contributed by a partner, in the same proportion shall he defray charges, perform labour and obtain profit.’
 
 *Śukranīti* (4.5.614-618).—‘Those who deal in gold, grains and liquids,
-jointly, will have the earnings according to the amount of their share,
-greater, equal or less. Whatever portion has been stipulated
-beforehand,—equal, less or greater,—that shall he accepted. Expenditure
-he shall pay and do the labour also proportionately, and take the profit
-also in the same manner.’
+jointly, will have the earnings according to the amount of their share, greater, equal or less. Whatever portion has been stipulated beforehand,—equal, less or greater,—that shall he accepted. Expenditure he shall pay and do the labour also proportionately, and take the profit also in the same manner.’
 </details>
 
 <details><summary>भारुचिः</summary>

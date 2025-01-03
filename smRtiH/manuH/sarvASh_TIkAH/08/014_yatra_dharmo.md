@@ -39,10 +39,7 @@ In as much as the mention of ‘Justice and Injustice’ only, or of ‘Truth an
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (3.89).—‘Where justice hit by injustice enters a Court, and the
-members do not extract the dart from the wounds, they are hit by it
-themselves. Where justice is slain by injustice, and truth by falsehood,
-the members of the Court who look on with indifference, become doomed to
-destruction.’
+members do not extract the dart from the wounds, they are hit by it themselves. Where justice is slain by injustice, and truth by falsehood, the members of the Court who look on with indifference, become doomed to destruction.’
 
 *Kātyāyana* (Aparārka, p. 604).—(Same as Nārada.)
 </details>

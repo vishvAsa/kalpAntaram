@@ -30,9 +30,7 @@ He should do (these) standing, when the teacher is seated; advancing towards him
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 106), where ‘*abhigacchan*’
-is explained as ‘*Sammukham gacchan*’ ‘going forward towards him’,—and
-‘*pratyudgamanam*’ as *paścādgamanam*, ‘following behind’;—and in
+This verse is quoted in *Madanapārijāta* (p. 106), where ‘*abhigacchan*’ is explained as ‘*Sammukham gacchan*’ ‘going forward towards him’,—and ‘*pratyudgamanam*’ as *paścādgamanam*, ‘following behind’;—and in
 *Aparārka* (p. 56).
 </details>
 
@@ -43,13 +41,10 @@ is explained as ‘*Sammukham gacchan*’ ‘going forward towards him’,—and
 *Gautama* (2-34).—‘While the teacher is walking, he should follow him.’
 
 *Āpastamba-Dharmasūtra* (1.6.G.9).—‘When addressed, he should not answer
-seated; while the teacher is standing, he should not answer him without
-standing up; he should walk behind him while he is walking; when he is
-running, he should run behind him.’
+seated; while the teacher is standing, he should not answer him without standing up; he should walk behind him while he is walking; when he is running, he should run behind him.’
 
 *Pāraskara Gṛhyasūtra* (2-5-30).—‘If the teacher is lying down, he
-should be seated^; if he is seated, he should stand; if he is standing,
-he should be moving; if he is moving, he should be running.’
+should be seated^; if he is seated, he should stand; if he is standing, he should be moving; if he is moving, he should be running.’
 </details>
 
 <details><summary>Bühler</summary>

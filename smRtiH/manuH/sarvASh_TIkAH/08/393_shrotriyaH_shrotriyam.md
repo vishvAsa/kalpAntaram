@@ -34,12 +34,9 @@ The Vedic scholar who does not entertain a duly qualified Vedic scholar at such 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Śrotriyam*’—‘Who is *not* a neighbour’ (Medhātithi);—‘a neighbour’
-(Govindarāja, and Kullūka);—‘a resident of the same village’ (Nārāyaṇa).
+‘*Śrotriyam*’—‘Who is *not* a neighbour’ (Medhātithi);—‘a neighbour’ (Govindarāja, and Kullūka);—‘a resident of the same village’ (Nārāyaṇa).
 
-This verse is quoted in *Vivādaratnākara* (p. 359), which adds the
-explanation that the quantity of food that he might have eaten should be
-made to be given to the uninvited man.
+This verse is quoted in *Vivādaratnākara* (p. 359), which adds the explanation that the quantity of food that he might have eaten should be made to be given to the uninvited man.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -47,8 +44,7 @@ made to be given to the uninvited man.
 **(verses 8.392-393)  
 **
 
-See Comparative notes for [Verse
-8.392].
+See Comparative notes for [Verse 8.392].
 </details>
 
 <details><summary>भारुचिः</summary>

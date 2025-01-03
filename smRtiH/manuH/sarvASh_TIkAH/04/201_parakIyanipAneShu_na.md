@@ -26,48 +26,28 @@ This is a deprecatory exaggeration, supplementing the preceding prohibition,—(
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 169), which adds the
-following notes:—In view of the term ‘*Nipānakartuḥ*’ in the second
-line, the term ‘*Parakīya*’ should be taken to mean ‘made by another
-person’; as *Kalpataru* holds that ‘*Parakīya*’ must mean ‘made by
-another’,—whether consecrated or unconsecrated, since no distinction
-between them is made anywhere;—\[This appears to be a gist of
-Medhātithi’s explanation of ‘*Parakīya*,’ for which see *Translation*
-\];—‘*Nipāna*’ means ‘water-reservoir.’
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 169), which adds the following notes:—In view of the term ‘*Nipānakartuḥ*’ in the second line, the term ‘*Parakīya*’ should be taken to mean ‘made by another person’; as *Kalpataru* holds that ‘*Parakīya*’ must mean ‘made by another’,—whether consecrated or unconsecrated, since no distinction between them is made anywhere;—\[This appears to be a gist of Medhātithi’s explanation of ‘*Parakīya*,’ for which see *Translation* \];—‘*Nipāna*’ means ‘water-reservoir.’
 
-This verse is quoted also in *Kālaviveka* (p. 328), which too makes the
-same observations as *Vīramitrodaya* (just quoted).
+This verse is quoted also in *Kālaviveka* (p. 328), which too makes the same observations as *Vīramitrodaya* (just quoted).
 
-It is quoted also in *Aparārka* (p. 234), which makes the remark that
-the tank that has been consecrated and made over to the public cannot be
-called ‘*parakīya*’; and this favours Medhātithi’s interpretation of the
-verse, which is supported also by what follows in the next verse;—in
+It is quoted also in *Aparārka* (p. 234), which makes the remark that the tank that has been consecrated and made over to the public cannot be called ‘*parakīya*’; and this favours Medhātithi’s interpretation of the verse, which is supported also by what follows in the next verse;—in
 *Smṛtikaumudī* (p. 65), which explains ‘*parakīya*’ as ‘dug by another,’
-and says it cannot mean ‘belonging to another’; as is quite clear from
-what is added regarding the *nipānakartṛ*;—in *Hemādri* (Śrāddha, p.
-874);—in *Nityācārapradīpa* (p. 300), which explains ‘*parakīya*’ as
-‘dug by others’;—and is *Śuddhikaumudī* (p. 324), which says that
-‘*Kadācana*’ makes it clear that the prohibition is absolute.
+and says it cannot mean ‘belonging to another’; as is quite clear from what is added regarding the *nipānakartṛ*;—in *Hemādri* (Śrāddha, p. 874);—in *Nityācārapradīpa* (p. 300), which explains ‘*parakīya*’ as ‘dug by others’;—and is *Śuddhikaumudī* (p. 324), which says that ‘*Kadācana*’ makes it clear that the prohibition is absolute.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (2.3.5-6).—‘People should not perform their bath in water
-that has been dammed; a part of the merit goes to the man that built the
-dam. For this reason one should avoid the dams and wells built by
-others.’
+that has been dammed; a part of the merit goes to the man that built the dam. For this reason one should avoid the dams and wells built by others.’
 
 *Yājñavalkya* (1.159).—‘He shall not bathe in the tanks of other persons
-until he has taken out five clods of earth; he shall bathe in a river or
-in ponds dug by the gods, in lakes, and in springs.’
+until he has taken out five clods of earth; he shall bathe in a river or in ponds dug by the gods, in lakes, and in springs.’
 
 *Viṣṇu* (63.1).—‘He shall not perform his bath in tanks belonging to
 others.’
 
 *Paiṭhīnasi* (Vīramitrodaya-Āhnika, p. 169).—‘One shall avoid the dams
-and wells built by others; the builder becomes a partaker in the merit:
-one should bathe there after throwing in three handfuls of earth (and
-three jarfuls of water).’
+and wells built by others; the builder becomes a partaker in the merit: one should bathe there after throwing in three handfuls of earth (and three jarfuls of water).’
 </details>
 
 <details><summary>Bühler</summary>

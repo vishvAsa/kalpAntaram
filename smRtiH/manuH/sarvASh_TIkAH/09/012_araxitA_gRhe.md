@@ -36,8 +36,7 @@ This verse is meant to be a praise of the method laid down in the preceding vers
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 416), which explains
-‘*āptakāribhiḥ*’ as ‘trustworthy and alert.’
+This verse is quoted in *Vivādaratnākara* (p. 416), which explains ‘*āptakāribhiḥ*’ as ‘trustworthy and alert.’
 </details>
 
 <details><summary>भारुचिः</summary>

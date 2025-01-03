@@ -24,10 +24,7 @@ There is not much useful purpose served by this verse.—(7)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“Regarding the term *Pāraśava*, see above, 9.178. Govindarāja and
-Nārāyaṇa remark that the second name *Pāraśava* is added in order to
-distinguish the *Niṣāda*, who is Pratiloma and subsists by catching
-fish.”—Buhler.
+“Regarding the term *Pāraśava*, see above, 9.178. Govindarāja and Nārāyaṇa remark that the second name *Pāraśava* is added in order to distinguish the *Niṣāda*, who is Pratiloma and subsists by catching fish.”—Buhler.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -35,8 +32,7 @@ fish.”—Buhler.
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

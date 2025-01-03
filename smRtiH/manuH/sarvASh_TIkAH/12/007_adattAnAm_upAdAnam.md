@@ -26,12 +26,7 @@ Thus has Action proceeding from Mind, Speech and Body, been described as being o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 692); in *Aparārka* (p.
-998), which adds that the ten kinds of sinful acts, proceeding from the
-mind, speech and body, when committed intentionally and repeatedly,
-should be understood to be what leads to the map being born in such
-bodies as those of the *Cāṇḍāla* and the like; but of, the same kinds of
-acts, when done unintentionally, the results are different;—in
+This verse is quoted in *Madanapārijāta* (p. 692); in *Aparārka* (p. 998), which adds that the ten kinds of sinful acts, proceeding from the mind, speech and body, when committed intentionally and repeatedly, should be understood to be what leads to the map being born in such bodies as those of the *Cāṇḍāla* and the like; but of, the same kinds of acts, when done unintentionally, the results are different;—in
 *Nṛsiṃhaprasāda* (Prāyaścitta 41a);—in *Hemādri* (Kāla, p. 632);—and in
 *Smṛtisāroddhāra* (p. 88).
 </details>
@@ -39,8 +34,7 @@ acts, when done unintentionally, the results are different;—in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (8.135).—‘The man, who is addicted to taking what has not
-been given to him, or associates with the wives of other men, or kills
-animals in a way not sanctioned by the scriptures, is born among trees.’
+been given to him, or associates with the wives of other men, or kills animals in a way not sanctioned by the scriptures, is born among trees.’
 </details>
 
 <details><summary>भारुचिः</summary>

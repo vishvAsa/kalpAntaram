@@ -58,19 +58,14 @@ The ‘*domination*,’ by the wife is due to her being entitled to the act.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 88), which explains it to mean
-that ‘she should not be allowed to take a prominent part in the
-offerings made to the Gods and Pitṛs;’—and in *Smṛticandrikā* (Saṃskāra,
-p. 206), which explains ‘*tatpradhānāni*’ as ‘at which the Śūdra wife
-presides.’
+This verse is quoted in *Aparārka* (p. 88), which explains it to mean that ‘she should not be allowed to take a prominent part in the offerings made to the Gods and Pitṛs;’—and in *Smṛticandrikā* (Saṃskāra, p. 206), which explains ‘*tatpradhānāni*’ as ‘at which the Śūdra wife presides.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 3.13-19)**
 
-See Comparative notes for [Verse
-3.13].
+See Comparative notes for [Verse 3.13].
 </details>
 
 <details><summary>Bühler</summary>

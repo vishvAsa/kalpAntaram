@@ -34,12 +34,9 @@ and enjoins that of those who are guilty;—and this is emphasised because of th
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 649);—in *Parāśaramādhava*
-(Ācāra, p. 391), as prohibiting the punishment of the innocent;—in
+This verse is quoted in *Vivādaratnākara* (p. 649);—in *Parāśaramādhava* (Ācāra, p. 391), as prohibiting the punishment of the innocent;—in
 *Parāśaramādhava* (Vyavahāra, p. 25);—in *Mitākṣarā* (2.1), to the
-effect that the non-investigation of cases as well as the wrong
-investigation of them,—both bring sin upon the king;—in *Nītimayūkha*
-(p. 59);—and in *Nṛsiṃhaprasāda* (Vyavahāra, p. 5a).
+effect that the non-investigation of cases as well as the wrong investigation of them,—both bring sin upon the king;—in *Nītimayūkha* (p. 59);—and in *Nṛsiṃhaprasāda* (Vyavahāra, p. 5a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -47,8 +44,7 @@ investigation of them,—both bring sin upon the king;—in *Nītimayūkha*
 **(verses 8.127-128)  
 **
 
-See Comparative notes for [Verse
-8.127].
+See Comparative notes for [Verse 8.127].
 </details>
 
 <details><summary>Bühler</summary>

@@ -26,8 +26,7 @@ All the rest has already been explained before.—(49).
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 954);—and in *Parāśaramādhava*
-(Āchāra, p. 569).
+This verse is quoted in *Aparārka* (p. 954);—and in *Parāśaramādhava* (Āchāra, p. 569).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -39,10 +38,7 @@ This verse is quoted in *Aparārka* (p. 954);—and in *Parāśaramādhava*
 pain, the Vedas, this world and the next, he shall seek the Ātman.’
 
 *Vaśiṣṭha* (10.17, 20).—‘Freedom from future births is certain for him
-who constantly dwells in the forest, who has subdued his organs of
-sensation and action, who has renounced all sensual gratification, whose
-mind is fixed in meditation on the Supreme Spirit, and who is
-indifferent (to all things).’
+who constantly dwells in the forest, who has subdued his organs of sensation and action, who has renounced all sensual gratification, whose mind is fixed in meditation on the Supreme Spirit, and who is indifferent (to all things).’
 </details>
 
 <details><summary>Bühler</summary>

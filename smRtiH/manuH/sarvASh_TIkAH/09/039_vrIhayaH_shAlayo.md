@@ -24,8 +24,7 @@ The plural number throughout is denotative of the species.—(39)
 
 **(verses 9.31-44)**
 
-See Comparative notes for [Verse
-9.31].
+See Comparative notes for [Verse 9.31].
 </details>
 
 <details><summary>भारुचिः</summary>

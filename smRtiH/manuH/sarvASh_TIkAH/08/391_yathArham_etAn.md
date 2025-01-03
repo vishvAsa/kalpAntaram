@@ -44,9 +44,7 @@ The king should explain the duties to them after having at first ‘*pacified th
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Kṛtyakalpataru* (10a), which explains
-‘*sāntvena praśamayya*’ as ‘having allayed all anger and ill-feeling by
-means of conciliatory words;—and in *Vīramitrodaya* (Vyavahāra, 10a).
+This verse is quoted in *Kṛtyakalpataru* (10a), which explains ‘*sāntvena praśamayya*’ as ‘having allayed all anger and ill-feeling by means of conciliatory words;—and in *Vīramitrodaya* (Vyavahāra, 10a).
 </details>
 
 <details><summary>Bühler</summary>

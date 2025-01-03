@@ -42,8 +42,7 @@ connection with a particular case—(21).
 
 *Cf*. 11. 212.
 
-This verse is quoted in *Mitākṣarā* (on 3.290) as laying down the
-expiation for cases of suspected eating of forbidden things;—and in
+This verse is quoted in *Mitākṣarā* (on 3.290) as laying down the expiation for cases of suspected eating of forbidden things;—and in
 *Prāyaścittaviveka* (p. 340).
 </details>
 
@@ -52,8 +51,7 @@ expiation for cases of suspected eating of forbidden things;—and in
 **(verses 5.20-21)  
 **
 
-See Comparative notes for [Verse
-5.20].
+See Comparative notes for [Verse 5.20].
 </details>
 
 <details><summary>Bühler</summary>

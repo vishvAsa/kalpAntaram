@@ -32,14 +32,11 @@ But men of the senior castes, who perform the expiatory penances, as prescribed,
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Uttama-sāhasam*’ [see
-8.138].
+‘*Uttama-sāhasam*’ [see 8.138].
 
 This verse is quoted in *Vivādaratnākara* (p. 635);—in
 *Vyavahāramayūkha* (p. 102);—in *Mitākṣarā*, (under 2.270);—and again
-under 3.259, to the effect that the performance of expiatory rites is
-necessary even when the culprit has paid a fine for his guilt (the
-present text exonerating the man only from branding);—in
+under 3.259, to the effect that the performance of expiatory rites is necessary even when the culprit has paid a fine for his guilt (the present text exonerating the man only from branding);—in
 *Vyavāhāra-Bālambhāṭṭī* (p. 117);—and in *Prāyaścittaviveka* (p. 120).
 </details>
 
@@ -48,8 +45,7 @@ present text exonerating the man only from branding);—in
 **(verses 9.235-242)  
 **
 
-See Comparative notes for [Verse
-9.235].
+See Comparative notes for [Verse 9.235].
 </details>
 
 <details><summary>भारुचिः</summary>

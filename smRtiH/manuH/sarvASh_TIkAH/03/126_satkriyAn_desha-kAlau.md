@@ -32,9 +32,7 @@ All these advantages are such as must be secured; and these are hampered by havi
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Nirṇayasindhu* (p. 287);—also in *Aparārka* (p.
-463);—in *Gadādharapaddhati* (Kāla, p. 511);—in *Śrāddhakriyākaumudī*
-(p. 94).
+This verse is quoted in *Nirṇayasindhu* (p. 287);—also in *Aparārka* (p. 463);—in *Gadādharapaddhati* (Kāla, p. 511);—in *Śrāddhakriyākaumudī* (p. 94).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

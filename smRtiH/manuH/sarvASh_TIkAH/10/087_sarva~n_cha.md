@@ -22,10 +22,7 @@ Every kind of woven article dyed (red) as well as that made of hemp, silk or woo
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta*, (p. 232), which adds that
-‘*vyapoheta*’ of the preceding verse is to be construed with all that
-follows;—in *Mitākṣarā*, (3.38);—and in *Saṃskāramayūkha*, (p. 123),
-which says that ‘all these should not be sold.’
+This verse is quoted in *Madanapārijāta*, (p. 232), which adds that ‘*vyapoheta*’ of the preceding verse is to be construed with all that follows;—in *Mitākṣarā*, (3.38);—and in *Saṃskāramayūkha*, (p. 123), which says that ‘all these should not be sold.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -33,8 +30,7 @@ which says that ‘all these should not be sold.’
 **(verses 10.85-93)  
 **
 
-See Comparative notes for [Verse
-10.85].
+See Comparative notes for [Verse 10.85].
 </details>
 
 <details><summary>भारुचिः</summary>

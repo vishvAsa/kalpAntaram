@@ -34,8 +34,7 @@ This is the form of ‘*Rajas*’—‘*constantly attracting* men towards sensu
 **(verses 12.27-29)  
 **
 
-See Comparative notes for [Verse
-12.27].
+See Comparative notes for [Verse 12.27].
 </details>
 
 <details><summary>भारुचिः</summary>

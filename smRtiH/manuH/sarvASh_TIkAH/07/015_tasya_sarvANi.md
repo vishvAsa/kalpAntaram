@@ -34,16 +34,9 @@ The mention of the ‘immovable beings’ is for the purpose of eulogising, by i
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Bhogāya kalpante*’—‘Become capable of providing enjoyment’
-(Medhātithi);—‘are enabled to enjoy’ (Kullūka).
+‘*Bhogāya kalpante*’—‘Become capable of providing enjoyment’ (Medhātithi);—‘are enabled to enjoy’ (Kullūka).
 
-This verse is quoted in *Vivādaratnākara* (p. 646);—in *Vīramitrodaya*
-(Rājanīti, p. 284), which adds the following notes:—‘*Tasya*’, ‘of the
-punishment;’—*Question*: “Punishment, a source of fear, should have
-ended in the Ablative”.—The answer to this is that all that is meant to
-be expressed is *relationship in general* (and not the fact of being a
-source of fear); that is why we have the Genitive.—It is quoted again on
-p. 292;—and in *Vivādacintāmaṇi* (p. 261).
+This verse is quoted in *Vivādaratnākara* (p. 646);—in *Vīramitrodaya* (Rājanīti, p. 284), which adds the following notes:—‘*Tasya*’, ‘of the punishment;’—*Question*: “Punishment, a source of fear, should have ended in the Ablative”.—The answer to this is that all that is meant to be expressed is *relationship in general* (and not the fact of being a source of fear); that is why we have the Genitive.—It is quoted again on p. 292;—and in *Vivādacintāmaṇi* (p. 261).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -52,9 +45,7 @@ p. 292;—and in *Vivādacintāmaṇi* (p. 261).
 inflict punishment upon ill-behaved persons.’
 
 *Matsya-purāṇa* (Vīramitrodaya-Rājanīti, p. 284).—‘Those persons who are
-not subjugated through the first three means,—the king shall subjugate
-by means of punishment; punishment being the most effective means of
-bringing men under control.’
+not subjugated through the first three means,—the king shall subjugate by means of punishment; punishment being the most effective means of bringing men under control.’
 
 *Matsya-purāṇa* (Vīramitrodaya-Rājanīti, p. 286).—‘It is only through
 fear of punishment that wicked men abstain from committing offences.’

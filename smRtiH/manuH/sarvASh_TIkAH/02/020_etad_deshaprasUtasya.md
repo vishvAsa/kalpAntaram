@@ -25,16 +25,14 @@ From the ‘*agrajanma*,’ *i.e*., the Brāhamṇa—‘*born in these countrie
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This is quoted in the *Vīramitrodaya*, *Paribhāṣā* (p. 56) which says
-that this is meant only to eulogise the particular country.
+This is quoted in the *Vīramitrodaya*, *Paribhāṣā* (p. 56) which says that this is meant only to eulogise the particular country.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(Verses 18-23)**
 
-See Comparative notes for [Verse 2.18 (The Practice of Good
-Men)].
+See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 
 <details><summary>Bühler</summary>

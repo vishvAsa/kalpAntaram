@@ -50,8 +50,7 @@ hands he shall offer the morning Twilight Prayer.’
 Prayer.’
 
 *Aṅgiras* (Vīramitrodaya-Āhnika, p. 19).—‘Rising during the last quarter
-of the night, one should give up the cloth worn during the night, and
-having washed his hands, feet and face, think of Hari.’
+of the night, one should give up the cloth worn during the night, and having washed his hands, feet and face, think of Hari.’
 
 *Kātyāyana* (Do., p. 20).—‘Rising, washing his eyes and becoming clean,
 etc.’

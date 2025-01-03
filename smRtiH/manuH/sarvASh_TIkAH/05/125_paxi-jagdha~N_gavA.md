@@ -48,97 +48,52 @@ Some people have taken this verse as laying down a rule for the purification of 
 
 (Verse 125 of others.)
 
-‘*Avodhūtam*’—‘blown upon with the mouth, or blown upon with a piece of
-cloth’ (Medhātithi);—‘dusted with cloth’ (Govindarāja);—‘moved by the
-wind from a cloth, the foot or the like’ (Nārāyaṇa);—‘defiled by the
-dust of a broom or of the air moved by the wings of a bird’ (Nandana).
+‘*Avodhūtam*’—‘blown upon with the mouth, or blown upon with a piece of cloth’ (Medhātithi);—‘dusted with cloth’ (Govindarāja);—‘moved by the wind from a cloth, the foot or the like’ (Nārāyaṇa);—‘defiled by the dust of a broom or of the air moved by the wings of a bird’ (Nandana).
 
-This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 105), which
-explains ‘*avadhūtam*’ as ‘touched by the dust raised by the shaking of
-a cloth’,—‘*avakṣutam*’ as ‘touched by drops of saliva dropped in
-sneezing’;—it adds that if the food has contained hair or insects during
-cooking, then it must be thrown away.
+This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 105), which explains ‘*avadhūtam*’ as ‘touched by the dust raised by the shaking of a cloth’,—‘*avakṣutam*’ as ‘touched by drops of saliva dropped in sneezing’;—it adds that if the food has contained hair or insects during cooking, then it must be thrown away.
 
-It is quoted in *Madanapārijāta* (p. 458), which adds that the ‘bird’
-here meant is one that is among the *eatable* ones; it explains
-‘*avadhūtam*’ as ‘that over which cloth has been shaken’ or ‘that which
-has been repeatedly picked up and thrown down by birds’,—‘*avakṣutam*’,
-that ‘over which some one has sneezed’;—‘*mṛḍ*’, ‘mud’, includes ‘ash’
-and ‘water’ also. It also adds that if the food has been cooked along
-with hair or an insect, it has to be thrown away; it has to be purified
-by clay, ash or water only if the hair or insect has fallen into it
-after it has been cooked.
+It is quoted in *Madanapārijāta* (p. 458), which adds that the ‘bird’ here meant is one that is among the *eatable* ones; it explains ‘*avadhūtam*’ as ‘that over which cloth has been shaken’ or ‘that which has been repeatedly picked up and thrown down by birds’,—‘*avakṣutam*’, that ‘over which some one has sneezed’;—‘*mṛḍ*’, ‘mud’, includes ‘ash’ and ‘water’ also. It also adds that if the food has been cooked along with hair or an insect, it has to be thrown away; it has to be purified by clay, ash or water only if the hair or insect has fallen into it after it has been cooked.
 
-It is quoted in *Hemādri* (Śrāddha, p. 827);—in *Nṛsiṃhaprasāda*
-(Śrāddha, p. 15b);—in *Śudhikaumudī* (p. 314), which says that
-‘*pakṣijagdham*’ means, according to Kullūka, ‘eaten by an edible
-bird’,—‘*avadhūtam*’ means ‘breathed upon’, and ‘*avakṣutam*’as ‘sneezed
-upon’;—in *Śuddhimayūkha* (p. 2), which explains ‘*avodhūtam*’ as ‘over
-which cloth has been dusted’;—and in *Smrtisāroddhāra* (p. 244) which
-gives the same explanation of ‘*avodhūtam*’ and says that
-‘*mṛtkṣepaṇam*’ includes *water-sprinkling* also.
+It is quoted in *Hemādri* (Śrāddha, p. 827);—in *Nṛsiṃhaprasāda* (Śrāddha, p. 15b);—in *Śudhikaumudī* (p. 314), which says that ‘*pakṣijagdham*’ means, according to Kullūka, ‘eaten by an edible bird’,—‘*avadhūtam*’ means ‘breathed upon’, and ‘*avakṣutam*’as ‘sneezed upon’;—in *Śuddhimayūkha* (p. 2), which explains ‘*avodhūtam*’ as ‘over which cloth has been dusted’;—and in *Smrtisāroddhāra* (p. 244) which gives the same explanation of ‘*avodhūtam*’ and says that ‘*mṛtkṣepaṇam*’ includes *water-sprinkling* also.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (23.38).—‘Food nibbled at by a bird, smelt at by a cow, sneezed
-on. or defiled by hair, or bv insects or worms, is purified by earth
-scattered over it.’
+on. or defiled by hair, or bv insects or worms, is purified by earth scattered over it.’
 
 *Vaśiṣṭha* (14.22-23).—‘Food defiled by contact with a garment, hair or
-insects shall not be eaten;—but it may be eaten after taking out the
-hair and the insects, sprinkling it with water, dropping ashes on it,
-and after it has been declared by the Brahmaṇa to be fit for eating.
+insects shall not be eaten;—but it may be eaten after taking out the hair and the insects, sprinkling it with water, dropping ashes on it, and after it has been declared by the Brahmaṇa to be fit for eating.
 
 *Yājñavalkya* (1.189).—‘Food smelt by the cow, or defiled by hair, flies
-or insects, should have water and ashes or earth sprinkled over it, for
-purifying it.’
+or insects, should have water and ashes or earth sprinkled over it, for purifying it.’
 
 *Baudhāyana* (Aparārka, p. 266).—Blue fly, ordure, insects, bugs are
-defilers of food. On seeing hair, insect, nail, etc., in food, that part
-of the food where they are found should be thrown away, and the
-remainder should have ashes and water sprinkled over it; and it may be
-taken, after it has been recommended.’
+defilers of food. On seeing hair, insect, nail, etc., in food, that part of the food where they are found should be thrown away, and the remainder should have ashes and water sprinkled over it; and it may be taken, after it has been recommended.’
 
 *Yama* (Do., p. 266).—‘If a fly or hair is found in the food, or if it
-is sneezed at or blown upon, one should touch it with ash and then eat
-it.’
+is sneezed at or blown upon, one should touch it with ash and then eat it.’
 
 *Āpastamba* (Do.).—‘That food wherein is found an insect that has
 touched impure substances.’
 
 *Śātātapa* (Do., p. 267)—‘Food containing hair or insects, or smelt
-upon, or defiled by flies, or seen by a newly delivered woman, or by a
-woman in her courses, or by a heretic,—is purified in the following
-manner: sprinkling water over it, taking out a little of the food, the
-rest one may eat. Or he may touch it with ashes or with water, or by
-gold and silver.’
+upon, or defiled by flies, or seen by a newly delivered woman, or by a woman in her courses, or by a heretic,—is purified in the following manner: sprinkling water over it, taking out a little of the food, the rest one may eat. Or he may touch it with ashes or with water, or by gold and silver.’
 
 *Baudhāyana* (again, Aparārka, p. 267).—‘If cooked sacrificial food is
-defiled by crows and other things, the portion defiled should be taken
-out. Honey and water become purified by being poured into another
-vessel; similarly oil and clarified butter.’
+defiled by crows and other things, the portion defiled should be taken out. Honey and water become purified by being poured into another vessel; similarly oil and clarified butter.’
 
 *Hārīta* (Do.).—‘On food being smelt or seen by undesirable persons, or
-on its being defiled by the presence of hair or insects, it should be
-touched by water, with gold, silver, ashes, copper, emerald, cow’s hair,
-deer-skin or *kaśa*,—sprinkled with *mantras*, taken round fire, exposed
-to the sun; thus does it become purified.’
+on its being defiled by the presence of hair or insects, it should be touched by water, with gold, silver, ashes, copper, emerald, cow’s hair, deer-skin or *kaśa*,—sprinkled with *mantras*, taken round fire, exposed to the sun; thus does it become purified.’
 
 *Parāśara* (Do.).—‘Food cooked when exceeding a *Droṇa* in quantity
-should not he thrown away, even when defiled by dogs or crows; it should
-he offered to Brāhmaṇas and then used according to their advice.’
+should not he thrown away, even when defiled by dogs or crows; it should he offered to Brāhmaṇas and then used according to their advice.’
 
 *Jamadagni* (Do.).—‘Cooked food, one *Droṇa* in weight,—if defiled by
-dogs or crows, should have a handful thrown out, and the rest becomes
-purified by heating on fire and sprinkling with water;—same with cooked
-food enough for lasting one day, when defiled by dogs and crows, or by
-the presence of hair and insects.’
+dogs or crows, should have a handful thrown out, and the rest becomes purified by heating on fire and sprinkling with water;—same with cooked food enough for lasting one day, when defiled by dogs and crows, or by the presence of hair and insects.’
 
 *Baudhāyana* (Do., p. 268).—‘Finding skin, hair or nails in the food,
-one shall throw about a handful of it, and sprinkling water and
-scattering ashes over it, again sprinkling water, one may eat it after
-having obtained the recommendation of Brāhmaṇas.’
+one shall throw about a handful of it, and sprinkling water and scattering ashes over it, again sprinkling water, one may eat it after having obtained the recommendation of Brāhmaṇas.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -26,8 +26,7 @@ When it was said ([under 62]) that ‘for stealing water one becomes a *Plava* -
 **(verses 12.64-67)  
 **
 
-See Comparative notes for [Verse
-12.64].
+See Comparative notes for [Verse 12.64].
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -35,8 +34,7 @@ See Comparative notes for [Verse
 **(verses 12.60-68)  
 **
 
-See Comparative notes for [Verse
-12.60].
+See Comparative notes for [Verse 12.60].
 </details>
 
 <details><summary>भारुचिः</summary>

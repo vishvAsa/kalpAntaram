@@ -26,16 +26,12 @@ The superiority of the learned rests on the fact that it is they alone that are 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Kṛtabuddhayaḥ*’—‘who know the Veda and its meaning (Medhātithi,
-Nārāyaṇa and Nandana);—’ ‘Knowing the truth’ (Sarvajña-nārāyaṇa and
-Rāmacandra),—‘who recognise the necessity of doing what is prescribed in
-the scriptures’ (Kullūka);—‘determined’ (Rāghavānanda).
+‘*Kṛtabuddhayaḥ*’—‘who know the Veda and its meaning (Medhātithi, Nārāyaṇa and Nandana);—’ ‘Knowing the truth’ (Sarvajña-nārāyaṇa and Rāmacandra),—‘who recognise the necessity of doing what is prescribed in the scriptures’ (Kullūka);—‘determined’ (Rāghavānanda).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-See Comparative notes for [Verse 1.94 (Brahmā created the
-Brāhmaṇas)].
+See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 </details>
 
 <details><summary>Bühler</summary>

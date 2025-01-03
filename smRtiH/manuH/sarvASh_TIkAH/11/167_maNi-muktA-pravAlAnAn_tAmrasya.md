@@ -20,11 +20,7 @@ There is to be reduction in time, according to the greater or smaller quantity o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.265), which adds that, inasmuch
-as the expiation is twelve times as heavy as that prescribed in 165, the
-articles mentioned should he understood to be twelve times the value of
-the single meal in *Madanapārijata* (p. 875), which makes the same
-remark;—in *Nṛsiṃhaprasāda* (Prāyaścitta 74a);—and in
+This verse is quoted in *Mitākṣarā* (3.265), which adds that, inasmuch as the expiation is twelve times as heavy as that prescribed in 165, the articles mentioned should he understood to be twelve times the value of the single meal in *Madanapārijata* (p. 875), which makes the same remark;—in *Nṛsiṃhaprasāda* (Prāyaścitta 74a);—and in
 *Prāyaścittaviveka* (p. 341), which explains ‘*Kaṇānnatā*’ as ‘living on
 small pieces of grain’.
 </details>
@@ -32,8 +28,7 @@ small pieces of grain’.
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (52.10).—‘For stealing precious stones, pearls or coral, copper,
-silver, iron or white copper,—one must eat grain separated from the husk
-for twelve days.’
+silver, iron or white copper,—one must eat grain separated from the husk for twelve days.’
 </details>
 
 <details><summary>भारुचिः</summary>

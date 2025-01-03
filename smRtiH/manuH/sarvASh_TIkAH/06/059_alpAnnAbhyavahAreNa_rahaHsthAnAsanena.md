@@ -26,19 +26,13 @@ He shall not stay even for a moment at a place where large number of people, men
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka*, (p. 954);—in *Parāśaramādhava*,
-(Ācāra, p. 570);—and in *Yatidharmasaṅgraha* (p. 34).
+This verse is quoted in *Aparārka*, (p. 954);—in *Parāśaramādhava*, (Ācāra, p. 570);—and in *Yatidharmasaṅgraha* (p. 34).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (2.18.10-13).—‘Giving, compassionately, portions of the
-food to living beings and sprinkling the remainder with water, he shall
-eat it as if it were a medicine... He shall eat food, given without
-asking, regarding which nothing has been stipulated beforehand and which
-has reached him accidentally; so much only as is sufficient to sustain
-life They quote the following:—“Eight mouthfuls make the meal of a
-Renunciate, etc., etc.”’
+food to living beings and sprinkling the remainder with water, he shall eat it as if it were a medicine... He shall eat food, given without asking, regarding which nothing has been stipulated beforehand and which has reached him accidentally; so much only as is sufficient to sustain life They quote the following:—“Eight mouthfuls make the meal of a Renunciate, etc., etc.”’
 
 *Vaśiṣṭha* (10-25).—‘He shall never eat to satiation.’
 </details>

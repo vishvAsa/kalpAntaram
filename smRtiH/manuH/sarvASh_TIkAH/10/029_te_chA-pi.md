@@ -35,8 +35,7 @@ Those also beget on each other’s wives several ‘alien’ sons, greatly taint
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

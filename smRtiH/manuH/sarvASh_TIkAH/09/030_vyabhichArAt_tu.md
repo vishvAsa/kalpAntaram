@@ -42,8 +42,7 @@ These two verses have been already explained under Discourse V.—(29-30)
 5.164.\]]
 
 *Vaśiṣṭha* (21.14).—‘Faithful wives who are ever pure and truthful
-reside after death in the same regions with their husbands; those that
-are unfaithful are born as jackals.’
+reside after death in the same regions with their husbands; those that are unfaithful are born as jackals.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -30,17 +30,13 @@ On women, boys, men out of their minds, the old, the poor and the sick, the king
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 658), which adds that the
-term ‘*daridra*’ here stands for that impecunious person who is unable
-to render any compensatory service;—in *Parāśaramādhava* (Vyavahāra, p.
-159);—and in *Vyavahāra-Bālambhaṭṭī* (p. 880).
+This verse is quoted in *Vivādaratnākara* (p. 658), which adds that the term ‘*daridra*’ here stands for that impecunious person who is unable to render any compensatory service;—in *Parāśaramādhava* (Vyavahāra, p. 159);—and in *Vyavahāra-Bālambhaṭṭī* (p. 880).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Kātyāyana* (Vivādaratnākara, p. 655).—‘Untouchables, rogues and slaves,
-those who have committed sins and those born of inverse marriages should
-suffer beating, and not monetary punishment.’
+those who have committed sins and those born of inverse marriages should suffer beating, and not monetary punishment.’
 </details>
 
 <details><summary>भारुचिः</summary>

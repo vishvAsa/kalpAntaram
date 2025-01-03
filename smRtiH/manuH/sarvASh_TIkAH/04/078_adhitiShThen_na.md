@@ -43,12 +43,10 @@ chaff, potsherds, and bath-water.’
 ashes and embers; nor on cotton-seeds.’
 
 *Viṣṇu* (Aparārka, p. 183).—‘He shall not stand on the roadcrossing, nor
-under a tree at night, nor in an empty house, nor in a slaughter-house
-or a prison.’
+under a tree at night, nor in an empty house, nor in a slaughter-house or a prison.’
 
 *Yājñavalkya* (1.139),—‘He shall avoid all incompatible acts, as also
-the smoke issuing from a dead body, and swimming in the river; also
-standing upon hairs, ashes, chaff, embers, and potsherds.’
+the smoke issuing from a dead body, and swimming in the river; also standing upon hairs, ashes, chaff, embers, and potsherds.’
 
 *Śaṅkha-Likhita* (Aparārka, p. 183).—‘He shall not stand upon a heap of
 grass or a heap of pebbles.’

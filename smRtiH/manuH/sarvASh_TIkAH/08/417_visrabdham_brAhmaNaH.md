@@ -34,8 +34,7 @@ It is only when there is actual need that this can be right. Hence it is only wh
 **(verses 8.410-418)  
 **
 
-See Comparative notes for [Verse
-8.410].
+See Comparative notes for [Verse 8.410].
 </details>
 
 <details><summary>भारुचिः</summary>

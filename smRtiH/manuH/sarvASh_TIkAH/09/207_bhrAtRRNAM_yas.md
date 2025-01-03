@@ -38,13 +38,9 @@ Or ‘*nirbhājyaḥ*’ may mean ‘shall he separated,’ ‘not allowed to li
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 720), which explains ‘*Svakād
-aṃśāt*’ as ‘from the property acquired by the brothers’;—in
+This verse is quoted in *Aparārka* (p. 720), which explains ‘*Svakād aṃśāt*’ as ‘from the property acquired by the brothers’;—in
 *Smṛtitattva* II (p. 171), in the sense that one, who, by reason of his
-own capacity (to earn) is not desirous of any share in the ancestral
-property, shall be given some such tiling as a seer of rice, and be
-separated from the family, as a safeguard against trouble arising from
-his sons and descendants;—and by Jīmūtavāhana (*Dāyabhāga*, p. 110).
+own capacity (to earn) is not desirous of any share in the ancestral property, shall be given some such tiling as a seer of rice, and be separated from the family, as a safeguard against trouble arising from his sons and descendants;—and by Jīmūtavāhana (*Dāyabhāga*, p. 110).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -52,8 +48,7 @@ his sons and descendants;—and by Jīmūtavāhana (*Dāyabhāga*, p. 110).
 **(verses 9.204-208)  
 **
 
-See Comparative notes for [Verse
-9.204].
+See Comparative notes for [Verse 9.204].
 </details>
 
 <details><summary>भारुचिः</summary>

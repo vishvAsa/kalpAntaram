@@ -109,16 +109,13 @@ In the present context, the special rules that have been laid down in regard to 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.259), which notes that this
-refers to the death-penalty;—and in *Prāyaścittaviveka* (p. 120), to the
-effect that punishment serves to absolve one from the sin of the crime.
+This verse is quoted in *Mitākṣarā* (3.259), which notes that this refers to the death-penalty;—and in *Prāyaścittaviveka* (p. 120), to the effect that punishment serves to absolve one from the sin of the crime.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (19.45).—‘Men who have committed offences and have received
-from Kings the punishment due to them, go purified to heaven and are as
-holy as the virtuous.’
+from Kings the punishment due to them, go purified to heaven and are as holy as the virtuous.’
 </details>
 
 <details><summary>भारुचिः</summary>

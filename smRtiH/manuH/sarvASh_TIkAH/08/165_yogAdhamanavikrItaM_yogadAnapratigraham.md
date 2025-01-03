@@ -128,19 +128,11 @@ What is said here should be taken as applying to all such transactions as relate
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 162), which
-explains ‘*Yoga*’ as ‘obtain another’s property, without any right to
-it, by means of begging and such other means’,—‘*ādhamana*’ as
-‘pledge’;—and the compound ‘*Yogādhamanam*’ as ‘*Yoge ādhamanam*’,
-‘pledging of what does not rightly belong to one.’
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 162), which explains ‘*Yoga*’ as ‘obtain another’s property, without any right to it, by means of begging and such other means’,—‘*ādhamana*’ as ‘pledge’;—and the compound ‘*Yogādhamanam*’ as ‘*Yoge ādhamanam*’, ‘pledging of what does not rightly belong to one.’
 
-It is quoted in *Vyavahāramayūkha* (p. 90), which explains ‘*Yoga*’ as
-‘fraud’; and adds that the king shall nullify every transaction in
-connection with which he detects some fraud;—in *Kṛtyakalpataru* (65b)
-which explains ‘*upadhī*’ as *fraud*,—‘*yogā*’ as ‘deceit’;—and in
+It is quoted in *Vyavahāramayūkha* (p. 90), which explains ‘*Yoga*’ as ‘fraud’; and adds that the king shall nullify every transaction in connection with which he detects some fraud;—in *Kṛtyakalpataru* (65b) which explains ‘*upadhī*’ as *fraud*,—‘*yogā*’ as ‘deceit’;—and in
 *Vīramitrodaya* (Vyavahāra, 39b), which has the following
-notes:—‘*Ādhamana*’ is pledge,—‘*yoga*’ is deceit,—‘*upādhi*’ is
-fraud;—and adds that all fraudulent transactions are null and void.
+notes:—‘*Ādhamana*’ is pledge,—‘*yoga*’ is deceit,—‘*upādhi*’ is fraud;—and adds that all fraudulent transactions are null and void.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -148,25 +140,19 @@ fraud;—and adds that all fraudulent transactions are null and void.
 *Viṣṇu* (7.7).—‘A fraudulent document makes no evidence.’
 
 *Yājñavalkya* (2.89).—‘A document written in one's own hand, even when
-not attested by witnesses, is to be accepted as evidence, except when it
-has been obtained by force or fraud.’
+not attested by witnesses, is to be accepted as evidence, except when it has been obtained by force or fraud.’
 
 *Kātyāyana* (Aparārka, p. 686).—‘A document becomes nullified by the
-defect of witnesses, or of the scribe, as also by reason of fraud on the
-part of the creditor.’
+defect of witnesses, or of the scribe, as also by reason of fraud on the part of the creditor.’
 
 *Yama* (Parāśaramādhava-Vyavahara, p. 162).—‘What is given under force,
-or enjoyed forcibly, or made to be written forcibly,—all transcations
-effected under force, Manu has declared to be fit for being nullified.’
+or enjoyed forcibly, or made to be written forcibly,—all transcations effected under force, Manu has declared to be fit for being nullified.’
 
 *Nārada* (1.137).—‘A document is invalid which has been executed by a
-person intoxicated, by one charged with a crime, by a woman, or by a
-child, or that which has been caused to be written by forcible means, by
-intimidation, or by deception.’
+person intoxicated, by one charged with a crime, by a woman, or by a child, or that which has been caused to be written by forcible means, by intimidation, or by deception.’
 
 *Bṛhaspati* (8.21, 23).—‘Forgery may be found out by internal evidence
-and legitimate titles...... A document executed by fraud, or by force,
-does not. hold good.’
+and legitimate titles...... A document executed by fraud, or by force, does not. hold good.’
 </details>
 
 <details><summary>भारुचिः</summary>

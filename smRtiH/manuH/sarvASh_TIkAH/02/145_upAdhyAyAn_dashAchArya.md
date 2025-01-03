@@ -49,27 +49,16 @@ The question arising as regards the order of precedence when the real Preceptor,
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The first quarter of this is referred to in *Parāśaramādhava* (Ācāra, p.
-304).
+The first quarter of this is referred to in *Parāśaramādhava* (Ācāra, p. 304).
 
-The verse is quoted in *Madanapārijāta* (p. 31);—and in *Vīramitrodaya*
-(Saṃskāra, p. 478), where the following notes are added:—In point of
-veneration, the ‘*Ācārya*’ is superior as compared to ten
-‘*Upādhyāyas*’, the Father is superior to a hundred *Ācāryas*, and the
-Mother is superior to a thousand Fathers;—the person spoken of as
+The verse is quoted in *Madanapārijāta* (p. 31);—and in *Vīramitrodaya* (Saṃskāra, p. 478), where the following notes are added:—In point of veneration, the ‘*Ācārya*’ is superior as compared to ten ‘*Upādhyāyas*’, the Father is superior to a hundred *Ācāryas*, and the Mother is superior to a thousand Fathers;—the person spoken of as
 *ācārya* here is the person who performs the *Upanayana* and teaches the
 *Sāvtrī* only (not the entire Veda),—as is clear from the next verse
-where the man who performs the *Upanayana* and teaches the entire Veda
-is described as superior to the Father.
+where the man who performs the *Upanayana* and teaches the entire Veda is described as superior to the Father.
 
-This same explanation is given by Medhātithi and Kullūka also.
-Govindarāja and Nārāyaṇa on the other hand, hold that the word ‘*Pitā*’,
-‘Father’, stands for that Father who, having begotten the child,
-performs its *Upanayana* and himself teaches it the entire Veda.
+This same explanation is given by Medhātithi and Kullūka also. Govindarāja and Nārāyaṇa on the other hand, hold that the word ‘*Pitā*’, ‘Father’, stands for that Father who, having begotten the child, performs its *Upanayana* and himself teaches it the entire Veda.
 
-This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 92), which adds
-that the Father meant here is one who is a mere Progenitor and has not
-performed any sacramental rites for the boy; in other eases, when he
+This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 92), which adds that the Father meant here is one who is a mere Progenitor and has not performed any sacramental rites for the boy; in other eases, when he
 *has* performed these, it is the Father that is superior.
 </details>
 
@@ -81,30 +70,22 @@ the mother—say some.’
 *Vaśiṣṭha*, 13.17.—(Manu’s words reproduced.)
 
 *Yājñavalkya*, 1.35.—‘These deserve to be respected in the order in
-which they are mentioned; the mother is more venerable than all of
-them.’
+which they are mentioned; the mother is more venerable than all of them.’
 
 *Bhaviṣya-Purāṇa* (Vīramitrodaya-Saṃskāra, p. 478).—(Manu’s words
 reproduced.)
 
 *Śaṅkha-Likhita* (Vīramitrodaya-Saṃskāra, p. 479).—‘One should not
-intervene between his Father and Mother; he may speak in favour of his
-mother: as she is the person that bore him and brought him up.’
+intervene between his Father and Mother; he may speak in favour of his mother: as she is the person that bore him and brought him up.’
 
 *Nārada* (Vīramitrodaya-Saṃskāra).—‘Of the two the Father is superior,
-on account of the supremacy attaching to the seed: in the absence of the
-Father, the Mother is the highest; and in her absence, the elder
-brother.’
+on account of the supremacy attaching to the seed: in the absence of the Father, the Mother is the highest; and in her absence, the elder brother.’
 
 *Purāṇa* (Parāśaramādhava, p. 304).—‘By law these are two *gurus* for
-man: the Father and the Mother; between these two, the Father is
-superior, then the Mother, then the elder brother.’
+man: the Father and the Mother; between these two, the Father is superior, then the Mother, then the elder brother.’
 
 *Vyāsa* (Do.).—‘For ten months she keeps the child in her womb,
-suffering from shooting pains, then she gives him birth, being rendered
-unconscious in the process; devoted to her son, she regards him as
-superior even to her very life; who can recompense her even in a hundred
-years?’
+suffering from shooting pains, then she gives him birth, being rendered unconscious in the process; devoted to her son, she regards him as superior even to her very life; who can recompense her even in a hundred years?’
 </details>
 
 <details><summary>Bühler</summary>

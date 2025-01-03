@@ -44,13 +44,9 @@ Others have held, on the strength of the ‘context,’ that what is said here p
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 92), which adds the
-following notes:—‘*Upadhābhiḥ*,’ by fraud;—‘*sahāya*’ is one who helps
-in the misappropriation of other’s property by fraud;—‘*prakāśam*’, in
-the public square and such places;—it is quoted again at p. 316;—in
+This verse is quoted in *Vivādaratnākara* (p. 92), which adds the following notes:—‘*Upadhābhiḥ*,’ by fraud;—‘*sahāya*’ is one who helps in the misappropriation of other’s property by fraud;—‘*prakāśam*’, in the public square and such places;—it is quoted again at p. 316;—in
 *Vivādacintāmaṇi* (p. 39), which explains ‘*upadhā*’ as
-‘fraud’—‘*sahāya*’ as ‘abettor in the fraudulent appropriation,’—and
-‘*vadha*’ as ‘beating, imprisonment and so forth’;—and in
+‘fraud’—‘*sahāya*’ as ‘abettor in the fraudulent appropriation,’—and ‘*vadha*’ as ‘beating, imprisonment and so forth’;—and in
 *Kṛtyakalpataru* (84a).
 </details>
 
@@ -63,8 +59,7 @@ the public square and such places;—it is quoted again at p. 316;—in
 190-192.\]]
 
 *Nārada* (2.3).—‘In whatever manner a man may have delivered any of his
-effects to another, in that same manner shall the article be restored to
-him. Delivery and receipt should be equal.’
+effects to another, in that same manner shall the article be restored to him. Delivery and receipt should be equal.’
 
 *Bṛhaspati* (12.9).—‘A deposit must be returned to the very man who
 bailed it, in the very manner in which it was bailed.’

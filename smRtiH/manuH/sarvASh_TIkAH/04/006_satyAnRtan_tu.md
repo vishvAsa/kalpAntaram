@@ -24,8 +24,7 @@ It should not be understood that the scripture here lays down the fact of Trade 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The first half of this verse is quoted in *Parāśaramādhava* (Ācāra, p.
-309);—and the entire verse in *Vidhānapārijāta* (II, p. 246).
+The first half of this verse is quoted in *Parāśaramādhava* (Ācāra, p. 309);—and the entire verse in *Vidhānapārijāta* (II, p. 246).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -33,8 +32,7 @@ The first half of this verse is quoted in *Parāśaramādhava* (Ācāra, p.
 **(verses 4.5-6)  
 **
 
-See Comparative notes for [Verse
-4.5].
+See Comparative notes for [Verse 4.5].
 </details>
 
 <details><summary>Bühler</summary>

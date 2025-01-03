@@ -36,17 +36,14 @@ In view of this, even though a son may be born of another man, he must belong to
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Hopkins says—“The kings subsequent to Pṛthu, according to Medhātithi,
-have no legitimate claim to possession.”—But there is nothing in
-Medhātithi to this effect.
+Hopkins says—“The kings subsequent to Pṛthu, according to Medhātithi, have no legitimate claim to possession.”—But there is nothing in Medhātithi to this effect.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 9.31-44)**
 
-See Comparative notes for [Verse
-9.31].
+See Comparative notes for [Verse 9.31].
 </details>
 
 <details><summary>भारुचिः</summary>

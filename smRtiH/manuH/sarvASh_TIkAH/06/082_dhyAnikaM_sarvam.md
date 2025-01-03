@@ -52,19 +52,11 @@ The object to be meditated upon, for the sake of obtaining the knowledge of the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Yadetadabhiśabditam*’—‘What has been described in the immediately
-preceding *verses*’ (Medhātithi);—‘what has been described in the
-preceding *one verse*’ (Kullūka);—‘what has been described in all the
-preceding *chapters*’ (Govindarāja and Nandana);—‘what can be expressed
-by words’ (Nārāyaṇa).
+‘*Yadetadabhiśabditam*’—‘What has been described in the immediately preceding *verses*’ (Medhātithi);—‘what has been described in the preceding *one verse*’ (Kullūka);—‘what has been described in all the preceding *chapters*’ (Govindarāja and Nandana);—‘what can be expressed by words’ (Nārāyaṇa).
 
-‘*Kriyāphalam*’—‘The reward of fulfilling the duties of the Renunciate’
-(Medhātithi);—‘reward of the act of meditation’ (Kullūka);—‘reward of
-the performance of rites’ (Govindarāja, Nārāyaṇa and Nandana).
+‘*Kriyāphalam*’—‘The reward of fulfilling the duties of the Renunciate’ (Medhātithi);—‘reward of the act of meditation’ (Kullūka);—‘reward of the performance of rites’ (Govindarāja, Nārāyaṇa and Nandana).
 
-Buhler has misunderstood Kullūka, who does not explain ‘*adhiyajñam*’ as
-‘*Brahma-veda*’; he explains it as *yajñam adhikṛtya pravṛttam brahma
-vedam*’—where ‘*brahma*’ of the text is explained as ‘*veda*’.
+Buhler has misunderstood Kullūka, who does not explain ‘*adhiyajñam*’ as ‘*Brahma-veda*’; he explains it as *yajñam adhikṛtya pravṛttam brahma vedam*’—where ‘*brahma*’ of the text is explained as ‘*veda*’.
 </details>
 
 <details><summary>भारुचिः</summary>

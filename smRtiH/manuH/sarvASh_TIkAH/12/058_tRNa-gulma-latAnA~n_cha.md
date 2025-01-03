@@ -27,8 +27,7 @@ This verse is quoted in *Mitākṣarā* (3.208).
 
 **(verses 12.53-59)**
 
-See Comparative notes for [Verse
-12.53].
+See Comparative notes for [Verse 12.53].
 </details>
 
 <details><summary>Bühler</summary>

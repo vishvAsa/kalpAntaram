@@ -50,9 +50,7 @@ The text of this verse, and hence its meaning, is entirely changed in
 > *etayar??'pi saṃyuktaḥ kāle?a kriyayā'mu?ā* \|  
 > *?ipra?triya?i?yonirprāha?ya?ṃ yāti prādhuṣu* \|\|
 
-it may be rendered thus—‘Equipped with this verse, and timely
-performance of this act, a person of Brāhmaṇa, Kṣatriya or Vaiśya birth
-becomes acceptable among the good.’
+it may be rendered thus—‘Equipped with this verse, and timely performance of this act, a person of Brāhmaṇa, Kṣatriya or Vaiśya birth becomes acceptable among the good.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -61,10 +59,7 @@ becomes acceptable among the good.’
 Manu\].
 
 *Baudhāyana-Dhaṛmasūtra*, 2. 4. 15.—‘Those who offer not the
-Morning-prayer before the advent of Dawn, nor the Evening-prayer before
-the lapse of Eve,—how can these be called Brāhmaṇas? Those Brāhmaṇas who
-offer? not the? Morning and Evening Prayers, them the king should employ
-in works fit for the Śūdra.
+Morning-prayer before the advent of Dawn, nor the Evening-prayer before the lapse of Eve,—how can these be called Brāhmaṇas? Those Brāhmaṇas who offer? not the? Morning and Evening Prayers, them the king should employ in works fit for the Śūdra.
 </details>
 
 <details><summary>Bühler</summary>

@@ -35,8 +35,7 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 507);—and in
 **(verses 4.219-220)  
 **
 
-See Comparative notes for [Verse
-4.219].
+See Comparative notes for [Verse 4.219].
 </details>
 
 <details><summary>Bühler</summary>

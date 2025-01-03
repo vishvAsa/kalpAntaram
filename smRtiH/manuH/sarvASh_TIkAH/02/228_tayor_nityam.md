@@ -31,8 +31,7 @@ For reasons stated above,—‘*of these two*’—of the father and the mother,
 **(verses 225-228)  
 **
 
-See Comparative notes for [Verse
-2.225].
+See Comparative notes for [Verse 2.225].
 </details>
 
 <details><summary>Bühler</summary>

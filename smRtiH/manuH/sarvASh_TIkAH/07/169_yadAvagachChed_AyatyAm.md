@@ -32,9 +32,7 @@ When he knows that ‘this king is equal to me in strength—or I may be weaker 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 326), which adds
-the following notes:—‘*āyatyam*,’ ‘in the future,’—‘*ādhikyam*,’
-‘superiority of force,’—‘*tadātve*,’ ‘at the time.’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 326), which adds the following notes:—‘*āyatyam*,’ ‘in the future,’—‘*ādhikyam*,’ ‘superiority of force,’—‘*tadātve*,’ ‘at the time.’
 </details>
 
 <details><summary>भारुचिः</summary>

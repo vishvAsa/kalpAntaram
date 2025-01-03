@@ -23,8 +23,7 @@ He imbibes the traits of the man who begot him, and not of him to whom the ‘so
 **(verses 10.57-61)  
 **
 
-See Comparative notes for [Verse
-10.57].
+See Comparative notes for [Verse 10.57].
 </details>
 
 <details><summary>भारुचिः</summary>

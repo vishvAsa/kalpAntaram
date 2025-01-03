@@ -42,8 +42,7 @@ This verse is quoted in *Vivādaratnākara* (p. 414);—and in
 protected.’
 
 *Śaṅkha-Likhita* (Vivādaratnākara, p. 414).—‘The woman brings forth a
-son partaking of the character of that man on whom she has her
-affections fixed during her period.’
+son partaking of the character of that man on whom she has her affections fixed during her period.’
 </details>
 
 <details><summary>भारुचिः</summary>

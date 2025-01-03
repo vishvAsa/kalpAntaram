@@ -42,13 +42,7 @@ The compound ‘*dātṛyājakapañcamāḥ*’ is to be expounded as a *Bahuvr�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vidhānapārijāta* (p. 723) without comment;—also
-in *Vīramitrodaya* (Saṃskāra, p. 760);—and in *Saṃskāraratnamālā* (p.
-514) which adds the following notes—That girl also goes to hell, by
-marrying whom the younger brother ‘supersedes’ the elder;
-‘*dātṛyājakapañcamāḥ*’, *i.e*. (1) the bridegroom, (2) the bride, (3)
-the superseded elder brother, (4) the giver away of the bride, (5) and
-the priests officiating at the ceremony.
+This verse is quoted in *Vidhānapārijāta* (p. 723) without comment;—also in *Vīramitrodaya* (Saṃskāra, p. 760);—and in *Saṃskāraratnamālā* (p. 514) which adds the following notes—That girl also goes to hell, by marrying whom the younger brother ‘supersedes’ the elder; ‘*dātṛyājakapañcamāḥ*’, *i.e*. (1) the bridegroom, (2) the bride, (3) the superseded elder brother, (4) the giver away of the bride, (5) and the priests officiating at the ceremony.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -56,8 +50,7 @@ the priests officiating at the ceremony.
 *Laghu-Śātātapa* (40).—\[Reproduces the words of Manu.\]
 
 *Gobhila-Smṛti* (1.71).—‘The Superseder and the Superseded both
-assuredly go to hell; if they have performed the expiatory rite, even so
-they participate in the effects reduced only by a quarter.’
+assuredly go to hell; if they have performed the expiatory rite, even so they participate in the effects reduced only by a quarter.’
 
 *Baudhāyana* (2.1.39).—\[Same as Manu, except that for ‘*Yāyā ca
 parividyate*’ the reading is *Yā chainam parivindati*.’

@@ -39,8 +39,7 @@ The construction is as follows:—‘If the man openly declares, at the time of 
 **(verses 8.204-205)  
 **
 
-See Comparative notes for [Verse
-8.204].
+See Comparative notes for [Verse 8.204].
 </details>
 
 <details><summary>भारुचिः</summary>

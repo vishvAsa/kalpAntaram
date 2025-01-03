@@ -42,83 +42,43 @@ It is for this reason that, in a case where a house has been broken into, but no
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Ata eva sandhicchede* & c.’ (Medhātithi, p. 1069, l. 10)—See Manu
-9.276.
+‘*Ata eva sandhicchede* & c.’ (Medhātithi, p. 1069, l. 10)—See Manu 9.276.
 
-This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 298), which
-adds the following explanatory notes:—When the misappropriation of
-other’s property is done openly by force, even in the presence of
-watchmen and the king’s officers, then it is ‘*Sāhasa*’,
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 298), which adds the following explanatory notes:—When the misappropriation of other’s property is done openly by force, even in the presence of watchmen and the king’s officers, then it is ‘*Sāhasa*’,
 *robbery*,—‘theft’ consists in misappropriating secretly during absence,
-or by fraud;—and when the man, after avoiding the king’s officers and
-taking away the property, subsequently through fear, hides it, then also
-it is a case of ‘theft.’
+or by fraud;—and when the man, after avoiding the king’s officers and taking away the property, subsequently through fear, hides it, then also it is a case of ‘theft.’
 
-It is quoted in *Vivādaratnākara* (p. 286), which adds the following
-notes:—‘*Anvayavat*’ in the presence of the men guarding
-it,—‘*prasabham*,’ by force;—*i.e*., it is ‘robbery’ when the
-misappropriation is done without any attempt at
-concealment;—‘*apavyayate*’ hides, denies;—wherever there is
-misappropriation, it is ‘theft,’ which is of two kinds—(1) done in the
-absence of watchmen, and (2) done even in the presence of the watchman,
-but afterwards hidden.
+It is quoted in *Vivādaratnākara* (p. 286), which adds the following notes:—‘*Anvayavat*’ in the presence of the men guarding it,—‘*prasabham*,’ by force;—*i.e*., it is ‘robbery’ when the misappropriation is done without any attempt at concealment;—‘*apavyayate*’ hides, denies;—wherever there is misappropriation, it is ‘theft,’ which is of two kinds—(1) done in the absence of watchmen, and (2) done even in the presence of the watchman, but afterwards hidden.
 
-The same work quotes it again on p. 350 where it adds the following
-explanation:—When the property is taken away in the presence of the
-watchman, this is what is called ‘*sānvaya apahāra*,’ which is
+The same work quotes it again on p. 350 where it adds the following explanation:—When the property is taken away in the presence of the watchman, this is what is called ‘*sānvaya apahāra*,’ which is
 *robbery*, but where it is taken away in the absence of the watchman,
 and then denied, it is *theft*.
 
-It is quoted in ‘*Mitākṣārā*,’ (2.266), which adds the following
-notes:—‘*Anvayavat*,’ in the presence of the guardians of the property,
-the state officials and others,—‘*prasabham*,’ by force—where another’s
-property is taken away—it is called ‘robbery different from this is
-‘theft,’ which is ‘*niranvaya*’—*i.e*., done either in the absence of
-the guardians of property and others, or through fraud;—and whenever the
-act, though committed in the presence of these persons, is concealed
-through fear, this also is ‘theft’ *Bālambhaṭṭī* has declared
-‘*kṛtvāpavyayate ca yat*’ to be the generally accepted reading, and
-explains it as ‘conceals.’
+It is quoted in ‘*Mitākṣārā*,’ (2.266), which adds the following notes:—‘*Anvayavat*,’ in the presence of the guardians of the property, the state officials and others,—‘*prasabham*,’ by force—where another’s property is taken away—it is called ‘robbery different from this is ‘theft,’ which is ‘*niranvaya*’—*i.e*., done either in the absence of the guardians of property and others, or through fraud;—and whenever the act, though committed in the presence of these persons, is concealed through fear, this also is ‘theft’ *Bālambhaṭṭī* has declared ‘*kṛtvāpavyayate ca yat*’ to be the generally accepted reading, and explains it as ‘conceals.’
 
-It is quoted in *Smṛtisāroddhāra* (p. 329), which explains ‘*anvayavat*’
-as ‘before the owner’s eyes,’ and ‘*niranvayam*’ as ‘behind the owner’s
-back’;—and in *Vīramitrodaya* (Vyavahāra, 150b), which adds the same
-explanation and adds that even in cases of robbery, if the accused
-denies the act in the court, it becomes a case of ‘theft.’
+It is quoted in *Smṛtisāroddhāra* (p. 329), which explains ‘*anvayavat*’ as ‘before the owner’s eyes,’ and ‘*niranvayam*’ as ‘behind the owner’s back’;—and in *Vīramitrodaya* (Vyavahāra, 150b), which adds the same explanation and adds that even in cases of robbery, if the accused denies the act in the court, it becomes a case of ‘theft.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (2.230).—‘The forcible taking away of what does not belong
-exclusively to one has been called *Robbery*. The penalty in this case
-consists of a fine double the value of the article; if the robbery is
-denied, it shall he four times that value.’
+exclusively to one has been called *Robbery*. The penalty in this case consists of a fine double the value of the article; if the robbery is denied, it shall he four times that value.’
 
 *Bṛhaspati* (28.2 *et* *seq*.).—‘Stealers are of two kinds—open
-(robbers) and secret (thieves); fraudulent traders, quacks, gamblers,
-dishonest judges, bribe-takers, cheats, persons pretending to interpret
-omens, or to practise propitiatory rites, low artists, forgers, hired
-servants refusing to work, dishonest umpires, perjured witnesses and
-jugglers—these are *open* stealers.’
+(robbers) and secret (thieves); fraudulent traders, quacks, gamblers, dishonest judges, bribe-takers, cheats, persons pretending to interpret omens, or to practise propitiatory rites, low artists, forgers, hired servants refusing to work, dishonest umpires, perjured witnesses and jugglers—these are *open* stealers.’
 
 *Bṛhaspati* (22.24).—‘Robbery is declared to be threefold as it may be
-of the lowest, middling or highest kind; the punishment in each case
-should also be of the lowest, middling or highest sort, according to the
-nature of the article.’
+of the lowest, middling or highest kind; the punishment in each case should also be of the lowest, middling or highest sort, according to the nature of the article.’
 
 *Nārada* (Theft, 1 *et seq*.).—‘Two kinds of robbers stealing the goods
-of others have to he distinguished—the one kind, open and the other kind
-concealed. Open robbers are those who forge measures and weights,
-receivers of bribes, robbers, gamblers, public prostitutes, those who go
-about in disguise, etc., etc.’
+of others have to he distinguished—the one kind, open and the other kind concealed. Open robbers are those who forge measures and weights, receivers of bribes, robbers, gamblers, public prostitutes, those who go about in disguise, etc., etc.’
 
 *Arthaśāstra* (p. 100).—‘The taking away of an article, if accompanied
 by force, is called *Robbery*,— if not accompanied by force,
 *Theft*,—also when the act is denied.
 
 *Kātyāyana* (Vivādaratnākara, p. 287).—‘When a thing is taken away
-forcibly, in the presence of watchmen, it is *sāhasa*, Robbery; if it is
-done secretly, it is *steya*, Theft.’
+forcibly, in the presence of watchmen, it is *sāhasa*, Robbery; if it is done secretly, it is *steya*, Theft.’
 </details>
 
 <details><summary>भारुचिः</summary>

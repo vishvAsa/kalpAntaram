@@ -22,10 +22,7 @@ The rest is quite clear.—(167)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādanatnākara* (p. 555), which has the
-following notes—‘*Talpa*’, wife,—‘*vyādhitasaya vā*’, the disease meant
-is of the incurable type,—‘*svadharmeṇa*’, according to the rules laid
-down, *i.e*., ‘smearing his body with clarified butter’ and so forth;—in
+This verse is quoted in *Vivādanatnākara* (p. 555), which has the following notes—‘*Talpa*’, wife,—‘*vyādhitasaya vā*’, the disease meant is of the incurable type,—‘*svadharmeṇa*’, according to the rules laid down, *i.e*., ‘smearing his body with clarified butter’ and so forth;—in
 *Parāśaramādhava* (Prāyaścitta, p. 38);—in *Vyavahāra-Bālambhaṭṭī* (p.
 540 and 557):—‘in *Nṛsiṃhaparasāda* (Vyavahāra 38a);—and in
 *Vīramitrodaya* (Vyavahāra 187b).
@@ -34,15 +31,10 @@ down, *i.e*., ‘smearing his body with clarified butter’ and so forth;—in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (2.3.17-18).—‘He who is begotten by another man, on the
-wife of a deceased man, or of a eunuch, or of a man incurably deceased,
-after she has been authorised,—is called the *Kṣetraja*, son begotten on
-one’s wife by another man;—such a son has two fathers and belongs to two
-families; he has the right to offer the funeral oblations and to inherit
-the property of his two fathers.’
+wife of a deceased man, or of a eunuch, or of a man incurably deceased, after she has been authorised,—is called the *Kṣetraja*, son begotten on one’s wife by another man;—such a son has two fathers and belongs to two families; he has the right to offer the funeral oblations and to inherit the property of his two fathers.’
 
 *Vaśiṣṭha* (17.14).—‘The second is the *Kṣetraja* son, who is begotten
-by an authorised kinsman on the wife of a person who has failed (by
-death or disease),’
+by an authorised kinsman on the wife of a person who has failed (by death or disease),’
 
 *Viṣṇu* (15.3).—‘The second is the *Kṣetraja* son, who is begotten by a
 *sapiṇḍa* kinsman, or by a member of the highest caste, on an authorised
@@ -56,8 +48,7 @@ wife by a *Sagotra* kinsman, or a kinsman not belonging to the same
 *gotra*—who is authorised to do so.’
 
 *Hārīta* (Vivādaratnākara, p. 557).—‘The son begotten by another while
-the woman’s husband is alive is called *Kṣetraja*; and when begotten
-after his death is called *Dvyāmuṣyāyaṇa*.’
+the woman’s husband is alive is called *Kṣetraja*; and when begotten after his death is called *Dvyāmuṣyāyaṇa*.’
 </details>
 
 <details><summary>भारुचिः</summary>

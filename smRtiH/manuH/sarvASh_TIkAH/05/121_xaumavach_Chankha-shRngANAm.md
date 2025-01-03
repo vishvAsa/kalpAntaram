@@ -24,9 +24,7 @@ The ‘bone’, ‘horn’ and ‘tusk’ meant are those of the touchable anima
 
 (Verse 121 of others.)
 
-This verse is quoted in *Aparārka* (p. 260);—in *Nityācārapradīpa* (p.
-99);—in *Parāśaramādhava* Prāyaścitta, p. 138);—and in *Hemādri*
-(Śrāddha, p. 805).
+This verse is quoted in *Aparārka* (p. 260);—in *Nityācārapradīpa* (p. 99);—in *Parāśaramādhava* Prāyaścitta, p. 138);—and in *Hemādri* (Śrāddha, p. 805).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -37,19 +35,16 @@ This verse is quoted in *Aparārka* (p. 260);—in *Nityācārapradīpa* (p.
 be scoured;—articles of hone and clay should bo planed.
 
 *Baudhāyana* (1.8.45-47).—‘Bones should be cleansed like wood (by
-planing); conch-shells, horn, pearl-shells and ivory should be cleansed
-like linen (with paste of yellow mustard).’
+planing); conch-shells, horn, pearl-shells and ivory should be cleansed like linen (with paste of yellow mustard).’
 
 *Vaśiṣṭha* (3.50-52).—‘Stones and gems (like metals) should be scoured
-with ashes; so also conch-shells and pearl-shells; objects made of hone
-should he planed.’
+with ashes; so also conch-shells and pearl-shells; objects made of hone should he planed.’
 
 *Viṣṇu* (23. 23).—‘Things made of horns, hone or teeth should be
 cleansed with sesamum.’
 
 *Yājñavalkya* (1.185).—‘Wood, horn and bones and things made out of
-fruits should he scoured with brush made of the hairs of the cow’s
-tail.’
+fruits should he scoured with brush made of the hairs of the cow’s tail.’
 
 *Yama* (Aparārka, p. 261).—‘Vessels made of gourd and wood and
 bamboo-chips, when very much defiled, should????? given up.’
@@ -58,8 +53,7 @@ bamboo-chips, when very much defiled, should????? given up.’
 cloth, woolen and jute are purified by sprinkling water.’
 
 *Aṅgiras* (Parāśaramādhava, p. 138).—‘Woolen things are purified by air,
-fire and sun’s rays; they are not defiled by the touch of semen or of a
-dead body.’
+fire and sun’s rays; they are not defiled by the touch of semen or of a dead body.’
 </details>
 
 <details><summary>Bühler</summary>

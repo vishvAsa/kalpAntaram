@@ -56,36 +56,25 @@ Some people hold that the term ‘grass’ itself indicates that it is meant for
 
 This verse is quoted in *Vidhānapārijāta* (II, p. 252);—in
 *Prāyaścittaviveka* (p. 116), which says that what is meant is that the
-sin of the act is removed by the use mentioned, and *not* that it is not
-a case of ‘theft’;—and in *Vivādacintāmaṇi* (p. 147), which says that
-the ‘*fruits*’ meant should be such as do not belong to another person.
+sin of the act is removed by the use mentioned, and *not* that it is not a case of ‘theft’;—and in *Vivādacintāmaṇi* (p. 147), which says that the ‘*fruits*’ meant should be such as do not belong to another person.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (12.28).—‘One may take as one’s own, grass for a cow, and fuel
-for his fire; as also flowers of creepers and trees and their fruit, if
-these be unfenced.’
+for his fire; as also flowers of creepers and trees and their fruit, if these be unfenced.’
 
 *Āpastamba* (1.28.1-6).—‘He who, under any condition whatsoever, covets
-and takes another man’s property is a *thief*; thus teach Kautsa and
-Hārīta, as well as Kaṇva and Puskarsādi. Vārsyāyani declares that there
-are exceptions to this law, in regard to some things;—*e.g*., seeds
-ripening in the pod, food for a draught-ox; if these are taken, the
-owner should not forbid it. To take even these in large quantities is
-sinful. Hārīta declares that in every case the permission of the owner
-must he obtained first.’
+and takes another man’s property is a *thief*; thus teach Kautsa and Hārīta, as well as Kaṇva and Puskarsādi. Vārsyāyani declares that there are exceptions to this law, in regard to some things;—*e.g*., seeds ripening in the pod, food for a draught-ox; if these are taken, the owner should not forbid it. To take even these in large quantities is sinful. Hārīta declares that in every case the permission of the owner must he obtained first.’
 
 *Yājñavalkya* (2.166).—‘Grass, fuel and flowers, the twice-born may take
 from all places.’
 
 *Smṛtyantara* (Aparārka, p. 774).—‘Grass, wood, flower or fruit—if one
-takes any of these without permission, he deserves to have his hand cut
-oil.’
+takes any of these without permission, he deserves to have his hand cut oil.’
 
 *Nārada* (Theft, 22-24).—‘For stealing, wood, cane, grass and the
-like...... vegetables, green roots, grass or flowers... a fine of five
-times the value of the article stolen.’
+like...... vegetables, green roots, grass or flowers... a fine of five times the value of the article stolen.’
 </details>
 
 <details><summary>भारुचिः</summary>

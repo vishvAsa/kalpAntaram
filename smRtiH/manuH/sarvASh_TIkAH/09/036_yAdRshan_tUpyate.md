@@ -42,8 +42,7 @@ The exact meaning of the term ‘*yādṛśam*,’ ‘as’, is going to be expl
 
 **(verses 9.31-44)**
 
-See Comparative notes for [Verse
-9.31].
+See Comparative notes for [Verse 9.31].
 </details>
 
 <details><summary>भारुचिः</summary>

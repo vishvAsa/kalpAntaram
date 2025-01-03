@@ -46,21 +46,15 @@ Pāṇini, 2. 1. 32; or, it may be expounded as ‘that Veda in which the syllab
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Viśīryati* ’—*avasthitim na labhate*, ‘does not obtain any standing’
-(Kullūka);—‘becomes absolutely useless’ (Medhātithi);—‘is not
-understood’ (Govindarāja and Nārāyaṇa),
+‘*Viśīryati* ’—*avasthitim na labhate*, ‘does not obtain any standing’ (Kullūka);—‘becomes absolutely useless’ (Medhātithi);—‘is not understood’ (Govindarāja and Nārāyaṇa),
 
-This verse is quoted in *Madanapārijāta* (p. 99);—in *Vidhānapārijāta*
-(p. 521);—and in *Smṛticandrikā* (Saṃskāra, p. 136) in support of the
-view that the *Praṇava* should he pronounced at the close of the reading
-also.
+This verse is quoted in *Madanapārijāta* (p. 99);—in *Vidhānapārijāta* (p. 521);—and in *Smṛticandrikā* (Saṃskāra, p. 136) in support of the view that the *Praṇava* should he pronounced at the close of the reading also.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Apastamba-Dharmasūtra*, 4. 13. 16.—‘The syllable *Om* is the gate of
-Heaven; therefore when going to read the Veda, one should begin with
-it.’
+Heaven; therefore when going to read the Veda, one should begin with it.’
 
 *Viṣṇu-Smṛti*, 30,33.—‘The Praṇava should be pronounced.’
 </details>

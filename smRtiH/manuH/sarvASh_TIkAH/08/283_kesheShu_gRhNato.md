@@ -37,21 +37,9 @@ In the case of other parts of the body also, the catching of which causes the sa
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-It is difficult to see why Hopkins calls the reading ‘*dāḍhikāyām*,’
-‘obscure.’
+It is difficult to see why Hopkins calls the reading ‘*dāḍhikāyām*,’ ‘obscure.’
 
-This verse is quoted in *Aparārka* (p. 814), which adds the following
-notes:—‘*Dāḍhikāyām*’—on the beard,—‘*Vṛsaṇeṣu* scrotum and the rest; if
-the scrotum *alone* were meant, then the plural ending could not be
-justified;—in *Vivādaratnākara* (p. 268), which remarks that the dual
-ending has been used in ‘*hastau*’ with a view to indicate that *both
-hands* are to be cut off even though the beard be held by one only; and
-it explains ‘*dāḍhikā*,’ as ‘beard’—and in *Vivādachintāmaṇi* (Calcutta,
-p, 76), which explains these two verses to mean that ‘if a Śūdra insults
-a man of any of the higher castes by spitting at him, his lips should be
-cut off—if by urinating on his body, his urinary organ should be cut
-off,—if by passing wind over him, the anus should be cut off,—and if by
-catching hold of his hair, then his hands should be cut off.’
+This verse is quoted in *Aparārka* (p. 814), which adds the following notes:—‘*Dāḍhikāyām*’—on the beard,—‘*Vṛsaṇeṣu* scrotum and the rest; if the scrotum *alone* were meant, then the plural ending could not be justified;—in *Vivādaratnākara* (p. 268), which remarks that the dual ending has been used in ‘*hastau*’ with a view to indicate that *both hands* are to be cut off even though the beard be held by one only; and it explains ‘*dāḍhikā*,’ as ‘beard’—and in *Vivādachintāmaṇi* (Calcutta, p, 76), which explains these two verses to mean that ‘if a Śūdra insults a man of any of the higher castes by spitting at him, his lips should be cut off—if by urinating on his body, his urinary organ should be cut off,—if by passing wind over him, the anus should be cut off,—and if by catching hold of his hair, then his hands should be cut off.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -63,13 +51,10 @@ garment, or by his hand, he shall pay ten *Paṇas*.’
 the fine shall be multiples of six respectively.’
 
 *Nārada* (15-16.28).—‘If he pulls a superior by the hair, the King shall
-unhesitatingly cause his hands to be out off; likewise if he seizes him
-by the feet, beard, neck or scrotum.’
+unhesitatingly cause his hands to be out off; likewise if he seizes him by the feet, beard, neck or scrotum.’
 
 *Yājñavalkya* (2.217).—‘For pulling a person by the feet, hair, garment
-or hands,—there shall be a fine of 10 *Paṇas*; for causing pain,
-dragging, binding with cloth and striking with the feet, the fine shall
-be a hundred.’
+or hands,—there shall be a fine of 10 *Paṇas*; for causing pain, dragging, binding with cloth and striking with the feet, the fine shall be a hundred.’
 </details>
 
 <details><summary>भारुचिः</summary>

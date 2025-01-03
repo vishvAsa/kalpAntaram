@@ -20,8 +20,7 @@ The ‘*boar*’ here stands for the *wild* species.—(270)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 706);—in *Hemādri*
-(Śrāddha, p. 586);—and in *Gadādharapaddhati* (Kāla, p. 536).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 706);—in *Hemādri* (Śrāddha, p. 586);—and in *Gadādharapaddhati* (Kāla, p. 536).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -29,8 +28,7 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 706);—in *Hemādri*
 **(verses 3.269-271)  
 **
 
-See Comparative notes for [Verse
-3.269].
+See Comparative notes for [Verse 3.269].
 </details>
 
 <details><summary>Bühler</summary>

@@ -30,8 +30,7 @@ If we read ‘*dainya*’ (*for* ‘-*dhairya*’), it should he understood to m
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Adhairyam*’—‘Impatience’ (Medhātithi);—‘Want of contented disposition’
-(Nārāyaṇa).
+‘*Adhairyam*’—‘Impatience’ (Medhātithi);—‘Want of contented disposition’ (Nārāyaṇa).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -42,10 +41,7 @@ If we read ‘*dainya*’ (*for* ‘-*dhairya*’), it should he understood to m
 *Maitryupaniṣad* (3.5).
 
 *Yājñavalkya* (3.137-138).—‘Addicted to bad acts, impatient, active,
-attached to objects of sense, a man abounds in the attribute of *Rajas*,
-and is re-born among men. Lethargic, cruel in bis acts, covetous,
-heretic, addicted to begging, careless, of bad character, a man abounds
-in the attribute of *Tamas*, and is born among animals.’
+attached to objects of sense, a man abounds in the attribute of *Rajas*, and is re-born among men. Lethargic, cruel in bis acts, covetous, heretic, addicted to begging, careless, of bad character, a man abounds in the attribute of *Tamas*, and is born among animals.’
 </details>
 
 <details><summary>Bühler</summary>

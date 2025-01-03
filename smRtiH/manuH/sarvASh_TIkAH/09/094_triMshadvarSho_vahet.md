@@ -34,28 +34,13 @@ Further, the age here stated can never be observed in the case of one’s son ma
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 766), which says
-that the following is the upshot of the texts bearing on this
-subject:—If the age of the girl is 8 years or less, she should be
-married to a man whose age is three times that of hers; if it is between
-8 and 12, the age of the bidegroom should two and a half times;—if her
-age is between 12 and 16 then that of the bridegroom shall be two years
-less than the double of her age. Of the sentence ‘*dharme sīdati
-satvaraḥ*,’ it gives two explanations:—(*a*) if he finds that his
-religious duties would otherwise suffer, he may marry earlier; and (*b*)
-if he marries in haste,—*i.e*., if he marries before he has reached the
-prescribed age, or if he marries a girl whose age is lower than the one
-prescribed,—then he suffers in spiritual merit
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 766), which says that the following is the upshot of the texts bearing on this subject:—If the age of the girl is 8 years or less, she should be married to a man whose age is three times that of hers; if it is between 8 and 12, the age of the bidegroom should two and a half times;—if her age is between 12 and 16 then that of the bridegroom shall be two years less than the double of her age. Of the sentence ‘*dharme sīdati satvaraḥ*,’ it gives two explanations:—(*a*) if he finds that his religious duties would otherwise suffer, he may marry earlier; and (*b*) if he marries in haste,—*i.e*., if he marries before he has reached the prescribed age, or if he marries a girl whose age is lower than the one prescribed,—then he suffers in spiritual merit
 
-It is quoted in *Parāśaramādhava* (Ācāra, p. 474), as laying down the
-extent to which the bride should be younger than the bridegroom;—in
+It is quoted in *Parāśaramādhava* (Ācāra, p. 474), as laying down the extent to which the bride should be younger than the bridegroom;—in
 *Parāśaramādhava* (Prāyaścitta, p. 121), which adds that this verse
 applies to cases where the girl has not menstruated upto 12 years;—in
 *Nirṇayasindhu* (p. 215);—in *Saṃskāramayūkha* (p. 82), which explains
-‘*tryaṣṭavarṣaḥ*’ as ‘twenty-four years old’;—in *Hemādri* (Kāla, p.
-801);—in *Smṛticandrikā* (Saṃskāra, p. 112), which explains ‘*satvara*’
-as ‘one of lower age,’ and deduces the conclusion that there is nothing
-wrong if the girl is married before her menstruation;—and in
+‘*tryaṣṭavarṣaḥ*’ as ‘twenty-four years old’;—in *Hemādri* (Kāla, p. 801);—in *Smṛticandrikā* (Saṃskāra, p. 112), which explains ‘*satvara*’ as ‘one of lower age,’ and deduces the conclusion that there is nothing wrong if the girl is married before her menstruation;—and in
 *Gadādharapaddhati* (Kāla, p. 222), which explains ‘*satvaraḥ*’ as one
 who is in a hurry to enter the Householder’s stage.’
 </details>
@@ -63,8 +48,7 @@ who is in a hurry to enter the Householder’s stage.’
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (13.41.14).—‘One who is thirty or twenty-one years old
-shall take a wife sixteen years old, but before she has attained
-puberty.’
+shall take a wife sixteen years old, but before she has attained puberty.’
 
 *Viṣṇupurāṇa* (Vīramitrodaya-Saṃskāra, p. 766).—‘A man shall select a
 wife whose age is one-third of his own.’
@@ -72,17 +56,10 @@ wife whose age is one-third of his own.’
 *Yama* (Do.)—(Same as Manu.)
 
 *Āpastamba* (Do., p. 767).—‘A man thirty-years old shall take a wife ten
-years old, before she has attained puberty; and one twenty-one years
-old, a girl seven years old.’
+years old, before she has attained puberty; and one twenty-one years old, a girl seven years old.’
 
 *Āśvalāyana* (Do.).—‘A maiden seven years old is called *Śaiśavī*; a man
-eighteen years of age shall marry her; a maiden eight years old is
-called *Gaurī*, conducive to richness of sons and grandsons; and she
-shall be married by a man twenty-five years old; a girl nine years old
-is called *Rohiṇī* conducive to richness of wealth; a wise man shall wed
-her for the accomplishment of all his desires; a girl over ten years
-age, until she has her courses, is called *Gāndhārī*; and she shall be
-married by a man desirous of living long.’
+eighteen years of age shall marry her; a maiden eight years old is called *Gaurī*, conducive to richness of sons and grandsons; and she shall be married by a man twenty-five years old; a girl nine years old is called *Rohiṇī* conducive to richness of wealth; a wise man shall wed her for the accomplishment of all his desires; a girl over ten years age, until she has her courses, is called *Gāndhārī*; and she shall be married by a man desirous of living long.’
 </details>
 
 <details><summary>भारुचिः</summary>

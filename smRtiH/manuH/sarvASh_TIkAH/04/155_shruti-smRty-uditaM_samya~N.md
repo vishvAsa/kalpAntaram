@@ -25,10 +25,7 @@ He shall, in his action, diligently attend to right conduct which is the root of
 
 This verse has not been commented upon by Medhātithi.
 
-It is quoted in *Aparārka* (p. 127);—and in *Vīramitrodaya* (Āhnika, p.
-149), which explains ‘*abhigacchet*’ as ‘should approach, with a view to
-worshipping’; and adds that the emphasising ‘*eva*’ should be construed
-alter ‘*abhigacchet*’.
+It is quoted in *Aparārka* (p. 127);—and in *Vīramitrodaya* (Āhnika, p. 149), which explains ‘*abhigacchet*’ as ‘should approach, with a view to worshipping’; and adds that the emphasising ‘*eva*’ should be construed alter ‘*abhigacchet*’.
 
 **(verse 154)**
 
@@ -36,9 +33,7 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 149)
 
 **(verse 155)**
 
-This verse is quoted in *Madanapārijāta* (p. 12), which adds that
-‘*ācāra*’ here spoken of is to be learnt from the people of the
-‘Madhyadeśa’ and other countries mentioned in Discourse I.
+This verse is quoted in *Madanapārijāta* (p. 12), which adds that ‘*ācāra*’ here spoken of is to be learnt from the people of the ‘Madhyadeśa’ and other countries mentioned in Discourse I.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -46,8 +41,7 @@ This verse is quoted in *Madanapārijāta* (p. 12), which adds that
 **(verse 153)**
 
 *Gautama* (9.63-64).—‘For his welfare and protection he shall *go* over
-to the king,—not to any one else, except the gods, elders and righteous
-persons.’
+to the king,—not to any one else, except the gods, elders and righteous persons.’
 
 *Āpastamba* (1.6.7).—‘Appearing before him, and receiving him as befits
 his age, he shall offer him a seat.’
@@ -63,14 +57,12 @@ shall approach the king.’
 am*.”.’
 
 *Mahābhārata* (Anuśāsana, 161.70).—\[The same as Manu, reading
-‘*abhivādayīta*.’ for ‘*abhivādayet*,’ ‘*svayani*’ for ‘*svakam*’ and
-‘*gacchantam*’ for ‘*gacchataḥ*.’\]
+‘*abhivādayīta*.’ for ‘*abhivādayet*,’ ‘*svayani*’ for ‘*svakam*’ and ‘*gacchantam*’ for ‘*gacchataḥ*.’\]
 
 **(verse 155)**
 
 *Viṣṇu* (71.90).—‘Intent on righteousness and with senses under control,
-he shall have recourse to that conduct which has been ordained in the
-Śruti and the Smṛti and which is followed by the good.’
+he shall have recourse to that conduct which has been ordained in the Śruti and the Smṛti and which is followed by the good.’
 
 *Yājñavalkya* (1.154).—‘He shall always have recourse to that conduct
 which has been ordained in the Śruti and the Smṛti.’

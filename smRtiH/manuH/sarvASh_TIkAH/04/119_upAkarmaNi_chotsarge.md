@@ -26,8 +26,7 @@ It has been said above (verse 97) that, at the *Utsarjana* ceremony, one night, 
 
 For the ‘Seasons’, see *Sūryasiddhānta*, 14.10.
 
-The first half of this Verse is quoted in *Vīramitrodaya* (Saṃskāra, p.
-531);—in *Nirṇayasindhu* (p. 193);—in *Hemādri* (Kāla, p. 760);—in
+The first half of this Verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 531);—in *Nirṇayasindhu* (p. 193);—in *Hemādri* (Kāla, p. 760);—in
 *Saṃskāramayūkha* (p. 59);—in *Smṛticandrikā* (Saṃskāra, p. 154);—in
 *Gadādharapaddhati* (Kāla, p. 195);—and in *Saṃskāraratnamālā* (p. 332),
 which explains ‘*kṣapaṇam*’ as ‘*anadhyāyaḥ*’.
@@ -36,8 +35,7 @@ which explains ‘*kṣapaṇam*’ as ‘*anadhyāyaḥ*’.
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba Dharmasūtra* (1.10.1-2).—‘The full moon days of Phālguna,
-Āṣāḍha and Kārtika, the Aṣṭakā’s and the Upākaraṇa ceremony are
-occasions for a three-days holiday.’
+Āṣāḍha and Kārtika, the Aṣṭakā’s and the Upākaraṇa ceremony are occasions for a three-days holiday.’
 
 *Gautama* (16.37, 39).—‘The full moon day of Kārttika, Phālguna and
 Āṣāḍha, and the three Aṣṭakās—are occasions for three-days’ holiday.’
@@ -46,15 +44,11 @@ occasions for a three-days holiday.’
 eclipse, nor at the Upākarma, nor at the Utsarjana ceremony.’
 
 *Yājñavalkya* (1.6.144, 146).—‘By reason of the Upākarma or the Utsarga
-ceremony, or the death of a Vedic Scholar of one’s own recension,—also
-on the fifteenth, fourteenth and eighth days of the month, on the
-occasion of an eclipse, at the juncture of seasons, and on the occasion
-of eating, or receiving gifts, at a Śrāddha.’
+ceremony, or the death of a Vedic Scholar of one’s own recension,—also on the fifteenth, fourteenth and eighth days of the month, on the occasion of an eclipse, at the juncture of seasons, and on the occasion of eating, or receiving gifts, at a Śrāddha.’
 
 *Pāraskara* (2.10.23).—‘They should not read for three days.’
 
-Do. (2.11.2).—‘On eating at a Śrāddha...... at the juncture of the
-seasons,—they shall not road till the same time next day.’
+Do. (2.11.2).—‘On eating at a Śrāddha...... at the juncture of the seasons,—they shall not road till the same time next day.’
 
 *Gobhila* (3.3.22).—‘On the three full moon nights of Kārttika, Phālguna
 and Āṣāḍha.’

@@ -27,8 +27,7 @@ He shall not throw into water urine, or faeces, or spittings, or anything else c
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba Dharmasūtra* (1.30.18).—‘He shall not urinate or stool with
-shoes on; nor in a ploughed field, nor on the path, nor in water; such
-acts also he shall avoid as spitting in water.’
+shoes on; nor in a ploughed field, nor on the path, nor in water; such acts also he shall avoid as spitting in water.’
 
 *Viṣṇu* (71.32.35).—‘He shall not throw any unclean thing into the fire,
 nor blood, nor poison;—not also in water.’

@@ -55,23 +55,12 @@ the debt’?—as also regarding the *time*,—the mention of ‘*place*’ bein
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Deśam*’—There is no difference in the meaning assigned to the word by
-Medhātithi and Kullūka,—both taking it in the sense of ‘witness’; the
-meaning ‘place’, attributed to Medhātithi, is however found in Nandana
-In his interpretation of Medhātithi, Buhler has been misled by the
-explanation that Medhātithi has provided by another reading. (See
+‘*Deśam*’—There is no difference in the meaning assigned to the word by Medhātithi and Kullūka,—both taking it in the sense of ‘witness’; the meaning ‘place’, attributed to Medhātithi, is however found in Nandana In his interpretation of Medhātithi, Buhler has been misled by the explanation that Medhātithi has provided by another reading. (See
 *Translation*).
 
-This verse is quoted in *Kṛtyakalpataru* (24b), which adds the following
-explanation:—When on being questioned in court by the king or the judge,
-the debtor denies all transaction with the creditor, then the latter who
+This verse is quoted in *Kṛtyakalpataru* (24b), which adds the following explanation:—When on being questioned in court by the king or the judge, the debtor denies all transaction with the creditor, then the latter who
 
-is the plaintiff, should name the witnesses and cite other proofs in the
-form of written documents and so forth:—and in *Vīramitrodaya*
-(Vyavahāra, 29b), which explains ‘*deśam*’ as ‘witness’, expounding it
-as ‘*diṣati artham yathādṛṣṭam*’ and quotes Medhātithi’s explanation on
-‘*karaṇam*’ also, which it explains as ‘other proofs’; it remarks that
-Medhātithi reads ‘*kāraṇam vā samuddishet*.’
+is the plaintiff, should name the witnesses and cite other proofs in the form of written documents and so forth:—and in *Vīramitrodaya* (Vyavahāra, 29b), which explains ‘*deśam*’ as ‘witness’, expounding it as ‘*diṣati artham yathādṛṣṭam*’ and quotes Medhātithi’s explanation on ‘*karaṇam*’ also, which it explains as ‘other proofs’; it remarks that Medhātithi reads ‘*kāraṇam vā samuddishet*.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -79,8 +68,7 @@ Medhātithi reads ‘*kāraṇam vā samuddishet*.’
 *Bṛhaspati* (11.62).—(See under 51.)
 
 *Kātyāyana* (Vivādaratnākara, p. 67).—‘The debtor shall be openly
-arrested and kept in restraint before the assembly of the people, until
-he repays the dues, in accordance with the custom of the country.’
+arrested and kept in restraint before the assembly of the people, until he repays the dues, in accordance with the custom of the country.’
 </details>
 
 <details><summary>भारुचिः</summary>

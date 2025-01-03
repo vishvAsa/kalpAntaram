@@ -24,11 +24,9 @@ The words of the text are quite clear.—(138)
 
 ‘*Sahasram*’—“Copper *paṇas* are meant”—Hopkins.
 
-This verse is quoted in *Mitākṣarā* (1.366), which remarks that the
-fines here prescribed pertain to offences committed unintentionally;—in
+This verse is quoted in *Mitākṣarā* (1.366), which remarks that the fines here prescribed pertain to offences committed unintentionally;—in
 *Aparārka*, (p. 592), which adds that these pertain to slight
-offences;—in *Vivādaratnākara* (p. 665);—in *Vīramitrodaya* (Rājanīti,
-p. 295), which reproduces the words of *Aparārka*;—in
+offences;—in *Vivādaratnākara* (p. 665);—in *Vīramitrodaya* (Rājanīti, p. 295), which reproduces the words of *Aparārka*;—in
 *Vyavahāra-Bālambhaṭṭī* (p. 938);—and in *Vivādacintāmaṇi* (p. 192),
 which says that the numbers refer to *copper kārṣāpaṇas*.
 </details>
@@ -42,9 +40,7 @@ which says that the numbers refer to *copper kārṣāpaṇas*.
 540 *Paṇas*, the middlemost;—270 *Paṇas*, the lowest.’
 
 *Śaṅkha-Likhita* (Vivādaratnākara, p. 664).—‘From 24 to 91 is the first
-amercement, 200 to 500, the middlemost amercement; 600 to 1,000, the
-highest amercement; to he determined in accordance with the resources of
-the culprit and the nature of his offence.’
+amercement, 200 to 500, the middlemost amercement; 600 to 1,000, the highest amercement; to he determined in accordance with the resources of the culprit and the nature of his offence.’
 
 *Nārada* (Do.).—‘24 to 96 is the first amercement; 200 to 500, the
 middlemost; 500 to 1,000 the highest.’

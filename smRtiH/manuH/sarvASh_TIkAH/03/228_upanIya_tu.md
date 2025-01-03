@@ -28,8 +28,7 @@ This verse is quoted in *Smṛtitattva* (p. 230) without comment;—in
 *Hemādri* (Śrāddha, p. 1308);—in *Gadādharapaddhati* (Kāla, p. 546),
 which explains ‘*guṇān*’ as ‘sweetness and the rest’;—and in
 *Śrāddhakriyākaumudī*, (pp. 158 and 164), which explains ‘*śanakaiḥ*’ as
-‘one after the other’, ‘*guṇān prachodayan*’ as ‘mentioning that *this
-is sweet, this is acid*, and so forth.’
+‘one after the other’, ‘*guṇān prachodayan*’ as ‘mentioning that *this is sweet, this is acid*, and so forth.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -37,8 +36,7 @@ is sweet, this is acid*, and so forth.’
 **(verses 3.226-228)  
 **
 
-See Comparative notes for [Verse
-3.226].
+See Comparative notes for [Verse 3.226].
 </details>
 
 <details><summary>Bühler</summary>

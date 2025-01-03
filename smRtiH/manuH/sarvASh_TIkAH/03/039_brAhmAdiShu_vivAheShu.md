@@ -43,10 +43,7 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 487); and in
 *Vīramitrodaya* (Saṃskāra, p. 865), which says that this describes the
 results accruing from the different forms of marriage.
 
-It is quoted in *Aparārka* (p. 117) along with verses 40 and 41, which
-adds that all this pertains to the Brāhmaṇa;—in *Hemādri* (Dāna, p.
-683);—in *Smṛticandrikā*, (Saṃskāra, p. 230);—and in *Saṃskāramayūkha*
-(p. 99).
+It is quoted in *Aparārka* (p. 117) along with verses 40 and 41, which adds that all this pertains to the Brāhmaṇa;—in *Hemādri* (Dāna, p. 683);—in *Smṛticandrikā*, (Saṃskāra, p. 230);—and in *Saṃskāramayūkha* (p. 99).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -55,26 +52,19 @@ adds that all this pertains to the Brāhmaṇa;—in *Hemādri* (Dāna, p.
 **
 
 *Viṣṇu* (24.34-37).—‘He who gives his girl in marriage by the Brāhma
-form goes to the regions of Brahman; by the Daiva, to Heaven; by the
-Ārṣa, to the regions of Viṣṇu; by the Prājāpatya, to the regions of the
-gods; and by the *Gāndharva* form, one goes to the region of the
-Gandharvas.’
+form goes to the regions of Brahman; by the Daiva, to Heaven; by the Ārṣa, to the regions of Viṣṇu; by the Prājāpatya, to the regions of the gods; and by the *Gāndharva* form, one goes to the region of the Gandharvas.’
 
 *Baudhāyana* (1.11.17).—‘It is well known that as the marriage-forms, so
 the offspring.’
 
 *Āpastamba-Dharmasūtra* (2.12.4).—‘To the extent that the form of
-marriage is the right one, to that same extent is the offspring born
-thereof of the right kind.’
+marriage is the right one, to that same extent is the offspring born thereof of the right kind.’
 
 *Yama* (Vīramitrodaya-Saṃskāra, p. 865).—\[Reproduces the words of
 Manu.\]
 
 *Dakṣa* (Vīramitrodaya-Saṃskāra, p. 866).—‘The reward accruing from the
-marrying of a girl by the right form is double in the case of her being
-given to a Brāhmaṇa; a hundred-thousandfold in that of her being given
-to a learned Brāhmaṇa; and endless in that of her being given to a
-thoroughly learned Brāhmaṇa.’
+marrying of a girl by the right form is double in the case of her being given to a Brāhmaṇa; a hundred-thousandfold in that of her being given to a learned Brāhmaṇa; and endless in that of her being given to a thoroughly learned Brāhmaṇa.’
 </details>
 
 <details><summary>Bühler</summary>

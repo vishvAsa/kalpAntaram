@@ -55,15 +55,9 @@ The penalty for the *Kṣatriya* is severer, because it is his duty to guard peo
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This vérse is quoted in *Vyavahāramayūkha* (p. 106);—in *Mitākṣarā*
-(2.286); where *Bālambhaṭṭī* adds that in ‘*pañcaśatam*’ we have
+This vérse is quoted in *Vyavahāramayūkha* (p. 106);—in *Mitākṣarā* (2.286); where *Bālambhaṭṭī* adds that in ‘*pañcaśatam*’ we have
 *Bahuvrīhi* compound; and notes that the penalty for a *Kṣatriya* is
-double that for a *Vaiśya*, because it is the function of the former to
-protect and guard people from all kinds of harm; and that the fine of
-500 prescribed for the Vaiśya is meant for that case where he does it
-under the impression that the woman is a Śūdra, or for that where the
-woman concerned is merely Brāhmaṇa by birth and is entirely devoid of
-all Brāhmaṇical virtues.
+double that for a *Vaiśya*, because it is the function of the former to protect and guard people from all kinds of harm; and that the fine of 500 prescribed for the Vaiśya is meant for that case where he does it under the impression that the woman is a Śūdra, or for that where the woman concerned is merely Brāhmaṇa by birth and is entirely devoid of all Brāhmaṇical virtues.
 
 It is quoted in *Vīramitrodaya* (Vyavahāra, 156a).
 </details>
@@ -72,8 +66,7 @@ It is quoted in *Vīramitrodaya* (Vyavahāra, 156a).
 
 **(verses 8.374-378)**
 
-See Comparative notes for [Verse
-8.374].
+See Comparative notes for [Verse 8.374].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -20,8 +20,7 @@ The sense of this verse has been already pointed out before.—(28)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 417);—in *Madanapārijāta*
-(p. 191);—and in *Nṛsiṃhaprasāda* (Saṃskāra, 66b).
+This verse is quoted in *Vivādaratnākara* (p. 417);—in *Madanapārijāta* (p. 191);—and in *Nṛsiṃhaprasāda* (Saṃskāra, 66b).
 </details>
 
 <details><summary>भारुचिः</summary>

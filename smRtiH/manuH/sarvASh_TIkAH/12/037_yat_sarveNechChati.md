@@ -23,8 +23,7 @@ This is quite clear.—(37)
 **(verses 12.32-51)  
 **
 
-See Comparative notes for [Verse
-12.32].
+See Comparative notes for [Verse 12.32].
 </details>
 
 <details><summary>भारुचिः</summary>

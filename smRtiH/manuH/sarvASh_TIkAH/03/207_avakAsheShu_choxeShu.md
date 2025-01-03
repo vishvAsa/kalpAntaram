@@ -34,12 +34,9 @@ By the Śrāddha ‘*offered*’— performed—in such places, the Pitṛs beco
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Cokṣesu*’—‘ Naturally clean’ (Medhātithi, Govindarāja, Kullūka and
-Nārāyaṇa);—and ‘pleasing’ (Nandana and Rāghavānanda).
+‘*Cokṣesu*’—‘ Naturally clean’ (Medhātithi, Govindarāja, Kullūka and Nārāyaṇa);—and ‘pleasing’ (Nandana and Rāghavānanda).
 
-This verse is quoted in *Aparārka* (p. 471), which explains ‘*cokṣa*’ as
-a ‘place that is naturally clean’;—in *Hemādri* (Śrāddha, p. 160);—and
-in *Śrāddhakriyākaumndī* (p. 102).
+This verse is quoted in *Aparārka* (p. 471), which explains ‘*cokṣa*’ as a ‘place that is naturally clean’;—in *Hemādri* (Śrāddha, p. 160);—and in *Śrāddhakriyākaumndī* (p. 102).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -48,8 +45,7 @@ in *Śrāddhakriyākaumndī* (p. 102).
 river-banks, on streams, on hills, in groves, in forests, in parks.’
 
 *Yama* (*Aparārka* p. 471).—‘Śrāddhas should be offered in sacred
-buildings, on river-banks, in Tīrthas, and on one’s own land, in groves
-near hills, and on mountain-tops.’
+buildings, on river-banks, in Tīrthas, and on one’s own land, in groves near hills, and on mountain-tops.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -28,23 +28,18 @@ In that same inner apartment, he shall, with a view to divert himself, sport, as
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 1.328);—in *Madanapārijāta* (p.
-224);—in *Vīramitrodaya* (Rājanīti, p. 167),—in *Nītimayūkha* (p.
-51);—and in *Nṛsiṃhaprasāda* (Āhnika, p. 36a).
+This verse is quoted in *Mitākṣarā* (on 1.328);—in *Madanapārijāta* (p. 224);—in *Vīramitrodaya* (Rājanīti, p. 167),—in *Nītimayūkha* (p. 51);—and in *Nṛsiṃhaprasāda* (Āhnika, p. 36a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (1.328).—‘After that he may amuse himself as he likes; or
-accompanied by ministers, he shall inspect the army and hold
-consultations with the army-commanders.’
+accompanied by ministers, he shall inspect the army and hold consultations with the army-commanders.’
 
 *Arthaśāstra*.—(See under 145.)
 
 *Kāmandaka* (7.49).—‘Having bathed and smeared his person with unguents
-and perfumes, and being decked with garlands and ornaments, the king
-shall hold intercourse with his wife, who also has bathed and decked
-herself with bright garments and brilliant ornaments.’
+and perfumes, and being decked with garlands and ornaments, the king shall hold intercourse with his wife, who also has bathed and decked herself with bright garments and brilliant ornaments.’
 </details>
 
 <details><summary>Bühler</summary>

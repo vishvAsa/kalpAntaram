@@ -24,9 +24,7 @@ For this reason, the king should not even think of inflictin g either death or a
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 632);—in *Parāśaramādhava*
-(Vyavahāra, p. 59);—in *Āparārka* (p. 681);—in *Mitākṣarā* (2.281);—and
-in *Vyavahāra-Bālambhaṭṭī* (p. 115).
+This verse is quoted in *Vivādaratnākara* (p. 632);—in *Parāśaramādhava* (Vyavahāra, p. 59);—in *Āparārka* (p. 681);—in *Mitākṣarā* (2.281);—and in *Vyavahāra-Bālambhaṭṭī* (p. 115).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -34,8 +32,7 @@ in *Vyavahāra-Bālambhaṭṭī* (p. 115).
 **(verses 8.379-381)  
 **
 
-See Comparative notes for [Verse
-8.379].
+See Comparative notes for [Verse 8.379].
 </details>
 
 <details><summary>भारुचिः</summary>

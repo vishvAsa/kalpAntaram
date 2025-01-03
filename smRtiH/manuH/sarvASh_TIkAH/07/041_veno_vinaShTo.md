@@ -36,20 +36,11 @@ Our answer is that as a matter of fact a higher caste is more difficult to attai
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“Vena is often taken as a type of an undisciplined king. He was the son
-of Sunīthā and father to Pṛthu......Nahuṣa, son of Āyuṣ (the Mahābhārata
-I and V), was ruined by love and ambition... Sudās was king at the time
-of the great Vaśiṣṭha, and a leader of the Tṛtsu (Ṛgveda VII. 18)...
-Sumukha is unknown to me. Nimi is said to be a Videha king”—Hopkins.
+“Vena is often taken as a type of an undisciplined king. He was the son of Sunīthā and father to Pṛthu......Nahuṣa, son of Āyuṣ (the Mahābhārata I and V), was ruined by love and ambition... Sudās was king at the time of the great Vaśiṣṭha, and a leader of the Tṛtsu (Ṛgveda VII. 18)... Sumukha is unknown to me. Nimi is said to be a Videha king”—Hopkins.
 
-Gharpure notes the following references to the *Mahābhārata*;—(1)
-Droṇaparva (69);—(2) Śāntiparva (28-137, 58-102);—(3) Ādiparva (63-5,
-69-29);—(4) Udyogaparva (101-12);—(5) Bhīṣmaparva (6-14);—(6)
-Sabhā-parva (8-9). These are meant to refer respectively to the six
-kings mentioned in the text.
+Gharpure notes the following references to the *Mahābhārata*;—(1) Droṇaparva (69);—(2) Śāntiparva (28-137, 58-102);—(3) Ādiparva (63-5, 69-29);—(4) Udyogaparva (101-12);—(5) Bhīṣmaparva (6-14);—(6) Sabhā-parva (8-9). These are meant to refer respectively to the six kings mentioned in the text.
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 119), which notes
-that Sudāsa was the son of Paijavana.
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 119), which notes that Sudāsa was the son of Paijavana.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -61,19 +52,10 @@ science and in Logic.’
 Science, in Agricultural Science and in the Threefold Science (Vedas).’
 
 *Arthasāstra* (pp. 34-35).—‘The discipline of the sciences is obtained
-through the authority of the professors of each; for the sake of this
-discipline one should always remain in constant touch with those learned
-in the sciences.’
+through the authority of the professors of each; for the sake of this discipline one should always remain in constant touch with those learned in the sciences.’
 
 *Kāmandaka* (1.59,03,66).—‘Association with the Preceptor bestows
-knowledge of the scriptures; knowledge of the scriptures increases
-humility. A king who is modest under culture never sinks under
-calamities. A king well-versed in polity, practising self-control, very
-soon attains to that shining pitch of prosperity that has been attained
-by other divine kings. The Preceptor is worshipped for the acquisition
-of learning; learning which has been mastered becomes instrumental in
-enhancing the prudence of the illustrious; and the habit of acting by
-prudence leads to prosperity.’
+knowledge of the scriptures; knowledge of the scriptures increases humility. A king who is modest under culture never sinks under calamities. A king well-versed in polity, practising self-control, very soon attains to that shining pitch of prosperity that has been attained by other divine kings. The Preceptor is worshipped for the acquisition of learning; learning which has been mastered becomes instrumental in enhancing the prudence of the illustrious; and the habit of acting by prudence leads to prosperity.’
 </details>
 
 <details><summary>Bühler</summary>

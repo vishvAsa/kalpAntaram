@@ -20,8 +20,7 @@ This also means that the substitute shall be adopted only in adversity, never in
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 167);—and in *Smṛtitattva* II (p.
-87.)
+This verse is quoted in *Aparārka* (p. 167);—and in *Smṛtitattva* II (p. 87.)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -29,8 +28,7 @@ This verse is quoted in *Aparārka* (p. 167);—and in *Smṛtitattva* II (p.
 **(verses 11.28-30)  
 **
 
-See Comparative notes for [Verse
-1.75].
+See Comparative notes for [Verse 1.75].
 </details>
 
 <details><summary>भारुचिः</summary>

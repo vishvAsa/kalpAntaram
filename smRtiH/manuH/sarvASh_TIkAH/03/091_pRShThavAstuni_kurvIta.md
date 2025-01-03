@@ -38,24 +38,13 @@ The dwelling on the top of another dwelling is called the ‘*upper dwelling*.�
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Pṛṣṭhavāstuni*’—‘On the upper storey, or on the roof of the house’
-(Medhātithi);—‘behind the house’ (Govindarāja and Nārāyaṇa);—‘outside
-the house’ (Nandana);—‘behind the offerer’s back’ (Kullūka).
+‘*Pṛṣṭhavāstuni*’—‘On the upper storey, or on the roof of the house’ (Medhātithi);—‘behind the house’ (Govindarāja and Nārāyaṇa);—‘outside the house’ (Nandana);—‘behind the offerer’s back’ (Kullūka).
 
-‘*Sarvānnahhūtaye*’—‘The same deity occurs in Śāṅkhāyana, *Gṛhyasūtra*,
-2.14, where Professor Oldenberg has *Sarvannabhūti*, while the
-Petersburg Dictionary gives *Sarvānubhūti*”—Buhler.
+‘*Sarvānnahhūtaye*’—‘The same deity occurs in Śāṅkhāyana, *Gṛhyasūtra*, 2.14, where Professor Oldenberg has *Sarvannabhūti*, while the Petersburg Dictionary gives *Sarvānubhūti*”—Buhler.
 
-Medhātithi denies that there is any such ‘deity’ and he is averse to
-assuming any such unheard of deity, when the literal meaning of the term
-is not incompatible with the text,—‘for the acquiring of all kinds of
-food.’ Kullūka, however, who reads ‘*Sarvātmabhūtaye*’ takes it as the
-name of a deity.
+Medhātithi denies that there is any such ‘deity’ and he is averse to assuming any such unheard of deity, when the literal meaning of the term is not incompatible with the text,—‘for the acquiring of all kinds of food.’ Kullūka, however, who reads ‘*Sarvātmabhūtaye*’ takes it as the name of a deity.
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 403), where the
-following explanations are added:—*Pṛṣṭhavāstuni*’ means ‘behind the
-house, in the place where the urinal is situated’;—‘*Sarvānubhūti*’ is a
-deity of that name;—‘*haret*’ means ‘should offer’.
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 403), where the following explanations are added:—*Pṛṣṭhavāstuni*’ means ‘behind the house, in the place where the urinal is situated’;—‘*Sarvānubhūti*’ is a deity of that name;—‘*haret*’ means ‘should offer’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -63,8 +52,7 @@ deity of that name;—‘*haret*’ means ‘should offer’.
 **(verses 3.84-93)  
 **
 
-See Comparative notes for [Verse
-3.84].
+See Comparative notes for [Verse 3.84].
 </details>
 
 <details><summary>Bühler</summary>

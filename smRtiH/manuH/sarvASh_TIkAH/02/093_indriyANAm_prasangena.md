@@ -29,13 +29,9 @@ By attachment to the organs one incurs evil, without doubt; while by subjugating
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Doṣam*’—‘Guilt’ (Nārāyaṇa);—‘evil, visible and invisible’—(Medhātithi
-and Kullūka) *i.e*. misery and sin;—‘evil, in the shape of rebirths’
-(Rāghavānanda).
+‘*Doṣam*’—‘Guilt’ (Nārāyaṇa);—‘evil, visible and invisible’—(Medhātithi and Kullūka) *i.e*. misery and sin;—‘evil, in the shape of rebirths’ (Rāghavānanda).
 
-‘*Siddhim*’—‘Success, in the form of the rewards of all acts’
-(Medhātithi);—‘final release’ (Nārāyaṇa and Rāghavānanda);—‘all human
-ends, Final Release and all the rest’ (Govindarāja and Kullūka).
+‘*Siddhim*’—‘Success, in the form of the rewards of all acts’ (Medhātithi);—‘final release’ (Nārāyaṇa and Rāghavānanda);—‘all human ends, Final Release and all the rest’ (Govindarāja and Kullūka).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -44,15 +40,10 @@ ends, Final Release and all the rest’ (Govindarāja and Kullūka).
 **
 
 *Dakṣa-smṛti* (7. 12 and 16).—‘He whose mind is addicted to objects
-never attains Yoga; therefore the Yogin should make an effort to avoid
-addiction to objects.’
+never attains Yoga; therefore the Yogin should make an effort to avoid addiction to objects.’
 
 *Vaśiṣṭha-smṛti* (30.10-11).—‘As one grows old, his hairs fade fade also
-his teeth; but longing for life and longing for wealth never fade, even
-while the man is fading away. That which cannot be avoided by
-foolish-minded persons, that which does not fade even while the man is
-fading away, that which is a mortal disease,—such Desire when one
-renounces, then alone does he attain happiness.’
+his teeth; but longing for life and longing for wealth never fade, even while the man is fading away. That which cannot be avoided by foolish-minded persons, that which does not fade even while the man is fading away, that which is a mortal disease,—such Desire when one renounces, then alone does he attain happiness.’
 </details>
 
 <details><summary>Bühler</summary>

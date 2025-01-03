@@ -38,8 +38,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti p. 263).
 7.88.\]]
 
 *Gautama* (12.16, 41).—‘To stand firm in battle and not turn back (is
-the duty of the Kṣatriya).—Conquest is a means of livelihood for the
-Kṣatriya,’
+the duty of the Kṣatriya).—Conquest is a means of livelihood for the Kṣatriya,’
 </details>
 
 <details><summary>भारुचिः</summary>

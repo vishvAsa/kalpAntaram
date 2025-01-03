@@ -67,8 +67,7 @@ That is why we have said that there would just be a *suspicion*. In reality, how
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba* (1.1.4-5).—‘There are four castes—Brāhmaṇa, Kṣatriya, Vaiśya
-and Śūdra;—amongst these, each preceding caste is superior to the one
-following.’
+and Śūdra;—amongst these, each preceding caste is superior to the one following.’
 
 *Baudhāyana* (1.16.1).—‘There are four castes—Brāhmaṇa, Kṣatriya, Vaiśya
 and Śūdra.’

@@ -27,8 +27,7 @@ This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 172);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (27.2).—‘As a fire burning strongly consumes even green
-trees, even so does the fire of the Veda destroy one’s guilt caused by
-one's deeds.’
+trees, even so does the fire of the Veda destroy one’s guilt caused by one's deeds.’
 </details>
 
 <details><summary>भारुचिः</summary>

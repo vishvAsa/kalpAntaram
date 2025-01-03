@@ -52,11 +52,7 @@ What has been already said before, is repeated over and over again, because whol
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (1, 50.68, 69, 70).—‘He shall never be fickle with the
-generative organ, the stomach, the hands, the feet, speech and eyes. He
-shall be devoted to Truthfulness and Rightful Conduct. He shall be the
-instructor of well-disciplined pupils; practised in cleanliness, and
-devoted to the Veda;—ever harmless, mild, firmly active, self-controlled
-and charitable.’
+generative organ, the stomach, the hands, the feet, speech and eyes. He shall be devoted to Truthfulness and Rightful Conduct. He shall be the instructor of well-disciplined pupils; practised in cleanliness, and devoted to the Veda;—ever harmless, mild, firmly active, self-controlled and charitable.’
 </details>
 
 <details><summary>Bühler</summary>

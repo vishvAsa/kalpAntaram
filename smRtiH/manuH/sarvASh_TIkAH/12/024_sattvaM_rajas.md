@@ -48,8 +48,7 @@ This verse is quoted in *Parāśaramādhava* (Prāyaścitta p. 487);—find in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (3.182).—‘*Sattva, Rajas* and *Tamas* have been declared
-to be the attributes of *Ātman*; when obsessed by *Rajas* and *Tamas*,
-it is made to revolve like a wheel.’
+to be the attributes of *Ātman*; when obsessed by *Rajas* and *Tamas*, it is made to revolve like a wheel.’
 </details>
 
 <details><summary>भारुचिः</summary>

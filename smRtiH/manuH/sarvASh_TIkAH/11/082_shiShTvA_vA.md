@@ -44,16 +44,11 @@ Our view, however, is that—(1) since the former penance has already been summe
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.224), which adds the following
-notes:—‘*Bhūmideva*’ are Brāhmaṇas, the sacrificial
-priests,—‘*naradeva*’ is the king of these priests, *i*. *e*., the
-master of the sacrifice;—in an assembly of all these—‘*Śiṣṭvā*,’ having
-proclaimed, his ‘*enaḥ*,’ guilt,—he shall take the final bath of the
+This verse is quoted in *Mitākṣarā* (3.224), which adds the following notes:—‘*Bhūmideva*’ are Brāhmaṇas, the sacrificial priests,—‘*naradeva*’ is the king of these priests, *i*. *e*., the master of the sacrifice;—in an assembly of all these—‘*Śiṣṭvā*,’ having proclaimed, his ‘*enaḥ*,’ guilt,—he shall take the final bath of the
 *Aśvamedha* sacrifice, if permitted by the aforesaid persons, and thus
 become purified.
 
-It is quoted in *Aparārka* (p. 1057), which adds the following
-notes:—‘*Bhūmidevāḥ*,’ Brāhmaṇas,—‘*Naradeva*,’ the annointed
+It is quoted in *Aparārka* (p. 1057), which adds the following notes:—‘*Bhūmidevāḥ*,’ Brāhmaṇas,—‘*Naradeva*,’ the annointed
 *Kṣatriya*,—at an assembly of these persons,—‘*svam enaḥ*,’ his guilt,
 of Brāhmaṇ-slaying,—‘*śiṣṭvā*,’ having proclaimed,—and taking the
 *avabhṛtha* bath,—he becomes purified.
@@ -63,8 +58,7 @@ of Brāhmaṇ-slaying,—‘*śiṣṭvā*,’ having proclaimed,—and taking t
 
 **(verses 11.72-86)**
 
-See Comparative notes for [Verse
-11.72].
+See Comparative notes for [Verse 11.72].
 </details>
 
 <details><summary>भारुचिः</summary>

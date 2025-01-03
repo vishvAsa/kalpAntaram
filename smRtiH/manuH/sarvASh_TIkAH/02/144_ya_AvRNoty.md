@@ -69,20 +69,15 @@ This verse prohibits the doing of harm, by one even after he has acquired all th
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse, along with verse 114, occurs in an older form (as Burnell
-remarks) in the Viṣṇu and Vaśiṣṭha Smṛtis; and also in *Nirukta* II. 4,
-where the verb appears as ‘*ātṛṇatti*’.
+This verse, along with verse 114, occurs in an older form (as Burnell remarks) in the Viṣṇu and Vaśiṣṭha Smṛtis; and also in *Nirukta* II. 4, where the verb appears as ‘*ātṛṇatti*’.
 
-It is quoted in *Smṛticandrikā* (Saṃskāra, p. 93), which explains
-‘*āvṛṇoti*’ as ‘fill’, and ‘*avitatham*’ as ‘free from wrong
-accentuation and other defects’.
+It is quoted in *Smṛticandrikā* (Saṃskāra, p. 93), which explains ‘*āvṛṇoti*’ as ‘fill’, and ‘*avitatham*’ as ‘free from wrong accentuation and other defects’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu-smṛti*, 30.40.—‘He who fills one’s ears with the truth, imparting
-nectar, without causing pain,—him I regard as Father and Mother; and
-knowing what he has done, one should hear no malice towards him.’
+nectar, without causing pain,—him I regard as Father and Mother; and knowing what he has done, one should hear no malice towards him.’
 
 *Āpastamba-Dharmasūtra*, 1.1.25.—‘One should never bear malice towards
 him.’

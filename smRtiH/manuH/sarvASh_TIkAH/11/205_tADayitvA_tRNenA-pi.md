@@ -35,8 +35,7 @@ This verse is quoted in *Aparārka* (p. 1185).
 
 **(verses 11.204-206)**
 
-See Comparative notes for [Verse
-11.204].
+See Comparative notes for [Verse 11.204].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -40,11 +40,9 @@ Though *Śrāddha* forms the subject-matter of the present context, yet, through
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 472);—in *Śrāddhakriyākaumudī*,
-which explains ‘*ayathāyatham*’ as ‘nullified’;—also in
+This verse is quoted in *Aparārka* (p. 472);—in *Śrāddhakriyākaumudī*, which explains ‘*ayathāyatham*’ as ‘nullified’;—also in
 *Gadādharapaddhati* (Kāla, p. 521), which explains the same word as
-‘leading to results contrary to those expected’;—and in *Hemādri* (Dāna,
-p. 108, and Śrāddha, p. 516).
+‘leading to results contrary to those expected’;—and in *Hemādri* (Dāna, p. 108, and Śrāddha, p. 516).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -52,8 +50,7 @@ p. 108, and Śrāddha, p. 516).
 **(verses 3.239-241)  
 **
 
-See Comparative notes for [Verse
-3.239].
+See Comparative notes for [Verse 3.239].
 </details>
 
 <details><summary>Bühler</summary>

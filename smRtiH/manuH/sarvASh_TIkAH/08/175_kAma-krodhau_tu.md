@@ -20,9 +20,7 @@ Just as ‘*Rivers*’— streams—take refuge with the ocean and having taken 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Hopkins refers to Ṛgveda 1.32.3 for a similar imagery. This verse is
-quoted in *Nṛsiṃhaprasāda* (Vyavahāra, 2b);—in *Kṛtyakalpataru*
-(4a);—and in *Vīramitrodaya* (Vyavahāra, 39a).
+Hopkins refers to Ṛgveda 1.32.3 for a similar imagery. This verse is quoted in *Nṛsiṃhaprasāda* (Vyavahāra, 2b);—in *Kṛtyakalpataru* (4a);—and in *Vīramitrodaya* (Vyavahāra, 39a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -30,8 +28,7 @@ quoted in *Nṛsiṃhaprasāda* (Vyavahāra, 2b);—in *Kṛtyakalpataru*
 **(verses 8.174-175)  
 **
 
-See Comparative notes for [Verse
-8.174].
+See Comparative notes for [Verse 8.174].
 </details>
 
 <details><summary>भारुचिः</summary>

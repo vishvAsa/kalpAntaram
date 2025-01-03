@@ -30,8 +30,7 @@ The terms have been already explained.—(83)
 above.\]]
 
 *Yājñavalkya* (3.190).—‘Expounding of the Veda, performing of
-sacrifices, Celibacy, Austerity, Self-control, Faith, Fasting and
-Independence are the means of acquiring the knowledge of the Self.’
+sacrifices, Celibacy, Austerity, Self-control, Faith, Fasting and Independence are the means of acquiring the knowledge of the Self.’
 </details>
 
 <details><summary>भारुचिः</summary>

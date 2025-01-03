@@ -27,31 +27,13 @@ Alliance, endowed with future possibilities, is of two kinds—(1) that in which
 
 **(verse 7.162)**
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 325), which adds
-the following notes:—‘*Sandhi*,’ ‘alliance’, is of two kinds—(1) the
-compact that ‘both of us should march against a common enemy’, and (2)
-the compact that ‘you march this way, I march the other way’;—‘War’ also
-is of two kinds—(1) declared by one’s self against an enemy, and (2)
-undertaken for helping an ally attacked by an enemy;—‘Marching’ also is
-of two kinds—(1) singly, and (2) conjointly with an ally; ‘Halting’ also
-is of two kinds—(1) done on account of weakness and (2) done for the
-purpose of waiting to help an ally;—‘Division of forces’ is of two
-kinds—(1) the king remaining with half the force in the fort and the
-Commander-in-chief going out to meet the enemy and (2) the reverse
-arrangement;—‘Seeking protection’ also is of two kinds—(1) done for the
-rescuing of what has been lost and (2) done for awaiting future
-aggression.
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 325), which adds the following notes:—‘*Sandhi*,’ ‘alliance’, is of two kinds—(1) the compact that ‘both of us should march against a common enemy’, and (2) the compact that ‘you march this way, I march the other way’;—‘War’ also is of two kinds—(1) declared by one’s self against an enemy, and (2) undertaken for helping an ally attacked by an enemy;—‘Marching’ also is of two kinds—(1) singly, and (2) conjointly with an ally; ‘Halting’ also is of two kinds—(1) done on account of weakness and (2) done for the purpose of waiting to help an ally;—‘Division of forces’ is of two kinds—(1) the king remaining with half the force in the fort and the Commander-in-chief going out to meet the enemy and (2) the reverse arrangement;—‘Seeking protection’ also is of two kinds—(1) done for the rescuing of what has been lost and (2) done for awaiting future aggression.
 
 **(verse 7.163)**
 
-Nārāyaṇa and Nandana take the term ‘*tadā tvāyatisaṃyuktaḥ*’ as
-referring to two different cases,—‘yielding either (*a*) immediate, or
-(*b*) future advantages.’
+Nārāyaṇa and Nandana take the term ‘*tadā tvāyatisaṃyuktaḥ*’ as referring to two different cases,—‘yielding either (*a*) immediate, or (*b*) future advantages.’
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 325) to the effect
-that the two kinds of ‘alliance’ spoken of above (see preceding note)
-are each again of two kinds, as leading to (*a*) immediate advantage or
-(*b*) future advantage.
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 325) to the effect that the two kinds of ‘alliance’ spoken of above (see preceding note) are each again of two kinds, as leading to (*a*) immediate advantage or (*b*) future advantage.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -59,26 +41,15 @@ are each again of two kinds, as leading to (*a*) immediate advantage or
 **(verse 7.162)**
 
 *Kāmandaka* (4.68, 74).—‘The King should form alliance with a person,
-illustrious, well-spoken, benevolent, learned, even-minded, having
-numerous partisans and expected to remain constant in faithfulness at
-all times. Friends are of four kinds—derived from birth, relationship,
-ancestral obligations and protection from danger.’
+illustrious, well-spoken, benevolent, learned, even-minded, having numerous partisans and expected to remain constant in faithfulness at all times. Friends are of four kinds—derived from birth, relationship, ancestral obligations and protection from danger.’
 
 **(verse 7.163)**
 
 *Kāmandaka* (9.5, etc.).—‘Peace concluded between two parties of equal
-resources is called *Kapāla-sandhi*. The peace concluded through the
-offer of presents is called *Upahāra*. *Santāna-sandhi* is that
-concluded by the king by giving his daughter in marriage to his royal
-adversary. That peace is called *Saṅgata-sandhi* which is founded on
-friendship; this is also called *Kāñcana*. Peace that is concluded with
-a view to putting a stop to all outstanding controversies has been named
+resources is called *Kapāla-sandhi*. The peace concluded through the offer of presents is called *Upahāra*. *Santāna-sandhi* is that concluded by the king by giving his daughter in marriage to his royal adversary. That peace is called *Saṅgata-sandhi* which is founded on friendship; this is also called *Kāñcana*. Peace that is concluded with a view to putting a stop to all outstanding controversies has been named
 
 *Upanyāsa*. “If I do him good, he will do the same to me.”—Peace
-concluded under this consideration is called *Pratīkāra-sandhi*. When
-two parties join one another for the accomplishing of common interests
-and, if they enjoy mutual confidence,—this peace is called *Samyoga*,
-etc.
+concluded under this consideration is called *Pratīkāra-sandhi*. When two parties join one another for the accomplishing of common interests and, if they enjoy mutual confidence,—this peace is called *Samyoga*, etc.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -84,31 +84,12 @@ In the case of camphor and other things, the number ‘hundred’ would pertain 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Dharimameyānām suvarṇarajatādīnām*’—‘Articles weighed by scales such
-as gold, silver, &c.,’ (Medhātithi; Govindarāja and Kullūka);—‘articles
-measured by weight, *i*. *e*., copper and the rest, other than gold and
-silver, *and* of gold, silver, &c.’ (Nārāyaṇa and Rāghavānanda).
+‘*Dharimameyānām suvarṇarajatādīnām*’—‘Articles weighed by scales such as gold, silver, &c.,’ (Medhātithi; Govindarāja and Kullūka);—‘articles measured by weight, *i*. *e*., copper and the rest, other than gold and silver, *and* of gold, silver, &c.’ (Nārāyaṇa and Rāghavānanda).
 
-This verse is quoted in *Aparārka* (p. 847), which adds the following
-notes:—‘*Dharimameya*’ are those things that are measured by
-scales,—*i.e*., ‘gold, silver and so forth’.—If the author had only the
-expression ‘*suvarṇarajatādīnām*’, ‘gold, silver &c.,’ then iron and
-other metals also would become included; similarly if he had only
-‘*dharimameyānām*’ ‘things weighed by scales’, then molasses and such
-other things also would become included; by having both, even such
-articles as pearls, corals and the like, which also are ‘weighed by
-scales,’ become included; these latter also belong to the same category
-as ‘gold and silver’ by reason of their being highly valuable; the term
-‘*ādi*’, means ‘and the like thus it is that such things as molasses,
-even though they are ‘weighed by scales’, become excluded; because,
-being cheap, they have no *similarity* to ‘gold and silver’; for the
-same reason such cheap metals as iron, lead and so forth are not
-included here,—‘*uttamāni vāsāṃsi*’, ‘excellent clothes’, clothes of
+This verse is quoted in *Aparārka* (p. 847), which adds the following notes:—‘*Dharimameya*’ are those things that are measured by scales,—*i.e*., ‘gold, silver and so forth’.—If the author had only the expression ‘*suvarṇarajatādīnām*’, ‘gold, silver &c.,’ then iron and other metals also would become included; similarly if he had only ‘*dharimameyānām*’ ‘things weighed by scales’, then molasses and such other things also would become included; by having both, even such articles as pearls, corals and the like, which also are ‘weighed by scales,’ become included; these latter also belong to the same category as ‘gold and silver’ by reason of their being highly valuable; the term ‘*ādi*’, means ‘and the like thus it is that such things as molasses, even though they are ‘weighed by scales’, become excluded; because, being cheap, they have no *similarity* to ‘gold and silver’; for the same reason such cheap metals as iron, lead and so forth are not included here,—‘*uttamāni vāsāṃsi*’, ‘excellent clothes’, clothes of
 *patra*, (?) *ūrṇa* (wool), *netra* (?) *paṭī* (silk, and so forth).
 
-It is quoted in *Vyavahāramayūkha* (p. 102);—in *Vivādaratnākara* (p.
-323), which explains ‘*dharima*’ as ‘weight’;—in *Vyavahāra-Bālambhaṭṭī*
-(p. 987);—and in *Vīramitrodaya* (Vyavahāra, 152a).
+It is quoted in *Vyavahāramayūkha* (p. 102);—in *Vivādaratnākara* (p. 323), which explains ‘*dharima*’ as ‘weight’;—in *Vyavahāra-Bālambhaṭṭī* (p. 987);—and in *Vīramitrodaya* (Vyavahāra, 152a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -117,27 +98,19 @@ It is quoted in *Vyavahāramayūkha* (p. 102);—in *Vivādaratnākara* (p.
 things as arc usually sold by weight, shall be put to death.’
 
 *Nārada* (Theft, 27).—‘For stealing more than a hundred *palas* of gold,
-silver or other precious metals, or valuable clothes, or very precious
-gems, corporal punishment or death shall be inflicted.’
+silver or other precious metals, or valuable clothes, or very precious gems, corporal punishment or death shall be inflicted.’
 
 *Bṛhaspati* (22.27).—‘In the case of stealing women, men, gold, gems,
-silk and other precious things, the fine shall be equal to the value of
-the thing stolen; or double the amount shall be inflicted by the King as
-fine; or the thief shall be executed, to prevent a repetition of the
-offence.’
+silk and other precious things, the fine shall be equal to the value of the thing stolen; or double the amount shall be inflicted by the King as fine; or the thief shall be executed, to prevent a repetition of the offence.’
 
 *Yājñavalkya* (2.275).—‘Punishments shall be inflicted in accordance
-with the nature of the thing stolen, as to its being trifling, mediocre
-or of high class; and in inflicting punishments, the time, place, age
-and capacity should be taken into consideration.’
+with the nature of the thing stolen, as to its being trifling, mediocre or of high class; and in inflicting punishments, the time, place, age and capacity should be taken into consideration.’
 
 *Śaṅkha-Likhita* (Vivādaratnākara, p. 324).—‘For stealing gold and gems,
 corporal punishment.’
 
 *Arthaśāstra* (Do., p. 100).—‘For stealing gems and metals, the fine
-shall be of the value of the article stolen, say the followers of
-Manu,—double the value, say the followers of Uśanas; it shall be in
-keeping with the nature of the crime, says Kauṭilya.’
+shall be of the value of the article stolen, say the followers of Manu,—double the value, say the followers of Uśanas; it shall be in keeping with the nature of the crime, says Kauṭilya.’
 </details>
 
 <details><summary>भारुचिः</summary>

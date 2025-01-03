@@ -79,8 +79,7 @@ This also is quoted along with 112 in *Madanapārijāta* (p. 103);—also in
 **(Verses 112-113)  
 **
 
-See Comparative notes for [Verse
-2.112].
+See Comparative notes for [Verse 2.112].
 </details>
 
 <details><summary>Bühler</summary>

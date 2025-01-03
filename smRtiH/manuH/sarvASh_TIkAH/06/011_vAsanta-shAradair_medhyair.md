@@ -31,23 +31,18 @@ The ‘boiled mess’ and ‘cake’ meant here are those that have been prescri
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 3.46), which notes that even
-though the ‘*munyanna*’ is by nature pure, yet the text has added the
-epithet ‘*medhya*’ with a view to indicate that the grains should be
+This verse is quoted in *Mitākṣarā* (on 3.46), which notes that even though the ‘*munyanna*’ is by nature pure, yet the text has added the epithet ‘*medhya*’ with a view to indicate that the grains should be
 *fit for being offered at a sacrifice*;—and in *Parāśaramādhava* (Ācāra,
-p. 528), which explains ‘*munyanna*’ as ‘uncultivated grains,’ and
-‘*medhya*’ as ‘fit for being offered at sacrifices.’
+p. 528), which explains ‘*munyanna*’ as ‘uncultivated grains,’ and ‘*medhya*’ as ‘fit for being offered at sacrifices.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba* (2.22.17-18).—‘He shall offer the burnt oblations, sustain
-his life... Rice must be used for those sacrifices for which cakes mixed
-with meat are offered by the Householder.’
+his life... Rice must be used for those sacrifices for which cakes mixed with meat are offered by the Householder.’
 
 *Yājñavalkya* (3.48).—‘The rites prescribed in the Smṛti and in the
-Śruti, as also all acts, he shall perform with oils extracted from
-fruits.’
+Śruti, as also all acts, he shall perform with oils extracted from fruits.’
 </details>
 
 <details><summary>भारुचिः</summary>

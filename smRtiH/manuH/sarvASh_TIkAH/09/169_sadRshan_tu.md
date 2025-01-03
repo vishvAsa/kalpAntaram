@@ -42,31 +42,19 @@ In reality, however, there is no difference between the two cases. (?)—(169)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Guṇadoṣavicakṣaṇam*’.—‘Knowing that by performing or not performing
-Śrāddhas &c. merit or sin will follow’ (Kullūka);—‘knowing himself to be
-the son of such and such a person and hence likely to become an out-cast
-if he did not serve him properly’ (Rāghavānanda);—‘not a minor’ (‘some’
-in Medhātithi and Nārāyaṇa).
+‘*Guṇadoṣavicakṣaṇam*’.—‘Knowing that by performing or not performing Śrāddhas &c. merit or sin will follow’ (Kullūka);—‘knowing himself to be the son of such and such a person and hence likely to become an out-cast if he did not serve him properly’ (Rāghavānanda);—‘not a minor’ (‘some’ in Medhātithi and Nārāyaṇa).
 
-This verse is quoted in *Aparārka* (p. 738), which explains ‘*sadṛśam*’
-as referring to *caste*;—and in *Vivādaratnākara* (p. 572), which adds
-the following notes:—Here also, according to Medhātithi, ‘*sadṛśam*’
-means‘of similar qualifications’;—‘*Guṇadoṣavicakṣaṇam*’ means ‘knowing
-that there is merit in performing the after-death rites for the parents,
-and sin in not performing them.’—‘*putragunaiḥ*’, obedience and such
-qualities.
+This verse is quoted in *Aparārka* (p. 738), which explains ‘*sadṛśam*’ as referring to *caste*;—and in *Vivādaratnākara* (p. 572), which adds the following notes:—Here also, according to Medhātithi, ‘*sadṛśam*’ means‘of similar qualifications’;—‘*Guṇadoṣavicakṣaṇam*’ means ‘knowing that there is merit in performing the after-death rites for the parents, and sin in not performing them.’—‘*putragunaiḥ*’, obedience and such qualities.
 
 It is quoted in *Parāśaramādhava* (Prāyaścītta, p. 38),—in
 *Vyavahāra-Bālambhaṭṭī* (pp. 546 and 557);—in *Kṛtyasārasamuccaya* (p.
-74), which quotes *Vīvādacandra* to the effect that ‘*sadṛśam*’ means
-‘of the same caste’;—and in *Nṛsiṃhaprasāda* (Vyavahāra 38a).
+74), which quotes *Vīvādacandra* to the effect that ‘*sadṛśam*’ means ‘of the same caste’;—and in *Nṛsiṃhaprasāda* (Vyavahāra 38a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (2.3-21).—‘He is called the *Kṛtrima*, appointed, son whom
-a man himself makes his son, with only the adoptee’s consent, and who
-belongs to the same caste as the appointer.’
+a man himself makes his son, with only the adoptee’s consent, and who belongs to the same caste as the appointer.’
 
 *Yājñavalkya* (2.131).—‘The *appointed* son is one who is made a son by
 the appointer independently of others.’

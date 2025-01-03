@@ -54,18 +54,13 @@ Burnell is not right in saying that “Medhātithi omits verses 213-14.”
 
 ‘*Purātanān*’—‘Those deities born in this cycle who are called
 *Sādhyas*’ (Medhātithi, who adopts this reading only as an alternative,
-his own reading being ‘*purātanāḥ*’ explained as ‘the ancient sages’ and
-construed as nominative to the verb ‘*vadanti*’);—‘Those whose
-succession has been uninterrupted since immemorial times’ (Govindarāja,
-Kullūka and Rāghavānanda);—‘Those who were produced before all other
-castes’ (Nārāyaṇa)
+his own reading being ‘*purātanāḥ*’ explained as ‘the ancient sages’ and construed as nominative to the verb ‘*vadanti*’);—‘Those whose succession has been uninterrupted since immemorial times’ (Govindarāja, Kullūka and Rāghavānanda);—‘Those who were produced before all other castes’ (Nārāyaṇa)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (13.237.31).—‘At the Śrāddha, one should invite such
-persons as are free from anger, not fickle, tolerant, self-controlled,
-with senses suppressed, and benevolent towards all beings.’
+persons as are free from anger, not fickle, tolerant, self-controlled, with senses suppressed, and benevolent towards all beings.’
 </details>
 
 <details><summary>Bühler</summary>

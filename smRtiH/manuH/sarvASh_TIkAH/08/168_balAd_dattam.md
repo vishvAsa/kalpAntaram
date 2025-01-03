@@ -78,8 +78,7 @@ are declared to be invalid, yet the two verses have been added for the purpose o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtitattva* (II, p. 231);—in *Kṛtyakalpataru*
-(65b);—and in *Vīramitrodaya* (Vyavahāra, 39b and 60a).
+This verse is quoted in *Smṛtitattva* (II, p. 231);—in *Kṛtyakalpataru* (65b);—and in *Vīramitrodaya* (Vyavahāra, 39b and 60a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

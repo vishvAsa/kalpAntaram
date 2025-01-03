@@ -84,8 +84,7 @@ The verse is to be construed as follows—‘*these terms that are used in the w
 
 This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 115);—in
 *Vivādaratnākara* (p. 665), which explains the construction as ‘those
-that are generally used, these I am going to describe, explain, for the
-purpose of transactions among men’;—in *Hemādri* (Vrata, p. 53);—and in
+that are generally used, these I am going to describe, explain, for the purpose of transactions among men’;—in *Hemādri* (Vrata, p. 53);—and in
 *Nṛsiṃhaprasāda* (Dāna, p. 4a).
 </details>
 
@@ -96,8 +95,7 @@ purpose of transactions among men’;—in *Hemādri* (Vrata, p. 53);—and in
 
 *Viṣṇu* (4.1-13).—
 
-> ‘The dust-mote discernible in the sunbeam passing through a lattice is
-> called *Trasareṇu*;—  
+> ‘The dust-mote discernible in the sunbeam passing through a lattice is > called *Trasareṇu*;—  
 > three *Trasareṇus* make one *nit*;  
 > 3 *nits* make 1 Black mustard-seed.  
 > 3 Black mustard seeds make 1 *white* mustard seed.  
@@ -135,11 +133,9 @@ purpose of transactions among men’;—in *Hemādri* (Vrata, p. 53);—and in
 > 270 Paṇas make the lowest amercement.’
 
 *Nārada* (Punishments, 57 *et seq*.).—‘*Kārṣāpaṇa* is a silver-coin in
-the Southern country; in the East it is equal to 20 *Paṇas*;—a *Māṣa* is
-the twentieth part of a *Kārṣāpaṇa*;—a *Kākanī* is the fourth part of a
+the Southern country; in the East it is equal to 20 *Paṇas*;—a *Māṣa* is the twentieth part of a *Kārṣāpaṇa*;—a *Kākanī* is the fourth part of a
 *Māṣa* or *Pala*;—a *Kārṣāpaṇa* is equal to an *Aṇḍikā*; four *Aṇḍikās*
-make one *Dhānaka*; twelve *Dhānakas* make one *Suvarṇa*, otherwise
-called *Dīnāra*.’
+make one *Dhānaka*; twelve *Dhānakas* make one *Suvarṇa*, otherwise called *Dīnāra*.’
 
 *Arthaśāstra* (p. 256).—
 
@@ -156,8 +152,7 @@ The weights are—½ *Māṣaka*, 1 *Māṣaka*, 2 *Māṣakas*, 4 *Māṣakas*,
 *Suvarṇas*.’
 
 *Bṛhaspati* (Parāśaramādhava-Vyavahāra, p. 116).—‘Copper 1 *Karṣa* in
-weight makes the coin called *Paṇa*, also called *Candrikā*;—4 *Paṇas*
-make one *Dhānaka*;—12 *Dhānakas* make one *Suvarṇa*, also called
+weight makes the coin called *Paṇa*, also called *Candrikā*;—4 *Paṇas* make one *Dhānaka*;—12 *Dhānakas* make one *Suvarṇa*, also called
 *Dīnāra*
 
 *Vyāsa* (Do. p. 117).—‘Eight *Palas* make 1 *Suvarṇa*;—14 *Suvarṇas*

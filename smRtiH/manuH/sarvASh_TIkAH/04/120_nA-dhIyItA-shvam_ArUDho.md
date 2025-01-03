@@ -28,8 +28,7 @@ He shall not recite the Veda while seated on a horse, or a tree, or an elephant,
 
 This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 535);—in
 *Smṛticandrikā* (Saṃskāra, p. 162);—in *Hemādri* (Kāla, p. 772), which
-explains ‘*īriṇa*’ as ‘barren ground’;—and in *Gadādharapaddhati* (Kāla,
-p. 196).
+explains ‘*īriṇa*’ as ‘barren ground’;—and in *Gadādharapaddhati* (Kāla, p. 196).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -49,8 +48,7 @@ unfit for study till it lasts.’
 horse or on a camel or on a boat or on any conveyance.’
 
 *Yājñavalkya* (1.151).—‘Mule, camel, conveyances, elephant, horse,
-boat,—while seated on these, or on a barren plot of land,...... these
-are occasions that are unfit for study while they last.’
+boat,—while seated on these, or on a barren plot of land,...... these are occasions that are unfit for study while they last.’
 </details>
 
 <details><summary>Bühler</summary>

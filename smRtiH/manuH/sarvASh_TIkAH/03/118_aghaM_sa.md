@@ -60,8 +60,7 @@ Householder shall not have more food cooked only for himself. Vaśiṣṭha has 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 457) as deprecating
-the conduct of the man who does not entertain guests.
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 457) as deprecating the conduct of the man who does not entertain guests.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -72,17 +71,13 @@ the conduct of the man who does not entertain guests.
 he takes is futile.’
 
 *Yama* (Vīramitrodaya-Āhnika, p. 457).—‘He who cooks for himself eats
-sin; one should always avoid that futile cooking which is intended only
-to please his own palate.’
+sin; one should always avoid that futile cooking which is intended only to please his own palate.’
 
 *Paiṭhīnasi* (Vīramitrodaya-Āhnika).—‘One shall not cook for himself,
-nor shall he kill animals for himself; one who cooks for the sake of
-gods and for the sake of Brāhmaṇas does not become tainted with sin.’
+nor shall he kill animals for himself; one who cooks for the sake of gods and for the sake of Brāhmaṇas does not become tainted with sin.’
 
 *Jābāla* (Do.)—‘He who eats without bathing, eats dirt; he who eats
-without having repeated mantras, eats pus and blood; he who eats without
-having offered Homa, eats insects; and he who eats food without offering
-it to others, eats poison.’
+without having repeated mantras, eats pus and blood; he who eats without having offered Homa, eats insects; and he who eats food without offering it to others, eats poison.’
 </details>
 
 <details><summary>Bühler</summary>

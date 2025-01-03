@@ -44,11 +44,9 @@ If the term ‘*rasa*’ is understood in its literal sense, of the *six flavour
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta*, (p. 232), which explains
-‘*vyapoheta*’ (which is its reading for ‘*apoheta*’) as ‘should avoid’
+This verse is quoted in *Madanapārijāta*, (p. 232), which explains ‘*vyapoheta*’ (which is its reading for ‘*apoheta*’) as ‘should avoid’
 *i.e*. ‘should not sell’; it adds that ‘*rasa*’ having been already
-mentioned, ‘*lavaṇa*’ is mentioned again for the purpose of indicating
-that the selling of *salt* is more blameworthy.
+mentioned, ‘*lavaṇa*’ is mentioned again for the purpose of indicating that the selling of *salt* is more blameworthy.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -56,8 +54,7 @@ that the selling of *salt* is more blameworthy.
 **(verses 10.85-93)  
 **
 
-See Comparative notes for [Verse
-10.85].
+See Comparative notes for [Verse 10.85].
 </details>
 
 <details><summary>भारुचिः</summary>

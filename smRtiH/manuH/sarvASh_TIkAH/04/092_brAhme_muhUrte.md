@@ -32,35 +32,9 @@ At the said time, ‘*the true meaning of the Veda*’ should also be thought ov
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 158);—in *Parāśaramādhava*
-(Ācāra, p. 206), which explains ‘*Vedatattvārtha*’ as ‘the Supreme
-Self’;—in *Madanapārijāta* (p, 204);—and in *Vīramitrodaya* (Āhnika, p.
-13), which explains ‘*Brāhma muhūrta*’ as ‘the last quarter of the
-night’, and adds that the time is so called because it is the time for
-the awakening of *Brāhmī*, *i.e*., Bhāratī, the goddess of speech; and
-that the term ‘*muhūrta*’ is to be taken as standing for *time* in
-general, and not in the restricted technical sense of a period of 48
-minutes; and this on the ground that 48 minutes would not suffice for
-all those acts that are prescribed for being done after rising and
-before sunrise. It goes on to add that according to other *Nibandhas*,
-the last but one *Muhūrta* (48 minutes) of the night is called ‘Brāhma’,
-because it is sacred to Brahman. The conclusion that it arrives at is
-that those who have to perform all the acts of Vedic study and the rest
-should rise in the beginning of the last quarter of the night, *i.e*.,
-at 3 a.m. while others in the third *Muhūrta* of that quarter, *i.e*.,
-after 4-36 a.m. It explains ‘*Tanmūlān*’ as ‘due to those acts that are
-done for the sake of Dharma and Artha’; and the purpose for which all
-this is to be pondered over is that if the labour involved in a certain
-act is much, while the resultant Dharma or Artha is little, then it is
-to be avoided.—‘*Vedatattvārtha*’—here the term ‘*tattva*’ has been
-added for the purpose of excluding such meanings as might be deduced by
-wrong methods of interpretation; or ‘*Vedatattvārtha*’ might stand for
-Brahman.
+This verse is quoted in *Aparārka* (p. 158);—in *Parāśaramādhava* (Ācāra, p. 206), which explains ‘*Vedatattvārtha*’ as ‘the Supreme Self’;—in *Madanapārijāta* (p, 204);—and in *Vīramitrodaya* (Āhnika, p. 13), which explains ‘*Brāhma muhūrta*’ as ‘the last quarter of the night’, and adds that the time is so called because it is the time for the awakening of *Brāhmī*, *i.e*., Bhāratī, the goddess of speech; and that the term ‘*muhūrta*’ is to be taken as standing for *time* in general, and not in the restricted technical sense of a period of 48 minutes; and this on the ground that 48 minutes would not suffice for all those acts that are prescribed for being done after rising and before sunrise. It goes on to add that according to other *Nibandhas*, the last but one *Muhūrta* (48 minutes) of the night is called ‘Brāhma’, because it is sacred to Brahman. The conclusion that it arrives at is that those who have to perform all the acts of Vedic study and the rest should rise in the beginning of the last quarter of the night, *i.e*., at 3 a.m. while others in the third *Muhūrta* of that quarter, *i.e*., after 4-36 a.m. It explains ‘*Tanmūlān*’ as ‘due to those acts that are done for the sake of Dharma and Artha’; and the purpose for which all this is to be pondered over is that if the labour involved in a certain act is much, while the resultant Dharma or Artha is little, then it is to be avoided.—‘*Vedatattvārtha*’—here the term ‘*tattva*’ has been added for the purpose of excluding such meanings as might be deduced by wrong methods of interpretation; or ‘*Vedatattvārtha*’ might stand for Brahman.
 
-This verse is quoted in *Ācāramayūkha* (p. 4), which explains
-‘*Vedatattvārtha*’ as god, but quotes Śrīdatta to explain it as
-‘*nyāyapratītor’thaḥ*’; it explains ‘*brāhmamuhūrta*’ as the last but
-one *muhūrta* of the night.
+This verse is quoted in *Ācāramayūkha* (p. 4), which explains ‘*Vedatattvārtha*’ as god, but quotes Śrīdatta to explain it as ‘*nyāyapratītor’thaḥ*’; it explains ‘*brāhmamuhūrta*’ as the last but one *muhūrta* of the night.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -75,34 +49,25 @@ go to sleep again.’
 moment sacred to Brahman, and think of the principal gods and sages.’
 
 *Yājñavalkya* (1.115).—‘Waking up at the point of time sacred to
-Brahman, he shall ponder over his welfare, and he shall not neglect
-spiritual merit or wealth or pleasure, each at its proper time.’
+Brahman, he shall ponder over his welfare, and he shall not neglect spiritual merit or wealth or pleasure, each at its proper time.’
 
 *Kūrmapurāṇa* (1.2.18.3).—‘Waking up at the point of time sacred to
-Brahman, he shall ponder over spiritual merit and wealth, also over the
-bodily trouble involved therein; then he shall meditate upon God.’
+Brahman, he shall ponder over spiritual merit and wealth, also over the bodily trouble involved therein; then he shall meditate upon God.’
 
 *Viṣṇupurāṇa* (3.11.5-7).—‘Waking up at the point of time sacred to
-Brahman, the wise man shall ponder over spiritual merit as also such
-wealth as may not be obstructive of the former; he shall think also of
-pleasure to the extent that it does not stand in the way of the other
-two. Such wealth and pleasure as are obstructive of spiritual merit one
-must abandon; as also such means of acquiring spiritual merit as may be
-conducive to pain or condemned by the people.’
+Brahman, the wise man shall ponder over spiritual merit as also such wealth as may not be obstructive of the former; he shall think also of pleasure to the extent that it does not stand in the way of the other two. Such wealth and pleasure as are obstructive of spiritual merit one must abandon; as also such means of acquiring spiritual merit as may be conducive to pain or condemned by the people.’
 
 *Mahābhārata* (13.104.15).—‘He shall rise at the point of time sacred to
 Brahman, and then ponder over spiritual merit and wealth.’
 
 *Viṣṇu* (Vīramitrodaya-Āhnika, p. 13).—‘Rising at the moment sacred to
-Brahman, he shall do all that has been declared to be conducive to
-Dharma.’
+Brahman, he shall do all that has been declared to be conducive to Dharma.’
 
 *Dakṣa* (Do.).—‘During the last two quarters of the night one shall be
 devoted to Vedic Study.’
 
 *Kāśikhaṇḍa* (Do., 8.15).—‘The last half-quarter of ṭhe night is the
-moment sacred to Brahman; at that time should the wise man always rise
-and ponder over his welfare.’
+moment sacred to Brahman; at that time should the wise man always rise and ponder over his welfare.’
 </details>
 
 <details><summary>Bühler</summary>

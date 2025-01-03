@@ -26,8 +26,7 @@ The rest is clear.—(16)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 413), which adds the
-following notes:—‘*Prajāpatinisargajam*,’ ‘Prajāpati is Brahmā, what
+This verse is quoted in *Vivādaratnākara* (p. 413), which adds the following notes:—‘*Prajāpatinisargajam*,’ ‘Prajāpati is Brahmā, what
 *comes about, jāyate*,’ *at the time of creation by him* (*nisarge*) is
 ‘*prajāpati nisargajam*’;—in *Kṛtyasārasamuccaya* (p. 99);—and in
 *Vīramitrodaya* (Vyavahāra, 158b).
@@ -38,8 +37,7 @@ following notes:—‘*Prajāpatinisargajam*,’ ‘Prajāpati is Brahmā, what
 **(verses 9.14-16)  
 **
 
-See Comparative notes for [Verse
-9.14].
+See Comparative notes for [Verse 9.14].
 </details>
 
 <details><summary>भारुचिः</summary>

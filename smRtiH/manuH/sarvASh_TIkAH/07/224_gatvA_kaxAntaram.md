@@ -28,8 +28,7 @@ From the aforesaid room, he shall go to another apartment.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 1.329);—in *Vīramitrodaya*
-(Rājanīti, p. 168);—and in *Nītimayūkha* (p. 53).
+This verse is quoted in *Mitākṣarā* (on 1.329);—in *Vīramitrodaya* (Rājanīti, p. 168);—and in *Nītimayūkha* (p. 53).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -37,8 +36,7 @@ This verse is quoted in *Mitākṣarā* (on 1.329);—in *Vīramitrodaya*
 **(verses 7.223-224)  
 **
 
-See Comparative notes for [Verse
-7.223].
+See Comparative notes for [Verse 7.223].
 </details>
 
 <details><summary>Bühler</summary>

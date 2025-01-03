@@ -20,12 +20,9 @@ If a man gets all this done by ‘*another wife*’—one belonging to a differe
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Pūrvadṛṣṭaḥ*’—‘Known by the ancients’ (Kullūka, Rāghavānanda and
-Nandana);—‘known from olden times’ (Medhātithi);—‘declared in the
-Purāṇas (Nārāyaṇa).
+‘*Pūrvadṛṣṭaḥ*’—‘Known by the ancients’ (Kullūka, Rāghavānanda and Nandana);—‘known from olden times’ (Medhātithi);—‘declared in the Purāṇas (Nārāyaṇa).
 
-This verse is quoted in *Vivādaratnākara* (p. 419);—in *Vīramitrodaya*
-(Vyavahāra, 198a);—and by *Jīmūtavāh* *ana* (Dāyabhāga, p. 259).
+This verse is quoted in *Vivādaratnākara* (p. 419);—in *Vīramitrodaya* (Vyavahāra, 198a);—and by *Jīmūtavāh* *ana* (Dāyabhāga, p. 259).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -33,8 +30,7 @@ This verse is quoted in *Vivādaratnākara* (p. 419);—in *Vīramitrodaya*
 **(verses 9.85-87)  
 **
 
-See Comparative notes for [Verse
-9.85].
+See Comparative notes for [Verse 9.85].
 </details>
 
 <details><summary>भारुचिः</summary>

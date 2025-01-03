@@ -114,33 +114,15 @@ The mention of wine being the ‘dirty refuse of grains’ is meant to be a decl
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Madhvī*.’—distilled from honey’ (Medhātithi);—‘distilled from Madhūka
-flowers’ (Kullūka);—‘distilled either from grapes and from Madhūka
-flowers or from honey’ (Nārāyaṇa).
+‘*Madhvī*.’—distilled from honey’ (Medhātithi);—‘distilled from Madhūka flowers’ (Kullūka);—‘distilled either from grapes and from Madhūka flowers or from honey’ (Nārāyaṇa).
 
-This verse is quoted in *Aparārka* (p. 1044), which adds that the liquor
-distilled from grains is here made an example of prohibited drink; which
-means that this is the principal kind of liquor, and the other two are
-only secondary; it is for this reason that though all the three are
-equally forbidden for the Brāhmaṇa, the former alone is forbidden for
-the Kṣatriya and the Vaiśya.
+This verse is quoted in *Aparārka* (p. 1044), which adds that the liquor distilled from grains is here made an example of prohibited drink; which means that this is the principal kind of liquor, and the other two are only secondary; it is for this reason that though all the three are equally forbidden for the Brāhmaṇa, the former alone is forbidden for the Kṣatriya and the Vaiśya.
 
-It is quoted in *Mitākṣarā* (3.253), to the effect that liquor distilled
-from grains is the principal kind of liquor;—and again, in the sense
-that the sin involved in the drinking of liquor distilled from honey and
-molasses is as heavy as that in drinking that distilled from grains.
+It is quoted in *Mitākṣarā* (3.253), to the effect that liquor distilled from grains is the principal kind of liquor;—and again, in the sense that the sin involved in the drinking of liquor distilled from honey and molasses is as heavy as that in drinking that distilled from grains.
 
-It is quoted in *Parāśaramādhava* (Prāyaścitta, p. 411), which notes
-that the name ‘*Surā*’ is applied primarily to liquor distilled from
-grains only, and only indirectly to those distilled from honey and
-molasses;—in *Vīramitrodaya* (Āhnika, p. 548);—in *Madanapārijāta* (p.
-814), which notes that ‘*dvijottama*’ stands for Brāhmaṇas; hence the
-meaning is that all kinds of liquor are forbidden for the Brāhmaṇa from
-his very birth;—in *Prāyaścittaviveka* (p. 89) in support of the view
-that the name ‘*Surā*’ applies to wines of all the three kinds;—and in
+It is quoted in *Parāśaramādhava* (Prāyaścitta, p. 411), which notes that the name ‘*Surā*’ is applied primarily to liquor distilled from grains only, and only indirectly to those distilled from honey and molasses;—in *Vīramitrodaya* (Āhnika, p. 548);—in *Madanapārijāta* (p. 814), which notes that ‘*dvijottama*’ stands for Brāhmaṇas; hence the meaning is that all kinds of liquor are forbidden for the Brāhmaṇa from his very birth;—in *Prāyaścittaviveka* (p. 89) in support of the view that the name ‘*Surā*’ applies to wines of all the three kinds;—and in
 *Smṛtisāroddhāra* (p. 355) to the effect that the name ‘*Surā*’ applies
-directly to these three kinds of wine only, and only figuratively to
-other kinds.
+directly to these three kinds of wine only, and only figuratively to other kinds.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -150,19 +132,10 @@ other kinds.
 
 *Viṣṇu* (22.82).—‘Distilled from sugar, or from the blossoms of
 *Madhūka*, or from flour; these three kinds of wine have to be
-discerned; as the one so all; none of them should be tasted by the
-twice-born. Further, that distilled from the blossoms of the *Madhūka*,
-from molasses, from the *Ṭaṅka* fruit, from the Jujube fruit, from
-dates, from the bread-fruit, from honey, *Maireya* wine, and wine made
-of the sap of the cocoanut (coconut?) tree; these ten intoxicating
-drinks are unclean for the Brāhmaṇa; but the Kṣatriya and the Vaiśya
-commit no wrong in touching or drinking them.’
+discerned; as the one so all; none of them should be tasted by the twice-born. Further, that distilled from the blossoms of the *Madhūka*, from molasses, from the *Ṭaṅka* fruit, from the Jujube fruit, from dates, from the bread-fruit, from honey, *Maireya* wine, and wine made of the sap of the cocoanut (coconut?) tree; these ten intoxicating drinks are unclean for the Brāhmaṇa; but the Kṣatriya and the Vaiśya commit no wrong in touching or drinking them.’
 
 *Agastya* (Aparārka, p. 1070).—‘That distilled from the jack-fruit, from
-grapes, from *Madhūka* blossoms, from dates, from palm-fruit, from
-sugar-cane juice, from honey, the *Maira*, from the cocoanut,—these
-eleven kinds of wine are equal; the twelfth is the wine called *Surā*,
-which is the worst of all.’
+grapes, from *Madhūka* blossoms, from dates, from palm-fruit, from sugar-cane juice, from honey, the *Maira*, from the cocoanut,—these eleven kinds of wine are equal; the twelfth is the wine called *Surā*, which is the worst of all.’
 </details>
 
 <details><summary>भारुचिः</summary>

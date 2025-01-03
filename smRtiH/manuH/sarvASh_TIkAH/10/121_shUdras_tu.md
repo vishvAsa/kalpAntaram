@@ -37,9 +37,7 @@ above.\]]
 Śūdra).’
 
 *Yājñavalkya* (1.120).—‘Attending on the twice-born is the occupation
-for the Śūdra; not gaining a living by that means, he shall become a
-trader, or live by means of the various arts, always working for the
-welfare of the twice-born.’
+for the Śūdra; not gaining a living by that means, he shall become a trader, or live by means of the various arts, always working for the welfare of the twice-born.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -37,8 +37,7 @@ This is so described, on account of Delusion being the cause of attachment to ob
 **(verses 12.27-29)  
 **
 
-See Comparative notes for [Verse
-12.27].
+See Comparative notes for [Verse 12.27].
 </details>
 
 <details><summary>भारुचिः</summary>

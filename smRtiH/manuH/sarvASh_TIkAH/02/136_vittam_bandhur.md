@@ -145,20 +145,14 @@ It has just been declared that among persons each of whom possesses only one of 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 474), where we
-find the following notes:—‘*Vittam*’ stands for *wealth acquired by
-lawful* means;—‘*bandhuḥ*’ for *uncles* and others;—‘*vayaḥ*’ for *older
-age*;—‘*karma*’ for acts prescribed in the *Śruti* and
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 474), where we find the following notes:—‘*Vittam*’ stands for *wealth acquired by lawful* means;—‘*bandhuḥ*’ for *uncles* and others;—‘*vayaḥ*’ for *older age*;—‘*karma*’ for acts prescribed in the *Śruti* and
 *Smṛti*;—‘*vidyā*’ for *true knowledge*;—these are ‘*mānyasthānāni*,’
 *i.e. grounds of respectability*. (See note below on 137).
 
 *Aparārka* (p. 159) quotes this verse in support of the view that a man,
-though belonging to an inferior caste, deserves to be respected by
-another of the superior caste, if the former happens to be possessed of
-superior learning and other qualifications.—It is quoted in
+though belonging to an inferior caste, deserves to be respected by another of the superior caste, if the former happens to be possessed of superior learning and other qualifications.—It is quoted in
 *Nṛsiṃhaprasāda* (Saṃskāra, p. 44b);—and in *Smṛticandrikā* (Saṃskāra,
-p. 106), which explains ‘*mānyasthānāni*’ as ‘grounds of respect, and
-adds that ‘learning’ is the highest of these all.
+p. 106), which explains ‘*mānyasthānāni*’ as ‘grounds of respect, and adds that ‘learning’ is the highest of these all.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -166,13 +160,10 @@ adds that ‘learning’ is the highest of these all.
 *Viṣṇu Smṛti* (32.16)—(words of Manu reproduced).
 
 *Gautama-Dharmasūtra* (6.20).—‘Wealth, Relationship, Caste, Learning and
-Age are objects of respect: the succeeding being superior to the
-preceding; Vedic Learning is superior to all, Dharma being based upon
-that.’
+Age are objects of respect: the succeeding being superior to the preceding; Vedic Learning is superior to all, Dharma being based upon that.’
 
 *Vaśiṣṭha-Smṛti* (1.3.21).—‘Learning, Wealth, Age, Relationship and
-Deeds are objects of respect; when all these are present, the preceding
-has preference over the succeeding,’
+Deeds are objects of respect; when all these are present, the preceding has preference over the succeeding,’
 
 *Yājñavalkya* (1.116).—‘By reason of Learning, Action, Age,
 Relationship, etc., and Wealth, in order, does a man become respected.’

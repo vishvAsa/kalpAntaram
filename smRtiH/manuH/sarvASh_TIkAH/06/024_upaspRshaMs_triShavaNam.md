@@ -36,8 +36,7 @@ severe austerities for the purpose of emaciating his physical frame.
 **(verses 6.23-24)  
 **
 
-See Comparative notes for [Verse
-6.23].
+See Comparative notes for [Verse 6.23].
 </details>
 
 <details><summary>भारुचिः</summary>

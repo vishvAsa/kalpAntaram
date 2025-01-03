@@ -24,17 +24,14 @@ For Niṣādas, the killing of fish; for Āyogavas, carpentry; and for medas, an
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“Govindarāja quotes a verse of Yama according to which the *Cūcuka* is
-the son of a Vaiśya by a Kṣatriya female and the *Madgu* the offspring
-of a Śūdra and a Kṣatriya”—Buhler.
+“Govindarāja quotes a verse of Yama according to which the *Cūcuka* is the son of a Vaiśya by a Kṣatriya female and the *Madgu* the offspring of a Śūdra and a Kṣatriya”—Buhler.
 
 This verse is quoted in the Aparārka (p. 119.)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-See Comparative notes for [Verse
-10.46].
+See Comparative notes for [Verse 10.46].
 </details>
 
 <details><summary>भारुचिः</summary>

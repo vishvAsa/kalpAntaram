@@ -22,15 +22,11 @@ There may be differences of opinion among these officers regarding the affairs o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Pṛthakkāryāṇi*’—‘Quarrels among each other’ (Nārāyaṇa);—‘the separate
-affairs of the villagers’ (Nandana),
+‘*Pṛthakkāryāṇi*’—‘Quarrels among each other’ (Nārāyaṇa);—‘the separate affairs of the villagers’ (Nandana),
 
 ‘*Snigdhaḥ*’—‘Impartial’ (Medhātíthī);—‘loyal to the king’ (Kullūka).
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 249), which
-explains ‘*pṛthakkāryāṇi*’ as ‘quarrels among themselves’;—it notes that
-if we adopted the reading ‘*pṛthakkāyāni*,’ the meaning would be
-‘matters on which there is a difference of opinion among them.’
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 249), which explains ‘*pṛthakkāryāṇi*’ as ‘quarrels among themselves’;—it notes that if we adopted the reading ‘*pṛthakkāyāni*,’ the meaning would be ‘matters on which there is a difference of opinion among them.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -39,14 +35,10 @@ if we adopted the reading ‘*pṛthakkāyāni*,’ the meaning would be
 supervise the doings of all these village-lords.’
 
 *Viṣṇudharmottara* (Vīramitrodaya-Rājanīti, p. 249).—‘In accordance with
-their duties, he shall make divisions and sub-divisions among them; and
-he shall always have their work inspected through spies.’
+their duties, he shall make divisions and sub-divisions among them; and he shall always have their work inspected through spies.’
 
 *Yājñavalkya* (1.336-338).—‘Having learnt all about the work of the
-officers appointed in the kingdom, through his spies, the king shall
-honour the honest and punish the dishonest; those addicted to bribery be
-shall banish after confiscating their property, and he shall retain the
-Vedic scholars with due honour and gifts.’
+officers appointed in the kingdom, through his spies, the king shall honour the honest and punish the dishonest; those addicted to bribery be shall banish after confiscating their property, and he shall retain the Vedic scholars with due honour and gifts.’
 </details>
 
 <details><summary>भारुचिः</summary>

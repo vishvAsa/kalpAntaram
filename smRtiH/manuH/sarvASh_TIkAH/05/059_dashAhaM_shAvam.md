@@ -68,35 +68,14 @@ Thus, though purification has been laid down in a general way, as to be accompli
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“The commentators are of the opinion that the length of the period of
-the impurity depends on the status of the mourner; and that a man who
-knows the mantras only of one *Śākhā* shall be impure during four days,
-one who knows a whole *Śākhā* (or two Vedas) during three days, one who
-knows the Veda (or three Vedas) and keeps three or five sacred fires,
-during one day. Medhātithi however mentions another interpretation,
-according to which the four periods correspond to the four ages of the
-deceased, which have been mentioned in the preceding verse. According to
-this view, the Sapiṇḍas shall mourn for an initiated person for ten
-days,—for one who had received the tonsure, four days, and so
-forth.”—Buhler.
+“The commentators are of the opinion that the length of the period of the impurity depends on the status of the mourner; and that a man who knows the mantras only of one *Śākhā* shall be impure during four days, one who knows a whole *Śākhā* (or two Vedas) during three days, one who knows the Veda (or three Vedas) and keeps three or five sacred fires, during one day. Medhātithi however mentions another interpretation, according to which the four periods correspond to the four ages of the deceased, which have been mentioned in the preceding verse. According to this view, the Sapiṇḍas shall mourn for an initiated person for ten days,—for one who had received the tonsure, four days, and so forth.”—Buhler.
 
-This verse is quoted in *Aparārka* (p. 893), which explains the first
-half to mean that the *Sapiṇḍas* are impure for ten days, and the second
-half as laying down three other alternatives;—‘*Arvāk* (or as it reads
+This verse is quoted in *Aparārka* (p. 893), which explains the first half to mean that the *Sapiṇḍas* are impure for ten days, and the second half as laying down three other alternatives;—‘*Arvāk* (or as it reads
 *ā vā*) *sañcayanāt asthnām*’ it explains as indicating the period of
 *four days*, the fourth day being prescribed for the collecting of the
-bones of the dead. Thus the four alternative periods are—ten days, four
-days, three days and one day; and the rule regarding the restriction of
-one or the other is thus laid down by *Parāśara*—‘The Brāhmaṇa equipped
-with both the Veda and the Fire becomes pure in *one* day, one equipped
-with the Veda only in *three* days, and one without qualifications in
-ten days.’
+bones of the dead. Thus the four alternative periods are—ten days, four days, three days and one day; and the rule regarding the restriction of one or the other is thus laid down by *Parāśara*—‘The Brāhmaṇa equipped with both the Veda and the Fire becomes pure in *one* day, one equipped with the Veda only in *three* days, and one without qualifications in ten days.’
 
-It is quoted in *Mitākṣarā* (on 3.29), which remarks that the four
-periods here specified are meant respectively for the
-‘*Kusūladhānyaka*,’ the ‘*Kumbhīdhānyaka*,’ the *Tryahaihika*’ and the
-‘*Aśvastanika*’ (described in 4.7 above). It quotes Parāśara’s rule
-(just quoted), but rejects it as unacceptable.
+It is quoted in *Mitākṣarā* (on 3.29), which remarks that the four periods here specified are meant respectively for the ‘*Kusūladhānyaka*,’ the ‘*Kumbhīdhānyaka*,’ the *Tryahaihika*’ and the ‘*Aśvastanika*’ (described in 4.7 above). It quotes Parāśara’s rule (just quoted), but rejects it as unacceptable.
 
 It is quoted in *Madanapārijāta* (p. 391), and again on p. 426;—in
 *Smṛtisāroddhāra* (pp. 226 and 229);—in *Nityācārapradīpa* (p. 116);—in
@@ -107,20 +86,16 @@ days’;—and in *Śuddhimayūkha* (p. 37).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (14.1).—‘The *Sapiṇḍas* become impure by death during ten
-days,—except those who officiate as priests, who have performed the
-initiatory sacrifice and religious students.’
+days,—except those who officiate as priests, who have performed the initiatory sacrifice and religious students.’
 
 *Baudhāyana* (1.11.1).—‘Referring to deaths and births, they declare
-that the impurity of *Sapiṇḍas* lasts for ten days, except for the
-officiating priest, or one who has performed the initiatory sacrifice,
-or the religious student.’
+that the impurity of *Sapiṇḍas* lasts for ten days, except for the officiating priest, or one who has performed the initiatory sacrifice, or the religious student.’
 
 *Vaśiṣṭha* (4.16).—‘It is ordained that impurity caused by a death shall
 last ten days in the case of *Sapiṇḍa* relations.’
 
 *Viṣṇu* (22.1).—‘Impurity due to death and birth shall last for ten days
-for the Brāhmaṇa, among Sapiṇḍas.’ *Yājñavalkya* (3.18).—(See above,
-under 58.)
+for the Brāhmaṇa, among Sapiṇḍas.’ *Yājñavalkya* (3.18).—(See above, under 58.)
 
 *Āśvalāyana Gṛhyasūtra* (4.4.18).—‘For ten days after the death of a
 Sapiṇḍa (study and gifts are to be avoided).’
@@ -129,47 +104,28 @@ Sapiṇḍa (study and gifts are to be avoided).’
 ten days (shall study be discontinued).’
 
 *Parāśara* (Aparārka, p. 894).—‘The Brāhmaṇa equipped with fire and Veda
-becomes purified in a single day; one endowed with the Veda only, in
-three days; one devoid of special qualifications, in ten days.’
+becomes purified in a single day; one endowed with the Veda only, in three days; one devoid of special qualifications, in ten days.’
 
 *Dakṣa* (Do.).—‘There are options in regard to impurity due to birth—for
-the moment, for one, three, four, six, ten, twelve or fifteen days, for
-a month, and till death. No such impurity attaches to the persons who
-know the text and the meaning of the Veda, along with the subsidiary
-sciences, rituals and esoteric doctrines, and are also devoted to the
-performance of religious rites.’
+the moment, for one, three, four, six, ten, twelve or fifteen days, for a month, and till death. No such impurity attaches to the persons who know the text and the meaning of the Veda, along with the subsidiary sciences, rituals and esoteric doctrines, and are also devoted to the performance of religious rites.’
 
 *Bṛhaspati* (Do.).—‘There is no impurity when Vedic Study is carried on,
-when Homa is offered at both times and when the Vaiśvadeva-offerings are
-constantly made. The Brāhmaṇa equipped with Fire and Veda becomes
-purified in one day; those with lesser qualifications, in three and four
-days. One without the Fire, in three days; the common Brāhmaṇa, in ten
-days; one who lives upon pickings and gleanings is immediately purified;
-for one whose sole possession is the *Gāyatrī* and who duly offers the
-three twilight-prayers, and who does not live the life of the dog, the
-impurity lasts for six days.’
+when Homa is offered at both times and when the Vaiśvadeva-offerings are constantly made. The Brāhmaṇa equipped with Fire and Veda becomes purified in one day; those with lesser qualifications, in three and four days. One without the Fire, in three days; the common Brāhmaṇa, in ten days; one who lives upon pickings and gleanings is immediately purified; for one whose sole possession is the *Gāyatrī* and who duly offers the three twilight-prayers, and who does not live the life of the dog, the impurity lasts for six days.’
 
-Parāśara (Do.).—(Same as above; but ‘*Mahābhārata is read*’ in place
-‘*Homa is offered at both times*).’
+Parāśara (Do.).—(Same as above; but ‘*Mahābhārata is read*’ in place ‘*Homa is offered at both times*).’
 
 *Dakṣa* (Do. p. 895).—‘The twice-born man who takes his food without
-bathing or making oblations, is always impure; also one who is an
-invalid, a miser, one in debt, one devoid of religious acts, and
-illiterate, one who is controlled by his wife and so forth.’
+bathing or making oblations, is always impure; also one who is an invalid, a miser, one in debt, one devoid of religious acts, and illiterate, one who is controlled by his wife and so forth.’
 
 *Brahmapurāṇa* (Aparārka, p. 895).—‘The man who has a second wife is
 beset with permanent impurity.’
 
 *Śātātapa* (Do.).—‘One who is degraded in birth and death, who is devoid
-of twilight-prayers, and who only bears the name of the *Brāhmaṇa*,
-becomes pure in ten days.’
+of twilight-prayers, and who only bears the name of the *Brāhmaṇa*, becomes pure in ten days.’
 
 *Parāśara* (l.3.6.).—(Same as above.)
 
-(Do.) (1.3.7, etc.).—‘Those who arc of the same Piṇḍa are affected by
-impurity. Up to the fourth grade, the impurity lasts ten days; at the
-fifth grade, six days; at the sixth, four days; at the seventh, three
-days.’
+(Do.) (1.3.7, etc.).—‘Those who arc of the same Piṇḍa are affected by impurity. Up to the fourth grade, the impurity lasts ten days; at the fifth grade, six days; at the sixth, four days; at the seventh, three days.’
 
 *Kūrmapurāṇa* (Parāśaramādhava, p. 583).—‘On the death of the Brāhmaṇa,
 the Śūdra, the Vaiśya and the Kṣatriya are purified in ten days.’

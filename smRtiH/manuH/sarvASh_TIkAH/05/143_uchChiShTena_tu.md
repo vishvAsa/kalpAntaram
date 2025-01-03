@@ -63,41 +63,20 @@ As a matter of fact, the same purpose runs through all *Smṛtis*; and yet from 
 
 (Verse 143 of others.)
 
-This verse is quoted in *Aparārka* (p. 264), which notes that this
-refers to cloth or such other substances being in the hand;—in
+This verse is quoted in *Aparārka* (p. 264), which notes that this refers to cloth or such other substances being in the hand;—in
 *Madanapārijāta* (p. 641);—in *Ācāramayūkha* (p. 17), which quotes
-Medhātithi to the effect that this refers to small things in the
-hand,—such things as can not be kept aside;—in *Vidhānapārijāta* (II, p.
-861),—in *Vīramitrodaya* (Āhnika, p. 118), which notes that this refers
-to the hand being engaged in the holding of things other than articles
-of food,—says *Kālpataru*;—in *Smrtisāroddhāra* (pp. 246 and 251),—in
+Medhātithi to the effect that this refers to small things in the hand,—such things as can not be kept aside;—in *Vidhānapārijāta* (II, p. 861),—in *Vīramitrodaya* (Āhnika, p. 118), which notes that this refers to the hand being engaged in the holding of things other than articles of food,—says *Kālpataru*;—in *Smrtisāroddhāra* (pp. 246 and 251),—in
 *Prāyaścittaviveka* (p. 476), which says that this refers to articles of
-food;—in *Hemādri* (Śrāddha, p. 954), which says that according to
-Medhātithi heavy objects are kept aside, but not small objects, but
-according to *Smṛticandrikā* it refers to such clothing and other things
-as can not be kept aside; or it may mean that sacred vessels may not be
-kept aside, food and metallic things may be kept aside, and clothes and
-other things may or may not be kept aside;—in *Nityācārapradīpa* (p.
-281), which quotes Viśvarupa to the effect that this refers to things
-other than food and vegetables;—and in *Śuddhikaumudī* (p. 317), which
-says that the man should keep the thing on his body and rinse his mouth,
-by which he himself, as also the thing carried, becomes
-purified;—according to *Ratnākara*, this refers to milk only.
+food;—in *Hemādri* (Śrāddha, p. 954), which says that according to Medhātithi heavy objects are kept aside, but not small objects, but according to *Smṛticandrikā* it refers to such clothing and other things as can not be kept aside; or it may mean that sacred vessels may not be kept aside, food and metallic things may be kept aside, and clothes and other things may or may not be kept aside;—in *Nityācārapradīpa* (p. 281), which quotes Viśvarupa to the effect that this refers to things other than food and vegetables;—and in *Śuddhikaumudī* (p. 317), which says that the man should keep the thing on his body and rinse his mouth, by which he himself, as also the thing carried, becomes purified;—according to *Ratnākara*, this refers to milk only.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (1.8.27-30).—‘If he becomes impure while holding a
-metal-vessel, he shall put it down, sip water and sprinkle it, when he
-is going to take it up: if he becomes impure while he is occupied with
-food, he shall put it down, sip water and sprinkle it, when he is going
-to take it up. If he becomes impure while occupied with water, he shall
-put it down, sip water and sprinkle it, when he is going to take it up.
-That is contrary to rule in the case of an earthen vessel.’
+metal-vessel, he shall put it down, sip water and sprinkle it, when he is going to take it up: if he becomes impure while he is occupied with food, he shall put it down, sip water and sprinkle it, when he is going to take it up. If he becomes impure while occupied with water, he shall put it down, sip water and sprinkle it, when he is going to take it up. That is contrary to rule in the case of an earthen vessel.’
 
 *Vaśiṣṭha* (3.43).—‘If, while occupied with eatables, he touches any
-impure substance, then he shall place that thing on the ground, sip
-water and then use it.’
+impure substance, then he shall place that thing on the ground, sip water and then use it.’
 </details>
 
 <details><summary>Bühler</summary>

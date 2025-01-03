@@ -34,13 +34,7 @@ proceedings, and the man’s appointment itself is indicative of his possession 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 21), which adds
-that the Brāhmaṇa so appointed is called the ‘*Prāḍvivāka*,’ ‘judge,’
-who is to try the suits exactly in the same manner as has been laid down
-for the king; It adds a text from Nārada explaining the name
-‘*Prāḍvivāka*—‘The *Prāḍvivāka* is so called because *he puts questions*
-(prāṭ) upon the subject-matter of the suit and *investigates* *it*
-(Vivāka).—It is quoted also in *Smṛticandrikā* (Vyavahāra, p. 36);—in
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 21), which adds that the Brāhmaṇa so appointed is called the ‘*Prāḍvivāka*,’ ‘judge,’ who is to try the suits exactly in the same manner as has been laid down for the king; It adds a text from Nārada explaining the name ‘*Prāḍvivāka*—‘The *Prāḍvivāka* is so called because *he puts questions* (prāṭ) upon the subject-matter of the suit and *investigates* *it* (Vivāka).—It is quoted also in *Smṛticandrikā* (Vyavahāra, p. 36);—in
 *Kṛtyakalpataru* (8a);—and in *Vīramitrodaya* (Vyavahāra, p. 10b).
 </details>
 
@@ -56,35 +50,19 @@ on the bench.’
 business.’
 
 *Yājñavalkya* (2.3).—‘The Brāhmaṇa knowing the entire Dharma shall be
-appointed by the King to try law-suits, if, under pressure of business,
-he is unable to look into them himself.’
+appointed by the King to try law-suits, if, under pressure of business, he is unable to look into them himself.’
 
 *Bṛhaspati* (1.24).—‘Let the King, or a member of the twice-born caste
-officiating as Chief Judge, try causes acting on principles of equity,
-and abiding by the opinion of the judges and the doctrine of the sacred
-law.’
+officiating as Chief Judge, try causes acting on principles of equity, and abiding by the opinion of the judges and the doctrine of the sacred law.’
 
 *Śukranīti* (4.5.23-34).—‘Where the King cannot personally attend to the
-administration of justice, he should appoint a Brāhmaṇa who is versed in
-the Vedas, self-controlled, highborn, impartial, unagitated and calm,
-who fears the next life, is religious-minded, active and devoid of
-anger. If the Brāhmaṇa is not learned enough, the King should appoint a
-Kṣatriya, or a Vaiśya who is versed in the sacred law; but he should
-never appoint the Śūdra, The king should always appoint men of the caste
-to which he himself belongs; as most members of the royal caste are
-likely to be well-qualified.’
+administration of justice, he should appoint a Brāhmaṇa who is versed in the Vedas, self-controlled, highborn, impartial, unagitated and calm, who fears the next life, is religious-minded, active and devoid of anger. If the Brāhmaṇa is not learned enough, the King should appoint a Kṣatriya, or a Vaiśya who is versed in the sacred law; but he should never appoint the Śūdra, The king should always appoint men of the caste to which he himself belongs; as most members of the royal caste are likely to be well-qualified.’
 
 *Nārada* (Parāśaramādhava-Vyavahāra, p. 22).—‘He is called the Chief
-Judge who,—fully acquainted with the eighteen titles of law and with the
-eight thousand subdivisions thereof, skilled in Logic and other
-sciences, and thoroughly versed in revealed and traditional
-lore,—investigates the law relative to the case in hand by *putting
-questions* and *passing decisions* according to what was heard or
-understood by him.’
+Judge who,—fully acquainted with the eighteen titles of law and with the eight thousand subdivisions thereof, skilled in Logic and other sciences, and thoroughly versed in revealed and traditional lore,—investigates the law relative to the case in hand by *putting questions* and *passing decisions* according to what was heard or understood by him.’
 
 *Kātyāyana* (Parāśaramādhava-Vyavahāra, p. 22).—‘When no Brāhmaṇa is
-available, the King shall appoint a Kṣatriya or a Vaiśya versed in legal
-lore; but he shall avoid the Śūdra.’
+available, the King shall appoint a Kṣatriya or a Vaiśya versed in legal lore; but he shall avoid the Śūdra.’
 
 *Prajāpati* (Smṛticandrikā).—‘The anointed King or the learned Brāhmaṇa,
 seated on the seat of judgment, shall investigate the suits quietly.’

@@ -33,8 +33,7 @@ Smṛti-text—‘There is no prohibition regarding leguminous grains, cucumber 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣara* (2.275), to the effect that there is
-no punishment for way-farers stealing some little things on the way.
+This verse is quoted in *Mitākṣara* (2.275), to the effect that there is no punishment for way-farers stealing some little things on the way.
 *Bālambhaṭṭī* adds the following notes:—‘*Adhvāga*,’
 way-farer,—‘*kṣīṇavṛttiḥ*,’ with his food-supply exhausted.
 

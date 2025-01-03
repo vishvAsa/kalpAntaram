@@ -28,8 +28,7 @@ The sense of this is explained by what has gone before.
 [\[See texts under 9.326 *et
 seq*.\]]
 
-See Comparative notes for [Verse
-10.77].
+See Comparative notes for [Verse 10.77].
 </details>
 
 <details><summary>भारुचिः</summary>

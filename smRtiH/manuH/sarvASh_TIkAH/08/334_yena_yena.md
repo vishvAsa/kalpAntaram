@@ -34,15 +34,13 @@ Or ‘*pratyādeśa*’ may stand for *reproach*, forcible, dignified, angry and
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Pratyādeśāya*’—‘By way of making a deterrent example’
-(Medhātithi);—‘for the purpose of preventing repetition’ (Kullūka).
+‘*Pratyādeśāya*’—‘By way of making a deterrent example’ (Medhātithi);—‘for the purpose of preventing repetition’ (Kullūka).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (Theft, 34).—‘With whatever limb a thief acts among men, that
-very limb shall be taken away from him such is the law ordained by
-Manu.’
+very limb shall be taken away from him such is the law ordained by Manu.’
 </details>
 
 <details><summary>भारुचिः</summary>

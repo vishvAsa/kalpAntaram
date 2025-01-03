@@ -20,8 +20,7 @@ The augmentation of ‘life, wealth and kingdom’ is the reward of harbouring t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 141);—and again on
-p. 272.
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 141);—and again on p. 272.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -32,14 +31,7 @@ and charitable works.’
 *Viṣṇu* (3.27).—‘They pay him taxes in the shape of their pious acts.’
 
 *Yama* (Vīramitrodaya-Rājanīti, p. 113).—‘That king among whose subjects
-are Brāhmaṇas who recite the Veda at the first and the last parts of the
-night, shines and prospers, on that account, along with his kingdom,
-with Brahmanic glory. If the king, by chance, commit any sin, the
-Brāhmaṇas residing in his realm, allay it by their recitations. livery
-morning on rising, the king shall honour the Brāhmaṇas; it is by virtue
-of the favour of Brāhmaṇas that, the gods remain in heaven. The glory of
-Brāhmaṇas is endless; therefore shall the king regularly offer obeisance
-to Brāhmaṇas.’
+are Brāhmaṇas who recite the Veda at the first and the last parts of the night, shines and prospers, on that account, along with his kingdom, with Brahmanic glory. If the king, by chance, commit any sin, the Brāhmaṇas residing in his realm, allay it by their recitations. livery morning on rising, the king shall honour the Brāhmaṇas; it is by virtue of the favour of Brāhmaṇas that, the gods remain in heaven. The glory of Brāhmaṇas is endless; therefore shall the king regularly offer obeisance to Brāhmaṇas.’
 </details>
 
 <details><summary>भारुचिः</summary>

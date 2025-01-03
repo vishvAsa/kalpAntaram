@@ -22,11 +22,9 @@ Manu, the son of Svayambhu, has declared that the vessels of the renunciate shal
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-Hopkins is not right in saying that “Medhātithi has no note on this
-verse.” (See *Translation*).
+Hopkins is not right in saying that “Medhātithi has no note on this verse.” (See *Translation*).
 
-‘*Vaidalam*’—‘Made of bamboo and such other things’ (Medhātithi);—‘made
-of tree-bark’ (Govindarāja).
+‘*Vaidalam*’—‘Made of bamboo and such other things’ (Medhātithi);—‘made of tree-bark’ (Govindarāja).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -34,8 +32,7 @@ of tree-bark’ (Govindarāja).
 **(verses 6.53-54)  
 **
 
-See Comparative notes for [Verse
-6.53].
+See Comparative notes for [Verse 6.53].
 </details>
 
 <details><summary>Bühler</summary>

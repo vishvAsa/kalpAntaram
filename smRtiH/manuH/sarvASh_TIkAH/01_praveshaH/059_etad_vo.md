@@ -23,10 +23,7 @@ that by directing him to explain the Law, Manu shows that the Law has come down 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This Verse is quoted by the Aparārka (p. 4) with a view to show that the
-writer of a work often quotes himself,—and wherever *manurabravīt*
-occurs, it is Manu’s own words that are quoted, not those of Bhṛgu, the
-compiler.
+This Verse is quoted by the Aparārka (p. 4) with a view to show that the writer of a work often quotes himself,—and wherever *manurabravīt* occurs, it is Manu’s own words that are quoted, not those of Bhṛgu, the compiler.
 </details>
 
 <details><summary>Bühler</summary>

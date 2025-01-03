@@ -35,8 +35,7 @@ Some people read ‘*asaṅkusukaḥ*’;—‘*saṅkusuka*’ means fickle, un
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Muniḥ*’—‘with the organ of speech controlled’
-(Medhātithi);—‘meditating on Brahman’ (Kullūka).
+‘*Muniḥ*’—‘with the organ of speech controlled’ (Medhātithi);—‘meditating on Brahman’ (Kullūka).
 
 This verse is quoted in *Aparārka* (p. 953).
 </details>
@@ -47,14 +46,10 @@ This verse is quoted in *Aparārka* (p. 953).
 ‘*aśvastana-vidhātā syāt*.’)
 
 *Gautama* (3.11, 14).—‘The Renunciate shall not possess any store. He
-shall enter a village only for begging alms.’ *Baudhāyana*
-(2.11.16).—(See under 41.)
+shall enter a village only for begging alms.’ *Baudhāyana* (2.11.16).—(See under 41.)
 
 *Āpastamba* (2.21.10).—‘He shall live without a tire, without a house,
-without pleasures, without protection. Remaining silent and uttering
-speech only on the occasion of the daily recitation of the Veda, begging
-only so much food in the village as will sustain his life, he shall
-wander about, caring neither for this world nor for the next.’
+without pleasures, without protection. Remaining silent and uttering speech only on the occasion of the daily recitation of the Veda, begging only so much food in the village as will sustain his life, he shall wander about, caring neither for this world nor for the next.’
 
 *Vaśiṣṭha* (10.6).—‘The Renunciate sh all shave his head; he shall have
 no property, and no house.’

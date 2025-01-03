@@ -22,9 +22,7 @@ The ten great sages are mentioned by name (in verse 35).—(34-35)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-These are quoted in Hemādri-Dāna, p. 242, as describing the ‘munis’,
-sages. It reads ‘*dustaram*’ for ‘*duścaram*’, and ‘*āṅgirasam*’ for
-‘*aṅgirasam*’.
+These are quoted in Hemādri-Dāna, p. 242, as describing the ‘munis’, sages. It reads ‘*dustaram*’ for ‘*duścaram*’, and ‘*āṅgirasam*’ for ‘*aṅgirasam*’.
 </details>
 
 <details><summary>Bühler</summary>

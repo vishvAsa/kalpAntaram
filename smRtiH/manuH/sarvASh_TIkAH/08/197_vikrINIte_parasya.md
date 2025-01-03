@@ -32,10 +32,7 @@ When a property is sold by one who is not its owner, without the consent of the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 103), which explains the
-phrase ‘*na tam nayet sākṣyam*’ as ‘should place no confidence in
-him’;—in *Nṛsiṃhaprasāda* (Vyavahāra, 26b);—in *Vivādacintāmaṇi* (p.
-41), which explains ‘*sākṣyam*’ as ‘trustworthy evidence’;—in
+This verse is quoted in *Vivādaratnākara* (p. 103), which explains the phrase ‘*na tam nayet sākṣyam*’ as ‘should place no confidence in him’;—in *Nṛsiṃhaprasāda* (Vyavahāra, 26b);—in *Vivādacintāmaṇi* (p. 41), which explains ‘*sākṣyam*’ as ‘trustworthy evidence’;—in
 *Kṛtyakalpataru* (85b), which explains ‘*na tam nayet sākṣyam*’ as ‘no
 trust is to be placed in him’—and in *Vīramitrodaya* (Vyavahāra, 115b).
 </details>
@@ -43,17 +40,13 @@ trust is to be placed in him’—and in *Vīramitrodaya* (Vyavahāra, 115b).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (7.1).—‘When a property kept as deposit, or the property of a
-stranger lost by him and found by another, or a stolen article,—is sold
-in secret, it has to he considered as *sale without ownership*.’
+stranger lost by him and found by another, or a stolen article,—is sold in secret, it has to he considered as *sale without ownership*.’
 
 *Bṛhaspati* (13.2).—‘An open deposit, a bailment for delivery, a sealed
-deposit, stolen property, a pledge, or what has been borrowed for
-use;—when any one of these articles has been sold in secret by a man, he
-is declared to be one *selling without ownership*.’
+deposit, stolen property, a pledge, or what has been borrowed for use;—when any one of these articles has been sold in secret by a man, he is declared to be one *selling without ownership*.’
 
 *Vyāsa* (Vivādaratnākara, p. 100).—‘An article borrowed for use, deposit
-sealed or open, or anything stolen from another,—if any of these is sold
-by a man, it is a case of *sale without ownership*.’
+sealed or open, or anything stolen from another,—if any of these is sold by a man, it is a case of *sale without ownership*.’
 </details>
 
 <details><summary>भारुचिः</summary>

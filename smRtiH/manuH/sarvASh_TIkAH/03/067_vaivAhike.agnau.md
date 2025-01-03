@@ -93,35 +93,24 @@ Further, Yājñavalkya’s text lays down the additional fact that ‘Śrauta ri
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 *Medhātithi* (P. 217, l. 27)—‘*Etadevānyatra paṭhitam*’.—The verse is
-quoted from Yājñavalkya (1.97), where *Mitākṣarā* explains the phrase
-‘*smārtam karma*’ as ‘the Vaiśvadeva and other religious rites
-prescribed in the *Smṛtis*’, as also ‘the ordinary worldly acts of
-cooking and the like’, while *Aparārka* explains it simply as ‘acts laid
-down in the *Smṛtis*’.
+quoted from Yājñavalkya (1.97), where *Mitākṣarā* explains the phrase ‘*smārtam karma*’ as ‘the Vaiśvadeva and other religious rites prescribed in the *Smṛtis*’, as also ‘the ordinary worldly acts of cooking and the like’, while *Aparārka* explains it simply as ‘acts laid down in the *Smṛtis*’.
 
-This verse is quoted in *Nirṇayasindhu* (p. 301);—and in *Śāntimayūkha*
-(p. 4).
+This verse is quoted in *Nirṇayasindhu* (p. 301);—and in *Śāntimayūkha* (p. 4).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (5.7-9).—‘The installation of Fire begins either with marriage
-or with succession to property; in that are the Gṛhya-rites to be
-performed; as also the sacrifices to Gods, Pitṛs and Men, and also Vedic
-Study.’
+or with succession to property; in that are the Gṛhya-rites to be performed; as also the sacrifices to Gods, Pitṛs and Men, and also Vedic Study.’
 
 *Yājñavalkya* (1. 97).—‘The Householder should every day perform the
-Smārta-rites in the marriage-tire, or in the fire installed at the time
-of succession to property; and the Śrauta rites are to he performed in
-the Śrauta Fire.’
+Smārta-rites in the marriage-tire, or in the fire installed at the time of succession to property; and the Śrauta rites are to he performed in the Śrauta Fire.’
 
 *Viṣṇu* (59.1-3).—‘The Householder shall perform the Pākayajñas in the
-Marriage-Fire; also the Agnihotra, both morning and evening; he shall
-also pour libations to the Gods.’
+Marriage-Fire; also the Agnihotra, both morning and evening; he shall also pour libations to the Gods.’
 
 *Baudhāyana* (2.2.75).—‘The installation of Fire begins with marriage;
-in that should the rites be performed till such time as the regular
-Laying of the Fire.’
+in that should the rites be performed till such time as the regular Laying of the Fire.’
 
 *Śātātapa* (Vīramitrodaya-Āhnika, p. 393).—‘The Vaiśvadeva offering may
 be made either in the ordinary fire or in the Vedic fire.’
@@ -133,10 +122,7 @@ done in that fire in which one cooks his food.’
 offered in the Marriage Fire.’
 
 *Kāmandaka* (2.25-26).—‘The duties of a Householder are to perform the
-Agnihotra, to live by the prescribed professions and to avoid sexual
-intercourse on the Parvas. The duties of those who have married and
-settled down are—to worship gods, pitṛs and guests, to show mercy to the
-poor and the distressed and to live according to *Śruti* and *Smṛti*.’
+Agnihotra, to live by the prescribed professions and to avoid sexual intercourse on the Parvas. The duties of those who have married and settled down are—to worship gods, pitṛs and guests, to show mercy to the poor and the distressed and to live according to *Śruti* and *Smṛti*.’
 </details>
 
 <details><summary>Bühler</summary>

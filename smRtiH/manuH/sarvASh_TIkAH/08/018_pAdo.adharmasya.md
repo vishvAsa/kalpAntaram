@@ -26,32 +26,24 @@ This verse is a purely supplementary exaggeration; because in reality the sin co
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Sabhāsadaḥ*’—‘People assembled in Court’ (Kullūka and
-Rāghavānanda)‘Judges’ (Govindarāja).
+‘*Sabhāsadaḥ*’—‘People assembled in Court’ (Kullūka and Rāghavānanda)‘Judges’ (Govindarāja).
 
-This verse is quoted in *Mitākṣarā* (on 2.305), to the effect that in
-the case of miscarriage of justice, every one of those persons should be
-punished;—in *Parāśaramādhava* (Vyavahāra, p. 15);—in *Smṛtitattva* (II,
-p. 200);—and in *Vīramitrodaya* (Vyavahāra, p. 5a).
+This verse is quoted in *Mitākṣarā* (on 2.305), to the effect that in the case of miscarriage of justice, every one of those persons should be punished;—in *Parāśaramādhava* (Vyavahāra, p. 15);—in *Smṛtitattva* (II, p. 200);—and in *Vīramitrodaya* (Vyavahāra, p. 5a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (1.19.8).—‘Of injustice in decisions, one quarter falls on
-the party in the cause, one quarter on his witnesses, one quarter on all
-the judges, and one quarter on the King.’
+the party in the cause, one quarter on his witnesses, one quarter on all the judges, and one quarter on the King.’
 
 *Gautama* (13.11).—‘If the sacred law or the rules are violated, the
-guilt falls on the witnesses, the Assessors, the King, and the
-offender.’
+guilt falls on the witnesses, the Assessors, the King, and the offender.’
 
 *Nārada* (3.12).—‘One quarter of the iniquity goes to the offender, one
-quarter goes to the witness; one quarter goes to all the members of the
-Court; one quarter goes to the King.’
+quarter goes to the witness; one quarter goes to all the members of the Court; one quarter goes to the King.’
 
 *Hārīta* (Vyavahāratattva).—‘Of injustice, one quarter falls on the
-perpetrator, one quarter on the witness, one quarter on all the members
-of the Court and one quarter on the King.’
+perpetrator, one quarter on the witness, one quarter on all the members of the Court and one quarter on the King.’
 </details>
 
 <details><summary>भारुचिः</summary>

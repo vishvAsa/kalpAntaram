@@ -40,8 +40,7 @@ In the manner thus described, ‘*he should stand*’ (as laid down in the prece
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 100);—in *Aparārka* (p.
-56);—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 47a).
+This verse is quoted in *Madanapārijāta* (p. 100);—in *Aparārka* (p. 56);—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 47a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -42,9 +42,7 @@ hyperbolic eulogium; what is meant is only that *such Dharma as is adumbrated in
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Guṇadoṣau ca karmaṇām*’—‘The desirable and undesirable results of
-actions’ (Medhātithi, Govindarāja, Kullūka and Nandana);—‘the prescribed
-acts’ (Rāghavānanda and Nārāyaṇa).
+‘*Guṇadoṣau ca karmaṇām*’—‘The desirable and undesirable results of actions’ (Medhātithi, Govindarāja, Kullūka and Nandana);—‘the prescribed acts’ (Rāghavānanda and Nārāyaṇa).
 </details>
 
 <details><summary>Bühler</summary>

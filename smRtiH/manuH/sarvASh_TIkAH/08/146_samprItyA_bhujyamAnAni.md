@@ -50,9 +50,7 @@ This verse is quoted in *Smṛticandrikā* (Vyavahāra p. 157).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Bṛhaspati* (9.11).—‘A house, field, commodity or other property held by
-a person other than the owner, is not lost to the owner by mere adverse
-possession, if the possessor stands to him in the relation of a friend,
-relative or kinsman.’
+a person other than the owner, is not lost to the owner by mere adverse possession, if the possessor stands to him in the relation of a friend, relative or kinsman.’
 </details>
 
 <details><summary>भारुचिः</summary>

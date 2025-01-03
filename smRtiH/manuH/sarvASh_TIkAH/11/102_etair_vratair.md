@@ -33,8 +33,7 @@ This same use of the plural number is indicative of the fact that there are othe
 [\[See above
 8.314-316.\]]
 
-See Comparative notes for [Verse
-11.99].
+See Comparative notes for [Verse 11.99].
 </details>
 
 <details><summary>भारुचिः</summary>

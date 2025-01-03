@@ -26,9 +26,7 @@ Knowing these Institutes, the Brāhmaṇa, comes to ‘*discharge all prescribed
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in the *Smṛticandrikā* (Saṃskāra, p. 10) which
-reads ‘*saṃśita*’ for ‘*śaṃsita*’ and adds that the term here stands for
-‘twice-born’ persons.
+This verse is quoted in the *Smṛticandrikā* (Saṃskāra, p. 10) which reads ‘*saṃśita*’ for ‘*śaṃsita*’ and adds that the term here stands for ‘twice-born’ persons.
 </details>
 
 <details><summary>Bühler</summary>

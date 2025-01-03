@@ -32,27 +32,17 @@ the Veda has been got up’ (3. 1); and in connection with the limit of the stag
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 562), which adds
-that the rule here laid down is on the basis of the understanding that
-the ordinary span of man’s life is a hundred years;—and in
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 562), which adds that the rule here laid down is on the basis of the understanding that the ordinary span of man’s life is a hundred years;—and in
 *Saṃskāramayūkha*, (p. 64), which remarks that the span of man’s life
-being a hundred years, one should devote twenty-five years to each of
-the four life—stages,—such is the view of the writers of the Digests.
+being a hundred years, one should devote twenty-five years to each of the four life—stages,—such is the view of the writers of the Digests.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (12.242.28-30).—‘The pupil shall pass through the
-life-stages, free from vulgarity; having gone through the fourth part of
-his life by keeping the fasts and observances, relating to the Veda, he
-shall offer the fee to his preceptor and perform the ceremony of
-‘Return’ according to the law; being united to a virtuous wife and
-having, with due care, kindled the fires, the householder shall pass the
-second quarter of his life, keeping firm in his observances.’
+life-stages, free from vulgarity; having gone through the fourth part of his life by keeping the fasts and observances, relating to the Veda, he shall offer the fee to his preceptor and perform the ceremony of ‘Return’ according to the law; being united to a virtuous wife and having, with due care, kindled the fires, the householder shall pass the second quarter of his life, keeping firm in his observances.’
 
-Do. (12.243.1).—‘During the second quarter of his life, the householder
-shall live in the house, firm in his observances, after having been
-united to a virtuous wife and having kindled the fires.’
+Do. (12.243.1).—‘During the second quarter of his life, the householder shall live in the house, firm in his observances, after having been united to a virtuous wife and having kindled the fires.’
 </details>
 
 <details><summary>Bühler</summary>

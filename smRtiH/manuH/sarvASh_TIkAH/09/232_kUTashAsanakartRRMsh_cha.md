@@ -38,48 +38,30 @@ Forgers of royal proclamations, sowers of disaffection among the people, the sla
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 862), which adds the following
-notes:—‘*Prakṛtīnām*,’ of the various ‘members’ of the
-state;—‘*dviṭsevinaḥ*,’ those who serve persons disloyal to the
-king;—and in *Vivādaratnākara* (p. 370), which adds the following
-notes:—‘*Śāsana*’ here stands for royal proclamations;—‘*prakṛtīnām*,’
-of the Minister and other members of the State;—‘*dūṣakān*,’ defamers
-without justification, those who attribute delinquencies, when in
-reality, there are none;—‘*dviṭsevinaḥ*,’ persons serving men inimical
-to the king.
+This verse is quoted in *Aparārka* (p. 862), which adds the following notes:—‘*Prakṛtīnām*,’ of the various ‘members’ of the state;—‘*dviṭsevinaḥ*,’ those who serve persons disloyal to the king;—and in *Vivādaratnākara* (p. 370), which adds the following notes:—‘*Śāsana*’ here stands for royal proclamations;—‘*prakṛtīnām*,’ of the Minister and other members of the State;—‘*dūṣakān*,’ defamers without justification, those who attribute delinquencies, when in reality, there are none;—‘*dviṭsevinaḥ*,’ persons serving men inimical to the king.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (5.9, 11).—‘The King shall put to death those who forge royal
-edicts;—and those who forge private documents;—and also poisoners,
-incendiaries, robbers, killers of women, children or men;—those stealing
-more than ten
+edicts;—and those who forge private documents;—and also poisoners, incendiaries, robbers, killers of women, children or men;—those stealing more than ten
 
 *Kumbhas* of grain,—or more than a hundred *māṣas* of things sold by
-weight;—also those who aspire to sovereignty, though being of low birth;
-breakers of dikes, and such as give shelter to robbers; and a woman who
-is unfaithful to her lord.’
+weight;—also those who aspire to sovereignty, though being of low birth; breakers of dikes, and such as give shelter to robbers; and a woman who is unfaithful to her lord.’
 
 *Viṣṇu* (Vivādaratnākara, p. 370).—‘One who tries to contaminate the
-limbs of the kingdom—Minister, etc., and the people—should be put to
-death.’
+limbs of the kingdom—Minister, etc., and the people—should be put to death.’
 
 *Yājñavalkya* (2.240).—‘One who forges weighing scales, royal edicts,
-weights and measures, or coins,—and one who deals with these,—should be
-fined the highest amercement.’
+weights and measures, or coins,—and one who deals with these,—should be fined the highest amercement.’
 
-Do. (2.294).—‘One who subtracts from or adds to a royal edict, and one
-who lets go an adulterer or a thief,—should be fined the highest
-amercement.’
+Do. (2.294).—‘One who subtracts from or adds to a royal edict, and one who lets go an adulterer or a thief,—should be fined the highest amercement.’
 
 *Śaṅkha-Likhita* (Aparārka, p. 862).—‘One who makes use of a forged
-document, or disobeys a royal edict, and deals with short weights and
-measures should suffer corporal punishment or cutting off of a limb.’
+document, or disobeys a royal edict, and deals with short weights and measures should suffer corporal punishment or cutting off of a limb.’
 
 *Katyāyana* (Do.).—‘One who tries to establish his case either by forged
-evidence or by means of a forged seal, should he fined with the highest
-amercement.’
+evidence or by means of a forged seal, should he fined with the highest amercement.’
 </details>
 
 <details><summary>भारुचिः</summary>

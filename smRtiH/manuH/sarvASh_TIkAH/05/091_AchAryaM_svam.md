@@ -39,17 +39,9 @@ There is no harm done to his observances by carrying the dead body of these pers
 
 (Verse 91 of others.)
 
-This verse is quoted in *Parāśaramādhava* (Ācarā, p. 633) to the effect
-that there is nothing wrong in the Religious Student carrying the dead
-body of the persons named here;—and in *Nirṇayasindhu* (p. 391);—in
+This verse is quoted in *Parāśaramādhava* (Ācarā, p. 633) to the effect that there is nothing wrong in the Religious Student carrying the dead body of the persons named here;—and in *Nirṇayasindhu* (p. 391);—in
 *Hāralatā* (p. 201) to the effect that when there are no other persons
-available for carrying the dead body of the Teacher and the rest and
-perform their cremation, then the person who has undertaken vows and
-observances may do the needful, and this does not interfere with his
-observances,—it explains ‘*ācārya*’ as the person who has done the
-initiation and taught the entire Veda, the ‘*upādhyāya*’ is one who has
-taught a portion of the Veda or the Subsidiary Sciences, and ‘*guru*’ is
-the person who expounds the Veda and the Sciences;—and in
+available for carrying the dead body of the Teacher and the rest and perform their cremation, then the person who has undertaken vows and observances may do the needful, and this does not interfere with his observances,—it explains ‘*ācārya*’ as the person who has done the initiation and taught the entire Veda, the ‘*upādhyāya*’ is one who has taught a portion of the Veda or the Subsidiary Sciences, and ‘*guru*’ is the person who expounds the Veda and the Sciences;—and in
 *Saṃskāraratnamālā* (p. 294).
 </details>
 
@@ -58,21 +50,16 @@ the person who expounds the Veda and the Sciences;—and in
 *Viṣṇu* (22.86).—(Same as Manu.)
 
 *Yājñavalkya* (3.15).—‘The religious student retains his character of
-religious student even after carrying the dead body of the teacher, the
-father and the sub-teacher.’
+religious student even after carrying the dead body of the teacher, the father and the sub-teacher.’
 
 *Vaśiṣṭha* (Aparārka, p. 884).—‘The religious students incur the
-necessity of re-initiation, by the carrying of a dead body, except that
-of their parents.’
+necessity of re-initiation, by the carrying of a dead body, except that of their parents.’
 
 *Brahmapurāṇa* (Aparārka, p. 884).—‘The religious student, even while
-keeping the vows, does not deviate therefrom, if he burns the dead body
-of his teacher, sub-teacher, preceptor, father or mother.’
+keeping the vows, does not deviate therefrom, if he burns the dead body of his teacher, sub-teacher, preceptor, father or mother.’
 
 *Devala* (Parāśaramādhava, p. 633).—‘Tho religious student shall not
-perform such acts as the burning of the dead body; if he does do it, he
-shall perform the *kṛohchra* penance and go through the initiation
-again.’
+perform such acts as the burning of the dead body; if he does do it, he shall perform the *kṛohchra* penance and go through the initiation again.’
 </details>
 
 <details><summary>Bühler</summary>

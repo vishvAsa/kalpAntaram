@@ -25,8 +25,7 @@ This also is a declamatory declaration in support of the teaching that ‘no pro
 **(verses 11.19-22)  
 **
 
-See Comparative notes for [Verse
-11.19].
+See Comparative notes for [Verse 11.19].
 </details>
 
 <details><summary>भारुचिः</summary>

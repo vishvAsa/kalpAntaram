@@ -48,20 +48,14 @@ Sacrificial fire.’ There can be no duplication in the case of those penances t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.249), to the effect that the food
-to be eaten should be ‘*haviṣya*’ only;—and in *Aparārka* (p. 1060),
-which adds that ‘*niyatāhāra*’ means that the food should be either
-small in quantity or of ‘*haviṣya*’ kind only;—the man becomes purified
-by reciting the text of the Veda three times,—or by being restrained in
-food and going along the Sarasvatī from its mouth upwards to its source.
+This verse is quoted in *Mitākṣarā* (3.249), to the effect that the food to be eaten should be ‘*haviṣya*’ only;—and in *Aparārka* (p. 1060), which adds that ‘*niyatāhāra*’ means that the food should be either small in quantity or of ‘*haviṣya*’ kind only;—the man becomes purified by reciting the text of the Veda three times,—or by being restrained in food and going along the Sarasvatī from its mouth upwards to its source.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 11.72-86)**
 
-See Comparative notes for [Verse
-11.72].
+See Comparative notes for [Verse 11.72].
 </details>
 
 <details><summary>भारुचिः</summary>

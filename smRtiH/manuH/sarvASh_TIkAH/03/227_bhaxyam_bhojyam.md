@@ -28,11 +28,7 @@ Also hard food and soft food of various kinds, roots, fruits, savoury meat and s
 
 This verse is quoted in *Smṛtitattva* (p. 229) without comment;—in
 *Gadādharapaddhati* (Kāla, p. 546);—in *Śrāddhakaumudī* (pp. 20 and
-158), which explains ‘*bhakṣyam*’ as standing for the *śaṣkulī*,
-butter-baked bread and such things,—and ‘*bhojyam*’ as for ‘milk-rice’
-and the like;—and in *Hemādri* (Śrāddha, p. 1368), which explains
-‘*bhakṣyam*’ as standing for *śaṣkulī*, sweet cakes and so forth, and
-‘*bhojyam*’ for *ghṛtapūra* and such preparations.
+158), which explains ‘*bhakṣyam*’ as standing for the *śaṣkulī*, butter-baked bread and such things,—and ‘*bhojyam*’ as for ‘milk-rice’ and the like;—and in *Hemādri* (Śrāddha, p. 1368), which explains ‘*bhakṣyam*’ as standing for *śaṣkulī*, sweet cakes and so forth, and ‘*bhojyam*’ for *ghṛtapūra* and such preparations.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -40,8 +36,7 @@ and the like;—and in *Hemādri* (Śrāddha, p. 1368), which explains
 **(verses 3.226-228)  
 **
 
-See Comparative notes for [Verse
-3.226].
+See Comparative notes for [Verse 3.226].
 </details>
 
 <details><summary>Bühler</summary>

@@ -155,16 +155,11 @@ This same dea (idea?) is further supported by means of an example.—
 
 **(verses 6.87-93)**
 
-See Comparative notes for [Verse
-6.87].
+See Comparative notes for [Verse 6.87].
 
 **(verses 6.89)**
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 563), which
-explains the meaning to be as follows:—As a matter of fact we find that
-all the scriptures lay down in great detail the duties of the
-Householder; hence this is recognised as superior to the other
-life-stages;—and in *Smṛticandrikā* (Saṃskāra, p. 175).
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 563), which explains the meaning to be as follows:—As a matter of fact we find that all the scriptures lay down in great detail the duties of the Householder; hence this is recognised as superior to the other life-stages;—and in *Smṛticandrikā* (Saṃskāra, p. 175).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -173,15 +168,10 @@ life-stages;—and in *Smṛticandrikā* (Saṃskāra, p. 175).
 because the order of Householders is explicitly prescribed.’
 
 *Vaśiṣṭha* (8.14).—‘A householder alone performs sacrifices; a
-householder alone performs austerities; and the order of Householders is
-the most distinguished among the four.’
+householder alone performs austerities; and the order of Householders is the most distinguished among the four.’
 
 *Viṣṇu* (59.27-29).—‘These three—the Student, the Hermit and the
-Renunciate—derive their subsistence from the order of Householders;
-therefore must a Householder not treat them with disdain, when they have
-arrived. The Householder offers sacrifices, the Householder practises
-austerities, the Householder distributes gifts; therefore is the order
-of Householders the best of all.’
+Renunciate—derive their subsistence from the order of Householders; therefore must a Householder not treat them with disdain, when they have arrived. The Householder offers sacrifices, the Householder practises austerities, the Householder distributes gifts; therefore is the order of Householders the best of all.’
 </details>
 
 <details><summary>भारुचिः</summary>

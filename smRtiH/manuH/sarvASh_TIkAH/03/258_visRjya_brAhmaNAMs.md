@@ -30,23 +30,9 @@ The next verse describes what the boons are that should he begged.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The second half of this verse is quoted in *Smṛtitattva* (p. 183), which
-adds the following notes:—Vācaspati Miśra has explained this to mean
-that ‘though actually facing the East, the man should, *in thought* face
-the South’; but this is not right; as Gobhila has distinctly laid down
-that the man should be actually facing the South.—Nor is there any
-reason for taking the words of Manu in that sense; it is for this reason
-that the commentators have explained the phrase ‘*dakṣiṇām
-diśamākāṅkṣan*’ as ‘looking towards the South’.
+The second half of this verse is quoted in *Smṛtitattva* (p. 183), which adds the following notes:—Vācaspati Miśra has explained this to mean that ‘though actually facing the East, the man should, *in thought* face the South’; but this is not right; as Gobhila has distinctly laid down that the man should be actually facing the South.—Nor is there any reason for taking the words of Manu in that sense; it is for this reason that the commentators have explained the phrase ‘*dakṣiṇām diśamākāṅkṣan*’ as ‘looking towards the South’.
 
-The verse is quoted in *Śrāddhakriyākaumudī* (p. 207), which has the
-following notes:—‘facing the East but looking sideways towards the
-South’; Kullūka has explained ‘*ākāṅkṣan*’ as *looking towards*; but
-such is not the meaning of the word;—and in *Hemādri* (Śrāddha, p.
-1483), which explains the meaning as—‘Dismissing them, to go their way,
-rising and following them and bringing them to the place for washing the
-feet, and then looking towards the South, should ask for the desired
-boons.’
+The verse is quoted in *Śrāddhakriyākaumudī* (p. 207), which has the following notes:—‘facing the East but looking sideways towards the South’; Kullūka has explained ‘*ākāṅkṣan*’ as *looking towards*; but such is not the meaning of the word;—and in *Hemādri* (Śrāddha, p. 1483), which explains the meaning as—‘Dismissing them, to go their way, rising and following them and bringing them to the place for washing the feet, and then looking towards the South, should ask for the desired boons.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -55,12 +41,7 @@ boons.’
 **
 
 *Viṣṇu* (73.27-30).—‘Pronouncing the name and the gotra, he shall offer
-the *imperishable water*; then he shall address the words—*Viśvedevāḥ
-priyantam*—to those facing the east; and then with joined hands and mind
-calm and concentrated on them, he shall beg for the following
-blessings—(Manu, 259 and the following) May we have much food! May we
-have guests! May there be persons to beg from us! May we not beg of any
-one!.’
+the *imperishable water*; then he shall address the words—*Viśvedevāḥ priyantam*—to those facing the east; and then with joined hands and mind calm and concentrated on them, he shall beg for the following blessings—(Manu, 259 and the following) May we have much food! May we have guests! May there be persons to beg from us! May we not beg of any one!.’
 
 *Yājñavalkya* (1.246).—\[Reproduces Manu 259.\]
 </details>

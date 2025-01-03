@@ -37,8 +37,7 @@ The ‘*Niṣāda*’ meant here is not the caste born from the Brāhmaṇa on t
 
 **(verse 10.16)**
 
-“Kullūka thinks that the *Pratilomas* are enumerated once more in order
-to show that they are unfit to fulfil the duties of sons.”—Buhler.
+“Kullūka thinks that the *Pratilomas* are enumerated once more in order to show that they are unfit to fulfil the duties of sons.”—Buhler.
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 513).
 
@@ -53,8 +52,7 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 514).
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

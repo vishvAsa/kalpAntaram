@@ -32,9 +32,7 @@ For this reason the killing that is done at a sacrifice should be regarded as no
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“*Ityapi śrūyate śrutiḥ* is the end of this verse instead of *svayameva
-svayambhuvā* as found in the *Mahābhārata*, 13.116.14. Quite a number of
-Manu’s verses are cited as *Śruti* in the Epic.”—Hopkins.
+“*Ityapi śrūyate śrutiḥ* is the end of this verse instead of *svayameva svayambhuvā* as found in the *Mahābhārata*, 13.116.14. Quite a number of Manu’s verses are cited as *Śruti* in the Epic.”—Hopkins.
 
 This verse is quoted in *Vīramitrodaya* (Āhnika, p. 538).
 </details>

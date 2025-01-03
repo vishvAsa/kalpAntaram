@@ -20,9 +20,7 @@ Those who are beyond the reach of conciliation and the other expedients should b
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 404), to the
-effect that force should be employed only when all other means have
-failed.
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 404), to the effect that force should be employed only when all other means have failed.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -41,13 +41,9 @@ The view of other people is, that in all things there is a conscious being super
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vedas*’.—‘Verbal text’ (Medhātithi);—‘Personification of the Veda’
-(‘others’ in Medhātithi, Govindarāja and Kullūka).
+‘*Vedas*’.—‘Verbal text’ (Medhātithi);—‘Personification of the Veda’ (‘others’ in Medhātithi, Govindarāja and Kullūka).
 
-This verse is quoted in *Aparārka* (p. 999);—in *Madanapārijāta* (p.
-694), which notes that the terms ‘Veda’ and ‘vatsara’ stand for the
-respective presiding Deities;—in *Parāśaramādhava* (Prāyaścitta, p.
-488);—and in *Nṛsiṃhaprasāda* (Prāyaścitta 41a).
+This verse is quoted in *Aparārka* (p. 999);—in *Madanapārijāta* (p. 694), which notes that the terms ‘Veda’ and ‘vatsara’ stand for the respective presiding Deities;—in *Parāśaramādhava* (Prāyaścitta, p. 488);—and in *Nṛsiṃhaprasāda* (Prāyaścitta 41a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -55,8 +51,7 @@ respective presiding Deities;—in *Parāśaramādhava* (Prāyaścitta, p.
 **(verses 12.32-51)  
 **
 
-See Comparative notes for [Verse
-12.32].
+See Comparative notes for [Verse 12.32].
 </details>
 
 <details><summary>Bühler</summary>

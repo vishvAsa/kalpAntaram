@@ -42,8 +42,7 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 305)—in
 **(verse 150-154)  
 **
 
-See Comparative notes for [Verse
-2.150].
+See Comparative notes for [Verse 2.150].
 </details>
 
 <details><summary>Bühler</summary>

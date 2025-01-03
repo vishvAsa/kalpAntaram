@@ -22,16 +22,14 @@ The Brāhmaṇa who drinks wine shall enter the womb of worms, insects, moths, o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.208);—and in *Parāśaramādhava*
-(Prāyaścitta, p. 510).
+This verse is quoted in *Mitākṣarā* (3.208);—and in *Parāśaramādhava* (Prāyaścitta, p. 510).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 12.53-59)**
 
-See Comparative notes for [Verse
-12.53].
+See Comparative notes for [Verse 12.53].
 </details>
 
 <details><summary>Bühler</summary>

@@ -26,32 +26,22 @@ The ‘shedding of blood’ spoken of here is something different from ‘causin
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtitattva* (p. 479);—in *Mitākṣarā* (3.280),
-which remarks that when bleeding is brought about, it must involve both
-‘threatening’ (*avagūraṇa*) and ‘striking’ (*nipātana*),—as without
-these there could be no *wounding* but in the case of bleeding, the
-expiation would be ‘*Kṛcchrātikṛcchra*’ (which is prescribed for the
-bleeding), and not ‘*Kṛcchra*’ and ‘*Atikṛcchra*’ also (which are
-prescribed separately for ‘threatening’ and ‘striking’
-respectively);—and in *Prāyaścittaviveka* (p. 464).
+This verse is quoted in *Smṛtitattva* (p. 479);—in *Mitākṣarā* (3.280), which remarks that when bleeding is brought about, it must involve both ‘threatening’ (*avagūraṇa*) and ‘striking’ (*nipātana*),—as without these there could be no *wounding* but in the case of bleeding, the expiation would be ‘*Kṛcchrātikṛcchra*’ (which is prescribed for the bleeding), and not ‘*Kṛcchra*’ and ‘*Atikṛcchra*’ also (which are prescribed separately for ‘threatening’ and ‘striking’ respectively);—and in *Prāyaścittaviveka* (p. 464).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (2.1.7).—‘He who has raised his hand against a Brāhmaṇa
-shall perform a *Kṛcchra* penance; an *Atikṛcchra* penance, if he
-strikes him; *Kṛcchra* and *Cāndrāyaṇa*, if blood flows.’
+shall perform a *Kṛcchra* penance; an *Atikṛcchra* penance, if he strikes him; *Kṛcchra* and *Cāndrāyaṇa*, if blood flows.’
 
 *Viṣṇu* (54.30).—‘For attacking a Brāhmaṇa, the *Kṛcchra* penance should
-be performed; for striking him, the *Atikṛcchra*; and for fetching blood
-from him, the *Kṛcchrātikṛcchra*.’
+be performed; for striking him, the *Atikṛcchra*; and for fetching blood from him, the *Kṛcchrātikṛcchra*.’
 
 *Parāśara* (11.51).—(Same as Manu.)
 
 *Yājñavalkya* (3.293).—‘For raising a stick against a Brāhmaṇa, the
 *Kṛcchra* penance; for striking him, the *Atikṛcchra*; for fetching his
-blood, the *Kṛcchrātikṛcchra*; for inflicting such hurt as keeps the
-blood within the skin, the *Kṛcchra* should be performed.’
+blood, the *Kṛcchrātikṛcchra*; for inflicting such hurt as keeps the blood within the skin, the *Kṛcchra* should be performed.’
 </details>
 
 <details><summary>भारुचिः</summary>

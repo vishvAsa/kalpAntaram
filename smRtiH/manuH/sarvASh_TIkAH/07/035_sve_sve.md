@@ -55,13 +55,10 @@ This is what is meant by the words of Gautama—‘He shall protect according to
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Kāmandaka* (2.35).—‘The king promoting the Varṇas and Āśramas and
-living according to these usages, and knowing their duties, becomes
-worthy of a place in Indra’s heaven.’
+living according to these usages, and knowing their duties, becomes worthy of a place in Indra’s heaven.’
 
 *Matsyapurāṇa* (Vīramitrodaya-Rāja, p. 121),—‘The highest duty of the
-king consists in keeping all the castes fixed to their respective
-duties; hence he should devote his attention to that. Those who have
-deviated from their duties, the king shall make revert thereto.’
+king consists in keeping all the castes fixed to their respective duties; hence he should devote his attention to that. Those who have deviated from their duties, the king shall make revert thereto.’
 
 *Viṣṇu* (Vīramitrodaya-Rāja, p. 121).—‘Keeping all the castes firm in
 their duties.’

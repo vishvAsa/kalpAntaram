@@ -31,19 +31,16 @@ What this text enjoins is that one should avoid of all thought of sensual object
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 *Medhātithi* (p. 119,1. 3)—‘*ayamatra vidhiḥ*’—It is not consistent with
-what he has said before (p. 116,11. 11-12), to the effect that up to
-verse 100 it is all *Arthavāda*.
+what he has said before (p. 116,11. 11-12), to the effect that up to verse 100 it is all *Arthavāda*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba-Dharmaṣūtra* (1.2.6).—‘For those non-Śūdras whose actions are
-not wicked—there is Upanayana, Vedic Study, Fire-laying and other acts
-leading to rewards.’
+not wicked—there is Upanayana, Vedic Study, Fire-laying and other acts leading to rewards.’
 
 *Āpastamba-Dharmasūtra* (5. 1).—‘The term *Tapas* is Applied to the
-observances;—transgression thereof leads to the trickling away of
-Knowledge and Religious Acts.’
+observances;—transgression thereof leads to the trickling away of Knowledge and Religious Acts.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -21,9 +21,7 @@ But for the King who deviates from it having no control over himself, his fame d
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Śukranīti* (1.64-68).—‘The miserable king who is not compassionate and
-is mad through passions......attachment to sensuous objects......who is
-not uniform in thought, word and deed......is called *Rājasa* and is
-born as a low animal.’
+is mad through passions......attachment to sensuous objects......who is not uniform in thought, word and deed......is called *Rājasa* and is born as a low animal.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -65,12 +65,9 @@ These three constitute the *evil* type of ‘mental activity’; apart from thes
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vitathābhiniveśaḥ*’.—‘Adherence to false doctrines’
-(Medhātithi);—‘constant deep hatred’ (‘others’ in Medhātithi).
+‘*Vitathābhiniveśaḥ*’.—‘Adherence to false doctrines’ (Medhātithi);—‘constant deep hatred’ (‘others’ in Medhātithi).
 
-This verse is quoted in *Madanapārijāta* (p. 692);—in *Aparārka* (p.
-997);—in *Nṛsiṃhaprasāda* (Prāyaścitta 41a);—in *Hemādri* (Kāla p.
-632);—and in *Smṛtisāroddhāra* (p. 88).
+This verse is quoted in *Madanapārijāta* (p. 692);—in *Aparārka* (p. 997);—in *Nṛsiṃhaprasāda* (Prāyaścitta 41a);—in *Hemādri* (Kāla p. 632);—and in *Smṛtisāroddhāra* (p. 88).
 </details>
 
 <details><summary>भारुचिः</summary>

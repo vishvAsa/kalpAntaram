@@ -22,8 +22,7 @@ The same idea is repeated again.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Yatidharmasaṅgraha* (p. 20), according to which
-this also refers to the knowledge of the Brahman with properties, as no
+This verse is quoted in *Yatidharmasaṅgraha* (p. 20), according to which this also refers to the knowledge of the Brahman with properties, as no
 *fear* is possible for one who knows the Absolute Brahman.
 </details>
 
@@ -32,8 +31,7 @@ this also refers to the knowledge of the Brahman with properties, as no
 **(verses 6.39-40)  
 **
 
-See Comparative notes for [Verse
-6.39].
+See Comparative notes for [Verse 6.39].
 </details>
 
 <details><summary>भारुचिः</summary>

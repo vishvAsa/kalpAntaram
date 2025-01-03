@@ -25,8 +25,7 @@ Beetles, mosquitoes, lice, flies, bugs, and all their like are one group born fr
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The two halves form two distinct sentences. So Burnell; but Buhler takes
-the whole as one sentence.
+The two halves form two distinct sentences. So Burnell; but Buhler takes the whole as one sentence.
 </details>
 
 <details><summary>Bühler</summary>

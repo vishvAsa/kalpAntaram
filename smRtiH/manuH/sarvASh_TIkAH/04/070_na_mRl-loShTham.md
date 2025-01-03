@@ -42,12 +42,7 @@ In support of the. above, we have the following commendatory description—
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 183), which explains ‘*āyati*’ as
-‘*pariṇāma*’, ‘result’—‘*Karma*’ as *Saṅkalpa* ‘volition’,
-‘determination’; and this is ‘fruitless,’ ‘*niṣphala*’, when it turns
-out to be *false*, *i.e*., when the determination is not carried into
-practice; as regards the crushing of clods etc., what is to be avoided
-is the *habit* of doing it;—and in *Saṃskāramayūkha* (p. 72).
+This verse is quoted in *Aparārka* (p. 183), which explains ‘*āyati*’ as ‘*pariṇāma*’, ‘result’—‘*Karma*’ as *Saṅkalpa* ‘volition’, ‘determination’; and this is ‘fruitless,’ ‘*niṣphala*’, when it turns out to be *false*, *i.e*., when the determination is not carried into practice; as regards the crushing of clods etc., what is to be avoided is the *habit* of doing it;—and in *Saṃskāramayūkha* (p. 72).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -65,8 +60,7 @@ without necessity (should be avoided).’
 grass-chopper.’
 
 *Mahābhārata* (Anuśāsana, 104.15).—‘He who crushes clods of earth or
-chops grass or eats his nails, is ever unclean and never attains long
-life.’
+chops grass or eats his nails, is ever unclean and never attains long life.’
 </details>
 
 <details><summary>Bühler</summary>

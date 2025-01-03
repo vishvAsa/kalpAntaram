@@ -98,10 +98,7 @@ In this connection some people hold that it is not right to speak of Agni and ot
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Ātmayājī*’.—‘Who realises the presence of all deities in himself’
-(Medhātithi and Govindarāja);—‘he who performs the Jyotiṣṭoma and other
-sacrifices in the manner of the Brahmārpana’ (Kullūka and Nandana and
-Rāghavānanda).
+‘*Ātmayājī*’.—‘Who realises the presence of all deities in himself’ (Medhātithi and Govindarāja);—‘he who performs the Jyotiṣṭoma and other sacrifices in the manner of the Brahmārpana’ (Kullūka and Nandana and Rāghavānanda).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -109,8 +106,7 @@ Rāghavānanda).
 *Īśa-Upaniṣad* (6).
 
 *Āpastamba* (1.23.1).—‘That Brāhmaṇa shines in heaven who is wise and
-recognises all creatures in the Self, who pondering thereon, does not
-become bewildered, and who recognises the Self in everything.’
+recognises all creatures in the Self, who pondering thereon, does not become bewildered, and who recognises the Self in everything.’
 </details>
 
 <details><summary>भारुचिः</summary>

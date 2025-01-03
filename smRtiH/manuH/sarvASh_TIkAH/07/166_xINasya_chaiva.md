@@ -25,10 +25,7 @@ The said ‘*weakness*’ arises from two causes:—it may be due to ‘*chance*
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Daivāt* *pūrvakṛtena*’—‘In consequence of imprudence during present
-life,—and in consequence of acts committed during previous existences’
-(Medhātithi, Govindarāja and Kullūka);—‘by an enemy made formerly’
-(Nārāyaṇa).
+‘*Daivāt* *pūrvakṛtena*’—‘In consequence of imprudence during present life,—and in consequence of acts committed during previous existences’ (Medhātithi, Govindarāja and Kullūka);—‘by an enemy made formerly’ (Nārāyaṇa).
 
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 326).
 </details>

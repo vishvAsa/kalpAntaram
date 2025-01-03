@@ -38,8 +38,7 @@ People who attain the higher caste, according to the principle here enunciated, 
 [\[See texts under
 42.\]]
 
-See Comparative notes for [Verse
-10.64].
+See Comparative notes for [Verse 10.64].
 </details>
 
 <details><summary>भारुचिः</summary>

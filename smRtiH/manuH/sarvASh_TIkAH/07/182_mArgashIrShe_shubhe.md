@@ -28,9 +28,7 @@ If however the king is desirous only of inflicting some injury on the enemy’s 
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 400);—in
 *Vīramitrodaya* (Rājanīti, p. 330);—in *Smṛtitattva* (p. 713); and again
-on p. 742, to the effect that if the king’s business is urgent, he may
-proceed on an expedition at any time;—in *Nṛsiṃhaprasāda* (Saṃskāra, p.
-72b):—and in *Rājanītiratnākara* (p. 26a).
+on p. 742, to the effect that if the king’s business is urgent, he may proceed on an expedition at any time;—in *Nṛsiṃhaprasāda* (Saṃskāra, p. 72b):—and in *Rājanītiratnākara* (p. 26a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -48,16 +46,10 @@ the kingdom of the enemy happens to be full of crops.’
 out on an expedition during the month of *Caitra* or *Mārgaśīrṣa*.’
 
 *Yama* (Parāśaramādhava, p. 399).—‘The marching of the army has been
-recommended during *Caitra* or *Mārgaśīrṣa*; as at that time the corns
-are ripe and there is plenty of water, the weather also is neither too
-cold nor too hot. Hence the march should he undertaken at that time; or
-at any time when the enemy is found to he in difficulties.’
+recommended during *Caitra* or *Mārgaśīrṣa*; as at that time the corns are ripe and there is plenty of water, the weather also is neither too cold nor too hot. Hence the march should he undertaken at that time; or at any time when the enemy is found to he in difficulties.’
 
 *Kāmandaka* (15.35).—‘The best season for the marching out of elephants
-is when the sky is overspread with masses of rain-clouds; seasons other
-than this are suitable for the marching of horses: and the proper season
-for a military expedition is that which is neither too hot nor too cold,
-nor rainy nor dry, and when the earth is covered with corn.’
+is when the sky is overspread with masses of rain-clouds; seasons other than this are suitable for the marching of horses: and the proper season for a military expedition is that which is neither too hot nor too cold, nor rainy nor dry, and when the earth is covered with corn.’
 </details>
 
 <details><summary>भारुचिः</summary>

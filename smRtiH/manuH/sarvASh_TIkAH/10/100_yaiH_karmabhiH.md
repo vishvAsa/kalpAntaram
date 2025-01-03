@@ -28,8 +28,7 @@ Though ‘*arts*’ also are the ‘*occupation of craftsmen*,’ yet, inasmuch 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3. 35);—and in *Madanapārijāta* (p.
-233), which notes that the verb ‘*kurvīta*’ means ‘should perform’.
+This verse is quoted in *Mitākṣarā* (3. 35);—and in *Madanapārijāta* (p. 233), which notes that the verb ‘*kurvīta*’ means ‘should perform’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -37,8 +36,7 @@ This verse is quoted in *Mitākṣarā* (3. 35);—and in *Madanapārijāta* (p.
 **(verses 10.99-100)  
 **
 
-See Comparative notes for [Verse
-10.99].
+See Comparative notes for [Verse 10.99].
 
 \[See under 121-122 below.\]
 </details>

@@ -36,13 +36,7 @@ Or, ‘*bride’s properties*’ may be taken in the sense, in which it is going
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 851), which
-deduces from the word ‘*lobhena*,’ ‘through greed,’ the conclusion that
-if something is received *without greed* on the part of the father, it
-is not the ‘*price*,’ but only an *honorific present* to the bridegroom;
-and in support of this it quotes Manu 3.54;—in *Vyāvahāra-Bālambhaṭṭī*
-(p. 761);—and in *Smṛticandrikā* (Saṃskāra, p. 232);—and by Jīmūtavāhana
-(Dāyabhāga, p. 151).
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 851), which deduces from the word ‘*lobhena*,’ ‘through greed,’ the conclusion that if something is received *without greed* on the part of the father, it is not the ‘*price*,’ but only an *honorific present* to the bridegroom; and in support of this it quotes Manu 3.54;—in *Vyāvahāra-Bālambhaṭṭī* (p. 761);—and in *Smṛticandrikā* (Saṃskāra, p. 232);—and by Jīmūtavāhana (Dāyabhāga, p. 151).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

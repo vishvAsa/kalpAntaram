@@ -34,8 +34,7 @@ This verse is quoted (as Nārada’s) in *Vivādacintāmaṇi* (p. 40);—and in
 
 **(verses 8.198-199)**
 
-See Comparative notes for [Verse
-8.198].
+See Comparative notes for [Verse 8.198].
 </details>
 
 <details><summary>भारुचिः</summary>

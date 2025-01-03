@@ -44,14 +44,9 @@ The ‘forsaking’ of the outcast, wife consists in giving up all intercourse w
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 357), which notes that
-‘*tyāga*,’ ‘abandonment,’ here means ‘not according such treatment to
-them as has been prescribed in the scriptures’;—and that ‘*strī*’ here
-stands for the *wife*.
+This verse is quoted in *Vivādaratnākara* (p. 357), which notes that ‘*tyāga*,’ ‘abandonment,’ here means ‘not according such treatment to them as has been prescribed in the scriptures’;—and that ‘*strī*’ here stands for the *wife*.
 
-It is quoted in *Aparārka* (p. 823), which remarks that this rule refers
-to the abandoning of all the four collectively;—and in *Vivādacintāmaṇi*
-(p. 154).
+It is quoted in *Aparārka* (p. 823), which remarks that this rule refers to the abandoning of all the four collectively;—and in *Vivādacintāmaṇi* (p. 154).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -60,15 +55,10 @@ to the abandoning of all the four collectively;—and in *Vivādacintāmaṇi*
 as a thief.’
 
 *Yājñavalkya* (2.237).—‘Between father and son, brother and sister,
-husband and wife, teacher and disciple,—if one forsakes the other,
-unless he or she has become an outcast, he shall be fined one hundred.’
+husband and wife, teacher and disciple,—if one forsakes the other, unless he or she has become an outcast, he shall be fined one hundred.’
 
 *Śaṅkha-Likhita* (Aparārka, p. 823).—‘The father and the mother should
-never be forsaken; indeed no Sapiṇḍas possessing good qualities should
-be forsaken; if one forsakes these arbitrarily, unless they have become
-outcasts, he should he fined 200. Nor should one misbehave towards the
-father, mother, or teacher; one who misbehaves towards them shall have
-his limb cut off.’
+never be forsaken; indeed no Sapiṇḍas possessing good qualities should be forsaken; if one forsakes these arbitrarily, unless they have become outcasts, he should he fined 200. Nor should one misbehave towards the father, mother, or teacher; one who misbehaves towards them shall have his limb cut off.’
 </details>
 
 <details><summary>भारुचिः</summary>

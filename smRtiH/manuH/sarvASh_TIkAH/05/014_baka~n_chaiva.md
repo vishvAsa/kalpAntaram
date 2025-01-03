@@ -61,13 +61,9 @@ This is a general rule; its exceptions we shall explain later on.—(14).
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 343), which adds the
-following notes:—The ‘*vaka*’ and the ‘*balākā* are well known birds
-;—*kākola* is the *Droṇakāka*;—‘*khānjarīṭa*’ is the
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 343), which adds the following notes:—The ‘*vaka*’ and the ‘*balākā* are well known birds ;—*kākola* is the *Droṇakāka*;—‘*khānjarīṭa*’ is the
 *khañjana*;—‘*matsyādāḥ*’ are the alligator and the like;—the
-prohibition of the ‘*viḍvarāha*’ implies the sanction of the *wild
-boar*.—‘*ṣarvaśaḥ*’ means in every way’;—and in *Hemādri* (Śrāddha, p.
-583).
+prohibition of the ‘*viḍvarāha*’ implies the sanction of the *wild boar*.—‘*ṣarvaśaḥ*’ means in every way’;—and in *Hemādri* (Śrāddha, p. 583).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -82,8 +78,7 @@ scratching birds—partridge, blue rock-pigeon, francoline partridge,
 *Vaśiṣṭha* (14.48(?)).—(See above, under 12.)
 
 *Viṣṇu* (51.21.29). (See under 11, and)—‘On eating fish other than the
-Pāṭhīna, the Rohita, the Rājīva, Siṃhatuṇḍa and Śakula, one should fast
-for three davs.’
+Pāṭhīna, the Rohita, the Rājīva, Siṃhatuṇḍa and Śakula, one should fast for three davs.’
 
 *Yājñavalkya* (1.173-175).—(See above under 12 and 13.)
 </details>

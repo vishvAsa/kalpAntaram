@@ -52,11 +52,9 @@ Even if the actions of *touching*, etc., stand for themselves,—what is meant i
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 472), which explains
-‘*avaravarṇajaḥ*’ as ‘Śūdra’;—in *Hemādri* (Śrāddha, p. 576);—and in
+This verse is quoted in *Aparārka* (p. 472), which explains ‘*avaravarṇajaḥ*’ as ‘Śūdra’;—in *Hemādri* (Śrāddha, p. 576);—and in
 *Gadādharapaddhati* (Kāla, p. 521), which explains ‘*avaraja*’ as Śūdra,
-and explains the meaning to be that ‘the things should be removed far
-enough so that the wind etc. may not reach the food.’
+and explains the meaning to be that ‘the things should be removed far enough so that the wind etc. may not reach the food.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -64,8 +62,7 @@ enough so that the wind etc. may not reach the food.’
 **(verses 3.239-241)  
 **
 
-See Comparative notes for [Verse
-3.239].
+See Comparative notes for [Verse 3.239].
 </details>
 
 <details><summary>Bühler</summary>

@@ -32,18 +32,13 @@ In the preceding verse—‘the dog is pure in the catching of deer’—all tha
 
 This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 146);—in
 *Madanapārijāta* (p. 468), which explains ‘*kravyāt*’ as the ‘Śyena and
-the rest’,—and ‘*dasyu*’ as ‘fowlers’;—in *Hemādri* (Śrāddha, p.
-835);—in *Śuddhikaumudī* (p. 356);—and in *Śuddhimayūkha* (p. 3), which
-explains that what is said regarding dogs refers to its killing at a
-hunt; and there also it refers to only such animals as have their flesh
-permitted for eating.
+the rest’,—and ‘*dasyu*’ as ‘fowlers’;—in *Hemādri* (Śrāddha, p. 835);—in *Śuddhikaumudī* (p. 356);—and in *Śuddhimayūkha* (p. 3), which explains that what is said regarding dogs refers to its killing at a hunt; and there also it refers to only such animals as have their flesh permitted for eating.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (23.50).—‘Flesh of an animal killed by dogs is pronounced pure;
-and so is that of an animal slain by other carnivorous creatures, or by
-huntsmen such as Caṇḍālas.’
+and so is that of an animal slain by other carnivorous creatures, or by huntsmen such as Caṇḍālas.’
 
 *Vaśiṣṭha* (3.45).—(See above, under 128.)
 

@@ -29,8 +29,7 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 413).
 than to risk their life in battle.’
 
 *Yājñavalkya* (1.322).—‘There is no higher duty forkings than to give to
-the Brāhmaṇas whatever is obtained in war, and to grant fearlessness to
-their people.’
+the Brāhmaṇas whatever is obtained in war, and to grant fearlessness to their people.’
 </details>
 
 <details><summary>भारुचिः</summary>

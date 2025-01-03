@@ -55,22 +55,16 @@ It has been said that the term ‘*Brāhmaṇa-slayer*’ is indicative of other
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtitattva* (p. 451), which explains
-‘*bhrūṇaghna*’ as ‘an outcast,’—‘*udakīyā*’ as ‘the woman in her
-courses,’—and ‘*patatriṇavalīḍham*’ as ‘what has been eaten by the crow
-and other birds.’
+This verse is quoted in *Smṛtitattva* (p. 451), which explains ‘*bhrūṇaghna*’ as ‘an outcast,’—‘*udakīyā*’ as ‘the woman in her courses,’—and ‘*patatriṇavalīḍham*’ as ‘what has been eaten by the crow and other birds.’
 
-It is quoted in *Vīramitrodaya* (Āhnika, p. 518), which explains
-‘*udakīyā*’ as ‘the woman in her courses,’—‘*patatrin*’ as ‘birds,’—and
-‘*avalīḍham*’ as ‘eaten’;—in *Hemādri* (Shraddha, p. 610);—in
+It is quoted in *Vīramitrodaya* (Āhnika, p. 518), which explains ‘*udakīyā*’ as ‘the woman in her courses,’—‘*patatrin*’ as ‘birds,’—and ‘*avalīḍham*’ as ‘eaten’;—in *Hemādri* (Shraddha, p. 610);—in
 *Prāyaścittaviveka* (p. 260);—and in *Smṛtisāroddhāra* (p. 296).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (17.10-11).—‘Touched by the woman in the courses or by the
-feet of birds;—seen by an abortionist, or smelt by the cow, or defiled
-in thought.’
+feet of birds;—seen by an abortionist, or smelt by the cow, or defiled in thought.’
 
 *Āpastamba* (1.16.29-30).—‘Seen by the dog or by an improper person.’
 
@@ -80,9 +74,7 @@ courses, pecked by birds, touched by the dog, smelt by the cow.’
 *Yājñavalkya* (1.167.168).—(See above.)
 
 *Āpastamba* (1.19.1).—‘One who is intoxicated or insane or imprisoned,
-the paramour living in the house of his ladylove, or one who permits his
-wife’s paramour to live in the house—(the food of these should he
-avoided).’
+the paramour living in the house of his ladylove, or one who permits his wife’s paramour to live in the house—(the food of these should he avoided).’
 </details>
 
 <details><summary>Bühler</summary>

@@ -30,9 +30,7 @@ Being bound up to the sword-like leaves of trees; or being ‘mangled’ by thes
 4.88-89.\]]
 
 *Yājñavalkya* (3.206).—‘Having passed through most despised hells, by
-virtue of their grievous sins, and thus having their had Karma
-exhausted, those who had committed heinous offences become born again in
-the world.’
+virtue of their grievous sins, and thus having their had Karma exhausted, those who had committed heinous offences become born again in the world.’
 </details>
 
 <details><summary>Bühler</summary>

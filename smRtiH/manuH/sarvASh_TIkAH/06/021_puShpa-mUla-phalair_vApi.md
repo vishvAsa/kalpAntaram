@@ -22,9 +22,7 @@ Or, he may always subsist only on flowers, roots and fruits, which have ripened 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vaikhānasamate sthitaḥ*’—This refers to the ‘*Vaikhānasa-śāstra* says
-Medhātithi. The *Vaikhānasa-sūtra* (*Trivandrum Sanskrit Series*) is the
-work most likely referred to.
+‘*Vaikhānasamate sthitaḥ*’—This refers to the ‘*Vaikhānasa-śāstra* says Medhātithi. The *Vaikhānasa-sūtra* (*Trivandrum Sanskrit Series*) is the work most likely referred to.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -34,8 +32,7 @@ work most likely referred to.
 *Āpastamba* (2.23.2).—‘Afterwards, he shall wander about, sustaining his
 life with roots, fruits, leaves and grass.
 
-Finally he shall content himself with what has become detached
-spontaneously. Then he shall live on water, then on air, then on
+Finally he shall content himself with what has become detached spontaneously. Then he shall live on water, then on air, then on
 *Ākāṣha*.’
 </details>
 

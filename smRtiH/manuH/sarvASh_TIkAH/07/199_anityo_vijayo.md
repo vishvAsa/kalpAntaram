@@ -20,8 +20,7 @@ Because it is not always founed (found?) to be the case that he who gains the vi
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtitattva* (p. 742);—in *Parāśaramādhava*
-(Ācāra, p. 403);—and in *Vīramitrodaya* (Rājanīti, p. 404).
+This verse is quoted in *Smṛtitattva* (p. 742);—in *Parāśaramādhava* (Ācāra, p. 403);—and in *Vīramitrodaya* (Rājanīti, p. 404).
 </details>
 
 <details><summary>भारुचिः</summary>

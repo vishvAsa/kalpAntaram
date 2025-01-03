@@ -32,8 +32,7 @@ Further—
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Sthale*’—‘Ground free from stones, trees, creepers, pits etc.,’
-(Medhātithi, Govindarāja and Kullūka);—‘hilly ground’ (Nārāyaṇa).
+‘*Sthale*’—‘Ground free from stones, trees, creepers, pits etc.,’ (Medhātithi, Govindarāja and Kullūka);—‘hilly ground’ (Nārāyaṇa).
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 402);—and in
 *Vīramitrodaya* (Rājanīti, p. 405).
@@ -42,8 +41,7 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 402);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Kāmandaka* (18.46).—‘The horses should march in both the flanks and
-they should he flanked by chariot-warriors; these last again should bo
-flanked by elephants whom the forest-tribes should flank.’
+they should he flanked by chariot-warriors; these last again should bo flanked by elephants whom the forest-tribes should flank.’
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -48,9 +48,7 @@ What is prohibited in regard to these two is the having recourse to them by way 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This is quoted in *Parāśaramādhava* (Ācāra, p. 456);—in *Madanapārijāta*
-(p. 39);—in *Vīramitrodaya* (Saṃskāra, p. 494);—in *Nirṇayasindhu* (p.
-189);—in *Aparārka* (p. 62);—in *Saṃskāramayūkha* (p. 42);—and in
+This is quoted in *Parāśaramādhava* (Ācāra, p. 456);—in *Madanapārijāta* (p. 39);—in *Vīramitrodaya* (Saṃskāra, p. 494);—in *Nirṇayasindhu* (p. 189);—in *Aparārka* (p. 62);—in *Saṃskāramayūkha* (p. 42);—and in
 *Smṛticandrikā* (Saṃskāra, p. 125).
 </details>
 
@@ -59,8 +57,7 @@ This is quoted in *Parāśaramādhava* (Ācāra, p. 456);—in *Madanapārijāta
 **(verses 177-179)  
 **
 
-See Comparative notes for [Verse
-2.177].
+See Comparative notes for [Verse 2.177].
 </details>
 
 <details><summary>Bühler</summary>

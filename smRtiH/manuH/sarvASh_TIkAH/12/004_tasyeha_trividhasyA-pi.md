@@ -71,8 +71,7 @@ It is in answer to this that the text says—‘*Know the Mind to be the instiga
 **(verses 12.1-4)  
 **
 
-See Comparative notes for [Verse
-12.1].
+See Comparative notes for [Verse 12.1].
 </details>
 
 <details><summary>भारुचिः</summary>

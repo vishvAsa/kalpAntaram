@@ -52,9 +52,7 @@ In this connection the ancients have quoted the following verse—‘Seeing the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 286), which
-explains ‘*bhogāya kalpante*’ as ‘remain fixed on their path.’—It is
-quoted again on p. 292;—and in *Vivādacintāmaṇi* (p. 263).
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 286), which explains ‘*bhogāya kalpante*’ as ‘remain fixed on their path.’—It is quoted again on p. 292;—and in *Vivādacintāmaṇi* (p. 263).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

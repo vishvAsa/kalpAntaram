@@ -30,19 +30,15 @@ Here also what is mentioned should be eaten for one day only.—(165)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.265), as referring to cases where
-the quantity of food stolen is just enough for one meal;—and in
+This verse is quoted in *Mitākṣarā* (3.265), as referring to cases where the quantity of food stolen is just enough for one meal;—and in
 *Madanapārijāta* (p. 875), which has the same note, and adds that, in as
-much as the ‘conveyance’ and other things have been mentioned in the
-same context, these also should he understood to be of just that value
-which would be equivalent to the value of a single meal.
+much as the ‘conveyance’ and other things have been mentioned in the same context, these also should he understood to be of just that value which would be equivalent to the value of a single meal.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (52.8).—‘For stealing sweet-meats, food, drinks, a bed, a seat,
-flowers, roots or fruits, the drinking of the five bovine products has
-been ordained.’
+flowers, roots or fruits, the drinking of the five bovine products has been ordained.’
 </details>
 
 <details><summary>भारुचिः</summary>

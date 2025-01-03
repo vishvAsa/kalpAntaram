@@ -46,31 +46,20 @@ On being questioned as to the person to whom a certain slave belongs, if the wit
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 674);—in *Smṛtisaroddhāra* (p.
-336);—in *Smṛticandrikā* (Saṃskāra, p. 220), which says that ‘*pañca*’,
-‘five’, qualifies ‘*bandhavān*’ ‘relations,’ who have been mentioned in
-the preceding verse;—in *Smṛticandrikā* (Vyavahāra, p. 205);—and in
+This verse is quoted in *Aparārka* (p. 674);—in *Smṛtisaroddhāra* (p. 336);—in *Smṛticandrikā* (Saṃskāra, p. 220), which says that ‘*pañca*’, ‘five’, qualifies ‘*bandhavān*’ ‘relations,’ who have been mentioned in the preceding verse;—in *Smṛticandrikā* (Vyavahāra, p. 205);—and in
 *Kṛtyakalpataru* (35b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Baudhāyana* (1.19.12-13).—‘By false testimony regarding gold, he ruins
-three ancestors; by false testimony regarding small cattle, he ruins
-five; by false testimony regarding kine, he kills ten; he ruins a
-hundred by false evidence regarding horses, and a thousand by false
-evidence regarding man; a witness who speaks falsely about land ruins
-the whole world.’
+three ancestors; by false testimony regarding small cattle, he ruins five; by false testimony regarding kine, he kills ten; he ruins a hundred by false evidence regarding horses, and a thousand by false evidence regarding man; a witness who speaks falsely about land ruins the whole world.’
 
 *Vaśiṣṭha* (16.34).—‘He kills five by false testimony regarding a
-maiden; ten by false testimony regarding kine, a hundred by false
-testimony regarding a horse, and a thousand by false testimony regarding
-a man.’
+maiden; ten by false testimony regarding kine, a hundred by false testimony regarding a horse, and a thousand by false testimony regarding a man.’
 
 *Gautama* (13.14-15).—‘By false evidence concerning small cattle, a
-witness kills ten; by that regarding cows, horses, men, or land,—in each
-succeeding case, ten times as many as in the one preceding; or, by false
-evidence regarding land, the whole human race.’
+witness kills ten; by that regarding cows, horses, men, or land,—in each succeeding case, ten times as many as in the one preceding; or, by false evidence regarding land, the whole human race.’
 </details>
 
 <details><summary>भारुचिः</summary>

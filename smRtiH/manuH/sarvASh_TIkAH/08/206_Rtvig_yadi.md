@@ -55,19 +55,9 @@ happens to abandon it after it has been half-done,—then the share of the sacri
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 836);—in *Vivādaratnākara* (p.
-118), which adds the following notes:—‘*Svakarma parihāpayet*,’ *i.e*.,
-through sickness or such causes, a part of the sacrificial fee shall be
-paid to him, after duly considering the total fee payable for the entire
-sacrifice and the part of the work that may have been done by him;—in
+This verse is quoted in *Aparārka* (p. 836);—in *Vivādaratnākara* (p. 118), which adds the following notes:—‘*Svakarma parihāpayet*,’ *i.e*., through sickness or such causes, a part of the sacrificial fee shall be paid to him, after duly considering the total fee payable for the entire sacrifice and the part of the work that may have been done by him;—in
 *Parāśaramādhava* (Vyavahāra, p. 222), which explains ‘*sahakartṛbhiḥ*’
-as ‘by his colleagues’;—in *Vivādacintāmaṇi* (p. 48), which says that
-‘if a priest, through disease or other disability, is unable to perform
-his work, then he is to be paid his fee in proportion to the work
-actually done by him;—in *Kṛtyakalpataru* (89b);—and in *Vīramitrodaya*
-(Vyavahāra, 120a), which explains ‘*sahakartṛbhiḥ*’ as ‘by his
-collaborators,’—or the meaning may be ‘he should be paid his share of
-the fee, *along with*, at the same time as, the other priests are paid.’
+as ‘by his colleagues’;—in *Vivādacintāmaṇi* (p. 48), which says that ‘if a priest, through disease or other disability, is unable to perform his work, then he is to be paid his fee in proportion to the work actually done by him;—in *Kṛtyakalpataru* (89b);—and in *Vīramitrodaya* (Vyavahāra, 120a), which explains ‘*sahakartṛbhiḥ*’ as ‘by his collaborators,’—or the meaning may be ‘he should be paid his share of the fee, *along with*, at the same time as, the other priests are paid.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -76,28 +66,19 @@ the fee, *along with*, at the same time as, the other priests are paid.’
 388.)]
 
 *Yājñavalkya* (2.265).—‘Among a company of joint workers, if one happen
-to be dishonest, the others should expel him without payment; if he
-happen to omit his share of the work on account of his inability to do
-it, then he should have it done by another. This same rule applies to
-the case of sacrificial priests, cultivators and artisans.’
+to be dishonest, the others should expel him without payment; if he happen to omit his share of the work on account of his inability to do it, then he should have it done by another. This same rule applies to the case of sacrificial priests, cultivators and artisans.’
 
 *Vaśiṣṭha* (Aparārka, p. 836).—‘If the Sacrificial Priest fails to
-officiate at a sacrifice, or if a Teacher fails to teach, he should be
-abandoned; one becomes degraded if he abandons them in other
-circumstances.’
+officiate at a sacrifice, or if a Teacher fails to teach, he should be abandoned; one becomes degraded if he abandons them in other circumstances.’
 
 *Nārada* (Aparārka, p. 836).—‘If the Sacrificial Priest happen to be in
-trouble, some one else may officiate for him and receive a proportionate
-share out of the fee payable to the former.’
+trouble, some one else may officiate for him and receive a proportionate share out of the fee payable to the former.’
 
 *Bṛhaspati* (Vivādaratnākara, p. 117).—‘From among men employed in a
-common work, if one happen to die, his share of the work should be done
-by a relation of his, or by his colleagues collectively.’
+common work, if one happen to die, his share of the work should be done by a relation of his, or by his colleagues collectively.’
 
 *Śaṅkha-Likhita* (Do.).—‘If on the approach of the *Savana*, a priest
-should happen to die, what should be done is that his work should be
-completed by his *Sagotra* or by his pupil; if he has no relations, then
-the sacrificer should appoint another Priest.’
+should happen to die, what should be done is that his work should be completed by his *Sagotra* or by his pupil; if he has no relations, then the sacrificer should appoint another Priest.’
 </details>
 
 <details><summary>भारुचिः</summary>

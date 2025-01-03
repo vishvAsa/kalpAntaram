@@ -28,8 +28,7 @@ Not only the three letters, but also something else, in the shape of the syllabl
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 33), as laying down the exact
-form of the *Praṇava* and of the three *Mahāvyāhṛtis*.
+This verse is quoted in *Aparārka* (p. 33), as laying down the exact form of the *Praṇava* and of the three *Mahāvyāhṛtis*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

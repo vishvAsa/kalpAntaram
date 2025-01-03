@@ -26,19 +26,9 @@ The compound ‘*Surāsavam*,’ is a copulative one, *i.e*., in accordance with
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.253), as implying that it is for
-the Brāhmaṇa alone that all the three kinds of liquor are equally
-forbidden;—in *Aparārka* (p. 1069), to the effect that (*a*) the *Surā*
-is to be avoided by all the twice-born, even before initiation, (*b*)
-the *Mādhvī* and the *Gauḍī* are to be avoided by the Brāhmaṇa at all
-times, but by the Kṣatriya and the Vaiśya only during the period of
-studentship.
+This verse is quoted in *Mitākṣarā* (3.253), as implying that it is for the Brāhmaṇa alone that all the three kinds of liquor are equally forbidden;—in *Aparārka* (p. 1069), to the effect that (*a*) the *Surā* is to be avoided by all the twice-born, even before initiation, (*b*) the *Mādhvī* and the *Gauḍī* are to be avoided by the Brāhmaṇa at all times, but by the Kṣatriya and the Vaiśya only during the period of studentship.
 
-It is quoted in *Smṛtitattva* (p. 225);—in *Vīramitrodaya* (Āhnika
-548);—in *Madanapārijāta* (p. 814), to the effect that the *Mādhvī* and
-the *Gauḍī* are forbidden only for the Brāhmaṇa, not for the Kṣatriya
-and the Vaiśya; but they are forbidden for all the three higher castes
-during the period of studentship;—and in *Smṛtisāroddhāra* (p. 355).
+It is quoted in *Smṛtitattva* (p. 225);—in *Vīramitrodaya* (Āhnika 548);—in *Madanapārijāta* (p. 814), to the effect that the *Mādhvī* and the *Gauḍī* are forbidden only for the Brāhmaṇa, not for the Kṣatriya and the Vaiśya; but they are forbidden for all the three higher castes during the period of studentship;—and in *Smṛtisāroddhāra* (p. 355).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -46,8 +36,7 @@ during the period of studentship;—and in *Smṛtisāroddhāra* (p. 355).
 **(verses 11.94-97)  
 **
 
-See Comparative notes for [Verse
-11.94].
+See Comparative notes for [Verse 11.94].
 </details>
 
 <details><summary>भारुचिः</summary>

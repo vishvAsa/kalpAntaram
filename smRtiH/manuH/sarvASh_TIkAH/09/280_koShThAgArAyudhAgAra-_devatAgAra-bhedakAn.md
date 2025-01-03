@@ -15,13 +15,9 @@ Those who break into a storehouse, an armoury, or a temple, and those who steal 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p, 320), which adds the
-following notes:—‘*Koṣṭhāgāram*’, granary,—‘*avicārayam*’, there should
-be no delay when once it has been ascertained that the man has committed
-the offence.
+This verse is quoted in *Vivādaratnākara* (p, 320), which adds the following notes:—‘*Koṣṭhāgāram*’, granary,—‘*avicārayam*’, there should be no delay when once it has been ascertained that the man has committed the offence.
 
-It is quoted in *Mitākṣarā* (2. 273), where *Bālambhaṭṭī* has the note
-that—‘*avicārayan*’ means *without delay*.
+It is quoted in *Mitākṣarā* (2. 273), where *Bālambhaṭṭī* has the note that—‘*avicārayan*’ means *without delay*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -29,8 +25,7 @@ that—‘*avicārayan*’ means *without delay*.
 **(verses 9.279-281)  
 **
 
-See Comparative notes for [Verse
-9.279].
+See Comparative notes for [Verse 9.279].
 </details>
 
 <details><summary>भारुचिः</summary>

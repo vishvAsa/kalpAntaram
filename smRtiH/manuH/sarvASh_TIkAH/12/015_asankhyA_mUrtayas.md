@@ -40,9 +40,7 @@ Others explain that the ‘body’ of the Supreme Self is Primordial Matter, not
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Śarīrataḥ*’—‘From the supreme soul’ (Medhātithi and Nārāyaṇa);—‘from
-the body of qualified Brahman’ (Rāghavānanda),—‘from the Root Evolvent
-which is the body of the supreme soul’ (‘others’ in Medhātithi).
+‘*Śarīrataḥ*’—‘From the supreme soul’ (Medhātithi and Nārāyaṇa);—‘from the body of qualified Brahman’ (Rāghavānanda),—‘from the Root Evolvent which is the body of the supreme soul’ (‘others’ in Medhātithi).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -32,22 +32,13 @@ Heavily clad in thick woolen clothes, he would not feel the strokes of the rope 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Laghuvāsāḥ*’—Lightly cothed,—clothed with washed, and hence light,
-dress’ (Medhātithi);—‘with clean clothes (Kullūka);—‘clothed in dress
-which is not gorgeous, *i. e*. which is less valuable than the
-Teacher’s’ (Rāghavānanda).
+‘*Laghuvāsāḥ*’—Lightly cothed,—clothed with washed, and hence light, dress’ (Medhātithi);—‘with clean clothes (Kullūka);—‘clothed in dress which is not gorgeous, *i. e*. which is less valuable than the Teacher’s’ (Rāghavānanda).
 
-This verse is quoted in *Vidhānapārijāta*, (p. 521); in *Madanapārijāta*
-(p. 99);—and in *Vīramitrodaya* (Saṃskāra, p. 523), which having adopted
-the reading *prā?listu kṛtāpośo* for *???likṛto'dhvāpyo* explains that
-the presence of the two words ‘*āchāntaḥ*’ and ‘*kṛtāpośo*’—both of
-which denote *ācamana*—makes it clear that the *ācamana* is to be done
-twice.
+This verse is quoted in *Vidhānapārijāta*, (p. 521); in *Madanapārijāta* (p. 99);—and in *Vīramitrodaya* (Saṃskāra, p. 523), which having adopted the reading *prā?listu kṛtāpośo* for *???likṛto'dhvāpyo* explains that the presence of the two words ‘*āchāntaḥ*’ and ‘*kṛtāpośo*’—both of which denote *ācamana*—makes it clear that the *ācamana* is to be done twice.
 
 Burnell refers to Ch. XV of *Prātiśākhya* of the Ṛgveda.
 
-This verse is quoted in *Smṛticandrikā* (*Saṃskāra*, p. 136), which
-notes that this ‘*ācamana*’ forms part of the act of *Reading*;—in
+This verse is quoted in *Smṛticandrikā* (*Saṃskāra*, p. 136), which notes that this ‘*ācamana*’ forms part of the act of *Reading*;—in
 *Saṃskāramayūkha* (p. 50) which has the same note;—in
 *Saṃskāraratnamālā* (p. 315);—and in *Nṛsiṃhaprasāda* (Saṃskāra, p.
 47a).
@@ -56,22 +47,13 @@ notes that this ‘*ācamana*’ forms part of the act of *Reading*;—in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Kāmandaka* (2. 22-23).—‘The duties of the Religious Student are—to live
-in the house of his preceptor, to tend the sacred fires, to study the
-Veda and its auxiliaries, to observe vows, to perform ablutions three
-times, to beg alms, and live with the teacher all his life In the
-absence of the preceptor, he may live with the preceptor’s son, or with
-one of his fellow-students;—or if he likes, he may adopt another mode of
-life.’
+in the house of his preceptor, to tend the sacred fires, to study the Veda and its auxiliaries, to observe vows, to perform ablutions three times, to beg alms, and live with the teacher all his life In the absence of the preceptor, he may live with the preceptor’s son, or with one of his fellow-students;—or if he likes, he may adopt another mode of life.’
 
 *Gautama-Dharmasūtra*, 1. 52, 54, 60.—‘Touching the organs with
-Kuśa-grass;—permitted by the teacher, he should sit to the right of the
-teacher, facing the East or the North; touching the teacher’s left foot,
-with his hand, be should address the request to the teacher, saving
-“*Please sir, teach*.”
+Kuśa-grass;—permitted by the teacher, he should sit to the right of the teacher, facing the East or the North; touching the teacher’s left foot, with his hand, be should address the request to the teacher, saving “*Please sir, teach*.”
 
 *Śaṅkha-Smṛti*, 3. 5.—‘Being permitted by the teacher, one should begin
-reading, adopting the *Brahmāñjali* attitude, respectfully looking on
-the teacher’s face.’
+reading, adopting the *Brahmāñjali* attitude, respectfully looking on the teacher’s face.’
 
 *Laghu-Vyāsa* (Vīramitrodaya-Saṃskāra, p. 524).—‘He who reads a verse,
 or a half or a quarter of it, without the teacher’s permission, is a

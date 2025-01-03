@@ -34,9 +34,7 @@ The latter half is purely declamatory; it should not be taken as precluding the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 165);—and in *Mitākṣarā* (1.124),
-to the effect that a man devoid of wealth should not perform the
-Soma-sacrifice.
+This verse is quoted in *Aparārka* (p. 165);—and in *Mitākṣarā* (1.124), to the effect that a man devoid of wealth should not perform the Soma-sacrifice.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -44,8 +42,7 @@ Soma-sacrifice.
 **(verses 11.6-7)  
 **
 
-See Comparative notes for [Verse
-11.6].
+See Comparative notes for [Verse 11.6].
 </details>
 
 <details><summary>भारुचिः</summary>

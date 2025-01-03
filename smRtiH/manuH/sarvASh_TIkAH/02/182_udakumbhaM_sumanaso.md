@@ -47,26 +47,21 @@ The Author next mentions the persons from whom the alms are to be begged.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśatramādhava* (Prāyaścitta, p. 394), as
-laying down what should be done by the Religious Student, in the event
-of a ‘wet dream—in *Madanapārijāta* (p. 39);—in *Aparārka* (p. 1141);—in
+This verse is quoted in *Parāśatramādhava* (Prāyaścitta, p. 394), as laying down what should be done by the Religious Student, in the event of a ‘wet dream—in *Madanapārijāta* (p. 39);—in *Aparārka* (p. 1141);—in
 *Smṛticandrikā* (Saṃskāra, p. 127) as showing that unintentional
-emission involves only an expiation;—and in *Prāyoscittaviveka* (p.
-462).
+emission involves only an expiation;—and in *Prāyoscittaviveka* (p. 462).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba-Dharmasūtra* (2.4.13.14).—‘Morning and evening he should
-fetch jars of water; every day fetching fuel from the forest, he should
-keep it on the ground.’
+fetch jars of water; every day fetching fuel from the forest, he should keep it on the ground.’
 
 *Āśvalāyana Gṛhyasūtra* (22.5).—‘He should beg alms morning and
 evening.’
 
 *Gobhila Gṛhyasūtra* (5.2.27).—‘Wearing of the girdle, begging of alms,
-carrying of the staff, fetching of fuel, bathing in water, and
-morning-salutation,—these are the daily obligatory duties.’
+carrying of the staff, fetching of fuel, bathing in water, and morning-salutation,—these are the daily obligatory duties.’
 </details>
 
 <details><summary>Bühler</summary>

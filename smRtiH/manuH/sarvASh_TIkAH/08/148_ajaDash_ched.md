@@ -306,10 +306,7 @@ In a case however where both persons are absolutely without title, and are asser
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 632), which adds that, if the
-user of the property knows that it rightfully belongs to another, then,
-even though he may have acquired ownership by legal usage
-(*vyavahārēṇa*), yet he should hand it over to the rightful owner;—in
+This verse is quoted in *Aparārka* (p. 632), which adds that, if the user of the property knows that it rightfully belongs to another, then, even though he may have acquired ownership by legal usage (*vyavahārēṇa*), yet he should hand it over to the rightful owner;—in
 *Smṛtisāroddhāra* (p. 334);—in *Smṛticandrikā* (Vyavahāra, p. 15b);—and
 in *Vīramitrodaya* (Vyavahāra, 66a).
 </details>
@@ -319,8 +316,7 @@ in *Vīramitrodaya* (Vyavahāra, 66a).
 **(verses 8.147-148)  
 **
 
-See Comparative notes for [Verse
-8.147].
+See Comparative notes for [Verse 8.147].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -34,19 +34,13 @@ According to others, however, this verse has been introduced for the purpose of 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 556), which explains
-‘*parīkṣeta*’ as ‘make an investigation regarding their learning and
-conduct’;—in *Nirṇayasindhu* (p. 287);—in *Nṛsiṃhaprasāda* (Śrāddha, p.
-6b);—in *Hemādri*, (Śrāddha, p. 510);—and in *Śrāddhakriyākaumudī* (p.
-34) as meaning that the testing in the case of *Pitṛkṛtya* is to be more
-thorough than in that of *Devakṛtya*.
+This verse is quoted in *Madanapārijāta* (p. 556), which explains ‘*parīkṣeta*’ as ‘make an investigation regarding their learning and conduct’;—in *Nirṇayasindhu* (p. 287);—in *Nṛsiṃhaprasāda* (Śrāddha, p. 6b);—in *Hemādri*, (Śrāddha, p. 510);—and in *Śrāddhakriyākaumudī* (p. 34) as meaning that the testing in the case of *Pitṛkṛtya* is to be more thorough than in that of *Devakṛtya*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (82-1, 2).—‘At the rite in honour of the gods, one shall not
-examine the Brāhmaṇa; at that in honour of Pitṛs he shall examine him
-with care.’
+examine the Brāhmaṇa; at that in honour of Pitṛs he shall examine him with care.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -22,16 +22,13 @@ The ground for ‘disrepute’ would consist in the irregularity of her life; th
 
 (Verse 149 of others.)
 
-This verse is quoted in *Vivādaratnākara* (p. 427);—in *Madanapārijāta*
-(p. 192);—in *Saṃskāramayūkha* (p. 118);—and in *Nṛsiṃhaprasāda*
-(Saṃskāra, p. 67a).
+This verse is quoted in *Vivādaratnākara* (p. 427);—in *Madanapārijāta* (p. 192);—in *Saṃskāramayūkha* (p. 118);—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 67a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (1.86).—‘On being deprived of her husband, she shall never
-live separate from her father, mother, son, brother, father-in-law,
-mother-in-law or maternal uncle.’
+live separate from her father, mother, son, brother, father-in-law, mother-in-law or maternal uncle.’
 </details>
 
 <details><summary>Bühler</summary>

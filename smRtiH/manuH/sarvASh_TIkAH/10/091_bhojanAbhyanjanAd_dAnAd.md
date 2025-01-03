@@ -40,10 +40,7 @@ The answer to this is as follows:—This has been asserted in this form because 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 933);—in *Mitākṣarā* (3.39), to
-the effect that the selling of sesamum otherwise than what is mentioned
-in the preceding verse is sinful;—in *Parāśaramādhava* (Ā cāra p.
-431);—and in *Saṃskāramayūkha* (p. 124).
+This verse is quoted in *Aparārka* (p. 933);—in *Mitākṣarā* (3.39), to the effect that the selling of sesamum otherwise than what is mentioned in the preceding verse is sinful;—in *Parāśaramādhava* (Ā cāra p. 431);—and in *Saṃskāramayūkha* (p. 124).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -51,8 +48,7 @@ in the preceding verse is sinful;—in *Parāśaramādhava* (Ā cāra p.
 **(verses 10.85-93)  
 **
 
-See Comparative notes for [Verse
-10.85].
+See Comparative notes for [Verse 10.85].
 </details>
 
 <details><summary>Bühler</summary>

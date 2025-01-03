@@ -99,28 +99,13 @@ making the rules more intelligible.—(58)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Anujāte*’—‘Younger than one that has teethed’ (Medhātithi,
-Govindarāja, Nārāyaṇa, Rāghavānanda; and Kullūka also, who is not
-rightly represented by Buhler).
+‘*Anujāte*’—‘Younger than one that has teethed’ (Medhātithi, Govindarāja, Nārāyaṇa, Rāghavānanda; and Kullūka also, who is not rightly represented by Buhler).
 
-‘*Ca*’—This includes ‘one whose *Upanayana* has been performed’
-(Govindarāja, Kullūka, Nārāyaṇa and Rāghavānanda).
+‘*Ca*’—This includes ‘one whose *Upanayana* has been performed’ (Govindarāja, Kullūka, Nārāyaṇa and Rāghavānanda).
 
-This verse is quoted in *Smṛtitattva* (II, p. 239), which adds that
-according to this the impurity attaches, not only to the *Sapiṇḍas*, but
-also to *Sagotras, Samānodakas*, paternal relations, maternal relations
-and so forth;—‘*anujāta*,’ literally meaning ‘bora after,’ means ‘*one
-born after* the *dantajāta*,’ this latter being the noun immediately
-preceding the word;—the presence of ‘*ca*,’ implies the ‘initiated’
-also; ‘*saṃsthīte*’ means ‘dead.’
+This verse is quoted in *Smṛtitattva* (II, p. 239), which adds that according to this the impurity attaches, not only to the *Sapiṇḍas*, but also to *Sagotras, Samānodakas*, paternal relations, maternal relations and so forth;—‘*anujāta*,’ literally meaning ‘bora after,’ means ‘*one born after* the *dantajāta*,’ this latter being the noun immediately preceding the word;—the presence of ‘*ca*,’ implies the ‘initiated’ also; ‘*saṃsthīte*’ means ‘dead.’
 
-It is quoted in *Hāralatā* (p. 1), which adds the following
-notes:—‘*anujāta*’ is the child born after the child that has cut its
-teeth, *i.e*., a ehilçl that has not cut its teeth,—‘*kṛtacūḍe ca*,’ the
-‘*ca*’ is meant to include one whose Upanayana has been
-performed,—‘*saṃsthite*’ on his dying,—‘*sūtaka*’ stands here for the
-impurity *due to birth*, that *duo to death* having been separately
-mentioned.
+It is quoted in *Hāralatā* (p. 1), which adds the following notes:—‘*anujāta*’ is the child born after the child that has cut its teeth, *i.e*., a ehilçl that has not cut its teeth,—‘*kṛtacūḍe ca*,’ the ‘*ca*’ is meant to include one whose Upanayana has been performed,—‘*saṃsthite*’ on his dying,—‘*sūtaka*’ stands here for the impurity *due to birth*, that *duo to death* having been separately mentioned.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -128,23 +113,13 @@ mentioned.
 *Parāśara* (3.21).—(Same as Manu.)
 
 *Āpastamba* (2.15.3.4).—‘On account of the death of children who have
-not completed their first year, the parents alone shall bathe—and those
-who bury them.’
+not completed their first year, the parents alone shall bathe—and those who bury them.’
 
 *Viṣṇu* (22.26-31).—In the case of the child dying immediately after
-birth, or one who is still-born, the impurity of the family ceases
-immediately; for such a child there is no cremation, nor
-water-oblations; in that of a child that has teethed hut whose tonsure
-has not been performed, the impurity lasts for a day and night; in that
-of one whose tonsure has been done, hut no other sacrament, three days.’
+birth, or one who is still-born, the impurity of the family ceases immediately; for such a child there is no cremation, nor water-oblations; in that of a child that has teethed hut whose tonsure has not been performed, the impurity lasts for a day and night; in that of one whose tonsure has been done, hut no other sacrament, three days.’
 
 *Yājñavalkya* (3.18.23).—‘Impurity due to death lasts for three or ten
-days; if the dead is a child less than two years old, the impurity
-attaches to the parents only; and that due to the birth attaches to the
-mother only. In the case of the death of children before teething, the
-impurity is only for the moment; in that of those after teething but
-before tonsure, it lasts for one night; in that of those after tonsure,
-hut before Upanayana, for three days;—after that, for ten days.’
+days; if the dead is a child less than two years old, the impurity attaches to the parents only; and that due to the birth attaches to the mother only. In the case of the death of children before teething, the impurity is only for the moment; in that of those after teething but before tonsure, it lasts for one night; in that of those after tonsure, hut before Upanayana, for three days;—after that, for ten days.’
 </details>
 
 <details><summary>Bühler</summary>

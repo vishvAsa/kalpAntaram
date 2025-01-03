@@ -18,14 +18,7 @@ Having truly proclaimed their crimes in connection with their respective acts, t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 293), which adds the
-following notes:—‘*Abhikhyāpya*,’ having got it proclaimed by the
-people;—‘*sāra*’ stands for the stolen property; hence the meaning is
-that the king should inflict the punishment in accordance with the
-nature of the property stolen;—and in *Vivādacintāmaṇi* (Calcutta, p.
-79), which explains ‘*teṣām*,’ as ‘of the thieves,’ and adds the
-explanation that ‘the king should inflict punishment in accordance with
-the quality of the property stolen’.
+This verse is quoted in *Vivādaratnākara* (p. 293), which adds the following notes:—‘*Abhikhyāpya*,’ having got it proclaimed by the people;—‘*sāra*’ stands for the stolen property; hence the meaning is that the king should inflict the punishment in accordance with the nature of the property stolen;—and in *Vivādacintāmaṇi* (Calcutta, p. 79), which explains ‘*teṣām*,’ as ‘of the thieves,’ and adds the explanation that ‘the king should inflict punishment in accordance with the quality of the property stolen’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -33,8 +26,7 @@ the quality of the property stolen’.
 **(verses 9.261-263)  
 **
 
-See Comparative notes for [Verse
-9.261].
+See Comparative notes for [Verse 9.261].
 </details>
 
 <details><summary>भारुचिः</summary>

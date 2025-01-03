@@ -47,8 +47,7 @@ This verso only describes the true state of things. It has been thus describedâ€
 **(Verses 93-95)  
 **
 
-See Comparative notes for [Verse
-2.93].
+See Comparative notes for [Verse 2.93].
 </details>
 
 <details><summary>BÃ¼hler</summary>

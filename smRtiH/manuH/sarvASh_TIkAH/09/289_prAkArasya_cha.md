@@ -26,8 +26,7 @@ The penalty of banishment is to be inflicted only in the case of damages done to
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 367);—in *Aparārka* (p.
-853);—and in *Vyavahāra-Bālambhaṭṭī* (p. 919).
+This verse is quoted in *Vivādaratnākara* (p. 367);—in *Aparārka* (p. 853);—and in *Vyavahāra-Bālambhaṭṭī* (p. 919).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

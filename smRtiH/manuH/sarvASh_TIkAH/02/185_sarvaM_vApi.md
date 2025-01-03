@@ -22,10 +22,7 @@ In the event of al the afouesaid being not available, he may wander over the who
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Saṃskāramayūkha* (p. 60), which adds that the
-prohibition of the ‘*abhiśasṭa*’ naturally implies that of the
-‘*patita*’ ‘outcast’, also;—and in *Smṛticandrikā* (Saṃskāra p. 110),
-which says that this does not sanction begging from a *Śūdra*.
+This verse is quoted in *Saṃskāramayūkha* (p. 60), which adds that the prohibition of the ‘*abhiśasṭa*’ naturally implies that of the ‘*patita*’ ‘outcast’, also;—and in *Smṛticandrikā* (Saṃskāra p. 110), which says that this does not sanction begging from a *Śūdra*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -34,8 +31,7 @@ which says that this does not sanction begging from a *Śūdra*.
 the outcasts and persons of ill-repute.’
 
 *Āpastamba-Dharmasūtra* (1.3.25).—‘Pot in hand, one should beg for food
-from qualified Brāhmaṇas, excepting the Teacher’s house; and avoiding
-those unfit and of ill-repute.’
+from qualified Brāhmaṇas, excepting the Teacher’s house; and avoiding those unfit and of ill-repute.’
 
 *Bhaviṣya Purāṇa* (see under 183).
 

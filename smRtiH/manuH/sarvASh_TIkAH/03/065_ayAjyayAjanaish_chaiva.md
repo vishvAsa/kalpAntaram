@@ -21,16 +21,9 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
-> interpolations?\] “These are very probably a later addition. The
-> corresponding section in the Mahābhārata, 13.46 stops right here
-> also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
-> *Parāśaramādhava*.
+> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they > interpolations?\] “These are very probably a later addition. The > corresponding section in the Mahābhārata, 13.46 stops right here > also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in > *Parāśaramādhava*.
 
-This verse is quoted in *Vidhānapārijāta* (p. 676) as setting forth the
-causes of the degradation of families; and it explains ‘*mantrataḥ*’ as
-‘*vedaiḥ*’, ‘in Veda’;—also to the same effect, in *Vīramitrodaya*
-(Saṃskāra, p. 589);—and in *Smṛticandrikā* (Saṃskāra p. 208).
+This verse is quoted in *Vidhānapārijāta* (p. 676) as setting forth the causes of the degradation of families; and it explains ‘*mantrataḥ*’ as ‘*vedaiḥ*’, ‘in Veda’;—also to the same effect, in *Vīramitrodaya* (Saṃskāra, p. 589);—and in *Smṛticandrikā* (Saṃskāra p. 208).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -38,8 +31,7 @@ causes of the degradation of families; and it explains ‘*mantrataḥ*’ as
 **(verses 3.64-66)  
 **
 
-See Comparative notes for [Verse
-3.64].
+See Comparative notes for [Verse 3.64].
 </details>
 
 <details><summary>Bühler</summary>

@@ -27,8 +27,7 @@ These ‘inverse’ castes, defined above, are mentioned here, for the purpose o
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

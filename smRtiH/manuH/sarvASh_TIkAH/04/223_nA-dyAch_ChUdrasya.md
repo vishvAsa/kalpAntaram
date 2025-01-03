@@ -52,39 +52,19 @@ Another reading is ‘*aśraddhinaḥ*’ (for ‘*aśrāddhinaḥ*); which mean
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Madanapārijāta* (p. 341), which explains
-‘*aśrāddhinaḥ*’ as ‘one who does not offer the daily Śrāddhas’; and adds
-that this is meant to indicate the compulsory character of these
-Śrāddhas,—and ‘*ekarātrikam*’ is explained as ‘what is enough for one
-day.”
+This verse is quoted in *Madanapārijāta* (p. 341), which explains ‘*aśrāddhinaḥ*’ as ‘one who does not offer the daily Śrāddhas’; and adds that this is meant to indicate the compulsory character of these Śrāddhas,—and ‘*ekarātrikam*’ is explained as ‘what is enough for one day.”
 
-Buhler notes that Nārāyaṇa explains ‘*aśrāddhinaḥ*’ as ‘destitute of
-faith’. But the reading thus explained must be ‘*aśraddhinaḥ*’ which is
-a var: lec: noted by Medhātithi.
+Buhler notes that Nārāyaṇa explains ‘*aśrāddhinaḥ*’ as ‘destitute of faith’. But the reading thus explained must be ‘*aśraddhinaḥ*’ which is a var: lec: noted by Medhātithi.
 
-The verse is quoted in *Vīramitrodaya* (Āhnika, p. 490) which adds that
-the term ‘*Śrāddha*’ here must be taken as standing for the *Pākayajña*,
-which is prescribed for the *Śūdra*;—he who performs that is called
-‘*Śrāddhin*’;—if a Śūdra does not perform it, his ‘cooked food’ should
-not be eaten;—such is the explanation given by Medhātithi. *Kalpataru*
-on the other hand, has explained the term ‘*Śrāddha*’ as standing for
-the *daily Śrāddhas*. In some places the word is read as
-‘*Aśraddhinaḥ*’, which means ‘devoid of faith’.—In the event of
-‘abnormal distress’—‘*avṛttau*’—one should receive from him uncooked—not
-cooked—rice or other grain, just enough to last for one day.
+The verse is quoted in *Vīramitrodaya* (Āhnika, p. 490) which adds that the term ‘*Śrāddha*’ here must be taken as standing for the *Pākayajña*, which is prescribed for the *Śūdra*;—he who performs that is called ‘*Śrāddhin*’;—if a Śūdra does not perform it, his ‘cooked food’ should not be eaten;—such is the explanation given by Medhātithi. *Kalpataru* on the other hand, has explained the term ‘*Śrāddha*’ as standing for the *daily Śrāddhas*. In some places the word is read as ‘*Aśraddhinaḥ*’, which means ‘devoid of faith’.—In the event of ‘abnormal distress’—‘*avṛttau*’—one should receive from him uncooked—not cooked—rice or other grain, just enough to last for one day.
 
-It is quoted in *Vidhānapārijāta* (II, p. 250);—in *Prāyascittaviveka*
-(p. 253), which explains ‘*aśrāddhinaḥ*’ as the Śūdra ‘who is not
-entitled to partake of Śrāddha food’;—in *Hemādri* (Śrāddha, p.
-785);—and in *Śuddhikaumudī* (p. 320).
+It is quoted in *Vidhānapārijāta* (II, p. 250);—in *Prāyascittaviveka* (p. 253), which explains ‘*aśrāddhinaḥ*’ as the Śūdra ‘who is not entitled to partake of Śrāddha food’;—in *Hemādri* (Śrāddha, p. 785);—and in *Śuddhikaumudī* (p. 320).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Parāśara* (Vīramitrodaya-Āhnika, p. 492).—‘The food remains ‘Śūdra’s
-food’ only so long as as it has not been touched by the twice-born; as
-soon as it has been touched by the twice-born’s hand, it becomes sacred
-food.’
+food’ only so long as as it has not been touched by the twice-born; as soon as it has been touched by the twice-born’s hand, it becomes sacred food.’
 
 *Yama* (Do.).—‘Śūdra’s food when placed in a vessel belonging to the
 twice-born is not objectionable.’
@@ -93,17 +73,10 @@ twice-born is not objectionable.’
 be eaten after water has been sprinkled over it.’
 
 *Āpastamba* (1.18, 3 *et. seq*.).—‘ He may accept uncooked food; or even
-cooked food, such as is devoid of relish; he should desist after getting
-just what would keep him alive.’
+cooked food, such as is devoid of relish; he should desist after getting just what would keep him alive.’
 
 *Aṅgiras* (68-73).—‘He who eats the Śūdra’s food continuously for a
-mouth, even during that same life, becomes a Śūdra, and after death, is
-born a dog. There is no rise upwards for one who reads, sacrifices or
-offers oblations while nourished by food given by the Śūdra. If a man
-has recourse to his wife after eating of the food given by a Śūdra, the
-son begotten by him belongs to that Śūdra. If a man dies with Śūdra’s
-food in his stomach, he is born as a hog, or is born in the family of
-that same Śūdra.’
+mouth, even during that same life, becomes a Śūdra, and after death, is born a dog. There is no rise upwards for one who reads, sacrifices or offers oblations while nourished by food given by the Śūdra. If a man has recourse to his wife after eating of the food given by a Śūdra, the son begotten by him belongs to that Śūdra. If a man dies with Śūdra’s food in his stomach, he is born as a hog, or is born in the family of that same Śūdra.’
 
 *Gautama* (Vīramitrodaya-Āhnika, p. 489).—‘Food may be begged from all
 castes, with, the exception of such persons as are accused or outcast.’

@@ -22,10 +22,7 @@ Even on infant King shall not be regarded as merely a human being, and as such d
 
 This verse occurs also in the *Mahābhārata*.
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 392);—in the same
-work (Vyavahāra, p. 5);—and in *Vīramitrodaya* (Rājanīti, p. 17), to the
-effect that by showing disrespect to the king one incurs the same sin
-that he does by showing disrespect towards the gods.
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 392);—in the same work (Vyavahāra, p. 5);—and in *Vīramitrodaya* (Rājanīti, p. 17), to the effect that by showing disrespect to the king one incurs the same sin that he does by showing disrespect towards the gods.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -33,8 +30,7 @@ that he does by showing disrespect towards the gods.
 **(verses 7.3-13)  
 **
 
-See Comparative notes for [Verse
-7.3](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200663.html#comparative-notes "English translation of verse").
+See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200663.html#comparative-notes "English translation of verse").
 </details>
 
 <details><summary>भारुचिः</summary>

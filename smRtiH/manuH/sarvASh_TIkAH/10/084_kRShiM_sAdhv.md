@@ -58,8 +58,7 @@ land-cultivation by the Brāhmaṇa.
 **(verses 10.81-84)  
 **
 
-See Comparative notes for [Verse
-10.81].
+See Comparative notes for [Verse 10.81].
 </details>
 
 <details><summary>भारुचिः</summary>

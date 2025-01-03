@@ -96,13 +96,7 @@ offences*, what is meant is that that penance represents the lowest limit ‘*Ab
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Prāyaścittavivekā* (p. 192), which has the
-following notes—‘*Ayājya-saṃyājya*’, includes improper gifts and
-teaching also,—‘*tyāga*’ of parents, *i.e*. neglecting to take care of
-them,—‘*Svādhyāya-tyāga*’, forgetting the Veda that has been
-learnt,—‘*agnityāga*’, through slothfulness,—‘*sutatyāga*’, neglecting
-his feeding and education,—‘*ca*’ is meant to include the ‘abandoning of
-the *wife*’ also.
+This verse is quoted in *Prāyaścittavivekā* (p. 192), which has the following notes—‘*Ayājya-saṃyājya*’, includes improper gifts and teaching also,—‘*tyāga*’ of parents, *i.e*. neglecting to take care of them,—‘*Svādhyāya-tyāga*’, forgetting the Veda that has been learnt,—‘*agnityāga*’, through slothfulness,—‘*sutatyāga*’, neglecting his feeding and education,—‘*ca*’ is meant to include the ‘abandoning of the *wife*’ also.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -110,8 +104,7 @@ the *wife*’ also.
 **(verses 11.58-66)  
 **
 
-See Comparative notes for [Verse
-11.58].
+See Comparative notes for [Verse 11.58].
 </details>
 
 <details><summary>Bühler</summary>

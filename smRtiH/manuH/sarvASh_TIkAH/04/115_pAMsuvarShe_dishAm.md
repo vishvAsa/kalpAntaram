@@ -22,15 +22,9 @@ It is time unfit for study only when dogs, donkeys and camels are crying togethe
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Paṅktau*’—Buhler entirely misrepresents Kullūka; Kullūka does not
-explain the term as ‘in a company’; he clearly explains that what is
-meant is that ‘one shall not read the Veda when seated in a line with
-horses, camels or asses’; while Medhātithi explains the meaning to be
-that ‘that time is unfit for study when the animals named cry out in a
-line
+‘*Paṅktau*’—Buhler entirely misrepresents Kullūka; Kullūka does not explain the term as ‘in a company’; he clearly explains that what is meant is that ‘one shall not read the Veda when seated in a line with horses, camels or asses’; while Medhātithi explains the meaning to be that ‘that time is unfit for study when the animals named cry out in a line
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 536);—in *Hemādri*
-(Kāla, p. 774);—in *Smṛticandrikā* (Saṃskāra, p. 163);—and in
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 536);—in *Hemādri* (Kāla, p. 774);—in *Smṛticandrikā* (Saṃskāra, p. 163);—and in
 *Gadādharapaddhati* (Kāla, p. 195).
 </details>
 
@@ -44,26 +38,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 536);—in *Hemādri*
 shall not read till he goes to sleep.’
 
 *Āpastamba Dharmasūtra* (1.10.19.33).—‘Cry of the ass, the dog, or of
-the jackal, or the owl, the sounds of musical instruments, the sound of
-weeping or of singing or of Sāma;—in the case of the jackal’s cry, till
-one goes to sleep.’
+the jackal, or the owl, the sounds of musical instruments, the sound of weeping or of singing or of Sāma;—in the case of the jackal’s cry, till one goes to sleep.’
 
 *Viṣṇu* (30.9-12).—‘Not during earthquakes, nor when there is
-meteor-shower or the burning of the quarters; nor when there are sounds
-of the dog, the jackal or the ass.’
+meteor-shower or the burning of the quarters; nor when there are sounds of the dog, the jackal or the ass.’
 
 *Yājñavalkya* (1.148, 150).—‘When there are sounds of the dog, the
-jackal, the owl, the Sāma, the arrows (or flute?) or of some one in
-distress; or in the proximity of an unclean thing, a dead body, a Śūdra
-or a Caṇḍāla, the cremation-ground or the outcast; when there is rain of
-dust, or burning of the quarters; during the twilights, or during a fog,
-or when there is some danger.’
+jackal, the owl, the Sāma, the arrows (or flute?) or of some one in distress; or in the proximity of an unclean thing, a dead body, a Śūdra or a Caṇḍāla, the cremation-ground or the outcast; when there is rain of dust, or burning of the quarters; during the twilights, or during a fog, or when there is some danger.’
 
 *Pāraskara*. (2.11.6).—‘During a fog, when there is sound of musical
-instruments, or cry of distress,—in the outskirts of the village, or in
-the cremation-ground, or when there are sounds of the dog, the ass, the
-owl, the jackal or the Sāma,—it is unfit for study while all this
-lasts.’
+instruments, or cry of distress,—in the outskirts of the village, or in the cremation-ground, or when there are sounds of the dog, the ass, the owl, the jackal or the Sāma,—it is unfit for study while all this lasts.’
 </details>
 
 <details><summary>Bühler</summary>

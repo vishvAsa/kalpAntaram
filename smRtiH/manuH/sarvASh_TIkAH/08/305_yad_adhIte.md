@@ -53,8 +53,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 254);—and in
 **(verses 8.304-305)  
 **
 
-See Comparative notes for [Verse
-8.304].
+See Comparative notes for [Verse 8.304].
 </details>
 
 <details><summary>भारुचिः</summary>

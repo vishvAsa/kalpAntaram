@@ -50,16 +50,14 @@ The *Gaṅgā* is a river that purifies: and in ‘*Kurukṣetra*’ it is the l
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 674);—and in *Smṛticandrikā*
-(Vyavahāra, p. 204), which explains ‘*Kūrun*’ as ‘Kurukṣetra.’
+This verse is quoted in *Aparārka* (p. 674);—and in *Smṛticandrikā* (Vyavahāra, p. 204), which explains ‘*Kūrun*’ as ‘Kurukṣetra.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 8.89-97)**
 
-\[See the texts under [79 *et
-seq*.]\]
+\[See the texts under [79 *et seq*.]\]
 </details>
 
 <details><summary>Bühler</summary>

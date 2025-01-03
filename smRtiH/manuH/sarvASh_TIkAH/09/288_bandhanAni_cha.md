@@ -24,8 +24,7 @@ The rest is quite clear.—(288)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 630), which explains
-‘*bandhanāni*’ as ‘places of imprisonment.’
+This verse is quoted in *Vivādaratnākara* (p. 630), which explains ‘*bandhanāni*’ as ‘places of imprisonment.’
 </details>
 
 <details><summary>भारुचिः</summary>

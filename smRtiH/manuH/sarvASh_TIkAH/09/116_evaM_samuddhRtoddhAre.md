@@ -26,8 +26,7 @@ If no additional share has been set apart, the allotment of shares shall be in t
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in the *Vyavahāramayūkha* (p. 43);—and by
-Jīmūtavāhana (*Dāyabhāga*, p. 64).
+This verse is quoted in the *Vyavahāramayūkha* (p. 43);—and by Jīmūtavāhana (*Dāyabhāga*, p. 64).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

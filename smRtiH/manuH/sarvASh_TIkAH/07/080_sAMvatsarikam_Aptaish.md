@@ -36,25 +36,16 @@ He should cause the yearly revenue to be collectbd by trusted men. In his busine
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 407);—and in
 *Vīramitrodaya* (Rājanīti, p. 187), which explains ‘*sāṃvatsarikam
-balim*’ as the ‘yearly tax’,—‘*loke*’ as ‘among the people’,—and
-‘*āśrayaparaḥ*’ as ‘inclined to provide livings for the poor and the
-helpless.’
+balim*’ as the ‘yearly tax’,—‘*loke*’ as ‘among the people’,—and ‘*āśrayaparaḥ*’ as ‘inclined to provide livings for the poor and the helpless.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (1.321).—‘For the king there is no act more meritorious
-than this that what he obtains by war he gives away to Brāhmaṇas and the
-gift of fearlessness to the people.’
+than this that what he obtains by war he gives away to Brāhmaṇas and the gift of fearlessness to the people.’
 
 *Kāmandaka* (5.78, 79).—‘Agriculture, communications to facilitate
-commercial traffic, entrenchment of strongholds for soldiers in the
-capital, construction of dams and bridges across rivers, erection of
-enclosures for elephants, working of mines and quarries, felling and
-selling of timber and the peopling of uninhabited tracts,—these
-eightfold sources of revenue, the king should ever enhance; his officers
-looking up to him for livelihood should also do so, for maintaining
-themselves.’
+commercial traffic, entrenchment of strongholds for soldiers in the capital, construction of dams and bridges across rivers, erection of enclosures for elephants, working of mines and quarries, felling and selling of timber and the peopling of uninhabited tracts,—these eightfold sources of revenue, the king should ever enhance; his officers looking up to him for livelihood should also do so, for maintaining themselves.’
 </details>
 
 <details><summary>भारुचिः</summary>

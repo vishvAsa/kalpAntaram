@@ -30,8 +30,7 @@ This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 511).
 **(verses 12.60-68)  
 **
 
-See Comparative notes for [Verse
-12.60].
+See Comparative notes for [Verse 12.60].
 </details>
 
 <details><summary>Bühler</summary>

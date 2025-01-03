@@ -52,22 +52,11 @@ The author proceeds to explain why it is necessary to seek for the said qualitie
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Anuraktaḥ*’—‘Loyal to the king’(Medhātithi, Govindarāja and
-Rāghavānanda);—‘attached to the people’ (Kulluka).
+‘*Anuraktaḥ*’—‘Loyal to the king’(Medhātithi, Govindarāja and Rāghavānanda);—‘attached to the people’ (Kulluka).
 
 This verse is quoted in *Vīramitrodaya* (Lakṣaṇa, p. 225);—and in
 *Vīramitrodaya* (Rājanīti, p. 188), which adds the following
-notes:—‘*Anuraktaḥ*,’ ‘attached to the people and hence not likely to be
-disagreeable even, to enemy-kings’;—‘*śuciḥ*,’ ‘pure in his dealings
-with women and money’;—‘*dakṣaḥ*,’ ‘one who never misses his opportunity
-to act;—‘*smṛtimān*,’ ‘not likely to forget either the instructions of
-his own king or the replies given by the other party’;—‘*deśakālavit*’,
-‘capable of altering either his own king’s message or the reply given by
-the other party, or his own operations, in view of the altered
-conditions of time and place in which he may find
-himself’;—‘*vapuṣmān*’, ‘possessed of excellent physical features’,
-—‘*vītabhīḥ*’, ‘who is capable of telling even disagreeable things to
-the king, if it is likely to be beneficial to the latter’s interests.’
+notes:—‘*Anuraktaḥ*,’ ‘attached to the people and hence not likely to be disagreeable even, to enemy-kings’;—‘*śuciḥ*,’ ‘pure in his dealings with women and money’;—‘*dakṣaḥ*,’ ‘one who never misses his opportunity to act;—‘*smṛtimān*,’ ‘not likely to forget either the instructions of his own king or the replies given by the other party’;—‘*deśakālavit*’, ‘capable of altering either his own king’s message or the reply given by the other party, or his own operations, in view of the altered conditions of time and place in which he may find himself’;—‘*vapuṣmān*’, ‘possessed of excellent physical features’, —‘*vītabhīḥ*’, ‘who is capable of telling even disagreeable things to the king, if it is likely to be beneficial to the latter’s interests.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -75,8 +64,7 @@ the king, if it is likely to be beneficial to the latter’s interests.’
 **(verses 7.63-64)  
 **
 
-See Comparative notes for [Verse
-7.63].
+See Comparative notes for [Verse 7.63].
 </details>
 
 <details><summary>भारुचिः</summary>

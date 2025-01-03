@@ -50,8 +50,7 @@ Like flaming fire, Actions also are prone to become strong and weak; when they a
 
 **(verses 12.53-59)**
 
-See Comparative notes for [Verse
-12.53].
+See Comparative notes for [Verse 12.53].
 </details>
 
 <details><summary>Bühler</summary>

@@ -34,26 +34,15 @@ The Expiatory Rite that Śaṅkha has prescribed in connection with the eating o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vārdhrīṇasa*’—‘An old goat, white and with long ears reaching the
-water at the time of drinking’ (Medhātithi, Govindarāja, Kullūka and
-Rāghavānanda);—‘a black-necked, red-headed, white-winged crane’
-(Nārāyaṇa).
+‘*Vārdhrīṇasa*’—‘An old goat, white and with long ears reaching the water at the time of drinking’ (Medhātithi, Govindarāja, Kullūka and Rāghavānanda);—‘a black-necked, red-headed, white-winged crane’ (Nārāyaṇa).
 
-Both these explanations are noted in *Parāśaramādhava* (Ācāra, p. 706),
-where, however, the colour of the goat is mentioned as *red*, not
+Both these explanations are noted in *Parāśaramādhava* (Ācāra, p. 706), where, however, the colour of the goat is mentioned as *red*, not
 *white*. The definition of the goat quoted by Medhātithi is here
-attributed to *Viṣṇudharmottara*, and that of the crane to the
-‘*Nigama*’.
+attributed to *Viṣṇudharmottara*, and that of the crane to the ‘*Nigama*’.
 
-This verse is quoted in *Nirṇayasindhu* (p. 295), which adds the
-definition of *Vārdhrīṇasa* as *white*;—and the first half in *Aparārka*
-(p. 551), which explains ‘*pāyasa*’ as ‘rice cooked in milk’, and adds
-that this milk should be such as is not forbidden.
+This verse is quoted in *Nirṇayasindhu* (p. 295), which adds the definition of *Vārdhrīṇasa* as *white*;—and the first half in *Aparārka* (p. 551), which explains ‘*pāyasa*’ as ‘rice cooked in milk’, and adds that this milk should be such as is not forbidden.
 
-It is quoted in *Gadādharapaddhati* (Kāla, p. 536), which supplies the
-description of the *Vārdhrīṇasa* as given in the *Nigama*—‘(a) The old
-goat whose ears and mouth touch the water, who has lost his virility;
-(b) the bird which has black neck, red head and white wings’.
+It is quoted in *Gadādharapaddhati* (Kāla, p. 536), which supplies the description of the *Vārdhrīṇasa* as given in the *Nigama*—‘(a) The old goat whose ears and mouth touch the water, who has lost his virility; (b) the bird which has black neck, red head and white wings’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -61,8 +50,7 @@ goat whose ears and mouth touch the water, who has lost his virility;
 **(verses 3.269-271)  
 **
 
-See Comparative notes for [Verse
-3.269].
+See Comparative notes for [Verse 3.269].
 </details>
 
 <details><summary>Bühler</summary>

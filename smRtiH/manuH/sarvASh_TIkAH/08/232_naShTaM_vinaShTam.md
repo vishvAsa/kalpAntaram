@@ -40,27 +40,13 @@ All this ‘*the keeper shall make good*.’—‘*if it has been left without h
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Kṛmibhiḥ*’—‘A special kind of worm called *Ārohakas*’ (Medhātithi)
-‘snakes and so forth’ (Rāghavānanda).
+‘*Kṛmibhiḥ*’—‘A special kind of worm called *Ārohakas*’ (Medhātithi) ‘snakes and so forth’ (Rāghavānanda).
 
-This verse is quoted in *Aparārka* (p. 773), which adds that the keeper
-is to make good the loss by paying the price of the animal lost;—and
-that ‘*nāśa*’ of the animal here meant is its being not found, lost;—in
+This verse is quoted in *Aparārka* (p. 773), which adds that the keeper is to make good the loss by paying the price of the animal lost;—and that ‘*nāśa*’ of the animal here meant is its being not found, lost;—in
 *Mitākṣarā* (2.164), as describing the loss of cattle through
-carelessness;—in *Vivādaratnākara* (p. 173), which adds the following
-notes:—‘*Naṣṭam*,’ stolen;—‘*vinaṣṭam*,’ destroyed—by whom?—‘*by
-worms*’;—the ‘dog’ stands for other animals also;—‘*viṣame*,’ place
-difficult of access; such as the hill-top and so
-forth;—‘*puruṣakāreṇa*,’ care and means of rescue adopted by the
-keeper;—in *Vivādacintāmaṇi* (p. 81), which has the following
-notes:—‘*Naṣṭam*’ stolen by thieves and others,—*i.e*., what became lost
-for want proper care on the part of the keeper,—this negligence being
-the reason why the man should be made to make good the loss;—in
+carelessness;—in *Vivādaratnākara* (p. 173), which adds the following notes:—‘*Naṣṭam*,’ stolen;—‘*vinaṣṭam*,’ destroyed—by whom?—‘*by worms*’;—the ‘dog’ stands for other animals also;—‘*viṣame*,’ place difficult of access; such as the hill-top and so forth;—‘*puruṣakāreṇa*,’ care and means of rescue adopted by the keeper;—in *Vivādacintāmaṇi* (p. 81), which has the following notes:—‘*Naṣṭam*’ stolen by thieves and others,—*i.e*., what became lost for want proper care on the part of the keeper,—this negligence being the reason why the man should be made to make good the loss;—in
 *Kṛtyakalpataru* (105a), which says that ‘*śva*’ in ‘*śvahatam*’ stands
-for carnivorous animals in general;—and in *Vīramitrodaya* (Vyavahāra,
-1362), which explains ‘*viṣame*’ as ‘in an inaccessible place,’ and
-‘*hīnaṃ puruṣakāreṇa*’ as ‘what has been destroyed for want of that care
-which was possible for man to give.’
+for carnivorous animals in general;—and in *Vīramitrodaya* (Vyavahāra, 1362), which explains ‘*viṣame*’ as ‘in an inaccessible place,’ and ‘*hīnaṃ puruṣakāreṇa*’ as ‘what has been destroyed for want of that care which was possible for man to give.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -69,27 +55,16 @@ which was possible for man to give.’
 the cattle that may have perished.’
 
 *Yājñavalkya* (2.165).—‘If a cattle is destroyed through the fault of
-the cowherd, he shall be fined 13½ *Paṇas* and made to make good the
-value of the cattle to the owner.’
+the cowherd, he shall be fined 13½ *Paṇas* and made to make good the value of the cattle to the owner.’
 
 *Nārada* (6.13-15).—‘Should the cowherd neither struggle to save the
-cow, nor raise a cry, nor announce it to his master, he must make good
-the value of the cow to the owner, and pay a fine to the King. The
-cowherd shall make good the value of the cow that has strayed, or been
-destroyed by worms, or slain by dogs, or met her death by tumbling into
-a pit,—if he did not duly exert himself to prevent such accidents.’
+cow, nor raise a cry, nor announce it to his master, he must make good the value of the cow to the owner, and pay a fine to the King. The cowherd shall make good the value of the cow that has strayed, or been destroyed by worms, or slain by dogs, or met her death by tumbling into a pit,—if he did not duly exert himself to prevent such accidents.’
 
 *Brahmapurāṇa* (Vivādaratnākara, p. 171).—‘If a cowherd who has received
-wages leaves the cattle in the desolate forest and roams about in the
-village, he should be beaten by the King. If a cow under the charge of a
-cowherd dies through his fault, he should be punished and made to pay a
-fee to the owner of the cow. If however the cow dies at the house of the
-owner, through disease or such causes, the owner should he punished and
-made to pay the wages of the cowherd.’
+wages leaves the cattle in the desolate forest and roams about in the village, he should be beaten by the King. If a cow under the charge of a cowherd dies through his fault, he should be punished and made to pay a fee to the owner of the cow. If however the cow dies at the house of the owner, through disease or such causes, the owner should he punished and made to pay the wages of the cowherd.’
 
 *Āpastamba* (2.28.6).—‘If a herdsman who has taken cattle under his
-care, allows them to perish, or loses them through his negligence, he
-shall make them good to the owners.’
+care, allows them to perish, or loses them through his negligence, he shall make them good to the owners.’
 </details>
 
 <details><summary>भारुचिः</summary>

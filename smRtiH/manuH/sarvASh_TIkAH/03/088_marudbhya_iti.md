@@ -24,8 +24,7 @@ The particle ‘*iti*’ is meant to lay stress upon the exact form of the words
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted without comment in *Vīramitrodaya* (Āhnika, p.
-402).
+This verse is quoted without comment in *Vīramitrodaya* (Āhnika, p. 402).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -33,8 +32,7 @@ This verse is quoted without comment in *Vīramitrodaya* (Āhnika, p.
 **(verses 3.84-93)  
 **
 
-See Comparative notes for [Verse
-3.84].
+See Comparative notes for [Verse 3.84].
 </details>
 
 <details><summary>Bühler</summary>

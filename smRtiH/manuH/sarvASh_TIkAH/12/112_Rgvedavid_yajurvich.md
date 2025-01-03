@@ -27,17 +27,13 @@ The distinction of the three Vedas—Ṛgveda and the rest—has been mentioned 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.300) as prescribing a second kind
-of ‘Assembly’;—in *Aparārka* (p. 21);—and in *Smṛticandrikā* (Saṃskāra,
-p. 8).
+This verse is quoted in *Mitākṣarā* (3.300) as prescribing a second kind of ‘Assembly’;—in *Aparārka* (p. 21);—and in *Smṛticandrikā* (Saṃskāra, p. 8).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (1.9).—‘Four persons well versed in the Veda and in Law,
-or learned in the three Vedas, constitute the *Pariṣad*, Assembly;
-whatever this Assembly declares is the *Law*; or what is declared by a
-single person thoroughly cognisant of the Self.’
+or learned in the three Vedas, constitute the *Pariṣad*, Assembly; whatever this Assembly declares is the *Law*; or what is declared by a single person thoroughly cognisant of the Self.’
 </details>
 
 <details><summary>भारुचिः</summary>

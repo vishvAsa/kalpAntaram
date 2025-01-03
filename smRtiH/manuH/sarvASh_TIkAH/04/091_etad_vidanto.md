@@ -44,8 +44,7 @@ This verse is quoted in *Aparārka* (p. 185).
 **(verses 4.87-91)  
 **
 
-See Comparative notes for [Verse
-4.87].
+See Comparative notes for [Verse 4.87].
 </details>
 
 <details><summary>Bühler</summary>

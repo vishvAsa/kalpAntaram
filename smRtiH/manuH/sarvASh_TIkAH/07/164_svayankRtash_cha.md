@@ -38,23 +38,15 @@ The two kinds of war thus are—(l) that waged for one’s own sake, and (2) tha
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Akāle*’—This is taken by Medhātithi with the second clause and by
-Govindarāja with the first.
+‘*Akāle*’—This is taken by Medhātithi with the second clause and by Govindarāja with the first.
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 325) to the effect
-that ‘war’ is of two kinds—(1) That undertaken for some special purpose
-of one’s own—this being done either in the proper season, such as during
-the months of November or December, or even out of season; and (2) that
-undertaken for helping an ally who has been attacked by an enemy.
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 325) to the effect that ‘war’ is of two kinds—(1) That undertaken for some special purpose of one’s own—this being done either in the proper season, such as during the months of November or December, or even out of season; and (2) that undertaken for helping an ally who has been attacked by an enemy.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Kāmandaka* (10.16-19).—‘Hostilities are of five kinds—(1) produced by
-rivalry, (2) caused by dispute about lands, (3) caused by women, (4)
-caused by irresponsible spies, (5) caused by some transgression on the
-part of one party... Men recognise only two kinds: Hereditary and that
-caused by some transgression.’
+rivalry, (2) caused by dispute about lands, (3) caused by women, (4) caused by irresponsible spies, (5) caused by some transgression on the part of one party... Men recognise only two kinds: Hereditary and that caused by some transgression.’
 </details>
 
 <details><summary>भारुचिः</summary>

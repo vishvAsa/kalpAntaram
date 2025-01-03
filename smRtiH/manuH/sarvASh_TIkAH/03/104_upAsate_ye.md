@@ -31,8 +31,7 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 769) and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (1.112).—‘One should not have a longing for food cooked in
-the house of others, except when one has been invited; he should avoid
-fickleness of hands, feet and speech, and also over-eating.’
+the house of others, except when one has been invited; he should avoid fickleness of hands, feet and speech, and also over-eating.’
 </details>
 
 <details><summary>Bühler</summary>

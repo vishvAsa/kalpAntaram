@@ -84,10 +84,7 @@ Similar to the above are the other restrictions: ‘*he shall not look at her wh
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 180);—in *Mitākṣarā*, (on
-1.125);—in *Madanapārijāta* (p. 123);—in *Vīramitrodaya*. (Āhnika, p.
-479, and again in Saṃskāra, p. 578);—in *Saṃskāramayūkha*, (p. 71);—and
-in *Smṛtisāroddhāra*, (p. 320).
+This verse is quoted in *Aparārka* (p. 180);—in *Mitākṣarā*, (on 1.125);—in *Madanapārijāta* (p. 123);—in *Vīramitrodaya*. (Āhnika, p. 479, and again in Saṃskāra, p. 578);—in *Saṃskāramayūkha*, (p. 71);—and in *Smṛtisāroddhāra*, (p. 320).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -103,18 +100,13 @@ standing, nor while many men are looking on.’
 *Viṣṇu* (72.26)—‘Nor a naked woman.’
 
 *Gautama* (9.33).—‘He shall avoid the following:—kindling fire with the
-mouth, wrangling, obtrusive wearing of garlands and sandal-paste, eating
-with his wife, looking at her while she is applying collyrium to her
-eyes, entering by the wrong door, eating while seated on a chair,
-swimming in rivers, climbing of trees, etc., etc.’
+mouth, wrangling, obtrusive wearing of garlands and sandal-paste, eating with his wife, looking at her while she is applying collyrium to her eyes, entering by the wrong door, eating while seated on a chair, swimming in rivers, climbing of trees, etc., etc.’
 
 *Śukranīti* (4.4.29).—‘Then her husband and lastly she herself shall
-partake of food at the instance of her husband. She should then devote
-her time to the examining of income and expenditure.’
+partake of food at the instance of her husband. She should then devote her time to the examining of income and expenditure.’
 
 *Vaśiṣṭha* (12.29).—‘Not between two fires, nor between two Brāhmaṇas,
-nor with his wife, shall one eat; by so doing, one obtains offspring
-devoid of virility; this we learn from the Vājasaneya texts.’
+nor with his wife, shall one eat; by so doing, one obtains offspring devoid of virility; this we learn from the Vājasaneya texts.’
 
 *Yājñavalkya* (1.131).—‘He shall not eat where his wife can see him, nor
 with a single cloth, nor standing.’

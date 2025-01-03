@@ -24,13 +24,9 @@ Having fasted for thirty-six days, if he recites the Vedic text in a forest, he 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.302), which notes that it applies
-to cases of the *unintentional* slaying of the learned Brāhmaṇa, or to
-those of the *intentional* repetition of the slaying of others;—in
+This verse is quoted in *Mitākṣarā* (3.302), which notes that it applies to cases of the *unintentional* slaying of the learned Brāhmaṇa, or to those of the *intentional* repetition of the slaying of others;—in
 *Madanapārijāta* (p. 972), as referring to the *intentional once*
-slaying of the learned Brāhmaṇa, or to the *unintentional repeated*
-slaying of the unlearned Brāhmaṇa;—in *Parāśaramādhava* (Prāyaścitta, p.
-456);—and in *Nṛsiṃhaprasāda* (Prāyaścitta 32a).
+slaying of the learned Brāhmaṇa, or to the *unintentional repeated* slaying of the unlearned Brāhmaṇa;—in *Parāśaramādhava* (Prāyaścitta, p. 456);—and in *Nṛsiṃhaprasāda* (Prāyaścitta 32a).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -54,22 +54,9 @@ case with most bird-names.’—(11).
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika p. 540), which adds the
-following notes:—‘*Kravyādaḥ*’ are the vulture and other birds that eat
-raw flesh only, and also the peacock and others that eat both raw and
-cooked flesh;—‘*grāmanivāsinaḥ*’ stands for such village-birds as the
-pigeon and the like, which do not eat flesh;—the term *Śakunīn* is to be
-construed with both ‘*kravyādaḥ*’ and ‘*grāmanivāsinaḥ*’;—*ekaśapha*’
-are the horse and other one-hoofed animals,—‘*anirdiṣṭaḥ*’ means ‘those
-that are not mentioned in the *Śruti* as fit for eating’; those that are
-mentioned as such should certainly be eaten; this refers to such
-sacrificial animals as are mentioned in the Vedic texts like the
-following:—‘One should sacrifice the horse to Tvaṣṭṛ’; which implies
-that the flesh of the horse so sacrificed must be eaten;—‘*Ṭiṭṭibha*’ is
-the name of the bird that makes the ‘*ṭī ṭī*’ sound.
+This verse is quoted in *Vīramitrodaya* (Āhnika p. 540), which adds the following notes:—‘*Kravyādaḥ*’ are the vulture and other birds that eat raw flesh only, and also the peacock and others that eat both raw and cooked flesh;—‘*grāmanivāsinaḥ*’ stands for such village-birds as the pigeon and the like, which do not eat flesh;—the term *Śakunīn* is to be construed with both ‘*kravyādaḥ*’ and ‘*grāmanivāsinaḥ*’;—*ekaśapha*’ are the horse and other one-hoofed animals,—‘*anirdiṣṭaḥ*’ means ‘those that are not mentioned in the *Śruti* as fit for eating’; those that are mentioned as such should certainly be eaten; this refers to such sacrificial animals as are mentioned in the Vedic texts like the following:—‘One should sacrifice the horse to Tvaṣṭṛ’; which implies that the flesh of the horse so sacrificed must be eaten;—‘*Ṭiṭṭibha*’ is the name of the bird that makes the ‘*ṭī ṭī*’ sound.
 
-It is quoted in *Hemādri* (Śrāddha, p. 582);—and in *Smṛtisāroddhārā*
-(p. 298).
+It is quoted in *Hemādri* (Śrāddha, p. 582);—and in *Smṛtisāroddhārā* (p. 298).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -83,13 +70,10 @@ water-fowls as have red feet or beaks, village-hens and village hogs.’
 carnivorous and tame birds.’
 
 *Āpastamba* (1.17.29, 34).—‘One-hoofed animals, camels, *gavaya*,
-village-hog, *śarabha* and cows;—also carnivorous animals (are not to be
-eaten).
+village-hog, *śarabha* and cows;—also carnivorous animals (are not to be eaten).
 
 *Vaśiṣṭha* (14.48).—‘Among birds, those who seek food by scratching with
-feet, the web-footed ones, the *Kalaviṅka*, the water-hen, the
-flamingo... a vulture,... those feeding on flesh and those living about
-villages,’
+feet, the web-footed ones, the *Kalaviṅka*, the water-hen, the flamingo... a vulture,... those feeding on flesh and those living about villages,’
 
 *Viṣṇu* (51.28-30).—‘On eating the flesh of carnivorous animals and
 birds one should perform the *Tapta-Kṛcchra*; on eating the
@@ -100,8 +84,7 @@ one-footed animals and those with two rows of teeth.’
 living about villages, etc., etc.’
 
 *Paiṭhīnasi* (Aparārka, p. 248).—‘Cow, sheep, goat, horse, mule, ass and
-man—these seven are the *gramya-paśus* (*grāmya-paśus*?), animals living
-about villages.’
+man—these seven are the *gramya-paśus* (*grāmya-paśus*?), animals living about villages.’
 
 *Hārīta* (Do.).—‘They eat animals of the village and of the forest,
 sheep, goat, buffalo, deer, rhinoceros, etc., etc.’
@@ -110,17 +93,13 @@ sheep, goat, buffalo, deer, rhinoceros, etc., etc.’
 crows, vultures, cocks, pigeons are birds that should not be eaten.’
 
 *Yama* (Do, pp. 542 and 543).—‘Mushrooms. village-hogs, web-footed
-birds,—by eating these the twice-born becomes degraded; also by eating
-cows, horses, asses, camels, dogs, jackals, scratching birds, and
-pecking birds.’
+birds,—by eating these the twice-born becomes degraded; also by eating cows, horses, asses, camels, dogs, jackals, scratching birds, and pecking birds.’
 
 *Āpastamba* (Do.).—‘Among scratching birds, the cock should not he
-eaten; among pecking birds, the Plava; also carnivorous birds and the
-flamingo, the Bhāsa, etc., etc.’
+eaten; among pecking birds, the Plava; also carnivorous birds and the flamingo, the Bhāsa, etc., etc.’
 
 *Parāśara* (2.11).—‘On intentionally eating the flesh of the frog or the
-mouse, the twice-born becomes purified by living on barley-meal for one
-day.’
+mouse, the twice-born becomes purified by living on barley-meal for one day.’
 </details>
 
 <details><summary>Bühler</summary>

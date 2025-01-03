@@ -24,13 +24,7 @@ With a view to confirm what has been said above this verse reiterates well-known
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 151), which
-explains ‘*Brahma chaiva dhanam yeṣām*’ as that for the Brāhmaṇa the
-Veda is the sole treasure, inasmuch as it is the Veda that accomplishes
-all prosperity for them, and becomes the means of acquiring wealth by
-teaching and sacrificing; and as such the Veda should be acquired and
-guarded;—what man, wishing to live, shall give trouble to such
-Brāhmaṇas?
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 151), which explains ‘*Brahma chaiva dhanam yeṣām*’ as that for the Brāhmaṇa the Veda is the sole treasure, inasmuch as it is the Veda that accomplishes all prosperity for them, and becomes the means of acquiring wealth by teaching and sacrificing; and as such the Veda should be acquired and guarded;—what man, wishing to live, shall give trouble to such Brāhmaṇas?
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -38,8 +32,7 @@ Brāhmaṇas?
 **(verses 9.313-322)  
 **
 
-See Comparative notes for [Verse
-9.313].
+See Comparative notes for [Verse 9.313].
 </details>
 
 <details><summary>भारुचिः</summary>

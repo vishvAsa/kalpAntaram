@@ -20,17 +20,13 @@ Those who live by any kind of art he shall make work for him one day each month;
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 274), which adds
-that the service herein mentioned being the only tax payable by them, no
-other tax should be imposed upon these men.
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 274), which adds that the service herein mentioned being the only tax payable by them, no other tax should be imposed upon these men.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (10.31-33).—‘Each artisan shall monthly do one day’s work for
-the king;—hereby the taxes payable by those who support themselves by
-personal labour have been explained also owners of ships and
-carts;—these persons he should feed.’
+the king;—hereby the taxes payable by those who support themselves by personal labour have been explained also owners of ships and carts;—these persons he should feed.’
 
 *Vaśiṣṭha* (19.28).—‘He shall take a monthly tax from artisans.’
 
@@ -38,8 +34,7 @@ carts;—these persons he should feed.’
 the king for a day in each month.’
 
 *Viṣṇudharmottara* (Vīramitrodaya-Rājanīti, p. 275).—‘Artisans shall
-work for him for one day in the month; those who live by manual labour
-shall work on receiving fooding only.’
+work for him for one day in the month; those who live by manual labour shall work on receiving fooding only.’
 </details>
 
 <details><summary>भारुचिः</summary>

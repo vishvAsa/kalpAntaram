@@ -41,8 +41,7 @@ when necessary.’
 *Baudhāyana* (1. 2. 24).—‘Talking to women only when necessary.’
 
 *Gautama* (2. 22, 41).—‘Gazing at and touching of women should be
-avoided; one who has attained majority should not see young women
-alone.’
+avoided; one who has attained majority should not see young women alone.’
 
 *Śukranīti* (3.27).—‘One should not sit very near bis mother, sister or
 daughter.’

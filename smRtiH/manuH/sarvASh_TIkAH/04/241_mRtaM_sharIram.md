@@ -26,8 +26,7 @@ This verse describes what is actually seen to happen. Relations throw away the b
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This; verse is quoted in *Aparārka* (p. 232);—and in *Vīramitrodaya*
-(Paribhāṣā, p. 64).
+This; verse is quoted in *Aparārka* (p. 232);—and in *Vīramitrodaya* (Paribhāṣā, p. 64).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -36,11 +35,7 @@ This; verse is quoted in *Aparārka* (p. 232);—and in *Vīramitrodaya*
 **
 
 *Mahābhārata* (Anuśāsana, 173.13).—‘People leave the dead body like a
-log of wood or a clod of earth; having used it for a while, they turn
-their backs upon it and go away. Therefore, O king, it is Righteousness
-alone that one should serve for the purpose of obtaining a real helper.
-By being equipped with Righteousness one reaches the highest celestial
-state; similarly equipped with unrighteousness, he fails into hell.’
+log of wood or a clod of earth; having used it for a while, they turn their backs upon it and go away. Therefore, O king, it is Righteousness alone that one should serve for the purpose of obtaining a real helper. By being equipped with Righteousness one reaches the highest celestial state; similarly equipped with unrighteousness, he fails into hell.’
 </details>
 
 <details><summary>Bühler</summary>

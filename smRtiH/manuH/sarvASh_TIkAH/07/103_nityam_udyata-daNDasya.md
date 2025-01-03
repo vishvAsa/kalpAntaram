@@ -26,9 +26,7 @@ The enemies of the king who acts thus bow down to him without any effort on his 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya*, (Rājanīti, p. 134) which
-explains ‘*udvijate*’ as ‘becomes afraid’, which means that his glory
-becomes proclaimed.
+This verse is quoted in *Vīramitrodaya*, (Rājanīti, p. 134) which explains ‘*udvijate*’ as ‘becomes afraid’, which means that his glory becomes proclaimed.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -36,8 +34,7 @@ becomes proclaimed.
 *Mahābhārata* (12.140.8).—(Same as Manu.)
 
 *Nārada* (Vīramitrodaya-Rājanīti, p. 135).—‘He should always favour the
-good and chastise the wicked; such is the duty of kings, who also obtain
-wealth by this means.’
+good and chastise the wicked; such is the duty of kings, who also obtain wealth by this means.’
 </details>
 
 <details><summary>भारुचिः</summary>

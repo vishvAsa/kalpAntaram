@@ -33,9 +33,7 @@ Food offered to the gods and that offered in the Pitṛs are to be given to the 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 350) as laying down
-that the learned man alone is entitled to be fed at religious rites;—and
-again on page 679 to the same effect;—in *Aparārka* (p. 437);—also in
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 350) as laying down that the learned man alone is entitled to be fed at religious rites;—and again on page 679 to the same effect;—in *Aparārka* (p. 437);—also in
 *Hemādri* (Śrāddha, p. 377);—in *Śrāddhakriyākaumudī* (p. 34); and. in
 *Nṛsiṃhaprasāda* (Śrāddha, p. 6b).
 </details>
@@ -43,8 +41,7 @@ again on page 679 to the same effect;—in *Aparārka* (p. 437);—also in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (3.9).—‘Offerings made to Gods and Pitṛs should be presented
-to the Vedic scholars; that which is presented to one ignorant of the
-Veda reaches neither the Pitṛs nor the Gods.’
+to the Vedic scholars; that which is presented to one ignorant of the Veda reaches neither the Pitṛs nor the Gods.’
 
 *Āśvalāyana-Gṛhyasūtra* (4.2).—(See under 125.)
 
@@ -52,19 +49,13 @@ Veda reaches neither the Pitṛs nor the Gods.’
 and character.’
 
 *Prajāpati-Smṛti* (70, 71, 74).—‘Those engaged in Vedic rites, calm,
-sinless, maintainers of Fire, devoted to their duties, austerities,
-conversant with the meaning of the Veda, born in noble families, devoted
-to parents, maintaining themselves by means of livelihood recommended
-for Brāhmaṇas, teachers knowing Brahman,—such are the Brāhmaṇas that are
-helpful in the success of Śrāddhas.
+sinless, maintainers of Fire, devoted to their duties, austerities, conversant with the meaning of the Veda, born in noble families, devoted to parents, maintaining themselves by means of livelihood recommended for Brāhmaṇas, teachers knowing Brahman,—such are the Brāhmaṇas that are helpful in the success of Śrāddhas.
 
 *Smṛtyantara* (Parāśaramādhava, p. 350).—‘If food is offered to a
-Brāhmaṇa who is devoid of cleanliness, fallen from his vows, and
-ignorant of the Veda, it weeps and says —*what sin have I committed*!’
+Brāhmaṇa who is devoid of cleanliness, fallen from his vows, and ignorant of the Veda, it weeps and says —*what sin have I committed*!’
 
 *Mahābhārata-Āśvamedhika* (Do.).—‘Food should be offered to one who
-arrives at the right time and place, suffering from hunger, thirst and
-fatigue.’
+arrives at the right time and place, suffering from hunger, thirst and fatigue.’
 </details>
 
 <details><summary>Bühler</summary>

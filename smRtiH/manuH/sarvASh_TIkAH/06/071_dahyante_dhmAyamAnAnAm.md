@@ -24,15 +24,13 @@ But even in a man who has given up all attachment, and has his organs under his 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 3.62);—and in *Vidhānapārijāta*
-(II. p. 176).
+This verse is quoted in *Mitākṣarā* (on 3.62);—and in *Vidhānapārijāta* (II. p. 176).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (25.6).—‘Through the inhibition of breath air is generated;
-through air is produced fire; then through heat water is formed; hence
-one becomes internally purified by these three.’
+through air is produced fire; then through heat water is formed; hence one becomes internally purified by these three.’
 
 *Baudhāyana* (4.1.24).—(Same as above from Vaśiṣṭha.)
 </details>

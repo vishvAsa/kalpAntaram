@@ -36,16 +36,9 @@ In this connection, there is no consideration of caste,—the only condition is 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 1209), which remarks that the
-phrase ‘*viśuddhānapi dharmataḥ*’ clearly indicates that the expiations
-laid down in connection with the murder of women and other crimes do
-really serve to remove the sin involved.
+This verse is quoted in *Aparārka* (p. 1209), which remarks that the phrase ‘*viśuddhānapi dharmataḥ*’ clearly indicates that the expiations laid down in connection with the murder of women and other crimes do really serve to remove the sin involved.
 
-It is quoted in *Parāśaramādhava* (Prāyaścitta, p. 155), as indication
-of the view that in the case of heinous crimes, even after the
-prescribed expiration has been gone through, the offender is not fit for
-being associated with, even though for all spiritual purposes he may
-have become ‘purified’;—in *Prāyaścittaviveka* (p. 21);—and in
+It is quoted in *Parāśaramādhava* (Prāyaścitta, p. 155), as indication of the view that in the case of heinous crimes, even after the prescribed expiration has been gone through, the offender is not fit for being associated with, even though for all spiritual purposes he may have become ‘purified’;—in *Prāyaścittaviveka* (p. 21);—and in
 *Yatidharmasaṅgraha* (p. 109), which explains ‘*na saṃvaset*’ to mean
 that ‘one should not associate with them in eating or any such act.’
 </details>
@@ -53,14 +46,10 @@ that ‘one should not associate with them in eating or any such act.’
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (54.32).—‘Let him not however, associate with those who have
-killed children, or with ungrateful persons, or with those who have
-tilled a woman, or one who came to him for protection,—even though such
-sinners may have secured absolution according to the Law.’
+killed children, or with ungrateful persons, or with those who have tilled a woman, or one who came to him for protection,—even though such sinners may have secured absolution according to the Law.’
 
 *Yājñavalkya* (3.299).—‘Those who have killed a person seeking
-protection, or a child or a woman, or those who are ungrateful,—with
-these one should not associate, even though they may have performed the
-requisite penances.’
+protection, or a child or a woman, or those who are ungrateful,—with these one should not associate, even though they may have performed the requisite penances.’
 </details>
 
 <details><summary>भारुचिः</summary>

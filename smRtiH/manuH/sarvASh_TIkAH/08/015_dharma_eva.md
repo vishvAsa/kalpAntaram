@@ -46,8 +46,7 @@ This verse is quoted in *Nṛsiṃhaprasāda* (Saṃskāra, p. 17a);—in
 *Mahābhārata* (3.313.38).
 
 *Mahābhārata* (Vana, 314.131).—‘If protected, justice protects; if
-slain, it slays; therefore I shall never renounce justice; lest justice,
-being slain, may slay ourselves.’
+slain, it slays; therefore I shall never renounce justice; lest justice, being slain, may slay ourselves.’
 </details>
 
 <details><summary>भारुचिः</summary>

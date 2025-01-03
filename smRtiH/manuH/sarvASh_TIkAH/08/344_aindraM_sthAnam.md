@@ -55,8 +55,7 @@ This is a valedictory description of things as they happen.—(344)
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Nārada* (18.30).—‘When the King seated on the throne of judgment, full
-of majesty, deals out punishment, equitable towards all creatures, he is
-called *Vaivasvata*.’
+of majesty, deals out punishment, equitable towards all creatures, he is called *Vaivasvata*.’
 
 *Śukranīti* (4.5.107).—‘For cases of murder, thieving, robbery and
 felonies, there is no fixed time; these should he adjudicated at once.’

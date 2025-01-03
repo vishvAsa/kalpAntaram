@@ -34,8 +34,7 @@ verse is quoted in *Prāyaścittaviveka* (pp. 216 and 534)
 **(verses 11.126-130)  
 **
 
-See Comparative notes for [Verse
-11.126].
+See Comparative notes for [Verse 11.126].
 </details>
 
 <details><summary>भारुचिः</summary>

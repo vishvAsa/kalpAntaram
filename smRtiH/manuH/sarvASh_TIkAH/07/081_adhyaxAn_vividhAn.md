@@ -30,23 +30,19 @@ who transact the king’s business as his agents,—*e.g*., elephant-keepers in 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 581), which explains ‘*kāryāṇī*’
-as ‘good and bad deeds.’
+This verse is quoted in *Aparārka* (p. 581), which explains ‘*kāryāṇī*’ as ‘good and bad deeds.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (1.320-321).—In several places he shall appoint officers,
-expert, clever and pure and ever careful regarding income, expenditure
-and the harem.’
+expert, clever and pure and ever careful regarding income, expenditure and the harem.’
 
 *Arthaśāstra* (p. 130).—‘The officer styled *Samāhartṛ* shall look after
-forts, kingdom (*e.g*., Revenue, Taxes, Customs and so forth), mines,
-bridges and dams, forests, cow-pens and trade-routes.’
+forts, kingdom (*e.g*., Revenue, Taxes, Customs and so forth), mines, bridges and dams, forests, cow-pens and trade-routes.’
 
 *Śukranīti* (2.234-236).—‘He should appoint many supervisors, or only
-one officer without supervisors, according to the importance of the
-charge. For other works he should appoint those who are fit.’
+one officer without supervisors, according to the importance of the charge. For other works he should appoint those who are fit.’
 </details>
 
 <details><summary>भारुचिः</summary>

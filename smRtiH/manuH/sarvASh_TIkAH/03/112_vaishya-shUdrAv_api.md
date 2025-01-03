@@ -35,8 +35,7 @@ This last clause has been added with a view to show that those here mentioned ar
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 *Parāśaramādhava* (Ācāra, p. 354) quotes this verse without
-comment;—also *Aparārka* (p. 152), which explains ‘*ānṛśaṃsyam*’ as
-‘*anaiṣṭhuryam*,’ ‘absence of hard-heartedness.’—It is quoted also in
+comment;—also *Aparārka* (p. 152), which explains ‘*ānṛśaṃsyam*’ as ‘*anaiṣṭhuryam*,’ ‘absence of hard-heartedness.’—It is quoted also in
 *Varṣakriyā-kaumudī* (p. 572), which explains ‘*Kuṭumbe*’ as ‘in the
 house’.
 </details>
@@ -46,8 +45,7 @@ house’.
 **(verses 3.110-112)  
 **
 
-See Comparative notes for [Verse
-3.110].
+See Comparative notes for [Verse 3.110].
 </details>
 
 <details><summary>Bühler</summary>

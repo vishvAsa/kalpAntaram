@@ -122,8 +122,7 @@ Nor is any such distinction (between *male* and *female*) made in the case of �
 
 (Verse 90 of others.)
 
-This verse is quoted in *Hāralatā*, which has the following
-notes:—‘*Pāṣaṇḍamāśṛtāḥ*’ applies to both men and women
+This verse is quoted in *Hāralatā*, which has the following notes:—‘*Pāṣaṇḍamāśṛtāḥ*’ applies to both men and women
 *Kāmataścarantyaḥ*’ are those who have had intercourse with numberless
 men,—for all those there are no after-death offerings;—and in
 *Śuddhikaumudī* (p. 80).
@@ -133,8 +132,7 @@ men,—for all those there are no after-death offerings;—and in
 
 **(verses 5.88-89)**
 
-See Comparative notes for [Verse
-5.88].
+See Comparative notes for [Verse 5.88].
 </details>
 
 <details><summary>Bühler</summary>

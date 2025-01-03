@@ -74,21 +74,11 @@ Or, he who intentionally transgresses the scriptural ordinance, this also is ‘
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Dinam*’—“The translation of the last words (*Shall fast during the
-next day muttering the Sāvitrī*) follows Govindarāja and Kullūka; while
-Medhātithi, Nārāyaṇa and Rāghavānanda state that the penance shall be
-performed *during the (next) day (or night*), and that he who neglects
-the evening prayer shall fast in the evening and repeat the Gāyatrī
-during the night.”—Buhler.
+‘*Dinam*’—“The translation of the last words (*Shall fast during the next day muttering the Sāvitrī*) follows Govindarāja and Kullūka; while Medhātithi, Nārāyaṇa and Rāghavānanda state that the penance shall be performed *during the (next) day (or night*), and that he who neglects the evening prayer shall fast in the evening and repeat the Gāyatrī during the night.”—Buhler.
 
-Medhātithi is not quite accurately represented here. For his view is
-clearly put in paras 2 and 3, on page 575 (Translation) where the view,
-that “if the offence is committed in the evening the reciting and
-fasting are to be done during the night”, has been rejected in
-unmistakable terms.
+Medhātithi is not quite accurately represented here. For his view is clearly put in paras 2 and 3, on page 575 (Translation) where the view, that “if the offence is committed in the evening the reciting and fasting are to be done during the night”, has been rejected in unmistakable terms.
 
-This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 447), as
-laying down an expiation for sleeping at sunrise;—and in
+This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 447), as laying down an expiation for sleeping at sunrise;—and in
 *Prāyaścittaviveka* (p. 398), as laying down the expiation for repeated
 delinquency.
 </details>
@@ -101,25 +91,19 @@ delinquency.
 *Viṣṇu* (8-53).—\[Reproduces Manu 220.\]
 
 *Gautama* (23.21).—‘The Religious Student before whom the Sun has risen
-shall remain without food during the day: and he who remains asleep at
-sunset should remain without food during the night, repeating the
-Sāvitrī.’
+shall remain without food during the day: and he who remains asleep at sunset should remain without food during the night, repeating the Sāvitrī.’
 
 *Āpastamba Dharmasūtra* (2.12-13, 14).—‘If asleep, he is forestalled by
-sunset, he shall remain without food, and silent, during the night; and
-in the morning, shall bathe and then speak;—if he is asleep at sunrise,
-he shall remain without food and silent during the day.’
+sunset, he shall remain without food, and silent, during the night; and in the morning, shall bathe and then speak;—if he is asleep at sunrise, he shall remain without food and silent during the day.’
 
 *Āpastamba Dharmasūtra* (2.12.22).—‘He who is forestalled by sunrise, he
 who is forestalled by sunset, he with bad nails... are impure.’
 
 *Vaśiṣṭha* (20.4.6).—‘Forestalled by sunrise, he shall remain standing
-during the day and repeat the Sāvitrī;—similarly if he, while asleep, is
-forestalled by sunset, he shall sit up during the night.’
+during the day and repeat the Sāvitrī;—similarly if he, while asleep, is forestalled by sunset, he shall sit up during the night.’
 
 *Vaśiṣṭha* (1.17).—‘He who is forestalled by sunrise, he who is
-forestalled by sunset, who has bad nails, who has black teeth...... are
-sinners.’
+forestalled by sunset, who has bad nails, who has black teeth...... are sinners.’
 </details>
 
 <details><summary>Bühler</summary>

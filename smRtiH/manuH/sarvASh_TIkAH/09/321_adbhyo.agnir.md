@@ -28,11 +28,7 @@ Similarly *Kṣatriyas* conquer everywhere; but when they behave arrogantly towa
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-“According to Rāghavānanda the statement that the Kṣatriyas sprang from
-the Brāhmaṇas is based on a Vedic passage. But Nārāyaṇa thinks that it
-alludes to a Paurāṇika story, according to which the Brāhmaṇas produced
-with the Kṣatriya females a new Kṣatriya race after the destruction of
-the second *varṇa* by Paraśurāma.”—Buhler.
+“According to Rāghavānanda the statement that the Kṣatriyas sprang from the Brāhmaṇas is based on a Vedic passage. But Nārāyaṇa thinks that it alludes to a Paurāṇika story, according to which the Brāhmaṇas produced with the Kṣatriya females a new Kṣatriya race after the destruction of the second *varṇa* by Paraśurāma.”—Buhler.
 
 This verse is found in the Mahābhārata 5.15.34; 12.56.24.
 
@@ -44,8 +40,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 152).
 **(verses 9.313-322)  
 **
 
-See Comparative notes for [Verse
-9.313].
+See Comparative notes for [Verse 9.313].
 </details>
 
 <details><summary>Bühler</summary>

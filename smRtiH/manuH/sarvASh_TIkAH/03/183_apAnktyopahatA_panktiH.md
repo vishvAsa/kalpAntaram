@@ -29,8 +29,7 @@ This verse does not sanction the feeding of men unworthy of company. All that it
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (13. 90, 24).—‘O chief of the Bharatas, these should be
-regarded as *sanctifiers of company*; these I am going to describe with
-reasons for the same; do please examine such Brāhmaṇas.’
+regarded as *sanctifiers of company*; these I am going to describe with reasons for the same; do please examine such Brāhmaṇas.’
 
 *Mahābhārata* (37).—‘These sanctify the company so far as they see them;
 that is why they are called the *sanctifiers of company*.’

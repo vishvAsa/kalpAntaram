@@ -36,8 +36,7 @@ Thus, the foregoing texts having sanctioned the appointing of such sons, and the
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 574);—and in *Aparārka*
-(p. 97).
+This verse is quoted in *Vivādaratnākara* (p. 574);—and in *Aparārka* (p. 97).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -48,10 +47,7 @@ This verse is quoted in *Vivādaratnākara* (p. 574);—and in *Aparārka*
 After one’s death, the son belongs to the begetter.’
 
 *Āpastamba* (2-13.6-10).—‘A Brāhmaṇa text says—“The son belongs to the
-begetter.”—They quote also the following—“Having considered myself
-formerly a father, I shall not now allow my wives to be approached by
-other men; since they have declared that a son belongs to the
-begetter...... In the next world, the son belongs to the begetter.”’
+begetter.”—They quote also the following—“Having considered myself formerly a father, I shall not now allow my wives to be approached by other men; since they have declared that a son belongs to the begetter...... In the next world, the son belongs to the begetter.”’
 </details>
 
 <details><summary>भारुचिः</summary>

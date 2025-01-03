@@ -29,8 +29,7 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 409);—and in
 **(verses 7.110-113)  
 **
 
-See Comparative notes for [Verse
-7.110].
+See Comparative notes for [Verse 7.110].
 </details>
 
 <details><summary>Bühler</summary>

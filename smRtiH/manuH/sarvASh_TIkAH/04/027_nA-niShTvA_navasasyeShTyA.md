@@ -56,8 +56,7 @@ the author of the *Sūtra* has said is—‘The Āgrayaṇa is to be performed w
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gobhila-Smṛti* (3.94).—‘The man who eats new grains without having
-offered it in sacrifice, for him the expiation consists in making the
-Vaiśvānara offering.’
+offered it in sacrifice, for him the expiation consists in making the Vaiśvānara offering.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -26,10 +26,7 @@ These men, whose ‘*conduct*’—line of action—is ‘reprehensible.’ The 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 688) and (on p.
-694) explains ‘*ubhayatrāpi varjayet*’ as ‘a11 these men are to be
-excluded from both kinds of rites—those in honour of the Gods as well as
-those in honour of the Pitṛs’;—and in *Hemādri* (Śrāddha, p. 482).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 688) and (on p. 694) explains ‘*ubhayatrāpi varjayet*’ as ‘a11 these men are to be excluded from both kinds of rites—those in honour of the Gods as well as those in honour of the Pitṛs’;—and in *Hemādri* (Śrāddha, p. 482).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -38,8 +35,7 @@ those in honour of the Pitṛs’;—and in *Hemādri* (Śrāddha, p. 482).
 at gifts; these should be avoided with great care—so Yama has declared.’
 
 *Viṣṇu* (82.30).—‘These have been declared to be low Brāhmaṇas, defilers
-of the line; the wise man should avoid them with great care at the
-performance of Śrāddha.’
+of the line; the wise man should avoid them with great care at the performance of Śrāddha.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -30,11 +30,7 @@ By doing this—*i.e*., by keeping the observances,—‘*to the best of his abi
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 217), which adds the following
-notes:—‘*Nitya*’ here stands for all that is done without any desire for
-personal gain’;—‘*paramā gatiḥ*’ means ‘deliverance’;—what is meant is
-that what leads to Deliverance is the performance of duty along with the
-true knowledge of the Supreme Self.
+This verse is quoted in *Aparārka* (p. 217), which adds the following notes:—‘*Nitya*’ here stands for all that is done without any desire for personal gain’;—‘*paramā gatiḥ*’ means ‘deliverance’;—what is meant is that what leads to Deliverance is the performance of duty along with the true knowledge of the Supreme Self.
 
 The verse is quoted also in *Parāśaramādhava* (Ācāra, p. 52),—and in
 *Vīramitrodaya* (Paribhāṣā, p. 48).

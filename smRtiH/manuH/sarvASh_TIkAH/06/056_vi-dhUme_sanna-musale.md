@@ -28,9 +28,7 @@ When the pestles have ‘*ceased to ply*’—*i.e*., kept aside.—(56)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 3.59);—in *Madanapārijāta* (p.
-375);—in *Parāśaramādhava* (Ācāra, p. 562);—and in *Saṃskāramayūkha* (p.
-135).
+This verse is quoted in *Mitākṣarā* (on 3.59);—in *Madanapārijāta* (p. 375);—in *Parāśaramādhava* (Ācāra, p. 562);—and in *Saṃskāramayūkha* (p. 135).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -39,18 +37,13 @@ This verse is quoted in *Mitākṣarā* (on 3.59);—in *Madanapārijāta* (p.
 same house.’
 
 *Baudhāyana* (2.11-22).—‘He shall go to beg when the pestle lies
-motionless, when the embers have been extinguished and when the cleaning
-of the vessels has been finished.’
+motionless, when the embers have been extinguished and when the cleaning of the vessels has been finished.’
 
 *Baudhāyana* (2.18.4-6).—‘Now follows the rule for begging. He shall beg
-of Brāhmaṇas with houses (*Śāliṇa*) and those who lead a wandering life
-(), after they have finished their Vaiśvadeva-offerings. He shall beg it
-prefacing with the term *Bhavat*; he shall stand hogging no longer than
-the time required for milking a cow.’
+of Brāhmaṇas with houses (*Śāliṇa*) and those who lead a wandering life (), after they have finished their Vaiśvadeva-offerings. He shall beg it prefacing with the term *Bhavat*; he shall stand hogging no longer than the time required for milking a cow.’
 
 *Vaśiṣṭha* (10.7, 8).—‘Ho shall heg food at seven houses, which he has
-not selected beforehand,—at the time when the smoke of the kitchen fire
-has ceased and the pestle lies motionless.’
+not selected beforehand,—at the time when the smoke of the kitchen fire has ceased and the pestle lies motionless.’
 
 *Viṣṇu* (96.6).—‘He shall beg food from a house after the servants of
 the house have had their meal and when the dishes have been removed.’

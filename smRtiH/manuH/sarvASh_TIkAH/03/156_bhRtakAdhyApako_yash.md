@@ -44,15 +44,9 @@ a qualification that governs all that is said here, and it is only the teaching 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vāgduṣṭaḥ*’—‘who speaks rudely and falsely’ (Medhātithi);—‘who speaks
-rudely’ (Kullūka);—‘one who is accused of a serious offence’ (‘others’
-mentioned by Medhātithi, and Kullūka.)
+‘*Vāgduṣṭaḥ*’—‘who speaks rudely and falsely’ (Medhātithi);—‘who speaks rudely’ (Kullūka);—‘one who is accused of a serious offence’ (‘others’ mentioned by Medhātithi, and Kullūka.)
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 687), which (on p.
-693) adds that ‘*vāgduṣṭa*’ is ‘one of rude speech’;—in *Hemādri*
-(Śrāddha, p. 481);—in *Śrāddhakriyākaumudī* (p. 40), which explains
-‘*guruḥ*’ as ‘preceptor *of* *the Śūdra*,’ and ‘*vāgduṣṭaḥ*’ as ‘of
-harsh speech’;—and in *Nṛsiṃhaprasāda* (Śrāddha, p. 9a).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 687), which (on p. 693) adds that ‘*vāgduṣṭa*’ is ‘one of rude speech’;—in *Hemādri* (Śrāddha, p. 481);—in *Śrāddhakriyākaumudī* (p. 40), which explains ‘*guruḥ*’ as ‘preceptor *of* *the Śūdra*,’ and ‘*vāgduṣṭaḥ*’ as ‘of harsh speech’;—and in *Nṛsiṃhaprasāda* (Śrāddha, p. 9a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -60,8 +54,7 @@ harsh speech’;—and in *Nṛsiṃhaprasāda* (Śrāddha, p. 9a).
 **(verses 3.150-166)  
 **
 
-See Comparative notes for [Verse
-3.150].
+See Comparative notes for [Verse 3.150].
 </details>
 
 <details><summary>Bühler</summary>

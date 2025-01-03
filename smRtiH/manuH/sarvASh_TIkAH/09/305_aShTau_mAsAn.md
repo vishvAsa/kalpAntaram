@@ -24,8 +24,7 @@ The sun draws water gently, little by little,—and the King also shall realise 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 19), where
-‘*aṣṭau*’ is explained as eight months beginning with *Mārgaśīrṣa*.
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 19), where ‘*aṣṭau*’ is explained as eight months beginning with *Mārgaśīrṣa*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

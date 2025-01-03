@@ -26,9 +26,7 @@ the classification of sacrifices and other acts (as to which of these should be 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in the *Vīramitrodaya* — *Paribhāṣā*, p. 45;—and in
-the *Varṣakriyākaumudī* (p. 568), which explains ‘*Prabhuḥ*,’ ‘as
-Brahmā,’ and ‘*Anasūyayā*’ as ‘without dishonesty.’
+This verse is quoted in the *Vīramitrodaya* — *Paribhāṣā*, p. 45;—and in the *Varṣakriyākaumudī* (p. 568), which explains ‘*Prabhuḥ*,’ ‘as Brahmā,’ and ‘*Anasūyayā*’ as ‘without dishonesty.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -33,10 +33,7 @@ Having sought permission from the grandfather, the man himself may perform the *
 The first half of this verse is quoted without comment in
 *Madanapārijāta* (p. 542);—also in *Nirṇayasindhu* (p. 362);—and in
 *Śrāddhakriyākaumudī* (p. 554), which notes that ‘*Śrāddham*’ stands for
-the ‘Śrāddha-oflferings,’ the things offered; as the ‘*Śrāddha*’ itself
-cannot be eaten, the meaning is that the living grandfather should be
-fed on the substances offered at the Śrāddhas, and then the offerings
-made to the dead Father and Great-grandfather.
+the ‘Śrāddha-oflferings,’ the things offered; as the ‘*Śrāddha*’ itself cannot be eaten, the meaning is that the living grandfather should be fed on the substances offered at the Śrāddhas, and then the offerings made to the dead Father and Great-grandfather.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

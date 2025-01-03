@@ -24,10 +24,7 @@ When being wedded by a *Brāhmaṇa*, ‘*the Kṣatriya girl should take hold o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 835), which adds
-that what is meant by the phrase ‘*Kṣatriyayā grāhyaḥ*’ is that ‘the
-Kṣatriya girl should catch hold of the arrow already held by the
-bridegroom,’ and so on with the rest also.
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 835), which adds that what is meant by the phrase ‘*Kṣatriyayā grāhyaḥ*’ is that ‘the Kṣatriya girl should catch hold of the arrow already held by the bridegroom,’ and so on with the rest also.
 
 It is quoted also in *Parāśaramādhava* (Ācāra, p. 496);—and in
 *Smṛtitattva* (II, page 107).
@@ -36,20 +33,16 @@ It is quoted also in *Parāśaramādhava* (Ācāra, p. 496);—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (24.6-8).—‘In the marriage of girls of different castes, the
-Kṣatriya maiden should hold an arrow; the Vaiśya maiden, a goad; and the
-Śūdra maiden, the hem of the garment.’
+Kṣatriya maiden should hold an arrow; the Vaiśya maiden, a goad; and the Śūdra maiden, the hem of the garment.’
 
 *Yājñavalkya* (1.62).—‘The Kṣatriya maiden should hold the arrow; and
 Vaiśya maiden the goad, when they are being married to the Brāhmaṇa.’
 
 *Śaṅkha* (Parāśaramādhava, p. 496).—‘The Kṣatriya girl holds an arrow;
-the Vaiśya girl holds a goad; the Śūdra girl, the hem of the garment;
-the Brāhmaṇa should hold the hand of the girl of the same caste as
-himself.’
+the Vaiśya girl holds a goad; the Śūdra girl, the hem of the garment; the Brāhmaṇa should hold the hand of the girl of the same caste as himself.’
 
 *Paiṭhīnasi* (Parāśaramādhava, p. 490).—‘The Brāhmaṇa should hold the
-hand including the thumb; the Kṣatriya girl should hold an arrow, the
-Vaiśya girl, a goad; and the Śūdra girl, the hem of the garment.’
+hand including the thumb; the Kṣatriya girl should hold an arrow, the Vaiśya girl, a goad; and the Śūdra girl, the hem of the garment.’
 </details>
 
 <details><summary>Bühler</summary>

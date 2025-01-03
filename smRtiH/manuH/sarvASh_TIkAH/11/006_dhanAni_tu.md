@@ -25,9 +25,7 @@ the purpose of enabling the recipient to purchase the Soma and perform the Soma-
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 165);—and in *Parāśaramādhava*
-(Ācāra p. 157), to the effect that the Soma-sacrifice is to be performed
-only by one who is rich enough for the purpose.,
+This verse is quoted in *Aparārka* (p. 165);—and in *Parāśaramādhava* (Ācāra p. 157), to the effect that the Soma-sacrifice is to be performed only by one who is rich enough for the purpose.,
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -41,14 +39,10 @@ only by one who is rich enough for the purpose.,
 of a Soma-sacrifice shall not abstain from offering that sacrifice.’
 
 *Viṣṇu* (59.8-10).—‘He who has sufficient supply of food for three years
-shall perform the Soma-sacrifice;—he shall perform the Soma-sacrifice
-once a year during the Spring.—If he has less than that, he shall
-perform the *Vaiśvānarī* sacrifice.’
+shall perform the Soma-sacrifice;—he shall perform the Soma-sacrifice once a year during the Spring.—If he has less than that, he shall perform the *Vaiśvānarī* sacrifice.’
 
 *Yājñavalkya* (1.124).—‘The twice-born man who has a supply of food
-which is more than what he shall need for three years, should perform
-the Soma-sacrifice;—and one who has food enough for one year should
-perform the rites preliminary to the Soma-sacrifice.’
+which is more than what he shall need for three years, should perform the Soma-sacrifice;—and one who has food enough for one year should perform the rites preliminary to the Soma-sacrifice.’
 </details>
 
 <details><summary>Bühler</summary>

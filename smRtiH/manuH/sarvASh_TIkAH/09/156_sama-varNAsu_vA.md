@@ -54,12 +54,7 @@ Thus, the rule on this subject should be as that when there are no sons of the w
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 532), which adds the
-following explanation:—In cases where twice-born men have many sons from
-several wives of the same caste as themselves ,—*or* (as indicated by
-the term ‘*vā*’) many sons from several wives of diverse castes,—the
-sons shall divide the property equally after having given something to
-the eldest brother as his ‘additional share.’
+This verse is quoted in *Vivādaratnākara* (p. 532), which adds the following explanation:—In cases where twice-born men have many sons from several wives of the same caste as themselves ,—*or* (as indicated by the term ‘*vā*’) many sons from several wives of diverse castes,—the sons shall divide the property equally after having given something to the eldest brother as his ‘additional share.’
 
 It is quoted in *Smṛtitattva* II (p. 193).
 </details>
@@ -69,8 +64,7 @@ It is quoted in *Smṛtitattva* II (p. 193).
 **(verses 9.149-157)  
 **
 
-See Comparative notes for [Verse
-9.149](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201526.html#comparative-notes "English translation of verse").
+See Comparative notes for [Verse 9.149](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201526.html#comparative-notes "English translation of verse").
 </details>
 
 <details><summary>भारुचिः</summary>

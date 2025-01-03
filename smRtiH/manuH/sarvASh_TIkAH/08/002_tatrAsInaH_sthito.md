@@ -187,10 +187,7 @@ This verse is quoted in *Aparārka* (p. 600);—the second half in
 *Nṛsiṃhaprasāda* (p. 2a);—in *Smṛticandrikā* (Vyavahāra, p. 52), which
 says that ‘seated or standing’ is meant to predude *lying down* and
 *walking*;—in *Kṛtyakalpataru* (3a), which has the following
-notes:—‘*Vinīta*’ is calm and dignified’—‘*pāṇimudyamya*’, taking the
-hand out of the upper wrapper, *i.e*., having gathered together his
-clothes,—‘*paśyet*’ determine, decide,—‘*kāryāṇi*,’ non-payment of debt
-and so forth;—and in *Vīramitrodaya* (Vyavahāra, p. 40).
+notes:—‘*Vinīta*’ is calm and dignified’—‘*pāṇimudyamya*’, taking the hand out of the upper wrapper, *i.e*., having gathered together his clothes,—‘*paśyet*’ determine, decide,—‘*kāryāṇi*,’ non-payment of debt and so forth;—and in *Vīramitrodaya* (Vyavahāra, p. 40).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -198,8 +195,7 @@ and so forth;—and in *Vīramitrodaya* (Vyavahāra, p. 40).
 **(verses 8.1-2)  
 **
 
-See Comparative notes for [Verse
-8.1].
+See Comparative notes for [Verse 8.1].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -40,8 +40,7 @@ This verse is quoted in *Mitākṣarā* (3.291).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Śaṅkha* (Mitākṣarā, 3.290).—‘One who has eaten liquids turned sour in
-their unmixed form, or food kept overnight, or the leaves of the *Ṛcīka*
-plant, shall fast for three days.’
+their unmixed form, or food kept overnight, or the leaves of the *Ṛcīka* plant, shall fast for three days.’
 </details>
 
 <details><summary>भारुचिः</summary>

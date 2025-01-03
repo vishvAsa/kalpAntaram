@@ -44,8 +44,7 @@ He who is hostile to the King,—*i.e*., acts against him—‘*he doubtlessly p
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 392);—and in
 *Vīramitrodaya* (Rājanīti, p. 23), which adds the following
-notes:—‘*Tam*’ stands for the *king*,—‘*dveṣṭi*’ means ‘disobeys
-him’,—‘*Sa vinaśyati*’, ‘he becomes subjected by the king to death’.
+notes:—‘*Tam*’ stands for the *king*,—‘*dveṣṭi*’ means ‘disobeys him’,—‘*Sa vinaśyati*’, ‘he becomes subjected by the king to death’.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -53,8 +52,7 @@ him’,—‘*Sa vinaśyati*’, ‘he becomes subjected by the king to death’
 **(verses 7.3-13)  
 **
 
-See Comparative notes for [Verse
-7.3](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200663.html#comparative-notes "English translation of verse").
+See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200663.html#comparative-notes "English translation of verse").
 </details>
 
 <details><summary>भारुचिः</summary>

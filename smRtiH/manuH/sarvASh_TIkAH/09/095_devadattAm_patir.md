@@ -68,10 +68,7 @@ Or, she may be called ‘a present from the gods’ in the sense that during the
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Deva-dattā*’—‘Given by the gods, Bhaga, Aryaman, Savitṛ and the rest
-mentioned in the Vedic text recited during marriages’,—‘from Agni’
-(Nārāyaṇa);—‘from Soma, Agni and the Gandharvas’ (Medhātithi and
-Nandana).
+‘*Deva-dattā*’—‘Given by the gods, Bhaga, Aryaman, Savitṛ and the rest mentioned in the Vedic text recited during marriages’,—‘from Agni’ (Nārāyaṇa);—‘from Soma, Agni and the Gandharvas’ (Medhātithi and Nandana).
 
 This verse is quoted in *Vivādaratnākara* (p. 481).
 </details>
@@ -79,8 +76,7 @@ This verse is quoted in *Vivādaratnākara* (p. 481).
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (13.44.27).—‘That man obtains his wife as a gift from the
-gods is the teaching of the Law; he (who does not treat her well)
-falsifies the word of man and god.’
+gods is the teaching of the Law; he (who does not treat her well) falsifies the word of man and god.’
 
 [(See above, under
 1.28.)]

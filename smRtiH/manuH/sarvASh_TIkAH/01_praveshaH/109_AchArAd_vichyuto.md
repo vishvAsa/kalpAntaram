@@ -39,8 +39,7 @@ This is not right; because the term ‘full’ is purely commendatory \[and henc
 **(Verse 108-109)  
 **
 
-See Comparative notes for [Verse 1.108 (On morality \[right
-behaviour\])].
+See Comparative notes for [Verse 1.108 (On morality \[right behaviour\])].
 </details>
 
 <details><summary>Bühler</summary>

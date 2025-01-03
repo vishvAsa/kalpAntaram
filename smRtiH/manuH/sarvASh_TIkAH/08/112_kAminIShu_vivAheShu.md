@@ -121,26 +121,16 @@ In all these oases also the permission of false oath applies to only those eases
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtitattva* (II, p. 229), which adds the
-following notes:—‘*Kāminīṣu*,’ when conversing with a woman in secret
-one may swear falsely for the purpose of satisfying her;—similarly for
-the purpose of bringing about a marriage, for obtaining food for cows,
-for obtaining fuel necessary for offerings, and for saving a
-Brāhmaṇa;—and in *Vyavahāra-Bālambhaṭṭī* (p. 406).
+This verse is quoted in *Smṛtitattva* (II, p. 229), which adds the following notes:—‘*Kāminīṣu*,’ when conversing with a woman in secret one may swear falsely for the purpose of satisfying her;—similarly for the purpose of bringing about a marriage, for obtaining food for cows, for obtaining fuel necessary for offerings, and for saving a Brāhmaṇa;—and in *Vyavahāra-Bālambhaṭṭī* (p. 406).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (16.35).—‘Men may speak an untruth in marriage, during
-dalliance, when their lives are in danger, or the loss of their entire
-property is imminent, and for the sake of a Brāhmaṇa.’
+dalliance, when their lives are in danger, or the loss of their entire property is imminent, and for the sake of a Brāhmaṇa.’
 
 *Gautama* (23.29-31).—‘Some declare that an untruth spoken in marriage,
-during dalliance, in jest, or while one is in severe pain, is not
-reprehensible. But that is certainly not the case when the untruth
-concerns the *guru*; for if one lies even in his heart to his *guru*,
-regarding even small matters, he destroys himself, his seven descendants
-and seven ancestors.’
+during dalliance, in jest, or while one is in severe pain, is not reprehensible. But that is certainly not the case when the untruth concerns the *guru*; for if one lies even in his heart to his *guru*, regarding even small matters, he destroys himself, his seven descendants and seven ancestors.’
 </details>
 
 <details><summary>भारुचिः</summary>

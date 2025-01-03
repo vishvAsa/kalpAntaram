@@ -32,37 +32,28 @@ As regards the order to be observed in saluting the mother, the father and the T
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-The first half of the verse is quoted in *Parāśaramādhava* (Ācāra, p.
-306), in support of the view that the ‘grand-teacher’ also is to be
-treated like the teacher;—in *Vīramitrodaya* (Saṃskāra, p. 462), where
-‘*ani* *sṛṣṭaḥ*’ is explained as ‘*aniyuktaḥ*’, ‘not permitted’,—and
-‘*svāṅgurūm*’ as ‘uncles and other relations
+The first half of the verse is quoted in *Parāśaramādhava* (Ācāra, p. 306), in support of the view that the ‘grand-teacher’ also is to be treated like the teacher;—in *Vīramitrodaya* (Saṃskāra, p. 462), where ‘*ani* *sṛṣṭaḥ*’ is explained as ‘*aniyuktaḥ*’, ‘not permitted’,—and ‘*svāṅgurūm*’ as ‘uncles and other relations
 
-This verse is quoted in *Aparārka* (p. 54), which explains ‘*anisṛṣṭaḥ*’
-as ‘not permitted—in *Saṃskāramayūkha* (p. 46);—and in
+This verse is quoted in *Aparārka* (p. 54), which explains ‘*anisṛṣṭaḥ*’ as ‘not permitted—in *Saṃskāramayūkha* (p. 46);—and in
 *Yatidharmasaṅgraha* (p. 34).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Āpastamba Dharmasūtra* (1.8.19).—‘When the Teacher and the Teacher’s
-Teacher are seated together, he should clasp the feet of the latter and
-then those of the former.’
+Teacher are seated together, he should clasp the feet of the latter and then those of the former.’
 
 *Āpastamba Dharmasūtra* (1.6.29).—‘In the presence of the Ācārya, he
 should not clasp the feet of other Teachers of the lower grade.’
 
 *Gautama* (6. 3, 4).—‘Mother, father, relations, elders, intellectual
-teachers;—when all these are present, the preceding should be saluted
-before the succeeding.’
+teachers;—when all these are present, the preceding should be saluted before the succeeding.’
 
 *Viṣṇu* (28.29, 30).—‘When the Teacher’s Teacher is present, behaviour
-towards him should be like that towards the Teacher;—until permitted by
-the teacher, he should not salute his elders.’
+towards him should be like that towards the Teacher;—until permitted by the teacher, he should not salute his elders.’
 
 *Vaśiṣṭha* (13.22).—‘When the Teacher’s Teacher is present, the
-behaviour towards him is prescribed to be like that towards the
-Teacher.’
+behaviour towards him is prescribed to be like that towards the Teacher.’
 </details>
 
 <details><summary>Bühler</summary>

@@ -41,8 +41,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 275).
 
 **(verses 8.170-171)**
 
-See Comparative notes for [Verse
-8.170].
+See Comparative notes for [Verse 8.170].
 </details>
 
 <details><summary>भारुचिः</summary>

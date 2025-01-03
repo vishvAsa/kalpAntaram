@@ -84,59 +84,28 @@ The meaning is that, apart from the *Śrāddha* performed on the Moonless Day, n
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtitattva* on p. 174, as laying down that the
-Śrāddha during the ‘dark fortnight’ should be preformed on the Moonless
-Day;—on p. 35, II, as precluding the offering of Homa-libations in the
-ordinary fire;—and again on II, p. 136, to the same effect.
+This verse is quoted in *Smṛtitattva* on p. 174, as laying down that the Śrāddha during the ‘dark fortnight’ should be preformed on the Moonless Day;—on p. 35, II, as precluding the offering of Homa-libations in the ordinary fire;—and again on II, p. 136, to the same effect.
 
-It is quoted in *Vidhānapārijāta* (II, p. 615), which remarks that it
-appears as if it were forbidding the performance of Śrāddha by a man
-‘with the Fire’ on any but the Moonless Day; and proceeds to note that
-some people have taken this to mean that if a Śrāddha happens to fall on
-any other day, the man ‘with the Fire’ should do the ‘*saṅkalpa*’ on
-that day, but postpone the actual performance till the Moonless Day;—but
-trustworthy people have held that what is meant is that for the man
-‘with the Fire,’ even if there should arise the necessity of performing
-a Śrāddha on another day, he should always wait till the Moonless Day.
+It is quoted in *Vidhānapārijāta* (II, p. 615), which remarks that it appears as if it were forbidding the performance of Śrāddha by a man ‘with the Fire’ on any but the Moonless Day; and proceeds to note that some people have taken this to mean that if a Śrāddha happens to fall on any other day, the man ‘with the Fire’ should do the ‘*saṅkalpa*’ on that day, but postpone the actual performance till the Moonless Day;—but trustworthy people have held that what is meant is that for the man ‘with the Fire,’ even if there should arise the necessity of performing a Śrāddha on another day, he should always wait till the Moonless Day.
 
-This verse is quoted in *Nirṇayasindhu* (p. 111) which remarks that the
-first half assigns the reason for what is asserted in the second half.
-It quotes three opinions—(1) Some people accept this verse in its
-literal sense; (2) ‘our teachers’ hold that it is meant to forbid for
-the man ‘with the fire’ the performance of that Śrāddha only which is
-done in the form of the ‘*Piṇḍapitṛyajña*’;—(3) ‘our own opinion’ is
-that it serves to lay down that if any Śrāddha happens to fall on other
-days, the Man ‘with the fire’ should do it on the Moonless Day’;—in
+This verse is quoted in *Nirṇayasindhu* (p. 111) which remarks that the first half assigns the reason for what is asserted in the second half. It quotes three opinions—(1) Some people accept this verse in its literal sense; (2) ‘our teachers’ hold that it is meant to forbid for the man ‘with the fire’ the performance of that Śrāddha only which is done in the form of the ‘*Piṇḍapitṛyajña*’;—(3) ‘our own opinion’ is that it serves to lay down that if any Śrāddha happens to fall on other days, the Man ‘with the fire’ should do it on the Moonless Day’;—in
 *Puruṣārthacintāmaṇi* (p. 369), which reproduces the note from
 *Hemādri*;—in *Hemādri* (Śrāddha, p. 1679) which explains the meaning
-as—‘The Agnihotri should not perform any Śrāddha in which the
-ritualistic details of the *Darśa-Śrāddha* are not adopted’; that is, he
-should perform the Śrāddha only in the manner of the *Darśa-Śrāddha*; it
-does *not* mean that ‘he should not perform any Śrāddha except the
-Darśa’;—and in *Śrāddhakriyākaumudī* (p. 7), which rejects the view set
-forth by *Hemādri*, attributing it to Halāyudha.
+as—‘The Agnihotri should not perform any Śrāddha in which the ritualistic details of the *Darśa-Śrāddha* are not adopted’; that is, he should perform the Śrāddha only in the manner of the *Darśa-Śrāddha*; it does *not* mean that ‘he should not perform any Śrāddha except the Darśa’;—and in *Śrāddhakriyākaumudī* (p. 7), which rejects the view set forth by *Hemādri*, attributing it to Halāyudha.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇudharmottara* (Caturvargacintāmaṇi-Śrāddha, p. 2330).—‘One who has
-taken to the fire shall make the offerings into the Dakṣiṇāgni; one who
-is without the fire shall do it either in the Upasada fire, or, in the
-absence of fire, into the hands of a Brāhmaṇa, or in water.’
+taken to the fire shall make the offerings into the Dakṣiṇāgni; one who is without the fire shall do it either in the Upasada fire, or, in the absence of fire, into the hands of a Brāhmaṇa, or in water.’
 
 *Vāyupurāṇa* (Do.).—‘Having kindled either the Dakṣināgni, for purposes
-of Homa, or having kindled the ordinary fire simply for the purpose of
-having a fire, he shall offer the oblations for the accomplishment of
-the rite.’
+of Homa, or having kindled the ordinary fire simply for the purpose of having a fire, he shall offer the oblations for the accomplishment of the rite.’
 
 *Yājñavalkya* (1.97).—‘Every day the householder shall perform the
-Smārta rites in the marriage-fire, or in the fire kindled at the time of
-inheritance; and the Śrauta rites in the sacrificial fire.’
+Smārta rites in the marriage-fire, or in the fire kindled at the time of inheritance; and the Śrauta rites in the sacrificial fire.’
 
-Do. (1(?).236).—‘When going to pour the oblation into the fire, he shall
-take up the food overflowing with butter, and being permitted to go on
-with the offering, shall pour the oblation into the fire, in the manner
-of the Pitṛyajña.’
+Do. (1(?).236).—‘When going to pour the oblation into the fire, he shall take up the food overflowing with butter, and being permitted to go on with the offering, shall pour the oblation into the fire, in the manner of the Pitṛyajña.’
 </details>
 
 <details><summary>Bühler</summary>

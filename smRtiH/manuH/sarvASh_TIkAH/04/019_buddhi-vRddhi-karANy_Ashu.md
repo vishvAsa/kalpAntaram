@@ -38,21 +38,9 @@ If the term stood for the Vedic texts themselves, these would be conducive to im
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Nigamas*’—According to Medhātithi, the term *Nigamas* does not mean
-the *Aṅgas*, as stated by Buhler,—but it includes
-Nigama—Nirukta—Vyākaraṇa—Mīmāṃsā;—Kullūka explains the term as ‘works,
-called *Nigama*, explanatory of the meaning of the Veda’
+‘*Nigamas*’—According to Medhātithi, the term *Nigamas* does not mean the *Aṅgas*, as stated by Buhler,—but it includes Nigama—Nirukta—Vyākaraṇa—Mīmāṃsā;—Kullūka explains the term as ‘works, called *Nigama*, explanatory of the meaning of the Veda’
 
-This verse is quoted in *Aparārka* (p. 127), which explains ‘*Nigamān*’
-as ‘the Nighaṇṭu and other works that help in ascertaining the meanings
-of words’;—in *Vīramitrodaya* (Saṃskāra, p. 509) as laying down what
-should be studied;—in *Vīramitrodaya* (Āhnika, p. 155), which explains
-‘*buddhivṛddhikarāṇi*’ as ‘Tarka, Mīmāṃsā and the rest,’—*dhanyāni*’ as
-‘the *Arthaśāstras*, which are conducive to the acquisition of
-wealth,’—‘*hitāni*’ as ‘the Ayurveda and so forth,’—and ‘*nigamāḥ*’ as
-‘the Nighaṇṭu and other works that help in the understanding of the
-meanings of words’;—in *Saṃskāramayūkha* (p. 71);—and in *Smṛticandrikā*
-(p. 132).
+This verse is quoted in *Aparārka* (p. 127), which explains ‘*Nigamān*’ as ‘the Nighaṇṭu and other works that help in ascertaining the meanings of words’;—in *Vīramitrodaya* (Saṃskāra, p. 509) as laying down what should be studied;—in *Vīramitrodaya* (Āhnika, p. 155), which explains ‘*buddhivṛddhikarāṇi*’ as ‘Tarka, Mīmāṃsā and the rest,’—*dhanyāni*’ as ‘the *Arthaśāstras*, which are conducive to the acquisition of wealth,’—‘*hitāni*’ as ‘the Ayurveda and so forth,’—and ‘*nigamāḥ*’ as ‘the Nighaṇṭu and other works that help in the understanding of the meanings of words’;—in *Saṃskāramayūkha* (p. 71);—and in *Smṛticandrikā* (p. 132).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -60,12 +48,10 @@ meanings of words’;—in *Saṃskāramayūkha* (p. 71);—and in *Smṛticandr
 **(verses 4.19-20)**
 
 *Kūrmapurāṇa* (Parāśaramādhava, p. 246).—‘One shall teach the Veda, the
-Purāṇas and the subsidiary sciences to the person who is equipped with
-character, is of strong mind and is free from hypocrisy.’
+Purāṇas and the subsidiary sciences to the person who is equipped with character, is of strong mind and is free from hypocrisy.’
 
 *Dakṣa* (Parāśaramādhava, p. 34).—‘The getting-up of the Veda, the
-pondering over it, its continuous study, *Japa*, and imparting it to
-pupils,—thus fivefold is *Vedic Study*.’
+pondering over it, its continuous study, *Japa*, and imparting it to pupils,—thus fivefold is *Vedic Study*.’
 
 *Dakṣa* (p. 71).—‘For these reasons, one shall continuously study the
 Veda.’
@@ -74,13 +60,10 @@ Veda.’
 the Veda and also the various sciences.’
 
 *Āpastamba* (Vīramitrodaya-Āhnika, p. 154).—‘If there is any science in
-which he does not shine, that he should acquire by going to the teacher
-again.’
+which he does not shine, that he should acquire by going to the teacher again.’
 
 *Āpastamba* (Vīramitrodaya-Āhnika, p. 154).—‘Śvetaketu has declared that
-even after settling down in the house, the man shall reside for two
-months in the year with the Teacher, seeking for further knowledge. This
-however is forbidden by the scriptures.’
+even after settling down in the house, the man shall reside for two months in the year with the Teacher, seeking for further knowledge. This however is forbidden by the scriptures.’
 </details>
 
 <details><summary>Bühler</summary>

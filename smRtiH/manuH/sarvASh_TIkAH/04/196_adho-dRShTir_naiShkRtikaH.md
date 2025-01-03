@@ -40,9 +40,7 @@ We explain as follows:—The latter (one who is *heron-like*) is bent upon accom
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in Mitākṣarā (on 1.130);—in *Aparārka* (p. 170),
-which explains ‘*śaṭha*’ as ‘stuck up’;—and in *Saṃskāramayūkha* (p.
-66).
+This verse is quoted in Mitākṣarā (on 1.130);—in *Aparārka* (p. 170), which explains ‘*śaṭha*’ as ‘stuck up’;—and in *Saṃskāramayūkha* (p. 66).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -50,8 +48,7 @@ which explains ‘*śaṭha*’ as ‘stuck up’;—and in *Saṃskāramayūkha
 **(verses 4.195-199)  
 **
 
-See Comparative notes for [Verse
-4.195].
+See Comparative notes for [Verse 4.195].
 </details>
 
 <details><summary>Bühler</summary>

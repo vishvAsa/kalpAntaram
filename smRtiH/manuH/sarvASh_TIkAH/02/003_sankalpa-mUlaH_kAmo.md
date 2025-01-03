@@ -55,16 +55,11 @@ killing* and so forth.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Saṅkalpamūlaḥ kārnaḥ*’—Nandana explains this as—‘The desire for
-rewards is the root of the will to act.’
+‘*Saṅkalpamūlaḥ kārnaḥ*’—Nandana explains this as—‘The desire for rewards is the root of the will to act.’
 
-‘*Vratāni*’—The term stands for all those duties that one makes up his
-mind to perform all through life,—according to Medhātithi, Govindarāja
-and Nārāyaṇa;—‘the vow of the Religious Student’—according to Nandana.
+‘*Vratāni*’—The term stands for all those duties that one makes up his mind to perform all through life,—according to Medhātithi, Govindarāja and Nārāyaṇa;—‘the vow of the Religious Student’—according to Nandana.
 
-‘*Yamadharmāḥ*’—‘The prohibitive rules’ (Medhātithi, Govindarāja and
-Nārāyaṇa);—‘the rules pertaining to the Recluse and the Renunciate’
-(Nandana).
+‘*Yamadharmāḥ*’—‘The prohibitive rules’ (Medhātithi, Govindarāja and Nārāyaṇa);—‘the rules pertaining to the Recluse and the Renunciate’ (Nandana).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -73,9 +68,7 @@ Nārāyaṇa);—‘the rules pertaining to the Recluse and the Renunciate’
 reflection is the source of Dharma.’
 
 [*Āpastaṃba, Dharmasūtra*,
-1.5](/hinduism/book/apastamba-dharma-sutra/d/doc116237.html "English translation").—‘They
-teach that whatever one determines and thinks of with the mind, or
-speaks of with speech, or sees with the eyes,—he becomes that same.’
+1.5](/hinduism/book/apastamba-dharma-sutra/d/doc116237.html "English translation").—‘They teach that whatever one determines and thinks of with the mind, or speaks of with speech, or sees with the eyes,—he becomes that same.’
 
 *Bhagavadgītā*—‘Desires have their source in the will,’
 </details>

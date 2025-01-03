@@ -29,8 +29,7 @@ Similarly he shall not prevent her calf from drinking her milk.—(114)
 **(verses 11.108-116)  
 **
 
-See Explanatory notes for [Verse
-11.108].
+See Explanatory notes for [Verse 11.108].
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -38,8 +37,7 @@ See Explanatory notes for [Verse
 **(verses 11.108-116)  
 **
 
-See Comparative notes for [Verse
-11.108].
+See Comparative notes for [Verse 11.108].
 </details>
 
 <details><summary>Bühler</summary>

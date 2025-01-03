@@ -26,9 +26,7 @@ Two of these technical terms occur in the beginning of Baudhāyana’s
 *Gṛhyasūtra*, and four in Pāraskara’s *Gṛhyasūtra* 1.4.1, as well as in
 Śāṅkhāyana’s 1.5.1.
 
-This verse is quoted, without comment, in *Vīramitrodaya* (Āhnika, p.
-392);—and in *Aparārka* (p. 142), which adds that these are the names
-for the ‘five sacrifices.’
+This verse is quoted, without comment, in *Vīramitrodaya* (Āhnika, p. 392);—and in *Aparārka* (p. 142), which adds that these are the names for the ‘five sacrifices.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -40,8 +38,7 @@ for the ‘five sacrifices.’
 Prahuta, and Prāśita.’
 
 *Āśvalāyana-Gṛhyasūtra* (1.1.3).—‘The *Huta* are those offered into the
-fire; those not offered into the fire are the*Prahuta*; and the feeding
-of Brāhmaṇas constitutes the *Brahmaṇi-huta*.’
+fire; those not offered into the fire are the*Prahuta*; and the feeding of Brāhmaṇas constitutes the *Brahmaṇi-huta*.’
 </details>
 
 <details><summary>Bühler</summary>

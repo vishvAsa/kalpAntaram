@@ -38,12 +38,7 @@ If a once-born person insults a twice-born one with gross abuse, he should suffe
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 149), which adds the
-following notes:—No special stress is meant to be laid here on the
-mention of the ‘twice-born’ (what is stated being equally applicable to
-all castes);—‘*vyatikrame*’ means *defamation*, other than the
-divulging, of *a secret*, which latter is what is spoken of by the
-phrase ‘*vāde avacanīye*.’
+This verse is quoted in *Vivādaratnākara* (p. 149), which adds the following notes:—No special stress is meant to be laid here on the mention of the ‘twice-born’ (what is stated being equally applicable to all castes);—‘*vyatikrame*’ means *defamation*, other than the divulging, of *a secret*, which latter is what is spoken of by the phrase ‘*vāde avacanīye*.’
 
 It is quoted in *Vīramitrodaya* (Vyavahāra, 49a).
 </details>
@@ -53,8 +48,7 @@ It is quoted in *Vīramitrodaya* (Vyavahāra, 49a).
 **(verses 8.267-270)  
 **
 
-See Comparative notes for [Verse
-8.267].
+See Comparative notes for [Verse 8.267].
 </details>
 
 <details><summary>भारुचिः</summary>

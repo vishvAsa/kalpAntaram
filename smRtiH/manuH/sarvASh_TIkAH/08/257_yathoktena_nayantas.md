@@ -30,21 +30,16 @@ If, on reference to other proofs and to other more reliable witnesses, it is fou
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (2.153), as laying down the penalty
-for witnesses lying in connection with boundaries;—in *Vivādaratnākara*
-(p. 211), which explains ‘*Satyasākṣinaḥ*’ as ‘those persons who depose
-truthfully to the boundary,’—and ‘*dviśatam*’ as ‘two hundred
+This verse is quoted in *Mitākṣarā* (2.153), as laying down the penalty for witnesses lying in connection with boundaries;—in *Vivādaratnākara* (p. 211), which explains ‘*Satyasākṣinaḥ*’ as ‘those persons who depose truthfully to the boundary,’—and ‘*dviśatam*’ as ‘two hundred
 *paṇas*’;—in *Vyavahāramayūkha* (p. 97);—in *Vivādacintāmaṇi* (p.
-95);—in *Kṛtyakalpataru* (112a);—and in *Vīramitrodaya* (Vyavahāra,
-141a).
+95);—in *Kṛtyakalpataru* (112a);—and in *Vīramitrodaya* (Vyavahāra, 141a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 **(verses 8.253-264)**
 
-See Comparative notes for [Verse
-8.253].
+See Comparative notes for [Verse 8.253].
 </details>
 
 <details><summary>भारुचिः</summary>

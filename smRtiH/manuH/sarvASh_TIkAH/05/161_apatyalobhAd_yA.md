@@ -32,8 +32,7 @@ This verse is quoted in *Mitākṣarā* (on 2.127) as deprecating
 **(verses 5.154-163)  
 **
 
-See Comparative notes for [Verse
-5.154].
+See Comparative notes for [Verse 5.154].
 </details>
 
 <details><summary>Bühler</summary>

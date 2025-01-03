@@ -32,8 +32,7 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 362).
 **(verses 3.174-175)  
 **
 
-See Comparative notes for [Verse
-3.175].
+See Comparative notes for [Verse 3.175].
 </details>
 
 <details><summary>Bühler</summary>

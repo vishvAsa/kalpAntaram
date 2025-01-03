@@ -30,24 +30,17 @@ The pronoun ‘those’ refers to those mentiond in the present context; and, it
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vidhivat*’—‘Giving to the Brāhmaṇa invited in honour of the Father a
-piece out of the Ball offered to the Father, and so forth’
-(Kullūka);—‘after they have sipped water, and so forth’ (Nārāyaṇa).
+‘*Vidhivat*’—‘Giving to the Brāhmaṇa invited in honour of the Father a piece out of the Ball offered to the Father, and so forth’ (Kullūka);—‘after they have sipped water, and so forth’ (Nārāyaṇa).
 
-“Nandana inserts here verse 223 and states that it is explanatory of the
-term ‘according to rule.’”—Buhler.
+“Nandana inserts here verse 223 and states that it is explanatory of the term ‘according to rule.’”—Buhler.
 
-This verse is quoted in *Śrāddhakriyākaumudī* (p. 326);—and in *Hemādri*
-(Śrāddha, p. 1476).
+This verse is quoted in *Śrāddhakriyākaumudī* (p. 326);—and in *Hemādri* (Śrāddha, p. 1476).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Matsya-Purāṇa* (quoted in *Caturvarga-cintāmaṇi-*Śrāddha, p.
-24-76).—‘Having taken, in due order, portions out of the balls, the man
-shall, with due care, have them eaten by those same Brāhmaṇas. Having at
-first placed in their hands the pavitra-kuśa along with water and
-sesamum, he shall offer the portions of the balls, saying
+24-76).—‘Having taken, in due order, portions out of the balls, the man shall, with due care, have them eaten by those same Brāhmaṇas. Having at first placed in their hands the pavitra-kuśa along with water and sesamum, he shall offer the portions of the balls, saying
 *svadhaiṣāmastu*.’
 </details>
 

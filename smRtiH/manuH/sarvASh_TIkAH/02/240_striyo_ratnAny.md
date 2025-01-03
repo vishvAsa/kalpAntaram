@@ -34,8 +34,7 @@ Wives, gems, learning, virtue, purity, wise saying and the various arts may be o
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Striyo ratnāni*’—‘Wives, gems’ (Medhātithi and Govindarāja);—‘gem-like
-wives’ (Rāghavānanda).
+‘*Striyo ratnāni*’—‘Wives, gems’ (Medhātithi and Govindarāja);—‘gem-like wives’ (Rāghavānanda).
 
 This verse occurs in *Devalasmṛti* also (quoted in
 *Vīramitrodaya-Saṃskāra*, p. 514).

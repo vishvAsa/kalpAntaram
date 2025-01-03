@@ -21,13 +21,7 @@ Out of the profit on all these articles, the sixth part shall be token by the Ki
 
 **(verses 7.131-132)**
 
-These two verses are quoted in *Vīramitrodaya* (Rājanīti, p. 161), which
-adds the following notes:—‘*Dru*’ is *tree*,—‘*māṃsa*,’ flesh of the
-goat and other animals,—‘*madhu*,’ honey, ‘*sarpiḥ*,’ clarified butter,
-‘*gandha*’ sandal-wood and the like,—‘*oṣadhi*,’ *guḍūci* and the
-rest,—‘*rasa*,’ salt and the like,—‘*puṣpa*,’ Champaka and the
-rest,—‘*mūlāni*,’ the *Haridrā* and so forth,—‘*patra*’ the palm-leaf
-and the like.
+These two verses are quoted in *Vīramitrodaya* (Rājanīti, p. 161), which adds the following notes:—‘*Dru*’ is *tree*,—‘*māṃsa*,’ flesh of the goat and other animals,—‘*madhu*,’ honey, ‘*sarpiḥ*,’ clarified butter, ‘*gandha*’ sandal-wood and the like,—‘*oṣadhi*,’ *guḍūci* and the rest,—‘*rasa*,’ salt and the like,—‘*puṣpa*,’ Champaka and the rest,—‘*mūlāni*,’ the *Haridrā* and so forth,—‘*patra*’ the palm-leaf and the like.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -41,13 +35,10 @@ meat, grass and fire-wood,—one sixtieth.’
 his subjects.’
 
 *Viṣṇu* (3.25).—‘A sixth part of flesh, honey, clarified butter, herbs,
-perfumes, flowers, fruits, roots, liquids and condiments, wood, leaves,
-skins, earthen pots, stone vessels and things made of split bamboo.’
+perfumes, flowers, fruits, roots, liquids and condiments, wood, leaves, skins, earthen pots, stone vessels and things made of split bamboo.’
 
 *Viṣṇudharmottara* (Vīramitrodaya-Rājanīti, p. 261).—‘Of perfumes,
-medicinal herbs, liquids and condiments, flowers, roots, fruits, leaves,
-vegetables, grasses, skins, bamboo-articles, vessels, and all articles
-of stone,—a sixth part should be taken.’
+medicinal herbs, liquids and condiments, flowers, roots, fruits, leaves, vegetables, grasses, skins, bamboo-articles, vessels, and all articles of stone,—a sixth part should be taken.’
 </details>
 
 <details><summary>भारुचिः</summary>

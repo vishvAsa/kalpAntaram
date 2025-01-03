@@ -42,23 +42,13 @@ such oaths and the doing of such verbal givings and sellings.
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Agāradāhī*’—‘An incendiary; as also (according to Nandana) one who
-burns corpses for money’.
+‘*Agāradāhī*’—‘An incendiary; as also (according to Nandana) one who burns corpses for money’.
 
-‘*Kuṇḍāśī*’—‘One who eats the food of the son of an adultress’
-(Medhātithi and Kullūka) ‘the glutton who eats sixty *palas* of rice’
-(Nārāyaṇa).
+‘*Kuṇḍāśī*’—‘One who eats the food of the son of an adultress’ (Medhātithi and Kullūka) ‘the glutton who eats sixty *palas* of rice’ (Nārāyaṇa).
 
-‘*Kūtakārakaḥ*’—‘The perjuring witness’ (Medhātithi, Rāghavānanda and
-also Kullūka, whose explanation does not differ from Medhātithi’s as
-noted by Buhler);—Medhātithi explains the word as ‘*Sākṣyeṣvanṛtavādī*,’
-and Kullūka as ‘*Sākṣivāde mṛṣāvādasya-kartā*’;—‘any one who commits
-fraud, *i.e*. a forger, a falsifier of weights and measures’ (Nārāyaṇa
-and Nandana).
+‘*Kūtakārakaḥ*’—‘The perjuring witness’ (Medhātithi, Rāghavānanda and also Kullūka, whose explanation does not differ from Medhātithi’s as noted by Buhler);—Medhātithi explains the word as ‘*Sākṣyeṣvanṛtavādī*,’ and Kullūka as ‘*Sākṣivāde mṛṣāvādasya-kartā*’;—‘any one who commits fraud, *i.e*. a forger, a falsifier of weights and measures’ (Nārāyaṇa and Nandana).
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 687) without any
-comment;—in *Hemādri* (Śrāddha, p. 481);—and in *Nṛsiṃhaprasāda*
-(Śrāddha, p. 9a).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 687) without any comment;—in *Hemādri* (Śrāddha, p. 481);—and in *Nṛsiṃhaprasāda* (Śrāddha, p. 9a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -66,8 +56,7 @@ comment;—in *Hemādri* (Śrāddha, p. 481);—and in *Nṛsiṃhaprasāda*
 **(verses 3.150-166)  
 **
 
-See Comparative notes for [Verse
-3.150].
+See Comparative notes for [Verse 3.150].
 </details>
 
 <details><summary>Bühler</summary>

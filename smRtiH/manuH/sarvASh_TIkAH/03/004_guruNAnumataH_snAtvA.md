@@ -100,67 +100,31 @@ This, however, is not right. Religious acts are as much conducive to the fulfilm
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 462) simply as
-laying down marriage;—in *Madanapārijāta* (p. 131) as indicating the
-necessity for marriage;—also in *Vidhānapārijāta* (p. 673);—in
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 462) simply as laying down marriage;—in *Madanapārijāta* (p. 131) as indicating the necessity for marriage;—also in *Vidhānapārijāta* (p. 673);—in
 *Vīramitrodaya* (Saṃskāra, p. 567), as indicating that the ‘Final Bath’
-spoken of above (in 1. 245) is meant to be for the purpose of
-marriage;—on the ground that the Bath is here spoken of in connection
-with the twice-born person *who is going to marry*; while we do not meet
-with any such assertion as ‘Having bathed, he should betake himself to
-the forest,’ or that ‘having bathed,’ he should bike to Renunciation;—in
-the same work on p. 585, in support of the view that Marriage is meant
-to be conducive to the fulfilment of the man’s purpose, the following
-notes are added:—the term ‘*dvija*’ serves to show that it is only the
-twice-born person *endowed with the above-mentioned qualifications* that
-is entitled to marriage; and it does not mean that any and every
-twice-born person is entitled to it; and that this is so is clear from
-the fact that marriage has been laid down only for one who has had his
-Initiation and has taken the ‘Final Bath’ of the Studentship. Nor again
-can the term ‘*dvija*’ be taken as precluding others; as in that case
-there would be no marriage for the *Śūdra*. From all this it follows
-that the present text should be taken as enjoining a particular act as
-pertaining to a particularly qualified person.—The term ‘*bhāryā*,’
-‘wife,’ has been used in view of the future status of the girl; so that
-the meaning of the injunction comes to be that ‘he should bring into
-existence a *wife* by means of the marriage-ceremony.’—The term
-‘*Savarṇā*,’ ‘of the same caste’ is meant to indicate that such a
-marriage would be in its principal form: and it does not preclude the
-marrying of girls of other castes; this is in fact sanctioned by other
-texts.
+spoken of above (in 1. 245) is meant to be for the purpose of marriage;—on the ground that the Bath is here spoken of in connection with the twice-born person *who is going to marry*; while we do not meet with any such assertion as ‘Having bathed, he should betake himself to the forest,’ or that ‘having bathed,’ he should bike to Renunciation;—in the same work on p. 585, in support of the view that Marriage is meant to be conducive to the fulfilment of the man’s purpose, the following notes are added:—the term ‘*dvija*’ serves to show that it is only the twice-born person *endowed with the above-mentioned qualifications* that is entitled to marriage; and it does not mean that any and every twice-born person is entitled to it; and that this is so is clear from the fact that marriage has been laid down only for one who has had his Initiation and has taken the ‘Final Bath’ of the Studentship. Nor again can the term ‘*dvija*’ be taken as precluding others; as in that case there would be no marriage for the *Śūdra*. From all this it follows that the present text should be taken as enjoining a particular act as pertaining to a particularly qualified person.—The term ‘*bhāryā*,’ ‘wife,’ has been used in view of the future status of the girl; so that the meaning of the injunction comes to be that ‘he should bring into existence a *wife* by means of the marriage-ceremony.’—The term ‘*Savarṇā*,’ ‘of the same caste’ is meant to indicate that such a marriage would be in its principal form: and it does not preclude the marrying of girls of other castes; this is in fact sanctioned by other texts.
 
-The same work quotes the verse again on page 747, as laying down the
-‘principal’ wife ordained for man.
+The same work quotes the verse again on page 747, as laying down the ‘principal’ wife ordained for man.
 
 *Vīramitrodaya* again in its ‘*Lakṣaṇa*’ section (p. 118) quotes the
 second half of this verse under the ‘the characteristics of women.’
 
-It is quoted also in *Smṛtitattva* (p. 940) to the effect that
-‘*Samāvartana*’ is another name for the concluding rites of
-Studentship;—in *Aparārka* (p. 76) as indicating that the ‘Bath’ is
-distinct from the *Samāvartana* ceremony;—in *Hemādri* (Dāna, p.
-680);—in *Saṃskāraratnamālā* (p. 403);—and in *Nṛsiṃhaprasāda*
-(Saṃskāra, p. 49a.)
+It is quoted also in *Smṛtitattva* (p. 940) to the effect that ‘*Samāvartana*’ is another name for the concluding rites of Studentship;—in *Aparārka* (p. 76) as indicating that the ‘Bath’ is distinct from the *Samāvartana* ceremony;—in *Hemādri* (Dāna, p. 680);—in *Saṃskāraratnamālā* (p. 403);—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 49a.)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (8. 1).—‘The Householder, with anger and joy under control,
-when permitted by the teacher, should take up a wife of the same grade
-as himself, younger in age, not having the same sage (as an ancestor),
-and who has not had intercourse.’
+when permitted by the teacher, should take up a wife of the same grade as himself, younger in age, not having the same sage (as an ancestor), and who has not had intercourse.’
 
 *Yājñavalkya* (1. 52).—‘Having gone through his studentship intact, he
-should marry a qualified girl, one who has not belonged to another man,
-loving and younger in age, who is not a *Sapiṇḍa*.’
+should marry a qualified girl, one who has not belonged to another man, loving and younger in age, who is not a *Sapiṇḍa*.’
 
 *Āśvalāyana Gṛhyasūtra* (1. 5. 3).—‘One should marry a girl who is free
-from disease and endowed with intelligence, beauty, modesty and other
-good qualities.’
+from disease and endowed with intelligence, beauty, modesty and other good qualities.’
 
 *Āśvalāyana Gṛhyasūtra* (3. 9. 4).—‘On the completion of his study, he
-should approach the teacher with presets and then, permitted by him, he
-should take the Bath.’
+should approach the teacher with presets and then, permitted by him, he should take the Bath.’
 
 *Pāraskara Gṛhyāsūtra* (2. 6.1-4).—‘Having finished the Veda,he should
 take the Bath;...............permitted by the teacher.’
@@ -169,15 +133,13 @@ take the Bath;...............permitted by the teacher.’
 Puṣya-Asterism,—one who is endowed with comendable qualities.’
 
 *Gobhila Gṛhyasūtra* (3. 4. 1-3).—‘The Religious Student, having studied
-the Veda, and having offered presents to the Teacher, should take a
-wife, after being permitted by the Teacher.’
+the Veda, and having offered presents to the Teacher, should take a wife, after being permitted by the Teacher.’
 
 *Vyāsa* (Vīra-Saṃskāra, p. 586).—‘Having taken the Bath, one should
 marry a girl of one’s own caste, endowed with good qualities.’
 
 *Dakṣa* (Vīra-Saṃskāra, p. 586).—‘Having, with due effort, studied the
-Veda both verbally and intelligently, he shall marry a girl endowed with
-good qualities, after having previously taken the Bath.’
+Veda both verbally and intelligently, he shall marry a girl endowed with good qualities, after having previously taken the Bath.’
 </details>
 
 <details><summary>Bühler</summary>

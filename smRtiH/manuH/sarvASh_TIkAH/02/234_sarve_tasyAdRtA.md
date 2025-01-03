@@ -30,8 +30,7 @@ This verse is purely commendatory. The fact of the matter is that the injunction
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 336) along with
-verse 233;—and in *Smṛticandrikā* (Saṃskāra, p. 95).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 336) along with verse 233;—and in *Smṛticandrikā* (Saṃskāra, p. 95).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

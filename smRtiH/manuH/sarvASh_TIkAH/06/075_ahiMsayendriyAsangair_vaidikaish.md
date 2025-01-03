@@ -85,12 +85,9 @@ Or, the ‘*position of that*’ may mean that character of Brahman which may be
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Vaidikaiḥ karmabhiḥ*’—‘the compulsory acts prescribed in the Veda’
-(Medhātithi, Govindarāja and Kullūka);—‘the compulsory *and occasional*
-acts prescribed in the Veda’ (Nārāyaṇa and Nandana).
+‘*Vaidikaiḥ karmabhiḥ*’—‘the compulsory acts prescribed in the Veda’ (Medhātithi, Govindarāja and Kullūka);—‘the compulsory *and occasional* acts prescribed in the Veda’ (Nārāyaṇa and Nandana).
 
-‘*Tat padam*’—‘The region of Brahman’ (Medhātithi);—‘Union with Brahman’
-(Govindarāja, Kullūka and Rāghavānanda).
+‘*Tat padam*’—‘The region of Brahman’ (Medhātithi);—‘Union with Brahman’ (Govindarāja, Kullūka and Rāghavānanda).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -98,8 +95,7 @@ acts prescribed in the Veda’ (Nārāyaṇa and Nandana).
 **(verses 6.74-75)  
 **
 
-See Comparative notes for [Verse
-6.74].
+See Comparative notes for [Verse 6.74].
 </details>
 
 <details><summary>भारुचिः</summary>

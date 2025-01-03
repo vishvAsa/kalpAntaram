@@ -20,10 +20,7 @@ The ‘minister’ and the rest are five other components of the circle, pertain
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 323), which
-enumerates the 72 as consisting of the (1) conquering king, (2) his
-minister, (3) his kingdom, (4) his fortress, (5) his treasury, (6) his
-army;—and so with each of the other eleven states of the ‘Circle’; this
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 323), which enumerates the 72 as consisting of the (1) conquering king, (2) his minister, (3) his kingdom, (4) his fortress, (5) his treasury, (6) his army;—and so with each of the other eleven states of the ‘Circle’; this
 *twelve* times *six* makes 72.
 </details>
 
@@ -32,8 +29,7 @@ army;—and so with each of the other eleven states of the ‘Circle’; this
 **(verses 7.155-159)  
 **
 
-See Comparative notes for [Verse
-7.155].
+See Comparative notes for [Verse 7.155].
 </details>
 
 <details><summary>भारुचिः</summary>

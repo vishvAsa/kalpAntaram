@@ -30,18 +30,9 @@ Nor the food of the informer and the perjurer, or of the seller of sacrifices; n
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 3.290);—in *Madanapārijāta* (p.
-945);—and in *Vīramitrodaya* (Āhnika, p. 495), which adds the following
-notes:—‘*Piśuna*’ is the back-biter,—‘*anṛtī*’ is the perjuror and such
-others,—the person who makes over to another person the merit of a
-sacrificial performance and receives money in return is called
-‘*Kratuvikrayaka*’;—‘*śailūṣa*’ is one who makes a living by
-dancing,—‘*tantuvāya*’ is one who lives by weaving cloth;—‘*kṛtaghna*’
-is the person who does not acknowledge the good done to him;—in
+This verse is quoted in *Mitākṣarā* (on 3.290);—in *Madanapārijāta* (p. 945);—and in *Vīramitrodaya* (Āhnika, p. 495), which adds the following notes:—‘*Piśuna*’ is the back-biter,—‘*anṛtī*’ is the perjuror and such others,—the person who makes over to another person the merit of a sacrificial performance and receives money in return is called ‘*Kratuvikrayaka*’;—‘*śailūṣa*’ is one who makes a living by dancing,—‘*tantuvāya*’ is one who lives by weaving cloth;—‘*kṛtaghna*’ is the person who does not acknowledge the good done to him;—in
 *Hemādri* (Śrāddha, p. 773);—and in *Prāyaścittaviveka* (p. 260), which
-adds the following notes:—‘*Śailūṣa*’ is defined in the Adipurāṇa as ‘an
-actor who is looking out for a living’,—‘*Tunnavāya*’ ‘one who works
-with needles.’
+adds the following notes:—‘*Śailūṣa*’ is defined in the Adipurāṇa as ‘an actor who is looking out for a living’,—‘*Tunnavāya*’ ‘one who works with needles.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -49,14 +40,10 @@ with needles.’
 *Āpastamba* (1.18.30).—‘Of the spy.’
 
 *Viṣṇu* (51.12-18).—‘Of the informer, the perjuror, the seller of his
-soul, the seller of juices;—of the actor, the weaver, the ungrateful man
-and of the dyer.’
+soul, the seller of juices;—of the actor, the weaver, the ungrateful man and of the dyer.’
 
 *Yājñavalkya* (1.161-165).—‘Of the miser, the prisoner, the thief, the
-eunuch, the actor, the seller of weapons, the carpenter, the weaver and
-those living by dogs;—of the cruel king, of the dyer, of the ungrateful
-man, the wine-seller; of the informer, the perjuror, the bard, and of
-the Soma-seller;—the food of these should not be eaten.’
+eunuch, the actor, the seller of weapons, the carpenter, the weaver and those living by dogs;—of the cruel king, of the dyer, of the ungrateful man, the wine-seller; of the informer, the perjuror, the bard, and of the Soma-seller;—the food of these should not be eaten.’
 
 *Vaśiṣṭha* (14.3).—‘Of the miser, the initiated man, the prisoner, the
 invalid, the Soma-seller and the carpenter.’

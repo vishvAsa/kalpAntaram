@@ -19,8 +19,7 @@ title = "047 यद् ध्यायति"
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 1.181) as laying down the
-indirect result of avoiding the killing of animals.
+This verse is quoted in *Mitākṣarā* (on 1.181) as laying down the indirect result of avoiding the killing of animals.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -28,16 +27,13 @@ indirect result of avoiding the killing of animals.
 *Viṣṇu* (51.70).—(Same as Manu.)
 
 *Yājñavalkya* (l.181).—‘The self-controlled Brāhmaṇa, even though living
-in the house, obtains all desires and also the reward of Aśvamedha
-sacrifice, if he gives up meat.’
+in the house, obtains all desires and also the reward of Aśvamedha sacrifice, if he gives up meat.’
 
 *Bṛhaspati* (Vīramitrodaya-Āhnika, p. 536).—‘If the non-greedy man cats
-not meat, even though he is ill or has been invited, he obtains, without
-effort, the reward of the Aśvamedha sacrifice.’
+not meat, even though he is ill or has been invited, he obtains, without effort, the reward of the Aśvamedha sacrifice.’
 
 *Yama* (Vīramitrodaya-Āhnika).—‘The approver, the cutter, the killer,
-the buyer, the seller, and the cooker—all these are *slayers*......the
-eater is the seventh and the worst of all.’
+the buyer, the seller, and the cooker—all these are *slayers*......the eater is the seventh and the worst of all.’
 </details>
 
 <details><summary>Bühler</summary>

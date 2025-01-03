@@ -18,10 +18,7 @@ The crimes of evil-minded thieves secretly prowling over the earth cannot be sup
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 293), which adds the
-following notes:—‘*Pāpavinigrahaḥ*,’ prevention of
-theft;—‘*pāpabuddhīnām*,’ people who are by nature inclined to be
-sinful;—‘*nibhṛtam*,’ secretly.
+This verse is quoted in *Vivādaratnākara* (p. 293), which adds the following notes:—‘*Pāpavinigrahaḥ*,’ prevention of theft;—‘*pāpabuddhīnām*,’ people who are by nature inclined to be sinful;—‘*nibhṛtam*,’ secretly.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -29,8 +26,7 @@ sinful;—‘*nibhṛtam*,’ secretly.
 **(verses 9.261-263)  
 **
 
-See Comparative notes for [Verse
-9.261].
+See Comparative notes for [Verse 9.261].
 </details>
 
 <details><summary>भारुचिः</summary>

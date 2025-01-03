@@ -24,43 +24,25 @@ The meaning of the verse is quite clear. It is meant to forbid the ‘preferenti
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (2.139);—in *Madanapārijāta* (p.
-678), to the effect that in the case noted there is no unequal
-division;—in *Aparārka* (p. 748), which adds that this prohibits only
-that unequal division, which is in the form of additional shares for the
-eldest brother,—and not other kinds of unequal division; so that each
-brother obtains, on partition, that part of the property which was his
-when they entered into joint life.
+This verse is quoted in *Mitākṣarā* (2.139);—in *Madanapārijāta* (p. 678), to the effect that in the case noted there is no unequal division;—in *Aparārka* (p. 748), which adds that this prohibits only that unequal division, which is in the form of additional shares for the eldest brother,—and not other kinds of unequal division; so that each brother obtains, on partition, that part of the property which was his when they entered into joint life.
 
-It is quoted in *Vivādaratnākara* (p. 601), which adds the following
-notes:—‘*Saha jīvantaḥ*’, living after joining together,—‘*samastatra
-vibhāgaḥ*’, *i.e*., there is to be no additional share for the eldest,
-and so forth.
+It is quoted in *Vivādaratnākara* (p. 601), which adds the following notes:—‘*Saha jīvantaḥ*’, living after joining together,—‘*samastatra vibhāgaḥ*’, *i.e*., there is to be no additional share for the eldest, and so forth.
 
-It is quoted in *Vyavahāramayūkha* (p. 65), which mentions two
-opinions—one, is that which has been set forth in *Aparārka*, and
-another that there is to be absolutely equal division all round;—in
+It is quoted in *Vyavahāramayūkha* (p. 65), which mentions two opinions—one, is that which has been set forth in *Aparārka*, and another that there is to be absolutely equal division all round;—in
 *Nṛsiṃhaprasāda* (Vyavahāra, p. 41b);—by Jīmūtavāhana (*Dāyabhāga*, p.
-342), which says that the equal partition is meant for brothers of the
-same caste as the father;—and in *Vīramitrodaya* (Vyavahāra 210a), which
-explains the implication of the last clause to be that there is no
-unequal division *due to seniority*, but there is unequal division on
-other grounds.
+342), which says that the equal partition is meant for brothers of the same caste as the father;—and in *Vīramitrodaya* (Vyavahāra 210a), which explains the implication of the last clause to be that there is no unequal division *due to seniority*, but there is unequal division on other grounds.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Viṣṇu* (18.41).—‘If brothers, who after a previous division of the
-estate, live again together as parceners, should make a second
-partition, the shares must be equal in that case; and the eldest has no
-right to an additional share.’
+estate, live again together as parceners, should make a second partition, the shares must be equal in that case; and the eldest has no right to an additional share.’
 
 *Yājñavalkya* (2.120).—‘When a property has been acquired by several
 brothers in common, it shall be shared equally by all.’
 
 *Bṛhaspati* (25.73).—‘When brothers formerly divided are again living
-together through affection, and arrange a second partition, the right of
-primogeniture does not accrue in that case.’
+together through affection, and arrange a second partition, the right of primogeniture does not accrue in that case.’
 </details>
 
 <details><summary>भारुचिः</summary>

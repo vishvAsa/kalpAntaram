@@ -75,42 +75,23 @@ So that ‘*praṇava*’ and ‘*oṅkāra*’ are synonymous terms; as we have
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Pavitraiḥ*’—‘Kuśa-blades—by which the seat of the vital airs is
-touched’—(Medhātithi);—‘The *Aghamarṣaṇa*’ and other Vedic texts (noted
-by Medhātithi, but rejected by him, though adopted by Nandana). Burnell
-has translated the term as ‘grass-rings on the third finger’;—this is in
-exact conformity with the present usage, where a blade of Kuśa, twisted
-into the form of a ring, is worn on the third finger on the occasion of
-all religious ceremonies.
+‘*Pavitraiḥ*’—‘Kuśa-blades—by which the seat of the vital airs is touched’—(Medhātithi);—‘The *Aghamarṣaṇa*’ and other Vedic texts (noted by Medhātithi, but rejected by him, though adopted by Nandana). Burnell has translated the term as ‘grass-rings on the third finger’;—this is in exact conformity with the present usage, where a blade of Kuśa, twisted into the form of a ring, is worn on the third finger on the occasion of all religious ceremonies.
 
-This verse is quoted in *Vidhānapārijāta* (p. 521);—in *Vīramitrodaya*
-(Saṃskāra, p. 522), which explains ‘*prākkūlān*’ as *prāgagrān*
-‘pointing eastwards’,—and ‘*pavitraiḥ*’ simply as ‘*pāranaiḥ*’
-‘purificatories’;—in *Saṃskāramayūkha* (p. 49), which explains
-‘*prākkūlān*’ as ‘with tips pointing towards the east’;—in
+This verse is quoted in *Vidhānapārijāta* (p. 521);—in *Vīramitrodaya* (Saṃskāra, p. 522), which explains ‘*prākkūlān*’ as *prāgagrān* ‘pointing eastwards’,—and ‘*pavitraiḥ*’ simply as ‘*pāranaiḥ*’ ‘purificatories’;—in *Saṃskāramayūkha* (p. 49), which explains ‘*prākkūlān*’ as ‘with tips pointing towards the east’;—in
 *Saṃskāraratnamālā* (p. 316) which has the same explanations and adds
-that it refers to Kuśa-blades;—in *Smṛticandrikā* (Saṃskāra, p. 135)
-which has the same explanation and explains ‘*pavitraiḥ*’ as
-purificatory;—also in *Nṛsiṃhaprasāda* (Saṃskāra, p. 471).
+that it refers to Kuśa-blades;—in *Smṛticandrikā* (Saṃskāra, p. 135) which has the same explanation and explains ‘*pavitraiḥ*’ as purificatory;—also in *Nṛsiṃhaprasāda* (Saṃskāra, p. 471).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama-Dharmasūtra*, 1.51-56.—‘The sense-organs should be touched with
-Kuśa-blades;—there should be three Breath-suspensions, of fifteen units;
-and the seat should be on Kuśa-grass pointing eastwards.’
+Kuśa-blades;—there should be three Breath-suspensions, of fifteen units; and the seat should be on Kuśa-grass pointing eastwards.’
 
 *Baudhāyana-Dharmasūtra*, 2.4.5,7.—‘At the commencement of the
-performance of all acts, as also before the Twilight Prayers, one should
-sprinkle himself with the sanctifying blades and thereby prepare
-himself;—to this effect it is declared that seated on Kuśa-blades,
-holding Kuśa-blades in the hand, sprinkling himself with water, one
-should repeat the Gāyatrī a thousand times;—being purified with three
-Breath-suspensions.’
+performance of all acts, as also before the Twilight Prayers, one should sprinkle himself with the sanctifying blades and thereby prepare himself;—to this effect it is declared that seated on Kuśa-blades, holding Kuśa-blades in the hand, sprinkling himself with water, one should repeat the Gāyatrī a thousand times;—being purified with three Breath-suspensions.’
 
 *Kūrmapurāṇa* (Vīramitrodaya-Āhnika, p. 254).—‘Seated on Kuśa-blades
-pointing eastwards, with mind collected, he should perform throe
-Breath-suspensions and then the Twilight Prayers.’
+pointing eastwards, with mind collected, he should perform throe Breath-suspensions and then the Twilight Prayers.’
 </details>
 
 <details><summary>Bühler</summary>

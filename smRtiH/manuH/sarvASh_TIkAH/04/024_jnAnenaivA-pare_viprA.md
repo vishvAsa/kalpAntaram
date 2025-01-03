@@ -59,8 +59,7 @@ The text adds a commendatory declaration, by way of pointing out the reason for 
 **(verses 4.23-24)  
 **
 
-See Comparative notes for [Verse
-4.23].
+See Comparative notes for [Verse 4.23].
 </details>
 
 <details><summary>Bühler</summary>

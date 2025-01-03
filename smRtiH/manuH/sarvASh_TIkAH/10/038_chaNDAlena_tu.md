@@ -31,10 +31,7 @@ Or, ‘*mūla*’ may be taken as standing for the *roots* of trees, and the ‘
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Mūlavyasanavṛttimān*’—‘Who lives by executing criminals.’ (Govindarāja
-and Rāghavānanda);—‘who lives by digging roots for selling them as
-medicines or for curing homorhoids (hemorrhoids?)’ (Nārāyaṇa and
-Nandana).
+‘*Mūlavyasanavṛttimān*’—‘Who lives by executing criminals.’ (Govindarāja and Rāghavānanda);—‘who lives by digging roots for selling them as medicines or for curing homorhoids (hemorrhoids?)’ (Nārāyaṇa and Nandana).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -42,8 +39,7 @@ Nandana).
 **(verses 10.6-41)  
 **
 
-See Comparative notes for [Verse
-10.6].
+See Comparative notes for [Verse 10.6].
 </details>
 
 <details><summary>भारुचिः</summary>

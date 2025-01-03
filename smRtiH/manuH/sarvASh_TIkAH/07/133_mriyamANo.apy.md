@@ -33,10 +33,7 @@ taxes.’
 
 *Vaśiṣṭha* (1.43).—‘Except from Brāhmaṇas.’
 
-Do. (19.23).—‘A vedic scholar is free from taxes, and so are a servant
-of the king, one who has no protector, one who has renounced
-Householdership, an infant, a very aged man, a young man who is studying
-and very charitable persons.’
+Do. (19.23).—‘A vedic scholar is free from taxes, and so are a servant of the king, one who has no protector, one who has renounced Householdership, an infant, a very aged man, a young man who is studying and very charitable persons.’
 
 *Viṣṇu* (3.26, 27).—‘He shall not levy any tax on Brāhmaṇas; for they
 pay taxes in the shape of their pious acts.’

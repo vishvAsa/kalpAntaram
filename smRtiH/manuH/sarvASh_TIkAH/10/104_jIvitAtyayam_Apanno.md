@@ -32,9 +32,7 @@ The rest is all purely declamatory.—(104)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtitattva* I (p. 353);—in *Aparārka* (p.
-935);—in *Parāśaramādhava* (Prāyasahchitta p. 326);—in *Parāśaramādhava*
-(Ācāra p. 183);—in *Madanapārijāta* (p. 233);—and in
+This verse is quoted in *Smṛtitattva* I (p. 353);—in *Aparārka* (p. 935);—in *Parāśaramādhava* (Prāyasahchitta p. 326);—in *Parāśaramādhava* (Ācāra p. 183);—in *Madanapārijāta* (p. 233);—and in
 *Yatidharmasaṅgraha* (p. 75).
 </details>
 
@@ -43,8 +41,7 @@ This verse is quoted in *Smṛtitattva* I (p. 353);—in *Aparārka* (p.
 **(verses 10.101-108)  
 **
 
-See Comparative notes for [Verse
-10.101].
+See Comparative notes for [Verse 10.101].
 </details>
 
 <details><summary>Bühler</summary>

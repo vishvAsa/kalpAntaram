@@ -42,9 +42,7 @@ If the man does perform the acts—(what should be done is laid down in the foll
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Na pātakam*’—‘no sin, in eating garlic and other forbidden vegetables
-and fruits’ (Govindarāja and Kullūka),—‘in keeping a slaughter-house’
-(Rāghavānanda),
+‘*Na pātakam*’—‘no sin, in eating garlic and other forbidden vegetables and fruits’ (Govindarāja and Kullūka),—‘in keeping a slaughter-house’ (Rāghavānanda),
 
 This verse is quoted in *Vīramitrodaya* (Saṃskāra p. 134);—and in
 *Nirṇayasindhu* (p. 235).
@@ -55,12 +53,10 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra p. 134);—and in
 **(verses 10.126-127)**
 
 *Gautama* (10.64-65).—‘If permission has been given to him, the Śūdra
-may use the syllable *namaḥ* as his *mantra*. Some people declare that
-he may himself offer the *Pākayajñas*.’
+may use the syllable *namaḥ* as his *mantra*. Some people declare that he may himself offer the *Pākayajñas*.’
 
 *Yājñavalkya* (1.121).—‘Devoted to his wife, pure, supporting his
-dependants, devoted to the performance of *śrāddha*, he should not omit
-to perform the fire sacrifices with the syllable *namaḥ* as his
+dependants, devoted to the performance of *śrāddha*, he should not omit to perform the fire sacrifices with the syllable *namaḥ* as his
 *mantra*.’
 </details>
 

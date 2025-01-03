@@ -32,21 +32,11 @@ A man who engages in secret conversation with the wife of another person,—if h
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 854);—in *Vivādaratnākara* (p.
-384), which addṣ the following notes:—‘*Pūrvamakṣāritaḥ*’, already
-previously suspected of entertaining longings for that lady;—the
-punishment is to be inflicted only in a case where the conversation is
-not held under circumstances unfavourable to intercourse;—and in
+This verse is quoted in *Aparārka* (p. 854);—in *Vivādaratnākara* (p. 384), which addṣ the following notes:—‘*Pūrvamakṣāritaḥ*’, already previously suspected of entertaining longings for that lady;—the punishment is to be inflicted only in a case where the conversation is not held under circumstances unfavourable to intercourse;—and in
 *Vīramitrodaya* (Vyavahāra, 156a), which explains ‘*doṣaiḥ*’ as
-‘tendency to run after women,’ and adds that this refers to cases where
-the conversation is held with evil intentions.
+‘tendency to run after women,’ and adds that this refers to cases where the conversation is held with evil intentions.
 
-It is quoted in *Vyavahāramayūkha* (p. 106), as laying down the penalty
-for a man of wicked character holding conversation with another man’s
-wife;—and in *Vivādacintāmaṇi* (p. 172), which explains the meaning to
-be that ‘if a man who has been once suspected of illicit connection with
-a woman should meet her in private and talk to her longer than ordinary
-courtesy demands, he should be punished with the first amercement.’
+It is quoted in *Vyavahāramayūkha* (p. 106), as laying down the penalty for a man of wicked character holding conversation with another man’s wife;—and in *Vivādacintāmaṇi* (p. 172), which explains the meaning to be that ‘if a man who has been once suspected of illicit connection with a woman should meet her in private and talk to her longer than ordinary courtesy demands, he should be punished with the first amercement.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -54,33 +44,26 @@ courtesy demands, he should be punished with the first amercement.’
 **(verses 8.354-355)**
 
 *Āpastamba* (2-26.18-19).—‘A young man who, decked with ornaments,
-enters unintentionally a place where a married woman or a maiden sits,
-must be reprimanded;—if he does it intentionally, with an evil purpose,
-ho must he fined.’
+enters unintentionally a place where a married woman or a maiden sits, must be reprimanded;—if he does it intentionally, with an evil purpose, ho must he fined.’
 
 *Yājñavalkya* (2.284).—‘If a man converses with a woman at improper
 times or places,—or if he sits with her on the same seat,—this is
 *Adultery* .’
 
 *Yājñavalkya* (2.285).—‘If a man converses with a woman who has been
-previously forbidden to do so, the woman shall pay a fine of one hundred
-and the man of two hundred;—if both have been previously forbidden, the
-punishment shall be the same as in the case of Adultery.’
+previously forbidden to do so, the woman shall pay a fine of one hundred and the man of two hundred;—if both have been previously forbidden, the punishment shall be the same as in the case of Adultery.’
 
 *Vyāsa* (Aparārka, p. 854).—‘Conversing with a woman at improper times
-or places, or in a forest,—winking at her and smiling at her,—these
-constitute the first degree of Adultery.’
+or places, or in a forest,—winking at her and smiling at her,—these constitute the first degree of Adultery.’
 
 *Śaṅkha-Likhita* (Aparārka, p. 855).—[(See under
 CCCLII-CCCLIII.)]
 
 *Nārada* (12-62).—‘To meet another man’s wife at an unreasonable hour or
-place, and to sit, converse or dally with her,—these are the three
-grades of Adultery.’
+place, and to sit, converse or dally with her,—these are the three grades of Adultery.’
 
 *Bṛhaspati* (23.7).—‘Sending perfumes, garlands, fruits, wine, food or
-clothes,—and conversing with her in secret,—is considered an adulterous
-act of the second degree.’
+clothes,—and conversing with her in secret,—is considered an adulterous act of the second degree.’
 </details>
 
 <details><summary>भारुचिः</summary>

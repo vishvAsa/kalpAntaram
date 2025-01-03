@@ -40,47 +40,35 @@ The general rule being—‘gifts should be accepted only from righteous twice-b
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 406), which explains
-‘*abhayadaksiṇā*’ as ‘*abhayadāna*’, ‘gift of fearlessness’;—in
+This verse is quoted in *Aparārka* (p. 406), which explains ‘*abhayadaksiṇā*’ as ‘*abhayadāna*’, ‘gift of fearlessness’;—in
 *Mitākṣarā* (on 1.214);—in *Parāśaramādhava* (Ācāra, p. 190);—in
 *Madanapārijāta* (p. 220), which adds the following
-explanations:—‘*edha*’ is ‘fuel’,—‘*sarvataḥ*’ means ‘even from the
-Śūdra’,—the ‘gift of fearlessness’ being acceptable even from a
+explanations:—‘*edha*’ is ‘fuel’,—‘*sarvataḥ*’ means ‘even from the Śūdra’,—the ‘gift of fearlessness’ being acceptable even from a
 *Mleccha*; all this refers to one who is still engaged in the receiving
 of gifts, not to one who has renounced the acceptance of gifts;—in
 *Vidhānapārijāta* (II, p. 249), which adds—‘*sarvataḥ*’ means ‘even from
-the Śūdra the ‘gift of fearlessness’ being acceptable from the Mleccha
-also;—in *Nṛsiṃhaprasāda* (Āhnika, pp. 35b and 37b);—and in *Hemādri*
-(Dāna, p. 56), which explains ‘*edhaḥ*’ as *wood* and ‘*ahhyudyatam*’ as
-‘presented unasked.’
+the Śūdra the ‘gift of fearlessness’ being acceptable from the Mleccha also;—in *Nṛsiṃhaprasāda* (Āhnika, pp. 35b and 37b);—and in *Hemādri* (Dāna, p. 56), which explains ‘*edhaḥ*’ as *wood* and ‘*ahhyudyatam*’ as ‘presented unasked.’
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Gautama* (17.3).—‘Fuel, water, fodder, roots, fruits, honey,
-fearlessness, whatever is presented, couch, seat, house, conveyance,
-milk, curds, fried barley, vegetables, Priyaṅgu, garlands,—these should
-not be refused.’
+fearlessness, whatever is presented, couch, seat, house, conveyance, milk, curds, fried barley, vegetables, Priyaṅgu, garlands,—these should not be refused.’
 
 *Āpastamba* (1.18.1).—‘Honey, uncooked flesh of the deer, lands, roots,
-fruits, safety, lodging, beasts of burden, fodder,—may be accepted even
-from Ugras.’
+fruits, safety, lodging, beasts of burden, fodder,—may be accepted even from Ugras.’
 
 *Vaśiṣṭha* (14.13).—‘Food, even though belonging to a sinner, if it is
-offered and presented before him, without urging of any kind,—it may be
-accepted; so has held Prajāpati.’
+offered and presented before him, without urging of any kind,—it may be accepted; so has held Prajāpati.’
 
 *Viṣṇu* (5.7.10).—‘Fuel, water, roots, fruits, fearlessness, flesh,
-honey, couch, seat, house, flowers, curds, vegetables,—when these are
-presented to one, one shall not refuse them.’
+honey, couch, seat, house, flowers, curds, vegetables,—when these are presented to one, one shall not refuse them.’
 
 *Yājñavalkya* (1.214).—‘Kuśa grass, vegetables, milk, fish, perfumes,
-flowers, curds, land, flesh, couch, fried barley, and water—these should
-not be refused.’
+flowers, curds, land, flesh, couch, fried barley, and water—these should not be refused.’
 
 *Aṅgiras* (Aparārka, p. 406).—‘Grains in the harvesting ground, water in
-tanks and wells, milk in the cow-pen,—these may he accepted even from
-one whose food is not to be eaten.’
+tanks and wells, milk in the cow-pen,—these may he accepted even from one whose food is not to be eaten.’
 </details>
 
 <details><summary>Bühler</summary>

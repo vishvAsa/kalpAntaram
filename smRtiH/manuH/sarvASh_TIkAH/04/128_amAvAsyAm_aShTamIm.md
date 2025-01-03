@@ -40,24 +40,9 @@ But there is not much in all this; since the term, ‘Religious Student,’ is g
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 1.79);—in *Aparārka* (p. 103),
-which adds that on the ground of the terms ‘*Aṣṭami*’ and ‘*Caturdaśī*’
-occurring along with ‘*Amāvasyā*’, it is understood that they stand for
-the eighth and fourteenth days of the *Fortnight*,—not of the
-‘season’;—and that the particle ‘*api*’ indicates that intercourse on
-the dates mentioned is to be avoided, also when they happen to fall
-outside the ‘season’;—and in *Hemādri* (Kāla, p. 724), which adds that
-‘*Aṣṭamī*’ and ‘*Caturdaśī* mentioned as they are along with
-‘*Amāvasyā*,’ must stand for the eighth and fourteenth days *of the
-fortnight*, not those of the wife’s ‘period.’
+This verse is quoted in *Mitākṣarā* (on 1.79);—in *Aparārka* (p. 103), which adds that on the ground of the terms ‘*Aṣṭami*’ and ‘*Caturdaśī*’ occurring along with ‘*Amāvasyā*’, it is understood that they stand for the eighth and fourteenth days of the *Fortnight*,—not of the ‘season’;—and that the particle ‘*api*’ indicates that intercourse on the dates mentioned is to be avoided, also when they happen to fall outside the ‘season’;—and in *Hemādri* (Kāla, p. 724), which adds that ‘*Aṣṭamī*’ and ‘*Caturdaśī* mentioned as they are along with ‘*Amāvasyā*,’ must stand for the eighth and fourteenth days *of the fortnight*, not those of the wife’s ‘period.’
 
-It is quoted in *Madanapārijāta* (p. 346);—in *Parāśaramādhava* (Ācāra,
-p. 498), which adds that the passage is to be construed as
-‘*strīsaṅgatyāgena brahmacārī bhavet*’; ‘on the dates of the month
-specified, one should behave like the Student by avoiding intercourse
-with his wife’;—in *Prāyaścittaviveka* (pp. 286 and 368), as forbidding
-sexual intercourse on ‘*parva*’ days, and adds that ‘*snātakaḥ*’ here
-stands for the *House-holder*;—in *Saṃskāraratnamālā* (p. 683);—in
+It is quoted in *Madanapārijāta* (p. 346);—in *Parāśaramādhava* (Ācāra, p. 498), which adds that the passage is to be construed as ‘*strīsaṅgatyāgena brahmacārī bhavet*’; ‘on the dates of the month specified, one should behave like the Student by avoiding intercourse with his wife’;—in *Prāyaścittaviveka* (pp. 286 and 368), as forbidding sexual intercourse on ‘*parva*’ days, and adds that ‘*snātakaḥ*’ here stands for the *House-holder*;—in *Saṃskāraratnamālā* (p. 683);—in
 *Smṛticandrikā* (Saṃskāra, p. 38);—and in *Vīramitrodaya* (Saṃskāra, p.
 155), which adds that the particle ‘*ca*’ is meant to include the
 *Saṅkrānti* day,—and explains the term ‘*snātaka*’ to mean ‘one whose
@@ -72,9 +57,7 @@ periods remains a *Religious Student*.’
 *Āpastamba Dharmasūtra* (2.1.17).—‘Recourse to one's wife during the
 periods is in itself an observance.’
 
-Do. (Aparārka, p. 104).—‘The observances of the householder...... He
-shall not approach his wife on the eighth, fourteenth and fifteenth days
-of the fortnight.’
+Do. (Aparārka, p. 104).—‘The observances of the householder...... He shall not approach his wife on the eighth, fourteenth and fifteenth days of the fortnight.’
 
 *Yājñavalkya* (1.79).—‘He should avoid his wife during the *Parvas*.’
 
@@ -88,9 +71,7 @@ fourteenth and the fifteenth days of the month.’
 his wife.’
 
 *Viṣṇupurāṇa* (Parāśaramādhava, p. 499).—‘The fourteenth, eighth,
-moonless day, full moon day, the day on which the sun passes from one
-sign to the other, are the *Parvas*; one who has recourse to his wife on
-these days goes to hell.’
+moonless day, full moon day, the day on which the sun passes from one sign to the other, are the *Parvas*; one who has recourse to his wife on these days goes to hell.’
 </details>
 
 <details><summary>Bühler</summary>

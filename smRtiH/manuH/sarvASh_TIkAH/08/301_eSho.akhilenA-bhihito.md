@@ -40,8 +40,7 @@ This verse is quoted in *Vivādaratnākara* (p. 286).
 **(verses 8.299-301)  
 **
 
-See Comparative notes for [Verse
-8.299].
+See Comparative notes for [Verse 8.299].
 </details>
 
 <details><summary>भारुचिः</summary>

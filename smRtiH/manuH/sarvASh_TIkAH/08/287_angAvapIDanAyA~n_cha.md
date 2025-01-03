@@ -58,8 +58,7 @@ If the man hurt does not accept all this, then the whole amount is to be totalle
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Prāṇa*’—‘vital strength’ (Medhātithi);—‘breathing power’ (Govindarāja
-and Rāghavānanda).
+‘*Prāṇa*’—‘vital strength’ (Medhātithi);—‘breathing power’ (Govindarāja and Rāghavānanda).
 
 This verse is quoted in *Vivādaratnākara* (p. 270);—and in
 *Vyavahāra-Bālambhaṭṭī* (p. 912).
@@ -70,8 +69,7 @@ This verse is quoted in *Vivādaratnākara* (p. 270);—and in
 **(verses 8.286-287)  
 **
 
-See Comparative notes for [Verse
-8.286].
+See Comparative notes for [Verse 8.286].
 </details>
 
 <details><summary>भारुचिः</summary>

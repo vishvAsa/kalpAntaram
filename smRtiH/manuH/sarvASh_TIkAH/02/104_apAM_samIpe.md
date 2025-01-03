@@ -52,36 +52,28 @@ The former explanation appears to be the right one; for as a matter of fact, the
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This is quoted in *Parāśaramādhava* (Ācāra, p. 312), as laying down the
-place and other details in connection with the Twilight’ Prayers;—in
+This is quoted in *Parāśaramādhava* (Ācāra, p. 312), as laying down the place and other details in connection with the Twilight’ Prayers;—in
 *Madanapārijāta* (p. 281); in *Aparārka* (p. 70), as indicating that in
-the event of the man being unable to perform the entire *Brahmayajña* he
-may do it by means of the *Sāvitrī* alone; and again on p. 136;—and in
+the event of the man being unable to perform the entire *Brahmayajña* he may do it by means of the *Sāvitrī* alone; and again on p. 136;—and in
 *Nṛsiṃhaprasāda* (Saṃskāra, p. 38a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vyāsa* (*Parāśaramādhava*, p. 275).—‘In the house, the Twilight prayer
-is onefold; in cow-pen, tenfold; on the river ten-thousandfold; near
-Viṣṇu, it is infinite.’
+is onefold; in cow-pen, tenfold; on the river ten-thousandfold; near Viṣṇu, it is infinite.’
 
 *Mahābhārata* (*Parāśaramādhava*, p. 275).—‘Twilight prayer is tenfold,
-when performed outside, near a tank or a stream; at a sacred *tîrtha*,
-it is a hundredfold; and thousandfold on the bank of the Ganges.’
+when performed outside, near a tank or a stream; at a sacred *tîrtha*, it is a hundredfold; and thousandfold on the bank of the Ganges.’
 
 *Baudhāyana-Dharmasūtra* (2. 5. 14-15),—‘They declare that the Praṇava,
-the Vyāhṛtis and the Sāvitrī,—the five Brahmic Sacrifices,—all this done
-daily absolves the Brāhmaṇa from sins.—Being purified by the five
-Brahmic Sacrifices they appease the lords.’
+the Vyāhṛtis and the Sāvitrī,—the five Brahmic Sacrifices,—all this done daily absolves the Brāhmaṇa from sins.—Being purified by the five Brahmic Sacrifices they appease the lords.’
 
 *Śātātapa* (*Parāśaramādhava*, p. 276).—‘Lying, smell of liquor, sexual
-intercourse during the day, eating of Śūdra’s food,—all these sins are
-removed by offering the Twilight Prayer outside.’
+intercourse during the day, eating of Śūdra’s food,—all these sins are removed by offering the Twilight Prayer outside.’
 
 *Śātātapa* (*Parāśaramādhava* 6. 6. 7).—‘Daily he should carry on Vedic
-Study beginning with the Praṇava; thus does he fulfil the Brahmic
-Sacrifice;—Vedic Study constituting the Brahmic Sacrifice.’
+Study beginning with the Praṇava; thus does he fulfil the Brahmic Sacrifice;—Vedic Study constituting the Brahmic Sacrifice.’
 </details>
 
 <details><summary>Bühler</summary>

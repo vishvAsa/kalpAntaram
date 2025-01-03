@@ -32,18 +32,9 @@ This is only meant to be deprecatory of the act referred to; and is not the inju
 
 This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 514);—in
 *Aparārka* (p. 610), which explains that ‘*kilviṣam*’ means ‘an offence
-deserving punishment’;—again on p. 817, where ‘*kilviṣam*’ is explained
-as ‘punishment’;—in *Vivādaratnākara* (p. 271), which explains
-‘*pṛṣṭhataḥ*’ as ‘not in a vital part,’ and ‘*uttamāṅge*’ also as ‘in a
-vital part’;—in *Vidhānapārijāta* (p. 530);—in *Mitākṣarā* (2.32), in
-support of the view that, if, in a fit of passion, the Teacher should
-strike the pupil in a vital part of the body, and the boy should
-complain before the king, then it becomes an admissible suit;—in
+deserving punishment’;—again on p. 817, where ‘*kilviṣam*’ is explained as ‘punishment’;—in *Vivādaratnākara* (p. 271), which explains ‘*pṛṣṭhataḥ*’ as ‘not in a vital part,’ and ‘*uttamāṅge*’ also as ‘in a vital part’;—in *Vidhānapārijāta* (p. 530);—in *Mitākṣarā* (2.32), in support of the view that, if, in a fit of passion, the Teacher should strike the pupil in a vital part of the body, and the boy should complain before the king, then it becomes an admissible suit;—in
 *Vyavahāra-Balambhaṭṭī* (pp. 572 and 919);—in *Nṛsiṃhaprasāda*
-(Saṃskāra, 47b);—in *Saṃskāramayūkha* (p. 52) to the effect that no one
-should be struck on the head;—in *Saṃskāraratnamālā* (p, 315), which
-says that ‘*uttamāṅga*’ means ‘head’;—in *Smṛticandrikā* (Saṃskāra, p.
-142);—and in *Vivādacintāmaṇi* (Calcutta, p. 76).
+(Saṃskāra, 47b);—in *Saṃskāramayūkha* (p. 52) to the effect that no one should be struck on the head;—in *Saṃskāraratnamālā* (p, 315), which says that ‘*uttamāṅga*’ means ‘head’;—in *Smṛticandrikā* (Saṃskāra, p. 142);—and in *Vivādacintāmaṇi* (Calcutta, p. 76).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -51,8 +42,7 @@ says that ‘*uttamāṅga*’ means ‘head’;—in *Smṛticandrikā* (Saṃs
 **(verses 8.299-301)  
 **
 
-See Comparative notes for [Verse
-8.299].
+See Comparative notes for [Verse 8.299].
 </details>
 
 <details><summary>भारुचिः</summary>

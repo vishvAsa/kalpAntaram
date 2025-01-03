@@ -34,8 +34,7 @@ If the soil were the more important factor, all the products would have been of 
 
 **(verses 9.31-44)**
 
-See Comparative notes for [Verse
-9.31].
+See Comparative notes for [Verse 9.31].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -49,8 +49,7 @@ These persons become competent witnesses only when the suitor declares—‘thes
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Maulāḥ*’—‘Natives of the place’ (Medhātithi);—‘heads of families or
-friends.’
+‘*Maulāḥ*’—‘Natives of the place’ (Medhātithi);—‘heads of families or friends.’
 
 This verse is quoted in *Aparārka* (p. 665);—and in
 *Vyavahāra-Bālambhaṭṭī* (p. 256).
@@ -61,8 +60,7 @@ This verse is quoted in *Aparārka* (p. 665);—and in
 **(verses 8.61-63)  
 **
 
-See Comparative notes for [Verse
-8.61].
+See Comparative notes for [Verse 8.61].
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -22,8 +22,7 @@ The sense of the teaching is that under no circumstances should there be indepen
 
 (Verse 147 of others.)
 
-This verse is quoted in *Vivādaratnākara* (p. 427);—in *Madanapārijāta*
-(p. 192);—and in *Varṣakriyākaumudī* (p. 577).
+This verse is quoted in *Vivādaratnākara* (p. 427);—in *Madanapārijāta* (p. 192);—and in *Varṣakriyākaumudī* (p. 577).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

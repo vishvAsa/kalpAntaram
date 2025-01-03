@@ -66,8 +66,7 @@ needlessly-prepared meat.’
 knife used for killing.’
 
 *Viṣṇu* (51.59).—‘The Brāhmaṇa shall never eat meat that has not been
-consecrated with mantras; that however which has been duly consecrated
-he shall eat, following the eternal law.’
+consecrated with mantras; that however which has been duly consecrated he shall eat, following the eternal law.’
 </details>
 
 <details><summary>Bühler</summary>

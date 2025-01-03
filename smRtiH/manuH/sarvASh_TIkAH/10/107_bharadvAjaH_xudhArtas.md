@@ -20,8 +20,7 @@ Vṛdhu was a carpenter; a person unfit for receiving gifts from;—from him the
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Aparārka* (p. 935);—and in *Parāśaramādhava*
-(Prāyaścitta p. 326).
+This verse is quoted in *Aparārka* (p. 935);—and in *Parāśaramādhava* (Prāyaścitta p. 326).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -29,8 +28,7 @@ This verse is quoted in *Aparārka* (p. 935);—and in *Parāśaramādhava*
 **(verses 10.101-108)  
 **
 
-See Comparative notes for [Verse
-10.101].
+See Comparative notes for [Verse 10.101].
 </details>
 
 <details><summary>Bühler</summary>

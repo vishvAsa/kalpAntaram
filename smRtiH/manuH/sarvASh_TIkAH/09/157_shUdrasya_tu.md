@@ -30,10 +30,7 @@ It is in view of there being no fifth caste that, the text has said that ‘for 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This Verse is quoted in *Vivādaratnākara* (p. 532);—and in *Smṛtitattva*
-II (p. 193), which quotes and accepts the explanation given by Kullūka
-that this is meant to preclude the ‘additional share’ prescribed in the
-preceding verse.
+This Verse is quoted in *Vivādaratnākara* (p. 532);—and in *Smṛtitattva* II (p. 193), which quotes and accepts the explanation given by Kullūka that this is meant to preclude the ‘additional share’ prescribed in the preceding verse.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -41,8 +38,7 @@ preceding verse.
 **(verses 9.149-157)  
 **
 
-See Comparative notes for [Verse
-9.149](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201526.html#comparative-notes "English translation of verse").
+See Comparative notes for [Verse 9.149](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201526.html#comparative-notes "English translation of verse").
 </details>
 
 <details><summary>भारुचिः</summary>

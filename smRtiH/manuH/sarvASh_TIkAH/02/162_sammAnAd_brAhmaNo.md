@@ -37,8 +37,7 @@ Further, the Religious Student may accept even such food as is offered with disr
 **(verses 162-163)**
 
 *Āpastamba-Dharmasūtra*, 1.13.4.—‘If overjoyed, he becomes arrogant;
-when arrogant, he transgresses Dharma; and transgression of Dharma leads
-to hell.’
+when arrogant, he transgresses Dharma; and transgression of Dharma leads to hell.’
 </details>
 
 <details><summary>Bühler</summary>

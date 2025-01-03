@@ -30,21 +30,11 @@ _यत आह ।_
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-‘*Pavitropacitaḥ*’—‘Equipped with the purificatory recitation of sacred
-texts, and also with such purificatory things as kuśa, water-pot and
-staff; or equipped with purificatory penances’;—‘provided with such
-means of purification as the staff, the water-pot and so forth’
-(Govindarāja, Kullūka and Nandana);—‘made eminent during life as a
-Householder by such purificatory acts as austerities, Vedic recitals and
-so forth’ (Nārāyaṇa);—‘possessed of a rich store of sanctifying
-knowledge taught in the Upaniṣads.’
+‘*Pavitropacitaḥ*’—‘Equipped with the purificatory recitation of sacred texts, and also with such purificatory things as kuśa, water-pot and staff; or equipped with purificatory penances’;—‘provided with such means of purification as the staff, the water-pot and so forth’ (Govindarāja, Kullūka and Nandana);—‘made eminent during life as a Householder by such purificatory acts as austerities, Vedic recitals and so forth’ (Nārāyaṇa);—‘possessed of a rich store of sanctifying knowledge taught in the Upaniṣads.’
 
-‘*Muniḥ*’—‘Wholly silent’ (Govindarāja and Kullūka);—‘intent on
-meditation’ (Nārāyaṇa).
+‘*Muniḥ*’—‘Wholly silent’ (Govindarāja and Kullūka);—‘intent on meditation’ (Nārāyaṇa).
 
-‘*Samupoḍheṣu*’—‘Offered to him’ (Medhātithi, Govindarāja and
-Kullūka);—‘collected in his house’ (Nandana);—‘fully enjoyed by him’
-(Nārāyaṇa).
+‘*Samupoḍheṣu*’—‘Offered to him’ (Medhātithi, Govindarāja and Kullūka);—‘collected in his house’ (Nandana);—‘fully enjoyed by him’ (Nārāyaṇa).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -52,8 +42,7 @@ Kullūka);—‘collected in his house’ (Nandana);—‘fully enjoyed by him�
 *Gautama* (3,16).—‘Abandoning all desire.’
 
 *Baudhāyana* (2.11.16).—‘The Renunciate shall leave his relations, and,
-not attended by any one, nor possessing any property, depart from his
-house, according to rule.’
+not attended by any one, nor possessing any property, depart from his house, according to rule.’
 
 *Vaśiṣṭha* (10.12, 28).—‘He should frequently change his residence. He
 should not enjoy any object of sensual gratification.’
@@ -62,9 +51,7 @@ should not enjoy any object of sensual gratification.’
 shall go forth alone.’
 
 *Arthaśāstra* (p. 30).—‘For the Renunciate—keeping senses under control,
-desisting from activities, having no possessions, abandoning of
-attachment, alms-begging in several places, living in the forest,
-internal and external purity.’
+desisting from activities, having no possessions, abandoning of attachment, alms-begging in several places, living in the forest, internal and external purity.’
 </details>
 
 <details><summary>भारुचिः</summary>

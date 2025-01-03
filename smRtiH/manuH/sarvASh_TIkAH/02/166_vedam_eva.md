@@ -36,10 +36,7 @@ Whatever ‘penance’ there is on the Earth, the ‘repeating of Veda’ is sup
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 307) as eulogising
-Vedic study;—in *Vīramitrodaya* (Saṃskāra, p. 509);—in *Smṛticandrikā*
-(Saṃskāra, p. 128), to the effect that ‘Vedic study’ forms the best
-‘austerity—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 46 b).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 307) as eulogising Vedic study;—in *Vīramitrodaya* (Saṃskāra, p. 509);—in *Smṛticandrikā* (Saṃskāra, p. 128), to the effect that ‘Vedic study’ forms the best ‘austerity—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 46 b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -47,8 +44,7 @@ Vedic study;—in *Vīramitrodaya* (Saṃskāra, p. 509);—in *Smṛticandrikā
 **(verses 165-166)  
 **
 
-See Comparative notes for [Verse
-2.165].
+See Comparative notes for [Verse 2.165].
 </details>
 
 <details><summary>Bühler</summary>

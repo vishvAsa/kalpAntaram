@@ -38,17 +38,13 @@ The next verse explains what are the ‘means’ referred to in this verse.—(4
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 67), which explains
-‘*Saṅgṛhya*’ as ‘*vaśīkṛtya*, ‘compelling’;—and in *Kṛtyakalpataru*
-(78b).
+This verse is quoted in *Vivādaratnākara* (p. 67), which explains ‘*Saṅgṛhya*’ as ‘*vaśīkṛtya*, ‘compelling’;—and in *Kṛtyakalpataru* (78b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Bṛhaspati* (Smṛticandrikā-Vyavahāra, p. 382).—‘The debtor who has
-admitted the loan should be made to pay by such methods as are
-conciliatory and so forth; also by such means as force, confinement in
-the house and the rest.’
+admitted the loan should be made to pay by such methods as are conciliatory and so forth; also by such means as force, confinement in the house and the rest.’
 </details>
 
 <details><summary>भारुचिः</summary>

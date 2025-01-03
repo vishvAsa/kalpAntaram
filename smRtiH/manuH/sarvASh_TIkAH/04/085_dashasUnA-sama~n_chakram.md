@@ -25,8 +25,7 @@ As for the means of subsistence during abnormal times, this shall be described l
 **(verses 4.84-85)  
 **
 
-See Comparative notes for [Verse
-4.84].
+See Comparative notes for [Verse 4.84].
 </details>
 
 <details><summary>Bühler</summary>

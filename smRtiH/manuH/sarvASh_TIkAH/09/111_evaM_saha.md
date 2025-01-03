@@ -70,23 +70,9 @@ cannot be used by another; and further the pouring of oblations in Fires consecr
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vivādaratnākara* (p. 459), which has the note
-that, what is meant is that separation is considered desirable, because
-it affords the opportunity for several performances of sacrifices; it is
-not meant that the *separation* itself is conducive to merit, like the
-performance of the *Jyotiṣṭoma*, or that non-separation is sinful, like
-the eating of the flesh of the animal killed by a poisoned arrow.
+This verse is quoted in *Vivādaratnākara* (p. 459), which has the note that, what is meant is that separation is considered desirable, because it affords the opportunity for several performances of sacrifices; it is not meant that the *separation* itself is conducive to merit, like the performance of the *Jyotiṣṭoma*, or that non-separation is sinful, like the eating of the flesh of the animal killed by a poisoned arrow.
 
-It in quoted in *Aparārka* (p. 719), which adds that conjoint life is
-meant for those cases where some of the brothers may be still studying;
-in cases where all of them have read the Veda and are capable of taking
-the fires, it is far better that they should live separately;—again on
-p. 722, to the effect that it is not necessary that the brothers *must*
-divide immediately after the father’s death;—in *Vivādacintāmaṇi*
-(Calcutta, p. 125) as sanctioning partition as conducive to religions
-merit;—in *Vīramitrodaya* (Vyavahāra 172a);—and by *Jīmūtavāhāna*
-(Dāyabhāga, p. 37), which says that this is a clear case of voluntary
-option.
+It in quoted in *Aparārka* (p. 719), which adds that conjoint life is meant for those cases where some of the brothers may be still studying; in cases where all of them have read the Veda and are capable of taking the fires, it is far better that they should live separately;—again on p. 722, to the effect that it is not necessary that the brothers *must* divide immediately after the father’s death;—in *Vivādacintāmaṇi* (Calcutta, p. 125) as sanctioning partition as conducive to religions merit;—in *Vīramitrodaya* (Vyavahāra 172a);—and by *Jīmūtavāhāna* (Dāyabhāga, p. 37), which says that this is a clear case of voluntary option.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -94,13 +80,10 @@ option.
 *Gautama* (28.4).—‘In partition, there is increase of spiritual merit.’
 
 *Bṛhaspati* (25.6).—‘When several brothers reside in the same house and
-cook their food together, the Pitṛs, Gods and Brāhmaṇas are worshipped
-at a single place; but after they have divided the property, the worship
-takes place separately in each house.’
+cook their food together, the Pitṛs, Gods and Brāhmaṇas are worshipped at a single place; but after they have divided the property, the worship takes place separately in each house.’
 
 *Vyāsa* (Aparārka, p. 719).—‘It has been ordained that while the parents
-are alive, the sons shall live together; when the parents have died, and
-the sons become divided, their spiritual merit increases.’
+are alive, the sons shall live together; when the parents have died, and the sons become divided, their spiritual merit increases.’
 </details>
 
 <details><summary>भारुचिः</summary>

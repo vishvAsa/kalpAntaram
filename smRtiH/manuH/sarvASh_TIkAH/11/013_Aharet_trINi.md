@@ -49,8 +49,7 @@ As a matter of fact, however, what the prohibition refers to is the doing of ‘
 **(verses 11.11-14)  
 **
 
-See Comparative notes for [Verse
-11.11-12].
+See Comparative notes for [Verse 11.11-12].
 </details>
 
 <details><summary>भारुचिः</summary>

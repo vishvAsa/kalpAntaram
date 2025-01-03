@@ -26,8 +26,7 @@ But what the present text contains is not a prohibition) but the injunction of a
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 562);—in *Hemādri*
-(Kāla, p. 726);—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 25a).
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 562);—in *Hemādri* (Kāla, p. 726);—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 25a).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -45,9 +44,7 @@ clothes: nor with one in her courses; nor with one who is unfit.’
 *Gobhila* (3.5.5).—‘Not when she is in her courses.’
 
 *Bṛhannāradīya* (28, 87-88).—‘If one touch a woman in her courses, or a
-Cāṇḍāla, or one who has committed a heinous crime, or a newly delivered
-woman, or the leavings of food, or the washerman and such others,—he
-shall bathe forthwith with his clothes on, etc., etc.’
+Cāṇḍāla, or one who has committed a heinous crime, or a newly delivered woman, or the leavings of food, or the washerman and such others,—he shall bathe forthwith with his clothes on, etc., etc.’
 
 *Viṣṇupurāṇa* (Vīramitrodaya-Āhnika, p. 562).—‘One shall not approach
 his wife before she has bathed or when she is ill, or in her courses.’

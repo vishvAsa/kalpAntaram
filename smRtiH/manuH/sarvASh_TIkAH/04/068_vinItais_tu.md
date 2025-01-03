@@ -47,8 +47,7 @@ This verse is quoted in *Madanapārijāta* (p. 126).
 **(verses 4.67-68)  
 **
 
-See Comparative notes for [Verse
-4.67].
+See Comparative notes for [Verse 4.67].
 </details>
 
 <details><summary>Bühler</summary>

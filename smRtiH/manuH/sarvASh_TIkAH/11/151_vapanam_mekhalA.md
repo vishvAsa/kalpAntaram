@@ -28,9 +28,7 @@ In the performance of the Re-initiation of twice-born men, tonsure, the girdle, 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Smṛtitattva*, (p. 556);—in *Aparārka* (p.
-1075);—in *Smṛtikaumudī* (p. 37), as laying down in what respects the
-expiatory sacrament differs from the ordinary initiatory sacrament;—in
+This verse is quoted in *Smṛtitattva*, (p. 556);—in *Aparārka* (p. 1075);—in *Smṛtikaumudī* (p. 37), as laying down in what respects the expiatory sacrament differs from the ordinary initiatory sacrament;—in
 *Prāyaścittaviveka* (p. 104), which says that all this refers to things
 that had come into contact with wine sometime in the past;—and in
 *Gadādharapaddhati* (Kāla p. 325).
@@ -39,8 +37,7 @@ that had come into contact with wine sometime in the past;—and in
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Vaśiṣṭha* (20.18).—‘They quote a verse proclaimed by Manu:—“The
-tonsure, the sacred girdle, the staff and the begging of alms may be
-omitted at a second Initiation.”’
+tonsure, the sacred girdle, the staff and the begging of alms may be omitted at a second Initiation.”’
 
 *Parāśara* (12, 3).—(Same as Manu.)
 

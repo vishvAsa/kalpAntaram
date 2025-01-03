@@ -64,12 +64,7 @@ It shall be continued so long as the suppression of breath does not begin to be 
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (3.302), which adds that this refers
-to cases where the penetint is unable to give cows;—and in *Aparārka*
-(p. 44 and p. 1216), which adds that this is destructive of all heinous
-offences; and declares that what is here expressly stated implies also
-such observances as celibacy, truthfulness, sleeping on the ground,
-eating only *haviṣya* food and so forth.
+This verse is quoted in *Mitākṣarā* (3.302), which adds that this refers to cases where the penetint is unable to give cows;—and in *Aparārka* (p. 44 and p. 1216), which adds that this is destructive of all heinous offences; and declares that what is here expressly stated implies also such observances as celibacy, truthfulness, sleeping on the ground, eating only *haviṣya* food and so forth.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -81,8 +76,7 @@ month, even the slayer of a learned Brāhmaṇa.’
 *Vaśiṣṭha* (26.4).—(Same as above.)
 
 *Viṣṇu* (55.2).—‘The killer of Brāhmaṇa is purified, if, having
-approached a river, he suspends his breath sixteen times and takes only
-one meal of sacrificial food, each day, for a month.’
+approached a river, he suspends his breath sixteen times and takes only one meal of sacrificial food, each day, for a month.’
 </details>
 
 <details><summary>भारुचिः</summary>

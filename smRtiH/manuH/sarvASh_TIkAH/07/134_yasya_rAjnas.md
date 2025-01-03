@@ -20,18 +20,13 @@ This is the result of disobeying the injunction just mentioned above.—(134)
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Mitākṣarā* (on 3.44);—in *Parāśaramādhava*
-(Ācāra, p. 408);—and in *Vīramitrodaya* (Rājanīti, p. 141), which
-remarks that though this verse mentions the ‘Brāhmaṇa’ in general, yet
-from what follows in the next verse it is clear that what the text means
-is to speak of only the *learned* Brāhmaṇa.
+This verse is quoted in *Mitākṣarā* (on 3.44);—in *Parāśaramādhava* (Ācāra, p. 408);—and in *Vīramitrodaya* (Rājanīti, p. 141), which remarks that though this verse mentions the ‘Brāhmaṇa’ in general, yet from what follows in the next verse it is clear that what the text means is to speak of only the *learned* Brāhmaṇa.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (13.61.30).—‘If in the realm of a king, an Accomplished
-Student suffers from hunger, that realm, along with the king, falls into
-adversity.’
+Student suffers from hunger, that realm, along with the king, falls into adversity.’
 
 *Gautama* (10.9).—‘He shall support Vedic scholars.’
 
