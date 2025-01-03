@@ -68,9 +68,28 @@ Intended saMskAra (by dharma) and prakRti should not be too far apart - else the
 
 > "The influential dharma-shAstra-s (मनुः, याज्ञवल्क्यः ...) expressly state that one should give up what was once deemed "dharma", if it had become hateful to people, and if it would end in unhappiness. Note that it says लोकविकृष्ट/ लोकविद्विष्ट, not शिष्टविद्विष्ट, meaning that even if a few orthodox paNDita-s insist otherwise, people may give up practices hateful to them." (PV kANe's notes: [KLok](http://i.imgur.com/XG0MWDC.jpg))
 
-- परित्यजेदर्थकामौ यौ स्यातां धर्मवर्जितौ। धर्मं चाप्यसुखोदर्कं लोकनिकृष्टमेव च।। -मनुः
--  परित्यजेदर्थकामौ धर्मपीडाकरौ नृप। धर्ममप्यसुखोदर्कं लोकविद्विष्टमेव च॥ विष्णुपुराणं ३, ११, ७
-- कर्मणा मनसा वाचा यत्नाद्धर्मं समाचरेत् । अस्वर्ग्यं लोकविद्विष्टं धर्म्यं अप्याचरेन्न तु । । १.१५६ । । याज्ञ्यवल्क्यस्मृतौ।
+
+
+
+> परित्यजेदर्थकामौ यौ  
+> स्यातां धर्मवर्जितौ।  
+> धर्मं चाप्यसुखोदर्कं  
+> लोकनिकृष्टमेव च।।  
+> -मनुः
+
+>  परित्यजेदर्थकामौ  
+> धर्मपीडाकरौ नृप।  
+> धर्ममप्यसुखोदर्कं  
+> लोकविद्विष्टमेव च॥  
+> 
+> विष्णुपुराणं ३, ११, ७
+
+> कर्मणा मनसा वाचा  
+> यत्नाद् धर्मं समाचरेत् ।  
+> अस्वर्ग्यं लोकविद्विष्टं  
+> धर्म्यं अप्याचरेन्न तु ॥ १.१५६ ॥  
+> 
+> याज्ञ्यवल्क्यस्मृतौ।
 
 #### Allowance for regional variations
   - मनुस्मृतिः \- "तस्मिन् देशे य आचार:  पारम्पर्यक्रमागत: वर्णानां साऽन्तरालानां            स सदाचार उच्यते ।।२/१८।।"

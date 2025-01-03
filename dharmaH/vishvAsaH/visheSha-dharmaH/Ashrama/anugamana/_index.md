@@ -12,6 +12,20 @@ Ritual suicide of widows (including at the husband's funeral pyre).
 - See nithin's article
 - For brAhmaNas, sahagamana was later deemed ok, but not anugamana
 
+> यद् अप्य् आङ्गिरसे "पतिम् अनुम्रियेरन्" इत्य् उक्तम्,  
+तद् अपि नित्यवद् अवश्यं कर्तव्यम् ।  
+फलस्तुतिस् तत्रास्ति ।  
+फलकामायाश् चाधिकारे श्येनतुल्यता ।  
+तथैव "श्येनेन हिंस्याद् भूतानि" इत्य् अधिकारस्य +अतिप्रवृद्धतर-द्वेषान्धतया  
+सत्याम् अपि प्रवृत्तौ न धर्मत्वम् ।
+
+इति मेधातिथिर् मनुभाष्ये।  
+धर्म-गर्हिते विशेष-फले काङ्क्षिते भवत्य् अनुगमनम्।
+
+
+
+> For Brahmins it was forbidden, a negative judgment going back to this Rg-Vedic verse. ... It is only logical that some rulers in the Brahmin-dominated Maratha confederacy forbid the practice even before the British East India Company Governor Lord William Bentinck (under prodding from Hindu reformer Ram Mohan Roy) abolished it by law in 1829.
+
 
 
 ## Practice
@@ -27,9 +41,6 @@ Ritual suicide of widows (including at the husband's funeral pyre).
 
 ### Accounts
 - Bengal, early 19th century - see John Jones account
-
-## Legal status
-> For Brahmins it was forbidden, a negative judgment going back to this Rg-Vedic verse. ... It is only logical that some rulers in the Brahmin-dominated Maratha confederacy forbid the practice even before the British East India Company Governor Lord William Bentinck (under prodding from Hindu reformer Ram Mohan Roy) abolished it by law in 1829.
 
 
 ## Origins
