@@ -29,7 +29,7 @@ But, for others - maybe some other smRti explicitly allows even in other cases, 
 </div>
 
 ### स्त्रीषु - पुनर्-भवः
-[काणे-पाण्डुरङ्गः](/kalpAntaram/nibandhaH/kANe/history/v2p1/14_Remarriage_of_Widows.md)। 
+[काणे-पाण्डुरङ्गः](/kalpAntaram/nibandhaH/kANe/history/v2p1/14_Remarriage_of_Widows)। 
 
 > या पत्या वा **परित्यक्ता**  
 विधवा वा स्वयेच्छया ।  
@@ -40,7 +40,7 @@ But, for others - maybe some other smRti explicitly allows even in other cases, 
 तज्जातश् चापि गर्हितः - श्राद्धादौ नामन्त्रणीय इति; पूर्वपत्युश् चेव् भवति।
 
 #### अक्षतयोनौ
-क्षता योनिः कस्याः? यस्यां लिङ्ग-प्रवशो जात इति प्राचीनाः। किञ्च, हेतुं विचार्य - यस्या अपत्यं न जातम् इति निश्चेतुं वरम्।
+क्षता योनिः कस्याः? यस्यां लिङ्ग-क्षता योनिर् इति प्राचीनाः। किञ्च, हेतुं विचार्य - [जीवद्-]अपत्य-प्रसवेन क्षतिर् इति निश्चेतुं वरम्।
 
 अक्षतयोन्याः पुनर्भूत्वं न तावद् गर्हितम्। 
 
