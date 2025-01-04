@@ -4,6 +4,7 @@ title = "Remarriage, Divorce"
 +++
 
 ## Theory
+Everywhere here Apad-dharma can alter practice. sAmAnya-dharmas are described.
 
 ### घट-श्राद्धम्
 "Divorce" is not a shAstrIya karma - ghaTa-shrAddha would be. Some people do it in case of divorce. (the concern addressed here is the possible fault due to non-performance of Ashaucha for divorced spouse's death etc..)
