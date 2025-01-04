@@ -8,25 +8,6 @@ title = "Remarriage, Divorce"
 ### घट-श्राद्धम्
 "Divorce" is not a shAstrIya karma - ghaTa-shrAddha would be. Some people do it in case of divorce. (the concern addressed here is the possible fault due to non-performance of Ashaucha for divorced spouse's death etc..)
 
-### बहुपत्नीत्वम्
-बहुपत्नीत्वम् अङ्गीकृतम्। "मृता जाया पुनर् जाया" इति लोकोक्तिः प्रसिद्धा।  
-
-किञ्च - आपस्तम्बधर्मसूत्रय् एवं वर्तते - "धर्मप्रजासंपन्ने दारे नान्यां कुर्वीत १२"।
-
-Being in the dharma-sUtra this adhikAri-bheda would (arguably) be a "hard rule" for Apastambins. 
-But, for others - maybe some other smRti explicitly allows even in other cases, leading to a case of "tulya-vikalpa"?
-
-### बहु-पतित्व-निषेधः
-
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/05/162_nA-nyotpannA_prajAstIha.md">
-<details open><summary><h3>162 नाऽन्योत्पन्ना प्रजास्तीह ...{Loading}...</h3></summary>
-
-नाऽन्योत्पन्ना प्रजा ऽस्तीह  
-न चाऽप्य् अन्यपरिग्रहे [मेधातिथिपाठः - न चाऽन्यस्य परिग्रहे] ।  
-न द्वितीयश् च साध्वीनां  
-क्व चिद् भर्तोपदिश्यते  ॥ ५.१६२ ॥ [१६० मेधातिथिपाठे]
-</details>
-</div>
 
 ### स्त्रीषु - पुनर्-भवः
 [काणे-पाण्डुरङ्गः](/kalpAntaram/nibandhaH/kANe/history/v2p1/14_Remarriage_of_Widows)। 
