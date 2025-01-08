@@ -12,11 +12,25 @@ He shall wake up at the point of time sacred to Brahman, and then think over the
 
 त्रियामा रात्रिः, तस्याः पश्चिमो **ब्राह्मो मुहूर्तः** । तत्र निद्रां त्यजेत् । विबुद्धश् च तस्मिन् काले **धर्मार्थाव् अनुचिन्तयेत्** । यस्मिंश् च धर्म आसेव्यमाने यादृशः शरीरक्लेशो भवति तम् अपि चिन्तयेत् । स्वल्पश् चेद् धर्मो महान्तं कायक्लेशं जनयति, यो धर्मान्तरविरोधी, तं परिहरेत् । 
 
-- अर्थो ऽपि सेवादिः अतिक्लेशकरः, सो ऽपि वर्ज्यः । "सर्वत एवात्मानं गोपायेत्" (ग्ध् ९.३४) इति । अनिश्चित्य न किंचिद् कुर्यात् । न च मनोराज्यादिविकल्पान् कुर्यात् । स्वभावो ह्य् अयं पुरुषाणाम् असति बाह्ये व्यापारे मनसो विकल्पाः परद्रव्याभिलाषादिरूपाः समुद्भवन्ति । तन्निवृत्त्यर्थम् इदं पुरुषार्थम् । 
+अर्थो ऽपि सेवाऽदिः अतिक्लेशकरः, सो ऽपि वर्ज्यः ।  
+"सर्वत एवात्मानं गोपायेत्" (ग्ध् ९.३४) इति ।  
 
-- तस्यां वेलायां साध्यसाधनभावेन चिन्त्यो **वेदस्य तत्त्वार्थः** । रहस्यम् आत्मज्ञानं चिन्तयेद् वेदान्तविधिनाभ्यस्येत् ।
+अ-निश्चित्य न किंचिद् कुर्यात् ।  
+न च मनो-राज्यादि--विकल्पान् कुर्यात् ।  
+स्वभावो ह्य् अयं पुरुषाणाम् -  
+असति बाह्ये व्यापारे  
+मनसो विकल्पाः पर-द्रव्याभिलाषादि-रूपाः समुद्भवन्ति ।+++(5)+++  
+तन्-निवृत्त्य्-अर्थम् इदं पुरुषार्थम् । 
 
-- <u>अथ वा</u> कर्मकाण्डे ऽपि यो वेदस् तस्यार्थस् तं निरूपयेत् । अयं विधिः, अयम् अर्थः, इदं कर्मैवं रूपम्, इयम् अत्र देवता, इदं द्रव्यम्, अयम् अत्राधिकारी, इयम् इतिकर्तव्यता, इत्यादि स्वबुद्ध्या निश्चिनुयात् । व्याख्यातॄणां मतभेदाद् धेतून् निरूपयेद् अस्य सम्यग्ज्ञानम् अस्य भ्रान्तिर् इति ॥ ४.९२ ॥
+तस्यां वेलायां  
+साध्य-साधन-भावेन चिन्त्यो **वेदस्य तत्त्वार्थः** ।  
+रहस्यम् आत्मज्ञानं **चिन्तयेद्** वेदान्तविधिना ऽभ्यस्येत् ।
+
+<u>अथ वा</u> कर्मकाण्डे ऽपि यो वेदस्  
+**तस्यार्थस्** तं निरूपयेत् । 
+
+"अयं विधिः", "अयम् अर्थः", "इदं कर्मैवं रूपम्", "इयम् अत्र देवता", "इदं द्रव्यम्", "अयम् अत्राधिकारी", "इयम् इतिकर्तव्यता" इत्यादि स्व-बुद्ध्या निश्चिनुयात् ।  
+व्याख्यातॄणां मतभेदाद् +धेतून् निरूपयेद् - "अस्य सम्यग् ज्ञानम्, अस्य भ्रान्तिर्" इति ॥ ४.९२ ॥+++(5)+++
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -27,7 +41,9 @@ Fully awakened at the said time, he shall ‘*think over the means of acquiring 
 
 What is meant is that he should not do anything without having duly thought over it, and that he should not indulge in building castles in the air. It is the very nature of men that, when they are not outwardly engaged, there arise in their minds many fancies, in the form of a longing for obtaining what belongs to others, and so forth. And it is the avoiding of this that the text lays down, with a view to the man’s temporal interests.
 
-At the said time, ‘*the true meaning of the Veda*’ should also be thought over, in its bearing upon causes and effects. That is, one should meditate, in the manner laid down in the Vedānta, upon the esoteric science of the Soul. Or, in connection with the ritualistic section of the Veda also, he should ponder over the real meaning of the texts; that is, in his own mind he should determine that ‘this is an Injunction,’ ‘this its meaning;’ ‘this the action prescribed,’ ‘this is the form of the act,’ ‘this is the Deity of this sacrifice,’ ‘this the material to be employed,’ ‘such and such a person is entitled to its performance,’ ‘such and such is the procedure to be adopted,’ and so forth. He should also ponder over the diverse explanations provided by the Commentators, and with the help of reason, he should decide whose explanation is correct and whose wrong.—(92).
+At the said time, ‘*the true meaning of the Veda*’ should also be thought over, in its bearing upon causes and effects. That is, one should meditate, in the manner laid down in the Vedānta, upon the esoteric science of the Soul. 
+
+Or, in connection with the ritualistic section of the Veda also, he should ponder over the real meaning of the texts; that is, in his own mind he should determine that ‘this is an Injunction,’ ‘this its meaning;’ ‘this the action prescribed,’ ‘this is the form of the act,’ ‘this is the Deity of this sacrifice,’ ‘this the material to be employed,’ ‘such and such a person is entitled to its performance,’ ‘such and such is the procedure to be adopted,’ and so forth. He should also ponder over the diverse explanations provided by the Commentators, and with the help of reason, he should decide whose explanation is correct and whose wrong.—(92).+++(5)+++
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
