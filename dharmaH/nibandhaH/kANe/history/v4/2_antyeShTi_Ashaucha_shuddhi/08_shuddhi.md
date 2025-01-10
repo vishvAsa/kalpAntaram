@@ -416,9 +416,12 @@ Even if a person's wife left him and lived in illicit relationship with a person
 
 Certain exceptions were recognized to the above rules about partaking of food at the house of one who is afflicted with āśauca. 
 
+#### Post-commencement
 While a marriage[^651] rite (as also _caula_ and _upanayana_ ), festival in honour of a deity and a sacrifice (like Jyotiṣṭoma ) are in progress, if impurity due to birth or death overtakes the performer, the materials (money and other things ) already set apart for them may be dedicated or donated to the deity or brāhmaṇas and no fault is incurred. 
 
-As regards food, a smṛti text[^652] quoted by the Mit. says 'if in marriage, in a festival in honour of a deity or in a sacrifice āśauca on birth or death intervenes, the cooked food should be served through others (not affected by the āśauca) and the donor and the partaker of the food incur no blame. 
+As regards food, a smṛti text[^652] quoted by the Mit. says 
+
+> 'if in marriage, in a festival in honour of a deity or in a sacrifice āśauca on birth or death intervenes, the cooked food should be served through others (not affected by the āśauca) and the donor and the partaker of the food incur no blame.' 
 
 Acc. to Aṅgiras[^653], Paiṭhinasi (q. by Sm. C.) and Viṣṇu Dh. S., when once a sacrifice (like a Somayāga), a marriage, a sacrifice or festival in honour of the mother Goddesses or a deity or the dedication or foundation of an idol or temple has been begun a supervening āśauca does not matter. 
 
@@ -426,9 +429,10 @@ Even in modern times this is followed as regards upanayana and marriage. When ex
 
 - in the case of a sacrifice it may be said to begin when the priests are chosen, 
 - in the case of vratas and _japa_ when the saṅkalpa (declaration) is made, 
-- in the case of marriage when the Nândiśrāddha is performed, 
+- in the case of marriage when the Nāndiśrāddha is performed, 
 - and in the case of a śrāddha when the food meant for the brāhmaṇas has been cooked completely. 
-  
+
+#### Things which can be taken
 Certain things could be taken from the house of one who was undergoing āśauca[^655] on birth or death and who was the owner thereof (though not actually from his hand, but with his permission). The Kūrmapurāṇa enumerates such articles. They are "fruits, flowers, raw vegetables, salt, firewood, butter-milk, curds, ghee, oil, drugs, milk and dry food" (like _laddus_, lājas ). 
 
 Marīci (q. by Mit. on Yaj. III. 17) and Trimśac-chloki verse 20 present oven longer lists of such things.
@@ -443,6 +447,7 @@ Marīci (q. by Mit. on Yaj. III. 17) and Trimśac-chloki verse 20 present oven l
 
 [^655]: फलानि पुष्पं शाकं च लवणं काष्ठमेव च । तक्रं दधि घृतं तैलमौषधं क्षीरमेव च । आशौंचिनां गृहादग्राह्यं शुष्कान्नं चैव नित्यशः । कूर्मपुराण, उत्तरार्ध 23.66q.in हारलता p:31.
 
+### Slaves
 Some smṛtis and commentators lay down rules about the aśauca to be observed by slaves when their masters are in āśauca. Vide Viṣṇu Dh. S. 22.19, Devalasmṛti verse 6, Bṛhaspati quoted by Haradatta on Gaut. 14.4. But as slavery has long been abolished this topic is passed over here.
 
 ### Āśaucasannipāta
@@ -453,7 +458,9 @@ _Āśaucasannipāta_ or _āśaucasampāta_ (the knowledge of another āśauca co
 
 #### Rules on āśaucasannipāta
 
-Some general rules concerning this topic may first be stated. The first rule is that in a conflict between āśauca on death and āśauca on birth, that on death is stronger[^657]. The 2nd rule is that if both āśaucas are of the same kind and the second is of the same duration or of lesser duration than the first then a man gets rid of both at the end of the first, but if the second, though of the same kind, has a longer duration than the first, then purification follows at the end of the one that is of longer duration. It has to be remembered that birth and death give rise to āśauca[^658] only when they are known by a person.
+Some general rules concerning this topic may first be stated. 
+
+The first rule is that in a conflict between āśauca on death and āśauca on birth, that on death is stronger[^657]. The 2nd rule is that if both āśaucas are of the same kind and the second is of the same duration or of lesser duration than the first then a man gets rid of both at the end of the first, but if the second, though of the same kind, has a longer duration than the first, then purification follows at the end of the one that is of longer duration. It has to be remembered that birth and death give rise to āśauca[^658] only when they are known by a person.
 
 On this topic there is a good deal of divergence between the views of the followers of the Mitakṣarā, of the Gaudas and Maithilas (vide Śuddhiprakāsa pp. 74-82, Nirṇayasindhu 536-540). Following the Nirṇayasindhu it may be said that twelve alternatives are possible, when another āśauca supervenes on an already existing one. They are set out here. (1 & 2) If both āśaucas are due to birth and the second is of the same duration as the first or of lesser duration, then at the end of the first āśauca there is purification from both (Visṇu 22.35, Sankha 15.70); (3) If both āśaucas are due to birth and the second one is of longer duration than the first then purification results at the end of the second (Śankha 15.10, Ṣadaśiti 19 ); ( 4 and 5) If both āśaucas arise on death and the second is of the same duration as the first or of lesser duration, then at the end of the period of the first aśauca there is purification from both; (6) If both āśaucas arise on death and the second that intervenes is of longer duration than the first then purification results at the end of the second (Ṣadaśīti 21); (7, 8 and 9) When the firt āśauca is one arising from birth and an āśauca due to deaths intervenes, the āśauca on death must run its full course (i.e. there is no purification by the lapse of the first āśauca due to birth), whether the āśauca for death is of lesser duration than the āśauca on birth, or whether it is of the same or of longer duration (Ṣadaśiti 18); (10, 11) If the[^659] first āśauca arises on death and the supervening one is due to birth and is of lesser duration than the one on death or of the same duration then both end at the expiration of the first āśauca on death (Ṣadasīti 21); (12) If the first āśauca arises on death and the supervening one arises on birth and is of longer duration, then both run their proper courses (Ṣadaśīti 21).
 
@@ -463,7 +470,11 @@ On this topic there is a good deal of divergence between the views of the follow
 
 [^659]: जातके नैव मृतकं क्षयं याति न संशयः । बृहद्यम IV. 20; जातके मृतकं वा स्यान्मृतके सूतकं तथा। सूतके मृतके शद्धिर्मते शद्धिस्तु सूतके ॥ लघुहारीत 58.
 
-The Dharmasindhu (p. 436) generally follows the Nirṇayasindhu but remarks: 'Āśauca on death cannot be done away with by āśauca on birth which is of the same or greater duration; āśauca on death of the extent of pakṣiṇī cannot get rid of āśauca on birth which is three or ten days in duration and āśauca on birth extending to ten days cannot be got rid of by āśauca on death which is of three days' duration'. These are the views of many writers. A certain writer says that āśauca on birth though longer in duration can be got rid of by āśauca on death which is of lesser extent.
+The Dharmasindhu (p. 436) generally follows the Nirṇayasindhu but remarks: 
+
+> 'Āśauca on death cannot be done away with by āśauca on birth which is of the same or greater duration; āśauca on death of the extent of pakṣiṇī cannot get rid of āśauca on birth which is three or ten days in duration and āśauca on birth extending to ten days cannot be got rid of by āśauca on death which is of three days' duration'. 
+
+These are the views of many writers. A certain writer says that āśauca on birth though longer in duration can be got rid of by āśauca on death which is of lesser extent.
 
 The Mit. on Yāj. III, 20 (first half) states an exception to the above rules about āśauca-sannipāta. When a person's mother dies and then, while the period of āśauca for the mother's death is not over, the father dies, it does not follow that the āśauca for the father comes to an end with the end of the āśauca for the mother, but the son has to observe the full period of[^660] the āśauca for father's death. Similarly, if the father died first and then, while the period of āśauca for the father was not over, the mother died, it does not follow that the āśauca for the mother's death comes to an end with the end of the first period of āśauca for the father, but the son after observing the period of the father's āśauca has to observe āśauca for the mother for one pakṣiṇī in addition. It may be remarked that Aparārka construes this verse differently by stating that if the father dies during the period of āśauca for the death of the mother, then the general rule applies, viz, that purification follows at the end of the āśauca for the mother.
 
@@ -485,11 +496,21 @@ It has already been seen (p. 274) that Dakṣa (VI. 2) speaks of ten kinds of im
 [^663]: सद्यःपरुत्परायैषमः परेद्यव्यद्यपूर्वेद्युरन्येद्युरन्यतरेद्युयरितरेद्युरपरेद्युरधरेद्युरुभयेद्युरुप्तरेद्युः। पा. V. 3,22. 'समानस्य सभावो द्यस् चाहनि' is वार्तिक on the सूत्र.  The महाभाष्य explains 'समानेऽहनि सद्यः'.
 
 
-The Śuddhitattva (pp. 340-341 ) explains[^664] 'sadyaḥ' as meaning 'a portion of the day or of the night' and cites several authorities in support. The Śuddhiprakāśa (p. 92) explains that 'sadyaḥśauca' in some contexts means 'absence of āśauca,' while in others it means 'bath' and with reference to those killed in battle and the like (to whom piṇḍas have to be offered) it means a part of the day or of the night.' The Smṛtimuktāphala[^665] (āśaucakāṇḍa ) p.481 says that'sadyaḥśauca' means 'impurity that comes to an end by a bath.' That piṇḍas have to be offered to those about whom there is 'sadyaḥśauca' is stated by the Adipurāṇa[^666]. 
+The Śuddhitattva (pp. 340-341 ) explains[^664] 'sadyaḥ' as meaning 'a portion of the day or of the night' and cites several authorities in support. 
+
+The Śuddhiprakāśa (p. 92) explains that 'sadyaḥśauca' in some contexts means 'absence of āśauca,' while in others it means 'bath' and with reference to those killed in battle and the like (to whom piṇḍas have to be offered) it means a part of the day or of the night.' The Smṛtimuktāphala[^665] (āśaucakāṇḍa ) p.481 says that'sadyaḥśauca' means 'impurity that comes to an end by a bath.' That piṇḍas have to be offered to those about whom there is 'sadyaḥśauca' is stated by the Adipurāṇa[^666]. 
 
 According to the Śuddhikaumudi (p.73) 'sadyaḥśauca' has two meanings, viz. (1) the entire absence of āśauca as in the cases of sacrificial priests &c. (Yāj. III. 28), (2) āśauca that is removed by a mere bath ( as in Manu V. 76).
 
-The rules about āśauca for several days do not operate in five classes of cases, viz. certain persons are exempted altogether, certain activities of certain _persons_ who would ordinarily be untouchable owing to āśauca are allowed without causing pollution, certain _articles_ can be taken by anybody without fear of pollution from those who are affected by āśauca, no āśauca is to be observed _for certain deceased_ persons owing to their faults, in the case of certain persons _express texts_ say that no āśauca need be observed for them. These five classes will briefly be dealt with in order. In the principal texts these five classes of cases are rather mixed up. 
+The rules about āśauca for several days do not operate in five classes of cases, viz. 
+
+- certain persons are exempted altogether, 
+- certain activities of certain _persons_ who would ordinarily be untouchable owing to āśauca are allowed without causing pollution, 
+- certain _articles_ can be taken by anybody without fear of pollution from those who are affected by āśauca, 
+- no āśauca is to be observed _for certain deceased_ persons owing to their faults, 
+- in the case of certain persons _express texts_ say that no āśauca need be observed for them. 
+
+These five classes will briefly be dealt with in order. In the principal texts these five classes of cases are rather mixed up. 
 
 [^664]:  अत्र सद्यःपदमहोरात्रार्धपरम्।...द्वे सन्ध्ये सद्य इत्याहुस्त्रिसन्ध्यैकाहिकः स्मृतः।  द्वावह्नावेकरात्रिश्च पक्षिणीत्यभिधीयते ॥ इति भट्टनारायणवचनात् । द्वे सन्ध्ये सद्य इत्याहु स्त्रिन्ध्यैकाह उच्यते। दिनद्वयैकरात्रिस्तु पक्षिणीत्यभिधीयते इति नव्यवर्धमानधृतवचनाच्च। सद्य एकाहेनाशौचमिति पारिजाते सद्य एकाहेनेति स्मृतिसारे। एकमहः सद्य इति शुद्धिपञ्ज्यां दर्शनाच्चति । तच्चार्धे दिनमात्रं रात्रिमात्रं च। एतदेव क्वचित् सज्योतिःपदेन व्यपदिश्यते। शुद्धितत्व pp. 340-341. शुद्धिप्रकाश p. 93 states that the verse द्वे सन्ध्ये सद्य occurs in the गोभिलभाष्य of नारायणभट्ट.
 
@@ -497,11 +518,28 @@ The rules about āśauca for several days do not operate in five classes of case
 
 [^666]: दिवसे दिवसे पिण्डो देय एवं क्रमेण तु । सद्यःशौचेपि दातव्याः सर्वेपि युगपत्तथा । आदिपुराण q. by हारलता p. 165. The latter half is cited as from ब्रह्मपुराण by रघुनाथ on त्रिशच्छोकी verse 28 p. 249. It is not unlikely that the ब्रह्मपुराण which is mentioned in several works as the first of the 18 पुराणs was therefore and called आदिपुराण.
 
-#### Cases of sadyah-śauca
+#### Exempt people
+Cases of sadyah-śauca
 
 In the Viṣṇupurāṇa III, 13.7 it is provided that there is sadyaḥśauca on the death of a child, or of a person dying in another country, of a patita, or of an ascetic, or on the death of a person committing suicide by water, fire or hanging. Vide also Gaut. 14.11 and 42 and Vāmanapurāṇa 14.99.
 
-Yāj. (III. 28-29 ) prescribes that there is sadyaḥśauca (purification after a bath ) in case of birth or death of a sapiṇda ) for priests chosen for a sacrifice (after they are offered Madhuparka ), for those who have undergone _dīkṣā_ for a vedic sacrifice (like _Somayāga_) and those who are engaged in performing the constituent parts of a Vedic sacrifice, those who continuously distribute food at a charity house, those who are engaged in prāyascittas like cāndrāyaṇa or the vows of _snātakas_, for brahmacārins (when performing the duties of their _āśrama_ ), for persons who everyday make gifts of a cow, gold etc. (at the time of making the gift), for those who have realized Brahman (ascetics); there is sadyaḥśauca at gifts ( when once begun), at marriage, in a Vedic sacrifice, in battle (for those who are about to be engaged in it), when there is commotion in a country (through invasion ), and in a severe calamity (like famine when one can accept food from any body). 
+Yāj. (III. 28-29 ) prescribes that there is sadyaḥśauca (purification after a bath ) in case of birth or death of a sapiṇda ) 
+
+- for priests chosen for a sacrifice (after they are offered Madhuparka ), 
+- for those who have undergone _dīkṣā_ for a vedic sacrifice (like _Somayāga_) and 
+- those who are engaged in performing the constituent parts of a Vedic sacrifice, 
+- those who continuously distribute food at a charity house, 
+- those who are engaged in prāyascittas like cāndrāyaṇa or the vows of _snātakas_, 
+- for brahmacārins (when performing the duties of their _āśrama_ ), 
+- for persons who everyday make gifts of a cow, gold etc. (at the time of making the gift), 
+- for those who have realized Brahman (ascetics); 
+
+there is sadyaḥśauca 
+
+- at gifts ( when once begun), at marriage, 
+- in a Vedic sacrifice, in battle (for those who are about to be engaged in it), 
+- when there is commotion in a country (through invasion ), and 
+- in a severe calamity (like famine when one can accept food from any body). 
 
 ##### Kings
 Gaut. (14, 43-44) says that there is sadyaḥśauca in the case of kings as otherwise there will be obstacles in their duties and also in the case of brāhmaṇas in order to prevent the cessation of their duties of teaching. Śaṅkhalikhita says the same - 
@@ -525,14 +563,30 @@ The Kūrmapurāṇa[^669] provides
 
 > 'no impurity is declared on death in the case of perpetual or temporary brahmacārins, forest hermits or ascetics'. 
 
-Similar rules are given by Atri 97-98, Linga-purāṇa, pūrvabhāga, chap. 89.77. The Mit. on Yāj. III, 28 remarks that in the case of the three āśramas of _brahmacārin_, _vānaprastha_ and _yati_ there is freedom from impurity in all cases and at all times; ascetics and brahmacārins have to undergo a bath with clothes on the death of their father or mother (Dharmasindhu p. 442); in the case of several others such as those who are continually making gifts or are observing vratas there is freedom from impurity only when they are engaged in those particular actions and not when they are engaged in any action whatever or when they mix up among others for everyday work[^670]. 
+Similar rules are given by Atri 97-98, Linga-purāṇa, pūrvabhāga, chap. 89.77. The Mit. on Yāj. III, 28 remarks that 
+
+- in the case of the three āśramas of _brahmacārin_, _vānaprastha_ and _yati_ there is freedom from impurity in all cases and at all times; 
+- ascetics and brahmacārins have to undergo a bath with clothes on the death of their father or mother (Dharmasindhu p. 442); 
+- in the case of several others such as those who are continually making gifts or are observing vratas 
+
+there is freedom from impurity only when they are engaged in those particular actions and not when they are engaged in any action whatever or when they mix up among others for everyday work[^670]. 
 
 Similar rules occur in Parāśara III, 21-22. It has already been stated following Manu V. 91 ( = Viṣṇu 22.86 ) that a brahmacārin was not to perform the last rites (of carrying the corpse, cremation) for anybody except for five persons (viz. his parents, upadhyāya, ācārya and guru). He did not incur āśauca by performing the funeral rites of his parents and offering water and piṇḍa to them. But if he did so for any one other than the five mentioned by Manu he had to observe āśauca for ten days, and to undergo prāyaścitta and had his _upanayana_ performed again. 
 
 A brahmacārin had to observe after _samāvartana_ (returning from the Vedic teacher) āśauca for three days for all relatives that died during the period of his studenthood (Manu V. 88, Viṣṇu Dh. S. 22.87). 
 
 ##### Misc
-Gautama (14. 42-44) says generally[^671] that on the death of children (before the appearance of teeth or before Cūda), of those who are separated by a country, of ascetics and of those who are not sapiṇḍas, the relatives are purified by only a bath; so also there is sadyaḥśauca for kings, for otherwise there would be conflict with their duty of protecting the subjects and for a brāhmaṇa also in order that there may be no cessation of Vedic study[^672]. 
+Gautama (14. 42-44) says generally[^671] that 
+
+- on the death of children (before the appearance of teeth or before Cūda), 
+- of those who are separated by a country, 
+- of ascetics and of those who are not sapiṇḍas, 
+
+the relatives are purified by only a bath;  
+so also there is sadyaḥśauca 
+
+- for kings, for otherwise there would be conflict with their duty of protecting the subjects 
+- and for a brāhmaṇa also in order that there may be no cessation of Vedic study[^672]. 
 
 The Śuddhiprakāśa (p. 93) remarks that though there is no āśauca ( as stated by Yāj. III. 28 ) yet a sacrificial priest and a diksita had to bathe on the death of a sapiṇda, a brahmacārin also would have to take a bath if he followed the funeral procession of his father or mother &c., but an ascetic would not have even to bathe and that usage was the same in its day.
 
@@ -546,11 +600,11 @@ The Śuddhiprakāśa (p. 93) remarks that though there is no āśauca ( as state
 
 [^672]: शिल्पिनः कारुका वैद्या दासीदासाश्च नापिताः। राजानः श्रोत्रियाश्चैव सद्यःशौचाः प्रकीर्तिताः ॥ सव्रतः सत्रपूतश्च आहिताग्निश्च यो द्विजः। राज्ञश्च सूतकं नास्ति यस्य चेेच्छति पार्थिवः ॥ पराशर III.20-21.
 
-### Craftsmen etc.
+#### Craftsmen etc.
 
 The second class of exceptions refers to cases where certain persons, though they have incurred āśauca, are allowed to do certain acts or carry on their activities without bringing pollution to those with whom they deal or come in contact. For example, Parāśara (III. 20-21) says; 
 
-> 'craftsmen (such as those who draw pictures or washermen), workers (cooks and the like), physicians, male and female slaves, barbers, kings and _śrotriyas_ are declared to be sadyaḥśauca, as also one observing a _vrata_ (cândrāyana &c.), one purified by being engaged in a sattra (such as Gavām-ayana), a brāhmaṇa who has established śrauta fires; the king has not to observe āśauca and also any one (such as his purohita) whom the king for his own purpose desires not to observe it.' 
+> 'craftsmen (such as those who draw pictures or washermen), workers (cooks and the like), physicians, male and female slaves, barbers, kings and _śrotriyas_ are declared to be sadyaḥśauca, as also one observing a _vrata_ (cāndrāyana &c.), one purified by being engaged in a sattra (such as Gavām-ayana), a brāhmaṇa who has established śrauta fires; the king has not to observe āśauca and also any one (such as his purohita) whom the king for his own purpose desires not to observe it.' 
 
 The Adipurāṇa[^673] gives the reason why craftsmen, physicians and others were allowed not to observe āśauca when engaged in their peculiar tasks, viz. what these people do cannot be done by any one else at all or at least so well or so easily.
 
@@ -562,9 +616,10 @@ It has already been seen (pp. 238–240) that Pār. gr. III. 10 (nityāni viniva
 
 The Dharmasindhu (p. 552) emphasizes that this exception to aśauca should be availed of only when there is no other alternative or in a season of distress.
 
+#### Material procurement
 It has already been stated how certain materials and things can be received without any pollution from those who are undergoing āśauca. That is the third class of cases which are exceptions to the rules of āśauca.
 
-### Suicides, criminals etc.
+#### Suicides, criminals etc.
 Cases of no āśauca
 
 The fourth class of cases where rules of āśauca do not apply relate to persons deceased to whom some fault or taint attaches, Gaut. (14, 11)[^677] and Śaṅkha-Likhita provide that there is sadyaḥśauca for those who kill themselves (i.e. commit suicide) by starting on the great journey (to the Himālaya), by fasting, by a weapon (like a dagger), by fire or poison or water or by hanging or by falling down from a precipice.
@@ -595,14 +650,14 @@ Long passages are quoted from the Brahmapurāṇa by Haradatta on Gaut. 14. 11, 
 
 If an _āhitāgni_ were killed by cāṇḍālas in defiant fight with them or commits suicide, his corpse should be got cremated by śūdras without proper mantras and Gobhilasmṛti (III. 49-51) provides for the disposal of his śrauta fires and sacrificial implements. 
 
-#### Mahāprasthāna
+##### Mahāprasthāna
 Though suicide was generally condemned, the smṛtis (such as Atri 218-219) and Purāṇas allowed certain exceptions, viz. very old men (above 70), very weak men who cannot observe the rules of bodily purification or those who have no desire left for the pleasures of the senses or who have carried out all tasks and duties, may start on _Mahāprasthāna_ or die at Prayāga. Vide H. of Dh. vol. II, pp. 926-928 for detailed treatment of this topic. 
 
 If a man killed himself in the way allowed by the śāstra then there was no blemish and āśauca had to be observed and water and srāddha had to be offered. 
 
 It may be noted that starting on Mahāprasthāna and suicide on the part of old men by falling down from a precipice or in fire are forbidden in the Kali age. Vide H. of Dh. vol. III p. 939 and pp. 958-959.
 
-#### Nārāyaṇabali described
+##### Nārāyaṇabali described
 
 The Mit. on Yāj. III. 6 quotes Vṛddha-Yājñavalkya and Chāgaleya to the effect that in the case of those who commit suicide in any manner that is not sanctioned by the śāstras, Nārāyaṇabali should be performed one year after their death and then the rites of śrāddha may be performed thereafter, The Mit.[^681] on Yāj. III. 6, relying on Viṣṇupurāṇa describes the Nārāyaṇabali as follows: 
 
@@ -642,7 +697,7 @@ The Nirṇayasindhu first describes Nārāyaṇabali as gathered from Hemādri a
 
 The Vaikhānasa-smārtasūtra (X. 9) sets out a rather brief procedure of Nārāyaṇabali which was intended for the benefit of men who committed suicide or were slain and for ascetics and provides that the same may be performed for those guilty of _mahāpātakas_ after twelve years from their death. The Baudhāyana-gṛhya-śeṣasūtra III. 20 and 21 contain two different sets of the procedure of Nārāyaṇabali, the latter of which appears to be the later one. The latter contains the well-known Verse about death at the hands of cāṇḍālas, from a snake &c.
 
-### Heroes
+#### Heroes
 The 5th class of exceptions to āśauca rules comprises those that are declared by express texts as not liable to observe an āśauca. Gautama (14. 8-10) provides[^687] that (the sapiṇḍas) of those that met death for the sake of cows and brāhmaṇas, of those that met death through the wrath of the king and those that were killed in battle have to observe no āśauca but only 'sadyaḥśauca'. 
 
 Manu V. 95 and 98 state[^688] that (the sapiṇḍas) of those that are killed in a sudden affray or by lightning or by the king (for an offence) or of those that met death in protecting cows and brāhmaṇas and of one who was killed in the fashion of kṣatriyas in a battle by the sword have to observe no aśauca, as also he whom the king desires (for his purpose) to observe no āśauca. 
@@ -753,7 +808,7 @@ Manu V. 106 provides that of all kinds of purity mental purity is the highest. H
 ### Body purity
 External purity of the body by various means (rinsing the mouth, bath & c.) has already been described in detail in H. of Dh. vol. II pp. 648-668. The ancient and medieval Indians insisted on a daily bath for all, recommended two baths a day in certain cases and three baths to a hermit and did not subscribe to the view of some of the early Christians. St. Agnes was canonized primarily for her refusal to bathe and St. Francis of Assisi considered dirt as one of the proper insignia of holy poverty[^698].
 
-In śrauta rites ( such as Agniṣṭoma ) the sacrificer had to undergo a severe discipline of consecration (or dikṣā), one item of which was the purification of the intending sacrificer's body by the _adhvaryu_ priest by rubbing the former's body twice with three bunches of seven darbhas each (vide H, of Dh. vol. II. p. 1136). Śatātapa q. by Sm. C. I. p. 120, Śuddhiprakāśa p. 147 provide bath for one who has sexual intercourse with his wife during the period from the 5th to the 16th day after monthly illness begins, but for intercourse after these days the purification is the same as for urination and voiding ordure ; bath is also prescribed for vomiting after sunrise, after shaving, after a bad dream, on the touch of foul men (such as cândālas).
+In śrauta rites ( such as Agniṣṭoma ) the sacrificer had to undergo a severe discipline of consecration (or dikṣā), one item of which was the purification of the intending sacrificer's body by the _adhvaryu_ priest by rubbing the former's body twice with three bunches of seven darbhas each (vide H, of Dh. vol. II. p. 1136). Śatātapa q. by Sm. C. I. p. 120, Śuddhiprakāśa p. 147 provide bath for one who has sexual intercourse with his wife during the period from the 5th to the 16th day after monthly illness begins, but for intercourse after these days the purification is the same as for urination and voiding ordure ; bath is also prescribed for vomiting after sunrise, after shaving, after a bad dream, on the touch of foul men (such as cāndālas).
 
 [^698]: Vide Reginald Reynolds' work on ' Cleanliness and godliness' p.36 (chapter IV).
 
