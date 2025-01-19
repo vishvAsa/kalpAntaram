@@ -3,12 +3,30 @@ title = "Remarriage, Divorce"
 
 +++
 
+
 ## Theory
 Everywhere here Apad-dharma can alter practice. sAmAnya-dharmas are described.
 
+### विवाहाभाव-पक्षः
+> > **आ शुद्धेः संप्रतीक्ष्यो हि महापातकदूषितः ॥ १.७७ ॥**
+>
+> पतिश् चेन् महा-पातकी  
+तदा प्रयश्चित्तापवर्गं यावत् प्रतिक्ष्यः ।  
+महापातक-युक्तो न शुश्रूष्य इत्य् अर्थः ।  
+एतच् च विवाहोत्तर-कालं भर्तुः पातित्ये सति द्रष्टव्यम् ।  
+विवाहात् पूर्वं पतितेनोढा ऽपि  
+न भार्या - शास्त्रीयोद्वाहाभावात्  +++(5)+++ ॥ १.७७ ॥
+
+इत्य् अपरार्कः।
+
+### पतितस्य प्रतीक्षा
+> स्त्रीभिर् भर्तृवचः कार्यम् एष धर्मः परः स्त्रियाः ॥  
+> आ शुद्धेः संप्रतीक्ष्यो हि महापातकदूषितः ॥ १.७७ ॥
+
+इति याज्ञवल्क्यः। अनेन पतिप्रतीक्षा विहिता। 
+
 ### घट-श्राद्धम्
 "Divorce" is not a shAstrIya karma - ghaTa-shrAddha would be. Some people do it in case of divorce. (the concern addressed here is the possible fault due to non-performance of Ashaucha for divorced spouse's death etc..)
-
 
 ### स्त्रीषु - पुनर्-भवः
 [काणे-पाण्डुरङ्गः](/kalpAntaram/nibandhaH/kANe/history/v2p1/14_Remarriage_of_Widows)। 

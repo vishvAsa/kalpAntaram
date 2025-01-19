@@ -1,5 +1,5 @@
 +++
-title = "Ch Aturvar Nya sa Msk Rti vimarsha H"
+title = "चातुर्वण्य-संस्कृतिविमर्शः"
 +++
 
 TODO: परिष्कार्यम्। 

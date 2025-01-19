@@ -2,6 +2,16 @@
 title = "कुम्भ-पर्व-माहात्म्यम्"
 +++
 
+<details><summary>कुशाग्र-टिप्पनी</summary>
+
+These are suspect. The Vedic sources are obviously suspect. Even the Puranic verses are not found in the extant versions. 
+
+If the verses were found in medieval nibandhas such as त्रिस्थलीसेतु, they might still be acceptable. But yesterday I was reading the Prayaga section of the book and I couldn’t find them. 
+
+Even the name प्रयागराज (instead of प्रयाग) is suspect and based on a citation which isn’t found anywhere. In short, there is a major lack of research on this matter.
+</details>
+
+
 कुम्भपर्व माहात्म्य
 
 
