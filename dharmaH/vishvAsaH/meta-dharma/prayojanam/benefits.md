@@ -22,10 +22,30 @@ A study by Bryan Pesta and colleagues finds a strong positive association betwee
 
 </details>
 
+### Local/ family level
+यथाह वेङ्कटनाथार्यः -
+
+> **परित्यागे** +++(सति)+++ सद्यस् स्व-पर-विविधानर्थ-**जननाद्** -  
+**अ-लङ्घ्याम्** आमोक्षाद् **अनुसरति** शास्त्रीय-सरणिम् ॥ ३८ ॥
+
+Even direct perception tells us that families with less AchAra tend to break and wither away - within a generation or two; in contrast to those that don't (lending credence to "आचार-प्रभवो धर्मः").
+
+However much one who has deviated from it, one can begin one's return;  
+and one observes near-immediate benefits due to it (in the same spirit as "if you are on the wrong train, every stop is the wrong stop; the sooner you get off the better")
 
 ## Other motivations and essential spirit
 - Below, we consider the essence of the dharmashAstra, rather than the details, in our quest to gather the noble spirit of the shAstra.
-- Specific beliefs and motivations are nowhere as important as compliance - this naturally allows diversity of beliefs. For example, kRShNa encouraging arjuna in bhagavadgItA : अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते। तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि।।2.25अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम्। तथापि त्वं महाबाहो नैवं शोचितुमर्हसि।।2.26।।
+- Specific beliefs and motivations are nowhere as important as compliance - this naturally allows diversity of beliefs. For example, kRShNa encouraging arjuna in bhagavadgItA : 
+  
+> अव्यक्तोऽयम् अचिन्त्योऽयम्  
+> अविकार्योऽयमुच्यते।  
+> तस्माद् एवं विदित्वैनं  
+> नानुशोचितुमर्हसि।।2.25  
+> अथ चैनं नित्यजातं  
+> नित्यं वा मन्यसे मृतम्।  
+> तथापि त्वं महाबाहो  
+> नैवं शोचितुमर्हसि।।2.26।।
+
 - All this admirable thinking about the dharma partly emerged out of an urge to emerge out of chaos, harmonize social roles and rituals of various groups of people; so as to achieve a happy and fit society. Aesthetic refinement in our social behavior (which includes AchAra and saMskAra) is one component of achieving it. \[PV Kane [here](http://i.imgur.com/ZNlBV7N.png).\]
 
 ### To be happy, keep others happy.
@@ -71,11 +91,33 @@ It also addresses the very real fact that most people cannot be truly, lastingly
 #### Contrast with externally enforced law.
 - Law codified by the state is but one small prescriptive aspect of dharma (called daNDa).
 - Law is inadequate, and self-enforcement is needed for a healthy society. Hence, the latter should be emphasized more.
-    - Consider the difference between [New Orleans looting in the wake](http://www.nbcnews.com/id/9131493/ns/us_news-katrina_the_long_road_back/t/looters-take-advantage-new-orleans-mess/) of Hurricane Katrina and  Japanese citizens [voluntarily turning in money](http://articles.latimes.com/2011/sep/22/world/la-fg-japan-returned-money-20110923) after the Tsunami.
-    - Consider the difference between the American reliance on laws and the Japanese reliance on [customs as experienced](http://www.amerika.org/politics/shiba-ryotaro-meets-the-gays/) by Shiba Ryotaro.
-        - "Japan, France, Korea, Denmark were not created out of laws, but rather began as organizations of people, and modern laws simply reordered those organizations. America is the opposite. The law cast its net over a broad \[empty\] territory, and eventually immigrants arrived and pledged themselves to those laws, so that the country is nothing more than the sum of its laws. ... America is a country with only a civilization. Can someone coming from a country full of culture (customs) even imagine that? People like me, who live surrounded by culture (customs), have no need to write it down as laws. ... In the case of Japan, most people go through life without ever needing the services of a civil lawyer. But America is the country with the most lawyers in the world."
+  - Consider the difference between [New Orleans looting in the wake](http://www.nbcnews.com/id/9131493/ns/us_news-katrina_the_long_road_back/t/looters-take-advantage-new-orleans-mess/) of Hurricane Katrina and  Japanese citizens [voluntarily turning in money](http://articles.latimes.com/2011/sep/22/world/la-fg-japan-returned-money-20110923) after the Tsunami.
+
+<details><summary>Jap vs US</summary>
+
+- Consider the difference between the American reliance on laws and the Japanese reliance on [customs as experienced](http://www.amerika.org/politics/shiba-ryotaro-meets-the-gays/) by Shiba Ryotaro.
+
+> "Japan, France, Korea, Denmark were not created out of laws, but rather began as organizations of people, and modern laws simply reordered those organizations. America is the opposite. The law cast its net over a broad \[empty\] territory, and eventually immigrants arrived and pledged themselves to those laws, so that the country is nothing more than the sum of its laws. ... America is a country with only a civilization. Can someone coming from a country full of culture (customs) even imagine that? People like me, who live surrounded by culture (customs), have no need to write it down as laws. ... In the case of Japan, most people go through life without ever needing the services of a civil lawyer. But America is the country with the most lawyers in the world."
+
+</details>
+
+
 - A memeplex that places emphasis in the following order: scholarship in sacred lore (brAhmaNa-s) >> governance and defence (kShatriya-s) >> commerce (vaiShya-s) >> service (shUdra-s).
-    - This orients a society to hold sacredness and spirituality above mere material achievements.
+  - This orients a society to hold sacredness and spirituality above mere material achievements.
+
+#### Role of ritual
+AchAra, including ritual, played a major role in inducing compliance to dharma.
+
+<details><summary>Confucian parallels</summary>
+
+> “The former sage kings realized that words alone were insufficient to edify people, and therefore created ritual and music.”
+
+Sorai, Japanese Confucianist
+
+> If li were used to "carry" the people, there would be no need to rely on strident and ultimately ineffective sermonizing. The people would instinctively "keep within the current" of what was correct.
+</details>
+
+
 
 ### Harmonization of social groups
 - The system of four varNa-s (../mostly determined by birth), with their varying duties, was used to harmonize society (more [here](../social-cultivation/clan/varna-theory/)). Keeping in mind relatively deeper principles of the dharma and changed circumstances, this part of the essential spirit may now be abandoned in favor of other systems.
@@ -83,31 +125,10 @@ It also addresses the very real fact that most people cannot be truly, lastingly
 ## Summaries
 PV Kane in [v1](https://archive.org/stream/HistoryOfDharmasastraancientAndMediaevalReligiousAndCivilLawV.1/Kane_A-History-of-Dharmasastra-v1_1930#page/n509/mode/2up).
 
-> "In the foregoing pages most of the classical works and the most 
- prominent writers on Dharmasastra during a period of about twenty 
- five centuries have been passed in review. The number of authors, 
- and works on dharmasastra is legion. All these numberless authors 
- and works were actuated by the most laudable motives of regulat- 
- ing the Aryan society in all matters, civil, religious and moral, and 
- of securing for the members of that society happiness in this world 
- and the next. They laid the greatest emphasis on the duties of 
- every man as a member of the whole Aryan society, as a member 
- of the particular class to which he belonged and very little emphasis 
- on the privileges of men. They created great solidarity and cohesion 
- among the several classes of the Aryan society in India in spite of 
- their conflicting interests and inclinations and enabled Hindu society 
- to hold its own against successive aggressions of foreign invaders. 
- They preserved Hindu culture and literature in the midst of alien 
- cultures and in spite of bigoted foreign domination. There is no 
- doubt that the authors on dharmasastra in their desire to evolve 
- order out of chaos and to adjust and harmonise the varying 
- practices of people with the dicta of ancient sages were guilty 
- of the faults of raising hair-splitting arguments, divisions and sub-divisions and also of thinking that religious rites and formularies were the be-all and end-all of human existence. But living as most of the later writers did in the midst 
-of aggressive and violently unsympathetic cultures and rulers and 
-possessing no powerful central government that sympathised with 
-their ideals, they were driven more and more to revolve within 
-their own narrow grooves and could not see far in order to regulate 
-society in a free and buoyant spirit. In spite of these defects, the 
-work done by the writers on dharma&stra should excite our admira- 
-tion and entitles them to the regard of all those that are interested in 
-the study of the vicissitudes of Hindu society for thousands of years. "
+> "In the foregoing pages most of the classical works and the most prominent writers on Dharmasastra during a period of about twenty five centuries have been passed in review. The number of authors, and works on dharmasastra is legion. 
+> 
+> All these numberless authors and works were actuated by the most laudable motives of regulating the Aryan society in all matters, civil, religious and moral, and of securing for the members of that society happiness in this world and the next. They laid the greatest emphasis on the duties of every man as a member of the whole Aryan society, as a member of the particular class to which he belonged and very little emphasis on the privileges of men. They created great solidarity and cohesion among the several classes of the Aryan society in India in spite of their conflicting interests and inclinations and enabled Hindu society to hold its own against successive aggressions of foreign invaders. They preserved Hindu culture and literature in the midst of alien cultures and in spite of bigoted foreign domination. 
+> 
+> There is no doubt that the authors on dharmasastra in their desire to evolve order out of chaos and to adjust and harmonise the varying practices of people with the dicta of ancient sages were guilty of the faults of raising hair-splitting arguments, divisions and sub-divisions and also of thinking that religious rites and formularies were the be-all and end-all of human existence. But living as most of the later writers did in the midst of aggressive and violently unsympathetic cultures and rulers and possessing no powerful central government that sympathised with their ideals, they were driven more and more to revolve within their own narrow grooves and could not see far in order to regulate society in a free and buoyant spirit. 
+> 
+> In spite of these defects, the work done by the writers on dharma&stra should excite our admiration and entitles them to the regard of all those that are interested in the study of the vicissitudes of Hindu society for thousands of years. " 

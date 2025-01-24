@@ -16,3 +16,22 @@ title: Sources
 - Random anubhava is not traditionally considered a source of dharma. It has to be established by tarka based on texts (led by veda-s) and shiShTAchAra practices of elders.
     - For example: "न धर्मजिज्ञासायामिव श्रुत्यादय एव प्रमाणं ब्रह्मजिज्ञासायाम् । किन्तु श्रुत्यादयोऽनुभवादयश्च यथासम्भवमिह प्रमाणम्, अनुभवावसानत्वाद्भूतवस्तुविषयत्वाच्च ब्रह्मज्ञानस्य ।" (shankara in brahmasUtrabhAShyam 1.1.2).
     - abhinavagupta on BG 2.46 described in  holy books page [here](../../bases/books/index/).
+
+
+## Completeness
+To (surprisingly) great extant,  
+shAstra-s do actually cover problems even in modern contexts.  
+It is just that modern people are severely illiterate in dharmashAstras.
+
+> मातापितृसहस्रेभ्योऽपि वत्सलतरं शास्त्रम्
+
+इति रामानुजः।  
+shAstra is very considerate (eg. 7 types of snAna ranging from river bAth to mental bath).  
+
+However much one who has deviated from it,  
+one can begin one's return;  
+and one observes near-immediate benefits due to it 
+
+## Extensions
+For what's not explicitly covered in the shAstra-s,  
+there are general principles which can be invaluable (they tend to be philosophical).

@@ -4,17 +4,17 @@ title: Fluid dharma
   
 
 ## Intro
-Fluidity while retaining core principles
+Fluidity while retaining core principles.
 
 Indian notions of dharma was very fluid. (../For a general context on the limits of codification and holy books, [see here](../bases/books/index/).) 
 
 - Notes
-    - PV kANe's notes on fluidity: [1](http://i.imgur.com/RqIaXDz.jpg), [2](http://i.imgur.com/QWHBZ4G.jpg),[ 3](http://i.imgur.com/XG0MWDC.jpg), [4](http://i.imgur.com/MXC5ydx.jpg), [5](http://i.imgur.com/9uV0arq.jpg).
-    - [RB15](http://www.dailyo.in/lifestyle/hinduism-manu-dharma-literature-sanskrit-ramayana-brahmin-vedic-india/story/1/5802.html).
+  - PV kANe's notes on fluidity: [1](http://i.imgur.com/RqIaXDz.jpg), [2](http://i.imgur.com/QWHBZ4G.jpg),[ 3](http://i.imgur.com/XG0MWDC.jpg), [4](http://i.imgur.com/MXC5ydx.jpg), [5](http://i.imgur.com/9uV0arq.jpg).
+  - [RB15](http://www.dailyo.in/lifestyle/hinduism-manu-dharma-literature-sanskrit-ramayana-brahmin-vedic-india/story/1/5802.html).
 
 ## Principles
 ### First Principles
-The explicitly and implicitly stated motivations of dharma (such as accomplishing comfort/ sukha of everyone in order to retain one's comfort - quotes in [this page](dharma/)) naturally enable people to redetermine the details of what constitutes dharma "from first principles". This is particularly relevant to consideration of newer problems - though still relevant to older problems and rulings.
+The explicitly and implicitly stated motivations of dharma (such as accomplishing comfort/ sukha of everyone in order to retain one's comfort - quotes in [this page](../dharma/)) naturally enable people to redetermine the details of what constitutes dharma "from first principles". This is particularly relevant to consideration of newer problems - though still relevant to older problems and rulings.
 
 - "Grain needs cooking, but cooked grain expires fast" analogy (By Narasimha Rao) -.
 
@@ -30,7 +30,7 @@ The explicitly and implicitly stated motivations of dharma (such as accomplishin
 
 
 ### Trasncending texts
-Hindu texts themselves say that they are not the ultimate authority, and that a truly wise person should ultimately \*transcend\* (ie not be bound by) texts and adapt a worldview that is cognizant of the ultimate reality. So, guru-s can come along and abrogate the "holy" texts and the injunctions, adding their own voice to the pre-existing pool of opinions. So, Sanatana dharma is trans-textual in that sense. नमश् शास्त्रनिर्बन्धनिष्कासकेभ्यश् शास्त्रप्रेरितेभ्यः।
+Hindu texts themselves say that they are not the ultimate authority, and that a truly wise person should ultimately \*transcend\* (ie not be bound by) texts and adapt a worldview that is cognizant of the ultimate reality. So, guru-s can come along and abrogate the "holy" texts and the injunctions, adding their own voice to the pre-existing pool of opinions. So, Sanatana dharma is trans-textual in that sense. 
 
 Examples:
 
@@ -43,8 +43,9 @@ Examples:
 ### Contextualization
 
 - Fluidity is acknowledged in the shAstra-s
-  - अन्ये कृतयुगे धर्माः त्रेतायां द्वापरे युगे । अन्ये कलियुगे नृणां युगरूपानुसारतः ॥ \- manu
-  - क्रुते तु मानवा धर्माः त्रेतायां  गौतमाः स्मृताः ॥ द्वापरे शङ्खलिखिताः कलौ पाराशराः स्मृताः ॥
+
+> अन्ये कृतयुगे धर्माः त्रेतायां द्वापरे युगे । अन्ये कलियुगे नृणां युगरूपानुसारतः ॥ \- manu
+> क्रुते तु मानवा धर्माः त्रेतायां  गौतमाः स्मृताः ॥ द्वापरे शङ्खलिखिताः कलौ पाराशराः स्मृताः ॥
 
 #### Circumstances
 Dharma-shAstra-s reflect the circumstances in which they were composed - these circumstances may not hold at present. Also see [here](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/social-cultivation/clan/theory/)\]
@@ -52,7 +53,8 @@ Dharma-shAstra-s reflect the circumstances in which they were composed - these c
 > "the entire enterprise of searching for a doctrine of oppression in negative statements regarding the shUdras in the MDS (../manu smRti) and allied texts is a rather misplaced venture. These texts are a product of a certain historical conflicts, where the brahma-kShatra alliance is merely seen to be defending its interests against competitors and threats (ie shUdra-s). Whether, their texts or their interpretations based on misunderstood terminologies were basis of social inequities, which are very natural in primate societies, is highly questionable." \[[MT](https://manasataramgini.wordpress.com/2004/09/01/inter-caste-strife/)
 
 - Allowing changes in social roles and occupations.
-  - "Parāśarasmṛti explains it best when it proclaims itself to be a dharma text for this yuga (kali). It specifies at P 11.50 that there are different dharmas prescribed for different ages, and that the good brahmin must not be censured for following the yuga-dharma. As the age is, so should the brahmin be."
+
+> "Parāśarasmṛti explains it best when it proclaims itself to be a dharma text for this yuga (kali). It specifies at P 11.50 that there are different dharmas prescribed for different ages, and that the good brahmin must not be censured for following the yuga-dharma. As the age is, so should the brahmin be."
 
 #### Allowance for decay
 पराशर-माधवीये रुचिकर्म् [उक्तम् अस्य व्याख्याने](/kalpAntaram/smRtiH/parAsharaH/mAdhavIyam/02_prAyashchittakANDam/11) -
@@ -73,11 +75,11 @@ Intended saMskAra (by dharma) and prakRti should not be too far apart - else the
 
 > परित्यजेदर्थकामौ यौ  
 > स्यातां धर्मवर्जितौ।  
-> धर्मं चाप्यसुखोदर्कं  
-> लोकनिकृष्टमेव च।।  
+> धर्मं चाप्य् असुखोदर्कं  
+> लोकनिकृष्टम् एव च॥  
 > -मनुः
 
->  परित्यजेदर्थकामौ  
+> परित्यजेदर्थकामौ  
 > धर्मपीडाकरौ नृप।  
 > धर्ममप्यसुखोदर्कं  
 > लोकविद्विष्टमेव च॥  
@@ -92,7 +94,12 @@ Intended saMskAra (by dharma) and prakRti should not be too far apart - else the
 > याज्ञ्यवल्क्यस्मृतौ।
 
 #### Allowance for regional variations
-  - मनुस्मृतिः \- "तस्मिन् देशे य आचार:  पारम्पर्यक्रमागत: वर्णानां साऽन्तरालानां            स सदाचार उच्यते ।।२/१८।।"
+- मनुस्मृतिः \- 
+  
+> "तस्मिन् देशे य आचारः  
+> पारम्पर्यक्रमागतः  
+> वर्णानां साऽन्तरालानां  
+> स सदाचार उच्यते ।।२/१८।।"
 
 
 
@@ -140,8 +147,12 @@ Recent attempts at newer, formal revisions to the dharma-shAstra-s.
 ### Amendments by shiShTa-s 
 - Following learned, dharma-loving people of the age is another way of knowing dharma (in a way that might contradict or augment prior shAstra-recommendations).
 - Quotes
-    - तर्कोऽप्रतिष्ठः श्रुतयो विभिन्नाः नैको मुनिर्यस्य वचः प्रमाणम् । धर्मस्य तत्त्वं निहितं गुहायाम् महाजनो येन गतः स पन्थाः ॥ -व्यासः।
-    - "ये तत्र ब्राह्मणाः संमर्शिनः । युक्ता आयुक्ताः । अलूक्षा धर्मकामाः स्युः । यथा ते तत्र वर्तेरन् । तथा तत्र वर्तेथाः । अथाभ्याख्यातेषु ये तत्र ब्राह्मणाः संमार्शिनः । युक्ताः आयुक्ताः । अलूक्ष धर्मकामाः स्युः । यथा ते तेषु वर्तेरन् । तथा तेषु वर्तेथाः । एष आदेशः एष उपदेशः । एषा वेदोपनिषत् तदनुशासनम् । एवमुपासितव्यम् । एवं चैतदुपास्यम् ।" इति । तैत्तिरीयोपनिषत् ।
+
+> तर्कोऽप्रतिष्ठः श्रुतयो विभिन्नाः नैको मुनिर्यस्य वचः प्रमाणम् । धर्मस्य तत्त्वं निहितं गुहायाम् महाजनो येन गतः स पन्थाः ॥ -व्यासः।
+
+> "ये तत्र ब्राह्मणाः संमर्शिनः । युक्ता आयुक्ताः । अलूक्षा धर्मकामाः स्युः । यथा ते तत्र वर्तेरन् । तथा तत्र वर्तेथाः । अथाभ्याख्यातेषु ये तत्र ब्राह्मणाः संमार्शिनः । युक्ताः आयुक्ताः । अलूक्ष धर्मकामाः स्युः । यथा ते तेषु वर्तेरन् । तथा तेषु वर्तेथाः । एष आदेशः एष उपदेशः । एषा वेदोपनिषत् तदनुशासनम् । एवमुपासितव्यम् । एवं चैतदुपास्यम् ।" 
+> 
+> इति तैत्तिरीयोपनिषत् ।
 
 - PS: This does not involve accepting omniscience of a particular yogi or jivanmukta. See [bases/elders](../../bases/elders/)
 
@@ -158,17 +169,21 @@ Recent attempts at newer, formal revisions to the dharma-shAstra-s.
 - mitAxara says: don't do विषमविभाग, cow killing during madhuparka etc.. even if it is recommended by the texts, because people hate it.
 - Eg. Cow sacrifice, niyoga, granting property to the eldest heir, being in sattra-s etc..
   - Reason given was that they were not suitable for this newer age (Eg: "kali-varjya").
-  - "In Manu, the killing of a cow is a lower order transgression (upapātaka), the prayaścitta for which is the same as if the perpetrator were to give instructions as, or receive instructions from a paid teacher, or cut down trees for firewood. (M 11.60-67. For the prayaścitta, see M 11.109-118) Compare Manu’s stance to an entire chapter in Parāśarasmṛti (Ch 9 gosevopadeśavarṇanam) on how to care for cows/cattle. ... In forbidden foods, Manu does not mention beef even once. The only cow related product to be eschewed is colostrum (gavyam ca pīyūṣam at 5.6). By contrast, the later Parāśara is unequivocal. If the brahmin consumes beef, he must perform a severe penance to atone. (P 11.1)" [RB15](http://www.dailyo.in/lifestyle/hinduism-manu-dharma-literature-sanskrit-ramayana-brahmin-vedic-india/story/1/5802.html)
+
+> "In Manu, the killing of a cow is a lower order transgression (upapātaka), the prayaścitta for which is the same as if the perpetrator were to give instructions as, or receive instructions from a paid teacher, or cut down trees for firewood. (M 11.60-67. For the prayaścitta, see M 11.109-118) Compare Manu’s stance to an entire chapter in Parāśarasmṛti (Ch 9 gosevopadeśavarṇanam) on how to care for cows/cattle. ... In forbidden foods, Manu does not mention beef even once. The only cow related product to be eschewed is colostrum (gavyam ca pīyūṣam at 5.6). By contrast, the later Parāśara is unequivocal. If the brahmin consumes beef, he must perform a severe penance to atone. (P 11.1)" [RB15](http://www.dailyo.in/lifestyle/hinduism-manu-dharma-literature-sanskrit-ramayana-brahmin-vedic-india/story/1/5802.html)
 
 ### Consideration of newer problems.
 - Barring new distasteful practices not previously barred.
   - Eg. smRtichandrikA bars marriage with mother's sister/ daughter.
-- "Reflecting the leniency of Vasiṣṭhadharmasūtra, the 10th century Devalasmṛti, written in Sind \[now dealing with the changed scenario of contact with and abductions by foreign invaders (mlecchaiḥ)\] mandates that women taken by force are purified by abstaining from sexual intercourse and food for three nights. Even if they become pregnant and bear a child from the said abduction, they were as pure as gold after their menses resumed after the birth of the child."[RB15](http://www.dailyo.in/lifestyle/hinduism-manu-dharma-literature-sanskrit-ramayana-brahmin-vedic-india/story/1/5802.html)
+
+> "Reflecting the leniency of Vasiṣṭhadharmasūtra, the 10th century Devalasmṛti, written in Sind \[now dealing with the changed scenario of contact with and abductions by foreign invaders (mlecchaiḥ)\] mandates that women taken by force are purified by abstaining from sexual intercourse and food for three nights. Even if they become pregnant and bear a child from the said abduction, they were as pure as gold after their menses resumed after the birth of the child."[RB15](http://www.dailyo.in/lifestyle/hinduism-manu-dharma-literature-sanskrit-ramayana-brahmin-vedic-india/story/1/5802.html)
 
 ### Expiations and punishments
 - Expiations (prāyaścitta-s) and punishments (daṇḍa-s) naturally changed with time.
-  - "Prayaścitta (expiation) in the early dharmasūtra were limited mostly to recitation of Vedic hymns, fasts, and other austerities. Later texts like the Parāśarasmṛti (PS) include the worship of gods (as we know them today) to atone for transgressions. PS 6.7 states that a killer of certain birds can purify himself by showing reverence to Śiva (Śivapūjyaviśudhyati). The bali offering to Nārāyaṇa in the Vaiṣṇava Vaikhānasasmārtasūtram (10.9-10) again is evidence of how the worship of an iṣṭa god had become the norm. ... Manu displays the decreasing importance of early prayaścitta like the aśvamedhayajña in statements like “A man who abstains from meat and a man who offers the horse sacrifice every year for a hundred years, the reward for their meritorious acts is the same.” (M 5.53)" [RB15](http://www.dailyo.in/lifestyle/hinduism-manu-dharma-literature-sanskrit-ramayana-brahmin-vedic-india/story/1/5802.html).
-  - "Āpastamba outlines what noble conduct is in the gambling hall (Ā 2.25.12-14).. Manu, however, feels the need to suppress it with violence, including execution for gamblers. (M 9.221-228)  "[RB15](http://www.dailyo.in/lifestyle/hinduism-manu-dharma-literature-sanskrit-ramayana-brahmin-vedic-india/story/1/5802.html).
+ 
+ > "Prayaścitta (expiation) in the early dharmasūtra were limited mostly to recitation of Vedic hymns, fasts, and other austerities. Later texts like the Parāśarasmṛti (PS) include the worship of gods (as we know them today) to atone for transgressions. PS 6.7 states that a killer of certain birds can purify himself by showing reverence to Śiva (Śivapūjyaviśudhyati). The bali offering to Nārāyaṇa in the Vaiṣṇava Vaikhānasasmārtasūtram (10.9-10) again is evidence of how the worship of an iṣṭa god had become the norm. ... Manu displays the decreasing importance of early prayaścitta like the aśvamedhayajña in statements like “A man who abstains from meat and a man who offers the horse sacrifice every year for a hundred years, the reward for their meritorious acts is the same.” (M 5.53)" [RB15](http://www.dailyo.in/lifestyle/hinduism-manu-dharma-literature-sanskrit-ramayana-brahmin-vedic-india/story/1/5802.html).
+
+> "Āpastamba outlines what noble conduct is in the gambling hall (Ā 2.25.12-14).. Manu, however, feels the need to suppress it with violence, including execution for gamblers. (M 9.221-228)  "[RB15](http://www.dailyo.in/lifestyle/hinduism-manu-dharma-literature-sanskrit-ramayana-brahmin-vedic-india/story/1/5802.html).
 
 
 ## अतिक्रमः
