@@ -20,14 +20,23 @@ Emergence of hindu thoughts on dharma:
 
 ### Related quotes
 - \[[M12](http://www.sacred-texts.com/hin/mbs/mbs12037.htm), [M12E](http://www.sacred-texts.com/hin/m12/m12a036.htm#fr_117)\]
-- yato’bhyudayaniḥśreyasasiddhis sa dharmaḥ - kaNAdaH
-- "धारणाद्धर्म इत्याहुः धर्मो धारयते प्रजाः" \- महाभारतम्
+
+Classic mImAMsA statement - 
+
+> चोदनालक्षणोऽर्थो धर्मः।  
+> dharma is that which is ordained (in the shAstras)
+
+> yato’bhyudayaniḥśreyasasiddhis sa dharmaḥ  
+> - kaNAdaH
+
+> "धारणाद्धर्म इत्याहुः  
+> धर्मो धारयते प्रजाः" \- महाभारतम्
 
 ## Types of dharma
 
 Many are the roles in society, and accordingly the Hindu thought-stream has produced many such codes of behavior, which broadly fall into two categories:
 
--  pravRtti-dharma (dharma that benefits other beings) 
+- pravRtti-dharma (dharma that benefits other beings) 
 - nivRtti-dharma (dharma that withdraws from pravRtti-dharma-s, seeking ultimate liberation or mokSha).
 
 pravRtti-dharma is traditionally of many kinds :
