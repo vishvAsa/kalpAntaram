@@ -21,7 +21,7 @@ Emergence of hindu thoughts on dharma:
 ### Related quotes
 - \[[M12](http://www.sacred-texts.com/hin/mbs/mbs12037.htm), [M12E](http://www.sacred-texts.com/hin/m12/m12a036.htm#fr_117)\]
 - yato’bhyudayaniḥśreyasasiddhis sa dharmaḥ - kaNAdaH
-- "धारणाद्धर्म इत्याहुः धर्मो धारयते प्रजा" \- महाभारतम्
+- "धारणाद्धर्म इत्याहुः धर्मो धारयते प्रजाः" \- महाभारतम्
 
 ## Types of dharma
 
@@ -43,6 +43,14 @@ pravRtti-dharma is traditionally of many kinds :
 - naimittika-dharma - Circumstancial dhrama. Eg. prAyashchitta for sins.
     - Apat-dharma - dharma in emergency and extraordinary situations.
         -  ChAndogya upaniShad where a Brahmin begged for ucchisTha beans from a person of a lower varna which was justified as there was scarcity of grain/beans...but he rejected the ucchisTha water offered by the same person as unlawful since there was no scarcity of water.
+
+
+
+### nitya vs naimittika
+There is also the nitya vs naimittika classification.
+
+### svadharma
+sAmAnya + visheSha dharmas applicable the perspective of an individual is called sva-dharma ("स्वधर्मे निधनं श्रेयः, परधर्मो भयावहः"). It is derived from shAstra-s, not upbringing. It's "यथा-शक्ति"ness depends on factors such as environment, knowledge, vAsana-s etc.. though.
 
 ## Form
 

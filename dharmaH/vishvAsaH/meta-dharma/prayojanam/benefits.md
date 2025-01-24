@@ -34,7 +34,7 @@ It also addresses the very real fact that most people cannot be truly, lastingly
     - The golden rule and a desire to do good. \[[FB15](https://www.facebook.com/photo.php?fbid=10153135619327989&set=a.10151672801737989.1073741826.689472988&type=1&permPage=1)\]
     - प्रमाणम्
         - विद्वद्भिः सेवितः सद्भिर्नित्यं अद्वेषरागिभिः । **हृदयेनाभ्यनुज्ञातो** यो धर्मस्तं निबोधत॥ २.१ इति मनुः।
-        - वेदोऽखिलो धर्ममूलं स्मृतिशीले च तद्विदाम् । आचारश्चैव साधूना**मात्मस्तुष्टिरे**व च ॥  इति मनुः।
+        - वेदोऽखिलो धर्ममूलं स्मृतिशीले च तद्विदाम् । आचारश्चैव साधूनाम् **आत्मनस् तुष्टिरे**व च ॥  इति मनुः।
     - **The law of karma**: This innate conscience was strengthened and formalized by the theory of karma (which involves supernatural beliefs about reward and punishment). Parts of the dharmashAstra, called karmavipAka, deal with associating misfortunes in this life with bad deeds in past lives.
     - **RNa** \- gratitude or indebtedness and **Rta**.
         - We feel indebted to nature, the deva-s, our parents, teachers, society etc.. This feeling of indebtedness and the need to sustain the systems that nurtured us was formalized in terms of RNa-s. RNa-s can only fulfilled by dharma.
