@@ -6,17 +6,20 @@ title: Fluid dharma
 ## Intro
 Fluidity while retaining core principles.
 
-Indian notions of dharma was very fluid. (../For a general context on the limits of codification and holy books, [see here](../bases/books/index/).) 
+Indian notions of dharma was fluid. (../For a general context on the limits of codification and holy books, [see here](../bases/books/index/).) 
 
 - Notes
   - PV kANe's notes on fluidity: [1](http://i.imgur.com/RqIaXDz.jpg), [2](http://i.imgur.com/QWHBZ4G.jpg),[ 3](http://i.imgur.com/XG0MWDC.jpg), [4](http://i.imgur.com/MXC5ydx.jpg), [5](http://i.imgur.com/9uV0arq.jpg).
   - [RB15](http://www.dailyo.in/lifestyle/hinduism-manu-dharma-literature-sanskrit-ramayana-brahmin-vedic-india/story/1/5802.html).
 
+## Conservativism
+dharmashAstra-s of course agree with particulars of dharma changing with time, place and social conditions; and "reinterpertation" is indeed one resort used by commentators of yore. But, one should be careful and conservative to distinguish the core from the peripheral. If something worked for multiple millennia, even if one can't explain why it works, one should retain it (not everyone can grok even the second or third order consequences)
+
 ## Principles
 ### First Principles
 The explicitly and implicitly stated motivations of dharma (such as accomplishing comfort/ sukha of everyone in order to retain one's comfort - quotes in [this page](../dharma/)) naturally enable people to redetermine the details of what constitutes dharma "from first principles". This is particularly relevant to consideration of newer problems - though still relevant to older problems and rulings.
 
-- "Grain needs cooking, but cooked grain expires fast" analogy (By Narasimha Rao) -.
+- "Grain needs cooking, but cooked grain expires fast" analogy (By Narasimha Rao).
 
 > Raw grains stay for a long time, but cannot be digested when eaten. Cooked grains can be eaten and digested, but get rotten very quickly. Similarly, core principles of dharma are eternal, but tough to understand, judge and apply. While "interpreted/applied" rules/customs of dharma are easy to understand and use, they expire after sometime. Even food cooked by a great cook gets rotten in time. Similarly, specific rules laid down by even a great prophet/rishi become irrelevant in time. The only way is to keep the raw grains and let someone cook them for you when you want to eat. Hinduism allows for men to experience subtle truths within themselves and "interpret" \*generic principles\* of dharma and lay down \*specific rules\* for people around them.
 
@@ -34,11 +37,16 @@ Hindu texts themselves say that they are not the ultimate authority, and that a 
 
 Examples:
 
-- "न च वचनं वस्तुनः सामर्थ्यजनकम्। ज्ञापकं हि शास्त्रं न कारकमिति स्थितिः" \- इति शङ्करः बृहदारण्यकोपनिषद्-भाष्ये।
-  - बृहदारण्योपनिषद्भाष्यम् [अत्र](http://www.sanskritworld.in/public/assets/book/book_50da9f8c9c725.txt)।
+> "न च वचनं वस्तुनः सामर्थ्यजनकम्। ज्ञापकं हि शास्त्रं न कारकमिति स्थितिः"  
+> \- इति शङ्करः बृहदारण्यकोपनिषद्-भाष्ये।
+  
+- बृहदारण्योपनिषद्भाष्यम् [अत्र](http://www.sanskritworld.in/public/assets/book/book_50da9f8c9c725.txt)।
   -  (गणेशः [अत्र](https://youtu.be/8XOFAAdbh2w?t=1630))।
-- ऋचो अक्षरे परमे व्योमन् ([wiki](http://sa.wikiquote.org/wiki/%E0%A4%8B%E0%A4%9A%E0%A5%8B_%E0%A4%85%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%B0%E0%A5%87_%E0%A4%AA%E0%A4%B0%E0%A4%AE%E0%A5%87_%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%AE%E0%A4%A8%E0%A5%8D...)quote, श्वेताश्वतरोपनिषत् ४-८, Rig Veda:1.164.39। सायणभाष्यम् [अत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart1/rv_sayanabhasya_part1#page/n1031/mode/1up)। गणेशः [अत्र](https://youtu.be/8XOFAAdbh2w?t=1446)।)
-- अविज्ञाते परे तत्त्वे शास्त्राधीतिस्तु निष्फला। विज्ञातेऽपि परे तत्त्वे शास्त्राधीतिस्तु निष्फला ॥ 59 इति शङ्कराचार्यो विवेकचूडामण्याम्।
+
+> ऋचो अक्षरे परमे व्योमन् ([wiki](http://sa.wikiquote.org/wiki/%E0%A4%8B%E0%A4%9A%E0%A5%8B_%E0%A4%85%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%B0%E0%A5%87_%E0%A4%AA%E0%A4%B0%E0%A4%AE%E0%A5%87_%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%AE%E0%A4%A8%E0%A5%8D...)quote, श्वेताश्वतरोपनिषत् ४-८, Rig Veda:1.164.39। सायणभाष्यम् [अत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart1/rv_sayanabhasya_part1#page/n1031/mode/1up)। गणेशः [अत्र](https://youtu.be/8XOFAAdbh2w?t=1446)।)
+
+> अविज्ञाते परे तत्त्वे शास्त्राधीतिस्तु निष्फला। विज्ञातेऽपि परे तत्त्वे शास्त्राधीतिस्तु निष्फला ॥ 59  
+> इति शङ्कराचार्यो विवेकचूडामण्याम्।
 
 ### Contextualization
 
