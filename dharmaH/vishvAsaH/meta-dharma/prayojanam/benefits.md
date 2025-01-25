@@ -105,20 +105,6 @@ It also addresses the very real fact that most people cannot be truly, lastingly
 - A memeplex that places emphasis in the following order: scholarship in sacred lore (brAhmaNa-s) >> governance and defence (kShatriya-s) >> commerce (vaiShya-s) >> service (shUdra-s).
   - This orients a society to hold sacredness and spirituality above mere material achievements.
 
-#### Role of ritual
-AchAra, including ritual, played a major role in inducing compliance to dharma.
-
-<details><summary>Confucian parallels</summary>
-
-> “The former sage kings realized that words alone were insufficient to edify people, and therefore created ritual and music.”
-
-Sorai, Japanese Confucianist
-
-> If li were used to "carry" the people, there would be no need to rely on strident and ultimately ineffective sermonizing. The people would instinctively "keep within the current" of what was correct.
-</details>
-
-
-
 ### Harmonization of social groups
 - The system of four varNa-s (../mostly determined by birth), with their varying duties, was used to harmonize society (more [here](../social-cultivation/clan/varna-theory/)). Keeping in mind relatively deeper principles of the dharma and changed circumstances, this part of the essential spirit may now be abandoned in favor of other systems.
 
