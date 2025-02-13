@@ -231,7 +231,7 @@ Checked against each other. Controlled change.
 माडभूषि-वीरराघवः - अपर-प्रयोग-दर्पणः
 शतपथ-ब्राह्मणम्
 
-https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-TIkAH/ 
+[ApGr](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-TIkAH/ )
 
 
 
