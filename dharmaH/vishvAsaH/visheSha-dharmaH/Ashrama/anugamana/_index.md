@@ -39,6 +39,8 @@ Ritual suicide of widows (including at the husband's funeral pyre).
 - "This position did not arise out of thin air. The wife’s joint ownership in the husband’s property was traced to the veda, something that the old, orthodox commentator shabarasvAmin forcefully defends in his ancient commentary on the mImAMsA-sUtra."
 - "So, to sum up, an ancient warrior-centered practice, already very rare (see Jain) & dying off in bhArata by the 18th century, was revived by some property-hungry criminal minds in a region, where the prevailing Hindu jurisprudence was pro-Wife-inheritance."
 
+> Ram Mohun Roy never witnessed his sister-in-law committing Sati. She committed voluntary Sati on 8th April, 1810 - Ram Mohun Roy was in Rangpur at that time.
+
 ### Accounts
 - Bengal, early 19th century - see John Jones account
 
