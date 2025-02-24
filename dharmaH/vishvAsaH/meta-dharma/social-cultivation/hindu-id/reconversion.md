@@ -15,6 +15,13 @@ While Hindus get all excited (and rightly so) about foreigners taking to their r
 
 Also related - [neo-]pagan population compatibility [notes](/polity/external-affairs/population-compatibility).
 
+### Example
+Rama Ramanuja Achari (Aka Rami Sivan) peddling subversionist nonsense -
+
+
+> “The Agamika methods of worship being entirely fire-less and not being accompanied by the recitation of Vedic mantras must have been developed from the Dasyu rites. The Dasyu rites certainly prevailed throughout India, in the south and in the north, before the rise of Vedic rites.”   
+> Source: [TW](https://www.quora.com/What-is-Agamic-Hinduism-Do-Agamas-reject-Vedas-1/answer/Rami-Sivan?comment_id=127488382&comment_type=2)
+
 ## History
 > \[Some Aspects of Ancient Indian Culture, by DR Bhandarkar, Rev. JM Anthos, Asian Educational Services, 1989. pp 68.\] quotes an incident in 1398-99 CE during the Vijayanagara era, in which 2,000 Brahmin girls of a village were rescued from the armies of Firoz Shah Bahmani and accepted after purification rites \[1\].
 
