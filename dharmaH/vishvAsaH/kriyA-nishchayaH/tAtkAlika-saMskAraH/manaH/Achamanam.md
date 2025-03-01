@@ -25,7 +25,7 @@ unicode_script: devanagari
 
 ## स्मार्तः न्यासः
 
-- [वैष्णवेषु](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/Achamanam/)
+- [वैष्णवेषु](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/Achamanam/)
 - अथवा भद्रं कर्णेभिः ॰
 
 ### सौरम्
