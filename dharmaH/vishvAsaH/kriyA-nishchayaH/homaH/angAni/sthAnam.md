@@ -6,6 +6,8 @@ unicode_script: devanagari
 
 साधारण-स्थान-संस्कारविषयो [ऽन्यत्रोक्तः](../../../tAtkAlika-saMskAraH/sthalam/)।
 
+कुण्डे भौतिक-विचारो [ऽन्यत्र](/notes/power/heat/stoves/wood-stove/)। 
+
 - छदेन+आछादिता भूमिः।
 
 ## होम-कुण्डस्य स्थण्डिलस्य वा संस्कारः
