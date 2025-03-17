@@ -174,9 +174,9 @@ Recent attempts at newer, formal revisions to the dharma-shAstra-s.
 
 ### Giving up distasteful practices.
 - Several practices found even in the veda-s are rejected by later smRtikAra-s.
-- mitAxara says: don't do विषमविभाग, cow killing during madhuparka etc.. even if it is recommended by the texts, because people hate it.
-- Eg. Cow sacrifice, niyoga, granting property to the eldest heir, being in sattra-s etc..
-  - Reason given was that they were not suitable for this newer age (Eg: "kali-varjya").
+- Reason given was that they were not suitable for this newer age (Eg: "kali-varjya").
+  - Eg. Cow sacrifice, niyoga, granting property to the eldest heir, being in sattra-s etc..
+- लोक-विद्विष्ट-धर्म-त्यागाद्य् अन्यत्रोक्तम् - [subversion](/kalpAntaram/dharmaH/vishvAsaH/meta-dharma/subversion)।
 
 > "In Manu, the killing of a cow is a lower order transgression (upapātaka), the prayaścitta for which is the same as if the perpetrator were to give instructions as, or receive instructions from a paid teacher, or cut down trees for firewood. (M 11.60-67. For the prayaścitta, see M 11.109-118) Compare Manu’s stance to an entire chapter in Parāśarasmṛti (Ch 9 gosevopadeśavarṇanam) on how to care for cows/cattle. ... In forbidden foods, Manu does not mention beef even once. The only cow related product to be eschewed is colostrum (gavyam ca pīyūṣam at 5.6). By contrast, the later Parāśara is unequivocal. If the brahmin consumes beef, he must perform a severe penance to atone. (P 11.1)" [RB15](http://www.dailyo.in/lifestyle/hinduism-manu-dharma-literature-sanskrit-ramayana-brahmin-vedic-india/story/1/5802.html)
 
