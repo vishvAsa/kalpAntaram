@@ -42,6 +42,9 @@ Reasoning:
 
 {{< figure src="../images/bhAradvAja-incel.jpg" title="">}}
 
+### श्राद्धे
+श्राद्धेषु भोक्तारः सगोत्रा न स्युर् इति नियमानुसारं योग्यानाम् अभावे,  
+सापिण्ड्य-दोषरहितान् सगोत्रान् अप्य् आमन्त्रयन्ते शिष्टाः। 
 
 ## धर्मशास्त्रेष्व् अभिप्रायः
 >  असपिण्डा च या मातुर्  
@@ -52,7 +55,7 @@ Reasoning:
 इति मनुः। विस्तारो [ऽत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199777.html)।
 
 
-Gautama (4. 2-5).—‘Marriage should he performed with persons not belonging to the same Pravara;—above the Seventh grade among his paternal relations;—also beyond persons of the same seed;—and above the fifth grade among maternal relations.’
+Gautama (4. 2-5).—‘Marriage should be performed with persons not belonging to the same Pravara;—above the Seventh grade among his paternal relations;—also beyond persons of the same seed;—and above the fifth grade among maternal relations.’
 
 
 Vaśiṣṭḥa (8. 1, 2).—‘He should marry a girl who has no common Ṛṣi (as her ancestor).........; nor one who is in the seventh grade among his paternal and in the fifth grade among his maternal relations.’
