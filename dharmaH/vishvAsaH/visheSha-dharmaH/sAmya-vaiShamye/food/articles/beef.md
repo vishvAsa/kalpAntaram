@@ -9,11 +9,11 @@ In brief:
 
 Wanton eating of beef is not the same as sacrifice of cow/ox in Śrauta rituals. The former (wanton eating of beef) has been condemned in Śruti (Veda) in the Śatapatha Brāhmaṇa of the Śuklayajurveda. One who eats beef will be born as someone of whom there is an evil reputation: 👉🏾 Source: [TW](https://wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1052421.html)
 
-<details><summary>विश्वास-टिप्पनी</summary>
+> This SB provisional denunciation applies to the dIxita only, per your logic in saying that Y's beef preference applies for dIxita only. - V
 
-This SB prohibition applies to the dIxita only, per your logic in saying that Y's beef preference applies for dIxita only. 
-</details>
+In the case of the Śatapatha, although the prohibition on beef is worded in a generic way (for reasons I have explained in my earlier thread), you have to appreciate that the particular passage is dealing with Dīkșā (initiation) and a Dīkșita’s (initiate’s) conduct. So, a generally-worded prohibition on wanton eating of beef is being imported into the Dīkșā’s context. See the passage structure: It starts off with a Dīkșā-specific prohibition. Then, it goes off into a generally-worded prohibition. The final part with Yajñavalkya in my opinion circles back to the Dīkșā context, where if a meat is Medhya, it is fit for consumption during **even** the Dīkșā.
 
+> If something is medhya, it is consumable in any context - sacrificial or not. amedhya anytime is prohibited.
 
 ## shrauta use
 At the same time, there are several references to the latter (sacrifice of cows) in the Veda where a cow may be offered to the Devas as sacrificial food. In this context, the Yajamāna has to consume a tiny portion of the sacrificed paśu (animal), called the iḍā portion.  Cow, sheep, goat, horse & man are considered the five yajñapaśus. In last case, the human paśu was released. The others went all the way to Ālambhana (killing).
