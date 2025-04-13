@@ -3,14 +3,24 @@ title = "१५ ताम्बूलभक्षणम्"
 
 +++
 
-<details open><summary>मूलम्</summary>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **अथ ताम्बूलभक्षणम् ।**
 
 **चण्डेश्वरः** ।
 
 > सार्धमासद्वये दद्यात् ताम्बूलं प्रथमं शिशोः ।
-</details> 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**अथ ताम्बूलभक्षणम् ।**
+
+**चण्डेश्वरः** ।
+
+> सार्धमासद्वये दद्यात् ताम्बूलं प्रथमं शिशोः ।
+</details>
 
 <details><summary>मराठी</summary>
 
