@@ -46,6 +46,11 @@ If it is bright yellow it is suspect.
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
+पाठशालायां केचिद् बाला स्फुट-पीत-तिलकवन्तो दृष्टः। 
+यथाशास्त्रं शुद्ध-हरिद्रादिनिर्मितं भगवत्-स्पर्शात् परं प्रयुज्यमानं चेच् चिन्ता नास्ति। किञ्च, मम सन्देहः - काचित् क्रेयं chalk-निभ-मृत्-खण्डं प्रयुज्यमानम् इति।  
+तेन हन्त, मेधोह्रासो भवतीति सुविदितम् (यथा - [TW](https://vishvasa.github.io/kalpAntaram/dharmaH/vishvAsaH/kriyA-nishchayaH/angAni/dravyam/kunkumAdi/articles/shrIchUrNam-kunkumam-lead/) )। स-दयं कश्चन १५ निमेषाणि गृहीत्वा सर्वम् इदं यथा तय् अवगच्छन्ति बोधयन्तु 🙏
+
+
 A hard to test theory - lead in yellow chalks (which are contrary to shAstra-s) used for shrIchurNam with alarming popularity in the past generation (2000-2020s) has done measurable harm to the intellect of traditional vaDakalai shrIvaiShNava-s. Given the competing effect of modern degeneracy - it's hard to find the signal in the final intellectual output - but if only there were reliable IQ test scores across generations (and interest now)...
 </details>
 
