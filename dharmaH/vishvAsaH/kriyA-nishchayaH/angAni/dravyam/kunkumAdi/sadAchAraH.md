@@ -2,7 +2,7 @@
 title = "सदाचारः"
 +++
 ## श्रीचूर्णम्
-### शास्त्र-निषेधः
+### पाञ्चरात्र-शास्त्र-निषेधः
 > असंस्कृतां हरिद्रां यो मुखे लिम्पन् नराधमः।  
 > तन्मुखं न निरीक्षेत चण्डालम् इव न स्पृशेत्॥
 
@@ -19,6 +19,12 @@ title = "सदाचारः"
 > चूर्णं विष्ण्वभिषेचितम्।  
 > ऊर्ध्वपुण्ड्रस्य मध्ये तु    
 > धारयेद् दीपवद् द्विजः।  
+
+### वैखानस-शास्त्र-निषेधः
+> अभिषिक्तन्तु यच्चूर्णं विष्णुबेरे तु यो नरः  
+हरिद्रां धारयेन्नित्यं सोऽश्वमेधफलं लभेत्
+
+इति [वासुदेव आह्निकामृते दीक्षितीयोद्धारेण](/vedAH_yajuH/taittirIyam/sUtram/vaikhAnasaH/paddhatiH/vAsudevaH_AhnikAmRtam/01/01_abhigamana-kAlakramaH)। 
 
 ### Color traditions
 > Many of the parakala matha sishyas use red even now. That said, in the 1990s, I have seen tenkalais wearing yellow srichurnam. The numbers have reduced now but I do see a few of them even now sometimes. I don't consider red = tk and yellow = vk as valid.
