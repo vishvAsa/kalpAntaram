@@ -10,7 +10,7 @@ The food of the physician is pus; the food of the unchaste woman is semen; the f
 
 <details><summary>मेधातिथिः</summary>
 
-**पूय**तुल्यं **चिकित्सकस्यान्नं** भोजनम् । **इन्द्रियं** शुक्रम् । **विष्ठा** **मलम्** एकम् एव ॥ ४.२२० ॥
+**पूय**तुल्यं **चिकित्सकस्यान्नं** भोजनम् । **इन्द्रियं** शुक्रम् । **विष्ठा मलम्** एकम् एव ॥ ४.२२० ॥
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>

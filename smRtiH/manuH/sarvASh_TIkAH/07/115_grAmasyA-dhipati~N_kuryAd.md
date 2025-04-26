@@ -10,7 +10,7 @@ He shall appoint the lord of one village, as also the lord of ten villages, the 
 
 <details><summary>मेधातिथिः</summary>
 
-एकैकस्मिन् **ग्रामे** **ऽधिपतिं** **कुर्यात्** । तदुपरि **दशग्रामपतिम्** । एवं सर्वत्र ॥ ७.११५ ॥
+एकैकस्मिन् **ग्रामे ऽधिपतिं कुर्यात्** । तदुपरि **दशग्रामपतिम्** । एवं सर्वत्र ॥ ७.११५ ॥
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>

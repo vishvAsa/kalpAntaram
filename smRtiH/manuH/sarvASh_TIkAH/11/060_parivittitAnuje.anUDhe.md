@@ -10,7 +10,7 @@ Allowing oneself to be superseded in marriage by his younger brother, supersedin
 
 <details><summary>मेधातिथिः</summary>
 
-**अनुजः** कनीयान् भ्राता । **तयोर्** **याजनं** विवाहे दर्शपूर्णमासादौ वार्त्विज्यम् ॥ ११.६० ॥
+**अनुजः** कनीयान् भ्राता । **तयोर् याजनं** विवाहे दर्शपूर्णमासादौ वार्त्विज्यम् ॥ ११.६० ॥
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>

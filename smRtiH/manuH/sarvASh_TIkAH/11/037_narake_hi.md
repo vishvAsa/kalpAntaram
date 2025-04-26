@@ -10,7 +10,7 @@ If these persons pour the oblations, they sink into hell, as also the person to 
 
 <details><summary>मेधातिथिः</summary>
 
-**एते** कन्यादयो **जुह्वतो** **नरकं** गच्छन्ति । **स च** यजमानो हावयिता ॥ ११.३७ ॥
+**एते** कन्यादयो **जुह्वतो नरकं** गच्छन्ति । **स च** यजमानो हावयिता ॥ ११.३७ ॥
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>

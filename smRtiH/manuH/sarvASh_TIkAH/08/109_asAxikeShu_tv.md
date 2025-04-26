@@ -14,7 +14,7 @@ In witness-less cases, if he cannot get at the truth between the two disputants 
 
 
 [^८५]:
-     M G DK omit: na hy anyaḥ . . . mithaḥ** **parasparam |
+     M G DK omit: na hy anyaḥ . . . mithaḥ parasparam |
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>

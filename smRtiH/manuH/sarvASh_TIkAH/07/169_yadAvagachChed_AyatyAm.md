@@ -37,7 +37,7 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 326), which adds the fo
 
 <details><summary>भारुचिः</summary>
 
-आयत्यपेक्षय्**आल्पिकां पीडां **कृत्वा**त्मनः** **संधिं समाश्रयेत्** ॥ ७.१६९ ॥
+आयत्यपेक्षय्**आल्पिकां पीडां **कृत्वा**त्मनः संधिं समाश्रयेत्** ॥ ७.१६९ ॥
 </details>
 
 <details><summary>Bühler</summary>

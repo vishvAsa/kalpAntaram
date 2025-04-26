@@ -10,7 +10,7 @@ He may give up his life unhesitatingly for the sake of a cow or a Brāhmaṇa; t
 
 <details><summary>मेधातिथिः</summary>
 
-अपरित्रायापि **सम्यक्** **प्राणपरित्यागेन** **मुच्यते** । परित्रायाप्राणत्यागेनापि ॥ ११.७९ ॥
+अपरित्रायापि **सम्यक् प्राणपरित्यागेन मुच्यते** । परित्रायाप्राणत्यागेनापि ॥ ११.७९ ॥
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>

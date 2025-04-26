@@ -10,7 +10,7 @@ Vāmadeva, expert in the knowledge of right and wrong, when distressed, desired 
 
 <details><summary>मेधातिथिः</summary>
 
-एवं **वामदेवो** नाम ऋषिः । स **आर्तः** क्षुधा **श्वमांसम्** **अत्तुं** भक्षयितुम् ऐच्छत् ॥ १०.१०६ ॥
+एवं **वामदेवो** नाम ऋषिः । स **आर्तः** क्षुधा **श्वमांसम् अत्तुं** भक्षयितुम् ऐच्छत् ॥ १०.१०६ ॥
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>

@@ -10,7 +10,7 @@ The giver of land obtains land, the giver of gold long life, the giver of house 
 
 <details><summary>मेधातिथिः</summary>
 
-भूमेर् आध्पत्यं प्राप्नोति । **हिरण्यं** सुवर्णम् । **रूप्यद** **उत्तमं रूपं** लभते ॥ ४.२३० ॥
+भूमेर् आध्पत्यं प्राप्नोति । **हिरण्यं** सुवर्णम् । **रूप्यद उत्तमं रूपं** लभते ॥ ४.२३० ॥
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>

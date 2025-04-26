@@ -10,7 +10,7 @@ The man who has faith and control over his senses may perform other meritorious 
 
 <details><summary>मेधातिथिः</summary>
 
-यावती दक्षिणा विहिता ततो न्यूना दीयते यत्र सो **ऽल्पदक्षिणो** **यज्ञः**[^३४] । 
+यावती दक्षिणा विहिता ततो न्यूना दीयते यत्र सो **ऽल्पदक्षिणो यज्ञः**[^३४] । 
 
 
 [^३४]:
