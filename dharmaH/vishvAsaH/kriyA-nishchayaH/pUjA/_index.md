@@ -47,6 +47,9 @@ Some of these offerings may be specially selected to invoke the desired feelings
 - In the indra dhvaja festival images of genitalia were made from mixture of wheat and brown sugar and offered before the dhvaja. Their offering was accompanied by telling of jokes to induce laughter in the assembled (The Mbh records it). It was generally not seen as correct for V1s to eat those after they were offered but the rest of the community did eat them. 
 
 ## Avesha
+- Avesha has a deep history in hindu thought \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\], and is an important part of many rituals (see [V mantra](../../../../mantra/meta/)).
+- "It is also important to note, and this is another vital differentiation between casual pop-ideas of possession and that which comes to us from śāstras, is that the act can be initiated either by the possessor or the possessed." \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\]
+- "while true āvesa is full-fledged entering of a deity or force into another individual, thus altering his individuality completely, bhāvāvesa is a more specific experience, where the self-identity of the subject is not necessarily threatened." \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\]
 
 Excerpts from an insightful comment from another thread by shrI[ manISha-paNDita](): 
 

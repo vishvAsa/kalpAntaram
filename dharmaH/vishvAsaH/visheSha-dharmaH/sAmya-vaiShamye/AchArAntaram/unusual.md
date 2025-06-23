@@ -31,7 +31,7 @@ Some unusual rituals involve some unusual components, some of which people may n
 - Modern examples: Joe Hutto.
 
 ## Sex
-- Consider various sexual symbolisms used in adoring deities.
+- Consider various sexual symbolisms used in adoring deities. (See [pUjA pages](/kalpAntaram/dharmaH/vishvAsaH/kriyA-nishchayaH/pUjA))
 
 ### niyoga (sperm donation)
 - ashvamedha having a niyoga component at one point in time.
@@ -94,9 +94,7 @@ Some unusual rituals involve some unusual components, some of which people may n
 - Famously carried around by kapAlika-s and such.
 
 ## Posession and wildly altered behavior
-- Avesha has a deep history in hindu thought \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\], and is an important part of many rituals (see [V mantra](../../../../mantra/meta/)).
-    - "It is also important to note, and this is another vital differentiation between casual pop-ideas of possession and that which comes to us from śāstras, is that the act can be initiated either by the possessor or the possessed." \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\]
-    - "while true āvesa is full-fledged entering of a deity or force into another individual, thus altering his individuality completely, bhāvāvesa is a more specific experience, where the self-identity of the subject is not necessarily threatened." \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\]
+- Avesha considered separately.
 
 ## Drama
 ### Prohibitions and support
