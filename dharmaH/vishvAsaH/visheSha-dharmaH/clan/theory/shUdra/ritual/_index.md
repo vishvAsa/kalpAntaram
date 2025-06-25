@@ -26,9 +26,27 @@ unicode_script: devanagari
 -   Śūdra-s along with brāhmaṇas have been worshipping idols, trees, animals etc.. and hence the ineligibility doesn't matter in practice.
 
 ## Vedic study
--   Studying the veda was prohibited. Gautama-dharma-sūtra (an influential early work) even barred them from hearing it.
+- Studying the veda was prohibited. Gautama-dharma-sūtra (an influential early work) even barred them from hearing it.  
+    
+Apastamba - 
+
+> श्मशानवच्छूद्रपतितौ ॥ ९ ॥  
+समानागार इत्येके ॥ १० ॥
+
+So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but tolerated if accidental.
+
+
 -   There are hints that this restriction was not in place in the distant past. For example, Bādari (an early mīmāṃsa scholar) advocates that śūdra-s too could study the veda-s (PMS 6.1.27).
 -   They were explicitly authorized to repeat various popular non-vedic mantra-s and there was no restriction whatsoever on repeating non-vedic poetry.
+
+In mahAbhArata -
+
+> श्रावयेच्चतुरो वर्णान्  
+कृत्वा ब्राह्मणम् अमग्रतः।  
+वेदस्याध्ययनं हीदं  
+तच्च कार्यं महत् स्मृतम् ॥ ४९ ॥
+
+vyAsa says "ईक्षेत् कुलगुणादिभिः। ", so also the context does not suggest vedAdhyayana to shUdras. (Details elsewhere.)
 
 ## Sanskrit use
 - See [sanskrit misconceptions page](/sanskrit/meta/misconceptions/Sanskrit_Phobia/Restricted_social_role/). They could learn and teach sanskrit without impinging on core religious teaching authority of brAhmaNas (eg. dharmashAstra-s). Even there: They could certainly write express/ teach their understanding of essentials of dharma. Plus the general authority of teaching other vidya-s were not monopolized.
