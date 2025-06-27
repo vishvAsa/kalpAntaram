@@ -11,7 +11,7 @@ unicode_script = "devanagari"
 
 कात्यायनो [ऽत्र](/vedAH_yajuH/vAjasaneyam/sUtram/kAtyAyanaH/shrautam/sarva-prastutiH/01/03) । 
 
-- दर्वीविकल्पा आपस्तम्बोक्ताः - खादिराः, पालाशाः, आश्वत्थ्यः, वैकङ्कत्यः +++(=Flacourtia [FI](http://www.flowersofindia.net/catalog/slides/Governor's%20Plum.html))+++ 
+- दर्वी-विकल्पा आपस्तम्बोक्ताः - खादिराः, पालाशाः, आश्वत्थ्यः, वैकङ्कत्यः +++(=Flacourtia [FI](http://www.flowersofindia.net/catalog/slides/Governor's%20Plum.html))+++ 
 - द्राविडेषु +औदुम्बर-प्रयोगः साधारणः। 
 
 ### Making instructions
