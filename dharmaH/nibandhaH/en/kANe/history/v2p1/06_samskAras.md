@@ -1436,7 +1436,7 @@ There is a great divergence of views about the number of locks of hair to be lef
 [^609]: {{सदोपवीतिना भाव्यं सदाबद्धशिखेन च । विशिखोऽनुपवीतश्च यत्करोति न तत्कृतम् ॥ Devala. 'शिखां छिन्दन्ति ये मोहाद् द्वेषादज्ञानतोऽपि वा । तप्तकृच्छ्रेण शुध्यन्ति त्रयो वर्णा द्विजातयः' ॥ Hārīta, both quoted in Saṃskāramayūkha p. 316. Hārīta verses 18-19 (Anand. Ed.) are very similar to the 2nd verse. The first is Devala 2. 4 and is quoted as Yama's in Saṃ. Pra. I. p. 32.|सदोपवीतिना भाव्यं सदाबद्धशिखेन च । विशिखोऽनुपवीतश्च यत्करोति न तत्कृतम् ॥ Devala. 'शिखां छिन्दन्ति ये मोहाद् द्वेषादज्ञानतोऽपि वा । तप्तकृच्छ्रेण शुध्यन्ति त्रयो वर्णा द्विजातयः' ॥ Hārīta, both quoted in Saṃskāramayūkha p. 316. Hārīta verses 18-19 (Anand. Ed.) are very similar to the 2nd verse. The first is Devala 2. 4 and is quoted as Yama's in Saṃ. Pra. I. p. 32.}}
 [^610]: {{अमेध्यं तच्छिरो यस्य शिखा नास्ति' quoted by the commentators on Kāṭhaka 40. 7.|'अमेध्यं तच्छिरो यस्य शिखा नास्ति' quoted by the commentators on Kāṭhaka 40. 7.}}
 
-## Caula
+
 In modern times the rite of cūḍākaraṇa generally takes place if at all on the day of Upanayana.
 
 Āśv. gṛ. (I. 17. 18) expressly says that the ceremony of cūḍākaraṇa was to be performed for girls also, but no Vedic mantras were to be repeated. Manu (II. 66) says that all the ceremonies from jātakarma to caula must be performed at the proper times for girls also in order to purify their bodies but without mantras and Yāj. (I. 13) is to the same effect. Even such late writers as Mitramiśra say that the caula of girls may be performed according to the usage of the family and that their hair may be entirely shaved or a śikhā may be kept or there should be no shaving at all.[^611]
