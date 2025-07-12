@@ -512,7 +512,7 @@ TRT Araṣtan Turagttor quoted in frate on u. III. 30.; FM I. p. 118 quotes प�
 H, D, 84666 
 
 
-
+## 
 (Oh. XVII 
 
 Beveral birds (like the crow) and animals (like the cook and village hog), which are passed over for want of space. 
