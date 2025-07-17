@@ -47,3 +47,13 @@ Nīlakaṇṭha goes a step further and says that if one gets to the root, all a
 
 From Mahābhārata, Śāntiparvan, 60.
 
+## RShis?
+Two interesting cases where Ṛṣis were addressed as 'Śūdrāputra' and 'Dāsīputra', being declared 'Abrāhmaṇa-s'. Eventually the Ṛṣis proved their power.
+
+Vatsa Kāṇva is called 'Śūdrāputra' by Medhātithi Kāṇva.  
+Kavaṣa Ailūṣa is called 'Dāsīputra' by Ṛṣis.
+
+The case of Kavaṣa is further interesting because his father Ilūṣa isn't mentioned as a Ṛṣi either by Ṣaḍguruśiṣya or Sāyaṇa. Interesting to note that Sāyaṇa does not mention Ilūṣa, the father of sage Kavaṣa as a Ṛṣi in his commentary on Aitareya Brāhmaṇa 8.1. He calls Kavaṣa 'son of a man called Ilūṣa'. For Sāyaṇa, the reason why other sages called him non-Brāhmaṇa, was his being a gambler (Kitava). For Ṣaḍguruśiṣya, they called him so because he did not practise the sadācāra like sandhyāvandana, etc. Nevertheless, the sage showed his power, and his purity and divinity was recognised by the other sages.
+
+This might be the reason why Manu uses an adjective 'Brahmayonistha' for Brāhmaṇas (MS 10.74), who could take up the specific 6 livelihoods meant for Brāhmaṇas. 'Brahmayonistha' means born of Brāhmaṇa parents. From PoV of MS 10.5, this adjective is superfluous. There, a Brāhmaṇa is, for instance, defined as the one born of Brāhmaṇa parents (wedded in a proper manner). The 2 instances mentioned above may indicate a wider usage of the term 'Brāhmaṇa'. References: Tāṇḍyamahābrāhmaṇa 14.6.6, Aitareyabrāhmaṇa 2.3(8).1.
+
