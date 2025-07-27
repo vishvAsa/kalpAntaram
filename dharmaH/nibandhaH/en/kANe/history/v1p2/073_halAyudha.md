@@ -137,7 +137,7 @@ Verse 14 of the Intro. to Br. Sarvasva contains the clear words - Dharmadhyaksa-
 
  - - --- - - ---- - --- र बाल्ये ख्यापितराजपडितपदः श्वेतांशुबिम्बोज्वलच्छत्रोसिक्तमहामहत्तकपदं 
 
-दत्त्वा नवे यौवने । यस्मै योवनशेषयोग्यमखिलक्ष्मापालनारायणः श्रीमाँल्ल. श्मणसेनदेवनृपतिर्धर्माधिकारं ददौ ॥ Intro. verse 12 of ब्राह्मणसर्वस्व. vids E. I. vol. XIV p 150 at p. 160 of the Vaihati yrapt of king Ballāla gena, fatber of Lakṣınanasena, where a mahādharmādbyaksa is mentioned among great functionaries of State. 
+दत्त्वा नवे यौवने । यस्मै योवनशेषयोग्यमखिलक्ष्मापालनारायणः श्रीमाल्ँल. श्मणसेनदेवनृपतिर्धर्माधिकारं ददौ ॥ Intro. verse 12 of ब्राह्मणसर्वस्व. vids E. I. vol. XIV p 150 at p. 160 of the Vaihati yrapt of king Ballāla gena, fatber of Lakṣınanasena, where a mahādharmādbyaksa is mentioned among great functionaries of State. 
 
 73. Halayudha 
 
