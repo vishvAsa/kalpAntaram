@@ -57,7 +57,7 @@ In these explanations we see the following purport—“The story of the incarna
 
 \(These are some of the interpretations of critics pertaining to *Narasimhāvatāra*\) Let us now study what is said about his form and incarnation in the *śāstras* of *Sanātana Aryabhārata Maharshis*.
 
-*Śrī Narasimha* is an incarnation of Lord *Vishṇu*. All our spiritual texts, *Itihāsas* and *purāṇas* tell that his incarnation is the fifth among the famous ten *avatāras* of *Vishṇu*. The *Narasimhagāyatrīmantra* appearing in the Andhra version of the *Mahānārāyaṇopanishad* meditates upon him as a \(god\) with \(diamond like\) hard claws, sharp pointed teeth, and, as Lord *Narasimha* and prays to incite our intellect वज्रनाखाय विद्महे तीक्ष्णदग्ꣳष्ट्राय धीमहि । तन्नो नारसिꣳहः प्रचोदयात् ॥
+*Śrī Narasimha* is an incarnation of Lord *Vishṇu*. All our spiritual texts, *Itihāsas* and *purāṇas* tell that his incarnation is the fifth among the famous ten *avatāras* of *Vishṇu*. The *Narasimhagāyatrīmantra* appearing in the Andhra version of the *Mahānārāyaṇopanishad* meditates upon him as a \(god\) with \(diamond like\) hard claws, sharp pointed teeth, and, as Lord *Narasimha* and prays to incite our intellect वज्रनाखाय विद्महे तीक्ष्णदग्ँष्ट्राय धीमहि । तन्नो नारसिँहः प्रचोदयात् ॥
 
 *Nṛsimhatāpini upanishad*, which is categorized as belonging to *Atharvaveda*, has quoted *Nṛsimha mantra* along with the *Ṛshi*, deity and metre and describes him as *“kshīrasāgaraśāyī*, the goal of *yogis, Parampada, ṛta, Satya, Parambrahma, Purusha, Kṛshṇapiṅgala, Ūrdhvareta, Virūpāksha* etc.
 
@@ -125,7 +125,7 @@ For example, in the recently available *Śātarudrasamhitā* of the *Śiva-purā
 
 On the orders of *Śiva, Vīrabhadra* manifested himself the form of a ferocious *śarabha* \(an eight legged animal stronger than a lion\). The moment he saw that form, Narasimha became deprived of his effulegene and strength, like a glow worm in front of the sun. *Śarabha* did not leave him at that. He took him captive, beat him up, lifted him to the sky, tore his body and presented the corpse to *Śiva*. Lord *Śiva* used *Narasimha’s* skin as his garment, and added *Narasimha’s* head to his garland of skulls. *Narasimha* punished *Hiraṇyakaśipu*, and in turn *Rudra* punished *Narasimha* himself\!
 
-> “हरिꣳ हरन्तमनुयन्ति देवाः ।  
+> “हरिँ हरन्तमनुयन्ति देवाः ।  
 > विश्वस्येशानं वृषभं मतीनाम् 
 
 > अथ विभ्रम्य पक्षाभ्यां नाभिपादान्विदारयन् ।  
@@ -154,7 +154,7 @@ We come across some sentences in *Śarabhopanishad*, a work of recent origin, wh
 
 There is a *mantra* by name *mṛuthyusūkta* in the *Anuvāka* 315, of *Kṛshṇayajurveda Taittirīyāraṇyaka praśna*. Some *Raudravīras* \(heroic devotees of *Rudra*\) interpret it to mean that *Rudra* subdued *Vishṇu*.
 
-> हरिꣳ हरन्तमनुयन्ति देवाः ।  
+> हरिँ हरन्तमनुयन्ति देवाः ।  
 > विश्वस्येशानं वृषभं मतीनाम् 
 
 \(The translation of the *mantra* according to these people is − “gods follow *Rudra* the lord of the universe, the ultimate of deities, and the one who slew *Narasimha*.”\)
@@ -526,7 +526,7 @@ The custom of fasting for the whole day \(on the day of Narasimhajayanti\) and d
 
 It will be most proper to spend the night of that festival by listening to stories related to *Śrī Narasima*, and in singing his glories. There is also a tradition in some devotees who fast on that day and, after performing *Uttarārādhana* the next day, gift the idol of *ŚrīNarasimha* to the deserving ones.
 
-Those who fast for the whole day on the day of *Narsimhajayantī*, should perform the concluding worship early in the morning on the next day. As part of worship, some people do *‘Śrī Nṛsimhajapa,* chant the *mantra*, invoke him in the holy fire and perform worship through *homa*. After the *Pārāyaṇa* of the *Nrsimhatāpinī Upanishad*, cooked rice and ghee should be offered as *Havis* in the *Homa* by chanting *Purushasūkta* and the *Narasimha Gāyatri mantra.* \(ॐ वानाखाय विद्महे | तीक्ष्णदग्ꣳष्ट्राय  धीमहि । तन्नो नारसिꣳहः प्रचोदयात्॥\) There is also a custom of performing *Jalatarpaṇapūja* with *Nrsimhagāyatrī* itself. The custom of performing this *Homa* after doing *Shoḍaśopacāra* and gifting the idol of god which was worshipped, to the deserving ones is also there.
+Those who fast for the whole day on the day of *Narsimhajayantī*, should perform the concluding worship early in the morning on the next day. As part of worship, some people do *‘Śrī Nṛsimhajapa,* chant the *mantra*, invoke him in the holy fire and perform worship through *homa*. After the *Pārāyaṇa* of the *Nrsimhatāpinī Upanishad*, cooked rice and ghee should be offered as *Havis* in the *Homa* by chanting *Purushasūkta* and the *Narasimha Gāyatri mantra.* \(ॐ वानाखाय विद्महे | तीक्ष्णदग्ँष्ट्राय  धीमहि । तन्नो नारसिँहः प्रचोदयात्॥\) There is also a custom of performing *Jalatarpaṇapūja* with *Nrsimhagāyatrī* itself. The custom of performing this *Homa* after doing *Shoḍaśopacāra* and gifting the idol of god which was worshipped, to the deserving ones is also there.
 
 There upon, *tīrtha* and *prasāda* should be had, and after *Bhāgavata samārādhana*, *pāraṇa prasada* should be taken. Those who complete the worship on the day of *Narasimhajayanti* itself, can do *paraṇa* after the *Shoḍaśopacārapūja*, *Japa* and *homa* and *Bhāgavatārādhana* in the same night.
 

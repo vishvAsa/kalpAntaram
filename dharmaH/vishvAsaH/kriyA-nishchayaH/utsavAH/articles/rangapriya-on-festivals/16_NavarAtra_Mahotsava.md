@@ -404,7 +404,7 @@ As part of this *Vrata*, the *vṛksha pūjā* is an important aspect which has 
 
 Question 1: “The *ĀryaBhāratīyamaharshis* were mainly worshippers of nature. They were influenced by the thunder, lightning, rains, wind, light etc. which occur in nature and stir up feelings like fear, wonder, jubiliation etc. and so, attributing divinity to them, they began to worship them with prayers and sacrifices. The worship of trees also comes under this category. Gigantic trees attracted them. They were attracted by their produce such as shade, flowers, fruits and medicines and furniture, and firewood made from their timber. The houses of *Vaidik* Aryans were generally built with timber only. In the *Viśvakarma Sūkta* in the *Vedas*, we come across a sentence:-
 
-“किग्ꣳस्विद्वनं क उ स वृक्ष आसीद्यतो द्यावापृथिवी निफतक्षुः”
+“किग्ँस्विद्वनं क उ स वृक्ष आसीद्यतो द्यावापृथिवी निफतक्षुः”
 
 which means—“from which forest and from which trees did *Viśvakarma* build this world?”
 
@@ -422,7 +422,7 @@ Question 3: What is the basis for this explanation?
 
 Answer: Their \(i.e. the *Maharshis’*\) very experience is the supreme proof. Their *śāstravākyas* also proclaim this opinion. *Paramātma* is the *ātmasvarūpi* for everything. All the *cetanas* and *acetanas* are like his body of God.
 
-“ऐतदात्म्यमिदꣳ सर्वम्” जगत्सर्वं शरीरं ते।”
+“ऐतदात्म्यमिदँ सर्वम्” जगत्सर्वं शरीरं ते।”
 
 —Proclaim the *Upanishads* and *Itihāsas* indeed\!
 

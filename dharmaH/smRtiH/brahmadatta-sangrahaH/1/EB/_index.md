@@ -94,7 +94,7 @@ sheer dint of his noble aptitudes of head and heart, experience, knowledge, stro
 
 world over by giving wide publicity to the selfaxiomed precepts envisaged in the Shruties and Smrities through very comprehensible and indispensable interpretation well appropriate to the contexts. His book Grihastha Dharma has been a popular watch word to all the Hindi-speaking house holders. In a word, Shri Moreji has, to his credit, a life entirely devoted to selfless service to his fellow persons in particular and all the creatures of universe in general. Even as he acts and moves his thoughts are concentrated towards performing deeds of kindness never of indiscriminate charity, but of far reaching con-sequences; work of introducing measures to develop agriculture, horticulture and to protect our cattle wealth for national prosperity. He believes in the decentralization programme for the village uplift as propounded by the Father of the Indian Nation "Gandhiji" änd is a true devotee of Ahimsa as preached by the Shastras. His unperturbed zeal towards
 
-"ईशावास्यमिदं ꣳ सर्वम्"is a matter for envy to all. An institution SattvieJiwan Shala at Nawalgarh (Jaipur-Rajasthan) is a successful experiment in giving shape to his noble plans wherestudents are imparted free instruction of all kind in the healthy natural environment and atmosphere of the open. The boys lead a self restraint life, Brahmacharya Jiwan, "far from madding crowd's ignoble strife", where they do spade, work, manual labour and enjoy other extra-curricular activities which help in developing their physical, mental and spiritual progress in a balanced manner to become capable citizens of the country. All this is reminiscent of ancient Ashram life. His is a dream for carrying out this successful experiment on a grand scale on all world basis.
+"ईशावास्यमिदं ँ सर्वम्"is a matter for envy to all. An institution SattvieJiwan Shala at Nawalgarh (Jaipur-Rajasthan) is a successful experiment in giving shape to his noble plans wherestudents are imparted free instruction of all kind in the healthy natural environment and atmosphere of the open. The boys lead a self restraint life, Brahmacharya Jiwan, "far from madding crowd's ignoble strife", where they do spade, work, manual labour and enjoy other extra-curricular activities which help in developing their physical, mental and spiritual progress in a balanced manner to become capable citizens of the country. All this is reminiscent of ancient Ashram life. His is a dream for carrying out this successful experiment on a grand scale on all world basis.
 
  We wish Shree Moreji all success and may God bless him with more resources at his disposal for performing all the humanitarian tasks which he hopes to undertake in near
 
@@ -560,7 +560,7 @@ LADURAM TRIVEDI,
 
 यथा यजुर्वेदे अ० ४०
 
-"कुर्वन्नेवेहकर्माणि जीजीविषेच्छतꣳ समाः एवं  
+"कुर्वन्नेवेहकर्माणि जीजीविषेच्छतँ समाः एवं  
 त्वयिनान्यथेतोस्ति न कर्म लिप्यते नरे"
 
 इत्यादि श्रुत्युक्तेः। नराः पूर्वोक्तविधिना यथाविधिद्याथमादाश्रमं गच्छन्त ऐहिकामुष्मिकानि सर्वाणि कल्याणानि लभन्ते।
