@@ -244,7 +244,7 @@ But in the *taittirīya* and *vājasaneya samhitās* there is a recitation in sa
 “नमोऽस्तु सर्पेभ्यो ये केचन पृथिव्यामनु,  
 > ये अन्तरिक्षे तेभ्यः सर्पेभ्यो नमः” 
 
-> “इदग्ं सर्पेभ्यो हविरस्तु जुष्टम्  
+> “इदꣳ सर्पेभ्यो हविरस्तु जुष्टम्  
 > आश्रेषे येषामनुयन्तिचितं तेभ्यः सर्पेभ्यो मधुमज्जुहोमि” 
 
 A *mantra* in the *nakshatrasūkta* wishes a *‘svāhākāra’* \(utterance of the exclamation *‘svāhā’*\) to *sarpas* who are the reigning deities of the star *Āśleshā*. The *Atharvaveda* mentions the names of *mahāsarpas* such as *takshaka*, *Dhṛtarāshṭra, pārāvata* etc. *Kāṭhaka* considers *sarpas* among the *‘pañcajanas’* \(gods with the appearance of the human form\). So, in the later periods of times, *sarpas* came to be considered as a separate class like the *devas*, *gandharvas, pitṛs* and others. In the *Itihāsas* and *Purāṇas* also, *sarpas* came to be considered as a separate class.

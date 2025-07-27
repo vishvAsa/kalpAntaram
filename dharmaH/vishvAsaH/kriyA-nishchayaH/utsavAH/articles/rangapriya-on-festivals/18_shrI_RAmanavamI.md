@@ -140,7 +140,7 @@ There are many such *āptavākyas* which support the view that *ŚrīRāma* also
 
 *Āptavākyas* pronounce that *ŚrīRāma* is the almighty god and an incarnation. The *Upanishads*, *Śrīmad Rāmāyaṇa*-the *ādikāvya* which is a form of *the Veda*, the *Mahābhārata* which is renowned as the fifth *veda* and also a great *Itihāsa*, the precious *purāṇas*, the words of *Alvars* who were preeminent *jnānis*, and the nectar like words and the songs of *Ācharyas* declare this truth clearly. We quote a few of them here:
 
-1. ॐ महाविष्णुं सच्चिदानन्दलक्षणं रामचन्द्रं द्रष्ट्वा सर्वाङ्गसुन्दरं मुनयो वनवासिनो विस्मिता बभूवुः तग्ं होचुः\(कृष्णोपनिषत्-खण्ड I\) 
+1. ॐ महाविष्णुं सच्चिदानन्दलक्षणं रामचन्द्रं द्रष्ट्वा सर्वाङ्गसुन्दरं मुनयो वनवासिनो विस्मिता बभूवुः तꣳ होचुः\(कृष्णोपनिषत्-खण्ड I\) 
 2. राम त्वं परमात्मासि सच्चिदानन्दविग्रहः ।  
 > इदानीं त्वां रघुश्रेष्ठ प्रणमामि मुहुर्मुहुः ॥\(मुक्तिकोपनिषत्\) 
 3. राम एव परं ब्रह्म राम एव परं तपः ।  
