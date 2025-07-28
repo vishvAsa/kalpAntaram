@@ -64,3 +64,17 @@ Commentator Govindarāja : But Śūdras are only allowed to hear Itihāsa etc. d
 > (वा० रा० १.१.९७)
 
 The word 'पठन्' is easily joined with द्विजः, क्षत्रियः & वणिग्जनः. So what's the problem in joining it with शूद्रः? Words of someone as tall as Maharṣi Vālmīki, cannot escape the verbal & argumentative gymnastics of scholars. The cases of this verse from VR and that of  Mbh's verse 'śrāvayeccaturo varṇān..' (being about Itihāsa, etc. & not Veda), looks like a case of श्रुतत्यागाश्रुतकल्पना.
+
+
+## अप्पय्यः
+
+> एतानि च प्रतिबन्धक-निवर्तकानि यथाधिकारं व्यवतिष्ठन्ते । तथा च 
+> 
+> > "श्रावयेच् चतुरो वर्णान् कृत्वा ब्राह्मणम् अग्रतः"  
+> > "शूद्र-सुखम् अवाप्नुयात्" 
+>
+> इत्य् आदि-वचनैर् इतिहास-पुराण-श्रवण-पठन-अधिकारित्वेनानवगतस्य शूद्रस्य  
+तच्-छ्रवण-नियम-सम्पाद्यम् अदृष्टं विना  
+लिखित-पाठ-गृहीत-वेदान्तादिभिः कथम् अप्रतिबद्ध-ब्रह्मावगति-सम्भवः ।  
+सन्ति हि पुराणेतिहास-श्रवण-सामान्ये केचन नियमाः -  
+विशिष्य च पुराण-भेदेन भारत-पर्वादि-भेदेन चान्ये नियमाः । 
