@@ -2,6 +2,25 @@
 title = "Inbreeding"
 +++
 
+## सगोत्र-विवाह-निषेधः
+सगोत्र-विवाहे जनितुर् एव दोष उक्तो बोधायनेन - 
+
+> ३७  सगोत्रां चेद् अमत्योपगच्छेन् मातृवद् एनांबिभृयात्।  
+३८  प्रजाता चेत् कृच्छ्राब्दपादं चरित्वा । यन् म आत्मनो मिन्दाभूत् । पुनर् अग्निश् चक्षुर् अदाद् इति । एताभ्यांजुहुयात् ॥ 
+
+आपस्तम्बोऽपि कन्यापितुर् दोषम् आह - 
+
+> सगोत्राय दुहितरं न प्रयच्छेत् १५ 
+
+### अबुद्धि-पूर्वकता
+तत्र प्रायश्चित्तानि भिन्नान्य् उक्तानि - बुद्धि-पूर्वकाबुद्धि-पूर्वक-गमनयोः।  
+आधुनिकैस् तु शास्त्र-शिक्षा-रहितैर् यद् आचर्यते बुद्धिपूर्वकम् इव,  
+तत् प्रायेण +अबुद्धिपूर्वकम् एव मन्तुम् उचितम्  -  शास्त्राबुद्धेर् बहुमात्रया वर्तमानत्वात्। 
+
+### अपत्य-पापम्?
+स वेचारो ऽन्यत्र - [TW](/kalpAntaram/dharmaH/vishvAsaH/visheSha-dharmaH/clan/theory/patita-putratvam) ।
+
+
 ## sa-piNDa rather than sa-gotra 
 Considering potential adRShTa-prayojana-s of antar-gotra vivAha, it should be attempted as a first option. To do this, there are other constraints to relax. Such as geographical location, language/ ethnicity and even sagotra-barrier.
 
@@ -36,11 +55,9 @@ Reasoning:
   - It is clear from genetic studies that shiShTa-s have transgressed vivAha restrictions throughout India. This must have appened in cases of population bottlenecks arising from migrations.
 - bhAradvAja-s and jAmadagnya-s have a tough time in south India.
 
-
-
-
-
 {{< figure src="../images/bhAradvAja-incel.jpg" title="">}}
+
+
 
 ### श्राद्धे
 श्राद्धेषु भोक्तारः सगोत्रा न स्युर् इति नियमानुसारं योग्यानाम् अभावे,  
