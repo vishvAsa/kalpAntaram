@@ -167,6 +167,21 @@ The one who desires to know śabda is adhikārin - Uddyota on Patañjali's Mahā
 
 [शब्दाश्चात्र विषयीभूताः।… व्युत्पित्सुरधिकारी]
 
+### Non-pANinIya grammar
+1849 Cawnpoor: Sanskrit schools run by Peshwa, where his servants' sons & sons of residents of his Jagir studied, taught 'Sārasvata' (Anubhūtisvarūpācārya) & 2 commentaries 'Candrikā' & 'Balabhadrī' instead of Aṣṭādhyāyī & related books. 
+
+1882 Punjab: 'Sārasvata' & its commentary 'Candrikā' were taught apart from Aṣṭādhyāyī, etc.
+
+G. W. Leitner in his book 'History Of Indigenous Education In The Panjab Since Annexation And In 1882' accepts that Śūdras could learn Sanskrit grammar.
+
+Śeṣakṛṣṇa in his Śūdrācāraśiromaṇi has said that Śūdra-s aren't eligible to study Aṣṭādhyāyī because it is a Vedāṅga. He does not state any prohibition about non-Aṣṭādhyāyī Sanskrit grammar for them.
+
+The reports shown above tell what texts Śūdra-s could study. [3/4]
+
+Ref.: 
+- Statistical Report Of The District of Cawnpoor; By Robert Montgomery, Esquire C. S., June 1848, (Appendix No. VIII, Copy Of Report On The State Of Education In The District Of Cawnpoor).
+- History Of Indigenous Education In The Panjab Since Annexation And In 1882.
+
 ## Brahmasūtra - Śāṅkarabhāṣya 
 Inferring Sanskrit-literacy of Śūdras 
 
