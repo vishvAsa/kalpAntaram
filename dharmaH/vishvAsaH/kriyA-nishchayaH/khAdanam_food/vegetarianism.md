@@ -2,16 +2,15 @@
 title = "vegetarianism"
 +++
 
-- "मुन्यन्नं ब्राह्मणस्योक्तं मांसं क्षत्रियवैश्ययोः " इत्यादि वाक्यं तु याज्ञवल्क्यस्मृतेः (१.२६१) मिताक्षरायां पुलस्त्यस्मृतेरुद्धृतम्।
+## मांस-भोज्यता
+> "मुन्यन्नं ब्राह्मणस्योक्तं  
+मांसं क्षत्रियवैश्ययोः " 
 
+इत्यादि-वाक्यं तु याज्ञवल्क्यस्मृतेः (१.२६१) मिताक्षरायां पुलस्त्यस्मृतेर् उद्धृतम्।
 
-<details><summary>विश्वास-टिप्पनी</summary>
+## मांसादौ विश्वासः
+In accordance with culture and current knowledge of healthy nutrition, stay ovo-lacto-vegetarian (in the absence of nirUDha-pashubandha observance). Avoid food cooked with same cutting boards and knives as fresh meat.
 
-Caution while eating out:
-
-Thai food almost universally uses fish sauce.  
-Double check in restaurants of mAmsAhAri cultures.
-</details>
 
 ## Factors towards vegetarianism.
 - Historical reasons. Why do many types of hindu-s not eat meat? Because their parents and relatives did not eat meat, and they have no idea why, and it is now a matter of cultural identity. Ok, why did this practice start and why was it sustained?

@@ -1,6 +1,7 @@
----
-title: +Food आहारः
----
++++
+title = "+खादनम्"
+unicode_script = "devanagari"
++++
 - See a general survey on the topic by gaNesha -[sv15](http://indiafacts.co.in/the-hindu-view-on-food-and-drink/).
 
 
@@ -8,11 +9,11 @@ title: +Food आहारः
 
 ## Meat restriction
 - अपञ्चनखेषु
-    - अभक्ष्यो ग्राम्यकुक्कुटः अभक्ष्यो ग्राम्यसूकरः। (महाभाष्ये)
+  - अभक्ष्यो ग्राम्यकुक्कुटः अभक्ष्यो ग्राम्यसूकरः। (महाभाष्ये)
 - पञ्चनखेषु
-    - पञ्च पञ्च नखा भक्ष्या ब्रह्मक्षत्रेण राघव 4.17.38।। शल्यक श्श्वाविधो गोधा शशः कूर्मश्च पञ्चमः। (नान्ये)
+  - पञ्च पञ्च नखा भक्ष्या ब्रह्मक्षत्रेण राघव 4.17.38।। शल्यक श्श्वाविधो गोधा शशः कूर्मश्च पञ्चमः। (नान्ये)
 
-[मांस-तत्त्व-विवेक](/kalpAntaram/mAMsa-tattva-vivekaH/) ईक्षणीयः। 
+[मांस-तत्त्व-विवेक](/kalpAntaram/mAMsa-tattva-vivekaH/) ईक्षणीयः।
 
 ## कवकानि
 > Likewise a mushroom with an umbrella-shape ChattrAkAara is proscribed in the dietary laws of V1s. - MT
@@ -23,7 +24,7 @@ title: +Food आहारः
 कुन्तु, शब्दप्रयोगेण कवकोपजातिर् एव गृहीतुं वरा निषेधार्थम् -  
 यतः छत्राकृतिरहितानि कवकानि बहूनि प्रसिद्धानि।
 
-medhAtithi on manu [here](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200379.html). 
+medhAtithi on manu [here](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200379.html).
 
 
 ## Emergencies
