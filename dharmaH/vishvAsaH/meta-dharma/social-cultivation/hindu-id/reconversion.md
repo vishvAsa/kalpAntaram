@@ -26,3 +26,13 @@ Rama Ramanuja Achari (Aka Rami Sivan) peddling subversionist nonsense -
 > \[Some Aspects of Ancient Indian Culture, by DR Bhandarkar, Rev. JM Anthos, Asian Educational Services, 1989. pp 68.\] quotes an incident in 1398-99 CE during the Vijayanagara era, in which 2,000 Brahmin girls of a village were rescued from the armies of Firoz Shah Bahmani and accepted after purification rites \[1\].
 
 > "The Shuddhi movement of Arya Samaj, carried to many parts of the north in the early decades of 1900s by Swami Shraddhananda, is nothing but a continuation of this long-time Hindu practice."
+
+## Downsides to converts
+
+> We could refer to our own ancestors as mlecchas
+
+For fair comparison - H refer to their own cousins converted to an abrahamism that. If only the Euros hadn't lost and converted. purANic texts called mlechChas degraded kShatriyas basically (who could be Arya-ified).
+
+> ...and people would make trips to go wash in the Ganges, like people go to the Jordan now.
+
+Not necessarily - look up mauritus gangA and guyana gangA. Plus observe bAlinese hindus.
