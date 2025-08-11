@@ -10,7 +10,15 @@ The twice-born man shall always carefully avoid only two conditions as unfit for
 
 <details><summary>मेधातिथिः</summary>
 
-**नित्य**ग्रहणात् पूर्वत्रानध्यायानां विकल्पः । तत्रापि येषां नित्यत्वमात्रं तत् प्रदर्शितम् एव, यत्र **नित्य**ग्रहणम् अर्थवादो वा यथा "अमावास्या गुरुं हन्ति" (म्ध् ४.११४) इति । **भूमेश् चाशुद्धिर्** अस्थिभगलिङ्गादिकामेध्यादिसंसर्गः । **आत्मनस् तु** पञ्चमे वक्ष्यते । यद्य् अप्य् अध्ययनविधिप्रकरण एताव् अनध्यायौ तथापि नैत्यके भवतः । न ह्य् अशुचिर् अधिक्रियते । तथा च ब्राह्मणम् "तस्य वा एतस्य यज्ञस्य द्वाव् अनध्यायौ यद् आत्माशुचिर् यद् देशः" (ता २.१५) इति । ब्रह्मयज्ञश् च नित्यो जपः ॥ ४.१२७ ॥
+**नित्य**ग्रहणात् पूर्वत्रानध्यायानां विकल्पः ।  
+तत्रापि, येषां नित्यत्व-मात्रं तत् प्रदर्शितम् एव -  
+यत्र **नित्य**ग्रहणम्,  
+अर्थवादो वा +++(नित्यत्व-सूचकः)+++ - यथा "अमावास्या गुरुं हन्ति" (म्ध् ४.११४) इति ।  
+**भूमेश् चाशुद्धिर्** अस्थि-भग-लिङ्गादिकामेध्यादि-संसर्गः । **आत्मनस् तु** पञ्चमे वक्ष्यते ।  
+यद्य् अप्य् अध्ययन-विधि-प्रकरण एताव् अनध्यायौ  
+तथापि नैत्यके +++(ब्रह्मयज्ञेऽपि)+++ भवतः ।  
+न ह्य् अशुचिर् अधिक्रियते ।  +++(5)+++  
+तथा च ब्राह्मणम् "तस्य वा एतस्य यज्ञस्य द्वाव् अनध्यायौ यद् आत्माशुचिर् यद् देशः" (ता २.१५) इति । ब्रह्मयज्ञश् च नित्यो जपः ॥ ४.१२७ ॥
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -21,7 +29,11 @@ The place is regarded as ‘*unclean*’ when it is in contact with such unclean
 
 The conditions that make the man himself ‘unclean’ shall be described in Discourse V.
 
-Though the present conditions of ‘unfitness for study,’ are mentioned in the context dealing with ‘Vedic Study,’ yet they are, in reality, permanently ‘unfit for study;’ for the simple reason that the unclean man is not entitled to any act; as says the Brāhmaṇa—‘For the sacrifice, there are two conditions that make it *unjit*—when the man himself, or the place, is unclean.’ The sacrifice here referred to is the ‘*Brahmayajña*,’ the daily reciting of Vedic mantras.—(127).
+Though the present conditions of ‘unfitness for study,’ are mentioned in the context dealing with ‘Vedic Study,’ yet they are, in reality, permanently ‘unfit for study;’ for the simple reason that the unclean man is not entitled to any act; as says the Brāhmaṇa—
+
+> ‘For the sacrifice, there are two conditions that make it *unfit*— when the man himself, or the place, is unclean.’ 
+
+The sacrifice here referred to is the ‘*Brahmayajña*,’ the daily reciting of Vedic mantras.—(127).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
@@ -33,17 +45,13 @@ note;—and in *Gadādharapaddhati* (Kāla, p. 196).
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-*Yājñavalkya* (1.149).—‘When the place or the man himself, is unclean,
-when there is thunder and lightning, etc.’
+*Yājñavalkya* (1.149).— ‘When the place or the man himself, is unclean, when there is thunder and lightning, etc.’
 
-*Āśvalāyana Gṛhyasūtra* (3.4.7).—‘Two occasions have been recognised as
-unfit for study—*viz*., when the place is unclean and when the man himself is unclean.’
+*Āśvalāyana Gṛhyasūtra* (3.4.7).—‘Two occasions have been recognised as unfit for study—*viz*., when the place is unclean and when the man himself is unclean.’
 
-*Pāraskara* (1.11.7-9).—‘On the death of the teacher, one shall enter
-the water and desist from study for ten days—for three days, on the death of a fellow-student;—for one day on the death of one who is not a fellow-student.’
+*Pāraskara* (1.11.7-9).— ‘On the death of the teacher, one shall enter the water and desist from study for ten days—for three days, on the death of a fellow-student;—for one day on the death of one who is not a fellow-student.’
 
-*Gobhila* (3.3.24.27).—‘On the death of a fellow-student,—on the death
-of one’s own king,—on the death of the teacher, for three days; for a day and night, on the death of the pupil.’
+*Gobhila* (3.3.24.27).—‘On the death of a fellow-student,—on the death of one’s own king,—on the death of the teacher, for three days; for a day and night, on the death of the pupil.’
 </details>
 
 <details><summary>Bühler</summary>
