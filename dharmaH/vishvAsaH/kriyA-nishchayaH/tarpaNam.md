@@ -26,6 +26,8 @@ unicode_script: devanagari
 
 एवम् आपस्तम्बोऽप्य् ऋषिषु केषुचित् प्राचीनावीतिं वदति। 
 
+A sAmavedin was of the opionion that devatarpaNa - once, RShitarpaNa twice, pitRtarpaNa - thrice. Belief otherwise attributed to text propagation/ sanxepa errors.
+
 ## दैवम्
 
 - हस्ताग्रतस् तीर्थक्षेपः। (देव-तीर्थम्)
