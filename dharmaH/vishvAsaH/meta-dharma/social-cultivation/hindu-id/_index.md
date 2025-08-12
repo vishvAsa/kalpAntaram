@@ -2,7 +2,7 @@
 title = "+Hindu ID"
 +++
 
-ID practice - see [separate pages](). 
+Antigens - see [separate pages](cult-competition). 
 
 ## What is Hinduism?
 
