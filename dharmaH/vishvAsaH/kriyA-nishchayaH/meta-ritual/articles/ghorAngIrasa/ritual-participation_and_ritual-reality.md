@@ -53,7 +53,7 @@ Two new points that I had picked up when re-reading the same excerpt a few days 
 
 1. The Egyptian priest is likened to a sacred animal; he himself is like a ritual object.
 
-2. The priests philosophised at their temples, inter alia, about animals & their sacred connections. Regarding the first point, we had expressed a similar point about Brāhmaṇas:
+2. The priests philosophised at their temples, inter alia, about animals & their sacred connections. Regarding the first point, we had expressed a similar point about Brāhmaṇas.
 
 
 ## Non appreciation of ritual reality
@@ -86,3 +86,30 @@ But, wait? A deity is no “real person”. How can he/she enjoy this property? 
 
 In accordance with what is the deity's will executed & implemented by the priests and/or management who are both, verily, the deity's trustees? The Agama-s or relevant tantra-s or paddhati-s known to govern the temple from very inception or simply known as last remembered usage. Some idiot Hindus stated that the argument that shrI dharmashAstA in his form as ayyappa is observing naiSThika brahmacharya is not a sensible one as it suggests that ayyappa is "unable to see his women devotees in the 10-50 age group as sisters or mothers". Again & again, Hindus excel at showing mediocre quality of thought. 
 
+## Ritual Input variety
+Note all the constituent categories, structures & units which make up our experience of this world. Flora (flower X, tree Y), fauna (animal X), materials (wood from X tree, rock/soil/metal of X kind, etc), colors, numbers, shapes, specific spatiotemporal points (specific time, day, month or season, a cardinal or intermediate direction, etc), particular individuals, etc. There are many more such components of this world. We can zoom in on the last one - particular individuals - & that opens us up to even more sub-components. Age, gender, marital status, lineage, occupation, personal nexus (ritualist’s wife, etc), physical characteristics, etc.. 
+
+Then, one can consider the state of the individual. Not just ritual purity but his physical state as well. Is he still or is he doing something? Is another individual involved? Is a certain act or situation being merely simulated/suggested or is it actually carried out?
+
+Every possible substance, object, intangible (like time or direction), state or mundane act or movement , by itself or in combination with others, could have a ritual meaning & potency under the right circumstances. It was with that in mind the list below👇🏾was prepared in 2018.
+
+## Input Combination
+The ritualist/priest knows how to combine the various components referred to above to manifest a single “ritual reality” at the site of ritual action (temple, yajñaśāla, etc).
+
+Surprisingly, a few years later, we came across this beautiful piece of prose from Proclus, which (albeit in translation) captures this point even more eloquently.
+
+> "For this reason, those who are skilled in the sacred art (tes hieratikes hegemonet) have found a means of reaching the higher powers from those things which are within our sight, by mixing some of them together and by effacing others properly. The mixture is accomplished by means of looking, one after another, at each of the unmixed things that has a divine characteristic (idioteta tou theou), so that by mixing several things in this way these aforementioned images are unified, and the unity that results from all of them is made similar to the Whole Unity that exists prior to all things (to pro ton panton holon). 
+> 
+> On the other hand, they frequently make figurines (agalmata) which are compounded (from several things) and then burned, by which means their divided divine Signs (synthemata) are mingled together and create artificially that which the Divine includes within itself naturally (kat' ousian) by its unification (kath' henosin) of all these powers; for the division of these powers weakened each one of them, but their mixture is able to lead us back to the Idea of their Model" (tou paradeigmatos idean: Hier. Art.150).14
+
+
+Now, in a ritual, the participating human, alone or in combination with others or other things, can manifest a “ritual reality”, by being in a particular state (eg. dressed in certain colour) or by doing an act by himself or with others, or by simulating the state or act.
+
+The possibilities are potentially endless & we have a fraction of the same in the Brāhmaṇa texts of Veda & in Tantra/Āgama. You will find many ritual prescriptions linking an act/state & a deity or another metaphysical entity & telling you the result of ritually combining these.
+
+### Moral ambivalence
+In listing these states & acts & their correspondences with metaphysical entities & prescribing their use, the ritual texts of the Brāhmaṇas & Tantras (taking each scriptural genre as a whole) can be said to be quite quiet insofar as the “moral rightness” is concerned.
+
+Not all texts but some of them would be “cold” & merely list a link/correspondence & tell you how to ritually manifest this link, which may raise eyebrows. These matters are not for anyone but a competent ritualist to read & understand.
+
+And even such a ritualist may not be automatically justified in carrying out that knowledge into actual praxis. The correspondences & the ritual to realise the potency of these correspondences are out there. Doesn’t mean one can indiscriminately use that knowledge. 

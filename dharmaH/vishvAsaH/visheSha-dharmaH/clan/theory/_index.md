@@ -10,7 +10,7 @@ varNa/ jAti = (social role/ hereditary caste) system.
     - Besides these there were tribes who were not following the varNa-system (perhaps because of living in distant lands or in inaccessible places), who were termed as dasyus. They were also termed mlechCha-s if they spoke a very different language.
     - In some later works, niravasita-shUdra-s were called avarNa-s (bRhatsamhitA [89.1b](https://archive.org/stream/Brihatsamhita/brihatsamhita#page/n709/mode/2up)).
 
-### Prominent traits in the varNa-s:
+### Prominent traits in the varNa-s
 - A gradation in several regards
 - Difference in the dominant or prominent occupations.
 - Hereditary nature for the most part.
@@ -22,6 +22,51 @@ varNa/ jAti = (social role/ hereditary caste) system.
 - Apolology (ie. defence) of brAhmaNa privilege
   - By P V Kane - insert link.
 
+### yuga-decay tolerance
+> **युगे युगे तु ये धर्मास्  
+> तेषु तेषु च ये द्विजाः ॥ ५० ॥**  
+> **तेषां निन्दा न कर्तव्या  
+> युगरूपा हि ते द्विजाः ।**
+
+इति । अस्याक्षरार्थः प्रथमाध्याये वर्णितः ।  
+अयम् आश्यः –  
+द्विविधा ह्य् अधर्मप्रवृत्तिः -  
+युगप्रयुक्ता, प्रमादालस्यादि-प्रयुक्ता च ।
+
+तत्र युग-प्रयुक्तायाः प्रवृत्तेर् अपरिहार्यत्वान्  
+न तन्निवृत्तये पराशरस्योद्यमः ।  
+या तु प्रमादालस्यादिप्रयुक्ता प्रवृत्तिः  
+तत्र सावकाशं धर्मशास्त्रम् ।+++(5)+++
+
+तद् यथा -
+
+- अध्ययन-विधिस् तावद् अर्थज्ञान-पर्यन्तं साङ्ग-वेद-पाठम् आचष्टे ।  
+  न च – कलौ युगे तादृशं विप्रं कंचिद् अप्य् उपलभामहे ।
+- तथा ब्रह्म-चारि-प्रकरणे तद्-आश्रमधर्मा अध्ययन-धर्माश् च सहस्रशः स्मर्यन्ते ।  
+  न च तान् सर्वान् यथावद् **[४५२]** अनुतिष्ठन् माणवकः को ऽप्य् उपलभ्यते ।
+
+यदा अध्ययनस्यैव ईदृशी गतिः,  
+तदा कैव कथा साङ्ग-कृत्स्न-वेदार्थानुष्ठानस्य ।
+
+> तथा सति शास्त्रीय-मुख्य-ब्राह्मण्योपेतस्य कस्याप्य् अभावात्  
+क्षत्रिय-वैश्य-जात्योश् च स्व-रूप्रेणैवोच्छिन्नत्वात्  
+शुश्रूषयितव्यानां द्विजानाम् असंभवे  
+तच्-छुश्रूषकस्य मुख्यस्य शूद्रस्यात्यन्तानाशङ्कनीयत्वात्  
+किं चातुर्-वर्ण्यम् उद्दिश्य प्रवृत्तं धर्मशास्त्रं  
+स्वरूपेणैव लुप्यताम् ?  
+किं वा मुख्यासंभवे ऽपि  
+यथा-संभवं चातुर्वर्ण्यम् आश्रित्य  
+धर्मशास्त्रं प्रवर्तताम्?
+
+इति मीमांसायाम्,  
+स्व-रूप-लोपाद् वरं  
+यथा-संभवानुष्ठानम्  
+इत्य् अभिप्रेत्य  
+युग-प्रवृत्तां सर्वैर् अप्य् अवर्जनीयाम् अधर्म-प्रवृत्तिम् अदोषत्वेनाभ्युपगम्य  
+“तेषां निन्दा न कर्तव्या” इत्य् उक्तम् ।
+
+ततः संभाविताध्ययनाद्युपेतानां शक्यायां धर्म-प्रवृत्तौ  
+प्रमादालस्यादि-रहितानां च परिषत्त्वं कुतो न स्यात्?
 
 
 ## Gradation
