@@ -109,8 +109,22 @@ Intended saMskAra (by dharma) and prakRti should not be too far apart - else the
 > वर्णानां साऽन्तरालानां  
 > स सदाचार उच्यते ।।२/१८।।"
 
+#### Allowance for poor knowledge
+Certain traditional practices stem from poor knowledge of the past age - including poor medical knowledge.
 
+Examples -
 
+- भगवद्-आराधनं यावज् जलस्यापानम् इत्य् आचारः क्वचित् प्रसिद्धः। तत् प्रातश् शौचे मसृणतां रुणद्धि।
+- आपस्तम्बश् च - रजस्वलो रक्तदन्सत्यवादी स्यादिति हि ब्राह्मणम् ११
+- veShTi-s and uttarIya-s during dengue season?
+- Achamana straight from small bathing ponds?
+
+एवं सन्ति दुराचाराः।
+
+Elsewhere  -
+
+- Knocking off front teeth as a saMskAra by Australian aborigines. 
+- Lip and ear plates,
 
 
 ## Mode of effecting fluidity
@@ -163,7 +177,6 @@ Recent attempts at newer, formal revisions to the dharma-shAstra-s.
 > इति तैत्तिरीयोपनिषत् ।
 
 - PS: This does not involve accepting omniscience of a particular yogi or jivanmukta. See [bases/elders](../../bases/elders/)
-
 
 
 ## Manifestation of fluidity in practice
