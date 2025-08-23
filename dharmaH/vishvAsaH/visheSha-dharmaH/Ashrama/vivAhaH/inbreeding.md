@@ -55,7 +55,8 @@ Reasoning:
   - It is clear from genetic studies that shiShTa-s have transgressed vivAha restrictions throughout India. This must have appened in cases of population bottlenecks arising from migrations.
 - bhAradvAja-s and jAmadagnya-s have a tough time in south India.
 
-{{< figure src="../images/bhAradvAja-incel.jpg" title="">}}
+![](../images/bhAradvAja-incel.jpg)
+{caption=""}
 
 
 

@@ -417,4 +417,5 @@ Borrower No.
 Date of issue
 
 Date of Return
-{{< figure src="../images/seal.png" title="" class="thumbnail">}}
+![](../images/seal.png)
+{caption="" class="thumbnail"}

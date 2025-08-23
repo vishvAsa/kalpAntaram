@@ -266,7 +266,8 @@ The four kinds of months, Cāndra, Saura, Sāvana and Nākṣatra [^1034] have a
 
 [^1036]: नक्षत्रवारतिथयः करणानि योगाः पञ्चाङ्गमेतदथ राशियुतं षडङ्गम् । सप्ताङ्गमित्य भिहितं ग्रहयुक्तमेतद्वर्गोत्तमो निजनिजो भवने नवांशः॥ मुहूर्तदर्शन I. 44.
 
-{{< figure src="../images/image_pg683.png" title="" class="thumbnail">}}
+![](../images/image_pg683.png)
+{caption="" class="thumbnail"}
 
 ## Five items in a pañcāṅga
 

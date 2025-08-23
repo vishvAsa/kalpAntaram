@@ -27,7 +27,8 @@ We were advised to saturate the blood with good stuff like iron from spinach. Th
 ### DIY shrIchUrNam
 I decided to make my own srichurnam. In 6 months, my son's numbers got better.
 
-{{< figure src="/kalpAntaram/dharmaH/vishvAsaH/kriyA-nishchayaH/angAni/dravyam/images/vijay-son-lead-levels_2016.jpg" title="" class="thumbnail">}}
+![](/kalpAntaram/dharmaH/vishvAsaH/kriyA-nishchayaH/angAni/dravyam/images/vijay-son-lead-levels_2016.jpg)
+{caption="" class="thumbnail"}
 
 Data (date, mg/dL)
 

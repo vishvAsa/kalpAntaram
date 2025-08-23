@@ -279,11 +279,13 @@ Owing to the almost universal belief in astrology, there was always the temptati
 [^971]: ततश्व द्वादशे मासे चैत्रे नावमिके तिथौ । नक्षत्रेऽदितिदैवत्ये स्वोञ्चसंस्थेषु पञ्चसु । ग्रहेषु कर्कटे लग्ने वाक्पताविन्दुमा सह । प्रोद्यमाने जगन्नाथ सर्वलोकनमस्कृतम् । कौसल्याजनंयद्रामं सर्वलक्षणसंयुतम् ॥ बालकाण्ड 18 9-10.
 
 Therefore, Mercury must be either in conjunction with the Sun or in Taurus or Pisces. None of these is the _ucca_ of Mercury. Probably Mercury should be taken to be with Venus as they are friends, while if Mercury be placed in Vr̥ṣabha (Taurus or Bull) he would be in the house of an enemy. The Rāmāyaṇa does not mention Rāhu and Ketu at all. So the horoscope of Rāma would be as follows : [^972]
-{{< figure src="../images/hora_Rama.jpg" title="" class="thumbnail">}}
+![](../images/hora_Rama.jpg)
+{caption="" class="thumbnail"}
 Vide Pillai's 'Indian Ephemeris' vol. I part I pp. 112-123 for discussion on Rāma's horoscope. Kālidāsa in the Raghuvaṁśa (III. 13 ) states that Raghu, the ancestor of Rāma, was born when five planets were in exaltation and were not setting (i. e. were a good many degrees away from the Sun). But he does not furnish the _lagna_ nor even the month of his birth.
 
 As regards Paraśurāma, the Nirṇayasindhu quotes the Bhārgavārcanadspikā[^973] to the effect that Viṣṇu himself was born as the son of Reṇukā on Vaiśākha, bright half, 3rd tithi, on Punarvasu nakṣatra in the first quarter of the night, when six planets were in exaltation and Rāhu was in Mithuna (Gemini, Twins). The Moon being in Punarvasu, that is either in Mithuna or Karkaṭa, none of which is Moon's _ucca_ all the remaining six planets must be held to be in exaltation. Therefore, Paraśurāma's horoscope must be supposed to be somewhat like this:
-{{< figure src="../images/hora-parasuRama.jpg" title="" class="thumbnail">}}
+![](../images/hora-parasuRama.jpg)
+{caption="" class="thumbnail"}
 [^972]: Vide my paper in the Journal of Oriental Institute, Baroda, vol. 1. pp. 5-7 about the horoscopes of Rāma and his three brothers stated in the Rāmāyana.
 
 [^973]: तदुक्तं भार्गवार्चनदीपिकायां स्कान्दभविष्ययोः । वैशाखस्य सिते पक्षे तृतीयायां पुनर्वसौ । निशायाः प्रथमे यामे रामाख्यः समये हरिः। स्वोच्चगैः षड्ग्रहैर्युक्ते मिथुने राहुसंस्थिते । रेणुकायास्तु यो गर्भादवतीर्णो हरिः स्वयम् ॥ इति । नि.सि.p.95.
@@ -296,7 +298,8 @@ Coming to historical times, Bāṇabhatta[^974] in the Harṣacarita ( 4th Ucchv
 
 The commentary Sudhāvidyotini [^975] on the Saundaryalahari, a work attributed to the great philosopher Saṅkarācārya, furnishes a horoscope of Saṅkarācārya, viz. the _lagna_ was Siṁha (Lion), Jupiter in Fishes, Sun in Ram, Mercury was in Mithuna, Venus in Fishes, Saturn in Aquarius, Mars in Capricornus, Moon swallowed by Rāhu (there was an eclipse) and in Hasta or Citrā (either in Kanyā or Tulā). This horoscope also seems to be a fancy one, since Mercury cannot be in Mithuna when the Sun is in Meṣa.
 
-{{< figure src="../images/hora-sankara.jpg" title="" class="thumbnail">}}
+![](../images/hora-sankara.jpg)
+{caption="" class="thumbnail"}
 
 [^974]: ततश्च प्राप्ते ज्येष्ठामूलीये मासि बहुलासु बहुलपक्षद्वादश्यां व्यतीते प्रदोषसमये समारुरुक्षति क्षपायौवने...मान्धाता किलैवंविधे व्यतीपातादिसर्वदोषाभिषङ्गरहितेऽहनि <u>सर्वेदूच्चस्थानस्थितेष्वेवं </u>ग्रहेष्वीदृशि लग्ने भेजे जन्म । हर्षचरित IV.
 

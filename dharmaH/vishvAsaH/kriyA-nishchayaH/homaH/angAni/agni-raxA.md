@@ -8,12 +8,18 @@ unicode_script: devanagari
 - आश्वलायनेषु सायिकिरणो [अत्र](https://www.youtube.com/watch?v=Lkv8rZBOhtE&list=PL63uIhJxWbgj98sDeWHQJmrKvBcirnf_9&index=10)।
 
 ### चित्राणि
-{{< figure src="../images/aupAsanam_step-00.jpg" title="Pre aupAsanam. Negligible smoke." class="thumbnail">}}
-{{< figure src="../images/aupAsanam_step-01.jpg" title="Remove fused bran + old dung piece"  class="thumbnail">}}
-{{< figure src="../images/aupAsanam_step-02.jpg" title="Remove ash to make a pit"  class="thumbnail">}}
-{{< figure src="../images/aupAsanam_step-03.jpg" title="Fill dung piece + bran"  class="thumbnail">}}
-{{< figure src="../images/aupAsanam_step-05.gif" title="Replace old fused bran + dung piece (now smoking upon exposure to air)"  class="thumbnail">}}
-{{< figure src="../images/aupAsanam_step-10.jpg" title="Post aupAsanam: cover with ash. Negligible smoke."  class="thumbnail">}}
+![](../images/aupAsanam_step-00.jpg)
+{caption="Pre aupAsanam. Negligible smoke." class="thumbnail"}
+![](../images/aupAsanam_step-01.jpg)
+{caption="Remove fused bran + old dung piece"  class="thumbnail"}
+![](../images/aupAsanam_step-02.jpg)
+{caption="Remove ash to make a pit"  class="thumbnail"}
+![](../images/aupAsanam_step-03.jpg)
+{caption="Fill dung piece + bran"  class="thumbnail"}
+![](../images/aupAsanam_step-05.gif)
+{caption="Replace old fused bran + dung piece (now smoking upon exposure to air)"  class="thumbnail"}
+![](../images/aupAsanam_step-10.jpg)
+{caption="Post aupAsanam: cover with ash. Negligible smoke."  class="thumbnail"}
 
 ## अग्नेः पुनर्ज्वालनम्
 - अङ्गारान् निष्कास्य पात्रान्तरे स्थाप्यित्वा

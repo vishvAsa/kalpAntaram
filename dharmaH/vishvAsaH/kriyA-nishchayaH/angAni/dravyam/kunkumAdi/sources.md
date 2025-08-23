@@ -23,7 +23,8 @@ The white clay that we purchase from the shops or from temples nearby comes majo
 > - विजयः
 
 ## Red procedure
-{{< figure src="../images/turmeric-curcumin-indicator.jpg" title="" class="thumbnail">}}
+![](../images/turmeric-curcumin-indicator.jpg)
+{caption="" class="thumbnail"}
 
 - Follow yellow procedure - albeit add some base solution, like-
   - Lime/ suNNa/ chunna/ CaO

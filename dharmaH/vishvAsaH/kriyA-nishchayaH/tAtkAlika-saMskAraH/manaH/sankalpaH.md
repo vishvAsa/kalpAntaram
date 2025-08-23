@@ -40,7 +40,8 @@ unicode_script: devanagari
 > (वैवस्वत-मन्वन्तरे कलियुगे प्रथमपादे)  
 > कतिपय-शत-वर्ष-दीर्घे घर्म-युगे +++(←fossil fuel warming, anthropocene)+++ मध्ये  
 
-{{< figure src="/devaH/AryaH/hindukaH/classes/dik/images/kAlaH_earth-eras.png" title="" class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/classes/dik/images/kAlaH_earth-eras.png)
+{caption="" class="thumbnail"}
 
 ततो म्लेच्छ-काल- कीर्तनम् -
 
@@ -62,7 +63,8 @@ unicode_script: devanagari
 > (जम्बु-द्वीपे, भारत-वर्षे, भरत-खण्डे) (क्रौञ्चद्वीपे गोतीर्थ-खण्डे) वा,  
 > (मेरोर् दक्षिणे पार्श्वे) | (रमणक-वर्षस्य +उत्तरे)
 
-{{< figure src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/vyAhRti-collage-rect.jpg" title="" class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/classes/lokAntaram/images/vyAhRti-collage-rect.jpg)
+{caption="" class="thumbnail"}
 
 योग-करणादि-कलनं चापेक्षितं चेत् - 
 

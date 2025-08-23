@@ -13,7 +13,8 @@ title = "प्रज्ञा-धाराः, संस्कृतम्"
 - उपेन्द्र! तवास्मि दासः।  
 - त्वद्-आराधनायेदम् अस्तु - त्वद्-अनुज्ञया 🙏
 
-{{< figure src="/devaH/AryaH/hindukaH/viShNuH/images/evayA_viShNuH_marutaH.jpg" title="" class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/viShNuH/images/evayA_viShNuH_marutaH.jpg)
+{caption="" class="thumbnail"}
 
 
 ## परिचयः, उद्देश-कथा

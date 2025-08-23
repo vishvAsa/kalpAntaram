@@ -18,7 +18,8 @@ title: Benefits
 
 A study by Bryan Pesta and colleagues finds a strong positive association between average IQ and average SES across ethnic groups in the UK. Indians have high socio-economic success relative to their cognitive ability - reverse of Gypsy-s and white-carribeans.
 
-{{< figure src="../../images/vishvAsaH/meta-dharma/images/Arya-samAja_vs_H.png" title="" class="thumbnail">}}
+![](../../images/vishvAsaH/meta-dharma/images/Arya-samAja_vs_H.png)
+{caption="" class="thumbnail"}
 
 </details>
 
