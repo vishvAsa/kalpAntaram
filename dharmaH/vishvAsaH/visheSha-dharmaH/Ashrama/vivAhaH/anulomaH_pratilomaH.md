@@ -4,7 +4,7 @@ title = "अनुलोमः प्रतिलोमः"
 
 ## अनुलोमेन ब्राह्मणाद्य्-उत्पत्तिः, 
 
-धर्माकूते सुन्दरकाण्डे [सविस्तरम्](/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/tryambaka-makhI_dharmAkUtam/5_006_Apadi_jAtyantarAyAm_utpattiH)  -
+धर्माकूते सुन्दरकाण्डे [सविस्तरम्](/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/tryambaka-makhI_dharmAkUtam/5_sundarakANDam/006_Apadi_jAtyantarAyAm_utpattiH)  -
 
 > [तथा हि- ब्राह्मणात् क्षत्रियायाम् उत्पन्नाः] त्रि-विधाः -  
 ब्राह्मणो मूर्धावसिक्तः क्षत्रियश् चेति । +++(5)+++   
