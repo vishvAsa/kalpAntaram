@@ -5,8 +5,6 @@ short_title = "12 The Dharmasūtra of"
 +++
 12 The Dharmasūtra of Saṅkha-Likhita
 
-
-## The Dharmasutra of Saṅkha-Likhita 
 From the Tantravārtika we learn (note 55 above) that the Dharmasūtra of Śaṅkha-Likhita was specially studied by the Vājasaneyins (the followers of the white Yajurveda ). 
 The Tantravārtika also quotes a few words from that Dharmaśūtra which constitute an Anuṣṭubh pāda[132]. The Mahābhārata (in Śāntiparvan, chap. 23. 18-43 ) narrates the story
 of the two brothers, Śaṅkha and Likhita, who resided in separate dwellings surrounded by trees. Once Likhita came to the āśrama (hermitage ) of Śaṅkha in his absence. He took some ripe fruits from some of the trees of Śaṅkha’s āśrama and ate them. While he was eating, Śaṅkha came and asked him where he got the fruits. Likhita smiled and told his brother that he took them from his trees. Then Śaṅkha got angry and told his brother that he was guilty of theft and asked 
