@@ -4,6 +4,11 @@ title: +varNa theory
 
 varNa/ jAti = (social role/ hereditary caste) system.  
 
+## Naturalness
+jAti is a natural and useful adaptation in a mixed population. Such setups have been observed in other cultures and species (ants, bees ..). 
+
+Animal observations considered separately.
+
 ## Theoretical Structure
 - A chAturvarNya universalism. The dharmashAstra-s claimed to explain the origin of EVERY SINGLE population they were aware of - out of admixture and fall of the 4 original varNa-s. According to the early smRti-s there was no fifth ([PVK1](http://i.imgur.com/l0XuhbQ.jpg), [PVK2](http://i.imgur.com/LRHL6vV.jpg)). This is a sort of universally applicable framework. They had various  (sometimes peripherally incompatible) theories for their origins, and the ultimate varNa assignment was very very clear. Even the deities had varNa-s \[[PVK](https://archive.org/stream/historyofdharmas029210mbp#page/n99/mode/2up)\] assigned to them! 
 - The 4 main varNa-s were the brAhmaNa-s, kShatriya-s, vaishya-s (ie dvija-s) and shUdras, who were of two major categories - aniravasita and niravasita.
