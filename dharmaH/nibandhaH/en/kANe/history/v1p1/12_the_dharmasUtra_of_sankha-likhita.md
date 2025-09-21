@@ -16,8 +16,13 @@ Jivananda (collection of smrtis, part II, pp. 343-374 ) prints in 18 chapters an
 (athāputrasya svaryātāsya bhrātṛgāmī dravyam &c. ) is ascribed to Sāṅkha by Viśvarūpa and the Mītākṣarā, but to Sāṅkha-Likhita by Aparārka (on Yāj. II. 135-136 ). Similarly, the sūtra ' pitaryāsakte kuṭumbavyavahārān jyesthaḥ ' &c. is ascribed to Sāṅkha by Aparārka and to Sāṅkha-Likhita by the Vivāda-ratnākara, Dāyatattva and Madanapārijāta. Quotations ascribed to Likhita are few and far between. Some passages are ascribed to some writers to Sāṅkha and by others to Likhita.
 For example, a prose passage ‘Uddhṛtya parikṣitābhiḥ’ &c. is ascribed to Likhita by Aparārka (on Yāj. I. 18 ) and to Sāṅkha by Viśvarūpa (on Yāj. I. 20 and by the Vīramitrodaya (Āhnikaprakāśa p. 68 ). Similarly, the sūtra ‘ubbhābyāmapi hastābhyām prāṇamukho devatīrthena kuryāt’ is ascribed to Sāṅkha-Likhita by the Pārāśaramādhavīya;( I. 1. p. 352 ) and to Likhita by Aparārka (on Yāj. I. 101). The relation of the Sāṅkha-smṛti in verse to the dharmasūtra of Sāṅkha seems to be this. The former is based upon the later and is a versified paraphrase or adaptation of portions of the dharmasūtra.[^134]
 
-The versified Sāṅkha shows a tendency towards greater strictness. The dharmasūtra allows a Brāhmaṇa to marry a woman of any of the four castes, while the verse Sāṅkha restricts him to the first three castes.[^135] It is not unlikely that the dharmasūtra contained a few verses as is the case with 
-Baudhāyana, Apastamba and Vasistha. Even so early a 
+The versified Sāṅkha shows a tendency towards greater strictness. The dharmasūtra allows a Brāhmaṇa to marry a woman of any of the four castes, while the verse Sāṅkha restricts him to the first three castes.[^135] It is not unlikely that the dharmasūtra contained a few verses as is the case with Baudhāyana, Apastamba and Vasistha. Even so early a writer as Viśvarūpa looked upon the prose and verse portions as the composition of the same author (vide his comment on Yāj. III 237, and Aparārka pp. 1149, 1154, 1161 ).
+
+The dharmasūtra of Śāṅkha-Likhita was commented upon early. Lakṣmīdhara in his Kalpataru (Ghoṣa's Hindu Law  Vol. II. p. 554) draws attention to the fact that the bhāṣyakāra of Śāṅkha read a well-known sūtra as 'sa yadyekaḥ  syāt' instead of 'sa yadyekaputraḥ syāt'. Vide Kalpataru (vyavahārakāṇḍa) p. 654 (sa yadyekaputraḥ syāt) and f. n. 6. Lakṣmīdhara flourished between 1100-1160 A. D. as he was a minister of Govindacandra of Kanauj. The Vivādaratnākara (1314 A. D.) also cites the bhāṣyakāra of Śāṅkha-Likhita. The Vivādacintāmaṇi (p. 67) quotes from the bhāṣyakāra of Śāṅkha-Likhita.
+
+The dharmasūtra of Śāṅkha-Likhita would appear, from the quotations in the *nibandha*s, to have closely resembled the other extant sūtras on dharma in style and contents. It embraced almost all the topics treated of in Gautama or Āpastamba. It agrees very closely with thewords of Gautama and Baudhāyana in several places.[^136] It is curious to note that a quotation from Śāṅkha containing the names of writers of smṛtis cites Śāṅkha-Likhita as authority.[^137]
+
+The dharmasūtra seems to have permitted niyoga, speaks of twelve secondary sons, and did not favour (like Āpastamba) the claims of females to succeed to males. On certain points the dharmasūtra of Śāṅkha marks a more advanced state of opinion than is the case with Gautama or Āpastamba. Śāṅkha speaks of several kinds of ordeals and appears to have contained elaborate prose rules about them (vide Aparārka on Yāj. II, 95; Smṛticandrikā II, p. 112, Viramitrodaya, p. 270). As regards partition and inheritance,  
 
 [^132]: तन्त्रवार्तिक, p. 139 ‘स्मार्तधर्माधिकारे हि शङ्खलिखिताभ्यामुक्तम्- आश्रयः स्मृतिधारकः’.
 
@@ -30,27 +35,11 @@ Baudhāyana, Apastamba and Vasistha. Even so early a
 [^135]: The द्राभभाग (ed. of 1823, p. 210 ) quotes ‘भार्या: कार्या: स्वजातीया: श्रेयस्य: सर्वेषां सुरिति पूर्वकल्प: । ततोनुकल्पश्चतस्त्रौ ब्राह्यणस्यनुपूव्यण':  the 
  शङ्खस्मृति  (4. 7 ) says ‘ब्राह्मणी  क्षत्रिया वैश्या ब्राह्मणस्य प्रकीर्तिता ।। ’ 
 
-writer as Viśvarūpa looked upon the prose and verse portions as the composition of the same author (vide his comment on Yāj. III 237, and Aparārka pp. 1149, 1154, 1161 ). 
+ [^136]: Compare 'नाब्राह्मणोतिथिव्राह्मणस्य' (quoted in वीर०, आह्निक०, p. 452)  
+with गौ. ध. सू. 5. 39-42; ' दन्तवद्धन्तलग्नेषु' (quoted by अपरार्क on याज्ञ. I. 195 ) with गौ. ध. सू. I. 41-43; ' न  तिष्ठन्न नाङ्गुलीभि:'. ( चतुर्वर्ग. III. 1, p. 977 ) with बौ. ध. सू. I. 5. 15.  
 
-The dharmasutra of Saṅkha-Likbita was commented upon early. Laksmidhara in his Kalpataru (Ghose's Hindu Law vol. II. p. 504 ) draws attention to the fact that the bhāsya kāra of Sarkha read a well-known sūtra as 'sa yadyekaḥ syat' instead of 'sa yadyekaputraḥ syāt. ' Vide Kalpataru ( vyavahārakānda ) p. 654 (sa yadyekaputraḥ syāt ) and f. n. 6. Lakṣmidhara flourished between 1100-1160 A. D. as he was a minister of Govindacandra of Kanauj. The Vivāda ratnākara ( 1314 A. D.) also cites the bhāsyakāra of Saṅkha... Likbita. The Vivādacintīmaṇi (p. 67 ) quotes from the bbaṣyakāra of Sarkha-Likhita. 
+[^137]: ‘स्मृतिधर्मशास्त्राणि तेषां प्रणेता्रो मनुयमदक्षपिच्चविनिरूताः पतञ्जलिआपस्तम्ब-गौतमसंवताञ्चित्र हरितकात्यायनशङ्खलिखितसारख्यार्यसखातातपप्रचेतोयाज्ञवल्क्यादयः’ quoted in चतुर्वर्ग. I. p. 527; वीर० परिभाषा० p. 16 and स्मृतिच० (आदिक p. 1).
 
-The dharnasūtra of Saṅkha-Likhita would appear, from the quotations in the nibundhus, to have closely resembled the other extant sūtras on dharma in style and contents. It embraced almost all the topics treated of in Gautama or Apastamba. It agrees very closely with the words of Gau tama and Baudbāyana in several places.138 It is curious to note that a quotation from Saṅkha containing the names of writers of smrtis cites Sarkha-Likhita as authority. 137 
-
-The dharmasūtra seems to have permitted niyoga, speaks of twelve secondary sons, and did not favour (like Apastamba ) the claims of females to succeed to males. On certain points the dharmasūtra of Sarkha marks a more advanced state of opinion than is the case with Gautama or Apastamba. Sarkha speaks of several kinds of ordeals and appears to have contained elaborate prose rules about thern (vide Aparārka on Yāj. II, 95; Smṛticandrikā II, p. 112, Viramitrodaya, p. 270). As regards partition and inheritance, 136 Compare anunfalanteriet' ( quotud in otco, 1f670, p. 452 ) 
-
-with tit. 9. q. 1. 39–42 ; ' ATSÀI' (quoted by 3921 on 
-
-TET. I. 195 ) with it. 7. . I. 41-43 ; ' faget gaat AETATE' 
-
-( angetto III. 1, p. 977 ) with ott. 17. . 1. . 15. 137 'स्मृतिर्धर्मशास्त्राणि तेषां प्रणेतारो मनुयमदक्षविष्ण्वगिरोबृहस्पत्युशनआपस्तम्ब. 
-
-गौतमसंवर्तात्रिहारीतकात्यायनशङ्खलिखितपराशरव्यासशातातपप्रचेतोयाज्ञवल्क्यार 24:1 quoted in agat. I. p. 527; Eto RA1910 pood waa, ( 3114 Do 1). 
-
-ISTITUV 
-
-< 
-
-NDEN 
 
 12. The Dharnasūtra of Sarkha-Likhita 141 Sakha-Likhita gives more detailed information than Apastamba or Baudhāyana. The limits of Aryāvarta188 stretched over wide areas according to Saṅkha (i. e. to the east of Sindhu-Sauvīra and to the west of Kāmpilya ) than is the case with Baudhāyana ( I. 1. 25 ) or Vasistha ( I. 8-9). The style of Sarkha reminds one of Kautilya rather than of Gautama. The quotations hardly exhibit any upgrammatical forms. It is noteworthy that Yājñavalkya is included among the authors of smitis by Sarkha ( vide note 137 ). If it is the extant Yajnavalkya-smrti that is meant to be referred to, then the dharmasutra of Saṅkha will have to be assigned to u late date. But this does not seem to be likely. From the fact that the Yājõuvalkya-smrti itself enumerates Saṅkha Likhita anong ancient authors on dharna, from the general style of the work, from the development of the legal concep tions it presents and from its doctrines about the rights of women, it appears almost certain that the extant Yājña vulkya-smrti is much later than the dharmasūtra of Saṅkhu. There are close correspondences between Sarkha and Yājfia valkyu.138 Saikha is quoted 99 times and Sajjkha-Likhita 63 times by Apararka. Ou Yūj. 111. 289-90 (p. 1154 ) Apa rārka first quotes Sarkha as 'Agnyutgādi samvatsarum Cāndrāyaṇam cared-gam ca dadyat' and five lines after wards quotes Saikha-likhita with the words 'Agnyutsādi mithyādhiti ca sarivatsarain brābmanagrhesu bhaiksyam caretām'. Kalpataru (Brahmacāri) quotes Saṅkha-Likhita 36 times, and Sarkha 19 times. From the fact that Saṅkha Likhita is quoted as including Saṅkha-Likhita among writers on Dbarmaśāstras it may be inferred that the original text was tampered with by some redactor. Kalpataru on Vyavahāra (pp. 830-31 ) cites a long prose passage of Saṅkha-Likhita on the proper avocations of the men of eleven mixed castes viz. 
 
