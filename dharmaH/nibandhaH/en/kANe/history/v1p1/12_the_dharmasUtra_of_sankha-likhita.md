@@ -6,21 +6,9 @@ short_title = "12 The Dharmasūtra of"
 12 The Dharmasūtra of Saṅkha-Likhita
 
 
-12. The Dharmasutra of Saṅkha-Likhita From the Tantravārtika we learn (note 55 above ) that the Dharmasūtra of Saṅkha-Likhita was specially studied by the Vājasaneyins ( the followers of the white Yajurveda ). The Tantravārtika also quotes a few words from thnt Dhar. masūtra which constitute an Anustubh pada.138 The Mahā bhārata ( in Sāntiparvan, chap. 23. 18-43 ) narrates the story of the two brothers, Saṅkha and Likhita, who resided in sepa rate dwellings surrounded by trees. Once Likhita came to the ābrama ( hermitage ) of Saṅkha in his absence. He took some ripe fruits from some of the trees of Sarkba's aśrama and ate them. While he was eating, Saikha came and asked him where he got the fruits. Likhita smiled and told his brother that he took them from his trees. Then Sarkha got angry and told his brother that he was guilty of theft and asked 
+From the Tantravārtika we learn (note 55 above) that the Dharmasūtra of Śaṅkha-Likhita was specially studied by the Vājasaneyins (the followers of the white Yajurveda ). The Tantravārtika also quotes a few words from that Dharmaśūtra which constitute an Anuṣṭubh pāda[^132]. The Mahābhārata (in Śāntiparvan, chap. 23. 18-43 ) narrates the story of the two brothers, Śaṅkha and Likhita, who resided in separate dwellings surrounded by trees. Once Likhita came to the āśrama (hermitage ) of Śaṅkha in his absence. He took some ripe fruits from some of the trees of Śaṅkha’s āśrama and ate them. While he was eating, Śaṅkha came and asked him where he got the fruits. Likhita smiled and told his brother that he took them from his trees. Then Śaṅkha got angry and told his brother that he was guilty of theft and asked
 
-131 taon na H21 JmT: I ho fa cremat ro f 3: 1 
-
-कात्यायनस्तु तान् व्याचष्टे । 2nd उल्लास, p. 81 ( Mysoro edition ). 132 fazautan, p. 139. 'HISTATUTAR Petrosanitar i an 
-
-Fafari' 
-
-STITUTE 
-
-FOUNDED 
-
-12. The Dharmasītra of sarkha-Likhita 
-
-137 
+[^132]:तन्त्रवार्तिक, p. 139 ‘स्मार्तधर्माधिकारे हि शङ्खलिखिताभ्यामुक्तम्- आश्रयः स्मृतिधारकः’.
 
 him to go to the king Sudyumna for punishment. Likhits went to the king who would not punish him as he was a man of pure character and learned ; wheu he persisted the king ordered his hands to be cut off. His arms were restored when he plunged into the river Bāhudā. In Santi ( 130.29 ) 132a it is said It is not possible to live if one adopts Saṅkhalikhita mode of life, particularly when one intends to secure the pro tection of the subjects.' In another place (Santiparvan 132. 15-16 ) it is said 'Some hold that conduct or practice is the best characteristic of dharma, others to whom Saṅkha-Likbita are dear do not like them.' Vide Sabhāparva 7. 11 where among the holy sages who graced Iudra's sabhii are included Saijkha and Likhita. 
 
