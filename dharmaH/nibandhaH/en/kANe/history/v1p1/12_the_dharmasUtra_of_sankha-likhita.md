@@ -12,33 +12,23 @@ In the Pāli Dighanikāya II. 40-41 we have the words "Sakhalikhita-brahmacariya
 
 writers included the gist of that story in their works. Just as it is difficult to assign a definite date to the Mahābhārata, so also it is impossible or at least as difficult to say (there being no reliable evidence) that all the Nikāyas existed in writing before Asoka. Yājṅavalkya ( I. 5) mentions Saṅkha Likhita among the writers on dharmaśāstra. The Parāsarasmrti says (I. 24 ) that in the four ages of Kṛta, Tretā, Dvāpara and Kali, the ordinances of Manu, Gautama, Sankha-Likhita and Parāśara are respectively of paramount authority in matters of dharma. Viśvarūpa (on Yāj. III. 248 ) quotes a verse from an ancient author which says that Saṅkha and Likhita pondered deeply over the dharma promulgated to the sages by Manu and drew upon the Veda[^133] also. From the gist of the passages of SankhaLikhita quoted by Viśvarūpa and the words ‘Pratijñātārtha virodhah syāt' it appears to have been the view of Viśvarūpa that the verse quoted was the first verse (or one of several verses at the beginning) of the sūtra of Sankha-Likhita. The word Manu-bhāsitam'in note 133 was either introduced by some redactor at a later date or the word does not refer to the extant Manu, but to some earlier version of it. Commentators and nibandhakaras from Viśvarūpa downwards profusely quote Sankha-Likhita. A considerable portion of these quota tions is in prose. Hence it is quite clear that the dharma sūtra of Saṅkha-Likhita is an ancient one, that it was largely if not entirely in prose and that it was once easily accessible though it has not yet been discovered. In the Annals of the Bhandarkar Oriental Research Institute (vol. VII-VIII) I made an attempt at a reconstruction of Saṅka-Likhita. 
 
-Jivananda (collection of smrtis, part II, pp. 343-374 ) prints in 18 chapters and about 330 verses a smrti of Saṅkha and a smrti of Likhita in about 93 verses ( part II., pp. 375– 382 ). The Anandāśrama collection also prints the same text of the two smrtis. The later also contains a Laghu-Sankha smrti in 71 verses and a Sankha-Likhita-smrti in 32 verses. All these, except perhaps the Saṅkha-smrti in 18 chapters, are late compilations. The smrti in 18 chapters seems to have been compiled very early. About fifty verses from it are quoted 
+Jivananda (collection of smrtis, part II, pp. 343-374 ) prints in 18 chapters and about 330 verses a smrti of Saṅkha and a smrti of Likhita in about 93 verses ( part II., pp. 375– 382 ). The Anandāśrama collection also prints the same text of the two smrtis. The later also contains a Laghu-Sankha smrti in 71 verses and a Sankha-Likhita-smrti in 32 verses. All these, except perhaps the Saṅkha-smrti in 18 chapters, are late compilations. The smrti in 18 chapters seems to have been compiled very early. About fifty verses from it are quoted by the Mītakṣarā. In the 11th and 12th chapters occur a few prose passages, one of which is quoted even by Medhātithi. The numerous prose quotations ascribed to Sāṅkha-Likhita do not however occur in these smṛtis. One point deserves special notice. Comparatively early writers sometimes ascribe the same text to Sāṅkha-Likhita or to Sāṅkha simply. The well-known sūtra about succession to a son-less man 
+(athāputrasya svaryātāsya bhrātṛgāmī dravyam &c. ) is ascribed to Sāṅkha by Viśvarūpa and the Mītākṣarā, but to Sāṅkha-Likhita by Aparārka (on Yāj. II. 135-136 ). Similarly, the sūtra ' pitaryāsakte kuṭumbavyavahārān jyesthaḥ ' &c. is ascribed to Sāṅkha by Aparārka and to Sāṅkha-Likhita by the Vivāda-ratnākara, Dāyatattva and Madanapārijāta. Quotations ascribed to Likhita are few and far between. Some passages are ascribed to some writers to Sāṅkha and by others to Likhita.
+For example, a prose passage ‘Uddhṛtya parikṣitābhiḥ’ &c. is ascribed to Likhita by Aparārka (on Yāj. I. 18 ) and to Sāṅkha by Viśvarūpa (on Yāj. I. 20 and by the Vīramitrodaya (Āhnikaprakāśa p. 68 ). Similarly, the sūtra ‘ubbhābyāmapi hastābhyām prāṇamukho devatīrthena kuryāt’ is ascribed to Sāṅkha-Likhita by the Pārāśaramādhavīya;( I. 1. p. 352 ) and to Likhita by Aparārka (on Yāj. I. 101). The relation of the Sāṅkha-smṛti in verse to the dharmasūtra of Sāṅkha seems to be this. The former is based upon the later and is a versified paraphrase or adaptation of portions of the dharmasūtra.[^134]
+
+The versified Sāṅkha shows a tendency towards greater strictness. The dharmasūtra allows a Brāhmaṇa to marry a woman of any of the four castes, while the verse Sāṅkha restricts him to the first three castes.[^135] It is not unlikely that the dharmasūtra contained a few verses as is the case with 
+Baudhāyana, Apastamba and Vasistha. Even so early a 
 
 [^132]: तन्त्रवार्तिक, p. 139 ‘स्मार्तधर्माधिकारे हि शङ्खलिखिताभ्यामुक्तम्- आश्रयः स्मृतिधारकः’.
 
 [^132a]: न शङ्खलिखितां वृत्तिं शक्यमास्थाय जीवितुम् । विशेषतः कुरुश्रेष्ठ प्रजापालनमीप्सया | The word Saṅkha menns also ‘forehead’ and ‘likhita’ means ‘written’. It was believed that Brahma writes on the forehead of a child (on the sixth day after birth) the child's future; compare the verse:  यद्धात्रा निजभालपट्ट्लिखितं स्तोकं महद्वा धनं तत्प्राप्नोति मरुस्थलेSपि नितरां मेरौ ततो नाधिकम् |  ‘Saṅkbalikhitavṛtti’ would mean the conduct of the two brothers viz. extreme devotion to the rules of honesty and the like. The verse has also another meaning and asks the king not to rely on dares if he desires to protect the subjects.
 
-[^133]: समीक्ष्य निपुणं धर्ममृषिभ्यो मनुभाषितम् । आम्नायात्सम्यगुद्धृत्य ज्ञङ्गश्च लिखितस्तथा 
+[^133]: समीक्ष्य निपुणं धर्ममृषिभ्यो मनुभाषितम् । आम्नायात्सम्यगुद्धृत्य शङ्खश्च लिखितस्तथा 
 
+[^134]: Compare उद्धृत्य परिपूताभिरद्भिरेवोक्षिताभिरक्षाराभिरनधिश्रिताभिरफेनाभिरबुद्बुदाभिः|उद्धृत्य परिक्षाभिरष्ट्रिविहिताम्नितारार्थान्यचित्तानभिर्हरेनाभिर् बुद्धामिः (quoted as Sāṅkha's by the वीर, आह्निकप्रकास, p. 68 ) with शङ्खस्मृति 9.6 'अद्भिः समुताद्धृभिस्तु हिनाभिः फेनबुद्बुदैः। वह्निना चाप्यदग्धाभिरङ्गुलीभिरुपस्पृशेत्॥'
 
-
-ted by the Mitāksarī. In the 11th and 12th chapters occur a few prose passages, one of which is quoted even by Medha tithi. The numerous prose quotations ascribed to Saṅkha Likhita do not however occur in these smṛtis. One point deserves special notice. Comparatively early writers some times ascribe the same text to Saṅkha-Likhita or to Saṅkha simply. The well-known sūtra about succession to a son less man ( athāputrasya svaryātasya bhrātrgāmi dravyam &c. ) is ascribed to Saṅkha by Viśvarūpa and the Mṛtākṣarā, but to Saṅkha-Likhita by Aparārka (on YĀj. II. 135-136 ). Similarly, the sūtra 'pitaryasakte kutumbavyavahārān jyes thaḥ '&c. is ascribed to Saikha by Aparārka and to Saṅkha Likhita by the Vivāda-ratnākara, Dāyatattva and Madana parijata. Quotations ascribed to Likhita are few and far bet ween. Some passages are ascribed by some writers to Saṅkha and by others to Likhita. For example, a prose passage 
-
-Uddhrtya pariksitābhiḥ' &c. is ascribed to Likhita by Apa rārka ( on Yāj. I. 18 ) and to Saṅkha by Viśvarūpa (on Yāj. I. 20 . and by the Viramitrodaya ( Āhnika prakāśa p. 68). Similarly, the sutra 'ubhābhyamapi hastābhyām prānmukho devatirthena kuryāt' is ascribed to Saṅkha--Likhita- by the Pārāśaramadhaviya : I. 1. p. 352 ) and to Likhita by A parārka (on Yāj. I. 101). The relation of the Saṅkha-smrti in verse to the dharmasūtra of Saṅkha seems to be this. The former is based upon the latter and is a versified paraphrase or adaptation of portions of the dharmasūtra. 134 
-
-The versified Sarkha shows a tendency towards greater strictness. The dhormusūtra allows a Brāhmana to marry a woman of any of the four castes, while the verse Saṅkha resti icts him to the first three custes. 136 It is not unlikely that the dharmasūtra contained a few verses as is the case with Baudhāyana, Apastamba and Vasiṣtha. Even so early a 
-
-134 Compare 354 TRY TO TATATERTIFAT fefTatimor. 
-
-खुदाभिः ( quoted as Shikha's by the वीर०, आहिकप्रकाश, p. 68 ) with शङ्खस्मृति 9. 6 'अद्भिः समुताद्धृभिस्तु हीनाभिः फेनबुद्धदैः । वहिना चाप्य. 
-
-दग्धाभिरगन्लीभिरुपस्पृशेत् ॥' 186 The 911 ( od, of 1829, p. 210 ) quotes'aprent: pruf: Fastraat 
-
-श्रेयस्यः सर्वेषां स्युरिति पूर्वकल्पः । ततोनुकल्पश्चतस्रो ब्राह्मणस्यानुपूव्यंण'. a fa ( 4. 7 ) says ' arguit erfaren artean a urat kitarat o 
-
-140 
-
-History of Dharmaśāstra. 
+[^135]: The द्राभभाग (ed. of 1823, p. 210 ) quotes ‘भार्या: कार्या: स्वजातीया: श्रेयस्य: सर्वेषां सुरिति पूर्वकल्प: । ततोनुकल्पश्चतस्त्रौ ब्राह्यणस्यनुपूव्यण':  the 
+ शङ्खस्मृति  (4. 7 ) says ‘ब्राह्मणी  क्षत्रिया वैश्या ब्राह्मणस्य प्रकीर्तिता ।। ’ 
 
 writer as Viśvarūpa looked upon the prose and verse portions as the composition of the same author (vide his comment on Yāj. III 237, and Aparārka pp. 1149, 1154, 1161 ). 
 
