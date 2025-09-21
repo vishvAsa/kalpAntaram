@@ -22,7 +22,16 @@ The dharmasūtra of Śāṅkha-Likhita was commented upon early. Lakṣmīdhara 
 
 The dharmasūtra of Śāṅkha-Likhita would appear, from the quotations in the *nibandha*s, to have closely resembled the other extant sūtras on dharma in style and contents. It embraced almost all the topics treated of in Gautama or Āpastamba. It agrees very closely with thewords of Gautama and Baudhāyana in several places.[^136] It is curious to note that a quotation from Śāṅkha containing the names of writers of smṛtis cites Śāṅkha-Likhita as authority.[^137]
 
-The dharmasūtra seems to have permitted niyoga, speaks of twelve secondary sons, and did not favour (like Āpastamba) the claims of females to succeed to males. On certain points the dharmasūtra of Śāṅkha marks a more advanced state of opinion than is the case with Gautama or Āpastamba. Śāṅkha speaks of several kinds of ordeals and appears to have contained elaborate prose rules about them (vide Aparārka on Yāj. II, 95; Smṛticandrikā II, p. 112, Viramitrodaya, p. 270). As regards partition and inheritance,  
+The dharmasūtra seems to have permitted niyoga, speaks of twelve secondary sons, and did not favour (like Āpastamba) the claims of females to succeed to males. On certain points the dharmasūtra of Śāṅkha marks a more advanced state of opinion than is the case with Gautama or Āpastamba. Śāṅkha speaks of several kinds of ordeals and appears to have contained elaborate prose rules about them (vide Aparārka on Yāj. II, 95; Smṛticandrikā II, p. 112, Viramitrodaya, p. 270).
+
+As regards partition and inheritance, Śāṅkha–Likhita gives more detailed information than Āpastamba or Baudhāyana. The limits of Āryāvarta[^138] stretched over wide areas according to Śāṅkha (i.e. to the east of Sindhu–Sauvira and to the west of Kāmpilya) than is the case with Baudhāyana (I. 1. 25) or Vasiṣṭha (I. 8–9). The style of Śāṅkha reminds one of Kauṭilya rather than Gautama. The quotations hardly exhibit any ungrammatical forms. It is noteworthy that Yājñavalkya is included among the authors of smṛtis by Śāṅkha (vide note 137). If it is the extant Yājñavalkya–smṛti that is meant to be referred to, then the dharmasūtra of Śāṅkha will have to be assigned to a late date. But this does not seem to be likely. From the fact that the Yājñavalkya–smṛti itself enumerates Śāṅkha–Likhita among ancient authors on dharma, from the general style of the work, from the development of the legal conceptions it presents and from its doctrines about the rights of women, it appears almost certain that the extant Yājñavalkya–smṛti is much later than the dharmasūtra of Śāṅkha. There are close correspondences between Śāṅkha and Yājñavalkya.[^139] Śāṅkha is quoted 99 times and Śāṅkha–Likhita 63 times by Aparārka. On Yāj. III. 289–90 (p. 1154) Aparārka first quotes Śāṅkha as *‘Agnyutsādit samāvastram Cāndrāyaṇam carel–gīt ca dadyāt’* and five lines afterwards quotes Śāṅkha–Likhita with the words *‘Agnyutsāditamithyādikād ca samāvastram brahmacārīgṛhe bhikṣayāṃ caretām’*. Kalpataru (Brahmacārī) quotes Śāṅkha–Likhita 36 times, and Śāṅkha 19 times. From the fact that Śāṅkha–Likhita is quoted as including Śāṅkha–Likhita among writers on Dharmasāstras it may be inferred that the original text was tampered with by some redactor. Kalpataru on Vyavahāra (p. 830–31) cites a long prose passage of Śāṅkha–Likhita on the proper avocations of the men of eleven mixed castes viz. 
+
+Sūta, Kṣats, Māgadha, Ambastha, Vaidehaka, Ugra, Vena, Kukkuta, Ayogava, Pulkaya and Niṣāda (compare Viṣṇu dharmasūtra 16. 7-13 and Manu X. 47-50 ) and on p. 833 cites the avocations of Candāla, Śvapaca, dasyu and mleccha ganas. 
+
+The prose quotations from Śāṅkha-Likhita refer to the Vedāṅgas, Śāṅkha, Yoga, Dharmaśāstra. Śāṅkha recognized eight forms of marriage. The views of Śāṅkha about the status of the offspring of mixed marriages differed from those of Baudhayāna (I. 8. 6) and Manu (X. 6) and were intermediate between the latter two.[^140] The tarpana[^141] (which resembles the one in Baudhayāna, though it is more elaborate) refers to the six Vedāṅgas, Bhārata (but not Mahā-bhārata ), to twenty writers on *dharma* and contains numerous details about geography, mythology, and cosmogony which are generally found in the Purāṇas. The Dharmaśutra frequently cites the opinions of others. It mentions by name the views of Prajāpati, Aṅgirasa and Uśanas (Vivādaratnākara p. 537 ), Pracetasa (Vivādarat. p. 557-560 ), Vṛddha-Gautama ( Mada- na-pārijāta p. 701-2 ). The verse quotations ascribed to Śāṅkha further mention Yama, Kātyāyana and Śāṅkha himself. But in drawing chronological conclusions it is better to leave the verse quotations out of account. The same verses are ascribed to Manu and Śāṅkha[^142] and a few sūtras closely resemble the Manusmṛti.[^143] Six identical verses occur in the Vasiṣṭha-dharmaśāstra (21. 10-15) and in the Śāṅkha-smṛti (10th chap. ).
+
+All these circumstances lead to the conclusion that the dharmaśutra of Śāṅkha is probably later than Gautama and Āpastamba but earlier than the Yājñavalkya-smṛti and so must be assigned to some date between 300 B.C to 100 A.D
+
 
 [^132]: तन्त्रवार्तिक, p. 139 ‘स्मार्तधर्माधिकारे हि शङ्खलिखिताभ्यामुक्तम्- आश्रयः स्मृतिधारकः’.
 
@@ -40,35 +49,17 @@ with गौ. ध. सू. 5. 39-42; ' दन्तवद्धन्तलग्
 
 [^137]: ‘स्मृतिधर्मशास्त्राणि तेषां प्रणेता्रो मनुयमदक्षपिच्चविनिरूताः पतञ्जलिआपस्तम्ब-गौतमसंवताञ्चित्र हरितकात्यायनशङ्खलिखितसारख्यार्यसखातातपप्रचेतोयाज्ञवल्क्यादयः’ quoted in चतुर्वर्ग. I. p. 527; वीर० परिभाषा० p. 16 and स्मृतिच० (आदिक p. 1).
 
+[^138]: ‘देश आर्यो गणवान् ... प्राक् सिन्धुसौवीराद्धक्षिणेन हिमवत: पाश्चात्काम्पिल्या उदक् पारियात्रादनवद्यं ब्रह्मावर्चसम्’ quoted in चरि० परिभाषा०, p. 57.  
 
-12. The Dharnasūtra of Sarkha-Likhita 141 Sakha-Likhita gives more detailed information than Apastamba or Baudhāyana. The limits of Aryāvarta188 stretched over wide areas according to Saṅkha (i. e. to the east of Sindhu-Sauvīra and to the west of Kāmpilya ) than is the case with Baudhāyana ( I. 1. 25 ) or Vasistha ( I. 8-9). The style of Sarkha reminds one of Kautilya rather than of Gautama. The quotations hardly exhibit any upgrammatical forms. It is noteworthy that Yājñavalkya is included among the authors of smitis by Sarkha ( vide note 137 ). If it is the extant Yajnavalkya-smrti that is meant to be referred to, then the dharmasutra of Saṅkha will have to be assigned to u late date. But this does not seem to be likely. From the fact that the Yājõuvalkya-smrti itself enumerates Saṅkha Likhita anong ancient authors on dharna, from the general style of the work, from the development of the legal concep tions it presents and from its doctrines about the rights of women, it appears almost certain that the extant Yājña vulkya-smrti is much later than the dharmasūtra of Saṅkhu. There are close correspondences between Sarkha and Yājfia valkyu.138 Saikha is quoted 99 times and Sajjkha-Likhita 63 times by Apararka. Ou Yūj. 111. 289-90 (p. 1154 ) Apa rārka first quotes Sarkha as 'Agnyutgādi samvatsarum Cāndrāyaṇam cared-gam ca dadyat' and five lines after wards quotes Saikha-likhita with the words 'Agnyutsādi mithyādhiti ca sarivatsarain brābmanagrhesu bhaiksyam caretām'. Kalpataru (Brahmacāri) quotes Saṅkha-Likhita 36 times, and Sarkha 19 times. From the fact that Saṅkha Likhita is quoted as including Saṅkha-Likhita among writers on Dbarmaśāstras it may be inferred that the original text was tampered with by some redactor. Kalpataru on Vyavahāra (pp. 830-31 ) cites a long prose passage of Saṅkha-Likhita on the proper avocations of the men of eleven mixed castes viz. 
+[^139]: compare ‘षष्ठेष्ठमे वा सीमन्तः’ शाङ्ख quoted in चतुर्वर्ग० III. 2., p. 734 with याज्ञ. I. 11; ‘चूडाकर्म यथाकुलम्’ शाङ्ख (quoted in चतुर्वर्ग० III. 2., p. 743) with याज्ञ. I. 12; ‘दारानाहरत्सख्याज्ञानसमानाभ्यांदानसकन्धालानसमष्ट्यभ्याम् ऋतुमातृकवचोऽभ्यः’ शाङ्ख (quoted in उज्ज्वला on  आप० ध० सू० II. 5. 11. 16) with याज्ञ० I. 53.
 
-138 Trili Tuara ... TF Faryalattieraita fenaa: 9 TETT 
+[^140]: 'ब्राह्मणेन क्षत्रियायामुत्पन्नो क्षत्रिय एव भवति' शङ्ख quoted in मिताक्षरा on Yaj, I.91.
 
-3 arftalana) TTH I' quoted in atto, 9RATTO, p. 57. 139 compare 'षष्ठेष्टमे वा सीमन्तः ' शङ्ख quoted in चतुर्वर्ग• IIL 2., p. 734 
+[^141]: Vide चतुर्व III. I. pp. 950-955 and वीर., आहिक, P 356. ff. for तर्पण. 
 
-with 4. I. 11; '51** Terracott' TF ( quoted in again III. 2., p. 743 ) with 119. I. 12; 'ATTHETHE STATHATATORI FITATE 7492ATI PUCHTTFY+T: ' T ( quoted in govqat on in 17. . II6. 11. 18 ) with TF. 1. 62. 
+[^142]: The verse गर्भाष्टमे  चै कुर्वात in चतुर्वा III. I. 112 is मनु 2, 36;
+'भृतकाव्यापको यस्तु स उपाध्याय उच्यते'  quoted in स्मृतिच. I, p. 34, is मनु II. 141
 
-A 
-
-19142 
-
+[^143]: 'इषुं गृह्णाति राजन्या प्रतोदं वैया दशान्तं शूद्रा'  quoted in परा मा. I. 2., p. 98, Compare मनु 3. 44,
 
 
-: 
-
-Sūta, Kṣats, Māgadha, Ambastha, Vaidehaka, Ugra, Vena, Kukkuta, Ayogava, Pulkaya and Niṣāda (compare Viṣṇu dharmasūtra 16. 7-13 and Manu X. 47-50 ) and on p. 833 cites the avocations of Candāla, Śvapaca, dasyu and mleccha ganas. 
-
-The prose quotations from Saṅkha-Likhita refer to the Vedāngas, Sāṅkhya, Yoga, Dharmaśāstra. Saṅkha recogni sed eight forms of marriage. The views of Saṅkha about the status of the offspring of mixed marriages differed from those of Baudhāyana (1. 8. 6 ) and Manu (X. 6) and were inter mediate between the latter two.140 The tarparu141 ( which resembles the one in Baudhayana, though it is more elaborate) refers to the six Vedāngas, Bhārata ( but not Mahā-bhārata ), to twenty writers on dharma and contains numerous details about geography, mythology, and cosmogony which are gene rally found in the Purāṇas. The dharmasutra frequently cites the opinions of others. It mentious by name the views of Prajāpati, Angirasa and Usanas ( Vivādaratnākara p. 537 ), Prācetasa (Vivādarat. p. 557-560 ), Vṛddha-Gautama ( Mada na-pārijāta pp. 701-2). The verse quotations ascribed to Saṅkha further mention Yama, Kātyāyava and Saṅkha him self. But in drawing chronological conclusions it is better to leave the verse quotations out of account. The saine verses are ascribed to Manu and Saṅkha242 and a few sūtras closely resemble the Manusinfti.143 Six identical verses occur in the Vasistha-dharmasūtra (21. 10-15) and in the Saṅkha smrti ( 10th chap. ). 
-
-All these circumstances lead to the conclusion that the dharmasūtra of Saṅkha is probably later than Gautama and Apastamba but earlier than the Yājṅavalkya-smrti and 80 must be assigned to some date between 300 B.C. to 100 A. D. 
-
-140 ATEUA APATECTETT ga Hafat' t quoted in M714771 OD 
-
-Yaj. I. 91. 141 Vide agaio 1II. I. pp. 950-956 and efTo, BITTE75, . 366. ff. for afur. 142. The verse गर्भाष्टमे वै कुर्वीत in चतुर्वर्ग. III. I. 112 in मनु. 2. 88 ; 
-
-MATZITE) TED 7 34731ra gertat' quoted in fata 1, p. 34, is 
-
-HET II. 141. 143 ' Tefat 77 gala za trant van' quoted in PCT. HISZEN 
-
-p. 98. Compare \#9 8. 44 
