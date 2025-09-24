@@ -4,6 +4,10 @@ unicode_script: devanagari
 ---
 
 ## kShatriya-s in Kali age
+> [तच्च राज्यमविशेषेण चत्वारोऽपि वर्णाः कुर्वाणा दृश्यन्ते (तन्त्रवार्त्तिक २.३.३)]
+
+इति कुमारीलभट्टः। 
+
 ### Parashurama and Nanda eliminations
 > "The very basic question was whether there were any true Kṣatriyas alive during the Kali age. The questions were prompted by the Purānic story of the sage Paraśurāma having killed in revenge all the Kṣatriyas on the earth twenty-one times, and by the Purānic narratives that claimed that there will be no Kṣatriya dynasties after the Nandas [nandāntam Kṣatriyakulam], the precursors of the Mauryas in the 3rd century bc [tatahprabhr̥ti sūdrā-bhūpālā bhavisyanti, Viṣṇu Purāṇa, 4.24.21; also Bhāgavata-Purāṇa, 12.1.8-10]."
 
@@ -43,9 +47,11 @@ kamalākara (citing his father Rāmakr̥ṣṇa) in **śūdrakamalākara**:
 In some cases, one may argue that despite stories of their elimination, some kShatriya clans survived and maintained an unbroken tradition of basic saMskAra-s. 
 
 ## Restoration by vrātyastōma
-- "Kamlākara's grandfather, and Gāgābhaṭṭa's great grand-father, **Nārāyaṇabhaṭṭa**, in his work Dharmapravrtti, refers to those Brahmins, Kṣatriyas and Vaisyas who exceed the maximum age limit allotted for their Upanayana, and says that they fall to śūdra-hood and are excluded from all religious rites, UNLESS THEY PERFORM THE EXPIATORY RITE OF VRāTYASTOMA. [ata ūrdhvam patanty ete sarva-dharma-bahiskrtāḥ / sāvitrī-patitā vrātyā vrātyastomād r̥te kratoh, folio 51 ; sāvitrī patitā yasya daśa varsāṇi pañca va / sasikham vapanam kr̥tvā vrataṁ kuryāt samāhitaḥ // ekaviṁśati-rātraṁ ca pibet prasr̥ti-yāvakam / bhojayec ca haviśyānnam brāhmanān sapta panca ca / tato yāvaka-suddhasya tasyopanayanam smrtam. etad upanayanasya param akālāt pūrva-kāle jñeyam/ ata ūrdhvam vrātya-stomaḥ vrātyastomād r̥te kr̥te nivacanāt, Folio 145]"
-- "It would appear that Gāgābhaṭṭa accepted the first argument about the seed-presence of the Kṣatriyas in the Kali age, and tried to remedy their loss of dharma with purificatory vrātya-stoma rite. Gāgābhaṭṭa, taking cues from the works of his great grand father Nārāyaṇa-bhaṭṭa, and his uncle Kamalākara bhaṭṭa, offered expiation for such individuals. Seen in the context of the views of Nārāyaṇabhaṭṭa and Kamalākarabhaṭṭa, Gāgābhaṭṭa's further step does not appear to be excessively transgressive."
-- On these points, Nāgeśabhaṭṭa differed from Gāgābhaṭṭa, and Nāgeśabhaṭṭa's views continued to influence his successors like Nilakaṇṭha Shastri Thane.
+> "Kamlākara's grandfather, and Gāgābhaṭṭa's great grand-father, **Nārāyaṇabhaṭṭa**, in his work Dharmapravrtti, refers to those Brahmins, Kṣatriyas and Vaisyas who exceed the maximum age limit allotted for their Upanayana, and says that they fall to śūdra-hood and are excluded from all religious rites, UNLESS THEY PERFORM THE EXPIATORY RITE OF VRāTYASTOMA. [ata ūrdhvam patanty ete sarva-dharma-bahiskrtāḥ / sāvitrī-patitā vrātyā vrātyastomād r̥te kratoh, folio 51 ; sāvitrī patitā yasya daśa varsāṇi pañca va / sasikham vapanam kr̥tvā vrataṁ kuryāt samāhitaḥ // ekaviṁśati-rātraṁ ca pibet prasr̥ti-yāvakam / bhojayec ca haviśyānnam brāhmanān sapta panca ca / tato yāvaka-suddhasya tasyopanayanam smrtam. etad upanayanasya param akālāt pūrva-kāle jñeyam/ ata ūrdhvam vrātya-stomaḥ vrātyastomād r̥te kr̥te nivacanāt, Folio 145]"
+
+> "It would appear that Gāgābhaṭṭa accepted the first argument about the seed-presence of the Kṣatriyas in the Kali age, and tried to remedy their loss of dharma with purificatory vrātya-stoma rite. Gāgābhaṭṭa, taking cues from the works of his great grand father Nārāyaṇa-bhaṭṭa, and his uncle Kamalākara bhaṭṭa, offered expiation for such individuals. Seen in the context of the views of Nārāyaṇabhaṭṭa and Kamalākarabhaṭṭa, Gāgābhaṭṭa's further step does not appear to be excessively transgressive."
+
+> On these points, Nāgeśabhaṭṭa differed from Gāgābhaṭṭa, and Nāgeśabhaṭṭa's views continued to influence his successors like Nilakaṇṭha Shastri Thane.
 
 ## HiraNyagarbha rite
 - A kShatriya-wannabe could perform the hiraNyagarbha rite (atharva-veda-parishiShTa [13.2](/vedAH/atharva/parishiShTam/13_hiraNyagarbhavidhiH/) morphed with regional anukalpa-s and paddhati-s).
