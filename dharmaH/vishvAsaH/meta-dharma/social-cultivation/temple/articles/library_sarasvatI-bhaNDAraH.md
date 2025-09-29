@@ -1,7 +1,7 @@
 +++
 title = "library - SarasvatI bhaNDAraH"
 +++
-Ourk Agamas prescribe that temples should have a Vidyapeetham—a library meant to preserve and house important books/ texts. They also specify that Devi Saraswathi should be installed in such libraries. The Bhojsala Vagdevi temple at Dhar had one such library. 
+Our Agamas prescribe that temples should have a Vidyapeetham—a library meant to preserve and house important books/ texts. They also specify that Devi Saraswathi should be installed in such libraries. The Bhojsala Vagdevi temple at Dhar had one such library. 
 
 In Tamil Nadu, the Vidyapeethams attached to temples were known as Saraswathi Bhandarams. These functioned as centers of learning, preserving vast collections of manuscripts and making them accessible for study.
 
