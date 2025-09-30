@@ -206,22 +206,27 @@ During *Navarātri* the worshipper himself should do *veda Pārāyaṇa*, *can�
 
 On *Mahānavamī, pūja* should be performed on the lines of the precepts for *Mahāshṭamī*. But on that day the number of *balis* is more. If possible, *homa* with one hundred and eight *āhutis* should be performed. A special *nīrājana* to *Devī* should be done. *Ṛtviks* should be given the necessary *dakshiṇā*. The *Jaganmātā* should be prayed to pardon for any *apacāras* committed during the *pūjā* knowingly or unknowingly. Then the *Kanyās* and *Brahmins* should be worshipped and their blessings should be obtained.
 
-On *daśamī, Devī* should be specially worshipped with *shoḍaśopacāra pūjā*. And the idol of *devī*, the *bilva* twig and the bundle of nine leaves should be placed in a different place and worship should be offered to them separately there. To the accompaniment of music and *vedaghosha*, they should be taken to a river or a lake and the idol of *Devī* should be immersed in water. She should be prayed with the words “O *Durgā Devi*, O *Jaganmāta*\! please go to your original place. Come back again for the *pūjā* of next year”.
+On *daśamī, Devī* should be specially worshipped with *shoḍaśopacāra pūjā*. And the idol of *devī*, the *bilva* twig and the bundle of nine leaves should be placed in a different place and worship should be offered to them separately there. To the accompaniment of music and *vedaghosha*, they should be taken to a river or a lake and the idol of *Devī* should be immersed in water. She should be prayed with the words 
 
+> “O *Durgā Devi*, O *Jaganmāta*\! please go to your original place. Come back again for the *pūjā* of next year”.
+
+## Vijayadaśamī
 *Vijayadaśamī* is one of the most auspiciousdays in a year. *Sarasvatīpūjā* and *Vidyārambha* are done on that day. The most important *pūjās* done on that day are *Aparājithā pūjā, Śamī pūjā. Sīmollaṅghana* etc. Putting on new clothes and worshipping of elephants and horses are also there. *Vijayadaśamī* is auspicious for all classes of people. It has special significance to *Kshatrīyas*.
 
+### Aparājitā
 *Aparājitā Devī* should be worshiped at a purified place in the north eastern part of the village. *Vijayā* and *Jayā Devīs* should be worshipped on her left and right. Those *devīs* are called *Kriyāśakti* and *Umā*.
 
+### Śamī
 Later the *Śamī* tree which is in the north eastern part of the village should be reached and worshipped. There is a custom of worshipping *Rāma* and *Sītā* also on that day.
 
 *Śamī* should be prayed with the words
 
-“I surrender to *Śamī* which drives away inauspicious forces, which redeems sins and destroys all bad dreams”
+> “I surrender to *Śamī* which drives away inauspicious forces, which redeems sins and destroys all bad dreams”
 
-“अमङ्गलानां शमनीं शमनीं दुष्कृतस्य च ।  
-> दुःस्वप्ननाशिनीं धन्यां प्रपद्येहं शमीं शुभाम्”॥ 
+> “अमङ्गलानां शमनीं शमनीं दुष्कृतस्य च ।  
+दुःस्वप्ननाशिनीं धन्यां प्रपद्येहं शमीं शुभाम्”॥ 
 
-“This \(tree\) redeems our sins. It is brilliant with red thorns. It is the holy tree which bore \(i.e. safeguarded\) *Arjuna’s* weapons for a year. It is the tree which spoke pleasantly to *ŚrīRāma*. It is a great tree. Let it remove all the hurdles on the way of my universal conquest journey and make me happy. This tree is worshipped by *ŚrīRāma*. O *Śamī Devi*, I prostrate before you”.
+> “This \(tree\) redeems our sins. It is brilliant with red thorns. It is the holy tree which bore \(i.e. safeguarded\) *Arjuna’s* weapons for a year. It is the tree which spoke pleasantly to *ŚrīRāma*. It is a great tree. Let it remove all the hurdles on the way of my universal conquest journey and make me happy. This tree is worshipped by *ŚrīRāma*. O *Śamī Devi*, I prostrate before you”.
 
 > शमी शमयते पापं शमी लोहितकण्टका।  
 > धारिण्यर्जुनबाणानां रामस्य प्रियवादिनी॥  
@@ -232,8 +237,15 @@ If *Śamī* tree is not available, the *ashmāntaka* should prayed and worshippe
 
 A small quantity of mud should be taken from the bottom of that tree and \(holding it\) with *Akshatā*, it should be brought home to the accompaniment of music and dance, and after the *Ārati* is done to it; and new clothes should be put on.
 
-*Kshatrīyas* sometimes resort to *abhicāra prayoga* \(*maddu-māṭa*\) \(setting evil forces\) on their enemies on that day. *Śamī* leaves and *mṛttika* \(the soil on which the tree stands\) are sentimentally considered as gold and are distributed among themselves are *prasāda*. In the festival of *Navarātra*, the glory of *ŚrīRāma* is praised for all the ten days, and joy is experienced with *abhinaya* etc also. On the last day the evil demon, *Rāvaṇa’s* effigy is burnt symbolising his slaying.
+### abhicāra prayoga
+*Kshatrīyas* sometimes resort to *abhicāra prayoga* \(*maddu-māṭa*\) \(setting evil forces\) on their enemies on that day. 
 
+*Śamī* leaves and *mṛttika* \(the soil on which the tree stands\) are sentimentally considered as gold and are distributed among themselves are *prasāda*. 
+
+### rAvaNa-dAha
+In the festival of *Navarātra*, the glory of *ŚrīRāma* is praised for all the ten days, and joy is experienced with *abhinaya* etc also. On the last day the evil demon, *Rāvaṇa’s* effigy is burnt symbolising his slaying.
+
+## Paśubali
 We have to give a satisfactory explanation regarding an important question which is raised pertaining to those various forms of worship.
 
 Now regarding the *Paśubali* prescribed in *Devipūjā* during *śarannavarātra*.
@@ -254,9 +266,11 @@ Fish, Crocodiles, rams, he goats, buffaloes, male buffaloes, rhinos, *Śarabhās
 > खड्गश्च कृष्णसारश्च गोभिका शरभो हरिः ।  
 > शार्दूलश्च नरश्चैव स्वगात्ररुधिरं तथा॥ 
 
-It is natural that some compassionate pious people, touched by this, revolt against injustice and say—“How cruel it is\! that Slaying of animals and bloodshed are prescribed in the worship of Gods\! What an *Adharma*\!”
+It is natural that some compassionate pious people, touched by this, revolt against injustice and say—
 
-“Sir, If *Paśubali* is performed, those *Paśus* obtain *Sadgati*. For their own good they are given as *bali* to Gods” - Some say.
+> “How cruel it is\! that Slaying of animals and bloodshed are prescribed in the worship of Gods\! What an *Adharma*\!”
+
+> “Sir, If *Paśubali* is performed, those *Paśus* obtain *Sadgati*. For their own good they are given as *bali* to Gods” - Some say.
 
 > न वा एतन्म्रियसे नरिष्यसि, देवा, इदेषि पथिभिः सुगेभिः \(ऋ I-112\)  
 > ओषध्यः पशवो वृक्षास्तिर्यः पक्षिणस्तथा ।  
@@ -268,13 +282,17 @@ It is natural that some compassionate pious people, touched by this, revolt agai
 > मधुपर्के च यज्ञे च पितृदैवतकर्मणि।  
 > अत्रैव पशवो हिंस्या नान्यत्रेत्यब्रवीन्मनुः॥\(मनु V-48\) 
 
-Those who defend the *Vaidika Yajnas* try to reply as follows: “The *śrutis* and *smṛtis* approve it. Therefore compassion is hidden in this *Paśubali* indeed” But that reply is met with ridicule and derision.
+Those who defend the *Vaidika Yajnas* try to reply as follows: 
 
-“What is the proof to show that the sacrificed animals reach heaven? Instead of showing compassion to some animals let them show that compassion on their aged parents, sacrifice them and send them to heaven”.
+> “The *śrutis* and *smṛtis* approve it. Therefore compassion is hidden in this *Paśubali* indeed” 
 
-‘स्वपिता यजमानेन हन्यताम्’
+But that reply is met with ridicule and derision.
 
-“Your gods have an eye on poor animals only. because horses are not sacrificed in *yajnas*. Elephants are not sacrificed. Tigers, will never be sacrificed. Alas\! The lamb, a dumb and harmless animal is given as *bali*\!”
+> “What is the proof to show that the sacrificed animals reach heaven? Instead of showing compassion to some animals let them show that compassion on their aged parents, sacrifice them and send them to heaven”.
+
+> ‘स्वपिता यजमानेन हन्यताम्’
+
+> “Your gods have an eye on poor animals only. because horses are not sacrificed in *yajnas*. Elephants are not sacrificed. Tigers, will never be sacrificed. Alas\! The lamb, a dumb and harmless animal is given as *bali*\!”
 
 > अश्वं नैव गजं नैव व्याघ्‌रअं नैव च नैव च।  
 > अजापुत्रं बलिं दद्यात् देवो दुर्बलघातकः॥ 
@@ -287,17 +305,21 @@ There are scriptural statements which are quite contradictory. Sometimes the ani
 > तस्य यज्ञो महानासीत् अश्वमेधो महात्मनः।  
 > न तत्र पशुघातोभूत् स राजैवं स्थितोभवत् ॥ शान्तिपर्व 336/10-12 
 
-“This is the best *kṛta yuga*. Animal sacrifice should never take place in this *yuga*. How can killing of animals be *dharma*, O *devatās*?”
+> “This is the best *kṛta yuga*. Animal sacrifice should never take place in this *yuga*. How can killing of animals be *dharma*, O *devatās*?”
 
 > नैष धर्मः सतां देवा यत्र वध्येत वै पशुः ।  
 > इदं कृतयुगं श्रेष्ठं कथं वध्येत वै पशुः ॥ शान्तिपर्व 337-5 
 
-Again, the *Mahābhārata* says: “He-goats and rams should not be sacrificed in *Yajnas”* Then how is that the *Śrutis* say that *yajnas* have to be performed with he-goats?. Here *aja* does not mean a he-goat. It means old seeds which have lost the potency to germinate. They are called *‘ajas’*. The correct meaning of that *Śrutivākya* is that *homa* should be performed with them. It is not proper to sacrifice he-goats and rams without understanding the correct meaning”. And, the *Mahābhārata* clearly prohibits *Paśubali* in *Yajnas.*
+Again, the *Mahābhārata* says: 
+
+> “He-goats and rams should not be sacrificed in *Yajnas”*. Then how is that the *Śrutis* say that *yajnas* have to be performed with he-goats?. Here *aja* does not mean a he-goat. It means old seeds which have lost the potency to germinate. They are called *‘ajas’*. The correct meaning of that *Śrutivākya* is that *homa* should be performed with them. It is not proper to sacrifice he-goats and rams without understanding the correct meaning”. 
+
+And, the *Mahābhārata* clearly prohibits *Paśubali* in *Yajnas.*
 
 > बीजैर्यज्ञेषु यष्टव्यं इति वै वैदिकी श्रुतिः ।   
 > अजसंज्ञानि बीजानि छागं नो हन्तुमर्हथ॥ \(शान्ति 337-4\) 
 
-“Only in *a yajna* one can consume meat and not in other occasions”.
+> “Only in *a yajna* one can consume meat and not in other occasions”.
 
 > यज्ञाय जग्धिर्मांसस्येत्येष दैवो विधिः स्मृतः ।  
 > अतोsन्यत्र प्रवृत्तिस्तु राक्षसो विधिरुच्यते ॥ \(मनु \[v-3\) 
@@ -336,15 +358,19 @@ Why is this exception to females? - this is the question here. The *Kaḷikāpur
 
 “Can we offer animals as sacrifice to gods? *Śāstras* offer various kinds of opinions; some in favour of the practice and some against it. And, some concessions are offered to some people. Why is this so?” - To this question, some reply as follows:-
 
-“It was common among ancient Aryans to offer meat as *naivedya* to gods. They were under the impression that *tiryak* animals \(the ones which walk horizontally unlike humans who walk straight\) like sheep, buffaloes etc. have no *cetana*. And only humans are *cetanas*. Therefore if this *tiryak* animal is killed it won’t be a sin”. Later, by the influence of Buddhism and Jainism, the *samskāra* of nonviolence spread in them also. And they started preaching that *yajnas* should be performed with grains, fruits and cow produces only. This is the Hindu literature of the Post *Jaina Bauddha* period”.
+> “It was common among ancient Aryans to offer meat as *naivedya* to gods. They were under the impression that *tiryak* animals \(the ones which walk horizontally unlike humans who walk straight\) like sheep, buffaloes etc. have no *cetana*. And only humans are *cetanas*. Therefore if this *tiryak* animal is killed it won’t be a sin”. 
+
+Later, by the influence of Buddhism and Jainism, the *samskāra* of nonviolence spread in them also. And they started preaching that *yajnas* should be performed with grains, fruits and cow produces only. This is the Hindu literature of the Post *Jaina Bauddha* period”.
 
 This explanation is not correct. Because, Vedic *Maharshis* knew very well that even birds, beasts and plants are *cetanās* and *Vedas* themselves provide evidence for this. The *Ṛgveda* says that the cow is the mother of *Rudra* and the daughter of *vasus*. \(माता रुद्राणां दुहिता वसूनाम्\). *Yajurveda* makes the following prayer addressing the *darbhas*:—
 
 \(“मात्वान्वक्, मा तिर्यक् पर्वतेराध्यासमाच्छेत्ता ते मारिषम्”\) “I shall do not cut you crosswise, I shall not cause pain to your knots. I shall collect you as per precepts, for the purpose of *yajna*. Please do not cause my destruction” *Smṛtis* have set procedures for collecting *darbha* and *Tulasi*. One has to salute them before collecting them, get their permission and collect only the quantity necessary for the *yajna* or *pūja*. Therefore the argument that the Aryans were under the impression that tiryak animals have no *cetana* at all is not correct. There was no need for Hindus to learn the concept of non-violence from Buddhists and Jains who came at a later time. The *Vedas* themselves proclaim
 
-\(न च हिंस्यात्सर्वाभूतानि”\)
+> \(न च हिंस्यात्सर्वाभूतानि”\)
 
-“No animal should be subjected to pain”. This very idea was preached with emphasis in the *Jaina* and *Bauddha matas* which came later. *Jains* are *‘ahimsāśūras’*. They over argue the case. Even though *Buddhists* condemn the killing of animals in sacrifices and make heroic vows in this regard, they are non-vegetarians in practice.. They argue “We do not kill animals. We eat the meat of the animals killed by others and it is not a sin”. They have forgotten the ordinary truth that those who eat meat cause the killing of animals \(at least\) indirectly though not directly. Thus, it is only in vedic culture the matter of violence and non-violence is given a discerning thought and norms which are practicable have been preached.
+> “No animal should be subjected to pain”. 
+
+This very idea was preached with emphasis in the *Jaina* and *Bauddha matas* which came later. *Jains* are *‘ahimsāśūras’*. They over argue the case. Even though *Buddhists* condemn the killing of animals in sacrifices and make heroic vows in this regard, they are non-vegetarians in practice.. They argue “We do not kill animals. We eat the meat of the animals killed by others and it is not a sin”. They have forgotten the ordinary truth that those who eat meat cause the killing of animals \(at least\) indirectly though not directly. Thus, it is only in vedic culture the matter of violence and non-violence is given a discerning thought and norms which are practicable have been preached.
 
 The *Manusmrti* says “One has to live a life without causing pain to any animal. If it is not possible, violence should be limited to the minimum and violence may be resorted to only when it is unavoidable. “अद्रोहेणैव भूतानां अल्पद्रोहेण वा पुनः” As is evident from “जीवो जीवस्य भोजनम्” no creature can live without consuming another as food. Whether the food consumed is vegetarian or nonvegetarian, life cannot go on without violence. This is because even plants are *cetanas*. But this *caitanyaŚakti* will be more in animals than in plants. It will be still more in human beings. Among men it will be very high in *jnānis*. Therefore violence on animals is more sinful than violence on plants. Violence on human beings is still more sinful. And it becomes clear that causing pain to a *brahmajnāni* is the worst type of a sin. Therefore *maharshis* preached that vegetarian food is better than non-vegetarian food. which is obtained by killing *tiryak* animals.
 
@@ -371,7 +397,9 @@ How can a *yajnaPaśu* like a horse or a goat can attain *sadgati*? As they are 
 
 “स्वयं तरितुमक्षमः किमितरानसौ तारयेत्”. The *yajna* he performs will only be a *Yajna* in name only culminating only in the violence of killing the animal.
 
-“Let us assume for a moment that a *maharshi* who is a *jnāni* can make the *yajnaPaśu* obtain *sadgati* by the power of his penance. But, does not the animal suffer from pain when it is being sacrificed?” No. Because he possesses a power by which he can provide a divine state to that animal in which no pain is caused. ***ŚrīRaṅgamahāguru* used to give the analogy of \(a doctor\) conducting a surgery after administering chloroform to the patient.** By this, not only the person undergoing surgery does not experience any pain, but also regains energy after the surgery.
+> “Let us assume for a moment that a *maharshi* who is a *jnāni* can make the *yajnaPaśu* obtain *sadgati* by the power of his penance. But, does not the animal suffer from pain when it is being sacrificed?” 
+
+No. Because he possesses a power by which he can provide a divine state to that animal in which no pain is caused. ***ŚrīRaṅgamahāguru* used to give the analogy of \(a doctor\) conducting a surgery after administering chloroform to the patient.** By this, not only the person undergoing surgery does not experience any pain, but also regains energy after the surgery.
 
 If persons who do not possess such powers happen to offer a *Paśubali*, it will end up only as a mockery of a *yajna*. Instead of *‘Adhvara’* it becomes a *‘dhvara’* and instead of *Sadgati*, only *durgati* is caused \(to the animal\).
 
@@ -400,9 +428,10 @@ But if the non-vegetarians offer a *Paśu* endowed with suitable features in the
 
 This discussion regarding *Paśubali*, though a little elaborate and digressive, has been presented here with a view that it will be useful in understanding the science of similar *vaidik* and *tāntrik* worships.
 
+## vṛksha pūjā
 As part of this *Vrata*, the *vṛksha pūjā* is an important aspect which has been criticized much. And so, we would like to discuss it here,
 
-Question 1: “The *ĀryaBhāratīyamaharshis* were mainly worshippers of nature. They were influenced by the thunder, lightning, rains, wind, light etc. which occur in nature and stir up feelings like fear, wonder, jubiliation etc. and so, attributing divinity to them, they began to worship them with prayers and sacrifices. The worship of trees also comes under this category. Gigantic trees attracted them. They were attracted by their produce such as shade, flowers, fruits and medicines and furniture, and firewood made from their timber. The houses of *Vaidik* Aryans were generally built with timber only. In the *Viśvakarma Sūkta* in the *Vedas*, we come across a sentence:-
+Question 1: “The *Ārya Bhāratīya maharshis* were mainly worshippers of nature. They were influenced by the thunder, lightning, rains, wind, light etc. which occur in nature and stir up feelings like fear, wonder, jubiliation etc. and so, attributing divinity to them, they began to worship them with prayers and sacrifices. The worship of trees also comes under this category. Gigantic trees attracted them. They were attracted by their produce such as shade, flowers, fruits and medicines and furniture, and firewood made from their timber. The houses of *Vaidik* Aryans were generally built with timber only. In the *Viśvakarma Sūkta* in the *Vedas*, we come across a sentence:-
 
 “किग्ँस्विद्वनं क उ स वृक्ष आसीद्यतो द्यावापृथिवी निफतक्षुः”
 
@@ -602,6 +631,8 @@ Some say that the ten armed *Devī* should be offered *Suprabhātamaṅgala* on 
 
 We feel the first opinion is right. Because, the *śāstras* have clearly prescribed different days of worship corresponding to the different forms of *Devī*. The *Kāḷikapurāṇa* has seperately injoined *Bhādrapadakṛshaṇavamī* for the *Āshṭādashabhujamūrtī* and *Āśvāyujaśuklaprathamā* for the *daśabhujamūrtī*.
 
+## Timing
+### devI-pUjA
 Question 17: At what time of the day the *pūja* of *Devī* should be done during *Navarātra* celebrations?
 
 Ans: It should be done three times a day—in the morning, noon and at night. The *pūja* at night is given greater importance.
@@ -611,6 +642,7 @@ Ans: It should be done three times a day—in the morning, noon and at night. Th
 
 “प्रातर्मध्याह्नयोः सङ्क्षेपपूजनाङ्गम्, विस्तरपूजनं तु प्रधानभूतं रात्रावेव” \(कालतत्त्वविवेक\)
 
+### tithi vs naxatra
 Question 18: Which is more important for the *Navarātramahotsava*? The *pūjā—tithi* or *Nakshatra*?
 
 Ans: If both the specified *tithi* and *nakshatra* coincide, it is greatly auspicious. When they do not coincide, *tithi* itself should be taken as more important. The very names of the *utsavas* i.e. *Durgāshṭamī, Mahānavamī* and *Vijayadaśamī* which are in vogue, are associated with *tithis* only. The specified *tithi* and *nakshatras* for them are as follows:
@@ -634,9 +666,14 @@ The *patras* should be brought home on *Saptamī* with *Mūlā nakshatra*. *Pūj
 > मूलेनावाहयेद्देवीं श्रवणेन विसर्जयेत् \(व्यासः\)  
 > तिथिः शरीरं तिथिरेव कारणं तिथिः प्रमाणं तिथिरेव साधनम् । 
 
+### Arambha
 Question 19: Precisely on which *tithi* should *Navarātri mahotsava* be begun?
 
-Ans: It is on *Āshvayuja śuddha prathamā*. But if *prathamā tithi* has *amāvāsyā* or *dvitīyā* touching it, we have to deliberate on when it should be begun. If *prathamā* is mixed with *amāvāsyā*, and if the following day does not have *prathamā*, then *Navarātra mahotsava* should begin on *prathamā* itself. If *prathamā* happens to prevail at sunrise and extends to less than three *muhūrtas* the next day, then the celebration should begin on the *pūrna prathamā* day only. “If *amāvāsyā* continues for a period of one *muhūrta* \(on the following day of *amāvasyā*\) and *prathamā* that sets in after that happens to continue for less than three *muhūrtās* of time the next day, then, from the next day i.e.from the day of *Prathamā* which is mixed with *dvitīyā, Navarātra* festival should begin” - This is the discernment tought by some *Kālamīmāmsakas*.
+Ans: It is on *Āshvayuja śuddha prathamā*. But if *prathamā tithi* has *amāvāsyā* or *dvitīyā* touching it, we have to deliberate on when it should be begun. If *prathamā* is mixed with *amāvāsyā*, and if the following day does not have *prathamā*, then *Navarātra mahotsava* should begin on *prathamā* itself. If *prathamā* happens to prevail at sunrise and extends to less than three *muhūrtas* the next day, then the celebration should begin on the *pūrna prathamā* day only. 
+
+> “If *amāvāsyā* continues for a period of one *muhūrta* \(on the following day of *amāvasyā*\) and *prathamā* that sets in after that happens to continue for less than three *muhūrtās* of time the next day, then, from the next day i.e.from the day of *Prathamā* which is mixed with *dvitīyā, Navarātra* festival should begin” 
+
+\- This is the discernment taught by some *Kālamīmāmsakas*.
 
 The *Devipurāṇa* says “If there is *Vedha* of *Amāvāsyā* on *Prathamā*, it should be given up. And if *Prathamā* persists for even one *muhūrta* the next day \(i.e. on *dvitīyā*\), *Navarātra mahotsava* should begin on that day \(i.e.on *dvitīyā*\) only”
 
@@ -648,26 +685,32 @@ Contrary to this advice, we come across statements such as “If one begins *Nav
 > द्वितीयाशेषसंयुक्ता प्रतिपच्चण्डिकार्चने।  
 > मोहादथोपदेशाद्वा कृतं पुत्रविनाशकम् ॥ 
 
-No doubt, these contradictory statements do create a confusion. Some say *Devī* would not agree to her begining *pūjā* on *Prathamā* with *amāvāsyā Vedha*. “If it is done on *prathamā* with *dvitīyā* touching it, one would lose his son,” say some others. Actually speaking there is no contradiction in these two statements. The purport is, householders who desire fortunes such as sons, grandsons etc. should begin *Navarātrapūjā* on the day when *prathamā* prevails for a long time, even if it has the *vedha* of *Amāvāsyā. Virkatas* i.e. those who desire *Moksha* only, should not begin the *pūjā* on *Prathamā*, which has *vedha* of *amāvāsyā*.
+No doubt, these contradictory statements do create a confusion. Some say *Devī* would not agree to her begining *pūjā* on *Prathamā* with *amāvāsyā Vedha*. “If it is done on *prathamā* with *dvitīyā* touching it, one would lose his son,” say some others. 
+
+#### Reconciliation
+Actually speaking there is no contradiction in these two statements. The purport is, householders who desire fortunes such as sons, grandsons etc. should begin *Navarātrapūjā* on the day when *prathamā* prevails for a long time, even if it has the *vedha* of *Amāvāsyā. Virkatas* i.e. those who desire *Moksha* only, should not begin the *pūjā* on *Prathamā*, which has *vedha* of *amāvāsyā*.
 
 They should begin the *pūjā* on the second day even if *prathamā* prevails for a very short time and *dvitīyā* is for a long time. That means, those who have a desire for *dharmārthakāmas* should not begin if there is *vedha* of *dvitiyā*. Those who desire *moksha* only should avoid *amāvāsyā*. This is the purport.
 
 If it is a pure *Prathamā tithi* without any *Vedha*, then there is no scope for *vikalpa* at all.
 
+### vijayadaśamī
 Question 20: What direction do the *śāstras* give about the time for the celebration of *vijayadaśamī*?
 
 The *daśamī* of *Āshvayuja śukla* is called *Vijayadaśamī* or *Vijayādaśamī*. *Vijayadaśamī* should be celebrated on that day.
 
 Question 21: Should the *daśamī* at sunrise be considered for this or at sunset?
 
-And: If it is *śuklapaksha*, the *daśamī* at sunrise is to be considered. If it is *kṛshṇapaksha* it is *daśamī* at sunset.
+And: 
+
+> If it is *śuklapaksha*, the *daśamī* at sunrise is to be considered. If it is *kṛshṇapaksha* it is *daśamī* at sunset.
 
 > शुक्लपक्षे तिथिर्ग्राह्या यस्यामभ्युदितो रविः।  
 > कृष्णपक्षे तिथिर्ग्राह्या यस्यामस्तमितो रविः॥ 
 
 According to this rule, as it is *śuklapaksha*, the *tithi* at sunrise also should be considered for *Vijayadaśamī*, some say. But as the situation here unlike the other *māsas* and *pakshas*, is one which relates to *Vijayadaśamī*, it is not possible to arrive at a conclusion by merely aplying the above said rule.
 
-Like the *daśamī tithi, Śravaṇnakshatra* is also excellent for *devatāpūjā* on that day. If both happen to occur, it is best and there can be no doubt about it. Here, like *Janmāshṭamī, tithi* is more important than *nakshatra*, but still *nakshatra* is also considered at times.
+Like the *daśamī tithi, Śravaṇanakshatra* is also excellent for *devatāpūjā* on that day. If both happen to occur, it is best and there can be no doubt about it. Here, like *Janmāshṭamī, tithi* is more important than *nakshatra*, but still *nakshatra* is also considered at times.
 
 A *Śāstramīmāmsaka* by name *Hemādri* says—*“Vijayadaśamī* should be observed on the day of *Śravaṇa nakshatra*, if there is any *Vedha* on the day of *daśamī*; otherwise, it should be observed on the day of *navamī tithi”*.
 
@@ -686,14 +729,10 @@ When such a *muhūrta* occurs on a day, such an auspicious *daśamī* is called 
 
 If pure *daśamī tithi* occurs without the touch of any other *tithi*, then *Vijayadaśamī* should be observed on that day without any *vikalpa*. If *Śravaṇa nakshatra* also occurs on that day, it is more auspicious. If the day happens to be a pure *daśamī ‘tithi*, then even in the absence of *Śravaṇa nakshatra*, *Vijaya daśamī* should be observed on that day.
 
-When pure *daśami tithi* is not available then *dasāmi tithi* joined with *navamī* is prefrable to *Ekādaśī*. But if that *Ekādaśī* has the *Śravaṇa nakshatra yoga*, we think it is auspicious for *viajayadaśamī pūjā*, even if happens to be an *Ekādaśī*.
+When pure *daśami tithi* is not available then *dasāmi tithi* joined with *navamī* is prefrable to *Ekādaśī*. But if that *Ekādaśī* has the *Śravaṇa nakshatra yoga*, we think it is auspicious for *vijayadaśamī pūjā*, even if happens to be an *Ekādaśī*.
 
-**Here, we would like to humbly interpret this matter on the strength of the impressions provided by *Śrīgurūpadesa* as follows:** “For those who desire *Dharma, Artha* and *Kama*, *daśamī* touched with *Navamī* is best, if pure *daśamī* is not available. For those who desire *Moksha*, *daśamī* touched with *Ekādaśī* is best, and for those who desire all the *Purushārthās, Ekādaśī* with *Śrāvaṇa* is best”.
+**Here, we would like to humbly interpret this matter on the strength of the impressions provided by *Śrīgurūpadesa* as follows:** 
+
+> “For those who desire *Dharma, Artha* and *Kama*, *daśamī* touched with *Navamī* is best, if pure *daśamī* is not available. For those who desire *Moksha*, *daśamī* touched with *Ekādaśī* is best, and for those who desire all the *Purushārthās, Ekādaśī* with *Śrāvaṇa* is best”.
 
 The abovesaid *Kālamīmāmsa* may sound unnecessary to the lay man. But when some doubts arise in that regard, it becomes very necessary to provide a satisfactory and critical clarification to the *jijnāsus*. Therefore, we have discussed the matter briefly here.
-
-
-
-
-
-	 
