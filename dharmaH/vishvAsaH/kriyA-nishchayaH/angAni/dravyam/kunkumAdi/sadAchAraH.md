@@ -27,6 +27,8 @@ title = "सदाचारः"
 इति [वासुदेव आह्निकामृते दीक्षितीयोद्धारेण](/vedAH_yajuH/taittirIyam/sUtram/vaikhAnasaH/paddhatiH/vAsudevaH_AhnikAmRtam/01/01_abhigamana-kAlakramaH)। 
 
 ### Color traditions
+महिषूरु-मण्डले सर्वदा सर्वे हि रक्तवर्णभृतः - उत्तरकलार्याश् च।
+
 > Many of the parakala matha sishyas use red even now. That said, in the 1990s, I have seen tenkalais wearing yellow srichurnam. The numbers have reduced now but I do see a few of them even now sometimes. I don't consider red = tk and yellow = vk as valid.
 > - ravilochana
 
@@ -35,7 +37,7 @@ title = "सदाचारः"
 > I myself know of a TK Vaikhanasa priest who wears yellow and Mahamahopadhyaya Srivatsankachariar Swamy has talked about a TK shishtha who only wore yellow. 
 > - विजयः ताताचार्यः
 
-
+> त एव तोण्डैमण्डलदेशस्था उत्तरकलार्याः केवलं आशौच समये रक्तवर्णरेखां धारयन्ति ।  - श्रीवासः
 
 ## तिरुमण्
 > In fact, I would go to the extent of saying that Y = Tk and U = vk itself is a later development (maybe 250 yrs or so). Prior to that, both options were there and neither was wedded to one particular school of thought. You can see both types of tiruman in the temples of Hampi - even from the 14th century (like Hazara Rama). - रविलोचनः
