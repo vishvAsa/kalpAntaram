@@ -29,7 +29,11 @@ title = "सदाचारः"
 ### Color traditions
 महिषूरु-मण्डले सर्वदा सर्वे हि रक्तवर्णभृतः - उत्तरकलार्याश् च।
 
-> Many of the parakala matha sishyas use red even now. That said, in the 1990s, I have seen tenkalais wearing yellow srichurnam. The numbers have reduced now but I do see a few of them even now sometimes. I don't consider red = tk and yellow = vk as valid.
+> There used to be PM jiyars sporting red in the past. Iirc one AS also sported red in the past (an exception though). Otoh the Tatacharyas of pandya nadu as well as many vdk acharya purushas of Karnata desha have sported red only till recent past. Many of the parakala matha sishyas use red even now. 
+> 
+> Unfortunately now colors hv become almost indicator of sampradaya. Which was not so in the past. Till 1960s, u could see some tenkalais sporting yellow as well. That said, in the 1990s, I have seen tenkalais wearing yellow srichurnam. The numbers have reduced now but I do see a few of them even now sometimes. Now only vaikhanasas with tk namam sport yellow here and there.  
+> 
+> I don't consider red = tk and yellow = vk as valid.
 > - ravilochana
 
 > In spite of 150 year old pramANas for the use of turmeric based shrIchUrNam, many vadakalai shishthas of the previous generation (1950-2020) still wore red shrIchUrNam. My own family was wearing red until some 30-35 years ago and switched to yellow. Back them my mother would say that "vaidIkas wear yellow and laukIkas wear red".
