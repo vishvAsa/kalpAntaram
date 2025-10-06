@@ -23,3 +23,6 @@ tā enam prītā aprīṇant sarvaiḥ kāmaiḥ
 “puruṣa eva puruṣamatsyati”
 
 See: https://wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1057584.html
+
+## bandhana
+> MS 5.46 says that the one who doesn’t want to pain beings through ‘bandhana’ and ‘vadha’, attains lasting peace/happiness.  Slavery is also a kind of ‘bandhana’ which generates pain. Manu states great rewards for not doing it. - SS
