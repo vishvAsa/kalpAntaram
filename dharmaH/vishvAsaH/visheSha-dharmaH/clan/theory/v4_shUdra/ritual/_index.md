@@ -50,5 +50,19 @@ vyAsa says "ईक्षेत् कुलगुणादिभिः। ", so 
 
 When arguing against the authority of the Veda, the Kalachakra also mentions shudra-s reading and distributing the Veda. It's possible the practice was fairly well known.
 
+> वेदो नाकाश-तुल्यः, कृतक इह मुखोच्चारितः स्थान-भेदात्  
+युक्त्या प्रादेशिकश् च द्विज-मुख-पठितः, सर्व-गोऽन्ये पठन्ति ।  
+यस्माच् छूद्रादि-जातिर् लिखति पठति - नो सर्वगो वेद एषस्  
+तस्माद् वेद-प्रमाणं न हि भवति नृणां ज्ञानिनां पण्डितानाम्॥   
+कालचक्रतन्त्रराजतन्त्रम्, अध्यात्मपटलम्, १६७  
+> Source: [TW](https://t.co/OfN3PsKD5z)
+
+> वेदो नाकाश-तुल्यः कृतक इह मुखोच्चारितः स्थान-भेदात्  
+युक्त्या प्रादेशिकश् च, द्विज-मुख-पठितः, सर्वगोऽन्ये पठन्ति ।  
+यस्मात् शूद्रादि-जातिः पठति लिखति नासर्वगो वेद एषस्  
+तस्माद् वेदः प्रमाणं न हि भवति नृणां ज्ञानिनां पण्डितानाम् ।। १६७ ॥  
+> विमलप्रभा-टीका  
+> Source: [TW](https://t.co/N4DzW2V8Sr)
+
 ## Sanskrit use
 - See [sanskrit misconceptions page](/sanskrit/meta/misconceptions/Sanskrit_Phobia/Restricted_social_role/). They could learn and teach sanskrit without impinging on core religious teaching authority of brAhmaNas (eg. dharmashAstra-s). Even there: They could certainly write express/ teach their understanding of essentials of dharma. Plus the general authority of teaching other vidya-s were not monopolized.
