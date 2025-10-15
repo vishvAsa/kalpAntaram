@@ -26,8 +26,8 @@ unicode_script: devanagari
 -   Śūdra-s along with brāhmaṇas have been worshipping idols, trees, animals etc.. and hence the ineligibility doesn't matter in practice.
 
 ## Vedic study
-- Studying the veda was prohibited. Gautama-dharma-sūtra (an influential early work) even barred them from hearing it.  
-    
+adhyayana and adhyApana of the veda (repetition after a guru) was prohibited for shUdras. Gautama-dharma-sūtra (an influential early work) even barred them from hearing it.  
+
 Apastamba - 
 
 > श्मशानवच्छूद्रपतितौ ॥ ९ ॥  
@@ -47,6 +47,8 @@ In mahAbhArata -
 तच्च कार्यं महत् स्मृतम् ॥ ४९ ॥
 
 vyAsa says "ईक्षेत् कुलगुणादिभिः। ", so also the context does not suggest vedAdhyayana to shUdras. (Details elsewhere.)
+
+When arguing against the authority of the Veda, the Kalachakra also mentions shudra-s reading and distributing the Veda. It's possible the practice was fairly well known.
 
 ## Sanskrit use
 - See [sanskrit misconceptions page](/sanskrit/meta/misconceptions/Sanskrit_Phobia/Restricted_social_role/). They could learn and teach sanskrit without impinging on core religious teaching authority of brAhmaNas (eg. dharmashAstra-s). Even there: They could certainly write express/ teach their understanding of essentials of dharma. Plus the general authority of teaching other vidya-s were not monopolized.
