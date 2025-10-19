@@ -53,13 +53,13 @@ At a high level, for the purpose of this site, a Hindu is a person who is intima
 ### HINO-s
 Hindus in name only.
 
-> They think Hinduism is appeasing grandma by wearing tilakam when told to, lighting some lamps on Diwali (they can't even say Deepavali) and prancing around on Holi (even better, a secular "color run"!) They see no conflict with Liberalism, and feel no repulsion from 'Modernity'.
+> They think Hinduism is appeasing grandma by wearing tilakam when told to, lighting some lamps on Diwali and prancing around on Holi. They see no conflict with Liberalism, and feel no repulsion from 'Modernity'.
 >
 > Hindus I have found MOST easily made captives to the godless, dishonorable, deracinated, superficially saffron scented Liberal dogma of New Jersey Bollywoodism are those who know no Sanskrit—only token bhajans.
 
 
 ## Background and introductions
-The last section of [chapter 36](/kalpAntaram/kANe/v5p2/10_Hindu_Culture_and_Civilization/36_Characteristics_of_Hindu_Culture/) of PV Kane's vol 5 a must-read for every hindu who wants to understand his background.
+The last section of [chapter 36](/kalpAntaram/dharmaH/nibandhaH/en/kANe/history/v5p2/10_Hindu_Culture_and_Civilization/36_Characteristics_of_Hindu_Culture/) of PV Kane's vol 5 a must-read for every hindu who wants to understand his background.
 
 
 - shatAvadhAnI gaNesh
