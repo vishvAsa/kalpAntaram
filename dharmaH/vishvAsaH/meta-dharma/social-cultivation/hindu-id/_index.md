@@ -55,7 +55,7 @@ Hindus in name only.
 
 > They think Hinduism is appeasing grandma by wearing tilakam when told to, lighting some lamps on Diwali and prancing around on Holi. They see no conflict with Liberalism, and feel no repulsion from 'Modernity'.
 >
-> Hindus I have found MOST easily made captives to the godless, dishonorable, deracinated, superficially saffron scented Liberal dogma of New Jersey Bollywoodism are those who know no Sanskrit—only token bhajans.
+> Hindus I have found MOST easily made captives to the godless, dishonorable, deracinated, superficially saffron scented Liberal dogma of New Jersey Bollywoodism are those who know no Sanskrit — only token bhajans.
 
 
 ## Background and introductions
