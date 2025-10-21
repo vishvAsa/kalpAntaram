@@ -1,15 +1,30 @@
 +++
 title = "13 Mānavadharmasūtra"
 
-+++
++++ Mānava-dharma-sūtra — Did it exist?
 
-13. Mānavadharmasutra-Did it exist? 
+Following the orthodox view of Western Sanskrit scholars that most of the dharmasūtras are older than almost all, if not all, the metrical smṛtis, I gave the first place of honour to the dharmasūtras of Gautama and others.   
+But my own views differ to a great extent from those of the orthodox school of Sanskritists represented by Max Müller and Bühler.   
+It is high time to state here my views about the existence of a Mānava-dharma-sūtra supposed to be the original of our extant Manu.
 
-143 
+Some western scholars, particularly Max Müller and Weber, started the ingenious theory that the extant Manusmṛti was a recast or remodeling of an ancient Mānava-dharma-sūtra. Max Müller went so far as to enunciate the bold generalisation   
 
-13. Mānavadharmasutra-Did it exist ? Following the orthodox view of Western Sanskrit scho lars that most of the dharinasūtras are older than almost all, if not all, the metrical smrtis, I gave the first place of honour to the dharmasutras of Gautama and others. But my own views differ to a great exteut from those of the orthodox school of Sanskritists represented by Max Mūller and Būhler. It is high time to state here my views about the existence of a Mānava-dharma-sūtra supposed to be the original of our extant Manu. 
+>“There can be no doubt, however, that all the genuine dharma-śāstras which we possess now, are **without any exception**, nothing but more modern texts of earlier sūtra works on khandikārams belonging originally to certain Vedic caranas”  
+-(H.A.S.L. pp. 134–135).  
 
-Some western scholars, particularly Max Mūller and Weber, started the ingenious theory that the extant Manu. smrti was a recast or remodelling of an ancient Mānavadhar masūtra. Max Mūller went so far as to enunciate the bold generalisation “There can be no doubt, however, that all the genuine dharma-sāstras which we possess now, are without any exception, nothing but more modern texts of earlier sūtra works on kuladharmas belonging originally to certain Vedic caranas" (H. A. S. L. pp. 134-135). For this sweeping gene ralisation there were very few data when it was made, as is admitted by Bihler. This theory of Max Mūller was as hasty, as unfounded and as uncritical as several other theo. ries of his such as that about the renaissance of Sanskrit Lite rature in the early centuries of the Christian era, about the absence of the art of writing in India before Pānini and about the uniform employment of the sloka for literary purposes in his so-called sūtra period and earlier. Western Scholars had to give up such theories before the stern logic of facts, but they have tenaciously clung to the theory about the Manu smrti being a recast of the Mānavadharmasūtra. One of the main planks of Max Mūller's edifice was the now exploded theory about the non-employment of the anustubh during the sūtra period ( which he tentatively placed between 600 B. C.-200 B. C. ) for continuous composition. In spite of the fact that one of the main planks has totally collapsed Būhler makes strenuous efforts to rehabilitate Max Mūller's theory by additional a priori arguments (S. B. E. vol. 25, PPA XVIII-XXIII and xxxI-XXXIX). The main points brought forward by Būhler are:-(I) The Vasistha Dh. S. (IV. 5 contains four sūtras, the first of which is The Mānava sayan that one may kill an animal only in honouring the Mones, gode 
+For this sweeping generalisation there were very few data when it was made, as admitted by Bühler. This theory of Max Müller was as hasty, as unfounded and as uncritical as several other theories of his such as that 
+- about the renaissance of Sanskrit Literature in the early centuries of the Christian era, 
+- about the absence of the art of writing in India before Pāṇini, and 
+- about the uniform employment of the śloka for literary purposes in his so-called sūtra period and earlier.  
+
+Western scholars had to give up such theories before the stern logic of facts, but they have tenaciously clung to the theory about the Manusmṛti being a recast of the Mānava-dharma-sūtra.
+
+One main plank of Max Müller’s edifice was the now exploded theory about the non-employment of the anuṣṭubh during the sūtra period which he tentatively placed between **600 B.C. – 200 B.C.** for continuous composition.  
+In spite of the fact that the whole edifice has totally collapsed, Bühler makes strenuous efforts to rehabilitate Max Müller’s theory by additional a priori arguments (S.B.E. vol. 25, pp. xviii–xxiii and xxxii–xxxv).  
+
+The main points brought forward by Bühler are:— 
+1. The Vasiṣṭha Dh. S. (V. 5–8) contains four sūtras, the first of which is:  
+    > “The Manava says that one may kill an animal only in honouring the Manes, gods and guests”
 
 144 
 
