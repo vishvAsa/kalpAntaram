@@ -26,29 +26,45 @@ The main points brought forward by Bühler are:—
 1. The Vasiṣṭha Dh. S. (V. 5–8) contains four sūtras, the first of which is:  
     > “The Manava says that one may kill an animal only in honouring the Manes, gods and guests”
 
-144 
+    There follow two verses and a passage in prose with iti at the end. Bühler argues that all the four sūtras are quotations and as the extant Manusmrti is in verse, they must be regarded as taken from the Mānavadharma sūtra. 
+  
+2. There are other quotations in Vasiṣṭha attributed to Manu which either   contradict the present Manusmṛti or have no counterpart in the latter.  
+    Bühler draws special attention to the fact that Vasiṣṭha (19, 37) quotes & Mānava śloka which is not in the anuṣṭubh metre and which has nothing corresponding to it in the extant Manusmṛti.  
+
+3. A fragment of Uśanas quotes an opinion of Manu about impurity, which is in prose.[^144] Bühler himself points out that here one ms. reads 'Sumantuḥ' for Manuḥ.   
+    Therefore, this argument is of very little use in establishing the existence of a Mānavadharmasūtra. Besides, it is possible that the mutilated passage is not a quotation at all, but a mere summary of Manu's views. There is no 'iti' at the end to show that it is a quotation.  
+
+4. Kāmandakīya Nītisāra (II. 3) says that according to the Mānavas the vidyās to be studied by a king are three -  
+    >viz. the three   Vedas, Vārtā, and Daṇḍanīti, 
+
+    and that what is called Ānvīkṣikī is but a branch of trayī;  
+    while the Manusmṛti ( 7. 43 ) appear to regard the four as distinct vidyās.[^145]  
+    Kāmandaka (XI. 67 ) says that Manu prescribed that the council of ministers should consist of twelve ;[^146] while Manu (7. 54 ) says that the 'sacivas' should be seven or eight. 
+
+    Biihler therefore argues that Kāmandaka has in mind the Mānavadharmasūtra and 
 
 
+[^144]: In No. 644 of Vīrasaṁbāg (1) in the Deccan College there is a fragment of Uśanas where we read:
 
-and guests'. There follow two verses and a passage in prose with iti at the end. Buhler argues that all the four sūtras are quotations and as the extant Manusmrti is in verse, they must be regarded as taken from the Mānavadharma sūtra. (II) There are other quotations in Vasintha attributed to Manu which either contradict the present Manusmrti or have no counterpart in the latter. Būhler draws special attention to the fact that Vasistha (19, 37) quotes & Mānava Sloka which is not in the anustubh metre and which has nothing corresponding to it in the extant Manusmrti. (III) A fragment of Uganas quotes an opinion of Manu about impurity, which is in prose.144 Būhler himself points out that here one ins. reads 'Sumantuḥ' for 'Manuh'. Therefore, this argument is of very little use in establi shing the existence of a Mānavadharmasūtra. Besides, it is possible that the mutilated passage is not a quotation at all, but a mere summary of Manu's views. There is no 'iti' at the end to show that it is a quotation. (IV) Kāmanda kiya.nītisāra (II. 3) says that according to the Mānavas the villyas to be studied by a king are three, viz. the three Vedas, Vārtā, and Dandaniti and that what is called Anviksiki is but a branch of trayī; while the Manusmrti ( 7. 43 ) appear to reyard the four as distinct vidyas,148 Kimandaka (XI. 67 ) says that Manu prescribed that the council of ministers should consist of twelve ;146 while Manu (7. 54 ) says that the * 8ucivas' should be seven or eight. Biihler therefore argues that Kimandaka has in mind the Minavadharmasūtra and 
+>उरस्कृत्य ... (gap) मनुराह । बाले देशान्तरस्थे चानग्निके वोराच्चाने (?) अनाशकेग्रिप्रवेशे युद्धहते च सद्यः शौचम्.  
 
-144 In No. 044 of Vjśrīmbāg ( 1 ) in the Deccan Colloge there is a frag. 
+The words बाले देशान्तरस्थे occur in Manu 5.78 in the same connection.  
+For the rest, compare Manu 5.93 and 5.95.  
+We must probably read:  
 
-mont of Uśnnas where we rearl 3TURY ... (gar) HATTE I am देशान्तररथे चानग्निके वोराध्वाने (?) अनाशकेमिप्रवेशे युद्धहते च सद्यः शौचम्. The words बाले देशान्तरस्थे 00cur in Manu b. 78 in the samo connection. For tho rest, compare Manu 5. 93 and 95. We must probably read UITTET T ATH. No. 191 of A 1881-82 is another fragment of Usadas which contains the same passage. Būhler's mss. read सद्यः शौचानष्टपतिताभितनिन्दिताचारैर्न सह संवसेत् and he proposes 
+>देशान्तरस्थे च साग्रिके  
 
-Thetha.. 146 The words of the Azefa are: Sijaeterli faat fogalfet a Trapa 
+No. 191 of A. 1881–82 is another fragment of Uśanas containing the same   passage. Bühler’s mss. read सद्य: शौचनष्टपनिवाभिननिन्दिताचारैने सह संवसेत् and he proposes शौचमिष्टमिति |
 
-आन्वीक्षिकों चात्मविद्या वार्तारम्भांश्च लोकतः ॥ 146 147** says 'GRA HELE SITE atestia etila: 1 3997 fakin 
+[^145]: The words of the Manusmṛti are:
 
-faut A RAHU ' 
+>त्रैविद्येम्यस्त्रथी विद्यां दण्डनीतिं च शाश्वतीम् |  
+आन्वीक्षिकीं चात्मविद्यां वार्तारम्भाश्च लोकत ||  
 
-STITUT 
+[^146]: कामन्दक says:
 
-FOUNDED 
-
-18. Mānavadharmasūtra-Did it exist ? 
-
-145 
+>द्वादशेति मनु: प्राह षोडशेनि वृहस्पति: |  
+उशना विंशतिरिति मन्त्रिणां मन्त्रिमण्डलम् ||
 
 not the Manusmrti and on the word 'Mānavah' makes the following observations 'It is a very common practice of Indian authors to refer in this manner to the books restricted to special schools. But I know of no case where the doctrines of the Mānavadharmaśāstra or of any other work, which is destined for all Aryans and acknowledged as authoritative by all, are cited in the same or similar way' (S. B. E. vol. 25, p. XXXVIII). In the first place it has to be noted that Kūman daka is only paraphrasing the words of Kautilya in the above two places.147 Further, it is noteworthy that Kāmandaka employs the word 'Manuh' while Kautilya uses the word 
 
