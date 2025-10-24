@@ -41,8 +41,28 @@ The main points brought forward by Bühler are:—
     while the Manusmṛti ( 7. 43 ) appear to regard the four as distinct vidyās.[^145]  
     Kāmandaka (XI. 67 ) says that Manu prescribed that the council of ministers should consist of twelve ;[^146] while Manu (7. 54 ) says that the 'sacivas' should be seven or eight. 
 
-    Biihler therefore argues that Kāmandaka has in mind the Mānavadharmasūtra and 
+Biihler therefore argues that Kāmandaka has in mind the Mānavadharmasūtra and not the Manusmṛti and on the word 'Mānavaḥ' makes the following observations:
 
+> “It is a very common practice of Indian authors to refer in this manner to the books restricted to special schools. But I know of no case where the doctrines of the Mānava­dharmaśāstra or of any other work, which is destined for all Āryans and acknowledged as authoritative by all, are cited in the same or similar way.”  
+— S. B. E., vol. 25, p. XXXVII
+
+In the first place, it has to be noted that Kāmandaka is only paraphrasing the words of Kauṭilya in the above two places.[^147]
+
+Further, it is noteworthy that Kāmandaka employs the word 'Manuḥ', while Kauṭilya uses the word Mānavaḥ (about the number of ministers). Therefore, according to the Kāmandakīya­nīti­sāra, there was no difference between the two — viz. the words Manuḥ and Mānavaḥ denoted the same thing: a work.
+
+What Bühler means by his emphasis on the word 'Mānavaḥ' is not quite clear. Early writers like Kumārila and Viśvarūpa employ the word 'Mānavaṃ' with reference to the Manusmṛti, just as they use the word Vāsiṣṭhaṃ to denote the Vūsisthadharmasūtra (vide Tantra­vārttika pp. 167, 194, and Viśvarūpa on Yāj. (Yājñavalkya Smṛti) III. 245 and 257).
+
+Śaṅkara, in his bhāṣya on Bṛhadāraṇyaka Upaniṣad I.4.17, applies the word 'Mānava' to the Manusmṛti:
+
+>Mānava ca sarvaḥ pravrttih kūmahetukyeveti (referring to Manu II.4)
+
+Besides, there is hardly any conflict between the views of the Mānavas and the Manusmṛti on the point of the number of the vidyās. The Mānavas knew that Anvīkṣikī was counted as a fourth vidyā, but said that it was really comprehended in the study of the Vedas.
+
+The Manusmṛti only lays down from whom the vidyās were to be learnt. As regards the number of ministers, we cannot afford to forget that the Manusmṛti (7.60) allows more ministers than seven or eight.
+
+Another explanation also is possible. In the final remodelling of the Manusmṛti from its original verse, it is not unlikely that a few changes were made. (V)  On the strength of the preser vation of the complete set of the sūtra works of Apastamba on srauta, grhya and dharma (also of Baudhāyana and Hira ụyakesin ), it is urged that the Mānava carana had a sūtia on dharma.
+ 
+The Mānava­dharmasūtra (parts 1–5 edited by Dr. Knauer and the chayana by Miss Gelder at Leipzig in 1921).
 
 [^144]: In No. 644 of Vīrasaṁbāg (1) in the Deccan College there is a fragment of Uśanas where we read:
 
@@ -66,15 +86,11 @@ No. 191 of A. 1881–82 is another fragment of Uśanas containing the same   pas
 >द्वादशेति मनु: प्राह षोडशेनि वृहस्पति: |  
 उशना विंशतिरिति मन्त्रिणां मन्त्रिमण्डलम् ||
 
-not the Manusmrti and on the word 'Mānavah' makes the following observations 'It is a very common practice of Indian authors to refer in this manner to the books restricted to special schools. But I know of no case where the doctrines of the Mānavadharmaśāstra or of any other work, which is destined for all Aryans and acknowledged as authoritative by all, are cited in the same or similar way' (S. B. E. vol. 25, p. XXXVIII). In the first place it has to be noted that Kūman daka is only paraphrasing the words of Kautilya in the above two places.147 Further, it is noteworthy that Kāmandaka employs the word 'Manuh' while Kautilya uses the word 
 
-Mānavāḥ' (about the number of ministers). Therefore, acco rding to the Kāmandakiyanītisāra there was no difference between the two. viz. the words "Manuli' and 'Māna vāh' denoted the same thing, a work. What Būhler means by his emphasis on the word "Mānavāh' is not quite clear. Early writers like Kumārila and Viśvarūpa employ the word 'Māna vam' with reference to the Manusmrti just as they use the word Vāsigtham to denote the Vūsisthadharmasūtra (vide Tantra-vārtika pp. 167, 194 and Viśvarūpa on Yāj. III. 245 and 257). Śhaṅkara in his bhāsya on Br. Upanisad I. 4. 17 applies the word . Mānava' to the Manusmrti Mānave ca sarvā pravrttih kūmahetukyeveti' ( referring to Manu 11. 4). Besides, there is hardly any conflict between the views of the Mānavas and the Manusmrti on the point of the number of the vidyās. The Mānavas knew that Anviksiki was counted as a fourth vidyā but said that it was really comprehended in the study of the Vedas. The Manusmști only lays down from whom the vidyās were to be learnt. As regards the number of ministers, we cannot afford to forget that the Manusmrti (7.60 ) allows more ministers than seven or eight. Another explanation also is possible. In the final remodelling of the Manusmrti from its original in verse it is not unlikely that a few changes were made. (V) On the strength of the preser vation of the complete set of the sūtra works of Apastamba on srauta, grbya and dharma (also of Baudhāyana and Hira ụyakesin ), it is urged that the Mānava carana had a sūtia on dharma. The Mānavasrautasūtra ( parts 1-5 edited by Dr. Knauer and the chayana by Miss Gelder at Leipzig in 1921) 
+[^147]: 'त्रयी वार्त्ता दण्डनीतिश्चेति मानवाः । त्रयीविषेपो ह्यन्वीक्षिकीति' कौटिल्य I, 2; 'मन्त्रिपरिषदं द्वादशामात्यान् कुर्वीतेति मानवाः; षोडशेति बार्हस्पत्याः; विंशतिरित्यौशनसाः' कौटिल्य I, 15.
+H. D. —19
 
-147 
 
-sept araf questa la Araar: 1 afartat gairera A 1,2; 'मन्त्रिपरिषदं द्वादशामात्यान कुर्वीतेति मानवाः षोडशेति बार्हस्पत्या Parfaitetaat: ' Para I16. 
-
-146 
 
 History of Dhurmusāstra 
 
