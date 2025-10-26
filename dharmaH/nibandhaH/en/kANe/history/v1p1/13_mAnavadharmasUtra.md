@@ -89,56 +89,44 @@ The fact that, though Gautama and Vasiṣṭha are said to have been specially s
 The foregoing discussion will, it is hoped, induce every impartial critic to endorse the conclusion that, on the materials so far available, the theory that the Mānavadharmasūtra once existed and that the extant Manusmrti is a recast of that sūtra must be held not proved.
 
 [^144]: In No. 644 of Vīrasaṁbāg (1) in the Deccan College there is a fragment of Uśanas where we read:
-
->उरस्कृत्य ... (gap) मनुराह । बाले देशान्तरस्थे चानग्निके वोराच्चाने (?) अनाशकेग्रिप्रवेशे युद्धहते च सद्यः शौचम्.  
-
+उरस्कृत्य ... (gap) मनुराह । बाले देशान्तरस्थे चानग्निके वोराच्चाने (?) अनाशकेग्रिप्रवेशे युद्धहते च सद्यः शौचम्.  
 The words बाले देशान्तरस्थे occur in Manu 5.78 in the same connection.  
 For the rest, compare Manu 5.93 and 5.95.  
 We must probably read:  
-
->देशान्तरस्थे च साग्रिके  
-
+देशान्तरस्थे च साग्रिके  
 No. 191 of A. 1881–82 is another fragment of Uśanas containing the same   passage. Bühler’s mss. read सद्य: शौचनष्टपनिवाभिननिन्दिताचारैने सह संवसेत् and he proposes शौचमिष्टमिति |
 
 [^145]: The words of the Manusmṛti are:
-
->त्रैविद्येम्यस्त्रथी विद्यां दण्डनीतिं च शाश्वतीम् |  
+त्रैविद्येम्यस्त्रथी विद्यां दण्डनीतिं च शाश्वतीम् |  
 आन्वीक्षिकीं चात्मविद्यां वार्तारम्भाश्च लोकत ||  
 
 [^146]: कामन्दक says:
-
->द्वादशेति मनु: प्राह षोडशेनि वृहस्पति: |  
+द्वादशेति मनु: प्राह षोडशेनि वृहस्पति: |  
 उशना विंशतिरिति मन्त्रिणां मन्त्रिमण्डलम् ||
-
 
 [^147]: 'त्रयी वार्त्ता दण्डनीतिश्चेति मानवाः । त्रयीविषेपो ह्यन्वीक्षिकीति' कौटिल्य I, 2; 'मन्त्रिपरिषदं द्वादशामात्यान् कुर्वीतेति मानवाः; षोडशेति बार्हस्पत्याः; विंशतिरित्यौशनसाः' कौटिल्य I, 15.
 H. D. —19
  
 [^148]: 
-> ‘प्रार्कसंस्कारात्प्रमीतानां स्ववंश्यानाममिति स्थितिः ।  
- भागधेयं मनुः प्राह उच्छिष्टो च्छेपणेषु उभे ॥    
-
+‘प्रार्कसंस्कारात्प्रमीतानां स्ववंश्यानाममिति स्थितिः ।  
+भागधेयं मनुः प्राह उच्छिष्टो च्छेपणेषु उभे ॥    
 वसिष्ठ 11. 23. Should we not read स्वदवंश्यानाम्, which would correspond to the word दासवर्गे in Manu?   
- मनु reads 
->'असं स्कृतप्रमीतानां त्यागिनां कुल्योषिणाम् ।   
+मनु reads 
+'असं स्कृतप्रमीतानां त्यागिनां कुल्योषिणाम् ।   
 उच्छिष्टं भागधेयं स्याद् दर्मेषु विकिरश्च यः ॥   
 उच्छेषणं भूमिगतमजिह्मस्थाराठस्य च ।   
 दासवर्गस्य तत्पित्र्ये भागधेयं प्रचक्षते ॥'  
 3.245-246. The close correspondence between Vas. and Manu in ideas and phraseology should be specially marked.    
 
-
 [^149]:  
 वसिष्ठ (23.43) 
->'अह्: प्रातरहर्नक्तमहरेकनयाचितम् ।   
+'अह्: प्रातरहर्नक्तमहरेकनयाचितम् ।   
 अह: पराकं तन्नैकमेवं चतुहरेौ परौ ॥ 
-
->अनुग्रहार्थ विप्राणां मनुर्धर्ममृतां  वरः ।   
+अनुग्रहार्थ विप्राणां मनुर्धर्ममृतां  वरः ।   
 वालवृधातुरेष्वेवं शिशु कृच्छ्रमुवाच ह ॥; 
-
 मनु. 11.245 
->'त्व्यहं प्रातरुग्रहं सायं व्यहमद्यादयाचितम् ।   
+'त्व्यहं प्रातरुग्रहं सायं व्यहमद्यादयाचितम् ।   
 व्यहं परं च नाईनीयात्प्राजापत्यं चरन् द्विजः ॥.
-
 It would be noticed that the शिसकृच्छ्र comes to one-third of the प्राजापत्यकृच्छ्र, as the शिशु चान्द्रायण (मनु. 11. 218) is a milder edition of the चान्द्रायण. The प्रायश्चित्त for minors and women was one-half or one-third of that for adult males (vide बी. ध. सू. II, 1. 51. and आङ्गरसस्मृति verse 33 ); बौ. ध. सू. (II. 1.65) describes the four day's observance as the कृच्छ्र for women, minors, and old men. याज्ञ. III, 319 calls it पादकृच्छ्र. 
 
 [^150]: 'न च मानवादिश्चरणोपलब्धिरस्तीति' p. 18 of विश्वरूप's comment on आचार section.
