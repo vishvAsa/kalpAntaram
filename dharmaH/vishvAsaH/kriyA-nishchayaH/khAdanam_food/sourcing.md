@@ -105,3 +105,6 @@ Double check in restaurants of mAmsAhAri cultures.
 
 इति स्मृतिचन्द्रिका।
 
+## Odd items 
+- Chinese urine eggs: [TW](https://www.youtube.com/watch?time_continue=81&v=X_ppDjKNgBo)
+- Korean Ttongsul - kid feces rice.
