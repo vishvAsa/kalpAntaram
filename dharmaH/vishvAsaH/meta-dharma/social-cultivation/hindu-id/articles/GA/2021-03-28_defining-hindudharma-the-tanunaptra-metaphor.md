@@ -163,4 +163,3 @@ Our view is that, yes, it is possible though we will elaborate this in a sequel.
 The Tānūnaptra metaphor also provides sufficient defence against those who complain that historical processes of assimilation and strategic alliances are necessarily markers of the artificiality of the Hindu identity. Why? Because just like the Devas repeatedly perform sacrifices and may have to renew and update their own Tānūnaptra, our evolving Dharma too is a series of Yajña-s or long Sattra-s, where different pantheons, rituals and sacred spaces meld together, and which requires us to perform the sacred rite of “Tānūnaptra” by committing ourselves to the overarching Hindu identity. Thus, when we commit ourselves to the “Hindu” identity, it is not a mere artificial, survival strategy. It is divine. It is the earthly manifestation of the Tānūnaptra itself.
 
 We end our essay here and will update it in due time.
-
