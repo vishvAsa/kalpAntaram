@@ -8,6 +8,23 @@ title: उपनयनम्
 ### pAncharAtra-Agama
 > the sanatkumAra saMhitA gives two forms of upanayanaM, the vedic form for dvijas and tantric agnimukhaM version for women and shUdras. On recieving that they may perform several rites, but the pA~ncharatric brahmin is still supposed to perform vaidika rites to various deities in addition to the internal pA~ncharatric sacrifices to vedic deities given in the rudra rAtra. - [MT](https://manasataramgini.wordpress.com/2006/03/27/notes-on-early-pancharatra-vaishnavism/)
 
+#### परम-संहिता
+> शूद्रं तु तन्त्रजैर् मन्त्रैर्  
+दासान्तं नाम च स्मृतम् ।  
+उपवीतं च वस्त्रं च  
+गुणमन्त्रेण योजयेत् ॥  
+>
+> उत्तरीयोपवीते च  
+पूजाकाले तु नान्यदा ।  
+न शूद्रस्य परं बीजं  
+जपे ध्याने च कल्पयेत् ॥  
+>
+> न मन्त्रोच्चारणा दोषः  
+कर्मयोगस्य सम्मतः ।  
+तीव्रभक्तो भवेद्यस्तु  
+विद्या धर्मरतः शुचिः ॥
+…
+
 ### shaivAgamas
 kAmikAgama gives adhikAra for upavIta for all 4 varNas, including all shUdras initiated into the shaiva religion.
 
