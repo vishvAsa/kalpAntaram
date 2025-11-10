@@ -1,6 +1,5 @@
 +++
 title = "093 न राज्ञाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -102,4 +101,10 @@ in connection with a sacrificial performance, if a cause for impurity arises, it
 <details><summary>Bühler</summary>
 
 093	The taint of impurity does not fall on kings, and those engaged in the performance of a vow, or of a Sattra; for the (first are) seated on the throne of Indra, and the (last two are) ever pure like Brahman.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सर्वलोकविनयाधानार्थम् आधिपत्यप्रदम् ऐन्द्रस्थानं राज्ञां गुणात् सम्बन्धनोपायेन (?) तस्य सद्यःशौचम् । देवादेवाधिष्ठाने नेतरथा चेति स्तुत्यर्थवादः सद्यःशौचविध्यर्थः । **[२३७]** एवं प्रक्रियाणां सत्रिणां च ब्रह्मभूतत्वाद् इति पूर्ववद् व्याख्येयम् । यतश् चैतद् एवम् अतः –
 </details>

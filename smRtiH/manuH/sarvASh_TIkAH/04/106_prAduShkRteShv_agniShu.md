@@ -1,6 +1,5 @@
 +++
 title = "106 प्रादुष्कृतेष्व् अग्निषु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -78,4 +77,10 @@ not study during the night: if it thunders in the morning they shall not study d
 <details><summary>Bühler</summary>
 
 106	But when lightning and the roar of thunder (are observed) after the sacred fires have been made to blaze, the stoppage shall last as long as the light (of the sun or of the stars is visible); if the remaining (above-named phenomenon, rain, occurs, the reading shall cease), both in the day-time and at night.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अपरस् तु कल्पः । उद्यतेष्व् अग्निषु जुहुयाद् अपि विद्युत्स्तनितशब्दयोर् अन्यतरनिमित्तोपनिपाते ऽपि **सज्योतिः स्याद् अनध्यायः** । दिवैवेत्य् अर्थः । शेषं त्रयस्य प्रकृतस्य **[१८४]** विद्युत्स्तनितवर्षेषु । अत्र श्लोके विद्युत्स्तनितयोर् वर्षं तस्मिन् उपजाते **रात्राव्** अपि **दिवा**नध्यायः स्याद् अथ वा शेषे दृश्यमाने रात्राव् अपीति पूर्वसन्ध्यातो वा पश्चिमसन्ध्याशेषं तत्र भवत्वाद् विद्युत्स्तनितयोर् अपि शेषशब्द एवं च कृत्वा तच्छेषम् अपि गृह्यमाणं रात्राव् अनध्यायं करोति यथा दिवा पूर्वसन्ध्याभवं विद्युत्स्तनितम् इदं च विध्यन्तरक्रमाणाम् इत्य् अयं विकल्पः सर्वस्मिन् अध्यायप्रकरणे ऽनधिकृतो वेदितव्यः । विकल्पलिङ्गानि चात्रैव प्रतिश्लोकं दर्शयिष्यामः ।
 </details>

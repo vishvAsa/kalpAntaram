@@ -1,6 +1,5 @@
 +++
 title = "006 वसीत चर्म"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -68,4 +67,10 @@ suffer the hairs of his head, of his heard and of his body and his nails to grow
 <details><summary>Bühler</summary>
 
 006	Let him wear a skin or a tattered garment; let him bathe in the evening or in the morning; and let him always wear (his hair in) braids, the hair on his body, his beard, and his nails (being unclipped).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इदं नियमेन स्नानं त्रिषवणम् अप्य् अस्य विकल्पेन वक्ष्यति ।
 </details>

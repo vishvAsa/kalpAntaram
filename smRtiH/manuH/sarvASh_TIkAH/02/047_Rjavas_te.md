@@ -1,6 +1,5 @@
 +++
 title = "047 ऋजवस् ते"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -59,4 +58,10 @@ the sacrificial post.’
 <details><summary>Bühler</summary>
 
 047	Let all the staves be straight, without a blemish, handsome to look at, not likely to terrify men, with their bark perfect, unhurt by fire.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ऋजुत्वानुगतो ऽपि सर्वशब्दो ऽव्रणादिदण्डगुणविशेषणार्थो द्रष्टव्यः सामर्थात् ।
 </details>

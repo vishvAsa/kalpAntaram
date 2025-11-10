@@ -1,6 +1,5 @@
 +++
 title = "216 श्व-वतां शौण्डिकानाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,10 @@ the oilsman, the clothes-washer, the woman in her courses, and of the man who ha
 <details><summary>Bühler</summary>
 
 216	By trainers of hunting dogs, publicans, a washerman, a dyer, a pitiless (man), and a man in whose house (lives) a paramour (of his wife),
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कृतव्याख्यान एष श्लोकः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "054 यासान् नाददते"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -43,4 +42,15 @@ ancient lore quote the words of Prācetasa to the effect that in cases where the
 <details><summary>Bühler</summary>
 
 054	When the relatives do not appropriate (for their use) the gratuity (given), it is not a sale; (in that case) the (gift) is only a token of respect and of kindness towards the maidens.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अनेकत्वात् यत् केवलं कन्यार्थं ग्रहणे शुल्कस्य दोषो ऽस्ति ऊर्ध्वदानात् (?) ।
+
+**पितृभिर् भ्रातृभिश् चैताः पतिभिर् देवरैस् तथा ।  
+[१२०]** **पूज्या भूषयितव्याश् च बहुकल्याणम् ईप्सुभिः ॥ ३.५५ ॥**
+
+अन्तरोपदिष्टस्य कन्याधानग्रहणोपायस्तुतिर् इयम् । तस्माद् एव तद्धनं ग्रहीतव्यं निरुपधेन कन्यार्थम् । येन -
 </details>

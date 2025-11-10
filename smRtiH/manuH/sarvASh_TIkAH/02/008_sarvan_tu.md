@@ -1,6 +1,5 @@
 +++
 title = "008 सर्वन् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -84,4 +83,12 @@ remain firm in their own duties.’
 <details><summary>Bühler</summary>
 
 008	But a learned man after fully scrutinising all this with the eye of knowledge, should, in accordance with the authority of the revealed texts, be intent on (the performance of) his duties.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**सर्वं समवेक्ष्येदं** **निखिल**(ं) ? कर्म स्मार्तम् । **निखिल**शब्दः सर्वशब्दस्य मुख्यार्थवादित्वं दर्शयत्य् उभयथा तत्प्रयोजनदर्शनात् (?) । श्लोके (-दर्शनाऌ लोके) तत् समवेक्ष्यम् (क्ष्य?) काल (?) ज्ञानचक्षुषा वेदेन । कथम् । यथावोचाम पूर्वश्लोके । एवं सति **श्रुतिप्रामाण्यतो विद्वान्** जानानो (?) वेदशास्त्रवित् **स्वे स्वे धर्मे** **निविशेत** न पुरुषप्रामाण्यतः । न हि तस्य वेदसम्बन्धम् उक्त्वान्यतः प्रामाण्यं भवितुम् अर्हति । तथा चोक्तम् "विद्वद्भिः सेवितः सद्भिः" (म्ध् २.१) इति । 
+
+> एवं च स्मृतिप्रामाण्ये तत्स्तुत्यर्थम् इदम् उच्यते ।
 </details>

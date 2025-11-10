@@ -1,6 +1,5 @@
 +++
 title = "145 यत्नेन भोजयेच्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -85,4 +84,10 @@ following.\]—‘At the Śrāddha one shall feed the Sāmavedin; at the Vaiśva
 <details><summary>Bühler</summary>
 
 145	Let him (take) pains (to) feed at a Sraddha an adherent of the Rig-veda who has studied one entire (recension of that) Veda, or a follower of the Yagur-veda who has finished one Sakha, or a singer of Samans who (likewise) has completed (the study of an entire recension).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सर्वे एवैते परिसमाप्तवेदाध्ययना नानाप्रकारैः शब्दैर् अभिधीयन्ते । एवं च सति यथा **बह्वृचो वेदपाठगः** एवम् **अध्वर्युः** **शाखान्तर**ग्रहणेन तथैवोच्यते । **छन्दोगं** च **समाप्तिकम्** । त्रिसहस्रविद्यां जानीयाद् यज्ञे ऽपि साध्यात्मविद्यालक्षणविद्ये ते ताः सहस्रवर्त्मना सहस्रेणोपलक्ष्यन्ते सहस्रवर्त्मनः । सामवेदस्य सहस्रस्येमाः साहस्रस् त्रिस्रः सहस्रो विद्या यस्य स त्रिसहस्रविद्यः ।
 </details>

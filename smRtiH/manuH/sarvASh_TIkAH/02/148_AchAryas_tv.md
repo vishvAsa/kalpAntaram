@@ -1,6 +1,5 @@
 +++
 title = "148 आचार्यस् त्व्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ gives him birth in knowledge.’
 <details><summary>Bühler</summary>
 
 148	But that birth which a teacher acquainted with the whole Veda, in accordance with the law, procures for him through the Savitri, is real, exempt from age and death.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रकरणान्तरेणेयम् अन्या प्रकृतार्थस्तुतिः ।
 </details>

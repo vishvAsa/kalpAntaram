@@ -1,6 +1,5 @@
 +++
 title = "244 आ समाप्तेः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -49,4 +48,10 @@ See Comparative notes for [Verse 2.243].
 <details><summary>Bühler</summary>
 
 244	A Brahmana who serves his teacher till the dissolution of his body, reaches forthwith the eternal mansion of Brahman.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+नैष्ठिकस्तुतिर् इयं फलविधिना ।
 </details>

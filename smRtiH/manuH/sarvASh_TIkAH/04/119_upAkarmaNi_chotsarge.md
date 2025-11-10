@@ -1,6 +1,5 @@
 +++
 title = "119 उपाकर्मणि चोत्सर्गे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -57,4 +56,10 @@ and Āṣāḍha.’
 <details><summary>Bühler</summary>
 
 119	On (the occasion of) the Upakarman and (of) the Vedotsarga an omission (of the Veda-study) for three days has been prescribed, but on the Ashtakas and on the last nights of the seasons for a day and a night.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अष्टकास् तु चतस्रश् "चतुरष्टको हेमन्तः" इति वचनात् । यत्यष्टक इत्य् <u>अपरे</u> । **ऋत्वन्त्यासु च रात्रिष्व्** अनध्यायः ।
 </details>

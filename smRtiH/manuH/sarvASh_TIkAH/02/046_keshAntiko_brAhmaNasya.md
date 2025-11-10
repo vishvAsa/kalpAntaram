@@ -1,6 +1,5 @@
 +++
 title = "046 केशान्तिको ब्राह्मणस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -70,4 +69,10 @@ the Mouth.
 <details><summary>Bühler</summary>
 
 046	The staff of a Brahmana shall be made of such length as to reach the end of his hair; that of a Kshatriya, to reach his forehead; (and) that of a Vaisya, to reach (the tip of his) nose.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+दण्डप्रमाणनियमविधिर् अर्थप्राप्तस्य प्रमाणस्यान्तानुपदेशे (?) च क्षत्रियस्य ललाटान्तसम्मितो दण्डः सामर्थाद् द्रष्टव्यः ।
 </details>

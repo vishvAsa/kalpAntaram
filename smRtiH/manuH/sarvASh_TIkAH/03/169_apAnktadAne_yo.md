@@ -1,6 +1,5 @@
 +++
 title = "169 अपाङ्क्तदाने यो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,10 @@ which is eaten by the twice-born men ‘unfit for company’ goes to the Rākṣ
 <details><summary>Bühler</summary>
 
 169	I will fully declare what result the giver obtains after death, if he gives food, destined for the gods or manes, to a man who is unworthy to sit in the company.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अस्य प्रतिषेधस्यायं निन्दार्थवादप्रकरणोपन्यासार्थः श्लोकः ।
 </details>

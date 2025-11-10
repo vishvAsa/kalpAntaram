@@ -1,6 +1,5 @@
 +++
 title = "041 इतरेषु तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -42,4 +41,10 @@ See Comparative notes for [Verse 3.39].
 <details><summary>Bühler</summary>
 
 041	But from the remaining (four) blamable marriages spring sons who are cruel and speakers of untruth, who hate the Veda and the sacred law.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**ब्रह्मद्विषो** वेदाध्ययनद्विषः ब्राह्मणद्विषो वा ब्रह्मब्राह्मणयोर् एकार्थत्वात् । **धर्मस्** तु विहितार्थानुष्ठानदिषः ब्राह्मादिषु स्तुत्यपेक्षम् इदम् औपरिष्टेषु विवाहेषु निन्दावचनम् । इतरथा हि क्षत्रियादिधर्मापेक्षया तद्विधानम् अनर्थकं स्याद् आसुरगान्धर्वयोस् तु ब्राह्मणस्य विकल्पः । उभयशास्त्रानुग्रहाय क्षत्रादीनां च विवाहप्रशंसैषा । एवम् एव शास्त्रचोदना सामर्याद् विज्ञेया । यतश् चैतद् एवम् अतः –
 </details>

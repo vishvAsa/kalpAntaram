@@ -1,6 +1,5 @@
 +++
 title = "202 राजतैर् भाजनैर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -69,4 +68,10 @@ carefully offer into vessels, such as may be available; but specially in those o
 <details><summary>Bühler</summary>
 
 202	Even water offered with faith (to the manes) in vessels made of silver or adorned with silver, produces endless (bliss).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+नियमो राजतानां तु रजतान्वितानां चाथ वाक्षय्यकामस्य राजतानि स्युर् अपर एवं च नैमित्तिकत्वं राजतानां प्राप्नोति । न चैतद् इष्टं संस्तुतिपरत्वाद् अक्षय्यशब्दस्य । अपरे तु दण्डापूपिकया सौवर्णेत्य् अपि पठन्ति, तान्य् अधिकतरफलानीति । तद् अयुक्तम् । न्यायस्य व्यवस्थितत्वाद् अन्यत्र दोषः स्याद् अतो यथाश्रुतकल्पनैव ज्यायसी । परस् तु गुणविधिः ।
 </details>

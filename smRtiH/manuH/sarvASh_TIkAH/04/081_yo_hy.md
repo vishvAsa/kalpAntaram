@@ -1,6 +1,5 @@
 +++
 title = "081 यो ह्य्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ See Comparative notes for [Verse 4.80].
 <details><summary>Bühler</summary>
 
 081	For he who explains the sacred law (to a Sudra) or dictates to him a penance, will sink together with that (man) into the hell (called) Asamvrita.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यदि शूद्रस्यानेन न्यायेनानुज्ञायते धर्मोपदेश एकदावस्थितेर् अस्तु नायम् अपवादो युक्तः । "**सो ऽसंवृतं नाम तमः सह तेनैव गच्छति**" इत्य् अधिकारविरोधाद् युक्तम् एतन् निन्दावचनम् । अतो ऽन्यथोपदेष्टुर् यथाधिकारं धर्मोपदेशस्तुत्यर्थः ।
 </details>

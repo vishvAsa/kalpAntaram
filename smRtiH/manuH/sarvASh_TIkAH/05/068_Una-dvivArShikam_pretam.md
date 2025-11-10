@@ -1,6 +1,5 @@
 +++
 title = "068 ऊन-द्विवार्षिकम् प्रेतम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,10 @@ old, one should smear the body with butter and bury it in the ground.’
 <details><summary>Bühler</summary>
 
 068	A child that has died before the completion of its second year, the relatives shall carry out (of the village), decked (with flowers, and bury it) in pure ground, without collecting the bones (afterwards).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सांवत्सरिकस्य चौलकरणं तृतीये वा । तत्रैवं सति तृतीये संवत्सरे कल्पम् आश्रित्य स्मृत्यन्तराद् अकृतचौलस्येदं ग्रहणं विज्ञेयम् ।
 </details>

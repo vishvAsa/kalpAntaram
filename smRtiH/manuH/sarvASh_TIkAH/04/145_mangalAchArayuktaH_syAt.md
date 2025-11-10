@@ -1,6 +1,5 @@
 +++
 title = "145 मङ्गलाचारयुक्तः स्यात्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -68,4 +67,10 @@ Do. (3. 220).—‘By omitting what has been enjoined, by doing what has been fo
 <details><summary>Bühler</summary>
 
 145	Let him eagerly follow the (customs which are) auspicious and the rule of good conduct, be careful of purity, and control all his organs, let him mutter (prayers) and, untired, daily offer oblations in the fire.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+दुःखस्वप्नदर्शनादिषु यत् क्रियते तदुपघाताय तन्मङ्गलम् अथ वा क्रियमाणम् अभ्युदयाय रोचताम् इति । संस्पर्शः शिरआदीनाम् अक्रियमाणो वा क्रियमाणो वा प्रत्यवाय । यथा तद् एव मङ्गलाचारः सत्यवचनादिः । यदि उक्तौ मङ्गलाचारस् ततो ऽस्य पुनःश्रुतिर् अर्थवादार्था । अथ युक्तस् ततो युक्तम् एवास्य वचनम् अपूर्वविध्यर्थम् । तथा च वक्ष्यति । अथ वा सादनाभावपक्षम् आश्रित्य गृहस्थस्यैतद् उच्यते । आत्मैकसाधनसाध्यम् अपराधीनं क्रमेत्य् अस्य स्तुतिः (?) ।
 </details>

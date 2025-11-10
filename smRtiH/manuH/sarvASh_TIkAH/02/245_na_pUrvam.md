@@ -1,6 +1,5 @@
 +++
 title = "245 न पूर्वम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -82,4 +81,10 @@ syllable,—there is nothing on earth by giving which he would be free from the 
 <details><summary>Bühler</summary>
 
 245	He who knows the sacred law must not present any gift to his teacher before (the Samavartana); but when, with the permission of his teacher, he is about to take the (final) bath, let him procure (a present) for the venerable man according to his ability,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**न पूर्वं गुरवे किञ्चिद् उपकुर्वीत** । दुःखम् उत्पाद्य इति वाक्यशेषः । एवं दुःखम् (?) उत्पाद्याध्ययनप्रतिषेधो ऽयं न [सर्वप्रतिषेधः?] । सर्वप्रतिषेधे तूक्तशास्त्रविरोधाह् स्यात् । अर्थदाध्याप्यो "धर्मार्थौ यत्र न स्याताम्" [म्ध् २.११२] इति च । प्रकरणाच् च शिष्योपदेशो ऽप्य् अयम् विरोधे (?) ऽपि यो ऽप्य् अयम् उपदेशो (?) मन्तव्यः । अथ वापि तद्दानप्रतिषेधो ऽयं गुर्वर्थस्तुत्यर्थः । उक्तसामर्थात् । इदानीं गुर्वर्थं दर्शयति ।
 </details>

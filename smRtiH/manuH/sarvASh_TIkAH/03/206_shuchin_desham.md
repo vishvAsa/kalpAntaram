@@ -1,6 +1,5 @@
 +++
 title = "206 शुचिन् देशम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,10 @@ which is full of living beings, very dry, burnt by fire, where disagreeable and 
 <details><summary>Bühler</summary>
 
 206	Let him smear a pure and secluded place with cowdung, and carefully make it sloping towards the south.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यस्मात्,
 </details>

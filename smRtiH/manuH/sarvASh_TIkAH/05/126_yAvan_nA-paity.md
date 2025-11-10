@@ -1,6 +1,5 @@
 +++
 title = "126 यावन् नाऽपैत्य्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -90,4 +89,10 @@ substance remains on the defiled object, so long must earth and water be constan
 <details><summary>Bühler</summary>
 
 126	As long as the (foul) smell does not leave an (object) defiled by impure substances, and the stain caused by them (does not disappear), so long must earth and water be applied in cleansing (inanimate) things.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सर्वद्रव्याणां शुद्धिवादार्थोपलक्षणार्थम् इदम् उच्यते । सामान्यशौचोपदेशपरं वा शूद्रविषय एवेदं प्रकल्प्यम् । विहितशौचाल्पवादो ऽयं विज्ञेयः । इदानीम् अविज्ञातशुद्धिसम्पर्कद्रव्यहारिणस् तत्सम्बन्धप्रत्यवायप्रतिषेधार्थम् इदम् आरभ्यते ।
 </details>

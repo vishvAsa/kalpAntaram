@@ -1,6 +1,5 @@
 +++
 title = "067 नृणाम् अकृतचूडानाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -94,4 +93,10 @@ years old, the impurity attaches to the parents only.’
 <details><summary>Bühler</summary>
 
 067	(On the death) of children whose tonsure (Kudakarman) has not been performed, the (Sapindas) are declared to become pure in one (day and) night; (on the death) of those who have received the tonsure (but not the initiation, the law) ordains (that) the purification (takes place) after three days.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विशेषविधिर् अयम् अस्य विज्ञेयः । एकाह एव न त्र्यहम् । वर्षाभावे सन्निवृत्तच्**औलकानां** त्र्यहविधिर् एव नेतरे दशाहादयः । प्राग् एवोपनयनान्(?) **निर्वृत्तचौलका** गृह्यन्ते । येषां च संस्कारान्तरप्राप्तिर् उपनयनलक्षणा तेषां व्यपदेशान्तरं जायते, "उपनीता" इति ।
 </details>

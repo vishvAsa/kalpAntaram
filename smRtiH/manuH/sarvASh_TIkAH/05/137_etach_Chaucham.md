@@ -1,6 +1,5 @@
 +++
 title = "137 एतच् छौचम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -39,4 +38,10 @@ is double for students, treble for hermits and quadruple for ascetics.’
 <details><summary>Bühler</summary>
 
 137	Such is the purification ordained for householders; (it shall be) double for students, treble for hermits, but quadruple for ascetics.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+लेपगन्धयोर् अमेध्यद्रव्यस्यापनीतयोर् अपि सङ्ख्या पूरयितव्या । पूर्णायां च सङ्ख्यायां (?) लेपगन्धापकर्षणम् परतः कर्तव्यम् एव, "यावन् नापैत्य् अमेध्याक्तात्" (म्ध् ५.१२६) इति वचनात् । एवम् उभयोर् अपि विध्योर् अर्थवादत्वम् अविरुद्धं भवति ।
 </details>

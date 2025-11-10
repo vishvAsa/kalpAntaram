@@ -1,6 +1,5 @@
 +++
 title = "054 युगपत् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,10 @@ second explanation put forward by Medhātithi;—according to the other explanat
 <details><summary>Bühler</summary>
 
 054	When they are absorbed all at once in that great soul, then he who is the soul of all beings sweetly slumbers, free from all care and occupation.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+हिरण्यगर्भजगदुपसंहारप्रदर्शनप्रसङ्गेनाधुना संसार्यात्मन उत्क्रान्तिं दर्शयति ।
 </details>

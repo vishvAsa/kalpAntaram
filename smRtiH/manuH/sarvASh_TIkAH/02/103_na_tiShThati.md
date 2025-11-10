@@ -1,6 +1,5 @@
 +++
 title = "103 न तिष्ठति"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -61,4 +60,10 @@ observe not the Twilight Prayers,—are wicked and injure the sun.’
 <details><summary>Bühler</summary>
 
 103	But he who does not (worship) standing in the morning, nor sitting in the evening, shall be excluded, just like a Sudra, from all the duties and rights of an Aryan.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अयम् अपरो ऽननुष्ठाननिन्दाद्वारेण सन्ध्योपासनप्रशंसार्थो ऽर्थवादः । विहितार्थानुष्ठाने ऽभिनिवेशदार्ढ्यार्थो लोकवद् वेदितव्यः । ब्रह्मचारिप्रकरणे यच् चान्यस् तद्धर्मः ।
 </details>

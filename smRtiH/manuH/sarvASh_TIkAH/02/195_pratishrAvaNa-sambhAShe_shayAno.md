@@ -1,6 +1,5 @@
 +++
 title = "195 प्रतिश्रावण-सम्भाषे शयानो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,10 @@ seated or lying down, or eating, or with face turned away.’
 <details><summary>Bühler</summary>
 
 195	Let him not answer or converse with (his teacher), reclining on a bed, nor sitting, nor eating, nor standing, nor with an averted face.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+किं तर्हि ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "136 एतत् त्रयम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -46,4 +45,10 @@ See Comparative notes for [Verse 4.135].
 <details><summary>Bühler</summary>
 
 136	Because these three, when treated with disrespect, may utterly destroy him; hence a wise man must never despise them.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+<u>अन्ये</u> ऽप्य् आहुः । त्रयाणाम् अप्य् अदृष्टार्थं सति क्षत्रियसर्पयोः सामर्थ्याद् व्यवस्थितानाम् अबहुश्रुतानाम् अप्य् अयं प्रतिषेधो गम्यते । हीनाङ्गादीनाम् आक्षेपप्रतिषेधाद् उत्तरत्र दण्डापूपिकया क्षत्रियादीनाम् अनाक्षेपः सिद्धः । उत्कृष्टत्वात् तु विशेषप्रतिषेधो ऽयं प्रायश्चित्तविशेषनार्थो वा क्षत्रियादीनां प्रतिषेधः ।
 </details>

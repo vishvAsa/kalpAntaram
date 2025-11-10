@@ -1,6 +1,5 @@
 +++
 title = "035 मरीचिम् अत्र्य्-अङ्गिरसौ"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -28,4 +27,10 @@ These are quoted in Hemādri-Dāna, p. 242, as describing the ‘munis’, sages
 <details><summary>Bühler</summary>
 
 035	Mariki, Atri, Angiras, Pulastya, Pulaha, Kratu, Praketas, Vasishtha, Bhrigu, and Narada.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एते महर्षयो विशेषनामभिर् अभिधीयन्ते । वेशेषप्रक्रियार्थम् ऋषिपूजायाम् एता तन्नामभिर् एते यथो(था) पूज्येरन् । तथा चोक्तं देवर्षिपितृतर्पणम् ।
 </details>

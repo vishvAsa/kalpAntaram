@@ -1,6 +1,5 @@
 +++
 title = "139 त्रिर् आचामेद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -64,4 +63,10 @@ wipe his mouth; he shall never wipe it either with the finger-tips or with the b
 <details><summary>Bühler</summary>
 
 139	Let him who desires bodily purity first sip water three times, and then twice wipe his mouth; but a woman and a Sudra (shall perform each act) once (only).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ब्रह्मचारिप्रकरणे "हृद्गाभिः पूयते विप्रः" (म्ध् २.६२) इत्येवमाद्य् उक्तम् इह **स्त्रीशूद्रा**र्थं पुनर् आरम्भः । एवं च एवोत्तरयोर् (?) उपस्पर्शनयोर् व्यवस्थितविकल्पः सदसच्छूद्रविषयो विज्ञेयः । अनेनैव सच्छूद्रप्रसङ्गेनेदम् अपरं तस्योद्यते ।
 </details>

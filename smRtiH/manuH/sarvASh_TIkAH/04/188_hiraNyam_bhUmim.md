@@ -1,6 +1,5 @@
 +++
 title = "188 हिरण्यम् भूमिम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -39,4 +38,10 @@ an unbaked vessel becomes destroyed through the weakness of the vessel, and the 
 <details><summary>Bühler</summary>
 
 188	But an ignorant (man) who accepts gold, land, a horse, a cow, food, a dress, sesamum-grains, (or) clarified butter, is reduced to ashes like (a piece of) wood.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एतद् द्रव्यविषयो वा । अयं विधिर् उत्पाते तेषां द्रव्याणां निदर्शनार्थत्वाद् वै तेषां ग्रहणस्य सामान्येनेव स्तुत्यर्थः । प्रकृतस्य प्रतिग्रहविधेः । तथा च हिरण्यादिग्रहणं विवक्षितम् अस्य विशेषप्रतिषेधार्थाद् आदरार्थम् अयम् उच्यते ।
 </details>

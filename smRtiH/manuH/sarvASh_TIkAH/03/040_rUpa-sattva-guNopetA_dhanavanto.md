@@ -1,6 +1,5 @@
 +++
 title = "040 रूप-सत्त्व-गुणोपेता धनवन्तो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,10 @@ See Comparative notes for [Verse 3.39].
 <details><summary>Bühler</summary>
 
 040	Endowded with the qualities of beauty and goodness, possessing wealth and fame, obtaining as many enjoyments as they desire and being most righteous, they will live a hundred years.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पदार्थस्वाभाव्यम् एतद् विवाहस्तुतये ऽनूद्यते तच् च शास्त्रं प्रत्यक्षं धर्म्याधर्म्यव्यवस्थाम् अनुवदतो नातिशङ्क्यम् ।
 </details>

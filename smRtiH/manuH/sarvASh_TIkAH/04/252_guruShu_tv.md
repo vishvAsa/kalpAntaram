@@ -1,6 +1,5 @@
 +++
 title = "252 गुरुषु त्व्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -30,4 +29,10 @@ The term, ‘*Teachers*, ‘here includes all *dependants* also.
 <details><summary>Bühler</summary>
 
 252	But if his Gurus are dead, or if he lives separate from them in (another) house, let him, when he seeks a subsistence, accept (presents) from good men alone.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एतस्माच् च गम्यते नायम् आपत्कल्पप्रतिग्रहो ऽत्यन्तासद्भ्यो ऽपि गुर्वादिपूजाप्रयोजन इति । कर्मणा शूद्रस्याभोज्यान्नत्वम् इत्य् उक्तम्, नेतरस्य । "नाद्याच् छूद्रस्य पक्वान्नम्" (म्ध् ४.२२३) इत्य् अत्र श्लोके । इष्यते चानन्यस्यापि भोज्यान्नत्वम्, यत इदम् आरभ्यते अप्राप्तप्रापणार्थम् –
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "061 यदि हि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,10 @@ Parva.\]
 <details><summary>Bühler</summary>
 
 061	For if the wife is not radiant with beauty, she will not attract her husband; but if she has no attractions for him, no children will be born.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+या **स्त्री न रोचेत** सालङ्कारतया नियतम् असौ भर्तारं न प्रमोदयति । **अप्रमोदाच्** च **प्रजनन**हानिः । अतो ऽपरस्य मनश्चक्षुर्निबन्धनी । कन्यालङ्कारस्तुतिर् एवं दानालङ्कारादिभिर् भवत्य् अपरिहार्योपमार्थः । अनुपकारिष्व् अरुचिर् जायत इति । तस्मात् प्रयत्न आस्थेयस् तया सहाग्निहोत्रादिष्व् अरुचिर् मा भूद् इति । अभिमत(?)विवाहसुतिर् इयं तत्सम्बन्धेनेदम् अधुनोच्यत् ।
 </details>

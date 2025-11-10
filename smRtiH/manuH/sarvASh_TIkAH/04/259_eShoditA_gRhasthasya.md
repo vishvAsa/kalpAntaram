@@ -1,6 +1,5 @@
 +++
 title = "259 एषोदिता गृहस्थस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -29,4 +28,10 @@ The addition of the term, ‘*Brāhmaṇa*,’ indicates that the observances la
 <details><summary>Bühler</summary>
 
 259	Thus have been declared the means by which a Brahmana householder must always subsist, and the summary of the ordinances for a Snataka, which cause an increase of holiness and are praiseworthy.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विप्रग्रहणाच् च वृत्तिवत् स्नातकधर्मो ऽपि तस्यैव स्याद् विशेषेण वा तस्य । न तथा क्षत्रियवैश्ययोः ।
 </details>

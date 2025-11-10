@@ -1,6 +1,5 @@
 +++
 title = "121 अभिवादन-शीलस्य नित्यम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -43,4 +42,10 @@ should grasp his right foot with the right hand and the left foot with the left.
 <details><summary>Bühler</summary>
 
 121	He who habitually salutes and constantly pays reverence to the aged obtains an increase of four (things), (viz.) length of life, knowledge, fame, (and) strength.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+श्रेयोनिमित्तस्य स्थाविर्यस्य स्तुतिर् अथ वा सत्स्व् अपि श्रेयोनिमित्तेष्व् अस्यातिथविरेणाभिवाद्य इति गम्यते । "प्रत्युत्थायाभिवादयेत्" (म्ध् २.११९) इत्य् उक्तम् । यतस् तद्विधिर् अयम् एवं वक्तव्यताम् आपन्नः शिष्यते ।
 </details>

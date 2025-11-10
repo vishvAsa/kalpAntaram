@@ -1,6 +1,5 @@
 +++
 title = "034 चतुर्थे मासि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -121,4 +120,10 @@ during the third fortnight.’
 <details><summary>Bühler</summary>
 
 034	In the fourth month the Nishkramana (the first leaving of the house) of the child should be performed, in the sixth month the Annaprasana (first feeding with rice), and optionally (any other) auspicious ceremony required by (the custom of) the family.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+निष्क्रामणान्नप्राशनयोः कृत्स्नस्य विधेर् विशेषशास्त्रे गृह्यस्मृत्या वादिष्टत्वाद् इहाभिधानं सामान्यस्मृतित्वाद् अस्येष्टं मङ्गलम् इत्य् एतत् सर्वस्मिन् संस्कारप्रकरणे ऽधस् चोर्ध्वं च शेषभूतं द्रष्टव्यम् । न केवलम् अत एव हि नामसु दत्तादयः परिग्राह्या (?) अन्यच् च कुलधर्मा हि शास्त्राविरुद्धा सिद्धा भवन्ति ।
 </details>

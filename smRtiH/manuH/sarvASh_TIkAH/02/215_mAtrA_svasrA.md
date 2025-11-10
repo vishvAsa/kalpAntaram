@@ -1,6 +1,5 @@
 +++
 title = "215 मात्रा स्वस्रा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -29,4 +28,10 @@ See Comparative notes for [Verse 2.213].
 <details><summary>Bühler</summary>
 
 215	One should not sit in a lonely place with one's mother, sister, or daughter; for the senses are powerful, and master even a learned man.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एतस्माद् एव कारणात् दूरस्थः ।
 </details>

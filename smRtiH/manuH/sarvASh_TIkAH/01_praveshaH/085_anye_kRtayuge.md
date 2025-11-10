@@ -1,6 +1,5 @@
 +++
 title = "085 अन्ये कृतयुगे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -53,4 +52,10 @@ See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 <details><summary>Bühler</summary>
 
 085	One set of duties (is prescribed) for men in the Krita age, different ones in the Treta and in the Dvapara, and (again) another (set) in the Kali, in a proportion as (those) ages decrease in length.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+युगह्रासानुरू [२० अक्ष् मिस्सिन्ग्] र्थो ऽनुवदम् इदम् अन्यद् युगस्वभावानुविधानं प्रकरणे तद्धर्माणां तदनुविधानं वक्तव्यताम् अपं(?) न शिष्यते ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "134 ज्ञाननिष्ठा द्विजाः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -82,4 +81,10 @@ the performance of their duties, devoted to austerities, and devoted to parents,
 <details><summary>Bühler</summary>
 
 134	Some Brahmanas are devoted to (the pursuit of) knowledge, and others to (the performance of) austerities; some to austerities and to the recitation of the Veda, and others to (the performance of) sacred rites.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+हव्यकव्यतयोर् (?) दानविभागार्थम् । तथा चाह ।
 </details>

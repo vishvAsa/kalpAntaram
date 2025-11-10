@@ -1,6 +1,5 @@
 +++
 title = "248 एतेष्व् अविद्यमानेषु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -91,4 +90,10 @@ upon the Fire.
 <details><summary>Bühler</summary>
 
 248	Should none of these be alive, he must serve the sacred fire, standing (by day) and sitting (during the night), and thus finish his life.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+नैष्ठिकब्रह्मचर्यविध्यर्थाव् इमौ श्लोकौ ।
 </details>

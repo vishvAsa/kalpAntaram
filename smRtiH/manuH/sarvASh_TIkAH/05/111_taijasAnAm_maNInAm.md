@@ -1,6 +1,5 @@
 +++
 title = "111 तैजसानाम् मणीनाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -235,4 +234,10 @@ by being scrubbed with stone,’
 <details><summary>Bühler</summary>
 
 111	The wise ordain that all (objects) made of metal, gems, and anything made of stone are to be cleansed with ashes, earth, and water.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अत्र मृद्भस्मनोर् विकल्पितयोर् अद्भिः सह समुच्चयः ।
 </details>

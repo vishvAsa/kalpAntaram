@@ -1,6 +1,5 @@
 +++
 title = "196 अधो-दृष्टिर् नैष्कृतिकः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,10 @@ See Comparative notes for [Verse 4.195].
 <details><summary>Bühler</summary>
 
 196	That Brahmana, who with downcast look, of a cruel disposition, is solely intent on attaining his own ends, dishonest and falsely gentle, is one who acts like a heron.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+असद्ब्राह्मणनिन्दार्थम् अस्योपाना (?) यद्य् अपि किञ्चिद् अत्र पूर्वश्लोकेन पुनर् उक्तं स्यात् तथापि तद् अविवक्षितं विज्ञेयम् । यस्मान् न ह्य् अनेन किञ्चिद् विधीयते प्रतिषिध्यते वेत्य् एवं च सति ।
 </details>

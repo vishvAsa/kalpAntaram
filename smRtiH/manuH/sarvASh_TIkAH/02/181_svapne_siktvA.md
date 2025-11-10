@@ -1,6 +1,5 @@
 +++
 title = "181 स्वप्ने सिक्त्वा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -57,4 +56,10 @@ semen during a dream shall bathe, look at the Sun and repeat the Gāyatrī a hun
 <details><summary>Bühler</summary>
 
 181	A twice-born student, who has involuntarily wasted his manly strength during sleep, must bathe, worship the sun, and afterwards thrice mutter the Rik-verse (which begins), 'Again let my strength return to me.'
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**ब्रह्मचारि**ग्रहणं प्रकरणाच् च तस्यैवेदम् । व्यतिक्रमे प्रायश्चित्तं नेतरेषाम् । नियमास् तु तस्य –
 </details>

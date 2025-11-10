@@ -1,6 +1,5 @@
 +++
 title = "250 श्राद्धभुग् वृषलीतल्पम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,10 @@ Veda, or enters the bed of a woman (the rest as in Manu).’
 <details><summary>Bühler</summary>
 
 250	If the partaker of a Sraddha (-dinner) enters on the same day the bed of a Sudra female, the manes of his (ancestors) will lie during that month in her ordure.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+व्यतिक्रमनिन्दा अनतिक्रमस्तुयर्था । वृषली च व्याख्याता ।
 </details>

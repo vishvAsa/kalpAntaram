@@ -1,6 +1,5 @@
 +++
 title = "095 श्रावण्याम् प्रौष्ठपद्याम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -97,4 +96,10 @@ the fullmoon day of Bhādra, under the asterism of Hastā.’
 <details><summary>Bühler</summary>
 
 095	Having performed the Upakarman according to the prescribed rule on (the full moon of the month) Sravana, or on that of Praushthapada (Bhadrapada), a Brahmana shall diligently study the Vedas during four months and a half.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अयम् उपकरणविधिर् युक्तः । प्रयत्नवान् **विप्र**ग्रहणाच् च क्षत्रियवैश्ययोर् निवृत्तिमात्रं दर्शयत्य् **अर्धपञ्चमान्** इति चोभयत्र ज्ञेयम् । व्यवस्थितविकल्पश् चायम् अध्वर्यूनां **श्रावण्याम्** उपाकर्म **प्रौष्ठपद्यां** छन्दोगानाम् ।
 </details>

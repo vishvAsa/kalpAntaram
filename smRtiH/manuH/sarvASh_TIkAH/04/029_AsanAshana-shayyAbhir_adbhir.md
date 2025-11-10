@@ -1,6 +1,5 @@
 +++
 title = "029 आसनाशन-शय्याभिर् अद्भिर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,10 @@ himself alone; one shall not needlessly kill animals;—no Brāhmaṇa should re
 <details><summary>Bühler</summary>
 
 029	No guest must stay in his house without being honoured, according to his ability, with a seat, food, a couch, water, or roots and fruits.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पाषण्डापवादार्थम् अतीतार्थस्य पुनर्वचनम् । अतस् तत्प्रतिषेधार्थम् इदम् आरभ्यते ।
 </details>

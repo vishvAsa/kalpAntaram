@@ -1,6 +1,5 @@
 +++
 title = "152 चिकित्सकान् देवलकान्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -61,4 +60,10 @@ See Comparative notes for [Verse 3.150].
 <details><summary>Bühler</summary>
 
 152	Physicians, temple-priests, sellers of meat, and those who subsist by shop-keeping must be avoided at sacrifices offered to the gods and to the manes.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**चिकित्सकदेवलकयोः** पृथक्प्रतिषेधस्यार्थवत्त्वाय जीविकासम्बन्धेन (?) प्रतिषेधः सामर्थ्याद् विज्ञायते । **मांसविक्रयिणश्** च सकृद् अपि ये भवन्ति "सद्यः पतन्ति मांसेन" (म्ध् १०.९२) इति वचनात् । तस्माद् अन्येन पण्येन लघुनाप्य् अभ्यस्तविक्रयेण जीवन्तो वर्ज्याः स्युर् उभयत्र ।
 </details>

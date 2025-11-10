@@ -1,6 +1,5 @@
 +++
 title = "113 नीहारे बाणशब्दे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -68,4 +67,10 @@ days of the months of Kārtika, Phālguna and Āṣāḍha.’
 <details><summary>Bühler</summary>
 
 113	Nor during a fog, nor while the sound of arrows is audible, nor during both the twilights, nor on the new-moon day, nor on the fourteenth and the eighth (days of each half-month), nor on the full-moon day.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**बाणो** वीणा, "बाणं वितन्वति (वादयति?)" इति प्रयोगदर्शनाच् छास्त्रान्तरे ऽपि चान्यातोद्यसाहचर्याद् **बाणो** विणा । भेरीमृदङ्गगर्त्तार्त्तशब्देष्व् (??) इति वचनाद् आतोद्यशब्दोपलक्षणपरं वैतद् बाणग्रहणम् । न स्वार्थम् एतत् तृचाष्टकाग्रहणम् अष्टमीनवम्यर्थम् अमावास्यादिसाहचर्यात् । एवं च सत्य् अष्टकादिष्व् अहोरात्रम् इत्य् एतद् अर्थवद् भवति ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "188 निमन्त्रितो द्विजः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -65,4 +64,10 @@ Brāhmaṇa accept a gift, or if he eat at the Śrāddha after having taken his 
 <details><summary>Bühler</summary>
 
 188	A Brahmana who has been invited to a (rite) in honour of the manes shall always control himself and not recite the Veda, and he who performs the Sraddha (must act in the same manner).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अतश् च युक्तम् अनागतनिमन्त्रणं श्राद्धभुजां तदहोरात्रं ब्रह्मचर्योपदेशार्थम् इदं **पित्र्ये** नियमो ब्रह्मचर्यस्य । दैवत्ववचनाच् छन्दोऽनध्ययनं च पित्र्यर्थं निमन्त्रितस्य प्रकरणात् तदवस्थानलिङ्गाच् च छन्दोग्रहणं ब्राह्मणार्थम् अपि सदा दातर्य् अपि चैतत् समानस्यार्थवादः ।
 </details>

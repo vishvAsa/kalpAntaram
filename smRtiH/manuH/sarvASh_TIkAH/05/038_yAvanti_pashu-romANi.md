@@ -1,6 +1,5 @@
 +++
 title = "038 यावन्ति पशु-रोमाणि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -42,4 +41,10 @@ dwells in hell for as many days as there are hairs on the animal’s body.’
 <details><summary>Bühler</summary>
 
 038	As many hairs as the slain beast has, so often indeed will he who killed it without a (lawful) reason suffer a violent death in future births.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+न त्व् अयं दोषश् छागादीनां यज्ञवधे (?) यस्माद् –
 </details>

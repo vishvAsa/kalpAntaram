@@ -1,6 +1,5 @@
 +++
 title = "042 मौञ्जी त्रिवृत्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -67,4 +66,10 @@ grass.’
 <details><summary>Bühler</summary>
 
 042	The girdle of a Brahmana shall consist of a of a triple cord of Munga grass, smooth and soft; (that) of a Kshatriya, of a bowstring, made of Murva fibres; (that) of a Vaisya, of hempen threads.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**मौञ्ज्या** इत्य् एतद् विशेषणं **त्रिवृत्** त्रिगुणा **समा** समगुणा । **श्लक्ष्णा** परिघर्षणतनुत्वगुणा । क्षत्रियमेखलाविशेषणार्थं **ज्या**ग्रहनम् । एवं च ब्राह्मणमेखलागुणत्रिवृत्त्वं नास्त्य् अत्र विरोधाद् वैश्यम् एव बलागुणानाम् अविरोधात् सम्भवस् त्रिवृदादीनाम् (?) ।
 </details>

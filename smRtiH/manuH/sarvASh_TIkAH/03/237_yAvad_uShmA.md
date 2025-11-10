@@ -1,6 +1,5 @@
 +++
 title = "237 यावद् उष्मा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -39,4 +38,10 @@ See Comparative notes for [Verse 3.236].
 <details><summary>Bühler</summary>
 
 237	As long as the food remains warm, as long as they eat in silence, as long as the qualities of the food are not proclaimed, so long the manes partake (of it).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विध्यर्था स्तुतिर् ऊष्मादीनाम् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "079 सहस्रकृत्वस् त्व्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -117,4 +116,10 @@ See Comparative notes for [Verse 2.78].
 <details><summary>Bühler</summary>
 
 079	A twice-born man who (daily) repeats those three one thousand times outside (the village), will be freed after a month even from great guilt, as a snake from its slough.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रकृताद् अभ्यासकालात् **बहिः** प्रायश्चित्तानुवादो ऽयम् अधिकृतविधिस्तुत्यर्थ एव । तद् उक्तत्वाच् च न बहिस्सन्ध्योपासनस्तुतिर् इयं प्रायश्चित्तविधिर् वा, अप्रकरणात् तस्य । इयम् अपरा स्तुतिः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "170 अधार्मिको नरो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -29,4 +28,18 @@ Such a man does not obtain happiness in this world.—(170).
 <details><summary>Bühler</summary>
 
 170	Neither a man who (lives) unrighteously, nor he who (acquires) wealth (by telling) falsehoods, nor he who always delights in doing injury, ever attain happiness in this world.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं च सति –
+
+**न सीदन्न् अपि धर्मेण**
+
+व्यवस्थारूपेणात्मसङ्कोचाख्येन 
+
+> **मनो ऽधर्मे निवेशयेत् ।**
+
+शास्त्रव्यवस्थाभङ्गरूपे । कस्य हेतोः –
 </details>

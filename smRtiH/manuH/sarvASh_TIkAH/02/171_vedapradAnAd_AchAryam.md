@@ -1,6 +1,5 @@
 +++
 title = "171 वेदप्रदानाद् आचार्यम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -74,4 +73,14 @@ actions of the boy.’
 <details><summary>Bühler</summary>
 
 171	They call the teacher (the pupil's) father because he gives the Veda; for nobody can perform a (sacred) rite before the investiture with the girdle of Munga grass.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अध्ययनादि । सैषा प्रकृतार्थस्तुतिर् अपरेण प्रकारेण । तथा चेदम् आह – स्वधाभिर् व्याहारप्रतिप्रसवार्थम् एव प्रति सत् (एवं सति तत् – ?) ।
+
+**नाभिव्याहारयेद् ब्रह्म स्वधानिनयनाद् ऋते ।**
+
+नीयते ऽनेन पित्र्ये कर्मण्य् उदयादि तत्साधनम् इति **निनयनं** **स्वधा**शब्द एवं च मन्त्रो ऽसौ प्रतिप्रसवसामर्थ्यात् गम्यते । तथा च कृत्वायम् उदितानुवादः क्रियते विहितार्थस्तुत्यै ।
 </details>

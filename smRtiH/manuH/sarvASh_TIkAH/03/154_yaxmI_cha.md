@@ -1,6 +1,5 @@
 +++
 title = "154 यक्ष्मी च"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -83,4 +82,10 @@ See Comparative notes for [Verse 3.150].
 <details><summary>Bühler</summary>
 
 154	One suffering from consumption, one who subsists by tending cattle, a younger brother who marries or kindles the sacred fire before the elder, one who neglects the five great sacrifices, an enemy of the Brahmana race, an elder brother who marries or kindles the sacred fire after the younger, and one who belongs to a company or corporation,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**यक्ष्मी** क्षयी । **पशुपालस्या**जीवसम्बन्धेन प्रतिषेधः । आपुरस् (अपरस्?) तत्र पाथो (पाठो?) **गोरक्षः पशुपालश् चेति** । स च गोबलीवर्दन्यायेन व्याख्येयः । **परिवेत्तारं परिवित्तिं** च वक्ष्यति । **निराकृतिर्** निराकर्ता देवर्षिमनुष्याणाम् । अनद्धा पुरुषः अननुजीव्य इत्य् अर्थः । तथा च वाजसनेयिनां श्रुतिः- "अद्धाभवा येषां पुरुषो ये देवन् न (?) नमति पितॄन् न मनुष्यान्" । गौतमश् च प्रायश्चित्तम् अस्याह- "अग्न्युत्सादिनिराकृत्युपपातकेषु (?) चैवम्" (ग्ध् २२.३४) इति । **ब्रह्मद्विट्** ब्राह्मणद्विट् (?) ब्रह्मब्राह्मणशब्दयोर् एकर्थत्वात् । तथा च शिष्टप्रयोगः- "कुतो न पठसि ब्राह्मण" इति । शब्दद्विषस् तूत्तरत्र विधानाद् "वेदनिन्दक एव च" (म्ध् ३.१६१) इति । **गणाभ्यन्तरस्** तु गणसमयमध्यगः । अथ वा नानाजातीया नियमवृत्तयः उत्सेधजीविनः सङ्घा गणास् तदभ्यन्तरो वा ।
 </details>

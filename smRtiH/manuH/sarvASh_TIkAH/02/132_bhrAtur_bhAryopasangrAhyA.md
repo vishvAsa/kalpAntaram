@@ -1,6 +1,5 @@
 +++
 title = "132 भ्रातुर् भार्योपसङ्ग्राह्या"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -40,4 +39,10 @@ mother-in-law, there should be no clasping of the feet.’
 <details><summary>Bühler</summary>
 
 132	(The feet of the) wife of one's brother, if she be of the same caste (varna), must be clasped every day; but (the feet of) wives of (other) paternal and maternal relatives need only be embraced on one's return from a journey.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**ज्ञातियोषित्**सन्निधौ **भ्रातृ**शब्दो ऽयम् एकमातृकम् । सन्दर्भान्तरं दर्शयति । **भ्रातुर् भार्योपसङ्ग्राह्या** पादयोः । स्मृत्यन्तरसमाचाराभ्यां गुरुप्रकरणे ऽप्य् (?) अज्येष्ठस्य भ्रातुस् तद्विशेषणं **सर्वर्णाहन्य् अह्न्य् अपि** प्रोषितं प्रत्यागतेन च **ज्ञातिसम्बन्धियोषितस्** तु प्रोषितं प्रत्यागतेनैव प्रत्युत्थानाभिवादनं इति विकल्पकत्वान् नित्यम् ।
 </details>

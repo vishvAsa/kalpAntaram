@@ -1,6 +1,5 @@
 +++
 title = "141 नोच्छिष्टङ् कुर्वते"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -83,4 +82,10 @@ should be regarded as the teeth; and he should not make much effort to take it o
 <details><summary>Bühler</summary>
 
 141	Drops (of water) from the mouth which do not fall on a limb, do not make (a man) impure, nor the hair of the moustache entering the mouth, nor what adheres to the teeth.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+शास्त्रप्राप्तस्य प्रतिषेधः । <u>अगन्नयान्त्ययातान्य् आस्यं</u> (अङ्गे पतन्ति गतान्य् आस्यम्??) इत्य् अयं च प्रतिषेधप्रतिप्रसवः । **दन्तान्तरधिष्ठितस्य** स्मृत्यन्तरे जिह्वाभिमर्शनं प्रच्यवनविशिरणान्वितानि च प्रमाणम् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "164 व्यभिचारात् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,10 @@ See Comparative notes for [Verse 5.154].
 <details><summary>Bühler</summary>
 
 164	By violating her duty towards her husband, a wife is disgraced in this world, (after death) she enters the womb of a jackal, and is tormented by diseases (the punishment of) her sin.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+येनातो नातिचरेद् भर्तारं दृष्टफललोभेन । तथा च दर्शयति –
 </details>

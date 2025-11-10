@@ -1,6 +1,5 @@
 +++
 title = "074 जपो ऽहुतो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,14 @@ See Comparative notes for [Verse 3.73].
 <details><summary>Bühler</summary>
 
 074	Ahuta (not offered in the fire) is the muttering (of Vedic texts), Huta the burnt oblation (offered to the gods), Prahuta (offered by scattering it on the ground) the Bali offering given to the Bhutas, Brahmya-huta (offered in the digestive fire of Brahmanas), the respectful reception of Brahmana (guests), and Prasita (eaten) the (daily oblation to the manes, called) Tarpana.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**जप** इति । ब्रह्मयज्ञः प्रकरणात् । स वाक्यम् (?) इति अभिधीयते । अग्नौ **होमो** भूतः स एव देवयज्ञ इत्य् उक्तः । बलिहरणं **प्रहुतं** स एव भूतयज्ञो ऽभिहितः । ब्राह्मणाय दानं **ब्राह्म्यं हुतं** **द्विजाग्र्यार्चा** सा एवातिथिपूजोक्ता । **प्राशितं** **पितृतर्पणम्** उदकदानादि श्राद्धम् । एवं त एव वैश्वदेवकाः पञ्चमहायज्ञाः पाकयज्ञशब्देन अभिधीयते । प्रयोजनम् अस्यैवं रूपाः । अन्ये ऽपि ग्राह्या विधयः (?) पाकशब्दे गृह्येरन् । पाकयज्ञविधिप्राप्त्यर्थम् इत्य् असाधनो ऽपि त्रयं गृहस्थो यत्नतः । 
+
+**स्वाध्याये नित्ययुक्तः स्याद् दैवे चैवेह कर्मणि ।**
+
+अस्य प्रयोजनं सर्वजगद्ग्रहणं दर्शयति गृहस्थस्य ।
 </details>

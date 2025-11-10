@@ -1,6 +1,5 @@
 +++
 title = "192 शरीरञ् चैव"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -47,4 +46,10 @@ free, he should request the teacher with the words, *Teach*,
 <details><summary>Bühler</summary>
 
 192	Controlling his body, his speech, his organs (of sense), and his mind, let him stand with joined hands, looking at the face of his teacher.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अयम् अध्ययनकाले ऽन्यदा च गुरुसन्निधौ विधिः । अयं चान्यस् तत्कालः (?) ।
 </details>

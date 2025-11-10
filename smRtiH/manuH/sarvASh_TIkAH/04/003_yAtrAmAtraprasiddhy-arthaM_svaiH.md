@@ -1,6 +1,5 @@
 +++
 title = "003 यात्रामात्रप्रसिद्ध्य्-अर्थं स्वैः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -49,4 +48,10 @@ Or, what is meant is that, even though a certain means of accumulating wealth ma
 <details><summary>Bühler</summary>
 
 003	For the purpose of gaining bare subsistence, let him accumulate property by (following those) irreproachable occupations (which are prescribed for) his (caste), without (unduly) fatiguing his body.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**अक्लेशेन शरीरस्य** यात्राप्रमाणो **धनसञ्चयः** कार्यो नाधिकृतनियम उच्यते । शास्त्रोक्तयात्राप्रमाणत्वं च कर्तव्यं यावान् नित्यकर्मावच्छित्यै पुत्रदारस्थित्यै धनसञ्चयः कल्प्यते, तावान् एवास्य स्यान् न ततो ऽधिकः । केन । **स्वैः कर्मभिर् अगर्हितैः** । स्वैः शास्त्रवद्भिर् (?) इत्य् अर्थः । यस्माद् उच्यते –
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "225 आचार्यश् च"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -49,4 +48,10 @@ Mother and the Ācārya;—one should ever attend upon these;—one should do wh
 <details><summary>Bühler</summary>
 
 225	The teacher, the father, the mother, and an elder brother must not be treated with disrespect, especially by a Brahmana, though one be grievously offended (by them).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ब्रह्मचारिणाम् उपदिष्टो ऽप्य् अयं धर्मः सामर्थ्याद् इतरेषाम् अपि द्रष्टव्यः । तथा च लिङ्गानि वक्ष्यति । नावमन्तव्या इत्य् अस्य विधेः स्तुत्यर्थम् इदम् आरभ्यते । यस्मात् (?) ।
 </details>

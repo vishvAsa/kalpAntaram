@@ -1,6 +1,5 @@
 +++
 title = "225 तान् प्रजापतिर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -42,4 +41,10 @@ See Comparative notes for [Verse 4.224].
 <details><summary>Bühler</summary>
 
 225	The Lord of created beings (Pragapati) came and spake to them, 'Do not make that equal, which is unequal. The food of that liberal (usurer) is purified by faith; (that of the) of the) other (man) is defiled by a want of faith.'
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उभयोर् अपि प्रतिषिद्धत्वाद् अनाद्यं श्रद्दास्तुत्यर्थत्वान् नावदान्यप्रतिप्रसवः । अथ त्व् अर्थवादलिङ्गाद् वेति (?) तदनुमात्रं शक्यं ततो भवति अर्थवादान् न प्रतिप्रसवः । यस्माच् च श्रद्धाविरहितम् अन्नं श्रोत्रियस्याप्य् अशुचिर् भवति तस्मात् ।
 </details>

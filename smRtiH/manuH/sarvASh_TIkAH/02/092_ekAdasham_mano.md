@@ -1,6 +1,5 @@
 +++
 title = "092 एकादशम् मनो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -39,4 +38,10 @@ See Comparative notes for [Verse 2.89].
 <details><summary>Bühler</summary>
 
 092	Know that the internal organ (manas) is the eleventh, which by its quality belongs to both (sets); when that has been subdued, both those sets of five have been conquered.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+स्वगणो मनसः सङ्कल्पः । केन्**ओभयात्मकम्** । शुभाशुभसङ्कल्पस्य इन्द्रियप्रवृत्तिहेतोः कारणम्, अथ च, इन्द्रियप्रवृत्तिहेतोः सङ्कल्पद्वयस्य कारणम् **उभयात्मकम्** । एवं कृत्वेदम् आदरार्थम् उच्यते । **यस्मिन् जिते जिताव् एतौ भवतः पञ्चकौ गणौ** । इन्द्रियाणां संयमप्रयोजनम् उदितम् । अधुनार्थवादार्थम् उच्यते । तद् उभयथा यस्मात्,
 </details>

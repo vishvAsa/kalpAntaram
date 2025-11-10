@@ -1,6 +1,5 @@
 +++
 title = "222 आचम्य प्रयतो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,10 @@ Evening one, seated; the former while stars are visible, the latter before the s
 <details><summary>Bühler</summary>
 
 222	Purified by sipping water, he shall daily worship during both twilights with a concentrated mind in a pure place, muttering the prescribed text according to the rule.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रकरणान् नियमगौरवार्थ एवायं सन्ध्योपासनस्य पुनर् उपदेशः उपसंहारो वायं प्रकरणान्ते स्तुतिरूपः सन्ध्य्पासननियमस्यानुष्ठानादरार्थः । बहिर्ग्रामदेशगणविधिसम्बन्धेन वा इदम् अस्य पुनर् अभिधानम् आश्रमब्रह्मचर्यार्थम् । तथा चोक्तम् अत्र- "**शुचौ देशे जपञ् जप्यम् उपासीत यथाविधि**" इति । वेदग्रहणं ब्रह्मचारिण एव वा वयोविभागेन सामथ्यपिक्षया (सामर्थ्यापेक्षया?) तपोविशेषार्थं सन्ध्योपासनोपदेशः ।
 </details>

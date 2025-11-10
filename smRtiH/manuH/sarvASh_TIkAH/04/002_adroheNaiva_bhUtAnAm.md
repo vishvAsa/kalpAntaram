@@ -1,6 +1,5 @@
 +++
 title = "002 अद्रोहेणैव भूतानाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -77,4 +76,10 @@ prescribed for him, marrying in families not belonging to the same Ṛṣi-gotra
 <details><summary>Bühler</summary>
 
 002	A Brahmana must seek a means of subsistence which either causes no, or at least little pain (to others), and live (by that) except in times of distress.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+"मैत्रो ब्राह्मण उच्यते" (म्ध् ११.३५) इति एतस्माद् अल्पद्रोहाभ्यनुज्ञानम् अप्य् अयुक्तम् । यतो ऽस्मात् सामर्थाद् इयान् द्रोह उपरोधार्थं कल्पते च हिंसायाम् । एवं च सत्य् अनुपरोधेन भूतानां प्रथमं प्रवर्तितव्यं सर्ववृत्तिषु वक्ष्यमाणासु सर्वार्थत्वाद् अस्य विधेर् उदाहरणम् अयाचितलाभस् तदभावोल्पापराधेनायाचितलाभेनैव सर्ववृत्तिष्व् एतद् विज्ञेयम् । एवं च (?) पुत्रदाराच् च त्ययप्राप्तिः (??) धर्मसङ्ग्रहश् च । तद्विपर्ययस् त्व् अनापत्तिः स्याद् **अनापदीत्य्** एतद् विसेषणम् अस्मिन् वृत्तिप्रकरणे ऽधिकारार्थं जीवन्न् अपि चैवम् ।
 </details>

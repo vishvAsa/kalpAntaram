@@ -1,6 +1,5 @@
 +++
 title = "070 अध्यापनम् ब्रह्मयज्ञः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -131,4 +130,10 @@ first is accomplished by the water-libation; the Sacrifice to Gods is accomplish
 <details><summary>Bühler</summary>
 
 070	Teaching (and studying) is the sacrifice (offered) to Brahman, the (offerings of water and food called) Tarpana the sacrifice to the manes, the burnt oblation the sacrifice offered to the gods, the Bali offering that offered to the Bhutas, and the hospitable reception of guests the offering to men.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**अध्यापन**शब्देनाध्ययनं **ब्रह्मयज्ञो** गृह्यते गुणवृत्त्यापि । पितृभ्यो दानं **तर्पणं** **पितृयज्ञः** । अन्नहोमो देवयज्ञस् ततो ऽन्यत्र बलिहरणं भूतयज्ञः । अतिथिभ्यो ऽन्नदानं मनुष्ययज्ञः । एते ब्रह्मयज्ञादयः प्रकरणात् तद् वैश्वदेविकाः ।
 </details>

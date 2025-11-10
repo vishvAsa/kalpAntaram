@@ -1,6 +1,5 @@
 +++
 title = "256 दर्भाः पवित्रम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -49,4 +48,10 @@ Kuśa-Grass, the sanctificatory texts, the forenoon, all kinds of sacrificial fo
 <details><summary>Bühler</summary>
 
 256	Know that Kusa grass, purificatory (texts), the morning, sacrificial viands of all kinds, and those means of purification, mentioned above, are blessings at a sacrifice to the gods.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अग्रदर्भादया एव कर्म सम्पदं ते दैवे कर्मणि कार्याः । सम्पच्छब्दाच् च विकल्पो ऽनुमीयते ।
 </details>

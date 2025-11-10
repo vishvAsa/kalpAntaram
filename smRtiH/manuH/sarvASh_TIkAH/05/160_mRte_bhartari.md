@@ -1,6 +1,5 @@
 +++
 title = "160 मृते भर्तरि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,10 @@ See Comparative notes for [Verse 5.154].
 <details><summary>Bühler</summary>
 
 160	A virtuous wife who after the death of her husband constantly remains chaste, reaches heaven, though she have no son, just like those chaste men.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवम् एव प्रतिषेधं विदित्वापि –
 </details>

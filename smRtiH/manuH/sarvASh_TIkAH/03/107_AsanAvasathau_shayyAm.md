@@ -1,6 +1,5 @@
 +++
 title = "107 आसनावसथौ शय्याम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -66,4 +65,10 @@ warm welcome and honour him with the offering of water and seat and also with wa
 <details><summary>Bühler</summary>
 
 107	Let him offer (to his guests) seats, rooms, beds, attendance on departure and honour (while they stay), to the most distinguished in the best form, to the lower ones in a lower form, to equals in an equal manner.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रकरणाद् अतिथीनाम् एव हीनोत्तमानाम् आत्मनः स्याद् अनुवृत्तिगुणानुरूपम् उच्यते भोजनातिरेकिणः ।
 </details>

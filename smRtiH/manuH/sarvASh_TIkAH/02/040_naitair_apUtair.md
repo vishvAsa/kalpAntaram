@@ -1,6 +1,5 @@
 +++
 title = "040 नैतैर् अपूतैर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -85,4 +84,12 @@ Vedic (tutorial), or marital or commercial,—should he ever held with them by a
 <details><summary>Bühler</summary>
 
 040	With such men, if they have not been purified according to the rule, let no Brahmana ever, even in times of distress, form a connexion either through the Veda or by marriage.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+श्रौतेन स्मार्तेन वा प्रायश्चित्तेन वापि ब्राह्मणानां च **सम्बन्धेनाचरेद् ब्राह्मणैः सह** । समाचरन् (?) । ब्राह्मणपदेन (?) सम्बन्धग्रहणम् । प्रतिग्रहो जननादि(?)सम्बन्धप्रदर्शनार्थम् अपि स्यात् । 
+
+उक्तो ब्राह्मणादीनाम् उपनयनकालः । साम्प्रतं सम्बन्धनद्रव्याकृतिनियमव्याख्यापयिषयेदम् (?) आरब्यते ।
 </details>

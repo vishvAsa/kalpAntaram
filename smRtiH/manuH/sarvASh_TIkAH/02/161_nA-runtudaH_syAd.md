@@ -1,6 +1,5 @@
 +++
 title = "161 नाऽरुन्तुदः स्याद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -82,4 +81,10 @@ disrespect towards any one.’
 <details><summary>Bühler</summary>
 
 161	Let him not, even though in pain, (speak words) cutting (others) to the quick; let him not injure others in thought or deed; let him not utter speeches which make (others) afraid of him, since that will prevent him from gaining heaven.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अथान्यैश् च यो गर्वेण दर्पेणाचार्यं न पूजयेद् अवमानयेद् (?) वा तथाप्य् आचार्यश् चित्तसङ्क्षोभम् आत्मना अनेन प्रसङ्ख्यानेनोपायेन परिहरेत् ।
 </details>

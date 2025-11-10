@@ -1,6 +1,5 @@
 +++
 title = "031 लोकानान् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -63,4 +62,10 @@ It is refreshing to find Medhātithi regarding this account of the castes issuin
 <details><summary>Bühler</summary>
 
 031	But for the sake of the prosperity of the worlds he caused the Brahmana, the Kshatriya, the Vaisya, and the Sudra to proceed from his mouth, his arms, his thighs, and his feet.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**विवृद्धिं** वृष्टिबाहुल्यं वा । एतच् चोभयं कर्मतः । कर्म च दृष्टादृष्टं ब्राह्मणादिसंश्रितम् । यतो ऽयमोतराधर्य्य(मुत्तराधर्य?)विवक्षयोपकारविशेषप्रदर्शनसम्बन्धेन वा मुखादिष्व् अग्न्यादिसम्बन्धापेक्षया वा मुखादिकर्मयोगाद् वा तत्प्रभावो गुणप्रवृत्त्योच्यते । वर्णानां तथा च कृत्वा मिथुनसम्प्रयोगद्वारेणेमां सृष्टिम् आचक्षते ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "114 विद्या ब्राह्मणम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -69,4 +68,10 @@ the Vedas, the Dharma, the Purāṇas and the subsidiary sciences to one who is 
 <details><summary>Bühler</summary>
 
 114	Sacred Learning approached a Brahmana and said to him: 'I am thy treasure, preserve me, deliver me not to a scorner; so (preserved) I shall become supremely strong.'
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**असूयक**ग्रहणं सर्वेषाम् अपात्रीकरणे हेतूनां प्रदर्शनार्थम् । क्व तर्हि देयेयम् ।
 </details>

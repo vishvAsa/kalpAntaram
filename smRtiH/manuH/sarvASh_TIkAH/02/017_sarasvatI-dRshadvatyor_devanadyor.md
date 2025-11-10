@@ -1,6 +1,5 @@
 +++
 title = "017 सरस्वती-दृशद्वत्योर् देवनद्योर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -35,4 +34,10 @@ This verse is quoted in *Hemādri* (Vrata, p. 27),—in the *Vīramitrodaya* (Pa
 <details><summary>Bühler</summary>
 
 017	That land, created by the gods, which lies between the two divine rivers Sarasvati and Drishadvati, the (sages) call Brahmavarta.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+देवसम्परिग्रहाद् देवनिर्मितत्वं च देशस्तुत्यर्थं ब्रह्म चोत्पन्नं (?) महर्षीणाम् अत्र किल प्रतिभातम् इति ब्रह्मावर्तो देशः अर्थसञ्ज्ञया स्तूयते ।
 </details>

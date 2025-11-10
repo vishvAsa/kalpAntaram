@@ -1,6 +1,5 @@
 +++
 title = "109 आचार्यपुत्रः शुश्रूषुर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -87,4 +86,10 @@ referred to several times. He is either Medhātithi’s teacher, or an older com
 <details><summary>Bühler</summary>
 
 109	According to the sacred law the (following) ten (persons, viz.) the teacher's son, one who desires to do service, one who imparts knowledge, one who is intent on fulfilling the law, one who is pure, a person connected by marriage or friendship, one who possesses (mental) ability, one who makes presents of money, one who is honest, and a relative, may be instructed (in the Veda).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विनियतम् अर्थशास्त्रा [१ अक्ष् उन्च्लेअर्] । एतेषाम् अर्थदस्य शुश्रूषोश् चाध्यापनं धर्माय कारणग्रहणाद् एकवाक्यरूढत्वात् **धर्मत** इति निर्देशः । "शक्तो ऽर्थदातास्वः साधुर् इत्य् अस्मिन् **[७२]** वारे(पाठे)न ज्ञायमाने स्वतन्त्रम् आचार्यग्रहणं पूर्वस्मिन् पा[१ अक्ष् उन्च्लेअर्] ठे(?) पुनर् आचार्यग्रहणं पुत्रविशेषणार्थं विज्ञेयम् । दशत्वानुग्रहो (?) वायं (?) चैषाम् अध्यापनधर्म उच्यते ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "232 त्रिष्व् अप्रमाद्यन्न्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -33,4 +32,10 @@ order—‘*Pitṛvṛttyā imam lokam mātṛvṛttyā tathāparam*.’)
 <details><summary>Bühler</summary>
 
 232	He who neglects not those three, (even after he has become) a householder, will conquer the three worlds and, radiant in body like a god, he will enjoy bliss in heaven.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अयं पुनर् लोके विभागः किञ्चित् सामान्याद् एव स्तुत्यतिशयार्थः ।
 </details>

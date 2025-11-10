@@ -1,6 +1,5 @@
 +++
 title = "112 वैश्य-शूद्राव् अपि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,10 @@ See Comparative notes for [Verse 3.110].
 <details><summary>Bühler</summary>
 
 112	Even a Vaisya and a Sudra who have approached his house in the manner of guests, he may allow to eat with his servants, showing (thereby) his compassionate disposition.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अतिथिकर्मणातिथिधर्मेण । स च व्याख्यातः । ऋज्व् अन्यत् । ब्राह्मणस्यैव दातुर् इतरवर्णानां भोजनकालः आनृशंस्यकारणोपदेशत्वाद् अयम् अपि पर्वापवाद एव कारणतः ।
 </details>

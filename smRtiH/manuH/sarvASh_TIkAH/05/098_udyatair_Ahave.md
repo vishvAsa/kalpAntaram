@@ -1,6 +1,5 @@
 +++
 title = "098 उद्यतैर् आहवे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,10 @@ orbit—the mendicant firm in Yoga and one killed in the battle-front.’
 <details><summary>Bühler</summary>
 
 098	By him who is slain in battle with brandished weapons according to the law of the Kshatriyas, a (Srauta) sacrifice is instantly completed, and so is the period of impurity (caused by his death); that is a settled rule.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तत्सन्नियोगे यजमानवद् अस्याशौचं यज्ञस्थितस्येति ।
 </details>

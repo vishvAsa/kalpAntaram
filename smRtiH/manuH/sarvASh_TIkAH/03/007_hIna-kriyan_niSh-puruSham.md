@@ -1,6 +1,5 @@
 +++
 title = "007 हीन-क्रियन् निष्-पुरुषम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -63,4 +62,10 @@ See Comparative notes for [Verse 3.6].
 <details><summary>Bühler</summary>
 
 007	(Viz.) one which neglects the sacred rites, one in which no male children (are born), one in which the Veda is not studied, one (the members of) which have thick hair on the body, those which are subject to hemorrhoids, phthisis, weakness of digestion, epilepsy, or white or black leprosy.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**हीनक्रिया**दीनां यद्य् अप्य् अदृष्टं प्रधानतः प्रयोजनं वर्जने । तथापि दृष्टम् उपवर्ण्यते । स्वभावानुषक्तं हीनक्रियकुलसम्पर्के मातुलप्रीत्या प्रजावतीच्छच्छिला (?) स्यात् । एतेन **निश्छन्दो** व्याख्यातः । **निष्पुरुषं** च सन्तत्यभावदोषाद् **रोमशं** ताकृशस्य दोषश्रवणात् । एवं हि श्रुतिः- "निरृतये विकृत देहं रोमशम् आलभेत । सा ह्य् अस्य स्वका तनुः" इति । अर्शसादिकुलानां तु सङ्क्रान्तिभयाद् वर्जनम् । एवं तु ह्य् आयुर्वेदकृत् "सर्वे सङ्क्रमिणो रोगा वर्जयित्वा प्रवाहिकाम्" इति । वक्ष्यति च । "एवं कर्मावशेषेण जायन्ते सद्विगर्हिताः" (म्ध् ११.५३) इति । ततः कर्मदोषशेषेणापि वर्ज्यः । अयं चान्यो नियमः । अप्रतिषिद्धकुलरोगाम् अपि च सकुलतया ।
 </details>

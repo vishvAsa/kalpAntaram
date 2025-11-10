@@ -1,6 +1,5 @@
 +++
 title = "054 फल-मूलाशनैर् मेध्यैर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 719), which adds that 
 <details><summary>Bühler</summary>
 
 054	By subsisting on pure fruit and roots, and by eating food fit for ascetics (in the forest), one does not gain (so great) a reward as by entirely avoiding (the use of) flesh.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+मांसनिवृत्त्यर्थाव् इमौ श्लोकौ । कतरस्य मांसस्य । प्रतिषिध्यन्ति स्वति (?) । प्रकरणात् तावत् प्रतिषिद्धस्येति गम्यते । यतः "**तयोः पुण्यफलं समम्**", "**न तत् फलम् अवाप्नोति यन् मांसपरिवर्जनात्**" इति यतो विज्ञयते । अतिथ्यादिभुक्तशिष्टस्याप्रतिषिद्धस्य त्याग इदं प्रशंसावचनम् । यस्माद् इह प्रतिषिद्धवर्जनं प्रत्यवायानुत्पत्तिमात्रफलं दृष्टादृष्टं द्ट्ष्टाच् चादृष्टम् अप्य् अनुमेयं तथा रूपम् एवाथ तस्माद् अप्य् अभयं कथञ्चित् कल्पयितुं शक्यत एतद् एवं युज्यत इत्य् अधुना नामधेयनिर्वचनेन पुनर् अर्थवादीकरोति प्रतिषिद्धवर्जनार्थं –
 </details>

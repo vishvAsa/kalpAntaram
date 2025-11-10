@@ -1,6 +1,5 @@
 +++
 title = "155 विप्राणाञ् ज्ञानतो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,10 @@ sense that where one uses the term ‘*Brāhmaṇaparivrājaka*’, the Brāhma�
 <details><summary>Bühler</summary>
 
 155	The seniority of Brahmanas is from (sacred) knowledge, that of Kshatriyas from valour, that of Vaisyas from wealth in grain (and other goods), but that of Sudras alone from age.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**क्षत्रियादीनां** च **वीर्यादि**ग्रहणं प्रकृतार्थस्तुत्यर्थम् अप्रकरणाद् वीर्यादीनां दृष्टान्तत्वेन । एवं च व्यवस्थिते प्रकरणार्थे,
 </details>

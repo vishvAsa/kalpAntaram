@@ -1,6 +1,5 @@
 +++
 title = "021 ब्राह्मो दैवस्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -40,4 +39,10 @@ See Comparative notes for [Verse 3.20].
 <details><summary>Bühler</summary>
 
 021	(They are) the rite of Brahman (Brahma), that of the gods (Daiva), that of the Rishis (Arsha), that of Pragapati (Pragapatya), that of the Asuras (Asura), that of the Gandharvas (Gandharva), that of the Rhashasas (Rakshasa), and that of the Pisakas (Paisaka).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ब्राह्मादयो विवाहा देवतासम्बन्धेनैवम् उच्यन्ते, असत्य् अपि वा देवतासम्बन्धे स्तुत्यर्थम् एषाम् एतद् एवं ग्रहणम् । अधुना त्व् एतद् एवम् –
 </details>

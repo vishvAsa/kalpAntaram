@@ -1,6 +1,5 @@
 +++
 title = "213 अनर्चितं वृथा-मांसम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,10 @@ outcast......;—of the maleless woman, of the goldsmith, of the man who is cont
 <details><summary>Bühler</summary>
 
 213	Nor (food) given without due respect, nor (that which contains) meat eaten for no sacred purpose, nor (that given) by a female who has no male (relatives), nor the food of an enemy, nor that (given) by the lord of a town, nor that (given) by outcasts, nor that on which anybody has sneezed;
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अनर्चितं दातुरश्चद(नव?)धानतया शिष्टभोजनीयम् अपि तस्यातिथ्यादीनाम् अर्चनानर्हाणां (?) न तमिस्रादीनां (?) मितत्वादिभिर् एव कारणैर् वृथा मांसं च यद् आत्मप्रीत्यर्थं च तर्पितं च गृहस्थेन तच् चाभोज्यम् आतिथ्यादीनाम् एवानर्चितम् अपि सन् न कल्पयितुर् अनर्चिताभोज्यस्य सन्निधाव् अस्योपदेशात् । तथा चोत्तरत्र प्रदर्शयिष्यति । "वृथा कृसरसंयावम्" (म्ध् ५.७) इति श्लोके अनुपाकृतमांसशब्देन **वृथामांस**प्रतिषेधं कल्पयितुर् एवं चापुनरुक्तत्वम् उत्तरत्र सिद्धं भवति, "प्रोक्षितं भक्षयेत् [मांसम्]" (म्ध् ५.२७) इत्य् अत्र । **अविरयोषिद्** अपुत्रा अपतिका वा । **नगरी** वक्ष्यमाणा । राजभृत्यः । वक्ष्यति हि "नगरे नगरे चैकं" (म्ध् ७.१२१] इत्यादि । ऋज्व् अन्यत् ।
 </details>

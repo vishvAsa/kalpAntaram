@@ -1,6 +1,5 @@
 +++
 title = "221 सूर्येण ह्य्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -31,4 +30,10 @@ See Comparative notes for [Verse 2.220].
 <details><summary>Bühler</summary>
 
 221	For he who lies (sleeping), while the sun sets or rises, and does not perform (that) penance, is tainted by great guilt.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रायश्चित्तार्थवादो ऽयं सन्ध्योपासनस्य तदनुष्ठानाभिनिवेशप्रयोजनः यतश् चैतद् एवम् अतस् तत्परिहारार्थम् ।
 </details>

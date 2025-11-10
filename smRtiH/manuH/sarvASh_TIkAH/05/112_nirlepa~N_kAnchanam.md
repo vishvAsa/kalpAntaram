@@ -1,6 +1,5 @@
 +++
 title = "112 निर्लेपङ् काञ्चनम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -97,4 +96,10 @@ purified by water; metal things are cleansed by washing with water and scrubbing
 <details><summary>Bühler</summary>
 
 112	A golden vessel which shows no stains, becomes pure with water alone, likewise what is produced in water (as shells and coral), what is made of stone, and a silver (vessel) not enchased.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं पूर्वविधिं सलेपानां तैजसानाम् अन्यतमं च न्यस्तै (?) सविषयोर् लोह(?)काञ्चनराजतयोर् निर्लेपयोर् अद्भिर् एव । पूर्वश्लोके च शङ्क्यस्याप्रकृतत्वाद् इहाब्जग्रहणे तस्य पूर्वविधिर् यः पूर्वभव(?)मणिर् यस् तस्यायम् एवार्थवादः एवं मणेर् (?) अब्जस्य पूर्वश्लोके ऽब्जानब्जमणिविषयत्वाद् अस्यार्थवादः ।
 </details>

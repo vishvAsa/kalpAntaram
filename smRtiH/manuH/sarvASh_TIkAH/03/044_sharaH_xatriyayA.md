@@ -1,6 +1,5 @@
 +++
 title = "044 शरः क्षत्रियया"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -48,4 +47,10 @@ hand including the thumb; the Kṣatriya girl should hold an arrow, the Vaiśya 
 <details><summary>Bühler</summary>
 
 044	On marrying a man of a higher caste a Kshatriya bride must take hold of an arrow, a Vaisya bride of a goad, and a Sudra female of the hem of the (bridegroom's) garment.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कस्यचिद् द्विजातेर् उद्वोढुः पूर्ववद् **उत्कृष्टवेदन** इति चेदं सर्वविवाहशेषः । कृतोद्वाहस्येदानीम् अर्थप्राप्त उपगमे तन्नियमार्थम् आरभ्यते –
 </details>

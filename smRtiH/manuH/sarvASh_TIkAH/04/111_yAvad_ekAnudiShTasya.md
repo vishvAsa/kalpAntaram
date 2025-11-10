@@ -1,6 +1,5 @@
 +++
 title = "111 यावद् एकानुदिष्टस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -43,4 +42,10 @@ etc. (see under 109). According to some only on eating at Śrāddha.’
 <details><summary>Bühler</summary>
 
 111	As long as the smell and the stains of the (food given) in honour of one ancestor remain on the body of a learned Brahmana, so long he must not recite the Veda.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एकानुद्दिष्टस्य त्र्यहं वानध्यायः । स्नेहावगमो वा तावत् ।
 </details>

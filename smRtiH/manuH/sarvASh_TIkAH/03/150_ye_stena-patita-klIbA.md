@@ -1,6 +1,5 @@
 +++
 title = "150 ये स्तेन-पतित-क्लीबा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -90,4 +89,10 @@ dam-piercer, keeper of musical time, professional actor, teacher of false religi
 <details><summary>Bühler</summary>
 
 150	Manu has declared that those Brahmanas who are thieves, outcasts, eunuchs, or atheists are unworthy (to partake) of oblations to the gods and manes.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सुवर्नाद्यस्यापहर्ता **स्तेनः** पृथगुपदेशात् । प्रतीतानां **क्लीबः** अपुमान् अपहतशुक्लो वा । सति पुंस्त्वे नास्ति तेभ्यो वृत्तिर् यस्य अनास्तिकस्य सतः नास्तिकत्वेन वा नास्तिकत्वं वा वृत्तिधर्मो यस्य स नास्तिकवृत्तिर् अश्रद्दधानः । एते तावद् उभयत्र प्रतिषिद्धाः । शास्त्रप्रोक्तानां प्रतिषेधः । एवम् उत्तरेषाम् अपि ।
 </details>

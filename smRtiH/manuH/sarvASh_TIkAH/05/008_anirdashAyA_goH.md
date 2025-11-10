@@ -1,6 +1,5 @@
 +++
 title = "008 अनिर्दशाया गोः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -92,4 +91,10 @@ milk of the cow in heat;—nor of the cow whose calf is absent or dead, of the c
 <details><summary>Bühler</summary>
 
 008	The milk of a cow (or other female animal) within ten days after her calving, that of camels, of one-hoofed animals, of sheep, of a cow in heat, or of one that has no calf with her,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उष्ट्रैकशब्दाविकानां वचसो नित्यप्रतिषेधः प्रायश्चित्तस्मृत्यन्तरसमाचाराद् विज्ञेयः । **सन्धिनीक्षीरं** या सायम् अदुग्धा प्रातस् तद् उच्यते । गर्भिणी या सन्धिनी । ये (?) गर्भसम्बन्धाद् धेतोः (?) सन्धिनीक्षीरं पठन्ति तेषाम् अतिशयो विवक्षितः । यद्य् अयम् अस्ति पाठः सवत्साया अपि (?) । **विवत्सायाश् च** विनाकृतवत्साया (?) मृतवत्साया वा । गोग्रहणाच् चाजामहिष्योर् अप्रतिषेधः ।
 </details>

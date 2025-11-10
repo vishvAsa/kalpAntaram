@@ -1,6 +1,5 @@
 +++
 title = "147 बालया वा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ the woman).’
 <details><summary>Bühler</summary>
 
 147	By a girl, by a young woman, or even by an aged one, nothing must be done independently, even in her own house.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अस्वातन्त्र्योपदेशो ऽयम् अस्याधर्मेणात्मसंस्कारात् (?) प्राग् अपि चोभास् त्वाभावे (?)
 </details>

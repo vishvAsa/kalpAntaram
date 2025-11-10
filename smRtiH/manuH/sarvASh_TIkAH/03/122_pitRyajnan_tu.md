@@ -1,6 +1,5 @@
 +++
 title = "122 पितृयज्ञन् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -98,4 +97,10 @@ shall offer Śrāddha every day—be he with Fire or without Fire; also every mo
 <details><summary>Bühler</summary>
 
 122	After performing the Pitriyagna, a Brahmana who keeps a sacred fire shall offer, month by month, on the new-moon day, the funeral sacrifice (Sraddha, called) Pindanvaharyaka.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सपिण्डानाम् असम्भूतं मासिकश्राद्धं विज्ञेयम् । कुतो नामधेयादध्यस्याद् (?) इदम् **अन्वाहार्यम्** इत्य् उच्यते । कथम् आहार्यम् (?) । **अनु** पश्चाद् इत्य् अर्थः । कस्य । **पिण्डानाम्** । येनान्तं (ह्रियते?) तद् **अन्वाहार्यम्** इत्य् उच्यते । एवं च तदङ्गत्वात् पिण्डवत् प्रतिमासम् इदम् अपि तद् यत् सिद्धम् (?) । आममिषस्य् (?) प्रशस्तस्य नियमार्थ उपदेशः ।
 </details>

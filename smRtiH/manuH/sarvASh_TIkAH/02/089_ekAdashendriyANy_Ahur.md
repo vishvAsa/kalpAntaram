@@ -1,6 +1,5 @@
 +++
 title = "089 एकादशेन्द्रियाण्य् आहुर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -63,4 +62,10 @@ engendered.
 <details><summary>Bühler</summary>
 
 089	Those eleven organs which former sages have named, I will properly (and) precisely enumerate in due order,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उक्तसङ्ख्यानां चायं स्वरूपनिर्दर्शः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "125 पक्षि-जग्धङ् गवा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -99,4 +98,10 @@ one shall throw about a handful of it, and sprinkling water and scattering ashes
 <details><summary>Bühler</summary>
 
 125	(Food) which has been pecked at by birds, smelt at by cows, touched (with the foot), sneezed on, or defiled by hair or insects, becomes pure by scattering earth (over it).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**पक्षि**विशेषाः **कीट**विशेषाः स्मृत्यन्तराद् वा विज्ञेयाः । केषु त्स्र्द्धाः(?) केषु मृत्प्रक्षेप इति ।
 </details>

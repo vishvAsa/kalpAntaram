@@ -1,6 +1,5 @@
 +++
 title = "285 विघसाशी भवेन्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -70,4 +69,10 @@ Manu\].—‘The remnant of sacrifices is *amṛta*; and the eating of this is e
 <details><summary>Bühler</summary>
 
 285	Let him daily partake of the vighasa and daily eat amrita (ambrosia); but vighasa is what remains from the meal (of Brahmana guests) and the remainder of a sacrifice (is called) amrita.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अधिकृतकर्मानुष्ठानस्तुतिपरम् एतन् नापूर्वविध्यर्थम् ।
 </details>

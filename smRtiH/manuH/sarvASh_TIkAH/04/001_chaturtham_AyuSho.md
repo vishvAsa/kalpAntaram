@@ -1,6 +1,5 @@
 +++
 title = "001 चतुर्थम् आयुषो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -48,4 +47,10 @@ Do. (12.243.1).—‘During the second quarter of his life, the householder shal
 <details><summary>Bühler</summary>
 
 001	Having dwelt with a teacher during the fourth part of (a man's) life, a Brahmana shall live during the second quarter (of his existence) in his house, after he has wedded a wife.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ब्रह्मचर्यकालस्य विहितत्वात् "**चतुर्थम् आयुषो भागम्**" इत्य् एतद् उत्तरविवक्षार्थम् उद्दिष्टसङ्कीर्तनम् । एतेन द्वितीयभागो व्याख्यातः । "गृहे वसेद् द्विजः" इत्य् अनेन तृतीयाध्यायविहितस्य पञ्चमहायज्ञादेः कर्मणो ऽनुष्ठानम् उच्यते । तच् च पुनर् अनुष्ठानं कर्मणो वित्तसाधनं यस्माद् अर्थवृत्तिनियमशास्त्रम् इदं प्रक्रियते ।
 </details>

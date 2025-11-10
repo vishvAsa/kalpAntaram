@@ -1,6 +1,5 @@
 +++
 title = "132 ऊर्ध्वन् नाभेर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -74,4 +73,10 @@ impure below the navel,—so declares the Veda.’
 <details><summary>Bühler</summary>
 
 132	All those cavities (of the body) which lie above the navel are pure, (but) those which are below the navel are impure, as well as excretions that fall from the body.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**यान्य् अधस्तान् नाभेः खानि** तेषाम् अशुचित्वात् तत्संस्पर्शपरिहारः । **देहाच् चैव मलाश् च्युताः** । द्वौ परिशिष्टेभ्यो ऽप्य् एवामेध्या विज्ञेयाः श्लेष्मादयः ।
 </details>

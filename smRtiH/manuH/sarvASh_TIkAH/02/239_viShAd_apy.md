@@ -1,6 +1,5 @@
 +++
 title = "239 विषाद् अप्य्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -63,4 +62,10 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 514) along with the pr
 <details><summary>Bühler</summary>
 
 239	Even from poison nectar may be taken, even from a child good advice, even from a foe (a lesson in) good conduct, and even from an impure (substance) gold.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यथावोचाम एवं लोकप्रवादो ऽप्य् अयं दृष्टः । तद् अपि प्रायस् त्व् एवम्- "असतः सद् उपादेयम्" इति । एवं च सति ।
 </details>

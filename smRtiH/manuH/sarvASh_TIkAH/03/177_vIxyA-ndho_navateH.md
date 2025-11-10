@@ -1,6 +1,5 @@
 +++
 title = "177 वीक्ष्याऽन्धो नवतेः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,10 @@ This verse is quoted in *Aparārka* (p. 454), which adds that what is meant is t
 <details><summary>Bühler</summary>
 
 177	A blind man by his presence causes to the giver (of the feast) the loss of the reward for ninety (guests), a one-eyed man for sixty, one who suffers from white leprosy for a hundred, and one punished by a (terrible) disease for a thousand.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पङ्क्तिगता एते ऽपि पश्यन्तो ऽपीत्य् अर्थः । एवं च "**वीक्ष्यान्धो नवतेः काणः**" इत्य् एतद् अर्थवद् भवति, तस्य दर्शनाभावात् षष्ट्यादिनिर्देशाच् च । यथा कथञ्चिन् निन्दार्थवादः अविवक्षितसङ्ख्याङ्कः (?) । अधिकस्य सङ्ख्याविशेषस्याभ्यनुज्ञार्थः । एषु सत्सु,
 </details>

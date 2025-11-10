@@ -1,6 +1,5 @@
 +++
 title = "088 इन्द्रियाणां विचरताम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -71,4 +70,10 @@ roaming sense-organs, it deprives him of his wisdom; just as the storm destroys 
 <details><summary>Bühler</summary>
 
 088	A wise man should strive to restrain his organs which run wild among alluring sensual objects, like a charioteer his horses.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सर्वेन्द्रियसाम्यम् अभिधानार्थः । तस्यायम् अर्थवादः श्लोकः । **इन्द्रियाणां** चायम् अप्रकरणम् अपि सङ्ख्यास्वरूपनिर्देशस् तज्जयोपायप्रदर्शनार्थः प्रक्रियते ।
 </details>

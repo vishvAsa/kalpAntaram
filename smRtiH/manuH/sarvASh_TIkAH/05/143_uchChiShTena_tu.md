@@ -1,6 +1,5 @@
 +++
 title = "143 उच्छिष्टेन तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -82,4 +81,10 @@ impure substance, then he shall place that thing on the ground, sip water and th
 <details><summary>Bühler</summary>
 
 143	He who, while carrying anything in any manner, is touched by an impure (person or thing), shall become pure, if he performs an ablution, without putting down that object.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+गौतमस्य तु निधानपक्ष एव । येन "द्रव्यहस्त उच्छिष्टो निधायाचामेत्" द्रव्यहस्त इति यद्य् अभिधानस्येति सूत्रे निधानार्थं वचनम् अधिकं पठति । तेन पदाधिक्येन तुल्यत्वे ऽपि संहितायानिधानपक्षस् तस्य विज्ञायते । तथा च तुल्यबलत्वाद् विरोधे विकल्पः ।
 </details>

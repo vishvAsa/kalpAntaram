@@ -1,6 +1,5 @@
 +++
 title = "001 श्रुत्वैतान् ऋषयो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -61,4 +60,10 @@ Our answer is as follows:—The greater seriousness here spoken of refers to *ga
 <details><summary>Bühler</summary>
 
 001	The sages, having heard the duties of a Snataka thus declared, spoke to great-souled Bhrigu, who sprang from fire:
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+मनुप्रभवः प्रथमे ऽध्याये भृगुर् उक्तः, "अहं प्रजाः सिसृक्षुस् तु" (म्ध् १.३४) इति । अत्र श्लोके "**अनलप्रभव**" इत्य् उक्तम् । अत्र समाधिः – सर्वधर्मतत्त्वप्रकाशेनाज्ञानतमोनिवर्तनाद् अनलप्रभव इवायम् उपचर्यते । गुणतः सत्त्वबाहुल्याद् वा तत्कार्यकारणस्य पुराणदृष्ट्या वा तत्त्वभ्यस्य (?) भृगोर् अनलप्रभवत्वं श्रूयते वरुणयज्ञे (?) । अधुना यद् उक्तम् ज्ञानवन्तो महर्षयस् तद् दर्शयति –
 </details>

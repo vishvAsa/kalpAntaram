@@ -1,6 +1,5 @@
 +++
 title = "240 होमे प्रदाने"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -56,4 +55,10 @@ See Comparative notes for [Verse 3.239].
 <details><summary>Bühler</summary>
 
 240	What (any of) these sees at a burnt-oblation, at a (solemn) gift, at a dinner (given to Brahmanas), or at any rite in honour of the gods and manes, that produces not the intended result.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एते ऽपि विधयो दैवे पित्र्ये वचनात् स्युः । विशेषात् त्व् इदं ब्रवीति –
 </details>

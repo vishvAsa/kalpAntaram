@@ -1,6 +1,5 @@
 +++
 title = "093 एवं यः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -69,4 +68,10 @@ See Comparative notes for [Verse 3.84].
 <details><summary>Bühler</summary>
 
 093	That Brahmana who thus daily honours all beings, goes, endowed with a resplendent body, by a straight road to the highest dwelling-place (i.e. Brahman).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+वैश्वदेवं त्रिभिः श्लोकैर् अविक(वक्र?)विधिप्राप्त्यर्थम् ।
 </details>

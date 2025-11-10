@@ -1,6 +1,5 @@
 +++
 title = "115 यम् एव"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -55,4 +54,10 @@ See Comparative notes for [Verse 2.114].
 <details><summary>Bühler</summary>
 
 115	'But deliver me, as to the keeper of thy treasure, to a Brahmana whom thou shalt know to be pure, of subdued senses, chaste and attentive.'
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+न केवलं यथोक्तदोषाभावे (?) देयेयम् (?) । किं तर्हि । शौचादिषु नयो येषां व्यपेक्षितव्यः इत्य् एवमर्थम् इदम् अन्तरेणापि चोपसदनप्रश्नपरिग्रहणं गुणवान् अप्य् अधीतवेदश् च सन्दिग्धम् अनागच्छन् वा ।
 </details>

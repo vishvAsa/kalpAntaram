@@ -1,6 +1,5 @@
 +++
 title = "239 चाण्डालश् च"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -71,4 +70,10 @@ leper, the outcast, the embryo-killer, one of doubtful birth, relatives of outca
 <details><summary>Bühler</summary>
 
 239	A Kandala, a village pig, a cock, a dog, a menstruating woman, and a eunuch must not look at the Brahmanas while they eat.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तस्मात् परीक्षिते दद्याज् जलतीरपुलिनादिषु । अपरीक्षितदेशेषु प्राप्तानां प्रतिषेधः । यस्मात्,
 </details>

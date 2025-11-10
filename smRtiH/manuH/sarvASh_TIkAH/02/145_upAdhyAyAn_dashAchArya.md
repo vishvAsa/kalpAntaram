@@ -1,6 +1,5 @@
 +++
 title = "145 उपाध्यायान् दशाचार्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -91,4 +90,14 @@ suffering from shooting pains, then she gives him birth, being rendered unconsci
 <details><summary>Bühler</summary>
 
 145	The teacher (akarya) is ten times more venerable than a sub-teacher (upadhyaya), the father a hundred times more than the teacher, but the mother a thousand times more than the father.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यः सर्वगुण उपनयनाध्यापनादिसंस्कारहेतुत्वेन 
+
+> सहस्रं तु पितुर् माता गौरवेणातिरिच्यते । [म्ध् २.१४५] 
+
+इत्य् एतद् अपि व्याख्यातम् । एवं च कृत्वा गुणवद्भाम् एव मातापितृभ्याम् आ (३ अक्ष् मिस्सिन्ग्) चार्यसंस्तवो युक्तः । निर्गुणः पिता उत्पादकत्वेनोपनयनादिसंस्कारहेतुः (??) । तत्र
 </details>

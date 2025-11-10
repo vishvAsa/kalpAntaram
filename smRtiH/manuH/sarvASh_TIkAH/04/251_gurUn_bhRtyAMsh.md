@@ -1,6 +1,5 @@
 +++
 title = "251 गुरून् भृत्यांश्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -57,4 +56,10 @@ dependants one may accept food from the Śūdra; but he himself shall not partak
 <details><summary>Bühler</summary>
 
 251	He who desires to relieve his Gurus and those whom he is bound to maintain, or wishes to honour the gods and guests, may accept (gifts) from anybody; but he must not satisfy his (own hunger) with such (presents).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+गुरवः पित्रादयः पुत्रदारप्रभृतयो भृत्याः तान् क्षुद्योगपङ्कलग्नान् उद्धर्तुम् इच्छन्न् अर्चिष्यंश् च देवताः तद् अप्य् असाधनयेच्छया देवतानां च क्षुद्योगासम्भवाद् अत्राव्यना(?)शब्दः प्रयुक्तः । येन गुरुवत् कर्ता सम्भरणं नास्त्य् एवम् अतिथिष्व् अपि वक्तव्यम् । यत एते तत्पूजायै सर्वतः प्रतिगृह्णीयाद् अपशस्तद्विजातिशूद्र्भ्यो ऽपीतीत्य् उक्तम् । न त्व् आपत्कल्पविहितेभ्यो ऽत्यन्तासद्भिः प्रकरणभेदाद् गुर्वादिप्रयोजनत्वाच् चास्यावृत्तिकर्शितस्यापत्कल्पोपदेशः । तथा च वक्ष्यति – "अवृत्तिकर्शितः सीदन्न् इमं धर्मं समाचरेत्" (म्ध् १०.१०१) इति । गुर्वाद्यर्थस् तु प्रतिग्रहाच्छादनवृत्तेनावृत्तिकर्शितस्य । "**न तु तृप्येत् स्वयं ततः**" इत्य् एतत् कृतव्याख्यानम् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "167 एवं वृत्ताम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -41,4 +40,10 @@ without a wife.’
 <details><summary>Bühler</summary>
 
 167	A twice-born man, versed in the sacred law, shall burn a wife of equal caste who conducts herself thus and dies before him, with (the sacred fires used for) the Agnihotra, and with the sacrificial implements.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+न्यायप्राप्तानुवादः श्लोकः । एवं च स तस्याः स्वामित्वाद् युक्त एवाग्निहोत्रेण संस्कारः तथैतत् पुनर् आदरार्थम् उदाह्रियते ।
 </details>

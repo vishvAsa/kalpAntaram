@@ -1,6 +1,5 @@
 +++
 title = "086 दश सूनासहस्राणि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ Manu.\]
 <details><summary>Bühler</summary>
 
 086	A king is declared to be equal (in wickedness) to a butcher who keeps a hundred thousand slaughter-houses; to accept presents from him is a terrible (crime).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अक्षत्रियाद् राज्ञः प्रतिग्रहनिन्दैषा निवृत्त्यर्था । **दशसूनासमम्** इति परस्परस्य शुद्धता । तस्माद् यत्नाद् विज्ञेया राजनिन्दार्था वा । सूनाग्रहणं दशगुणोत्तरवृद्ध्यास्मिन्न् अपि पक्षे तेषाम् अपि निन्द्यतार्थसिद्धा । एवं सति
 </details>

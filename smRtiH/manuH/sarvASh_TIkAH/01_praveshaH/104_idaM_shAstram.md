@@ -1,6 +1,5 @@
 +++
 title = "104 इदं शास्त्रम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -32,4 +31,10 @@ This verse is quoted in the *Smṛticandrikā* (Saṃskāra, p. 10) which reads 
 <details><summary>Bühler</summary>
 
 104	A Brahmana who studies these Institutes (and) faithfully fulfils the duties (prescribed therein), is never tainted by sins, arising from thoughts, words, or deeds.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+नित्यं तत्कारणाभावाद्(?) एवं च शास्त्रस्थो (?) ऽसौ ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "091 एतद् विदन्तो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,10 @@ See Comparative notes for [Verse 4.87].
 <details><summary>Bühler</summary>
 
 091	Learned Brahmanas, who know that, who study the Veda and desire bliss after death, do not accept presents from a king.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अक्षत्रियाद् राज्ञो ऽनापदि प्रतिग्रहप्रतिषेधः प्रकरणाद् वेदितव्यः । कारणाच् च प्रतिग्रहप्रतिषेधं ब्रुवन् दर्शयति य उच्छास्त्रवर्ती न भवति तस्माद् अनुजानाति प्रतिग्रहं शूद्राद् अपि यश् च क्षत्रियो ऽप्य् उच्छास्त्रवर्ती तस्माच् च प्रतिग्रहप्रतिषेधस् तुल्यत्वात् कारणस्य । इत्य् एवं च सति धर्माधिकारणे च जाते गुणभावो वेदितव्यः ॥
 </details>

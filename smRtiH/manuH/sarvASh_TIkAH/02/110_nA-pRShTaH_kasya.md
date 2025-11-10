@@ -1,6 +1,5 @@
 +++
 title = "110 नाऽपृष्टः कस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -41,4 +40,10 @@ asked without due respect, it destroys the questioner, as fire burns straw; ther
 <details><summary>Bühler</summary>
 
 110	Unless one be asked, one must not explain (anything) to anybody, nor (must one answer) a person who asks improperly; let a wise man, though he knows (the answer), behave among men as (if he were) an idiot.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एतेषाम् अपि पृष्टेन वक्तव्यं नापृष्टेन (?) । **पृच्छतो** ऽपि **नान्यायेने**ति नियमार्थः शास्त्रारम्भः । (अधर्मेण?) माम् अयं प्रायश् चाधर्मेण पृच्छति । तयोर् अन्यतरः प्रीतिं (?) विद्वेषं वा निगच्छति । विहितान्यायाध्ययनाध्यापनस्य व्यतिक्रमनिन्दास्तुत्यर्था । एवं च यथाधिकारम् अधिकृतस्तुतिः ।
 </details>

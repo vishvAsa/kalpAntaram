@@ -1,6 +1,5 @@
 +++
 title = "267 तिलैर् व्रीहि-यवैर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ See Comparative notes for [Verse 3.266].
 <details><summary>Bühler</summary>
 
 267	The ancestors of men are satisfied for one month with sesamum grains, rice, barley, masha beans, water, roots, and fruits, which have been given according to the prescribed rule,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यावत् किञ्चिद् अप्रतिषिद्धम् आद्यं तत्सर्वं श्रवणात्, ज्ञापकात् गृह्यते ।
 </details>

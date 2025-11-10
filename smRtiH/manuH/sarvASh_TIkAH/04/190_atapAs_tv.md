@@ -1,6 +1,5 @@
 +++
 title = "190 अतपास् त्व्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -49,4 +48,10 @@ learning and austerities; if he does accept it, he drags down himself as well as
 <details><summary>Bühler</summary>
 
 190	A Brahmana who neither performs austerities nor studies the Veda, yet delights in accepting gifts, sinks with the (donor into hell), just as (he who attempts to cross over in) a boat made of stone (is submerged) in the water.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं च सति तपोविज्ञानसहायम् अत्रोपदेशाद् विज्ञेयम् । पूर्वविधिवद् अध्यनग्रहणं च विज्ञानाधिकारसामर्थ्यात् । तदर्थं विज्ञेयं स्वार्थं वा तपसो विशेषणार्थं वा । अतपस्वी यो **ऽनधीयान** इति प्रकृतार्थोपसंहारम् इदानीं करोति ।
 </details>

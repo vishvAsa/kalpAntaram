@@ -1,6 +1,5 @@
 +++
 title = "212 चिकित्सकस्य मृगयोः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -79,4 +78,10 @@ of the multitude, of people accused of crimes, and of those who make a living by
 <details><summary>Bühler</summary>
 
 212	Nor (the food given) by a physician, a hunter, a cruel man, one who eats the fragments (of another's meal), nor the food of an Ugra, nor that prepared for a woman in childbed, nor that (given at a dinner) where (a guest rises) prematurely (and) sips water, nor that (given by a woman) whose ten days of impurity have not elapsed,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अ(आ)जीवसम्बन्धौ (?) **चिकित्सक**प्रतिषेधः । **मृगयो** राज्ञस् तस्य पृथग्वचनाद् उत्तरत्र । **क्रूर**स्वभावत्व उच्छिष्टभोजिनः शूद्रस्येवेत्य् अर्थः । शास्त्रसामर्थ्याद् **उग्रो** राजा । "उग्रो मध्यशरी वा" इति लिङ्गात् । तथा च वक्ष्यति- "राजानं तेज आदत्ते" (म्ध् ४.२१८) इत्य् अर्थवादः । न चास्मिन् प्रकरणे शक्यं राजानं निर्देष्टुम् अन्यतो ऽस्मां न शरी च तत् (?) । भृत्य इत्य् एवं वक्ष्यामः । "नगरे नगरे चैवं कुर्यात् सर्वार्थचिन्तनम्" [म्ध् ७.१२१] इति चोक्तम् । राजधर्मेषु <u>केचिद्</u> यजमानम् आहुर् उग्रम् । तद् अयुक्तं दीक्षितस्येति वचनात् । **सूतकान्नं** मातापित्रो त्स्वागौ (?) च पक्षे च । मृते पत्यौ प्रसूताया स्त्रीधनभोजनप्रतिषेधो वा । **पर्याचान्तम्** आचमनव्यापृतम् । **अनिर्दिशम्** गवादीनां पयः ।
 </details>

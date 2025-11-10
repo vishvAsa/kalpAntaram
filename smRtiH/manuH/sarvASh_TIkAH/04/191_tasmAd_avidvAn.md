@@ -1,6 +1,5 @@
 +++
 title = "191 तस्माद् अविद्वान्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -40,4 +39,10 @@ See Comparative notes for [Verse 4.190].
 <details><summary>Bühler</summary>
 
 191	Hence an ignorant (man) should be afraid of accepting any presents; for by reason of a very small (gift) even a fool sinks (into hell) as a cow into a morass.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+न केवलम् अभतो (?) ऽश्वादिप्रतिग्रहाद् **अल्पके नाप्य् अविद्वान्** इति च । ब्रुवन्न् अधीतवेदश् च विदुषश् च तपस्विनश् च गुरुद्रव्यप्रतिग्रहम् अपि तस्य (?) प्रतिषेधयति । वेदार्थविञाने सत्य् अपि च ।
 </details>

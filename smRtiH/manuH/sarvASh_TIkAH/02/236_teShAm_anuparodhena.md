@@ -1,6 +1,5 @@
 +++
 title = "236 तेषाम् अनुपरोधेन"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,10 @@ anything until permitted by them.’
 <details><summary>Bühler</summary>
 
 236	He shall inform them of everything that with their consent he may perform in thought, word, or deed for the sake of the next world.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यस्मात् –
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "101 असपिण्डन् द्विजम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,10 @@ or cremating a dead body; one who carries it, and applies fire to it, becomes pu
 <details><summary>Bühler</summary>
 
 101	A Brahmana, having carried out a dead Brahmana who is not a Sapinda, as (if he were) a (near) relative, or a near relative of his mother, becomes pure after three days;
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ऋज्वर्थः श्लोकः ।
 </details>

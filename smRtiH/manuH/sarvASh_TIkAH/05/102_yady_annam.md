@@ -1,6 +1,5 @@
 +++
 title = "102 यद्य् अन्नम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -39,4 +38,10 @@ under impurity: nor shall he dwell with them.’
 <details><summary>Bühler</summary>
 
 102	But if he eats the food of the (Sapindas of the deceased), he is purified in ten days, (but) in one day, if he does not eat their food nor dwells in their house.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अनश्नतश् चात्रावसता चाशोचशुद्धिर् वा सदो (?) ऽनश्नता चानन्तरश्लोकोक्तस् त्र्यहः । अश्नतस् तु तदीयम् अन्नं ततश् च दशाह एव ।
 </details>

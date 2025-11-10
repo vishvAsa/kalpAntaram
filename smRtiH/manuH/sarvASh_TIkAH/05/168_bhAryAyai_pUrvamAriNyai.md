@@ -1,6 +1,5 @@
 +++
 title = "168 भार्यायै पूर्वमारिण्यै"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ See Comparative notes for [Verse 5.165].
 <details><summary>Bühler</summary>
 
 168	Having thus, at the funeral, given the sacred fires to his wife who dies before him, he may marry again, and again kindle (the fires).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इदम् अन्यया सहाधिकारान्तरम् उच्यते । न त्व् अधीनत्वाधिकारान्तरशेषः प्रतिप्रसवः । यदा त्व् असमर्थः प्रजनने कर्मानुष्ठाने वा तदास्य सहायाभावाद् वानप्रस्थे पारिव्राज्ये वाधिकारः स्याद् विप्रतिषेधः । तथा च श्रुतिः "जरया ह वा एतस्मान्म् (?) उच्यते" इत्य् अर्थलोपेन । अपरे त्य् आहुः- अत्र यदेति कल्पिष्यते । एतेन यावज्जीवहोमश्रुतेर् अविरोधः शुद्धो भविष्यति ।
 </details>

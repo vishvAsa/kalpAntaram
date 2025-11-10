@@ -1,6 +1,5 @@
 +++
 title = "180 एकः शयीत"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,10 @@ couch and teeth-cleansing should be avoided; he should sleep alone, on kuśa-gra
 <details><summary>Bühler</summary>
 
 180	Let him always sleep alone, let him never waste his manhood; for he who voluntarily wastes his manhood, breaks his vow.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अस्य व्यतिक्रमस्य प्रायश्चित्तम् अप्रकरणे ऽप्य् आदरार्थम् ।
 </details>

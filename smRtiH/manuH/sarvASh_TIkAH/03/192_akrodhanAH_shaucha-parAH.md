@@ -1,6 +1,5 @@
 +++
 title = "192 अक्रोधनाः शौच-पराः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -65,4 +64,10 @@ carefully offer into vessels, such as may be available; but specially in those o
 <details><summary>Bühler</summary>
 
 192	The manes are primeval deities, free from anger, careful of purity, ever chaste, averse from strife, and endowed with great virtues.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उपन्यासार्थः श्लोकः ।
 </details>

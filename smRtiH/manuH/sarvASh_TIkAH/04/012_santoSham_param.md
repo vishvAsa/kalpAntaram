@@ -1,6 +1,5 @@
 +++
 title = "012 सन्तोषम् परम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,10 @@ This verse is quoted in *Aparārka* (p. 170), which remarks that in connection w
 <details><summary>Bühler</summary>
 
 012	He who desires happiness must strive after a perfectly contented disposition and control himself; for happiness has contentment for its root, the root of unhappiness is the contrary (disposition).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+निरतिशयादृष्टसुखार्थी दृष्टशमसुखार्थी चैवं संयतो भवेत् यथावोचाम । यस्माद् इह लोके दृष्टं "**सन्तोषमूलं हि सुखं दुःखमूलं विपर्ययः**" इति । दृष्टाच् च दृष्टम् अपि अनुमेयम् एवं च न सुखार्थम् असत्प्रतिग्रहेष्टे प्रसज्येत सत्प्रतिग्रहादिषु यावतातिरेकेण ।
 </details>

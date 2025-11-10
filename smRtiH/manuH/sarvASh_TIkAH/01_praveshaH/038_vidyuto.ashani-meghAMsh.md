@@ -1,6 +1,5 @@
 +++
 title = "038 विद्युतो ऽशनि-मेघांश्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -32,4 +31,10 @@ differs from the former in being curved in the form of a bow;—‘*Meteors*,’
 <details><summary>Bühler</summary>
 
 038	Lightnings, thunderbolts and clouds, imperfect (rohita) and perfect rainbows, falling meteors, supernatural noises, comets, and heavenly lights of many kinds,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विद्युदादीन्य् औत्पातिकस्य कर्मणः प्रदर्शनार्थानि । किं चान्यत् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "013 प्रतुदाञ् जालपादांश्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -88,4 +87,10 @@ red-footed birds, meat from the slaughter-house and dry flesh,—on eating these
 <details><summary>Bühler</summary>
 
 013	Those which feed striking with their beaks, web-footed birds, the Koyashti, those which scratch with their toes, those which dive and live on fish, meat from a slaughter-house and dried meat,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रतुद्य ये भक्षयन्ति ते **प्रतुदाः** । **जालपाद**ग्रहणाच् च प्लवभासचक्रपादानां सिद्धे प्रतिषेधे नित्यार्थं तद्ग्रहणम् । एवं च (प्रतुदां?) जालपादानां विकल्पः प्रतिषेधस्यानुमीयते । **[२१७]** **कोयष्टिः** शाकनिकेभ्य उपलब्धव्यः । [**विष्किरो**] नखैर् विष्कीर्य भक्षणात् । न च विष्किराः कुक्कुटादयः । एवं च ग्रामकुक्कुटप्रतिषेधाद् आरण्यस्याभ्यनुज्ञा । मयूरलावकादयस् तर्हि कहं भक्ष्यन्ते (?) आपस्तम्बमतेन कुक्कुटो न च विष्किराणाम् इति । एवं च मयूरादीनाम् अभ्यनुज्ञा । कुक्कुटस्यारण्यस्याप्रतिषेधः । तुल्यबलविरोधे विकल्प आश्रयणीयः । **सौनं वल्लूरं** भक्षाणाम् अपि ।
 </details>

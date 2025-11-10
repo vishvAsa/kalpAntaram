@@ -1,6 +1,5 @@
 +++
 title = "226 श्रद्धयेष्टञ् च"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -146,4 +145,10 @@ Iṣṭa. Tanks, ponds, temples, food-stalls, gardens, gifts made during eclipse
 <details><summary>Bühler</summary>
 
 226	Let him, without tiring, always offer sacrifices and perform works of charity with faith; for offerings and charitable works made with faith and with lawfully-earned money, (procure) endless rewards.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यतश् चैतद् एवम् अतः ।
 </details>

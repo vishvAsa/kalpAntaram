@@ -1,6 +1,5 @@
 +++
 title = "246 क्षेत्रं हिरण्यम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -75,4 +74,10 @@ the pupil should with bis permission take the Bath, after having offered to him 
 <details><summary>Bühler</summary>
 
 246	(Viz.) a field, gold, a cow, a horse, a parasol and shoes, a seat, grain, (even) vegetables, (and thus) give pleasure to his teacher.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+गुर्वर्थविध्यर्थश्लोकः । क्षेत्रादीनां ग्रहणं सर्वद्रव्यप्रदर्शनार्थम् । सपरिसङ्ख्यैषा ।
 </details>

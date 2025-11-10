@@ -1,6 +1,5 @@
 +++
 title = "155 नाऽस्ति स्त्रीणाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -49,4 +48,10 @@ See Comparative notes for [Verse 5.152].
 <details><summary>Bühler</summary>
 
 155	No sacrifice, no vow, no fast must be performed by women apart (from their husbands); if a wife obeys her husband, she will for that (reason alone) be exalted in heaven.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अयं पूर्वविधिस्तुत्यर्थवादः । तथा च –
 </details>

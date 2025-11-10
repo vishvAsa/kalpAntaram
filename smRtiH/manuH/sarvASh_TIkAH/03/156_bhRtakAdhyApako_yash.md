@@ -1,6 +1,5 @@
 +++
 title = "156 भृतकाध्यापको यश्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,10 @@ See Comparative notes for [Verse 3.150].
 <details><summary>Bühler</summary>
 
 156	He who teaches for a stipulated fee and he who is taught on that condition, he who instructs Sudra pupils and he whose teacher is a Sudra, he who speaks rudely, the son of an adulteress, and the son of a widow,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उत्पाद्याध्यापकः **भृतकाध्यापकः** गुरुर् यदि यतेति (?) भृतैः प्रसिद्धत्वात् । **[१३९]** यदि वै तद् एवं भवति ततः "अध्याप्या दश धर्मतः"(म्ध् २.१०९), "धर्मर्थौ यत्र न स्यातां" (म्ध् २.११२), "स्नास्यंस्तु गुरुणाज्ञाप्तः शक्त्या गुर्वर्थम् आहरेत्" (म्ध् २.२४५), "त्रीणि कर्माणि जीविका" (म्ध् १०.७६) इत्येवमादीनि शास्त्राण्य् अर्थवन्ति नान्यथा । कुण्डगोलकौ वक्ष्यमाणौ ।
 </details>

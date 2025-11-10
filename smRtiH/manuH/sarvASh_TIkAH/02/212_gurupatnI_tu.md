@@ -1,6 +1,5 @@
 +++
 title = "212 गुरुपत्नी तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -43,4 +42,10 @@ the teacher’s wife.’
 <details><summary>Bühler</summary>
 
 212	(A pupil) who is full twenty years old, and knows what is becoming and unbecoming, shall not salute a young wife of his teacher (by clasping) her feet.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विशेषप्रतिषेधो ऽयम् । पूर्व उत्तरश् च **पूर्णविंशतिवर्षेण** **गुणदोषज्ञेन** नान्यदेत्य् अर्थः । अस्यार्थवादः ।
 </details>

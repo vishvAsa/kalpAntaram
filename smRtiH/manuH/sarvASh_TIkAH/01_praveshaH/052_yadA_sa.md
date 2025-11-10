@@ -1,6 +1,5 @@
 +++
 title = "052 यदा स"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -28,4 +27,10 @@ When that divine being is awake, then this world is active; when he slumbers, wi
 <details><summary>Bühler</summary>
 
 052	When that divine one wakes, then this world stirs; when he slumbers tranquilly, then the universe sinks to sleep.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+दृष्टो हि लोके व्यापारो परमः स्वापकाले पुरुषस्य । एवं च,
 </details>

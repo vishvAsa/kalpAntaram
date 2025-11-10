@@ -1,6 +1,5 @@
 +++
 title = "261 पिण्डनिर्वपणङ् के"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -63,4 +62,10 @@ See Comparative notes for [Verse 3.260].
 <details><summary>Bühler</summary>
 
 261	Some make the offering of the cakes after (the dinner); some cause (them) to be eaten by birds or throw them into fire or into water.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ऋज्वर्थाः श्लोकाः (?) । न तु सर्वान् एव वयःप्रभृतिभ्यो दद्यात् । किं तर्हि ।
 </details>

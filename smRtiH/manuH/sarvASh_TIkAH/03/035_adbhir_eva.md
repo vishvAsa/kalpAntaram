@@ -1,6 +1,5 @@
 +++
 title = "035 अद्भिर् एव"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -58,4 +57,10 @@ This verse is quoted in *Smṛtitattva* (II, p. 138), where it is explained as m
 <details><summary>Bühler</summary>
 
 035	The gift of daughters among Brahmanas is most approved, (if it is preceded) by (a libation of) water; but in the case of other castes (it may be performed) by (the expression of) mutual consent.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं च प्राग् विवाहात् स्त्रीवाग्दानं सोदकं ब्राह्मणानाम् । इतरेषां निरुदकम् । तथा च वक्ष्यति "यस्या म्रियेत कन्याया वाचा सत्ये कृते पतिः" (म्ध् ९.६९) इति ।
 </details>

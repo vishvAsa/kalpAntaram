@@ -1,6 +1,5 @@
 +++
 title = "205 दैवाद्यन्तन् तद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -79,4 +78,10 @@ preceded by the offering to the Viśvedevas.’
 <details><summary>Bühler</summary>
 
 205	Let him make (the Sraddha) begin and end with (a rite) in honour of the gods; it shall not begin and end with a (rite) to the manes; for he who makes it begin and end with a (rite) in honour of the manes, soon perishes together with his progeny.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+"पूर्वं दैवं नियोजयेद्" (म्ध् ३.२०४) इत्य् अस्य विधेः स्तुत्यर्थं त(१ अक्ष् लचुन) त् । व्युत्क्रमं च श्राद्धे सर्वम् अन्यत् स्याद् इति क्रमार्थं पूर्वम् एव चास्मात् –
 </details>

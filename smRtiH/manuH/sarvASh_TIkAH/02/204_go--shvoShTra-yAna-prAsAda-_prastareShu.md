@@ -1,6 +1,5 @@
 +++
 title = "204 गो-ऽश्वोष्ट्र-यान-प्रासाद- प्रस्तरेषु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -58,4 +57,14 @@ Teacher;—except on a stone-slab, a boat, or a conveyance.’
 <details><summary>Bühler</summary>
 
 204	He may sit with his teacher in a carriage drawn by oxen, horses, or camels, on a terrace, on a bed of grass or leaves, on a mat, on a rock, on a wooden bench, or in a boat.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+"नासीत गुरुणा सह" (२.२०३) इत्य् अनेन प्रतिषिद्धस्य प्रत्युद्धारार्थम् इदम् । शिष्यवृद्ध्यर्था एकादशश्लोका निगदव्याख्याताः । अध्वर्यन(?) सम्बन्धे सति कार्यसामान्यात् अप्रतिनो (?) ऽपीयं ग्रन्थार्थः शिष्यस्य वृत्तिः स्यात् । गुरौ इदानीं गुर्वपदिष्टा विष्त्तिस् तत् गुरौ न प्राप्नोति । शास्त्राभावात् तत्रे(त्रो?)ह्यते च गुराव् अपि तद्वृत्तिर् यत इदम् आरभ्यते ।
+
+**गुरोर् गुरौ सन्निहिते गुरुवद् वृत्तिम् आचरेत् ।**
+
+न तु गुरुमूढदत्वा (?) गुरुगुरोर् यत्र तत्रस्थस्येति ।
 </details>

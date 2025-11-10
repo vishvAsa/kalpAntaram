@@ -1,6 +1,5 @@
 +++
 title = "083 एकम् अप्य्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -92,4 +91,10 @@ making them sit facing the east......... he shall offer him water and seat; and 
 <details><summary>Bühler</summary>
 
 083	Let him feed even one Brahmana in honour of the manes at (the Sraddha), which belongs to the five great sacrifices; but let him not feed on that (occasion) any Brahmana on account of the Vaisvadeva offering.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+वैश्वदेवाद् अधिकम् इदं श्राद्धकर्मश्लोकद्वयेनाभिधीयते । अस्य विकल्पेन क्रियाम् अपि वक्ष्यति ।
 </details>

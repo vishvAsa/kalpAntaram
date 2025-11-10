@@ -1,6 +1,5 @@
 +++
 title = "241 मृतं शरीरम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -41,4 +40,10 @@ log of wood or a clod of earth; having used it for a while, they turn their back
 <details><summary>Bühler</summary>
 
 241	Leaving the dead body on the ground like a log of wood, or a clod of earth, the relatives depart with averted faces; but spiritual merit follows the (soul).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यतश् च । अतो न मात्राद्यर्थं –
 </details>

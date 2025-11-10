@@ -1,6 +1,5 @@
 +++
 title = "079 स सन्धार्यः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -66,4 +65,10 @@ Buhler and Burnell).
 <details><summary>Bühler</summary>
 
 079	(The duties of) this order, which cannot be practised by men with weak organs, must be carefully observed by him who desires imperishable (bliss in) heaven, and constant happiness in this (life).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+फलविधिना स्तुतिः पञ्चमहायज्ञानुष्ठानस्य ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "172 परिवित्तिः परिवेत्ता"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -62,4 +61,10 @@ marries illegally—all these are outcasts.’
 <details><summary>Bühler</summary>
 
 172	The elder brother who marries after the younger, the younger brother who marries before the elder, the female with whom such a marriage is contracted, he who gives her away, and the sacrificing priest, as the fifth, all fall into hell.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**परिवेत्ता** तावच् छास्त्रातिक्र्मात् **परिवित्तिर्** विघ्नहेतुत्वात् । कनीयसः कर्मानुष्ठाने कन्या च प्रत्यवायहेतुर् येन पतेद् एवं यो **दातृयाजकौ** च प्रतिषिद्धार्थानुष्ठानसहकारितया पञ्चश[१ अक्ष् उन्च्लेअर्; पञ्चमौ?] **दातृयाजक**ग्रहणात् सर्वकार्येषु साहित्यप्रतिषेधो ऽनुमीयते । तथा चेन् निबन्धन एवायं शिष्टप्रतिवादः । पुरुषस्य भवन्ति ये सभायाः कलुषे कर्मणि धर्मसञ्चये वा अवगच्छति तांस् तदन्तरात्मा नियतं ते ऽपि नरास् तदंशभाज इति । (?)
 </details>

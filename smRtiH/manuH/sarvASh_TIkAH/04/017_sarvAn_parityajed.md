@@ -1,6 +1,5 @@
 +++
 title = "017 सर्वान् परित्यजेद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ Those things that are likely to obstruct Vedic study should all be relinquished;
 <details><summary>Bühler</summary>
 
 017	Let him avoid all (means of acquiring) wealth which impede the study of the Veda; (let him maintain himself) anyhow, but study, because that (devotion to the Veda-study secures) the realisation of his aims.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यं (?) नित्यस्वाध्यायत्वम् । तथा च ब्राह्मणम् "यं यं क्रतुम् अधीते तेन तेन हास्य क्रतुनेष्टं भवति" इति ।
 </details>

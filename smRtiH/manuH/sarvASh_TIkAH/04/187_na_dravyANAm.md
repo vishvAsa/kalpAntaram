@@ -1,6 +1,5 @@
 +++
 title = "187 न द्रव्याणाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -43,4 +42,10 @@ method of receiving them, he falls along with the giver.’
 <details><summary>Bühler</summary>
 
 187	Without a full knowledge of the rules, prescribed by the sacred law for the acceptance of presents, a wise man should not take anything, even though he may pine with hunger.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**धर्म्यो विधिर्** यज्ञार्थत्वम् । धनस्य एतद् विज्ञाय द्रव्यदेवताम् वा "वरुणायाश्वं रुद्राय गाम्" इत्य् एवम् आरभ्य **द्रव्याणां** देवताभिहिता शास्त्रान्तरे । **प्रतिग्रहम्** अन्तं वा सामान्यं विनष्टं वा । "**अवसीदन्न् अपि क्षुदा**" इत्य् अर्थवादो ऽयं प्रतिग्रहविधिस्तुत्यर्थः । एवं च क्षुधावसादे अबुद्ध्यापि गृह्यमाणो (?) न प्रत्यवायाय । एतद् अपि शब्दात् । तद् इदानीं प्रतिग्रहद्रव्यं दर्शयति ।
 </details>

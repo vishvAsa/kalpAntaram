@@ -1,6 +1,5 @@
 +++
 title = "077 यथा वायुम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -35,4 +34,13 @@ The compound ‘*itarāśramāḥ*’ is to be expounded as a *Karmadhāraya* co
 <details><summary>Bühler</summary>
 
 077	As all living creatures subsist by receiving support from air, even so (the members of) all orders subsist by receiving support from the householder.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+> [**यथा वायुं समाश्रित्य सर्वे जीवन्ति जन्तवः ।  
+तथा गृहस्थम् आश्रित्य वर्तन्त इतराश्रमाः ॥ ]**
+
+एवं च सति,
 </details>

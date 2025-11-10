@@ -1,6 +1,5 @@
 +++
 title = "149 अल्पं वा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -62,4 +61,10 @@ a *Guru* who, having performed the rite, imparts to him the Veda.’
 <details><summary>Bühler</summary>
 
 149	(The pupil) must know that that man also who benefits him by (instruction in) the Veda, be it little or much, is called in these (Institutes) his Guru, in consequence of that benefit (conferred by instruction in) the Veda.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एकदेशोपकारम् अपि सन्तम् उपाध्यायसञ्ज्ञं किं पुनर् महोपकारम् आचार्यम् इत्य् आचार्यप्रशंसापि सती न ह्य् अकस्मात् प्रशंसा स्याद् इत्य् अस्याप्य् उपाध्यायस्य गुरुत्वावगतिः । अधुना परकृतेर् उपोद्घातार्थम् अयम् आरभ्यते श्लोकः प्रकृतार्थस्तुत्यै ।
 </details>

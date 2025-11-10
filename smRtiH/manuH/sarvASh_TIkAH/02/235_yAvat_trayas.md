@@ -1,6 +1,5 @@
 +++
 title = "235 यावत् त्रयस्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -36,4 +35,10 @@ what is agreeable and beneficial to them;—he should do nothing without their p
 <details><summary>Bühler</summary>
 
 235	As long as those three live, so long let him not (independently) perform any other (meritorious acts); let him always serve them, rejoicing (to do what is) agreeable and beneficial (to them).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+किं चान्यत् ।
 </details>

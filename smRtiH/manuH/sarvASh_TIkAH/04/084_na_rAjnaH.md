@@ -1,6 +1,5 @@
 +++
 title = "084 न राज्ञः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,10 @@ something terrible; it is like wine-drinking, and like poison; it is better to f
 <details><summary>Bühler</summary>
 
 084	Let him not accept presents from a king who is not descended from the Kshatriya race, nor from butchers, oil-manufacturers, and publicans, nor from those who subsist by the gain of prostitutes.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अक्षत्रियाद् राज्ञः शूद्राद् अनापदि प्रतिग्रहप्रतिषेधः । येन राज्ञो ऽपत्यं राजन्यः क्षत्रिय एवोच्यते । तस्य प्रसूतिस् तत्प्रसूतिस् तज्जातिर् एवोच्यते । न राजन्यप्रसूतिर् अराजन्यप्रसूतिस् तस्माद् अराजन्यप्रसूतिनः शूद्राद् इत्य् अर्थः । अनेन राज्याभ्युत्पत्तिसामर्थ्येनोच्यते । एवं "राजतो धनम् अन्विच्छेत्" (म्ध् ४.३३) इत्य् अनेन शास्त्रेण प्राप्तस्य प्रतिषेधः । इत्य् अनेन शास्त्रेण प्राप्तस्य प्रतिषेधः । सूनादीनां चार्थात् प्राप्तः प्रतिषिध्यते ।
 </details>

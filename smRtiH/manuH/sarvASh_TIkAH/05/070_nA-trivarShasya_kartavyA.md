@@ -1,6 +1,5 @@
 +++
 title = "070 नाऽत्रिवर्षस्य कर्तव्या"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -53,4 +52,10 @@ See Comparative notes for [Verse 5.68].
 <details><summary>Bühler</summary>
 
 070	The relatives shall not offer libations to (a child) that has not reached the third year; but if it had teeth, or the ceremony of naming it (Namakarman) had been performed, (the offering of water is) optional.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+जातदन्तकृतनाम्नोर् उदकाभ्यनुज्ञानाद् अग्निसंस्कारो ऽपि तेन सह प्रतिषिद्धः पूर्वश्लोके, सामर्थ्यात् । अधिकारो ऽपीहाभ्यनुज्ञायते ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "253 ततो भुक्तवताम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,10 @@ ask them ‘*what is to he done with the remnants?*’—On being permitted by t
 <details><summary>Bühler</summary>
 
 253	Next let him inform (his guests) who have finished their meal, of the food which remains; with the permission of the Brahmanas let him dispose (of that), as they may direct.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ऋज्वर्थाः पञ्चश्लोकाः ।
 </details>

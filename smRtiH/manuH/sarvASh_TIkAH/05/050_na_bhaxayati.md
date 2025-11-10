@@ -1,6 +1,5 @@
 +++
 title = "050 न भक्षयति"
-
 +++
 
 <details><summary>मेधातिथिः</summary>
@@ -25,4 +24,10 @@ title = "050 न भक्षयति"
 <details><summary>Bühler</summary>
 
 050	He who, disregarding the rule (given above), does not eat meat like a Pisaka, becomes dear to men, and will not be tormented by diseases.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+दृष्टार्थसम्बन्धेनेयम् अविधिमांसभक्षणनिन्दातत्परिवर्जनावर्जनस्तुतिर् इयं चापरार्थमांसभक्षणाद् भवति –
 </details>

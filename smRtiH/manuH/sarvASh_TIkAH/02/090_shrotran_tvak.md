@@ -1,6 +1,5 @@
 +++
 title = "090 श्रोत्रन् त्वक्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,10 @@ See Comparative notes for [Verse 2.89].
 <details><summary>Bühler</summary>
 
 090	(Viz.) the ear, the skin, the eyes, the tongue, and the nose as the fifth, the anus, the organ of generation, hands and feet, and the (organ of) speech, named as the tenth.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कार्यभेदाच् च पुनस् तेषाम् अयं वर्गद्वयप्रविभागः शिष्यते ।
 </details>

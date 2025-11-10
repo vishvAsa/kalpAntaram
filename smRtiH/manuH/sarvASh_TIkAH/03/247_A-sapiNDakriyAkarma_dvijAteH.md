@@ -1,6 +1,5 @@
 +++
 title = "247 आ-सपिण्डक्रियाकर्म द्विजातेः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -72,4 +71,10 @@ perform the sixteen Śrāddhas; and all these should be performed by the unitary
 <details><summary>Bühler</summary>
 
 247	But before the performance of the Sapindikarana, one must feed at the funeral sacrifice in honour of a (recently-) deceased Aryan (one Brahmana) without (making an offering) to the gods, and give one cake only.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+नवश्राद्धं सपिण्डाः सह कुर्युः । पिण्डम् एकं च निर्वपेत् । इत्य् एकस्यैव श्राद्धकर्म स्यात् सा चेयम् असपिण्डक्रिया संवत्सरात् भवति । दद्याद् एकस्मै पिण्डं चैकवच् च मन्त्रान्तं हेतुत्वात् (?) तं च शास्त्रान्तरप्रसिद्धा तत्रैकता तद् एवं च न कुर्यात् । भुवि चैकम् एव पिण्डं निर्वपेद् यदा तु "सन्नयं **[१५४]** तु त्वा पितरः" इति मन्त्रवर्णात् पिण्डसंसर्गो भवति तदा –
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "096 पुष्ये तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -57,4 +56,10 @@ Rohiṇī, or on the middlemost Aṣtakā day, he shall perform the suspension (
 <details><summary>Bühler</summary>
 
 096	When the Pushya-day (of the month Pausha), or the first day of the bright half of Magha has come, a Brahmana shall perform in the forenoon the Utsargana of the Vedas.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उत्सर्गविध्यर्थो निगदार्थः श्लोकः ।
 </details>

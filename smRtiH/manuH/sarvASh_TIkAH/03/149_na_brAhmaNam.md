@@ -1,6 +1,5 @@
 +++
 title = "149 न ब्राह्मणम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -46,4 +45,10 @@ examine the Brāhmaṇa; at that in honour of Pitṛs he shall examine him with 
 <details><summary>Bühler</summary>
 
 149	For a rite sacred to the gods, he who knows the law will not make (too close) inquiries regarding an (invited) Brahmana; but when one performs a ceremony in honour of the manes, one must carefully examine (the qualities and parentage of the guest).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+निषिध्यते यथैनं लोको वेद, तथा प्रतिवक्तव्यम् । पित्र्ये तु वृत्तः स्वाध्यायावगमे यत्न आस्थेयः । अथ वा काणश्लिपद्यादीनां सत्य् अपि दुराचारणपाठे दुराचारता नैषां विद्यत इति दैवे तेषाम् अनुज्ञानार्थं परीक्षाप्रतिषेधः । परपाठे न सतां विगर्हिताचारान् इति तत्र गर्हिताचारवचनार्थवद् भवति प्रतिषिद्धब्राह्मणप्रकरणाद् यत्र तु गर्हिताचारास् तान् उभयत्रापि वर्जयेत् । ये ह्य् अत्र काणश्लीपद्यादयस् तां पित्र्यं तवेति । तथा च "ब्राह्मणो ह्य् अनधीयानस् तृणाग्निर् इव शाम्यति" (म्ध् ३.१६८) इति वक्ष्यमाणो हव्ये प्रतिषेधार्थवाद उपपद्यते । अनधीयान इति । ब्राह्मणस् त्यागम् अर्हति किं दुराचारो वाधीयानो ऽयम् अपि न तु **[१३७]** श्लीपद्यादयः । अथ वा "**पित्र्ये कर्मणि तु प्राप्ते परीक्षेत प्रयत्नतः**" इत्य् उत्तरतः प्रकरणार्थम् इदं परीक्षाप्रयत्नवचनम् । तथा चाह ।
 </details>

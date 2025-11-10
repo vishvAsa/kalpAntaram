@@ -1,6 +1,5 @@
 +++
 title = "047 तासाम् आद्याश्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,10 @@ See Comparative notes for [Verse 3.45].
 <details><summary>Bühler</summary>
 
 047	But among these the first four, the eleventh and the thirteenth are (declared to be) forbidden; the remaining nights are recommended.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तासां <u>षण्णितद</u> (?) षोषश प्रशस्ताः ऋतुदर्शनात् प्रभृति । एकादशीत्रयोदश्यौ विज्ञेयौ । न चन्द्रतिथयस् तु **दश प्रशस्तास्** **तासाम्** ।
 </details>

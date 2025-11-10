@@ -1,6 +1,5 @@
 +++
 title = "234 व्रतस्थम् अपि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -78,4 +77,10 @@ the body, Yava, Nīvāra, Mudga, while flowers, clarified butter,—these are ve
 <details><summary>Bühler</summary>
 
 234	Let him eagerly entertain at a funeral sacrifice a daughter's son, though he be a student, and let him place a Nepal blanket on the on the seat (of each guest), scattering sesamum grains on the ground.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**व्रतस्थम् अपि दौहित्रं** पित्र्य एव प्रकरणात् **यत्न**वचनम् । तद् एवं तु तृचा नियम (?) एव **व्रतस्थ**ग्रहणम् । **दौहित्र**स्तुत्यर्थम् । "व्रतवद् देवदैवत्ये" (म्ध् २.१८९) इत्यादि । यतस् तद् अदोषः (?) "मासिकार्थं तु यो ऽश्नीयात्" (म्ध् ११.१५८) इत्यत्र तत्रैव परिहारं वक्ष्यामः । दौहित्रस्य चानुक्तप्रोक्तत्वाद् (?) आनुकल्पिकेभ्य एव मातामहादिभ्यः तस्य ज्यायस्त्वम् उच्यते । **कुतपस्य** च । दौहित्रसन्नियोगे विधानम् अथ वा आसनदानप्रकरणे **[१५२]** अपरिमितत्वात् कुतपस्यानुकल्पिके तद्दौहित्रेण सहोपदेशाद् अस्यानुकल्पिक एतामहम्यतेति (?) । कस्मात् पुनर् एतद् एवम् । यस्मात् –
 </details>

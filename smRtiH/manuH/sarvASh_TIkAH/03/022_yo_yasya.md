@@ -1,6 +1,5 @@
 +++
 title = "022 यो यस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -46,4 +45,10 @@ keeping with the form of marriage.’
 <details><summary>Bühler</summary>
 
 022	Which is lawful for each caste (varna) and which are the virtues or faults of each (rite), all this I will declare to you, as well as their good and evil results with respect to the offspring.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विवक्षितधर्मोपन्यासार्थः श्लोकः । **ये यस्य धर्मास्** ते उच्यन्ते ।
 </details>

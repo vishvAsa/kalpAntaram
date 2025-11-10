@@ -1,6 +1,5 @@
 +++
 title = "253 आर्धिकः, कुलमित्रम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,10 @@ made with milk may be eaten even from a Śūdra.’
 <details><summary>Bühler</summary>
 
 253	His labourer in tillage, a friend of his family, his cow-herd, his slave, and his barber are, among Sudras, those whose food he may eat, likewise (a poor man) who offers himself (to be his slave).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**आर्धिको** ऽंशहरः । कश् चासौ । पारशवः तत्कुलीनानां स्नातकानाम् असौ भोज्यान्नः । <u>अपरे</u> तु कृष्यादिव्यवहारेषु सम्भूयकारिणम् आहुः । पितृपितामहानुवृत्तं कुलमित्रम् । गोपालदासनापिता आत्मीया एव । शाके त्व् अश्राद्धिनो ऽपि सन्तः शूद्रा भोज्यान्नाः यतश् चात्मानं निवेदयेद् एभ्यो ऽन्ये ऽपि तदात्मनिवेदनं दर्शयति –
 </details>

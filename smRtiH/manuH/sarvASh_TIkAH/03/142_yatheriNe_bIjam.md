@@ -1,6 +1,5 @@
 +++
 title = "142 यथेरिणे बीजम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -35,4 +34,10 @@ germinate and the sower does not reap even a part of the seed, so also the Śrā
 <details><summary>Bühler</summary>
 
 142	As a husbandman reaps no harvest when he has sown the seed in barren soil, even so the giver of sacrificial food gains no reward if he presented it to a man unacquainted with the Rikas.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अयं गुणवन्मित्रप्रतिप्रसवार्थः श्लोकः । अन्यस्य गुणवतो ऽभावे स्यात् तथा चानन्तरस्लोके दर्शयति ।
 </details>

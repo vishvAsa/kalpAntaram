@@ -1,6 +1,5 @@
 +++
 title = "199 प्रेत्येह चेदृशा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,10 @@ See Comparative notes for [Verse 4.195].
 <details><summary>Bühler</summary>
 
 199	Such Brahmanas are reprehended after death and in this (life) by those who expound the Veda, and a vow, performed under a false pretence, goes to the Rakshasas.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तस्मान् न धर्मचरणापदेशेन प्रायश्चित्तं चरितव्यम् इतीदं चान्यत् तत्समम् ।
 </details>

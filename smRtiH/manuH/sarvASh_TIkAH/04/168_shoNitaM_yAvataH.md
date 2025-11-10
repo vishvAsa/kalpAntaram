@@ -1,6 +1,5 @@
 +++
 title = "168 शोणितं यावतः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -36,4 +35,10 @@ See Comparative notes for [Verse 4.167].
 <details><summary>Bühler</summary>
 
 168	As many particles of dust as the blood takes up from the ground, during so many years the spiller of the blood will be devoured by other (animals) in the next world.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अन्यैर् इति व्याग्राटादिभिर् (?) इत्य् अर्थः ।
 </details>

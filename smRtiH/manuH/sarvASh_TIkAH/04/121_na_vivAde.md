@@ -1,6 +1,5 @@
 +++
 title = "121 न विवादे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -85,4 +84,10 @@ arrive, he shall not proceed with his study; but he may go on, on being permitte
 <details><summary>Bühler</summary>
 
 121	Nor during a verbal altercation, nor during a mutual assault, nor in a camp, nor during a battle, nor when he has just eaten, nor during an indigestion, nor after vomiting, nor with sour eructations,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**विवादकलहयोर्** आत्मगतयोर् अनध्यायः । असैनिको ऽपि **सेनायाम्** अलक्षितो (?) नाधीयीत । तथा **सङ्गरे** । कः पुनर् अनयोर् विशेषः । अप्रवृत्तयुद्धा **सेना** । प्रवृत्तयुद्धाह् **सङ्गरः** । गोबलीवर्दन्यायेन व्याख्येयौ ।
 </details>

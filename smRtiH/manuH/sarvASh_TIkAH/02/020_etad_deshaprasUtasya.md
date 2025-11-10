@@ -1,6 +1,5 @@
 +++
 title = "020 एतद् देशप्रसूतस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 <details><summary>Bühler</summary>
 
 020	From a Brahmana, born in that country, let all men on earth learn their several usages.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अयम् अपि ब्रह्मर्षिदेशार्थवादः । एवं च नान्यत्र्**आग्रजन्मनः** **सकाशाच्** चरित्रशिक्षणप्रतिषेधः ।
 </details>

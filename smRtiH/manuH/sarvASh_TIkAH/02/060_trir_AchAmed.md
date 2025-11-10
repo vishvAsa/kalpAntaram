@@ -1,6 +1,5 @@
 +++
 title = "060 त्रिर् आचामेद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -77,4 +76,10 @@ should touch the holes with water in its natural condition.’
 <details><summary>Bühler</summary>
 
 060	Let him first sip water thrice; next twice wipe his mouth; and, lastly, touch with water the cavities (of the head), (the seat of) the soul and the head.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+आचमनविध्यर्थः श्लोकः । आत्मग्रहणसिद्ध्या (?) हृदयार्थस् तर्ह्य् आत्मोपचारो ब्राह्मणवादेषु तद्गुणसिद्ध्यर्थं त्व् इदम् उपदिश्यते ।
 </details>

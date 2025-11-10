@@ -1,6 +1,5 @@
 +++
 title = "123 सामध्वनाव् ऋग्-यजुषी"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -62,4 +61,10 @@ shall not be read while there is sound of Sāma-singing; or when there is very h
 <details><summary>Bühler</summary>
 
 123	Let him never recite the Rig-veda or the Yagur-veda while the Saman (melodies) are heard; (let him stop all Veda-study for a day and a night) after finishing a Veda or after reciting an Aranyaka.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कदाचिद् अप्य् अनध्यायापेषुर् विद्वान् नैव च "वर्जयेन् नित्यम्" (म्ध् ४.१२७) इत्य् एवमादि । **आरण्यकं** चैकाकिनाप्य् **अधीत्या**नारब्धवेदाध्यय्नो ऽप्य् अत्र कद(?) कारणाभासम् अर्थवादम् आह ।
 </details>

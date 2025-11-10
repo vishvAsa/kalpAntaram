@@ -1,6 +1,5 @@
 +++
 title = "102 तस्य कर्मविवेकार्थम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -32,4 +31,10 @@ This verse serves the purpose of indicating the upshot of the entire eulogium pr
 <details><summary>Bühler</summary>
 
 102	In order to clearly settle his duties those of the other (castes) according to their order, wise Manu sprung from the Self-existent, composed these Institutes (of the sacred Law).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अनुशासितब्राह्मणस्याधिकृतपुरुषानुशासने स्तुतिप्रकरणसामर्थ्याद् इति । अन्यस् त्व् आह ब्राह्मणप्रशंसायाः प्रयोजनस् त्व् एको ऽयं कारणानुपदेशाद् असम्भवाच् चास्य प्रयोजनश्लोकश् चोपरिष्टात् ।स चायम् उच्यते स,
 </details>

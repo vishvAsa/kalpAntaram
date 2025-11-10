@@ -1,6 +1,5 @@
 +++
 title = "005 मुन्य्-अन्नैर् विविधैर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -47,4 +46,10 @@ he shall maintain, with things obtained without ploughing, the fires, Pitṛs, g
 <details><summary>Bühler</summary>
 
 005	Let him offer those five great sacrifices according to the rule, with various kinds of pure food fit for ascetics, or with herbs, roots, and fruit.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+मुन्यन्नम् आरण्यं वक्ष्यति ।
 </details>

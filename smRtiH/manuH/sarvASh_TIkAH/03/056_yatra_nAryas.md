@@ -1,6 +1,5 @@
 +++
 title = "056 यत्र नार्यस्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,19 @@ and fondled; where women are honoured, there the gods rejoice; where they are no
 <details><summary>Bühler</summary>
 
 056	Where women are honoured, there the gods are pleased; but where they are not honoured, no sacred rite yields rewards.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विहितोपायस्य व्यतिक्रमनिन्देयं चान्या ।
+
+**शोचन्ति जामयो यत्र विनश्यत्य् आशु तत्कुलम् ।**
+
+अनुगृह्यमाणे तदलङ्कारार्थधने 
+
+**न शोचन्ति तु यत्रैता वर्धते तद् धि सर्वदा ॥ ३.५७ ॥  
+जामयो यानि गेहानि शपन्त्य् अप्रतिपूजिताः ।**
+
+श्वशुरज्ञातिभिः ।
 </details>

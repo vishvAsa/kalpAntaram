@@ -1,6 +1,5 @@
 +++
 title = "079 अन्तर्-दशाहे स्याताम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -93,4 +92,10 @@ or death should occur, the Brāhmaṇa shall remain impure till the expiry of th
 <details><summary>Bühler</summary>
 
 079	If within the ten days (of impurity) another birth or death happens, a Brahmana shall remain impure only until the (first) period of ten days has expired.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इदम् अप्य् अयुक्तं स्मृत्यन्तराद् व्याकरणीयम् । न सूतकं दशाहे समानजातीयम् असमानजातीयं चोपनिपतितं मरणदशाहे वा । किं तर्हि । समानजातीयम् एवैतन् निर्दिश्यते । तथा च गौतमः- "तच् चेद् अन्तः पुनर् आपतेच् छेषेण शुध्येरन्" (ग्ध् १४.६) इति । तद्ग्रहणे ऽधिकृतापेक्षम् अत्र व्याकरणीयम् । अन्ये तूभयम् उभयत्र व्याख्यां नयन्ति (?) शङ्खवचनाद् "अथ चेद् अन्तरा जायेत म्रियेत वा" इति ।
 </details>

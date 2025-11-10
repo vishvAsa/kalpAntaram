@@ -1,6 +1,5 @@
 +++
 title = "081 श्रोत्रिये तूपसम्पन्ने"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -78,4 +77,10 @@ officiates,—purification is obtained in three days.’
 <details><summary>Bühler</summary>
 
 081	For a Srotriya who resides with (him out of affection), a man shall be impure for three days; for a maternal uncle, a pupil, an officiating priest, or a maternal relative, for one night together with the preceding and following days.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**उपसम्पन्न** आश्रितः । केनचित् कारणेन **मातुले पक्षिणीम् रात्रिम्** उभयत अभोक्ष्यत् । अहोभ्यां सम्बन्धाद् रात्रिः पक्षिणीत्य् एतद् औपमिकं शिष्यो ग्रन्थार्थाभ्याम् ऋत्विक् स्मृतिकर्मसम्बन्धेनापि बान्धवाश् चैवाभ्यादयः (?) ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "017 यन् मूर्त्य्-अवयवाः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -43,4 +42,10 @@ forward *another* construction by which *sūkṣmāḥ* is the nominative and
 <details><summary>Bühler</summary>
 
 017	Because those six (kinds of) minute particles, which form the (creator's) frame, enter (a-sri) these (creatures), therefore the wise call his frame sarira, (the body.)
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+भूतसूक्ष्माश्रयणाच् **छरीरम्** इति शरीरनिर्वचनं पूर्वप्रक्रियासिद्ध्यर्थम् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "160 यस्य वाङ्-मनसी"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -70,4 +69,10 @@ over his mind, his speech, his nose, his ears, his eyes, his tactile organ, his 
 <details><summary>Bühler</summary>
 
 160	He, forsooth, whose speech and thoughts are pure and ever perfectly guarded, gains the whole reward which is conferred by the Vedanta.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं च सति –
 </details>

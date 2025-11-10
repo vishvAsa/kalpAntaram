@@ -1,6 +1,5 @@
 +++
 title = "050 एतद्-अन्तास् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,15 @@ This description of the cycle of births and deaths as being due to Virtue and Vi
 <details><summary>Bühler</summary>
 
 050	The (various) conditions in this always terrible and constantly changing circle of births and deaths to which created beings are subject, are stated to begin with (that of) Brahman, and to end with (that of) these (just mentioned immovable creatures).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तथा । धर्माधर्मनिमित्तत्वं संसारस्याश्रितत्वं भवत्य् उत एवं च व्यासः ।
+
+> ऊर्ध्वमूलम् अधःशाखम् अश्वत्थं प्राहुर् अव्ययम् ।  
+> छन्दांसि यस्य पर्णानि यस् तं वेद स वेदवित् ॥ [भ्ग् १५.१]
+
+इत्येवमादिना कर्मतो जगतुत्पत्तिप्रदर्शनानन्तरम् इदानीं तस्योपसंहारं प्रलयाख्यं दर्शयति ।
 </details>

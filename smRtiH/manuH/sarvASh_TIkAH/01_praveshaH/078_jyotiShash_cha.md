@@ -1,6 +1,5 @@
 +++
 title = "078 ज्योतिषश् च"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,10 @@ See Comparative notes for [Verse 1.75 (Ākāśa produced out of ‘Mind’)].
 <details><summary>Bühler</summary>
 
 078	And from light, modifying itself, (is produced) water, possessing the quality of taste, from water earth which has the quality of smell; such is the creation in the beginning.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एभिः श्लोकैर् इमां महाभूतसृष्टिं सामान्यत उक्त्वा विशेषतो व्याचष्टे । एकप्रकरणार्थं च त्वन्यन् (?)महदादि तत् सर्वं पुनस् तथैवोत्पद्यत इति द्रष्टव्यम् एवमाद्यं न त्व् असृष्टिप्रक्रियाशेषम् अभिधायेदं प्रक्रिय्[आ]म् अधिकृत्योच्यते ।
 </details>

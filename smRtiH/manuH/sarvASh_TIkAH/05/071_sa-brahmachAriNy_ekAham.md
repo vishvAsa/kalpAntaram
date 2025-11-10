@@ -1,6 +1,5 @@
 +++
 title = "071 स-ब्रह्मचारिण्य् एकाहम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,10 @@ fellow-pupil has died.’
 <details><summary>Bühler</summary>
 
 071	If a fellow-student has died, the Smriti prescribes an impurity of one day; on a birth the purification of the Samanodakas is declared (to take place) after three (days and) nights.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**सब्रह्मचारी** प्रत्यासन्नो गृह्यते एकोपाध्यायतया । <u>अपरे</u> तु सब्रह्मचारिमात्र एवम् इच्छन्ति । क्षणं [क्षपणं?] प्रकरणाद् आशौचं अनध्यायः । सर्वस्यैव श्रोत्रियस्य त्रिरात्रं वक्ष्यति । अतो ऽयम् अश्रोत्रियार्थ आरम्भः प्रत्यासत्त्यपेक्षः (?) । या जन्मनि (?) सूतके एकोदकानाम् असपिण्ड्नां **त्रिरात्राच् छुद्धिः** । सपिण्डानां तु यथोक्तेन विधिना । एतच् चासपिण्डसूतकाशौचं सर्वसपिण्डसूतकपक्षे वेदितव्यम्, नान्यत्र ।
 </details>

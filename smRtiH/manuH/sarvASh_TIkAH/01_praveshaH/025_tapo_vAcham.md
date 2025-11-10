@@ -1,6 +1,5 @@
 +++
 title = "025 तपो वाचम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -33,4 +32,10 @@ to the expression ‘*svapoṣam puṣṭaḥ*,’ ‘reared the rearing by ones
 <details><summary>Bühler</summary>
 
 025	Austerity, speech, pleasure, desire, and anger, this whole creation he likewise produced, as he desired to call these beings into existence.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**तपश्** चान्नयणादि (चान्द्रायणादि?) प्रसिद्धं कर्मेन्द्रियकार्यः (कार्यम्) । **शब्दः** प्रियहितरूपः । नेन्द्रियम् उक्तत्वात् । **रति**(र्) तपसि प्रीतिर् न कामः । तथा च पुनर् वक्ति — **कामं च क्रोधं एव** (च) । एतत् प्रत्यनीकः संसार्यात्मा दर्मसृज्यमानानां स कर्माश्रयनिमित्तो ऽयं सृष्टौ द्रष्टव्यः । **सृष्टिं ससर्ज च** । एवमादिरूपां **सृष्टिम्** **इच्छन् इमाः प्रजाः** ।
 </details>

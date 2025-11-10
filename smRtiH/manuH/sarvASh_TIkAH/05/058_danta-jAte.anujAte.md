@@ -1,6 +1,5 @@
 +++
 title = "058 दन्त-जाते ऽनुजाते"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -125,4 +124,10 @@ days; if the dead is a child less than two years old, the impurity attaches to t
 <details><summary>Bühler</summary>
 
 058	When (a child) dies that has teethed, or that before teething has received (the sacrament of) the tonsure (Kudakarana) or (of the initiation), all relatives (become) impure, and on the birth (of a child) the same (rule) is prescribed.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**दन्तजातानुजाते च** [अनुजातो] दन्तजाताद् बालतर इत्य् अर्थः । **कृतचौले** । **च**शब्दात् कृतोपनयनादौ च **संस्थिते** अशुद्धिशास्त्रलक्षणाद् अलौकिकाः (?) **बान्धवा** इत्य् अनेन सपिण्डा एवोच्यन्ते । तथा चोत्तरश्लोके विशेषयिष्यति "**सूतके च तथोच्यते**" इत्य् अस्य समानत्वाद् अप्रकृतस्याप्य् उपन्यासः । तद् इदानीम् अशुद्धिं दर्शयति –
 </details>

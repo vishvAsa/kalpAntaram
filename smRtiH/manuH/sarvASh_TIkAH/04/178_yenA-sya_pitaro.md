@@ -1,6 +1,5 @@
 +++
 title = "178 येनाऽस्य पितरो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -55,4 +54,10 @@ its ways; all we do is that we follow the footsteps of our forefathers.’
 <details><summary>Bühler</summary>
 
 178	Let him walk in that path of holy men which his fathers and his grandfathers followed; while he walks in that, he will not suffer harm.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**सतां मार्गम्** इति लिङ्गात् सन्तो वेदस्मृतिशास्त्रविदः पितृपितामहा उच्यन्ते । तैर् यज्ञाचार आचरितस् तम् अनुतिष्ठेत् । कथम् । यद्य् अपि स्वधर्मप्रतिपत्तये स्वयं विवेचनायाम् असमर्थस् तथापि तैर् आचरित इत् कृत्वा तद्भक्त्यापि तावत् प्रतिपद्यते । उपदेशम् अन्तरेण पूर्वप्रयोगानुशिष्ट इत्य् अपरेण द्वारेण सद्धर्मप्रतिपत्तिकारणम् उच्यते ।
 </details>

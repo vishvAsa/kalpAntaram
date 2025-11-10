@@ -1,6 +1,5 @@
 +++
 title = "094 ऋषयो दीर्घसन्ध्यत्वाद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -42,4 +41,10 @@ This verse is quoted in *Nityācārapradīpa* (p. 386), which explains that ‘*
 <details><summary>Bühler</summary>
 
 094	By prolonging the twilight devotions, the sages obtained long life, wisdom, honour, fame, and excellence in Vedic knowledge.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अग्निहोत्रकामस्य सन्ध्योपासनकालस्योपरोधाशङ्कया पुनर्वचनम् अस्याश् चिरकालविधानार्थं ब्रह्मचारिणो ऽप्य् अन्यः सन्ध्योपासनकालः । स च ऋक्षविभागनाद् (?) इति । उदितहोमपक्षे च नैवं सन्ध्योपरोधो ऽग्निहोत्रकालेनेति ।
 </details>

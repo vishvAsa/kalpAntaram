@@ -1,6 +1,5 @@
 +++
 title = "081 ॐ-कार-पूर्विकास् तिस्रो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -87,4 +86,15 @@ Sāvitrī verse,—these constitute the *Sāvitra*, whereby one becomes absolved
 <details><summary>Bühler</summary>
 
 081	Know that the three imperishable Mahavyahritis, preceded by the syllable Om, and (followed) by the three-footed Savitri are the portal of the Veda and the gate leading (to union with) Brahman.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रकारान्तरेणायम् अपि पूर्वशेष एव न वा प्रकृतस्य सन्ध्योपासनस्येति ब्रह्मणो मुखं वेदाधिगमद्वारम् । तथा च वक्ष्यति- 
+
+> एतद् विदन्तो विद्वाम्सस् त्रयीनिष्कर्षम् अन्वहम् ।  
+> क्रमशः पूर्वम् अभ्यस्य पश्चाद् वेदम् अधीयते ॥ (म्ध् ४.१२५)
+
+अथ वा मुख्यं प्राणानयनम् (?) । मुखम् इव मुखं लुप्तोपमा । क उपमार्थः । पवित्रत्वम् उत्तमत्वं प्रधानत्वं वा । अयं चान्यो ऽधिकृत जपानुष्ठानस्य महिमा (?) ।
 </details>

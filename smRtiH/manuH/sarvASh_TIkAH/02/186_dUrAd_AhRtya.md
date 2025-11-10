@@ -1,6 +1,5 @@
 +++
 title = "186 दूराद् आहृत्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -82,4 +81,10 @@ in the absence of that, Khadira or Śamī or Rohitaka or Aśvattha; and in the a
 <details><summary>Bühler</summary>
 
 186	Having brought sacred fuel from a distance, let him place it anywhere but on the ground, and let him, unwearied, make with it burnt oblations to the sacred fire, both evening and morning.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+दूरशब्दः (?) परिगृहीतार्थः सामर्थ्यात् । **सन्निदध्यात् विहायसीति** भूसंसर्गप्रतिषेधार्थः । **समिधः** बहुसूक्ष्मप्राण्याश्रयत्वात् । भुवः प्राणिसङ्क्रान्तिसमत्स (?) मा भूद् इति ।
 </details>

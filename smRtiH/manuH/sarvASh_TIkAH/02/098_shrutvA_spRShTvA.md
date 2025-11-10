@@ -1,6 +1,5 @@
 +++
 title = "098 श्रुत्वा स्पृष्ट्वा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -59,4 +58,10 @@ nor should he become ruffled on coming by unhappiness; he whose mind is firm, ne
 <details><summary>Bühler</summary>
 
 098	That man may be considered to have (really) subdued his organs, who on hearing and touching and seeing, on tasting and smelling (anything) neither rejoices nor repines.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तत्संयमपदार्थप्ररूपणं सर्वेन्द्रियं छवार्थं (?) विज्ञेयम् । न प्रसिद्धेन्द्रियविषयमात्रम् एवेति । तथा च कृत्वेदम् उच्यते ।
 </details>

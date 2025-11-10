@@ -1,6 +1,5 @@
 +++
 title = "134 दशाब्दाख्यम् पौरसख्यम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -111,4 +110,10 @@ his *friend*; a citizen who is senior by ten years; an artisan, who is senior by
 <details><summary>Bühler</summary>
 
 134	Fellow-citizens are called friends (and equals though one be) ten years (older than the other), men practising (the same) fine art (though one be) five years (older than the other), Srotriyas (though) three years (intervene between their ages), but blood-relations only (if the) difference of age be very small.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+आत्मनो दशवराधिकेन सह यद् आख्यायते तद् **दशाख्याब्दम्** । किं तत् **पौरसख्यम्** । पुरे भवः पौरः । तस्य सख्यं पौरसख्यम् । पुरग्रहणं निदर्शनार्थम् । सख्यं तु पूर्ववयाः "प्रत्युत्थायाभिवादयेत्" (म्ध् २.११९) इत्य् एतस्माच् छास्त्रात् प्रातः प्रत्युत्थानादिर् अत्र प्रतिषिध्यते । तथा च गौतमः- "भो भवन्न् इति वयस्यः" [ग्ध् ६.१४] । मित्रत्वाद् एवं वक्तव्यः । न तु मान्यः निर्गुणे चैतद् एकजातौ द्रष्टव्यम् उत्तरत्र गुणोपदेशाज् जातिस्तुतश् चेत्य् एवं कलाभृतौ इति । गुणाधिक्याद् वर्षावरः (?) । "**त्र्यब्दपूर्वं श्रोत्रियाणाम्**" इतीदं द्विजातिलिङ्गश्रोत्रियग्रहणं द्विजातिग्रहणम् उत्तरत्र च शूद्रग्रहणम् एतदर्थं लिङ्गयति । अल्पेनाप्य् अधिकस्वल्पे यो (?) निष्ठः समानयोनिष्ठश् च जातिप्रति । समानं (?) पूर्वेण
 </details>

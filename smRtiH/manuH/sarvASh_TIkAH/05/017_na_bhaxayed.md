@@ -1,6 +1,5 @@
 +++
 title = "017 न भक्षयेद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -67,4 +66,10 @@ should not be eaten: the cow, the camel, the ass, the horse, the elephant, the l
 <details><summary>Bühler</summary>
 
 017	Let him not eat solitary or unknown beasts and birds, though they may fall under (the categories of) eatable (creatures), nor any five-toed (animals).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**एकचराः** सर्पादयः **अज्ञाताश् च** तज्जातीनाम् अतो **मृगद्विजाः** शिष्टैर् अन्यैर् वा वाहगोचरैः (?) **भक्ष्येष्व्** अप्रतिषिद्धेष्व् **अपीत्य्** अर्थः । समुद्दिष्टा इव **समुद्दिष्टाः** । प्रतिषेधभक्षणाद् अशनचिह्नेन परिहर्तव्यतयाविज्ञाता सन्दिग्धा तथा **पञ्चनखाश्** चेत्य् एवं पञ्चनखे चापि भक्षणप्रतिप्रसवार्थम् इदम् आह –
 </details>

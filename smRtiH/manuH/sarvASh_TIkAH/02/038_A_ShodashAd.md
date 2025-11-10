@@ -1,6 +1,5 @@
 +++
 title = "038 आ षोदशाद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -152,4 +151,10 @@ the ‘Apostate’ as Yājñavalkya.)
 <details><summary>Bühler</summary>
 
 038	The (time for the) Savitri (initiation) of a Brahmana does not pass until the completion of the sixteenth year (after conception), of a Kshatriya until the completion of the twenty-second, and of a Vaisya until the completion of the twenty-fourth.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+किमर्थम् इदं प्राथमकल्पकोपनयनकालव्यतिरेकेणैषाम् एतद् अन्यत्र न प्राप्नोतीतीष्यते । स्याद् इत्य् आरम्भः । किम् अयम् आङ् (?) अभिविधाव् अथ मर्यादायाम् । कश् चात्र विशेषः । यद्य् अभिविधौ सह गर्भषोडशेन । अथ मर्यादायाम्, तद् वर्जयित्वाभिविधेन तर्हि गायत्रछन्दो ऽनुगमाद् ब्राह्मणस्य तस्याश् च द्वैगुण्यसम्पादनं षोडशाब्दे [१ अक्ष् उन्च्लेअर्]नैकत्र **सावित्री** **नातिवर्तते** । सावित्र्यनुवचनसाधनम् उपनयनं सावित्रीत्य् उच्यते । गणतः सा इयं तं कालं न जहाति । अधिकारयोग्याम् आचष्टे । एवं द्वाविंशतेः क्षत्रबन्धोर् आगतं(?) न पठ्यते पादाधिक्यभयात् । तदर्थस् तु प्रतीयते प्रकरणसामर्थ्यात् । **आ चतुर्विंशतेर् विश** (?) इत्य् अधिकृ(?)स्याप्य् आङः पुनराम्नानं पादपूरणार्थम् ।
 </details>

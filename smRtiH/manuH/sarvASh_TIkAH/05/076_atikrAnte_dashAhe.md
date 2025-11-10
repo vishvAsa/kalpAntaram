@@ -1,6 +1,5 @@
 +++
 title = "076 अतिक्रान्ते दशाहे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ the full period of impurity.
 <details><summary>Bühler</summary>
 
 076	If the ten days have passed, he shall be impure during three (days and) nights; but if a year has elapsed (since the occurrence of the death), he becomes pure merely by bathing.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+दशाहातिक्रमे एकसंवत्सरात् त्रिरात्रम् ऊर्ध्वं तु संवत्सरात् सद्यः शौचम् ।
 </details>

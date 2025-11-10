@@ -1,6 +1,5 @@
 +++
 title = "011 यस्यास् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -83,4 +82,10 @@ who has her father, mother and brother and is endowed with all suitable qualitie
 <details><summary>Bühler</summary>
 
 011	But a prudent man should not marry (a maiden) who has no brother, nor one whose father is not known, through fear lest (in the former case she be made) an appointed daughter (and in the latter) lest (he should commit) sin.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ययोर्जन्यजनकभावेन **पिता न ज्ञायते भ्राता वा** ताम् अपि लोकवचनात् केवलाद् उपेयात् । अथ वा पितृग्रहणं कुलसंविज्ञानार्थम् । **पुत्रिकाधर्मश्** च तदा नोभयशेषः । भार्योपसङ्ग्रहप्रकरणात् । इदानीम् अर्थप्राप्तस्य सवर्णाग्रहणस्य क्रमविधिर् अयं शिष्यत् –
 </details>

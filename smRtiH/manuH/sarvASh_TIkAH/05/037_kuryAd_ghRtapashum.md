@@ -1,6 +1,5 @@
 +++
 title = "037 कुर्याद् घृतपशुम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -110,4 +109,10 @@ one should offer an animal made either of butter or of flour;
 <details><summary>Bühler</summary>
 
 037	If he has a strong desire (for meat) he may make an animal of clarified butter or one of flour, (and eat that); but let him never seek to destroy an animal without a (lawful) reason.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सङ्गे कर्मणः पशुस्थाने छागस्यागेयत्वात् "तेजो वै घृतम्" इति श्रुतेः घृतपशुं कुर्यान् मुख्यपशुस्थाने घृतादानम् । मेदोरूपाणां (?) वा । तत्कारणेन पिष्टेन पिष्टमयं पशुं न तु शास्त्रविरुद्धेन [विधिना]? वृथा पशूनां यस्माद् आह –
 </details>

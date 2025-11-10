@@ -1,6 +1,5 @@
 +++
 title = "042 अनिन्दितैः स्त्रीविवाहैर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -40,4 +39,16 @@ See Comparative notes for [Verse 3.39].
 <details><summary>Bühler</summary>
 
 042	In the blameless marriages blameless children are born to men, in blamable (marriages) blamable (offspring); one should therefore avoid the blamable (forms of marriage).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विहितस्तुतिपरम् एतत् सर्ववर्णानाम् । इदानीम् अधिकारशास्त्रं प्रैषिध्यते ।
+
+**पाणिग्रहणसंस्कारः सवर्णासूपदिश्यते ।  
+असवर्णास्व् अयं ज्ञेयो विधिर् उद्वाहकर्मणि ॥ ३.४३ ॥  
+शरः क्षत्रियया ग्राह्यः प्रतोदो वैश्यकन्यया ।**
+
+ब्राह्मणीपाणिपरिगृहीतः पाणिग्रहणस्थाने । एवं प्रतोदो वैश्यकन्या । ब्राह्मणक्षत्रियपाणिपरिगृहीतः पाणिग्रहणस्थाने ग्राह्य इति वर्तते ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "194 हीनान्न-वस्त्र-वेषः स्यात्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -65,4 +64,10 @@ Do. Do. (1.4.28).—‘One who sleeps after and rises before the teacher is desc
 <details><summary>Bühler</summary>
 
 194	In the presence of his teacher let him always eat less, wear a less valuable dress and ornaments (than the former), and let him rise earlier (from his bed), and go to rest later.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सुषुप्सोर् अन्यत्र वायं चान्यो व्रतधर्मः ।
 </details>

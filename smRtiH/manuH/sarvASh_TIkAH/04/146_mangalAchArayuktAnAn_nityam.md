@@ -1,6 +1,5 @@
 +++
 title = "146 मङ्गलाचारयुक्तानान् नित्यम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -34,4 +33,10 @@ This verse is quoted in *Nityācārapradīpa* (p. 492).
 <details><summary>Bühler</summary>
 
 146	No calamity happens to those who eagerly follow auspicious customs and the rule of good conduct, to those who are always careful of purity, and to those who mutter (sacred texts) and offer burnt-oblations.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तद् इदम् आचारमुख्यत्वप्रदर्शनायोच्यते तस्य ।
 </details>

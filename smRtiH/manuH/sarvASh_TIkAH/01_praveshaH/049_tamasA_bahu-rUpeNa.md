@@ -1,6 +1,5 @@
 +++
 title = "049 तमसा बहु-रूपेण"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -42,4 +41,10 @@ animate beings in the state of sleep, intoxication or swoon. \[Which shows that 
 <details><summary>Bühler</summary>
 
 049	These (plants) which are surrounded by multiform Darkness, the result of their acts (in former existences), possess internal consciousness and experience pleasure and pain.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**तमसा** धर्मेण **बहुरूपेणा**नेकप्रकारेण **वेष्टिताः** सम्बन्धाः शिष्टाकरणप्रतिषिद्धसेवनारूपेनासत्**कर्महेतुना** **अन्तःसञ्ज्ञा भवन्त्य् एते** सर्व एव स्थावरात्मानः यथा जले बालेव (?) पुरुषे विद्यमानाव् इन्द्रियवृत्तिदोषप्रसङ्गाद् अन्यतो वा कारणान् नाविर्भवति एवं वृक्षादिषु विद्यमानापीन्द्रियवृत्तिः प्राणादिवृत्तिश् च जातिप्रबन्धान् नाविर्भवति । कर्मतः उभाभ्यां सुखदुःकाभ्यां श[१ अक्ष् उन्च्लेअर्]नितास् तु चैतन्यावभवति (?) । तथा च श्रुतिः "स यां शाखो(खां) जीवो जहाति अथ सा सुष्यति" इति । न्यायश् च तद्विरुद्धो न प्रमाणम् इत्य् उक्तम् । एवं च सति,
 </details>

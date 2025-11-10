@@ -1,6 +1,5 @@
 +++
 title = "032 शक्तितो ऽपचमानेभ्यो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -64,4 +63,10 @@ Do. (2.10.10).—‘Distribution of food has been laid down for such seekers for
 <details><summary>Bühler</summary>
 
 032	A householder must give (as much food) as he is able (to spare) to those who do not cook for themselves, and to all beings one must distribute (food) without detriment (to one's own interest).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तच् चैतद् (?) अत्यन्तप्रतिषेधे विरुध्येत यस्माद् इह्**आपचमानाः** पाषण्डिन एव प्रकृताः । भूतग्रहणं च सम्मानलिङ्गं तेन च विज्ञायते । वेदविद्याव्रतस्नातकेभ्यो ऽन्यत्रायं दानचोदनहव्यकव्याभ्यां चेतरथा ह्य् अनारम्भसमं प्रसज्येतोक्तत्वात् तदन्नदानस्येति । "**संविभागश् च भूतेभ्यः**" इत्य् एतच् चान्नदानव्यतिरेकेणान्यद् दिव्यदानं गम्यते । इतरथा ह्य् अनारम्भसमं प्रसज्येत । तत् पूर्वेणैव सिद्धत्वाद् इति ।
 </details>

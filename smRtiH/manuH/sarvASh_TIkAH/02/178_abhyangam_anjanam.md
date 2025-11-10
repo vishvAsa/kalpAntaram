@@ -1,6 +1,5 @@
 +++
 title = "178 अभ्यङ्गम् अञ्जनम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -63,4 +62,10 @@ See Comparative notes for [Verse 2.177].
 <details><summary>Bühler</summary>
 
 178	From anointing (his body), applying collyrium to his eyes, from the use of shoes and of an umbrella (or parasol), from (sensual) desire, anger, covetousness, dancing, singing, and playing (musical instruments),
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**अभ्यङ्गाञ्जन**(?)प्रतिषेधो ऽयं निषेधाद् अञ्जनस्य सामर्थात् (?) । स्त्रीप्रतिषेधात् **काम**प्रतिषेधः । पुनर् अन्यार्थम् । अर्थप्राप्तानां चैषां प्रतिषेधः ।
 </details>

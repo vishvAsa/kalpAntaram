@@ -1,6 +1,5 @@
 +++
 title = "116 भुक्तवत्स्व् अथ"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -58,4 +57,10 @@ rest.’
 <details><summary>Bühler</summary>
 
 116	After the Brahmanas, the kinsmen, and the servants have dined, the householder and his wife may afterwards eat what remains.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+स्वे गर्भदासादयः । भृत्यवेतनिनः चोद्यन्ते । कस्य पुनर् हेतोः । गृहस्थस्य इयान् आत्मसंयमोपदेशो महता प्रकरणेन क्रियत इत्य् उच्यते । कथम् । नायम् एवात्मसंयमज्ञः प्रयत्नेन ।
 </details>

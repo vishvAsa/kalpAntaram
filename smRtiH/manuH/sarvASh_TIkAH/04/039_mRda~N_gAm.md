@@ -1,6 +1,5 @@
 +++
 title = "039 मृदङ् गाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -59,4 +58,10 @@ trees he shall salute; and he shall pass by all auspicious objects in such a way
 <details><summary>Bühler</summary>
 
 039	Let him pass by (a mound of) earth, a cow, an idol, a Brahmana, clarified butter, honey, a crossway, and well-known trees, turning his right hand towards them.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+शास्त्रे लोके वा देवताधिष्ठानेन ।
 </details>

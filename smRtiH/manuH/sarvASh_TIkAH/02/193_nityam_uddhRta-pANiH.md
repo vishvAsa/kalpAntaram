@@ -1,6 +1,5 @@
 +++
 title = "193 नित्यम् उद्धृत-पाणिः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -52,4 +51,10 @@ teacher’s right, facing either the east or the north.’
 <details><summary>Bühler</summary>
 
 193	Let him always keep his right arm uncovered, behave decently and keep his body well covered, and when he is addressed (with the words), 'Be seated,' he shall sit down, facing his teacher.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अनुज्ञात उपविशेद् इत्य् अर्थः । अयं त्व् अपि सार्वत्रिक एव विधिः । इदं चान्यत् – व्रतदर्मम् अपि सत् सदाग्रहणाद् यावज्जीवं द्रष्टव्यम् ।
 </details>

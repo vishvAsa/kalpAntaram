@@ -1,6 +1,5 @@
 +++
 title = "148 मातामहम् मातुलम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,10 @@ son,—these deserve to be offered the seat at the Śrāddha to the Pitṛs; the
 <details><summary>Bühler</summary>
 
 148	One may also entertain (on such occasions) one's maternal grandfather, a maternal uncle, a sister's son, a father-in-law, one's teacher, a daughter's son, a daughter's husband, a cognate kinsman, one's own officiating priest or a man for whom one offers sacrifices.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अत्र **गुरु**ग्रहणं विद्यागुरूणाम् अर्थाय । <u>केचित्</u> तु [आहुः?] प्रियम् अस्मिन् स्थाने परेति मित्रप्रतिप्रसवार्थम् [इति?] । <u>तद्</u> अयुक्तम् । उक्तत्वान् मित्रप्रतिप्रसवस्य "कामं श्राद्धे ऽर्चयेन् मित्रम्" (म्ध् ३.१४४) इति । **विट्पतिर्** जामाता विट्शब्दस्य प्रजावाचित्वाद्, विशां पतिर् दौहित्रसन्निधौ चास्य श्रवणात् । सम्बन्धिबान्धवमध्ये (?) चोर्वदेधादतो (?) नातिथिर् एवं च यत् । कैश्चिद् उक्तं विशां पतिर् अवेशेषेण सर्वविशाम्पतित्वाद् अतिथिस् तदासन्नम् उक्तत्वाच् च तस्य प्रथमकल्प इति । माताहहादीनां चानुकल्पोपदेशः सम्पत् (?) सो ऽथकारगन्धेनान्यथा हि ज्ञेयः ।
 </details>

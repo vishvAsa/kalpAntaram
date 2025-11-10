@@ -1,6 +1,5 @@
 +++
 title = "035 कॢप्तकेश-नख-श्मश्रुर् दान्तः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,10 @@ colouring; also what is naturally black. He shall wear only such cloth as may no
 <details><summary>Bühler</summary>
 
 035	Keeping his hair, nails, and beard clipped, subduing his passions by austerities, wearing white garments and (keeping himself) pure, he shall be always engaged in studying the Veda and (such acts as are) conducive to his welfare.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**नखश्मश्रु**प्रभृतीनां कल्पनेन शुचिस्नानाद् एवं च नाकस्मात् श्मश्रुप्रभृतीनि धारयेद् अशुद्धित्वात् तद्धारणस्य लिङ्गोपदेशो वायम् । तथा चेदम् अपरलिङ्गधारणम् आह स्नातकस्य ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "009 नर्क्ष-वृक्ष-नदी-नाम्नीन् नाऽन्त्य-पर्वत-नामिकाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -63,4 +62,10 @@ See Comparative notes for [Verse 3.8].
 <details><summary>Bühler</summary>
 
 009	Nor one named after a constellation, a tree, or a river, nor one bearing the name of a low caste, or of a mountain, nor one named after a bird, a snake, or a slave, nor one whose name inspires terror.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**ऋक्षनाम्नी** कृत्तिकारोहिणी । **वृक्षनाम्नी** शिंशपा क्षीरिका । **नदिनाम्नी** यमुना नर्मदा । **अन्त्यनाम्नी** ह(श?)बरिका कैवर्तिका लुब्धका । **पर्वतनाम्नी** विन्ध्या मलया । **पक्षिनाम्नी** शेय्ना कोकिला शारिका । **अहिनाम्नी** व्याला सर्पिणी । **प्रेषनाम्नी** दासी चेटी **[१०९]** किङ्करी । **भीषणनाम्नी** राक्षसी पिशाची डाकिनी ।
 </details>

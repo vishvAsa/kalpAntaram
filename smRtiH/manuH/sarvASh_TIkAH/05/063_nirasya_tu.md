@@ -1,6 +1,5 @@
 +++
 title = "063 निरस्य तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -62,4 +61,10 @@ The *Hāralatā*, which has both lines of (62) explains the meaning as—‘The 
 <details><summary>Bühler</summary>
 
 063	But a man, having spent his strength, is purified merely by bathing; after begetting a child (on a remarried female), he shall retain the impurity during three days.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पितुर् विकल्पार्थम् इदम् उच्यते । यत्र शुक्लनिरसनमात्रेण स्नानं विशिष्टम् उपदिशति । नित्याद् अधिकम् । "स्नानं मैथुनिनः स्मृतम्" (म्ध् ५.१४४) इत्य् अनेन शास्त्रेण तत्रापत्यजन्मानुरोधेन सूतकं त्र्यहं कथं न स्यात् । पितुस् त्र्यहग्रहणं च सर्वविकल्पप्रदर्शनार्थं विकल्पप्रसिद्धये पितुर् इत्य् अनेकेषां चात्र बहवः पाठविकल्पास् तु ग्रन्थगौरवभयान् नोक्ताः ।
 </details>

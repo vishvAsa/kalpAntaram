@@ -1,6 +1,5 @@
 +++
 title = "186 प्रतिग्रह-समर्थो ऽपि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -43,4 +42,10 @@ not accept them, he obtains those spacious regions which are meant for the extre
 <details><summary>Bühler</summary>
 
 186	Though (by his learning and sanctity) he may be entitled to accept presents, let him not attach himself (too much) to that (habit); for through his accepting (many) presents the divine light in him is soon extinguished.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+"यात्रामात्रप्रसिद्ध्यर्थम्" (म्ध् ४.३) इत्य् अत्रोक्तम् अपि तद् एतत् पुनर् उच्यते । कृतकरणीयस्य विशेषप्रतिषेधार्थं विशेषतो वक्ष्ये । दास्य (?) इत्य् एवं च सति सत्प्रतिग्रहाद् अपि वृत्तिनियमस्याभ्युदयविशेषार्था उत्तरार्थं वा प्रतिग्रहविशेषाभिधित्सया । तथा च दर्शयति ।
 </details>

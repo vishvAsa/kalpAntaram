@@ -1,6 +1,5 @@
 +++
 title = "118 देशधर्माञ् जातिधर्मान्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,13 @@ One fails to see the logic of the argument that, because the first lecture conta
 <details><summary>Bühler</summary>
 
 118	The primeval laws of countries, of castes (gati), of families, and the rules concerning heretics and companies (of traders and the like)- (all that) Manu has declared in these Institutes.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**जगतश् च** समुत्पत्तिम् इत्य् अत आरभ्यानुक्रमणीश् श्लोकाः । शास्त्रसामर्थ्यप्रदर्शनार्थम् । कथम् एवम् इदं बहुवृत्तान्तत्वाद् अध्येतव्यम् इत्य् अथ वा प्रदर्शितशाआस्त्रात्मनः श्रोतुः **[३३] **पूर्वं सङ्क्षेपाभिधानेनानुक्रमण्याख्येन पश्चाद् विस्तराभिधानाद् असम्मोहेन प्रतिपत्तिर् यथा स्यात् स च पुरुषार्थ इति । अतस् तदर्थम् एवास्य सङ्क्षेपविस्तराभ्याम् उपदेशो युक्तः । तथा च व्यासश्लोकः ।
+
+> विस्तीर्य हि महाग्रन्थम् ऋषिः सङ्क्षेपम् अब्रवीत् ।  
+> इष्टं हि विदुषां लोके समासव्यासधारणम् ॥ इति ।
 </details>

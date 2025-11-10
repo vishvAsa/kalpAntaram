@@ -1,6 +1,5 @@
 +++
 title = "124 तत्र ये"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,10 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 377).
 <details><summary>Bühler</summary>
 
 124	I will fully declare what and how many (Brahmanas) must be fed on that (occasion), who must be avoided, and on what kinds of food (they shall dine).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उपन्यासार्थः श्लोकः ।
 </details>

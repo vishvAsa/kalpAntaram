@@ -1,6 +1,5 @@
 +++
 title = "249 नाऽश्नन्ति पितरस्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,10 @@ This verse is quoted in *Aparārka* (p. 407);—and in *Hemādri* (Dāna, p. 56)
 <details><summary>Bühler</summary>
 
 249	During fifteen years the manes do not eat (the food) of that man who disdains a (freely-offered gift), nor does the fire carry his offerings (to the gods).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अत्रापि न ह्य् अकस्माद् अग्रहणनिन्दा युक्तेत्य् अतो ऽस्याग्रहणनियमो विज्ञायते । उक्तश् चात्र नियमो गुरुभृत्यातिथिदेवनिमित्तस्यायाचितग्रहणस्य सदुपयोगेन महाप्रयोजनत्वाद् असाधनस्य । इतरथा हि तदग्रहणे तस्य धर्मस् तत्सङ्ग्रहप्रत्यवायाय स्यात् । एवं च सतीदं तदर्थग्रहणनिन्दावचनम् **[२१०]** अर्थवद् भवतीत्य् आत्मसंयमश् चात्र श्रूयते । इत्य् उक्तेस् त्व् अयं तत्र इति उदूर्ध्वश् चायम् आत्मा सन्निहितद्रव्योपभोगात् । अतो यथोक्त एवार्थो युक्तः । यतश् चैतद् एवम् अतः –
 </details>

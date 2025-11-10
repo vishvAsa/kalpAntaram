@@ -1,6 +1,5 @@
 +++
 title = "003 सङ्कल्प-मूलः कामो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -76,4 +75,10 @@ reflection is the source of Dharma.’
 <details><summary>Bühler</summary>
 
 003	The desire (for rewards), indeed, has its root in the conception that an act can yield them, and in consequence of (that) conception sacrifices are performed; vows and the laws prescribing restraints are all stated to be kept through the idea that they will bear fruit.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इन्द्रियार्थोपभोगेच्छालक्षणस्य कामस्य मूलं तत् सङ्कल्पः । कः पुनर् असौ (?) गुणवतो विषयस्याभिधा । न तस्येह ग्रहणम् । किं तर्हि । कर्तव्यपदार्थावधारणम् इह सङ्कल्पः । स मूलं कामस्य कर्तव्येच्छायाः । एवं **यज्ञाः** श्रौतस्मार्ता इज्यादिरूपाः **सङ्कल्पसम्भवास्** तत्कर्तव्येच्छाप्रयत्नद्वारेणोच्यन्त एवं यज्ञा एवंवृत्तादिका नियमानुष्ठानलक्षणाः नियमधर्माश् च निवृत्तिरूपा एवं च क्रियाफलं न सङ्कल्पिष्यते । किं सङ्कल्पाभावाच् च नित्यकर्मानुष्ठानतः कामात्मता न भविष्यति यज्ञादिसङ्कल्पाच् च तदनुष्ठानेच्छाप्रयत्नद्वारेण "काम्यो हि वेदाधिगमः कर्मयोगश् च वैदिकः" (२.२) इत्य् एतत् दृष्टान्तः ।
 </details>

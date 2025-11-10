@@ -1,6 +1,5 @@
 +++
 title = "254 पित्र्ये स्वदितम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -72,4 +71,10 @@ the Ābhyudayika offerings—*Sampannam*.’
 <details><summary>Bühler</summary>
 
 254	At a (Sraddha) in honour of the manes one must use (in asking of the guests if they are satisfied, the word) svaditam; at a Goshthi-sraddha, (the word) susrutam; at a Vriddhi-sraddha, (the word) sampannam; and at (a rite) in honour of the gods, (the word) rukitam.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+भोजनकाल एतैः शब्दैः सम्भावयितव्या इति नियम उच्यते ऽथ वाभ्यनुज्ञानं भोजन एभिः शब्दैः क्रियते । तथा च सति **स्वदताम्** इत्य् एवमादिः पाठो विज्ञेयः ।
 </details>

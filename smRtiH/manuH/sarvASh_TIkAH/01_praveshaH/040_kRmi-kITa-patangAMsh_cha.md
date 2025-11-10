@@ -1,6 +1,5 @@
 +++
 title = "040 कृमि-कीट-पतङ्गांश् च"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -27,4 +26,10 @@ The copulative compounds in the singular are in accordance with Pāṇini’s Su
 <details><summary>Bühler</summary>
 
 040	Small and large worms and beetles, moths, lice, flies, bugs, all stinging and biting insects and the several kinds of immovable things.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उक्तप्रयोजनैषा सृष्टिः ।
 </details>

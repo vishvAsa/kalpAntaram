@@ -1,6 +1,5 @@
 +++
 title = "162 सम्मानाद् ब्राह्मणो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -43,4 +42,10 @@ when arrogant, he transgresses Dharma; and transgression of Dharma leads to hell
 <details><summary>Bühler</summary>
 
 162	A Brahmana should always fear homage as if it were poison; and constantly desire (to suffer) scorn as (he would long for) nectar.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कस्य हेतोः येन (?)
 </details>

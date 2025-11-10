@@ -1,6 +1,5 @@
 +++
 title = "019 तेषाम् इदम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -67,4 +66,10 @@ The name ‘*puruṣa*’ has been applied to the Tattvas, Principles,—because
 <details><summary>Bühler</summary>
 
 019	But from minute body (-framing) particles of these seven very powerful Purushas springs this (world), the perishable from the imperishable.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**सप्तानाम्** इति । महान् अत्र सप्तमः परिगृह्यते । तदर्थं च तन्मात्राहङ्काराणाम् अपि पुनर् ग्रहण** *** तत्त्वानां सूक्ष्माभ्यां(भ्यो) मात्राभ्यः सामान्यानवस्थिताभ्यः सर्वम् इदं व्यक्तं सम्भवत्य् अव्ययाद् व्यययं (?) नित्याद् अनित्यं सम्भवति पुरुषशब्दः चैषां पुरुषार्थत्वाद् वेदितव्यः । अथ वा मनः षष्ठानाम् इन्द्रियाणां भूतसप्तनाम् अनिर्देशः पुरुषशब्दश् च पुरुषार्थत्वाद् इत्य् उक्तम् ।
 </details>

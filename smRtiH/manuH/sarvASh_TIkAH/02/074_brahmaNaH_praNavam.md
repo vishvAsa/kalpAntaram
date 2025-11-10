@@ -1,6 +1,5 @@
 +++
 title = "074 ब्रह्मणः प्रणवम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -62,4 +61,10 @@ Heaven; therefore when going to read the Veda, one should begin with it.’
 <details><summary>Bühler</summary>
 
 074	Let him always pronounce the syllable Om at the beginning and at the end of (a lesson in) the Veda; (for) unless the syllable Om precede (the lesson) will slip away (from him), and unless it follow it will fade away.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ब्रह्मचर्योत्तरकालम् अपीति **सर्वदा**ग्रहणम् अपि विहितस्याध्यायधर्मविधानाय । ओङ्कारस्य कालविधानार्थम् इदम् आरभ्यते ।
 </details>

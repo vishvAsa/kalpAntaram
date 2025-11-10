@@ -1,6 +1,5 @@
 +++
 title = "111 यदि त्व्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -41,4 +40,10 @@ See Comparative notes for [Verse 3.110].
 <details><summary>Bühler</summary>
 
 111	But if a Kshatriya comes to the house of a Brahmana in the manner of a guest, (the house-holder) may feed him according to his desire, after the above-mentioned Brahmanas have eaten.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**अतिथिधर्मेण** त्व् एवम् आगतो भवति यदि दूराद् अपरिज्ञातः अपत्यधनः (?) कालोपगतश् च तथा **भुक्तवत्सु ब्राह्मणेषु तं भोजयेत्** । पूर्वापवादो ऽयम् ।
 </details>

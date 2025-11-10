@@ -1,6 +1,5 @@
 +++
 title = "207 मत्त-क्रुद्धातुराणाञ् च"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,10 @@ diseased, the enraged, the loose woman, the intoxicated, the enemy, of one who i
 <details><summary>Bühler</summary>
 
 207	Let him never eat (food given) by intoxicated, angry, or sick (men), nor that in which hair or insects are found, nor what has been touched intentionally with the foot,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**मत्तक्रुद्धातुरानाम्** इत्य् अतस् तात्पर्यं गृह्यते । मत्तादयो वा यावत् । **केश**ग्रहणं चात्र रोमनखमालादिप्रदर्शनार्थम् । **कीट**ग्रहणं तु तत्सदृशानां क्षुद्रजन्तूनां समाचाराद् विज्ञेयम् । **कामत** इति चैतत् **पादस्पृष्ट**विशेषणम् अकामतो भोजनस्यानुज्ञानार्थम् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "138 न श्राद्धे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -59,4 +58,10 @@ shall not receive a friend; for the purpose of making friends he shall make pres
 <details><summary>Bühler</summary>
 
 138	Let him not entertain a personal friend at a funeral sacrifice; he may gain his affection by (other) valuable gifts; let him feed at a Sraddha a Brahmana whom he considers neither as a foe nor as a friend.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अरिमित्रयोः श्राद्धदानप्रतिषेधार्थम् इदम् । शास्त्रात् प्राप्तयोर् अयं प्रतिषेधः । श्रोत्रियत्वादिगुणसम्पदस्यार्थवादो भवति ।
 </details>

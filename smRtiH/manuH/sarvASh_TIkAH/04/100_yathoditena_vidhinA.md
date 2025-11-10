@@ -1,6 +1,5 @@
 +++
 title = "100 यथोदितेन विधिना"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -59,4 +58,10 @@ stopping of reading for that reading which has been laid down as to be done ever
 <details><summary>Bühler</summary>
 
 100	According to the rule declared above, let him recite the daily (portion of the) Mantras, and a zealous Brahmana, (who is) not in distress, (shall study) the Brahmana and the Mantrasamhita.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उपसंहारार्थः श्लोकः । ब्रह्मब्राह्मणछन्दस्कृतं मन्त्रा गायत्रछन्दोऽनुगतः उभयत्र छन्दसि ब्राह्मणे च ।
 </details>

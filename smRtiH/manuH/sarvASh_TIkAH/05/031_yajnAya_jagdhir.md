@@ -1,6 +1,5 @@
 +++
 title = "031 यज्ञाय जग्धिर्"
-
 +++
 
 <details><summary>मेधातिथिः</summary>
@@ -31,4 +30,10 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 527), which adds the follo
 <details><summary>Bühler</summary>
 
 031	'The consumption of meat (is befitting) for sacrifices,' that is declared to be a rule made by the gods; but to persist (in using it) on other (occasions) is said to be a proceeding worthy of Rakshasas.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इत्य् एतत् पुनर् उत्तरश्लोकार्थम् अप्रोक्षितभक्षणनिन्दायैतन्निवृत्त्यर्थत्वात् परिसङ्ख्याशेष एवं च सत्य् अप्रोक्षितभक्षणप्रतिषेधार्थे का स्मृतिर् नियमभक्षणार्था चापारा ब्राह्मणकाम्याय श्राद्धप्राणात्ययेष्व् इयं तृतीयोच्यते ऽन्योपायप्रतिषेधर्था ।
 </details>

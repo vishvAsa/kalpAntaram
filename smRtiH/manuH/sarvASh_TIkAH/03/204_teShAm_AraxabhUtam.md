@@ -1,6 +1,5 @@
 +++
 title = "204 तेषाम् आरक्षभूतम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -55,4 +54,10 @@ Pitṛs.’
 <details><summary>Bühler</summary>
 
 204	Let him first invite a (Brahmana) in honour of the gods as a protection for the (offering to the manes); for the Rakshasas destroy a funeral sacrifice which is left without such a protection.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इष्टन् दैवतम् उद्दिश्य **दैवं पूर्वं** नियोक्तव्यम् अविशेषाद् वा सर्वदैवतम् **आरक्षभूतं** चेत् पित्र्यस्य तत् । एवम् एवं (?) च सति,
 </details>

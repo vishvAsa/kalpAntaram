@@ -1,6 +1,5 @@
 +++
 title = "286 एतद् वो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,16 @@ End of Discourse III.
 <details><summary>Bühler</summary>
 
 286	Thus all the ordinances relating to the five (daily great) sacrifices have been declared to you; hear now the law for the manner of living fit for Brahmanas.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उपसंहारो ऽयम् । उपन्यासार्थः श्लोकः । ऋतादीनां च वृत्तीनां सम्परिकीर्तनाद् द्विजातिमुख्यशब्दो ब्राह्मणार्थ एवेति ।
+
+इति श्लघ्यस्मृतिसायुज्याचार्यगुरोर् अनर्तीयस्य कृतौ मनुशास्त्रविवरणे तृतीयो ऽध्यायः ।
+
+श्री श्री ॐ (नन्दिनागरीलिप्या लिखितम् एतत्)
+
+**मनुशास्त्रविवरणम्**
 </details>

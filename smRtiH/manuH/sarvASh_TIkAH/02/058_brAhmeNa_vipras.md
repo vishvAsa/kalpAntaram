@@ -1,6 +1,5 @@
 +++
 title = "058 ब्राह्मेण विप्रस्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -118,4 +117,10 @@ between the palm and the little index: on the top of the finger tips, the *Daiva
 <details><summary>Bühler</summary>
 
 058	Let a Brahmana always sip water out of the part of the hand (tirtha) sacred to Brahman, or out of that sacred to Ka (Pragapati), or out of (that) sacred to the gods, never out of that sacred to the manes.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**ब्राह्मेणेति** विशिष्टदेवतासम्बन्धेन तीर्थस्तुतिः । परोपनार्थान् इति (?) प्रग्र(प्रकर)नाच् च तस्यैवायं तीर्थनियमात् नित्यग्रहणेन तद्वत् क्षत्रियवैश्ययोर् अपि कल्पो ऽनुमीयते । अपरे ऽपि पर्करणाद् द्विजातिप्रदर्शनार्थं वर्णयन्ति । नित्यग्रहणं च नर्णधर्मार्थः कार्यः प्राजापत्यः । त्रैदशिकं दैवम् । ब्रह्माभाववैकल्पिके चैते विज्ञेये । पित्र्यप्रतिषेधो नित्यानुवादस् तेषां लक्षणम् ।
 </details>

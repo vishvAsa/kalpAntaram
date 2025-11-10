@@ -1,6 +1,5 @@
 +++
 title = "106 सर्वेषाम् एव"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -41,4 +40,10 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 792);—in
 <details><summary>Bühler</summary>
 
 106	Among all modes of purification, purity in (the acquisition of) wealth is declared to be the best; for he is pure who gains wealth with clean hands, not he who purifies himself with earth and water.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अलोभार्थव्यवहारिणां शुचिर् लोकसंव्यवहारेष्व् आगतेष्व् अदृष्टशुद्ध्यपेक्षया चेदम् अभिधीयमानं दृष्टान्तार्थतयापि सङ्गच्छते ।
 </details>

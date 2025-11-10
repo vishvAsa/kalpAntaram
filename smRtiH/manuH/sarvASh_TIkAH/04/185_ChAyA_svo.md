@@ -1,6 +1,5 @@
 +++
 title = "185 छाया स्वो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -48,4 +47,10 @@ See Comparative notes for [Verse 4.182].
 <details><summary>Bühler</summary>
 
 185	One's slaves as one's shadow, one's daughter as the highest object of tenderness; hence if one is offended by (any one of) these, one must bear it without resentment.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ऋत्विगादीनां ग्रहणं सप्तभिः श्लोकैः सम्बन्धमात्रज्ञापनार्थः ।
 </details>

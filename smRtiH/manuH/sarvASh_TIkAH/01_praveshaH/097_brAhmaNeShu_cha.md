@@ -1,6 +1,5 @@
 +++
 title = "097 ब्राह्मणेषु च"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,19 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 <details><summary>Bühler</summary>
 
 097	Of Brahmanas, those learned (in the Veda); of the learned, those who recognise (the necessity and the manner of performing the prescribed duties); of those who possess this knowledge, those who perform them; of the performers, those who know the Brahman.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+नेयं च स्तुतिर् ब्राह्मणस्य जातिमात्रापेक्षयैवाथ तु संस्कारान्(त्) प्राप्नोत्य् अथो धर्मार्थम् उत्पन्नः संस्कृतेः शरीरम्,
+
+**उत्पत्तिर् एव विप्रस्य मूर्तिर् धर्मस्य शास्वती ।  
+स हि धर्मार्थम् उत्पन्नो ब्रह्मभूयाय**
+
+ब्रह्मत्वाय
+
+> **कल्पते ॥ १.९८ ॥**
+
+यतश् चैतद् एवम् अतः ।
 </details>

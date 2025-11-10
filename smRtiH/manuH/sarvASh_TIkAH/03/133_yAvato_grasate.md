@@ -1,6 +1,5 @@
 +++
 title = "133 यावतो ग्रसते"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -101,4 +100,10 @@ learning,—if they be of base conduct and addicted to wicked deeds,—they are 
 <details><summary>Bühler</summary>
 
 133	As many mouthfuls as an ignorant man swallows at a sacrifice to the gods or to the manes, so many red-hot spikes, spears, and iron balls must (the giver of the repast) swallow after death.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ग्रासयितुर् अत्रापराधो न ग्रसतः । तस्य श्राद्धदानोपदेशशास्त्राधिकारात् । एवं **[१३४]** च सति "**यावतो ग्रसते पिण्डांश् श्राद्धकर्मणि पिण्डदः । हव्यकव्येष्व् अमन्त्रवित्**" । एवम् एवम् इदं वाक्यसामर्थ्याद् द्रष्टव्यम् । अथ वा ग्रसितुर् अमन्त्रो विज्ञेयो ऽपराधः । रङ्कुशः (क्लेशः?) कीदृशः पुनर् ग्रासयितुः इत्य् एवम् । परम् एता (एते?) ।
 </details>

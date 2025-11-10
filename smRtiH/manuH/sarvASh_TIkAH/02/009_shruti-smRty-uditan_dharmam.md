@@ -1,6 +1,5 @@
 +++
 title = "009 श्रुति-स्मृत्य्-उदितन् धर्मम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -58,4 +57,10 @@ and in the Smṛti,—all this should be done by the Housoholder; otherwise, he 
 <details><summary>Bühler</summary>
 
 009	For that man who obeys the law prescribed in the revealed texts and in the sacred tradition, gains fame in this (world) and after death unsurpassable bliss.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+<u>ग्रहम् अत्राधिकृता स्मृत्ये</u> (?) स्तुत्यर्थम् । कथम् । यथैव श्रुत्युदितधर्मम् अनुतिष्ठन् कीर्त्या युज्यते एवं स्मृत्युदितम् अपीति भूतार्थवादेन प्रकृतार्थस्तुतिप्रकरणसामर्थात् द्रष्टव्या । एवं च न श्रुतेः स्वार्थ उपदेशः । किं तर्हि । स्मृतिस्तुत्यर्थः ।
 </details>

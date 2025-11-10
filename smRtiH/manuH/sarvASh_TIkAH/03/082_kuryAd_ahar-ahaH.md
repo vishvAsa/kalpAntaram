@@ -1,6 +1,5 @@
 +++
 title = "082 कुर्याद् अहर्-अहः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,10 @@ offered;—in *Smrtisāroddhāra* (p. 283);—in *Hemādri* (Śrāddha, pp. 208 
 <details><summary>Bühler</summary>
 
 082	Let him daily perform a funeral sacrifice with food, or with water, or also with milk, roots, and fruits, and (thus) please the manes.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तद् एवं कृतवैश्वदेवो गृहस्थः –
 </details>

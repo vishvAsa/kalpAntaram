@@ -1,6 +1,5 @@
 +++
 title = "036 एते मनूंस्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -39,4 +38,10 @@ described in Verse 22).”
 <details><summary>Bühler</summary>
 
 036	They created seven other Manus possessing great brilliancy, gods and classes of gods and great sages of measureless power,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+मन्वन्तराणां नामभिः सप्तानां स्मरणात् मन्त्राणां सप्ततोच्यते । मन्त्राणां देवनिन्दादीन्, ये च गणशः आख्यायन्ते वस्वादयः । एतांस् तु कर्मसिद्ध्यर्थम् असृजत् । तथोदकदानादिकर्मसिद्ध्यर्थम् ऋषि(ष्य)भिधानान् देवान् असृजत् ।
 </details>

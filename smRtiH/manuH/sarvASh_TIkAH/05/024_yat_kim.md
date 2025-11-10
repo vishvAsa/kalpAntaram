@@ -1,6 +1,5 @@
 +++
 title = "024 यत् किम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -98,4 +97,10 @@ fried-barley flour, vegetables, meat, curries, rice-sesamum, barley-meal, milk-v
 <details><summary>Bühler</summary>
 
 024	All lawful hard or soft food may be eaten, though stale, (after having been) mixed with fatty (substances), and so may the remains of sacrificial viands.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पर्युषितस्य भक्ष्यभोज्यस्य प्रतिषिद्धत्वाद् अयं प्रतिप्रसवो घृतादिस्नेहसम्बन्धे तस्य क्रियते । **अगर्हितं** च यद् अन्येनोपघातसम्बन्धेन भवति हविःशेषं चास्नेहसंयुक्तम् अप्य् आरम्भसामर्थाद् विज्ञायते ।
 </details>

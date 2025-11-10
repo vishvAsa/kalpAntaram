@@ -1,6 +1,5 @@
 +++
 title = "114 अमावास्या गुरुम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -39,4 +38,10 @@ reward either in this world or in the other; by study on those days, I here is d
 <details><summary>Bühler</summary>
 
 114	The new-moon day destroys the teacher, the fourteenth (day) the pupil, the eighth and the full-moon days (destroy all remembrance of) the Veda; let him therefore avoid (reading on) those (days).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विशेषवचनाद् अविकल्पो ऽनध्ययस्य चतुर्दश्यादिषु गम्यते । तथा शखलिखितौ नित्यानधायं पर्वस्व् आहतुः (?) ।
 </details>

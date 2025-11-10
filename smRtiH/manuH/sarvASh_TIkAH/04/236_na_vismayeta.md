@@ -1,6 +1,5 @@
 +++
 title = "236 न विस्मयेत"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -43,4 +42,10 @@ See Comparative notes for [Verse 4.234].
 <details><summary>Bühler</summary>
 
 236	Let him not be proud of his austerities; let him not utter a falsehood after he has offered a sacrifice; let him not speak ill of Brahmanas, though he be tormented (by them); when he has bestowed (a gift), let him not boast of it.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**वदेद् इष्ट्वा च** ज्योतिष्टोमादिभिर् यज्ञैर् **नानृतम्** इत्य् अस्य विशेषार्थः पुनर् आरम्भः । तथा च प्रायश्चित्तान्यत्वसिद्धिर् अत्र विज्ञेया । स्नातकव्रतलोपस्य प्रायश्चित्तासिद्धिः । अस्य व्यतिक्रमे निन्दार्थवादः ।
 </details>

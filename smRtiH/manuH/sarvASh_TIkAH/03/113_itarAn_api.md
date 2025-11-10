@@ -1,6 +1,5 @@
 +++
 title = "113 इतरान् अपि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,10 @@ may arrive at the time.’
 <details><summary>Bühler</summary>
 
 113	Even to others, personal friends and so forth, who have come to his house out of affection, he may give food, garnished (with seasoning) according to his ability, (at the same time) with his wife.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सम्प्रीत्या कारणेनापि ज्ञातीनां भार्याभोजनकालोपदेशस् तद् अपि विद्यागुरोस् तु नोच्यते । भोजनकालस्वातन्त्र्यात् तस्योत्तमत्वाच् च उत्तमस्य । यथोक्तम् (?) "उत्तमेषूत्तमं कुर्यात्" (म्ध् ३.१०७) इति ।
 </details>

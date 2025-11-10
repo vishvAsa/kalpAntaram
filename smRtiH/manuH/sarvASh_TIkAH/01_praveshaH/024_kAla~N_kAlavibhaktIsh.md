@@ -1,6 +1,5 @@
 +++
 title = "024 कालङ् कालविभक्तीश्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,10 @@ reads ‘*vibhaktim*’ for ‘*vibhaktiḥ*.’
 <details><summary>Bühler</summary>
 
 024	Time and the divisions of time, the lunar mansions and the planets, the rivers, the oceans, the mountains, plains, and uneven ground.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कालादिषु कानिचिद् यज्ञसिद्ध्यर्थानि कानिचित् । सुखानुभवप्रयोजनानि कानिचिद् उभयार्थानि वेदितव्यानि ।
 </details>

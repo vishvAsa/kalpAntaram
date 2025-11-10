@@ -1,6 +1,5 @@
 +++
 title = "010 वर्तयंश् च"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -93,4 +92,10 @@ in the Śruti and in the Smṛti,—every one of these should be carried out in 
 <details><summary>Bühler</summary>
 
 010	He who maintains himself by picking up grains and ears of corn, must be always intent on (the performance of) the Agnihotra, and constantly offer those Ishtis only, which are prescribed for the days of the conjunction and opposition (of the moon), and for the solstices.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अथ वा कृतार्थो विरक्तश् च सर्वा एवान्याय्यवृत्तीः परित्यज्य शिलोञ्छाभ्याम् **[१६३]** एव वर्तयेत् । यथा कथञ्चिद् यापयन् वृत्त्यात्मनाग्निहोत्रपरायण एव स्याद् इष्टीश् च कुर्यान् न काम्याः । किं तर्हि । **पार्वायणान्तीयाः** । पर्व चायनं च पर्वायणे । तयोर् अन्तः पर्वायणान्तः । तत्र भवाः **पार्वायणान्तीयाः** दर्शपूर्णमासनवयज्ञाग्रायणाः (?) । एवं च सति सर्वकाम्यप्रतिषेधो ऽस्याम् अवस्थायां (?) न केवलम् इष्टीनाम् एव । तथा च सत्य् अयम् ।
 </details>

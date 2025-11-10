@@ -1,6 +1,5 @@
 +++
 title = "066 अमन्त्रिका तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -88,4 +87,10 @@ Jātakarma and ending with Tonsure are to be done for women, without mantras; bu
 <details><summary>Bühler</summary>
 
 066	This whole series (of ceremonies) must be performed for females (also), in order to sanctify the body, at the proper time and in the proper order, but without (the recitation of) sacred texts.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+य एवं जातकर्मादीनां पुरुषस्य कालक्रमत्वाद् एष एव स्त्रीणाम् अपि द्रष्टव्यो मन्त्रहीनः । एवं चैतद् दर्शितं भवति । न समस्ते एव मन्त्रकर्मणी संस्कारसमर्थे । किं तर्हि । उपदेशसामर्थाद् आवृन्मात्रम् अपि (?) स्त्रीविषयम् (?) अमन्त्रकम् इति । नपुंसकस्य त्व् अनधिकार एव । "**अमन्त्रिका तु कार्येयं स्त्रीणाम् आवृद् अशेतषतः**" इति वचनाज् जातकर्मादिवत् ऊनवयसाम् (?) अमन्त्रकं प्राप्तं यतस् तत् प्रतिषिध्यते ।
 </details>

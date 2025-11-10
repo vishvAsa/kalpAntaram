@@ -1,6 +1,5 @@
 +++
 title = "180 सोमविक्रयिणे विष्ठा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ the physician becomes pus and blood; what is given to the temple-servant perishe
 <details><summary>Bühler</summary>
 
 180	(Food) given to a seller of Soma becomes ordure, (that given) to a physician pus and blood, but (that presented) to a temple-priest is lost, and (that given) to a usurer finds no place (in the world of the gods).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यथा कथञ्चिद् देयानि वृत्त्यर्थानि (?) [एदितोर् थिन्क्स् थिस् मय् बे फ़्रोम् अ दिफ़्फ़ेरेन्त् वेर्से]
 </details>

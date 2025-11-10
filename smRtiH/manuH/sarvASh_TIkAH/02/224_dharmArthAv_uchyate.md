@@ -1,6 +1,5 @@
 +++
 title = "224 धर्मार्थाव् उच्यते"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -73,4 +72,15 @@ wealth follows.’
 <details><summary>Bühler</summary>
 
 224	(Some declare that) the chief good consists in (the acquisition of) spiritual merit and wealth, (others place it) in (the gratification of) desire and (the acquisition of) wealth, (others) in (the acquisition of) spiritual merit alone, and (others say that the acquisition of) wealth alone is the chief good here (below); but the (correct) decision is that it consists of the aggregate of (those) three.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अर्थसुखयोर् अनुज्ञातार्थम् इदम् आरभ्यते । कथं धर्माविरोधे सति नात्यन्तं निःसुखः स्याद् एवं नात्यन्तम् अर्थतापेक्ष्यते । परस्परापेक्षत्वाद् एतेषाम् । तथा च वक्ष्यति- 
+
+> परित्यजेद् अर्थकामौ यौ स्यातां धर्मविवर्जितौ ।   
+> धर्मं चाप्य् असुखोदर्कं लोकसङ्क्रुष्टम् एव च ॥ (म्ध् ४.१७६)
+
+इति । सप्तप्रकारप्रपञ्चनिदर्शनार्थश् च पुरुषस्य पञ्चतयोपदेशः । आचार्यादीनाम् अवमानप्रतिषेधार्थम् इदम् अधुनोच्यते, शुश्रूषाशेषतया स्वतन्त्रं वा ।
 </details>

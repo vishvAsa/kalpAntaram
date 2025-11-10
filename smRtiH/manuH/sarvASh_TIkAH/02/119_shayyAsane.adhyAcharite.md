@@ -1,6 +1,5 @@
 +++
 title = "119 शय्यासने ऽध्याचरिते"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -67,4 +66,10 @@ seat before the Teacher.’
 <details><summary>Bühler</summary>
 
 119	One must not sit down on a couch or seat which a superior occupies; and he who occupies a couch or seat shall rise to meet a (superior), and (afterwards) salute him.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+व्रताविरोध्नि **शय्यासना**धिष्ठिते **श्रेयसा** गुरुणा तत्समौ वान्येन । कुतः । आत्मनः अवचनाद् अन्यस्येति विज्ञायते येनोपविशेत् तत्र स्वयं च शय्यासन एवम् आयान्तं स्थितं वा दृष्टं(ष्ट्वा?) **[७४]** **प्रत्युत्थायाभिवादयेत्** । एवं विधिद्वयम् अत्र श्रेयोनिमित्तं हि बलाबलं च वक्ष्यति । अस्य विधेर् अर्थवादः ।
 </details>

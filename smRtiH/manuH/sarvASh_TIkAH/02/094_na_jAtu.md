@@ -1,6 +1,5 @@
 +++
 title = "094 न जातु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -53,4 +52,10 @@ See Comparative notes for [Verse 2.93].
 <details><summary>Bühler</summary>
 
 094	Desire is never extinguished by the enjoyment of desired objects; it only grows stronger like a fire (fed) with clarified butter.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इदं चान्यत् प्रसङ्ख्यानं पूर्वविशेषरू (१ अक्ष् लचुन) तम् ।
 </details>

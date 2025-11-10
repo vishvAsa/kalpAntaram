@@ -1,6 +1,5 @@
 +++
 title = "277 युक्षु कुर्वन्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -55,4 +54,10 @@ suitable substances, place and Brāhmaṇas.’
 <details><summary>Bühler</summary>
 
 277	He who performs it on the even (lunar) days and under the even constellations, gains (the fulfilment of) all his wishes; he who honours the manes on odd (lunar days) and under odd (constellations), obtains distinguished offspring.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कृष्णदशमीप्रभृतिषु युक्षु नक्षत्रेषु चाहुः । अर्चन् (?) प्रजाम् अवाप्नोतीत्य् अभिप्रेतम् । काम्यो ऽयं विधिः । अथ वा स्तुत्यर्थत्वाद् एतयोर् अभ्युदयविशेषार्थ आरम्भः । केचित् त्व् एतस्माच् छ्राधात् कृष्णपक्षप्रभृतियुगायुग्मोपदेशं दिनर्क्षयोश् च नयन्ति काम्यम् । तद् अयुक्तम् । दशम्यादाव् इत्य् अधिकृतत्वात् । इत्य् अनुपदृष्टार्थम् इदम् । श्राद्धाङ्गम् अधुनोच्यते ।
 </details>

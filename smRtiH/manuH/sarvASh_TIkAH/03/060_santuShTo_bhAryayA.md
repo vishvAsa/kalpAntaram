@@ -1,6 +1,5 @@
 +++
 title = "060 सन्तुष्टो भार्यया"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -30,4 +29,10 @@ This verse is quoted in *Vivādaratnākara* (p. 421);—and in
 <details><summary>Bühler</summary>
 
 060	In that family, where the husband is pleased with his wife and the wife with her husband, happiness will assuredly be lasting.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+परस्परचिन्तानुप्रवेशेन जायापत्योर् यथा –
 </details>

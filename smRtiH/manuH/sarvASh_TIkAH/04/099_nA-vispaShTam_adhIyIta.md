@@ -1,6 +1,5 @@
 +++
 title = "099 नाऽविस्पष्टम् अधीयीत"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -55,4 +54,10 @@ obtaining gifts, leads one to hell.’
 <details><summary>Bühler</summary>
 
 099	Let him not recite (the texts) indistinctly, nor in the presence of Sudras; nor let him, if in the latter part of the night he is tired with reciting the Veda, go again to sleep.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+वृषलसन्निधौ प्रतिषेधाद् उत्तरत्र, इह "**स्त्रीजनसन्निधौ**" इति युक्तः पाठः । अथ वा त्व् अधार्मिकस् तत्र गृह्यते वृषलव्युत्पत्त्या न जातिवृषलः । ततो ऽयम् एव ज्यायान् पाठः ।
 </details>

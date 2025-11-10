@@ -1,6 +1,5 @@
 +++
 title = "074 सन्निधाव् एष"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -70,4 +69,10 @@ foreign land, he is not impure either for one day or for three days; he becomes 
 <details><summary>Bühler</summary>
 
 074	The above rule regarding impurity on account of a death has been prescribed (for cases where the kinsmen live) near (the deceased); (Sapinda) kinsmen and (Samanodaka) relatives must know the following rule (to refer to cases where deceased lived) at a distance (from them).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**सम्बन्धिनस्** ते **बान्धवा** निजेनोत्पत्तिकेन सम्बन्धेन भार्येणेत्य् अथ वा सपिण्डाः सम्बन्धिनः सोदका **बान्धवाः** । **बान्धव**शब्दो ह्य् अन्यत्रापि दृश्यते "मातुर् आप्तांश् च बान्धवान्" (म्ध् ५.१०२) इति ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "126 पशु-मण्डूक-मार्जार- श्व-सर्प-नकुलाखुभिः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -46,4 +45,14 @@ or a mongoose or a dog or a serpent or a cat or a rat,—it will be unfit for st
 <details><summary>Bühler</summary>
 
 126	Know that (the Veda-study must be) interrupted for a day and a night, when cattle, a frog, a cat, a dog, a snake, an ichneumon, or a rat pass between (the teacher and his pupil).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पशुशब्दाच् च केचिद् विशेषण (?) सप्त ग्राम्यान् पशून् इच्छन्ति । गोऽव्याजाश्वाश्वअतरगर्दभपुरुषान् सप्त चारण्यानुष्ठादीन् (?) । **[१८७]** 
+
+> [एद्. भारुचिव्याख्यातमनुस्मृतिपाठमात्रगोचरः श्लोकः]
+
+<u>अपरे</u> तु पशुयागम् एव "पशुना यजेत" इत्य् अत्र सामान्यचोदनायाः विभागस्य च <u>पायामेसो ऽनुब्रूहि</u> (?) इत्य् अस्मान् मन्त्रवणाद् यथा छागः प्रतीयते, एवम् इहापि कुतस्चित् सामर्थ्यात् छागस् तावत् प्रतिपादनीय इति । पूर्वस् त्व् अविशेषचोदनार्थो ज्यायान् अत्र दृश्यते नेतरः सामर्थदर्शनाभावात् । सर्वानध्यायविकल्पार्थं त्व् इदम् अधुनोच्यते ।
 </details>

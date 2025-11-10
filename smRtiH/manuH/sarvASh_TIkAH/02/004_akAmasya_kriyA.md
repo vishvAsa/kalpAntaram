@@ -1,6 +1,5 @@
 +++
 title = "004 अकामस्य क्रिया"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -43,4 +42,10 @@ actions, one should perform that which he wishes.’
 <details><summary>Bühler</summary>
 
 004	Not a single act here (below) appears ever to be done by a man free from desire; for whatever (man) does, it is (the result of) the impulse of desire.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कामार्थः सङ्कल्पः कामशब्देनोच्यते । तत्प्रकरणसामर्थाद् एवं चाकामस्य सङ्कपस्येच्छा कार्या क्रिया काचिन् न दृश्यते तद् उपपन्नम् । तदा देवो वाम (?) "यद् यद् धि कुरुते किञ्चित् तत् तत् कामस्य चेष्टितम्" इत्य् उपसंहारः प्रकृतस्य । एवं च ।
 </details>

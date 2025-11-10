@@ -1,6 +1,5 @@
 +++
 title = "181 एतैर् विवादान्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ See Comparative notes for [Verse 4.179].
 <details><summary>Bühler</summary>
 
 181	If he avoids quarrels with these persons, he will be freed from all sins, and by suppressing (all) such (quarrels) a householder conquers all the following worlds.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यतस् तत इमे उच्यते ।
 </details>

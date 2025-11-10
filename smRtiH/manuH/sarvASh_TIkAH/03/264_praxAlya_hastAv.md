@@ -1,6 +1,5 @@
 +++
 title = "264 प्रक्षाल्य हस्ताव्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -78,4 +77,10 @@ along with his servants, sons and relations, and accompanied by guests, he shall
 <details><summary>Bühler</summary>
 
 264	Having washed his hands and sipped water, let him prepare (food) for his paternal relations and, after giving it to them with due respect, let him feed his maternal relatives also.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+श्राद्धं (द्धे?) परिषिच्य नियमनम् इदम् उच्यते । **ज्ञात्यादिभ्यो** दारञ्च (?) (दातव्यं?)
 </details>

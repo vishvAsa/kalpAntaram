@@ -1,6 +1,5 @@
 +++
 title = "257 मुन्य्-अन्नानि पयः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -53,4 +52,10 @@ This verse is quoted in *Smṛtitattva* (p. 225), which explains ‘*anupaskṛt
 <details><summary>Bühler</summary>
 
 257	The food eaten by hermits in the forest, milk, Soma-juice, meat which is not prepared (with spices), and salt unprepared by art, are called, on account of their nature, sacrificial food.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+हविष्याणीत्य् उक्त्वेमानि हविष्याणि निदर्शयति । **पयो**ग्रहणं सर्वपयोविकारार्थम् ।
 </details>

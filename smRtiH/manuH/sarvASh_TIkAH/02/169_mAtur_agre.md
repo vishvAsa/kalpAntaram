@@ -1,6 +1,5 @@
 +++
 title = "169 मातुर् अग्रे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -58,4 +57,10 @@ and the Vaiśya are born from their mother; for the second time, out of the gird
 <details><summary>Bühler</summary>
 
 169	According to the injunction of the revealed texts the first birth of an Aryan is from (his natural) mother, the second (happens) on the tying of the girdle of Munga grass, and the third on the initiation to (the performance of) a (Srauta) sacrifice.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**मातुर् अग्रे ऽधिजननम्** इतीदं योनिजन्मनः सम्भवेन मातृप्रदर्शनान् न निन्दावचनं ब्रह्मजन्मस्तुत्यर्थं प्रकृतत्वाद् अत्र स्तुतिश् च वेदाध्यय्नहेतुत्वाद् अस्य । अत्र दृष्टान्तम् आह- यथा च यज्ञदीक्षा जन्मोत्कर्षप्रयोजनं न सत्तामात्रम् । एवम् इदम् अपि ब्रह्मजन्म । इत्य् एवं च प्रनाडिकया प्रकृतार्थस्तुतिः । जन्म च मातापितृकहेतुकं दृष्टम् । यतो यत्र ब्रह्मजन्मापि मातापितरौ कल्पयति प्रकृतस्य व्यवहितस्य वा स्तुत्यर्थम् एव । तत्र –
 </details>

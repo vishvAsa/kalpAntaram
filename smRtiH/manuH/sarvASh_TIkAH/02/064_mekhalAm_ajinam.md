@@ -1,6 +1,5 @@
 +++
 title = "064 मेखलाम् अजिनम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -75,4 +74,12 @@ broken, the Brāhmaṇa should bathe and then wear a new one.’
 <details><summary>Bühler</summary>
 
 064	His girdle, the skin (which serves as his upper garment), his staff, his sacrificial thread, (and) his water-pot he must throw into water, when they have been damaged, and take others, reciting sacred formulas.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**मन्त्रवद्** ग्रहणम् एषां यथासम्भवं वक्ष्ये यत् तयोर् (?) एव ग्रहणे मन्त्रजात्मानः गृह्येनाजिनोपवीतयोः सत्य् अपि वा विशेषाभिधाने (?) मेखलादीनां सान्वय एव विनाश एतद् उपदिश्यते । निरन्वयविनाशे ऽर्थलोपाद् उभयो ये देशानर्थक्यं मेखलाजिनदण्डोपवीतैश् च शास्त्रवत् ग्रहणैः सह प्रतिपत्तिनियमोपदेशात् कमण्डलोर् ग्रहणधारणविनियोगाद् अपि शास्त्रत एव विज्ञेया । नार्थतो विशेषहेत्वभावात् तथा च व्यासस्मरणम् । **** उन्च्लेअर् सेच्तिओन्
+
+उपस्पर्शापटु **** भगं लभते, नात्र संशय" इति । पुनश् च न परीक्षामहे । "सोदकं च कमण्डलुम्" (म्ध् ४.३६) इत्य् अत्र कृतोपनयनस्य च वेदव्रतस्यास्य स्नानोत्तरकालम् ।
 </details>

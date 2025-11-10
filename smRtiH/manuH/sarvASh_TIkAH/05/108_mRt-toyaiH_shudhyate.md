@@ -1,6 +1,5 @@
 +++
 title = "108 मृत्-तोयैः शुध्यते"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -68,4 +67,10 @@ evils of one’s deeds,—all these Renunciation burns up.’
 <details><summary>Bühler</summary>
 
 108	By earth and water is purified what ought to be made pure, a river by its current, a woman whose thoughts have been impure by the menstrual secretion, a Brahmana by abandoning the world (samnyasa).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**तोय**ग्रहणं दृष्टान्तार्थम् । **नदीवेगादीनां** शुद्धिहेतूनां नयै(चेत्?) चोदकम् इतरथा स्थावराच् छुचितरम् इति यतस् तेन नदीपुलिनानाम् अशुचिबहुलानां (?) शुद्धिर् उच्यते । एवं "**रजसा स्त्री मनोदुष्टा**" । कर्मदुष्टायास् तु प्रायश्चित्तं वक्ष्यति । प्रतिषिद्धकर्म **सन्न्यासेन** चाकार्यम् अकुर्वतो **द्विजोत्तमस्य** शुद्धिर् न दर्शनार्थं द्विजोत्तमग्रहनम् । अथ वा प्रसिद्धसन्न्यासविषयं चेदं शास्त्रसामर्थ्याद् विज्ञेयम् । इदं चापरम् उक्तानां ज्ञानादीनां शुद्धिसाधनानां विषयार्थम् उपदिश्यते ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "219 मुण्डो वा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -67,4 +66,10 @@ shaven or all in braids.’
 <details><summary>Bühler</summary>
 
 219	A (student) may either shave his head, or wear his hair in braids, or braid one lock on the crown of his head; the sun must never set or rise while he (lies asleep) in the village.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ग्रामसुखात् सङ्गो लौकिको वा तत्र वसन्तो ब्रह्मचारिणः । सूर्यो नास्तं यायाद् वारण्ये तस्योदयम् अस्तम् अयं च सम्भावयेद् इत्य् एवं तर्हि नियमगौरवार्थम् उपदिश्यते, अवक्तव्यम् अपि सद् यथाग्नीन्धनभैक्षचरणे । अन्यथेदं नियमव्यतिक्रमानुकथनम् असति प्रोजने नार्थकत्वं(?) प्राप्नोति । तथा **[१०१]** चायं प्रायश्चित्तोपदेशः । अप्रकरणे ऽपि तत्प्रयत्नगौरवप्रदर्शनार्थो न स्वार्थः ।
 </details>

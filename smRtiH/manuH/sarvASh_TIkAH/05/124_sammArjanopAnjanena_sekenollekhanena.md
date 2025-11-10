@@ -1,6 +1,5 @@
 +++
 title = "124 सम्मार्जनोपाञ्जनेन सेकेनोल्लेखनेन"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -61,4 +60,10 @@ lapse of time, by cows walking over it, by sprinkling and scraping.’
 <details><summary>Bühler</summary>
 
 124	Land is purified by (the following) five (modes, viz.) by sweeping, by smearing (it with cowdung), by sprinkling (it with cows' urine or milk), by scraping, and by cows staying (on it during a day and night).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+समस्तैर् व्यस्तैर् वा यथायोगं समाचारात् बहुभिः शुद्धिः ।
 </details>

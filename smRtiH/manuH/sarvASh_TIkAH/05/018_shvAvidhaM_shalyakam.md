@@ -1,6 +1,5 @@
 +++
 title = "018 श्वाविधं शल्यकम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,12 @@ See Comparative notes for [Verse 5.17].
 <details><summary>Bühler</summary>
 
 018	The porcupine, the hedgehog, the iguana, the rhinoceros, the tortoise, and the hare they declare to be eatable; likewise those (domestic animals) that have teeth in one jaw only, excepting camels.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+गोऽव्यजमृगांस् तत्र नियमं वक्ष्यति शास्त्रद्वयेन । गोऽव्यजस्य मृगाणां च अधुनाप्रसिद्धपरिवर्जनार्थम् अप्रकरणत्वे ऽपि प्रायश्चित्तम् इदम् उच्यते । अर्थवायाह –
+
+[हेरे एद्. इन्सेर्त्स् अफ़्तेर् गोऽव्यजस्य- गोः अवेः अजस्य चेत्य् अर्थः प्रतीयते । समस्तपदस्यास्य प्रयोगे प्राय एकवचनं प्रयुक्तं भारुचिना । २७तमस्य श्लोकस्य व्याख्यायाम् एकत्र बहुवचनप्रयोगो ऽपि दृष्टः । समाहारद्वन्द्व इति परिगणय्य एकवचनप्रयोगः निर्वाह्यो वेत्य् अत्र दोषज्ञाः प्रमाणम्]
 </details>

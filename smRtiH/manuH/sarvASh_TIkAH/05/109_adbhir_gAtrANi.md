@@ -1,6 +1,5 @@
 +++
 title = "109 अद्भिर् गात्राणि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -68,4 +67,10 @@ This verse is quoted in *Smṛtisāroddhāra* (p. 249);—and in
 <details><summary>Bühler</summary>
 
 109	The body is cleansed by water, the internal organ is purified by truthfulness, the individual soul by sacred learning and austerities, the intellect by (true) knowledge.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अयं च **ज्ञानादि**शुद्धिप्रपञ्चः पूर्वशौचप्रसङ्गेनार्थवादार्थम् अनुगृह्यते । यथेमानि ज्ञानादीनिस्वयम् एव शुद्धेः कर्तॄणि एवम् इदम् अपि शावाशौचं विज्ञेयं सामर्थ्यात् ह्य् एवैषां शुद्धिः प्रकरणेन प्रसङ्गेन यथासम्बन्धनिर्देशं कल्पनीया (?) ।
 </details>

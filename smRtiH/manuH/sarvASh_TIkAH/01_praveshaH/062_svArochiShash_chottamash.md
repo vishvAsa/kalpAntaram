@@ -1,6 +1,5 @@
 +++
 title = "062 स्वारोचिषश् चोत्तमश्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -23,4 +22,10 @@ The aforesaid Manus are now mentioned by name.
 <details><summary>Bühler</summary>
 
 062	(Are) Svarokisha, Auttami, Tamasa, Raivata, Kakshusha, possessing great lustre, and the son of Vivasvat.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तुल्यशक्तिप्रभावत्वम् एषां दर्शयति ।
 </details>

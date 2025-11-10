@@ -1,6 +1,5 @@
 +++
 title = "203 दैवकार्याद् द्विजातीनाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -36,4 +35,10 @@ the annual Śrāddha to individual ancestors,—if one performs other five sacri
 <details><summary>Bühler</summary>
 
 203	For twice-born men the rite in honour of the manes is more important than the rite in honour of the gods; for the offering to the gods which precedes (the Sraddhas), has been declared to be a means of fortifying (the latter).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यतश् चैतद् एवम् अतः ।
 </details>

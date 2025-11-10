@@ -1,6 +1,5 @@
 +++
 title = "157 यथा काष्ठमयो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -49,4 +48,10 @@ is expressed in slightly different words (12. 30. 40 ff.) and with added similes
 <details><summary>Bühler</summary>
 
 157	As an elephant made of wood, as an antelope made of leather, such is an unlearned Brahmana; those three have nothing but the names (of their kind).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+किं च –
 </details>

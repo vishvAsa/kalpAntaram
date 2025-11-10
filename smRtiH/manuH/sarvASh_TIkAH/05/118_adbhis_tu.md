@@ -1,6 +1,5 @@
 +++
 title = "118 अद्भिस् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -76,4 +75,10 @@ sprinkling water;—so also grain, skins, ropes, woven cloth, things made of bam
 <details><summary>Bühler</summary>
 
 118	The manner of purifying large quantities of grain and of cloth is to sprinkle them with water; but the purification of small quantities is prescribed (to take place) by washing them.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**अब्**ग्रहणम् अनुवादार्थम् अल्पमहत्त्वे आपेक्षिके देशकालाभ्यां विज्ञेये । अयम् अपि प्रायोगिक एव विधिः ।
 </details>

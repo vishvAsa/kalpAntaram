@@ -1,6 +1,5 @@
 +++
 title = "152 मैत्रम् प्रसाधनम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -59,4 +58,10 @@ Do. (Do., 161.25).—(Same as Manu.)
 <details><summary>Bühler</summary>
 
 152	Early in the morning only let him void faeces, decorate (his body), bathe, clean his teeth, apply collyrium to his eyes, and worship the gods.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+नियमार्थः शास्त्रारम्भः ।
 </details>

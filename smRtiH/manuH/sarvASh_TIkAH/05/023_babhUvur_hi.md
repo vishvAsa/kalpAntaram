@@ -1,6 +1,5 @@
 +++
 title = "023 बभूवुर् हि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,10 @@ See Comparative notes for [Verse 5.22].
 <details><summary>Bühler</summary>
 
 023	For in ancient (times) the sacrificial cakes were (made of the flesh) of eatable beasts and birds at the sacrifices offered by Brahmanas and Kshatriyas.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+षट्त्रिशसंवत्सरे मृगपक्षिवधो ऽनूद्यते ऽनया स्मृत्योक्ता । तत्रैकेषां मृगया जीवितात्यये च भृत्यानां भरणार्थ, स्मृत्यविरोधात् ।
 </details>

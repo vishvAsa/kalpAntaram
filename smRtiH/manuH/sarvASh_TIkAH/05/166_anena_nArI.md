@@ -1,6 +1,5 @@
 +++
 title = "166 अनेन नारी"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -58,4 +57,10 @@ well-behaved, with senses under control, attains fame in this world and the supr
 <details><summary>Bühler</summary>
 
 166	In reward of such conduct, a female who controls her thoughts, speech, and actions, gains in this (life) highest renown, and in the next (world) a place near her husband.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+स्त्रीधर्मोपसंहारार्थः श्लोकः । ऋजवश् स्त्रीधर्मा इति । यतो नात्र व्याख्यानादरः कृतः । एतावत् त्व् अत्रोपदेशार्थम् – यथा पुंसो ऽन्यया सह पुनः प्रवृत्तिः कर्मस्व् एवम् "संस्थितं च न लङ्घयेत्" (म्ध् ५.१५१) इति, येन नास्या अन्येन सह पुनः प्रवृत्तिर् अस्ति यथा च "स्वर्गं गच्छत्य् अपुत्रापि" (म्ध् ५.१६०) इत्य् अनेन अपत्यजननम् आपदि प्रतिषिध्यते । नियोगस्मृत्या तु तत् पुनर् अभ्यनुज्ञास्यते । तदपत्योत्पादनम् उक्तप्रतिषिद्धत्वाद् विकल्प्यते । अनयोः स्मृत्योः कतरा ज्यायसीति न शक्या कर्तुम् अतिशयावधारणा । येनैकत्रापत्यम्, अन्यत्र संयमः । उभयोर् अपि स्तुतिर् इति जानीमहि ।
 </details>

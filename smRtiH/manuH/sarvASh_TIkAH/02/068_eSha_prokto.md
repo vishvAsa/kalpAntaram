@@ -1,6 +1,5 @@
 +++
 title = "068 एष प्रोक्तो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,12 @@ Brāhmaṇa.’
 <details><summary>Bühler</summary>
 
 068	Thus has been described the rule for the initiation of the twice-born, which indicates a (new) birth, and sanctifies; learn (now) to what duties they must afterwards apply themselves.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**औपनायिक**ग्रहणं निदर्शनार्थम् । आदिशब्दलोपो वात्र । औपनायनिकादिर् **औपनायनिकः** । आदिशब्दस् तत्प्रकाशार्थः । निगृहीतार्थं चैतत् पदं तस्य विशेषणम् । **उत्पत्तिव्यञ्जकः** मातृजनः सामर्थ्याधायकः ब्रह्मजन्मनो वा । अतश् च **पुण्य** इत्य् उच्यते । **कर्मयोगस्** तु गुरोर् ब्रह्मचारिण उभयोर् वा **नोबोधतेति** "कृतोपनयनस्यास्य व्रतादेशनम् इष्यते" (म्ध् २.१७३) इति वक्ष्यति । 
+
+एवं चोपनयनानन्तरम् व्रतादेशे इदम् आरभ्यते ।
 </details>

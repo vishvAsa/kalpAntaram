@@ -1,6 +1,5 @@
 +++
 title = "063 उद्धृते दक्षिणे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -74,4 +73,10 @@ over the head, resting the thread on the left shoulder, hanging down the right a
 <details><summary>Bühler</summary>
 
 063	A twice-born man is called upavitin when his right arm is raised (and the sacrificial string or the dress, passed under it, rests on the left shoulder); (when his) left (arm) is raised (and the string, or the dress, passed under it, rests on the right shoulder, he is called) prakinavitin; and nivitin when it hangs down (straight) from the neck.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+निवीतस्य प्रासङ्गिको ऽनुवादः इतरसन्निवेशद्वयोपलक्षणार्थः । कथं कण्ठासक्तसूत्रस्य मध्येन्**ओद्धृते** **दक्षिणे पाणौ** पाणिग्रहणं बाहूपलक्षणार्थम् उपवीतनामा तत्सन्निवेशो भवति । सो ऽस्यास्तीत्य् **उपवीती** । यदा सूत्रम् उपवीतशब्देनोच्यते न सन्निवेशः "उपवीतं कमण्डलुम्" (म्ध् २.६४) इत्य् अत्र, तदानेन न्यायेनाकारो मत्वर्थीयो (?) ऽत्र मतुब्लोपात् साहचर्याद् वा । गुणस् ताच्छाब्दन्तता तवञ्चो(?)पवीतसन्निवेशवद् उपवीतं गुणतः सूत्रमात्रम् उच्यते । तद् एव यज्ञशेषत्वे सति शब्दान्तरं लभ्यते । यज्ञार्थम् उपवीतं यज्ञोपवीतम् । दैवे कर्मण्य् एते । तेन च प्राचीनावीती व्याख्यातः । पितृकर्मणि निवीती चाभिचार इति मेखलादीनां धारणम् उपदिष्टम् । एवं च विनष्टानाम् अपि ते ऽप्य् अप्राप्तं(?) न चेष्यते यतस् तत्प्रतिषेधायेदम् आरभ्यते, तत्प्रतिप(त्?)तिनियमार्थं च ।
 </details>

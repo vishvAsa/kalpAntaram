@@ -1,6 +1,5 @@
 +++
 title = "236 अत्युष्णं सर्वम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -79,4 +78,10 @@ praise or decry the food. They should say nothing except by the gesture of the h
 <details><summary>Bühler</summary>
 
 236	All the food must be very hot, and the (guests) shall eat in silence; (even though) asked by the giver (of the feast), the Brahmanas shall not proclaim the qualities of the sacrificial food.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अभिनयेनापि । नियमविध्यर्थः श्लोकः । कारणं वक्ति ।
 </details>

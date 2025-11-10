@@ -1,6 +1,5 @@
 +++
 title = "242 नाऽब्राह्मणे गुरौ"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,10 @@ See Comparative notes for [Verse 2.241].
 <details><summary>Bühler</summary>
 
 242	He who desires incomparable bliss (in heaven) shall not dwell during his whole life in (the house of) a non-Brahmanical teacher, nor with a Brahmana who does not know the whole Veda and the Angas.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+शास्त्राद् अर्थाच् (?) चाप्राप्तस्य विधेर् अयं (?) प्रतिषेधः । य एवं च नैष्ठिकस्य एव दुश्शुश्रूषुगुरुर् (?) ब्राह्मण एव स्यान् न जातिमात्र एवं तर्हि अभिजन्मादिगुणवान् इति ।
 </details>

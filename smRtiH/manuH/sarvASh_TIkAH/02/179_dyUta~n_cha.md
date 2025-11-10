@@ -1,6 +1,5 @@
 +++
 title = "179 द्यूतञ् च"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -71,4 +70,18 @@ going on.’
 <details><summary>Bühler</summary>
 
 179	From gambling, idle disputes, backbiting, and lying, from looking at and touching women, and from hurting others.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**स्त्रीणां च प्रेक्षणालम्भम्** इति भावचक्षुर्निरपातके न (??) स्पर्शने ऽस्य प्रतिषिध्येते । आरम्भप्रयोजनम् उक्तम् ।
+
+**एकः शयीत सर्वत्र**
+
+कस्य हेतोः । कथञ्चन घ्रामापन् (?)
+
+> **न रेतः स्कन्दयेत् क्वचित् ।**
+
+अस्यार्थवादः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "064 अह्ना चैकेन"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -67,4 +66,10 @@ village till the stars become visible; and at night, till the appearance of the 
 <details><summary>Bühler</summary>
 
 064	Those who have touched a corpse are purified after one day and night (added to) three periods of three days; those who give libations of water, after three days.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**शवस्पृशः** प्रेतहाराः, न तत्स्पृष्टाः । तेषां सचेलस्नानं वक्ष्यति । दिवाकीर्तिश्लोके (म्ध् ५.८५) श्लोकबन्धानुविधानेन चापयशो (?) दशरात्रम् इदम् उपदिष्टं शवस्पृशां विज्ञेयम् । तथा चोत्तरश्लोके वक्ष्यति "प्रेतहारैः समं तत्र दशरात्रेण शुध्यति" (म्ध् ५.६५) । "**त्र्यहात् तूदकदायिनः**" इति वर्षेषूदकदायिषु सत्सु तत्र केवलोदकदायिन एव ससमानोदका गृह्यन्ते, नान्ये सामर्थ्यात् ।
 </details>

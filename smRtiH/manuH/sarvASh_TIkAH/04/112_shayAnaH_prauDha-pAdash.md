@@ -1,6 +1,5 @@
 +++
 title = "112 शयानः प्रौढ-पादश्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -49,4 +48,10 @@ and other such things spreading, seated on a tree, on the boat, in the army, aft
 <details><summary>Bühler</summary>
 
 112	While lying on a bed, while his feet are raised (on a bench), while he sits on his hams with a cloth tied round his knees, let him not study, nor when he has eaten meat or food given by a person impure on account of a birth or a death,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अश्राद्धार्थम् अमिषस्य ग्रहणम् । सूतकान्नादनेनानध्यायवचनाद् अन्येष्व् अभोज्यभोजनेषु नास्त्य् अनाध्यायः ।
 </details>

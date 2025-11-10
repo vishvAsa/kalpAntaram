@@ -1,6 +1,5 @@
 +++
 title = "263 आयुष्मन्तं सुतम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ See Comparative notes for [Verse 3.262].
 <details><summary>Bühler</summary>
 
 263	(Thus) she will bring forth a son who will be long-lived, famous, intelligent, rich, the father of numerous offspring, endowed with (the quality of) goodness, and righteous.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+मध्यमपिण्डप्राशनार्थः श्लोकः ।
 </details>

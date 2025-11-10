@@ -1,6 +1,5 @@
 +++
 title = "133 मक्षिका विप्रुषश्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -68,4 +67,10 @@ shadow, cow, elephant, horse, sun-beams, dust, earth, air, fire and cat are alwa
 <details><summary>Bühler</summary>
 
 133	Flies, drops of water, a shadow, a cow, a horse, the rays of the sun, dust, earth, the wind, and fire one must know to be pure to the touch.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+न तु लेप एवं च **मक्षिकादीनाम्** अलेपानां शुचिता स्पर्शमात्रे । **विप्रुषस्** तु सत्य् अप्य् अविशेषवचने समाचारान् मूत्रादिविप्रुषः प्रयत्ने (?)
 </details>

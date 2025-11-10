@@ -1,6 +1,5 @@
 +++
 title = "083 शुद्ध्येद् विप्रो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -90,4 +89,10 @@ Brāhmaṇa lasts three days, that of the Śūdra lasts twelve days; and that of
 <details><summary>Bühler</summary>
 
 083	A Brahmana shall be pure after ten days, a Kshatriya after twelve, a Vaisya after fifteen, and a Sudra is purified after a month.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ब्राह्मणदशाहस्येतरविधित्सया पुनर्वचनम् । अस्यार्थं केचिद् आहुः – वैकल्पिकम् इदं येन पूर्वो विधिश् चतुर्णाम् एव । तथा च वक्ष्यति- "धर्मेप्सवश् च धर्मज्ञाः" (म्ध् १०.१२७) इत्य् एवम् । <u>अपरे</u> तु सन्निधानाभ्याम् एतत् कल्पयन्ति । गौतमस् त्व् एतन् नेच्छति । तच् च प्रदर्शयितव्यम् ।
 </details>

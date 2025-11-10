@@ -1,6 +1,5 @@
 +++
 title = "239 नाऽमुत्र हि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -36,4 +35,12 @@ See Comparative notes for [Verse 4.234].
 <details><summary>Bühler</summary>
 
 239	For in the next world neither father, nor mother, nor wife, nor sons, nor relations stay to be his companions; spiritual merit alone remains (with him).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अतस् तदपेक्षया धनसञ्चयं न हि (?) कुर्यत् । किं तर्हि । दद्याद् एव शनैः प्रत्यहं यत् किञ्चित् । यतश् च –
+
+[हेरे वेर्से ओर्देर् इस् छन्गेद्]
 </details>

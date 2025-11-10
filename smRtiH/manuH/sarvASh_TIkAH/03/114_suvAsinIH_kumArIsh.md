@@ -1,6 +1,5 @@
 +++
 title = "114 सुवासिनीः कुमारीश्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -74,4 +73,14 @@ relations, paternal and maternal, and also persons seeking for food, he shall fe
 <details><summary>Bühler</summary>
 
 114	Without hesitation he may give food, even before his guests, to the following persons, (viz.) to newly-married women, to infants, to the sick, and to pregnant women.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सत्य् अर्थित्वे तेषां **सुवासिन्यादीनाम् अन्वग् एव** भोजनम् । असत्य् अर्थित्वे तेषाम् असम्भवे वा कुमारादयो यथाकामम् अश्नीयुः ।
+
+**अदत्वा तु य एतेभ्यः पूर्वं भुङ्क्ते ऽविचक्षणः ।**
+
+तस्यायं नियमव्यतिक्रमदोषः स्मर्यते । तथा च निन्दावचनम् इदम् ।
 </details>

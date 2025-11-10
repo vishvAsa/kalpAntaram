@@ -1,6 +1,5 @@
 +++
 title = "087 नारं स्पृष्ट्वास्थि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -56,4 +55,10 @@ human bone, or the shadow cast by the *Caṇḍāla* and the outcast,—on touch
 <details><summary>Bühler</summary>
 
 087	A Brahmana who has touched a human bone to which fat adheres, becomes pure by bathing; if it be free from fat, by sipping water and by touching (afterwards) a cow or looking at the sun.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+निगदव्याक्ख्यात एवायं श्लोकः ।
 </details>

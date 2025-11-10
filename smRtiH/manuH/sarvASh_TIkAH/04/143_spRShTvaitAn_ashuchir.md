@@ -1,6 +1,5 @@
 +++
 title = "143 स्पृष्ट्वैतान् अशुचिर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -40,4 +39,10 @@ touching a horse, or blood or hairs, or fire or cows or Brāhmaṇas or a woman;
 <details><summary>Bühler</summary>
 
 143	If he has touched these, while impure, let him always sprinkle with his hand water on the organs of sensation, all his limbs, and the navel.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं दृष्ट्वा ज्योतींष्य् अशुचिर् एतद् एव कुर्याद् उभयस्य प्रतिषिद्धत्वात् तुल्यव्यतिक्रमप्रायश्चित्तम् अधिकारसामर्थात् ।
 </details>

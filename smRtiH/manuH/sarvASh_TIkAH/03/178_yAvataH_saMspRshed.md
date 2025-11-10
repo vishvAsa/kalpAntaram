@@ -1,6 +1,5 @@
 +++
 title = "168 यावतः संस्पृशेद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -43,4 +42,10 @@ heretic, the decrier of the Veda, the sophist, the sacrificer for the Śūdra, a
 <details><summary>Bühler</summary>
 
 178	The giver (of a Sraddha) loses the reward, due for such a non-sacrificial gift, for as many Brahmanas as a (guest) who sacrifices for Sudras may touch (during the meal) with his limbs.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अत्राङ्गशब्दो दृ[१ अक्ष् उन्च्लेअर्]तो वेदितव्यः, प्रकरणात् । अथ वा पङ्क्तिगतः एवैते अपङ्क्तियोगात् परस्परतः संस्पृष्टा इव भवन्तीति । एतस्मात् सामान्याद् अयं संस्पर्श उच्यते ।
 </details>

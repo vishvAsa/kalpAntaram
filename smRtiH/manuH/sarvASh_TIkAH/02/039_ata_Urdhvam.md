@@ -1,6 +1,5 @@
 +++
 title = "039 अत ऊर्ध्वम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,10 @@ See Comparative notes for [Verse 2.38].
 <details><summary>Bühler</summary>
 
 039	After those (periods men of) these three (castes) who have not received the sacrament at the proper time, become Vratyas (outcasts), excluded from the Savitri (initiation) and despised by the Aryans.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**अत ऊर्ध्वम्,** **अतो** ऽस्मात् प्राथमिककल्पाद् आनुकल्पिकाच् च कालाद् **ऊर्ध्वं** **त्रयो ऽप्य् एते यथाकालम् असङ्कृताः** सन्तः **सावित्रीपतिताः** सावित्र्यनुपसाधनाद् उपनयनात् पतितास् ते सम्बन्धा न भावप्रत्यया (?) नामतो **भवन्ति** । सञ्ज्ञानिर्देशो ऽयम् । व्यवहारार्थशास्त्र एवं च सन्तो भवन्त्य् **आर्त्यविगर्हिता** यतश् चैतद् एवम् अतः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "073 अहुतञ् च"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ fire; those not offered into the fire are the*Prahuta*; and the feeding of Brāh
 <details><summary>Bühler</summary>
 
 073	They call (these) five sacrifices also, Ahuta, Huta, Prahuta, Brahmya-huta, and Prasita.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एषाम् एव महायज्ञानां पुनर्वचनं सञ्ज्ञान्तरप्रदर्शनार्थं शेषविध्यर्थं चास्य श्लोकस्य विवरणार्थमयम् उत्तरः श्लोकः ।
 </details>

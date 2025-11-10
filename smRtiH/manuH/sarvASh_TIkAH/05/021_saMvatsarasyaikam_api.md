@@ -1,6 +1,5 @@
 +++
 title = "021 संवत्सरस्यैकम् अपि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -57,4 +56,10 @@ See Comparative notes for [Verse 5.20].
 <details><summary>Bühler</summary>
 
 021	Once a year a Brahmana must perform a Krikkhra penance, in order to atone for unintentionally eating (forbidden food) but for intentionally (eating forbidden food he must perform the penances prescribed) specially.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सर्वाभोज्यस्य परिग्रहस्वभावसंसर्गकालपरिणामस् तस्माच् छ्रेयस्कामेनात्मनः । अभक्ष्यभोज्यपेयानि प्रयत्नतः परिहरणीयानि । हिंसा शास्त्रे लक्षणा । यस्माद् अयम् आह –
 </details>

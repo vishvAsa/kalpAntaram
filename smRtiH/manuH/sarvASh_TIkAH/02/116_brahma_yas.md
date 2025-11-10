@@ -1,6 +1,5 @@
 +++
 title = "116 ब्रह्म यस्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -31,4 +30,10 @@ not acquire knowledge from another person who may be reading with the Teacher;�
 <details><summary>Bühler</summary>
 
 116	But he who acquires without permission the Veda from one who recites it, incurs the guilt of stealing the Veda, and shall sink into hell.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तस्मात् प्रश्नपूर्वक्म् एव सन्देहादिमोक्षप्रत्यवायायाचरणीयम् अध्यापनविधिप्रशंसार्थः श्लोकाः । प्रकरणम् उपसंहृत्येदम् अन्यत् तद्धर्मशास्त्रि (?)
 </details>

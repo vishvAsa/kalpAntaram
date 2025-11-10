@@ -1,6 +1,5 @@
 +++
 title = "028 यज्ञे तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -72,4 +71,10 @@ the altar, to the bridegroom after having presented to him a pair (of cow and bu
 <details><summary>Bühler</summary>
 
 028	The gift of a daughter who has been decked with ornaments, to a priest who duly officiates at a sacrifice, during the course of its performance, they call the Daiva rite.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**आच्छाद्येत्य्** एवम् अनुवर्तते सर्वविवाहेषु ।
 </details>

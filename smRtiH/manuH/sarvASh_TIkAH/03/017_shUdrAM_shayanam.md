@@ -1,6 +1,5 @@
 +++
 title = "017 शूद्रां शयनम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -42,4 +41,10 @@ See Comparative notes for [Verse 3.13].
 <details><summary>Bühler</summary>
 
 017	A Brahmana who takes a Sudra wife to his bed, will (after death) sink into hell; if he begets a child by her, he will lose the rank of a Brahmana.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एष शौनकस्मृतिशेषो निन्दार्थवादः । ब्राह्मणग्रहणार्थव्त्त्वाय (?) च । सर्वा शौनकस्मृतिर् ब्राह्मणविषयैव कल्पनीया । क्रमोद्वाहे च सति –
 </details>

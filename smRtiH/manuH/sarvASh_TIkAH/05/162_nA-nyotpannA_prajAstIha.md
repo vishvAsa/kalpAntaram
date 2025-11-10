@@ -1,6 +1,5 @@
 +++
 title = "162 नाऽन्योत्पन्ना प्रजास्तीह"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -36,4 +35,14 @@ See Comparative notes for [Verse 5.154].
 <details><summary>Bühler</summary>
 
 162	Offspring begotten by another man is here not (considered lawful), nor (does offspring begotten) on another man's wife (belong to the begetter), nor is a second husband anywhere prescribed for virtuous women.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यतश् च –
+
+**पतिं हित्वापकृष्टं स्वम् उत्कृष्टं या च सेवते [निषेवते?] ।**
+
+उत्कृष्टसेवने ऽपि सा –
 </details>

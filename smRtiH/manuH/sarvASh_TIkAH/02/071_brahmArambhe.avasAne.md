@@ -1,6 +1,5 @@
 +++
 title = "071 ब्रह्मारम्भे ऽवसाने"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -101,4 +100,10 @@ Veda, looking at the teacher’s face, keeping the hands in control, placed over
 <details><summary>Bühler</summary>
 
 071	At the beginning and at the end of (a lesson in the) Veda he must always clasp both the feet of his teacher, (and) he must study, joining his hands; that is called the Brahmangali (joining the palms for the sake of the Veda).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उत्तरश्लोकार्थः पूर्वश्लोकाभिहितस्य **ब्रह्माञ्जलेः** प्ररूपणार्थः । अलौकिकत्वाद् अस्य युक्तं शास्त्रलक्षणत्वम् । ब्रह्मारम्भावसानयोः पादोपसङ्ग्रहणम् उक्तम् । गुरोस् तद्विशेषणार्थो ऽयं विधिर् उच्यते ।
 </details>

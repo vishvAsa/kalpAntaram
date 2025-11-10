@@ -1,6 +1,5 @@
 +++
 title = "115 द्रवाणाञ् चैव"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -100,4 +99,10 @@ heap by sprinkling water; liquids by straining.’
 <details><summary>Bühler</summary>
 
 115	The purification prescribed for all (sorts of) liquids is by passing two blades of Kusa grass through them, for solid things by sprinkling (them with water), for (objects) made of wood by planing them.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**उत्पवन**वचनं वेदोक्तम् । कुशाभ्याम् उदकादीनां सर्वेषां द्रव्याणां प्रायोगिकं कर्तव्यम् । न ह्य् उपघाते स्वल्पे ऽपि पिपीलिकादीनाम् **उत्पवनेन शुद्धिम्** इच्छन्ति शिष्टाः । एवं **[२४१]** **संहतानाम्** आसनशयनादीनां **प्रोक्षणं** प्रायोगिकम् । अत्यन्तोपहतानां तु तक्षणं प्रक्षालनादि च ।
 </details>

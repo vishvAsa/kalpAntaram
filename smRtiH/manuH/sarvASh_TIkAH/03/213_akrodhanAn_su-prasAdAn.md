@@ -1,6 +1,5 @@
 +++
 title = "213 अक्रोधनान् सु-प्रसादान्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -66,4 +65,10 @@ persons as are free from anger, not fickle, tolerant, self-controlled, with sens
 <details><summary>Bühler</summary>
 
 213	They (also) call those first of twice-born men the ancient deities of the funeral sacrifice, free from anger, easily pleased, employed in making men prosper.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तस्माद् एते चाकुद्धाः (?) परिचरणीयाः । यस्माद् एते सुप्रसन्नाः ।
 </details>

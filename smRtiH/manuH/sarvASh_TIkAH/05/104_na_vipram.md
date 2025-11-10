@@ -1,6 +1,5 @@
 +++
 title = "104 न विप्रम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -47,4 +46,10 @@ shall not carry his dead body; that dead person for whom the Śūdra carries fir
 <details><summary>Bühler</summary>
 
 104	Let him not allow a dead Brahmana to be carried out by a Sudra, while men of the same caste are at hand; for that burnt-offering which is defiled by a Sudra's touch is detrimental to (the deceased's passage to) heaven.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यो यत्रोष्टे (?) तस्यायम् उपदेशो नियमार्थः । इदानीं दृष्टान्तार्थं शवं तुन्धे(बुद्धेः?) स्वार्षं (?) वेदम् अधुनोच्यते । शुद्धिप्रकरणे –
 </details>

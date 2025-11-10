@@ -1,6 +1,5 @@
 +++
 title = "174 परदारेषु जायेते"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -78,4 +77,10 @@ the other being excluded on the ground of his being a non-Brāhmaṇa;—in
 <details><summary>Bühler</summary>
 
 174	Two (kinds of) sons, a Kunda and a Golaka, are born by wives of other men; (he who is born) while the husband lives, will be a Kunda, and (he who is begotten) after the husband's death, a Golaka.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं च **कुण्डः** स्यान् न मन्नत् (?) कुण्डाशीति प्रसिद्धः । **कुण्ड**ग्रहणं **गोलका**र्थम् अपि स्यात्, प्रतिषेधे साहचर्योपदेशात् । तत्र
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "029 प्राङ् नाभिवर्धनात्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -267,4 +266,10 @@ hence that day is sacred; hence one should give away vessels full of sesamum, al
 <details><summary>Bühler</summary>
 
 029	Before the navel-string is cut, the Gatakarman (birth-rite) must be performed for a male (child); and while sacred formulas are being recited, he must be fed with gold, honey, and butter.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**प्राङ्नाभिवर्धनाद्** इति उक्तजातकर्मकालोपलक्षणम् एतत् । पुङ्ग्रहणं तु नपुंसकनिवृत्त्यर्थम् । स्त्रीणाम् अमन्त्रकम् अवभृतं (??) वक्ष्यति । अथ वा पुङ्ग्रहणम् अविवक्षितम् । जातेर् अधिकारात् ज्वरितं ज्वरम् उक्तं वा (?) । दिनान्ते भोजयेन् नरम् इति । यद् वा मन्त्रम् अर्हतीति **मन्त्रवत्** । किं तत् । **प्राशनम्** । कस्य । कुमारस्य । केषाम् । **हिरण्यमधुसर्पिषाम्** । घृतस्यैकस्यैवेत्य् एके । इतः प्रभृति (?) गृह्योक्तानां विधीनां सामान्यानुक्रमणं प्रामाण्यार्थम् आम्नातानां (?) च प्राप्त्यर्थम् इष्यते ऽभ्यधिकविध्युपसङ्ग्रहः शाखान्तराविरुद्धः श्रुतिवद् अत्र ।
 </details>

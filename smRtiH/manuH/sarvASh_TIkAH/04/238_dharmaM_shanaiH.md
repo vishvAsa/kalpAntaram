@@ -1,6 +1,5 @@
 +++
 title = "238 धर्मं शनैः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -41,4 +40,10 @@ See Comparative notes for [Verse 4.234].
 <details><summary>Bühler</summary>
 
 238	Giving no pain to any creature, let him slowly accumulate spiritual merit, for the sake (of acquiring) a companion to the next world, just as the white ant (gradually raises its) hill.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कारणं त्व् अत्र प्रसङ्ख्यानं वक्ति ।
 </details>

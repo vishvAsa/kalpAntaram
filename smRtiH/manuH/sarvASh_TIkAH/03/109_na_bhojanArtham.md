@@ -1,6 +1,5 @@
 +++
 title = "109 न भोजनार्थम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,10 @@ Hiraṇyagarbha, not asking him about his study, *gotra*, Vedic text or family.�
 <details><summary>Bühler</summary>
 
 109	A Brahmana shall not name his family and (Vedic) gotra in order to obtain a meal; for he who boasts of them for the sake of a meal, is called by the wise a foul feeder (vantasin).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं च भोजनग्रहणं सर्वप्रतिग्रहप्रदर्शनार्थम्, कुलगोत्रग्रहणं च सर्वात्मगुणानां न कुर्याद् इति सामान्याद् अवगन्तव्यम् ।
 </details>

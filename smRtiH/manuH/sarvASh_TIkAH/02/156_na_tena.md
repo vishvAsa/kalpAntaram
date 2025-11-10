@@ -1,6 +1,5 @@
 +++
 title = "156 न तेन"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -28,4 +27,10 @@ He who, ‘*though young*’—is of young age—and yet carries on his study,�
 <details><summary>Bühler</summary>
 
 156	A man is not therefore (considered) venerable because his head is gray; him who, though young, has learned the Veda, the gods consider to be venerable.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं च सति –
 </details>

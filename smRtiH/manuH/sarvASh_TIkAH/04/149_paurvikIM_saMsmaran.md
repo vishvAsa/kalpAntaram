@@ -1,6 +1,5 @@
 +++
 title = "149 पौर्विकीं संस्मरन्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -42,4 +41,10 @@ This verse is quoted in *Aparārka* (p. 229);—and in *Vīramitrodaya* (Āhnika
 <details><summary>Bühler</summary>
 
 149	He who, recollecting his former existences, again recites the Veda, gains endless bliss by the continual study of the Veda.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+वेदाभ्यासस्य् पुनर्वचनं स्तुत्यर्थम् ।
 </details>

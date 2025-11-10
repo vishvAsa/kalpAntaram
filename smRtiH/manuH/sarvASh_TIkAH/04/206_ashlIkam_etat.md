@@ -1,6 +1,5 @@
 +++
 title = "206 अश्लीकम् एतत्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -42,4 +41,10 @@ is suffering from white leprosy, or of one who has married a girl after puberty,
 <details><summary>Bühler</summary>
 
 206	When those persons offer sacrificial viands in the fire, it is unlucky for holy (men) it displeases the gods; let him therefore avoid it.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**अश्रीकं** अश्रीघ्रम् (अश्लाघ्ज्यम्?) एतेषां भोजनम् । केन प्रकारेण । **साधूनां** शिष्टानां (?) मतेन । **यत्र** हि **जुह्वत्य् अमी हविः** । ग्रामयाजकाः पर्युदस्ताः मन्तस् तद्धोमे । अत्र ये त्व **अश्लीलं** पठन्ति तेषां जुगुप्सितम् अश्लीलम् । तथा चोच्यते । "अश्लीलं परुषवादिता शिष्टैः शिष्टानां **प्रतीपम् एतत्** प्रतीकूलम् अशिष्टम् इति अर्थः । कस्य । **देवानाम्** । अर्थवादः पूर्वस्य (?) । "**तस्मात् तत् परिवर्जयेत्**" इत्य् एतद् धि वाक्यारम्भफलप्रसङ्गाच् च धर्मम् एवाभोज्यप्रकरणे दर्शयति । तत् चतुर्विधं परिग्रहस्वभावसंसर्गकालक्र्तम् ।
 </details>

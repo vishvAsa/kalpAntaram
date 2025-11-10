@@ -1,6 +1,5 @@
 +++
 title = "051 न कन्यायाः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,10 @@ to the girl’s guardian has been prescribed with a view to securing a special e
 <details><summary>Bühler</summary>
 
 051	No father who knows (the law) must take even the smallest gratuity for his daughter; for a man who, through avarice, takes a gratuity, is a seller of his offspring.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+आसुरस्य् वैकल्पिकशुल्कग्रहणप्रतिषेधो ऽयम् ।
 </details>

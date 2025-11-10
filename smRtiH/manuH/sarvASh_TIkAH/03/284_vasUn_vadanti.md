@@ -1,6 +1,5 @@
 +++
 title = "284 वसून् वदन्ति"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -53,4 +52,10 @@ grand-father and the year the great-grandfather of the people.’
 <details><summary>Bühler</summary>
 
 284	They call (the manes of) fathers Vasus, (those of) grandfathers Rudras, and (those of) great-grandfathers Adityas; thus (speaks) the eternal Veda.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यस्माद् वस्वादयः पित्रादयः स्मर्यन्ते । तस्मात् पित्रादीन् अनुपेक्ष्यैव श्राद्धं देयं नित्यार्थम् इदम् । न पितृद्वेषिभिर् न वर्तयितव्यम् । यस्माद् "देवा ह्य् एते पितृनामानः" इति स्मर्यन्ते । अथ वा अविज्ञातपित्रादीनाम् अभिष्यजमानैर् (अभिधीयमानैर्?) वस्वादिशब्देन पित्र्यम् अनुष्ठेयम् उदकदानादि ।
 </details>

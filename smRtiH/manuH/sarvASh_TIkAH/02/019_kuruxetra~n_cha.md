@@ -1,6 +1,5 @@
 +++
 title = "019 कुरुक्षेत्रञ् च"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -62,4 +61,10 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 <details><summary>Bühler</summary>
 
 019	The plain of the Kurus, the (country of the) Matsyas, Pankalas, and Surasenakas, these (form), indeed, the country of the Brahmarshis (Brahmanical sages, which ranks) immediately after Brahmavarta.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**ब्रह्मावर्ताद् अनन्तरो ब्रह्मर्षिदेश** इतीयम् अपि देशसञ्ज्ञा देशस्तुत्यर्थैव । **ब्रह्मावर्ताद् अनन्तरः** ईषदूनस्तुत्यर्थः । एतच् चानन्तरग्रहणं सर्वस्मिन् देशे ऽनुवर्तते । पूर्वस्मात् पूर्वस्माद् देशाद् अनन्तर उत्तरोत्तर ईषदूनो भवति । एवं च देशक्रमाभिधानम् अनुगृहीतं भवति ।
 </details>

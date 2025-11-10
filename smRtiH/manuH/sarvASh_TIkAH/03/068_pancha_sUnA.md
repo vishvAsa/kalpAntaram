@@ -1,6 +1,5 @@
 +++
 title = "068 पञ्च सूना"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -84,4 +83,10 @@ beings*; these are of five kinds: The first *slaughtering* is done by people hur
 <details><summary>Bühler</summary>
 
 068	A householder has five slaughter-houses (as it were, viz.) the hearth, the grinding-stone, the broom, the pestle and mortar, the water-vessel, by using which he is bound (with the fetters of sin).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यतश् चैत एवम् अतः –
 </details>

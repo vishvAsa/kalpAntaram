@@ -1,6 +1,5 @@
 +++
 title = "095 यश् चैतान्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ See Comparative notes for [Verse 2.93].
 <details><summary>Bühler</summary>
 
 095	If one man should obtain all those (sensual enjoyments) and another should renounce them all, the renunciation of all pleasure is far better than the attainment of them.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तस्माद् एवं शमसुखधर्मार्थी प्रसङ्ख्यानपरः स्यात् । विषयासन्निधानेनैव सङ्गलक्षणेन संयमोपदेशे ऽर्थसिद्धिः । एवं च किं प्रसङ्ख्यानेन कदर्थेनेति, यत इदम् आरभ्यते ।
 </details>

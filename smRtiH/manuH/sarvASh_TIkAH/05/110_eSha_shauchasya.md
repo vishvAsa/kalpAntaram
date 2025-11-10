@@ -1,6 +1,5 @@
 +++
 title = "110 एष शौचस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,10 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 805).
 <details><summary>Bühler</summary>
 
 110	Thus the precise rules for the purification of the body have been declared to you; hear now the decision (of the law) regarding the purification of the various (inanimate) things.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रसिद्धार्थः श्लोकः ।
 </details>

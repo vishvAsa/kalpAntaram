@@ -1,6 +1,5 @@
 +++
 title = "079 यद् प्राग्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -21,4 +20,10 @@ The period of time named ‘*manvantara*’ consists of seventy-one ‘Time-cycl
 <details><summary>Bühler</summary>
 
 079	The before-mentioned age of the gods, (or) twelve thousand (of their years), being multiplied by seventy-one, (constitutes what) is here named the period of a Manu (Manvantara).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+मन्वन्त्रकालपरिणामावधारणार्थः श्लोकः । एवम्,
 </details>

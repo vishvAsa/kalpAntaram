@@ -1,6 +1,5 @@
 +++
 title = "034 न सीदेत्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -46,4 +45,10 @@ nor with a woman in her courses.’
 <details><summary>Bühler</summary>
 
 034	A Snataka who is able (to procure food) shall never waste himself with hunger, nor shall he wear old or dirty clothes, if he possesses property.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अनेनात्मादीनां (?) क्षुदवसादः प्रतिषिद्धो न पूर्वेण यस् तत्प्रतिकारार्थम् इमाम् अवस्थाम् आपन्नस्य स्नातकस्यापद्धर्मान् वक्ष्यति ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "055 पूजितं ह्य्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ See Comparative notes for [Verse 2.54].
 <details><summary>Bühler</summary>
 
 055	Food, that is always worshipped, gives strength and manly vigour; but eaten irreverently, it destroys them both.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**पूजित**शब्दः साहचर्याद् इतरेषाम् अप्य् अकुत्सादीनां प्रदर्शनार्थम् । एवं चा(सा?)धितानां तेषां फलेन स्तुतिम् अविशेषेणोभयथा वाक्यस्वभावात् भुञ्जानस्याधना(?) ब्रह्मचारिणो ऽर्थात् प्राप्तं प्रतिषिद्यते )?) ।
 </details>

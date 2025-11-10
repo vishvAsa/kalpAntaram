@@ -1,6 +1,5 @@
 +++
 title = "108 आचारः परमो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -30,4 +29,19 @@ Morality [Right Behaviour] is highest Dharma; that which is prescribed in the ś
 <details><summary>Bühler</summary>
 
 108	The rule of conduct is transcendent law, whether it be taught in the revealed texts or in the sacred tradition; hence a twice-born man who possesses regard for himself, should be always careful to (follow) it.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इति । तथा व्यासश्लोकः ।
+
+> श्रौतकर्म न चेच् छक्तः कर्तुं स्मार्तं समाचरेत् ।  
+> तस्याप्य् अशक्तः करणे समा(दा)चारे वहेद् बुधः ॥ इति ।
+
+यदापि "आचारपरमो धर्मः" इत्य् अयं बहुव्रीहिसमासनिर्देशः क्रियते तदाप्य् अयम् एव पठित्वव्यः श्लोकः- "तस्माद् अस्मिन् समा(सदा) युक्तो नित्यं स्याद् आत्मवान् द्विजः", इत्य् आचारस्येतरधर्माभ्यां परमत्वेन शवणात् । यतश् चैतद् एवम् अथः-
+
+**आचाराद् विच्युतो विप्रो न वेदफलम् अश्नुते ।**
+
+इत्य् अनेन ज्ञायते एवाचारस्य श्रौतस्मार्तकर्माधि(दि)कारणत्वात् । तद् धि न सफलं तत्कर्मवैगुण्यात्
 </details>

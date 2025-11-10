@@ -1,6 +1,5 @@
 +++
 title = "235 त्रीणि श्राद्धे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -40,4 +39,10 @@ See Comparative notes for [Verse 3.234].
 <details><summary>Bühler</summary>
 
 235	There are three means of sanctification, (to be used) at a Sraddha, a daughter's son, a Nepal blanket, and sesamum grains; and they recommend three (other things) for it, cleanliness, suppression of anger, and absence of haste.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+शौचादीनां प्रशंसावचनं विध्यर्थम् । अपरे तु सत्यम् । परे तु सत्यम् अक्रोधम् अत्वराम् इति ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "139 यस्य मित्र-प्रधानानि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -83,4 +82,10 @@ reach neither the gods nor the Pitṛs.’ *Mahābhārata* (Anuśāsana, 90.42-4
 <details><summary>Bühler</summary>
 
 139	He who performs funeral sacrifices and offerings to the gods chiefly for the sake of (gaining) friends, reaps after death no reward for Sraddhas and sacrifices.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अयं च अनयोर् उभयोर् यत्र प्रतिषेधः । तथा च पूर्वश्लोकेन विशेषवचनम् । **[१३५]** "नारिं न मित्रं यं विद्यात् तं श्राद्धे भोजयेद् द्विजम्" (म्ध् ३.१३८) इति तम् तद्ग्रहणं अरिप्रदर्शनार्थम् अत्र प्रकृतत्वाद् अरेः । पूर्वश्लोके निन्दार्थवादोपचयम् अपेक्षेण (?) चेदम् अन्यद् आरभ्यते (?) ।
 </details>

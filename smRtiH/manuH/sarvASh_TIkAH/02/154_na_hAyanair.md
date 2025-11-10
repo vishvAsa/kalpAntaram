@@ -1,6 +1,5 @@
 +++
 title = "154 न हायनैर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -48,4 +47,10 @@ See Comparative notes for [Verse 2.150].
 <details><summary>Bühler</summary>
 
 154	Neither through years, nor through white (hairs), nor through wealth, nor through (powerful) kinsmen (comes greatness). The sages have made this law, 'He who has learnt the Veda together with the Angas (Anukana) is (considered) great by us.'
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तथा च सति –
 </details>

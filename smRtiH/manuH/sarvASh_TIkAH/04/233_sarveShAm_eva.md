@@ -1,6 +1,5 @@
 +++
 title = "233 सर्वेषाम् एव"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -46,4 +45,10 @@ gifts*;—*viz*., of cows, land and Veda; these three bring about the salvation 
 <details><summary>Bühler</summary>
 
 233	The gift of the Veda surpasses all other gifts, water, food, cows, land, clothes, sesamum, gold, and clarified butter.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पञ्चभिः श्लोकैः सर्व एते फलार्थवादाः । फलोपदेशो वा अनुमेयत्वात् स्वर्गस्य न्यायशास्त्रविरोधिनो दृष्टवाददृष्टार्थता वेदितव्या । **वार्या**दयश् च सर्वदेयद्रव्याणां श्रद्धाप्रकारार्चितदानप्रदर्शनार्थाः । एवं चोक्तेभ्यो ऽनुक्तानि न परिसङ्ख्यायन्ते । तथा च सति –
 </details>

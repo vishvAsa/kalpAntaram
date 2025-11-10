@@ -1,6 +1,5 @@
 +++
 title = "098 अत ऊर्ध्वम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,10 @@ carry on the study of the Subsidiary Sciences.’
 <details><summary>Bühler</summary>
 
 098	Afterwards he shall diligently recite the Vedas during the bright (halves of the months), and duly study all the Angas of the Vedas during the dark fortnights.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उत्सर्गाद् ऊर्ध्वम् अयं प्रविभागः पृथक् ब्राह्मणस्यावचनात् छन्दोग्रहणं ब्राह्मणार्थम् अपि स्यात् । तस्मिन् श्लोकत्रये ऽपि विभक्तमन्त्रब्राह्मणसामर्थात् । क्वचिद् वेदे ।
 </details>

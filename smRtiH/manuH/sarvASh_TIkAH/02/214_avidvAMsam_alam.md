@@ -1,6 +1,5 @@
 +++
 title = "214 अविद्वांसम् अलम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -46,4 +45,10 @@ See Comparative notes for [Verse 2.213].
 <details><summary>Bühler</summary>
 
 214	For women are able to lead astray in (this) world not only a fool, but even a learned man, and (to make) him a slave of desire and anger.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एतस्मात् कारणात् –
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "016 तेषान् त्व्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -61,4 +60,10 @@ Hopkins remarks that ‘*ātmamātrā*’ stands for ‘the *spiritual* atom as 
 <details><summary>Bühler</summary>
 
 016	But, joining minute particles even of those six, which possess measureless power, with particles of himself, he created all beings.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**षण्णाम्** इति षड्विशेषा उच्यन्ते । पञ्चतन्मात्राण्य् अहङ्कारश् चेति । एभिः सर्वम् इदं सृज्यते क्रमेण । कथम् । तन्मात्राभ्यो भूतानि, अहङ्काराद् इन्दिर्याणि । अन्ये [तु] **षण्णाम्** इत्य् अनेन मनःषष्ठानीन्द्रियाण्य् आचक्षते ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "026 सस्यान्ते नवसस्येष्ट्या"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -75,4 +74,10 @@ Paśu,—and the Āgrayaṇeṣṭi and the Cāturmāsya also shall be performed
 <details><summary>Bühler</summary>
 
 026	When the old grain has been consumed the (Agrayana) Ishti with new grain, at the end of the (three) seasons the (Katurmasya-) sacrifices, at the solstices an animal (sacrifice), at the end of the year Soma-offerings.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अग्निहोत्रे यज्ञशब्दो जुहोतिशब्देन पाठः । दर्शपूर्णमासादिषु तु श्रुतो ऽपि यजतिशब्दः शास्त्राद् विज्ञेयः । कथम् । "**द्विजो ऽध्वरैः**" इति सौमिकेषु चातुर्मासेष्व् अयम् अध्वरशब्दो वेदितव्यः, एवं च सत्य् अनधिकृतो ऽप्य् अत्र यथोक्तो वासनया परिप्रापयत्य् एवांस् तया (?) यथोक्तया एवं महायज्ञान् अपि परिप्रापयेद् इति स्तुत्यर्थम् इदम् अनधिकृतं वा प्रत्ययम् उपदेशः । एवं कृतशास्त्रन्यायविरोधसामर्थाइनयस्येष्टिपशुप्रसङ्गेन वेदम् अपरं श्लोकद्वयं प्रकृतार्थानुग्रहाय दृष्टान्तत्वेनोच्यते ।
 </details>

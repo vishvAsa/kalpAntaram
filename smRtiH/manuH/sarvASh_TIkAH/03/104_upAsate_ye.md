@@ -1,6 +1,5 @@
 +++
 title = "104 उपासते ये"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,10 @@ the house of others, except when one has been invited; he should avoid ficklenes
 <details><summary>Bühler</summary>
 
 104	Those foolish householders who constantly seek (to live on) the food of others, become, in consequence of that (baseness), after death the cattle of those who give them food.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अयं (?) फलविधिः फलार्थवादो वा । अधुना तु विशेषार्थम् इदम् अस्योच्यते ।
 </details>

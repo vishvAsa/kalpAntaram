@@ -1,6 +1,5 @@
 +++
 title = "104 एतांस् त्व्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -47,4 +46,10 @@ See Comparative notes for [Verse 4.103].
 <details><summary>Bühler</summary>
 
 104	When one perceives these (phenomena) all together (in the twilight), after the sacred fires have been made to blaze (for the performance of the Agnihotra), then one must know the recitation of the Veda to be forbidden, and also when clouds appear out of season.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**एतांस् तु** विदुः दादन् (?) । सन्ध्याकाले यदा पश्येत् तदानध्यायः । अधिकाराद् आकालिकम् एवानर्थक्याच् चान्यत्र । वर्षाभ्यो ऽयम् अनध्यायो गम्यते । तेषु विद्यादिषु (?) सन्ध्याकाले वर्षास्व् अन्यत्र वाकालिक उक्तः । अतः सम्ध्याकाले पुनर् विधीयमानो ऽनर्थकः स्यात् तस्मात् वर्षास्व् अनधिकारो निवर्तते । आकालिकाधिकार एष्व् (?) अनुवर्तते इत्य् उच्यते । अथ वास्त्य् एवात्रानृताव् इति ग्रहणाद् उभयार्थं करिष्यामस् तथा च सति । चकार उपरिपरिकल्पः । अनृताप्रदर्शने चेति केचित् । वयं पुनः पूर्वश्लोकशेषतया मकं(?) कल्पयामः अनुवादादिष्टकालविशेषणार्थम् (?) ।
 </details>

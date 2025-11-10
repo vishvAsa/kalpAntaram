@@ -1,6 +1,5 @@
 +++
 title = "016 इन्द्रियार्थेषु सर्वेषु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,14 @@ conducive to the accomplishment of Dharma, for all men.’
 <details><summary>Bühler</summary>
 
 016	Let him not, out of desire (for enjoyments), attach himself to any sensual pleasures, and let him carefully obviate an excessive attachment to them, by (reflecting on their worthlessness in) his heart.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अप्रतिषिद्धेष्व् अपि स्वदारगमनादिषु सन्निवर्तयेद् इति परमार्थप्रसङ्ख्याने नाध्यात्मविद्यानुशासनाख्यो नेति । कस्मात् पुनर् एतत् । "एवं यत्नतः" इत्य् अत्रोच्यते । कथं नामायम् एवं तत् (?) ।
+
+**सर्वान् परित्यजेद् अर्थान् स्वाध्यायस्य विरोधिनः ।**
+
+विषयसङ्गाख्यान् यथा तथा यापयन्तः स्थितिमात्रसन्तुष्टः स्वाध्यायपरः **[१६५]** स्याद् येन,
 </details>

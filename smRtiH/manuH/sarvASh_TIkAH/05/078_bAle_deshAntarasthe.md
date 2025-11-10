@@ -1,6 +1,5 @@
 +++
 title = "078 बाले देशान्तरस्थे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -49,4 +48,10 @@ those who have renounced domestic life, and those who are not
 <details><summary>Bühler</summary>
 
 078	If an infant (that has not teethed), or a (grownup relative who is) not a Sapinda, die in a distant country, one becomes at once pure after bathing in one's clothes.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अभाव अदेशान्तरस्थो गृह्यते । तस्य पूर्वम् एकरात्रम् ऐकरात्रिकी शुद्धिर् उक्ता- "नृणाम् अकृतचौऌआनाम् अशुद्धिर् नैशिकी स्मृता" इति (म्ध् ५.६७) । इह तु तस्य च सद्यःशौचम् उच्यते । वैकल्पिकं बालक(त?)रस्येदम् । तथा चोक्तम् "दन्तजाते ऽनुजाते च" (म्ध् ५.५८) इति । **देशान्तरस्थे चेति** । अबाले ऽपि सद्यःशौचम् । कालभेदेन संवत्सरात् पूर्वम् इह त्व अनिर्दशे ऽपि देशान्तरस्थे सद्यःशौचम् उच्यते । त्र्यहाकृदकदायिना (?) इति पृथक् पिण्डानां सन्निमरणे त्र्यह उक्तं केषाम् एवायम् अपरः सद्यःशौचविधिर् आम्नायते । वैकल्पिकोवत्तस् (?) साध्यायापेक्षया ।
 </details>

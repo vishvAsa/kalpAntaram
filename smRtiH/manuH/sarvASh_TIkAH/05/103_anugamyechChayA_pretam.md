@@ -1,6 +1,5 @@
 +++
 title = "103 अनुगम्येच्छया प्रेतम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -55,4 +54,10 @@ corpse being followed, purification comes after one day; in that of a Vaiśya on
 <details><summary>Bühler</summary>
 
 103	Having voluntarily followed a corpse, whether (that of) a paternal kinsman or (of) a stranger, he becomes pure by bathing, dressed in his clothes, by touching fire and eating clarified butter.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+स्नानम् अनिस्(?)पयोघृतपाशनं च सर्वत्रापि कर्तव्यम् ।
 </details>

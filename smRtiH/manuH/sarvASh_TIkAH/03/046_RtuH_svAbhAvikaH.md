@@ -1,6 +1,5 @@
 +++
 title = "046 ऋतुः स्वाभाविकः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,10 @@ See Comparative notes for [Verse 3.45].
 <details><summary>Bühler</summary>
 
 046	Sixteen (days and) nights (in each month), including four days which differ from the rest and are censured by the virtuous, (are called) the natural season of women.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**स्वाभाविको** नाम **ऋतुः स्त्रीणां** यो न द्रव्यरागरोगैः (?) प्रवर्तते चतुर्भिर् इतरैः प्रथमैर् अशुचिभिः सार्धं सद्विगर्हितैर् इति निन्दार्थवादो निवृत्त्यर्थः ।
 </details>

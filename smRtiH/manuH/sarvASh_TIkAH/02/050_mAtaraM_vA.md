@@ -1,6 +1,5 @@
 +++
 title = "050 मातरं वा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -67,4 +66,10 @@ throw into his begging vessel, gold, silver and gems.’\]
 <details><summary>Bühler</summary>
 
 050	Let him first beg food of his mother, or of his sister, or of his own maternal aunt, or of (some other) female who will not disgrace him (by a refusal).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रत्याख्यानावमानभिया च ब्रह्मचारिण्ō मात्रादि सकाशात् **प्रथमं** भिक्षनोपदेशो ऽभ्युदयाय वेदलिङ्गात् तां भिक्षेतेत्य् आहुः तल्लौक्यम् (?) इत्य् एतस्माद् एव (एवं?) च प्रथमभिक्षणे प्रत्याख्यातव्यः प्रत्यवायो ऽनुमीयते ।
 </details>

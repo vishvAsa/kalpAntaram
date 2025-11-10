@@ -1,6 +1,5 @@
 +++
 title = "175 सत्य-धर्मार्यवृत्तेषु शौचे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -58,4 +57,10 @@ generative organ, the stomach, the hands, the feet, speech and eyes. He shall be
 <details><summary>Bühler</summary>
 
 175	Let him always delight in truthfulness, (obedience to) the sacred law, conduct worthy of an Aryan, and purity; let him chastise his pupils according to the sacred law; let him keep his speech, his arms, and his belly under control.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सर्वस्नातककर्मणाम् उपहारार्थ उक्तानुवादः । "न सीदन्न् अपि धर्मेण मनो ऽधर्मे निवेशयेत्" (म्ध् ४.१७१) इत्य् अत्र श्लोकोपदिष्टः "त्रिवर्ग इति तु स्थित्ः" (म्ध् २.२२४) इति यतस् तदपेक्षय्येदम् उच्यते ।
 </details>

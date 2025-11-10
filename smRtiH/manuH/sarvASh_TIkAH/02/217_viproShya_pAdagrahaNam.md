@@ -1,6 +1,5 @@
 +++
 title = "217 विप्रोष्य पादग्रहणम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -47,4 +46,10 @@ journey.’
 <details><summary>Bühler</summary>
 
 217	On returning from a journey he must clasp the feet of his teacher's wife and daily salute her (in the manner just mentioned), remembering the duty of the virtuous.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इयद् जानाति विदुषो ब्रह्मचारिणः प्रोषितप्रत्यागतस्य कदाचिद् अष्टौ (?) श्लोका गुरुदारेषु शिष्यवृत्त्यर्था अपि सन्तः सर्वस्त्रीविषयाः प्रत्येतव्याः । किमर्थं यपन(दुप?)रि गुरुवत् पुत्रदारेषु शुश्रूषोपदेशयत्नः क्रियते, आगमात् । यस्माद् एवम् आह ।
 </details>

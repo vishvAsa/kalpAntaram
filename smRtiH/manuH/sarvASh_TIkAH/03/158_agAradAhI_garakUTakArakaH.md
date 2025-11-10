@@ -1,6 +1,5 @@
 +++
 title = "158 अगारदाही गरकूटकारकः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -62,4 +61,10 @@ See Comparative notes for [Verse 3.150].
 <details><summary>Bühler</summary>
 
 158	An incendiary, a prisoner, he who eats the food given by the son of an adulteress, a seller of Soma, he who undertakes voyages by sea, a bard, an oil-man, a suborner to perjury,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**अगारदाही** वेश्वोद्दीपकः । प्रसिद्धो **गरदः** । **कुण्डाशी** वक्ष्यमाणः । सोमविक्रयी लता सोमस्य ज्योतिष्टोमदैवन्दी (?) प्रत्यूषसी पीतसंयुक्ताभिः स्तुतिभिः स्थापको राज्ञाम् (?) । **तैलिककूटकारकौ** अङ्गारदाहाभावे । श्मोद्री प्रसिद्धौ (?) ।
 </details>

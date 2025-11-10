@@ -1,6 +1,5 @@
 +++
 title = "003 सन्त्यज्य ग्राम्यम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -65,4 +64,10 @@ wearing matted locks and skins, performing Agnihotra and Baths, worshipping gods
 <details><summary>Bühler</summary>
 
 003	Abandoning all food raised by cultivation, and all his belongings, he may depart into the forest, either committing his wife to his sons, or accompanied by her.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+नायं विशेषणविकल्पः । किन् तर्हि भार्याया आसाम् अर्थापेक्षो व्यवस्थित विकल्पो ऽयम् ।
 </details>

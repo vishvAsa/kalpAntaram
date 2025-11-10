@@ -1,6 +1,5 @@
 +++
 title = "130 देवतानाङ् गुरो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -58,4 +57,10 @@ shadow of a deity, the twice-born, the teacher, the wise man, the accomplished s
 <details><summary>Bühler</summary>
 
 130	Let him not intentionally step on the shadow of (images of) the gods, of a Guru, of a king, of a Snataka, of his teacher, of a reddish-brown animal, or of one who has been initiated to the performance of a Srauta sacrifice (Dikshita).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अमूर्तत्वाद् देवतानां तत्प्रकृतये दृढं ते ऽनेनैव दर्शनेन च्छत(?)प्रकृतीः शिष्टाः पूजयति बभ्रुर् इति यतः सोमस्य कर्माङ्गभूतस्येयम् आख्या तदाप्य् अयं बभ्रुशब्दो न श्रूयते । कपिला वा गौर् बभ्रुशब्देनोच्यते । "सा बभुं लिङ्गाक्षी" इति श्रुतेः । ब्रह्मचारिणम् अपरे बभ्रुशब्दार्थम् आहुः । कपिलशिरोरुहत्वाद् इति कामत इति च । अकामतः प्रायश्चित्तनिवृत्त्यर्थम् इदं वचनं सामर्थात् गम्यते ।
 </details>

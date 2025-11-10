@@ -1,6 +1,5 @@
 +++
 title = "208 भ्रूणघ्नावेक्षितञ् चैव"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -80,4 +79,10 @@ the paramour living in the house of his ladylove, or one who permits his wife’
 <details><summary>Bühler</summary>
 
 208	Nor that at which the slayer of a learned Brahmana has looked, nor that which has been touched by a menstruating woman, nor that which has been pecked at by birds or touched by a dog,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**ब्रह्मघ्नो**(भ्रूणघ?)ग्रहणं च तत्समप्रदर्शनार्थम् **ईक्षण**प्रतिषेधाच् च तत्स्पर्शनम् अप्य् अशुचिकरं सुतराम् इत्य् एतद् अर्थसिद्धम् । **उदक्या**ग्रहणं च सर्वदाशुचीनां सूतिकाद्यानां रजस्वलासंस्पृष्टप्रतिषेधाच् च तद्दृष्टस्य प्रतिषेधः । **पतत्रि**ग्रहणं च काकाद्यशुचिपक्षिग्राहकम् सन्निधानाद् विज्ञेयम् ।
 </details>

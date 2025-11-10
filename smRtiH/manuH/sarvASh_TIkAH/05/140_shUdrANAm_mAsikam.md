@@ -1,6 +1,5 @@
 +++
 title = "140 शूद्राणाम् मासिकम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,15 @@ sipping water as for their masters; besides the *Śūdra* cooks shall daily have
 <details><summary>Bühler</summary>
 
 140	Sudras who live according to the law, shall each month shave (their heads); their mode of purification (shall be) the same as that of Vaisyas, and their food the fragments of an Aryan's meal.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सच्**छूद्राणां** पाकयज्ञादिकर्मवतां ब्राह्मणोपाश्रयत्वान् **मासिकं कार्यं वपनं** द्विजातिवद् "**वैश्यवच् छौचकपश् च**" इत्य् आमनःशौचं तदीयं गृह्यते । अर्धमासशावशुद्धिश् च । इतरस्य तु मासेनैवोपस्पर्शनं च प्रकृतम् "स्त्रीशूद्रस् तु सकृत् सकृत्" (म्ध् ५.१३९) इत्य् एतद् द्विजोच्छिष्टभोजनाद् इति विस्तरशो व्याख्यातम् । "न शूद्राय मतिं दद्यान् नोच्च्छिष्टम्" (म्ध् ४.८०) इत्य् अत्र तच्छ्लोके । तथा चोक्तम् – ब्राह्मणाश्रितशूद्रप्रकरणे-
+
+> यथ यथा हि सद्वृत्तम् आतिष्ठत्य् अनसूयकः ।  
+>  तथा तथेमं चामुं च लोकं प्राप्नोत्य् अनिन्दितः ॥ (म्ध् १०.१२८)
+
+इति ।
 </details>

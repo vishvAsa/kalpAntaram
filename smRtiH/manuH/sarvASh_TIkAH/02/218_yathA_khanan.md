@@ -1,6 +1,5 @@
 +++
 title = "218 यथा खनन्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -47,4 +46,14 @@ service of the Teacher, or by much wealth, or by knowledge (in exchange); there 
 <details><summary>Bühler</summary>
 
 218	As the man who digs with a spade (into the ground) obtains water, even so an obedient (pupil) obtains the knowledge which lies (hidden) in his teacher.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+गुर्वादिशुश्रूषाविध्यनुष्ठानशेषः श्लोकः (४ अक्ष् लचुन) रश् च ।
+
+**मुण्डो वा जटिलो वा स्याद् अथ वा स्याच् छिकाजटः ।**
+
+ब्रह्मचारिपुत्रधर्मा ह्य् एते यावद्भाविनः, नोपनयनधर्माः ।
 </details>

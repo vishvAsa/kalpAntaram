@@ -1,6 +1,5 @@
 +++
 title = "135 वसा शुक्रम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -46,4 +45,10 @@ the first six (enumerated in Manu), one should take up both earth and water; but
 <details><summary>Bühler</summary>
 
 135	Oily exudations, semen, blood, (the fatty substance of the) brain, urine, faeces, the mucus of the nose, ear-wax, phlegm, tears, the rheum of the eyes, and sweat are the twelve impurities of human (bodies).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+नृग्रहणम् अन्येषां वित्ततुल्यानां प्रदर्शनार्थम् ।
 </details>

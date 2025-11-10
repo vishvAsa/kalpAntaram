@@ -1,6 +1,5 @@
 +++
 title = "024 चतुरो ब्राह्मणस्याद्यान्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -57,4 +56,10 @@ See Comparative notes for [Verse 3.23].
 <details><summary>Bühler</summary>
 
 024	The sages state that the first four are approved (in the case) of a Brahmana, one, the Rakshasa (rite in the case) of a Kshatriya, and the Asura (marriage in that) of a Vaisya and of a Sudra.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इयम् अपरा पुनर् अभ्युदयप्रदर्शनार्था ।
 </details>

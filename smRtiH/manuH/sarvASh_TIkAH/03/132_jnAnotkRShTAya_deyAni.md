@@ -1,6 +1,5 @@
 +++
 title = "132 ज्ञानोत्कृष्टाय देयानि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -62,4 +61,10 @@ or gold or clothing or land or sesamum, he becomes burnt like fuel; if a man has
 <details><summary>Bühler</summary>
 
 132	Food sacred to the manes or to the gods must be given to a man distinguished by sacred knowledge; for hands, smeared with blood, cannot be cleansed with blood.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यथा प्रक्षालनविधिज्ञ एव **हस्ताव् असृग्दिग्धौ** समर्थः क्षालयितुं नान्यः, एवम् अर्थञ्ज एवम् आत्मानं परं च तारयितुं समर्थो नेतरः ।
 </details>

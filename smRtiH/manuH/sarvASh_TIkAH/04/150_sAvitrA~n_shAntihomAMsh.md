@@ -1,6 +1,5 @@
 +++
 title = "150 सावित्राञ् शान्तिहोमांश्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,12 @@ should offer balls of food, which is conducive to endless satisfaction.’
 <details><summary>Bühler</summary>
 
 150	Let him always offer on the Parva-days oblations to Savitri and such as avert evil omens, and on the Ashtakas and Anvashtakas let him constantly worship the manes.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**सावित्राञ् छान्तिहोमांश् चेति** (?) वचनाद् आज्येन कर्तव्याद् अमुख्यस्यान्यस्य 
+
+होमसाधनस्य ।
 </details>

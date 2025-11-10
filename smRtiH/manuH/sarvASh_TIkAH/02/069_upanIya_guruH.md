@@ -1,6 +1,5 @@
 +++
 title = "069 उपनीय गुरुः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -71,4 +70,10 @@ Bathing, Living on alms, Attending on the Teacher till death, and in his absence
 <details><summary>Bühler</summary>
 
 069	Having performed the (rite of) initiation, the teacher must first instruct the (pupil) in (the rules of) personal purification, of conduct, of the fire-worship, and of the twilight devotions.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+परिज्ञात**शौचाचाराग्निकार्यसन्ध्योपसनो** हि वेदाध्ययनसमर्थः । तदर्थेन व्रतदर्शने ऽधिकरिष्यते, नोपनयनानन्तरम् एवोदित (?) इत्य् आदरार्थं वचनं युक्तं चैतच् छौचस्य नित्यानुगतत्वाद् आदरानुवचनम् । अग्निकार्यादीनि हि स्वकाल एव भवन्ति (?) । न च सम्भवन्त्यां प्रकृतार्थस्तुताव् अपूर्वस्य (?) कल्पना न्याय्या । प्रकृतार्थदानं हि तथा स्याद् इति गुरोर् अयम् उपदेशः । एवं च गुरुणा नियमेन शिक्षयितव्यो (?) नान्येनेति गृहीतशौचाराग्निकार्यसन्ध्योपासनश् च ब्रह्मचारी यथासमादिष्टवेदव्रतत्वाद् अधिकृतवेदाध्ययनः सन्,
 </details>

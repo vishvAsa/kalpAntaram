@@ -1,6 +1,5 @@
 +++
 title = "080 ऋषयः पितरो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ three debts; he repays that to the sages, by means of religious studentship, tha
 <details><summary>Bühler</summary>
 
 080	The sages, the manes, the gods, the Bhutas, and guests ask the householders (for offerings and gifts); hence he who knows (the law), must give to them (what is due to each).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+किं तद् इदम् उच्यते ।
 </details>

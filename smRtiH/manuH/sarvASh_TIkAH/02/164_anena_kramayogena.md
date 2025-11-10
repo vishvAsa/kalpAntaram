@@ -1,6 +1,5 @@
 +++
 title = "164 अनेन क्रमयोगेन"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -47,4 +46,10 @@ Students.’
 <details><summary>Bühler</summary>
 
 164	A twice-born man who has been sanctified by the (employment of) the means, (described above) in due order, shall gradually and cumulatively perform the various austerities prescribed for (those who) study the Veda.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रकृतार्थोप्संहारार्थः श्लोकः । एवं च सत्य् अनेन ब्रह्मचारिणैवं संस्कृतात्मना –
 </details>

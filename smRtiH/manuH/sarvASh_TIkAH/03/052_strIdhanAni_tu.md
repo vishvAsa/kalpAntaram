@@ -1,6 +1,5 @@
 +++
 title = "052 स्त्रीधनानि तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -48,4 +47,10 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 851), which deduces fr
 <details><summary>Bühler</summary>
 
 052	But those (male) relations who, in their folly, live on the separate property of women, (e.g. appropriate) the beasts of burden, carriages, and clothes of women, commit sin and will sink into hell.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तत्सम्बन्धा(द्धा?)नाम् पै दोषः स्यात् किं पुनः पितुर् इति शुल्कस्याग्रहणस्तुतिर् इयं ग्रहणनिदायै । तस्माच् च स्तुत्यर्थाद् अपि बन्धुग्रहणाद् इदं विज्ञायते बन्धिभिर् अपि न किञ्चिद् उपजीव्यम् ।
 </details>

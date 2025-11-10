@@ -1,6 +1,5 @@
 +++
 title = "210 स्तेन-गायनयोश् चाऽन्नम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,10 @@ sacrifice-seller, of the carpenter, of the leather-dealer, of the loose’woman 
 <details><summary>Bühler</summary>
 
 210	Nor the food (given) by a thief, a musician, a carpenter, a usurer, one who has been initiated (for the performance of a Srauta sacrifice), a miser, one bound with fetters,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**स्तेनः** सुवर्णाद् अन्यद्रव्यापहारकः । पातकिनस् तूपरिषाद् वक्ष्यन्ते । **निगडो** वार्धुषिकः ।
 </details>

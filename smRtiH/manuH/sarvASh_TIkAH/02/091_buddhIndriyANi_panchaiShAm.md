@@ -1,6 +1,5 @@
 +++
 title = "091 बुद्धीन्द्रियाणि पञ्चैषाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -43,4 +42,10 @@ See Comparative notes for [Verse 2.89].
 <details><summary>Bühler</summary>
 
 091	Five of them, the ear and the rest according to their order, they call organs of sense, and five of them, the anus and the rest, organs of action.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सर्वविषयं चैषाम् ।
 </details>

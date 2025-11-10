@@ -1,6 +1,5 @@
 +++
 title = "152 मङ्गलार्थं स्वस्त्ययनम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -48,4 +47,10 @@ It is quoted in *Smṛtitattva*, (p. 130) which adds the following notes:—‘*
 <details><summary>Bühler</summary>
 
 152	For the sake of procuring good fortune to (brides), the recitation of benedictory texts (svastyayana), and the sacrifice to the Lord of creatures (Pragapati) are used at weddings; (but) the betrothal (by the father or guardian) is the cause of (the husband's) dominion (over his wife).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**स्वस्त्ययनं** विवाहस् तत्र यो मन्त्रप्रयोगः स **मङ्गलार्थं** न स्वत्वहेतुः । येन सत्त्वे सति वाग्दानेन मङ्गलप्रयुक्तिर् इयं युक्ता (?) "दशास्याम् पुत्रान् आ धेहि पतिम् एकादशं कृधि" (र्व् १०.८५.४५) इत्येवमादिप्रजापतेर् मन्त्रहोमाभ्यां विवाहेषु स्वीकृतायां वाग्दानेन युज्यते । इतश् च तं शुश्रूषेत जीवन्तं "संस्थितं च न लङ्घयेत्" (म्ध् ५.१५१) येन –
 </details>

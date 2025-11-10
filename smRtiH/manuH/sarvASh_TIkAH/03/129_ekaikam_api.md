@@ -1,6 +1,5 @@
 +++
 title = "129 एकैकम् अपि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,10 @@ householders, old men, persons devoted to good acts, those learned in the Veda, 
 <details><summary>Bühler</summary>
 
 129	Let him feed even one learned man at (the sacrifice) to the gods, and one at (the sacrifice) to the manes; (thus) he will gain a rich reward, not (if he entertains) many who are unacquainted with the Veda.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विद्वज्जनस्तुतिपरम् एतन् न विध्यर्थम् । तथा च कृतव्याख्यानो ऽयं श्लोकः ।
 </details>

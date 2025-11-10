@@ -1,6 +1,5 @@
 +++
 title = "220 ध्रियमाणे तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -99,4 +98,10 @@ he shall offer it to those whom his father offers it.’
 <details><summary>Bühler</summary>
 
 220	But if the (sacrificer's) father is living, he must offer (the cakes) to three remoter (ancestors); or he may also feed his father at the funeral sacrifice as (one of the) Brahmana (guests).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+परतश् च द्वाभ्याम् एव प्रेताभ्यां दद्यात् । तथा च जातूकर्णिः- "न जीवन्तम् अतिददातीति श्रुतेः" इत्य् आह । "चतुर्थं पिण्डो न गच्छति" इति । एवं च सत्यां पितृप्रीतौ कर्तव्यतायां को जीवति पितरि भवेद् यतः । साक्षाद् एवासौ आशयितव्यः । अपरः पक्षो जीवत्पितृकस्य होमान्तं कर्मनाग्रम्भो (?) वा कर्मणः ।
 </details>

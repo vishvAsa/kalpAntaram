@@ -1,6 +1,5 @@
 +++
 title = "166 वेदम् एव"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,10 @@ See Comparative notes for [Verse 2.165].
 <details><summary>Bühler</summary>
 
 166	Let a Brahmana who desires to perform austerities, constantly repeat the Veda; for the study of the Veda is declared (to be) in this world the highest austerity for a Brahmana.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+"वेदः कृत्स्नो ऽधिगन्तव्यः" (म्ध् २.१६५) इति श्रुतस्य विधेः स्तुत्यर्थवादः । प्रकरणाच् च ब्रह्मचारिणो ऽयम् उपदेशः **सदा**ग्रहणाद् द्विजातिधर्म एव विज्ञेयः । नित्यप्रायश्चित्तार्थं वा **सदा**ग्रहणम् । तथा च वाजसनेयकं ब्राह्मणम् इमम् एवार्थम् अनुवदति ।
 </details>

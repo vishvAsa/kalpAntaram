@@ -1,6 +1,5 @@
 +++
 title = "149 पित्रा भर्त्रा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -34,4 +33,10 @@ live separate from her father, mother, son, brother, father-in-law, mother-in-la
 <details><summary>Bühler</summary>
 
 149	She must not seek to separate herself from her father, husband, or sons; by leaving them she would make both (her own and her husband's) families contemptible.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अयं चापरस् तद्धर्मः –
 </details>

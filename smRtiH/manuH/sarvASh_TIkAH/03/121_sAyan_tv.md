@@ -1,6 +1,5 @@
 +++
 title = "121 सायन् त्व्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -116,4 +115,10 @@ Bali-offering should be made both morning and evening, even though the man himse
 <details><summary>Bühler</summary>
 
 121	But the wife shall offer in the evening (a portion) of the dressed food as a Bali-oblation, without (the recitation of) sacred formulas; for that (rite which is called the) Vaisvadeva is prescribed both for the morning and the evening.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+वैश्वदेवं होमोपलक्षितं सायं प्रातर् विधीयते । गृहस्थस्य बलहरणं तु **पत्न्य्** एव सायं कुर्याद् अनग्निकम् अमन्त्रं च । लोके एवं बलिहरणं दृष्टम् । अपरस् तस्यारम्भप्रयोजनम् आह । कैश्चिद् गृहकारैः सायं प्रातर् वैश्वदेवम् आम्नातं यत इदं विधीयत इत्य् एवं च पञ्चमहायज्ञोक्ताच् छ्राद्धाद् तस्य मासिकस्य उपदिदिक्षयेदम् अधुनाह ।
 </details>

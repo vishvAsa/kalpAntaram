@@ -1,6 +1,5 @@
 +++
 title = "020 आद्याद्यस्य गुणम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -65,4 +64,12 @@ succeeding and whatever it is and in whatever form and place, so many qualities 
 <details><summary>Bühler</summary>
 
 020	Among them each succeeding (element) acquires the quality of the preceding one, and whatever place (in the sequence) each of them occupies, even so many qualities it is declared to possess.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+नेह पृथिव्याद्भूतानां क्रमो ऽभिप्रेतः । किं तर्हि । आकाशादि । वक्ष्यति हि "आकाशाज् (आकाशं) जायते तस्मात्" (१.७५) इत्य् एवम् । आकाशम् आद्यं तस्य शब्दो गुणः तस्मात् परो वायुः स्पर्शगुणस् तस्यापि शब्दः साम्सर्गिकस् तथा च द्विगुणो वायुर् एवं **यो यो** यावताः(तां) पूरणो **यावतिथः** द्वितीयस् तृतीयो वा भूतविशेषः भूतात्मा वा स **तावद्गुणः** द्विगुणस् त्रिगुणश् चतुर्गुणः पञ्चगुणो वा । एवं च भूतानाम् एकैकगुणत्वे सति संसर्गादिकम् अनेकगुणग्रहणं विज्ञेयम् । 
+
+*अर्थनिवृत्तिम् उक्त्वा सञ्ज्ञादिवृत्तिम् इदानीम् आह* ।
 </details>

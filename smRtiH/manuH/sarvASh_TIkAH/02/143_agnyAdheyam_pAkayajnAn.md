@@ -1,6 +1,5 @@
 +++
 title = "143 अग्न्याधेयम् पाकयज्ञान्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,10 @@ purposes of the obligatory rites, (3) the *Viśesavṛta, i.e*., one who is appo
 <details><summary>Bühler</summary>
 
 143	He who, being (duly) chosen (for the purpose), performs the Agnyadheya, the Pakayagnas, (and) the (Srauta) sacrifices, such as the Agnishtoma (for another man), is called (his) officiating priest.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+गुरुप्रकरणे ऋत्विक्सञ्ज्ञो चादेशस् तेषां गुरुत्वज्ञापनार्थः । गुरूणां तद् उच्यते प्रत्युत्थानाभिवादनादि, तद् एषाम् अपि यथा स्याद् इति । इदानीं सर्वगुरुभ्य आचार्यस्य ज्यायस् त्व् अध्या(ज्ञा)पनार्थम् इयं स्तुतिः ।
 </details>

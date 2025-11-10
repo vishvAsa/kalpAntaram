@@ -1,6 +1,5 @@
 +++
 title = "046 यो बन्धन-वध-क्लेशान्"
-
 +++
 
 <details><summary>मेधातिथिः</summary>
@@ -39,4 +38,10 @@ See Comparative notes for [Verse 5.42].
 <details><summary>Bühler</summary>
 
 046	He who does not seek to cause the sufferings of bonds and death to living creatures, (but) desires the good of all (beings), obtains endless bliss.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पूर्ववद् अयं च । अपरस् (?) तु मानार्थ एवम् –
 </details>

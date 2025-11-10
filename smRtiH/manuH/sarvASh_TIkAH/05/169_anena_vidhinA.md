@@ -1,6 +1,5 @@
 +++
 title = "169 अनेन विधिना"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -35,4 +34,12 @@ End of Discourse V.
 <details><summary>Bühler</summary>
 
 169	(Living) according to the (preceding) rules, he must never neglect the five (great) sacrifices, and, having taken a wife, he must dwell in (his own) house during the second period of his life.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उपसंहारार्थः श्लोकः । पञ्चयज्ञग्रहाणां च सर्वकर्मप्रसिद्ध्यर्थम् इति ।
+
+**इति भारुचिकृतौ मनुशास्त्रविवरणे पञ्चमो ऽध्यायः ॥**
 </details>

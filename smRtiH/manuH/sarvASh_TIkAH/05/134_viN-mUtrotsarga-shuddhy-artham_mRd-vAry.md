@@ -1,6 +1,5 @@
 +++
 title = "134 विण्-मूत्रोत्सर्ग-शुद्ध्य्-अर्थम् मृद्-वार्य्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -64,4 +63,10 @@ water fetched for the purpose—till the stain and the smell disappear.’
 <details><summary>Bühler</summary>
 
 134	In order to cleanse (the organs) by which urine and faeces are ejected, earth and water must be used, as they may be required, likewise in removing the (remaining ones among) twelve impurities of the body.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**अर्थवद्** इति । नातिस्तोकं नातिबहु किं तु यावता **मृद्वारिणाम्** शुद्ध्यपनयनं स्याद् **दैहिकमल**पनुत्त्यर्थं चेयम् एव **मृद्वारि** स्याद् इति नियमार्थो ऽयम् आरम्भः । दैहिकाश् च मला इति कृत्वेदम् आरभ्यते ।
 </details>

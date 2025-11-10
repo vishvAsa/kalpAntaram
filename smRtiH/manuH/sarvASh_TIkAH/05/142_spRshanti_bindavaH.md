@@ -1,6 +1,5 @@
 +++
 title = "142 स्पृशन्ति बिन्दवः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -58,4 +57,10 @@ others for sipping, are considered to be equal to waters springing from the eart
 <details><summary>Bühler</summary>
 
 142	Drops which trickle on the feet of him who offers water for sipping to others, must be considered as equal to (water collected on the ground; they render him not impure.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+परवचनात् स्वयं परिहर्तव्या ।
 </details>

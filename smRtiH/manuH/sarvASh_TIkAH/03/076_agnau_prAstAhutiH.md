@@ -1,6 +1,5 @@
 +++
 title = "076 अग्नौ प्रास्ताहुतिः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ This verse is quoted in *Aparārka* (p. 994).
 <details><summary>Bühler</summary>
 
 076	An oblation duly thrown into the fire, reaches the sun; from the sun comes rain, from rain food, therefrom the living creatures (derive their subsistence).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+होमयज्ञस्तुतिर् इयं प्रकरणात् किञ्च नान्यत् ।
 </details>

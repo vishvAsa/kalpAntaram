@@ -1,6 +1,5 @@
 +++
 title = "005 तेषु सम्यग्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -92,4 +91,10 @@ the highest position of Prajāpati.’
 <details><summary>Bühler</summary>
 
 005	He who persists in discharging these (prescribed duties) in the right manner, reaches the deathless state and even in this (life) obtains (the fulfilment of) all the desires that he may have conceived.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+काः पुनस् **तेषु सम्यग्** वृत्तिर् नित्यानां कर्मणां फलाभिसम्बन्धत्यागेनानुष्ठानं काम्यानां च परित्यागेन तं तथा तेषां श्रुतत्वाद् देवाधिगमकर्मयोगौ च काम्यान् एवाप्रतिषेधात् (?) । अन्यथा च तद(नु)पपत्तेः । एवं च **तेषु** यथाशास्त्रं **वर्तमानो** विद्वान् **गच्छत्य् अमरलोकताम्** । क्रियापदार्थस्वाभाव्येन शास्त्रलक्षणाद् उपकर्षप्राप्त्युपायः स्यानिर्दिष्टफलानां (?) च कर्मणां स्वर्गः फलम् इत्य् आहुर् आचार्याः । "**यथासङ्कल्पितांश् चेह सर्वान् कामान् समश्नुते**" इति । अनेन शास्त्रप्रत्यक्षं सर्वकामप्रयोजनत्वं (?) कर्मणो ऽन्तद्यते (?) परा परिभाषा ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "163 स्रोतसाम् भेदको"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,10 @@ See Comparative notes for [Verse 3.150].
 <details><summary>Bühler</summary>
 
 163	He who diverts water-courses, and he who delights in obstructing them, an architect, a messenger, and he who plants trees (for money),
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**दूतश्** च् राजप्रेष्यो ऽपि कदाचिद् भवति, राजाधीनो ऽपि मध्यस्थतया जानपदो ऽपि । **वृक्षारोपकस्** तु मूल्येन रोपयिता प्रतिषिध्यते इतरस्योपदेशसामर्थ्यात् ।
 </details>

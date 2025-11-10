@@ -1,6 +1,5 @@
 +++
 title = "030 यथा र्तु-लिङ्गान्य्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -41,4 +40,10 @@ The frequent repetition of the term ‘*ṛtu*’ season,’ is due to the exige
 <details><summary>Bühler</summary>
 
 030	As at the change of the seasons each season of its own accord assumes its distinctive marks, even so corporeal beings (resume in new births) their (appointed) course of action.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**यथर्तुलिङ्गानि** चूतमञ्जर्यादि(दी)नि । ऋतवो वसन्तादयः । स्वयम् एव परिवर्तमानाः क्रमेण **स्वानि स्वान्य् अभिपद्यन्ते** कर्तुं चूतमञ्जर्यादीनि लिङ्गानि कार्याणीत्य् अर्थः । एवं तत्र तत्र प्राणि(नि)कायेभ्यः उत्पद्यमानाः कर्मवशात् प्राणिनो ऽपि हिंस्राहिम्स्रादि कार्यकारणभूतान् स्वयम् एव प्रतिपद्यत इति तत्त्वसृष्ट्युपसंहारानन्तरम् इदानीम् अनेकप्रयोजनात्मा सृष्टिं प्रदर्शयिष्यन्न् इमां वर्णसृष्टिं तावद् आह – उत्तरार्थम् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "246 दृढकारी मृदुर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -33,4 +32,15 @@ He who acts resolutely, is gentle and tolerant, who does not associate with pers
 <details><summary>Bühler</summary>
 
 246	He who is persevering, gentle, (and) patient, shuns the company of men of cruel conduct, and does no injury (to living creatures), gains, if he constantly lives in that manner, by controlling his organs and by liberality, heavenly bliss.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+स्नातकस्य संसर्गाभ्यां **दृधकारित्वं** विशिष्टफलसम्बन्धम् उच्यते । तथा च व्यासः ।
+
+> कर्मणा मनसा वाचा यद् अभीक्ष्णं विषेवते ।  
+> तस्य न्यासो (?) भरत्य् एनं तस्मात् कल्याणम् आचरेत् ॥
+
+शिष्टकरणशीलो वा दिष्टकारीति पाठान्तरव्याख्या । इदानीं सद्भिः सह सर्वसम्बन्धोपदेशाद् अनापद्य् असत्प्रतिग्रहो न प्राप्तः इष्यते । यः (?) स्याद् इत्य् आरम्भः ।
 </details>

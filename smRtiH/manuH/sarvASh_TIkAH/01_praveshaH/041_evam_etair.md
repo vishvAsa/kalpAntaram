@@ -1,6 +1,5 @@
 +++
 title = "041 एवम् एतैर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -30,4 +29,10 @@ In this manner was all this, movable and immovable, called into being, through t
 <details><summary>Bühler</summary>
 
 041	Thus was this whole (creation), both the immovable and the movable, produced by those high-minded ones by means of austerities and at my command, (each being) according to (the results of) its actions.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं च कर्मनिमित्तः संसारो त्रासितो(दर्शितो?) भवति । मरीच्यादिप्रजापतिसृष्टेर् अयम् उपसंहारार्थः श्लोकः ।
 </details>

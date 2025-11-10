@@ -1,6 +1,5 @@
 +++
 title = "131 सहस्रं हि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -59,4 +58,14 @@ pure character, learned in the Veda, knowing Brahman, youthful, endowed with lea
 <details><summary>Bühler</summary>
 
 131	Though a million of men, unaquainted with the Rikas, were to dine at a (funeral sacrifice), yet a single man, learned in the Veda, who is satisfied (with his entertainment), is worth them all as far as the (production of) spiritual merit (is concerned).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इयम् अपरार्थज्ञप्रशंसा । एवं च सत्य् **अनृचां** मा भूत् । ऋग्विदाम् इति द्रष्टव्यम् । **मन्त्रविच्**छब्दश् च वेदार्थजानिवचनः । एवं च सति –
+
+**ज्ञानोत्कृष्टाय देयानि कव्यानि च हवींषि च ।**
+
+अस्य दृष्टान्तो ऽर्थवादः ।
 </details>

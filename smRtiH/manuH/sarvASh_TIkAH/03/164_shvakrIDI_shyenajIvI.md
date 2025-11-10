@@ -1,6 +1,5 @@
 +++
 title = "164 श्वक्रीडी श्येनजीवी"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -52,4 +51,10 @@ See Comparative notes for [Verse 3.150].
 <details><summary>Bühler</summary>
 
 164	A breeder of sporting-dogs, a falconer, one who defiles maidens, he who delights in injuring living creatures, he who gains his subsistence from Sudras, and he who offers sacrifices to the Ganas,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**कन्यादूषको** वा चेत्य् उक्तम्, इतरस् त्व् अग्रेदिधिषुर् व्याख्यातः । **हिंस्रः** क्षुद्रजन्तुवधारभ्य(?) येन दूष्यते । अन्यस् तूक्त एव । **वृषलपुत्रः** अनुत्पन्नेतरभार्यापुत्रः शूद्रपुत्रतयोच्यते । **गणानां याजको** बहुयाज्ययाजकः लौकिकगणस्य वाचां (?) इत्यादिकर्मणा । "याजयन्ति च ये पूगान्" (म्ध् ३.१५१) इत्य् अत्र व्रात्ययाजको ऽभिहितः । लौकिकालौकिकगुणविभागेन वा द्विर्वचनम् अस्य । <u>अन्ये</u> **[१४१]** तु पुनरुक्तिभयाद् अन्यथा पठन्ति । "नृणां चैव व्येषकः (?)" इति । परिग्रहभृत्सामदीक्षाम् उदीक्षक इत्य् अर्थः । (?)
 </details>

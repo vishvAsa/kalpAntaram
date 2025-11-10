@@ -1,6 +1,5 @@
 +++
 title = "048 युग्मासु पुत्रा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,10 @@ See Comparative notes for [Verse 3.45].
 <details><summary>Bühler</summary>
 
 048	On the even nights sons are conceived and daughters on the uneven ones; hence a man who desires to have sons should approach his wife in due season on the even (nights).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+जातपुत्रः श्रौतधर्माधिकारार्थम् आत्मसंस्कारार्थं चायं तावत् सर्गः (?) । परस्य त्व् अपवादार्थः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "144 कामं श्राद्धे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -30,4 +29,10 @@ with the Ṛk, the Yajuṣ and the Sāman.’
 <details><summary>Bühler</summary>
 
 144	(If no learned Brahmana be at hand), he may rather honour a (virtuous) friend than an enemy, though the latter may be qualified (by learning and so forth); for sacrificial food, eaten by a foe, bears no reward after death.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+"नारिं न मित्रं यं विद्यात्" (म्ध् ३.१३८) इत्य् अरिमित्रयोः सम्प्रतिषिद्धयोर् मित्रवद् अरेर् अपि गुणवतः प्रतिप्रसवो मा भूद् गुणवद्ब्राह्मणाभावे इति तत्प्रतिषेधार्थम् आरभ्यत इति "श्रोत्रियायैव देयानि हव्यकव्यानि" (म्ध् ३.१२८) इत्य् उक्तम् । यतस् तान् विशिनष्टि छन्दोमात्राध्यायिप्रतिषेधार्थम् ।
 </details>

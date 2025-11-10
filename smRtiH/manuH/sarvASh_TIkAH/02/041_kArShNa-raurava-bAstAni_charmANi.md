@@ -1,6 +1,5 @@
 +++
 title = "041 कार्ष्ण-रौरव-बास्तानि चर्माणि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -166,4 +165,10 @@ The size of the ‘skin’ to be worn has been prescribed by Śākala (Vīramitr
 <details><summary>Bühler</summary>
 
 041	Let students, according to the order (of their castes), wear (as upper dresses) the skins of black antelopes, spotted deer, and he-goats, and (lower garments) made of hemp, flax or wool.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**चर्माण्य्** उत्तरीयाणि ब्रह्मचारिणाम् अविशेषवचने ऽपि गृह्यशास्त्रात् प्रतीयते । एवं च **शाणक्षौमाविकान्य्** अर्थात् परिधानानुपूर्वग्रहणं चोत्तरार्थं विज्ञेयम् । <u>ननु</u> चैतच् चर्मसङ्ख्यत्वाद् अर्थसिद्धम्, गृह्यस्मृतौ "शाणं क्षौमं वा वसनं ब्राह्मणस्य" इत्य् उक्तम् एवं च सङ्ख्याभेदे सति सर्वाणि सर्वेषां मा भूवन् नित्यतस् तदाशङ्कानिवृत्त्यर्थम् **आनुपूर्व्य**ग्रहणम् । कथम् इति ।
 </details>

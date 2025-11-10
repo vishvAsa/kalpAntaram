@@ -1,6 +1,5 @@
 +++
 title = "062 हृद्गाभिः पूयते"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -87,4 +86,10 @@ teeth*.’
 <details><summary>Bühler</summary>
 
 062	A Brahmana is purified by water that reaches his heart, a Kshatriya by water reaching his throat, a Vaisya by water taken into his mouth, (and) a Sudra by water touched with the extremity (of his lips).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**हृदयादीनाम्** अवधित्वेन निर्देशः आचमनोदकस्य परिमाणोपलक्षणार्थः । एवं चाप्राप्ताव् उदकस्य दोषान् आबध्यते (?) क्रमेण सामर्थाद् द्रष्टव्यः । **शूद्र(ः) स्पृष्टाभिर् अन्तत** इति न हस्तेन । केन तर्हि । जिह्वोष्ठेन । यस्मात् तेनैव ब्राह्मणादीनाम् आचमनोदकस्यान्तर्हृदयादिप्रवेशोक्तिसामर्थ्यात् स्वहस्तेनैवं (?) च **स्पृष्टाभिर् अन्तत** इति । वचनात् तस्यापि प्राशनम् अनुमीयते । वर्णविभागेन विहितलक्षणानां द्विजातिसामान्यो ऽयं सन्निवेशैर् अनुक्तो यतस् तदर्थम् इदम् आरभते (?) ।
 </details>

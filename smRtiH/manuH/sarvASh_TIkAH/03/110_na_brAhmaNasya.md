@@ -1,6 +1,5 @@
 +++
 title = "110 न ब्राह्मणस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -55,4 +54,10 @@ be, out of that he shall make the Vaiśvadeva offerings, and then entertain, to 
 <details><summary>Bühler</summary>
 
 110	But a Kshatriya (who comes) to the house of a Brahmana is not called a guest (atithi), nor a Vaisya, nor a Sudra, nor a personal friend, nor a relative, nor the teacher.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**तु**शब्दो ऽवधारणार्थः । ब्राह्मणस्यानतिथयो राजन्यवैश्यशूद्राः । क्षत्रियादीनां तु सवर्णोत्कृष्टवर्णाभावं (?) ते वातिथयः । सखा चात्र ब्राह्मण एवास्यारम्भसामर्थ्याद् विज्ञेयः । एवं क्षत्रियादिष्व् अपि ज्ञातिगुरूणां च यत्नसिद्धं ब्राह्मण्यं त्व् अनतिथित्ववचनात् । न च तुल्यकारणम् एषाम् अनतिथित्वम्, राजन्यादीनां तावद् धीनजातित्वात्, सखिज्ञात्योर् आप्तत्वात्, पुत्रादिवत् । गुरौ च गृहिणः परसक्तयानतिथित्वम् (?) । तस्य –
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "083 अरोगाः सर्वसिद्धार्थाश्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -66,4 +65,10 @@ See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 <details><summary>Bühler</summary>
 
 083	(Men are) free from disease, accomplish all their aims, and live four hundred years in the Krita age, but in the Treta and (in each of) the succeeding (ages) their life is lessened by one quarter.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**अरोगा** रोगकरणाभावात् तदानीं काम्यकर्मसाफल्याच् च **सर्वसिद्धार्थास्** **चतुर्वर्षशतायुष** इत्य् अत्र **शत**शब्दो बह्वर्थो न गणनार्थशास्त्रविरोधाद् एतद् वक्ष्यामः । एवं द्राघिष्ठकालायुषश् चतुर्वर्णशतायुषो मनुष्याः कृतयुगस्वभावतो धर्मानुग्रहेण चेदानीन्तनेभ्यो दीर्घायुषस् **त्रेतादिष्व् एषां** यथा **वयो ह्रसति** **पादशः** एवं सिद्ध्यारोग्ये अपि ह्रसतः प्रदर्शनार्थत्वात् वयोग्रहणस्य । युक्तश् च तयोः प्रकृतत्वादिग्रहणं सतां नार्थत्वाद् युग्स्वभावानुविधानेन चैवं वा,
 </details>

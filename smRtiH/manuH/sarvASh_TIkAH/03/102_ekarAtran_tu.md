@@ -1,6 +1,5 @@
 +++
 title = "102 एकरात्रन् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -74,4 +73,10 @@ that person who comes to one’s house, whose family or name is not known,—who
 <details><summary>Bühler</summary>
 
 102	But a Brahmana who stays one night only is declared to be a guest (atithi); for because he stays (sthita) not long (anityam), he is called atithi (a guest).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इदम् अतिथीनां निर्वचनम् एकाहोरात्रप्रतिवासिनो ब्राह्मणस्येयं नियमस्मृतिर् वेदितव्या । एवं च सति द्वितीयादिष्व् अहःस्व् अनुवृत्तिम् अकुर्वतो यथोक्तप्रत्यवायाभावः । अनुवृत्तेन तु सत्याम् अयम् अभ्युदयो यथा प्रदर्शितः स्याद् इत्य् एवमर्थम् इदं तन्निर्वचनम् उक्तम् ।
 </details>

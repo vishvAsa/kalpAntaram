@@ -1,6 +1,5 @@
 +++
 title = "120 ऊर्ध्वम् प्राणा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -40,4 +39,10 @@ uncle, the maternal uncle—those not junior in age;—these he shall salute aft
 <details><summary>Bühler</summary>
 
 120	For the vital airs of a young man mount upwards to leave his body when an elder approaches; but by rising to meet him and saluting he recovers them.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+शिष्टस्याक्रियायां प्रत्यवायदर्शनेन नान्तरविध्यनुष्ठानस्तुतिर् इयं चापरा ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "010 दधि भक्ष्यम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -88,4 +87,10 @@ preparations of curd; drinks made of fruits and roots and flowers may be eaten, 
 <details><summary>Bühler</summary>
 
 010	Among (things turned) sour, sour milk, and all (food) prepared of it may be eaten, likewise what is extracted from pure flowers, roots, and fruit.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अत्र **शुक्त**प्रतिषेधे पिष्टाक्तशुक्तप्रतिषेधः । **पुष्पमूलफलैः शुभैर्** इति । तथाजातीयस्य प्रतिप्रसवाद् अतो यानि स्वभावतः शुक्तानि पुष्पमूलफलानि तानि न प्रतिषिध्यन्ते । प्रायेण च पुष्पफलैर् अभिषेचनादिकाय पुष्पादिग्रहणं विज्ञेयम् । न त्व् अनेनेक्षुगुडादीनां प्रतिषेधः । एवं च सत्य् आचारविरोधी स्मृत्यर्थः कल्पयितव्यः । शुभानां चाभ्यनुज्ञानाद् अशुभादिषु शीधुशुभस (?) प्रतिषेधः ।
 </details>

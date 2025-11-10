@@ -1,6 +1,5 @@
 +++
 title = "080 त्रिरात्रम् आहुर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -70,4 +69,10 @@ father-in-law, the friend, the *guru*, the *guru’s* wives,—the impurity last
 <details><summary>Bühler</summary>
 
 080	They declare that, when the teacher (akarya) has died, the impurity (lasts) three days; if the (teacher's) son or wife (is dead, it lasts) a day and a night; that is a settled (rule).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+निगदव्याख्यातः श्लोकः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "099 विप्रः शुध्यत्य्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -42,4 +41,10 @@ This verse is quoted in *Nirṇayasindhu* (p. 427);—in *Smṛtitattva* (p. 278
 <details><summary>Bühler</summary>
 
 099	(At the end of the period of impurity) a Brahmana who has performed the necessary rites, becomes pure by touching water, a Kshatriya by touching the animal on which he rides, and his weapons, a Vaisya by touching his goad or the nose-string (of his oxen), a Sudra by touching his staff.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+दशाहादीनां कल्पनामन्त इदम् उदकोपस्पर्शनादिकं वरं शौचं कर्तव्यम् ।
 </details>

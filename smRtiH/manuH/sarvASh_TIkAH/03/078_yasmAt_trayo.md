@@ -1,6 +1,5 @@
 +++
 title = "078 यस्मात् त्रयो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -73,4 +72,10 @@ the others being unproductive.’
 <details><summary>Bühler</summary>
 
 078	Because men of the three (other) orders are daily supported by the householder with (gifts of) sacred knowledge and food, therefore (the order of) householders is the most excellent order.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अधिकृतकर्मानुष्ठानस्तुतिप्रकरणसामर्थाद् वेदितव्या यतश् चैतद् एव महाप्रयोजनो गृहस्थाश्रमः सर्वलोकानुग्राहितया । अतः –
 </details>

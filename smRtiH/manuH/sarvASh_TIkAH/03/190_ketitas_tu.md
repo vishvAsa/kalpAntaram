@@ -1,6 +1,5 @@
 +++
 title = "190 केतितस् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,10 @@ who is late... falls into hell.’
 <details><summary>Bühler</summary>
 
 190	But a Brahmana who, being duly invited to a rite in honour of the gods or of the manes, in any way breaks (the appointment), becomes guilty (of a crime), and (in his next birth) a hog.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+निमन्त्रिते भोक्ष्य इति प्रतिज्ञाय यो न भुङ्क्ते सो ऽस्यातिक्रमः ।
 </details>

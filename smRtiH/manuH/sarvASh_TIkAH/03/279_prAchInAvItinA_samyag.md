@@ -1,6 +1,5 @@
 +++
 title = "279 प्राचीनावीतिना सम्यग्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,10 @@ shoulder, he shall make the offering to the Pitṛs.’
 <details><summary>Bühler</summary>
 
 279	Let him, untired, duly perform the (rites) in honour of the manes in accordance with the prescribed rule, passing the sacred thread over the right shoulder, proceeding from the left to the right (and) holding Kusa grass in his hands, up to the end (of the ceremony).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+श्राद्धाङ्गगुणविध्यर्थः श्लोकः ।
 </details>

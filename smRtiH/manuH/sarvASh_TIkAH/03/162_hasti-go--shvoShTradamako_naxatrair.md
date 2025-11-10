@@ -1,6 +1,5 @@
 +++
 title = "162 हस्ति-गो-ऽश्वोष्ट्रदमको नक्षत्रैर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ See Comparative notes for [Verse 3.150].
 <details><summary>Bühler</summary>
 
 162	A trainer of elephants, oxen, horses, or camels, he who subsists by astrology, a bird-fancier, and he who teaches the use of arms,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**युद्धाचार्यश्** चास्त्रकुशलः (?) ।
 </details>

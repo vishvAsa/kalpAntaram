@@ -1,6 +1,5 @@
 +++
 title = "179 वेदविच् चाऽपि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ by water.’
 <details><summary>Bühler</summary>
 
 179	And if a Brahmana, though learned in the Veda, accepts through covetousness a gift from such (a man), he will quickly perish, like a vessel of unburnt clay in water.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**वेदविद् अपीति** द्रष्टव्यम् असत्प्रतिग्रहसंयोगाच् चायं प्रतिषेधो वेदितव्यः लिङ्गतः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "039 यज्ञार्थम् पशवः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,10 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 538).
 <details><summary>Bühler</summary>
 
 039	Svayambhu (the Self-existent) himself created animals for the sake of sacrifices; sacrifices (have been instituted) for the good of this whole (world); hence the slaughtering (of beasts) for sacrifices is not slaughtering (in the ordinary sense of the word).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+न केवलं हिंसादोषकार्याभावाद् एवम् उच्यते, किं तर्हि । तदनुग्रहक्रियाकश् च । तथा च दर्शयति –
 </details>

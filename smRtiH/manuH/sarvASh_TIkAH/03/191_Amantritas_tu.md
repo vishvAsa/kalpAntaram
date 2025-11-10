@@ -1,6 +1,5 @@
 +++
 title = "191 आमन्त्रितस् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -40,4 +39,10 @@ to his bed a Śūdra woman, he throws his forefathers into her ordure for three 
 <details><summary>Bühler</summary>
 
 191	But he who, being invited to a Sraddha, dallies with a Sudra woman, takes upon himself all the sins which the giver (of the feast) committed.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**वृषली**शब्देन ब्राह्मण्य् एव निन्द्यते । यस्माद् वृषस्यन्ती भर्तारं चलयति ब्रह्मचर्याद् उभयोर् दोषे ऽपि तत् सर्वं धनत्वाद् व्रतभङ्गस्य युक्ता तन्निन्दा । अभुक्तवतश् चायं नियमव्यतिक्रमदोषः । भुक्तवतस् तु वक्ष्यति "श्राद्धभुग् वृषलीतल्पम्" (म्ध् ३.२५०) इति ।
 </details>

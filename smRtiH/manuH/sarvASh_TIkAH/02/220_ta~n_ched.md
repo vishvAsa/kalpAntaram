@@ -1,6 +1,5 @@
 +++
 title = "220 तञ् चेद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -109,4 +108,10 @@ forestalled by sunset, who has bad nails, who has black teeth...... are sinners.
 <details><summary>Bühler</summary>
 
 220	If the sun should rise or set while he is sleeping, be it (that he offended) intentionally or unintentionally, he shall fast during the (next) day, muttering (the Savitri).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पूर्वसन्ध्याव्यतिक्रमे पश्चिमसन्ध्याव्यतिक्रमे रात्रौ भुक्तित्यागो जपश् च । तथा च गौतमः- "सूर्याभ्युदितो ब्रह्मचारी तिष्ठेद् अहर् भुञ्जानो ऽभ्यस्तमितश् च रात्रिं जपन् सावित्रीम्" (ग्ध् २३.२१) इति । अपरे त्व् आहुः । "**जपन् उपवसेद् दिनम्**" इति उभयसन्ध्याव्यतिक्रमे पश्चिमसन्ध्या व्यतिक्रमे ऽपि प्रत्येकं तच् चानेन स्मृत्यन्तरेण न सम्बध्यते । इदं चान्यत् प्रकृतार्थसामर्थ्याभिधानाय तदुपो[द्]बलकं शिष्यते ।
 </details>

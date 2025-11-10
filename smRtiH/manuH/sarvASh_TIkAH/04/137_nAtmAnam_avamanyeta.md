@@ -1,6 +1,5 @@
 +++
 title = "137 नात्मानम् अवमन्येत"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -59,4 +58,10 @@ not touch any one in his vitals.’
 <details><summary>Bühler</summary>
 
 137	Let him not despise himself on account of former failures; until death let him seek fortune, nor despair of gaining it.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+आत्मा नावमन्तव्य इत्य् अदृष्टार्थो ऽयं नियमः । आत्मावमानाच् च कदाचिद् अप्य् अयं विषभक्षणादिष्व् अप्य् आकार्येषु प्रवर्तते ।
 </details>

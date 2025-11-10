@@ -1,6 +1,5 @@
 +++
 title = "086 आचम्य प्रयतो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,10 @@ look at the stars; on talking to him, one should converse with the Brāhmaṇa; 
 <details><summary>Bühler</summary>
 
 086	He who has purified himself by sipping water shall, on seeing any impure (thing or person), always mutter the sacred texts, addressed to Surya, and the Pavamani (verses).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रकृतानां दिवाकीर्त्यानाम् अशुचिपदार्थानां दर्शणं कृतं स्यात् (चेत्?) । स्पर्शने तूक्तम् ।
 </details>

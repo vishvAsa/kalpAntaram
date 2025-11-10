@@ -1,6 +1,5 @@
 +++
 title = "034 अहम् प्रजाः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -27,4 +26,10 @@ _तान् महर्षीन् नामतो निर्दिशत�
 <details><summary>Bühler</summary>
 
 034	Then I, desiring to produce created beings, performed very difficult austerities, and (thereby) called into existence ten great sages, lords of created beings,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उत्तरप्रकरणाभिसम्बन्धार्थः श्लोकः ।
 </details>

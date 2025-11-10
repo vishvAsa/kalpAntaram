@@ -1,6 +1,5 @@
 +++
 title = "012 सवर्णाग्रे द्विजातीनाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -107,4 +106,10 @@ wife, there are three wives, in the descending order of the castes; for the Śū
 <details><summary>Bühler</summary>
 
 012	For the first marriage of twice-born men (wives) of equal caste are recommended; but for those who through desire proceed (to marry again) the following females, (chosen) according to the (direct) order (of the castes), are most approved.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सिद्धापि सती सवर्णेतरविप्रक्षय उच्यते । अर्थाच् च **सवर्णा**ग्रहणं शास्त्रात् । क विधिः (?) । एवं च द्वितीयैषा स्मृतिः । पूर्वस्या अस्य स्तुत्यर्थम् अर्थवादः प्रक्रियते ।
 </details>

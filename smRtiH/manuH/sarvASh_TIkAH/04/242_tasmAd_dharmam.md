@@ -1,6 +1,5 @@
 +++
 title = "242 तस्माद् धर्मम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,14 @@ See Comparative notes for [Verse 4.241].
 <details><summary>Bühler</summary>
 
 242	Let him therefore always slowly accumulate spiritual merit, in order (that it may be his) companion (after death); for with merit as his companion he will traverse a gloom difficult to traverse.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अतो न मात्राद्यर्थं धनं स्थापयेद् येनामुत्रासहायास् ते ।
+
+[हेरे रेपेअत्स् वेर्से २४०, २४१]
+
+यतश् च ।
 </details>

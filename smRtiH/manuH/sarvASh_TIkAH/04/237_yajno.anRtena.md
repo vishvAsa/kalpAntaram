@@ -1,6 +1,5 @@
 +++
 title = "237 यज्ञो ऽनृतेन"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ See Comparative notes for [Verse 4.234].
 <details><summary>Bühler</summary>
 
 237	By falsehood a sacrifice becomes vain, by self-complacency (the reward for) austerities is lost, longevity by speaking evil of Brahmanas, and (the reward of) a gift by boasting.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यतश् चैतद् एवम् अतः प्रतिषिद्धं न समाचरेत् । दानपरिकीर्तिनादिप्रकरणाच् च दानधर्मविशेषविषयान्यद्भक्तिश्रद्दधानतया स्नातकः प्रत्यहं स्वल्पम् अपि यत् किञ्चिद् अर्थिभ्यः प्रयच्छन् –
 </details>

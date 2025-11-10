@@ -1,6 +1,5 @@
 +++
 title = "105 निर्घाते भूमिचलने"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -67,4 +66,10 @@ fall of meteors and earthquake, there shall be no study for three days.’
 <details><summary>Bühler</summary>
 
 105	On (the occasion of) a preternatural sound from the sky, (of) an earthquake, and when the lights of heaven are surrounded by a halo, let him know that (the Veda-study must be) stopped until the same hour (on the next day), even if (these phenomena happen) in the (rainy) season.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+निर्घातादीनां वर्षासु प्रायेण दर्शनाद् **ऋताव् अपीत्य्** उच्यते । **अपि**शब्दाद् अनृताव् अपि ।
 </details>

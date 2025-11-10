@@ -1,6 +1,5 @@
 +++
 title = "002 एवं यथोक्तम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -29,4 +28,10 @@ Those Twice-born men who perform the duty exactly in the form in which it has be
 <details><summary>Bühler</summary>
 
 002	'How can Death have power over Brahmanas who know the sacred science, the Veda, (and) who fulfil their duties as they have been explained (by thee), O Lord? '
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**कथं**शब्दः क्षेपेण मृत्युना भवितव्यम् । एवम् आचारतां तेषां यस्माद् अत्रोक्तम् "आचाराल् लभते ह्य् आयुः" (म्ध् ४.१५६) इत्येवमादीति । कथं (?) पुनर् अजरामरा वेदशास्त्रविदो, यत एवं वक्ति । नेत्य् उच्यते । दृष्टविरोधाच् छाव (?) कर्मोपदेशात् शास्त्रविरोधाच् च । किं तर्हि । वेदशास्त्रोपदिष्टाद् आयुषः प्राग् एव धर्ममरणम् अयुक्तम् अकालमृत्युसञ्ज्ञकम् । तथा च ये मृत्यव एकशतम् इतीदम् अथर्ववेदलिङ्गम् अकालमृत्यूनाम् । एवं च **कथं मृत्युः प्रभवतीति** पूर्णायुषः । एवम् आयुर्निमित्तसामग्र्य इति ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "134 न हीदृशम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ Any such thing as the eating of indigestible food, the stealing of gold, etc., �
 <details><summary>Bühler</summary>
 
 134	For in this world there is nothing so detrimental to long life as criminal conversation with another man's wife.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रतीतार्थाः श्लोकाः । **कामत** इति व्याख्यातम् ।
 </details>

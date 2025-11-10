@@ -1,6 +1,5 @@
 +++
 title = "020 यथा यथा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -40,4 +39,10 @@ See Comparative notes for [Verse 4.19].
 <details><summary>Bühler</summary>
 
 020	For the more a man completely studies the Institutes of science, the more he fully understands (them), and his great learning shines brightly.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+"बुद्धिवृद्धिकराण्य् आशु धन्यानि च हितानि च" (म्ध् ४.१९) इति पूर्वशोकोतार्थवादस्यास्योपचयपक्षेणेयम् अपरा शास्त्राधिगमस्तुतिः, "नित्यं शास्त्राण्य् अवेकेत" (म्ध् ४.१९) इत्य् अस्य पूर्वश्लोकोक्तस्य विधेः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "136 वित्तम् बन्धुर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -172,4 +171,10 @@ Relationship, etc., and Wealth, in order, does a man become respected.’
 <details><summary>Bühler</summary>
 
 136	Wealth, kindred, age, (the due performance of) rites, and, fifthly, sacred learning are titles to respect; but each later-named (cause) is more weighty (than the preceding ones).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+<u>पूजा भा मान्यस् त्रिषु त्यस्मिन्न् इति</u> (??) मान्यस्थानम् । एषां तानीमानि **मान्यस्थानानि** । एवं च **वित्ता**दीनां मान्यत्वम् अर्थाद् उक्तम् । बलाबलं वैषाम् उच्यते । गरीयो गुरुतरं द्वये द्वयोः सामान्याद् वेदितव्यम् । किं तन्मान्यस्थानम् । यद् यद् उत्तरं पूर्वस्मात् पूर्वस्मात् अर्थसिद्धम् । वीप्सा सामर्थ्याद् श्रुतापि ।
 </details>

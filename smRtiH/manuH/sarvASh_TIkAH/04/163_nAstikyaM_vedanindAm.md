@@ -1,6 +1,5 @@
 +++
 title = "163 नास्तिक्यं वेदनिन्दाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -57,4 +56,10 @@ scriptures and great men.’
 <details><summary>Bühler</summary>
 
 163	Let him avoid atheism, cavilling at the Vedas, contempt of the gods, hatred, want of modesty, pride, anger, and harshness.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**द्वेष**विशेषप्रदर्शनार्थं तत् । परिवर्जनार्थम् आचार्यादिभ्यश् चान्यत्रापि ।
 </details>

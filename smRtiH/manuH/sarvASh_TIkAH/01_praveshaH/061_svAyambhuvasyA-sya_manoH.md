@@ -1,6 +1,5 @@
 +++
 title = "061 स्वायम्भुवस्याऽस्य मनोः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -31,4 +30,10 @@ The text proceeds to point out one such work common to the Manus:—“*They hav
 <details><summary>Bühler</summary>
 
 061	Six other high-minded, very powerful Manus, who belong to the race of this Manu, the descendant of the Self-existent (Svayambhu), and who have severally produced created beings,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तान् मनुपुत्रान् (?) विशेषनामभिः प्रदर्शयति व्यवहार्थम् ।
 </details>

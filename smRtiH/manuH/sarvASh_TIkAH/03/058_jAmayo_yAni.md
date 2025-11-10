@@ -1,6 +1,5 @@
 +++
 title = "058 जामयो यानि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,10 @@ down by malignant spirits; such houses neither shine nor prosper; and they are d
 <details><summary>Bühler</summary>
 
 058	The houses on which female relations, not being duly honoured, pronounce a curse, perish completely, as if destroyed by magic.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तद् असंस्कारवर्धनेन ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "053 आर्षे गोमिथुनम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -56,4 +55,10 @@ hundred cows is made, it is known as *selling*.’ *Apastamba-Dharmasūtra* (2.1
 <details><summary>Bühler</summary>
 
 053	Some call the cow and the bull (given) at an Arsha wedding 'a gratuity;' (but) that is wrong, since (the acceptance of) a fee, be it small or great, is a sale (of the daughter).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इयम् अपरा ग्रहणे स्तुत्यर्था । ग्रहणनिदायाम् ।
 </details>

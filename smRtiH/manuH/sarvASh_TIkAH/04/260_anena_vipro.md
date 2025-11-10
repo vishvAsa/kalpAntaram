@@ -1,6 +1,5 @@
 +++
 title = "260 अनेन विप्रो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,13 @@ the night and the twilights offers prayers, becomes purified by Brahman and beco
 <details><summary>Bühler</summary>
 
 260	A Brahmana who, being learned in the lore of the Vedas, conducts himself in this manner and daily destroys his sins, will be exalted in Brahman's world.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**अनेन विप्रो वृत्तेनेति** स्नातकप्रकरणोपदिष्टान् यमनियमान् गृह्णाति । **वेदशास्त्रविद्**ग्रहणेन ज्ञानकर्मणी । एतं चैतद् अर्थाद् उक्तं भवति – एते ज्ञानकर्मणी एव सर्मर्थे भवतः । यद्य् एभिः स्नातकधर्मः (?) सम्बध्यते नान्यथेति स्तुतिवाक्यम् एतत् स्नातकधर्मानुष्ठानस्य परमात्मविज्ञानानपेक्षं वैतत् । कथम् । अन्तरेणापि कर्माणि परमात्मज्ञानं स्नातककर्मसहितं ब्रह्मप्राप्तये समर्थं तथा तस्य श्रुतत्वात् । एवम् अपि चैतत् स्तुतिपरत्वम् एषाम् इति ।
+
+**इति चतुर्थो ऽध्यायः \  
+मनुशास्त्रविवरणम्**
 </details>

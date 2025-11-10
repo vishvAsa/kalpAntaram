@@ -1,6 +1,5 @@
 +++
 title = "096 सोमाग्न्य्-अर्कानिलेन्द्राणां वित्ताप्पत्योर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -29,4 +28,10 @@ To the same end we have also a second laudatory declaration in the next verse.�
 <details><summary>Bühler</summary>
 
 096	A king is an incarnation of the eight guardian deities of the world, the Moon, the Fire, the Sun, the Wind, Indra, the Lords of wealth and water (Kubera and Varuna), and Yama.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं च सति ।
 </details>

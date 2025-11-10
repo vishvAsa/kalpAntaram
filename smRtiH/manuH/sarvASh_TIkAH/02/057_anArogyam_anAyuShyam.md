@@ -1,6 +1,5 @@
 +++
 title = "057 अनारोग्यम् अनायुष्यम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,10 @@ See Comparative notes for [Verse 2.56].
 <details><summary>Bühler</summary>
 
 057	Excessive eating is prejudicial to health, to fame, and to (bliss in) heaven; it prevents (the acquisition of) spiritual merit, and is odious among men; one ought, for these reasons, to avoid it carefully.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+भूर्न्ना(?) प्रतिषेधे सत्य् अशनस्य निन्दार्थवादेन गुरुत्वं प्रतीयते । **अनारोग्य**कारणत्वाद् अत्यशनम् **[५८]** **अनायुष्यम् अस्वर्ग्यं** **चापुण्य**तया । कथम् । पुण्यतानियमातिक्रमाच् छौचादिष्व् असामर्थाच् चास्य नियमत्यागेन । एवं चात्यशनसहोपदिष्टानाम् अपि प्रतिषेध्यानां निन्दार्थवादः उत्प्रेक्ष्यो ऽतिदर्शनार्थत्वाद् अस्य । इदानीं ब्रह्मचारिणां वर्णाश्रयस् तीर्थोपदेशः क्रियते ऽर्थप्राप्तेर् निवृत्त्यर्थे ।
 </details>

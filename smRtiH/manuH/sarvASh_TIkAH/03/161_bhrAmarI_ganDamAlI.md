@@ -1,6 +1,5 @@
 +++
 title = "161 भ्रामरी गन्डमाली"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -58,4 +57,10 @@ See Comparative notes for [Verse 3.150].
 <details><summary>Bühler</summary>
 
 161	An epileptic man, who suffers from scrofulous swellings of the glands, one afflicted with white leprosy, an informer, a madman, a blind man, and he who cavils at the Veda must (all) be avoided.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**भ्रामर्य्** अपस्मारी । **गण्डमाल्यादयस्** तु प्रसिद्धा एव ।
 </details>

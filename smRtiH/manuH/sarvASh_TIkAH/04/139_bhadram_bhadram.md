@@ -1,6 +1,5 @@
 +++
 title = "139 भद्रम् भद्रम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -61,4 +60,10 @@ not needed. He shall say *well*.’
 <details><summary>Bühler</summary>
 
 139	(What is) well, let him call well, or let him say 'well' only; let him not engage in a useless enmity or dispute with anybody.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अभद्रं भद्रम् इत्य् उक्तम् आदरार्थम् । तथा च गौतमः- "अभद्रं भद्रम् इत्य् आहुः" (ग्ध् ९.२०) । एवं च सत्य् अत्र न शब्दनियमः भद्रम् इति चेद् द्वितीयं भद्रशब्दग्रहणं शब्दनियमार्थं तथा त्व् **एव**कारग्रहणम् । **भद्रम् इत्य् एव वा वदेद्** इत्य् अत्र इदम् अशब्द एवं नियम्यते ।
 </details>

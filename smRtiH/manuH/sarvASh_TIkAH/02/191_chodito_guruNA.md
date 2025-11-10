@@ -1,6 +1,5 @@
 +++
 title = "191 चोदितो गुरुणा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -55,4 +54,10 @@ teacher.’
 <details><summary>Bühler</summary>
 
 191	Both when ordered by his teacher, and without a (special) command, (a student) shall always exert himself in studying (the Veda), and in doing what is serviceable to his teacher.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विषयार्थं पुनर् आरम्भः ।
 </details>

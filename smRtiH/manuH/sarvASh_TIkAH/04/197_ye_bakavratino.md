@@ -1,6 +1,5 @@
 +++
 title = "197 ये बकव्रतिनो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -29,4 +28,10 @@ See Comparative notes for [Verse 4.195].
 <details><summary>Bühler</summary>
 
 197	Those Brahmanas who act like herons, and those who display the characteristics of cats, fall in consequence of that wicked mode of acting into (the hell called) Andhatamisra.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+परातिसन्धानफलार्थेन पातश् चैतद् एवम् अतस् तत्समम् अन्यद् अपि सोपधं कर्म परिहारार्थं निद्यते ।
 </details>

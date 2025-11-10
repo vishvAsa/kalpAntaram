@@ -1,6 +1,5 @@
 +++
 title = "153 प्रेष्यो ग्रामस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -49,4 +48,10 @@ See Comparative notes for [Verse 3.150].
 <details><summary>Bühler</summary>
 
 153	A paid servant of a village or of a king, man with deformed nails or black teeth, one who opposes his teacher, one who has forsaken the sacred fire, and a usurer;
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**ग्रामराजप्रेष्ययोः** कर्मसम्बन्धमात्रात् प्रतिषेधः । **कुनखीश्यावदतोः** पूर्वकर्मावशेषेण । **प्रतिरोद्धा गुरोर्** यत्र तद् राजसं प्रतिकुलम् । **प्रतिरद्धेति** पाठान्तरम् । गुरोर् आभिमुख्येन हिंसकः । **त्यक्ताग्निर्** अविशेषात् । **वार्धुषिश्** च प्रतिषिद्धवृद्धिजीवनः ।
 </details>

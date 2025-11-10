@@ -1,6 +1,5 @@
 +++
 title = "018 दैव-पित्र्यातिथेयानि तत्-प्रधानानि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -71,4 +70,10 @@ See Comparative notes for [Verse 3.13].
 <details><summary>Bühler</summary>
 
 018	The manes and the gods will not eat the (offerings) of that man who performs the rites in honour of the gods, of the manes, and of guests chiefly with a (Sudra wife's) assistance, and such (a man) will not go to heaven.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अयम् अपि पूर्ववद् विभज्य वचनीयः । इदं चान्यत् प्रतिषिद्धसेवनात् ।
 </details>

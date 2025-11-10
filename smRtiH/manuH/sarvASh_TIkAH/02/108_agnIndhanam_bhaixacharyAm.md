@@ -1,6 +1,5 @@
 +++
 title = "108 अग्नीन्धनम् भैक्षचर्याम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -123,4 +122,14 @@ fire-tending during the twilights, Vedic study, service of the Teacher, these th
 <details><summary>Bühler</summary>
 
 108	Let an Aryan who has been initiated, (daily) offer fuel in the sacred fire, beg food, sleep on the ground and do what is beneficial to this teacher, until (he performs the ceremony of) Samavartana (on returning home).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अपञ्चाशदेवैतवेद्वम् (?) अग्नीन्धनादीनां यावद् ब्रह्मचर्यभावित्वप्रधानवशवर्तित्वात् गुणभावतः (?) सिद्धे सत्य् आरम्भः । तेभ्यो ऽग्नीन्धनादिभ्यो ऽन्येषाम् उपस्पर्शनादीनां तद्धर्माणाम् अनुवृत्त्यर्थः । कस्य स्नानोत्तरकालावसथास्व् (?) अपि गुरोस् तु यद् धितं समित्कुशकाष्ठोदकुम्भाहरणादि (?), तदर्थान्तदानसमावर्तनात् (?) ब्रह्मचारी कुर्याद् इत्य् अत्र तु यावज्जीवम् एवेति वक्ष्यति चैतम् अर्थम् । 
+
+> तयोर् नित्यं प्रियं कुर्याद् आचार्यस्य च सर्वदा । (म्ध् २.२२८)
+
+इति । तथा च स्मृत्यन्तरम्- "उत्तरेषां चैतद् अविरोधि" इति । ब्रह्मचार्य् अध्ययनप्रसङ्गेन चेदम् । अन्येषां तु अध्यापनं शिष्यते ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "190 ब्राह्मणस्यैव कर्मैतद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -40,4 +39,10 @@ than the one cited by Medhātithi is found in Manu 3. 234—‘*Vṛatasṭhamap
 <details><summary>Bühler</summary>
 
 190	This duty is prescribed by the wise for a Brahmana only; but no such duty is ordained for a Kshatriya and a Vaisya.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+न च सिद्धम् एवेदं पूर्वत्र "यस्यास्येन सदाश्नन्ति" (म्ध् १.९५) इत्येवमाद्यैः । तदपेक्षं हि तद् विज्ञेयं प्रतिषेधविधित्वाद् अस्य ब्राह्मणस्तुतिप्रकरणोपदेशसामर्थ्याच् च । तस्येत्य् उपसंह्र्त्य ब्रह्मचारिणो वृत्तिम् इदम् अन्यत् तत्प्रकरण एवोच्यते ऽस्य ।
 </details>

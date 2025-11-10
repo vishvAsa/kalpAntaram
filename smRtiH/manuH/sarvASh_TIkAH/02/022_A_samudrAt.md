@@ -1,6 +1,5 @@
 +++
 title = "022 आ समुद्रात्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -48,4 +47,10 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 <details><summary>Bühler</summary>
 
 022	But (the tract) between those two mountains (just mentioned), which (extends) as far as the eastern and the western oceans, the wise call Aryavarta (the country of the Aryans).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+आर्या वर्तन्ते ऽस्मिन्न् इत्य् आर्यसञ्ज्ञयैवं देशस्तुतिः ।
 </details>

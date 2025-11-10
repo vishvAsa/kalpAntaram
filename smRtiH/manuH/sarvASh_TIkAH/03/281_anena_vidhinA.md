@@ -1,6 +1,5 @@
 +++
 title = "281 अनेन विधिना"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -34,4 +33,10 @@ This verse is quoted in *Aparārka* (p. 420);—and in *Gadādharapaddhati* (Kā
 <details><summary>Bühler</summary>
 
 281	Let him offer here below a funeral sacrifice, according to the rule given above, (at least) thrice a year, in winter, in summer, and in the rainy season, but that which is included among the five great sacrifices, every day.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+निर्वचनम् इदम् अनाहिताग्नेर् इति वक्ष्यत्य् अनन्तरम् एव ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "036 यो यस्यैषाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,10 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 862);—and in
 <details><summary>Bühler</summary>
 
 036	Listen now to me, ye Brahmanas, while I fully declare what quality has been ascribed by Manu to each of these marriage-rites.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विवाहार्थवादोपन्यासार्थः श्लोकः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "173 भ्रातुर् मृतस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -57,4 +56,10 @@ husband of a woman who has had a previous husband,—the wise called
 <details><summary>Bühler</summary>
 
 173	He who lasciviously dallies with the widow of a deceased brother, though she be appointed (to bear a child by him) in accordance with the sacred law, must be known to be a Didhishupati.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+आम्नाये अपठितं केचिच् चैतं पठन्ति । **दिधिषूपतिश्** चायम् उक्तेनाग्रेदिधिषुश् चात्र स्मृत्यन्त्रसामर्थ्येन व्याख्यातः । दिधिषूपतिश् चायं यश् चाग्रेदिधिषूपतिर् इत्य् अत्र प्रतिषेधपरे वाक्ये कुण्डगोलकाव् इदानीं निर्दिशति ।
 </details>

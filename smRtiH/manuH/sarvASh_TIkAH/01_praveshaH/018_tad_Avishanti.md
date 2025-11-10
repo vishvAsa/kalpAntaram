@@ -1,6 +1,5 @@
 +++
 title = "018 तद् आविशन्ति"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -82,4 +81,10 @@ Medhātithi himself offers a second explanation.
 <details><summary>Bühler</summary>
 
 018	That the great elements enter, together with their functions and the mind, through its minute parts the framer of all beings, the imperishable one.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+भूतसूक्ष्मपरिवेष्टितं लिङ्गं तद् **आविशति भूतानि महान्ति** स्थूलानि **सह कर्मभिः** सह कर्मेन्द्रियैः स्मृतिसङ्ग्रह वक्ति (?) भु(म)हावकाशदा[ने]नैव स्वधर्मैर् **मनश् चावयवैः सूक्ष्मैर्** मनसः सङ्कल्पाभि (?) मनो ऽध्यवसायैर् अवयवाः शुभाशुभसङ्कल्पा वा अनन्ताः **सर्वभूतकृच्** च मनो येन तच् छुभाशुभसङ्कल्पप्रभवं कर्म सर्वजगद्बीजम् ।
 </details>

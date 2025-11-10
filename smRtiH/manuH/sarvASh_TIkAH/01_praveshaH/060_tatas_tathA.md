@@ -1,6 +1,5 @@
 +++
 title = "060 ततस् तथा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -36,4 +35,10 @@ With this verse ends the *Introductory Section* of the work, describing the Orig
 <details><summary>Bühler</summary>
 
 060	Then that great sage Bhrigu, being thus addressed by Manu, spoke, pleased in his heart, to all the sages, 'Listen!'
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रीतात्मत्वं च प्रवचनशक्तिसम्भावनया गुरुनियोगाद् युक्तम् अनेकशिष्यसन्निधौ भृगुनियोगार्थः श्लोकः । स्वगोत्रप्रीत्या च भृगुः कल्पितो ग्रन्थकारेण यथा । भूतानुकथां वा इदानीं स्थितिकालं मन्वन्ताख्यं जगतो वक्ष्यामीत्य् अनेनाभिप्रायेणेदम् आह ।
 </details>

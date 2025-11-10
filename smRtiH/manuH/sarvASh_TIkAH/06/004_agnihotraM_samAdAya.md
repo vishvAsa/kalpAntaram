@@ -1,6 +1,5 @@
 +++
 title = "004 अग्निहोत्रं समादाय"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ lire according to the rule of the Śramaṇaka, he shall offer the Agnihotra.’
 <details><summary>Bühler</summary>
 
 004	Taking with him the sacred fire and the implements required for domestic (sacrifices), he may go forth from the village into the forest and reside there, duly controlling his senses.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अत्र चान्यार्थो ’ग्निहोत्रशब्दस्तुत्यर्थः । तथा च गौतमः- ऽश्रामणिकेनाग्निम् आधाय’ (ग्ध् ३.२७) तत्र्यहस्मात् (?) तम् एवाग्निं नियतेन्द्रियग्रहणं च । अनुवादो विशेषणार्थः ।
 </details>

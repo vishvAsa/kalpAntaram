@@ -1,6 +1,5 @@
 +++
 title = "120 कौशेयाविकयोर् ऊषैः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -71,4 +70,10 @@ and mustard; heavy woolens by being rubbed with oil, flour, and
 <details><summary>Bühler</summary>
 
 120	Silk and woollen stuffs with alkaline earth; blankets with pounded Arishta (fruit); Amsupattas with Bel fruit; linen cloth with (a paste of) yellow mustard.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ऋज्वर्थः श्लोकः ।
 </details>

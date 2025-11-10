@@ -1,6 +1,5 @@
 +++
 title = "095 डिम्भाहव-हतानाञ् च"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -71,4 +70,12 @@ lightning, or by entering fire or water, by fall from a precipice, or in battle,
 <details><summary>Bühler</summary>
 
 095	(The same rule applies to the kinsmen) of those who have fallen in a riot or a battle, (of those who have been killed) by lightning or by the king, and (of those who perished fighting) for cows and Brahmanas, and to those whom the king wishes (to be pure).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+[एद्. व्याख्यायाम् उद्धृते चतुर्थे पादे "चेच्छति भूमिपः" इत्य् अत्र "वेच्छति पार्थिवः" इति पाठान्तरम्]
+
+**डिम्बो** महाजनो निपातसपिण्डाकुलो जनसमूहः अशस्त्रकलहो वा । **आहवस्** तु शस्त्रकलहः । **विद्युद्** अशनिः । **पार्थिवो** राजा । तेन चायुद्धे च । तथा च गौतमः- "राजक्रोधाच् युद्धे" सद्यः शौचम् आह । गवार्थे ब्राह्मणार्थे चानाहवे ऽपि सद्यःशौचम् । "**यस्य वेच्छति पार्थिवः**" अमात्यादेः स्वकार्याविघातार्थम् अन्यस्य वा यस्माद् अस्य देवतात्वात् पश्वालम्भश्रवणात् । तथा च दर्शयति "पुरुतजा यमर्क्[आ अध्वरं विदुः]" इति । यस्माच् च –
 </details>

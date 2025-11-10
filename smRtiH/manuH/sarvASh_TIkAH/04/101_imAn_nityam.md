@@ -1,6 +1,5 @@
 +++
 title = "101 इमान् नित्यम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -40,4 +39,10 @@ knowledge in the fertile soil of the true pupil, except on the days unfit for st
 <details><summary>Bühler</summary>
 
 101	Let him who studies always avoid (reading) on the following occasions when the Veda-study is forbidden, and (let) him who teaches pupils according to the prescribed rule (do it likewise).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+आदरार्थं नित्यग्रहणम् । अनध्यायाध्ययनवर्जनः प्रयत्नतो यथा स्याद् इति । अथ वा नित्यग्रहणं वारिषिकाद् अध्ययनाद् अन्यत्रापि वक्ष्यमाणः अनध्यायप्रकरणार्थं तत्रैव –
 </details>

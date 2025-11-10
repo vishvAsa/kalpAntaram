@@ -1,6 +1,5 @@
 +++
 title = "117 लौकिकं वैदिकम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -85,4 +84,10 @@ whom one acquires knowledge, either temporal or scriptural or related to Dharma.
 <details><summary>Bühler</summary>
 
 117	(A student) shall first reverentially salute that (teacher) from whom he receives (knowledge), referring to worldly affairs, to the Veda, or to the Brahman.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+लौकिकं पौरुषेयत्वाद् अन्नं विज्ञानवैदिकम् । मन्त्रब्राह्मणम् आध्यात्मिकमौनिवदन्तस् तत्त्वादरार्थं (?) पृथग्वचनम् । अथ वा वेदाव्यतिरिक्तास्वाध्यात्मविद्यासु भवम् आध्यत्मिकम् आयुर्वेदशास्त्रात्मकं वा किञ्चिद् ज्ञानं तद्धितार्थं यस् तद् आददीत तं पूर्वम् अभिवादयेत् । कुतः । स्वयोनिगुरुभ्य एवं च स्वयोनिगुरुविद्या गुरुसन्निधाव् एतच्छास्त्रम् अर्थवद् विज्ञेयम् । अन्ययोथा(?)ध्ययनप्रतिषेधद्वारेणान्यायाध्ययनं विधाय यत् स्तेनेति (??) ।
 </details>

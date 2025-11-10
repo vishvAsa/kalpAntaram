@@ -1,6 +1,5 @@
 +++
 title = "080 मन्वन्तराण्य् असङ्ख्यानि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,10 @@ It is in view of this fact that the author has added the qualifying term ‘*as 
 <details><summary>Bühler</summary>
 
 080	The Manvantaras, the creations and destructions (of the world, are) numberless; sporting, as it were, Brahman repeats this again and again.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कृतयुगादिस्वभावः इदानीं निर्दिश्यते प्रकरणप्राप्तः ।
 </details>

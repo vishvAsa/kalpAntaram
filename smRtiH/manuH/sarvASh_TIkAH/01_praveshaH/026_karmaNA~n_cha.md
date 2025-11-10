@@ -1,6 +1,5 @@
 +++
 title = "026 कर्मणाञ् च"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -80,4 +79,10 @@ The other ‘*Dvandvas*’ are *Kāma* (Desire)—*Krodha* (Anger)—*Rāga* (At
 <details><summary>Bühler</summary>
 
 026	Moreover, in order to distinguish actions, he separated merit from demerit, and he caused the creatures to be affected by the pairs (of opposites), such as pain and pleasure.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**कर्मणां** चात्मसमवायिनाम् अभ्युदयप्रत्युत्थायहेतूनां पृथक् करणाय **धर्माधर्मौ** तदर्थौ प्रयोगौ तच्चब्दे नोच्ययेते । सामर्थात् तौ **व्यवेचयत्** । कथम् । अयं प्रयोगो धर्मायायं च पुनस् तद्विपरीतो ऽधर्माय । ताभ्यां चायं **सुखदुःखादिभिः अयोजयद् इमाः प्रजाः** । महदादि तत्र प्रसङ्गेनेदं बह्वभिधाय ताम् एवोपसंहरति भूतविशेषन्ताम् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "228 तयोर् नित्यम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,10 @@ See Comparative notes for [Verse 2.225].
 <details><summary>Bühler</summary>
 
 228	Let him always do what is agreeable to those (two) and always (what may please) his teacher; when those three are pleased, he obtains all (those rewards which) austerities (yield).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यत एतद् एवं कर्तव्यं नान्यद् इत्य् अर्थवादः (?) । किं च तेषां प्रियं शुश्रूषा । यद् अयम् आह
 </details>

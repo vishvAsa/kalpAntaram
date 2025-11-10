@@ -1,6 +1,5 @@
 +++
 title = "282 न पैतृयज्ञियो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -111,4 +110,10 @@ Do. (1(?).236).—‘When going to pour the oblation into the fire, he shall tak
 <details><summary>Bühler</summary>
 
 282	The burnt-oblation, offered at a sacrifice to the manes, must not be made in a common fire; a Brahmana who keeps a sacred fire (shall) not (perform) a funeral sacrifice except on the new-moon day.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**न पैतृयज्ञिको होमो** (?) **लौकिके ऽग्नौ** यस्माद् **विधीयते,** तस्माद् अनाहिताग्नेर् मासानुमासिकं नियमतो न भवति । श्राद्धं **न** च **दर्शेन विना श्राद्धम्** अनाहिताग्नेर् यस्माद् **विधीयते** । तस्माद् **आहिताग्नेर्** अपि त्रिः संवत्सरविधिः सम्भवति । किं तर्हि । नियमतो मासानुमासिकं तदङ्गत्वाद् भवति ।
 </details>

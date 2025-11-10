@@ -1,6 +1,5 @@
 +++
 title = "194 यथा प्लवेन+उपलेन"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -29,4 +28,10 @@ The term, ‘*pratīcchaka*’ is to be explained as ‘*pratīcchām karoti*’
 <details><summary>Bühler</summary>
 
 194	As he who (attempts to) cross water in a boat of stone sinks (to the bottom), even so an ignorant donor and an ignorant donee sink low.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कः अत्र (?) उपमानार्थः । यथा प्लव आत्मना निमज्जति तदारूढं धारयितुम् अशक्तः न्यायागतम् एभ्या (?) दीयमानं स नमन्नधो (?) गच्छति दातारं धारयितुम् असमर्थम् इत्य् अधुना प्रच्छन्नभावदोषतयैषा दुर्विज्ञानत्वात् तद्विभावम् इदं लक्षणम् आरभ्यते परिहारार्थम् ।
 </details>

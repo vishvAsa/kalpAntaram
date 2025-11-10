@@ -1,6 +1,5 @@
 +++
 title = "084 वैश्वदेवस्य सिद्धस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -94,4 +93,10 @@ outcasts, as also for birds, one shall offer food outside, on the ground.’
 <details><summary>Bühler</summary>
 
 084	A Brahmana shall offer according to the rule (of his Grihya-sutra a portion) of the cooked food destined for the Vaisvadeva in the sacred domestic fire to the following deities:
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**वैश्वदेव**शब्देनात्र पाक उपदिश्यते । **सिद्धस्येति** वचनात् विश्वेदेवा देवता यस्य सो ऽयं वैश्वदेवः सर्वदेवार्थात् पाक उच्यते ।
 </details>

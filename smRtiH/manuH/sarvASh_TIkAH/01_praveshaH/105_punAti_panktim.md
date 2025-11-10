@@ -1,6 +1,5 @@
 +++
 title = "105 पुनाति पङ्क्तिम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -25,4 +24,10 @@ He alone is entitled to receive the gift of this earth extending to the oceans; 
 <details><summary>Bühler</summary>
 
 105	He sanctifies any company (which he may enter), seven ancestors and seven descendants, and he alone deserves (to possess) this whole earth.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रतिगृहीतुर् अलिप्यमानः प्रतिग्रहदोषेण । प्रकृतार्थस्तुतिपरम् एतत् किञ्चान्यत् ।
 </details>

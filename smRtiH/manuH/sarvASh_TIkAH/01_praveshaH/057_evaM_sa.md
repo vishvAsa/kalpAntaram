@@ -1,6 +1,5 @@
 +++
 title = "057 एवं स"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -23,4 +22,10 @@ By means of his own ‘*waking and sleeping*,’ he produces and destroys the wo
 <details><summary>Bühler</summary>
 
 057	Thus he, the imperishable one, by (alternately) waking and slumbering, incessantly revivifies and destroys this whole movable and immovable (creation).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रकृतार्थोपसंहारार्थः श्लोकः उत्पत्तिप्रलयाव् अस्य जगतो ऽभिधायेदानीं स्थितिकालप्रदर्शनप्रकरणार्थोपन्यासार्थम् इदं प्रस्तौति ।
 </details>

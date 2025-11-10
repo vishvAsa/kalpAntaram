@@ -1,6 +1,5 @@
 +++
 title = "095 यस्यास्येन सदाश्नन्ति"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -32,4 +31,10 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 <details><summary>Bühler</summary>
 
 095	What created being can surpass him, through whose mouth the gods continually consume the sacrificial viands and the manes the offerings to the dead?
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अन्यप्राप्त्युपायासम्भवाद् धव्यकव्यानां देवपितृभिर् युक्तम् इदं विस्मयात् तत्स्तुतिवचनं "**किं भूतम् अधिकं ततः**" इति तज्जग्धान्नाशनेन वा देवपितॄणां प्रकल्प्य, पादेनेयं स्तुतिः । अस्मिन् पक्षे स्तुत्यब्राह्मणविशेषनार्थम् इदम् अधुना स्लोकद्वयम् आरभ्यते । एवं च न जातिमात्रापेक्षेयम् अस्मिन् प्रकरणे ब्राह्मणस्तुतिः, किं तर्हि । यादृग्गुनं ब्राह्मणं वक्ष्यामस् तदपेक्षेयं ब्राह्मणप्रशंसा ।
 </details>

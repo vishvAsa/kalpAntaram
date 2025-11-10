@@ -1,6 +1,5 @@
 +++
 title = "115 अदत्त्वा तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ been fed, he eats sin, and after death, he goes to hell and is born as a feeder 
 <details><summary>Bühler</summary>
 
 115	But the foolish man who eats first without having given food to these (persons) does, while he crams, not know that (after death) he himself will be devoured by dogs and vultures.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यथा कथञ्चित् प्रतिषिद्धार्थं निन्देयम्, न निवृत्त्यर्था । स च पुरुषार्थ इत्य् अतो युक्तो ऽयम् उपदेशस् तत्सिद्धये ।
 </details>

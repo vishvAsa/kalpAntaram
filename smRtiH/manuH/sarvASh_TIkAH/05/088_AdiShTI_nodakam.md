@@ -1,6 +1,5 @@
 +++
 title = "088 आदिष्टी नोदकम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,10 @@ water-offerings.’
 <details><summary>Bühler</summary>
 
 088	He who has undertaken the performance of a vow shall not pour out libations (to the dead) until the vow has been completed; but when he has offered water after its completion, he becomes pure in three days only.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+व्रतिनः सतो यो बन्धुः प्रैति न तस्मै दद्याद् उदकम् आ व्रतसमाप्तेः । पूर्वेषां च प्रतिषेधः । येनोक्तं "नित्यं स्नात्वा शुचिः कुर्याद् देवर्षिपितृतर्पणम्" (म्ध् ८.१७६) इति । **समाप्तेर् उदकं** कृत्वा सर्वप्रेतेभ्यस् **त्रिरात्रेणैव शुध्यति** । तत्र वृत्या ।
 </details>

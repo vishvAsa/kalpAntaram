@@ -1,6 +1,5 @@
 +++
 title = "080 एतयार्चा विसंयुक्तः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -65,4 +64,10 @@ Morning-prayer before the advent of Dawn, nor the Evening-prayer before the laps
 <details><summary>Bühler</summary>
 
 080	The Brahmana, the Kshatriya, and the Vaisya who neglect (the recitation of) that Rik-verse and the timely (performance of the) rites (prescribed for) them, will be blamed among virtuous men.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सावित्र्या **विसंयुक्तः** यो ऽनुपनीतः व्रतादेशन**क्रियया** च **स्वकाले** ऽविहितया द्विजातिः सन् **गर्हणां याति साधुषु** । अथ वाध्ययनाङ्गत्वात् सावित्र्याः सपरिष्कारो ऽयम् (?) तद्विहीनो ऽध्ययनहीन उच्यते, प्रकरणात् । अन्यत् समानम् । सैषा त्रिकस्तुतिर् अपरेण प्रकारेणेति । इयं च पूर्ववत् । अन्या —
 </details>

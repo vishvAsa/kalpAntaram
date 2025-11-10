@@ -1,6 +1,5 @@
 +++
 title = "160 सर्वम् परवशम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -36,4 +35,10 @@ This verse is quoted in *Madanapārijāta* (p. 14);—and in *Aparārka* (p. 224
 <details><summary>Bühler</summary>
 
 160	Everything that depends on others (gives) pain, everything that depends on oneself (gives) pleasure; know that this is the short definition of pleasure and pain.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उपर्य् एव स्वविषयोपभोगार्थं द्रव्यादानं प्रतिग्रहादिभिर् आत्मवशम् इन्द्रियसंयमः (?) सन्तोषपरतया सो ऽयम् अपरेण प्रकारेणेन्द्रियसंयम उक्तो ऽपि पुनः श्लोकद्वयेनानूद्यते । अधिकृताचारानुष्ठानसुतिसम्बन्धेनाचारबहुत्वे ऽपि सति –
 </details>

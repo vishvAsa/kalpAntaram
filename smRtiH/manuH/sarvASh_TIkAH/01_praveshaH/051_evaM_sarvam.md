@@ -1,6 +1,5 @@
 +++
 title = "051 एवं सर्वम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -27,4 +26,10 @@ Thus repeatedly suppressing time (of dissolution) by time (of creation and maint
 <details><summary>Bühler</summary>
 
 051	When he whose power is incomprehensible, had thus produced the universe and men, he disappeared in himself, repeatedly suppressing one period by means of the other.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+भोगस्थितिकालम् उपसंहारकालेन तिरस्कुर्वन् यथेह पुरुषो जाग्रद्वृत्त्या तिरस्करोति एवम् इहाधिकस्य पुनर् हेतोर् येन इति । येन,
 </details>

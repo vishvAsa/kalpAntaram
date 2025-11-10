@@ -1,6 +1,5 @@
 +++
 title = "087 सर्वस्याऽस्य तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -25,4 +24,10 @@ The divisions of time have been described. The qualifications of the Brāhmaṇa
 <details><summary>Bühler</summary>
 
 087	But in order to protect this universe He, the most resplendent one, assigned separate (duties and) occupations to those who sprang from his mouth, arms, thighs, and feet.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सर्गसृष्टिः सहचरितं जगत्साहचर्यवद् उच्यते । गुप्तिर् अनुच्छितिः । स्थितिश् च तदर्थं ब्राह्मणादीनां वक्ष्यमाणानि पृथक् कर्माण्य् अकल्पयत् धर्मवृत्त्यर्थानि । तानि च,
 </details>

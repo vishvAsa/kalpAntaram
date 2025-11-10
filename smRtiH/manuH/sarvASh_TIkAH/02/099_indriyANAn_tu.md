@@ -1,6 +1,5 @@
 +++
 title = "099 इन्द्रियाणान् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,10 @@ roaming senses, it deprives him of his wisdom, and it is lost like the boat at s
 <details><summary>Bühler</summary>
 
 099	But when one among all the organs slips away (from control), thereby (man's) wisdom slips away from him, even as the water (flows) through the one (open) foot of a (water-carrier's) skin.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सर्वेन्द्रियसंयमस्तुत्यर्थो ऽयम् अर्थवादः प्रकरणसामर्थाद् विज्ञेयः । तत्संयमश् चोक्तप्रयोजन उपसंह्रियते । एवम् इन्द्रियसंयमात् प्रतिलब्धसमाधिर् ब्रह्मचारी ।
 </details>

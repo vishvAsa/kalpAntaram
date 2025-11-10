@@ -1,6 +1,5 @@
 +++
 title = "033 तपस् तप्त्वासृजद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -31,4 +30,13 @@ Poets are not ashamed of describing the nobility of their own birth, even though
 <details><summary>Bühler</summary>
 
 033	But know me, O most holy among the twice-born, to be the creator of this whole (world), whom that male, Virag, himself produced, having performed austerities.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तेषां महर्षीणां **मनुर्** भगवान् सर्वस्य जगतः सम्भवन्त्य् आख्याय भूयः सुखप्रतिपत्तये दृष्टान्तत्वेन तं **ऽमा(ं) वित्त**" इत्यात्मानम् एव प्रदर्शयति । तथा च पौराणिकाः ।
+
+> विराजम् असृजत् ब्रह्मा सो ऽसृजत् पुरुषं विराट् ।  
+> पुरुषं तं मनुं विद्धि मानव्या यस्य ताः प्रजाः ॥
 </details>

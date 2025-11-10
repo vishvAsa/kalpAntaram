@@ -1,6 +1,5 @@
 +++
 title = "016 पाठीन-रोहिताव् आद्यौ"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -55,4 +54,10 @@ See Comparative notes for [Verse 5.15].
 <details><summary>Bühler</summary>
 
 016	(But the fish called) Pathina and (that called) Rohita may be eaten, if used for offerings to the gods or to the manes; (one may eat) likewise Ragivas, Simhatundas, and Sasalkas on all (occasions).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**पाठीनरोहितौ हव्यकव्ययोर्** अनेनानुज्ञातौ । **राजीवाः सिंहतुणाश् च** । **च**कारकरणेन समुच्च्ययार्थेन नियोगत एवेति विज्ञायते । **सशल्कास्** तु **सर्वश एवेति** (?) वचनाद् अनियोगेत् ऽपि च **रोहित**ग्रहणेन च **सशल्कानां** विकल्पेन भक्षणम् अनुमीयते ।
 </details>

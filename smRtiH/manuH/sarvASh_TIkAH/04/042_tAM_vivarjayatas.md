@@ -1,6 +1,5 @@
 +++
 title = "042 तां विवर्जयतस्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -34,4 +33,10 @@ See Comparative notes for [Verse 4.40].
 <details><summary>Bühler</summary>
 
 042	If he avoids her, while she is in that condition, his wisdom, energy, strength, sight, and vitality will increase.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उभयथा वाक्यस्वाभाव्याद् वर्जनस्तुतिः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "283 यद् एव"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -40,4 +39,10 @@ the offering to gods, the offering to Pitṛs and also Vedic Study.’
 <details><summary>Bühler</summary>
 
 283	Even when a Brahmana, after bathing, satisfies the manes with water, he obtains thereby the whole reward for the performance of the (daily) Sraddha.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अनेन चैवोदकतर्पणेन नित्यम् अहरहः क्रियमाणेन श्राद्धम् अनुष्ठितं भवति । किं पुनस् त्रिसंवत्सरस्येति । अथ वा विशेषश्राद्धस्तुतिपरम् एतद् विज्ञेयम् ।
 </details>

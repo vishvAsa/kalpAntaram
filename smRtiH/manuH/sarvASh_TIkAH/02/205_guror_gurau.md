@@ -1,6 +1,5 @@
 +++
 title = "205 गुरोर् गुरौ"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -59,4 +58,10 @@ behaviour towards him is prescribed to be like that towards the Teacher.’
 <details><summary>Bühler</summary>
 
 205	If his teacher's teacher is near, let him behave (towards him) as towards his own teacher; but let him, unless he has received permission from his teacher, not salute venerable persons of his own (family).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विद्यागुरुमातृपितृसन्निधाने विकल्प उक्तस् तेन **स्वान् गुरून्** इत्य् एतद् अन्यत्र माता पितृभ्याम् इति गम्यते । पितृव्यादौ गुराव् इति ।
 </details>

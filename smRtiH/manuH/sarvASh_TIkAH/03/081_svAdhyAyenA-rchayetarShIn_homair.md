@@ -1,6 +1,5 @@
 +++
 title = "081 स्वाध्यायेनाऽर्चयेतर्षीन् होमैर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -81,4 +80,10 @@ the gods, one should make offerings to the Elementals, and also offer food on th
 <details><summary>Bühler</summary>
 
 081	Let him worship, according to the rule, the sages by the private recitation of the Veda, the gods by burnt oblations, the manes by funeral offerings (Sraddha), men by (gifts of) food, and the Bhutas by the Bali offering.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अयम् इज्याङ्गप्रदर्शनार्थः श्लोकः । विहितकर्मानुष्ठानसाधनापेक्षं तु (?) । किं च, इदम् अपि तावत्,
 </details>

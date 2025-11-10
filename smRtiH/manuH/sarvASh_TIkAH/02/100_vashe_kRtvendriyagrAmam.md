@@ -1,6 +1,5 @@
 +++
 title = "100 वशे कृत्वेन्द्रियग्रामम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -81,4 +80,10 @@ Buddhi under control, having his heart fixed upon Liberation, with all his desir
 <details><summary>Bühler</summary>
 
 100	If he keeps all the (ten) organs as well as the mind in subjection, he may gain all his aims, without reducing his body by (the practice) of Yoga.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इन्द्रियसंयमप्रयोजनोपसंहारः ब्रह्मचारिधर्मप्रकरणे चायम् अन्यस् तद्धर्मः ।
 </details>

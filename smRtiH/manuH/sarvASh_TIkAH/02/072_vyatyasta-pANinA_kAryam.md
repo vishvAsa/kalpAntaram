@@ -1,6 +1,5 @@
 +++
 title = "072 व्यत्यस्त-पाणिना कार्यम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -74,4 +73,19 @@ right band; hands should be joined in saluting a Vedic scholar; in the case of t
 <details><summary>Bühler</summary>
 
 072	With crossed hands he must clasp (the feet) of the teacher, and touch the left (foot) with his left (hand), the right (foot) with his right (hand).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अत्र सदाग्रहणं वर्णधर्मार्थम् अध्ययनाभिमुखीभूतस्य च गुरुसन्निधौ नियमपरं गुरुत्वाभ्यन्ज्ञा स्वाध्यायाङ्गतयोच्यते ।
+
+**अध्येषमाणं तु गुरुं नित्यकालम् अतन्द्रितः ।  
+अधीष्व भो इति ब्रूयात्**
+
+यदा तदनुज्ञातो ऽधीयीहीति ।
+
+> **विरामो ऽस्त्व् इति चारमेत् ॥ २.७३ ॥**
+
+यदा (?) ब्रूयात् तदा विरमेद् अध्ययनात् । एवं च त्वद्धावतापि (?) वेदाध्ययनात् स गुर्वनुयोगो न कर्तव्यः (?) । अध्यापयेति विरादो ऽस्त्व् इति च स्वयं कृतोपसदनाभिवादनश् चायम् अनुज्ञातो गुरुणाविष्ट ओङ्कारकरणाय ।
 </details>

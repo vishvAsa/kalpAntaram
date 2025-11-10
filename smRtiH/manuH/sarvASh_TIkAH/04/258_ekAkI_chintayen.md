@@ -1,6 +1,5 @@
 +++
 title = "258 एकाकी चिन्तयेन्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -27,4 +26,10 @@ By means of this practice and meditation, he obtains the highest good—called �
 <details><summary>Bühler</summary>
 
 258	Alone let him constantly meditate in solitude on that which is salutary for his soul; for he who meditates in solitude attains supreme bliss.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तर्ह्य् अस्य ब्राह्मणोपदिष्टविध्यनुष्ठानं श्रेयः प्राप्त्युपायभूतम् इदम् आह –
 </details>

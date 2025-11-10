@@ -1,6 +1,5 @@
 +++
 title = "184 अग्र्याः सर्वेषु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -90,4 +89,10 @@ the *Jyeṣṭhasāman*, one who is free from avarice, one who is devoted to the
 <details><summary>Bühler</summary>
 
 184	Those men must be considered as the sanctifiers of a company who are most learned in all the Vedas and in all the Angas, and who are the descendants of Srotriyas.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पूर्वोक्ता यथामी ब्राह्मणा अभिजातादिगुणसम्पदा प्रथमकल्पानुकल्पजा पङ्क्तिपावना भवन्ति, एवम् अमी वक्ष्यमाणास् त्रिणाचिकेतादयो ऽपि । कस्मात् पुनर् अयं श्लोकः दृष्टान्तार्थ एवम् उच्यते । परार्थं न स्वार्थम् उक्तत्वात् । एतेषां पुनर्वचनम् इहानर्थकं स्याद् दृष्टान्तत्वे त्रिणाचिकेतादयस् (?) त्व् अनुक्ता अयथोक्तगुणत्वाद् अतस् तेषां स्तुत्यर्थपूर्वोक्तानाम् अयम् उपदेशो ऽनेन श्लोके (१ अक्ष् लचुन) न द्रव्यनानार्थो वर्ण्यते ।
 </details>

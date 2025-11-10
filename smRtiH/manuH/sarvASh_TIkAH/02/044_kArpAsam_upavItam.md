@@ -1,6 +1,5 @@
 +++
 title = "044 कार्पासम् उपवीतम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -134,4 +133,10 @@ men, *Prachīnāvīta* for Pitṛs and *Upavīta* for Gods.’
 <details><summary>Bühler</summary>
 
 044	The sacrificial string of a Brahmana shall be made of cotton, (shall be) twisted to the right, (and consist) of three threads, that of a Kshatriya of hempen threads, (and) that of a Vaisya of woollen threads.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उपनी(वी?)तवद् उपन्(वि?)ईतम् । तथा च वक्ष्यति- "उद्धृते दक्षिणे पाणौ" (म्ध् २.६३) इति । **ऊर्ध्ववृतं त्रिवृद्** दक्षिणावृतां(?) त्रिवृद्ध्यास्यूतम् (??) एवं ब्राह्मणोपवीतविशेषणम् इतरवर्णोपवीतयोर् अप्य् अविरोधाद् द्रष्टव्यम् ।
 </details>

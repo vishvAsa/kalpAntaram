@@ -1,6 +1,5 @@
 +++
 title = "067 वैवाहिके ऽग्नौ"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -128,4 +127,10 @@ Agnihotra, to live by the prescribed professions and to avoid sexual intercourse
 <details><summary>Bühler</summary>
 
 067	With the sacred fire, kindled at the wedding, a householder shall perform according to the law the domestic ceremonies and the five (great) sacrifices, and (with that) he shall daily cook his food.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विवाहः प्रयोजनम् अस्य सो ऽयं **वैवाहिकः** । केषाञ्चित् गृह्यकाराणाम् आहितः, केषाञ्चिद् अनाहितः । उभयेषाम् अपीदं **विधानं** तस्मिन् **कुर्वीत** **गृह्यकर्मा**ष्टकपार्वणादि **पञ्चयज्ञविधानं** वक्ष्यमाणं यत् किं च वैश्वदेवार्थं वाष्टकं प्रत्य्ग्रहम् अहः प्रभृति च । तत्र स्मार्तकर्मारम्भः । किं कारणम् । एतव् एवं प्रत्यहं कर्मानुष्ठीयते । तस्मात् –
 </details>

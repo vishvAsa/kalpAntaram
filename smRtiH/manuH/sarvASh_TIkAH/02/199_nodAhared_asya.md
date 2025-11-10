@@ -1,6 +1,5 @@
 +++
 title = "199 नोदाहरेद् अस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -56,4 +55,10 @@ learned man, father-in-law, husband, and the mother’s sister.’
 <details><summary>Bühler</summary>
 
 199	Let him not pronounce the mere name of his teacher (without adding an honorific title) behind his back even, and let him not mimic his gait, speech, and deportment.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ब्रह्मचारिप्रकरणोपदिष्टा अपि सन्त एते यावज्जीवं प्रत्येतव्याः ।
 </details>

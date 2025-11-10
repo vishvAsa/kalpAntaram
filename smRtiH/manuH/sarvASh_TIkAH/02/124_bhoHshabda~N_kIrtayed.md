@@ -1,6 +1,5 @@
 +++
 title = "124 भोःशब्दङ् कीर्तयेद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -52,4 +51,12 @@ and at the end the word *bhoḥ*.’
 <details><summary>Bühler</summary>
 
 124	In saluting he should pronounce after his name the word bhoh; for the sages have declared that the nature of bhoh is the same as that of (all proper) names.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अभिवाद्यानां तन्नामग्रहणम् अयुक्तं शास्त्रतः । न चागृहीतनाम्नो ऽभिवाद्यस्याभिवादं प्रतिसम्बोधनाभिमुख्यम् अस्ति । न च तदनन्तरेण प्रत्यभिवादप्रयोगो ऽस्य विद्यते । यत इदम् उच्यते । **भोःशब्दं कीर्तयेद्** इत्य् अनेनाप्य् अभिवाद्यस्य नामग्रहणदोषश् च परिहृतो भविष्यति । सम्बोधनाभिमुख्यं च सेत्स्यतीत्य् उत्तरस् तु श्लोकार्थः पूर्वविधिस्तुत्यर्थो व्याकरणीयः । 
+
+समाप्तो ऽभिवादनविधिः । प्रत्यभिवादनविध्यर्थस् त्व् अधुनोच्यते ।
 </details>

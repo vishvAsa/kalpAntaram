@@ -1,6 +1,5 @@
 +++
 title = "249 एवञ् चरति"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,13 @@ the Brahmic Region.’
 <details><summary>Bühler</summary>
 
 249	A Brahmana who thus passes his life as a student without breaking his vow, reaches (after death) the highest abode and will not be born again in this world.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अधिकृतब्रह्मचरस्तुतिर् इयं फलविधिनेति ॥
+
+**श्री श्री श्रिः ।  
+इति मनुशास्त्रे भृगुप्रोक्तसंहिताविवरणे भारुचिकृते द्वितीयो ऽध्यायः ॥**
 </details>

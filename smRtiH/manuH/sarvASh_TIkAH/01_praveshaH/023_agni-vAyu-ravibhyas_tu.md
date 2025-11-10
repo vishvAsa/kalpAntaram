@@ -1,6 +1,5 @@
 +++
 title = "023 अग्नि-वायु-रविभ्यस् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -91,4 +90,10 @@ Do. (p. 19, l. 11) ‘*Dohanañchādhyāpanam*’—In this case *ravibhyaḥ* w
 <details><summary>Bühler</summary>
 
 023	But from fire, wind, and the sun he drew forth the threefold eternal Veda, called Rik, Yagus, and Saman, for the due performance of the sacrifice.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ब्राह्मवादे आग्नेयः ऋग्वेदो, वायव्ये यजुर्वेदः, सौरः सामवेदः इति । केनचिद् वृत्तिसामान्येन एष्व् अवस्थितानां वेदानां तेभ्यो दोहनम् इत्य् उच्यते ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "160 धनुः-शराणाङ् कर्ता"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -94,4 +93,10 @@ See Comparative notes for [Verse 3.150].
 <details><summary>Bühler</summary>
 
 160	A maker of bows and of arrows, he who lasciviously dallies with a brother's widow, the betrayer of a friend, one who subsists by gambling, he who learns (the Veda) from his son,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**अग्रेदिधिषूपतिर्** इत्य् अत्र द्वयं वार्यते । अग्रेदिधिषूर् दिधिषूपतिश् च । तत्राग्रेदिधिषुर् नामानूढः कन्यागामी दिधिषूपतिस् तदुद्वोढः । तथा च गौतमः द्वयम् इदं पठत्य् अग्रे "दिधिषुर् दिधिषूपतिः" (ग्ध् १५.१६) इति । उत्तरतस् (?) तु कन्यादूषकं वा विद्यात् त्रेणेत्य् अन्यस्यापि मदोहः (?) प्रत्यवायायायं त्व् इति शयार्थो मित्रदुहः **द्यूतवृत्तिः** करयिता एतस्माद् एव च तदकार्यम् इत्य् अनुमीयते । एतेन द्यूतस्य कर्ता व्याख्यातः । पुत्राचार्यो येन पुत्राद् अधीतम् ।
 </details>

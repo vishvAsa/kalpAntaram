@@ -1,6 +1,5 @@
 +++
 title = "147 वेदम् एवाऽभ्यसेन्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -52,4 +51,10 @@ elder superior to the mother; there is no friend superior to charity,—either h
 <details><summary>Bühler</summary>
 
 147	Let him, without tiring, daily mutter the Veda at the proper time; for they declare that to be one's highest duty; (all) other (observances) are called secondary duties.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अन्याचारनिन्दा वेदाध्ययनस्तुत्यर्था ।
 </details>

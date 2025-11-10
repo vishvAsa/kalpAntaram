@@ -1,6 +1,5 @@
 +++
 title = "021 हिमवद्-विन्ध्ययोर् मध्यम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -55,4 +54,10 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 <details><summary>Bühler</summary>
 
 021	That (country) which (lies) between the Himavat and the Vindhya (mountains) to the east of Prayaga and to the west of Vinasana (the place where the river Sarasvati disappears) is called Madhyadesa (the central region).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अत्र देशस्तुत्यर्थवादेनोक्तः प्रकरणात् तु द्रष्टव्यः । एवम् उत्तरेष्व् अपि श्लोकेष्व् एतद् बोद्धव्यम् उत्कृष्टदेशोपवर्णनप्रकरणमध्याभिधानाच् चास्य मध्यदेशं द्रष्टव्यम् अन्वर्थम् ।
 </details>

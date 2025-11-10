@@ -1,6 +1,5 @@
 +++
 title = "229 तेषान् त्रयाणाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,10 @@ nothing until permitted by them.’
 <details><summary>Bühler</summary>
 
 229	Obedience towards those three is declared to be the best (form of) austerity; let him not perform other meritorious acts without their permission.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+स्मृतिमात्रम् एतन् न त्व् अन्यधर्माचारप्रतिषेधः, तदुपदेशसामर्थ्यात् । यतश् चैतति –
 </details>

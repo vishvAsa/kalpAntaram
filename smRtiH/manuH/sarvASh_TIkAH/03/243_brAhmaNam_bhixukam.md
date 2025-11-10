@@ -1,6 +1,5 @@
 +++
 title = "243 ब्राह्मणम् भिक्षुकम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,10 @@ one shall welcome the Ascetic and the Religious Student.’
 <details><summary>Bühler</summary>
 
 243	To a Brahmana (householder), or to an ascetic who comes for food, he may, with the permission of (his) Brahmana (guests), show honour according to his ability.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अन्यम् आमन्त्रितेभ्यस् तत्काल आगतम् अतिथिं **भिक्षुकं** वा तैर् **अभ्यनुज्ञात** इति युक्तम् इदं तदर्थत्वात् प्रोक्तस्य ।
 </details>

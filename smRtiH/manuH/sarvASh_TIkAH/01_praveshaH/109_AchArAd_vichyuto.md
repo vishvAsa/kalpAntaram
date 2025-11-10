@@ -1,6 +1,5 @@
 +++
 title = "109 आचाराद् विच्युतो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,10 @@ See Comparative notes for [Verse 1.108 (On morality \[right behaviour\])].
 <details><summary>Bühler</summary>
 
 109	A Brahmana who departs from the rule of conduct, does not reap the fruit of the Veda, but he who duly follows it, will obtain the full reward.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इत्य् अनेन पुनर् जायते विगुणाद् अपि कर्मणो ऽनित्याद् अस्ति फलम् इति । यद् अत्रार्थत्वं तद्विद्वांसो ज्ञातुम् अर्हत्य् उभयत्र दृष्टान्तोपपतेः ।
 </details>

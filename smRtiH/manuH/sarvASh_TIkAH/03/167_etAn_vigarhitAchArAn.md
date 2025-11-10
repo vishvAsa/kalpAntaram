@@ -1,6 +1,5 @@
 +++
 title = "167 एतान् विगर्हिताचारान्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -41,4 +40,10 @@ of the line; the wise man should avoid them with great care at the performance o
 <details><summary>Bühler</summary>
 
 167	A Brahmana who knows (the sacred law) should shun at (sacrifices) both (to the gods and to the manes) these lowest of twice-born men, whose conduct is reprehensible, and who are unworthy (to sit) in the company (at a repast).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**गर्हिताचार**वचनाद् (?) ये तु काणश्लिपद्यादयः अगर्हिताचाराः स्युस् तेषां युक्तो हव्यावकाशो ऽनेन शास्त्रेण । अथ त्व् अगर्हिताचाराणाम् अपि तेषां तत्रानवकाशः । एवं तर्हि **गर्हिताचार**वचनम् अनर्थकं भवति । अश्रोत्रियास् ते स्युर् अतो वा तेषां तत्रानवकाशो युक्तः स्यात् तत् कारणम् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "177 न पाणि-पाद-चपलो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -42,4 +41,10 @@ with his eyes, nor with his limbs; such should be the conduct of the cultured.�
 <details><summary>Bühler</summary>
 
 177	Let him not be uselessly active with his hands and feet, or with his eyes, nor crooked (in his ways), nor talk idly, nor injure others by deeds or even think of it.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+निगदव्याख्यातः श्लोकः । इदम् अन्यत् सद्धर्मप्रतिपत्तये कारणम् अन्धुनोच्यते ।
 </details>

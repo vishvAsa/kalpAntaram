@@ -1,6 +1,5 @@
 +++
 title = "047 अपुष्पाः फलवन्तो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -36,4 +35,10 @@ Though what is stated in the present verse is a well known fact (and as such did
 <details><summary>Bühler</summary>
 
 047	(Those trees) which bear fruit without flowers are called vanaspati (lords of the forest); but those which bear both flowers and fruit are called vriksha.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**वृक्षा वनस्पतय** इति नेदं व्यवस्थार्थम् उच्यते । किं तर्हि । उभयम् उभयत्र । वृक्षा वनस्पतयो वनस्पतयो वृक्षाः । एवं च सति वृक्षग्रहणेन वनस्पतिग्रहणं सर्ववनस्पतीनाम् इष्टो (?) यथार्थ इति वृक्षे वनस्पतिशब्दो दृष्टः । अयं च वक्ष्यति । "वनस्पतीनां सर्वेषाम् उपभोगो यथा यथा" (८.२८५) इति । न च तत्राम्रादिवृक्षपर्युदासः शक्यो विज्ञातुं शास्त्रान्तराभावात् समानकार्यत्वाच् च ।
 </details>

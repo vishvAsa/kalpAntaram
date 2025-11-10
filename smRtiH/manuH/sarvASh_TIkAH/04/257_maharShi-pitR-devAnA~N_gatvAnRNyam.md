@@ -1,6 +1,5 @@
 +++
 title = "257 महर्षि-पितृ-देवानाङ् गत्वानृण्यम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -35,4 +34,10 @@ What is meant is the^(‘)renunciation’ of only ordinary voluntary acts done f
 <details><summary>Bühler</summary>
 
 257	When he has paid, according to the law, his debts to the great sages, to the manes, and to the gods, let him make over everything to his son and dwell (in his house), not caring for any worldly concerns.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ऋष्यादीनाम् अध्ययनात् प्रेत्य पितृकर्मज्योतिष्टोमदियज्ञानुष्ठानेन्**आनृण्य**ं **गत्वा** कृतकरणीयः स द्वितीयम् आयुर्भागं परिपक्वविज्ञानतया पुत्रासक्तव्यापारो गृहस्थः कश्चित् कालं **माध्यस्थ्यम् आश्रित्य** ग्रामे एव **वसेत्** । आश्रयम् असमुच्चयपक्ष्ये चैतद् एवं विज्ञेयम् । न त्व् अन्ययोः पक्षयोर् इति । एवं च परमविभागापन्नः सन् ।
 </details>

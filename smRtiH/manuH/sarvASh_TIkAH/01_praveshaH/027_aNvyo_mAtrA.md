@@ -1,6 +1,5 @@
 +++
 title = "027 अण्व्यो मात्रा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -30,4 +29,10 @@ The commentators are at some pains to explain the incongruity of the inter-posit
 <details><summary>Bühler</summary>
 
 027	But with the minute perishable particles of the five (elements) which have been mentioned, this whole (world) is framed in due order.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इदानीं कर्मत्वे निमित्तत्वे सत्य् एवं संसारस्यानादित्वाद् यत्र कुत्रचिद् उत्पन्नस्यात्मनः सर्वप्राणभृज् जातिधर्मं (मः) पूर्वाभ्यासात् प्रातः स प्रतिषिध्यते ।
 </details>

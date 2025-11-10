@@ -1,6 +1,5 @@
 +++
 title = "166 औरभ्रिकोपूर्वा-पतिस् तथा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ See Comparative notes for [Verse 3.150].
 <details><summary>Bühler</summary>
 
 166	A shepherd, a keeper of buffaloes, the husband of a remarried woman, and a carrier of dead bodies, (all these) must be carefully avoided.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**औरभ्रमाहिषकौ** व्याख्यातौ ॥ **प्रेतनिर्याससकः** शापस्य कर्मणः कर्तेति <u>केचित्</u> । तद् अयुक्तं शिष्यज्ञात्यादीनाम् अन्त्यकर्मप्रतिषेधात् । अज्ञातिं तर्हि पदकारुण्येन (?) धर्मार्थम् । एवं च श्रुतिः "एतद् वै परमं तपः यत् प्रेतम् अरण्यं नयन्ति" ।
 </details>

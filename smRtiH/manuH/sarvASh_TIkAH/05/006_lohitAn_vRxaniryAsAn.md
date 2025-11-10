@@ -1,6 +1,5 @@
 +++
 title = "006 लोहितान् वृक्षनिर्यासान्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -73,4 +72,10 @@ which solidifies at the slightest contact with fire;—in *Hemādri* (Śrāddha,
 <details><summary>Bühler</summary>
 
 006	One should carefully avoid red exudations from trees and (juices) flowing from incisions, the Selu (fruit), and the thickened milk of a cow (which she gives after calving).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**लोहितान् वृक्षनिर्यासान्** सल्लकीप्रभृतीनां (?) **वृश्चनप्रभवांश्** चालोहितानाम् अपि कपित्थादीनां **सेलुः** श्रीत(शृत)क्षीरस्य सानानिकाद् **पीयूष**साहचर्याद् विज्ञायते । **गव्यं** च **पीयूषम्** अनिर्दशायाः गोः क्षीरम् इति वक्ष्यति । निर्गतदशाहाया अपि पीयूषप्रतिषेधार्थो ऽयम् आरम्भः । यदि कदाचित् सम्भवत्य् असौ कस्यचिद् अपि पीयूषम् अस्य वा निर्गतदशाहस्य तत्र प्रतिषेधो विज्ञेयः । अन्ये त्व् आहुः **सेलुः** श्लेष्मान्तकः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "023 षड् आनुपूर्व्या"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -97,4 +96,10 @@ as authorised by the Father; the remaining (which are unrighteous) may be author
 <details><summary>Bühler</summary>
 
 023	One may know that the first six according to the order (followed above) are lawful for a Brahmana, the four last for a Kshatriya, and the same four, excepting the Rakshasa rite, for a Vaisya and a Sudra.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इयं च ऋत्विका(ज्वर्था) स्मृतिः । तेषाम् अपि षण्णाम् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "128 अमावास्याम् अष्टमीम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -77,4 +76,10 @@ moonless day, full moon day, the day on which the sun passes from one sign to th
 <details><summary>Bühler</summary>
 
 128	A twice-born man who is a Snataka shall remain chaste on the new-moon day, on the eighth (lunar day of each half-month), on the full-moon day, and on the fourteenth, even (if they fall) in the period (proper for conjugal intercourse).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पर्वकालेन तु कालातिक्रमाद् युक्तः पर्वसु परिहारार्थः । पाठो यम् अपि – "**ऋतौ स्नातको द्विजः**" इति । तथा चोक्तम् – "पर्ववजं व्रजेच् चैनाम्" (म्ध् ३.४५) इत्य् अतश् च । "**अनृतौ**" इत्य् अयम् अन्यः पाठः उत्सृज्यते, व्यर्थानर्थसमानार्थम्, आर्षं न वचो यत इति ।
 </details>

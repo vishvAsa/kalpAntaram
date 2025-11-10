@@ -1,6 +1,5 @@
 +++
 title = "010 आपो नरा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -65,4 +64,13 @@ of Nārāyaṇa himself, the second half is put in the First Person.\]—“*Tha
 <details><summary>Bühler</summary>
 
 010	The waters are called narah, (for) the waters are, indeed, the offspring of Nara; as they were his first residence (ayana), he thence is named Narayana.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**आपो नारा इत्य्** उच्यते (-अन्ते) । येनैता नरेण ब्रह्माख्येनाण्डोत्पत्त्यर्थं सृष्टास् ता **यत्** येन कारणेन्**आस्यायनं** गमनम् आश्रयः अण्डान्तर्भूतशरीरस्य पूर्वं भुवनसृष्टेस् तेन कारणेनायं ब्रह्मा **[१०]** **नारायणः स्मृतः** । नारा आपः अयनम् अस्य सो ऽयं नारायणः । तथा च पौराणिकाः-
+
+> सहस्रशीर्षः पुरुषो रुकवर्णस् त्व् अतीन्द्रियः ।  
+> ब्रह्मा नारायणाख्यस् तु सृष्टोपसलिले (?) तदा ॥ इति ।
 </details>

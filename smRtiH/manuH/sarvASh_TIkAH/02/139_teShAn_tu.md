@@ -1,6 +1,5 @@
 +++
 title = "139 तेषान् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -40,4 +39,15 @@ See Comparative notes for [Verse 2.138].
 <details><summary>Bühler</summary>
 
 139	Among all those, if they meet (at one time), a Snataka and the king must be (most) honoured; and if the king and a Snataka (meet), the latter receives respect from the king.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एकमानार्हसमवेतानां नियमतः प्रकृतेन पथादानेन मान्येन **स्नातकपार्थिवेन** ताभ्याम् अन्यत्र तु पूजाहेतुत्वपक्षया (?) विकल्प आश्रयणीयश् चक्र्यादीनाम् । **राजस्नातकयोस् तु** सङ्गमे "**स्नातको नृपमानभाक्**" । वक्ष्यति हि 
+
+> वैशेषात् प्रकृतिश्रैष्ठ्यात् नियमस्य च धारणात् ।  
+> संस्कारस्य विशेषाच् च वर्णानां ब्राह्मणः प्रभुः ॥ (म्ध् १०.३)
+
+इत्य् अतो राज्ञः सकाशात् स्नातकस्य मान्यस्थानतोपदेशो (?) युक्तः "उत्तमाङ्गोद्भवाज् ज्यैष्ठ्यात्" (म्ध् १.९६) इत्येवमादिनोक्तः (?) ।
 </details>

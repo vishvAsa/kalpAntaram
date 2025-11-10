@@ -1,6 +1,5 @@
 +++
 title = "275 यद् यद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -42,4 +41,10 @@ faith save their forefathers from the most terrible hell; he who performs the Ś
 <details><summary>Bühler</summary>
 
 275	Whatever (a man), full of faith, duly gives according to the prescribed rule, that becomes in the other world a perpetual and imperishable (gratification) for the manes.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+श्राधाङ्गीकरणार्थो ऽयं यत्नः । एवं सति **यद् यद् ददातीत्य्** अनेनादरवचनेन पूर्वशास्त्राविरोधः श्राद्धस्तुतिपरत्वाद् अस्योपदेशसामर्थ्याद् विज्ञेयः ।
 </details>

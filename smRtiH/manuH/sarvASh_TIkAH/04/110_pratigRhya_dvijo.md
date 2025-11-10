@@ -1,6 +1,5 @@
 +++
 title = "110 प्रतिगृह्य द्विजो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -56,4 +55,10 @@ things connected with Śrāddhas,—on accepting the gift of these, it is unfit 
 <details><summary>Bühler</summary>
 
 110	A learned Brahmana shall not recite the Veda during three days, when he has accepted an invitation to a (funeral rite) in honour of one ancestor (ekoddishta), or when the king has become impure through a birth or death in his family (sutaka), or when Rahu by an eclipse makes the moon impure.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एकोद्दिष्टं नवश्राद्धं यत्रैकवन् मन्त्राणाम् ऊहस् तदा मन्त्रणं **प्रतिगृह्य** **विद्वान्** अपीति शब्दलोपः । <u>केचित्</u> त्व् आहुः- न त्र्यहम् । किं तर्हि ।
 </details>

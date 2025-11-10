@@ -1,6 +1,5 @@
 +++
 title = "243 धर्म-प्रधानम् पुरुषम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -42,4 +41,10 @@ context.
 <details><summary>Bühler</summary>
 
 243	(That companion) speedily conducts the man who is devoted to duty and effaces his sins by austerities, to the next world, radiant and clothed with an ethereal body.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कः । धर्मः । अतश् च – तम् अप्य् अत्र सहायं सर्वापत्सु प्रत्यहं यत् किल्बि[१ अक्ष् उन्च्लेअर्] दानेनार्थिभ्यः धर्मः शनैः सञ्चिनुयाद् इत्य् अत्रैव स्थितं धर्मसम्बन्धविशेषणार्थम् अधुनेदम् आह –
 </details>

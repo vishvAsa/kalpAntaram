@@ -1,6 +1,5 @@
 +++
 title = "082 इतरेष्व् आगमाद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -58,4 +57,10 @@ See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 <details><summary>Bühler</summary>
 
 082	In the other (three ages), by reason of (unjust) gains (agama), Dharma is deprived successively of one foot, and through (the prevalence of) theft, falsehood, and fraud the merit (gained by men) is diminished by one fourth (in each).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**इतरेषु** त्रेतादिषु **आगमाच्** छास्त्राद् धर्मव्यवस्थारूपो यः असौ **पादशो ऽवरोपितः** प्रतियुगं तस्य पादः पादशः । केन । **चौरिकानृतमायाभिः** । नात्र यथासङ्ख्यं चौरिकादीनां त्रेतादिषु दृष्टि(ष्ट?)विरोधात् । किं तर्हि । सर्वान्य् एवैतानि त्रेतादिषु विद्यमानानि धर्मसङ्कोचहेतुत्वेनोपदिश्यन्ते विकल्पितानि बह्वल्पतया तारतम्यम् आश्रित्य । एवं च सति "**धर्मश् चापैति पादशः**" इति यद् इदं द्वितीयं धर्मग्रहणम् एतन्मुख्यस्याभ्युदयहेतोर् व्यवस्थाकार्यस्य धर्मस्याभावं दर्शयति कारणाभावात् । यतश् चैतद् एवम् अतः,
 </details>

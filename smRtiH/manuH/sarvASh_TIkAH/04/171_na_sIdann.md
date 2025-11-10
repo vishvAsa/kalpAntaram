@@ -1,6 +1,5 @@
 +++
 title = "171 न सीदन्न्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -30,4 +29,22 @@ This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 68), which adds the 
 <details><summary>Bühler</summary>
 
 171	Let him, though suffering in consequence of his righteousness, never turn his heart to unrighteousness; for he will see the speedy overthrow of unrighteous, wicked men.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+दृष्टं चेद् अदम् (?) अदृष्टं शास्त्रतः । किं कारणम् । येन –
+
+**नाधर्मश् चरितो लोके सद्यः फलति गौर् इव ।**
+
+गौर् विषाणीव पृथिवी । साधर्म्यवैधर्म्याभ्यां दृष्टान्तेन वचनीयौ (?) प्रकृतार्थसिद्धये ।
+
+**शनैर् आवर्तमानस् तु **
+
+कार्यम् आरभ्यमाणं देशकालप्राये(कार?)णाद्यपेक्षया 
+
+> **कर्तुर् मूलानि कृन्तति ॥ ४.१७२ ॥[१९४]**  
+
+मूलकर्तनं गुणवादो ऽतिशयार्थः । कर्तारम् अपुनर्भावं नयति । एवं च सति –
 </details>

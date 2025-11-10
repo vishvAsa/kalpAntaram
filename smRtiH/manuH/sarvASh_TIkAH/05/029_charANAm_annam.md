@@ -1,6 +1,5 @@
 +++
 title = "029 चराणाम् अन्नम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -39,4 +38,10 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 527), which adds—the ‘
 <details><summary>Bühler</summary>
 
 029	What is destitute of motion is the food of those endowed with locomotion; (animals) without fangs (are the food) of those with fangs, those without hands of those who possess hands, and the timid of the bold.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+आपेक्षिकम् एतद् एवं च लोके दृषृटम् । **चराणां** वेगवत्तराणां श्येनादीनाम् ईषद्वेगा **अचराः** कपोतादय उच्यन्ते, **दंष्ट्रिणां** च व्याघ्रादीनां गृगादयो **ऽदंष्ट्रिणः**, एवम् एव **अहस्ताः** सर्पादयः **सहस्तानां** पाणिपादवतां नकुलादीनाम् अभिसरणापसरणक्रियाक्षमाणां निदर्शणार्थत्वाद् एवं **शूराणां च भीरवः** सर्वदा शक्तिसम्बन्धव्यापारविशेषवताम् **अन्नम्** । एवम् अन्ये ऽपि तद्विपरीता विज्ञेयाः । एवं च प्रजापतिव्यवस्थायां सत्याम् ।
 </details>

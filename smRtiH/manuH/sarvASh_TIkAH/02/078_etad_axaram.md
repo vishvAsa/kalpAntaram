@@ -1,6 +1,5 @@
 +++
 title = "078 एतद् अक्षरम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -161,4 +160,10 @@ Evening Prayers, while the sun is still visible, he should go on repeating the G
 <details><summary>Bühler</summary>
 
 078	A Brahmana, learned in the Veda, who recites during both twilights that syllable and that (verse), preceded by the Vyahritis, gains the (whole) merit which (the recitation of) the Vedas confers.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+वक्ष्यमाणसन्ध्योपासनानुवादः प्राक्कृतविधिस्तुत्यर्थः । तद् उक्तम् "**वेदविद् विप्रो वेदपुण्येन युज्यते**" इति । वेदत्रयनिष्कर्षम् (?) । इदम् एव यो वेद स **वेदविद्** अत्रोच्यते, प्रकरणसामर्थ्यात् । "**वेदपुण्येन युज्यते**" इति वेदत्रयाध्ययनेन वेदं पुण्येनेति एतत्(?) । एवं च नायं सन्ध्योपासनविधिः । तथा हि । प्रकृतार्थोपरोधः स्यात् । अप्रकरणप्रक्रिया च न युक्ता, प्रकरणोपरोधात् (?) तत्सधर्मकं तदुपरिष्टाद् वक्ष्यते । पुनश् च तत्स्मृतेर् एवोच्यते ।
 </details>

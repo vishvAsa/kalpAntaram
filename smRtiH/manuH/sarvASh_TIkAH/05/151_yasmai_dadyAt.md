@@ -1,6 +1,5 @@
 +++
 title = "151 यस्मै दद्यात्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,10 @@ never approaches another man, she attains fame in this world and rejoices in the
 <details><summary>Bühler</summary>
 
 151	Him to whom her father may give her, or her brother with the father's permission, she shall obey as long as he lives, and when he is dead, she must not insult (his memory).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पितुर् अभावे भ्रात्रादिभा(हा?)दिन्वलुदेयेत्य् (?) दर्शयति । "**संस्थितं च न लङ्घयेत्**" इत्य् अनेनोर्ध्वं पत्युर् अव्यभिचारम् आह । वांयाना(?) प्रभृत्य् अस्याः पारतन्त्र्यं पत्यौ न विवाहात् (?) ।
 </details>

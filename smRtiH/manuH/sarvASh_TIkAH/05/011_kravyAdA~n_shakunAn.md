@@ -1,6 +1,5 @@
 +++
 title = "011 क्रव्यादाञ् शकुनान्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -105,4 +104,10 @@ mouse, the twice-born becomes purified by living on barley-meal for one day.’
 <details><summary>Bühler</summary>
 
 011	Let him avoid all carnivorous birds and those living in villages, and one-hoofed animals which are not specially permitted (to be eaten), and the Tittibha (Parra Jacana),
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**क्रव्यादो** मांसभक्षकान् एव गृह्णाति (?), नैवं चान्येषाम् उभभक्षणादीनां मयूरादीनां प्रतिषेधः । तथा **ग्रामनिवासिनः** अक्रव्यादो ऽपि पारावतादीन् **अनिर्दिष्टांश्** **चैकशफान्** इति शास्त्रान्तरे एकशफा (?) एव प्रतिषिध्यन्ते । अस्त्रादयो (?) निर्दिश्यन्ते च । एकशफश्रुतौ भक्ष्यत्वेन त्व् आशु बडवाम् आलभेत गौरमहत् (?) गर्दभं प्रजाकामतस् तस्य मांसम् अश्नीयाद् इत्य् आध्वर्यवश्रुतिस् तत्सिद्धत्वाद् एवास्यानारम्भ इति चेन् न । तद्दर्शनेन प्रवृत्तिप्रसङ्गात् प्रतिषेधः । ये त्वचान् आम्नाय इतिवत् **टिट्टिभं चैव वर्जयेच्** छुचि भक्ष्यम् अपि सन्तः –
 </details>

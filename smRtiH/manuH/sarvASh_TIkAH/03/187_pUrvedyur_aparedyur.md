@@ -1,6 +1,5 @@
 +++
 title = "187 पूर्वेद्युर् अपरेद्युर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -85,4 +84,10 @@ approach the Brāhmaṇas after they have taken their evening meal and invite th
 <details><summary>Bühler</summary>
 
 187	On the day before the Sraddha-rite is performed, or on the day when it takes place, let him invite with due respect at least three Brahmanas, such as have been mentioned above.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**पूर्वेद्युः** श्राद्धात् पूर्वस्मिन् अहनि मैथुनशङ्कयेदम् अनागतकालोपनिमन्त्रणम् । पर्वप्रतीतौ च मैथुनस्य मासिकश्राद्धम् अदिन्यतैतत् (?) कृतार्थं दुर्लभत्वाद् वा तद् अहर् एव ब्राह्मणानाम् **अपरेद्युर्** अप्य् एकस्मिन्न् अहनि । एतत्कारणद्वयाभावे सति **त्र्यवरान्** इत्य् एतत् कृतविचारम् । ऋज्व् अन्यत् ।
 </details>

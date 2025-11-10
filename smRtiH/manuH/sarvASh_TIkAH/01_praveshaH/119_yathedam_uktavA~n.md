@@ -1,6 +1,5 @@
 +++
 title = "119 यथेदम् उक्तवाञ्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,14 @@ In the *Bhāṣya* by Bhatta Medhātithi.
 <details><summary>Bühler</summary>
 
 119	As Manu, in reply to my questions, formerly promulgated these Institutes, even so learn ye also the (whole work) from me.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+द्वितीयाध्यायाभिसम्बन्धार्थः श्लोकः । श्रीः श्रीः श्रीः ।
+
+**इति श्लाघ्यस्मृतिसायुज्याचार्यगुरोर् आनिर्नीयस्य ऋजुविमलकृतौ  
+मनुशास्त्रविवरणस्मृतिमीमांसायां प्रथमो ऽध्यायः  
+श्रीः ।**
 </details>

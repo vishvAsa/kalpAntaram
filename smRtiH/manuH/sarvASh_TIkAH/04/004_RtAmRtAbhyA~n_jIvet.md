@@ -1,6 +1,5 @@
 +++
 title = "004 ऋतामृताभ्याञ् जीवेत्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -10,7 +9,7 @@ He shall live in “Truth” and “Nectar,” or by “Death” and “Super-de
 
 <details><summary>मेधातिथिः</summary>
 
-नाम्नैव केषांचित् स्तुतिः प्रतीयते । प्रयोजनं च[^७] प्रशस्ताभावे निन्दितेषु प्रवृत्तिः । तत्र मृतप्रमृते अत्यन्तनिन्दिते । ततो ऽपि सत्यानृतम् । यत आह- "तेनैव वापि[^८] जीव्यते"[^९] (च्ड़्। म्ध् ४.६) इति । **अपि**शब्दो ऽरुचिसूचनार्थः[^१०] ॥ ४.४ ॥
+नाम्नैव केषांचित् स्तुतिः प्रतीयते । प्रयोजनं च[^७] प्रशस्ताभावे निन्दितेषु प्रवृत्तिः । तत्र मृतप्रमृते अत्यन्तनिन्दिते । ततो ऽपि सत्यानृतम् । यत आह- "तेनैव वापि[^८] जीव्यते"[^९] (च्ड़्। म्ध् ४.६) इति । **अपि**शब्दो ऽरुचिसूचनार्थः[^१०] ॥ ४.४ ॥
 
 
 [^१०]:
@@ -59,4 +58,10 @@ the only two means of livelihood.’
 <details><summary>Bühler</summary>
 
 004	He may subsist by Rita (truth), and Amrita (ambrosia), or by Mrita (death) and by Pramrita (what causes many deaths); or even by (the mode) called Satyanrita (a mixture of truth and falsehood), but never by Svavritti (a dog's mode of life).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अनापदि वर्तते नानृतादीन् अप्रसिद्धाण् स्वयम् एव श्लोकद्वयेन व्याकरोति ।
 </details>

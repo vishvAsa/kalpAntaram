@@ -1,6 +1,5 @@
 +++
 title = "075 विगतन् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -65,4 +64,14 @@ See Comparative notes for [Verse 5.73].
 <details><summary>Bühler</summary>
 
 075	He who may hear that (a relative) residing in a distant country has died, before ten (days after his death have elapsed), shall be impure for the remainder of the period of ten (days and) nights only.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**विदेशस्थ**विधिर् अयम् उच्यते दशरात्रपक्षे । एवम् अन्यत्रापि । 
+
+**अतिक्रान्ते दशाहे तु त्रिरात्रम् अशुचिर् भवेत् ।**
+
+दशरात्रपक्ष एवम् इतरत्रापि यथासम्भवम् ।
 </details>

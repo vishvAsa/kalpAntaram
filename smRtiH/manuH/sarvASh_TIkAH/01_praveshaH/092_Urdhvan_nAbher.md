@@ -1,6 +1,5 @@
 +++
 title = "092 ऊर्ध्वन् नाभेर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -28,4 +27,10 @@ See 5.132.
 <details><summary>Bühler</summary>
 
 092	Man is stated to be purer above the navel (than below); hence the Self-existent (Svayambhu) has declared the purest (part) of him (to be) his mouth.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सामान्यनिर्देशे ऽपि सति अस्मिन् यः प्रजापतेः कालविभागाश्रयान् मुख्(य्)अस्य मेध्यत्वेन संस्तुतिर् उत्तरत्र ब्राह्मणोत्पत्तिस्तुत्यर्थम् । तथा च दर्शयति ।
 </details>

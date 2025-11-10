@@ -1,6 +1,5 @@
 +++
 title = "052 आयुष्यम् प्राङ्-मुखो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -86,4 +85,10 @@ the east, with speech in check, not decrying the food, nor scattering it, with m
 <details><summary>Bühler</summary>
 
 052	(His meal will procure) long life, if he eats facing the east; fame, if he turns to the south; prosperity, if he turns to the west; truthfulness, if he faces the east.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+स्त(स्न)पनमात्रम् अनर्थकम् इति यत् काम्यो ऽयं विधिर् इत्य् <u>एके</u> । अनुपदेशरूपैस् तु विधानाद् दिङ्मात्रस्तुतिर् अन्तरालप्रतिषेधार्थम् इत्य् <u>अपरे</u> । न च "इदं भैक्षाशनं भुङ्क्ते" इत्य् आख्यातान्तरेण निर्देशात् भैक्षाशनाङ्गत्वे ह्य् आयुष्यं प्राङ्मुखो नाश्नीयात् (?) इति ब्रूयात् । न त्व् एवम् अवोचद् यतस् तद् अजिज्ञापेयं (?) न भिक्षाशनाङ्गम् इदम् । अतश् च सार्वत्रिको ऽयं विधिर् इत्य् अवगम्यते । "निवेद्य गुरवे ऽश्नीयात्" (म्ध् २.५१) इत्य् उक्तम् । यतस् तद्विधिर् उपदिश्यत् ।
 </details>

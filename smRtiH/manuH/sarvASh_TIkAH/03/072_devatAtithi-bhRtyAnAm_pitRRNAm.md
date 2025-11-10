@@ -1,6 +1,5 @@
 +++
 title = "072 देवतातिथि-भृत्यानाम् पितॄणाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -63,4 +62,10 @@ See Comparative notes for [Verse 3.71].
 <details><summary>Bühler</summary>
 
 072	But he who does not feed these five, the gods, his guests, those whom he is bound to maintain, the manes, and himself, lives not, though he breathes.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+चतुर्थ्या सम्प्रदानार्थतया पठितव्यो ऽयं श्लोकः । <u>भृत्यात्मा न च विश्वेदेवान्तर्भूताव् एव गृह्येते देवता</u> (???) । एवं बलिहरणसम्बन्धाद् भूतानीत्य् अभिधीयन्ते ऽतो देवताग्रहणेन गृहीतत्वात् । पृथङ् न पर्यन्ते भूतानि न श्लोके "**उच्छ्वसन् न स जीवति**" इत्य् अपि एवं (?) श्रुतो ऽपि स्तुतिसामर्थाद् द्रष्टव्यः । निर्व्यापश् च देवतादिभ्यो दानम् उच्यते । ब्रह्मदानं च ऋषिभ्यो गुण आम्नातं तेषां सैष विध्यर्थम् इदं पुनर्वचनम् ।
 </details>

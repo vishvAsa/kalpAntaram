@@ -1,6 +1,5 @@
 +++
 title = "085 दिवाकीर्तिम् उदक्याम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -133,4 +132,10 @@ been touched by a *Caṇḍāla*, a woman lately confined, or a corpse,—he sha
 <details><summary>Bühler</summary>
 
 085	When he has touched a Kandala, a menstruating woman, an outcast, a woman in childbed, a corpse, or one who has touched a (corpse), he becomes pure by bathing.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**दिवाकीर्त्यश्** चण्डालः । तथा च गौतमः- "पतितचण्डालसूतिकोदक्या" इत्येवमादि (ग्ध् १४.३०) । अन्य आहुः- "दिवाकीर्त्यस्य यत् श्मश्रकर्मणि स्पर्शनं (?) तत्रेदं स्नानं नेतरस्मिन्न् अङ्गसंस्पर्श" इति । तत् त्व् इदं स्मृत्यन्तरसामर्थ्यात् अपव्याख्यानम् (?) इत्य् अयुक्तम् (?) । मार्जारमूषिकसंवादे च वेदव्यासेन दिवाकीर्त्यश् चण्डाल उक्तो येनातः पूर्वोक्त एवार्थः ।
 </details>

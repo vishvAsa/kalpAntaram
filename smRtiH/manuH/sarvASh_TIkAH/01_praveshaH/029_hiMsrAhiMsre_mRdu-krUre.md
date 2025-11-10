@@ -1,6 +1,5 @@
 +++
 title = "029 हिंस्राहिंस्रे मृदु-क्रूरे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -75,4 +74,10 @@ became assigned to whichever thing at the beginning of creation, that thing take
 <details><summary>Bühler</summary>
 
 029	Whatever he assigned to each at the (first) creation, noxiousness or harmlessness, gentleness or ferocity, virtue or sin, truth or falsehood, that clung (afterwards) spontaneously to it.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**हिम्स्राहिंस्रे मृदुक्रूरे ऋतानृते** चेत्येवमादि यत् कर्म द्वन्द्वशः प्रसिद्धं समानार्थं प्राणिनिकायभेदाश्रयं तत् तेषां **धर्माधर्माव्** उपादाय भवति, नाकस्मिकम् । तथा च – निर्बीजः कर्म प्रतिपत्तिप्रपञ्चः प्राणिनाम् । एवम् अयं श्लोको व्यत्यस्तपदार्थसम्बन्धाच् च प्रगुणीकृत्याध्याहारेण व्याघातः प्रकृतार्थानुग्रहाय । किं पुनर् अत्रोदाहरणम् इदम् [इतीदम्] उच्यते ।
 </details>

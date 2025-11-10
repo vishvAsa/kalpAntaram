@@ -1,6 +1,5 @@
 +++
 title = "169 न कदा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ nor spill his blood.’
 <details><summary>Bühler</summary>
 
 169	A wise man should therefore never threaten a Brahmana, nor strike him even with a blade of grass, nor cause his blood to flow.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सर्वप्राणिपीडापरिहारार्थं चेदं ब्राह्मणनिदर्शनाद् द्रष्टव्यम् । तथा च प्रायश्चित्तं वक्ष्यति । राजदण्डं च न सर्वप्राणिहिंसायां न केवलं ब्राह्मणस्यैवेति । प्रकर्षार्थं तु व्यतिक्रमस्य ब्राह्मणग्रहणम् । तथा च लोके दृष्टम् ।
 </details>

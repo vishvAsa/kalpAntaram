@@ -1,6 +1,5 @@
 +++
 title = "280 रात्रौ श्राद्धम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -66,4 +65,10 @@ except during an eclipse; during the two twilights however, it should never be p
 <details><summary>Bühler</summary>
 
 280	Let him not perform a funeral sacrifice at night, because the (night) is declared to belong to the Rakshasas, nor in the twilight, nor when the sun has just risen.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अप्राप्तानां रात्र्यादीनां श्राद्धाङ्गत्वेन प्रतिषेधाद् अपराह्णाद् अन्यत्रापि श्राद्धकर्म भवतीति गम्यते । इतरथा स्याद् अनर्थको ऽस्यारम्भः प्रसज्यते । एतस्मिंश् च सति पूर्वाह्णप्राप्त्यर्थं श्राद्धं युज्यते । तद् उक्तम् "तथा श्राद्धस्य पुऋवाह्णाद् अपराह्णो विशिष्यते" [म्ध् ३.२७८] इत्य् अतः कृतान्नश्राद्धपक्षे चैतत् स्यात् ।
 </details>

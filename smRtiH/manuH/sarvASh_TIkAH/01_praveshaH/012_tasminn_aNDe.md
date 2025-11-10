@@ -1,6 +1,5 @@
 +++
 title = "012 तस्मिन्न् अण्डे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -39,4 +38,10 @@ broke, not because the indwelling Brahmā willed it, hut because of its full *de
 <details><summary>Bühler</summary>
 
 012	The divine one resided in that egg during a whole year, then he himself by his thought (alone) divided it into two halves;
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**तस्मिन्न् अण्डे स भगवान् उषित्वा** [२ अक्ष् मिस्सिन्ग्] यकं कालं **परिवत्सरम्** । परिवत्सरशब्दो गर्भवृष्टिकालप्रदर्शनार्थः । नेतरपुरुषवत् पराधीनः । किं तर्हि । **स्वयम् एव** स्वेच्छयेत्य् अर्थः । ततो ऽनन्तरं गर्भवासकाले परिसमाप्ते **तद् अण्डम् अकरोद् द्विधा** । कथम् । **आत्मनो ध्यानात्** । आत्मनस् तत्रावस्थानकालपरिसमाप्तिम् अर्थलक्षणाद् बुद्ध्वा तद् अण्डम् औतराधर्येण द्विशकलम् अकरोत् ।
 </details>

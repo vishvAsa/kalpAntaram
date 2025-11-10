@@ -1,6 +1,5 @@
 +++
 title = "011 न लोकवृत्तम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -69,4 +68,10 @@ life, in due accordance with his age, intelligence, wealth, dress, learning and 
 <details><summary>Bühler</summary>
 
 011	Let him never, for the sake of subsistence, follow the ways of the world; let him live the pure, straightforward, honest life of a Brahmana.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+लोकवृत्तं नाम विचित्रकथापरिहासादिभिः श्लोकावर्जनम् । तत् नानुतिष्ठेत् कदाचिद् अपि वृत्तिहेतोः । न तु परानुग्रहार्थं करुणया । कथं तर्हि । **अजिह्माम्** अकुटिलां केनचिद् व्याजेनाशठां श्रद्दधानस् तथा **शुद्धां** सर्वोपधापरित्यागेनाथ वा अजिह्मार्थविवरणम् इदम् । **अशठाम्** इत्य् एवं **शुद्धां जीवेद् ब्राह्मणजीविकाम्** । जीवनार्था वृत्तिर् जीविकाशब्देनोच्यते, गुणतस् तत्प्रकरणात् । एवं च सत्य् आङ्गम् **अशठां शुद्धाम्** । इत्य् एतानि तद्वेशेषणानि द्रष्टव्यानि । सर्वस्यैवास्य वृत्तिप्रकर्षस्य वैराग्यावस्थानस्य कारणम् अधुनोच्यते ।
 </details>

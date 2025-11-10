@@ -1,6 +1,5 @@
 +++
 title = "099 ब्राह्मणो जायमानो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -33,4 +32,15 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 <details><summary>Bühler</summary>
 
 099	A Brahmana, coming into existence, is born as the highest on earth, the lord of all created beings, for the protection of the treasury of the law.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**ब्राह्मणो जायमान** एव । **हि**शब्दो ऽवधारणार्थः । क्व । **पृथिव्याम्** । उपरि भवति । कस्य । **सर्वभूतानां** इति व्यवहितेनाभिसम्बन्धः सामर्थाद् विज्ञेयः । येन कारणेन ये न (?) परः । तेषां किं राजत्वम् । नेत्य् आह । कथं तर्हि । धर्मकोशगोप्तृत्वात् । एतच् चास्याध्यापनानुवचनयाजनकृतं वेदितव्यम् । तथा च वक्ष्यति । 
+
+> सर्वेषां ब्राह्मणो विद्याद् वृत्त्युपायान् स्वकर्मसु ।  
+> प्रब्रूयाद् इतरेभ्यश् च स्वयं चैव तथा भवेत् ॥ [म्ध् १०.२]
+
+इत्य् एवं च धर्मकोशगोप्तुर् इत्थम्भूतस्य ।
 </details>

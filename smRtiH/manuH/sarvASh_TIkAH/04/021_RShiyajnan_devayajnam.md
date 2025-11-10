@@ -1,6 +1,5 @@
 +++
 title = "021 ऋषियज्ञन् देवयज्ञम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -58,4 +57,10 @@ perform the five sacrifices.’
 <details><summary>Bühler</summary>
 
 021	Let him never, if he is able (to perform them), neglect the sacrifices to the sages, to the gods, to the Bhutas, to men, and to the manes.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+वैश्वदेवादिकानां महायज्ञानाम् अभ्यासार्थ आरम्भ इति <u>केचित्</u> । तत् पुनर् युक्तम् अयुक्तं वेति विचारणीयम् । <u>वयं</u> पुनर् ब्रूमः । शेषविध्यर्थ एषां पुनर् उपन्यासस्तुत्यर्थो वा । तथा च प्रदर्शयिष्यामः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "100 एतद् वो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -21,4 +20,10 @@ The two halves of this verse are meant to serve respectively the purpose of reca
 <details><summary>Bühler</summary>
 
 100	Thus the purification (required) on (the death of) Sapindas has been explained to you, O best of twice-born men; hear now the manner in which men are purified on the death of any (relative who is) not a Sapinda.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उपसंहारोपन्यासार्थः श्लोकः ।
 </details>

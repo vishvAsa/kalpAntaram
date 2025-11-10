@@ -1,6 +1,5 @@
 +++
 title = "172 नाऽभिव्याहारयेद् ब्रह्म"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -74,4 +73,10 @@ he likes, short of committing degrading sins.’
 <details><summary>Bühler</summary>
 
 172	(He who has not been initiated) should not pronounce (any) Vedic text excepting (those required for) the performance of funeral rites, since he is on a level with a Sudra before his birth from the Veda.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तथा च स्मृत्यन्तरम्- "प्राग् उपनयनात् कामचारवादभक्षः" (ग्ध् २.१) इति । अपरे (?) "**नाभिव्याहरेद्**" इति प्रकृत्यन्तेन हरतिं पठन्ति । तद् अयुक्तं स्मृत्यन्तरसामर्थ्यात्- "न ब्रह्माभिव्याहारेद् अन्यत्र स्वधानिनयनात्" (ग्ध् २.९) इति । तस्मात् ण्यन्तेन हरतिर् उक्तः । पितुर् अयम् उपदेशः न कुमारस्य । अस्तु वा कुमारस्य, प्रकृत्यन्तेन यदि शास्त्रदोषो नास्ति । इदानीं "तत्र यद् ब्रह्मजन्मास्य मौञ्जीबन्धनचिह्नितम्" (म्ध् २.१७०) इत्येवमादिभ्यो लिङ्गेभ्य उपनयनान्तरम् अस्य ब्रह्मचारिणा वेदाध्ययने प्राप्ते इदं क्रमविध्यनुष्ठानार्थम् आरभ्यते –
 </details>

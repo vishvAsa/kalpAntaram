@@ -1,6 +1,5 @@
 +++
 title = "151 दूराद् आवसथान्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -52,4 +51,10 @@ second line as ‘*Ucchiṣṭotsarjanañ caivadūre kāryam hitaiṣiṇā*.’
 <details><summary>Bühler</summary>
 
 151	Far from his dwelling let him remove urine (and ordure), far (let him remove) the water used for washing his feet, and far the remnants of food and the water from his bath.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रसिद्धार्थः श्लोकः ।
 </details>

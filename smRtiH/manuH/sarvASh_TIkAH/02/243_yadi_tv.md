@@ -1,6 +1,5 @@
 +++
 title = "243 यदि त्व्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -77,4 +76,10 @@ dwarf, the humpbacked, one born blind, the sexless, the lame, the diseased and t
 <details><summary>Bühler</summary>
 
 243	But if (a student) desires to pass his whole life in the teacher's house, he must diligently serve him, until he is freed from this body.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यदि त्व् आत्यन्तिकम् इति विकल्पेन निर्देशात् नैष्ठिकब्रह्मचर्यम् अविकल्पेनोक्तं भवति । तच् चोत्तरत्र प्रदर्शयिष्यामः । वेदशास्त्रं न्यायविरोधेन ।
 </details>

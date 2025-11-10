@@ -1,6 +1,5 @@
 +++
 title = "118 चोरैर् उपद्रुते"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,10 @@ meteor-shower, or earthquake, or fire-calamity till the same time next day;—du
 <details><summary>Bühler</summary>
 
 118	When the village has been beset by robbers, and when an alarm has been raised by fire, let him know that (the Veda-study must be) interrupted until the same hour (on the next day), and on (the occurrence of) all portents.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अद्भुतानि दिव्यन्तरिक्षभौमान्य् अथर्ववेदाद् उपलब्धव्यानि यजुर्वेदे च केषाञ्चिद् एतानि सूत्रकारैर् उपदिष्टानि ।
 </details>

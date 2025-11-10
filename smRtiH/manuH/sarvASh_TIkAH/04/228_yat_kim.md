@@ -1,6 +1,5 @@
 +++
 title = "228 यत् किम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ some trouble or for the maintenance of his family,—he shall give what is asked
 <details><summary>Bühler</summary>
 
 228	If he is asked, let him always give something, be it ever so little, without grudging; for a worthy recipient will (perhaps) be found who saves him from all (guilt).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**याचितेना**नपेक्ष्य (?) पात्रतां स्वल्पम् अपि दातव्यम् । **उत्पत्स्यते हि तत् पात्रम्** इति लिङ्गाद् अपात्रदानम् अप्य् अस्तीति स्त्रयति (?) ददाति साधनदेयद्रव्यस्वरूपम् इदानीं दर्शयति शार्थवादकम् ।
 </details>

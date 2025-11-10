@@ -1,6 +1,5 @@
 +++
 title = "032 द्विधा कृत्वात्मनो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -33,4 +32,10 @@ The ‘Virāṭ’ whose birth is here described is, according to some, the same
 <details><summary>Bühler</summary>
 
 032	Dividing his own body, the Lord became half male and half female; with that (female) he produced Virag.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+बहूपकारसम्बन्धा धर्मापत्यधनेषु चा (वा) । विभागं नार्या स्वदेहार्धवादो गुणवाद् इति वृत्तानुकथनं वेदं यद्य् आगमोपपत्तिभ्याम् अविरुद्धवंसोपरं(?) नार्या सह विराजं दीप्तिमन्तम् आत्मविधम् एवासृजत् ।
 </details>

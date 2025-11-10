@@ -1,6 +1,5 @@
 +++
 title = "173 कृतोपनयनस्याऽस्य व्रतादेशनम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -82,4 +81,12 @@ of all instruct him regarding cleanliness, course of conduct, fire-tending, the 
 <details><summary>Bühler</summary>
 
 173	The (student) who has been initiated must be instructed in the performance of the vows, and gradually learn the Veda, observing the prescribed rules.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+[एद्. चोम्मेन्त्- इदं पद्यं ४.८० सङ्ख्याकपद्यस्य व्याख्यायाम् उद्धृतम् । तत्र प्रथमपादे "कृतोपनयनस्यास्य" इत्य् अत्र "न चा[प्य?]नुपनीतस्य" इति पाठः]
+
+उपनयनानन्तरम् **अस्य व्रतादेशनं** यथा वेदम् आदिष्टवेदव्रतस्य च यद् वेदव्रताचरणं तद् ब्रह्माध्यायिनाम् अयं क्रम आचारो वा विधिपूर्वम् इत्य् एतन्नियमार्थम् । अधुना यान्य् उपनयनोपदिष्टानि ब्रह्मचारिनश् चर्मसूत्रमेखलादण्डवसनानि तेषां यावद् ब्रह्मचर्यं धारणे प्राप्त इदम् आरभ्यते –
 </details>

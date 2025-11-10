@@ -1,6 +1,5 @@
 +++
 title = "144 अनातुरः स्वानि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -34,4 +33,10 @@ Unless he be in trouble, he shall not, without cause, touch his cavities. He sha
 <details><summary>Bühler</summary>
 
 144	Except when sick he must not touch the cavities (of the body) without a reason, and he must avoid (to touch) the hair on the secret (parts).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+स्वनिगदव्याख्यातः श्लोकः ।
 </details>

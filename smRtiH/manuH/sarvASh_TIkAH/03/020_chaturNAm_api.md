@@ -1,6 +1,5 @@
 +++
 title = "020 चतुर्णाम् अपि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -74,4 +73,10 @@ elders, in accordance with the custom of her country, becomes forcibly united wi
 <details><summary>Bühler</summary>
 
 020	Now listen to (the) brief (description of) the following eight marriage-rites used by the four castes (varna) which partly secure benefits and partly produce evil both in this life and after death.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सङ्ख्ययोपदिश्यैतान् स्वरूपत इदानीम् आह ।
 </details>

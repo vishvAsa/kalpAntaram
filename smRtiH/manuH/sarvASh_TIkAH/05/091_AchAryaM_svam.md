@@ -1,6 +1,5 @@
 +++
 title = "091 आचार्यं स्वम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -65,4 +64,10 @@ perform such acts as the burning of the dead body; if he does do it, he shall pe
 <details><summary>Bühler</summary>
 
 091	A student does not break his vow by carrying out (to the place of cremation) his own dead teacher (akarya), sub-teacher (upadhyaya), father, mother, or Guru.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अन्यं निवृत्य तु वियुज्यत इत्य् एतद् व्रतिनो ऽन्यप्रेतनिर्हरणप्रतिषेधवाक्यम् अर्थाद् विज्ञेयम् । **स्व**ग्रहणाच् च "गुरोर् गुरौ सन्निहिते गुरुवद् वृत्तिम् आचरेत्" (म्ध् २.२०५) इत्य् अनेनापि । यद् अपि व्यवहिते गुरुगुरौ प्राप्तं तद् अनेन प्रतिषिद्धं भवति ।
 </details>

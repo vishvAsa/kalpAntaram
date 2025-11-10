@@ -1,6 +1,5 @@
 +++
 title = "162 आचार्यञ् च"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -81,4 +80,10 @@ from whom he acquires any knowledge, temporal or scriptural or spiritual...... o
 <details><summary>Bühler</summary>
 
 162	Let him never offend the teacher who initiated him, nor him who explained the Veda, nor his father and mother, nor (any other) Guru, nor cows, nor Brahmanas, nor any men performing austerities.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सर्वत्रानपकारिषु हिंसा नेष्यते । आचार्यादीन् ह्य् अन्यापकारिणो ऽपि सतो न हिंस्यात् । प्रतिकूलाचरणं चाचार्यादीनां हिंसेत्य् उच्यते न वधः । तथा चोक्तम् "प्रतिरोद्धा गुरोश् चैव" (म्ध् ३.१५३) इत्यर्थः (इत्यादिना?) प्राप्तस्य प्रतिषेधः । तथा च भारते- प्रतिकूलाचरणम् एवार्जुनेन युधिष्ठिरस्य हन्ति (??) ।
 </details>

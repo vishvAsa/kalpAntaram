@@ -1,6 +1,5 @@
 +++
 title = "150 ब्राह्मस्य जन्मनः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -66,4 +65,10 @@ Teacher,—be he a child or of the same age as oneself,—as towards the Guru.�
 <details><summary>Bühler</summary>
 
 150	That Brahmana who is the giver of the birth for the sake of the Veda and the teacher of the prescribed duties becomes by law the father of an aged man, even though he himself be a child.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+न च जन्मतः (?) पिता । किं तर्हि । ब्रह्मदः पितेत्य् अस्मिन्न् अर्थे पुराकृतिर् उदाह्रियते ।
 </details>

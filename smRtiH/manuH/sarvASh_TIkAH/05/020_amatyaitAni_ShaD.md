@@ -1,6 +1,5 @@
 +++
 title = "020 अमत्यैतानि षड्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,10 @@ eating mushrooms, one should perform the *Sāntapana*; on eating substances cook
 <details><summary>Bühler</summary>
 
 020	He who unwittingly partakes of (any of) these six, shall perform a Samtapana (Krikkhra) or the lunar penance (Kandrayana) of ascetics; in case (he who has eaten) any other (kind of forbidden food) he shall fast for one day (and a night ).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+मतिपूर्वभक्षणं पातकं सुरापानप्रायश्चित्तं तत् सामान्याद् वक्ष्यति – "गर्हितान्नादयोर् जग्धिः सुरापानसमानि षट्" (म्ध् ११.५७) इति । भोज्यान्नं शूद्राद् भुञ्जतश् च ब्राह्मणस्याविज्ञातसंसर्गदोषशुद्ध्यर्थम् इदम् आह –
 </details>

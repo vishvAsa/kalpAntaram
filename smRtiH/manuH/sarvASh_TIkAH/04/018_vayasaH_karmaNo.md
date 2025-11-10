@@ -1,6 +1,5 @@
 +++
 title = "018 वयसः कर्मणो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -70,4 +69,10 @@ manner, in conformity with his age, intelligence, wealth, speech, dress, learnin
 <details><summary>Bühler</summary>
 
 018	Let him walk here (on earth), bringing his dress, speech, and thoughts to a conformity with his age, his occupation, his wealth, his sacred learning, and his race.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+येषां शुश्रूषाकल्पनादिर् वाक्परिहसनं नर्मकथा (?) बुद्धिर् धर्मार्थकामेषु प्रसक्तिः एते वेषवाग्बुद्धयः आचाराविरोधिन्यो लोकप्रसिद्ध्या वयआदीनां पुरुषधर्माणाम् आनुरूप्येणानुष्ठेया इति नियम उच्यते । शास्त्रेण च श्लोकस्य सर्वो ऽयं लोकव्यवहारो विषयः प्रसमीक्ष्य यथा योगं सर्वतः प्रयोक्तव्यः ।
 </details>

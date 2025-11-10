@@ -1,6 +1,5 @@
 +++
 title = "152 ते तम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ See Comparative notes for [Verse 2.150].
 <details><summary>Bühler</summary>
 
 152	They, moved with resentment, asked the gods concerning that matter, and the gods, having assembled, answered, 'The child has addressed you properly.'
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यस्माद् इयम् अत्र स्तुतिः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "107 क्षान्त्या शुध्यन्ति"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -43,4 +42,10 @@ in *Śuddhikaumudī* (p. 360).
 <details><summary>Bühler</summary>
 
 107	The learned are purified by a forgiving disposition, those who have committed forbidden actions by liberality, secret sinners by muttering (sacred texts), and those who best know the Veda by austerities.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रायश्चित्तप्रकरण एतद् दर्शयिष्यति । <u>अन्ये</u> तु पठन्ति "**क्षान्त्या शुध्यन्ति विद्वांसः**" इति ।
 </details>

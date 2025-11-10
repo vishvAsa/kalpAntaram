@@ -1,6 +1,5 @@
 +++
 title = "266 हविर् यच्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -73,4 +72,10 @@ Saindhava and Trapusa are commended at Śrāddha.’
 <details><summary>Bühler</summary>
 
 266	I will now fully declare what kind of sacrificial food, given to the manes according to the rule, will serve for a long time or for eternity.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उपन्यासार्थः श्लोकः ।
 </details>

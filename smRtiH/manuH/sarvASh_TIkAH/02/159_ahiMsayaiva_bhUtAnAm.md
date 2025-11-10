@@ -1,6 +1,5 @@
 +++
 title = "159 अहिंसयैव भूतानाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,10 @@ some fault, the Teacher should admonish him; and until the pupil desists, the fo
 <details><summary>Bühler</summary>
 
 159	Created beings must be instructed in (what concerns) their welfare without giving them pain, and sweet and gentle speech must be used by (a teacher) who desires (to abide by) the sacred law.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं चानुशासननियमाद् अस्माद् अस्ति धर्मः यथा – यो ऽस्माद् एव सर्वनियमः सर्वेभ्यः । एवं चेयं प्रकृतार्थस्तुतिः ।
 </details>

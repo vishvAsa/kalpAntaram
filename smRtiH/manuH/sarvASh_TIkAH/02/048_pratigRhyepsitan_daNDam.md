@@ -1,6 +1,5 @@
 +++
 title = "048 प्रतिगृह्येप्सितन् दण्डम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -70,4 +69,10 @@ evening.’
 <details><summary>Bühler</summary>
 
 048	Having taken a staff according to his choice, having worshipped the sun and walked round the fire, turning his right hand towards it, (the student) should beg alms according to the prescribed rule.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इदं भैक्षकरणम् उपनयनाङ्गं तत्प्रकरणात् भुक्तवतश् चोपनेयत्वान् न वृत्त्यर्थम् । अतः पक्वम् आमं वादायाचार्याय निवेदयेत् यथाविधि । एतद् उक्तं यतस् तद्विधिर् अय्म उच्यते ।
 </details>

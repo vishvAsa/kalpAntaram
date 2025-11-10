@@ -1,6 +1,5 @@
 +++
 title = "097 यथाशास्त्रन् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,10 @@ fullmoon day of Śrāvaṇa, one should not read at night, for one month.’
 <details><summary>Bühler</summary>
 
 097	Having performed the Utsarga outside (the village), as the Institutes (of the sacred law) prescribe, he shall stop reading during two days and the intervening night, or during that day (of the Utsarga) and (the following) night.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उभयत्राहः पक्षापक्षिणी अहोरात्रं च (?) ।
 </details>

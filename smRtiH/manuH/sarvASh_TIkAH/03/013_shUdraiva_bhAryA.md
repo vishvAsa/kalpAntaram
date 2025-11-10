@@ -1,6 +1,5 @@
 +++
 title = "013 शूद्रैव भार्या"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -53,4 +52,10 @@ See Comparative notes for [Verse 3.12].
 <details><summary>Bühler</summary>
 
 013	It is declared that a Sudra woman alone (can be) the wife of a Sudra, she and one of his own caste (the wives) of a Vaisya, those two and one of his own caste (the wives) of a Kshatriya, those three and one of his own caste (the wives) of a Brahmana.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कथं पुनर् अयं श्लोकः क्रमविधिस्तुत्यै भवति येनासवर्णा सवर्णया समानी करोति तथा च सङ्ख्यानिर्देशः । "**ताश् च स्वा चाग्रजन्मनः**" इत्य् एवमाद्या एवं च दृष्टान्तार्थं शूद्रेपादानम् । **शूदैव भार्या शूद्रस्य** यथा तथा द्विजातीनाम् अप्य् एता यथोक्ता भवन्ति एवं सवर्णासामेनेतरास्तुता भवन्ति । एवं च स्वार्थं प्रवृत्ताव् अप्रत्यवायः निवृत्तौ वाभ्युदयः । "निवृत्तिस् तु महाफला" (म्ध् ५.५६) इति वचनात् । प्रथमकल्पासम्भवे चानुकल्प इदानीम्म् भार्याग्रहणस्योच्यते ।
 </details>

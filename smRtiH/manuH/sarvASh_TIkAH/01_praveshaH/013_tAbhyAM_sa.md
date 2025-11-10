@@ -1,6 +1,5 @@
 +++
 title = "013 ताभ्यां स"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -27,4 +26,10 @@ Out of those two pieces (of the egg) he formed Heaven and Earth, and, between th
 <details><summary>Bühler</summary>
 
 013	And out of those two halves he formed heaven and earth, between them the middle sphere, the eight points of the horizon, and the eternal abode of the waters.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+जगदाधारसमुद्रं पृथिव्याभूतं वा सप्तधा निविष्टं महदादिस् तत्त्वसृष्टौ च सत्यां महाभूताण्डसृष्टिर् न च महदादितत्त्वसर्ग उक्तो यतस् तद्विवक्षयेदम् आरभ्यते । पूर्वम् एव च महाभूताण्डस्वशरीरसर्गात् ।
 </details>

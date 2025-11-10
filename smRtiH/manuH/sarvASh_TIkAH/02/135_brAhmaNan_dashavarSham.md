@@ -1,6 +1,5 @@
 +++
 title = "135 ब्राह्मणन् दशवर्षम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,10 @@ Brāhmaṇa, ten years old, should he regarded as father and son; of the two, th
 <details><summary>Bühler</summary>
 
 135	Know that a Brahmana of ten years and Kshatriya of a hundred years stand to each other in the relation of father and son; but between those two the Brahmana is the father.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पित्रादिषु (?) जाते ऽनुक्तत्वात् तस्य मान्यस्थानतोच्यते । एवं क्षत्रियादिष्व् अपि च द्रष्टव्यम् । वयश् च जातेः प्राधान्यवचनाद् वित्तबन्धुभ्याम् अपि तस्याः प्राधान्यम् अनुनीयते । कर्मविद्याभ्यां न जातेः प्राधान्यम् । एवं च पूर्वश्लोकः समानजातिष्व् एव द्रष्टव्यः । अतश् च तच्छेषत्वाद् उवयुत्य (भयस्य?) वित्तादिभ्यो जतेर् इहाभिधानं न तज्जातिर् एव मान्यस्थानम् । इमानि च –
 </details>

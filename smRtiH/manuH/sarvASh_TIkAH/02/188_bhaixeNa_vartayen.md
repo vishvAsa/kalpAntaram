@@ -1,6 +1,5 @@
 +++
 title = "188 भैक्षेण वर्तयेन्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -77,4 +76,10 @@ times of distress, habitually eat food given by a single person; at a Śrāddha 
 <details><summary>Bühler</summary>
 
 188	He who performs the vow (of studentship) shall constantly subsist on alms, (but) not eat the food of one (person only); the subsistence of a student on begged food is declared to be equal (in merit) to fasting.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अत्रोच्यते । "भैक्षं चाहर् अहश् चरेत्" (म्ध् २.१८२) इति भैक्षं न वृत्तेः सिद्धत्वात् । नन्व् इदम् अनारभ्यम् । नियमार्थस् त्व् आरम्भः । कथम् । विद्यमानान्नस्यापि ब्रह्मचारिणो भैक्षेणैव वृत्तिर् यथा स्यात् । आरम्भः प्रतिग्रहादिषु इति यः शास्त्रस्यासम्भवे सति नियमस्याविद्यमानत्वाद् अथाभावः अर्थवादार्थं वा पुनः श्रुतिः- "**भैक्षेण व्रतिनो वृत्तिर् उपवाससमा स्मृता**" इति । भैक्षवृत्त्युपसंहारार्थो **[९५]** वायम् अग्नीन्धनाद् वा भैक्षस्य गुरुत्वज्ञापनार्थः पुनर् आरम्भः । प्रतिषिद्धैकान्नादनप्रतिप्रस्वार्थसमं वेदं पुनर् अभिधानम् । तथा च रभे (?) ।
 </details>

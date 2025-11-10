@@ -1,6 +1,5 @@
 +++
 title = "015 हीनजाति-स्त्रियम् मोहाद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ See Comparative notes for [Verse 3.13].
 <details><summary>Bühler</summary>
 
 015	Twice-born men who, in their folly, wed wives of the low (Sudra) caste, soon degrade their families and their children to the state of Sudras.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अनन्तरप्रतिषेधशेषो (?) ऽयं निन्दार्थवादः । क्रमभेदशेषो वा । शूद्रायाम् अत्यन्तप्रतिषेधः । तथा च गृह्यकारः- "शूद्राम् एके मन्त्रवर्जम्" इत्य् उचाव । द्विजातिग्रहणसामर्थ्यात् **[१११]** सर्वेषाम् एव निवृत्तिर् इष्यते न ब्राह्मणक्षत्रिययोर् एव श्रुतत्वाद् धेतोः । तथा च व्याख्यातम् । एवं च –
 </details>

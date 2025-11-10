@@ -1,6 +1,5 @@
 +++
 title = "201 परकीयनिपानेषु न"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -53,4 +52,10 @@ and wells built by others; the builder becomes a partaker in the merit: one shou
 <details><summary>Bühler</summary>
 
 201	Let him never bathe in tanks belonging to other men; if he bathes (in such a one), he is tainted by a portion of the guilt of him who made the tank.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+निपीयते (?) ऽस्मिन्नापान इति **निपानं** पुष्करिण्यादि । तस्मिन् **परकीये न स्नायात् कदाचनेति** कदापीत्य् अर्थः । दृष्टार्थम् अप्य् आत्मनो मृजायै (?) चण्डालादिस्पृष्टो न तच्छुद्दये किं पुनर् धर्माय यो नात्र स्नातकस् तत्**कर्तुर् दोषांशेन लिपयते** । अत्र्**आंश**शब्दश् चतुर्भागवचन उत्तरत्र तृतीयश्रवणाद् इति <u>केचित्</u> । तद् <u>अयुक्तम्</u>, अर्थवादत्वाद् अस्य । एवं च सत्य् अविवक्षितम् अत्र चतुर्थांशत्वम् । प्रत्यवायस् तु शास्त्रव्यतिक्रमकारिणः प्रतीयते । अत्र दृष्टान्तं वक्ति ।
 </details>

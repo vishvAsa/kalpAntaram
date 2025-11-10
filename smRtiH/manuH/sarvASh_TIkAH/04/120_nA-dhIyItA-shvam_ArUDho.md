@@ -1,6 +1,5 @@
 +++
 title = "120 नाऽधीयीताऽश्वम् आरूढो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,10 @@ boat,—while seated on these, or on a barren plot of land,...... these are occa
 <details><summary>Bühler</summary>
 
 120	Let him not recite the Veda on horseback, nor on a tree, nor on an elephant, nor in a boat (or ship), nor on a donkey, nor on camel, nor standing on barren ground, nor riding in a carriage,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अश्वादियानोपदेशात् तेभ्यो ऽन्यद् यानं गन्त्र्याद्य् उपदिश्यते सामर्थ्यात् ।
 </details>

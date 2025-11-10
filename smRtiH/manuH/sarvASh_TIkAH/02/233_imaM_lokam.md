@@ -1,6 +1,5 @@
 +++
 title = "233 इमं लोकम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -52,4 +51,10 @@ be Śiva.’
 <details><summary>Bühler</summary>
 
 233	By honouring his mother he gains this (nether) world, by honouring his father the middle sphere, but by obedience to his teacher the world of Brahman.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं च श्रद्दधानस्य (?) ।
 </details>

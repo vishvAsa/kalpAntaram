@@ -1,6 +1,5 @@
 +++
 title = "198 न धर्मस्याऽपदेशेन"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ See Comparative notes for [Verse 4.195].
 <details><summary>Bühler</summary>
 
 198	When he has committed a sin, let him not perform a penance under the pretence (that the act is intended to gain) spiritual merit, (thus) hiding his sin under (the pretext of) a vow and deceiving women and Sudras.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यस्मात्
 </details>

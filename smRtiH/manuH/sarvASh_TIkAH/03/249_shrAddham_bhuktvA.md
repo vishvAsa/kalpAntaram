@@ -1,6 +1,5 @@
 +++
 title = "249 श्राद्धम् भुक्त्वा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ jāyate*’ for ‘*kālasūtramavākśirāḥ*.’\]
 <details><summary>Bühler</summary>
 
 249	The foolish man who, after having eaten a Sraddha (-dinner), gives the leavings to a Sudra, falls headlong into the Kalasutra hell.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विशेषप्रतिषेधो ऽयम् ।
 </details>

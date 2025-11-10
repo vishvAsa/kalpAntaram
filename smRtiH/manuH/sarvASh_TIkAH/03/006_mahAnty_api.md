@@ -1,6 +1,5 @@
 +++
 title = "006 महान्त्य् अपि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -64,4 +63,10 @@ for sacrificial performances; and one in which the Veda is unknown is to be avoi
 <details><summary>Bühler</summary>
 
 006	In connecting himself with a wife, let him carefully avoid the ten following families, be they ever so great, or rich in kine, horses, sheep, grain, or (other) property,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पर्युपसर्गपाठसामर्थ्याच् च न केवलं **स्त्रीसम्बन्धे**, भोजनादिष्व् अपि वर्जयेद् इति । तानि पुनः।
 </details>

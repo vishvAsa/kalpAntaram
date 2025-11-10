@@ -1,6 +1,5 @@
 +++
 title = "242 खञ्जो वा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -41,4 +40,10 @@ not look at the Śrāddha.’
 <details><summary>Bühler</summary>
 
 242	If a lame man, a one-eyed man, one deficient in a limb, or one with a redundant limb, be even the servant of the performer (of the Sraddha), he must be removed from that place (where the Sraddha is held).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**खञ्जादयः** शूद्रा वेदितव्याः शास्त्रारम्भसामर्थ्यात् । प्रेष्याश् चाप्रेष्याश् च ।
 </details>

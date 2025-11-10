@@ -1,6 +1,5 @@
 +++
 title = "109 उदके मध्यरात्रे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -72,4 +71,10 @@ meteors, on earthquake, at fiery portents, at the junction of two seasons,—the
 <details><summary>Bühler</summary>
 
 109	In water, during the middle part of the night, while he voids excrements, or is impure, and after he has partaken of a funeral dinner, a man must not even think in his heart (of the sacred texts).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अशूद्राणाम् अपि । [एद्. अत्र ग्रन्थपात इव] वृषलश् च व्याख्यातः पूर्वत्र । **उदके मध्यरात्रौ** **च** विसर्जयन्न् **उच्छिष्टः** (?) **श्राद्धं** भुक्त्वैव **मनसापि न चिन्तयेत्** । अविकल्पार्थम् इदम् आदरवचनम् । न त्व् अनेनान्येष्व् अनध्यायेषु मनोवृत्त्याध्ययनम् अनुज्ञायते ।
 </details>

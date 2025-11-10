@@ -1,6 +1,5 @@
 +++
 title = "175 सेवेतेमांस् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -103,4 +102,10 @@ attend diligently on his Teacher; the same conduct has to be observed by him tow
 <details><summary>Bühler</summary>
 
 175	But a student who resides with his teacher must observe the following restrictive rules, duly controlling all his organs, in order to increase his spiritual merit.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**नियम**ग्रहण(ं)? प्रदर्शनार्थम् । तथा च तान् अपि वक्ष्यति । नियमास् तावद् इमे तस्य भवन्ति ।
 </details>

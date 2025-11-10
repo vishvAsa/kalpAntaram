@@ -1,6 +1,5 @@
 +++
 title = "246 उच्छेषणाम् भूमिगतम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ scattered, as also the smearings and water,—should be offered as food for thos
 <details><summary>Bühler</summary>
 
 246	They declare the fragments which have fallen on the ground at a (Sraddha) to the manes, to be the share of honest, dutiful servants.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ऋज्वर्थास् त्रयः श्लोकाः । "**दर्भेषु विकिरञ् च यः**" इति । न च नादर्भेष्व् एव वासो देय इति गम्यते, न भूमौ । इतरथा हि दर्भग्रहणम् अर्थकरं स्यात् । एवं तावत् सपित्रोर्ध्वम् (?) । इदं चान्यत् –
 </details>

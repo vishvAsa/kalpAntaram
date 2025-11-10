@@ -1,6 +1,5 @@
 +++
 title = "234 सर्वे तस्यादृता"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 336) along with verse 
 <details><summary>Bühler</summary>
 
 234	All duties have been fulfilled by him who honours those three; but to him who honours them not, all rites remain fruitless.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अन्यक्रिया नैष्फल्याभिधानम् इदं विधिस्तुत्यर्थम् उपदेशसामर्थाद् इत्य् उक्तम् । तथा च ।
 </details>

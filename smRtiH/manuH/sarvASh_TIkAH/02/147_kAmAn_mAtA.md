@@ -1,6 +1,5 @@
 +++
 title = "147 कामान् माता"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -40,4 +39,10 @@ his imparting the Veda.’—‘Therefore the learned expounder of the Veda is n
 <details><summary>Bühler</summary>
 
 147	Let him consider that (he received) a (mere animal) existence, when his parents begat him through mutual affection, and when he was born from the womb (of his mother).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इयं यया (?) मातापितृनिन्दयाचार्यस्तुतिः प्रकरणसामर्थ्याद् वेदितव्या इयं चा [१ अक्ष् उन्च्लेअर्] अव्यवहिता (?) ।
 </details>

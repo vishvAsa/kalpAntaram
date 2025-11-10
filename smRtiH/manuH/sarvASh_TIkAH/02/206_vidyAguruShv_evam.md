@@ -1,6 +1,5 @@
 +++
 title = "206 विद्यागुरुष्व् एवम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,10 @@ prevents him from doing wrong, the sub-teacher, the paternal uncle, the maternal
 <details><summary>Bühler</summary>
 
 206	This is likewise (ordained as) his constant behaviour towards (other) instructors in science, towards his relatives (to whom honour is due), towards all who may restrain him from sin, or may give him salutary advice.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+दृष्ट्वा **स्वयोनिषु** ज्ञातिषु पित्रादिषु चानित्या **वृत्तिः** स्वाभाविकी विद्याप्रदानम् अन्तरेणापि स्यात् । सन्निकर्षविप्रकर्षपिक्षया (?) च वृत्तिविशेषणस् तेषु परिकल्प्यः । "**हितं चोपदिशत्स्व् अपि**" इति दृष्टार्थविषयसम्बन्धेन वेद्यविषयम् एतत् ।
 </details>

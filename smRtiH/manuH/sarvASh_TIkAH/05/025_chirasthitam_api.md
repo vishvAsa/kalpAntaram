@@ -1,6 +1,5 @@
 +++
 title = "025 चिरस्थितम् अपि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -41,4 +40,10 @@ See Comparative notes for [Verse 5.24].
 <details><summary>Bühler</summary>
 
 025	But all preparations of barley and wheat, as well as preparations of milk, may be eaten by twice-born men without being mixed with fatty (substances), though they may have stood for a long time.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+चिरं पर्युषितान्नम् अपि **यवगोधूमयोर्** विकाराणाम् **अस्नेहाक्तानाम्** अयं भक्षणप्रतिप्रसवः । पूर्वेणाप्राप्तत्वाद् आरभ्यते ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "030 नामधेयन् दशम्याम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -128,4 +127,10 @@ As regards the ‘*puṇya tithi, muhūrta* and *nakṣatra*’ the reader is re
 <details><summary>Bühler</summary>
 
 030	But let (the father perform or) cause to be performed the Namadheya (the rite of naming the child), on the tenth or twelfth (day after birth), or on a lucky lunar day, in a lucky muhurta, under an auspicious constellation.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+स्वार्थे **धेय**प्रत्ययः । एवं च नामैव **नामधेयम्** । प्रकृतस्य कुमारस्य **कारयेत्** । पितुर् अयम् उपदेशः । यो वा यत्रेष्टे । कस्मिन् काले । **दशम्याम्** । जन्माधिकार उच्यते । त(त) ? एव प्रभृति दशमी द्रष्टव्या । न चन्द्रतिथिः, सामर्थ्यात् । एतेन **द्वादशी** व्याख्याता । प्**उण्य**शब्द उभयविशेषणः । पुण्ययोस् तिथिमुहूर्तयोः समुच्चयश् चात्र, न विकल्पः । नक्षत्रगुणान्वयस्तुतचन्द्रताराबलं च गृह्यते । एवं च सति **दशम्यां तिथौ** ग्रहविष्कम्भव्यतीपातवैधृततारचन्द्रदोषोपहतायां **द्वादश्यां** च दोषवर्जितायाम् असम्भव**नामधेयं** तिथ्यादिगुणापेक्षयोत्तरस्मिन् स्वकाले वैकल्पिकम्, सामर्थ्यात् तद् भवेत् । पुनः,
 </details>

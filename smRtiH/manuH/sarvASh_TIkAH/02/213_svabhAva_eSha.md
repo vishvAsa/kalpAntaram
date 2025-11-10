@@ -1,6 +1,5 @@
 +++
 title = "213 स्वभाव एष"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -53,4 +52,10 @@ wise men do not become too much. attached to women.’
 <details><summary>Bühler</summary>
 
 213	It is the nature of women to seduce men in this (world); for that reason the wise are never unguarded in (the company of) females.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+तत्प्रयत्नपूर्वकव्यापारो विन्यस्य संयतात्मनो व्यभिचारो मा भूद् इत्य् अयम् उपदेशः । येन कारेणेन ।
 </details>

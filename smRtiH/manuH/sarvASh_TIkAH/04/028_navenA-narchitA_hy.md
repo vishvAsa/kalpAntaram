@@ -1,6 +1,5 @@
 +++
 title = "028 नवेनाऽनर्चिता ह्य्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -25,4 +24,10 @@ By pointing out the evils arising from the omission of the said rites, the text 
 <details><summary>Bühler</summary>
 
 028	For his fires, not being worshipped by offerings of new grain and of an animal, seek to devour his vital spirits, (because they are) greedy for new grain and flesh.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इदम् अप्य् अनेनानौपासनयैव परिप्रापणीयम् इति स्तुतिपरम् एतद् उपदेशपरं वेत्य् एतद् उक्तम् । अन्ये तु "अग्निहोत्रं च जुहुयात्" (म्ध् ४.२५) इत्येवमादिम(?) श्लोकानाम् अर्थम् आहुः । अग्निहोत्रादीनां श्रुतौ नित्यत्वस्य प्रत्यक्षतो ऽनुप्रवेशाद् इह मानुस(?)नवान्नादनेन सह चतुर्भिः श्लोकैर् **[१६८]** नित्यतैषाम् उच्यते । तत् त्व् एतं न्याय्यम् अन्याय्यम् एवेति विचारणीयम् । महायज्ञप्रसङ्गेन नृयज्ञस्य शेषवक्तव्यतयेदम् आरभ्यते ।
 </details>

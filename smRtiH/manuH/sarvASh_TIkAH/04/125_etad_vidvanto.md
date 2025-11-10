@@ -1,6 +1,5 @@
 +++
 title = "125 एतद् विद्वन्तो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -31,4 +30,10 @@ Though this matter has already been asserted in Discourse II, yet it is repeated
 <details><summary>Bühler</summary>
 
 125	Knowing this, the learned daily repeat first in due order the essence of the three (Vedas) and afterwards the (text of the) Veda.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**एतद्** एव पितृमनुष्यात्मकत्वन्तर्या (?) एवं **विदित्वा त्रयीनिष्कर्षं** प्रणवव्याहृतिसावित्र्याख्यम् **अन्वहं** **क्रमशः पूर्वं** वेदाध्ययनं त्रिर् **अभ्यस्य** ततो यं कञ्चिद् **वेदम् अधीयते** । विद्यासंशयकारणम् एवाधिक्रियमाणे देवपितृमानुष्यात्मकं ब्रह्मलोकत्रयावजयाय (?) तस्याध्ययनेनैवं गुणवतः कल्पितं भवति । अन्या सम्पादशिष्यवौ (?) । आचार्यप्रकरणे एवायम् अर्थो वक्तव्यः सन्न् अर्थवादोपजिजीविषया पूर्वस्य प्रतिषेधो ऽपीहोक्त इति ।
 </details>

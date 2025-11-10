@@ -1,6 +1,5 @@
 +++
 title = "163 सुखं ह्य्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,10 @@ See Comparative notes for [Verse 2.162].
 <details><summary>Bühler</summary>
 
 163	For he who is scorned (nevertheless may) sleep with an easy mind, awake with an easy mind, and with an easy mind walk here among men; but the scorner utterly perishes.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अध्यापयितुश् चित्तसङ्क्षोभहेतूपगमनार्थं श्लोकद्वयम् । जातिधर्मो वायम् अन्यप्रकरणोपदिष्त इहाध्यापयितुर् अध्याप्यब्रह्मचारिप्रशंसयाभिहितो (?) विज्ञेयो नापूर्वविध्यर्थः । किमर्थो ऽयं ब्रह्मचारिण इयान् यमनियमकथादेश उच्यते । कथम् । नामधेयम् ।
 </details>

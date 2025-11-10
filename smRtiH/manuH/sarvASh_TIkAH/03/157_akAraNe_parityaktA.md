@@ -1,6 +1,5 @@
 +++
 title = "157 अकारणे परित्यक्ता"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -83,4 +82,10 @@ See Comparative notes for [Verse 3.150].
 <details><summary>Bühler</summary>
 
 157	He who forsakes his mother, his father, or a teacher without a (sufficient) reason, he who has contracted an alliance with outcasts either through the Veda or through a marriage,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+मात्रादीनां परित्यागे कारणं वक्ष्यति । तेन विना यस् तेषां परित्यक्ता स चाभोजनीयः । ऋज्व् अन्यत् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "223 नाऽद्याच् छूद्रस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -97,4 +96,10 @@ strength and vigour.’
 <details><summary>Bühler</summary>
 
 223	A Brahmana who knows (the law) must not eat cooked food (given) by a Sudra who performs no Sraddhas; but, on failure of (other) means of subsistence, he may accept raw (grain), sufficient for one night (and day).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+श्राद्धग्रहणम् अत्र सत्यवचनादीनां सर्वत्र शूद्रधर्माणां प्रदर्शनार्थं सामर्थ्यात् गम्यते । येन नान्यधर्मपरिवर्जितस्य शूद्रस्य श्राद्धम् एकभोज्यान्नतां कर्तुम् उत्सहते यतस् तद्ग्रहणं सच्छूद्रोपलक्षणार्थम् एवं विज्ञेयम् इतरस्माद् असच्छूद्राद् आगमम् एवाददीत न पक्वान्नम् एकरात्रिकम् एव च तन् न बाह्यवृतौ च न विद्यमानस्य बलाबलपरीक्षा प्रति केनाधुनेदं (?) श्रद्दास्तुत्यर्थम् आह –
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "183 वेद-यज्ञैर् अहीनानाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -77,4 +76,10 @@ from the right sources, he may heg from all the four castes.’
 <details><summary>Bühler</summary>
 
 183	A student, being pure, shall daily bring food from the houses of men who are not deficient in (the knowledge of) the Veda and in (performing) sacrifices, and who are famous for (following their lawful) occupations.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**प्रयतश्** चित्तवाक्चक्षुर्भिः । अयं भैक्षचरणस्य द्विजातिभ्य आद्यः कल्पः । तस्य विशेषणम् ।
 </details>

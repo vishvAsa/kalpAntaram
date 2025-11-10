@@ -1,6 +1,5 @@
 +++
 title = "053 उपस्पृश्य द्विजो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -127,4 +126,10 @@ without any mantra.’
 <details><summary>Bühler</summary>
 
 053	Let a twice-born man always eat his food with concentrated mind, after performing an ablution; and after he has eaten, let him duly cleanse himself with water and sprinkle the cavities (of his head).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**द्विज**ग्रहणं प्रकृतत्वात् तेषाम् अनुवादः पादपूरणार्थः । **नित्य**ग्रहणं सर्वावस्थानुगतजातिधर्मं दर्शयति । <u>अपरे</u> पुनर् **द्विज**ग्रहणस्येदं प्रयोजनम् आहुर् **नित्य**ग्रहणं चादरार्थं कल्पयन्ति । <u>अन्ये</u> पुनर् इदम् अनर्थकं समाहितग्रहणम्, भुञ्जानस्य चेन्द्रियसंयमं (?) दर्शयति । क्रोधाद्यसत्पुरुषधर्मत्यागं (?) वा । तथा चास्याश्नतः प्रसादो ऽयं विधीयते ।
 </details>

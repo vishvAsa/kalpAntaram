@@ -1,6 +1,5 @@
 +++
 title = "019 बुद्धि-वृद्धि-कराण्य् आशु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -69,4 +68,10 @@ even after settling down in the house, the man shall reside for two months in th
 <details><summary>Bühler</summary>
 
 019	Let him daily pore over those Institutes of science which soon give increase of wisdom, those which teach the acquisition of wealth, those which are beneficial (for other worldly concerns), and likewise over the Nigamas which explain the Veda.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**शास्त्राण्य्** अङ्गानि गृह्यन्ते । वेदशास्त्राविरोधीनि च । तदुपसर्जनानि न्यायशास्त्राणि । **निगमास्** तु प्रसिद्धा एवानवगतशब्दार्थपर्यायोपदेशार्थाः । अथ वा निगम्यत एभिर् वेदार्थ इति निगमाः तदङ्गानि शास्त्राणि न त्व् अङ्गव्यतिरिक्तानि वेदशेषाण्य् एव गृह्यन्ते न्यायशास्त्रादीनि ।
 </details>

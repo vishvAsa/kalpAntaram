@@ -1,6 +1,5 @@
 +++
 title = "108 वैश्वदेवे तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ either *Vrīhi* or *Yava* cooked for him.’
 <details><summary>Bühler</summary>
 
 108	But if another guest comes after the Vaisvadeva offering has been finished, (the householder) must give him food according to his ability, (but) not repeat the Bali offering.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं च बलिहरणं वैश्वदेवाख्यं न पाकसंस्काराः । किं तर्हि । आत्मसंस्कारार्थः । इतरथा हि प्रतिवादे कम् आवर्तेत (?) शास्त्रप्राप्तस्य प्रतिषेधः । अधुना भोजनप्रतिग्रहार्थम् अतिथेः स्वगुणसङ्कीर्तनम् अस्य निवार्यते ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "124 ऋग्वेदो देव-दैवत्यो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 534), which adds that 
 <details><summary>Bühler</summary>
 
 124	The Rig-veda is declared to be sacred to the gods, the Yagur-veda sacred to men, and the Sama-veda sacred to the manes; hence the sound of the latter is impure (as it were).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अर्थवादेभ्यः केनचित् सामान्येनेदम् उच्यते । तुल्यबलानां विरोधः । यतो ऽत्र स्मृतिः श्रुत्या बाध्यते, बलीयस्त्वाच् छ्रुतेः । इत्य् एवं च सति –
 </details>

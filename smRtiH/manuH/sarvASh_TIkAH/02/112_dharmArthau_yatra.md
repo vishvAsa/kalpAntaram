@@ -1,6 +1,5 @@
 +++
 title = "112 धर्मार्थौ यत्र"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -63,4 +62,14 @@ wealth, nor desire to serve nor clxance of riches,—there one may perish along 
 <details><summary>Bühler</summary>
 
 112	Where merit and wealth are not (obtained by teaching) nor (at least) due obedience, in such (soil) sacred knowledge must not be sown, just as good seed (must) not (be thrown) on barren land.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+न चायं भृतकाध्यापकः इयद् इयतेति भृतेः प्रसिद्धश्लोके (३.१५६?) । एवं च सत्य् उत्पाद्याध्यापको भृतकाध्यापको विज्ञेयः उपदेशसामर्थ्यात् । अन्यथा हि शुश्रूषोर् अर्थदस्य चाध्यापनेनैवोपदिशेत् विप्रतिषेधभयात् । तथा च नास्यतः (?) गुर्वर्थं वक्ष्यति । विध्यर्थं चाध्यापनम् । 
+
+> षण्णां तु कर्मणाम् अस्य त्रीणि कर्माणि जीविकाः । (म्ध् १०.७६)
+
+इति । एवं चानेनाध्यापकेन नाभावो (?)
 </details>

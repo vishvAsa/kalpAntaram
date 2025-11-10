@@ -1,6 +1,5 @@
 +++
 title = "214 पिशुनानृतिनोश् चाऽन्नम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -55,4 +54,16 @@ sacrifice-seller.’
 <details><summary>Bühler</summary>
 
 214	Nor the food (given) by an informer, by one who habitually tells falsehoods, or by one who sells (the rewards for) sacrifices, nor the food (given) by an actor, a tailor, or an ungrateful (man),
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**शैलूषो** ऽनर्थप्रयोगदर्शनाद् भारते- "शौलूष इव राजन्" इति । एवं च सति ब्राह्मणादयो ऽपि तत्कर्माणः तथोच्यन्ते गुणतः । भार्यापण्यम् <u>अपरे</u> **शैलूषम्** आचक्षते ।
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सर्व एते तत्कर्माणस् तच्छब्दैर् ब्राह्मणादय एवं सन्तः प्रतिषिध्यन्ते, प्राप्तप्रतिषेधसामर्थ्यात् । पूर्वत्र रङ्गोपरक्तो ऽपि **शौलूष**कर्मा तच्छब्देनोक्तः । इह पुनर् असौ पुरुषो ऽपि रङ्गावतारकर्मा निन्द्यते यायकश् च । नर्तकः पूर्वम् उक्तः । इह पुनर् नर्तकादिर् गृह्यते ।
 </details>

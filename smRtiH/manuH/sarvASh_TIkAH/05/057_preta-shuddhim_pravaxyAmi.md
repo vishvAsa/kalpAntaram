@@ -1,6 +1,5 @@
 +++
 title = "057 प्रेत-शुद्धिम् प्रवक्ष्यामि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -37,4 +36,10 @@ line reading as ‘*Nāradaḥ prāha dharmātmā niyatam sovasīdati* under 14;
 <details><summary>Bühler</summary>
 
 057	I will now in due order explain the purification for the dead and the purification of things as they are prescribed for the four castes (varna).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+"**एतद् उक्तं द्विजातीनां भक्ष्याभक्ष्यम् अशेषतः**" (म्ध् ५.२६) इत्य् एतस्मात् पूर्वोक्ताद् अभक्ष्यप्रकरणोपसंहारान् मांसप्रकरणे यद्य् अपि सर्ववर्णाधिकारस् तथापीदं पुनर् वचनम् आदरार्थं "**चतुर्णाम् अपि वर्णानाम्**" इति । तथा च प्रदर्शयिष्यत्य् आदरम् । अधुना यथानिर्देशं प्रतिशुद्धिम् एव ब्रूमः ।
 </details>

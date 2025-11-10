@@ -1,6 +1,5 @@
 +++
 title = "127 ब्राह्मणङ् कुशलम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,10 @@ salutation has been returned;—in *Saṃskāramayūkha* (p. 47);—and in
 <details><summary>Bühler</summary>
 
 127	Let him ask a Brahmana, on meeting him, after (his health, with the word) kusala, a Kshatriya (with the word) anamaya, a Vaisya (with the word) kshema, and a Sudra (with the word) anarogya.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कथं पुनर् एतद् गम्यते अभिवादननियमो ऽयं नाभिवादयितुर् इति । प्रत्यभिवादप्रकरणोपदेशसामर्थ्याद् अयं तदभिव्याहारः प्रतीयते । अभिवादननियमश् चायम् । अन्यथा हि पौनरुक्त्याद् अवचनीयम् एतत् स्यात् (?) नियमाभावाच् च शास्त्रं [अप्रमाणम्?] प्रसज्येत । समागम्येति सर्वशेषः । अथ वा श्रेयःसु पूर्वो विधिः समानेषु त्व् अयम् उच्यते "**ब्राह्मणं कुशलं पृच्छेत्**" इत्येवमादि । **समागम्येति** च लिङ्गाद् अयम् अर्थः प्रतीयते । सम्भाषणनियमप्रसङ्गाद् इदम् अन्यत् उच्यते ।
 </details>

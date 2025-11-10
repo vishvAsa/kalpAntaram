@@ -1,6 +1,5 @@
 +++
 title = "089 वृथा-सङ्कर-जातानाम् प्रव्रज्यासु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -208,4 +207,10 @@ and such things, for him impurity shall be observed and water-offerings made.’
 <details><summary>Bühler</summary>
 
 089	Libations of water shall not be offered to those who (neglect the prescribed rites and may be said to) have been born in vain, to those born in consequence of an illegal mixture of the castes, to those who are ascetics (of heretical sects), and to those who have committed suicide,
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+वृथा जातो यो न देवान् अर्चति न पितॄन् न मनुष्यान् । नियुक्ताः सुतादयः शास्त्रप्रतिषेधात् । **[२३६]** सङ्करजातानां प्रव्रज्या । सा च शास्त्रलक्षणा । व्यतिक्रमसाहचर्याद् विषादिभिर् आत्मत्यागिनां च निवर्तेतोदकदानात् । शास्त्रप्राप्तस्यायं प्रतिषेधः । आशौचम् अपि चोदकवत् सामर्थ्याद् एवम् एव विज्ञेयम् ।
 </details>

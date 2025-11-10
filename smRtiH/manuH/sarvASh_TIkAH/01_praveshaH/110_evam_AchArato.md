@@ -1,6 +1,5 @@
 +++
 title = "110 एवम् आचारतो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -28,4 +27,10 @@ results.—‘*Having seen that virtue is got at*,’—acquired—‘*from Righ
 <details><summary>Bühler</summary>
 
 110	The sages who saw that the sacred law is thus grounded on the rule of conduct, have taken good conduct to be the most excellent root of all austerity.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उत्तरत्राचारस्तुतिस् तद्विध्यनुष्ठान् (?) प्ररोचनार्था । इह तु शास्त्रस्तुत्यर्थत्वेन उक्तानुवादः प्रकरणसामर्थाद् विज्ञेयम्(यः) । एवम् इमां ब्राह्मणस्तुतिद्वारेण व्यवहितां शास्त्रस्तुतिम् उक्त्वा साक्षाच् चेदानीम् अनुक्रमणीस् तत्स्तु(त्य)र्थम् एवारभते —
 </details>

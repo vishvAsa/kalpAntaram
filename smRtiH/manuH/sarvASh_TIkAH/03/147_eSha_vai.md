@@ -1,6 +1,5 @@
 +++
 title = "147 एष वै"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ not available;—in *Madanapārijāta* (p. 558), along with the next verse;—in
 <details><summary>Bühler</summary>
 
 147	This is the chief rule (to be followed) in offering sacrifices to the gods and manes; know that the virtuous always observe the following subsidiary rule.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**अनुकल्पो** वक्ष्यमाणः । अनुकल्पे विचारयन् प्रशस्त एव यस्मात् **सदा सद्भिर् अनुष्ठितः** । सो ऽयम् उच्यते ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "066 रात्रिभिर् मास-तुल्याभिर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -76,4 +75,10 @@ is called “*Srāva*,” *Flowing out*; during the fifth and sixth months, it i
 <details><summary>Bühler</summary>
 
 066	(A woman) is purified on a miscarriage in as many (days and) nights as months (elapsed after conception), and a menstruating female becomes pure by bathing after the menstrual secretion has ceased (to flow).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+निगदव्याख्यातः श्लोकः ।
 </details>

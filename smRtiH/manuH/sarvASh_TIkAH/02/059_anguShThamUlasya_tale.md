@@ -1,6 +1,5 @@
 +++
 title = "059 अङ्गुष्ठमूलस्य तले"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -74,4 +73,10 @@ See Comparative notes for [Verse 2.58].
 <details><summary>Bühler</summary>
 
 059	They call (the part) at the root of the thumb the tirtha sacred to Brahman, that at the root of the (little) finger (the tirtha) sacred to Ka (Pragapati), (that) at the tips (of the fingers, the tirtha) sacred to the gods, and that below (between the index and the thumb, the tirtha) sacred to the manes.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+आचमनार्थं तीर्थलक्षणोपदेशो ऽयम् । एवं चानेन निमित्ते सति ।
 </details>

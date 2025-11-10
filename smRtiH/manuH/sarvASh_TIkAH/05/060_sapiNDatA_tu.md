@@ -1,6 +1,5 @@
 +++
 title = "060 सपिण्डता तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -210,4 +209,10 @@ seventh degree, in the case of their being all of the same caste; in the ease of
 <details><summary>Bühler</summary>
 
 060	But the Sapinda-relationship ceases with the seventh person (in the ascending and descending lines), the Samanodaka-relationship when the (common) origin and the (existence of a common family)-name are no (longer) known.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**सपिण्डता** षट्पुरुषान् अतीत्य **सप्तमे** प्राप्ते **निवर्तते** । येन त्रिषु पित्रादिषु जीवत्सु परेभ्यस् त्रिभ्यः पिण्डदानम् इष्यते । एवं च सति "षाट्पुरुषी सपिण्डता" इति समानोदकता तु **जन्मनाम्नोर्** अपोदने (अवेदने?) । यदा तु पूर्वपुरुषस्य नाम विज्ञायते ऽमुष्यान्वयस् तावद् ध्यामह इति जन्मा चायम् अस्मत्कुकुलीन इति । तद् अनिष्टोदकं देयम् इति समानोदकानाम् एषा शावम् आशौचसूतकं च वक्ष्यते ।
 </details>

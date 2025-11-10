@@ -1,6 +1,5 @@
 +++
 title = "102 कर्णश्रवे ऽनिले"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -49,4 +48,10 @@ are fiery, during the twilights, during fogs, and when there is danger.’
 <details><summary>Bühler</summary>
 
 102	Those who know the (rules of) recitation declare that in the rainy season the Veda-study must be stopped on these two (occasions), when the wind is audible at night, and when it whirls up the dust in the day-time.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एतेन या (?) यन्निमित्तम् अनध्यायौ वर्षास्व् एव ।
 </details>

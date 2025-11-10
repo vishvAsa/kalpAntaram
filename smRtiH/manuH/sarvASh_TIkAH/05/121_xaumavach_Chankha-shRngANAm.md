@@ -1,6 +1,5 @@
 +++
 title = "121 क्षौमवच् छङ्ख-शृङ्गाणाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -59,4 +58,15 @@ fire and sun’s rays; they are not defiled by the touch of semen or of a dead b
 <details><summary>Bühler</summary>
 
 121	A man who knows (the law) must purify conch-shells, horn, bone and ivory, like linen cloth, or with a mixture of cow's urine and water.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+सत्य् अपि शङ्खस्य विजत्व(?)विशेषविधानाद् अयम् एव विधिः स्यान् न क्वचिन् न पूर्वः ।
+
+**[१४२]** **प्रोक्षणात् तृणकाष्ठानि पलालं च विशुध्यति ।  
+मार्जनोपाञ्जनैर् वेश्म पुनःपाकेन मृन्मयम् ॥ ५.१२२ ॥**
+
+**तृणादीनां** संहतानां प्रोक्षणसिद्धम् उत्तरविवक्षार्थः पुनर् आरम्भः । **मार्जनोपाञ्जनेन** प्रथमप्रवेशोपघाते च क्वचित् पुनःपाकश् चैष उपघातापेक्षः अत्यन्तोपहतानाम् अपुनस्त्यागे ऽनुपहतानां **प्रोक्षणम्** ।
 </details>

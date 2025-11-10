@@ -1,6 +1,5 @@
 +++
 title = "158 आसीता८ मरणात्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ See Comparative notes for [Verse 5.154].
 <details><summary>Bühler</summary>
 
 158	Until death let her be patient (of hardships), self-controlled, and chaste, and strive (to fulfil) that most excellent duty which (is prescribed) for wives who have one husband only.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+न स्यात् (?) पुत्रार्थम् अपि न प्रवर्तेत (?) । अन्यत्र संस्थिते पत्यौ यस्मात् ।
 </details>

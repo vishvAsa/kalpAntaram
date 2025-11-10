@@ -1,6 +1,5 @@
 +++
 title = "067 वैवाहिको विधिः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -64,4 +63,10 @@ also there was Upanayana, also the teaching of the Veda and the pronouncing of t
 <details><summary>Bühler</summary>
 
 067	The nuptial ceremony is stated to be the Vedic sacrament for women (and to be equal to the initiation), serving the husband (equivalent to) the residence in (the house of the) teacher, and the household duties (the same) as the (daily) worship of the sacred fire.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+वैवाहिक एव विधिः स्त्रीणां [१० अक्ष् लचुन] उपनयनवद् द्रष्टव्य एवं तासाम् अमन्त्रकम् उपनयनं न पतिसेवा गृहसेवा सोपास्याः (?) । गुरुश्रूषाग्निकार्याभ्यां ब्रह्मचारिधर्माभ्यां तुल्यौ विज्ञेयौ । एवं तु समा इति । नैता असंस्तुता (?) न वा मन्त्रकोपनयनसम्बन्धिभ्यः (?) । तथा च कृते (३ अक्ष् लचुन) उपनयनसन्नियोगे शिष्टानां व्रतादीनाम् अपि तदभावः (?) सिद्धो ऽध्यायनाभावश् च । विवाहस्य चोपनयनसाम्याभिधाने (?) इदं परं प्रयोजनं पुरुषवत् । **[६१]** स्त्रीणाम् अपि प्राग् विवाहात् कामचारवादभक्षत्वम् ऊर्ध्वं चास्माद् यमनियमाधिकार् इत्य् उपसंहाराय कर्मयोगोपन्यासार्थं च । ब्रह्मचारिण इदम् अधुनोच्यते ।
 </details>

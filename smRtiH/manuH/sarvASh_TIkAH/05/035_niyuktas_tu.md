@@ -1,6 +1,5 @@
 +++
 title = "035 नियुक्तस् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -48,4 +47,10 @@ to a Śrāddha, does not eat meat, one goes to hell...’
 <details><summary>Bühler</summary>
 
 035	But a man who, being duly engaged (to officiate or to dine at a sacred rite), refuses to eat meat, becomes after death an animal during twenty-one existences.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं तावद् अयं नियोगार्थप्रसिद्ध्या वैशेषिकश्राद्धमांसभक्षणार्थवादः । अध्याहारेण त्व् अयं सर्वं विधिशेअ एव क्रियते शास्त्रेण "**नियुक्तस् तु यथान्यायम्**" इति ।
 </details>

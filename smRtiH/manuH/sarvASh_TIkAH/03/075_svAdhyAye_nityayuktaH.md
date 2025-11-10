@@ -1,6 +1,5 @@
 +++
 title = "075 स्वाध्याये नित्ययुक्तः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -39,4 +38,10 @@ towards the east or the north............ one should study the Veda.’
 <details><summary>Bühler</summary>
 
 075	Let (every man) in this (second order, at least) daily apply himself to the private recitation of the Veda, and also to the performance of the offering to the gods; for he who is diligent in the performance of sacrifices, supports both the movable and the immovable creation.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं च महायज्ञैकदेशानुष्ठानाद् अपि सर्वलोकानुग्रहो यस्मात् ।
 </details>

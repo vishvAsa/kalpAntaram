@@ -1,6 +1,5 @@
 +++
 title = "103 विद्युत्-स्तनित-वर्षेषु महोल्कानाम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -62,4 +61,10 @@ appearance of lightning, thunder and rain, out of season, three days shall he re
 <details><summary>Bühler</summary>
 
 103	Manu has stated, that when lightning, thunder, and rain (are observed together), or when large fiery meteors fall on all sides, the recitation must be interrupted until the same hour (on the next day, counting from the occurrence of the event).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+न सर्वस्मिन् काले । अशनिसन्निपाते ।
 </details>

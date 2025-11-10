@@ -1,6 +1,5 @@
 +++
 title = "182 इतरेषु त्व्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -50,4 +49,10 @@ avoided: those *fit for the line* alone should be invited; if one feeds the sinf
 <details><summary>Bühler</summary>
 
 182	But the wise declare that the food which (is offered) to other unholy, inadmissible men, enumerated above, (is turned into) adipose secretions, blood, flesh, marrow, and bone.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अविशेषेण सर्वेषां निन्दार्थवादः । अयम् अभिप्रायः । न केवलं निन्दितेभ्यो दत्तं निष्फलं भवति, अपरम् अनर्थम् उत्पादयति । युक्ता चानर्थोत्पत्तिः प्रतिषिद्धापरणा (?) श्लोकपत्सस्याम् (?) अनर्थोत्पत्तौ । यथाश्रुतकल्पना न्यायविरोधिनी मुण्डित्वासामर्थ्यात् प्रत्यवायार्थतैवैषा परिकल्पनीया ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "001 एवङ् गृहाश्रमे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -94,4 +93,10 @@ hair, to perform Agnihotra, to sleep on the bare ground, to wear black deer-skin
 <details><summary>Bühler</summary>
 
 001	A twice-born Snataka, who has thus lived according to the law in the order of householders, may, taking a firm resolution and keeping his organs in subjection, dwell in the forest, duly (observing the rules given below).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+उपन्यासार्थः श्लोकः ।
 </details>

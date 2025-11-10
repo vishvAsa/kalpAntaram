@@ -1,6 +1,5 @@
 +++
 title = "148 बाल्ये पितुर्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -56,4 +55,10 @@ side, the king is the supporter and master of the woman; he shall support her an
 <details><summary>Bühler</summary>
 
 148	In childhood a female must be subject to her father, in youth to her husband, when her lord is dead to her sons; a woman must never be independent.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कदाचिद् अपीत्य् अत्यर्थः । एवं च सति –
 </details>

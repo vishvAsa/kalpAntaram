@@ -1,6 +1,5 @@
 +++
 title = "059 तस्माद् एताः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,14 @@ they should be respected by the man desiring his own welfare; when loved and fon
 <details><summary>Bühler</summary>
 
 059	Hence men who seek (their own) welfare, should always honour women on holidays and festivals with (gifts of) ornaments, clothes, and (dainty) food.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+चशब्दाद् विवाहेषु च विशेषत इदं कर्तव्यम् । कथं नामायं भवेत् । 
+
+**सन्तुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च ।**
+
+दानात् प्रीतिर् भवति कन्यायाः । भर्तुश् च सालङ्कारायां भार्यायाम् । एवं च सति –
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "200 अलिङ्गी लिङ्गिवेषेण"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -39,4 +38,10 @@ jāyate*.’\]
 <details><summary>Bühler</summary>
 
 200	He who, without being a student, gains his livelihood by (wearing) the dress of a student, takes upon himself the guilt of (all) students and is born again in the womb of an animal.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एतद् अपि तादृग् एव यतस् तथैव व्याख्येयम् अत्र प्रतिषेधाभावादिनार्थवादे विप्रतिषेध उत्प्रेक्ष्यः । साहचर्याद् एतयोः पूर्वं स्नानम् उक्तम् । "मैत्रं प्रसाधनं स्नानम्" (म्ध् ४.१५२) इत्य् अत्र श्लोके यतस् तत्साधननियमार्थम् अधुना चारभ्यते ।
 </details>

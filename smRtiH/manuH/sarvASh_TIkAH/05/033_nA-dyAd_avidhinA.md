@@ -1,6 +1,5 @@
 +++
 title = "033 नाऽद्याद् अविधिना"
-
 +++
 
 <details><summary>मेधातिथिः</summary>
@@ -72,4 +71,10 @@ consecrated with mantras; that however which has been duly consecrated he shall 
 <details><summary>Bühler</summary>
 
 033	A twice-born man who knows the law, must not eat meat except in conformity with the law; for if he has eaten it unlawfully, he will, unable to save himself, be eaten after death by his (victims).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एतद्वाक्यशेषसामान्यार्थो ऽयम् अपरः केनचिद् विशेषणश्लोकः [प्रक्षिप्तः?] ।
 </details>

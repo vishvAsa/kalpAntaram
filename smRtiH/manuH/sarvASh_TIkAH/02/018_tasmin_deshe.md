@@ -1,6 +1,5 @@
 +++
 title = "018 तस्मिन् देशे"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -107,4 +106,10 @@ four castes should be known as the *mleccha deśa*; other than this is Āryāvar
 <details><summary>Bühler</summary>
 
 018	The custom handed down in regular succession (since time immemorial) among the (four chief) castes (varna) and the mixed (races) of that country, is called the conduct of virtuous men.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अयम् अपि देशस्तुत्यर्थः श्लोकः । <u>एवं च नान्यत्र देशे असदाचारतोक्ता न भवति</u> (?) ।
 </details>

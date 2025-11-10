@@ -1,6 +1,5 @@
 +++
 title = "153 अज्ञो भवति"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -48,4 +47,10 @@ See Comparative notes for [Verse 2.150].
 <details><summary>Bühler</summary>
 
 153	'For (a man) destitute of (sacred) knowledge is indeed a child, and he who teaches him the Veda is his father; for (the sages) have always said "child" to an ignorant man, and "father" to a teacher of the Veda.'
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं च सति –
 </details>

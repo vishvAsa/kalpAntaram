@@ -1,6 +1,5 @@
 +++
 title = "043 मुञ्जालाभे तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -68,4 +67,10 @@ be made triplicated; turned round three times; its knots should he three or five
 <details><summary>Bühler</summary>
 
 043	If Munga grass (and so forth) be not procurable, (the girdles) may be made of Kusa, Asmantaka, and Balbaga (fibres), with a single threefold knot, or with three or five (knots according to the custom of the family).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**मुञ्जाभाव**ग्रहणसाहचर्याद् इतरयोर् अपि ग्राहकं प्रदर्शनार्थं वा, आदिशब्दलोपो वा । मुञ्जादीनाम् अभावे "**मुञ्जाभावे तु कर्तव्या कुशाश्मन्तक्बल्वजैः**" इति यथासख्येनैषाम् अभावविकल्पः । "**त्रिवृता ग्रन्थिनैकेन**" इत्य् अत्र त्रिवृत्त्वं ग्रन्थिविशेषणम् । केवलायास् तु पूर्वोक्तं "**त्रिभिः पञ्चभिर् एव वा**" इति न ग्रन्थीनां वर्णमेखलासु यथासङ्ख्यं वचनसामर्थ्यात् । किं तर्हि । (?) सर्वासु विकल्पेन । स्यस्त्र (?) चैतद् अभाववैकल्पिकेषु केवलसूच्यमानं विशेषणं पूर्वास्व् अपि द्रष्टव्यम् ।
 </details>

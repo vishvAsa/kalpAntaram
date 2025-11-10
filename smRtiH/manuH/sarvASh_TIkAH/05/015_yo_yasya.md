@@ -1,6 +1,5 @@
 +++
 title = "015 यो यस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -72,4 +71,10 @@ slain for the fulfilment of the sacred law.’
 <details><summary>Bühler</summary>
 
 015	He who eats the flesh of any (animal) is called the eater of the flesh of that (particular creature), he who eats fish is an eater of every (kind of) flesh; let him therefore avoid fish.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यथा पुरुषादः सर्पादः वृषदंश एवम् इहापीति । अधुना तज्जातिविशेषाश्रयेण प्रतिषिद्धस्य मांसस्य भक्षणं प्रतिप्रसूयते ।
 </details>

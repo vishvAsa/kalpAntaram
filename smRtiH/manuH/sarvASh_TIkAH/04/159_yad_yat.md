@@ -1,6 +1,5 @@
 +++
 title = "159 यद् यत्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -40,4 +39,10 @@ This verse is quoted in *Aparārka* (p. 224);—and in *Madanapārijāta* (p. 14
 <details><summary>Bühler</summary>
 
 159	Let him carefully avoid all undertakings (the success of) which depends on others; but let him eagerly pursue that (the accomplishment of) which depends on himself.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+लोके ऽपि चैतद् दृष्टम् ।
 </details>

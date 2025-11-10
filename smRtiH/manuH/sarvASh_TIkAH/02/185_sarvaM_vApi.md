@@ -1,6 +1,5 @@
 +++
 title = "185 सर्वं वापि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -42,4 +41,10 @@ only raw food, that also just enough for one night.’
 <details><summary>Bühler</summary>
 
 185	Or, if there are no (virtuous men of the kind) mentioned above, he may go to each (house in the) village, being pure and remaining silent; but let him avoid Abhisastas (those accused of mortal sin).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**सर्व**शब्दाद् अहिनुस्तु (?) प्रतिषेधाच् चतुर्भ्यो ऽपि वर्णेभ्यो भैक्षग्रहणम् उपदिष्टम् । तथा च गौतमः- "सार्ववर्णिकं भैक्षचरणम् (?) अभिशस्तपतितवर्जम्" (ग्ध् २.३५) इति । अभिशंसनं चोपपातकं तदुक्तप्रतिषेधे स्व(?)महापातकिभ्यो दण्डापूपिकया भवति नेतरेभ्यो लघुपुत्वा (?) वायव्यमरु (?) ।
 </details>

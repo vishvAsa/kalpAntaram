@@ -1,6 +1,5 @@
 +++
 title = "113 अपाम् अग्नेश्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,10 @@ See Comparative notes for [Verse 5.111].
 <details><summary>Bühler</summary>
 
 113	From the union of water and fire arose the glittering gold and silver; those two, therefore, are best purified by (the elements) from which they sprang.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+"अग्निर् वै वरुणानीम् अभ्यकामयत" इति श्रुतेर् अत्र चाग्नेः सुवर्णमन्त्रियमः (?) श्रूयते । वरुणान्या रजतम् । तथा सत्य् अनेन च निर्वृत्तेन भस्मनाद्भिश् च तयोः काञ्चनराजतयोर् **निर्नेको गुणवत्तरः** । अर्थवादत्वाच् चास्य । भस्मनां लोहादीनाम् अप्य् एष एव विधिर् ज्ञेयः ।
 </details>

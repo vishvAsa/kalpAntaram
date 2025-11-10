@@ -1,6 +1,5 @@
 +++
 title = "086 ये पाकयज्ञास्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -64,4 +63,10 @@ Manu\].
 <details><summary>Bühler</summary>
 
 086	The four Pakayagnas and those sacrifices which are enjoined by the rules (of the Veda) are all together not equal in value to a sixteenth part of the sacrifice consisting of muttered prayers.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+श्रौतस्मार्तकर्मनिन्दया समस्तेयम् अपि स्तुतिर् वेदाध्ययनानुष्ठानप्ररोचनार्थत्व अतिस्तुतिश् च वाक्यस्वाभाव्यात् । (३ अक्ष् लचुन) अर्थत्वे (?) सति लोकवेदवद् इहाविरुद्धे स्मृतिशास्त्रे । एवं च सत्यम् उपांशुमानसगुणद्वयसम्बन्धिना —
 </details>

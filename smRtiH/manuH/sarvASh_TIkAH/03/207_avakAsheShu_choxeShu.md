@@ -1,6 +1,5 @@
 +++
 title = "207 अवकाशेषु चोक्षेषु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,10 @@ buildings, on river-banks, in Tīrthas, and on one’s own land, in groves near 
 <details><summary>Bühler</summary>
 
 207	The manes are always pleased with offerings made in open, naturally pure places, on the banks of rivers, and in secluded spots.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अगोमयेना(ओ?)पलिप्तेष्व् अपि स्वभावशुचिषु । तत्र च –
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "207 श्रेयःसु गुरुवद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -70,4 +69,10 @@ See Comparative notes for [Verse 2.206].
 <details><summary>Bühler</summary>
 
 207	Towards his betters let him always behave as towards his teacher, likewise towards sons of his teacher, born by wives of equal caste, and towards the teacher's relatives both on the side of the father and of the mother.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+किमर्थं पुनर् इदम् असम्बन्धेषु **श्रेयःसु गुरुवद् वृत्तिना** प्राप्तो ऽपि शास्त्राभावाद् इष्यते चान्यस्यापीत्य् आरम्भः । श्रेयोनिमित्तानि चाध्ययनाभिजनसंस्कारविज्ञानाचारकर्माणि ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "189 निमन्त्रितान् हि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,10 @@ should keep pure.
 <details><summary>Bühler</summary>
 
 189	For the manes attend the invited Brahmanas, follow them (when they walk) like the wind, and sit near them when they are seated.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अनतिक्रमस्तुत्यर्थः श्लोकः ।
 </details>

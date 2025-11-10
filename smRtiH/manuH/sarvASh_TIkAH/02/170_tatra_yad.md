@@ -1,6 +1,5 @@
 +++
 title = "170 तत्र यद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -54,4 +53,15 @@ whereat the Sāvitrī is the *mother*, and the Teacher the *father*
 <details><summary>Bühler</summary>
 
 170	Among those (three) the birth which is symbolised by the investiture with the girdle of Munga grass, is his birth for the sake of the Veda; they declare that in that (birth) the Sivitri (verse) is his mother and the teacher his father.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+आदौ कारणम् (?) आह ।
+
+**[९१]  
+वेदप्रदानाद् आचार्यं पितरं परिचक्षते ।**
+
+सावित्रीं च साधनसंस्कारभूतां ब्रह्मचारिणो मातरम् एवं च ।
 </details>

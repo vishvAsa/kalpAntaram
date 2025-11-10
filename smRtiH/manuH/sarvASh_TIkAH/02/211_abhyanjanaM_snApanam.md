@@ -1,6 +1,5 @@
 +++
 title = "211 अभ्यञ्जनं स्नापनम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -52,4 +51,10 @@ applying of collyrium, dressing of hair, or touching the feet and such like acts
 <details><summary>Bühler</summary>
 
 211	Let him not perform for a wife of his teacher (the offices of) anointing her, assisting her in the bath, shampooing her limbs, or arranging her hair.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+चशब्दात् तदुच्छिष्टभोजनं च पादावनेजनं तद् अस्यां पादस्पर्शनप्रतिषेधाद् एवाभिवादनकाले <u>सो ऽपूपियोचार्यते</u> (दण्डापूपिकयोच्यते??) ।
 </details>

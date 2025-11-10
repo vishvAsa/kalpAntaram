@@ -1,6 +1,5 @@
 +++
 title = "094 राज्ञो महात्मिके"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -49,4 +48,10 @@ there is immediate purification,—not so for one who has lost his kingdom; as t
 <details><summary>Bühler</summary>
 
 094	For a king, on the throne of magnanimity, immediate purification is prescribed, and the reason for that is that he is seated (there) for the protection of (his) subjects.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+महान् आत्मा यस्य स्थानस्य यस्मिन् वा तद् इदं **माहात्म्यकं** तत्स्थितस्य **राज्ञः** **सद्यःशौचं** येन तत्स्थानं **प्रजानां परिरक्षार्थम्** । तथा चैतद् दर्शयति "**आसनं चात्र कारणम्**" इति । अतश् च नक्षत्रमात्रस्येदं ग्रहणम् । राजशब्देन अभिषेकादिगुणयुक्तस्य प्राणानां पालयितुः । किं च –
 </details>

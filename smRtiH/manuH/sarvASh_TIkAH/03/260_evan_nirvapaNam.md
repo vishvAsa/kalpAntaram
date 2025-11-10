@@ -1,6 +1,5 @@
 +++
 title = "260 एवन् निर्वपणम्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -56,4 +55,14 @@ down for the offering of the balls, one should follow the practice of his own re
 <details><summary>Bühler</summary>
 
 260	Having thus offered (the cakes), let him, after (the prayer), cause a cow, a Brahmana, a goat, or the sacred fire to consume those cakes, or let him throw them into water.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+एवं पितृवरयाचनानन्तरं यजमानः पिण्डनिर्वपणं कृत्वा पितृपूजितप्रजायै तान् पितृयज्ञविद्धांस् तदनन्तरं गवादीनि प्राशयेत् । केचित् तु विकिरपिण्डानाम् एतां प्रतिपत्तिम् आहुः । तद् अयुक्तम् । तत्र पिण्डानां तावत् पुरस्तान् निर्वापो विरुध्येत । अनन्तरश्लोकोपदिष्टः पञ्याश् च मध्यमपिण्डविरोधः स्यात् तदभावात् । पितृयज्ञपिण्डेषु तु सर्वम् एतद् अविरोधात् सम्भवति –
+
+**पिण्डनिर्वपणं केचित् पुरस्ताद् एव कुर्वति ।**
+
+कुरु तु श्राद्धभोजनात् (?) ।
 </details>

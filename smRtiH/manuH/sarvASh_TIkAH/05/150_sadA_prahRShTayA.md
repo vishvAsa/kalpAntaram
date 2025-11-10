@@ -1,6 +1,5 @@
 +++
 title = "150 सदा प्रहृष्टया"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -60,4 +59,10 @@ the means of realising the three ends of Merit, Wealth and Pleasure.’
 <details><summary>Bühler</summary>
 
 150	She must always be cheerful, clever in (the management of her) household affairs, careful in cleaning her utensils, and economical in expenditure.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+किं चान्यत् ।
 </details>

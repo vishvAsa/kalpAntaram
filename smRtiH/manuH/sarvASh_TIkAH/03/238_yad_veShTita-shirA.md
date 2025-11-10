@@ -1,6 +1,5 @@
 +++
 title = "238 यद् वेष्टित-शिरा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -67,4 +66,10 @@ vidyāt tadāsuram*’ for ‘*tadvai rakṣāṃsi bhuñjaṭe*.’\]
 <details><summary>Bühler</summary>
 
 238	What (a guest) eats, covering his head, what he eats with his face turned towards the south, what he eats with sandals on (his feet), that the Rakshasas consume.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अकृतान्नश्राद्धे तु प्राप्तानाम् एषां प्रतिषेधः । वक्ष्यति "प्राणि वा यदि वाप्राणि" (म्ध् ४.११७) इति । **भुङ्क्त** इति । ग्रहीतुर् हस्तेन द्रष्टव्यसम्बन्ध उच्यते । "पाण्यास्यो हि द्विजः स्मृतः" (म्ध् ४.११७) इति वचनात् । भोजने ऽपि चार्थप्राप्तिर् अस्त्व् एव । एकदा यथासम्भवम् अर्थप्रतिषेधो ऽयम् अधिकृतनियमस्तुत्यर्थः । सर्वप्रकारे च श्राद्धे,
 </details>

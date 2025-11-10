@@ -1,6 +1,5 @@
 +++
 title = "065 गुरोः प्रेतस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -51,4 +50,12 @@ Father-in-law, the friend, the *Guru* and the Guru’s wife, and the maternal gr
 <details><summary>Bühler</summary>
 
 065	A pupil who performs the Pitrimedha for his deceased teacher, becomes also pure after ten days, just like those who carry the corpse out (to the burial-ground).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+[एद्. पद्यम् इदं ११.१९७ सङ्ख्याकस्य पद्यस्य व्याख्याम् उद्धृतम् । तत्र "समाचरन्" इत्य् अत्र "समाचअरेत्" इति पाठः]
+
+अयं चासपिण्डसामर्थ्याद् विज्ञायते । यथा शवस्पृशः पूर्वश्लोके यस् त्व् अपितृमेधकृच् छिष्यस् तस्य "त्रिरात्रम् आहुर् आशौचम् आचार्ये संस्थिते सति" (म्ध् ५.८०) इति वक्ष्यति ।
 </details>

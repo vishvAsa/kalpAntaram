@@ -1,6 +1,5 @@
 +++
 title = "145 सुप्त्वा क्षुत्वा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -94,4 +93,10 @@ water twice; on touching his hairless lips, on putting on clothes, on passing se
 <details><summary>Bühler</summary>
 
 145	Though he may be (already) pure, let him sip water after sleeping, sneezing, eating, spitting, telling untruths, and drinking water, likewise when he is going to study the Veda.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अपर आचमनहेतवो ऽत्र वेदाध्यननस्य पुनर्ग्रहणम् आचमनस्य स्वाध्यायाङ्गत्व आचमनार्थम् । पूर्वत्र तु शुद्ध्यर्थम् उक्तम् । एवं च सति द्वाव् इमौ नियमौ सुचीनाम् असय्तस्य आचान्तौ अध्येतव्यम् इति । तेन त्व् एतेन त्व् एकतिष्यकालेषु भोजन आचमनम् उच्यते । ब्रह्मचारिणो भैक्षोपयोगकाल इह द्विर् उच्यते । अत्र च ब्रह्मचारिणस् तद् भोजनाङ्गं यत् पुनः कृत्वा मूत्रं पुरीषम् इत्य् अत्र तत्प्रयतार्थम्, इह त्व् इतरविधित्सार्थम् ।
 </details>

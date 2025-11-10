@@ -1,6 +1,5 @@
 +++
 title = "084 न वर्धयेद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -133,4 +132,10 @@ shall not omit these During impurity due to death or birth, one should not omit 
 <details><summary>Bühler</summary>
 
 084	Let him not (unnecessarily) lengthen the period of impurity, nor interrupt the rites to be performed with the sacred fires; for he who performs that (Agnihotra) rite will not be impure, though (he be) a (Sapinda) relative.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पूर्वोक्ताहस् त्यागार्थो ऽयं (?) प्रतिषेधः । कस्यचिद् एवाध्ययनविघातो (?) [**२३५]** [१ अक्ष् उन्च्लेअर्] वारकर्मस[१ अक्ष् उन्च्लेअर्]दा । तथा च स्मृत्यन्त्राण्य् उदाहरणीयानि । एवं च सत्य् आलस्यात् "तिष्कुर्माय रखमात्स्निष्य (निष्कर्मा सुखम् आसिष्ये)" इत्य् एवं मतिः प्राये ऽधिकृतपुरुषो न वर्धयेद् अघयुक्तान्य् अहानि न च प्रत्यूहेत् क्रिया वैश्वदेवाद्या न कुर्याद् इत्य् अर्थः । अथ वा प्रलयेद् इत्य् अर्थः (?) । नित्यत्वात् तु ताः अतिप्रवृत्ताः कुर्याद् एव । उभाव् अपि चेमौ पक्षौ गृह्यस्मृतिप्रतिगृहीतौ । एवं हि तत्राह – "नित्यत्वाद् अहानि न निवर्तेरन् वैखानसशास्त्रगौ चैक (??)" इति । "न च तत्कर्म कुर्वाणः सनाभ्यो ऽशुचिर् भवेत्" । नरसम्बन्ध इत्य् अनुष्ठानस्तुतिपरम् एतत् । तथा चोक्तं गृह्ये "एतानि एकाह्नि कुर्युः" इति ।
 </details>

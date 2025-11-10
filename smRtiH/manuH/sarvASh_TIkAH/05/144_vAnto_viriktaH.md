@@ -1,6 +1,5 @@
 +++
 title = "144 वान्तो विरिक्तः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -66,4 +65,10 @@ sleeping at sunset, after bad dreams, or touching a wicked man, one shall only b
 <details><summary>Bühler</summary>
 
 144	He who has vomited or purged shall bathe, and afterwards eat clarified butter; but if (the attack comes on) after he has eaten, let him only sip water; bathing is prescribed for him who has had intercourse with a woman.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**आचामेद् एव भुक्त्वान्नम्** इति । यथा भोजनोत्तरकालम् आचमनाच् छुद्धिर् एवं वान्तविरिक्तयोर् (?) अपि स्नानोत्तरकालं घृतप्राशनाच् छुद्धिस् तथा चेद् उपस्पर्शनम् । दृष्टान्तवादत्वात् परार्थम् उपादीयते न स्वार्थम् उक्तत्वाद् अस्य । निदर्शनं चैतत् सर्वोपस्पर्शनिमित्तानां दृष्टान्तार्थतया सामर्थ्याद् विज्ञेयम् । मैथुनिनश् च न्याय्या (?) मैथुनि तूपगमनेन वा पर्ववर्जं व्रजेत् स्नानम् । इदं गुणाधिक्याद् विशिष्टम् उपदिश्यते नित्याद् अधिकम् । <u>अन्ये</u> तु आवृत्त्यैकम् एवेच्छन्ति ।
 </details>

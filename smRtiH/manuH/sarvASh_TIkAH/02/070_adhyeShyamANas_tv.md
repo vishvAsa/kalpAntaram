@@ -1,6 +1,5 @@
 +++
 title = "070 अध्येष्यमाणस् त्व्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -63,4 +62,10 @@ or a half or a quarter of it, without the teacher’s permission, is a
 <details><summary>Bühler</summary>
 
 070	But (a student) who is about to begin the Study (of the Veda), shall receive instruction, after he has sipped water in accordance with the Institutes (of the sacred law), has made the Brahmangali, (has put on) a clean dress, and has brought his organs under due control.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+न अनानादिष्टवेदव्रतः । वक्ष्यति हि "कृतोपनयनस्यास्य व्रतादेशनम् इष्यते" (म्ध् २.१७३) "**आचान्तो यथाशास्त्रम्**" इत्य् अयम् अनुवादः । प्रधानार्थत्वात् । (?)गुरूपदेशस्योदङ्मुखत्वब्रह्माञ्जलिकरणलघुवासत्वजितेन्द्रियत्वादीनि स्वाध्यायाङ्गानि । अयम् अपरः वे(उप?)सदनब्रह्मग्रहणविधिः ।
 </details>

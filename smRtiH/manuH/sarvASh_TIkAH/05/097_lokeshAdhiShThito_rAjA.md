@@ -1,6 +1,5 @@
 +++
 title = "097 लोकेशाधिष्ठितो राजा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -33,4 +32,10 @@ Buhler wrongly attributes to Medhātithi the reading
 <details><summary>Bühler</summary>
 
 097	Because the king is pervaded by those lords of the world, no impurity is ordained for him; for purity and impurity of mortals is caused and removed by (those) lords of the world.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+न तु देवानाम् अनधिकारात् । तेन तेषां तदानीम् आहवहतानाम् इत्य् अस्यार्थवादो ऽयं प्रतीयते ।
 </details>

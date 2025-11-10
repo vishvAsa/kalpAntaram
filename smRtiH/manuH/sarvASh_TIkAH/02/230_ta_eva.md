@@ -1,6 +1,5 @@
 +++
 title = "230 त एव"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,17 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra, P. 95).
 <details><summary>Bühler</summary>
 
 230	For they are declared to be the three worlds, they the three (principal) orders, they the three Vedas, and they the three sacred fires.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+किञ्चित् सामान्याद् अयम् अग्निविभागः । तत्प्रतिषेधार्थम् इदम् आरभ्यते ॥
+
+**[* २३१–२४१ गिवेन् गिवेन् अफ़्तेर् १२५ इन् मनुस्च्रिप्त्]  
+[७६]  
+पिता वै गार्हप्त्यो ऽग्निर् माताग्निर् दक्षिणः स्मृतः ।  
+गुरुर् आहवनीयस् तु सागित्रेता गरीयसी ॥ २.२३१ ॥**
+
+एवं च सति ।
 </details>

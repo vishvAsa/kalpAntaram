@@ -1,6 +1,5 @@
 +++
 title = "210 गुरुवत् प्रतिपूज्याः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -45,4 +44,10 @@ avoid hair-dressing, dressing, bathing and eating of the leavings.’
 <details><summary>Bühler</summary>
 
 210	The wives of the teacher, who belong to the same caste, must be treated as respectfully as the teacher; but those who belong to a different caste, must be honoured by rising and salutation.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यथान्यायं व्यस्तसमस्तैः कनीयस्यो ऽपि सत्या आत्मनः प्रतिवयस्यस्त्रिय इति स्वना(?) **गुरुवत् प्रतिपूज्यास्** त्व् इत्य् अस्मात् सर्वम् उपदिष्टं गुरुवृत्तम् आसुप्राप्तं (?) सत् प्रतिषिध्यते ।
 </details>

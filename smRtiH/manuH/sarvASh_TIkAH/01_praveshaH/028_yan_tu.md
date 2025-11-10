@@ -1,6 +1,5 @@
 +++
 title = "028 यन् तु"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -92,4 +91,10 @@ The idea contained in this verse is further expanded in the following verse.—(
 <details><summary>Bühler</summary>
 
 028	But to whatever course of action the Lord at first appointed each (kind of beings), that alone it has spontaneously adopted in each succeeding creation.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+पूर्वाभ्यासप्रतिबन्धे सत्य् अयं पुरुषः कर्मजातिसामर्थ्याद् वर्तमानजातिधर्मम् एव प्रतिपद्यते, **[१४]** तत्प्रतिपत्तिकर्मोपभोगवशेन वा केवलेन । यथा मत्स्यो जलतरणशयनप्रसूत्यनिमेषादीन्य् एव जात्यन्तरधर्मम् अभ्यस्तम् अप्य् एवं गवादयो ऽपि द्रष्टव्याः । किं पुनस् तत् कर्म यतो यस्य प्रदर्शनार्थम् अयं तेषां कर्म प्रतिपत्तिप्रपञ्चः प्रक्रियते ।
 </details>

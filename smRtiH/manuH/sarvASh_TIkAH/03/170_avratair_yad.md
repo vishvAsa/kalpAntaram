@@ -1,6 +1,5 @@
 +++
 title = "170 अव्रतैर् यद्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -48,4 +47,10 @@ See Comparative notes for [Verse 3.170].
 <details><summary>Bühler</summary>
 
 170	The Rakshasas, indeed, consume (the food) eaten by Brahmanas who have not fulfilled the vow of studentship, by a Parivettri and so forth, and by other men not admissible into the company.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यावान् कश्चिद् अकार्यकारी सर्वो ऽसाव् **अपाङ्क्त्यः** । एषां भोजने **तद् वै रक्षांसि भुञ्जत** इत्य् अर्थवादो निन्दार्थः । कथं नाम सर्वान् अपाङ्क्त्यान् (?) वर्जयेद् इत्य् एवं च सति नानेन रक्षोभ्यो दाने निन्द्ये ऽपाङ्क्त्येभ्यो दानम् अभ्यनुज्ञायते । रक्षोभ्यो दानस्याशिष्टत्वाच् छास्त्रे अप्रकरणाच् च तस्य सामान्येन यत् सर्वेषाम् अपाङ्क्त्यानां भोजनप्रतिषेधार्थवादः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "255 अपराह्णस् तथा"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -69,4 +68,10 @@ accomplishment of the Śrāddha:—Those that are devoted to the Vedic duties, t
 <details><summary>Bühler</summary>
 
 255	The afternoon, Kusa grass, the due preparation of the dwelling, sesamum grains, liberality, the careful preparation of the food, and (the company of) distinguished Brahmanas are true riches at all funeral sacrifices.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अपराह्णादीनां स्तुत्यर्थं पुनर् ग्रहणम् । ततो ऽन्येषां वा विकल्पार्थम् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "118 सावित्रीमात्र-सारो ऽपि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -53,4 +52,10 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 460).
 <details><summary>Bühler</summary>
 
 118	A Brahmana who completely governs himself, though he know the Savitri only, is better than he who knows the three Vedas, (but) does not control himself, eats all (sorts of) food, and sells all (sorts of goods).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+न्यायतः सावित्र्यध्ययनमात्रेणापि परितुष्येत् सामर्थ्ये ऽप्य् अध्येतुं ब्रह्मचारी न चान्यो येन वेदत्रयम् अप्य् अधीयीत । एवं च न्यायाध्ययनप्रशंसैषा, न तु सावित्र्यध्ययनमात्रोपदेशः, कृत्स्नवेदाध्ययननिर्णयस्मरणात् । तथा च वक्ष्यति "वेदः कृत्स्नो ऽधिगन्तव्यः" (म्ध् २.१६५) इति । **सावित्री**ग्रहणं चेतरेषु प्रदर्शनार्थम् उक्तम् । नायन्ता च(?) कृत्वैतत् त्रिकं ब्रह्मणो मुखम् अभिहितम् इति । एवम् अध्ययनधर्मम् अभिधाय ब्रह्मचारिधर्मम् अनुशास्ति (?) ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "093 इन्द्रियाणाम् प्रसङ्गेन"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -49,4 +48,10 @@ his teeth; but longing for life and longing for wealth never fade, even while th
 <details><summary>Bühler</summary>
 
 093	Through the attachment of his organs (to sensual pleasure) a man doubtlessly will incur guilt; but if he keep them under complete control, he will obtain success (in gaining all his aims).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+कस्मात् । अतिमहाप्रयोजनत्वाद् आदरणीय इन्द्रियसंयमः । कस्माद् । तेषां क्षुध एव प्रतीकारेण विषयोपभोगाख्याने (-स्वादे?) निवृत्तिर् नेष्यते, कर्मानुष्ठानसामार्थ्यार्थम् इति यस्मात् ।
 </details>

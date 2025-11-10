@@ -1,6 +1,5 @@
 +++
 title = "237 त्रिष्व् एतेष्व्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -34,4 +33,10 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 95).
 <details><summary>Bühler</summary>
 
 237	By (honouring) these three all that ought to be done by man, is accomplished; that is clearly the highest duty, every other (act) is a subordinate duty.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+स्तुतिपरम् एतत् । किं चान्यत् । पूर्वत्रोक्तं ब्रह्मचारिणो ब्राह्मणस्याध्ययनं तत् पुनर् उक्तव्यतिरेकेण क्षत्रियवैश्याभ्याम् अप्राप्तं तद् विधीयते ।
 </details>

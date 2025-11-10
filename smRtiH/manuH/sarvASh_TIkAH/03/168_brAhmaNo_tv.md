@@ -1,6 +1,5 @@
 +++
 title = "168 ब्राह्मणो त्व्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -52,4 +51,10 @@ extinguished fire reaches neither the Gods nor the Pitṛs, so also what is give
 <details><summary>Bühler</summary>
 
 168	As a fire of dry grass is (unable to consume the offerings and is quickly) extinguished, even so (is it with) an unlearned Brahmana; sacrificial food must not be given to him, since it (would be) offered in ashes.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**अनधीयानो हि** यत् **ब्राह्मणस्** त्यागम् अर्हतीत्य् उक्तं शास्त्रात् । अधीयानो ऽपि दुराचारः **[१४२]** यस् तु काणश्लीपद्यादिः तस्य युक्तो भोजनावकाशो दैवे एवं काणादीनां दुराचारपाठे कव्यभोजनप्रतिषेधश् चार्थवान् भवति । काणत्वादिना निमित्तेन दुराचारश्रोत्रियत्वाभ्यां चैषां हव्यभोजनावकाशः सिद्धो भवति, विपर्याससामर्थ्याद् इति ।
 </details>

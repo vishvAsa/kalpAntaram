@@ -1,6 +1,5 @@
 +++
 title = "022 एतान् एके"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -73,4 +72,10 @@ Prāṇas, to be made by the Śālīna, the Yāyāvara and the Ātmayājin.’
 <details><summary>Bühler</summary>
 
 022	Some men who know the ordinances for sacrificial rites, always offer these great sacrifices in their organs (of sensation), without any (external) effort.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+ये सर्वप्रकारस्य यज्ञस्य शास्त्रजाश् ते नाधिकृतत्वाद् अनीहमानास् तान् । महायज्ञात् सततं यावज्जीवम् "**इन्द्रियाग्निषु (?) जुह्वति**" । किं पुनस् तदास्तिक्यश्राद्धाभिनिवेशो वा ग्रहेण तन्मयाम् आहुतिमयं चास्य प्रपञ्चो वृत्तिस्थाने भवति \
 </details>

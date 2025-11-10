@@ -1,6 +1,5 @@
 +++
 title = "155 कुशीलवो ऽवकीर्णी"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -62,4 +61,10 @@ See Comparative notes for [Verse 3.150].
 <details><summary>Bühler</summary>
 
 155	An actor or singer, one who has broken the vow of studentship, one whose (only or first) wife is a Sudra female, the son of a remarried woman, a one-eyed man, and he in whose house a paramour of his wife (resides);
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**वृषलीपतिः** प्रासादवासी येन केवलो ज्ञेयः । स चोक्तः पुनस् तद् एते नौरविमाहिषकौ (?) व्याख्यातौ । **पौनर्भवो** वक्ष्यमाणः । **उपपतिर्** जारो गुणापेक्षया ।
 </details>

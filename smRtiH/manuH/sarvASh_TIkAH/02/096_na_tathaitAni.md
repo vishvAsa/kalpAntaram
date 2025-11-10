@@ -1,6 +1,5 @@
 +++
 title = "096 न तथैतानि"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -77,4 +76,10 @@ is disgusted with birth, with death and with mental and physical ailments. The i
 <details><summary>Bühler</summary>
 
 096	Those (organs) which are strongly attached to sensual pleasures, cannot so effectually be restrained by abstinence (from enjoyments) as by a constant (pursuit of true) knowledge.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यथोपदेशप्रसङ्ख्यानेनेत्य् अधिकृतप्रसङ्ख्यानस्तुतिः । तथा चार्थवत् प्रसङ्ख्यानम् अनया स्तुत्या गम्यते एवं च सतीन्द्रियसंयमोपदेशसहकारेण प्रसङ्ख्यानोपदेशस्याप्य् अर्थवत्त्वं विज्ञेयम् । **[६८]** कस्मात् पुनर् अत्रेवम् अतिमहान् प्रयत्नः क्रियते, यस्मान् न केवलम् इन्द्रियसंयमः साक्षाद् अदृष्टप्रयोजनं शास्त्रसामर्थ्याद् भवति । किं तर्हि । विहितकर्मानुष्ठानसमाधिप्रणाडिकया च पुरुषार्थकारी । तथा चैतद् दर्शयति ।
 </details>

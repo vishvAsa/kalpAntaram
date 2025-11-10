@@ -1,6 +1,5 @@
 +++
 title = "217 मृष्यन्ति ये"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -72,4 +71,10 @@ embryo-killer, harlot, weapon-maker, oil-presser, wine-seller, goldsmith, writer
 <details><summary>Bühler</summary>
 
 217	Nor (the food given) by those who knowingly bear with paramours (of their wives), and by those who in all matters are ruled by women, nor food (given by men) whose ten days of impurity on account of a death have not passed, nor that which is unpalatable.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+**मृष्यन्ति ये चोपपतिम्** इत्य् अस्य शौलूषस्य चायम् विशेषः । भार्यापण्यो हि लोभात् स्त्रियं प्रेषयति । इतरस् तु वक्ष्यते ऽथ वा शैलूषो नट इत्य् उक्तः । अस्मिंश् च पक्षे पुनरुक्तदोषो नास्ति ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "161 यत् कर्म"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -28,4 +27,10 @@ This verse is quoted in *Aparārka* (p. 224), which explains ‘*Karma*’ as �
 <details><summary>Bühler</summary>
 
 161	When the performance of an act gladdens his heart, let him perform it with diligence; but let him avoid the opposite.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+विहितकर्मविशेषम् एतद् विपरीतवन् मनश् चानुष्ठीयमानं यद् अप्रत्यवायाय । तद्विषयस्तुत्यर्थं भावप्रसादस्य ।
 </details>

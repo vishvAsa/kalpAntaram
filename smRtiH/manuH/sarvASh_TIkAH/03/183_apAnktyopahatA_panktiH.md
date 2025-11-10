@@ -1,6 +1,5 @@
 +++
 title = "183 अपाङ्क्त्योपहता पङ्क्तिः"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -38,4 +37,10 @@ that is why they are called the *sanctifiers of company*.’
 <details><summary>Bühler</summary>
 
 183	Now hear by what chief of twice-born men a company defiled by (the presence of) unworthy (guests) is purified, and the full (description of) the Brahmanas who sanctify a company.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+नन्व् अपाङ्क्त्यानां प्रतिषेधाच् छ्राद्धनियोगासम्भवे पङ्क्तिपावनोपन्यासवचनम् अनर्थकम् इत्य् एवं तर्ह्य् अभिजनाध्ययनविज्ञानवताम् अप्य् अविज्ञातदोषाणां यदृच्छया नियोगपदे ऽर्थाद् भवति । कथं पङ्क्तिपावनाभिप्रयत्नतः परीक्ष्य नियुक्ताः "पित्र्ये कर्मणि तु प्राप्ते परीक्षेत प्रयत्नतः" (म्ध् ३.१४९) इत्य् अनेन तत्रापङ्क्त्यभोजनदोषं पाठयन्ति स्वमहिम्ना, श्राद्धस्य वा वैगुण्यं च कल्पयन्ति, कुत एतत् । पङ्क्तिपावननियोगोपदेशसामर्थ्यात् । इतरथा हि तदुपदेशो ऽनर्थकः स्यात् । अथ वा वक्ष्यमाणब्राह्मणस्तुत्यर्थम् इदं पङ्क्तिपावनम् । कथम् ।
 </details>

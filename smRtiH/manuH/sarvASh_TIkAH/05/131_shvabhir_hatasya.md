@@ -1,6 +1,5 @@
 +++
 title = "131 श्वभिर् हतस्य"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -49,4 +48,10 @@ carnivorous animals and others is pure.’
 <details><summary>Bühler</summary>
 
 131	Manu has declared that the flesh (of an animal) killed by dogs is pure, likewise (that) of a (beast) slain by carnivorous (animals) or by men of low caste (Dasyu), such as Kandalas.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+आमस्य मांसस्य श्वाद्युच्छिष्टस्य शुचिवचनाद् अन्यस्योच्छिष्टस्योत्सर्ग एवं चण्डालादिसंस्पृष्टम् अपि द्रष्टव्यम् ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "069 नाऽस्य कार्यो"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -69,4 +68,10 @@ dies, its parents become impure; the impurity lasts for one or three days. They 
 <details><summary>Bühler</summary>
 
 069	Such (a child) shall not be burnt with fire, and no libations of water shall be offered to it; leaving it like a (log of) wood in the forest, (the relatives) shall remain impure during three days only.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+अस्मिञ्च् छ्लोके च तत्त्र्यहविधिर् आम्नायते अकृतचौलानाम् । एवं च सति प्राक् चूडाकरणाद् एकाहस् त्र्यहो वा । ऊर्ध्वं तु चूडाकरणात् **त्र्यह एव** ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "143 दातॄन् प्रतिग्रहीतॄंश्"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -44,4 +43,14 @@ them, long life, offspring, wealth, learning, heaven, final deliverance and plea
 <details><summary>Bühler</summary>
 
 143	But a present made in accordance with the rules to a learned man, makes the giver and the recipient partakers of rewards both in this (life) and after death.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+प्रकरणान् मित्रायैव विदुषे ऽन्यस्य विदुषो विहितत्वाद् इहासम्भवः । एवं च सत्य् अस्य श्रोत्रियत्वादिगुणवतो ऽभावे गुणवन्तम् ।
+
+**कामं श्राद्धे ऽर्चयेन् मित्रं नाभिरूपम् अपि त्व् अरिम् ।**
+
+गुणवद्ब्राह्मणाभावे इत्यर्थः (?) । अस्यार्थवादः ।
 </details>

@@ -1,6 +1,5 @@
 +++
 title = "077 त्रिभ्य एव"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -56,4 +55,10 @@ expounded,—so says the Brāhmaṇa-text.’
 <details><summary>Bühler</summary>
 
 077	Moreover from the three Vedas Pragapati, who dwells in the highest heaven (Parameshthin), milked out (as it were) that Rik-verse, sacred to Savitri (Savitri), which begins with the word tad, one foot from each.
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+यस्माद् एवं वेदितव्यं निष्कर्षरूपम् एतत् प्रणवव्याहृतिसावित्र्याख्यं त्रिकं ह्य् अस्मात् ब्राह्मणः अध्ययनादौ प्रणवव्याहृतिसावित्रीर् उच्चारयेद् अन्ते सर्वस्मिन् काले । तथा च प्रणवग्रहणं निदर्शनार्थम् । आदिशब्दलोपो वा । पूर्वश्लोक (?) एवाम् च सति ।
 </details>

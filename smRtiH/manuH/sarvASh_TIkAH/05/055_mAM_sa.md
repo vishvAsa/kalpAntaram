@@ -1,6 +1,5 @@
 +++
 title = "055 मां स"
-
 +++
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
@@ -43,4 +42,10 @@ See Comparative notes for [Verse 5.54].
 <details><summary>Bühler</summary>
 
 055	'Me he (mam sah)' will devour in the next (world), whose flesh I eat in this (life); the wise declare this (to be) the real meaning of the word 'flesh' (mamsah).
+</details>
+
+
+<details><summary>भारुचिः</summary>
+
+इदानीं मांसनिवृत्तिधर्माय वक्तव्येति यत् तु इदं तत्सम्बन्धेनोच्यते ।
 </details>
