@@ -33,6 +33,10 @@ Some unusual rituals involve some unusual components, some of which people may n
 ## Sex
 - Consider various sexual symbolisms used in adoring deities. (See [pUjA pages](/kalpAntaram/dharmaH/vishvAsaH/kriyA-nishchayaH/pUjA))
 
+### ashvamedha
+> अधीवासेनाश्वमहिष्यौ छादयति अध उपरिष्टाच्चाच्छादनक्षमं वासोऽधीवासः । … महिषी स्वयमेवाश्वशिश्नमाकृष्य स्वयोनौ स्थापयति ।  
+> इत्य् उवट-भाष्यं वाजसनेय-संहितायाः। 
+
 ### niyoga (sperm donation)
 - ashvamedha having a niyoga component at one point in time.
   - The queen ritually sleeps with the horse, is given over to the Rtvik-s and then taken back.
