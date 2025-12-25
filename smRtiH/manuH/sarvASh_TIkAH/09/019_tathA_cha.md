@@ -98,7 +98,7 @@ The same Vedic text is referred to and prescribed for reciting—in Śāṅkhāy
 
 <details><summary>भारुचिः</summary>
 
-**स्वालक्षण्यम्** आसां व्यभिचारः । यतस् तासां व्यभिचार्**आकृतिम्** इमां **शृणुत** ॥ ९.१९ ॥
+**स्वालक्षण्यम्** आसां व्यभिचारः । यतस् तासां व्यभिचाराकृतिम् इमां **शृणुत** ॥ ९.१९ ॥
 </details>
 
 <details><summary>Bühler</summary>
