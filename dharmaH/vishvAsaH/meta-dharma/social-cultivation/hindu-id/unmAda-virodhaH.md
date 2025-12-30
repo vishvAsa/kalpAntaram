@@ -2,7 +2,9 @@
 title = "उन्माद-विरोधः"
 +++
 ## शाङ्कराः
-Also, plenty of advaitin type schools are syncretic, eg. rAmakRShNamaTha, yogananda's srf, argentina hastinApur foundation etc..
+Plenty of advaitin type schools are syncretic, eg. rAmakRShNamaTha, yogananda's srf, argentina hastinApur foundation etc..
+
+Monotheism/ Islam friendliness - (notes panchAyatana pUjA etc. and compares to aniconic sulla practices) - [TW](https://www.facebook.com/share/v/177BLLc84R/)
 
 ## त्रिक-शैवाः
 तथेदम् अपि द्रष्टव्यम् - Source: [TW](https://x.com/MohitPandita108/status/1987896584072573423)
@@ -18,5 +20,5 @@ Also, plenty of advaitin type schools are syncretic, eg. rAmakRShNamaTha, yogana
 ## वैष्णवाः
 vaiShNavism is not monotheistic (all-gods-are-same-advaitism is that) - more monolatrous: [YT](https://youtu.be/4QQ-DhoYE-8?t=742)
 
-Note that they are at the forefront of anti-M resistence there. (note who's jailed in TSB/ bdesh).
+Note that they are at the forefront of anti-M resistence there. (note who's jailed in TSB/ bdesh).  
 Ditto with maNipur vaiShNavas vs the pretas, and assam vaiShNava sattras vs both u2 and u3.
