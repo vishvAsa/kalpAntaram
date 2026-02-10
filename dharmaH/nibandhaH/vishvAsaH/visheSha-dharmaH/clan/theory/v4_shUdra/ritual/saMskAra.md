@@ -13,6 +13,8 @@ unicode_script: devanagari
 ### आगमिक-उपनयनम् 
 see [upavIta](/kalpAntaram/vishvAsaH/kriyA-nishchayaH/AjIva-saMskAraH/mantropadeshaH/upanayanam)
 
+upavIta was also provided in traditional TN v4 marriages. see Source: [TW](/notes/places/india/village/paLHaveri-bAlAjI_and_village/)
+
 ### छुरिकाबन्धनम्
 As per some texts, Śūdras underwent a ceremony called Churikābandhana. Śūdrakamalākara mentions a verse which ordains this ceremony in the absence of mauñjī thread in Śūdra Rājaputras. Muhūrtamārtaṇḍa mentions it generally for Śūdras. As per this they were to wear a dagger around the waist. 
 
