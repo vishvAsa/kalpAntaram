@@ -12,6 +12,16 @@ title = "Inbreeding"
 
 > सगोत्राय दुहितरं न प्रयच्छेत् १५ 
 
+### 7 gen rule?
+> Sagotra is banned only till seven generations as per certain dharmashastra texts. 
+> 
+> Nimi was of ikshvaku clan only and his descendants became videha rajas. Sita was born in that family and she married ikshvaku prince Rama. - RL
+
+
+Such rules are to be followed on a best-effort basis. If no one remembers - it's distant enough to be ignored.
+
+This exception (if true) would allow a KA person to marry - say - a south TN sagotra.
+
 ### अबुद्धि-पूर्वकता
 तत्र प्रायश्चित्तानि भिन्नान्य् उक्तानि - बुद्धि-पूर्वकाबुद्धि-पूर्वक-गमनयोः।  
 आधुनिकैस् तु शास्त्र-शिक्षा-रहितैर् यद् आचर्यते बुद्धिपूर्वकम् इव,  
