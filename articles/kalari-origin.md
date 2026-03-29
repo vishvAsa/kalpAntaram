@@ -7,16 +7,23 @@ Source: [TW](https://x.com/sarvamedha/status/2038177858837963196)
 
 Tulu Nadu is considered as birthplace of Kalaripayattu. The highest form of Kalari Vidya said to have existed there. Many Nair and Brahmin practitioners of Tulu Nadan Kalari were imported into Kerala by the rulers to train their troops.
 
-The four Nair families of Valluvanad which supplied Chavers (suicide fighters) to Valluvanad Raja in Mamankam trace their origins to Tulu Nadu and were experts in Tulu Nadan Kalari Vidya.
-
-Quite interestingly the Dharmoth Panickers who were the commanders of the Nair forces of the Samuthiris of Calicut also have their origin in Tulu Nadu. It seems many important Nair families like them share Tulu origin.
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
 recall getting that impression from oru vaDakkan vIrakathA.
 </details>
 
+### Family histories
+The four Nair families of Valluvanad which supplied Chavers (suicide fighters) to Valluvanad Raja in Mamankam trace their origins to Tulu Nadu and were experts in Tulu Nadan Kalari Vidya.
 
+Quite interestingly the Dharmoth Panickers who were the commanders of the Nair forces of the Samuthiris of Calicut also have their origin in Tulu Nadu. It seems many important Nair families like them share Tulu origin.
+
+
+Apart from the mention in ballads many prominent families had connections with Tulu Nadu and went for training there. The Chaver families of Valluvanad, Dharmoth Panickers of Calicut etc are linked with Tulu Nadu. Source: [TW](http://mathoorfamily.org/html/history.htm)
+
+Also you can watch this video mentioning how Kottayam Kerala Varma imported warriors from Tulu Nadu into Travancore and established Kalaris there. It also talks about Varahi worship linked with Tulu region. Source: [TW](https://www.youtube.com/watch?v=vSVF1SxjS10)
+
+### Songs
 It is said in Vadakkan Pattukal that Tulu Gurukkal established Kalaris since there was no vettu or payattu in Kerala.
 
 >  मलयाळं तन्ऱॆ कळरियिलॆ  
@@ -31,6 +38,21 @@ It is said in Vadakkan Pattukal that Tulu Gurukkal established Kalaris since the
 नल्लकळिकळुं अशान्तमे  
 अक्कळि पयऱ्‌ऱुकळि  
 तोटुपोर् कळि तोटुकळि
+
+
+Song says vettu and payattu (i.e. Kalaripayattu) wasn't practiced (നടപ്പില്ലാഞ്ഞു ) in Kerala and Tulu Gurukkals established them. 
+
+In other instance we read about Tulu Gurukkals training youth from Kerala, see this song.
+
+> अञ्चु वयस्सिलॆऴुत्तिन्ऱॆ कलि  
+अश्विनियिलॆ ग्रन्थिपुष्टं  
+तुळुवन्ऱॆ नल्ल तुळुवक्कोल्  
+कुलिक्कॊटुत्तॊन्न् वय्क्कत्तिय  
+कोमन्ऱ्‌ वीटु पऱयुन्नति  
+मुवाञ्चुकळं जन्मवीट्  
+नाटुवीटुमय्य ग्रन्थिपुष्टं  
+तुळुवन्ऱ्‌ वीटु ग्रन्थिपुष्टन्  
+कोमन्ऱ्‌ वीटुकळ् तिरियुन्नपोलि
 
 
 ## Brahmin masters
