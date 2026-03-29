@@ -55,6 +55,11 @@ In other instance we read about Tulu Gurukkals training youth from Kerala, see t
 कोमन्ऱ्‌ वीटुकळ् तिरियुन्नपोलि
 
 
+### Other styles
+I agree there existed other styles, but from the popularity and significance given to the Tulu tradition, what I could infer is that Kalaripayattu may have its ultimate locus in there. I see no other reason why Keralites would go there for education and import Tulu preceptors. 
+
+Also the families who settled in Kerala from Tulu Nadu would obviously have their roots there. These are among the most significant families.
+
 ## Brahmin masters
 Apart from Nairs, there were Brahmins who mastered the art of Kalari. Kalari Gurus of Kochi and Travancore Rajas were Nambuthiri Brahmins.
 
