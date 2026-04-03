@@ -20,7 +20,3 @@ title: दर्भाः
 नुद सर्वाणि पापानि  
 दर्भ स्वस्तिकरो मम॥
 
-## पवित्र-कूर्चादि-सृष्टिः
-- पवित्र-कूर्च-सृष्टौ द्राविडपाद्धतिः, केरलपद्धतिश् चास्मिन् चित्रम् [अत्र](https://www.youtube.com/watch?v=Bb8ohb0PC_M) । केरलपद्धतिर् [अत्रापि](https://www.youtube.com/watch?v=Gngxxyr_tMY)।
-  - दॊरै-पुरोहितः [अत्र](https://www.youtube.com/watch?v=EWM2ShPiwMY&t=19s) ।
-- श्रीवैष्णवपद्धत्या कूर्चसृष्टिर् [अत्र](https://www.youtube.com/watch?v=sEDAgXKMDs0)।
