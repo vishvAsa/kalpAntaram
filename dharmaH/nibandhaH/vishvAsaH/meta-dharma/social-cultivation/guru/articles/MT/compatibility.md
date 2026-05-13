@@ -31,6 +31,11 @@ Sometimes, an aspirant goes through all the saMskAra-s diligently but attains li
 Imagine a raikva +++(commoner teacher of King Jānaśruti)+++ who remained under the cart with no vistors!
 
 
+## Charisma
+Source: [TW](https://x.com/blog_supplement/status/2054430725122687375)
+
+Some people have a strange natural charisma, such that they cast a magnetic attraction on all those who see them speak. It is not merely physical or vocal beauty but some kind of subtler impingement on the consciousness. At the same time, there are those possessed of enormous insight that can be useful to the interlocutor but are passed by like raikva lying under a cart.
+
 ## Beyond IQ and loyalty
 One key thing that may be inferred from H tradition is that not all student-teacher pairings are fruitful even if they might be compatible in terms of IQ. A student might be very interested in what a teacher might have to offer but that is also not enough. 
 
