@@ -36,6 +36,12 @@ Source: [TW](https://x.com/blog_supplement/status/2054430725122687375)
 
 Some people have a strange natural charisma, such that they cast a magnetic attraction on all those who see them speak. It is not merely physical or vocal beauty but some kind of subtler impingement on the consciousness. At the same time, there are those possessed of enormous insight that can be useful to the interlocutor but are passed by like raikva lying under a cart.
 
+
+> How indispensable are the "see" and "speak" parts in the attraction cast on "those who see them speak"? To what extent can someone using the written medium elicit comparable attraction?
+
+IMO they are parts of it but not the sole aspect of it. For example, a male can measure when the attractant is a charismatic female. The said female might not be the physically most beautiful (i.e., one can find several more beautiful females) but can still exhibit that AkarShaNa. That establishes that it is not merely her looks. Sometime a sonorous voice can be even more powerful than looks though not the sole thing.
+
+
 ## Beyond IQ and loyalty
 One key thing that may be inferred from H tradition is that not all student-teacher pairings are fruitful even if they might be compatible in terms of IQ. A student might be very interested in what a teacher might have to offer but that is also not enough. 
 
