@@ -5,7 +5,7 @@ title = "025 याज्ञार्थम् अर्थम्"
 
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
-If a Brāhmaṇa, having begged wealth for a sacrifice, does not spend the whole of it, he becomes, for a hundred years, a Bhāsa or acrow.—(25)
+If a Brāhmaṇa, having begged wealth for a sacrifice, does not spend the whole of it, he becomes, for a hundred years, a Bhāsa or a crow.—(25)
 </details>
 
 <details><summary>मेधातिथिः</summary>

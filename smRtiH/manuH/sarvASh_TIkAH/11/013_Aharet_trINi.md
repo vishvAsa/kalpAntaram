@@ -10,13 +10,32 @@ Or, he may freely take away two or three things from the house of a Śūdra; for
 
 <details><summary>मेधातिथिः</summary>
 
-वैश्यासंभवे शूद्राद् अप्य् आहर्तव्यम् । **त्रीणि वा द्वे वेत्य्** अङ्गप्रकरणाद् अङ्गानि वेदितव्यानि । अत्रार्थवादो **न हि शूद्रस्येति** । यद्य् अपि पूर्वम् अनेकोपायकृतम् आहरणं विहितं तथापि भिक्षणम् अत्र नास्ति, "न यज्ञार्थं धनं शूद्राद् विप्रो भिक्षेत" (म्ध् ११.२३) इति । 
+वैश्यासंभवे शूद्राद् अप्य् आहर्तव्यम् । **त्रीणि वा द्वे वेत्य्** अङ्गप्रकरणाद् अङ्गानि वेदितव्यानि । अत्रार्थवादो **न हि शूद्रस्येति** ।  
+यद्य् अपि पूर्वम् अनेकोपायकृतम् आहरणं विहितं तथापि भिक्षणम् अत्र नास्ति,  
 
-- <u>ननु</u> च स्मृत्यन्तरे ऽविशेषेण शूद्रधनेन यागः प्रतिषिद्धः । 
+> "न यज्ञार्थं धनं शूद्राद्  
+> विप्रो भिक्षेत" (म्ध् ११.२३) 
 
-- <u>अस्योपदेशस्य</u> सामर्थ्याच् छूद्रात् प्रतिगृह्णीतेति द्रष्टव्यम् । 
+इति । 
 
-- <u>अन्ये</u> त्व् आहुः । ब्राह्मणेन स्वीकृतत्वान् नैव तच् छूद्रधनम् इति । यस् तु प्रतिषेधः, स शूद्रस्य शान्तिकपौष्टिकादि येन धनेन करोति ऋत्विग्वत् तत्र द्रष्टव्यः । इह तु भूतपूर्वगत्या शूद्रधनव्यपदेशो ऽस्य स्यात्, सांप्रतिकत्वाभावे च शास्त्राद् या चैवति चेत्य् अयम् एव[^१७] ॥ ११.१३ ॥
+> <u>ननु</u> च स्मृत्यन्तरे ऽविशेषेण शूद्रधनेन यागः प्रतिषिद्धः । 
+
+<u>अस्योपदेशस्य</u> सामर्थ्याच्  
+छूद्रात् प्रतिगृह्णीतेति द्रष्टव्यम् । 
+
+<u>अन्ये</u> त्व् आहुः ।  
+
+> ब्राह्मणेन स्वीकृतत्वान्  
+नैव तच् छूद्रधनम् 
+
+इति ।  
+
+यस् तु प्रतिषेधः,  
+स शूद्रस्य शान्तिकपौष्टिकादि  
+येन धनेन करोति ऋत्विग्वत्  
+तत्र द्रष्टव्यः ।  
+इह तु भूतपूर्वगत्या शूद्रधनव्यपदेशो ऽस्य स्यात्,  
+सांप्रतिकत्वाभावे च शास्त्राद् या चैवति चेत्य् अयम् एव[^१७] ॥ ११.१३ ॥
 
 
 [^१७]:
@@ -31,9 +50,7 @@ If the thing required is not available in the house of a Vaiśya, it may be take
 
 The text adds a declamatory statement—‘*The Śūdra has nothing to do with sacrifices*
 
-Though the appropriation has been spoken of above as to be done by several methods, vet in the ease of the *Śūdra*, there should be no
-*begging*, since it is distinctly said that—‘the Brāhmaṇa shall not beg
-wealth, for the purpose of sacrifices, from a Śūdra.’—(24)
+Though the appropriation has been spoken of above as to be done by several methods, vet in the ease of the *Śūdra*, there should be no *begging*, since it is distinctly said that—‘the Brāhmaṇa shall not beg wealth, for the purpose of sacrifices, from a Śūdra.’—(24)
 
 “In another Smṛti, the performance of sacrifices with wealth belonging to the Śūdra has been prohibited without any exceptions.”
 
