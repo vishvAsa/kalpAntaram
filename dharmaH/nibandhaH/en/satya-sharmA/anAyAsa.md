@@ -167,7 +167,9 @@ Further, *Manusmṛti* 4.176 prohibits the performance of any scripturally ordai
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-This is a stretch. Two words are used for two concepts - no need to make one the special case of another. Otherwise, daNDa would be invalid.
+This is just confusion. With anAyasa I can kill ants. With AyAsa I can avoid that.
+
+Two words are used for two concepts - no need to make one the special case of another. Otherwise, daNDa would be invalid.
 </details>
 
 
