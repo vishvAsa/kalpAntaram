@@ -126,3 +126,14 @@ Kausumbha, Nālamastaka*, and leek,—among vegetables, these are not eatable.�
 
 इति वचनात् "द्विजातिमुख्यवृत्तीनाम्" [म्ध् ३.२८६] इति वचनात् ब्राह्मणाधिकार एव । पूर्वस्मिन्न् अभोज्यान्नप्रकरणे विशेषतो वा ब्राह्मणानाम् । इह तु **द्विजानाम्** इति वचनाद् वर्णत्रयाधिकार एवं च प्रकरणे भेदो युक्त इति । **अमेध्यप्रभवानि** च माषादीनि ।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+**गाजरं न॥**
+
+>  In the 10th century, roots from West Asia, India and Europe were purple. The modern carrot originated in Afghanistan at about this time. The 11th-century Jewish scholar Simeon Seth describes both red and yellow carrots.
+
+इति विकिपुटम्।  
+मनुना ऽस्मिन्न् अर्थे नायं शब्दः प्रयुक्त इति सुग्राह्यम्,  
+यद्य् अपि ५०० वर्षेभ्यः पुर्वं भावप्रकाशय् अन्यथोक्तम्।
+</details>
