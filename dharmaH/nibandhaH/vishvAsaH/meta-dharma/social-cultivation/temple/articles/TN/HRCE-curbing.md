@@ -13,6 +13,22 @@ This is not a mere technicality. Trustees play a crucial role in protecting temp
 Sri Parthasarathy Swamy Temple, Thiruvallikeni, Chennai, is one of the 108 Divya Desams. Its governance must be lawful, transparent, and rooted in the interests of the deity and devotees.
 
 ## Soverign guarantee
+
+### Problem
+Not less than ₹2700 Crores of Hindu Temple Funds  illegally parked in TN Power Finance Corporation an NBFC owned by Govt of Tamil Nadu  - The NBFC has a BBB (-) rating. The lowest rating for a Deposit Taking NBFC. 
+
+Hindu Devotees should remember the deposits made in TN PFC are NOT guaranteed by Govt of Tamil Nadu. 
+
+Temple Funds and University Funds in Tamil Nadu have been forcibly invested in this NBFC whose only job is to lend to TANGEDCO of TN Govt which now has ₹1,60,000 Crores accumulated losses. 
+
+Besides TNPFC has taken at least ₹8000 Crores deposit from Public in excess of the limit it can receive as public deposits. These should be returned immediately. 
+
+TN PFC has flouted RBI and Income tax Rules repeatedly 
+
+Why should Hindu Temple Funds be deposited in such a shaky NBFC? 
+
+### Solution
+
 Source: [TW](https://x.com/trramesh/status/2060309028644044960)
 
 Great Victory for Temple Worshipping Hindus  in Madras High Court today! ! 
