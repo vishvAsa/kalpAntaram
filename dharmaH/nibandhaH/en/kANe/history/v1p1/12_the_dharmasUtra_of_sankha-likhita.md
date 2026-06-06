@@ -33,7 +33,7 @@ The prose quotations from Śāṅkha-Likhita refer to the Vedāṅgas, Śāṅkh
 All these circumstances lead to the conclusion that the dharmaśutra of Śāṅkha is probably later than Gautama and Āpastamba but earlier than the Yājñavalkya-smṛti and so must be assigned to some date between 300 B.C to 100 A.D
 
 
-[^132]: तन्त्रवार्तिक, p. 139 ‘स्मार्तधर्माधिकारे हि शङ्खलिखिताभ्यामुक्तम्- आश्रयः स्मृतिधारकः’.
+[^132]: तन्त्रवार्तिक, p. 139 ‘स्मार्तधर्माधिकारेहि शङ्खलिखिताभ्यामुक्तम्- आश्रयः स्मृतिधारकः’.
 
 [^132a]: न शङ्खलिखितां वृत्तिं शक्यमास्थाय जीवितुम् । विशेषतः कुरुश्रेष्ठ प्रजापालनमीप्सया | The word Saṅkha menns also ‘forehead’ and ‘likhita’ means ‘written’. It was believed that Brahma writes on the forehead of a child (on the sixth day after birth) the child's future; compare the verse:  यद्धात्रा निजभालपट्ट्लिखितं स्तोकं महद्वा धनं तत्प्राप्नोति मरुस्थलेSपि नितरां मेरौ ततो नाधिकम् |  ‘Saṅkbalikhitavṛtti’ would mean the conduct of the two brothers viz. extreme devotion to the rules of honesty and the like. The verse has also another meaning and asks the king not to rely on dares if he desires to protect the subjects.
 
