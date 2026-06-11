@@ -343,7 +343,7 @@ title = "वैष्णवादि-भूत-शुद्धि-परम्�
 - ओं यं नमः पराय सङ्कर्षणाय पुमात्मने नमः
 - ओं षंं नमः पराय वासुदेवाय परमेष्ठ्यात्मने नमः
 
-[^हरि]: हरिभक्तिविलासे ऽधिष्ठान-भागः पञ्चम [ईक्ष्यताम्](/AgamaH_vaiShNavaH/gauDIyaH/kriyA/hari-bhakti-vilAsaH/sarva-prastutiH/05_adhiShThAnam/) ।
+[^हरि]: हरिभक्तिविलासे ऽधिष्ठान-भागः पञ्चम [ईक्ष्यताम्](/AgamaH_vaiShNavaH/rAgAnuga-bhakti-parAH/kriyA/hari-bhakti-vilAsaH/sarva-prastutiH/05_adhiShThAnam/) ।
 
 
 काश्मीरि-केशव-कृतायाः क्रम-दीपिकायाः गोविन्दभट्टाचार्यकृत-टीकायाम् [^क्रम]- 
