@@ -7,7 +7,17 @@ CHAPTER X
 
 EKODDIṢṬA AND OTHER ŚRĀDDHAS
 
-Having dealt at great length with Pārvaṇaśrāddha which is the model of all śrāddhas it is now time to speak of Ekoddiṣṭa śrāddha that is a modification of Pārvaṇaśrāddha[^1150]. The word Ekoddiṣṭa means 'that in which only one deceased person[^1151] is intended (to be invoked or benefited)'. The Pārvaṇaśrāddha is intended for three paternal ancestors and is thus distinguished from Ekoddiṣṭa. In śān. gr. IV. 2, Baud. gr. III, 12.6, the Śrāddhasūtra of Katyāyana (kaṇḍikā 4), and Yāj. I. 251-252, the points of difference between the two are clearly set out[^1152]. In this śrāddha only one _arghya_ is offered, there is only one _pavitra_ and only one piṇḍa is offered, there is no _āvāhana_ (as there is in Pārvaṇa), no agnaukaraṇa, there are no brāhmaṇas invited to represent the Viśve-devas; the question about being satiated by the dinner is to be asked in the word 'svaditam' (did it taste well) and the brāhmaṇas reply with 'susvaditam') (it had excellent taste ); instead of saying 'may it be in exhaustible,' the formula here used is ‘May it approach' (or wait upon the deceased person); when the brāhmaṇas are sent away at the end of the dinner the word used is 'be satisfied (or delighted)' and they reply 'we are delighted.' The Viṣṇupurāṇa (1II. 13. 23-26) and Mārkaṇḍeya (28. 8-11) closely follow the Śrāddhasūtra and Yāj. According to śān. gr. (IV. 2. 7)[^1153], Manu III, 257, Mārkaṇḍeya (28. 11), Yāj. I. 256 and others, for one year after the death of a twice-born person till the sapiṇḍikaraṇa śrāddha is performed this is the way in which śrāddha is to be performed for the _preta_ every month.
+## Differences
+Having dealt at great length with Pārvaṇaśrāddha which is the model of all śrāddhas it is now time to speak of Ekoddiṣṭa śrāddha that is a modification of Pārvaṇaśrāddha[^1150]. The word Ekoddiṣṭa means 'that in which only one deceased person[^1151] is intended (to be invoked or benefited)'. The Pārvaṇaśrāddha is intended for three paternal ancestors and is thus distinguished from Ekoddiṣṭa. 
+
+In śān. gr. IV. 2, Baud. gr. III, 12.6, the Śrāddhasūtra of Katyāyana (kaṇḍikā 4), and Yāj. I. 251-252, the points of difference between the two are clearly set out[^1152].  
+In this śrāddha only one _arghya_ is offered, there is only one _pavitra_ and only one piṇḍa is offered, there is no _āvāhana_ (as there is in Pārvaṇa), no agnaukaraṇa, there are no brāhmaṇas invited to represent the Viśve-devas;   
+the question about being satiated by the dinner is to be asked in the word 'svaditam' (did it taste well) and the brāhmaṇas reply with 'susvaditam') (it had excellent taste );  
+instead of saying 'may it be in exhaustible,' the formula here used is ‘May it approach' (or wait upon the deceased person);  
+when the brāhmaṇas are sent away at the end of the dinner the word used is 'be satisfied (or delighted)' and they reply 'we are delighted.'  
+
+## Frequency
+The Viṣṇupurāṇa (1II. 13. 23-26) and Mārkaṇḍeya (28. 8-11) closely follow the Śrāddhasūtra and Yāj. According to śān. gr. (IV. 2. 7)[^1153], Manu III, 257, Mārkaṇḍeya (28. 11), Yāj. I. 256 and others, for one year after the death of a twice-born person till the sapiṇḍikaraṇa śrāddha is performed this is the way in which śrāddha is to be performed for the _preta_ every month.
 
 [^1150]:  अथेत्यनेनैकोद्दिष्टस्य पार्वणानन्तर्याभिधानं तयोः प्रकृतिविकृतित्वं सूचयति । श्राद्धतत्त्व p. 244.
 
@@ -17,11 +27,21 @@ Having dealt at great length with Pārvaṇaśrāddha which is the model of all 
 
 [^1153]: अथैकोद्दिष्टम् । एकोऽर्घ एकं पवित्रमेकः पिण्डो नावाहनं नाग्नौकरणं नाब विश्वे देवाः स्वदितमिति तृप्तिप्रश्नः सुस्वदितमितीतरे ब्रूयुरुपतिष्ठतामित्यक्षय्यस्थानेऽभिरम्यतामिति विसर्गोऽभिरताः स्म इतीतरे । श्राद्धसूत्र 4 (कात्यायनीय). Almost the same words occur in कौषीतकिगृह्य 4. 2 (Benares S. Series). The यजुर्वेदिश्राद्धतत्त्व (Jiv.II p. 495) explains 'एकं एकदलरूपं पवित्रम्'।.
 
-## Characteristics of Ekoddiṣṭa
+## ūhas
 
-The Viṣṇudharmasūtra 21.2 provides that suitable changes (ūha) should be made in the mantras employed (e.g. instead of 'atra pitaro mādayadhvam' the mantra should be ‘atra pitarmādayasva' (O father![^1154] regale thyself here). In Ekoddiṣṭa such a formula as 'ye ca tvām-anu' (those that come after thee) cannot be employed and the word 'pitṛ' is not to be employed (till sapiṇḍikaraṇa is performed), but the word 'preta' (Aparārka p. 525 quoting Śaunaka-gṛhyapariśiṣṭa)[^1155].
+The Viṣṇudharmasūtra 21.2 provides that suitable changes (ūha) should be made in the mantras employed (e.g. instead of 'atra pitaro mādayadhvam' the mantra should be ‘atra pitar mādayasva' (O father![^1154] regale thyself here). 
 
-As seen above (p. 262, note 591a) Ekoddiṣṭa śrāddhas are of three kinds, nava, navamiśra and purāṇa. Navaśrāddhas are those that are performed till the 10th or 11th day after death, navamiśras (or miśras) are those that are performed after the 11th day till one year (or six months, according to some) after death. Aparārka quotes a verse from Vyāghra[^1156] that Ekoddiṣṭa-śrāddha is performed on the 11th day, on the 4th day, at the end of each month for a year after death and every year on the day of death and a verse of Katyāyana that (ekoddiṣṭa) śrāddha should be performed for one who had kept sacred fires on the 11th day after the day of cremation and that the Dhruva śrāddhas should always be performed on the day of death. Aparārka explains 'Dhruvāṇi' as meaning those that are performed after three fortnights from death. About the navaśrāddha there is again a divergence of views. One meaning has already been given above on p. 262 note 593. The Skandapurāṇa VI (Nāgarakhaṇḍa ) 205. 1-4 and Garudapurāṇa (pretakhaṇḍa 5. 67-69 ) state that navaśrāddhas are nine viz. the three performed where a man died, where the funeral procession rested on the way and where the burnt bones were collected and six more performed on the 5th, 7th, 8th, 9th, 10th, and 11th days after death.
+In Ekoddiṣṭa such a formula as 'ye ca tvām-anu' (those that come after thee) cannot be employed and the word 'pitṛ' is not to be employed (till sapiṇḍikaraṇa is performed), but the word 'preta' (Aparārka p. 525 quoting Śaunaka-gṛhyapariśiṣṭa)[^1155].
+
+## Types
+As seen above (p. 262, note 591a) Ekoddiṣṭa śrāddhas are of three kinds, nava, navamiśra and purāṇa. 
+
+Navaśrāddhas are those that are performed till the 10th or 11th day after death, navamiśras (or miśras) are those that are performed after the 11th day till one year (or six months, according to some) after death. 
+
+## Day of performance
+Aparārka quotes a verse from Vyāghra[^1156] that Ekoddiṣṭa-śrāddha is performed on the 11th day, on the 4th day, at the end of each month for a year after death and every year on the day of death and a verse of Katyāyana that (ekoddiṣṭa) śrāddha should be performed for one who had kept sacred fires on the 11th day after the day of cremation and that the Dhruva śrāddhas should always be performed on the day of death. 
+
+Aparārka explains 'Dhruvāṇi' as meaning those that are performed after three fortnights from death. About the navaśrāddha there is again a divergence of views. One meaning has already been given above on p. 262 note 593. The Skandapurāṇa VI (Nāgarakhaṇḍa ) 205. 1-4 and Garudapurāṇa (pretakhaṇḍa 5. 67-69 ) state that navaśrāddhas are nine viz. the three performed where a man died, where the funeral procession rested on the way and where the burnt bones were collected and six more performed on the 5th, 7th, 8th, 9th, 10th, and 11th days after death.
 
 [^1154]: एकवन्मन्त्रानूहेतैकोद्दिष्टे । विष्णुध. सू. 21. 2. On this the दीपकलिका explains “अत्र पितरो मादयध्वमिति बहुवचनान्तेषु अत्र पितर्मादयस्व इति एकवचनेनोहः कार्यः".
 
@@ -29,7 +49,27 @@ As seen above (p. 262, note 591a) Ekoddiṣṭa śrāddhas are of three kinds, n
 
 [^1156]: तत्र व्याघ्रः। एकादशे चतुर्थे च मासि मासि च वत्सरम् । प्रतिसंवत्सरं चैव मेकोद्दिष्टं मृताहनि॥ कात्यायनः । श्राद्धमग्निमतः कार्ये दाहादेकादशेऽहनि । ध्रुवाणि तु प्रकुर्वीत प्रप्नीताहनि सर्वदा ॥ अपरार्क p. 521. This last is गोभिलस्मृति III. 66 which reads प्रत्याब्दिकं प्रकुर्वीत.
 
-Numerous works lay down that there are sixteen śrāddhas which must be performed for a deceased person and that if these are not performed then his spirit is not freed from the condition of being a _preta_ and a _piśaca_[^1157]. There is a great deal of divergence of views about what these sixteen śrāddhas are, some works including sapiṇḍikaraṇa among the 16, others excluding it therefrom. Gobhilasmṛti III. 67 enumerates[^1158] the 16 as follows: The twelve monthly śrāddhas (performed every month on the _tithi_ of death), the first (i.e. the sraddha on the 11th day), two śrāddhas on (a day prior to the expiry of) every six months from the tithi of death and sapiṇḍikaraṇà are the sixteen Śraddhas. The Garudapurāṇa[^1159] refers to three groups of sixteen, one of which enumerates the 16 sraddhas as those performed on the 12th day (after death), after three fortnights, after six months, after every month and at the end of the year, while the Padmapurāṇa[^1160] enumerates them as follows: the sixteen śrāddhas are those performed on the 4th day after death, at the end of three fortnights, after six months, after a year and twelve śrāddhas performed each month (on the _tithi_ of death). The Kalpataru p. 25 and Brahmapurāṇa q. by Aparārka (p. 523) state that the 16 śrāddhas are those performed on 4th, 5th, 9th and 11th days after death and the twelve monthly śrāddhas (on the tithi of death[^1161]).
+## Sixteen śrāddhas
+Numerous works lay down that there are sixteen śrāddhas which must be performed for a deceased person and that if these are not performed then his spirit is not freed from the condition of being a _preta_ and a _piśaca_[^1157]. 
+
+There is a great deal of divergence of views about what these sixteen śrāddhas are, some works including sapiṇḍikaraṇa among the 16, others excluding it therefrom. 
+
+Gobhilasmṛti III. 67 enumerates[^1158] the 16 as follows:  
+The twelve monthly śrāddhas (performed every month on the _tithi_ of death),  
+the first (i.e. the sraddha on the 11th day),  
+two śrāddhas on (a day prior to the expiry of) every six months from the tithi of death  
+and sapiṇḍikaraṇà are the sixteen Śraddhas.  
+
+The Garudapurāṇa[^1159] refers to three groups of sixteen,  
+one of which enumerates the 16 sraddhas as those performed on the 12th day (after death),  
+after three fortnights,  
+after six months,  
+after every month  
+and at the end of the year, 
+
+while the Padmapurāṇa[^1160] enumerates them as follows:  
+the sixteen śrāddhas are those performed on the 4th day after death,  
+at the end of three fortnights, after six months, after a year and twelve śrāddhas performed each month (on the _tithi_ of death). The Kalpataru p. 25 and Brahmapurāṇa q. by Aparārka (p. 523) state that the 16 śrāddhas are those performed on 4th, 5th, 9th and 11th days after death and the twelve monthly śrāddhas (on the tithi of death[^1161]).
 
 [^1157]: यस्यैतानि न दीयन्ते प्रेतश्राद्धानि षोडश । पिशाचत्वं ध्रुवं तस्य दत्तैः श्राद्ध शतैरपि॥ यम q. by श्रा. क्रि. को. p. 362. The same verse occurs in गरुडपुराण (प्रेतखण्ड 5. 50-51), लिखितस्मृति 16 (reads यस्यैतानि न कुर्वात एकोद्दिष्टानि), लघुशङ्क 13 (with variations), पद्म (सृष्टिखण्ड 47.272 reads न सन्तीह यथाशक्त्या च श्रद्धया). The verse is quoted by the मिता. on या 1.254 (reading न दत्तानि and प्रेतत्वं सुस्थिरं तस्य). प्रेतलोके तु वसतिर्नृणां वर्षे प्रकीतता। क्षुत्तृष्णे प्रत्यहं तत्र भवेतां भृगुनन्दन ॥ मार्कण्डेय q. by मिता. on या. I. 253.
 
@@ -43,9 +83,24 @@ Numerous works lay down that there are sixteen śrāddhas which must be performe
 
 ## Views on sixteen śrāddhas
 
-Laugākṣi and others say that after performing the 16 śrāddhas according to the procedure for Ekoddiṣṭa śrāddhas sapiṇḍana should be performed[^1162]. The Madanapārijāta (p. 615 ), the Nirṇayasindhu (III. p. 599) and others say that in this conflict of views one should follow the usage of one's country, Vedic śākhā or family. There were two views about the śrāddha on the 11th day. It should be remembered that Yāj. III. 22 laid down impurity on death for 10, 12, 15 and 30 days respectively for the four varṇas. One view espoused by śankha and Paithinasi was that in spite of the days of impurity not being over śrāddha must be performed on the 11th day (and for the moment the performer becomes pure for that purpose). The other view was that of the Matsyapurāṇa and Viṣṇudharmasūtra 21.1 that the first śrāddha (ekoddiṣṭa ) was to be performed on the expiry of āśauca.
+Laugākṣi and others say that after performing the 16 śrāddhas according to the procedure for Ekoddiṣṭa śrāddhas sapiṇḍana should be performed[^1162]. 
 
-In the case of ascetics dying it is provided by Uśanas[^1163] that by the fact of their taking to the order of _sannyāsa_ (of the ekadaṇḍi kind in the Kaliyuga ) they have not to undergo the condition of being _preta_, no Ekoddiṣṭa nor Sapiṇḍikaraṇa should be performed for them by their son or other relative but only pārvaṇaśrāddha on the 11th day and every year thereafter. Śatātapa provides[^1164] that no Ekoddiṣṭa, no water, no piṇḍa and no cremation rites should be offered to an ascetic nor mourning should be observed, but pārvaṇa-śrāddha should be performed. Pracetas quoted by Mit on Yāj. I. 256 states that no ekoddiṣṭa is to be performed for an ascetic nor sapiṇḍikaraṇa, but only pārvaṇa on the day of death every year in Bhadrapada dark half. The Sivapurāṇa (Kailāsa-samhitā) chapters 22 and 23 deal with the rites to be performed on an ascetic's death on the 11th and 12th days.
+The Madanapārijāta (p. 615 ), the Nirṇayasindhu (III. p. 599) and others say that in this conflict of views one should follow the usage of one's country, Vedic śākhā or family. 
+
+There were two views about the śrāddha on the 11th day. It should be remembered that Yāj. III. 22 laid down impurity on death for 10, 12, 15 and 30 days respectively for the four varṇas.  
+One view espoused by śankha and Paithinasi was that in spite of the days of impurity not being over  
+śrāddha must be performed on the 11th day (and for the moment the performer becomes pure for that purpose). 
+
+The other view was that of the Matsyapurāṇa and Viṣṇudharmasūtra 21.1 that the first śrāddha (ekoddiṣṭa ) was to be performed on the expiry of āśauca.
+
+## Ascetics
+In the case of ascetics dying it is provided by Uśanas[^1163] that by the fact of their taking to the order of _sannyāsa_ (of the ekadaṇḍi kind in the Kaliyuga ) they have not to undergo the condition of being _preta_, no Ekoddiṣṭa nor Sapiṇḍikaraṇa should be performed for them by their son or other relative but only pārvaṇaśrāddha on the 11th day and every year thereafter. 
+
+Śatātapa provides[^1164] that no Ekoddiṣṭa, no water, no piṇḍa and no cremation rites should be offered to an ascetic nor mourning should be observed, but pārvaṇa-śrāddha should be performed. 
+
+Pracetas quoted by Mit on Yāj. I. 256 states that no ekoddiṣṭa is to be performed for an ascetic nor sapiṇḍikaraṇa, but only pārvaṇa on the day of death every year in Bhadrapada dark half. 
+
+The Sivapurāṇa (Kailāsa-samhitā) chapters 22 and 23 deal with the rites to be performed on an ascetic's death on the 11th and 12th days.
 
 [^1162]: श्राद्धानि षोडशापाद्य विदधीत सपिण्डनम्। लौगाक्षि q. by मिता. on या. I, 255, निर्णयसिन्धु p. 599, भट्टोजि on चतुर्विशतिमतसंग्रह p. 168; ascribed to वायुपुराण by अपरार्क p. 532; सपिण्डीकरणादर्वाक् कुर्याछ्राद्धानि षोडश। एकोद्दिष्टविधानेन कुर्यात्सर्वाणि तानि तु ॥ q. by अपरार्क p. 522.
 
@@ -53,16 +108,55 @@ In the case of ascetics dying it is provided by Uśanas[^1163] that by the fact 
 
 [^1164]: एकोद्दिष्टं जलं पिण्डमाशौचं प्रेतसत्क्रियाम् । न कुर्याद्वार्षिकादन्यद् ब्रह्मभूता हि ते स्मृताः॥ शातातप q. by मद. पा. p. 627, श्रा क्रि. कौ. p. 445, अपरार्क p. 538(reads पार्वणादन्यद् ब्रह्मीभूताय भिक्षवे).
 
-In the Navaśrāddhas no incense, no lamps are employed. All mantras having the words 'pitṛ' and 'svadhā namaḥ' are omitted and so is the word 'anu' omitted and there is no _japa_ and no recital of mantras in the hearing of the brāhmaṇas. As stated in the Brahmapurāṇa, the śrāddhas performed in the house at the end of impurity on the 12th day, at the end of a month etc, are called ekoddiṣṭa. It follows that the rites called navaśrāddhas offered during the days of impurity are performed at the place of death or in the cemetery or at a place where water and piṇda are offered (and not in the house ); vide Sm. C. (āśauca p. 176 ). In the _navamiśra_ śrāddha mantras are employed according to some. In former times and now also all the 16 śrāddhas are performed on the 11th day. Hardly any one waits for one year to perform Sapiṇḍikaraṇa. In former times it was laid down (e.g. by the Mit. ) that in times of difficulty, Sapiṇḍikaraṇa should be performed even before a year elapses after performing the sixteen śrāddhas. But now this exception has become the rule.
+## Navaśrāddhas
+In the Navaśrāddhas no incense, no lamps are employed. All mantras having the words 'pitṛ' and 'svadhā namaḥ' are omitted and so is the word 'anu' omitted and there is no _japa_ and no recital of mantras in the hearing of the brāhmaṇas.  
+As stated in the Brahmapurāṇa, the śrāddhas performed in the house at the end of impurity on the 12th day, at the end of a month etc, are called ekoddiṣṭa.  
 
-Sapiṇḍikaraṇa or Sapiṇḍana is the reception of a deceased person into the community of pitṛs to whom piṇḍas are offered. Several times were prescribed by ancient works for this. Acc. to the Kauṣītaki gr. IV. 2 this śrāddha could be performed after the death of the deceased at the end of a year or at the end of three fortnights or on the happening of a lucky event (like the birth of a son or a marriage). The Bhāradvāja[^1165] gr. (III. 17) allowed it at the end of a year (after death) or in the 11th or 6th or 4th month or on the 12th day. The Baud. Pitṛmedhasūtra II. 12.1 mentions five times for sapiṇḍikaraṇa viz, one year, 11th, 6th or 4th month or 12th day. The Garudapurāṇa (Pretakhaṇḍa 6. 53-54) states the time of Sapiṇḍikaraṇa to be one year, six months, three fortnights, the 12th day or on a lucky occasion. The Viṣṇupurāṇa (III. 13. 26ff) makes similar provisions about sapiṇḍikaraṇa (which is an ekoddiṣṭa śrāddha). Aparārka (p. 540) after a long discussion holds that there are three times for a performer who is an _āhitāgni_ viz. 12th day, some day between the end of _āśauca_ and the first amāvāsya (after death) or the first amāvāsyā after āśauca ends and prescribes four times for one who has not kept sacred fires, viz. a year, six months, three fortnights or when a lucky event occurs.
+### Locii
+It follows that the rites called navaśrāddhas offered during the days of impurity are performed at the place of death or in the cemetery or at a place where water and piṇda are offered (and not in the house ); vide Sm. C. (āśauca p. 176 ). 
+
+## navamiśra
+In the _navamiśra_ śrāddha mantras are employed according to some. 
+
+## Speedening
+In former times and now also all the 16 śrāddhas are performed on the 11th day. Hardly any one waits for one year to perform Sapiṇḍikaraṇa. In former times it was laid down (e.g. by the Mit. ) that in times of difficulty, Sapiṇḍikaraṇa should be performed even before a year elapses after performing the sixteen śrāddhas. But now this exception has become the rule.
+
+## Sapiṇḍikaraṇa
+Sapiṇḍikaraṇa or Sapiṇḍana is the reception of a deceased person into the community of pitṛs to whom piṇḍas are offered. Several times were prescribed by ancient works for this.  
+
+### The time for Sapiṇḍikaraṇa
+Acc. to the Kauṣītaki gr. IV. 2 this śrāddha could be performed after the death of the deceased at the end of a year or at the end of three fortnights or on the happening of a lucky event (like the birth of a son or a marriage). 
+
+The Bhāradvāja[^1165] gr. (III. 17) allowed it at the end of a year (after death) or in the 11th or 6th or 4th month or on the 12th day. 
+
+The Baud. Pitṛmedhasūtra II. 12.1 mentions five times for sapiṇḍikaraṇa viz, one year, 11th, 6th or 4th month or 12th day. 
+
+The Garudapurāṇa (Pretakhaṇḍa 6. 53-54) states the time of Sapiṇḍikaraṇa to be one year, six months, three fortnights, the 12th day or on a lucky occasion. 
+
+The Viṣṇupurāṇa (III. 13. 26ff) makes similar provisions about sapiṇḍikaraṇa (which is an ekoddiṣṭa śrāddha). 
+
+Aparārka (p. 540) after a long discussion holds that there are three times for a performer who is an _āhitāgni_ viz. 12th day, some day between the end of _āśauca_ and the first amāvāsya (after death) or the first amāvāsyā after āśauca ends  
+and prescribes four times for one who has not kept sacred fires, viz. a year, six months, three fortnights or when a lucky event occurs.
 
 [^1165]: संवत्सरे सपिण्डीकरणमेकादशे मासि षष्ठे चतुर्थे द्वादशेहनि। भारद्वाजगृह्य III 17.1; आनन्त्यात्कुलधर्माणां पुंसां चैवायुषः क्षयात् । अस्थिरत्वाच्छरीरस्य द्वादशाहो प्रशस्यते ॥ व्यास q. by मद. पा. p. 631, श्रा.क्रि. को. p. 350 (ascribes to व्याघ्र ), पृथ्वीच. fohan 237 a (ascribes to व्याघ्र), भट्टोजि p. 176 of चतुर्विशति०, श्राद्धतत्त्व p. 301.
 
-## The time for Sapiṇḍikaraṇa
 
-The Madanapārijāta quotes a verse of Vyāsa that the 12th day is commended (for the sapiṇḍana śrāddha) because family usages are innumerable, because man's life is short and because the body is evanescent. The Viṣṇu Dh. S. (21.20) provides that for śūdras 12th day after death is the only day for Sapiṇḍikaraṇa (but without Vedic mantras). Gobhila laid down that after Sapiṇḍikaraṇa was performed, there was to be no performance of śrāddhas every month, but Gautama (or Śaunaka, according to Aparārka p. 543) held the view that they may be performed according to the procedure of ekoddiṣṭa śrāddhas. Bhattoji says [^1166] that when sapiṇḍikaraṇa is performed before the end of the year, then all the sixteen śrāddhas must be performed before Sapiṇḍikaraṇa, yet the monthly śrāddhas should again be performed at their proper times for one year. Yāj. I. 255 and Viṣṇu Dh. S. 21. 23 prescribe that even if Sapiṇḍikaraṇa is performed for a deceased person within less than a year from death still for one year food and a jar of water should be given to a brāhmaṇa for the whole year (for the benefit of the deceased). Uśanas provides that even if the heirs of a deceased person are divided in wealth, still the _navaśrāddhas_, the sixteen śrāddhas, and sapiṇḍikaraṇa must be performed by one alone[^1167] (e.g. the eldest son), but Pracetas provides that when a year has ( elapsed ) śrāddha may be performed separately by each heir[^1168].
+The Madanapārijāta quotes a verse of Vyāsa that the 12th day is commended (for the sapiṇḍana śrāddha) because family usages are innumerable, because man's life is short and because the body is evanescent. 
 
+The Viṣṇu Dh. S. (21.20) provides that for śūdras 12th day after death is the only day for Sapiṇḍikaraṇa (but without Vedic mantras). 
+
+### Post-Sapiṇḍikaraṇa
+Gobhila laid down that after Sapiṇḍikaraṇa was performed, there was to be no performance of śrāddhas every month,  
+but Gautama (or Śaunaka, according to Aparārka p. 543) held the view that they may be performed according to the procedure of ekoddiṣṭa śrāddhas. 
+
+Bhattoji says [^1166] that when sapiṇḍikaraṇa is performed before the end of the year, then all the sixteen śrāddhas must be performed before Sapiṇḍikaraṇa, yet the monthly śrāddhas should again be performed at their proper times for one year. +++(4)+++
+
+Yāj. I. 255 and Viṣṇu Dh. S. 21. 23 prescribe that even if Sapiṇḍikaraṇa is performed for a deceased person within less than a year from death still for one year food and a jar of water should be given to a brāhmaṇa for the whole year (for the benefit of the deceased). 
+
+### Sapiṇḍikaraṇa performer
+Uśanas provides that even if the heirs of a deceased person are divided in wealth, still the _navaśrāddhas_, the sixteen śrāddhas, and sapiṇḍikaraṇa must be performed by one alone[^1167] (e.g. the eldest son), but Pracetas provides that when a year has ( elapsed ) śrāddha may be performed separately by each heir[^1168].
+
+### Procedure
 The procedure of Sapiṇḍana or Sapiṇḍikaraṇa is described in numerous works such as the Sān. gr. V. 9, Kauṣitaki gr. IV. 2, Baud. Pitṛmedhasūtra III, 12.12, Śrāddha-sūtra of Kātyāyana (kaṇḍikā 5), Yāj. I. 253-254, Viṣṇupurāṇa III. 13.27 ff., Viṣṇu Dh. S. 21. 12-23, Padma (Sṛṣṭikhanda 10.22-33), Mārkaṇḍeya-purāṇa 28. 12-18, Garuda-purāṇa I. 220, Viṣṇudharmottara II, 77, Smṛtyarthasāra pp. 57-58, Nirṇayasindhu (IIL, p. 614). It is briefly set out here[^1169].
 
 [^1166]: यदा संवत्सरपूर्तेः प्रागेव सपिण्डीकरणं क्रियते तदा यद्यपि षोडश श्राद्धानि ततः प्रागेव कृतानि-श्राद्धानि षोडशादत्त्वा न कुर्यात्तु सपिण्डनम् इति वृद्धवसिष्ठोक्तेः, तथापि स्वस्वकाले पुनरपि मासिकादीन्यावर्तनीयानि। भट्ठोजि on चतुर्विंशतिमतसंग्रह p. 171.
@@ -73,15 +167,61 @@ The procedure of Sapiṇḍana or Sapiṇḍikaraṇa is described in numerous w
 
 [^1169]: The सङ्कल्प in सपिण्डन will be somewhat as follows: 'अमुकगोत्रस्यामुकशर्मणः प्रेतस्य प्रेतत्वनिवृत्त्या पितृलोकप्राप्त्यर्थममुकगोत्रैः अमुकशर्मभिर्वसुरुद्रादित्यस्वरूपैः प्रेतपितृपितामहप्रपितामहैः सह सपिण्डीकरणं मृताहाद् द्वादशेऽह्नि पार्वणैकोधिष्टविधिना करिष्ये'।
 
-As said by Baud.Pitṛmedhasūtra III, 12.12, in this śrāddha there is invitation to the brāhmaṇas the previous day, there is agnaukaraṇa, there is the recital of Vedic texts when the brāhmaṇas are engaged in eating, Vaiśvadeva brāhmaṇas are honoured, the Viśvedevas are Kāma and Kāla (vide n. 1018), there is the presentation of incense and lamp, there is _svadhā_ and also _namaskāra_. Four vessels for _arghya_ should be got ready and filled with sandalwood paste, water and sesamum grains, one being for the deceased (the _preta_) and three for his paternal ancestors; two daiva brāhmaṇas should be invited, one to represent the _preta_ and three to represent the three paternal ancestors of the _preta_; if a man is unable to invite so many brāhmaṇas, he should invite three, one for Viśvedevas, one for the preta and one for the three paternal ancestors. He should request 'I shall unite the vessel for the preta with the vessels for his three paternal ancestors.' When permitted in the words 'do unite', he should cast the kuśas in the vessel for the _preta_ into the vessels for his three paternal ancestors, should keep a little water mixed with kuśas in the vessel for the _preta_ and distribute the rest of the water from the preta vessel into the three vessels for his ancestors with the two mantras[^1169] 'ye samānā' (Vāj. S. 19. 45-46). Arghya is offered to the brāhmaṇa representing the preta with the water that remains in the preta vessel, arghya is offered to the three _pitṛya_ brāhmaṇas from the three pitṛya vessels. Four piṇḍas should be prepared, one for the _preta_ and three for his ancestors and then the performer requests "I shall unite the pretapiṇḍa with the piṇḍas for the three ancestors of his'; when permitted in the words 'do unite', the performer divides the pretapiṇḍa into three parts and puts each third into each of the three piṇḍas with the same two mantras (Vāj. S. 19. 45-46). The Garudapurāṇa (I. 220,6 ) strikes a discordant note in that it states that the pretapiṇḍa is to be divided in two parts, each of which is to be placed inside the piṇḍas for pitāmaha and prapitāmaha only.
+As said by Baud.Pitṛmedhasūtra III, 12.12, in this śrāddha there is  
+
+invitation to the brāhmaṇas the previous day,  
+there is agnaukaraṇa,  
+there is the recital of Vedic texts when the brāhmaṇas are engaged in eating,  
+Vaiśvadeva brāhmaṇas are honoured,  
+the Viśvedevas are Kāma and Kāla (vide n. 1018),  
+there is the presentation of incense and lamp,  
+there is _svadhā_ and also _namaskāra_. 
+
+Four vessels for _arghya_ should be got ready and filled with sandalwood paste, water and sesamum grains,  
+one being for the deceased (the _preta_) and three for his paternal ancestors;  
+two daiva brāhmaṇas should be invited,  
+one to represent the _preta_  
+and three to represent the three paternal ancestors of the _preta_;  
+if a man is unable to invite so many brāhmaṇas, he should invite three, one for Viśvedevas, one for the preta and one for the three paternal ancestors. 
+
+He should request 'I shall unite the vessel for the preta with the vessels for his three paternal ancestors.'  
+When permitted in the words 'do unite', he should cast the kuśas in the vessel for the _preta_ into the vessels for his three paternal ancestors,  
+should keep a little water mixed with kuśas in the vessel for the _preta_ and distribute the rest of the water from the preta vessel into the three vessels for his ancestors with the two mantras[^1169] 'ye samānā' (Vāj. S. 19. 45-46). 
+
+Arghya is offered to the brāhmaṇa representing the preta with the water that remains in the preta vessel, arghya is offered to the three _pitṛya_ brāhmaṇas from the three pitṛya vessels.  
+Four piṇḍas should be prepared, one for the _preta_ and three for his ancestors  
+and then the performer requests "I shall unite the pretapiṇḍa with the piṇḍas for the three ancestors of his"; 
+when permitted in the words 'do unite',  
+the performer divides the pretapiṇḍa into three parts  
+and puts each third into each of the three piṇḍas with the same two mantras (Vāj. S. 19. 45-46). 
+
+The Garudapurāṇa (I. 220,6 ) strikes a discordant note in that it states that the pretapiṇḍa is to be divided in two parts,  
+each of which is to be placed inside the piṇḍas for pitāmaha and prapitāmaha only.
 
 [^1169a]: The two mantras are: ये समानाः समनसः पितरो यमराज्ये । तेषां लोकः स्वधा नमो यज्ञो देवेषु कल्पताम्॥ ये समानाः समनसो जीवा जीवेषु मामकाः। तेषां श्रीर्मयि कल्पतामस्मिल्ँलोके शतं समाः॥ वाज. सं. 19.45-46, काठकसंहिता 38. 23-24. भारद्वाजगृह्य III. 17 sets out the following formula for तिलप्रदान 'ये समाना ये सजाता इति द्वाभ्यामसौ पितृभिः पितामहेभिः प्रपितामहेभिः सहैतत्ते तिलोदकं तस्मै ते स्वधा नाम इति तिलोदकप्रदानम् ।'. In place of असौ one has to use the vocative 'अस्मत्पितरमुकगोत्रा मुकशर्मन् प्रेत'. पितामहेभिः and प्रपितामहेभिः are Vedic Instrumentals (plural).
 
-##Sapiṇḍikaraṇa
+### Dual nature
 
-Sapiṇḍikaraṇa partakes of the character of both ekoddiṣṭa and pārvaṇa, the first applying to the _preta_ and the 2nd to the three ancestors of the _preta_, so that in it two kinds of śrāddhas are combined. When the sapiṇḍikaraṇa rite is completed by the giving of dakṣiṇā to the brāhmaṇas, then the _preta_ ceases to be so and himself becomes a pitṛ. The status of being a _preta_ involves the experiencing of great torments due to hunger and thirst and becoming a pitṛ means being brought in contact with the śrāddha devatās called Vasu, Rudra and Āditya[^1170]. The word _preta_ has two meanings, (1) a person who is dead and (2) one who being dead has not the sapiṇḍikaraṇa performed for him. The result of sapiṇḍana is that the[^1171] great-grandfather of the deceased whose sapiṇḍana is performed drops out from the list of pitṛs entitled to piṇḍa and becomes one called 'lepabhāk' (entitled to only wipings of the hand) and the former "_preta_ becomes one of the pitṛs and entitled to participate in the piṇḍas offered at a pārvaṇaśrāddha thereafter. As stated in the Garudapurāṇa I. 220. 2 the sapiṇḍikaraṇa-śrāddha is to be performed like the pārvaṇa in the afternoon.
+Sapiṇḍikaraṇa partakes of the character of both ekoddiṣṭa and pārvaṇa, the first applying to the _preta_ and the 2nd to the three ancestors of the _preta_, so that in it two kinds of śrāddhas are combined. 
 
-It may be noted that in some works the mantras recited at the time of pouring the water from the preta vessel into the pitṛ vessels are different. For example, the Viṣṇu Dh.S. 21. 14 says[^1172] the mantras are 'Samsṛjatu tvā pṛthivi' (May the earth unite thee) and 'samāni va ākutiḥ' (Ṛg. X. 191.4), while the Gṛhya-pariśiṣṭa[^1173] of Āśv. employs the three Madhumati verses (Ṛg. I. 90.6-8) and the three fine verses at the end of the Ṛgveda beginning with 'saṅgacchadhvam! (Ṛg. X. 191. 2-4, 'May you unite' &c.).
+When the sapiṇḍikaraṇa rite is completed by the giving of dakṣiṇā to the brāhmaṇas,  
+then the _preta_ ceases to be so and himself becomes a pitṛ. 
+
+### Change in status
+The status of being a _preta_ involves the experiencing of great torments due to hunger and thirst  
+and becoming a pitṛ means being brought in contact with the śrāddha devatās called Vasu, Rudra and Āditya[^1170].  
+
+The word _preta_ has two meanings,  
+(1) a person who is dead and  
+(2) one who being dead has not the sapiṇḍikaraṇa performed for him. 
+
+The result of sapiṇḍana is that the[^1171] great-grandfather of the deceased whose sapiṇḍana is performed drops out from the list of pitṛs entitled to piṇḍa and becomes one called 'lepabhāk' (entitled to only wipings of the hand)  
+and the former _preta_ becomes one of the pitṛs and entitled to participate in the piṇḍas offered at a pārvaṇaśrāddha thereafter. 
+
+As stated in the Garudapurāṇa I. 220. 2 the sapiṇḍikaraṇa-śrāddha is to be performed like the pārvaṇa in the afternoon.
+
+It may be noted that in some works the mantras recited at the time of pouring the water from the preta vessel into the pitṛ vessels are different.  
+For example, the Viṣṇu Dh.S. 21. 14 says[^1172] the mantras are 'Samsṛjatu tvā pṛthivi' (May the earth unite thee) and 'samāni va ākutiḥ' (Ṛg. X. 191.4), while the Gṛhya-pariśiṣṭa[^1173] of Āśv. employs the three Madhumati verses (Ṛg. I. 90.6-8) and the three fine verses at the end of the Ṛgveda beginning with 'saṅgacchadhvam! (Ṛg. X. 191. 2-4, 'May you unite' &c.).
 
 [^1170]: प्रेतत्वं च क्षुत्तृष्णोपजनितात्यन्तदुःखानुभवावस्था। यथाह मार्कण्डेयः । प्रेतलोके तु वसतिर्नृणां वर्ष प्रकीर्तिता। क्षुत्तुष्णे प्रत्यहं तत्र भवेतां भृगुनन्दन॥ इति। पितृत्वप्राप्तिश्च वस्वादिश्राद्धदेवतासम्बन्धः । मिता. on या. I. 254, या. I. 255-256 presuppose this idea.
 
@@ -150,8 +290,23 @@ The word 'mātaraḥ' has two meanings. Gobhilasmr̥ti[^1184] prescribes that at
 
 [1186a]: मातृवर्गे मातामहीवर्गे वा ब्राह्मणालाभे पतिपुत्रान्विताश्चतस्रश्वतस्रः सुवासिन्यो भोजनीया इत्युक्तं वृद्धवसिष्ठेन। मातृश्राद्धे तु विप्राणामलाभे पूजयेदपि । पतिपुत्रान्विता भव्या योषितोऽष्टौ मुदान्विताः ॥ श्राद्धप्रकाश p. 298.
 
-The _Pratisāmvatsarika_ or _Pratyābdika_ śrāddha has already been described above at great length. It is to be performed every year on the day of death (Gobhilasmr̥ti III. 66 ). It is laid down that in the case of one's parents this śrāddha partakes of the character of _pārvaṇa_[^1186b]. The Bhaviṣya-purāṇa and Skanda state that the Sāṁvatsarika śrāddha is the most eminent among śrāddhas and that if a son does not perform the yearly śrāddha of his parents on the day of death he goes to the horrible Hell called Tāmisra and then is born as a pig in a town[^1187]. In connection with this, if the _tithi_ or month of death or both are not known then Bṛhaspati, the Skandapurāṇa, Padma and Bhaviṣyapurāṇa lay down certain rules, viz. [^1188] (1) if the _tithi_ is known but the month is not known, then the śrāddha should be performed on that tithi in the month of Mārgaśīrsa or Māgha; (2) if the month is known but the tithi is not known, then the śrāddha should be performed on the amāvāsyā of the month; (3) if both the tithi and the month are not known, then one should take the tithi and the month when the deceased started from home; (4) if even the day and month of starting be not known, then the tithi and month in which a person hears of the death of a relative should be taken. It is to be noted that the month in pitṛya rites is lunar and the words '_dina, ahaḥ, vāsara_' in connection with pitṛya rites mean 'tithi' ( Aparārka p. 545). There is no _pratyābdika_ śrāddha in an intercalary month (Skanda VII. 1. 206.59 ).
+## Pratyābdika
+The _Pratisāmvatsarika_ or _Pratyābdika_ śrāddha has already been described above at great length. It is to be performed every year on the day of death (Gobhilasmr̥ti III. 66 ). It is laid down that in the case of one's parents this śrāddha partakes of the character of _pārvaṇa_[^1186b]. 
 
+### Importance
+The Bhaviṣya-purāṇa and Skanda state that the Sāṁvatsarika śrāddha is the most eminent among śrāddhas and that if a son does not perform the yearly śrāddha of his parents on the day of death he goes to the horrible Hell called Tāmisra and then is born as a pig in a town[^1187]. 
+
+### tithi determination
+In connection with this, if the _tithi_ or month of death or both are not known then Bṛhaspati, the Skandapurāṇa, Padma and Bhaviṣyapurāṇa lay down certain rules, viz. [^1188]  
+
+(1) if the _tithi_ is known but the month is not known, then the śrāddha should be performed on that tithi in the month of Mārgaśīrsa or Māgha;  
+(2) if the month is known but the tithi is not known, then the śrāddha should be performed on the amāvāsyā of the month;  
+(3) if both the tithi and the month are not known, then one should take the tithi and the month when the deceased started from home;  
+(4) if even the day and month of starting be not known, then the tithi and month in which a person hears of the death of a relative should be taken. 
+
+It is to be noted that the month in pitṛya rites is lunar and the words '_dina, ahaḥ, vāsara_' in connection with pitṛya rites mean 'tithi' ( Aparārka p. 545). There is no _pratyābdika_ śrāddha in an intercalary month (Skanda VII. 1. 206.59 ).
+
+## Other shrAddhas
 A few words may now be said about some other śrāddhas.
 
 [^1186b]: एतच्च मृताहपार्वणं मातापित्रोरेव । तथा च हेमाद्रिधृतकात्यायनवचनं 'सपिण्डीकरणादूर्ध्वे पित्रोरेव हि पार्वणम् । पितृव्यभ्रातृमातृणामेकोद्दिष्टं सदैव तु ॥ मातृपदं सपत्नीमातृपरम्'। श्राद्धतत्त्व p. 304.
@@ -160,7 +315,7 @@ A few words may now be said about some other śrāddhas.
 
 [^1188]: मृताहस्य यदा मासो न ज्ञायेत कथंचन । मार्गशीर्षेऽथवा माघे श्राद्धं ताद्दिवसे स्मृतम्॥ यदा तु वासराज्ञानं मासज्ञानमथैव च। अमायामेव तन्मासं श्राद्धं सांवत्सरं भवेत्॥ पद्म (पातालखण्ड 101. 73-74). Vide भविष्यपुराण I. 183, 28-29, स्कन्द VII. 1.205.52 for similar rules. बृहस्पति q. by अपरार्क p. 545 has similar verses and adds 'दिनमासौ न विज्ञातौ मरणस्य यदा पुनः। प्रस्थामदिनमासौ तु ग्राह्यौ पूर्वोक्तया दिशा'॥ .
 
-## The Mahālayaśrāddha
+### The Mahālayaśrāddha
 
 A well-known śrāddha is the Mahālayaśrāddha. Some of the Purāṇas deal with this. The Padmapurāṇa (Srṣṭi-khaṇḍa) says 'In the fifth fortnight (_pakṣa_) beginning from the Full Moon day of Āṣādha, one should perform a śrāddha, whether the Sun is by that time in the zodiacal sign of Kanyā (Virgo) or not. The sixteen days when the Sun is in Kanyā are equal to the solemn sacrifices which are completed with the gift of the best of dakṣiṇās. If it is not possible to perform the śrāddha in the dark half (when the Sun is in Kanyā), one may perform it when the Sun is in Tulā (Balance). When the Sun enters the sign of Scorpion (without a śrāddha being performed), the Fathers go away losing all hope and after pronouncing a terrible curse (on their descendants) they return to their abode'[^1189]. The fifth fortnight from the Full Moon day of Āsādha is the dark half of Bhādrapada. The dark half is the preserve of pitṛs. In Bhādrapada the Sun is in the middle of its apparent motion in dakṣiṇāyana. Therefore the dark half of Bhādrapada is specially chosen as the best period for śrāddha to the pitṛs i.e. for the Mahālaya. The śrāddha performed in Bhādrapada dark half is called Mahālaya-śrāddha, since that fortnight is the abode (_ālaya_) as it were of the _maha_ (i.e. festival day ) for pitṛs. The real idea is that the dark half of Bhādrapada is specially to be welcomed for a śrāddha when the Sun is in Kanyā during that fortnight and that even if the Sun is not in _Kanyā_ the dark half of Bhādrapada is still a good time for a śrāddha to the pitṛs. The Skandapurāṇa[^1190] also says 'In the fifth fortnight from the Full Moon of Āṣādha, when the Sun occupies the sign of Kanyā, the pitṛs of him who offers a śrāddha on the tithi of the death (of one's father) certainly derive gratification for one year thereafter.'
 

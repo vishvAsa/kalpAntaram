@@ -2,6 +2,20 @@
 title: उपनयनम्
 ---
 
+## Timing and AchArya
+### 1 year post-death delay
+Think of it like this -  
+Just because someone dies, will you let a kid loose a school year?  
+If answer is NO, it should be the same here. upanayana is admission to vedic studies.
+
+This 1 yr prohibition did not exist in sUtra period.
+
+
+The AchArya in upanayana (person who does gAyatry-upadesha and rituals) need not be the father - can be any qualified person who does not have Ashaucha.  
+The kid does not anyway have Ashaucha, being anupanIta. (even brahmachArins generally don't).
+
+You can have the purohitA do it himself. Best get the upadesha from someone actually doing sandhyAvandanam etc. 😀
+
 ## Forms
 - The vaidika upanayanam was available to kSatriyas, vaishyas & rathakAras. 
 
@@ -72,8 +86,10 @@ There were good and great women scholars .
   - The upanayana initiation is commonly practiced across many kShatriya jAti-s ("urs" or arasu-s of karNATaka, kShatriya-s [and occassionally even sAmanta-kShatriya-s] of keraLa, rAjputs/ rAjaputra-s).
 - rathakAra-s
   - vishvakarma/ vishvabrAhmaNa community
-- shUdra-s
-  - "Some of the villagers came to the Jeeyar and wondered if they could also wear the poonool (sacred thread) like the Jeeyar. The Jeeyar unhesitatingly assured them that they could but advised them about following a code of practice and applauding them for their interest. He even affirmed them that if they were very keen he would perform the ritual for them." [vsk16](http://www.vsktamilnadu.org/2016/08/hindu-seer-turned-tables-on-jihadi.html)
+
+#### shUdra-s
+
+> "Some of the villagers came to the Jeeyar and wondered if they could also wear the poonool (sacred thread) like the Jeeyar. The Jeeyar unhesitatingly assured them that they could but advised them about following a code of practice and applauding them for their interest. He even affirmed them that if they were very keen he would perform the ritual for them." [vsk16](http://www.vsktamilnadu.org/2016/08/hindu-seer-turned-tables-on-jihadi.html)
 
 ### Women
 - "इदानीमप्यौत्कल्यदेशे विवाहकाले कन्या धारयत्येव चतुर्थीकर्म-पर्यन्तम्।  स्वयमेव दृष्टम्मया।" इति मोहितः। 
