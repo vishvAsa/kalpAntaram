@@ -138,7 +138,7 @@ The Viṣṇupurāṇa (III. 13. 26ff) makes similar provisions about sapiṇḍ
 Aparārka (p. 540) after a long discussion holds that there are three times for a performer who is an _āhitāgni_ viz. 12th day, some day between the end of _āśauca_ and the first amāvāsya (after death) or the first amāvāsyā after āśauca ends  
 and prescribes four times for one who has not kept sacred fires, viz. a year, six months, three fortnights or when a lucky event occurs.
 
-[^1165]: संवत्सरे सपिण्डीकरणमेकादशे मासि षष्ठे चतुर्थे द्वादशेहनि। भारद्वाजगृह्य III 17.1; आनन्त्यात्कुलधर्माणां पुंसां चैवायुषः क्षयात् । अस्थिरत्वाच्छरीरस्य द्वादशाहो प्रशस्यते ॥ व्यास q. by मद. पा. p. 631, श्रा.क्रि. को. p. 350 (ascribes to व्याघ्र ), पृथ्वीच. fohan 237 a (ascribes to व्याघ्र), भट्टोजि p. 176 of चतुर्विशति०, श्राद्धतत्त्व p. 301.
+[^1165]: संवत्सरे सपिण्डीकरणमेकादशे मासि षष्ठे चतुर्थे द्वादशेहनि। भारद्वाजगृह्य III 17.1; आनन्त्यात्कुलधर्माणां पुंसां चैवायुषः क्षयात् । अस्थिरत्वाच्छरीरस्य द्वादशाहः प्रशस्यते ॥ व्यास q. by मद. पा. p. 631, श्रा.क्रि. को. p. 350 (ascribes to व्याघ्र ), पृथ्वीच. fohan 237 a (ascribes to व्याघ्र), भट्टोजि p. 176 of चतुर्विशति०, श्राद्धतत्त्व p. 301.
 
 
 The Madanapārijāta quotes a verse of Vyāsa that the 12th day is commended (for the sapiṇḍana śrāddha) because family usages are innumerable, because man's life is short and because the body is evanescent. 
