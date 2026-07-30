@@ -2,6 +2,23 @@
 title = "पुराण-पठनाधिकारः"
 +++
 
+## भट्टोजी-दीक्षितः
+How Bhaṭṭoji Dīkṣita (17th century) restricted the prohibition stated in Mānava Dharmaśāstra (4.80):
+'न शूद्राय मतिं दद्यात्'
+(shouldn't give knowledge to a Śūdra)
+
+Many commentators take 'mati' to be knowledge other than the sacred (adṛṣṭārtha). Eg. Nītiśāstra.
+
+This appears to prohibit for Śūdras the śāstrīya method of learning such Śāstras.
+
+Dīkṣita brings in Maharṣi Vedavyāsa's statement that one should cause all varṇas to hear (knowledge/scriptures), by keeping a Brāhmaṇa in the front.
+
+Dīkṣita uses it to say that knowledge of Nītiśāstra and other such branches can be given to Śūdras in this manner.
+
+Although Vedavyāsa's verse is generally used with regards to the dissemination of knowledge of Itihāsas and Purāṇas, Dīkṣita extends it to other Śāstras.
+
+
+
 ## शङ्करः
 
 (From Ādi Śaṅkarācārya's commentary on Viṣṇusahasranāma)

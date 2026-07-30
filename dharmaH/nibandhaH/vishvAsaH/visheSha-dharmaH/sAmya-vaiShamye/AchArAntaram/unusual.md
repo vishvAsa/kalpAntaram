@@ -53,7 +53,31 @@ Some unusual rituals involve some unusual components, some of which people may n
 - group sex
     - some tAntrika chakrapUjA
 
-#### Exceptional incest
+#### Incest danger
+##### वेदे परि-कल्पनम्
+तत्र तत्र सगोत्रादिस्त्रियो दूरे वर्तेरन्न् इत्य् आशयो ग्राह्यः।
+
+gosava rite 
+
+> तेनेष्ट्वा संवत्सरं पशुव्रतो भवति १  
+उपवहायोदकं पिबेत्  
+तृणानि चाच्छिन्द्यात्  
+उप मातरम् इयाद्  
+उप स्वसारम् उप सगोत्राम् २  
+> Ap. XXII.13.1-3 
+
+[indology list](http://list.indology.info/pipermail/indology_list.indology.info/1998-February/010645.html), [ghorAngIrasa](https://aryanthought.wordpress.com/2016/03/24/gosava-and-bovine-mimesis-in-ritual-part-1/)
+
+> " The controversial acts are limited to the variant given in the jaiminīya Brāhmaṇa (2.113), the āpastamba śrautasūtra (22.13.1-3) that seems to have replicated the verses in the jaiminīya text and the brahmāṇḍa purāṇa (2.36-64). "  
+- ([ghorAngIrasa](https://aryanthought.wordpress.com/2016/03/24/gosava-and-bovine-mimesis-in-ritual-part-1/))
+
+> "Others don't talk about it or assume you know the details. Panchaviṃśa comes out and says these are no longer performed.""
+
+छान्दोग्ये वामदेव्य-व्रते -  
+
+> न काञ्चन +++(मैथुन-काङ्क्षिणीं)+++ परिहरेत् - तद् +++(वामदेव्य-सामोपासनाङ्ग-)+++व्रतम् ॥ २ ॥
+
+##### कौलेषु व्यभिचारः
 - abhinavagupta in tantrAloka itself at 29.102d: śvapatnī bhaginī mātā duhitā vā subhā sakhī. Such allowances were rarely followed through, as kalhaNa reveals.
 
 - kalhaNa records in [7](/purANam/aitihyam/kalhaNa-rAjatarangiNI/07/):
@@ -72,9 +96,6 @@ Some unusual rituals involve some unusual components, some of which people may n
 स्वसुतासुरते ऽपि यः॥
 
 
-- gosava rite (Ap. XXII.13.1-3 - tene.s.tvaa samvatsaram pazuvrato bhavati / upaavahaayodakam pibet t.r.naani caacchindyaat / upa maataram iyaad upa svasaaram upa sagotraam / [indology list](http://list.indology.info/pipermail/indology_list.indology.info/1998-February/010645.html), [ghorAngIrasa](https://aryanthought.wordpress.com/2016/03/24/gosava-and-bovine-mimesis-in-ritual-part-1/))
-  - " The controversial acts are limited to the variant given in the jaiminīya Brāhmaṇa (2.113), the āpastamba śrautasūtra (22.13.1-3) that seems to have replicated the verses in the jaiminīya text and the brahmāṇḍa purāṇa (2.36-64). " ([ghorAngIrasa](https://aryanthought.wordpress.com/2016/03/24/gosava-and-bovine-mimesis-in-ritual-part-1/))
-  - "Others don't talk about it or assume you know the details. Panchaviṃśa comes out and says these are no longer performed.""
 
 ## Gambling
 - Certain vaidika rituals
