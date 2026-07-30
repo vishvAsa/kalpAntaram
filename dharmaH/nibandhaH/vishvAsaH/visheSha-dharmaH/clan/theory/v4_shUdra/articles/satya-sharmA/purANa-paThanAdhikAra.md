@@ -17,7 +17,7 @@ Dīkṣita uses it to say that knowledge of Nītiśāstra and other such branche
 
 Although Vedavyāsa's verse is generally used with regards to the dissemination of knowledge of Itihāsas and Purāṇas, Dīkṣita extends it to other Śāstras.
 
-
+There are many such scholars who do not consider such prohibitive statements for a blanket application. Do note that non-Śāstrīya or Laukika methods were already open to all. This is for those persons who may have feared incurring pāpa due to the aforesaid reason.
 
 ## शङ्करः
 
@@ -95,3 +95,10 @@ The word 'पठन्' is easily joined with द्विजः, क्षत�
 लिखित-पाठ-गृहीत-वेदान्तादिभिः कथम् अप्रतिबद्ध-ब्रह्मावगति-सम्भवः ।  
 सन्ति हि पुराणेतिहास-श्रवण-सामान्ये केचन नियमाः -  
 विशिष्य च पुराण-भेदेन भारत-पर्वादि-भेदेन चान्ये नियमाः । 
+
+## paTTanAyaka
+Source: [TW](https://x.com/sharmasatyan/status/2082476314058162338)
+
+Gopīnātha Paṭṭanāyaka (17th - 18th centuries), a scholar of the Karaṇa community, authored  Śūdrāhnikapaddhati.
+
+He takes Purāṇas as an indicator of all branches of knowledge other than the Vedas.
