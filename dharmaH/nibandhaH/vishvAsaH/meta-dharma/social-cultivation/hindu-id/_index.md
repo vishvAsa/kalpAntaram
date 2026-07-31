@@ -68,7 +68,9 @@ The last section of [chapter 36](/kalpAntaram/dharmaH/nibandhaH/en/kANe/history/
 
 
 Here is an introduction to Hindu India by the Hinduism Today magazine:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nB2toz5p5Mw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<div class="videoEmbed"  caption="Video" src="https://www.youtube.com/embed/nB2toz5p5Mw"></div>
+
 
 ## Against south-Asia
 > South Asia term basically clubs India/Indians w/ Pakistan/Bdesh & their people & culture (which is different from India). So each bad thing of Pak & Bdesh is imposed on India's characterisation too while each good thing from India is shared by Pak/BD too under this term.
