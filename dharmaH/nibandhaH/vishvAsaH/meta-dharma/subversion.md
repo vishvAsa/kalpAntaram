@@ -34,6 +34,12 @@ Many serious internal subversions arose motivated by:
 - Opposition to the proven vaidika way.
 - Opposition to varNAshrama dharma, and the special role of brAhmaNa-s in conserving Arya ideals.
 
+### Old records
+
+- ballAlasena, the saiddhAntika ruler of vanga complained of rampant bAbaism involving dIxa-s, pratiShThA-s etc.. by the decievers [IMG](https://i.imgur.com/253HZ7z.jpg), [MT18](https://twitter.com/blog_supplement/status/1051160336617881601).
+- royal author aparAditya of the shilahara-s of the Konkan also has comparable condemnation of contemporary practices [MT18](https://twitter.com/blog_supplement/status/1051160336617881601).
+
+
 ## Secularist and abrahamist subversion
 
 - As the mlecCha rag NYT put in 2017: "The tension between the hold of established cultural practices and new efforts by activists to safeguard rights, whether minority, individual or animal".

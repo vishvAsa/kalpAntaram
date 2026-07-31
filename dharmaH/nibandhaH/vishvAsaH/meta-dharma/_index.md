@@ -135,3 +135,7 @@ bhIma to yudhiShThira
 
 > "Just as dharma has the divine dimension of the laws laid down by the great gods Mitra and Varuṇa (captured in the śruti) at the base of the yasag was the old “divine law” of the Turks and Mongols known as the törü which is said to have been promulgated by the god Köke Möngke Tengri. On this rested the yasag of the great Khan which was like the smṛti brought to humans by Yama and our law-giver father Manu.  Among the Mongols it seems to have inspired later reforms of law like the “Code of Altan Khan” promulgated by Altan Khan in the 1500s. ... shaikh against the Mogol tyrant Akbar’s wishes we see him increasingly remodeling his law as per the yasag of Chingiz Khan and moving away from the sharia." \[[MT](https://manasataramgini.wordpress.com/2017/07/30/mongolica-chingiz-khan-and-the-rest/)\]
 
+
+## Memetic competition
+Two high cultures cannot co-exist in the same land typically. There will be conflict to varying degrees. Examples: Hindu elite vs Perso-Islamic (led to Partition). Hindu elite vs materialism/ modernity with abrahamistic root (uneasy coexistance). Perso-Islamic vs modern materialism (simply cannot coexist).
+

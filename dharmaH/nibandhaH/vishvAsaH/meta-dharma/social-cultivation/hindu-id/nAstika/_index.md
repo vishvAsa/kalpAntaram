@@ -7,6 +7,18 @@ title: +nAstika rejection
 - See veda section in holy books page.
 - "श्रुतिस्तु वेदो विज्ञेयो धर्मशास्त्रं तु वै स्मृतिः । ते सर्वार्थेष्वमीमांस्ये ताभ्यां धर्मो हि निर्बभौ ॥ योऽवमन्येत ते मूले हेतुशास्त्राश्रयाद् द्विजः । स साधुभिर्बहिष्कार्यो नास्तिको वेदनिन्दकः ॥" इति मनुः। तत्र मेधातिथिर् [अत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145584.html)।
 
+## shramaNas vs dharma
+
+The nAstika-s are corrosive to dharma.
+
+- Their kingship thought lacks aggression. parAkrama, clearly engendered by vaidika rituals like rAjasUya and ashvamedha. At best, they practice self defense.
+- Being a counter-religion, they subvert the Arya conservativism of the veda-s and brAhmaNa-s (particularly in later days).
+- hindu-devatA-subversion should be considered.
+- At the same time:
+  - unlike even many Astika systems, they pay high regard to Indra.
+  - jaina nIti texts even respect the trayii.
+  - They ultimately did mostly fall into line when faced with the common enemy. \[[MT1](https://manasataramgini.wordpress.com/2014/07/13/some-meanderings-on-early-medieval-history-from-the-view-point-of-nastika-compositions/)\]
+
 ## Dealing with commonalities
 Even as hindus identify and reject traditions antagonistic to them, they should deal with commonalities with confidence. It is wrong to forcibly be the direct opposite of those we don't like in every regard. An easy way to do so in case of Abrahamisms would be to note the fact that most of their concepts and rituals are copied from their polytheistic predecessors (before they were violently eliminated).
 

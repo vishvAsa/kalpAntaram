@@ -1,4 +1,3 @@
 ---
-title: +जीवेषु
+title: +Social cultivation
 ---
-
