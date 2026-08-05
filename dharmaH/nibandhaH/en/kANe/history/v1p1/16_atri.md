@@ -3,70 +3,48 @@ title = "16 Atri"
 
 +++
 
-16. Atri That Atri was an ancient writer on hurma follows from & reference to him in Manu (III. 16 ) as holding the view that a crijati taking as wife a sūdra woman became fallen (patita). In the Deccan College collection there are several mss. ( Nos. 185-187 of A 1881-82 ) of the Atreyadharmaśāstra in nine adhyayas. They trent of gifts, prayers (japya ) and tupus by which men are free from all sins. Some of the chapters are in mixed prose and verse. The first three chapters are entirely in verse and some of the verses (such as ekāksaram param brabma) occur in the Manusmști. The fourth opens with a long sūtra, which, in style, resembles later bbāsyas and com mentaries, 320 The 5th also is in verse and contains several verses found in Viisistha ( Dh. S. 28. 1, 4, 6). The sixth speaks of the specially boly hymns and verses of the Veda. Some of the verses here are the same as Vasistha ( 28. 10–11). "The seventh refers to secret prayascittas and the very first sūtra after the opening words sj.eaks of several non-Aryan tribes 230 such as the Sakas, Yavanas, kambhojus, Balbikas, Khusus, Vangus aud Pārasu ( Persians ? ) &c. It is to be noted that the saine sutra ( with slight variations ) is quoted as Atri's by Apariirka (on Ynj. III. 266 p. 1123). The 7th aud 8th chapters are in inixed prose and verse. The 9th is in verse and speaks of Yoya and its unyus. It refers to the fact that Sisupūlu, son of Damaghosa, because in his hatred of Govinda he always thought of the latter, went to heaven. The same sutra work is noticed in I. O. Cat., pp. 380-81, Nos. 1305 and 1306. 
 
-229 34zitof 1791 art thê145CP21Tarand (?) waarat ane 427 
+That Atri was an ancient writer on *dharma* follows from a reference to him in Manu ( III. 16 ) as holding the view that a *dvijāti* taking as wife a *śūdra* woman became fallen (*patita*). In the Deccan College collection there are several mss. ( Nos. 185-187 of A 1881-82) of the *Ātreyadharmaśāstra* in nine *adhyāyas*. They treat of gifts, prayers (*japya*) and *tapas* by which men are freed from all sins. Some of the chapters are in mixed prose and verse. The first three chapters are entirely in verse and some of the verses ( such as *ekākṣaraṁ param brahma* ) occur in the *Manusmṛti*. The fourth opens with a long sūtra, which, in style, resembles later *bhāṣyas* and commentaries.[^188] The 5th also is in verse and contains several verses found in Vāsiṣṭha ( Dh. S. 28. 1, 4, 6 ). The sixth speaks of the specially holy hymns and verses of the Veda. Some of the verses here are the same as Vasiṣṭha (28. 10-11). The seventh refers to secret *prāyaścittas* and the very first sūtra after the opening words speaks of several non-Aryan tribes such as the Śakas, Yavanas, Kām-
 
-चिन्मानुन्यं भवति तदैतच्चिह्नाङ्कितशरीरा जायन्ते । अनृतवादी खली ब्रह्महा 
+[^188]: अर्चीषि प्रयत्नानां यमविषयनरकालनानिश्च ( ! ) पतितांश्च यदि कदाचिन्मानुषं भवति तदेतच्च्छन्नाङ्गुलशरीरा जायन्ते । तथैव । अनूतनादी खली महाहा कुष्ठी &c.
+[^189]: अथातो रहस्यानि व्याख्यास्यामः । च्छन्नङ्गकायन-गान्धर्विक-श्वापकाकाशकवीशोक्तट- वीणाशाख-शक-यवन-काव्वोज-बाह्लीक-खशा-द्रविड-वण्ण-पारश-सीलवान्दीनां ( ! ) भुक्त्वा प्रतिगृह्णी च ख्रीगमने सहभोजने रहस्ये रहस्यतिप्रकृशे प्रकाश्यानि चरेत् ।
 
-Freit &c. 230 tai rataifa, ZZETIRTA: 1 77891749-741-174176at 
+[[P107]]
+108
+*History of Dharmaśāstra*
 
-FirAZTOTT9-7-197-471H-TET Fat-ala 3-a1-are बोल्वातदर्शनी (?) भुक्त्वा प्रतिगृह्य च स्त्रीगमने सहभोजने रहस्य रहस्यातिप्रकाश प्रकाश्यानि चरेत् ।262 
+bhojas, Bāhlikas, Khaśās, Vaiṅgas and Pāraśa ( Persians ? ) &c. It is to be noted that the same sūtra ( with slight variations ) is quoted as Atri's by Aparārka ( on Yāj. III. 266 p. 1123 ). The 7th and 8th chapters are in mixed prose and verse. The 9th is in verse and speaks of Yoga and its *aṅgas*. It refers to the fact that Śiśupāla, son of Damaghōṣa, because in his hatred of Govinda he always thought of the latter, went to heaven. The same sūtra work is noticed in I. O. Cat., pp. 380-81, Nos. 1305 and 1306.
 
+There are several works styled Atri-smṛti or saṃhitā in the mss. One of them is in six chapters on secret prāyaścittas, gifts, pitṛmedha and ācāra ( vide I. O. Cat., p. 381, No. 1308 ). There is another work styled Atrisamhitā printed in Jivananda's collection ( part I. pp. 13-46 ). It contains about 400 verses and deals with the following topics :— importance of honouring *guru*, duties of four castes ; purifications of several *malas* ; virtues of Brāhmaṇas such as śauca, anasūyā ; definition of *iṣṭa* and *pūrta*, ten yamas and niyamas ; importance of sons ; adopted sons, prāyaścittas for taking forbidden food or drink and for other transgressions, impurity on birth and death ; cāndrāyaṇa, Kṛcra, Sāntapana ; gifts ; purifications from avoidable contacts with rajasvalā &c. ; Śrāddha and the Brāhmaṇas to be invited for it.
 
+In this work Atri is himself cited as an authority. Other authors and works quoted are : Āpastamba ( p. 30 ), Yama ( p. 41 ), Vyāsa ( p. 24 ), Śaṅkha ( pp. 22, 35 ), Śāṭātapa ( p. 35 ). The Vedānta, Sāṅkhya, Yoga, Purāṇas, Bhāgavataḥ ( p. 45 ) are mentioned. It contains ( on p. 14 ) the verse ' sadyaḥ patati māṃsena ' which is found in Vasiṣṭha Dh. S. ( 2. 27 ) with the words ' athāpyudāharanti '. There are other verses also which occur elsewhere e. g. ' atha cenmantravid ' occurs in Vasiṣṭha II. 20, ' tryaḥaṃ sayaṃ tryaḥaṃ prātaḥ ' ( p. 23 ) is also Manu XI. 211. On p. 26 occur the words ' atrāpyudāharanti ' and so what follows is a quotation. On p. 32 there are three verses in another metre.
 
-There are several works styled Atri-smrti or samhitā in the mss. One of them is in six chapters on secret prāyścittas, gifts, pitṛmedha and ācāra ( vide I. O. Cat., p. 381, No. 1308). There is another work styled Atrisaṁhitā printed in Jivanau da's collection (part I. pp. 13-46). It contains about 400 verses and deals with the following topics :- importance of honouring guru; duties of four castes; purifications of seveaal mnulus ; virtues of Brāhmanas such as saucu, anusīyā; defini tion of iṣta and pūrta, ten yamas and niyamas; importance of sons; adopted sons; prāyaścittas for taking forbidden food or drink and for other transgressions ; impurity on birth and death; cāndrāyana, Kłchra, Sānta pana ; gifts ; purifications from avoidable contacts with rajasvalā &c. ; Srāddha and the brābmaṇas to be invited for it. 
+Atri's verse about adoption[^190] is quoted as the first authority on adoption in the Dattakamīmāṃsā. He mentions the seven *antryajas* to be the washerman, the shoemaker, *naṭa*, *buruḍa*, kaivarta
 
-In this work Atri is himself cited as an authority. Other authors and works quoted are: Apastam ba ( p. 30), Yama (p. 41 ), Vyāsa ( p. 24 ), Saṅkha ( pp. 22, 35), Śatātapa (p. 35). The Vedānta, Sārikhya, Yoga, Puraụas, Bhagavatāḥ (p. 45 ) are mentioned. It contains (on p. 14) the verse 'sadyaḥ patati mānsena' which is found in Vasistha Dh. S. (2.27) with the words 'athāpyudābaranti'. There are other verses also which occur elsewhere e. g.'atha cen-mantravid' occurs in Vasistha 11. 20, 'tryaham prātah' (p.23 ) is ulso Manu XI. 211. On p. 26 occur the words 'utrāpyudāharanti’and so what follows is a quotation. On p. 32 there are three verses in another metre. 
+[^190]: अपुत्रैषीव कर्तव्यः पुत्रप्रतिनिधिः सदा । पिण्डोदकक्रियाहेतोर्गृह्णीयात्तस्य समं तत् ॥ आश्वि p. 17.
 
-Atri’s verse about adoption 31 is quoted as the first autho rity on adoption in the Dattakamimāinsa. He mentions the seven urtyajas to be the washerman, the shoemaker, natu, buruda, kaivarta (fisherman ), meda and bhilla (p. 29). He further says232 that there is no question of untouchability in fairs, marriage seasons, in Vedic sacrifices and in all festivals. He says that Brāhmaṇas from Magadha, Mathurā and three other places are not honoured ( at a śrāddha) though as lear ned as Bṛhaspati.283 231 zgatal adem: gaasaiara: Ti frost. ETHITH Ra: 11 
+[[P108]]
+18. Atri
+109
 
-À p. 17. देवयात्राविवाहेषु यज्ञप्रकरणेषु च । उत्सवेषु च सर्वेषु स्पृष्टास्पृष्टिन विद्या ।। 
+(fisherman), meda, and bhilla ( p. 29 ). He further says [^191] that there is no question of untouchability in fairs, marriage seasons, in Vedic sacrifices and in all festivals. He says that Brāhmaṇas from Magadha, Mathurā and three other places are not honoured ( at a śrāddha ) though as learned as Bṛhaspati. [^192]
 
-p. 33. 233 मागधो माधुर व कापटः कीटकानुजौ । पञ्च विप्रा न पूज्यन्ते बृहसमातिसमा 
+The work mentions the signs of the Zodiac, Kanyā and the Scorpion ( p. 43 ), and hence was not composed before the first centuries of the Christian era.
 
-यदि। (p. 45 ). What is कापट? Should we read कीटाइजी ( resiNATION of the countries of कीकट and r)? 
+In Jivananda there is a Laghu-Atri (part I, pp. 1-12) in 6 chapters and about 120 verses, dealing with the means of being freed from sins ( such as prāṇāyāma, sacred formula, gifts &c. ), with purifications from impurity on death and birth, with gifts. It mentions Manu. In the fourth chapter there are about ten lines in prose. There are numerous verses that occur also in the Vasiṣṭha-dharmasūtra, e. g. Vas. 26. 8-9 and 16-18 occur on p. 3 ; Vas. 28. 11-16 occur on pp. 4-5. It is difficult to say who the borrower is.
 
-232 
+There is a Vṛddhātreyasmiṭi in Jivananda ( part I. pp. 47-59 ) in five chapters and about 140 verses. This closely resembles the Laghu-Atri-smṛti described above. In the commencement both have the same six verses beginning with 'bhagavan kena dānena' and the works have many verses in common. In the fourth chapter of both the same prose passages occur.
 
-FOUNDED 
+Viśvarūpa on Yāj. ( III. 257 ) quotes two verses from Atri on prāyaścitta which are found in none of the three works described above. [^193]
 
-11771 
+In the Mahābhārata ( Anuśāsana 65. 1 ) Atri is credited with the view that those who make a gift of gold give ( practically ) all
 
-May 
+[^191]: देवयाज्ञवल्क्यपु यज्ञप्रकरणे तु च । उत्सवे तु सर्वेषु स्पृशामस्पृष्टे विद्यते ॥ p. 33.
+[^192]: मागधो माधुरश्चैव कापटः कौटकाकुजौ । पक्ष विप्रा न पूज्यन्ते बृहस्पतिसमा यदा ॥ ( p. 45 ). What is कापट ? Should we read ककीकटाक्ष-ज्यो ( residents of the countries of ककीकटं and अनूप ) ?
+[^193]: The verses are भुक्वा तु प्रतिलोमानां सूलादीनामकामतः । प्राजापत्यं चरेत्कृच्छं चिरं स्वाह्लाशनः ॥ चण्डालवर्जिते चाश्ने सपुष्पा चैनं विशेपतः । भुक्वा कषाय-मिविज्ञाते ज्ञास्वा चान्द्रायणं चरेत् ॥
 
-16. Atopi 
+[[P109]]
+110
+*History of Dharmāśāstra*
 
-208 
-
-The work mentions the signs of the Zodiac, Kanyā and the Scorpiou (1"43 ), and hence was not composed before the first centuries of the Christian era. 
-
-In Jivananda there is a Laghu-Atri (part I, pp. 1-12 ) in 6 chapters and about 120 verses, dealing with the means of being freed from gins (such as prānīyāma, sucred formula, gifts &c. ), with purifications from impurity on death and birth, with gifts. It mentions Manu. In the fourth chapter there are about ten lines in proge. There are numerous verses that occur also in the Vasistha-dharmasūtra, e. g. Vas. 26. 8-9 and 16-18 occur on p. 3 ; Vas. 28. 11.16 occur on pp. 4-5. It is difficult to say who the borrower is. 
-
-There is a Vrddhatreyasmrti in Jivananda (part I. pp. 47-59 ) in five chapters and about 140 verses. This closely resembles the Laghu-Atri-smrti described above. In the commencement both have the same six verses beginning with 
-
-bhagavan kena dānena' and the works have many verses in common. In the fourth chapter of both the same prose passa ges occur. 
-
-Viśvarūpa on Yāj. (III. 257 ) quotes two verses from Atri on prāyaścitta which are found in none of the three works described above. 234 
-
-In the Mahabharata (Anuśāsana 65. 1 ) Atri is credited with the view that those who make a gift of gold give (prac tically) all objects. This bears a close resemblance to two verses that occur in Laghvatri (Jivananda part I. p. 5) and Vṭddhātri (part I. p. 51 ).235 
-
-234 
-
-235 
-
-YOTSAS 
-
-The verses are yFiat g afaèrarat argiaa: 1 STETTI चरेत्कृच्छं त्रिरात्रं त्वाहृताशनः ॥ चण्डालवर्जिते चान्ने स्पृष्टा चैनं विशेषतः । भुक्त्वा कृच्छ्रमविज्ञाते ज्ञाचा चान्द्रायणं चरेत् ॥ सर्वान् कामान् प्रयच्छन्ति ये प्रयच्छति काञ्चनम् । इत्येवं भगवानत्रिः पिता Agatata il 3773779 65. 1. The verses in the two Atris are अमेरपत्यं प्रथमं सुवर्ण भूवैष्णवी सूर्यसुताश्च गावः । लोकास्त्रयस्तेन भवन्ति दत्ता यः काञ्चनं गां च महीं च दद्यात् ॥ सर्वेषामेव दानानामेकजन्मानुगं फलम् ।। हाटकक्षितिधेनूनां सप्तजन्मानुगं फलम् ॥ The first verse occurs in Vare 28. 18, in Vannparva 200. 28, in the Rajim plate of Tivaradeva ( Fleet's Gupta inscriptions No. 81). 
-
-( Continued on the next page ) 
-
-Bhanda Reseai 
-
-284 
-
-
-
-Aparārka quotes about a hundred verses of Atri on vari ous topics. Aparırka quotes (on Yāj. III. 61 pp. 966-7) twelve verses of Atri on the repetitions of om, prānāyāma, and the virtues to be practised by him who desires to go into samādhi, 7 verses on Yāj. III. 64 pp. 971-72 on 24 tattvas and purusa as 25th ; on p. 1123 a prose passage on prāyaścitta for partaking of the food of or receiving gifts from actors, dancers and Andhras, Dramidas, Sukas, Kambhojas, Tukk hāras, Valhikas and Khaśas. Sarkarācārya on V. S. III. 40-43, quotes two verses from Smitis, one of which · Arūdho naisthi kam karma &c.' occurs in Atrismṛti VIII, 16 ( Anan. edition ). 
-
-Mr. A. N. Krishna, Aiyungar edits an Ātreya-smrti in Adyar Library Bulletin, vol. VI, part 4. 
+objects. This bears a close resemblance to two verses that occur in Laghvatrī (Jīvananda part I, p. 5) and Vrddhātrī (part I, p. 51),[^194]
