@@ -64,6 +64,8 @@ It is being practised on ground by a community who identify themselves as Sūtas
 इति सूतस्य वृत्तयः ॥ ३७ ॥
 
 ## पारशवः
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 > अस्य कर्मसु अग्निहोत्रादिषु अधिकारः  
 “यज्ञियासः पञ्च-जना ममाग्निहोत्रं जुषध्वम्” इति मन्त्रलिङ्गात् । 
 'अहितिद्यैरिति' ऋग्व्याख्याने पञ्च-जनपदस्य चत्वारो वर्णा निषादः पञ्चम इत्य्  
@@ -76,4 +78,6 @@ It is being practised on ground by a community who identify themselves as Sūtas
 > 
 > The author copied this from someone else.... Gāgā Bhaṭṭa is the original author and Kāyasthapaddhati is the text where this interpretation appears. - satya-sharmA
 
-एवं तर्हि शूद्रसामान्यस्याप्य् अग्निहोत्रे कुतो नाधिकारस् स्यात्??
+एवं तर्हि शूद्रसामान्यस्याप्य् अग्निहोत्रे कुतो नाधिकारस् स्यात्?  
+अतो नैवम् एतत् - पञ्च-जन-शब्दस्यार्थान्तरं वर्णनीयम्।
+</details>
