@@ -63,3 +63,17 @@ It is being practised on ground by a community who identify themselves as Sūtas
 नित्यं द्विजवद्-आचारः  
 इति सूतस्य वृत्तयः ॥ ३७ ॥
 
+## पारशवः
+> अस्य कर्मसु अग्निहोत्रादिषु अधिकारः  
+“यज्ञियासः पञ्च-जना ममाग्निहोत्रं जुषध्वम्” इति मन्त्रलिङ्गात् । 
+'अहितिद्यैरिति' ऋग्व्याख्याने पञ्च-जनपदस्य चत्वारो वर्णा निषादः पञ्चम इत्य्  
+औपमन्यव इति यास्केन निषादस्य गणनात् ।  
+एवं पञ्चमस्य शूद्रस्येव व्रतद्रव्यनियमो ऽपि संगच्छते ।
+
+> From Bālambhaṭṭī on Yājñavalkya Smṛti 1.94.
+> 
+> The author quotes a mantra of Ṛgveda which mentions Niṣāda's connection with Agnihotra. He takes him to be Pāraśava, concluding that the latter has adhikāra of rituals like agnihotra.
+> 
+> The author copied this from someone else.... Gāgā Bhaṭṭa is the original author and Kāyasthapaddhati is the text where this interpretation appears. - satya-sharmA
+
+एवं तर्हि शूद्रसामान्यस्याप्य् अग्निहोत्रे कुतो नाधिकारस् स्यात्??
