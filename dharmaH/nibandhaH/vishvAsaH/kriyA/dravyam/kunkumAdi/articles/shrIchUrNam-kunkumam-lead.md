@@ -59,6 +59,6 @@ A hard to test theory - lead in yellow chalks (which are contrary to shAstra-s) 
 
 ## Related notes
 - [DIY shrIchUrNam making](/kalpAntaram/dharmaH/nibandhaH/vishvAsaH/kriyA/dravyam/kunkumAdi/sources/) . 
-- श्रीचूर्ण-प्रतिष्ठा-क्रमः [अत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/uttamUru-vIrarAghavArya-prayoga-mAlA/22_shrIchUrNapratiShThAkramaH)
+- श्रीचूर्ण-प्रतिष्ठा-क्रमः [अत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/gopAla-deshika-shAkhA/uttamUru-vIrarAghavArya-prayoga-mAlA/22_shrIchUrNapratiShThAkramaH)
 - विष्णुगात्रस्पर्शापेक्षा 
-  - आह्निकार्थप्रकाशिकायाम् [अत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/gopAla-deshikaH/Ahnikam_AhnikArtha-prakAshikA/02_abhigamanam/14_puNDradhAraNam/)  - "विष्णु-गात्र-परा-मृष्ट-हरिद्रा-चूर्णम्" इत्यस्य व्याख्याने। 
+  - आह्निकार्थप्रकाशिकायाम् [अत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/gopAla-deshika-shAkhA/gopAla-deshikaH/Ahnikam_AhnikArtha-prakAshikA/02_abhigamanam/14_puNDradhAraNam)  - "विष्णु-गात्र-परा-मृष्ट-हरिद्रा-चूर्णम्" इत्यस्य व्याख्याने। 
