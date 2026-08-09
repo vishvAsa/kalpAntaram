@@ -27,7 +27,7 @@ We were advised to saturate the blood with good stuff like iron from spinach. Th
 ### DIY shrIchUrNam
 I decided to make my own srichurnam. In 6 months, my son's numbers got better.
 
-![](/kalpAntaram/dharmaH/vishvAsaH/kriyA-nishchayaH/angAni/dravyam/images/vijay-son-lead-levels_2016.jpg)
+![](../../images/vijay-son-lead-levels_2016.jpg)
 {caption="" class="thumbnail"}
 
 Data (date, mg/dL)
@@ -58,7 +58,7 @@ A hard to test theory - lead in yellow chalks (which are contrary to shAstra-s) 
 </details>
 
 ## Related notes
-- [DIY shrIchUrNam making](/kalpAntaram/vishvAsaH/kriyA-nishchayaH/angAni/dravyam/kunkumAdi/articles/diy-shrIchUrNam/) . 
+- [DIY shrIchUrNam making](/kalpAntaram/dharmaH/nibandhaH/vishvAsaH/kriyA/dravyam/kunkumAdi/sources/) . 
 - श्रीचूर्ण-प्रतिष्ठा-क्रमः [अत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/uttamUru-vIrarAghavArya-prayoga-mAlA/22_shrIchUrNapratiShThAkramaH)
 - विष्णुगात्रस्पर्शापेक्षा 
   - आह्निकार्थप्रकाशिकायाम् [अत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/gopAla-deshikaH/Ahnikam_AhnikArtha-prakAshikA/02_abhigamanam/14_puNDradhAraNam/)  - "विष्णु-गात्र-परा-मृष्ट-हरिद्रा-चूर्णम्" इत्यस्य व्याख्याने। 
