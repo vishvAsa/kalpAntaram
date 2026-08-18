@@ -61,6 +61,8 @@ I agree there existed other styles, but from the popularity and significance giv
 Also the families who settled in Kerala from Tulu Nadu would obviously have their roots there. These are among the most significant families.
 
 ## Brahmin masters
+There were various arm-bearing Brahmin groups in Kerala like vāḷnampi, cāttirar etc. However, they never actually engaged in battles, instead they trained the Nairs in battle. As per legends Parashurama himself established Nair warriors to protect Vedic tradition in Kerala.
+
 Apart from Nairs, there were Brahmins who mastered the art of Kalari. Kalari Gurus of Kochi and Travancore Rajas were Nambuthiri Brahmins.
 
 > the instructors in arms of both Cochin and Travancore Rajas are the Brahmans of the Vedic class, and these enjoy to the present day the emoluments and privileges attached to that office though all the Rajas have left off the study of the use of them. 
