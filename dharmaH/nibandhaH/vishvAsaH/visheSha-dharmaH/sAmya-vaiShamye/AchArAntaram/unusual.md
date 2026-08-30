@@ -121,6 +121,9 @@ gosava rite
 ## Posession and wildly altered behavior
 - Avesha considered separately.
 
+## Cemetary life
+> Interestingly, the earliest textual meme of a ritually/spiritually accomplished person residing in a cemetery is that of Prātṛda Bhalla, who is expressly called a Brāhmaṇa and whom the great Bhāradvāja King of Brahmakṣatra ancestry, Keśī Dālbhya, engages to be his Udgātā. This occurs in the Jaiminīya-Upaniṣad-Brāhmaṇa of the Sāmaveda. - GA
+
 ## Drama
 ### Prohibitions and support
 - ""kAvyAlApanshca varjayet" is often quoted by AlankArikas. They go into the defensive to prove that kAvya is not adhArmika. What Abhinvagupta quotes however from Manu is "kAmajo daSamo gaNaH" as being varjaneeya. In this group, he includes tauryatrikam as varjanIya. Tauryatrika includes nrtyageetavaadyam (tauryatrikam nRtyagItavAdyam nATyamidam trayam, Amarakosa)." (The smR^itikAra is only forbidding it for the king.)
