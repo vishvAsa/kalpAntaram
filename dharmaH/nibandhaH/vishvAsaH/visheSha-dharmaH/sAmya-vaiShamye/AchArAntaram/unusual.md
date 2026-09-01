@@ -47,11 +47,36 @@ Some unusual rituals involve some unusual components, some of which people may n
 - As an indication of fertility
   - gavAmayana ritual - mahAvrata day ([img](http://i.imgur.com/BaUxdMU.jpg), [img2](http://i.imgur.com/r4qU6nv.png))
 
+> घृतेनाभ्यज्य गात्राणि तैलेनापि घृतेन वा ।  
+मुखान्मुखं परिहरन् गात्रैर्गात्राण्यसंस्पृशन् ॥  
+कुले तदवशेषे च सन्तानार्थं न कामतः ।  
+नियुक्तो गुरुभिर्गच्छेद्भ्रतुर्भार्यां यवीयसः ॥  
+
+
 ### For spiritual highs 
 - Promiscuity in vAmadevya practice - [ChU 2.13](/vedAH_sAma/tANDyam/ChAndogyopaniShat/sarva-prastutiH/2/13/). 
 - "स्वातन्त्र्यम्, विधीनां निषेधः, जातिशीलाद्य्-अभिमान-नाशः" as motivation - see [sthAneshvara-note](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/articles/tantrAgamAH/sthAneshvaraH/pancha-makArAH/).
-- group sex
-    - some tAntrika chakrapUjA
+
+#### Group sex
+some tAntrika chakrapUjA. यथा तन्त्रालोके -
+
+Verses 66-67 detail a specific group ritual involving a circle of nine women sourced from strictly prohibited, low-caste, or outcaste professions.
+
+> २९.६६ . मातङ्गकृष्णसौनिककार्मुकचार्मिकविकोषिधातुविभेदाः ।  
+  २९.६६ . मात्स्यिकचाक्रिकदयितास्तेषां पत्न्यो नवात्र नवयागे ॥ ६६  
+
+> २९.७९ . एक एवाथ कौलेशः स्वयं भूत्वापि तावतीः ।  
+  २९.७९ . शक्तीर्यामलयोगेन तर्पयेद्विश्वरूपवत् ॥ ७९  
+  
+> २९.१०४ . द्वाभ्यां तु सृष्टिसंहारौ तस्मान्मेलकमुत्तमम् ।  
+  २९.१०४ . तामाहृत्य मिथोऽभ्यर्च्य तर्पयित्वा परस्परम् ॥ १०४  
+  २९.१०५ . अन्तरङ्गक्रमेणैव मुख्यचक्रस्य पूजनम् ।
+
+
+> २९.२८२ . दीक्षान्ते दीपकान् पक्त्वा समस्तैः साधकैः सह ।  
+  २९.२८२ . चरुः प्राश्यः कुलाचार्यैर्महापातकनाशनः ॥ २८२
+
+(Charu is not standard temple food; it is a mixture of the sexual fluids generated during the ritual union.)
 
 #### Incest danger
 ##### वेदे परि-कल्पनम्
@@ -78,7 +103,9 @@ gosava rite
 > न काञ्चन +++(मैथुन-काङ्क्षिणीं)+++ परिहरेत् - तद् +++(वामदेव्य-सामोपासनाङ्ग-)+++व्रतम् ॥ २ ॥
 
 ##### कौलेषु व्यभिचारः
-- abhinavagupta in tantrAloka itself at 29.102d: śvapatnī bhaginī mātā duhitā vā subhā sakhī. Such allowances were rarely followed through, as kalhaNa reveals.
+abhinavagupta in tantrAloka itself at 29.102d: कार्यहेतुसहोत्था सा त्रिधोक्ता शासने गुरोः ।  साक्षात्परम्परायोगात्तत्तुल्येति त्रिधा पुनः ॥  
+This is code for roughly "स्वपत्नी भगिनी माता दुहिता वा शुभा सखी" as per jayaratha, but excluding स्वपत्नी as transgression is important and lust is to be avoided.  
+Such allowances were rarely followed through, as kalhaNa reveals.
 
 - kalhaNa records in [7](/purANam/aitihyam/kalhaNa-rAjatarangiNI/07/):
 
