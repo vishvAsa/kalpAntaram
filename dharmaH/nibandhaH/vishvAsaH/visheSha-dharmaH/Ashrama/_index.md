@@ -13,6 +13,20 @@ Student life, starting with upanayana and ending with samAvartana.
 
 - naiShThika-brahmacharya, starting with a special ceremony after samAvartana. "He may also rekindle the fire with a ‘substitute wife[10]’... he may rekindle the fire alone for himself[11] (Trikandamandana 3.128) and taking Shraddha (faith/conviction) as his ‘substitute wife’ may perform agnihotra etc. " [Nithin](http://indiafacts.org/sati-dharmic-perspective/#_ednref14)
 
+> यथा विद्यार्थस्य नियम एतेनैवान्तमनूपसीदत आचार्यकुले शरीरन्यासो ब्रह्मचारिणः ॥६॥  
+
+इत्य् आपस्तम्बोऽपि। 
+
+
+## स्नातकः
+> धर्मेण वेदानाम् एकैकां +++(=एकतमां)+++ शाखाम् अधीत्य श्रोत्रियो भवति ॥
+
+इत्य् आपस्तम्बः।  
+
+> व्रताध्ययन-सम्पत्तिर् **ब्रह्म-वर्चसम्** ॥
+
+इति हरदत्तः। 
+
 ## gRhastha
 Householder life, starting with vivAha/ marriage. The most important Ashrama, for this is where family traditions are maintained. 
 
