@@ -3,8 +3,6 @@ title = "21 Cyavana"
 
 +++
 
-## 21. Cyavana
-
 277 
 
 The Anuśnsanaparva ( 18.38 ) states that Garga acquired on the banks of the Sarasvati astronomy with its 64 angas. In the same parure it is said that vrddha-Gārgya inquired about vrgotsarga ( 125. 77 ff). Salya parva ( 37. 14-15 ) narra tes that oli Garya by his tapis acquired on the sacred Sara svatī knowledge of Kāla, movements of the planets, of evil and good ut pātas and that the place is therefore called Gargasrotas. This astronomer Garva is probably different from the Dharma sāstra writer Garga. Vide H. of Dh. Vol. V. pp. 591-92, 741 42, 765 for Garga, the astronomer. Viśvarūpa on Yāj: 1. 25 quotes a verse of Gārgya on the proper times for morning Sundhyā and evening Sandhya and a prose passage of Vrddha Gārgya on Yij. I. 195 (p. 136 ). 

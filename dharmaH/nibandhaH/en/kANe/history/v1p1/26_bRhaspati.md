@@ -3,8 +3,6 @@ title = "26 Bṛhaspati"
 
 +++
 
-## 26. Brhaspati
-
 That Bphaspati was an ancient teacher of Arthaśāstra follows from the Kauṭiliya, wherein the Bārhasratyas are cited six times. In the Mahabharata (Sinti. chap. 59. 80-85) Brhaspati is said to have compressed into 3000 chapters the work on dharma, artha and kāma composed by Brahma. The Vanaparva ( 32. 61) speaks of Brhaspati-niti. The Maha bhārata several times cites verses (yrithas or slokas ) said to have been sung by Brhaspatia80 ( vide Sinti. 23. 15, 56. 38-39, 
 
 79 The Budha sitra opens as follows :- अथातो बुधधर्मशास्त्रं व्याख्या 

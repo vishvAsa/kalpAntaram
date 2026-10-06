@@ -3,8 +3,6 @@ title = "33 The Purāṇas"
 
 +++
 
-## 33. The Puranas 
-
 The Yājṅavalkyasmști provides that Purāṇa, NMAYA (Tarkaśāstra ), Mimāṁsā, Dharmaśāstra, the ( six, subsidiary lores of the Veda (angas ) and the Vedas (four )-these fourteen
 
 FOUNDET 

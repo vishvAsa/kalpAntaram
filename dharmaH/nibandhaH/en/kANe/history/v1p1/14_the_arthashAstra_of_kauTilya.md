@@ -3,10 +3,6 @@ title = "14 The Arthaśāstra of Kauṭilya"
 short_title = "14 The Arthaśāstra of"
 
 +++
-## 14 The Arthaśāstra of Kauṭilya
-
-
-14. The Arthasastra of Kautilya 
 
 There are three words in ancient Sanskrit Literature that are used very often in the same sepse viz. Arthasastra, Dandaniti and Rajasāstra or Rājaniti or Rājanitisāstra or simply Nitisāstra. The Mahābhārata descants on Rāja dharma in several parvans, as in Sabhā 5 ( the chapter called kaccit-praśna), Vanaparva 150, Uddyoga (chap. 33-34). In Sabbā 5 one hundred verses occur on Rājaniti; for example, ( verse 41 refers to 18 tirthas (state dignitaries) tested by spies (as in Kaut. I. 12. 20), verse 47 refers to amātyas beyond the reach of upadhās (cf. Kauṭ. I. 10. 1ff). The Santiparva devotes more than 100 chapters to Rāja dharma from chap. 56. Sānti, chap. 58 (1-4) names160s the 
 

@@ -3,8 +3,6 @@ title = "50 Yama"
 
 +++
 
-## 50. Yama
-
 The Vasistha-dharmasutra (18. 13-15 and 19. 48 ) cites four slokas of Yama and quotes (11. 20 ) one verse in which Yama is spoken of as an authority. All the slokas except one 
 
 818 सप्तम्यां रविवारे च गृही जन्मदिने तथा । भृत्यपुत्रकलत्रार्थी न कुर्यात्तिल 

@@ -3,8 +3,6 @@ title = "34 The Yājñavalkyasmṛti"
 
 +++
 
-## 34. The Yājnavalkyasmrti 
-
 This smrti has been published dozens of times.
 
 In the following the Nirnayasāgara edition edited by Sāstri Moghe ( 1892 A. D. ) has been used and the Trivandrum edition when speaking of Viśvarūpa.

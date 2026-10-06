@@ -3,7 +3,7 @@ title = "61 Viśvarūpa"
 
 +++
 
-## 61. Viśvarupa The commentary of Viśvarūpia called Bālakrīdā on the Yājsavalkya-smrti has been recently published in two parts by M.
+The commentary of Viśvarūpia called Bālakrīdā on the Yājsavalkya-smrti has been recently published in two parts by M.
 
 M. T. Ganapati Sāstri in the Trivandrum Sanskrit Series. The Mit. states in the introductory verses that the dicta of Yij. were expanded by the voluminous or ample (vikata ) explanations of Viśvarūsra. In commenting on Yāj. 1. 81 the Mit. tells us that Viśvarūjia looked upon the words of Yāj. I. 79 ( tasmin yugmāsu saṁviset ) as a niyama. In Viśvarūpa's commentary on Yāj. I. 80 (evam gacchan &c. ) we do find that the verse of Yāj. and similar passages of Manu (3. 45 ), Vasistha and Gautama ( 5. 1 ) are understood to contain a niyam and not a prescinkhyu.?!! On Yāj. III. 24 the Mit, inforins us that Viśvarūpa, Medhātithi and Dhāre svara looked upon certain texts of Rsyasriiga on āściucu as in conflict with well-known sinitis and discarded them. Mr. S. Sitaram Sūstri published (in 1900 at Madras ) the text and translation of Viśvarūpia's comment ou inheritance and Mr. Setlur also published the wavahūrco section. In the following pages the Trivandrum edition is relied on.
 

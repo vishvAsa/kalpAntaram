@@ -3,8 +3,6 @@ title = "35 The Parāśara Smṛti"
 
 +++
 
-## 35. The Parāsara Smrti
-
 This work has been published several times, but the edi. tion of Jivananda (part II. pp. 1-52 ) and that in the Bombay Sanskrit Series with the voluminous gloss of the great Mādhava are the best known. In the following pages Jika nanda's edition has been used. 
 
 The smști of Parāśara must have been an ancient one as Yāj. (1.4 ) mentions him among the ancient writers on dha wim 

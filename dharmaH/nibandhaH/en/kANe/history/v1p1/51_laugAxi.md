@@ -3,8 +3,6 @@ title = "51 Laugākṣi"
 
 +++
 
-## 51. Laugaksi
-
 Laugākṣi is mentioned among the 36 expounders of Dharmaśāstra set out by Paithīnasi (on p. 1 of Smṛ. Ch.) and Angiras quoted on the same page includes Laugākṣi among Upasmṛtis. 
 
 The Mit. (on Yāj. III, 1-2, 260, 289 ) quotes verses of Laugāksi on āśauca and prāyascitta. Aparārka quotes nine proge passages (pp. 28–29, 33, 122, 145, 166, 176 and 530) on Ācāra including Srāddha and ten verses on ten pages on Acāra, Āśauca and the order of forest hermits and one very long prose passage on p. 1227 (covering half a page ). On p. 542 Aparārka quotes a verse of Laugāksi in which Prajāpati is mentioned as an authority. The Mit. on Yāj. II. 118-119 quotes the definitions of Yoga'and Ksema given by Laugākṣi and which are declared to be not liable to partition by coparceners ( acc. to Mapu IX. 219 ), even if they be acqui red by detriment to the parental estate. Those definitions of Yoga and Kṣema are quoted by many works and writers on Vyavahāra such as the Smṛticandrikā (on Vy. p. 277 ), Par. M. Vol. III. p. 563. Vide H. of Dh. Vol. III. pp. 588-589 for different meanings of the two words. 

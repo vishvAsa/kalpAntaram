@@ -3,11 +3,6 @@ title = "15 Vaikhānasa-dharma-praśna"
 short_title = "15"
 
 +++
-## 15 Vaikhānasa-dharma-praśna
-
-
-15. Vaikhānasa-dharn-prasna 
-
 257 
 
 15. Vaikhānasa-dharma-prasna The work has been published in the Trivandrum Sanskrit Series by Pandit T. Gunapati Sastri (1913) and also edited by Dr. Caland in B. I. Series (1927) and translated into English ( 1929 ) with a learned Introiluction. 

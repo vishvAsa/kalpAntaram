@@ -3,8 +3,6 @@ title = "30 The Smṛtis"
 
 +++
 
-## 30. The Smrtis
-
 299 
 
 fine for selling and purchasing land without the consent of the neighbouriny members of the family and says that in case of pre-emption the neighbours on the east are preferred to all and those on the south come last. :02 Sunintu defines a mort gage by conditional sale (callel uktilihhakraya') and a sale for arrears of revenue by the king's orders (called ajna kraya ).303 

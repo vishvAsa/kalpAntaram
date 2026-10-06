@@ -3,8 +3,6 @@ title = "59 Asahāya"
 
 +++
 
-## 59. Asahāya
-
 Dr. Jolly in his edition of the Nāradasmrti (B. I. series ) bas incorporated a portion of the bhāsya of Asahāya as re vised by Kalyānabhatta. Even this revised version comes up to only verse 21 of the fifth title abhyupetya-asuśrūṣā. The exact relation of Kalyānabhatta's labours to the original bhāsya cannot be accurately gauged from the opening888 words ' finding that the Nāradathāsya composed by Asahāya was spoilt (bhrasta ) by bad scribes, Kalyāṇa composes this after revising the ancient one'. The colophon at the end of the first chapter of the Vyavahāramātýkā says that Kalyānabhatta 
 
 689 दृष्टासहायरचितं नारदभाष्यं कुलेखकैर्धष्टम् । कल्याणेन क्रियते प्राक्तनमतद 

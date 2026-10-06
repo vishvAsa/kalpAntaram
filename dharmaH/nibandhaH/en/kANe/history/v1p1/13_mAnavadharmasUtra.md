@@ -3,8 +3,6 @@ title = "13 Mānavadharmasūtra"
 
 +++
 
-## 13. Mānavadharmasutra-Did it exist?
-
 143 
 
 13. Mānavadharmasutra-Did it exist ? Following the orthodox view of Western Sanskrit scho lars that most of the dharinasūtras are older than almost all, if not all, the metrical smrtis, I gave the first place of honour to the dharmasutras of Gautama and others. But my own views differ to a great exteut from those of the orthodox school of Sanskritists represented by Max Mūller and Būhler. It is high time to state here my views about the existence of a Mānava-dharma-sūtra supposed to be the original of our extant Manu. 

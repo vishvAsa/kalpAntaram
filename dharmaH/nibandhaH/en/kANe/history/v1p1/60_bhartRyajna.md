@@ -3,8 +3,6 @@ title = "60 Bhartṛyajña"
 
 +++
 
-## 60 Bhartṛyajña
-
 | āo. Bharteyajĩa This seems to have been a very ancient commentator. Medhātithiros in his bhāsya on Manu 8. 3 says 'other explana tions have been well brought out by Bhartļyajña and they should be understood from his work'. Trikānda-mandana (who flourished before 1100 A. D.) in his Āpastambasūtra dhvanitārtha-kāriki708 (I. 41) refers to the views of Bhartr yajña that one who had committed to memory the text of the Veda had the privilege ( the adhikāra ) of consecrating the sacred fires, though he may be innocent of the meaning of the Vedic texts. From Ananta's bhāsya it appears that Bhartryajña composed a bhāsya on the KĀtyāyanaśrautasūtra which had been lost (autsanna) in the former's day. From Gadūdhara's comments on the Paraskaragrhyasūtra it appears that Bhartryajña commented on Pāraskara,707 The Grhastha ratnākara of Candeśvara quotes Bhartsyajña’s explanation of 
 
 703 पित्रा दत्तमिति स्त्रीधनमात्रोपलक्षणमित्यसहायमेधातिथिरिति (थी इति?) 

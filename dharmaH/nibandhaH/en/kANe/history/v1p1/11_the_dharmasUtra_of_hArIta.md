@@ -3,8 +3,6 @@ title = "11 The Dharmasūtra of Hārīta"
 short_title = "11 The Dharmasūtra of"
 
 +++
-## 11 The Dharmasūtra of Hārīta
-
 
 11. The Dharmasutra of Harita That Hārīta was an ancient sūtrakāra on dharma is quite patent from the fact that the dhurmasitras of Baudhā. yana, Apastamba and Vasiṣtha quote him as an authority. 
 

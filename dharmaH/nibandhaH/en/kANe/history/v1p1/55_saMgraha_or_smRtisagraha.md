@@ -3,8 +3,6 @@ title = "55 Saṁgraha or Smṛtisaṁgraha"
 short_title = "55 Saṁgraha or"
 
 +++
-## 55 Saṁgraha or Smṛtisaṁgraha
-
 
 55. Samgraha or Smrtisamgraha This work is frequently cited by the Mitākṣarā, Aparārka, the Smṛticandrikā and other works on all topics of dharma, The quotations on vyavahāra are copious and are very im 
 

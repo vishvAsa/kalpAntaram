@@ -3,7 +3,6 @@ title = "08 Hiraṇyakeśi-Dharmasūtra"
 short_title = "08"
 
 +++
-## 08 Hiraṇyakeśi-Dharmasūtra
 
 The Hiraṇyakeśi-dharmasūtra forms the 26th and 27th _praśnas_ of the Hiraṇyakeśi-kalpa. The Śrauta-sūtra has been published by the Ānandāśrama Press (Poona). The Hiraṇyakeśi-gṛhya-sūtra was edited with extracts from the commentary of Mātṛdatta by Dr. Kirsto (Vienna, 1889). The Gṛhya forms the 19th and 20th _praśnas_ of the Kalpa, each _praśna_ being divided into eight paṭalas. The Śrauta-sūtra is largely based on the Śrauta-sūtra of Āpastamba Tho Gṛhya-sūtra is indebted to the Gṛhya-sūtra of Bhāradvāja. The Dharmasūtra of Hiraṇyakeśin can hardly be called an independent work. Hundreds of sūtras are borrowed word for word from the Āpastamba Dharmasūtra. The Dharmasūtra of Hiraṇyakeśin is therefore the oldest voucher for the authenticity of Āpastamba's text and is very valuable for checking the latter.
 

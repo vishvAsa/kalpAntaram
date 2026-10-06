@@ -3,8 +3,6 @@ title = "27 Bharadvāja and Bhāradvāja"
 short_title = "27 Bharadvāja and"
 
 +++
-## 27 Bharadvāja and Bhāradvāja
-
 
 29. Bharadvāja and Bharadvaja 
 

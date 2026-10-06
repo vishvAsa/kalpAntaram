@@ -4,8 +4,6 @@ short_title = "05 The Dharmasūtra of"
 
 +++
 
-## 5. The Dharmasūtra of Gautama.
-
 This has been printed several times (there is Dr. Stenzler's edition of 1876, the Calcutta edition of 1876, the Ānanadāśrama edition with the commentary of Haradatta, and the Mysore Government edition with the bhāṣya of Maskarin; it was translated by Būhler in S. B. E., Vol. II. with an introduction). The Anandāśrama edition of 1910 which is incorrect in a few places (e. g. 21.7) has been used in this work. This dharmasūtra is, as we shall see, the oldest of those we have. The Gautama dharmasūtra was specially studied by followers of the Sāmaveda (see note 55 above). The commentary on the Caraṇavyūha tells us that Gautama was one of the nine sub-divisions of the Rāṇāyanīya school of the Sāmaveda. A teacher Gautama is mentioned frequently in the Lāṭyāyanaśrautasūtra (e.g. I. 3. 3 and I. 4. 17) and in the Drāhyāyanaśrauta (e.g. I. 4. 17, IX. 3. 15) of the Sāmaveda. The Gobhilagṛhya (III. 10. 6) which belongs to the Sāmaveda cites Gautama as an authority. Therefore it is not improbable that a complete Gautamasūtra embodying Śrauta, Gṛhya and Dharma doctrines once existed. There are other indications pointing to the close connection of the Gautamadharmasūtra with the Sāmaveda. Chapter 26 of the dharmasūtra about _Kṛcchra_ penance is the same, almost word for word, as the Sāmavidhāna[^59] Brāhmaṇa (I. 2, Burnell's ed.).
 
 [^59]:

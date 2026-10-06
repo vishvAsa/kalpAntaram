@@ -3,9 +3,6 @@ title = "16 Atri"
 
 +++
 
-
-## 16 Atri
-
 That Atri was an ancient writer on *dharma* follows from a reference to him in Manu ( III. 16 ) as holding the view that a *dvijāti* taking as wife a *śūdra* woman became fallen (*patita*). In the Deccan College collection there are several mss. ( Nos. 185-187 of A 1881-82) of the *Ātreyadharmaśāstra* in nine *adhyāyas*. They treat of gifts, prayers (*japya*) and *tapas* by which men are freed from all sins. Some of the chapters are in mixed prose and verse. The first three chapters are entirely in verse and some of the verses ( such as *ekākṣaraṁ param brahma* ) occur in the *Manusmṛti*. The fourth opens with a long sūtra, which, in style, resembles later *bhāṣyas* and commentaries.[^188] The 5th also is in verse and contains several verses found in Vāsiṣṭha ( Dh. S. 28. 1, 4, 6 ). The sixth speaks of the specially holy hymns and verses of the Veda. Some of the verses here are the same as Vasiṣṭha (28. 10-11). The seventh refers to secret *prāyaścittas* and the very first sūtra after the opening words speaks of several non-Aryan tribes such as the Śakas, Yavanas, Kām-
 
 [^188]: अर्चीषि प्रयत्नानां यमविषयनरकालनानिश्च ( ! ) पतितांश्च यदि कदाचिन्मानुषं भवति तदेतच्च्छन्नाङ्गुलशरीरा जायन्ते । तथैव । अनूतनादी खली महाहा कुष्ठी &c.

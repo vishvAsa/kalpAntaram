@@ -3,8 +3,6 @@ title = "18 Kaṇva and Kāṇva"
 
 +++
 
-## 18. Karva and Kānva
-
 273 
 
 18. Kanya and Kānva From the Ap. Dh. S. it appears that Kanva and Kāụva were two distinct writers on dharma. In I. 6. 19. 2 Āpastamba starts the question as to the persons, food at whose house was permitted. He states various views on that point and says that Kanya was of opinion that food may be taken at anybody's house provided the latter offered it with a request (I. 6. 19. 3) and that the opinion of Eka, Kuṇika, Kānva, Kutsa and Puskarasāili (1. 6. 19. 7) was that only that food that was offered by a pure and religious man should be partaken. In another place ( L. 10. 28. 1) Apastambé gives it as the opinion of Kautsa, Hārīta, Kajıva and Puskara sādi that a man became a thief if in any case whatever he appropriates another's belongings. The Kumbhakonam edition of Pandit Halasyanatha reads Kāṇva for Kanva. 

@@ -3,8 +3,6 @@ title = "12 The Dharmasūtra of Saṅkha-Likhita"
 short_title = "12 The Dharmasūtra of"
 
 +++
-## 12 The Dharmasūtra of Saṅkha-Likhita
-
 
 From the Tantravārtika we learn (note 55 above) that the Dharmasūtra of Śaṅkha-Likhita was specially studied by the Vājasaneyins (the followers of the white Yajurveda ). The Tantravārtika also quotes a few words from that Dharmaśūtra which constitute an Anuṣṭubh pāda[^132]. The Mahābhārata (in Śāntiparvan, chap. 23. 18-43 ) narrates the story of the two brothers, Śaṅkha and Likhita, who resided in separate dwellings surrounded by trees. Once Likhita came to the āśrama (hermitage ) of Śaṅkha in his absence. He took some ripe fruits from some of the trees of Śaṅkha’s āśrama and ate them. While he was eating, Śaṅkha came and asked him where he got the fruits. Likhita smiled and told his brother that he took them from his trees. Then Śaṅkha got angry and told his brother that he was guilty of theft and asked him to go to the king Sudyumna for punishment. Likhita went to the king who would not punish him as he was a man of pure character and learned ; when he persisted the king ordered his hands to be cut off. His arms were restored when he plunged into the river Bāhudā. In Santi ( 130.29 ) [^132a] it is said 'It is not possible to live if one adopts Saṅkhalikhita mode of life, particularly when one intends to secure the protection of the subjects.' In another place (Santiparvan 132. 15-16 ) it is said 'Some hold that conduct or practice is the best characteristic of dharma, others to whom Saṅkha-Likhita are dear do not like them.' Vide Sabhāparva 7. 11 where among the holy sages who graced Iudra's sabhii are included Saijkha and Likhita. 
 
@@ -61,4 +59,3 @@ with गौ. ध. सू. 5. 39-42; ' दन्तवद्धन्तलग्
 'भृतकाव्यापको यस्तु स उपाध्याय उच्यते'  quoted in स्मृतिच. I, p. 34, is मनु II. 141
 
 [^143]: 'इषुं गृह्णाति राजन्या प्रतोदं वैया दशान्तं शूद्रा'  quoted in परा मा. I. 2., p. 98, Compare मनु 3. 44,
-

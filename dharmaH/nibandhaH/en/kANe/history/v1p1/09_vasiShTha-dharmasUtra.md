@@ -3,8 +3,6 @@ title = "09 Vasiṣṭha-dharmasūtra"
 short_title = "09 Vasiṣṭhadharmasūtra"
 
 +++
-## 09 Vasiṣṭha-dharmasūtra
-
 
 9. Vasistha-dharmasutra. This dlurmusutra has been printed several times. The collec tion of Jivanada (part II, pp. 456-496 ) contains only 20 chapters and a portion of the 21st and so does the collection of Mr. M. N. Dutt (Calcutta 1908). The Anandāśrama collection of sinītis ( 1905, pp. 187-231 ) and the edition of Dr. Fūhrer in the B. S. series (1916) contain thirty chapters. According to Dr. Jolly (R. u 8, p. 6 ) some mss. give only six or ten chapters, The Vasisthadharmasūtra with the commentary called Vidvan modini was printed at Benares. In the following Dr. Fūhrer's 
 
