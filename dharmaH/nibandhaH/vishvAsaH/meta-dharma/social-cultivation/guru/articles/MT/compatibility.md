@@ -46,3 +46,12 @@ IMO they are parts of it but not the sole aspect of it. For example, a male can 
 One key thing that may be inferred from H tradition is that not all student-teacher pairings are fruitful even if they might be compatible in terms of IQ. A student might be very interested in what a teacher might have to offer but that is also not enough. 
 
 Similarly, a teacher might find a high intelligence or loyal student a good vessel for his teachings, but that is not enough. There has to be a deeper enmeshing of the personalities of the two for the interaction to yield results, as mentioned in the upaniShad of yajurveda.
+
+## Productivity
+Source: [TW](https://x.com/blog_supplement/status/2107316843719409835)
+
+As per the upaniShad of the taittirIyaka-s, knowledge is produced at the junction of the teacher and the student.  
+If a great paNDita does not have a good and suitable student, his knowledge production is impeded,  
+even though he might have amassed a great deal of it internally.  
+
+A yogin is different. He is unaffected by whether he has a student or not; he continues to amass powers as long as he continues with his practice.
