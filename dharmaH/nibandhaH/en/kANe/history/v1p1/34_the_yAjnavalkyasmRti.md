@@ -3,7 +3,11 @@ title = "34 The Yājñavalkyasmṛti"
 
 +++
 
-34. The Yājnavalkyasmrti This smrti has been published dozens of times. In the following the Nirnayasāgara edition edited by Sāstri Moghe ( 1892 A. D. ) has been used and the Trivandrum edition when speaking of Viśvarūpa. 
+## 34. The Yājnavalkyasmrti 
+
+This smrti has been published dozens of times.
+
+In the following the Nirnayasāgara edition edited by Sāstri Moghe ( 1892 A. D. ) has been used and the Trivandrum edition when speaking of Viśvarūpa.
 
 The name of Yājña valkya is one of the most illustrious among Vedic sayes. He is credited with having promulgated the White Yajurveda. In the Suntiparva (chap. 312 ) we are told that there was a rupture between Vaiśampāyana and his pupil Yājṅavalkya and that by worshipping the Sun the latter received the revelation of the White Yajurveda, the Satapatha etc. The accounts in the Visuu (3. 5 ), the Bhagen vata ( XII. 6. 61-74 ) and other purāṇas differ somewhat from the one in the Mahabharata, but all agree on the fact of them strained relations between Yājña valkya and bis teacher. There 
 

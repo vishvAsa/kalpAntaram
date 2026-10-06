@@ -3,7 +3,9 @@ title = "17 Uśanas"
 
 +++
 
-17. Usanas Kāvya Uśanas is an ancient sage in the Rgveda ; vide æg. I. 83. 5, where Kavya Uśanas is said to have been an helper of Indra and brought out the cows (carried away and concealed by the Panis). In Rg. VIII. 23. 17 that sage is said to have established Agni for Manu and in Rg IX. 87. 3 Uśanas is called a ṛsi and vipra and one who knew the hidden place where cows were concealed. 
+## 17. Usanas 
+
+Kāvya Uśanas is an ancient sage in the Rgveda ; vide æg. I. 83. 5, where Kavya Uśanas is said to have been an helper of Indra and brought out the cows (carried away and concealed by the Panis). In Rg. VIII. 23. 17 that sage is said to have established Agni for Manu and in Rg IX. 87. 3 Uśanas is called a ṛsi and vipra and one who knew the hidden place where cows were concealed.
 
 That Uśanas wrote a work on politics follows from seve ral circumstances. The Kauṭiliya quotes the Auśanasāļı seven times. It is almost certainly referring to a work. That work contained directions on the administration of justice also, as Kautilya speaks of Auśanasa method of partition (in allowing a tenth additional share to the eldest son, III. 6 ), as Auśana sāḥ prescribed fines in cases where witnesses proved stupid &c. (III. 11,44 ). The Mahābhārata, Santiparva 236 (chap. 56, 
 

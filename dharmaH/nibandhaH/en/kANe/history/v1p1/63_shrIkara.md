@@ -3,7 +3,7 @@ title = "63 Śrīkara"
 
 +++
 
-63. Srikara The Mit. on Yāj. II. 135 alludes to the view of Srikara and others that the widow succeeded is heir to her deceased husband's estate if it was small.743 The Smytisāra744 of Harinātha attributes the same view to Srikara and disappro ves of it. On Yāj. II. 169 the Mit.746 cites the view of Srikara about that topic and disapproves of it. Viśvarūpa also gives two explanations of that verse of Yāj., the first of which agrees with that of the Mit, and the second is akin to Srikara's. 
+## 63. Srikara The Mit. on Yāj. II. 135 alludes to the view of Srikara and others that the widow succeeded is heir to her deceased husband's estate if it was small.743 The Smytisāra744 of Harinātha attributes the same view to Srikara and disappro ves of it. On Yāj. II. 169 the Mit.746 cites the view of Srikara about that topic and disapproves of it. Viśvarūpa also gives two explanations of that verse of Yāj., the first of which agrees with that of the Mit, and the second is akin to Srikara's.
 
 The works of Jimūtavāhana (viz. the Dayabhāga and the Vyavahāramātṛkā ), the Smrticandrikā and the Sarasvati vilāsa contain very interesting notices of Srikara's views. Many of them were brought together by ne in JBBRAS for 1925, pp. 213-215. Srikara like Viśvarūpa held the view that 'duhitarah in Yūj. refers to the putriku, he allowed the parents of a chililless person to succeed together at the same time. The Diyabhāga very severely criticizes the views of Srikara on the succession to re-united members, on vidyā dhana and on Yaj. II. 24 ( about enjoyment for 20 years ). 148 Most of the views attributed to Srikara were also entertained by Viśvarūpa ur are more antiquated than Viśvarūpa's. 
 

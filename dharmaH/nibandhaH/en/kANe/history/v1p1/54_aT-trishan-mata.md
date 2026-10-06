@@ -3,7 +3,7 @@ title = "54 Ṣaṭ-triṁśan-mata"
 short_title = "54 Ṣaṭtriṁśanmata"
 
 +++
-54 Ṣaṭ-triṁśan-mata
+## 54 Ṣaṭ-triṁśan-mata
 
 
 54. Sat-trimsan-mata The title literally means 'the doctrines of thirty-six (Smṛtis )'. This appears to have been a work like the Catur vimśatimata. It has been stated above that Paithinasi enumerated thirtysix propounders of Dharma (vide Smrtican drikā p. 1). Quotations from Șat-trimsan-mata cited in the 

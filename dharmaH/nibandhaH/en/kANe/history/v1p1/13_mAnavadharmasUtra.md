@@ -3,7 +3,7 @@ title = "13 Mānavadharmasūtra"
 
 +++
 
-13. Mānavadharmasutra-Did it exist? 
+## 13. Mānavadharmasutra-Did it exist?
 
 143 
 

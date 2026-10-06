@@ -3,7 +3,7 @@ title = "58 Commentaries and Nibandhas"
 short_title = "58 Commentaries and"
 
 +++
-58 Commentaries and Nibandhas
+## 58 Commentaries and Nibandhas
 
 
 58. Commentaries and Nibandhas ( digests ) 

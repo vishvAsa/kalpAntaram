@@ -3,13 +3,13 @@ title = "10 Viṣṇudharmasūtra"
 
 +++
 
-10. Viṣṇudharmasutra. The Viṣṇudharmasūtra has been printed several times in India, viz. by Jivananda in his Dharmasastrasangraha (1876 part I pp. 70-176 ) by the Bengal Asiatic Society (1881, ed. by Dr. Jolly with extracts from the commentary Vaijayanti ), by M. N. Dutt (Dharmaśāstra texts, vol. II pp. 541-666, Calcutta, 1909) and translated by Dr. Jolly (in the S. B. E. vol. VII with an Introduction). In the present work Dr. Jolly's edition has been used. The sūtra contāins one hundred chapters. Though the number of chapters is so large, the sūtra is not very extensive. There are several chapters such as 40, 42 and 76 that contain only one sūtra and one verse. The first chapter and the last two are entirely in verse; the remaining chapters are in mixed prose and verse, the versified portion being generally at the end of each chapter. As pointed out by the Vaijayanti the sūtra is in close relation to one of the oldest schools of the Yajurveda, viz. Katha. It also stands in a peculiar relation to the extant Manusmṛti. According to the Caranavyūha, Kathmand 
+## 10. Viṣṇudharmasutra.
+
+The Viṣṇudharmasūtra has been printed several times in India, viz. by Jivananda in his Dharmasastrasangraha (1876 part I pp. 70-176 ) by the Bengal Asiatic Society (1881, ed. by Dr. Jolly with extracts from the commentary Vaijayanti ), by M. N. Dutt (Dharmaśāstra texts, vol. II pp. 541-666, Calcutta, 1909) and translated by Dr. Jolly (in the S. B. E. vol. VII with an Introduction). In the present work Dr. Jolly's edition has been used. The sūtra contāins one hundred chapters. Though the number of chapters is so large, the sūtra is not very extensive. There are several chapters such as 40, 42 and 76 that contain only one sūtra and one verse. The first chapter and the last two are entirely in verse; the remaining chapters are in mixed prose and verse, the versified portion being generally at the end of each chapter. As pointed out by the Vaijayanti the sūtra is in close relation to one of the oldest schools of the Yajurveda, viz. Katha. It also stands in a peculiar relation to the extant Manusmṛti. According to the Caranavyūha, Kathmand
 
 1917 
 
-1100 They are: afraiova a FAQ Araa: / sifa stafi Raga 
-
-agufall at stā upami na fagarat:la farta etti secrap. 1225. 
+[^110d]: They are: यत्किंचित्कुरुते पापं जन्मप्रभृति मानवः । अपि गोचर्ममात्रेण भूमिदानेन नश्यति ॥ गवां शतं वृषभैको यत्र तिष्ठेद्यथासुखम् । तद्वै गोचर्ममात्रं तु प्राहुर्वेदविदो जनाः ॥ अपरार्क p. 1225.
 
 Bhandarkar Oriental 
 

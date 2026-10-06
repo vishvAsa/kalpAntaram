@@ -3,7 +3,7 @@ title = "09 Vasiṣṭha-dharmasūtra"
 short_title = "09 Vasiṣṭhadharmasūtra"
 
 +++
-09 Vasiṣṭha-dharmasūtra
+## 09 Vasiṣṭha-dharmasūtra
 
 
 9. Vasistha-dharmasutra. This dlurmusutra has been printed several times. The collec tion of Jivanada (part II, pp. 456-496 ) contains only 20 chapters and a portion of the 21st and so does the collection of Mr. M. N. Dutt (Calcutta 1908). The Anandāśrama collection of sinītis ( 1905, pp. 187-231 ) and the edition of Dr. Fūhrer in the B. S. series (1916) contain thirty chapters. According to Dr. Jolly (R. u 8, p. 6 ) some mss. give only six or ten chapters, The Vasisthadharmasūtra with the commentary called Vidvan modini was printed at Benares. In the following Dr. Fūhrer's 
@@ -170,9 +170,9 @@ The words 'tasmad...deyam' do ocour in Ap. Dh. S. II. 6. 13. 11 but not in the d
 
 IN 
 
-109 'पसिष्ठेन समाख्यातं ब्रह्महत्याव्यपोहनम्। द्वादशरात्रमभक्षो द्वादशरात्रमुपवसेत् पी आप 
+[^109]: 'वसिष्ठेन समाख्यातं ब्रह्महत्याव्यपोहनम्। द्वादशरात्रमभक्षो द्वादशरात्रमुपवसेत् पी आप
 
-Tre p. 1067 ( this is afhe 23. 38); ara que a arors RA FAQ Hurraa u19 aartall fou p. 1075 (this is a 20. 10 
+अपरार्क p. 1067 ( this is वसिष्ठ 23. 38); ‘वसिष्ठेन तथोक्तं वै प्रायश्चित्तं सुरापस्य कामतो मद्यपाने तु न सुरायाः कदाचन ।’ अपरार्के p. 1075 ( this is वसिष्ठ 22. 10 ).
 
 106 
 

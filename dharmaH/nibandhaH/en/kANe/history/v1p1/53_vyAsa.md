@@ -3,7 +3,7 @@ title = "53 Vyāsa"
 
 +++
 
-53. Vyāsa In Jivananda (part II, pp. 321-342 ) and in the Anandā srama collection of smṛtis there is a smrti ascribed to Vyasa (pp. 357-371 ). The two texts are the same with a few variations. It is in four chapters and contains about 250 verses. Vyāsa is said to have declared the Smrti in Benares. 
+## 53. Vyāsa In Jivananda (part II, pp. 321-342 ) and in the Anandā srama collection of smṛtis there is a smrti ascribed to Vyasa (pp. 357-371 ). The two texts are the same with a few variations. It is in four chapters and contains about 250 verses. Vyāsa is said to have declared the Smrti in Benares.
 
 640 यमार्याः क्रियमाणं तु शंसन्त्यागमवेदिनः । स धर्मों यं विगर्हन्ति तमधर्म 
 

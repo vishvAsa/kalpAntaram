@@ -3,7 +3,7 @@ title = "43 Dakṣa"
 
 +++
 
-43. Daksa 
+## 43. Daksa
 
 Dakṣa is one of the writers on dharma enumerated by Yāj. Vigvarūpa quotes verses of Daksa several times, viz. on Yāj. 1. 17 (on clods of earth for purifying the body ), on Yāj. III. 30 (two verses on āśauca ), on Yāj. III. 66 ( about & parivrājaka ), on Yāj. III. 191 (about padmāsada ). The Mit. (on Yāj. I. 89) quotes a half verse of Daksa to the effect that a dvija should not remain unattached to an asrama (i. e. without a wife in the context ) even for a moment; on Yāj. III. 58 two verses about bhikṣus; on Yāj. III. 243 (one verse ). Aparārka cites numerous verses of Dakṣa on ācāra, āśauca, srāddha and similar topics. In one case (p. 368 ) be attributes a prose passage to Dakṣa about the gift of gold.500 Two of Daksa's verses most frequently quoted by writers on vyavahāra are those that lay down wbat nine things cannot be the subjects of gift.601 
 

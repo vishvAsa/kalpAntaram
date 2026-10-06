@@ -3,7 +3,7 @@ title = "40 Ṛṣyaśṛṅga"
 
 +++
 
-510 
+[[P510]]
 
 ilistory of Dharmaśāstra 
 

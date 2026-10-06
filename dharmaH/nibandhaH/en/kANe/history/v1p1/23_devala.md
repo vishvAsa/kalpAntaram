@@ -3,7 +3,11 @@ title = "23 Devala"
 
 +++
 
-23. Devala The name Devala as that of a sage frequently occurs in the Mahābhārata and is closely connected with Asita. Vide Sabhāparva 59. 9-11, Salya 50 and Sāntiparva 230. In Subhā ( 72. 5) it is stated that Devala declared that a man has three lights viz. son, actions and correct knowledge. In the Gita also (in X. 13 ) Arjuna says all the sages, the Devasși Nārada, Asita, Devala and Vyāsu speak of you as done in X. 12'. Sarkaricñrya in his bhāsya on Vedānti sutra 1. 4. 28 states that the Sārkhya system is nearer to Vedanta than other systems like the atomic theory, since it espouses the doctrine of the non-difference between cause 
+## 23. Devala 
+
+The name Devala as that of a sage frequently occurs in the Mahābhārata and is closely connected with Asita.
+
+Vide Sabhāparva 59. 9-11, Salya 50 and Sāntiparva 230. In Subhā ( 72. 5) it is stated that Devala declared that a man has three lights viz. son, actions and correct knowledge. In the Gita also (in X. 13 ) Arjuna says all the sages, the Devasși Nārada, Asita, Devala and Vyāsu speak of you as done in X. 12'. Sarkaricñrya in his bhāsya on Vedānti sutra 1. 4. 28 states that the Sārkhya system is nearer to Vedanta than other systems like the atomic theory, since it espouses the doctrine of the non-difference between cause
 
 
 

@@ -3,7 +3,9 @@ title = "25 Budha"
 
 +++
 
-25. Budha This sūtrakāra is not mentioned by Yāj. nor by Parāśara. He is very rarely cited. Aparārka on Yāj. I. 4-5, Kalpataru on Brahmacāri pp. 24, 78, 160, on Gr. Kanda p. 262, Naiyata K. p. 211 (quoted in Vira-mitrodaya, Paribhāsa p. 16), Hemādri.378 Jimūta-vābana's Kāla viveka are probably the 
+## 25. Budha 
+
+This sūtrakāra is not mentioned by Yāj. nor by Parāśara. He is very rarely cited. Aparārka on Yāj. I. 4-5, Kalpataru on Brahmacāri pp. 24, 78, 160, on Gr. Kanda p. 262, Naiyata K. p. 211 (quoted in Vira-mitrodaya, Paribhāsa p. 16), Hemādri.378 Jimūta-vābana's Kāla viveka are probably the
 
 478 खियो गृहदेवताः । तासां न शौचं न व्रतं नोपवासः । पतिशुश्रूषया गच्छान्त 
 

@@ -3,7 +3,9 @@ title = "64 Medhātithi"
 
 +++
 
-64. Medhātithi Medhātithi is the author of an extensive and erudite commentary ( bhusyu ) on the Manusmrti. It is the oldest extant commentary on that smrti. The bhāsya of Medhātithi was first published about forty years ago by Rao Saheb V. N. Mandlik in Bombay and recently Mr. J. R. Gharpure of Bombay brought out an edition of Medhātithi which closely follows Mandlik's edition. A critical edition of the bhāsya based upon all the available Msg. is a great clesideratum. A new edition in two volumes based on several mss. edited by M. M. Dr. Ganganath Jha was published in the G. O. I. Series in 1932 and 1939. In this edition also ten verses in the 3rd adhyāya are wanting and in adhyāya nine there 
+## 64. Medhātithi Medhātithi is the author of an extensive and erudite commentary ( bhusyu ) on the Manusmrti.
+
+It is the oldest extant commentary on that smrti. The bhāsya of Medhātithi was first published about forty years ago by Rao Saheb V. N. Mandlik in Bombay and recently Mr. J. R. Gharpure of Bombay brought out an edition of Medhātithi which closely follows Mandlik's edition. A critical edition of the bhāsya based upon all the available Msg. is a great clesideratum. A new edition in two volumes based on several mss. edited by M. M. Dr. Ganganath Jha was published in the G. O. I. Series in 1932 and 1939. In this edition also ten verses in the 3rd adhyāya are wanting and in adhyāya nine there
 
 750 'राजधने दीनानाथादिसकलप्राणिनामंशित्वं बहुनायकत्वाद्राज्यविनाशश्चेति 
 

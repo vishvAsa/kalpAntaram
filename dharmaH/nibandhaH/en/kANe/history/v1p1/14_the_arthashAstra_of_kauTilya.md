@@ -3,7 +3,7 @@ title = "14 The Arthaśāstra of Kauṭilya"
 short_title = "14 The Arthaśāstra of"
 
 +++
-14 The Arthaśāstra of Kauṭilya
+## 14 The Arthaśāstra of Kauṭilya
 
 
 14. The Arthasastra of Kautilya 

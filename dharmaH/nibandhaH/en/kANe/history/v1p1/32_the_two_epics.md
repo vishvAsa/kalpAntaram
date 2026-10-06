@@ -3,7 +3,11 @@ title = "32 The Two Epics"
 
 +++
 
-32. The Two Epics The two great Epics of India, the Mahābhārata and the Rāmāyaṇa, contain ( particularly the first) numerous passa ges bearing on meny topics of Dharmaśāstra and are relied upon as authorities in medieval and later works. The Mabu bhārata itself claims (in Adiparva, 2. 83) that VyDS composed the work as a great Dharmaśāstra, as Arthasastra ( treatise on politics and Government), Moksaśāstra and also 
+## 32. The Two Epics 
+
+The two great Epics of India, the Mahābhārata and the Rāmāyaṇa, contain ( particularly the first) numerous passa ges bearing on meny topics of Dharmaśāstra and are relied upon as authorities in medieval and later works.
+
+The Mabu bhārata itself claims (in Adiparva, 2. 83) that VyDS composed the work as a great Dharmaśāstra, as Arthasastra ( treatise on politics and Government), Moksaśāstra and also
 
 POONA 
 

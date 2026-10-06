@@ -3,7 +3,7 @@ title = "30 The Smṛtis"
 
 +++
 
-30. The Smrtis 
+## 30. The Smrtis
 
 299 
 

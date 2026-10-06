@@ -3,7 +3,7 @@ title = "62 Bhāruci"
 
 +++
 
-62. Bhāruci The Mit. on Yij. (I. 81) says that Bhiruci like Viśvaripa held the view that the rulertau bhūryam gacchet' was a niyanma and not a paristkrinkhayti. On Yij. II 124 the Mit. says that the explanation of' the fourth share' to be given to un married sisters oflered by Asahiya and Medhitithi was the 
+## 62. Bhāruci The Mit. on Yij. (I. 81) says that Bhiruci like Viśvaripa held the view that the rulertau bhūryam gacchet' was a niyanma and not a paristkrinkhayti. On Yij. II 124 the Mit. says that the explanation of' the fourth share' to be given to un married sisters oflered by Asahiya and Medhitithi was the
 
 732 अत एवोक्तं श्राद्धकलिकायां-मासिकानि सपिण्डं च अमावास्या तथाब्दिकम् । 
 

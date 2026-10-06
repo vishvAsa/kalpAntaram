@@ -3,7 +3,7 @@ title = "15 Vaikhānasa-dharma-praśna"
 short_title = "15"
 
 +++
-15 Vaikhānasa-dharma-praśna
+## 15 Vaikhānasa-dharma-praśna
 
 
 15. Vaikhānasa-dharn-prasna 

@@ -3,7 +3,7 @@ title = "18 Kaṇva and Kāṇva"
 
 +++
 
-18. Karva and Kānva 
+## 18. Karva and Kānva
 
 273 
 

@@ -3,7 +3,9 @@ title = "57 Hārīta"
 
 +++
 
-57. Harīta The verse quotations from Hārīta on topics of vyavahāra deserve some treatment. He defines vyavahāra as that where by the recovery of one's own wealth and the avoidance of (doing ) the duties peculiar to another (caste or class ) are effected in due course of law.878 He further says that that judicial proceeding is proper which is based on the dictates of dharmaśāstra and arthasāstra, which is in conformity with the usages of respectable people and which is free from fraud.978 Hārita calls upon the king to know the sāstras, the 
+## 57. Harīta The verse quotations from Hārīta on topics of vyavahāra deserve some treatment.
+
+He defines vyavahāra as that where by the recovery of one's own wealth and the avoidance of (doing ) the duties peculiar to another (caste or class ) are effected in due course of law.878 He further says that that judicial proceeding is proper which is based on the dictates of dharmaśāstra and arthasāstra, which is in conformity with the usages of respectable people and which is free from fraud.978 Hārita calls upon the king to know the sāstras, the
 
 NST 
 

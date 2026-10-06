@@ -3,7 +3,7 @@ title = "36 The Nāradasmṛti"
 
 +++
 
-36. The Nāradasmrti 
+## 36. The Nāradasmrti
 
 467 
 

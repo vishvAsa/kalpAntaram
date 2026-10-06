@@ -3,7 +3,7 @@ title = "07 Dharmasūtra of Āpastamba"
 short_title = "07 Dharmasūtra of"
 
 +++
-07 Dharmasūtra of Āpastamba
+## 07 Dharmasūtra of Āpastamba
 
 
 7. Dharmasutra of Āpastamba. This has been edited several times (viz. by Būhler in the Boinbay Sanskrit Series with large extracts from Haradatta's commentary called Ujjvalā and also at Kumbhakonam with the complete commentary of Haradatta and translated by Būhler with an introduction in S. B. E. vol. II). The Apastan bakalpasūtra of the Taittiriya Sākhā of the black Yajurveda is divided into 30 pruśnas. According to Būhler, the first 24 praśnas contain the treatment of Srauta sacrifices; the 25th contains paribhūṣās, pravarakhanda, and Hautraka prayers to be recited by Hotr priests ; 26th and 27th praśnas constitute the Gșhyasūtra, the 28th and 29th Dharmasūtra and the 30th praśna is Sulvasūtra. Būhler seems to be slightly inaccurate here. According to Caundappa, who commented on the Āpastambiya sūtras in the 14th century, the Āpastambiyaman trapātha forms the 25th and 26th praśnas of the Kalpasūtra and the Gșhyasūtra forms 27th prasna.80 The Srauta-sūtra of 80 पंचविशेष षइविंशे गृहमन्त्राः प्रपञ्चिताः । प्रश्नेथ सप्तर्विशे स्याब्रह्मतन्त्रविधिक्रमाती 

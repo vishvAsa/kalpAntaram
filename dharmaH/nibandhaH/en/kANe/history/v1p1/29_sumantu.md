@@ -3,7 +3,9 @@ title = "29 Sumantu"
 
 +++
 
-29. Sumantu For a Dharmasūtra of Sumantu vide Madras Tri. Cat. of Sanskrit M88. (1919-22 ) pp. 5160-62. 
+## 29. Sumantu 
+
+For a Dharmasūtra of Sumantu vide Madras Tri. Cat. of Sanskrit M88. (1919-22 ) pp. 5160-62.
 
 From Viśvarūpa, Haradatta and Aparārka it follows that Sumantu composed a sūtra work on dharma, particularly on ācāra and prāyaścitta. Viśvarūpa quotes prose passages from Sumantu on upapātakas, 390 on prāyaścitta for Brāh mana-murder ( on Yāj. III. 237), for drinking wine ( on Yāj. III. 250 ), for theft of gold (on Yaj. III. 252 ), for incest (on Yāj. III. 253-54 ), for killing a cow and about atatayin (on Yāj. III. 261 ). In one quotation from Sumantu cited by Viśvarūpa the views of ācāryas and of Angirasa are men tioned. 187 The prīyaścittas for Brāhmana-murder and for killing a cow contained in Viśvarūpa occur in Haradatta (on Gaut. 22. 13 and 18). Most of the qnotations cited by Viśva rūpa occur in Aparārka also. The Hāralatā (p. 68 ) quotes sūtras of Sumantu on āśauca. One well-known sutra of Suma ntu is 'no prāyaścitta (or blame ) is incurred by killing an 
 

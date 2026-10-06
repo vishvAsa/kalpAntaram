@@ -3,7 +3,7 @@ title = "51 Laugākṣi"
 
 +++
 
-51. Laugaksi 
+## 51. Laugaksi
 
 Laugākṣi is mentioned among the 36 expounders of Dharmaśāstra set out by Paithīnasi (on p. 1 of Smṛ. Ch.) and Angiras quoted on the same page includes Laugākṣi among Upasmṛtis. 
 

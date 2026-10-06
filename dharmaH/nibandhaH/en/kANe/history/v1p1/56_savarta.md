@@ -3,7 +3,9 @@ title = "56 Saṁvarta"
 
 +++
 
-56. Samvarta Saṁvarta occurs as a Smrtikāra in the list of Yājña valkya. He is cited on all topics of dharma by Viśvarūpa, Medhātithi, the Mit., Haradatta, Aparirka, the Smṛticandrikā and a host of other writers. Viśvarūpa quotes either wholly or in part about twenty verses of Samvarta on evening sandhyā vandana, on the duties of a yuti and on the prāyaścittas for theft, adultery of various kinds, deadly sius. Medhātithi quotes verses of Surivarta on Manu V. 88 and XI. 116. The Mit. quotes him on prayascitta and aśauca ( Yāj. III. 6. 17 19 etc. ). Apararka had a large work before him and quotes about 200 verses almost all on īcīra and priyuscitta. 
+## 56. Samvarta Saṁvarta occurs as a Smrtikāra in the list of Yājña valkya.
+
+He is cited on all topics of dharma by Viśvarūpa, Medhātithi, the Mit., Haradatta, Aparirka, the Smṛticandrikā and a host of other writers. Viśvarūpa quotes either wholly or in part about twenty verses of Samvarta on evening sandhyā vandana, on the duties of a yuti and on the prāyaścittas for theft, adultery of various kinds, deadly sius. Medhātithi quotes verses of Surivarta on Manu V. 88 and XI. 116. The Mit. quotes him on prayascitta and aśauca ( Yāj. III. 6. 17 19 etc. ). Apararka had a large work before him and quotes about 200 verses almost all on īcīra and priyuscitta.
 
 A few of the views of Samvartu on topics of vyavahāra may be noted here. According to him oral testimony when in opposition to writing was to be discarded. 674 This is in striking agreement with section 92 of the Indian Evidence Act. He says that if houses and fields are being enjoyed ( by one person us against another ) when the king is there (i. e. when the central government is strong and there is no 
 
