@@ -3,54 +3,34 @@ title = "39 Aṅgiras"
 
 +++
 
-Angiras is one of the ten primordial sages mentioned in Manusmrti 1.34-35). It is & very ancient oame even in the Rgverle. On Yāj. I. 50 Viśvarūpa quotes a verge of Angiras that what is done according to one's owo will without follow ing the dictates of Sāstra is fruitless.578 On Yaj. III. 248 Viśvarūpa says that the vrutie called Vajra wu8 prescribed by Angiras for Brāhmunas guilty of deadly sins. Viśvarūpa (on Yāj. III. 255 ) quotes two verses of Argiras on the prayaścitta for killine the wife of a brāhinana who has kindled the sacred fires for killing wives of other brahmanas and ksatriyas and vaisyas. On Yāj. III. 266 he quotes two verses of
+[[P507]]
 
-Y 
+39. Aṅgiras
 
-ST374 
+Aṅgiras is one of the ten primordial sages mentioned in Manusmṛti I. 34-35). It is [[&|a]] very ancient [[oame|name]] even in the [[Rgverle|Ṛgveda]]. On Yāj. I. 50 Viśvarūpa quotes a [[verge|verse]] of Aṅgiras that what is done according to one's [[owo|own]] will without [[follow ing|following]] the dictates of Śāstra is fruitless.[^578] On Yāj. III. 248 Viśvarūpa says that the [[vrutie|vrata]] called Vajra [[wu8|was]] prescribed by Aṅgiras for [[Brāhmunas|Brāhmaṇas]] guilty of deadly sins. Viśvarūpa (on Yāj. III. 255) quotes two verses of [[Argiras|Aṅgiras]] on the prāyaścitta for [[killine|killing]] the wife of a [[brāhinana|brāhmaṇa]] who has kindled the sacred fires for killing wives of other [[brahmanas|brāhmaṇas]] and kṣatriyas and vaiśyas. On Yāj. III. 266 he quotes two verses of
 
-577 अनिर्दिष्टाच्च निर्दिष्टमेकत्र च विलेखितम् । विशेषलिखितं ज्याय इति कात्या 
+[^577]: अनिर्दिष्टाच्च निर्दिष्टमेकत्र च विलेखितम् । विशेषलिखितं ज्याय इति कात्या- मनोब्रवीत् ॥ परा. मा. vol. III. part I. p. 235.
+[^578]: स्वाभिप्रायकृतं कर्म यत्तु धर्मविवर्जितम् । क्रीडाकर्मैव बालानां निष्प्रयोजनम् ॥
 
-maaia ll 977. Al, vol. III. part I. p. 235. 578 स्वाभिप्रायकृतं कर्म यतु धर्मविवर्जितम् । क्रीडाकमैव बालानां 
+[[P508]]
 
-निष्प्रयोजनम् ॥ 
+Aṅgiras laying down prāyaścitta for killing certain beasts and birds, wherein Aṅgiras himself is [[men tioned|mentioned]] with honour (bhagavān). Aparārka (pp. 22-23) quotes thirteen verses from [[Arigiras|Aṅgiras]] on the constitution of pariṣad, wherein such terms as [[cāturvilya|cāturvidya]], vitarkī, [[angavid|aṅgavid]], [[dharmapāthaka|dharmapāṭhaka]] are explained and the last of which says that
 
-508 
+a [[pariṣcıd|pariṣad]] sitting in judgment over those who are guilty of [[mahāpāta kas|mahāpātakas]] may consist of hundreds. The Mitākṣarā (on Yāj. I. 86) quotes several verses on the practice of satī and [[escribes|ascribes]] them to both Śaṅkha and Aṅgiras.[^579] Aparārka (pp. 109, 112) quotes four other verses on the same practice, one of which is in the Indravajrā metre and another prohibits [[&|a]] brāhmaṇa wife from following that practice. Medhātithi (on Manu V. 157) quotes the view of Aṅgiras on satī and disapproves of it. The [[Mitakṣara|Mitākṣarā]], Haradatta and others quote numerous verses of Aṅgiras on [[āsauca|āśauca]] and [[priyaścitta|prāyaścitta]]. Haradatta on Gautama (20. 1) quotes a verse of Aṅgiras about the seven antyajas.[^580] Viśvarūpa (on Yāj. III. 237) quotes a [[sutra|sūtra]] of Sumantu in which [[Angirasa|Aṅgirasa]] is cited as an authority. The [[Suddhi-mayūkha|Śuddhi-mayūkha]] quotes a verse of Aṅgiras which relies upon Śatātapa.[^581] The Smṛticandrikā quotes Aṅgiras on the enumeration of Upasmṛtis (vide note 260 above). The [[Smșticandrikā|Smṛticandrikā]] also contains a few prose [[quota tions|quotations]] from Aṅgiras; the same work cites [[ā|a]] verse of [[Arigiras|Aṅgiras]] holding the dharmaśāstra of Manu as the supreme guide.[^582]
 
+[^579]: One of them is the well-known verse तिस्रः कोट्योऽर्धकोटी च यानि लोमानि मानुषे । तावत्कालं वसेत्स्वर्गे भर्तारं यानुगच्छति ॥
+[^580]: चण्डालः श्वपचः क्षत्ता सूतो वैदेहिकस्तथा । मागधायोगवौ चैव सप्तैतेन्त्याव- सायिनः ॥
+[^581]: सर्वेषामेव वर्णानां सूतके मृतके तथा । दशाहाच्छुद्धिरेतेषामिति शातातपोवदत्साद
+[^582]: यत्पूर्वं मनुना प्रोक्तं धर्मशास्त्रमनुत्तमम् । नहि तत्समतिक्रम्य वचनं हितमात्मनः ॥ स्मृतिच० (आह्निक).
 
+The Aṅgiras-smṛti (in Jivananda part I, pp. 554-560) in 72 verses is probably an abridgment. It lays down [[prayas cittas|prāyaścittas]] for various occasions, such as taking food and drink from [[antyajus|antyajas]], for cruelly beating or causing various injuries to cows. It also lays down various rules for the wearing of the dark cloth (nīlivastra) by women. It cites Aṅgiras and [[Apastamba|Āpastamba]] by name. The penultimate verse condemns those who rob women of their wealth.
 
-Angiras laying down prāyaścitta for killing certain beasts and birds, wherein Angiras himself is men tioned with honour (bhagavān ). Aparārka (pp. 22-23 ) quotes thirteen verses from Arigiras on the constitution of pariṣad, wherein such terms as cāturvilya, vitarkī, angavid, dharmapāthaka are explained and the last of which says that 
+[[P509]]
 
-pariṣcıd sitting in judgment over those who are guilty of mahāpāta kas may consist of hundreds. The Mitāksarā ( on Yāj. I. 86 ) quotes several verses on the practice of satī and escribes them to both Saṅkha and Angiras.579 Aparārka (pp. 109, 112 ) quotes four other verses on the same practice, one of which is in the Indravajrā metre and another prohibits & brāhmana wife from following that practice. Medhātithi (on Manu. V. 157 ) quotes the view of Angiras on satī and disapproves of it. The Mitakṣara, Haradatta and others quote numerous verses of Angiras on āsauca and priyaścitta. Haradatta on Gautama (20. I) quotes a verse of Angiras about the seven antyajas, 580 Viśvarūpa (on Yāj. III. 237 ) quotes a sutra of Sumantu in which Angirasa is cited as an authority. The Suddhi-mayūkha quotes a verse of Angiras which relies upon Śatātapa.681 The Smṛticandrikā quotes Angiras on the enumeration of Upasmṛtis ( vide note 260 above). The Smșticandrikā also contains a few proge quota tions from Angiras; the same work cites ā verse of Arigiras holding the dharmaśāstra of Manu as the supreme guide.882 
+In the Ānandāśrama collection of Smṛtis (published in 1905) there is an Aṅgiras-Smṛti in 168 verses. At the [[begin ning|beginning]] it is said that, when asked by Bharadvāja and others, Aṅgiras declared the Smṛti dealing with rules of prāyaścitta. It names the following Smṛtikāras, viz. Śaṅkhalikhita (in v. 15), Sumantu (in v. 26), Āpastamba (v. 76), Manu (v. 86), Aṅgiras (147 and 155). In 1953 Mr. A. N. Krishna [[Aiyan. gar|Aiyangar]] published an Āṅgirasasmṛti at Adyar. This is different from the preceding two works and contains over 1200 ślokas. Pandit Manoranjan Sastri (of Gauhati) claims that he has found the [[insg.|mss.]] of a different [[Argirasasmrti|Aṅgirasasmṛti]] compiled before 14th century A. D. (p. 100 of the [[Pragjyotisa|Pragjyotiṣa]] Souvenir [[pub lished|published]] by him at the time of the All India Oriental Conference at Gauhati in January 1965). As the text is not yet available to scholars, and no reasons are given except the learned Pandit's opinion on reading the Kāmarūpa Ms., other scholars have to suspend their judgment. The Kalpataru (on [[Suddhi|Śuddhi]] p. 18) states that [[Vasistha|Vasiṣṭha]] and Aṅgiras have certain passages in common (vide note below).[^583]
 
-The Angiras-smrti (in Jivananda part I, pp. 554-560 ) in 72 verses is probably an abridgment. It lays down prayas cittas for various occasions, such as taking food and drink from antyajus, for cruelly beating or causing various injuries to cows. It also lays down various rules for the wearing of the dark cloth (nīlivastra ) by women. It cites Angiras and Apastamba by name. The penultimate verse condemns those who rob women of their wealth. 
+There are several mss. in the Govt. Mss. Library at the Bhandarkar Institute ([[Pooua|Poona]]) [[wbich|which]] contain a varying number of verses on prāyaścitta agreeing more or less with Jivananda's text. For example, No. 53 of 1879-80 contains about one hundred verses, No. 205 of 1882-83 contains 54 [[verges|verses]], while No. 65 of [[Visrām bāg|Viśrāmbāg]] collection and No. 83 of 1895-1902 contain only 32; No. 81 of 1884-86 is styled [[Bșhad--Argiras|Bṛhad-Aṅgiras]] and contains 151 verses, many of which are identical with those in the Calcutta text.
 
-679 One of them is the well-known verse faet: TEILT aga 
+The Mitākṣarā (on Yāj. [[111.|III.]] 277) and the [[Smṣtiratnāvali|Smṛtiratnāvalī]] of Vedācārya (I. O. cat. No. 1552 p. 475) quote [[&|a]] [[Bșhad|Bṛhad-]]Aṅgiras and the Mitākṣarā also quotes a Madhyama-Aṅgiras several times (on Yāj. III. 243, 247, 258 and 260).
 
-लोमानि मानुषे । तावत्कालं वसेत्स्वर्गे भर्तारं यानुगच्छति ॥ 680 GUE[ơ: 4 : I am a fewGut | HI TIāi đa nhā Ita 
-
-HRT: 11 681 सर्वेषामेव वर्णानी सूतके मृतके तथा । दशाहाच्छुद्धिरेतेषामिति शातातपोवतिसाद 582 यत्पूर्व मनुना प्रोक्तं धर्मशास्त्रमनुत्तमम् । नहि तत्समतिक्रम्य वचनं हितमात्मनः ।। 
-
-*\#f( 316\#). 
-
-FOUNDED 
-
-FOUNDED 
-
-1917 
-
-39. Angiras 
-
-50g 
-
-In the Anandāśrama collection of Smṛtis (published in 1905 ) there is an Angiras-Smrti in 168 verses. At the begin ning it is said that, when asked by Bharadvāja and others, Angiras declared the Smrti dealing with rules of prāyascitta. It names the following Smrtikāras, viz. Saṅkhalikhita ( in v. 15), Sumantu ( in v. 26 ), Apastamba ( v. 76 ), Manu ( v. 86 ), Angiras ( 147 and 155 ). In 1953 Mr. A. N. Krishna Aiyan. gar published an Angirasasmrti at Adyar. This is different from the preceding two works and contains over 1200 ślokas. Pandit Manoranjan Sastri (of Gauhati) claims that he has found the insg. of a different Argirasasmrti compiled before 14th century A. D. (p. 100 of the Pragjyotisa Souvenir pub lished by him at the time of the All India Oriental Conference at Gauhati in January 1965). As the text is not yet available to scholars, and no reasons are given except the learned Pandit's opinion on reading the Kāmarūpa Ms., other scholars have to suspend their judgment. The Kalpataru (on Suddhi p. 18 ) states that Vasistha and Angiras have certain passages in common ( vide note below ).583 
-
-There are several mss. in the Govt. Mss. Library at the Bhandarkar Institute ( Pooua ) wbich contain a varying number of verses on prāyascitta agreeing more or less with Jivananda's text. For example, No. 53 of 1879-80 contains about one hundred verses, No. 205 of 1882-83 contains 54 verges, while No. 65 of Visrām bāg collection and No. 83 of 1895-1902 contain only 32 ; No. 81 of 1884-86 is styled Bșhad--Argiras and contains 151 verses, many of which are identical with those in the Calcutta text. 
-
-1 
-
-The Mitāksarā (on Yāj. 111. 277 ) and the Smṣtiratnāvali of Vedācārya (I. O. cat. No. 1552 p. 475 ) quote & Bșhad Angiras and the Mitāksarā also quotes a Madhyama Angiras several times (on Yaj. III. 243, 247, 258 and 260 ). 
-
-583 वसिष्टोऽनिराश्च । जनने तु मातापित्रोरेव सूतकम् । इत्येवमेव स्यादिप्राणां शुद्धि 
-
-मिच्छताम् । मातापित्रीर्वा । तन्निमित्तत्वान्मातुरित्येके । अथाप्युदाहरन्ति नाशौचं सूतके पुंसः संसर्ग चेन्न गच्छति । रजस्तत्राशुचि ज्ञेयं तच्च पुति... विद्यते । Compare वसिष्ठधर्मसूत्र IV. 20-23. 
+[^583]: वसिष्ठोऽङ्गिराश्च । जनने तु मातापित्रोरेव सूतकम् । इत्येवमेव स्याद्विप्राणां शुद्धिमिच्छताम् । मातापित्रोर्वा । तन्निमित्तत्वान्मातुरित्येके । अथाप्युदाहरन्ति नाशौचं सूतके पुंसः संसर्गं चेन्न गच्छति । रजस्तत्राशुचि ज्ञेयं तच्च पुंसि न विद्यते । Compare वसिष्ठधर्मसूत्र IV. 20-23.

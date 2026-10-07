@@ -3,55 +3,25 @@ title = "36 The Nāradasmṛti"
 
 +++
 
-467 
+[[P467]]
+There are two versions of Nārada on Vyavahāra, a smaller and a larger one. The smaller version was translated by Dr. Jolly in 1876 ([[Trūbner|Trübner]] & Co., London ). The text of the longer version was published by the same scholar in the [[Bib liotheca|Bibliotheca]] Indica series (1885 ) and was translated by him in the Sacred Books of the East Series ( vol. 33). The edition of the text is accompanied up to verse 21 of the 5th title ‘[[abhyu petyāśusrūsā|abhyupetyāśuśrūṣā]]’ by extracts from the commentary of [[Asabāya|Asahāya]] as revised by [[Kalyāṇabhattu|Kalyāṇabhaṭṭa]], who was encouraged in the task of revision by [[Kesavabhatta|Keśavabhaṭṭa]].
 
-36. The Naradasmrti 
+From verse 22 of the same title the printed text is the same as the smaller version. A verse quoted as Nārada’s by [[Ksirasvāmin|Kṣīrasvāmin]] is not found in the larger version but is found in the smaller version.[^504] An ancient Ms. of Nārada from Nepal dated 1407 A. D. contains two additional chapters on theft and ordeals. Dr. Jolly includes the first as an appendix and omits that on ordeals on the ground that it is not authentic. One of the colophons of the Nepalese Ms. describes it as ‘iti [[Mānave-dharmasastre Nāradaproktāyāṁ samhitāyām|Mānava-dharmaśāstre Nāradaproktāyām saṁhitāyām]] &c.’ This corroborates what was said above (pp. 149, 156 ) as to the close connection between Manu and Nārada.
 
-There are two versions of Nārada on Vyavahāra, a smaller and a larger one. The smaller version was translated by Dr. Jolly in 1876 (Trūbner & Co., London ). The text of the longer version was published by the same scholar in the Bib liotheca Indica series (1885 ) and was translated by him in the Sacred Books of the East Series ( vol. 33). The edition of the text is accompanied up to verse 21 of the 5th title abhyu petyāśusrūsā' by extracts from the commentary of Asabāya as revised by Kalyāṇabhattu, who was encouraged in the task of revision by Kesavabhatta. 
+Nārada is not mentioned by Yājñavalkya in the list of ancient writers on dharma, nor does Parāśara mention him. Viśvarūpa, however, quotes a verse of [[Vrddha|Vṛddha]]-Yājñavalkya (on Yāj. I. 4-5), where Nārada is the first among ten [[ex pounders|expounders]] of dharma enumerated therein. ‘Nārada is a very ancient name. The [[Manusmrti|Manusmṛti]] ( I. 35 ) mentions Nārada as one of the ten primeval Prajāpatis. In the Mahābhārata sage Nārada figures frequently. In [[Udyoga parva|Udyogaparva]] ( 49. 22 ) he is said to have told the [[Vronis|Vṛṣṇis]] to do their duties ( [[tasmāt-kar maiva karta vyam-iti hovāca Nāradaḥ I etad-hi sarvamācasta Vṇśṇicakrasya vedavit|tasmāt-karmaiva kartavyam-iti hovāca Nāradaḥ । etad-hi sarvamācaṣṭa Vṛṣṇicakrasya vedavit]]). [[Sānti|Sānti]] ( 30.6 ) says that Nārada was the maternal uncle of Parvata. In [[Sāntiparva|Śāntiparva]] 29. 13 ff it is stated that Nārada comforted [[Yudhisthira|Yudhiṣṭhira]] on the death of his many relatives and warriors by dilating upon the stories of sixteen ancient kings and heroes who had also similar
 
-From verse 22 of the same title the printed text is the same as the smaller version. A verse quoted as Nārada's by Ksirasvāmin is not found in the larger version but is found in the smaller version.604 An ancient Ms. of Nārada from Nepal dated 1407 A. D. contains two additional chapters on theft and ordeals. Dr. Jolly includes the first as an appendix and omits that on ordeals on the ground that it is not authentic. One of the colophons of the Nepalese Ms. describes it as 'iti Mānave-dharmasastre Nāradaproktāyāṁ samhitāyām &c.' This corroborates what was said above (pp. 149, 156 ) as to the close connection between Manu and Nārada. 
-
-Nārada is not mentioned by Yājñavalkya in the list of ancient writers on dharma, nor does Parāśara mention him. Viśvarūpa, however, quotes a verse of Vrddha-Yājñavalkya (on Yāj. I. 4-5), where Nārada is the first among ten ex pounders of dharma enumerated therein. 'Nārada is a very ancient name. The Manusmrti ( I. 35 ) mentions Nārada as one of the ten primeval Prajāpatis. In the Mahābhārata sage Nārada figures frequently. In Udyoga parva ( 49. 22 ) he is said to have told the Vronis to do their duties ( tasmāt-kar maiva karta vyam-iti hovāca Nāradaḥ I etad-hi sarvamācasta Vṇśṇicakrasya vedavit). Sānti ( 30.6 ) says that Nārada was the maternal uncle of Parvata. In Sāntiparva 29. 13 ff it is stated that Nārada comforted Yudhisthira on the death of his many relatives and warriors by dilating upon the stories of sixteen ancient kings and heroes who had also similar 
-
-VI 
-
-POOR 
-
-804 
-
-Fra on Amarakośa para que 1933728 378-375T:' qud bent 'नारदस्तु-वृषो हि भगवान्धर्मस्तस्य यः कुरुते लवम् । 'वृषलं तं विजानीयाना... 
-
-This first half is Manu 8. 16 (TI...NHL) and faqe 90. 16 
-
-FOUNDI 
-
-1917 
-
-468 
+[^504]: [[Fra on Amarakośa para que 1933728 378-375T:' qud bent|Kṣīrasvāmī on Amarakośa ‘śūdrāścāvaravarṇāśca vṛṣalāśca jaghanyajāḥ’ quotes]] ‘नारदस्तु-वृषो हि भगवान्धर्मस्तस्य यः कुरुते लवम् । [[‘वृषलं तं विजानीयाना...|‘vṛṣalaṁ taṁ vijānīyāt...’]] [[This first half is Manu 8. 16 (TI...NHL) and faqe 90. 16|This first half is Manu 8. 16 (vṛṣo...halam ) and Śāntiparva 90. 15]]. 
 
 
 
-sorrows. In Salyaparva, Nārada is said to have informed Balarama that his two disciples Bhima and Duryodhana were going to fight with maces. There Nārada is described as holding a fine Vīnā as an expert in dance and song and as stirring up feuds and always fond of quarrels (prakarta kalahānām ca nityam ca kalaha priyah) in chap. 54. 18-20. According to the Mahābhāṣya on Vārtika 15 on Pāṇ. (VIII. 1. 15, Kielhorn ed. III. p. 371), Nārada and Parvata may be spoken of as 'dvandvam Nārada parvatau as they are a famous pair that is 'atyantasahacarita' (not even Yudhisthira and Arjuna are so ). 
+[[P468]]
+sorrows. In [[Salyaparva|Śalyaparva]], Nārada is said to have informed [[Balarama|Balarāma]] that his two disciples [[Bhima|Bhīma]] and Duryodhana were going to fight with maces. There Nārada is described as holding a fine [[Vīnā|Vīṇā]] as an expert in dance and song and as stirring up feuds and always fond of quarrels ([[prakarta kalahānām ca nityam ca kalaha priyah|prakartā-kalahānām ca nityam ca kalahapriyaḥ]]) in chap. 54. 18-20. According to the Mahābhāṣya on Vārtika 15 on Pāṇ. (VIII. 1. 15, Kielhorn ed. III. p. 371), Nārada and Parvata may be spoken of as ‘[[dvandvam Nārada parvatau|dvandvam Nāradaparvatau]] as they are a famous pair that is ‘[[atyantasahacarita|atyantasahacarita]]’ (not even [[Yudhisthira|Yudhiṣṭhira]] and Arjuna are so ).
 
-The printed Nārada contains three introductory chapters on the principles of judical procedure ( Vyavahāra-mātṇkā ) and on the judicial assembly ( sabhā ). Then the following titles of law are dealt with one after another :- rṇādāna ( recovery of debts ), u panidhi (deposit, lending, bailment ), sambhūya-samutthāna (partnership ), dattāpradānika (gifts and resumption thereof), abhyupetya-asuśrūķā (breach of contract of service ), vetanasya-anapākarma (non-payment of wages), asvāmivikraya ( sale without ownership ), vikrīyā sampradāna (non-delivery after sale ), krītānusaya ( rescis sion of purchase ), samayasyāna pākarma ( violation of conven tions of corporations, guilds &c.); simābandha ( settlement of boundaries ); strīpumsayoga ( marital relation); dāyabhāga ( partition and inheritance ); sāhasāḥ (offences in which force is the principal element), such as homicide, robbery, rape &c.; vākpārusya ( defamation and abuse ) and dundapārusya (hurt of various kinds ); prakirnaka ( miscellaneous wrongs ). The appendix deals with theft ; a few remarks are made on that topic under the title of 'sāhasa '. 
+The printed Nārada contains three introductory chapters on the principles of [[judical|judicial]] procedure ( [[Vyavahāra-mātṇkā|Vyavahāra-mātṛkā]] ) and on the judicial assembly ( [[sabhā|sabhā]] ). Then the following titles of law are dealt with one after another :— [[rṇādāna|rṇādāna]] ( recovery of debts ), [[u panidhi|upanidhi]] (deposit, lending, bailment ), [[sambhūya-samutthāna|sambhūya-samutthāna]] (partnership ), [[dattāpradānika|dattāpradānika]] (gifts and resumption thereof), [[abhyupetya-asuśrūķā|abhyupetya-aśuśrūṣā]] (breach of contract of service ), [[vetanasya-anapākarma|vetanasya-anapākarma]] (non-payment of wages), [[asvāmivikraya|asvāmivikraya]] ( sale without ownership ), [[vikrīyā sampradāna|vikrīyā-saṁpradāna]] (non-delivery after sale ), [[krītānusaya|krītānuśaya]] ( [[rescis sion|rescission]] of purchase ), [[samayasyāna pākarma|samayasyānapākarma]] ( violation of [[conven tions|conventions]] of corporations, guilds &c.); [[simābandha|sīmābandha]] ( settlement of boundaries ); [[strīpumsayoga|strīpuṁsayoga]] ( marital relation); [[dāyabhāga|dāyabhāga]] ( partition and inheritance ); [[sāhasāḥ|sāhasaḥ]] (offences in which force is the principal element), such as homicide, robbery, rape &c.; [[vākpārusya|vākpāruṣya]] ( defamation and abuse ) and [[dundapārusya|daṇḍapāruṣya]] (hurt of various kinds ); [[prakirnaka|prakīrṇaka]] ( miscellaneous wrongs ). The appendix deals with theft ; a few remarks are made on that topic under the title of ‘sāhasa ’.
 
-It will be noticed that Nārada follows the Manusmrti to a considerable extent in the nomenclature and the arrange ment of the eighteen titles. Some of the titles are differently named by Nārada, e. g. he speaks of upanidhi, while Manu employs the word niksepa. Nārada seems to have included the 'gvāmipālavivāda' of Manu in vetanasya-ana pākarma'. He makes one title of dyūta and sumūhvaya. Nārada includes strisamgrahana under sābasa and adds three titles, viz. abhyupetya-asusrūsā, vikrīyāsampradāna and prakiraka. The Smṛticandrikā expressly 60s says that it follows the word 
+It will be noticed that Nārada follows the [[Manusmrti|Manusmṛti]] to a considerable extent in the nomenclature and the [[arrange ment|arrangement]] of the eighteen titles. Some of the titles are differently named by Nārada, e. g. he speaks of upanidhi, while Manu employs the word [[niksepa|nikṣepa]]. Nārada seems to have included the ‘[[gvāmipālavivāda|svāmipālavivāda]]’ of Manu in [[vetanasya-ana pākarma|vetanasya-anapākarma]]’. He makes one title of [[dyūta|dyūta]] and [[sumūhvaya|samāhvaya]]. Nārada includes [[strisamgrahana|strīsaṁgrahaṇa]] under [[sābasa|sāhasa]] and adds three titles, viz. [[abhyupetya-asusrūsā|abhyupetya-aśuśrūṣā]], [[vikrīyāsampradāna|vikrīyāsaṁpradāna]] and [[prakiraka|prakīrṇaka]]. The Smṛticandrikā expressly[^505] says that it follows the word
 
-Oh 
-
-FOUNDED 
-
-1917 
-
-505 नारदीयोद्देशक्रमानुसारिणश्च वयमित्यनवद्यमिहाभिधानम् । 
-
-7377. 
-
-36. The Nāradasmrti 
-
-469 
-
-of Nārada in preference to that of Manu as regards the nomenclature and the sequence of the titles of law. Nārada follows Manu in speaking of witnesses in the section on rụādāna and in treating of theft after the eighteen titles have been dealt with ( vide Manu IX, 256 ff. ). 
+[^505]: नारदीयोद्देशक्रमानुसारिणश्च वयमित्यनवद्यमिहाभिधानम् । 
 
 The printed Nārada contains 1028 verses (including 61 on theft in the appendix ). About seven hundred of these verses occur in various nibandhas as quotations. Up to the 21st verse of the section 'abhyuretyāśuśrūṣā' the commen tary of Asahāya furnishes a valuable check for the authenti city of the text. For the remaining portion, there are important data as to its authenticity, sequence and readings. Viśvarūpa, who belongs to the first half of the 9th century, quotes about fifty verses of Narada (generally by name ). The text that he had before him was essentially the same as vuat of the printed edition except in a very few cases. Out of the seven verses of Nirada on samayasya-ana pākarma' Viśvarūpa quotes five ( on Yāj. II. 190 and 196 ) and expressly states that Nārada wound up his chapter on that topic with the verse dosavat karanam &c.' as the printed text does. On Yāj. II. 226 Viśvarūpa distinctly says that the verse 'yameva hyativarteran' &c. is followed immediately by 'malā hyete manusyesu'. This is the case with the printed text also (dyūtasa māhvaya, verses 13-14). On Yāj. III.252 Viśvarūpa quotes a verse of Nārada about the three kinds of wealth, viz. sukla, sabala and krsna, which does not occur in that form in Nārada, though the latter contains similar dicta.608 Viśvarūpa contains no quotation from Nārada on the topics of ācāra or prāyaścitta. The same is the case with Medhā tithi and the Mitāksarā. Medhātithi somewhat inaccurately summarises the introductory words (in prose) of Nārada ( vide note 269 above). Medhātithi frequently quotes Nārada particularly from the sections on rṇādāna (vide on Manu 8. 47, 155, 149 ) and dāyabhāga (on Manu 8, 28, 29, and 207, 209 and 143). On Manu 8, 349 he quotes Nārada on partnership (verse 10 ), ou 8. 216 he quotes Nārada ( vetanasya-anapā. karma, verse 5). In some cases Medhātithi cites Nārada's verses without naming him e. g. on Manu 9. 76 he quotes the 
 

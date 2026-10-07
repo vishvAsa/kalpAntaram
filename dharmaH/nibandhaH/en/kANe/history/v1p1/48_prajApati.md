@@ -3,20 +3,20 @@ title = "48 Prajāpati"
 
 +++
 
-Prajāpati is cited as an authority by the Baudhāyana dharinasūtra (II. 4. 15 and II. 10. 71 ). Vasistha several times quotes Prājāpatya blokas (viz. III. 47, XIV. 16-19, 24-27, 30-32). It has been shown above that most of these Verses are found in the Manusmrti or have close correspon dence with verses of Manu. So it is not unlikely that both the writers of dharmasūtras mean Manu by Prajāpati.
+[[P520]]
 
-In the Anandāśrama collection (p. 90-98 ) there is a smrti of Prajāpati in 198 verses on the various details of frāddha, such as the time, place, the persons authorised to perform, proper food, Brāhmanas to be invited etc. The pre vailing metre is Auustubh, but there are nine verses in the Indravajrā, Upajāti, Vasantatilakā (verse 137 ) and Sragdharā (verse 96 ). It speaks of Kalpaśāstra, smrtis, dharmaśāstra, purāṇas. It contains a verse referring to the Kanya and Vrścika ( scorpion ) signs of the Zodiac, which is almost the same as a verse of Kārśṇājini. 
+48. Prajāpati
 
-812 सुतत्यागो यदि विक्रयात्मकस्तत्प्रायश्चित्तमाह प्रचेताः । अनृतवाक् तस्करो 
+Prajāpati is cited as an authority by the Baudhāyana [[dharinasūtra|dharmasūtra]] (II. 4. 15 and II. 10. 71). [[Vasistha|Vasiṣṭha]] several times quotes [[Prājāpatya blokas|Prājāpatya ślokas]] (viz. III. 47, XIV. 16-19, 24-27, 30-32). It has been shown above that most of these [[Verses|verses]] are found in the Manusmṛti or have close [[correspon dence|correspondence]] with verses of Manu. So it is not unlikely that both the writers of dharmasūtras mean Manu by Prajāpati.
 
-राजभृत्यो वृक्षारोपकवृत्तिर्गरदोऽमिदोऽश्वगजरथारोहवृत्ती रङ्गोपजीवी श्वागणिकः शूद्रोपाध्यायो भाण्डिका नक्षत्रोपजीवी श्ववृत्तिब्रह्मजीवी चिकित्सको देवलकः पुरोहितः कितवो मद्यपः कूटकारकोऽपत्यविक्रयी मनुष्यपशविक्रेता च । तानुद्धरेयुः समेत्य न्यायतो ब्राह्मणा व्यवस्थया सर्वत्यागकाले चतुर्थकालाहास संवत्सरं त्रिषवणमुपस्पृशेयुः । तस्यान्ते देवपितृतर्पणं गवाहिकं चेत्येक व्यव kranti 1 fat i tata in 34921p. 1155, 
+In the Ānandāśrama collection (p. 90-98) there is a smṛti of Prajāpati in 198 verses on the various details of [[frāddha|śrāddha]], such as the time, place, the persons authorised to perform, proper food, Brāhmaṇas to be invited etc. The [[pre vailing|prevailing]] metre is [[Auustubh|Anuṣṭubh]], but there are nine verses in the Indravajrā, Upajāti, Vasantatilakā (verse 137) and Sragdharā (verse 96). It speaks of Kalpaśāstra, smṛtis, dharmaśāstra, purāṇas. It contains a verse referring to the Kanyā and Vṛścika (scorpion) signs of the Zodiac, which is almost the same as a verse of Kārṣṇājini.
 
-FOUNDED 
+[[P521]]
 
-1917 
+The Mit. (on Yāj. III. 25 and 260) quotes verses of [[Prajā pati|Prajāpati]] on āśauca and [[prāyaścittu|prāyaścitta]]. Aparārka cites verses of Prajāpati on purification of various substances, on [[érāddha|śrāddha]], witnesses, ordeals and āśauca. None of these is traced to the printed text of Prajāpati. [[A parārka|Aparārka]] (p. 952) gives a long prose text of Prajāpati on the four orders of parivrājakas, viz. kuṭicaka, bahūdaka, haṃsa, paramahaṃsa. Aparārka (p. 542) cites a [[verge|verse]] of Laugākṣi which refers to the view of [[Prajā pati|Prajāpati]] that the son of a putrikā was to offer [[pindas|piṇḍas]] to his mother by the gotra of his maternal grand-father.[^613] Aparārka, [[Smrti. candrikā|Smṛticandrikā]], Parāśara-Mādhavīya and other works quote several verses of Prajāpati on vyavahāra. [[Wituesses|Witnesses]] are of two kinds, kṛta and akṛta.[^614] In this he seems to have followed [[Narada|Nārada]] ([[rnadana|ṛṇādāna]], verse 149). [[Prajapati|Prajāpati]] lays down the [[characteri stics|characteristics]] of valid reply (uttara) of the defendant and defines[^615] the four varieties of uttara. The Parāśara-Mādhavīya cites several verses of Prajāpati on ordeals. Prajāpati recognised the right of the sonless widow to succeed to her husband's wealth[^616] and enjoined on her the duty of offering [[frāddha|śrāddha]] every month and year to her husband's manes and to honour his relatives.[^617]
 
-48. Prajāpati 
-
-521 
-
-The Mit. (on Yāj. III. 25 and 260 ) quotes verses of Prajā pati on āśauca and prāyaścittu. Aparārka cites verses of Prajāpati on purification of various substances, on érāddha, witnesses, ordeals and āśauca. None of these is traced to the printed text of Prajāpati. A parārka (p. 952 ) gives a long prose text of Prajāpati on the four orders of parivrājakas, viz. kuticaka, bahudaka, hamsa, paramahamsa. Aparārka (p. 542) cites a verge of Laugākṣi which refers to the view of Prajā pati that the son of a putrika was to offer pindas to his mother by the gotra of his maternal grand-father.s13 Aparārka, Smrti. candrikā, Parāśara-Mādhaviya and other works quote several verses of Prajāpati on vyavahāra. Wituesses are of two kinds, krta and akrta.814 In this he seems to have followed Narada (rnadana, verse 149). Prajapati lays down the characteri stics of valid reply ( uttara ) of the defendant and defines 818 the four varieties of uttara. The Parāśara-Madhaviya cites several verses of Prajāpati on ordeals. Prajāpati recognised the right of the sonless widow to succeed to her husband's wealth018 and enjoined on her the duty of offering frāddha every month and year to her husband's manes and to honour his relatives.817 
+[^613]: मातामहस्य गोत्रेण मातुः पिण्डोदकक्रियाम् । कुर्वीत पुत्रिकापुत्र एवमाह प्रजापतिः ॥ अपरार्क.
+[^614]: साक्षी द्विभेदो विज्ञेयः कृत एकोऽपरोऽकृतः । लेख्यारूढः कृतो ज्ञेयः मुक्तकोऽकृत उच्यते ॥ अपरार्क p. 666, स्मृतिच० (व्य. p. 80 reads उत्तरोऽकृत°).
+[^615]: स्मृतिच० (व्य. p. 42-43), परा. मा. vol. III, p. 69-73.
+[^616]: पूर्वं प्रमीताग्निहोत्रं मृते भर्तरि तद्धनम् । लभेत् पतिव्रता नारी धर्म एष सनातनः ॥
+[^617]: जङ्गमं स्थावरं हेम कुप्यं धान्यरसाम्बरम् । आदाय दापयेच्छ्राद्धं माससंवत्सरादिकम् । पितृव्यगुरुदौहित्रान् भर्तृस्वस्रीयमातुलान् । पूजयेत्कव्यपूर्ताभ्यां वृद्धानाथातिथींस्तथा ॥ स्मृतिच० (p. 291), परा. मा. vol. III. p. 536,

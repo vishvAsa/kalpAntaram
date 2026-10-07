@@ -3,35 +3,19 @@ title = "50 Yama"
 
 +++
 
-The Vasistha-dharmasutra (18. 13-15 and 19. 48 ) cites four slokas of Yama and quotes (11. 20 ) one verse in which Yama is spoken of as an authority. All the slokas except one 
+[[P522]]
 
-818 सप्तम्यां रविवारे च गृही जन्मदिने तथा । भृत्यपुत्रकलत्रार्थी न कुर्यात्तिल 
+50. Yama
 
-atunt il 34727* p, 132 ; ffaao ( 341 p. 123 ). 619 TDAH perfish tat hal peat: larg Fri 7 gata sararaan 
+The Vasiṣṭha-dharmasūtra (18. 13-15 and 19. 48) cites four ślokas of Yama and quotes (11. 20) one verse in which Yama is spoken of as an authority. All the ślokas except one
 
-ATUTA 11 3742T* p. 235. 820 स्थावरे विक्रयाधाने विभागे दान एव च । प्रतिग्रहे च क्रीते च नालेख्या 
+[[P523]]
 
-Przfat Pant ll RI. AT. vol. III. p. 128 ; Figaro (20. p. 80 reads Parañargeta farghadanga a). According to Vy. N. p. 88 the verge (8thāvaro... kriyā) is one of Kātyāyana and it explains that the verse means of fleirratiaadi TOETTER 7 april 
+are found in Manu.[^622] [[Vasistha|Vasiṣṭha]] quotes a [[bloka|śloka]] of Prajāpati wherein Yama's view is set forth. Yama is one of the sages enumerated in the list of Yājñavalkya. [[Govinderāja|Govindarāja]] (on
 
-PaTTi'. 821 अविज्ञातनिवेशत्वाद्यत्र मूल्यं न लभ्यते । हानिस्तत्र समा कल्प्या केनाष्टिक 
+Manu 5. 16) and Aparārka quote a verse of Śaṅkha wherein Yama's view that the flesh of certain birds could be eaten is referred to.[^623] Aparārka (p. 1231) also cites [[&|a]] verse of [[Saṅkba|Śaṅkha]] in which the view of Bhagavān Yama that one should save one's life in all ways (even by incurring sin) is relied upon.
 
-BAT: 11 39214, p. 776. 
-
-POONA 
-
-VR 
-
-FOUNDED 
-
-191750. Yama 
-
-528 
-
-are found in Manu.622 Vasistha quotes a bloka of Prajapati wherein Yama's view is set forth. Yama is one of the sages enumerated in the list of Yājñavalkya. Govinderāja (on 
-
-Manu 5. 16) and Aparārka quote a verse of Saṅkha wherein Yama's view that the flesh of certain birds could be eaten is referred to.613 Aparārka (p. 1231 ) also cites & verse of Saṅkba in which the view of Bhagavān Yama that one should save one's life in all ways (even by incurring sin ) is relied upon. 
-
-___ In Jivananda's collection (part I. pp. 560-568) there is a smrti of Yama in seventyeight verses on prāyaścitta and purification ( buddhi). In the smṛti Yama himself is cited in the third person ( verse 65 ). One verse ( 33 ) refers to the view of Bhāsvati (son of the Sun, by which may be meant either Manu or Yama himself ).84 Some of the verses are identical with those of Manu (e. g. verses 26, 28 are the same as Manu 11. 178 and 3. 19). Verse 44 is in the Upajāti metre. In the Anandasrama collection there is a Yamasmrti in 99 verses on prāyaścitta, śrāddha and purification. Most of the topics of this smrti are the same as those of the Calcutta text, but most of the verses are not identical. A few 
+In Jivananda's collection (part I. pp. 560-568) there is a smṛti of Yama in [[seventyeight|seventy-eight]] verses on prāyaścitta and purification ([[buddhi|śuddhi]]). In the smṛti Yama himself is cited in the third person (verse 65). One verse (33) refers to the view of Bhāsvati (son of the Sun, by which may be meant either Manu or Yama himself).[^624] Some of the verses are identical with those of Manu (e. g. verses 26, 28 are the same as Manu 11. 178 and 3. 19). Verse 44 is in the Upajāti metre. In the [[Anandasrama|Ānandāśrama]] collection there is a [[Yamasmrti|Yamasmṛti]] in 99 verses on prāyaścitta, śrāddha and purification. Most of the topics of this smṛti are the same as those of the Calcutta text, but most of the verses are not identical. A few 
 
 822 अथापि यमगीताञ्लोकानुदाहरन्ति । श्मशानमेतत्प्रत्यक्षं ये शूद्राः पापचारिणः । 
 
@@ -49,31 +33,20 @@ A
 
 ' 
 
-.. 
+[[P524]]
 
-524 
+verses are found in both, e. g. the verses about the seven lowest [[casteg625|caste[^625]]] (antyajas). Verse 11 quotes the view of Śatātapa. This Smṛti contains the well-known text that [[* woman|a woman]] passes on marriage into the gotra of her husband, which is cited by the Mit. (on Yāj. I. 254).[^626] In the same collection there is a smṛti of Bṛhad-Yama (pp. 99-107). It is divided into five chapters and contains 182 verses. It deals with prāyaścittas for various lapses, purification from various kinds of contacts ([[suddhi|śuddhi]]), [[srāddha|śrāddha]], partition and a few matters of medical procedure. In this [[suști|smṛti]] Yama is frequently cited by name. Śatātapa is cited on partition (V. 20). Many of the verses of this text are identical with those of Yama in Jivananda's text. For example, Jivananda (p. 561) verses 15-17 are the same as [[Brbad-Yama|Bṛhad-Yama]] III. 1-3, Jivananda p. 563 verses 29-33 are the same as [[Brhad-Yama|Bṛhad-Yama]] III. 34-38, Jivananda verses 35-36 are the same as [[Brhad-Yama|Bṛhad-Yama]] III. 16-17. The verse in the Upajāti metre, (Jivananda 44) is [[Brhad-Yama|Bṛhad-Yama]] III. 61. Two of the verses at the end of chap. V. are the same as Yāj. II. 17 and 23.
 
-
-
-verses are found in both, e. g. the verses about the seven lowest casteg625 ( antyajas ). Verse 11 quotes the view of Śatātapa. This Smṛti contains the well-known text that * woman passes on marriage into the gotra of her husband, which is cited by the Mit. (on Yaj. I. 254 ).828 In the same collection there is a smṛti of Bṛhad-Yama (pp. 99-107 ). It is divided into five chapters and contains 182 verses. It deals with prāyaścittas for various lapses, purification from various kinds of contacts (suddhi), srāddha, partition and a few matters of medical procedure. In this suști Yama is frequently cited by name. Śatātapa is cited on partition ( V. 20). Many of the verses of this text are identical with those of Yama in Jivananda's text. For example, Jivananda (p. 561 ) verses 15-17 are the same as Brbad-Yama III. 1-3, Jivananda p. 563 verses 29-33 are the same as Brhad-Yama III. 34-38, Jivananda verses 35-36 are the same as Brhad-Yama III. 16–17. The verse in the Upajāti metre, Jivananda 44 ) is Brhad-Yama III. 61. Two of the verses at the end of chap. V. are the same as Yāj. II. 17 and 23. 
-
-The pumerous m88. of Yama contain either one or other of the above three texts or different texts bearing on the same topics. For example, the Govt. Mos. Collection at the Bhandarkar Institute, Nos. 209-211 of A 1881-82 and No. 153 of 1895-1902 are the same as the Yamasmrti in the Anandā srama collection. No. 401 of 1891-95 seems to be the same as Brhad-Yama in the Anandāsrama collection. But the I. O. Cat. No. 1334 p. 390 contains 37 slokas, the last 20 of which are in the Indravajrā metre. 
+The [[pumerous|numerous]] [[m88.|mss.]] of Yama contain either one or other of the above three texts or different texts bearing on the same topics. For example, the Govt. [[Mos.|Mss.]] Collection at the Bhandarkar Institute, Nos. 209-211 of A 1881-82 and No. 153 of 1895-1902 are the same as the [[Yamasmrti|Yamasmṛti]] in the [[Anandā srama|Ānandāśrama]] collection. No. 401 of 1891-95 seems to be the same as [[Brhad-Yama|Bṛhad-Yama]] in the [[Anandāsrama|Ānandāśrama]] collection. But the I. O. Cat. No. 1334 p. 390 contains 37 ślokas, the last 20 of which are in the Indravajrā metre.
 
 Viśvarūpa, Vijñāneśvara, Aparārka, the Smṛticandrikā and other later works quote over three hundred verses of Yama on all topics of dharmaśāstra including vyavahāra. This establishes that they had an extensive work of Yama before them from which it is probable that various abridgments corresponding with the printed works were made. Viśvarūpa quotes about ten verses of Yama on water as purifier (on Yāj. 
 
-825 रजकश्चर्मकारश्च नटो बुरुड एव च । कैवर्तमेदभिल्लाश्च सप्तैते अन्त्यजाः स्मृताः॥ 
+[^625]: रजकश्चर्मकारश्च नटो बुरुड एव च । कैवर्तमेदभिल्लाश्च सप्तैते अन्त्यजाः स्मृताः॥ Jivananda verse 54, Ānandāśrama verse 33.
+[^626]: स्वगोत्राद्भ्रश्यते नारी विवाहात्सप्तमे पदे । स्वामिगोत्रेण कर्तव्या तस्याः पिण्डोदकक्रियाः ॥ verse 78.
 
-Jivananda verse 54, Ānandātraina vorse 33. 626 ya ardh fararthTÀ AI na Daution 
+[[P525]]
 
-COSTCAFET: Il verse 78. 
-
-chen 
-
-50. Yama 
-
-525 
-
-1, 187 ), on srāddha ( on Yāj. I 225 and 252 ) and on prāya. scitta for killing a cow (on Yaj. III. 262). The identical verses are not found in the printed texts. Some of the verses quoted from Yama in Aparārka and the Smṛticandrikā can be traced in the printed text. For example, Aparārka (p. 42 ) quotes a verse of Yama in which Yama himself is referred to as an authority.sa7 It occurs in Jivananda's text (verse 65 ). The two verses in Jivananda's text ( verses 26, 28) that are identical with Manu are cited in the Smṛticandrikā 88 Yama's. Aparārka p. 1135 quotes a prose passage of Yama, यमः- वृक्षलतागुल्मछेदने वृद्धकृच्छकः फलवतां प्राजापत्यम् :- Two verses of Brhad-Yama ( III. 20-21 ) about the proper age of marriage in the case of girls are quoted as Yama's in the Smrti. candrikā.628 In some of the verses quoted by Aparārka from Yama, the opinions of Manu are cited which can be identified with the views of the Manusmrti. For example, according to Yama food polluted by the touch of hair, moths and insects, or seen by sinners and women in their courses is purified by water, holy ashes etc.628 This refers to Manu V, 125. Similarly, the Smṛticandrikā quotes a verse of Yama which says that according to Manu those who administer poison, who are incendiaries and robbers and those guilty of homicide and abetment thereof should pay the extreme penalty of death.630 Aparārka (p. 988 on Yaj. III. 109) quotes five verses of Yama which refer to the 26 tattvas well-known in the Saṅkhya system, regard Purusottama as a 26th tuttva and propound that he who correctly understands the 25 tattvas, in whatever aśrama he may be, reaches the highest abode of Viṇṇu. Aparārka quotes a few prose passages from Yama on the garments to be worn by brahmacārins,831 on prāyascitta 
+I, 187), on śrāddha (on Yāj. I 225 and 252) and on [[prāya. scitta|prāyaścitta]] for killing a cow (on Yāj. III. 262). The identical verses are not found in the printed texts. Some of the verses quoted from Yama in Aparārka and the Smṛticandrikā can be traced in the printed text. For example, Aparārka (p. 42) quotes a verse of Yama in which Yama himself is referred to as an authority.[^627] It occurs in Jivananda's text (verse 65). The two verses in Jivananda's text (verses 26, 28) that are identical with Manu are cited in the Smṛticandrikā [[88|as]] Yama's. Aparārka p. 1135 quotes a prose passage of Yama, यमः- वृक्षलतागुल्मछेदने वृद्धकृच्छ्रकः फलवतां प्राजापत्यम् :- Two verses of [[Brhad-Yama|Bṛhad-Yama]] (III. 20-21) about the proper age of marriage in the case of girls are quoted as Yama's in the [[Smrti. candrikā|Smṛticandrikā]].[^628] In some of the verses quoted by Aparārka from Yama, the opinions of Manu are cited which can be identified with the views of the Manusmṛti. For example, according to Yama food polluted by the touch of hair, moths and insects, or seen by sinners and women in their courses is purified by water, holy ashes etc.[^629] This refers to Manu V, 125. Similarly, the Smṛticandrikā quotes a verse of Yama which says that according to Manu those who administer poison, who are incendiaries and robbers and those guilty of homicide and abetment thereof should pay the extreme penalty of death.[^630] Aparārka (p. 988 on Yāj. III. 109) quotes five verses of Yama which refer to the 26 tattvas well-known in the Sāṅkhya system, regard [[Purusottama|Puruṣottama]] as a 26th [[tuttva|tattva]] and propound that he who correctly understands the 25 tattvas, in whatever āśrama he may be, reaches the highest abode of [[Viṇṇu|Viṣṇu]]. Aparārka quotes a few prose passages from Yama on the garments to be worn by brahmacārins,[^631] on prāyaścitta 
 
 , 
 

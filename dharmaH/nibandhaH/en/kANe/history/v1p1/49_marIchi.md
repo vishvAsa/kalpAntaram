@@ -3,30 +3,23 @@ title = "49 Marīci"
 
 +++
 
-The name Marici is very ancient. In Manusmṛti II. 34-35 Marici is mentioned first among the ten Prajāpatis. 
+[[P521]]
 
-This sage is relied upon as an authority by the Mit., Aparārka, Smrticandrika on Ahnika, Asauca, Sraddha, Prāyascitta and Vyavahāra. Aparārka quotes several verses on 
+49. Marīci
 
-है आपके 
+The name Marīci is very ancient. In Manusmṛti II. 34-35 Marīci is mentioned first among the ten Prajāpatis.
 
-813 मातामहस्य गोत्रेण मातुः पिण्डोदकक्रियाम् । कुर्वीत पुत्रिकापुत्र एवमाह 
+This sage is relied upon as an authority by the Mit., Aparārka, Smṛticandrikā on Āhnika, Āśauca, Śrāddha, Prāyaścitta and Vyavahāra. Aparārka quotes several verses on
 
-प्रजापतिः ॥ अपरार्क. 814 साक्षी विभेदो विज्ञेयः कृत एकोऽपरोऽकृतः । लेख्यारूढः कृतो ज्ञेयः मुक्तकोऽ. 
+tarpaṇa, one of which speaks of Sunday.[^618] Marīci disallows bathing in the rivers in the months of Śrāvaṇa and Bhādrapada.[^619] Marīci made a very near approach to the modern conceptions underlying the Transfer of Property Act. [[Com pleteness|Completeness]] is not attained without writing in the transactions of [[Aale|sale]], mortgage, partition and gift of immoveable property.[^620] If a buyer purchases a chattel before a row of merchants and to the knowledge of the king's officers and in broad daylight, he is free from blame and gets back his money (if the thing turns out to be another's property), while if the price (paid by a buyer for a chattel) cannot be recovered (from the [[veodor|vendor]] who sells without title) owing to the vendor's address being not known, the loss should be apportioned between the buyer and the original owner of the chattel.[^621] Marīci divides adhi into four varieties bhogya, gopya, pratyaya, ājñādhi.
 
-कृत उच्यते । अपरार्क p. 666, स्मृतिच० (व्य. p. 80 reads उत्तरोऽकृत०). 815 स्मृतिच० (व्य. p. 42-43 ), परा. मा. vol. III, p. 69-73. 618 पूर्व प्रमीताग्निहोत्रं मृते भर्तरि तद्धनम् । लभेत् पतिव्रता नारी धर्म एष 
+[^618]: सप्तम्यां रविवारे च गृही जन्मदिने तथा । भृत्यपुत्रकलत्रार्थी न कुर्यात्तिलतर्पणम् ॥ अपरार्क p. 132; स्मृतिच० (आह्निक p. 123).
+[^619]: नभोनभस्ययोर्मध्ये नवाः सर्वा रजस्वलाः । तासु स्नानं न कुर्वीत देवर्षिपितृतर्पणम् ॥ अपरार्क p. 235.
+[^620]: स्थावरे विक्रयाधाने विभागे दान एव च । प्रतिग्रहे च क्रीते च नालेख्या सिध्यति क्रिया ॥ परा. मा. vol. III. p. 128; स्मृतिच० (व्य. p. 60 reads लिखितेनाप्रयात् सिद्धिमविसंवादमेव च). According to Vy. N. p. 88 the verse (sthāvare...kriyā) is one of Kātyāyana and it explains that the verse means 'यदिदं कात्यायनीयवचनं तल्लेख्यप्राधान्यपरं न त्वन्यनिवृत्तिपरम् ।'.
+[^621]: अविज्ञातनिवेशत्वाद्यत्र मूल्यं न लभ्यते । हानिस्तत्र समा कल्प्या क्रेतृस्वामिकयोर्द्वयोः ॥ अपरार्क p. 775.
 
-सनातनः ॥ 817 जगन्मं स्थावरं हेम कुप्यं धान्यरसाम्बरम्। आदाय दापयेच्छ्राद्धं माससंवत्सरादिकम् । 
+[[P522]]
 
-पितृव्यगुरूदौहित्रान् भर्तृस्वस्नीयमातुलान् । पूजयेत्कव्यपूर्ताभ्यां वृद्धानाथातिथी स्तथा ।। स्मृतिच० (p. 291), परा. मा. vol, III. p. 536, 
+Prose passage of Marīci is 'Kanyānām prāk-cūḍākaraṇāt sadyaḥ śaucam | Prāgdānād-ekāhaḥ | Dattānām prāk-pariṇayanāt-tryaham | Aparārka p. 938.
 
-। 
-
-522 
-
-
-
-turpana, one of which speaks of Sunday.618 Marici disallows bathing in the rivers in the months of Srāvana and Bhādra pada.618 Marici made a very near approach to the modern conceptions underlying the Transfer of Property Act. Com pleteness is not attained without writing in the transactions of Aale, mortgage, partition and gift of immoveable property. 820 If a buyer purchases a chattel before a row of merchants and to the knowledge of the king's officers and in broad daylight, he is free from blame and gets back his money (if the thing turns out to be another's property ), while if the price (paid by a buyer for a chattel) cannot be recovered (from the veodor who sells without title) owing to the vendor's address being not known, the loss should be apportioned between the buyer and the original owner of the chattel.081 Marici divides adhi into four varieties bhogya, gopya, pratyaya, ājñādbi. 
-
-Prose passage of Marīci is 'Kanyānām prāk-cūļākaraḥāt sadyaḥ saucam | Prāgdānād-ekāhaḥ | Dattānām prāk-pariṇa yanāt-tryaham | Aparārka p. 938. 
-
-It is to be noted that Aparārka ( p. 908 ) quotes a prose passage of Marici on āśauca. 
+It is to be noted that Aparārka (p. 908) quotes a prose passage of Marīci on āśauca.
