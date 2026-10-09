@@ -4,6 +4,8 @@ short_title = "08"
 
 +++
 
+[[P91]]
+
 The Hiraṇyakeśi-dharmasūtra forms the 26th and 27th _praśnas_ of the Hiraṇyakeśi-kalpa. The Śrauta-sūtra has been published by the Ānandāśrama Press (Poona). The Hiraṇyakeśi-gṛhya-sūtra was edited with extracts from the commentary of Mātṛdatta by Dr. [[Kirsto|Kirste]] (Vienna, 1889). The Gṛhya forms the 19th and 20th _praśnas_ of the Kalpa, each _praśna_ being divided into eight paṭalas. The Śrauta-sūtra is largely based on the Śrauta-sūtra of Āpastamba [[Tho|The]] Gṛhya-sūtra is indebted to the Gṛhya-sūtra of Bhāradvāja. The Dharmasūtra of Hiraṇyakeśin can hardly be called an independent work. Hundreds of sūtras are borrowed word for word from the Āpastamba Dharmasūtra. The Dharmasūtra of Hiraṇyakeśin is therefore the oldest voucher for the authenticity of Āpastamba's text and is very valuable for checking the latter.
 
 The Hiraṇyakeśins form a sūtra-caraṇa of the Khāṇḍikeya section of the Taittirīyaśākhā and were formed later than the Āpastambīya School. In a grant of the Kongu kings dated in 454 A. D. Brāhmaṇas of the Hiraṇyakeśi School are mentioned (I. A. vol. V. page 136). According to the Mahārṇava quoted in the commentary of the Caraṇavyūha, the Hiraṇyakeśins were to be found in the south-west between the Sahya mountain and the ocean and near Paraśurāma (i.e. in the Konkan). There are at present many Brāhmaṇas in the Ratnagiri District who call themselves Hiraṇyakeśins. The Dattaka-mīmāṃsā of Nanda-paṇḍita twice quotes passages from the commentary of Śabarasvāmin on the sūtra of Satyāṣāḍha. If he was identical with the great commentator of the Pūrva-mīmāṃsā (which is almost certain), then we would have unimpeachable evidence for the existence of the works of the Hiraṇyakeśins long before 200-400 A. D. 
