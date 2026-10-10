@@ -329,15 +329,7 @@ Among the circumstances for rejecting the thirteen Trivandrum plays as the works
 
 [^165] प्रतिज्ञायाः. II. 13 is 'अर्थशास्त्रगुणग्राही जयेष्ठो गोपालकः सुतः । गो...श्रेष्ठी व्यायामशाली चक्रनागलकः ॥' गुण seems to refer to the श्लोक in अर्थशास्त्र VII (अधिकरण).
 
-FOUNDED 
-
-1917 
-
-1.). The Arthuśāstra of Kuutilyo 
-
-179 
-
-have come down anonymously; ( 2 ) verses ascribed to Bhasa in several anthologies are not found in the thirteen plays; (3) even verses quoted from a play called Svapnavāsavadattā are not found in the Svapnavāsavadattā ( of Trivandrum ); ( 4 ) that out of thirteen plays five are only one act plays not fit to be called Nātakas at all. Vide a paper in Calcutta Review for 1924 (October-December ) pp. 339-349. Several scholars have placed Bhisa at the end of the 2nd century A.D. e. g. Sten Konow (in E. Kuhu Presentation vol. 106 ff. and Losny in J. O. I., Baroda ) vol. XIII No. 1 p. 48. This does not affect those who hold that A. belongs to about 300 B. C. 
+[[P179]]have come down anonymously; ( 2 ) verses ascribed to Bhasa in several anthologies are not found in the thirteen plays; (3) even verses quoted from a play called Svapnavāsavadattā are not found in the Svapnavāsavadattā ( of Trivandrum ); ( 4 ) that out of thirteen plays five are only one act plays not fit to be called Nātakas at all. Vide a paper in Calcutta Review for 1924 (October-December ) pp. 339-349. Several scholars have placed Bhisa at the end of the 2nd century A.D. e. g. Sten Konow (in E. Kuhu Presentation vol. 106 ff. and Losny in J. O. I., Baroda ) vol. XIII No. 1 p. 48. This does not affect those who hold that A. belongs to about 300 B. C. 
 
 One question about Candragupta may be briefly mention ed here. Puranas vive confused accounts, Matsya ( 272. 26 ) and Vāyu ( 99. 326-27 ) state that the kings after Mahāpadma will be born of Sūdra women. But Vāyu states that Mabā nandi's son from a Sūdra wife will be Mahāpadma. That means that Caudrayupta was deemed at the time of the Purā plas to be the son of a Ksatriya from a Sūdra wife. The author of the Mudrārākṣasa ( whether he belonged to the 5th century A. D. or 6th or later) came long after the Puranas, was per meated by Paurānic lure and therefore he generally uses the word 'vr̥ṣala' (which means Śūdra in medieval Sanskrit works ) with reference to Candragupta when speaking of him personally, but in his absence he several times employs merely the word 'Candragupta' (as after 1. 12. 14 ) or Vrsala (just before I. 10). In II. 18 just before approaching king Candra gupta occupying the throne Cānak ya speaks of him as Vrsa lena Vrṣeṇa rājuam' (Vrsala, the best of kings ). There is absolutely no evidence to hold that the kingmaker Cānakya called hiin Vrsala'. It is the dramatist saturated thro ugh and through with laurāṇika ideas that Ksatriyas ceased to exist after the Nandas, who applies the word Vrsala to king Candragupta. But it must be emphasized that the Mudrārākṣasa also shows that Nandakula was the pitṛkula of Candragupta, acc. to Rākṣasa ; vide the words 'Nandakulu manena pitrkulabhūtam ghūtitam' (after IV. 12 ) and V. 19 
 
