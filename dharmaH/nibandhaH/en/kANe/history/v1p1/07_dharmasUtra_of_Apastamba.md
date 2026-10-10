@@ -161,7 +161,7 @@ son would be Baidi, but his grandson would be Baida. Besides, this gaṇa contai
 (vide note 68a above). Therefore according to tradition his school was elder or more authoritative than that of [[Hipamyakesin|Hiraṇyakeśin]]. In one place Āpastamba refers to a peculiar śrāddha [[ustige|usage]] of
 
 [^101]:
-    101 [Devanāgarī footnote stamp-obscured in scan of PDF75=book66; needs high-res verification against PDF]
+    101 'तस्मादृषयोऽतिषेचुर्न जायेरन्न नियमातिक्रमात्' and 'तद्वद्धीनां प्रजानामप्यशिवं भवति'
 
 [[P67]] 
 
@@ -175,7 +175,7 @@ Dr. Ram Gopal does not bother about inscriptions and copper plate grants. I had 
 
 [^102]:
 
-    102 TTET Fanarti atitra 1991; on this GR reads a verse of the grammarians viz. druga fata : sfruta de Tui fait TATU \#1 : Ta srcaret and adds moi vari camera congratai 
+    102 उदीच्यबुद्धिस्वसनगतां हस्तेदुष्टप्राश्नयनम् ।; on this छन्दस् reads a verse of the grammarians viz. मातृकायां विद्याते हंसः क्षीरोदके यथा । विष्णोः शब्दसिद्धशर्थं सा न पठति शरावती and adds शरावतीम् उदकसीरावसिनीं दुष्टीरावसिनीम् । Hemādri in मातृकाविस्तरात्मिकायां (III. 1. p. 1350) quotes the same Āpastamba sūtra and the Verse मातृकायां &c but reads सरस्वती for शरावती.
 
 harrari. Homidri in matracararo (III. 1. p. 1350 ) quotes the same Apastamba sūtra and the Verse arua &c but reads Forrit for it. Is strat the modern Rāpti, & tributary of the Sarayū or is it turi near Honavar in north Canara or any other rlver ? This verse occurs in the Kāsikā on Pan 1. 1. 75. Pāṇini in VI, 3, 120 explains the word Sarāvati as meaning abounding in reeds, which may be applicable to many rivers, Dr. Ram Gopal, after referring to the different Identifications, made by various scholars (pp. 95-96). finds that in the Rāmāyaṇa ( II. 68. 13-16) occurs a river called Saradandā and at once jumps to the conclusion that Saradanda'conveys 
 
