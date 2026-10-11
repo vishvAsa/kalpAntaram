@@ -16,7 +16,7 @@ short_title = "07 Dharmasūtra of"
 Dr. Ram Gopal says on p. 57 (of his work) that I am not accurate when I state about the choice of a girl that Āp. Gr. S. gives only a single rule (I quoted that rule). I added that it was the Āp. Dh. S. (II. 5. 11. 15-16) that provides that the girl must not be a sagotra or sapiṇḍa. Dr. Ram [[Gopalk awayed|Gopal is swayed]] by 
 
 [^81]:
-    81 बन्धुशीललक्षण[[संपनाम|संपन्नाम]]रोगामुपयच्छेत । 
+    81 बन्धुशीललक्षणसंपन्नामरोगामुपयच्छेत ।
 
 [[P55]]
 
