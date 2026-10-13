@@ -54,7 +54,31 @@ Some unusual rituals involve some unusual components, some of which people may n
 
 
 ### For spiritual highs 
-- Promiscuity in vAmadevya practice - [ChU 2.13](/vedAH_sAma/tANDyam/ChAndogyopaniShat/sarva-prastutiH/2/13/). 
+<details><summary>वामदेव्य-व्रतम् (द्रष्टुं नोद्यम्)</summary>
+
+> स य एवमेतद्वामदेव्यं मिथुने प्रोतं वेद मिथुनीभवति मिथुनान्मिथुनात् प्रजायते सर्वमायुरेति ज्योग्जीवति महान् प्रजया पशुभिर्भवति महान् कीर्त्या न काञ्चन परिहरेत् तद् व्रतम् ॥
+
+Otherwise prohibited sex allowed in vAmadevya practice as per shankara and rangarAmAnuja - [ChU 2.13](/vedAH_sAma/tANDyam/ChAndogyopaniShat/sarva-prastutiH/2/13/). (madhva restricts it to one's wives.)
+</details>
+
+
+<details><summary>पुंश्चली-गमनम्</summary>
+
+> ऋतीयेते ब्रह्मचारी पुंश्चली च दक्षिणां द्वार्बाहुमाश्लिष्यमाणौ ५  
+संवर्त्तेते पुंश्चलीमागधश् च ६  
+
+इत्य् आपस्तम्बः सौत्रमणि-प्रकरणे। 
+
+> मागधं च पुंश्चलूं च दक्षिणे वेद्यन्ते मिथुनीकारयन्ति मिथुनत्वाय प्रजननाय
+  । 
+
+इति तलवकारब्राह्मणे च। 
+
+> the textual requirement of the maha-vrata portion of the paundarika, sexual intercourse on the antar-vedi, the coupling of a brahmacarin, a Vedic student under a vow of celibacy, and a hired pumscali, prostitute .... Behind a screen on the maha-vedi a man “from Magadha” has intercourse with one prostitute (pumscali) while a Vedic student under a vow of celibacy engages in a ribald dialogue, reminiscent of  asva-medha exchanges, with another. Some sutras are far more explicit here than Apastamba. - Knipe
+
+</details>
+
+
 - "स्वातन्त्र्यम्, विधीनां निषेधः, जातिशीलाद्य्-अभिमान-नाशः" as motivation - see [sthAneshvara-note](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/articles/tantrAgamAH/sthAneshvaraH/pancha-makArAH/).
 
 #### Group sex
