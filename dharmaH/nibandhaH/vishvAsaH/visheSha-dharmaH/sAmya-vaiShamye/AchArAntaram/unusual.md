@@ -54,13 +54,8 @@ Some unusual rituals involve some unusual components, some of which people may n
 
 
 ### For spiritual highs 
-<details><summary>वामदेव्य-व्रतम् (द्रष्टुं नोद्यम्)</summary>
 
-> स य एवमेतद्वामदेव्यं मिथुने प्रोतं वेद मिथुनीभवति मिथुनान्मिथुनात् प्रजायते सर्वमायुरेति ज्योग्जीवति महान् प्रजया पशुभिर्भवति महान् कीर्त्या न काञ्चन परिहरेत् तद् व्रतम् ॥
-
-Otherwise prohibited sex allowed in vAmadevya practice as per shankara and rangarAmAnuja - [ChU 2.13](/vedAH_sAma/tANDyam/ChAndogyopaniShat/sarva-prastutiH/2/13/). (madhva restricts it to one's wives.)
-</details>
-
+वामदेव्य-व्रते परस्त्रीगमन-प्रसङ्गः - अन्यत्र द्रष्टव्यम् - [TW](/vedAH_sAma/tANDyam/ChAndogyopaniShat/rangarAmAnujaH/2)। 
 
 <details><summary>पुंश्चली-गमनम्</summary>
 
