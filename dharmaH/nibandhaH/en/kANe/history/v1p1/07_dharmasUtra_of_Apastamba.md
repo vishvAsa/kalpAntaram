@@ -100,7 +100,7 @@ ATT TROR: TAITE: OTA YHT: I MEHTE 1o. v. 1 -2.
 
 The Apastambadharmasūtra stands in a peculiar relation to the Pūrvamimāṁsā. It is the only extant Dharmasūtra that contains many of the technical terms and doctrines of the Mimāṁsā. He says (I. 1. 4.8)' a positive Vedic text is more cogent than an usage which merely leads to an inforence (of its being based on a Vedic text now lost 90 ). This refers to Jaimini's rule (I. 3. 3)" if there is a conflict between an express Vedic 
 
-89 'यो दिसार्थमभिकान्तं हन्ति मन्युरेव मन्युं स्पृशति न तस्मिन्दोष इति पुराणे, आप, ध. 
+[^89]: 'यो दिसार्थमभिकान्तं हन्ति मन्युरेव मन्युं स्पृशति न तस्मिन्दोष इति पुराणे, आप, ध. 
 
 . 1. 10. 29, 7; this seems to be a summary of a verse like the one in Baudhāyana ( Dh. S. I. 10, 12 ) and Vasistha (III. 18) i nto 
 
@@ -118,7 +118,7 @@ text and Smṛti, the latter is to be disregarded : but if there be no [[conflio
 
 The remark of Āpastamba that the rules of anadhyāya only apply to Vedic study and not to the recital of mantras at sacri fices corresponds to a rule in Jaimini's almost in the same words. These examples show that in Āpastamba's day Mimā msā doctrines had been far advanced and that works existed that dealt with Mimāmsā topics (Nyāyas ). The correspondence in language with the Pūrvamīmāmsāsūtra is so close that one is tempted to advance the view that Āpastamba knew the extant Mimāṁsā-sūtra or an earlier version of it that contained almost the same expressions. It cannot be said that all these passages are later interpolations. They have all been explained by Haradatta and one of the sūtras referring to Mimāṁsā topics ocours in so early a work as the commentary of Viśvarūpa (on Yāj. 1. 7) who quotes “ Brāhmanoktā vidhayaḥ" &c. ( Āp. I. 4. 12. 10). The last passage is quoted by Medhātithi also (on Manu II. 6). 
 
-91 'यत्र तु प्रीत्युपलब्धितः प्रवृत्तिर्न तत्र शास्त्रमस्ति। आप.; यस्मिन्प्रीतिः पुरुषस्य तस्य 
+[^91]: 'यत्र तु प्रीत्युपलब्धितः प्रवृत्तिर्न तत्र शास्त्रमस्ति। आप.; यस्मिन्प्रीतिः पुरुषस्य तस्य 
 
 FOSCHTUHOT W ATC . . . Vidc also 3:17. W. 1. . •4,9-10' un 
 
@@ -333,7 +333,7 @@ Kielhorn's edition printed in large type number 4200. Vide pp. [[193-2274|193-22
 
 According to Pāṇini IV. 3. 105 as it stands the termination ṇini would not apply to Brāhmaṇa works and Kalpasūtras that were not ancient. Kātyāyana adds a vārtika that '[[wini|ṇini]]' will not apply to Yājñavalkya's and other Brāhmaṇas though they are equally purāṇaprokta (and so we shall have 'Yājñavalkāni' and 'Saulabhāni' Brāhmaṇāni. The Kāśikā says that it is reported in the ākhyānas that [[Yājavalkya|Yājñavalkya]] and others do not belong to old times and the sūtrakāra acts on that. [[1021|102j]] An example of an ancient Kalpa is Paiṅgikalpa. Then there are the two sūtras Pārāśarya-śilālibhyām bhikṣunatasūtrayoḥ' and ‘[[Karmandakṣśāsvād-inih|Karmandakṛśāśvād-iniḥ]]' [[(IV, 3.110-111)|(IV. 3. 110-111)]]. These show that before Pāṇini wrote Bhikṣu-sūtras by Pārāśarya and Karmanda and Natasūtras by Śilālin and Kṛśāśva had [[baen|been]] composed While Baud. Dh.S. (II. 1. 43-44) includes among Upapātakas the profession of actors (raṅgopajīvana) and the profession of
 
-102i This raises an interesting question [needs high-res verification against PDF for Devanagari portions obscured by stamp; retained as scanned].
+[^102j]: The printed note is largely obscured by the library stamp in the available scan; its Devanagari portion could not be recovered.
 
 [[P81]] the teaching of [[danoing|dancing]] (Nāṭyācārya), these facts amount to this that before Pāṇini and in his day also the profession of actors appears to have been not looked down upon in [[North-West|North-west]] India, while Baudhāyana, an inhabitant of the southern parts of India ( as I noted ), looked down upon it. 
 
@@ -404,3 +404,21 @@ The commentary of Haradatta called Ujjvalā-vṛtti is the only one so far recov
 In Aparārka, Haradatta, Smṛticandrikā and other works there are numerous quotations in verse ascribed to Āpastamba. These quotations are concerned with topics of Āhnika, Śrāddha, and Prāyaścitta. The Smṛticandrikā (III. pp. 423 and 426 ) quotes a Stotrāpastamba. Haradatta on Gautama (22. 18 ) quotes several verses on prāyaścitta from Āpastamba. [[Threo|Three]] of these verses are found in the Āpastamba-smṛti in verse (Jīvananda's collection vol. I pp. 567-584 chap. I verses 16, 19, 31 ). The Smṛti printed by Jīvananda contains about 207 verses in ten chapters on prāyaścitta and purifications. But the [[quota tions|quotations]] from the Smṛticandrikā and Aparārka show that the verse Āpastamba was a much larger work and since they regarded the versified work as equally authoritative with the sūtra work, the versified smṛti must have been comparatively an ancient work, 
 
 Shri. A. N. Krishna Aiyangar in Kunhan Raja Felicitation Volume (pp. 392–397 ) points out that there are some additional sūtras of Āp. Dh. S. In the Rangaswami [[Aigangar|Aiyangar]] [[Comh Korb|Comm. Vol.]] (pp. 367-369 ) an account is given of an Āpastambasmṛti [[pagal|in the]] Adyar Library in six paṭalas and 800 grantha. 
+
+[^85]: On the sūtra अन्यच्च राहूदर्शनात् ( II. 7. 17. 25 ) he says ' वरीयसर्वेतरयोषेण न पठति । तथा च पूर्वैर्न व्याख्यातम् '.
+
+[^85a]: षडङ्गो वेदः । छन्दः, कल्पो व्याकरणं ज्योतिषं निरुक्तं शिक्षा, छन्दोविचितिरिति । आप. ध. सू. II. 4. 8. 10-11. The मुण्डकोप० I. 5. reads ' शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमिति । The तैत्तिरीयोप. I. 2. reads ' ॐ शीक्षां व्याख्यास्यामः । वर्णः स्वरः । मात्रा । बलम् । साम सन्तानः । इत्युक्तः शीक्षाध्यायः ।'
+
+[^86]: ' यस्माद्धर्मान्नचिनोति स आचार्यः ' आप. ध. सू. I. 1. 1. 14 ; ' आचार्यः सकलादाचारं ग्राहयति अचिनोत्यर्थानाचिनोति बुद्धिमिति वा ' निरुक्त 1. 4 and ' तस्मादेकतमच्छन्नः ' ( quoted in निरुक्त II. 3. )
+
+[^88]: अथ यद्यधिकारः शास्त्रे भवति । सा निन्दा । स्मृतिश्च । आप. ध. सू. I. 6. 5. 23-25 ; मातुलगोत्रनात् कामचारः कामवादः कामभक्षः । अहृतात् । गौ. ध. सू. ...
+
+[^96]: ' यथैव स्मृतिः " धर्मे च अर्थे च कामे च नातिचरितव्या " इति, " धर्मप्रजासम्पन्ने द्वारे नार्याः कुर्वीत " इति च एवमिदमपि स्मर्यते एव " अन्यतरापाये अन्यां कुर्वीत " इति । शबर. आप. says " धर्मप्रजासम्पन्ने द्वारे नार्यां कुर्वीत । अन्यतराभावे कार्यां प्रागल्भ्याधेयात् " II. 5. 11. 13.
+
+[^97]: तन्त्रवार्तिक p. 138 ' प्रतिदेशं व्यवस्थया । आपस्तम्बेन संहृत्य दृष्टान्तमुपलक्ष्यते ॥ '. This has in view ' एतेन देशकालधर्मा व्याख्याताः ' आप. ध. सू. II. 6. 15. 1 ; यापि चापस्तम्बस्मृतिवचनातुल्यवत्सलाङ्गङ्गा भवेत्सापि तस्माद् ब्राह्मणः सुरां न पिबेदिति एतेन प्रत्यक्षस्मृतिविधिना निराकृतेति नैवं विप्राचारमापन्न...
+
+[^98]: परमात्मानमेव प्रकृत्यापस्तम्बः पठति ' तस्मात्कायाः प्रभवति सर्वे स मूलं शापशीलकः स नित्यः '.
+
+[^99]: आग्रे फलार्थे इत्यादि द्वापस्तम्बस्मृतिर्वचः । फलवच्च समाचक्षे नित्यानामपि कर्मणाम् ... ऋषिदर्शनकभाव्यवार्तिक. आपस्तम्ब's words are ' तद्यथा आग्रे फलार्थे निमिते कर्मणि गन्ध इव दूरादुपयेते एवं धर्मे चर्यमाणमर्थो अनुगच्छति '.
+
+[^100]: Vide my article in JBBRAS for 1922 pp. 205-206.

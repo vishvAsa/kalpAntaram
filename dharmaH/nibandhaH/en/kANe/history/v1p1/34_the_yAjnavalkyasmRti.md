@@ -97,7 +97,7 @@ All these are quoted in the Moksakanda of Kalpataru (p. 148) AB from (योग�
 
 Aparārka [[( about 1125-50 A. D. )|(about 1125-50 A.D.)]] mentions [[Yogayājsa. valkya|Yogayājñavalkya]] about 25 times and quotes at least 63 verses therefrom (though the order of verses and some readings differ in a few cases). Reasons of space prevent a detailed statement of all verses quoted from Yogayājñavalkya. By way of sample, only some groups of verses from Yoga-Yāj. are cited [[here ;|(here;]] [[(.)|(a)]] about 18 verses [[( though|(though]] not in consecutive [[order )|order)]] on [[pp. 134-35|pp.134-35]] are quoted by Aparārka from Bṛ. Yoga. [[Yaj. ,|Yāj.,]] all except two from the 7th chapter (verses 39, 162-171 and from [[IV, 28|IV,28]] and 30[[ );|);]] five verses are quoted from [[Br Y, Y.|Bṛ. Y. Y.]] VII. [[( dropping 136 )|(dropping 136)]] by [[Aparārka. on|Aparārka on]] [[p. 47|p.47]]; about five verses are quoted which are Bṛ. Y. Y. [[IV. 4-6|IV.4-6]] [[(in part )|(in part)]] and [[IV. 8-10|IV.8-10]]; on [[p. 128|p.128]] [[A parārka|Aparārka]] quotes from [[Yoga--Yāj.|Yoga-Yāj.]] four
 
-( Continued from the previous page ) स्वकर्मणामनुष्ठानात् सम्यगात्मनि दर्शनात् । वेदान्तानां परिज्ञानाद् गृहस्थोपि विमुच्यते ॥ quoted by अपराके on p. 980 from Yoga-yajjaralkya on या. III. 37. This is बृहद्योगिया. XI. 45. This is not cited in the योगयाज्ञ. edited by Mr. Divanji. योगियाज्ञवल्कीयं 'शं न आपः' इत्यादि 'अघमर्षणसूक्तेन ' इत्यन्तं मन्त्रैर्मार्जन तु अप्रयतस्यैव कर्माशमुख्यस्नानाशक्तौ द्रष्टव्यम् । असामर्थ्याच्छरीरस्य कालशक्त्याद्यपेक्षया । मन्त्रस्नानादितः सर्वे केचिदिच्छन्ति सूरयः ॥ इति, 'कालदोषादसामर्थ्यात्' इति च योगियाज्ञवल्क्यवचनात् । ब्रह्मचारिकल्पतरु p. 188. 'असामर्थ्यात्.' is बृहद्योगिया० VII. 162 and 'कालदोषादसामर्थ्यात्' is VII. 166 ( of the same ). None of these two is cited in योगया.. ब्रह्मचर्य दया क्षान्तिनं सत्यमकल्कता । अहिंसाऽस्तेयमाधुर्ये दमश्चेति यमाः स्मृताः ॥ स्नानं मौनोपवासेज्या स्वाध्यायोपस्थनिग्रहाः। नियमा गुरुशुश्रषा शौचाक्रोधाप्रमादता ॥ याज्ञ. II. 312-313; अहिंसा सत्यमस्तेयं ब्रह्मचर्य दयार्जवम् । क्षमा तिर्मिताहारः शौचं त्वेते यमा दश ॥ तपः सन्तोष आस्तिक्यं दानमीश्वरपूजनम् । सिद्धान्तश्रवणं चैव हीमतिश्च जपो व्रतम् ॥ एते तु नियमाः प्रोक्तास्तांश्च सर्वान् पृथक्शृणु ।। योगयाज्ञ. I. 50-51 and ans 1-2; compare अहिंसा-सत्य-अस्तेय-ब्रह्मचर्यापरिग्रहा यमाः । गौच सन्तोष-तपः-स्वाध्यायेश्वरप्रणिधानानि नियमाः ॥ योगसूत्र II, 30 and In 
+स्वकर्मणामनुष्ठानात् सम्यगात्मनि दर्शनात् । वेदान्तानां परिज्ञानाद् गृहस्थोपि विमुच्यते ॥ quoted by अपराके on p. 980 from Yoga-yajjaralkya on या. III. 37. This is बृहद्योगिया. XI. 45. This is not cited in the योगयाज्ञ. edited by Mr. Divanji. योगियाज्ञवल्कीयं 'शं न आपः' इत्यादि 'अघमर्षणसूक्तेन ' इत्यन्तं मन्त्रैर्मार्जन तु अप्रयतस्यैव कर्माशमुख्यस्नानाशक्तौ द्रष्टव्यम् । असामर्थ्याच्छरीरस्य कालशक्त्याद्यपेक्षया । मन्त्रस्नानादितः सर्वे केचिदिच्छन्ति सूरयः ॥ इति, 'कालदोषादसामर्थ्यात्' इति च योगियाज्ञवल्क्यवचनात् । ब्रह्मचारिकल्पतरु p. 188. 'असामर्थ्यात्.' is बृहद्योगिया० VII. 162 and 'कालदोषादसामर्थ्यात्' is VII. 166 ( of the same ). None of these two is cited in योगया.. ब्रह्मचर्य दया क्षान्तिनं सत्यमकल्कता । अहिंसाऽस्तेयमाधुर्ये दमश्चेति यमाः स्मृताः ॥ स्नानं मौनोपवासेज्या स्वाध्यायोपस्थनिग्रहाः। नियमा गुरुशुश्रषा शौचाक्रोधाप्रमादता ॥ याज्ञ. II. 312-313; अहिंसा सत्यमस्तेयं ब्रह्मचर्य दयार्जवम् । क्षमा तिर्मिताहारः शौचं त्वेते यमा दश ॥ तपः सन्तोष आस्तिक्यं दानमीश्वरपूजनम् । सिद्धान्तश्रवणं चैव हीमतिश्च जपो व्रतम् ॥ एते तु नियमाः प्रोक्तास्तांश्च सर्वान् पृथक्शृणु ।। योगयाज्ञ. I. 50-51 and ans 1-2; compare अहिंसा-सत्य-अस्तेय-ब्रह्मचर्यापरिग्रहा यमाः । गौच सन्तोष-तपः-स्वाध्यायेश्वरप्रणिधानानि नियमाः ॥ योगसूत्र II, 30 and In 
 
 [[P438]]verses and a half which are Bṛ Y. Y. VII. 2 (latter half)-5. Mr. Divanji does not show that these verses occur in the 
 
@@ -121,7 +121,8 @@ The details of information about Vināyaka in Yāj. [[(I. 272-276)|(I.272-276)]]
 
 ( [[पत्रश्च|पुत्रश्च]] मितश्च ? ) देवयजनश्चेति । मानवगृह्य [[II. 14. 1-2|II.14.1-2]]; विनायकः [[कर्मविघ्न सिद्धयर्थ|कर्मविघ्नसिद्ध्यर्थं]] विनियोजितः। ...मितश्च समितश्चैव तथा सालकटङ्कटौ। कूष्माण्डो राजपुत्रश्च जपेत् स्वाहासमन्वितान् । नामभिर्बलिमन्त्रैश्च नमस्कारसमन्वितैः ॥ याज्ञ. I. 271, 285-6, 281-82 [[( Nir. ed.)|(Nir. ed.)]]. The Mit. seems to have read 
 
-'[[कटकटौ|कटङ्कटौ]] । कूष्माण्डो राजपुत्रश्च'. [[478|[^476]]]: एतैरधिगतानामिमानि रूपाणि भवन्ति । लोष्टं मृद्नाति । तृणानि छिनत्ति । 
+    '[[कटकटौ|कटङ्कटौ]] । कूष्माण्डो राजपुत्रश्च'.
+[^476]: एतैरधिगतानामिमानि रूपाणि भवन्ति । लोष्टं मृद्नाति । तृणानि छिनत्ति । 
 
 अग्रेषु लेखान् लिखति। अपः स्वप्ने पश्यति । मुण्डान् पश्यति। जटिलान् पश्यति। काषायवाससः पश्यति । उष्ट्रान् सूकरान् गर्दभान् दिवाकीर्त्यादीनन्यांश्चाप्रयतान् स्वप्नान् पश्यति । अन्तरिक्षं कामति । अध्वानं [[व्रजन्मन्यते|व्रजन् मन्यते]] पृष्ठतो मे [[कश्चिद्धन ब्रजति|कश्चिदनु व्रजति]] । एतैः खलु विनायकैराविष्टा राजपुत्रा लक्षणवन्तो राज्यं न लभते । कन्याः पातकामा लक्षणवत्यो भर्तॄन् लभन्ते । ... कृषिकराणां [[कृषिरत्पफूला|कृषिरल्पफला]] भवति । मानवगृह्य [[II. 14. 3-21 (ed. by Knauer ),|II.14.3-21 (ed. by Knauer),]] 
 
@@ -141,7 +142,8 @@ BEAT AT OP TET: njaati &c.'; I TAS Parceria \#arma माश्रिताः�
 
 [[fa : 11 719.|द्विजः ॥ याज्ञ.]] I. 142 ; compare [[977497|पारस्कर]] [[II. 12. 1-2|II.12.1-2]] (Venkateśvara press ed.) 1957 Teen Atarai 918 Ary a l 
 
-36Hoci Trat &c.' [[479|[^479]:]] सप्तमाद् दशमाद्वापि ज्ञातयोभ्युपयन्त्यपः । अप नः शोशुचदघमनेन पिता 
+    36Hoci Trat &c.'
+[^479]: सप्तमाद् दशमाद्वापि ज्ञातयोभ्युपयन्त्यपः । अप नः शोशुचदघमनेन पिता 
 
 [[faqat: 11 7737.|दिङ्मुखाः ॥ याज्ञ.]] III. 3 ; HOP STARTOTTEITA HITHATE THAT ... सव्यस्यानामिकयापनोद्याप नः शोशुचदधामिति दक्षिणामुखा निमजन्ति । [[PTT FAT|पारस्कर]] [[III. 10. 16 and 19-20.|III.10.16 and 19-20.]]
 
@@ -149,17 +151,18 @@ BEAT AT OP TET: njaati &c.'; I TAS Parceria \#arma माश्रिताः�
 
 [^480]: अन्ये तु [[कुतश्चिदागमय्यमं|कुतश्चिदागमय्येमं]] श्लोकं पठन्ति-'यः सपिण्डीकृतं प्रेतं [[पृथपिण्डेन|पृथक्पिण्डेन]] 
 
-योजयेत् । विधिनस्तेन भवति पितृहा चोपजायते ।। इति । अयं त्वस्पष्टमूलत्वाद. parfecarifapty [[on 17. I. 252.|on Yāj. I.252.]] [^481]: अन्ये तु कुतश्चिदागमय्येमं श्लोकं पठन्ति-रागाद् द्वेषात् प्रमादादा स्वतः परत एव वा । यो हन्याद् ब्राह्मणं कश्चित् स सर्वो ब्रह्महा भवेत् ॥ इति । तत्त्वविज्ञात 
+    योजयेत् । विधिनस्तेन भवति पितृहा चोपजायते ।। इति । अयं त्वस्पष्टमूलत्वाद. parfecarifapty [[on 17. I. 252.|on Yāj. I.252.]]
+[^481]: अन्ये तु कुतश्चिदागमय्येमं श्लोकं पठन्ति-रागाद् द्वेषात् प्रमादादा स्वतः परत एव वा । यो हन्याद् ब्राह्मणं कश्चित् स सर्वो ब्रह्महा भवेत् ॥ इति । तत्त्वविज्ञात 
 
-care fararthofa *9 [[on 14. III. 222.|on Yāj. III.222.]] [^482]: अन्ये तु भुक्वातोन्यतमस्यानमित्येवमादीन्यर्थवादत्वेन ब्याचक्षते । न चाल किंचिदर्थवादसारूप्यमस्य स्यात् । अतोर्थवादो नाम वाक्यप्रकारोस्ति तमष्यह 
+    care fararthofa *9 [[on 14. III. 222.|on Yāj. III.222.]]
+[^482]: अन्ये तु भुक्वातोन्यतमस्यानमित्येवमादीन्यर्थवादत्वेन ब्याचक्षते । न चाल किंचिदर्थवादसारूप्यमस्य स्यात् । अतोर्थवादो नाम वाक्यप्रकारोस्ति तमष्यह 
 
-(Continued on the next page) 
 
 [[P443]]says that [[Śhaṅkara|Śaṅkara]] in his Bhāṣya on Brahmasūtra [[(III. 4.43)|(III.4.43)]] explained the application of [[Yāj. III. 226|Yāj. III.226]]. Unfortunately in the printed editions of [[Śhaṅkara|Śaṅkara]] I could not find this. But from the Bhāmatī where [[Yāj. III. 226|Yāj. III.226]] is explained, it is clear that the passage must have occurred in the text of [[Śhaṅkara|Śaṅkara]] used by the Bhāmatī. Dr. Jolly lays great emphasis in assigning a late date to Yāj. on the fact that Kumārila, who cites Manu, Gautama, Āpastamba, Baudhāyana frequently, ignores the [[Yājsavalkya-smṛti|Yājñavalkya-smṛti]] altogether. But this silence of the great mīmāṃsaka can only mean that he did not assign the same pre-eminent and venerable position to Yāj. that he assigned to Manu, Gautama and others. Dr. Jolly himself is prepared to place Yāj. three or four centuries earlier than [[Kuinārila|Kumārila]]. It will be shown hereafter that Nārada and [[Bșhaspati|Bṛhaspati]] cannot be placed later than [[500 A. D.|500 A.D.]] and may have flourished two or three centuries earlier still. On a [[compa rison|comparison]] of their doctrines with those of Yāj. it will have to be conceded that they represent a far greater advance in juristic principles and exactitude than Yāj. So the latter cannot be placed later than the 3rd century A. D. As Yāj. is shown above to have followed the Manusmṛti and the Kauṭiliya his smṛti cannot be placed earlier than the first century B.C. We shall not be therefore far from the truth if we place his smṛti somewhere between the first century [[B. C and|B.C. and]] the third century of the Christian era. In the Laṅkāvatārasūtra [[( ed. by B. Nanjio, 1923, Kyoto )|(ed. by B. Nanjio, 1923, Kyoto)]] gāthās 814–816 are 'Kātyāyanaḥ sūtrakartā [[Yājsavalkastathaiva|Yājñavalkastathaiva]] ca... Valmīko Masurākṣaśca Kauṭilya Āśvalāyanaḥ ... From the context it appears that the author of the smṛti is referred to as Yājñavalka. 
 
 Dr. Jolly [[(R. u. S. p. 21 )|(R.u.S. p.21)]] following Dr. Jacobi [[(ZDMG 30, p. 306 )|(ZDMG 30, p.306)]] thinks that Yāj. shows an acquaintance with Greek astrology. Dr. Jacobi's position amounts to this that the naming of the week days after the planets was established among the Greeks towards the end of the 2nd century A. D. and as the names of the week days and the arrangement of the planets in correspondence with them was borrowed by the 
 
-[[( Continued from the previous page)|(Continued from the previous page)]] FTTHIETTOarf\#1919: 1 deportat i fant op 71. IIL 2008 श्रीशङ्कराचार्यास्तु कामतोव्यवहार्यस्तु इत्यकारप्रश्लेषणेदं याज्ञवल्क्यवचो बस्तिम यथापि स्मृतराचाराचेति सूत्रे कृतप्रायश्चित्तनैष्ठिकब्रह्मचर्यादिपरम् ॥ afere... RE – is a 97 III. 4. 43. 
+FTTHIETTOarf\#1919: 1 deportat i fant op 71. IIL 2008 श्रीशङ्कराचार्यास्तु कामतोव्यवहार्यस्तु इत्यकारप्रश्लेषणेदं याज्ञवल्क्यवचो बस्तिम यथापि स्मृतराचाराचेति सूत्रे कृतप्रायश्चित्तनैष्ठिकब्रह्मचर्यादिपरम् ॥ afere... RE – is a 97 III. 4. 43. 
 
 [[P444]]Indians from the Greeks, no Indian work which enumerates the week days or arranges the planets in the well-known [[sequence of Sun, Moon, Mars &c. )|sequence (of Sun, Moon, Mars &c.)]] could have been composed before the third century after Christ. As is very often the case with Western Sanskrit scholars in matters of Indian chronology, this grand generalization is based upon very slender data. The premises are mere assumptions without hardly any evidence worth the name to support them. No one knows exactly when the week-days were named and who were the people that first employed the current names of the week-days. It is well-known that as far back as the days of Herodotus the Egyptians had a presiding deity for each day and that in the times of Julius Cæser there were days of Saturn [[(vide I. A. vol. 14, p. I, General Cunningham's article for the Indian origin of week-days ).|(vide I.A. vol.14, p.1, General Cunningham's article for the Indian origin of week-days).]] At least from the third century [[B. C.,|B.C.,]] as vouched for by the 13th edict of Aśoka, India was in close touch with Syria and Egypt, where [[Bud dhist|Buddhist]] missionaries had been sent by Aśoka while Antiochus and Ptolemy ruled in the two countries respectively. [[There fore,|Therefore,]] if Indians at all borrowed the week-days and the arrangement of planets from foreigners, there is nothing to prevent us from holding that they might have borrowed them from the Egyptians. 
 
@@ -169,11 +172,13 @@ The present author has dealt at some length with the question of the origin of w
 
 [^483]: Efafa': 998 arhat Het Fatiaa: 9ch a 17 I IV, 60. 4; 
 
-pakta: quÅ HT99Tafea ei annaftalana i āt. Al. 3. 1. 1. 6. [^484]: तस्मादश्लीलनाम चित्रे नावस्येन्न यजेत यथा पापाहे कुरुते तादृगेव तत् । तै. 
+    pakta: quÅ HT99Tafea ei annaftalana i āt. Al. 3. 1. 1. 6.
+[^484]: तस्मादश्लीलनाम चित्रे नावस्येन्न यजेत यथा पापाहे कुरुते तादृगेव तत् । तै. 
 
 [[A1. 1. 5. 2. 6.|ब्रा. 1.5.2.6.]] 
 
-HOT Fr....echa 3 I &. an. 1. 8. 4. 2. [[486|[^485]:]] pirane radi grzac wrę VII. 88. 4. 
+    HOT Fr....echa 3 I &. an. 1. 8. 4. 2.
+[^485]: pirane radi grzac wrę VII. 88. 4. 
 
 [[P446]]that a daughter should be given away in marriage on the Svāti nakṣatra if she was desired to be her husband's favourite [[*86|[^486]]] Vide Baudhāyana [[Gșhya (I. 1 )|Gṛhya (I.1)]] for the marriage nakṣatras[[ ; also|; also]] Āp. Gr. S. [[II. 15. 12-14,|II.15.12-14,]] [[Gobhila Gphya 4.4. 28|Gobhila Gṛhya 4.4.28]] and [[2. 1.1.|2.1.1.]] 
 
@@ -181,7 +186,7 @@ There is nothing to show that Yāj. knew [[rāfis|rāśis]] [[( zodiacal signs).
 
 In [[III. 171|III.171]] and 172 Yāj. speaks of only the conjunction of planets and of the passage [[of them )|of them)]] through tārās and [[maksatras|nakṣatras]]. The Baud. Dh. S. [[II. 5.23 gpeaks|II.5.23 speaks]] of the nine grahas in the same order as that of Yāj. Therefore, there is hardly any evidence to show that Yāj. knew more astrology than was current in the days of the Brāhmaṇas and the [[Grbyasūtras.|Gṛhyasūtras.]] Yāj. [[(in II. 240-241 )|(in II.240-241)]] speaks of the fine to be imposed on those who counterfeited "nāṇakas” [[(coins )|(coins)]] and on those examiners of [[“nānakas"|“nāṇakas”]] who falsely declared a good coin to be counterfeited and vice versa. Mr. [[Jayaswal( Cal cutta|Jayaswal (Calcutta]] Weekly Notes, [[vol. 17, P. CLIX )|vol.17, p.CLIX)]] says that nāṇaka is the 
 
-[[488|[^486]:]] यान्येव देवनक्षत्राणि तेषु [[कुर्वांत|कुर्वीत]] यत्कारी स्यात् पुण्याह एव कुरुते । [[ती का|तै. ब्रा.]] 
+[^486]: यान्येव देवनक्षत्राणि तेषु [[कुर्वांत|कुर्वीत]] यत्कारी स्यात् पुण्याह एव कुरुते । [[ती का|तै. ब्रा.]] 
 
 [[1. 6. 2. 9|1.6.2.9]] ; & artha great for fullara ai FETTAI arala s. [[1. 5. 2. 3.|1.5.2.3.]] 
 
@@ -201,9 +206,11 @@ One quotation cited from Vṛddha-Yāj. by Mādhava refers to the means of proof
 
 [^487]: विभागधर्मसन्देहे बन्धुसाक्ष्यभिलेखितैः । विभागभावना कार्या न भवेद् दैविकी 
 
-[[Full II CERCHTETETA|क्रिया ॥ पराशरमाधवीय]] III, part 2, [[p. 571 ;|p.571;]] compare [[9157. 11. 149.|याज्ञ. II.149.]] [^488]: चण्डालपुक्कसम्लेच्छभिल्लपारसिकादिकम् । महापातकिनश्चैव स्पृष्टा स्नायात्सचैलकम्॥ 
+    [[Full II CERCHTETETA|क्रिया ॥ पराशरमाधवीय]] III, part 2, [[p. 571 ;|p.571;]] compare [[9157. 11. 149.|याज्ञ. II.149.]]
+[^488]: चण्डालपुक्कसम्लेच्छभिल्लपारसिकादिकम् । महापातकिनश्चैव स्पृष्टा स्नायात्सचैलकम्॥ 
 
-[[on 436.|on याज्ञ.]] III. 29-30. [^489]: संसृष्टपदमेव वा सोदरमभिधत्ते । अत एव बृहद्याज्ञवल्क्यवचनं सोदरो नान माता sta mainitut foarte I TYHIT p. 298 ( ed. of 1829). 
+    [[on 436.|on याज्ञ.]] III. 29-30.
+[^489]: संसृष्टपदमेव वा सोदरमभिधत्ते । अत एव बृहद्याज्ञवल्क्यवचनं सोदरो नान माता sta mainitut foarte I TYHIT p. 298 ( ed. of 1829). 
 
 [[P449]]Yogīśvara by the Mit. and other works, but [[Yoga-Yājie valkya|Yoga-Yājña-valkya]] is a different work from the Yāj. Smṛti. Yāj. (in III. 110) claims the Yogaśāstra to be his own work.
 

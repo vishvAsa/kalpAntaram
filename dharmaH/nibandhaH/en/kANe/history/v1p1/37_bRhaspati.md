@@ -62,7 +62,7 @@ Nārada and [[Bșhaspati|Bṛhaspati]] agree very closely in several [[res pects
 
 We have seen that Nārada departs from Manu in several essential matters. On the other hand [[Bșhaspati|Bṛhaspati]] follows Manu very closely. But he too differs on some points from Manu, for example, we saw above how Bṛhaspati dissents from Manu on the question of the divisibility of clothes &c. ([[uote|note]] 348 ). He appears to differ from Manu as to the maximum interest allowed on corn, fruit, wool and beasts of burden.[[588|[^538]]] Manu and Nārada are both silent as to the widow's right to succeed to her deceased husband's estate. But [[Bphaspati|Bṛhaspati]] agreeing with Yājñavalkya makes her the first heir of her sonless 
 
-( Continued from the previous page ) The story of [[Mānda vya|Māṇḍavya]] occurs also in Ādiparva 63. 92–93 [[aod|and]] is also mentioned in the Arthaśāstra of Kauṭilya, IV. 8. 12. The story in the epic differs from that stated in Arthaśāstra which says: दृश्यते ह्यचोरोपि चोरमार्गे यदृच्छया संनिपाते चोरवेषशस्त्रभाण्डसामान्येन गृह्यमाणः चोरभाण्डस्थोपवासेन वा, यथाणिमाण्डव्यः कर्मक्लेशभयादचोरः [['akit sa gator: 1|‘चोरोसि’ इति ब्रुवाणः ।]] In the epic, there is no mention of the fear of torture as in the Kauṭiliya. "Aṇi' means '[[gūlāgra|śūlāgra]]'. The [[Ādi parva|Ādiparva]] ( 63. 92 ) has [[not sta garapenak 1 3TATUSOH Tea falera: \# HERFETT: 11.|शूले प्रोतः पुराणर्षिश्चौरश्चौरशङ्कया । अणीमाण्डव्य इत्येवं विख्यातः स महायशाः ॥.]] Ādiparva 107 gives further details. [[Thie. vos|Thieves]] kept booty in his dwelling and concealed themselves. The king's [[offloors|officers]] asked him what way the thieves [[wet|went]]. Māṇḍavya remained silent and the [[king'a|king's]] officers found out the thieves and the booty. So the officers reported the thieves and the sage and the king [[or dered|ordered]] that all be killed and so [[Māndarya was was|Māṇḍavya was]] impaled. The story of [[Māndarya|Māṇḍavya]] is again [[roforrod|referred]] to in [[Anuśasana parva|Anuśāsanaparva]] 
+The story of [[Mānda vya|Māṇḍavya]] occurs also in Ādiparva 63. 92–93 [[aod|and]] is also mentioned in the Arthaśāstra of Kauṭilya, IV. 8. 12. The story in the epic differs from that stated in Arthaśāstra which says: दृश्यते ह्यचोरोपि चोरमार्गे यदृच्छया संनिपाते चोरवेषशस्त्रभाण्डसामान्येन गृह्यमाणः चोरभाण्डस्थोपवासेन वा, यथाणिमाण्डव्यः कर्मक्लेशभयादचोरः [['akit sa gator: 1|‘चोरोसि’ इति ब्रुवाणः ।]] In the epic, there is no mention of the fear of torture as in the Kauṭiliya. "Aṇi' means '[[gūlāgra|śūlāgra]]'. The [[Ādi parva|Ādiparva]] ( 63. 92 ) has [[not sta garapenak 1 3TATUSOH Tea falera: \# HERFETT: 11.|शूले प्रोतः पुराणर्षिश्चौरश्चौरशङ्कया । अणीमाण्डव्य इत्येवं विख्यातः स महायशाः ॥.]] Ādiparva 107 gives further details. [[Thie. vos|Thieves]] kept booty in his dwelling and concealed themselves. The king's [[offloors|officers]] asked him what way the thieves [[wet|went]]. Māṇḍavya remained silent and the [[king'a|king's]] officers found out the thieves and the booty. So the officers reported the thieves and the sage and the king [[or dered|ordered]] that all be killed and so [[Māndarya was was|Māṇḍavya was]] impaled. The story of [[Māndarya|Māṇḍavya]] is again [[roforrod|referred]] to in [[Anuśasana parva|Anuśāsanaparva]] 
 
 18. 46-50.
 
@@ -98,15 +98,11 @@ clothes that are worn on the body, debts, ( or books for use, according to other
 
 [^542]: गोप्रचारश्च रथ्या च वस्त्रं यच्चाङ्गयोजितम् । प्रयोज्यं न विभज्येत धर्मार्थं च [[garra: sā. I. p. 505 and 37777\# on 13. 11. 119|बृहस्पतिः ॥ वि. र. p. 505 and अपरार्क on याज्ञ. II. 119]] and Kalpataru on [[Vyavabāra|Vyavahāra]] p. 680.
 
-[^543]: परं निरस्य यल्लब्धं विद्यातो [[यूतपूर्वकम्|द्यूतपूर्वकम्]] । विद्याधनं तु तद्विद्यान्न विभाज्यं 
+[^543]: परं निरस्य यल्लब्धं विद्यातो [[यूतपूर्वकम्|द्यूतपूर्वकम्]] । विद्याधनं तु तद्विद्यान्न विभाज्यं बृहस्पतिः ॥ quoted by [[अपराक|अपरार्क]] on या. II. 119 ; परा. मा. III. 2. p. 559 ; in Kalpataru ( [[Vyavao|Vyava°]] ) p. 677 ‘कुले विनीतविद्यानां भ्रातृणां पितृतोऽपि वा । शौर्यप्राप्तं तु यद्वित्तं’ विभाज्यं [[तबृहस्पीतः|तद्बृहस्पतिः]] ॥ ( कल्पतरु° p. 681 ).
 
-बृहस्पतिः ॥ quoted by [[अपराक|अपरार्क]] on या. II. 119 ; परा. मा. III. 2. p. 559 ; in Kalpataru ( [[Vyavao|Vyava°]] ) p. 677 [[groot fanitaraarat sagut|‘कुले विनीतविद्यानां भ्रातृणां]] पितृतोऽपि वा । शौर्यप्राप्तं तु यद्वित्तं’ विभाज्यं [[तबृहस्पीतः|तद्बृहस्पतिः]] ॥ ( कल्पतरु° 
+[^544]: सर्वापलापं यः कृत्वा मिथ्याल्पमपि संवदेत् । सर्वमेव तु दाप्यं स्यादिति युक्तो बृहस्पतिः ॥ व्यवहारमातृका of जीमूत° p. 311.
 
-p. 681 ). [[644|[^544]]]: सर्वापलापं यः कृत्वा मिथ्याल्पमपि संवदेत् । सर्वमेव तु दाप्यं स्यादिति युक्तो
-
-[[arta: 11 EGGERTATELFT of stato p. 311.|बृहस्पतिः ॥ व्यवहारमातृका of जीमूत° p. 311.]] [[545|[^545]]]: अर्थिप्रत्यर्थिसांनिध्याननुभूतं तु यद्भवेत् । तद्ग्राह्यं साक्षिणो [[वाध्यमन्यवाह|वाक्यमन्यथा ...]] 
-
-[[TEFTA: Il quoted in the 249€TCHTTEI of Finesto p. 21Z ♡|बृहस्पतिः ॥ quoted in the व्यवहारमातृका of जीमूत° p. 317.]] 
+[^545]: अर्थिप्रत्यर्थिसांनिध्याननुभूतं तु यद्भवेत् । तद्ग्राह्यं साक्षिणो [[वाध्यमन्यवाह|वाक्यमन्यथा ...]] बृहस्पतिः ॥ quoted in the व्यवहारमातृका of जीमूत° p. 317.
 
 [[P489]]
 
@@ -150,19 +146,15 @@ The foregoing, therefore, establishes, that [[Bphaspati|Bṛhaspati]] was known 
 
 The Mit. on Yāj. III. 261 quotes a [[Vrddha-Bphaspati|Vṛddha-Bṛhaspati]] on the nine varieties of saṁkara.[[664|[^554]]] Kullūka on Manu ( 9. 181 ) cites a verse of [[Vșddha-Bphaspati|Vṛddha-Bṛhaspati]] about the eleven subsidiary 
 
-[[561|[^551]]]: सप्तहस्तेन दण्डेन त्रिंशद् दण्डा निवर्तनम् । दश तान्येव गोचर्म दत्त्वा स्वर्गे
+[^551]: सप्तहस्तेन दण्डेन त्रिंशद् दण्डा निवर्तनम् । दश तान्येव गोचर्म दत्त्वा स्वर्गे
 
-महीयते ॥ A similar verse occurs in the बृहस्पतिस्मृति (Jivananda,
+महीयते ॥ A similar verse occurs in the बृहस्पतिस्मृति (Jivananda, part I. p. 645 where the reading is [[careata|दशहस्तेन]] ).
 
-part I. p. 645 where the reading is [[careata|दशहस्तेन]] ). [[52|[^552]]]: महानद्यन्तरं यत्र गिरिर्वा व्यवधायकः । वाचो यत्र विभिद्यन्ते तद् देशान्तर 
+[^552]: महानद्यन्तरं यत्र गिरिर्वा व्यवधायकः । वाचो यत्र विभिद्यन्ते तद् देशान्तरमुच्यते ॥ देशान्तरं वदन्येके षष्टियोजनमायतम् । चत्वारिंशद्वदन्त्यन्ये त्रिंशदन्ये तथैव च ॥
 
-मुच्यते ॥ देशान्तरं वदन्येके षष्टियोजनमायतम् । चत्वारिंशद्वदन्त्यन्ये त्रिंशदन्ये तथैव च ॥
+[^553]: सुरापाने कामकृते ज्वलन्तीं [[तो|तां]] विनिक्षिपेत् । मुखे तया विनिर्दग्धे मृतः शुद्धिमवाप्नुयात् ॥
 
-[[nga 711 |]][[563|[^553]]]: सुरापाने कामकृते ज्वलन्तीं [[तो|तां]] विनिक्षिपेत् । मुखे तया विनिर्दग्धे मृतः 
-
-शुद्धिमवाप्नुयात् ॥
-
-[[564|[^554]]]: यथाह वृद्धबृहस्पतिः । एकशय्यासनं [[पद्धिर्भाण्डपतयन्नमिश्रणम्|पङ्क्तिर्भाण्डपात्रान्नमिश्रणम्]] । याजनाध्यापने
+[^554]: यथाह वृद्धबृहस्पतिः । एकशय्यासनं [[पद्धिर्भाण्डपतयन्नमिश्रणम्|पङ्क्तिर्भाण्डपात्रान्नमिश्रणम्]] । याजनाध्यापने
 
 योनिस्तथा च सह भोजनम् । नवधा सङ्करः प्रोक्तो न कर्तव्योऽधमैः सह ॥ ‘These are ascribed to [[Vrddha-Brhaspati|Vṛddha-Bṛhaspati]] by Mit. on Yāj. [[14.|III. 261]] [[BOR|by]] Aparārka on p. 1086 ( with slight variations ) and [[batin candrikā|by Smṛticandrikā]] (Āhnika p. 10, [[Gbarpure|Gharpure]] ) and Gr. R. p. [[687|587]] ( [[13 Beiden pati's|as Bṛhaspati’s]] ).’ 
 
@@ -186,7 +178,6 @@ The Vyavahāranirṇaya of Varadarāja cites a verse ( on p. 132 ) as [[Bphaspat
 
 [^555]: The [[faal.|मिता.]] on [[.|या.]] I. 210 states [[that oftar HITELI|‘गोचर्मलक्षणं च बृहस्पतिना दर्शितम् ।]] सप्तहस्तेन दण्डेन त्रिंशद्दण्डं निवर्तनम् । दश तान्येव गोचर्म दत्त्वा स्वर्गे महीयते । इति । ; अपरार्क quotes ( on p. 336 ) from the मत्स्यपुराण [[दण्डर|दण्डः]] सप्तहस्तेन त्रिंशद्दण्डा निवर्तनम् । विभागहीनं गोचर्म मानमाह [[प्रजापिता|प्रजापतिः]] ॥ 
 
-( Continued on the next [[payje|page]] )
 
 [[P493]] 
 
@@ -218,13 +209,12 @@ Prof. Aiyangar says ( on p. 493 of his reconstructed Bṛhaspati) that certain p
 
 
 
-( Continued from the previous page ) This is quoted by अपरार्क on p. 1225 from [[मत्स्य पुराण|मत्स्यपुराण]] and on the same page the [[quotos|quotes]] बृहस्पति as 'दशहस्तेन शेन दशवंशाः समन्ततः । पञ्च चाभ्यधिकस्तदेतद्गोचर्मलक्षणम् ॥ -- Prof. Aiyangar (quotes [[Homa. dri|Hemādri]] first and it is not clear why he does not mention [[tho|the]] Mit. and [[Anarārka|Aparārka]] first and why he should not have made [[&|a]] [[roforonce|reference]] to the [[Nerses|verses]] of Yāj. [[instond|instead]] of referring to pages of some edition which many [[roaders|readers]] might not be [[ablo|able]] to get. [[3780 qarTTGI|अथ पञ्चाध्याय्यां]] बृहस्पतिः । त्रिवर्षे भुज्यते येन समक्षं भूरवादिता । तस्य सा नापहर्तव्या क्षमालिङ्गं न चेद्वदेत् ॥ चतुष्पाद्धनधान्यादि वर्षाद्धानिमवाप्नुयात् ॥ व्यव. नि. p. 132; पञ्चाध्याय्याम् ज्ञातिसामन्तधनिकाः ज्ञाते तात्कालिकाः स्मृताः । दशाहाद्यास्तु ते सर्वे केतुर्[[विक्रतुरेव|विक्रेतुरेव]] च । ज्ञात्यादिगामी तत्क्षेत्र विक्रेतुर्मूल्यकार्पणात् ॥ व्यव. नि. p. 357.
+This is quoted by अपरार्क on p. 1225 from [[मत्स्य पुराण|मत्स्यपुराण]] and on the same page the [[quotos|quotes]] बृहस्पति as 'दशहस्तेन शेन दशवंशाः समन्ततः । पञ्च चाभ्यधिकस्तदेतद्गोचर्मलक्षणम् ॥ -- Prof. Aiyangar (quotes [[Homa. dri|Hemādri]] first and it is not clear why he does not mention [[tho|the]] Mit. and [[Anarārka|Aparārka]] first and why he should not have made [[&|a]] [[roforonce|reference]] to the [[Nerses|verses]] of Yāj. [[instond|instead]] of referring to pages of some edition which many [[roaders|readers]] might not be [[ablo|able]] to get. [[3780 qarTTGI|अथ पञ्चाध्याय्यां]] बृहस्पतिः । त्रिवर्षे भुज्यते येन समक्षं भूरवादिता । तस्य सा नापहर्तव्या क्षमालिङ्गं न चेद्वदेत् ॥ चतुष्पाद्धनधान्यादि वर्षाद्धानिमवाप्नुयात् ॥ व्यव. नि. p. 132; पञ्चाध्याय्याम् ज्ञातिसामन्तधनिकाः ज्ञाते तात्कालिकाः स्मृताः । दशाहाद्यास्तु ते सर्वे केतुर्[[विक्रतुरेव|विक्रेतुरेव]] च । ज्ञात्यादिगामी तत्क्षेत्र विक्रेतुर्मूल्यकार्पणात् ॥ व्यव. नि. p. 357.
 
 [^556]: (1) चोरापहृतं तु सर्वेभ्योऽन्विष्यार्पणीयम् । अलाभे स्वकोशाद्वा । अददच्चोर 
 
 किल्बिषी स्यात् ॥ on या. II. 38 ; (2) धनस्त्रीहारिपुत्राणां पूर्वाभावे यथोत्तर. माधमये तदभावे क्रमशोन्येषां रिक्थभाजाम् । on या. II. 47: (3) [[पादोपच यात्|पादोपचयात्]] क्रमेणेतरेषाम् । on या. II. 39 ; ( 4 ) उपस्थाप्य विपत्तावुपस्थाप्यस्य पुनः प्रतिभूर्दाप्यः । on या. II. 55; (5) अनन्वयिनः सर्व राजा हरेत्तदनुज्ञया वाऽ वरोधज इत्येके । on या. II. 138 ; [[(8)|(6)]] कामतः शूद्रावरोधजस्य भ्रातुरंशं संमानमात्रं प्रेते पितरि दयुः शुश्रूषुश्चेत् ॥ on या. II. 139 ; (7) राजा क्षेत्र दत्वा चातुर्वैयवणिग्वारिकसर्वग्रामीणतन्महत्तरस्वामि पुरुषाधिष्ठितं परिनित न्यात् । शासनं वा कुर्यात् । on या. II. 154 ; (8) यदि शूद्रो नेता स्यात .. 
 
-( Continued on the [[neat|next]] page)
 
 [[P494]]
 
@@ -234,7 +224,7 @@ Prof. Louis Renou of Paris contributed to volume VI (1962) of the Indo-Iranian J
 
 An interesting point, with reference to the collections of verses quoted as from Bṛhaspati or Kātyāyana, the original Smṛtis of which are not now available, is the confusion 
 
-( Continued from the previous page) क्लैब्येनालङ्कारेणालंकृत्य शवं भस्मना मुखं विलिप्यामेयस्य पशोऽशोणितेन पञ्चाङ्गलानि कृत्वा ग्रीवायामान्त्राणि प्रतिमुच्य सव्येन पाणिना सीमालोष्टं मूर्ति Errā i on [[AL.|या.]] II. 156 ; (9) TFT afecarcarrera 7751 
+क्लैब्येनालङ्कारेणालंकृत्य शवं भस्मना मुखं विलिप्यामेयस्य पशोऽशोणितेन पञ्चाङ्गलानि कृत्वा ग्रीवायामान्त्राणि प्रतिमुच्य सव्येन पाणिना सीमालोष्टं मूर्ति Errā i on [[AL.|या.]] II. 156 ; (9) TFT afecarcarrera 7751 
 
 UTAHI | FITTI I on [[IT.|या.]] II. 204; (10) TTTSI 92 TOJIETT: 1 षड्रात्रं वा यावकाहारो गोष्ठे वसेत् । देशकालशक्त्यनुरूपं वा भवेत् । म व नखाद्यपनयनं कृत्वा ब्राह्मणान् प्रणिपत्यानुज्ञातोऽन्ते गां वृष वा तद्वय ददाता ATT TT7 311afercar prefera terata: 1 11. VII. 202. W 
 

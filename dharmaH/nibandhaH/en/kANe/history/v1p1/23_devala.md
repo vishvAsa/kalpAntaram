@@ -15,9 +15,7 @@ In the Mit. there are several prose passages quoted from Devala, e. g. on Yāj. 
 
 [^266]: यथा हि देवलः । द्विविधो गृहस्थो यायावरः शालीनश्च । तयोर्यायावरः प्रवरः याजनाध्यापनप्रतिग्रहरिक्थसंचयवर्जनात् । षट्कर्माधिष्ठितः प्रेष्यचतुष्पदगृहग्रामधनधान्ययुक्तो लोकानुवर्ती शालीन इति ।
 
-[^267]: देवलः । देवमानुषयोर्द्विविधः पुरुषार्थः अभ्युदयो निःश्रेयसमिति । तयोरभ्युदयः पूर्वोक्तः । द्विविधं निःश्रेयसम्-सांख्ययोगाविति । पञ्चविंशतितत्त्वानां सांख्यम् । विषयेभ्यो निवर्त्याभिप्रेतेऽर्थे मनसोऽवस्थापनं योगः । उभयाः पथोः फलम् । जन्ममरणदुःखयोरत्यन्ताभावोऽपवर्गः । एतौ सांख्ययोगौ चाधिकृत्य यैर्मुक्तितः समयतश्च पूर्वप्रणीतानि विशालानि गम्भीराणि तन्त्राणीह ( Continued on the next page )
-
-[[P281]] 
+[^267]: देवलः । देवमानुषयोर्द्विविधः पुरुषार्थः अभ्युदयो निःश्रेयसमिति । तयोरभ्युदयः पूर्वोक्तः । द्विविधं निःश्रेयसम्-सांख्ययोगाविति । पञ्चविंशतितत्त्वानां सांख्यम् । विषयेभ्यो निवर्त्याभिप्रेतेऽर्थे मनसोऽवस्थापनं योगः । उभयाः पथोः फलम् । जन्ममरणदुःखयोरत्यन्ताभावोऽपवर्गः । एतौ सांख्ययोगौ चाधिकृत्य यैर्मुक्तितः समयतश्च पूर्वप्रणीतानि विशालानि गम्भीराणि तन्त्राणीह [[P281]] 
 
 a very long passage, in which [[Sārkhya|Sāṅkhya]] and Yoga are defined; reference is made to extensive [[Tantrus|Tantras]] on the two systems and a brief résumé is given of the [[Sārkhya|Sāṅkhya]] system, which greatly resembles the Sāṅkhya-kārikā and the [[Tattvasa māsa|Tattvasamāsa]]. On Yāj. III. 227 [[A parārka|Aparārka]] has a prose quotation from Devala about *patitas*. In the [[Smṛticandriki|Smṛticandrikā]] ( I. p. 63 ) there is a lengthy passage from Devala on the daily duties of the [[brahmucārin|brahmacārin]], a sūtra ( I. p. 52 ) is quoted about [[brahma carya|brahmacarya]] for 48 years and in another place there is a prose passage about the wife’s duties.[[408|[^268]]]
 

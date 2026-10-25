@@ -35,13 +35,12 @@ Kāmaśāstra.[[868|[^368]]] In the last [[parvan|_parvan_]] it claims that what
 
 8800 is extremely [[oxaggerated|exaggerated]]. If the figure were [[corrects|correct it]] would mean that in the [[Mabābharata|Mahābhārata]] [[ono|one]] [[vorse|verse]] in twelve [[veesistant|was a]] riddle. Vaidya in his [[work Mahabharata, a criticism's vaso7|work 'Mahābhārata, a criticism' p.207]] 
 
-([[Continual|Continued]] on the next page) 
 
 [[P351]] 
 
 Bhārata means the epic without the upākhyānas [[( tales )|(tales)]] and [[contaius|contains]] 24000 verses and the work [[Mahābhūrata|Mahābhārata]] consists of one hundred thousand verses inclusive of the upākhyānas [[( Ādi.|(Ādi.]] 1.101-2). The Ādiparva (63.89-90) states that Vyāsa[[ 37a|[^372]]] taught the four Vedas together with the [[Mahābhūruta|Mahābhārata]] as the fifth to four pupils viz. Sumantu, Jaimini, Paila, [[Vaiśampā. yana|Vaiśampāyana]] and to Śuka his own son and these five [[promulyated|promulgated]] separate five versions of the story. The Śāntiparva (chap. 327. 26-33 and 349. [[10-12 )|10-12)]] repeats the same story about the five pupils of Vyāsa. The extant Mahābhārata is supposed to be the one that Vaiśampāyana narrated to Janamejaya, son of Parikṣit, the latter being the grand-son of Arjuna and son of Abhimanyu. It is said in Ādi [[( 1.9-10 )|(1.9-10)]] that Sauti heard the story narrated to Janamejaya and told it to Śaunaka and other sages. Thus there are (acc. to the epic itself) three stages, viz. (1) Vyāsa first transmitted the epic to five [[pupils ;|pupils;]] (2) these five including [[Vaiśumpāyana|Vaiśampāyana]] composed separate works and Vaiśampāyana narrated it to Janamejaya, and (3) [[Sakti|Sauti]] who heard the recital by Vaiśampāyana [[narra|narra-]] 
 
-([[ Continued|Continued]] from the previous page) examples of Kūṭa [[rergos|verses]] in [[Appondix|Appendix]], Note III pp. [[190.193.|190-193.]] One of these may be quoted [[hore|here]] from the [[Ulyognparva|Udyogaparva]] ; [[oknyā|'ekayā]] [[dvo|dve]] [[vini. scitya|viniścitya]] trin [[oaturbhir|caturbhir]] [[vnsam|vaśaṃ]] kuru [[i| |]] [[pnica|pañca]] [[jitvi :nd-viditvā|jitvā ṣaḍ-viditvā]] [[snpta|sapta]] hitvā sukhī bhava [[113 :44.|‖ Udyogaparva 33.44.]] Most of [[those Sovou|these seven]] [[hnve|have]] two [[mennings,|meanings,]] one relating to [[Rījaniti,|Rājanīti,]] [[tho|the]] other [[relating to adhyatma',|relating to 'adhyātma',]] briefly as follows: [[cknya... budehyi|ekayā... buddhyā]] (by [[nue's|one's]] intellect); [[dre! moans|dve means]] [[kāryn|kārya]] [[( what should be done )|(what should be done)]] and [[sakarya'|akārya']] [[(in Rajapiti )|(in Rājanīti)]] and [[ditya '|nitya']] [[(pornanont )|(permanent)]] and 'anitya' [[( ovinoscont)|(evanescent)]] (in adhyātma); trin [[(three )|(three)]] [[viz,|viz.]] mitra [[( friend )|(friend)]], [[urlisinn|udāsīna]] [[(nentral)|(neutral)]], [[śntru|śatru]] [[( enemy)|(enemy)]]; or [[Kama'|'Kāma']] [[( desirog)|(desires)]], Krodha [[(angor )|(anger)]], [[Lobla|Lobha]] [[( grood )|(greed)]]; caturbhiḥ (four) [[viz, sim,|viz. sāma,]] dāma, [[bhorn and dana|bheda and daṇḍa]] (in [[Rijaniti|Rājanīti]]) and [[sma,|śama,]] [[daina,|dama,]] uparama, śraddhā (in [[achyatma|adhyātma]]); pañca [[( the five organs of Bonso,|(the five organs of sense,]] in both [[rājaniti and adhyātina|rājanīti and adhyātma]]); [[sud|ṣaḍ]] (six) [[vizi,|viz.]] sandhi and others [[ou umornted|enumerated]] in [[Menu|Manu]] [[VII. 160|VII.160]] and in [[Vodānta|Vedānta]] [[aśanāyā, pipāsī, sokn, mohn, jari, m?tyn';|'aśanāyā, pipāsā, śoka, moha, jarā, mṛtyu';]] [[sapla|sapta]] [[(Boven )|(seven)]] viz. [[\"Yn8112038|vyasanas—]] women, gambling, hunting, drinking, [[vākpāru;ya,|vākpāruṣya,]] [[dandapirusya|daṇḍapāruṣya]] and [[arthadūna na|arthadūṣaṇa]] [[(in Rija")|(in Rāja°)]] and the five [[sunses|senses]] plus mind and [[buddbi|buddhi]] in adhyātma. For the last, compare [[Maitrāyapi|Maitrāyaṇī]] [[Upanisnd|Upaniṣad]] [[VI. 30|VI.30]] ([[Ynda|Yadā]] [[pancivatishanto|pañcāvatiṣṭhante]] [[jñānini inanusā suba|jñānāni manasā saha]] | Buddhiśca na [[vioestate|viceṣṭate]] tāmāhuḥ [[paramim yutiin 11).|paramāṃ gatim ||).]] [^372]: [[वदानध्यापयामास|वेदानध्यापयामास]] महाभारतपञ्चमान् । सुमन्तुं जैमिनिं पैलं शुकं [[र|चैव]] स्वमात्मजम् । प्रभुर्वरिष्ठो वरदो वैशम्पायनमेव च ॥ संहितास्तैः [[पृथक्त्वम्|पृथक्त्वेन]] [[WITHFT TARAT: 1 311 83. 89-90.|भारतस्य प्रकाशिताः । आदि 63.89-90.]] 
+examples of Kūṭa [[rergos|verses]] in [[Appondix|Appendix]], Note III pp. [[190.193.|190-193.]] One of these may be quoted [[hore|here]] from the [[Ulyognparva|Udyogaparva]] ; [[oknyā|'ekayā]] [[dvo|dve]] [[vini. scitya|viniścitya]] trin [[oaturbhir|caturbhir]] [[vnsam|vaśaṃ]] kuru [[i| |]] [[pnica|pañca]] [[jitvi :nd-viditvā|jitvā ṣaḍ-viditvā]] [[snpta|sapta]] hitvā sukhī bhava [[113 :44.|‖ Udyogaparva 33.44.]] Most of [[those Sovou|these seven]] [[hnve|have]] two [[mennings,|meanings,]] one relating to [[Rījaniti,|Rājanīti,]] [[tho|the]] other [[relating to adhyatma',|relating to 'adhyātma',]] briefly as follows: [[cknya... budehyi|ekayā... buddhyā]] (by [[nue's|one's]] intellect); [[dre! moans|dve means]] [[kāryn|kārya]] [[( what should be done )|(what should be done)]] and [[sakarya'|akārya']] [[(in Rajapiti )|(in Rājanīti)]] and [[ditya '|nitya']] [[(pornanont )|(permanent)]] and 'anitya' [[( ovinoscont)|(evanescent)]] (in adhyātma); trin [[(three )|(three)]] [[viz,|viz.]] mitra [[( friend )|(friend)]], [[urlisinn|udāsīna]] [[(nentral)|(neutral)]], [[śntru|śatru]] [[( enemy)|(enemy)]]; or [[Kama'|'Kāma']] [[( desirog)|(desires)]], Krodha [[(angor )|(anger)]], [[Lobla|Lobha]] [[( grood )|(greed)]]; caturbhiḥ (four) [[viz, sim,|viz. sāma,]] dāma, [[bhorn and dana|bheda and daṇḍa]] (in [[Rijaniti|Rājanīti]]) and [[sma,|śama,]] [[daina,|dama,]] uparama, śraddhā (in [[achyatma|adhyātma]]); pañca [[( the five organs of Bonso,|(the five organs of sense,]] in both [[rājaniti and adhyātina|rājanīti and adhyātma]]); [[sud|ṣaḍ]] (six) [[vizi,|viz.]] sandhi and others [[ou umornted|enumerated]] in [[Menu|Manu]] [[VII. 160|VII.160]] and in [[Vodānta|Vedānta]] [[aśanāyā, pipāsī, sokn, mohn, jari, m?tyn';|'aśanāyā, pipāsā, śoka, moha, jarā, mṛtyu';]] [[sapla|sapta]] [[(Boven )|(seven)]] viz. [[\"Yn8112038|vyasanas—]] women, gambling, hunting, drinking, [[vākpāru;ya,|vākpāruṣya,]] [[dandapirusya|daṇḍapāruṣya]] and [[arthadūna na|arthadūṣaṇa]] [[(in Rija")|(in Rāja°)]] and the five [[sunses|senses]] plus mind and [[buddbi|buddhi]] in adhyātma. For the last, compare [[Maitrāyapi|Maitrāyaṇī]] [[Upanisnd|Upaniṣad]] [[VI. 30|VI.30]] ([[Ynda|Yadā]] [[pancivatishanto|pañcāvatiṣṭhante]] [[jñānini inanusā suba|jñānāni manasā saha]] | Buddhiśca na [[vioestate|viceṣṭate]] tāmāhuḥ [[paramim yutiin 11).|paramāṃ gatim ||).]] [^372]: [[वदानध्यापयामास|वेदानध्यापयामास]] महाभारतपञ्चमान् । सुमन्तुं जैमिनिं पैलं शुकं [[र|चैव]] स्वमात्मजम् । प्रभुर्वरिष्ठो वरदो वैशम्पायनमेव च ॥ संहितास्तैः [[पृथक्त्वम्|पृथक्त्वेन]] [[WITHFT TARAT: 1 311 83. 89-90.|भारतस्य प्रकाशिताः । आदि 63.89-90.]] 
 
 [[372352|[[P352]]]] 
 
@@ -121,7 +120,6 @@ It is clear that the Mahābhārata had become, long before the 7th century A. D.
 
 [^376]: [[In The Indo-Grooks', Oxford, 1957 )|In ‘The Indo-Greeks’ ( Oxford, 1957 )]] Dr. A. K. Narain [[providos|provides]] a plate [[(VI),|( VI ),]] at the end of which he sets out the [[Heliodurus Inscrip. tion|Heliodorus Inscription]] on the Besnagar Pillar in nine lines as follows [[(in Brābuni characters ):|( in Brāhmī characters ) :]] १ (दे )वदेवस वा ( सुदे )वस गरुडध्वजे अयं २ कारिते इ (अ) हेलिओडेरेण भाग-- ३ वतेन दियस पुत्रेण [[तक्खसिलोकन 7 योन-दतेन|तक्खसिलाकेन ४ योन-दूतेन]] (आ) गतेन महाराजस ५ अंतलिकितस उपं ता सकासं [[रजो।|रजो]] ६ (को) सिपु (त्र) स (भा) गभद्रस त्रातारस ७ वसेन च (तु) दसेन राजेन वधमानस ८ त्रिनि अमुतपदानि इअ [[(सु ) अनुटित्तानि|( सु ) अनुठितानि]] ९ नेयंति [[(स्वर्ग)|( स्वर्ग )]] दम चाग अप्रमाद. 
 
-([[Continuall|Continued]] on the next page)
 
 [[P356]]
 
@@ -137,13 +135,12 @@ Before proceeding further it must first be emphasized that the Mahābhārata cla
 
 
 
-( Continued from the previous page ) Vide [[ulso|also]] JRAS 1909 pp. 1053-6 and 1087-92 and JBBRAS vol. 23 pp. [[161-166|164-166]] for prior attempts at [[rouding|reading]] this very important inscription. [[CHEIITTISTA172 gāsatgalie H i na nyanyia|दमस्त्यागोऽप्रमादश्च एतेष्वमृतमाहितम् । तानि सत्यमुबान्याहु-]] 
+Vide [[ulso|also]] JRAS 1909 pp. 1053-6 and 1087-92 and JBBRAS vol. 23 pp. [[161-166|164-166]] for prior attempts at [[rouding|reading]] this very important inscription. [[CHEIITTISTA172 gāsatgalie H i na nyanyia|दमस्त्यागोऽप्रमादश्च एतेष्वमृतमाहितम् । तानि सत्यमुबान्याहु-]] 
 
 [[ाह्मणा|र्ब्राह्मणा]] ये मनीषिणः ॥ उद्योगपर्व 43-22 ; दमस्त्यागोऽप्रमादश्च ते त्रयो ब्रह्मणो 
 
 [[41: 1 taft pat|हयाः । स्त्रीपर्व]] 7. 23. [[Bosnagar|Besnagar]] is about two miles to the north-west of Bhilsa in [[tho|the]] Gwalior [[Stato.|State.]] [[(1) FATE T19.4. II. 3. 47;|( 1 ) स्मरन्ति च । वे. सू. II. 3. 47 ;]] [[41427777f|शंकराचार्य]] remarks[[:| :]] [[FARFET|स्मरन्ति च]] व्यासादयो यथा जैवेन दुःखेन न परमात्मा दुःखायत इति । [[बनाया RATAT... Tag aufi tiftar yana ga: Il These vornos a full|परमात्मा...स सप्तदशकेनापि राशिना युज्यते पुनः ॥ These verses are full]]
 
-( Continued on the next page)
 
 [[P357]]
 
@@ -153,7 +150,7 @@ The words [[Gūtha|Gāthā]] and Śloka occur in the Ṛgveda. Gāthā ( derived
 
 .......------- 
 
-( Continued from the previous page [[)| )]] [[351. 14--18|351. 14-16]] ; no other smṛti passages are quoted by him on this sūtra and also on the next [[siltra|sūtra]] quoted [[hero.|here.]] [[(2)|( 2 )]] अपि च संराधने [[प्रत्यक्षा. नुमानाभ्याम्|प्रत्यक्षा- नुमानाभ्याम्]] । वे. सू. [[III. 2.24;|III. 2. 24 ;]] शंकराचार्य explains ‘ प्रत्यक्षानुमानाभ्याम् श्रुतिस्मृतिभ्यामित्यर्थः ’ and quotes a verse and a half ; the first [[ocours|occurs]] in Śānti 47. 54 and also in 284. 69 ; [[(3)|( 3 )]] स्मर्यते च । वे. सू. IV. 2. 14 शङ्कराचार्य [[explaing|explains]] : स्मर्यतेपि च [[महाभारने|महाभारते]] गत्युत्क्रान्त्योरभावः-[[सर्वभूतात्म भूतस्य|सर्वभूतात्म- भूतस्य]] सम्यग्भूतानि पश्यतः । देवा अपि मार्गे मुह्यन्त्यपदस्य पदैषिणः ॥ इति...तथा च त तत्रैवोपसंहृतम् । शुकस्तु मारुच्छीघ्रां गतिं कृत्वान्तरिक्षगः । दर्शयित्वा प्रभावं स्वं सर्वभूतगतोऽभवत् ॥ इति । The verses are [[Santi.|Śānti- parva 262. 32 ( and also 269. 22 and 333. 19-20 ).]] 
+[[)| )]] [[351. 14--18|351. 14-16]] ; no other smṛti passages are quoted by him on this sūtra and also on the next [[siltra|sūtra]] quoted [[hero.|here.]] [[(2)|( 2 )]] अपि च संराधने [[प्रत्यक्षा. नुमानाभ्याम्|प्रत्यक्षा- नुमानाभ्याम्]] । वे. सू. [[III. 2.24;|III. 2. 24 ;]] शंकराचार्य explains ‘ प्रत्यक्षानुमानाभ्याम् श्रुतिस्मृतिभ्यामित्यर्थः ’ and quotes a verse and a half ; the first [[ocours|occurs]] in Śānti 47. 54 and also in 284. 69 ; [[(3)|( 3 )]] स्मर्यते च । वे. सू. IV. 2. 14 शङ्कराचार्य [[explaing|explains]] : स्मर्यतेपि च [[महाभारने|महाभारते]] गत्युत्क्रान्त्योरभावः-[[सर्वभूतात्म भूतस्य|सर्वभूतात्म- भूतस्य]] सम्यग्भूतानि पश्यतः । देवा अपि मार्गे मुह्यन्त्यपदस्य पदैषिणः ॥ इति...तथा च त तत्रैवोपसंहृतम् । शुकस्तु मारुच्छीघ्रां गतिं कृत्वान्तरिक्षगः । दर्शयित्वा प्रभावं स्वं सर्वभूतगतोऽभवत् ॥ इति । The verses are [[Santi.|Śānti- parva 262. 32 ( and also 269. 22 and 333. 19-20 ).]] 
 
 [[parva 282. 32 { and also 260. 22 and 333. 19-20 ).|]]378 न ते वागनृता काव्ये काचिदत्र भविष्यति । तस्य बुद्धिरियं जाता [[वाल्मीके|वाल्मीके-]] 
 
@@ -273,7 +270,7 @@ means Uśanas. Vide [[Amarakosass|Amarakośa]] quoted below. Hopkins, in spite o
 
 [^392]: न हन्तव्याः [[स्त्रियश्चति|स्त्रियश्चेति]] यद्ब्रवीषि प्लवङ्गम । पीडाकरममित्राणां [[यच|यच्च]] कर्तव्यमेव तत् ॥ युद्धकाण्ड [[81. 29-30|81.29-30]] ; Compare [[अवध्या नियमित्याह|अवध्यां स्त्रियमित्याह]] धर्मसाधर्मनिश्चये । आदि [[158. 31|158.31]] ; अवध्याः स्त्रियः सृष्टा मन्यन्ते धर्मचारिणः । आदि [[217. ' ;|217.4 ;]] vide also वनपर्व 206.43.
 
-[[398|[^393]]]: आख्याते [[रामचरित|रामचरिते]] नृपतिं प्रति भारत ॥ राजानं [[प्रथम|प्रथमं]] विन्देत्ततो [[भार्या|भार्यां]] ततो धनम् । राजन्यसति लोकस्य कुतो भार्या कुतो धनम् ॥ शान्ति [[67. 40-41|67.40-41]]; अयोध्याकाण्ड [[67. 11|67.11]] is ‘अराजके धनं नास्ति नास्ति भार्याप्यराजके । इदमत्याहितं चान्यत्कुतः सत्यमराजके ॥’ ; राज्येऽसति कुतो धर्मो धर्मेऽसति कुतः परम् । शान्ति[[•|०]] [[320. 59.|320.59.]]
+[^393]: आख्याते [[रामचरित|रामचरिते]] नृपतिं प्रति भारत ॥ राजानं [[प्रथम|प्रथमं]] विन्देत्ततो [[भार्या|भार्यां]] ततो धनम् । राजन्यसति लोकस्य कुतो भार्या कुतो धनम् ॥ शान्ति [[67. 40-41|67.40-41]]; अयोध्याकाण्ड [[67. 11|67.11]] is ‘अराजके धनं नास्ति नास्ति भार्याप्यराजके । इदमत्याहितं चान्यत्कुतः सत्यमराजके ॥’ ; राज्येऽसति कुतो धर्मो धर्मेऽसति कुतः परम् । शान्ति[[•|०]] [[320. 59.|320.59.]]
 
 [^394]: शुको दैत्यगुरुः काव्य उशना भार्गवः कविः । अमरकोश.
 
@@ -347,11 +344,10 @@ they are in the Mahābhārata.[[403|[^403]]] गुरोरप्यवलि�
 
 as endowed with the qualities they bear in the extant [[Rāmā. yana.|Rāmāyaṇa.]] Therefore, one may conclude that there was a Bhārata epic long before there was a Rāma epic. From the way in which the Vānaras led by Aṅgada ( Kiṣkindhā 41. 6ff) among whom were included such doughty fighters as Hanūmat, Nīla, Jāmbavat, were directed to go from Kiṣkindhā towards the south in search of Sītā carried away to Laṅkā by Rāvaṇa, one feels that the author did not correctly know the different countries that the Vānaras would have had to traverse before reaching Laṅkā. Sugrīva is said to have told them to go from Kiṣkindhā to the south and one is surprised to read that Sugrīva first mentions the Vindhya mountain with its thousand peaks and immediately afterwards Narmadā (chap. 41.8 ) and then mentions Godāvarī, [[Kronavenī|Kṛṣṇaveṇī]], Varadā ( 41.9), Mekala, Utkala, Daśārṇa towns, Avantī ( 41.10 ), Vidarbha, Vaṅga, Kaliṅga ( 41.11 ). It is unnecessary to cite more. The present writer is constrained to hold that whoever wrote that chapter was an inhabitant of a place north of the Narmadā [[(which springs|( which springs]] from Mekala )[[405|[^405]]] and knew only the names of towns, rivers and countries without knowing their exact [[loca tion|location]]. The author had probably never been to the island of Ceylon nor [[kuew|knew]] anything about the distance between India and Ceylon nor [[haid|had]] he any idea about the extent of Ceylon. It was all a poetic fancy without any solid basis of known facts, even ancient. Kiṣkindhā is now shown to be a village on the Tuṅgabhadrā river in the Bellary District. We know from the Araṇyakāṇḍa ( chap. 13 ) that Agastya directed Rāma to have a hut in Pañcavaṭi near Godāvarī and from that place [[be|he]] later went to [[Royamūka|Ṛśyamūka]] near Pampā where dwelt Sugrīva with four others ( Araṇya. 72.11-12 ).[[406|[^406]]] 
 
-[[406|[^405]]] Vide Amarakośa which says [[‘Tard TTT THAT À* Print’|‘रेवा तु नर्मदा सोमोद्भवा मेकलकन्यका’.]] [[406|[^406]]] Several scholars have [[writton|written]] about the location of Laṅkā. Mr. M. 
+[^405]: Vide Amarakośa which says [[‘Tard TTT THAT À* Print’|‘रेवा तु नर्मदा सोमोद्भवा मेकलकन्यका’.]] [[406|[^406]]] Several scholars have [[writton|written]] about the location of Laṅkā. Mr. M. 
 
 V. Kibe locates Laṅkā in [[Lauka|Laṅkā]] in [[contral|central]] India (vide ABORI Vol. XVII pp. 371-384; F. W. [[Thoinas prosentation|Thomas presentation]] Vol. pp. 144-5; J. C. Ghosh in ABORI vol, XIX pp. 84-86; Daniel John in ABORI vol. XXI pp. 270-279 ( who holds that Mr. Kibe is wrong and that Lankā must be some island in the [[inidst|midst]] of the [[son|sea]] off the southern or south-eastern [[count|coast]] of [[tho|the]] [[prosent|present]] island of [[Coylon|Ceylon]]. [[Mr,|Mr.]] G. K. [[Ramdus|Ramdas]] holds [[thut|that]] [[·|‘]]Rāvaṇa's Laṅkā' was [[pour|near]] [[Ainarakantaka|Amarakaṇṭaka]] ([[xing|vide]] I. H. Q. vol. IV pp. 338-346). In A. B. [[0.|O.]] R. I. Vol. XIX at p. [[8oront|80]] [[is|it is]] pointed out that a portion of Orissa was known as [[Lankāmena M. 8. Anoy|Laṅkā. M. S. Aney]] in his [[papor|paper]] [[“|‘]]The Rāmāyaṇa tradition in the [[PORARE|present]] 
 
-(Continued on the next page)
 
 [[P374]]
 
@@ -359,7 +355,7 @@ It has been shown above that the Rāma story and [[chara cters|characters]] are 
 
 Just as the story of Nala-Damayantī was set out in the Mahābhārata from a tale current in early days, so the Rāma story might have been only a popular tale in the beginning and was later turned into an epic, but the Mahābhārata, if it had directly borrowed from the Rāmāyaṇa, would not have differed from the epic on such an important matter as the killer of Kumbhakarṇa. Therefore, it is very probable that the Rāma tale was included in the Vanaparva at a time when the Rāmāyaṇa in its present form did not exist. The present writer holds that the Mahābhārata assumed its present form certainly before the Christian era, but how much earlier it is difficult to say. 
 
-( Continued from the previous page ) day Ceylon' in the Proceedings of the A. I. [[0.|O.]] Conference at [[Dar bhanga|Darbhanga]] ( [[1048|1948]] ), pp. 206-218 tries to show that Laṅkā is the present Ceylon and supports his [[viow|view]] by referring to the Sundarakāṇḍa, Mahāvaṃśa, Rājāvali and some similar works. I regret that his arguments [[aro|are]] far from convincing. In [[tho|the]] Sundarakāṇḍa Laṅkā is not an island but is described as [[tho|the]] capital of Rāvaṇa situated beyond the sea on the slopes of Trikuṭa and surrounded by a wall as the [[versos|verses]] quoted below testify. The Mahābhārata mentions Siṃhala and Laṅkā [[soparntoly|separately]] [[(Vanaparva 01.|( Vanaparva 61.]] 23 Siṃhalān [[Barba. rān|Barbarān]] [[mlecchun|mlecchān]] ye ca [[Lankiniviisinaḥ|Laṅkānivāsinaḥ]] ). The [[Dipavamsa|Dīpavaṃśa]] is the [[ear: liest chroniolo|earliest chronicle]] (about Ceylon) and it is not [[oarlier|earlier]] than the 4th [[ceatury|century]] A. D. and the [[Mahavarisa|Mahāvaṃśa]] is much later (6th century or later ). They are not reliable authorities for [[ovonts|events]] that [[aro|are]] [[guppo sed|supposed]] to have [[lapponou|happened]] [[govoral|several]] [[couturies|centuries]] before Christ. स सागरमनाधृष्यमतिक्रम्य महाबलः । त्रिकूटस्य तटे [[लहुन|लङ्कां]] स्थितः ATT T T II ... TATATU 7 SEATAEt Trauen argia H49T: FIETOSTITEATH i rep a spus 2. 7--8; at which is Tarraga: 31ATH 1 97*To 3. 13, 
+day Ceylon' in the Proceedings of the A. I. [[0.|O.]] Conference at [[Dar bhanga|Darbhanga]] ( [[1048|1948]] ), pp. 206-218 tries to show that Laṅkā is the present Ceylon and supports his [[viow|view]] by referring to the Sundarakāṇḍa, Mahāvaṃśa, Rājāvali and some similar works. I regret that his arguments [[aro|are]] far from convincing. In [[tho|the]] Sundarakāṇḍa Laṅkā is not an island but is described as [[tho|the]] capital of Rāvaṇa situated beyond the sea on the slopes of Trikuṭa and surrounded by a wall as the [[versos|verses]] quoted below testify. The Mahābhārata mentions Siṃhala and Laṅkā [[soparntoly|separately]] [[(Vanaparva 01.|( Vanaparva 61.]] 23 Siṃhalān [[Barba. rān|Barbarān]] [[mlecchun|mlecchān]] ye ca [[Lankiniviisinaḥ|Laṅkānivāsinaḥ]] ). The [[Dipavamsa|Dīpavaṃśa]] is the [[ear: liest chroniolo|earliest chronicle]] (about Ceylon) and it is not [[oarlier|earlier]] than the 4th [[ceatury|century]] A. D. and the [[Mahavarisa|Mahāvaṃśa]] is much later (6th century or later ). They are not reliable authorities for [[ovonts|events]] that [[aro|are]] [[guppo sed|supposed]] to have [[lapponou|happened]] [[govoral|several]] [[couturies|centuries]] before Christ. स सागरमनाधृष्यमतिक्रम्य महाबलः । त्रिकूटस्य तटे [[लहुन|लङ्कां]] स्थितः ATT T T II ... TATATU 7 SEATAEt Trauen argia H49T: FIETOSTITEATH i rep a spus 2. 7--8; at which is Tarraga: 31ATH 1 97*To 3. 13, 
 
 [[P375]]
 
@@ -381,13 +377,12 @@ For example, the Pardi plates of Dahra-sena of Saṃvat 207 (probably of the Kal
 
 [^410]: On p. 137 (Gupta Inscription No. 31 ) the Inscription ends with [[tho|the]] words 'उक्तं च महाभारते शतसाहस्यां संहितायां परमर्षिणा पराशर• सुतेन वेदव्यासेन व्यासेन । पूर्वदत्तां द्विजाति ... पालनम् ॥ प्रायेण हि . वसुन्धराम् ॥ बहुभिर्वसुधा ... तदा फलम् ॥ षष्टिवर्षस...नरके वसेत् ।। स्वंद
 
-( Continued on the next page)
 
 [[P377]]XI.93 he quotes ' Ubhau [[Madhvõsavaksibau|Madhvāsavakṣībau]]'(Udyoga 59.5); on IX.64 he quotes Śānti [[63.13411|63.134[^411]]] that the Śūdra is [[entit led|entitled]] to three āśramas but not to that of parivrājaka. On Manu VII. 177 he quotes the well-known verse [[na kascit kasyacit'|‘na kaścit kasyacit’]] [[( quoted above)|(quoted above)]]. The Mit. quotes the Mahābhārata or Vyāsa frequently (e. g. on Yāj. [[1.72|I.72]],86, 256, III. 6, 250, 258, 300 ). Aparārka quotes from the Mahābhārata dozens of [[verges|verses]], but the quotations from Vyāsa include many verses on [[Vyava bāra|Vyava-hāra]] attributed to Vyāsa which do not occur in the [[Mahā bhārata|Mahā-bhārata]]. The Kṛtyakalpataru sparingly quotes the [[Mahā bhārata|Mahā-bhārata]]. It is unnecessary to refer to other and later digests on the question of [[the, date|the date]] and text of the Mahābhārata.
 
 When ancient Indians came to Java they brought with them their sacred books. The Mahābhārata soon became most popular among the Javanese. Portions of the [[Mahā bhārata|Mahā-bhārata]] were [[renderad|rendered]] into old Javanese or Kavi poetry. This work is known as Brata Yuda (modern Javanese) i.e. Bhārata Yuddha. The Kalasan Inscription of the [[suka|Śaka]] year 700 ( 778 A. D. ) found in a temple in central Java is the earliest Javanese Inscription written in a North Indian script. It was published by Dr. R. G. Bhandarkar in JBBRAS Vol. VII part 2 from a [[photograjih|photograph]] copy sent to him from Batavia. It opens with a salutation to [[Tūrā|Tārā]], Buddhist goddess. The temple was constructed by the Rājaguru (king's chaplain ) of a king of the Śailendra dynasty. It contains twelve verses one of which is quoted below[[.412|.[^412]]] Sardar K. M. Panikkar's 
 
-(Continued from the previous page ) [[acant at... Haifa il 3777ihSacoiny...tj gran ll|परदत्तां वा...मजति ॥ अपानीयवर(?)ण्येषु....दायं हरन्ति यं ॥]] Vide the list of imprecatory verses from inscriptions set out in H. of [[Db,|Dh.]] vol. II pp. 1271-77. [[Tbo|The]] above five verses are respectively Nos. 6, 13 (reads [[T3IHT|नाशुभा]] ), 1, 2, 4 and the last is not in that list. Vide under [[Mapusmrti|Manusmṛti]] about these [[vernes|verses]] being sometimes attributed to 
+[[acant at... Haifa il 3777ihSacoiny...tj gran ll|परदत्तां वा...मजति ॥ अपानीयवर(?)ण्येषु....दायं हरन्ति यं ॥]] Vide the list of imprecatory verses from inscriptions set out in H. of [[Db,|Dh.]] vol. II pp. 1271-77. [[Tbo|The]] above five verses are respectively Nos. 6, 13 (reads [[T3IHT|नाशुभा]] ), 1, 2, 4 and the last is not in that list. Vide under [[Mapusmrti|Manusmṛti]] about these [[vernes|verses]] being sometimes attributed to 
 
 Manu and the criticism of Hopkin's views [[theroon|thereon]]. [[4ll|[^411]]]: 'न पृथिव्यां व्रीहियवं हिरण्यं पशवः [[खियः|स्त्रियः]] । नालमेकस्य तत्सर्वमिति मत्वा [[शर्म|शमं]] 
 
@@ -397,7 +392,6 @@ Manu and the criticism of Hopkin's views [[theroon|thereon]]. [[4ll|[^411]]]: '�
 
 [[male harini talent and greatzt hala:|न्योयं धर्मसेतुर्नराणां काले काले पालनीयो भवद्भिः ॥]] It is the same 
 
-( Continued on the next page )
 
 [[P378]]paper on [['Manipravāla in Java'in|‘Maṇipravāla in Java’ in]] ‘Kunhan Raja Presentation volume pp. 65-69[[ '|’]] shows how from the 12th century A. D. onwards poems were composed in Java in the local [[kavi|_kavi_]] language, employed different Sanskrit metres and took over stories from the Sanskrit kāvyas of Kālidāsa, Bhāravi and the episodes in the Mahābhārata and adopted Sanskrit theories of rhetoric and [[ala; kāras|alaṅkāras]] (figures of [[speech )|speech)]]. Several European scholars have worked on this subject. Vide for example, Louis Finot's learned paper in I. H. Q. vol. I pp. 599-622 [[( on the|(on the]] geography and chronology of Indian civilization in [[Indo China')|Indo-China’)]] in which he gives the names of several Dutch and French scholars [[( as his|(as his]] predecessors in the same field ). He remarks [[India|‘India]] has laid her mark on all the great Eastern countries some of which received a substantial part of their religious and artistic culture from India and others are indebted to her for their very existence as civilized [[states'|states’]]. [[For Srivijaya', vide 'La Royamme de Srivijaya'|For ‘Śrīvijaya’, vide ‘La Royamme de Śrīvijaya’]] by G. Coedes mentioned by Finot's paper [[(1). 619)|(p. 619)]] and Prof. Nilakanta Sastri in 'Bulletin of the 'l'ecole de Extreme Orient', Tome XV fasc. 2 pp. 239 ff ( Hanoi ). 
 
@@ -409,7 +403,7 @@ The commentary called Bhāratabhāvadīpa of Nīlakaṇṭha Caturdhara [[( son 
 
 
 
-( Continued from the previous page) No. 10 on p. 1273 of the H of [[Dh,|Dh.]] vol. II, with this [[difforonco|difference]] that the order of the two halves is reversed and that the words [[underlinod|underlined]] are [[difforently road is this ins,|differently read in this ins.]] namely [[THIET E LOFT|राजसिंहः for]]
+No. 10 on p. 1273 of the H of [[Dh,|Dh.]] vol. II, with this [[difforonco|difference]] that the order of the two halves is reversed and that the words [[underlinod|underlined]] are [[difforently road is this ins,|differently read in this ins.]] namely [[THIET E LOFT|राजसिंहः for]]
 
 [[THT: , Toti for 7910T|रामचन्द्रः, नराणां for नृपाणां]] and [[waiaam ... -572|सर्वानेवागा...न्द्रान्]] for [[भाविनी|भाविनो]] भूमिपालान् . 
 
@@ -485,7 +479,6 @@ Ara eral ari y a 11 31rarat ha: TUOI Type 01. 27–32. 419 (1) FTTET TI-*. I, 15
 
 140. 6-7, Tae 140. 7-8. (3) FITOTT:-. 1. 4. 13, I. 13.8, Sifa 18.30, 67. 16, 42 v1.0 (4) Harilor rando- AI XI, 180, IECT 165. 37. 
 
-( Continued on the next page ) 
 
 [[P386]] 
 ## THE RĀMĀYAṆA 
@@ -493,7 +486,7 @@ It is remarkable that an Italian scholar G. Gorrecio, published the text of the 
 
 There are several recensions of the Rāmāyaṇa, three being well-known, viz. the Southern represented by the [[Guja rati|Gujarati]] Press edition in seven parts and the Nir. edition in two parts, the Bengali recension (represented by Gorrecio's [[edi tion|edition]] ) and North-western recension represented by the edition of the Rāmāyaṇa published by the D. A. V. College, Lahore in 1923 ff. The Southern recension is the most widely spread of the three. Jacobi found differences in these [[recen sions|recensions]] and classified them and arrived at the following conclusions :- (1) Each recension differs from both or one of the other two in the common verses, the Southern recension 
 
-( Continued from the previous page ) ( 5 ) एकं हन्यान्न वा हन्यादिषुः क्षिप्तो धनुष्मता। प्राज्ञेन तु मतिः क्षिप्ता [[हन्याद|हन्याद्गर्भगतानपि ॥]] 
+( 5 ) एकं हन्यान्न वा हन्यादिषुः क्षिप्तो धनुष्मता। प्राज्ञेन तु मतिः क्षिप्ता [[हन्याद|हन्याद्गर्भगतानपि ॥]] 
 
 [[Hotarafa il t. X. 6. 51, Jan. 33. 43.|कौ. X. 6. 51, उद्योग. 33. 43.]] (6) [[SERT BE A quala 71 asteht thaila HIT&F: 1 .|इन्द्रस्य हि स प्रणमति यो बलीयसो नमतीति भारद्वाजः । कौ.]] XII. 1-2 ; 
 
@@ -541,7 +534,6 @@ Compare [[a|बालकाण्ड 2. 18 शोकार्तस्य प्
 
 chap. III [[versos|verses]] 11-25 for [[phalasruti'|phalaśruti’.]] 
 
-FOUNDED 
 
 1917 
 
@@ -799,7 +791,6 @@ The third commentary is called Tilaka.[[445|[^445]]] The concluding verses[[448|
 
 वाससा ॥ [[भटनागेशपूज्येन|भट्टनागेशपूज्येन]] सेतुः श्रीरामवर्मणा । कृतः सर्वोपकृतये श्रीमद्रामाधान- 
 
-(Continued on the next page)
 
 [[P406]]written by Śrī Nāgeśa under the patronage of Rāmavarman. The idea of those two verses appears to be that the import of the Rāmāyaṇa was made clearer by the clearing cloth in the form of the intellect of Rāmavarman. What part other than that of a patron (who employed an eminent scholar like Nāgeśabhaṭṭa) Rāmavarman played is not quite clear. The opening verses of the commentary on the Bālakāṇḍa mention only Rāma as the author.
 
@@ -811,7 +802,7 @@ Vide Prof. P. P. S. Sastri's paper on ‘The commentators of the [[Rārnīyana|R
 
 In the Mahābhārata-[[titparya|tātparya]]-nirṇaya of Ānandatīrtha (Śrī Madhvācārya, 13th century A. D.), seven chapters (III-IX) are devoted to the Rāmāyaṇa story. In the first chapter he sets out the authorities. In I.30[[447|[^447]]] he refers to the four Vedas [[vin.|viz.]] Ṛgveda and others, the [[Pancurātra|Pañcarātra]] system, the Bhārata, the Mūla-Rāmāyaṇa, and the Brahmasūtra- these are regarded as self-sufficient authorities. What does [[be|he]] mean by Mūla-Rāmāyaṇa ? It means nothing else than the Rāmāyaṇa of Vālmīki. In Sanskrit and the popular langua- 
 
-(Continued from the previous page) [[FETETT 11|]]The first verse alone [[ocours|occurs]] at the end of the [[Uttara. kānda|Uttara- kāṇḍa]]. There is a [[referonce|reference]] in the first [[vorse|verse]] to the commentary called Kaṭaka. There is a pun on the word Kaṭaka ([[dame|name]] of a [[coinmentary|commentary]] and also the cleansing pot which [[clarifios|clarifies]] muddy water or cleanses [[soilod|soiled]] clothes). [[Focus 2289187 geg.|फलं कतकवृक्षस्य यद्यप्यम्बु-]] प्रसादकम् । न नामग्रहणादेव तस्य वारि प्रसीदति ॥ [[. by|q. by]] कल्पतरु on मोक्ष (p. 64). This is [[howa|Manusmṛti]] VI. 67. There is [[&|a]] commentary on Rāmāyaṇa called Kaṭaka or Amita-Kaṭaka composed [[out|about]] 1650 [[A, D.|A.D.]] [^447]: ऋगादयश्चत्वारः पञ्चरात्रं च भारतम् । [[मूलरामाय गं|मूलरामायणं]] ब्रह्मसूत्रं [[माना|मानं]] 
+[[FETETT 11|]]The first verse alone [[ocours|occurs]] at the end of the [[Uttara. kānda|Uttara- kāṇḍa]]. There is a [[referonce|reference]] in the first [[vorse|verse]] to the commentary called Kaṭaka. There is a pun on the word Kaṭaka ([[dame|name]] of a [[coinmentary|commentary]] and also the cleansing pot which [[clarifios|clarifies]] muddy water or cleanses [[soilod|soiled]] clothes). [[Focus 2289187 geg.|फलं कतकवृक्षस्य यद्यप्यम्बु-]] प्रसादकम् । न नामग्रहणादेव तस्य वारि प्रसीदति ॥ [[. by|q. by]] कल्पतरु on मोक्ष (p. 64). This is [[howa|Manusmṛti]] VI. 67. There is [[&|a]] commentary on Rāmāyaṇa called Kaṭaka or Amita-Kaṭaka composed [[out|about]] 1650 [[A, D.|A.D.]] [^447]: ऋगादयश्चत्वारः पञ्चरात्रं च भारतम् । [[मूलरामाय गं|मूलरामायणं]] ब्रह्मसूत्रं [[माना|मानं]] 
 
 74 | [[1. 30.|I.30.]]
 
@@ -830,3 +821,53 @@ The Rāmāyaṇa, being a Kāvya and an Ākhyāna (as stated in Dānasāgara, In
 [[P408]]the four verses quoted from the Rāmāyaṇa in the Dānasāgara could be traced in the Yuddhakāṇḍa (chap. 18.30 ‘[[· vinastaḥ|vinaṣṭaḥ]] ... [[raksitaḥ|rakṣitaḥ]]') in the Gujarati Press edition and that none of the four verses could be found in the Bengali editions. In another paper on ‘the Rāmāyaṇa and its [[infiuence|influence]] on the medieval digests of Eastern India' in P. K. Gode [[Commemora tion|Commemora- tion]] Volume 1960, pp. 319-326, the same learned writer [[discus ses|discus- ses]] the quotations from the Rāmāyaṇa in the Hāralatā, the three Ratnākaras of Caṇḍeśvara (on Kṛtya, Gṛhastha, and Vivāda), Kaumudīs of Govindānanda (on Dāna, Śrāddha), and the Rājadharma-kaustubha of Anantadeva. The Kalpa- taru on Mokṣa (pp. 25-26) quotes some verses from the Rām. Araṇyakāṇḍa (chap. 6.2 ff) with different readings. The Mahābhārata offers a great contrast in this respect to the Rāmāyaṇa, as hundreds of verses are quoted from it even in the comparatively early commentaries and digests like the Mitākṣarā and the Kalpataru.
 
 It is impossible to deal with the numerous writings on the Rāmāyaṇa. Jacobi's German work on the Rāmāyaṇa has been translated into English by Dr. [[S. N.|S.N.]] Ghoshal and published by driblets in several volumes of the Journal of Oriental Institute (Baroda). Numerous dates have been proposed for the Rāmāyaṇa e.g. the Department of Letters, Vol. 19 (Calcutta University) puts down 433 A.D. as its date. The Rāma story occurs frequently in the Mahābhārata e.g. vide Sabhāparva 50.39, Vanaparva chap. 148-152 (31 verses), chap. 274-293 (verses about 769); several Purāṇas such as [[Brahmao|Brahma°]], chap. 123 and 154, Padmapurāṇa (several times in Pātālakhaṇḍa and Uttarakhaṇḍa), [[Nārada purāṇa|Nārada- purāṇa]], Bhāgavatapurāṇa (IX. 10-11 about 82 verses), [[Agni purāṇa|Agni- purāṇa]] (chap. 5-12, verses 189). One writer in [[Preraṇā '|‘Preraṇā’]] monthly for October 1949 says that there are fourteen commentaries on the Rāmāyaṇa. 
+
+[^372]: वदन्त्यध्यापयामास महाभारतपञ्चमान् । सुमन्तुं जैमिनिं पैलं शुकं स्वमात्मजम् । प्रभुर्ऋष्टो वरदो वैशम्पायनमेव च ॥ संहितास्ते पृथक् पृथक् । भारतस्य प्रकाशिताः । आदि 63. 89-90.
+
+[^377]: ( 1 ) स्मरन्ति च । वे. सू. II. 3. 47; शङ्कराचार्ये remarks : स्मरन्ति च व्यासादयो यथा जीवेन दुःखेन न परमात्मा दुःखयत इति । परमात्मा... स सप्तदशकेनापि राशिना युज्यते पुनः ॥ ... भूतस्य सम्यग्भूतानि पश्यतः । देवा अपि मार्गे मुह्यन्त्यपरस्य पदैषिणः ॥ इति...तथा च तत्तैवोपसंहृतम् । ... दर्शयित्वा प्रभावं स्वं सर्वभूतगतोऽभवत् ॥ इति । The verses are Śānti-parva 262. 32 ( and also 269. 22 and 333. 19-20 ).
+
+[^378]: न ते वागनृता काव्ये काचिदत्र भविष्यति । तस्य बुद्धिरियं जाता वाल्मीकेर्भावितात्मनः । ... श्लोकशतैर्यशस्विनो यशस्करं काव्यमुदारधीर्भुवि ॥ बालकाण्ड 2. 35, 41; आदिकाव्यमिदं त्वाषीं पुरा वाल्मीकिना कृतम् । युद्धकाण्ड 131. 107; कविः कुशलवौ तौ चकार किल नामतः । ... स्वकृतिं गापयामास कविरथमपद्धतिम् कवेरायुष्य शासनात् । रघुवंश 15. 32, 33, 41.
+
+[^403]: गुरोरप्यवलितस्य कार्याकार्यमजानतः । उत्पथं प्रतिपन्नस्य दण्डो भवति शाश्वतः ॥ शान्ति 57. 7; also in शान्ति 140. 48 ( reads शासनम् for शाश्वतः ); उद्योगपर्व 178. 48 reads last pāda as परित्यागो विधीयते; कार्यं भवति शासनम् । अयोध्या 21. 13.
+
+[^406]: Several scholars have written about the location of Laṅkā. Mr. M. V. Kibe locates Laṅkā in central India ( vide ABORI Vol. XVII pp. 371-384; F. W. Thomas presentation Vol. pp. 144-5; J. C. Ghosh in ABORI vol. XIX pp. 84-86; Daniel John in ABORI vol. XXI pp. 270-279 ) who holds that Mr. Kibe is wrong and that Laṅkā must be some island in the midst of the sea off the southern or south-eastern coast of the present island of Ceylon. Mr. G. K. Ramdas holds that 'Rāvaṇa's Laṅkā' was near Amarakantaka ( vide I. H. Q. vol. IV pp. 338-346 ). In A. B. O. R. I. Vol. XIX at p. ... is pointed out that a portion of Orissa was known as Laṅkā. M. S. Aney in his paper 'The Rāmāyaṇa tradition in the present...
+
+[^411]: ' न पृथिव्यां ब्रीहियवं हिरण्यं पशवः स्त्रियः । नालमेकस्य तद्वेद्मि इति मत्वा शमं व्रजेत् ॥ The Ch. ed. reads this as ' पृथिवीरत्नसम्पूर्णा हिरण्यं ... व्रजेत ' ( आदि 75. 51 ); आग्नेया विहिताः सर्वे वर्जयित्वा निराशिषम् । शान्ति 63...
+
+[^412]: सर्वानेवागामिनः पार्थिवेन्द्राद् भूयो भूयो याचते राजसिंहः । ... न्यायं धर्मसेतुर्नृपाणां काले काले पालनीयो भवद्भिः ॥ ...
+
+[^413]: चतुःषष्टिकृत्स्नसु विशारदाः । कृत्स्नामानि तु धीमद्भागवतदशमस्कन्धकार्यां श्रीधरस्वामिभिर्दर्शितानि ; on सभा 61. 9. अत एव श्रीमद्भागवत... हरिनिन्दापरः स्तुतिपरत्वेनैव व्याख्यातः श्रीधरस्वामिभिः । on सभा 41...
+
+[^417]: मिषतां सर्वयोधानां समस्ताः प्रमदोत्तमाः । समन्ततोऽवकृष्यन्त कामाच्चान्याः प्रवर्तयुः ॥ मौसल० 7. 69.
+
+[^421]: अङ्गमारोप्य तु पुरा रावणेन बलाद्धृताम् । लङ्कामपि पुरा नीतामशोकवनिकां गताम् । रक्षसां वशमापन्नां कथं रामो न कुत्सते । असाकमपि दोषेषु सहनीयं भविष्यति । यथा हि कुरुते राजा प्रजा तमनुवर्तते । उत्तराकाण्ड 53. 16-... Compare ' स किंवदन्तीं वदतः पुरोषः ... ' रघु. 14. 31.
+
+[^422]: निषादविद्धाङ्गनदर्शनेनोरः स्तोकात्वमापद्यत यस्य शोकः । रघु० 14. 70; Compare बालकाण्ड 2. 18 शोकात्र्स्य प्रवृत्तो मे श्लोको भवतु नान्यथा । and 2. 41 शोकानुव्यहरणाद्युः शोकः श्लोकत्वमागतः ।
+
+[^423]: Vide युद्धकाण्ड chap. 131 ( Madras ed. ) verses 111-124 and chap. 111 verses 11-25 for phalaśruti.
+
+[^424]: असम्भवे हेमवर्षस्य जन्तोस्तथापि रामो लुलुभे मृगयां – सभा. 76. 5; दशवर्षसहस्राणि दश वर्षशतानि च । राज्यं कारितवान् रामस्ततः स्वभवनं गतः ॥ वनपर्व 148. 19; द्रोणपर्व 59. 21-22 ( 2nd half is सर्वभूतमनःक्रान्तो रामो राज्यमकारयत् ); दाशरथजातक ( p. 130 ) has दसवस्ससहस्सानि सट्ठि च वस्ससतानि च । कम्बुगीवो महाघाटु रामो ... अकारयिति । verse 93.
+
+[^425]: भूयोते शम्बुके शूद्रे हते ब्राह्मणघातकः । जीवितो धर्मसाध्यां रामः सर्व...पराक्रमात् ॥ शान्ति 153. 67.
+
+[^426]: रोषस्य हि दशा गत्वा दशग्रीवः प्रतापवान् । तथा शक्रप्रतिस्पर्धी दृप्तो रावणो ... संयुगे ॥ शान्ति 360. 15.
+
+[^427]: यथा फलानां पक्वानां नान्यत्र पतनाद्भयम् । एवं नराणां जातानां नान्यस्मरणाद्भयम् ॥
+
+[^428]: दुह्मरंसनसुतं वीरं सत्यवन्तमनुव्रतम् । सावित्रीमिव मां विद्धि त्वमात्म...शवर्णिनीम् ॥ अयोध्या 30. 6.
+
+[^429]: लोपामुद्रा यथामत्स्यं सुकन्या च्यवनं यथा । सावित्री सत्यवन्तं च कपिलं श्रीमती यथा ॥ सौदासं मदयन्तीव केशिनी सगरं यथा । नैषधं दमयन्तीव भैमी पतिमनुव्रता । सुन्दर० 24. 11-12. The हर्षचरित ( I ... pp. 11-12 of the author's edition ) refers to सुकन्या, daughter of king शर्याति and her marriage with sage च्यवन who had his āśrama about two krośas beyond the Soṇa ( river ).
+
+[^431]: अर्वाची सुभगे भव सीते वन्दामहे त्वा । यथा नः सुभगाससि यथा नः सुभगंससि ॥ इन्द्रः सीतां निगृह्णातु तां पूषानु यच्छतु । सा नः पयस्वती दुहामुत्तरां समाम् ॥ ऋग्. IV. 57. 6-7. सीता means the furrow left by the plough.
+
+[^436]: रविसंक्रान्तसौभाग्यस्तुवरारुणमण्डलः । निःश्वासान्ध इवादर्शश्चन्द्रमा न प्रकाशते ॥ अरण्यकाण्ड 16. 13 ( the Madras edition of रामायण reads दुषारातमण्डलः ).
+
+[^437]: विनष्टः पश्यतो यस्य रक्षितुः शरणागतः । आदाय सुकृतं तस्य ... सर्वं गच्छति रक्षितः ॥ अयोध्याकाण्ड 18. 30 q. by अपरार्क p. 385.
+
+[^439]: रामायणे जलप्रदानवाक्यं राम आह । इदं पुरुषशार्दूल विमलं दिव्यमक्षयम् । पितृलोकेषु पानीयं मदत्तमुपतिष्ठताम् ॥ अपरार्क on या. III. 5. p. 875. The verse occurs with slight variations in अयोध्या 103. 27: राजशार्दूल विमलं तोयमक्षयम् । पितृलोकगतस्याथ मदत्तमुपतिष्ठतु ॥
+
+[^440]: यत्नवन्तो यवद्वीपं सप्तराज्योपशोभितम् ॥ सुवर्णरूप्यकं चैव सुवर्णकारमण्डितम् यवद्वीपमतिक्रम्य शिशिरो नाम पर्वतः ॥ किष्किन्धा 40. 29-30.
+
+[^443]: अहमतितनुश्चैव वानरश्च विशेषतः । वाचं चोदाहरिष्यामि मानुषीमिह संस्कृताम् ॥ यदि वाचं प्रदास्यामि द्विजातिरिव संस्कृताम् । रावणं मन्यमाना भीता भविष्यति ॥ वानरस्य विशेषेण कथं स्यादभिषेचनम् । अवश्यमेव ... मानुषं वाक्यमर्थवत् । सुन्दर० 30. 17-19.
+
+[^447]: ऋगाद्यथर्वाङ्ग पञ्चरात्रं च भारतम् । मूलरामायणं चैव मनुसूत्रं ... स्मृतम् ॥ I. 30.
