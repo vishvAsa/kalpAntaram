@@ -1,74 +1,38 @@
 +++
-title = "089 Kullūkabhaṭṭa"
+title = "089 Kullūka Bhaṭṭa"
 
 +++
 
-89. Kullikabhatta 
+89. Kullūkabhaṭṭa
 
-Kullūka's commentary on the Manusmṛti styled the Man varthamuktavali is the most famous of all commentaries on Manu. It has been printed several times. In the following the Nirnayasāgara edition of 1909 has been relied upon. Kullūka's commentary is concise and lucid and his remarks are always to the point. He avoids all unnecessary discussions and is never prolix. He was not however original. He drew upon the com mentaries of Medhātithi and Govindarāja and incorporated a great deal from them into his own work without acknowledgment. For example, on Manu XI. 95 he simply summarises the remarks1126 of Govindaraja and cites only one out of the several quotations that are found in Govindarija's Manu-tika. He severely criticizes both Medhātithi and Govindaraja, particularly the latter. He frequently pours ridicule on the latter ( vide note 903° above). At the end of his commentary he saysilar that Medhātithi's skill lay in expounding what texts were authorita tive and of substance and what were not so. Govindarāja in concise words explained the hidden meaning of the brief text ( of Manu ), while Dharanidhara had his own method of expla nation which was independent of previous tradition; and there fore he undertook to write a commentary that would clearly set forth the real meaning of Manu. He was very proud of his achievement and says that neither Medhātithi nor Govindarāja nor other commentators explained in the way he did and that explanatory material like his would be difficult to find else 
+[[P756]]Kullūka’s commentary on the Manusmṛti styled the [[Man varthamuktavali|*Manvarthamuktāvalī*]] is the most famous of all commentaries on Manu. It has been printed several times. In the following the Nirṇayasāgara edition of 1909 has been relied upon. Kullūka’s commentary is concise and lucid and his remarks are always to the point. He avoids all unnecessary discussions and is never prolix. He was not however original. He drew upon the commentaries of Medhātithi and Govindarāja and incorporated a great deal from them into his own work without acknowledgment. For example, on Manu XI. 95 he simply summarises the remarks[^1126] of Govindarāja and cites only one out of the several quotations that are found in [[Govindarija's Manu-tika|Govindarāja’s *Manu-ṭīkā*]]. He severely criticizes both Medhātithi and Govindarāja, particularly the latter. He frequently pours ridicule on the latter (vide note 903ᵃ above). At the end of his commentary he [[saysilar|says]][^1127] that Medhātithi’s skill lay in expounding what texts were authoritative and of substance and what were not so. Govindarāja in concise words explained the hidden meaning of the brief text (of Manu), while Dharaṇīdhara had his own method of explanation which was independent of previous tradition; and therefore he undertook to write a commentary that would clearly set forth the real meaning of Manu. He was very proud of his achievement and says that neither Medhātithi nor Govindarāja nor other commentators explained in the way he did and that explanatory material like his would be difficult to find else— [[P757]]where.[^1128] He not only criticizes Govindarāja severely but also points out the mistakes of Medhātithi (as on Manu I. 71 and 103, II. 101).[^1129] He notices the explanations of Medhātithi and Govindarāja hundreds of times, discusses various readings and his commentary deserves to a considerable extent the eulogy pronounced by Sir William Jones[^1130] “At length appeared [[Cullaca Bhatta|Cullāca Bhaṭṭa]], who, after a painful course of study and the collation of numerous manuscripts, produced a work of which it may perhaps be said very truly that it is the shortest yet the most luminous, the least ostentatious yet the most learned, the deepest yet the most agreeable, commentary ever composed on any author, ancient or modern.”
 
-1126 'पुंस एव ब्राह्मणस्य मद्यप्रतिषेधो न म्बिया इत्याहुस्तदसत् । सुराल शुन.. अभक्ष्याणि 
+[^1126]: ‘पुंस एव ब्राह्मणस्य मद्यप्रतिषेधो न स्त्रिया इत्याहुस्तदसत् । सुरालशुन... अभक्ष्याणि स्युः ब्राह्मणी सुरापी भवति नैनां देवाः पतिलोकं नयन्ति इहैव सा दुर्मतिः क्षीणपुण्या अप्सु जलोद्भवेति शुक्तिका वा पतिलोकं न सा याति.. इति शङ्खवसिष्ठयाज्ञवल्क्य ब्राह्मण्या अपि निषेधस्मरणात्’ । गोविन्दराज on मनु XI. 95; ‘ अत्र केचित्... ब्राह्मणस्य पुंस एव मद्यप्रतिषेधो न स्त्रिया इत्याहुस्तदसत् पतिलोकं न सा याति... सूकरी चोपजायते इति याज्ञवल्क्यादिस्मृतिविरोधात् ।’ कुल्लूक.
 
-स्युः ब्राह्मणी सुरापी भवति नैनां देवा: पतिलोकं नयन्ति इहैव सा दुर्मतिः क्षीणपण्या अप्सु जलोद्भवेति शुक्तिका वा पनिलोकं न सा याति.. इति शङ्खवसिष्ठयाज्ञवल्क्य ब्राह्मण्या अपि निषेधस्मरणात् ' । गोविन्दराज on मनु XI. 95 : ' अत्र कचित... ब्राह्मणस्य पुंस एव मद्यप्रतिषेधो न स्त्रिया इत्याहुस्तदसत् पतिलोकं न सा याति... 
+[^1127]: सारासारवचःप्रपञ्चनविधौ मेधातिथेश्चातुरी म्लोकं वस्तु निगूढमल्पवचनाद्गोविन्दराजो जगौ । ग्रन्थस्मिन्धरणीधरस्य बहुषः स्वातन्त्र्यमन्तावता स्पष्टं मानवमर्थतत्त्वमखिलं वक्तुं कृतोयं श्रमः ॥ Vide his remarks about धरणीधर on मनु II 83 and IV. 50 ‘धरणीधरेण तु एकाक्षरपरं ब्रह्म प्राणायामपरं तपः इति पठितं...मेधातिथिप्रभृतिभिर्वृद्धैर्ललिखित यतः लेखनात्पाठान्तरं तत्र स्वतन्त्रो धरणीधरः’ and परंपरीयमाम्नायं हित्वा विद्वद्भिरादृतम् । पाठान्तरं व्यरचयन्मुधेह धरणीधरः ॥’
 
-सूकरी चोपजायते इति याज्ञवल्क्यादिस्मृतिविरोधात् ।' कुल्लूक. 1127 सारासारवचःप्रपञ्चनविधों मेधातिथेश्चातुरी म्तोकं वस्तु निगूढमल्पवचनाद्गोविन्द 
+[^1128]: प्रायश्चित्ते बहुमुनिमतालोचनाद्यन्मयोक्तं सद्व्याख्यानं खलु मुनिगिरां तद्भजवं गुणज्ञाः । नैतन्मेधातिथिरभिदधे नापि गोविन्दराजो व्याख्यातारो न जगुरपरेप्यन्यतो दुर्लभं वः ॥ last verse of chap. XI.
 
-राजो जगौ । ग्रन्थस्मिन्धरणीधरम्य वहुमः स्वातन्त्र्यमंतावता स्पष्टं मानवमर्थतत्त्व मखिलं वक्तुं कृतोयं श्रमः . Virle his remarks about धरणीधर on मनु II 83 .ind IV. 50 ‘धरणीधरेण तु एकाक्षर परं ब्रह्म प्राणायामपरं तपः इति पठिनं...मेधातिथिप्रभृतिभिवृद्धैलिखित यतः लेखनात्पाठान्तरं तत्र स्वतन्त्रो धरणी धरः' and परंपरीयमाम्नायं हित्वा विद्वद्भिरादृतम् । पाठान्तरं व्यर चयन्मुधेह धरणीधरः ।।.' 
+[^1129]: चतुर्युगैरेव द्वादशसङ्ख्यैर्दिव्यं युगमिति तु मेधातिथेर्भ्रमो नादर्तव्यः । on मनु I. 71; on मनु I. 103 मेधातिथि remarks that ‘adhyetavyam’ and ‘pravaktavyam’ are not *vidhis* but only ‘*arthavādas*’ and Kullūka remarks ‘अनुवादमात्रमेतदिति...मेधातिथेर्मतम् । तत्र मनोहरम्’। It is possible that Kullūka had before him a defective ms. reading about Medhātithi’s bhāṣya on Manu I. 71.
 
-89. Kullūk abhatta 
+[^1130]: *Vide Pedda Ramappa v. Banyari Seshamma* I. L. R. 2 Mad. 286 at p. 291.
 
-757 
+Among the authors and works quoted by him (besides the usual smṛtis) are the following:— Garga (on II. 6), Govindarāja, Dharaṇīdhara, Bhāskara (bhāṣyakāra of the Vedāntasūtras, on I. 8 and 15), Bhojadeva (on [[VIJI. 184|VIII. 184]]), Medhātithi, Vāmana (author of the *Kāśikā*), [[Bhattavārtika-kst|Bhaṭṭavārtika-kṛt]] (on XII. 106), Viśvarūpa (the commentator of Yājñavalkya, on II. 189 and V. 68). The Viśvarūpa that he quotes on Manu V. 215 is the lexicographer and not the jurist as Aufrecht (in his great catalogue) appears to hold.
 
-where. 1129 He not only criticizes Govindarāja severely but also points out the mistakes of Medhātithi ( as on Manu 1. 71 and 103, II. 101 ).1129 He notices the explanations of Medhātithi and Govindaraja hundreds of times, discusses various readings and his commentary deserves to a considerable extent the eulogy pronounced by Sir William JonesliBU “At length appeared Cullaca Bhatta, who, after a painful course of study and the collation of numerous manuscripts, produced a work of which it may perhaps be said very truly that it is the shortest yet the most luminous, the least ostentatious yet the most learned, the deepest yet the most agreeable, cominentary ever composed on any author, ancient or modern." 
+He gives us a little information about himself in the introductory verse.[^1131] He came of a Vārendra Brāhmaṇa family of Bengal (Gauḍa) residing in Nandana and was the son of Bhaṭṭa Divākara. He wrote his commentary in Kāśī in the company of [[P758]]Pandits. On Manu VI. 14 he mentions the names of certain vegetables that were current in Malwa and among the Vāhīkas.[^1132]
 
-Among the authors and works quoted by him (besides the usual smstis ) are the following :-Garga (on II. 6), Govindarāja, Dharanidhara, Bhāskara (bhāșyakāra of the Vedāntasūtras, on I. 8 and 15), Bhojadeva (on VIJI. 184), Medhātithi, Vamana (author of the Kaśika), Bhattavārtika-kst (on XII. 106 ), Viśvarūpa (the commentator of Yājñavalkya, on II. 189 and V. 68 ). The Viśvarūpa that he quotes on Manu V. 215 is the lexicographer and not the jurist as Aufrecht (in his great catalogue ) appears to hold. 
+[^1131]: गौडे नन्दनवासिनाम्नि सुजनैर्वन्द्ये वरेन्द्र्यां कुले श्रीमद्भट्टदिवाकरस्य तनयः कुल्लूकभट्टो भवत् । काश्यामुत्तरवाहिजह्नुतनयातीरे समं पण्डितैस्तेनेयं कृयते हिताय विदुषः मन्वर्थमुक्तावली ॥
 
-He gives us a little information about himself in the intro ductory verse. 1131 He came of a Vārendra Brāhmaṇa family of Bengal (Gauda) residing in Nandana and was the son of Bhatta Divakara. He wrote his commentary in Kāsi in the company of 
+[^1132]: मूलस्थूणं मालवदेशे प्रसिद्धं शाकं शिग्रुकं वाहीकेषु प्रसिद्धं शाकम् ।
 
-1128 प्रायश्चित्ते बहुमुनिमतालोचनाद्यन्मयोक्तं सद्व्याख्यानं खलु मुनिगिरां तद्भजवं 
+It appears that Kullūka also composed a digest called *Smṛtisāgara*. A Ms. of a portion of it called *Śrāddhasāgara* exists in the Calcutta Sanskrit College (Cat. vol. II, p. 405, No. 446). In this his *Āśaucasāgara* and *Vivādasāgara* are referred to.
 
-गुणज्ञाः । नैतन्मेधातिथिरभिदधे नापि गोविन्दराजो व्याख्यातारो न जगुरपरेप्य 
+I secured a transcript of the ms. of the *Śrāddhasāgara* in the Calcutta Sanskrit College through the kindness of the Principal. The *Śrāddhasāgara* deals with the following subjects:— definition of śrāddha; whether it is of the nature of yāga, dāna and homa; various kinds of śrāddhas such as nitya, naimittika &c.; the proper and improper places for śrāddha; the proper times for śrāddha; Aṣṭakā-śrāddha; śūdras can perform aṣṭakā and other śrāddhas; intercalary month; who are paṅkti-pāvana brāhmaṇas; meaning of nimantraṇa and āmantraṇa; the number of brāhmaṇas to be invited; the darbhas; śrāddhadevatās; the sacred thread etc.
 
-Fuat Sia: Il last verse of chap. XI. 1129 achita anzici portafa I ÀIT are at: 1 on T I. 
+The *Śrāddhasāgara* is full of Pūrvamīmāṁsā discussions. The author says that he wrote it and the other two works (*Vivādasāgara* and *Āśaucasāgara*) at the order of his father. He quotes profusely from the *Mahābhārata*, the Mahāpurāṇas and Upapurāṇas and from the dharmasūtras and metrical smṛtis. He names the *Kalpataru* oftener than any other *nibandhakāra*. The other authors and works named are: Bhojadeva, Halāyudha (probably the author of *Prakāśa* on the *Śrāddhakalpasūtra* of Kātyāyana), Jīkana, *Kāmadhenu*, Medhātithi, Śaṅkhadhara. In one place we have a reference to Prabhākara and Kamalākara-bhaṭṭa (on Kāla and Kāma being devatās) and in another place to Gauḍa-Maithila-Mayūkha-bhaṭṭāḥ (which are probably marginal notes creeping into the ms. or refer to authors other than the well-known ones). He refers to the opinion of his own *guru* in opposition to that of the *Kalpataru*.
 
-71 ; on 77 I. 103 h aft remarks that 'adhyeta vyam' and 
+The date of Kullūka cannot be settled with certainty. Bühler held that he lived probably in the 15th century (S. B. E. vol. XXV. p. cxxxi). Ghose (*Hindu Law*, 3rd edition p. xvi) and M. M. Chakravarti (JASB 1915, p. 345) are of the same opinion. In I. L. R. 48 Cal. 643 Sir Asutosh Mukerji places Kullūka in the 15th century (at p. 688). As Kullūka mentions Bhojadeva, [[P759]]Govindarāja, *Kalpataru* and Halāyudha he is certainly later than about 1200 A. D. Raghunandana[^1133] several times mentions Kullūkabhaṭṭa (and sometimes criticizes him also); vide (vol. I) Śrāddha 225 (Cri. on Manu III. 257), 226, Āhnika 353, 454; Prāyaścitta 472, 530; Saṁskāra 893, 894, 903; (vol. II) Udvāha p. 144. The [[Darda-viveka|*Dāyaviveka*]] of Vardhamāna quotes Kullūka about fifty times and oftener than any other work or author except Ratnākara. [[Árinātha's|Śrīnātha’s]] com. on the *Dāyabhāga* refutes the view of Kullūka. The *Śrāddha-kriyā-kaumudī* of Govindānanda refers to Kullūka’s explanation of the word [[ākāöksan'|‘ākāṅkṣan’]] as ‘Vikṣamāṇaḥ’ in Manu III. 258. The *Rājanīti-ratnākara* of Caṇḍeśvara quotes the explanation of Kullūka.[^1134] Therefore Kullūka must have flourished before 1300 A. D. Kullūka in his by no means small work nowhere refers to the *Dāyabhāga*, though he himself came of a Bengal family. This silence is explicable in two ways. As we have seen, Kullūka wrote in Kāśī and not in Bengal. Therefore if he flourished not long after Jīmūtavāhana, it is quite natural that writing in Benares he had not heard of the *Dāyabhāga* or read it. It has been shown above that Jīmūtavāhana probably wrote about 1100–1150 A. D. Therefore Kullūka flourished between 1150 and 1300 A. D. and probably wrote about 1250 A. D. M. M. Chakravarti is not sure as to how early [[Kulloka|Kullūka]] flourished but opines that he could not have flourished later than the first quarter of the 15th century (JASB 1915, p. 345 n. 1).
 
-prgvaktavyam' are not ri this but only 'arthavādas' and Kullūka remarks 3TGE TEATÀaffa... FANT 197 HETI It is possible that Kullūka had before him a defective ms. 
+[^1133]: एको लुब्धस्तु साक्षी स्यादिति कुल्लूकभट्टधृतपाठः, एको लुब्धस्त्वसाक्षी स्यादिति जीमूतवाहनधृतपाठस्तु न युक्तः । व्यवहारतत्त्व (vol. II. p. 213); समांशाः समभागा एव भवेयुर्नोद्धारः कस्यचिद् देय इति कुल्लूकभट्टः । दायतत्त्व (vol. II. p. 193).
 
-reading about Medhātithi's bāsya on Manu 1, 71. 1130 Vile Pedda Ramappa v. Banyari Seshamma 1. L. R. 2 Mad. 
-
-286 at p. 291. 1131 गोडे नन्दनवासिनाम्नि सुजनैवन्द्ये वरेन्द्यां कुले श्रीमद्भट्टदिवाकरस्य तनयः 
-
-कुल्लूकभट्टः भवत् । काश्यामुत्तरवाहि जनुतनयातीरे समं पण्डितैस्तेनेयं कियते हिताय विदुपः मन्वर्थमुक्तावली।। 
-
-T 
-
-Jul 2011) 
-
-758 
-
-
-
-Pandits. On Manu VI. 14 he mentions the names of certain vegetables that were current in Malwa and among the Vahikas. 1132 
-
-It appears that Kullūka also composed a digest called Smṛtisāgara. A Ms. of a portion of it called Sraddhasāgara exists in the Calcutta Sanskrit College ( Cat. vol. II, p. 405, No. 446). In this his Āsaucasāgara and Vivadasāgara are referred to. 
-
-I secured a transcript of the ms, of the Sraddhasāgara in the Calcutta Sanskrit College through the kindness of the Principal. The Srāddhasāgara deals with the following subjects:-- definition of śrāddha; whether it is of the nature of yāga, dāna and homa; various kinds of śrāddhas such as nitya, naimittika &c.; the proper and improper places for śrāddha; the proper times for śraddha; Astakā-śrāddha ; sūdras can perform astak, and other śrāddhas; intercalary month; who are pankti-pāvana brāhmanas; meaning of nimantrana and amantraṇa; the number of brāhmanas to be invited; the darbhas; śrāddhadevatās; the sacred thread etc. 
-
-The Sraddhasāgara is full of Purvamimāṁsā discussions. The author says that he wrote it and the other two works (Vivādasāgara and Asaucasāgara ) at the order of his father. He quotes profusely from the Mahabharata, the Mahāpurāṇas and Upapurāṇas and from the dharmasūtras and metrical smitis. He names the Kalpataru oftener than any other nibandhakāra. The other authors and works named are: Bhojadeva, Halāyudha (probably the author of Prakāśa on the Sraddhakalpasūtra of Katyāyana ), Jikana, Kamadhenu, Medhātithi, Saṅkhadhara. In one place we have a reference to Prabhakara and Kamalakara bhatta (on Kala and Kāma being devatās ) and in another place to Gauda-Maithila-Mayūk ha-bhattāḥ (which are probably marginal notes creeping into the ms. or refer to authors other than the well-known ones). He refers to the opinion of his own guru in opposition to that of the Kalpataru. 
-
-The date of Kullūka cannot be settled with certainty. Būhler held that he lived probably in the 15th century (S. B. E. vol. XXV. p. CXXXI ). Ghose (Hindu Law, 3rd edition p. XVI ) and M. M. Chakravarti (JASB 1915, p. 345 ) are of the same opinion. In 1. L. R. 48 Cal. 643 Sir Asutosh Mukerji places Kullūka in the 15th century (at p. 688 ). As Kullūka mentions Bhojadeva, 
-
-1132 
-
-EU 16 
-
-i 
-
-17 fjaś Tiety afha 1171 
-
-90. Sridatta Upadhyāya 
-
-759 
-
-Govindarāja, Kalpataru and Halāyudha he is certainly later than about 1200 A. D. Raghunandana1133 several times mentions Kullūkabhatta (and sometimes criticizes him also ); vide (vol. I) Sraddha 225 (Cri. on Manu III. 257), 226, Āhnika 353, 454; Prāyaścitta 472, 530; Samskāra 893, 94, 903; ( vol. II ) Udvāha p. 144. The Darda-viveka of Vardhamāna quotes Kullūka about fifty times and oftener than any other work or author except Ratnakara. Árinātha's com. on the Dāyabhāga refutes the view of Kullūka. The Śrāddha-kriya-kaumudi of Govindananda refers to Kullūka's explanation of the word ākāöksan'as Vikṣamāṇaḥ' in Manu III. 258. The Rājaniti-ratnākara of Candeśvara quotes the explanation of Kulluka.1134 Therefore Kullūka must have flourished before 1300 A. D. Kullūka in his by no means small work nowhere refers to the Dāyabhāga, though he himself came of a Bengal family. This silence is explicable in two ways. As we have seen, Kulluka wrote in Kasi and not in Bengal. Therem fore if he flourished not long after Jimutavāhana, it is quite natural that writing in Benares he had not heard of the Daya bhāga or read it. It has been shown above that Jimūtavāhana probably wrote about 1100-1150 A. D. Therefore Kullūka flourished between 1150 and 1300 A. D. and probably wrote about 1250 A. D. M. M. Chakravarti is not sure as to how early Kulloka flourished but opines that he could not have flourished later than the first quarter of the 15th century (JASB 1915, p. 345 1. 1). 
+[^1134]: अत एव कुल्लूकभट्टः—राजशब्दोपि नात्र क्षत्रियजातिपरः किं त्वभिषिक्तजनपदपालपितृपुरुषपरः । राजनीतिरत्नाकर (ed. by Mr. Jayasval, 1921) p. 2. These are the words of कुल्लूक on मनु. 71.
