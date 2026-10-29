@@ -5,7 +5,7 @@ title = "071 Vijñāneśvara"
 
 71. Vijñāneśvara
 
-The [[Mitākṣarā|Mitākṣarā]] of Vijñāneśvara occupies a unique place in the Dharmaśāstra literature. Its position is analogous to that of the Mahābhāṣya of Patañjali in grammar or to that of the Kāvyaprakāśa of Mammaṭa in Poetics. It represents the essence of dharmaśāstra speculation that preceded it for about two thousand years and it became the fountain head from which flowed fresh streams of exegesis and developments. Under the decisions of the Courts in British India, the Mitākṣarā is of paramount authority in several matters of Hindu Law (such as adoption, inheritance, partition etc.) throughout India except where, as in Bengal, the Dāyabhāga prevails.
+The Mitākṣarā of Vijñāneśvara occupies a unique place in the Dharmaśāstra literature. Its position is analogous to that of the Mahābhāṣya of Patañjali in grammar or to that of the Kāvyaprakāśa of Mammaṭa in Poetics. It represents the essence of dharmaśāstra speculation that preceded it for about two thousand years and it became the fountain head from which flowed fresh streams of exegesis and developments. Under the decisions of the Courts in British India, the Mitākṣarā is of paramount authority in several matters of Hindu Law (such as adoption, inheritance, partition etc.) throughout India except where, as in Bengal, the Dāyabhāga prevails.
 
 The Mit. professes to be a commentary on the Yājñava-lkyasmṛti. In the colophons of several mss., it is described as Ṛjumitākṣarā, Pramitākṣarā or simply Mitākṣarā. These names are probably due to some of the verses appended at the end of the commentary.[^820] The Mit. is not only a commentary explaining the verses of Yājñavalkya, but it is in the
 
