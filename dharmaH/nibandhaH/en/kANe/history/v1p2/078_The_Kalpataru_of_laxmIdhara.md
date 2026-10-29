@@ -3,6 +3,13 @@ title = "078 The Kalpataru of Lakṣmīdhara"
 
 +++
 
+<details>
+<summary>Footnote note</summary>
+
+The printed footnote numbers in this chapter jump from 923 straight to 984 (compare pp. 681 and 700 of the edition). Notes numbered 924–983 do not occur here; the gap is in the printed book itself, not in this transcription. Do not renumber.
+
+</details>
+
 [[P663]]
 
 ## 78. The Kalpataru of Lakṣmīdhara
@@ -23,7 +30,7 @@ VII. It is difficult to say definitely what subject was dealt with in the 7th K�
 VIII. Tīrthavivecanakāṇḍa (pub. in 1942)--visiting holy places, the greatness of Vārāṇasī, Prayāga, the Ganges, Gayā, Kuruksetra, Pṛthūdaka, Puskara, Madhurā, Ujjayinī, Narmadā, Kubjāmraka, Śukara, Kokāmukha, Bādari-āśrama,
 
 [^915]:
-    The ms. of Pūjā begins '...... मर्त्य तथैवेन्द्रियसङ्गमम् । ज्ञापयतं स्वयं ...समाहितः ।' This is an anuṣṭubh verse; the ms. ends abruptly as follows: शर्मीगर्मीणि: कार्यो द्वैर्याद्द्रुतप्रमाणतः । विनत्सितः परिणाहार्थं मर्त्यं वै पोत्राङ्गम् ॥ तत्र कर्दमोपेने दशाङ्गुल-परिस्तृतम् ॥
+    The ms. of Pūjā begins '...[[??]] मर्त्य तथैवेन्द्रियसङ्गमम् । ज्ञापयतं स्वयं ...[[??]]समाहितः ।' This is an anuṣṭubh verse; the ms. ends abruptly as follows: शर्मीगर्मीणि: कार्यो द्वैर्याद्द्रुतप्रमाणतः । विनत्सितः परिणाहार्थं मर्त्यं वै पोत्राङ्गम् ॥ तत्र कर्दमोपेने दशाङ्गुल-परिस्तृतम् ॥
 
 [[P666]]
 
@@ -38,12 +45,12 @@ X. Śuddhi-kāṇḍa (pub. in 1950). This is the smallest of the eleven kāṇ�
 The Mitākṣarā deals with āśauca on Yāj. III. 1-34. This subject also is dealt with in the Śuddhikāṇḍa of the Kalpataru. Many of Yājñavalkya's verses (III. 1–34) have been quoted in the Śuddhikāṇḍa but in many cases without any comment whatever. Verses of this last type are Yāj. III. 1–2 (q. on p. 72 of Ś.), 3–5 (q. on . 85), 7–11 (q. on p. 91), 12–13 q. on p. 98 and p. 58), 24 (q. on p. 53), 25 (q. on p. 54), 26 (q. on p. 70), 28–29 (q. on p. 64), 31–34 (q. on pp. 115–116). On 'Yamasūktam' mentioned in Yāj. III. 2; the Mit. points out that it is the hymn beginning with 'Pareyivāṃśam' (Ṛg. X. 14. 1–16), but the Śuddhikāṇḍa does not refer to it on p. 72. On some of the verses the comment of the Mit. extends to some pages e.g. on III. 1–2 it is two closely printed pages, on III. 24 over two pages, on III. 28–29 (two pages). On Yāj. III. 15 (śuddhi-kāṇḍa p. 90),[^916] the only explanation offered is that the word 'kaṭānnam' means 'āśaucānnam' while the Mit. has five lines of explanation on the verse and explains the word 'sakaṭānnam' as kaṭaśabdenāśaucam lakṣyate tat sahacaritam-annam sakaṭānnam (i. e. it takes 'sakaṭānnam as one compound), while it seems that L. separated as 'sa kaṭānnam'. On III. 22 the Mit. has a comment of 1/4th of a printed page, while L. explains only the words 'śūdrasya tadardham nyāyavartinaḥ' as 'pākayajña-dvijaśuśrūṣādi-ratasya tadardham syāt'. These very words are used by the Mit. in its long comment. On Yāj. III. 30 quoted by L. (on Śuddhikāṇḍa p. 126) the Mit. has a lengthy discussion of more than two printed pages, while L. in Śuddhikāṇḍa (p. 126) sets out only two lines and a half of explanation almost in the same words (though not clear as the quotations below will show).[^917] The present
 
 [^916]:
-    The word कट occurs in Manu II. 204 where it is provided that a pupil may sit with his *guru* on the same 'śrastara or kaṭa or vessel'; मेधातिथि explains श्रस्तरः दर्भस्तृणाभ्यां आस्तरः (श्रस्तरः ?) कटस्य शरणोरणादिकृत: प्रसिद्ध: । Those in mourning were to sleep fourteen days on bare ground or on a bed of grass or on reeds. Manu V. 735 and Yāj. III. 16, बौधायनस्मृतौ (Ānand. ed.) I. 5. 129 (मरणे तु...... अक्षारलवणाशिनौ दशाहं कटमासीनौ ।).
+    The word कट occurs in Manu II. 204 where it is provided that a pupil may sit with his *guru* on the same 'śrastara or kaṭa or vessel'; मेधातिथि explains श्रस्तरः दर्भस्तृणाभ्यां आस्तरः (श्रस्तरः ?) कटस्य शरणोरणादिकृत: प्रसिद्ध: । Those in mourning were to sleep fourteen days on bare ground or on a bed of grass or on reeds. Manu V. 735 and Yāj. III. 16, बौधायनस्मृतौ (Ānand. ed.) I. 5. 129 (मरणे तु...[[??]] अक्षारलवणाशिनौ दशाहं कटमासीनौ ।).
 
 [^917]:
     The Mit. explains : उदक्या रजस्वला, अशुचयः शवचण्डालपतितसूतिकायाः शावाशौचितस्य एतैः संस्पृष्टः स्नायात् । तैः पुनरुदक्याशुचिसंस्पृष्टाभिः
     (*Continued on the next page*)
-    संस्पृष्टः उपस्पृशेत् आचमेत् । आचम्य अक्षिण्णानि 'आपोहिष्ठा' इत्येवमादीनि त्रीणि मन्त्रवाक्यानि जपेत् । तथा गायत्रीं च सकृन्मनसि जपेत् । ... 'उदक्यायुच्च स्नायात्' इत्येतच्च ऋग्भ्यश्चतुर्भ्यो वरुणसूक्तेभ्यो वेदितव्यम् । चेतनव्यवधाने तु मानवम् (मनु. ५. ८५) : The सुद्धिकाण्ड p. 126 has 'तैः संस्पृष्टः' तैः चाण्डालदुर्ब्राह्मणैः etc. संस्पृष्टः दण्डादिना 'संस्पृष्टः', उपस्पृष्टः । उपस्पृशेत् आचमेत् । 'अक्षिण्णानि' आपोहिष्ठेत्यादीनि त्रीणि । This is all the explanation of this verse. This is not so clear at first sight as the explanation in Mit. is दण्डादिना in Kalpataru is by itself obscure, while the words of the Mit. (यद् दण्डादि-चेतनव्यवधानस्पर्शे) are clear enough.
+    संस्पृष्टः उपस्पृशेत् आचमेत् । आचम्य अक्षिण्णानि 'आपोहिष्ठा' इत्येवमादीनि त्रीणि मन्त्रवाक्यानि जपेत् । तथा गायत्रीं च सकृन्मनसि जपेत् । ...[[??]] 'उदक्यायुच्च स्नायात्' इत्येतच्च ऋग्भ्यश्चतुर्भ्यो वरुणसूक्तेभ्यो वेदितव्यम् । चेतनव्यवधाने तु मानवम् (मनु. ५. ८५) : The सुद्धिकाण्ड p. 126 has 'तैः संस्पृष्टः' तैः चाण्डालदुर्ब्राह्मणैः etc. संस्पृष्टः दण्डादिना 'संस्पृष्टः', उपस्पृष्टः । उपस्पृशेत् आचमेत् । 'अक्षिण्णानि' आपोहिष्ठेत्यादीनि त्रीणि । This is all the explanation of this verse. This is not so clear at first sight as the explanation in Mit. is दण्डादिना in Kalpataru is by itself obscure, while the words of the Mit. (यद् दण्डादि-चेतनव्यवधानस्पर्शे) are clear enough.
 
 [[P668]]
 
@@ -183,7 +190,7 @@ SO FAR PUBLISHED
 | | 756 | 4010 | 634 | 149.61 |
 
 [^984a]:
-    The passage would have to be corrected as 'śuśrūṣā-svarūpa-nivṛtti-......kāṇḍe-'bhihite'; for śuśrūṣa vide Br. K. pp. 211 ff and for its nivṛtti (its cessation) vide pp. 275 ff. Another possible correction would be śuśrūṣā-svarūpa-nivṛttiḥ ... kāṇḍebhihitā.
+    The passage would have to be corrected as 'śuśrūṣā-svarūpa-nivṛtti-...[[??]]kāṇḍe-'bhihite'; for śuśrūṣa vide Br. K. pp. 211 ff and for its nivṛtti (its cessation) vide pp. 275 ff. Another possible correction would be śuśrūṣā-svarūpa-nivṛttiḥ ...[[??]] kāṇḍebhihitā.
 
 [[P684]]
 A few remarks about the text of this large nibandha would not be out of place. The manuscript material was rather meagre and inferior. For example, on p. VIII in the Preface to the Br. Kāṇḍa it is stated that the edition is based on a single ms and on p. IX it is stated that the Udaipur ms (which belongs to the 16th century A. D. probably) was full of large elisions and omissions, that such omissions were filled up from citations of the same passages in later digests and that the missing parts so supplied are shown within rectangular brackets. On p. 279 in a note the Editor himself says that the ms. is very defective. The editor does not give even a specimen page of that ms. nor does he describe who the scribe was or how many folios it contained. In Vy. Kāṇḍa on p. 376 the editor remarks (in note 4) mss corrupt, passages restored conjecturally from the mss. and the following comment and citation in the Vivādaratnākara (then quotes three lines from V. R. p. 130). The most remarkable thing is that he does not put his conjectural reading in square brackets as he does in some other cases. On p. 377 he notes that there is a gap of more than two printed pages up to the top of p. 380 in Udaipur and Bikaner mss. In the case of the Vratakāṇḍa (6th in the series of kāṇḍas) the Editor states (on p. VI Preface) that the edition 'is based on the Nagpur and Ujjain Mss. Not a word more is said about the scribe, the number of folios, the date of the copying of the mss. or other details. That page also states that the Nagpur Ms. was so brittle that the curator would not allow a mechanical photographing and that somehow a transcript of such a dilapidated ms. was made on the spot and supplied to the Editor. One would naturally feel great diffidence before drawing chronological and other conclusions based on a text that is constituted from such materials. As regards the Śrāddhakāṇḍa, there is no description of the mss. anywhere. As regards some Kāṇḍas the mss. material seems to have been somewhat better. For example, as regards the Dāna-kāṇḍa, on pp. 124-126 of the Introduction he gives some information of the mss. relied upon for constituting the text. But the description of the mss. is not what is required in such cases but is vague. In this kāṇḍa the editor expends thirty pages (pp. 383-412) for setting out the readings of a ms from the Nagpur Bhosle Raja's Library. If only important readings had been given (and not also obvious scribal errors), a few pages only would have [[P685]]been enough. In the Gṛhasthakāṇḍa also 25 pages (pp. 430-460) are expended on various readings of two mss. In the Vy. Kāṇḍa the preface (pp. VIII-IX) refers to some mss. and copies, but no detailed descriptions of mss. or copies are given in one place and the footnotes refer merely to mss. J. A. S. B. and S. B. and Ja (i.e. mss from Jammu) and 'da' (Darbhanga ms). The state of the mss and this way of dealing with them detracts greatly from the value of conclusions drawn on the basis of the text presented with the help of such mss.
@@ -296,8 +303,8 @@ Certain passages in the Kalpataru on Vy. are more or less identical with passage
     romabaddhe ca &c.) the mit. explains 'कार्मिकं कर्मणा चित्रेण निर्मितम् ।
     यत्र निष्पन्ने पटे चक्रवस्तिकादिकं चित्रं सूत्रैः क्रियते तत्कार्मिकमित्युच्यते ।
     यत्र प्रावारादौ रोमाणि बध्यन्ते स रोमबद्धः तत्र त्रिंशत्तमो भागः क्षयो वेदितव्यः
-    कल्प० ( व्यव० ) p. 525 explains 'कार्मिकं यत्र निष्पन्ने पट्टादौ चक्रवस्तिकादिकं चित्रं सूत्रैः सूच्या क्रियते तदुच्यते । यत्र...स रोमबद्धे नेपालकम्बलादिः'
-    The कल्प० has no further comment of any kind; it has nothing corresponding to तत्र त्रिंशत्तमो...वेदितव्यः, while मिता० explains the 2nd
+    कल्प० ( व्यव० ) p. 525 explains 'कार्मिकं यत्र निष्पन्ने पट्टादौ चक्रवस्तिकादिकं चित्रं सूत्रैः सूच्या क्रियते तदुच्यते । यत्र...[[??]]स रोमबद्धे नेपालकम्बलादिः'
+    The कल्प० has no further comment of any kind; it has nothing corresponding to तत्र त्रिंशत्तमो...[[??]]वेदितव्यः, while मिता० explains the 2nd
     half and the word नेपालकम्बलादिः, either L. or scribes of North
     India would, it may be said that, easily think of Nepālakambala and added that word after romabaddhaḥ'; ( 8 ) On Yāj. II.
     276, the Mit. has मृतकमर्शनम् । अवकाशो निवासस्थानम् । अग्निः
@@ -307,13 +314,13 @@ Certain passages in the Kalpataru on Vy. are more or less identical with passage
     these very words and not a word more'; ( 9 ) On Yāj. II. 174
     ( ' paṇān – ekaśaphe &c. ), the Mit. explains the whole verse in over
     four lines 'एकशफे अश्वादौ प्रनष्टाधिगते तत्स्वामी राज्ञे रक्षणनिमित्तं चतुरः
-    पणान् दद्यात् &c ; कल्प० ( व्यव. p. 554 has only the words एकशफे...
+    पणान् दद्यात् &c ; कल्प० ( व्यव. p. 554 has only the words एकशफे...[[??]]
     पणान् दद्यात् and nothing more than that one line.
 
-    The words 'तत्र सांख्यानामेका मूलप्रकृतिः'......up to त्रयोविंशत्:करणानि'
+    The words 'तत्र सांख्यानामेका मूलप्रकृतिः'...[[??]]up to त्रयोविंशत्:करणानि'
     are the same in Aparārka p. 987 lines 4–7 after eight lines from
     Devala while in Mokṣakāṇḍa p. 1,006 these four lines begin a new
-    section with the words 'तत्र देवलः । तत्र सांख्यानामेका......' and end
+    section with the words 'तत्र देवलः । तत्र सांख्यानामेका...[[??]]' and end
     with the words त्रयोविंशत्:करणानि दश बहिःकरणानि.
     ( Continued on the next page )
 

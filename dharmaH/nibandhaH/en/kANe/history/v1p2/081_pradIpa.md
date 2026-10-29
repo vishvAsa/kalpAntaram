@@ -25,4 +25,4 @@ The foregoing discussion shows that the *Pradīpa* was probably an independent w
 
 Hemādri[^1040] refers to the explanation of the word *kalā* occurring in a text of Gārgya offered by a *Smṛtipradīpa*. It is not unlikely that he means the same work as is referred to by others as *Pradīpa*.
 
-[^1040]: यदाह गार्ग्यः। यज्ञकालस्तिथिद्वैधे षट्कालो यदि लक्ष्यते । पर्व तत्रोत्तरं कार्य हीने पूर्वमुपक्रमेत् । कलात्र मुहूर्त न तु घटिका । ...स्मृतिप्रदीपकृताप्यत्र कलाशब्दस्य मुद्रार्थतोक्ता । चतुर्वर्गं० ( काल ) p. 355.
+[^1040]: यदाह गार्ग्यः। यज्ञकालस्तिथिद्वैधे षट्कालो यदि लक्ष्यते । पर्व तत्रोत्तरं कार्य हीने पूर्वमुपक्रमेत् । कलात्र मुहूर्त न तु घटिका । ...[[??]]स्मृतिप्रदीपकृताप्यत्र कलाशब्दस्य मुद्रार्थतोक्ता । चतुर्वर्गं० ( काल ) p. 355.

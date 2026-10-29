@@ -58,7 +58,7 @@ The Atharvaveda has the Kauśika-sūtra as its Gṛhya[[.|,]] which was edited b
 [^46]: अयैतां जाम्या रिक्थप्रतिषेध उदाहरन्ति ज्येष्टं पुत्रिकाया इत्येके । Vide S. B. E. vol. 25, LXI (footnote) for Būhler's view refuting Roth's opinion that the whole discussion in the Nirukta is an interpolation.
 
 [^47]:
-    तदेतहक्लोकाभ्यामभ्युक्तम् । अङ्गादङ्गात्सम्भवसि...स जीव शरदः शतम् ।।
+    तदेतहक्लोकाभ्यामभ्युक्तम् । अङ्गादङ्गात्सम्भवसि...[[??]]स जीव शरदः शतम् ।।
 
     अविशेषेण पुत्राणादायोभवति धर्मतः। मिथुनानां विसर्गादो मनुः स्वायम्भुवोब्रवीत् ।।. The first half of the verse 'Aṇgād-aṇgāt' occurs in. Bṛ. Up. VI. 4. 9 and in Kauṣitaki Up. 2. 11 (three pādas) and the whole verse in Baud. Gṛ. and Āśv Gṛ. and in mantra-pāṭha II. 11. 33. The Mānavagṛhyasūtra (I. 18. 1) provides that the verse 'aṇgād-aṇgāt,' quoted io n. 47, was to be muttered over the son's head after the father returned from a journey. It may be noted that in the extant Manusmṛti 'Manuḥ Svāyambhuvoऽbravīt' occurs in IX. 158 and the words 'Manurāha Prajāpatiḥ' occur in X. 78 and the words 'tan-Manoranu śāsanam' occur in VIII. 139 and 279 and in IX. 239. This shows that the śloka quoted by the Nirukta might have been contained in some Smṛti work like the extant Manusmṛti. Vide Manu IX. 133 and 139 for the underlying idea that there is no difference between the son's son and the daughter's son and therefore between son and daughter.
 

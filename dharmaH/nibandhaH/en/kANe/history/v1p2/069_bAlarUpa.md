@@ -8,7 +8,7 @@ title = "069 Bālarūpa"
 In the [[Smrtisāra|Smṛtisāra]] of Harinātha (I. O. cat. No. 301, folio 128a ff) there is a long passage setting out the views of Bālarūpa on the question of the succession to a childless man. In the Vivādacandra[^811] of Misaru-miśra the opinions of Bāla-
 
 [^811]:
-    दुहितृणामभावे तदन्वयस्तत्पुत्रादिभिर्ज्ञेय इत्यर्थः । मातुरन्वय इति बालरूपः । विवादचन्द्र ( Ms. No. 57 of 1883-84 in the Govt. Mss. Lib. at the B. O. R. Institute, Poona ) folio 33a ; वालरूपमते तु संसृष्ट...
+    दुहितृणामभावे तदन्वयस्तत्पुत्रादिभिर्ज्ञेय इत्यर्थः । मातुरन्वय इति बालरूपः । विवादचन्द्र ( Ms. No. 57 of 1883-84 in the Govt. Mss. Lib. at the B. O. R. Institute, Poona ) folio 33a ; वालरूपमते तु संसृष्ट...[[??]]
 
 [[P597]]
 

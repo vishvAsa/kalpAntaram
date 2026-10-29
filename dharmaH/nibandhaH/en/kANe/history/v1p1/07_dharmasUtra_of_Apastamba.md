@@ -23,7 +23,7 @@ Dr. Ram Gopal says on p. 57 (of his work) that I am not accurate when I state ab
 mere numbers. He points out that there are ten sūtras in Āp. [[Gṭ,|Gṛ.]] about the choice of a marriageable girl. What I wanted to emphasise was that only one rule of Āp. Gr. was worth something and I quoted that rule. A marriage entered in defiance of all the ten rules in Āp. [[Gľ,|Gṛ.]] would have been quite valid even in those days. I wanted to illustrate how Āp. Gṛ. S. was scrappy and omitted even vital matters. The rules (only two) forbidding a sagotra or sapiṇḍa girl for marriage were vital and breach of them would have made the marriage void. Āp. Gṛ. S. I. 3. 21 is not Āpastamba's opinion; it is the view of others (Yasyām manaścakṣuṣor-nibandhas-tāsyām-ṛddhir-netaradādriyetetyeke). Even this rule is recommendatory and not obligatory and a marriage in defiance of it would have been quite valid in those days and would be valid also in these days. That view occurs also in the Kāmasūtra III. 1, 14. Vide H. of Dh. vol. II[[,|.|]] p. 432 note 1025 for further information. In the 2nd volume of H. of [[Dh,|Dh.]] on pp. 437-38, I mentioned this prohibition of sagotra and sapravara marriages and recommended on pp. 498-99 that the legislature should intervene and loosen the absolute bar against sagotra and sapravara marriages. The Indian Parliament (by Act 25 of 1955, called the Hindu Marriage Act) has removed the bar against Sagotra and Sapiṇḍa marriages to a great extent. Vide sections 3 (f and g) and 5 of that Act. The Āp. Gṛhya is silent about the forms of marriage, about holidays, about the duties of [[brahmacūrins|brahmacārins]] and such other subjects which are generally treated of in other Gṛhyasūtras. These subjects are dealt with in the Āp. Dh. [[S,|S.]] and there are several places where the [[Dharma sutra|Dharma-sūtra]] presupposes the existence of the Gṛhya and refers to it[[,|.|]] Compare Āp. Dh. S. II. 1, 2. 10-11[^82] with Āp. Gṛ. S. III. 7 (particularly sūtras 1, 17, 23). Vide note 54 above. Some sūtras are identical in the Gṛhya and Dharma, e. g. Āp. Dh. S. I. 1. 2. 38 and [[Gșhya|Gṛhya]] IV. 11. 15-16 (about the staff of Brahmacārin); Āp. Dh. [[8.|S.]] II. 4. 8. 7 and Gṛhya V. 13[[,|.|]] 19. In some cases the [[Grhya sūtra|Gṛhya-sūtra]] itself seems to refer to the teachings of the Dharmasūtra, 
 
 [^82]:
-    82 'क्षोभूते स्थालीपाके तस्योपचारः पार्वणेन व्याख्याताः' । आप. ध. सू.; 'अथैनामार्थेन स्थालीपाकेन याजयेत् । एवमत ऊर्ध्वं दक्षिणावर्जमुपोषिताभ्यां पर्वसु कार्यः । शेषस्य प्रासावरायें प्राश्नीयात् । उभयतः परिषेचनं यथा पुरस्तात्' । आप. गृ. II. 2. 3. 17 and आप. गृ. I. 2. 3. 17; 'समावृत्तं चे...यथोपदेशं पूजयेत्' । आप. ध. सू. II. 2. 5. 4 refers to आप. गृ. सू. V. 13. 2-19.
+    82 'क्षोभूते स्थालीपाके तस्योपचारः पार्वणेन व्याख्याताः' । आप. ध. सू.; 'अथैनामार्थेन स्थालीपाकेन याजयेत् । एवमत ऊर्ध्वं दक्षिणावर्जमुपोषिताभ्यां पर्वसु कार्यः । शेषस्य प्रासावरायें प्राश्नीयात् । उभयतः परिषेचनं यथा पुरस्तात्' । आप. गृ. II. 2. 3. 17 and आप. गृ. I. 2. 3. 17; 'समावृत्तं चे...[[??]]यथोपदेशं पूजयेत्' । आप. ध. सू. II. 2. 5. 4 refers to आप. गृ. सू. V. 13. 2-19.
 
 [[P56]] 
 
@@ -63,7 +63,7 @@ Baudhāyana. Some sūtras that are printed as prose are parts of [[vorses|verses
 Āpastamba quotes, besides the [[Saihitūs|Saṃhitās]], the [[Brālmanas|Brāhmaṇas]] very frequently (e. g., I. 1. 1, 10-11, [[1.|I.]] 1. 3. 9, I. 1. 3. 26, I. 2. 7. 7, [[1.|I.]] 2. 7. 11, I. 3. [[10,8|10. 8]]), He quotes the Vājasaneyaka ([[1.|I.]] 5. 17. 31) and the Vājasaneyi-brāhmaṇa (I. 4. 12. 3 on svādhyāya), he speaks of the Upaniṣads (II. 2. 5. 1), his quotations (II. 2. 3. 16-[[11.|II.]] 2. 4. 1-9) from the Tai. Āraṇyaka agree, according to Bühler, with the text current in the Āndhra country. He [[speakg8Sa|speaks]][^85a] of the six aṅgas of the Veda (in II. 4. 8. 10), and I added from the Kumbhakonam edition (which I was then using) ‘and the next sūtra enumerates chandas, [[kalpu|kalpa]], grammar, jyotiṣa, Nirukta, Śikṣā (phonetics ) and Chandoviciti (metrics ) which are seven [[etc.'|etc.’]] I find that Haradatta reads Chandaḥkalpa as one word and explains ‘Chando Vedas-tatkalpayati ... iti Chandaḥkalpaḥ [[Kalpasūtrāṇi'.|Kalpasūtrāṇi’.]] This is an extremely far-fetched explanation. Everywhere the Vedāṅgas are six. No other writer mentions so far as I know Chandaḥ-kalpa as an aṅga 
 
 [^84]:
-    84 SATENIIG STENOTE4... TUTTÀg FAU: Fruta TUTA: 1) 3974. 1.1.1.27; . ATASHITEL KitareTECZTA: 1. 8. 22. 3; 310 Ciri Traalane. 
+    84 SATENIIG STENOTE4...[[??]] TUTTÀg FAU: Fruta TUTA: 1) 3974. 1.1.1.27; . ATASHITEL KitareTECZTA: 1. 8. 22. 3; 310 Ciri Traalane. 
 
 Foga: I. 8. 23. 4. 63 On the sutra अन्यत्र राहुदर्शनात् (II. 7. 17. 25 ) he says 'उदीच्यास्त्वंतत्मायेण 
 
@@ -82,7 +82,7 @@ geri geta sirgarquiangala gira ET' Ti 1.4 and TORTA THIE : ( quoted in the Fi II
 [[nere|mere]] anuvāda and not a vidhi (vide Āp. Dh. S. II. 6. 14. 6-13). Baudhāyana cites both the texts of the Tai. S. about equal division among sons and about the oldest son's larger share and seems to favour the latter view by putting it last ([[11.|II.]] 2. 2-7). Similarly, the discussion in Āpastamba (I. 1. 4. 5-12) about [[it brahmacūrin|a brahmacārin]] eating the leavings (ucchiṣṭa) of his guru, provided the things are not directly forbidden by Śruti, [[soons|seems]] to be directed against Baudhāyana (II. 1. 25-26). Although [[Ā.pastamba|Āpastamba]] does not expressly quote Gautama, he appears to have had before him the Gautama-dharma-sūtra. He speaks of [[it|a]] smṛti (II. 6. 15. 25) that lays down that [[upunayana|upanayana]] confers [[rulhilcāra|adhikāra]] on a man for śāstric actions and that before [[upanayan ono|upanayana one]] is free to do any thing and to eat anything, This, as interpreted by Haradatta, refers to Gautama (II. 1)[^88]. There are striking coincidences between Gautama and Āpastamba, [[0, $.|e. g.]] Gaut. I. 19. = Āp. I. 1. 1. 41 (about some teachers prescribing the yellow robe to a brahmacārin), Gaut. I. 3 = Āp. [[11.|II.]] 6. 13. 7 ( about the violation of dharma by the great in [[fornier|former]] ages ), (Gaut. 9. 52 = Āp. I. 11. 31. 13, Gaut. 23. 9. = Āp. [[1.|I.]] 9. 25. 2; [[Gaut,|Gaut.]] 16. 19 = Āp. I. 3. 9. 14-15 ). Apastamba frequently refers to the views of his predecessors in the words 'eke' (I. 1.2. 
 
 [^87]:
-    87 311397\#:17 schiant ava: 1 ... FRET WT Winnisidrant a 
+    87 311397\#:17 schiant ava: 1 ...[[??]] FRET WT Winnisidrant a 
 
 aut gratife: 17 379. . F. 1. 6. 19. 2. 3 and 7. llcre various views on the question as to whose food should be partaken hy hegning are set forth. Bandhāyana says orrer: Harur:' whiclymentes with 71 
 
@@ -411,14 +411,14 @@ Shri. A. N. Krishna Aiyangar in Kunhan Raja Felicitation Volume (pp. 392–397 )
 
 [^86]: ' यस्माद्धर्मान्नचिनोति स आचार्यः ' आप. ध. सू. I. 1. 1. 14 ; ' आचार्यः सकलादाचारं ग्राहयति अचिनोत्यर्थानाचिनोति बुद्धिमिति वा ' निरुक्त 1. 4 and ' तस्मादेकतमच्छन्नः ' ( quoted in निरुक्त II. 3. )
 
-[^88]: अथ यद्यधिकारः शास्त्रे भवति । सा निन्दा । स्मृतिश्च । आप. ध. सू. I. 6. 5. 23-25 ; मातुलगोत्रनात् कामचारः कामवादः कामभक्षः । अहृतात् । गौ. ध. सू. ...
+[^88]: अथ यद्यधिकारः शास्त्रे भवति । सा निन्दा । स्मृतिश्च । आप. ध. सू. I. 6. 5. 23-25 ; मातुलगोत्रनात् कामचारः कामवादः कामभक्षः । अहृतात् । गौ. ध. सू. ...[[??]]
 
 [^96]: ' यथैव स्मृतिः " धर्मे च अर्थे च कामे च नातिचरितव्या " इति, " धर्मप्रजासम्पन्ने द्वारे नार्याः कुर्वीत " इति च एवमिदमपि स्मर्यते एव " अन्यतरापाये अन्यां कुर्वीत " इति । शबर. आप. says " धर्मप्रजासम्पन्ने द्वारे नार्यां कुर्वीत । अन्यतराभावे कार्यां प्रागल्भ्याधेयात् " II. 5. 11. 13.
 
-[^97]: तन्त्रवार्तिक p. 138 ' प्रतिदेशं व्यवस्थया । आपस्तम्बेन संहृत्य दृष्टान्तमुपलक्ष्यते ॥ '. This has in view ' एतेन देशकालधर्मा व्याख्याताः ' आप. ध. सू. II. 6. 15. 1 ; यापि चापस्तम्बस्मृतिवचनातुल्यवत्सलाङ्गङ्गा भवेत्सापि तस्माद् ब्राह्मणः सुरां न पिबेदिति एतेन प्रत्यक्षस्मृतिविधिना निराकृतेति नैवं विप्राचारमापन्न...
+[^97]: तन्त्रवार्तिक p. 138 ' प्रतिदेशं व्यवस्थया । आपस्तम्बेन संहृत्य दृष्टान्तमुपलक्ष्यते ॥ '. This has in view ' एतेन देशकालधर्मा व्याख्याताः ' आप. ध. सू. II. 6. 15. 1 ; यापि चापस्तम्बस्मृतिवचनातुल्यवत्सलाङ्गङ्गा भवेत्सापि तस्माद् ब्राह्मणः सुरां न पिबेदिति एतेन प्रत्यक्षस्मृतिविधिना निराकृतेति नैवं विप्राचारमापन्न...[[??]]
 
 [^98]: परमात्मानमेव प्रकृत्यापस्तम्बः पठति ' तस्मात्कायाः प्रभवति सर्वे स मूलं शापशीलकः स नित्यः '.
 
-[^99]: आग्रे फलार्थे इत्यादि द्वापस्तम्बस्मृतिर्वचः । फलवच्च समाचक्षे नित्यानामपि कर्मणाम् ... ऋषिदर्शनकभाव्यवार्तिक. आपस्तम्ब's words are ' तद्यथा आग्रे फलार्थे निमिते कर्मणि गन्ध इव दूरादुपयेते एवं धर्मे चर्यमाणमर्थो अनुगच्छति '.
+[^99]: आग्रे फलार्थे इत्यादि द्वापस्तम्बस्मृतिर्वचः । फलवच्च समाचक्षे नित्यानामपि कर्मणाम् ...[[??]] ऋषिदर्शनकभाव्यवार्तिक. आपस्तम्ब's words are ' तद्यथा आग्रे फलार्थे निमिते कर्मणि गन्ध इव दूरादुपयेते एवं धर्मे चर्यमाणमर्थो अनुगच्छति '.
 
 [^100]: Vide my article in JBBRAS for 1922 pp. 205-206.

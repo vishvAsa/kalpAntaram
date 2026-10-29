@@ -20,17 +20,17 @@ That Bhāradvāja was an ancient writer [[op|on]] [[arthaśāstre|arthaśāstra]
 
 [^290]: माषाढकीमुद्गवन्ति विदलानि न दद्यात्—इति भरद्वाजः ।
 
-[^291]: कौटिल्य says (13. 1) 'इन्द्रस्य हि स प्रणमति यो बलीयसो नमति—' भरद्वाजः ; शान्तिपर्व 67. 11 '... स प्रणमते नमते यो बलीयसे ।' 
+[^291]: कौटिल्य says (13. 1) 'इन्द्रस्य हि स प्रणमति यो बलीयसो नमति—' भरद्वाजः ; शान्तिपर्व 67. 11 '...[[??]] स प्रणमते नमते यो बलीयसे ।' 
 
 [[P292]]
 
-rājaśāstra. The Yaśastilaka[[299|[^292]]] (4th Āśvāsa p. 100, [[Nirṇaya. sāgara|Nirṇaya-sāgara]] ed.) quotes two verses of Bhāradvāja from his treatise on the topic of the six [[guras|guṇas]]. This shows that Bhāradvāja's work on politics was available in the 10th century and [[contai ned|contained]] verses (probably intermixed with prose). 
+rājaśāstra. The Yaśastilaka[^292] (4th Āśvāsa p. 100, [[Nirṇaya. sāgara|Nirṇaya-sāgara]] ed.) quotes two verses of Bhāradvāja from his treatise on the topic of the six [[guras|guṇas]]. This shows that Bhāradvāja's work on politics was available in the 10th century and [[contai ned|contained]] verses (probably intermixed with prose). 
 
 [['|]]Bharadvāja (Bārhaspatya) is the sage of the whole of the sixth Maṇḍala of the Ṛgveda. The form Bharadvāja occurs (in the singular) in several verses (e. g. Ṛg. VI. 16. 5 and 33, VI. 31. 4) and in the plural also (in Ṛg. VI. 25. 9 and VI. 50. 15). The form Bhāradvāja occurs in Ṛg. VI. 51. 12 and in VII. 2. 63. Pāṇini mentions Bhāradvāja as a predecessor. The Mahābhāṣya notes at least in nine cases that the [[Bhārad vājīyas|Bhāradvājīyas]] read the Vārtikas differently ([[e. y.|e. g.]] Vārtika 9 on [[Pay.|Pāṇ.]] I. 1. 56, Vārtika 3 on I. 2. 22, Vārtika 4 on IV. 1. 79). [[Tbat|That]] is, the Bhāradvājīyas were a school of grammarians. Bhāradvāja is said to be the eldest son of Bṛhaspati in [[Anuśāsana parva|Anuśāsanaparva]] 30. 24 ff.. In [[Santiparvasan|Śāntiparva[^292a]]] chap. 140 there are two verses that state: the king should have the rod of punishment ready (or raised up), that he should always exhibit his prowess, he should have no weak points, but should find out the weak points (of others) and should pursue the holes (weaknesses) of others; that people are afraid of him whose Rod is raised and that out of the four [[upāyur|upāyas]] Daṇḍa is the supreme one. These occur in Bharadvāja's dialogue in Śānti 140. [[Mapu|Manu]] (VII. 102-103) has almost the same verses. Kauṭilya differs 
 
 [^292]: अवक्षेपणं हि सतामसतां प्रग्रहेण च । तथा सत्त्वेष्वभिद्रोहाद्धर्मस्य च कारणात् ॥ विमाननाच्च मान्यानां विश्वस्तानां च घातनात् । प्रजानां जायते कोपो नृपतेश्चायुषः क्षयः ॥ इति कथमिदमभाषत षाड्गुण्यप्रस्तावे भारद्वाजः ॥
 
-[^292a]: नित्यमुद्यतदण्डः स्यान्नित्यं विवृतपौरुषः । अच्छिद्रश्छिद्रदर्शी च परेषां विवरानुगः ॥ नित्यमुद्यतदण्डस्य नित्यमुद्विजते नरः । तस्मात्सर्वाणि भूतानि दण्डेनैव प्रसाधयेत् । ... तस्माच्चतुष्टये तस्मिन् प्रधानो दण्ड इष्यते ॥ शान्ति° 140. 7-9 (dialogue of भारद्वाज with शत्रुञ्जय king of Sauvīra). Compare मनुस्मृति (VII. 102-3 नित्यमु... पौरुषः । नित्यमुद्यतदण्डस्य कृत्स्नमुद्विजते जगत् । तस्मात् ... साधयेत् ॥. Vide अर्थशास्त्र I. 4, 6-11 तस्माल्लोकयात्रार्थी नित्यमुद्यतदण्डः स्यात् । न ह्येवंविधं वशोपनयनमस्ति भूतानां यथा दण्डः इत्याचार्याः । नेति कौटिल्यः । तीक्ष्णदण्डो हि भूतानामुद्वेजनीयो भवति । मृदुदण्डः परिभूयते । यथार्हदण्डः पूज्यते । सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति । (Some identical words and phrases in the three works have been underlined) 
+[^292a]: नित्यमुद्यतदण्डः स्यान्नित्यं विवृतपौरुषः । अच्छिद्रश्छिद्रदर्शी च परेषां विवरानुगः ॥ नित्यमुद्यतदण्डस्य नित्यमुद्विजते नरः । तस्मात्सर्वाणि भूतानि दण्डेनैव प्रसाधयेत् । ...[[??]] तस्माच्चतुष्टये तस्मिन् प्रधानो दण्ड इष्यते ॥ शान्ति° 140. 7-9 (dialogue of भारद्वाज with शत्रुञ्जय king of Sauvīra). Compare मनुस्मृति (VII. 102-3 नित्यमु...[[??]] पौरुषः । नित्यमुद्यतदण्डस्य कृत्स्नमुद्विजते जगत् । तस्मात् ...[[??]] साधयेत् ॥. Vide अर्थशास्त्र I. 4, 6-11 तस्माल्लोकयात्रार्थी नित्यमुद्यतदण्डः स्यात् । न ह्येवंविधं वशोपनयनमस्ति भूतानां यथा दण्डः इत्याचार्याः । नेति कौटिल्यः । तीक्ष्णदण्डो हि भूतानामुद्वेजनीयो भवति । मृदुदण्डः परिभूयते । यथार्हदण्डः पूज्यते । सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति । (Some identical words and phrases in the three works have been underlined) 
 
 [[P293]]
 
@@ -42,6 +42,6 @@ The Parāśara-Mādhavīya (vol III, p. 231) quotes a verse of [[Bharudvaja|Bhar
 
 [[P294]]
 
-only for ten days, but could be annulled till the 9th year, if unfair.[[393|[^293]]] It appears that the verses of Bharadvāja on vyavahāra are taken from a work other than the ancient work on politics.
+only for ten days, but could be annulled till the 9th year, if unfair.[^293] It appears that the verses of Bharadvāja on vyavahāra are taken from a work other than the ancient work on politics.
 
 [^293]: सन्धिश्च परिवृत्तिश्च विभागश्च समा यदि । आदशाहं निवर्तेत विषमे नववत्सरात् ॥ सरस्वतीविलास pp. 314. 320. 

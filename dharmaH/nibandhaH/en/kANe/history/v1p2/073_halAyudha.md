@@ -14,13 +14,13 @@ The Vivādaratnākara of Caṇḍeśvara mentions Halāyudha dozens of times. In
 The name Halāyudha (an epithet of Balarāma, the brother of Kṛṣṇa) was a common one in India and therefore there are several eminent authors named Halāyudha. Great confusion is due to this and is increased by unscrupulous writers fawning upon patrons. This will be briefly illustrated here.
 
 [^849]:
-    अत्र हलायुधनिबन्धे स्खले :। आपत्समाप्तौ काले सामग्री सृज्ये : प्रमाणं वैरुपरिप्रमोषे तु आगमसरणे सृज्ये: प्रमाणं सर्वात्मना क्रिया : सृज्ये : ... युष्माकं इति हि कालायनवचनम् । हानेपतिपदंकालं च वाक्यानां प्रमाण-परिपालकेन... । स्मृतिसार ( I. O. cat. No. 301, folio 107 b ).
+    अत्र हलायुधनिबन्धे स्खले :। आपत्समाप्तौ काले सामग्री सृज्ये : प्रमाणं वैरुपरिप्रमोषे तु आगमसरणे सृज्ये: प्रमाणं सर्वात्मना क्रिया : सृज्ये : ...[[??]] युष्माकं इति हि कालायनवचनम् । हानेपतिपदंकालं च वाक्यानां प्रमाण-परिपालकेन...[[??]] । स्मृतिसार ( I. O. cat. No. 301, folio 107 b ).
 
 [^850]:
     याज्ञवल्क्येन पितरो श्रातर इति श्रातृसद्भावेपि विभोरधिकार उक्तः स पितृतामात्रादेव जीवनविशेष: । यदिपितृद्रव्यविरोधोार्थो तत्पित्रोः सद्भावेपि श्रातृणामेव । स्मृतिसार folio 140 b.
 
 [^851]:
-    अप्रतिबन्धादपहृतं ... प्रचितिः ।। अप्स्वविभक्तावेव विभागे प्राप्ते वचनरमोन्न-वीद्दीर्घभाबं ज्ञापयतीति हलायुधः । विवादचिन्तामणि p. 148. Vide दायतत्त्व ( p. 182 Jivananda, vol. II ) for the same view of हलायुध.
+    अप्रतिबन्धादपहृतं ...[[??]] प्रचितिः ।। अप्स्वविभक्तावेव विभागे प्राप्ते वचनरमोन्न-वीद्दीर्घभाबं ज्ञापयतीति हलायुधः । विवादचिन्तामणि p. 148. Vide दायतत्त्व ( p. 182 Jivananda, vol. II ) for the same view of हलायुध.
 
 [^852]:
     ‘अप्रः पादस्तम्भोपरि निर्भिन्नमूलाघटार्थ इति मिताक्षरा । दाक्षीयोहृदयः कौल्क इति हलायुधः ।’ वीर° p. 254 ; वीर° p. 572 says हलायुध read in मनु 2. 207 स निर्वेषः ; for स निर्वेषः ( निर्मायः ).
@@ -46,12 +46,12 @@ east of the palace and the hall should face the east; and, Kātyāyana states th
 For the genealogy of Halāyudha, vide J.A.S.B. (New Series) Vol. XI. p. 332 where a long pedigree is given by M. M. Chakravarti, which is based on the chart drawn up by Bharatacandrāśiromani for his patron, Prasannakumara Tagore and printed at the beginning of his edition of the Divyābhāga (in 1863). It has been shown above how such genealogies are often unreliable. Halāyudha's father was Dhanāñjaya who had three sons... Paśupati, Īśāna and Halāyudha, Halāyudha mentions Paśupati as ‘agraja’ (eldest or elder) in verse 24 of Br. SAR. and refers to his work called ‘paddhati’ on śrāddha. Paśupati's *paddhati* is mentioned in (vol. I) Śrāddhatattva p. 213 and Paśupati is named in vol. II) in Udvāhatattva p. 147 and Yajurvedīśrāddhatattva pp. 490-494. Paśupati also composed ‘Pāka-yajña’ paddhati (vide Intro. verse 43 to Br. Sarvasva). Īśāna-nyāyacārya is mentioned in (Vol. I) Śrāddhas p. 313 and (vol. II) in Udvāha
 
 [^853]:
-    श्राता पठनिम्नग्नः ... । ... । ... ।। सर्वतो ... वीर° verse 24.
+    श्राता पठनिम्नग्नः ...[[??]] । ...[[??]] । ...[[??]] ।। सर्वतो ...[[??]] वीर° verse 24.
 
 [^854]:
-    मीमांसासर्वं वैष्णवसर्वं शैवसर्वं पण्डितसर्वं च । ... सर्वे सर्व-शिरोमणे ।। verse 19.
+    मीमांसासर्वं वैष्णवसर्वं शैवसर्वं पण्डितसर्वं च । ...[[??]] सर्वे सर्व-शिरोमणे ।। verse 19.
 
-    On p. 7 and p. 10 of the Brāhmaṇasarvasva Halāyudha clearly sets forth his object ( which is of a limited scope ) in composing the work as follows :- दन्तधावनमारभ्य यावद्रात्रौ विमर्शनं । मन्त्राणां तावता तन्मुख्यानां व्याख्यानमुपदिश्यते । ( p. 7 verse 44 ) ; श्रुतं व्याख्यातमिति शास्त्रार्थ-कुशलैर्नयन(?) ... ।
+    On p. 7 and p. 10 of the Brāhmaṇasarvasva Halāyudha clearly sets forth his object ( which is of a limited scope ) in composing the work as follows :- दन्तधावनमारभ्य यावद्रात्रौ विमर्शनं । मन्त्राणां तावता तन्मुख्यानां व्याख्यानमुपदिश्यते । ( p. 7 verse 44 ) ; श्रुतं व्याख्यातमिति शास्त्रार्थ-कुशलैर्नयन(?) ...[[??]] ।
 
 [[P627]]
 
@@ -65,10 +65,10 @@ The text of the Mīmāṁsāsarvasva (dealing with Mīmāṁsā matters up to th
     दन्तधावनमारभ्य यावद्रात्रौ विमर्शनं । मन्त्राणां तावता तन्मुख्यानां व्याख्यानमुपदिश्यते ।। 
 
 [^856]:
-    व्याख्यातो मनसामित्र्यायस्य वचनेनैव । ... । ... ।। This is verse 30 of the Introduction to the Brāhmaṇasarvasva.
+    व्याख्यातो मनसामित्र्यायस्य वचनेनैव । ...[[??]] । ...[[??]] ।। This is verse 30 of the Introduction to the Brāhmaṇasarvasva.
 
 [^857]:
-    Compare पारस्करगृह्य I. 2. 1-2 ‘ आवसथ्यावान् दारकाले । दायकाले ... ।’
+    Compare पारस्करगृह्य I. 2. 1-2 ‘ आवसथ्यावान् दारकाले । दायकाले ...[[??]] ।’
 
 [[P628]]
 
@@ -79,7 +79,7 @@ The time when Halāyudha flourished depends to some extent on the time of Lakṣ
 Verse 14 of the Intro. to Br. Sarvasva contains the clear words ‘Dharmādhyakṣa-Halāyudhasya sadṛśo nāśyaḥ priyaḥ kopyabhūt’. On p. 132 of the Br. Sarvasva he describes himself as the officer entrusted with the moneys set apart by
 
 [^858]:
-    वाये ध्यविपरिप्रपञ्चयन् : श्रेयो ... । ... ।। Intro. verse 12 of ब्राह्मणसर्वस्व. Vide E. I. vol. XIV p. 156 at p. 160 of the Nalati grant of king Ballālasena, father of Lakṣmaṇasena, where a mahādharmādhya-kṣa is mentioned among great functionaries of State.
+    वाये ध्यविपरिप्रपञ्चयन् : श्रेयो ...[[??]] । ...[[??]] ।। Intro. verse 12 of ब्राह्मणसर्वस्व. Vide E. I. vol. XIV p. 156 at p. 160 of the Nalati grant of king Ballālasena, father of Lakṣmaṇasena, where a mahādharmādhya-kṣa is mentioned among great functionaries of State.
 
 [[P629]]
 
@@ -95,20 +95,20 @@ The passages quoted in the note establish that the Adbhutāsāgara was begun in 
     सत्तं शत्रौ च मतेन च धर्मशास्त्रविचारदः । विमृश्येषु कुलीनैश्च धर्माधिकरणी भवेत् ॥ मत्स्य° 215. 24.
 
 [^860]:
-    हलायुधेन गौडेन्द्रमुखैमोहितारिपुरा । एतत्पुत्रस्य ... व्याख्यानं प्रतिपद्यते ॥ ब्रा. स. p. 132.
+    हलायुधेन गौडेन्द्रमुखैमोहितारिपुरा । एतत्पुत्रस्य ...[[??]] व्याख्यानं प्रतिपद्यते ॥ ब्रा. स. p. 132.
 
 [^861]:
-    शाके नवसेन्दुद्वयं ( १०९० ) आरब्धमद्भुतसागरम् । गौडेन्द्रकुञ्जराल ... सम्भाव्यादैर्घ्यमितिः ॥ ... स तस्य साम्राज्यक्रमाद् ... ( Continued on the next page )
+    शाके नवसेन्दुद्वयं ( १०९० ) आरब्धमद्भुतसागरम् । गौडेन्द्रकुञ्जराल ...[[??]] सम्भाव्यादैर्घ्यमितिः ॥ ...[[??]] स तस्य साम्राज्यक्रमाद् ...[[??]] ( Continued on the next page )
 
 [[P630]]
 
 rule about 1169 A. D. The Saduktikarṇāmṛta[^862] of Śrīdharadāsa tells us that he completed the work in the Śaka year 1127 (1205-6 A. D.) in the 27th year of Lakṣmaṇasena's reign i. e. Lakṣmaṇasena began to reign about 1178-79 A. D. and ruled till 1205-6 (probably only in Bihar as he lost Bengal in 1200 A. D.). Thus there are two authenticated dates for the accession of Lakṣmaṇasena viz. 1168-69 A. D. and 1178-9 A. D. At the end of the Dānasāgara (edited by Dr. Bhabatosh Bhattacharya and published B. I. Series in 1953) a verse says the Dānasāgara was composed at the end of Śaka year 1091 (1169-70 A. D.).[^863] Therefore, the literary activity of Halāyudha would have to be assigned to the period 1160-1200 A. D. The Br. Sarvasva and the Pandita-sarvasva are quoted by Raghunandana in the Smṛtitattva as stated above.
 
 [^862]:
-    शाके श्री... पञ्चदशे ... सदुक्तिकर्णामृत ... p. 4 ( Prabhakari Press 1905 ). ... 
+    शाके श्री...[[??]] पञ्चदशे ...[[??]] सदुक्तिकर्णामृत ...[[??]] p. 4 ( Prabhakari Press 1905 ). ...[[??]] 
 
 [^863]:
-    गीता ... समाप्त ... दानसागर p. 722.
+    गीता ...[[??]] समाप्त ...[[??]] दानसागर p. 722.
 
 [[P631]]
 
@@ -143,7 +143,7 @@ In this connection it is necessary to say a few words on the two words ‘Vyavah
 In the Br. Up. V. 14, 4 we have the famous remark ‘cakṣur-vai satyam’ and it is added ‘therefore when two persons come disputing about a matter, one saying “I saw it” and another saying “I heard it”, we believe him alone who says “I saw it”.’ Here the word ‘vivāda’ is used in the
 
 [^864]:
-    Vide दायतत्त्व ( vol. II p. 182 ) अनिभ्रान्तलोके विभागे प्राप्ते वचनरमो-बौद्धैषामर्ष ज्ञापयतीति विश्वरूपहलायुधमतयः श्रेयो ... अभिमतः ।
+    Vide दायतत्त्व ( vol. II p. 182 ) अनिभ्रान्तलोके विभागे प्राप्ते वचनरमो-बौद्धैषामर्ष ज्ञापयतीति विश्वरूपहलायुधमतयः श्रेयो ...[[??]] अभिमतः ।
 
 [[P634]]
 
@@ -181,7 +181,7 @@ For reasons of space it is impossible to illustrate Halāyudha's principles and 
 Ancient Vedic texts insist that one engaged in the performance of a sacrifice or the like must know in the case of a wavy mantra the sage, metre, the deity and the purpose (*viniyoga*) for which it is employed and state what undesirable consequences employing mantras without knowing these details will follow.
 
 [^866]:
-    Halāyudha's remarks on the Aghamarṣaṇa mantra are interesting : अघमर्षणस्य व्याख्यानमाचरितं ‘हृदि प्रकाशो जायेत यत: सर्ववेदभावानुभूति-प्रत्ययात्मकस्य मन्त्र:’ । अथ पदार्थतावच्च न वास्ति ब्राह्मणैरप्रतिपाद्यमस्य नास्ति । इत्यमिति यद्व्याख्यानानुगुणं कर्मयुग्माप्रयमये(?) ...।
+    Halāyudha's remarks on the Aghamarṣaṇa mantra are interesting : अघमर्षणस्य व्याख्यानमाचरितं ‘हृदि प्रकाशो जायेत यत: सर्ववेदभावानुभूति-प्रत्ययात्मकस्य मन्त्र:’ । अथ पदार्थतावच्च न वास्ति ब्राह्मणैरप्रतिपाद्यमस्य नास्ति । इत्यमिति यद्व्याख्यानानुगुणं कर्मयुग्माप्रयमये(?) ...[[??]]।
 
 [[P639]]
 
@@ -192,4 +192,4 @@ There is a work called Karmopadeśinī (a manual on the daily religious rites) a
 Vide J. A. S. B. 1915 pp. 327-336 where M. M. Chakravarti brought together interesting information about Halāyudha.
 
 [^867]:
-    कर्तुं व्याख्यदिदं गाधीरवचने: सूत्रं यतो ... दुर्बोध्यं च ततो हलायुध इति व्याख्यातृ ... ॥
+    कर्तुं व्याख्यदिदं गाधीरवचने: सूत्रं यतो ...[[??]] दुर्बोध्यं च ततो हलायुध इति व्याख्यातृ ...[[??]] ॥

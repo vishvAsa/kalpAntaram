@@ -8,7 +8,7 @@ title = "074 Bhavadevabhaṭṭa"
 The Vyavahāratattva of Raghunandana and the Viramitrodaya tell us that Bhavadevabhaṭṭa composed a work called Vyavahāratilaka on judicial procedure. The Vyavahāratattva[^868] tells us that Bhavadeva read ‘astavyastapadavāyāpi’ instead of ‘yadyastāpadamavyāpi’ in Kātyāyana's verses
 
 [^868]:
-    ‘अस्तव्यस्तपदव्यापि अनमितार्थापदव्यापि ...’ व्यवहारातिलके भवदेवभट्टः । व्यवहारतत्त्व ( p. 297, vol. II, Jivananda ) ; भवदेवेन तु अस्तव्यस्तपदव्या-पीति पाठं लिखित्वानन्त्यार्थपदव्याप्तमिति व्याख्यातं व्यवहारातिलके । वीर° p. 85.
+    ‘अस्तव्यस्तपदव्यापि अनमितार्थापदव्यापि ...[[??]]’ व्यवहारातिलके भवदेवभट्टः । व्यवहारतत्त्व ( p. 297, vol. II, Jivananda ) ; भवदेवेन तु अस्तव्यस्तपदव्या-पीति पाठं लिखित्वानन्त्यार्थपदव्याप्तमिति व्याख्यातं व्यवहारातिलके । वीर° p. 85.
 
 [[P640]]
 
@@ -139,7 +139,7 @@ Many ancient sages are quoted. Manu, Yājñavalkya, Gautama and Parāśara are p
 The date of Bhavadeva can be approximately settled to be about 1100 A. D. as he is quoted by Hemādri, the Vivādacandra of Misaru and the Smṛtisāra of Harinātha. He is certainly earlier than 1200 A. D. A period of at least half a century must have elapsed before a Bengal writer like Bhavadeva came to be looked upon as an authority on mīmāṁsā by Hemādri who wrote in distant Berar. It appears that he was quoted in the Karmopadeśinī of Aniruddha (I. O. cat. No. 1853. p. 474). But that Ms. is bound up with another work by a later author and the reference in the cat. is not quite clear. If we rely on the Viramitrodaya, a work called Pradīpa criticised the views of Bhavadeva on the verse of Yāj. II. 24 (about adverse possession for 20 and 10 years). Bhavadeva held that twenty years' enjoyment of immovable property by a stranger implied that the real owner meant to abandon it for the benefit of the stranger enjoying it, that such abandonment for the enjoyment of another leads to the inference of the extinction of previous ownership and that the property being abandoned by the owner in favour of the stranger who takes hold of it, ownership also (of the stranger) arises. The Pradīpa[^881] points out that it does not invariably
 
 [^881]:
-    भवदेवस्तु ... ततस्वेदं वाच्यं यद्ययं यथोको भोगः पूर्वस्मिन्नो भोक्तुंदृष्टेन त्यागात् तत्सङ्कल्पेनायेपि अनुमायति वा । ... तथा च वद्धेन्द्रेण युक्ते तत्परिव्याप्त्योद्रेण परस्य तत्र स्वत्वमापद्यत ।। ... अत्र प्रदीपः । यत्तु हि सञ्चये-( क्षे ? )णां नात्र फलमित्यत्र तद्युक्तमेव । तदपि युक्त्या मुक्त ( मुक्त ? ) पक्षेन्द्रलक्षणासम्भवेन भुवं प्रयोजयेत्समयेभ्युदाय-रक्ष्यो तत्र परमोक्षे क्षमे तन्यते विवक्षाप्रयोजे भोजेपि स्मार्ते-दृशेनेन यज्ञे रक्षेन्निति व्यवहितेऽपि । ... श्रुतं ... ग्राम- ( Continued on the next page )
+    भवदेवस्तु ...[[??]] ततस्वेदं वाच्यं यद्ययं यथोको भोगः पूर्वस्मिन्नो भोक्तुंदृष्टेन त्यागात् तत्सङ्कल्पेनायेपि अनुमायति वा । ...[[??]] तथा च वद्धेन्द्रेण युक्ते तत्परिव्याप्त्योद्रेण परस्य तत्र स्वत्वमापद्यत ।। ...[[??]] अत्र प्रदीपः । यत्तु हि सञ्चये-( क्षे ? )णां नात्र फलमित्यत्र तद्युक्तमेव । तदपि युक्त्या मुक्त ( मुक्त ? ) पक्षेन्द्रलक्षणासम्भवेन भुवं प्रयोजयेत्समयेभ्युदाय-रक्ष्यो तत्र परमोक्षे क्षमे तन्यते विवक्षाप्रयोजे भोजेपि स्मार्ते-दृशेनेन यज्ञे रक्षेन्निति व्यवहितेऽपि । ...[[??]] श्रुतं ...[[??]] ग्राम- ( Continued on the next page )
 
 [[P652]]
 

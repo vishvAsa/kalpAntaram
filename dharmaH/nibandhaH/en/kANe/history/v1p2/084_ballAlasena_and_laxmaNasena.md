@@ -39,7 +39,7 @@ He names 13 Purāṇas, 8 Upapurāṇas and 28 Smṛtis and three specified work
 
 [[P735]](Aniruddha).[^1057] In the colophon he is styled mahārājādhirāja and niḥśaṅka-śaṅkara.
 
-[^1057]: अधिगतसकलपुराणस्मृतिसारः श्रद्धया गुरोरस्मात् । कलिकल्मषावसादं दाननिबन्धं विधत्ते नु ॥ ...श्रीबल्लालनरेश्वरो विरचयत्येतं गुरोः शिक्षया स्वप्रज्ञावधि दानसागरमयं श्रद्धावतां श्रेयसे ॥ verses 7 and 9 of दानसागर I. O. Cat. p. 542.
+[^1057]: अधिगतसकलपुराणस्मृतिसारः श्रद्धया गुरोरस्मात् । कलिकल्मषावसादं दाननिबन्धं विधत्ते नु ॥ ...[[??]]श्रीबल्लालनरेश्वरो विरचयत्येतं गुरोः शिक्षया स्वप्रज्ञावधि दानसागरमयं श्रद्धावतां श्रेयसे ॥ verses 7 and 9 of दानसागर I. O. Cat. p. 542.
 
 Brāhmaṇa, in all 52 works. At the end of the work (on p. 72), he names 46 works the opinions of which he considered and composed the *Dānasāgara*. The learned editor points this discrepancy in the Intro. (p. xxii).
 

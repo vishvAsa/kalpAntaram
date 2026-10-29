@@ -10,7 +10,7 @@ title = "079 Jīmūtavāhana"
 Jīmūtavāhana is the first of the triumvirate of Bengal writers on *dharmaśāstra*, the other two being Śūlapāṇi and Raghunandana. Only three works of his are known and they have all been printed viz: the Kālaviveka (B. I. series, 1905), the Vyavahāramātṛkā (published in the memoirs of the Bengal Asiatic Society, vol. III., No. 5, pp. 277-353, edited by the late Sir Asutosh Mukerji), the Dāyabhāga (published several times). It appears that these works were intended to form part of a vast treatise on *dharmaśāstra* called *Dharmaratna*, as stated in the Kālaviveka.[^989] In this work I have used the edition of the Dāyabhāga printed in 1829.
 
 [^989]:
-    बहुविधविवादतिमिरप्रस्तं ग्रहणं रवेः शशाङ्कस्य । तद्धर्मरत्नदीपालोकात्सकलं विलोकयत ॥ इति पारिभाद्रीयमहामहोपाध्याय-जीमूतवाहनकृतौ धर्मरत्ने कालविवेकः समाप्तः । last verse and colophon of कालविवेक; similarly the colophon of the दायभाग is ' इति पारिभद्रीय...धर्मरत्ने दायभागः समाप्तः' ।
+    बहुविधविवादतिमिरप्रस्तं ग्रहणं रवेः शशाङ्कस्य । तद्धर्मरत्नदीपालोकात्सकलं विलोकयत ॥ इति पारिभाद्रीयमहामहोपाध्याय-जीमूतवाहनकृतौ धर्मरत्ने कालविवेकः समाप्तः । last verse and colophon of कालविवेक; similarly the colophon of the दायभाग is ' इति पारिभद्रीय...[[??]]धर्मरत्ने दायभागः समाप्तः' ।
 
 [[P700]]
 
@@ -65,7 +65,7 @@ About twenty *smṛtikāras*[^1000] are mentioned in the Vyavahāramātṛkā. K
     मया प्राचां निबन्दृणामियं व्याख्या (वाणी?) पुरस्कृता । दूषणं विश्वरूपादेर्निराकृत्य प्रपञ्चितम् ॥ p. 352. M. M. Chakravarti is not right in taking (JASB, 1915 p. 317) ‘prācām’ to mean ‘eastern’ in this verse, as in the previous verse also जीमूतवाहन refers ‘to all *munis*’ and ‘former works’ ‘इति सकलमुनीनां मुक्तिवाक्यं विमृश्य खरसत इह सोर्थो गम्यते न्यायतश्च । स पुनरपनिबन्धो (द्वो!) गृह्यतां बुद्धिमद्भिर्भवति यदि न जाड्यं भवेद्या प्राकृतेषु’ ॥
 
 [^1002]:
-    e. g. on p. 348 the words ‘तस्मादाकाशकुसुमसमान एव प्रमाणभावोऽस्याः । भुक्तेर्दूरनिरस्तं लिखितादिभ्यो बलीयस्त्वम् ॥’ constitute an Āryā. Similarly on p. 349 the words ‘तस्मादस्मात्परियुक्ता मुक्तेः प्रमाणता भ्रान्तेः।... स्ववचनमात्राधीनस्वत्वफलत्वात्प्रमाणं सा ॥’ make two Āryās.
+    e. g. on p. 348 the words ‘तस्मादाकाशकुसुमसमान एव प्रमाणभावोऽस्याः । भुक्तेर्दूरनिरस्तं लिखितादिभ्यो बलीयस्त्वम् ॥’ constitute an Āryā. Similarly on p. 349 the words ‘तस्मादस्मात्परियुक्ता मुक्तेः प्रमाणता भ्रान्तेः।...[[??]] स्ववचनमात्राधीनस्वत्वफलत्वात्प्रमाणं सा ॥’ make two Āryās.
 
 [^1003]:
     ‘युक्तिन्यायः स च लोकव्यवहारः इति व्यवहारमातृका’ व्यवहारतत्त्व p. 199 vol. II.
@@ -99,7 +99,7 @@ The *Nibandhakāras* mentioned by name in the Dāyabhāga are, besides Niravadya
     अतः पुत्रवती संभावितपुत्रा चाधिकारिणी । वन्ध्यात्वविधवात्वदुहितृप्रसूतादिना विपर्यंसत्पुत्रा पुनरनधिकारिण्येवेति दीक्षितमतमादरणीयम् । दायभाग, p. 271.
 
 [^1008]:
-    यत्तु याज्ञवल्कीयवचनं-भूर्या...मयोः--तत्र निरवद्यविद्योद्योतेन योजितस्तत्त्वतोऽर्थः । यत्र द्वयोर्भ्रात्रोर्जीवत्पितृकयोरप्राप्तभागयोरेकः पुत्रानुत्पाद्य विनष्टोऽन्यो जीवति अनन्तरं पिता मृतस्तत्र पुत्र एव तद्धनं प्राप्नोयति संनिकर्षात् । तदर्थ सदृशं स्वाम्यमिति वचनम् । p. 60.
+    यत्तु याज्ञवल्कीयवचनं-भूर्या...[[??]]मयोः--तत्र निरवद्यविद्योद्योतेन योजितस्तत्त्वतोऽर्थः । यत्र द्वयोर्भ्रात्रोर्जीवत्पितृकयोरप्राप्तभागयोरेकः पुत्रानुत्पाद्य विनष्टोऽन्यो जीवति अनन्तरं पिता मृतस्तत्र पुत्र एव तद्धनं प्राप्नोयति संनिकर्षात् । तदर्थ सदृशं स्वाम्यमिति वचनम् । p. 60.
 
 Jīmūtavāhana gives very little information about himself. In the colophons of his works he is described as Pāribhadrīya Mahāmahopādhyāya and at the end of the Vyavahāramātṛkā (vide note 999 above) he tells us that he was born of the Pāribhadra family (*kula*).[^1009] It is said that this name of the family still survives in the Parihal or Pāri Gai, a section of Rāḍhīya Brāhmaṇas (Ghose's Hindu Law, 3rd edition, pp. xvi-xviii and JASB 1915 p. 320). It is also said that Edu-miśra in his Kulakarikā tells us that Jīmūtavāhana was chief judge in the reign of Viśvak-sena of Bengal and that he was 9th in descent from Nārāyanabhaṭṭa, one of the five Brāhmaṇas brought by Adiśūra. The information supplied by the match-makers of Bengal is, as shown above (vide pp. 632-33 above under Halāyudha), not worth reliance, unless corroborated by independent evidence. It is also said that for fourteen generations the Brāhmaṇas of Pārigrāma have been degraded and so Jīmūtavāhana would not have paraded the fact that he was Pāribhadrīya if at the time when he wrote his subcaste had been degraded (Intro. to Kālaviveka p. VIII). The fact that Jīmūtavāhana was a native of Rāḍhā is testified by his statement in the Kālaviveka that Agastya (Canopus) rose in Ujjayinī when [[P708]] four days of the month of Bhādrapada remained, but that in Rāḍhā Agastya rose when seven days of the month were yet to run.[^1010]
 
@@ -114,7 +114,7 @@ Extremely divergent views have been held as to the date of Jīmūtavāhana. He h
 In the Kālaviveka Jīmūtavāhana tells us that his predecessor Andhuka[^1011] exhibited a certain astronomical matter in *śake* 952 (i. e. 1030 A. D.) and that he declared an intercalary month in *śake* 955.
 
 [^1011]:
-    एवंविध एव कार्तिको द्वापञ्चाशदधिकनवशतसंख्याते शकाब्दे अन्धुकादिर्निर्दिष्टवान् । कालविवेक p. 51; तथाहि पञ्चपञ्चाशदधिकनवशतसंख्ये शकाब्दे तुलासङ्क्रान्ति-समावास्यायां मृता... अन्धुकेन लिखितः । कालविवेक p. 119.
+    एवंविध एव कार्तिको द्वापञ्चाशदधिकनवशतसंख्याते शकाब्दे अन्धुकादिर्निर्दिष्टवान् । कालविवेक p. 51; तथाहि पञ्चपञ्चाशदधिकनवशतसंख्ये शकाब्दे तुलासङ्क्रान्ति-समावास्यायां मृता...[[??]] अन्धुकेन लिखितः । कालविवेक p. 119.
 
 Similarly Jīmūtavāhana expatiates upon several[^1012] minute astronomical and astrological details which were observed in [[P709]] the *śake* years 1013 and 1014 (i. e. 1091 and 1092 A. D.). It is impossible to suppose that an author would enter into such minute details about a time which was anterior to his own by centuries. Generally astronomical works take for their calculations starting points or years which were within their own experience or very nearly so. Therefore it appears to be a sound conclusion to hold that the Kālaviveka was composed soon after *śake* 1013 or 1014 (i. e. 1091 and 1092 A. D.). Hence it follows that the literary activity of Jīmūtavāhana lay between 1090 and 1130 A. D. The Kālaviveka seems to be his first work. The Vyavahāramātṛkā would naturally come before the Dāyabhāga. He seems to have contemplated writing[^1013] on *ṛṇādāna* also, as he says in the Dāyabhāga that a certain matter would be expounded by him in *ṛṇādāna*.
 
@@ -133,7 +133,7 @@ The most cogent argument that can be advanced against the above early date assig
     ‘यच्च जीमूतवाहनेनैव मिताक्षरोक्तं विभागो नाम द्रव्यसमुदायविषयाणामनेक-स्वाम्यानां तदेकदेशेषु व्यवस्थापनमिति विभागशब्दार्थः इति दूषयित्वोच्यते’ वीर० p. 547; ‘अत्र पित्र्युपरम एकः कालो निवृत्ते चापि रजसीति द्वितीयो जीवति चेच्छतीति तृतीय इति मिताक्षरायां जीमूतवाहनेनोक्तं दूषणम् ।’ वीर० p. 552.
 
 [^1016]:
-    व्यवहारमातृका p. 296 ‘तदेव (वं ?) स्वयमेव अप्रसिद्धादाहृतत्वात् यदन्यैः कल्पितं अप्रसिद्धमिति मदीयं शशविषाणमनेन गृहीतं निराबाधमस्मदीयगृहस्थितो दीपः प्रकाशमेतद्गृहे करोति...तत्रास्तां दूषणान्तरं किं तु शास्त्राच्चान्यथाकल्पनमशास्त्रदर्शित्वमेव तेषां कल्पयति ।’; compare मिताक्षरा on याज्ञ. II. 6. ‘अप्रसिद्धं मदीयं शशविषाणं गृहीत्वा न प्रयच्छतीत्यादि निराबाधमस्मद्गृहे दीपप्रकाशेनाय स्वगृहे व्यवहरतीत्यादि.’ It is to be noted that these examples occur in अपरार्क also.
+    व्यवहारमातृका p. 296 ‘तदेव (वं ?) स्वयमेव अप्रसिद्धादाहृतत्वात् यदन्यैः कल्पितं अप्रसिद्धमिति मदीयं शशविषाणमनेन गृहीतं निराबाधमस्मदीयगृहस्थितो दीपः प्रकाशमेतद्गृहे करोति...[[??]]तत्रास्तां दूषणान्तरं किं तु शास्त्राच्चान्यथाकल्पनमशास्त्रदर्शित्वमेव तेषां कल्पयति ।’; compare मिताक्षरा on याज्ञ. II. 6. ‘अप्रसिद्धं मदीयं शशविषाणं गृहीत्वा न प्रयच्छतीत्यादि निराबाधमस्मद्गृहे दीपप्रकाशेनाय स्वगृहे व्यवहरतीत्यादि.’ It is to be noted that these examples occur in अपरार्क also.
 
 Raghunandana in his Smṛtitattva differs rather rarely from Jīmūtavāhana; vide (Vol. I.) Tithitattva pp. 52-53, Malamāsa [[P711]] p. 849; (Vol. II.) Ekādaśī p. 88. He quotes Kālaviveka frequently e. g. in Tithi pp. 106, 107, 141, 144, Mala° p. 834, Ekādaśī pp. 41, 87; he mentions the Vyavahāramātṛkā in Vya. tattva pp. 199, 214, 225, the Dāyabhāga in Dāyatattva pp. 164, 174, 194. He names Jīmūtavāhana frequently as in Vol. I Tithi pp. 24, 144, Prāyaścitta p. 482, Mala° pp. 767, 781; (Vol. II.) Dāyatattva p. 194, Ekādaśī pp. 5, 36, 38, 40, 51, 53, 103.
 

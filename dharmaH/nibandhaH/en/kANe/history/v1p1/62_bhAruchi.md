@@ -31,8 +31,6 @@ On several points there is divergence between the views of Bhāruci and those of
 
 Prof. T. R. Chintamani submitted an important paper at the Benares Session of the All India O. Conf. ( in 1943-4 ) which is published in the proceedings, Vol. II pp. 352-360, wherein he informed scholars that at Trivandrum exists a ms. [[containiny|containing]] a fragment of Bhāruci's commentary on Manu called ( Manuśāstra-vivaraṇa ) on Adhyāya VI ( almost from the beginning ), on adhyāyas VII-XI and on a portion of 
 
-[^739-PLACEHOLDER]
-
 [[P569]]
 
 adhyāya XII. Dr. J. D. M. Derrett[^740] ( recently contributed a paper to the Journal of the American Oriental Society ( Vol. 84 for 1964 pp. 392-395 ) on '[[Blauci|Bhāruci]] on royal regulative power in India', based on Bhāruci's explanation of Manu VII. 13; and another paper in [[2. 1), M. G.|Z. D. M. G.]] Vol 115 pp. 134-152 ( where on pp. 141-151 he arranges in three parallel columns parts of Bhāruci's commentary and [[Melhātithi|Medhātithi]]'s Bhāṣya on Manu VII. 50, 54, 147, 153, 154, with parallel passages from Kauṭilya's Arthaśāstra and on p. 144 of his paper compares only Bhāruci [[aud|and]] Medhātithi on Manu VII. 52. [[Dr,|Dr.]] Derrett holds ( pp. 139-40 of his paper ) that Bhāruci is nearer A. D. 700 than the period 800-850 which was assigned to Bhāruci in the H. of Dh. Vol. I. 1930 ) p. 265. Dr. Derrett holds ( p. 138 of the paper ) that the passages which Medhātithi takes without acknowledgement [[froin|from]] Kauṭilya are not obtained from the Arthaśāstra direct, but from Bhārucin, who is quoting from Kauṭilya with occasional [[udjustments|adjustments]], that Medhātithi did not know that he was reproducing the Arthaśāstra, that the Ms. used by Medhātithi was [[lefective|defective]], that in some places he could not read it. 
@@ -52,7 +50,7 @@ whole of Bhāruci's available text is printed and carefully studied. Vide remark
 
 [^736]: भारुचिस्तु चतुर्थभागपदेन विवाहसंस्कारमात्रोपयोगि द्रव्यं विवक्षितं, अतो दायभागत्वमसंस्कृतकन्यानां नास्तीति मन्यते । परा. मा. vol. III, 2. p. 510.
 
-[^737]: In the edition of the Vedārthasaṃgraha with English translation by S. S. Raghavachar published by Rāmakṛṣṇāśrama ( Mysore, 1958 p. 102 paragraph 130 we read : भगवद्बोधायन-टङ्क-द्रामिड-गुहदेव-कपर्दि-भारुचि-प्रभृत्यविगीतशिष्टपरिगृहीत ...
+[^737]: In the edition of the Vedārthasaṃgraha with English translation by S. S. Raghavachar published by Rāmakṛṣṇāśrama ( Mysore, 1958 p. 102 paragraph 130 we read : भगवद्बोधायन-टङ्क-द्रामिड-गुहदेव-कपर्दि-भारुचि-प्रभृत्यविगीतशिष्टपरिगृहीत ...[[??]]
 
 [^738]: यथाह भारुचिरेतद्विष्णुवचनव्याख्यानावसरे बीजशब्दः पिण्डवाचीति । स किं para 637 ( pp. 422-23 of Mysore ed. ). The sūtra of विष्णु is ग्रहणानुविधायमंत्रं गृहीयात्’ स. वि. para 636.
 
@@ -60,6 +58,6 @@ whole of Bhāruci's available text is printed and carefully studied. Vide remark
 
 [^740]: Dr. Derrett employs the word Bhāruci in his paper in the J. A. O. S. cited above, while he employs the word ‘Bhārucin’ in his paper appearing in Z. D. M. G. Probably the Trivandrum Ms. employs that form of the name.
 
-[^741]: मनु VII. 13 is : तस्माद्धर्मं यमिष्टेषु स व्यवस्येन्नराधिपः । अनिष्टं चाप्यनिष्टेषु तं धर्मं न विचालयेत् ॥ भारुचि’s comment is : न हि राजा वर्णाश्रमधर्मप्रवृत्तौ हेतुः, शास्त्रलक्षणत्वात् । धर्माधर्मयोरव्यवस्था चैवं स्यात् । व्यवस्थाकारिणा च शास्त्रेण भवितव्यम् । तथा च बहुकृत्वस्तदुक्तिः । ... यतः प्रकरणाद् राजस्तुतिपरमेतदवगन्तव्यम् , ... वेक्षया वेदं विज्ञेयं शास्त्रम् ।
+[^741]: मनु VII. 13 is : तस्माद्धर्मं यमिष्टेषु स व्यवस्येन्नराधिपः । अनिष्टं चाप्यनिष्टेषु तं धर्मं न विचालयेत् ॥ भारुचि’s comment is : न हि राजा वर्णाश्रमधर्मप्रवृत्तौ हेतुः, शास्त्रलक्षणत्वात् । धर्माधर्मयोरव्यवस्था चैवं स्यात् । व्यवस्थाकारिणा च शास्त्रेण भवितव्यम् । तथा च बहुकृत्वस्तदुक्तिः । ...[[??]] यतः प्रकरणाद् राजस्तुतिपरमेतदवगन्तव्यम् , ...[[??]] वेक्षया वेदं विज्ञेयं शास्त्रम् ।
 
-[^742]: इदानीमुत्सन्ना सा शाखा यस्यामपि स्मार्तो धर्मा आसन् ॥ ... अथ अद्यत्वे पठ्यन्त एव ताः शाखाः किं तु विप्रकीर्णास्ते धर्माः कस्यांचिच्छाखायामष्टकादि-कर्मणामुत्पत्तिः कस्यांचिद् द्रव्यं क्वचिद्देवता क्वचिन्मन्त्र इत्येवं विप्रकीर्णानां मन्वादयोऽङ्गोपसंहारं सुखावबोधाय चक्रुः । अथ मन्त्रार्थवादलिङ्गमात्रप्रभवा एते धर्माः । अथायमनादिरनुष्ठेयोर्थोऽविच्छिन्नपारंपर्यसंप्रदायायातो वेदवन्नित्य उतास्मदादीनामिव मन्वादीनामपि परप्रत्ययानुष्ठानो नित्यानुमेय श्रुतिक ... on मनु II. 6 p. 97 ( Mandlik's ed. ). A little above on the same page, he says ‘विवरणकारास्तु युक्ति ...’.
+[^742]: इदानीमुत्सन्ना सा शाखा यस्यामपि स्मार्तो धर्मा आसन् ॥ ...[[??]] अथ अद्यत्वे पठ्यन्त एव ताः शाखाः किं तु विप्रकीर्णास्ते धर्माः कस्यांचिच्छाखायामष्टकादि-कर्मणामुत्पत्तिः कस्यांचिद् द्रव्यं क्वचिद्देवता क्वचिन्मन्त्र इत्येवं विप्रकीर्णानां मन्वादयोऽङ्गोपसंहारं सुखावबोधाय चक्रुः । अथ मन्त्रार्थवादलिङ्गमात्रप्रभवा एते धर्माः । अथायमनादिरनुष्ठेयोर्थोऽविच्छिन्नपारंपर्यसंप्रदायायातो वेदवन्नित्य उतास्मदादीनामिव मन्वादीनामपि परप्रत्ययानुष्ठानो नित्यानुमेय श्रुतिक ...[[??]] on मनु II. 6 p. 97 ( Mandlik's ed. ). A little above on the same page, he says ‘विवरणकारास्तु युक्ति ...[[??]]’.

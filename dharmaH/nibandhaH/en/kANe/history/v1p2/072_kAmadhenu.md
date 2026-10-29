@@ -19,7 +19,7 @@ Some later writers appear to ascribe the Kāmadhenu to Gopāla e. g. the Vyavah�
     यस्य यथावत्सनिवेशकल्पः पुण्याति कल्पवृक्षः समयः पञ्चमतानि नितरां श्रीधारिजानातीषि सः । मोक्षालस्य च कामधेनुरमणी काम्यार्थदुग्धा खलु सन्दुग्धे स्त्रविधे कस्य भवने सत्ये न रत्नाकरः ॥ व्यवहाररत्नाकर ( Mitra's Notices vol. VI, p. 66 ). The words underlined are paronomastic, one meaning referring to names of works ; ‘Gopāla is here indicated as author of Kāmadhenu. The other sense of Gopāla is : Kṛṣṇa who takes delight in cows ( as said in the Purāṇas and legends ).
 
 [^839]:
-    कामधेनोः प्रस्खले प्रद्योते ... कल्पवृक्षमतु व । शम्भुविमर्दकर-लोलटाचैश्य माधवम् । मन्यवनेकमुमतिषु व्याख्यातुरिति वादः । स्मृत्यर्थसार ( Intro. verses 4-5 of स्मृत्यर्थसार, Ānandāśrama ed. ).
+    कामधेनोः प्रस्खले प्रद्योते ...[[??]] कल्पवृक्षमतु व । शम्भुविमर्दकर-लोलटाचैश्य माधवम् । मन्यवनेकमुमतिषु व्याख्यातुरिति वादः । स्मृत्यर्थसार ( Intro. verses 4-5 of स्मृत्यर्थसार, Ānandāśrama ed. ).
 
 [[P618]]
 
@@ -32,10 +32,10 @@ The reply is that, bearing in mind the paronomastic verse of the Vyavahāratanā
 Aufrecht in his great Catalogue (I. 93) ascribes the authorship of the Kāmadhenu to Śambhu. Whence he derived this information is not clear. Śambhu is credited by the Smṛticandrikā with the authorship of a Smṛti digest (vide above under Śrīkara) and the Smṛtyarthasāra names him as one of its authorities. Therefore, Śambhu is certainly earlier
 
 [^840]:
-    ये कामधेनुगुण्याति सकलं पृच्छे क्राः ये सत्यं निजकाय स पारिजातः । तं वैरिणो मिष्टमयः ... । व्यवहाररत्नाकर ( verse at end ). There is a play on the words कामधेनु, कल्पवृक्ष and पारिजात which are names of works on Dharmaśāstra also ; vide विवादरत्नाकर pp. 78, 80, 135, 651 for other references to Kāmadhenu.
+    ये कामधेनुगुण्याति सकलं पृच्छे क्राः ये सत्यं निजकाय स पारिजातः । तं वैरिणो मिष्टमयः ...[[??]] । व्यवहाररत्नाकर ( verse at end ). There is a play on the words कामधेनु, कल्पवृक्ष and पारिजात which are names of works on Dharmaśāstra also ; vide विवादरत्नाकर pp. 78, 80, 135, 651 for other references to Kāmadhenu.
 
 [^841]:
-    गोपालमते लिखित कार्दम्येषु अपि ... यथा ... । रामनीतिरत्नाकर pp. 84-85.
+    गोपालमते लिखित कार्दम्येषु अपि ...[[??]] यथा ...[[??]] । रामनीतिरत्नाकर pp. 84-85.
 
 [[P619]]
 
@@ -51,7 +51,7 @@ In the edition of the 1st volume of this history, the present author had quoted 
     राजतुल्ययोगक्षेमं कामधेनुकृता अस्यैरपि व्यापारादिमुनीनां मादरात् । कृत्य-रत्नाकर p. 30.
 
 [^843]:
-    Though the Vivādaratnākara and other Ratnākaras of Caṇḍeśvara generally refer to Prakāśa only, yet Caṇḍeśvara in his Kṛtyaratnākara ( p. 329 ) speaks of Smṛtimahārṇavaprakāśa in the words ‘ जाबाल-मस्यपुराणवाक्यपरामर्शानिरसितकल्प(?) : साधिमिश्रैतरपुत्रैरको...’ इति कथयतो लिखितमये(?) शान्तमुभेदितं तत्तच्छु ’.
+    Though the Vivādaratnākara and other Ratnākaras of Caṇḍeśvara generally refer to Prakāśa only, yet Caṇḍeśvara in his Kṛtyaratnākara ( p. 329 ) speaks of Smṛtimahārṇavaprakāśa in the words ‘ जाबाल-मस्यपुराणवाक्यपरामर्शानिरसितकल्प(?) : साधिमिश्रैतरपुत्रैरको...[[??]]’ इति कथयतो लिखितमये(?) शान्तमुभेदितं तत्तच्छु ’.
 
 [[P620]]
 
@@ -64,10 +64,10 @@ The bad state of the mss. of the Kalpataru will be briefly indicated under the s
 Aniruddhabhaṭṭa was a *guru* of king Ballālasena of Bengal (as stated in verses 6 and 7 of the Dānasāgara,[^844] which he composed in Śake 1091 (i. e. 1169 A. D.) with the assistance of his *guru*. Aniruddha is the author of two works viz. Hāralatā and Pitṛdayitā. Therefore, these works[^845] must be
 
 [^844]:
-    वेदार्थस्मृतिसंस्कारादिपुरुषः श्री... भवनम् । ... । दानसागर verses 6-7, 9.
+    वेदार्थस्मृतिसंस्कारादिपुरुषः श्री...[[??]] भवनम् । ...[[??]] । दानसागर verses 6-7, 9.
 
 [^845]:
-    ( 1 ) अन एव जातस्नेहे स्नेहजाते वा कुलस्य ... हारलत p. 41 ; यानि च जातुकर्ण्यादिनाम्ना वचनानि लिखितानि तानि भोजदेव-विश्वरूप-गोविन्दराज-कामधेनुकृदादि ... सर्ववचनं ... हारलत 117 ; vide also हारलता pp. 173-74.
+    ( 1 ) अन एव जातस्नेहे स्नेहजाते वा कुलस्य ...[[??]] हारलत p. 41 ; यानि च जातुकर्ण्यादिनाम्ना वचनानि लिखितानि तानि भोजदेव-विश्वरूप-गोविन्दराज-कामधेनुकृदादि ...[[??]] सर्ववचनं ...[[??]] हारलत 117 ; vide also हारलता pp. 173-74.
 
 [[P621]]
 
@@ -89,7 +89,7 @@ relies. Hemādri[^847] also tells us that Śambhu was a *nibandhakāra* and refu
 As the Kāmadhenu is named as an authority by the Kalpataru and the Hāralatā it is certainly not later than 1100 A. D. It cannot be very much earlier since it is not mentioned by Medhātithi and the Mitākṣarā. It may therefore be assigned to the period between 1000 and 1100 A. D.
 
 [^847]:
-    द्वौ देवौ ... शम्भुः ... । ... शम्भुः ... । ... । II. p. 1148 ; ... । ... II. p. 1331.
+    द्वौ देवौ ...[[??]] शम्भुः ...[[??]] । ...[[??]] शम्भुः ...[[??]] । ...[[??]] । II. p. 1148 ; ...[[??]] । ...[[??]] II. p. 1331.
 
 [^848]:
     यत्तूक्तं शम्भुना अव्यक्तधनत्वाद् दम्पत्योर्येन केनचिद्गृह्यमाणमुभयार्थमेवेति तन्न युक्तम् । स्मृति. II. p. 298.

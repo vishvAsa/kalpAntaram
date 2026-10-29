@@ -22,7 +22,7 @@ That Dhāreśvara is to be identified with Bhojadeva of Dhārā, perhaps the mos
 A verse at the[^779] beginning of the Rājamārtaṇḍa tells us that Bhoja composed a work on grammar, a commentary on the Yogasūtra and a work on medicine called Rājamṛgāṅka just as Patañjali wrote on these three subjects (vide Mitra's Notices of Mss, vol. I, p. 115 for the medical work of Bhoja called Rājamārtaṇḍa (alias Yogasāra). He composed a work on astronomy called Rājamṛgāṅka. A work of his on the Śaiva *āgama* called Tattvaprakāśa has been published in the Trivandrum Sanskrit Series. There are several other works ascribed to him, which need not be set out here. That he composed an extensive work on the principal subjects of Dharmaśāstra follows from the numerous references to him contained in the Mit., the Dāyabhāga, the Hāralatā and other works. The [[Suddhi-kaumudi|Śuddhi-kaumudī]][^780] (B. I. edition) of Govindānanda frequently speaks of a work called Rājamārtaṇḍa of Bhoja on Śrāddha. The Jayasimha-kalpadruma (p. 26) quotes Rājamārtaṇḍa and Bhojarājiya on the same page. Whether Bhoja composed on Dharmaśāstra one work or two (as he composed two on Poetics), and whether his work was a commentary or an independent digest it is difficult to say. M. M. Haraprasādaśāstri in one of his reports threw out the suggestion that the [[Kāmadbenu|Kāmadhenu]] was the work of Bhoja, but this is entirely worng, as the words of Śrīdatta in his Pitṛbhakti[^781] will show.
 
 [^779]:
-    शब्दानामनुशासनं विदधता पातञ्जले कुर्वता वृत्तिं राजमृगाङ्कसंज्ञकमपि व्यातन्वता वैद्यके । वाक्चेतोवपुषा मलः फणभृतां भव्येन यनोद्धृतस्तस्य श्रीरणरइमल्ल...जुतेर्वाचो जयन्त्युज्ज्वला: ॥ Intro. 4th verse.
+    शब्दानामनुशासनं विदधता पातञ्जले कुर्वता वृत्तिं राजमृगाङ्कसंज्ञकमपि व्यातन्वता वैद्यके । वाक्चेतोवपुषा मलः फणभृतां भव्येन यनोद्धृतस्तस्य श्रीरणरइमल्ल...[[??]]जुतेर्वाचो जयन्त्युज्ज्वला: ॥ Intro. 4th verse.
 
 [^780]:
     अत एव राजमार्तण्डे भोजराज:-श्राद्धवित्ते समुत्पन्ने मृतस्याविदिते दिने । अमावास्यां प्रकुर्वीत वदन्त्येके मनीषिणः ॥ p. 18. vide also the श्राद्धक्रिया-कौमुदी p. 480 for the same verse from the राजमार्तण्ड , which is perhaps more frequently quoted by गोविन्दानन्द than any other *nibandha*.
@@ -78,7 +78,7 @@ The stories (in Prabandhacintāmaṇi) about Muñja's trying to do away with Bho
 There is further definite data. The [[Rājamrgānka|Rājamṛgāṅka]] of Bhoja (an astronomical work) takes śaka 964 (1042-43 A. D.) as its initial date.[^787]
 
 [^787]:
-    वाको वेद... स्तव्यो रविवंश्यः । अमो देवान्वितो दिव्य... स्तव्योहितः ॥ राजमृगाङ्क ( Ms. No. 105 of 1873-74 in the Govt. Mss. Library at the B.O.R.I., Poona ).
+    वाको वेद...[[??]] स्तव्यो रविवंश्यः । अमो देवान्वितो दिव्य...[[??]] स्तव्योहितः ॥ राजमृगाङ्क ( Ms. No. 105 of 1873-74 in the Govt. Mss. Library at the B.O.R.I., Poona ).
 
 [[P591]]
 

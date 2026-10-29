@@ -16,7 +16,7 @@ The Vivādaratnākara of [[Candleśvara|Caṇḍeśvara]] cites the views of Pra
     ‘संवर्तः। सर्वेषामेव दानानामेकम् ‘सोदरम्’ । हाटकक्षितिगोरणां सप्तजन्मानुगं फलम् ॥ गोर्योऽत्र गावः प्रकरणात् । कस्यापवादः कन्येति प्रकाशः।’ दानरत्नाकर ( No. 114 of 1884-86 in the Govt. Mss. Lib. at the B. O. R. Institute, Poona 4, folio 52 b ).
 
 [^884]:
-    ‘आम्रान्यानेव तानि षड् द्राक्षाभव्यदाडिमान् । ... श्राद्धकालोपपाद्यते ॥ यानेवतः कादम्बीरे वोढ इति प्रसिद्धः । प्राचीनामलकमिति प्रकाशकारः । श्राद्धसौख्य folio 42 a ( BORI. ms. No. 257 of 1884-87 ).
+    ‘आम्रान्यानेव तानि षड् द्राक्षाभव्यदाडिमान् । ...[[??]] श्राद्धकालोपपाद्यते ॥ यानेवतः कादम्बीरे वोढ इति प्रसिद्धः । प्राचीनामलकमिति प्रकाशकारः । श्राद्धसौख्य folio 42 a ( BORI. ms. No. 257 of 1884-87 ).
 
 These quotations establish that Prakāśa was a work that not only dealt with vyavahāra, but also with such topics as *dāna, śrāddha* etc.
 

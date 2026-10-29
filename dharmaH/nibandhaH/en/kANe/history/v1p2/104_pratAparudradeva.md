@@ -15,13 +15,13 @@ After invoking deities the work starts with the *praśasti* of the king and his 
 
 [^1321]: वीरश्रीगजपतिगौडेश्वरनवकोटिकर्णाटकलबुरिगेश्वरप्रतापपुरुषोत्तमदेव &c. E. I. vol. XIII p. 155; vide Dr. Rajendralal Mitra's 'Antiquities of Orissa' vol. II, apdendix pp. 165-167, Ind. Ant. vol. I. p. 355 and M. M. Chakravarti's article on 'Uriya Inscriptions of 15th and 16th centuries' in JASB vol. 62, part 1, pp. 88-104 for inscriptions of this dynasty. Vide the Velicharla grant of Pratāparudradeva Gajapati dated śake 1432 (1510 A. D.) in E. I. vol. 28 pp. 205 ff.
 
-[^1322]: 'स चायं वीररुद्रो गजपतिरयोध्यामिवायोध्यां ... भूकान्ताकटकं कटकनगरीं समानयन्' p. 11.
+[^1322]: 'स चायं वीररुद्रो गजपतिरयोध्यामिवायोध्यां ...[[??]] भूकान्ताकटकं कटकनगरीं समानयन्' p. 11.
 
 [^1323]: अत्र वर्णयितृवर्ण्ययोरभेदैकनियतयोरपि अवस्थाभेदेन भेदकथनमेकस्यैव कवेः कविसहृदयत्ववन्न विरुध्यते । p. 11.
 
-[^1324]: यथाविहितसभामण्डपान्तरे सम्यप्राड्विवाकामात्यपुरोहितज्योतिर्विदादिसहितो विज्ञानयोगि-भारुच्यपरार्क-मेधातिथ्यसहाय-चन्द्रिकादिबहुग्रन्थैकवाक्यतापर्यालोचन-वशायातत्क्लेशो मा भूदिति सकलस्मृतिसमुच्चयमतिगम्भीरं नातिविस्तृतं प्रबन्धं प्रस्तौति ।... हीने गर्वमहो नैव नव गर्वमहोधिके । समे तु गर्वं शङ्केत न समस्ति समस्तु नः॥ pp. 11-12 ; एकेन चरितार्थत्वादितरानर्थतानयः । पूर्वप्रबन्धैर्विषयी-भवेदिति ममोद्यमः ॥ p. 14.
+[^1324]: यथाविहितसभामण्डपान्तरे सम्यप्राड्विवाकामात्यपुरोहितज्योतिर्विदादिसहितो विज्ञानयोगि-भारुच्यपरार्क-मेधातिथ्यसहाय-चन्द्रिकादिबहुग्रन्थैकवाक्यतापर्यालोचन-वशायातत्क्लेशो मा भूदिति सकलस्मृतिसमुच्चयमतिगम्भीरं नातिविस्तृतं प्रबन्धं प्रस्तौति ।...[[??]] हीने गर्वमहो नैव नव गर्वमहोधिके । समे तु गर्वं शङ्केत न समस्ति समस्तु नः॥ pp. 11-12 ; एकेन चरितार्थत्वादितरानर्थतानयः । पूर्वप्रबन्धैर्विषयी-भवेदिति ममोद्यमः ॥ p. 14.
 
-[^1325]: ततश्चाचारकाण्डाद् व्यवहारकाण्डः प्रथमारब्धः।... तथापि वीररुद्रगजपतिमहाराजस्याकांक्षानुसारेण प्रथमं व्यवहारकाण्डः प्रक्रम्यते ॥ p. 15.
+[^1325]: ततश्चाचारकाण्डाद् व्यवहारकाण्डः प्रथमारब्धः।...[[??]] तथापि वीररुद्रगजपतिमहाराजस्याकांक्षानुसारेण प्रथमं व्यवहारकाण्डः प्रक्रम्यते ॥ p. 15.
 
 [^1326]: अत्र यद् बहु वक्तव्यमस्ति तदस्माभिरपि आचारकाण्डे विवाहप्रकरण एव प्रपञ्चितमिति तत एवावधार्यम् । p. 343.
 
@@ -47,7 +47,7 @@ On p. 457 Sar. V. quotes a verse of Viṣṇugupta for explaining a sūtra of Vi
 
 The *Sarasvativilāsa* is a work of authority in Southern India on matters of Hindu Law, though inferior to the *Mitākṣarā*.[^1330] It informs us that, though the Smṛticandrikā passed over the ordeals of water and poison on the ground that they had gone out of vogue, in Utkala the ordeal of water alone was resorted [[P875]]to and in Śūrasena (Mathurā) and Magadha (Bihar) the ordeal of poison alone was administered.[^1331]
 
-[^1329]: Some decisive references may be given here to the passages in Varadarāja's *Vyavahāranirṇaya* (ed. by the late Prof. Rangaswami Aiyangar), which are quoted in Pratāparudra's *Sarasvativilāsa* (on Vyavahāra). 1. On p. 135 of Pratāparudra's work there is a long quotation of the respective strength of title and mere possession in different circumstances, which repeats what Varadarāja says on p. 132 of the *Vyavahāranirṇaya*. 2. On pp. 275-76 of the *Sarasvativilāsa* a passage is quoted as cited from Kautilya by Varadarāja : अत्र विशेषमाह विष्णुः। अथ ऋत्विजि मृते पश्चादन्यं वृणुयात्। पूर्ववृतस्यैव दक्षिणा। पश्चादाहूतः यत्किंचिल्लभते चेति। यत्तिच्छब्दार्थमाह कौटिल्यः। अग्निष्टोमादिषु दीक्षणीयाया ऊर्ध्वं याजकोऽवसन्नः, पञ्चमंशमन्य आहूतो लभेत।... प्रातःसवनादूर्ध्वं पादोनम्। माध्यन्दिनसवनादूर्ध्वं समग्रं नीतासु दक्षिणासु भवतीति वरदराजः। This occurs in व्यवहारनिर्णय of वरदराज (pp. 284-85); it is found in Kautiliya III. 14. 29-32 p. 120 (ed. by Prof. Kangle).
+[^1329]: Some decisive references may be given here to the passages in Varadarāja's *Vyavahāranirṇaya* (ed. by the late Prof. Rangaswami Aiyangar), which are quoted in Pratāparudra's *Sarasvativilāsa* (on Vyavahāra). 1. On p. 135 of Pratāparudra's work there is a long quotation of the respective strength of title and mere possession in different circumstances, which repeats what Varadarāja says on p. 132 of the *Vyavahāranirṇaya*. 2. On pp. 275-76 of the *Sarasvativilāsa* a passage is quoted as cited from Kautilya by Varadarāja : अत्र विशेषमाह विष्णुः। अथ ऋत्विजि मृते पश्चादन्यं वृणुयात्। पूर्ववृतस्यैव दक्षिणा। पश्चादाहूतः यत्किंचिल्लभते चेति। यत्तिच्छब्दार्थमाह कौटिल्यः। अग्निष्टोमादिषु दीक्षणीयाया ऊर्ध्वं याजकोऽवसन्नः, पञ्चमंशमन्य आहूतो लभेत।...[[??]] प्रातःसवनादूर्ध्वं पादोनम्। माध्यन्दिनसवनादूर्ध्वं समग्रं नीतासु दक्षिणासु भवतीति वरदराजः। This occurs in व्यवहारनिर्णय of वरदराज (pp. 284-85); it is found in Kautiliya III. 14. 29-32 p. 120 (ed. by Prof. Kangle).
 
 [^1330]: Vide 2 Mad-H. C. R. 206 at p. 217, 33 Mad. 439 at p. 441, 35 Mad. 152 at p. 156.
 

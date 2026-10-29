@@ -3,7 +3,7 @@ title = "25 Budha"
 
 +++
 
-This sūtrakāra is not mentioned by Yāj. nor by Parāśara. He is very rarely cited. Aparārka on Yāj. I. 4-5, Kalpataru on Brahmacārī pp. 24, 78, 160, on Gr. Kāṇḍa p. 262, Naiyata K. p. 211 (quoted in Vīra-mitrodaya, Paribhāṣā p. 16), Hemādri.[[378|[^278]]] Jimūta-[[vābana|vāhana]]'s Kālaviveka are probably the
+This sūtrakāra is not mentioned by Yāj. nor by Parāśara. He is very rarely cited. Aparārka on Yāj. I. 4-5, Kalpataru on Brahmacārī pp. 24, 78, 160, on Gr. Kāṇḍa p. 262, Naiyata K. p. 211 (quoted in Vīra-mitrodaya, Paribhāṣā p. 16), Hemādri.[^278] Jimūta-[[vābana|vāhana]]'s Kālaviveka are probably the
 
 [^278]: चतुर्वर्ग° (दानखण्ड p. 527) says ‘आदिशब्दाच्च बुधदेवलसोमप्रजापति वृद्धशातातपपैठीनसिछागलेयच्यवनमरीचिवत्सपारस्करपुलस्त्यपुलहक्रतुऋष्यशृङ्ग श्रेयाणां ग्रहणम्’.
 
