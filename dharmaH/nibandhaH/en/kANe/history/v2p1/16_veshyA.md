@@ -9,18 +9,28 @@ title = "16 Veśyā"
 
 From the [[Rgveda|Ṛgveda]] we find that there were women who were common to several [[mon|men]] i.e., who were [[courtezans|courtesans]] or prostitutes [[In Rg.|In Ṛg.]]. I. 167. 4 the bright [[Maruts|Maruts]] (storm gods) are said to have become associated with the young (lightning), just as men become associated with a young [[courtezan|courtesan]]. [^1491] It has already been seen how in [[Rg.|Ṛg.]] II. 29. 1 reference is made to a woman who gives birth in secret to a child and leaves it aside. In [[Rg.|Ṛg.]] I. 66. 4, I. 117. 18, I. 134. 3 and other places [[jāra|jāra]] (paramour or secret lover) is spoken of. In [[Gaut.|Gautama]] XXII. 27 it is said that for killing a woman who is a [[brāhmaṇi|brāhmaṇī]] by birth only and who subsists by harlotry no [[prāya citta|prāyaścitta]] is necessary but eight [[hand. fule|handful]] of corn may be gifted. Manu IV, 209 forbids [[&|a]] [[brabmana|brāhmaṇa]] from taking food offered by harlots (vide also IV. 219); and Manu IX 259 requires the king to punish clever (or deceitful) harlots. In the [[Mahabbārata|Mahābhārata]] [[courtezans|courtesans]] are an established institution. The [[Adiparva|Ādiparva]] (115, 39) narrates how a [[vesy &|veśyā]] waited upon [[Dhstarāṣtra|Dhṛtarāṣṭra]] when his wife [[Gandhari|Gāndhārī]] was pregnant. [^1492] In the [[Udyogaparva|Udyogaparva]] (30. 38) [[Yudhisthira|Yudhiṣṭhira]] sends greetings to the [[vetyās|veśyās]] of the [[Kauravas|Kauravas]]. [[Courtezans|Courtesans]] are describ. ed as going out to welcome [[Krsna|Kṛṣṇa]] when he came on a mission of peace to the [[Kaurava|Kaurava]] court (Udyoga 86. 15). When the [[Pandava|Pāṇḍava]] armies are described as about to start for battle it 
 
-[^1491]: TUTUNT SET 964T FUTUTE HOUT AFAT: I . I. 167. 4. 
+[^1491]:
+    TUTUNT SET 964T FUTUTE HOUT AFAT: I . I. 167. 4.
 
-[^1492]: पाधापी विश्यमानायादरेण पिपर्धता । तराई महाराज वेश्या पर्षपर Frane I MITTE 116. 39. 
+
+[^1492]:
+    पाधापी विश्यमानायादरेण पिपर्धता । तराई महाराज वेश्या पर्षपर Frane I MITTE 116. 39.
+
 
 [[P637]]
 is said that [[oarts|carts]], markets and [[courtezans|courtesans]] also accompanied them (Udyoga 151. 58). Vide also [[Vanaparva|Vanaparva]] 239, 37, [[Karnaparva|Karṇaparva]] 94. 26. [[Yāj.|Yājñavalkya]] [^1493] II. 290 divides concubines into two sorts, [[avaruddha|avaruddhā]] (one who is kept in the house itself and forbidden to have intercourse with any other male) and [[bhujisya|bhujiṣyā]] (concubine who is not kept in the house, but elsewhere and is in the special keeping of a person) and prescribes a fine of fifty [[paṇas|paṇas]] against another person having intercourse with them. [[Nārada|Nārada]] [^1494] ([[stripumsa|strīpuṃsa]], 78-79) says 'intercourse is permitted with wanton women ([[svairipi|svairiṇī]]) who are not [[brahmana|brāhmaṇa]] by caste, with a prostitute, a female slave, or a female not restrained by her master, if these belong to a caste lower than oneself; but it is forbidden with women of superior caste. But when these very women are the kept mistresses (of a person) intercourse with them by a stranger is as much a crime as intercourse with another's wife. Such women must not be approached, though intercourse with them is not forbidden (on the ground of caste &c.), since they belong to another.' On [[Yāj.|Yājñavalkya]] II. 290 the [[Mit.|Mitākṣarā]], after quoting the [[Skandapurāṇa|Skandapurāṇa]] to the effect that prostitutes constitute a separate caste being sprung from certain [[Apsurases|Apsarases]] (heavenly nymphs) called [[pañicacūdās|pañcacūḍās]], states that such [[courtezans|courtesans]] as are not kept specially by a person do not [[inour|incur]] any sin, nor punishment at the hands of the king, if they have intercourse with men of the same or [[&|a]] superior caste, nor do men approaching them incur any penalty if they are not [[avaruddha|avaruddhā]]. But the men who visit [[tbem|them]] incur sin (which is an unseen result), since the [[smṛtis|smṛtis]] ordain that men should be devoted to their wives (vide [[Yāj.|Yājñavalkya]] I. 81) and the [[prājāpatya|prājāpatya]] penance is [[presoribed|prescribed]] for him who has intercourse with a [[vesyā|veśyā]] (vide [[Atri|Atri]] v. 271). [[Nārada|Nārada]] [^1495] ([[vetanasyanapakarma|vetanasyānapakarma]] 18) lays down that if a public woman after getting her fee refuses to receive the customer, she shall pay twice the amount of the fee and the same fine shall be imposed on a man who does not pay the (stipulated) fee, after having had [[interoourse|intercourse]] with a [[veśyā|veśyā]]. Vide [[Yāj.|Yājñavalkya]] II. 292 and [[Matayapurāṇa|Matsyapurāṇa]] 227. 144-145 for 
 
-[^1493]: H e reig Trafo au TIETETT HIT14: TITITETTO THEATIN. II. 290. The ato explains' TT CT FUTHAT YHTETITEHTU go purerea face printrat a T T: 1 javī t ET T: 11. 
+[^1493]:
+    H e reig Trafo au TIETETT HIT14: TITITETTO THEATIN. II. 290. The ato explains' TT CT FUTHAT YHTETITEHTU go purerea face printrat a T T: 1 javī t ET T: 11.
 
-[^1494]: Topwrpoft der er foretar oft roi A79T: FUTTERIT थियो म प्रतिलोमता ॥ आस्वेव त झुजिण्यास दोषः स्थास्परदारपद । गम्या आपे हि मोपेया Tel: TOTEHETI 11 RĘ, TY\# 78-79. 
 
-[^1495]: TETERI a ft infaatcaar 1 *99 VATTE far for art ( T HT914 18). 
+[^1494]:
+    Topwrpoft der er foretar oft roi A79T: FUTTERIT थियो म प्रतिलोमता ॥ आस्वेव त झुजिण्यास दोषः स्थास्परदारपद । गम्या आपे हि मोपेया Tel: TOTEHETI 11 RĘ, TY\# 78-79.
+
+
+[^1495]:
+    TETERI a ft infaatcaar 1 *99 VATTE far for art ( T HT914 18).
+
 
 [[P638]]
 similar provisions. The [[Matsyapuriṇa|Matsyapurāṇa]] chap. 70 dilates upon [[vesyādbarma|veśyādharma]]. The [[Kāmasūtra|Kāmasūtra]] I. 3. 20 defines a [[gañikā|gaṇikā]] as a [[veśyā|veśyā]] who is most accomplished and proficient in the 64 [[kalās|kalās]]. [[Apararka|Aparārka]] (p. 800, on [[Yāj.|Yājñavalkya]] II. 198) quotes [[Nārada|Nārada]] (cited above) and several verses of the [[Matsyapurāṇa|Matsyapurāṇa]] about [[vesgās|veśyās]]. 
@@ -31,6 +41,9 @@ The rights of the illegitimate children of concubines to inheritance or maintena
 
 Out of the [[samskāras|saṃskāras]] enumerated above (pp. 195–197), the [[Mahāyajñas|Mahāyajñas]], [[Utsarjana|Utsarjana]] and [[Upākarma|Upākarma]] will be described under the next chapter, viz., [[āhnika|āhnika]] and [[antyeṣti|antyeṣṭi]] under [[fauce|śauca]]. 
 
-[^1496]: Seru* PIA hegyeinpanty 1 WTFT sini unga. XTFITENT I HTEYTTA quotod in the FATTO ON T. II. 135. frente ancora97 नाच्छादनोपयुक्त और्षदेहिकं धनिमः श्रावायुपयुक्त चापास्य परिहत्य राजगामि भवतीवि संबन्धः । अस्यापवादः । श्रोत्रियद्रष्यं च योषिभस्यौदेहिकमपास्य श्रोत्रियायोपपाये fara i quatenustrange I TUTTI I na pro W TE... इत्यवायत्रीषिषयमेवनीशमहणात् ।'. 
+[^1496]:
+    Seru* PIA hegyeinpanty 1 WTFT sini unga. XTFITENT I HTEYTTA quotod in the FATTO ON T. II. 135. frente ancora97 नाच्छादनोपयुक्त और्षदेहिकं धनिमः श्रावायुपयुक्त चापास्य परिहत्य राजगामि भवतीवि संबन्धः । अस्यापवादः । श्रोत्रियद्रष्यं च योषिभस्यौदेहिकमपास्य श्रोत्रियायोपपाये fara i quatenustrange I TUTTI I na pro W TE... इत्यवायत्रीषिषयमेवनीशमहणात् ।'.
 
-[^1497]: L. R. 53. I. A. 153 = 50 Bom. 604. 
+
+[^1497]:
+    L. R. 53. I. A. 153 = 50 Bom. 604.
