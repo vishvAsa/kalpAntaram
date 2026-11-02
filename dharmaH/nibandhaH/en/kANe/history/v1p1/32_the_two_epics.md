@@ -200,7 +200,7 @@ From the above brief references in Pāṇini and Patañjali one may affirm that 
 
 Hopkins refers to certain passages where Vālmīki is mentioned in the Mahābhārata and divides them into two classes. In the first class he puts certain references to [[Val miki|Vālmīki]] as meant for a mere saint (a [[pṛi|ṛṣi]]), as in [[Sabhā 7. 16|Sabhā 7.16]], Vanaparva [[85. 119|85.119]], [[Udyoya|Udyoga]] [[93. 27|93.27]], Śānti [[207. 4|207.4]] (along with Asita, Devala and many others ). In my opinion Anuśāsana 13.8 ( where Vālmīki is styled bhagavān) belongs to this first category. Then Hopkins mentions 'four passages as referring' directly to the Rāmāyaṇa [[(vide the great Epic of India')|(vide ‘the great Epic of India’)]] [[pp. 61 ff).|pp.61 ff).]]. 
 
-[^384]: असम्भवे हेममयस्य जन्तोस्तथापि रामो लुलुभे मृगाय ॥ सभा. 76.5 ; भूयः शम्बुके शूद्रे हते ब्राह्मणदारकः । जीवितो धर्ममासाद्य रामात्सत्यपराक्रमात् ॥ शान्ति 153.67 ; पुरा वै दण्डकारण्ये राघवेण महात्मना । ...[[??]] जनस्थाने शिरश्छिन्नं राक्षसस्य दुरात्मनः ॥ शल्य 39.9-10.
+[^384]: असम्भवे हेममयस्य जन्तोस्तथापि रामो लुलुभे मृगाय ॥ सभा. 76.5 ; भूयः शम्बुके शूद्रे हते ब्राह्मणदारकः । जीवितो धर्ममासाद्य रामात्सत्यपराक्रमात् ॥ शान्ति 153.67 ; पुरा वै दण्डकारण्ये राघवेण महात्मना । ... जनस्थाने शिरश्छिन्नं राक्षसस्य दुरात्मनः ॥ शल्य 39.9-10.
 
 [[P362]] Before proceeding to examine these four passages relied upon by Hopkins a few words must be said about the present text of the Mahābhārata. There are three elements in it, viz. the bare story of the [[Pandava - brothers|Pāṇḍava-brothers]] and their cousins (usually referred to as Kauravas ), the upākhyānas ( [[abound ing|abounding]] in the Vanaparva and scattered about in other parvans also ) concerning gods, sages, brāhmaṇas, kings and others and didactic matter insisting on doing one's duties and the role of dharma as in Udyoga [[148. 16|148.16]] 'yato dharmastato jayaḥ' and in Kuntī's last message to Yudhiṣṭhira in [[Asramavāsika parva|Āśramavāsika-parva]] 17.21 Dharme te dhīytām budhir-manastu mahad-astu ca' and philosophy (Sāṅkhya, Yoga, Vedānta ). There was, therefore, great scope at all times for adding stories and didactic matters. Thus the Mahābhārata became very much inflated by additions made at different times. Anyone could add a story by saying 'atrāpyudāharantimam itihāsam purātanam'. In the [[Anusāsana parvan|Anuśāsanaparvan]] alone in 25 chapters stories are introduced with these words, apart from several stories introduced in a different manner. Chap. 98 of that parvan is remarkable. There [[Bhisma|Bhīṣma]] introduces ( in the words '[[atrāpyudīharanti|atrāpyudāharanti]]') the story of a dialogue between Manu Prajāpati and one Suvarṇa who asks how the practice of the worship of deities with flowers originated and what the rewards of such worship are. Then Manu cites the story (again with the words 'atrāpyu' etc.) of the dialogue between Śukra and Bali Vairocana. Two examples may be cited about Rāma story being interpolated by devotees and enthusiasts. In chap. 74 of the [[Anuśñsana|Anuśāsana]], apart from the evil results of the killing of a cow, the merit issuing from the gifts of cows or gold is praised and the chapter is wound up (verses 11-14) by Bhīṣma who says that he learnt all this from [[bis|his]] [[Upā dhyāya|Upādhyāya]] to whom it came from the sages, to whom Lakṣmaṇa imparted the story in the forest which Rāma had heard from his father Daśaratha who learnt it from Indra. Another similar example occurs in chap. 137 of the same parvan, which names numerous great men of the past that achieved highest worlds [[hy|by]] making gifts of various kinds, among whom Rāma (in verse 14), son of Daśaratha, is mentioned as having reached inexhaustible worlds by offerings in yajñas. 
 
@@ -222,7 +222,7 @@ In Anuśāsana [[18. 38|18.38]] Garga is said to have obtained the knowledge of 
 
 It appears that by the time the Mahābhārata assumed its present form Buddhist and Jain ideas had acquired influence among the people. For example, the [[Vanaparva387|Vanaparva[^387]]] ( 181.42-43) says 'truthfulness, self-restraint, tapas, charity, ahiṃsā, constant adherence to dharma, these are the means (of higher life ) [[ainong|among]] men, not caste nor family.' Śāntiparva says [[P365]] 
 
-[^386]: [[श्लोको|श्लोकौ]] चोशनसा [[गीतो|गीतौ]] पुरा तात महर्षिणा। ...[[??]] उद्यम्य [[शत्रमायान्तमपि|शस्त्रमायान्तमपि]] 
+[^386]: [[श्लोको|श्लोकौ]] चोशनसा [[गीतो|गीतौ]] पुरा तात महर्षिणा। ... उद्यम्य [[शत्रमायान्तमपि|शस्त्रमायान्तमपि]] 
 
 वेदान्तगं रणे ॥ निगृह्णीयात्स्वधर्मेण धर्मापेक्षी नराधिपः । ... न तेन धर्महा स स्यान्मन्युस्तं मन्युमृच्छति ॥ शान्ति 58. 28-30. Compare मनुस्मृति [[8. 348–351|8.348-351]] ([[whore|where]] in [[vorse|verse]] 351 we have the words [[fryki Hale|मन्युस्तं मन्यु]]मृच्छति ’.
 
@@ -274,7 +274,7 @@ means Uśanas. Vide [[Amarakosass|Amarakośa]] quoted below. Hopkins, in spite o
 
 [^394]: शुको दैत्यगुरुः काव्य उशना भार्गवः कविः । अमरकोश.
 
-[^395]: भार्गवो [[नीतिशा|नीतिशास्त्रं]] तु जगाद जगतो हितम् । शान्तिपर्व 210.20. एतत्ते राजधर्माणां नवनीतं युधिष्ठिर । बृहस्पतिर्हि [[भगवाज्याय्यं धर्म प्रसिति|भगवान्न्याय्यं धर्मं प्रशास्ति]] विशालाक्षश्च भगवान्काव्यश्चैव महातपाः। ...[[??]] [[राजशासप्रणतारो|राजशास्त्रप्रणेतारो]] ब्रह्मण्या ब्रह्मवादिनः ॥ शान्ति[[• 58, 1-3.|० 58,1-3.]]
+[^395]: भार्गवो [[नीतिशा|नीतिशास्त्रं]] तु जगाद जगतो हितम् । शान्तिपर्व 210.20. एतत्ते राजधर्माणां नवनीतं युधिष्ठिर । बृहस्पतिर्हि [[भगवाज्याय्यं धर्म प्रसिति|भगवान्न्याय्यं धर्मं प्रशास्ति]] विशालाक्षश्च भगवान्काव्यश्चैव महातपाः। ... [[राजशासप्रणतारो|राजशास्त्रप्रणेतारो]] ब्रह्मण्या ब्रह्मवादिनः ॥ शान्ति[[• 58, 1-3.|० 58,1-3.]]
 
 [[P369]] Kāvya (i.e. Uśanas[[ )|)]] and Bhārgava[^396] as identical. Vālmīki's name has nowhere been mentioned as that of an expounder of Rājaśāstra. The Rāmāyaṇa itself regards Uśanas [[( Sukra )|(Śukra)]] and Bhārgava as identical when it describes the auspicious appearances on Rāma's invasion of Rāvana's capital [[( Yuddha 4.49 )|(Yuddha 4.49)]]. Vide above under Kauṭilya's Arthaśāstra where [[pa88a ges|passages]] from the Mahābhārata on the Rājaśāstra of [[Uganas|Uśanas]] have been quoted. Hopkins misunderstands the verse. What it means is: the life of Rāma was recited to some king by a court poet or possibly by Bhārgava Uśanas himself the expounder of Rājaśāstra, who thereon recited the famous verse 'rājānam prathamam vindet &c,' because the underlying idea of that expounder was 'no king, no dharma nor security'. It is quite possible that both [[(i, e. Mahābhārata and Rāmāyana )|(i.e. Mahābhārata and Rāmāyaṇa)]] quote from a common source [[viz,|viz.]] the Rājaśāstra of Kāvya Uśanas which once existed but has not yet been recovered. 
 
@@ -375,7 +375,7 @@ For example, the Pardi plates of Dahra-sena of Saṃvat 207 (probably of the Kal
 
 [^409]: That paper shows that formerly it was believed that the Denarius was introducted in 269 B. C. But on a fresh appraisal it is stated (on p. 214) that we may regard 190 B. C. as a close approximation to the true date. On. p. 254 it is shown that the first issue of the paper denarius was in 187 B. C. In plate III accompanying the vol. No. 32 is a denarius of 42 B. C. and No. 33 of 99, 94 B. C. Hence Dinarius could have been introduced in India in 150 B. C. 
 
-[^410]: On p. 137 (Gupta Inscription No. 31 ) the Inscription ends with [[tho|the]] words 'उक्तं च महाभारते शतसाहस्यां संहितायां परमर्षिणा पराशर• सुतेन वेदव्यासेन व्यासेन । पूर्वदत्तां द्विजाति ...[[??]] पालनम् ॥ प्रायेण हि . वसुन्धराम् ॥ बहुभिर्वसुधा ...[[??]] तदा फलम् ॥ षष्टिवर्षस...[[??]]नरके वसेत् ।। स्वंद
+[^410]: On p. 137 (Gupta Inscription No. 31 ) the Inscription ends with [[tho|the]] words 'उक्तं च महाभारते शतसाहस्यां संहितायां परमर्षिणा पराशर• सुतेन वेदव्यासेन व्यासेन । पूर्वदत्तां द्विजाति ... पालनम् ॥ प्रायेण हि . वसुन्धराम् ॥ बहुभिर्वसुधा ... तदा फलम् ॥ षष्टिवर्षस...नरके वसेत् ।। स्वंद
 
 
 [[P377]]XI.93 he quotes ' Ubhau [[Madhvõsavaksibau|Madhvāsavakṣībau]]'(Udyoga 59.5); on IX.64 he quotes Śānti [[63.13411|63.134[^411]]] that the Śūdra is [[entit led|entitled]] to three āśramas but not to that of parivrājaka. On Manu VII. 177 he quotes the well-known verse [[na kascit kasyacit'|‘na kaścit kasyacit’]] [[( quoted above)|(quoted above)]]. The Mit. quotes the Mahābhārata or Vyāsa frequently (e. g. on Yāj. [[1.72|I.72]],86, 256, III. 6, 250, 258, 300 ). Aparārka quotes from the Mahābhārata dozens of [[verges|verses]], but the quotations from Vyāsa include many verses on [[Vyava bāra|Vyava-hāra]] attributed to Vyāsa which do not occur in the [[Mahā bhārata|Mahā-bhārata]]. The Kṛtyakalpataru sparingly quotes the [[Mahā bhārata|Mahā-bhārata]]. It is unnecessary to refer to other and later digests on the question of [[the, date|the date]] and text of the Mahābhārata.
@@ -824,23 +824,23 @@ It is impossible to deal with the numerous writings on the Rāmāyaṇa. Jacobi'
 
 [^372]: वदन्त्यध्यापयामास महाभारतपञ्चमान् । सुमन्तुं जैमिनिं पैलं शुकं स्वमात्मजम् । प्रभुर्ऋष्टो वरदो वैशम्पायनमेव च ॥ संहितास्ते पृथक् पृथक् । भारतस्य प्रकाशिताः । आदि 63. 89-90.
 
-[^377]: ( 1 ) स्मरन्ति च । वे. सू. II. 3. 47; शङ्कराचार्ये remarks : स्मरन्ति च व्यासादयो यथा जीवेन दुःखेन न परमात्मा दुःखयत इति । परमात्मा...[[??]] स सप्तदशकेनापि राशिना युज्यते पुनः ॥ ...[[??]] भूतस्य सम्यग्भूतानि पश्यतः । देवा अपि मार्गे मुह्यन्त्यपरस्य पदैषिणः ॥ इति...[[??]]तथा च तत्तैवोपसंहृतम् । ...[[??]] दर्शयित्वा प्रभावं स्वं सर्वभूतगतोऽभवत् ॥ इति । The verses are Śānti-parva 262. 32 ( and also 269. 22 and 333. 19-20 ).
+[^377]: ( 1 ) स्मरन्ति च । वे. सू. II. 3. 47; शङ्कराचार्ये remarks : स्मरन्ति च व्यासादयो यथा जीवेन दुःखेन न परमात्मा दुःखयत इति । परमात्मा... स सप्तदशकेनापि राशिना युज्यते पुनः ॥ सर्वभूतात्म भूतस्य सम्यग्भूतानि पश्यतः । देवा अपि मार्गे मुह्यन्त्यपरस्य पदैषिणः ॥ इति...तथा च तत्तैवोपसंहृतम् । इत्युक्त्वा मारुच्छीघ्रां गतिं कृत्वान्तरिक्षगः । दर्शयित्वा प्रभावं स्वं सर्वभूतगतोऽभवत् ॥ इति । The verses are Śānti-parva 262. 32 ( and also 269. 22 and 333. 19-20 ).
 
-[^378]: न ते वागनृता काव्ये काचिदत्र भविष्यति । तस्य बुद्धिरियं जाता वाल्मीकेर्भावितात्मनः । ...[[??]] श्लोकशतैर्यशस्विनो यशस्करं काव्यमुदारधीर्भुवि ॥ बालकाण्ड 2. 35, 41; आदिकाव्यमिदं त्वाषीं पुरा वाल्मीकिना कृतम् । युद्धकाण्ड 131. 107; कविः कुशलवौ तौ चकार किल नामतः । ...[[??]] स्वकृतिं गापयामास कविरथमपद्धतिम् कवेरायुष्य शासनात् । रघुवंश 15. 32, 33, 41.
+[^378]: न ते वागनृता काव्ये काचिदत्र भविष्यति । तस्य बुद्धिरियं जाता वाल्मीकेर्भावितात्मनः । कृत्स्नं रामायणं काव्यमिदं शैः?? करवाण्यहम्...समाक्षरेः । श्लोकशतैर्यशस्विनो यशस्करं काव्यमुदारधीर्भुवि ॥ बालकाण्ड 2. 35, 41; आदिकाव्यमिदं त्वाषीं पुरा वाल्मीकिना कृतम् । युद्धकाण्ड 131. 107; कविः कुशलवौ तौ चकार किल नामतः । ... स्वकृतिं गापयामास कविरथमपद्धतिम् कवेरायुष्य शासनात् । रघुवंश 15. 32, 33, 41.
 
 [^403]: गुरोरप्यवलितस्य कार्याकार्यमजानतः । उत्पथं प्रतिपन्नस्य दण्डो भवति शाश्वतः ॥ शान्ति 57. 7; also in शान्ति 140. 48 ( reads शासनम् for शाश्वतः ); उद्योगपर्व 178. 48 reads last pāda as परित्यागो विधीयते; कार्यं भवति शासनम् । अयोध्या 21. 13.
 
-[^406]: Several scholars have written about the location of Laṅkā. Mr. M. V. Kibe locates Laṅkā in central India ( vide ABORI Vol. XVII pp. 371-384; F. W. Thomas presentation Vol. pp. 144-5; J. C. Ghosh in ABORI vol. XIX pp. 84-86; Daniel John in ABORI vol. XXI pp. 270-279 ) who holds that Mr. Kibe is wrong and that Laṅkā must be some island in the midst of the sea off the southern or south-eastern coast of the present island of Ceylon. Mr. G. K. Ramdas holds that 'Rāvaṇa's Laṅkā' was near Amarakantaka ( vide I. H. Q. vol. IV pp. 338-346 ). In A. B. O. R. I. Vol. XIX at p. ...[[??]] is pointed out that a portion of Orissa was known as Laṅkā. M. S. Aney in his paper 'The Rāmāyaṇa tradition in the present...[[??]]
+[^406]: Several scholars have written about the location of Laṅkā. Mr. M. V. Kibe locates Laṅkā in central India ( vide ABORI Vol. XVII pp. 371-384; F. W. Thomas presentation Vol. pp. 144-5; J. C. Ghosh in ABORI vol. XIX pp. 84-86; Daniel John in ABORI vol. XXI pp. 270-279 ) who holds that Mr. Kibe is wrong and that Laṅkā must be some island in the midst of the sea off the southern or south-eastern coast of the present island of Ceylon. Mr. G. K. Ramdas holds that 'Rāvaṇa's Laṅkā' was near Amarakantaka ( vide I. H. Q. vol. IV pp. 338-346 ). In A. B. O. R. I. Vol. XIX at p. 80 is pointed out that a portion of Orissa was known as Laṅkā. M. S. Aney in his paper 'The Rāmāyaṇa tradition in the present day Ceylon'
 
-[^411]: ' न पृथिव्यां ब्रीहियवं हिरण्यं पशवः स्त्रियः । नालमेकस्य तद्वेद्मि इति मत्वा शमं व्रजेत् ॥ The Ch. ed. reads this as ' पृथिवीरत्नसम्पूर्णा हिरण्यं ...[[??]] व्रजेत ' ( आदि 75. 51 ); आग्नेया विहिताः सर्वे वर्जयित्वा निराशिषम् । शान्ति 63...[[??]]
+[^411]: ' न पृथिव्यां ब्रीहियवं हिरण्यं पशवः स्त्रियः । नालमेकस्य तद्वेद्मि इति मत्वा शमं व्रजेत् ॥ The Ch. ed. reads this as ' पृथिवीरत्नसम्पूर्णा हिरण्यं ... व्रजेत ' ( आदि 75. 51 ); आग्नेया विहिताः सर्वे वर्जयित्वा निराशिषम् । शान्ति 63.13
 
-[^412]: सर्वानेवागामिनः पार्थिवेन्द्राद् भूयो भूयो याचते राजसिंहः । ...[[??]] न्यायं धर्मसेतुर्नृपाणां काले काले पालनीयो भवद्भिः ॥ ...[[??]]
+[^412]: सर्वानेवागामिनः पार्थिवेन्द्राद् भूयो भूयो याचते राजसिंहः ।  न्यायं धर्मसेतुर्नृपाणां काले काले पालनीयो भवद्भिः ॥ It is the same No. 10 on p. 1273 of the H of Dh. vol. II, with this difference that the order of the two halves is reversed and that the underlined are differently read is this ins. namely राजा... रामचन्द्रः, नराणां for नृपाणां and सर्वानेवागा...न्द्रान् for सर्वानेवागामिनो भूमिपालान्.
 
-[^413]: चतुःषष्टिकृत्स्नसु विशारदाः । कृत्स्नामानि तु धीमद्भागवतदशमस्कन्धकार्यां श्रीधरस्वामिभिर्दर्शितानि ; on सभा 61. 9. अत एव श्रीमद्भागवत...[[??]] हरिनिन्दापरः स्तुतिपरत्वेनैव व्याख्यातः श्रीधरस्वामिभिः । on सभा 41...[[??]]
+[^413]: चतुःषष्टिकृत्स्नसु विशारदाः । कृत्स्नामानि तु धीमद्भागवतदशमस्कन्धकार्यां श्रीधरस्वामिभिर्दर्शितानि ; on सभा 61. 9. अत एव श्रीमद्भागवते हरिनिन्दापरः स्तुतिपरत्वेनैव व्याख्यातः श्रीधरस्वामिभिः । on सभा 41.1
 
 [^417]: मिषतां सर्वयोधानां समस्ताः प्रमदोत्तमाः । समन्ततोऽवकृष्यन्त कामाच्चान्याः प्रवर्तयुः ॥ मौसल० 7. 69.
 
-[^421]: अङ्गमारोप्य तु पुरा रावणेन बलाद्धृताम् । लङ्कामपि पुरा नीतामशोकवनिकां गताम् । रक्षसां वशमापन्नां कथं रामो न कुत्सते । असाकमपि दोषेषु सहनीयं भविष्यति । यथा हि कुरुते राजा प्रजा तमनुवर्तते । उत्तराकाण्ड 53. 16-...[[??]] Compare ' स किंवदन्तीं वदतः पुरोषः ...[[??]] ' रघु. 14. 31.
+[^421]: अङ्गमारोप्य तु पुरा रावणेन बलाद्धृताम् । लङ्कामपि पुरा नीतामशोकवनिकां गताम् । रक्षसां वशमापन्नां कथं रामो न कुत्सते । असाकमपि दोषेषु सहनीयं भविष्यति । यथा हि कुरुते राजा प्रजा तमनुवर्तते । उत्तराकाण्ड 53. 16-19. Compare ' स किंवदन्तीं वदतः पुरोषः स्ववृत्तमुद्दिश्य विशुद्धवृत्तः । सर्पाधिराजोरुभुजोऽपसर्पं पप्रच्छ भद्रं विजितारिभद्रः ॥ ' रघु. 14. 31.
 
 [^422]: निषादविद्धाङ्गनदर्शनेनोरः स्तोकात्वमापद्यत यस्य शोकः । रघु० 14. 70; Compare बालकाण्ड 2. 18 शोकात्र्स्य प्रवृत्तो मे श्लोको भवतु नान्यथा । and 2. 41 शोकानुव्यहरणाद्युः शोकः श्लोकत्वमागतः ।
 
@@ -854,7 +854,7 @@ It is impossible to deal with the numerous writings on the Rāmāyaṇa. Jacobi'
 
 [^427]: यथा फलानां पक्वानां नान्यत्र पतनाद्भयम् । एवं नराणां जातानां नान्यस्मरणाद्भयम् ॥
 
-[^428]: दुह्मरंसनसुतं वीरं सत्यवन्तमनुव्रतम् । सावित्रीमिव मां विद्धि त्वमात्म...[[??]]शवर्णिनीम् ॥ अयोध्या 30. 6.
+[^428]: दुह्मरंसनसुतं वीरं सत्यवन्तमनुव्रतम् । सावित्रीमिव मां विद्धि त्वमात्मसमशवर्णिनीम् ॥ अयोध्या 30. 6.
 
 [^429]: लोपामुद्रा यथामत्स्यं सुकन्या च्यवनं यथा । सावित्री सत्यवन्तं च कपिलं श्रीमती यथा ॥ सौदासं मदयन्तीव केशिनी सगरं यथा । नैषधं दमयन्तीव भैमी पतिमनुव्रता । सुन्दर० 24. 11-12. The हर्षचरित ( I ...[[??]] pp. 11-12 of the author's edition ) refers to सुकन्या, daughter of king शर्याति and her marriage with sage च्यवन who had his āśrama about two krośas beyond the Soṇa ( river ).
 
@@ -868,6 +868,6 @@ It is impossible to deal with the numerous writings on the Rāmāyaṇa. Jacobi'
 
 [^440]: यत्नवन्तो यवद्वीपं सप्तराज्योपशोभितम् ॥ सुवर्णरूप्यकं चैव सुवर्णकारमण्डितम् यवद्वीपमतिक्रम्य शिशिरो नाम पर्वतः ॥ किष्किन्धा 40. 29-30.
 
-[^443]: अहमतितनुश्चैव वानरश्च विशेषतः । वाचं चोदाहरिष्यामि मानुषीमिह संस्कृताम् ॥ यदि वाचं प्रदास्यामि द्विजातिरिव संस्कृताम् । रावणं मन्यमाना भीता भविष्यति ॥ वानरस्य विशेषेण कथं स्यादभिषेचनम् । अवश्यमेव ...[[??]] मानुषं वाक्यमर्थवत् । सुन्दर० 30. 17-19.
+[^443]: अहमतितनुश्चैव वानरश्च विशेषतः । वाचं चोदाहरिष्यामि मानुषीमिह संस्कृताम् ॥ यदि वाचं प्रदास्यामि द्विजातिरिव संस्कृताम् । रावणं मन्यमाना भीता भविष्यति ॥ वानरस्य विशेषेण कथं स्यादभिषेचनम् । अवश्यमेव भाषितव्यं मानुषं वाक्यमर्थवत् । सुन्दर० 30. 17-19.
 
-[^447]: ऋगाद्यथर्वाङ्ग पञ्चरात्रं च भारतम् । मूलरामायणं चैव मनुसूत्रं ...[[??]] स्मृतम् ॥ I. 30.
+[^447]: ऋगाद्यथर्वाङ्ग पञ्चरात्रं च भारतम् । मूलरामायणं चैव मनुसूत्रं मानं स्मृतम् ॥ I. 30.

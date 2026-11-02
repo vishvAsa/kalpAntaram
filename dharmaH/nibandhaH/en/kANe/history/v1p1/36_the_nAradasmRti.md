@@ -51,7 +51,7 @@ The Nāradasmṛti, excluding the introductory passage in prose about the succes
 [^507]: सन्दिग्धेऽर्थेऽभियुक्तानां विशुद्ध्यर्थं दुरात्मनाम् । प्रोक्तानि नारदेनेह सत्यानृतविशुद्धये ॥
 [^508]: यत्र विप्रतिपत्तिः स्याद्धर्मशास्त्रार्थशास्त्रयोः । अर्थशास्त्रोक्तमुत्सृज्य धर्मशास्त्रोक्तमाचरेत् ॥
 [^509]: पुराणोक्तौ द्वौ श्लोकौ भवतः । यः परार्थे प्रहिणुयात्स्वां वाचं पुरुषाधमः । आत्मार्थे किं न कुर्यात्स पापो नरकनिर्भयः ॥ वाच्या नियताः सर्वे वाङ्मूला वाग्विनिश्चिताः । यो हि तां स्तेनयेद्वाचं स सर्वस्तेयकृन्नरः ॥ नारद (ऋणादान 227-228).
-[^510]: सत्यं वाहनशस्त्राणि गोबीजकनकादि च । ...[[??]]इत्येते शपथाः प्रोक्ता मनुना स्वल्पकारणे । ऋणादान 248, 250 ; दैवं पञ्चविधं ज्ञेयमित्याह भगवान्मनुः ॥ ऋणादान 251; छायानिवेशितो रक्ष्यो दिनशेषमभोजनः । विषवेगल मालील शुद्धोऽसौ मनुरब्रवीत् ॥ ऋणादान 326. 
+[^510]: सत्यं वाहनशस्त्राणि गोबीजकनकादि च । ...इत्येते शपथाः प्रोक्ता मनुना स्वल्पकारणे । ऋणादान 248, 250 ; दैवं पञ्चविधं ज्ञेयमित्याह भगवान्मनुः ॥ ऋणादान 251; छायानिवेशितो रक्ष्यो दिनशेषमभोजनः । विषवेगल मालील शुद्धोऽसौ मनुरब्रवीत् ॥ ऋणादान 326. 
 
 [[P472]]
 
@@ -87,7 +87,7 @@ Nārada contains several rare words such as "hoḍha" (in vyavahāramātṛkā [
 
 [^514]: त्रयः स्वतन्त्रा लोकेस्मिन्राजाचार्यस्तथैव च । प्रतिवर्णं च सर्वेषां वर्णानां स्वे गृहे गृही ॥ ऋणादान 32. This idea occurs in शान्तिपर्व 321. 147 'सर्वः स्वं स्वे गृही राजा'.
 
-[^515]: Vide प्रकीर्णक verses 20-22 राजेति संचरत्येष भूमौ साक्षात् सहनेछ । न तस्याज्ञामतिक्रम्य संतिष्ठेरन् प्रजाः क्वचित् ॥...[[??]]निर्बलोपि यथा स्त्रीणां पूज्य एक पतिः सदा । प्रजानां विगुणोप्येवं पूज्य एव प्रजापतिः ॥ 
+[^515]: Vide प्रकीर्णक verses 20-22 राजेति संचरत्येष भूमौ साक्षात् सहनेछ । न तस्याज्ञामतिक्रम्य संतिष्ठेरन् प्रजाः क्वचित् ॥...निर्बलोपि यथा स्त्रीणां पूज्य एक पतिः सदा । प्रजानां विगुणोप्येवं पूज्य एव प्रजापतिः ॥ 
 
 stilu 
 
@@ -107,7 +107,7 @@ From the Rājanītiratnākara of Caṇḍeśvara published for the BORS of Patna
 
 The Vyavahāramātṛkā of Jimūtavāhana and the [[Parā sara-Madhaviya|Parāśara-Mādhavīya]] (vol. III, part I, p. 203 ) quote a verse from Nārada, the latter half of which is the same as the latter half of a verse in the Vikramorvaśīya.[^521] The doctrine attributed to Nārada is found in Yāj. (II. 20 ) and the [[Viṣṇudharina sutra|Viṣṇudharma-sūtra]] (6. 22 ) but not in the same words. Unfortunately the date of Kālidāsa is far from being universally accepted, but the fourth or first half of the 5th century is often accepted [[48|as]] the probable date. There is further difficulty in the fact that the text of the Vikramorvaśīya has been largely tampered with. If the verse is a genuine part of the drama, it seems natural to suppose that Kālidāsa turns a well-known legal maxim to a somewhat [[bumorous|humorous]] use. It is hard to suppose
 
-[^519]: राजा त्रिविधः सम्राट् सकरोऽकरश्च । तदाह नीतौ नारदः । p. 3 of राजनीति-रत्नाकर ; p. 75 यदा राजा जरायुक्तो...[[??]] सप्ताङ्गानि च राज्यानि ज्येष्ठपुत्राय दापयेत् ॥ दापयेत् दद्यात् । विधाय वृत्तिं व्यहूनां राज्यं ज्येष्ठाय दापयेत्-इति राजनीतौ हारीतनारदवचनेभ्यः । p. 79 : राजनीतौ नारदः । ज्येष्ठो नरक-निस्तारो लोकपूज्यतमः स्मृतः । ज्येष्ठो रत्नाकरः प्रोक्तो राज्यार्हो ज्येष्ठ एव हि ॥
+[^519]: राजा त्रिविधः सम्राट् सकरोऽकरश्च । तदाह नीतौ नारदः । p. 3 of राजनीति-रत्नाकर ; p. 75 यदा राजा जरायुक्तो... सप्ताङ्गानि च राज्यानि ज्येष्ठपुत्राय दापयेत् ॥ दापयेत् दद्यात् । विधाय वृत्तिं व्यहूनां राज्यं ज्येष्ठाय दापयेत्-इति राजनीतौ हारीतनारदवचनेभ्यः । p. 79 : राजनीतौ नारदः । ज्येष्ठो नरक-निस्तारो लोकपूज्यतमः स्मृतः । ज्येष्ठो रत्नाकरः प्रोक्तो राज्यार्हो ज्येष्ठ एव हि ॥
 
 [^520]: राजधर्मोऽयमित्येवं प्रसङ्गात्कथितो मया । कात्यायनेन मनुना याज्ञवल्क्येन 
 
@@ -136,7 +136,7 @@ The time when Bhavasvāmin flourished is not free from doubt. Prof. Chintamani c
 
 Bhavasvāmin refers several times to other explanations of Nārada's verses with the words 'anya [[aha'as|āha' as]] on '[[inādana|ṛṇādāna]]' v. 195, 'Strīpuṁsayoga' v. 30, [[Dāya vibhāga|Dāyavibhāga]] verses 13, 14, prakīrṇaka v. 80. He refers here and there to different [[read ings|readings]] in Nārada as on [[Ruādāna|Ṛṇādāna]] verses 67, 153, [[Vikrīyāsampra dāna|Vikrīyāsampradāna]], verse 12, Strīpuṁsayoga, verses 2, 3, 15, 16, 29, 83. He quotes about two dozen verses of Manu. His commentary [[ex plains|explains]] the words of Nārada's [[verges|verses]], is generally concise, and makes no show of learning. He cites a few sūtras of Pāṇini a few passages as Śruti (as on [[mìādāna|ṛṇādāna]] 53, 97). It is [[re markable|remarkable]] that he cites (on [[mnādāna|ṛṇādāna]] 190) '[[nāputranya|nāputrasya]] lokostīti' as [[Smști|Smṛti]], which is really Ait. Br. (VII. 3). He quotes Vas. Dharmasūtra on [[mnādāna|ṛṇādāna]] verse 94 and on [[Vāg Dandapārusya|Vāg-Daṇḍapāruṣya]] verse 20. It is noteworthy that he speaks of the present Manusmṛti as Bhṛgu-Saṁhitā[^525] or Bhārgavī- 
 
-[^525]: उग्रात्तु जातः क्षत्तायां...[[??]]वेन उच्यते ॥ इति भार्गव्यां संहितायां विस्तर उक्तस्तत एव द्रष्टव्यः । on स्त्रीपुंसयोः III. 7. This is Manu X. 19; भृगुसंहिता-यामपि-काणं वाप्यथवा खञ्जमन्यं यापीत्यनन्तरं वाक्पारुष्यप्रकरणे पठितं केशांचिन्नास्त्येव ।; काणं० is मनु VIII. 274. If may be noted that the extant Manusmṛti declares that Bhṛgu learnt the śāstra from Manu and taught it to the sages,
+[^525]: उग्रात्तु जातः क्षत्तायां...वेन उच्यते ॥ इति भार्गव्यां संहितायां विस्तर उक्तस्तत एव द्रष्टव्यः । on स्त्रीपुंसयोः III. 7. This is Manu X. 19; भृगुसंहिता-यामपि-काणं वाप्यथवा खञ्जमन्यं यापीत्यनन्तरं वाक्पारुष्यप्रकरणे पठितं केशांचिन्नास्त्येव ।; काणं० is मनु VIII. 274. If may be noted that the extant Manusmṛti declares that Bhṛgu learnt the śāstra from Manu and taught it to the sages,
 
 [[P481]]
 saṁhitā; for example, on [[Stripuīsayoga|Strīpuṁsayoga]] verse 111 he quotes Manu X. 19 as [[Bhāryavi-samhitā|Bhārgavī-saṁhitā]] and on Manu VIII. 274 as Bhṛgusaṁhitā on 'Vāgdaṇḍapāruṣya' v. 20. He quotes Vālmīki and Vyāsa on Ṛṇādāna'[^526] verse 32. He quotes a Śārdūlavikrīḍita verse on 'krodha' (anger) and a verse on 'unmāda' (delirium, or madness ) due to five causes on Dattāpradānika 8-10. [[Ou|On]] [[Rnūlāna|Ṛṇādāna]] verse 31 he quotes an āryā on the importance of Gaṇita. On 'Ṛṇādāna [[verge|verse]] 72 Bhavasvāmin quotes a verse of Vararuci explaining the meaning of the words 'pogaṇḍa, kuṇi' and 'paṅgu'.[^527] 
@@ -162,7 +162,7 @@ Prof. D. R. Bhandarkar (Carmichael Lectures 1918, p. 90), probably following the
 A Jyotir-Nārada is quoted by Bhaṭṭoji in his commentary on the Caturviṁśatimata ( p. 11 ). A [[Bșhan|Bṛhan]]-Nārada is quoted 
 
 [^528]: भानुवारसमेतेन तथा संक्रान्तिसंयुता । एकादशी सदोपोष्या पुत्रपौत्रप्रवर्धनी ॥ स्मृतिचन्द्रिका ( श्राद्धकाण्ड p. 354 ).
-[^529]: कार्षापणो दक्षिणस्यां दिशि रौप्यः प्रवर्तते । पणैर्निबद्धः पूर्वस्यां विंशतिस्तु पणास्तु स तु ॥...[[??]] पाञ्चनद्याः प्रदेशे तु संज्ञा या व्यावहारिकी । कार्षापणप्रमाणं तु निबद्धमिह नैतया ॥ चौर्यप्रतिषेधप्रकरण 57 and 59. 
+[^529]: कार्षापणो दक्षिणस्यां दिशि रौप्यः प्रवर्तते । पणैर्निबद्धः पूर्वस्यां विंशतिस्तु पणास्तु स तु ॥... पाञ्चनद्याः प्रदेशे तु संज्ञा या व्यावहारिकी । कार्षापणप्रमाणं तु निबद्धमिह नैतया ॥ चौर्यप्रतिषेधप्रकरण 57 and 59. 
 
 [[P483]]
 by Raghunandana and a Laghu-Nārada by the [[Nirnaya sindbu|Nirṇaya-sindhu]] and the Saṁskāra-Kaustubha. 

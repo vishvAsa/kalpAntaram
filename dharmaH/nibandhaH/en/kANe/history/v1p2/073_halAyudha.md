@@ -179,7 +179,7 @@ For reasons of space it is impossible to illustrate Halāyudha's principles and 
 Ancient Vedic texts insist that one engaged in the performance of a sacrifice or the like must know in the case of a wavy mantra the sage, metre, the deity and the purpose (*viniyoga*) for which it is employed and state what undesirable consequences employing mantras without knowing these details will follow.
 
 [^866]:
-    Halāyudha's remarks on the Aghamarṣaṇa mantra are interesting : अघमर्षणस्य व्याख्यानमाचरितं ‘हृदि प्रकाशो जायेत यत: सर्ववेदभावानुभूति-प्रत्ययात्मकस्य मन्त्र:’ । अथ पदार्थतावच्च न वास्ति ब्राह्मणैरप्रतिपाद्यमस्य नास्ति । इत्यमिति यद्व्याख्यानानुगुणं कर्मयुग्माप्रयमये(?) ...[[??]]।
+    Halāyudha's remarks on the Aghamarṣaṇa mantra are interesting : अघमर्षणस्य व्याख्यानमाचरितं ‘हृदि प्रकाशो जायेत यत: सर्ववेदभावानुभूति-प्रत्ययात्मकस्य मन्त्र:’ । अथ पदार्थतावच्च न वास्ति ब्राह्मणैरप्रतिपाद्यमस्य नास्ति । इत्यमिति यद्व्याख्यानानुगुणं कर्मयुग्माप्रयमये(?) ...।
 
 [[P639]]
 

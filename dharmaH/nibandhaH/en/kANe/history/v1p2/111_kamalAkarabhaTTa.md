@@ -110,7 +110,7 @@ daily yajñas were to be performed for the Śūdra according to the Vājasaneyas
 The Nirṇayasindhu or Nirṇayakamalākara is the most famous of Kamalākara's works. It is a monument of erudition, industry and lucidity. It has been judicially referred to as a work of authority.[^1438] I have used the Nirṇayasāgara edition of 1905 (with Marathi translation). In the whole range of nibandhakāras there is hardly any other writer, except perhaps Nīlakaṇṭha and Mitramiśra, who lays under contribution as many works as Kamalākara does. In the Nirṇayasindhu about one hundred smṛtis and over three hundred nibandhakāras are mentioned by name. In the introductory verses he expressly says that he pondered over the views of Hemādri, Mīdhava and other learned writers. The work is divided into three *paricchedas*. The following is a very concise statement of the contents of this voluminous work. The principal subject is to give decisive opinions as to the proper times for various religious acts; the various views about the year being solar, lunar, sidereal etc., months of four kinds, lunar, solar etc., saṁkrānti rites and gifts; intercalary month; *kṣayamāsa*; about *tithis*, *śuddhā* and *viddhā* (combined with another *tithi* on same day); *vratas*; the various *vratas* and festivals during the twelve months of the year; the *saṁskāras* from garbhādhāna onwards; sapiṇḍa relationship; consecration of images; auspicious times (*muhūrtas*) for various actions such as sowing operations, buying horses and cattle &c.; *śrāddha*;
 
 [^1437]:
-    This is interesting ‘ तथा गृह्या: पञ्चमहायज्ञा भवन्ति । ...[[??]] ते च वाज-सनेयशाखायां क्वाचित् । इत्यादि बह्वचनेन इति गौडनिबन्धेषु दृश्यते । इदिलस्थापि विश्वाद्वकरणेष्वेवायुक्तम् ’ श्राद्धकल्पतरु p. 51 ; vide श्राद्धविवाचारश्च ( Jivananda vol. II p. 634 ) and मनस्सार ( vol. I, p. 792 ) for an explanation of this.
+    This is interesting ‘ तथा गृह्या: पञ्चमहायज्ञा भवन्ति । ... ते च वाज-सनेयशाखायां क्वाचित् । इत्यादि बह्वचनेन इति गौडनिबन्धेषु दृश्यते । इदिलस्थापि विश्वाद्वकरणेष्वेवायुक्तम् ’ श्राद्धकल्पतरु p. 51 ; vide श्राद्धविवाचारश्च ( Jivananda vol. II p. 634 ) and मनस्सार ( vol. I, p. 792 ) for an explanation of this.
 
 [^1438]:
     I. L. R. 3 Bom. at p. 197 ; Khnshalchand v. Bai Mani I. L. R. 11 Bom. 247 at p. 254 ; I. L. R. 16 Bom. at p. 556 ; I. L. R. 49 Bom. 739 at p. 757 ; I. L. R. 9 Cal 315 at p. 324.
@@ -143,7 +143,7 @@ He desired his work to be encyclopaedic and therefore, he remarks that the rites
     On page 186 he states व्रतं ह्येषां पञ्चमहायज्ञेषु नास्ति तस्मात् पञ्चमहायज्ञकर्मादि दिक् ।।
 
 [^1442]:
-    अत्र विशोऽग्नितिथिष्ठे ईदृगै । आहुने पौर्णमास्यां तु व्रजेऽप्याग्ने निषेधः । कौमुदी सा समाख्याता कार्यो लोकप्रसिद्धितः ॥ कौमुद्यां यद्वेष्णी...[[??]]अन्नेः श्रीकर: कौमुदी व्रतं ॥ ( Continued on the next page )
+    अत्र विशोऽग्नितिथिष्ठे ईदृगै । आहुने पौर्णमास्यां तु व्रजेऽप्याग्ने निषेधः । कौमुदी सा समाख्याता कार्यो लोकप्रसिद्धितः ॥ कौमुद्यां यद्वेष्णी...अन्नेः श्रीकर: कौमुदी व्रतं ॥ ( Continued on the next page )
 
 [[P934]]
 
@@ -154,7 +154,7 @@ The Nirṇayasindhu frequently mentions an author called Nārāyaṇa-vṛtti-k�
 He notes that the works of Gauḍa authors,[^1444] such as the Tithitattva, hold that, after an invitation to officiate at a śrāddha is given and accepted, if there is death of a relative of the person inviting a brāhmaṇa or a relative of the invitee dies, both are not affected by āśauca, since the Viṣṇusmṛti provides that there is no āśauca for the performer (of śrāddha) nor for the officiating priest after the invitation to officiate is given and accepted. The Nirṇayasindhu remarks that the text applies to marriage and not to śrāddhas, since the word ‘śrāddha’ does not occur therein.
 
 [^1443]:
-    कोङ्कणास्तु वराहपुराणस्थेन वाक्येन पठन्ति । आपस्ते श्रूयन्ते तु एकादश मातरः ।। यत्तेषां मते न मतमित्यत्र तत्रैव कथ्यम्यपाणम् ।। तदत्र सामूलरूपेण...[[??]] ।। निर्णयसिन्धु p. 82.
+    कोङ्कणास्तु वराहपुराणस्थेन वाक्येन पठन्ति । आपस्ते श्रूयन्ते तु एकादश मातरः ।। यत्तेषां मते न मतमित्यत्र तत्रैव कथ्यम्यपाणम् ।। तदत्र सामूलरूपेण... ।। निर्णयसिन्धु p. 82.
 
 [^1444]:
     तिथितत्त्वदायादिशास्त्रे दानप्रयोजनं । आदौ प्रारभ्य श्राद्धादि सुगतिरिति विष्णुः । निर्णयसिन्धु p. 476 ; compare श्राद्धतत्त्व ( vol. II p. 290 ) ; ‘ आदावुपक्रमे' इति श्रुते: कुत्रापि नोपदेशात् प्रारब्ध श्राद्ध आशौचं न । तिथितत्त्वानुसारेण । सोऽपि श्राद्धम् । निर्णयसिन्धु विषयेऽपि श्राद्धमेव । किंतु तिथितत्त्वकारैः श्राद्धं वर्जयित्वा दशाहानि तिथिप्रकरणे । श्राद्धदिपि दशाहप्रकरणे विशेषं नात्र । श्राद्धं वा द्विरावृत्त्या श्राद्धे दशाहप्रकरणं स्यात् । श्राद्धतत्त्वेऽपि ...[[??]] हेमाद्रौ च श्राद्धकल्पतरौ ।

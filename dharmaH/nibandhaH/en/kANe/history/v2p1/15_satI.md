@@ -148,11 +148,11 @@ The [[Suddhitattva|Śuddhitattva]] sets out the procedure of widow burning. [^14
 
 
 [^1482]:
-    बालापत्याब गर्भिण्यो अप्राप्तपत्तथा । रजस्वला राजसते नारोहन्ति चितां हि... । [[बृहन्नारदीयपुराण|Bṛhannāradīyapurāṇa]] quoted by परा. मा. II. part 1, p. 58, [[स्मृतिचं|Smṛticandrikā]] p. 236, [[स्मृतिसं|Smṛtisaṃgraha]] I. p. 162 (ascribes to ...[[??]]). '...[[??]]' [[बृहस्पति|Bṛhaspati]] quoted by परा. मा. and [[स्मृतिचं|Smṛticandrikā]].
+    बालापत्याब गर्भिण्यो अप्राप्तपत्तथा । रजस्वला राजसते नारोहन्ति चितां हि... । [[बृहन्नारदीयपुराण|Bṛhannāradīyapurāṇa]] quoted by परा. मा. II. part 1, p. 58, [[स्मृतिचं|Smṛticandrikā]] p. 236, [[स्मृतिसं|Smṛtisaṃgraha]] I. p. 162 (ascribes to और्व). '...[[??]]' [[बृहस्पति|Bṛhaspati]] quoted by परा. मा. and [[स्मृतिचं|Smṛticandrikā]].
 
 
 [^1483]:
-    प्रतिषिद्धा हि या नारी मोहादिच्छति ...[[??]] ततः । प्राजापत्येन शुध्येतु तस्याः ...[[??]] । [[आपस्तम्ब|Āpastamba]] quoted by [[अपरार्क|Aparārka]] p. 1193 and [[स्मृतिचं|Smṛticandrikā]] p. 243.
+    प्रतिषिद्धा हि या नारी मोहादिच्छति सति ततः । प्राजापत्येन शुध्येतु तस्याः पापकर्मणः । [[आपस्तम्ब|Āpastamba]] quoted by [[अपरार्क|Aparārka]] p. 1193 and [[स्मृतिचं|Smṛticandrikā]] p. 243.
 
 
 [^1484]:

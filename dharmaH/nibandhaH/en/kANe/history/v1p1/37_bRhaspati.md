@@ -15,7 +15,7 @@ We saw above how [[Bihaspati|Bṛhaspati]] closely follows the extant Manusmṛt
 
 The order in which the topics of law [[appeard|appeared]] in Bṛhaspati can be settled with tolerable certainty from the quotations in Aparārka, Vivādaratnākara, Vīramitrodaya and other works.
 
-[^534]: Vide Kullūka on Manu 8. 153 : तासां स्वरूपमाह बृहस्पतिः । कायिका ...[[??]] संयुक्ता मासग्राह्या च कालिका । वृद्धेर्वृद्धिश्चक्रवृद्धिः कारिता ऋणिना कृता ॥
+[^534]: Vide Kullūka on Manu 8. 153 : तासां स्वरूपमाह बृहस्पतिः । कायिका कर्मसंयुक्ता मासग्राह्या च कालिका । वृद्धेर्वृद्धिश्चक्रवृद्धिः कारिता ऋणिना कृता ॥
 
 [[P485]] 
 
@@ -86,7 +86,7 @@ II. 135. The Mit. has the last verse.
 
 p. 711 and [[at|वीर०]] p. 383.
 
-[^541]: Vide note 522 above. ताम्रकर्षकृता मुद्रा विज्ञेयः कार्षिकः पणः । स एव चाण्डिका भोक्ता ...[[??]] धानका ॥ ता द्वादश सुवर्णस्तु दीनाराख्यः स एव तु । बृह° quoted in स्मृतिच° p. 99, वि. र. p. 667. कात्यायन is quoted on same page by the स्मृतिच° for a similar definition.
+[^541]: Vide note 522 above. ताम्रकर्षकृता मुद्रा विज्ञेयः कार्षिकः पणः । स एव चाण्डिका भोक्ता ताञ्छतसहस्रं धानका ॥ ता द्वादश सुवर्णस्तु दीनाराख्यः स एव तु । बृह° quoted in स्मृतिच° p. 99, वि. र. p. 667. कात्यायन is quoted on same page by the स्मृतिच° for a similar definition.
 
 चाण्डिका प्रोक्ता ताश्चतस्रस्तु [[धानका|धानकाः]] ॥ ता द्वादश सुवर्णस्तु दीनाराख्यः स पर
 
@@ -102,7 +102,7 @@ clothes that are worn on the body, debts, ( or books for use, according to other
 
 [^544]: सर्वापलापं यः कृत्वा मिथ्याल्पमपि संवदेत् । सर्वमेव तु दाप्यं स्यादिति युक्तो बृहस्पतिः ॥ व्यवहारमातृका of जीमूत° p. 311.
 
-[^545]: अर्थिप्रत्यर्थिसांनिध्याननुभूतं तु यद्भवेत् । तद्ग्राह्यं साक्षिणो [[वाध्यमन्यवाह|वाक्यमन्यथा ...[[??]]]] बृहस्पतिः ॥ quoted in the व्यवहारमातृका of जीमूत° p. 317.
+[^545]: अर्थिप्रत्यर्थिसांनिध्याननुभूतं तु यद्भवेत् । तद्ग्राह्यं साक्षिणो [[वाध्यमन्यवाह|वाक्यमन्यथा न]] बृहस्पतिः ॥ quoted in the व्यवहारमातृका of जीमूत° p. 317.
 
 [[P489]]
 

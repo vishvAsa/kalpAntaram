@@ -47,3 +47,11 @@ Householder life, starting with vivAha/ marriage. The most important Ashrama, fo
 
 ### Before gRhastha
 "Grandparents with a monk son also had more grandchildren, as their non-celibate sons faced less or no competition with their brothers. The practice of sending a son to the monastery … is therefore in line with a parent’s reproductive interests." - [AT](https://arstechnica.com/science/2022/09/celibacy-its-surprising-evolutionary-advantages-according-to-new-research/)
+
+## Entry
+> If the ritual performed is erroneous and incomplete or if the ritual is absent altogether, one doesn't enter into that āśrama.
+
+This is false. Even if a marriage ritual is flawed, one enters gRhasthAshrama nonetheless. 
+
+Further, all such saMskAra-s (and nitya-karma-s) are performed per one's capacity; and this is allowed and will yield the desired results (unlike in the case of kAmya karma-s). So, there is no scope for anxiety.
+
