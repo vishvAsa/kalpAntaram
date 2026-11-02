@@ -10,7 +10,7 @@ From verse 22 of the same title the printed text is the same as the smaller vers
 
 Nārada is not mentioned by Yājñavalkya in the list of ancient writers on dharma, nor does Parāśara mention him. Viśvarūpa, however, quotes a verse of [[Vrddha|Vṛddha]]-Yājñavalkya (on Yāj. I. 4-5), where Nārada is the first among ten [[ex pounders|expounders]] of dharma enumerated therein. ‘Nārada is a very ancient name. The [[Manusmrti|Manusmṛti]] ( I. 35 ) mentions Nārada as one of the ten primeval Prajāpatis. In the Mahābhārata sage Nārada figures frequently. In [[Udyoga parva|Udyogaparva]] ( 49. 22 ) he is said to have told the [[Vronis|Vṛṣṇis]] to do their duties ( [[tasmāt-kar maiva karta vyam-iti hovāca Nāradaḥ I etad-hi sarvamācasta Vṇśṇicakrasya vedavit|tasmāt-karmaiva kartavyam-iti hovāca Nāradaḥ । etad-hi sarvamācaṣṭa Vṛṣṇicakrasya vedavit]]). Śānti ( 30.6 ) says that Nārada was the maternal uncle of Parvata. In [[Sāntiparva|Śāntiparva]] 29. 13 ff it is stated that Nārada comforted [[Yudhisthira|Yudhiṣṭhira]] on the death of his many relatives and warriors by dilating upon the stories of sixteen ancient kings and heroes who had also similar
 
-[^504]: [[Fra on Amarakośa para que 1933728 378-375T:' qud bent|Kṣīrasvāmī on Amarakośa ‘śūdrāścāvaravarṇāśca vṛṣalāśca jaghanyajāḥ’ quotes]] ‘नारदस्तु-वृषो हि भगवान्धर्मस्तस्य यः कुरुते लवम् । [[‘वृषलं तं विजानीयाना...[[??]]|‘vṛṣalaṁ taṁ vijānīyāt...[[??]]’]] [[This first half is Manu 8. 16 (TI...[[??]]NHL) and faqe 90. 16|This first half is Manu 8. 16 (vṛṣo...[[??]]halam ) and Śāntiparva 90. 15]]. 
+[^504]: क्षीरस्वामी on Amarakośa ‘शूद्राश्चावरवर्णाश्च वृषलाश्च जघन्यजाः’ quotes ‘नारदस्तु-वृषो हि भगवान्धर्मस्तस्य यः कुरुते लवम् । वृषलं तं विजानीयात्... This first half is Manu 8. 16 (वृषो...हलम्) and शान्तिपर्व 90. 15.
 
 
 
@@ -87,7 +87,7 @@ Nārada contains several rare words such as "hoḍha" (in vyavahāramātṛkā [
 
 [^514]: त्रयः स्वतन्त्रा लोकेस्मिन्राजाचार्यस्तथैव च । प्रतिवर्णं च सर्वेषां वर्णानां स्वे गृहे गृही ॥ ऋणादान 32. This idea occurs in शान्तिपर्व 321. 147 'सर्वः स्वं स्वे गृही राजा'.
 
-[^515]: [[vide|Vide]] प्रकीर्णक verses 20-22 राजेति संचरत्येष भूमौ साक्षात् सहनेछ । न तस्याज्ञामतिक्रम्य संतिष्ठेरन् प्रजाः क्वचित् ॥...[[??]]निर्बलोपि यथा स्त्रीणां पूज्य एक पतिः सदा । प्रजानां विगुणोप्येवं पूज्य एव प्रजापतिः ॥ 
+[^515]: Vide प्रकीर्णक verses 20-22 राजेति संचरत्येष भूमौ साक्षात् सहनेछ । न तस्याज्ञामतिक्रम्य संतिष्ठेरन् प्रजाः क्वचित् ॥...[[??]]निर्बलोपि यथा स्त्रीणां पूज्य एक पतिः सदा । प्रजानां विगुणोप्येवं पूज्य एव प्रजापतिः ॥ 
 
 stilu 
 

@@ -15,7 +15,7 @@ Kātyāyana is enumerated as one of the expounders of [[dhurma|dharma]] by [[Sar
 
 Kātyāyana appears to have taken Nārada and [[Bphaspati|Bṛhaspati]] as his models in the order and treatment of the subjects to be dealt with on vyavahāra. He closely follows both the writers in terminology and technique. On several points he [[presu pposes|presupposes]] Nārada and expounds and elucidates the latter's dicta. For example, Nārada ( Intro. chap. I. 10-11 ) lays down that Vyavahāra has four pādas, each later one prevailing, viz. dharma, vyavahāra, caritra, rājaśāsana ( note 361 ) and then Nārada very briefly in one verse explains these four terms ; Kātyāyana, on the other hand, devotes at least nine verses to the elucidation of the rule as to each succeeding one prevailing over its predecessor.[^558] Nārada contains very little on the topic of strīdhana ( dāyabhāga chap. verses 8-9 ). He merely enumerates the six kinds of strīdhana and then lays down the rule of succession. Kātyāyana's treatment of strīdhana has attained classical rank. It appears that he was probably the first to carefully define the several kinds of strīdhana ( such as adhyagni, adhyāvahanika, prītidatta, śulka, [[anya dheya|anvādheya]], saudāyika ), to lay down woman's power of [[different|disposal]] 
 
-[^558]: Vide [[RI. AT.|परा. मा.]] vol. III, part I, pp. 16-17, and [[airo|वीर०]] p. 9-10, 120, [[1910|121.]] 
+[^558]: Vide परा. मा. vol. III, part I, pp. 16-17, and वीर० p. 9-10, 120, 121. 
 
 [[P497]] 
 
@@ -25,7 +25,7 @@ It has been already shown how Kātyāyana often quotes the views of Bṛhaspati.
 
 More than 21 nibandhas on Vyavahāra quote about 1100 verses of Kātyāyana on vyavahāra, the Smṛticandrikā alone citing about 600 of them. In these verses Kātyāyana refers at least a score of times to the views of [[Burgu|Bhṛgu]]. It is [[remarka ble|remarkable]] that only a few of the views ascribed to Bhṛgu are found in the extant Manusmṛti. Kātyāyana says, according to Bhṛgu, whatever ( ancestral ) wealth was concealed by one coparcener from others, whatever was badly divided should be divided in equal shares when afterwards discovered ( [[Parā. Sara-Mūlhaviya|Parāśara-Mādhavīya]] III, p. 566 ). This may well be compared with Manu 9. 215. [[Kātyāyanu|Kātyāyana]] says, according to Bhṛgu, it is not Brāhmaṇa-murder to kill an ātatāyin who is foremost by his austerities, learning and caste. This has in view Manu 
 
-[^559]: एकच्छायाश्रिते [[सर्व|सर्वं]] दद्यात्तु प्रोषिते सुतः । मृते पितरि पित्रंशं परणं न [[qarafa: 11 927. \#1.|बृहस्पतिः ॥ परा. मा.]] III, p. 251.
+[^559]: एकच्छायाश्रिते सर्वं दद्यात्तु प्रोषिते सुतः । मृते पितरि पित्रंशं परणं न बृहस्पतिः ॥ परा. मा. III, p. 251.
 
 [^560]: क्षेत्रारामविवीतेषु गृहेषु पशुपादिषु । ग्रहणं तत्प्रविष्टानां ताडनं वा बृहस्पतिः ॥ [[fa. T.|वि. र.]] p. 241.
 
@@ -171,7 +171,7 @@ a-
 
 [[getuar 11|प्रदीपवत् ॥]]
 
-[^573]: Vide p. 638 verses 1-11 of 26th khaṇḍa and compare with [[Gobbi|Gobhi-]]
+[^573]: Vide p. 638 verses 1-11 of 26th khaṇḍa and compare with Gobhi-
 
 [[lag!hyasūtra|lagṛhyasūtra]] III. 6. 10-15 ( [[11 474825: 1 af Jha qarTAL|गोयज्ञे पायसश्चरुः । अग्निं यजेत पूषणमिन्द्र-]] मीश्वरम् । ऋषभपूजा । गोयज्ञेनेवाश्वयज्ञो व्याख्यातः । [[यमवरुणो|यमवरुणौ]] देवतानाम-
 

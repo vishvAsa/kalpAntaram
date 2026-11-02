@@ -7,7 +7,7 @@ short_title = "07 Dharmasūtra of"
 7. Dharmasūtra of Āpastamba. This has been edited several times (viz. by Bühler in the [[Boinbay|Bombay]] Sanskrit Series with large extracts from Haradatta's commentary called Ujjvalā and also at Kumbhakonam with the complete commentary of Haradatta and translated by Bühler with an introduction in S. B. E. vol. II). The [[Apastan bakalpasūtra|Āpastambakalpasūtra]] of the Taittirīya Śākhā of the black Yajurveda is divided into 30 [[pruśnas|praśnas]]. According to Bühler, the first 24 praśnas contain the treatment of Śrauta sacrifices; the 25th contains [[paribhūṣās|paribhāṣās]], pravarakhaṇḍa, and Hautraka prayers to be recited by Hotṛ priests; 26th and 27th praśnas constitute the [[Gșhyasūtra|Gṛhyasūtra]], the 28th and 29th Dharmasūtra and the 30th praśna is Śulvasūtra. Bühler seems to be slightly inaccurate here. According to Cauṇḍappa, who commented on the Āpastambīya sūtras in the 14th century, the [[Āpastambiyaman trapātha|Āpastambiyamantrapāṭha]] forms the 25th and 26th praśnas of the Kalpasūtra and the [[Gșhyasūtra|Gṛhyasūtra]] forms 27th praśna.[^80] The Śrauta-sūtra of
 
 [^80]:
-    80 पंचविशेष षड्विंशे गृहमन्त्राः प्रपञ्चिताः । प्रश्नेऽथ सप्तर्विशे स्याद्ब्रह्मतन्त्रविधिक्रमात् । (Dr. Winternitz's edition of Āp. [[Maptrapātha|Mantrapāṭha]] p. IX). The editor [[farthek|further]] states (p. IX n. 2) that Paribhāṣās form part of the 24th [[praśn a nu|praśna and]] not of the 25th, as Bühler says.
+    80 पंचविशेष षड्विंशे गृहमन्त्राः प्रपञ्चिताः । प्रश्नेऽथ सप्तर्विशे स्याद्ब्रह्मतन्त्रविधिक्रमात् । (Dr. Winternitz's edition of Āp. Mantrapāṭha p. IX). The editor further states (p. IX n. 2) that Paribhāṣās form part of the 24th praśna and not of the 25th, as Bühler says.
 
 [[P54]] 
 
@@ -51,8 +51,7 @@ adultery; punishment varied according as the woman wronged was Ārya or Śūdra;
 
 Each of the two [[praśnus|praśnas]] of the Āpastamba-dharma-sūtra is divided into eleven paṭalas, there being 32 and 29 [[khandikūs|khaṇḍikās]] in the two paṭalas respectively. The Dharmasūtra is written in a more concise and compact style than that of Baudhāyana and has more [[archaio|archaic]] and un-Pāṇinean forms than any other extant Dharmasūtra. For example, the following are against the rules of Pāṇini; Adhāsana (for adha āsana) in I. 1. 2. 21, aglamsnu ([[1.|I.]] 2. 3. 22), [[muhūnsca|muhūṃśca]] (I. 2. 8. 22), [[agļhyamāna|agṛhyamāṇa]] (I. [[4.,|4.]] 12. 8), sarvatopeta (for 'sarvata upeta') in [[1.|I.]]6.19.9, sakhim (for sakhīm) in I. 7. 21. 9. Haradatta points out in many places that the current reading was un-Pāṇinean and therefore he read differently ([[0.g.|e. g.]] in II. [[%.|2.]] 5. 2 he reads [[• aviprakramana'|‘aviprakramaṇa’]], while the current reading was [['aviprakramina !:)|‘aviprakramiṇa’.)]][^83]. This makes it probable that in the original text there must have been many more un-Pāṇinean forms than in the one preserved by Haradatta. There are many unfamiliar or rare words used by Āpastamba, i. e. ananiyoga ([[1.|I.]] 6. 19. 12), anaiścārika (I. 8. 22. 1), kartapatya (I. 2. 5. 3), vyupatoda and vyupajāva [[(-'pa')|(-‘pa’)]] in I. 2. 8. 15, [[brahmaha sainstuta|brahmaha-saṃstuta]] (I. 1. 1. 32). We meet with strange forms of certain words, such as paryānta ([[1.|I.]] 3. 9. 21), praśāsta (II. 8. 19. 3), anatyaya (I. 1. 1. 21, for anatyaya), brahmojjham (for-[[ojjliah|ojjhah]]) in I. 7. 21. 8, śvāvit ([[1.|I.]] 5. 17. 37), ṣṭhevana (I. 11. 30. 19 for ṣṭhīvana), ācāryadāre (for-dāreṣu) in I. 2. 7. 27. Though the Āp. [[Dluarnasūtra|Dharmasūtra]] is mainly in prose, there are [[versos|verses]] here and there.[[there.Somo|there. Some]] of the verses are expressly stated to be taken from other sources by being introduced with the word [["udaharanti"|“udāharanti”]] or with [[“athāpyudābaranti"|“athāpyudāharanti”]] e. g. I. 6. 19. 13 (two ślokas from a Purāṇa), [[1.|I.]] 6. 19. 15 (compare Manu 8. 317 and Vas. 19. 44 ), I. 11. 31. 1, I. 11. 32. 24, II. 4. 9. 13 (two verses, same as Baud. II. 7. 22-23), II. 7. 17. 8, II. 6. 13. 6 (three verses almost the same as in Baud. II. 2. 34-36 ), II. 9. 23. 4-5 (two ślokas from a Purāṇa ). Besides these, there are several isolated verses, most of which seem to be quotations, though not introduced with words [[liko "udāharanti |like “udāharanti”.]] 
 
-[^83]:
-    83 saptor H EPA hafta i astropped: 1 FAITE OTETTUATOT TIT 
+[^83]:     83 ‘मार्गेण मात्रावस्त्रविकारादिसिद्ध्यर्थे । तत्राप्येष एवार्थः । इत्यादि आपस्तम्बे निरूपितम्
 
 [[P60]] 
 
@@ -62,8 +61,7 @@ Baudhāyana. Some sūtras that are printed as prose are parts of [[vorses|verses
 
 Āpastamba quotes, besides the [[Saihitūs|Saṃhitās]], the [[Brālmanas|Brāhmaṇas]] very frequently (e. g., I. 1. 1, 10-11, [[1.|I.]] 1. 3. 9, I. 1. 3. 26, I. 2. 7. 7, [[1.|I.]] 2. 7. 11, I. 3. [[10,8|10. 8]]), He quotes the Vājasaneyaka ([[1.|I.]] 5. 17. 31) and the Vājasaneyi-brāhmaṇa (I. 4. 12. 3 on svādhyāya), he speaks of the Upaniṣads (II. 2. 5. 1), his quotations (II. 2. 3. 16-[[11.|II.]] 2. 4. 1-9) from the Tai. Āraṇyaka agree, according to Bühler, with the text current in the Āndhra country. He [[speakg8Sa|speaks]][^85a] of the six aṅgas of the Veda (in II. 4. 8. 10), and I added from the Kumbhakonam edition (which I was then using) ‘and the next sūtra enumerates chandas, [[kalpu|kalpa]], grammar, jyotiṣa, Nirukta, Śikṣā (phonetics ) and Chandoviciti (metrics ) which are seven [[etc.'|etc.’]] I find that Haradatta reads Chandaḥkalpa as one word and explains ‘Chando Vedas-tatkalpayati ... iti Chandaḥkalpaḥ [[Kalpasūtrāṇi'.|Kalpasūtrāṇi’.]] This is an extremely far-fetched explanation. Everywhere the Vedāṅgas are six. No other writer mentions so far as I know Chandaḥ-kalpa as an aṅga 
 
-[^84]:
-    84 SATENIIG STENOTE4...[[??]] TUTTÀg FAU: Fruta TUTA: 1) 3974. 1.1.1.27; . ATASHITEL KitareTECZTA: 1. 8. 22. 3; 310 Ciri Traalane. 
+[^84]:     84 षडङ्गानि वेदः । छन्दः कल्पो व्याकरणं ज्योतिषं निरुक्तं शिक्षा । छन्दोविचितिश्चेति । आप. ध. सू. II. 4. 8. 10-11. The मुण्डकोप० I. 5. reads शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमिति । The तैत्तिरीयोप. I. 2. reads ‘ओं शीक्षां व्याख्यास्यामः । वर्णः स्वरः । मात्रा बलम् । साम सन्तानः । इत्युक्ताः शीक्षाचार्याः ।’
 
 Foga: I. 8. 23. 4. 63 On the sutra अन्यत्र राहुदर्शनात् (II. 7. 17. 25 ) he says 'उदीच्यास्त्वंतत्मायेण 
 
@@ -247,9 +245,9 @@ But on the subject of Āpastamba's home which he holds to have been in North Ind
 
 [^102b]:
 
-    102b The Kāmasūtra is assigned to the 4th century [[A, D.|A. D.]] by Winternitz in
+    102b The Kāmasūtra is assigned to the 4th century A. D. by Winternitz in
 
-    History of Indian Literature, Vol. III (1922, [[Gernan|German]]) p. 540 and Mr. [[II.|H.]] C. Chakladar in Asutosh Mookerji Silver Jubilee Vol. III [[IT |]]holds that it should be placed in the middle of the 3rd [[cotton|century]] A.D.; so the author [[Ghotakamukba|Ghoṭakamukha]] would [[liave|have]] to be placed [[Desi|at]] about the first century A. D., if not earlier. 
+    History of Indian Literature, Vol. III (1922, German) p. 540 and Mr. H. C. Chakladar in Asutosh Mookerji Silver Jubilee Vol. III holds that it should be placed in the middle of the 3rd century A.D.; so the author Ghoṭakamukha would have to be placed at about the first century A. D., if not earlier. 
 
 [[P72]]
 

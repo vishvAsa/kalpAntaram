@@ -3,136 +3,92 @@ title = "21 Manuṣyayajña"
 
 +++
 
-CHAPTER XXI NRYAJÑA OR MANUṢYA-YAJÑA. 
+CHAPTER XXI
 
-NȚyajña or Manusya-yajña : ( Honouring guests)-Manu (III. 70 ) states that this consists in honouring guests. In the oldest hymns of the Rgveda fire is described as a guest in the house of the sacrificer. In Rg. I. 73. 1 Agni is described as lying in a pleasant spot and pleased like a guest (syonasir atithir-na priṇāno). Vide Rg. V, 1. 8 1785 and 9, V, 4. 5, VIL 42. 4 for fire being called atithi. In Rg. IV. 4. 10 it is said of Agni'you become the protector, the friend, of him wbo offers you hospitality in the usual (or proper) order,' Vide Rg. IV.33.7 and Tai. S. I. 2. 10.1 for the word ātithya. Athar Vaveda IX. 6 is an eulogy of hospitality in which the various stages in the reception and feeding of a guest are metaphori cally represented as the various actions performed in a sacri fice. 1988 The Tai. 8. V.2.2. 4 refers to the faot that when & guest comes, hospitality in which ghee abounds, is offered to him' and it remarks that 'one who comes in a chariot and one who comes in & cart are the two most honoured among guests. 1987: The Tai. S. (VI. 2. 1. 2) says 'hospitality is offered to all the followers accompanied by whom a king comes'. Vide Ait. Br. IL. 9 for almost the same words. The San. Br. IL 9 remarks 1788 when a man offers oblations at sunrise, he indeed offers hospitality to a great god who has started on a journey.' The Tai. Br. (II. 1. 3) shows that a guest was honoured by having & lit lamp placed before him and then food was served to him. 1989 The Ait. Br. ( 25. 5) says that a guest 
+MANUṢYAYAJÑA
 
-1786, pet fagrarafuationen *. V. 1. 9. Agni is a guest doar to all human groups.' OF THE YET T4 TUT URT WORT 
+[[P749]] Nṛyajña or Manuṣya-yajña : (Honouring guests).—Manu (III. 70) states that this consists in honouring guests. In the oldest hymns of the Ṛgveda fire is described as a guest in the house of the sacrificer. In Ṛg. I. 73. 1 Agni is described as lying in a pleasant spot and pleased like a guest (syonāśir-atithir-na priṇāno). Vide Ṛg. V. 1. 8[^1785] and 9, V. 4. 5, VII. 42. 4 for fire being called atithi. In Ṛg. IV. 4. 10 it is said of Agni 'you become the protector, the friend, of him who offers you hospitality in the usual (or proper) order.' Vide Ṛg. IV. 33. 7 and Tai. S. I. 2. 10. 1 for the word ātithya. Atharvaveda IX. 6 is an eulogy of hospitality in which the various stages in the reception and feeding of a guest are metaphorically represented as the various actions performed in a sacrifice.[^1786] The Tai. S. V. 2. 2. 4 refers to the fact that 'when a guest comes, hospitality in which ghee abounds, is offered to him' and it remarks that 'one who comes in a chariot and one who comes in a cart are the two most honoured among guests.'[^1787] The Tai. S. (VI. 2. 1. 2) says 'hospitality is offered to all the followers accompanied by whom a king comes'. Vide Ait. Br. II. 9 for almost the same words. The Śān. Br. II. 9 remarks[^1788] 'when a man offers oblations at sunrise, he indeed offers hospitality to a great god who has started on a journey.' The Tai. Br. (II. 1. 3) shows that a guest was honoured by having a lit lamp placed before him and then food was served to him.[^1789] The Ait. Br. (25. 5) says that a guest [[P750]] should not be refused in the evening.[^1790] The Śat. Br. (II. 1. 4. 2. 8. B. E. vol. 12, p. 291) remarks that 'it would be unbecoming for a person to take food before men who are staying with him as guests have eaten'. The Śatapatha shows that an ox or a goat was cooked for a guest, either a king or a brāhmaṇa (III. 4. 1. 2). Vide also Ait. Br. 3. 4 for the offering of an ox or barren cow to a king or another deserving person coming as a guest. Yāj. I. 109 also says that a big ox or a goat was to be kept apart for a guest learned in the Veda. But the Mit. and other[^1791] medieval writers to whom flesh-eating was an anathema and an unspeakable sin for a brāhmaṇa remark that an ox or a goat was to be understood as set apart for the guest to flatter him (with the words 'this ox is yours') just as one says in humility 'all this house is yours' and that the ox or goat was not meant to be given in gift or to be killed since it would be impossible to find an ox each time a śrotriya guest came. The Ait. Ār. I. 1. 1 remarks 'whoever is good and has attained eminence is a (real) guest, people do not treat with hospitality one who is undeserving.'[^1792] In the Tai. Up. (I. 11. 2) one of the exhortations of the teacher to the pupil returning home is 'atithi-devo bhava' (honour guests). The same Upaniṣad says elsewhere (III. 10. 1) "let him never turn away a stranger from his house, that is the rule. Therefore a man should by all means acquire much food, for people say (to the guest) 'there is food ready for him.' If he gives food amply, food is given to him amply". In the Kaṭhopaniṣad[^1793] (I. 7-9) it is said 'a brāhmaṇa entering a house as a guest is (like) fire. People offer this (well-known) appeasement to him. Oh, son of Vivasvat, offer him water (to wash his feet). If a brāhmaṇa guest stays in a man's house without food, he cuts off (destroys) the hopes and expectations, (fruits of) the friendship (of the good), the rewards of sacrifices and charitable acts, sons and cattle.' Then Yama offered to bestow three boons on Naciketas as some penance for allowing Naciketas to remain without food [[P751]] in his house for three days. The Nirukta[^1794] IV. 5 in explaining Ṛg. V. 4. 5 (juṣṭo damūnā atithirduroṇa) derives the word 'atithi' from the root 'at' to go and also from 'tithi' (day) and 'a' meaning 'comes' (from 'i' with 'abhi'). Vide Manu III. 102 for another derivation; also Parāśara I. 42 and Mārk. 29. 2-9. Manu and others say that an atithi is so called because he does not stay for a whole tithi (i. e. day) and 'an atithi is a brāhmaṇa who stays for one night only as a guest.'
 
-\# IV. 4. 10. 
+[^1785]:
+    प्रियो विशामतिथिर्मानुषीणाम् ॥ ऋ. V. 1. 9 'Agni is a guest dear to all human groups.' तस्य व्रता भवति तस्य सख्या यस्त आतिथ्यमुपजुजोषत् ॥ ऋ. IV. 4. 10.
 
-1786. Vide . \#. \#. II. 3. 7. & and 6-10 for comparison of hospitable rots with the three savanas and constituont elements of & Baorifico. 
+[^1786]:
+    Vide आप. ध. सू. II. 3. 7. 2 and 6-10 for comparison of hospitable acts with the three savanas and constituent elements of a sacrifice.
 
-1787. Art og ret stora gerarti ... Tuy amara fornited page ante auf T errETIH. . V. 2. 2. 3. and 4. The words tha t are quoted in t. r. af rey II. 4. 20. 
+[^1787]:
+    तस्माद्वाहुर्न्न स्त्री वा रथी वा अतिथीनामपचिततमौ । ... यथातिथय आगताय सर्वेभ्यश्चातिथ्यं क्रियते तादृगेव तद्वाचयति ब्राह्मणस्य । तै. सं. V. 2. 2. 3. and 4. The words तस्माद्वाहुर्न...तमौ are quoted in बौ. गृ. परिशिष्टसूत्र II. 4. 20.
 
-1788. \#ora yata yra geraih trofeed that I sti. TJ. II. 9. 1789. Hot Tuna sola fa 1. T. II. 1. 3. 
+[^1788]:
+    स य उदिते जुहोति प्रवसत एवैतन्महते देवायातिथये करोति । शां. ब्र. II. 9.
 
-750 
+[^1789]:
+    अथो यथातिथिं व्योतिष्ठस्व परिवेवेषि । तै. ब्रा. II. 1. 3.
 
+[^1790]:
+    तस्माद्वाहुर्न सायमतिथिरुपदध्य इति । वसि. 25. 5; compare मनु III. 105 अग्नौ प्रास्तोऽतिथिः सायं दूरोहे यद्यमेध्यते ।
 
+The honouring of guests comes after the offering of bali and Baud. gr. II. 9. 1-2, Vas. XI. 6, Viṣṇupurāṇa III. 11. 55 ordain that after baliharaṇa the householder should wait in front of the yard of his house for as much time as would be required for milking a cow or for a longer time at his desire for receiving guests. Others make it a definite time viz. one-eighth of a muhūrta (vide Mārk. purāṇa 29. 24-25 quoted in Sm. C. I., p. 217).[^1795] The Āp. Dh. S. contains a very elaborate treatment of honouring guests (II. 3. 6. 3 to II. 4. 9. 6). Gaut. V. 36, Manu III. 102-108 and Yāj. I. 107 and 111 state that he is called an atithi who belonging to a different village and intending to stay one night only arrives in the evening, that one who has already been invited for dinner is not an atithi properly so called, that a person who belongs to the same village or who is a friend or fellow-student is not an atithi, that one has to honour guests according to one's ability, that guests are to be preferred according to the order of varṇas and that among the brāhmaṇas, the śrotriya and one who has completely mastered (at least one) recension of the Veda is to be preferred. Vas. Dh. S. XI. 6 says that the worthiest are to be honoured first. Gaut. V. 39-42 and Manu III. 110-112 say that a kṣatriya is not really an atithi to a brāhmaṇa nor are vaiśyas nor śūdras; but they add that,[^1796] if a kṣatriya comes to a brāhmaṇa's house as a guest (i. e. as a traveller who has no food with him and about the time of taking food) he should be treated to a meal after brāhmaṇa guests take their food and vaiśya and śūdra guests should be given food [[P752]] by a brāhmaṇa householder along with his servants and thereby he should show his kindliness. Āp. Dh. S. II. 4. 9. 5 requires the householder to give food to all who come at the end of the Vaiśvadeva, even including cāṇḍālas, but it mentions the view of some that one need not give food to unworthy persons (vide note 1779 above). Commentators like Haradatta explain that in the case of worthy guests, if the householder does not give food, though able, he incurs sin; but in the case of unworthy people he incurs no blemish by not giving, but if he gives to them also, he secures merit. Vṛddha-Gautama (pp. 535-536) calls upon a householder to treat even a cāṇḍāla with consideration. Parāśara (I. 40) and Sātātapa went so far[^1797] as to say that even if a householder hates a visitor or the latter is a fool, the householder should give him food if he arrives at the time of meals. Śāntiparva 146. 5 says that even an enemy when he comes to one's house as a guest must be hospitably treated, as a tree does not remove its shade from one who approaches it to fell it. But Āp. Dh. S. II. 3. 6. 19, Manu IV. 213, Yāj. I. 162 are opposed to this and state that a guest who is at enmity with the host shall not eat his food, nor shall he eat the food of a host who accuses him or suspects him of a crime. Vṛddha-Hārīta (8. 239-240) states the humane rule 'if a traveller is a śūdra or belongs to a pratiloma caste (such as a cāṇḍāla) and comes to one's house tired and hungry, the householder should give him food; but if a heretic or a patita (one outcast for grave sins) comes in that condition, one should not give him cooked food, but only grain. Compare Manu IV. 30. Vṛddha-Gautama (chap. 6, p. 535 and chap. 12, p. 590, Jīvānanda part 2) says the same about a cāṇḍāla or śvapāka being given cooked food. Baud. gr. II. 9. 21 enjoins welcome to all travellers including cāṇḍālas.
 
-Ch. XXI 
+[^1791]:
+    अत्र यद्यपि बृहद्गताभ्यागताय ब्राह्मणाय गोवधः कर्तव्य इति श्रूयते तथापि कलियुगे शास्त्रे धर्मः किं तु युगान्तरे । आब्धिकासार p. 451.
 
-should not be refused in the evening. 1790 The Sat. Br. (II. 1.4. 2. 8. B. E. vol. 12, p. 291) remarks that it would be unbecoming for a person to take food before men who are staying with him as guests have eaten'. The Satapatha shows that an ox or a goat was cooked for a guest, either a king or a brāhmaṇa (III. 4. 1.2). Vide also Ait. Br. 3. 4 for the offering of an ox or barren cow to a king or another deserving person coming as a guest. Yaj. I. 109 also says that a big ox or a goat was to be kept apart for a guest learned in the Veda. But the Mit. and other 1781 medieval writers to whom flesh-eating was an anathema and an unspeakable sin for a brāhmaṇa remark that an ox or a goat was to be understood as set apart for the guest to flatter him ( with the words this ox is yours') just as one says in humility all this house is yours' and that the ox or goat was not meant to be given in gift or to be killed sinoe it would be impossible to find an or each time & śrotriya guest oame. The Ait. Ār. I. 1. 1 remarks . whoever is good and has attained eminence is & (real) guest, people do not treat with hospitality one who is undeserving. "1702 In the Tai. Up. ( I. 11. 2 ) one of the exhortations of the teacher to the pupil returning home is 'atithi-devo bhava' (honour guests). The same Upanisad says elsewhere ( III 10.1) "let him never turn away a stranger from his house, that is the rule. Therefore a man should by all means acquire much food, for people say (to the guest ) * there is food ready for him.' If he gives food amply, food is given to him amply". In the Katbopaniṣad1783 ( I. 7-9 ) it is said 'a brāhmaṇa entering & bouse as a guest is (like) fire. People offer this (well-known) appeasement to him. Oh, son of Vivasvat, offer him water (to wash his feet). If a brahmana guest stays in a man's house without food, he cuts off (destroys) the hopes and expectations, (fruits of the friendship ( of the good), the rewards of sacrifices and charitable acts, song and cattle.' Then Yama offered to bestow three boons on Naoiketas As some penance for allowing Naciketas to remain without food 
+[^1792]:
+    यो वै भवति यः श्रेष्ठतामश्नुते स वा अतिथिर्भवति न बाऽसत्समतिथायाद्विष्यते । ऐ. आर. I. 1. 1.
 
-1790. HET Fratrem gra 12. 7. 25. 6; comparo AG III. 106 spalanisfatu: pro quia TTHCHTI. 
+[^1793]:
+    वैश्वानरः प्रविशत्यतिथिर्ब्राह्मणो गृहान् । तस्यैतां शान्तिं कुर्वन्ति हर वैवस्वतोदकम् । कठोप. I. 7; आप. ध. सू. II. 3. 6. 3 echoes the first half. वसिष्ठ XI. 13 quotes the first half.
 
-1791, ** quo Tema fregunt: ne fa a ment for return for a TI MIETF P. 451. 
+[^1794]:
+    अतिथिः अत्यतितो गृहान् भवति । अत्येति तिथिषु पर्युलानि इति वा । निरुक्त IV. 5.
 
-1792, पो रे भवति या श्रेष्ठतामझुवे सवा अतिधिर्भवतिन पाऽसन्तमातिष्याया from 10. m. I. 1. 1. 
+[^1795]:
+    अथ वैश्वदेवं हुत्वातिथिमाकांक्षेदागोर्दोहकालम् । अयं बोद्धव्यो दण्डः । विज्ञायते यज्ञो वा एष प्रज्ञातो यदतिथिः । बौ. गृ. II. 9. 1-3 and मनुस्मृतौ III. 14; vide मनु III. 94 also. दूरतो ... मार्कण्डेयपुराण 29. 25.
 
-1793. वानरा प्रविशत्यतिधिमणो रहान तस्यैतां शान्तिकुन्ति हर वैवस्वतो 0977 i aty. I. 7; . . 8. II. 8. 6, 3 ochoor the first half. Y XI, 13 quotes the first half. 
+[^1796]:
+    आब्राह्मणस्यातिथिरब्राह्मणः । ... भोजनं हि क्षत्रियस्योधै ब्राह्मणस्य । अश्नीयाद् वैश्यः सहाभोज्यार्थम् । गौ. V. 39-42.
 
-Ch. XXI) 
+[^1797]:
+    प्रियो वा यदि वा द्वेष्यो मूर्खः पण्डित एव वा । वैश्वदेवे तु संप्राप्तः सोऽतिथिः सर्वसंमतः ॥ पाराशर I. 40, शातातप quoted in स्मृतिचन्द्रः I. p. 217 (reads श्रुतो वा पथि वा मूर्खो मूर्खः &c.).
 
-Noyagna or Manuṣya-yajna 
+The guest is to be shown honour by going out to meet him, by offering him water to wash his feet, by giving him a seat, by lighting a lamp before him, by giving food and lodging, by personal attendance on him, by offering him a bed and by accompanying him some distance when he departs. Vide Gaut. V. 29-34, 37, Āp. Dh. S. II. 3. 6. 7-15, Manu III. 99, 107 and IV. 29, Dakṣa III. 5-8. Vanaparva 200. 22-25 and Anuśāsana 2 highly extol hospitality. Anuśāsana 7. 6 says 'the host [[P753]] should give his eye, mind and agreeable speech to the guest, he should personally attend on him and should accompany him when he (the guest) departs; this sacrifice demands these five fees'.[^1798] Āp. Dh. S. (II. 2. 4. 16-21) says that if a brāhmaṇa that has not studied the Veda or a kṣatriya or a vaiśya comes as a guest to a brāhmaṇa, the latter should offer him a seat, water and food, but need not rise to receive him, that if a śūdra comes as a guest to a brāhmaṇa, the latter should ask him to do some work, then give him food, but if he has none, he should send his slaves to bring it from the royal palace (or store-house).[^1799] Haradatta makes the interesting remark that for honouring śūdra visitors the king should set apart in each village some paddy or other corn. Gaut. V. 33, Manu III. 101 (= Vanaparva II. 54 and Udyoga 36. 34), Āp. Dh. S. II. 2. 4. 13-14, Yāj. I. 107, Baud. gr. II. 9. 21-23 say that[^1800] if a man has not the means to give food to all visitors he should at least offer them water, room and grass to lie down upon, and agreeable speech. If the householder is absent, his wife is to look after honouring guests. Gaut. (V. 37-38) says that guests of the brāhmaṇa, kṣatriya and vaiśya castes should be respectively greeted with the words kuśala, anāmaya and ārogya and the śūdra also with ārogya. Vide Manu II. 127 also and note 831 above.
 
-751 
+[^1798]:
+    चक्षुर्वद्यान्मनो दद्याद्वाचं दद्याच्च सुप्रियाम् । अनुव्रजेन्नुपासीत स यज्ञः पञ्चदक्षिणः ॥ अनुशासन 7. 6.
 
-in his house for three days. The Nirukta 1794 IV.5 in explaining Rg. V. 4. 5 ( justo damūnā atithirduroṇa ) derives the word *atithi' from the root 'at' to go and also from 'tithi'(day) and '&' meaning "comes' (from 'i' with 'abbi'). Vide Manu III. 102 for another derivation; also Parāśara I. 42 and Mārk, 29. 2-9. Manu and others say that an atithi is so called because he does not stay for a whole tithi ( i. e. day) and 'an atithi is a brābmaṇa who stays for one night only as a guest.' 
+[^1799]:
+    ब्राह्मणायानधीयानायासनोदकमन्नमिति देयं न प्रत्युत्तिष्ठेत् । राजन्यवैश्यौ तु । शूद्रस्यागतं कर्मणि नियुञ्ज्यात् । अथास्मै दद्यात् । वासा वा राजकुलादाहारयतितिथ्यर्थं पूजयेदिति ॥ आप. ध. सू. II. 2. 4. 16-21; अत एव ज्ञायते शूद्राणामतिथीनां पूजार्थं ब्रीह्यादिकं राज्ञा ग्रामे ग्रामे स्थापयितव्यमिति । हरदत्त on आप. ध. सू. II. 2. 4. 21.
 
-The honouring of guests comes after the offering of bali and Baud. gr. II. 9. 1-2, Vas. XI. 6, Viṣṇupurāṇa III. 11. 55 ordain that after baliharana the householder should wait in front of the yard of his house for as much time as would be required for milking & cow or for a longer time at his desire for receiving guests. Others make it a definite time viz, one eighth of & muhurta (vide Mark. purāṇa 29. 24-25 quoted in Sm. C. I., p. 217). 1795 The Ap. Dh. S. contains a very elaborate treatment of honouring guests (II. 3. 6. 3 to II. 4, 9.6). Gaut. V. 36, Manu III. 102-108 and Yāj. I. 107 and 111 state that be is called an atithi who belonging to & different village and intending to stay one night only arrives in the evening, that one who has already been invited for dinner is not an atithi properly so called, that a person who belongs to the same village or who is a friend or fellow-student is not an atithi, that one has to honour guests according to one's ability, that guests are to be preferred according to the order of varṇas and that among the brāhmaṇas, the srotriya and one who has com pletely mastered (at least one) recension of the Veda is to be preferred. Vas. Dh. S. XI. 6 says that the worthiest are to be honoured first. Gaut. V. 39-42 and Manu III. 110-112 say that a ksatriya is not really an atithi to & brābmapa nor are vaisyas nor sūdras; but they add that, 1796 if & kṣatriya comes to a brāhmana's house as a guest (i. e, as a traveller who has no food with him and about the time of taking food) he should be treated to a meal after brābmaṇa guests take their food and valdya and sūdra guests should be given food 
+[^1800]:
+    काले स्वामिनाभ्यागतं न प्रत्याचक्षीतात् । अभावे भूमिरुदकं तृणानि शय्यादीनि वागित्येतानि वै सतो गृहे न क्षीयन्ते कदाचनेति । आप. ध. सू. II. 2. 4. 13-14; बौ. गृ. II. 9. 22-23 ओषधिविभागस्तु विभवता कार्योंऽसौ भूमिः ...... कदाचनेति तानेतान् परं ब्रह्मेत्याचक्षते ।
 
-1794. aiu: sprufaa na wafati spara farag agurra e TI निरक्त IV.b. 
+The motive of this injunction to honour guests was clear, viz. universal kindliness. Other motives were added by smṛtis in order to emphasize the observance of this duty. The Śān. gr. II. 17. 1 says "Even if a man constantly gathers grass (i. e. maintains himself by collecting the grains that fall in a field when the crop is taken away) and performs agnihotra, a brāhmaṇa guest who stays in his house without receiving the honour (due as a guest) takes away the (merit) of all his good [[P754]] works".[^1801] Manu III. 100 says the same. Āp. Dh. S. II. 3. 6. 6 says that by honouring guests one secures heaven and freedom from misfortune.[^1802] Vide also Āp. Dh. S. II. 3. 7. 16. One verse quoted in numerous works like the Viṣṇu Dh. S. 67. 33, Śāntiparva 191. 12, Viṣṇupurāṇa III. 9. 15, Mārkaṇḍeya 29. 31, Brahmapurāṇa 114. 36 is 'when a guest returns from the house of a person with his hope of getting food shattered, he (the guest) transfers his own sins to the householder and departs taking with him the householder's merit (puṇya)'. The Vāyupurāṇa (71. 74) and Bṛhat-Parāśara (Jīvānanda, part 2, p. 99) say that yogins and siddhas (those who have attained transcendent powers) wander over this earth in various forms for the benefit of men; therefore one should with folded hands welcome a guest. If one is not able to feed many guests, then Baud. Dh. S. (II. 3. 15-18) declares that one should feed him who is endowed with superior qualities or who is the first to arrive or who is a śrotriya.
 
-1796. अथ वैश्वदेवं स्थाविधिमाकांक्षेदागोोहकालम् । अमे बोद्धस्य दणात् । fra os T V TUHI ratars 11. T. II. 9. 1-3 and TETETU III. 14 ; vide e III. 94 also. EFTEÅ Teraat orafata Hrvagetur 29. 25. 
+[^1801]:
+    तृणान्यप्युञ्छतो नित्यमग्निहोत्रं च जुह्वतः । सर्वं सुकृतमादत्ते ब्राह्मणोऽनर्चितो वसन् ॥ शां. गृ. II. 17. 1.
 
-1796. TegureTradeTOT I ... ... Wita o TARI Toronto ar i feraterugim. V. 39-42. 
+[^1802]:
+    तस्य पूजया शान्तिः स्वर्गश्च । आप. ध. सू. II. 3. 6. 6; vide विष्णुधर्मोत्तर 67. 32 also. अतिथिर्यस्य भग्नाशो गृहात्प्रतिनिवर्तते । स दृष्ट्वा दुष्कृतं तस्य पुण्यमादाय गच्छति ॥ मार्कण्डेय 29. 31. सिद्धा हि विविधै रूपैश्चरन्ति पृथिवीमिमाम् । तस्मादतिथिमायान्तमभियच्छेत् कृताञ्जलिः ॥ वायुपुराण 71. 74; योगिनो विविधैर्भावैर्भ्रमन्ति धरणीतले । नराणामुपकाराय ते चाज्ञातस्वरूपिणः । तस्मादध्यर्चयेद्भक्त्या भाद्रकालीतिथि द्विजः ॥ बृहत्पराशर p. 99 (Jīvānanda, part 2).
 
-752 
+Parāśara (I. 46-47) says that the brahmacārin and the ascetic are the masters of food (i. e. their claim is the first); if one eats without giving to these one should perform the penance of cāndrāyaṇa. When a yati comes as a guest, one should give water in his hand, then food and then again water. The food becomes as big as Meru (mountain) and the water as the sea. Laghu-Viṣṇu (II. 12-14) highly eulogises a yogin as a guest and Dakṣa VII. 42-44 and Vṛddha-Hārīta 8. 89 say that if a yati stays as a guest in a householder's house for a single night, the latter's accumulated sins are destroyed and when a yati takes food at a man's house it is Viṣṇu himself who is fed.[^1803]
 
+[^1803]:
+    यतिर्यस्य गृहे दुष्कृतं तस्य दुष्कृतं हरति स्वयम् । वृद्धहारीत 8. 89; ...[[??]] निवृत्तेऽपि तत्सर्वमेकरात्रेण यतिः । दक्ष VII. 43.
 
+If after some guests have been fed another guest or a batch of guests arrives, then the householder should have food cooked [[P755]] again, but in such a case no fresh vaiśvadeva and baliharaṇa are necessary. Vide Manu III. 105 and 108. It has been already shown from the Śatapatha that the householder is not to partake of meals before the guests, but rather after the guests. The Āp. Dh. S. II. 3. 7. 3 states[^1804] 'he who eats before his guest eats (destroys) food, prosperity, progeny, cattle and merit of his own house'. Manu III. 114 (= Viṣṇu Dh. S. 67. 39) allows the householder to feed newly married girls (his daughters or sisters), unmarried girls, persons who are ill, and pregnant women even before guests; while Gautama V. 23 says that these should be fed at the same time as the guests. Manu III. 113, 116-118, Viṣṇu Dh. S. 67. 38-43, Yāj. I. 105, 108, Āp. Dh. S. II. 4. 9. 10,[^1805] Baud. Dh. S. II. 3. 19 say that one should feed one's friends, relatives and one's servants and then the householder and his wife should dine, that one should not stint one's servants and slaves (who are to be fed daily with food) in order to be able to feed guests, that he who eats before these (guests, relatives, young women of the house, servants) will have his soul harassed by vultures after death, that he who cooks food for himself only swallows merely sin and that when he eats what remains after offering yajña to gods, beings, pitṛs and guests, he really eats. Manu III. 285 (= Vanaparva II. 60) says that 'vighasa is what is left after brāhmaṇas and guests have partaken and amṛta is what is left after being offered in sacrifice and one should always eat these.' Baud. Dh. S. (II. 3. 68 and 21-22) says[^1806] "all beings subsist on food, the Veda declares 'food is life'; therefore food should be given, as food is the highest offering. One should not take food without giving it to others" and quotes two verses said to have been sung by food itself. It is on account of these sentiments that are ingrained even to-day in the minds of all Hindus that no Poor Law and no work-houses were required in India. This sentiment undoubtedly leads to abuses, but what system is not [[P756]] without abuses? The Poor Law and work-houses have their own abuses and the general tax-payer has probably to pay more for relief to the poor, the destitute and unemployed in England than under the Indian system of feeding the poor voluntarily.
 
-( Cn. XXI 
+[^1804]:
+    ऊर्जं दुष्टिं प्रजाः पशूनिष्टापूर्तमिति यद् गृहाणामश्नाति यः पूर्वोऽतिथेरश्नाति । आप. ध. सू. II. 3. 7. 3.
 
-by a brahmana householder along with his servants and thereby he should show his kindliness. Ap. Dh. 8. II. 4. 9.5 requires the householder to give food to all who come at the end of the Vaiśvadeva, even including cāndalas, but it mentions the view of some that one need not give food to unworthy persons (vide note 1779 above). Commentators like Haradatta explain that. in the case of worthy guests, if the householder does not give food, though able, he incurs sin; but in the case of unworthy people he incurs no blemish by not giving, but if he gives to them also, he secures merit. Viddha-Gautama (pp. 535-536) calls upon.& householder to treat even a cāndala with consi deration. Parisara (I. 40 ) and Satataps went so far"707 as to say that even if a householder hates & visitor or the latter is & fool, the householder should give him food if he arrives at the time of meals. Sāntiparva 146. 5 says that even an enemy when he comes to one's house as a guest must be hospitably treated, as & tree does not remove its shade from one who approaches it to fell it. But Āp. Dh. S. II. 3. 6. 19, Manu IV. 213, Yāj. I. 162 are opposed to this and state that a guest who is at enmity with the host shall not eat his food, nor shall he eat the food of a host who accuses him or suspects him of a orime. Vpddha-Harita (8. 239-240 ) states the humane rule 'if & traveller is a sūdra or belongs to a pratiloma caste (such as & cāṇdāls) and comes to one's house tired and hungry, the householder should give bim food; but if a beretio or & patita (one outcast for grave sins) comes in that condition, one should not give him cooked food, but only grain. Compare Manu IV. 30. Viddha Gautama ( chap. 6, p. 535 and chap. 12, p. 590, Jivānanda part 2) says the same about a candāla or svapāka being given cooked food, Baud. gr. II. 9. 21 enjoins welcome to all travellers including capdālas. 
+[^1805]:
+    ये नित्यभक्तिकास्तेषामनुपरोधेन संविभागो विहितः । आप. ध. II. 4. 9. 10, Baud. Dh. S. II. 3. 19 (practically the same).
 
-The guest is to be shown honour by going out to meet him by offering him water to wash his feet, by giving him a seat, by lighting a lamp before him, by giving food and lodging, by personal attendance on him, by offering him & bed and by accompanying him some distance when he departe. Vide Gaut. V. 29-34, 37, Ap. Dh. 8. II. 3. 6. 7-15, Manu III. 99, 107 and IV. 29, Daks8 III. 5-8. Vanaparva 200. 22-25 and Anudāsana 2 highly extol hospitality. Anuśāsana 7. 6 says the host 
+[^1806]:
+    अन्ने प्रतिष्ठितानि भूतानि अन्नं प्राणमिति श्रुतिः । तस्मादन्नं प्रदातव्यमन्नं हि परमं हविः । न वेद कदाचिद्वैश्वानरमुपासीत । अथाप्यत्रामगीतौ श्लोकावुदाहरन्ति । यो मामन्नमदत्त्वा पितृदेवताभ्यो भृत्यातिथिभ्यश्च सुहृज्जनस्य । संप्राप्नुयान्निष्फलमाशया ...[[??]] मोहात्समायां तस्य च दुष्कृतस्य । बौ. ध. सू. II. 3. 68, 21-22. 'अन्नं प्राणः' occurs in ऐ. ब्रा. 83. 1 and 'अन्नं प्राणमन्नपानमाहुः' in तै. ब्रा. II. 8. 8.
 
-1797. मिपो वा पदिवा देष्यो मूर्खः पण्डित एक था। वैम्पदेवेत संमाता सोतिथि: KUTHIRAI \#TATT I. 40, sang quoted in play. I. p. 217 (reads at T of ear rettet: &.). 
+Āp. Dh. S. (II. 4. 9. 2-4) says[^1807] that when the guest departs, the host should accompany him to the place where his conveyance is drawn up and if he has no conveyance, then till the guest gives him leave to go or if the guest forgets to give leave, the host should turn back from the boundary. Vas. Dh. S. XI. 15 and Yāj. I. 113 speak also of accompanying the guest till the boundary, and Aparārka explains that the boundary may be that of the host's house site, or of his field or of the village according to the eminence of the guest. Śaṅkha-Likhita[^1808] prescribe that the host should accompany the guest till he reaches a public garden or public hall, a prapā (place where water is distributed gratis), a tank, a temple, a sacred (or big) tree (like the fig tree) or a river and then should go round the guest and say the words 'farewell till we see each other again.' It is in accordance with this that in the fourth Act of the Śākuntala Kāṇva's pupil reminds his teacher that one should accompany one's dear relative up to some reservoir of water.
 
-Oh. XXI) 
+[^1807]:
+    यानमभ्याशमायातम् । यावद्वाहनजानीयादितरः । अपरतिभायां सीम्नो निवर्तेत आप. ध. सू. II. 4. 9. 2-4.
 
-Manusya-yajra ( honouring guests ) 
-
-753 
-
-should give his eye, mind and agreeable speech to the guest, he should personally attend on him and should accompany him when he (the guest ) departs; this sacrifice demands these five fees'. 1798 Ap. Dh. S. (II. 2. 4. 16-21) says that if a brāhmana that has not studied the Veda or & kṣatriya or & vaiśys comes as a guest to & brāhmana, the latter should offer him & seat, water and food, but need not rise to receive him, that if a śūdra comes as a guest to a brāhmana, the latter should ask him to do some work, then give him food, but if he has none, he should send his slaves to bring it from the royal palace (or store-house ). "790 Haradatta makes the interesting remark that for honouring sūdra visitors the king should set apart in each village some paddy or other corn. Gaut. V. 33, Manu III. 101 ( = Vanaparva II. 54 and Udyoga 36. 34), Ap. Dh, S. II. 2. 4. 13-14, Yāj. I. 107, Baud. gr. II. 9. 21-23 say that 1800 if a man has not the means to give food to all visitors he should at least offer them water, room and grass to lie down upon, and agreeable speech. If the householder is absent, his wife is to look after honouring guests. Gaut. (V. 37-38 ) says that guests of the brāhmana, ksatriya and vaiśya oastes should be respectively greeted with the words kuśala, anāmaya and ārogya and the sūdra also with arogya. Vide Manu II. 127 also and note 831 above. 
-
-The motive of this injunction to honour guests was olear, viz, universal kindliness, Other motives were added by smrtis in order to emphasize the observance of this duty. The San. gr. II. 17. 1 says "Even if a man constantly gathers grass (i. e. maintains himself by collecting the grains that fall in a field when the crop is taken away) and performs agnihotra, a brāh maṇa guest who stays in his house without receiving the honour (due as a guest ) takes away the (merit) of all his good 
-
-1798. चक्षुर्वद्यान्मनो दद्याद वाचं दद्याच सुचताम् । अनुनजेनुपासीत स यज्ञा पत्र remon* BETH* 7.6. 
-
-1799. M ATUTUTUCHAWA@ asi negresa i ti चाखमम्यागतं कर्मणि नियुज्यात् । अधास्मै दद्यात् । वासा वा राजकुलादास्यातिथि et qurag: \# afry. y. & II. 2. 4. 16-21; ster & T4 Troraftutat catre Partea IMT VÀ VIÀ Furaha I Tre On T. . II. 2. 4. 21. 
-
-1800. HTTS FRATTUT 2977rami wa TPAT Tar e groft erfittata \# TTT Refresher arriti sirg. . & II. 2. 4. 13-14; 4. T. II. 9. 22-23 starter fra misura ....... raritat तानेतान पर बोरयाचक्षसे। 
-
-2. D. 96 
-
-154 
-
-
-
-Ch. XXI 
-
-works”. 180? Manu III. 100 says the same. Ap. Dh. S. II. 3. 6.6 says that by honouring guests one secures heaven and freedom from misfortune, 1808 Vide also Āp. Dh. 8. II. 3.7. 16. One verse quoted in numerous works like the Viṣṇu Dh. 8. 67, 33, śāntiparva 191. 12, Viṣṇupurāṇa III. 9. 15, Mārkandeya 29. 31, Brahmapurāṇa 114. 36 is 'when a guest returns from the house of a person with his bope of getting food shattered, he (the guest) transfers his own sins to the householder and departs taking with him the householder's merit (puṇya)'. The Vayupurāṇa (71.74) and Br̥hat-Parāśara (Jivānanda, part 2, p. 99) say that yogins and siddhas (those who have attained transcendant powers) wander over this earth in various forms for the benefit of men; therefore one should with folded hands welcome a guest. If one is not able to feed many guests, then Baud. Dh. 8. (II. 3. 15-18) declares that one should feed him who is endowed with superior qualities or who is the first to arrive or who is a śrotriya. 
-
-Parasara (I. 46-47) says that the brahmacarin and the ascetio are the masters of food (i. e. their claim is the first); if one eats without giving to these one should perform the penance of cāndrāyaṇa. When a yati comes as a guest, one should give water in his hand, then food and then again water. The food becomes as big as Meru (mountain) and the water as the sea. Laghu-Viṣṇu (II. 12-14) highly eulogises a yogin as & guest and Daksa VII. 42-44 and Vṭddha-Harita 8. 89 Bay that if a yati stays as a guest in a householder's house for & single night, the latter's accumulated sins are destroyed and when a yati takes food at & man's house it is Viṣṇu himself who is fed. 1803 
-
-If after some guests have been fed another guest or a batch of guests arrives, then the householder should have food cooked 
-
-1801. तृणान्पप्युञ्छतो नित्यमग्निहोत्रं च अतः । सर्व एकतमादत्ते प्रामणोनर्षितो THE \# ppi. T. II. 17. 1. 
-
-1802. a garat PaTi farof T 19179. y. &. II. 3. 6. 6; vido fuego 
-
-67. 32 also. siaforare PATST rgeurtfarande i FTAT OVQATETO गच्छति। मार्कण्डेय 29. 31. सिद्धा हि विमरूपेण चरन्ति पृथिवीमिमानी संस्मादतिधिमाया SEAT Toba TEH ST&Tru 71. 74; piratat far spufferies 
-
-राणाहपकाराप, से चाज्ञातस्वरूपिणः । तस्मादग्यर्चयेरमात भादकातिथि द्विजः। TKKTUM . 99 ( Jivananda, part 2). 
-
-1803. ThereT TO 
-
-T 
-
-TF Fit: Pa rt 8. 89; fed TETEPUH GTCATA TUTTI portrait m et afat: 1 \# VII. 48.. 
-
-Ch. XXII 
-
-Manusya-yajña ( honouring guests ) 
-
-755 
-
-again, but in such a case no fresh vaiévadeva and baliharana are necessary. Vide Manu III. 105 and 108. It has been already shown from the Satapatha that the householder is not to partake of meals before the guests, but rather after the guests. The Āp. Dh. $. II. 3. 7, 3 states 1804 'he who eats before his guest. eats. ( destroys ) food, prosperity, progeny, cattle and merit of his own house'. Manu III. 114 ( = Viṣṇu Dh. S. 67. 39) allows the householder to feed newly married girls (his daughters or sisters ), unmarried girls, persons who are ill, and pregnant women even before guests ; while Gautama V. 23 says that these should be fed at the same time as the guests. Manu III. 113, 116-118, Viṣṇu Dh. S. 67. 38-43, Yāj. 1. 105, 108, Ap. Dh. S. II. 4. 9. 10,1805 Baud. Dh. 8. II. 3. 19 say that one should feed one's friends, relatives and one's servants and then the householder and his wife should dine, that one should not stint one's servants and slaves ( who are to be fed daily with food) in order to be able to feed guests, that he who eats before these ( guests, relatives, young women of the house, servants) will have his soul harassed by vultures after death, that be wbo cooks food for himself only swallows merely sin and that when he eats what remains after offering yajña to gode, beings, pitss and guests, he really eats. Manu III. 285 ( = Vanaparva II. 60) says that *vighasa is what is left after brāhmaṇas and guests have partaken and ampta is what is left after being offered in sacrifice and one should always eat these.' Baud. Dh. S. (II. 3. 68 and 21-22) says 1806 "all beings subsist on food, the Veda declares * food is life'; therefore food should be given, as food is the highest offering. One should not take food without giving it to others" and quotes two verses said to have been sung by food itself. It is on account of these sentiments that are ingrained even to-day in the minds of all Hindus that no Poor Law and no work-houses were required in India. This senti ment undoubtedly leads to abuses, but what system is not 
-
-1804. 5 gre ut faudra TEUTATE : gafsfaùrsaria I 174. 4. &. II. 3. 7. 3. 
-
-1805. for HT TAY T rit rarea: 1 3T9. 9. II. 4. 9. 10, Baud. Dh. S. 11. 3. 19 ( practically the same ). 
-
-1806. अने श्रितानि भूतानि असं प्राणमिति श्रुतिः । तस्माद प्रदातव्यमहि परम हविः । म स्वेष कदाचिदवत्या भुशीत । अथाप्यत्रामगीतो श्लोकायुदाहरन्ति । यो मामला पितृदेवताम्यो भृत्यातिधीनां च सबजनस्य । संपनमश्नन्विषमाति मोहासमायहं तस्य च 
-
-ETTER I 17. 9. & II. 3. 68, 21-22: 47:' occurs in d. 7. 83. 1 and i FTTAWAGTATE: ' in d. TT. II. 8. 8. 
-
-766 
-
-
-
-
-
-a back from the such veyana 
-
-without abuses? The Poor Law and work-houges have their own abuses and the general tax-payer has probably to pay more for relief to the poor, the destitute and unemployed in England than under the Indian system of feeding the poor voluntarily. 
-
-Ap. Dh. 8. (II. 4. 9. 2-4) sayg1807 that when the guest departs, the host should accompany him to the place where his conveyance is drawn up and if he has no conveyance, then till the guest gives him leave to go or if the guest forgets to give leave, the host should turn back from the boundary. Vas. Dh. 8. XI. 15 and Yāj. I. 113 speak also of accompanying the guest till the boundary, and Aparārka explains that the boundary may be that of the host's house site, or of his field or of the village according to the eminepce of the guest. Saṅkha Likhita 808 prescribe that the host should accompany the guest till he reaches & public garden or public hall, & prapā (place where water is distributed gratis ), a tank, a temple, a sacred (or big) tree (like the fig tree) or ā river and then should go round the guest and say the words 'farewell till we see each other again.' It is in accordance with this that in the fourth Act of the Sakuntala Kanva's pupil reminds his teacher that one should accompany one's dear relative up to some reservoir of water. 
-
-1807. HITTATTE I TOWEstrana 1 Baharat at forumet ST. V. . II. 4. 9. 2-4. 
-
-___1808. समरेप न्यायतो निवर्तेत । आरामसभामपातबागदेवगृहमहामनदीनामन्यतर PFATTET Ferrara gir a gorpurra fai stipforo quoted in T. c. p. 292. 
+[^1808]:
+    समेत्य न्यायतो निवर्तेत । आरामसभाप्रपातडागदेवगृहमहातरुनदीनामन्यतरसीम्नि ...[[??]] शाङ्खलिखित quoted in स्मृ. च. p. 292.

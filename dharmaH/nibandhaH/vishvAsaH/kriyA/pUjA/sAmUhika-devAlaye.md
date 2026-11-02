@@ -16,6 +16,16 @@ unicode_script = "devanagari"
 - आन्तरिक-शुद्धिः च व्यवहारेष्व् आत्म-विश्वासः भूयात्।
 - प्रदक्षिणा, देवस्थान-पर्यटनं।
 - दिव्य-दर्शन-समये षोडश-उपचारेषु यथा-उचितं भागः वोढव्यः।
+- उत्तरीयं कटौ बद्ध्वैव प्रवेष्टव्यम्। (तथैव शास्त्रम्)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+श्रीरङ्गादौ मया पुरा कृता दोषाः, येन तर्जितः - 
+
+- उत्तरीयं कटौ बद्ध्वैव प्रवेष्टव्यम्। (तथैव शास्त्रम्)
+- गरुडाय नमस् कुर्वता पादौ भगवन्तं प्रति न प्रसारणीयौ। एवं गरुडस्तम्भात् परं न साष्टाङ्ग-नमस्कार इति। 
+- तादृशेषु दीयमानः प्रसादो यदि स्वीक्रियते, यथा लालामलिनो न स्याद् +हस्तः, तथा मुखे कवलानि क्षेप्तव्यानि। क्वचित् तु प्रसादं गृहीत्वाऽन्यत्र गत्वा खादनम् एव वरम्। 
+</details>
 
 ## अर्चक-प्रयोजनम्
 
@@ -45,5 +55,5 @@ unicode_script = "devanagari"
 - वार्षिकस्य अर्चनस्य व्यवस्था
 
 ## Photography
-Agama-s are all about peaks of devotional experience. Photo taking is generally about posing (IRL and online) and detracting from the former - taking away focus from the deva to self-consciousness. Generally yuck.
+Agama-s are all about peaks of devotional experience. Mutual/ self photo taking is generally about posing (IRL and online) and detracting from the former - taking away focus from the deva to self-consciousness. Generally yuck.
 

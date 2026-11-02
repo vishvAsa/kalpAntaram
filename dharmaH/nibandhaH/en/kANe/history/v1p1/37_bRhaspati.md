@@ -76,17 +76,17 @@ husband.[^539] Br. says 'those who say that clothes and the like are not liable 
 
 These considerations make it clear that Bṛhaspati is [[cer tainly|certainly]] later than Manu and Yāj. It is difficult to state his exact relationship to Nārada. He agrees more closely with Manu than Nārada does, but in some respects such as [[defini tions|definitions]] and the rights of women he shows great advance over Nārada. So he is probably a contemporary of or not much later than Nārada. He employs the word nāṇaka.[^540] He [[de fines|defines]] a dīnāra, also called "suvarṇa", as equal to twelve dhānakas and says that a [[Jhānaka|dhānaka]] was equal to four aṇḍikās, an aṇḍikā being a copper paṇa weighing a karṣa and bearing a stamp.[^541] This agrees with what Nārada says about dīnāra. Dr. Jolly ( S. B. E. vol. 33 p. 276 ) assigns Bṛhaspati to the 6th or 7th century A. D. But this is much later by several centuries than the evidence warrants. Kātyāyana was looked upon as an authoritative writer along with Nārada and [[Brhas pati|Bṛhaspati]] by Viśvarūpa and Medhātithi. This position he could not have attained in a century or two. So he cannot be [[plac ed|placed]] later than the 6th century. Kātyāyana in several places quotes Bṛhaspati as an authority. Aparārka quotes [[Kātya yana|Kātyāyana]] as saying that, according to [[Bșhaspati|Bṛhaspati]], pastures, ways, 
 
-[^539]: [[ST wastaa alatt a HTS: ISTRITTE ETT Hryf guargaan.|आम्नाये स्मृतितन्त्रे च लोकाचारे च सूरिभिः । शरीरार्धं स्मृता भार्या पुण्यापुण्य-]] 
+[^539]: आम्नाये स्मृतितन्त्रे च लोकाचारे च सूरिभिः । शरीरार्धं स्मृता भार्या पुण्यापुण्य-फले समा ॥ यस्य नोपरता भार्या देहार्धं तस्य जीवति । जीवत्यर्धशरीरेर्थे कथमन्यः समाप्नुयात् ॥ सकुल्यैर्विषमानैस्तु पितृभ्रातृसनाभिभिः । असुतस्य प्रभीतस्य पत्नी तद्रागहारिणी ॥ बृहस्पति quoted by अपरार्क on याज्ञ. II. 135. The Mit. has the last verse.
 
 फले समा ॥ यस्य नोपरता भार्या [[देहाधं|देहार्धं]] तस्य जीवति । [[जीवत्यर्धशरीरेथे|जीवत्यर्धशरीरेर्थे]] कथमन्यः समाप्नुयात् ॥ सकुल्यैर्विद्यमानस्तु पितृभ्रातृसनाभिभिः । असुतस्य [[CATER T TATTETRUTT Il leta|प्रमीतस्य पत्नी तद्भागहारिणी ॥ बृहस्पति]] quoted by [[34727*|अपरार्क]] on [[77.|याज्ञ.]] 
 
 II. 135. The Mit. has the last verse.
 
-[^540]: [[paquet: sistafurahia: 1 39987* on 1779. II. 269; fat. c.|कुलीनदक्षानलसैः प्राज्ञैर्णाणकवेदिभिः । अपरार्क on याज्ञ. II. 259 ; वि. र.]] 
+[^540]: कुलीनदक्षानलसैः प्राज्ञैर्णाणकवेदिभिः । अपरार्क on याज्ञ. II. 259; वि. र. p. 711 and वीर° p. 383.
 
 p. 711 and [[at|वीर०]] p. 383.
 
-[^541]: Vide note 522 above. [[At gay raga: wifeft: qur: 1|ताम्रकर्षकृता मुद्रा विज्ञेयः कार्षिकः पणः । स एव]] 
+[^541]: Vide note 522 above. ताम्रकर्षकृता मुद्रा विज्ञेयः कार्षिकः पणः । स एव चाण्डिका भोक्ता ...[[??]] धानका ॥ ता द्वादश सुवर्णस्तु दीनाराख्यः स एव तु । बृह° quoted in स्मृतिच° p. 99, वि. र. p. 667. कात्यायन is quoted on same page by the स्मृतिच° for a similar definition.
 
 चाण्डिका प्रोक्ता ताश्चतस्रस्तु [[धानका|धानकाः]] ॥ ता द्वादश सुवर्णस्तु दीनाराख्यः स पर
 
@@ -96,9 +96,9 @@ p. 711 and [[at|वीर०]] p. 383.
 
 clothes that are worn on the body, debts, ( or books for use, according to others ) and what is set apart for religious [[pur poses|purposes]] should not be partitioned.[^542] Kātyāyana says that, according to Bṛhaspati, that wealth which a man acquires by means of his learning after refuting an opponent in a contest with a stake for the winner is styled "vidyādhana" and is not liable to partition[^543] ; and what is acquired through valour &c. by persons that were taught in the family or learnt under their father should be partitioned among the brothers, [[accord ing|according]] to Bṛhaspati. If a man falsely denies his liability and if only a part of the claim is brought home to him, then he should be made to pay the whole.[^544] That the statement of a witness may be relied upon on a matter under his direct [[per ception|perception]] owing to his being near the plaintiff and the defendant and not otherwise ; so says [[Bphaspati|Bṛhaspati]].[^545] The foregoing [[exa mples|examples]] show that Kātyāyana looked upon Bṛhaspati as an authority who must therefore have flourished several [[centu ries|centuries]] before. Therefore [[Bșhaspati|Bṛhaspati]] cannot be placed later than the 4th century A. D. As he knew the extant Manusmṛti, was later than Yāj. and probably than [[Nūrada|Nārada]], [[Bphaspati|Bṛhaspati]] must have flourished between 200 and 400 A. D. This conclusion is strengthened by the fact that Viśvarūpa quotes, without making any difference, prose and verse passages of [[Bșhaspati|Bṛhaspati]] and thereby shows that in his opinion the jurist Bṛhaspati ( in verse ) was identical with the political writer [[Bșhaspati|Bṛhaspati]] and was a very ancient writer in his day. Medhātithi ( on Manu 9. 153 ) quotes the verse " na pratigrahabhūr" ([[ascrib ed|ascribed]] to Bṛhaspati by others ) as Smṛtyantara. Bṛhaspati is 
 
-[^542]: गोप्रचारश्च रथ्या च वस्त्रं यच्चाङ्गयोजितम् । प्रयोज्यं न विभज्येत धर्मार्थं च [[garra: sā. I. p. 505 and 37777\# on 13. 11. 119|बृहस्पतिः ॥ वि. र. p. 505 and अपरार्क on याज्ञ. II. 119]] and Kalpataru on [[Vyavabāra|Vyavahāra]] p. 680.
+[^542]: गोप्रचारश्च रथ्या च वस्त्रं यच्चाङ्गयोजितम् । प्रयोज्यं न विभज्येत धर्मार्थं च बृहस्पतिः ॥ वि. र. p. 505 and अपरार्क on याज्ञ. II. 119 and Kalpataru on Vyavahāra p. 680.
 
-[^543]: परं निरस्य यल्लब्धं विद्यातो [[यूतपूर्वकम्|द्यूतपूर्वकम्]] । विद्याधनं तु तद्विद्यान्न विभाज्यं बृहस्पतिः ॥ quoted by [[अपराक|अपरार्क]] on या. II. 119 ; परा. मा. III. 2. p. 559 ; in Kalpataru ( [[Vyavao|Vyava°]] ) p. 677 ‘कुले विनीतविद्यानां भ्रातृणां पितृतोऽपि वा । शौर्यप्राप्तं तु यद्वित्तं’ विभाज्यं [[तबृहस्पीतः|तद्बृहस्पतिः]] ॥ ( कल्पतरु° p. 681 ).
+[^543]: परं निरस्य यल्लब्धं विद्यातो द्यूतपूर्वकम् । विद्याधनं तु तद्विद्यान्न विभाज्यं बृहस्पतिः ॥ quoted by अपरार्क on या. II. 119 ; परा. मा. III. 2. p. 559 ; in Kalpataru ( Vyava° ) p. 677 ‘कुले विनीतविद्यानां भ्रातृणां पितृतोऽपि वा । शौर्यप्राप्तं तु यद्वित्तं’ विभाज्यं तद्बृहस्पतिः ॥ ( कल्पतरु° p. 681 ).
 
 [^544]: सर्वापलापं यः कृत्वा मिथ्याल्पमपि संवदेत् । सर्वमेव तु दाप्यं स्यादिति युक्तो बृहस्पतिः ॥ व्यवहारमातृका of जीमूत° p. 311.
 
@@ -176,7 +176,7 @@ Aparārka ( on Yāj. II. 151 pp. 761-62 ), Kalpataru ( on Vyavahāra on pp. 450-
 
 The Vyavahāranirṇaya of Varadarāja cites a verse ( on p. 132 ) as [[Bphaspati's|Bṛhaspati's]] in the work called ‘[[Pancādhyāyi'|Pañcādhyāyī’]] and again ( on p. 357 ) simply a verse in ‘[[Pascādhyāyī.'|Pañcādhyāyī.’]] It is possible that [[Pascadhyāyi|Pañcādhyāyī]] is an independent work in which [[Bphaspati|Bṛhaspati]] was quoted or it may be that [[Pañcūdhyāyi|Pañcādhyāyī]] is the name of the work of Bṛhaspati himself.[^555] 
 
-[^555]: The [[faal.|मिता.]] on [[.|या.]] I. 210 states [[that oftar HITELI|‘गोचर्मलक्षणं च बृहस्पतिना दर्शितम् ।]] सप्तहस्तेन दण्डेन त्रिंशद्दण्डं निवर्तनम् । दश तान्येव गोचर्म दत्त्वा स्वर्गे महीयते । इति । ; अपरार्क quotes ( on p. 336 ) from the मत्स्यपुराण [[दण्डर|दण्डः]] सप्तहस्तेन त्रिंशद्दण्डा निवर्तनम् । विभागहीनं गोचर्म मानमाह [[प्रजापिता|प्रजापतिः]] ॥ 
+[^555]: The मिता. on या. I. 210 states ‘गोचर्मलक्षणं च बृहस्पतिना दर्शितम् । सप्तहस्तेन दण्डेन त्रिंशद्दण्डं निवर्तनम् । दश तान्येव गोचर्म दत्त्वा स्वर्गे महीयते । इति । ; अपरार्क quotes ( on p. 336 ) from the मत्स्यपुराण दण्डः सप्तहस्तेन त्रिंशद्दण्डा निवर्तनम् । विभागहीनं गोचर्म मानमाह प्रजापतिः ॥
 
 
 [[P493]] 

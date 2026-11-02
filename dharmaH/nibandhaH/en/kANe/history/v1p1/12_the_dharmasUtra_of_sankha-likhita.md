@@ -29,7 +29,7 @@ All these circumstances lead to the conclusion that the dharmasūtra of Śaṅkh
 
 [^132]: तन्त्रवार्तिक, p. 139 ‘[[स्मार्तधर्माधिकारेहि|स्मार्तधर्माधिकारे हि]] शङ्खलिखिताभ्यामुक्तम्- आश्रयः स्मृतिधारकः’.
 
-[^132a]: न शङ्खलिखितां वृत्तिं शक्यमास्थाय जीवितुम् । विशेषतः कुरुश्रेष्ठ प्रजापालनमीप्सया ॥ The word Saṅkha [[menns|means]] also ‘forehead’ and ‘likhita’ means ‘written’. It was believed that Brahmā writes on the forehead of a child (on the sixth day after birth) the child's future; compare the verse: यद्धात्रा निजभाल[[पट्ट्लिखितं|पट्टलिखितं]] स्तोकं महद्वा धनं तत्प्राप्नोति [[मरुस्थलेSपि|मरुस्थलेऽपि]] नितरां मेरौ ततो नाधिकम्।' ‘[[Saṅkbalikhitavṛtti|Śaṅkhalikhitavṛtti]]’ would mean the conduct of the two brothers viz. extreme devotion to the rules of honesty and the like. The verse has also another meaning and asks the king not to rely on [[dares|*daiva*]] if he desires to protect the subjects.
+[^132a]: न शङ्खलिखितां वृत्तिं शक्यमास्थाय जीवितुम् । विशेषतः कुरुश्रेष्ठ प्रजापालनमीप्सया ॥ The word Saṅkha means also ‘forehead’ and ‘likhita’ means ‘written’. It was believed that Brahmā writes on the forehead of a child (on the sixth day after birth) the child's future; compare the verse: यद्धात्रा निजभालपट्टलिखितं स्तोकं महद्वा धनं तत्प्राप्नोति मरुस्थलेऽपि नितरां मेरौ ततो नाधिकम्।' ‘Śaṅkhalikhitavṛtti’ would mean the conduct of the two brothers viz. extreme devotion to the rules of honesty and the like. The verse has also another meaning and asks the king not to rely on *daiva* if he desires to protect the subjects.
 
 [^133]: समीक्ष्य निपुणं धर्ममृषिभ्यो मनुभाषितम् । आम्नायात्सम्यगुद्धृत्य शङ्खश्च लिखितस्तथा ॥ 
 

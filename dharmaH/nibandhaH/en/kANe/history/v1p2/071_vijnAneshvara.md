@@ -59,7 +59,7 @@ The author of the Mit was a profound student of the Pūrvamīmāṁsā system. T
 A remarkable merit of the Mitākṣarā is that it relies on the Mīmāṁsā sūtras and maxims for solving difficult and doubtful points in the Dharmaśāstras. A few examples may
 
 [^823]:
-    नागेश्वरस्य भवनाद्विलोक्य कल्याणकल्पं पुरे नृपः श्रीमान् । प्रविवेश परं नृपतिः ...[[??]] इति ...[[??]] ।। 4th verse at the end.
+    नासीदस्ति भविष्यति क्षितितले कल्याणकल्पं पुरं नो दृष्टः श्रुत एव वा क्षितिपतिः । श्रीविक्रमार्कोपमः । विज्ञानेश्वरपण्डितो न भजते किं चान्यदन्योपमश्चाकल्पं स्थिरमस्तु कल्पलतिकाकल्पं तदेतद्भवत् ॥ 4th verse at the end.
 
 [[P604]]
 
@@ -74,7 +74,7 @@ frequently employed in Dharmaśāstra works. Vide H. of Dh. Vol. V. p. 1344 for 
 One of the well-known maxims of the Pūrvamīmāṁsā is called ‘Sarvāśākhā-pratyayanyāya’ or ‘śākhāntarādhikaraṇa-nyāya’ (Pūrvamīmāṁsā-sūtra II. 4.8-33). This means that all the *śākhās* (branches) of the Veda and the Brāhmaṇa works attached to the Vedic recensions form one *corpus*, such that rites as Agnistoma or Jyotiṣṭoma are one and the same, though the details may vary here and there in the Vedic works. The Vedāntasūtra (III. 3. 1-4) accepts the same position about the Upaniṣads as regards Upāsanās. This maxim was extended to Smṛtis also by such writers as Viśvarūpa, Medhātithi, Vijñāneśvara and Aparārka. The result was that an option was given where Smṛti passages were in conflict, otherwise all details in the several works were to be added up. The Mit. on Yāj. III. 325[^824] states this, as also on other occasions (e. g. on Yāj. I. 4-5). Vide pp. 1272-74 of Vol. V of H. of Dh. for explanation and references.
 
 [^824]:
-    एवमनेकविधिः विरोधिप्रतिपादिकाः श्रुतयः आग्रह्याण्याः, अतिरिक्तसमुच्चयः । शास्त्रान्तरविरोधस्यापि संभवे सत्यपि प्रयत्नविरोधः । मिता. on या. III. 325.
+    एवमनेकेष्वपि विरोधिपदार्थेषु निकल्प आश्रयणीयः, अविरोधिषु समुच्चयः । शाखान्तराधिकरणन्यायेन सर्वस्मृतिप्रत्ययत्वात्मनेः । मिता. on या. III. 325.
 
 [[P606]]
 
@@ -95,7 +95,7 @@ As the Mitākṣarā names Viśvarūpa, Medhātithi and Dhāreśvara, it must ha
 King Vikramāditya VI of the Cālukya dynasty with his capital at Kalyāṇa (or -ṇi) ruled for about fifty years, from about 1076 A. D. to 1126 A. D.[^826] Fleet pointed out on p. 446 of Bombay Gazetteer (vol. I, part 2) that the Vaḍageri Inscription proves that the coronation of Vikramāditya VI took place sometime before the 5th of the bright half of Phālguna in the year Nala, *śaka*, 998 i. e. before the end of Śaka 999 (current 1076-77 A. D.), and that the Cālukya Vikrama era started very probably from Caitra-śuddha 1 of
 
 [^825]:
-    यत्तु बृहस्पतेर्देवानां समयं विमर्श(?) ...[[??]] स्थेयः । एतदपि वाचस्पतेः ...[[??]] नैव दुहितरमित्यादि ग्रन्थे ...[[??]] ‘ न च दायहारे यदृच्छया संभाव्येत ...[[??]] ’ ...[[??]] दायादानां ...[[??]] निर्णयः मिताक्षरायाम् ...[[??]] प्रवृत्तः । मिता. II. 267 ; ‘ पिता सप्तम्यां ...[[??]] पुत्रेण ...[[??]] न च ...[[??]] साप्तम्यां ...[[??]]’ मिताक्षरायाम् ...[[??]] । मिता. II. 297.
+    यत्तुनर्विज्ञानेश्वरेणोक्तं समयमं विषमो विभागः ... श्रेयः । एतदपि वाचस्पतेरैतदुदारविषमविभागादौ लोकविरुद्धोपि प्रत्युत विद्यागुणपुण्यकर्मसंपन्नस्यैवाधिक्ये भागाधिक्ये लोकानुरागो दृश्यत इति यत्किञ्चिदेतत् । स्मृतिच० II. p. 266 ; ‘न च दायशब्देन यद्धनं स्वामिसम्बन्धादेव ... तदुच्यत इति दायादिशब्दनिष्पणार्थ मिताक्षरायामुक्तं युक्तम्’ स्मृतिच. II. p. 267 ; ‘पिता सप्तमीपुत्रेष्वपि साधारणो माता तु न साधारणीति प्रयासरतियशोस्ति विप्रलम्भसदृशमिदं न हि जननीजनकयोर्गन्यं प्रति संनिकर्षतारतम्यमस्ति ।’ स्मृतिच० II. p. 297.
 
 [^826]:
     Vide Bombay Gazetteer vol. I part 2 pp. 446-47 & 455.
@@ -107,9 +107,9 @@ King Vikramāditya VI of the Cālukya dynasty with his capital at Kalyāṇa (or
 the year Nala, *śaka* 998 (expired), corresponding to 8th March 1076 A. D. As regards the date of his death it may be observed that the Chikkavaḍavāṭṭi Inscription (South Indian Inscriptions, Vol. XI part 2 No. 178 pp. 236-239) belongs to his reign and cites Cālukya Vikrama year 51, Pārthābhava(?), Māgha, Śukla 5, Wednesday, corresponding to 19th January 1127 A. D. Since his son and successor Someśvara III is known to have counted Pārthābhava as his first regnal year (Bom. Gaz. Vol. I part II p. 455) the death of the father Vikramāditya VI and the accession of the son seem to have taken place between 19th January and March 14 (end of Phālguna) in 1127 A. D. This indicates that Vikramāditya passed away sometime between 20th January and 1st March of 1127. Therefore, it would be accurate enough to hold that Vikramāditya VI ruled from 1076 A. D. to 1126 A. D. The 4th verse[^827] at the end of the Mitākṣarā may be translated thus: ‘On the earth, there never was, nor is, nor will hereafter exist a capital similar to Kalyāṇa; a king like Vikramārka was not seen or even heard; and moreover another matter is that the Pandit (called) Vijñāneśvara has no one else for comparison with him; may this triad that is like Kalpalatikā (the fabulous desire-yielding plant) firmly endure till the end of the world’. In verse 6 at the end Vijñāneśvara prays ‘May king Vikramāditya, whose feet are refulgent with the brilliance of the diadems on the heads of kings bowing down from the eastern ocean, protect as long as the moon and stars last the whole world from the Setu of Rāma (in the South), from the
 
 [^827]:
-    नात्रास्ति भविष्यति क्षितितले कल्याणकल्पं पुरं नो दृष्टः श्रुत एव वा क्षितितले श्रीविक्रमार्कोपमः । विज्ञानेश्वरपण्डितो न भजते किं चान्यदन्योपमश्चाकल्पं ...[[??]] ॥ The third quarter is defective as printed. There are various readings ; one is किं चान्यदन्योपमो मार्कण्डेय &c. The translation follows this. Another reading is ‘ विज्ञानेश्वरपण्डितो न भजते को वा मनोरञ्जक ...[[??]] (cited in the com. of Mitramiśra pub. in Chowkhamba Series).
+    नासीदस्ति भविष्यति क्षितितले कल्याणकल्पं पुरं नो दृष्टः श्रुत एव वा क्षितिपतिः । श्रीविक्रमार्कोपमः । विज्ञानेश्वरपण्डितो न भजते किं चान्यदन्योपमश्चाकल्पं स्थिरमस्तु कल्पलतिकाकल्पं तदेतद्भवत् ॥ The third quarter is defective as printed. There are various readings ; one is किं चान्यदन्योपमा-कार्कं &c. The translation follows this. Another reading is ‘विज्ञानेश्वरपण्डितो न भजते को वा मनीषी तुलाम् (cited in the com. of Mitramiśra pub. in Chowkhamba Series).
 
-    In the above verse the word कल्प means pralaya in ‘ākalpam’, in line 1 and it also means in ‘Kalpalatikākalpam’ ‘a little less than’ or ‘almost like’ acc. to Pāṇini V. 3. 67 ‘īṣad-asmāyām ...[[??]]’ and Bhaṭṭoji instances ‘ईषद् ...[[??]]’; The prayer is : may all these three yield all that people desire to secure from them for all time.
+    In the above verse the word कल्प means pralaya in ‘ākalpam’, in line 4 and it also means in ‘Kalpalatikākalpam’ ‘a little less than’ or ‘almost like’ acc. to Pāṇini V. 3. 67 ‘ईषदसमातौ कल्पब्देश्ये देशीयुरः’ and Bhaṭṭoji instances ‘ईषदूनो विद्वान् विद्वत्कल्पः’. The prayer is : may all these three yield all that people desire to secure from them for all time.
 
 [[P609]]
 
@@ -157,20 +157,22 @@ Out of the numerous commentaries on the Mit. those of Viśveśvara, Nandapaṇ�
 Aufrecht in his great catalogue makes conflicting statements about a work called Āśaucadaśaka. On I. p. 55 he notes that Āśaucadaśaka is a work of Harihara with a commentary by Vijñāneśvara and again on I. p. 571 he ascribes Āśaucadaśaka-ṭīkā to Vijñāneśvara. On I. p. 762 he ascribes the Āśaucadaśaka and Daśaślokīvarana to Harihara and appears to distinguish him from that Harihara who composed a bhāṣya on Pāras karagṛhyasūtra. On I. p. 795 he corrects himself by saying that Harihara wrote only the commentary on the Āśaucadaśaka and that the latter is identical with the Daśaślokīvarana. On III. p. 121 he is doubtful whether the Āśaucadaśaka is a work of Vijñāneśvara. In the Govt. Mss. library at the B. O. R. I., Poona, there is an ancient Ms. (No. 196 of 1884-1887) of the Āśaucadaśaka.[^829] It was copied in *saṁvat*
 
 [^829]:
-    The Ms. begins : अथ विज्ञानेश्वरविरचितमुलिकबन्धरूपितमाचार्यम् । आचार्यकृत्यं ...[[??]] हरिहरो ...[[??]] नव ।। अत्र ...[[??]] ।। The colophon at the end is : इलाशौचदशकाख्यं ...[[??]] हरिहर विरचितं समाप्तः ।
+    The Ms. begins : अथ विज्ञानेश्वरविरचितमुनिजनवाक्यार्थिनिकाषरामयाम् । आशौचदशकयतिं वदति हरिहरो हरिं नत्वा ॥ अत्र तावद्विज्ञानेश्वरयोगीन्द्रस्य ( Continued on the next page )
+
+    तुर्वर्णांशमये जन्मनि सुतौ भवं सूतकं मरणे शवे भवं शावं सूतकशावसिद्धयर्थं वृत्तदशकं शार्दूलविक्रीडितेन चकार नृत्यं वृत्तमाह मातुर्गर्भविपत्सवं &c. The colophon at the end is : इत्याषोचदशकभाष्यं श्रीहरिद(र)विरचितं समाप्तम् ।
 
 [[P614]]
 
 1578 Mārgāśīrṣa (i. e. December 1522 A. D.). It distinctly says that Vijñāneśvarayogin composed in ten Śārdūlavikrīḍita stanzas a work on *āśauca* and that Harihara composed a commentary on it. In the Bhādkamkar collection there is an old Ms. of the Āśaucadaśaka, the colophon of which ascribes the work to Vijñāneśvara. Vide I. O. cat. p. 565, No. 1749 for a ms. of Āśaucadaśaka with Harihara's commentary dated *saṁvat* 1589 (1532-33 A. D.). That the Āśaucadaśaka was a very popular work follows from the several commentaries thereon that are available even now. Raghunātha,[^830] son of Mādhava and nephew of the famous Nārāyaṇabhaṭṭa, composed a commentary on the Daśaślokī in *śake* 1500 (No. 82 of A. 1882-83 in the Govt. Mss. lib. at the B. O. R. I. Poona). There is another commentary on the same work by Bhaṭṭoji (No. 99 of 1882-83 at the B. O. R. I. Poona). Harihara quotes in his *bhāṣya* besides several well-known smṛtikāras, a work called Viśvādarśa (folio 4b).[^831] Harihara, the commentator of the Pāraśkaragṛhyasūtra, is described as the pupil of Vijñāneśvara in several mss. Harihara in his bhāṣya on Pāraśkaragṛhya quotes Vijñāneśvara and Kalpataru. The Viśvādarśa praises Vijñāneśvara very highly.[^832] Therefore, it appears that Vijñāneśvara composed the Āśaucadaśaka alias Daśaślokī and that Harihara, who was either Vijñāneśvara's
 
 [^830]:
-    रघुनाथ criticizes विज्ञानेश्वर ‘ यतु विज्ञानेश्वरेण प्रतिलोमानां द्वादशीचामाव एवं ...[[??]] न तु ...[[??]] । प्रतिलोमा ...[[??]] इति ...[[??]] पाक्षिका ...[[??]]’ folio 19b.
+    रघुनाथ criticizes विज्ञानेश्वर ‘यत्तु विज्ञानेश्वरेण प्रतिलोमानां त्वाशौचाभाव एवेत्युक्तं तद्वचनविरोधादुपेक्षणीयम् । प्रतिलोमा धर्महीना इत्येतत्तु पाकयज्ञादि-भिप्रायम्’ folio 19b.
 
 [^831]:
-    संति विशेषा ...[[??]] द ‘ प्रतिष्ठानां ...[[??]]’ ...[[??]] भवेत् ‘.
+    संति विशेषो विश्वादर्शे ‘प्रतिष्ठानां त्रिरात्रं पितृविग्रहे भवेत्’.
 
 [^832]:
-    यथा वै विज्ञानेश्वरविरचितव्याख्या महतो महाभागैः ...[[??]] । ...[[??]] यथा ...[[??]] । ...[[??]] तत् ...[[??]] । II. 52 ; ...[[??]] । ...[[??]] भारत्या ...[[??]] यथा ...[[??]] ।। It ms. of विश्वादर्श ( in Bhādkamkar collection ).
+    यथा वै विज्ञानेश्वरविरचिते व्याख्यायां महतो महाभर्तुः कीर्तिः स्फुरति जगति यथा पुण्यकृदिति । यथा (तथा ?) श्रीमन्नागार्जुनं तनुज-धन्यप्रतिगृहे स्फुरद्विश्वादर्शे स्फुरतु तव कीर्तिः सुकृतिनः ॥ IV. 52 ; श्रीरामस्य युधिष्ठिरस्य च यथा रामायणे भारते कीर्तिर्भाति यथा च मुञ्जनृपतेः सा कारिका भूषणम् । श्रीमद्धन्यमिताक्षरादिषु यथा श्रीवृद्धभर्तुस्तथा विश्वादर्शनिबन्धने तव शुभश्लोका जयन्त्युज्ज्वलाः ॥ ms. of विश्वादर्श (in Bhadkamkar collection).
 
 [[P615]]
 
@@ -181,20 +183,20 @@ Aufrecht (II. p. 50 and I. p. 236) credits Vijñāneśvara with a *bhāṣya* on
 In the Madras Govt. mss. library there is a ms. of the Vyavahāraśiromaṇi of Nārāyaṇa, who says that he learnt dharmaśāstras under Vijñāneśvara (*adhītya dharmaśāstrāṇi Vijñāneśvara-sadguroḥ*). The work deals with the *vyavahāra* portion and was composed for the benefit of the un-initiated (*balabodhartham*). The ms. contains the portion dealing with the king's duty to look into the disputes of people, the
 
 [^833]:
-    मातुर्विमलिप्तस्य(?) दिवस_s मासमयतः यथा मासं विहित सूतकावधि स्थाने पितुः सर्वदा । ज्ञातीनां पतनादि जातमरणे ...[[??]] ।। द्वितीय ...[[??]] प्राक् ...[[??]] ।
+    मातुर्गर्भविपत्सवं त्रिदिवसं मासत्रयेणैव यथा मासाभ्यां त्रिषु सूतकावधिरतः स्नानं पितुः सर्वदा । ज्ञातीनां पतनादि जातमरणे पित्रोर्दशाहं सदा नाम्नः प्राक् तदर्पैति सूतकवशादातुर्दशाहं परम् ॥
 
 [^834]:
-    The colophon is इति विज्ञानेश्वरेण विरचिते ...[[??]] संपूर्णं ।
+    The colophon is इति विज्ञानेश्वरकृते त्रिंशच्छ्लोकीयभाष्यं संपूर्णम् ।
 
 [^835]:
-    भट्टे ...[[??]] ‘ ...[[??]] । ...[[??]] इति ...[[??]] ’ 2 ms. of the printed text and 2 b of the ms. The verse referred to is या. III. 18. On verse 14 of the ...[[??]] we have ‘ ...[[??]] ’ p. 9 b of the printed text and 5 a of the ms.
+    त्रिरात्रं दशरात्रं वा ... सूतकं मातुरेव हि ॥ इत्येतद्व्याख्यानसमये विज्ञानेश्वराचार्यैः स्पष्टीकृतम् ॥ p. 3b of the printed text and 2b of the ms. The verse referred to is याज. III. 18. On verse 14 of the त्रिंशच्छ्लोकी we have ‘एतच्च आचार्यैर्व्युपपाद्यायाम् ... न च तैः सह संविशेत् ॥ इत्येतद्व्याख्यानं मिताक्षरायां स्पष्टीकृतम्’ p. 9b of the printed text and 5a of the ms.
 
 [[P616]]
 
 time for doing that, *sabhā*, definition of *prāḍ-vivāka* (judge), the plaint and its defects, *āsedha* (restraint of the defendant), means of proof, the eighteen titles of law, *ṛṇādāna*, *nikṣepa*, *sambhūya-samutthāna*, *dattāpradānika*, *abhyupetya-aśuśrūṣā*, *vetanasya-anapākarma*, *asvāmivikraya*, *vikrīyāsaṁpradāna*, *kṛtānvāśaya*, *samayasya-anapākarma*, *sīmāvivāda*, *strī-puṁ-sayoga*, *dāyavibhāga*. The work breaks off in the middle of the explanation of the verse ‘*patnī duhitaraścaiva*.’ He closely follows the Mitākṣarā in all that he says; but in one place he expressly differs from his teacher, viz. whereas the Mitākṣarā mentions four different times for partition, Nārāyaṇa says that there are really two times of partition, when the father desires partition and when the son or sons desire it.[^836] On *sambhūyasamutthāna* he quotes a passage from Kauṭalya (the ms. uses this form), which agrees closely with the printed text (vide Arthaśāstra III. 14, p. 186, ed. by Shama Sastrī).[^837]
 
 [^836]:
-    अनया चतुर्विधमपि सूतकं ...[[??]] पितुः ...[[??]] । ...[[??]] द्वयोः ...[[??]] संभवति नान्यथा । ...[[??]] न तु ...[[??]] । न च ...[[??]] एक इति ...[[??]] । ...[[??]] पुत्राणामिच्छाभावे विभागस्यैवाभावेन एककालत्वे एवानन्तरकालस्याप्यनन्तरत्वात् ।
+    अनया चतुर्विधमपि सूतकं मिताक्षरायां प्रतिपादितं पितुरिच्छायां पुत्रेच्छायां च विभागः संभवति नान्यथेति कालद्वयमेव विभागस्येति तु युक्तम् । न च पित्रनन्तरकाल एक इति त्रैविध्यमिति वाच्यं पित्रनन्तरकालेपि पुत्राणामिच्छाभावे विभागस्यैवाभावेन उक्तकालद्वय एवानन्तरकालस्यान्तर्भावात् ।
 
 [^837]:
-    अत्र विद्यमानः कोऽन्यः । अप्राप्तो ...[[??]] । ...[[??]] पञ्चम-मंशं लभेत ...[[??]] चतुर्थं ...[[??]] तृतीयमर्धो ...[[??]] पादोनं ...[[??]] ।
+    अत्र विशेषमाह कौटिल्यः । अग्निष्टोमादिषु दीक्षणीयाया ऊर्ध्वं य आवन्नः पञ्चमांशं लभेत सोमविक्रयादूर्ध्वं चतुर्थं प्रयोगोद्वासनादूर्ध्वं तृतीयमग्निष्टोमीयादूर्ध्वं पादोनं माध्यन्दिनादूर्ध्वं समग्रनीतासु दक्षिणासु भवतीति ।

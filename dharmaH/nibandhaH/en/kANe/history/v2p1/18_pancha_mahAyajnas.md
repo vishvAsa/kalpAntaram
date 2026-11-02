@@ -3,192 +3,93 @@ title = "18 Pañca Mahāyajñas"
 
 +++
 
-CHAPTER XVIII 
+[[P696]]
 
-PAÑCA MAHĀYAJÑAS 
+CHAPTER XVIII
 
-Pañca Mahājajñas :-(the five daily great observances or sacrifices). 
+PAÑCA MAHĀYAJÑAS
 
-From early Vedic times five daily observances called mahāyajñas were presoribed. The Sat. Br. (XI. 5. 6. I.) 1864 says 'there are only five mahāyajñas, they are like great sacrificial sessions, viz. the sacrifice to beings, the sacrifice to men, the sacrifice to the Fathers, the sacrifice to the gods, the sacrifice to brahman (Veda)'. These are then briefly defined. In the Tsi. 
+Pañca Mahāyajñas:—(the five daily great observances or sacrifices),
 
-Ar. II. 10 we read these five mahāyajinas indeed are spread out continuously, viz. devayajña, pitryajña, bbūtayajña, manusy& yajña, brahmayajña. That is fulblled as devayajña when one 
+From early Vedic times five daily observances called mahāyajñas were prescribed. The Sat. Br, (XI.5. 6. I.)[^1664] says ‘there are only five mahad[[yajfias|yajñas]], they are like great sacrificial sessions, viz, the sacrifice to beings, the sacrifice to men, the sacrifice to the Fathers, the sacrifice to the gods, the sacrifice to brahman (Veda)’. These are then briefly defined. In the Tai, Ar, II. 10 we read ‘these five [[mahayajfias|mahāyajñas]] indeed are spread out continuously, viz, devayajila, pitr[[yajfia|yajña]], bhiitayajña, manusyayajña, brahma[[yajfia|yajña]], That is fulfilled as devayajña when one makes an offering in fire, even if it be a mere fuel-stick; when one offers svadh& (&raddha repast) to the fathers, even if it be mere water, that becomes pitryajña; when a man offers a bali (a ball of food) to the beings it becomes bhiitayajña, when he gives food to [[brahmana|brāhmaṇa]]s that becomes manusyayajia, When one studies svddhydya even if it be a single or yajus formula or a saman, it becomes brahmayajña’.[^1665] 
 
-makes an offering in fire, even if it be a mere fuel-stick; when one offers svadha (sraddha repast) to the fathers, even if it be mere water, that becomes pitryajña; when & man offers a bali (a ball of food) to the beings it becomes bhutayajna, when he gives food to brāhmaṇas that becomes manuṣyayajña. When one studies svādhyāya even if it be a single ;k or yajus formula or a sūman, it becoines brahmayajña'. 1665 
+The [[Asv.|Aśv.]] gr. (III 1, 1-4) speaks of the five mahāyajñas and defines them in practically the same words as the Tai. Ar. [[IL|II.]] 10 and enjoins that those [[yajfias|yajñas]] must be performed every day. Nārāyaṇa on Aśv. gr. [[IIL|III.]] 1, 2 expressly asserts that the [[P697]] basis of the five [[yajfias|yajñas]] is the Tai. Ar.[^1666] The [[Ap. Dh.|Āp. Dh.]] 8S, (1. 4.12,13-15 and I 4. 13.1) names and explains them simi. larly and states that they are called (in the Tai. Ar, II, 10) * great [[yajfias|yajñas]]' and ‘ great sacrificial sessions’ by way of laudation, The word ‘ yajña’ applied to these five daily duties is figurative and the adjective * great’ is applied only for belauding[^1667] them. Gaut. V.8 and VIII 17, Baud. Dh, S. [[IL|II.]] 6. 1-8, [[Gobbila|Gobhila]][[smrti|smṛti]] IT, 26 and numerous [[smrti|smṛti]] texts speak of the same five yajñas. QGaut. VIII. 17 includes them among sariskdras as stated above (p. 193).
 
-The Asv. gr. (III 1. 1-4) speaks of the five mahayajnas and defines them in practically the same words as the Tai. Ār. IL 10 and enjoins that those yajñas must be performed every. day. Narayara on Asv. gr. III. 1.2 expressly asserts that the 
+[^1664]:
+    पञ्चैव महायज्ञाः । तान्येव महासत्राणि भूतयज्ञो मनुष्ययज्ञः पितृयज्ञो देवयज्ञो ब्रह्मयज्ञ इति । शतपथ ब्रा. XI. 5. 6. 1. These words are quoted by विश्वरूप on पा. I. 101. The शतपथ proceeds to define these ‘अहरहर्भूतेभ्यो बलिं हरेत् । स यद्भूतयज्ञं समाम्नात्यहरहर्देवेभ्यो ददात्येतं मनुष्ययज्ञं समाम्नात्यहरहः स्वधा कुर्यादोदपात्रात्तथैतं पितृयज्ञं समाम्नात्यहरहः स्वाहाकुर्यादाकाष्ठात्तथैतं देवयज्ञं समाम्नाति ॥ अथ ब्रह्मयज्ञः। स्वाध्यायो वै ब्रह्मयज्ञः।।’
 
-1664. पञ्चैव महायज्ञाः । तान्येव महासत्राणि भूतयज्ञो महण्ययज्ञः पितृयज्ञो देवयज्ञो महायज्ञ इति। शतपथ बा.X[. 5. 6. 1. These words are quoted by विश्वरूप on पा. I. 101. The शतपथ proceeds to define these 'अहरहभूतेभ्यो पलिं हरेत् । सय भूपयज्ञ समामोत्यहरहर्दयादोदपात्रासथैतं मनुष्य यज्ञं समामोत्यहरहा स्वधा कुर्यादोदपावास धेत पितृयज्ञसमामोत्यहरहः स्वाहाकुर्यादा काष्ठात्तथैतं देवयज्ञ समामोति ॥ अथ बहायज्ञः। स्वाध्यायो वै ब्रह्मयज्ञ। 
+[^1665]:
+    पञ्च वा एते महायज्ञाः सततं प्रवर्तन्ते सततं संतिष्ठन्ते देवयज्ञः पितृयज्ञो भूतयज्ञो मनुष्ययज्ञो ब्रह्मयज्ञ इति । यदग्नौ जुहोत्यपि समिधं तद्देवयज्ञः संतिष्ठते । यत् पितृभ्यः स्वधा करोत्यप्यपस्तत्पितृयज्ञः संतिष्ठते । यद्भूतेभ्यो बलिं हरति तद्भूतयज्ञः संतिष्ठते । यद्ब्राह्मणेभ्यो ददाति तन्मनुष्ययज्ञः संतिष्ठते । यत्स्वाध्यायमधीयीत कामप्यृचं यजुः साम वा तद्ब्रह्मयज्ञः संतिष्ठते ॥ तै. आ. II. 10.
 
-1666. परवा एते महायज्ञाः सतति प्रतायन्ते सतति सतिष्ठन्ते देवयज्ञः पितृपज्ञो भूतयज्ञो मनुष्ययज्ञो ब्रह्मयज्ञ इति । यदनौ जुहोत्यपि समिधं तदेषज्ञः संतिष्ठते । यत् पितृभ्यः स्वधा करोत्यप्यपस्तापितृयज्ञः सतिष्ठते । यतेभ्यो पालि हरति त भूतयज्ञः सति इते। पद माह्मणेभ्यो ददाति तन्मनुज्ययज्ञः सतिष्ठते । यरस्वाध्यायमधीयात कामप्यूचं यजु: साम वा तर ब्रह्मयज्ञः संतिष्ठवे ॥ते. प्रा. II. 10. 
+It will be noticed from the description of the five [[yajfias|yajñas]] given below that they are distinguished from the solemn $rauta sacrifices in two respects. In these five the chief agent is the householder himself, he does not need the help and ministration of a professional priest, while in the [[Srauta|Śrauta]] sacrifices the priests occupy the most prominent place and the householder is more or less a passive spectator or agent in the hands of the priests who direct everything. In the second place, in the five yajñas the central point is the discharge of duties to the Creator, to the ancient sages, to the Manes, and to the whole universe with myriads of creatures of various grades of intelligence. In the grauta sacrifices the main-spring of action is the desire to secure Heaven or some object such as prosperity, a son &c. Therefore the institution of the five sacrifices is morally and spiritually more progressive and more ennobling than that of the &rauta sacrifices.
 
-Oh. XVIII ) 
+[[P698]] great Gods[^1668] of Heaven and thus show his reverence and devotion to them. Similarly everyone could show his reverence for and gratitude to the great sages that had bequeathed a glorious heritage of sacred literature by repeating at least one verse and one could propitiate his deceased ancestors by offering in loving memory and filial devotion a mere handful or vessel-ful of water (which costs nothing). The whole world human and non-human is one creation and there must be a spirit of live and let live or give and take. Therefore one must offer what one can afford to a guest and also have something for all beings (including even such shunned animals as dogs, crows and insects). These feelings of devotion, gratitude, reverence, loving memory, kindliness and tolerance seem to have been the springs that prompted the Āryans of old to emphasize the importance of the five daily [[yajfias|yajñas]] and to have led sūtra writers like Gautama and legislators like Manu ([[IL|II.]] 28) to look upon them as sariskaras, as ennobling the soul by freeing it from mere selfishness and elevating the body to become a fit vehicle for higher things.[^1669] Later on it appears that other purposes came to be attributed to the institution of the five daily yajñas. According to Manu III 68-71, [[Visnu Dh,|Viṣṇu Dh.]] 8, 59, 19-20, [[Sankha|Śaṅkha]] V. 1-2, [[Harlta|Hārīta]], [[Matsyapurina|Matsyapurāṇa]] 52. 15-16 and others every householder causes injury or death to sentient beings every day in five places, viz, the hearth, the grinding mill, broomstick, winnowing basket and similar household gear, mortar and pestle, and water-jar. The five daily yajñas were devised by the great sages as atonements for the sins arising from these five sources of injury to life. These five are: brahma[[yajfia|yajña]] which consists in the study and teaching of the Veda, pitr[[yajfia|yajña]] which consists of tarpaṇa, daivayajña which consists in offerings made into fire, bhutayajña which is offering oblations to beings and manusya[[yajfia|yajña]] which consists in honouring guests. He who performs these daily according to his means is never tainted by the sin of the injuries arising from the five places mentioned above, Manu ([[IIL|III.]] 73-74) further[^1670] [[gays|says]] that former sages had a different nomenclature for the five [[P699]] yajñas i. e. ahuta, huta, prahuta, brahmya-huta and praéita, which were the same respectively as japa (or brahmayajña), homa (devayaijiia), bhiitayajña, manugyayajña and pitrtarpaṇa (pitr[[yajfia|yajña]]). In the Atharvaveda VI. 71. 2 four out of these seem to be alluded to ‘ what came to me as huta or ahuta or given by pitrs and assented to by men’.[^1671] Huta and prahuta in the sense of koma to gods and bali to bhitas ocour in Br. Up. I. 5.2. But in some grhyasūtras different meanings are attached to these very words e. g. San. gr. I. 5 and Par. gr. I. 4 say that there are four [[pakayajñas|pākayajñas]] viz. huta, ahuta, prahuta and prasita and San. gr. I. 10. 7[^1672] explains that they are respectively the same as agnihotra (or daivayajña), bali (bhiatayajña), pitryajña and brahmya-huta (or manusyayajia). The [[Harlta|Hārīta]]dharma-sūtra has a very interesting passage on this point. ‘ We shall now explain the sunds (places of injury) which are so called because they kill moving and immovable sentient beings. They are five. The first (siind) is caused by actions like sudden entrance in water, plunging into water, whirling water, splashing it in various directions, taking water without straining it through a piece of cloth and driving vehicles; the gecond by walking about in the dark or away from the beaten path or in quick jerks or by treading upon insects &e.; the third by striking (a tree with an axe &o.), by plucking flowers &ec. by tying with a rope &c., by crushing (in a mortar), by splitting (wood &ec.); the fourth by cutting crops, by rubbing or grinding; and the fifth by ignition (of fire-wood), heating (of water), by roasting, frying and cooking. These five injuries that lead to Hell are committed every day by people. Brahmacarins get rid of the first three by attending on fire and on their teacher and by the study of the Veda; householders and forest hermits purify themselves from these five by performing the five yajñas; ascetics get rid of the first two injuries by sacred knowledge and contemplation, but the injury caused by crushing uncooked seeds under the teeth cannot be removed by any of these.[^1673] Although in the [[Ap. Dh.|Āp. Dh.]] S. snd others the five yajñas are enumerated in the order of bhiita-yajña, manugya-yaijiisa, [[P700]] devayaijfia, pitryajña and svadhyaya, still the proper order from the point of view of the times of performance is first brahmayajña (japa &eo.), then devayajña, then bhita[[yajfia|yajña]], then pitr[[yajfia|yajña]], and lastly [[manusyayaijii|manusyayajña]].[^1674] Therefore they will be dealt with in the same order here. But some matters have first to be noted. Various views were entertained about the time and nature of brahma[[yajfia|yajña]][^1675] and pitr[[yajfia|yajña]]. According to Gobhila-[[smrti|smṛti]] IT. 28-29 quoted above (n. 1663), japa prescribed in saṃdhyā adoration may be looked upon as brahmayajia, that the latter may be performed before tarpaṇa and after the morning homa or after vaiśvadeva. [[Narayana|Nārāyaṇa]] on Adv. gr. III. 2. 1 says that brahma[[yajfia|yajña]] may be performed before or after vaiśvadeva. According to the [[Snana|Snāna]]sitra of Kātyāyana, brahmayajña precedes tarpaṇa and AS8v, gr. as stated above (p. 695) appears to regard tarpaṇa as part of it. Manu III 82 ([[Vispu|Viṣṇu]] Dh. S. 67. 23-25) enjoins upon a man the performance of daily śrāddha with food or water or with milk, roots and fruits and thus to propitiate and please the Manes of his deceased ancestors; while Manu (III. 70 and 283) says that tarpaṇa (done after bath) constitutes pitr[[yajfia|yajña]]. Therefore Gobhila says that śrāddha, tarpaṇa and the bali offered to pitrs constitute pitryajia and even when one of them is gone through, the performance of pitr[[yajfia|yajña]] is effected and it is not necessary to perform all three.[^1676] In the bali-harana (described below) the remnants of bali are offered to pitrs (Adv. gr. I. 2. 11, Manu III. 91).
 
-Panca-Mahāyajñas 
+[^1666]:
+    अथातः पञ्च यज्ञाः । देवयज्ञो भूतयज्ञः पितृयज्ञो ब्रह्मयज्ञो मनुष्ययज्ञ इति । आप. ध. सू. III. 1. 1-2; पञ्चयज्ञानां हि तैत्तिरीयारण्यकं मूलं पञ्च वा एते महायज्ञा इत्यादि । नारायण on आश्व. गृ. III. 1. 3. The परा. मा. I. part 1 p. 11 also notes that the five yajñas are prescribed in the Tai. Ār. and draws therefrom the sweeping generalization that all smṛti rules were known to śruti.
 
-697 
+[^1667]:
+    अथ ब्राह्मणोक्ता विधयः । तेषां महायज्ञा महासत्राणीति च संस्तुतिः । अहरहर्भूतबलिमेभ्यो यथाशक्ति दद्यात् । देवेभ्यः स्वाहाकार आ काष्ठात्पितृभ्यः स्वधाकार ओषधिव्रीहिभ्यः स्वाध्याय इति। आप. ध. सू. I. 4. 12. 13—I. 4. 13. 1. Vide Baud. Dh. S. II. 6. 1-8 for very similar words.
 
-basis of the five yajñas is the Tai. Ar. 1066 The Ap. Dh. S. (1. 4. 12, 13-15 and I 4. 13. 1 ) names and explains them simi 18rly and states that they are called (in the Tai. Ar, II. 10 ) * great yajñas' and 'great sacrifioial sessions' by way of lauda tion. The word' yajña ' applied to these five daily duties is figurative and the adjective' great' is applied only for belaud ing 1867 them. Gaut. V.8 and VIII. 17, Baud. Dh, S. II. 6.1-8, Gobbilasmpti II. 26 and numerous smrti texts speak of the same five yajñas. Gaut. VIII. 17 inoludes them among sarskāras as stated above (p. 193 ). 
+[^1668]:
+    स्वामग्ने आदित्यास आस्यं रां जिह्वां छ्यु यश्चक्रिरे कवे । ऋ. II. 1. 18; त्वे अग्ने विश्वे अद्रतासो अमुह आसा देवा हविरदन्त्याहुतम् । ऋ. II. 1. 14.
 
-It will be noticed from the description of the five yajñas given below that they are distinguished from the solemn srauta saorifices in two respects. In these five the chief agent is the householder bimself, he does not need the help and ministration of a professional priest, while in the srauta sacrifices the priests occupy the most prominent place and the householder is more or less a passive spectator or agent in the hands of the priests who direct everything. In the second place, in the five yajñas the central point is the discharge of duties to the Creator, to the ancient sages, to the Manes, and to the whole universe with myriads of creatures of various grades of intelligence. In the srauta sacrifices the main-spring of action is the desire to secure Heaven or some object such as prosperity, a son &c. Therefore the institution of the five sacrifices is morally and spiritually more progressive and more ennobling than that of the frauta sacrifices. 
+[^1669]:
+    स्वाध्यायेन व्रतैर्होमैर्देवेज्यया सुतैः । महायज्ञैश्च यज्ञैश्च ब्राह्मीयं क्रियते तनुः ॥ मनु II. 28.
 
-The sentiments that prompted the performance of these five observances appear to have been as follows: Every man could not afford to celebrate the solemn srauta rites prescribed in the Brābmaṇas and Srauta sūtras. But every one could offer a fuel-stiok to fire that was deemed to be the mouth of the 
+[^1670]:
+    आश्व. गृ. I. 1. 2-3 supports मनु ‘अथ पाकयज्ञाः । हुता अग्नौ हूयमाना अन्नो हुता ब्राह्मणभोजने ब्रह्मणि हुताः ।’
 
-1666. srora: TA TT: sit 7469: f ait uit 175479 ffati *. T. III. 1. 1-2; if after 
+[^1671]:
+    यस्मा हुतमहुतमजगाम दूतं पितृभिरनुमतं मनुष्यैः । यस्मान्मे मन उद्विविक्षति हित्यमि द्वेष्टा हुतं कृणोतु ॥ अथर्ववेद VI. 71. 2.
 
-ā ETA Atror on 97149. T. III. 1. 3. The 471. \#1. I. part 1 p. 11 also notes that the five yajñas are prescribed in the Tai, Ar, and draws therefrom the sweeping generalization that all smsti rules were known to sruti. 
+[^1672]:
+    हुतो मिष्टो होमेन अहुतो बलिकर्मणा । प्रहुतः पितृकर्मणा प्राशितो ब्राह्मणे हुतः ॥ सान. गृ. I. 10. 7. Vide बौ. गृ. I. 1. 1-11 for a somewhat different terminology
 
-1667. WEITT :19 ETANT RETreffa Área: 1 347** भूसपलिमध्येभ्यो यथाशक्ति वानम् । देवेभ्यः स्वाहाकार आकाष्ठापितृभ्यः स्वधाकार 
+[^1673]:
+    Vide Appendix under note 1673.
 
-regerar f are fati T4. 4. &. I. 4. 12. 13-1. 4. 13. 1. Vide Baud. Dh. S. II. 6.1-8 for very similar words, 
+Brahma-[[yajfia|yajña]]. Probably the earliest description of this is to be found in the Sat. Br, XI. 5. 6. 3-8, That [[Brahmana|Brāhmaṇa]], after stating that brahma[[yajfia|yajña]] is one’s own daily study of the Veda, compares several elements required in the ordinary sacrifice to certain elements of brahma[[yajfia|yajña]], viz. the juhi spoon, upabhrt, dhruva, sruva, avabhrtha (the solemn bath at the end of a sacrifice) and heaven are said to be represented by the speech, the mind, the eye, mental power, truth and the conclusion (that [[P701]] are present in [[brahmayaiiia|brahmayajña]]).[^1677] Then it says that whoever studies day. by day his Vedic lessons gains an imperishable world which is thrice or more of the world that one may secure by making a gift to priests of the whole earth replete with wealth, Then 4-7 compare rk, yajus, siman and Atharvingiras (Atharvaveda) texts respectively to offerings to gods of milk, ghee, soma and fat and it is stated that the gods being delighted and satisfied with these, bestow on the man who performs brahma[[yajfia|yajña]] affluence and security, life.-breath, seed, his whole self and all auspicious blessings and streams of ghee and honey flow for his departed pitrs. The Sat. Br, XI. 5, 6. 8 enumerates other works that may be recited in brahmayasjiia, the recital of which is like honey offerings to gods who being delighted and gratified bestow on the reciter the boons stated above, the works being Anu$asanas (Vedingas), vidyas (such as sarpa and devajana vidy& mentioned in Chandogya VII. 1. 1), vakovakya (theological discourses called brahmodya, as in Vij. S. 23. 9-12 and 45-62), Itihdsa[[purana|purāṇa]] (traditional history and legends), Gathas, Naridarmsis (i. eo. stanzas in praise of heroes).[^1678] The Tai. Ar. ([[IL|II.]] 10-13) has a more lengthy passage on brahmayajña; Tai. Ar, II. 10 is almost[^1679] the same as Sat. Br. except in two respects, viz. in the Tai. Ar. Atharvingirasah are said to be honey offerings and [[brahmana|brāhmaṇa]] texts, itihdsas, [[puranas|purāṇas]], kalpas (works on $rauta ritual) and Gatha Narasamsis are said to be fat offerings and the rewards, bestowed by the gods when delighted by the brahmayajña, are long life, brilliance, lustre, prosperity, glory, spiritual eminence and food. Tai. Ar, II. 11 describes how and where brahmayajña is to be performed ‘ one who desires to offer brahmayajña should repair to a place so far away to the east, north or north-east of his village that the thatch covering houses is not visible and when the sun rises he should wear his sacred thread (in the upavita form) under his right arm, should sit down (on a pure spot), should wash both his hands with water, should sip water thrice, should wipe his hand twice with water, should [[P702]] once sprinkle his lips with water, and touch his head, eyes, nostrils, ears and heart; he should spread out a large seat of darbhas, should be seated facing the east with his legs crossed over each other (the left foot being underneath and the right foot on the left thigh) and then should repeat his Veda; (it is said that) the darbhas are indeed the flavour (or sweetness) of waters and herbs; he (by sitting on darbhas) makes his Veda full of sweetness. Placing his left hand on the right knee with the palm turned up and covering it with the right hand the palm of which is turned down and placing pavitras (blades of darbha)between both hands, he should begin with the syllable ‘om’ which is a yajus, which is the representative of the three Vedas, which is all speech, and is the highest syllable; this has been declared by ark (Rg. I. 164. 39 is quoted). He recites the syllables bhih, bhuvah, svah; he thereby (by repeating the vyahrtis) employs the three Vedas. This is the truth (quintessence) of speech; he thereby has employed the truth of speech. Then he recites thrice the GayatrI verse, which is addressed to Savitr, by its feet separately, then by half of }it, then the whole verse without stopping. The sun is the creator of glory, he secures glory itself; then he begins (the next day) the repetition of the Vedic texts from that point which he had noted (the previous day).[^1680] Tai. Ar. II. 12 states that if a man is unable to go out of the village he may perform brahmyajña by revolving in his mind in the village itself the Veda by day or even by night; or if he cannot seat himself, then he may perform the brahmayajña even standing or lying down, since the principal matter is the recitation of the Veda (time and place being quite subordinate). Tai. Ar. II. 13 says that he should conclude the brahmayaijfia by repeating thrice the verse ‘Adoration to Brahma (Veda or Prajipati), to Agni, to the Earth, to herbs, to speech, to the Lord of speech (Brhaspati), I offer adoration to [[P703]] the great [[Visnu|Viṣṇu]]'.[^1681] Then he should sip water and. return home; thereafter whatever he gives becomes the fee of the sacrifice (i, e. of brahmayajña).
 
-H. D. 88 
+[^1674]:
+    न त्वायुपवेशक्रमोऽनुष्ठान उपयुज्यते । अनुष्ठानं तु ब्रह्मयज्ञो देवयज्ञो भूतयज्ञः पितृयज्ञो मनुष्ययज्ञ इति । हरदत्त on आप. ध. सू. I. 4. 13. 1.
 
-698 
+[^1675]:
+    कालावशे। प्रातर्मध्यन्दिनं वापि ब्रह्मयज्ञो विधीयते। मार्त्येऽपि तदा माघवान्नस्याः परतो भवेत् ॥ मध्याह्ने चेत् तर्पणात् प्राग्वैश्वदेवात्परतश्च वा । quoted in स्मृतिचन्द्रिका (आह्निक) p. 368.
 
+[^1676]:
+    श्राद्धं वा पितृयज्ञः स्यात् पित्रोर्बलिरथापि वा । गोभिलस्मृति II. 28; श्राद्धं नित्यमाहुः । एतेन त्रयाणां पितृयज्ञत्वादसंभवे एकेनापि कृतेन पितृयज्ञनिष्पत्तेः पितृयज्ञाकरणप्रसक्तः प्रत्यवायः परिहृतो भवति । आह्निकप्रकाश p. 391.
 
+[^1677]:
+    Juhū, upabhṛt, dhruvā and sruva are sacrificial ladles and will be described later under śrauta sacrifices.
 
+[^1678]:
+    According to the Tai. Br. II. 7. 5 ‘मनुष्या वै नराशंसः’, vide शाङ्खायनश्रौत 16. 11 where many lists of नराशंस hymns occur, Ṛg. I. 126 being one hymn of that kind. अथर्व XX. 127. 1 has the word नराशंस and अथ V. 18. 5. is नाराशंसी.
 
+[^1679]:
+    Vide Appendix under note 1679.
 
-great Gods 1868 of Heaven and thus show his reverence and devotion to them. Similarly everyone could show his reverence for and gratitude to the great sages that had bequeathed a glorious heritage of sacred literature by repeating at least one verse and one could propitiate his deceased ancestors by offering in loving memory and filial devotion a mere handful or vessel-ful of water (which costs nothing). The whole world human and non-human is one creation and there must be a spirit of live and let live or give and take. Therefore one must offer what one can afford to a guest and also have something for all beings (including even such shunned animals as dogs, crows and insects). These feelings of devotion, gratitude, reverence, loving memory, kindliness and tolerance seem to have been the springs that prompted the Aryans of old to emphasize the importance of the five daily yajñas and to have led sutra writers like Gautama and legislators like Manu (IL. 28) to look upon them as saṇskāras, 88 ennobling the soul by freeing it from mere selfishness and elevating the body to become a fit vehicle for higher things. 1069 Later on it appears that other purposes came to be attributed to the institution of the five daily yajñas. According to Manu III. 68-71, Viṣṇu Dh. 8. 59. 19-20, Saṅkha V. 1-2, Harita, Matsyapurīna 52. 15-16 and others every householder causes injury or death to sentient beings every day in five places, viz. the hearth, the grinding mill, broomstick, winnowing basket and similar household gear, mortar and pestle, and water-jar. The five daily yajñas were dovised by the great søges as atonements for the sins arising from these five sources of injury to life. These five are : brah mayajña which oonsists in the study and teaching of the Veda, pitryajña which consists of tarpana, daivayajña which consists in offerings made into fire, bhūtayajña which is offering obla tions to beings and manuṣyayajña which consists in honouring guests. He who performs these daily according to his means is never tainted by the sin of the injuries arising from the five places mentioned above. Manu (III. 73–74) further 1070 saya that former søges had a different nomenclature for the five 
+[^1680]:
+    The idea is that one is not to begin to recite Vedic texts at random. When a man has recited a portion of any Veda one day, he should note where he stopped and continue his recitation next day from that point. The Āp. Dh. S. I. 3. 11. 19 also prescribes that one should go every day to the water-side before taking his morning meal and recite in a pure place a portion of the Veda in succession (i. e. one day he should begin where he stopped the previous day and so on). Vide Aśv. gr. III. 4. 6 where the Tai. Ār. allowing recitation of the Veda even while standing or lying down is quoted.
 
-1668. AB singute re eut for y o 
+The procedure of svidby&iya (or brahma[[yajfia|yajña]]) in [[Asv.|Aśv.]] gr. III. 2. 2-111. 3. 4 is practically in the same words as in the Tai. Ar, quoted above. One or two points may be noted. The [[A&v, gr.|Aśv. gr.]][^1682] prescribes that one should recite gazing at the horizon or one may close one’s eyes or one may look in such a way that one feels that one can concentrate one’s mind. According to the ASv, gr. the shortest brahmayajña would be: om bhir bhuvah svah; the [[Gayatrl|Gāyatrī]] verse repeated thrice; then at least one rk verse and then the verse ‘ namo brahmane’ (quoted above) repeated thrice, The [[Ahnikaprakasa|Āhnikaprakāśa]] p. 329 says that one who knows only a portion of the Veda should recite as brahma[[yajfia|yajña]] the Purusasiikta (Rg. X. 90) and other hymns and one who knows only the [[Gayatrl|Gāyatrī]] should repeat ‘om’ as brahma[[yajfia|yajña]] every day.[^1683] [[A&v, gr.|Aśv. gr.]] ([[IIL|III.]] 3.1) mentions the following works for stadhyaya, Rgveda, Yajurveda, Sameveda, Atharvingirasah, [[Brahmana|Brāhmaṇa]]s, Kalpas, Gath&s Narasamsls, Itihasas, and Puranas. But it adds that one may recite only as much as one feels that one can afford to do with a concentrated mind.
 
-. II. 1. 18; अमे विश्वे असतासो अनुह आसा देवा हविरदत्याहुतम् । . II. 1. 14. 
+The S&n. gr. I. 4 prescribes several hymns and verses of the Rgveda for reciting in brahma[[yajfia|yajña]]. Others following different Vedas and Sakhas differ as to the content of the brahmayajña. Vide [[Ahnika-prakasa|Āhnika-prakāśa]] pp. 328-336 for brahmayajña according to Kiatyayana and according to the followers of Samaveda. Ya&j. I. 101 prescribes that as time and ability allow one may include in brahmayajña the Vedas together with the Atharvaveda, Itihasa and philosophical texts.
 
-1669. ponarea adevaraverat gets i gran oportet nito Por care Hu: 8 AW II. 28. 
+Brahmayajña is very rarely performed every day (except by the most orthodox vaidikas and édstris) in modern times and a fixed formula of brahmayajña has been decided upon, which is recited once a year in Srivana by most [[brahmana|brāhmaṇa]]s in the Deccan, The formula for students of the Rgveda is as follows: [[P704]] After reciting ‘om bhiir bhuvah svah’ and the sacred [[Gayatri|Gāyatrī]], he recites Rg. I.1.1-9, then the first sentence of the Ait. Br., the first sentences of the five sections of the Ait. Ar.; the first sentences of the Black and White Yajurveda, of the Simaveda, of the Atharvaveda; the first sentences of the Nighantu and the six Vedangas viz, Adv, érauts, Nirukta, Chandas, Nighantu, Jyotisa, Siksa, Panpini’s grammar in order; the first ‘pada’ of [[Yaj.|Yāj.]] I. 1 and of the [[Mahabharata|Mahābhārata]] (1.1.1), the first sttra of the Nyiya, PirvamIm[[arsa|ārṣa]] and UttaramIm[[arsa|ārṣa]]; then a benedictory formula (‘taccharmyor... catuspade’) and lastly the verse‘ namo brahmane' is repeated thrice.[^1684] After this brahmayajña, tarpansa of devas, sages and pitrs follows.
 
-1670. **. . I. 1. 2–3 supports he' TT1974: I TEHT SAN ETA अनंनो महुवा मामणभोजने प्राणि हुता।" 
+[^1681]:
+    नमो ब्रह्मणे नमोऽस्त्वग्नये नमः पृथिव्यै नम ओषधीभ्यः । नमो वाचे नमो वाचस्पतये नमो विष्णवे बृहते करोमि ॥ तै. आ. II. 13. This occurs in आश्व. गृ. III. 3. 4 where महते is read for बृहते.
 
-Ch. XVIII) 
+[^1682]:
+    स यावन्मन्येत तावदधीत्यैतया परिदधाति । नमो ब्रह्मणे...करोमीति । आश्व. गृ. III. 3. 4 on which Nārāyaṇa observes ‘स यावत्कालमेकाग्रमनसा आत्मानं मन्येत तावत्कालमेवाधीयीत नैतद्व्यतिरिक्तमिति नियमः । सर्वथा समाहितमनसैवाध्येतव्यं नैयमिकं हीत्यर्थः ।’.
 
-Panca-Mahāyajias 
+[^1683]:
+    एकदेशाध्यायिना पुरुषसूक्तादिपाठेन सावित्रीमात्राध्यायिना प्रणवपाठेन नित्यं ब्रह्मयज्ञः कर्तव्यः । आह्निकप्रकाश p. 329.
 
-699 
+The Dharmasindhu (III. piirvirdha p. 299) says that brahmayajña is to be performed once either after morning homa or after midday sarmndhy& or after [[Vaisvadeva|Vaiśvadeva]], but those who study the Aévaldyanasūtra should perform it only after midday sarndhyd. After [[Acamana|Ācamana]] and praniyama one should make the saṃkalpa (ériparame$varaprityartham brahma[[yajfia|yajña]]m karisye tadangatayd devargyicadrya-tarpaṇam karisye) and if one’s father is dead one should add in the sarhkalpa (pitrtarpaṇam ca karigye). It then sets out how it is to be performed by various people, such as those who have studied all vedas or one veda or only a portion or when one has no time. It says that the followers of the Taittirlya 4akha repeat the words * vidyud-asi vidya me papma&nam-rtat satyam-upaimi’ at the commence. ment and the words * vrstirasi vrica me pApmanam-rtat satyameup&gdm’ at the end. If a man is unable to repeat brahmayajña sitting he may do it even when lying down,
 
-yajñas i. e. ahuta, huta, prahuta, brāhmya-huta and prūsita, which were the same respectively as japs (or brahmayajña ), homa (devayajña), bhūtayajña, manusyayajña and pitstarpaṇa (pitryajña). In the Atharvayeda VI. 71. % four out of these seem to be alluded to 'what came to me as huta or ahuta or given by pitṛs and assented to by men'. 1871 Huta and prahuta in the sense of homa to gods and bali to bhūtas ocour in Br. Up. I. 5.2. But in some gļhyasūtras different meanings are attached to these very words e. g. Sān. gr. I. 5 and Par. gf. I. 4 say that there are four pākayajñas viz. buta, ahuta, prahuta and prāśita and San. gṛ. I. 10.7 1072 explains that they are respectively the same as agnihotra ( or daivayajña), bali (bhūtayajña), pits yajña and brāhmya-buta (or mānuṣyayajba ). The Hārlta. dharma-sutra has a very interesting passage on this point. 'We shall now explain the sūnās (places of injury) which are so called because they kill moving and immovable sentient beings. They are five. The first (sūnā) is caused by actions like sudden entrance in water, plunging into water, whirling water, splashing it in various directions, taking water without straining it through a piece of cloth and driving vehicles; the second by walking about in the dark or &way from the beaten path or in quick jerks or by treading upon insects &c.; the third by striking ( a tree with an axe &o.), by pluoking flowers &c., by tying with a rope &o., by crushing (in & mortar), by splitting (wood &c.); the fourth by cutting crops, by rubbing or grinding; and the fifth by ignition of fire-wood ), heating (of water ), by roasting, frying and cooking. These five injuries that lead to Hell are committed every day by people. Brahma carins get rid of the first three by attending on fire and on their teacher and by the study of the Veda ; householders and forest hermits purify themselves from these five by performing the five yajñas; ascetios get rid of the first two injuries by sacred knowledge and contemplation, but the injury caused by crushing uncooked seeds under the teeth cannot be removed by any of these '. 1073 Although in the Ap. Dh. S. end others the five yajñas are enumerated in the order of bhūta-yajña, manusya-yajña, 
+The Dharmasindhu notes that according to the followers of the ya §akhi and of the Vajasaneya Sarhhitd tarpaṇa is not & part of brahma[[yajfia|yajña]] and so tarpand Bay be performed by them either before brahmayajña or even some time after brahmayajña.
 
-1671. पम्मा हुतमहसमाजगाम दर्स पितृभिरनुमतं मनुण्यैः। यस्माम्मे मन उदिष costaregat Santa Il spurday VI. 71. 2. 
-
-1672. aastast at af ATTI 15a: fogatore ansat turot l t. y. I. 10.7. Vide ft. I. I. 1. 1-11 for & somewhat difforont terminology 
-
-1673. Vido Appendix under note 1673. 
-
-700 
-
-
-
-(Ch. XVIII 
-
-devayajña, pitsyajña and svādhyāya, still the proper order from the point of view of the times of performance is first brahmayajña (japa &o.), then devayajña, then bhūtayajña, then pitȚyajia, and lastly manusyayajña. 1074 Therefore they will be dealt with in the same order bere. But some matters have first to be noted. Various views were entertained about the time and nature of brahmayajña 1075 and pitsyajña. According to Gobhila-smrti II. 28-29 quoted above (n. 1663), japa prescribed in samdbyā adoration may be looked upon as brahmayajña, that the latter may be performed before tarpans and after the morning homa or after vaiśvadeva. Nārāyana on Aśv. gr. III. 2. 1 says that brahmayajña may be performed before or after vaisvadeva. Aocording to the Snānasūtra of Katyāyana, brahmayajāe precedes tarpana and Asv. gļ. as stated above (p. 695 ) appears to regard tarpaña as part of it. Manu III. 82 ( Viṣṇu Dh. S. 67. 23-25) enjoins upon a man the performance of daily śrāddha with food or water or with milk, roots and fruits and thus to propi tiate and please the Manes of his deceased ancestors; while Manu ( III. 70 and 283 ) says that tarpana ( done after bath ) constitutes pitsyajña. Therefore Gobhila says that śrāddha, tarpana and the bali offered to pitrs constitute pitryajña and even when one of them is gone through, the performance of pitryajña is effected and it is not necessary to perform all three. 1078 In the bali-harana ( described below ) the remnants of bali are offered to pitṛs ( Aśv. gr. I. 2. 11, Manu III. 91 ). 
-
-Brahma-yajña. Probably the earliest description of this is to be found in the Sat. Br. XI.5.6.3-8. That Brāhmaṇa, after stating that brahmayajma is one's own daily study of the Veda, compares several elements required in the ordinary sacrifice to certain elements of brahmayajña, viz. the juhū spoon, upabhrt, dhruva, Bruve, avabhrtha (the solemn bath at the end of a sacrifice ) and heaven are said to be represented by the speech, the mind, the eye, mental power, truth and the conclusion (that 
-
-1674. ATTETāmatam gyventi in au sta fagyi \#FET TA I STC ON 19. 9. . I. 4. 13. 1. 
-
-1675. reraste sparruan mo na partea standa TET HTETITUT grant wall art andorra arra RTTET I quoted in mag. ( *) R. 368. 
-
-1676. foga: FOTEL Patterelami M EER II. 28; भाई नित्यनादम् । एतेन त्रयाणां पितृयज्ञस्वादसंभवे एकेनापि कृतेन पितृयज्ञनिष्पत्तेः पित पज्ञाकरणमसता प्रत्यवायः परिहतो भवति। आहिकमकाश p. 391. 
-
-Ch. XVIII) 
-
-Brahmayajña 
-
-1701 
-
-are present in brahmayajña ). 1077 Then it says that whoever studies day by day his Vedic lessons gains an imperishable world which is thrice or imore of the world that one may secure by making a gift to priests of the whole earth replete with wealth. Then 4-7 compare șk, yajus, sāman and Atharvangiras (Atharvaveda ) texts respectively to offerings to gods of milk, ghee, soma and fat and it is stated that the gods being delighted and satisfied with these, bestow on the man who per forms brahmayajña affluence and seourity, life-breath, seed, his whole self and all auspicious blessings and streams of ghee and honey flow for his departed pitrs. The Sat. Br. XI. 5. 6. 8 enumerates other works that may be recited in brahmayajña, the recital of which is like honey offerings to gods who being delighted and gratified bestow on the reciter the boons stated above, the works being Anuśāsanas ( Vedāngas ), vidyās ( such 88 sarps and devajana vidya mentioned in Chandogya VII. 1. 1), vākovākya ( theological discourses called brahmodya, as in Vaj. S. 23. 9-12 and 45-62 ), Itihāgapurana (traditional history and legends ), Gāthās, Nārāśaṁsis (i, e. stanzas in praise of heroes ). 1878 The Tai. Ār. (II. 10-13) has a more lengthy passage on brahmayajña ; Tai. Ār. II. 10 is almost 1878 the same as Sat. Br. except in two respeots, viz. in the Tai. Ār. Athar Vāngirasaḥ are said to be honey offerings and brāhmana texts, itihāsas, purāṇas, kalpas ( works on srauta ritual) and Gātha Nārāsamsis are said to be fat offerings and the rewards, bestowed by the gods when delighted by the brahmayajña, are long life, brilliance, lustre, prosperity, glory, spiritual eminence and food. Tai. Ār. II. 11 describes how and where brahmayajña is to be performed' one who desires to offer brahmayajña should repair to a place so far away to the east, north or north-east of his village that the thatoh covering houses is not visible and when the sun rises ho should wear his sacred thread (in the upavita form ) under his right arm, should sit down (on a pure spot ), should wash both his hands with water, should sip water thrice, should wipe his hand twice with water, should 
-
-1677. Juhu, upabhṛt, dbruvi and bruva aro sacrificial ladles and will be described later under srauta sacrifices, 
-
-1678. According to the Tai. Br. II. 7. 5 FETT TĦ: ', vido FTTETTHET 16. 11 where many lists of Tin hymns ooour, Rs. I. 126 being one hymn of that kind. XX, 127. 1 has the word nie end * V. 18.5, is amigt. 
-
-1679. Vide Appondix under poto 1679. 
-
-70% 
-
-
-
-1 Oh. XVIII 
-
-once sprinkle his lips with water, and touch his head, eyes, nostrils, ears and heart; he should spread out & large seat of darbhas, should be seated facing the east with his legs crossed over each other (the left foot being underneath and the right foot on the left thigh ) and then should repeat his Veda ; ( it is Baid that) the darbhas are indeed the flavour (or sweetness ) of waters and herbs; he (by sitting on darbhas) makes his Veda full of sweetness. Placing his left hand on the right knee with the palm turned up and covering it with the right hand the palm of which is turned down and placing pavitras (blades of darbha) bet ween both hands, he should begin with the syllable 'om' which is & yajus, which is the representative of the three Vedas, which is all speech, and is the highest syllable; this has been declared by a rk ( Rg, I. 164. 39 is quoted ). He recites the syllables bhūḥ, bhuvah, syaḥ; he thereby (by repeating the vyābṛtis ) employs the thres Vedas. This is the truth ( quintessence) of speech; he thereby has employed the truth of speech. Then he recites thrice the Gāyatri verse, which is addressed to Savitr, by its feet separately, then by half of it, then the whole verse without stopping. The sun is the creator of glory, be secures glory itself; then he begins ( the next day ) the repetition of the Vedic texts from that point which he had noted ( the previous day ). 1880 Tai. Ar. II. 12 states that if a man is unable to go out of the village he may perform brahmyajña by revolving in his mind in the village itself the Veda by day or even by night; or if he cannot seat himself, then he may perform the brahma yajña even standing or lying down, since the principal matter is the recitation of the Veda ( time and place being quite subordinate). Tai. Ār. II. 13 says that he should conolude the brahmayajña by repeating thrice the verse Adoration to Brahma ( Veda or Prajāpati), to Agni, to the Earth, to herbs, to speech, to the Lord of speech (Bphaspati), I offer adoration to 
-
-1680. The idea is that one is not to begin to recite Vedic texts at random. When a man has recited a portion of any Veda one day, ho should note where he stopped and continuo his recitation next day from that point. The Ap. Dh. 8. 1. 3. 11. 19 also prescribes that one should go every day to the water-side before taking his morning meal and recito in & puro place a portion of the Veda in succession (i. .. one day he should begia where he stopped the previous day and so on) Vide Xóv. gr. III. 4. 6 whero tbo Tai. Ar. allowing rooitation of the Vode even while standing or lying down is quoted. 
-
-Ch. XVIII) 
-
-Brahmayajña 
-
-703 
-
-the great Vlonu'. 1181 Then he should sip water and return home; thereafter whatever he gives becomes the fee of the Bacrifice ( i. e. of brahmayajña ). 
-
-The procedure of svadbyāya ( or brahmayajña) in Asv. gr. III. 2. 2-III. 3. 4 is practically in the same words as in the Tai. Ār. quoted above. One or two points may be noted. The Asv. gr. 1688 prescribes that one should recite gazing at the horizon or one may close one's eyes or one may look in such a way that one feels that one can concentrate one's mind. According to the Asv. gr. the shortest brahmayajña would be : om bhūr bhu vaḥ svaḥ; the Gāyatri verse repeated thrice; then at least one Ik verse and then the verse 'namo brahmane' (quoted above) repeated thrice. The Ahnikaprakasa p. 329 says that one who knows only a portion of the Veda should recite as brahmayajna the Puruṣasūkta ( Rg. X. 90) and other hymns and one who knows only the Gayatri should repeat 'om' as brahmayajña every day. 1883 Aśv. gs. (III. 3. 1) mentions the following works for svādhyāya, Rgveda, Yajurveda, Sameveda, Atharvan. girasaḥ, Brāhmaṇas, Kalpas, Gatbas Nārāśamsis, Itihāsas, and Purāṇas. But it adds that one may recite only as much as one feels that one can afford to do with a concentrated mind. 
-
-The Sān. gr. I. 4 prescribes several hymns and verses of the Rgveda for reciting in brahmayajaa. Others following different Vedas and Sakhas differ as to the content of the brahmayajña. Vide Abnika-prakāśa pp. 328-336 for brahmayajña according to Kātyāy&pa and according to the followers of Sāmaveda. Yāj. I. 101 prescribes that as time and ability allow one may include in brahmayajña the Vedas together with the Atharva veda, Itihasa and philosophical texts. 
-
-Brahmayajña is very rarely performed every day (except by the most orthodox vaidikas and śāstris ) in modern times and a fixed formula of brahmayajña has been decided upon, which is recited once a year in Srāvana by most brāhmaṇas in the Deccan. The formula for students of the Rgveda is as follows: 
-
-1681. At watot FANART A: gura sitafitq; int sted HT arrara Mat found at ATA a. 316. II. 13. This occurs in a*. T. III. 3.4 where महते is read tor Jहते. 
-
-1682. FTTYPE am Tangan at... Atala 1877. T. III. 3.4 on which Narayans observes 'स यापकालमेकाममनसा आस्मानं मन्येत वाषकालमेवाधीपीत न यशाप्पश्येतण्या इति नियमः । सर्वथा समादितमनसेवाश्येतन्य 
-
-_1683. एकदेशाग्यापिना पुरुषवक्तादिपाठेन साविधीमात्राण्याविना प्रणयपाठेन नित्य Waar: Im 
-
-p. 329. 
-
-vede the paraute, Nitroeder ; the first tine Nyasula cita 
-
-704 
-
-History of Dharmaśāstra (Ch. XVIII 
-
-After reciting 'om bhūr bhuvaḥ svah' and the sacred Gayatri, he recites Rg. 1.1.1-9, then the first sentence of the Ait. Br., the first sentences of the five sections of the Ait. Ār.; the first sentences of the Black and White Yajurveda, of the Samaveda, of the Atharva veda; the first sentences of the Nighantu and the six Vedangas viz. Aśv. śrauta, Nirukta, Chandas, Nighapṭu, Jyotiṇa, Sikṣa, Pāṇini's grammar in order; the first 'pada' of Yāj. I. 1 and of the Mahabharata (I.1.1), the first sūtra of the Nyāya, Pūrvainimaṁsā and Uttaramlmārsā; then a benedictory formula (stacchamyor... catuṣpade') and lastly the verse' namo brahmaṇe' is repeated thrice.1084 After this brahmayajña, tarpaṇa of devas, sages and pitsa follows. 
-
-The Dharmasindhu (III. pūrvārdha p. 299 ) says that brahmayojña is to be performed once either after morning homa or after midday saṁdhyā or after Vaisvadeva, but those who study the Asvaldyanasūtra should perform it only after midday sandhyā. After ācamana and prānāyāma one should make the samnkalpa ( $riparameśvaraprItyartham brabmayajñam kariṣye tadangataya devarsy&cārya-tarpaṇam kariṣye) and if one's father is dead one should add in the samkalpa ( pitstarpapam ca kariṣye ). It then sets out how it is to be performed by various people, such as those who have studied all vedas or one veda or only a portion or when one has no time. It says that the followers of the Taittiriya sakbā repeat the wordsvidyud-asi vidya me pāpmānam-ṣtat satyan-upaimi' at the commence ment and the words 'vrstirasi ypsoa me pāpmānan-stāt satyam. upāgim' at the end. If a man is unable to repeat brahmayajña sitting he may do it even when lying down. 
-
-The Dharmasindhu notes that according to the followers of the Tahririya gakha and of the Vājasaneya Samhita tarpana is not a part of brahmayajña and so tarpans hay be performed by them either before brahmayajña or even some time after brahmayajña. 
-
-1684. After Rg. I. 1. 1-9 the following are repeated wibrary it frau: T: 184 HETER POT QHTH i sure: \#Tutor Perifer मपन्विदा। महावतस्य पंचविंशति सानिधेन्या वोर्जे त्वा । अम आपाहि वीतये।शनो ईवीरभिष्टये । अथैतस्य समाग्नापस्य । समाम्नाय: समाम्मातःमयरसतजभनलगसंमितम् । गौ ग्मा। संवत्सरमपम् । अथ शिक्षा प्रवक्ष्यामि । वद्धिरादेचू । योगीम्बर याज्ञवल्क्यम् । नारायण नमस्कस्य । अथातो धर्म पाख्यास्यामः । अथातो धर्मजिज्ञासा अथातो मध जिज्ञासातच्योराणीमहे । गात पशाय गाई पशपतये । देवी स्वस्तिरस्तमा स्वस्तिर्मा हपेन्या । जर्ष जिगात भेषजम् । शं नो भस्त द्विपदेशपापदे । नमो भाणे (बि), Vide Appendix undor note 1684.लाल बहादुर शास्त्री राष्ट्रीय प्रशासन अकादमी, पुस्तकालय Lal Bahadur Shastri National Academy of Administration, Library 
-
-मसुरी MUSSOORIE. 
-
-यह पुस्तक निम्नांकित तारीख तक वापिस करनी है। This book is to be returned on the date last stamped. 
-
-दिनांक Date 
-
-उधारकर्ता की संख्या Borrower's 
-
-दिनांक Date 
-
-उधारकर्ता की संख्या Borrower's 
-
-No. 
-
-No. 
-
-1023701 अवाप्ति संख्या 
-
-29*572 Acc. No. 132 
-
-auf die 
-
-Kabo the 
-
-Book No. 
-
-पुस्तक संख्या Class No. लेखक Authorp. Varman Kane शीर्षक Title Mislezy Dhaul manastir 
-
-2, 8th 294.5926 
-
-LIBRARY Kan LAL BAHADUR SHASTRI NATIONAL ACADEMY OF ADMINISTRATION V-2; Pty MUSSOORIE 
-
-Accession No.......102.214. Books are issued for 15 days only but may have to be recalled earlier if urgently required. An overdue charge of 25 Paise per day per volume will be charged. Books may be renewed on request, at 
-
-the discretion of the Librarian. 4. Periodicals, Rare and Reference books 
-
-may not be issued and may be 
-
-consulted only in the Library. 5. Books lost, defaced or injured in any 
-
-way shall have to be replaced or its double price shall be paid by the 
-
-borrower. HELP TO KEEP THIS BOOK FRESH, CLEAN & MOVING
+[^1684]:
+    After Ṛg. I. 1. 1-9 the following are repeated अग्निर्वै देवानां अवमो विष्णुः परमः । अथ महाव्रतम् । दश पन्था एतत्कर्म । अथातः संहिताया उपनिषद् । विद्या मयवन्विका। महाव्रतस्य पञ्चविंशतिं सामिधेन्यः। द्वे त्वोर्जे त्वा । अग्न आयाहि वीतये। शं नो देवीरभिष्टये । अथैतस्य समाम्नायस्य । समाम्नायः समाम्नातः । ...[[??]] अथ शिक्षां प्रवक्ष्यामि । वृद्धिरादेच्छब्दः । योगीश्वरं याज्ञवल्क्यम् । नारायणं नमस्कृत्य । अथातो धर्मं व्याख्यास्यामः । अथातो धर्मजिज्ञासा । अथातो ब्रह्मजिज्ञासा । तच्छंयोरावृणीमहे । गातुं यज्ञाय गातुं यज्ञपतये । देवीः स्वस्तिरस्तु नः । स्वस्तिर्मा हव्येभ्यः । ऊर्जं जिगातु भेषजम् । शं नो अस्तु द्विपदे शं चतुष्पदे । नमो ब्रह्मणे ( त्रिः)। Vide Appendix under note 1684.

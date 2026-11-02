@@ -13,7 +13,7 @@ After invoking deities the work starts with the *praśasti* of the king and his 
 
 [^1320]: इति वीरश्रीगजपति-गौडेश्वर-नवकोटिकर्णाटकलबुरिगेश्वर-शरणागतजमुनापुराधी-शरद्दुशनसाहिसुरत्राण-शरणक्षण-श्रीदुर्गावरपुत्र-परमपवित्रचरित-राजाधिराज-राज-राजपरमेश्वर-वीरप्रतापरुद्रदेवमहाराजविरचिते स्मृतिसंग्रहे सरस्वतीविलासे व्यवहारकाण्डे &c. p. 503. Is Jamunāpura modern Jaunpura?
 
-[^1321]: वीरश्रीगजपतिगौडेश्वरनवकोटिकर्णाटकलबुरिगेश्वरप्रतापपुरुषोत्तमदेव &c. E. I. vol. XIII p. 155; vide Dr. Rajendralal Mitra's 'Antiquities of Orissa' vol. II, apdendix pp. 165-167, Ind. Ant. vol. I. p. 355 and M. M. Chakravarti's article on 'Uriya Inscriptions of 15th and 16th centuries' in JASB vol. 62, part 1, pp. 88-104 for inscriptions of this dynasty. Vide the Velicharla grant of Pratāparudradeva Gajapati dated śake 1432 (1510 A. D.) in E. I. vol. 28 pp. 205 ff.
+[^1321]: वीरश्रीगजपतिगौडेश्वरनवकोटिकर्णाटकलबुरिगेश्वरप्रतापपुरुषोत्तमदेव &c. E. I. vol. XIII p. 155; vide Dr. Rajendralal Mitra's 'Antiquities of Orissa' vol. II, appendix pp. 165-167, Ind. Ant. vol. I. p. 355 and M. M. Chakravarti's article on 'Uriya Inscriptions of 15th and 16th centuries' in JASB vol. 62, part 1, pp. 88-104 for inscriptions of this dynasty. Vide the Velicharla grant of Pratāparudradeva Gajapati dated śake 1432 (1510 A. D.) in E. I. vol. 28 pp. 205 ff.
 
 [^1322]: 'स चायं वीररुद्रो गजपतिरयोध्यामिवायोध्यां ...[[??]] भूकान्ताकटकं कटकनगरीं समानयन्' p. 11.
 
