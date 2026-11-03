@@ -55,3 +55,7 @@ This is false. Even if a marriage ritual is flawed, one enters gRhasthAshrama no
 
 Further, all such saMskAra-s (and nitya-karma-s) are performed per one's capacity; and this is allowed and will yield the desired results (unlike in the case of kAmya karma-s). So, there is no scope for anxiety.
 
+### Mental entry?
+Technically, when one is capable of proper snAna, doing a mAnasika snAna WONT yield the snAna-benefit (just dhyAna-phala). It's just that the fruit of vivAha-saMskAra ritual is not directly Ashrama-pravesha - rather stuff like generation of aupAsanAgni. mAnasika vivAha = gandharva vivAha :-P
+
+A vivAha ritual, proper or improper, generates among other things, a mental impression of having entered into a relationship which is a core part of gRhasthAshrama. So, it can be said to indirectly result in entry there.
