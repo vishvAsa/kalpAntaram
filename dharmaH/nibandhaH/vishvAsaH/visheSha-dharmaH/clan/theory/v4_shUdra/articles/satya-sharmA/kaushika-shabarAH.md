@@ -1,7 +1,7 @@
 +++
 title = "कौशिक-शबराः"
 +++
-Śabaras of Kauśika gotra
+## Śabaras of Kauśika gotra
 
 As per the Kaṭakarājavaṃśāvali (text based on traditional records of the Jagannātha temple), the descendants of the Śabara Viśvāvasu belong to the Kauśika gotra.
 
