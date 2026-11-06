@@ -11,23 +11,23 @@ The Smṛticandrikā tells us that Devasvāmin composed like [[Srīkara|Śrīkar
     आश्वलायनगृह्यस्य भाष्यं भगवता कृतम् । देवस्वामिसमाख्येन विस्तीर्णं तत्प्रसादतः ॥
 
 [^789]:
-    देवस्वामिमाधवपारिजातकारप्रभृतयस्तु मासिके आशौचेनोपहते मृतकानन्तर-शुद्धिदिन एव कर्तव्यं पुरस्तदहरेवेति । चतुर्विंशतिमतव्याख्यान p. 135 ( Benares ed ).
+    देवस्वामिमाधवपारिजातकारप्रभृतयस्तु मासिके आशौचेनोपहते सूतकानन्तर-शुद्धिदिन एव कर्तव्यं पुरस्तदहरेव वेति । चतुर्विंशतिमतव्याख्यान p. 135 ( Benares ed ).
 
 [^790]:
-    यदि पूर्वाह्ने पर्वसन्धिः समाप्येत तदा नितरामेव च शोभनं यदि पुनरपराह्णे वा तदहरुपोष्य शोभते याग इति । हेमाद्रि ( कालनिर्णय ) III, 2, p. 324 ; *vide* pp. 496 and 565 of the same volume for mention of देवस्वामी.
+    यदि पूर्वाह्ने पर्वसन्धिः समाप्येत तदा नितरामेव च शोभनं यदि पुनरपरात्रे रात्रौ वा तदहरुपोष्य श्वोभूते याग इति । हेमाद्रि ( कालनिर्णय ) III, 2, p. 324 ; *vide* pp. 496 and 565 of the same volume for mention of देवस्वामी.
 
 [[P592]]
 
 and āśauca several times. For example, Devasvāmin[^791] explained the word Yautaka differently from the [[Nighantu|Nighaṇṭu]] (which explained it as the wealth that was given to a woman when she was seated on the same seat with her husband at the time of marriage). Devasvāmin explained that the word of the [[Sangraha|Saṅgraha]][^792] that, when a son was born to one of several full brothers, he stood as a son to all and that the same rule applied to several co-wives when one of them had a son, meant that in both cases another son should not be adopted. Devasvāmin held the view (like Bhojadeva) that the word ‘duhitṛ’ in Yājñavalkya's verses on succession meant *putrikā*.[^793] Devasvāmin explained Manu[^794] 9. 141 as saying that the adopted son (in the particular case mentioned by Manu) took all the wealth and the *gotra* of his adoptive father. Vide Smṛticandrikā (Mysore ed.) on āśauca p. 22. The Vaijayantī of Nandapaṇḍita (on Viṣṇu 22. 32) quotes the view of Devasvāmin that on the death of unmarried daughters mourning was to be observed for ten days.[^795] The
 
 [^791]:
-    देवस्वा(मी) तु पितृगृहालब्धं भर्तृगृहालब्धापेक्षया पृथग्धनतया मातुर्यौतकं मातृधनं मातुरेवेत्याह तच्चिन्त्यम् । स्मृतिच. II. p. 285 ; *vide* वीर p. 698 ‘ भर्तृगृहलब्धात्पृथग्धनतया पितृगृहालब्धं मातृधनं यौतुकम् । यौतकशब्दस्यामिश्रणमप्यर्थः । यु मिश्रणामिश्रणयोरिति धातुपाठात् । युतसिद्धाविति प्रयोगाच्चेति देवस्वाम्याह तदसत् । ’.
+    देवस्वा(मी) तु पितृगृहाल्लब्धं भर्तृगृहाल्लब्धापेक्षया पृथग्धनतया मातुर्यौतकं मातृधनं मातुरेवेत्याह तच्चिन्त्यम् । स्मृतिच० II. p. 285 ; *vide* वीर० p. 696 ‘ भर्तृगृहलब्धात्पृथग्धनतया पितृगृहलब्धं मातृधनं यौतुकम् । यौतकशब्दस्यामिश्रणमप्यर्थः । यु मिश्रणामिश्रणयोरिति धातुपाठात् । युतसिद्धाविति प्रयोगाच्चेति देवस्वाम्याह तदसत् । ’.
 
 [^792]:
-    The verses of the संग्रह are : यचैकजाता बहवो भ्रातरस्तु सहोदराः । एकस्यापि सुते जाते सर्वे ते पुत्रिणः स्मृताः ॥ बहीनामेकपत्नीनामेष एव विधिः स्मृतः । एका चैत्पुत्रिणी तासां पिण्डदस्सु स इष्यते ॥ The स्मृतिच० ( II, p. 289 ) says ‘ तस्म पूर्वोक्तेन सह विरोधाय देवस्वामिना तात्पर्यो उक्तः उभयत्र नान्यः प्रतिनिधिः कार्य इति ग्रन्थेन ’. The same words occur in the सं. वि. ( para 392 and p. 305 ) and in the दत्तकमीमांसा ( p. 42 ).
+    The verses of the संग्रह are : यद्येकजाता बहवो भ्रातरस्तु सहोदराः । एकस्यापि सुते जाते सर्वे ते पुत्रिणः स्मृताः ॥ बह्वीनामेकपत्नीनामेष एव विधिः स्मृतः । एका चेत्पुत्रिणी तासां पिण्डदस्तु स इष्यते ॥ The स्मृतिच० ( II, p. 289 ) says ‘ तस्य पूर्वोक्तेन सह विरोधाद्य देवस्वामिना तात्पर्यमुक्तः उभयत्र नान्यः प्रतिनिधिः कार्य इति ग्रन्थेन ’. The same words occur in the स. वि. ( para 392 and p. 305 ) and in the दत्तकमीमांसा ( p. 42 ).
 
 [^793]:
-    एवं सोपपत्तिकीं पत्न्यसवे दुहितृगामितां ब्रुवता बृहस्पतिनैव यद् दुहितृगामि-धनमिति विधायकं वचनजातं तत्पुत्रिकाविषयमेव न पुनः पुत्रिकादुहितृविषयमिति धारेश्वरदेवस्वामिदेवरातमतं स्मृतितन्त्रालभिङ्गलाभिमानोन्मादकल्पितं निरस्तं वेदितव्यम् । स्मृतिच० II. 295.
+    एवं सोपपत्तिकीं पत्न्यभावे दुहितृगामितां ब्रुवता बृहस्पतिनैव यद् दुहितृगामि-धनमिति विधायकं वचनजातं तत्पुत्रिकाविषयमेव न पुनः पुत्रिकादुहितृविषयमिति धारेश्वरदेवस्वामिदेवरातमतं स्मृतितन्त्रानभिज्ञत्वाभिमानोन्मादकल्पितं निरस्तं वेदितव्यम् । स्मृतिच० II. 295.
 
 [^794]:
     अत्र तृतीयपादार्थो देवस्वामिना विवृतः तदीयं सर्वं रिक्थं गोत्रं च हरेतैवेति ।
@@ -44,4 +44,4 @@ In the [[Prapancahrdaya|Prapañcahṛdaya]] (Tri. S. series, p. 39) we are told 
 As the Smṛticandrikā quotes Devasvāmin so profusely, he cannot be later than 1150 A. D. His earlier limit can be determined in several ways. Gārgya Nārāyaṇa's comment on Āśvalāyanaśrauta (II. 1. 14) is quoted by [[Trikāndamandana|Trikāṇḍamaṇḍana]], who is himself (quoted by Hemādri. Therefore Gārgya Nārāyaṇa could not have flourished later than 1100 A. D. (vide Bhandarkar's Report on search for mss., 1883-84, pp. 30-31). Therefore Devasvāmin probably flourished about 1000-1050 A. D., if not earlier. The fact that Devasvāmin held certain views similar to Bhojadeva's also corroborates the chronological position thus assigned to him.
 
 [^796]:
-    आद्रविणे समुत्पन्ने अनन्तरा मृतसूतके । अमावास्यां प्रकुर्वीत शुद्धवैके मनीषिणः । स्मृतिच० II. p. 385.
+    श्राद्धविघ्ने समुत्पन्ने अन्तरा मृतसूतके । अमावास्यां प्रकुर्वीत शुद्धावेके मनीषिणः । स्मृतिच० II. p. 385.

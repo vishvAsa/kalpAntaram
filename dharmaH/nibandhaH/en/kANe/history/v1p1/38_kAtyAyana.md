@@ -199,17 +199,7 @@ The question is:-what is the date of this Kātyāyana [[omști|smṛti]] ( Karma
 
  
 
-. 
-
-[[IRTEN|]] 
-
 [^575]: सर्वे क्षयान्ता निचयाः पतनान्ताः समुच्छ्रयाः । संयोगा विप्रयोगान्ता मरणान्तं हि जीवितम् ॥
-
-हि जीवितम् ॥ 
-
-[[FOUNDED|]] 
-
-[[292760|]] 
 
 [[P505]]
 
@@ -265,4 +255,4 @@ Kātyāyana himself is named in [[&|a]] verse that is cited from Kātyāyana by 
 
 The number of Smṛtis or Smṛtikāras quoted or referred to by themselves or mentioned in commentaries and [[digeste|digests]] is very large, particularly if one takes into account [[Sinștikāras|Smṛtikāras]] or Smṛtis with the words '[[bphat''|bṛhat' ']]madhyama,' 'laghu' and 'vṛddha' prefixed to many of them. The important [[versi fied|versified]] Smṛtis in the Sanskrit alphabetical order will now be briefly dealt with one after another.
 
-[^577]: अनिर्दिष्टश्च निर्दिष्टश्च … इति कात्यायनोक्तम् । परा. मा. vol. III. part I. p. 235. 
+[^577]: अनिर्दिष्टाच्च निर्दिष्टमेकत्र च विलेखितम् । विशेषलिखितं ज्याय इति कात्यायनोब्रवीत् ॥ परा. मा. vol. III. part I. p. 235. 

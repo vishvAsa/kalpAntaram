@@ -11,15 +11,15 @@ This was an early and large digest on various branches of Dharmaśāstra. Unfort
 
 (‘*Vibudhajanamanohārī kāriṣyateṣyam...prabandhaḥ*’ verse 11). In verses 12 and 13 he names three works viz. Mahārṇava, Kāmadhenu and Ratnamālā.
 
-Some later writers appear to ascribe the Kāmadhenu to Gopāla e. g. the Vyavahāratanakāra[^838] quoted below does so. It may be stated that Lakṣmīdhara makes disparaging remarks about his friend's work (in Introductory verse II) and that in the Kalpataru which extends over hundreds of printed pages neither Kāmadhenu nor Gopāla is mentioned by name even once, though on his own showing the Kāmadhenu had been completed by the time Lakṣmīdhara became chief *mantrin* of Govindachandra, after sanguinary battles in which he boasts that he had killed one hundred thousand (or several hundred thousands) of his king's enemies and undertook the composition of his huge digest, which must surely have taken about twenty years for being completed. Lakṣmīdhara's patron, the Gāhaḍavāla king Govindacandra, ruled from 1114 A. D. up to about 1155 A. D. (as will be shown later under Kalpataru). Therefore, it is proper to hold that the Kāmadhenu must have been composed about 1100 A. D. some years before the Kalpataru was begun (probably some years after 1114 A. D. when Govindacandra became king).
+Some later writers appear to ascribe the Kāmadhenu to Gopāla e. g. the Vyavahāraratnākara[^838] quoted below does so. It may be stated that Lakṣmīdhara makes disparaging remarks about his friend's work (in Introductory verse II) and that in the Kalpataru which extends over hundreds of printed pages neither Kāmadhenu nor Gopāla is mentioned by name even once, though on his own showing the Kāmadhenu had been completed by the time Lakṣmīdhara became chief *mantrin* of Govindachandra, after sanguinary battles in which he boasts that he had killed one hundred thousand (or several hundred thousands) of his king's enemies and undertook the composition of his huge digest, which must surely have taken about twenty years for being completed. Lakṣmīdhara's patron, the Gāhaḍavāla king Govindacandra, ruled from 1114 A. D. up to about 1155 A. D. (as will be shown later under Kalpataru). Therefore, it is proper to hold that the Kāmadhenu must have been composed about 1100 A. D. some years before the Kalpataru was begun (probably some years after 1114 A. D. when Govindacandra became king).
 
 Śrīdharācārya, author of Smṛtyarthasāra (verses 4 and 5), mentions Kāmadhenu among the authors and works on which he relies.[^839] The Hāralatā of Aniruddhabhaṭṭa, the Guru of king Ballālasena of Bengal, who composed his Dānasāgara in Śaka 1091 (1169 A. D.), mentions Kāmadhenu among the works he consulted and refers to its views several times.
 
 [^838]:
-    यस्य यथावत्सेवनात्सफलतां पुष्णाति कल्पद्रुमः सयः पल्लवमातनोति नितरां श्रीपारिजातोपि सः । गोपालस्य च कामधेनुरमणं काम्यार्थदुग्धं स्यं सन्दुग्धे स्वयमेष कस्य भवने सेव्यो न रत्नाकरः ॥ व्यवहाररत्नाकर ( Mitra's Notices vol. VI, p. 66 ). The words underlined are paronomastic, one meaning referring to names of works ; ‘Gopāla is here indicated as author of Kāmadhenu. The other sense of Gopāla is : Kṛṣṇa who takes delight in cows ( as said in the Purāṇas and legends ).
+    यस्योपायामृतसेचनात्सफलतां पुष्णाति कल्पद्रुमः सद्यः पल्लवमातनोति नितरां श्रीपारिजातोपि सः । गोपालस्य च कामधेनुरमणं काम्यार्थदुग्धं स्वयं सन्दुग्धे स्वयमेष कस्य भवने सेव्यो न रत्नाकरः ॥ व्यवहाररत्नाकर ( Mitra's Notices vol. VI, p. 66 ). The words underlined are paronomastic, one meaning referring to names of works ; ‘Gopāla is here indicated as author of Kāmadhenu. The other sense of Gopāla is : Kṛṣṇa who takes delight in cows ( as said in the Purāṇas and legends ).
 
 [^839]:
-    कामधेनोः प्रदीपे(प्रदर्शे)द्वयोः कल्पवृक्षस्तथा च । शम्भुद्विडिकेदार-लोलटाचैश्य भावितम् । मन्वाद्यनेकस्मृतिषु व्याख्यातृप्रतिपादितम् । स्मृत्यर्थसारं वक्ष्यामि सुधानुष्ठानसिद्धयेः(ये) ( Intro. verses 4-5 of स्मृत्यर्थसार, Ānandāśrama ed. ).
+    कामधेनौ प्रदीपे(प्रदर्शे)ऽब्धौ कल्पवृक्षलतासु च । शम्भुद्रविडेकेदार-लोल्लटाद्यैश्च भावितम् । मन्वाद्यनेकस्मृतिषु व्याख्यातृप्रतिपादितम् । स्मृत्यर्थसारं वक्ष्यामि सुखानुष्ठानसिद्धयोः(ये) ( Intro. verses 4-5 of स्मृत्यर्थसार, Ānandāśrama ed. ).
 
 [[P618]]
 
@@ -27,12 +27,12 @@ The Vivādaratnākara of Caṇḍeśvara relies upon the Kāmadhenu several time
 
 Many Dharmaśāstra works do not expressly state that Kāmadhenu was composed by Gopāla. Therefore, the question about the authorship of the Kāmadhenu has to be dealt with.
 
-The reply is that, bearing in mind the paronomastic verse of the Vyavahāratanākara cited above, and the facts that the Brahmacārikāṇḍa of the Kalpataru expressly mentions Gopāla as a friend of Lakṣmīdhara and also mentions the Kāmadhenu in verses 10 and 11 and does not expressly name anyone else as the author of the Kāmadhenu and as no early work ascribes it to any other person the authorship of Kāmadhenu, it should be held that Gopāla is the author of the Kāmadhenu.
+The reply is that, bearing in mind the paronomastic verse of the Vyavahāraratnākara cited above, and the facts that the Brahmacārikāṇḍa of the Kalpataru expressly mentions Gopāla as a friend of Lakṣmīdhara and also mentions the Kāmadhenu in verses 10 and 11 and does not expressly name anyone else as the author of the Kāmadhenu and as no early work ascribes it to any other person the authorship of Kāmadhenu, it should be held that Gopāla is the author of the Kāmadhenu.
 
 Aufrecht in his great Catalogue (I. 93) ascribes the authorship of the Kāmadhenu to Śambhu. Whence he derived this information is not clear. Śambhu is credited by the Smṛticandrikā with the authorship of a Smṛti digest (vide above under Śrīkara) and the Smṛtyarthasāra names him as one of its authorities. Therefore, Śambhu is certainly earlier
 
 [^840]:
-    यं कामधेनुरनुयाति सकल्पवृक्षो (क्षा?) यं सेवते निजफलाय स पारिजातः । तं वैरिगोविभिदमुच्चसहस्रदृष्टिं चण्डेश्वरं तुलयितुं कतमे भवन्तु ॥ विवादरत्नाकर ( verse at end ). There is a play on the words कामधेनु, कल्पवृक्ष ( कल्पतरु ) and पारिजात which are names of works on Dharmaśāstra also ; vide विवादरत्नाकर pp. 78, 80, 135, 651 for other references to Kāmadhenu.
+    यं कामधेनुरनुयाति सकल्पवृक्षो (क्षा?) यं सेवते निजफलाय स पारिजातः । तं वैरिगोत्रभिदमुच्चसहस्रदृष्टिं चण्डेश्वरं तुलयितुं कतमे भवन्तु ॥ विवादरत्नाकर ( verse at end ). There is a play on the words कामधेनु, कल्पवृक्ष ( कल्पतरु ) and पारिजात which are names of works on Dharmaśāstra also ; vide विवादरत्नाकर pp. 78, 80, 135, 651 for other references to Kāmadhenu.
 
 [^841]:
     गोपालमते त्वभिषेकादिपर्यन्तमुपलक्षणं यथादेशकालाचारं सिंहासनदानादि तद्व्यवहारादिति । राजनीतिरत्नाकर pp. 84-85.
@@ -48,10 +48,10 @@ As the Kāmadhenu had been completed some years at least before the project of t
 In the edition of the 1st volume of this history, the present author had quoted from a ms. of the Kalpataru (Benares College transcript) that the Kalpataru referred to the views of Prakāśa, Halāyudha, Kāmadhenu and Pārijāta. In his edition of the Kalpataru on Vyavahāra, Prof. Aiyangar (pp. 394-398) tries to show that the mss of the Kalpataru (which were only a few) were in bad shape and he held the ms. of Kalpataru had been tampered with when it mentioned ‘Prakāśa, Halāyudha-Kāmadhenu-Pārijātaprabhṛtayaḥ’ (vide p. 395 of the edition of Kalpataru on Vyavahāra). About the Kāmadhenu and Prakāśa at least, merely saying that the passage about them was later interpolated would not help the editor at all, as both are expressly named in the Introductory verses of the Brahmacārikāṇḍa. The Prakāśa is referred to in several ways as Smṛti-Mahārṇava or simply Mahārṇava or as Smṛti-Mahārṇava-prakāśa[^843] or as simply Prakāśa. The Mahā-
 
 [^842]:
-    राजतुल्ययोगक्षेमेण कामधेनुकृता अस्यैरपि व्यापारादिमुनीनां मादरात् । कृत्यरत्नाकर p. 30.
+    राजतुल्ययोगक्षेमेण कामधेनुकृता अन्यैरपि व्याघ्रादिमुनीनामादरात् । कृत्यरत्नाकर p. 30.
 
 [^843]:
-    Though the Vivādaratnākara and other Ratnākaras of Caṇḍeśvara generally refer to Prakāśa only, yet Caṇḍeśvara in his Kṛtyaratnākara ( p. 329 ) speaks of Smṛtimahārṇavaprakāśa in the words ‘जाबाल-मत्स्यपुराणवाक्यपरामर्शानिरसितकल्पवृक्षैः साधिमिश्रैतरपुत्रैरकोद्दिष्टकार्यमिति स्मृतिमहार्णवप्रकाशकार इति कल्पतरौ लिखितमन्यैशानुमोदितं तच्छु’.
+    Though the Vivādaratnākara and other Ratnākaras of Caṇḍeśvara generally refer to Prakāśa only, yet Caṇḍeśvara in his Kṛtyaratnākara ( p. 329 ) speaks of Smṛtimahārṇavaprakāśa in the words ‘जाबाल-मत्स्यपुराणवाक्यपरामर्शान्निरासकल्पवृक्षैः साग्निमिश्रैतरपुत्रैरकोद्दिष्टकार्यमिति स्मृतिमहार्णवप्रकाशकार इति कल्पतरौ लिखितमन्यैश्चानुमोदितं तल्लघु ’.
 
 [[P620]]
 
@@ -64,25 +64,25 @@ The bad state of the mss. of the Kalpataru will be briefly indicated under the s
 Aniruddhabhaṭṭa was a *guru* of king Ballālasena of Bengal (as stated in verses 6 and 7 of the Dānasāgara,[^844] which he composed in Śake 1091 (i. e. 1169 A. D.) with the assistance of his *guru*. Aniruddha is the author of two works viz. Hāralatā and Pitṛdayitā. Therefore, these works[^845] must be
 
 [^844]:
-    वेदार्थस्मृतिसंख्यादिपुरुषः श्रुत्वा वरेन्द्रीमठे नित्यानन्दोज्ज्वलधीविलासनयनः सारस्वतब्रह्मणि । पटुकर्माभवदार्यशालनिलयः प्रख्यातसत्यव्रती व्रतारेविं गीर्भ्यतिनिर्भरपरस्परानिरुद्धो गुरुः ॥ अधिगतसकलपुराणस्मृतिसारः श्रद्धया गुरोरस्मात् । कृत्स्नकर्मप्रावदानं दाननिबन्धं विधातुकामोपि ॥ ... श्रीबल्लाळनरेश्वरो विरचयत्येतं गुरोः शिक्षया । स्वप्रज्ञावधिदानसागरमयं श्रद्धावतां श्रेयसे ॥ दानसागर verses 6-7, 9.
+    वेदार्थस्मृतिसंख्यादिपुरुषः श्लाघ्यो वरेन्द्रीमले निस्तन्द्रोज्ज्वलधीविलासनयनः सारस्वतब्रह्मणि । षट्कर्माभवदार्यशीलनिलयः प्रख्यातसत्यव्रती वृत्रारेरिव गीष्पतिर्नरपतेरस्यामिरुद्धो गुरुः ॥ अधिगतसकलपुराणस्मृतिसारः श्रद्धया गुरोरस्मात् । कलिकल्मषावदानं दाननिबन्धं विधातुकामोपि ॥ ... श्रीबल्लाळनरेश्वरो विरचयत्येतं गुरोः शिक्षया । स्वप्रज्ञावधिदानसागरमयं श्रद्धावतां श्रेयसे ॥ दानसागर verses 6-7, 9.
 
 [^845]:
-    ( 1 ) अन एव जातमृते मृतजाते वा कुलस्य त्रिरात्रमिति हारीतवचनं कामधेनुकृता गर्भस्रातावाशौचप्रकरणे लिखितम् । हारलता p. 41 ; यानि च जातूकर्ण्यादिनाम्ना वचनानि लिखितानि तानि भोजदेव-विश्वरूप-गोविन्दराज-कामधेनुकृद्भिरलिखितत्वान्मत्स्यपुराणविरोधाच्च निर्मूलान्येव समूलत्वेपि म्लेच्छप्रायदेशे व्यवस्थितानि । हारलता 117 ; vide also हारलता pp. 173-74.
+    ( 1 ) अत एव जातमृते मृतजाते वा कुलस्य त्रिरात्रमिति हारीतवचनं कामधेनुकृता गर्भस्रावादाशौचप्रकरणे लिखितम् । हारलता p. 41 ; यानि च जातुकर्ण्यादिनाम्ना वचनानि लिखितानि तानि भोजदेव-विश्वरूप-गोविन्दराज-कामधेनुकृद्भिरलिखितत्वान्मत्स्यपुराणविरोधाच्च निर्मूलान्येव समूलत्वेपि म्लेच्छप्रायदेशे व्यवस्थितानि । हारलता 117 ; vide also हारलता pp. 173-74.
 
-    कात्यायनकल्पं सहकर्मभाष्यं गोपालमूर्धाभिषिक्तमतिर्दृष्ट्वा । सतां च वाच्यानि निशम्य सम्यग्मयज्ञविधिं श्राद्धविधिं विदध्ये ॥ first verse of पितृभक्ति ; स्मृतीः पुराणानि विलोक्य गूढं मूल्ला-गोपाठ-निबन्धने च । छन्दोगकृत्यानि दिनेन यानि नत्वा हरिं तत्र वदागि सारम् ॥ first verse of छन्दोगाह्निक.
+    कातीयकल्पं सहकर्कभाष्यं गोपालभूपालमतानि दृष्ट्वा । सतां च वाच्यानि निशम्य सम्यग्यजुर्विदां श्राद्धविधिं विधास्ये ॥ first verse of पितृभक्ति ; स्मृतीः पुराणानि विलोक्य गूढं भूपाल-गोपाल-निबन्धनं च । छन्दोगकृत्यानि दिनेन यानि नत्वा हरिं तत्र वदामि सारम् ॥ first verse of छन्दोगाह्निक.
 
 [[P621]]
 
 assigned to about 1150-1170 A. D. The Hāralatā on pp. 41, 117, 174 mentions Kāmadhenu expressly, as the quotations cited below will show and does not mention the Kalpataru at all.
 
-The Chandonuśāsana[^846] of Śrīdatta (about 1270-1300 A. D.) mentions the Kāmadhenu several times (e. g. on pp. 12, 16, 17, 22, 24, 46, 58 &c) and the first verses of that work and of Pitṛbhakti are interesting because they mention the doctrines of Gopāla and Bhūpāla; Bhūpāla is Bhoja and Gopāla is the author of the Kāmadhenu. One or two striking references to the Kāmadhenu are cited below in the footnote.
+The Chandogāhnika[^846] of Śrīdatta (about 1270-1300 A. D.) mentions the Kāmadhenu several times (e. g. on pp. 12, 16, 17, 22, 24, 46, 58 &c) and the first verses of that work and of Pitṛbhakti are interesting because they mention the doctrines of Gopāla and Bhūpāla; Bhūpāla is Bhoja and Gopāla is the author of the Kāmadhenu. One or two striking references to the Kāmadhenu are cited below in the footnote.
 
 The Ratnākaras of Caṇḍeśvara frequently quote the Kāmadhenu. The Kṛtyaratnākara mentions it on pp. 30 and 299. The Vivādaratnākara mentions Kāmadhenu very often as on pp. 80, 114, 135, 150, 409, 651. The Dāṇḍaviveka of Vardhamāna quotes Kāmadhenu 25 times and whenever the Kāmadhenu and Kalpataru are mentioned together it puts Kāmadhenu first; vide pp. 28, 34, 71, 138, 176, 217.
 
 But it seems to me that they are identical. Aufrecht in his great catalogue (I. 93) ascribes the authorship of the Kāmadhenu to Śambhu. Whence he derived this information is not clear. The authors and works cited by him do not, so far as I know, ascribe the Kāmadhenu to Śambhu. It is true that Śambhu is credited by the Smṛticandrikā with a digest on *dharmaśāstra* (vide note 503 above) and the Smṛtyarthasāra also names him as one of the authorities on which it
 
 [^846]:
-    अत एव कालायनोक्तः स्नानविधिः राजालिखितोपि शिष्टैरनुष्ठीयते कामधेनौ च लिखित इति राजालिखितोपि गोभिलादिलक्षणलिखित-कामधेनुसम्बन्धोद्योतितो लिखित इति सोऽयमेव इति । छन्दोगाह्निक p. 16 ( Nir. ed. ).
+    अत एव कात्यायनीयः स्नानविधिः राजालिखितोपि शिष्टैरनुष्ठीयते कामधेनौ च लिखित इति राजालिखितोपि गोभिलादिलक्षणलिखित-कामधेनुसम्बन्धोद्योते लिखित इति सोऽप्यादेय इति । छन्दोगाह्निक p. 16 ( Nir. ed. ).
 
 [[P622]]
 
@@ -91,7 +91,7 @@ relies. Hemādri[^847] also tells us that Śambhu was a *nibandhakāra* and refu
 As the Kāmadhenu is named as an authority by the Kalpataru and the Hāralatā it is certainly not later than 1100 A. D. It cannot be very much earlier since it is not mentioned by Medhātithi and the Mitākṣarā. It may therefore be assigned to the period between 1000 and 1100 A. D.
 
 [^847]:
-    द्वौ देवौ ... क्षुमयत्र वा ॥ यद्येकैकमुमयत्र वैययं विधिरेव न भवतीति तेनैवोक्तं तत्तु शम्भुमतिभिर्निबन्धकारैः प्राकृतमिति अस्माभिर्निर्दिष्ट्यते । चतुर्वर्ग० III. 1. p. 1148 ; तदेवं तावद् दक्षिणार्थो होमसङ्करभावे उपासनामात्राविति शम्भुग्रन्थेरप्रमत्तयः । चतुर्वर्ग० III. 1. p. 1331.
+    द्वौ दैवे...कमुभयत्र वा ॥ यद्यप्येकैकमुभयत्र वेत्ययं विधिरैव न भवतीति तेनैवोक्तं तत्तु शम्भुप्रभृतिभिर्निबन्धकारैः पराकृतमिति अस्माभिर्नाद्रियते । चतुर्वर्ग० III. 1. p. 1148 ; तदेवं तावद् दक्षिणाग्नौ होमस्तदभावे त्वासनाग्नाविति शम्भुशङ्खधरप्रभृतयः । चतुर्वर्ग० III. 1. p. 1331.
 
 [^848]:
-    यत्तूक्तं शम्भुना अव्यक्तधनत्वाद् दम्पत्योर्येन केनचिद्गृह्यमाणमुभयार्थमेवेति तन्न युक्तम् । स्मृति. II. p. 298.
+    यत्तूक्तं शम्भुना अव्यक्तधनत्वाद् दम्पत्योर्येन केनचिद्गृह्यमाणमुभयार्थमिति न विशेषो वक्तव्य इति तद्युक्तम् । स्मृतिच० II. p. 298.

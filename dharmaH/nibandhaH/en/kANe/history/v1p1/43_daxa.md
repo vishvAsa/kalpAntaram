@@ -24,5 +24,4 @@ This smṛti is certainly a very old one. All the [[quota tions|quotations]] fro
 
 In the Govt. [[Mos.|Mss.]] library at the B. O. R. Institute Poona, there is a ms. of Dakṣa (No. 120 of 1895-1902), which contains 197 verses on the same topics as above, many of which are identical with the Calcutta text. The Bombay University has also a similar ms. Vide I. O. Cat. No. 1320 p. 385 for a similar ms. in 197 verses.
 
-[^592]: यस्त्वात्मन्यतिरेकेण द्वितीयं नैव पश्यति । ब्रह्मभूतः स विज्ञेयो दक्षपक्ष उदाहृतः ॥ दक्षस्मृति VII. II (Ānan. ed.).
-[^593]: त्रिषु ये नोपनीयन्ते शूद्राः सौधन्वनाः क्षियः । गन्धलेपापक(र्षणं? मृदाम्भसा ॥ 
+[^592]: यस्त्वात्मव्यतिरेकेण द्वितीयं नैव पश्यति । ब्रह्मभूतः स विज्ञेयो दक्षपक्ष उदाहृतः ॥ दक्षस्मृति VII. 11 (Ānan. ed.).

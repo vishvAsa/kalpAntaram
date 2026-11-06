@@ -97,7 +97,7 @@ It is interesting to note that he states that the son of a brāhmaṇa from a k�
 
 a kṣatriya from a [[vaibya|vaiśya]] wife is a kṣatriya ( p. 814 on [[Vyava hāra|Vyavahāra]] ). Aparārka quotes Uśanas dozens of times, about nine quotations being in prose ( most of them on prāyaścitta ).
 
-[^251]: दण्डो वा दण्डशेषो वा शुल्कं तच्छेषमेव वा । न दातव्यं तु पुत्रेण ... व्यावहारिकम् ॥ मिता. and अपरार्क on याज्ञ. II. 42,
+[^251]: दण्डो वा दण्डशेषो वा शुल्कं तच्छेषमेव वा । न दातव्यं तु पुत्रेण यच्च न व्यावहारिकम् ॥ मिता. and अपरार्क on याज्ञ. II. 42.
 
 The [[Maskaribhāsya|Maskaribhāṣya]] on Gautama Dh. S. quotes prose [[pag sages|passages]] from Uśanas in many cases e. g. on I. 64, 66, II. 17 ( long ), 18, 48 ; V. 9, X. 27 ( about principles of taxation ), 31, 36, 52 ; XII. 6, 10, 36, 42 ; XIX. 14 ( long prose followed by six verses ) and also some verses as on XII. 19 ‘ Māṣo viṃśatibhāgastu jñeyaḥ Kārṣāpaṇasya tu | Kākani tu caturbhāgo māsasyaiva [[prakirtitahtiSmṛticandrikā|prakīrtitaḥ || ’. Smṛticandrikā]] quotes Uśanas 45 times on āhnika, vyavahāra and śrāddha ; vide Mit. on Yāj. II. 159 quoting Nārada.
 

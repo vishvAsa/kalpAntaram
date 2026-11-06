@@ -15,7 +15,7 @@ We saw above how [[Bihaspati|Bṛhaspati]] closely follows the extant Manusmṛt
 
 The order in which the topics of law [[appeard|appeared]] in Bṛhaspati can be settled with tolerable certainty from the quotations in Aparārka, Vivādaratnākara, Vīramitrodaya and other works.
 
-[^534]: Vide Kullūka on Manu 8. 153 : तासां स्वरूपमाह बृहस्पतिः । कायिका कर्मसंयुक्ता मासग्राह्या च कालिका । वृद्धेर्वृद्धिश्चक्रवृद्धिः कारिता ऋणिना कृता ॥
+[^534]: Vide कुल्लूक on मनु 8. 153 : तासां स्वरूपमाह बृहस्पतिः । कायिका कर्मसंयुक्ता मासग्राह्या च कालिका । वृद्धेर्वृद्धिश्चक्रवृद्धिः कारिता ऋणिना कृता ॥
 
 [[P485]] 
 
@@ -50,9 +50,7 @@ Bṛhaspati was probably the first jurist to make a clear distinction between ci
 
 भवति ।'
 
-[^537]: केवलं शास्त्रमाश्रित्य न कर्तव्यो हि निर्णयः । युक्तिहीने विचारे तु धर्महानिः
-
-प्रजायते ॥ चौरोऽचोरो साध्वसाधु जायेत व्यवहारतः । युक्तिं विना विचारेण माण्डव्यश्चौरतां गतः ॥ quoted by अपरार्क on याज्ञ. II. 1 ; compare नारद ( व्यवहारमातृका chap. 1. 42 ) : यात्यचौरोपि चोरत्वं चौरश्चायात्यचौरतामा अचौरश्चौरता प्राप्तो माण्डव्यो व्यवहारतः ॥ For the story of माण्डव्य who kept silent, vide Ādiparva 107. 
+[^537]: केवलं शास्त्रमाश्रित्य न कर्तव्यो हि निर्णयः । युक्तिहीने विचारे तु धर्महानिः प्रजायते ॥ चौरोऽचोरो साध्वसाधु जायेत व्यवहारतः । युक्तिं विना विचारेण माण्डव्यश्चौरतां गतः ॥ quoted by अपरार्क on याज्ञ. II. 1 ; compare नारद ( व्यवहारमातृका chap. 1. 42 ) : यात्यचौरोपि चोरत्वं चौरश्चायात्यचौरतामा अचौरश्चौरता प्राप्तो माण्डव्यो व्यवहारतः ॥ For the story of माण्डव्य who kept silent, vide Ādiparva 107. The story of Māṇḍavya occurs also in Ādiparva 63. 92–93 and is also mentioned in the Arthaśāstra of Kauṭilya, IV. 8. 12. The story in the epic differs from that stated in Arthaśāstra which says: दृश्यते ह्यचोरोपि चोरमार्गे यदृच्छया संनिपाते चोरवेषशस्त्रभाण्डसामान्येन गृह्यमाणः चोरभाण्डस्थोपवासेन वा, यथाणिमाण्डव्यः कर्मक्लेशभयादचोरः ‘चोरोस्मि’ इति ब्रुवाणः । In the epic, there is no mention of the fear of torture as in the Kauṭilīya. ‘Aṇi’ means ‘śūlāgra’. The Ādiparva ( 63. 92 ) has शूले प्रोतः पुराणर्षिश्चौरश्चौरशङ्कया । अणीमाण्डव्य इत्येवं विख्यातः स महायशाः ॥ . Ādiparva 107 gives further details. Thieves kept booty in his dwelling and concealed themselves. The king's officers asked him what way the thieves went. Māṇḍavya remained silent and the king's officers found out the thieves and the booty. So the officers reported the thieves and the sage and the king ordered that all be killed and so Māṇḍavya was impaled. The story of Māṇḍavya is again referred to in Anuśāsanaparva 18. 46-50.
 
 [[P486]]
 
@@ -62,13 +60,7 @@ Nārada and [[Bșhaspati|Bṛhaspati]] agree very closely in several [[res pects
 
 We have seen that Nārada departs from Manu in several essential matters. On the other hand [[Bșhaspati|Bṛhaspati]] follows Manu very closely. But he too differs on some points from Manu, for example, we saw above how Bṛhaspati dissents from Manu on the question of the divisibility of clothes &c. ([[uote|note]] 348 ). He appears to differ from Manu as to the maximum interest allowed on corn, fruit, wool and beasts of burden.[^538] Manu and Nārada are both silent as to the widow's right to succeed to her deceased husband's estate. But [[Bphaspati|Bṛhaspati]] agreeing with Yājñavalkya makes her the first heir of her sonless 
 
-The story of [[Mānda vya|Māṇḍavya]] occurs also in Ādiparva 63. 92–93 [[aod|and]] is also mentioned in the Arthaśāstra of Kauṭilya, IV. 8. 12. The story in the epic differs from that stated in Arthaśāstra which says: दृश्यते ह्यचोरोपि चोरमार्गे यदृच्छया संनिपाते चोरवेषशस्त्रभाण्डसामान्येन गृह्यमाणः चोरभाण्डस्थोपवासेन वा, यथाणिमाण्डव्यः कर्मक्लेशभयादचोरः [['akit sa gator: 1|‘चोरोसि’ इति ब्रुवाणः ।]] In the epic, there is no mention of the fear of torture as in the Kauṭiliya. "Aṇi' means '[[gūlāgra|śūlāgra]]'. The [[Ādi parva|Ādiparva]] ( 63. 92 ) has [[not sta garapenak 1 3TATUSOH Tea falera: \# HERFETT: 11.|शूले प्रोतः पुराणर्षिश्चौरश्चौरशङ्कया । अणीमाण्डव्य इत्येवं विख्यातः स महायशाः ॥.]] Ādiparva 107 gives further details. [[Thie. vos|Thieves]] kept booty in his dwelling and concealed themselves. The king's [[offloors|officers]] asked him what way the thieves [[wet|went]]. Māṇḍavya remained silent and the [[king'a|king's]] officers found out the thieves and the booty. So the officers reported the thieves and the sage and the king [[or dered|ordered]] that all be killed and so [[Māndarya was was|Māṇḍavya was]] impaled. The story of [[Māndarya|Māṇḍavya]] is again [[roforrod|referred]] to in [[Anuśasana parva|Anuśāsanaparva]] 
-
-18. 46-50.
-
-[^538]: हिरण्ये द्विगुणा वृद्धिस्त्रिगुणा वस्त्रकुप्यके । धान्ये चतुर्गुणा प्रोक्ता शंदे चाहो वेषु
-
-[[all|च ॥]] [[qatna|बृहस्पति]] quoted by [[34021on|अपरार्क on]] [[777.|याज्ञ.]] II. 39 : compare [[a lot|मनु 8. 151.]] 
+[^538]: हिरण्ये द्विगुणा वृद्धिस्त्रिगुणा वस्त्रकुप्यके । धान्ये चतुर्गुणा प्रोक्ता शदे वाह्येषु च ॥ बृहस्पति quoted by अपरार्क on याज्ञ. II. 39 : compare मनु 8. 151.
 
 [[P487]]
 
@@ -76,21 +68,11 @@ husband.[^539] Br. says 'those who say that clothes and the like are not liable 
 
 These considerations make it clear that Bṛhaspati is [[cer tainly|certainly]] later than Manu and Yāj. It is difficult to state his exact relationship to Nārada. He agrees more closely with Manu than Nārada does, but in some respects such as [[defini tions|definitions]] and the rights of women he shows great advance over Nārada. So he is probably a contemporary of or not much later than Nārada. He employs the word nāṇaka.[^540] He [[de fines|defines]] a dīnāra, also called "suvarṇa", as equal to twelve dhānakas and says that a [[Jhānaka|dhānaka]] was equal to four aṇḍikās, an aṇḍikā being a copper paṇa weighing a karṣa and bearing a stamp.[^541] This agrees with what Nārada says about dīnāra. Dr. Jolly ( S. B. E. vol. 33 p. 276 ) assigns Bṛhaspati to the 6th or 7th century A. D. But this is much later by several centuries than the evidence warrants. Kātyāyana was looked upon as an authoritative writer along with Nārada and [[Brhas pati|Bṛhaspati]] by Viśvarūpa and Medhātithi. This position he could not have attained in a century or two. So he cannot be [[plac ed|placed]] later than the 6th century. Kātyāyana in several places quotes Bṛhaspati as an authority. Aparārka quotes [[Kātya yana|Kātyāyana]] as saying that, according to [[Bșhaspati|Bṛhaspati]], pastures, ways, 
 
-[^539]: आम्नाये स्मृतितन्त्रे च लोकाचारे च सूरिभिः । शरीरार्धं स्मृता भार्या पुण्यापुण्य-फले समा ॥ यस्य नोपरता भार्या देहार्धं तस्य जीवति । जीवत्यर्धशरीरेर्थे कथमन्यः समाप्नुयात् ॥ सकुल्यैर्विषमानैस्तु पितृभ्रातृसनाभिभिः । असुतस्य प्रभीतस्य पत्नी तद्रागहारिणी ॥ बृहस्पति quoted by अपरार्क on याज्ञ. II. 135. The Mit. has the last verse.
+[^539]: आम्नाये स्मृतितन्त्रे च लोकाचारे च सूरिभिः । शरीरार्धं स्मृता भार्या पुण्यापुण्य-फले समा ॥ यस्य नोपरता भार्या देहार्धं तस्य जीवति । जीवत्यर्धशरीरेऽर्थे कथमन्यः समाप्नुयात् ॥ सकुल्यैर्विद्यमानैस्तु पितृभ्रातृसनाभिभिः । असुतस्य प्रमीतस्य पत्नी तद्भागहारिणी ॥ बृहस्पति quoted by अपरार्क on याज्ञ. II. 135. The Mit. has the last verse.
 
-फले समा ॥ यस्य नोपरता भार्या [[देहाधं|देहार्धं]] तस्य जीवति । [[जीवत्यर्धशरीरेथे|जीवत्यर्धशरीरेर्थे]] कथमन्यः समाप्नुयात् ॥ सकुल्यैर्विद्यमानस्तु पितृभ्रातृसनाभिभिः । असुतस्य [[CATER T TATTETRUTT Il leta|प्रमीतस्य पत्नी तद्भागहारिणी ॥ बृहस्पति]] quoted by [[34727*|अपरार्क]] on [[77.|याज्ञ.]] 
+[^540]: कुलीनदक्षानलसैः प्राज्ञैर्णाणकवेदिभिः । अपरार्क on याज्ञ. II. 259 ; वि. र. p. 711 and वीर० p. 383.
 
-II. 135. The Mit. has the last verse.
-
-[^540]: कुलीनदक्षानलसैः प्राज्ञैर्णाणकवेदिभिः । अपरार्क on याज्ञ. II. 259; वि. र. p. 711 and वीर° p. 383.
-
-p. 711 and [[at|वीर०]] p. 383.
-
-[^541]: Vide note 522 above. ताम्रकर्षकृता मुद्रा विज्ञेयः कार्षिकः पणः । स एव चाण्डिका भोक्ता ताञ्छतसहस्रं धानका ॥ ता द्वादश सुवर्णस्तु दीनाराख्यः स एव तु । बृह° quoted in स्मृतिच° p. 99, वि. र. p. 667. कात्यायन is quoted on same page by the स्मृतिच° for a similar definition.
-
-चाण्डिका प्रोक्ता ताश्चतस्रस्तु [[धानका|धानकाः]] ॥ ता द्वादश सुवर्णस्तु दीनाराख्यः स पर
-
-[[I TE|। बृह०]] quoted in [[Fifcato|स्मृतिच०]] p. 99, [[fā. T.|वि. र.]] p. 667. [[Pretra|कात्यायन]] is quoted [[op|on]] same page by the [[ta|स्मृतिच०]] for a similar definition.
+[^541]: Vide note 522 above. ताम्रकर्षकृता मुद्रा विज्ञेयः कार्षिकः पणः । स एव चाण्डिका प्रोक्ता ताश्चतस्रस्तु धानका ॥ ता द्वादश सुवर्णस्तु दीनाराख्यः स एव तु । बृह० quoted in स्मृतिच० p. 99, वि. र. p. 667. कात्यायन is quoted on same page by the स्मृतिच० for a similar definition.
 
 [[P488]]
 
@@ -102,7 +84,7 @@ clothes that are worn on the body, debts, ( or books for use, according to other
 
 [^544]: सर्वापलापं यः कृत्वा मिथ्याल्पमपि संवदेत् । सर्वमेव तु दाप्यं स्यादिति युक्तो बृहस्पतिः ॥ व्यवहारमातृका of जीमूत° p. 311.
 
-[^545]: अर्थिप्रत्यर्थिसांनिध्याननुभूतं तु यद्भवेत् । तद्ग्राह्यं साक्षिणो [[वाध्यमन्यवाह|वाक्यमन्यथा न]] बृहस्पतिः ॥ quoted in the व्यवहारमातृका of जीमूत° p. 317.
+[^545]: अर्थिप्रत्यर्थिसांनिध्याननुभूतं तु यद्भवेत् । तद्ग्राह्यं साक्षिणो वाक्यमन्यथाह बृहस्पतिः ॥ quoted in the व्यवहारमातृका of जीमूत० p. 317.
 
 [[P489]]
 

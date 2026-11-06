@@ -9,8 +9,7 @@ title = "39 Aṅgiras"
 
 Aṅgiras is one of the ten primordial sages mentioned in Manusmṛti I. 34-35). It is [[&|a]] very ancient [[oame|name]] even in the [[Rgverle|Ṛgveda]]. On Yāj. I. 50 Viśvarūpa quotes a [[verge|verse]] of Aṅgiras that what is done according to one's [[owo|own]] will without [[follow ing|following]] the dictates of Śāstra is fruitless.[^578] On Yāj. III. 248 Viśvarūpa says that the [[vrutie|vrata]] called Vajra [[wu8|was]] prescribed by Aṅgiras for [[Brāhmunas|Brāhmaṇas]] guilty of deadly sins. Viśvarūpa (on Yāj. III. 255) quotes two verses of [[Argiras|Aṅgiras]] on the prāyaścitta for [[killine|killing]] the wife of a [[brāhinana|brāhmaṇa]] who has kindled the sacred fires for killing wives of other [[brahmanas|brāhmaṇas]] and kṣatriyas and vaiśyas. On Yāj. III. 266 he quotes two verses of
 
-[^577]: अनिर्दिष्टाच्च निर्दिष्टमेकत्र च विलेखितम् । विशेषलिखितं ज्याय इति कात्या- मनोब्रवीत् ॥ परा. मा. vol. III. part I. p. 235.
-[^578]: स्वाभिप्रायकृतं कर्म यत्तु धर्मविवर्जितम् । क्रीडाकर्मैव बालानां निष्प्रयोजनम् ॥
+[^578]: स्वाभिप्रायकृतं कर्म यत्तु धर्मविवर्जितम् । क्रीडाकर्मैव बालानां तत्सर्वं निष्प्रयोजनम् ॥
 
 [[P508]]
 

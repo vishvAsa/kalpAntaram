@@ -27,9 +27,9 @@ Maskarin on Gaut. 23. 19 quotes a verse of Kāśyapa providing [[priyaścitta|pr
 
 “ Puṃsi maithunamāsevya yatnotsarge kṛte tathā | brahmacārī [[tathābhyesāt|tathābhyāsāt]] snātvātha haviṣā yajet [[Il|II]] ”.
 
-The Vanaparva ( 29. 35-40 ) sets out five [[gathās|gāthās]] which Kāśyapa declared about [[keunā|kṣamā]] ( forbearance or mildness ). Two of the five verses on kṣamā are quoted below :*[^259]
+The Vanaparva ( 29. 35-40 ) sets out five [[gathās|gāthās]] which Kāśyapa declared about [[keunā|kṣamā]] ( forbearance or mildness ). Two of the five verses on kṣamā are quoted below :[^*]
 
-[^259]: लशुनपलाण्डुगृञ्जनकुक्कुटभक्षणे मेदःशुक्रपानेऽयाज्ययाजनेऽभोज्यभोजनेऽभक्ष्यभक्षणेऽगम्यागमने चैवं प्रायश्चित्तं ब्राह्मणेभ्यो निवेद्य षड्रात्रोपोषितश्चीर्णान्ते प्राच्या मुदीच्या दिशि गत्वा यत्र ग्राम्यपशूनां शब्दो न श्रूयते तस्मिन्देशेऽग्निं प्रज्वाल्य ब्रह्मासनमास्तीर्य तत्प्रणीतेन विधिना पुनःसंस्कारमर्हति ।
+[^259]: लशुनपलाण्डुगृञ्जनकुक्कुटभक्षणे मेदःशुक्रपानेऽयाज्ययाजनेऽभोज्यभोजनेऽभक्ष्यभक्षणेऽगम्यागमने चैवं प्रायश्चित्तं ब्राह्मणेभ्यो निवेद्य षड्रात्रोपोषितश्चीर्णान्ते प्राच्यामुदीच्यां दिशि गत्वा यत्र ग्राम्यपशूनां शब्दो न श्रूयते तस्मिन्देशेऽग्निं प्रज्वाल्य ब्रह्मासनमास्तीर्य तत्प्रणीतेन विधिना पुनःसंस्कारमर्हति ।
 
 [^*]: क्षमा धर्मः क्षमा यज्ञः क्षमा वेदाः क्षमा श्रुतम् । ... क्षमा तेजस्विनां तेजः क्षमा ब्रह्म तपस्विनाम् ॥ वनपर्व 29. 36 and 40. The Udyogaparva ( 38. 48 ) points out one defect about forbearance or mildness : एकः क्षमावतां दोषो द्वितीयो नोपपद्यते । यदेनं क्षमया युक्तमशक्तं मन्यते जनः ॥
 

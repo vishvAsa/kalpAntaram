@@ -8,33 +8,33 @@ title = "111 Kamalākarabhaṭṭa"
 Kamalākarabhaṭṭa was one of the foremost scions of the Bhaṭṭa family. He was a grandson of the famous Nārāyaṇabhaṭṭa and a son of Rāmakṛṣṇabhaṭṭa. He was one of three brothers, the eldest being Dinakara *alias* Dīvākara[^1419] and the youngest was Lakṣmaṇabhaṭṭa;[^1420] who studied under Kamalākarabhaṭṭa. Kamalākarabhaṭṭa's father Rāmakṛṣṇa also was a very[^1421] learned man and a profound *mīmāṁsaka* and his mother Umā immolated herself as a *satī*. Kamalākara was a man of profound erudition and composed works on almost every śāstra. In some of his own works there are high eulogies of his learning and proficiency in Tarka, Nyāya, grammar, mīmāṁsā (in both the schools of Kumārila and Prabhākara), Vedanta, Poetics, dharmaśāstra and Vedic sacrifices.[^1422] He composed more than twenty-two works. At the end of his Vivādatāṇḍava it is
 
 [^1419]:
-    विस्तुमाप्यपराट्टकालोकमीडनीयविषयः । ज्यायांसः श्रान्तः सुहृदिवाकरसुधांशोः ॥ 6th Intro. verse of निर्णयसिन्धु. दीवाकर is a *deśya* word meaning श्रान्त according to शब्दकल्पद्रुम on अमर. विस्तुमाप्य is a form of Viṣṇu, worshipped at Benares.
+    बिन्दुमाधवपादाम्भोजरोलम्बीकृतविग्रहम् । ज्यायांसं भ्रातरं भट्टदिवाकरमुपासहे ॥ 6th Intro. verse of निर्णयसिन्धु. रोलम्ब is a deśya word meaning भ्रमर according to क्षीरस्वामी on अमर. बिन्दुमाधव is a form of Viṣṇu, worshipped at Benares.
 
 [^1420]:
-    अग्रीय लक्ष्मणभट्टेन कमलाकरसोदरात् । आचार्याचे द्विविप्त यथामति दिव्यत्यसे ॥ 7th Intro. verse of आचारसंग्रह.
+    अधीत्य लक्ष्मणाख्येन कमलाकरसोदरात् । आचाररत्नं सुधिया यथामति वितन्यते ॥ 7th Intro. verse of आचाररत्न.
 
 [^1421]:
-    यो भ्रातृचयमानवर्णकर्णधारः शान्तान्तरेव निखिलेष्वपि समर्थितः । योन्य श्रमः किल कृतः कमलाकरेण प्रोत्सार्हमानः सुधिया दुरधर्ममूलाः ॥ ‘ निर्णयसिन्धु ’ at the end of 2nd परिच्छेद.
+    यो भाट्टतन्त्रगहनार्णवकर्णधारः शास्त्रान्तरेषु निखिलेष्वपि मर्मभेत्ता । योत्र श्रमः किल कृतः कमलाकरेण प्रीतोऽमुनास्तु सुकृती बुधरामकृष्णः ॥ ‘ निर्णयसिन्धु ’ at the end of 2nd परिच्छेद.
 
 [^1422]:
-    तर्के दुस्समयेः फणितिमणितिः पाणिनीये प्रयोगे । न्याये प्रायः प्रगल्भः प्रकटित-पटिमा भाङ्गासम्प्रदाये । ग्रामे प्राभाकरेऽपि प्रथितमित्युदयतावेदान्तसिद्धान्तः । स्त्रीते साहित्यविद्यान्युनगलितगिरांशेषु यद् ॥ from काव्यप्रकाशव्याख्या D. C. ms. No. 433 of 1895-1902.
+    तर्के दुस्तर्कमेधः फणिपतिभणितिः पाणिनीये प्रपञ्चे । न्याये प्रायः प्रगल्भः प्रकटितपटिमा भाट्टशास्त्रप्रबन्धे । प्राभः प्राभाकरीये पथि प्रथितदुरूहान्तवेदान्तसिन्धुः । श्रौते साहित्यकाव्ये प्रचुरतरगतिर्धर्मशास्त्रेषु यश्च ॥ from काव्यप्रकाशव्याख्या D. C. ms. No. 433 of 1895-1902.
 
 [[P926]]
 
 said that he composed the Nirṇayasindhu, a commentary on the Vārttika (of Kumārila), a work on the *mīmāṁsā* (śāstrāttva) and a series of 20 other works.[^1423] At the end of a ms. of the Śāntiratna in the Bhau Daji collection there is a list of 22 works of his out of which the Nirṇayasindhu is said to have been the first.[^1424] More than half of these works are concerned with topics
 
 [^1423]:
-    येन कारिति प्रोक्ता वार्तिकटीका चान्या विसिधानमूला । श्रीरामकृष्णसू-नुना यतेविचारं शास्त्रकारः ॥ Vide I. O. cat. p. 455 No. 1502 ; also vide O. C. ms. No. 122 of 1883-84 for a ms. of कमलाकर's commentary on the first pāda of the 2nd chap, called माथुरी of the तन्त्रवार्तिक.
+    येनाकारि प्रोद्गता वार्तिकस्य टीका चान्या विंशतिग्रन्थमाला । श्रीरामकृष्णद्वयोरर्पिता निर्णयेषु सिन्धुः शास्त्रे तत्त्वकौतूहले च ॥ Vide I. O. cat. p. 455 No. 1502 ; also vide D. C. ms. No. 122 of 1883-84 for a ms. of कमलाकर's commentary on the first pāda of the 2nd chap. called भावार्थ of the तन्त्रवार्तिक.
 
 [^1424]:
-    आदौ निर्णयसिंहसुत वार्तिके दिण्णपुणि पुनः । काव्यप्रकाशव्याख्या दाने च कमलाकरः, शान्तिरत्नेन तुत संग्रहः शब्दानन्दकरः ॥ श्रीवराहमिहिराद्याः ...[[??]] ।। ‘ निर्णयसिन्धु ’ at the end of 2nd परिच्छेद. मीमांसा सप्त-शास्त्रार्थसङ्ग्रहः ।। मीमांसा च सप्त शास्त्रार्थानां विवरणं ।। कृतो निर्णयसिन्धुरादौ ...[[??]] ।। द्वादश-शिवसंहिता च प्रायश्चित्तवर्जिता ।। चण्डेश्वरः स्वपुरोहितः सन् सर्वं शान्तिरत्ने लिखत् ।। इति संस्थापितं काशीस्थश्रीरामकृष्णप्रतिष्ठितानि शिवालयानि ...[[??]] ।। 22 verses: 7, 8, and 14.
+    आदौ निर्णयसिन्धुस्तु वार्तिके टिप्पणी पुनः । काव्यप्रकाशागा व्याख्या दाने च कमलाकरः ॥ शान्तिरत्नं ततः पूर्वव्रतयोः कमलाकरः । ग्रन्थो वेदान्तरत्नं च सभादर्शकुतूहलम् ॥ प्रायश्चित्ते रत्नमेकं व्यवहारे तथापरम् । बह्वृचाह्निकमन्यच्च गोत्रप्रवरदर्पणः ॥ रत्नं कर्मविपाकाख्यं कार्तवीर्यस्य पद्धतिः । सोमप्रयोगः शूद्राणां धर्मो रुद्रस्य पद्धतिः ॥ टिप्पणी च तथा शास्त्रदीपिकालोकसंज्ञितः । मीमांसायां तथा शास्त्रतत्त्वस्य कमलाकरः ॥ सर्वतीर्थविधिश्चैव भक्तिरत्नं तथोत्तमम् । रामकृष्णसुतेनेत्थं कमलाकरशर्मणा । द्व्यधिका विंशतीनां च ग्रन्थानां रत्नमालिका । सेवां कर्तुमशक्तेन ह्यर्पिता रामपादयोः ॥ concluding verses of शान्तिरत्न. The verses enumerating the 22 works are found not in all mss. of the Śāntiratna, but occur in the ms. described in Prof. Velankar's Cat. of Sanskrit and Prakrit Mss. in the Library of the B. B. R. A. S. (p. 234) published in 1925. Though in the Śāntiratna it is stated that the Nirṇayasindhu was Kamalākara's first work, yet it appears probable that Kamalākara made additions to that work from time to time e. g. on p. 248 of the Nirṇayasindhu he says ‘अन्येषु मूलादिकृक्षेषु शान्त्यादि प्रयोगपारिजाते मत्कृते शान्तिरत्ने च ज्ञेयम्’; the word ज्ञेयं is rather of doubtful import. It is possible that he had then only planned to write that work. On p. 257 of the same work on ‘abdapūrti’ he refers to his work Śūdrakamalākara “विशेषो मत्कृते शूद्रधर्मे ज्ञेयः ” On p. 293 (of Nirṇaya. ) he mentions his Pravaradarpaṇa. The Śāntiratna is a large work dealing with rites for averting the evil consequences of portentous phenomena or for birth on certain tithis, nakṣatras (like Mūla, Jyeṣṭhā, Āśleṣā) or evil influences of planets. The Śāntiratna is also called Śāntiratnākara, as in the Ms. in the Bhau Daji Collection of Mss. of the Bombay Asiatic Society (No. 305 of that collection, the extent being 357 folios); vide Prof. Velankar's Cat. of the Mss. with the B. B. R. A. S. and No. 732, p. 235 and I. O. Cat. vol. III. (by Eggeling) pp. 568-69 No. 1758. He expresses his difference even from his very famous grandfather Nārāyaṇabhaṭṭa : e. g. on p. 214 he says “माघस्नानं काम्यमेवेति भट्टाः, वैष्णवादिवाक्ये सदावश्यशब्दान्नित्यत्वावागतेर्नित्यकाम्यमिति तु युक्तम्” Similarly on p. 215 he differs from Nārāyaṇabhaṭṭa “एतस्यार्थवादत्वात्किंचित्किंचिद्दिनत्रयमिति भट्टाः । तत्त्वं तु ‘सन्दिग्धेषु वाक्यशेषादिति न्यायात्तोट्ठस्याद्यैवेति । प्रयागं विनापि पाद्मे ‘असिन्योगे त्वशक्तोपि स्नायादपि दिनत्रयमिति । He differs from his father Rāmakṛṣṇabhaṭṭa also e. g. on p. 160. “आहिताग्नेः पिण्डपितृयज्ञकल्पेन श्राद्धं निषेधार्थमिदं न साकल्यादेरपि-इत्यस्मद्गुरवः । कृष्णपक्षश्राद्धमन्यदिनेषु प्राप्तमाहिताग्नेर्दर्श नियम्यते इति तु वयम् ।”
 
 [[P927]]
 
 of Dharmaśāstra, viz. the Nirṇayasindhu, the Dānakamalākara, Śāntiratna, Purtakamalākara, Vratakamalākara, Prāyaścittaratna, Vivādatāṇḍava, Bahvṛcāhnika, Gotrapravaradarpana, Karmavipāka, Sūdrakamalākara, Sarvatīrthavidhi. The Śūdrakamalākara, the Vivādatāṇḍava and the Nirṇayasindhu are the most famous of his works on dharmaśāstra. Brief references may be made here to some of the works of Kamalākarabhaṭṭa other than the three mentioned above. It appears from the introductory verses of the Vratakamalākara that Kamalākara intended to compose a digest on dharma called Dharmatattva in ten paricchedas[^1425] and not only carried it out but added some more works on dharma. It will be noticed that nine out of these 10 sections are enumerated under the same names at the end of the Śāntiratna quoted above, the one not named being the section on *ācāra*. Burnell mentions a work called Ācāradīpa by Kamalākara on daily duties and on the same page notices another work on āhnika by Kamalākara.[^1426] It is difficult to say whether both are names of the same work. It is not unlikely that the *ācāra* section of the digest Dharmatattva is the same as the Bahvṛcāhnika enumerated at the end of the Śāntiratna. There is a ms. of the Bahvṛcāhnika at Bikaner,[^1427] It deals with daily duties commencing with rising from one's bed at the *brāhma muhūrta*. In this work Kamalākarabhaṭṭa refers to his own Prāyaścittaratna, and
 
 [^1425]:
-    रामकृष्णानुजेन कमलाकरशर्मणा । क्रियते धर्मतत्त्वानि कमलानामिका ॥ सदादने कर्मपाकः शान्तिरत्ने तथैव च । आचारो व्यवहारश्च प्रायश्चित्ताधिकारिणौ ॥ शुद्धमर्मीतिर्विधिः परिच्छेदा दशादि तु । Intro. verses to व्रतकमलाकर, vide Mitra's Bikaner cat. p. 499, No. 1071.
+    रामकृष्णतनूजेन कमलाकरशर्मणा । क्रियते धर्मतत्त्वानां कमलानामिहाकरः ॥ व्रतदाने कर्मपाकः शान्तिपूर्ते तथैव च । आचारो व्यवहारश्च प्रायश्चित्तमथापरम् ॥ शूद्रधर्मस्तीर्थविधिः परिच्छेदा दशात्र तु । Intro. verses to व्रतकमलाकर, vide Mitra's Bikaner cat. p. 499, No. 1071.
 
 [^1426]:
     Vide Burnell's Tanjore cat. p. 135 b.
@@ -57,7 +57,7 @@ In the Bombay Asiatic Society's Library there is a ms. of his Saṁskāra-prayog
 His Tattva-kamalākara appears to have been a work of considerable interest dealing with the bearing of the doctrines and maxims of the Mīmāṁsā system on ritual and dharmaśāstra.[^1431] A ms. of it is dated *saṁvat* 1695 Caitra śukla 4 Friday (i. e. 9th March 1638 A. D.). Tattvakamalākara and Mīmāṁsā-kauthala are two separate works, incomplete mss. of which are in possession of the Asiatic Society of Bengal. Vide ‘Indian Culture’ Vol. V.
 
 [^1428]:
-    Vide Mitra's *Notices* vol. V. p. 138 No. 1881 for तुर्तकमलाकर ; in the Bombay Asiatic Society's collection of this.
+    Vide Mitra's *Notices* vol. V. p. 138 No. 1881 for पूर्तकमलाकर ; in the Bombay Asiatic Society's collection of this.
 
 [^1429]:
     Vide I. O. cat. p. 568 No. 1758 and BBRAS cat. p. 234 No. 729 for शान्तिरत्न.
@@ -79,7 +79,7 @@ I was able to secure a ms. of the Vivādatāṇḍava from the Mandlik collectio
 The Vivādatāṇḍava was published in “Our Heritage” Vol. VII part 2 pp. 1-23 edited by Dr. Herambanath Chattopadhyaya.
 
 [^1432]:
-    अपरार्क, कृत्यकल्पतरु, गोविन्दराज, जीमूतवाहन, दिव्यतत्त्व ( शेखर ? ), रघुनन्दन, मेधातिथि, मदनरत्न, हरिनाथ, विश्वरूप, हेमाद्रि, श्रीधर, शिवप्रिय, हरिहर, बालक, शूलपाणि, मदनपारिजात.
+    अपरार्क, कल्पतरु, गोविन्दराज, जीमूतवाहन, दिव्यतत्त्व (of गौड i. e. रघुनन्दन), भोज, मनुटीका, माधवीय, रत्नाकर, विश्वरूप, शिरोमणि, शिरोमणिभट्टाचार्य.
 
 [^1433]:
     Vide I. L. R. 33 Bom. 452 at p. 459, I. L. R. 9 Cal. 315 at p. 324, I. L. R. 30 Cal. 319 at p. 331 for references to विवादताण्डव.
@@ -95,13 +95,13 @@ Kamalākarabhaṭṭa was at least prepared to say, following his father Ramak�
 He first starts with the discussion that the Śūdra is not authorised to study the Vedas, but that he can listen to the recitation by Brāhmaṇas of smṛtis and purāṇas and religious rites are to be performed for Śūdras with Purāṇic *mantras*. Then the following subjects are dealt with:— worship of Viṣṇu and other deities by Śūdras and the observances of *vratas* and fasts by them; Śūdra can make gifts of works of public utility (*pūrta*); Śūdra can adopt a son; the conflicting views as to the number of saṁskāras for a Śūdra, most authors holding that he is entitled to ten saṁskāras (without Vedic *mantras*), viz. garbhādhāna, puṁsavana, sīmanta, jātakarma, nāmakaraṇa, śiśuniskramaṇa, annaprāśana, cūḍākarma, karnavedha, and vivāha; the five great
 
 [^1434]:
-    विवादो यत्र विदुषां प्रमोहो महतामपि । कमलाकरसूनोन दायभागः स उच्यते ।। first verse of विवादताण्डव.
+    विवादो यत्र विदुषां प्रमोहो महतामपि । कमलाकरसंज्ञेन दायभागः स उच्यते । first verse of विवादताण्डव.
 
 [^1435]:
-    आचार्याद्याः छन्दोगाः, निखिलमुनिः, मदनरत्न, माधवीय, रघुनारायणीय, बुद्धिविलोक ( of श्रीधर ), व्यासस्मृति, शौनक, शङ्खलिखित, हरिवंश, हरिहर.
+    आचार्यचूडामणि, तिथितत्त्व, मदनरत्न, माधवीय, रूपनारायणीय, शुद्धिविवेक ( of रुद्रधर ), शूलपाणि, श्रीदत्त, स्मृतिकौमुदी, हरिहरभाष्य.
 
 [^1436]:
-    पुराणमार्गेण द्वावेव वर्णा: क्षत्रिय वैश्यौ । इतरौ शूद्रवत् । युगे युगे स्थिता: । केवलं कालवशेन स्मृत्यर्थ: ।। इति कथं द्विजोत्कर्षतापि उक्तं । भवेत् । ...[[??]] ।। सर्व-रूपा: स्वकर्मस्ठा: क्षत्रिया वैश्याश्च सम्भवे कश्चिदेवालोक्यपट्ट: ॥ इति कमलाकर at end.
+    पुराणान्तरेपि-ब्राह्मणाः क्षत्रिया वैश्याः शूद्रा वर्णास्त्रयो द्विजाः । युगे युगे स्थिताः सर्वे कलावाद्यन्तयोः स्थितिः । अतः कथं द्विजसङ्करजा उक्ताः । मैवम् । ...प्रच्छन्नरूपाः स्वकर्मभ्रष्टाः क्षत्रिया वैश्याश्च सन्त्येव क्वचिदित्यस्मत्पितृचरणाः ॥ शूद्रकमलाकर at end.
 
 [[P931]]
 
@@ -110,10 +110,10 @@ daily yajñas were to be performed for the Śūdra according to the Vājasaneyas
 The Nirṇayasindhu or Nirṇayakamalākara is the most famous of Kamalākara's works. It is a monument of erudition, industry and lucidity. It has been judicially referred to as a work of authority.[^1438] I have used the Nirṇayasāgara edition of 1905 (with Marathi translation). In the whole range of nibandhakāras there is hardly any other writer, except perhaps Nīlakaṇṭha and Mitramiśra, who lays under contribution as many works as Kamalākara does. In the Nirṇayasindhu about one hundred smṛtis and over three hundred nibandhakāras are mentioned by name. In the introductory verses he expressly says that he pondered over the views of Hemādri, Mīdhava and other learned writers. The work is divided into three *paricchedas*. The following is a very concise statement of the contents of this voluminous work. The principal subject is to give decisive opinions as to the proper times for various religious acts; the various views about the year being solar, lunar, sidereal etc., months of four kinds, lunar, solar etc., saṁkrānti rites and gifts; intercalary month; *kṣayamāsa*; about *tithis*, *śuddhā* and *viddhā* (combined with another *tithi* on same day); *vratas*; the various *vratas* and festivals during the twelve months of the year; the *saṁskāras* from garbhādhāna onwards; sapiṇḍa relationship; consecration of images; auspicious times (*muhūrtas*) for various actions such as sowing operations, buying horses and cattle &c.; *śrāddha*;
 
 [^1437]:
-    This is interesting ‘ तथा गृह्या: पञ्चमहायज्ञा भवन्ति । ... ते च वाज-सनेयशाखायां क्वाचित् । इत्यादि बह्वचनेन इति गौडनिबन्धेषु दृश्यते । इदिलस्थापि विश्वाद्वकरणेष्वेवायुक्तम् ’ श्राद्धकल्पतरु p. 51 ; vide श्राद्धविवाचारश्च ( Jivananda vol. II p. 634 ) and मनस्सार ( vol. I, p. 792 ) for an explanation of this.
+    This is interesting ‘ तथा शूद्राणां पञ्चमहायज्ञाश्च भवन्ति । ...ते च वाजसनेयिशाखया कार्याः । शूद्रा वाजसनेयिन इति गौडनिबन्धे दक्षोक्तेः । हरिहरभाष्ये विवाहप्रकरणेप्येवमुक्तम् ’ शूद्रकमलाकर p. 51 ; vide शूद्रकृत्यविचारतत्त्व ( Jivananda vol. II. p. 634 ) and मलमासतत्त्व ( vol. I, p. 792 ) for an explanation of this.
 
 [^1438]:
-    I. L. R. 3 Bom. at p. 197 ; Khnshalchand v. Bai Mani I. L. R. 11 Bom. 247 at p. 254 ; I. L. R. 16 Bom. at p. 556 ; I. L. R. 49 Bom. 739 at p. 757 ; I. L. R. 9 Cal 315 at p. 324.
+    I. L. R. 3 Bom. at p. 197 ; Khushalchand v. Bai Mani I. L. R. 11 Bom. 247 at p. 254; I. L. R. 46 Bom. at p. 556 ; I. L. R. 49 Bom. 739 at p. 757 ; I. L. R. 9 Cal 315 at p. 324.
 
 [[P932]]
 
@@ -128,7 +128,7 @@ Though he expressly states in the Introductory verse 7 of the Nirṇayasindhu th
 Another interesting remark of Kamalākara shows that he probably introduced changes long after the Nirṇayasindhu was composed in 1612 A. D. In the Nirṇayasindhu (3rd pari. pur-
 
 [^1439]:
-    माघमासे तु पक्षस्य कृष्णे मन्दः समागते । चतुर्दश्यां तु संप्राप्ते रौद्रे संवत्सरे तदा ।। कार्ये सुर्य्यमपन्नेन्दो: शक्रवर्षे प्रजल्पिते ।। संपूर्णमिदं सिन्दोस्तत्पूर्तिर्नान्यथा मतिः ॥ ...[[??]] ।। verse at end ; vide Notices of mss. by Haraprasada Śāstri vol. X, p. 324, No. 1233 where the reading is माघामावास्यासमन्विते.
+    वसुऋतुऋतुभूमिते गतेब्दे नरपतिविक्रमतोथ याति रौद्रे । तपसि शिवतिथौ समापितोयं रघुपतिपादसरोरुहेर्पितश्च ॥ 6th verse at end; vide Notices of mss. by Haraprasāda Śāstri vol. X, p. 324, No 1233 where the reading is वसुधातुऋतुभूमिते.
 
 [[P933]]
 
@@ -137,13 +137,13 @@ vārdha p. 250 on the subject of adoption) he holds that there is ownership in t
 He desired his work to be encyclopaedic and therefore, he remarks that the rites called Ṣaṭacaṇḍī and Sahasracaṇḍī are not described in the great works (on Dharmaśāstra), but as those rites had become popular among people, he describes them in the Nirṇayasindhu (in his section on Navarātra pp. 185-86).[^1441] He quotes the Triṣṭhalīśetu of Nārāyaṇabhaṭṭa dozens of times (e. g. pp. 16, 89, 59, 151, 208, 209, 214, 274 &c.) and also the Prayogaratna of the same, though not so frequently (as on pp. 53, 259, 266, 267). He quotes Raghunandana's work frequently e. g. Tithitattva (vol. I. pp. 135-36) quotes four verses from Liṅgapurāṇa (Āśvine paurṇamāsyām tu &c.) which are quoted in the Nirṇayasindhu (p. 191, 2nd *pariccheda*). Similarly, about the *amāvāsyā* of Āśvina the Nirṇayasindhu (p. 200) mentions a passage quoted in Tithitattva[^1442] (Jivananda, vol. I p. 185).
 
 [^1440]:
-    तस्मादपुत्रेष्विौषधीवंश्चे सत्वे समवेत । पुत्रे स्वत्वमायं वदेन्न पुत्रक्रियादि-हुनेर्निर्वेद्यनादिति हेतुद्धेतुः । दायधर्मविहितव्यवहारयोग्यः मूल्यं एव । निर्णय p. 250 ; vide व्यवहारमयूख p. 92 ( my edition ) ‘ मनादिति मार्थेपि स्वत्वमात्रेन तस्यामुपेयेते तदभावात् ’ On p. 187 about Navaratrapariṇaya he employs the words इति मूल्यैकितः परस्तात् । It is difficult to say whom he here dubs as fool. On page 600 he regards a remark of Śūlapāṇi as due to foolishness. गीता: सुगुणविभूषितैः कृत्यदिनकरे मल्लेवरपुरे गणैः पुण्ड्रेति इदं इन्द्रदेवार-प्रतिमलि शूलपाणि : । तेन दिवोदासमहादेवश्च मालिकादि तनोम्यहं तम् ।।
+    तस्माद्यथेष्टविनियोगाईत्वं स्वत्वं भवत्येव । पुत्रे स्वत्वाभावं वदन् पुत्रक्रयविक्रयादिशुनःशेपविक्रयादिश्रुतिलिङ्गाद् दासक्रयविक्रयादिव्यवहारायोगाद् मूर्ख एव । निर्णय० p. 250; vide व्यवहारमयूख p. 92 (my edition) ‘गवादाविव भार्यायां स्वत्वाभावेन तस्यामुत्पन्नेऽपत्ये तदभावात्।’ On p. 187 about Navarātrapāraṇā he employs the words इति मूर्खोक्तिः परास्ता. It is difficult to say whom he here dubs as fool. On page 600 he regards a remark of Śūlapāṇi as due to foolishness. गौडास्तु मृततिथ्यवधिके एकदिनाधिके माससंवत्सरपदं गौणं पूर्णेन्दे इति ईषदसमाप्तपरत्वमिति शूलपाणिः । तेन द्वितीयादिमासादावाद्ये मासिकादि तन्मूर्यकृतम् ।
 
 [^1441]:
-    On page 186 he states व्रतं ह्येषां पञ्चमहायज्ञेषु नास्ति तस्मात् पञ्चमहायज्ञकर्मादि दिक् ।।
+    On page 186 he states एतद् द्वयं यद्यपि महानिबन्धेषु नास्ति तथापि प्रचरद्रूपत्वादुक्तमिति दिक् ।
 
 [^1442]:
-    अत्र विशोऽग्नितिथिष्ठे ईदृगै । आहुने पौर्णमास्यां तु व्रजेऽप्याग्ने निषेधः । कौमुदी सा समाख्याता कार्यो लोकप्रसिद्धितः ॥ कौमुद्यां यद्वेष्णी...अन्नेः श्रीकर: कौमुदी व्रतं ॥ ( Continued on the next page )
+    अत्र विशेषस्तिथितत्त्वे लैङ्गे । आश्विने पौर्णमास्यां तु चरेज्जागरणं निशि । कौमुदी सा समाख्याता कार्या लोकैर्विभूतये ॥ कौमुद्यां पूजयेल्लक्ष्मीं...अक्षैः क्रीडां करोति यः ॥ निर्णयसिन्धु p. 191; तिथितत्त्व (vol. I. pp. 135-36); उभयतः प्रदोषव्याप्तौ परदिन एवं युग्मात् । दण्डैको रजनीयोगो दशम्य स्यात्परेऽहनि । तदा विहाय पूर्वेद्युः परेह्नि सुखरात्रिका इति ज्योतिर्वचनाच्च । तिथितत्त्व p. 185 quoted on p. 200 of नि. सि.
 
 [[P934]]
 
@@ -154,10 +154,10 @@ The Nirṇayasindhu frequently mentions an author called Nārāyaṇa-vṛtti-k�
 He notes that the works of Gauḍa authors,[^1444] such as the Tithitattva, hold that, after an invitation to officiate at a śrāddha is given and accepted, if there is death of a relative of the person inviting a brāhmaṇa or a relative of the invitee dies, both are not affected by āśauca, since the Viṣṇusmṛti provides that there is no āśauca for the performer (of śrāddha) nor for the officiating priest after the invitation to officiate is given and accepted. The Nirṇayasindhu remarks that the text applies to marriage and not to śrāddhas, since the word ‘śrāddha’ does not occur therein.
 
 [^1443]:
-    कोङ्कणास्तु वराहपुराणस्थेन वाक्येन पठन्ति । आपस्ते श्रूयन्ते तु एकादश मातरः ।। यत्तेषां मते न मतमित्यत्र तत्रैव कथ्यम्यपाणम् ।। तदत्र सामूलरूपेण... ।। निर्णयसिन्धु p. 82.
+    कोङ्कणास्तु वराहपुराणस्थत्वेन वाक्यानि पठन्ति । आषाढे शुक्लपक्षे तु एकादश्यां महातिथौ । जयन्ती मत्स्यनाम्नेति तस्यां कार्यमुपोषणम् ।... तदत्र समूलत्वनिर्णये सति कल्पभेदेन व्यवस्था द्रष्टव्या । एताश्च तदुपासकानां नित्या अन्येषां तु काम्याः। निर्णयसिन्धु p. 82.
 
 [^1444]:
-    तिथितत्त्वदायादिशास्त्रे दानप्रयोजनं । आदौ प्रारभ्य श्राद्धादि सुगतिरिति विष्णुः । निर्णयसिन्धु p. 476 ; compare श्राद्धतत्त्व ( vol. II p. 290 ) ; ‘ आदावुपक्रमे' इति श्रुते: कुत्रापि नोपदेशात् प्रारब्ध श्राद्ध आशौचं न । तिथितत्त्वानुसारेण । सोऽपि श्राद्धम् । निर्णयसिन्धु विषयेऽपि श्राद्धमेव । किंतु तिथितत्त्वकारैः श्राद्धं वर्जयित्वा दशाहानि तिथिप्रकरणे । श्राद्धदिपि दशाहप्रकरणे विशेषं नात्र । श्राद्धं वा द्विरावृत्त्या श्राद्धे दशाहप्रकरणं स्यात् । श्राद्धतत्त्वेऽपि ...[[??]] हेमाद्रौ च श्राद्धकल्पतरौ ।
+    तिथितत्त्वादिगौडग्रन्थास्तु निमन्त्रणोत्तरं श्राद्धे प्रारम्भः स्यादिति स्मृतेरिति विष्णूक्तेः । निर्णयसिन्धु p. 476; compare शुद्धितत्त्व (vol. II p. 290); ‘आदित्यपुराणे । निवृत्ते कृच्छ्रहोमादौ ब्राह्मणादिषु भोजने । गृहीतनियमस्यापि न स्यादन्यस्य कस्यचित् । निमन्त्रितेषु विप्रेषु प्रारब्धे श्राद्धकर्मणि । निमन्त्रणाद्धि विप्रस्य स्वाध्यायाग्निरतस्य च । देवे पितृषु तृप्तेषु नाशौचं विद्यते क्वचित् ।... कस्यचिद् दातृभोक्त्रोरित्यर्थः । एव प्रारब्धश्राद्धेपि क्वचिदित्यनेन दातृभोक्त्रोराशौचाभावः । तथा च विष्णुः । व्रतयज्ञविवाहेषु श्राद्धे होमेऽर्चने जपे । प्रारब्धे सूतकं न स्यादनारब्धे तु सूतकम् । इति ।
 
 [[P935]]
 
@@ -168,10 +168,10 @@ In some matters the N. S. takes a position far in advance of what some orthodox 
 There are some interesting observations he makes. For example, if a man does not know his *gotra* and *pravara* he
 
 [^1445]:
-    प्रयोगरत्ने तु-वरवध्वोः प्रथमे तृतीये पञ्चमेऽथवापि । द्वितीयके वाथ चतुर्थके वा यद्गे विवाहमभिनन्दति । स्याद्विपत्तिस्तु तत्र मूलं न विद्यते । निर्णयसिन्धु 325.
+    प्रयोगरत्ने तु-वधूप्रवेशः प्रथमे तृतीये शुभप्रदः पञ्चमकेऽथवाह्नि । द्वितीयके वाथ चतुर्थके वा षष्ठे वियोगामयदुःखदः स्यादित्युक्तं तत्र मूलं चिन्त्यम् । निर्णयसिन्धु 325.
 
 [^1446]:
-    सहस्राध्यां तु श्राद्रानां नाधिकारः । श्रीणमनुप्रपन्नानां श्राद्राणां च नैवेश । श्रापने नातिकरोति विष्णोः शङ्करस्य वा ।। इति ब्रह्मनारदीयश्चन्द्रोक्तिर्विष्णुस्रोतोसि पितामहवचन । चतुर्वर्गेणि पुनरप्युक्तमेव नाधिकारिणां शूद्रस्य विषये पुनरुक्तं भवेदिति युक्तं प्रयोगः ।। इति. p. 337. The Devīpurāṇa verse quoted in the Kṛtyakalpataru is : चतुर्वर्गेण शिष्ये प्रतिष्ठाप्य सुखार्थिने । शेरोऽपि चतुर्वर्गेणानां तथा मन्तः । मातरः सर्वलोकेषु-स्थाप्याः पूज्याः सुरोत्तमाः । ( p. 336 of निर्णयसिन्धु ).
+    प्रतिष्ठायां तु शूद्रादीनां नाधिकारः । स्त्रीणामनुपनीतानां शूद्राणां च जनेश्वर । स्थापने नाधिकारोस्ति विष्णोर्वा शङ्करस्य वा ।.. इति बृहन्नारदीयस्कान्दोक्तेरिति त्रिस्थलीसेतौ पितामहचरणाः । चतुर्वर्णैरिति पूर्वोक्तवचनाद्विष्ण्वादिप्रतिष्ठायां शूद्रस्य विकल्प इति युक्तं पश्यामः । नि. सि. p. 337. The Devīpurāṇa verse quoted in the Kṛtyakalpataru is : चतुर्वर्णैस्तथा विष्णुः प्रतिष्ठाप्यः सुखार्थिभिः । भैरवोपि चतुर्वर्णैरन्यजानां तथा मतः । मातरः सर्वलोकैस्तु-स्थाप्याः पूज्याः सुरोत्तमाः । (p. 336 of निर्णयसिन्धु).
 
 [[P936]]
 
@@ -182,7 +182,7 @@ People in the medieval times seem to have been frightened by the very names of s
 The Nirṇayasindhu is a very large work and is divided into three *Paricchedas* (sections). The first section (pp. 1-77) deals with *Kāla* divisions viz. Abda (year), ayana (half year), *ṛtu* (seasons), *māsa* (months), *divasa* (days); the year is of five sorts acc. to Mādhavā viz. Sāvana, Saura, Cāndra, Nākṣatra and Bārhaspatya; the year for Dharmaśāstra purposes, acc. to Hemādri, is only of three kinds (the last two not being required in Dharmaśāstra); months are twelve; the cāndra years have respectively sixty names Prabhava, Vibhava &c.; Malamaṇa, Kṣayamaṇa; *tithis* are either *śuddhā* (that is not mixed with or joined to another tithi on the same day) or *viddhā* (joined to another tithi on the same day); *vratas*; installations of images;
 
 [^1447]:
-    स्त्रीगोत्राभावे तु सवर्णाः । अश्वत्थोदुम्बरौ वा । पुरोहितस्य वा आचार्यस्य वा गोत्रं प्रवरं वा । आचार्यस्यैव गोत्रं ग्राह्यम् । ज्ञानाभावे तु यः कश्चित् ततो गोत्रं भवेत् ।। अथवा जमदग्निरेव गोत्रं निर्णयसिन्धु pp. 301-2.
+    स्वगोत्राद्यज्ञाने तु सत्याषाढः । अथाज्ञातबन्धोः पुरोहितप्रवरेणाचार्यप्रवरेण वेति । आचार्यगोत्रप्रवरानभिज्ञस्तु द्विजः स्वयं दत्त्वात्मानं तु कस्मैचित् तद्गोत्रप्रवरो भवेत् ॥ यद्वा स्वगोत्रप्रवरविधुरो जमदग्निजः ।... दिवोदासीयेपि-स्वगोत्रप्रवराज्ञाने जमदग्निमुपाश्रयेत् । निर्णयसिन्धु pp. 301-2.
 
 [[P937]]
 
