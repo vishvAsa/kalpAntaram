@@ -55,7 +55,7 @@ While ancient Dharmasūtras like Gautama allowed niyoga, there were other dharma
     अविशिष्टं हि परतः पाणेः । तद्व्यतिक्रमे खलु पुनरुभयोर्नरकः । नियमारम्भणो हि वर्षीयान्...भवेदेवमात्मानमारभेदित्यर्थः... आप. ध. सू. II. 10. 27. 5-7.
 
 [^1417]:
-    An औपजङ्घनि or हारीति is a teacher mentioned in the बृहदारण्यक at the end of Bṛ. Up. II. 6 and IV. 6. बृहदारण्यक...[[??]]... बौ. ध. सू. II. 2. 39-41 = आप. ध. सू. II. 6. 13. 6 (with slight variations). मत्स्यपुराण 49. 13 has the half verse ...तेतोर्धां नयते पुत्रः परेतं यमसादनम्... । The last verse occurs in Vas. 17. 9 also.
+    An औपजन्धनि or-ङ्घनि is a teacher mentioned in the वंश at the end of Bṛ. Up. II. 6 and IV. 6. इदानीमहमीर्ष्यामि स्त्रीणां जनक नो पुरा । यतो यमस्य सादने जनयितुः पुत्रमब्रुवन् ॥ रेतोधाः पुत्रं नयति परेत्य यमसादने । तस्माद्भार्यां रक्षन्ति बिभ्यतः पररेतसः ॥ अप्रमत्ता रक्षथ तन्तुमेतं मा वः क्षेत्रे परबीजानि वाप्सुः । जनयितुः पुत्रो भवति सांपराये मोघं वेत्ता कुरुते तन्तुमेतम् ॥ बौ. ध. सू. II. 2. 39-41 = आप. ध. सू. II. 6. 13. 6 (with slight variations). मत्स्यपुराण 49. 13 has the half verse रेतोधां नयते पुत्रः परेतं यमसादनात् ।. The last verse occurs in Vas. 17. 9 also.
 
 ## Niyoga
 [[P603]]
@@ -70,7 +70,7 @@ The Viṣṇu Dh. S. (15,3) contains an innovation which is not found in the sū
     नियुक्तायां सपिण्डेनोत्समरणेन चोपावृतः क्षेत्रजो द्वितीयः । विष्णुधर्मोत्तर 15. 3.
 
 [^1420]:
-    The objector says 'कृष्णद्वैपायनस्य युक्तिसं... कर्म... विशिष्ट... श्रुते... फल... उप... पादन... सङ्गः ।' (प्रभाकर p. 203 on I. 3. 7) and the reply is '...[[??]]...' (प्रभाकर p. 208 on the same sūtra).
+    The objector says 'कृष्णद्वैपायनस्य गृहीतनैष्ठिकब्रह्मचर्यस्य विचित्रवीर्यदारेष्वपत्योत्पादनप्रसङ्गः' (तन्त्रवार्तिक p. 203 on जै. I. 3. 7) and the reply is 'द्वैपायनस्यापि गुरुनियोगादपतिरपत्यलिप्सुर्देवराद्गुरुप्रेरिताद्दृतुमतीयात् इत्येवमागमान्मातृसंबन्धभ्रातृजायापुत्रजननं प्राक्कृतपश्चात्करिष्यमाणतपोबलेन नातिदुष्करम् । अन्योपि यस्तादृक्तपोबलो निर्वहेत्स कुर्यादेव । तन्त्रवार्तिक p. 208 (on the same sūtra).
 
 [[P604]]
 the objector finding fault with Vyāsa by saying that Vyāsa followed Gaut. (18.4-5) and the urgent request of his mother and besides his tapas saved him from the effects of violation of dharma. Pāṇḍu himself is said to have asked Kuntī to procreate sons for him by niyoga from a brāhmaṇa endowed with great tapas (Ādi, 120) and tells her certain stories of niyoga (Ādi. 120-123) and winds up by saying that three sons is [^1421] the limit and that if a fourth or a fifth were procreated the woman would be svairiṇī (a wanton woman) and bandhakī (harlot). Ādiparva (chap. 64 and 104) states that when Paraśurāma tried to exterminate the kṣatriyas thousands of kṣatriya widows approached brāhmaṇas for the procreation of sons. [^1422] Vide Ādiparva, chap. 104 and 177, Anuśāsana, chap. 44.52-53, Śānti 72. 12 for other references and examples of niyoga. [^1423]
@@ -79,7 +79,7 @@ the objector finding fault with Vyāsa by saying that Vyāsa followed Gaut. (18.
     नातश्चतुर्थं प्रसवमापत्स्यन्ति बदन्त्युत । अतः परं स्वैरिणी स्याद्बन्धकी पञ्चमे भवेत् ॥ आदिपर्व 123. 77.
 
 [^1422]:
-    ब्राह्मणात् क्षत्रिया राजन्यं द्विजातीय... ...[[??]]... आदिपर्व 64. 5-7; एवमन्ये महेष्वासा ब्राह्मणैः क्षत्रिया भुवि । जाताः परमधर्मज्ञा वीर्यवन्तो महाबलाः ॥ आदिपर्व 104. 56; ब्राह्मणो गुणवान्... आदि. 105. 2; परशुरामेण यथा... शान्ति 72. 12.
+    ब्राह्मणान् क्षत्रिया राजन् सुतार्थिन्योऽभिचक्रमुः । ऋतावृतौ नरव्याघ्र न कामान्नानृतौ तथा ॥ तेभ्यश्च लेभिरे गर्भं क्षत्रियास्ताः सहस्रशः । आदिपर्व 64. 5-7; एवमन्ये महेष्वासा ब्राह्मणैः क्षत्रिया भुवि । जाताः परमधर्मज्ञा वीर्यवन्तो महाबलाः ॥ आदिपर्व 104. 56; ब्राह्मणो गुणवान्कश्चिद्धनेनोपनिमन्त्र्यताम् । विचित्रवीर्यक्षेत्रेषु यः समुत्पादयेत्प्रजाः ॥ आदि. 105. 2; पत्यभावे यथैव स्त्री देवरं कुरुते पतिम् । शान्ति 72. 12.
 
 [^1423]:
     Vide Dr. Winternitz's paper (Notes on Mahābhārata) in JRAS 1897 pp. 716-732 'for Niyoga in the great epic'.
@@ -87,7 +87,7 @@ the objector finding fault with Vyāsa by saying that Vyāsa followed Gaut. (18.
 Owing to the bewildering and often conflicting rules about niyoga in the smṛtis, commentators like Viśvarūpa, Medhātithi, who wrote at a time when niyoga was almost unheard of, made heroic though unsatisfactory efforts to bring order out of chaos. Viśvarūpa on Yāj. I. 69 states several views on the point. The first is that niyoga is bad in the present age as opposed to smṛti texts (like Manu IX, 64 and 68) and to the usage of the śiṣṭas (respectable people). The second view was the same as Manu IX, 69 set out above. A third view was that there was an option (as niyoga was both forbidden and allowed). A fourth view (which seems to be the view of Viśvarūpa himself) was that the smṛti texts about niyoga refer to śūdras [^1424] (Manu IX. 64 uses the word 'dvijāti') and it was also allowed to royal families, when there was no male to succeed (and only a brāhmaṇa was to be appointed) and Viśvarūpa relies upon two
 
 [^1424]:
-    एवं तावद्...[[??]]... नियोगाधिकार उक्तः । विश्वरूप at the end of his com. on I. 69. A little above विश्वरूप remarks that there is a usage of नियोग among śūdras.
+    एवं तावच्छूद्राणां नियोगाधिकार उक्तः । विश्वरूप at the end of his com. on I. 69. A little above विश्वरूप remarks that there is a usage of नियोग among śūdras.
 
 [[P605]]
 verses of Vṛddhamanu [^1425] and a gāthā of Vāyu. Viśvarūpa further says that the procreation of sons by Vyāsa from the queens of Vicitravīrya should be paid no heed (i. e. is not to be relied on) like the marriage of Draupadī (to the five Pāṇḍavas). The Mahābhārata probably reflects what happened owing to the incessant internecine wars among the princes of India. Whole princely houses must have been slaughtered. If niyoga was prevalent among them, the males appointed, when they had to be of the same caste, would have been ordinary soldiers (kṣatriyas). The proud princely families very likely thought it below their dignity to associate widowed queens with ordinary kṣatriyas. It is possible to hold that they chose brāhmaṇas for appointment, as the latter were deemed to be higher than even kings in the spiritual domain. It is impossible to believe that Brāhmaṇas, who had no temporal power, could coerce the proud and warlike caste into choosing brāhmaṇas for niyoga, unless the teaching of the smṛtis fell in with the notions of the ruling houses themselves to some extent at least.
@@ -98,21 +98,21 @@ verses of Vṛddhamanu [^1425] and a gāthā of Vāyu. Viśvarūpa further says 
 There was difference of opinion as to whom the child of niyoga belonged. Vas. Dh. S. 17. 6 expressly refers to this divergence. The first view was that the child belonged to the begetter; this view would cut at the very root of the purpose for which niyoga was recommended. Nirukta [^1426] III. 1-3 supports this view and relies on Ṛg. VII. 4. 7-8, Gaut. 18. 9 and Manu IX. 181 state the same rule. Ap. Dh. S. II. 6. 13. 5 says that according to a Brāhmaṇa text the son belongs to the begetter. The second view was that if there was an agreement between the elders of a widow and the person appointed or between the husband himself and the begetter that the child should belong to the husband, then the son belonged to the latter. Vide Gaut. 18. 10-11, Vas. 17. 8, Ādiparva 104. 6. [^1427] A third view was that the son belonged to both the begetter and the owner of the wife. This is the view of Nārada (strīpuṃsa 58), Yāj. II. 127, Manu IX. 53, Gaut. 18. 13.
 
 [^1426]:
-    तथापि जनयितुः पुत्र एवमर्थीये...[[??]]... । निरुक्त III. 1.
+    तद्यथा जनयितुः प्रजा एवमर्थीये ऋचावुदाहरिष्यामः । निरुक्त III. 1.
 
 [^1427]:
-    अपत्यद्वैधं...[[??]]... पुत्र इति हि ब्राह्मणम् । आप. ध. सू. II. 6. 13. 5; पाणिग्राहस्य तस्य पुत्र इति वेदेषु निश्चितम् । आदिपर्व 104. 6.
+    उत्पादयितुः पुत्र इति हि ब्राह्मणम् । आप. ध. सू. II. 6. 13. 5; पाणिग्राहस्य तनय इति वेदेषु निश्चितम् । आदिपर्व 104. 6.
 
 [[P606]]
 As shown above (in note 1418) niyoga was forbidden in the Kali age by Bṛhaspati and it was included among practices forbidden in the Kali age by several works. Vide the Mitākṣarā on Yāj. II. 117 and Aparārka p. 97 quoting Brahmapurāṇa. [^1427a]
 
 [^1427a]:
-    उक्तं च । यथा नियोगधर्मो नो नात्र...[[??]]... विधीयते । तथो...[[??]]... विभागे...[[??]]... । इति । मिता. on या. II. 117; स्त्रीणां पुनर्भू...[[??]]... देवराद्...[[??]]... । ब्रह्मपुराण quoted by अपरार्क p. 97.
+    उक्तं च । यथा नियोगधर्मो नो नानुबन्ध्यावधोपि वा । तथोद्धारविभागोपि नैव संप्रति वर्तते ॥ इति । मिता. on या. II. 117; स्त्रीणां पुनर्विवाहस्तु देवरात्पुत्रसंततिः । स्वातन्त्र्यं च कलियुगे कर्तव्यं न कदाचन ॥ ब्रह्मपुराण quoted by अपरार्क p. 97.
 
 The practice of raising issue from the widow of one's brother or marrying her was a widespread one. Vide Westermarck's 'History of Human Marriage' (1921) vol. III. pp. 207-220. In the Ṛgveda [^1428] X. 40.2 we read 'what sacrificer invites you (Aśvins) in his house as a widow invites a brother-in-law to her bed or as a young damsel her lover'. But it is not clear whether this refers to marrying the widow of a deceased brother or to the practice of niyoga. Viśvarūpa (on Yāj. I. 69) thinks that this refers to niyoga. The Nirukta (III. 15) explains Ṛg. X. 40.2, where in some mss. the word 'devara' is explained as 'a second husband' (dvitīyo varaḥ). Medhātithi on Manu IX. 66 explains Ṛg. X. 40.2 as applying to niyoga. According to the sūtras and smṛtis niyoga was entirely different from marriage. In many ancient societies, women were inherited like property. On the death of the eldest brother, his younger brother took the family property as well as his widow. But the Ṛgveda had reached a stage much beyond that. MacLennan thought that the practice of niyoga was due to polyandry. Westermarck combats this view and rightly so. When niyoga in the sūtras, polyandry had been either unheard of or forbidden. Jolly in *Recht und Sitte* (English translation, pp. 156-157) thinks that apart from the religious importance of a son economic motives were at the bottom of the long list of secondary sons, including the kṣetraja. This appears to be quite wrong. The practice of niyoga was a relic from the past and probably owed its origin to several causes, which are now obscure, but one of which was the great hankering for a son evinced by all in Vedic times. Vas. Dh. S. (17.1-6) lends support to this view, since after quoting Vedic passages about the importance of a son for paying off the debt to ancestors and for securing heavenly worlds, he at once proceeds to the description of the kṣetraja. But the economic motive was never put forward by any of the sages, nor could it possibly have been the reason
 
 [^1428]:
-    को वां...[[??]]... विदधे देवरं मध्ये न योषा...[[??]]... सखायम् ॥ ऋ. X. 40. 2.
+    को वां शयुत्रा विधवेव देवरं मर्यं न योषा कृणुते सधस्थ आ ॥ ऋ. X. 40. 2.
 
 
 [[P607]]

@@ -33,7 +33,7 @@ bhārata[^2119] (Śānti 20. 6 and 26. 6) states that the view of the Vaikhānas
 The word vānaprastha is according to the Mit. the same as vanaprastha, which means 'one who stays in a forest in a pre-eminent way' (by observing a strict code of life). Kṣīrasvāmi derives it differently.[^2120]
 
 [^2120]:
-    वने प्रकर्षेण नियमेन च तिष्ठति चरतीति वानप्रस्थः वनस्य एव वानप्रस्थः संज्ञाया वैद्यैः । मिता. on या. III. 45. क्षीरस्वामी on वानप्रस्थ however says '...[[??]]'.
+    वने प्रकर्षेण नियमेन च तिष्ठति चरतीति वानप्रस्थः वनस्य एव वानप्रस्थः संज्ञाया वैद्यैः । मिता. on या. III. 45. क्षीरस्वामी on वानप्रस्थ however says 'प्रतितन्ते अस्मिन् प्रस्थः वनप्रस्थे भवो वानप्रस्थः वैखानसाख्यः .'.
 
 The time for becoming a forest hermit arises in two ways. According to the Jābālopaniṣad quoted above (p. 421) a man may become a vānaprastha immediately after the period of studenthood or after passing some years as an householder. Manu (VI. 2) indicates the age by saying 'when a householder sees his skin wrinkled and his hair growing white and sees the sons of his sons he may betake himself to the forest'. The commentators were divided in their opinions, some holding that all three conditions (wrinkles, grey hair and seeing son's sons) must be fulfilled before one could become a forest hermit, others held that only one of them need be fulfilled and others again said that these conditions are only indicative of the age viz. that a man must be old or over 50. Kullūka on Manu III. 50 quotes a smṛti 'a man may resort to a forest after 50'.
 
@@ -94,7 +94,7 @@ wrong in holding that if a forest hermit takes his wife with him he may cohabit 
 (14) He should gradually give up residing in a house, but should stay under a tree and subsist only on fruits and roots[^2126] (Manu VI. 25, Vas. IX. 11, Yāj. III. 54, Āp. Dh. S. II. 9. 21. 20).
 
 [^2126]:
-    क्षुध्मूलालिकोतन ...[[??]] वासिष्ठ IX. 11.
+    क्षुध्मूलालिकोतन ऊर्ध्वं षड्भ्यो मासेभ्योऽनग्निरनिकेतः । वासिष्ठ IX. 11.
 
 [[P922]]
 
@@ -143,7 +143,7 @@ In spite of this general attitude, exceptions were made in the smṛtis, the epi
 downwards in fire (Manu XI. 73, Yāj. III. 248). Similarly the drinker of spirituous liquor expiated his sin by taking boiling wine, water, ghee, cow's milk or urine and dying thereby (Manu XI. 90-91, Yāj. III. 253, Gaut. 23. 1, Vas. Dh. S. 20. 22). Vide also Vas. Dh. S. 13. 14, Gaut. 23. 1, Āp. Dh. S. I. 9. 25. 1-3 and 6 for similar deadly penances for incest and for drinking liquor and for theft. The Āp. Dh. S. (I. 10. 28. 15-17) quotes Hārīta who condemns such penances involving death.[^2132] At extremely holy places like Prayāga, the Sarasvatī and Benares persons were allowed to kill themselves by drowning with the desire of securing release from saṁsāra. The Śalyaparva (39. 33-34) states 'whoever abandons his body at Pṛthūdaka on the northern bank of the Sarasvatī after repeating Vedic prayers would not be troubled by death thereafter'.[^2133] The Anuśāsanaparva (25. 62-64) says that if a man knowing the Vedānta and understanding the ephemeral nature of life abandons life in the holy Himālayas by fasting, he would reach the world of brahma. Vide also Vanaparva 85. 83 (about suicides at Prayāga). The Matsya-purāṇa (186. 34-35) eulogises the peak of Amarakaṇṭaka by stating 'whoever dies at Amarakaṇṭaka by fire, poison, water or by fasting enjoys the pleasures (described in verses 28-33). He who throws himself down (from the peaks of Amarakaṇṭaka) never returns (to saṁsāra).'[^2134]
 
 [^2132]:
-    गुरुतल्पगामी ...[[??]] प्रविश्योभयत आदीप्याभिवहेदात्मानम् । मिथ्यैतदिति हारीतः । यो ह्यात्मानं परं चाभिमन्यतेऽभिशस्त एव स भवति । आप. ध. सू. I. 10. 28. 15-17.
+    गुरुतल्पगामी तु सुषिरां सूर्मिं प्रविश्योभयत आदीप्याभिवहेदात्मानम् । मिथ्यैतदिति हारीतः । यो ह्यात्मानं परं चाभिमन्यतेऽभिशस्त एव स भवति । आप. ध. सू. I. 10. 28. 15-17.
 
 [^2133]:
     सरस्वत्युत्तरे तीरे यस्त्यजेदात्मनस्तनुम् । पृथूदके अत्ययतो नैनं मो मरणं स्पृशेत् ॥ शल्यपर्व 39. 33-34.
@@ -164,10 +164,10 @@ rites drowned himself in the Tuṅgabhadrā in 1068 A. D. (E. C. vol. II. Sk. 13
 Apart from suicide for purposes of penance or at holy places the smṛtis allowed, as said above, a forest hermit to start on the great journey to meet death and also allowed in certain circumstances death by entering fire, or by drowning or by fasting or by throwing oneself from a precipice even for those who were not hermits. Gautama (14. 11) prescribes that no mourning need be observed for those who wilfully meet death by fasting, or by cutting themselves off with a weapon, or by fire, or poison or water or by hanging or by falling from a precipice. But Atri (218-219) states some exceptions viz. 'if one who is very old (beyond 70), one who cannot observe the rules of bodily purification (owing to extreme weakness &c.), one who is so ill that no medical help can be given, kills himself by throwing himself from a precipice or into fire or water or by fasting, mourning should be observed for him for three days and śrāddha may be performed for him.[^2136] Aparārka (p. 536) quotes texts of Brahmaragarbha, Vivasvat and Gārgya about an householder 'he who suffering from serious illness cannot live, or who is very old, who has no desire left for the pleasures of any of the senses and who has carried out his tasks may bring about his death at his pleasure by resorting to mahāprasthāna, by entering fire or water or by falling from a precipice. By so doing he incurs no sin and his death is far better than tapas, and one should not desire to live vainly (without being able to perform the duties laid down by the śāstra).[^2137] Aparārka (p. 877) and Par. M. (I. part 2, p. 228) quote several verses from Ādipurāṇa about dying by fasting, by entering fire or deep water or by falling from a precipice, or by going on mahā-
 
 [^2136]:
-    अत्रिः । ...[[??]] आत्मानं घातयेद्यस्तु ...[[??]] तस्य त्रिरात्रमाशौचं द्वितीये त्वक्षिसंयमः । तृतीये सूतकं कुर्वा चतुर्थे मासि माचरेत् ॥ अत्रि 218-219 quoted by मेधातिथि on मनु V. 89, मिता. on या. III. 6, अपरार्क p. 902 (as from Aṅgiras), परा. मा. I. part 2 p. 228 (as from शातातप).
+    अत्रिः । वृद्धः शौचस्मृतेर्लुप्तः प्रत्याख्यातभिषक्क्रियः । आत्मानं घातयेद्यस्तु भृग्वग्न्यनशनाम्बुभिः ॥ तस्य त्रिरात्रमाशौचं द्वितीये त्वक्षिसंयमः । तृतीये सूतकं कुर्वा चतुर्थे मासि माचरेत् ॥ अत्रि 218-219 quoted by मेधातिथि on मनु V. 89, मिता. on या. III. 6, अपरार्क p. 902 (as from Aṅgiras), परा. मा. I. part 2 p. 228 (as from शातातप).
 
 [^2137]:
-    तथा च श्राद्धम् । ...[[??]] विवस्वान् । ...[[??]] तथा गार्ग्योऽपि ...[[??]] महाप्रस्थानगमनं अग्नेरनुप्रवेशादि । ...[[??]] quoted by अपरार्क p. 536.
+    तथा च श्राद्धम् । यो जीवितुं न शक्नोति महाव्याध्युपपीडितः । सोऽग्न्युदकमहायात्रां कुर्वन्नामुत्र दुष्यति ॥ विवस्वान् । सर्वेन्द्रियविरक्तस्य वृद्धस्य कृतकर्मणः । व्याधितस्येच्छया तीर्थे मरणं तपसोधिकम् ॥ तथा गार्ग्योऽपि गृहस्थमधिकृत्याह । महाप्रस्थानगमनं अग्नेरनुप्रवेशादि । भृगुप्रपतनं चैव वृथा नेच्छेतु जीवितुम् ॥ quoted by अपरार्क p. 536.
 
 [[P927]]
 
@@ -188,7 +188,7 @@ Among Jains a similar rule prevailed. The Ratnakaranda-śrāvakācāra (chap. 5)
 extreme old age and incurable disease.[^2140] The Kālandrī (Sirohi State) Inscription records the suicide of a Jain congregation by fasting in saṁvat 1339 (E. I. vol. XX., appendix p. 98 No. 691).
 
 [^2140]:
-    उपसर्गे ...[[??]] रत्नकरण्डश्रावकाचार chap. 5. I owe this quotation to the kindness of Prof. Upadhye of Kolhapur.
+    उपसर्गे दुर्भिक्षे जरसि रुजायां च निःप्रतीकारे । धर्माय तनुविमोचनमाहुः सल्लेखनामार्याः ॥ रत्नकरण्डश्रावकाचार chap. 5. I owe this quotation to the kindness of Prof. Upadhye of Kolhapur.
 
 From the account of the death of Kalanos the Indian gymnosophist at 73 given by Megasthenes (Mc Crindle p. 106) we can gather that the practice of religious suicide prevailed long before the 4th century B. C. Strabo (XV. 1. 4) states that with the ambassadors that came to Augustus Cæsar from India also arrived an Indian gymnosophist who committed himself to the flames like Kalanos who exhibited the same spectacle before Alexander.
 
