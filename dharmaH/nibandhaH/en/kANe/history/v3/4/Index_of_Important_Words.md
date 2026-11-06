@@ -3,1078 +3,596 @@ title = "Index of Important Words"
 
 +++
 
-INDEX OF TECHNICAL OR DIFFICULT 
-
-· SANSKRIT WORDS 
-
-45 
-
-142 
-
-7740 
-
-482 
-
-(Transliterated and arranged according to the English alphabet) 
-
-( The figures refer to pages). Ābadhya 
-
-772 | Anūbaadhya 
-
-865 Abhigāmika 
-
-Anumana 
-
-828n, 8510 Abhiyoktr 
-
-292 Anusamanta Abhiyukta 
-
-292 Anusista 
-
-383 Acarita 
-
-439 Anuttara 
-
-263 Adāyādabāndhava 
-
-650 Anuvakra 
-
-919n Adesa 
-
-697n, 698n Anvādheya Adevamātrka 
-
-133n Anvadhi 
-
-429 chaka 
-
-124n Anvādhipatra 
-
-311 Adhamana 
-
-428 Anvāhita 
-
-458, 459n Adbānapatra 
-
-311 Anviksiki 
-
-46-48 Adharya 
-
-300n 
-
-Apana 
-
-263 idhi 
-
-4190, 427-28 Apanaya 
-
-217 Adhibhoga 
-
-419 Apapātrita 
-
-610n Adhikarana 
-
-142 Aparādha 
-
-264 Adhikarmakrt 
-
-Apayātrita 
-
-6100 Adhipāla 
-
-434n 
-
-Apratibandha-daya 
-
-546 Adhipatya 
-
-64 Apratisthita 
-
-277, 716 Adhisthana 
-
-142 
-
-Apratyayabhogvādhi 
-
-430 Adhyagni 
-
-7740 Apta 
-
-3340 Adhyaksa 
-
-142 Arājaka 
-
-21, 30 Adhyāvahanika 
-
-7740 Ardhādhāda Agba 
-
-942 Arghya 
-
-368 Agama 
-
-317 Ari 
-
-218 A bāra 
-
-139 Arisadvarga Ahoipaibuka 
-
-851n Arthadusana Ajfadhi 
-
-1930 Arthasāstra 
-
-6-7 Ajñākraya 
-
-493 n Arthin 
-
-292 Ājāāpatra 
-
-310 Asana 
-
-223 Akramodha 
-
-618n 
-
-Asedha 
-
-291 Akranda 
-
-220 
-
-219 Akrandāsāra 
-
-220 Asuravijayin Akṣad yūtika 
-
-541 
-
-Ātavika 
-
-112n, 200-201 Akṣapatala 
-
-143 
-
-Atreyi 
-
-527n Akṣaunini 
-
-204-205 
-
-Atta 
-
-893n Aksāvāpa 
-
-Aupapatika 
-
-610n Aksika 
-
-Aurasa 
-
-655-656 Amatya 
-
-104 
-
-Avakraya 
-
-4949, 493 Amatya 
-
-Avapātika 451 
-
-6100 Āmiksa 
-
-465 
-
-Avaruddha 
-
-811-815 Anga 
-
-Avyāvabarika 
-
-447 Antapala 
-
-112n, 197 Baddhakrama 
-
-731 Antarvamsika 
-
-1120 
-
-Bala 
-
-438, 439 Antovāsin 
-
-· 482 Bala 
-
-3950 
-
-961 
-
-ཧྥ\#ཙྩ བྷཱུ ཙྩ ཚེ ཛཱིཙྪི ཌྷ བྷ \# % ཧོ @ཙེ བྷྱཱ ཙྪཱ ཙྪཱ ཙྪཱ ཙྩཾ 
-
-Aśraya 
-
-69 
-
-112 
-
-541 
-
-17 
-
-1084 
-
-
-
-(Vol. 
-
-260, 572 438-39 
-
-243 1260 243 
-
-113 
-
-252 
-
-243 
-
-480 
-
-172 317 
-
-482 
-
-369 583-584 
-
-502 1219, 122 
-
-363 575 124n 
-
-140 117-129 3320, 340 
-
-223 422 
-
-102 685n 685 538 
-
-66 
-
-Bali Bandha Bandhu Bandbudāyāda Bhaga Bhagadugba Bhāsa Bhāṭaka Bbayavarjitā Bheda Bhoga (possession) Bhoga (district) Bhogalābha Bhogapati Bhrtaka Bhrūna Bhujisya Bhukti (possession) Bhukti (district) Bijin Brāhmanabruva Cakravartin Cakravrddhi Cākrika Cara Caritrabandhaka Catuspatha Chala Chala Ciraka or Ciraka Codana Daṇda Danda Danda (army) Dandaniti Dandapāla Dandopanata Dagdopankyin Dāsi Dattknapakarma Dattapradānika Dauvārika Dzya Dāyabhāga Dāyāda Devalakan Devamātska Devapaśu Dhanaka Dhanvana Dharanaka 
-
-1470, 190 | Dharma 
-
-419n 
-
-Dharma 753n Dharmadhikarana 650 Dharmadhikaranin 190 Dharmāsana 
-
-Dharmastba 292 Dbarmastbāna 
-
-Dharmavijayin 503 
-
-Dhata Dhvajahṛta 
-
-Dhvajiai 139 
-
-Dināra 419 
-
-Divya 139 
-
-Dravya 
-
-Drona 0120 
-
-Dronamukha 813 
-
-Dūta 317 
-
-Dūtaka 139 
-
-Dvaidhibhāva 6460 
-
-Dvaigunya 272 
-
-Dvairājya 
-
-Dvipravācana 418 Dvyāmuṇyāyana 3340 Dyūta 
-
-129 
-
-Ekacchāyasrita 435 
-
-Ekasesa 508 
-
-Ekavākyatā 279 
-
-Ekoddista 438-439 309, 311 
-
-Gadyānaka 354 
-
-Gana 
-
-Ganadā 21-22, 172 
-
-Ganikā 960 
-
-Gartā 200 
-
-Gāvunda 
-
-Glaha 1120 
-
-Gocarma 224 
-
-Golaka 226 
-
-Gopa 6020 
-
-Gopya 
-
-Gotrabhājah 4710 
-
-Gotraja 1120 
-
-Govikartana 543-544 
-
-Grāmakūta 545 
-
-Grāmika 543-544, 711 950-51 
-
-Grbapatika 
-
-Gshyamānakāraṇa 1330 
-
-Gulma 5010 1219, 122 Hina 
-
-Hiranya 4340 | Holāka 
-
-4380 7220 
-
-443 7370 
-
-1220 88, 281, 487-88 
-
-49 148n 276 154 
-
-539 4320 
-
-6460 143, 149 
-
-428 650 
-
-4710 
-
-732 
-
-112 154, 282 
-
-282 
-
-129 8270 
-
-141 303 1240 
-
-178 
-
-851n 
-
-III 
-
-Index of Sanskrit Words 
-
-1085 
-
-Iodrajala Indrasthāna Indriya 
-
-196n 
-
-Iti 
-
-163 
-
-154 
-
-145 
-
-Jānapada Jānapada (document) Jānarājya Jangala Jāra Jayapatra jñati 
-
-7770 
-
-418 
-
-Kākini Kali Kalika Kalkia Kāndaprstha Köpina Kantaka Kanya Kapatika Kara 
-
-Karana 
-
-68 
-
-254 
-
-172 | Kumārāmātya 
-
-117 3670 
-
-Kumārisāhasa, 713 Kumbha 
-
-124n Kumbha Kunda 
-
-646n 93-95, 134n 
-
-Kupyadi yakṣa 309 
-
-Kusida 
-
-415, 417 64 
-
-Kusidin 
-
-417 1320 
-
-846 Lābha 310, 380 Lagoa 
-
-229 754n Lagnaka 
-
-419, 435 Laksanadhyaksa 
-
-144 1210, 126n 
-
-Lekha 
-
-49 886-887 
-
-Likhita 
-
-340 Lingin 
-
-610n 924n 
-
-Lobhavijayin 
-
-69 652n 
-
-Lohābhibāra (or-sāra) 
-
-9100 647, 660 
-
-Lokāyata 
-
-46-47 162, 251, 252 713 
-
-Madhyama 
-
-220 129 
-
-Madhyamasāhasa 
-
-393-94 190, 191 Mabadandadayaka 
-
-115n 300, 307 
-
-Mahārāja 418 
-
-Malimlu 
-
-519 Mandala 
-
-138-139 
-
-137 
-
-Māndalika 
-
-5310 
-
-Mantraśakti 
-
-171 1124 
-
-Mantrin 
-
-105 254 
-
-Manyu 
-
-200 113 
-
-Māsa 
-
-121n 392 Mātsyanyāya 
-
-21,300 120, 1210 
-
-Matsyini 
-
-502 95,304 
-
-Maula 
-
-200, 6340 439 
-
-Māya 
-
-172 418, 419 
-
-Mithya Mitra 
-
-218 
-
-138 
-
-Mrtāotara 
-
-338n, 339 1240 
-
-Mudrādhyaksa 
-
-149 
-
-182n 
-
-Mudritā 
-
-277 
-
-140 
-
-Mūla 
-
-1820 Nādika 
-
-1461 184 Nadimātrka 
-
-133n 260, 304 Nāgaraka 
-
-112n, 349 886-887 Nagarasresthin 
-
-141, 182 339 Naidhani 
-
-502 419 Naigama 
-
-150n, 487n, 8820 4900 Naisthika 
-
-764, 962-63 430 Nāstika 142, 150n Naya 
-
-217 280 | Nayaka 
-
-112n, 142 283, 3340 Niband ba 
-
-.: 5750 
-
-67 
-
-300 
-
-Karita Karma (torture) Karmabhūmi Kārmana Kārmāntika Karmānuyoga Karmasthāna Karmavipāka Kārṣāpana Kārya Kayavrata Kāyika Kesaria Khanda Khāri Kharvata Khāryatika Kheta Kosa Kriya Kr̥ta (throw of dice) Kr̥ta Kr̥ta (interest) Kṣaya Ksayādbi Kula Kula (tribunal) Kulika 
-
-850n 
-
-463 
-
-464 
-
-1086 
-
-
-
-(Vol. 
-
-676n 
-
-454-455 
-
-300 
-
-310 251 
-
-7888 
-
-219 17 
-
-Nigada Nikoep& Nirarthaka Nirhara Nirnikta Nirvyuba Niṣada Niska Nisrstārtha Nisrstilekha Niyata Nyasa 
-
-350n 5070 
-
-599 1250 
-
-60, 185 
-
-7041 458 
-
-310 
-
-128 
-
-272 
-
-141 
-
-310 
-
-813 454-455 
-
-141 
-
-393-94 
-
-882n 
-
-191 
-
-435 
-
-299 3700 154 
-
-292 
-
-310 
-
-458 
-
-539 
-
-300 
-
-Prajñāpanāpatra Prakirṇaka Prākrta Prakrti Pranaya Pranayana Prānnyāya Prasada patra Praśnavivaka Prathamakāyastha Prathamakulika Prathamasahasa Pratibhoga Pratibhū Pratijna Pratilekha Pratinyasa Pratipakṣa Pratisara Pratisthitā Pratyabhiyoga Pratyākalita Pratyarthin Pratyavaskandana Pratyupavista Pravesapatra Pravrajyāvasita Pravrttika Pūga Purāṇa Purta Purusārtha Pūrvanyāya Pūrvapakṣa Pusyaspāna 
-
-879 277 
-
-295 283 113 
-
-312 490, 495 599, 648, 656 
-
-224 
-
-310 191, 195, 310 
-
-302 
-
-260, 298 
-
-292 300 438 442 
-
-500 
-
-1290 
-
-224 
-
-Pākbandin 
-
-Paksābhāsa 
-
-· Pala Palli Papa Paiçabandba Pancakula Pancamahāsabda Pancarūdha Panya Paraśava Paribhāsana Paridāna Parihara Paribāra Parikraya Parimitārtha Pārinahya Parinayya Parivartan, Parivssti Parivrtti Parokta Pārsnigrāha Pārṣnigrāhāsāra Parvan Pārvana Paryagaikarana Pascatkāra Paini Pattakila Pattana Patra Paura Paura-vyāvahārika Poganda Prabhusakti Pracāra Prādvivāka 
-
-128 
-
-310 281, 487 
-
-1210 
-
-451 5500 
-
-770 7700 495 112 
-
-495 296, 303 
-
-220 220 
-
-300 
-
-38, 292 
-
-407 
-
-737n 737a 
-
-Rājakart Rājamārga Rājan Rājasabdopajivin Rāka Rāstra 
-
-30 
-
-508 28, 37-38, 67-68 
-
-89, 91 
-
-388 
-
-938 380-81 
-
-707 154 1820 587n 93-95 
-
-Rāstriya 
-
-138 317n, 138 
-
-29 
-
-1120 
-
-Ratpin Riktha Rikthabhājab R na Rta Rūpa Rūpadarsaka Rūpatarka 
-
-543, 5510 
-
-650 416 245 49 
-
-395a, 4600 
-
-171 
-
-587 272 
-
-1445 
-
-III 
-
-Inder of Sanskrit Words 
-
-1087 
-
-66, 68 
-
-961 
-
-310 
-
-310 128 
-
-277 
-
-Sabha 
-
-92-93 Sabhika 
-
-539 Sablaya 
-
-273 Sabrah macarin 
-
-762 & Saciva 
-
-104 Sadhyapāla 
-
-278 Sabasa 
-
-525 Sajāta 
-
-7540 Sāksin 
-
-330 Sakyasamasta 
-
-45 Salākin 
-
-499n Sama 
-
-217 Samahartr 
-
-1120, 143 Samāhvaya 
-
-538 Samānodaka 
-
-752-753 Samanta 
-
-67, 142 Samanta 
-
-504n Samaya 
-
-157, 826 Sāmayācārika 
-
-825n Sambhiya samutthani 
-
-466 Samiti 
-
-02-93 Sampratipatti 
-
-300 Samrāt 
-
-67, 73 Samsaktaka 
-
-50-4 Samsarana 
-
-508 Samśraya 
-
-223 Sansrsta 
-
-766n, 768 Samsrstin 
-
-7660 Samudra 
-
-933 Samvatsara 
-
-126 Samvid 
-
-486 Samvitpatra 
-
-311 Samya 
-
-500n Sadabhi 
-
-33401, 7541 Sancara 
-
-130 Sandhi 
-
-223 Sandhipatra 
-
-311 Sangha Sangraha 
-
-141 Sangrabana 
-
-110, 531 Śhaṅkara (misjoinder of causes of 
-
-action) 
-
-302 Sannidhātr 
-
-112n, 143 Santāna 
-
-750-751 Sānti 
-
-231 Sapana Sapatha 
-
-354, 358 Sapratibandba-dāya Sapratyayabhogyādhi 
-
-430 Sārnga 
-
-373 Sārthavība 
-
-141 
-
-(Sarvabbauma 
-
-Sarvadhana Sarvatraga Sasana Sasanahara Sāsitā Satadaya Sataghni Satamāna Satrin Satru Satya Satyankāra Saudāyika Saudra Sauryadbana Sautrāmaṇi Sesa Seti Siklāvrddhi Sila Silpiayāsa Simbidhanya Siras Sirastha Sirsakastha 
-
-388 
-
-213 122, 1250 129-130 
-
-218 
-
-300 435, 4910 
-
-778 599, 646, 656 583-584 
-
-940 579n 510 419 8250 
-
-458 191 119n 
-
-364 364 395n 
-
-482 1470 893n 
-
-339 321 
-
-263 281, 287 
-
-201 3090 
-
-149 143, 149 
-
-140 311 
-
-Sisu 
-
-88 
-
-Sisya Sitā Śiva Smārita Smārtakala Sottara Sreni Srenibala Sthanakrta Stbānapāla Sthānika Sthaniya Sthitipatra Sthulalakia Stobhaka Stoma Sūcaka Suci Suddhavadha Sūkadhānya Sala Sulka 
-
-263 
-
-264 480 264 339 400n 
-
-191 
-
-893a 146, 190, 191 
-
-546 
-
-1088 
-
-
-
-(Vd. 
-
-Sulka Sūnā Suvarṇa Svāmia Sva Svapurusa Svārājya Svarāt Svayamukti Tapasa Tāyu Tiksna Tirita Tirtha Traipurusika Trayi Treto 
-
-775-776 
-
-148 121n, 1250 
-
-547 547 278 
-
-65 68, 73 
-
-339 
-
-373 
-
-129 519 130 
-
-383 112-113 
-
-737 
-
-48 888 
-
-Vaidya 
-
-5810 Vairājya 
-
-102 Vākyānuyoga 
-
-254 Vārdhusa 
-
-417 Vārdhusika 
-
-417-418, 428n Vargin 
-
-283 Vārta 
-
-50-51 Vatsanābha Veda (bunch of kusa grass) 842 Velāpura 
-
-193 Vibhāga 
-
-560 Vigraha 
-
-223 Vijigisu 
-
-218 Vinādi 
-
-370n Vibaya 
-
-51-52 Vinimaya 
-
-495 
-
-68,73 Visaya 
-
-138 Visayapati 
-
-141 Visuddhipatra 
-
-311 
-
-208 Vivāda 
-
-246 Vivāsana 
-
-352n Vrāta 
-
-487 Vrddhi 
-
-418 Vyābrti 
-
-689n Vyasana Vyavahara 
-
-245–46, 260, 435 Vyavahārapada 
-
-248, 250-51 Vyāyāma 
-
-217 
-
-Virāt 
-
-Visti 
-
-Udasina Udāstbita Uddhāra Uddharapatra Udvrsabhayajsia Ugra Uktalabha Upadha Upagata Upagraha Upahāra Upakarana Upakurvāna Upanidhi Uparika Upaśruti Upayācita Upeksa Utkoca Utsābasakti Uttamarna Uttamasahasa Uttara (reply) Uttara (a kind of witness) Uttara (future) Utthāna Vadha 
-
-220 129 625 311 8510 
-
-64 493 
-
-105 311, 442 
-
-224 224 
-
-9450 764, 962-63 
-
-454 
-
-232 
-
-967n, 968n 
-
-9670 
-
-172 473 171 
-
-415 393-94 
-
-Yacitaka Yadrcchābhijña Vādrcchika Yajya Yana Yātavya Yātudhana Yautaka Yogaksema Yonisambandha Yuga Yukti Yuktilesa Yūpahastin 
-
-426, 458 
-
-339 339 
-
-586n 223, 220 
-
-218 359 
-
-779 588-89 7540 
-
-886 354-355 
-
-354 8360 
-
-.300 
-
-340 8860 
-
-169 526n 
-
-लाल बहादुर शास्त्री राष्ट्रीय प्रशासन अकादमी, पुस्तकालय Lal Bahadur Shastri National Academy of Administration, Library 
-
-मसुरी 
-
-MUSSOORIE. 
-
-यह पुस्तक निम्नांकित तारीख तक वापिस करनी है। This book is to be returned on the date last stamped. 
-
-
-
-D 
-
-उधारकर्ता 
-
-दिनांक Date 
-
-की संख्या 
-
-दिनांक Date 
-
-उधारकर्ता की संख्या Borrower's 
-
-No. 
-
-Borrower's 
-
-
-
-
-
-
-
-No. 
-
-
-
-
-
-
-
-
-
-
-
-1073/14 
-
-अवाप्ति संख्या 294.9926 Acc. No.329 वर्ग संख्या Nine पुस्तक संख्या Class No. 
-
-w Book No. लेखक Author M. f. Vaman Kane शीर्षक 
-
-Title History of Dharmasastra 294.5926 
-
-1993 nan 
-
-LIBRARY Kan 
-
-LAL BAHADUR SHASTRI NATIONAL ACADEMY OF ADMINISTRATION 
-
-MUSSOORIE 
-
-102316 Accession No......... Books are issued for 15 days only but may have to be recalled earlier if 
-
-urgently required. An overdue charge of 25 Paise per day per volume will be charged. Books may be renewed on request, at the discretion of the Librarian, Periodicals, Rare and Reference books may not be issued and may be consulted only in the Library. Books lost, defaced or injured in any way shall have to be replaced or its double price shall be paid by the 
-
-borrower. HELP TO KEEP THIS BOOK FRESH, CLEAN & MOVING 
-
-5.
+[[P1083]]
+## INDEX OF TECHNICAL OR DIFFICULT [[· SANSKRIT|SANSKRIT]] WORDS
+
+*(Transliterated and arranged according to the English alphabet)*
+*(The figures refer to pages).*
+
+- Ābadhya — 772
+- [[Abhigāmika|Ābhigāmika]] — 45
+- [[Abhiyoktr|Abhiyoktṛ]] — 292
+- Abhiyukta — 292
+- [[Acarita|Ācarita]] — 439
+- Adāyādabāndhava — 650
+- [[Adesa|Ādeśa]] — 697n, 698n
+- [[Adevamātrka|Adevamātṛka]] — 133n
+- [[chaka|Āḍhaka]] — 124n
+- [[Adhamana|Ādhamana]] — 428
+- [[Adbānapatra|Ādhānapatra]] — 311
+- [[Adharya|Ādharya]] — 300n
+- [[idhi|Ādhi]] — [[4190,|419n,]] 427–28
+- [[Adhibhoga|Ādhibhoga]] — 419
+- [[Adhikarana|Adhikaraṇa]] — 142
+- [[Adhikarmakrt|Adhikarmakṛt]] — 482
+- [[Adhipāla|Ādhipāla]] — 434n
+- [[Adhipatya|Ādhipatya]] — 64
+- [[Adhisthana|Adhiṣṭhāna]] — 142
+- Adhyagni — [[7740|774n]]
+- [[Adhyaksa|Adhyakṣa]] — 142
+- Adhyāvahanika — [[7740|774n]]
+- [[Agba|Agha]] — 942
+- [[Agama|Āgama]] — 317
+- [[A bāra|Āhāra]] — 139
+- [[Ahoipaibuka|Āhnīnaibuka]] — 851n
+- [[Ajfadhi|Ājñādhi]] — [[1930|493n]]
+- Ajñākraya — 493n
+- [[Ājāāpatra|Ājñāpatra]] — 310
+- [[Akramodha|Akramoḍhā]] — 618n
+- Akranda — 220
+- [[Akrandāsāra|Ākrandāsāra]] — 220
+- [[Akṣad yūtika|Ākṣadyūtika]] — 541
+- [[Akṣapatala|Akṣapaṭala]] — 143
+- [[Akṣaunini|Akṣauhiṇī]] — 204–205
+- Akṣāvāpa — 112
+- Akṣika — 541
+- [[Amatya|Amātya]] — 104
+- [[Amatya|Amātya]] — [[451|451n]]
+- [[Āmiksa|Āmikṣā]] — 465
+- [[Anga|Aṅga]] — 17
+- [[Antapala|Antapāla]] — 112n, 197
+- [[Antarvamsika|Āntarvaṁśika]] — [[1120|112n]]
+- [[Antovāsin|Antevāsin]] — 482
+- [[Anūbaadhya|Anūbandhyā]] — 865
+- [[Anumana|Anumāna]] — 828n, [[8510|851n]]
+- [[Anusamanta|Anusāmanta]] — 142
+- [[Anusista|Anuśiṣṭa]] — 383
+- Anuttara — 263
+- Anuvakra — 919n
+- Anvādheya — [[7740|774n]]
+- [[Anvadhi|Anvādhi]] — 429
+- Anvādhipatra — 311
+- Anvāhita — 458, 459n
+- [[Anviksiki|Ānvīkṣikī]] — 46–48
+- [[Apana|Apaṇa]] — 263
+- Apanaya — 217
+- Apapātrita — 610n
+- Aparādha — 264
+- Apayātrita — [[6100|610n]]
+- [[Apratibandha-daya|Apratibandha-dāya]] — 546
+- [[Apratisthita|Apratiṣṭhita]] — 277, 716
+- [[Apratyayabhogvādhi|Apratyayabhogyādhi]] — 430
+- [[Apta|Āpta]] — [[3340|334n]]
+- Arājaka — 21, 30
+- [[Ardhādhāda|Ardhādhāna]] — 961
+- Arghya — 368
+- Ari — 218
+- [[Arisadvarga|Ariṣaḍvarga]] — 53
+- [[Arthadusana|Arthadūṣaṇa]] — 54
+- [[Arthasāstra|Arthaśāstra]] — 6–7
+- Arthin — 292
+- [[Asana|Āsana]] — 223
+- [[Asedha|Āsedha]] — 291
+- [[Aśraya|Āśraya]] — 219
+- Asuravijayin — 69
+- [[Ātavika|Āṭavika]] — 112n, 200–201
+- [[Atreyi|Ātreyī]] — 527n
+- [[Atta|Aṭṭa]] — 893n
+- Aupapātika — 610n
+- Aurasa — 655–656
+- Avakraya — [[4949, 493|494n, 495]]
+- Avapātika — [[6100|610n]]
+- [[Avaruddha|Avaruddhā]] — 811–815
+- [[Avyāvabarika|Avyāvahārika]] — 447
+- Baddhakrama — 731
+- Bala — 438, 439
+- [[Bala|Bāla]] — [[3950|395n]]
+
+[[P1084]]
+- Bali — [[1470,|147n,]] 190
+- Bandha — 419n
+- Bandhu — 753n
+- [[Bandbudāyāda|Bandhudāyāda]] — 650
+- [[Bhaga|Bhāga]] — 190
+- [[Bhagadugba|Bhāgadugha]] — 112
+- [[Bhāsa|Bhāṣā]] — 292
+- Bhāṭaka — 480
+- [[Bbayavarjitā|Bhayavarjitā]] — 503
+- Bheda — 172
+- Bhoga (possession) — 317
+- Bhoga (district) — 139
+- Bhogalābha — 419
+- Bhogapati — 139
+- [[Bhrtaka|Bhṛtaka]] — 482
+- [[Bhrūna|Bhrūṇa]] — [[0120|612n]]
+- [[Bhujisya|Bhujiṣyā]] — 813
+- Bhukti (possession) — 317
+- Bhukti (district) — 139
+- [[Bijin|Bījin]] — [[6460|646n]]
+- [[Brāhmanabruva|Brāhmaṇabruva]] — 272
+- Cakravartin — 66
+- [[Cakravrddhi|Cakravṛddhi]] — 418
+- Cākrika — [[3340|334n]]
+- Cara — 129
+- Caritrabandhaka — 435
+- [[Catuspatha|Catuṣpatha]] — 508
+- Chala — 279
+- Chala — 438–439
+- [[Ciraka or Ciraka|Ciraka or Cīraka]] — 309, 311
+- [[Codana|Codanā]] — 354
+- [[Daṇda|Daṇḍa]] — 21–22, 172
+- [[Danda|Daṇḍa]] — 960
+- [[Danda|Daṇḍa]] (army) — 200
+- [[Dandaniti|Daṇḍanīti]] — 5
+- [[Dandapāla|Daṇḍapāla]] — [[1120|112n]]
+- [[Dandopanata|Daṇḍopanata]] — 224
+- [[Dagdopankyin|Daṇḍopanāyin]] — 226
+- [[Dāsi|Dāsī]] — [[6020|602n]]
+- [[Dattknapakarma|Dattānapākarma]] — [[4710|471n]]
+- Dattapradānika — [[4710|471n]]
+- Dauvārika — [[1120|112n]]
+- [[Dzya|Dāya]] — 543–544
+- Dāyabhāga — 545
+- Dāyāda — 543–544, 711
+- [[Devalakan|Devalaka]] — 950–51
+- [[Devamātska|Devamātṛka]] — [[1330|133n]]
+- Devapaśu — [[5010|501n]]
+- [[Dhanaka|Dhānaka]] — [[1219,|121n,]] 122
+- [[Dhanvana|Dhānvana]] — 178
+- [[Dharanaka|Dhāraṇaka]] — [[4340|434n]]
+- Dharma — 260, 572
+- Dharma — 438–39
+- [[Dharmadhikarana|Dharmādhikaraṇa]] — 243
+- [[Dharmadhikaranin|Dharmādhikaraṇin]] — [[1260|126n]]
+- Dharmāsana — 243
+- [[Dharmastba|Dharmastha]] — 252
+- [[Dbarmastbāna|Dharmasthāna]] — 243
+- Dharmavijayin — 69
+- [[Dhata|Dhaṭa]] — 369
+- [[Dhvajahṛta|Dhvajāhṛta]] — 583–584
+- [[Dhvajiai|Dhvajinī]] — 502
+- [[Dināra|Dīnāra]] — [[1219,|121n,]] 122
+- Divya — 363
+- Dravya — 575
+- [[Drona|Droṇa]] — 124n
+- [[Dronamukha|Droṇamukha]] — 140
+- Dūta — 127–129
+- Dūtaka — [[3320,|332n,]] 340
+- [[Dvaidhibhāva|Dvaidhībhāva]] — 223
+- [[Dvaigunya|Dvaiguṇya]] — 422
+- Dvairājya — 102
+- Dvipravācana — 685n
+- [[Dvyāmuṇyāyana|Dvyāmuṣyāyaṇa]] — 685
+- Dyūta — 538
+- [[Ekacchāyasrita|Ekacchāyāśrita]] — [[4380|438n]]
+- [[Ekasesa|Ekaśeṣa]] — [[7220|722n]]
+- Ekavākyatā — 443
+- [[Ekoddista|Ekoddiṣṭa]] — [[7370|737n]]
+- [[Gadyānaka|Gadyāṇaka]] — [[1220|122n]]
+- [[Gana|Gaṇa]] — 88, 281, 487–88
+- [[Ganadā|Gaṇanā]] — 49
+- [[Ganikā|Gaṇikā]] — 148n
+- Gartā — 276
+- [[Gāvunda|Gāvuṇḍa]] — 154
+- Glaha — 539
+- Gocarma — [[4320|432n]]
+- Golaka — [[6460|646n]]
+- Gopa — 143, 149
+- Gopya — 428
+- [[Gotrabhājah|Gotrabhājaḥ]] — 650
+- Gotraja — 732
+- Govikartana — 112
+- [[Grāmakūta|Grāmakūṭa]] — 154, 282
+- Grāmika — 282
+- [[Grbapatika|Gṛhapatika]] — 129
+- [[Gshyamānakāraṇa|Gṛhyamāṇakāraṇa]] — [[8270|827n]]
+- Gulma — 141
+- [[Hina|Hīna]] — 303
+- [[Hiranya|Hiraṇya]] — [[1240|124n]]
+- [[Holāka|Holākā]] — 851n
+
+[[P1085]]
+- [[Iodrajala|Indrajāla]] — 172
+- Indrasthāna — [[3670|367n]]
+- Indriya — 713
+- [[Iti|Īti]] — 163
+- Jānapada — 93–95, 134n
+- Jānapada (document) — 309
+- Jānarājya — 64
+- [[Jangala|Jāṅgala]] — [[1320|132n]]
+- Jāra — 846
+- Jayapatra — 310, 380
+- [[jñati|Jñāti]] — 754n
+- [[Kākini|Kākiṇī]] — [[1210,|121n,]] 126n
+- Kali — 886–887
+- [[Kalika|Kālikā]] — 418
+- [[Kalkia|Kalkin]] — 924n
+- [[Kāndaprstha|Kāṇḍapṛṣṭha]] — 652n
+- [[Köpina|Kānīna]] — 647, 660
+- [[Kantaka|Kaṇṭaka]] — 162, 251, 252
+- [[Kanya|Kanyā]] — 713
+- [[Kapatika|Kāpaṭika]] — 129
+- Kara — 190, 191
+- [[Karana|Karaṇa]] — 300, 307
+- [[Karita|Kārita]] — 418
+- Karma (torture) — 254
+- Karmabhūmi — 137
+- [[Kārmana|Kārmaṇa]] — [[5310|531n]]
+- Kārmāntika — [[1124|112n]]
+- Karmānuyoga — 254
+- Karmasthāna — 113
+- Karmavipāka — 392
+- [[Kārṣāpana|Kārṣāpaṇa]] — 120, [[1210|121n]]
+- Kārya — 95, 304
+- [[Kayavrata|Kāyavrata]] — 439
+- [[Kāyika|Kāyikā]] — 418, 419
+- [[Kesaria|Kesarin]] — 850n
+- [[Khanda|Khaṇḍa]] — 138
+- [[Khāri|Khārī]] — [[1240|124n]]
+- [[Kharvata|Kharvaṭa]] — 182n
+- [[Khāryatika|Khārvaṭika]] — 140
+- [[Kheta|Kheṭa]] — [[1820|182n]]
+- [[Kosa|Kośa]] — 184
+- [[Kriya|Kriyā]] — 260, 304
+- [[Kr̥ta|Kṛta]] (throw of dice) — 886–887
+- [[Kr̥ta|Kṛta]] — 339
+- [[Kr̥ta|Kṛta]] (interest) — 419
+- Kṣaya — [[4900|490n]]
+- [[Ksayādbi|Kṣayādhi]] — 430
+- Kula — 142, 150n
+- Kula (tribunal) — 280
+- Kulika — 283, [[3340|334n]]
+- Kumārāmātya — 117
+- [[Kumārisāhasa,|Kumārīsāhasa]] — 196n
+- Kumbha — 124n
+- Kumbha — 154
+- [[Kunda|Kuṇḍa]] — 646n
+- [[Kupyadi yakṣa|Kupyādhyakṣa]] — 145
+- [[Kusida|Kusīda]] — 415, 417
+- [[Kusidin|Kusīdin]] — 417
+- Lābha — [[7770|777n]]
+- [[Lagoa|Lagna]] — 229
+- Lagnaka — 419, 435
+- [[Laksanadhyaksa|Lakṣaṇādhyakṣa]] — 144
+- Lekha — 49
+- Likhita — 340
+- [[Lingin|Liṅgin]] — 610n
+- Lobhavijayin — 69
+- [[Lohābhibāra|Lohābhihāra]] (or -sāra) — [[9100|910n]]
+- Lokāyata — 46–47
+- Madhyama — 220
+- Madhyamasāhasa — 393–94
+- [[Mabadandadayaka|Mahādaṇḍanāyaka]] — 115n
+- Mahārāja — 68
+- Malimlu — 519
+- [[Mandala|Maṇḍala]] — 138–139
+- [[Māndalika|Māṇḍalika]] — 67
+- Mantraśakti — 171
+- Mantrin — 105
+- Manyu — 200
+- [[Māsa|Māṣa]] — 121n
+- Mātsyanyāya — 21, [[300|30n]]
+- [[Matsyini|Matsyinī]] — 502
+- Maula — 200, [[6340|634n]]
+- [[Māya|Māyā]] — 172
+- [[Mithya|Mithyā]] — 300
+- Mitra — 218
+- [[Mrtāotara|Mṛtāntara]] — 338n, 339
+- [[Mudrādhyaksa|Mudrādhyakṣa]] — 149
+- Mudritā — 277
+- Mūla — 463
+- [[Nādika|Nāḍikā]] — [[1461|146n]]
+- [[Nadimātrka|Nadīmātṛka]] — 133n
+- Nāgaraka — 112n, [[349|149]]
+- [[Nagarasresthin|Nagaraśreṣṭhin]] — 141, 182
+- [[Naidhani|Naidhānī]] — 502
+- Naigama — [[150n,|159n,]] 487n, [[8820|882n]]
+- [[Naisthika|Naiṣṭhika]] — 764, 962–63
+- Nāstika — 464
+- Naya — 217
+- [[Nayaka|Nāyaka]] — 112n, 142
+- [[Niband ba|Nibandha]] — [[.: 5750|575n]]
+
+[[P1086]]
+- Nigada — 676n
+- [[Nikoep&|Nikṣepa]] — 454–455
+- Nirarthaka — 300
+- [[Nirhara|Nirhāra]] — [[7888|788n]]
+- [[Nirnikta|Nirṇikta]] — 350n
+- [[Nirvyuba|Nirvyūha]] — [[5070|507n]]
+- [[Niṣada|Niṣāda]] — 599
+- [[Niska|Niṣka]] — [[1250|125n]]
+- [[Nisrstārtha|Nisṛṣṭārtha]] — 128
+- [[Nisrstilekha|Nisṛṣṭilekha]] — 310
+- Niyata — 813
+- [[Nyasa|Nyāsa]] — 454–455
+- [[Pākbandin|Pākhaṇḍin]] — 882n
+- [[Paksābhāsa|Pakṣābhāsa]] — 299
+- [[· Pala|Pala]] — [[3700|370n]]
+- Palli — 154
+- [[Papa|Paṇa]] — 539
+- [[Paiçabandba|Pañcabandha]] — 295
+- [[Pancakula|Pañcakula]] — 283
+- [[Pancamahāsabda|Pañcamahāśabda]] — 113
+- [[Pancarūdha|Pañcārūḍha]] — 312
+- [[Panya|Paṇya]] — 490, 495
+- [[Paraśava|Pāraśava]] — 599, 648, 656
+- [[Paribhāsana|Paribhūṣaṇa]] — 224
+- Paridāna — 310
+- [[Parihara|Parihāra]] — 191, 195, 310
+- [[Paribāra|Parihāra]] — 500
+- Parikraya — 224
+- Parimitārtha — 128
+- [[Pārinahya|Pāriṇahya]] — 770
+- [[Parinayya|Pāriṇayya]] — [[7700|770n]]
+- [[Parivartan,|Parivartana]] — 495
+- [[Parivssti|Parivṛṣṭi]] — 112
+- [[Parivrtti|Parivṛtti]] — 495
+- Parokta — 296, 303
+- [[Pārsnigrāha|Pārṣṇigrāha]] — 220
+- Pārṣṇigrāhāsāra — 220
+- Parvan — 737n
+- [[Pārvana|Pārvaṇa]] — [[737a|737n]]
+- [[Paryagaikarana|Paryagnikaraṇa]] — 938
+- [[Pascatkāra|Paścātkāra]] — 380–81
+- [[Paini|Patnī]] — 707
+- [[Pattakila|Paṭṭakila]] — 154
+- [[Pattana|Paṭṭana]] — [[1820|182n]]
+- Patra — 587n
+- Paura — 93–95
+- Paura-vyāvahārika — [[1120|112n]]
+- [[Poganda|Pogaṇḍa]] — [[395a, 4600|395n, 460n]]
+- [[Prabhusakti|Prabhuśakti]] — 171
+- Pracāra — 587
+- [[Prādvivāka|Prāḍvivāka]] — 272
+- Prajñāpanāpatra — 310
+- [[Prakirṇaka|Prakīrṇaka]] — 251
+- [[Prākrta|Prākṛta]] — 219
+- [[Prakrti|Prakṛti]] — 17
+- [[Pranaya|Praṇaya]] — 60, 185
+- [[Pranayana|Praṇayana]] — [[7041|704n]]
+- [[Prānnyāya|Prāṅnyāya]] — 458
+- [[Prasada patra|Prasādapatra]] — 310
+- [[Praśnavivaka|Praśnavivāka]] — 272
+- Prathamakāyastha — 141
+- Prathamakulika — 141
+- [[Prathamasahasa|Prathamasāhasa]] — 393–94
+- Pratibhoga — 191
+- Pratibhū — 435
+- [[Pratijna|Pratijñā]] — 292
+- Pratilekha — 310
+- [[Pratinyasa|Pratinyāsa]] — 458
+- Pratipakṣa — 300
+- Pratisara — 879
+- [[Pratisthitā|Pratiṣṭhita]] — 277
+- Pratyabhiyoga — 302
+- Pratyākalita — 260, 298
+- Pratyarthin — 292
+- Pratyavaskandana — 300
+- [[Pratyupavista|Pratyupaviṣṭa]] — 438
+- [[Pravesapatra|Praveśapatra]] — 442
+- Pravrajyāvasita — [[1290|129n]]
+- [[Pravrttika|Prāvṛttika]] — 310
+- Pūga — 281, 487
+- Purāṇa — [[1210|121n]]
+- [[Purta|Pūrta]] — 451
+- [[Purusārtha|Puruṣārtha]] — [[5500|550n]]
+- Pūrvanyāya — 300
+- Pūrvapakṣa — 38, 292
+- [[Pusyaspāna|Puṣyasnāna]] — 407
+- [[Rājakart|Rājakartṛ]] — 30
+- Rājamārga — 508
+- Rājan — 28, 37–38, 67–68
+- [[Rājasabdopajivin|Rājaśabdopajīvin]] — 89, 91
+- [[Rāka|Rākā]] — 388
+- [[Rāstra|Rāṣṭra]] — 138
+- [[Rāstriya|Rāṣṭriya]] — [[317n,|117n,]] 138
+- [[Ratpin|Ratnin]] — 29
+- Riktha — 543, [[5510|551n]]
+- [[Rikthabhājab|Rikthabhājaḥ]] — 650
+- [[R na|Ṛṇa]] — 416
+- [[Rta|Ṛta]] — 245
+- Rūpa — 49
+- [[Rūpadarsaka|Rūpadarśaka]] — 144
+- Rūpatarka — [[1445|144n]]
+
+[[P1087]]
+- [[Sabha|Sabhā]] — 92–93
+- Sabhika — 539
+- [[Sablaya|Sabhya]] — 273
+- [[Sabrah macarin|Sabrahmacārin]] — [[762 &|762 & n]]
+- Saciva — 104
+- [[Sadhyapāla|Sādhyapāla]] — 278
+- [[Sabasa|Sāhasa]] — 525
+- Sajāta — [[7540|754n]]
+- [[Sāksin|Sākṣin]] — 330
+- [[Sakyasamasta|Śakyasāmanta]] — 45
+- [[Salākin|Śalākin]] — 499n
+- [[Sama|Śama]] — 217
+- [[Samahartr|Samāhartṛ]] — [[1120,|112n,]] 143
+- Samāhvaya — 538
+- Samānodaka — 752–753
+- [[Samanta|Sāmanta]] — 67, 142
+- [[Samanta|Sāmanta]] — 504n
+- Samaya — 157, 826
+- Sāmayācārika — 825n
+- [[Sambhiya samutthani|Sambhūya-samutthāna]] — 466
+- Samiti — [[02-93|92–93]]
+- Sampratipatti — 300
+- [[Samrāt|Samrāṭ]] — 67, 73
+- [[Samsaktaka|Saṁsaktaka]] — [[50-4|504]]
+- [[Samsarana|Saṁsaraṇa]] — 508
+- [[Samśraya|Saṁśraya]] — 223
+- [[Sansrsta|Saṁsṛṣṭa]] — 766n, 768
+- [[Samsrstin|Saṁsṛṣṭin]] — [[7660|766n]]
+- Samudra — 933
+- [[Samvatsara|Sāṁvatsara]] — 126
+- [[Samvid|Saṁvid]] — 486
+- [[Samvitpatra|Saṁvitpatra]] — 311
+- [[Samya|Śamyā]] — 500n
+- [[Sadabhi|Sanābhi]] — [[33401, 7541|334n, 754n]]
+- [[Sancara|Sañcara]] — 130
+- Sandhi — 223
+- Sandhipatra — 311
+- [[Sangha|Saṅgha]] — 88
+- [[Sangraha|Saṅgraha]] — 141
+- [[Sangrabana|Saṅgrahaṇa]] — [[110,|140,]] 531
+- [[Śhaṅkara|Saṅkara]] (misjoinder of causes of action) — 302
+- [[Sannidhātr|Sannidhātṛ]] — 112n, 143
+- Santāna — 750–751
+- [[Sānti|Śānti]] — 231
+- [[Sapana|Sapaṇa]] — 263
+- [[Sapatha|Śapatha]] — 354, 358
+- [[Sapratibandba-dāya|Sapratibandha-dāya]] — 546
+- Sapratyayabhogyādhi — 430
+- [[Sārnga|Śārṅga]] — 373
+- [[Sārthavība|Sārthavāha]] — 141
+- [[(Sarvabbauma|Sārvabhauma]] — 66, 68
+- [[Sarvadhana|Sarvādhāna]] — 961
+- Sarvatraga — 310
+- [[Sasana|Śāsana]] — 310
+- [[Sasanahara|Śāsanahara]] — 128
+- [[Sāsitā|Śāsitā]] — 277
+- [[Satadaya|Śatadāya]] — 388
+- [[Sataghni|Śataghnī]] — 213
+- [[Satamāna|Śatamāna]] — 122, [[1250|125n]]
+- Satrin — 129–130
+- [[Satru|Śatru]] — 218
+- Satya — 300
+- [[Satyankāra|Satyaṅkāra]] — 435, [[4910|491n]]
+- Saudāyika — 778
+- [[Saudra|Śaudra]] — 599, 646, 656
+- [[Sauryadbana|Śauryadhana]] — 583–584
+- Sautrāmaṇi — 940
+- [[Sesa|Śeṣa]] — 579n
+- [[Seti|Setu]] — 510
+- [[Siklāvrddhi|Śikhāvṛddhi]] — 419
+- [[Sila|Śila]] — [[8250|825n]]
+- [[Silpiayāsa|Śilpinyāsa]] — 458
+- [[Simbidhanya|Śimbīdhānya]] — 191
+- [[Siras|Śiras]] — 119n
+- [[Sirastha|Śirastha]] — 364
+- [[Sirsakastha|Śīrṣakastha]] — 364
+- [[Sisu|Śiśu]] — 395n
+- [[Sisya|Śiṣya]] — 482
+- [[Sitā|Sītā]] — [[1470|147n]]
+- Śiva — 893n
+- Smārita — 339
+- [[Smārtakala|Smārtakāla]] — 321
+- Sottara — 263
+- [[Sreni|Śreṇi]] — 281, 287
+- [[Srenibala|Śreṇībala]] — 201
+- [[Sthanakrta|Sthānakṛta]] — [[3090|309n]]
+- [[Stbānapāla|Sthānapāla]] — 149
+- Sthānika — 143, 149
+- [[Sthaniya|Sthānīya]] — 140
+- Sthitipatra — 311
+- [[Sthulalakia|Sthūlalakṣa]] — 44
+- Stobhaka — 264
+- Stoma — 480
+- Sūcaka — 264
+- [[Suci|Sūcī]] — 339
+- [[Suddhavadha|Śuddhavadha]] — 400n
+- [[Sūkadhānya|Śūkadhānya]] — 191
+- [[Sala|Śūla]] — [[893a|893n]]
+- [[Sulka|Śulka]] — 146, 190, 191
+
+[[P1088]]
+- [[Sulka|Śulka]] — 775–776
+- Sūnā — 148
+- Suvarṇa — 121n, [[1250|125n]]
+- [[Svāmia|Svāmin]] — 547
+- Sva — 547
+- [[Svapurusa|Svapuruṣa]] — 278
+- Svārājya — 65
+- [[Svarāt|Svarāṭ]] — 68, 73
+- Svayamukti — 339
+- [[Tapasa|Tāpasa]] — 129
+- Tāyu — 519
+- [[Tiksna|Tīkṣṇa]] — 130
+- [[Tirita|Tīrita]] — 383
+- [[Tirtha|Tīrtha]] — 112–113
+- [[Traipurusika|Traipuruṣika]] — 737
+- [[Trayi|Trayī]] — 48
+- [[Treto|Tretā]] — 888
+- [[Udasina|Udāsīna]] — 220
+- [[Udāstbita|Udāsthita]] — 129
+- Uddhāra — 625
+- [[Uddharapatra|Uddhārapatra]] — 311
+- [[Udvrsabhayajsia|Udvṛṣabhayajña]] — [[8510|851n]]
+- Ugra — 64
+- [[Uktalabha|Uktalābha]] — 493
+- [[Upadha|Upadhā]] — 105
+- Upagata — 311, 442
+- Upagraha — 224
+- Upahāra — 224
+- [[Upakarana|Upākaraṇa]] — [[9450|945n]]
+- [[Upakurvāna|Upakurvāṇa]] — 764, 962–63
+- Upanidhi — 454
+- Uparika — 141
+- Upaśruti — 967n, 968n
+- Upayācita — [[9670|967n]]
+- [[Upeksa|Upekṣā]] — 172
+- Utkoca — 473
+- [[Utsābasakti|Utsāhaśakti]] — 171
+- [[Uttamarna|Uttamarṇa]] — 415
+- [[Uttamasahasa|Uttamasāhasa]] — 393–94
+- Uttara (reply) — [[.300|300]]
+- Uttara (a kind of witness) — 340
+- Uttara (future) — [[8860|886n]]
+- Utthāna — 169
+- Vadha — 526n
+- Vaidya — [[5810|581n]]
+- Vairājya — 102
+- Vākyānuyoga — 254
+- [[Vārdhusa|Vārdhuṣa]] — 417
+- [[Vārdhusika|Vārdhuṣika]] — 417–418, 428n
+- Vargin — 283
+- [[Vārta|Vārtā]] — 50–51
+- Vatsanābha — 373
+- Veda (bunch of [[kusa|kuśa]] grass) — 842
+- Velāpura — 193
+- Vibhāga — 560
+- Vigraha — 223
+- [[Vijigisu|Vijigīṣu]] — 218
+- [[Vinādi|Vināḍī]] — 370n
+- [[Vibaya|Vinaya]] — 51–52
+- Vinimaya — 495
+- [[Virāt|Virāṭ]] — 68, 73
+- [[Visaya|Viṣaya]] — 138
+- [[Visayapati|Viṣayapati]] — 141
+- [[Visuddhipatra|Viśuddhipatra]] — 311
+- [[Visti|Viṣṭi]] — 208
+- Vivāda — 246
+- Vivāsana — 352n
+- Vrāta — 487
+- [[Vrddhi|Vṛddhi]] — 418
+- [[Vyābrti|Vyāhṛti]] — 689n
+- Vyasana — 232
+- [[Vyavahara|Vyavahāra]] — 245–46, 260, 435
+- Vyavahārapada — 248, 250–51
+- Vyāyāma — 217
+- [[Yacitaka|Yācitaka]] — 426, 458
+- [[Yadrcchābhijña|Yadṛcchābhijña]] — 339
+- [[Vādrcchika|Yādṛcchika]] — 339
+- [[Yajya|Yājya]] — 586n
+- [[Yana|Yāna]] — 223, [[220|226]]
+- Yātavya — 218
+- [[Yātudhana|Yātudhāna]] — 359
+- Yautaka — 779
+- [[Yogaksema|Yogakṣema]] — 588–89
+- Yonisambandha — [[7540|754n]]
+- Yuga — 886
+- Yukti — 354–355
+- [[Yuktilesa|Yuktileśa]] — 354
+- Yūpahastin — [[8360|836n]]
