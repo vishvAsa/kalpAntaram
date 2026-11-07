@@ -14,13 +14,13 @@ PRATIṢṬHA AND UTSARGA
 The subject of gifts naturally leads on to the topics of pratiṣṭhā and utsarga. We saw above (p. 157 f. n. 370) how the construction of temples, wells and similar religious and charitable foundations and institutions was included under pūrtadharma and how śūdras were entitled to perform such dharma. The Mit. on Yāj. II. 114 points[^2066] out that women (and widows) were entitled to spend on pūrta objects, though they were not authorized to perform iṣṭa dharma (i. e. vedic sacrifices &c.). Modern decisions have gone so far that a Hindu widow whose powers of alienating for secular purposes property inherited from her husband are very limited has been held to possess greater powers of alienation if the alienation be made for the spiritual benefit of her deceased husband and dedications by her of a small fraction of the property for the continuous benefit of the soul of the deceased owner have been upheld.[^2067] Such works of public utility have been highly recommended from very ancient times. Śabara[^2068] on Jaimini I. 3. 2 refers to the smṛti rules about charitable objects which are based on such śruti passages as 'O Agni, who art ancient and a king, thou art to the man who desires to offer a sacrifice like prapā (shed where water is distributed to travellers) in a desert'. In
 
 [^2066]:
-    किं च यज्ञादिव्ययं धर्मोपकरणपरतया ज्ञायमानं पूर्तधर्माविरोधायत्त्वमर्हतीति । मिता. on या. II. 114.
+    किं च यज्ञशब्दस्य धर्मोपलक्षणपरत्वे स्त्रीणामपि पूर्तधर्माधिकारात्तद्ग्रहणम् युक्ततरम् । मिता. on या. II. 114.
 
 [^2067]:
     Vide Sardar Singh v. Kunj Behari L. R. 49 I. A. 383 p. 391 (a gift made by a widow of a small part of her husband's property to the temple of Jagannātha at Purī for bhoga i. e. food offerings to the deity was upheld); Thakur Indraj Bux v. Thakur Sheo Naresh, 2 Lucknow 713 (where a temple erected and endowed by a widow for the benefit of her husband's soul as well as of her own by alienating about 1/15th part of the entire property left by her husband was held to be valid).
 
 [^2068]:
-    मृत्पात्रादीनि च परोपकाराय न धर्मायेत्येवावगम्यते । तथा च बृहन्नारदः । बृहस्पतिश्च प्रपा असीति ॥ तथा एतल्लयोदकं परिपाल्यन्तीति च । शाबर on जै. I. 3. 2 ; धर्मविधिः प्रपा असि स्वमग्न इयक्षसे प्रत्न राजन् ॥ ऋ. X. 4. 1 ; भोजस्पेदं पुष्करिणीव वेश्म परिष्कृतं वेश्मभिर्निवेशनैः ॥ ऋ. X. 107. 10.
+    प्रपास्तडागानि च परोपकाराय न धर्मायेत्येवावगम्यते । तथा च दर्शनम् । धर्मविधिः प्रपा असीति ॥ तथा स्थल्योदकं परिगृह्णन्तीति च । शबर on जै. I. 3. 2 ; धर्मविधिः प्रपा असि त्वमग्न इयक्षवे पूरवे प्रत्न राजन् ॥ ऋ. X. 4. 1 ; भोजस्येदं पुष्करिणीव वेश्म परिष्कृतं देवमानेव चित्रम् । ऋ. X. 107. 10.
 
 [[P890]]
 
@@ -29,10 +29,10 @@ Rg. X. 107. 10 a puskariṇī (a tank) is mentioned. The Viṣṇu Dh. S. (chap.
 From very ancient times the procedure of dedicating a well or tank to the public has been settled. Among the earliest is the one in the Sāṅkhyāyana gṛ. V. 2 (S. B. E. vol. 29 pp. 134–135) which is as follows: Now about the consecration of ponds, wells and tanks. In the bright fortnight or on an auspicious tithi (day) having cooked a caru (boiled food) of barley in milk he (the donor) should sacrifice with the two verses 'tvam no agne' (Rg. IV. 1. 4–5) and with the verses 'ava te hela' (Rg. I. 24. 14), 'imam me varuṇa' (Rg. I. 25. 19), 'uduttamaṁ Varuṇa' (Rg. I. 24. 15), 'imāṁ dhiyam' (Rg. VIII. 42. 3) and with the words 'the domestic one, he who goes away from the house, the refreshing one, he who goes into the kennel, he who dwells in the kennel, he who comes out of it, the greedy one, the destroyer of enemies' to the different directions beginning with the west (Vāruṇī, one over which Varuṇa presided) from left to right. In the centre he makes oblations with milk with the verses 'viśvatas cakṣuruta' (Rg. X. 81. 3), 'idam Viṣṇur' (Rg. I. 22. 17); he plunges into the water with the verse 'yat kiṁ cedam Varuṇa' (Rg. VII. 89. 5).[^2071] A cow and a pair of
 
 [^2069]:
-    स्मृतिष्वाचारेषु सभाप्रपापुष्पारामाद्युत्सृष्टमर्थविशेषं ...... विहासिजनेनाधिष्ठिता (उज्जयिनी) । कादम्बरी para 44.
+    स्मृतिशास्त्रेणेव सभावसथकूपप्रपारामसुरसदनसेतुयन्त्रप्रवर्तकेन ...... विलासिजनेनाधिष्ठिता (उज्जयिनी) । कादम्बरी para 44.
 
 [^2070]:
-    इष्टापूर्ते स्मृते धर्मे श्रुते तौ विद्वद्भिस्तथा । प्रतिष्ठायां तयोः पूर्तमिष्टं यज्ञादि-लक्षणम् ॥ मुक्तिशक्तिप्रदं पूर्तमिष्टं भोगार्थसाधनम् । कालिकापुराण quoted in कृत्यरत्नाकर p. 10.
+    इष्टापूर्तौ स्मृतौ धर्मौ श्रुतौ तौ शिष्टसंमतौ । प्रतिष्ठाद्यं तयोः पूर्तमिष्टं यज्ञादि-लक्षणम् ॥ भुक्तिमुक्तिप्रदं पूर्तमिष्टं भोगार्थसाधनम् । कालिकापुराण quoted in कृत्यरत्नाकर p. 10.
 
 [^2071]:
     Even in the e. g. Rg. in VII. 49. 3 (yāsāṁ rājā varuṇo yāti madhye) Varuṇa is the lord of waters and therefore it is appropriate that in dedicating wells and tanks to the public Varuṇa should be invoked in several verses.
@@ -80,10 +80,10 @@ Reservoirs of water that are dug out by man are of four kinds, kūpa, vāpī, pu
 Trees have been highly prized in India at all times. They were useful in sacrifices for making the yūpa (the post to
 
 [^2077a]:
-    अत्र केचित् । स्वस्य जलाशयजलोपभोगे चिरद्धः । रथकस्य पुनः स्वीकारानर्ह-त्वात् । न चैकस्य एकक्रियायां दानकर्तृत्वं संप्रदानत्वं च संभवति । अत एव सत्रयागे यजमान-मेव स्वेषामलिकत्वेन नास्ति दक्षिणेत्याहुः । तथा च । रथकजलस्यापि नद्यादिजलवदैवाप्त-निकसरवापरोधात् । भोजयित्वा द्विजान्सम्यक् तोयमुत्सृजयेत्ततः । सर्वभूतान् समुद्दिश्य इति वार्धं समुच्चरेत् ॥ इति हयशीर्षे असंकुचितसर्वपदार्थात् स्वस्यापि त्यागोऽत्रैवान्तर्भाव्यः । दानक्रियाकौमुदी p. 126 ; compare जलाशयोत्सर्गतत्त्व (Jiv. part II. p. 526).
+    अत्र केचित् । स्वस्य जलाशयजलोपभोगो विरुद्धः । त्यक्तस्य पुनः स्वीकारानर्ह-त्वात् । न चैकस्य एकक्रियायां दानकर्तृत्वं संप्रदानत्वं च संभवति । अत एव सत्रयागे यष्टॄणामेव स्वेषामृत्विक्त्वेन नास्ति दक्षिणेत्याहुः । तन्न । त्यक्तजलस्यापि नद्यादिजलवदौपादानिकसत्त्वाविरोधात् । भोजयित्वा द्विजान्सम्यक् तोयमुत्सर्जयेत्ततः । सर्वभूतान् समुद्दिश्य इति वाचं समुच्चरेत् ॥ इति हयशीर्षे असङ्कुचितसर्वपदबलात् स्वस्यापि त्यागोद्देश्यवर्गान्तर्भावाच्च । दानक्रियाकौमुदी p. 126 ; compare जलाशयोत्सर्गतत्त्व (Jiv. part II. p. 526).
 
 [^2078]:
-    अथ जलाशयाः । ते च खननसाध्यास्तावत् कूपवापीपुष्करिणीतडागाख्याः । तथा च मत्स्यपुराणम् । ...... कूपोऽद्वारको गर्तविशेषः सद्वसोपानकश्च वापीति देशनिर्णयः । जलाशयोत्सर्गतत्त्व of रघुनन्दन. Vide also दानक्रियाकौमुदी p. 126.
+    अथ जलाशयाः । ते च खननसाध्याश्चत्वारः कूपवापीपुष्करिणीतडागरूपाः । तथा च मत्स्यपुराणम् । ...... कूपोऽद्वारको गर्तविशेषः बहुसोपानकोयं वापीति हैमनिर्णयः । जलाशयोत्सर्गतत्त्व of रघुनन्दन. Vide also दानक्रियाकौमुदी p. 126.
 
 [^2079]:
     Vide दानक्रियाकौमुदी p. 132 and हेमाद्रि (दानखण्ड p. 1003) quoting विष्णुधर्मोत्तर.
@@ -184,10 +184,10 @@ The Vaikhānasa Smārtasūtra (IV. 10–11) contains perhaps the earliest extant
 image of) the god on these with the head turned to the east and leaves the image there. On the second day after he bathes, he offers at night the āghāra in the usual way; he brings eight jars, fills them successively with pañcagavya, ghee, curds, milk, water mixed with whole rice, water with fruits, water with kuśa grass, water with jewels (pearls &c.); worships the god, bathes the image with the (contents of) the (eight) jars successively with the following mantras: 'vasoḥ pavitram' (Vāj. S. I. 31), 'agna āyāhi', 'iṣe tvörje tvā,' 'śaṁ no devīr,'[^2093] 'catvāri śṛṅgā' (Rg. IV. 58. 3), 'somo dhenum' (Rg. I. 91. 26), 'catvāri vāk' (Rg. I. 164. 45), 'idam viṣṇur' (Rg. I. 22. 17); he further bathes the image with perfumed waters to the accompaniment of the mantras 'āpo' (Rg. X. 9. 1), 'hiraṇyavarṇāḥ' (Tai. S. V. 6. 1. 1) and the pavamāna section. He then makes to the north of the fire a vedi (altar) with rice, places a seat on it, spreads cloth on it, places the god thereon and having decked (the image) with clothes &c. worships the image. He has the benediction pronounced (by the brāhmaṇas), he touches the pratisara (a band or ribbon) with the svasti hymn[^2094] and ties it (on the right hand of the image) with the mantra 'svastidā viśaspatir' (Rg. X. 152. 2). He then lays the god down as before. After filling with purified clear water a jar that is not dark-coloured, he places it by the (right) side of the image, touches it with the syllable 'om' and throws into it a bunch of kuśa grass, whole rice, a piece of gold and a jewel (pearl). Having meditated on the god who is really without parts as residing in his own heart and also in the clear water, as golden in splendour, as having red face, eyes, hands and feet, as wearing the śrīvatsa mark and a yellow garment, as having (in his hands) the conch and the disc, as of benign countenance and as possessed of all parts (i. e. complete) he should bow before him. Having sprinkled water round the fire and having lauded the work of the hotṛ, he invokes the god by name in the southern praṇidhi vessel in the words 'om bhūḥ puruṣam' (āvāhayāmi) and performs invocations in the same way with vyāhṛtis separately and together and of Nārāyaṇa,
 
 [^2093]:
-    Iṣe tvorje tvā, agna āyāhi, śaṁ no devīr—are the beginnings of the three Vedas, Yajurveda (Śukla and Kṛṣṇa), Sāmaveda and Atharvaveda. In the Sānnakīya recension of the Atharvaveda the first verse is 'Ye triṣaptāḥ' and 'śaṁ no devīr' is Atharva I. 6. 1.
+    Iṣe tvorje tvā, agna āyāhi, śaṃ no devīr—are the beginnings of the three Vedas, Yajurveda (Śukla and Kṛṣṇa), Sāmaveda and Atharvaveda. In the Śaunakiya recension of the Atharvaveda the first verse is 'Ye triṣaptāḥ' and 'śaṃ no devīr' is Atharva I. 6. 1.
 
 [^2094]:
-    The स्वस्तिगण is स्वस्ति नो मिमीताम् &c Rg. V. 51. 11–15, in each verse of which the first word is svasti.
+    The स्वस्तिसूक्त is स्वस्ति नो मिमीताम् &c Ṛg. V. 51. 11–15, in each verse of which the first word is svasti.
 
 [[P903]]
 
@@ -198,7 +198,7 @@ In Vaik. IV. 12 the daily worship of Viṣṇu is set out.
 The practice of attaching dancing girls to temples is of respectable antiquity. The origin of this practice appears to be analogous to the institution of Vestal Virgins in Rome. The Rājataraṅgiṇī (IV. 269) speaks of two dancing girls attached to a temple (devagṛhāśrite nartakyau) who danced and sang at a place as it was the custom of their family, though the temple itself was buried underground. In the Vaghli (Khandesh District) stone Inscription dated śake 991 (1069–70 A. D.) there is a grant of Govindarāja making provision for dancing and singing by damsels[^2095] (vilāsini). In the Inscription of the Cāhamāna king Jojaladeva dated saṁvat 1147 (1090–91 A. D.) the courtezans of all temples are said to have been ordered to come in their best dress and celebrate a festival with music (E. I. vol. XI. 26 and 27) and the king records an imprecation
 
 [^2095]:
-    नृत्यगीतकुशलाभिर्विलासिनीभिः समन्वितम् (E. I. vol. II p. 287).
+    नाटकं गीतनृत्यार्थं विलासिनिसमन्वितम् (E. I. vol. II p. 227).
 
 [[P904]]
 
@@ -216,7 +216,7 @@ an image is broken or stolen a fast should be observed. If images of metal such 
 *Jīrṇoddhāra* (rehabilitating old or dilapidated temples &c.). This subject is closely connected with the preceding topic and is dealt with in the Agnipurāṇa, chap. 67 and 103 (about liṅgas); the Nirṇayasindhu (III. pūrvārdha p. 353), the Dharmasindhu (III. pūrvārdha p. 335) give an extensive procedure following the Agnipurāṇa. This is done when the image in a temple or a liṅga is burnt, or reduced to particles or is removed to another place. The Agnipurāṇa (103. 4) says that if an image or liṅga is carried off by the strong current of a river, it may be re-consecrated elsewhere according to the rites prescribed in the śāstra. According to the Agnipurāṇa[^2097] (103. 21) a liṅga that is reputed to have been established by the asuras (like Bāṇāsura) or famous sages or by gods or by those who were expert in Tantra should not be removed to another place, whether it be worn out or broken, even after the performance of prescribed rites. The Agnipurāṇa prescribes (chap. 67. 3–6) that an image of wood when extremely worn out may be burnt, one of stone may be thrown into water, one made of metal or of a jewel (pearl &c.) should be thrown into very deep water or the sea after carrying it covered with cloth in a cart to the accompaniment of music and on the same day another of the same dimensions and substance should be installed after the purification of the image is effected. When the daily worship of an image
 
 [^2097]:
-    न देवेन प्रतिष्ठाप्यं ... यदि । ततोऽन्यत्रापि संस्थाप्य विधिवद् देशे कारयेत् ॥ असुरैर्निर्मितं लिङ्गं ... प्रतिष्ठितम् । जीर्णं वाप्यथवा भग्नं विधिनापि न चालयेत् ॥ अग्निपुराण 103. 4 and 21.
+    नादेयेन प्रवाहेण तद्यपाक्रियते यदि । ततोऽन्यत्रापि संस्थाप्य विधिदृष्टेन कर्मणा ॥ असुरैर्मुनिभिर्देवैस्तन्त्रविद्भिः प्रतिष्ठितम् । जीर्णं वाप्यथवा भग्नं विधिनापि न चालयेत् ॥ अग्निपुराण 103. 4 and 21.
 
 [[P906]]
 
@@ -231,7 +231,7 @@ The Kirāḍu (Jodhpur) Inscription of the time of king Bhīmadeva of Anahillap�
 The founding of mathas appears to have been not very ancient. The Baud. Dh. S. (III. 1. 16) in speaking of a householder who is an agnihotrin remarks 'after departing from his house he (the householder) stops at the extremity of the village, builds there a hut (kuṭī), or a cottage hall (maṭha) and enters it'. Here maṭha does not appear to have any technical sense. In the lexicon of Amara a maṭha is defined as 'a place where pupils (and their teacher) reside'. A temple
 
 [^2098]:
-    प्रतिमारामकूपसेतुविज्ञानभङ्गेषु तत्संस्थापनं प्रतिसंस्कारो ... वि. र. p. 364. The निर्णयसिन्धु explains संस्थापनं प्रतिक्रिया प्रतिसंस्कारः पुनः प्रतिष्ठा ... (III, पूर्वार्ध p. 362.)
+    प्रतिमारामकूपसंक्रमध्वजसेतुनिपानभङ्गेषु तत्समुत्थापनं प्रतिसंस्कारोऽष्टशतं च । वि. र. p. 364. The निर्णयसिन्धु explains समुत्थानं प्रतिक्रिया प्रतिसंस्कारः पुनः प्रतिष्ठा अष्टशतं पणा दण्डश्चेत्यर्थः । (III, पूर्वार्ध p. 352.)
 
 [[P907]]
 
@@ -256,10 +256,10 @@ That temples and maṭhas have throughout the centuries been supplementary to ea
 A passage quoted in the Dānacandrikā from the Skandapurāṇa states that a maṭha should be provided with cots and seats, should be thatched with grass and provided with platforms and should be donated to brāhmaṇas or ascetics at some auspicious time; by so doing a man secures all his desires and if he has no worldly desires he secures release (from saṁsāra).[^2102]
 
 [^2101]:
-    शिवालये विष्णुगृहे सूर्यस्य भवने तथा । सर्वज्ञानप्रदः स स्यात्पुस्तकं याचयेत् सदा ॥ अग्निपुराण 211. 57.
+    शिवालये विष्णुगृहे सूर्यस्य भवने तथा । सर्वज्ञानप्रदः स स्यात्पुस्तकं वाचयेत्तु यः ॥ अग्निपुराण 211. 57.
 
 [^2102]:
-    कूरवा मठं प्रयत्नेन खायनासनसंयुतम् । तृणैराच्छादितं चैव वेदिकाभिः सुशोभितम् । पुण्यकाले द्विजेभ्यो वा यतिभ्यो वा निवेदयेत् ॥ सर्वान् कामानवाप्नोति निष्कामो मोक्षमाप्नुयात् ॥ स्कन्दपुराण quoted in दानचन्द्रिका p. 152.
+    कृत्वा मठं प्रयत्नेन शयनासनसंयुतम् । तृणैराच्छादितं चैव वेदिकाभिः सुशोभितम् । पुण्यकाले द्विजेभ्यो वा यतिभ्यो वा निवेदयेत् ॥ सर्वान् कामानवाप्नोति निष्कामो मोक्षमाप्नुयात् ॥ स्कन्दपुराण quoted in दानचन्द्रिका p. 152.
 
 [[P910]]
 
@@ -270,14 +270,14 @@ Throughout India for many centuries there have been well-endowed temples and ma�
 In Girijanund Datta Jha v. Sailajanund Datta Jha 23 Cal. 645 it is observed as follows (at p. 653) 'notwithstanding the existence of numerous richly endowed Hindu shrines all over India from the earliest times, the Hindu Law strictly so called is, as Sir T. Strange complains (see his Hindu Law, Ed. of 1839, vol. 1, p. 32) meagre in its provisions relating to religious endowments, a fact which may perhaps be accounted for on the supposition that the high reputation for piety and purity of character justly enjoyed for the most part by the priestly classes of ancient India who had the management of the shrines was deemed a sufficient safeguard against breach of duty, so as to render detailed rules of law to regulate their conduct unnecessary'. In the following some of the meagre material that can be gathered from Dharmaśāstra works and analogous writings is set out. Manu (XI. 26) first appeals to the religious sentiments of people by declaring that the wicked man who from greed seizes the property of gods or of brāhmaṇas feeds in another world on the leavings of the food of vultures. Śabara remarks (on Jaimini[^2103] IX. 1. 9) that when it is said that a village or field belongs to a god, that is not a literal expression but used only in a secondary sense. That is said to be owned by a person which one can use as one likes; a field or a village cannot be used by a deity; but the attendants on the god (or temple) are maintained out of what is donated to a temple or god. From this it follows that all those rules that apply to a gift to a human being do not apply to a property dedicated to an
 
 [^2103]:
-    देवग्रामो देवक्षेत्रमिति उपचारमात्रम् । यो यदभिप्रेतं विनियोक्तुमर्हति तस्य तत् स्वम् । न च ग्रामं क्षेत्रं वा यथाभिमतं विनियुङ्क्ते देवता । ...... देवपरिचारकाणां तु यतो वृत्तिस्तेभ्यस्तद्दीयते तत्पर्यन्तम् । शाबर on जै. IX. 1. 9.
+    देवग्रामो देवक्षेत्रमिति उपचारमात्रम् । यो यदभिप्रेतं विनियोक्तुमर्हति तत्तस्य स्वम् । न च ग्रामं क्षेत्रं वा यथाभिप्रायं विनियुङ्क्ते देवता । ...... देवपरिचारकाणां तु ततो वृत्तिर्भवति देवतामुद्दिश्य यत्त्यक्तम् । शबर on जै. IX. 1. 9.
 
 [[P911]]
 
 idol. Medhātithi[^2104] (on Manu XI. 26 and II. 189) points out that images cannot be said to be owners in the literal sense, but only in a secondary or ideal sense, since the idol in a shrine cannot use the property at its will nor can it safeguard it and ownership consists in being able to use the thing owned as one desires and in being able to preserve it. In modern times courts in India have laid down that an idol is a juridical person capable of holding property, though from the very nature of the case the possession and management of the property rests with a manager or a trustee. A maṭha is in the same position as an idol. The rights of the idol or of the maṭha can be safeguarded and vindicated in a court of law only by the manager or trustee of the temple or by the head (called mohunt) of the maṭha.[^2105] Vide Bhupati Nath v. Ram Lal 37 Cal. 128 (F. B.) at pp. 145–153 where Mr. Justice Mukerji examines at length passages of Śabara, Medhātithi, the Dāyabhāga and its commentators to explain what is meant by a gift to an idol according to the notions of the Hindu writers. Manu and other smṛtikāras lay down that it is part of the king's duty to prosecute and fine persons interfering with or destroying the property of temples. Yāj. II. 228 prescribes a fine of 40, 80 or 160 paṇas respectively for cutting off the twigs, principal branches of trees or the entire trees themselves that grow on built up platforms or in cemeteries or on boundaries or in holy places or near temples. Yāj. (II. 240 and 295) prescribes the highest amercement for fabricating a false edict or for tampering with royal edicts by inserting more or less than what is intended to be granted by the king. The Mit. on Yāj. II. 186 says that the king should sedulously safeguard all rules made about the pastures for cows (in a village) or about the preservation of tanks and temples. Manu IX. 280 requires the king to pronounce the death sentence on those who break into a royal storehouse or an armoury or a temple and prescribes that the breaker of an image shall repair the whole damage and also pay a fine of five hundred paṇas. Kaut. III. 9 prescribes punishment
 
 [^2104]:
-    नहि देवतानां स्वरूपातिरिक्तोऽस्ति व्यापारः ... इति मेधा. on मनु II. 189; देवादिद्रव्यं यद्देवतात्परिकल्पितं तद्देवतास्वं ... स्वरूपसंबन्धस्य देवानामसंभवात् । न हि देवता इच्छया धनं नियुङ्क्ते । न च परिपालनव्यापारस्तासां दृश्यते । एवं च लोके तद्वदेव । मेधा. on मनु XI. 26.
+    नहि देवतानां स्वस्वामिभावोऽस्ति मुख्यार्थासंभवाद्गौण एवार्थो ग्राह्यः । मेधा. on मनु II. 189 ; देवानुद्दिश्य यागादिक्रियार्थं यद्धनमुत्सृष्टं तद्देवस्वं मुख्यस्य स्वस्वामि-संबन्धस्य देवानामसम्भवात् । न हि देवता इच्छया धनं नियुङ्क्ते । न च परिपालनव्यापारस्तासां दृश्यते । स्वं च लोके तादृशमुच्यते । मेधा० on मनु XI. 26.
 
 [^2105]:
     Vide Prosunno Kumari v Golab Chand L. R. 2. I. A. 145 at p. 152; Pramatha Nath v Pradyumna L. R. 52 I. A. 245, 251–52.
@@ -287,23 +287,23 @@ idol. Medhātithi[^2104] (on Manu XI. 26 and II. 189) points out that images can
 for encroachment on temples. From the Kauṭilīya[^2106] we know that kings appointed an officer called 'devatādhyakṣa' (Superintendent of temples) and that when the king's treasury became empty it was part of the duty of that officer to bring together all the wealth of the temples in the forts and other parts of the country and the king could in an emergency use that wealth (and probably used to return it later when financial stringency ceased). Among matters called prakirṇaka (miscellaneous) of which the king was to take cognisance suo motu without anybody's complaint, Nārada includes (in verse 3) 'abstraction of gifts' and 'gifts of villages and towns to brāhmaṇas' (verse 2). According to the Sm. C. among the topics called chalas[^2107] were two viz. the destruction of a reservoir of drinking water and of a temple. Kātyāyana states that mere wrongful possession for any length of time of women, of state property and of temple property would not confer ownership on anybody. These texts indicated that the Government of the day protected temple properties, tanks, wells and the like that were dedicated to the public and exercised powers of superintendence and correction in matters affecting them. Yāj. II. 191 says that those who look after the business of guilds etc. in which many are interested should be students of the Veda, men of rectitude and free from greed. They are styled kāryacintaka by him. Bṛhaspati[^2108] quoted by Aparārka says (p. 796) that these kāryacintakas (committee) should consist of two, three or five persons and that if there be disagreement between the larger bodies and the committee the king should decide that dispute and should bring round to the proper path whoever might be in the wrong. It appears that from very ancient times (3rd or 2nd century B. C.) the committee in charge of religious foundations was called goṣṭhī and the
 
 [^2106]:
-    मर्यादाहरणे दुर्गः सहस्रदण्डः । मर्यादाभेदे चत्वारिंशत्पणः । तेन तपोवनविहारवापीदेवगृह ... । कौटिल्य III. 9; देवताध्यक्षो दुर्ग ... देवतानां यथास्वमेकस्थं कोशं कुर्यात् । तथैव चाहरेत् । कौटिल्य V. 2.
+    मर्यादापहरणे पूर्वः साहसद्ण्डः । मर्यादाभेदे चतुर्विंशतिपणः । तेन तपोवन-विवीतमहापथश्मशानदेवकुलयजन-पुण्यस्थान-विवादा व्याख्याताः । कौटिल्य III. 9 ; देवताध्यक्षो दुर्गराष्ट्रदेवतानां यथास्वमेकस्थं कोशं कुर्यात् । तथैव चाहरेत् । कौटिल्य V. 2.
 
 [^2107]:
-    छलानि चापराधेषु दण्डनीतौ ... । ... पथिभङ्गी काराक्षेपी प्राकारोपरिलङ्घकः । निपानस्य विनाशी च तथा चायतनस्य च ॥ नारद quoted in the स्मृतिचन्द्रिका (व्यव. p. 27).
+    छलानि चापराधांश्च पदानि नृपतेस्तथा । स्वयमेतानि गृह्णीयान्नृपस्त्वावेदकैर्विना ॥ पथिभङ्गी कराक्षेपी प्राकारोपरिलङ्घकः । निपानस्य विनाशी च तथा चायतनस्य च ॥ पितामह quoted in the स्मृतिच. (व्यव. p. 27).
 
 [^2108]:
-    द्वौ त्रयः पञ्च वा कार्याः समुद्धरितवार्तिकैः । कार्यं चेद् वदतां तेषां ग्रामेणेतिगणाब्धिभिः ॥ बृहस्पति quoted by अपरार्क p. 796 ; दुर्गे वा सह समूहानां विसंवादो भवेद्यदि । तदा विचारयेद्राजा स्वमार्गे स्थापयेच्छ तान् ॥ अपरार्क p. 794.
+    द्वौ त्रयः पञ्च वा कार्याः समूहहितवादिनः । कर्तव्यं वचनं तेषां ग्रामश्रेणिगणादिभिः ॥ बृहस्पति quoted by अपरार्क p. 796 ; मुख्यैः सह समूहानां विसंवादो भवेद्यदि । तदा विचारयेद्राजा स्वमार्गे स्थापयेच्च तान् ॥ अपरार्क p. 794.
 
 [[P913]]
 
 members goṣṭhika.[^2109] In some inscriptions the superintendent of a temple is called sthānapati (vide Śrīraṅgam plates of Devarāya II dated śake 1356 in E. I. vol. 18, p. 138). In the Sirpur Stone Inscription of Mahāśivagupta (about 8th or 9th century A. D.) of Mahākosala provision is made for a portion of the property granted being heritable by the sons and grandsons of the donees only if they were worthy, kept up agnihotra, studied the six aṅgas and had clean mouths and did not engage in service and further that if the heir did not possess these qualities or died without leaving a son &c., then another person, a relative with the requisite qualifications, could be made the recipient of that share, and he was to be elderly and learned and was to be chosen by mutual agreement and the king's express order was not to be necessary for his selection.[^2110] Paithīnasi quoted by Aparārka p. 746 ordains that the king should not deprive temples and corporations of their properties. A record from Malabar of the 11th century A. D. gives the details of temple administration in Kerala, that was in the hands of Yogam (corporation) wielding independent power (E. I. vol. 18 p. 340). The Peshwa's Government at Poona often interfered when disputes arose about properties dedicated to shrines and tombs of saints between the managers of the temples or among the heirs of the saint to whom lands had been originally donated. For example, the Peshwa made an award in 1744 A. D. about the principal religious and charitable institution in the Deccan, viz. the Chinchvad Samsthan, whereby he set apart one half of all properties bestowed on the shrine at that place for purely religious and charitable purposes and distributed the other half between the manager and his kinsmen who were all descendants of the original founder, Shri Moraya Gosavi (vide Chintaman v. Dhondo
 
 [^2109]:
-    Vide E. I. vol. II. p. 87 (votive inscription from Sanchi) at p. 92 where mention is made of Bodha-goṣṭhī (Bauddha goṣṭhī); E. I. vol. I. p. 184 at p. 188 (for goṣṭhika), E. I. VIII p. 219 (Abu inscription No. 2 dated 1230 A. D.) which gives the names of the committee of management who and whose descendants were to manage the foundation (अमुकधर्मस्थाने ... नामानि यथा । ... ... एतदीयसन्तानपरम्परया च एतस्मिन् धर्मस्थाने सकलमपि सपरिवारपूजासारादिकं सदैव करणीयं निर्वाहणीयं च).
+    Vide E. I. vol. II. p. 87 (votive inscription from Sanchi) at p. 92 where mention is made of Bodha-goṣṭhī (Bauddha goṣṭhī); E. I. vol. I. p. 184 at p. 188 (for goṣṭhika), E. I. VIII p. 219 (Abu inscription No. 2 dated 1230 A. D.) which gives the names of the committee of management who and whose descendants were to manage the foundation (अत्र च धर्मस्थाने कृतश्रावकगोष्ठिकानां नामानि यथा । ...... एतदीयसन्तानपरम्परया च एतस्मिन् धर्मस्थाने सकलमपि स्नपनपूजासारादिकं सदैव करणीयं निर्वाहणीयं च).
 
 [^2110]:
-    Vide ... तद्गुणोपेतेभ्यः साङ्गेभ्यो बहुश्रुतैः । ... यस्तु नैवंविधो भावी ... ततोऽंशे प्रवेश्योन्यः पूर्वोक्तगुणवद् द्विजः । स पार्षदैः संबन्धी ... एतदीय ... सांमत्यात् प्रवेश्यो न चान्या ॥ E. I. vol. XI. p. 190 verses 30–32.
+    Vide भाज्यं तत्पुत्रपौत्रैश्च साग्निहोत्रैः षडङ्गिभिः । द्यूतवेश्याद्यनासक्तैरविह्लाकैरसेवकैः ॥ यस्तु नैवंविधो भावी यश्चापुत्रो विपत्स्यते । तयोरंशे प्रवेष्टव्योऽन्यः पूर्वोक्तगुणवान् द्विजः । स चैषामेव संबन्धी सविद्यत्वे वयोधिकः । एभिरेव च सांमत्यात् प्रवेष्टव्यो न नृपाज्ञया ॥ E. I. vol. XI. p. 190 verses 30–32.
 
 [[P914]]
 
@@ -317,7 +317,7 @@ Among impartible things Manu (IX. 219) included yogakṣema. The Mit. on Yāj. I
     The Religious Endowments Act (XX of 1863) as amended by Act XXI of 1925; The Charitable Endowments Act (VI of 1890); Religious Societies Act (I of 1880); Indian Civil Procedure Code, Sections 92–93 (Act V of 1908); Indian Limitation Act, Section 10 (Act IX of 1908); Charitable and Religious Trusts Act (Act XIV of 1920); Madras Hindu Religious Endowments Act (Madras Act II of 1927, applying to temples and maths also); Tirupati and Tirumalai Devasthanams Act (Madras Act XIX of 1933); The Bombay Public Trusts Registration Act (Bombay Act XXV of 1935).
 
 [^2112]:
-    योगक्षेमं च योगक्षेमौ । योगक्षेमशब्दाभ्यां लाभकारणं क्षेमसाधनं साधयमिष्टं कर्म लक्ष्यते । क्षेमशब्देन लब्धपरिरक्षणहेतुभूतं बहिर्वेदिदानतडागारामनिर्माणादि पूर्तं कर्म लक्ष्यते । तदुभयं पैतृकमपि पितृद्रव्यविरोधार्जितमप्यविभाज्यम् । यथाह लौगाक्षिः । क्षेमं पूर्तं योगमिष्टमित्याहुस्तस्य ... । अविभाज्ये च ते प्रोक्ते धर्मसाधनमेव च ॥ इति । मिता. on या. II. 118–119.
+    योगश्च क्षेमं च योगक्षेमम् । योगशब्देनालब्धलाभकारणं श्रौतस्मार्ताग्निसाध्यमिष्टं कर्म लक्ष्यते । क्षेमशब्देन लब्धपरिरक्षणहेतुभूतं बहिर्वेदिदानतडागारामनिर्माणादि पूर्तं कर्म लक्ष्यते । तदुभयं पैतृकमपि पितृद्रव्याविरोधाज्जितमप्यविभाज्यम् । यथाह लौगाक्षिः । क्षेमं पूर्तं योगमिष्टमित्याहुस्तत्त्वदर्शिनः । अविभाज्ये च ते प्रोक्ते शयनासनमेव च ॥ इति । मिता० on या. II. 118–119.
 
 [[P915]]
 
@@ -329,7 +329,7 @@ A question arises whether, when a work of public utility is dedicated, the found
     Vide for example Bombay Act II of 1863 (Summary Settlement Act, sec. 8). Vide Prosonno Kumari v. Golab Chand L.R. 2 I. A. 245.
 
 [^2114]:
-    किंतु दातुरेष यथेष्टविनियोगे स्वत्वापगमेपि परस्वत्वापात्तिफलाभावे दानशब्दार्थानिष्पत्तेर्विधिशिरस्कफलार्थिनः प्रतिपादनावधिपरिपालनीयत्वरूपं स्वत्वमस्येव । यथा ... होमे हविषि ... । तथा ... स्वस्वत्वापायेपि न मध्यस्थपरिग्रहाय निवारणादिदोषः । शिष्टाचारोप्युभयत्र परिपालनरूपस्तन्मूलक एव । न चोत्सर्गमात्रस्य तत्र तस्य विधेयत्वे ... वाच्यम् । तादृशोत्सर्गस्यैव विधितात्पर्यविषयत्वात् । होमस्थलेप्यन्यथा भस्मसाद्भावानावरापत्तेः । वीरमित्रोदय, व्यवहार (portion on विभाग edited by G. S. Sarkar chap. I sec. 50 and Jiv. ed. p. 544).
+    किंतु दातुरेव यथेष्टविनियोगार्हस्वत्वापगमेपि परस्वत्वापत्तिफलाभावे दानशब्दार्थानिष्पत्तेर्विधिशिरस्कफलार्थिनः प्रतिपादनावधिपरिपालनीयत्वरूपं स्वत्वमस्त्येव । यथा हुते हविषि भस्मसाद्भावावधि अस्पृश्यस्पर्शादिनिषेधाश्रवणनिमित्तदोषश्रवणानुरोधेन । तथाचाप्यन्यस्वत्वानुत्पत्तावपि न मध्यकस्वपरिग्रहाद्यनिवारणादिदोषः । शिष्टाचारोप्युभयत्र परिपालन रूपस्तन्मूलक एव । न चोत्सर्गमात्रस्य तत्र त्वया विध्यभ्युपगमात्परस्वत्वापादनादर एव न स्यादिति वाच्यम् । तादृशोत्सर्गस्यैव विधितात्पर्यविषयत्वात् । होमस्थलेप्यन्यथा भस्मसाद्भावानादरापत्तेः । वीरमित्रोदय, व्यवहार (portion on विभाग edited by G. S. Sarkar chap. I sec. 50 and Jiv. ed. p. 544).
 
 [[P916]]
 

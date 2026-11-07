@@ -7,17 +7,13 @@ title = "111 Kamalākarabhaṭṭa"
 
 Kamalākarabhaṭṭa was one of the foremost scions of the Bhaṭṭa family. He was a grandson of the famous Nārāyaṇabhaṭṭa and a son of Rāmakṛṣṇabhaṭṭa. He was one of three brothers, the eldest being Dinakara *alias* Dīvākara[^1419] and the youngest was Lakṣmaṇabhaṭṭa;[^1420] who studied under Kamalākarabhaṭṭa. Kamalākarabhaṭṭa's father Rāmakṛṣṇa also was a very[^1421] learned man and a profound *mīmāṁsaka* and his mother Umā immolated herself as a *satī*. Kamalākara was a man of profound erudition and composed works on almost every śāstra. In some of his own works there are high eulogies of his learning and proficiency in Tarka, Nyāya, grammar, mīmāṁsā (in both the schools of Kumārila and Prabhākara), Vedanta, Poetics, dharmaśāstra and Vedic sacrifices.[^1422] He composed more than twenty-two works. At the end of his Vivādatāṇḍava it is
 
-[^1419]:
-    बिन्दुमाधवपादाम्भोजरोलम्बीकृतविग्रहम् । ज्यायांसं भ्रातरं भट्टदिवाकरमुपासहे ॥ 6th Intro. verse of निर्णयसिन्धु. रोलम्ब is a deśya word meaning भ्रमर according to क्षीरस्वामी on अमर. बिन्दुमाधव is a form of Viṣṇu, worshipped at Benares.
+[^1419]: बिन्दुमाधवपादाम्भोजरोलम्बीकृतविग्रहम् । ज्यायांसं भ्रातरं भट्टदिवाकरमुपासहे ॥ 6th Intro. verse of निर्णयसिन्धु. रोलम्ब is a deśya word meaning भ्रमर according to क्षीरस्वामी on अमर. बिन्दुमाधव is a form of Viṣṇu, worshipped at Benares.
 
-[^1420]:
-    अधीत्य लक्ष्मणाख्येन कमलाकरसोदरात् । आचाररत्नं सुधिया यथामति वितन्यते ॥ 7th Intro. verse of आचाररत्न.
+[^1420]: अधीत्य लक्ष्मणाख्येन कमलाकरसोदरात् । आचाररत्नं सुधिया यथामति वितन्यते ॥ 7th Intro. verse of आचाररत्न.
 
-[^1421]:
-    यो भाट्टतन्त्रगहनार्णवकर्णधारः शास्त्रान्तरेषु निखिलेष्वपि मर्मभेत्ता । योत्र श्रमः किल कृतः कमलाकरेण प्रीतोऽमुनास्तु सुकृती बुधरामकृष्णः ॥ ‘ निर्णयसिन्धु ’ at the end of 2nd परिच्छेद.
+[^1421]: यो भाट्टतन्त्रगहनार्णवकर्णधारः शास्त्रान्तरेषु निखिलेष्वपि मर्मभेत्ता । योत्र श्रमः किल कृतः कमलाकरेण प्रीतोऽमुनास्तु सुकृती बुधरामकृष्णः ॥ ‘ निर्णयसिन्धु ’ at the end of 2nd परिच्छेद.
 
-[^1422]:
-    तर्के दुस्तर्कमेधः फणिपतिभणितिः पाणिनीये प्रपञ्चे । न्याये प्रायः प्रगल्भः प्रकटितपटिमा भाट्टशास्त्रप्रबन्धे । प्राभः प्राभाकरीये पथि प्रथितदुरूहान्तवेदान्तसिन्धुः । श्रौते साहित्यकाव्ये प्रचुरतरगतिर्धर्मशास्त्रेषु यश्च ॥ from काव्यप्रकाशव्याख्या D. C. ms. No. 433 of 1895-1902.
+[^1422]: तर्के दुस्तर्कमेधः फणिपतिभणितिः पाणिनीये प्रपञ्चे । न्याये प्रायः प्रगल्भः प्रकटितपटिमा भाट्टशास्त्रप्रबन्धे । प्राभः प्राभाकरीये पथि प्रथितदुरूहान्तवेदान्तसिन्धुः । श्रौते साहित्यकाव्ये प्रचुरतरगतिर्धर्मशास्त्रेषु यश्च ॥ from काव्यप्रकाशव्याख्या D. C. ms. No. 433 of 1895-1902.
 
 [[P926]]
 

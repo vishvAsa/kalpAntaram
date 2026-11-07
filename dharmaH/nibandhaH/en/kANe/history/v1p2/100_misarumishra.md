@@ -11,10 +11,10 @@ Misarumiśra is famous for his works called *Vivādacandra* and *Padārtha-candr
 
 [^1272]: श्रीचन्द्रसिंहनृपतेर्दयिता लछिमा महादेवी। रचयति पदार्थचन्द्रं मिसरूमिश्रोपदेशेन॥ Intro. verses 2 in Mitra's Notices vol. IX p. 12 No. 2901; vide I. O. Cat. p. 454 No. 1500 'इति महामहोपाध्यायश्रीमिसरूमिश्रविरचितो विवादचन्द्रः समाप्तः'.
 
-[^1273]: अभूदभूतप्रतिमल्लगन्धो राजा भवेशः किल सार्वभौमः। अत्याजयद्यो बहुभर्तृकत्वं दोषं भुवोपि प्रमुख्यधामा ॥ तस्मादनूजोजनि सूनुसारो धीमानमासूनुसमानसारः। राजोपजीव्यो हरसिंहनामा ततो नृपो दर्पनरायणोभूत् ॥ दर्पनरायणनृपतेः श्रीमद्धीरा महादेवी। अलभत तनयं तनयं नरपतिगुणराशिपूरितं शूरम् ॥ श्रीमल्लखिमादेवी तस्य चन्द्रसिंहनृपतेर्दयितस्य। नाम्ना मिसरूमिश्रद्वारा रचयति विवादचन्द्रमभिरामम्॥ Intro. verses in the Deccan College ms.
+[^1273]: अभूद्भूतप्रतिमल्लगन्धो राजा भवेशः किल सार्वभौमः। अत्याजयद्यो बहुभर्तृकत्वं दोषं भुवोपि प्रमुरुग्रधामा ॥ तस्मादनूजोजनि सूनुसारो धीमानमासूनुसमानसारः। राजोपजीव्यो हरसिंहनामा ततो नृपो दर्पनरायणोभूत् ॥ दर्पनरायणनृपतेः श्रीमद्धीरा महादेवी। अलभत तनयं तनयं नरपतिगुणराशिपूरितं शूरम् ॥ श्रीमल्लखिमादेवी तस्य चन्द्रसिंहनृपतेर्दयितस्य। नाम्ना मिसरूमिश्रद्वारा रचयति विवादचन्द्रमभिरामम्॥ Intro. verses in the Deccan College ms.
 
 That the *Vivādacandra* is a work of authority on Hindu Law in Mithilā has been recognised from very early days in the British courts.[^1274] The *Vivādacandra* held that the word strīdhana was to be applied to such woman's property as was technically [[P844]]so called (by the sages) and not to all property that comes to a woman.[^1275]
 
 [^1274]: Vide 2 Moo. I. A. p. 132 at p. 147 and p. 152 (where there is a citation in English from the विवादचन्द्र).
 
-[^1275]: 'स्त्रीधनं परिभाषिकमेव न सर्वम्' folio 33 a of the D. C. ms.
+[^1275]: 'स्त्रीधनं पारिभाषिकमेव न सर्वम्' folio 33 a of the D. C. ms.

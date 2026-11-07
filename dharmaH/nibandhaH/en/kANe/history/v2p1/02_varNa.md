@@ -1030,7 +1030,7 @@ Yavana. According to the view of some mentioned in Gaut. IV. 17 he is a pratilom
 Raṅgāvatārin (or -tāraka). According to Manu IV. 215 he is distinct from śailūṣa and gāyana. Śaṅkha (quoted by Aparārka p. 1175), Śaṅkha (17. 36) and Viṣṇu Dh. S. 51. 14 mention him. According to Brahmapurāṇa (quoted by Aparārka p. 1178) he is a naṭa who goes on the stage for livelihood and who introduces various changes in his appearance and dress. Raṅgāvatārin is mentioned in the Maitrī Up. along with naṭa and bhaṭa.[^202]
 
 [^202]:
-    ये वाब्ये वाऽप्य... राजकर्मणि पतितास्तेषां ...... तैः सह न संवसेत् । मैत्री उप. VII. 8.
+    ये चान्ये ह चाटजडनटभटप्रव्रजितरङ्गावतारिणो राजकर्मणि पतितादयः ...... तैः सह न संवसेत् । मैत्री उप. VII. 8.
 
 Rajaka (washerman). Dhobi is a scheduled caste in U. P., Bihar and C. P. and in Bengal (called Dhobā). He is one of the antyajas according to several writers (vide note 170 above). According to Vaikh. (X. 15) and the Sūtasaṁhitā he is the offspring of a pulkasa (or vaideha) from a brāhmaṇa woman, while according to Uśanas (18) he is the offspring of a pulkasa male from a vaiśya girl. The Mahābhāṣya on Pāṇ. (II. 4. 10) includes him under śūdra. Yāj. II. 48 mentions him as liable to pay his wife's debts, because his livelihood depends on her. The Śūdrakamalākara mentioned another caste of rajaka (which is the offspring of an ugra male and vaidehaka female).
 
@@ -1047,7 +1047,7 @@ Lekhaka. Mentioned by Sumantu quoted in Par. M. II. part 1 p. 383. He is probabl
 Lohakāra (ironsmith). Vide p. 75 under karmāra. Nārada[^203] (ṛṇādāna 288) recommends utilising the services of an ironsmith who is so by caste in the fire ordeal. He is mentioned by Hārīta (prose) quoted by Aparārka p. 1176. The Kamauli plate of Jayacandradeva Gāhaḍavāla was engraved by Lohāra Someka in saṁvat 1232 (E. I. IV. p. 127).
 
 [^203]:
-    आयसैरेव लोहकार्ये यः कुशलश्चाभिकर्मणि । नारद (ऋणादान 288).
+    जात्यैव लोहकारो यः कुशलश्चाग्निकर्मणि । नारद ( ऋणादान 288 ).
 
 Vandin (a bard, written as bandin also). According to Hārīta quoted in Kṛtyakalpataru he is a pratiloma sprung from a vaiśya male and kṣatriya female. According to the Brahmapurāṇa quoted by Aparārka p. 1177 a vandin is one who sings the praises of men.
 
@@ -1084,7 +1084,7 @@ Vrātya. According to Āp. Dh. S. I. 1. 1. 22-I. 1. 2. 10, Pār. gṛ. II. 5 and
 Śailūṣa. Viṣṇu Dh. S. 51. 13, Manu IV. 214, Hārīta quoted by Aparārka p. 279 distinguish him from raṅgāvatārī and the Brahmapurāṇa (quoted by Aparārka p. 1178) defines him as one who finds out employment for naṭas.[^204] Āpastamba 9. 32 (verse) speaks of him in the same breath with rajaka and [[P097]] vyādha. Yāj. II. 48 does the same and the Mit. thereon paraphrases the word by naṭa.
 
 [^204]:
-    इष्टकार्येषु नटानां तु स तु शैलूषकः स्मृतः । ब्रह्मपुराण q. by अपरार्क p. 1178.
+    वृत्त्यन्वेषी नटानां तु स तु शैलूषकः स्मृतः । ब्रह्मपुराण q. by अपरार्क p. 1178.
 
 Śauṇḍika (wine-seller). Viṣṇu Dh. S. 51. 15, Manu IV. 216, Yāj. II. 48, Śaṅkha (quoted by Aparārka p. 1175) and Brahmapurāṇa (quoted by Aparārka p. 1177) mention him.
 
@@ -1099,7 +1099,7 @@ Suvarṇa. According to Uśanas (vv. 24-25) he is the offspring of the legal uni
 Suvarṇakāra or [[P098]] Sauvarṇika or Hemakāra (goldsmith). A hiraṇyakāra is mentioned in the Vāj. S. XXX. 17 and in Tait. Br. III. 4. 14. According to Viṣṇu Dh. S. X. 4 and Nārada (ṛṇādāna 274) a goldsmith or a dealer in bronze or a bania was to examine the balance in the balance ordeal. Manu IV. 215, Yāj. I. 163, Śaṅkha and Sumantu quoted by Aparārka (pp. 1175, 1176) treat him on a level with karmakāra (blacksmith) and niṣāda. Manu IX. 292 condemns him as the worst of all rogues (sarvakaṇṭakapāpiṣṭha). For the view of Vaikh. and Bṛhaspati vide under takṣan above (note 189). In the Mahābhārata it is said that after Paraśurāma's alleged extermination of the kṣatriyas, some of them that escaped resorted to the castes of ironsmiths and goldsmiths.[^205]
 
 [^205]:
-    धोकारेकर्मकारादौ नित्यं समभिताः । शान्तिपर्व 49. 84. धोकार is probably for ध्योकार (an iron-smith), while another reading is उपकार (maker of bowstrings) also.
+    द्योकारहेमकारादिजातिं नित्यं समाश्रिताः । शान्तिपर्व 49. 84. द्योकार is probably for अयस्कार ( an iron-smith ), while another reading is ज्याकार ( maker of bowstrings ) also.
 
 Sūcaka. According to Uśanas (v. 43) he is an anuloma born of the marriage of a vaiśya male from a śūdra female.
 
@@ -1108,12 +1108,12 @@ Sūcika or saucika or sūcī-one who works with a needle, a tailor. According to
 Sūta. For vedic references see above p. 43. According to Gaut. (IV. 15), Baud. Dh. S. (I. 9. 9), Vas. (18.6), Kauṭ. (III. 7), Manu (X. 11), Nārada (strīpuṁsa 110), Viṣṇu Dh. S. (16.6), Yāj. (I. 93) and Sūtasaṁhitā, he is a pratiloma sprung from a kṣatriya male and a brāhmaṇa woman. Kauṭ. is careful to add that the sūta who figures in the purāṇas as the reciter is quite different from this. A vārtika on Pāṇ. (VI. 3. 70) teaches the formation of words like sūtaputrī.[^206] According to Manu (X. 47) and Viṣṇu the avocation of sūtas is driving a chariot (i. e. breaking and yoking horses). According to Vaikh. (X. 13) he makes his livelihood by reminding the king of his duties and by cooking food for him, Uśanas (v. 3) also says that his business is to remind (a king) of his duties. According to the Karṇaparva (32. 48) sūtas [[P099]] are the attendants of brāhmaṇas and kṣatriyas and the latter need not carry out what the sūta says. According to the Vāyupurāṇa (vol. I. 1. 33-38 and vol. II. 1. 139) the sūta was to preserve the pedigrees of kings and great men and traditions about learning or books, he is not authorised to study the Veda, the middling way of maintenance for him is to depend upon kings and to look after chariots, elephants and horses; an inferior way of maintenance is the practice of medicine. The Vaikh. (X. 13) and the Sūtasaṁhitā expressly say that the difference between the sūta and the rathakāra consists in this that the former is the offspring of a marriage, while the latter is the offspring of a clandestine union of a kṣatriya male with a brāhmaṇa woman. The Sahyādrikhaṇḍa (26. 53-54) says that he is inferior to kṣatriyas, but is entitled to do all the work of a kṣatriya and that he also performs the work of a charioteer, of taming elephants and riding horses.
 
 [^206]:
-    The 9th vārtika on Pāṇ. VI. 3. 70 is सूत्रो... । The examples given by the महाभाष्य are ...
+    The 9th vārtika on Pāṇ. VI. 3. 70 is सूतोग्रराजभोजकुलनेरुभ्यो दुहितुः पुत्र्याः । The examples given by the महाभाष्य are सूतपुत्री, सूतदुहिता, उग्रपुत्री, उग्रदुहिता.
 
 Sūnika or Saunika (a butcher). According to Uśanas (v. 14) he is the offspring of an āyogava from a kṣatriya woman. Hārīta (quoted by Aparārka p. 279) speaks of him in the same breath with rajaka and carmakāra. The Brahmapurāṇa (quoted by Aparārka p. 1177) says that he is 'paśumāraka'. Sumantu[^207] quoted by Par. M. makes his food unfit for brāhmaṇas. He is the same as 'khāṭika' according to the Jātiviveka.
 
 [^207]:
-    सूनिकक्षत्राद् विषया... सूनिकक्षत्राद् द्विजश्चर्मकारो अभोज्याश्चा अमितायास्त्र । सुमन्तु in प. मा. II. 1. p. 383.
+    सौनिकक्रव्यादनिषादबुरुडचर्मकारा अभोज्यान्ना अप्रतिग्राह्याश्च । सुमन्तु in परा. मा. II. 1. p. 383.
 
 Sairindhra. According to Manu X. 32 he is the offspring of a dasyu (as defined in Manu X. 45) from an āyogava woman and he makes his living by combing the hair (of men and women), he is not to be treated as a dāsa (i. e. he has not to eat ucchiṣṭa food), but is to perform menial work (such as shampooing the body) or is to subsist by catching deer etc. The word is included in the gaṇa kulālādi (Pāṇ. IV. 3. 118). From the Mahābhārata we see what duties Draupadī disguised as sairandhrī had to do for the queen of Virāṭa (Virāṭaparva 9. 18-19), viz. combing and arranging the hair, pounding unguents, making garlands. Similarly Damayantī became a sairandhrī to the mother of the Cedi king (Vanaparva 65. 68-70), but she refused to eat ucchiṣṭa food, would not wash the feet of anybody and would not allow any man to approach her. According to Ādipurāṇa quoted in Śūdrakamalākara he lives by hunting deer and guarding royal harems and women after delivery.
 
@@ -1126,22 +1126,22 @@ It will have been noticed that some of the castes mentioned in the smṛtis such
 It appears that comparatively very early many among the brāhmaṇas had given up the occupations peculiar to them and were entitled to be called brāhmaṇas simply because of their birth. The Mahābhāṣya[^208] of Patañjali quotes a verse 'tapas, vedic study, and birth (from brāhmaṇa parents) these are the causes why a person is called a brāhmaṇa; he who is devoid of tapas and vedic study is a brāhmaṇa only by birth (and not a real brāhmaṇa)'. Similarly in another place Patañjali quotes a verse 'know this to be the auspicious sign of the best of brāhmaṇas, viz. whose lore, actions and birth are all three holy' (vol. II. p. 220 on Pāṇ. IV. 1. 44). Though in the Mahābhārata [[P101]] it is often said that a brāhmaṇa is so by birth alone and that he deserves respect from all, still we meet several times with passages[^209] wherein there is a revolt against the caste system dependent on birth alone and where it is severely condemned and great emphasis is laid on the moral worth of a man. In the Vanaparva (181. 42-43) we are told[^210] 'Truthfulness, restraint, tapas, generosity, non-injury to sentient beings, constant adherence to dharma-these always lead men to the fruition (of their goal) and not caste nor family'. Udyogaparva (43. 20 ff.) explains at great length what is meant by self-restraint. In the Śāntiparva[^211] (189. 4 and 8) 'Truthfulness, generosity, freedom from hatred and wickedness, humility, kindness, and tapas--he is known as a brāhmaṇa where these are seen. If these signs are seen in a śūdra and they do not exist in a brāhmaṇa, then the śūdra would not be a śūdra and the brāhmaṇa would not be a brāhmaṇa'. In another place we are told[^212] 'there is no difference between the varṇas; the whole world is brāhma (the creation of Brahmā), since it was created by Brahmā in former ages and was evolved into varṇas by actions (or occupations).' Udyogaparva[^213] (43. 49) remarks 'Do not regard a person as brāhmaṇa by his talk; he who does not depart from truth is a brāhmaṇa'; Vanaparva (216. 14-15) 'that śūdra who is always struggling for self-restraint, truthfulness and dharma is a brāhmaṇa in my opinion, for a brāhmaṇa is so by his character.' Vide Vanaparva (313. 108-111) and Yāj. I. 200 and Vṛddha Gautama p. 632. It has been seen above (p. 6) that Gautama laid the greatest emphasis on the eight qualities of the soul. But [[P102]] in spite of those sentiments the caste system dependent on birth has continued in all its strength and rigour for ages and writers like the Par. M. II. 1, p. 228 are emphatic in saying that between jāti and character one must look principally to the eminence of the caste.
 
 [^208]:
-    तपः श्रुतं च योनिश्च एतद् ब्राह्मणकारकम् । तपःश्रुताभ्यां यो हीनो जातिब्राह्मण एव सः ॥ महाभाष्य on पा. II. 2. 6 (vol. I. p. 411 and II. p. 363). In the अनुशासनपर्व 121. 7 we have a similar verse तपः ...... ब्राह्मणकारकम् । ... The महाभाष्य has another verse (vol. II. p. 220) त्रीणि यस्याव्रतानि विद्या योनिश्च कर्म च । एतच्छ्रितं विजानीहि ब्राह्मणस्य लक्षणम् ॥
+    तपः श्रुतं च योनिश्च एतद् ब्राह्मणकारकम् । तपःश्रुताभ्यां यो हीनो जाति-ब्राह्मण एव सः ॥ महाभाष्य on पा. II. 2. 6 ( vol. I. p. 411 and II. p. 363 ). In the अनुशासनपर्व 121. 7 we have a similar verse तपः ...... ब्राह्मण्यकारणम् । त्रिभिर्गुणैः समुदितो ततो भवति वै द्विजः ।. The महाभाष्य has another verse ( vol. II. p. 220 ) त्रीणि यस्यावदातानि विद्या योनिश्च कर्म च । एतच्छिवं विजानीहि ब्राह्मणा-ग्र्यस्य लक्षणम् ॥
 
 [^209]:
-    जन्मना सामान्यं ब्राह्मणो नाम जायते । तपसा... महाभारत अनुशासनपर्व 35. 1 ; vide also 143. 6.
+    जन्मनैव महाभागे ब्राह्मणो नाम जायते । नमस्यः सर्वभूतानामतिथिः प्रसृता-ग्रभुक् ॥ अनुशासनपर्व 35. 1 ; vide also 143. 6.
 
 [^210]:
-    सत्यं व्रतं... व्रतम्... । चलन्... ॥ वनपर्व 181. 42-43.
+    सत्यं दमस्तपो दानमहिंसा धर्मनित्यता । साधकानि सदा पुंसां न जातिर्न कुलं नृप ॥ वनपर्व 181. 42-43.
 
 [^211]:
-    सत्यं व्रतं... । शान्ति 189. 4 and 8 ; vide also वनपर्व 180. 21.
+    सत्यं दानमथाद्रोह आनृशंस्यं त्रपा घृणा । तपश्च दृश्यते यत्र स ब्राह्मण इति स्मृतः ॥ शूद्रे चैतद्भवेल्लक्ष्म द्विजे तच्च न विद्यते । न वै शूद्रो भवेच्छूद्रो ब्राह्मणो न च ब्राह्मणः ॥ शान्ति० 189. 4 and 8 ; vide also वनपर्व 180. 21.
 
 [^212]:
-    न विशेषोऽस्ति वर्णानां सर्वं ब्राह्ममिदं जगत् । ब्राह्मणा पूर्वदृष्टं हि कर्मभिर्वर्णतां गतम् ॥ शान्ति 188. 10.
+    न विशेषोऽस्ति वर्णानां सर्वं ब्राह्ममिदं जगत् । ब्रह्मणा पूर्वसृष्टं हि कर्मभिर्वर्णतां गतम् ॥ शान्ति० 188. 10.
 
 [^213]:
-    तस्माद् क्षत्रिय मा संधा... । उद्योगपर्व 43. 49 ; ... वनपर्व 216. 14-15 ; ... वृद्धगौतम p. 632 ; but the प. मा. II part 1 p. 228 says 'जातिशीलयोर्मध्ये जात्युत्कर्ष एव प्राधान्येनोपादेयः । ...'
+    तस्मात्क्षत्रिय मा संस्था जल्पितेनैव वै द्विजम् । य एव सत्यान्नापैति स ज्ञेयो ब्राह्मणस्त्वया ॥ उद्योगपर्व 43. 49 ; यस्तु शूद्रो दमे सत्ये धर्मे च सततोत्थितः । तं ब्राह्मणमहं मन्ये वृत्तेन हि भवेद् द्विजः ॥ वनपर्व 216. 14-15 ; न जातिः पूज्यते राजन्गुणाः कल्याणकारकाः । चण्डालमपि वृत्तस्थं तं देवा ब्राह्मणं विदुः ॥ वृद्धगौतम p. 632, but the परा. मा. II part 1 p. 228 says 'जातिशिलयोर्मध्ये जात्युत्कर्ष एव प्राधान्येनोपादेयः । शीलं तु यथासंभवम् ।'.
 
 In certain medieval works called Jātiviveka and in other works like the Śūdrakamalākara (first half of 17th century A. D.) several more castes are mentioned, some of which are set out below.
 
@@ -1169,16 +1169,16 @@ Sindolaka or spandālika, from a śūdra male and a māgadha female; called Ra�
 In modern times each of the principal varṇas has numerous [[Bub-castes|sub-castes]], based upon difference of country, occupation, sect and other causes. For example, brāhmaṇas are first divided into ten classes, five of them being Gauḍas[^214] and five Drāvidas. Among the Drāviḍa brāhmaṇas, the Mahārāṣṭra brāhmaṇas are again subdivided into numerous sub-castes such as the Citpāvana (or Koṅkanastha), Karhāḍe, Deśastha, Devarukhe [[sto|etc.]] It is said that in [[Gujerat|Gujarat]] there are 84 subcastes of brāhmaṇas,[^215] [[as|and]] most of which do not interdine nor intermarry. There is often a further distinction among the members of the same subcaste, viz, those who follow the priestly occupation and those who do not. The spirit of exclusiveness and ideas of superiority that arose in [[vedio|Vedic]] times gradually led on to further and further [[divisons|divisions]] and subdivisions of people owing to geographical situation and other[^216] causes. It appears that probably even in ancient times the brāhmaṇas of the north looked down upon the brāhmaṇas in eastern countries like Magadha. Vide notes 31-32 above and Fick (pp. 213-214). The Matsyapurāṇa (16. 16) says that brāhmaṇas who dwell in Mleccha countries, in Triśaṅku, Barbara, Oḍra (Orissa), Āndhra (Teliṅgāna), Ṭakka, Draviḍa and Koṅkaṇa are not to be invited at śrāddhas.[^217] 
 
 [^214]:
-    द्राविडाश्चैव तैलङ्गाः कर्नाटा मध्यदेशगाः । गुर्जराश्चैव पञ्चैते द्राविडा: पञ्च कथ्यते ॥ सारस्वताः कान्यकुब्जा उत्कला मैथिलाश्च ये । गौडाश्च पञ्चधा चैव दश विप्राः प्रकी faat: 1 FUITEV I ( section of the FATTO) TTT X. 2-3 ( ed. by Dr. Da Cunha ); vide Wilson's 'Indian castes' vol. II. p. 17 where the names slightly differ.
+    द्राविडाश्चैव तैलङ्गाः कर्नाटा मध्यदेशगाः । गुर्जराश्चैव पञ्चैते द्राविडाः पञ्च कथ्यते ॥ सारस्वताः कान्यकुब्जा उत्कला मैथिलाश्च ये । गौडाश्च पञ्चधा चैव दश विप्राः प्रकीर्तिताः ॥ सह्याद्रिखण्ड । ( section of the स्कन्दपुराण ) उत्तरार्ध X. 2-3 ( ed. by Dr. Da Cunha ) ; vide Wilson's ' Indian castes ' vol. II. p. 17 where the names slightly differ.
 
 [^215]:
-    Sherring, vol. I. p. 99. gives the names of these 84 subcastes and Wilson in 'Indian [[castos|castes]]' vol. II, pp. 92 ff. adds more bringing the total to 160.
+    Sherring, vol. I. p. 99. gives the names of these 84 subcastes and Wilson in ' Indian castes ' vol. II. pp. 92 ff. adds more bringing the total to 160.
 
 [^216]:
-    Vide Bombay Presidency Gazetteer, vol. 9 p. 18 (for Sārasvatas of [[Panjab|Punjab]] having 470 subdivisions). Wilson ('Indian castes' vol. II. p. 126) was informed that there were 469 [[guboastes|sub-castes]] of Sārasvata [[brobmanas|brāhmaṇas]] and he enumerates those at pp. 127-133.
+    Vide Bombay Presidency Gazetteer, vol. 9 p. 18 ( for Sārasvatas of Panjab having 470 subdivisions ). Wilson ( 'Indian castes' vol. II. p. 126 ) was informed that there were 469 subcastes of Sārasvata brāhmaṇas and he enumerates these at pp. 127-133.
 
 [^217]:
-    म्लेच्छदेशनिवासिनश्च ये च त्रिशङ्कवः । बर्बरा ओड्रका आन्ध्रास्तक्का द्रविडकोंकणाः ॥ मत्स्यपुराण 16.16.
+    कृतघ्नान्नास्तिकांस्तद्वन्म्लेच्छदेशनिवासिनः । त्रिशङ्कुबर्बरोड्राम्ध्रान् टक्कद्रविड-कोङ्कणान् ॥ मत्स्यपुराण 16. 16.
 
 
 [[P104]] Among kṣatriyas there are several subdivisions, such as those claiming descent from the Sun or the Moon and those that call themselves to be Agnikulas (vide Sherring, vol. I. p. 120 ff, and Tod's Rajasthan vol. I chapter VII for lists of royal tribes). The Paramāras have 35 branches, Guhilots 24 branches, [[Chabmanas|Chahamānas]] 26 branches, [[Solankis|Solaṅkis]] 16 branches and so on.

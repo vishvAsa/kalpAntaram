@@ -8,16 +8,16 @@ SAṀSKĀRAS
 
 [[P188]]
 
-Gautama (II. 1) says that before [[upanayapa|upanayana]], a boy may act, speak and eat as and what he likes (i. e. may follow his inclinations). Hāradatta explains that this does not mean that he can kill a [[brāhmana|brāhmaṇa]] or drink liquor, but that there is no restriction, although he be a [[brāhmana's|brāhmaṇa's]] son, to his selling what is forbidden to a [[brābmana|brāhmaṇa]] to sell, or he may eat onions and garlic or stale food or may eat four or five times a day. [[Ap. Dh. S.|Āp. Dh. S.]][^438] (II. [[1. 6. 15. 17-20|6.15.17-20]]) states several views on this point. 'Up to the time when they begin to take cooked food infants do not become impure (by the touch of a [[rajasvala &o.|rajasvalā, etc.]]); according to some (teachers) up till they are one year old; or till they are not able to distinguish the cardinal points; another view is that till [[upanayang|upanayana]] (they do not become impure)'. Aparārka (p. 28) also explains that a boy may (before [[upa nayana|upanayana]]) eat the leavings of the food of his parents, but he cannot eat or drink what would cause loss of caste as in that case he may become unfit to have the [[samskāra|saṃskāra]] of upanayana performed on him. The [[Sinrtyarthasāra|Smṛtyarthasāra]] gives the view of some that in case an infant touches a cāṇḍāla before it reaches the age of taking cooked food, only water need be sprinkled on it, before caula ācamana need be done by it and after caula (and before upanayana) a bath would be necessary. [[Vas. Dh. 8.|Vas. Dh. S.]] (II. 6) quotes a [[verge|verse]] of [[Harita|Hārīta]] to the effect 'up till [[investi ture|investiture]] with the girdle of [[muõja|muñja]] grass (i. e. till upanayana) there is no action that is obligatory on him, as long as he is not born again for Vedic study he may be in his [[conduot|conduct]] like a [[sūdra|śūdra]]'.[^439] This verse occurs also in [[Baud. Dh. S.|Baudh. Dh. S.]] I. 2. 6 and Manu II. 171 and 172. [[Daksa|Dakṣa]] I. 3-4 [[gays|says]] 'Till a boy is eight years old he is like one newly born and only indicates the caste in which he is born. As long as his upanayana is not performed the [[P189]] boy [[inours|incurs]] no blame as to what is allowed or forbidden to be eaten, as to what should (or should not) be drunk, as to what he should or should not speak, as to telling a falsehood'.[^440] But this does not hold good as to [[mahāpatakas|mahāpātakas]]. As to [[prāya soitta|prāyaścitta]] when a child is guilty of the commission of a [[mah.. pātaka|mahāpātaka]], [[sea|see]] under prāyaścitta later on and the Mit. on [[Yāj.|Yājñavalkya]] III. 253.
+Gautama (II. 1) says that before [[upanayapa|upanayana]], a boy may act, speak and eat as and what he likes (i. e. may follow his inclinations). Hāradatta explains that this does not mean that he can kill a [[brāhmana|brāhmaṇa]] or drink liquor, but that there is no restriction, although he be a [[brāhmana's|brāhmaṇa's]] son, to his selling what is forbidden to a [[brābmana|brāhmaṇa]] to sell, or he may eat onions and garlic or stale food or may eat four or five times a day. [[Ap. Dh. S.|Āp. Dh. S.]][^438] (II. [[1. 6. 15. 17-20|6.15.17-20]]) states several views on this point. 'Up to the time when they begin to take cooked food infants do not become impure (by the touch of a [[rajasvala &o.|rajasvalā, etc.]]); according to some (teachers) up till they are one year old; or till they are not able to distinguish the cardinal points; another view is that till [[upanayang|upanayana]] (they do not become impure)'. Aparārka (p. 28) also explains that a boy may (before [[upa nayana|upanayana]]) eat the leavings of the food of his parents, but he cannot eat or drink what would cause loss of caste as in that case he may become unfit to have the [[samskāra|saṃskāra]] of upanayana performed on him. The [[Sinrtyarthasāra|Smṛtyarthasāra]] gives the view of some that in case an infant touches a cāṇḍāla before it reaches the age of taking cooked food, only water need be sprinkled on it, before caula ācamana need be done by it and after caula (and before upanayana) a bath would be necessary. [[Vas. Dh. 8.|Vas. Dh. S.]] (II. 6) quotes a [[verge|verse]] of [[Harita|Hārīta]] to the effect 'up till [[investi ture|investiture]] with the girdle of [[muõja|muñja]] grass (i. e. till upanayana) there is no action that is obligatory on him, as long as he is not born again for Vedic study he may be in his [[conduot|conduct]] like a [[sūdra|śūdra]]'.[^439] This verse occurs also in [[Baud. Dh. S.|Baudh. Dh. S.]] I. 2. 6 and Manu II. 171 and 172. [[Daksa|Dakṣa]] I. 3-4 [[gays|says]] 'Till a boy is eight years old he is like one newly born and only indicates the caste in which he is born. As long as his upanayana is not performed the [[P189]] boy incurs no blame as to what is allowed or forbidden to be eaten, as to what should (or should not) be drunk, as to what he should or should not speak, as to telling a falsehood'.[^440] But this does not hold good as to [[mahāpatakas|mahāpātakas]]. As to [[prāya soitta|prāyaścitta]] when a child is guilty of the commission of a [[mah.. pātaka|mahāpātaka]], see under prāyaścitta later on and the Mit. on [[Yāj.|Yājñavalkya]] III. 253. The smṛtis look upon upanayana as the second birth of a boy (the first being his physical birth)[^441]. Gaut. (X. 1 and 51) says that the three higher classes are called dvijātis (having two births), while the śūdra is only ekajāti.[^442] Āp. Dh. S. says (I. 1. 1. 16-18), 'the teacher causes him (the boy who is initiated into Vedic study) to be born from vidyā (i.e. by imparting Vedic knowledge), that birth is superior, the parents produce only the body'[^443]. Upanayana is like Baptism and St. John (3. 3) also says 'except a man be born again, he cannot see the Kingdom of God.' Manu II. 147-148 (= Viṣṇu Dh. S. 30. 45-46) convey the same idea. Manu (II. 169) speaks of three births in the case of a man, first birth from his mother, the second when the girdle is tied (i. e. on upanayana) and the third when he is initiated for a Vedic sacrifice. Upanayana is the foremost of the saṃskāras. Atri (141-142) says 'a person is known as a brāhmaṇa by birth, he is said to be a dvija (twice-born) on account of saṃskāras, he reaches the position of a vipra by learning (study of the Veda); he is called śrotriya on account of all these three'.[^444] Parāśara (VIII. 19) contains a fine image to illustrate this 'just as a work of painting gradually unfolds itself on account of the several colours (with which it is drawn), so brāhmaṇya (the status of a brāhmaṇa) is similarly [[P190]] brought out by saṃskāras performed according to prescribed rites.'
 
 [^438]:
     आन्नप्राशनाद्गर्भा नाप्रयता भवन्ति । आ परिसंवत्सरादित्येके । यावता वा न दिशः प्रजानीयुः । ओपनयनादित्यपरम् । आप. ध. सू. II. 6. 15. 17-20.
 
 [^439]:
-    हारीतोप्युदाहरति । न ह्यस्मिन् विद्यते कर्म किंचिदा मौञ्जीबन्धनात् । शूद्रवत्समो ह्येष यावद्वेदे न जायते । इति। वसिष्ठ II. 6; बौध. ध. सू. reads नास्य कर्म निषिध्यते, compare विष्णुधर्मोत्तर 28. 40 प्राङ्मौञ्जीबन्धनाद् द्विजः शूद्रवत्समो भवति।
+    हारीतोप्युदाहरति । न ह्यस्मिन् विद्यते कर्म किंचिदा मौञ्जीबन्धनात् । शूद्रवत्समो ह्येष यावद्वेदे न जायते । इति। वसिष्ठ II. 6; बौध. ध. सू. reads नास्य कर्म निषिध्यते, compare विष्णुधर्मसूत्र 28. 40 प्राङ्मौञ्जीबन्धनाद् द्विजः शूद्रवत्समो भवति।
 
 [^440]:
-    जातमात्रः शिशुस्तावद्यावदष्टौ समा वयः । स हि गर्भसमो ज्ञेयो जातिमात्रप्रदर्शकः ॥ भक्ष्याभक्ष्ये तथापेये वाच्यावाच्ये तथावृते । अस्मिन्बाले न दोषः स्यात्स यावदुपनीयते ॥ दक्ष I. 3-4, quoted in अपरार्क (p. 28) and the second cited as from विष्णुपुराण in परा. मा. I part 2 p. 29.
+    जातमात्रः शिशुस्तावद्यावदष्टौ समा वयः । स हि गर्भसमो ज्ञेयो जातिमात्रप्रदर्शकः ॥ भक्ष्याभक्ष्ये तथापेये वाच्यावाच्ये तथानृते । अस्मिन्बाले न दोषः स्यात्स यावदुपनीयते ॥ दक्ष I. 3-4, quoted in अपरार्क (p. 28) and the second cited as from विष्णुपुराण in परा. मा. I part 2 p. 29.
 
 [^441]:
     तद् द्वितीयं जन्म । तद्यस्मात्स आचार्यः । वेदानुवचनाच्च । गौ. I. 9-11.
@@ -29,10 +29,9 @@ Gautama (II. 1) says that before [[upanayapa|upanayana]], a boy may act, speak a
     स हि विद्यातस्तं जनयति । तच्छ्रेष्ठं जन्म । शरीरमेव मातापितरौ जनयतः । आप. ध. सू. I. 1. 1. 16-18.
 
 [^444]:
-    जन्मना ब्राह्मणो ज्ञेयः संस्कारैर्द्विज उच्यते । विद्यया याति विप्रत्वं श्रोत्रियस्त्रिभिरेव च ॥ अत्रि 141-142; ब्रह्मपुराण reads जन्मना...। विद्यया वापि विप्रत्वं त्रिभिः श्रोत्रिय उच्यते ॥ quoted in सं. प्र. p. 404. चित्रकर्म यथानेकै रङ्गैरुन्मील्यते शनैः । ब्राह्मण्यमपि तद्वत्स्यात्संस्कारैर्विधिपूर्वकैः । पराशर VIII. 19; quoted as Devala's by Aparārka (p. 25) and as of Aṅgiras in Par. M. II. part I. p. 22, संस्कारतत्त्व p. 857 and सं. प्र. p. 136.
+    जन्मना ब्राह्मणो ज्ञेयः संस्कारैर्द्विज उच्यते । विद्यया याति विप्रत्वं श्रोत्रियस्त्रिभिरेव च ॥ अत्रि 141-142 ; ब्रह्मपुराण reads जन्मना... । विद्यया वापि विप्रत्वं त्रिभिः श्रोत्रिय उच्यते ॥ quoted in सं. प्र. p. 404. चित्रकर्म यथानेकै रङ्गैरून्मील्यते शनैः । ब्राह्मण्यमपि तद्वत्स्यात्संस्कारैर्विधिपूर्वकैः । पराशर VIII. 19; quoted as Devala's by Aparārka (p. 25) and as of Aṅgiras in Par. M. II. part I. p. 22, संस्कारतत्त्व p. 857 and सं. प्र. p. 136.
 
-
-Therefore it is now time to speak of [[samskāras|saṃskāras]]. [[P190]]
+Therefore it is now time to speak of [[samskāras|saṃskāras]].
 
 The word saṃskāra hardly ever occurs in the ancient Vedic literature, but the root “[[kf|kṛ]]' with 'sam' and the past passive participle '[[samsksta|saṃskṛta]]' occur often enough. In Ṛg. V. 76. 2 the word [[samsksta|saṃskṛta]] is applied to 'gharma' (vessel) 'the two Aśvins do not harm the gharma that has been purified.' In Ṛg. VI. 28. 4 we have the word '[[sanskrtatra|saṃskṛtatra]]' and Ṛg. VIII. 33. 9 has '[[ranāya samskrtah|raṇāya saṃskṛtaḥ]]'. [[Sat.|Śat.]] Br. I. 1. 4. 10 speaks of preparing (or purifying) [[offering|the offering]] (havis) for the gods. So in Śat. Br. III. 2. 1. 22 'therefore a woman approaches a man who stands in a well-trimmed ([[samskýta|saṃskṛta]]) house.'[^445] Vide Vāj. S. IV. 34 for a similar use of [[samaksta|saṃskṛta]]. In [[Chan. Up.|Chān. Up.]] IV. 16. 2, we read "of that sacrifice there are two ways, by mind, by speech; the Brahmā (priest) prepares (or polishes) one of them by his mind."[^446] The word saṃskāra is used several times in the sūtras of Jaimini (as in III. 1. 3, III. 2. 15 and 17, III. 8. 3, IX.2. 9, 42, 44, IX. 3. 25, IX. 4. 33, IX. 4. 50 and 54, X. 1. 2 and 11 &c.). It generally means some purificatory [[aot|act]] in a sacrifice e. g. in Jaimini III. 8. 3 the word is applied to the actions of shaving the head, washing the teeth and paring the nails on the part of the sacrificer in [[Jyotiṣtoma|Jyotiṣṭoma]]; in IX. 3, 25 the word saṃskāra is applied to prokṣaṇa (sprinkling with water), in X. 2. 49 it is applied to the [[sharing|shaving]] of the head and face. In Jaimini[^447] VI. 1. 35 the word saṃskāra stands for upanayana. [[Sabara|Śabara]] explains[^448] saṃskāra as that which being effected makes a certain thing or person fit for a certain purpose and the [[Tantra vārtika|Tantravārtika]] says that [[samskāras|saṃskāras]] are those actions and rites that impart fitness, and it further says,[^449] "fitness is of two kinds; it arises by the removal of taints (sins) or by the generation of fresh qualities. [[Samskāras|Saṃskāras]] generate fresh qualities, while tapas brings about the removal of taints. He who performs such sacrifices as [[Jyotiṣtoma|Jyotiṣṭoma]] and others has certain blemishes in him due to not doing in this life or a previous life duties laid down for him or doing what is forbidden. If they (blemishes) are not removed they obstruct the (acquisition of the) reward of the sacrifice even if it be entirely free from any defects whatever, as they (blemishes) produce (for the sacrificer) the experience of their own fruits that are opposed to the (fruit of the) sacrifice.'
 
@@ -561,13 +560,13 @@ Jātakarma—This appears to have been a rite of hoary antiquity. In the Tai. S.
     वैश्वानरं द्वादशकपालं निर्वपेत्पुत्रे जाते । ...... यस्मिञ्जात एतामिष्टिं निर्वपति पूत एव तेजस्यन्नाद इन्द्रियावी पशुमान् भवति । तै. सं. II. 2. 5. 3-4. जातकर्म is treated of in the following : आप. गृ. 15. 1. 7 (S. B. E 30 pp. 281-82), आश्व. गृ. (I. 15. 1-4, S. B. E. 29 p. 182), काठकगृह्य 34-35, खादिर II. 2. 32-34 (S. B. E 29 p. 395), गोभिल II. 7. 17-23 (S. B. E vol. 30 pp 55-56), पारस्कर I. 16 (S. B. E. 29 pp 293-297), भारद्वाज I. 23-26, वैखानस III. 14-15, शांख्यायन I. 24. 1-5 (S. B. E. vol. 29 pp 49-50), हिरण्यकेशि (II. 3. 2-II. 4-5, S. B. E vol. 30 pp 210-214.)
 
 [^526]:
-    तस्मात्कुमारं जातं घृतं वाग्रे प्रतिलेहयन्ति स्तनं वा अनुधापयन्ति । Bṛ. Up. I. 5. 2.
+    तस्मात्कुमारं जातं घृतं वै वाग्रे प्रतिलेहयन्ति स्तनं वा अनुधापयन्ति । बृह. उ. प. I. 5. 2.
 
 [^527]:
     The idea of muttering 'vāk' thrice is that the father wishes that speech as manifested in the three Vedas may come to the boy in due course. Bhūḥ, bhuvaḥ and svaḥ represent the three Vedas or earth, air and heaven.
 
 [^528]:
-    Maitrāvaruṇa is Vasiṣṭha and so Maitrāvaruṇī may be Arundhatī. iḍā means 'earth' or 'food'. One rather expects 'vīraḥ' for 'vīrā'.
+    Maitrāvaruṇa is Vasiṣṭha and so Maitrāvaruṇī may be Arundhatī. इळा means 'earth' or 'food'. One rather expects अजीजनः for अजीजनत्.
 
 
 
@@ -584,13 +583,13 @@ The ceremony has to be performed by the very necessities of the case immediately
 In the Āśv. gṛ. (I. 15. 1-4) the ceremony is described as follows: "When a son has been born, he (the father) should before other persons touch him, give to the child to eat honey and clarified butter in which gold has been rubbed by means of a golden (spoon) with the verse 'I give unto thee the Veda (wisdom or knowledge) of honey and ghṛta, (Veda) which is produced by the god Savitṛ (who urges on) the bountiful; may you have long life and may you live in this world for a hundred autumns being protected by the gods'. Bringing near the child's two ears (his mouth) the father mutters [[medhajanana|medhājanana]][^529] 'may god Savitṛ bestow on thee intelligence; may the goddess Sarasvatī bestow on thee intelligence and may the two gods Aśvins wearing wreaths of lotus give to thee intelligence'.[^530] He touches the (son's) two shoulders (with the mantra) 'be a stone, be an axe, be indestructible gold; thou art indeed Veda, called son; so live a hundred autumns' and (with the mantra) 'Oh Indra, bestow the best wealth' (Ṛg. II. 21. 6) and 'Oh Maghavan (bountiful Indra)![^531] Oh (Indra) partaker of ṛjīṣa! bestow on us' (Ṛg. III. 36. 10). And let them give him a name". The following sūtras (I. 15. 5-10) lay down rules about the name, which will be considered under Nāmakaraṇa. [[P232]]
 
 [^529]:
-    The verse is so styled because it was deemed to produce intelligence.
+    The verse is so called because it was deemed to produce intelligence.
 
 [^530]:
     Nārāyaṇa (on Āśv. gṛ. I. 15. 2) notes that some say that the mantra is muttered only once, when the mouth is brought near each ear one after another, others say that the mantra is recited twice.
 
 [^531]:
-    This is Soma from which the essence is taken away (i. e. dregs of Soma). The com. Nārāyaṇa says that as to these mantras (1) some hold that the three mantras should be repeated continuously, while the shoulders are touched one after the other; (2) others hold that the mantra 'aśmā bhava' should be uttered when touching the right shoulder, while the two 'indra śreṣṭhāni' and 'ṛjīṣin' should be uttered while touching the left; (3) the three mantras should be repeated together and the shoulders touched simultaneously. Nārāyaṇa prefers this last because the vṛttikāra who went before did so.
+    ऋजीष is Soma from which the essence is taken away (i. e. dregs of Soma). The com. Nārāyaṇa says that as to these mantras (1) some hold that the three mantras should be repeated continuously, while the shoulders are touched one after the other; (2) others hold that the mantra अश्मा भव should be uttered when touching the right shoulder, while the two 'इन्द्र श्रेष्ठानि' and 'अस्मे प्रयन्धि' should be uttered while touching the left; (3) the three mantras should be repeated together and the shoulders touched simultaneously. Nārāyaṇa prefers this last because the bhāṣyakāra who went before did so.
 
 
 
@@ -605,20 +604,15 @@ We shall now take the several components of the rite and show how they are dealt
 Homa—This is prescribed by the Bṛ. Up., the Mānava, the Kāṭhaka gṛ. at the time of birth. The Āśv. gṛ. pariśiṣṭa (I. 26) says that homa should be performed to Agni and other gods as stated above, then the child should be made to eat honey and ghṛta and then the offering be made to Agni. It is prescribed before birth (in the Soṣyantikarma) by Gobhila and Khādira. It is prescribed after the whole rite by Baudh. gṛ. II. 1. 13. It is omitted by Āśv. and Śāṅ. The Pār. gṛ. (I. 16), Hir. gṛ., Bhāradvāja gṛ. (I. 26) say that the Aupāsana (i. e. gṛhya) fire is taken away and a sūtikāgni set up (which is also called Uttāpanīya)[^532] near the door of the lying-in chamber. The Vaik. (III. 15) calls it jātakāgni (and also Uttāpanīya). These say that in this fire white mustard seed with small grains of rice are offered at the time of birth and at the morning and evening twilights for ten days after birth with certain mantras. Āp. prescribes that [[P233]] mustard seeds and rice chaff are to be offered in the fire whenever any body enters the lying-in chamber for ten days.
 
 [^532]:
-    The Sūtikāgni is prepared by placing the broken piece of a jar on the kitchen fireplace and heating it with the dried dung of a bull. 'उल्लिख्य कपालमारोप्य वृषभशकृत्पिण्डेन जातकाग्निं साधयेदेनमुत्तापनीयमित्याचक्षते' Vaikh. III. 15.
-
-
+    The Sūtikāgni is prepared by placing the broken piece of a jar on the kitchen fireplace and heating it with the dried dung of a bull. 'चुल्ल्यां कपालमारोप्य वृषभशकृत्पिण्डेर्जातकाग्निं साधयेत्तमेवमुत्तपनीयमित्युदाहरन्ति' वैखानस III. 15.
 
 (2) Medhājanana—Two meanings are given to this. This word does not occur in the Bṛ. Up. But it speaks of muttering in the right ear of the boy the word 'vāk' thrice and making the boy lick from a golden spoon or ring curds, honey and ghṛta. The first of these viz. muttering in the right ear of the boy some words or a mantra is called medhājanana in Āśv. and Śāṅ. (I. 24. 9 which prescribes 'vāk'); while most of the other sūtras viz. Vaik., Hir., Gobhila say that medhājanana is the action of making the child eat honey, ghee, curds or pounded barley and rice, to the accompaniment of mantras (like 'bhūstvayi dadhāmi' in Pār. or 'Bhūr ṛcaḥ' as in Vaikhānsa, or 'medhāṃ te devaḥ' as in Āp.). The Baudh. gṛ. (II. 1. 7) prescribes the giving of curds, honey and ghṛta ten times with each of the ten mantras (Tai. Br. II. 5. 1) of the anuvāka beginning with 'prāṇo rakṣati viśvam-ejat.' The Vaik. expressly says that the Vacā[^533] plant, Pathyā plant, gold, honey and clarified butter become medhājanana. Manu II. 29 seizes upon the making the child eat gold (dust), honey and clarified butter to the accompaniment of mantras as the central part of the rite. Later works like the [[Samskıramayākha|Saṃskāramayūkha]] regard this eating of honey and ghṛta as the principal part of jātakarma.[^534]
 
 [^533]:
-    वचापथ्याहिरण्यमध्वाज्यैर्मेधाजननं करोति । Vaikh. III. 15. Amara gives उग्रा and अभया as synonyms of वचा and पथ्या respectively.
+    वचा पथ्या हिरण्यं मधु सर्पिरिति मेधाजननानि भवन्ति । वैखानसस्मार्त III. 15. Amara gives उग्रगन्धा and हरीतकी as synonyms of वचा and पथ्या respectively.
 
 [^534]:
-    ...तच्च जातकर्म घृतमध्वोः सुवर्णनिकाषेण हिरण्येन प्राशनम् । Saṃskāramayūkha.
-
-
-
+    जातकर्मणि प्रधानमाहाश्वलायनः । कुमारं जातं पुरान्यैरालम्भात्सर्पिर्मधुनी हिरण्यनिकाषं हिरण्येन प्राशयेत् । संस्कारमयूख
 
 (3) Āyuṣya—Some of the sūtras speak of a rite called Āyuṣya in the jātakarma. This consists in muttering over the navel (as in Pār.) or in the right ear of the boy some mantra or mantras invoking the bestowal of long life on the boy. Āśv. (vide p. 231) has such an invocation in conjunction with the eating of honey and ghṛta. Bhāradvāja also does the same. Mānava gṛ. prescribes the anuvāka 'Agne āyur-asi' (Kāṭhaka Saṃ. XI. 7) for 21 oblations (this anuvāka is full of the word 'āyuṣmat').
 
@@ -633,16 +627,14 @@ Homa—This is prescribed by the Bṛ. Up., the Mānava, the Kāṭhaka gṛ. at
 (8) [[Desābhimantraña|Deśābhimantraṇa]] (or -marśana)—touching the ground where the son is born and addressing the earth (with one or two mantras). Pār., Bhār., Āp., Hir. do this.[^535]
 
 [^535]:
-    Hiraṇyakeśi (I. 25) has 'यं ते पृथिवीं वेदेति भूमिमभिमन्त्रयते । यं ते पुत्रमदं श्रितम् । वेदामृतस्य गोप्तारं माऽहं पौत्रमघं रुदम् ॥ इति'. Pāraskara reads 'स यस्मिन्देशे जातो भवति तमभिमन्त्रयते । वेद ते भूमि हृदयं दिवि चन्द्रमसि श्रितम् । तदहं तस्मात्पश्येम शरदः शतं जीवेम शरदः शतं शृणुयाम शरदः शतमिति' ।
-
-
+    भारद्वाज (I. 25) has यत्र शेते तदभिमृशति । वेद ते भूमि हृदयं दिवि चन्द्रमसि श्रितम् । वेदाहृतस्य गोतारं माहं पौत्रमघं रुदम् ॥ इति । पारस्कर reads स यस्मिन्देशे जातो भवति तमभिमन्त्रयते । वेद......श्रितम् । वेदाहं तन्मां तद्विद्यात्पश्येम शरदः शतं जीवेम शरदः शतं शृणुयाम शरदः शतमिति ।।
 
 (9) Nāmakaraṇa—(giving a name to the child). The Bṛ. Up., Āśv., Śāṅ., Gobhila, Khādira and several others speak of giving a name to the boy on the day of birth. Āśv. (I. 15. 4 and 10) prescribes the giving of two names on that date, one for common use (for which he gives elaborate rules) and the other a secret one which his parents only know till the boy's upanayana. Śāṅ. reverses this and says the name for which similar elaborate rules are laid down by him is the secret name and a name for common use is to be given on the 10th day. Āp. gṛ. (15. 2-3 and 8) says on the day of birth a name derived from the nakṣatra (lunar mansion) on which the boy is born is given, which is the secret name and then on the 10th another name is to be given. According to Gobhila and Khādira a name is to be given in the Soṣyanti-karma which is to be kept secret. [[P235]]
 
 (10) Keeping off evil spirits—Though Āśv. and Śāṅ. are entirely silent on this point several sūtras devote large space to this topic and are full of mantras which are more or less magic. Āp. prescribes the offering of mustard seed and rice chaff in fire three times with each of eight mantras (Āp. mantra-pāṭha II. 13. 7-14). Bhār. gṛ. (I. 23) also prescribes similar offerings with several verses. Hir. gṛ. requires the throwing of mustard seeds eleven times in the sūtikāgni with eleven mantras some of which are almost the same as in Bhāradvāja. Pār. gṛ. recites two of such mantras.[^536]
 
 [^536]:
-    शण्डामर्का उपवीरः शोण्डिकेय उलूखलः । मलिम्लुचो द्रोणासश्च्यवनो नश्यतादितः स्वाहा आलिखन्ननिमिषः किंवदन्तः उपश्रुतिर्हर्यक्षः कुम्भीशत्रुः पात्रपाणिर्नृमणिर्हन्त्रीमुखः सर्षपारुणश्च्यवनो नश्यतादितः स्वाहा । Pār. I. 16. These two occur in Hir. and the first in Vaikh. also.
+    द्वारदेशे सूतिकाग्निमुपसमाधायोत्थानात्सन्धिष्वेलयोः फलीकरणमिश्रान् सर्षपानञ्जलावावपति । शण्डामर्का उपवीरः शौण्डिकेय उलूखलः । मलिम्लुचो द्रोणासश्च्यवनश्यतादितः स्वाहा ॥ आलिखन्ननिमिषः किंवदन्त उपश्रुतिर्हर्यक्षः कुम्भीशत्रुः पात्रपाणिर्नृमणिर्हन्त्रीमुखः सर्षपारुणाश्च्यवनो नश्यतादितः स्वाहेति । पारस्कर I. 16. These two occur in Hir. and the first in भारद्वाज also.
 
 
 
@@ -667,7 +659,7 @@ The Sm. C. (I. p. 19)[^539] cites Hārīta, Śaṅkha, Jaimini to the effect tha
 [[P237]] Medieval writers of digests give extensive descriptions of śānti rites[^540] performed to counteract the inauspicious effects of birth on the 14th tithi of the dark half of a month or on the amāvāsyā or on Mūla, Āśleṣā and Jyeṣṭhā nakṣatras and certain astrological conjunctions like Vyatīpāta, Vaidhṛti, Saṃkrānti (sun's passage from one sign of the zodiac into another). These matters are passed over here for want of space, as of little importance in modern times and as new departures introduced in the ancient sūtra rites by later works. A few general remarks will be made on these matters in the section on Śānti and Muhūrta. 
 
 [^540]:
-    Vide Saṃskāramayūkha pp. 846-47, Saṃskāraprakāśa pp. 201-203. 'मूलगण्डजातानां परित्यागो विधीयते । जातस्यादर्शनं तावद्यावत्पूर्णा समाष्टकम् ॥' इति । अन्ये तु 'होमपूर्वकदानेन तद्दर्शनं भवतीत्याहुः ।' Nityācārapaddhati.
+    Vide संस्काररत्नमाला pp 846-47, संस्कारप्रकाश pp. 201-203. 'सर्वेषां गण्डजातानां परित्यागो विधीयते । जातस्यादर्शनं तावद्यावत्पूर्णं समाष्टकम् ॥ इति । अन्ये तु होमपूर्वकदानेन तद्दर्शनं शुभमित्याहुः !' नित्याचारपद्धति.
 
 
 
@@ -678,9 +670,7 @@ Utthāna (getting up from child-bed)—According to Vaik. III. 18 on the 10th or
 Nāmakaraṇa[^541]—The ceremony of naming a child. Vide Āp. gṛ. 15. 8-11 (S. B. E. vol. 30, pp. 282-283), Āśv. gṛ. I. 15. 4-10 (S. B. E. vol. 29, p. 183), Baudh. gṛ. II. 1. 23-31, Bhār. gṛ. I. 26, Gobhila gṛ. II. 8. 8-18 (S. B. E. vol. 30, pp. 57-58), Hir. gṛ. II. 4. 6-15 (S. B. E. vol. 30, pp. 214-215), Kāṭhaka gṛ. 34. 1-2 and 36. 3-4, Kauśika-sūtra 58. 13-17, Mānava gṛ. I. 18. 1, Śāṅ. gṛ. I. 24. 4-6 (S. B. E. vol. 29, p. 50), Vaik. III. 19, Vārāha gṛ. 2.
 
 [^541]:
-    For a comprehensive treatment of the way in which names were given from Vedic times onwards, my paper 'Naming a child or a person' in the Indian Historical Quarterly for 1938, vol. 14, pp. 24-44 may be consulted. A summary of the points made in that paper is given below together with some fresh matter.
-
-
+    For a comprehensive treatment of the way in which names were given from Vedic times onwards, my paper 'Naming a child or a person' in the 'Indian Historical Quarterly' for 1938, vol. 14, pp. 24-44 may be consulted. A summary of the points made in that paper is given below together with some fresh matter.
 
 There is great divergence of view as to the time when the child was named. Several times are suggested in the ancient literature and in the sūtras and smṛtis.
 
@@ -688,11 +678,11 @@ There is great divergence of view as to the time when the child was named. Sever
 
 (b) According to the Bṛ. Up., Āśv. and Śāṅ., Kāṭhaka gṛ. (34. 1) a name was given to the child on the day of birth. This practice is supported by a passage of the Śat. Br.[^541a] 'therefore when a son is born (the father) should bestow on him a name; thereby he drives away the evil that might attach to the boy; (the father gives him) even a second, even a third (name)'. The Mahābhāṣya of Patañjali appears to refer to this view. "In the world the parents give a name to the son when born in a closed space (or room) such as Devadatta, Yajñadatta; from their employment (of that name for the boy) others also come to know 'this is his appellation' ".[^542]
 
-[^542]:
-    लोके तावन्मातापितरौ पुत्रस्य जातस्य संवृतेऽवकाशे नाम कुर्वाते देवदत्तो यज्ञदत्त इति। तयोरुपचारादन्येऽपि जानन्ति अस्येयं संज्ञेति । Mahābhāṣya Vol. I. p. 38.
-
 [^541a]:
-    तस्मात्पुत्रस्य जातस्य नाम कुर्यात्पाप्मानमेवास्य तदपहन्त्यपि द्वितीयमपि तृतीयमपि
+    तस्मात्पुत्रस्य जातस्य नाम कुर्यात्पाप्मानमेवास्य तदपहन्त्यपि द्वितीयमपि तृतीयम् । शतपथ VI. 1. 3. 9.
+
+[^542]:
+    लोके तावन्मातापितरौ पुत्रस्य जातस्य संवृतेऽवकाशे नाम कुरुते देवदत्तो यज्ञदत्त इति । तयोरुपचारादन्येपि जानन्तीयमस्य संज्ञेति । महाभाष्य vol. I. p. 38.
 
 
 
@@ -700,9 +690,7 @@ There is great divergence of view as to the time when the child was named. Sever
 (c) Āp., Baudh., Bhār., and Pār. prescribe the 10th day after birth for nāmakaraṇa. The Mahābhāṣya quotes a passage[^543] from the Yājñikas that a name was given on a day after the tenth from birth. [[P239]]
 
 [^543]:
-    ...दशम्यामुत्तरकालं नाम दधति । Mahābhāṣya vol. I. p. 4.
-
-
+    महाभाष्य vol. I. p. 4.
 
 (d) Yāj. I. 12 prescribes it on the 11th day after birth.
 
@@ -711,18 +699,15 @@ There is great divergence of view as to the time when the child was named. Sever
 (f) Gobhila (II. 8. 8, S. B. E. vol. 30, p. 57) and Khādira[^544] say that it should be on any day after ten nights, one hundred nights or a year from birth. Laghu-Āśvalāyana (VI. 1) allows it on the 11th, 12th or 16th day. Aparārka (p. 26) quotes gṛhyapariśiṣṭa to the effect that it may be performed after the 10th night is passed or after 100 nights or a year and the Bhaviṣyat-purāṇa to the effect that it may be performed after 10 or 12 nights or on the 18th day or after a month. It is worthy of note that Bāṇa in his Kādambarī (pūrvabhāga para 68) says that Tārāpīḍa named his son Candrāpīḍa when the tenth day after birth fell on an auspicious muhūrta and that the minister Śukanāsa named his son Vaiśampāyana next day.[^545]
 
 [^544]:
-    ...दशरात्रादुत्तरं शतारात्रात्संवत्सराद्वा । Khādira II. 3. 6, ...दशरात्रे व्युष्टे दशम्यामुत्तरकालं नामकरणं कुर्यात् । quoted in Aparārka p. 26.
+    जननादूर्ध्वं दशरात्राच्छतरात्रात्संवत्सराद्वा नाम कुर्यात् । खादिर II. 3. 6; गृह्यपरिशिष्टम् । जननाद्दशरात्रे व्युष्टे शतरात्रे संवत्सरे वा नामधेयकरणम् । अपरार्क p. 26.
 
 [^545]:
-    अथ दशमेऽहनि शुभे मुहूर्ते ... नाम चकार चन्द्रापीड इति । ... परेऽह्नि शुकनासः ... अकारषीत् वैशम्पायन इति सुतस्य नाम । Kādambarī para 68; 'अथ दशमेऽहनि ... अकारयत् कुमारस्य वैशम्पायन इति नाम' । Kādambarī para 140.
-
-
-
+    प्राप्ते दशमेऽहनि पुण्ये मुहूर्ते ...... चन्द्रापीड इति नाम चकार । अपरेद्युः शुकनासोपि ...... वैशम्पायन इति नाम चकार । कादम्बरी para. 68; ' अतीते च दशमेऽहनि ...... महाश्वेतेति यथार्थमेव नाम कृतवान् ।' कादम्बरी para 140.
 
 The commentators were bewildered by these differences. Viśvarūpa explains Manu II. 30 as 'when the 10th night is past' and Kullūka does the same (i. e. according to him it is performed on the eleventh day). Medhātithi does not[^546] like the addition of 'past' (atītāyām) after 'daśamyām' in Manu II. 30 and says just as jātakarma can be performed even when there is impurity due to birth, so nāmakaraṇa may be performed on the 10th and that the only essential thing is that it is not to [[P240]] be performed before the 10th or 12th. Aparārka says that there is an option and one may follow one's own gṛhyasūtra. It appears that the nāmakaraṇa[^547] of Hariścandra, son of Jayacandra, king of Kanoj, took place three weeks after jātakarma (on 31. 8. 1175 A. D.). In modern times nāmakaraṇa generally takes place on the 12th day after birth and no Vedic ceremony as prescribed in the sūtras is gone through, but women assemble and after consulting the male members of the family beforehand announce the name and place the child in the cradle.
 
 [^546]:
-    दशम्यामतीतायां ... न च दशम्यामेव । दशम्यां द्वादश्यां न कर्तव्यम् । उत्तरकालं - तिथिनक्षत्रं लग्नं परीक्ष्येत्यर्थः । Medhātithi on Manu II. 30.
+    जातकर्मवदाशौचेऽपि करिष्यते । ...... यदि दशमीद्वादश्यौ वक्ष्यमाणगुणयुक्ते भवतः तदा तयोः कर्तव्यम् । यदा न तदान्यस्मिन्नप्यहनि कर्तव्यम् । ...... अयं च परमार्थः । दशमीद्वादश्योरर्वाङ् न कर्तव्यम् । उत्तरकालं च यदहर्नक्षत्रं लग्नं परिशुद्धं तदहरेव कर्तव्यम् । मेधातिथि on मनु II. 30.
 
 [^547]:
     Vide I. A. vol. 18 p. 129, read with E. I. vol. IV. p. 180 and E. I. vol. X. p. 95.
@@ -733,22 +718,22 @@ The commentators were bewildered by these differences. Viśvarūpa explains Manu
 In Ṛg. VIII. 80. 9 we read 'when you give us a fourth name connected with (the performance of) a sacrifice, we long for it; immediately afterwards, you, our master, take us (forward to glory)'[^548] This shows that a man could have a fourth name even in the times of Ṛg. and the fourth was a name due to the performance of a yajña. Sāyaṇa explains that the four names are: nakṣatranāma (derived from the nakṣatra on which a person was born), a secret name, a publicly known name and a fourth name like Somayāji (due to having performed a Somayāga). In Ṛg. X. 54. 4 there appears to be a reference to four names (though Sāyaṇa takes nāma here to mean stotra, an act or deed). In Ṛg. IX. 75. 2 there is reference to a 'son who has a third name unknown to the parents and in the bright part of heaven'. The two names are the secret name and the ordinary name, while the third would be the name due to the performance of a sacrifice (which the parents could not foresee at his birth). In the Ṛg. frequent reference is made to the secret name of a person. Vide Ṛg. IX. 87. 3, X. 55. 1-2. We saw above (note 541a) that the Śat. Br. speaks of a second or even a third name for a person given to him by his parents. The same Brāhmaṇa[^549] recommends "Therefore a brāhmaṇa [[P241]] when he does not prosper should give himself a second name". But how these names were formed is not stated anywhere in the Vedic literature. In the Tai. S. VI. 3. 1. 3 it is said 'therefore a brāhmaṇa who has two names prospers'.[^550] The Śat. Br. (II. 1. 2. 11) says 'Arjuna is the secret name of Indra and the constellation of Phālguṇīs being presided over by Indra they are really Ārjunīḥ, but are called Phālgunīḥ in an indirect way'.[^551] We saw above (p. 230) that the Bṛ. Up. speaks of a secret name given by the father on the day of birth. Hardly any secret names are expressly mentioned in the Vedic literature except the name of Arjuna given to Indra (and being secret they cannot be expected to be mentioned). How the secret name was given is not clear from the Vedic literature. In Vāj. S. 17. 89 there is a reference to the secret name of ghṛta.[^552] The Tai. S. gives expression to the request that the (Āhavanīya) fire should bear the name of one who keeps sacred fires, while the person praying was away on a journey.[^553]
 
 [^548]:
-    तुरीयं नाम यज्ञियं यदा दधाथे । ऋ. VIII. 80. 9; चत्वारि वा एतस्य नामानि यज्ञियं देवत्रा... । Ṛg. X. 54. 4; शिशुं जज्ञानं हर्यतं मृजन्ति शम्भौ तृतीयं नाम बिभ्रतं गुहा । Ṛg. IX. 75. 2. The Hiraṇyakeśigṛhya speaks of three names, nakṣatranāma, abhiprāyikanāma and a third one like somayājin. The Śat. Br. also says that a man bears the name somayājin when he performs agniṣṭoma 'अग्निष्टोमयाजीत्येतस्य नाम भविता । कस्मिन् योऽस्य पुत्रो जनिता कदा वाग्निष्टोमेन यजता इति ।' Śat. Br. vol. II. p. 168 on Pāṇini III. 4. 1.
+    तुरीयं नाम यज्ञियं यदा करस्तदुश्मसि । आदित्पतिर्न ओहसे । ऋ. VIII. 80. 9; चत्वारि ते असुर्याणि नामादाम्यानि महिषस्य सन्ति । ऋ. X. 54. 4; दधाति पुत्रः पित्रोरपीच्यं नाम तृतीयमधि रोचने दिवः । ऋ. IX. 75. 2. The हिरण्यकेशिगृह्य speaks of three names नक्षत्रनाम, व्यावहारिकनाम and a third one like सोमयाजी. The महाभाष्य also says that a man bears the name अग्निष्टोमयाजी when he performs अग्निष्टोम 'अग्निष्टोमयाजीत्येतत्तस्मिन् भविता। कस्मिन् योऽस्य पुत्रो जनिता। कदा यदाग्निष्टोमेनेष्टं भवति । महाभाष्य vol. II. p. 168 on पा. III. 4. 1.
 
 [^549]:
-    तस्माद् ब्राह्मणोऽनृधुकामो द्वितीयं नाम कुर्वीत ऋध्नुक एव भवति... । Śat. Br. III. 6. 2. 24. Vide Śrautasūtra I. 3, 9 for the recital of the three names of a sacrificer (Dhūrtasvāmin says they were abhiprāyika, nakṣatranāma and abhyudayika).
+    तस्माद् ब्राह्मणोऽनृध्यमाने द्वितीयं नाम कुर्वीत राध्नोति हैव य एवं विद्वान् द्वितीयं नाम कुरुते । शतपथ III. 6. 2. 24. Vide द्राह्यायणश्रौत I. 3. 9 for the recital of the three names of a sacrificer (धन्विभाष्य says they were अभिवादनीय, व्यावहारिक and नक्षत्रनाम).
 
 [^550]:
-    तस्माद् ब्राह्मणो द्विनामा ऋध्नुकः । Tai. S. VI. 3. 1. 3. This is quoted in Hir. gṛ., Bhār. gṛ. I. 26 and other gṛhya sūtras.
+    तस्माद् द्विनामा ब्राह्मणोर्धुकः । तै. सं. VI. 3. 1. 3. This is quoted in Hir. gṛ., Bhār. gṛ. I. 26 and other gṛhya sūtras.
 
 [^551]:
-    अर्जुनी ह वै नामेन्द्रो यदस्य गुह्यं नामार्जुन्यो वै नामैतास्ता एतत्परोक्षमाचक्षते फल्गुन्य इति । Śatapatha II. 1. 2. 11.
+    अर्जुनो ह वै नामेन्द्रो यदस्य गुह्यं नामार्जुन्यो वै नामैतास्ता एतत्परोक्षमाचक्षते फाल्गुन्य इति । शतपथ II. 1. 2. 11.
 
 [^552]:
-    इदं ते गुह्यं नाम बिभर्मि । Vāj. S. 17. 89.
+    घृतस्य नाम गुह्यं यदस्ति जिह्वा देवानाममृतस्य नाभिः । वाज. सं. 17. 89.
 
 [^553]:
-    अयं ते योनिर्ऋत्वियो यतो जातो अरोचथाः । तं जानन् अग्न आ रोहाथा नो वर्धया रयिम् ॥ Tai. S. I. 5. 10. 1. This is differently read in other saṃhitās e. g. Tai. Br. VII. 3 reads 'अयं ते योनिराहित्याग्निः' This verse is quoted in nāmakaraṇa by several sūtras, e. g. Bhār. I. 26.
+    मम नाम प्रथमं जातवेदः पिता माता च दधतुर्यदग्रे । तत्त्वं बिभृहि पुनरा मदेतो स्तवाहं नाम बिभराण्यग्ने ॥ तै. सं. I. 5. 10. 1. This is differently read in other संहिताs e. g. काठक VII. 3 reads ' दधतुर्ग्वग्रे । तत्त्वं गोपाया पुनर्द्वै ते वयं बिभराम तव नाम. This verse is quoted in nāmakaraṇa by several sūtras, e. g. Bhār. I. 26.
 
 
 
@@ -762,34 +747,28 @@ A few examples of the three names of a person from the Vedic literature may be g
 Usually however a person is referred to in the Vedic literature by two names. In some cases it is his own name and a gotra name e. g. Medhyātithi Kāṇva (Ṛg. VIII. 2. 40), Hiraṇyastūpa Āṅgirasa (Ṛg. X. 149. 5), Vatsapri Bhālandana (Tai. S. V. 2. 1. 6), Bālāki Gārgya (Bṛ. Up. II. 1. 1), Cyavana Bhārgava (Ait. Br. 39. 7). In other cases a man is referred to by his own name and another name derived from a country or locality e. g. Kaśu Caidya (Ṛg. VIII. 5. 37), Bhīma Vaidarbha (Ait. Br. 35. 8), Durmukha Pāñcāla (Ait. Br. 39. 23), Janaka Vaideha (Bṛ. Up. III. 1. 1), Ajātaśatru Kāśya (Bṛ. Up. II. 1. 1). In some cases a matronymic is added to a person's name e. g. Dīrghatamā Māmateya (Ṛg. I. 158. 6), Kutsa Ārjuneya (son of Arjunī, Ṛg. IV. 26. 1, VII. 19. 2, VIII. 1. 11), Kakṣīvat Auśija (son of a woman called Uśik, Ṛg. I. 18. 1, Vāj. S. III. 28),[^554] Prahlāda Kāyādhava (son of Kayādhū, Tai. Br. I. 5. 10), Mahidāsa Aitareya (son of Itarā, Chān. Up. III. 16. 7). In the vaṃśa added at the end of the Bṛ. Up. there are about forty sages with matronymic names. The practice of mentioning a man by reference to his mother's name or to his mother's father's gotra was continued till later times, as will be shown later on. The most usual method, however, of referring to a person in the Ṛg. and also in other Vedic works was to state his name along with another derived from his father's name. For example, Ambarīṣa, Ṛjrāśva, Sahadeva and Surādhas are all called Vārṣāgira (son of Vṛṣāgir, Ṛg. I. 100. 17); king Sudās is called Paijavana (son of Pijavana, Ṛg. VII. 18. 22), Devāpi is Ārṣṭiṣeṇa (son of Ṛṣṭiṣeṇa, Ṛg. X. 98. 5-6), Śamyu Bārhaspatya (Tai. S. II. 6. 10), Bhṛgu Vāruṇi (Ait. Bṛ. 13. 10 and Tai. Up. III. 1), Bharata Dauṣṣanti (Śatapatha XIII. 5. 4. 11, Ait. Bṛ. 39. 9), Nābhānediṣṭha Mānava (Ait. Br. 22. 9).
 
 [^554]:
-    Patañjali on Pāṇini VI. 1. 37 explains the words kakṣīvantam auśijam (Ṛg. I. 18. 1). Vide Mahābhāṣya Vol III. p. 33.
+    वार्तिक 7 on पाणिनि VI. 1. 37 explains the words कक्षीवन्तं य औशिजः (ऋ. I. 18. 1). Vide महाभाष्य vol III. p. 33.
 
 
 
 The principal rules about names may now be set out from the gṛhyasūtras. Āśv. (I. 15. 4-10, S. B. E. vol. 29, pp. 182-183) says 'Let (them) give the boy a name beginning with a sonant, having a semivowel in it, with a visarga at the end, consisting of two syllables or of four syllables, of two syllables if (the father) is desirous of firm (worldly) position (for his son), of four syllables if he is desirous of spiritual eminence (for his son); [[P243]] but (in all cases) with an even number of syllables in the case of males and with an uneven number of syllables in the case of women. And let him find out (for the boy) a name to be employed at respectful salutations (at Upanayana &c.); that name (the boy's) mother and father alone should know till his upanayana'.[^555] The Śāṅ. gṛ. (S. B. E. vol. 29, p. 50) omits the rule about the name ending in a visarga and allows an option of six syllables and adds that the name should be formed by a kṛt affix (from a root) and not by a taddhita; that this name should be known only to his parents and that on the tenth day after birth the father should give the child a name for ordinary use which should be pleasing to brāhmaṇas. It should be noticed that Āśv. and Śāṅ. differ on one very important point. According to Āśv. the name for which elaborate rules are laid down is to be the ordinary name and he lays down no rule about the formation of the secret name; while Śāṅ. lays down for the secret name the same rules as Āśv. does for the public one and Śāṅ. says about the public name that it should be pleasing.
 
 [^555]:
-    नाम चास्मै दद्युः घोषवदाद्यन्तरन्तस्थमभिनिष्ठानान्तं द्व्यक्षरम् । चतुरक्षरं वा । द्व्यक्षरं प्रतिष्ठाकामश्चतुरक्षरं ब्रह्मवर्चसकामः । युजानि पुंसामयुजानि स्त्रीणाम् ।... अभिवादनीयं च समीक्षेत तन्मातापितरौ विद्याता उपनयनात् । Āśv. Gṛ. I. 15. 4-10. The ghoṣas are the last three letters of the five vargas (g, j, ḍ, d, b). Separate the 5th sūtra as युजानि पुंसाम् (अयुजानि स्त्रीणाम्) नामानि स्युः । abhininiṣṭhānāntam means 'अभिनिष्ठानेन विसर्गेण अन्तः यस्य'; Pāṇini VIII. 3. 86 derives that word. That such rules are very ancient follows from a quotation in the Mahābhāṣya 'यज्ञिकाः पठन्ति । दशम्यामुत्तरकालं पुत्रस्य जातस्य नाम विदध्याद् घोषवदाद्यन्तरन्तस्थमवृद्धं त्रिपुरुषानूकमनरिप्रतिष्ठितं तद्धि प्रतिष्ठिततमं भवति द्व्यक्षरं चतुरक्षरं वा नाम कुर्वीत । Mahābhāṣya vol. I. p. 4. avṛddhaṃ means 'the name that would follow the name of (one of) the three ancestors of the boy's father.' anūka means descent or family. avṛddham means that the first syllable is not ā, ai, or au (vide Pāṇini I. 1. 73) and anaripratiṣṭhitam means 'not borne by his foe.'
-
-
+    नाम चास्मै दद्युः घोषवदाद्यन्तरन्तस्थमभिनिष्ठानान्तं द्व्यक्षरम् । चतुरक्षरं वा । द्व्यक्षरं प्रतिष्ठाकामश्चतुरक्षरं ब्रह्मवर्चसकामः । युग्मानि त्वेव पुंसाम् । अयुजानि स्त्रीणाम् । अभिवादनीयं च समीक्षेत तन्मातापितरौ विद्यातामोपनयनात् । आश्व. गृ. I. 15. 4-10. The घोषs are the last three letters of the five वर्गs (कवर्गादि), य् र् ल् व् and ह. Separate the 5th sūtra as घोषवदादि अन्तरन्तस्थं (अन्तः मध्ये अन्तस्थाः यरलवाः यस्य); अभिनिष्ठानान्त means अभिनिष्ठानः अन्ते यस्य, अभिनिष्ठान means विसर्ग. पाणिनि VIII. 3. 86 derives that word. That such rules are very ancient follows from a quotation in the महाभाष्य 'याज्ञिकाः पठन्ति । दशम्युत्तरकालं पुत्रस्य नाम विदध्याद् घोषवदाद्यन्तरन्तस्थमवृद्धं त्रिपुरुषानूकमनरिप्रतिष्ठितं तद्धि प्रतिष्ठिततमं भवति द्व्यक्षरं चतुरक्षरं वा नाम कृतं कुर्यान्न तद्धितमिति । महाभाष्य vol. I. p. 4. त्रिपुरुषानूकम् that would follow the name of (one of) the three ancestors of the boy's father. अनूक means 'descent or family.' अवृद्धं means that the first syllable is not आ, ऐ or औ (vide पाणिनि I. 1. 73) and अनरिप्रतिष्ठित means 'not borne by his foe.'
 
 Instead of quoting gṛhya sūtras at length the principal rules about names deducible from them may be stated in the form of propositions with a few illustrations for each.
 
 (1) The first rule in almost all sūtras is that the name for males should contain two or four syllables or an even number. This rule is deduced from Vedic literature where most of the names contain either two syllables (e. g. Baka, Trita, Kutsa, Bhṛgu) or four syllables (Trasadasyu, Purukutsa, Medhyātithi, Brahmadatta &c.), though names of three syllables (like Kavaṣa, Cyavana, Bharata) and of five syllables [[P244]] (like Nābhānediṣṭha, Hiraṇyastūpa) are not wanting. Baijavāpa gṛhya allowed the name to be of one, two, three, four or any number of syllables. Śāṅ. allowed a name even of six syllables and Baudh. gṛ. (II. 1. 25) of six or even eight. Examples of names with two syllables and four syllables are given below.[^556]
 
 [^556]:
-    अङ्गिरसः पुत्रो हिरण्यस्तूप आङ्गिरसः तस्य चत्वारः पुत्रा आसुः... Baijavāpa gṛhya p. 27. Vasu, Soma, Viṣṇu, Deva (a kṣatriya name), Bhūtiḥ (a vaiśya name) are examples of names of two syllables and Sudāman, Śarmadatta, Somayājin, Dattātreya, Bṛhaspatiḥ of those of four syllables. In the Mahābhāṣya Devadatta and Yajñadatta are the most frequent stock names whenever it predicates something about a person in general and it also says that such names are shortened e. g. 'दत्तो देवदत्तः, भमा सत्यभामा' Mahābhāṣya vol. I. p. 111 on Pāṇini I. 1. 45.
-
-
+    बैजवापः । पिता नाम करोति एकाक्षरं द्वयक्षरं त्र्यक्षरं चतुरक्षरमपरिमितं वा कृतं कुर्यान्न तद्धितम् । अपरार्क p. 27. भवः, भद्रः, देवः, वार्दाः (वारि ददाति इति), गीर्दाः (गिरं ददाति) are examples of names of two syllables and देवदत्तः, विष्णुमित्रः, रुद्रदत्तः, भवनाथः, नागदेवः, सुदर्शनः, द्रविणोदाः of those of four syllables. In the Mahābhāṣya देवदत्त and यज्ञदत्त are the most frequent stock names whenever it predicates something about a person in general and it also says that such names are shortened as e. g. 'देवदत्तो दत्तः, सत्यभामा भामेति' महाभाष्य vol. I. p. 111 on पाणिनि I. 1. 45.
 
 (2) Almost all gṛhya sūtras contain the rule that the name should begin with a sonant and contain in the middle a semivowel. This is stated also in the ancient quotation from Yājñikas in the Mahābhāṣya.
 
 (3) Some sūtras prescribe that the name should end in a visarga preceded[^557] by a long vowel (e. g. Āp., Bhār., Hir., Pār.). Āśv. only mentions that it should end in a visarga, while Vaik. and Gobhila say that it may end in a long vowel or in a visarga.
 
 [^557]:
-    ...दीर्घस्वराभिनिष्ठानान्तं घोषवदाद्यन्तरन्तस्थम् । Āp. Gṛ. 15. 8-9.
-
-
+    पुत्रस्य नाम दधाति पिता मातेति । द्व्यक्षरं चतुरक्षरं वा नामपूर्वकमाख्याततोत्तरं दीर्घाभिनिष्ठानान्तं घोषवदाद्यन्तरन्तस्थम् । आप. गृ. 15. 8-9.
 
 These rules were probably based on such Vedic names as Sudās, Dīrghatamas, Pṛthuśravas (that occur in the Ṛgveda) and such names as Vatsaprī (Tai. S. V. 2. 1. 6).
 
@@ -802,9 +781,7 @@ These rules were probably based on such Vedic names as Sudās, Dīrghatamas, P�
 [[P245]] (7) Baudh. gṛ. prescribes that the name may be derived from a sage or a deity or an ancestor.[^558] The Mānava gṛhya, however, forbids the giving of a name of a deity itself, but allows the giving of a name derived from the name of a deity or a nakṣatra. Examples of names derived from sages would be Vāsiṣṭha, Nārada &c. and of names taken from deities would be Viṣṇu, Śiva &c. The Mit. on Yāj. I. 12 quotes a passage of Śaṅkha that the name should be connected with one's family deity. It should be noticed that in modern times most names in many parts of India are the names of deities or of heroes supposed to be avatāras of deities. In Vedic literature hardly any human being bears the name of any of the Vedic gods (Indra, Mitra, Pūṣan &c). There are only a few exceptions such as that of Bhṛgu (in Tai. Up. III. 1) who is said to have learnt from his father called Varuṇa and in the Praśna Up. (I. 1) there is Sauryāyaṇi Gārgya whose name is derived from Sūrya. But in the Vedic Literature persons have names derived from the names of gods, such as Indrota (Indra + ūta, protected), Indradyumna. The names that occur in the Mahābhāṣya such as Devadatta, Yajñadatta, Vāyudatta (vol. II. p. 296), Viṣṇumitra (vol. I. pp. 41 and 359), Bṛhaspatidattaka (or Bṛhaspatika), Prajāpatidattaka (or -patika), Bhānudattaka (or Bhānuka) and others set out in the Mahābhāṣya (vol. II. p. 425) exemplify the rule of the Mānava-gṛhya. It is difficult to say when the very names of deities began generally to be borne by human beings. Probably the practice began in the first centuries of the Christian era. From the fifth century onwards we have historic examples of such names, e. g. in the Eraṇ stone inscriptions of Budhagupta dated in the Gupta saṃvat 165 i. e. 484-5 A. D. (Gupta Inscriptions No. 19) there is a brāhmaṇa Indra-Viṣṇu, son of Varuṇa-Viṣṇu, son of Hari-Viṣṇu.
 
 [^558]:
-    ऋष्याश्रयं वा देवताश्रयं वा नाम पितामहाश्रयं वा । Baudh. Gṛ. II. 1. 28-29; यशस्वि नामधेयं देवताश्रयं नक्षत्राश्रयं देवतायाश्च प्रत्यक्षं प्रतिषिद्धम् । Mānava-gṛhya I. 18.
-
-
+    ऋष्यनूकं देवतानूकं वा। यथैवेषां पूर्वपुरुषाणां नामानि स्युः । बौ. गृ. सू. II. 1. 28-29; यशस्यं नामधेयं देवताश्रयं नक्षत्राश्रयं देवतायाश्च प्रत्यक्षं प्रतिषिद्धम् । मानवगृह्य I. 18.
 
 (8) Baudh., Pār., Gobhila (and the Yājñikas quoted by the Mahābhāṣya) prescribe that the name of the boy may be the same as that of any of the ancestors of the father. The Mānava gṛ. (I. 18) expressly says that the father's own name should not be given. This practice was observed in ancient times and continues even today, when the child is often given his grandfather's name.[^559] Vide I. A. vol. VI. p. 73 where we see that Pulakeśi II was grandson of Pulakeśi I.
 
@@ -816,19 +793,19 @@ These rules were probably based on such Vedic names as Sudās, Dīrghatamas, P�
 [[P246]] (9) The gṛhyasūtras (except Pār. and Mānava) are agreed that a secret name is to be given to the boy by the parents, in the Soṣyantikarma according to Gobhila and Khādira, at birth according to some (like Āśv. and Kāṭhaka) and according to others (like Āp., Baudh., Bhār.) at the time of Nāmakaraṇa on 10th or 12th day. We saw above that Śāṅ. and Kāṭhaka give elaborate rules about the secret name, which rules are those of the Vyāvahārika[^560] name according to Āśv. and many other sūtrakāras. Gobhila and Khādira give no rules about the secret name. Āp., Hir. and Vaik. only say that the secret name should be derived from the nakṣatra of birth, but give no further rules. Bhāradvāja[^561] speaks of the giving of two names in Nāmakaraṇa, one being derived by applying the intricate rules described above and the other being a nakṣatra name; but it is not quite clear which was to be the 'secret' name; it is probable, however, that the nakṣatra name was to be the secret one. According to Āśvalāyana the secret name was called Abhivādanīya (which was to be known to the parents only till the boy's upanayana and which was to be used by the boy for announcing himself in respectful salutations); but he does not say how it was to be derived. Gobhila, Khādira, Vārāha (5) and Mānava speak of an abhivādanīya name. Gobhila prescribes that this name was to be given to the boy at the time of upanayana by the ācārya and was to be derived from the nakṣatra of birth or from the presiding deity of that nakṣatra. Gobhila[^562] further adds that according to some teachers the abhivādanīya name was derived from [[P247]] the gotra of the boy (as e. g. Gārgya, Śāṇḍilya, Gautama &c.). This practice is based on the usage we find in the Upaniṣads, where Satyakāma when about to go to a teacher for Vedic study asks his mother what his gotra was (Chān. Up. IV. 4. 1) and where the teacher also asks him what his gotra was. In the Kaṭhopaniṣad Naciketas is styled Gautama and in Chān. V. 3. 7 Śvetaketu is addressed as Gautama by Pravāhaṇa Jaivali when the latter expounded Saṃvarga-vidyā to the former. But if the abhivādanīya was a gotra name there could have been no secrecy. From Gobhila it appears that the ācārya told the boy his abhivādanīya name, but the Khādira suggests that the boy already knew it (from his father or mother) and informed the teacher. The nakṣatranāma was of importance in the performance of Vedic sacrifices. The Vedāṅgajyotiṣa[^563] (of the Ṛg.) in verses 25-28 enumerates 28 nakṣatras (adding Abhijit after Uttarāṣāḍhā and before Śravaṇa) and their presiding deities and adds that in sacrifices the sacrificer is to bear a name derived from the name of the presiding deity of his nakṣatra. The object of keeping the nakṣatra name secret seems to have been to prevent rites of abhicāra (magical practices) against a [[P248]] person, for the effective employment of which it was necessary to know a person's name.[^564]
 
 [^560]:
-    According to the Kāṭhaka gṛhya (34. 1-3 and 36) only one name is given (on the day of birth) and the same is used in Nāmakaraṇa (36. 3), but it mentions that it was the view of some that another name was to be given in Nāmakaraṇa.
+    According to the Kāṭhaka gṛhya (34. 1-3 and 36) only one is given (on the day of birth) and the same is used in Nāmakaraṇa (36. 3), but it mentions that it was the view of some that another name was to be given in Nāmakaraṇa.
 
 [^561]:
-    द्वे नामनी कुर्याद् गुह्यं चैव प्रकाशकं च । Bhāradvāja gṛhya I. 26.
+    नक्षत्रनाम द्वितीयं स्यादन्यतरद्गुह्यं स्यादन्यतरेणैनामन्त्रयेरन् । भारद्वाजगृह्य I. 26.
 
 [^562]:
-    Gobhila and Khādira appear to suggest three names, one that was secret given in Soṣyantīkarman (Gobhila II. 7. 15-16), the 2nd in nāmakaraṇa (Gobhila II. 8. 8 and 14-16 derived by means of the intricate rules specified above) and a third in Upanayana called abhivādanīya (Gobhila II. 10. 21-25). According to them a name like Somayājin would be the fourth name. In Vaikhānasa I. 7 it is said that in the puṇyāhavācana the following names of the yajamāna should be taken one after another viz. pitṛnāma, śarmanāma, devatānāma, nakṣatranāma and guptanāma (ending in śarman if he is a brāhmaṇa). अथैनमुपनयति तस्याचार्यः । अभिवादनीयं नाम कल्पयित्वा देवताश्रयं नक्षत्राश्रयं वा । गोत्राश्रयमप्येके । Gobhila II. 10. 22-26; तस्याभिवादनीयं नाम तज्ज्ञातिभ्य एव विन्देरन्निति । Khādira II. 4. 12.
+    गोभिल and खादिर appear to suggest three names, one that was secret given in सोष्यन्तीकर्म (गोभिल II. 7. 15-16), the 2nd in nāmakaraṇa (गोभिल II. 8. 8 and 14-16 derived by means of the intricate rules specified above) and a third in Upanayana called अभिवादनीय (गोभिल II. 10. 21-25). According to them a name like सोमयाजी would be the fourth name. In वैखानस I. 7 it is said that in the पुण्याहवाचन the following names of the यजमान should be taken one after another viz. नक्षत्रनाम, गोत्रनाम, पितृनाम, मातृगोत्रनाम and स्वनाम (ending in शर्मन् if he is a ब्राह्मण). को नामासीति नामधेयं पृच्छति तस्याचार्यः । अभिवादनीयं नाम कल्पयित्वा देवताश्रयं नक्षत्राश्रयं वा । गोत्राश्रयमित्येके । गोभिलीयगृह्य II. 10. 22-25; को नामासीत्युक्तो देवताश्रयं नक्षत्राश्रयं वाभिवादनीयं नाम ब्रूयादसावस्मीति । खादिर II. 4. 12.
 
 [^563]:
-    नक्षत्रदेवता ह्येता एताभिर्यज्ञकर्मणि । यजमानस्य शास्त्रज्ञैर्नाम नक्षत्रजं स्मृतम् ॥ Vedāṅgajyotiṣa (Ṛk) verse 28. In the Vedic Literature and in the Vedāṅga Jyotiṣa the nakṣatras are enumerated from Kṛttikā to Apabharaṇī and not from Aśvinī to Revatī as in medieval and modern times. For the position of Abhijit, vide Tai. Br. I. 5. 2. The nakṣatras and their presiding deities may profitably be specified here. Some of the names differ from the modern ones. The oldest lists are in the Atharvaveda (19. 7. 2-5) and Tai. S. IV. 4. 10. 1-3, Tai. Br. I. 5. 1 and III. 1. 1. कृत्तिका-अग्निः, रोहिणी-प्रजापतिः, मृगशीर्षः or मृगशिरः (इन्वका in तै. सं.)-सोमः, आर्द्रा (बाहू in तै. सं)-रुद्रः, पुनर्वसू-अदितिः, तिष्यः (पुष्य in अथर्व)-बृहस्पतिः, आश्रेषा (आश्लेषा in अथर्व०)-सर्पाः, मघा-पितरः, फल्गुनी (पूर्वा)-अर्यमा, फल्गुनी (उत्तरा)-भगः, हस्तः-सविता, चित्रा (त्वष्टा), निष्ट्या (स्वाति in अथर्व०)-वायुः, विशाखे-इन्द्राग्नी, अनुराधा (or अनुराधाः)-मित्रः, ज्येष्ठा (रोहिणी in तै. सं.)-इन्द्रः, मूल (विचितौ in तै. सं.)-पितरः (निर्ऋति in brāhmaṇas and Śāṅkhāyana gṛhya and Prajāpati acc. to others), अषाढा (पूर्वा)-आपः, अषाढा (उत्तरा)-विश्वेदेवाः, श्रोणा (श्रवण in अथर्व)-विष्णुः, श्रविष्ठा (or धनिष्ठा)-वसवः, शतभिषक्-वरुणः (called इन्द्र in तै. सं.), प्रोष्ठपदा (पूर्वाभाद्रपदा)-अजएकपात्, प्रोष्ठपदा (उत्तराभाद्रपदा)-अहिर्बुध्न्यः, रेवती-पूषन्, अश्वयुक् (अश्विनी)-अश्विनौ, अपभरणी (भरणी in अथर्व०)-यमः. The deity of अभिजित् is ब्रह्मा. These are given also in Śāṅkhāyana gṛhya I. 20, Viṣṇudharmasūtra 78. 16-17, Vaikhānasasmārta (III. 20). Some give इन्द्र as the deity of चित्रा. In the Vedāṅgajyotiṣa (Ṛgvedīya), Viṣṇu Dh. S., Śāṅkh. Gṛ., Bhaga and Aryaman are the presiding deities of Pūrvā Phalgunī and Uttarā Phalgunī respectively.
+    नक्षत्रदेवता होता एताभिर्यज्ञकर्मणि । यजमानस्य शास्त्रज्ञैर्नाम नक्षत्रजं स्मृतम् ॥ वेदाङ्गज्योतिष (ऋ.) verse 28. In the Vedic Literature and in the Vedāṅga Jyotiṣa the nakṣatras are enumerated from Kṛttikā to Apabharaṇī and not from Aśvinī to Revatī as in medieval and modern times. For the position of Abhijit, vide Tai. Br. I. 5. 2. The nakṣatras and their presiding deities may profitably be specified here. Some of the names differ from the modern ones. The oldest lists are in the Atharvaveda (19. 7. 2-5) and Tai. S. IV. 4. 10. 1-3, Tai. Br. I. 5. 1 and III. 1. 1. कृत्तिका-अग्नि, रोहिणी-प्रजापति, मृगशीर्ष or मृगशिरः (इन्वका in तै. सं.)-सोम, आर्द्रा (बाहू in तै. सं)-रुद्र, पुनर्वसू-अदिति, तिष्य (पुष्य in अथर्व०)-बृहस्पति, आश्लेषा (आश्लेषा in अथर्व०)-सर्पाः, मघा-पितरः, फल्गुनी (पूर्वा)-अर्यमा, फल्गुनी (उत्तरा)-भग, हस्त-सवितृ, चित्रा (त्वष्टृ), निष्ठ्या (स्वाति in अथर्व०)-वायु, विशाखे-इन्द्राग्नी, अनूराधा (or अनुराधा)-मित्र, ज्येष्ठा (रोहिणी in तै. सं.)-इन्द्र, मूल (विचुतौ in तै. सं.)-पितरः (निरृति in Brāhmaṇas and शाङ्खायनगृह्य and प्रजापति acc. to others), अषाढा (पूर्वा)-आपः, अषाढा (उत्तरा)-विश्वेदेवाः, श्रोणा (श्रवण in अथर्व०)-विष्णु, श्रविष्ठा (or धनिष्ठा)-वसवः, शतभिषक्-वरुण (called इन्द्र in तै. सं.), प्रोष्ठपदा (पूर्वाभाद्रपदा)-अजएकपात्, प्रोष्ठपदा (उत्तराभाद्रपदा)-अहिर्बुध्न्य, रेवती-पूषन्, अश्वयुक् (अश्विनी)-अश्विनौ, अपभरणी (भरणी in अथर्व०)-यम. The deity of अभिजित् is ब्रह्मा. These are given also in शाङ्खायनगृह्य I. 20, विष्णुधर्मसूत्र 78. 16-17, वैखानसस्मार्त (III. 20). Some give इन्द्र as the deity of चित्रा. In the वेदाङ्गज्योतिष (ऋग्वेदीय), विष्णु ध. सू., शाङ्खा. गृ., भग and अर्यमा are the presiding deities of पूर्वा फल्गुनी and उत्तरा फल्गुनी respectively.
 
 [^564]:
-    The com. of Gobhila gṛhya (II. 2. 32) says 'तच्च गुह्यं नाम । परैर्विद्विष्टैरभिचारे क्रियमाणेऽनुपचारादप्रकटम्।' and Ādityadarśana on Kāṭhaka 36. 4 says '...परेरभिचारे क्रियमाणेऽनुचारादप्रकटम्'.
+    The com. of खादिरगृह्य says (II. 2. 32) 'वैदिककर्मार्थमेतत् । नामापरिज्ञाने अभिचाराद्यसिद्धिः फलम्' and देवपाल on काठकगृह्य 36. 4 says 'प्रयोजनं परैरभिचारे क्रियमाणेऽनुच्चारादप्रकटम्'.
 
 
 
@@ -841,28 +818,23 @@ Hundreds of names occur in the Vedic Literature, but there are hardly any names 
 There is another way of deriving names from nakṣatras set forth in medieval works on Dharmaśāstra and Jyotiṣa. Each of the 27 nakṣatras is divided into four pādas and to each pāda a specific letter is assigned (e. g., cū, ce, co and la for the pādas of Aśvinī) from which names are derived for persons born in those pādas (e. g. Cūḍāmaṇi, Cediśa, Coleśa and Lakṣmaṇa for the four pādas of Aśvinī).[^565] These names are secret and are even now muttered into the ear of the brahmacārī in Upanayana and are known as the name in the daily saṃdhyā prayer.
 
 [^565]:
-    Vide Saṃskāraratnamālā p. 859 and Saṃskārakaustubha pp. 239-240 where all the letters for the 27 nakṣatras are set out from a work called sūtra and on pp. 860-861 of the former the 112 names (for the 4 pādas of 28 nakṣatras) are exemplified. Even so late a work as the Dharmasindhu (composed in 1790 A. D.) disapproves of these names as not based on any Vedic authorities and other smṛtis 'अश्विन्यादेश्चतुर्ष्वचरणेषु चूडामणिश्चोदीशश्चोलेशो लक्ष्मण इत्यादिकानि नाक्षत्रनामानि कुर्वन्ति तच्च श्रौतस्मार्तबहुसंमतम्' । Dharmasindhu III pariccheda, pūrvārdha.
-
-
+    Vide संस्काररत्नमाला p. 859 and संस्कारप्रकाश pp. 239-240 where all the letters for the 27 नक्षत्रs are set out from a work called ज्योतिषार्क and on pp. 860-861 of the former the 112 names (for the 4 पादs of 28 नक्षत्रs) are exemplified. Even so late a work as the धर्मसिन्धु (composed in 1790 A. D.) disapproves of these names as not based on any Vedic authorities 'केचित्तु चूचेचोलाश्विनीप्रोक्तेत्यादिज्योतिर्ग्रन्थोक्तावकहडाचक्रानुसारेणाश्विन्यादेश्चतुर्षु चरणेषु चूडामणिश्चोदीशश्चोलेशो लक्ष्मण इत्यादिकानि नाक्षत्रनामानि कुर्वन्ति तन्न श्रौतग्रन्थादिबहुसंमतम्।' धर्मसिन्धु III परिच्छेद, पूर्वार्ध.
 
 Modern works like the [[Samskāraprakāsa|Saṃskāraprakāśa]] (p. 237) say that four kinds of names may be given viz. devatānāma, māsanāma, nakṣatranāma and vyāvahārikanāma. The first shows that the bearer is the devotee of that devatā. The Nirṇayasindhu[^566] quotes a verse about twelve names derived from the month in which a man was born and adds that the Madanaratna laid down that the names specified in the verse were to be given to the months from Mārgaśīrṣa or Caitra. Such names (of Viṣṇu) are being given now, particularly in Western India, but without regard to the month of birth. So early as in the Bṛhatsaṃhitā of [[P250]] Varāhamihira the twelve names of Viṣṇu are associated with the twelve months.[^567]
 
 [^566]:
-    कृष्णानन्तस्तथाच्युतश्चक्री वैकुण्ठ एव च । जनार्दन उपेन्द्रश्च यज्ञपुरुषस्तथैव च ॥ वासुदेवस्तथा हरिः । योगीशः पुण्डरीकाक्षो मासनामान्यनुक्रमात् ॥ अत्र मार्गशीर्षादिर्वा चैत्रादिर्वा क्रमो ज्ञेय इति मदनरत्ने । Nirṇayasindhu III pūrvārdha. The verse quoted occurs in the Śaunaka Kārikās (Ms. in Bombay University Library) as one of Garga. The Laghu-Āśvalāyana-smṛti (Anand. ed.) VI. 2 speaks of māsanāma as beginning from Mārgaśīrṣa.
+    स्मृतिसंग्रहे । कृष्णोऽनन्तोऽच्युतश्चक्री वैकुण्ठोऽथ जनार्दनः । उपेन्द्रो यज्ञपुरुषो वासुदेवस्तथा हरिः । योगीशः पुण्डरीकाक्षो मासनामान्यनुक्रमात् ॥ अत्र मार्गशीर्षादिर्वा चैत्रादिर्वा क्रम इति मदनरत्ने । निर्णयसिन्धु परिच्छेद III पूर्वार्ध. The verse quoted occurs in the Śaunaka Kārikās (Ms. in Bombay University Library) as one of Garga. The Laghu-Āśvalāyana-smṛti (Anand. ed.) VI. 2 speaks of मासनामs beginning from मार्गशीर्ष.
 
 [^567]:
-    The 12 names are Keśava, Nārāyaṇa, Mādhava, Govinda, Viṣṇu, Madhusūdana, Trivikrama, Vāmana, Śrīdhara, Hṛṣīkeśa, Padmanābha, Dāmodara.
-
-
-
+    The 12 names are केशव, नारायण, माधव, गोविन्द, विष्णु, मधुसूदन, त्रिविक्रम, वामन, श्रीधर, हृषीकेश, पद्मनाभ, दामोदर.
 
 As to the names of girls, some special rules were laid down. Many gṛhyasūtras say that the names of girls should contain an uneven number of syllables and the Mānava gṛ. (I. 18) expressly says that the names of girls should be of three syllables. Pār. and Vārāha-gṛhya further say that the names of girls should end in 'ā'. Gobhila and Mānava say they should end in 'dā' (as in Satyadā, Vasudā, Yaśodā, Narmadā). Śaṅkha-Likhita-dharmasūtra and Baijavāpa require that it should end in 'ī', while the Baudh.[^568] gṛ. [[sesa-sutra|śeṣa-sūtra]] says that it should end in a long vowel. The Vārāhagṛhya adds an intricate rule that the name of a girl should have an 'ā' vowel in it and should not be after a river, a nakṣatra or should not be the name of the sun or moon or Pūṣan and should not be one having the idea of 'given by god' as in Devadattā or having the word 'rakṣitā' (as in Buddharakṣitā).[^569] Manu II. 33 prescribes that the names of women should end in a long vowel, should be easy to pronounce, should not suggest any harsh acts, should be perspicuous, should be pleasing to the ear, auspicious and should convey some blessing and in III. 9 Manu and Āp. gṛ. III. 13 say that one should not marry a girl named after nakṣatras, trees, rivers. In modern times girls frequently bear the names of the great rivers of India (Sindhu, Jāhnavī, Yamunā, Tāpī, Narmadā, Godā, Kṛṣṇā, Kāverī &c.).
 
 [^568]:
-    Vide Aparārka p. 27 for quotations from Śaṅkha-Likhita and Baijavāpa. नामैवं कन्याया अकारण्यवधानमाकारान्तमयुग्माक्षरं नदीनक्षत्रचन्द्रसूर्यपूषादेवदत्तरक्षितावर्जम् । Vārāha gṛhya 2.
+    Vide अपरार्क p. 27 for quotations from शङ्खलिखित and बैजवाप. नामैवं कन्याया अकारण्यवधानमाकारान्तमयुग्माक्षरं नदीनक्षत्रचन्द्रसूर्यपूषादेवदत्तरक्षितावर्जम् । वाराहगृह्य 2.
 
 [^569]:
-    These directions of the Vārāha gṛ. were not observed in ancient times. The Mahābhāṣya (vol. II. p. 307) mentions women named Citrā, Revatī, Aśvinī, also a woman named Devadattā (vol. I. p. 184 and 499, vol. III. p. 156) and also Gaurī (or Gauḥ), Śaṅkarī (or Śaṅkarā) in vol. III. p. 325.
+    These directions of the Varāha gṛ. were not observed in ancient times. The Mahābhāṣya (vol. II. p. 307) mentions women named Citrā, Revatī, Aśvinī, also a woman named Devadattā (vol. I. p. 184) and यज्ञदत्ता (vol. III. p. 156) and also देवदत्तिका (or देवका), यज्ञदत्तिका (or यज्ञका) in vol. III. p. 325.
 
 
 
@@ -870,16 +842,16 @@ As to the names of girls, some special rules were laid down. Many gṛhyasūtras
 It is remarkable that Manu altogether omits the involved rules given by the gṛhya sūtras about naming a boy and prescribes (II. 31-32) two simple rules viz. that the names of all the members of the four varṇas should suggest respectively auspiciousness, vigour, wealth and lowness (or contempt) and that the names of brāhmaṇas and the other varṇas should have an addition (upapada) suggestive of śarman (happiness), rakṣā [[P251]] (protection), puṣṭi (prosperity) and preṣya (service or dependence on others). It is significant that none of the gṛhya sūtras except Pāraskara[^570] makes any reference to these additions (śarman and the like) to the names of brāhmaṇas and others. Therefore this was comparatively a later development, though such additions must have been in vogue at least two centuries before the Christian era. The Mahābhāṣya[^571] (vol. III. p. 416) cites Indravarman and Indrapālita as the names of a rājanya and a vaiśya. Yama quoted by Aparārka (p. 27) says[^572] that the names of brāhmaṇas should have the addition of śarma or deva, of kṣatriyas varma or trāta, of vaiśyas bhūti or datta, and of śūdras dāsa. Similar rules are given in the Purāṇas[^573]. These rules were sometime observed, but were often broken from very ancient times as inscriptions show. A striking example of the observance of these rules is contained in the Talgunda Inscription of Kākutsthavarman of the Kadamba family (E. I. vol. VIII. p. 24) where the founder who was a brāhmaṇa is styled Mayūraśarman, but his descendants who were kings had names ending in varman (which was appropriate to kṣatriyas). On the other hand we have frequent breaches of these rules. In the Gupta Inscriptions No. 35 (C. I. I. vol. III, p. 150, at p. 156 the Mandasor Ins. of Yaśodharman of Mālava year 589, 545-46 A. D.) the genealogy of the brāhmaṇa ministers is Ṣaṣṭhidatta, his son Varāhadāsa, his son Ravikīrti (so the upapadas 'datta' and 'dāsa' appropriate to vaiśyas and śūdras respectively were added to brāhmaṇa names). In the Neulpur plate of Śubhakara of Orissa (8th century A. D., E. I. vol. XV, p. 4) we have several bhaṭṭas whose names end in vardhana, datta and svāmin. In the Nidhanpura plate of Bhāskaravarman (E. I. vol. XIX p. 115) among the numerous donees (who must have been all brāhmaṇas) there are some who are named Śrāddhadāsa, Karkadatta and Merudatta. In the Inscriptions of the Śaka king Dāmijada [[P252]] of the year 60 (C. I. I. vol. II, p. 16) his father is called Valavadha (Balavardhana) and his son Mitravadhana (Mitravardhana).
 
 [^570]:
-    शर्म ब्राह्मणस्य वर्म क्षत्रियस्य गुप्तं वैश्यस्य । Pār. gṛ. I. 17. The Vaikhānasa-smārta I. 11. 10 says 'अथाप्युदाहरन्ति शर्मान्तं ब्राह्मणस्य, वर्मान्तं क्षत्रियस्य, गुप्तान्तं वैश्यस्य, भृत्यदासान्तं शूद्रस्य नामधेयानि।'.
+    नक्षत्रनामा नदीनामा वृक्षनामाश्च गर्हिताः । आप. गृ. III. 13; शर्म ब्राह्मणस्य वर्म क्षत्रियस्य गुप्तेति वैश्यस्य । पारस्कर I. 17. The बौधायनगृह्यशेषसूत्र I. 11. 10 says 'अथाप्युदाहरन्ति-शर्मान्तं ब्राह्मणस्य, वर्मान्तं क्षत्रियस्य, गुप्तान्तं वैश्यस्य, भृत्यदासान्तं शूद्रस्य दासान्तमेव वा ।'.
 
 [^571]:
-    This is on 'नित्यं संज्ञाच्छन्दसोः' vārtika on Pāṇini VIII. 2. 83.
+    This is on वार्तिक 2 ' भोराजन्यविशां वेति वाच्यम् ' on पाणिनि VIII. 2. 83.
 
 [^572]:
-    Yama says: शर्म देवश्च विप्रस्य वर्म त्राता च भूभुजः । भूतिर्दत्तश्च वैश्यस्य दासः शूद्रस्य कारयेत् ॥ Aparārka p. 27.
+    यमः । शर्मा देवश्च विप्रस्य वर्मा त्राता च भूभुजः । भूतिर्दत्तश्च वैश्यस्य दासः शूद्रस्य कारयेत् ॥ अपरार्क p. 27.
 
 [^573]:
-    e. g. Viṣṇupurāṇa III. 10. 9 शर्मा देवश्च विप्रस्य वर्म त्राता च भूभुजः । गुप्तदासात्मकं नाम प्रशस्तं वैश्यशूद्रयोः ॥ The Saṃskāratattva p. 919 quotes another verse of Viṣṇupurāṇa: नाम देवश्रियायुक्तं स्त्रीणां शस्तं विधीयते । This is Viṣṇupurāṇa III. 10. 8.
+    e. g. विष्णुपुराण III. 10. 9 शर्मेति ब्राह्मणस्योक्तं वर्मेति क्षत्रसंश्रयम् । गुप्तदासाह्वयं नाम प्रशस्तं वैश्यशूद्रयोः ॥; the संस्कारतत्त्व p. 919 quotes another verse of विष्णुपुराण 'ततश्च नाम कुर्वीत पितैव दशमेऽहनि । देवपूर्वं नराख्यं हि शर्मवर्मादिसंयुतम् ॥.' This is विष्णुपुराण III. 10. 8.
 
 
 
@@ -890,16 +862,16 @@ It is remarkable that Manu altogether omits the involved rules given by the gṛ
 A few words may be said about matronymics. A few examples of such names have been given above from Vedic Literature. Āśv. gṛ.[^574] (I. 5. 1) says that in selecting a bridegroom or bride "one should first examine the family, as has been already said 'those who on the mother's and father's side'". This refers to the Āśv. Śrauta-sūtra where it is required that both parents of the brāhmaṇa at the time of camasabhakṣaṇa in Daśapeya should be for ten generations perfect in their learning, austerities, and meritorious works and who can be traced to have throughout been of the brāhmaṇa class on both sides &c. Yāj. I. 54 enjoins that one should choose a girl from a great family of śrotriyas, which has been famous for ten generations (for learning and character). Therefore when in certain cases a person is named after his mother or after the gotra of his mother's father, all that is intended to be conveyed is that he is descended from worthy male and female ancestors. There is no question in such cases of matriarchy. In the Nāsik Inscription No. 2 (E. I. vol. VIII, p. 60) Siri Puḷumāyi is described as Vāsiṭhīputa and in E. I. vol. VIII, p. 88 the Ābhīra king Īśvarasena is described as Māḍharīputra.[^575] In a Scythian Inscription (E. I. vol. X at page 108) we have mention of 'the son of Bhārgavī'. In all these cases the mother's gotra name is specially emphasized probably to convey that the mothers were of the bluest blood. Comparatively late writers mention the gotra in which their mother was born (e. g. Bhavabhūti who flourished about 700-750 A. D. says that he was a Kāśyapa while his mother was a Jātūkarṇī). From a Kārikā in the Mahābhāṣya we learn that the great grammarian Pāṇini was the son of a Dākṣī. Pāṇini himself[^576] (IV. 1. 147) delivers a [[P253]] special rule about the formation of a name for a man from the gotra name of his mother to convey contempt (e. g. Gārgaḥ or Gārgikaḥ, a rogue, from his mother's name Gārgī).[^577] Śāṅkhāyana gṛhya (I. 25. 2-9, S. B. E. vol. 29, p. 52) prescribes that the father and mother (having bathed themselves and the child) should put on new clothes, that the father should cook a mess of food in the sūtikāgni, that he is to offer oblations to the tithi of the boy's birth and to three constellations with their presiding deities, that he is to place in the middle the oblation to the nakṣatra of birth and he should make two other oblations to fire with two mantras and then the 10th oblation is made to Soma with Ṛg. I. 91. 7. The father pronounces aloud the child's name and causes the brāhmaṇas to say auspicious words.
 
 [^574]:
-    ...कुलमग्रे परीक्षेत यथोक्तं पुरस्तान्मातृतः पितृतश्चेति । Āśv. Gṛ. I. 5. 1. The Āśv. Śr. S. IX. 3. 20 has 'मातृतः पितृतश्चोभयतो दशपुरुषं समनुष्ठितं विद्यातपोभ्यां पुण्यैश्च कर्मभिर्येषामुभयतो न सङ्कीर्येरन्ब्राह्मण्यात्'. The printed text reads 'ब्राह्मणाः' or 'ब्राह्मण्याद्' which practically conveys the same sense.
+    कुलमग्रे परीक्षेत ये मातृतः पितृतश्चेति यथोक्तं पुरस्तात् । आश्व. गृ. I. 5. 1. The आश्व. श्रौ. सू. IX. 3. 20 has 'ये मातृतः पितृतश्च दशपुरुषं समनुष्ठिता विद्यातपोभ्यां पुण्यैश्च कर्मभिर्येषामुभयतो वा ब्राह्मण्यं निनयेयुः पितृतश्चैके'. The printed text reads °नाब्राह्मण्यं which practically conveys the same sense.
 
 [^575]:
-    Vide E. I. vol. XX. p. 6. for other examples of Māḍharīputa and Vāsiṭhīputa.
+    Vide E. I. vol. XX. p. 6. for other examples of Mādharīputa and Vāsiṭhīputa.
 
 [^576]:
-    दाक्षीपुत्रस्य पाणिनेः । Mahābhāṣya vol. I, p. 75 on Pāṇini (I. 1. 20). Pāṇini was also called Śālāturīya (from his place Śalātura). Vide Bhāmaha's Kāvyālaṅkāra VI. 62 and Nogawa plate of Dhruvasena II (E. I. vol. VIII at p. 182, dated Gupta era 320 i. e. 649-50 A.D.). Pāṇini (IV. 3. 94) derives the word Śālāturīya.
+    सर्वे सर्वपदादेशा दाक्षीपुत्रस्य पाणिनेः । महाभाष्य vol. I. p. 75 on पाणिनि (I. 1. 20). पाणिनि was also called शालातुरीय (from his place शालातुर). Vide भामह's काव्यालंकार VI. 62 and Nogawa plate of ध्रुवसेन II (E. I. vol. VIII at p. 192, dated Gupta era 320 i. e. 649-50 AD ). Pāṇini (IV. 3. 94) derives the word शालातुरीय.
 
 [^577]:
-    The Mahābhāṣya gives several Vārtikas on Pāṇini IV. 1. 147 and the Kāśikā remarks that 'गोत्रस्त्रियाः कुत्सने जाते च' means 'जातः पुत्रः' (whose father was unknown).
+    The महाभाष्य gives several Vārtikas on Pāṇini IV. 1. 147 and the Kāśikā remarks 'पितुरसंविज्ञाने मात्रा व्यपदेशोऽपत्यस्य कुत्सा' and गार्गः would mean गार्ग्याः पुत्रः (whose father was unknown).
 
 
 
@@ -910,49 +882,40 @@ A few words may be said about matronymics. A few examples of such names have bee
 The Āśv. gṛ. does not describe Nāmakaraṇa. Many of the other gṛhyasūtras prescribe that the sūtikāgni is to be removed and the homa for nāmakaraṇa is to be performed in the Aupāsana (gṛhya) fire. The Bhāradvāja gṛ.[^578] prescribes the repetition of the Jayā, Abhyātāna and Rāṣṭrabhṛt mantras and the offering of eight oblations of ghṛta with the eight mantras 'may Dhātṛ bestow on us wealth' (Āp. M. P. II. 11. 1ff). The Hir. gṛ. (II. 4. 6-14, S. B. E. vol. 30, pp. 214-215) contains similar rules. It prescribes twelve oblations with the mantras 'may Dhātṛ bestow on us wealth' and gives two names (a secret nakṣatra name and an ordinary name) to the boy. The twelve oblations are as follows: four to Dhātṛ, four to Anumati, two to Rākā, two to Sinīvālī. According to some a thirteenth oblation to Kuhū was to be offered. [[P254]]
 
 [^578]:
-    e. g. Bhāradvāja gṛ. I. 26 'अथोपासने सूतिकाग्निमतिहरन्ति । अन्तरागारेऽग्निमुपसमाधाय जयाभ्यातानान् राष्ट्रभृत इति हुत्वा अष्टाभिरष्टावाहुतीर्जुहोति'. The Jayas are certain mantras (13 in all) which are Tai. S. III. 4. 4. 1 (vide Āp. Śr. S. I. 10. 9 'चित्तं च स्वाहा... स्वाहा'); Abhyātānas are 18 viz. 'अग्निरेतु प्रथमः...' in Tai. S. III. 4. 6. 1; the Rāṣṭrabhṛts are 22 ('ऋताषाड् ऋतधामा') in Tai. S. III. 4. 7. 1. Other sūtras specify other mantras from their respective Śākhās.
-
-
+    e. g. भारद्वाज गृ. I. 26 'दशम्यां स्नातौ मातापुत्रौ शुच्यगारं कुर्वन्त्युपानिहरन्त्यौपासनं सूतिकाग्निमतिहरन्ति । अन्तरागारेऽग्निमुपसमाधाय जयाभ्यातानान् राष्ट्रभृत इति हुत्वैता आहुतीर्जुहोति धाता ददातु नो रयिमित्यष्टौ । The Jayas are certain mantras (13 in all) which are Tai. S. III. 4. 1 (vide आप. म. पाठ I. 10. 9 'चित्तं च चित्तिश्च ... स्वाहा' ), अभ्यातानs are 18 viz. 'अग्निर्भूतानामधिपतिः स मावत्वस्मिन्' in तै. सं. III. 4. 5. 1; the Rāṣṭrabhṛts are 22 (ऋताषाडृतधामा) in तै. सं III. 4. 7. 1. Other sūtras specify other mantras from their respective śākhās.
 
 The later works state many details which it is unnecessary to set out. The mother with her child on her lap sits to the right of the father. Some late writers prescribe that the father is to give a secret name to the boy and should spread husked grains of rice in a vessel of bronze, write thereon with a golden pen the words 'salutations to Śrī Gaṇapati' and then write four names of the boy, viz. kuladevatā-nāma (such as Yogeśvarī-bhakta), then māsanāma (vide note 566 above), a vyāvahārikanāma, and a nakṣatranāma.[^579]
 
 [^579]:
-    The saṅkalpa in Saṃskāraratnamālā is 'ममामुकपुत्रस्य आयुर्वर्चोऽभिवृद्धिव्यवहारसिद्धिद्वारा श्रीपरमेश्वरप्रीत्यर्थं नामकरणाख्यं कर्म करिष्ये ।' Saṃskāraratnamālā p. 861.
-
-
+    The संकल्प in नामकरण is 'ममास्य कुमारस्य बीजगर्भसमुद्भवैनोनिबर्हणायुर्वर्चोऽभिवृद्धिव्यवहारसिद्धिद्वारा श्रीपरमेश्वरप्रीत्यर्थं नामकरणाख्यं कर्म करिष्ये ' संस्काररत्नमाला p. 861.
 
 Some sūtra works add a detail immediately after Nāmakaraṇa. For example, Āśv. gṛ. (I. 15. 11) says 'when a father returns from a journey he holds in his hands his son's head, mutters the verse 'aṅgād aṅgād &c.' and thrice smells (kisses) his son on the head. Āp. gṛ. 15. 12[^580] prescribes that on returning from a journey the father should address his son (abhimantraṇa) with the verse 'aṅgād,' should smell the child on the head with the verse 'be thou an axe' and should mutter in his right ear five mantras. These rules have a very ancient origin. The Kauṣītaki Br. Up. II. 11 says that on returning from a journey the father touches the head of a son with the verse 'aṅgād-aṅgād &c.' and takes the name of the boy and also repeats the verse 'aśmā bhava' &c. In the case of the girl there is no smelling of the head nor muttering in the ear, but only address (with a prose formula). This no doubt indicates that greater value was attached to a son than to a daughter, but it also shows that the daughter was not altogether neglected.
 
 [^580]:
-    For aśmā bhava and for aṅgād aṅgād vide note 537 above. In Vaikh. M. S. (II. 14. 3) the reading is 'aśmā bhavatu'. The formula for a daughter is 'priyāṇāṃ tvā priyatamaṃ karomi mama priye' (Āp. M. S. II. 14. 10).
-
-
+    For अङ्गादङ्गात्संभवसि and for अश्मा भव vide note 537 above. In आप. म. पा. (II. 14. 3 ) the reading is वेदो वै पुत्रनामासि. The formula for a daughter is सर्वस्मादात्मनः संभूतासि सा जीव शरदः शतम् ( आप. म. पा. II. 14. 10).
 
 Karṇavedha—(piercing the lobes of the ears of the child). In modern times this is generally done on the 12th day after birth. In the Baudh. gṛ. śeṣa-sūtra (I. 12) karṇavedha is prescribed in the 7th or 8th month, while Bṛhaspati quoted in Saṃskāraprakāśa (p. 258) says that it may be performed on the 10th, 12th or 16th[^581] day from birth or in the 7th or 10th month from birth. The Sm. C. has a brief note on karṇavedha. The gṛhya-pariśiṣṭa says that the father sits facing the east in the first half of the day and first addresses the right ear of the boy with the mantra 'Oh gods, may we hear bliss with our ears' (Ṛg. I. 89. 8) and then also the left ear. If the boy cries honey is to be [[P255]] given to him; after the rite brāhmaṇas are to be fed. In modern times, generally a goldsmith is called who pierces the lower lobes of the ears with a pointed golden wire and turns it into a ring round the lobes. In the case of girls the left ear is pierced first. That ears of boys were pierced even in ancient times is suggested by a mantra quoted in the Nirukta.[^582] 'He (the teacher) who pierces the ear with truth, without causing pain and yet bestowing ambrosia, should be regarded as one's father and mother'.
 
 [^581]:
-    The Saṃskāraratnamālā (p. 873) quotes from Vyāsa the verse 'दशमे द्वादशे वाहि तथा षोडशकेऽहनि । षष्ठे मास्यष्टमे वा स्यात् पुंसः कर्णविधीयनम् ॥'. Vide Gautama I. 379 for this.
+    The संस्काररत्नमाला (p. 873) quotes from मदनरत्न the verse 'प्रथमे सप्तमे वापि अष्टमे दशमेऽथ वा । द्वादशे वा प्रकुर्वीत कर्णवेधं शुभावहम् ॥.' Vide संस्कारकौस्तुभ p. 379 for कर्णवेध.
 
 [^582]:
-    Nirukta II. 4. यस्तित्याज सचिविदं सखायं न तस्य वाज्यपि भागो अस्ति । यदीं शृणोत्यलकं शृणोति न हि प्रवेद सुकृतस्य पन्थाम् ॥ This verse also occurs in Vas. II. 10 and Viṣṇu Dh. S. 30. 47; vide Mahābhārata Udyoga 108. 22-23 where there is a very similar verse (Tadviditvā naro jñānam) and Anuśāsana II. 144.
-
-
-
+    निरुक्त II. 4 य आतृणत्त्यवितथेन कर्णावदुःखं कृण्वन्नमृतं संप्रयच्छन् । तं मन्येत पितरं मातरं च तस्मै न द्रुह्येत्कतमच्चनाह ॥. This verse also occurs in Vas. II. 10 and Viṣṇu Dh. S. 30. 47; vide शान्तिपर्व 108. 22-23 where there is a very similar verse ( यश्चावृणोत्यवितथेन ) and मनु II. 144.
 
 ## Karṇavedha
 Niṣkramaṇa—(Taking the child out of the house into the open). This is a minor rite. Pār. gṛ. I. 17 gives the briefest description. Vide also Gobhila II. 8. 1-7 (S. B. E. vol. 30, pp. 56-57), Khādira II. 3. 1-5 (S. B. E. vol. 29, p. 396), Baudh. gṛ. II. 2, Mānava gṛ. I. 19. 1-6, Kāṭhaka gṛ. 37-38.[^583] This was done according to most authorities in the 4th month after birth. Aparārka (p. 28) quotes a purāṇa that the going out of the house may be done on the 12th day or in the 4th month. According to Pār. gṛ. the father makes the child[^584] look at the sun pronouncing the verse 'that eye' (Vāj. S. 36. 24). The Mānava-gṛhya prescribes that the father cooks a mess of food in milk and offers oblations thereof to the sun with the verses 'the brilliant sun has risen in the east' (Mait. S. IV. 14. 4), 'he is the haṃsa sitting in pure worlds' (Ṛg. IV. 40. 5 = Mait. S. II. 6. 12 = Tai. S. I. 8. 15. 2), 'whenever him' (Ṛg. X. 88. 11) and then he worships the sun with the verse 'that Jātavedas' (Ṛg. I. 50. 1, it occurs in all Saṃhitās) and then he should present the child turning its face towards the sun with the verse 'salutation to thee, Oh divine (sun) who hast hundreds of rays and who dispellest darkness, remove the misfortune of my lot and endow me with blessings'; then brāhmaṇas are to be fed and the fee is to be a bull. Baudh. [[P256]] gṛ. (II. 2) prescribes a homa with eight oblations. Gobhila speaks of candradarśana. It says that on the 3rd tithi of the third bright fortnight after birth, the father bathes the child in the morning, worships in the evening the moon with folded hands, then the mother, having dressed the child, hands it with its face to the north from the south to north to the father and herself passes behind the back of the father and stands to the north of him, who worships with the three verses[^585] 'Oh thou whose hair is well parted, thy heart' (Mantra-brāhmaṇa I. 5. 10-12), then the father hands back the son to the mother with the words 'that this son may not come to harm and be torn from his mother'. Then in the following bright fortnights, the father filling his joined hands with water and turning his face towards the moon, lets the water flow out of his joined hands once with the Yajus 'what is the moon' (Mantra-brāhmaṇa I. 5. 13) and twice silently. The Khādira-gṛhya has practically the same rules, except that it does not speak of two times. It will be noted that both omit the sight of the sun, but only mention the seeing of the moon. Laghu-Āśvalāyana VII. 1-3 speaks of the performance of abhyudayika śrāddha, then reciting the sūkta from 'svasti no mimitām' (Ṛg. V. 51. 11) and 'āśu śiśānaḥ' (Ṛg. X. 103. 1), showing the boy to the sun in the courtyard of one's father-in-law or in that of another and then repeating the verse 'that eye' (Vāj. S. 36. 24). The Sm. C. remarks that those in whose śākhā this rite is not mentioned need not perform it. The [[Samskāraprakāśa|Saṃskāraprakāśa]] pp. 250-256 and [[Sarakararatnamālā|Saṃskāraratnamālā]] pp. 886-888 give an extensive description and make of this saṃskāra a matter of great pomp, festivity and rejoicing. Yama[^586] quoted in Saṃ. Pra. says that seeing the sun and seeing the moon should be done respectively in the 3rd and 4th months from birth.
 
 [^583]:
-    These two chapters of the Kāṭhaka-gṛhya seem to be later additions. The com. Ādityadarśana remarks 'उपाख्यानं पुराणवत्' । Śiṣṭas however prescribe '...तृतीयो मासि कर्तव्यं शिशोः सूर्यस्य दर्शनं । चतुर्थे मासि कर्तव्यं तथा चन्द्रस्य दर्शनम्' ॥
+    These two chapters of the काठकगृह्य seem to be later additions. The com. ब्राह्मणबल remarks ' निष्क्रमणान्नप्राशनविधिमाचार्यो नाह । श्रोत्रियास्तु पारंपर्येण पठन्ति । तृतीये मासि कर्तव्यं शिशोः सूर्यस्य दर्शनं । चतुर्थे मासि कर्तव्यं तथा चन्द्रस्य दर्शनम् ।'.
 
 [^584]:
-    पिता पुत्रमादायोपतिष्ठते तच्चक्षुरिति । Pār. Gṛ. I. 17. The verse is तच्चक्षुर्देवहितं पुरस्ताच्छुक्रमुच्चरत् । पश्येम शरदः शतं जीवेम शरदः शतं शृणुयाम शरदः शतं प्र ब्रवाम शरदः शतमदीनाः स्याम शरदः शतं भूयश्च शरदः शतात् । Vide Tai. Ār. 4. 42 for this benediction.
+    चतुर्थे मासि निष्क्रमणिका सूर्यमुदीक्षयति तच्चक्षुरिति । पारस्कर I. 17. The verse is तच्चक्षुर्देवहितं पुरस्ताच्छुक्रमुच्चरत् । पश्येम शरदः शतं जीवेम शरदः शतं शृणुयाम शरदः शतं प्रब्रवाम शरदः शतमदीनाः स्याम शरदः शतं भूयश्च शरदः शतात् । Vide Tai. Ār. 4. 42 for this benediction.
 
 [^585]:
-    The verse 'yatte suśīme' occurs in Vaikh. M. S. II. 13. 4.
+    The verse यत्ते सुशीमे हृदयं occurs in आप. म. पा. II. 13. 4.
 
 [^586]:
-    Yama says: 'ततस्तृतीये कर्तव्ये मासि सूर्यस्य दर्शनम् । चतुर्थे मासि कर्तव्यं शिशोश्चन्द्रस्य दर्शनम्' ॥ Saṃ. Pra. p. 250.
+    यमः । ततस्तृतीये कर्तव्यं मासि सूर्यस्य दर्शनम् । चतुर्थे मासि कर्तव्यं शिशोश्चन्द्रस्य दर्शनम् ॥ संस्कारप्रकाश p. 250.
 
 
 
@@ -963,68 +926,53 @@ Niṣkramaṇa—(Taking the child out of the house into the open). This is a mi
 Annaprāśana—(making the child eat cooked food for the first time). Vide Āśv. gṛ. I. 16. 1-6 (S. B. E. vol. 29 p. 183), Śāṅ. gṛ. I. 27 (S. B. E. vol. 29, p. 54), Āp. gṛ. 16. 1-2 (S. B. E. vol. 30, p. 283), Pār. gṛ. I. 19 (S. B. E. vol. 29, pp. 299-300), Hir. gṛ. II. 5. 1-3 (S. B. E. vol. 30, p. 216), Kāṭhaka gṛ. 39. 1-2, Bhār. gṛ. I. 27, Mānava gṛ. I. 20. 1-6, Vaik. III. 22. The Gobhila and Khādira gṛ. omit this saṃskāra. Most smṛtis prescribe the 6th [[P257]] month from birth as the time for this saṃskāra; but Mānava gṛ. says it may be the 5th or 6th; while Śaṅkha quoted by Aparārka says it should be performed at the end of a year or at the end of six months, according to some.[^587] The Kāṭhaka gṛ. enjoins the sixth month from birth or the time when the child first strikes teeth. The procedure is very brief in all except Śāṅ. and Pār. Śāṅ. says that the father should prepare food of goat's flesh, or flesh of partridge, or of fish or boiled rice, if he is desirous of nourishment, holy lustre, swiftness or splendour respectively and mix one of them with curds, honey and ghee and should give it to the child to eat with the reciting of the Mahāvyāhṛtis (bhūḥ, bhuvaḥ, svaḥ). Then the father is to offer oblations to fire with four verses 'Annapate',[^588] Ṛg. IV. 12. 4-5 and 'him, Oh Agni, lead to long life and splendour &c'. The father recites over the child the verse Ṛg. IX. 66. 19 and then sets down the child on northward pointed kuśa grass with Ṛg. I. 22. 15. The mother is to eat the remnant of the food thus prepared. Āśv. has almost the same rules as to food (omitting fish) but prescribes only one verse 'Annapate'. Āp. gṛ.[^589] prescribes feeding of brāhmaṇas, making them give benedictions to the child and then making the child eat only once a mess of curds, honey, ghee and boiled rice mixed together, with the recitation of a mantra joined to the three vyāhṛtis singly and collectively and says that according to some the flesh of partridge may also be added. Bhār. says that the method of making a child eat is the same as in Medhājanana and is silent about the food. Pār. gṛ. (I. 19) prescribes the cooking of sthālīpāka and offering the two ājyabhāgas and then two offerings of ghee with the mantras 'the gods generated[^590] the goddess of speech &c.' (Ṛg. VIII. 100. 11) and the verse 'may vigour to-day produce for us gifts &c' (Vāj. S. 18. 33). Mānava, Kāṭhaka and Vaik. are entirely silent about flesh. Kāṭhaka [[P258]] prescribes the cooking of all haviṣya food[^591] and the other two works prescribe food cooked in milk.
 
 [^587]:
-    षष्ठे मास्यन्नप्राशनं संवत्सरे वा । Quoted by Aparārka p. 28.
+    संवत्सरेऽन्नप्राशनमर्धसंवत्सर इत्येके । शङ्ख q. by अपरार्क p. 28.
 
 [^588]:
-    अन्नपतेऽन्नस्य नो देह्यनमीवस्य शुष्मिणः । प्र प्रदातारं तारिष ऊर्जं नो धेहि द्विपदे चतुष्पदे ॥ Tai. S. IV. 2. 3. 1.
+    अन्नपतेऽन्नस्य नो देह्यनमीवस्य शुष्मिणः । प्र प्रदातारं तारिष ऊर्जं नो धेहि द्विपदे चतुष्पदे ॥ तै. सं. IV. 2. 3. 1.
 
 [^589]:
-    भूरपां त्वौषधीनां रसं प्राशयामि । शिवास्त आप ओषधयः सन्त्वनमीवास्त आप ओषधयो भवन्तु ... इति प्राशयति । Āp. M. S. II. 14. 11-14. After 'prāśayāmi' the child's name in the vocative is to be uttered.
+    भूरपां त्वौषधीनां रसं प्राशयामि । शिवास्त आप ओषधयः सन्वन्मीवास्त आप ओषधयः सन्वसौ ॥ भुवोऽपां त्वौ० । सुवरपां त्वौ० । भूर्भुवः सुवरपां० । आप. म. पा. II. 14. 11-14. After असौ the child's name in the vocative is to be uttered.
 
 [^590]:
-    देवीं वाचं जनयन्त देवास्तां विश्वरूपाः पशवो वदन्ति । सा नो मन्द्रेषमूर्जं दुहाना धेनुर्वागस्मानुप सुष्टुतैतु ॥ Ṛg. VIII. 100. 11.
+    देवीं वाचमजनयन्त देवास्तां विश्वरूपाः पशवो वदन्ति । सा नो मन्द्रेषमूर्जं दुहाना धेनुर्वागस्मानुपसुष्टुतैतु ॥ ऋ. VIII. 100. 11.
 
 [^591]:
-    S. P. p. 400 quotes a verse 'हविष्यं चरुपुरोडाशयोर्द्रव्यम्' and quotes Saṃgraha 'हविष्यं यवगोधूमव्रीहयस्तिलमुद्गाश्च ... तदलाभे नीवारास्तदलाभे माषकोद्रवचणकसर्षपमसूरचीनकपित्थवर्जमन्यदपि अरण्यजम्'.
-
-
-
-
-
-
+    कृत्य रत्नाकर p. 400 quotes a verse 'हविष्येषु यवा मुख्यास्तदनु व्रीहयो मताः । माषकोद्रवगौरादीन् सर्वाभावे विवर्जयेत् ॥' and quotes समयप्रदीप ' प्रथमं यवास्तदलाभे व्रीहयस्तदलाभे माषकोद्रवचणकसर्षपमसूरचीनकपित्थवर्जमन्यदपि अन्नम् '.
 
 It will be seen from the above that the principal part of the saṃskāra is making the child taste food. Some writers add homa, feeding of brāhmaṇas, and benedictions. The Saṃskāraprakāśa (pp. 267-279) and Saṃskāraratnamālā (pp. 891-895) have very detailed notes on this saṃskāra. One interesting matter quoted by Aparārka (p. 28) from Mārkaṇḍeya is that on the day of this ceremony, in front of the gods worshipped in the house, tools and utensils required in various arts and crafts, weapons and śāstras should be spread about and the child should be allowed to crawl among them and what the child seizes at first should be noted and it should be deemed that he is destined to follow that profession for his livelihood which is represented by the thing first touched by him.
 
 Varṣavardhana or abdapūrti—In some of the sūtras provision is made for some ceremonies every month on the day of the birth of the child for one year and on every anniversary of the day of birth throughout life. For example, Gobhila gṛ. (II. 8. 19-20) says 'every month of the boy's birth for one year or on the parva days of the year he should sacrifice to Agni and Indra, to Heaven and Earth and to the Viśve devas. Having sacrificed to these deities he should sacrifice to the tithi and nakṣatra'.[^592] The Śāṅ. gṛ. (I. 25. 10-11, S. B. E. vol. 29, p. 52) similarly says 'having sacrificed in the same way every month on the tithi of the child's birth, he sacrifices when one year has expired in the (ordinary) domestic fire'. Baudh. gṛ. III. 7[^593] prescribes an offering of cooked rice for life (āyuṣyacaru) 'every year, every six months, every four months, every season or every month on the nakṣatra of birth'. Kāṭhaka gṛ. (36. 12 and 14) prescribes a homa every month after nāmakaraṇa for a year in the same way as in nāmakaraṇa or jātakarma and at the end of the year an offering of the [[P259]] flesh of a goat and sheep to Agni and Dhanvantari and feeding the brāhmaṇas with food mixed with plenty of ghee. Vaik. III. 20-21 speaks at great length of the ceremony called 'Varṣavardhana' (increase of the years of a person) to be performed on the anniversary of the birth-day every year and lays down that in this rite the deity of the nakṣatra on which a child is born is the principal one, that oblations of ghee are to be offered to that deity and nakṣatra and then to the other presiding deities of the nakṣatras and to the nakṣatras themselves, then an oblation with the vyāhṛti (bhūḥ svāhā), then offerings to Dhātṛ. It describes in detail how different ceremonies are to be performed up to Upanayana, then up to finishing of Veda study, how ceremonies are to be performed on the anniversary day of one's marriage, on the nakṣatra on which a person performed solemn sacrifices like Agniṣṭoma and that if he thus lives till 80 years and 8 months he becomes one who has seen a thousand (full) moons and is called 'brahmasarīra', in celebration of which several ceremonies are prescribed (which for want of space are not set out here). In connection with the anniversary of the marriage day,[^594] Vaik. specially prescribes that whatever ceremonies women direct as done traditionally should be performed. Aparārka (p. 29) quotes verses of Mārkaṇḍeya to the effect that all should every year on the day of birth celebrate a festival (mahotsava) in which one should honour and worship one's elders, Agni, gods, Prajāpati, the pitṛs, one's nakṣatra of birth and brāhmaṇas. The Kṛtyaratnākara (p. 540), the Nityācārapaddhati (pp. 621-624) quote the same verses (as Aparārka does) and add that on that day one should worship Mārkaṇḍeya (who is believed to be immortal) and the seven other cirajīvins.[^595] The Nityācārapaddhati (p. 621) quotes a verse that in the case of kings the anniversary of the day on which they were crowned should be celebrated. The Nirṇayasindhu, the Saṃskāraprakāśa (which in pp. 281-294 gives the most elaborate treatment) call [[P260]] this festival 'abdapūrti'. The [[Samakāraratananālā|Saṃskāraratnamālā]] contains a very extensive discourse on this rite (pp. 877-886) and calls this festival 'āyurvardhāpana'. The Nirṇayasindhu and the Saṃskāraratnamālā set out the verses that are addressed to Mārkaṇḍeya and others. In modern times women do celebrate every month the birthday of a child and the first anniversary of birth. They make the child cling to the principal house-post or to the post used for churning out butter from the pail of curds and water.
 
 [^592]:
-    जन्ममासे जन्ममासे संवत्सरं यावत् पर्वणि पर्वणि वाऽग्नीन्द्रयोर्द्यावापृथिव्योर्विश्वेषां च देवानाम् । देवताश्चैता यजेत तिथिं च नक्षत्रं च । Gobhila II. 8. 19-20. The 'parvas' are the amāvāsyās of Āṣāḍha, Kārtika and Phālguna.
+    कुमारस्य मासि मासि संवत्सरे सांवत्सरिकेषु वा पर्वसु अग्नीन्द्रौ द्यावापृथिव्यौ विश्वान्देवांश्च यजेत । दैवतमिष्ट्वा तिथिं नक्षत्रं च यजेत । गोभिलगृह्य II. 8. 19-20. The सांवत्सरिकपर्वs are the amāvāsyās of आषाढ, कार्तिक and फाल्गुन.
 
 [^593]:
-    संवत्सरे संवत्सरे षण्मासे षण्मासे चतुर्षु चतुर्षु मासेषु ऋतौ ऋतौ मासि मासि वा जन्मनक्षत्रे आयुष्यं चरुं श्रपयेत् । Baudh. Gṛ. III. 7. 1-2.
+    आहुतानुहुतिरायुष्यचरुः । संवत्सरे षट्सु षट्सु मासेषु चतुर्षु चतुर्षु ऋतावृतौ मासि मासि वा कुमारस्य जन्मनक्षत्रे क्रियेत । बौ. गृ. III: 7. 1-2.
 
 [^594]:
-    यदह्नि विवाहो भवति तस्मिन् मासि वा वार्षिके चाह्नि तस्मिन् यत् स्त्रिय आहुः पारंपर्यागतं तत्तत्कुर्यात् । Vaikh. III. 21. Āp. gṛ. S. II. 1. 17 also speaks of the anniversary of the day of marriage 'यच्चानयोः प्रियं स्यात्तदेतस्मिन्नहनि कुर्वीत'।
+    यदह्नि विवाहो भवति मासिके वार्षिके चाह्नि तस्मिन् यत्स्त्रिय आहुः पारंपर्यागतं शिष्टाचारं तत्तत्करोति । वैखानस III. 21. आप. ध. सू. II. 1. 1. 7 also speaks of the anniversary of the day of marriage 'यच्चैनयोः प्रियं स्यात्तदेतस्मिन्नहनि भुञ्जीयाताम् '.
 
 [^595]:
-    The Nityācārapaddhati has these verses 'अश्वत्थामा बलिर्व्यासो हनूमांश्च विभीषणः । कृपः परशुरामश्च सप्तैते चिरजीविनः । सप्तैतान् संस्मरेन्नित्यं मार्कण्डेयमथाष्टमम् । जीवेद्वर्षशतं सोऽपि सर्वव्याधिविवर्जितः ॥'. The Nirṇayasindhu quotes some verses from the Skandapurāṇa about Mārkaṇḍeya.
-
-
-
-
-
+    The नित्याचारपद्धति has these verses 'अश्वत्थामा बलिर्व्यासो हनूमांश्च बिभीषणः । कृपः परशुरामश्च सप्तैते चिरजीविनः । सप्तैतान्यः स्मरेन्नित्यं मार्कण्डेयमथाष्टमम् । जीवेद्वर्षशतं साग्रं सर्वव्याधिविवर्जितः ॥'. The निर्णयसिन्धु quotes some verses from the कृत्यचिन्तामणि about मार्कण्डेय.
 
 ## Caula
 Caula or Cūḍākarma or Cūḍākaraṇa—(the first cutting of the hair on the child's head). This saṃskāra is mentioned by every writer. 'Cūḍā' means the 'lock or tuft of hair kept on the head when the remaining part is shaved (i. e. the śikhā); so cūḍākarma or cūḍākaraṇa means that rite in which a lock of hair is kept (for the first time after birth). We get 'caula' from 'cūḍā'[^596] meaning 'a rite the purpose of which is keeping a lock of hair' and 'ḍa' and 'la' often interchange places. So we get 'caula' or 'caula' also as the name of the ceremony.
 
 [^596]:
-    स च चूडाकरणशब्दः कर्मनामधेयम् । यौगिकन्यायेनोद्भिदादिशब्दवत् । योगश्च, चूडायाः करणं, चूडार्थं करणं, चूडा क्रियते यस्मिन्कर्मणीति वा त्रिधैव संभवति । Saṃskāraprakāśa p. 295. The Kāśikā (vol. II. p. 362 on Pāṇini V. 1. 97) explains it as चूडा प्रयोजनमस्य चौडम् and we know from works on poetics that 'बवयोरभेदात् डलयोरपि तथा' (there is no distinction between 'ba' and 'va' or 'da' and 'la' in yamaka, paronomesis and citrakāvya).
-
-
+    स च चूडाकरणशब्दः कर्मनामधेयम् । यौगिकन्यायेनोद्भिदादिशब्दवत् । योगश्च, चूडायाः करणं चूडार्थं करणं चूडा क्रियते यस्मिन्कर्मणीति वा त्रिधैव संभवति । संस्कारप्रकाश p. 295. The महाभाष्य (vol. II. p. 362 on पा. V. 1. 97 ) explains it as ' चूडा प्रयोजनमस्य चौडम् ' and we know from works on poetics that ' यमकश्लेषचित्रेषु बवयोर्र्डलयोर्न भित् ( there is no distinction between 'ba' and 'va' or ḍa and la in Yamaka, paronomasia and citrakāvya ).
 
 According to many[^597] writers caula was performed in the third year from birth. Baudh. gṛ. (II. 4), Pār. gṛ. (II. 1), Manu II. 35, Vaik. III. 23 say that it may be performed in the 1st or 3rd year. Āśv. gṛ. and Vārāha gṛ. say it may be performed in the 3rd year or in the year in which it is the custom of the family to perform it. Pār. also refers to family usage. Yāj. specifies no year, but mentions only family usage. Yama quoted by Aparārka (p. 29) allowed it in the first, 2nd or 3rd year, while Śaṅkha-Likhita allowed it in the 3rd or 5th (Aparārka p. 29). Ṣaḍ-guru-śiṣya quoted in the Saṃskāraprakāśa (p. 296) and Nārāyaṇa (on Āśv. gṛ. I. 17. 1) say that some performed it at the time of upanayana. [[P261]]
 
 [^597]:
-    Vide Āśv. gṛ. I. 17. 1-18 (S. B. E. vol. 29, pp. 184-186), Āp. gṛ. 16. 3-11 (S. B. E. vol. 30, pp. 283-84), Gobhila II. 9. 1-29 (S. B. E. vol. 30, pp. 60-63), Hir. gṛ. II. 6. 1-15 (S. B. E. vol. 30, pp. 216-218), Kāṭhaka gṛ. 40, Khādira II. 3. 18-33 (S. B. E. vol. 29, pp. 397-399), Pār. gṛ. II. 1 (S. B. E. vol. 29, pp. 301-303), Śāṅ. (I. 28. S. B. E. vol. 29, pp. 56-57), Baudh. gṛ. II. 4, Mānava gṛ. I. 21. 1-12, Vaik. III. 23 for a treatment of this topic.
+    Vide Āśv. gṛ. I. 17. 1-18 ( S. B. E. 29 pp. 184-186 ), Āp. gṛ. 16. 3-11 ( S. B. E. vol. 30 pp. 283-84 ), Gobhila II. 9. 1-29 ( S. B. E. 30 pp. 60-53), Hir. gṛ. II. 6. 1-15 (S. B. E. 30 pp. 216-218), Kāṭhaka gṛ. 40, Khādira II. 3.16-33 (S. B. E. 29 pp. 597-599), Pār. 1 II. (S. B. E. 29 pp. 301-303), Śāṅ. ( I. 28. S. B. E. 29. pp. 55-57 ), Baud. gṛ. II. 4, Mānava gṛ. I. 21. 1-12, Vaik. III. 23 for a treatment of this topic.
 
 
 
 Whether such a ceremony was performed in the Vedic ages cannot be ascertained with certainty. Bhār. gṛ. I. 28 expressly[^598] refers to the Vedic verse (Ṛg. IV. 75. 17 or Tai. S. IV. 6. 4. 5) as indicative of the practice of Caula in Vedic times 'where arrows fall together like boys having many tufts of hair'. Manu II. 35 also has in view this Vedic verse.
 
 [^598]:
-    'यत्र बाणाः सम्पतन्ति कुमारा विशिखा इव' इति च विज्ञायते । Bhāradvāja gṛhya I. 28.
-
-
+    अथास्ये सांवत्सरिकस्य चौलं कुर्वन्ति यथर्षि यथोपज्ञं वा । विज्ञायते च । यत्र बाणाः संपतन्ति कुमारा विशिखा इव । इति बहुशिखा इवेति । भारद्वाज गृ. I. 28.
 
 The principal act in this ceremony is the cutting of the hair of the child. The other subsidiary matters are the performance of homa, feeding of brāhmaṇas, receiving of their benedictions and giving of dakṣiṇā, the disposal of cut hair in such a way that no one can find them.
 
@@ -1035,70 +983,51 @@ The materials required in this ceremony are stated as follows: (1) To the north 
 [^599]:
     21 bunches are required because he cuts off the hair four times on the right side and three times on the left side and each time three kuśa bunches are required.
 
-
-
 After homa is performed, the principal matter (of cutting the hair) is to be begun. According to Gobhila and Khādira the father, having contemplated upon Savitṛ, looks at the barber with the mantra 'here comes Savitṛ' (Mantra-br. I. 6. 1) and contemplating on Vāyu looks at the warm water with the mantra 'with warm water, Oh Vāyu, come hither' (Mantra-Br. I. 6. 2). The father then mixes the hot and cold water and may put, in a part of the water, butter or drops of curds and apply the water to moisten three times the boy's head with the mantra 'may Aditi cut thy hair; may the waters moisten (thy hair) for vigour'. Then[^600] on the right portion of the boy's hair the father puts three kuśa bunches with the points towards the boy with the formula 'herb, protect him' (Tai. S. I. 2. 1. 1). With the words 'Axe, do not harm him' (Tai. S. I. 2. 1. 1) he presses a copper razor (on the kuśa blades). The hair is cut[^601] with the mantra 'with that razor with which Savitṛ, the wise, cut (the hair) of king Soma and of Varuṇa, cut now his (the boy's hair), Oh brāhmaṇas, so that he may be endowed with long life and (reach) old age'. Each time the hair is cut, he gives the cut hair with their ends turned towards the east together with śamī leaves to the mother, who puts them down on the bull dung. Cutting is done a second time with the mantra 'with what Dhātṛ shaved (the head) of Bṛhaspati, Agni and Indra for the [[P263]] sake of their long life, with that I shave thy (head) for the sake of long life, fame and happiness'. The cutting is done a third time with the mantra 'with what he may after night (is past) see the sun again and again, with that I shave thy (head) for the sake of long life, fame and happiness'. The cutting is done for the fourth time with all the three mantras together. Then the hair is cut three times on the left side similarly. The edge of the razor is then wiped off with the mantra 'when thou shavest as a shaver the hair (of the boy) with the razor that wounds and is well-shaped purify his head, but do not deprive him of life'. Then he gives orders to the barber 'doing with lukewarm water what has to be done with water, arrange his hair (well) without causing him (the boy) any wound'. Let him have the hair of the boy arranged according to the custom of the family. The rite only (without the mantras) is performed for a girl.[^602]
 
 [^600]:
     The several sūtras generally cite different mantras at the time of the performance of the several acts. It is not possible for want of space to set out all these different verses. Only the mantras used in the Āśv. gṛ. are cited in order to convey some idea of the rite as it was practised in ancient times.
 
 [^601]:
-    It appears that originally the father himself performed the cutting of the hair. Some of the gṛhya sūtras like those of Baudh. and Śāṅ. nowhere mention the barber in this ceremony. Hence it appears that later on the father performed only the homa and repeated the mantras, while a barber was employed to shave the boy's head. "यत्रानुमन्त्रणं तत्र कारयिता पित्रादिः स एव वपनकर्ता भवति सिद्धं भवति । इदानीं तु तथाशिक्षाया अभावाल्लोकविद्विष्टत्वाच्च समन्त्रकचेष्टामात्रं कृत्वा नापितमेव वपनं कारयन्ति । Saṃskāraratnamālā p. 901.
+    It appears that originally the father himself performed the cutting of the hair. Some of the gṛhya sūtras like those of Baud. and Śāṅ. nowhere mention the barber in this ceremony. Hence it appears that later on the father performed only the homa and repeated the mantras, while a barber was employed to shave the boy's head. 'तेन यश्चूडानां कारयिता पित्रादिः स एव वपनकर्तेति सिद्धं भवति । इदानीं तु तादृशशिक्षाया अभावाल्लोकविद्विष्टत्वाच्च समन्त्रकां चेष्टामात्रं कृत्वा नापितेनैव वपनं कारयन्ति शिष्टाः ॥ ' संस्काररत्नमाला p. 901.
 
 [^602]:
-    All the mantras in Āśv. gṛ. occur also in Mānava gṛ., some occur in Baudh., Bhār., Pār., and others. The mantras in Āśv. viz. 'oṣadhe trāyasva', 'svadhite mainaṃ hiṃsīḥ', 'yena savitā', 'yenādhātā', 'yena bhūyaḥ' are Tai. S. I. 2. 1. 1, 3-5 and 7 with slight variations. The verse 'yena vapati' is almost the same as Atharvaveda VIII. 2. 17 and Āśv. appears to have adapted it purposely to make it suit the caula.
-
-
-
-
+    All the mantras in Āśv. gṛ. occur also in Mānava gṛ., some occur in Baud., Bhār., Pār., and others. The mantras in Āśv. viz उष्णेन वाय, येनावपत्, येन धाता, येन भूयश्च, यत्क्षुरेण मर्चयता are आप. म. पा. II. 1. 1, 3-5 and 7 with slight variations. The verse यत्क्षुरेण मर्चयता is almost the same as अथर्ववेद VIII. 2. 17. and Āśv. appears to have adapted it purposely to make it suit the caula.
 
 According to several sūtras, the cut hair placed in the dung of a bull is buried in a cow stable[^603] or is thrown in a pond or in the vicinity of water (Pār., Bhār.) or is buried at the root of the Udumbara tree (Bhār.) or in a bunch of darbha grass (Baud., Bhār., Gobhila) or in the forest (Gobhila). The Mānava gṛ. prescribes that as the hair falls down when cut they are gathered by some friendly person. The Kāṭhaka gṛ. and Mānava gṛ. say that the barber gets a sesame cake and a fine piece of cloth, while Vaik. says food is given to him. A bath for the boy is expressly prescribed by Baudh. and some others.
 
 [^603]:
-    अथेनं गोमयपिण्डं गोष्ठ उदकान्ते उदुम्बरमूले दर्भस्तम्बे वा निदधाति । Bhāradvāja gṛ. I. 28; गोष्ठे निखनन्त्युदुम्बरमूले दर्भस्तम्बे वा । Pār. gṛ. II. 1.
-
-
+    अथैनं गोमयपिण्डं गोष्ठ उदकान्ते उदुम्बरमूले दर्भस्तम्बे वा निदधाति । भारद्वाज गृ. I. 28; अनुगुप्तमेतं सकेशं गोमयपिण्डं निधाय गोष्ठे पल्वले उदकान्ते वा ॥ पार. गृ. II. 1.
 
 There is a great divergence of views about the number of locks of hair to be left on the head and the portion of the head where they are to be left. Baudh. gṛ. says that one or three or five locks[^604] may be left on the head or according to family usage and he further says that some sages say that the locks should [[P264]] be as many as the pravaras invoked by the father.[^605] Āśv. gṛ., and Pār. gṛ. say that locks may be kept according to family usage. Āp. gṛ. says that the locks may in number follow the pravara or they may be kept according to family usage. Gobhila and Khādira say that the locks should be arranged according to gotra and family usage. Whether they mean by 'gotra' the number of pravaras of the gotra or some rule such as the Kāṭhaka gives is not clear. The Kāṭhaka gṛ. says that the Vāsiṣṭhas keep a lock on the right, that persons of Atri and Kaśyapa gotra (or pravara) keep locks both on the right and the left, that the Bhṛgus shave the entire head, that the Āṅgirasa gotra keeps five locks or only a line of hair, while persons of other gotras (like Agastya, Viśvāmitra &c.) keep a śikhā (without any particular number of locks) simply because it is an auspicious sign or one may follow the usage of one's family.[^606] Vaik.[^607] says that the locks may be one, two, three, five or seven according to the pravaras. Ṛgveda[^608] VII. 33. 1 refers to the fact that Vasiṣṭhas had a lock of hair on the right side of the head and so the rule of the Kāṭhaka has a very hoary antiquity behind it. Up to modern times one of the characteristic outward signs of all Hindus was the śikhā (the top-knot). A verse of Devala says that whatever religious act a man does without the yajñopavīta or without śikhā is as good as undone and Hārita rules that a person who cuts off his śikhā through hate or ignorance or foolishness becomes pure only after [[P265]] performing the taptakṛcchra penance.[^609] In the Mudrārākṣasa (I. 8) there is a reference to the śikhā of Cāṇakya having been kept untied when he was angered by the Nandas. Śabara (on Jaimini I. 3. 7) remarks that the śikhā (its position and locks) is a sign to indicate the gotra and quotes Ṛg. VI. 75. 17 (yatra bāṇāḥ &c. cited above in note 598). Vasiṣṭha (II. 21) prescribes that members of all varṇas (including the śūdra) should arrange their hair according to the fixed usage (of their family) or should shave the whole head except the śikhā. A Vedic passage[^610] is 'the head that has no śikhā on it is unholy'. For rules about the śikhā of students vide later on under upanayana. During recent times men, particularly those receiving English education in towns and cities, are forsaking the ancient practice of keeping a śikhā and follow the western method of allowing the hair to grow on the whole head.
 
 [^604]:
-    एकां वा तिस्रो वा पञ्च वा शिखा यथाकुलधर्मं वा परिकल्पयेत् । Baudh. Gṛ. II. 4.
+    अथैनमेकशिखन्त्रिशिखः पञ्चशिखो वा यथैवैषां कुलधर्मः स्यात् । यथर्षि शिखां निदधातीत्येके । बौ. गृ. II. 4.
 
 [^605]:
     The pravaras or ṛṣis of the several gotras are generally three but some gotras have one, two or five pravaras, but never four. Vide below under marriage for pravara.
 
 [^606]:
-    वाशिष्ठानां दक्षिणे । अत्रिकाश्यपानामुभयतो । भृगूणां मुण्डाः । अङ्गिरसः पञ्चचूडाः । वाजि (राजि!) मेके । मङ्गलार्थं शिखिनोऽन्ये । यथाकुलधर्मं वा । Kāṭhaka Gṛ. 40. 2-8. These sūtras are quoted by Aparārka p. 29 and by the Sm. C. I. p. 28. The Vṛttikāra in explaining the words 'rājim eke' says that some keep a śikhā of the form and size of the leaf of the Vaṭa tree. The Saṃskāramayūkha p. 316 arranges the sūtras differently and remarks केशपङ्क्तिं कुर्वन्ति । सा च समन्तात् ललाटकर्णमूलस्पर्शिनी मालेव भवति । ... अविशिष्टेषु गोत्रेषु केवलं शिखा कार्या ।
+    दक्षिणतः कपुर्जा वसिष्ठानाम् । उभयतोऽत्रिकाश्यपानाम् । मुण्डा भृगवः । पञ्चचूडा अङ्गिरसः । वाजि ( राजि ?) मेके । मङ्गलार्थं शिखिनोऽन्ये । यथाकुलधर्मं वा । काठकगृह्य 40. 2-8. These sūtras are quoted by अपरार्क p. 29 and by the स्मृतिच० I. p. 28. The स्मृतिच० in explaining the words मङ्गलार्थे says that some keep a śikhā of the form and size of the leaf of the Vaṭa tree. The सं. म. p. 316 arranges the sūtras differently and remarks मङ्गलार्थे वार्जिं केशपङ्क्तिं कुर्वन्ति । सा च समन्तात् ललाटकर्णमूलस्पर्शिनी मालेव भवति । ...... प्रविशिष्टेषु केचन पश्चाच्चूडाः केचन पुरश्चूडाः ।
 
 [^607]:
-    अथ शिखां न्यस्यति । एकां वा तिस्रः पञ्च वा सप्त वा प्रवरसंख्यया । Vaikh. III. 23.
+    ऋषिक्रमेण । स्वस्यैकार्ष-द्व्यार्षत्र्यार्षपञ्चार्षसप्तार्षांश्चचूडा विभजेत् । वैखानस III. 23.
 
 [^608]:
-    श्वित्यञ्चो मा दक्षिणतस्कपर्दा धन्वानिवाजेषु जयन्तु शत्रून् । पुत्रिणस्ते उप मासं सन्तु यूयं पात स्वस्तिभिः सदा नः । Ṛg. VII. 33. 1.
+    श्वित्यञ्चो मा दक्षिणतस्कपर्दा धियंजिन्वासो अभि हि प्र मन्दुः । उत्तिष्ठन् वोचे परि बर्हिषो नॄन् मे दूरादवितवे वसिष्ठाः ॥ ऋ. VII. 33, 1.
 
 [^609]:
-    सदोपवीतिना भाव्यं सदाबद्धशिखेन च । विशिखोऽनुपवीतश्च यत्करोति न तत्कृतम् ॥ Devala. 'शिखां छिन्दन्ति ये मोहाद् द्वेषादज्ञानतोऽपि वा । तप्तकृच्छ्रेण शुध्यन्ति त्रयो वर्णा द्विजातयः' ॥ Hārīta, both quoted in Saṃskāramayūkha p. 316. Hārīta verses 18-19 (Anand. Ed.) are very similar to the 2nd verse. The first is Devala 2. 4 and is quoted as Yama's in Saṃ. Pra. I. p. 32.
+    सदोपवीतिना भाव्यं सदा बद्धशिखेन च । विशिखो व्युपवीतश्च यत्करोति न तत्कृतम् ॥ देवल; ' शिखां छिन्दन्ति ये मोहाद् द्वेषादज्ञानतोऽपि वा । तप्तकृच्छ्रेण शुध्यन्ति त्रयो वर्णा द्विजातयः ॥ हारीत, both quoted in संस्कारप्रकाश p. 316. लघुहारीत verses 18-19 ( Ānand. Ed. ) are very similar to the 2nd verse. The first is गोभिलस्मृति I. 4 and is quoted as भृगु's in स्मृतिच० I. p. 32.
 
 [^610]:
-    अमेध्यं तच्छिरो यस्य शिखा नास्ति' quoted by the commentators on Kāṭhaka 40. 7.
-
-
-
-
-
-
-
-
-
+    अमेध्यं वा एतच्छिरो यदशिखम् । quoted by the commentators on काठकगृह्य 40. 7.
 
 In modern times the rite of cūḍākaraṇa generally takes place if at all on the day of Upanayana.
 
 Āśv. gṛ. (I. 17. 18) expressly says that the ceremony of cūḍākaraṇa was to be performed for girls also, but no Vedic mantras were to be repeated. Manu (II. 66) says that all the ceremonies from jātakarma to caula must be performed at the proper times for girls also in order to purify their bodies but without mantras and Yāj. (I. 13) is to the same effect. Even such late writers as Mitramiśra say that the caula of girls may be performed according to the usage of the family and that their hair may be entirely shaved or a śikhā may be kept or there should be no shaving at all.[^611]
 
 [^611]:
-    स्त्रीणां तूष्णीमेव । यथाकुलधर्मं वा सर्वथा वपनमेव शिखा वा । पक्षत्रयमपि सिध्यति । Saṃskāraprakāśa p. 317; एतच्च स्त्रीणामपि । 'स्त्रीणां तु शिखां छित्त्वा वेणीं कुर्यादिति' विशेषान्तरमाह । एतच्च देशभेदादप्यवस्था द्रष्टव्या । स्त्रीणां केशधारणमेव शिखाधारणम् । एतच्चामन्त्रकमेव स्त्रीणां कार्यम् ...। Saṃskāraratnamālā p. 904.
-
-
+    कुमारीचौलेऽपि यथाकुलधर्ममित्यनुवर्तते । ततश्च सर्वमुण्डनं शिखाधारणं अमुण्डनमेव वेति सिध्यति । संस्कारप्रकाश p. 317; एतच्च स्त्रीणामपि । 'स्त्रीशूद्रौ तु शिखां छित्त्वा क्रोधाद् वैराग्यतोऽपि वा । प्राजापत्यं प्रकुर्वीताम्' इति प्रायश्चित्तविधिबलात् । एतत्परिग्रहपक्षे । अत्र देशभेदाद् व्यवस्था द्रष्टव्या । स्त्रीणां केशधारणमेव शिखाधारणम् । एतच्चामन्त्रकमेव स्त्रीणां कार्यम् । ...होमोपि न । संस्काररत्नमाला p. 904.
 
 In some castes even in modern times girls when mere children are shaved once, it being supposed that the first hair are impure.
 
@@ -1106,24 +1035,19 @@ In some castes even in modern times girls when mere children are shaved once, it
 Vidyārambha—The gṛhya sūtras and dharmasūtras are entirely silent as to what was done for the child's education [[P266]] between the third year when usually caula was performed and the 8th year (from conception) when the upanayana usually took place (in the case of brāhmaṇas). They state that rarely upanayana was performed even in the 5th year (as will be shown hereafter). Some faint light is thrown on this matter by the Arthaśāstra of Kauṭilya,[^612] which says that the prince after the performance of caula is to engage in the study of the alphabet and of arithmetic, and after his upanayana he is to study the Vedas, ānvīkṣikī (metaphysics), vārtā (agriculture and the science of wealth) and daṇḍanīti (the art of government) up till the 16th year when the godāna ceremony is to be performed and after which year he may marry. Kālidāsa also (in Raghuvaṃśa III. 28) says that prince Aja first mastered the alphabet and then entered into the ocean of (Sanskrit) literature. Bāṇa has probably the Arthaśāstra in view when he makes prince Candrāpīḍa enter the temple of learning (vidyāmandira) at 6 and remain there till he became sixteen and he (like Milton in his letter to Hartlib) tells us how extensive the ideal curriculum of studies in arts and sciences for the prince was thought to be.[^613] In the Uttararāmacarita (Act II) it is said that Kuśa and Lava were taught vidyās other than the Veda after their caula and before upanayana.
 
 [^612]:
-    वृत्तचौलकर्मा लिपिं संख्यानं चोपयुञ्जीत । वृत्तोपनयनस्त्रयीमान्वीक्षिकीं च शिष्टेभ्यो वार्तामध्यक्षेभ्यो दण्डनीतिं वक्तृप्रवक्तृभ्यः । ब्रह्मचर्यं चाषोडशाद्वर्षात् । अतो गोदानं दारकर्म च । Arthaśāstra I. 5.
+    वृत्तचौलकर्मा लिपिं संख्यानं चोपयुञ्जीत । वृत्तोपनयनस्त्रयीमान्वीक्षिकीं च शिष्टेभ्यो वार्तामध्यक्षेभ्यो दण्डनीतिं वक्तृप्रवक्तृभ्यः । ब्रह्मचर्यं चाषोडशाद्वर्षात् । अतो गोदानं दारकर्म च । अर्थशास्त्र I. 5.
 
 [^613]:
-    Vide Kādambarī para 69 for vidyāmandira and para 71 for the various arts and sciences 'पदे वाक्ये प्रमाणे धर्मशास्त्रे राजनीतिषु व्यायामविद्यासु ......सर्वायुधविशेषेषु रथचर्यासु गजपृष्ठेषु तुरंगमेषु ......नाटकेषु भरतादिप्रणीतेषु नृत्यशास्त्रेषु नारदीयप्रभृतिषु गान्धर्ववेदविशेषेषु ......ग्रहगणिते... वास्तुविद्यास्वायुर्वेदे यन्त्रप्रयोगे... कथासु नाटकेषु आख्यायिकासु काव्येषु महाभारतपुराणेतिहासरामायणेषु सर्वलिपिषु सर्वदेशभाषासु सर्वशिल्पेषु छन्दःशास्त्रेष्वपि कलाविशेषेषु परं कौशलमवाप' ; vide para 74 about 6 and 16 years.
-
-
-
+    Vide कादम्बरी para 69 for विद्यामन्दिर and para 71 for the various arts and sciences ' पदे वाक्ये प्रमाणे धर्मशास्त्रे राजनीतिषु व्यायामविद्यासु ...... सर्वेष्वायुधविशेषेषु रथचर्यासु गजपृष्ठेषु तुरंगमेषु ...... वाद्येषु भरतादिप्रणीतेषु नृत्यशास्त्रेषु नारदीयप्रभृतिषु गान्धर्ववेदविशेषेषु ... ... ग्रहगणिते ... ... वास्तुविद्यास्वायुर्वेदे यन्त्रप्रयोगे ... कथासु नाटकेषु आख्यायिकासु काव्येषु महाभारतपुराणेतिहासरामायणेषु सर्वलिपिषु सर्वदेशभाषासु सर्वशिल्पेषु छन्दःसु अन्येष्वपि कलाविशेषेषु परं कौशलमवाप । ; vide para 74 about 6 and 16 years.
 
 It appears that at least from the early centuries of the Christian era, a ceremony called Vidyārambha (commencement of learning the alphabet) was celebrated. Aparārka (pp. 30-31) and the Sm. C. (I. p. 26) cite verses from the Mārkaṇḍeya-purāṇa[^614] [[P267]] about vidyārambha as follows: in the fifth year of the child on some day from the 12th of the bright half of Kārtika to the 11th of the bright half of Āṣāḍha, but excluding the 1st, 6th, 8th, 15th tithi or rikta tithis (i. e. 4th, 9th and 14th) and Saturday and Tuesday, the ceremony of beginning to learn should be performed. Having worshipped Hari (Viṣṇu), Lakṣmī, Sarasvatī, the sūtra writers of one's śākhā and the lore peculiar to one's family, one should offer in the fire oblations of clarified butter to the above mentioned deities and should honour brāhmaṇas by the payment of dakṣiṇā. The teacher should sit facing the east and the boy should face the west and the teacher should begin to teach the first lesson to the boy who should receive the benedictions of brāhmaṇas. Thereafter teaching should be stopped on the days of anadhyāya (which will be specified later on).
 
 [^614]:
-    प्राप्ते च पञ्चमे वर्षेऽप्रसुप्ते जनार्दने । षष्ठीं प्रतिपदं चैव वर्जयित्वा तथाष्टमीम् ॥ रिक्तां पञ्चदशीं चैव सौरभौमदिनं तथा । एवं सुनिश्चिते काले विद्यारम्भं तु कारयेत् ॥ पूजयित्वा हरिं लक्ष्मीं देवीं चैव सरस्वतीम् । स्वविद्यासूत्रकारांश्च स्वां विद्यां च विशेषतः ॥ एतेषामेव देवानां नाम्ना तु जुहुयाद् घृतम् । दक्षिणाभिर्द्विजेन्द्राणां कर्तव्यं चात्र पूजनम् ॥ प्राङ्मुखो गुरुरासीनो वारणाशाङ्मुखं शिशुम् । अध्यापयेत् प्रथमं द्विजाशीःसुपूजितम् ॥ ततः प्रभृत्यनध्यायान् वर्जनीयान् विवर्जयेत् । Aparārka pp. 30-31. The Viṣṇudharmottara (quoted in Saṃ. Ma. p. 321) says 'आषाढशुक्लद्वादश्यां शयनं कुरुते हरिः । निद्रां त्यजति कार्तिक्यां तयोः संपूज्यते हरिः'।
-
-
+    प्राप्ते च पञ्चमे वर्षे अप्रसुप्ते जनार्दने । षष्ठीं प्रतिपदं चैव वर्जयित्वा तथाष्टमीम् ॥ रिक्तां पञ्चदशीं चैव सौरभौमदिनं तथा । एवं सुनिश्चिते काले विद्यारम्भं तु कारयेत् ॥ पूजयित्वा हरिं लक्ष्मीं देवीं चैव सरस्वतीम् । स्वविद्यासूत्रकारांश्च स्वां विद्यां च विशेषतः ॥ एतेषामेव देवानां नाम्ना तु जुहुयाद् घृतम् । दक्षिणाभिर्द्विजेन्द्राणां कर्तव्यं चात्र पूजनम् ॥ प्राङ्मुखो गुरुरासीनो वारुणाशामुखं शिशुम् । अध्यापयेत प्रथमं द्विजाशीर्भिः सुपूजितम् ॥ ततः प्रभृत्यनध्यायान्वर्जनीयान् विवर्जयेत् । अपरार्क pp. 30, 31. The विष्णुधर्मोत्तर (quoted in सं. प्र. p. 321 ) says ' आषाढशुक्लद्वादश्यां शयनं कुरुते हरिः । निद्रां त्यजति कार्तिक्यां तयोः संपूज्यते हरिः ॥'.
 
 The Saṃskāraprakāśa (pp. 321-325) and Saṃskāraratnamālā (pp. 904-907) have an extensive note, a considerable part of which is devoted to astrological matters. The Saṃskāraprakāśa quotes passages from Viśvāmitra, Devala and other sages and works that vidyārambha is performed in the 5th year or in any case before upanayana. It also quotes a verse from Nṛsiṃha that Sarasvatī and Gaṇapati should be worshipped and then the teacher should be honoured. The modern practice is to begin learning the alphabet on an auspicious day, generally the 10th of the bright half of Āśvina. Sarasvatī and Gaṇapati are worshipped, the teacher is honoured and the boy is asked to repeat the words 'oṃ namaḥ siddham' and to write them on a slate and then he is taught the letters ('a', 'ā' &c.) of the alphabet. The Saṃskāraratnamālā[^615] calls this ceremony Akṣarasvīkāra (appropriately enough) and among other texts cites a long prose passage from Garga quoted in the Pārijāta and prescribes a homa also with ājyāhutis to Sarasvatī, Hari, Lakṣmī, Vighneśa (Gaṇapati), sūtrakāras and one's vidyā.
 
 [^615]:
-    सरस्वतीपूजनादिप्रकारमाह पारिजाते गर्गः । स्नात्वा शुचौ समे देशे गोचर्ममात्रमुपलिप्य सैकतं स्थण्डिलं कृत्वा पलाशशाखया मृदं खनित्वा तत्र सरस्वतीमावाहयेत् । ...ततः पुष्पैरक्षतधूपदीपपायसगुडौदननैवेद्यसमर्पणनमस्कारान्कृत्वा विघ्नेशं संपूज्याचार्यं शक्तितो वस्त्रालङ्कारादिभिः संपूज्य ... शिशुं वासयेत् । ...ततोऽक्षराणि लेखयेत् ... Saṃskāraratnamālā p. 906.
+    सरस्वतीपूजनादिप्रकारमाह पारिजाते गर्गः । स्नात्वा शुचौ समे देशे गोचर्ममात्रमुपलिप्य सैकतं स्थण्डिलं कृत्वा पलाशशाखया मृदं खनित्वा तत्र सरस्वतीमावाहयेत् । भुवनमातः सर्ववाङ्मयरूपे आगच्छागच्छेति । ततः प्रणवेनासनाद्यर्घ्यपाद्याचमनीयस्नानवस्त्रगन्धपुष्पाक्षतधूपदीपपायसगुडौदननैवेद्यसमर्पणनमस्कारान्कृत्वा विघ्नेशं संपूज्याचार्य शक्तितो वस्त्रालङ्कारादिभिः पूजयित्वा सरस्वतीविघ्नेशाचार्यांस्त्रिः प्रदक्षिणीकृत्य प्रणवपूर्वकमक्षरमारभेत । तत आचार्यादिवन्दनं कृत्वा सरस्वत्यादीनावाहनक्रमेणोद्वासयेद्विद्यावृद्धिर्भवति । संस्काररत्नमाला p. 906.
 
 
