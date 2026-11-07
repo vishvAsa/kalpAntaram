@@ -173,15 +173,9 @@ The next question is whether [[KĀtyāyana|Kātyāyana]] the jurist and the auth
 
 A few words must be said about the additional 121 verses collected and published in Kane Festschrift by Prof. Aiyangar as ascribed to Kātyāyana. Many verses are ascribed to Bṛhaspati in some Dharmaśāstra works which are attributed to Kātyāyana by others. For reasons of space only a few striking examples are cited [[helow|below]]: (Kāt. = collection of Kātyāyana's verses by P. V. Kane and [[Bș|Bṛ]]. Col. stands for 
 
-[^576]: वरयित्वा तु यः कश्चित्प्रणश्येत्पुरुषो यदा।रक्तागर्मास्त्रीनतीत्य कन्यान्य वरयेद्वरम् ॥ 
-
-प्रदाय [[गच्छच्छुल्कं|गच्छेच्छुल्कं]] यः कन्यायाः स्त्रीधनं तथा । धार्या सा वर्षमेकं तु देयान्यस्मै विधानतः ॥ पूर्वदत्ता तु या कन्या [[अन्यनोढा|अन्येनोढा]] यदा भवेत् । संस्कृतापि प्रदेया 
-
-[[granat i|स्यायस्मै पूर्वं प्रतिश्रुता ॥]] The first [[vorso|verse]] "[[Varayitrā|Varayitvā]] tu [[&o|&c]].' and third " [[Pūrvadatta|Pūrvadattā]]' are cited by Aparārka on Āhnika (pp. 82. as Kātyāyana's view and the first as of Kāt, in [[Smrticando|Smṛticandrikā]] p. 89 ([[ābpika|āhnika]] ). 
+[^576]: वरयित्वा तु यः कश्चित्प्रणश्येत्पुरुषो यदा । रक्तागमांस्त्रीनतीत्य कन्याऽन्यं वरयेद्वरम् ॥ प्रदाय गच्छेच्छुल्कं यः कन्यायाः स्त्रीधनं तथा । धार्या सा वर्षमेकं तु देयान्यस्मै विधानतः ॥ पूर्वदत्ता तु या कन्या अन्येनोढा यदा भवेत् । संस्कृतापि प्रदेया स्याद्यस्मै पूर्वं प्रतिश्रुता ॥ The first verse 'Varayitvā tu &c.' and the third 'Pūrvadattā' are cited by Aparārka on Āhnika (pp. 82-83) as Kātyāyana's view and the first as of Kāt. in Smṛticandrikā p. 82 (āhnika).
 
 [[P506]]
-
-
 
 Prof. Aiyangar's own collection of [[Brbaspati|Bṛhaspati]] verses ; P. M. = Parāśara-mādhavīya, Vy. N. [[=Vyavahāranirṇaya|= Vyavahāranirṇaya]] ed. by Prof. Aiyangar): 
 

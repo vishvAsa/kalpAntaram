@@ -11,7 +11,8 @@ Dakṣa is one of the writers on dharma enumerated by Yāj. [[Vigvarūpa|Viśvar
 
 In Jivananda's collection there is a Dakṣasmṛti (part II, pp. 383-402) in seven chapters and 220 verses (vide also Ānandāśrama collection pp. 72-84), M. N. Dutt's collection Vol. I. pp. 291-309. The principal subjects treated of are :— Four āśramas, two kinds of [[brahmacūrins|brahmacārins]]; the daily round of duties for dvijas; various subdivisions of actions, nine [[karnans vine vikarmang|karmans, nine vikarmans]], nine actions that should be concealed, nine acts that should be made public, nine things that should not be gifted; gifts; eulogy of a good housewife; śauca of two kinds; impurity due to birth and death; Yoga and its six aṅgas viz. [[prāụāyāma|prāṇāyāma]], dhyāna, pratyāhāra, dhāraṇā, tarka and [[gamādbi|samādhi]]; maithuna of eight kinds to be avoided by ascetics; duties of bhikṣu, dvaita, and advaita.
 
-[^590]: सुवर्णमेव स्वर्णमस्य च देशकालपात्रसुवर्णपरिमाणाच्च फलविशेषः । अपरार्के.
+[^590]: सुवर्णमेव स्वर्णमस्य च देशकालपात्रसुवर्णपरिमाणाच्च फलविशेषः । अपरार्क.
+
 [^591]: सामान्यं याचितं न्यस्तमाधिश्च तद्धनम् । अन्वाहितं च निक्षेपः सर्वस्वं चान्वये सति ॥ आपत्स्वपि न देयानि नव वस्तूनि पण्डितैः । यो ददाति स मूढात्मा प्रायश्चित्तीयते नरः ॥ अपरार्क p. 404. These occur in the दक्षस्मृति (Jivananda, part II, p. 391).
 
 

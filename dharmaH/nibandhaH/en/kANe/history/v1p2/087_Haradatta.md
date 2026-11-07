@@ -35,13 +35,13 @@ Ghose in his *Hindu Law* (3rd ed. Intro. p. xv) says that, like Medhātithi, Har
 
 [^1088]: नाश्रमान्तरं प्रवेष्टव्यं नापि स्त्र्यन्तरमुपयन्तव्यमिति मन्त्रेण समयः क्रियते । एष ब्राह्मादेः प्राजापत्यस्य विशेषः ।
 
-[^1089]: यत्र पितृष्वसुर्मातुलसुतापरिणयनादौ प्रीत्युपलक्षितः प्रवृत्तिर्न तत्रोत्सर्गपाठः शास्त्रमनुमीयते प्रीतेरेव प्रवृत्तिहेतोः संभवात् ।
+[^1089]: यत्र पितृष्वसृमातुलसुतापरिणयनादौ प्रीत्युपलक्षितः प्रवृत्तिर्न तत्रोत्सन्नपाठं शास्त्रमनुमीयते प्रीतेरेव प्रवृत्तिहेतोः संभवात् ।
 
 The date of Haradatta is a rather difficult problem. Bühler (S. B. E. vol. II. p. XLIII) at first thought that Haradatta probably wrote in the 16th century, but in his 2nd edition of the Āp. Dh. S. he says (p. VIII) that the Munich ms. of the *Ujjvalā* written in Poona about 1600 A. D. shows the interpolated text found in all Devanāgarī copies and that therefore Haradatta is older than at least 1450–1500 A. D. The *Viramitrodaya*[^1090] frequently cites the *Mitākṣarā* of Haradatta on Gautama. Nārāyaṇabhaṭṭa (born in 1513 A. D.) in his *Prayoga-ratna* quotes Haradatta’s comment on Gautama VIII. 14–22 about saṁskāras and his son Śaṅkarabhaṭṭa names both the *Mitākṣarā* and the *Ujjvalā* of Haradatta in his *Dvaitanirṇaya*. The *Prayogapārijāta* of Nṛsiṁha, which is quoted in the *Prayogaratna* of Nārāyaṇabhaṭṭa and is therefore not later than the first quarter of the 16th century, cites Haradatta’s explanation of Āp. Gṛ. S. (on ‘pravāsād-etya putrasya śiraḥ parigṛhya japati’ etc.) and contrasts it with Nārāyaṇa’s view. The *Subodhinī* of Viśveśvarabhaṭṭa (about 1375 A. D.) on Mit. (Yāj. II. 132) quotes certain smṛti passages as found in the vṛtti of Āpastamba which are found in Haradatta’s gloss.[^1091]
 
-[^1090]: Vide वीरो pp. 169, 655.
+[^1090]: Vide वीरो० pp. 169, 655.
 
-[^1091]: पूर्वाभावे परः पर इति रिक्थग्रहणक्रमोपि दर्शितो वाक्यदोषे स्मृत्यन्तरेष्वन्यथा दर्शितः । तथाहि आपस्तम्बवृत्तौ स्मृत्यन्तरसंग्रहः । औरसः पुत्रिकाबीजक्षेत्रज्ञौ पुत्रिकासुतः । पानर्भवश्च कानीनः सहोढो गूढसम्भवः । दत्तः क्रीतः स्वयंदत्तः कृत्रिमश्चापविद्धकः । यत्र क्व चोत्पादितश्च स्वपुत्रा दश पञ्च चेति । सुबोधिनी. This occurs in Haradatta’s comment on आप. ध. सू. II. 6. 14. 1 (Bühler’s ed. of 1894, p. 81).
+[^1091]: पूर्वाभावे परः पर इति रिक्थग्रहणक्रमोपि दर्शितो वाक्यशेषे स्मृत्यन्तरेष्वन्यथा दर्शितः । तथाहि आपस्तम्बवृत्तौ स्मृत्यन्तरसंग्रहः । औरसः पुत्रिकाबीजक्षेत्रजौ पुत्रिकासुतः । पानर्भवश्च कानीनः सहोढो गूढसम्भवः । दत्तः क्रीतः स्वयंदत्तः कृत्रिमश्चापविद्धकः । यत्र क्व चोत्पादितश्च स्वपुत्रा दश पञ्च चेति । सुबोधिनी. This occurs in हरदत्त’s comment on आप. ध. सू. II. 6. 14. 1 (Bühler’s ed. of 1894, p. 81).
 
 [[P746]]Hence it follows that Haradatta cannot be later than about 1300 A. D. The fact that Haradatta hardly ever names any commentator except perhaps Devasvāmin, the Bhāṣyakāra of Āpastamba-gṛhya, and that he holds antiquated views about the widow’s right to succeed to her deceased husband’s estate are strong arguments in favour of the view that Haradatta is comparatively an early writer. Hardly any writer after Vijñāneśvara assigns the same position to the widow as Haradatta does. Hence it appears that Haradatta could not have flourished much later than 1100 A. D. So he must be placed between 1100–1300 A. D., very probably near the earlier limit than the later one.
 

@@ -57,7 +57,7 @@ The name *Smṛtikaustubha* (cf. the Nir. ed. of 1908) is misleading. It does no
 or 'Saṁvatsaradidhiti'[^1487] as Anantadeva expressly says in Introductory verse 20 of the *Smṛtikaustubha* that he is going to expatiate on 'Abdadidhiti'.
 
 [^1487]:
-    In राजधर्मकौस्तुभ (p. 94 of edition in Gaekwad series) we meet with the passage 'कुण्डनिर्माणं संवत्सरदीधितौ माघकृत्योक्तरीत्या वक्तव्यं तत्संवत्सरकृत्यदीधितौ वाजिनिराजनप्रकरणे उक्तमिति नेहोच्यते'. For वाजिनिराजनविधि vide pp. 245–250 of the स्मृतिकौस्तुभ (Nir. ed. of 1909).
+    In राजधर्मकौस्तुभ (p. 94 of edition in Gaekwad series) we meet with the passage 'कुण्डनिर्माणं संवत्सरदीधितौ माघकृत्योक्तरीत्या वक्तव्यं तत्संवत्सरकृत्यदीधितौ वाजिनिराजनप्रकरणे उक्तमिति नेहोच्यते'. For वाजिनीराजनविधि vide pp. 245–250 of the स्मृतिकौस्तुभ (Nir. ed. of 1909).
 
 In this work, while describing the religious rites to be performed on certain *tithis* he frequently cites at some length the *kathās* (stories) connected with those *tithis*; vide, for examples, the Vaṭa-Sāvitrīvratakathā on Jyeṣṭha Paurṇamāsī pp. 44–50, Mahālakṣmīkathā on pp. 148–150, Anantacaturdaśīvratakathā (pp. 170–175), Śivarātrivratakathā (pp. 398–410).
 
@@ -74,7 +74,7 @@ bhakti-candrikā composed by Anantadeva in which the characters are a Śaiva, Va
 In the *Smṛtikaustubha* (Nirṇayasāgara edition of 1909) Anantadeva gives a pedigree[^1489] of his patron's family. The family claimed descent from the moon. Whether the first three kings, mentioned in the *Smṛtikaustubha*, were related as father and son is doubtful. Lakṣmaṇacandra is said to have been the son of Rudracandra and it was he who conquered several chiefs wielding sway over the Himalayan territories.[^1490] Trimallacandra, the successor (and probably the son) of Lakṣmaṇacandra, is praised for his continual liberality to the learned men of Benares.[^1491] It was at the command of Bāz Bahādurcandra and for pleasing him that Anantadeva compiled his *Smṛtikaustubha*.[^1492] At the end Anantadeva tells us that Bāz Bahādurcandra conquered several mountain forts in the Himālayas.[^1493] After giving a pedigree of his patron's family Anantadeva gives some information about himself. He was a descendant of the great Maratha saint Ekanātha whom he describes as endowed with Vedic sacrifices and as a devotee
 
 [^1489]:
-    The pedigree of the king (patron of Anantadeva) who is described as of the Candra-vaṁśa is as follows:— संज्ञानचन्द्र—कल्याणचन्द्र—रुद्रचन्द्र—(son) लक्ष्मणचन्द्र—त्रिमल्लचन्द्र—नीलचन्द्र—बाजबहादुर. Vide Prof. U. V. Devasthali's Cat. of the Sanskrit Mss. in the Library of the Bombay University (1944) No. 1212 pp. 437–438 for a long quotation from it, in which संज्ञानचन्द्र is the name of the first ancestor of Bāz Bahadur (verse 2) and verse 7 shows पुरुषोत्तम as the son or successor of Nīlacandra.
+    The pedigree of the king (patron of Anantadeva) who is described as of the Cāndra-vaṁśa is as follows:— संज्ञानचन्द्र—कल्याणचन्द्र—रुद्रचन्द्र—(son) लक्ष्मणचन्द्र—त्रिमल्लचन्द्र—नीलचन्द्र—बाजबहादुर. Vide Prof. U. V. Devasthali's Cat. of the Sanskrit Mss. in the Library of the Bombay University (1944) No. 1212 pp. 437–438 for a long quotation from it, in which संज्ञानचन्द्र is the name of the first ancestor of Bāz Bahadur (verse 2) and verse 7 shows पुरुषोत्तम as the son or successor of Nīlacandra.
 
 [^1490]:
     तेनानेकहिमाचलस्थनृपतीन् दुष्टान्विजित्य स्वके राज्ये वृद्धिमकारि तुष्टिरमिता चाधायि विद्वद्भिरिति ॥ verse 5.

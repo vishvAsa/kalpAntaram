@@ -36,13 +36,13 @@ It would be interesting to recall a few other definitions of _dharma_. Jaimini[^
 [[P6]]
 The present work will deal with the sources of _dharma_, their contents, their chronology and other kindred matters. As the material is vast and the number of works is extremely large, only a few selected works and some important authors will be taken up for detailed treatment. More space will be devoted to comparatively early works.
 
-[^13]: चोदनालक्षणोर्थो धर्मः । पू. मी. सू. 1. 1. 2.
+[^13]: चोदनालक्षणोऽर्थो धर्मः । पू. मी. सू. 1. 1. 2.
 
-[^14]: अथातो धर्मं व्याख्यास्यामः। यतोभ्युदयनिःश्रेयससिद्धिः स धर्मः। वैशेषिकसूत्र.
+[^14]: अथातो धर्मं व्याख्यास्यामः । यतोऽभ्युदयनिःश्रेयससिद्धिः स धर्मः । वैशेषिकसूत्र.
 
 [^14a]: मनु II. 1. विद्वद्भिः सेवितः सद्भिः...निबोधत ।
 
-[^15]: अथातो धर्मं व्याख्यास्यामः। श्रुतिप्रमाणको धर्मः । श्रुतिश्च द्विविधा वैदिकी तान्त्रिकी च । quoted by कुल्लूक on मनु 2. 1.
+[^15]: अथातो धर्मं व्याख्यास्यामः । श्रुतिप्रमाणको धर्मः । श्रुतिश्च द्विविधा वैदिकी तान्त्रिकी च । quoted by कुल्लूक on मनु 2. 1.
 
 [^16]:
     _Vide_ Dr. Stcherbatsky's monograph 'the central conception of Buddhism' (1923) p. 73. and 'dharmas of the Buddhist' in I. H. Q. Vol. X. (1924) pp. 737-760 (at pp. 740 ff) by the same author. Vide 'Buddhist conception of dharma' by Prof. P. T. Raju in ABORI Vol. XXI pp. 192-202; "Essentials of Buddhist Philosophy" by Prof. J. Takakusu (1956) particularly pp. 106-111; also Dr. E. Conze's 'Buddhist thought in India' (1962) pp. 92-103 for the different meanings of "Dharma and Dharmas" (elements of existence) in Buddhist works.

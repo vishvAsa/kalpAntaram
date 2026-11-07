@@ -78,7 +78,7 @@ The Vivādatāṇḍava was published in “Our Heritage” Vol. VII part 2 pp. 
     अपरार्क, कल्पतरु, गोविन्दराज, जीमूतवाहन, दिव्यतत्त्व (of गौड i. e. रघुनन्दन), भोज, मनुटीका, माधवीय, रत्नाकर, विश्वरूप, शिरोमणि, शिरोमणिभट्टाचार्य.
 
 [^1433]:
-    Vide I. L. R. 33 Bom. 452 at p. 459, I. L. R. 9 Cal. 315 at p. 324, I. L. R. 30 Cal. 319 at p. 331 for references to विवादताण्डव.
+    Vide I. L. R. 33 Bom. 452 at p. 459, I. L. R. 9 Cal. 315 at p. 324, I. L. R. 39 Cal. 319 at p. 331 for references to विवादताण्डव.
 
 [[P930]]
 

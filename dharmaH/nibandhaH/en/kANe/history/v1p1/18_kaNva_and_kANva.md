@@ -17,6 +17,7 @@ Maskarin on Gaut. Dh. S. frequently quotes passages from Kaṇva ( in prose and 
 
 kāmya, vṛddhiśrāddha and pārvaṇa ), XI. 18 ( verse viz. pūrvajanmakṛtam karma daivamityabhidhīyate ), XV. 17 ( verse ), XVII. I ( verse on Strīdhana ), XV. 3 ( three verses on prāyaścitta ).
 
-[^252]: अध्वरे वेदेतिहासपुराणानीति ध्यायन् ब्राह्मण तीर्थेनौष्ठयोः सलोमदेशमुन्मृजेत् ।
+[^252]: अध्वरे वेदेतिहासपुराणानीति ध्यायन् ब्राह्मेण तीर्थेनौष्ठयोः सलोमदेशमुन्मृजेत् ।
 
-[^253]: The verse is : संवत्सरेण पतति पतितेन समाचरन् । मानाशनासनैर्नित्यमिहादुःखाद्वादिनः ॥ on गौ. 21. 3 
+[^253]: The verse is : संवत्सरेण पतति पतितेन समाचरन् । यानाशनासनैर्नित्यमित्याहुर्ब्रह्मवादिनः ॥ on गौ. 21. 3
+ 

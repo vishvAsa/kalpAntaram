@@ -38,17 +38,9 @@ It was as follows :—the four stages of a law-suit, proof ( kriyā, human of th
 
 Bṛhaspati was probably the first jurist to make a clear distinction between civil and criminal justice.[^535] He divided the eighteen titles into two groups, those springing from wealth ( 14 titles ) and those springing from injury to beings ( 4 titles ). This distinction was probably dimly perceived by even Gautama, when he says that in disputes based on injury there is no hard and fast rule about witnesses ( i. e. about their interest in the subject of dispute ).[^536] [[Bihaspati|Bṛhaspati]], like Nārada lays down the rule that a legal decision should not be arrived at merely on the basis of śāstra and that when a decision is devoid of reasoning, there is loss of dharma, for even a good man may be held to be a bad one or what is good may be held to be sinful [[iv|in]] a judicial proceeding, just as Māṇḍavya was held to be a thief on a decision without thoughtful reasoning.[^537] 
 
-[^535]: तदाह बृहस्पतिः । द्विपदो व्यवहारश्च धनहिंसासमुद्भवः । द्विसप्तधार्थमूलश्च हिंसा 
+[^535]: तदाह बृहस्पतिः । द्विपदो व्यवहारश्च धनहिंसासमुद्भवः । द्विसप्तधार्थमूलश्च हिंसामूलश्चतुर्विधः ॥ व्यवहारमातृका of जीमूत० p. 277 ; vide also स्मृतिच० ( व्य. p. 9 ) 'पारुष्ये द्वे वधश्चैव परस्त्रीसंग्रहस्तथा । हिंसोद्भवानि चत्वारि पदान्याह बृहस्पतिः'.
 
-मूलश्चतुर्विधः ॥ व्यवहारमातृका of जीमूत. p. 277; vide also स्मृतिच० ( व्य. p. 9 ) '[[पारुण्ये|पारुष्ये]] द्वे वधश्चैव परस्त्रीसंग्रहस्तथा । हिंसोद्भवानि चत्वारि
-
-पदान्याह बृहस्पतिः'.
-
-[^536]: न पीडाकृते निबन्धः । गौ. ध. सू. 13.9 on which हरदत्त says 'पीडाकरणे
-
-हिंसाविषये । साक्षिणां निबन्धो न निरूप्यः । [[अथेसंबन्धादि|अर्थसंबन्धादि]] न किंचिदपि दूषणं
-
-भवति ।'
+[^536]: न पीडाकृते निबन्धः । गौ. ध. सू. 13.9 on which हरदत्त says 'पीडाकरणे हिंसाविषये । साक्षिणां निबन्धो न निरूप्यः । अर्थसम्बन्धादि न किंचिदपि दूषणं भवति ।'
 
 [^537]: केवलं शास्त्रमाश्रित्य न कर्तव्यो हि निर्णयः । युक्तिहीने विचारे तु धर्महानिः प्रजायते ॥ चौरोऽचोरो साध्वसाधु जायेत व्यवहारतः । युक्तिं विना विचारेण माण्डव्यश्चौरतां गतः ॥ quoted by अपरार्क on याज्ञ. II. 1 ; compare नारद ( व्यवहारमातृका chap. 1. 42 ) : यात्यचौरोपि चोरत्वं चौरश्चायात्यचौरतामा अचौरश्चौरता प्राप्तो माण्डव्यो व्यवहारतः ॥ For the story of माण्डव्य who kept silent, vide Ādiparva 107. The story of Māṇḍavya occurs also in Ādiparva 63. 92–93 and is also mentioned in the Arthaśāstra of Kauṭilya, IV. 8. 12. The story in the epic differs from that stated in Arthaśāstra which says: दृश्यते ह्यचोरोपि चोरमार्गे यदृच्छया संनिपाते चोरवेषशस्त्रभाण्डसामान्येन गृह्यमाणः चोरभाण्डस्थोपवासेन वा, यथाणिमाण्डव्यः कर्मक्लेशभयादचोरः ‘चोरोस्मि’ इति ब्रुवाणः । In the epic, there is no mention of the fear of torture as in the Kauṭilīya. ‘Aṇi’ means ‘śūlāgra’. The Ādiparva ( 63. 92 ) has शूले प्रोतः पुराणर्षिश्चौरश्चौरशङ्कया । अणीमाण्डव्य इत्येवं विख्यातः स महायशाः ॥ . Ādiparva 107 gives further details. Thieves kept booty in his dwelling and concealed themselves. The king's officers asked him what way the thieves went. Māṇḍavya remained silent and the king's officers found out the thieves and the booty. So the officers reported the thieves and the sage and the king ordered that all be killed and so Māṇḍavya was impaled. The story of Māṇḍavya is again referred to in Anuśāsanaparva 18. 46-50.
 
@@ -92,33 +84,15 @@ cited in a few cases as referring to his own views in the third person[^546] ; s
 
 The Smṛticandrikā quotes about seventy verses of [[Bṛbas pati|Bṛhaspati]] in the Āhnika portion and about forty on Śrāddha. In the later works like the Parāśara-Mādhavīya, the [[Nirnaye. sindhu|Nirṇayasindhu]] and [[Sarnskara-Kaustubha|Saṁskāra-Kaustubha]], the number of verses [[quot ed|quoted]] from Bṛhaspati is much larger than even those quoted by the Smṛticandrikā. Those verses are quoted on such [[sams karas|saṁskāras]] as [[pumsa.vana|puṁsavana]], nāmakaraṇa, caula, [[upanayana. vivaha.|upanayana, vivāha]] and also [[ou|on]] āśauca and purification of dravyas. Even the Mitākṣarā quotes several verses of [[Bphaspati|Bṛhaspati]] on matters 
 
-" 
+[^546]: ताडनं बन्धनं चैव तथैव च विडम्बकम् । एष दण्डो हि शूद्रस्य नार्थदण्डो बृहस्पतिः ॥ परा. मा. III. 1. p. 212 ; स्मृतिच० .
 
-" 
+[^547]: एष दण्डः समाख्यातः पुरुषापेक्षया मया । quoted by अपरार्क on याज्ञ. II. 211.
 
-[^546]: ताडनं बन्धनं चैव तथैव च [[विडनकम्|विडम्बकम्]] । एष दण्डो हि शूद्रस्य नार्थदण्डो
+[^548]: उदुह्यते दाक्षिणात्यैर्मातुलस्य सुता द्विजैः । मध्यदेशे कर्मकराः शिल्पिनश्च गवाशिनः ॥ मत्स्यादाश्च नराः पूर्वे व्यभिचाररताः स्त्रियः । उत्तरे मद्यपा नार्य, स्पृश्या नृणां रजस्वलाः स्मृतिचंद्रिका ( आह्निक p. 10, Gharpure ), व्यवहारनिर्णय p. 16 वीर. p. 29, व्य. म. &c.
 
-बृहस्पतिः ॥ परा. मा. III. 1. p. 212 ; स्मृति [[१०|च०]].
+[^549]: यज्ञे संपूज्यते विष्णुर्व्यवहारे महीपतिः । जयी तु यजमानोत्र जितः पशुरुदाहृतः ॥ पूर्वपक्षोत्तरावाद्यं प्रतिज्ञा च हविः स्मृता । त्रयो शास्त्राणि सभ्यास्तु ऋत्विजो दक्षिणादने ॥ quoted in व्य. मा. p. 284.
 
-[^547]: एष दण्डः समाख्यातः पुरुषापेक्षया मया । quoted by अपरार्क on याश. 
-
-II. 211.
-
-[^548]: उदुह्यते दाक्षिणात्यैर्मातुलस्य सुता द्विजैः । मध्यदेशे कर्मकराः शिल्पिनश्च 
-
-गवाशिनः ॥ मत्स्यादाश्च नराः पूर्वे व्यभिचाररताः स्त्रियः । उत्तरे मद्यपा नार्य, स्पृश्या नृणां रजस्वलाः स्मृतिचंद्रिका (आह्निक p. 10, Gharpure ), 
-
-व्यवहारनिर्णय p. 16 वीर. p. 29, व्य. म. &c.
-
-[^549]: यज्ञे संपूज्यते विष्णुर्व्यवहारे महीपतिः । जयी तु यजमानोत्र जितः पशुरुदाहृतः ॥ 
-
-पूर्वपक्षोत्तरावाद्यं प्रतिज्ञा च हविः स्मृता । त्रयो शास्त्राणि सभ्यास्तु ऋत्विजो
-
-दक्षिणादने ॥ quoted in व्य. मा. p. 284.
-
-[^550]: [[8. g.|e. g.]] विप्रो धर्मद्रुमस्यादिः स्कन्दशाखे महीपतिः । सचिवाः पत्रपुष्पाणि फळ 
-
-न्यायेन पालनम् ॥ यशो वित्तं फलरसो भौगोपग्रहपूजनम् । अजेयत्वं लोकसंक्तिः खर्गे स्थानं च शाश्वतम् ॥ वीर० p. 14. Compare नारद (व्य. मा. [[in for the second v|I. 23 for the second verse ).]] 
+[^550]: e. g. विप्रो धर्मद्रुमस्यादिः स्कन्दशाखे महीपतिः । सचिवाः पत्रपुष्पाणि फलं न्यायेन पालनम् ॥ यशो वित्तं फलरसो भोगोपग्रहपूजनम् । अजेयत्वं लोकपंक्तिः स्वर्गे स्थानं च शाश्वतम् ॥ वीर० p. 14. Compare नारद ( व्य. मा. I. 33 for the second verse ). 
 
 [[P490]]
 

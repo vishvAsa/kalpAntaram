@@ -6,7 +6,7 @@ short_title = "27 Bharadvāja and"
 
 [[P291]] 
 
-observance of Sandhyā and the kindling of fire[[;38?|;[^287]]] on Yāj. [[1.|I.]] 32 Bhāradvāja is quoted as prescribing a penance for even thinking of causing harm to beings[[; 388|;[^288]]] on Yāj. I. 185 a lengthy sūtra of Bharadvāja on the purification of certain things is quoted, wherein is cited the view of [[soine|some]] that boys are purified by a mere bath when touched by *antyajas*[[; 289|;[^289]]] on Yāj I. 236 [[&|a]] prose passage of Bharadvāja forbids in śrāddhas the use of certain cereals as food[[. 200|.[^290]]] Aparārka quotes a long prose passage (p. 1155) from Bharadvāja in connection with the prāyaścitta for [[cessiou|cession]] of [[gļhya|gṛhya]] fires for various periods. 
+observance of Sandhyā and the kindling of fire;[^287] on Yāj. I. 32 Bhāradvāja is quoted as prescribing a penance for even thinking of causing harm to beings;[^288] on Yāj. I. 185 a lengthy sūtra of Bharadvāja on the purification of certain things is quoted, wherein is cited the view of some that boys are purified by a mere bath when touched by *antyajas*;[^289] on Yāj I. 236 a prose passage of Bharadvāja forbids in śrāddhas the use of certain cereals as food.[^290] Aparārka quotes a long prose passage (p. 1155) from Bharadvāja in connection with the prāyaścitta for cession of gṛhya fires for various periods. 
 
 [['|]]In the Smṛticandrikā, in Haradatta and in several other works verses of Bhāradvāja are quoted, which appear to be taken from a smṛti in verse. 
 
@@ -14,7 +14,7 @@ That Bhāradvāja was an ancient writer [[op|on]] [[arthaśāstre|arthaśāstra]
 
 [^287]: तथा च भारद्वाजः—'न म्लेच्छितवै नापभाषितवै । म्लेच्छो ह वा एष यदपशब्द इति विज्ञायते । तस्माच्छिष्यमुपनीय साधुशब्दाञ् शिक्षयेत् सन्ध्योपासनाग्नीन्धनानि ।
 
-[^288]: तथा च भारद्वाजः—'मनसा प्राणिहिंसायां निर्वृद्धामावर्तयेत्' इति ।
+[^288]: तथा च भारद्वाजः—'मनसा प्राणिहिंसायां त्रिर्द्रुपदामावर्तयेत्' इति ।
 
 [^289]: यत्तु भारद्वाजः—'न शौचं शयनासनकटप्रस्तरयानप्रस्तरगण्डोपधानकशिपुकम्बलकगृहधान्यमणिफलकशिलासहस्रोपामनिखातानां च काष्ठानां तृणपलालदाम्नां कुमाराणामन्यत्र प्रोक्षणादन्यस्पर्शने स्नानं कुमाराणामेके' इति ।
 

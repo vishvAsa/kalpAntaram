@@ -21,7 +21,7 @@ In several [[M88.|Mss.]] of the [[bhūsyu|bhāṣya]] at the end of several adhy
 
 Dr. Jolly ( Tagore Law Lectures p. 6 ) holds Medhātithi to be a southerner on account of the fact that his father's name was [[Virasvainin|Vīrasvāmin]] and on account of the attention paid to his [[blāsya|bhāṣya]] by southern writers. It cannot be said that names ending in 'svāmin' were a monopoly of the south. The [[Rājatara rigiṇi|Rājataraṅgiṇī]] gives literary celebrities whose names ended in [[‘svārniu’|‘svāmin’]] ( e. g. V. 34 mentions a Śivasvāmī ). [[Kśīrasvāmin|Kṣīrasvāmin]] was a Kashmirian. The south has always been famed for preserving Mss. of valuable works from the north. [[M88.|Mss.]] of the Kāvyālaṃkāra of [[Bhimaha|Bhāmaha]], a [[Kāshmiriau|Kāshmirian]], are very rare and have been found only in the south. Būhler ( p. [[CXX III|CXXIII]] ) 
 
-[^752]: मान्या कापि मनुस्मृतिस्तदुचिता व्याख्या हि मेधातिथेः सा लुप्तैव विधेर्वशात् क्वचिदपि प्राप्यं न यत्पुस्तकम् । क्षोणीन्द्रो मदनः सहारणसुतो देशान्तरादाहृतैः जीर्णोद्धारमचीकरत् तत इतस्तत्पुस्तकैर्लिखितैः ॥ सहारण is a Prākrit for साधारण.
+[^752]: मान्या कापि मनुस्मृतिस्तदुचिता व्याख्या हि मेधातिथेः सा लुप्तैव विधेर्वशात् क्वचिदपि प्राप्यं न यत्पुस्तकम् । क्षोणीन्द्रो मदनः सहारणसुतो देशान्तरादाहृतैर्जीर्णोद्धारमचीकरत्तत इतस्तत्पुस्तकैर्लिखितैः ॥ सहारण is a Prakrit form of साधारण.
 
 [[P575]]
 
@@ -67,9 +67,9 @@ Medhātithi had drunk deep at the fountain of the [[Parva mimāṁsā|Pūrvamīm
 
 [^757]: अन्तराभवदेहस्तु निषिद्धो विन्ध्यवासिना । श्लोकवार्तिक p. 704.
 
-[^758]: उक्तं च वाक्यप्रदीपे - न तदस्ति च तन्नाम्नि इत्यादि । Dr. Kielhorn told Dr. Būhler that the verse is not found in the वाक्यप्रदीप ( S. B. E. vol. 25, CXXIII. n. 1 ).
+[^758]: उक्तं च वाक्यप्रदीपे—न तदस्ति च तन्नाम्नि इत्यादि । Dr. Kielhorn told Dr. Bühler that the verse is not found in the वाक्यप्रदीप ( S. B. E. vol. 25, CXXIII. n. 1 ).
 
-[^759]: एवं सर्व एव बाह्या भोजकपाश्चरात्रिकनिर्ग्रन्था नार्थवादपाशुपतप्रभृतयः ।
+[^759]: एवं सर्व एव बाह्या भोजकपाञ्चरात्रिकनिर्ग्रन्था नार्थवादपाशुपतप्रभृतयः ।
 
 Medhātithi mentions several nyāyas for explaining the Manusmṛti. On II. 29 he extends the Mīmāṃsānyāya ( [[sarva śākhāpratyayam-ekam karma'|sarvaśākhāpratyayam-ekaṃ karma']] P. M. S. II. 4. 8-33 which applies to Vedic passages ) to Smṛtis also and states that where the smṛtis differ, there is either an option or all [[pro visions|provisions]] of the Smṛtis on a certain point are to be added up ; vide H. of Dh. Vol. V. p. 1350 for this nyāya. On Manu II. 101 he mentions the nyāya [[‘Gunalope|'Guṇalope]] ca mukhyasya' for an explanation of which, vide H. of Dh. Vol. V. p. 1343 ( where it is shown that it is based on P. M. S. X. 2. 63 ). On Manu II. 102 he quotes the verse [[‘arke|'arke]] cet madhu vindeta kimartham parvatam vrajet' ( quoted by Śabara on I. 2. 4 ). Vide H. Dh. Vol. V. p. 1340 for references. On Manu X. 127 [[Medbātithi|Medhātithi]] relies on ‘Yāvad-vacanam ‘vācanikam’, for which vide H. Dh. V. p. 1348. Another nyāya that M. mentions is [[nimittāvṣ. ttau naimittikāvșttiḥ'|nimittāvṛttau naimittikāvṛttiḥ']] on Manu [[X1.|XI.]] 220, which is explained in H. of Dh. Vol. V. p. 1345.
 
@@ -87,7 +87,7 @@ Būhler at first took the remark on Manu XII. 19 ) about [[Sārīraka'|‘Śār�
 
 [^763]: On I. 50 he says ' परब्रह्मावाप्तिस्तु मोक्षलक्षणा केवलानन्दरूपा ज्ञानात् ज्ञानकर्मसमुच्चयाद्वेति वक्ष्यामः । ' ; on मनु VI. 74-75 ' इदं तु ज्ञानकर्मणोः समुच्चयान्मोक्ष इति श्लोकद्वयं ज्ञापकम् । '; on XII. 87 अतश्च ब्रह्मनिष्ठा परेणापि वेदाभ्यासादीन्यनुष्ठेयानि ।
 
-[^764]: मेधातिथिस्तु कर्ममीमांसावासनया वेदस्य कार्यमेव तत्त्वरूपोर्थस्तं वेत्तीति कार्यः तत्त्वार्थविदिति व्याचष्टे ।
+[^764]: मेधातिथिस्तु कर्ममीमांसावासनया वेदस्य कार्यमेव तत्त्वरूपोर्थस्तं वेत्तीति कार्यतत्त्वार्थविदिति व्याचष्टे ।
 
 [[P579]]
 
@@ -101,7 +101,7 @@ VIII. 53 ). On VIII. 182-183 he [[notes?05|notes[^765]]] that the order of the v
 
 One remarkable fact about Medhātithi may be [[mentionell|mentioned]] here. [[Vijñānesvara|Vijñāneśvara]] flourished about two hundred years after Medhātithi and names 80 Smṛtis and Smṛtikāras. [[Yajna valkya (1. 4-5)|Yājñavalkya ( I. 4-5 )]] names twenty authors that propounded Dharma. Viśvarūpa ( commentator of Yāj. ), who flourished a little earlier than ( or [[might he|might be]] at the most a contemporary of Medhātithi ) names 30 Dharmaśāstra authors. But [[Medha tithi|Medhātithi]], who wrote an extensive [[bhāsyu|bhāṣya]] on Manu, speaks in general of Kalpasūtrakāras ( on III. 5 ), of [[Grhyasmrtis|Gṛhyasmṛtis]] ( on II. 29 ) and [[Grlıyakaras|Gṛhyakāras]] ( on III. 45 ), names ( besides 
 
-[^765]: The verses are : यो निक्षेपं याच्यमानः &c. and साक्ष्यभावे &c. मेधातिथि says on the first व्यत्यस्तक्रमोयं श्लोकः समाम्नाये पठ्यते । प्रथमस्यार्थश्लोके पठित्वा साक्ष्यभाव इति पठितव्यम् । ततः स याच्य इति । एवं पाठो युक्तः
+[^765]: The verses are : यो निक्षेपं याच्यमानः &c. and साक्ष्यभावे &c. मेधातिथि says on the first व्यत्यस्तक्रमोयं श्लोकः समाम्नाये पठ्यते । प्रथमस्यार्धश्लोकं पठित्वा साक्ष्यभाव इति पठितव्यम् । ततः स याच्य इति । एवं पाठो युक्तः
 
 [^766]: केचिदाहुरमानवोयं श्लोकः ।
 

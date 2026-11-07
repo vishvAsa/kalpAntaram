@@ -13,23 +13,11 @@ The [[Mabu bhārata|Mahābhārata]] itself claims [[(in|( in]] Ādiparva, 2. 83 
 
 Kāmaśāstra.[^368] In the last [[parvan|_parvan_]] it claims that whatever is said in it would be found elsewhere and what is not [[con tained|contained]] in it would not be found anywhere else i.e. it claims to be encyclopoedic and hence there was a great incentive to later scholars to add to it fresh matter. In the [[Udyoga parva|Udyogaparva]] [[(130. 18 )|(130.18)]] and in [[Ādi,|Ādi.]] [[62. 20|62.20]] the Mahābhārata is spoken of as Jaya (jayo nāmetihāsoyam śrotavyo vijigīṣuṇā ) and in the last [[pwrvan|_parvan_]] [[( 5.51 )|(5.51)]] the epic is also called [[sumlitā|saṃhitā]] [[(1. 16, 63. 90)|(1.16, 63.90)]], [[Purina|Purāṇa]] [[( 1. 17)|(1.17)]], [[akhyina|ākhyāna]] [[(2. 388-389 )|(2.388-389)]], [[itihisa|itihāsa]] [[( 1. 19 and 26 and 2.36, 41 and 62. 18)|(1.19 and 26 and 2.36, 41 and 62.18)]], [[itihisottama|itihāsottama]] (in 2.385), Kāvya [[(1. 61 and 73, 2. 390 )|(1.61 and 73, 2.390)]], Kārṣṇaveda [[( 1. 268 and 62. 18)|(1.268 and 62.18)]]. It further states [[( Ādi. 1. 52 )|(Ādi. 1.52)]] that different beginnings of the epic existed. In the last [[parvan|_parvan_]] [[( svargarohana )|(svargārohaṇa)]] it states that the epic is so called because of its greatness[^369] [[( great extent)|(great extent)]] and the weightiness [[(of its contents )|(of its contents)]] and that the epic is equal [[(in importance )|(in importance)]] to the 18 Purāṇas, all the [[Dharma Śāstras|Dharmaśāstras]] and the Vedas with their subsidiary lores (chap. 5 [[45-46 ).|45-46).]] Ādi (1.81) [[states 310|states[^370]]] that there are 8800 [[ślokus|ślokas]] in the whole work, the import of which only [[Vyūsu|Vyāsa]] and Śuka know and Sañjaya might know or not.[^371] It is further stated that 
 
-[^368]: अर्थशास्त्रमिदं [[प्रोकं|प्रोक्तं]] धर्मशास्त्रमिदं महत् । कामशास्त्रमिदं प्रोक्तं व्यासेनामित 
+[^368]: अर्थशास्त्रमिदं प्रोक्तं धर्मशास्त्रमिदं महत् । कामशास्त्रमिदं प्रोक्तं व्यासेनामितबुद्धिना ॥ आदि 2. 83 and 62. 23 ; आचख्युः कवयः केचित्संप्रत्याचक्षते परे । आख्यास्यन्ति तथैवान्ये इतिहासमिमं भुवि ॥ आदि 1. 26 ; धर्मे चार्थे च कामे च मोक्षे च भरतर्षभ । यदिहास्ति तदन्यत्र यन्नेहास्ति न कुत्रचित् ॥ स्वर्गा० ; मन्वादि भारतं केचिदास्तीकादि तथापरे । तथोपरिचराद्यन्ये विप्राः सम्यगधीयते ॥ आदि 1. 52.
 
-बुद्धिना ॥ आदि 2.83 and 62.23 ; आचख्युः कवयः केचित्संप्रत्याचक्षते परे । आख्यास्यन्ति तथैवान्ये इतिहासमिमं भुवि ॥ आदि 1.26 ; धर्मे चार्थे च कामे च मोक्षे च भरतर्षभ । यदिहास्ति तदन्यत्र [[यनेहास्ति|यन्नेहास्ति]] न कुत्रचित् ॥ स्वर्गा०; मन्वादि भारत केचिदास्तीकादि तथापरे । तथोपरिचराद्यन्ये विप्राः 
+[^369]: महत्त्वाद्भारवत्त्वाच्च महाभारतमुच्यते । निरुक्तमस्य यो वेद सर्वपापैः प्रमुच्यते ॥ अष्टादश पुराणानि धर्मशास्त्राणि सर्वशः । वेदाः साङ्गास्तथैकत्र भारतं चैकतः स्थितम् ॥ स्वर्गारोहण० 5. 45-46 ; the words महत्त्वा .... मुच्यते occur in आदि also (1. 274).
 
-सम्यगधीयते ॥ आदि 1.52.
-
-[^369]: महत्त्वाद्भारवत्त्वाच्च [[महाभारतमच्यते|महाभारतमुच्यते]] । निरुक्तमस्य यो वेद सर्वपापैः प्रमुच्यते ॥ 
-
-अष्टादश पुराणानि धर्मशास्त्राणि सर्वशः । वेदाः साङ्गास्तथैकत्र भारतं चैकतः स्थितम् [[॥स्वर्गारोहण०|॥ स्वर्गारोहण०]] 5.[[ 45-46|45-46]] ; the words महत्त्वा .... मुच्यते occur in 
-
-आदि also (1.274).
-
-[^370]: अष्टौ श्लोकसहस्राणि अष्टौ श्लोकशतानि च । अहं वेद्मि शुको वेत्ति सञ्जयो वेत्ति 
-
-वा न वा ॥ इदं शतसहस्रं तु लोकानां पुण्यकर्मणाम् । उपाख्यानैः सह ज्ञेयमाद्यं भारतमुत्तमम् ॥ चतुर्विंशतिसाहस्री चक्रे भारतसंहिताम् ॥ उपाख्यानैर्विना 
-
-तावद्भारतं प्रोच्यते बुधैः ॥ आदि 1.81, 102-103.
+[^370]: अष्टौ श्लोकसहस्राणि अष्टौ श्लोकशतानि च । अहं वेद्मि शुको वेत्ति सञ्जयो वेत्ति वा न वा ॥ इदं शतसहस्रं तु लोकानां पुण्यकर्मणाम् । उपाख्यानैः सह ज्ञेयमाद्यं भारतमुत्तमम् ॥ चतुर्विंशतिसाहस्रीं चक्रे भारतसंहिताम् ॥ उपाख्यानैर्विना तावद्भारतं प्रोच्यते बुधैः ॥ आदि 1. 81, 102-103.
 
 [^371]: These 8800 verses are known as kūṭa (riddles). But the number 8800 is extremely exaggerated. If the figure were correct it would mean that in the Mahābhārata one verse in twelve was a riddle. Vaidya in his work 'Mahābhārata, a criticism' p. 207 gives examples of Kūṭa verses in Appendix, Note III pp. 190-193. One of these may be quoted here from the Udyogaparva ; 'ekayā dve viniścitya trīn caturbhir vaśaṃ kuru । pañca jitvā ṣaḍ-viditvā sapta hitvā sukhī bhava ‖ Udyogaparva 33.44. Most of these seven have two meanings, one relating to Rājanīti, the other relating to 'adhyātma', briefly as follows: ekayā...buddhyā (by one's intellect); dve means kārya (what should be done) and akārya (in Rājanīti) and nitya (permanent) and anitya (evanescent) (in adhyātma); trīn (three) viz. mitra (friend), udāsīna (neutral), śatru (enemy); or 'Kāma' (desires), Krodha (anger), Lobha (greed); caturbhiḥ (four) viz. sāma, dāma, bheda and daṇḍa (in Rājanīti) and śama, dama, uparama, śraddhā (in adhyātma); pañca (the five organs of sense, in both rājanīti and adhyātma); ṣaḍ (six) viz. sandhi and others enumerated in Manu VII. 160 and in Vedānta 'aśanāyā, pipāsā, śoka, moha, jarā, mṛtyu'; sapta (seven) viz. vyasanas—women, gambling, hunting, drinking, vākpāruṣya, daṇḍapāruṣya and arthadūṣaṇa (in Rāja°) and the five senses plus mind and buddhi in adhyātma. For the last, compare Maitrāyaṇī Upaniṣad VI. 30 (Yadā pañcāvatiṣṭhante jñānāni manasā saha । Buddhiśca na viceṣṭate tāmāhuḥ paramāṃ gatim ||).
 
@@ -116,17 +104,11 @@ Before proceeding further it must first be emphasized that the Mahābhārata cla
 
 The words Gāthā and Śloka occur in the Ṛgveda. Gāthā ( derived from the root ‘ gai ’ to sing ) means a song or verse. Vide Ṛg. VIII. 32. 1, VIII. 71. 14, VIII. 98. 9, X. 99. 4, IX. 85. 6 for gāthā. The word Śloka occurs more frequently in the Ṛgveda than the word gāthā and means a verse. In the Mahābhārata Gāthās sung by the Pitṛs ( Anuśāsana, 88. 11-14 ), by Yama ( Anu. 45. 17 and 104. 72 ) or by Janaka ( Śānti 17. 18-20 ), by Kāśyapa ( about kṣamā, Vanaparva 29. 35-44 ), Gāthā about Paurava in Droṇa ( 57. 11 ) and about Bhagīratha ( in Droṇa 60. 8 ), of Yayāti ( in Śānti 26. 13 and in Droṇa 63. 8-9 ), gāthās sung by Ambarīṣa and by Alarka ( in Āśvamedhika 31. 12ff and 30. 30-31 respectively ), by Bṛhaspati ( Śānti 23. 14-15 ), by Brahman ( Śānti 136, about king's treasury ), gāthās sung by Uśanas on distrust ( Śānti 138. 192 ) and many more occur. Ślokas also are quoted with the words Ślokau cātra bhavataḥ ( Vanaparva 192. 27-29 ) or ‘bhavanti cātra ślokāḥ’ as in Vana-[[P358]]parva ( 199. 13-15 );
 
-[^377]: ( 1 ) स्मरन्ति च । वे. सू. II. 3. 47 ; शंकराचार्य remarks : स्मरन्ति च व्यासादयो यथा जैवेन दुःखेन न परमात्मा दुःखायत इति । ... परमात्मा...स सप्तदशकेनापि राशिना युज्यते पुनः ॥ These verses are Śānti- 351. 14-16 ; no other smṛti passages are quoted by him on this sūtra and also on the next sūtra quoted here. ( 2 ) अपि च संराधने प्रत्यक्षानुमानाभ्याम् । वे. सू. III. 2. 24 ; शंकराचार्य explains ‘ प्रत्यक्षानुमानाभ्याम् श्रुतिस्मृतिभ्यामित्यर्थः ’ and quotes a verse and a half ; the first occurs in Śānti 47. 54 and also in 284. 69 ; ( 3 ) स्मर्यते च । वे. सू. IV. 2. 14 शङ्कराचार्य explains : स्मर्यतेपि च महाभारते गत्युत्क्रान्त्योरभावः—सर्वभूतात्मभूतस्य सम्यग्भूतानि पश्यतः । देवा अपि मार्गे मुह्यन्त्यपदस्य पदैषिणः ॥ इति...तथा च त तत्रैवोपसंहृतम् । शुकस्तु मारुच्छीघ्रां गतिं कृत्वान्तरिक्षगः । दर्शयित्वा प्रभावं स्वं सर्वभूतगतोऽभवत् ॥ इति । The verses are Śāntiparva 262. 32 ( and also 269. 22 and 333. 19-20 ).
+[^377]: ( 1 ) स्मरन्ति च । वे. सू. II. 3. 47 ; शंकराचार्य remarks : स्मरन्ति च व्यासादयो यथा जैवेन दुःखेन न परमात्मा दुःखायत इति । तत्र परमात्मा...स सप्तदशकेनापि राशिना युज्यते पुनः ॥ These verses are Śānti 351. 14-16 ; no other smṛti passages are quoted by him on this sūtra and also on the next sūtra quoted here. ( 2 ) अपि च संराधने प्रत्यक्षानुमानाभ्याम् । वे. सू. III. 2. 24 ; शंकराचार्य explains ' प्रत्यक्षानुमानाभ्यां श्रुतिस्मृतिभ्यामित्यर्थः ' and quotes a verse and a half ; the first occurs in Śānti 47. 54 and also in 284. 69 ; ( 3 ) स्मर्यते च । वे. सू. IV. 2. 14 शंकराचार्य explains : स्मर्यतेपि च महाभारते गत्युत्क्रान्त्योरभावः-सर्वभूतात्मभूतस्य सम्यग्भूतानि पश्यतः । देवा अपि मार्गे मुह्यन्त्यपदस्य पदैषिणः ॥ इति...तथा च त तत्रैवोपसंहृतम् । शुकस्तु मारुच्छीघ्रां गतिं कृत्वान्तरिक्षगः । दर्शयित्वा प्रभावं स्वं सर्वभूतगतोऽभवत् ॥ इति । The verses are Śāntiparva 262. 32 ( and also 269. 22 and 333. 19-20 ).
 
-[^378]: न ते वागनृता काव्ये काचिदत्र भविष्यति । तस्य बुद्धिरियं जाता वाल्मीकेर्भावितात्मनः । कृत्स्नं रामायणं काव्यमीदृशैः करवाण्यहम्...समाक्षरैः श्लोकशतैर्यशस्विनो यशस्करं काव्यमुदारधीर्मुनिः ॥ बालकाण्ड 2. 35, 41 ; आदिकाव्यमिदं त्वार्षं पुरा वाल्मीकिना कृतम् । युद्धकाण्ड 131. 107 ; कविः कुशलवौ चकार किल नामतः । ... स्वकृतिं गापयामास कविप्रथमपद्धतिम्... कवेरार्षस्य शासनात् । रघुवंश 15. 32, 33, 41. Ślokas by one who ponders over dharma as in Sauptika [[( 1.53-55).|( I.53-55 ).]] Then many ślokas and gāthās are quoted as [[Anuvassa|Ānuvaṃśa]] or simply as [[Anuvassam|Anuvaṃśam]] [[(meaning|( meaning]] genealogies handed down in families ) e. g. Vanaparva 129. 8 [[says'atrānuvamsam pathatah śruṇu me kurunandana'|says ‘atrānuvaṃśam paṭhataḥ śṛṇu me kurunandana ’]] and then quotes two verses. For [[‘ Anuvamsam,'|‘ Anuvaṃśam, ’]] vide also [[Vana parva|Vana- parva]] 87. 16-17 [[(yatrānuvainsam|( yatrānuvaṃśam]] bhagavān [[Jāmadagnyag|Jāmadagnyas-]] tathā [[jagau).|jagau ).]] For Ānuvaṃśa ślokas, vide Ādiparva 95. [[95.8|95. 8]] ( for [[song878|sons[^379]]] of Devayānī and Śarmiṣṭhā ). 
+[^378]: न ते वागनृता काव्ये काचिदत्र भविष्यति । तस्य बुद्धिरियं जाता वाल्मीकेर्भावितात्मनः । कृत्स्नं रामायणं काव्यमीदृशैः करवाण्यहम्...समाक्षरैः श्लोकशतैर्यशस्विनो यशस्करं काव्यमुदारधीर्मुनिः ॥ बालकाण्ड 2. 35, 41 ; आदिकाव्यमिदं त्वार्षं पुरा वाल्मीकिना कृतम् । युद्धकाण्ड 131. 107 ; कविः कुशलवौ तौ चकार किल नामतः । ... स्वकृतिं गापयामास कविप्रथमपद्धतिम् कवेराद्यस्य शासनात् । रघुवंश 15. 32, 33, 41.
 
-For other [[Anuvamsa Ślokas, vide Ādi.|Ānuvaṃśa Ślokas, vide Ādi.]] 95. 27, 95. 30-31, 95.46 ( about Śantanu ). In [[Vana parva 88.5|Vanaparva 88. 5]] there is an [[anu vaṁsya|ānu- vaṃśya]] gāthā about [[Nrga.|Nṛga.]] Sometimes, even itihāsa is spoken of as sung i.e. recited [[(gīta ).|( gīta ).]] The word itihāsa is ancient. It occurs in the [[Atharvaveda, 380|Atharvaveda,[^380]]] in the [[Sata patha-Brāhmana|Śatapatha-Brāhmaṇa]] [[(XI. 1. 6.9),|( XI. 1. 6. 9 ),]] in the [[Bșhadāraṇyaka|Bṛhadāraṇyaka]] and Chāndogya [[Upanigads|Upaniṣads]] [[(III. 4. 2, VII. 2. 1 respectively).|( III. 4. 2, VII. 2. 1 respectively ).]] 
-
-The above brief statement is quite enough to show that before the Mahābhārata was composed there were numerous verses [[landed|handed]] down in families and that the Mahābhārata utilizes and incorporates a large mass of ballads and bardic verses preserved in many prominent families. The Rāmāyaṇa, on the other hand, is a Kāvya and not an [[itihara|itihāsa]] and is [[con fined|con- fined]] to the life of Rāma, his brothers and their vicissitudes.
-
-There is another quarter which sheds useful light on the epics. From [[Pāvini's|Pāṇini’s]] sūtras, the [[Virtikas|Vārtikas]] thereon and [[P359]] Patañjali's Mahābhāṣya we learn a good deal about some of the prominent personages of the Mahābhārata, their associates, enemies and their doings.
-
-[^379]: The com. on Vanaparva 129.8 says अनुवंशं परम्परागतमाख्यानश्लोकम् .
+Ślokas by one who ponders over dharma as in Sauptika [[( 1.53-55).|( I.53-55 ).]] Then many ślokas and gāthās are quoted as [[Anuvassa|Ānuvaṃśa]] or simply as [[Anuvassam|Anuvaṃśam]] [[(meaning|( meaning]] genealogies handed down in families ) e. g. Vanaparva 129. 8 [[says'atrānuvamsam pathatah śruṇu me kurunandana'|says ‘atrānuvaṃśam paṭhataḥ śṛṇu me kurunandana ’]] and then quotes two verses. For [[‘ Anuvamsam,'|‘ Anuvaṃśam, ’]] vide also [[Vana parva|Vana- parva]] 87. 16-17 [[(yatrānuvainsam|( yatrānuvaṃśam]] bhagavān [[Jāmadagnyag|Jāmadagnyas-]] tathā [[jagau).|jagau ).]] For Ānuvaṃśa ślokas, vide Ādiparva 95. [[95.8|95. 8]] ( for [[song878|sons[^379]]] of Devayānī and Śarmiṣṭhā ). 
 
 For other Ānuvaṃśa Ślokas, vide Ādi. 95. 27, 95. 30-31, 95.46 ( about Śantanu ). In Vanaparva 88. 5 there is an ānuvaṃśya gāthā about Nṛga. Sometimes, even itihāsa is spoken of as sung i.e. recited ( gīta ). The word itihāsa is ancient. It occurs in the Atharvaveda,[^380] in the Śatapatha-Brāhmaṇa ( XI. 1. 6. 9 ), in the Bṛhadāraṇyaka and Chāndogya Upaniṣads ( III. 4. 2, VII. 2. 1 respectively ). 
 
@@ -150,17 +132,11 @@ In Pāṇ. IV.3.98 Vāsudevaka,[^381] a devotee of Vāsudeva, and Arjunaka (a de
 
 [[asidvitiyosnusasāra|asidvitīyo'nusasāra]] Pāṇḍavam' (he, armed only with a sword, followed the Pāṇḍu hero ) and '[[Sarkarsana-dvitiyasya|Saṅkarṣaṇa-dvitīyasya]] balam [[Kșsnasya vardhatim|Kṛṣṇasya vardhatām]]' (in this both [[Krona|Kṛṣṇa]] and his brother Saṅkarṣaṇa are mentioned ). The first quotation [[(on II. 2. 24 )|(on II.2.24)]] clearly shows that it must have been taken from some work dealing with Pāṇḍava heroes. Another interesting quotation is 'Dhanañjayo raṇe raṇe' on' Vārtika 3 on [[Pān. III. 3. 58.|Pāṇ. III.3.58.]] It is well-known that Arjuna was called Dhanañjaya (vide Bhagavadgītā [[X. 37|X.37]] Pāṇḍavānām Dhanañjayaḥ'). 
 
-On Vārtika 11 on [[Pān. IV. 2. 104|Pāṇ. IV.2.104]] Patañjali cites the [[wordsAkrūra-vargyah'|words ‘Akrūra-vargyaḥ’]] and ‘Akrūravargiṇaḥ’ as well as [[Vāsudev&-vargyah|Vāsudeva-vargyaḥ]] and Vāsudevavargiṇaḥ. This reminds one of the dialogue between [[Krona|Kṛṣṇa]] and Nārada reported in Śānti-parva, chap. 81. It appears from that chapter that there was jealousy among the [[Yādavas.383|Yādavas.[^383]]] Akrūra and [[Ahukax|Āhuka]] were two chiefs among the Andhaka-Vṛṣṇis ( verse 8 ) and Kṛṣṇa was the President of that Saṅgha and that Nārada advises Kṛṣṇa that a saṅgha comes to grief from internal dissensions (verse 25 ) and that Kṛṣṇa should act in such a way as not to lead to the destruction of the [[Sarigha|Saṅgha]]. [[Pān. (IV. 1. 114 )|Pāṇ. (IV.1.114)]] knew the [[Andhaka vrsnis|Andhakavṛṣṇis]] and Kurus and Patañjali on Vārtika 7 cites and explains the words Augrasenya ( from Ugrasena of the Andhaka clan ), Vāsudeva and Bāladeva ( among [[Vronis|Vṛṣṇis]] ) and Nākula, Sāhadeva and Bhaimasenya ( among the Kuru clan ) [[P361]] 
+On Vārtika 11 on [[Pān. IV. 2. 104|Pāṇ. IV.2.104]] Patañjali cites the [[wordsAkrūra-vargyah'|words ‘Akrūra-vargyaḥ’]] and ‘Akrūravargiṇaḥ’ as well as [[Vāsudev&-vargyah|Vāsudeva-vargyaḥ]] and Vāsudevavargiṇaḥ. This reminds one of the dialogue between [[Krona|Kṛṣṇa]] and Nārada reported in Śānti-parva, chap. 81. It appears from that chapter that there was jealousy among the [[Yādavas.383|Yādavas.[^383]]] Akrūra and [[Ahukax|Āhuka]] were two chiefs among the Andhaka-Vṛṣṇis ( verse 8 ) and Kṛṣṇa was the President of that Saṅgha and that Nārada advises Kṛṣṇa that a saṅgha comes to grief from internal dissensions (verse 25 ) and that Kṛṣṇa should act in such a way as not to lead to the destruction of the [[Sarigha|Saṅgha]]. [[Pān. (IV. 1. 114 )|Pāṇ. (IV.1.114)]] knew the [[Andhaka vrsnis|Andhakavṛṣṇis]] and Kurus and Patañjali on Vārtika 7 cites and explains the words Augrasenya ( from Ugrasena of the Andhaka clan ), Vāsudeva and Bāladeva ( among [[Vronis|Vṛṣṇis]] ) and Nākula, Sāhadeva and Bhaimasenya ( among the Kuru clan )
 
+[^383]: Ādi. 221. 29 shows that Akrūra was a Senāpati of the Vṛṣṇis and was called ‘dānapati’. Kṛṣṇa says in Śānti 81. 9-10 ‘ यस्य न स्युर्न वै स स्याद्यस्य स्युः कृत्स्नमेव तत् । द्वाभ्यां निवारितो नित्यं वृणोम्येकतरं न च ॥ स्यातां यस्याहुकाक्रूरौ किं नु दुःखतरं ततः । यस्यापि च न तौ स्यातां किं नु दुःखतरं ततः ॥ ’ . The com. makes this clear : द्वयोर्महिषयोरिव युध्यतोर्वा रणे मध्यस्थस्य मम महद्दुःखं तथा द्वयोः सुहृदोस्त्यागश्च इत्याह स्यातामिति. Verse 11 is apt : सोहं कितवमातेव द्वयोरपि महन्मते । एकस्य जयमाशंसे द्वितीयस्यापराजयम् .
 
-
-
-
-
-
-
-
-[^383]: [[Ādi. 2 21. 29|Ādi. 221.29]] shows that [[Akrūrn|Akrūra]] was a Senāpati of the [[Viṣnis|Vṛṣṇis]] and was called ‘dānapati’. Kṛṣṇa says in Śānti 81.9-10 ‘ यस्य न स्युर्न वै स स्याद्यस्य स्युः कृत्स्नमेव तत् । द्वाभ्यां निवारितो नित्यं वृणोम्येकतरं न च ॥ स्यातां यस्याहुकाक्रूरौ किं नु दुःखतरं ततः । यस्यापि च न तौ स्यातां किं नु दुःखतरं ततः ॥’. The com. makes this clear : द्विषयोरिव युध्यतोर्वा रणे मध्यस्थस्य मम महद्दुःखं तथा द्वयोः सुहृदोस्त्यागश्च इत्याह स्यातामिति. Verse 11 is apt : सोहं कितवमातेव द्वयोरपि मते । एकस्य जयमाशंसे द्वितीयस्यापराजयम् .
+[[P361]]
 
 from Nakula, Sahadeva and Bhīmasena respectively. Vide also Pāṇ. [[VI. 2. 34|VI.2.34]] ‘Rājanyabahuvacana-dvandveṣndhaka-vṛṣṇiṣu’, which refers to several rājanyas among [[Andhe kavrsnis|Andhaka-vṛṣṇis]]. 
 
@@ -192,15 +168,15 @@ It appears that by the time the Mahābhārata assumed its present form Buddhist 
 
 [^386]: श्लोकौ चोशनसा गीतौ पुरा तात महर्षिणा । ... उद्यम्य शस्त्रमायान्तमपि वेदान्तगं रणे ॥ निगृह्णीयात्स्वधर्मेण धर्मापेक्षी नराधिपः । ... न तेन धर्महा स स्यान्मन्युस्तं मन्यूमृच्छति ॥ शान्ति 56. 28-30. Compare मनुस्मृति 8. 348-351 ( where in verse 351 we have the words मन्युस्तं मन्युमृच्छति '.
 
-[^387]: सत्यं दमस्तपो दानमहिंसा धर्मनित्यता । साधकानि सदा पुंसां न जातिर्न कुलं नृप ।
+[^387]: सत्यं दमस्तपो दानमहिंसा धर्मनित्यता । साधकानि सदा पुंसां न जातिर्न कुलं नृप ॥ वनपर्व 181. 42-43 ; न विशेषोस्ति वर्णानां सर्वं ब्राह्ममिदं जगत् । ब्रह्मणा पूर्वसृष्टं हि कर्मभिर्वर्णतां गतम् ॥ शान्ति० 188. 10; सत्यं दानमथाद्रोह आनृशंस्यं त्रपा घृणा । तपश्च दृश्यते यत्र स ब्राह्मण इति स्मृतः । ... शूद्रे चैतद्भवेल्लक्ष्मं ( क्ष्म ? ) द्विजे तच्च न दृश्यते । न वै शूद्रो भवेच्छूद्रो ब्राह्मणो न च ब्राह्मणः ॥ शान्ति 189. 4 and 8 ; Compare Vanaparva 180. 21, 216. 14-15 ; उद्योगपर्व 43.49 ( य एव सत्यान्नापैति स ज्ञेयो ब्राह्मणस्त्वया ) ; अनुशासन 143. 48-49 ( कर्मभिः शुचिभिर्देवि शुद्धात्मा विजितेन्द्रियः । शूद्रोऽपि द्विजवत्सेव्य इति ब्रह्मा ब्रवीत्स्वयम् ॥ ) .
 
-वनपर्व [[181. 42-43|181.42-43]] ; न विशेषोस्ति वर्णाना सर्व ब्राह्ममिदं जगत् । ब्रह्मणा पूर्वसृष्टं हि कर्मभिर्वर्णतो गतम् ॥शान्ति. 188. 10; सत्यं दानमथाद्रोह आनृशंस्यं त्रपा घृणा। तपश्च दृश्यते यत्र स ब्राह्मण इति स्मृतः । ... शूद्रे चैतद्भवलक्ष्मं (क्ष्म ? ) द्विजे तच न दृश्यते । न वै शूद्रो भवेच्छूद्रो बाह्मणो न च ब्राह्मणः । शान्ति 189. 4 and 8; Compare Vanaparva 180. 21, 216. 14-15 ; उद्योगपर्व 43.49 ( य एव सत्यान्नापैति स ज्ञेयो ब्राह्मणस्वया); अनुशासन 143. 48-49 (कर्मभिः शुचिभिर्देवि शुद्धात्मा विजितेन्द्रियः । शूद्रोऽपि द्विजवत्सेव्य इति ब्रह्मा ब्रवीत्स्वयम् ॥).
+[[P365]]
 
 (188.10) 'there is no difference among the (four) varṇas; this world is Brāhma (belongs to Brahmā ), because it was formerly created by Brahmā and was, (later) reduced to [[differ ent|different]] varṇas by their (diverse) actions'. The Śāntiparva [[annou nces|announces]] Truthfulness, charity, freedom from hatred and wickedness, humility, kindness and tapas,-where these are seen, he is known as brāhmana. If these characteristics are found in a sūdra and these do not exist in a twice-born person then the Sūdra is not a sūdra and the so-called brāhmaṇa is not a brāhmaṇa. This approaches the teaching of the [[Dha mmapada|Dhammapada]] verses 383, 393 (yamhi satyam ca dhammo ca [[80|so]] sukhī [[80|so]] ca brāhmaṇaḥ). [[Similiarly|Similarly]], in Anuśāsana 115 Yudhiṣṭhira asked Bhīṣma 'you have often declared that [[ahimeā|ahiṃsā]] is the highest dharma and you also said that in śrāddhas the [[pitre|pitṛs]] desire to have flesh offered'. Buddhist [[vibāras|vihāras]] ( Vana° 188. 56 ) had come into existence and [[Eļūkas|Eḍūkas]] (structures over the bones of the dead); are mentioned in [[Vana parva ( 90. 65, 67)|Vanaparva (90.65, 67)]]. A naked Kṣapaṇaka ( Digambara Jain) is mentioned in [[Ādi 3. 126|Ādi 3.126]]; in [[Santi 232. 21388|Śānti 232.21[^388]]] the Jain [[posi tion|position]] seems to have been alluded to and also in [[Afvamedhika|Āśvamedhika]] 49. 2. In Ādiparva 70. 46 it is stated that in Kaṇva's [[hermi tage|hermitage]] there were leaders of Lokāyatika views along with students of Vedas and Mokṣadharma. 
 
 On Pāṇ. [[III. 2. 111|III.2.111]] the Mahābhāṣya cites ‘jaghāna [[Kam sam|Kaṃsam]] kila Vāsudevaḥ’ (on Vārtika 2 ‘ parokte ca lokavijñāte [[prayoktur-darsana visaye|prayoktur-darśanaviṣaye]]’) and on Vārtikas 6 and 15 the Mahābhāṣya makes very interesting remarks about [[Kansa vadha|Kaṃsavadha]] (the killing of Kaṃsa by [[Krona|Kṛṣṇa]] ) described in stories, drawn in paintings and represented in dramas; vide Vol. V. p. 130 notes 329-30 and p. 203 note 521. The Mahābhāṣya asks the question [[bow|how]] one can use the present tense (in Kaṃsam ghātayati) when Kaṃsa was killed in antiquity. That shows that centuries before the Mahābhāṣya ) works (stories and dramas ) had been composed on the killing of
 
-[^388]: एतमेव च नैवं च चोभे नानुभे न च । कर्मस्था विषयं ब्रूयुः सत्त्वस्थाः समदर्शिनः । शान्ति 232.21 ; ऊर्ध्वं देहाद्दन्त्येके नैतदस्तीति चापरे केचित्संशयितं सर्वं निःसंशयमथापरे ॥ आश्वमे० 49.2.
+[^388]: एतमेव च नैवं च चोभे नानुभे न च । कर्मस्था विषयं ब्रूयुः सत्त्वस्थाः समदर्शिनः । शान्ति 232.21 ; ऊर्ध्वं देहाद्वदन्त्येके नैतदस्तीति चापरे । केचित्संशयितं सर्वं निःसंशयमथापरे ॥ आश्वमे० 49.2.
 
 [[P366]] Kaṃsa by Kṛṣṇa. That some verses quoted by the [[Maha bhāsya|Mahābhāṣya]] are found in the Mahābhārata is shown in the note below.[^389][^390] 
 
@@ -218,7 +194,7 @@ One warning already given by Winternitz in ' History of Indian Literature' (Calc
 
 [^389]: On Vārtika 6 on Pāṇ. III.1.26 the examples are: कंसवधमाचष्टे कंसं घातयति बलिबन्धमाचष्टे बलिं बन्धयति. Then on Vārtika 15 on the same sūtra the Mahābhāṣya has ‘ इह तु कथं वर्तमानकालता कंसं घातयति बलिं बन्धयतीति चिरहते कंसे चिरबद्धे च बलौ । ; then Patañjali justifies it in the words ‘ अत्रापि युक्ता ’ etc.
 
-[^390]: On Pāṇ III.3.167 (Kielhorn vol. II. p.167) we have the half verse कालः पचति भूतानि कालः संहरति प्रजाः ; this occurs in स्त्रीपर्व 2.24 ; On Pāṇ. V.1.115 the Mahābhāṣya remarks ‘ सर्वे एते शब्दा गुणसमुदायेषु वर्तन्ते ब्राह्मणः क्षत्रियो वैश्यः शूद्र इति । अतश्च गुणसमुदाय एवं ह्याह’ and quotes a verse ; तपः श्रुतं च योनिश्च एतद् ब्राह्मणकारकम् । तपःश्रुताभ्यां यो हीनो जातिब्राह्मण एव सः ॥’. The अनुशासनपर्व 121.7 has तपः श्रुतं च योनिश्च येतद् ब्राह्मण्यकारणम् । त्रिभिर्गुणैः समुदितस्ततो भवति वै द्विजः ॥
+[^390]: On Pāṇ III.3.167 (Kielhorn vol. II. p.167) we have the half verse कालः पचति भूतानि कालः संहरति प्रजाः ; this occurs in स्त्रीपर्व 2.24 ; On Pāṇ. V.1.115 the Mahābhāṣya remarks ‘ सर्व एते शब्दा गुणसमुदायेषु वर्तन्ते ब्राह्मणः क्षत्रियो वैश्यः शूद्र इति । अतश्च गुणसमुदाय एवं ह्याह’ and quotes a verse ; तपः श्रुतं च योनिश्च एतद् ब्राह्मणकारकम् । तपःश्रुताभ्यां यो हीनो जातिब्राह्मण एव सः ॥’. The अनुशासनपर्व 121.7 has तपः श्रुतं च योनिश्च येतद् ब्राह्मण्यकारणम् । त्रिभिर्गुणैः समुदितस्ततो भवति वै द्विजः ॥
 
 [[P367]] such stanza must be judged on its own merits'. But life being short, this would be an almost impossible task for one scholar for the one hundred thousand stanzas of the Mahābhārata. 
 
@@ -234,11 +210,11 @@ Two [[versos|verses]] on Vārtika 1 (उपाद्देवपूजासङ�
 
 means Uśanas. Vide Amarakośa[^394] quoted below. Hopkins, in spite of his learning and industry, here forgets that the [[Sāntiparva ( 210. 20 )|Śāntiparva (210.20)]] ascribes [[\# Nitisāstra|a Nītiśāstra]] to Bhārgava and among the expounders of [[Rājaśāstra385|Rājaśāstra[^395]]] the Śāntiparva mentions 
 
-[^392]: न हन्तव्याः [[स्त्रियश्चति|स्त्रियश्चेति]] यद्ब्रवीषि प्लवङ्गम । पीडाकरममित्राणां [[यच|यच्च]] कर्तव्यमेव तत् ॥ युद्धकाण्ड [[81. 29-30|81.29-30]] ; Compare [[अवध्या नियमित्याह|अवध्यां स्त्रियमित्याह]] धर्मसाधर्मनिश्चये । आदि [[158. 31|158.31]] ; अवध्याः स्त्रियः सृष्टा मन्यन्ते धर्मचारिणः । आदि [[217. ' ;|217.4 ;]] vide also वनपर्व 206.43.
+[^392]: न हन्तव्याः स्त्रियश्चेति यद्ब्रवीषि प्लवङ्गम । पीडाकरममित्राणां यच्च कर्तव्यमेव तत् ॥ युद्धकाण्ड 81. 29-30 ; Compare अवध्यां स्त्रियमित्याह धर्मसाधर्मनिश्चये । आदि 158. 31 ; अवध्याः स्त्रियः सृष्टा मन्यन्ते धर्मचारिणः । आदि 217. 4 ; vide also वनपर्व 206. 43.
 
-[^393]: आख्याते [[रामचरित|रामचरिते]] नृपतिं प्रति भारत ॥ राजानं [[प्रथम|प्रथमं]] विन्देत्ततो [[भार्या|भार्यां]] ततो धनम् । राजन्यसति लोकस्य कुतो भार्या कुतो धनम् ॥ शान्ति [[67. 40-41|67.40-41]]; अयोध्याकाण्ड [[67. 11|67.11]] is ‘अराजके धनं नास्ति नास्ति भार्याप्यराजके । इदमत्याहितं चान्यत्कुतः सत्यमराजके ॥’ ; राज्येऽसति कुतो धर्मो धर्मेऽसति कुतः परम् । शान्ति[[•|०]] [[320. 59.|320.59.]]
+[^393]: आख्याते रामचरिते नृपतिं प्रति भारत ॥ राजानं प्रथमं विन्देत्ततो भार्या ततो धनम् । राजन्यसति लोकस्य कुतो भार्या कुतो धनम् ॥ शान्ति 57. 40-41 ; अयोध्याकाण्ड 67. 11 is ‘अराजके धनं नास्ति नास्ति भार्याप्यराजके । इदमत्याहितं चान्यत्कुतः सत्यमराजके ॥’ ; राज्येऽसति कुतो धर्मो धर्मेऽसति कुतः परम् । शान्ति० 320. 59.
 
-[^394]: शुको दैत्यगुरुः काव्य उशना भार्गवः कविः । अमरकोश.
+[^394]: शुक्नो दैत्यगुरुः काव्य उशना भार्गवः कविः । अमरकोश.
 
 [^395]: भार्गवो नीतिशास्त्रं तु जगाद जगतो हितम् । शान्तिपर्व 210. 20. एतत्ते राजधर्माणां नवनीतं युधिष्ठिर । बृहस्पतिर्हि भगवान्न्याय्यं धर्मं प्रशास्ति । विशालाक्षश्च भगवान्काव्यश्चैव महातपाः । ... राजशास्त्रप्रणेतारो ब्रह्मण्या ब्रह्मवादिनः ॥ शान्ति० 58, 1-3.
 
@@ -276,11 +252,7 @@ The [[Raināyana|Rāmāyaṇa]] ( Ayodhyā 109.34 ) contains a down-right [[cond
 
 The two epics have in common many striking verses. For example, in the story of the Kapota bird and the [[lubdhaka|_lubdhaka_]] [[(hunter)|( hunter )]] where the Kapota burnt itself in order to offer food to the hungry hunter and the female bird, on the death of the male bird, entered fire and killed herself, a fine verse is put in 
 
-[^400]: सूक्ष्मो धर्मो महाराज नास्य [[विमो|विद्मो]] वयं गतिम् । [[पूर्वेषामामुपूर्येण|पूर्वेषामनुपूर्वेण]] यातां 
-
-[[वर्मानुयामहे|वर्त्मानुयामहे]] ॥ न मे वागनृतं प्राह नाधर्मे धीयते मतिः । एवं चैव वदत्यम्बा मम चैतन्मनोगतम् । एष धर्मो ध्रुवो राजंश्चरैनमविचारयन् ।[[ अनि|]] 
-
-195. 29-31.
+[^400]: सूक्ष्मो धर्मो महाराज नास्य विद्मो वयं गतिम् । पूर्वेषामानुपूर्व्येण यातं वर्त्मानुयामहे ॥ न मे वागनृतं प्राह नाधर्मे धीयते मतिः । एवं चैव वदत्यम्बा मम चैतन्मनोगतम् । एष धर्मो ध्रुवो राजंश्चरैनमविचारयन् । आदि 195. 29-31.
 
 [^401]: यथा हि चोरः स तथा हि बुद्धस्तथागतं नास्तिकमत्र विद्धि । तथाहि यः शक्यतमः प्रजानां न नास्तिकेनाभिमुखो बुधः स्यात् । अयोध्या 109. 34.
 
@@ -292,15 +264,11 @@ the mouth of the female bird in Śāntiparva [[148. 6–7.403|148. 6-7.[^402]]] 
 
 The discussions so far [[beld|held]] make this clear that the main characters of the Mahābhārata were known long before Pāṇini and that tales relating to Pāṇḍava heroes had been embodied in a work or in works in verse long before Patañjali wrote i. e. that the core of the Mahābhārata existed before 500 B. C. The same cannot be said about the Rāmāyaṇa. There is no evidence to show that the principal characters of the [[Rāmā yana|Rāmāyaṇa]] were known to Pāṇini or even to Patañjali. At the most one can say that the three names, Daśaratha, Rāma and Sītā, were probably known about 250-200 B. C. but not described 
 
-[^402]: मितं ददाति हि पिता मितं भ्राता मितं सुतः। अमितस्य हि दातारं भर्तारं 
-
-[[2017 CETTE II Tifa|का न पूजयेत् ॥ शान्ति]] 148. 6-7, [[3PTO|अयोध्या०]] 39. 30-31 (in this latter the Madras ed. [[roads AICT for TAT|reads माता for भ्राता]]). It is noteworthy that the Mitākṣarā on Yāj. I. 86 refers to this Kapotikākhyāna, quotes [[vergos|verses]] 10 and 12 of Śānti 148 and remarks that in the guise of this story [[Vysa|Vyāsa]] recommends [[anvārohana'|‘anvārohaṇa’]] (burning [[onoself|oneself]] on [[tho|the]] deceased husband's funeral pyre ) as most meritorious. I am [[in. olined|inclined]] to hold that it is the author of the Rāmāyaṇa that probably borrows. Rāma was only going to a forest (no question of dying arose ) [[add|and]] so the words are not so appropriate in the Rāmāyaṇa as they are in the Mahābhārata.
+[^402]: मितं ददाति हि पिता मितं भ्राता मितं सुतः । अमितस्य हि दातारं भर्तारं का न पूजयेत् ॥ शान्ति 148. 6-7, अयोध्या० 39. 30-31 (in this latter the Madras ed. reads माता for भ्राता). It is noteworthy that the Mitākṣarā on Yāj. I. 86 refers to this Kapotikākhyāna, quotes verses 10 and 12 of Śānti 148 and remarks that in the guise of this story Vyāsa recommends ‘anvārohaṇa’ (burning oneself on the deceased husband's funeral pyre ) as most meritorious. I am inclined to hold that it is the author of the Rāmāyaṇa that probably borrows. Rāma was only going to a forest (no question of dying arose ) and so the words are not so appropriate in the Rāmāyaṇa as they are in the Mahābhārata.
 
 [^403]: गुरोरप्यवलिप्तस्य कार्याकार्यमजानतः । उत्पथं प्रतिपन्नस्य दण्डो भवति शाश्वतः ॥ शान्ति 57. 7 ; also in शान्ति 140. 48 ( reads शासनम् for शाश्वतः ) ; उद्योगपर्व 178. 48 reads last pāda as परित्यागो विधीयते ; कार्यं भवति शासनम् । अयोध्या 21. 13.
 
-[^404]: सर्वे क्षयान्ता निचयाः पतनान्ताः समुच्छ्रयाः । संयोगा विप्रयोगान्ता मरणान्तं 
-
-[[a alifaran ll|च जीवितम् ॥]] [[Ifa|शान्ति]] 27. 31, 330. 20, [[siqa|स्त्रीपर्व]] [[11.|II.]] 3; [[3771e4T|अयोध्या]] 106. 12[[ og|]] 
+[^404]: सर्वे क्षयान्ता निचयाः पतनान्ताः समुच्छ्रयाः । संयोगा विप्रयोगान्ता मरणान्तं च जीवितम् ॥ शान्ति 27. 31, 330. 20, स्त्रीपर्व II. 3 ; अयोध्या 105. 16. 
 
 [[P373]]
 
@@ -355,9 +323,7 @@ He mentions Niruktabhāṣya on Vanaparva 291.70 and also Vedabhāṣya (i.e. S�
 
 As he refers to the [[Medinikoga|Medinikośa]] and the Kālamādhava he is certainly later than the 14th century A. D. In [['Indian Culture'|‘Indian Culture’]] vol. I pp. 706-710 it is stated that Arjunamiśra, a Varendra [[brābmana|brāhmaṇa]] who flourished in the latter part of the 13th century is a better commentator than Nīlakaṇṭha. Vimalabodha wrote a commentary on the Mahābhārata called Vimalaślokī or Durghaṭārthaprakāśinī, a [[ms,|ms.]] of which is in possession of the Bhandarkar Oriental Institute [[( Poona)|(Poona)]]. Vide [[Gode's|Gode’s]] paper 
 
-[^414]: वेदान्ते लक्ष्मणार्यं [[ऋतुविधिविवृती|क्रतुविधिविवृतौ]] तीर्थ-नारायणार्यं तर्के धीरेशमिश्रान्
-
-[[फणिपतिभणिती पोलगङ्गाधरायम्|फणिपतिभणितौ पोलगङ्गाधरार्यम्]] । वेदे साङ्गे पितृव्यं शिवमथ पितरं दक्षिणामूर्युपास्तौ [[श्रोते चिन्तामणि यः शरणमुपगती|श्रोते चिन्तामणिं यः शरणमुपगतौ]] भूम्नि गोपालदेवम् ॥ [[( at end of tifata);|(at end of शान्तिपर्व);]] [[hari at foran tante ATENTES|गोपालं भूम्नि वेदे शिवमुपनिषदि ब्रह्मविल्लक्ष्मणार्यं]] तर्के धीरेशमिश्रान् [[फणिपतिभणिती|फणिपतिभणितौ]] पोलगङ्गाधरार्यम् । भाट्टे नारायणं यो गुरुमकृत ततं [[दक्षिणामूर्यु गस्ती धाते|दक्षिणामूर्युपास्तौ श्रौते]] चिन्तामणिं च व्यभजत स महाभारते [[FIATHIRII.|दानधर्मान् ॥.]] [[Mā|ततं]] appears to [[bave|have]] been used for reasons of [[metro|metre]] instead of the usual word [[ard|तातं]]. In the [[Kathopaniad Nagitan|Kaṭhopaniṣad Naciketas]] asks his father[['AI TITTA' (1.4)|‘कस्मै मां दास्यसि’ (I.4)]] and in the [[BOX 112, 3 ( Tere na for 1517299 HT )|Ṛg. IX. 112.3 (काहरहं ततो ... नना)]]. 
+[^414]: वेदान्ते लक्ष्मणार्यं ऋतुविधिविवृतौ तीर्थ-नारायणार्यं तर्के धीरेशमिश्रान् फणिपतिभणितौ पोलगङ्गाधरार्यम् । वेदे साङ्गे पितृव्यं शिवमथ पितरं दक्षिणामूर्युपास्तौ श्रौते चिन्तामणिं यः शरणमुपगतौ भूम्नि गोपालदेवम् ॥ ( at end of शान्तिपर्व ) ; गोपालं भूम्नि वेदे शिवमुपनिषदि ब्रह्मविल्लक्ष्मणार्यं तर्के धीरेशमिश्रान् फणिपतिभणितौ पोलगङ्गाधरार्यम् । भाट्टे नारायणं यो गुरुमकृत ततं दक्षिणामूर्युपास्तौ श्रौते चिन्तामणिं च व्यभजत स महाभारते दानधर्मान् ॥ . ततं appears to have been used for reasons of metre instead of the usual word तातं . In the Kaṭhopaniṣad Naciketas asks his father ‘ तत कस्मै मां दास्यसि ’ ( I. 4 ) and in the Ṛg. IX. 112. 3 ( कारुरहं ततो भिषगुपलप्रक्षिणी नना ) . 
 
 [[P381]]in Silver Jubilee Vol. of the BORI pp. 146 ff. Vide Dr. Raghavan's paper in Kane Festschrift [[(pp. 351-355 )|(pp. 351-355)]] for some commentators of the Mahābhārata such as Varada, Yajñanārāyaṇa and Ānandapūrṇa [[(about 1350 A. D. ),|(about 1350 A. D.),]] parts of whose commentaries are found in mss. collections.
 
@@ -482,9 +448,7 @@ Just as in the extant Mahābhārata references are [[some times|sometimes]] made
 
 [[P394]]and some (like those of Sāvitrī, Damayanti and Sukanya ) at great length, while the Rāmāyaṇa employs them only for [[com parison|comparison]] and does not set them out at length. Sagara is referred to in the Rāmāyaṇa (Ayodhyā 36.16 about Asamañja). But no reference is made to his wives. In [[Vana parva|Vanaparva]] (chap. 106-7) it is stated that Sagara was a descendant of Ikṣvāku, had two wives, Vaidarbhi and Śaibyā, had from Śaibyā one son called Asamañja whom he banished because he indulged in the pastime of drowning the children of the subjects (Śānti, chap. 57.8-9 ) and Sagara had sixty thousand sons from Vaidarbhi who were all reduced to ashes by Kapila's wrath when they dug the earth, found Aśvamedha horse near sage Kapila and wanted to apprehend Kapila as the thief. The story of [[Uttarka,|Uttaṅka,]] a devoted pupil of Gautama, is narrated at length in [[Advamedhika|Āśvamedhika]] parva chap. 55-58 and in Vanaparva chap. 132–33. He married the daughter of [[Gau tama|Gautama]] and requested Ahalyā, Gautama's wife, to accept some present as Gurudakṣiṇā (fee). When Uttaṅka pressed her to accept something, she asked him to bring the jewelled ear rings of the wife of king Saudāsa- man-eater ( 56.31 ). He went to [[Saudāga|Saudāsa]] and begged for the ear-rings of his wife Madayantī. Saudāsa asked him to see his wife and give her his message. A long story is narrated about the ear-rings which she gave. King Janaka held assemblies of learned men for discussion. One bandin (i. e. sūta at his court ) used to argue with learned men, defeated them and plunged them in water. Uddalaka had a pupil Kahoḍa, who married the daughter of his guru. She conceived and the child in the womb rebuked his father when he committed mistakes in [[re peating|repeating]] Veda. The father cursed the foetus that he would be defective in eight limbs. Aṣṭāvakra defeated bandin and those who had been thrown into water (including Kahoḍa who had been defeated by Bandin ) were revived by Varuṇa and then Kahoḍa recited a verse set out in the note below.[^430] Yayāti is frequently mentioned for comparison or illustration as in Ayodhyā 5. 10 ( same words in Kiṣkindhā 17. 9, viz. 'yayātim-iva puṇyānte devalokād-[[iba|iha]] cyutam', also [[Araṇyeo|Araṇya°]] 
 
-[^430]: तारितोहं त्वया पुत्र [[सुपुत्रेग|सुपुत्रेण]] महात्मना । अष्टावक्रेण धर्मात्मा होलो
-
-Atauit at 11 7 105 122. 16. The [[vorse|verse]] that Kahola Labouton was: इत्यर्थमिच्छन्ति [[सुताअना|सुताञ्जना]] जननकर्मणा । यदहं नाशकं [[को|कर्तुं]] तत्पश्चा TIFAA 11 99798 134. 33. 
+[^430]: तारितोहं त्वया पुत्र सुपुत्रेण महात्मना । अष्टावक्रेण धर्मात्मा कहोलो ब्राह्मणो यथा ॥ युद्धकाण्ड 122. 16. The verse that Kahola repeated was: इत्यर्थमिच्छन्ति सुताञ्जना जननकर्मणा । यदहं नाशकं कर्तुं तत्पुत्रः कृतवान्मम ॥ वनपर्व 134. 33. 
 
 [[P395]]66. 7. “Jāmadagnya Rāma killed his mother at his father's order (Ayodhyā 21. 33 ); Viṣṇu taking three steps ( Kiṣkindhā 67. 3 and 25 ). 
 
@@ -494,9 +458,7 @@ Nalakūbara is said to have cursed Rāvana when the latter ravished apsaras Ramb
 
 Taking the cue from the name Sītā (the heroine of the Rāmāyaṇa ) several scholars have regarded the Rāmāyaṇa as an allegory, the word Sītā being employed twice in the Ṛgveda (IV. 57.6 and 7) and apostrophized as a goddess.[^431] Three personages are known to our mythology as Rāma, viz. [[Jāme dagaya|Jāmadagnya]] Rāma ( or Paraśurāma ), Balarāma ( brother of Kṛṣṇa ) 
 
-431 अर्वाची सुभगे भव [[सीने|सीते]] वन्दामहे त्वा । यथा नः सुभगाससि यथा नः [[सफला|सुफला]]
-
-ससि ॥ इन्द्रः सीतां नि गृह्णातु तां पूषानु यच्छतु । सा नः पयस्वती [[दुरीमा रामतरी|दुहाम रामुत्तरां]] समाम् ॥ ऋ. IV. 57. [[8-7.|6-7.]] सीता means [[tho|the]] furrow [[loft|left]] Parent plough.
+[^431]: अर्वाची सुभगे भव सीते वन्दामहे त्वा । यथा नः सुभगाससि यथा नः सुफलाससि ॥ इन्द्रः सीतां नि गृह्णातु तां पूषानु यच्छतु । सा नः पयस्वती दुहामुत्तरामुत्तरां समाम् ॥ ऋ. IV. 57. 6-7. सीता means the furrow left by the plough.
 
 [[P396]]and Dāśarathi Rāma. It is unnecessary for the history of Dharmaśāstra to deal with this question when the Rāmāyaṇa is admitted by all scholars as separated from the Ṛgveda by at least a thousand years or more. 
 
@@ -514,19 +476,11 @@ The Rāmāyaṇa being mainly a Kāvya is not frequently or profusely quoted by 
 
 Even Aparārka who quotes the Mahābhārata dozens of times quotes the [[Raināyana|Rāmāyaṇa]] only twice.[^437] On Yāj. I. 211 Aparārka quotes [[&|a]] verse saying of one who being able to save a [[sarunāgatu|śaraṇāgata]] allows him to die in his presence all merit (sukṛta i.e. puṇya) is taken away by the one who is not saved). On offering water to one's deceased relations Aparārka (on Yāj. III. 5) quotes a verse from Ayodhyākāṇḍa (102-27). The Smṛticandrikā (I. p. 57) quotes [[Sundara kanda|Sundara- kāṇḍa]] 59, 35-36 about cessation of study on the first tithi of a month (pratipat-[[phthasilasya|pāṭhaśīlasya]] [[vidyevu|vidyaiva]] [[tanutam|tanutāṃ]] gata). The Kṛtyakalpataru (on vrata, brahmacārī, tīrtha and [[naiyata kāla|naiyatakāla]] has no verses [[froin|from]] [[Rāmūyana|Rāmāyaṇa]] though [[Naiyata kālikā|Naiyata- kālikā]] quotes about two dozen verses from the Mahābhārata). Both epics condemn the king who being engrossed in pleasures does not attend the court of justice when the parties approach him for justice. The Kalpataru on [[‘grhastha.’|‘gṛhastha’]] quotes only two verses from Rāmāyaṇa, but it mentions the Mahābhārata 
 
-..... - .. . .-- .. 
+[^435]: तथा च पक्वान्नभोजनेपि विधिमेतं स्मरन्ति । यदन्नः पुरुषो राजंस्तदन्नास्तस्य देवताः । इति । मेधा० on मनु V. 7. Vide: अयोध्याकाण्ड 102. 29-30 ऐङ्गुदं बदरीमिश्रं पिण्याकं दर्भसंस्तरे । न्यस्य रामः सुदुःखार्तो रुदन् वचनमब्रवीत् ॥ इदं भुंक्ष्व महाराज प्रीतो यदशना वयम् । यदन्नः पुरुषो भवति तदन्नास्तस्य देवताः ॥. The same half is repeated in अयोध्या 103. 14 रामेणेङ्गुदिपिण्याकं पितुर्दत्तं समीक्ष्य मे । यदन्नः... देवताः ॥ . It is called there लौकिकीश्रुति.
 
-[^435]: तथा च पक्वान्नभोजनेपि विधिमेतं स्मरन्ति । यदन्नः पुरुषो [[राजस्तदशास्तस्य|राजंस्तदन्नास्तस्य]] 
+[^436]: रविसंक्रान्तसौभाग्यस्तुषारारुणमण्डलः । निःश्वासान्ध इवादर्शश्चन्द्रमा न प्रकाशते ॥ अरण्यकाण्ड 16. 13 ( the Madras edition of रामायण reads तुषारावृतमण्डलः ).
 
-देवताः । इति । मेधा. on मनु V. 7. Vide: अयोध्याकाण्ड 102. 29-30 [[ऐजदं बदरीमिधं|ऐषदं बदरीमिश्रं]] पिण्याकं दर्भसंस्तरे । न्यस्य रामः [[सुदुःखातो|सुदुःखार्तो]] रुदन् [[वचनम ब्रवीत्|वचनमब्रवीत्]] ॥ इदं [[मुंश्व|भुङ्क्ष्व]] महाराज प्रीतो यदशना वयम् । यदन्नः पुरुषो भवति तदन्नास्तस्य देवताः ॥. The same half is repeated in अयोध्या 103. 14 [[रामेणेदिपिण्याकं|रामेणेङ्गुदिपिण्याकं]] पितुर्दत्तं समीक्ष्य मे । यदन्नः... देवताः ॥. It is called there 
-
-लौकिकीश्रुति. [^436]: रविसंक्रान्तसौभाग्यस्तुषारारुणमण्डलः । निःश्वासान्ध इवादर्शश्चन्द्रमा न
-
-प्रकाशते । अरण्यकाण्ड [[18. 13|16.13]] (the Madras edition of रामायण [[ronda|reads]]
-
-तुषारावृतमण्डलः ). [^437]: विनष्टः पश्यतो यस्य रक्षितुः शरणागतः । आदाय सुकृतं तस्मात्सर्वं [[गहित्य|गच्छत्य]]
-
-रक्षितः ॥ अयोध्याकाण्ड 18.30 [[. by|q. by]] अपरार्क p. 385.
+[^437]: विनष्टः पश्यतो यस्य रक्षितुः शरणागतः । आदाय सुकृतं तस्मात्सर्वं गच्छत्यरक्षितः ॥ अयोध्याकाण्ड 18. 30 q. by अपरार्क p. 385.
 
 [[P398]]twenty times, one citation on pp 281-285 quoting 20 verses from Anuśāsana (11.6-21) on where Śrī resides. The Dānasāgara composed by king Ballālasena in _śaka_ 1091 (1169-70 A.D.) quotes the Mahābhārata over 200 times, but quotes from the Rāmāyaṇa only four verses.[^438] 
 
@@ -534,39 +488,11 @@ In the Rājanītiratnākara of Caṇḍeśvara (ed. by [[K. P.|K.P.]] Jayaswal),
 
 Indian culture penetrated to Borneo, Java, Bali and other Indonesian islands. In the Rāmāyaṇa, Sugrīva is said to have sent his followers in search of Sītā in the four quarters. He directs them to the countries in the East and names Yavadvīpa (Java) as one of them (in Kiṣkindhā 40.29-30).[^440] Ptolemy (in his Geography of India about 150 A.D.) refers to it as [[•|‘]]Jabadien'. It is generally accepted that Java and Sumatra had been Hinduized before the 3rd century A.D. This is not the place to go into the question of the cultural migration from India to the Eastern Archipelago. Vide Dr. Bijan Raj Chatterjee's 'India and Java' (Calcutta, 1933). [[The culture .of|‘The culture of]] South-East Asia' by Reginald le May (pub. in 1954) with 216 illustrations at the end ; 'South India and the Eastern Archipelago', in the Kṛṣṇaswamy Aiyangar Vol. by C. S. Srinivasachari pp. 483-497 ; 'Sanskrit Texts from Bali' edited by Prof. Sylvain Levi (G.O.S. 1933); [[-|‘]]Indian influence on the Literature of Java and Bali' by H. B. Sarkar (Calcutta, 1934); Stutterheim's [[Rāma|‘Rāma]] legenden' and
 
+[^438]: नहि राज्ञः सुता सर्वे राज्ये तिष्ठन्ति भामिनि । स्थाप्यमानेषु सर्वेषु सुमहाननयो भवेत् । तस्माज्ज्येष्ठे हि कैकेयि राज्यतन्त्राणि पार्थिवाः । स्थापयन्त्यनवद्याङ्गि गुणवत्स्वितरेष्वपि ॥ रामायण, अयोध्या 8. 23-24 q. by राजनीतिरत्नाकर p. 76, which quotes also Vasiṣṭha’s words in Ayodhyā 110. 36 ( on p. 77 ) ' इक्ष्वाकूणां हि सर्वेषां राजा भवति पूर्वजः । पूर्वजे नावरः पुत्रो ज्येष्ठो राजा भविष्यति ' ॥
 
+[^439]: रामायणे जलप्रदानवाक्यं राम आह । इदं पुरुषशार्दूल विमलं दिव्यमक्षयम् । पितृलोकेषु पानीयं मदत्तमुपतिष्ठताम् ॥ अपरार्क on या. III. 5. p. 875. The verse occurs with slight variations in अयोध्या 103. 27: प्रभो राजशार्दूल विमलं तोयमक्षयम् । पितृलोकगतस्याद्य मदत्तमुपतिष्ठतु ॥
 
- 
-
-
-
-... 
-
-. 
-
- 
-
- 
-
-. 
-
-... 
-
- 
-
-
-
-[^438]: नहि राज्ञः सुता सर्वे राज्ये तिष्ठन्ति भामिनि । स्थाप्यमानेषु सर्वेषु [[सुमहान नयो|सुमहान- नयो]] 
-
-नयो भवेत् । तस्माज्ज्येष्ठे हि कैकेयि राज्यतन्त्राणि पार्थिवाः । [[स्थापयन्त्य नवद्याड्गि गुणवस्वितरेष्वपि|स्थापयन्त्यनवद्याङ्गि गुणवन्तमितरेष्वपि]] ॥ रामायण, अयोध्या 8. 23-24 q. by [[राजनीति रत्नाकर|राजनीति- रत्नाकर]] p. 76, which quotes also [[Vasistha's|Vasiṣṭha's]] words in [[Ayodhya 110. 38 ( on p. 77 )|Ayodhyā 110.36 (on p.77)]] ' इक्ष्वाकूणां हि सर्वेषां राजा भवति पूर्वजः । पूर्वजे नावरः
-
-पुत्रो ज्येष्ठो राजा भविष्यति' ॥ [^439]: रामायणे जलप्रदानवाक्यं राम आह । इदं पुरुषशार्दूल विमलं दिव्यमक्षयम् ।
-
-पितृलोकेषु पानीयं मद्दत्तमुपतिष्ठताम् ॥ अपरार्क on या. III. 5. p. 875. The verse occurs with slight variations in अयोध्या 103. 27: [[प्रबो|प्रभो]]
-
-राजशार्दूल विमलं तोयमक्षयम् । पितृलोकगतस्याद्य महत्तमुपतिष्ठतु ॥ [^440]: यत्नवन्तो यवद्वीपं सप्तराज्योपशोभितम् ॥ सुवर्णरूप्यकं चैव [[सुवर्णाकरमाइतम|सुवर्णाकरमण्डितम्]] ॥
-
-यवद्वीपमतिकम्य शिशिरो नाम पर्वतः ॥ किष्किन्धा 40.29-30.
+[^440]: यत्नवन्तो यवद्वीपं सप्तराज्योपशोभितम् ॥ सुवर्णरूप्यकं चैव सुवर्णकारमण्डितम् । यवद्वीपमतिक्रम्य शिशिरो नाम पर्वतः ॥ किष्किन्धा 40. 29-30.
 
 [[P399]]'Pictorial History of civilization in Java;' 'History of Śrīvijaya' by Prof. K.A. Nilakanta Sastri (1949); 'Hindu Law in Java and Bali' by Dr. R.C. Majumdar in S.K. Aiyangar Memorial Volume pp. 445-461. 
 
@@ -648,17 +574,9 @@ Verses in the [[Sundarakāndia*4.3|Sundarakāṇḍa[^443]]] are of great signif
 
 I cannot close this brief section on the Rāmāyaṇa without mentioning a work of outstanding merit viz. •Thirty lectures 
 
-[^442]: It is Kielhorn's ed. of the Mahābhāṣya that is referred to :
+[^442]: It is Kielhorn's ed. of the Mahābhāṣya that is referred to : (1) [[450Facautai|यदुदुम्बरवर्णानां]] (vol. I, p. 6); (2) [[gia Giara417 :|एति जीवन्तमानन्दः]] (vol. I, p. 277 on [[qildion|vārtika]] 6 on II. 7. 6), vol. II, p. 59 on [[arrdan 5 op 1II. 1,67|vārtika 5 on III. 1. 67]] ); (3) [[at: y a dlfiet|तपः श्रुतं च योनिश्च]] (vol. I, p. 41) on II. 2. 6 [[avd|and]] vol. II. p. 363 on V. 1. 115; (4) [[VISITAR|सकृद्गर्णद्वितीयस्य]] (vol. I, p. 426); (5) [[amartar lagt|वाताय कपिला विद्युत्]] (vol. I, p. 449 on [[arāta|vārtika]] 3 on II. 3. 13); (6) [[37317717 *|दूरादावसथान्मूत्रं]] (vol. I, p. 457 on [[aifft|vārtika]] 2 on II. 3. 35): (7) [[an for at fā fat|चर्मणि द्वीपिनं हन्ति]] (vol. I, 458 on [[21. 6|vā. 6]] on II. 3. 36); (8) [[\#13: qfa zatia|कालः पचति भूतानि]] (vol. II, 167); (9) [[sifor feirama|त्रीणि यस्यावदातानि]] (vol. II, 220 on [[1. 9|vā. 9]] on IV. 1. 48); (10) [[1978399: steal|महीपालवचः श्रुत्वा]] (vol. III, 288 on VII. 2. 23); (11) [[arpā: for That|सामृते पाणिभिर्घ्नन्ति]] (vol. III, 367 on [[alfa i on 9.|vārtika 1 on pā.]] VIII. 1. 8).
 
-(1) [[450Facautai|यदुदुम्बरवर्णानां]] (vol. I, p. 6); (2) [[gia Giara417 :|एति जीवन्तमानन्दः]] (vol. I, p. 277 on [[qildion|vārtika]] 6 on II. 7. 6), vol. II,
-
-p. 59 on [[arrdan 5 op 1II. 1,67|vārtika 5 on III. 1. 67]] ); (3) [[at: y a dlfiet|तपः श्रुतं च योनिश्च]] (vol. I, p. 41) on II. 2. 6 [[avd|and]] vol. II. p. 363
-
-on V. 1. 115; (4) [[VISITAR|सकृद्गर्णद्वितीयस्य]] (vol. I, p. 426); (5) [[amartar lagt|वाताय कपिला विद्युत्]] (vol. I, p. 449 on [[arāta|vārtika]] 3 on II. 3. 13); (6) [[37317717 *|दूरादावसथान्मूत्रं]] (vol. I, p. 457 on [[aifft|vārtika]] 2 on II. 3. 35): (7) [[an for at fā fat|चर्मणि द्वीपिनं हन्ति]] (vol. I, 458 on [[21. 6|vā. 6]] on II. 3. 36); (8) [[\#13: qfa zatia|कालः पचति भूतानि]] (vol. II, 167); (9) [[sifor feirama|त्रीणि यस्यावदातानि]] (vol. II, 220 on [[1. 9|vā. 9]] on IV. 1. 48); (10) [[1978399: steal|महीपालवचः श्रुत्वा]] (vol. III, 288 on VII. 2. 23); (11) [[arpā: for That|सामृते पाणिभिर्घ्नन्ति]] (vol. III, 367 on [[alfa i on 9.|vārtika 1 on pā.]]
-
-VIII. 1. 8). [^443]: अहमतितनुश्चैव वानरश्च विशेषतः । वाचं चोदाहरिष्यामि मानुषीमिह संस्कृताम् ॥
-
-यदि वाचं प्रदास्यामि द्विजातिरिव संस्कृताम् । रावणं मन्यमानां [[naam|नां]] भीता भविष्यति ॥ वानरस्य विशेषेण कथं स्यादभिभाषणम् । अवश्यमेव भाषितव्यं मानुषं वाक्यमर्थवत् । [[HTTI (Finana i Toato|Sundara°]] 30. 17-19.
+[^443]: अहमतितनुश्चैव वानरश्च विशेषतः । वाचं चोदाहरिष्यामि मानुषीमिह संस्कृताम् ॥ यदि वाचं प्रदास्यामि द्विजातिरिव संस्कृताम् । [[रावणं मन्यमानां naam|रावणं मन्यमाना मां सीता]] भीता भविष्यति ॥ वानरस्य विशेषेण कथं स्यादभिभाषणम् । अवश्यमेव [[भाषितव्यं|वक्तव्यं]] मानुषं वाक्यमर्थवत् । [[HTTI (Finana i Toato|सुन्दर०]] 30. 17-19.
 
 [[P404]]on the Rāmāyaṇa' by [[ths|the]] late Right Honourable [[V. S|V.S.]] Srinivasa Sastri ([[publisheil|published]] by the Madras Sanskrit Academy in 1949). He does not [[real|deal]] with the Rāmāyaṇa in the spirit of a critical scholar. Questions of the date of the Rāmāyaṇa, the authorship of it, of the indebtedness of Vālmīki to others and of the authenticity of the present text are left out by him. He deals at great length with the principal characters of the epic and his language is moving, often charged with fervour and emotion and his exposition of the different incidents is masterly. He quotes a very large number of verses from the Rāmāyaṇa. In his exposition he is at his best when he deals with the attack by Rāma against Vālin from behind trees and the incident of harsh words Rāma used when he abandoned Sītā after killing Rāvaṇa (Yuddhakāṇḍa, 118, verses 12-24). His words are most eloquent when in the 27th lecture on p. 432 he says 'that is Rāma's greatness that he did not mind sacrificing anything to preserve Dharma. Dharma has many [[pbases|phases]]. What he (Rāma) thought was his highest [[Dbarma|Dharma]], that he fulfilled and to that end there was nothing that [[be|he]] would not sacrifice'. It may be pointed out that the [[Padma purāṇa|Padma- purāṇa]] (Ānandāśram ed. IV. 66. 28-29)[^444] proclaims in two verses the virtues that the [[Rāmiyana|Rāmāyaṇa]] emphasizes by [[delineat ing|delineat- ing]] some paragons of virtue such as Rāma, Sītā, Bharata, Lakṣmaṇa and Hanūmān.
 
@@ -666,9 +584,7 @@ Though the Rāmāyaṇa is full of poetic passages, it often departs from Pāṇ
 
 The Gujarati Press edition of the Rāmāyaṇa (in seven parts, 1912-20) contains three commentaries. A brief statement on these may be made here. Of the three the earliest seems to be the one called Bhūṣana composed by Govindarājan of Kauśikagotra. He was a man of profound learning in the various branches of Sanskrit literature. Sometimes his commentary is very extensive (as on the first verse of the Bālakāṇḍa), but sometimes it is the briefest of
 
-[^444]: यस्मिन् धर्मविधिः साक्षात्पातिव्रत्यं तु [[यत्स्थितन्|यत्स्थितम्]] । भ्रातृस्नेहो महान्यत्र [[गकर|]]
-
-भक्तिस्तथैव च ॥ [[स्वामिसवकयोर्यत्र|स्वामिसेवकयोर्यत्र]] नीतिमूर्तिमती किल । अधर्मकरशास्ति यत्र साक्षाद्रघूद्वहात् ॥ पद्मपुराण.
+[^444]: यस्मिन् धर्मविधिः साक्षात्पातिव्रत्यं तु यत्स्थितम् । भ्रातृस्नेहो महान्यत्र गुरुभक्तिस्तथैव च ॥ स्वामिसेवकयोर्यत्र नीतिमूर्तिमती किल । अधर्मकरशास्तिर्वै यत्र साक्षाद्रघूद्वहात् ॥ पद्मपुराण.
 
 [[P405]]the three commentaries (as on I. 75. 4, I. 76. 15). At the end of the Bālakāṇḍa he states that he had acquired fame by his proficiency in the Vedas, Śāstras and learned discussions and he had a keen intellect in Sanskrit poems, [[Alwinkāra|Alaṅkāra]] (Poetics) and the dramatic art. This writer confers different names on his own commentaries on the different kāṇḍas viz. [[Manimanjira|Maṇimañjīra]], [[Pitambara|Pītāmbara]], Ratnamekhalā, Muktāhāra, [[Srngāra tilaka|Śṛṅgāra- tilaka]], Ratnakiriṭa, [[Manimukuta|Maṇimukuṭa]]. It appears that Ṣaṭakopa of Vatsa-gotra was his guru and he was the son of Varada (last verse in com. on Yuddhakāṇḍa). At the end of his commentary on Sundarakāṇḍa, he states that he looked into several commentaries of former ācāryas.
 
@@ -700,9 +616,7 @@ Mr. S. N. Tadpatrikar (in ABORI vol. V. pp. 61-68) refers to the word ‘Mūlar�
 
 The Rāmāyaṇa, being a Kāvya and an Ākhyāna (as stated in Dānasāgara, Introductory verse, 15, p. 3), it is sparingly quoted in Dharmaśāstra works. Dr. Bhabatosh Bhattacharya in his paper on ‘The Rāmāyaṇa and its influence on [[Ballūlasena|Ballālasena]] and [[Raghunavdana|Raghunandana]]'[^449] published in J. O. I. (Baroda), vol II, pp. 18-22 points out that only one out of
 
-[^448]: इत्यशेषपुराणेभ्यः पञ्चरात्रेभ्य एव च । भारताच्चैव वेदेभ्यो महारामायणादपि ॥
-
-परस्परविरोधस्य [[हानानिय|हानानिर्णीय]] तत्त्वतः । युक्त्या बुद्धिबलाच्चैव विष्णोरेव प्रसादतः ॥ बहुकल्पानुसारेण मयेयं साकथोदिता। नैकग्रन्थाश्रया [[तस्मा. AT499 Fabia|तस्मान्नाशङ्क्यात्र विरुद्धता]] IX.125-127.
+[^448]: इत्यशेषपुराणेभ्यः पञ्चरात्रेभ्य एव च । भारताच्चैव वेदेभ्यो महारामायणादपि ॥ परस्परविरोधस्य हानान्निर्णाय तत्त्वतः । युक्त्या बुद्धिबलाच्चैव विष्णोरेव प्रसादतः ॥ बहुकल्पानुसारेण मयेयं संकथोदिता । नैकग्रन्थाश्रया तस्मान्नाशङ्क्यात्र विरुद्धता ॥ IX. 125-127.
 
 [^449]: It may be stated that the writer of this paper failed to note that the same verse is quoted by an earlier writer viz. Aparārka ( p. 385 on Yāj. I. 211 ) and that Aparārka also quotes on p. 875 the verse 'इदं...विमलं दिव्यमक्षयम् । पितृलोकेषु पानीयं मदत्तमुपतिष्ठताम् ॥' ( अयोध्या० 103. 27. Nir. ed. ).
 
@@ -712,17 +626,13 @@ It is impossible to deal with the numerous writings on the Rāmāyaṇa. Jacobi'
 
 [^372]: वेदानध्यापयामास महाभारतपञ्चमान् । सुमन्तुं जैमिनिं पैलं शुकं चैव स्वमात्मजम् । प्रभुर्वरिष्ठो वरदो वैशम्पायनमेव च ॥ संहितास्तैः पृथक्त्वेन भारतस्य प्रकाशिताः । आदि 63. 89-90.
 
-[^377]: ( 1 ) स्मरन्ति च । वे. सू. II. 3. 47 ; शंकराचार्य remarks : स्मरन्ति च व्यासादयो यथा जैवेन दुःखेन न परमात्मा दुःखायत इति । तत्र परमात्मा...स सप्तदशकेनापि राशिना युज्यते पुनः ॥ These verses are Śānti 351. 14-16 ; no other smṛti passages are quoted by him on this sūtra and also on the next sūtra quoted here. ( 2 ) अपि च संराधने प्रत्यक्षानुमानाभ्याम् । वे. सू. III. 2. 24 ; शंकराचार्य explains ' प्रत्यक्षानुमानाभ्यां श्रुतिस्मृतिभ्यामित्यर्थः ' and quotes a verse and a half ; the first occurs in Śānti 47. 54 and also in 284. 69 ; ( 3 ) स्मर्यते च । वे. सू. IV. 2. 14 शंकराचार्य explains : स्मर्यतेपि च महाभारते गत्युत्क्रान्त्योरभावः-सर्वभूतात्मभूतस्य सम्यग्भूतानि पश्यतः । देवा अपि मार्गे मुह्यन्त्यपदस्य पदैषिणः ॥ इति...तथा च त तत्रैवोपसंहृतम् । शुकस्तु मारुच्छीघ्रां गतिं कृत्वान्तरिक्षगः । दर्शयित्वा प्रभावं स्वं सर्वभूतगतोऽभवत् ॥ इति । The verses are Śāntiparva 262. 32 ( and also 269. 22 and 333. 19-20 ).
-
-[^378]: न ते वागनृता काव्ये काचिदत्र भविष्यति । तस्य बुद्धिरियं जाता वाल्मीकेर्भावितात्मनः । कृत्स्नं रामायणं काव्यमीदृशैः करवाण्यहम्...समाक्षरैः श्लोकशतैर्यशस्विनो यशस्करं काव्यमुदारधीर्मुनिः ॥ बालकाण्ड 2. 35, 41 ; आदिकाव्यमिदं त्वार्षं पुरा वाल्मीकिना कृतम् । युद्धकाण्ड 131. 107 ; कविः कुशलवौ तौ चकार किल नामतः । ... स्वकृतिं गापयामास कविप्रथमपद्धतिम् कवेराद्यस्य शासनात् । रघुवंश 15. 32, 33, 41.
-
 [^411]: ' न पृथिव्यां व्रीहियवं हिरण्यं पशवः स्त्रियः । नालमेकस्य तत्सर्वमिति मत्वा शमं व्रजेत् ॥ . The Ch. ed. reads this as ' पृथिवीरत्नसम्पूर्णा हिरण्यं ... व्रजेत् ' ( आदि 75. 51 ) ; आश्रमा विहिताः सर्वे वर्जयित्वा निरामिषम् । शान्ति 63. 13.
 
 [^412]: सर्वानेवागामिनः पार्थिवेन्द्रान् भूयो भूयो याचते राजसिंहः । सामान्योऽयं धर्मसेतुर्नराणां काले काले पालनीयो भवद्भिः ॥ It is the same No. 10 on p. 1273 of the H of Dh. vol. II, with this difference that the order of the two halves is reversed and that the words underlined are differently read in this ins. namely राजसिंहः for रामचन्द्रः, नराणां for नृपाणां and सर्वानेवागा...न्द्रान् for सर्वान्तानेवं भाविनो भूमिपालान्.
 
 [^413]: चतुःषष्टिषु कलासु विशारदाः । कलानामानि तु श्रीमद्भागवतदशमस्कन्धटीकायां श्रीधरस्वामिभिर्दर्शितानि ; । on सभा 61. 9. अत एव श्रीमद्भागवतस्थो हरिनिन्दाग्रन्थः स्तुतिपरत्वेनैव व्याख्यातः श्रीधरस्वामिभिः । on सभा 41. 1.
 
-[^417]: मिषतां सर्वयोधानां समस्ताः प्रमदोत्तमाः । समन्ततोऽवकृष्यन्त कामाच्चान्याः प्रवर्तयुः ॥ मौसल० 7. 69.
+[^417]: मिषतां सर्वयोधानां समस्ताः प्रमदोत्तमाः । समन्ततोऽवकृष्यन्त कामाच्चान्याः प्रवव्रजुः ॥ मौसल० 7. 59.
 
 [^421]: अङ्कमारोप्य तु पुरा रावणेन बलाद्धृताम् । लङ्कामपि पुरा नीतामशोकवनिकां गताम् । रक्षसां वशमापन्नां कथं रामो न कुत्सते । अस्माकमपि दारेषु सहनीयं भविष्यति । यथा हि कुरुते राजा प्रजा तमनुवर्तते । उत्तरकाण्ड 53. 16-19. Compare ' स किंवदन्तीं वदतां पुरोगः स्ववृत्तमुद्दिश्य विशुद्धवृत्तः । सर्पाधिराजोरुभुजोऽपसर्पं पप्रच्छ भद्रं विजितारिभद्रः ॥ ' रघु. 14. 31.
 
@@ -741,15 +651,3 @@ It is impossible to deal with the numerous writings on the Rāmāyaṇa. Jacobi'
 [^428]: द्युमत्सेनसुतं वीरं सत्यवन्तमनुव्रतम् । सावित्रीमिव मां विद्धि त्वमात्मवशवर्तिनीम् ॥ अयोध्या 30. 6.
 
 [^429]: लोपामुद्रा यथागस्त्यं सुकन्या च्यवनं यथा । सावित्री सत्यवन्तं च कपिलं श्रीमती यथा ॥ सौदासं मदयन्तीव केशिनी सगरं यथा । नैषधं दमयन्तीव भैमी पतिमनुव्रता । सुन्दर० 24. 11-12. The हर्षचरित ( I उच्छ्वास pp. 11-12 of the author's edition ) refers to सुकन्या, daughter of king शर्याति and her marriage with sage च्यवन who had his hermitage about two krośas beyond the Śoṇa ( river ).
-
-[^431]: अर्वाची सुभगे भव सीते वन्दामहे त्वा । यथा नः सुभगाससि यथा नः सुभगंससि ॥ इन्द्रः सीतां निगृह्णातु तां पूषानु यच्छतु । सा नः पयस्वती दुहामुत्तरां समाम् ॥ ऋग्. IV. 57. 6-7. सीता means the furrow left by the plough.
-
-[^436]: रविसंक्रान्तसौभाग्यस्तुषारारुणमण्डलः । निःश्वासान्ध इवादर्शश्चन्द्रमा न प्रकाशते ॥ अरण्यकाण्ड 16. 13 ( the Madras edition of रामायण reads तुषारावृतमण्डलः ).
-
-[^437]: विनष्टः पश्यतो यस्य रक्षितुः शरणागतः । आदाय सुकृतं तस्मात्सर्वं गच्छत्यरक्षितः ॥ अयोध्याकाण्ड 18. 30 q. by अपरार्क p. 385.
-
-[^439]: रामायणे जलप्रदानवाक्यं राम आह । इदं पुरुषशार्दूल विमलं दिव्यमक्षयम् । पितृलोकेषु पानीयं मदत्तमुपतिष्ठताम् ॥ अपरार्क on या. III. 5. p. 875. The verse occurs with slight variations in अयोध्या 103. 27: राजशार्दूल विमलं तोयमक्षयम् । पितृलोकगतस्याथ मदत्तमुपतिष्ठतु ॥
-
-[^440]: यत्नवन्तो यवद्वीपं सप्तराज्योपशोभितम् ॥ सुवर्णरूप्यकं चैव सुवर्णकारमण्डितम् यवद्वीपमतिक्रम्य शिशिरो नाम पर्वतः ॥ किष्किन्धा 40. 29-30.
-
-[^443]: अहमतितनुश्चैव वानरश्च विशेषतः । वाचं चोदाहरिष्यामि मानुषीमिह संस्कृताम् ॥ यदि वाचं प्रदास्यामि द्विजातिरिव संस्कृताम् । रावणं मन्यमाना मां सीता भीता भविष्यति ॥ वानरस्य विशेषेण कथं स्यादभिभाषणम् । अवश्यमेव वक्तव्यं मानुषं वाक्यमर्थवत् । सुन्दर० 30. 17-19.

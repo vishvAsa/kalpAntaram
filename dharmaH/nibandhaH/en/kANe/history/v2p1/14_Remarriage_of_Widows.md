@@ -205,7 +205,7 @@ Kautilya (III. 4) prescribes some interesting rules:
 The story of Damayanti suggests that when the husband was not heard of for many years, a wife could marry again. Damayanti is said to have sent a message to [[R̥tuparna|Ṛtuparṇa]] that, as Nala was not heard of for many years, Damayanti was going to celebrate a [[syayam-vara|svayaṁvara]] and [[Rtuparna|Ṛtuparṇa]] hurries for it and does not think it a strange thing (Vanaparva 70. 24).
 
 [^1442]:
-    [[अष्टौ वर्षापयुदीक्षेत पाह्मणी पोषितं पतिम् । अप्रसूता तु चत्वारि परतोऽन्य THTT t shirt Tren tuoits : HT \# amrat Tiet prora: 1 mi n uto foua IFTTT ( te vy. 98-101.).|अष्टौ वर्षाण्युदीक्षेत ब्राह्मणी प्रोषितं पतिम् । अप्रसूता तु चत्वारि परतोऽन्यं समाश्रयेत् ॥ (नारद, स्त्रीपुंसाध्याय 98-101).]]
+    अष्टौ वर्षाण्युदीक्षेत ब्राह्मणी प्रोषितं पतिम् । अप्रसूता तु चत्वारि परतोऽन्यं समाश्रयेत् ॥ ...जीवति श्रूयमाणे तु स्यादेष द्विगुणोऽवधिः ॥ अप्रवृत्तौ तु भूतानां दृष्टिरेशा प्रजापतेः । अतोऽन्यगमने स्त्रीणामेष दोषो न विद्यते । नारद ( स्त्रीपुंस vv. 98–101 ).
 
 
 [[P614]]
@@ -226,7 +226,7 @@ Certain passages of the [[Atharvaveda|Atharvaveda]] may be considered in connect
 The first verse is not to be taken literally in the sense that a woman married ten persons in succession and that the 11th was a _brāhmaṇa_; the first verse contains rather what is called 'praudhivāda' (pompous assertion or boast) and this is indicated by the word 'uta'. The verse may at the most mean that if a woman has first a _kṣatriya_ or _vaiśya_ as husband, and she marries on his death a _brāhmaṇa_, then the _brāhmaṇa_ is the real husband. The word "_pati_" may also have been used loosely and all that is meant may be that if a girl is promised to ten persons one after another and then lastly to a _brāhmaṇa_, the latter is to be accepted as the best.
 
 [^1443]:
-    Vide 'Marriage and Stridhana' (5th ed.) p. 309 'one of those rules of selection requires that the parties to marriage should be of different gotras; but what is to be regarded as the gotra of a widow the gotra of her father in which she was born or that of her deceased husband to which she has been transferred by marriage?'.
+    Vide 'Marriage and Strīdhana' (5th ed.) p. 309 'one of these rules of selection requires that the parties to marriage should be of different gotras; but what is to be regarded as the gotra of a widow—the gotra of her father in which she was born or that of her deceased husband to which she has been transferred by marriage?'.
 
 [^1444]:
     कन्याप्रद इति वचनादक्षताया एव नैयमिकं दानम् । पिता स्वकन्यामपि दद्यादिति केचित् । विश्वरूप on या. I. 63.
@@ -262,7 +262,7 @@ One of the earliest historical instances is the remarriage of Dhruvadevi, queen 
 Among [[sūdras|Śūdras]] and other lower castes widow remarriage has been allowed by custom, though it is held to be somewhat inferior to the marriage of a maiden. [^1447]
 
 [^1447]:
-    [[Vido Steelo's "Law and Custom of Hindu Castes' pr. 26, 168-169.616|Vide Steele's "Law and Custom of Hindu Castes", pp. 26, 168-169.]]
+    Vide Steele's 'Law and Custom of Hindu Castes' pp. 26, 168–169.
 
 [[P616]]
 
@@ -279,7 +279,7 @@ Between the ages of 5-10, 11-15, 16-20 the numbers of Hindu widows for the whole
 Persons finding fault with Hindu society for large numbers of child widows should not forget one thing. According to Hindu notions every girl must be married at any cost. Hence, people rush into [[cbild|child]] marriages. But there has been no problem of old spinsters in Hindu society, as there is in Western countries, though it appears that in the near future that problem will arise even in India.
 
 [^1448]:
-    [[Vide Reg. v. Karsan Goja, 2 Bombay High Court Reports 117; Reg. v. Sambhu, 1 Bom. 347, Keshav v. Bai Gandhi, 39 Bonn. 638.|Vide Reg. v. Karsan Goja, 2 Bombay High Court Reports 117; Reg. v. Sambhu, 1 Bom. 347; Keshav v. Bai Gandhi, 39 Bom. 638.]]
+    Vide Reg. v. Karsan Goja, 2 Bombay High Court Reports 117; Reg. v. Sambhu, 1 Bom. 347, Keshav v. Bai Gandhi, 39 Bom. 538.
 
 [^1449]:
     Vide Census of India 1931, Vol. I, Part 2, Imperial Tables, pp. 120-122.
@@ -430,7 +430,7 @@ if both have come to hate each other.
 But he seems to hold that there can be no release at the instance of only one party to the marriage  
 who has begun to feel aversion to the other party in whatever form the marriage may have been performed.
 
-Even in this latter [[nabe??|case]] he apparently makes an exception, where physical danger is apprehended by one party from the other.
+Even in this latter [[nabe|case]] he apparently makes an exception, where physical danger is apprehended by one party from the other.
 
 ### Comparison
 It is beyond the scope of this work to compare the law of divorce in other countries or under other religious systems.  

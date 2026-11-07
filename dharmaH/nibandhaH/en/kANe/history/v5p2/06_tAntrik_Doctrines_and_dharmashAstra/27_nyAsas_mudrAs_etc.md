@@ -3,714 +3,379 @@ title = "27 Nyāsas, Mudrās, etc"
 
 +++
 
-CHAPTER XXVII Nyāsas, Mudrās, Yantra, Cakra, Mandala, etc. 
+[[P1120]]CHAPTER XXVII Nyāsas, Mudrās, Yantra, Cakra, [[Mandala,|Maṇḍala,]] etc. 
 
-One of the important items in the Tantrik ritual and worship is nyūza, which means mentally invoking a god or gods, mantras and holy texts to come to occupy certain parts of the body in order to render the body a pure and fit receptacle for worship and meditation'. Soveral works such as the Jayākhya-samhitā (Patala XI), Prapancasāra (VI), Kulārṇava (IV. 18 ff) refer to several kinds of nyāga; the Saradātilaka (IV. 29-41, V. 5-7), Mahānirvāpatantra (III, 41-43, V. 113-118) describe several varieties of ayāsa. Rāghavabhatta on Śārada tilaka (IV. 29-41) cites numerous quotations on nyāsa from an extensive literature. There are several kinds of pyāsa such 1828 as Hamsanyāsa, Prapavanyāsa, Mātṛkanyisa, Mantranyāsa, Karagyāsa, Anganyāsa, Pithanyāsa. Pranavanyaga is illustrated as 'om ām Brahmane namah', 'om ām Viṣnavo namaḥ' and 80 on for all the names set out by Raghavabhatta on sāradātilaka 25. 58, The Adganyasa (nyāsa on parts of the body) is illustrated as follows: om bṭdayāya namaḥ, om sirase svābi, sikhāyai vaṣat, om kavacıya hum, om netratrayāya (or netradvayāya) vaṣat, om astrāya phat'. Several Purāṇas contain provisions about nyasa. The Garuḍapurāṇa (I. chapters 26, 31, 32) describes anganyāsa as part of worship, japa and homa The Nāradiyapurāṇa (II. 57. 13-14), the Bhāgavata (VI. 8, about 40 verses ), Brahma (60. 35-40 ) provide for nyāsa of the mantras 'om naino Nārāyaṇāya', and 'om Viṣnaye namaḥ' The Kalikāpurāpa (chap. 77) deals with Mātýkānyāsa. The Smrtimuktāphala (Ahnika pp. 329-331) quotes several passages dealing with nyāsa of the 24 letters of the Gāyatri (Rg. III, 62.10 ) on several parts of the body, meditation on each of the 24 letters as having certain colours of flowers and as identical with certain gods and avatāras and nyāsa of the Gāyatripādas on limbs. The Brahmapurāṇa 
+One of the important items in the [[Tantrik|Tāntrik]] ritual and worship is *[[nyūza|nyāsa]]*, which means 'mentally invoking a god or gods, mantras and holy texts to come to occupy certain parts of the body in order to render the body a pure and fit receptacle for worship and meditation'. [[Soveral|Several]] works such as the Jayākhya-[[samhitā|saṁhitā]] ([[Patala|Paṭala]] XI), [[Prapancasāra|Prapañcasāra]] (VI), Kulārṇava (IV. 18 ff) refer to several kinds of [[nyāga|nyāsa]]; the [[Saradātilaka|Śāradātilaka]] (IV. 29-41, V. 5-7), [[Mahānirvāpatantra|Mahānirvāṇatantra]] (III. 41-43, V. 113-118) describe several varieties of [[ayāsa|nyāsa]]. [[Rāghavabhatta|Rāghavabhaṭṭa]] on [[Śārada tilaka|Śāradātilaka]] (IV. 29-41) cites numerous quotations on nyāsa from an extensive literature. There are several kinds of [[pyāsa|nyāsa]] such[^1828] as [[Hamsanyāsa,|Haṁsanyāsa,]] [[Prapavanyāsa,|Praṇavanyāsa,]] [[Mātṛkanyisa,|Mātṛkānyāsa,]] Mantranyāsa, [[Karagyāsa,|Karanyāsa,]] [[Anganyāsa,|Aṅganyāsa,]] [[Pithanyāsa.|Pīṭhanyāsa.]] [[Pranavanyaga|Praṇavanyāsa]] is illustrated as '[[om|oṁ]] ām [[Brahmane|Brahmaṇe]] [[namah|namaḥ]]', '[[om|oṁ]] ām [[Viṣnavo|Viṣṇave]] namaḥ' and [[80|so]] on for all the names set out by [[Raghavabhatta|Rāghavabhaṭṭa]] on [[sāradātilaka|Śāradātilaka]] 25. 58. The [[Adganyasa|Aṅganyāsa]] (nyāsa on parts of the body) is illustrated as follows: [[om|oṁ]] [[bṭdayāya|hṛdayāya]] namaḥ, [[om|oṁ]] [[sirase|śirase]] [[svābi,|svāhā,]] [[sikhāyai|śikhāyai]] [[vaṣat,|vaṣaṭ,]] [[om|oṁ]] [[kavacıya|kavacāya]] [[hum,|huṁ,]] [[om|oṁ]] netratrayāya (or netradvayāya) [[vaṣat,|vaṣaṭ,]] [[om|oṁ]] astrāya [[phat'.|phaṭ'.]] Several Purāṇas contain provisions about [[nyasa.|nyāsa.]] The Garuḍapurāṇa (I. chapters 26, 31, 32) describes [[anganyāsa|aṅganyāsa]] as part of worship, japa and [[homa|homa.]] The [[Nāradiyapurāṇa|Nāradīyapurāṇa]] (II. 57. 13-14), the Bhāgavata (VI. 8, about 40 [[verses ),|verses),]] Brahma (60. [[35-40 )|35-40)]] provide for nyāsa of the mantras '[[om naino|om namo]] Nārāyaṇāya', and 'om [[Viṣnaye|Viṣṇave]] [[namaḥ' The Kalikāpurāpa|namaḥ'. The Kālikāpurāṇa]] (chap. 77) deals with [[Mātýkānyāsa.|Mātṛkānyāsa.]] The [[Smrtimuktāphala|Smṛtimuktāphala]] ([[Ahnika|Āhnika]] pp. 329-331) quotes several passages dealing with nyāsa of the 24 letters of the [[Gāyatri|Gāyatrī]] ([[Rg.|Ṛg.]] III. [[62.10 )|62. 10)]] on several parts of the body, meditation on each of the 24 letters as having certain colours of flowers and as identical with certain gods and avatāras and nyāsa of the [[Gāyatripādas|Gāyatrīpādas]] on limbs. The Brahmapurāṇa [[P1121]](60. 35-39) [[doals|deals]] with the [[Dying|nyāsa]] of the mantra '[[am|om]] namo [[Nārāyanāya'|Nārāyaṇāya']] on the fingers and [[alao|also]] on other parts of the [[body.|body,]] and speaks of Karanyāsa and [[Adganyāsa|Aṅganyāsa]] in [[28. 26.|38. 26.]] [[Padus to|Padma]][^1829] (VI. [[79,|79.]] 17-30) describes the nyāsa of the names of [[Vishu|Viṣṇu]] on the limbs of the body from the head to the [[foot|feet]] and Padma VI. [[83.|85.]] 26 speaks of [[Anganyāds|Aṅganyāsa]] and [[Karanyasa|Karanyāsa]] with the mantra 'om namo bhagavate [[Vasudevaya'. [The Mateyapranam|Vāsudevāya'. The Matsyapurāṇa]][^1830] provides for the employment in [[pyāsā|nyāsa]] of mantras with 'om' prefixed to them. [[Karanganyāss|Karāṅganyāsa]] and [[Anganyāsa of Gayatet|Aṅganyāsa of Gāyatrī]] are dealt with in [[Devibhagavata xI.|Devībhāgavata XI.]] 16. 76-91 and it [[ar pressly|expressly]] names nyāsa as part of sandhyā worship.[^1831] Vide also [[Devibhagavata XI.7.26-38|Devībhāgavata XI. 7. 26-38]] for [[nyasa|nyāsa]] and [[Kalikapurapa 53.36.|Kālikāpurāṇa 53. 36.]] The [[Devibhagavata (VII,|Devībhāgavata (VII.]] 40. 6-8) mentions the [[nyāga of oartain|nyāsa of certain]] letters on such parts of the body as the [[chost,|chest,]] the space between the eyebrows, the head. The [[Brhad-yogiyajnavalkyasn|Bṛhad-yogiyājñavalkya]][^1832] contained [[P1122]]verses dealing with the nyāsa of the names of Viṣṇu such as Govinda, [[Mahdhara,|Mahīdhara,]] [[Ergikoda,|Hṛṣīkeśa,]] Trivikrama, [[Vipa,|Viṣṇu,]] [[Midhava OB|Mādhava on]] the fingers of the right hand and the palm and back [[rospectively,|respectively,]] which are quoted by the [[Smrtioandrika|Smṛticandrikā]] (I. p. 198) [[As|as]] from Yoga-yājñavalkya and which have been taken over in the sandhyā worship in modern times. The latter work (Sm. C. I. p. 145) also contains Aṅganyāsa of several portions of Gāyatrī, the nyāsa of the single letters of the Gāyatrī on the [[limbe|limbs]] and Aparārka (p. 140) quotes a passage for the [[employ mant|employment]] of the sixteen verses of the Puruṣasūkta (Ṛg. X. 90) for [[Ayasa|nyāsa]] on the several limbs in the worship of Viṣṇu. For the [[pyare|nyāsa]] of the letters of the alphabet from 'a' to 'kṣa', vide [[sazadetilaka|Śāradātilaka]] V. 5-8 and Rāghavabhaṭṭa on V. 4 who quotes verses setting out how each letter is to be meditated upon. The Mahānirvāṇa (V. [[176-178 )|176-178)]] also specifies the limbs on which there is to be [[ayaga|nyāsa]] of the letters of the alphabet from the forehead downwards. 
 
-1828. To illustrates CAFATF as guarna Hi, \#: 49UTH Ai, \#\#: fagoiena :: on mat. IV. 29; men att g ranatararat पवं समस्ततन्त्रेषु विद्भिः समुवीरितम्॥ शिरसोः शिवायर्या कवचाश्यमे सहचतुर्थी। 
+The above passages show that the item of nyāsa was taken over from Tāntrika works in the Purāṇas for the rites of the orthodox people several [[conturies|centuries]] before Yogayājñavalkya, [[Apariska|Aparārka]] (first half of 12th century A.D.) and the [[Smrti candrika.|Smṛticandrikā.]] The [[Varsakriyakaumudi 1823 (|Varṣakriyākaumudī]][^1833] (about first half of 16th century) shows that long before it the Garuḍa and the Kālikā purāṇas contained provisions on [[nyaste|nyāsa.]] The [[Dovapratisthā tattya|Devapratiṣṭhātattva]] of Raghunandana (p. 505) speaks of Mātṛkānyāsa and [[Tattvanyaan|Tattvanyāsa.]] The Pūjāprakāśa section of the [[Viramitrodaya|Vīramitrodaya]] dwells upon Mātṛkānyāsa, Aṅganyāsa, [[Gayatrinyāsa|Gāyatrīnyāsa]] on pp. 130, 131, 132 [[rospectively.|respectively.]] The Bhaktiprakāśa (pp. 88-89) of the same work deals with Mātṛkānyāsa. In modern times some orthodox people still perform two kinds of [[nyl8as|nyāsas]] as follows: The Antarmātṛkā which consists in the [[mystia|mystic]] assignment (mentally) of the letters of the alphabet ([[fron|from]] 'a' to 'kṣa') on the fingers of the hands and on the palm and back of the [[bands|hands]] and on several parts of the body viz. the throat, [[orgads of geno ration,|organs of generation,]] the ādhāra place and the middle of the eyebrow (as the [[Bests|seats]] of the six psychic cakras mentioned in note 1715 above). The [[Bahirmātśkānyiga|Bahirmātṛkānyāsa]] consists in assigning the individual alphabet letters with anusvāra on each on the limbs from head to feet in such forms as 'āṁ namaḥ mūrdhni' and so on. 
 
-TEHT 0541 6 Isla Fiscal: :H AUFTE VI. 5-6. Compare Arcat. IV. 33-35 abd RETRATO III, 142 for similar provisloD8. 
+[[P1123]]The [[vord in te|word nyāsa is]] derived from the root [['as**thoi Whe al'|'as' 'to cast' with 'ni']] and literally [[meam placing out deponiting the di te|means 'placing or depositing in or on'. The]] [[Kaliraya plains|Kulārṇava explains]] it as follows:[^1834] 'nyāsa is so called [[batt|because]] therein [[riahes|riches]] that are [[soguired|acquired]] in a righteous way are [[doponthed|deposited]] or [[plaoed|placed]] with [[parsons|persons]] whereby all-round protection is [[got' (mb|got' (so]] by the ritual touching of the [[best|chest]] and other [[limb|limbs]] with the [[than|tips]] of the fingers and the palm of the right hand accompanied by mantras the worshipper can act [[fearlously|fearlessly]] in the midst of [[had|bad]] men and becomes like a god). Vide [[Jaytkkyakanite|Jayākhyasaṁhitā]] quoted [[balow, its|below]][^1835]. 
 
-Nyara en links of the body 
+The subject of nyāsa was briefly dealt with in [[E. of Dile VOL.|H. of Dh. Vol.]] II. [[p.|pp.]] 319-320. In 'Principles of Tantra' Sir John [[Woodroffa|Woodroffe]] (pp. LXXI-LXXVII) compares the ritual of [[nyles|nyāsa]] with the Christian method of making the sign of the [[Cross|cross.]] 
 
-( 60. 35-39 ) doals with the Dying of the mantra 'am namo Nārāyanāya' on the fingers and alao on other parts of the body. and speaks of Karanyāsa and Adganyāsa in 28. 26. Padus to ( VI. 79, 17-30) describes the nyāsa of the names of Vishu on the limbs of the body from the head to the foot and Padma VI. 83. 26 speaks of Anganyāds and Karanyasa with the mantra 'om namo bhagavate Vasudevaya'. [The Mateyapranam provides for the employment in pyāsā of mantras withom prefixed to them. Karanganyāss and Anganyāsa of Gayatet are dealt with in Devibhagavata xI. 16. 76-91 and it ar pressly names nyāsa as part of sandhyā worship. 1831 Vide also Devibhagavata XI.7.26-38 for nyasa and Kalikapurapa 53.36. The Devibhagavata (VII, 40. 6-8) mentions the nyāga of oartain letters on such parts of the body as the chost, the space between the eyebrows, the head. The Brhad-yogiyajnavalkyasn contained 
+Mudrā is another characteristic item in Tāntrik [[ritual|ritual.]] The word mudrā [[kas|has]] several meanings, four of [[whioh|which]] have [[.|a]] bearing on [[Pantrik|Tāntrik]] practices. It means [[&|a]] posture in [[yogio|yogic]] practices in which the whole body plays a [[part It|part. It]] also [[meana that|means the]] symbolic or mystic intertwining of the fingers and [[handa|hands]] as part of religious worship. Mudrā is also the 4th of the five [[makes|makāras]] and means various kinds of grains [[mired|mixed]] with ghee or other [[Ingredient|ingredient]] (vide note 1752 above) or parched grains. A fourth meaning of [[modrā|mudrā]] is the woman with whom [[& Tantrik yogi apo ciates|a Tāntrika yogī associates]] himself (as in [[Prajpopaya o|Prajñopāya]] V. 24 and [[Sakoddadatik|Sekoddeśaṭīkā]] p. 56). The [[Kularnava|Kulārṇava]] derives the word from 'mud' [[meaning' dalight|meaning 'delight']] or [['pleassure'|'pleasure']] and 'drāvay' (causal of [['dru')|'dru']]) and says [['mudras|'mudrās]] (ritual finger and hand poses) should be shown ([[|in]] worship) and are so known because they give delight to the gods and make [[thefr|their]] minds melt (with compassion for the worshipper). But the [[Sāradatilaka 1836|Śāradātilaka]][^1836] appears to derive it from 'mud' and [['A'(to|'rā' (to]] [[P1124]]give) and according to it mudrā means 'what affords pleasure to the Gods'. Other derivations are also proposed (vide J. O. [[R.|I.]] Baroda, vol. VI. p. 13). Rāghavabhaṭṭa states that the fingers from the thumb to the small finger are identified with the five elements viz. ākāśa (sky or ether), wind, fire, water and earth and that their contact with each other tends to make the deity favourable and delighted and induces the deity to be present at the worship, and that various appropriate mudrās are to be employed in worship, at the time of japa, in meditation and in all rites performed for securing some desired object or benefit, since they induce the deity to be present (near the [[worslip per|worshipper]][^1837]). It was supposed that mudrās helped in enhancing concentration on the part of the worshipper. Even as early as the 7th century it was believed that the making of mudrās may bring to life one who, being poisoned had fallen into coma, as the Kādambarī quoted below shows. The [[Varsakriya kanmudi|Varṣakriyākaumudī]] quotes a verse saying that japa, prāṇāyāma, worship of gods, yoga, meditation and āsanas are fruitless unless accompanied by appropriate mudrās. 
 
-1829. The passage of पद्म VI. 79. 17-30 begins and ends as follows: शिखायां श्रीधरं न्यस्य शिखाधः श्रीकर तथा। हषीकेशं तु केशेषु मूधि नारायणं परम् । एवं 
+The word mudrā occurs in the name of [[Lopamudra|Lopāmudrā]],[^1838] wife of Agastya, who figures in a hymn of the Ṛg. (I. 179. 4). The word [['mndra'|'mudrā']] is not mentioned in the Amarakośa. 
 
-न्यासविधि कुला साक्षानारायणो भवेत् । यावत व्याहरेकिंचित् तावद्विष्णुमयः स्थितः। 
+[[P1125]]The H. of Dh. [[Yol.|vol.]] II. (pp. 320-321) makes a brief mention of [[mandras|mudrās]] in worship and refers to the work of [[Mlae|Miss]] Tyra de Kleen on the [[mudris|mudrās]] practised by Bauddha and Śaiva priests called *[[pedandus|pedandas]]* in the island of Bali. Here the same subject will be dealt with in a little more detail and from different points of view. 
 
-1830. ओझरपूर्वका होते न्यासे बलिनिवेदने। मन्त्राः स्युः सर्वकार्याणां वृद्धिपुनात प्रदा: मत्स्य 266. 29, 
+There is a great divergence among the Tantra, Purāṇa and Yoga works on the number, names and definitions of mudrās. This may be briefly illustrated. 
 
-X831. अथ न्यासविधि वक्ष्ये सध्याया असम्भवम् । XI. 16. 76. The संस्काररत्नमाला, a comparatively modern work, remarks (p. 229) that Nyāsa has no Vedic authority and hence some do not perform it 'एपोइन्यासः। एतमेके नेच्छन्ति स ह विधिरवैविक इति।।. The पडङ्गन्यास of यात्री the form 'तत्सवितुईदयाय नमः, वरेण्यं शिरसे स्वाहा, भमों देवस्य शिखायै वषट्, धीमहि कवचाय हुँ, धियो यो नो नेत्रत्रयाय वौषट्, प्रचोदयात् अस्त्राय फट् । इति पन्यास कार्य। न वा कार्यों न्यासविधेरवैदिकत्वादिति गृहापरिशिष्टे स्पष्टम्। तेनाक्षरन्यासपादन्यासादीनां मुद्रादिविधेः शापमोचनादिविधेश्च तान्त्रिकत्वेनावैदिकत्वादनावश्यकत्वं वेदितव्यम्। धर्मसिम्यु III. 8. 272. The passage quoted by Aparārka is interesting and a few verses are cited here 'अप्स्वनौ हदये सूर्ये स्थण्ठिले प्रतिमाहुंचा पदखेवेषु होसम्बर सुनिमिः स्मृतम्। अनो क्रियावां देवो विधि देवो मनीषिणाम्। प्रतिमाखल्पादीनां बोकिलां हृदये हरिः। आनुष्टभस्य मुक्तस्य त्रिभुवन्तस्य देवता। पुरुषो यो जगदपीबपिन रावका का। प्रथमां विन्यसेवाने द्वितीयां दक्षिणे करे। तृतीयां वामपादेची दक्षिणेम्पसेद। आरो पशवी चैव षोडशी भूमि विन्यसेत् । अपरार्क pp. 140-141. आहामस्य सचस्व refer.in the gove (F. X. 90), the first fifteen verses of which are in anugabh metre and the 16th (last verse) is in विन्दुम् metre. The verses from अप्सो to नारायणः स्मृतः are नरसिंहपुराण 62,5-8 (with alight variations). 
+In the Tāntrik texts (Vol. I. pp. 46-47) there is a nighaṇṭu (a glossary or enumeration) of mudrās with names and definitions, where it is stated that nine mudrās (āvāhanī and others) are common (i.e. capable of being employed in any worship); and then are enumerated mudrās specially appropriate to Viṣṇu worship (19 in all viz. Śaṅkha, Cakra, Gadā, Padma, [[Vemo,|Veṇu,]] [[Śrlvataa,|Śrīvatsa,]] Kaustubha, Vanamālā, Jñāna, Vidyā, Garuḍa, [[Nara simhi,|Narasiṁhī,]] [[Varāhi,|Vārāhī,]] [[Hayagrivi,|Hayagrīvī,]] Dhanus, Bāṇa, Paraśu, Jagan-mohinī, Vāma; ten of Śiva (Liṅga, Yoni, Triśūla, [[Aksamala,|Akṣamālā,]] Abhiti i.e. abhaya, Mṛga, Asikā, Khaṭvāṅga (a club with a skull at the top), Kapāla, Ḍamaru; one of the Sun (viz. Padma); seven of Gaṇeśa (Danta, Pāśa, Aṅkuśa, Avighna, [[Paśu,|Parśu,]] Laḍḍuka, Bījapūra (i.e. a citron).[^1839] 
 
-1832, अमठे चैव गोबिन्द तर्जग्यां महीधरम्। मायमायां पीकेशमनामिका त्रिविक्रमम्। कनिष्ठिक्यां न्यसेहिष्णु हस्तमध्ये चमाधवम् । समविच. L.p. 198 guoting योमियाज्ञवल्क्य. These verses are quoted by स्मृतिमुक्ताफल (आहिक p. 331) from the स्मृतिचग्निका. The ed. of योमियाज्ञ. (chap.v) published by the कैवल्यधाम of Lonavala deals with nyisa but does not contain the above versos, 
+The [[Sārādatilaka|Śāradātilaka]] (23. 106-114) names only nine [[nudras|mudrās]] and defines them, while the [[Viṣpusambitā|Viṣṇusaṁhitā]] (VII) says that mudrās are innumerable ([[verso|verse]] 45), names about thirty and defines them and Jñānārṇava (IV), mentions at least nineteen. The [[Jayakhyagamhita ( 8th Patala )|Jayākhyasaṁhitā (8th Paṭala)]] has about 58 mudrās. The Tāntrik[^1840] works provide that mudrās should be [[praotised|practised]] [[P1126]]secretly under cover of a garment and not in the presence of many people and should not be announced to another as otherwise they become fruitless. The Kāmakalāvilāsa of Puṇyānanda expressly mentions (in verse 46) Trikhaṇḍā-mudrā and refers to the fact that there are nine mudrās.[^1841] The Nityaṣoḍaśikārṇava (3rd viśrāma) first defines Trikhaṇḍā, then names and defines nine mudrās most of which bear names different from those in the Śāradātilaka. The Mudrās mentioned by Nityaṣoḍaśikā apart from Trikhaṇḍā, are: Sarvasaṅkṣobhakāriṇī, Sarvavidrāviṇī, Ākarṣiṇī, Sarvāveśakarī, Unmādinī, Mahāṅkuśā, Khecarī, Bījamudrā, Yonimudrā. 
 
-H.D. 141 
+The Jñānārṇava Tantra (IV. 31-47 and 51-56 and XV. 47-68) names over thirty mudrās, several of which bear the same names as those in Nityaṣoḍaśikārṇava, are defined in a similar way and are quoted by Bhāskararāya in his commentary on the latter work. In these circumstances the author proposes to name and describe first of all the nine mudrās of the Śāradātilaka.[^1842] (1) Āvāhanī mudrā consists in folding both hands in a hollow and filling the hollow completely with flowers; (2) sthāpanī is the same as āvāhanī but the folded hands are held upside down; (3) the 'sannidhāpana-mudrā' occurs when the two hands are formed into a closed fist, are joined together with only the [[P1127]]thumbs raised up; (4) 'Sannirodhanī' means the same as the preceding but with the thumbs closed inside the fist; (5) the mudrā is called 'Saṁmukhīkaraṇī' when the two closed fists are held upwards; (6) 'Sakalīkṛti' mudrā is the action of making the nyāsa of the six limbs on the limbs of the (image of) the devatā (deity worshipped); (7) the 'Avaguṇṭhana' mudrā consists in closing the fingers held straight and turned downwards and waving the hand round (the image); (8) 'Dhenumudrā' (a complicated pose) is formed by putting the right small finger over the right ring finger, intertwining the former with the left ring finger, the left small finger as it is, to be intertwined with the right ring finger, the left ring finger is to be passed over the left middle finger and the left thumb, and to be intertwined with the right hand middle finger brought to the right side of the left index finger and the right hand index finger to be joined with the left hand middle finger; (9) Mahāmudrā is constituted by intertwining the thumbs of both hands and holding the other fingers straight. 
 
-Htwory of Dharmadestra (Sea VI Ch. XXVII 
+Some of the works on Yoga describe various mudrās. For example, the Haṭhayogapradīpikā (III. 6-23) describes at length ten mudrās and the Gheraṇḍasaṁhitā (III. 1-3) speaks of 25 mudrās and describes them in one hundred verses. The Śivasaṁhitā (IV. 15-31) mentions ten mudrās as the best. An important mudrā in Haṭhayoga practices is the Khecarīmudrā described in Devībhāgavata XI. 16. 62-65, Śivasaṁhitā IV. 31-33, Gheraṇḍasaṁhitā III. 25-27, Haṭhayogapradīpikā III. 32-53. This description differs from the definition of Khecarī in Jñānārṇava (15. 61-63) and Nityaṣoḍaśikārṇava III. 15-23. The Vajrolīmudrā (in Haṭhayogapradīpikā III. 82-96) cannot be set out here for reasons of decency and it was supposed to prolong the life of a yogin even after indulgence in sexual orgies. 
 
-Verres dealing with the nyuga of the names of Vianu such as Govinda, Mahdhara, Ergikoda, Trivikrama, Vipa, Midhava OB the fingers of the right hand and the palm and back rospectively, which are quoted by the Smrtioandrika (I. p. 198) As from Yoga-yajiavalkya and which have been taken over in the sandhyā worship in modern times. The latter work (Sm. O, L p. 145) also contains Anganyāsa of several portions of Gayatri, the nyāse of the single letters of the Gayatri on the limbe and Aparārka (p. 140 ) quotes & passage for the employ mant of the sixteen verses of the Purusasūkta (Rg. X. 90) for Ayasa on the several limbs in the worship of Viṣṇu. For the pyare of the letters of the alphabet from 'a' to'kṣa', vide sazadetilaka V. 5-8 and Raghavabhatta on V. 4 who quotes verses getting out how each letter is to be meditated upon. The Mahanirvana ( V. 176-178 ) also specifies the limbs on which there is to be ayaga of the letters of the alphabet from the forehead downwards. 
+Some of the Purāṇas contain an extensive treatment of mudrās. The Kālikāpurāṇa mentions aṅganyāsa, karanyāsa in chap. 66 and mudrās like Dhenumudrā, Yonimudrā, Mahāmudrā, Khecarīmudrā in 70. 36-56, 78. 3-6; Devībhāgavata (XI. 16. 98-102) speaks of 24 mudrās at the time of Gāyatrī-japa; the Brahmapurāṇa[^1843] and Nāradīyapurāṇa set out eight mudrās [[P1128]]of Viṣṇu worship. Vide Agnipurāṇa, chap. 26, for a brief reference in 7 verses to some mudrās. The Kālikāpurāṇa (70. 32) states that there are 108 mudrās, 55 for general worship and 53 on special occasions, such as collecting materials, drama, acting (naṭana). 
 
-The above passages show that the item of nyasa was taken over from Tantrika works in the Parāgas for the rites of the orthodox people several conturies before Yogayājöavalkya, Apariska (first half of 12th century A. D.) and the Smrti candrika. The Varsakriyakaumudi 1823 ( about first half of 16th century) shows that long before it the Garuḍa and the Kālika puranas contained provisions on nyaste The Dovapratisthā tattya of Raghunandana (p. 505) speaks of Matrkānyāsa and Tattvanyaan The Pūjāprakasa section of the Viramitrodaya dwells upon Matṛkānyāsa, Anganyāsa, Gayatrinyāsa on pp. 130, 131, 132 rospectively. The Bhaktiprakasa (pp. 88-89) of the same work deals with Mātrkānyāsa. In modern times some orthodox people still perform two kinds of nyl8as as follows: The Antarmātrks which consists in the mystia assignment (mentally ) of the letters of the alphabet (fron 'a' to kṣa') on the fingers of the hands and on the palm and back of the bands and on several parts of the body viz. the throat, orgads of geno ration, the adhāra place and the middle of the eyebrow (as the Bests of the six psychic cakras mentioned in note 1715 above ). The Bahirmātśkānyiga consists in assigning the individual alphabet letters with anusvāra on each on the limbs from head to feet in such forms as 'ām damaḥ mūrdhni' and so on. 
+Most verses of the Brahmāṇḍapurāṇa (in the Lalitopākhyāna, chap. 42) are the same as in the Mudrānighaṇṭu pp. 55-57 verses 110-118; but the largest number of mudrās in dancing is contained in the Viṣṇudharmottara (III). In chap. 32 it speaks of numerous rahasya (secret) mudrās in prose called mudrāhastas and in chap. 33 (1-124) it describes over one hundred sāmānyamudrās and the colophon at the end of the chapter calls them 'nṛttaśāstramudrās' (mudrās in the science of dramaturgy).[^1844] This opens up a subject which cannot be gone into here, viz. whether the mystic hand poses (mudrās) in worship were derived from the postures (karaṇas), recakas (gestures) and 32 aṅgahāras (movements of limbs) described in the Nāṭyaśāstra[^1845] of Bharata (chapters 4, 8 and 9). It may be noted that the Nāṭyaśāstra (in IV. 171 and 173) speaks of 'nṛttahastas'. Pāṇini knew naṭasūtras of Śilālin and Kṛśāśva.[^1846] Bharata speaks of four kinds of acting (abhinaya 8. 9-10) viz. āṅgika, vācika, āhārya, and sāttvika. In the 9th chapter the movements of the hands and fingers intertwined or joined are set out. Muṣṭi is defined by Bharata in 9. 55. Mudrās would fall under āṅgika abhinaya; aṅgahāras depended upon karaṇas [[P1129]]and the latter consisted of different arrangements of hands and feet. It is likely that the mudrās in the Hindu and Buddhist Tāntrik works are based on the poses that were evolved in ancient Indian dance and drama and that find their earliest extant description in Bharata-nāṭyaśāstra and that are also to be found in later medieval works on dramaturgy such as the Abhinayadarpaṇa.[^1847] 
 
-1833. बकाकालिकापुराणावि प्रथमान्याना केवलानाएण्यादीनां ग्यासवर्शनाचा. 
+The Āryamañjuśrīmūlakalpa names and defines 108 mudrās (p. 380). On p. 376 it states that the combination of mudrās and mantras would bring success in all actions and neither tithi, nor nakṣatra nor fasting would be required. In the Viṣṇudharmottarapurāṇa[^1848] there is a fine eulogy of the mudrās made in dancing viz. they are the graces of the rich, the removers of the sorrow of the distressed, the instruction of the ignorant, the increase of the blessedness (or charm) of women; they were created by Vāsudeva for the removal of portents, as the means of prosperity and of the attainment of desired objects. 
 
-. p. 124. 
+The Buddhists also had mudrās. One of the early works of the Mahāyāna school viz. Āryamañjuśrīmūlakalpa is full of mudrās in the 35th paṭala (pp. 355-381) and states (on p. 380) that there are 108 mudrās.[^1849] L. H. Waddell in 'the Buddhism of Tibet or Lamaism' (London, 1895) describes nine mudrās practised in Tibet by the Lamas (pp. 336-337). 
 
-fr 
+In the Indian Antiquary, vol. 26 (1897), pp. 24-25, Burgess mentions nine Buddhist mudrās (slightly differing from Waddell's descriptions) as follows :—(1) Bhūmispṛś or Bhūmisparśa mudrā, an attitude of Śākya Buddha ('making the earth as witness'); (2) Dharmacakra mudrā (teaching attitude); (3) Abhaya mudrā (of blessing), in which the left hand is open
 
-oriention of the word van 
+[^1828]: [[To|राघवभट्ट]] illustrates [[CAFATF|हंसन्यास]] as [['|'हं]] [[guarna Hi,|पुरुषात्मने नमः,]] [[#: 49UTH Ai,|सः प्रकृत्यात्मने नमः,]] [[##: fagoiena ::|हंसः प्रकृतिपुरुषात्मने नमः']] on [[mat.|शारदा०]] IV. 29; [[men att g ranatararat|आत्मनो देवताभावप्रदानाद्वेषपेति च।]] एवं समस्ततन्त्रेषु [[विद्भिः समुवीरितम्॥|विद्वद्भिः समुदीरितम्॥]] [[शिरसोः शिवायर्या कवचाश्यमे|हृदयशिरसोः शिखायां कवचास्त्रयोश्च]] सह चतुर्थीषु। [[TEHT 0541 6 Isla Fiscal: :H|नत्या हृत्सु च वषड् हुं वौषट् फट्पदैः]] [[AUFTE|षडङ्गविधिः॥ प्रपञ्चसार]] VI. 5-6. Compare [[Arcat.|शारदा०]] IV. 33-35 [[abd RETRATO|and महानिर्वाण]] III. 142 for similar [[provisloD8.|provisions.]]
 
-The vord in te derived from the mot as**thoi Whe al' and literally meam placing out deponiting the di te Kaliraya plains it as follows:*'zylia is so called batt therein riahes that are soguired in a righteous way are doponthed or plaoed with parsons whereby all-ronnd protection to got (mb by the ritual touching of the best and other limb with the than of the fingers and the palm of the right hand accompanied by mantras the worshipper can act fearlously in the midst of had men and becomes like a god). Vide Jaytkkyakanite quoted balow, its 
+[^1829]: The passage of पद्म VI. 79. 17-30 begins and ends as follows: शिखायां श्रीधरं न्यस्य शिखाधः [[श्रीकर तथा।|श्रीकरं तथा।]] [[हषीकेशं|हृषीकेशं]] तु केशेषु [[मूधि|मूर्ध्नि]] नारायणं [[परम् ।|परम्॥]] एवं न्यासविधिं [[कुला|कृत्वा]] [[साक्षानारायणो|साक्षान्नारायणो]] भवेत्। [[यावत|यावन्न]] [[व्याहरेकिंचित्|व्याहरेत्किंचित्]] तावद्विष्णुमयः [[स्थितः।|स्थितः॥]]
 
-The subject of nyasa was briefly dealt with in E. of Dile VOL. II. p. 319-320. In Principles of Tantra' Sir John Woodroffa (pp. LXXI-LXXVII) compares the ritual of nyles with the Christian method of making the sign of the Cross 
+[^1830]: [[ओझरपूर्वका|ओंकारपूर्वका]] होते न्यासे बलिनिवेदने। मन्त्राः स्युः सर्वकार्याणां [[वृद्धिपुनात प्रदा:|वृद्धिपुष्टिप्रदाः॥]] मत्स्य 266. [[29,|29.]]
 
-Mudri is another characteristic item in Tantrik ritual The word mudrā kas several meanings, four of whioh have . bearing on Pantrik practices. It means & posture in yogio practices in which the whole body plays a part It also meana that symbolic or mystic intertwining of the fingers and handa as part of religious worship. Mudra is also the 4th of the five makes and means various kinds of grains mired with ghee or other Ingredient (vide note 1752 above) or parched grains. A fourth meaning of modrā is the woman with whom & Tantrik yogi apo ciates himself (as in Prajpopaya o V. 24 and Sakoddadatik p. 56) The Kularnava derives the word from mand' meaning' dalight or 'pleassure' and drāvay' (causal of dru') and says 'mudras (ritual finger and hand poses) should be shown ( in worship) and are so known because they give delight to the gods and make thefr minds melt (with compassion for the worshipper). But the Sāradatilaka 1836 appears to derive it from 'mud and A'(to 
+[^1831]: [[X831.|अथ]] न्यासविधिं वक्ष्ये [[सध्याया असम्भवम् ।|सन्ध्याया अङ्गसम्भवम्।]] XI. 16. 76. The संस्काररत्नमाला, a comparatively modern work, remarks (p. 229) that Nyāsa has no Vedic authority and hence some do not perform it [['एपोइन्यासः।|'एषोऽन्यासः।]] एतमेके नेच्छन्ति स ह [[विधिरवैविक इति।।.|विधिरवैदिक इति।'.]] The [[पडङ्गन्यास of यात्री the|षडङ्गन्यास of गायत्री takes the]] form 'तत्सवितुर्हृदयाय नमः, वरेण्यं शिरसे स्वाहा, [[भमों|भर्गो]] देवस्य शिखायै वषट्, धीमहि कवचाय [[हुँ,|हुं,]] धियो यो नो नेत्रत्रयाय वौषट्, प्रचोदयात् अस्त्राय फट्। इति [[पन्यास कार्य।|षडङ्गन्यासः कार्यः।]] न वा कार्यो न्यासविधेरवैदिकत्वादिति [[गृहापरिशिष्टे|गृह्यपरिशिष्टे]] स्पष्टम्। तेनाक्षरन्यासपादन्यासादीनां मुद्रादिविधेः शापमोचनादिविधेश्च तान्त्रिकत्वेनावैदिकत्वादनावश्यकत्वं वेदितव्यम्। [[धर्मसिम्यु III. 8.|धर्मसिन्धु III. p.]] 272. The passage quoted by Aparārka is interesting and a few verses are cited here [['अप्स्वनौ हदये|'अप्सुग्नौ हृदये]] सूर्ये [[स्थण्ठिले|स्थण्डिले]] [[प्रतिमाहुंचा|प्रतिमासु च।]] [[पदखेवेषु होसम्बर सुनिमिः|षट्स्वेतेषु हरेः सम्यगर्चनं मुनिभिः]] स्मृतम्। [[अनो|अग्नौ]] क्रियावतां देवो [[विधि|दिवि]] देवो मनीषिणाम्। [[प्रतिमाखल्पादीनां बोकिलां|प्रतिमास्वल्पबुद्धीनां योगिनां]] हृदये [[हरिः।|हरिः॥]] आनुष्टुभस्य [[मुक्तस्य त्रिभुवन्तस्य|सूक्तस्य त्रिष्टुबन्तस्य]] देवता। पुरुषो यो [[जगदपीबपिन रावका का।|जगद्बीजं सुविचित्रार्थवत्कथः स्मृतः॥]] प्रथमां [[विन्यसेवाने|विन्यसेद्वामे]] द्वितीयां दक्षिणे करे। तृतीयां [[वामपादेची|वामपादे तु]] [[चतुर्थी दक्षिणेम्पसेद। आरो पशवी|चतुर्थी दक्षिणे न्यसेत्। ... अष्टादश पञ्चदशीं]] चैव षोडशीं [[भूमि|मूर्ध्नि]] विन्यसेत्। अपरार्क pp. 140-141. [[आहामस्य सचस्व refer.in|आनुष्टुभस्य सूक्तस्य refer to]] the [[gove (F.|पुरुषसूक्त (ऋ.]] X. 90), the first fifteen verses of which are in [[anugabh|Anuṣṭubh]] metre and the 16th (last verse) is in [[विन्दुम्|त्रिष्टुम्]] metre. The verses from [[अप्सो|अप्सुग्नौ]] to नारायणः स्मृतः are नरसिंहपुराण [[62,5-8|62. 5-8]] (with [[alight|slight]] variations).
 
-1834, Friterarah Armani 
+[^1832]: [[1832,|अङ्गुष्ठे]] चैव [[गोबिन्द|गोविन्दं]] [[तर्जग्यां|तर्जन्यां]] तु महीधरम्। [[मायमायां|मध्यमायां]] [[पीकेशमनामिका|हृषीकेशमनामिकायां]] त्रिविक्रमम्। [[कनिष्ठिक्यां न्यसेहिष्णु|कनिष्ठिकायां न्यसेद्विष्णुं]] हस्तमध्ये [[चमाधवम् । समविच. L.p.|च माधवम्। स्मृतिच. I. p.]] 198 [[guoting|quoting]] [[योमियाज्ञवल्क्य.|योगियाज्ञवल्क्य.]] These verses are quoted by [[स्मृतिमुक्ताफल (आहिक|स्मृतिमुक्ताफल (आह्निक]] p. 331) from the [[स्मृतिचग्निका.|स्मृतिचन्द्रिका.]] The ed. of [[योमियाज्ञ.|बृहद्योगियाज्ञ.]] (chap. [[v)|V)]] published by the कैवल्यधाम of Lonavala deals with [[nyisa|nyāsa]] but does not contain the above [[versos,|verses.]]
 
-a u 
+[^1833]: [[बकाकालिकापुराणावि|गरुडकालिकापुराणादिषु]] प्रथमान्तानां [[केवलानाएण्यादीनां|केवलानामृष्यादीनां]] [[ग्यासवर्शनाचा.|न्यासदर्शनाच्च।]] [[. p.|व. क्रि. कौ. p.]] 124.
 
-hafa ona 17. 56 
+[^1834]: [[Friterarah Armani|न्यायोपार्जितवित्तानामङ्गेषु विनिवेशनात्।]] [[a u|सर्व रक्षाकराद् देवि न्यास इत्यभिधीयते॥]] [[hafa ona|कुलार्णव]] 17. 56.
 
-1835. g et *** guretat to Portato भवेत् । पूजादी सर्वकार्याणामधिकारच जायते। यं कला निर्भपतिदेशे समाप। विजवधापरल्यूमा स्यायेन विहितेन च। अयालयसहिया, पटल XI. 1-3. 1836. Saltar aerat pati atorgrad i orga 
+[^1835]: [[g et *** guretat to Portato भवेत् ।|संशुद्धविग्रहो मन्त्री मन्त्रन्यासं समाचरेत्। येन विन्यासमात्रेण देवदेहसमो भवेत्।]] पूजादौ सर्वकार्याणामधिकारश्च जायते। यं [[कला निर्भपतिदेशे समाप। विजवधापरल्यूमा स्यायेन|कृत्वा निर्भयस्तिष्ठेद्देशे दुष्टसमाकुले। विजयश्चापमृत्यूनां स्याद्येन]] विहितेन [[च। अयालयसहिया,|च॥ जयाख्यसंहिता,]] पटल XI. 1-3.
 
-RTR garu un 17.37; o r a retropas u p ro VI. 43: आवाहम्बादिकाइमाः प्रवक्ष्यामि यथाक्रनम्। बानिविरचिवामिस्त मोदन्द सदिया। HET. 23. 106, as which are comments are 1 gura tak si 
+[^1836]: [[Saltar aerat pati atorgrad i orga RTR garu un|मुदं कुर्वन्ति देवानां मनांसि द्रावयन्ति च। तस्मान्मुद्रा इति ख्याता दर्शितव्याः कुलेश्वरि॥ कुलार्णव]] 17. [[37; o r a retropas u p ro|57; मुदं कुर्वन्ति देवानां राक्षसान्द्रावयन्ति च॥ विष्णुसंहिता]] VII. [[43:|43;]] आवाहनादिका मुद्राः प्रवक्ष्यामि यथाक्रमम्। [[बानिविरचिवामिस्त|याभिर्विरचिताभिस्तु]] मोदन्ते [[सदिया। HET.|सर्वदेवताः॥ शारदा०]] 23. 106, on which [[are|राघवभट्ट]] comments [['रा दाने। मुदं राति|'रा दाने। मुदं राति ददातीति मुद्रेति]] [[निर्वचनम्। ... अत एव तद्दर्शनेन देवताहर्षोत्पत्तिः।|निर्वचनम्। ... अत एव तद्दर्शनेन देवताहर्षोत्पत्तिः। स्यानुल्ग्यो हि पञ्चभूतात्मिका अङ्गुष्ठाद्या]] आकाशवाय्वग्निसलिलभूरूपास्तासां मिथः संयोगरूपसङ्केतात्कोऽपि देवताप्रगुणीभावपूर्वो मोदः सानिध्यकरो भवति। तदुक्तम्। पृथिव्यादीनि भूतानि कनिष्ठायाः क्रमान्मताः। तेषामन्योन्यसम्बन्धप्रकारैस्तत्प्रपञ्चता।'. योगिनीहृदय I. 57 derives as in कुलार्णव. The verse 'मोदयन्ति ग्रहादिग्भ्यः' quoted in J. O. I. Baroda, vol. VI. p. 13 as from कामकलाविलास occurs in a footnote appended by the editor (in the Kashmir series of texts) and not in the text of the कामकलाविलास. The half verse 'याभिर्वि...देवताः' of शारदा० 23. 106 is the same as मुद्रानिघण्टु (Tāntrik texts vol. I, p. 46).
 
-FATI... HEBU Terata frutaras I plan para poner 
+[^1837]: अर्चने जपकाले तु ध्याने काम्ये च कर्मणि। [[तत्समबाः|तत्तन्मुद्राः]] प्रयोक्तव्या [[देवतासंनि धापका: १.in पूजायकाश।|देवतासंनिधापकाः॥ q. in पूजाप्रकाश]] p. 123 and by [[राषवमह ०० शारदा 23.336:|राघवभट्ट on शारदा० 23. 106;]] स्नाने चावाहने चैव प्रतिष्ठायां च रक्षणे। [[नैवेघेच तथासेच सचकर्मप्रकाशने।|नैवेद्ये च तथाक्षौ च तत्तत्कर्मप्रकाशने।]] स्थाने मुद्राः प्रकर्तव्याः [[स्वस्खलक्षण संता:|स्वस्खलक्षणसंयुताः॥]] Tāntrik texts vol. I. p. 46, verses 1-3; [[सुनापन्धाद ध्यानाहा विषप्रमुख स्थोत्यापने कीशी युक्तिः। कादम्बरी, उत्तरमाग (in शुकमास's consoling speech to arrita|मुद्राबन्धाद् ध्यानाद्वा विषप्रसुप्तस्योत्थापने कीदृशी युक्तिः। कादम्बरी, उत्तरभाग (in शुकनास's consoling speech to तारापीड]] on the reported heart failure of Candrāpīḍa; compare आर्यमञ्जुश्रीमूलकल्प p. 369 [['निविषोपि भवेदिक्ष यो जन्तुविषयितः। चत्वारिंशति समाख्याता सदाठा महाधिका।|'निर्षिषोपि भवेत्क्षिप्तं यो जन्तुर्विषमूर्च्छितः। चत्वारिंशति समाख्याता मुद्रा श्रेष्ठा महार्थिका॥;]] [[प.क्रि. को.|व. क्रि. कौ.]] p. 156 'मुद्रां विना तु यज्जाप्यं प्राणायामः [[सरार्चनम् ।|सुरार्चनम्।]] योगो ध्यानासने चापि निष्फलानि तु भैरव... This verse is कालिकापुराण 70. 35. [[समामिरेव तुप्यन्ति न पुष्पाविकपूजनैः। महापूजा कवा तेम येन सदाष्टकं कृतम् । मेजतन्त्र|मुद्राभिरेव तुष्यन्ति न पुष्पाद्यैः प्रपूजनैः। महापूजा कृता तेन येन मुद्राष्टकं कृतम्॥ मेरुतन्त्र]] 17. 22.
 
-(Continued on next page) 
+[^1838]: [[लोपासना|लोपामुद्रा]] वृषणं नी रिणाति धीरमधीरा धयति श्वसन्तम्॥ ऋ. I. 179. 4.
 
-History of Dharmalitetra (Sec. VI,Ch. xvii 
+[^1839]: These [[Modrās|Mudrās]] are also mentioned in a work called [[Mudra laksana|Mudrālakṣaṇa]] (D. C. [[M8.|Ms.]] 291 of 1887-91). Some of these mudrās in [[connection,|connection]] with the worship of individual [[goda ocenr|gods occur]] in [[Vippusambitā|Viṣṇusaṁhitā]] VII and in [[Jõānārpava|Jñānārṇava]] IV. The [[Madrānighanta games|Mudrānighaṇṭu names]] and defines mudrās of Śakti, [[Agai, Triporā|Agni, Tripurā]] and other deities. The [[madras|mudrās]] specially appropriate in the worship of [[Viṣgu,|Viṣṇu,]] such as [[Saakba,|Śaṅkha,]] Cakra, Gadā, Padma, Kaustubha, [[Srivatsa,|Śrīvatsa,]] Vanamālā, [[Vena|Veṇu]] are described in a work called [[Naradatantra|Nāradatantra]] quoted by [[Varrakriyakaumudi|Varṣakriyākaumudī]] pp. 154-156.
 
-IFE 
+[^1840]: [[पटान्ते बन्धयेद सोनचापि कथयेद पुषः। कचनाजायते सस्तस्मातीच्या Fat Tit i Sam TOTT ER vergat i fagrirear|पटान्ते बन्धयेन्मुद्रां न चापि कथयेद् बुधः। कथनाज्जायते भ्रंशस्तस्माद्गोप्या सदा बुधैः॥ आनन्दाह्लादिका मुद्रा वक्तुं ब्रह्मान्न शक्यते। विष्णुसंहिता]] VII. 44-45 (T. S. S.); [[मजात वर्शयेन्मुद्रा|न जातु दर्शयेन्मुद्रां]] महाजनसमागमे। [[एनेतन्हानिट तस्मापति गोजयेत् । मादीक्षितस्य सवाणां लकाणानि|एतानेवम्मुनिर्ग्राह्येत् तस्माद्यत्नैस्तु योजयेत्। नादीक्षितस्य मुद्राणां लक्षणानि]] प्रकाशयेत्। क्षुभ्यन्ति देवतास्तस्य [[मन्त्रंथविफल|मन्त्रश्च विफलो]] भवेत्॥ quoted from महासंहिता by [[रायवमह|राघवभट्ट on]] शारदा० 23. 114; [[स्थतिम.|स्मृतिम.]] (I p. 148) quotes the [[ant vorse|first verse]] and the last half [[verso.|verse.]]
 
-give ) and according to it mudra means 'what affords pleasure to the Goda'. Other derivations are also proposed (vide J. O. R. Baroda, vol. VI. p. 13). Raghavabhatta states that the fingers from the thumb to the small ingor are identified with the five alements vis. Skasa ( aky or other), wind, fire, water and earth and that their contact with each other tends to make the deity favourable and delighted and induces the deity to be present at the worship, and that various appropriate mudrās are to be employed in worship, at the time of japa, in meditation and in all rites performed for securing some desired object or benefit, since they induos the deity to be prosent (near the worslip per 1837). It was supposed that mudras helped in enhancing concentration on the part of the worshippor. Even as early as the 7th century it was believed that the making of mudrās may bring to life one who, being poisoned had fallen into coma, as the Kādambari quoted below shows. The Varsakriya kanmudi quotes & verbe saying that japa, prānāyāma, worship of gode, yoga, meditation and asanas are fruitless unless accompanied by appropriate mudrās. 
+[^1841]: आधारनवकरथा नवचक्रत्वेन परिणतिं याताः। नवनाथशाक्तयोऽपि च मुद्राकारेण ताश्चक्रे॥ कामकलाविलास verse 67.
 
-The word mudrā ocours in the name of Lopamudra, 1838 wife of Agastya, who figures in a hymn of the Rg. (I. 179.4). The word 'mndra' is not mentioned in the Amarakosa. 
+[^1842]: सम्यक् सम्पूरितः पुष्पैः कराभ्यां कल्पितोऽञ्जलिः। आवाहनी समाख्याता मुद्रा देशिकसत्तमैः॥ अधोमुखी कृता सैव प्रोक्ता स्थापनकर्मणि। आश्लिष्टमुष्टियुगला प्रोत्तानाङ्गुष्ठयुग्मका॥ सन्निधाने समुद्दिष्टा मुद्रेयं तन्त्रवेदिभिः। अङ्गुष्ठगर्भिणी सैव संनिरोधे समीहिता॥ उत्ताना द्विकृती मुष्टी संमुखीकरणी स्मृता। देवताङ्गे षडङ्गानां न्यासः स्यात्सकलीकृतिः॥ सम्बद्धहस्तकृता मुष्टिर्दीर्घोधोमुखतर्जनी। अवगुण्ठनमुद्रेयमभितो भ्रामिता सती॥ अन्योन्याभिमुखाश्लिष्टकनिष्ठानामिका पुनः। तथा च तर्जनीमध्यमा धेनुमुद्रा समीरिता॥ अमृतीकरणं कुर्यात्तया देशिकसत्तमः। अन्योन्यग्रथिताङ्गुष्ठा प्रसारितकराङ्गुली॥ महामुद्रेयमुदिता परमीकरणे बुधैः। प्रयोजयेदिमा मुद्रा देवतायागकर्मणि॥ शारदा० 23. 107-114. It may be noted that the ज्ञानार्णवतन्त्र (IV. 32-37) names and describes eight of these nine mudrās almost in the same words, omitting संमुखीकरणी and calling the महामुद्रा of शारदा० by the name परमीकरण. The कुलार्णव (17. 90-93) has eight out of these nine, omitting संमुखीकरणी and employing the words परमीकरण for महामुद्रा. Both कुलार्णव and शारदा० connect अमृतीकरण with धेनुमुद्रा. The कौलावलीनिर्णय VII. 5-14 has eight out of the nine described by शारदा० and appears to be based on the कुलार्णव. The half-verse देवताङ्गे...कृतिः occurs in कुलार्णव 17. 92 and कुलार्णव 17. 93 says 'अमृतेनाप्लुतं देवि परमीकरणं प्रिये।'. महा० निर्वाण० VI. 77 states 'प्रीणयेद् देवतां विद्वान् षडङ्गैः सकलीकृतिः'. The mudrās described in शारदातिलक are quoted by व. क्रि. कौ. p. 153.
 
-(Continued from last page) आकाशपायानसालिलभूरूपास्तासी मिथः संयोगरूपसोवास्कोपि देवतामणीभावपूर्वको मोषः सानिध्यारो भवति। तदुक्तम्। पृथिव्यादीनि भूतानि कनिष्ठायाः क्रमान्मताः। तेषाम न्याम्पसम्भवमकारस्वत्यपशता, थोपिनीहदय1.57 derives as in कुलाणेच. The verse 'मोषयन्ति महादिम्प:' quoted in J.0.1. Baroda, vol. VI. p. 13 as from कामकलाविलास occurs in a footuote appended by the editor (in the Kashmir series of texts) and not in the text of the कामकलाविलास. The half verse 'यामिाय...देवता:' of शारखा. 23. 106 is the same as मुदानिधण्दु (Tantrik texte rol. I.p.46). 
+[^1843]: पद्मं शङ्खश्च श्रीवत्सो गदा गरुड एव च। चक्रं शार्ङ्गं च खड्गश्च अष्टौ मुद्राः प्रकीर्तिताः॥ ब्रह्म 61. 35, नारदीय II. 57. 55-56. It may be noted that these are mentioned among 19 Viṣṇu mudrās enumerated from Tāntrik texts vol. I cited above. All these except श्रीवत्स are named and defined in the पूजाप्रकाश pp. 124-125. The पूजाप्रकाश p. 136 prescribes that in the worship of विष्णु 'āvāhana' should be made with the mantra 'Sahasraśīrṣā' (Ṛg. X. 90. 1) and 14 mudrās shown 'सहस्रशीर्षेतिमन्त्रेणावाहनं कुर्यात्। तत आवाहनादिचतुर्दशमुद्राः प्रदर्शयेत्। ताश्च आवाहनी स्थापनी संमुखीकरणी संनिरोधिनी प्रसादमुद्रा अवगुण्ठनमुद्रा शङ्खचक्रगदापद्ममुसलखड्गधनुर्बाणमुद्राः।'.
 
-1837. अर्चने जपकाले त ज्याने काम्ये च कर्मणि । तत्समबाः प्रयोक्तग्या देवतासंनि धापका: १.in पूजायकाश। p. 123 and by राषवमह ०० शारदा 23.336: स्नाने चावाहने चैव प्रतिष्ठायां चखणे। नैवेघेच तथासेच सचकर्मप्रकाशने। स्थाने सवाः प्रकर्तव्याः स्वस्खलक्षण संता: Tantrik texts vol. I. p. 46, verses 1-33 सुनापन्धाद ध्यानाहा विषप्रमुख स्थोत्यापने कीशी युक्तिः। कादम्बरी, उत्तरमाग (in शुकमास's consoling speech to arrita on the reported heart failure of Candrāpida; comparo W HY मलकल्प P. 369 'निविषोपि भवेदिक्ष यो जन्तुविषयितः। चत्वारिंशति समाख्याता सदाठा महाधिका। प.क्रि. को. P. 156 'मुद्रा विना तु यजाप्य प्राणायामः सरार्चनम् । योगो ध्यानासने चापि निष्फलानि तु भैरव... This verse is कालिकापुराण 70. 35. समामिरेव तुप्यन्ति न पुष्पाविकपूजनैः। महापूजा कवा तेम येन सदाष्टकं कृतम् । मेजतन्त्र 17.22. 
+[^1844]: Vide विष्णुधर्मोत्तर III. 32 which begins अथातो मुद्राहस्तान् व्याख्यास्यामः and ends with a verse एता रहस्यमुद्रास्ते मयोक्ता नृपसत्तम। अतःपरं प्रवक्ष्यामि सामान्यास्ता निबोध मे॥; इत्युद्देशे तु ते प्रोक्ता मुद्राहस्ता मया नृप। दर्शयेन्मन्त्रयुक्तानां परां सिद्धिमभीप्सताम्॥ विष्णुधर्मोत्तर III. 33. 121.
 
-1838. लोपासना पूषणं नी रिणाति धीरमधीरा धपति श्वसन्तम् ॥ ऋ. I. 179.4. 
+[^1845]: करणैरिह संयुक्ता अङ्गहाराः प्रकल्पिताः। एतेषामिह वक्ष्यामि हस्तपादविकल्पनम्॥ नाट्यशास्त्र IV. 33-34; illustrations of the 108 aṅgahāras enumerated in नाट्यशास्त्र IV. 34-55 are given in the GOS edition of the नाट्यशास्त्र (vol. I), copied from the Naṭarāja temple gopuras at Chidambaram in South India.
 
-Number of mudrūs in different storico 
+[^1846]: पाराशर्यशिलालिभ्यां भिक्षुनटसूत्रयोः। कर्मन्दकृशाश्वाभ्याम्निः॥ पा. IV. 3. 110-111.
 
-f195 
+[^1847]: Vide अभिनयदर्पण (edited by Dr. Manomohan Ghosh, 1957) p. 47 where certain postures of the hands are called Śaṅkha, Cakra, Saṁpuṭa, Pāśa, Kūrma, Matsya, Varāha, Garuḍa, Siṁhamukha, which, as noticed above, are among the mudrās mentioned in the Mudrānighaṇṭu (Tāntrik texts, edited by Avalon, vol. I p. 46 verses 5-7 and pp. 49-50 verses 32 ff, which define Vaiṣṇava mudrās some of which like Garuḍa occur in the Nāṭyaśāstra IX. 201 also.
 
-The H. of Dh. Yol. II. (pp. 320-321 ) makes a brief mention of mandras in worship and refers to the work of Mlae Tyra de Kleen on the mudris practised by Bauddha and Śaiva priests called pedandus in the island of Bali. Here the same subject will be dealt with in a little more detail and from different 
+[^1848]: ईश्वराणां विलासं तु चार्तानां दुःखनाशनम्। मूढानामुपदेशं तत् स्त्रीणां सौभाग्यवर्धनम्। शान्तिकं पौष्टिकं काम्यं वासुदेवेन निर्मितम्॥ विष्णुधर्मोत्तर III. 34. 30-31.
 
-points of view. 
+[^1849]: Vide आर्यमञ्जुश्रीमूलकल्प (35th paṭala) p. 372 for अभयमुद्रा and वरमुद्रा.
 
-There is a great divergence among the Tantra, Purana and Yoga works on the number, names and definitions of mudrās. This may be briefly illustrated. 
+[[P1130]]on the lap, the right hand is raised in front of the chest with the fingers and thumb half extended and with the palm [[faoing|facing]] forwards; (4) [[Jõānamudrā|Jñānamudrā]] ([[Dhyāna mudra ?)|Dhyāna mudrā?)]] or [[Padmāsana mudrā|Padmāsanamudrā]] (posture of contemplation); (5) the Vara or [[Varadamudra,|Varadamudrā,]] in which the right hand [[hanga|hangs]] down over the knee, the palm of the hand turned outwards symbolising charity; (6) [[Lalita. mudrā|Lalitamudrā]] (enchanting or [[bewitching );|bewitching);]] (7) Tarkamudrā (right hand raised to the chest and slightly [[constricted;|constricted);]] (8) [[Sarapa mudrā|Śaraṇamudrā]] (of refuge or protection); (9) Uttarabodhimudrā (pose of highest perfection, which is apt to be confounded with Dharmacakramudrā). 
 
-In the Tantrik texts (Vol. I. pp. 46-47) there is a nighanta (a glossary or enumeration) of mudrās with names and defini. tions, where it is stated that nine mudrās (āvāhani and others) are common (1. a. capable of being employed in any worship): and then are enumerated mudrās specially appropriate to Viṣṇu worship (19 in all viz. Saṅkha, Cakra, Gadā, Padma, Vemo, Śrlvataa, Kaustubha, Vanamālā, Jñana, Vidya, Garuḍa, Nara simhi, Varāhi, Hayagrivi, Dhanus, Bāṇa, Paraśu, Jagan-mohini, Vāma; ten of Śiva (Linga, Yoni, Trisala, Aksamala, Abhiti i.o. abhaya, Mrga, Asikā, Khatvānga (& olub with & skull at the top), Kapala, Damaru; one of the Sun (viz. Padma); seven of Ganesa (Danta, Paśa, Ankusa, Avighna, Paśu, Ladduka, Bijapūra ( i. e. a oitron ) 189 
+The Jainas also had mudrās. In J. O. I. (Baroda), vol. VI. No. 1 [[pp,|pp.]] 1-35 Dr. Priyabala Shah contributes an interesting paper on two Jaina works, one of which called Mudrāvicāra describes 73 mudrās and the other called Mudrāvidhi lists 114 mudrās. 
 
-The Sārādatilaka (23. 106-114) names only nine nudras and defines them, while the Viṣpusambitā (VII) says that mudrās are innumerable (verso 45), names about thirty and defines them and Jõānārṇava (IV ), mentions at least nineteen, The Jayakhyagamhita ( 8th Patala ) has about 58 mudrās. The Tantrik 1840 works provide that mudrās should be praotised 
+In a recent work 'Royal conquests and cultural migrations' Mr. C. [[Śivaramamurti|Sivaramamurti]] (Calcutta, 1955) remarks (on p. 43) that the 'hastas' and [['karanas'|'karaṇas']] on the Gopura at Chidambaram are found also in the Śiva temple at Prambanan in [[Jaya,|Java,]] where one can observe many of the [[huranas|karaṇas]] like Patākā, Tripatāka, Ardhacandra, [[Sikhara,|Śikhara,]] [[Kartarlmukha,|Kartarīmukha,]] [[Sūci|Sūcī]] and hastas like Añjali, [[Puspaputa.|Puṣpapuṭa.]] In another recent work 'Contributions to the History of the Indian Drama' by Dr. Manomohan Ghosh (Calcutta, 1958) it is stated that in the bas-reliefs of Bayon [[(Angkor Thom )|(Angkor Thom)]] certain aspects of the Cambodian dance and drama, particularly certain gestures depicted and actually observed in practice now in the dances in the royal palace, are similar to those described in the [[Nātyaśāstra|Nāṭyaśāstra]] of Bharata such as Añjali, Patākā, Ardhacandra, [[Musti,|Muṣṭi,]] Candrakalā and Kapota (p. 63). 
 
-1839. These Modrās are also mentioned in a work called Mudra laksana (D.C. M8. 291 of 1887-91). Some of these mudrās in connection, with the worship of individual goda ocenr in Vippusambitā VII and in Jõānārpava IV. The Madrānighanta games and defines mudrās of Sakti, Agai, Triporā and other deities. The madras specially appropriate in the worship of Viṣgu, such as Saakba, Cakra, Gadā, Padma, Kaustubha, Srivatsa, Vanamalā, Vena are described in & work called Naradatantra quoted by Varrakriyakaumudi pp. 154-156. 
+Some Sanskrit medieval Dharmaśāstra works from the 13th century A. D. dilate at some length on mudrās. [[Homādri|Hemādri]] on Vrata (vol. I. pp. 246-247) speaks of mudrās called Mukula, [[Pankaja,|Paṅkaja,]] [[Niṣthura|Niṣṭhura]] and Vyoma. The Smṛticandrikā (1st half of 13th century A.D.) names and defines [[24.mudrās|24 mudrās]] (I. pp. [[146–147).|146-147).]] The names are the same as in [[Devibhāgavata|Devībhāgavata]] XI. 16. [[98-10%.|98-102.]] The Pūjāprakāśa (part of [[Viramitrodaja)|Vīramitrodaya)]] defines in all 32 mudrās of which eight, viz. [[Ārāhani,|Āvāhanī,]] [[Sthāpani,|Sthāpanī,]] [[Sannidhāpani,|Sannidhāpanī,]] [[Sarnrodhini,|Saṁrodhinī,]] Prasāda, [[Avagunthana,|Avaguṇṭhana,]] [[Sammukha,|Saṁmukha,]] [[Prarthana|Prārthanā]] are common to the worship of all gods, some are specially appropriate [[P1131]]in Viṣṇu worship, [[come|some]] in worship of the Sun, [[Lakṣmi|Lakṣmī]] and Durgā and the [[Aõjali|Añjali]] and [[Sambāra|Saṁhāra]] mudrās ([[|the]] last two) used in the worship of all [[goda.|gods.]] The [[Āhnikaprakasa|Āhnikaprakāśa]] (part of [[Viramitrodaya)|Vīramitrodaya)]] names 24 mudrās to be shown at the time of the japa of [[Gayatri|Gāyatrī]] [[(pp. 298–299 )|(pp. 298-299)]] which are the same as in [[Davi bhāgayata|Devībhāgavata]] XI. 16. 98-102, but it quotes them as from Brahmā.[^1850] It is [[diffioult|difficult]] to say what work is meant by Brahmā. Mudrās were not universally [[praotised.|practised.]] It is clear from the Dharmasindhu and [[Samskāra-ratnamālā|Saṁskāra-ratnamālā]] quoted in note 1831 that Nyāsa and Mudrā were held to be non-vedic in [[Mahārāṣtra|Mahārāṣṭra]] at least. 
 
-1840. पटान्ते बन्धयेद सोनचापि कथयेद पुषः। कचनाजायते सस्तस्मातीच्या Fat Tit i Sam TOTT ER vergat i fagrirear VII. 44-45 (T.S.S.); मजात वर्शयेन्मुद्रा महाजनसमागमे । एनेतन्हानिट तस्मापति गोजयेत् । मादीक्षितस्य सवाणां लकाणानि प्रकाशयेत् । क्षुम्यन्ति देवतास्तस्य मन्त्रंथविफल भवेत् ॥ quoted from महासंहिता by रायवमह शारदा 23.114:स्थतिम. (IP.148) quotes the ant vorse and the last half verso. 
+Another item in the [[Tantrik|Tāntrik]] worship is that of [[Mandala|Maṇḍala]] which has been [[algo|also]] a prominent feature of orthodox Hindu practices in medieval and modern times. But it cannot be said that the concept of [[mandalas|maṇḍalas]] was borrowed by Sanskrit writers from the [[Tantrikas.|Tāntrikas.]] The word was used in the sense of orb or circle. In the Tai. S. V. [[3.9. 2|3. 9. 2]] reference is made to circular bricks [[(mandalestakā);|(maṇḍaleṣṭakā);]] vide also [[Sat.|Śat.]] Br. IV. [[I.|1.]] 1. 25. The orb of the Sun is also called the wheel (cakra) in [[Rg.|Ṛg.]] IV. [[28.%|28. 2]] and V. 29. 10. The Bṛ. Up. says 'this Āditya is what is (called) truth[^1851] (satya)' and refers to the Person in the orb [[(mandala)|(maṇḍala)]] of the sun. Then it came to mean any figure or diagram (generally [[P1132]]circular) drawn on an altar and the like. In the [[Sulbasūtras|Śulbasūtras]] of [[Åpastamba|Āpastamba]] and [[Katyayana|Kātyāyana]] reference is made to the squaring of a circle [[(mandala).1952|(maṇḍala).]][^1852] The Matsyapurāṇa refers in several passages to [[mandalas|maṇḍalas]] drawn with powders of five colours (as in 58. 22). It also refers to the figure of a lotus of twelve or eight [[patals|petals]] drawn with saffron or red sandalwood paste or with various colours (72. 30; 62. 15; 64. [[12–13;|12-13;]] 74. 6-9 a lotus figure with eight [[patals|petals]] and pericarp for sun worship). [[Varābamihira|Varāhamihira]] in Bṛ. [[8.|S.]] (chap. 47) describes[^1853] a very auspicious ceremony called [[Pusy aspāna|Puṣyasnāna]] in which a [[mandala|maṇḍala]] was to be drawn on holy ground with powders of different colours in which positions were to be assigned to gods, planets, stars etc. The Brahmapurāṇa [[( 28, 28 )|(28. 28)]] mentions the invocation of the Sun on the figure of a lotus and [[Brahmapurāpa ( 61. 1-3)|Brahmapurāṇa (61. 1-3)]] about the worship of [[Nārāyana|Nārāyaṇa]] on a [[mandala|maṇḍala]] in the form of a lotus is quoted by [[Raghunadana|Raghunandana]] in Puruṣottama-tattva (p. 569). The [[Harṣacarita 1854|Harṣacarita]][^1854] (first half of 7th century A.D.) refers to a large [[mandala|maṇḍala]] being drawn in several colours. The Varāhapurāṇa refers to the images or paintings of [[Lakṣmi|Lakṣmī]] and [[Nārāyana|Nārāyaṇa]] in a [[mandala|maṇḍala]] for worship (chap. 99. 9-11). The Agnipurāṇa [[(chapter 320 )|(chapter 320)]] refers to eight [[mandalas,|maṇḍalas,]] Sarvatobhadra and others. Several [[mandalas|maṇḍalas]] are described in [[Sāradātilaka|Śāradātilaka]] III. [[113–118,|113-118,]] 131-134, 135-139 [[(davanabhamandala ),|(navanābhamaṇḍala),]] in Jñānārṇava 26. 15-17 and other works. According to the [[Amarakośa 1855|Amarakośa]][^1855] Sarvatobhadra is a variety of [[P1133]]residence for kings or rich people. The [[Sāradatilaka|Śāradātilaka]] (III. [[106 130 )|106-130)]] deals at length with the construction of a [[Sarvatobhadra mapdala|Sarvatobhadra-maṇḍala]] and remarks that it is common to all worship[^1856] and provides (III. [[122–124)|122-124)]] that the [[mandala|maṇḍala]] should be drawn with five coloured powders viz. yellow with turmeric powder, white produced from husked grains of rice, red with Kusumbha powder, black with the fine powder of half burnt inferior cereals sprinkled with milk and greenish with powder of the leaves of bilva. The [[Prapancasāra|Prapañcasāra]] (V. 64-65) and Agni (30. 19-20) provide for similar coloured powders. The Vāstuyāgatattva of Raghunandana [[(p. 416 )|(p. 416)]] quotes the [[Sāradātilaka|Śāradātilaka]] (III. 123-124) about the five powders. The [[Jõānārnavatantra|Jñānārṇavatantra]] (24. 8-10 and 26. 15-17) appears to hold that [[mandala|maṇḍala]] and cakra are synonyms and states that a [[mandala|maṇḍala]] with nine angles may be drawn on an altar in a pavilion [[(mapdapa )|(maṇḍapa)]] with saffron or vermilion powder.[^1857] The Mahānirvāṇatantra also refers to [[mandalas|maṇḍalas]] drawn with coloured powders (X. [[137–138).|137-138).]] Four characteristics of [[mandala|maṇḍala]] ceremonies are [[mandala,|maṇḍala,]] mantra, pūjā and mudrā. 
 
-History of Dharmabiltra (svo VIa XXVII 
+The Buddhist tantras also make much of [[mandalas.|maṇḍalas.]] In the [[Manjusrimūlakalpa|Mañjuśrīmūlakalpa]] [[mandalas|maṇḍalas]] are described with special [[direc tions|directions]] for painting them. The Guhyasamājatantra speaks of a [[mandala|maṇḍala]] of 16 cubits with a cakra inside. Vide Prof. G. Tucci's 'Indo-Tibetica' vol. IV part I (Rome, 1941) which gives tables containing [[mandalas|maṇḍalas]] and A. Getty's 'The Gods of Northern Buddhism' (1908) Plate XVI for a [[mandala|maṇḍala]] of nine elements, and 'Contributions to the study of [[mandala|maṇḍala]] and [[mudra'|mudrā']] by Erik Haarh pp. 57-91 of [[vol XXIII,|vol. XXIII.]] Nos. 1 and 2 (1958) of Acta Orientalia of the Oriental Societies of Denmark, Norway &c. in which at the end there are photographs of about 100 hand poses (mudrās). The [[Niṣpannayogāvali|Niṣpannayogāvalī]] (G. O. S.) of [[Abhayākara gupta, &|Abhayākaragupta, a]] contemporary of Rāmapāla, king of Bengal ([[1084-1130 A. D.),|1084-1130 A.D.),]] describes 26 [[mandalas|maṇḍalas]] in 26 chapters, each [[mandala|maṇḍala]] having a central deity and other minor Buddhist divinities, sometimes more than one hundred in number.[^1858] 
 
-secretly under cover of B garment and not in the pranenoe of many people and should not be apnoanoed to another as otherwise they bocome fruitless. The Kāmakalāvilaga of Pupyānanda expre saly mentions ( in Forde 46) Trikhanda-mudra and refers to the fact that there are nine mudria, tai The Nityagodasikārnava (3rdvisrāms) first defines Trikhanda, then names and defines nine mudrās most of which bear names difforent from those in the Sāradatllaka. The Mudras mentioned by Nity &ṣodasika apart from Trikhanda, are: Sarvasaiksobhakarial, Sarvaridravint, Akarṣini, Sarvivegakarl, Unmadini, Mahaakuba, Khecari, Bijamudra, Yonimudra. 
+[[P1134]]In the collection of the rites and worship called [['Rgrada brahmakarvata ucapa'|'Ṛgveda-brahmakarmasamuccaya']] [[qablished|published]] by the [[Nirnayasagara|Nirṇayasāgara]] Press (6th ed. [[Banbar|Bombay]] 1936) there are at the beginning [[mayerai mandalaa,|several maṇḍalas,]] plain or [[drawo io|drawn in]] various [[colors,|colours,]] such as [[tbe Sarya tobhadra,|the Sarvatobhadra,]] [[Caturliogatoteadra,|Caturliṅgatobhadra,]] [[Prāsidara tumandala,|Prāsādavāstumaṇḍala,]] [[Grbava stuna jala,|Gṛhavāstumaṇḍala,]] [[Gralhadoratamaqdala,|Grahadevatāmaṇḍala,]] [[Harinaramazdala,|Hariharamaṇḍala,]] [[Ekalinga tobhadra|Ekaliṅgatobhadra.]] The Smṛtikaustubha [[bentions Drādasaliogatobhadra,|mentions Dvādaśaliṅgatobhadra,]] [[Haribara-marala|Harihara-maṇḍala]] inside which there is Sarvatobhadra pp. [[410 411|410-411]] (of [[Kira,|Nirṇ.]] ed. of 1909). They are all passed over [[bara|here.]] [[Sarsatdira|Sarvatobhadra]] literally [[meane suspicious go|means 'auspicious on]] all [[sider.|sides'.]] This concept of an [[auspicioua|auspicious]] figure [[o|or]] diagram was carried over in the realm of [[Poetica.|Poetics.]] [[Daljin id bis Karyadarsa|Daṇḍin in his Kāvyādarśa]] cites a verse in [[tae forn|the form]] called Sarvatobhadra, which is an illustration of what are called [['citra-landbas', 149|'citra-bandhas'.]][^1859] About a century before [[Dardio.|Daṇḍin,]] [[tie|the]] Kirātārjunīya (15. 25) gives an illustration of 'sarvatobhadra'. 
 
-The Jhanarnava Tantra (IV. 31-47 and 51-56 and xv.47 68) names over thirty mudras, several of which bear the sanno name as those in Nityaṣodaśikārṅava, are defined in a similar way and are quoted by Bhāskararaya in his commentary on the latter work. In these circumstances the author proposes to name and describe first of all the nine mudrās of the Saradatilake. 1842 (1) Avahani mudra consists in folding both hands in a hollow and filling the hollow completely with flowers; (2) sthapanl is the same as āvāhanl but the folded bands are held upride down; (3) the sannidhāpana-mudra' occurs when the two hands are formed into a closed fist, are joined together with only the 
+In the Acta Orientalia volume referred to above there is an interesting analysis of the contents of [[to|two]] Tibetan [[non,|mss.,]] one containing what is called [['Rice-mandala'|'Rice-maṇḍala']] in which 37 [[slements|elements]] [[P1135]]are indicated by their names (vide figure 1) and the other [[con taiping|containing]] 123 drawings of mudrās (hand poses). 
 
-__1841. आधारनकस्था नवचक्रत्वेन परिणति भासाः। भवनावशालयोऽपि च सनाकारण ताश्चक्रे कामकलाविलास verse67. 
+Another [[characteristio|characteristic]] item in Tāntrik worship is 'yantra' (geometrical [[diagram ),|diagram),]] sometimes called cakra also, which one finds to some extent also in the [[Puranas|Purāṇas]] and slightly in modern orthodox practices. A yantra is a diagram (or figure) engraved, drawn or painted on metal, stone, paper or other material. It resembles a [[mandala|maṇḍala]] but differs from it in this that [[&|a]] [[mandala|maṇḍala]] may be employed in the worship of any [[demtā,|devatā,]] while a yantra is specially appropriated to the worship of a particular deity or employed for a particular purpose. The [[Kulārnava-tantra 1860|Kulārṇava-tantra]][^1860] states; 'Yantra is a development (or product) of mantra and a deity apprehended in the form of a mantra; the deity worshipped on the yantra immediately becomes favourable; yantra is so called because it removes all pains (or perturbations) arising from such faults as love and anger; if God is worshipped in yantras, he is pleased'. The same Tantra further says 'if worship is done without a yantra the devatā is not pleased'. Here the word 'yantra' is derived from the root 'yantr'. In another place the same tantra states 'Yantra is so [[deolarad|declared]] because it always saves (the worshipper) from Yama (god of death) and goblins and other dangers'. The [[Rāmapūrvatāpaniya Upanisad 1861|Rāmapūrvatāpanīya Upaniṣad]][^1861] observes 'the arrangement (or preparation) of a yantra is the body of the deity which confers safety'. The [[Kaulivalinirṇaya|Kaulāvalinirṇaya]] observes 'worship (of a deity) without [[employ ing &|employing a]] yantra, [[satiating the|satiating (the]] goddess) without offering flesh, drinking wine without being accompanied by a Śakti (the wife or other woman associated with a [[Sakta worabipper )-all|Śākta worshipper)—all]] these yield no fruit.' Some works evolved a 'yantra-gāyatrī' also.[^1862] 
 
-1842, सम्यक सम्पूरितः पुष्पैः करायां कल्पितोऽसलि: आवाहनी समाख्यातासमा देशिकसत्तमः। अधोमुखी कता सैव प्रोक्ता स्थापनकर्मणि। आश्लिटसहियुमला प्रोतामा सुम्मका सानिधाने सहदिटा सदेवं नन्नवेदिभिः। अश्वगामणी सेव समिरो सनीहिता । उचाना कृती सुटी संहसीकरणी स्मृता। देवता पडलाना म्यासः स्यात्सकलीकृतिः। सम्पहस्तकता मुष्टिींधिोमुखतर्जनी अवगुण्ठनदेयममितो प्रामिता सती अन्योन्याभि मुसाश्लिष्टकनिष्ठानामिका पुनः । तथा च सर्जनीमण्या घेवसमा समीरिता - अमतीकरण कुर्यातया वेशिकसचमः । अन्योन्यमथिताइवा प्रसारित कराली महाहवरादिता परमी करणे बुधैः। मयोजयेविमा मुद्रा देवतायागकर्मणि, शारदा 23. 107-114. It may be noted that the marine (IV, 32-37) Dames and describes eight of these nide madras almost in the same words, omitting en voft and calling the महासमा शारदा by the name परमीकरण. The कुलार्णव (17.90-93) has eight out of these nive, omitting संमुखीकरणी and employing the words परमीकरण for महाहवा. Both कुलार्णव and शारदा connect अस्तीकरण with बेहसमा. The कोलावलीनिर्णय VII. 5-14 hossight out of the nine described by शारदा. and appears to be based on the ground. The half-verse aan... Tat occurs in कलार्णव 17.92 and कुलार्णव 17.93 says 'क्षमतेस्यालदेविपरमीकरण मि .महा. निर्वाण. VI. 77 states 'मीक्षाये देवान पा सकलीछाति: The mudriader 
+[[P1136]]These passages make it clear that a yantra was deemed to be a factor helping in restraining the restless movements of the mind due to anger, love and the like and in making the mind concentrate on a diagram or model deemed to represent the deity worshipped. It induced concentration and encouraged the mental realization of the deity. The distinction between the devatā and yantra is similar to that between the soul and the body. Most Hindus look upon such forms of worship without antipathy because it is felt that they serve as a way of approach to divinity for ordinary unsophisticated people and that it is better to have one's foot on the lowest rung of the ladder to higher life than to have it on no rung at all. 
 
-cribed in शारदातिलक are quoted by .शि.को. P. 13. 
+Yantras are described in such Tāntrik and other works as [[Tripurātāpani|Tripurātāpanī]] Upaniṣad (II. 3), Prapañcasāratantra ([[patalas|paṭalas]] 21 and 34), Śāradātilaka (VII. 53-63, XXIV), Kāmakalāvilāsa (verses 22, 26, 29, 30, 33), Nityaṣoḍaśikārṇava (I. 31-43), Nityotsava (pp. 6, [[64-~5),|64-65),]] Tantra-rājatantra (II. 44-51, VIII. 30 ff, XXXIII), [[Ahirbudhnyasamhitā|Ahirbudhnyasaṁhitā]] (chap. 23-26), Mantramahodadhi (20th Taraṅga), Kaulajñānanirṇaya (X, which speaks of them as cakras), Kaulāvalinirṇaya (III. 105-135), Merutantra (33rd prakāśa, 562 verses), Mantramahārṇava-tantra (Uttara-khaṇḍa, 11th taraṅga). It is not possible to deal with all this large material here. The Padma (Pātālakhaṇḍa, 79. 1) provides that the worship of Hari ([[Visnu|Viṣṇu]]) may be performed on the Śālagrāma stone or on a jewel or a yantra, a [[mandala,|maṇḍala,]] or images, and not merely in a temple. The [[Ahirbudhnya-samhitā|Ahirbudhnya-saṁhitā]] (chap. 36, verses 5-66) describes the procedure of the worship of a [[Sudarsana-yantra|Sudarśana-yantra]] by a king or other personage desiring wealth or prosperity. One yantra or cakra may be explained and illustrated here. The most noted is Śrīcakra described in two verses quoted[^1863] below and explained in some detail in the [[P1137]]Setubandha commentary on Nityaṣoḍaśikārṇava (I. 31-46). The latter verses explain how the Cakra is to be drawn with the bindu in a small triangle. The bindu represents Śakti or Mūlaprakṛti solidified. In published works on Tantra the Śrīcakra is represented in colours (as in Saundaryalaharī published by Ganesh & Co. Madras, 1957, facing the title page), while others represent it only by means of plain uncoloured lines (as on the outer cover of the above edition of Saundaryalaharī or on the cover of the Kāmakalāvilāsa ed. by A. Avalon and published by Ganesh and Co. 1953). In some works the figure of Śrīcakra shows no gates as on the cover in 'Principles of Tantra' by A. Avalon or on the cover of Kāmakalāvilāsa, while gates are shown in other works (as in the above edition of Saundaryalaharī before the Sanskrit text). There are nine triangles, five of which have their apex pointing downwards and these represent Śakti and four (representing Śiva) have an apex pointing upwards. The bindu is situated in the smallest triangle pointing downwards. Then there are two pairs of ten triangles (shown in some books as blue and red respectively), then fourteen triangles (coloured blue in some works), then eight-petalled lotus (sometimes coloured red), 16 petalled lotus (coloured blue), then three circles, then three boundary lines with four gates, these two latter being the outer sections of the yantra and the lotuses of 8 and 16 petals being the inner section of the yantra. There are in all 43 angles (some works make 44). The part of the Cakra within the boundary lines is called *bhūpura*. The worship of yantra is *bahiryāga* (outer or external worship of Śakti). The internal worship (*antaryāga*) consists in taking the awakened Kuṇḍalinī through the cakras from Mūlādhāra to Ājñācakra and then uniting it with the Lord Śiva in the [[Saha-srāra-cakra,|Sahasrāra-cakra,]] the six cakras from Mūlādhāra being identified with [[P1138]]the five elements and mind. This is described in Saundaryalaharī (verse 9). To what lengths 'Śakti' worshippers had gone in the worship of Devī by the *bahiryāga* method would be clear from a passage quoted from the commentary of Lakṣmīdhara, almost the latest among the numerous commentators of the Saundaryalaharī, who was horrified by the methods of Kaulikas.[^1864] 
 
-tibed by 
+The Setubandha on Nityaṣoḍaśikārṇava is at great pains to emphasize that the worship of Tripurasundarī is of the nature of *upāsanā* and not of the nature of *bhakti* and that this upāsanā is of two sorts, one consisting of the recitation of the mantra of the Devī and the other consisting of the worship of the yantra[^1865] (or cakra). Verses 126-204 of the Nityaṣoḍaśikārṇava detail the different items in the worship of the Śrīcakra. The Nityaṣoḍaśikā and other Tāntrik works say that the great Tripurasundarī is seated in the Śrīcakra.[^1866] The great aim of the Śākta *sādhaka* is apparently to realize his identity with the yantra, the mantra, the guru and Tripurādevī. The Varṣakriyākaumudī quotes a verse stating that worship of yantra performed with all mantras is commended and by so doing a worshipper may secure whatever he desires.[^1867] 
 
-verse 
+Even a comparatively sober work like the Śāradātilaka provides for the drawing up of yantras for wicked purposes. For example, in VII. 58-59 it describes an Āgneya-yantra to be drawn on a garment secured from a pile in a cemetery and buried near the house of one's enemy for the latter's destruction. 
 
-Says 
+[[P1139]]In XXIV. 17-18 and 19-21 two yantras for the destruction of an [[eñemy|enemy]] are described. Vide above p. 1105 for Prapañcasāra (34. 33) providing a yantra for creating passion in a woman and making her run to the person practising magic. 
 
-Interradallakas muidutas described 
+The Tantrarājatantra provides (8th Paṭala, verses 30-32) that yantras that yield all desired objects should be engraved, painted or drawn on pieces of gold, silver or copper or on cloth or birch leaf with paste of sandalwood, [[agalochum,|agallochum,]] camphor, musk or saffron and should be worn on the head or the arms or neck, waist or wrist or one [[shoull|should]] worship them after placing them somewhere [[on|(on]] the ground &c.); vide also [[Prapancasāra tantra|Prapañcasāra-tantra]] XI. 46 for similar provisions. 
 
-. 
+At the end of this chapter on Tāntrik doctrines and practices reference must be made to a remarkable circumstance. The [[Sarvadarsanasamgraha|Sarvadarśanasaṁgraha]] of [[Sāyana-Mādhava|Sāyaṇa-Mādhava]] (14th century A.D.), that deals with 15 [[Darsanas|*Darśanas*]] (points of view or philosophical views), has not a word to say about Tantras, though it devotes considerable space to the atheistic [[Cārvāka-darsana|Cārvāka-darśana]] and the unorthodox Bauddha and Jaina systems. It is impossible to believe that the most learned brothers [[Sayapa and Madhava wore|Sāyaṇa and Mādhava were]] unaware of the works on Tantra. The silence must be due to some special reason. If one may make a [[conjectura,|conjecture,]] it appears that [[Tantrik|Tāntrik]] doctrines were discarded for the same reasons that induced the Bengal king [[Balialasena|Ballālasena]] in his Dānasāgara to exclude the Devīpurāṇa from the authorities on which he meant to rely. At the time when [[Sayapa and Madhava|Sāyaṇa and Mādhava]] flourished (about middle of 14th century [[A. D.) Tantrik|A.D.) Tāntrik]] doctrines and practices had come into great disrepute. Therefore, [[Tantrik|Tāntrik]] doctrines were probably passed over in silence by [[Siyapa Madba ya..|Sāyaṇa-Mādhava.]]
 
-thumbs raised up; (4) Sannirodhant' means the same as the preceding but with the thumbs olosad inside the fist; (5) the mudra is called Sammukhikaranik when the two closed fists are held upwards; (6) *Sakalikti mudrā is the sotion of making the nyisa of the six limbs on the limbs of the (image of the devatā ( deity worshipped ); (7) the 'Aragupthana' mudra consists in closing the fingers held straight and turned down wards and waving the hand round (the image); (8) Dhonu mudra' ( a complicated pose) is formed by putting the right small finger over the right ring finger, intertwining the former with the left ring finger, the left small finger as it is, to be intertwined with the right ring finger, the left ring finger is to be passed over the left middle finger and the left thumb, and to be intertwined with the right hand middle finger brought to the right side of the left index finger and the right hand index finger to be joined with the left hand middle finger; (9) Mahs mudra is constituted by intertwining the thumbs of both hands and holding the other fingers straight 
+[^1850]: [[Ray a Teriya fani ararana|वरदाभयमुद्रे च वरदाभयदत् प्रिये। ज्ञानार्णवतन्त्र]] IV. 39; the Vara and Abhaya mudrās are defined in [[Jayakbyasachitā|Jayākhyasaṁhitā]] VIII. 104-5 as follows: [[सुस्पष्ट दक्षिण हस्तं वात्मनस्तु परामुखम् । पराङ्मुखं लम्बमान वामपाणि प्रकल्पयेत्। क्रमादरा yard 6 iai, matu rateniai a: I.|सुस्पष्टं दक्षिणं हस्तं स्वात्मनस्तु पराङ्मुखम्। पराङ्मुखं लम्बमानं वामपाणिं प्रकल्पयेत्। क्रमाद्वराभयाख्यं तु इदं मुद्राद्वयं द्विज।, विज्ञेयं लोकपालानामिन्द्रादीनां समासतः॥.]] See [[' Baddba|'Buddha]] and the Gospel of Buddha' by A. Coomaraswamy (London 1916) p. 262 for a [[Bhumisparsa-mudrā|Bhūmisparśa-mudrā]] from Ceylon (of 18th century [[A, D.)|A.D.)]] and 'Buddhist Art in India' by Prof. [[Grūnwedel|Grünwedel]] tr. by Agnes C. Gibson, figure 126 p. 178 for [[Bhumisparśamudra|Bhūmisparśamudrā]] (of Buddha) and pp. 38 and 330 (of Coomaraswamy's work) for Dharmacakramudrā respectively of [[Gapta|Gupta]] period and from [[Gandbāra|Gandhāra]] (1st or 2nd century [[A, D.)|A.D.)]] and Dr. B. Bhattacharya's 'Buddhist Iconography' plate XXVIII for the same. Vide 'Serpent Power' by A. Avalon (5th edition, 1953 pp. 480 and 488) for illustrations of [[Yogimudra|Yogīmudrā]] in [[Siddba sana|Siddhāsana]] and [[Mabāmodrā|Mahāmudrā]] respectively as practised by modern practitioners of yoga. In the Memoirs of Arch. S. I. No. 66 plate XIII (g) has [[Abhayamudra|Abhayamudrā]] of standing Buddha and 'Buddhist Art in India' (above) p. 192 has [[Abbaya... mudrā|Abhaya-mudrā]] of Maitreya from a relief in Swat, while in V. A. Smith's 'History of Fine Art in India and Ceylon' (ed. of 1930) plate 113 shows Buddha seated in [[Abbayamudrā|Abhayamudrā]] from Java. Vide N. K. [[Bhattasall's|Bhattasali's]] 'Iconography of Buddhist and [[Brabmapical|Brahmanical]] sculptures in the Dacca Museum' (1929) plate VIII opposite p. 30 for a fine [[Bbūnisparsa|Bhūmisparśa]] mudrā of [[Baddba|Buddha]] and pp. 56 and [[37|57]] plates XX and XXI for Varada mudrās (right hand).
 
-Some of the works on Yoga describe various mudras. For example, the Hathayogapradipikā (III. 6-23) describes at length ten mudrās and the Gherandagamhitā (III, 1-3) speaks of 25 mudrās and describes them in one hundred verses. The Śivasanahita (IV. 15–31 ) mentions ten mudrās as the best. An Important mudrā in Hathayoga practices is the Kheoarlmudra described in Dovibhagavata XI.86.62-65, sivasamhita IV. 31-33, Gherandasambita III. 25-27, Hathayogapradipikā II. 32-53, This description differs from the definition of Khecari in Jñānārnava (15. 61-63) and Nityaṣodaśikārṇava II. 15-83. The Vajrolimudri ( in Hathayogapradipikā. III. 82-96) cannot be set out here for reasons of decency and it was supposed to pro long the life of a yogin even after indulgence in sexual orgies. 
+[^1851]: [[TAHT # Street a gu garenaron gout your area 994:1 . 39.|तद्यत्तत्सत्यमसौ स आदित्यो य एष एतस्मिन्मण्डले पुरुषो यश्चायं दक्षिणेऽक्षन् पुरुषः। बृह. उप.]] V. 5. 2; vide [[. 74.|बृह. उप.]] II. 3. 3.
 
-Some of the Puranas contain an extensive treatment of mudrās. The Kallkāpurāṇa mentions anganyāsa, karanyāsa in obap. 66 and mudrās like Dhenumudra, Yonimudra, Mahamudrā, Khesarimudra in 70. 36-56, 78. 3-6; Devibhagavata (XI. 16. 98-102 ) speaks of 24 mudrās at the time of Gayatri-japa; the Brahmapurāpa1858 and Naradiyapurāṇa set out eight mudrās 
+[^1852]: [[1 Home Partita Arara itzi farger grafa: gitaar|चतुरश्रं मण्डलं चिकीर्षन् मध्यात् कोट्यां निपातयेत्। पार्श्वतः परिकृष्यातिशय-]]तृतीयेन सह मण्डलं परिलिखेत्। सा [[निस्वा|नित्या]] मण्डलम्। यावद्धीयते तावदागन्तु। मण्डलं [[चतर|चतुरश्रं]] चिकीर्षन् विष्कम्भं [[पशवाभापान|पञ्चदशभागान्]] कृत्वा द्वावुद्धरेत्। त्रयोदशावशिष्यन्ते सा [[निस्वा चतुरभम् । myte|नित्या चतुरश्रम्। आपस्तम्बशुल्बसूत्र]] III. 2-3 (Z. D. M. G. vol. LV. p. 579); compare a similar provision in the [[Sulbasūtra|Śulbasūtra]] of Kātyāyana [[q, by true on manfach|q. by राघवभट्ट on शारदातिलक]] III. 57. Vide 'The science of [[tbe Sulba' (a stody lo early Hindo|the Śulba' (a study in early Hindu]] Geometry) by [[Bibbati bhushan|Bibhutibhushan]] Datta (Calcutta, 1932) pp. 140 ff. The three [[fre-mounds required la|fire-mounds required in]] vedic sacrifices are [[Gārbapatya, Ābavaniya|Gārhapatya, Āhavanīya]] and [[Daksināgoi|Dakṣiṇāgni]] and they have to be respectively [[circalar,|circular,]] square and semi-circular in form and a [[farther|further]] requirement is that all the three [[bave|have]] to be equal in area. Therefore, the [[Ap.|Āp.]] Śulbasūtra provides a method for securing this when it says that a person desiring to make a circle (equal in area) to a square etc.
 
-1843. पर्याय श्रीवत्सो मवा गट एवच च खच भाईच अटो मुखाः Forfata u Tu 61, 35, nr II. 37. 55–56. It may be noted that these are mentioned among 19 Vippu mandrās enumerated from Tāatrik texts vol, I. 
+[^1853]: तस्मिन् मण्डलमालिख्य [[कल्पयेचत्र|कल्पयेत्तत्र]] मेदिनीम्। [[नानारत्नाकरवी|नानारत्नाकरवतीं]] स्थानानि विविधानि च। ... [[वर्णकार्विविधैः|वर्णकैर्विविधैः]] कृत्वा [[हयैर्गन्धगुणान्वितैः।|हृद्यैर्गन्धगुणान्वितैः।]] [[यथावं पूजयविद्वानान्धमाल्याइले. Tamil TESTRIUT 47.24 f. artta|यथास्वं पूजयेद्विद्वान्गन्धमाल्यानुलेपनैः॥ बृहत्संहिता 47. 24 ff. तस्मिन्]] refers to [[h.|शुभदेशे.]]
 
-(Continued on next page) 
+[^1854]: [[HETA Prostorima ... Proin fau (# ...) graft|महामण्डलमिवानकवर्णरागमालिखन्तं ... शिवबलिमिव दिक्षु विक्षिपन्तं (भैरवाचार्य ...) ददर्श। हर्षचरित]] III.
 
-1188 
+[^1855]: [[stt stora i mit farart uralaista 1 AKT|सौधोऽस्त्री राजसदनमुपकार्यौपकारिका। स्वस्तिकः सर्वतोभद्रो नन्द्यावर्ताह्वयोऽपि च॥ अमरकोश]] II. [[(pf).|(पुरवर्ग).]]
 
-History of Dharmadastra [ Soc. VI, Oh. XXYU 
+[^1856]: [[HE TAUGARRETTO Fart P T.|मण्डलं सर्वतोभद्रमेतत्साधारणं स्मृतम्। शारदा०]] III. 131.
 
-of Viṣpu worahip. Vide Agaipurāṇa, ahap. 26, for a brief reference in 7 verses to some mudris. The Kalikapurapa (70.32) atates that there are 108 mudrās, 55 for general worship and 53 on speoial occasions, such as oollooting materiala, drama, soting (natana) 
+[^1857]: [[Hoet (dl) dan gen gouetalataide ...aret rett # . AUT FI HOTSTAT E For n i rofa|मण्डपं (पे?) वेदिकां कृत्वा पुष्पवितानमण्डितम्। ...वेदिकायां वरारोहे कुङ्कुमेनाथ वा प्रिये। सिन्दूररजसा वापि विलिखेच्चक्रमुत्तमम्। ज्ञानार्णव]] 24. 8-10; [[nentot|नवकोणं]] विरच्याथ सिन्दूरेण महाप्रभम्। [[कलशान|कलशांश्च]] नव संस्थाप्य [[हेमरत्नाधिपूरितान् । एक षा कलश रम्य PRESA: I get met T errariergi|हेमरत्नादिपूरितान्। एकं वा कलशं रम्यं स्थापयेद्देशिकोत्तमः। दक्षतो मण्डलं कृत्वा कुङ्कुमाद्यैर्विचित्रितम्।]] ibid. 26. 15-16.
 
-Most verses of the Brahmaṇḍaparana (in the Lalitopa. khyāns, chap. 42) are the same as in the Mudrānighandu pp. 55-57 versas 110-118; but the largest number of pudrās in dancing is contained in the Viṣğudhartottara (UI). In chap. 32 it speaks of numerous rabasya (secret) mudrās in prose called mudrahastas and in chap. 33 (1-124) it desoribes over ons hundred sāmānyamudrās and the colophon at the end of the Chapter calls them 'nśttasāatramudrās' (mudrās in the science of dramaturgy ) 184! This opens up & subject which cannot be gone into here, viz. whether the mystic hand poses (mudrāo) in worship were derived from the postures (karanas), recakas (gestures) and 32 angahāras (movements of limbs ) described in the Natyaśāstra 145 of Bharata (chapters 4, 8 and 9). It may be noted that the Nātyaśāstra (in IV. 171 and 173 ) speaks of \#nrtta hastas'. Pāpiui know natasūtras of Silalin and Kpgāsva 1846 Bharata speaks of four kinds of acting (abhinaya 8. 9-10) viz. añgika, vācika, āhārya, sad sāttviks. In the 9th chapter the movements of the hands and fingers intertwined or joined are set out. Muṣti is defined by Bharata in 9. 55. Mudrās would fall under högika abhinaya; angahāras depended upon karanas 
+[^1858]: Vide Dr. B. Bhattacharya's article in J. G. J. R. I. [[Vol,|Vol.]] VI. pp. 273-281 for the importance of [[Niṣpandayogāvali of Abbayākaragupta|Niṣpannayogāvalī of Abhayākaragupta]] for Buddhist deities and psychic literature.
 
-(Continued from last page) cited above, All these except s i are named and defined in the recept pp. 124-125. The 14134 p. 136 prescribes that in the worship of feorg *āvāhana' should be made with the maatra Sahasrasirga' (Rg. X. 90.1) apā 14 mudrās shown persidaho guici Na Sarat47 मुद्राः प्रदर्शयेत् । ताश्च आवाहनी स्थापनी संमुखीकरणी सशिरोधिनी प्रसादमदा अवगुण्ठन 
+[^1859]: [[T 7H qrup I F o ur : a|प्राहुश्चतुरश्रं नाम श्लोकार्धभ्रमणं यदि। तदिष्टं सर्वतोभद्रं भ्रमणं यदि सर्वतः॥ काव्यादर्श]] III. [[&0. Mar|80. किरातार्जुनीय]] (sarga 15 [[y,|v.]] 25) [[fordisbes|furnishes]] the following as [[सोमव|सर्वतोभद्रः]] [[देवाकानिनिकावाद|देवाकानिनिकावादे]] [[वाहिकास्वस्वकाहि भाकाकारममरे|वाहिकास्वस्वकाहि वा। काकारेभभरे]] काका [[निस्समध्ययमस्वनि।|निस्वभव्यव्यमस्ववि॥]] An [[crample|example]] of a [[verke|verse]] in [[tbe an|the सर्वतोभद्रबन्ध]] is [[(aroished|furnished]] by [[T|काव्यादर्श]] III. 82, which is as [[folloms:|follows:]]
 
-हवा शचक्रगदायममुसलखधतुर्माणहदा". ___1844. Vide विष्णुधर्मोत्तर III. 32 which begias अथातो मुवाहस्तान् व्याख्यास्यामः and ends with a verse gat TETEPTH 
+| सा | मा | या | मा | मा | या | मा | सा |
+| मा | रा | ना | या | या | ना | रा | मा |
+| या | ना | वा | रा | रा | वा | ना | या |
+| मा | या | रा | मा | मा | रा | या | मा |
+| मा | या | रा | मा | मा | रा | या | मा |
+| या | ना | वा | रा | रा | वा | ना | या |
+| मा | रा | ना | या | या | ना | रा | मा |
+| सा | मा | या | मा | मा | या | मा | सा |
 
-HIRI : HUNA HTAT पास्ता नियोष मेइत्युदेशे ते प्रोका मुहाइस्ता मया तुपावशयमन्त्रयुक्तानां पर सिद्धि 
+[^1860]: यन्त्रं मन्त्रमयं प्रोक्तं देवता मन्त्ररूपिणी। यन्त्रे सा पूजिता देवी [[सहसैव प्रसी दति।|सहसैव प्रसीदति॥]] कामक्रोधादिदोषोत्थसर्वदुःखनियन्त्रणात्। [[यन्त्रमिस्याहरेतस्मिन देवः मीणाति पूजिता। govore|यन्त्रमित्याहुरेतस्मिन् देवः प्रीणाति पूजितः॥ कुलार्णव]] VI. 85-86 (The first half verse is quoted from [[t h at|अगस्त्यसंहिता]] by [[#. fas. it.|व. क्रि. कौ.]] p. 147); [[That gaator generan a geitafa i|विना यन्त्रेण पूजा चेद् देवता न प्रसीदति।]] Ibid. X. 109; [[Refret werth y tafti arga heti a facilitat ibid|यमभूतादिसर्वेभ्यो भयेभ्योपि कुलेश्वरि। त्रायते सततं चैव तस्माद्यन्त्रमितीरितम्। ibid]] XVII. 61. [[Hore o|Here य]] is supposed to stand for [[th|यम]] and others, [[is|त्र is]] derived from the root 'trai' [[(or' •tra').|('trai' or 'trā').]] विना यन्त्रेण या पूजा [[पिना|विना]] मांसेन तर्पणम्। विना शक्त्या [[तत्पान|तु यत्पानं]] [[तत्सर्व निष्फलं' van startadra|तत्सर्वं निष्फलं भवेत्॥ कौलावलीनिर्णय]] VIII. 41-42. [[#THYYTET PET p ara foto que Toys dan siteret i standartafeta.|सामरस्यस्य देवस्य विग्रहो यन्त्रकल्पना॥ विना यन्त्रेण चेत्पूजा देवता न प्रसीदति। रामपूर्वतपनीयोप.]] I. 13.
 
-Tara Fagara III, 33. 121. 
+[^1861]: It will be noticed that the latter [[halt|half]] is the same as the [[lattor|latter]] half of [[gorura|कुलार्णव]] X. 109. Vide Heinrich Zimmer's 'Myths and symbols [[la|in]] Indian Art and civilization' pp. 140-148 on 'yantra'; also [[mitura|अहिर्बुध्न्यसंहिता]] chap. 36 where the construction and worship of [[Sudarsanacakra|Sudarśanacakra]] is described.
 
-1845. ure Hyer 91 TRT: sapagat: 1 gaTTAE TEMA Futafanirati Health IV 33–34; illustrations of the 108 angabāras enumerated in TUNTE IV, 34-55 are given in the GOS edition of the State (vol. I), copied from the Naṭarāja temple gopuras at Chidambaran in South India. a 
+[^1862]: The [[praia: o ra mut mere inf o ', raw for|यन्त्रगायत्री is: यन्त्रराजाय विद्महे वरमदाय धीमहि। तन्नो यन्त्रं प्रचोदयात्॥ मेरुतन्त्र]] 33. 13.
 
-1846. Arreferent Partners Pragmanfra: . IV. 3, 110-111.Origin of Tantrik mudrūs 
+[^1863]: बिन्दु-त्रिकोण-वसुकोणदशारयुग्म-मन्वस्रनागदलसंयुतषोडशारम्। वृत्तत्रयं च धरणीसदनत्रयं च श्रीचक्रराजमुदितं परदेवतायाः॥ q. by शङ्करविजय of आनन्दगिरि (B. I. ed. of 1868) p. 255 and by सेतुबन्ध on नित्याषोडशिका 1. 31 from यामल (probably from the रुद्रयामल said to be composed by the great शङ्कराचार्य himself) and चतुर्भिः श्रीकण्ठैः शिवयुवतिभिः पञ्चभिरपि प्रभिन्नाभिः शम्भोधनवभिरपि मूलप्रकृतिभिः। त्रय-श्चत्वारिंशद्वसुदलकलाश्रत्रिवलयत्रिरेखाभिः सार्धं तव भवनकोणाः परिणताः॥ सौन्दर्यलहरी verse 11 in ed. by Ganesh and Co. Madras, 1957 with Com. लक्ष्मीधरा. Some writers read in the 2nd verse चतुश्चत्वारिंशत्. वसु stands for 8, मनु for 14, नाग for 8, कला for 16. There are two ways of describing it viz. from the bindu onwards (which is called Sṛṣṭi-krama) or from the outer lines to the bindu (which is called saṁhāra-krama). Vide 'Shakti and Shākta' by Sir John Woodroffe (3rd edition of 1929 published by Ganesh & Co. Madras) pp. 399 ff for explanation of the figure of Śrīcakra. A tāntrik work called Devīrahasya (D. C. ms. No. 490 of 1895-98) quotes the verse बिन्दुत्रिकोण...देवतायाः (on folio 31 a) but also cites another verse describing this चक्र somewhat differently. Cakras are differently enumerated in different works. For example, in D. C. ms. No. 962 of 1884-1887 called चक्रभेद, five cakras employed in the worship of Durgā according to Kaulāgama are राजचक्र, महाचक्र, देवचक्र, वीरचक्र and पशुचक्र (Cat. vol. XVI. on Tantra p. 163), while in another ms. D. C. No 964 of 1887-91, several other cakras are described such as अकडमहक्र, ऋणधनशोधनचक्र, राशिचक्र, नक्षत्रचक्र (Cat. vol. XVI. on Tantra p. 251).
 
-1129 
+[^1864]: तवाधारे मूले सह समयया लास्यपरया नवात्मानं मन्ये नवरसमहाताण्डवनटम्। उभाभ्यामेताभ्यामुदयविधिमुद्दिश्य दयया सनाथाभ्यां जज्ञे जनकजननीमज्जगदिदम्॥ सौन्दर्य० verse 41 p. 181 (ed. of Ganesh and Co. 1951). The com. of लक्ष्मीधर remarks 'अत एव कौलास्त्रिकोणे बिन्दुं नित्यं समर्चयन्ति। ... श्रीचक्रस्थितनवयोनिमध्यगतयोनिं भूर्जहेमपट्टवस्त्रपीठादौ लिखितां पूर्वकौलाः पूजयन्ति। तरुणाः प्रत्यक्षयोनिमुत्तरकौलाः पूजयन्ति। उभये योनिद्वयं बाह्यमेव नान्तरम्। अतस्तेषामाधारचक्रमेव पूज्यम्। ... अत्र बहु वक्तव्यमस्ति तच्च अवैदिकमार्गत्वात् स्मरणार्हमपि न भवति।'.
 
-and the latter consisted of different arrangements of hands and fast. It is likely that the mudras in the Hindu and Buddhist Tantrik works are based on the poses that were evolved in anotent Indian dance and drama and that find their earliest extant description in Bharata-bātyaśāstra and that are also to be found in later medieval works on dramaturgy such as the Abbinayadarpaṇa.1847 
+[^1865]: अस्य तन्त्रस्य प्राधान्येन त्रिपुरसुन्दर्युपासनाविधान एव तात्पर्यावगमात्। सा चोपासना मानसक्रियाविशेषरूपा। ... तस्मादनुरागरूपावृत्ता क्रियैवोपासना। सा च द्विविधा-तन्मन्त्रजपरूपा तद्यन्त्रपूजारूपा चेति। सेतुबन्ध on नित्या० I. 125 p. 68.
 
-The Aryamañjusrimūlakalpa names and defines 108 mudrās (p. 380). On p. 376 it states that the combination of mudras and mantrag would bring success in all actions and neithor tithi, nor nakṣatra nor fasting would be required. In the Viṣṇu dharmottarapurāṇa 1848 there is a fine eulogy of the mudrās made in dancing viz. they are the graces of the rich, the removers of the sorrow of the distressed, the instruction of the ignorant, the increase of the blessedness (or charm ) of women; they were created by Vāsudeva for the removal of portonts, as the means of prosperity and of the attainment of desired objects. 
+[^1866]: संस्थितारत्र महाचक्रे महात्रिपुरसुन्दरी। नित्याषोडशिका० I. 82; ज्ञाता स्वात्मा भवेज्ज्ञानमर्घ्यं ज्ञेयं बहिःस्थितम्। श्रीचक्रपूजनं तेषामेकीकरणमीरितम्॥ तन्त्रराजतन्त्र 35. 6; आसीना बिन्दुमये चक्रे सा त्रिपुरसुन्दरी देवी। कामेश्वराङ्कनिलया कलया चन्द्रस्य कल्पितोत्तंसा॥ verse 37 of कामकला०.
 
-The Buddhists also had mudrās. One of the early works of the Mahāyāna school viz. Aryamañjustimūlakalpa is full of mudrās in the 35th patala (pp. 355-381) and states (on p. 380) that there are 108 mudrās. 1849 L. H. Waddell in the Buddhism of Tibet or Lamaism' (London, 1895) describes nine mudrās practised in Tibet by the Lamas (pp. 336-337). 
+[^1867]: सर्वेषामपि मन्त्राणां पूजा यन्त्रे प्रशस्यते। यन्त्रे मन्त्रं समाराध्य यद्भीष्टं तदवाप्नुयात्॥ व. क्रि. कौ. p. 147.
 
-In the Indian Antiquery, yol 26 (1897), pp. 24-25, Burgess mentions nine Buddhist mudrās (slightly differing from Waddell's descriptions) as follows:-(1) Bhūmisprs or Bhūmi sparsa mudrā, an attitude of Sākya Buddha ('making the earth as witness ); (2) Dharmaoakra mudrā (teaching attitude); (3) Abhaya mudrā (of blessing), in which the left hand is open 
-
-1847. Vide safeterasor (edited by Dr. Manomohan Ghosh, 1957) p. 47 where cartain postures of the bands are called Saikha, Cakra, Samputa, Pāśa, Kūrma, Matsya, Varāba, Garuḍa, Simbamukha, wbich, as noticed above, are among the madrās mentioned in the Mudrānigbantu (Tantrik texte, edited by Avalon, vol, I p. 46 verses 5-7 and pp. 49-50 verses 32 ff, which define Valṣaava mudrās some of which like Garada occur in the Nāgyasāstra IX, 201 also, 
-
-1848. ferment for a refat :RaiT! Emigrant are want una PTT Pula Ahree metoda para pagate III. 34. 30-31. 
-
-1849. Vide artawaitegning (33th patala) p. 372 for m e and 
-
-So ma verses say the Madrins, which, dette, Sampata? P. 47 
-
-H. D. 142 
-
-1130 
-
-History of Dharmaśāstra (Sec. VI, Ch. XXVII 
-
-on the lap, the right hand is raised in front of the chest with the fingers and thumb half extended and with the palm faoing forwards; (4) Jõānamudrā (Dhyāna mudra ?) or Padmāsana mudrā (posture of contemplation); (5) the Vara or Varadamudra, in which the right hand hanga down over the knee, the palm of the hand turned outwards symbolising charity; (6) Lalita. mudrā (enchanting or bewitching ); (7) Tarkamudrā (right hand raised to the chest and slightly constricted; (8) Sarapa mudrā (of refuge or protection); (9) Uttarabodhimudrā (pose of highest perfection, which is apt to be confounded with Dharmacakramudrā). 
-
-The Jainas also had mudrās. In J. O. I. (Baroda), vol. VI. No. 1 pp, 1-35 Dr. Priyabala Shah contributes an interesting paper on two Jaina works, one of which called Mudrāvicāra describes 73 mudrās and the other called Mudrāvidhi lists 114 mudrās. 
-
-In a recent work 'Royal conquests and cultural migrations' Mr. C. Śivaramamurti (Calcutta, 1955) remarks (on p. 43) that the 'hastas' and 'karanas' on the Gopura at Chidambaram are found also in the Śiva temple at Prambanan in Jaya, where one can observe many of the huranas like Patākā, Tripatāka, Ardhacandra, Sikhara, Kartarlmukha, Sūci and hastas like Añjali, Puspaputa. In another recent work 'Contributions to the History of the Indian Drama' by Dr. Manomohan Ghosh (Calcutta, 1958) it is stated that in the bas-reliefs of Bayon (Angkor Thom ) certain aspects of the Cambodian dance and drama, particularly certain gestures depicted and actually observed in practice now in the dances in the royal palace, are similar to those described in the Nātyaśāstra of Bharata such as Añjali, Patākā, Ardhacandra, Musti, Candrakalā and Kapota (p. 63). 
-
-Some Sanskrit medieval Dharmaśāstra works from the 13th century A. D. dilate at some length on mudrās. Homādri on Vrata (vol. I. pp. 246-247) speaks of mudrās called Mukula, Pankaja, Niṣthura and Vyoma. The Smṛticandrikā (1st half of 13th century A.D.) names and defines 24.mudrās (I. pp. 146–147). The names are the same as in Devibhāgavata XI. 16. 98-10%. The Pūjāprakāśa (part of Viramitrodaja) defines in all 32 mudrās of which eight, viz. Ārāhani, Sthāpani, Sannidhāpani, Sarnrodhini, Prasāda, Avagunthana, Sammukha, Prarthana are common to the worship of all gods, some are specially appropriate 
-
-. 
-
-Medieval Dharmasastra works and mudrās 
-
-11$i 
-
-in Viṣṇu worship, come in worship of the Sun, Lakṣmi and Durgā and the Aõjali and Sambāra mudrās ( the last two) used in the worship of all goda. The Āhnikaprakasa (part of Viramitrodaya) names 24 mudrās to be shown at the time of the japa of Gayatri (pp. 298–299 ) which are the same as in Davi bhāgayata XI. 16. 98-102, but it quotes them as from Brahmā. 1850 It is diffioult to say what work is meant by Brahmā. Mudrās were not universally praotised. It is clear from the Dharmasindhu and Samskāra-ratnamālā quoted in note 1831 that Nyāsa and Mudrā were held to be non-vedic in Mahārāṣtra at least. 
-
-Another item in the Tantrik worship is that of Mandala which has been algo a prominent feature of orthodox Hindu practices in medieval and modern times. But it cannot be said that the concept of mandalas was borrowed by Sanskrit writers from the Tantrikas. The word was used in the sense of orb or circle. In the Tai. S. V. 3.9. 2 reference is made to circular bricks (mandalestakā); vide also Sat. Br. IV. I. 1. 25. The orb of the Sun is also called the wheel (cakra) in Rg. IV, 28.% and V. 29. 10. The Br. Up. says this Āditya is what is (called) truth 1851 (satya)' and refers to the Person in the orb (mandala) of the sun. Then it came to mean any figure or diagram (generally 
-
-1850. Ray a Teriya fani ararana IV. 39; the Vara and; Abbaya mudrās are defined in Jayakbyasachitā VIII. 104-5 as follows: सुस्पष्ट दक्षिण हस्तं वात्मनस्तु परामुखम् । पराङ्मुखं लम्बमान वामपाणि प्रकल्पयेत्। क्रमादरा yard 6 iai, matu rateniai a: I. See Baddba and the Gospel of Buddha' by A. Coomaraswamy (London 1916) p. 262 for a Bhumisparsa-mudrā from Ceylon (of 18th century A, D.) and • Buddhist Art in India' by Prof. Grūnwedel tr, by Agnes C. Gibson, figure 126 p. 178 for Bhumisparśamudra (of Buddha) and pp. 38 and 330 (of Coomaraswamy's work) for Dharmacakramudrā respectively of Gapta period and from Gandbāra (1st or 2nd century A, D.) and Dr. B. Bhattacharya's 'Buddhist Iconography' plate XXVIII for the same. Vide 'Serpent Power' by A. Avalon (5th edition, 1953 pp. 480 and 488) for illustrations of Yogimudra in Siddba sana and Mabāmodrā respectively as practised by modern practitioners of yoga. In the Memoirs of Arch. S. I, No. 66 plate XIII (g) has Abhayamudra of standing Buddha and 'Buddhist Art in India' (above) p. 192 has Abbaya... mudrā of Maitreya from a relief in Swat, while in V. A. Smith's 'History of Fine Art in India and Ceylon' (ed. of 1930) plate 113 shows Buddha seated in Abbayamudrā from Java. Vide N. K. Bhattasall's 'Iconography of Buddhist and Brabmapical sculptures in the Dacca Museum' ( 1929 ) plate VIII opposite p. 30 for a fine Bbūnisparsa mudrā of Baddba and pp. 56 and 37 plates XX and XXI for Varada mudrās (right hand). 
-
-1851. TAHT \# Street a gu garenaron gout your area 994:1 . 39. V. 5. 2; vide . 74. II. 3. 3. 
-
-1152 
-
-History of Dharmatāstra (dec. VI, Ch. XXVTI 
-
-circular) drawn on an altar and the like. In the Sulbasūtras of Åpastamba and Katyayana reference is made to the squaring of a circle (mandala).1952 The Matsyapurāṇa refers in several passages to mandalas drawn with powders of five colours (as in 58. 22). It also refers to the figure of a lotus of twelve or eight patals drawn with saffron or red sandalwood paste or with various colours (72. 30; 62. 15; 64. 12–13; 74. 6-9 a lotus figure with eight patals and pericarp for sun worship). Varābamihira in Bṛ. 8. (chap. 47) describes 1853 a very auspicious ceremony called Pusy aspāna in which a mandala was to be drawn on holy ground with powders of different colours in which positions were to be assigned to gods, planets, stars etc. The Brahmapurāṇa ( 28, 28 ) mentions the invocation of the Sun on the figure of a lotus and Brahmapurāpa ( 61. 1-3) about the worship of Nārāyana on a mandala in the form of a lotus is quoted by Raghunadana in Puruṣottama-tattva (p. 569). The Harṣacarita 1854 (first half of 7th century A. D.) refers to a large mandala being drawn in several colours. The Varāhapurāṇa refers to the images or paintings of Lakṣmi and Nārāyana in a mandala for worship (chap. 99. 9-11). The Agnipurāṇa (chapter 320 ) refers to eight mandalas, Sarvatobhadra and others. Several mandalas are described in Sāradātilaka III. 113–118, 131-134, 135-139 (davanabhamandala ), in Jñānārṇava 26. 15-17 and other works. According to the Amarakośa 1855 Sarvatobhadra is a variety of 
-
-1852. 1 Home Partita Arara itzi farger grafa: gitaar तृतीयेन सह मण्डलं परिलिखेत् । सा निस्वा मण्डलम् । यावद्धीयते तावदागन्तु। मण्डलं चतर चिकीर्षन विष्कम्भ पशवाभापान कृत्वा द्वावुद्धरेत् । त्रयोदशावशिष्यन्ते सा निस्वा चतुरभम् । myte III. 2-3 (Z. D. M. G. vol. LV. p. 579): compare a similar provision in the Sulbasūtra of Kātyāyana q, by true on manfach III. 57, Vide 'The science of tbe Sulba' (a stody lo early Hindo Geometry) by Bibbati bhushan Datta (Calcutta, 1932) pp. 140 ff. The three fre-mounds required la vedic sacrifices are Gārbapatya, Ābavaniya and Daksināgoi and they have to be respectively circalar, square and semi-circular in form and a farther requirement is that all the three bave to be equal in area. Therefore, the Ap. Sulbasūtra provides a method for securing this when it says that a person desiring to make a circle (equal in area) to a square etc. ___1853. तस्मिन् मण्डलमालिख्य कल्पयेचत्र मेदिनीम् । नानारत्नाकरवी स्थानानि विविधानि च।...वर्णकार्विविधैः कृत्वा हयैर्गन्धगुणान्वितैः। यथावं पूजयविद्वानान्धमाल्याइले. Tamil TESTRIUT 47.24 f. artta refers to h. 
-
-1854. HETA Prostorima ... Proin fau (\# ...) graft III, 
-
-1855. stt stora i mit farart uralaista 1 AKT II. (pf). 
-
-• 
-
-Śarvatobhadra Mandala 
-
-1133 
-
-residence for kings or rich people. The Sāradatilaka (III. 106 130 ) deals at length with the construction of a Sarvatobhadra mapdala and remarks that it is common to all worship 1856 and provides (III. 122–124) that the mandala should be drawn with five coloured powders viz. yellow with turmeric powder, white produced from husked grains of rice, red with Kusumbha powder, black with the fine powder of half burnt inferior cereals sprinkled with milk and greenish with powder of the leaves of bilva. The Prapancasāra (V. 64-65) and Agni (30. 19-20) provide for similar coloured powders. The Vāstuyāgatattva of Raghunandana (p. 416 ) quotes the Sāradātilaka (III. 123-124) about the five powders. The Jõānārnavatantra ( 24. 8-10 and 26. 15-17 ) appears to hold that mandala and cakra are synonyms and states that a mandala with nine angles may be drawn on an altar in a pavilion (mapdapa ) with saffron or vermilion powder, 1857 The Mahānirvāṇatantra also refers to mandalas drawn with coloured powders (X. 137–138). Four characteristics of mandala ceremonies are mandala, mantra, pūjā and mudrā. 
-
-The Buddhist tantras also make much of mandalas. In the Manjusrimūlakalpa mandalas are described with special direc tions for painting them. The Guhyasamājatantra speaks of a mandala of 16 cubits with a cakra inside. Vide Prof. G. Tucci's 'Indo-Tibetica' vol. IV part I (Rome, 1941) which gives tables containing mandalas and A. Getty's 'The Gods of Northern Buddhism' (1908) Plate XVI for a mandala of nine elements, and Contributions to the study of mandala and mudra' by Erik Haarh pp. 57-91 of vol XXIII, Nos. 1 and 2 (1958) of Acta Orientalia of the Oriental Societies of Denmark, Norway &c. in which at the end there are photographs of about 100 hand poses (mudrās). The Niṣpannayogāvali (G, O.S.) of Abhayākara gupta, & contemporary of Rāmapāla, king of Bengal ( 1084-1130 A. D.), describes 26 mandalas in 26 chapters, each mandala having a central deity and other minor Buddhist divinities, sometimes more than one hundred in number, 1858 
-
-1856. HE TAUGARRETTO Fart P T. III. 131. 
-
-1857. Hoet (dl) dan gen gouetalataide ...aret rett \# . AUT FI HOTSTAT E For n i rofa 24. 8-10; nentot विरच्याथ सिन्दूरेण महाप्रभम् । कलशान नव संस्थाप्य हेमरत्नाधिपूरितान् । एक षा कलश रम्य PRESA: I get met T errariergi ibid. 26. 15–16. 
-
-1858, Vide Dr. B. Bhattacharya's article in J. G. J. R. I. Vol, VI. pp. 273-281 for the importance of Niṣpandayogāvali of Abbayākaragupta for Buddhist deities and psychic literature, 
-
-
-
-
-
-
-
-1134 
-
-Hustory of Dharma bāstra (Sec. VI, CL XXVII 
-
-Iu lze collection of the rites and worship called 'Rgrada brahmakarvata ucapa' qablished by the Nirnayasagara Press (6th ed. Banbar 1936 ) there are at the beginning mayerai mandalaa, plain or drawo io various colors, such as tbe Sarya tobhadra, Caturliogatoteadra, Prāsidara tumandala, Grbava stuna jala, Gralhadoratamaqdala, Harinaramazdala, Ekalinga tobhadra The Smrtikaustubha bentions Drādasaliogatobhadra, Haribara-marala inside which there is Sarratobhadra pp. 410 411 (of Kira, ed. of 1909). They are all passed over bara Sarsatdira literally meane suspicious go all sider. This concept of an auspicioua figure o diagram was carried over in the realm of Poetica. Daljin id bis Karyadarsa cites a verse in tae forn called Sarvatubhadra, which is an illustration of what are called 'citra-landbas', 149 about a century before Dardio. tie Kirātārjunija (15.25) gives an illustration of 
-
-sanatkyhada. 
-
-In the Acta Orientalia volume referred to above there is an interesting analysis of the contents of to Tibetan non, one containing what is called "Rice-mandala' in which 37 slements 
-
-1859. T 7H qrup I F 
-
-o ur : a III. &0. Mar ( sarga 15 y, 25) fordisbes the following as सोमव देवाकानिनिकावाद वाहिकास्वस्वकाहि भाकाकारममरे काका निस्समध्ययमस्वनि। An crample of a verke in tbe an is (aroished by T III. 82. which is as folloms: 
-
-.. Yanina or aka 
-
-1135 
-
-are indioated by their names (vide figura 1) and the other con taiping 123 drawings of mudrās (hand poses ). 
-
-Another characteristio item in Tantrik worship is 'yantra' (geometrical diagram ), sometimes called cakra also, which one finds to some extent also in the Puranas and slightly in modern orthodox practices. A yantra is a diagram (or figure ) engraved, drawn or painted on metal, stone, paper or other material. It resembles a mandala but differs from it in this that & mandala may be employed in the worship of any demtā, while a yantra is specially appropriated to the worship of a particular deity or employed for a particular purpose. The Kulārnava-tantra 1860 states; 'Yantra is a development (or product) of mantra and a deity apprehended in the form of a mantra ; the deity worshipped on the yantra immediately becomes favourable; yantra is so called because it removes all pains (or perturbations) arising from such faults as love and anger; if God is worshipped in yantras, he is pleased'. The same Tantra further says if worship is done without a yantra the devata is not pleased', Here the word 'yantra' is derived from the root 'yantr'. In another place the same tantra states 'Yantra is so deolarad because it always saves (the worshipper) from Yama (god of death) and goblins and other dangers'. The Rāmapūrvatāpaniya Upanisad 1861 observes the arrangement (or preparation) of a yantra is the body of the deity which confers safety'. The Kaulivalinirṇaya observes 'worship (of a deity) without employ ing & yantra, satiating the goddess) without offering flesh, drinking wine without being accompanied by a Sakti (the wife or other woman associated with a Sakta worabipper )-all these yield no fruit.' Some works evolved a 'yantra-gāyatri' also. 1867 
-
-1860. यन्त्र मन्त्रमय प्रोक्तं देवता मन्त्ररूपिणी। यन्त्रे सा पूजिता देवी सहसैव प्रसी दति। कामक्रोधादिदोषोत्यसर्वदुःखनियन्त्रणात्। यन्त्रमिस्याहरेतस्मिन देवः मीणाति पूजिता। govore VI, 85-86 (The first half verse is quoted from t h at by \#. fas. 
-
-it. p. 147); That gaator generan a geitafa i Ibid. X. 109; Refret werth y tafti arga heti a facilitat ibid XVII. 61, Hore o is · supposed to stand for th and others, is derived from the root trai' (or' 
-
-•tra'). विना यन्त्रेण या पूजा पिना मांसेन तर्पणम् । विना शक्त्या यत्पान तत्सर्व निष्फलं' van startadra VIII, 41-42. \#THYYTET PET p ara foto que 
-
-Toys dan siteret i standartafeta. I. 13. 
-
-1861. It will be noticed that the latter halt is the same as the lattor half of gorura X. 109. Vide Heinrich Zimmer's 'Myths and symbols la Indian Art and civilization' pp. 140-148 on 'yantra'; also mitura chap. 36 where the construction and worship of Sudarsanacakra is described. 
-
-1862. The praia: o ra mut mere inf o ', raw for 33. 13. 
-
-1136 
-
-History of Dharmasastra 1 Seo, VI, Ch. XXVII 
-
-These passages make it clear that a yantra was deemed to be a factor belping in restraining the restless movements of the mind due to anger, love and the like and in making the mind concentrate on a diagram or model deemed to represent the deity worshipped. It induced concentration and encouraged the mental realization of the deity. The distinction between the dercyū and yantra is similar to that between the soul and the body. Most Hindus look upon such forms of worship without antipathy because it is felt that they serve as a way of approach to divinity for ordinary unsophisticated people and that it is better to have one's foot on the lowest rung of the ladder to higher life than to bave it on no rung at all. 
-
-Yantras are described in such Tantrik and other works as Tripurātāpani Upariṣad (II. 3), Prapancasāratantra (patalas 21 and 34), Sāradātilaka (VII. 53-63, XXIV), Kamakalāvilāsa (verses 22, 26, 29, 30, 33), Nityāsodaśikārnava (I. 31-43) Nityotsava (pp. 6,64-5), Tantra-rājatantra (II. 44-51, VIII, 30 ff. XXXIII), Ahirbudhnyasamhita (chap. 23-26), Mantramaho dadhi (20th Taranga), Kaulajñānanirṇaya (X, which speaks of them as cakras), Kaulāvalīnirṇaya (III. 105–135), Merutantra (33rd prakāśa, 562 vorses), Mantramahārnava-tantra (Uttard khanda, 11th taranga). It is not possible to deal with all this large material here. The Padma (Pātālakhanda, 79. 1) provides that the worship of Hari (Vispu) may be performed on the Salagrāma stone or on a jewel or a yantra, a mandala, or images, and not merely in a temple. The Ahirbudhnya-sambitā (chap. 36, verses 5-66) describes the procedure of the worship of a Sudarsana-yantra by a king or other personage desiring wealth or prosperity. One yantra or cakra may be explained and illustrated here. The most noted is óricakra described in two verses quoted 1853 below and explained in some detail in the 
-
-1863. Fore -TerraTTA-ATHATTE \#Yagian I ITTI erroir 7 sa u aratat: g. by Thore of wrathi (B. I, ed, of 1868) p. 255 and by menu on racunatsfranit 1, 31 from oths (probably from the 9193 said to be composed by the great prard himself) and चतुभिः श्रीकण्ठैः शिवयुवतिभिः पञ्चभिरपि प्रभिलाभिः शम्भोनवभिरपि मूलमतिभिः। वय श्वत्वारिंशद्वसदलकलाश्रत्रिवलयत्रिरेखाभिः सार्ध तब भवनकोणाः परिणतासौन्दर्यलहरी verse 11 in ed, by Ganesh and Co. Madras, 1957 with Com. Ára. Some writers read in the 2nd verse T i tra . at stands for 8, Hes for 14, fm for 8, F67 for 16. There are two ways of describing it viz. from the bindu onwards (which is called Srsti-krama) or from the outer llaes to the bindu (wbich is called sambāra-krama). Vide 'Shakti and Shākta' by Sir Joba 
-
-( Continued on next page) 
-
-Bricakra explained 
-
-1137 
-
-Setubandha commentary on Nityāṣodaśikārṅava (I. 31-46), The latter verses explain how the Cakra is to be drawn with the bindu in a small triangle. The bindu represents Sakti or Mūla praksti solidified. In published works on Tantra the śricakra is represented in colours ( as in Saundaryalahari published by Ganesh & Co. Madras, 1957, facing the title page ), while others represent it only by means of plain uncoloured lines (as on the outer cover of the above edition of Saundaryalahari or on the cover of the Kāmakalāvilāsa od. by A. Avalon and published by Ganesh and Co. 1953). In some works the figure of Srioakra shows no gates as on the cover in 'Principles of Tantra' by A. Avalop or on the cover of Kāmakalāvilāsa, while gates are shown in other works ( as in the above edition of Saundaryala hari before the Sanskrit text). There are nine triangles, five of whioh have their apex pointing downwards and those represent Śakti and four (representing Śiva) have an apex pointing up wards. The bindu is situated in the smallest triangle pointing downwards. Then there are two pairs of ten triangles ( shown in some books as blue and red respectively), then fourteen triangles (coloured blue in some works), then eight-petalled lotus (sometimes coloured red), 16 petalled lotus ( coloured blue), then three circles, then three boundary lines with four gates, these two latter being the outer sections of the yantra and the lotuses of 8 and 16 petals being the inner section of the yantra. There are in all 43 angles (some works make 44). The part of the Cakra within the boundary lines is called bhūpura. The worship of yantra is bahiryāga (outer or external worship of Śakti). The internal worship (antaryāga) consists in taking the awakened Kundalini through the cakras from Mūlādhāra to Ajmkoakra and then uniting it with the Lord Śiva in the Saham Srāra-oakra, the six cakras from Mūlādhāra being identified with 
-
-(Continued from last page) Woodcoffe (3rd edition of 1929 published by Ganesh & Co. Madras) pp. 399 ff for explanation of the figure of Sricakra. A tāotrik work called Devi rabasya (D. C, ms.No. 490 of 1895-98) quotes the verse pretenos...garant: (op folio 31 a) but also cites another verse describing this somewhat differently. Cakras are differently enumerated in different works. For example, in D. C. me. No. 962 of 1884–1887 called Fires, five cakras employed in the worship of Durgā according to Kaulāgama are raras, HETE, 9 , am and T (Cat. vol. XVI. on Tantra p. 163 ), while in another ms. D, C. No 964 of 1887-91, several other cakras are described such as STATT, orange, trann, 7 (Cat. vol. XVI. OR Tantra p. 251). 
-
-8. D. 143 
-
-1138 
-
-History of Dharmalastra (Sec. VI, Ch. XxVII 
-
-the five elements and mind. This la described in Saundaryala. hari (verse 9). To what lengths 'Sakti' worshippers had gone in the worship of Devi by the bahiryāga method would be clear from a passage quoted from the commentary of Lakṣmidbara, almost the latest among the numerous commentators of the Saundaryalahari, who was horrified by the methoda of Kaulikas. 1864 
-
-The Setubandha on Nityāṣodaśikārnava is at great pains to emphasize that the worship of Tripurasundari is of the nature of upāsanā and not of the nature of bhakti and that this upāsanā is of two sorts, one consisting of the recitation of the mantra of the Devi and the other consisting of the worship of the yantra1865 (or cakra). Verses 126-204 of the Nityasodasi kārṇava detail the different items in the worship of the Sricakran The Nityaṣodaśikā and other Tantrik works say that the great Tripurasundari is seated in the Sricakra,1866 The great aim of the Sākta sādhaka is apparently to realize his identity with the yantra, the mantra, the guru and Tripurādevi. The Varṣakriya kaumudi quotes a verse stating that worship of yantra performed with all mantras is commended and by 80 doing a worshipper 
-
-may secure whatever he desires.1867 
-
-Even a comparatively sober work like the Sāradātilaka provides for the drawing up of yantras for wicked purposes. For example, in VII. 58-59 it describes an Agneya-yantra to be drawn on a garment secured from a pile in a cemetery and buried near the house of one's enemy for the latter's destruction. 
-
- -------------- ... ---------------------------------- 1864. ताधारे मूले सह समयया लास्यपरया नवात्मानं मन्ये नवरसमहाताण्डवनटम्। उभाग्यामेताग्यामुदयविधिमुद्दिश्य दयया सनाथाम्यां जज्ञे जनकजननीमज्जगदिदम् । सोन्दर्य verse 41 p. 181 (ed. of Ganesh and co. 1951). The com. of लक्ष्मीधर remarks 'अत एव कौलात्रिकोणे बिन्दु नित्यं समर्चयन्ति।... श्रीचक्रस्थितनवयोनिमायगतयोनि भूर्जहम पहषापीठादौ लिखितां पूर्वकोलाः पूजयन्ति । तरूण्याः प्रत्यक्षयोनिमुत्तरकोलाः पूजयन्तिा उमर्य योनिद्वयं वाहामेव नान्तरम् । अतस्तेषामाधारचक्रमेव पूज्यम् । ... अत्र बहु वक्तव्यमति सच अवैदिकमार्गवात् स्मरणार्थमपि न भवति ।।. 
-
-_1865. अस्य तन्त्रस्य प्राधान्येन त्रिपुरसुन्दर्युपासनाविधान एव तात्पर्यावगमात्। सा चोपासना मानसक्रियाविशेषरूपा। ... तस्मादनुरागव्यावृत्ता क्रिययोपासना। सा च द्विविधा तन्मन्त्रजपरूपा तद्यन्त्रपूजारुपा चेति। सेतुबन्ध on निस्या: 1. 125 p.68. . ___1866. संस्थितात्र महाचक्रे महात्रिपुरसुन्दरी। नित्यापोडशिका I. 82; ज्ञाता स्वात्मा भवेज्ज्ञानमध्ये ज्ञेयं बहिःस्थितम् । श्रीचक्रपूजनं तेषामेकीकरणमीरितम् ॥ तन्त्रराजतन्त्र 35.6%: आसीना बिन्दुमये चक्रे सा त्रिपुरसुन्दरी देवी। कामेश्वराङ्कुनिलया कलया चन्द्रस्य कल्पितो 
-
-सा॥ verse 37 of कामकला. ____1867. सर्वेषामपि मन्त्राणां पूजा यन्त्रे प्रशस्यते। यन्त्र मन्त्रं समाराध्य यदभार बदा मयात् । व.क्रि. को. p. 147.Yantras for cruel or immoral objects 
-
-1139 
-
-In XXIV. 17–18 and 19-21 two yantras for the destruction of an enemy are described. Vide above p. 1105 for Prapancasāra (34. 33 ) providing a yantra for creating passion in a woman and making her run to the person practising magic. 
-
-The Tantrarajatantra provides ( 8th Patala, verses 30-32 ) that yantras that yield all desired objects should be engraved, painted or drawn on pieces of gold, silver or copper or on cloth or birch leaf with paste of sandalwood, agalochum, camphor, musk or saffron and should be worn on the head or the arms or neck, waist or wrist or one shoull worship them after placing them somewhere on the ground &c.); vide also Prapancasāra tantra XI. 46 for similar provisions. 
-
-At the end of this chapter on Tāntrik doctrines and practices reference must be made to a remarkable circumstance. The Sarvadarsanasamgraha of Sāyana-Mādhava (14th century A.D.), that deals with 15 Darsanas (points of view or philosophical views), has not a word to say about Tantras, though it devotes considerable space to the atheistic Cārvāka-darsana and the unorthodox Bauddha and Jaina systems. It is impossible to believe that the most learned brothers Sayapa and Madhava wore unaware of the works on Tantra. The silence must be due to some special reason. If one may make a conjectura, it appears that Tantrik doctrines were discarded for the same reasons that induced the Bengal king Balialasena in his Dānasāgara to exclude the Devīpurāṇa from the authorities on which he meant to rely. At the time when Sayapa and Madhava flourished (about middle of 14th century A. D.) Tantrik doctrines and practices had come into great disrepute. Therefore, Tantrik doctrines were probably passed over in silence by Siyapa Madba ya.. 
-
-APPENDIX TO SECTION VI 
+[[P1140]]APPENDIX TO SECTION VI
 
 Some important published texts consulted by the author on Tāntricism are set out here. Sanskrit works are arranged in the order of the Sanskrit alphabet, but are transliterated in English and their names are printed in italics. Information about authors, dates and editions is set out briefly where available. 
 
-Adrayavajrasangraha of Advayavajra (11th century A. D.); 
+[[Adrayavajrasangraha|Advayavajrasaṁgraha]] of Advayavajra (11th century A. D.); contains 21 short works on Buddhist philosophy (in G. O. S.), [[od.|ed.]] by H. P. Shastri, with a valuable Introduction. 
 
-contains 21 short works on Buddhist philosophy (in G.O.S.), 
+[[Arya-Manjusrimūlakalpa|Ārya-Mañjuśrīmūlakalpa]] (published in TSS in three parts and 721 pages); contains parts of different dates (from 4th to 9th century A.D.). It [[ia|is]] Buddhist and included in Tibetan [[Kangyar.|Kangyur.]] It has now 55 chapters, but a Chinese translation of 10th century has only 28 chapters. Dr. B. Bhattacharya ascribes it to 2nd century A. D.; but Winternitz [[disagreeg|disagrees]] (vide IHQ. IX. pp. 1 ff.). Jayaswal in 'Imperial History of India' gives the text of [[patalarisara|paṭalavisara]] 53 containing 1003 [[Verses,|verses,]] out of which verses 6-344 deal with the biography of [[Buddla|Buddha]] up to his [[nirvana|nirvāṇa]] and real history is given from about 78 A. D. to 8th century A. D. in verses 345-980. 
 
-od. by H. P. Shastri, with a valuable Introduction. Arya-Manjusrimūlakalpa (published in TSS in three parts and 
+[[Īsānaśivagurudevapaddhati|Īśānaśivagurudevapaddhati]] of [[Iśānaśivagurudevamiśra,|Īśānaśivagurudevamiśra,]] in four parts, [[Sāmāngapāda,|Sāmānyapāda,]] [[Mantrapada,|Mantrapāda,]] Kriyāpāda and Yogapāda; it contains about 18000 ślokas and is published in T. [[8. 8.;|S. S.;]] it mentions [[Gautamiya|Gautamīya]] Tantra, [[Prapancasāra|Prapañcasāra]] and Bhojarāja; composed about 1100 A. D. or a little later. 
 
-721 pages); contains parts of different dates (from 4th to 9th century A.D.). It ia Buddhist and included in Tibetan Kangyar. It has now 55 chapters, but a Chinese translation of 10th century has only 28 chapters. Dr. B. Bhattacharya ascribes it to 2nd century A. D.; but Winternitz disagreeg (vide IHQ. IX. pp. 1 ff.). Jayaswal in 'Imperial History of India' gives the text of patalarisara 53 containing 1003 Verses, out of which verses 6-344 deal with the biography of Buddla up to his nirvana and real history is given from 
+[[Kāmakalāvilūsa|Kāmakalāvilāsa]] of [[Punyānandanātha,|Puṇyānandanātha,]] with the commentary [[Cidvalli|Cidvallī]] of Naṭanānandanātha (Kashmir S. S.); there are 55 verses with tr. and notes by Arthur Avalon (pub. by Ganesh & Co. Madras, 1953), originally in [[Tantrik Texts|Tāntrik Texts]] vol. X. 
 
-about 78 A. D. to 8th century A. D. in verses 345-980. Īsānaśivagurudevapaddhati of Iśānaśivagurudevamiśra, in four 
+[[Kalacakratantra|Kālacakratantra]] (Buddhist)—Vide J. A. S. B., Letters, vol. XXVIII (1952) pp. 71-76 for an account of this work by Biswanath Bandopadhyaya 
 
-parts, Sāmāngapāda, Mantrapada, Kriyāpāda and Yogapāda; it contains about 18000 ślokas and is published in T. 8. 8.; it mentions Gautamiya Tantra, Prapancasāra and Bhoja 
+[[Kūlajfiūnanirṇuya-ed.|Kaulajñānanirṇaya—ed.]] by Prof. P. C. Bagchi (in Calcutta S. Series, 1934); H. P. Shastri assigned the ms. of it to 9th century A. D., but Prof. [[Bagobi|Bagchi]] (p. 3) places it in the [[P1141]]middle of the 11th century A. D. It is ascribed to Matsyendrapāda in the [[colophong.|colophons.]] Vide p. 1115, n 1820 above for Matsyendranātha. 
 
-rāja; composed about 1100 A. D. or a little later. Kāmakalāvilūsa of Punyānandanātha, with the commentary 
+[[Kulivilāsatantra-ed.|Kālivilāsatantra—ed.]] by A. Avalon in Tāntrik Texts, vol. VI (1917) in 35 [[patalas.|paṭalas.]] In [[X,|X.]] 20-21 it frankly allows adultery provided the sexual act is not completed. It mentions (in XX. 1) the [[Kālikāpurāpa|Kālikāpurāṇa]] and in XV. [[12–13|12-13]] contains a mantra in [[&|a]] language resembling Assamese and eastern Bengali. 
 
-Cidvalli of Naṭanānandanātha (Kashmir S. S.); there are 55 verses with tr. and notes by Arthur Avalon (pub. by Ganesh & Co. Madras, 1953), originally in Tantrik Texts 
+[[Kulacūdāmaṇi-tantra|Kulacūḍāmaṇi-tantra]] (ed. by A. Avalon in [[Tantrik Texte,|Tāntrik Texts,]] vol. IV, 1915) in seven [[patalas|paṭalas]] and 430 verses. In I. [[4–12|4-12]] names of 64 tantras are cited. 
 
-vol. X. Kalacakratantra (Buddhist)-Vide J. A. S. B., Letters, vol. 
+Kulārṇava-tantra—It is in 17 ullāsas and contains over 2000 [[Verses.|verses.]] It is a famous work profusely quoted (published in Tāntrik Texts, vol. V, London, 1917). It is an early tantra, probably composed before 1000 A. D. In the colophons it is said to be a tantra of the [[Urdhyāmnāya|Ūrdhvāmnāya]] (the fifth of the five [[amnāyas)|āmnāyas)]] and as part of the work of one lakh and [[&|a]] quarter verses. Vide A. B. O. R. I. vol. XIII. pp. 206-211 for a paper on 'Kulārṇava-tantra, its extent and contents' by Prof. Chintaharan Chakravarti. 
 
-XXVIII (1952) pp. 71-76 for an account of this work by 
+[[Raulāvalinirṇaya|Kaulāvalinirṇaya]] of [[Jöānānandagiri|Jñānānandagiri]] in twenty-one ullāsas, ed. by A. Avalon in Tāntrik Texts, vol. XIV; in I. 2-14 names numerous Tantras including yāmalas and in I. [[92–93|92-93]] eight former gurus are named. 
 
-Biswanath Bandopadhyaya Kūlajfiūnanirṇuya-ed. by Prof. P. C. Bagchi (in Calcutta S. 
+Ganapatitattva—Old Javanese Text, critically edited, annotated and translated by Dr. (Mrs.) [[Sudarsadevi|Sudarśadevī]] Singhal (pub. by International Academy of Sciences, New Delhi, [[1958 );|1958);]] refers to Mūlādhāra and other Cakras with their positions and colours, six [[angas|aṅgas]] of Yoga excluding yama, niyama, āsana and adding tarka; gives an account of the production of nāda from Niṣkala and of bindu from [[zāda|nāda]] and so on, of mantras, [[bijās|bījās]] &c. 
 
-Series, 1934); H. P. Shastri assigned the ms. of it to 9th century A. D., but Prof. Bagobi (p. 3) places it in the 
+Guhyasamājatantra or Tathāgata-guhyaka (Buddhist): It is published in G. O. S.; it is assigned to 4th century A. D. by Dr. B. Bhattacharya (in Intro. to [[Sadhanamala,|Sādhanamālā,]] vol. II, p. XCV); vide p. 1050 above for criticism of this view. It probably belongs to the 5th or 6th century A. D. Vide notes 1673 and 1691. 
 
-Appendix 
+[[P1142]][[Coraksasiddhāntasangraha|Gorakṣasiddhāntasaṅgraha]] published in [[8.|S.]] B. Texts [[(1925 );|(1925);]] mixture of Yoga and Tantra. 
 
-1141 
+Cidgaganacandrikā; ascribed to [[Kālijasa ;|Kālidāsa;]] ed. by [[Trivikramatirtha|Trivikramatīrtha]] in Tāntrik Texts, Vol. XX. 
 
-middle of the 11th century A. D. It is ascribed to Matsyendrapāda in the colophong. Vide p. 1115, n 1820 
+[[Jayākhya sainhita|Jayākhyasaṁhitā]] (published in G. O. S.)—a [[Pancarātra|Pāñcarātra]] work ascribed to 450 A. D. by Dr. B. Bhattacharya; [[containa|contains]] some Tantra topics such as [[Yakṣini-sādhana,|Yakṣiṇī-sādhana,]] [[Cakrayantra sādhana,|Cakrayantra-sādhana,]] Stambhana. 
 
-above for Matsyendranātha. Kulivilāsatantra-ed. by A. Avalon in Tāntrik Texts, vol. VI 
+[[Jžānasiddhi|Jñānasiddhi]] of king [[Indrabbūti,|Indrabhūti,]] disciple of [[Anangavajra|Anaṅgavajra]] and father of guru Padmasambhava; pub. in [['Two Vajrayāda Texts|'Two Vajrayāna Texts']] [[(G.O, S.);|(G. O. S.);]] assigned to about 717 A.D. (Intro. p. 10); gives in a nutshell leading doctrines of Vajrayāna. 
 
-(1917) in 35 patalas. In X, 20-21 it frankly allows adultery provided the sexual act is not completed. It mentions (in XX. 1) the Kālikāpurāpa and in XV. 12–13 contains a mantra in & language resembling Assamese and eastern 
+[[Jnönārnavalantra,|Jñānārṇavatantra,]] pub. by Anan. Press, Poona; contains 26 [[patalas|paṭalas]] and about 2300 [[verges.|verses.]] 
 
-Bengali. Kulacūdāmaṇi-tantra (ed. by A. Avalon in Tantrik Texte, 
+Tantrarājatantra, ed. in Tāntrik Texts, vol. VIII and XII and pub. by Ganesh & Co. Madras, 1954, with the commentary [[Manorama|Manoramā]] by [[Subhagānandagātha;|Subhagānandanātha;]] it has 36 chapters. It gives an account of the Kādimata. 
 
-vol. IV, 1915) in seven patalas and 430 verses. In I. 4–12 
+Tantrasāra of [[Kṭspānanda,|Kṛṣṇānanda,]] pub. in Ch. [[8.|S.]] S.; about 17th century A. D. 
 
-names of 64 tantras are cited. Kulārnava-tantra-It is in 17 ullāsas and contains over 2000 
+Tantrasāra of [[Abinayagupta,|Abhinavagupta,]] a summary of [[Tantraloka,|Tantrāloka,]] pub. in Kashmir [[8. 8.|S. S.]] (1918). About the first quarter of 11th century A. D. 
 
-Verses. It is a famous work profusely quoted (published in Tantrik Texts, vol. V, London, 1917). It is an early tantra, probably composed before 1000 A. D. In the colophons it is said to be a tantra of the Urdhyāmnāya (the fifth of the five amnāyas) and as part of the work of one lakh and & quarter verses. Vide A. B. O. R. I. vol. XIII. pp. 206-211 for a paper on 'Kulārṇava-tantra, its extent and contents' by Prof. Chintaharan Chakravarti. 
+[[Tantrūbhidhān|Tantrābhidhāna]] with [[Bijanigbantu|Bījanighaṇṭu]] and [[Mudrānighantu,|Mudrānighaṇṭu,]] ed. by A. Avalon in Tāntrik Texts, vol. I. (1913). 
 
-Raulāvalinirṇaya of Jöānānandagiri in twenty-one ullāsas, ed. 
+[[Tantrūloka|Tantrāloka]] of [[Abbinaragupta|Abhinavagupta]] with the [[conu.|com.]] of Jayaratha, pub. in Kashmir S. S. in several volumes; composed about 1000 A. D. 
 
-by A. Avalon in Tantrik Texts, vol. XIV; in I. 2-14 names numerous Tantras including yāmalas and in I. 92–93 eight 
+[[Tūrātantra,|Tārātantra,]] ed. by [[Sri Girisacandra|Śrī Giriśacandra]] and pub. in the [[Gauda granthamālā|Gauḍagranthamālā]] No. 1 (1913); in 6 [[patalas|paṭalas]] and 150 [[perses.|verses.]] It declares that Buddha and [[Vagistha|Vasiṣṭha]] were Tāntrik [[Bages|sages]] of old and nine Kaula gurus whose names end in [['nātha|'nātha']] are mentioned; refers to [[Mabācīnākhya|Mahācīnākhya]] Tantra and provides for devotee [[(only male )|(only male)]] offering his own blood to Tārā. 
 
-former gurus are named. Ganapatitattva - Old Javanese Text, critically edited, annotated 
+[[Turūbhaktisudhūrnava,|Tārābhaktisudhārṇava,]] of [[Narasimha|Narasiṁha]] Ṭhakkura, who was 5th in descent from Govinda Ṭhakkura, author of Pradīpa, [[com,|com.]] on [[Kavyaprakāśa;|Kāvyaprakāśa;]] composed about 1680 [[A, D.;|A. D.;]] ed. by [[Pancanan|Panchanan]] Bhattacharya (in Tāntrik Texts vol. XXI, 1940); [[P1143]]a large work in eleven [[Tarangas|Taraṅgas]] and 435 pages on the worship of Tārā, one of ten vidyās connected with [[Sakti|Śakti]] (not the Buddhist divinity [[Tāra).|Tārā).]] The 9th [[Taranga|Taraṅga]] deals with the horrible rite of [[Savasādhana|Śavasādhana]] (pp. 345-351). 
 
-and translated by Dr. (Mrs.) Sudarsadevi Singhal (pub. by International Academy of Sciences, New Delhi, 1958 ); refers to Mūlādhāra and other Cakras with their positions and colours, six angas of Yoga excluding yama, niyama, āsana and adding tarka; gives an account of the production of nāda from Niṣkala and of bindu from zāda and so on, 
+Tārārahasya of Brahmānanda, [[pub,|pub.]] by [[Jivananda (1896 );|Jīvānanda (1896);]] mentions [[Mabācina,|Mahācīna,]] [[Nilatantra,|Nīlatantra,]] [[Yoginitantra,|Yoginītantra,]] Rudrayāmala. 
 
-of mantras, bijās &c. Guhyasamājatantra or Tathāgata-guhyaka (Buddhist): It is 
+Tripurārahasya of [[Haritayana,|Hārītāyana,]] with [[com,|com.]] called [[Tātparyadipikā|Tātparyadīpikā]] of [[Srinivasa;|Śrīnivāsa;]] [[pub,|pub.]] in S. B. series; it is a discourse by [[Hārltāyana|Hārītāyana]] to Nārada. [[Tārākhanda|Tārākhaṇḍa]] portion of it is philosophical. 
 
-published in G. O. S.; it is assigned to 4th century A. D. by Dr. B. Bhattacharya (in Intro. to Sadhanamala, vol. II, p. XCV); vide p. 1050 above for criticism of this view. It probably belongs to the 5th or 6th century A. D. Vide notes 1673 and 1691. 
+[[Tripurūsārasamuccayja|Tripurāsārasamuccaya]] of [[Nāgabhatta|Nāgabhaṭṭa]] with the [[com,|com.]] of [[Govinda cārya;|Govindācārya;]] pub. by [[Jivananda|Jīvānanda]] (1897). 
 
-do de 
+[[Dukṣināmurti-saṁhitū|Dakṣiṇāmūrti-saṁhitā]] on [[Srividyopāsanā|Śrīvidyopāsanā]] in 65 [[patalas|paṭalas]] and about 1700 verses; pub. in [[8.|S.]] B. series. 
 
-1142 
+[[Nityāṣodaśikārnava|Nityāṣoḍaśikārṇava]] (part of [[Vāmakeśvaratantra )|Vāmakeśvaratantra)]] with the com. Setubandha by Bhāskararāya (1700-1750 A. D.); pub. by [[Anan,|Anan.]] Press (1944). 
 
-History of Dharmadistral Sec. Vì, Chxxvi Coraksasiddhāntasangraha published in 8. B. Texts (1925 ); 
+[[Nilyotsava|Nityotsava]] of Umānandanātha (who bore the name of Jagannātha before [[dikṣā|dīkṣā]] and who was a [[Mahārāṣtra|Mahārāṣṭra]] brāhmaṇa patronized by the Tanjore Maratha Chief); this is a supplement to Paraśurāmakalpasūtra; Umānandanātha was a pupil of [[Bhāśurānandanātha|Bhāsurānandanātha]] (Bhāskararāya before [[dikṣā )|dīkṣā)]] and composed the work in Kali era [['rasārṇava-karivedamitesu|'rasārṇava-karivedamiteṣu']] (Kali 4846 i. e. 1745 A. D.). It is probable that the word [[arnava|arṇava]] is used for seven instead of for 4 as usual (i. e. 4876, equal to 1775 A. D.); [[pub,|pub.]] in G. O. S. (1923). 
 
-mixture of Yoga and Tantra. Cidgaganacandrikā; ascribed to Kālijasa ; ed. by Trivikramatirtha 
+[[Nispannayogāvali|Niṣpannayogāvalī]] of Abhayākaragupta, a contemporary of king [[Ramapāla|Rāmapāla]] of Bengal (1084-1130 A. D.). It is Buddhist. The author was a Professor at the [[Vikramasila|Vikramaśīlā]] University in Bihar; describes 26 [[mandalas,|maṇḍalas,]] each having a central deity and other minor Buddhist deities that sometimes exceed 100. It is valuable for later Buddhism, its pantheon and ritual; [[pub,|pub.]] in G. O. [[8.|S.]] (1949). 
 
-in Tantrik Texts, Vol. XX. Jayākhya sainhita (published in G. O.S.)-a Pancarātra work 
+[[Parasurāmakalpasūtra,|Paraśurāmakalpasūtra,]] with com. [[Saubhagyodayā|Saubhāgyodayā]] of [[Rameśvara,|Rāmeśvara,]] pub. in G. O. S. (1923); earlier than 1300 A. D.; claims to be composed by Paraśurāma, son of [[Jamadagai|Jamadagni]] and chief [[disoiple|disciple]] of Lord [[Mahādova.|Mahādeva.]] 
 
-• ascribed to 450 A. D. by Dr. B. Bhattacharya; containa 
+[[Padukāpañcaka,|Pādukāpañcaka,]] ed. by A. Avalon in [[Tantrik Texts,|Tāntrik Texts,]] vol. [[IL|II]] (1913). 
 
-some Tantra topics such as Yakṣini-sādhana, Cakrayantra 
+Pārānandasūtra, pub. in [[G.O. S.|G. O. S.]] (1931); not earlier than 900 A. D., [[saya|says]] Dr. B. [[Bhattacarya.|Bhattacharya.]] 
 
-sādhana, Stambhana. Jžānasiddhi of king Indrabbūti, disciple of Anangavajra and 
+[[P1144]][[Prajstopāya-viniscaya-siddhi|Prajñopāya-viniścaya-siddhi]] of [[Anangavajra,|Anaṅgavajra,]] one of the 84 siddhas venerated in Tibet; Buddhist Vajrayāna work pub. in G. O. S. (1929); composed about 705 [[A, D, aco.|A. D. acc.]] to Dr. B. Bhattacharya in Intro. p. XII. 
 
-father of guru Padmasambhava; pub. in 'Two Vajrayāda Texts (G.O, S.); assigned to about 717 A.D. (Intro. p. 10); 
+[[Prapancasāra|Prapañcasāra]] (ascribed to [[Saokarācārya)|Śaṅkarācārya)]] with com. [[Vivarana|Vivaraṇa]] by Padmapāda; pub. in [[Tantrik Texts|Tāntrik Texts]] (vol. III) and later [[& now ed|a new ed]] in vol. XVIII-XIX (1939). Vide p. 1105 above. In 36 [[patalas.|paṭalas.]] 
 
-gives in a nutshell leading doctrines of Vajrayāna. Jnönārnavalantra, pub. by Anan. Press, Poona; contains 26 
+[[Prānatoṣini,|Prāṇatoṣiṇī,]] compiled by [[Rāmatosaṇa|Rāmatoṣaṇa]] Bhattacharya and pub. by [[Jivananda|Jīvānanda]] (Calcutta); it is a very large modern work in 1097 pages. 
 
-patalas and about 2300 verges. Tantrarājatantra, ed. in Tantrik Texts, vol. VIII and XII and 
+Brahmasaṁhitā, with the commentary of Jīva [[Gogvāmi;|Gosvāmī;]] for Vaiṣṇavas; [[pub,|pub.]] in Tāntrik texts, vol. XV. 
 
-pub. by Ganesh & Co. Madras, 1954, with the commentary Manorama by Subhagānandagātha; it has 36 chapters. It 
+Mantramahodadhi of [[Mabidhara|Mahīdhara]] with his own [[commentary ;|commentary;]] composed in Vikrama year 1645 (1588-89) [[A, D. ;|A. D.;]] pub. by [[Jiv.|Jīv.]] and Venk. Press. 
 
-gives an account of the Kādimata. Tantrasāra of Kṭspānanda, pub. in Ch. 8. S.; about 17th century 
+[[Mahānirānatantra,|Mahānirvāṇatantra,]] with the [[ccm.|com.]] of Hariharānanda [[Bhārati.|Bhāratī.]] It is a leading but late work on Tantra, published very often; [[ed,|ed.]] by A. Avalon in Tāntrik Texts, vol. XIII in 14 [[Ullasas|Ullāsas]] as the first part; the ed. of 1929 by Ganesh & Co. has been used in this work; the third ed. of 1953 differs slightly here and there. 
 
-A. D. Tantrasāra of Abinayagupta, a summary of Tantraloka, pub. 
+[[Malpkā-cakra-viveka|Mātṛkā-cakra-viveka]] of Svatantrānandanātha, with the com. of [[Śivananda;|Śivānanda;]] pub. in S. B. [[serios,|series,]] 1934. 
 
-in Kashmir 8. 8. (1918). About the first quarter of 11th 
+[[Māheśraratantra,|Māheśvaratantra,]] in 51 [[patalas|paṭalas]] and 3060 verses (pub. in Ch. S. S.); mentions that Tantras are 64 ([[1.15|1. 15]] and [[26, 11 )|26. 11)]] and names 25 Vaiṣṇava tantras ([[26. 16-20)|(26. 16-20)]] and holds that Bauddha tantras are misleading and meant for cruel rites [[( 26.21-22).|(26. 21-22).]] 
 
-century A. D. Tantrūbhidhān with Bijanigbantu and Mudrānighantu, ed. by 
+Merutantra; extensive work in 35 chapters, 821 pages and about 16000 verses; pub. by Venk. Press, Bombay, 1908. 
 
-A. Avalon in Tantrik Texts, vol. I. (1913). Tantrūloka of Abbinaragupta with the conu. of Jayaratha, pub. 
+[[Yoginitantra,|Yoginītantra,]] published by [[Jivananda ;|Jīvānanda;]] q. by Raghunandana in [[Ekādasītattva|Ekādaśītattva]] p. 58. 
 
-in Kashmir S. S. in several volumes; composed about 
+[[Yoginihrdaya-the|Yoginīhṛdaya—the]] last three chapters of [[Nityāṣodaśikārṇava|Nityaṣoḍaśikārṇava]] (VI-VIII) are so called. 
 
-1000 A. D. Tūrātantra, ed. by Sri Girisacandra and pub. in the Gauda 
+[[Yoginihīdayadipikā|Yoginīhṛdayadīpikā]] of [[Amrtā pandanātha,|Amṛtānandanātha,]] disciple of [[Punyānan danātha,|Puṇyānandanātha,]] [[pub,|pub.]] in [[8.|S.]] B. series, 1923; about 10th or 11th century A. D. 
 
-granthamālā No. 1 (1913); in 6 patalas and 150 perses. It declares that Buddha and Vagistha were Tantrik Bages of old and nine Kaula gurus whose names end in 'nātha are mentioned; refers to Mabācīnākhya Tantra and provides for 
+Rudrayāmalatantra, ed. by [[Jivananda|Jīvānanda]] (2nd ed. in 1892). A very extensive work in 66 chapters and in over 6000 verses [[P1145]](mostly in [[Anustubh|Anuṣṭubh]] metre), supposed to have been declared by [[Bhairavi|Bhairavī]] to Bhairava (Śiva). It was said to be a huge work in a lakh and a quarter [[slokas,|ślokas,]] [[0.|e.]] g. [[D. O.|D. C.]] ms. No. 667 (i) of [[1895–1902|1895-1902]] called [[Dhanadāpurascaraṇavidhi|Dhanadāpuraścaraṇavidhi]] states in the colophon that it is part of the Rudrayāmala (iti Rudrayāmala-sapādalakṣagrantho.... [[Kinkini-tantrokta|Kiṅkiṇī-tantrokta]][[Dhanadā-purascaraṇa-vidhiḥ;| Dhanadā-puraścaraṇa-vidhiḥ;]] BORI cat. of mss., vol. XVI. on Tantra p. 247). 
 
-devotee (only male ) offering his own blood to Tārā. Turūbhaktisudhūrnava, of Narasimha Thakkura, who was 5th 
+Lalitāsahasranāma with the com. Saubhāgyabhāskara of [[Bhas kararāya|Bhāskararāya]] son of [[Gambhirarāya,|Gambhīrarāya,]] minister of the Bijapur Moslem king; written in [[samat|saṁvat]] 1785 i. e. 1729 A. D.; Nir. [[ed,|ed.]] of 1935. 
 
-in descent from Govinda Thakkura, author of Pradipa, com, on Kavyaprakāśa; composed about 1680 A, D.; ed. by Pancanan Bhattacharya (in Tāntrik Texts vol. XXI, 1940); 
+[[Varivasyarahasya|Varivasyārahasya]] of Bhāskararāya (called Bhāsurānandanātha after [[dikṣā)|dīkṣā)]] with his own com. called Prakāśa. He flourished between [[1700–1750|1700-1750]] A. D.; pub. at Adyar, 1934. 
 
-Appendix 
+Viṣṇu-saṁhitā in 30 [[patalas;|paṭalas;]] pub. in T. S. S. 1925. 
 
-1143 
+[[Saktisangamatantra,|Śaktisaṅgamatantra,]] in four parts, viz. [[Kāli,|Kālī,]] Tārā, [[Sundari|Sundarī]] and Chinnamastā; three parts dealing with the first three pub. in [[G, O. S.;|G. O. S.;]] between 1505-1607 A. D. Vide Poona [[Orien talist,|Orientalist,]] vol. XXI. pp. [[47–49|47-49]] (between [[1530–1700|1530-1700]] A. D.). 
 
-a large work in eleven Tarangas and 435 pages on the worship of Tārā, one of ten vidyās connected with Sakti (not the Buddhist divinity Tāra). The 9th Taranga deals 
+[[saklisūtra-|Śaktisūtra—]]Vide Sarasvatībhavana Studies, vol. [[x.|X.]] [[(pp. 182 187);|(pp. 182-187);]] has 113 sūtras and [[com,|com.]] on 19 sūtras; attributed to Agastya by the commentary; the sūtra mentions Jaimini and Vyāsa. 
 
-with the horrible rite of Savasādhana (pp. 345-351). Tārārahasya of Brahmānanda, pub, by Jivananda (1896 ); 
+[[saktapramoda|Śāktapramoda]] (a recent work), compiled by [[Srirājadevanan danasimha,|Śrīrājadevanandanasiṁha,]] chief of Śivahara; pub. by [[Venk,|Venk.]] Press, 1951; contains 17 tantras viz. Kālitantra, tantras called [[Sodasi,|Ṣoḍaśī,]] [[Bhuvaneśvarl,|Bhuvaneśvarī,]] Chinnamastā, [[Tripurabhairavi,|Tripurabhairavī,]] [[Dhūmavati,|Dhūmāvatī,]] [[Bagalamukhi,|Bagalāmukhī,]] [[Mātangi,|Mātaṅgī,]] Kamalātmikā, [[Kumārika,|Kumārikā,]] [[Balidāna. krama,|Balidānakrama,]] Durgā, Śiva, [[Gapeśa,|Gaṇeśa,]] Sūrya, Viṣṇu. 
 
-mentions Mabācina, Nilatantra, Yoginitantra, Rudrayāmala. Tripurārahasya of Haritayana, with com, called Tātparyadipikā 
+[[Saradātilaka|Śāradātilaka]] of [[Lakṣmaṇa-desikondra|Lakṣmaṇa-deśikendra]] (disciple of Utpala); one of the most famous works on tantra. Aufrecht (p. 64) enumerates several commentaries, the most learned and [[luoid|lucid]] of which is the Padārthādarśa of [[Rāghavabhatta,|Rāghavabhaṭṭa,]] composed in saṁvat 1550 (i. e. [[1493–94|1493-94]] A. D.). [[Raghava bhatta|Rāghavabhaṭṭa]] hailed from Mahārāṣṭra and was a resident of town [[Janasthana|Janasthāna]] ([[Pañoavati)|(Pañcavaṭī)]] on the banks of the [[Godavari;|Godāvarī;]] pub. in Kashi [[8.|S.]] S. and in Tāntrik Texts, vol. XVI and [[XVII,|XVII.]] Śāradātilaka was composed about the 11th century
 
-of Srinivasa; pub, in S. B. series; it is a discourse by Hārltāyana to Nārada. Tārākhanda portion of it is 
+[[P1146]]A. D. Raghunandana expressly names [[Raghavabhatta|Rāghavabhaṭṭa]] as the commentator of the [[Sāradatilaka|Śāradātilaka]] in [[Jyotistattva|Jyotiṣtattva]] p. 580. 
 
-philosophical. Tripurūsārasamuccayja of Nāgabhatta with the com, of Govinda 
+[[Sricakrasambhāratantra-A|Śrīcakrasambhāratantra—A]] Buddhist work; Tibetan text and English translation by Lama Kazi Dawa Samdup and edited in Tāntrik Texts, vol. VII by A. Avalon, 1919. 
 
-cārya; pub. by Jivananda (1897). Dukṣināmurti-saṁhitū on Srividyopāsanā in 65 patalas and 
+[[Syāmārahasya|Śyāmārahasya]] of Pūrṇānanda in 16 chapters, [[ed,|ed.]] by [[Jivananda;|Jīvānanda;]] 16th century A. D. 
 
-about 1700 verses; pub. in 8. B. series. Nityāṣodaśikārnava (part of Vāmakeśvaratantra ) with the com. 
+[[Sat-cakra|Ṣaṭ-cakra]] [[nirūpana,|nirūpaṇa,]] of [[Pārṇānanda|Pūrṇānanda]] in 85 verses; pub. in Tāntrik Texts, vol. II; composed śaka 1499 (i. [[c.|e.]] 1577-78 A. D.). 
 
-Setubandha by Bhāskararāya (1700-1750 A. D.); pub. by 
+[[Sanatkumūra-tantra - is|Sanatkumāra-tantra—is]] a dialogue between Sanatkumāra and Pulastya in eleven [[patalas|paṭalas]] and about 375 verses. Published by Jyestharam Mukundji in Bombay in 1905. It is a mixture of Yoga and tāntrik technique and inculcates the worship of [[Krsna|Kṛṣṇa]] in Tāntrik [[bljas|bījas]] like 'klīm, gauṁ &c'. 
 
-Anan, Press (1944). Nilyotsava of Umānandanātha (who bore the name of Jagannatha 
+Sādhanamālā, published in two volumes in G. O. S. with a long Intro. to vol. II by Dr. B. Bhattacharya; contains 312 Sādhanas, many of which are anonymous and are known to Tibetan [[Kangyar;|Kangyur;]] Dr. Bhattacharya states that the Sādhanas range in dates from third century A. D. to 12th century A. D. [[Winternits,|Winternitz,]] in I. H. Q. vol. IX (pp. 5-6), does not accept the view that the [[Prajñāpāramitāsādhans|Prajñāpāramitāsādhana]] was composed by [[Asanga.|Asaṅga.]] 
 
-before dikṣā and who was a Mahārāṣtra brāhmaṇa patronized by the Tanjore Maratha Chief); this is a supplement to Paraśurāmakalpasūtra; Umānandanātha was a pupil of Bhāśurānandanātha (Bhāskararāya before dikṣā ) and composed the work in Kali era 'rasārṇava-karivedamitesu (Kali 4846 i. e. 1745 A. D.). It is probable that the word arnava is used for seven instead of for 4 as usual (i. e. 4876, 
+[[Sāmrājya lakṣmī-pīṭhikā-said|Sāmrājya lakṣmī-pīṭhikā—said]] to be part of [[Akāsa-bhairava|Ākāśa-bhairava]] [[Mahatantra,|Mahātantra,]] published in Tanjore Sarasvati Mahal Series in 139 chapters, of which the first 30 are connected with mantra, japa, homa,; chapters 31 ff deal in detail with departments of State, coronation (chap. 43 ff) and festivals like those of New Year, [[Rāmanavami, Navaratra, &c.|Rāmanavamī, Navarātra, &c.]] 
 
-equal to 1775 A. D.); pub, in G. O. S. (1923). Nispannayogāvali of Abhayākaragupta, a contemporary of king 
+[[Sekoddeśatīkā-s|Sekoddeśaṭīkā—a]] Buddhist work of [[Srīnādapāda,;|Śrīnāḍapāda,;]] text ed. by Mario E. Carelli in G. O. S. with an Intro. in English. 
 
-Ramapāla of Bengal (1084-1130 A. D.). It is Buddhist. The author was a Professor at the Vikramasila University ' in Bihar; describes 26 mandalas, each having a central deity and other minor Buddhist deities that sometimes exceed 100. It is valuable for later Buddhism, its pantheon 
+Saundaryalaharī, ascribed to the great [[Saṅkarācārya,|Śaṅkarācārya,]] has numerous commentaries; ed. by Sir John Woodroffe and pub. at Adyar (1937); ed. of 1957 with three commentaries and English translation published by Ganesh & Co. Madras. There is an excellent edition of this work in 100 verses (text, English translation by Prof. W. Norman Brown, Harvard University Press, 1958). 
 
-and ritual; pub, in G. O. 8. (1949). Parasurāmakalpasūtra, with com. Saubhagyodayā of Rameśvara, 
+[[Srividyāratnasūtra,|Śrīvidyāratnasūtra,]] attributed to Gauḍapāda (in 101 sūtras) with the commentary of [[Sarkarācārya,|Śaṅkarācārya,]] pupil of [[Vidyaranya,|Vidyāraṇya,]] [[P1147]]on 21 sūtras; ed. by Pandit Gopinatha Kaviraja in S. B. Texts series, Benares (1924). 
 
-pub. in G.O.S. (1923); earlier than 1300 A. D.; claims to be composed by Paraśurāma, son of Jamadagai and chief 
+[[Hamsaviiāsa,|Haṁsavilāsa,]] of [[Hamsamittbu;|Haṁsamitthu;]] pub. in G. O. S. (1937); the author was born in Gujarat in Vikrama year 1794 on [[Phālguns|Phālguna]] Full moon day (1738 A. D.). Though not a purely Tāntrik work it quotes many Tāntrik works such as the [[Kulārnava|Kulārṇava]] (pp. 68-76), Kaularahasya (p. 104), [[Yogini tantra|Yoginītantra]] (p. 103), Śāradātilaka (pp. 84-85, 105 ff). It deals with many other topics such as figures of speech, erotic subjects. 
 
-disoiple of Lord Mahādova. Padukāpañcaka, ed. by A. Avalon in Tantrik Texts, vol. IL (1913). Pārānandasūtra, pub. in G.O. S. (1931); not earlier than 900 
+Hevajratantra, edited and translated by Dr. D. L. Snellgrove (Oxford University Press, 1959), in two parts. This work came to the author's hands while this Appendix was passing through the Press. Part I (pub. in 1959) contains Introduction (pp. 1-46), English translation (pp. 47-119), contents (pp. 121-125), diagrams (pp. 126-129), Glossary (pp. 131-141) and Index (pp. 142-190); Part II contains Sanskrit texts and Tibetan texts based on a Nepalese ms. lent by Prof. Tucci; com. called Yogaratnamālā by Paṇḍita Kāṇha has been included from an old Bengali ms. The editor holds (part I p. 14) that Hevajratantra was in existence towards the end of 8th century A. D. and that [[Advayavajra sangraha|Advayavajrasaṁgraha]] and Sekoddeśaṭīkā borrow from Hevajra-tantra. Sādhanamālā No. 229 (two opening verses) are the same as Hevajra II. 8. 6-7. Hevajra is an invocation of vajra. On p. 11 part I the editor questions how the yogins could call themselves Buddhists when they experienced enlightenment in the embrace of a [[yogint.|yoginī.]] Part I p. 70 mentions Jālandhara, Oḍḍiyāna, Paurṇagiri as pīṭhas and several [[upapithas,|upapīṭhas,]] [[upakşetras,|upakṣetras.]] The term Śakti does not occur in Hevajra but its place is taken by Prajñā. Part II verses 11-15 p. 98 express how the followers of this tantra had sexual experiences with women called mudrās and how thereby they secured *siddhi*. Part I p. 54 contains ritual for gaining mastery over a young woman. Part II p. 2 states [['Heka rena|'Hekāreṇa]] [[mahākarupā|mahākaruṇā]] vajraṁ Prajñā ca [[bhanyate; Prajñopāyāt makam|bhaṇyate; Prajñopāyātmakaṁ]] tantraṁ tan-me nigaditaṁ [[sruu'.|śṛṇu'.]] This is a very valuable addition to the literature on Tantra and has been very well edited. 
 
-A. D., saya Dr. B. Bhattacarya. 
+Some important works and papers on Tantra—vide also note 1687 for works on Śakti cult. 
 
-1144 
+[[P1148]]Catalogue of Palm-leaf and some paper mss. in the Durbar Library of Nepal, by M. M. H. P. Sastri (1905). 
 
-History of Dharmaśāstra ( Boc. VI, Oh. XXVII 
+[[Taranath's|Tārānāth's]] History of Buddhism in India (translated into German by A. Schiefner (St. Petersburg, 1869). Portions were translated into English in I. A. IV. 101 ff. and 361 ff. 
 
-Prajstopāya-viniscaya-siddhi of Anangavajra, one of the 84 
+'Lamaism' by L. A. Waddell (Allen & Co., London, 1895). 
 
-siddhas venerated in Tibet; Buddhist Vajrayāna work pub. in G.O.S. (1929); composed about 705 A, D, aco. to Dr. 
+'History of Buddhism in India and Tibet' by Bu-ston translated from Tibetan by Dr. E. Obermiller. 
 
-B. Bhattacharya in Intro. p. XII. Prapancasāra (ascribed to Saokarācārya) with com. Vivarana 
+Descriptive catalogue of mss in the Library of Asiatic Society of Bengal, vol. VIII (deals with 648 mss. on Tantra in 892 pages). 
 
-by Padmapāda; pub. in Tantrik Texts (vol. III) and later & now ed in vol. XVIII-XIX (1939). Vide p. 1105 above. 
+Bhandarkar's [[Vaisnavism, Sakrism &c. (|Vaiṣṇavism, Śaivism &c. (]]in collected works, vol. IV. pp. 202-210 on [[Sāktas ).|Śāktas).]] 
 
-In 36 patalas. Prānatoṣini, compiled by Rāmatosaṇa Bhattacharya and pub. 
+Tantra of the Great Liberation (translation of the [[Mahanirvapa|Mahānirvāṇa]] Tantra) with Introduction and commentary by Arthur Avalon (1913). 
 
-by Jivananda (Calcutta); it is a very large modern work 
+Tāntrik Texts edited by A. Avalon, vol. I-XXII, Introductions, notes, analysis &c. 
 
-in 1097 pages. Brahmasamhitā, with the commentary of Jiva Gogvāmi; for 
+The Serpent Power by A. Avalon (1914), containing translation of [[Sat-cakranirūpana|Ṣaṭ-cakranirūpaṇa]] and Pādukāpañcaka (5th ed. of 1953, by Ganesh & Co., Madras). 
 
-Vaiṣṇavas; pub, in Tāntrik texts, vol. XV. Mantramahodadhi of Mabidhara with his own commentary ; 
+'Principles of Tantra' parts 1 and 2, ed. by A. Avalon (1914, 1916) with a long Introduction to part 2. 
 
-composed in Vikrama year 1645 (1588-89) A, D. ; pub. by 
+'Wave of Bliss'—translation of Ānanda-laharī (first fortyone verses of Saundarya-laharī) and comments by Sir John Woodroffe (1917). 
 
-Jiv. and Venk. Press. Mahānirānatantra, with the ccm. of Hariharānanda Bhārati. It 
+'Wave of Beauty'—translation of Saundarya-laharī (with text and commentaries) pub. by Ganesh & Co. (Madras, 1957). 
 
-is a leading but late work on Tantra, published very often; ed, by A. Avalon in Tāntrik Texts, vol. XIII in 14 Ullasas as the first part; the ed. of 1929 by Ganesh & Co. has been used in this work; the third ed. of 1953 differs slightly 
+'Chakras' by Right Rev. C. W. Leadbeater (Adyar, 1927) with plates. 
 
-here and there. Malpkā-cakra-viveka of Svatantrānandanātha, with the com. 
+'Śivasaṁhitā'—translation of—by Shrischandra Vidyarnava. 
 
-of Śivananda; pub. in S. B. serios, 1934. Māheśraratantra, in 51 patalas and 3060 verses (pub. in Ch. S. S.); 
+'Thirty minor Upanishads' translated by K. Narayanswami Aiyar. 
 
-mentions that Tantras are 64 (1.15 and 26, 11 ) and names 25 Vaiṣṇava tantras (26. 16-20) and holds that Bauddha 
+'Mysterious Kuṇḍalinī' by Dr. V. G. Rele (1927). 
 
-tantras are misleading and meant for cruel rites ( 26.21-22). Merutantra; extensive work in 35 chapters, 821 pages and about 
+'Śakti or Divine Power' by Dr. Sudhendu Kumar Das (Uni. of Calcutta, 1934). 
 
-16000 verses; pub. by Venk. Press, Bombay, 1908. Yoginitantra, published by Jivananda ; q. by Raghunandana in 
+[[P1149]]P. C. Bagchi's Introduction to Kaulajñāna-nirṇaya (Calcutta Sanskrit Series, 1934). 
 
-Ekādasītattva p. 58. Yoginihrdaya-the last three chapters of Nityāṣodaśikārṇava 
+'Tibetan Yoga and secret doctrines' by W. Y. Evans-Wentz (Oxford Uni. Press, 1935). 
 
-(VI-VIII) are so called. Yoginihīdayadipikā of Amrtā pandanātha, disciple of Punyānan 
+P. C. Bagchi's 'Studies in Tantras' (Cal. Uni. 1939). 
 
-danātha, pub, in 8. B. series, 1923; about 10th or 11th 
+Dr. B. Bhattacharya's Introduction to [[Sadhanamālā|Sādhanamālā]] vol. II. (G. O. S.) pp. XI-LXXVII; the same scholar's Introduction to Guhyasamājatantra (G. [[0. 8.)|O. S.)]] and 'Introduction to Buddhist Esoterism' (Oxford University Press, 1932). 
 
-century A. D. Rudrayāmalatantra, ed. by Jivananda (2nd ed. in 1892). A very 
+'Philosophy of Tripurā Tantra' by M. M. [[Gopioath|Gopinath]] Kaviraja in Sarasvati Bhavan Studies (1934), vol. IX. pp. 85-98. 
 
-extensive work in 66 chapters and in over 6000 verses 
+'Some aspects of the philosophy of [[Sakta|Śākta]] Tantra' by M. M. Gopinath Kaviraja in Sarasvati Bhavan Studies, 1938 vol. X. pp. 21-27. 
 
-Appendic 
+'Buddhist Tantra Literature' by Prof. S. [[K, Do|K. De]] in New Indian Antiquary, vol. I. pp. 1-23. 
 
-1145 
+'Influence of Tantras on the Tattvas of Raghunandana' in I. H. Q. IX. (1933), pp. 678-704 by Prof. R. C. Hazra. 
 
-&nktisangamdianta: three parts. 1607 A.D. 
+'Influence of Tantra in Smṛtinibandhas' in ABORI vol. 15 pp. 220-235 and vol. XVI. pp. 203-211 by Prof. R. C. Hazra. 
 
-(mostly in Anustubh metre), supposed to have been declared by Bhairavi to Bhairava (Śiva). It was said to be a huge work in a lakh and a quarter slokas, 0. g. D. O. ms. No. 667 (i) of 1895–1902 called Dhanadāpurascaraṇavidhi states in the colophon that it is part of the Rudrayāmala ( iti Rudrayāmala-sapādalakṣagrantho.... Kinkini-tantrokta Dhanadā-purascaraṇa-vidhiḥ; BORI cat. of mss., vol. XVI. 
+'The Tāntric Doctrine of Divine bi-unity' by A. K. [[Coomara swamy|Coomaraswamy]] in A. B. O. R. I. vol. 19. pp. [[173–183;|173-183;]] 
 
-on Tantra p. 247). Lalitasahasranāma with the com. Saubhāgyabhāskara of Bhas 
+'Comparative and critical study of Mantraśāstra' by Shri Mohanlal Bhagavandas [[Jhavery ( 1944 );|Jhavery (1944);]] 
 
-kararāya son of Gambhirarāya, minister of the Bijapur Moslem king ; written in samat 1785 i. e. 1729 A. D.; Nir. 
+Prof. Chintaharan Chakravarti's following Papers: 'Antiquity of Tāntricism' in I. H. Q., vol. VI pp. 114 ff; 'Controversy regarding the authorship of Tantras' in Prof. K. B. Pathak commemoration volume pp. 210-220; 'A note on the age and authorship of the Tantras' in Journal and Proceedings of the Asiatic Society of Bengal, New Series, vol. XXIX (1933) No. 1 pp. 71-79; 'Ideals of Tantra [[rites. I HQ|rites' I. H. Q.]] vol. X. pp. 468 ff; 'Śākta festivals of Bengal and their [[anti quity'|antiquity']] in I. H. Q. vol. 27 (1951) pp. 255-260; 'Application of Vedic Mantras in Tāntrik rites' in J. A. [[8.|S.]] B., Letters, vol. 18 (1952) pp. 113-115; [['Kalt|'Kālī]] worship in Bengal' Adyar Library Bulletin, vol. XXI, parts 3-4 pp. 296-303; 
 
-ed, of 1935. 
+'Tantras, their philosophy and [[cocult|occult]] secrets' by D. N. [[Boge (Caloutta,|Bose (Calcutta,]] Oriental Publishing Co.); 
 
-Varivasyarahasya of Bhāskararāya (called Bhāsurānandanātha 
+[[P1150]]'Vajra and the Vajrasattva' by Dr. S. B. [[Das Gupta|Das-Gupta]] in 'Indian Culture' vol. VIII. pp. 23-32; 
 
-after dikṣā) with his own com. called Prakāśa. He flourished 
+'Introduction to Tāntrik Buddhism' [[liy|by]] Dr. S. B. Das Gupta (Calcutta, 1950); 
 
-between 1700–1750 A. D.; pub. at Adyar, 1934. Viṣṇu-samhitā in 30 patalas; pub. in T. S. S. 1925. Saktisangamatantra, in four parts, viz. Kāli, Tārā, Sundari and 
+'Philosophies of India' by Heinrich Zimmer [[(1931)|(1951)]] pp. 560-602; 
 
-Chinnamastā; three parts dealing with the first three pub. in G, O. S.; between 1505-1607 A. D. Vide Poona Orien 
+'The Veda and the Tantra' by Shri T. V. Kapali Sastry (Madras, 1951) pp. 1-255; 
 
-talist, vol. XXI. pp. 47–49 (between 1530–1700 A. D.). saklisūtra- Vide Sarasvatibhavana Studies, vol. x. (pp. 182 
+'Yuganaddha' (which literally [[means'|means ']]bound together or yoked together' in the case of opposites) 'the Tāntrik view of Life' by Dr. Herbert V. Guenther in Chowkhamba Sanskrit Series, Banaras, 'Studies' vol. III. (1952); 
 
-187); has 113 sūtras and com, on 19 sūtras; attributed to Agastya by the commentary; the sūtra mentions Jaimini 
+The following articles in the Cultural Heritage of India vol. IV, viz. 'Evolution of the Tantras,' by Dr. P. C. Bagchi pp. 211-226; 'Tantra as a way of realization' by Swami [[Pratya gātmānanda,|Pratyagātmānanda,]] pp. 227-240; 'The Spirit and Culture of the Tantras' pp. 241-251 by Mr. Atal Behari Ghosh; 'Śakti Cult in South India' by Shri K. R. Venkataraman, pp. 252-259; 'Tāntrik culture among the Buddhists' by Dr. B. Bhattacharya pp. [[260– 272;|260-272;]] 'The cult of the Buddhist [[Siddhācharyas'|Siddhāchāryas']] pp. 273-279 by Prof. P. V. Bapat. 
 
-and Vyāsa. saktapramoda (a recent work), compiled by Srirājadevanan 
+'Lights on the Tantra' by M. P. Pandit (published by Ganesh & Co., Madras, 1957) This is a booklet of 54 pages of text and pp. 55-71 of notes containing hardly anything valuable of the author's own; over three-fourths of it consists of long quotations from the works of Woodroffe (particularly from [['Shakti and Sbākta '),|'Śhakti and Śhākta'),]] Sri Aurobindo and Shri Kapali Sastry and is here and there marked by bold and [[unwar Tanted|unwarranted]] assertions such as 'It is the central truths of the Tantra thought and ritual that form the backbone of the Hindu religion today' (p. 36). The present author repudiates totally this assertion. The author of this booklet has to admit that in the case of the Tāntrik cult that abuse of the body of occult knowledge for malevolent purposes instead of for the material and spiritual advancement of man and the vulgarization of the profound rationale of the mystic ritual are deplorable deformations (p. 36), that there has doubtless been a [[grobs|gross]] misuse of the knowledge developed by this science and that [[sparious|spurious]] texts have sprung up (p. 21). 
 
-danasimha, chief of Śivahara; pub. by Venk, Press, 1951; contains 17 tantras viz. Kālitantra, tantras called Sodasi, Bhuvaneśvarl, Chinnamastā, Tripurabhairavi, Dhūmavati, Bagalamukhi, Mātangi, Kamalātmikā, Kumārika, Balidāna. 
+[[P1151]]'History of Philosophy, Eastern and Western' ed. by Dr. [[8. ·|S.]] Radhakrishnan, vol. I. pp. [[401-4X8|401-428]] on 'Exposition of [[Sakta|Śākta]] belief' by M. M. Gopinath Kaviraj (1953). 
 
-krama, Durgā, Śiva, Gapeśa, Sūrya, Viṣṇu. Saradātilaka of Lakṣmaṇa-desikondra ( disciple of Utpala ); one 
+'Yoga, immortality and freedom' by Mircea Eliade translated from French by Willard Trask (pub. by Routledge, Kegan, Paul, London, 1958), pp. 200-273 for 'Yoga [[end|and]] [[Tantrism'.|Tāntrism'.]] 
 
-of the most famous works on tantra. Aufrecht (p. 64) enumerates several commentaries, the most learned and luoid of which is the Padārthadarśa of Rāghavabhatta, composed in samvat 1550 (i. e. 1493–94 A. D.). Raghava bhatta hailed from Mahārāṣtra and was a resident of town Janasthana ( Pañoavati) on the banks of the Godavari; pub. in Kashi 8. S. and in Tantrik Texts, vol. XVI and XVII, Sāradātilaka was composed about the 11th century 
+'Tibetan Book of the Dead' by Dr. W. Y. Evans-Wentz (3rd ed., Oxford University Press, 1957). 
 
-8. D. 144 
-
-1146 
-
-History of Dharmajāstra ( Seo. VI, Ch. XXVII 
-
-A. D. Raghunandana expressly names Raghavabhatta as 
-
-the commentator of the Sāradatilaka in Jyotistattva p. 580. Sricakrasambhāratantra-A Buddhist work; Tibetan text and 
-
-English translation by Lama Kazi Dawa Samdup and 
-
-edited in Tāntrik Texts, vol. VII by A. Avalon, 1919. Syāmārahasya of Pūrṇānanda in 16 chapters, ed, by Jivananda; 
-
-16th century A. D. Sat-cakra nirūpana, of Pārṇānanda in 85 verses; pub. in Tantrik 
-
-Texts, vol. II; composed saka 1499 (i. c. 1577-78 A.D.). Sanatkumūra-tantra - is a dialogue between Sanatkumāra and 
-
-Pulastya in eleven patalas and about 375 verses. Published by Jyestharam Mukundji in Bombay in 1905. It is a mixture of Yoga and tāntrik technique and inculcates the 
-
-worship of Krspa in Tantrik bijas like 'klim, gaum &c', Sadhanamala, published in two volumes in G.O. S. with a long 
-
-Intro. to vol. II by Dr. B. Bhattacharya; contains 312 Sadhanas, many of which are anonymous and are known to Tibetan Kangyur; Dr. Bhattacharya states that the Sadhanas range in dates from third century A. D. to 12th century A. D. Winternitz, in I. H, Q. vol. IX (pp. 5–6), does not accept the view that the Prajñāpāramitāsādhana 
-
-was composed by Aganga. Samrājya lakṣmi-pithikā - said to be part of Akāśa-bhairava 
-
-Mabātantra, published in Tanjora Sarasvati Mabal Series in 139 chapters, of which the first 30 are connected with mantra, japa, homa,; chapters 31 ff deal in detail with departments of State, coronation (chap. 43 ff) and festivals 
-
-like those of New Year, Ramanavami, Navaratra, &c. Sekoddesatikā - a Buddhist work of Srinadapāda,; text ed. by 
-
-Mario E. Carelli in G. O. S. with an Intro. in English. Saundaryalahari, ascribed to the great Saṅkarācārya, has 
-
-numerous commentarios; ed. by Sir John Woodroffe and pub, at Adyar (1937); ed. of 1957 with three commentaries and English translation published by Ganesh & Co. Madras. There is an excellent edition of this work in 100 verses (text, English translation by Prof. W. Norman Brown, 
-
-Harvard University Press, 1958). Srividyāratnasūtra, attributed to Gaudapāda (in 101 sātras) 
-
-with the commentary of Saṅkarācārya, pupil of Vidyāraṇya, 
-
-Appendiz 
-
-1147 
-
-on 21 sūtras; ed. by Pandit Gopinatha Kaviraja in S. B. 
-
-Texts series, Bonares (1924). Hansavilāsa, of Hamsamitthu; pub. in G. O. 8. (1937); the 
-
-author was born in Gujarat in Vikrama year 1794 on 
-
-Phālguna Full moon day (1738 A. D.). Though not a 
-
-· purely Tāntrik work it quotes many Tāntrik works such as 
-
-the Kulārnava (pp. 68-76), Kaularahasya (p. 104), Yogini tantra (p. 103), Sāradātilaka (pp. 84–85, 105 ff). It deals with many other topics such as figures of speech, erotic 
-
-subjecte. Hevajratantra, edited and translated by Dr. D. L. Snellgrove 
-
-(Oxford University Press, 1959), in two parts. This work came to the author's hands while this Appendix was passing through the Press. Part I (pub, in 1959) contains Introduc tion (pp. 1-46), English translation (pp. 47–119), contents (pp. 121–125), diagrams (pp. 126-129), Glossary (pp. 131 141 ) and Index (pp. 142–190): Part II contains Sanskrit texts and Tibetan texts based on a Nepalese mg. lent by Prof. Tucci; com. called Yogaratnamāla by Pandita Kanha has been included from an old Bengali ms. The editor holds (part I p. 14) that Hevajratantra was in existence towards the end of 8th oentury A. D. and that Advayavara sangraha and Sekoddeśatika borrow from Hevajra-tantra, Sadhanamālā No. 229 (two opening verses) are the same as Havajra II. 8. 6–7. Hovajra is an invocation of vajra. On p. 11 part I the editor questions how the yoging could call themselves Buddhists when they experienced enlightenment in the embrace of a yogini. Part I p. 70 mentions Jālandbara, Oddiyana, Paurṇagiri as pithas and several upapīthas, upa kṣetras. The term Sakti does not ocour in Hevajra but its place is taken by Prajñā. Part II verses 11-15 p. 98 express how the followers of this tantra had sexual experi enoos with women called mudrās and how thereby they secured siddhi. Part I p. 54 contains ritual for gaining mastery over a young woman. Part II p. 2 states 'Heka roṇa mahākarupā vajram Prajñā ca bhanyate; Prajñopāyat makam tantram tan-me nigaditam srupu'. This is a very valuable addition to the literature on Tantra and has been very well edited. 
-
-Some important works and papers on Tantra -vide also note : 
-
-1687 for works on Sakti oult 
-
-1148 
-
-History of Dharmadāstra ( Seo. VI, Oh XXVII 
-
-Catalogue of Palm-leaf and some paper msg, in the Durbar 
-
-Library of Nepal, by M. M. H. P. Sastri (1905). Tārānāth's History of Buddhism in India (translated into 
-
-Germān by A. Schiefner (St. Petersburg, 1869). Portions 
-
-were translated into English in I A. IV. 101 ff. and 361 ff. 'Lamaism' by L. A. Waddell ( Allen & Co., London, 1895). * History of Buddhism in India and Tibet' by Bu-ston translated 
-
-from Tibetan by Dr. E. Obermiller. Descriptive catalogue of mss in the Library of Asiatic Society 
-
-of Bengal, vol. VIII (deals with 648 msg. on Tantra in 
-
-892 pages). Bhandarkar's Vaiṣṇavism, Saivism &c. (in collected works, vol. 
-
-IV. pp. 202-210 on Sāktas). Tantra of the Great Liberation (translation of the Mahānirvāṇa 
-
-Tantra) with Introduction and commentary by Arthur 
-
-Avalon (1913). Tantrik Texts edited by A. Avalon, vol. I-XXII, Introductions, 
-
-notes, analysis &c. The Serpent Power by A. Avalon (1914), containing transla. 
-
-tion of Ṣat-cakranirūpapa and Padukāpañcaka (5th ed. of 
-
-1953, by Ganesh & Co., Madras ). Principles of Tantra' parts 1 and 2, ed. by A. Avalon (1914, 
-
-1916) with a long Introduction to part 2. *Wave of Bliss' - translation of Ananda-labari (first fortyone 
-
-verses of Saundarya-lahari) and comments by Sir John 
-
-Woodroffe (1917). 'Wave of Beauty'- translation of Saundarya-lahari (with text 
-
-and commentaries ) pub. by Ganesh & Co. (Madras, 1957). 'Chakras' by Right Rev. C. W. Leadbeater ( Adyar, 1927) with 
-
-plates. "Śivasambitā'- translation of - by Shrischandra Vidyarnava. 'Thirty minor Upanishads' translated by K. Narayanswami 
-
-Aiyar. *Mysterious Kundalini' by Dr. V. G. Rele (1927). 
-
-Sakti or Divine Power' by Dr. Sudbendu Kumar Das (Uni. of 
-
-Calcutta, 1934).Appendit 
-
-1149 
-
-P. C. Bagchi's Introduction to Kaulajñāna-nirṇaya (Caloutta 
-
-Sanskrit Series, 1934). "Tibetan Yoga and secret doctrines' by W. Y. Evans-Wentz 
-
-(Oxford Uni. Press, 1935). P. C. Bagchi's 'Studies in Tantras' (Cal. Uni. 1939). Dr. B. Bhattacharya's Introduction to Sadhanamālā vol. II, 
-
-(G. O, S.) pp. XI-LXXVII; the same scholar's Introduction to Guhyasamājatantra (G. 0. 8.) and Introduction to 
-
-Buddhist Esoterism' (Oxford University Press, 1932). * Philosophy of Tripurā Tantra' by M. M. Gopioath Kaviraja in 
-
-Sarasvati Bhavan Studies (1934), vol. IX. pp. 85-98. 'Some aspects of the philosophy of Sakta Tantra' by M. M. 
-
-Gopinath Kaviraja in Sarasvati Bhavan Studies, 1938 
-
-vol. X. pp. 21–27. Buddhist Tantra Literature' by Prof. S. K, Do in New Indian 
-
-Antiquary, vol. I. pp. 1-23. Influence of Tantras on the Tattvas of Raghunandana' in 
-
-I. H. Q. IX. (1933), pp. 678-704 by Prof. R. C. Hazra. * Influence of Tantra in Smṛtinibandhas' in ABORI vol. 15 
-
-pp. 220-235 and vol. XVI. pp. 203-211 by Prof. R. C. Hazra. The Tantric Doctrine of Divine bi-unity' by A. K. Coomara 
-
-swamy in A. B.O.R. I. vol. 19. pp. 173–183; 
-
-• Comparative and critical study of Mantraśāstra' by Shri 
-
-Mohanlal Bhagavandas Jhavery ( 1944 ); Prof. Chintaharan Chakravarti's following Papers : 'Antiquity 
-
-of Tāntricism' in I. H. Q., vol. VI pp. 114 ff; 'Controversy regarding the authorship of Tantras' in Prof. K. B. Pathak commemoration volume pp. 210–220; 'A note on the age and authorship of the Tantras' in Journal and Proceedings of the Asiatic Society of Bengal, New Series, vol. XXIX (1933) No. 1 pp. 71-79 ; 'Ideals of Tantra rites. I HQ vol. X. pp. 468 ff; Sākta festivals of Bengal and their anti quity' in I. H. Q. vol. 27 ( 1951 ) pp. 255-260; • Application of Vedic Mantras in Tāntrik rites' in J. A. 8. B., Letters, vol. 18 (1952) pp. 113–115; 'Kalt worship in Bengal' Adyar 
-
-Library Bulletin, vol. XXI, parts 3-4 pp. 296-303 ; * Tantras, their philosophy and cocult secrets' by D. N. Boge 
-
-(Caloutta, Oriental Publishing Co.); 
-
-1150 
-
-History of Dharmaśāstra (Sec. VI, Ch. XXVII 
-
-• Vajra and the Vajrasattva' by Dr. S. B. Das Gupta in Indian 
-
-Culture' vol. VIII. pp. 23-32; 'Introduction to Tantrik Buddhism' liy Dr. S. B. Das Gupta 
-
-(Calcutta, 1950); * Philosophies of India ' by Heinrich Zimmer (1931) pp. 560-602; 
-
-"The Veda and the Tantra' by Shri T. V. Kapali Sastry 
-
-(Madras, 1951 ) pp. 1-255 ; 
-
-'Yuganaddha'(which literally means' bound together or yoked 
-
-together' in the case of opposites ) 'the Tantrik view of Life' by Dr. Herbert V. Guenther in Chowkhamba Sanskrit Series, Banaras, 'Studies' vol. III. ( 1952 ); 
-
-The following articles in the Cultural Heritage of India vol. IV, viz. 'Evolution of the Tantras,' by Dr. P. C. Bagchi pp. 211-226; Tantra as a way of realization' by Swami Pratya gātmānanda, pp. 227-240; The Spirit and Culture of the Tantras' pp. 241-251 by Mr. Atal Behari Ghosh; 'Sakti Cult in South India' by Shri K. R. Venkataraman, pp. 252-259; Tantrik culture among the Buddhists' by Dr. B. Bhattacharya pp. 260– 272; The cult of the Buddhist Siddhācharyas' pp. 273-279 by Prof. P. V. Bapat. 
-
-* Lights on the Tantra' by M. P. Pandit (published by Ganesh 
-
-& Co., Madras, 1957) This is a booklet of 54 pages of text and pp. 55-71 of notes containing hardly anything valuable of the author's own; over three-fourths of it consists of long quotations from the works of Woodroffe (particularly from Shakti and Sbākta '), Sri Aurobindo and Shri Kapali Sastry and is here and there marked by bold and unwar Tanted assertions such as 'It is the central truths of the Tantra thought and ritual that form the backbone of the Hindu religion today' (p. 36). The present author repudiates totally this assertion. The author of this booklet has to admit that in the case of the Tantrik cult that abuse of the body of occult knowledge for malevolent purposes instead of for the material and spiritual advancement of man and the vulgarization of the profound rationale of the mystic ritual are deplorable deformations (p. 36), that there has doubtless been a grobs misuse of the knowledge developed by this science and that sparious texts have sprung up (p. 21). 
-
-Appendix 
-
-. 
-
-. 
-
-1151 
-
-'History of Philosophy, Eastern and Western' ed. by Dr. 8. · 
-
-Radhakrishnan, vol. I. pp. 401-4X8 on 'Exposition of Sakta belief' by M. M. Gopinath Kaviraj (1953). 
-
-*Yoga, immortality and freedom' by Mircea Eliade translated 
-
-from French by Willard Trask (pub. by Routledge, Kegan, 
-
-Paul, London, 1958), pp. 200-273 for 'Yoga end Tantrism'. Tibetan Book of the Dead' by Dr. W. Y. Evans-Wentz (3rd 
-
-ed., Oxford University Press, 1957). * Tibetan Yoga' by Bernard Bromage (2nd ed. 1959 by Aquarium 
-
-Press) - deals with magical and religious practices of Tibetans, spells, and exercises which are deemed to produce supernatural powers, 
+'Tibetan Yoga' by Bernard Bromage (2nd ed. 1959 by Aquarium Press)—deals with magical and religious practices of Tibetans, spells, and exercises which are deemed to produce supernatural powers.

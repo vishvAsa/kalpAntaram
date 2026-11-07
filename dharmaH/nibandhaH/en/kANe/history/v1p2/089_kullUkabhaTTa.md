@@ -11,19 +11,19 @@ title = "089 Kullūka Bhaṭṭa"
 
 [^1127]: सारासारवचःप्रपञ्चनविधौ मेधातिथेश्चातुरी स्तोकं वस्तु निगूढमल्पवचनाद्गोविन्दराजो जगौ । ग्रन्थेऽस्मिन्धरणीधरस्य बहुशः स्वातन्त्र्यमेतावता स्पष्टं मानवमर्थतत्त्वमखिलं वक्तुं कृतोयं श्रमः ॥ Vide his remarks about धरणीधर on मनु II 83 and IV. 50 ‘धरणीधरेण तु एकाक्षरपरं ब्रह्म प्राणायामपरं तपः इति पठितं...मेधातिथिप्रभृतिभिर्वृद्धैर्नालिखितं यतः लेखनात्पाठान्तरं तत्र स्वतन्त्रो धरणीधरः’ and परंपरीयमाम्नायं हित्वा विद्वद्भिरादृतम् । पाठान्तरं व्यरचयन्मुधेह धरणीधरः ॥’
 
-[^1128]: प्रायश्चित्ते बहुमुनिमतालोचनाद्यन्मयोक्तं सद्व्याख्यानं खलु मुनिगिरां तद्भजवं गुणज्ञाः । नैतन्मेधातिथिरभिदधे नापि गोविन्दराजो व्याख्यातारो न जगुरपरेप्यन्यतो दुर्लभं वः ॥ last verse of chap. XI.
+[^1128]: प्रायश्चित्ते बहुमुनिमतालोचनाद्यन्मयोक्तं सद्व्याख्यानं खलु मुनिगिरां तद्भजध्वं गुणज्ञाः । नैतन्मेधातिथिरभिदधे नापि गोविन्दराजो व्याख्यातारो न जगुरपरेप्यन्यतो दुर्लभं वः ॥ last verse of chap. XI.
 
 [^1129]: चतुर्युगैरेव द्वादशसंख्यैर्दिव्यं युगमिति तु मेधातिथेर्भ्रमो नादर्तव्यः । on मनु I. 71; on मनु I. 103 मेधातिथि remarks that ‘adhyetavyam’ and ‘pravaktavyam’ are not *vidhis* but only ‘*arthavādas*’ and Kullūka remarks ‘अनुवादमात्रमेतदिति...मेधातिथेर्मतम् । तन्न मनोहरम्’। It is possible that Kullūka had before him a defective ms. reading about Medhātithi’s bhāṣya on Manu I. 71.
 
-[^1130]: *Vide Pedda Ramappa v. Banyari Seshamma* I. L. R. 2 Mad. 286 at p. 291.
+[^1130]: *Vide Pedda Ramappa v. Bangari Seshamma* I. L. R. 2 Mad. 286 at p. 291.
 
 Among the authors and works quoted by him (besides the usual smṛtis) are the following:— Garga (on II. 6), Govindarāja, Dharaṇīdhara, Bhāskara (bhāṣyakāra of the Vedāntasūtras, on I. 8 and 15), Bhojadeva (on [[VIJI. 184|VIII. 184]]), Medhātithi, Vāmana (author of the *Kāśikā*), [[Bhattavārtika-kst|Bhaṭṭavārtika-kṛt]] (on XII. 106), Viśvarūpa (the commentator of Yājñavalkya, on II. 189 and V. 68). The Viśvarūpa that he quotes on Manu V. 215 is the lexicographer and not the jurist as Aufrecht (in his great catalogue) appears to hold.
 
 He gives us a little information about himself in the introductory verse.[^1131] He came of a Vārendra Brāhmaṇa family of Bengal (Gauḍa) residing in Nandana and was the son of Bhaṭṭa Divākara. He wrote his commentary in Kāśī in the company of [[P758]]Pandits. On Manu VI. 14 he mentions the names of certain vegetables that were current in Malwa and among the Vāhīkas.[^1132]
 
-[^1131]: गौडे नन्दनवासिनाम्नि सुजनैर्वन्द्ये वरेन्द्र्यां कुले श्रीमद्भट्टदिवाकरस्य तनयः कुल्लूकभट्टो भवत् । काश्यामुत्तरवाहिजह्नुतनयातीरे समं पण्डितैस्तेनेयं कृयते हिताय विदुषः मन्वर्थमुक्तावली ॥
+[^1131]: गौडे नन्दनवासिनाम्नि सुजनैर्वन्द्ये वरेन्द्र्यां कुले श्रीमद्भट्टदिवाकरस्य तनयः कुल्लूकभट्टो भवत् । काश्यामुत्तरवाहिजह्नुतनयातीरे समं पण्डितैस्तेनेयं क्रियते हिताय विदुषः मन्वर्थमुक्तावली ॥
 
-[^1132]: मूलस्थूणं मालवदेशे प्रसिद्धं शाकं शिग्रुकं वाहीकेषु प्रसिद्धं शाकम् ।
+[^1132]: भूस्तृणं मालवदेशे प्रसिद्धं शाकं शिग्रुकं वाहीकेषु प्रसिद्धं शाकम् ।
 
 It appears that Kullūka also composed a digest called *Smṛtisāgara*. A Ms. of a portion of it called *Śrāddhasāgara* exists in the Calcutta Sanskrit College (Cat. vol. II, p. 405, No. 446). In this his *Āśaucasāgara* and *Vivādasāgara* are referred to.
 

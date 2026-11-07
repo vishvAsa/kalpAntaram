@@ -7,12 +7,22 @@ TABLE OF CONTENTS
 
 Pages 
 
-i-vi ... vii ... si-xvii 
+Foreword ... i-vi 
 
-xviii-XXV XXvi-xxix 
+Preface ... [[vii|vii-x]] 
 
-Foreword Preface Chronological Table Abbreviations ... ... Brief synopsis of the contents References to pages of important works consulted Corrections Bistory of Dharmaśāstra, Vol. V, Pt. 2 ... Epilogue, Acknowledgements and Thanks ... Index ... 
+Chronological Table ... [[si-xvii|xi-xvii]] 
 
-XXxi-xxxίν 
+Abbreviations ... [[xviii-XXV|xviii-xxv]] 
 
-718–1711 ... i–xxii ... 1-269 
+Brief synopsis of the contents ... [[XXvi-xxix|xxvi-xxix]] 
+
+References to pages of important works consulted ... [[|xxx-xxxi]] 
+
+Corrections ... [[XXxi-xxxίν|xxxii-xxxiv]] 
+
+[[Bistory|History]] of Dharmaśāstra, Vol. V, Pt. 2 ... [[718–1711|719–1711]] 
+
+Epilogue, Acknowledgements and Thanks ... i–xxii 
+
+Index ... 1-269 

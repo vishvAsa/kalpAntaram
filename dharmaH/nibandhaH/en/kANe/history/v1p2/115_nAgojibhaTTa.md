@@ -53,7 +53,7 @@ Bhaṭṭojidīkṣita was a pupil of the Mīmāṁsaka Śaṅkara-bhaṭṭa an
                 नागेशभट्ट (pupil)
                     वैद्यनाथ पायगुण्ड (pupil)
                         बाळकृष्ण or बालम्भट्ट (son)
-                        गोपाळ (pupil)
+                        गोपाल (pupil)
         भानुजीदीक्षित or रामाश्रम (son)
 
     (b) लक्ष्मीधर

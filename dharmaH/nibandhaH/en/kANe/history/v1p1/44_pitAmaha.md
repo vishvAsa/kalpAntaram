@@ -9,7 +9,7 @@ title = "44 Pitāmaha"
 
 [[Pitāmaba|Pitāmaha]] is enumerated among writers on dharma in a verse of Vṛddha-[[Yājsavalkya|Yājñavalkya]] quoted by Viśvarūpa. The Smṛti of Pitāmaha (part I p. 10) is drawn upon mostly on [[Vyavabāra|Vyavahāra]]. Viśvarūpa cites (on Yāj. I. 17) [[&|a]] verse from him on śauca.[^593] The Mitākṣarā and Aparārka [[respective ly|respectively]] quote about 45 and 75 verses from [[Pitāmaba|Pitāmaha]] only on Vyavahāra and specially on ordeals and the Kalpataru on Vyavahāra quotes about 90 verses on the same topics from Pitāmaha. Some verses are ascribed to both Pitāmaha and Nārada (as in Kalpataru Vy. pp. 238, 239) and in a few cases to [[Bșhaspati|Bṛhaspati]] and [[Pitāmaba|Pitāmaha]] (as in Kalpataru, Vy. p. 251). The Smṛticandrikā quotes about ten verses (of [[Pito|Pit°]]) on āhnika, 130 on Vyavahāra and only a few on śrāddha. Pitāmaha regards the Vedas with the aṅgas, Mīmāṃsā, the
 
-[^593]: त्रिषु ये नोपनीयन्ते शूद्राः सौधन्वनाः क्षियः । गन्धलेपापकर्षणं मृदाम्भसा ॥
+[^593]: त्रिषु ये नोपनीयन्ते शूद्राः सौधन्वनाः स्त्रियः । गन्धलेपापक( र्षणं ? ) तेषां शौचं मृदाम्भसा ॥
 
 [[P515]]
 

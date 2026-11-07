@@ -21,7 +21,7 @@ The printed Nārada contains three introductory chapters on the principles of [[
 
 It will be noticed that Nārada follows the Manusmṛti to a considerable extent in the nomenclature and the [[arrange ment|arrangement]] of the eighteen titles. Some of the titles are differently named by Nārada, e. g. he speaks of upanidhi, while Manu employs the word nikṣepa. Nārada seems to have included the ‘[[gvāmipālavivāda|svāmipālavivāda]]’ of Manu in ‘[[vetanasya-ana pākarma|vetanasya-anapākarma]]’. He makes one title of dyūta and [[sumūhvaya|samāhvaya]]. Nārada includes strīsaṁgrahaṇa under [[sābasa|sāhasa]] and adds three titles, viz. abhyupetya-aśuśrūṣā, vikrīyāsaṁpradāna and prakīrṇaka. The Smṛticandrikā expressly[^505] says that it follows the word
 
-[^505]: नारदीयोद्देशक्रमानुसारिणश्च वयमित्यनवद्यमिहाभिधानम् । 
+[^505]: नारदीयोद्देशक्रमानुसारिणश्च वयमित्यनवद्यमिहाभिधानम् ।
 
 [[P469]]
 of Nārada in preference to that of Manu as regards the nomenclature and the sequence of the titles of law. Nārada follows Manu in speaking of witnesses in the section on ṛṇādāna and in treating of theft after the eighteen titles have been dealt with ( vide Manu IX. 256 ff. ).
@@ -50,7 +50,7 @@ The Nāradasmṛti, excluding the introductory passage in prose about the succes
 
 [^507]: सन्दिग्धेऽर्थेऽभियुक्तानां विशुद्ध्यर्थं दुरात्मनाम् । प्रोक्तानि नारदेनेह सत्यानृतविशुद्धये ॥
 [^508]: यत्र विप्रतिपत्तिः स्याद्धर्मशास्त्रार्थशास्त्रयोः । अर्थशास्त्रोक्तमुत्सृज्य धर्मशास्त्रोक्तमाचरेत् ॥
-[^509]: पुराणोक्तौ द्वौ श्लोकौ भवतः । यः परार्थे प्रहिणुयात्स्वां वाचं पुरुषाधमः । आत्मार्थे किं न कुर्यात्स पापो नरकनिर्भयः ॥ वाच्या नियताः सर्वे वाङ्मूला वाग्विनिश्चिताः । यो हि तां स्तेनयेद्वाचं स सर्वस्तेयकृन्नरः ॥ नारद (ऋणादान 227-228).
+[^509]: पुराणोक्तौ द्वौ श्लोकौ भवतः । यः परार्थे प्रहिणुयात्स्वां वाचं पुरुषाधमः । आत्मार्थे किं न कुर्यात्स पापो नरकनिर्भयः ॥ वाच्यार्था नियताः सर्वे वाङ्मूला वाग्विनिश्चिताः । यो हि तां स्तेनयेद्वाचं स सर्वस्तेयकृन्नरः ॥ नारद (ऋणादान 227-228).
 [^510]: सत्यं वाहनशस्त्राणि गोबीजकनकादि च । ...इत्येते शपथाः प्रोक्ता मनुना स्वल्पकारणे । ऋणादान 248, 250 ; दैवं पञ्चविधं ज्ञेयमित्याह भगवान्मनुः । ऋणादान 251 ; छायानिवेशितो रक्ष्यो दिनशेषमभोजनः । विषवेगक्लमानीतः शुद्धोऽसौ मनुरब्रवीत् ॥ ऋणादान 326. 
 
 [[P472]]
@@ -61,7 +61,7 @@ Nārada, [[mnādāna|ṛṇādāna]] 158, 'śrotriyās-tāpasā vṛddhā ye ca 
 
 Besides these, there are several cases where Nārada closely agrees with Manu though the verses are not identical, e. g. Nārada ( sāhasa 19 ) may be compared with Manu 9. 271 and Nārada ( appendix on theft, verses 1-4 ) may be compared with Manu ( 9. 256-260 ). These facts establish that Nārada is based on a version of Manu that was essentially the same as the extant text of Manu, though there was some difference here and there. Nārada contains several verses that occur in the Mahābhārata. For example, Śānti III. 66=N. ([[vyavahāra mātṇkā|vyavahāra-mātṛkā]] 72 )[^511] Udyoga 35.58=N. ( sabhā, verse 18 ), [[Ustega|Udyoga]] 
 
-[^511]: तलवद् दृश्यते व्योम खद्योतो हव्यवाडिव । न तलं विद्यते व्योम्नि हुताशनः ॥ 
+[^511]: तलवद् दृश्यते व्योम खद्योतो हव्यवाडिव । न तलं विद्यते व्योम्नि न खद्योते हुताशनः ॥
 
 [[P473]]
 35.31-32=N. (ṛ. [[202--203|202-203]]). The well-known verse of the [[Mahā bhārata|Mahābhārata]] on the greatness of speaking the truth (Śānti, 162.26) occurs in Nārada, verse 211 on p. 104 (SBE Vol. 33 p. 93 ). There are several cases where the text of Kauṭilya agrees with Nārada.[^512] In some of these cases the agreement is almost word for word.[^513] A half verse on poison-ordeal ( viz. 'Tvam viṣa...vyavasthitaḥ ) is the same in both Yāj. II. 110 and Nārada IV. 325 p. 124 ( SBE. vol. 33 pp. 115-116 ).
@@ -85,7 +85,7 @@ It may be noted that in an Inscription from Campā dated about śake 1092 (i. e.
 
 Nārada contains several rare words such as "hoḍha" (in vyavahāramātṛkā [[1.27|I.27]], meaning 'one's property when lost or stolen'). He gives expression to certain principles of law and politics, such as that a man is master of his own house, in other words, a man's house is his castle;[^514] he highly [[eulo gises|eulogises]] the office of the king, almost assigning it a divine origin and exhorts the people to obey and honour even a weak and undeserving king.[^515] Mr. Jayasval sees in this and in the fact that Nārada speaks of dīnāra while the Mṛcchakaṭika speaks of nāṇaka indications that Nārada belongs to the fourth [[cen tury|century]], is later than the drama, is propping up the authority 
 
-[^514]: त्रयः स्वतन्त्रा लोकेस्मिन्राजाचार्यस्तथैव च । प्रतिवर्णं च सर्वेषां वर्णानां स्वे गृहे गृही ॥ ऋणादान 32. This idea occurs in शान्तिपर्व 321. 147 'सर्वः स्वं स्वे गृही राजा'.
+[^514]: त्रयः स्वतन्त्रा लोकेऽस्मिन् राजाचार्यस्तथैव च । प्रतिवर्णं च सर्वेषां वर्णानां स्वे गृहे गृही ॥ ऋणादान 32. This idea occurs in शान्तिपर्व 321. 147 'सर्वः स्वं स्वे गृही राजा'.
 
 [^515]: Vide प्रकीर्णक verses 20-22 राजेति संचरत्येष भूमौ साक्षात् सहस्रदृक् । न तस्याज्ञामतिक्रम्य संतिष्ठेरन् प्रजाः क्वचित् ॥...निर्बलोपि यथा स्त्रीणां पूज्य एव पतिः सदा । प्रजानां विगुणोप्येवं पूज्य एव प्रजापतिः ॥ 
 
@@ -109,20 +109,16 @@ The Vyavahāramātṛkā of Jimūtavāhana and the [[Parā sara-Madhaviya|Parā�
 
 [^519]: राजा त्रिविधः सम्राट् सकरोऽकरश्च । तदाह नीतौ नारदः । p. 3 of राजनीति-रत्नाकर ; p. 75 यदा राजा जरायुक्तो... सप्ताङ्गानि च राज्यानि ज्येष्ठपुत्राय दापयेत् ॥ दापयेत् दद्यात् । विधाय वृत्तिं बहूनां राज्यं ज्येष्ठाय दापयेत्-इति राजनीतौ हारीतनारदवचनेभ्यः ; p. 79 : राजनीतौ नारदः । ज्येष्ठो नरक-निस्तारो लोकपूज्यतमः स्मृतः । ज्येष्ठो रत्नाकरः प्रोक्तो राज्यार्हो ज्येष्ठ एव हि ॥
 
-[^520]: राजधर्मोऽयमित्येवं प्रसङ्गात्कथितो मया । कात्यायनेन मनुना याज्ञवल्क्येन 
+[^520]: राजधर्मोऽयमित्येवं प्रसङ्गात्कथितो मया । कात्यायनेन मनुना याज्ञवल्क्येन धीमता । नारदेन च संप्रोक्तं विस्तरादिदमेव हि ॥ वृद्धहारीत VII. 270-71.
 
-धीमता । नारदेन च संप्रोक्तं विस्तरादिदमेव हि ॥ वृद्धहारीत VII. 270-71.
-
-[^521]: अनेकार्थाभियुक्तेन सर्वद्रव्यापलापिना । विभावितैकदेशेन देयं यदभियुज्यते ॥ 
-
-अपरार्क (on याज्ञ. II. 20); व्यवहारमातृका of जी० pp. 314-317; हंस प्रयच्छ मे कान्तां गतिरस्यास्त्वया हृता । विभावितै...युज्यते ॥ विक्रमोर्वशीय IV. 17 (Pandit's ed).
+[^521]: अनेकार्थाभियुक्तेन सर्वद्रव्यापलापिना । विभावितैकदेशेन देयं यदभियुज्यते ॥ अपरार्क (on याज्ञ. II. 20) ; व्यवहारमातृका of जी० pp. 310-11 ; हंस प्रयच्छ मे कान्तां गतिरस्यास्त्वया हृता । विभावितै...युज्यते ॥ विक्रमोर्वशीय IV. 17 (Pandit's ed).
 
 [[P477]]
 that Nārada would borrow the words of a dramatist for [[sett ing|setting]] forth a legal maxim. This would push back the date of Nārada far beyond the 5th century. Nārada in two places uses the word “dīnāra,”[^522] once in the sense of a golden [[orna. ment|ornament]] and again as a coin or unit of value also called "suvarṇa." In this last case he says that "dīnāra is equal to 48 kārṣāpaṇas or twelve dhānakas." Jolly (R. u. S. p. 23 ) thinks that Indian dīnāras can scarcely be older than the 2nd century A. D., although in the times of the Indo-Scythian kings coins of the weight of dīnāra occur. Therefore Jolly is of opinion that Nārada is later than 300 A. D. Winternitz ( History of Indian Literature, vol. II. p. 216 n. 4 ) follows him in this assumption that all Sanskrit works in which the word dīnāra occurs [[nust|must]] be later than the 2nd or 3rd century A. D. It may be that the golden dīnāras most numerously found in India belong to the 2nd and 3rd centuries A. D. But as Keith points out (J. R. A. S. 1915 p. 504 ) Jolly's assumption is [[wrong|wroug]] and the introduction of [[vinurus|dīnāras]] into India need not be later than the beginning of the Christian era. Golden dīnāras were first coined in Rome in 207 B. C. and the oldest Indian pieces corresponding in weight to the Roman Denarius were struck by Indo-Scythian kings who reigned from the first century B. C. (W. B. p. 44). Therefore there is nothing to prevent us from holding that Nārada flourished in the first centuries of the Christian era, [[i, e.|i. e.]] between 100 and 300 A. D. Mr. Jayasval assigns him to the 4th century A. D. and after the [[Mṣccha katika|Mṛcchakaṭika]]. Most scholars would not be prepared to assign to the Mṛcchakaṭika so early a date as the 3rd century A. D. Besides Mr. Jayasval builds his theory on very [[slend. er|slender]] foundations. Because the drama employs the word nāṇaka and Nārada speaks of dīnāra only, no chronological conclusion as to the priority of the one to the other can be drawn. After both words became current in the language, one author, though later, may employ one word, while another, though earlier, may employ the other. 
 
 While the first volume was in the Press, an edition of the Nāradiya Manu-[[sambitā|saṁhitā]] with the bhāṣya of Bhavasvāmin
 
-[^522]: मणयः पद्मरागाद्या दीनारादि हिरण्मयम् । मुक्ताविद्रुमशङ्खाद्याः प्रदुष्टाः स्वामिगामिनः ॥ नारद, व्यवहारमातृका II. 34; कार्षापणोऽण्डिका ज्ञेया ताश्चतस्रस्तु धानकः । तद्द्वादश सुवर्णस्तु दीनाराख्यः स एव च ॥ परिशिष्ट verse 60,
+[^522]: मणयः पद्मरागाद्या दीनारादि हिरण्मयम् । मुक्ताविद्रुमशङ्खाद्याः प्रदुष्टाः स्वामिगामिनः ॥ नारद, व्यवहारमातृका II. 34; कार्षापणोऽण्डिका ज्ञेया ताश्चतस्रस्तु धानकः । तद्द्वादश सुवर्णस्तु दीनाराख्यः स एव च ॥ परिशिष्ट verse 60.
 
 [[P478]]
 was published in 1929 in the Trivandrum Sanskrit Series, edited by K. Sambasiva Sastri (based on four [[Mes|Mss]]). The work claims to be a version of the Manusmṛti by Nārada. Prof. T. R. Chintamani contributed a lengthy paper on this version of the [[Nāradasmști|Nāradasmṛti]] to the Kunhan Raja Presentation volume, published by the Adyar Library, Madras ( in 1946 ) pp. 153-196. He points out that the main differences between the longer and shorter versions of Nārada published by Prof, Jolly are these : the shorter text omits the section on thefts, does not cite the verses on ordeals in a separate chapter and omits the chapter on legal procedure. The longer version has 1028 verses including an appendix on thefts (of 61 verses ). The shorter version has 870 verses and the text on which Bhavasvāmin comments has 877[[} |½]] verses. The edition with Bhavasvāmibhāṣya has at the end a chapter on five ordeals dealt with in 46[[. |½]] verses ( the five being Dhaṭa, Agni, Udaka, Viṣa and Kośa ). There are many variations between the Smrti as published by Dr. Jolly and that published with Bhavasvāmin's bhāṣya. On pp. 159-193 Prof. Chintamani sets out the numerous ( nearly a thousand ) differences ( small and also large ) in the Smṛti as published by Dr. Jolly and as found in the Nāradiya Manusaṁhitā. And on pp. 193-196 Prof. Chintamani prints the text of the 2nd Appendix (on five ordeals with 46 verses ) in the Nepalese Ms held to be spurious by Jolly and contained in the version of [[Bhavasvā min|Bhavasvāmin]] after the section called Prakīrṇaka. 
@@ -148,7 +144,7 @@ The late Prof. Rangaswami Aiyangar in his Introduction to Bṛhaspati assigns Bh
 It may be noted that Viśvarūpa quotes hardly any verses of Nārada on two epics not pertaining to Vyavahāra except one verse on Yāj. I. 34 where he speaks of three kinds of [[ștviks'|'ṛtviks']]. But the same cannot be said about the Mitākṣarā. A few verses not strictly related to Vyavahāra topics are mentioned by it as occurring in Nārada's work. For example, on Yāj. III. 39 the Mit. quotes a verse of Nārada that allows a [[brāhuana|brāhmaṇa]] to sell sesame in exchange of food-grains for securing medicine when he is ill or for the purpose of a Yajña. This occurs in the section on Ṛṇādāna ( 66 ). Aparārka also quotes this verse (p. 933 ). Probably it was part of the king's duty to remind a brāhmaṇa of the restrictions laid down on him by śāstra. Aparārka ( p. 29 )
 
 [^526]: कल्पच्छन्दोविचितिग्रहचारपुराणवास्तुविद्यासु । सम्यङ् नयन्ति सिद्धिं गणितामृते लोकयात्रायाः ॥ on ऋणादान V. 32.
-[^527]: वररुचिनाप्युक्तम् । शरीरपाणिचरणैर्निर्सर्गेण शरीरिणः । विकलाः पोगण्ड-कुणि-पङ्गवः ॥ इति । on ऋणादान 72. वररुचि here seems to be a lexicographer,
+[^527]: वररुचिनाप्युक्तम् । शरीरपाणिचरणैर्निसर्गेण शरीरिणः । विकलाः सद्भिः कथ्यन्ते पोगण्ड-कुणि-पङ्गवः ॥ इति । on ऋणादान 72. वररुचि here seems to be a lexicographer.
 
 [[P482]]
 cites [[24|2½]] verses on the actions that are comprehended under iṣṭa and [[pārtu|pūrta]]. But the [[Smṛticandrikū|Smṛticandrikā]] quotes from Nārada at least 50 verses on āhnika and at least 16 on śrāddha-kāṇḍa, one of which refers to Sunday and Saṅkrānti and on the selection of Ekādaśī for [[&|a]] fast when joined to the 10th or 12th tithi. 
@@ -177,4 +173,4 @@ For Asahāya, the commentator of Nārada, vide section 59 below.
 [^531]: उत्पातांस्त्रिविधान् प्राह नारदो भगवानृषिः । दिव्यांश्चैवान्तरिक्षांश्च पार्थिवांश्च पितामहः ॥ सभा 46. 8-9.
 [^532]: तस्मात्कर्मैव कर्तव्यमिति होवाच नारदः । उद्योगपर्व 49. 
 
-[^533]: इह हि भगवान्मनुः प्रथमं सर्वभूतानुग्रहार्थमाचारस्थितिहेतुभूतं शास्त्रं चकार । यत्र लोकसृष्टिः भूतप्रतिविभागः ‘सद्देशप्रमाणं पर्वलक्षणं’ वेदवेदाङ्गयज्ञविधानमाचारो व्यवहारः कण्टकशोधनं राजवृत्तं वर्णाश्रमविभागौ विवाहन्यायः स्त्री-पुंसविकल्पो दायानुक्रमः श्राद्धविधानं शौचाचारविकल्पो भक्ष्याभक्ष्यलक्षणं विक्रेयाविक्रयमीमांसा पातकभेदाः । स्वर्गनरकानुदर्शनं प्रायश्चित्तान्युपनिषदो रहस्यस्थानानि । एवं चतुर्विंशतिप्रकरणानि ॥ १॥ तदेतदत्र श्लोकशतसहस्रेण साशीतिनाध्यायसहस्रेण च भगवान् मनुरुपनिबध्य देवर्षये नारदाय प्रायच्छत् । स च तस्मादधीत्य महत्त्वान्नायं ग्रन्थः सुकरो मनुष्यैरेव धारयितुमिति द्वादशभिः सहस्रैः संक्षिप्य तं च महर्षये मार्कण्डेयाय प्रायच्छत् ॥ २ ॥ स च तस्मादधीत्य तथैवायुः शक्तिमपेक्ष्य मनुष्याणामष्टभिः सहस्रैः संचिक्षेप । तं सुमतये भार्गवाय प्रायच्छत् ॥ ३ ॥ सुमतिरपि भार्गवस्तस्मादधीत्य तथैवायुषोऽल्पतां शक्तिं मनुष्याणामिति चतुर्भिः सहस्रैः संचिक्षेप ॥ ४ ॥ तदेतत्पितृमनुष्या ह्यधीयन्ते विस्तरेण शतसहस्रं देवगन्धर्वादयः । तत्रायमाद्यः श्लोकः । आसीदिदं तमोभूतं न प्राज्ञायत किंचन । ततः स्वयम्भूर्भगवानव्यक्तो चतुर्मुखः ॥ 
+[^533]: इह हि भगवान्मनुः प्रथमं सर्वभूतानुग्रहार्थमाचारस्थितिहेतुभूतं शास्त्रं चकार । यत्र लोकसृष्टिः भूतप्रतिविभागः ‘सद्देशप्रमाणं पर्वलक्षणं’ वेदवेदाङ्गयज्ञविधानमाचारो व्यवहारः कण्टकशोधनं राजवृत्तं वर्णाश्रमविभागौ विवाहन्यायः स्त्री-पुंसविकल्पो दायानुक्रमः श्राद्धविधानं शौचाचारविकल्पो भक्ष्याभक्ष्यलक्षणं विक्रेयाविक्रयमीमांसा पातकभेदाः । स्वर्गनरकानुदर्शनं प्रायश्चित्तान्युपनिषदो रहस्यस्थानानि । एवं चतुर्विंशतिप्रकरणानि ॥ १ ॥ तदेतदत्र श्लोकशतसहस्रेण साशीतिनाध्यायसहस्रेण च भगवान् मनुरुपनिबध्य देवर्षये नारदाय प्रायच्छत् । स च तस्मादधीत्य महत्त्वान्नायं ग्रन्थः सुकरो मनुष्यैरेव धारयितुमिति द्वादशभिः सहस्रैः संक्षिप्य तं च महर्षये मार्कण्डेयाय प्रायच्छत् ॥ २ ॥ स च तस्मादधीत्य तथैवायुः शक्तिमपेक्ष्य मनुष्याणामष्टभिः सहस्रैः संचिक्षेप । तं सुमतये भार्गवाय प्रायच्छत् ॥ ३ ॥ सुमतिरपि भार्गवस्तस्मादधीत्य तथैवायुर्ह्रासादल्पीयसी शक्तिर्मनुष्याणामिति चतुर्भिः सहस्रैः संचिक्षेप ॥ ४ ॥ तदेतत्पितृमनुष्या ह्यधीयन्ते विस्तरेण शतसहस्रं देवगन्धर्वादयः । तत्रायमाद्यः श्लोकः । आसीदिदं तमोभूतं न प्राज्ञायत किंचन । ततः स्वयम्भूर्भगवान्प्रादुरासीच्चतुर्मुखः ॥

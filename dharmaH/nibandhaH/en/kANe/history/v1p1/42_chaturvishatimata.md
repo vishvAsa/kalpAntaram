@@ -18,7 +18,9 @@ In the Govt. Mss. library at the B. O. R. Institute (Poona), there is a Ms. bear
 The work often quotes the views of Uśanas, Manu, Pārāśarya, Aṅgiras, Yama, Hārīta. It quotes Manu III. 5 ('asapiṇḍā ca yā' etc.) and Manu XII. 95 (yā vedabāhyāḥ smṛtayaḥ). Two other [[verges|verses]] which it contains are indicated as interpolated in several editions of Manu.[^585] It says that the teachings of Arhat, Cārvāka and Buddha delude people.[^586] Its position is that whatever is not found in the Veda or the Purāṇas, the Rāmāyaṇa, or Mahābhārata or in the śāstras of Manu and others is as good as non-existent.[^587]
 
 [^585]: वृद्धौ च मातापितरौ साध्वी भार्या शिशुः सुतः । अप्यकार्यशतं कृत्वा भर्तव्या मनुरब्रवीत् ॥ (after मनु. XI. 10); पुराणं मानवो धर्मः साङ्गो वेदश्चिकित्सितम् । आज्ञासिद्धानि चत्वारि न हन्तव्यानि हेतुभिः ॥ (after मनु XII. 110.). This occurs in यशस्तिलक, 4th आश्वास p. 117 and the first half of it occurs in the तन्त्रवार्तिक.
-[^586]: अर्हच्चार्वाकवाक्यानि बौद्धादिपठितानि च । विप्रलम्भकवाक्यानि तानि सर्वाणि वर्जयेत् ॥ This occurs in the स्मृतिच. 1. p. 5 (Gharpure) and परा. मा. vol. I, part I, p. 10.
+
+[^586]: अर्हच्चार्वाकवाक्यानि बौद्धादिपठितानि च । विप्रलम्भकवाक्यानि तानि सर्वाणि वर्जयेत् ॥ This occurs in the स्मृतिच० 1. p. 5 (Gharpure) and परा. मा. vol. I, part I, p. 10.
+
 [^587]: यन्नास्ति वेदे न च यत्पुराणे रामायणे भारतसङ्गरे वा । मन्वादिशास्त्रेषु च यन्न वोक्तं तन्नास्ति नास्तीति न तेन कार्यम् ॥
 
 The Caturviṃśatimata is frequently quoted by the Mit., [[A parārka|Aparārka]] and later [[work8,688|works[^588]]] but not by Viśvarūpa and
@@ -39,4 +41,4 @@ The portions of the works on [[saṇskāra|saṃskāra]] and śrāddha together 
 
 Series (Nos. 137 and 139). The commentary is a very learned one and refers to a host of writers. This commentary is in some mss. ascribed to Rāmacandra (vide I. O. Cat. No. 1554, p. 473).
 
-[^589]: चतुर्विंशतिमतात्-वृषल्यामभिजातस्त्रीणि वर्षाणि चतुर्थसमये [[नतं चोन्|नक्तं चरेत्]] । वृषल्यामभिजातो वृषल्यां जनितापत्यः । वृषली चात्र परिणीता शूद्रा । [[अपसके|अपरार्के]] p. 1121, 
+[^589]: चतुर्विंशतिमतात्-वृषल्यामभिजातस्त्रीणि वर्षाणि चतुर्थसमये नक्तं चरेत् । वृषल्यामभिजातो वृषल्यां जनितापत्यः । वृषली चात्र परिणीता शूद्रा । अपरार्के p. 1121.

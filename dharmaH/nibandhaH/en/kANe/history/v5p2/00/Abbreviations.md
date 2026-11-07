@@ -3,166 +3,388 @@ title = "Abbreviations"
 
 +++
 
+[[Pxviii]]
 ABBREVIATIONS used in vol. V for works in English and Sanskrit. 
 
-On pp. 251-252 there is a list of abbreviations meant for the list of Vratas alone. Many of them will be included in this list also. A. B. O. R. I. - Annals of the Bhandarkar Oriental Re 
+On pp. 251-252 there is a list of abbreviations meant for the list of Vratas alone. Many of them will be included in this list also. 
 
-search Institute, Poona. AIHT=" Ancient Indian Historical Tradition" by 
+A. B. O. R. I. [[-|=]] Annals of the Bhandarkar Oriental [[Re search|Research]] Institute, Poona. 
 
-Pargiter. Ait. Br. = Aitareya-brāhmaṇa. 
+AIHT=" Ancient Indian Historical Tradition" by Pargiter. 
 
-A.T. 0. C.= All India Oriental Conference. A. K. = Abalyā-kāmadhenu ( ms.) Āp Dh. S. = Āpastambadharmasūtra. Ap. Śr. S. = Āpastamba Śrautasūtra. Āśv. Gr. = Āāvalāyana Gșhya-sūtra. A. S. W. I. = Archaeological Survey of Western India 
+Ait. Br. = Aitareya-brāhmaṇa. 
 
-Reports. B. D. C. R. I.= Bulletin of the Deccan College Research 
+[[A.T. 0. C.|A. I. O. C.]] = All India Oriental Conference. 
 
-Institute, Poopa. B. E. =' Buddhist Esoterism' by Dr. B. Bhattacharya. B. E. F. E, 0,= Bulletin de L'Ecole Francaise D' Ex 
+A. K. = [[Abalyā-kāmadhenu|Ahalyā-kāmadhenu]] ( ms.) 
 
-treme-Orient. B. G. = Bombay Gazetteer Volumes. B.G.S. - Bombay Government Series. Bhav. U.= Bhaviṣyottara-purāṇa. B. I. = Bibliotheca Indica Series, B.O. R. I. = Bhandarkar Oriental Research Institute, 
+Āp Dh. S. = Āpastambadharmasūtra. 
 
-Poona, Br. = Brāhmaṇa ( class of works ). 
+[[Ap.|Āp.]] Śr. S. = Āpastamba Śrautasūtra. 
 
-Abbreviations 
+Āśv. [[Gr. = Āāvalāyana Gșhya-sūtra.|Gṛ. = Āśvalāyana Gṛhya-sūtra.]] 
 
-xix 
+A. S. W. I. = Archaeological Survey of Western India Reports. 
 
-Br. S. Br̥hat-sambitā of Varāhamihira. Bṛ. Up = Bṛhudũranyaka Upanisad. B. V. = Bhāratiya Vidyā, Journal, Bombay. C. I. 1. = Corpus Inscriptionum Indicarum; Vol. I Asoka 
+B. D. C. R. I.= Bulletin of the Deccan College Research Institute, [[Poopa.|Poona.]] 
 
-Inscriptions; Vol. II Kharoșṭbi Inscriptions ; Vol. III Gupta Inscriptions; Vol. IV Kalacūri. 
+B. E. =' Buddhist Esoterism' by Dr. B. Bhattacharya. 
 
-Inscriptions. C. R. C. = Calendar Reform Committee ( Report of ). D. C. = Deccan College. E. I. = Epigraphia Indica ( Volumes). E. R. E. - Encyclopaedia of Religion and Ethics in 12 
+B. E. F. [[E, 0,=|E. O.=]] Bulletin de L'Ecole Francaise [[D' Ex treme-Orient.|D' Extreme-Orient.]] 
 
-volumes. E. S. A. =' Exact Sciences in Antiquity' by Prof. Neu 
+B. G. = Bombay Gazetteer Volumes. 
 
-gebauer ( 1951). Gaut. or Gautama = Gautama-dhurniasūtra. G. K. = Kālasāra of Gadūdhara. G.O.S. =Gaikwad's Oriental Series (Baroda ). H. = Prof, Hazra. H. of Dh, or H. Dh. = History of Dharmaśāstra, Vols. 
+B.G.S. [[-|=]] Bombay Government Series. 
 
-I-V. H.O.S. = Harvard Oriental Series. H. P. or H. Y. P. = Hathayogapradipikā. H. V. = Hemādri on Vratas. I. A = Indian Antiquary (Journal) or Law Reports, 
+Bhav. U.= Bhaviṣyottara-purāṇa. 
 
-Indian Appeals (context will clearly show which is 
+B. I. = Bibliotheca Indica [[Series,|Series.]] 
 
-meant ). I. H. Q. = Indian Historical Quarterly ( Journal). Jai. = Jaimini or Jaimini's Pūrvamīmāṁsā-sūtra. J. A. O. S = Journal of the American Oriental Society. J. A. S. or J. A. S. B. = Journal of the Asiatic Society 
+B.O. R. I. = Bhandarkar Oriental Research Institute, [[Poona,|Poona.]] 
 
-of Bengal. J. B. A. S. - Journal of the Asiatic Society, Bombay. 
+Br. = Brāhmaṇa ( class of works ). 
 
-DI 
+[[Pxix]]
+[[Br. S. Br̥hat-sambitā|Bṛ. S. = Bṛhat-saṁhitā]] of Varāhamihira. 
 
-XX 
+Bṛ. Up = [[Bṛhudũranyaka Upanisad.|Bṛhadāraṇyaka Upaniṣad.]] 
 
-History of Dharmastistra 
+B. V. = [[Bhāratiya|Bhāratīya]] Vidyā, Journal, Bombay. 
 
-J.B. B. R. A. S. = Journal of the Bombay Branch of the 
+C. I. [[1.|I.]] = Corpus Inscriptionum Indicarum; Vol. I [[Asoka|Aśoka]] Inscriptions; Vol. II [[Kharoșṭbi|Kharoṣṭhī]] Inscriptions ; Vol. III Gupta Inscriptions; Vol. IV [[Kalacūri.|Kalacūri]] Inscriptions. 
 
-Royal Asiatic Society. J. B. H. U. = Journal of the Beparas Hindu University J.B. O, R. S. = Journal of the Bihar and Orissa Resea 
+C. R. C. = Calendar Reform Committee ( Report of ). 
 
-rch Society. J. B. R. S. = Journal of the Bihar Research Society. J.G.J. R. I. = Journal of the Ganganath Jha Research 
+D. C. = Deccan College. 
 
-Institute, Allahabad. J. I. H. - Journal of Indian History. Jiv. = Jivananda's edition in two volumes of Raghu 
+E. I. = Epigraphia Indica ( Volumes). 
 
-nandana's Tattvas. J.N. - Jayantinirṇaya. J. U. P. H. S. – Journal of United Provinces Historical 
+E. R. E. [[-|=]] Encyclopaedia of Religion and Ethics in 12 volumes. 
 
-Society, J.O.R. = Journal of Oriental Research, Madras. J.R. A. S. = Journal of the Royal Asiatic Society of 
+E. S. A. =' Exact Sciences in Antiquity' by Prof. [[Neu gebauer|Neugebauer]] ( 1951). 
 
-Great Britain. J. V.O.T. – Journal of Venkatesvara Oriental Institute K. N. = Kālanirṇaya of Madhava, K. R = Kr̥tyaratnākara of Candeśvara. K.S.S. = Kashi Sanskrit Series. K.T. – Kr̥tyatattva. K. T. V.=Kālatativavivecana. K. V.=Kālaviveka. M. B. P. = Mimāṁsā-bāla-prakāśa. M. C. = Muhūrta-cintāmaṇi. M. L.J.=Madras Law Journal. Mit. = Mitākṣarā, commentary on Yājñavalkya-smști, M. M. - Mahāmabopādhyāya (title conferred on learned 
+Gaut. or Gautama = [[Gautama-dhurniasūtra.|Gautama-dharmasūtra.]] 
 
-men). M. M. – Muhūrtamārtaṇda ( a work). Nir, or. Nirṇ. = Nirnayasāgara Press edition. 
+G. K. = Kālasāra of [[Gadūdhara.|Gadādhara.]] 
 
-Abbreviations 
+G.O.S. =Gaikwad's Oriental Series (Baroda ). 
 
-xxi 
+H. = [[Prof,|Prof.]] Hazra. 
 
+H. of [[Dh,|Dh.]] or H. Dh. = History of Dharmaśāstra, Vols. I-V. 
+
+H.O.S. = Harvard Oriental Series. 
+
+H. P. or H. Y. P. = [[Hathayogapradipikā.|Haṭhayogapradīpikā.]] 
+
+H. V. = Hemādri on Vratas. 
+
+I. A = Indian Antiquary (Journal) or Law Reports, Indian Appeals (context will clearly show which is meant ). 
+
+I. H. Q. = Indian Historical Quarterly ( Journal). 
+
+Jai. = Jaimini or Jaimini's Pūrvamīmāṁsā-sūtra. 
+
+J. A. O. S = Journal of the American Oriental Society. 
+
+J. A. S. or J. A. S. B. = Journal of the Asiatic Society of Bengal. 
+
+J. B. A. S. [[-|=]] Journal of the Asiatic Society, Bombay. 
+
+[[Pxx]]
+J.B. B. R. A. S. = Journal of the Bombay Branch of the Royal Asiatic Society. 
+
+J. B. H. U. = Journal of the [[Beparas|Benaras]] Hindu University 
+
+[[J.B. O, R. S.|J. B. O. R. S.]] = Journal of the Bihar and Orissa [[Resea rch|Research]] Society. 
+
+J. B. R. S. = Journal of the Bihar Research Society. 
+
+J.G.J. R. I. = Journal of the Ganganath Jha Research Institute, Allahabad. 
+
+J. I. H. [[-|=]] Journal of Indian History. 
+
+Jiv. = Jivananda's edition in two volumes of [[Raghu nandana's|Raghunandana's]] Tattvas. 
+
+J.N. [[- Jayantinirṇaya.|= Jayantīnirṇaya.]] 
+
+J. U. P. H. S. [[–|=]] Journal of United Provinces Historical [[Society,|Society.]] 
+
+J.O.R. = Journal of Oriental Research, Madras. 
+
+J.R. A. S. = Journal of the Royal Asiatic Society of Great Britain. 
+
+J. [[V.O.T. –|V. O. T. =]] Journal of Venkatesvara Oriental Institute 
+
+K. N. = Kālanirṇaya of [[Madhava,|Mādhava.]] 
+
+K. R = [[Kr̥tyaratnākara of Candeśvara.|Kṛtyaratnākara of Caṇḍeśvara.]] 
+
+K.S.S. = Kashi Sanskrit Series. 
+
+K.T. [[– Kr̥tyatattva.|= Kṛtyatattva.]] 
+
+K. T. V.= [[Kālatativavivecana.|Kālatattvavivecana.]] 
+
+K. V.=Kālaviveka. 
+
+M. B. P. = [[Mimāṁsā-bāla-prakāśa.|Mīmāṁsā-bāla-prakāśa.]] 
+
+M. C. = Muhūrta-cintāmaṇi. 
+
+M. L.J.=Madras Law Journal. 
+
+Mit. = Mitākṣarā, commentary on [[Yājñavalkya-smști,|Yājñavalkya-smṛti.]] 
+
+M. M. [[- Mahāmabopādhyāya|= Mahāmahopādhyāya]] (title conferred on learned men). 
+
+M. M. [[– Muhūrtamārtaṇda|= Muhūrtamārtaṇḍa]] ( a work). 
+
+[[Nir, or. Nirṇ. = Nirnayasāgara|Nir. or Nirṇ. = Nirṇayasāgara]] Press edition. 
+
+[[Pxxi]]
 N. I. A. = New Indian Antiquary ( a journal ). 
 
-· N. S. = Nirṇayasindhu. Pār. Gṛ. = Pāraskara-gļhya-sūtra. P. C. = Puruṣārtha-cintamani. Ph. Up. = Philosophy of the Upanishads by Paul Deu 
+[[· N. S.|N. S.]] = Nirṇayasindhu. 
 
-ssen, translated by A. S. Geden. P. M. = Pūrvanıīmāṁsā. P. M. S. = Pūrvamīmāṁsā-śāstra or sūtra ( according to 
+Pār. Gṛ. = [[Pāraskara-gļhya-sūtra.|Pāraskara-gṛhya-sūtra.]] 
 
-context). P.O. - Poona Orientalist (journal). P.R. H. R. = Studies in Purāṇik Records on Hindu 
+P. C. = [[Puruṣārtha-cintamani.|Puruṣārtha-cintāmaṇi.]] 
 
-rites and customs ( collection of 16 papers by Prof. 
+Ph. Up. = Philosophy of the Upanishads by Paul [[Deu ssen,|Deussen,]] translated by A. S. Geden. 
 
-Hazra). Ṛg. =Rgveda. R. M. = Rājamārtaṇḍa of Bhoja ( Ms. in B. O, R. I.). R. N. P. = Rājanītiprakāśa of Candeśvara. Śūṅ. Śr. S. =Śānkhāyana--rauta sūtra. Śat. Br. =Śatapatha Brāhmaṇa ( ed. by Weber). S. B. E. = Sacred Books of the East Series ( ed. by 
+P. M. = [[Pūrvanıīmāṁsā.|Pūrvamīmāṁsā.]] 
 
-Max Muller ). S. M. = Samayamayūkha of Nilakantha. Sm. C. = Smṛti-candrika ( ed. by Mr. Gharpure). Sm. K. = Smrtikaustubha. Tai. Ā, or T. A. = Taittiriya Araṇyaka. Tai. Br. = Taittirīga Brāhmaṇa. Tai. S. or T. S. = Taittirīga-Samhitā. Tai. Up. = Taittiriya Upaniṣad. T. S. S. = Trivandrum Sanskrit Series. T. T. - Tithitattva of Raghunandana. U.=Upapurāṇa. Up. = Upaniṣad. Vāj. S. = Vājasaneya Samhitā. 
+P. M. S. = Pūrvamīmāṁsā-śāstra or sūtra ( according to context). 
 
-ra 
+P.O. [[-|=]] Poona Orientalist (journal). 
 
-xxii 
+P.R. H. R. = Studies in Purāṇik Records on Hindu rites and customs ( collection of 16 papers by Prof. Hazra). 
 
-History of Dharinasāstra 
+Ṛg. = [[Rgveda.|Ṛgveda.]] 
 
-Var. = Varāhapurana. Varāha = Varihanmihira. V. Dh. or Viṣṇu Dh. S. = Viṣṇudharmasutra. Vi. Dh. = Viṣṇu-Dharmottara-purana. V. K. K. = Varṣa-kriya-kaumudi. V. K. R. = Varṣakṣtya of Rudradhara. V.S. = Vedintasutra of Bidarayana. Y.S. = Yogasutra. Yaj. = Yajnavalkya-smrti. अ. का. ) 
+R. M. = Rājamārtaṇḍa of Bhoja ( Ms. in B. [[O, R.|O. R.]] I.). 
 
-है = अहल्याकामधेनु ( Ms. in Scindia Institute, Ujjain) अ.का.धे. अग्नि. ) NAAM = अग्निपुराण ( आनन्दाश्रम ed.) अथर्व. = अथर्ववेद (ed. by Pandit Satavalekar ) अपरार्क. = Com. of, on या. स्मृति ( आनन्दाश्रम ed.) अ. सा. = अद्भुतसागर of बल्लालसेन (Calcutta, 1905) आप. 2. = आपस्तम्बगृह्यसूत्र आप.ध. सू. = आपस्तम्बधर्मसूत्र आप. श्री. = आपस्तम्बश्रौतसूत्र आश्व. गृ. = आश्वलायनगृह्यसूत्र आश्व श्री. ) आश्व. श्री. स. = आश्वलायनश्रौतसूत्र ऋ= ऋग्वेद ए. त. = एकादशीतत्त्व ऐ. वा. = ऐतरेयव्राह्मण कल्प. 
+R. N. P. = Rājanītiprakāśa of [[Candeśvara.|Caṇḍeśvara.]] 
 
-कृत्यकल्पतरु of लक्ष्मीधर ( separate volumes on गृहस्थ, कल्पतरु. 
+[[Śūṅ. Śr. S. =Śānkhāyana--rauta|Śāṅ. Śr. S. =Śāṅkhāyana-śrauta]] sūtra. 
 
-नयतकाल, मोक्ष, व्रत etc.) ed. in G.O.S. का. त. चि. = कालतत्त्वविवेचन का. नि. = कालनिर्णय of माधवाचार्य का वि. = कालविवेक of जीमूतवाहन 
+Śat. Br. =Śatapatha Brāhmaṇa ( ed. by Weber). 
 
-Abbreviations 
+S. B. E. = Sacred Books of the East Series ( ed. by Max Muller ). 
 
-xxii 
+S. M. = Samayamayūkha of [[Nilakantha.|Nīlakaṇṭha.]] 
 
-कृ. त. = कृत्यतत्त्व of रघुनन्दन कृ. र. ) 
+Sm. C. = [[Smṛti-candrika|Smṛti-candrikā]] ( ed. by Mr. Gharpure). 
 
-= कृत्यरत्नाकर of चण्डेश्वर (B. I. Series) को. ब्रा. = कौषीतकिब्राह्मण गरुड = गरुडपुराण गौ. गौ. ध. सू.= गौतमधर्मसूत्र ( आनन्दाश्रम ed. with com. of हरदत्त) गौतम ) 
+Sm. K. = [[Smrtikaustubha.|Smṛtikaustubha.]] 
 
-= छान्दोग्योपनिषद् जै.= पूर्वमीमांसासूत्र of जैमिनि ( आनन्दाश्रम ed.) ति. त. = तिथितत्त्व of रघुनन्दन तै. आ. = तैत्तिरीयारण्यक 
+Tai. [[Ā, or T. A. = Taittiriya Araṇyaka.|Ā. or T. Ā. = Taittirīya Āraṇyaka.]] 
 
-बाबा 
+Tai. Br. = [[Taittirīga|Taittirīya]] Brāhmaṇa. 
 
-= तैत्तिरीयोपनिषद् 
+Tai. S. or T. S. = [[Taittirīga-Samhitā.|Taittirīya-Saṁhitā.]] 
 
-तै. ब्रा. = तैत्तिरीयब्राह्मण ( आनन्दाश्रम ed.) तै. सं. = तैत्तिरीयसंहिता ( ed. by Randit Satavalekar ) 
+Tai. Up. = [[Taittiriya|Taittirīya]] Upaniṣad. 
 
-दुर्गार्च० ) 
+T. S. S. = Trivandrum Sanskrit Series. 
 
-दुर्गार्चनः । = दुगोर्चनपद्धति of रघुनन्दन दु. भ. त. = दुर्गाभक्तितरङ्गिणी of विद्यापति (ed. at Darbhanga, 1900 ) द्वै. नि. सि. सं. = द्वैतनिर्णयसिद्धान्तसंग्रह ध. सि. = धर्मसिन्धु of काशीनाथ ( ed. of 1926, with Marathi trans 
+T. T. [[-|=]] Tithitattva of Raghunandana. 
 
-lation ) Nir, ed. नि. सि. = निर्णयसिन्धु ( with Marathi translation ) Nir. ed. न्यायमञ्जरी = Kashi S. Series पञ्चसि. = पञ्चसिद्धान्तिका of वराहमिहिर (ed. by Thibaut and 
+U.=Upapurāṇa. 
 
-Dwivedi ) पद्मपु. 3 = पद्मपुराण ( आनन्दाश्रम ed.) परा. मा. = पराशरमाधवीय ( Bombay S. Series ) पा. = पाणिनि' अष्टाध्यायी 
+Up. = Upaniṣad. 
 
-पद्म० ) 
+Vāj. S. = Vājasaneya [[Samhitā.|Saṁhitā.]] 
 
-Xxiv 
+[[Pxxii]]
+Var. = [[Varāhapurana.|Varāhapurāṇa.]] 
 
+Varāha = [[Varihanmihira.|Varāhamihira.]] 
 
+V. Dh. or Viṣṇu Dh. S. = [[Viṣṇudharmasutra.|Viṣṇudharmasūtra.]] 
 
-पु. चि. = पुरुषार्थचिन्तामणि प्राय. त. = प्रायश्चित्ततत्त्व of रघुनन्दन प्राय. म. = प्रायश्चित्तमयूख of नीलकण्ठ बृह. उ. 
+Vi. Dh. = [[Viṣṇu-Dharmottara-purana.|Viṣṇu-Dharmottara-purāṇa.]] 
 
-बृह. उप. 3 = बृहदारण्यकोपनिषद् 
+V. K. K. = [[Varṣa-kriya-kaumudi.|Varṣa-kriyā-kaumudī.]] 
 
-ब्रह्म ) 
+V. K. R. = [[Varṣakṣtya|Varṣakṛtya]] of Rudradhara. 
 
-बृहत्सं. = बृहत्संहिता of वराहमिहिर (ed. by Kern, only text; by 
+V.S. = [[Vedintasutra of Bidarayana.|Vedāntasūtra of Bādarāyaṇa.]] 
 
-सुधाकर द्विवेदिन् , with com. of उत्पल. There is a diffe 
+Y.S. = [[Yogasutra.|Yogasūtra.]] 
 
-rence of one chap. between the two editions ). बृहद्योगि. = बृहद्योगियाज्ञवल्क्य (ed. by खामी कुवलयानन्द of Lonavla) चौ. गृ. = बौधायनगृह्यसूत्र 
+[[Yaj. = Yajnavalkya-smrti.|Yāj. = Yājñavalkya-smṛti.]] 
 
-है = ब्रह्मपुराण ( आनन्दाश्रम ed.) ब्रह्मपु. 
+अ. का., [[अ.का.धे.|अ. का. धे.]] [[) है =|=]] अहल्याकामधेनु ( Ms. in Scindia Institute, Ujjain) 
 
-भविष्य = भविष्यपुराण मद. पा. = मदनपारिजात ( B. I. Series ) मनु = मनुस्मृति ( Nirn. ed.) मार्क. = मार्कण्डेयपुराण (Venk. ed. and Cal. ed. differ by two or 
+अग्नि., [[) NAAM =|अग्निपु. =]] अग्निपुराण ( आनन्दाश्रम ed.) 
 
-three chapters ) मिता. = मिताक्षरा ( टीका on याज्ञ. स्मृति, Nirn. ed.) मी. प. = मीमांसापरिभाषा of कृष्णयज्वन् (निर्णय. ed.) भी. वा. प्र. = मीमांसाबालप्रकाश of शङ्करभट्ट ( Chowkhamba Sanskrit 
+अथर्व. = अथर्ववेद (ed. by Pandit Satavalekar ) 
 
-Series) मु. चि.= मुहूर्तचिन्तामणि मेधा. = मेधातिथि's commentary on मनुस्मृति मै. सं = मैत्रायणीसंहिता (ed. by Pandit Satavalekar ) 
+अपरार्क. = Com. of, on या. स्मृति ( आनन्दाश्रम ed.) 
 
-2 = याज्ञवल्क्यस्मृति ( निर्णयसागर ed. with मिताक्षरा) यो. सू. = योगसूत्र रा. मा. = राजमार्तण्ड of भोज व. क्रि. कौ. = वर्षक्रियाकौमुदी of गोविन्दानन्द ( B. I. ed.) वन. = वनपर्व (of महाभारत) 
+अ. सा. = अद्भुतसागर of बल्लालसेन (Calcutta, 1905) 
 
-या.Abbreviations 
+आप. [[2.|गृ.]] = आपस्तम्बगृह्यसूत्र 
 
-XXY 
+[[आप.ध. सू.|आप. ध. सू.]] = आपस्तम्बधर्मसूत्र 
 
-व्रत. प्र. 
+आप. [[श्री.|श्रौ.]] = आपस्तम्बश्रौतसूत्र 
 
-) 
+आश्व. गृ. = आश्वलायनगृह्यसूत्र 
 
-वराह. = वराहमिहिर or वराहपुराण acc. to context वाज. सं. = वाजसनेयसंहिता (ed. by Pandit Satavalekar) वामन = वामनपुराण वि. दी. = विज्ञानदीपिका वी. मि. = वीरमित्रोदय of मित्रमिश्र वे. सू. = वेदान्तसूत्र of बादरायण with शाङ्करभाष्य (निर्णय. ed.) व्य. म. = व्यवहारमयूख of नीलकण्ठ व. का. वि. = व्रतकालविवेक 
+आश्व [[श्री. ) आश्व. श्री. स.|श्रौ., आश्व. श्रौ. सू.]] = आश्वलायनश्रौतसूत्र 
 
-है = व्रतप्रकाश, part of वीरमित्रोदय व्र. प्र. ) शत. ब्रा. ) शतपथ 
+[[ऋ=|ऋ. =]] ऋग्वेद 
 
-है - शतपथ ब्राह्मण ( ed. by Weber) 
+ए. त. = एकादशीतत्त्व 
 
-व शां. बा. = शाजायन ब्राह्मण शां. श्री. = शाङ्खायन श्रौतसूत्र शुद्धिको. = शुद्धिकौमुदी of गोविन्दानन्द ( B. I. ed.) श्वे. उप. = श्वेताश्वतरोपनिषद् सं. को. = संस्कारकौस्तुभ of अनन्तदेव ( Baroda ed. 1914) स. प्र. = समयप्रकाश ( part of वीरमित्रोदय ) स. म. = समयमयूख ( Gujarati Press ed.) सि. कौ. = सिद्धान्तकौमुदी of भट्टोजिदीक्षित ( निर्णय. ed.) स्कन्द. = स्कन्दपुराण (Venk. Press ed.) स्मृतिको. = स्मृतिकौस्तुभ of अनन्तदेव स्मृतिच. = स्मृतिचन्द्रिका (ed. by Mr. Gharpure ) ह. यो. प्र. - हठयोगप्रदीपिका है. = हेमाद्रि, author of चतुर्वर्गचिन्तामणि ( B. I. ed.) on व्रत, काल, 
+ऐ. [[वा. = ऐतरेयव्राह्मण|ब्रा. = ऐतरेयब्राह्मण]] 
 
-श्राद्ध, दान etc. 
+कल्प., कल्पतरु. = कृत्यकल्पतरु of लक्ष्मीधर ( separate volumes on गृहस्थ, [[नयतकाल,|नैयतकाल,]] मोक्ष, व्रत etc.) ed. in G.O.S. 
+
+का. त. [[चि.|वि.]] = कालतत्त्वविवेचन 
+
+का. नि. = कालनिर्णय of माधवाचार्य 
+
+का वि. = कालविवेक of जीमूतवाहन 
+
+[[Pxxiii]]
+कृ. त. = कृत्यतत्त्व of रघुनन्दन 
+
+कृ. र., [[) =|कृत्यर. =]] कृत्यरत्नाकर of चण्डेश्वर (B. I. Series) 
+
+[[को.|कौ.]] ब्रा. = कौषीतकिब्राह्मण 
+
+गरुड = गरुडपुराण 
+
+गौ., गौ. ध. सू., गौतम [[) =|=]] गौतमधर्मसूत्र ( आनन्दाश्रम ed. with com. of हरदत्त) 
+
+[[|छा., छा. उ.]] = छान्दोग्योपनिषद् 
+
+जै.= पूर्वमीमांसासूत्र of जैमिनि ( आनन्दाश्रम ed.) 
+
+ति. त. = तिथितत्त्व of रघुनन्दन 
+
+तै. आ. = तैत्तिरीयारण्यक 
+
+[[बाबा|तै. उ., तै. उप.]] = तैत्तिरीयोपनिषद् 
+
+तै. ब्रा. = तैत्तिरीयब्राह्मण ( आनन्दाश्रम ed.) 
+
+तै. सं. = तैत्तिरीयसंहिता ( ed. by [[Randit|Pandit]] Satavalekar ) 
+
+दुर्गार्च०, [[) दुर्गार्चनः ।|दुर्गार्चन०]] = [[दुगोर्चनपद्धति|दुर्गार्चनपद्धति]] of रघुनन्दन 
+
+दु. भ. त. = दुर्गाभक्तितरङ्गिणी of विद्यापति (ed. at Darbhanga, 1900 ) 
+
+द्वै. नि. सि. सं. = द्वैतनिर्णयसिद्धान्तसंग्रह 
+
+ध. सि. = धर्मसिन्धु of काशीनाथ ( ed. of 1926, with Marathi [[trans lation|translation]] ) [[Nir,|Nir.]] ed. 
+
+नि. सि. = निर्णयसिन्धु ( with Marathi translation ) Nir. ed. 
+
+न्यायमञ्जरी = Kashi S. Series 
+
+पञ्चसि. = पञ्चसिद्धान्तिका of वराहमिहिर (ed. by Thibaut and Dwivedi ) 
+
+[[पद्म०, पद्मपु. 3|पद्म०, पद्मपु.]] = पद्मपुराण ( आनन्दाश्रम ed.) 
+
+परा. मा. = पराशरमाधवीय ( Bombay S. Series ) 
+
+पा. = [[पाणिनि'|पाणिनि's]] अष्टाध्यायी 
+
+[[Pxxiv]]
+पु. चि. = पुरुषार्थचिन्तामणि 
+
+प्राय. त. = प्रायश्चित्ततत्त्व of रघुनन्दन 
+
+प्राय. म. = प्रायश्चित्तमयूख of नीलकण्ठ 
+
+बृह. उ., बृह. उप. [[3 =|=]] बृहदारण्यकोपनिषद् 
+
+बृहत्सं. = बृहत्संहिता of वराहमिहिर (ed. by Kern, only text; by सुधाकर द्विवेदिन् , with com. of उत्पल. There is a [[diffe rence|difference]] of one chap. between the two editions ). 
+
+बृहद्योगि. = बृहद्योगियाज्ञवल्क्य (ed. by [[खामी|स्वामी]] कुवलयानन्द of Lonavla) 
+
+[[चौ.|बौ.]] गृ. = बौधायनगृह्यसूत्र 
+
+[[ब्रह्म ) है = ब्रह्मपुराण ( आनन्दाश्रम ed.) ब्रह्मपु.|ब्रह्म, ब्रह्मपु. = ब्रह्मपुराण ( आनन्दाश्रम ed.)]] 
+
+भविष्य = भविष्यपुराण 
+
+मद. पा. = मदनपारिजात ( B. I. Series ) 
+
+मनु = मनुस्मृति ( Nirn. ed.) 
+
+मार्क. = मार्कण्डेयपुराण (Venk. ed. and Cal. ed. differ by two or three chapters ) 
+
+मिता. = मिताक्षरा ( टीका on याज्ञ. स्मृति, Nirn. ed.) 
+
+मी. प. = मीमांसापरिभाषा of कृष्णयज्वन् (निर्णय. ed.) 
+
+[[भी. वा.|मी. बा.]] प्र. = मीमांसाबालप्रकाश of शङ्करभट्ट ( Chowkhamba Sanskrit Series) 
+
+मु. चि.= मुहूर्तचिन्तामणि 
+
+मेधा. = मेधातिथि's commentary on मनुस्मृति 
+
+मै. सं = मैत्रायणीसंहिता (ed. by Pandit [[Satavalekar|Sātavalekar]] ) 
+
+[[2 =|या., याज्ञ. =]] याज्ञवल्क्यस्मृति ( निर्णयसागर ed. with मिताक्षरा) 
+
+यो. सू. = योगसूत्र 
+
+रा. मा. = राजमार्तण्ड of भोज 
+
+व. क्रि. कौ. = वर्षक्रियाकौमुदी of गोविन्दानन्द ( B. I. ed.) 
+
+वन. = वनपर्व (of महाभारत) 
+
+[[Pxxv]]
+वराह. = वराहमिहिर or वराहपुराण acc. to context 
+
+वाज. सं. = वाजसनेयसंहिता (ed. by Pandit [[Satavalekar)|Sātavalekar)]] 
+
+[[वामन|वामन०]] = वामनपुराण 
+
+वि. दी. = विज्ञानदीपिका 
+
+वी. मि. = वीरमित्रोदय of मित्रमिश्र 
+
+वे. सू. = वेदान्तसूत्र of बादरायण with शाङ्करभाष्य (निर्णय. ed.) 
+
+व्य. म. = व्यवहारमयूख of नीलकण्ठ 
+
+[[व.|व्र.]] का. वि. = व्रतकालविवेक 
+
+व्रत. प्र., व्र. प्र. [[) है =|=]] व्रतप्रकाश, part of वीरमित्रोदय 
+
+शत. ब्रा., शतपथ [[) है -|=]] शतपथ ब्राह्मण ( ed. by Weber) 
+
+[[व शां. बा. = शाजायन|शां. ब्रा. = शाङ्खायन]] ब्राह्मण 
+
+शां. [[श्री.|श्रौ.]] = शाङ्खायन श्रौतसूत्र 
+
+[[शुद्धिको.|शुद्धिकौ.]] = शुद्धिकौमुदी of गोविन्दानन्द ( B. I. ed.) 
+
+श्वे. उप. = श्वेताश्वतरोपनिषद् 
+
+सं. [[को.|कौ.]] = संस्कारकौस्तुभ of अनन्तदेव ( Baroda ed. 1914) 
+
+स. प्र. = समयप्रकाश ( part of वीरमित्रोदय ) 
+
+स. म. = समयमयूख ( Gujarati Press ed.) 
+
+सि. कौ. = सिद्धान्तकौमुदी of भट्टोजिदीक्षित ( निर्णय. ed.) 
+
+स्कन्द. = स्कन्दपुराण (Venk. Press ed.) 
+
+[[स्मृतिको.|स्मृतिकौ.]] = स्मृतिकौस्तुभ of अनन्तदेव 
+
+स्मृतिच. = स्मृतिचन्द्रिका (ed. by Mr. Gharpure ) 
+
+ह. यो. प्र. [[-|=]] हठयोगप्रदीपिका 
+
+[[है.|हे.]] = हेमाद्रि, author of चतुर्वर्गचिन्तामणि ( B. I. ed.) on व्रत, काल, श्राद्ध, दान etc. 

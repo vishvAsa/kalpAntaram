@@ -69,22 +69,22 @@ One interesting fact about Govindarāja is that, though a northerner he permitte
 Dr. Jolly (Manutīkāsaṃgraha, preface page 1 and R. u. S. p. 31) and Dr. Buhler (S. B. E. vol. 25, p. cxxvii) assigned Govindarāja to the 12th or 13th century. But this date is not correct, as the following discussion will show. Kullūka (vide note 773 above) expressly says that Medhātithi is much earlier than Govindarāja. Though Medhātithi is nowhere expressly named in his commentary by Govindarāja[^907] the latter appears to have several times criticised Medhātithi. Another [[P662]] important circumstance is that, though the Mit. mentions Medhātithi and Bhojadeva as great authorities it is silent about Govindarāja. Hence it follows that Govindarāja could not have flourished earlier than Bhojadeva, i. e. earlier than about 1050 A. D. In the Hāralatā of Aniruddha (which as we shall see later on (must have been composed about 1160 A. D.), Govindarāja is quoted several times and is looked upon as a great authority like Viśvarūpa, Bhojadeva and Kāmadhenu.[^908] This shows that Govindarāja could not have flourished later than 1125 A. D. The Dāyabhāga[^909] (in *Duhitṛādhikāra*) disapproves of the view of Govindarāja who placed the daughter's son before married daughter as an heir. In his Kālaviveka[^910] also Jīmūtavāhana refers to Govindarāja in the same breath with Bhojarāja and Viśvarūpa. In his Vyavahāramātṛkā[^911] he refers to Mañjarīkāra as having held the same view as Viśvarūpa. Mañjarī here must be taken to be the Smṛtimañjarī of Govindarāja, since Jīmūtavāhana in his other works refers to Govindarāja, since Kullūka also speaks of the Mañjarī of Govindarāja (vide note 706 above) and since there is no other known ancient work of that name on dharmaśāstra. This shows that the Mañjarī comprised a discussion on *vyavahāra* also. Hemādri[^912] tells that the author of the work called Paṇḍitaparitoṣa refuted the views of Govindarāja on the performance of śrāddha on the 13th *tithi* by a man having a son. This shows that Govindarāja must have preceded Hemādri (who wrote in the latter half of the 13th century or by at least a century more. The [[P663]] Smṛtyarthasāra[^913] of Śrīdhara relies on the views of Govindarāja in its section on saṃnyāsa.
 
 [^907]:
-    On मनु III. 126 गोविन्दराज says ‘ यत्तु न वेदवैकं सर्वेषां पिण्डे व्याख्यातमिति गृह्यदर्शनात्, निमन्त्रयेत त्र्यवरान् ( मनु III. 187 ) इति चेहाभिधानात्, एकैकसुभयत्र वा इत्यस्य विस्तरप्रतिषेधाध्यवादत्वमाह तदसत् ; ’ मेधातिथि does quote the passage of the आश्वलायनगृह्य and the verse of मनु ( III. 187 ) ; on मनु I. 103 गोविन्दराज says ‘ यथार्थवादार्थत्वमस्य श्लोकस्य कैश्चिदुक्तं तदसिद्धार्थप्रतीतेः ( ? ) । यत्तु अर्धायीरंस्त्रयो वर्णाः ( मनु X. 1 ) इत्यादि स वेदविषयानुवाद इति व्याख्यास्यामः ’ ; मेधातिथि does take the verse as an अर्थवाद and says ‘ नात्र कश्चिद्विधिरस्ति ’ ; on मनु XI. 178 मेधातिथि says ‘ वृषल्यत्र चण्डाल्यभिप्रेता ’ and गोविन्दराज says ‘ यत्तु चण्डाल्यत्र वृषलीति व्याचक्षते तदसत् ’. Vide also गोविन्दराज on मनु 2. 201, 3. 160, 4. 119, 4. 222, 5. 134, 8. 293, 10. 28.
+    On मनु III. 126 गोविन्दराज says ' यत्तु न त्वेकं सर्वेषां पिण्डे व्याख्यातमिति गृह्यदर्शनात्, निमन्त्रयेत त्र्यवरान् ( मनु III. 187 ) इति चेहाभिधानात्, एकैकमभयत्र वा इत्यस्य विस्तरप्रतिषेधार्थवादत्वमाह तदसत् ; ' मेधातिथि does quote the passage of the आश्वलायनगृह्य and the verse of मनु ( III. 187 ) ; on मनु I. 103 गोविन्दराज says ' यथार्थवादार्थत्वमस्य श्लोकस्य कैश्चिदुक्तं तदसिद्धार्थप्रतीतेः ( ? ) । यत्तु अधीयीरंस्त्रयो वर्णाः ( मनु X. 1 ) इत्यादि स वेदविषयानुवाद इति व्याख्यास्यामः ' ; मेधातिथि does take the verse as an अर्थवाद and says ' नात्र कश्चिद्विधिरस्ति ' ; on मनु XI. 178 मेधातिथि says ' वृषल्यत्र चण्डाल्यभिप्रेता ' and गोविन्दराज says ' यत्तु चण्डाल्यत्र वृषलीति व्याचक्षते तदसत् ' . Vide also गोविन्दराज on मनु 2. 201, 3. 160, 4. 119, 4. 222, 5. 134, 8. 293, 10. 28.
 
 [^908]:
-    Vide note 777 above ‘ इति गोविन्दराजलिखितद्वदप्रचेतोवचनात् ’ हारलता p. 166 ; तद्गोविन्दराजविश्वरूपकामधेनुकारैर्न लिखितमिति अमूलमेव प्रतिभाति । हारलता p. 174.
+    Vide note 777 above ' इति गोविन्दराजलिखितवृद्धप्रचेतोवचनात् ' हारलता p. 166 ; तद्गोविन्दराजविश्वरूपकामधेनुकारैर्न लिखितमिति अमूलमेव प्रतिभाति । हारलता p. 174.
 
 [^909]:
     तथा गोविन्दराजेन मनुटीकायां—अपुत्रपौत्रसंताने पौत्रा दौहित्रिका मताः । एतद्विष्णुवचनबलेन ऊढातः प्रागेव दौहित्रस्याधिकारो दर्शितः । स चास्मभ्यं न रोचते । दायभाग.
 
 [^910]:
-    यद्यपि भोजराजविश्वरूपगोविन्दराजैर्यतया न लिखितानि तथाप्युपन्यस्य व्याख्यायन्ते । कालविवेक p. 304.
+    यद्यपि भोजराजविश्वरूपगोविन्दराजैर्ह्यतया न लिखितानि तथाप्युपन्यस्य व्याख्यायन्ते । कालविवेक p. 304.
 
 [^911]:
-    मञ्जरीकारस्यापि विश्वरूपसमानलक्षणतया समानमेव दर्शनम् । व्यवहारमातृका p. 317.
+    मञ्जरीकारस्यापि विश्वरूपसमानलक्षतया समानमेव दूषणम् । व्यवहारमातृका p. 347.
 
 [^912]:
-    पण्डितपारितोषकारस्त्विदं गोविन्दराजमतं प्रतिचिक्षेप ।...तस्मादविचारितमनोहरे गोविन्दराजव्याख्याने नातीवादरः कार्यः । चतुर्वर्ग० III. 2. p. 481.
+    पण्डितपरितोषकारस्त्विदं गोविन्दराजमतं प्रतिचिक्षेप ।...तस्मादविचारितमनोहरे गोविन्दराजव्याख्याने नातीवादरः कार्यः । चतुर्वर्ग० III. 2. p. 481.
 
 [^913]:
     संन्यासस्य विधिं कृत्स्नं प्रवक्ष्याम्यनुपूर्वशः । गोविन्दराजस्य मतं बौधायनमतं-यथा ॥ स्मृत्यर्थसार । p. 96.

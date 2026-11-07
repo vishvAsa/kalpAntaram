@@ -52,16 +52,16 @@ In the Ācāraprakāśa he quotes besides some of the works mentioned above the 
 jāta, Prāyaścittaviveka, Madanapārijāta, Śrīdatta (vide I. O. cat. p. 437 No. 1471).
 
 [^1457]:
-    विज्ञानेश्वरेणापि मानवसंवादायान्योदर्यस्तु संसृष्टी नान्योदर्यौ धनं हरेदिति पाठेन योगीश्वरवचनस्य यत्तदप्यावृत्यध्याहारादिना क्लिष्टमप्यनन्ताप्रतीयमानार्थकं स्वप्रज्ञाविलसितमात्रम् । वीर० p. 681; vide वीर० pp. 183, 668 for other criticisms of the मिताक्षरा.
+    विज्ञानेश्वरेणापि मानवसंवादायान्योदर्यस्तु संसृष्टी नान्योदर्यो धनं हरेदिति पाठेन योगीश्वरवचनस्य यत्तदप्यावृत्त्यध्याहारादिना क्लिष्टमत्यन्ताप्रतीयमानार्थकं स्वप्रज्ञाविलसितमात्रम् । वीर० p. 681; vide वीर० pp. 183, 668 for other criticisms of the मिताक्षरा.
 
 [^1458]:
-    अपरार्क, कल्पतरु, गोपाल, चण्डेश्वर, जीमूतवाहन, तात्पर्यपरिशुद्धि ( of उदयन ), दायतत्त्व, धारेश्वर, नयविवेक, पारिजात, पार्थसारथि, प्रकाश, प्रदीप, भवदेव, भवनाथ, मदनरत्न, माधवीय, मिताक्षरा, मेधातिथि, रघुनन्दन, रत्नाकर, लीलावती वाचस्पति, वादिभयङ्कर, विज्ञानयोगिन्, विद्यारण्य, व्यवहारतत्त्व, व्यवहारतिलक ( of भवदेव ), व्यवहारचिन्तामणि, शारदातिलक, शाखादीपिका, शूलपाणि, सोमेश्वर, स्मृतिचन्द्रिका, स्मृतितत्त्व, हलायुध.
+    अपरार्क, कल्पतरु, गोपाल, चण्डेश्वर, जीमूतवाहन, तात्पर्यपरिशुद्धि ( of उदयन ), दायतत्त्व, धारेश्वर, नयविवेक, पारिजात, पार्थसारथि, प्रकाश, प्रदीप, भवदेव, भवनाथ, मदनरत्न, माधवीय, मिताक्षरा, मेधातिथि, रघुनन्दन, रत्नाकर, लीलावती वाचस्पति, वादिभयङ्कर, विज्ञानयोगिन्, विद्यारण्य, व्यवहारतत्त्व, व्यवहारतिलक ( of भवदेव ), व्यवहारचिन्तामणि, शारदातिलक, शास्त्रदीपिका, शूलपाणि, सोमेश्वर, स्मृतिचन्द्रिका, स्मृतितत्त्व, हलायुध.
 
 [^1459]:
     Vide Giridharilal v. *The Bengal Government* 12 Moo. I. A. 448 at p. 466 (where following the Viramitrodaya the maternal uncle was held to be an heir as a *bandhu*); vide *Collector of Madura v. Mootoo Ramlinga* 12 Moo. I. A. 397 at p. 438.
 
 [^1460]:
-    *Moniram v. Keri Kolitani* I. L. R. 5 Cal. 776 (P. C.) at p. 789 where it was held that unchastity in the case of a widow subsequent to her inheriting her husband's property does not work forfeiture of her rights).
+    *Moniram v. Keri Kolitani* I. L. R. 5 Cal. 776 (P. C.) at p. 789 where it was held that unchastity in the case of a widow subsequent to her inheriting her husband's property does not work forfeiture of her rights.
 
 [^1461]:
     I. L. R. 25 Cal. 354 at pp. 367–368.
@@ -73,10 +73,10 @@ jāta, Prāyaścittaviveka, Madanapārijāta, Śrīdatta (vide I. O. cat. p. 437
     I. L. R. 44 Mad. 753 (P. C.) at p. 764 = L. R. 48 I. A. p. 349.
 
 [^1464]:
-    इदं च विवाहवाक्ये मातृशब्दस्य पूर्वनिपातात् पित्रपेक्ष्या वैमात्रेयजनकत्वेनासाधारणप्रयासतिसद्भावेति मिताक्षरालिखितं चिन्त्यम् । vide व्यवहारप्रकाश of the Viramitrodaya ( Chow. S. Series, 1932, pp. 522–24 ) which strongly opposes the Mit. and ends with the words 'पितरावित्यत्र पितॄन् प्राह मातुः पुत्रवन् विकारं सिद्धान्तयतो महतैव हृदयशून्यता प्रतिभाति' ( p. 524 ); vide p. 603 of the Ṭīkā of Mitramiśra on Yāj. II. 135; compare वीरमित्रोदय p. 666 ( Jivananda ) where Mitramiśra is apologetic about the same reasons of the Mit.
+    इदं च विग्रहवाक्ये मातृशब्दस्य पूर्वनिपातात् पित्रपेक्षया वैमात्रेयजनकत्वेनासाधारणप्रत्यासत्तिसत्त्वाच्चेति मिताक्षरालिखितं चिन्त्यम् । vide व्यवहारप्रकाश of the Viramitrodaya ( Chow. S. Series, 1932, pp. 522–24 ) which strongly opposes the Mit. and ends with the words 'पितरावि-त्यत्र पितॄन् प्राह मातुः पुत्रवन्नधिकारं सिद्धान्तयतो महत्येव हृदयशून्यता प्रति-भाति ।' ( p. 524 ); vide p. 603 of the Ṭīkā of Mitramiśra on Yāj. II. 135; compare वीरमित्रोदय p. 666 ( Jivananda ) where Mitramiśra is apologetic about the same reasons of the Mit.
 
 [^1465]:
-    दासी पुरुषविशेषेण विवाहापरिगृहीता । सा च त्रिविधा । एकेन पुरुषेण स्वभोगार्थ पुरुषान्तरभोगतो निषिद्धा मुख्या, वेश्या चेति । मुख्याश्च स्वामिनियतपुरुषान्तरभोगविषया स्वपरिचर्याकारिणी । p. 735 of the edition of Yāj. with Mit. and Vīramitrodaya ( Chowkhamba S. Series, 1928 ).
+    दासी पुरुषविशेषेण विवाहायपरिगृहीता । सा च त्रिविधा । एकेन पुरुषेण स्वभोगार्थं पुरुषान्तरभोगतो निरुद्धा भुजिष्या वेश्या चेति । भुजिष्या च स्वामिनियतपुरुषान्तरभोगविषया स्वपरिचर्याकारिणी । p. 738 of the edition of Yāj. with Mit. and Vīramitrodaya ( Chowkhamba S. Series, 1928 ).
 
 In the introductions to the several sections of his digest and also in the colophons therein Mitramiśra furnishes considerable information about himself, his family and the family of his patron. Mitramiśra was the son of Paraśurāmapaṇḍita and grandson of Haraśarmapaṇḍita. Haraśarmapaṇḍita seems to have been a native of Gopācala (Gwalior) and was endowed with the rare combination of wealth and learning. One Caṇḍeśvara of Kāśī was the *guru* of Paraśurāmapaṇḍita. Mitramiśra indulges in hyperbolic[^1466] descriptions of his own learning and naively tells his readers that they need study only his work and may neglect all other *nibandhas*. Mitramiśra was commanded by Virasiṁha to compose his great digest.[^1467] The introduction to the Āhnikaprakāśa starts with king Medinimalla who was a scion of the Kāśīrāja family. His son was Arjunadeva who became ruler of Bundelkhand. His son was Malakhāṇa, whose son was Pratāparudra (founder of the capital Orchha). In the commentary of Mitramiśra on the Vyavahāra section of Yāj. Smṛti the second verse begins 'अशेष विप्रप्रसृतानुवित्ति विदुषां...' i.e. the capital is called अवन्तिपुर (or उज्जयिनी). His son was Madhukaraśāha, whose son was Virasiṁha. Vide Dept. of Letters, Calcutta University, vol. XIII for a paper on Bir Singh Deo by Mr. Lala Sitaram, (pp. 1–34) and a paper on 'Nīlakaṇṭha and Mitramiśra' in Calcutta Review vol. LVI (for July–September) for 1935 pp. 147–56. Virasiṁha's son was[^1468]
 
@@ -91,7 +91,10 @@ Jujhāra who is described as 'young' (*yuvā* in verse 23). His son was Vikramā
     धर्माधर्मसमस्तनिर्णयविधिर्यस्मिन्दरीदृश्यते ॥ Verse 37 in परिभाषाप्रकाश; verse 39 of आह्निकप्रकाश.
 
 [^1467]:
-    स्वस्ति श्रीयुतवीरसिंहनृपतेराज्ञावशादुत्सुकः श्रीमित्राभिधपण्डितः प्रतिदिशं कीर्यान्निशं मण्डयन् । नानानिर्णयवर्णनव्यसनिनां संख्यावतां प्रीतिदं संप्राप्यव्यवहारसाधकमिमं कुर्वे प्रकाशं परम् ।। and Intro. verse to व्यवहारप्रकाश ( Jivananda ).
+    स्वस्ति श्रीयुतवीरसिंहनृपतेराज्ञावशादुत्सुकः
+    श्रीमित्राभिधपण्डितः प्रतिदिशं कीर्त्यानिशं मण्डयन् ।
+    नानानिर्णयवर्णनव्यसनिनां संख्यावतां प्रीतिदं
+    संप्राप्तव्यवहारसाधकमिमं कुर्वे प्रकाशं परम् ॥ and Intro. verse to व्यवहारप्रकाश ( Jivananda ).
 
 [^1468]:
     राज्यं प्राप्य जुझारसिंहनृपतिर्यस्याग्रतो भूपते-
@@ -118,7 +121,7 @@ kāra, Āhnika, Pūjā, Lakṣaṇa, Rājanīti, Tīrtha, Vyavahāra, Śrāddha,
 The Paribhāṣāprakāśa (a small part extending to 116 printed pages) describes the genealogy of the family to which[^1471] Virasiṁha belonged. Then mentions Haraśarmapaṇḍita, who belonged to a brāhmaṇa family of Gopācala (i. e. modern Gwalior) whose son was Paraśurāma (verse 30, whose teacher was Caṇḍīśvara, verses 30–31), whose son was Mitramiśra (verse 32) who became a great favourite of king Virasiṁha (v. 35) by whose order the work (called Vīramitrodaya) was composed by Mitramiśra (v. 36); twenty-two parts e. g. *prakāśas* were composed by Mitramiśra. They are: Paribhāṣā, Saṁskāra, Āhnika, Pūjā, Pratiṣṭhā, Rājadharma, Vyavahāra, Śuddhi, Śrāddha, Tīrtha, Dāna, Vrata, Samaya, Jyotiṣ, Śānti, Karmavipāka, Cikitsā, Prāyaścitta, Prakīrṇaka, Lakṣaṇa, Bhakti, Mokṣa. Eleven (excluding Saṁskāra) cover about 4500 printed pages. The 22 parts must have covered about two lakhs of ślokas (each of 32 syllables) i. e. they came to double of the Mahābhārata in extent. Among those published in the Chowkhamba series, six cover about 500 or more printed pages each viz. those on Saṁskāra, Āhnika, Lakṣaṇa, Rājanīti, Tīrtha, Vyavahāra. The Vyavahāraprakāśa is a large work; it deals with legal procedure (viz. plaint, reply, evidence, witnesses, documents, possession; oaths and ordeals); the eighteen titles of law (from ṛṇādāna to Dāyabhāga) i. e. it deals with both substantive law and adjective law. In the Vyavahāraprakāśa he quotes and discusses numerous works
 
 [^1469]:
-    Chowkhamba Sk. Series, ed. of the Com. on p. 387 'विवृतं मत्वाप्यसारं वितरदविरतं याज्ञवल्क्योक्तिसुक्त्वा वारं स्मृत्यर्थसारं रचयितुमथ स प्रादिशन्मित्रमिश्रम् । उत्तंसस्तीरमुक्तेरखिलबुधगुरुः श्रीसदानन्दधीमान् श्रीभाजो मित्रमिश्राज्जगदुपकृतये विब्रुददेशादीपम् ।। ज्ञानानां दैन्यदोषापहमकलिमयं याज्ञवल्क्योक्तिकोशाद् इष्ट्वा स्मृत्यर्थसारं समचिनुत यशो धर्मलक्ष्मीविहारम् ।' verses 15 and 16.
+    Chowkhamba Sk. Series, ed. of the Com. on p. 387 'वृत्तं मत्वाप्यसारं वितरदविरतं याज्ञवल्क्योक्तिमुक्त्वा वारं स्मृत्यर्थसारं रचयितुमथ स प्रादिशन्मित्रमिश्रम् । उत्तंसस्तीरभुक्तेरखिलबुधगुरुः श्रीसदानन्दधीमान् श्रीभाजो मित्रमिश्राज्जगदुपकृतये विप्रदादेशादीपम् ॥ ज्ञानानां दैन्यदोषापहमकलिमयं याज्ञवल्क्योक्तिकोशाद् दृष्ट्वा स्मृत्यर्थसारं समचिनुत यशो धर्मलक्ष्मीविहारम् ।' verses 15 and 16.
 
 [^1470]:
     शाके साष्टगजर्तुभूपरिमिते ह्यांनन्दकन्दाभिधां चम्पूं पूरितवान्सितसरतिथौ श्री-मित्रमिश्रः कृती । On p. 7 of the Sanskrit Introduction by the editor. The year called Śaka here comes to 1688. But here Śaka cannot be taken to be the Śālivāhana Śaka (as the year then would be 1766 A. D.) which is impossible to equate with Mitramiśra being a pandit patronized by Vīrasiṁhadeva. If we held it to be the Vikrama reckoning then only can he be the patron (Vikrama 1688 would be 1631–32 A. D.). In north India the era used for many centuries has been that of Vikrama alone, the Śālivāhana era called Śaka being confined to the Deccan and countries to the south.
@@ -166,7 +169,7 @@ of 'bhakti' (the verse is quoted below)[^1479] and dilates on them in pp. 31–1
 In the Vyaṅgyārtha-kaumudī of Anantāśrama[^1480] of Puṇyastambha (Puṇṭāmbe) on the Godāvarī, a commentary on the Rāsamāñjarī of Bhanudatta, the author gives a pedigree of his patron. He describes the Kāśīrāja family at Benares, in which was born Pratāparudra whose son was Madhukaraśāha, whose son was Virasiṁhadeva. Ananta wrote the commentary for Candrabhānu, a son of Virasiṁhadeva, in 1635 A. D. This corroborates the dates above given by Mr. Lala Sitaram. Therefore it is almost beyond doubt that the literary activity of Mitramiśra lies between 1610 and 1640 A. D.
 
 [^1475]:
-    यावदस्थि मनुष्यस्य गङ्गातोयेषु तिष्ठति । तावदब्दसहस्राणि स्वर्गलोके महीयते ।। दर्शनात्स्पर्शनात् पानात् तथा गङ्गेति कीर्तनात् । पुनात्यपुण्यान् पुरुषान् शतशोऽथ सहस्रशः ।। अनुशासन 26, 32 and 61.
+    यावदस्थि मनुष्यस्य गङ्गातोयेषु तिष्ठति । तावद्वर्षसहस्राणि स्वर्गलोके महीयते ।। दर्शनात्स्पर्शनात् पानात् तथा गङ्गेति कीर्तनात् । पुनात्यपुण्यान् पुरुषान् शतशोऽथ सहस्रशः ।। अनुशासन 26, 32 and 61.
 
 [^1476]:
     दैवस्य नामान्तराण्याह व्यासः । विधिर्विधाता नियतिः स्वभावः कालो ग्रहा ईश्वरकर्म दैवम् । भाग्यानि पुण्यानि कृतान्यथान्याः पर्यायनामानि पुराकृतस्य ॥ इति । द्वयोः स्वरूपमाह स एव । दैवमात्मकृतं विद्यात्कर्म यत्पौर्वदेहिकम् । स्मृतः पुरुषकारस्तु क्रियते यदिहापरम् ॥ राजनीतिप्रकाश p. 315.
@@ -175,10 +178,10 @@ In the Vyaṅgyārtha-kaumudī of Anantāśrama[^1480] of Puṇyastambha (Puṇ�
     यस्य हस्तौ च पादौ च मनश्चैव सुसंयतम् । विद्यातपश्च कीर्तिश्च स तीर्थफलमश्नुते ॥ वनपर्व 82. 8, शङ्खस्मृति 9.15 ( quoted in स्मृतिच I. p. 133, Gharpure's ed. ). वनपर्व 82. 10 is प्रतिग्रहादपावृत्तः सन्तुष्टो येनकेनचित् । अहंकारनिवृत्तश्च स तीर्थफलमश्नुते ।
 
 [^1478]:
-    मोक्षस्वरूपप्रतिपादनं, वानप्रस्थविधि, वानप्रस्थधर्म, संन्यासाश्रम, यतिधर्माः, यतिसंस्काराः, वैराग्यहेतवः, तत्त्वज्ञानस्य साधनानि, जगत्सृष्टि, त्वंपदार्थनिरूपणं तत्त्वंपदार्थाभेदरूपमहावाक्यार्थः, प्रपञ्चमिथ्यात्वनिरूपणं, जगत्सृष्टित्वंपदार्थनिरूपणं, तत्-एवं पदार्थाभेदरूपमहावाक्यार्थः, प्रपञ्चमिथ्यात्वनिरूपणे, सांख्योपाय, योगप्रकरण, ज्ञानि ( स्थितप्रज्ञ ) लक्षण, जीवन्मुक्ति, चित्तवृत्तिधारणा, अचिरादिगति । It quotes at the beginning a passage from the Mārkaṇḍeyapurāṇa and winds up with two verses from the Gītā ( VIII. 26–27 ) and briefly explains them.
+    मोक्षस्वरूपप्रतिपादनं, वानप्रस्थविधि, वानप्रस्थधर्म, संन्यासाश्रम, यतिधर्माः, यतिसंस्काराः, वैराग्यहेतवः, तत्पदार्थनिरूपणं, जगत्सृष्टि, त्वंपदार्थनिरूपणं तत्-त्वं-पदार्थाभेदरूपमहावाक्यार्थः, प्रपञ्चमिथ्यात्वनिरूपणं, जगत्सृष्टित्वंपदार्थनिरूपणं, तत्-त्वं पदार्थाभेदरूपमहावाक्यार्थः, प्रपञ्चमिथ्यात्वनिरूपणे, मोक्षोपाय, योगप्रकरण, ज्ञानि ( स्थितप्रज्ञ ) लक्षण, जीवन्मुक्ति, चित्तवृत्तिधारणा, अचिरादिगति । It quotes at the beginning a passage from the Mārkaṇḍeyapurāṇa and winds up with two verses from the Gītā ( VIII. 26–27 ) and briefly explains them.
 
 [^1479]:
-    The Introductory verses of Bhaktiprakāśa are quoted here : एक एवेश्वरोऽनेकरूपास्तनूः संप्रगृह्यार्तिभये मुक्तिसिद्धये भजे ।। सकलभवनिवृत्तं चित्तमेतन्नयसात् । श्रवणमननकर्मानुष्ठितिः स्यान्न तस्मात् ।। विषयकृतनिविषादो नापि सोढुमशक्यः । हरिपदभजनं तन्निवृत्त्यै कुर्मः ।। साधनभक्तिस्तु नवधा विहिता । " श्रवणं कीर्तनं विष्णोः स्मरणं पादसेवनम् । अर्चनं वन्दनं दास्यं सख्यमात्मनिवेदनम् । इति पुंसार्पिता विष्णोर्भक्तिश्चेन्नवलक्षणा । क्रियते भगवद्भक्ता तन्मन्येऽधीतमुत्तमम् ।। p. 30 of भक्तिप्रकाश.
+    The Introductory verses of Bhaktiprakāśa are quoted here : एक एवेश्वरोऽनेकरूपास्तनूः संप्रगृह्यार्तियुक्त्यै मुक्तिसिद्धये भजे ॥ सकलभवनिवृत्तं चित्तमेतन्नयस्मात् । श्रवणमननकर्मानुष्ठितिः स्यान्न तस्मात् ॥ विषयकृतविषादो नापि सोढुमशक्यः । हरिपदभजनं तन्निवृत्त्यै कुर्मः ॥ साधनभक्तिस्तु नवधा विहिता । " श्रवणं कीर्तनं विष्णोः स्मरणं पादसेवनम् । अर्चनं वन्दनं दास्यं सख्यमात्मनिवेदनम् । इति पुंसार्पिता विष्णोर्भक्तिश्चेन्नवलक्षणा । क्रियते भगवत्यद्धा तन्मन्येऽधीतमुत्तमम् ॥ p. 30 of भक्तिप्रकाश.
 
 [^1480]:
     Vide I. O. cat. p. 356 No. 1224.

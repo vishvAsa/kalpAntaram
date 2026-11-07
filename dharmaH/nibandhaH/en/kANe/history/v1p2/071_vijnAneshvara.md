@@ -101,7 +101,7 @@ King Vikramāditya VI of the Cālukya dynasty with his capital at Kalyāṇa (or
 [^826]:
     Vide Bombay Gazetteer vol. I part 2 pp. 446-47 & 455.
 
-    Chikkavaḍavāṭṭi is in the Mundargi Petha of the Dhārwār District. It is inscribed on a slab built into the wall of Kalameśvara temple. Vide ‘Indian Culture’, Vol. IV, for 1937 pp. 43-52 on Cālukyas and their political relations with the contemporary Northern States.
+    Chikkavaḍavaṭṭi is in the Mundargi Peṭha of the Dhārwār District. It is inscribed on a slab built into the wall of Kalameśvara temple. Vide ‘Indian Culture’, Vol. IV, for 1937 pp. 43-52 on Cālukyas and their political relations with the contemporary Northern States.
 
 [[P608]]
 
@@ -147,7 +147,7 @@ really extended from the Western to the Eastern Deccan as prayed for in the pa�
 Two inscriptions have been relied upon by some writers in connection with Vijñāneśvara. The Mutgi Inscription cited in E. I. volume 15 pp. 26-32 is in two parts and contains two dates. The first date is Cālukya Vikrama year 4 (i. e. 1079 A. D.) in which a gift was made to the temple of Rāmeśvara, the trustee being Yogeśvara-paṇḍita, the Śiṣyaparamparā being as follows: Bhujangadaṭṭasya Tri-locanadeva, Śiṣya Bālasūryārya, his pupil Kāśimīra paṇḍita-deva, his śiṣya Bhairavapaṇḍitadeva, śiṣya Yogeśvara-Paṇḍita-deva (to whom the gift was entrusted). The second date is Cālukya Vikrama year 35 (i. e. 1110 A. D.), where another gift to the same temple was made and the trustee was Acalēśvara-Paṇḍitadeva, who was the disciple of Yogeśvara Paṇḍitadeva. In this there is hardly anything positive to show that Yogeśvara-paṇḍita is the same as Vijñāneśvara, author of the Mitākṣarā. The Martur[^828] inscription of Cālukya Vikrama year 48 (i. e. 1124 A. D.) mentioned by Mr. P. B. Desai in the Karnatak Historical Review (Vol. II No. 1 p. 48) has not yet been published. I learn on inquiry that in this record it is stated that Rāma, Soma, Morsing and Bīraja were the sons of Kambha and Ketikabbe(?), that Kamcha himself was the son of Somarāja of Maseyamāḍu in Aṭṭali-nāḍu and his wife Bhāgyavāni(?) and that he belonged to the Kauśikagotra. In the latter part the record states that Bibiraja (who was said a few lines before to have been one of the sons of Kamcha) was the son (Maga) of Vijñāneśvara Bhaṭṭārakadeva; so it follows that Kamcha and Vijñāneśvara-bhaṭṭāraka were one and the same person. It may be mentioned that the Inscription states that Vijñāneśvara was the *paramāradhya* (i. e. most revered one) of the ruling king Vikramāditya. It is quite likely that this Vijñāneśvara = Bhaṭṭāraka was the same as the Vijñāneśvara of the Mitākṣarā. But there is no convincing
 
 [^828]:
-    I am highly obliged to Dr. G. S. Gai, Govt. Epigraphist at Ootacamund, for communicating to me the details of the yet unpublished Martur Inscription.
+    I am highly obliged to Dr. G. S. Gai, Govt. Epigraphist at Ootacamund, for communicating to me the details of the yet unpublished Martur Inscriptions.
 
 [[P613]]
 

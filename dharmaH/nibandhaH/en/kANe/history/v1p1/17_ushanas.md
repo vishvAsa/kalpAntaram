@@ -49,7 +49,7 @@ There are about 45 verses in the work, the 7th and last chapter being almost ent
 
 [^244]: The ms. reads ‘ दश स्थानानि दण्डस्य चात्मनो ( तन्मनो? ) रनुशासनम् । त्रिषु वर्णेषु सामान्यं ब्राह्मणस्त्वक्षतो भवेत् ॥ ’ ; while मनु ( 8. 124 ) दश...दण्डस्य मनुः स्वायंभुवोऽब्रवीत् । त्रिषु वर्णेषु यानि स्युरक्षतो ब्राह्मणो व्रजेत् ॥
 
-[^245]: The ms. reads येन येन हि चण्डेन ( चिद्रेण? ) हिंस्याच्छ्रेष्ठांसमनत्यजः (?) तदेव तस्य छेत्तव्यं छिन्ने निविवेशो भवेत् ॥ ; in मनु ( 8. 279 ) the last pāda is तन्मनोरनुशासनम् . 
+[^245]: The ms. reads. येन येन हि चण्डेन ( चिदङ्गेन ? ) हिंस्याच्छ्रेयांसमन्त्यजः । तदेव तस्य छेत्तव्यं छिन्ने निर्विषहो भवेत् ॥ ; in मनु ( 8. 279 ) the last pāda is तन्मनोरनुशासनम् . 
 
 [[P269]]
 
@@ -57,11 +57,11 @@ close resemblance to the versified *smṛti* on many points, e. g. the prose pas
 
 The Auśanasa-dharmasūtra contains several passages in prose which are the same as some verses in Manu.[^246] The sūtra quotes in one place the divergent views of Vasiṣṭha,[^247] Hārita, Śaunaka, and Gautama on the question whether a brāhmaṇa could marry a śūdra woman. The view of Vasiṣṭha ( as quoted in the ms. ) is that a Brāhmaṇa could take to wife girls of all the four castes, but in the printed text of Vasiṣṭha ( I. 24 ) a Brāhmaṇa is allowed to marry girls of three higher castes only. It is possible that the ancient reading of Vasiṣṭha’s text was ‘ catasraḥ ’ ( as quoted in the Auśanasa ) which was changed into ‘ tisraḥ ’. The passage reminds us of Manu III. 16 ( Śūdrāvedi patatyatreḥ ), but the views ascribed to [[Suunaka|Śaunaka]] and Gautama in the ms. differ from those ascribed to [[thein|them]] in Manu. In another passage Vasiṣṭha’s views seem to be quoted.[^248]
 
-[^246]: The ms. has ( in chap. II ) रहःसु स्त्रीमुखं शुचिः । शुचयः फलपातने पक्षिणः । प्रसवे वत्सः । शृङ्गः ( मृग? ) ग्रहणे श्वा । ऊर्ध्वं नाभेः पुरुषः । गौर्मेध्या पृष्ठतः । पुरस्तादजः । स्त्रियः सर्वतः । हृदयमासामशुचि । Compare मनु I. 92, बौ. ध. सू. 1. 5. 49 and वसिष्ठ 3. 45.
+[^246]: The ms. has ( in chap. II ) रहःसु स्त्रीमुखं शुचिः । शुचयः फलपातने पक्षिणः । प्रसवे वत्सः । शृङ्गः ( मृग ? ) ग्रहणे श्वा । ऊर्ध्वं नाभेः पुरुषः । गौर्मेध्या पृष्ठतः । पुरस्तादजः । स्त्रियः सर्वतः । हृदयमासामशुचि । Compare मनु I. 92, बौ. ध. सू. I. 5. 49 and वसिष्ठ 3. 45.
 
 [^247]: The ms. ( chap. IV ) has पतितो वृषलीपतिरित्याचक्षते । न पततीत्येके । ब्राह्मणस्य कल्पविहिताश्चतस्रो—( स्रो )नुपूर्वेण भार्या भवन्तीति वसिष्ठ आह । पतति न पततीति संशयः । वृषलीं पतीति ( वृषलीं गत्वा पततीति? ) हारीतः, जननात्पततीति शौनकः । तदपत्यः पततीति गौतमः । The words of वसिष्ठ are तिस्रो ब्राह्मणस्य भार्या वर्णानुपूर्वेण द्वे राजन्यस्य एकैका वैश्यशूद्रयोः । शूद्रामप्येके मन्त्रवर्जं तद्वत् । तथा न कुर्यात् । I. 24-26. It should be noted that one ms. of वसिष्ठ omits the words ‘ वर्णानु...कुर्यात् ’.
 
-[^248]: यस्तु पुनर्ब्राह्मणो धर्मपत्नीमुखेन मैथुनं सेवेत स दुष्यतीति वैवस्वतः ( वै वसिष्ठः? ) प्राजापत्येन शुध्यतीति हारीतः ( chap. 4 ) ; compare वसिष्ठ 12. 23. and Manu XI. 67 and 173. The reading वैवस्वतः also is explicable. वैवस्वत may stand for मनु. 
+[^248]: यस्तु पुनर्ब्राह्मणो धर्मपत्नीमुखेन मैथुनं सेवेत स दुष्यतीति वैवस्वतः ( वै वसिष्ठः ? ) प्राजापत्येन शुध्यतीति हारीतः ( chap. 4 ) ; compare वसिष्ठ 12. 23. and Manu XI. 67 and 173. The reading वैवस्वतः also is explicable. वैवस्वत may stand for मनु. 
 
 From [[quotatious|quotations]] in Haradatta’s commentary on Gautama and from the Smṛticandrikā it appears that they had access to a sūtra work of Uśanas dealing with all branches of
 
@@ -73,7 +73,7 @@ In Jivananda’s collection of smṛtis there is an [[Auśanasa dharmaśāstra|A
 
 In the same collection ( part I. pp. 501-544 ) there is another smṛti ascribed to [[Usapas|Uśanas]] in 9 chapters and about 600 verses. It treats of Upanayana, daily observances like [[ācamuna|ācamana]], Vedic study, occasions of [[unadhyāya|anadhyāya]], the dharmas of [[snātuka|snātaka]] ; śrāddha, proper Brāhmaṇas for [[brāddha|śrāddha]], impurity on birth and death, rites after death, prāyaścittas for the mortal sins and lesser sins. 
 
-[^249]: The passages are ‘ तत्र गोमयोदकैर्भूमिभाजनभाण्डशौचं कुर्यात् ’ ( chap. V. about śrāddha ) and श्वविड्वराहमार्जारकुक्कुटनकुलशूद्रजस्वलाश्वद्राभर्तारश्च दूरमननपायितव्याः ( ० मपनेतव्याः? ). They occur in स्मृतिचन्द्रिका ( p. 409 and p. 411. )
+[^249]: The passages are ‘ तत्र गोमयोदकैर्भूमिभाजनभाण्डशौचं कुर्यात् ’ ( chap. V. about śrāddha ) and श्वविड्वराहमार्जारकुक्कुटनकुलशूद्ररजस्वलाशूद्राभर्तारश्च दूरमनपायितव्याः ( ० मपनेतव्याः ) . They occur in स्मृतिचन्द्रिका ( I. p. 409 and p. 411. )
 
 [^250]: एतेषां च वृत्तय औशनसे मानवे च द्रष्टव्याः । मिता.
 

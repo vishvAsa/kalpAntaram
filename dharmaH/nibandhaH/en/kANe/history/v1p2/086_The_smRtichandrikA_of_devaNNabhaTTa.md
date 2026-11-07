@@ -9,7 +9,7 @@ title = "086 The Smṛticandrikā of Devanna Bhaṭṭa"
 
 The *Smṛticandrikā* published by Mr. Gharpure is a huge work of large size covering about 736 pages on the topics of some *saṁskāras* (88 pages), *Āhnika* (144 pages), *Vyavahāra* (332 pages), and *Śrāddha* (172 pages). According to the colophons at the end of the sections, it appears that the author was called Devanna-bhaṭṭopādhyāya, son of Keśavāditya-bhaṭṭopādhyāya. The fifth introductory verse asserts that all that he writes is based on authoritative texts and that he has stated nothing purely relying on his own ideas (or imagination).[^1066]
 
-[^1066]: स्वाभिप्रायेण हि मया न किञ्चिदिह लिख्यते । किं तु वाचनिकं सर्वमतो ग्राह्यैव निर्भयैः ।। 5th Intro. verse. ग्राह्या referring to the word स्मृतिचन्द्रिका in the preceding line.
+[^1066]: स्वाभिप्रायेण हि मया न किञ्चिदिह लिख्यते । किं तु वाचनिकं सर्वमतो ग्राह्यैव निर्भयैः ॥ 5th Intro. verse. ग्राह्या referring to the word स्मृतिचन्द्रिका in the preceding line.
 
 [[P738]]The *Smṛticandrikā* is a very extensive digest. It is almost the earliest (except the *Kalpataru*) among digests on dharmaśāstra of which mss. have yet been discovered. The printed text deals with the topics (*kāndas*) of *Saṁskāra*, *Āhnika*, *Vyavahāra*, *Śrāddha*, *Āśauca*. It appears that he wrote on *prāyaścitta* also. In the colophons of mss. of the work the name of the author is variously written as Devaṇṇa, Devana, Devananda or Devagaṇa (vide I. O. Cat. pp. 405–406). He is also described therein as the son of Keśavādityabhaṭṭa and as a *Somayājī*.
 
@@ -33,13 +33,13 @@ The contents of the *Smṛticandrikā* are: various Dharmas, such as those of *v
 
 [^1071]: व्याख्यातं चान्यथा विज्ञानेश्वरपादैः । मातरि पूर्वं प्रमीतायां ... पक्षिणीं क्षिपेदिति । स्मृतिच० (आशौच p. 64). This is a quotation from मिताक्षरा on याज्ञ. III. 20.
 
-[^1072]: न च दायशब्देन यद्धनं स्वामिसंबन्धादेव निमित्तादन्यस्य स्वं भवति तदुच्यत इति दायादिशब्दनिरूपणार्थ मिताक्षरायामुक्त युक्तम् । एवं हि पत्युः स्वं पतिसंबन्धादेव निमित्तात्पत्नीस्वं भवतीति तस्यापि दायत्वापत्तिः । ततश्च अदायाः स्त्रिय इति श्रुति विरोधो दुर्वारः स्यात् । अस्मन्मते तु विभागार्ह स्वं स्वामिसंबन्धादेव निमित्तादन्यस्य स्वं भूतं दायशब्दार्थ इति विभागानर्ह पत्नीस्वं न दायः । स्मृतिच० II. pp. 267–268.
+[^1072]: न च दायशब्देन यद्धनं स्वामिसंबन्धादेव निमित्तादन्यस्य स्वं भवति तदुच्यत इति दायादिशब्दनिरूपणार्थं मिताक्षरायामुक्तं युक्तम् । एवं हि पत्युः स्वं पतिसंबन्धादेव निमित्तात्पत्नीस्वं भवतीति तस्यापि दायत्वापत्तिः । ततश्च अदायाः स्त्रिय इति श्रुति-विरोधो दुर्वारः स्यात् । अस्मन्मते तु विभागार्हं स्वं स्वामिसंबन्धादेवं निमित्तादन्यस्य स्वं भूतं दायशब्दार्थ इति विभागानर्हं पत्नीस्वं न दायः । स्मृतिच० II. pp. 267–268.
 
 [^1073]: एवं च दुहितृषु संतानमुखेनादृष्टोपकारसंबन्धनासन्नता । स्मृतिच० II. p. 295.
 
 [^1074]: च शब्देन सूचितस्य दौहित्रस्यानन्तरमेव मातापितरौ समसमये धनभाजौ तयोर्वान्तरक्रमन्यायाभावादित्यवगन्तव्योभिप्रायः । अन्यैः पुनरन्यथोत्प्रेक्षितम् । पिता सपत्नीपुत्रेष्वपि साधारणः &c. स्मृतिच० II. p. 297 ; vide note 825 above for the full quotation.
 
-[^1075]: सर्वलोकहितार्थाय क्रियते स्मृतिचन्द्रिका । स्वाभिप्रायेण हि मया न किञ्चिदिह लिख्यते । किं तु वाचनिकं सर्वमतो ग्राह्यैव निर्भयैः ।। Intro. verses.
+[^1075]: सर्वलोकहितार्थाय क्रियते स्मृतिचन्द्रिका । स्वाभिप्रायेण हि मया न किञ्चिदिह लिख्यते । किं तु वाचनिकं सर्वमतो ग्राह्यैव निर्भयैः ॥ Intro. verses.
 
 As the *Smṛticandrikā* names the Mit., Aparārka and *Smṛtyarthasāra*, its upper limit cannot be placed earlier than 1150 A. D.
 
@@ -49,6 +49,6 @@ As the *Smṛticandrikā* names the Mit., Aparārka and *Smṛtyarthasāra*, its
 
 [^1077]: यत्तु महाभारते दानधर्मेषु-ज्ञातीनां तु भवेच्छ्रेष्ठः कुर्वन् श्राद्धं त्रयोदशीम् । नावश्यं तु युवानोस्य प्रमीयन्ते नरा गृहे ॥ -इति पुत्रमरणरूपस्य दोषस्यापस्तम्बाद्युक्तस्य निराकरणं कृतं तदपि नात्यन्तकृतम् । ...यत्त्ववश्यं न म्रियन्त एवेति स्मृतिचन्द्रिका-कारस्य व्याख्यानं तदयुक्तम् । चतुर्वर्ग० (काल) vol. III. 2. p. 482; the स्मृतिच० does quote the text of the महाभारत and remarks, ‘अवश्यं निश्चितं न म्रियन्त इत्यर्थः ।’ p. 369. The passage is found in Anuśāsana 87. 16 (Bombay edition) and is read as ‘avaśyaṁ tu yuvānosya’ &c.
 
-[^1078]: यन्निगमस्मरणं-अपरपक्षे यदहः संपद्येताममावास्यायां विशेषेणेति तत् पृथक्त्वेपि उभयपक्षाविरोधीति न विकल्पे प्रमाणमिति स्मृतिचन्द्रिकाकारः । चतुर्वर्गो III. 2. 461; the स्मृतिच० does contain the text quoted and remarks, अतो यत्कश्चिदुक्तममावास्याश्राद्धमपरपाक्षिकेण श्राद्धेन विकल्प्यत इति तदपास्तम् । II. p. 399.
+[^1078]: यन्निगमस्मरणं-अपरपक्षे यदहः संपद्येताममावास्यायां विशेषेणेति तत् पृथक्त्वेपि उभयपक्षाविरोधीति न विकल्पे प्रमाणमिति स्मृतिचन्द्रिकाकारः । चतुर्वर्ग० III. 2. 461; the स्मृतिच० does contain the text quoted and remarks, अतो यत्कश्चिदुक्तममावास्याश्राद्धमपरपाक्षिकेण श्राद्धेन विकल्प्यत इति तदपास्तम् । II. p. 399.
 
 Several authors composed works styled *Smṛticandrikā*, e. g. there is a *Smṛticandrikā* of Śukadeva-miśra (I. O. Cat. p. 471 No. 1549), another by Āpadeva (Mitra's Notices, vol. VI, p. 301), another by Vāmadevabhaṭṭācārya (Mitra's Notices, vol. IX. p. 137).

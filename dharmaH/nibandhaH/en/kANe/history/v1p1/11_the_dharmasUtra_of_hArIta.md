@@ -30,7 +30,7 @@ The quotations show that this style (as in n. 120) was pursued in the body of th
 [^122]: The verse is ‘ब्रह्मघ्नं वृद्धिजीवं च तुलया समतोलयत् । अतिष्ठद् ब्रह्महा कौन्तेय वृद्धिजीवस्त्वकम्पत ॥’.
 [^123]: Viśvarūpa on Yāj. I. 195 p. 137 remarks 'तन्मात्रच्छेदनमेके वाससाम् । [[न वासाधारणत्वात्|न वाससाधारणत्वात्]] । साधारणं हि वास इत्याचार्याः । तस्मात्सर्ववाससामुपघाताग्निनोदनादेव शुद्धिः ।'; अपरार्क on Yāj. I. 154 (pp. 221-22) quotes a long prose passage with some verses from Hārīta in which occur the words 'आहारशुद्धौ सत्त्वशुद्धिरित्याचार्याः' and on Yāj. III. 58 again quotes Hārīta's words 'आहार...चार्याः' and explains 'sattva' as meaning 'antaḥkaraṇa'. The words 'आहारशुद्धौ सत्त्वशुद्धिः' occur in Chān. Up. VII. 26. 2.
 [^124]: Vide मद. पा. pp. 607, 706; स्मृतिच० III. p. 422, अपरार्क on Yāj. II. 127.
-[^125]: अपरार्क on Yāj. I. 183 'यानशयनान्यपरिहार्याण्येके मन्यन्ते । तम । वर्णविशेषात् शुक्लमलिनसंसर्गदर्शनात् पापसंसर्गयोगाच्च तस्मात् पृथक् शौचाच्छ्रेयांसः ।'.
+[^125]: अपरार्क on Yāj. I. 183 'यानशयनान्यपरिहार्याण्येके मन्यन्ते । तन्न । वर्णविशेषात् शुक्लमलिनसंसर्गदर्शनात् पापसंसर्गयोगाच्च तस्मात् पृथक् शौचाच्छ्रेयांसः ।'.
 
 Hārīta refers to the Vedas, the Aṅgas, dharmaśāstra, metaphysics, and other branches of knowledge.[^126] The quotations do not show that he belonged to any particular Veda, as he quotes from all the Vedas promiscuously. In this connection it is worthy of note that, though Kumārila mentions Hārīta as an ancient dharmasūtrakāra, he does not assign him to any particular school, while he assigns Āpastamba and Baudhāyana to the Taittirīya school.
 
@@ -43,7 +43,7 @@ Some of the doctrines of Hārīta are worth noting. He speaks of eight forms of 
 [[P133]]He speaks of the twelve [[kiuds|kinds]] of sons (vide Haradatta on Gautama 28. 32). He looks down upon the profession of an actor and forbids the employment of a Brāhmaṇa actor in any śrāddha or rite for gods.[^128] A Hārītabhāṣyakāra is mentioned by the Kalpataru (śrāddha) on p. 51 in explaining a prose passage. Aparārka (on Yāj. II. 332) quotes from Hārīta a lengthy passage in mixed prose and verse, where the worship of Gaṇeśa comes in.[^129]
 
 [^128]: कुशीलवादीन् दैवे पित्र्ये च वर्जयेत् । quoted by अपरार्क on Yāj. I. 222-224 p. 454.
-[^129]: We have there the names सालकटकट, कूष्माण्डराजपुत्र, महाविनायक, वक्रतुण्ड, गणाधिपति. For the first two, vide मानवगृह्यसूत्र II. 14. and याज्ञ. I. 285 ff.
+[^129]: We have there the names सालकटंकट, कूष्माण्डराजपुत्र, महाविनायक, वक्रतुण्ड, गणाधिपति. For the first two, vide मानवगृह्यसूत्र II. 14. and याज्ञ. I. 285 ff.
 
 A very interesting question is the relation of the verse quotations from Hārīta with the prose quotations from Hārīta. The dharmasūtra was probably interspersed with verses as is the case more or less with all dharmasūtras except that of Gautama. But there are numerous verses ascribed to Hārīta in the nibandhas, which are manifestly modern. Both the Mitākṣarā and Aparārka (on Yāj. I. 86) quote Hārīta's verses eulogising the satī. The Smṛticandrikā (III. p. 344) quotes his verses that refer to the signs of the Zodiac. There are numerous verses containing elaborate rules of procedure, ascribed to Hārīta, which are quite foreign to the general atmosphere of the ancient dharmasūtras. All such verses must be ascribed to a comparatively later date. In the Śuddhimayūkha it is said that certain verses quoted from the Mahābhārata by Hārīta are not found in several copies of the Mahābhārata.
 
@@ -55,7 +55,7 @@ Dr. Jolly (in 1889) collected most of the prose and verse citations from Hārīt
 
 It is noteworthy that Aparārka (on Yāj. III. 254) quotes Vṛddha-Hārīta and Hārīta, both in prose, one immediately after the other. Vṛddha-Hārīta in prose is cited by the Mit. on Yāj. III. 259, 261. Some comparatively early commentators and digest-writers started the theory that authors [[P135]]described as Manu and Vṛddha-Manu, Yājñavalkya and Vṛddhayājñavalkya and the like were not entirely different individuals, but they were the same authors at different stages of their lives. Vide Aparārka (pp. 7-8) on Vṛddha-Manu and the Kalpataru (Brahmacārī°) quoted below.[^129b]
 
-[^129b]: एवं वृद्धमन्वादयश्च वयोवस्थादिभेदेन मन्वादिप्रणेतार एव द्रष्टव्याः । अविरोधित्वाच्छ्रुतिस्मृत्युपबृंहकत्वाच्छिष्टपरिगृहीतत्वादाप्तोक्तत्वाच्च । अपरार्क pp. 7-8 वृद्धशातातप-योगियाज्ञवल्क्य-वृद्धवसिष्ठ-वृद्धमनु-लघुहारीतादीनि तु प्रसिद्ध-षट्त्रिंशदन्तर्गतकर्तृकाण्येव, अवस्थाभेदेन तैरेव करणात् । कृत्यकल्पतरु (ब्रह्मचारि° p. 24). Vide Kṛtyaratnākara pp. 29-30 for similar words.
+[^129b]: एवं वृद्धमन्वादयश्च वयोवस्थादिभेदेन मन्वादिप्रणेतार एव द्रष्टव्याः । अविरोधित्वाच्छ्रुतिस्मृत्युपबृंहकत्वाच्छिष्टपरिगृहीतत्वादाप्तोक्तत्वाच्च । अपरार्क pp. 7-8 वृद्धशातातप-योगियाज्ञवल्क्य-वृद्धवसिष्ठ-वृद्धमनु-लघुहारीतादीनि तु प्रसिद्ध-षट्त्रिंशदन्तर्गतकर्तृकान्येव, अवस्थाभेदेन तैरेव करणात् । कृत्यकल्पतरु (ब्रह्मचारि° p. 24). Vide Kṛtyaratnākara pp. 29-30 for similar words.
 
 That the Vṛddha-Hārīta in verse is comparatively a late work follows from the fact that it distinctly recites that the smṛtis of Manu, Yājñavalkya, Nārada and Kātyāyana were known to it as authorities on rāja-dharma.[^130] Some of the quotations ascribed to Laghu-Hārīta in Aparārka and other works are found in the Laghu-Hārīta, e. g. the verse 'vinā yajñopavītena' (Laghu-Hārīta, Ānandāśrama, verse 23) is quoted by Aparārka on Yāj. III. 289. Some verses that are ascribed to Hārīta are found in the Laghu-Hārīta; for example, the verse 'snānam kṛtvā tu ye,' cited by the Smṛticandrikā (I. p. 203), occurs in the Laghu-Hārīta (Ānandāśrama, verse 41). It appears that several compilations were made at different times, embracing different topics of dharma and ascribed to Hārīta, probably because they were based more or less on the Hārītadharmasūtra.
 
@@ -63,7 +63,7 @@ That the Vṛddha-Hārīta in verse is comparatively a late work follows from th
 
 That some of the verses ascribed to Hārīta are very ancient follows from several considerations. For example, Viśvarūpa quotes (on Yāj. III. 246) a verse from Hārīta. The [[P136]]Sarasvatīvilāsa quotes from Hārīta a brief passage which appears to be a portion of a verse and Kātyāyana's explanation thereon.[^131] It follows that long before the sixth century A. D. Hārīta's Dh. S. contained verses.
 
-[^131]: हारीतेनापि केचन भेदा उक्ताः । एकमूले द्विरुथानो द्विस्कन्धो द्विफलः । कात्यायनस्तु तान् व्याचष्टे । 2nd उल्लास, p. 61 (Mysore edition).
+[^131]: हारीतेनापि केचन भेदा उक्ताः । एकमूलो द्विरुत्थानो द्विस्कन्धो द्विफलः । कात्यायनस्तु तान् व्याचष्टे । 2nd उल्लास, p. 61 (Mysore edition).
 
 For Hārīta on Vyavahāra, vide sec. below.
 

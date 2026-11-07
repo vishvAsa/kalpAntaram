@@ -13,7 +13,7 @@ From the colophon it appears that [[Sridhara|Śrīdhara]] was himself a performe
 
 [^1041]: Vide note 913 above.
 
-[^1042]: On the words of [[ज्योतिर्गार्य|ज्योतिर्गार्ग्य]] ‘सौरमासो विवाहादौ यज्ञादौ सावनः स्मृतः’ [[चतुर्वर्ग०|चतुर्वर्गो०]] ( काल ) p. 20 says आदिशब्दार्थः श्रीधरेण दर्शितः। विवाहोपनयनचूडाव्रतनियमप्रतिष्ठागृहकरण[[क्षारयात्रा|क्षौरयात्रा]]महाषष्ठीमहासप्तमीविजयदशमीदशहरायुगादिमहाज्येष्ठाप्रभृत्यादिशब्देनोपादीयते। यज्ञादावित्यादिशब्देन यागदानहोमगर्भाधानसीमन्तोन्नयनजातकर्म-ऋण-क्रयविक्रयव्यवहारग्रहणम्।
+[^1042]: On the words of ज्योतिर्गार्ग्य ‘सौरमासो विवाहादौ यज्ञादौ सावनः स्मृतः’ चतुर्वर्ग० ( काल ) p. 20 says आदिशब्दार्थः श्रीधरेण दर्शितः। विवाहोपनयनचूडाव्रतनियमप्रतिष्ठागृहकरणक्षौरयात्रामहाषष्ठीमहासप्तमीविजयदशमीदशहरायुगादिमहाज्येष्ठाप्रभृत्यादिशब्देनोपादीयते। यज्ञादावित्यादिशब्देन यागदानहोमगर्भाधानसीमन्तोन्नयनजातकर्म-ऋण-क्रयविक्रयव्यवहारग्रहणम्।
 
 The date of the *Smṛtyarthasāra* can be fixed within approximate limits. As it names the *Mit.*, the *Kāmadhenu*, the *Kalpataru* and Govindarāja, it is later than 1150 A. D. The *[[Smrti candrikā|Smṛticandrikā]]* and Hemādri[^1043] both quote it as an authority. For example, the *Smṛticandrikā* says that the *Smṛtyarthasāra* holds that the Tulasī is among the things the use of which is to be avoided in *śrāddha*. Vide p. 435 of the Śrāddha section of the [[P727]]*[[Smstcandrika|Smṛtcandrikā]]* (Gharpure's edition) and also pp. 366, 381, 463 of the Śrāddha section of the same work. Raghunandana often mentions it; vide (vol. I) Tithi p. 100, Śrāddha p. 190, Āhnika p. 434, Malamāsa p. 791; (II) Yajurvedi [[Vrsotsarga|Vṛṣotsarga]] p. 642. The *Madanapārijāta* mentions it frequently – vide pp. 177, 180, 287, 288. Therefore the *Smṛtyarthasāra* must have been composed between 1150 and 1200 A. D.
 

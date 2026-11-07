@@ -16,7 +16,7 @@ DUTIES OF WIDOWS
 So far the social position and the duties and rights of a wife during her husband's life-time have been considered. We shall now consider the rules laid down for a wife if she has the heavy misfortune to become a widow.[^1361]
 
 [^1361]:
-    Vide Colebrooke's Digest of Hindu Law, vol. II. chap. III pp. [[168-169|158-161]] for [[daties|duties]] of widows who choose to survive [[thoir|their]] [[husband|husbands]]; [[i vido|vide]] 'Die Frau' pp. 86-88 [[wbere|where]] Winternitz draws a [[dismul|dismal]] and somewhat exaggerated picture of the condition of the Hindu widow.
+    Vide Colebrooke's Digest of Hindu Law, vol. II. chap. III pp. 158-161 for duties of widows who choose to survive their husbands ; vide 'Die Frau' pp. 86-88 where Winternitz draws a dismal and somewhat exaggerated picture of the condition of the Hindu widow.
 
 The word *vidhavā* occurs several times in the [[.8.|e.g.,]] *Ṛgveda* (e.g., IV.18.12, X.18.7, X.40.2 and 8); but these passages contain very little that is indicative of their condition in society except *Ṛs*. X.40.2 (vide under *niyoga*). *Ṛg*. I.87.3 [^1362] says 'in the rapid movements of the Maruts the earth trembles like a woman deprived of her husband,' That shows that widows trembled either from sorrow or from fear of molestation and ill-treatment.
 
