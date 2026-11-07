@@ -15,25 +15,25 @@ Vaikhānasa appears to have been the ancient name for Vānaprastha. In the Anukr
     ये नखास्ते वैखानसाः । ये वालास्ते वालखिल्याः । तै. आ. I. 23.
 
 [^2116]:
-    वानप्रस्थो वैखानसशास्त्रस्तदाचारः । बौ. ध. सू. II. 6. 19.
+    वानप्रस्थो वैखानसशास्त्रसमुदाचारः । बौ. ध. सू. II. 6. 19.
 
 [^2117]:
-    पुरुषं च ततः श्रुतमश्नुते च युधिष्ठिर । आनिरुद्धं च मां प्राहुर्वैखानससिद्धा जनाः ॥ अक्षये लोके विजायन्ते मां राजन् पाञ्चरात्रिकाः । वासुदेवं च राजेन्द्र सङ्कर्षणमथापि च । प्रद्युम्नं चानिरुद्धं च चतुर्मूर्ती प्रचक्षते ॥ वृद्धगौतम VIII. p. 564. These and other verses are quoted as from आश्वमेधिकपर्व by परा. मा. I. part 1 p. 366. अप्पयदीक्षित in his वेदान्तकल्पतरुपरिमल (Vijianagram Series) p. 453 tells us that, according to the वैखानसशास्त्र, the Pāñcarātra school is not Vaidika.
+    पुरुषं च ततः सूक्तमच्युतं च युधिष्ठिर । अनिरुद्धं च मां प्राहुर्वैखानसविदो जनाः ॥ अन्ये त्वेवं विजानन्ति मां राजन् पाञ्चरात्रिकाः । वासुदेवं च राजेन्द्र सङ्कर्षणमथापि वा । प्रद्युम्नं चानिरुद्धं च चतुर्मूर्ति प्रचक्षते ॥ वृद्धगौतम VIII. p. 564. These and other verses are quoted as from आश्वमेधिकपर्व by परा. मा. I. part 1 p. 366. अप्पयदीक्षित in his वेदान्तकल्पतरुपरिमल (Vijianagram Series) p. 453 tells us that, according to the वैखानसशास्त्र, the Pāñcarātra school is not Vaidika.
 
 [^2118]:
-    वैखानसं विमलया तपसाध्यानाचारेण व्यापारयोग्यं मनस्विनी निर्वर्तितवती । शाकुन्तल I. 27.
+    वैखानसं किमनया व्रतमाप्रदानाद् व्यापाररोधि मदनस्य निषेवितव्यम् । शाकुन्तल I. 27.
 
 [[P918]]
 
 bhārata[^2119] (Śānti 20. 6 and 26. 6) states that the view of the Vaikhānasas is that it is better to have no desire for amassing wealth than to hanker after wealth. Śaṅkarācārya on Vedānta-sūtra III. 4. 20 speaks of the third āśrama as vaikhānasa and as indicated by the word tapas used in Chān. Up. II. 23. 1.
 
 [^2119]:
-    वैखानसानां कौन्तेय श्रूयते वचनं यथा । इष्टं धर्मेषु यत्स्यात्तद्वै गरीयसी ॥ शान्तिपर्व 20. 6-7.
+    वैखानसानां कौन्तेय श्रूयते वचनं यथा । ईहेत धर्महेतोर्यस्तस्यानीहा गरीयसी ॥ शान्तिपर्व 20. 6–7.
 
 The word vānaprastha is according to the Mit. the same as vanaprastha, which means 'one who stays in a forest in a pre-eminent way' (by observing a strict code of life). Kṣīrasvāmi derives it differently.[^2120]
 
 [^2120]:
-    वने प्रकर्षेण नियमेन च तिष्ठति चरतीति वानप्रस्थः वनस्य एव वानप्रस्थः संज्ञाया वैद्यैः । मिता. on या. III. 45. क्षीरस्वामी on वानप्रस्थ however says 'प्रतितन्ते अस्मिन् प्रस्थः वनप्रस्थे भवो वानप्रस्थः वैखानसाख्यः .'.
+    वने प्रकर्षेण नियमेन च तिष्ठति चरतीति वानप्रस्थः वनप्रस्थ एव वानप्रस्थः संज्ञायां वैर्घ्यम् । मिता० on या. III. 45. क्षीरस्वामी on वानप्रस्थ however says 'प्रतिष्ठन्ते अस्मिन् प्रस्थः वनप्रस्थे भवो वानप्रस्थः वैखानसाख्यः .'.
 
 The time for becoming a forest hermit arises in two ways. According to the Jābālopaniṣad quoted above (p. 421) a man may become a vānaprastha immediately after the period of studenthood or after passing some years as an householder. Manu (VI. 2) indicates the age by saying 'when a householder sees his skin wrinkled and his hair growing white and sees the sons of his sons he may betake himself to the forest'. The commentators were divided in their opinions, some holding that all three conditions (wrinkles, grey hair and seeing son's sons) must be fulfilled before one could become a forest hermit, others held that only one of them need be fulfilled and others again said that these conditions are only indicative of the age viz. that a man must be old or over 50. Kullūka on Manu III. 50 quotes a smṛti 'a man may resort to a forest after 50'.
 
@@ -52,7 +52,7 @@ Gaut. III. 25-34, Āp. Dh. S. II. 9. 21. 18—II. 9. 23. 2, Baud. Dh. S. III. 3,
     Medhātithi on Manu VI. 9 states that the Śrāmaṇaka fire is to be kindled by him only whose wife is dead or who becomes a forest hermit immediately after the close of the period of student-hood.
 
 [^2123]:
-    आरणके नाग्निमाधाय । गौ. III. 26; आरणके नाग्निमाधायाहिसायैः । ... ... स्यात् । वसिष्ठ IX. 10. हरदत्त on गौ. explains 'आरणकं नाम वैखानसं शास्त्रम्'। These words occur also in Baud. Dh. S. II. 6. 20. मेधातिथि explains that he is to swallow holy ashes in order to deposit fires in his self, while Nārāyaṇa explains that he is to do so by repeating the mantra 'Ya te agne yajñiya' (Tai. S. III. 4. 10. 5). The Baud. Dh. S. II. 10. 30-31 refers to this 'मखं नः समनसाविति आत्मन्यग्नीन्समारोपयेत्। या ते अग्ने यज्ञिया तनूरिति तिरोहितान् समाजिघ्रति ।।' The Vaik. IX. 1-5 details how a person on entering the order of vaikhānasas is to establish the ārmaṇaka fire. At first it deals with the establishment of ārmaṇaka fire by one whose wife accompanies him and then by one whose wife does not accompany him and winds up संयस्य वेदः आरणकाग्निरित्याहुः । तस्यैवेति विधानमनेन मन्त्रेण आरणकमग्निमाधाय विद्वान् । अपनीकम्य भिक्षुरग्नी होतव्यं हुत्वा ... ... वने विचरेत् तपसा अरणमेत्यन्मूलम् ।
+    श्रावणकेनाग्निमाधाय । गौ. III. 26; श्रामणकेनाग्निमाधायाहिताग्निः ...... स्यात् । वसिष्ठ IX. 10. हरदत्त on गौ. explains 'श्रावणकं नाम वैखानसं शास्त्रम्'. These words occur also in Baud. Dh. S. II. 6. 20. मेधातिथि explains that he is to swallow holy ashes in order to deposit fires in his self, while Nārāyaṇa explains that he is to do so by repeating the mantra 'Ya te agne yajñiyā' (Tai. S. III. 4. 10. 5). The Baud. Dh. S. II. 10. 30–31 refers to this 'भवतं नः समनसाविति आत्मन्यग्नीन्समारोपयते । या ते अग्ने यज्ञिया तनू-रिति त्रिश्छिरेकैकं समाजिघ्रति ।'. The Vaik. IX. 1–5 details how a person on entering the order of vaikhānasas is to establish the śrāmaṇaka fire. At first it deals with the establishment of śrāmaṇaka fire by one whose wife accompanies him and then by one whose wife does not accom-pany him and winds up सभ्यस्य भेदः श्रामणकाग्निरित्याहुः । तस्मादेतद्विधानमेनमग्निं च श्रामणकमित्याह विखनाः । अपत्नीकश्च भिक्षुवदग्नौ होमं हुत्वा ...... वने निवसेत् तपसां श्रमणमेतन्मूलम् ।
 
 [[P920]]
 
@@ -75,7 +75,7 @@ Ultimately he is to leave the keeping of fires by depositing the sacred fires in
 wrong in holding that if a forest hermit takes his wife with him he may cohabit with her at the prescribed times.
 
 [^2124]:
-    वानप्रस्थो मद्यवर्जी स्यात् सोपवासको भवेत् । या. III. 45; काम्येभ्यः । वसिष्ठ IX. 5.
+    वानप्रस्थो ब्रह्मचारी साग्निः सोपासनो व्रजेत् । या. III. 45; ऊर्ध्वरेताः । वसिष्ठ IX. 5.
 
 
 (9) He is not to use corn growing on ploughed land in the forest even if the owner neglects to garner it nor is he to eat fruits and roots growing in villages (Manu VI. 16 and Yāj. III. 46).
@@ -87,14 +87,14 @@ wrong in holding that if a forest hermit takes his wife with him he may cohabit 
 (12) He may accumulate food materials only for a day or a month or a year (but never for more than a year) and should throw away his stored food material every year in the month of Āśvina (Manu VI. 15, Yāj. III. 47, Āp. Dh. S. II. 9. 22. 24).[^2125]
 
 [^2125]:
-    वर्षे सस्ये मासि पूरणमनुजानीयात् । आप. ध. सू. II. 9. 22. 24.
+    नवे सस्ये प्राप्ते पुराणमवजानीयात् । आप. ध. सू. II. 9. 22. 24.
 
 (13) He should practise severe austerities by standing in the midst of five fires (4 fires in the four directions and the blazing sun overhead), by standing in the open in the rains, by wearing wet garments in winter (Manu VI. 23-34, Yāj. III. 52, Viṣṇu Dh. S. 95. 2-4) and thus habituate his body to privations and mortifications.
 
 (14) He should gradually give up residing in a house, but should stay under a tree and subsist only on fruits and roots[^2126] (Manu VI. 25, Vas. IX. 11, Yāj. III. 54, Āp. Dh. S. II. 9. 21. 20).
 
 [^2126]:
-    क्षुध्मूलालिकोतन ऊर्ध्वं षड्भ्यो मासेभ्योऽनग्निरनिकेतः । वासिष्ठ IX. 11.
+    वृक्षमूलनिकेतन ऊर्ध्वं षड्भ्यो मासेभ्योऽनग्निरनिकेतः । वासिष्ठ IX. 11.
 
 [[P922]]
 
@@ -105,7 +105,7 @@ wrong in holding that if a forest hermit takes his wife with him he may cohabit 
 (17) If the forest hermit suffers from some incurable disease and cannot properly perform his duties or feels death to be near, he should start on the great journey (Mahāprasthāna) turning his face towards the north-east, subsisting on water and air only, till the body falls to rise no more (Manu VI. 31, Yāj. III. 55). The Mit. and Aparārka (p. 945) on Yāj. III. 55 quote a smṛti 'a forest hermit may resort to the distant journey or may enter water or fire or may throw himself from a precipice'.[^2127]
 
 [^2127]:
-    वानप्रस्थो वृक्षावासं अरण्याम्बुभोजनं वृक्षपत्रं वासंविदधत् । इति स्मरणात् । मिता. on या. III. 55 (the printed text of मिता reads वृक्षावासं while अपरार्क reads वृक्षावासम्).
+    वानप्रस्थो दूराध्वानं ज्वलनाम्बुप्रवेशनं भृगुप्रपतनं चानुतिष्ठेत् । इति स्मरणात् । मिता० on या. III. 55 (the printed text of मिता० reads वीराध्वानं while अपरार्क reads दूराध्वानम् ).
 
 The Baud. Dh. S. III. 3 gives an intricate classification of vānaprasthas. They are either pacamānakas (who take cooked or ripe food) or apacamānakas (who do not cook their food). Each of these two classes is again sub-divided into five. The five pacamānakas are sarvāraṇyakas, vaituṣikas, those who subsist on fruits, roots and bulbous roots, those who subsist on fruits only, those who subsist on vegetables only. Sarvāraṇyakas are of two kinds, viz. indrāvasiktas (who bring creepers, shrubs and cook them, offer agnihotra therewith and offer it to guests and eat the rest) and reto-vasiktas (who bring the flesh of animals killed by tigers, wolves or hawks and cook it and offer to Agni &c.). The apacamānakas are five viz. unmajjakas (who do not employ implements of iron or stone for holding food), pravrttāśinaḥ (who eat food from their hands, without using any vessel), mukhenādāyinaḥ (who eat food with their mouth, without using their hands, as beasts do), toyāhāras (who subsist on water only), vāyubhakṣāḥ (who observe total fast). These are according to Baud. the ten dīkṣās of Vaikhānasas. Manu also (VI. 29) calls the rules to be observed by forest hermits dīkṣās.
 
@@ -122,19 +122,19 @@ Any person of the three higher varṇas could become a vānaprastha, but a śūd
 through two (brahmacarya and gārhasthya) and a śūdra could resort to only one viz. the householder's mode of life. Vide the story of Śambūka referred to above (p. 119).
 
 [^2128]:
-    पुत्रसंक्रान्तसर्वस्वः वने वन्येन वर्तयन् । विधिना आरणेणैव कुर्यात्कर्माण्यतन्द्रितः ॥ शान्तिपर्व 21. 15. आरण seems to be a variant for आरणि or आरणक. Vide note 2123 above.
+    पुत्रसंक्रामितश्रीश्च वने वन्येन वर्तयन् । विधिना श्रावणेनैव कुर्यात्कर्माण्यतन्द्रितः ॥ शान्तिपर्व 21. 15. श्रावण seems to be a variant for श्रामण or श्रामणक. Vide note 2123 above.
 
 [^2129]:
-    वानप्रस्थे द्विजातीनां प्रयाणमुपविश्यते । सर्वेषामेव वर्णानां गार्हस्थ्यं तद्विधीयते ॥ आश्वमेधिकपर्व 35. 43; सत्यभामा तथैवान्या देव्यः कृष्णस्य संमताः । वनं प्रविविशुः सर्वास्तापसैः कृतनिश्चयाः ॥ मौसल 7. 74; जलमानिस्तथा वायुरथवायौ विकर्षणम् । तापसानां प्रशस्यन्ते गच्छ सद्य मया विचरेत् ॥ आश्रमं 37. 27-28; ब्राह्मणस्याचार्याचाराः क्षत्रियस्याचार्यो वैश्यस्य वैखानसस्यापि VIII. 1.
+    वानप्रस्थं द्विजातीनां त्रयाणामुपदिश्यते । सर्वेषामेव वर्णानां गार्हस्थ्यं तद्विधीयते ॥ आश्वमेधिकपर्व 35. 43; सत्यभामा तथैवान्या देव्यः कृष्णस्य संमताः । वनं प्रविविशू राजंस्तापस्ये कृतनिश्चयाः ॥ मौसल 7. 74; जलमग्निस्तथा वायुरथवापि विकर्षणम् । तापसानां प्रशस्यन्ते गच्छ सञ्जय मा चिरम् ॥ आश्रम० 37. 27–28; ब्राह्मणस्याश्रमाश्चत्वारः क्षत्रियस्याद्यास्त्रयो वैश्यस्य द्वावेव । वैखानसस्मार्त VIII. 1.
 
 
 The question whether ending one's life by starting on the Great Journey or by falling from a precipice is sinful exercised the minds of many writers on dharmaśāstra. The Dharmaśāstra writers generally condemn suicide or an attempt to commit suicide as a great sin. Parāśara (IV. 1-2) states that if a man or woman hangs himself or herself through extreme pride or extreme rage or through affliction or fear he or she falls into hell for sixty thousand years.[^2130] Manu V. 89 says that no water is to be offered for the benefit of the souls of those who kill themselves. The Ādiparva (179. 20) declares that one who commits suicide does not reach blissful worlds. Vas. Dh. S. (23. 14-16) ordains "whoever kills himself becomes abhiśasta (guilty of mortal sin) and his sapiṇḍas have to perform no death rites for him; a man becomes a killer of the self when he destroys himself by wood (i. e. by fire), water, clods and stones (i. e. by striking his head against a stone), weapon, poison, or ropes (i. e. by hanging). They also quote a verse 'that dvija who through affection performs the last rites of a man who commits suicide must undergo the penance of Cāndrāyaṇa with Tapta-kṛcchra'". Vas. Dh. S. 23. 18 prescribes a prāyaścitta for merely resolving to kill oneself (even when no attempt is made). Yama (20-21) prescribes that when a person tries to do away with himself by such methods as hanging, if he dies, his body should be smeared with impure things and if he lives he should be fined two hundred paṇas; his friends and sons should each be fined one paṇa and then they should undergo the penance laid down in the śāstra.[^2131]
 
 [^2130]:
-    अतिमानादतिक्रोधाद्भयाद्वा यदि वा प्रियात् । उद्वेजनीयारम्भी पुमान्या गतिमाप्नुयात् ॥ पूयशोणितसंपूर्णमन्धे तमसि मज्जति । षष्टिं वर्षसहस्राणि नरकं प्रतिपद्यते ॥ पाराशर IV. 1-2.
+    अतिमानादतिक्रोधात्स्नेहाद्वा यदि वा भयात् । उद्वध्नीयात्स्त्री पुमान्वा गतिरेषा विधीयते ॥ पूयशोणितसं पूर्णे अन्धे तमसि मज्जति । षष्टिं वर्षसहस्राणि नरकं प्रतिपद्यते ॥ पराशर IV. 1–2.
 
 [^2131]:
-    आत्मानं घातयेद्यस्तु राज्ञा वेधविधानतः । मृतोऽशुचिर्भवेल्लोको जीवतो द्विगुणं दमः ॥ बन्धुभिस्तत्समानैश्च मनुष्यैः प्रत्येकं पणिकं दमम् । प्रायश्चित्तं ततः कुर्यात् शास्त्रदृष्टेन कर्मणा ॥ यम 20-21.
+    आत्मानं घातयेद्यस्तु रज्ज्वादिभिरुपक्रमैः । मृतोऽमेध्येन लेप्तव्यो जीवतो द्विशतं दमः ॥ दण्ड्यास्तत्पुत्रमित्राणि प्रत्येकं पणिकं दमम् । प्रायश्चित्तं ततः कुर्युर्यथाशास्त्रप्रचोदितम् ॥ यम 20–21.
 
 In spite of this general attitude, exceptions were made in the smṛtis, the epics and purāṇas. When a man was guilty of brāhmaṇa murder, he was allowed to meet death at the hands of archers in a battle who knew that the sinner wanted to be killed in that way as a penance or the sinner may throw himself head
 
@@ -143,13 +143,13 @@ In spite of this general attitude, exceptions were made in the smṛtis, the epi
 downwards in fire (Manu XI. 73, Yāj. III. 248). Similarly the drinker of spirituous liquor expiated his sin by taking boiling wine, water, ghee, cow's milk or urine and dying thereby (Manu XI. 90-91, Yāj. III. 253, Gaut. 23. 1, Vas. Dh. S. 20. 22). Vide also Vas. Dh. S. 13. 14, Gaut. 23. 1, Āp. Dh. S. I. 9. 25. 1-3 and 6 for similar deadly penances for incest and for drinking liquor and for theft. The Āp. Dh. S. (I. 10. 28. 15-17) quotes Hārīta who condemns such penances involving death.[^2132] At extremely holy places like Prayāga, the Sarasvatī and Benares persons were allowed to kill themselves by drowning with the desire of securing release from saṁsāra. The Śalyaparva (39. 33-34) states 'whoever abandons his body at Pṛthūdaka on the northern bank of the Sarasvatī after repeating Vedic prayers would not be troubled by death thereafter'.[^2133] The Anuśāsanaparva (25. 62-64) says that if a man knowing the Vedānta and understanding the ephemeral nature of life abandons life in the holy Himālayas by fasting, he would reach the world of brahma. Vide also Vanaparva 85. 83 (about suicides at Prayāga). The Matsya-purāṇa (186. 34-35) eulogises the peak of Amarakaṇṭaka by stating 'whoever dies at Amarakaṇṭaka by fire, poison, water or by fasting enjoys the pleasures (described in verses 28-33). He who throws himself down (from the peaks of Amarakaṇṭaka) never returns (to saṁsāra).'[^2134]
 
 [^2132]:
-    गुरुतल्पगामी तु सुषिरां सूर्मिं प्रविश्योभयत आदीप्याभिवहेदात्मानम् । मिथ्यैतदिति हारीतः । यो ह्यात्मानं परं चाभिमन्यतेऽभिशस्त एव स भवति । आप. ध. सू. I. 10. 28. 15-17.
+    गुरुतल्पगामी तु सुषिरां सूर्मिं प्रविश्योभयत आदीप्याभिवहेदात्मानम् । मिथ्यैतदिति हारीतः । यो ह्यात्मानं परं वाभिमन्यतेऽभिशस्त एव स भवति । आप. ध. सू. I. 10. 28. 15–17.
 
 [^2133]:
-    सरस्वत्युत्तरे तीरे यस्त्यजेदात्मनस्तनुम् । पृथूदके अत्ययतो नैनं मो मरणं स्पृशेत् ॥ शल्यपर्व 39. 33-34.
+    सरस्वत्युत्तरे तीरे यस्त्यजेदात्मनस्तनुम् । पृथूदकेऽप्यपरो नैनं श्वो मरणं तपेत् ॥ शल्यपर्व 39. 33–34
 
 [^2134]:
-    एवं भोगी भवेच्चास्य यो मृतोऽमरकण्टके । अग्नौ विषजले वापि तथा चैव क्षयाध्वके ॥ अतिनष्टिका गतिस्तस्य पवनस्याम्बरे यथा । पतनं कुरुते यस्तु अमरेशे नराधिप । मत्स्य 186. 34-35.
+    एवं भोगो भवेत्तस्य यो मृतोऽमरकण्टके । अग्नौ विषजले वापि तथा चैव ह्यनाशके ॥ अनिवर्तिका गतिस्तस्य पवनस्याम्बरे यथा । पतनं कुरुते यस्तु अमरेशे नराधिप । मत्स्य 186. 34–35.
 
 There are historical examples of this practice supplied by Epigraphy. The Khairha plates of Yaśaḥkarṇadeva (dated Kalacuri saṁvat 823 i. e. 1073 A. D.) narrate that king Gāṅgeya obtained release along with his one hundred wives at the famous banyan tree of Prayāga (E. I. vol. XII. p. 205 at p. 211).[^2135] King Dhaṅgadeva of the Chandella dynasty is said to have lived for more than 100 years and to have abandoned his body at Prayāga while contemplating on Rudra (E. I. vol. I. p. 140). The Cālukya king Someśvara after performing yoga
 
@@ -158,16 +158,16 @@ There are historical examples of this practice supplied by Epigraphy. The Khairh
 rites drowned himself in the Tuṅgabhadrā in 1068 A. D. (E. C. vol. II. Sk. 136). The Raghuvamśa VIII. 94 poetically describes how Aja in his old age when his health was shattered by disease resorted to fasting and drowned himself at the confluence of the holy rivers, the Ganges and the Sarayū, and immediately attained the position of a denizen of Heaven.
 
 [^2135]:
-    प्राप्ते प्रयागवटमूलानिषेव्याथै सार्धं शतेन युधिष्ठिर... E. I. vol. XII. 205 at p. 211.
+    प्राप्ते प्रयागवटमूलनिवेशबन्धौ सार्धं शतेन गृहिणीभिरमुत्र मुक्तिम् । E. I. vol. XII. 205 at p. 211.
 
 
 Apart from suicide for purposes of penance or at holy places the smṛtis allowed, as said above, a forest hermit to start on the great journey to meet death and also allowed in certain circumstances death by entering fire, or by drowning or by fasting or by throwing oneself from a precipice even for those who were not hermits. Gautama (14. 11) prescribes that no mourning need be observed for those who wilfully meet death by fasting, or by cutting themselves off with a weapon, or by fire, or poison or water or by hanging or by falling from a precipice. But Atri (218-219) states some exceptions viz. 'if one who is very old (beyond 70), one who cannot observe the rules of bodily purification (owing to extreme weakness &c.), one who is so ill that no medical help can be given, kills himself by throwing himself from a precipice or into fire or water or by fasting, mourning should be observed for him for three days and śrāddha may be performed for him.[^2136] Aparārka (p. 536) quotes texts of Brahmaragarbha, Vivasvat and Gārgya about an householder 'he who suffering from serious illness cannot live, or who is very old, who has no desire left for the pleasures of any of the senses and who has carried out his tasks may bring about his death at his pleasure by resorting to mahāprasthāna, by entering fire or water or by falling from a precipice. By so doing he incurs no sin and his death is far better than tapas, and one should not desire to live vainly (without being able to perform the duties laid down by the śāstra).[^2137] Aparārka (p. 877) and Par. M. (I. part 2, p. 228) quote several verses from Ādipurāṇa about dying by fasting, by entering fire or deep water or by falling from a precipice, or by going on mahā-
 
 [^2136]:
-    अत्रिः । वृद्धः शौचस्मृतेर्लुप्तः प्रत्याख्यातभिषक्क्रियः । आत्मानं घातयेद्यस्तु भृग्वग्न्यनशनाम्बुभिः ॥ तस्य त्रिरात्रमाशौचं द्वितीये त्वक्षिसंयमः । तृतीये सूतकं कुर्वा चतुर्थे मासि माचरेत् ॥ अत्रि 218-219 quoted by मेधातिथि on मनु V. 89, मिता. on या. III. 6, अपरार्क p. 902 (as from Aṅgiras), परा. मा. I. part 2 p. 228 (as from शातातप).
+    वृद्धः शौचस्मृतेर्लुप्तः प्रत्याख्यातभिषक्क्रियः । आत्मानं घातयेद्यस्तु भृग्वग्न्यनशनाम्बुभिः ॥ तस्य त्रिरात्रमाशौचं द्वितीये त्वस्थिसञ्चयम् । तृतीये तूदकं कृत्वा चतुर्थे श्राद्धमाचरेत् ॥ अत्रि 218–219 quoted by मेधातिथि on मनु V. 89, मिता० on या. III. 6, अपरार्क p. 902 (as from Aṅgiras), परा. मा. I. part 2 p. 228 (as from शातातप).
 
 [^2137]:
-    तथा च श्राद्धम् । यो जीवितुं न शक्नोति महाव्याध्युपपीडितः । सोऽग्न्युदकमहायात्रां कुर्वन्नामुत्र दुष्यति ॥ विवस्वान् । सर्वेन्द्रियविरक्तस्य वृद्धस्य कृतकर्मणः । व्याधितस्येच्छया तीर्थे मरणं तपसोधिकम् ॥ तथा गार्ग्योऽपि गृहस्थमधिकृत्याह । महाप्रस्थानगमनं अग्नेरनुप्रवेशादि । भृगुप्रपतनं चैव वृथा नेच्छेतु जीवितुम् ॥ quoted by अपरार्क p. 536.
+    तथा च ब्रह्मगर्भः । यो जीवितुं न शक्नोति महाव्याध्युपपीडितः । सोऽग्न्युदकमहायात्रां कुर्वन्नामुत्र दुष्यति ॥ विवस्वान् । सर्वेन्द्रियविरक्तस्य वृद्धस्य कृतकर्मणः । व्याधितस्येच्छया तीर्थे मरणं तपसोऽधिकम् ॥ तथा गार्ग्योऽपि गृहस्थमधिकृत्याह । महाप्रस्थानगमनं ज्वलनाम्बुप्रवेशनम् । भृगुप्रपतनं चैव वृथा नेच्छेत्तु जीवितुम् ॥ quoted by अपरार्क p. 536.
 
 [[P927]]
 
@@ -176,10 +176,10 @@ prasthāna in the Himālayas or by abandoning life from the branch of the vaṭa
 Some put forward a Vedic passage 'one who desires heaven should not (seek to) die before the appointed span of life is at an end (of itself)' as opposed to the permission for suicide given by the smṛtis. Medhātithi on Manu VI. 32[^2138] quotes this Vedic text and explains it away by saying that if śruti intended to lay down an absolute prohibition against suicide in every case, it would have simply said 'one who desires heaven should not (seek to) die'. The Vāj. S. (40. 3) contains a verse saying 'whoever destroy their self reach after death Asura worlds that are shrouded in blinding darkness', which really refers to persons ignorant of the correct knowledge of the Self. But this has been interpreted by many as referring to those guilty of suicide (ātmahan). Vide Uttararāmacarita IV, after verse 3[^2139] and Bṛ. Up. IV. 4. 11 for a verse similar to that in the Vāj. S. The Rājataraṅgiṇī (VI. 1411) refers to officers appointed by the king to superintend prāyopaveśa (resolving on death by fasting).
 
 [^2138]:
-    ननु च तस्माद्ध्रुवं न पुरायुषः स्वकामी मेयादिति श्रुतिस्तत्र कुतो वानप्रस्थस्य शरीरत्यागः । उच्यते । जरसा विशीर्णस्यानिष्टसंवर्शनादिना वा विविते प्रत्यासन्ने मुमूर्षतो न श्रुतिविरोधः । एवं हि तत्र श्रूयते न पुरायुष इति । अवस्याविशेषे प्राणिनियते मरणे एतावदेवावश्यं स्वकामी मेयादिति । मेधा. on मनु VI 32. Vide कुल्लूक on मनु VI. 31 for an explanation of the same Vedic quotation.
+    ननु च तस्मादु ह न पुरायुषः स्वःकामी प्रेयादिति श्रुतिस्तत्र कुतो वानप्रस्थस्य शरीरत्यागः । उच्यते । जरसा विशीर्णस्यानिष्टसंवर्शनादिना वा विदिते प्रत्यासन्ने मृत्यौ मुमूर्षतो न श्रुतिविरोधः । एवं हि तत्र श्रूयते न पुरायुष इति । अवस्थाविशेषे ह्यनभिप्रेते मरणे एतावदेवावक्ष्यत् स्वःकामी प्रेयादिति । मेधा. on मनु VI 32. Vide कुल्लूक on मनु VI. 31 for an explanation of the same Vedic quotation.
 
 [^2139]:
-    अन्धतामिस्रा ह्यसुर्या नाम ते लोकास्तेभ्यः प्रतिविधीयन्ते य आत्मघातिन स्त्रियं-पुमांसो भवन्ति । उत्तररामचरित IV after verse 3.
+    अन्धतामिस्रा ह्यसूर्या नाम ते लोकास्तेभ्यः प्रतिविधीयन्ते य आत्मघातिन इत्येवमृषयो मन्यन्ते । उत्तररामचरित IV after verse 3.
 
 Among Jains a similar rule prevailed. The Ratnakaranda-śrāvakācāra (chap. 5) of Samantabhadra (about 2nd century A. D.) dilates on Sallekhanā, which consists in abandoning the body for the accumulation of merit in calamities, famines,
 
@@ -195,7 +195,7 @@ From the account of the death of Kalanos the Indian gymnosophist at 73 given by 
 In the times of the purāṇas the method of starting on mahāprasthāna and suicide by entering fire or falling from a precipice came to be forbidden and was included in Kalivarjya.[^2141]
 
 [^2141]:
-    महाप्रस्थानगमनं गोमेधश्च तथा मखः । एतान् धर्मान् कलियुगे वर्जयेत् ... । बृहद्धारीयपुराण, पूर्वार्ध chap. 24. 16 ; vide also स्मृतिचन्द्र I. p. 12.
+    महाप्रस्थानगमनं गोमेधश्च तथा मखः । एतान् धर्मान् कलियुगे वर्ज्यानाहुर्मनीषिणः ॥ बृहन्नारदीयपुराण, पूर्वार्ध chap. 24. 16 ; vide also स्मृतितत्त्व I. p. 12.
 
 It will be noticed that some of the duties and regulations prescribed for vānaprasthas are practically the same as those for sannyāsins. For example, the rules laid down in Manu VI. 25-29 for forest hermits are almost the same as those for parivrājakas[^2142] (Manu VI. 38, 43, 44). The Āp. Dh. S. employs the same words twice in delineating the characteristics of both (II. 9. 21. 10 and 20). The order of hermits gradually leads on to or rather passes over into that of sannyāsins. Both have to observe celibacy and restraint of senses, both have to regulate the intake and quality of food, both have to contemplate on the passages of the Upaniṣads and strive for the knowledge of Brahman. There were no doubt some differences. The vānaprastha could be accompanied by his wife at least in the beginning, a sannyāsin could not be so. A vānaprastha had to keep fires, perform the daily and other yajñas at least in the beginning, the sannyāsin gave up his fires. The vānaprastha had to concentrate upon tapas, upon inuring himself to privations, severe austerities, and self-mortification, while the sannyāsin
 
@@ -204,13 +204,13 @@ It will be noticed that some of the duties and regulations prescribed for vānap
 was concerned principally with saṁyama (restraint or quiescence of senses) and contemplation of the highest Reality, as stated by Śaṅkarācārya on Vedāntasūtra III. 4. 20.[^2143] Owing to the great similarity and virtual fusion of the two āśramas the stage of vānaprastha came to be gradually ignored and people passed from the householder's life directly to the life of sannyāsa. Govindasvāmī on Baud. Dh. S. III. 3. 14-17 remarks that the ācārya (Baudhāyana) should be asked why he describes the two orders of vānaprastha and sannyāsa as distinct.[^2144] In course of time no one probably became a vānaprastha and therefore having recourse to the stage of vānaprastha came to be forbidden in the Kali age.[^2145]
 
 [^2142]:
-    अनग्निरनिकेतः स्याद्ग्रामसीमारणे व्रती । स्वाध्याय एवोद्युजमानो वाचम्...। आप. ध. सू. II. 9. 21. 10 and again एकाग्निरनिकेतः ... ... वाचम् । आप. ध. सू. II. 9. 21. 20 (about वानप्रस्थ).
+    अनग्निरनिकेतः स्यादशर्माशरणो मुनिः स्वाध्याय एवोत्सृजमानो वाचम् ...। आप. ध. सू. II. 9. 21. 10 and again एकाग्निरनिकेतः ...... वाचम् । आप. ध. सू. II. 9. 21. 20 (about वानप्रस्थ).
 
 [^2143]:
-    तपःप्राधान्यधर्मो वानप्रस्थानां कायक्लेशसाधनत्वात् तपःशब्देन तत्र सूच्यते ; निषिद्धस्तु धर्मः इतिकर्त्तव्यतासमाप्तिलक्षणो नैव तपःशब्देनाभिधीयते । भाष्य on वेदान्तसूत्र III. 4. 20.
+    तपश्चासाधारणधर्मो वानप्रस्थानां कायक्लेशप्रधानत्वात् तपःशब्दस्य तत्र रूढेः भिक्षोस्तु धर्म इन्द्रियसंयमादिलक्षणो नैव तपःशब्देनाभिलप्यते । भाष्य on वेदान्तसूत्र III. 4. 20.
 
 [^2144]:
-    वानप्रस्थसंन्यासयोर्भेदः किमर्थमाचार्येण इत्यत आह — ... । गोविन्दस्वामी on बौ. ध. सू. III. 3. 14-17.
+    वानप्रस्थसंन्यासभेदः किमर्थमाचार्यकृत इत्यसावेव प्रष्टव्यः । गोविन्दस्वामी on बौ. ध. सू. III. 3. 14–17.
 
 [^2145]:
-    संसारक्रमेण तथा आदौ वानप्रस्थाभ्यनुज्ञाता । ... ... एतान् धर्मान् कलियुगे वर्जयेत् ... । बृहद्धारीय, पूर्वार्ध 24. 14 ; 'ब्रह्मणा हृतोत्यपि...' स्मृत्यर्थसार p. 2, verse 17.
+    मांसादनं तथा श्राद्धे वानप्रस्थाश्रमस्तथा । ...... एतान् धर्मान् कलियुगे वर्ज्यानाहुर्मनीषिणः ॥ बृहन्नारदीय, पूर्वार्ध 24. 14 ; 'देवरेण सुतोत्पत्तिर्वानप्रस्थाश्रमग्रहः' स्मृत्यर्थसार p. 2, verse 17.

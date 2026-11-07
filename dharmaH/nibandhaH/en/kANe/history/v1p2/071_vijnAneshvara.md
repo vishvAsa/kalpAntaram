@@ -9,8 +9,7 @@ The Mitākṣarā of Vijñāneśvara occupies a unique place in the Dharmaśāst
 
 The Mit. professes to be a commentary on the Yājñava-lkyasmṛti. In the colophons of several mss., it is described as Ṛjumitākṣarā, Pramitākṣarā or simply Mitākṣarā. These names are probably due to some of the verses appended at the end of the commentary.[^820] The Mit. is not only a commentary explaining the verses of Yājñavalkya, but it is in the
 
-[^820]:
-    इति याज्ञवल्क्यमुनिशासनगता विद्यतिर्न कया विहिता विदुषः । प्रमिताक्षराख्य विपुलार्थवती परिवेष्टि अरणयोरभूत् ॥ गम्भीराभिः प्रसन्नाभिर्विमलाभिर्यशस्विनी । अत्यल्पाभिरल्पाभिर्विवृद्धिरिव हिता मया ॥
+[^820]: इति याज्ञवल्क्यमुनिशासनगता विवृतिर्न कस्य विहिता विदुषः । प्रमिताक्षरापि विपुलार्थवती परिविञ्चति श्रवणयोरमृतम् ॥ गम्भीराभिः प्रसन्नाभिर्वार्ग्भिर्न्यस्ता मिताक्षरा । अनल्पार्थाभिरल्पाभिर्विवृत्तिर्विहिता मया ॥
 
 [[P600]]
 

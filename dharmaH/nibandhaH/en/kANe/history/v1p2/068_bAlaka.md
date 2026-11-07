@@ -3,6 +3,8 @@ title = "068 Bālaka"
 
 +++
 
+[[P595]]
+
 68. Bālaka
 
 Bālaka like Jitendriya is no more than a name to us. [[Jimūta vāhana's|Jīmūtavāhana's]] works make frequent reference to him. He held the view that the daughter's son, not being expressly mentioned as an heir by Yāj., came in after those expressly mentioned from the widow to the brother.[^805] The Dāyabhāga notices that Bālaka read a text of Āpastamba in a wrong way.[^806] Bālaka said that the words of Śaṅkha ‘svaryātasya aputrasya bhrātṛgāmi dravyam...jyeṣṭhā vā patnī’ apply either to a widow belonging to a caste other than her husband's or to a very young widow or in case her husband was undivided or re-united.[^807] Bālaka says that when some

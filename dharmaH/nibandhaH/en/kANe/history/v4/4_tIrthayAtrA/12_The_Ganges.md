@@ -3,855 +3,313 @@ title = "12 The Ganges"
 
 +++
 
-CHAPTER XII
+[[P585]]CHAPTER XII
 
 THE GANGES
 
+Since the Ganges is the holiest of rivers and since such highly esteemed [[tirthas|tīrthas]] as Kanakhala, Haridvāra, Prayāga and Kāśi are situated on it, it would be most proper to begin the treatment of individual [[tirthas|tīrthas]] with the Ganges.
 
-CHAPTER XII omodoro
+[[1. It|It]] has been already seen (p. 556) how the Ganges is the first among the many rivers invoked in the famous [[Nadāstuti|Nadīstuti]] hymn ([[Rg.|Ṛg.]] X. 75. 5-6). In [[Rg.1323|Ṛg.]][^1323] VI. 45. 31 we have the word '[[Gāngyah'|Gāṅgyaḥ']] which most probably means 'growing on the Ganges'. In the [[Satapatha Brāhmana|Śatapatha Brāhmaṇa]] XIII. 5. 4. 11 and 13 and Ait. Br. 39. 9 the victories and sacrifices of Bharata [[Daussanti|Dauṣṣanti]] on the [[Ganga|Gaṅgā]] and Yamunā are mentioned. In [[Sat. Br.|Śat. Br.]] XIII. 5. 4. 11 and 13 an ancient [[gātha|gāthā]] is quoted 'At [[Nadapit|Nāḍapit]] the Apsaras [[Sakuntala|Śakuntalā]] conceived Bharata who after conquering the whole earth brought to Indra more than 1000 horses meet for sacrifice.' The Mahābhārata (Anuśāsana 26. 26-103) and the Purāṇas (such as [[Nāradiya,|Nāradīya,]] Uttarārdha, chap. 38-45 and 51. 1-48, Padma V. 60. 1-127, Agni chap. 110, Matsya chap. 180-185, Padma, [[Adikhanda.|Ādikhaṇḍa,]] chap. 33-37) contain hundreds of verses eulogising the greatness and the sanctifying activity of the Ganges. The Skandapurāṇa, [[Kāśikhanda,|Kāśīkhaṇḍa,]] chap. 29 (verses 17-168) contains one thousand names of the Ganges. It is not possible to reproduce here even a small fraction of what is said in these works about the Ganges. To most men in India great rivers like the Ganges, great mountains like the Himālaya present a double aspect, [[viz,|viz.]] the physical aspect and the spiritual aspect. A great river apart from its volume of water is deemed to have a [[spiri tual|spiritual]] or divine life which animates it. Tylor (in 'Primitive Culture', 2nd [[ed.p|ed. p.]] 477) observes 'What we call inanimate objects—rivers, stones, trees, weapons and so forth—are treated as living intelligent beings, talked to, propitiated, punished for the harm they do.' There are separate treatises devoted to the [[glorifica tion|glorification]] of the Ganges and the pilgrimage to it such as the [[P586]][[Gangāpattalaka|Gaṅgāpattalaka]] of Gaṇeśvara (1350 A. D.), [[Gangāvākyāvali|Gaṅgāvākyāvalī]] of [[Viśvāsadevi,|Viśvāsadevī,]] queen of king [[Padmasimha|Padmasiṃha]] of Mithilā, the [[Gangābhakti-tarangiṇi|Gaṅgābhakti-taraṅgiṇī]] of [[Ganapati,|Gaṇapati,]] the [[Gangākrtyaviveka|Gaṅgākṛtyaviveka]] of Vardhamāna. Vide [[H, of Dh,|H. of Dh.]] vol. I. p. 538 for the dates of some of these works.
 
-THE GANGES
+[^1323]: [[Br : qufrat and querg! 35: IFT: RAVI. 45,31.|अधि ब्रध्नः पणीनां वर्षिष्ठे मूर्धन्नस्थात्। उरुः कक्षो न गाङ्ग्यः ॥ ऋ. VI. 45. 31.]] The last [[pada|pāda]] means 'like a broad patch of grass or bush growing [[1907/|on]] the banks of the Ganges'.
 
-Since the Ganges is the holiest of rivers and since such highly esteemed tirthas as Kanakhala, Haridvāra, Prayāga and Kāśi are situated on it, it would be most proper to begin the treatment of individual tirthas with the Ganges.
+The Vanaparva, chap. 85, has a grand eulogy of [[Gangā|Gaṅgā]] in verses 88-97, some of which may be translated [[here 1324.|here]][^1324]. "The Ganges is equal to [[Kuruksetra|Kurukṣetra]] wherever one may take a bath in it, but there is a speciality about Kanakhala and in Prayāga there is the greatest and highest (holiness). If a person, after committing a hundred bad deeds, sprinkles [[him self|himself]] with Ganges (water), the waters of the Ganges burn all of them as fire burns fuel. In the [[Krta|Kṛta]] age all [[(places )|(places)]] were holy, in Tretā age [[Puskara|Puṣkara]] was (the holiest place), in Dvāpara [[Kuruksetra|Kurukṣetra]] and in the Kali age the Ganges. The Ganges, when its name is uttered, purifies a sinner, when seen it yields good fortune, when a bath is taken in it or its water is drunk, it sanctifies the family up to the seventh ancestor. As long as (a particle of) the bones of a man touches Ganges water (i. e. lies inside it), so long does the man remain happy (or honoured) in heaven. There is no holy place equal to the Ganges, there is no god higher than Keśava. That country and that penance-grove where the Ganges flows should be known as the sacred spot of success (or perfection) since it attaches itself to the Ganges." The Anuśāsana (26. 26, 30-31) asserts 'those [[dis tricts|districts]] and countries, those hermitages and mountains, in the midst of which the Ganges flows are pre-eminent in [[punya|puṇya]] (religious merit). Even those men who, after committing sinful acts in the first part of their lives, resort afterwards to the Ganges reach the highest world (or goal). That increase [[in merit)|(in merit)]] which comes to men that bathe in the holy waters of the Ganges and that then become pure in spirit, cannot be secured [[P587]]even by the performance of hundreds of solemn Vedic [[sacrifices.' 1325|sacrifices.']][^1325]
 
-1. It has been already seen (p. 556) how the Ganges is the first among the many rivers invoked in the famous Nadāstuti hymn (Rg. X.75.5-6). In Rg.1323 VI. 45.31 we have the word 'Gāngyah' which most probably means 'growing on the Ganges'. In the Satapatha Brāhmana XIII. 5.4.11 and 13 and Ait. Br. 39. 9 the victories and sacrifices of Bharata Daussanti on the Ganga and Yamunā are mentioned. In Sat. Br. XIII. 5.4.11 and 13 an ancient gātha is quoted 'At Nadapit the Apsaras Sakuntala conceived Bharata who after conquering the whole earth brought to Indra more than 1000 horses meet for sacrifice.' The Mahābhārata (Anuśāsana 26. 26-103) and the Purāṇas (such as Nāradiya, Uttarārdha, chap. 38-45 and 51. 1-48, Padma V. 60. 1-127, Agni chap. 110, Matsya chap. 180-185, Padma, Adikhanda. chap. 33-37) contain hundreds of verses eulogising the greatness and the sanctifying activity of the Ganges. The Skandapurāṇa, Kāśikhanda, chap. 29 (verses 17-168) contains one thousand names of the Ganges. It is not possible to reproduce here even a small fraction of what is said in these works about the Ganges. To most men in India great rivers like the Ganges great mountains like the Himālaya present a double aspect, viz, the physical aspect and the spiritual aspect. A great river apart from its volume of water is deemed to have a spiri tual or divine life which animates it. Tylor (in 'Primitive Culture', 2nd ed.p 477) observes 'What we call inanimate objects rivers, stones, trees, weapons and so forth-are treated as living intelligent beings, talked to, propitiated, punished for the harm they do.' There are separate treatises devoted to the glorifica tion of the Ganges and the pilgrimage to it such as the
+[^1324]: [[WHAT TET E T riari aina ETT TA HETI|कुरुक्षेत्रसमा गङ्गा यत्र तत्रावगाहिता। विशेषो वै कनखले प्रयागे परमं महत् ॥]] यद्यकार्यशतं कृत्वा कृतं गङ्गावसेचनम्। सर्वं तत्तस्य गङ्गापो दहत्यग्निरिवेन्धनम् ॥ 88; [[मई|सर्वे]] कृतयुगे पुण्यं त्रेतायां पुष्करं स्मृतम्। [[द्वापरोपं कुरुक्षेत्र|द्वापरेऽपि कुरुक्षेत्रं]] गङ्गा कलियुगे स्मृता [[॥....पुनाति|॥...पुनाति]] कीर्तिता पापं [[दृष्टा|दृष्ट्वा]] भद्रं प्रयच्छति। अवगाढा च पीता च पुनात्यासप्तमं कुलम् ॥ [[यावदास्थि मनुण्यस्य|यावदस्थि मनुष्यस्य]] गङ्गायाः स्पृशते जलम्। तावत्स पुरुषो राजन् स्वर्गलोके महीयते॥ 94... न गङ्गासदृशं तीर्थं न देवः केशवात्परः।... यत्र गङ्गा महाराज स देशस्तत्तपोवनम्। [[सिद्धिक्षेत्रंच|सिद्धिक्षेत्रं च]] तज्ज्ञेयं [[गडातीर PART|गङ्गातीर-]]समाश्रितम्॥ [[gará 85.88-97=2|वनपर्व 85. 88-97=पद्म]] I. [[39.81-90.|39. 81-90.]] [[Areia. (JT)|नारदीय. (उत्तर)]] 39. 46 is [[... ESTIU utilearI|कुरुक्षेत्र... गाहिता।]] [[EET TUT Z PAYS FITEST II.|हरिद्वारे प्रयागे च सिन्धुसङ्गे फलाधिका ॥.]] The [[artatay. (TTT)|नारदीयपु. (उत्तर)]] 38. 20 is [[er a Faatuita gargi...tot gr farsoyal.|कृते तु सर्वतीर्थानि त्रेतायां ...कलौ गङ्गा विशिष्यते॥.]] The [[I. 27. 37 has a preus
 
-POONA
+a n The same verse is quoted from vacy by aiera: p. 191. aroma|कूर्म. I. 27. 37 has कृते तु नैमिषं तीर्थ. The same verse is quoted from भविष्य by तीर्थचि. p. 191.]]
+[^1325]: [[0 1325. ।|]]स्नातानां शुचिभिस्तोयैः गाङ्गेयैः प्रयतात्मनाम्। व्युष्टिर्भवति या पुंसां न सा [[ऋतु शतैरपि॥|क्रतुशतैरपि॥]] अनुशासन [[26.31,|26. 31,]] नारद (उत्तर) [[39.30-31|39. 30-31]] and also 40. 64.
 
-FOUNDED
+In the [[Bhagavadgitā (X, 31)|Bhagavadgītā (X. 31)]] Lord [[Krsna|Kṛṣṇa]] says that among streams he is the Ganges (srotasāmasmi [[Jāhnavi).|Jāhnavī).]] The [[Manusmệti|Manusmṛti]] setting out an exordium to a witness to tell the truth indicates that the Ganges and [[Kuruksetra|Kurukṣetra]] were the most sacred spots in the age of the [[Manusmrti.1326|Manusmṛti.]][^1326] Some of the Purāṇas describe the Ganges as flowing in Heaven (as [[Mandākini),|Mandākinī),]] on the earth (as [[Gangā)|Gaṅgā)]] and in the nether regions or Pātāla (as [[Bhogavati).|Bhogavatī).]] Vide Padma VI. 267. 47. The [[Viṣnupurāṇa 1327|Viṣṇupurāṇa]][^1327] and other Purāṇas state that the Ganges springs from the toe-nail of the left foot of [[Visṇu.|Viṣṇu.]] In some [[Purānas|Purāṇas]] it is said that Śiva let off from his matted hair the Ganges in seven streams, three flowing towards the east ([[Nalini, Hlādini, Pāvanī),|Nalinī, Hlādinī, Pāvanī),]] three to the west ([[Sitā, Cakṣus|Sītā, Cakṣus]] and Sindhu) and [[Bhāgirathi|Bhāgīrathī]] (vide Matsya 121. 38-41, [[Brahmānda IL 18. 39-41,|Brahmāṇḍa II. 18. 39-41,]] Padma I. 3. 65-66). The [[Kurmapurana (L.46.30-31)|Kūrmapurāṇa (I. 46. 30-31)]] and Varāha (chap. 82 in prose) state that the Ganges flows first in four different streams, [[Sita, Alakananda, Sucaksu|Sītā, Alakanandā, Sucakṣu]] and Bhadrā and that the Alakanandā flows towards the south, comes to Bhāratavarṣa and falls into the sea with seven [[mouths.1328|mouths.]][^1328] In the [[Brahmapurana (73. 68-69)|Brahmapurāṇa (73. 68-69)]] the Ganges is described as sprung from the foot of [[Visṇu|Viṣṇu]] and as established in the matted hair of [[Mahesvara (Siva).|Maheśvara (Śiva).]]
 
-1323. Br : qufrat and querg! 35: IFT: RAVI. 45,31. The last pada means 'like a broad patch of grass or bush growing 1907/ the banks of the Ganges'.
+[^1326]: यमो वैवस्वतो देवो यस्तवैष हृदि स्थितः। तेन चेदविवादस्ते मा गङ्गां मा [[कुरू|कुरून्]] गमः॥ मनु [[8.92.|8. 92.]]
+[^1327]: [[वामपादाम्बुजाङ्गष्ठनखस्रोतोविनिर्गताम् । विष्णोबिभर्ति यां भक्त्या शिरसाहनि शं ध्रुवः॥ विष्णुपु. II. 8. 109, q. by कल्पतरु (तीर्थ) p. 161 (reads शिवः); नदी सा वैष्णवी प्रोक्ता विष्णुपादसमुद्भवा। पद्म V. 25. 188,|वामपादाम्बुजाङ्गुष्ठनखस्रोतोविनिर्गताम् । विष्णोर्बिभर्ति यां भक्त्या शिरसाहर्निशं ध्रुवः॥ विष्णुपु. II. 8. 109, q. by कल्पतरु (तीर्थ) p. 161 (reads शिवः); नदी सा वैष्णवी प्रोक्ता विष्णुपादसमुद्भवा। पद्म V. 25. 188.]]
+[^1328]: [[_1328.|]]तथैवालकनन्दा च दक्षिणादेत्य भारतम् । प्रयाति सागरं भित्त्वा सप्तभेदा द्विजोत्तमाः॥ कूर्म I. [[46.31.|46. 31.]]
 
-H, D. 74
+The [[Vispupurāṇa eulogises 1329|Viṣṇupurāṇa eulogises]][^1329] the Ganges as follows: The Ganges purifies all beings from day to day when its name is [[P588]]heard, when one desires to see (it), when it is seen or touched or when its waters are drunk or when one plunges into it or when one takes (or sings) its name; when people utter the name 'Ganges' even though living at a distance of hundreds of yojanas, their sins accumulated in three births are destroyed.'
 
-॥ नजस्विना
+[^1329]: [[2_1329. श्रुताभिलषिता दृष्टा स्पृष्टा पीतावगाहिता। या पावयति भूतानि कीर्तिता च दिने दिने॥ गङ्गा गङ्गेति यैर्नाम योजनानां शतेष्वपि। स्थितैरुच्चारितं हन्ति पापं जन्मजया जितम्॥ विष्णुपु. II. 8. 120-121 q. by गावा. p. 110, तीर्थचि. p. 205, मयक्ति p. 9. The 2nd verse is variously read in VET VI. 21.8 and 23.12. 115, 82 Pas गङ्गा...यो बूयाद्योजनानां शतैरपि। मुच्यते सर्वपापेभ्यो विष्णुलोकं स गच्छति.waite.पद्म
 
-Bhandarkar Oriental Research Institute
+I. 31.77 reads °शतैरपि । नरो न नरकं याति किं तया सदृशं भवेत्.|श्रुताभिलषिता दृष्टा स्पृष्टा पीतावगाहिता। या पावयति भूतानि कीर्तिता च दिने दिने॥ गङ्गा गङ्गेति यैर्नाम योजनानां शतेष्वपि। स्थितैरुच्चारितं हन्ति पापं जन्मत्रयार्जितम्॥ विष्णुपु. II. 8. 120-121 q. by गङ्गावा. p. 110, तीर्थचि. p. 205, गङ्गाभक्ति० p. 9. The 2nd verse is variously read in पद्म VI. 21. 8 and 23. 12, ब्रह्म 175. 82 as गङ्गा...यो ब्रूयाद्योजनानां शतैरपि। मुच्यते सर्वपापेभ्यो विष्णुलोकं स गच्छति; while पद्म I. 31. 77 reads ०शतैरपि । नरो न नरकं याति किं तया सदृशं भवेत्.]]
 
-586
+The [[Bhavisyapurāṇa 1330|Bhaviṣyapurāṇa]][^1330] has a similar verse 'one becomes free from sins at once by seeing the Ganges or touching it or [[drink. ing|drinking]] its water and by uttering the name [[Gangā|Gaṅgā]] and also by remembering [[it.'1331|it.']][^1331] The Matsya, Kūrma, [[Garuda|Garuḍa]] and Padma remark that the Ganges is easy of access everywhere but is difficult to reach at three places viz. at [[Gangādvāra|Gaṅgādvāra]] (Haridvāra), at Prayāga and where it joins the sea and that those who bathe therein reach heaven and that those who die there are not born again. The [[Nāradiyapurāṇa,|Nāradīyapurāṇa,]] on the other hand, says that the Ganges is difficult of access everywhere, but much more so at three places. The man, whether desiring it or not, who draws near the Ganges and dies (near it) secures heaven and does not see hell (Matsya [[107.4).1332|107. 4).]][^1332] The Kūrmapurāṇa represents that the Ganges [^1333] is equal to all the 35 millions of holy places declared by Vāyu in the heaven, in mid region and on the earth and that all of them are represented by the Ganges. The Padmapurāṇa asks [[what|'what]] is the use of sacrifices rich in large wealth, what is the use of very difficult austerities when there is the Ganges honoured easily and gracefully that yields Heaven and mokṣa'? [[A.|A]] similar verse occurs in the [[Nāradiya-purāṇa|Nāradīya-purāṇa]] 'what is the use of Yoga with its eight [[angas,|aṅgas,]] of austerities, of solemn (Vedic) sacrifices? Residence [[P589]]on the Ganges alone is superior to all [[these' 1334.|these']][^1334]. Two verses of the [[Matsya-purāṇa 1335|Matsya-purāṇa]][^1335] deserve mention here [[even|'even]] a man of sinful deeds, on remembering the Ganges even at a [[dis tance|distance]] of thousands of yojanas, attains the highest goal. A person is delivered from sin by uttering the name (of the Ganges), on seeing it a person sees happiness; by bathing in the Ganges and drinking its water he purifies his family up to the seventh ancestor'. It is stated in the [[Kāśikhanda|Kāśīkhaṇḍa]] that on the banks of the glorious Ganges all times are auspicious as well as all countries, and all men are fit for receiving gifts.
 
-History of Dharmaśāstra
-
-[Vol.
-
-Gangāpattalaka of Gaṇeśvara (1350 A. D.), Gangāvākyāvali of Viśvāsadevi, queen of king Padmasimha of Mithilā, the Gangābhakti-tarangiṇi of Ganapati, the Gangākrtyaviveka of Vardhamāna. Vide H, of Dh, vol. I. p. 538 for the dates of some of these works.
-
-The Vanaparva, chap. 85, has a grand eulogy of Gangā in verses 88-97, some of which may be translated here 1324. "The Ganges is equal to Kuruksetra wherever one may take a bath in it, but there is a speciality about Kanakhala and in Prayāga there is the greatest and highest (holiness). If a person, after committing a hundred bad deeds, sprinkles him self with Ganges (water), the waters of the Ganges burn all of them as fire burns fuel. In the Krta age all (places ) were holy, in Tretā age Puṣkara was (the holiest place), in Dvāpara Kuruksetra and in the Kali age the Ganges. The Ganges, when its name is uttered, purifies a sinner, when seen it yields good fortune, when a bath is taken in it or its water is drunk, it sanctifies the family up to the seventh ancestor. As long as (a particle of) the bones of a man touches Ganges water (i. e. lies inside it), so long does the man remain happy (or honoured) in heaven. There is no holy place equal to the Ganges, there is no god higher than Keśava. That country and that penance-grove where the Ganges flows should be known as the sacred spot of success (or perfection) since it attaches itself to the Ganges." The Anuśāsana (26.26, 30-31) asserts 'those dis tricts and countries, those hermitages and mountains, in the midst of which the Ganges flows are pre-eminent in punya (religious merit). Even those men who, after committing sinful acts in the first part of their lives, resort afterwards to the Ganges reach the highest world (or goal). That increase in merit) which comes to men that bathe in the holy waters of the Ganges and that then become pure in spirit, cannot be secured
-
-1324. WHAT TET E T riari aina ETT TA HETI यद्यकार्यशतं कृत्वा कृतं गङ्गावसेचनम्। सर्व तत्तस्य गङ्गापो दहत्यग्निरिवेन्धनम् ॥ 88; मई कृतयुगे पुण्यं त्रेतायां पुष्करं स्मृतम्। द्वापरोपं कुरुक्षेत्र गङ्गा कलियुगे स्मृता ॥....पुनाति कीर्तिता पापं दृष्टा भद्रं प्रयच्छति। अवगाढा च पीता च पुनात्यासप्तमं कुलम् ॥ यावदास्थि मनुण्यस्य गङ्गायाः स्पृशते जलम्। तावत्स पुरुषो राजन् स्वर्गलोके महीयते॥ 94... न गङ्गासदृशं तीर्थ न देवः केशवात्परः।... यत्र गङ्गा महाराज स देशस्तत्तपोवनम्। सिद्धिक्षेत्रंच तज्ज्ञेयं गडातीर PART gará 85.88-97=2 I. 39.81-90. Areia. (JT) 39.46 is ... ESTIU utilearI EET TUT Z PAYS FITEST II. The artatay. (TTT) 38. 20 is er a Faatuita gargi...tot gr farsoyal. The I. 27. 37 has a preus
-
-a n The same verse is quoted from vacy by aiera: p. 191. aroma
-
-POONA
-
-FOUNDED
-
-1917
-
-॥ नजरिवनाव
-
-Bhandarkar Oriental Research Institute
-
-IV]
-
-Eulogy of the Ganges
-
-587
-
-TED
-
-even by the performance of hundreds of solemn Vedic sacrifices.' 1325
-
-In the Bhagavadgitā (X, 31) Lord Krsna says that among streams he is the Ganges (srotasāmasmi Jāhnavi). The Manusmệti setting out an exordium to a witness to tell the truth indicates that the Ganges and Kuruksetra were the most sacred spots in the age of the Manusmrti.1326 Some of the Purāṇas describe the Ganges as flowing in Heaven (as Mandākini), on the earth (as Gangā) and in the nether regions or Pātāla (as Bhogavati). Vide Padma VI. 267. 47. The Viṣnupurāṇa 1327 and other Purāṇas state that the Ganges springs from the toe-nail of the left foot of Visṇu. In some Purānas it is said that Siva let off from his matted hair the Ganges in seven streams, three flowing towards the east (Nalini, Hlādini, Pāvanī), three to the west (Sitā, Cakṣus and Sindhu) and Bhāgirathi (vide Matsya 121. 38-41, Brahmānda IL 18. 39-41, Padma I. 3. 65-66). The Kurmapurana (L.46.30-31) and Varāha (chap. 82 in prose) state that the Ganges flows first in four different streams, Sita, Alakananda, Sucaksu and Bhadrā and that the Alakanandā flows towards the south, comes to Bhāratavarṣa and falls into the sea with seven
-
-mouths.1328 In the Brahmapurana (73. 68-69) the Ganges is described as sprung from the foot of Visṇu and as established in the matted hair of Mahesvara (Siva).
-
-The Vispupurāṇa eulogises 1329 the Ganges as follows: The Ganges purifies all beings from day to day when its name is
-
-0 1325. । स्नातानां शुचिभिस्तोयैः गाङ्गेयैः प्रयतात्मनाम्। व्युष्टिर्भवति या पुंसां न सा ऋतु शतैरपि॥ अनुशासन 26.31, नारद (उत्तर) 39.30-31 and also 40.64.
-
-1326. यमो वैवस्वतो देवो यस्तवैष हृदि स्थितः। तेन चेदविवादस्ते मा गङ्गां मा कुरू गमः॥ मनु 8.92.
-
-1327. वामपादाम्बुजाङ्गष्ठनखस्रोतोविनिर्गताम् । विष्णोबिभर्ति यां भक्त्या शिरसाहनि शं ध्रुवः॥ विष्णुपु. II. 8. 109, q. by कल्पतरु (तीर्थ) p. 161 (reads शिवः); नदी सा वैष्णवी प्रोक्ता विष्णुपादसमुद्भवा। पद्म V. 25. 188,
-
-_1328. तथैवालकनन्दा च दक्षिणादेत्य भारतम् । प्रयाति सागरं भित्त्वा सप्तभेदा द्विजोत्तमाः॥ कूर्म I. 46.31.
-
-2_1329. श्रुताभिलषिता दृष्टा स्पृष्टा पीतावगाहिता। या पावयति भूतानि कीर्तिता च दिने दिने॥ गङ्गा गङ्गेति यैर्नाम योजनानां शतेष्वपि। स्थितैरुच्चारितं हन्ति पापं जन्मजया जितम्॥ विष्णुपु. II. 8. 120-121 q. by गावा. p. 110, तीर्थचि. p. 205, मयक्ति p. 9. The 2nd verse is variously read in VET VI. 21.8 and 23.12. 115, 82 Pas गङ्गा...यो बूयाद्योजनानां शतैरपि। मुच्यते सर्वपापेभ्यो विष्णुलोकं स गच्छति.waite.पद्म
-
-I. 31.77 reads °शतैरपि । नरो न नरकं याति किं तया सदृशं भवेत्.
-
-STAN
-
-मास्वनावमा
-
-Research Institute
-
-588
-
-History of Dharmaśāstra
-
-[Vol.
-
-heard, when one desires to see (it), when it is seen or touched or when its waters are drunk or when one plunges into it or when one takes (or sings) its name; when people utter the name 'Ganges' even though living at a distance of hundreds of yojanas, their sins accumulated in three births are destroyed.' The Bhavisyapurāṇa 1330 has a similar verse 'one becomes free from sins at once by seeing the Ganges or touching it or drink. ing its water and by uttering the name Gangā and also by remembering it.'1331 The Matsya, Kūrma, Garuda and Padma remark that the Ganges is easy of access everywhere but is difficult to reach at three places viz. at Gangādvāra (Haridvāra), at Prayāga and where it joins the sea and that those who bathe therein reach heaven and that those who die there are not born again. The Nāradiyapurāṇa, on the other hand, says that the Ganges is difficult of access everywhere, but much more so at three places. The man, whether desiring it or not, who draws near the Ganges and dies (near it) secures heaven and does not see hell (Matsya 107.4).1332 The Kūrmapurāṇa represents that the Ganges 1333 is equal to all the 35 millions of holy places declared by Vāyu in the heaven, in mid region and on the earth and that all of them are represented by the Ganges. The Padmapurāṇa asks what is the use of sacrifices rich in large wealth, what is the use of very difficult austerities when there is the Ganges honoured easily and gracefully that yields Heaven and mokṣa'? A. similar verse occurs in the Nāradiya-purāṇa 'what is the use of Yoga with its eight angas, of austerities, of solemn (Vedic) sacrifices? Residence
-
-1330. aziartuṣlargiaia 29 erat antara! Facuri grur: HT: Tra: w yên sâuzy. q. by afera. p. 198. gr. p. 12, no p. 9. The first
+[^1330]: [[aziartuṣlargiaia 29 erat antara! Facuri grur: HT: Tra: w yên sâuzy. q. by afera. p. 198. gr. p. 12, no p. 9. The first
 
 half is 313TH 26.64, fly. 110.6; Talas TTFETTI FIT Fun a l T: FATE Faá Fİ HISTT Tea quara I FF (Tribuz) TTT 27.37,
 
-ATTE (5 ) 39. 16-17.
+ATTE (5 ) 39. 16-17.|दर्शनात्स्पर्शनात्पानात् तथा गङ्गेति कीर्तनात्। स्मरणादेव गङ्गायाः सद्यः पापैः प्रमुच्यते॥ भविष्यपु. q. by तीर्थचि. p. 198, गङ्गावा. p. 12, गङ्गाभ० p. 9. The first half is अनुशासन 26. 64, अग्निपु. 110. 6; गच्छंस्तिष्ठन् जपन्ध्यायन् भुञ्जन् जाग्रत् स्वपन् वदन्। यः स्मरेत् सततं गङ्गां सोऽपि मुच्येत बन्धनात् ॥ स्कन्द (काशीखण्ड) पूर्वार्ध 27. 37, नारद (उत्तर) 39. 16-17.]]
+[^1331]: सर्वत्र सुलभा गङ्गा त्रिषु स्थानेषु दुर्लभा। गङ्गाद्वारे प्रयागे च [[गङ्गासागरसड़मे॥ E areat fea a Tarasyarat: 11 HEFT. 106.54, p. 1.37.34, 75€ (g) 81. 1-2. V. 60.120. The Araia ( 37 40.26-27) reads: a HTISTEG Ferrag anh treTT. HÀ yg Farar feat... at:ll.|गङ्गासागरसङ्गमे॥ तत्र स्नात्वा दिवं यान्ति ये मृतास्तेऽपुनर्भवाः ॥ मत्स्य. 106. 54, कूर्म. I. 37. 34, गरुड (पूर्व०) 81. 1-2, पद्म V. 60. 120. The नारदीय (उत्तर 40. 26-27) reads: सर्वत्र दुर्लभा गङ्गा त्रिषु स्थानेषु चाधिका। गङ्गाद्वारे...सङ्गमे॥ एषु स्नाता दिवं...र्भावाः ॥.]]
+[^1332]: अकामो वा सकामो वा गङ्गायां [[योऽभिपद्यते। मृतस्तु लभते स्वर्ग नरकं च न yra il T. 107.4, q. by a (on afe) p. 145 (reads of age). . 37.39 has the same verse with slight variations; compare I. 44.4.|योऽभिपद्यते। मृतस्तु लभते स्वर्गं नरकं च न पश्यति ॥ मत्स्य. 107. 4, q. by कल्पतरु (on तीर्थ) p. 145 (reads यो विपद्यते). कूर्म. I. 37. 39 has the same verse with slight variations; compare पद्म I. 44. 4.]]
+[^1333]: [[raw mieziterhiei a avrai argraafia, fara yotarten på Grand TUNDU Fuatil grup I. 39.8, I. 47.7, V. 60. 59. ATT. 102. 5 (reads arra a pica AGA).|तिस्रः कोट्योऽर्धकोटी च तीर्थानां वायुरब्रवीत्। दिवि भुव्यन्तरिक्षे च तत्सर्वं जाह्नवी स्मृता ॥ कूर्म I. 39. 8, पद्म I. 47. 7, V. 60. 59, मत्स्य. 102. 5 (reads तानि ते सन्ति जाह्नवि).]]
+[^1334]: किं [[यज्ञैर्बहुवित्ताढयैः|यज्ञैर्बहुवित्ताढ्यैः]] किं तपोभिः सुदुष्करैः। [[स्वर्गमोक्षपदा|स्वर्गमोक्षप्रदा]] गङ्गा [[सुखसौभाग्य प्रजिता॥|सुखसौभाग्यपूजिता॥]] पद्म V. 60. 39; किमष्टाङ्गेन योगेन किं तपोभिः किमध्वरैः। वास एव हि गङ्गायां [[सर्वतोपि विशिष्यते॥|सर्वतोऽपि विशिष्यते॥]] नारदीय (उत्तर) 38. 38, q. in तीर्थचि. p. 194 (reads गङ्गायां [[बह्मज्ञानस्य|ब्रह्मज्ञानस्य]] कारणम्) and प्राय. तत्त्व. p. 498. The first verse किं यज्ञैः is quoted as from ब्रह्माण्ड by तीर्थचि. p. 195 (last [[pada|pāda]] is सुखसेव्या यतः स्थिता).
+[^1335]: योजनानां सहस्रेषु [[गङ्गायाः स्मरणानरः। अपि दुण्कृतकर्मा|गङ्गायाः स्मरणान्नरः। अपि दुष्कृतकर्मा]] तु लभते परमां गतिम्॥ कीर्तनान्मुच्यते पापाद् [[दृष्टा भद्राणि|दृष्ट्वा भद्राणि]] पश्यति। अवगाह्य च पीत्वा तु पुनात्यासप्तमं कुलम्॥ मत्स्य. 104. 14-15 q. by कल्पतरु (तीर्थ) p. 160; vide also मत्स्य. 108. 25-26. Compare वनपर्व [[87.93|87. 93]] (पुनाति कीर्तिता०) quoted in n. [[1324%;|1324;]] सर्व एव शुभः कालः सर्वो देशस्तथा शुभः। सर्वो जनो दानपात्रं श्रीमतीजाह्नवीतटे॥ काशीखण्ड [[27.69.Cig|27. 69.]]
 
-1331. सर्वत्र सुलभा गङ्गा त्रिषु स्थानेषु दुर्लभा। गङ्गाद्वारे प्रयागे च गङ्गासागरसड़मे॥ E areat fea a Tarasyarat: 11 HEFT. 106.54, p. 1.37.34, 75€ (g) 81. 1-2. V. 60.120. The Araia ( 37 40.26-27) reads: a HTISTEG Ferrag anh treTT. HÀ yg Farar feat... at:ll.
+In the [[Varahapurana (chap. 82)|Varāhapurāṇa (chap. 82)]] the name '[[Ganga'|Gaṅgā']] is [[deri ved|derived]] as '[[gām gatā'|gāṃ gatā']] (that has gone to the earth). The [[Padma purāṇa (Srstikhanda 60. 64-65)|Padmapurāṇa (Sṛṣṭikhaṇḍa 60. 64-65)]] specifies the mūlamantra about the Ganges as follows : 'Om namo [[Gangayai, visvarupinyai nārāyaṇyai namo namah'. Koth|Gaṅgāyai, viśvarūpiṇyai nārāyaṇyai namo namaḥ'.]]
 
-1332. अकामो वा सकामो वा गङ्गायां योऽभिपद्यते। मृतस्तु लभते स्वर्ग नरकं च न yra il T. 107.4, q. by a (on afe) p. 145 (reads of age). . 37.39 has the same verse with slight variations; compare I. 44.4.
+The [[Padmapurana (srsti|Padmapurāṇa (sṛṣṭi]] 60. 35) holds that [[Visnu repre sents|Viṣṇu represents]] all the gods and the Ganges represents [[Visnu.|Viṣṇu.]] It [[eulo gises|eulogises]] the Ganges as follows: Sons abandon their fathers, wives their husbands, friends and relatives abandon a friend or a [[rela tive|relative]] if any one of these is adulterous, or patita, or wicked or becomes a [[cāndāla|cāṇḍāla]] or kills his guru, or is full of all kinds of sins and hatreds; but the Ganges does not forsake such [[persons 1336|persons]][^1336].
 
-1333. raw mieziterhiei a avrai argraafia, fara yotarten på Grand TUNDU Fuatil grup I. 39.8, I. 47.7, V. 60. 59. ATT. 102. 5 (reads arra a pica AGA).
+[^1336]: [[-1336.|]]जारजं पतितं दुष्टमन्त्यजं गुरुघातिनम् । सर्वद्रोहेण संयुक्तं सर्वपातकसंयुतम् ॥ त्यजन्ति पितरं पुत्राः प्रियं पत्न्यः सुहृद्गणाः । अन्ये च बान्धवाः सर्वे गङ्गा तान्न परित्यजेत्॥ पद्म (सृष्टिखण्ड [[60.25-26).!-1 ) एव:|60. 25-26).]]
 
-POONAS
+The extent of the holy region of the Ganges is laid down in some purāṇas. The [[Nāradiya 1337|Nāradīya]][^1337] states: the region [[P590]]within one gavyūti from the banks of the Ganges is called [[ksetra;|kṣetra;]] one should reside within the kṣetra limits, but not on the bank itself; [[residence on the bank of the Ganges ) is not desired.|residence on the bank (of the Ganges) is not desired.]] The limits of the kṣetra are of the extent of one yojana between both the banks' i. e. the kṣetra extends for two [[krosas|krośas]] from each bank. The general rule is stated by Yama that forests, mountains, holy rivers and [[tirthas|tīrthas]] are without an owner; these cannot be possessed (by a person as owner). The [[Brahmapurāṇa 1338|Brahmapurāṇa]][^1338] says that [[measur ing|measuring]] from the flowing waters for a distance of four hastas, God Nārāyaṇa is the Lord (or owner) and no one should accept a gift in that strip even if he be on the point of death. A [[differ ence|difference]] is made between the garbha (the inner circle) of the [[Gangākṣetra,|Gaṅgākṣetra,]] the tīra and the kṣetra. [["Garbha'|'Garbha']] extends up to that portion of the river stream which is reached on the 14th of the dark half of [[Bhadrapada;|Bhādrapada;]] beyond that is the [[tira (bank).|tīra (bank),]] which extends upto 150 hastas from garbha and kṣetra extends up to two [[krosas|krośas]] from each bank.
 
-FOUNDED
+[^1337]: [[तीराव्यतिमात्रं|तीराद्गव्यूतिमात्रं]] तु परितः क्षेत्रमुच्यते। तीरं त्यक्त्वा [[वसेत्वे तीरे चासो|वसेत्क्षेत्रे तीरे वासो]] न चेष्यते ॥ एकयोजनविस्तीर्णा क्षेत्रसीमा तटद्वयात् । नारदीय (उत्तर) 43. [[119-1200The|119-120. The]] first is quoted from स्कन्द by तीर्थचि. p. 266, which remarks 'उभयतटे प्रत्येकं क्रोशद्वयं क्षेत्रम्'. The half verse [[एक.|एक०]] is quoted from भविष्य by [[तीर्थचिन्न,267,|तीर्थचि. p. 267,]] [[15 .|गङ्गावा.]] p. 136. [[era|गव्यूति]] is a measure of length or distance generally taken as equal to two krośas. There was some difference about the measures of [[lengtb.|length.]] According to the Amarakośa a gavyūti is equal to two krośas [['tegia: at
 
-1917
+STTT'.|'गव्यूतिः स्त्री क्रोशयुगम्'.]] According to the [[ary|वायु]] 8. 105-107 and 101. 122-126 and [[IE|ब्रह्माण्ड]] II. 7. 96-101 the measures are 24 [[315ys|अङ्गुलs]] = one [[gra,|हस्त,]] 96 [[319gs|अङ्गुलs]] = [[uz:|धनुः]] (which is same as [[que, Ty and art);|दण्ड, युग and नाली);]] 2000 [[y: = yeyra|धनुः = गव्यूति]] and 8000 [[ua:= a:;|धनुः = योजनः;]] acc. to the [[arvey|मार्कण्डेय]] 46. 37-40, 4 [[gras=ua:|हस्तs = धनुः]] or [[que,|दण्ड,]] or युग or [[yr orator);|नालिका);]] 2000 [[ya:=137,|धनुः = क्रोश,]] 4 [[STETS = nearer|क्रोशs = गव्यूति]] which is the same as [[7a.|योजन.]] Vide H. of Dh. vol. III. p. 145 [[n,|n.]] 185.
+[^1338]: प्रवाहमवधिं कृत्वा यावद्धस्तचतुष्टयम् । अत्र नारायणः स्वामी नान्यः स्वामी कदाचन॥ न तत्र [[प्रतिगृह्णीयात्माणैः|प्रतिगृह्णीयात्प्राणैः]] कण्ठगतैरपि॥ भाद्रशुक्लचतुर्दश्यां यावदाक्रमते जलम् । [[araga fa c i atunyai|तावद्गर्भं विजानीयात्तदूर्ध्वं तीरमुच्यते।]] नारद (उत्तर) 43. 116-118 q. by [[alerg,|तीर्थचि.]] p. 266 and प्राय. [[तत्व.|तत्त्व.]] p. 499 (from ब्रह्मपुराण and the verse भाद्र० from दानधर्म) and [[byssmes jarat.|by गङ्गावा.]] p. 136 (the first verse from [[ante); anę (JTR) 43. 118 (last half Ylis Fruetara eragutati aa: url. The digests read F oto for a t|ब्रह्माण्ड); नारद (उत्तर) 43. 118 (last half is सार्धहस्तशतं यावद्गर्भस्तीरं ततः परम्॥. The digests read भाद्रकृष्ण० for भाद्रशुक्ल०.]]
 
-alia
+Let us suppose that the pilgrim has come to the Ganges. Then the question is, how is he to proceed about a bath in the Ganges. Many of the digests contain several alternate forms of the [[sankalpa|saṅkalpa]] to be made at the time of [[Gangā-snāna.|Gaṅgā-snāna.]] For example, the Prāyaścittatattva (pp. 497-498) contains a very elaborate [[sankalpa.|saṅkalpa.]] A simple one is quoted below from the [[Gangāvākyāvali.1339|Gaṅgāvākyāvalī.]][^1339] The mode of bathing prescribed in the [[P591]]Matsyapurāṇa 102 is common to people of all varṇas and students of all the different recensions of the Veda. The Matsyapurāṇa, chap. 102, which contains one of the earliest procedure of a [[reli gious|religious]] bath, and which has been taken over by several digests such as the [[Gangāvākyāvali|Gaṅgāvākyāvalī]] (pp. 148–152) is summarised here. Cleanliness (of the body) and clean thoughts do not exist without a bath; therefore bathing is first prescribed for making the mind pure. One may bathe with water drawn (in a vessel from a well or stream) or with water not so drawn. A wise man should fix upon a holy spot after repeating the [[funda mental|fundamental]] mantra 'namo Nārāyaṇāya' (reverent bow to Nārāyaṇa). A man holding darbha grass in his hand and being clean and pure should perform ācamana (ceremonial sipping of water). He should select a spot four hastas square on all sides and invoke the Ganges (to come or be present there) with the following mantras 'you are sprung from the foot of Viṣṇu, you are a devotee of Viṣṇu, you worship [[Viṣnu;|Viṣṇu;]] therefore save us from sins committed from birth to death. Vāyu declared that there are three and a half crores (35 millions) of holy places in heaven, on the earth and in mid air; all these, O Ganges (daughter of Jahnu), belong to you. Your name among the gods is [[Nandini|Nandinī]] (the joy-giving) and also [[Nalini|Nalinī]] and there are other names of yours viz. [[Dakṣā, Prthvi, Vihagā, Visva kāyā, Amộtā, Sivā, Vidyādhari, Supraśāntā, Viśva-prasādini, Kṣemā, Jāhnavi, śāntā, śāntipradāyinī. 1339a|Dakṣā, Pṛthvī, Vihagā, Viśvakāyā, Amṛtā, Śivā, Vidyādharī, Supraśāntā, Viśva-prasādinī, Kṣemā, Jāhnavī, Śāntā, Śāntipradāyinī.]][^1339a] One should utter these holy names at the time of bathing; then the Ganges flowing in the three worlds would be near (even if a man [[bath ed|bathed]] at home). He should, after folding his hands, cast on his head thrice, four times, five times or seven times water on which he has muttered the mantras seven times. After having invoked the clay (in the river bed) with the mantras "O earth! Oh clay! you are crossed over by horses and chariots, by [[Visnu,|Viṣṇu,]] remove my sin which I may have committed by my evil deeds; you were brought up (from the depths of the sea) by the Boar incarnation of [[Krona|Kṛṣṇa]] with his hundred hands. O [[clayl|clay!]] you are given (to the world) by Brahmā and you had mantras repeated over you by Kāśyapa. Occupying my limbs may you drive away all my sin! Oh clay! Give us [[P592]]prosperity; everything is centered in you; a bow to you, that are virtuous and the source of all worlds'. Having thus bathed and having sipped water (ācamana) according to the procedure prescribed, he should get out of the Ganges and should put on two white and pure garments. Then he should perform [[tarpana 1340|tarpaṇa]][^1340] for the satisfaction of the three worlds. (He should say) 'This water is being offered by me for satiating gods, [[yaksas,|yakṣas,]] nāgas, gandharvas, apsarases, asuras, cruel snakes, eagles, trees, jackals, birds, creatures that sustain themselves on air and water or that move in the sky, all beings that are without support and those that are devoted to the dictates of dharma'. The person (performing tarpaṇa) should wear the sacred thread in the [[upavita|upavīta]] form (when satiating gods) and then wear it in the [[P593]][[nivita 1341|nivīta]][^1341] form (when satiating men). He should devotedly satiate men, the sages who were sons of Brahmā; he should say "May Sanaka, Sananda and Sanātana, Kapila, [[Āsuri, Vodhu, Pañcaśikha-may|Āsuri, Vodhu, Pañcaśikha—may]] all these reach satiety by the water offered by me." Then he should satiate with water and akṣata grains (the sages) [[Marici, Atri, Angiras, Pulastya, Pulaha, Kratu, Pracetas, Vasistha, Bhrgu, Nārada;|Marīci, Atri, Aṅgiras, Pulastya, Pulaha, Kratu, Pracetas, Vasiṣṭha, Bhṛgu, Nārada;]] he should satiate all these [[devar sis,|devarṣis,]] and [[brahmarṣis, 1342|brahmarṣis,]][^1342] and [[rșis|ṛṣis]] with water and akṣatas. Then wearing the sacred thread in the apasavya mode, bending his left knee on the ground, he satiates with water mixed with sesame and sandal-wood paste [[pitrs|pitṛs]] called [[Agniṣvātta 1343,|Agniṣvātta,]][^1343] Saumya, [[Havismat, Üṣmapa, Sukālin, Barhisad|Haviṣmat, Ūṣmapa, Sukālin, Barhiṣad]] and others called Ājyapa. He should make a bow to Yama, [[Dharmarāja, Mrtyu, Antaka, Vaivasvata, Kāla,|Dharmarāja, Mṛtyu, Antaka, Vaivasvata, Kāla,]] destroyer of all beings, Audumbara, Dadhna, [[Nila, Paramesthin, Vskodara,|Nīla, Parameṣṭhin, Vṛkodara,]] Citra and Citragupta. With darbhas in his hand a wise man should satiate his [[pitrs.|pitṛs.]] He should satiate with devotion his father and the rest by uttering their names and gotra and his maternal grandfather and others in the same way and should recite the following mantra "May those who are my bandhus or not my bandhus or were my bandhus in some previous life reach satisfaction and also whoever desires satisfaction from [[m|me."]] Then he should sip water (perform ācamana) in the prescribed way and draw the figure of a lotus in front of himself and offer thereon to the Sun arghya (respectful offering of water) with water mixed with red sandal-wood paste, flowers and [[aksatas|akṣatas]] (grains of rice) and repeat the names of Sūrya (the Sun) 'Bow to [[theel|thee!]] that are [[Visnu|Viṣṇu]] in another form, that art the face of [[Vispu,|Viṣṇu,]] that hast thousand rays and that art all refulgence. Bow to thee that art beneficent, the lord of the world. Bow to thee that art adorned with divine sandalwood, that art seated on a lotus, adorned with ear-rings and armlets, the lord of people; that awakenest (or enlightenest) the whole world, that goest everywhere and markest the good and evil [[P594]]deeds; a bow to thee who art a god to all. O Bhāskara (Sun)! be well disposed to me. A bow to thee, Divākara (maker of day). A bow to thee, Prabhākara (source of refulgence)'. Having thus bowed to the Sun and having circumambulated thrice (the lotus drawn for representing the sun) and touching a [[brāhmana,|brāhmaṇa,]] gold and a cow, the person (bather) should go to a temple of [[Visnu|Viṣṇu]] (or to his own house, according to another reading).[^1344]
 
-Ta
-
-Band
-
-Bhandarkar Oriental Research Institute
-
-IV]
-
-Eulogy of the Ganges
-
-589
-
-on the Ganges alone is superior to all these' 1334. Two verses of the Matsya-purāṇa 1335 deserve mention here even a man of sinful deeds, on remembering the Ganges even at a dis tance of thousands of yojanas, attains the highest goal. A person is delivered from sin by uttering the name (of the Ganges), on seeing it a person sees happiness; by bathing in the Ganges and drinking its water he purifies his family up to the seventh ancestor'. It is stated in the Kāśikhanda that on the banks of the glorious Ganges all times are auspicious as well as all countries, and all men are fit for receiving gifts.
-
-In the Varahapurana (chap. 82) the name 'Ganga' is deri ved as 'gām gatā' (that has gone to the earth). The Padma purāṇa (Srstikhanda 60. 64-65) specifies the mūlamantra about the Ganges as follows : 'Om namo Gangayai, visvarupinyai nārāyaṇyai namo namah'. Koth The Padmapurana (srsti 60.35) holds that Visnu repre sents all the gods and the Ganges represents Visnu. It eulo gises the Ganges as follows: Sons abandon their fathers, wives their husbands, friends and relatives abandon a friend or a rela tive if any one of these is adulterous, or patita, or wicked or becomes a cāndāla or kills his guru, or is full of all kinds of sins and hatreds; but the Ganges does not forsake such
-
-persons 1336
-
-The extent of the holy region of the Ganges is laid down in some purāṇas. The Nāradiya 1337 states: the region
-
-1334. किं यज्ञैर्बहुवित्ताढयैः किं तपोभिः सुदुष्करैः। स्वर्गमोक्षपदा गङ्गा सुखसौभाग्य प्रजिता॥ पद्म V. 60.39; किमष्टाङ्गेन योगेन किं तपोभिः किमध्वरैः। वास एव हि गङ्गायां सर्वतोपि विशिष्यते॥ नारदीय (उत्तर) 38. 38,q.in तीर्थचि. p. 194 (reads गङ्गायां बह्मज्ञानस्य कारणम्) and प्राय. तत्त्व. p. 498. The first verse किं यज्ञैः is quoted as from ब्रह्माण्ड by तीर्थचि. p. 195 (last pada is सुखसेव्या यतः स्थिता).
-
-1335. योजनानां सहस्रेषु गङ्गायाः स्मरणानरः। अपि दुण्कृतकर्मा तु लभते परमा गतिम्॥ कीर्तनान्मुच्यते पापाद् दृष्टा भद्राणि पश्यति। अवगाह्य च पीत्वा तु पुनात्यासप्तमं कुलम्॥ मत्स्य. 104. 14-15 q. by कल्पतरु (तीर्थ) p. 160; vide also मत्स्य. 108.25-26. .Compare वनपर्व 87.93 (पुनाति कीर्तिता०) quoted in n. 1324%; सर्व एव शुभः कालः सर्वो देशस्तथा शुभः। सर्वो जनो दानपात्रं श्रीमतीजाह्नवीतटे॥ काशीखण्ड 27.69.Cig
-
--1336. जारजं पतितं दुष्टमन्त्यजं गुरुघातिनम् । सर्वद्रोहेण संयुक्तं सर्वपातकसंयुतम् ॥ त्यजन्ति पितरं पुत्राः प्रियं पत्न्यः सुहृद्गणाः । अन्ये च बान्धवाः सर्वे गङ्गा तान्न परित्यजेत्॥ पद्म (सृष्टिखण्ड 60.25-26).!-1 ) एव:1337. तीराव्यतिमात्रं तु परितः क्षेत्रमुच्यते। तीरं त्यक्त्वा वसेत्वे तीरे चासो न
-
-चेष्यते ॥ एकयोजनविस्तीर्णा क्षेत्रसीमा तटद्वयात् । नारदीय (उत्तर) 43. 119-1200The first is quoted from स्कन्द by तीर्थचि. p. 266, which remarks 'उभयतटे प्रत्येक क्रोशद्वयं क्षेत्रम्'. The half verse एक. is quoted from भविष्य by तीर्थचिन्न,267,
-
-(Continued on the next page)
-
-GTITUN
-
-POONA
-
-FOUNDER
-
-Bhandarkar Oriental Research Institute
-
-590
-
-History of Dharmaśāstra
-
-[Vol.
-
-within one gavyūti from the banks of the Ganges is called ksetra; one should reside within the ksetra limits, but not on the bank itself; residence on the bank of the Ganges ) is not desired. The limits of the kṣetra are of the extent of one yojana between both the banks' i. e. the kṣetra extends for two krosas from each bank. The general rule is stated by Yama that forests, mountains, holy rivers and tirthas are without an owner; these cannot be possessed (by a person as owner). The Brahmapurāṇa 1338 says that measur ing from the flowing waters for a distance of four hastas, God Nārāyaṇa is the Lord (or owner) and no one should accept a gift in that strip even if he be on the point of death. A differ ence is made between the garbha (the inner circle) of the Gangākṣetra, the tīra and the kṣetra. "Garbha' extends up to that portion of the river stream which is reached on the 14th of the dark half of Bhadrapada; beyond that is the tira (bank). which extends upto 150 hastas from garbha and kṣetra extends up to two krosas from each bank.
-
-Let us suppose that the pilgrim has come to the Ganges. Then the question is, how is he to proceed about a bath in the Ganges. Many of the digests contain several alternate forms of the sankalpa to be made at the time of Gangā-snāna. For example, the Prāyaścittatattva (pp. 497-498) contains a very elaborate sankalpa. A simple one is quoted below from the Gangāvākyāvali.1339 The mode of bathing prescribed in the
-
-Las
-
-(Continued from the last page) 15 . p. 136, era is a measure of length or distance generally taken as equal to two krosas. There was some difference about the measures of lengtb. According to the Amarakośa a gavyūti is equal to two krośas 'tegia: at
-
-STTT'. According to the ary 8. 105-107 and 101. 122-126 and IE II. 7. 96-101 the measures are 24 315ys = one gra, 96 319gs = uz: (which is same as que, Ty and art); 2000 y: = yeyra and 8000 ua:= a:; acc. to the arvey 46, 37-40, 4 gras=ua: or que, or yr orator); 2000 ya:=137, 4 STETS = nearer which is the same as 7a. Vide H. of Dh, vol. III. p. 145 n, 185.
-
-1338. प्रवाहमवधिं कृत्वा यावद्धस्तचतुष्टयम् । अत्र नारायणः स्वामी नान्यः स्वामी कदाचन॥ न तत्र प्रतिगृह्णीयात्माणैः कण्ठगतैरपि॥ भाद्रशुक्लचतुर्दश्यां यावदाक्रमते जलम् । araga fa c i atunyai artą (57) 43. 116-118 q. by alerg, p. 266 and प्रायः तत्व. p. 499 (from ब्रह्मपुराण and the verse भाद्र from दानधर्म) and byssmes jarat. p. 136 (the first verse from ante); anę (JTR) 43. 118 (last half Ylis Fruetara eragutati aa: url. The digests read F oto for a t Vos 1339. STEF ATH Aia anchfuil a: Trasorigaati Figuerra
+[^1339]: [[Vos 1339. STEF ATH Aia anchfuil a: Trasorigaati Figuerra
 
 TETUI FATAE TI ṣtat. p. 141. Vi
 
-pp. 206-207 for several alternative सङ्कल्पs before गङ्गास्नान.
+pp. 206-207 for several alternative सङ्कल्पs before गङ्गास्नान.|अद्यामुके मासि अमुकपक्षे अमुकतिथौ सद्यःपापप्रणाशपूर्वकं सर्वपुण्यप्राप्तिकामो गङ्गायां स्नानमहं करिष्ये। गङ्गावा. p. 141. Vide तीर्थचि. pp. 206-207 for several alternative सङ्कल्पs before गङ्गास्नान.]]
+[^1339a]: Verses 1-8 of [[FET|मत्स्य०]] chap. 102 are q. by the [[I. p. 182. The Faa. I. p. 183 also gives the twelve names of Tot differently, na|स्मृतिच. I. p. 182. The स्मृतिच. I. p. 183 also gives the twelve names of गङ्गा differently. पद्म]] (IV. 89. 17-19) has the same holy names of the [[Gangas|Ganges]] that the Matsya (102. [[6-8 )|6-8)]] mentions. For the thousand names of the Ganges, vide above p. 585.
+[^1340]: [[Tarpana|Tarpaṇa]] (satiating with the offering of [[water )|water)]] is of two kinds [[viz,|viz.]] principal [[(pradhana)|(pradhāna)]] and subsidiary [[(anga).|(aṅga).]] The first has to be performed every day by a twice-born person (who has finished his studies) for the gods, sages and [[pitrs|pitṛs]] in that order. The 2nd is performed as an [[anga|aṅga]] of snāna. [[Para a TATTCH Grau farnagai avui a liga Jaaaall g rup|नित्यं नैमित्तिकं काम्यं त्रिविधं स्नानमुच्यते । तर्पणं तु भवेत्तस्याङ्गत्त्वेन प्रकीर्तितम् ॥ ब्रह्मपुराण]] q. by [[THT p 162.|गंगाभक्ति० p 162.]] [[agor|तर्पण]] is an [[anga|aṅga]] of bath as well as of brahma-yajña. [[Tarpana|Tarpaṇa]] has been described at great length in [[H, of Dh,|H. of Dh.]] vol. II. pp. 668-669 and pp. 689-695. Therefore it is not necessary to make any lengthy remarks on [[tarpana|tarpaṇa]] here. A few matters that deserve attention are [[mentioned,|mentioned.]] One rule is that one has to perform [[tarpana|tarpaṇa]] according to the provisions of his own recension of the Veda. The persons to whom water is to be offered and the manner in which it is to be offered are set out on p. 692 of vol. II of H. of Dh. Another rule is that [[tarpana|tarpaṇa]] has to be done (even if the day is not auspicious) at a [[tirtha,|tīrtha,]] in Gayā, in [[pitrpaksa|pitṛpakṣa]] (i. e. the dark half of Bhādrapada) with water mixed with sesame 'तीर्थे तिथिप्रवेशे (तिथिविशेषे?) च गयायां [[प्रेतपक्षके। निषिद्धपि दिने कुर्यात्तर्पणं Tadla n.|प्रेतपक्षके। निषिद्धेऽपि दिने कुर्यात्तर्पणं तिलमिश्रितम् ॥'.]] A widow also has to perform [[tarpana|tarpaṇa]] for her husband and his relatives at a sacred place. An ascetic (sannyāsin) has not to do it. A person whose father is living has not to perform [[tarpana,|tarpaṇa,]] but acc. to [[Viṣnupurana|Viṣṇupurāṇa]] he offers three handfuls to gods, three to the sages and one to Prajāpati (in the [[form devās-trpyantām').|form 'devās-tṛpyantām').]] Another rule is [[the|that]] one makes an offering in [[sraddba|śrāddha]] or into fire with one hand only (the right hand) but in [[tarpana|tarpaṇa]] water is poured into the stream in which one is bathing or on land with both hands. 'श्राद्धे [[I T
 
-POONA
+r uratenia a af aut lao qa faru: a: Il ? Frete gru ( 3TT) 57.62-63.|हवनकाले च पाणिनेकेन दीयते। तर्पणे तूभयं कुर्यादेष एव विधिः स्मृतः ॥' नारदीयपुराण (उत्तर) 57. 62-63.]] If a man is not able to perform the elaborate [[tarpana|tarpaṇa]] described in vol. II. he should repeat the mantras from [[allegro|वायुपुराण]] 110. 21-22 set out here and offer [[thrke og|three]] [[anjalis|añjalis]] of water mixed with sesame and [[kusas;|kuśas;]] [[आब्रह्मस्तम्बपर्यन्तं देवर्षिपितृमानवा|आब्रह्मस्तम्बपर्यन्तं देवर्षिपितृमानवाः।]] [[तृप्यन्तु पितरः सर्वे मातृमातामहादय:॥|तृप्यन्तु पितरः सर्वे मातृमातामहादयः॥]] अतीतकुलकोटीनां सप्तद्वीपनिवासिनाम् । आ [[नहीं भुवनाल्लोकादिदमस्तु|ब्रह्मभुवनाल्लोकादिदमस्तु]] तिलोदकम् ॥.
+[^1341]: [[Para agat arararára aurrerair aararla. H. II. 5. 11.1.|निवीतं मनुष्याणां प्राचीनावीतं पितॄणामुपवीतं देवानाम् । तै. सं. II. 5. 11. 1.]] For explanation of these three modes of wearing the sacred thread, vide H. of Dh. vol. II pp. 287-288 and apasavya has been explained in this volume in note 1095.
+[^1342]: Vide Vāyu 61. 80-90 for definitions and [[eumeratian|enumeration]] of [[erra, देवांष IT|ब्रह्मर्षि, देवर्षि, राजर्षि]] and also Baud. [[Gr. 1.7|Gṛ. I. 7]] and Devala q. by [[399 ppy 42-4434fot
 
-D
+9|अपरार्क pp. 42-44 for ṛṣi]] and other terms.
+[^1343]: For [[Agnisvātta|Agniṣvātta]] and other names of classes of [[pitys,|pitṛs,]] vide above pp. 343-344 and [[Brahmānda|Brahmāṇḍa]] III. 10. 53, 75, 93, 96.
+[^1344]: धर्मराज to चित्र are the names of यम and for चित्रगुप्त vide p. 160 above and [[TESC|वराहपुराण]] chap. 203-205.
 
-FOUNDED
+It may be noted that the verses of the Matsyapurāṇa (102. 2-31) summarised above occur (with slight variations of a word here and there) in Padma ([[Pātāla-khanda|Pātāla-khaṇḍa]] 89. 12-42) and [[Srsti-khanda,|Sṛṣṭi-khaṇḍa,]] chap. 20. 145-176.
 
-1917
+The [[Sm, C.|Sm. C.]] and Raghunandana in his [[Prayascittatattva|Prāyaścittatattva]] (p. 502) lay down two mantras to be recited at the time of taking a bath in the Ganges [^1345] 'O Ganges, daughter of Jahnu! That flowest in three worlds, that art sprung from the lotus-like feet of [[Visnu,|Viṣṇu,]] that are far-famed as devoted to (the spread of) dharma, remove my sin; O divine mother, O [[Bhagirathi!|Bhāgīrathī!]] purify with your immortal waters me who am full of faith and devotion'. The mantra to be repeated at the time of the bath at the place where the Ganges falls into the ocean according to the same two works is "O god that art the lord of rivers ! O goddess that art the best among rivers ! Having bathed at the confluence of both I shall cast off my sins".
 
-Overall
+[^1345]: [[Faggrehu ETAT I grafa racula qu iz|विष्णुपादाब्जसम्भूते गङ्गे त्रिपथगामिनि । धर्मद्रवेति विख्याते पापं मे हर जाह्नवि॥]] श्रद्धया [[भक्तिसम्पन्ने (लं ?)|भक्तिसम्पन्ने (न्नं?)]] [[श्रीमातदेवि|श्रीमातर्देवि]] जाह्नवि। अमृतेनाम्बुना देवि [[भागीरथ|भागीरथि]] [[पुनीहि माम।।|पुनीहि माम् ॥]] [[a. I, 131; 92.|स्मृतिच. I. 131; प्राय. तत्त्व]] p. 502; [[c a pfat are ara Arraiati 301: # Farcar Ragu|त्वं देव सरितां नाथ त्वं देवि सरितां वरे । उभयोः सङ्गमे स्नात्वा मुञ्चामि दुरितानि वै॥]] ibid. [[Th, argaz|पद्म, सृष्टिखण्ड]] 60. 60 is the same as the first verse and 60. 62 offers some variant readings for the second.
 
-Bhandarkar Oriental Research InstituteIV).
+On pp. 243-244 above it has been stated that the [[Visnu Dh. S,|Viṣṇu Dh. S.]] and other works recommend the casting of the ashes or charred bones of a cremated body in the Ganges at Prayāga, Kāśi or other holy place and the rites accompanying the casting of ashes have been there set out. A few words are added here. The same verse [^1346] (with slight variations) about casting [[P595]]ashes in the Ganges occurs in several works. The Agnipurāṇa observes [[the|'the]] deceased man benefits if his bones are thrown into the Ganges; a man stays in heaven as long as (even a particle of) his bone remains in the waters of the Ganges. No rites for the dead are performed for those who commit suicide or who are patita; but even in their case the fall of their bones in Ganges water is beneficial to them.' The [[Tir, C.|Tīr. C.]] and [[Tir. Pr.|Tīr. Pr.]] quote two verses and a half from the [[Brahma purāṇa 1347|Brahmapurāṇa]][^1347] which set out a briefer rite of throwing ashes than the one in the Nirṇayasindhu. The verses mean: "The man carrying the ashes should take a bath, sprinkle pañcagavya over the ashes, should place on them a piece of gold, honey, ghee and sesame; then he should deposit them in an earthen vessel; he should then look in the southern direction, say "salutation to Dharma,' enter the waters (of the Ganges), utter, 'may he (Dharma or [[Viṣnu?)|Viṣṇu?)]] be pleased with me' and then cast the ashes in the water; then he should bathe in the river, come out of it, cast a look at the Sun and then give a present ([[daksinā)|(dakṣiṇā)]] to a brāhmaṇa; if he does so, then the state of the deceased person will be like Indra.' Vide Skanda, [[Kāśī-khanda|Kāśī-khaṇḍa]] 30. 42-46 where a little more elaborate procedure is prescribed. The importance of casting ashes in the Ganges probably owes its origin to the story of king Sagara's sons who were reduced to ashes by the wrath of the sage Kapila and who were saved by the ashes being washed in the waters of the Ganges brought down from heaven by Bhagīratha. Vide [[Vanaparya|Vanaparva]] chap. [[107 109,|107-109,]] [[Visnupurāṇa II. 8-10|Viṣṇupurāṇa IV. 8-10]] for the story. The Nāradīya makes not only the throwing of calcined bones a source of benefit to the departed but even his nails and hair when cast in the Ganges confer the same benefit. It is stated in the Kāśikhaṇḍa that those who, while standing on the banks of the Ganges, praise another tīrtha or do not think very highly of the Ganges go to [[hell.1347a|hell.]][^1347a]
 
-591
-
-Procedure of bath in the Ganges Matsyapurāṇa 102 is common to people of all varṇas and students of all the different recensions of the Veda. The Matsyapurāṇa, chap. 102, which contains one of the earliest procedure of a reli gious bath, and which has been taken over by several digests such as the Gangāvākyāvali (pp. 148–152) is summarised here. Cleanliness (of the body) and clean thoughts do not exist without a bath; therefore bathing is first prescribed for making the mind pure. One may bathe with water drawn (in a vessel from a well or stream) or with water not so drawn. A wise man should fix upon a holy spot after repeating the funda mental mantra 'namo Nārāyaṇāya' (reverent bow to Nārāyaṇa). A man holding darbha grass in his hand and being clean and pure should perform ācamana (ceremonial sipping of water). He should select a spot four hastas square on all sides and invoke the Ganges (to come or be present there) with the following mantras 'you are sprung from the foot of Viṣṇu, you are a devotee of Viṣṇu, you worship Viṣnu; therefore save us from sins committed from birth to death. Vāyu declared that there are three and a half crores (35 millions) of holy places in heaven, on the earth and in mid air; all these, O Ganges (daughter of Jahnu), belong to you. Your name among the gods is Nandini (the joy-giving) and also Nalini and there are other names of yours viz. Dakṣā, Prthvi, Vihagā, Visva kāyā, Amộtā, Sivā, Vidyādhari, Supraśāntā, Viśva-prasādini, Kṣemā, Jāhnavi, śāntā, śāntipradāyinī. 1339a One should utter these holy names at the time of bathing; then the Ganges flowing in the three worlds would be near (even if a man bath ed at home). He should, after folding his hands, cast on his head thrice, four times, five times or seven times water on which he has muttered the mantras seven times. After having invoked the clay (in the river bed) with the mantras "O earth! Oh clay! you are crossed over by horses and chariots, by Viṣnu, remove my sin which I may have committed by my evil deeds; you were brought up (from the depths of the sea) by the Boar incarnation of Krona with his hundred hands. O clayl you are given (to the world) by Brahmā and you had mantras repeated over you by Kāśyapa. Occupying my limbs may you drive away all my sin! Oh clay! Give us
-
-AD
-
-SINO
-
-POONA
-
-1339 a. Verses 1-8 of FET chap. 102 are q. by the
-
-I. p. 182. The Faa. I. p. 183 also gives the twelve names of Tot differently, na (IV. 89. 17-19) has the same holy names of the Gangas that the Matsya (102. 6-8 ) mentions. For the thousand names of the Ganges, vide above p. 585.
-
-FOUNDED
-
-Bhandarkar Orierital Research Institute
-
-592
-
-History of Dharmaśāstrat
-
-[Vol.
-
-prosperity; everything is centered in you; a bow to you, that are virtuous and the source of all worlds'. Having thus bathed and having sipped water (ācamana) according to the procedure prescribed, he should get out of the Ganges and should put on two white and pure garments. Then he should perform tarpana 1340 for the satisfaction of the three worlds. (He should say) 'This water is being offered by me for satiating gods, yaksas, nāgas, gandharvas, apsarases, asuras, cruel snakes, eagles, trees, jackals, birds, creatures that sustain themselves on air and water or that move in the sky, all beings that are without support and those that are devoted to the dictates of dharma'. The person (performing tarpaṇa) should wear the sacred thread in the upavita form (when satiating gods) and then wear it in the
-
-1340. Tarpana (satiating with the offering of water ) is of two kinds viz, principal (pradhana) and subsidiary (anga). The first has to be performed every day by a twice-born person (who has finished his studies) for the gods, sages and pitrs in that order. The 2nd is performed as an anga of snāna. Para a TATTCH Grau farnagai avui a liga Jaaaall g rup q. by THT p 162. agor is an anga of bath as well as of brahma-yajña. Tarpana has been described at great length in H. of Dh, vol. II. pp. 668-669 and pp. 689-695. Therefore it is not necessary to make any lengthy remarks on tarpana here. A few matters that deserve attention are mentioned, One rule is that one has to perform tarpana according to the provisions of his own recension of the Veda. The persons to whom water is to be offered and the manner in which it is to be offered are set out on p. 692 of vol. II of H. of Dh. Another rule is that tarpana has to be done (even if the day is not auspicious) at a tirtha, in Gayā, in pitrpaksa (i. e. the dark half of Bhādrapada) with water mixed with sesame 'तीर्थे तिथिप्रवेशे (तिथिविशेषे?) च गयायां प्रेतपक्षके। निषिद्धपि दिने कुर्यात्तर्पणं Tadla n. A widow also has to perform tarpana for her husband and his relatives at a sacred place. An ascetic (sannyāsin) has not to do it. A person whose father is living has not to perform tarpana, but acc. to Viṣnupurana he offers three handfuls to gods, three to the sages and one to Prajāpati (in the form devās-trpyantām'). Another rule is the one makes an offering in sraddba or into fire with one hand only (the right hand) but in tarpana water is poured into the stream in which one is bathing or on land with both hands. I T
-
-r uratenia a af aut lao qa faru: a: Il ? Frete gru ( 3TT) 57.62-63. If a man is not able to perform the elaborate tarpana described in vol. II. he should repeat the mantras from allegro 110. 21-22 set out here and offer thrke og anjalis of water mixed with sesame and kusas; आब्रह्मस्तम्बपर्यन्तं देवर्षिपितृमानवा तृप्यन्तु पितरः सर्वे मातृमातामहादय:॥ अतीतकुलकोटीनां सप्तद्वीपनिवासिनाम् । आ नहीं भुवनाल्लोकादिदमस्तु तिलोदकम् ॥.
-
-STITU
-
-FOUNDED
-
-1917
-
-!
-
-Bhandarkar Oriental Research Institute
-
-IV]
-
-Procedure of bath in the Ganges
-
-593
-
-nivita 1341 form (when satiating men). He should devotedly satiate men, the sages who were sons of Brahmā; he should say "May Sanaka, Sananda and Sanātana, Kapila, Āsuri, Vodhu, Pañcaśikha-may all these reach satiety by the water offered by me.” Then he should satiate with water and akṣata grains (the sages) Marici, Atri, Angiras, Pulastya, Pulaha, Kratu, Pracetas, Vasistha, Bhrgu, Nārada; he should satiate all these devar sis, and brahmarṣis, 1342 and rșis with water and akṣatas. Then wearing the sacred thread in the apasavya mode, bending his left knee on the ground, he satiates with water mixed with sesame and sandal-wood paste pitrs called Agniṣvātta 1343, Saumya, Havismat, Üṣmapa, Sukālin, Barhisad and others called Ājyapa. He should make a bow to Yama, Dharmarāja, Mrtyu, Antaka, Vaivasvata, Kāla, destroyer of all beings, Audumbara, Dadhna, Nila, Paramesthin, Vskodara, Citra and Citragupta. With darbhas in his hand a wise man should satiate his pitrs. He should satiate with devotion his father and the rest by uttering their names and gotra and his maternal grandfather and others in the same way and should recite the following mantra "May those who are my bandhus or not my bandhus or were my bandhus in some previous life reach satisfaction and also whoever desires satisfaction from m Then he should sip water (perform ācamana) in the prescribed way and draw the figure of a lotus in front of himself and offer thereon to the Sun arghya (respectful offering of water) with water mixed with red sandal-wood paste, flowers and aksatas (grains of rice) and repeat the names of Sūrya (the Sun) 'Bow to theel that are Viṣnu in another form, that art the face of Vispu, that hast thousand rays and that art all refulgence. Bow to thee that art beneficent, the lord of the world. Bow to thee that art adorned with divine sandalwood, that art seated on a lotus, adorned with ear-rings and armlets, the lord of people; that awakenest (or enlightenest) the whole world, that goest everywhere and markest the good and evil
-
-VASTITU
-
-POONA
-
-1341. Para agat arararára aurrerair aararla. H. II. 5. 11.1. For explanation of these three modes of wearing the sacred thread, vide H. of Dh, vol. II pp. 287-288 and apasavya has been explained in this volume in note 1095.
-
-1342. Vide Vāyu 61.80-90 for definitions and eumeratian of erra, देवांष IT and also Baud. Gr. 1.7 and Devala q. by 399 ppy 42-4434fot
-
-9 and other terms.
-
-| 1343. For Agnisvātta and other names of classes of pitys, vide above pp. 343-344 and Brahmānda III. 10. 53, 75, 93, 96.
-
-H. D. 75
-
-FOUNDED
-
-1917
-
-BHandarkar Oriental Research Institute
-
-594
-
-History of Dharmaśāstra
-
-[Vol.
-
-deeds; a bow to thee who art a god to all. O Bhāskara (Sun)! be well disposed to me. A bow to thee, Divākara (maker of day). A bow to thee, Prabhākara (source of refulgence)'. Having thus bowed to the Sun and having circumambulated thrice (the lotus drawn for representing the sun) and touching a brāhmana, gold and a cow, the person (bather) should go to a temple of Visnu (or to his own house, according to another reading). 1344
-
-It may be noted that the verses of the Matsyapurāṇa (102.2-31) summarised above occur (with slight variations of a word here and there) in Padma (Pātāla-khanda 89. 12-42) and Srsti-khanda, chap. 20. 145-176.
-
-The Sm, C. and Raghunandana in his Prayascittatattva (p. 502 ) lay down two mantras to be recited at the time of taking a bath in the Ganges 1345 'O Ganges, daughter of Jahnu! That flowest in three worlds, that art sprung from the lotus-like feet of Visnu, that are far-famed as devoted to (the spread of) dharma, remove my sin; O divine mother, O Bhagirathi! purify with your immortal waters me who am full of faith and devotion'. The mantra to be repeated at the time of the bath at the place where the Ganges falls into the ocean according to the same two works is "O god that art the lord of rivers ! O goddess that art the best among rivers ! Having bathed at the confluence of both I shall cast off my sins".
-
-On pp. 243-244 above it has been stated that the Visnu Dh. S, and other works recommend the casting of the ashes or charred bones of a cremated body in the Ganges at Prayaga, Kāśi or other holy place and the rites accompanying the cast ing of ashes have been there set out. A few words are added here. The same verse 1346 (with slight variations) about casting
-
-1344. धर्मराज to चित्र are the names of यम and for चित्रगुप्त videp. 160 above and TESC chap. 203-205.
-
-1345. Faggrehu ETAT I grafa racula qu iz श्रद्धया भक्तिसम्पन्ने (लं ?) श्रीमातदेवि जाह्नवि। अमृतेनाम्बुना देवि भागीरथ पुनीहि माम।।
-
-a. I, 131; 92. p. 502; c a pfat are ara Arraiati 301: # Farcar Ragu ibid. Th, argaz 60, 60 is the same as the first verse and 60. 62 offers some variant readings for the second.
-
-1346. यावदस्थि मनुष्यस्य गङ्गायाः स्पृशते जलम् । तावत्स पुरुषो राजन् स्वर्गलोके । Helaai aap 85.94 = 1.39 87; 313 26.32 is magreta urṣtai fula partur: aragha ... Agite II = Fety.106.52, I. 37.32 (reads you
-
-IS ( ) 43.109 Trapuera Tyrui fagra
+[^1346]: यावदस्थि मनुष्यस्य गङ्गायाः स्पृशते जलम् । तावत्स पुरुषो राजन् [[स्वर्गलोके । Helaai aap 85.94 = 1.39 87; 313 26.32 is magreta urṣtai fula partur: aragha ... Agite II = Fety.106.52, I. 37.32 (reads you|स्वर्गलोके महीयते॥ वनपर्व 85. 94 = पद्म I. 39. 87; अनुशासन 26. 32 is यावदस्थीनि गङ्गायां तिष्ठन्ति हि शरीरिणः । तावद्वर्षसहस्राणि...महीयते ॥ = मत्स्य. 106. 52, कूर्म I. 37. 32 (reads पुरुषस्य तु);]] [[IS ( ) 43.109 Trapuera Tyrui fagra
 
 g
 
-a rage... ATTI arą (5) 62.51 is qara Fatara terata para a llara Europa matei węīva a arata (gar) 15.163 streagart HATT # Institute Fafea facuta ger from .
+a rage... ATTI arą (5) 62.51 is qara Fatara terata para a llara Europa matei węīva a arata (gar) 15.163 streagart HATT # Institute Fafea facuta ger from .|नारद (उत्तर) 43. 109 यावन्त्यस्थीनि गङ्गायां तिष्ठन्ति पुरुषस्य वै । तावद्वर्ष... महीयते । and नारद (उत्तर) 62. 51 is यावन्ति नखलोमानि गङ्गातोये पतन्ति वै ॥ तावद्वर्षसहस्राणि स्वर्गलोके महीयते ॥. नारदीय (पूर्वार्ध) 15. 163 'केशास्थिनखदन्तांश्च भस्मापि नृपसत्तम । नयन्ति विष्णुसदनं स्पृष्टा गाङ्गेन वारिणा॥'.]]
+[^1347]: [[21347.|]]स्नात्वा ततः पञ्चगवेन सिक्त्वा हिरण्यमध्वाज्यतिलेन योज्यम् । ततस्तु मृत्पिण्डपुटे निधाय पश्यन् दिशं प्रेतगणोपगूढाम् ॥ नमोऽस्तु धर्माय [[वदन|वदन्]] प्रविश्य जलं स मे [[प्रात|प्रीत]] इति क्षिपेच्च। स्नात्वा तथोत्तीर्य च भास्करं च [[दृष्टा|दृष्ट्वा]] प्रदद्यादथ दक्षिणां तु॥ एवं कृते [[प्रेतपुर ratu vaat stra: UT FEEDETI Tror|प्रेतपुरस्थितस्य स्वर्गे गतिः स्यात्तु महेन्द्रतुल्या। ब्रह्मपुराण]] q. by [[afera. pp. 265-296|तीर्थचि. pp. 265-266]] and [[are
 
-1917
+1.|तीर्थप्र.]] p. 374. The [[tyrat. . 272|गङ्गावा. p. 272]] quotes these as from [[E Rith|ब्रह्माण्ड (with]] slight variations, one of which is यस्तु सर्वहितो विष्णुः स मे प्रीत इति [[क्षिपेत JauntThese|क्षिपेत् ). These]] verses are [[acę (377|नारद (उत्तर]] chap. 43. [[113-115) with slight variations. Y|113-115) with slight variations.]]
+[^1347a]: [[1347 2. तीर्थमन्यत्पशंसन्ति|तीर्थमन्यत्प्रशंसन्ति]] गङ्गातीरे स्थिताश्च ये। गङ्गां न [[बहामन्यन्ते|बहुमन्यन्ते]] ते [[PARTI : ***, fro|स्युर्निरयगामिनः॥ स्कन्द, काशी०]] 27. 80.
 
-Bhandarkar Oriental
+The [[Kāśikhanda|Kāśīkhaṇḍa]] further provides that there is special and [[P596]]excessive merit in [[Gangāsnāna|Gaṅgāsnāna]] on special days e. g. the merit of bath on New Moon has one hundred times as much merit as on an ordinary day, a thousand times on a [[sankranti,|saṅkrānti,]] one hundred thousand on the eclipse of the sun or moon and [[un limited|unlimited]] times when a bath is taken on moon eclipse on a Monday and on sun eclipse on [[Sunday. 1318 od|Sunday.]][^1348]
 
-IV.
+[^1348]: [[0 1348.|]]दर्शे शतगुणं पुण्यं संक्रान्तौ च सहस्रकम्। चन्द्रसूर्यग्रहे [[लक्ष|लक्षं]] व्यतीपाते [[स्वनन्तकम् । ...|त्वनन्तकम् ।...]] सोमग्रहः सोमदिने रविवारे [[रवग्रहः ।|रवेर्ग्रहः।]] तच्चूडामणिपर्वाख्यं तत्र [[स्नानम H alla TE, FTTT|स्नानमसंख्य कम्॥ स्कन्द, काशी०]] 27. [[129-131. OM|129-131.]]
 
-Casting ashes in the Ganges
+[[Or todzie monitor TRISTHALIP|TRISTHALI]]
 
-595
+The three great [[tirthas|tīrthas]] of Prayāga, Kāśi and Gayā are referred to as [[Tristhali|Tristhalī]] and the great scholar, [[Nārāyaṇabhatta|Nārāyaṇabhaṭṭa]] (born in [[1513 A, D.),|1513 A. D.),]] wrote (about [[1580 A, D.)|1580 A. D.)]] in Benares a famous work called Tristhalīsetu (a bridge to the [[Tristhali)|Tristhalī)]] wherein he gives a thorough and exhaustive treatment of the pilgrimage to these three holy places [^1348a] alone. Prayāga is assigned pp. 1-72, [[Kāsi|Kāśi]] pp. 72-316 and Gayā pp. 316-379 (of the Ānandāśrama edition). Following with all humility the footsteps of such an illustrious and venerable scholar I shall deal with the three [[tirthas|tīrthas]] in the same order.
 
-ashes in the Ganges occurs in several works. The Agnipurāṇa observes the deceased man benefits if his bones are thrown into the Ganges; a man stays in heaven as long as (even a particle of) his bone remains in the waters of the Ganges. No rites for the dead are performed for those who commit suicide or who are patita; but even in their case the fall of their bones in Ganges water is beneficial to them.' The Tir, C. and Tir. Pr. quote two verses and a half from the Brahma purāṇa 1347 which set out a briefer rite of throwing ashes than the one in the Nirnayasindhu. The verses mean:"The man carrying the ashes should take a bath, sprinkle pañcagavya over the ashes, should place on them a piece of gold, honey, ghee and sesame; then he should deposit them in an earthen vessel; he should then look in the southern direction, say "salutation to Dharma,' enter the waters (of the Ganges), utter, may he (Dharma or Viṣnu?) be pleased with me and then cast the ashes in the water; then he should bathe in the river, come out of it, cast a look at the Sun and then give a present (daksinā) to a brāhmaṇa; if he does so, then the state of the deceased person will be like Indra.' Vide Skanda, Kāśī-khanda 30. 42-46 where a little more elaborate procedure is prescribed. The importance of casting ashes in the Ganges probably owes its origin to the story of king Sagara's sons who were reduced to ashes by the wrath of the sage Kapila and who were saved by the ashes being washed in the waters of the Ganges brought down from heaven by Bhagiratha. Vide Vanaparya chap. 107 109, Visnupurāṇa II. 8-10 for the story. The Nāradiya makes not only the throwing of calcined bones a source of benefit to the departed but even his nails and hair when cast in the Ganges confer the same benefit. It is stated in the Kāśikhanda that those who, while standing on the banks of the Ganges, praise another tirtha or do not think very highly of the Ganges go to hell.1347a The Kāśikhanda further provides that there is special and
+[^1348a]: [[FTATI FASTAI PATERT: FERRARI.|त्रयाणां स्थलानां समाहारः त्रिस्थली।]]
 
-GUN
+[[PRAYAGA|PRAYĀGA]]
 
-21347. स्नात्वा ततः पञ्चगवेन सिक्त्वा हिरण्यमध्वाज्यतिलेन योज्यम् । ततस्तु मृत्पिण्डपुटे निधाय पश्यन् दिशं प्रेतगणोपगूढाम् ॥ नमोऽस्तु धर्माय वदन प्रविश्य जलं स मे प्रात इति क्षिपेच्च। स्नात्वा तथोत्तीर्य च भास्करं च दृष्टा प्रदद्यादथ दक्षिणां तु॥ एवं कृते प्रेतपुर ratu vaat stra: UT FEEDETI Tror q, by afera. pp. 265-296 and are
+One of the most ancient [[reference|references]] to the greatness of the confluence of the Ganges and the Yamunā occurs in a khila [^1349] verse which is usually placed in Ṛg. X. 75 and may be rendered as follows: "Those who take a bath at the place where the [[P597]]two rivers, white and dark, meet together, rise up (fly up) to heaven; those determined men who abandon their body there (i. e. commit suicide by drowning themselves) secure immortality (or [[moksa)".|mokṣa)'.]] This must have been a comparatively early verse. The Skandapurāṇa [[referes|refers]] to it as śruti. The greatness of Prayāga is dwelt upon in the Mahābhārata (Vanaparva 85. 69-97, 87. 18-20, Anuśāsana 25. 36-38) [^1350] and in many purāṇas such as the Matsya (chapters 103-112, in all 260 verses), Kūrma I. 36-39 (verses 121), Padma (I. chap. 40-49), Skanda, [[Kasi-Khanda,|Kāśī-Khaṇḍa,]] chap. 7. 45-65). Only a few out of the hundreds of verses on Prayāga can be cited here by way of sample. One remarkable fact is that the [[Rāmāyana|Rāmāyaṇa]] does not say much about Prayāga. The confluence of the two rivers is no doubt referred to (Rām. II. [[54.6)|54. 6)]] but from the [[des cription|description]] it appears that there was a forest at what is now Prayāga. Prayāga is called [[Tirtharaja|Tīrtharāja]] (the prince among [[tirthas)|tīrthas)]] in the Matsya 109. 15, Skanda (Kāśi 7. 45), Padma VI. 23. 27-35 (where the refrain at the end of each verse is [['sa tirtharājo jayati prayāgah)|'sa tīrtharājo jayati prayāgaḥ')]] and elsewhere. The legend runs that Prajāpati or [[Pitamaha|Pitāmaha]] (Brahmā) performed a sacrifice here and Prayāga is the middle one of the vedis of Brahmā, the others being [[Kuruksetra|Kurukṣetra]] in the north (uttaravedi) and Gayā in the east. It is believed that three rivers meet at Prayāga viz. [[Ganga,|Gaṅgā,]] Yamunā and Sarasvatī (underground between the two). It is said in the [[Matsya 1351,|Matsya,]][^1351] Kūrma and other [[Purānas|Purāṇas]] that at the very sight of Prayāga, even by taking its name or by applying its clay to one's body a man becomes free from sin. The [[Kūrmapurāṇa 1352|Kūrmapurāṇa]][^1352] proclaims "it is the sacred spot of Prajāpati; those who bathe here go to heaven and those who die here are not born again.” That sacred spot is known as [[tirtharāja ;|tīrtharāja;]] it is dear to Keśava. The same is known as [[Triveni.|Triveṇī.]]
 
-1. p. 374. The tyrat. . 272 quotes these as from E Rith slight variations, one of which is यस्तु सर्वहितो विष्णुः स मे प्रीत इति क्षिपेत JauntThese verses are acę (377 chap. 43. 113-115) with slight variations. Y
+[^1349]: सितासिते सरिते यत्र सङ्गते [[तत्राप्ठतासो|तत्राप्लुतासो]] दिवमुत्पतन्ति। ये वै तन्वं विसृजन्ति धीरास्ते जनासो अमृतत्वं भजन्ते॥. The [[त्रिस्थली. p.3|त्रिस्थली० p. 3]] says it is a supplementary [[sruti|śruti]] text of the [[Asvalayana|Āśvalāyana]] school, while the [[Tir. C.|Tīr. C.]] p. 47 quotes it as a verse of the [[Rgveda.|Ṛgveda.]] It is quite possible to hold that the verse does not encourage religious suicide but only makes this distinction that by a bath only once a man goes to heaven and that if he dies at [[Prayaga|Prayāga]] he attains [[moksa|mokṣa]] even without correct metaphysical knowledge. Vide रघुवंश [[13.58'तत्त्वावबोधेन|13. 58 'तत्त्वावबोधेन]] विनापि [[Yatri arta Tiara: '|भूयस्तनुत्यजां नास्ति शरीरबन्धः']] q. by [[alu.|तीर्थप्र.]] p. 313. The [[are says: rafa: uft
 
-1347 2. तीर्थमन्यत्पशंसन्ति गङ्गातीरे स्थिताश्च ये। गङ्गां न बहामन्यन्ते ते PARTI : ***, fro 27. 80.
+yoga fana HRETI agarṣı uya wratra faradagi isit. 7. 54 q.bayu Ferro p 11.|स्कन्द says: श्रुतिभिः परिपठ्येते सितासिते सरिद्वरे। तत्राप्लुताङ्गा ह्यमृतं भवन्तीति विनिश्चितम् । काशी. 7. 54 q. by त्रिस्थली० p. 11.]] Vide also [[rsfie 7.46|काशीखण्ड 7. 46]] for a similar verse. The [[verbno
 
-1917
+as|verb no doubt has]] a vedic ring about it. The [[EPT|त्रिस्थली०]] p. 4 notices another [[read N|reading.]] The waters of the Ganges are whitish while those of the [[Jumna are date|Jumnā are dark.]] Classical Sanskrit poets very often harp on these colours of the waters of the two rivers. Vide [[75T|रघुवंश]] 13. 54-57.
+[^1350]: दशतीर्थसहस्राणि तिस्रः कोट्यस्तथापराः । समागच्छन्ति [[माध्यां|माघ्यां]] तु प्रयागे भरतर्षभ ॥ माघमासं प्रयागे तु नियतः संशितव्रतः । स्नात्वा तु भरतश्रेष्ठ निर्मलः [[स्वर्गमा PTI|स्वर्गमाप्नुयात् ॥]] अनुशासन 25. 36-38.
+[^1351]: दर्शनात्तस्य तीर्थस्य नामसंकीर्तनादपि । मृत्तिकालम्भनाद्वापि [[नहः|नरः]] पापात्[[yal T.|प्रमुच्यते॥ मत्स्य.]] 104. 12, [[H.|कूर्म.]] I. 36. 27. The [[rê (111. 6-7) realis THTEET aîtartuo qaqa 85.80 reads "haiwe...sul
 
-La atat
+y a ng ada|अग्नि (111. 6-7) reads संस्मरणादस्य तीर्थस्य०; वनपर्व 85. 80 reads 'गमनात्तस्य...दपि। मृत्युकालभयाच्चापि नरः पापात्प्रमुच्यते ।'.]]
+[^1352]: [[-1352..|]]एतत् प्रजापतेः क्षेत्रं त्रिषु लोकेषु विश्रुतम् । अत्र स्नात्वा दिवं यान्ति [[थ पतास्तेऽ yarar: 11 A. 1. 36,20. #T.|ये मृतास्तेऽपुनर्भवाः ॥ कूर्म. I. 36. 20. मत्स्य.]] (104. 5 and 111. 14) and [[are (52063,127-128 )|नारद (उत्तर 63. 127-128)]] also calls it प्रजापतिक्षेत्र.
 
-596
+[[P598]]The word Prayāga is employed in the neuter when [[connect ed|connected]] with such words as [[tirtha|tīrtha]] or kṣetra, as in Matsya (111. 14 prajāpater-idam kṣetram prayāgam-iti viśrutam), but when employed along with words (in the masculine gender) such as [[tirtharāja,|tīrtharāja,]] it takes the masculine gender.
 
-History of Dharmaśāstra
+The word Prayāga is derived in various ways. The [[Vana parva 1353|Vanaparva]][^1353] appears to suggest that the word Prayāga is derived from the root [['yaj|'yaj']] when it says 'Brahmā who is the soul of all beings performed formerly a sacrifice here; therefore it became known as Prayāga'. In the [[Skanda 1354 purāṇa|Skanda]][^1354] purāṇa also it appears to be explained by taking the two parts pra and yāga [[separate ly.|separately.]] "It is mentioned as Prayāga because it is superior to all sacrifices; Prayāga was the name given to it by the gods Hari, Hara and others seeing that it is superior to all sacrifices though the latter be enriched with fees and the like." The [[Matsyapurāṇa 1355|Matsyapurāṇa]][^1355] appears to lay emphasis on the part 'pra' when it says 'on account of its efficacy (or power) as compared with all other [[tirthas|tīrthas]] it prevails (or is useful) far more'. The [[Brahmapurāṇa 1356|Brahmapurāṇa]][^1356] affirms "It is called prayāga on account of its eminence and it has the word 'rāja' (in [[Tirtharāja)|Tīrtharāja)]] applied to it on account of its being the chief".
 
-[Vol.
+[^1353]: [[grgaraft pg# Tantayan 17 Warat gana TAE: 1 Ala acara ataca a 87. 18-19; au pag
 
-excessive merit in Gangāsnāna on special days e. g. the merit of bath on New Moon has one hundred times as much merit as on an ordinary day, a thousand times on a sankranti, one hundred thousand on the eclipse of the sun or moon and un limited times when a bath is taken on moon eclipse on a Monday and on sun eclipse on Sunday. 1318 od
+GT E TU:1 goya aleGET HYÀ TUTETI FT. 109.15.|गङ्गायमुनयोर्वीर सङ्गमं लोकविश्रुतम् ॥ यत्रायजत भूतात्मा पूर्वमेव पितामहः। प्रयागमिति विख्यातं तस्माद्भरतसत्तम ॥ वनपर्व 87. 18-19; तथा सर्वेषु लोकेषु प्रयागं पूजयेद् बुधः। पूज्यते तीर्थराजस्तु सत्यमेव युधिष्ठिर ॥ मत्स्य. 109. 15.]]
+[^1354]: [[Jeg 22: P ara al ter 4: gerai prarot FETA:I FA TETA FA ERRETTIE: 11 g. in Frer TO P. 13. The first half is para, fisito 7.49; so 721 means HET IT 49.|प्रकृष्टं सर्वयागेभ्यः प्रयागमिति गीयते। दृष्ट्वा प्रकृष्टान्यागेभ्यः प्रकृष्टेभ्यो दक्षिणादिभिः। प्रयागमिति तन्नाम कृतं हरिहरादिभिः॥ q. in त्रिस्थली० p. 13. The first half is स्कन्द, काशी० 7. 49; so प्रयाग means प्रकृष्टो यागो यत्र.]]
+[^1355]: [[archaatery: Thacun faut! #T.|प्रभावात्सर्वतीर्थेभ्यः प्रभवत्यधिकं विभो। मत्स्य.]] 110. 11.
+[^1356]: [[HarithT TYPE- ail agiz|प्रकृष्टत्वात्प्रयागोऽसौ प्राधान्याद्राजशब्दवान् । ब्रह्मपुराण]] q. in [[faturato p.123.0|त्रिस्थली० p. 13.]]
 
-Or todzie monitor TRISTHALIP
+We must distinguish between [[Prayāga-mandala,|Prayāga-maṇḍala,]] Prayāga and [[Venī|Veṇī]] or [[Triveni,|Triveṇī,]] each subsequent one being smaller and holier than each preceding one. The [[Matsya 1357|Matsya]][^1357] states that the sphere of Prayāga is five yojanas in circumference and that the moment a man enters inside this strip of land, there is an [[Aśva medha|Aśvamedha]] at every step. This has been explained by the [[Tristhali setu|Tristhalīsetu]] (p. 15) as follows: Regarding Brahmayūpa (the sacrificial post of Brahmā) as the spike or peg, if one measures with a rope one and one half yojana long all round, that would be the [[P599]][[Prayagamandala|Prayāgamaṇḍala]] of five yojanas in circumference. The [[bound aries|boundaries]] of Prayāga itself are defined by [[Vanaparva,1358|Vanaparva,]][^1358] the [[Matsya purāṇa|Matsyapurāṇa]] (104. 5 and 106. 30) and others. 'Prayāga extends from [[Pratisthāna|Pratiṣṭhāna]] up to the pool of Vāsuki and upto the two nāgas Kambala and Aśvatara and the nāga Bahumūlaka; this is known in the three worlds as the sacred spot of Prajāpati' (Matsya 104. 5), while Matsya 106. 30 provides that to the east of the Ganges is the [[Samudrakūpa,|Sāmudrakūpa,]] which is the same as [[Prati sthāna.|Pratiṣटीhāna.]] This is explained by the Tristhalīsetu as follows: the eastern boundary is the kūpa called [[Pratisthāna 1359,|Pratiṣṭhāna]][^1359]; the [[nor thern|northern]] one is the Vāsuki pool, the western limit is formed by Kambala and Aśvatara; the southern boundary is Bahumūlaka. This would be a four-cornered space which is included within [[Prayāga-mandala.|Prayāga-maṇḍala.]] According to the Matsyapurāṇa as quoted by the Kalpataru on [[tirtha|tīrtha]] p. 143 the two Nāgas are on the south bank of Yamunā while the printed text has [['vipule Yamunātate' (106, 27) 1350.|'vipule Yamunātaṭe' (106. 27)]][^1360]. The printed text of Padma I. 43. 27 supports the Kalpataru reading [['Yamunā-daksine tate).|('Yamunā-dakṣiṇe taṭe).]] [[Veni-kṣetra|Veṇī-kṣetra]] is within the limits of Prayāga itself and is twenty bow lengths in extent, as stated in the Padma. There are three kūpas viz. Prayāga, [[Pratisthāna|Pratiṣṭhāna]] and Alarkapura. The Matsya and Agni say 'there are three fire [[kundas|kuṇḍas]] and the Ganges flows in their midst'. It should be noted that except where special reference is made in the Purāṇas to the [[sub tirthas,|sub-tīrthas,]] the reference to a bath at Prayāga in general means bath in the [[Veni i. e,|Veṇī i. e.]] the confluence of the two rivers, as [[e g|e. g.]] in Vanaparva 85. 81 and 85 and Matsya [[104.16-17, 1361|104. 16-17.]][^1361]
 
-br.
+[^1357]: [[T aratato 14 st1 a aqASTA: vê we u 1917 HRT. 108. 9-10, 111.8, 1. 45.8. The arror has oramaic propera arrund Targa: I pari area ata 7FT HERCETARE || II35.4.|पञ्चयोजनविस्तीर्णं प्रयागस्य तु मण्डलम् । प्रविष्टमात्रे तत्राश्वमेधः पदे पदे॥ मत्स्य. 108. 9-10, 111. 8, पद्म I. 45. 8. The कूर्मपुराण has पञ्चयोजनविस्तीर्णं ब्रह्मणः परमेष्ठिनः। प्रयागं प्रथितं तीर्थं यस्य माहात्म्यमीरितम् ॥ II. 35. 4.]]
+[^1358]: आ प्रयागं प्रतिष्ठानाद्यत्पुरा [[वासुकेर्हदात्।|वासुकेर्ह्रदात्।]] कम्बलाश्वतरौ नागौ नागश्च [[बहु Fai gan yr a: ay lng ayaq! #T. 104.5; 92|बहुमूलकः॥ एतत् प्रजापतेः क्षेत्रं त्रिषु लोकेषु विश्रुतम् । मत्स्य. 104. 5; पद्म]] I. 39. 69-70, 41. 4-5 are similar. [[qaga 85. 76-77 are: 919 Haràgra sa ati affer 119 af a arazo hra: agàęta ST FAN ZUTEI. 3119 111. 5. has the verse gri...12: (reads azi sitt).|वनपर्व 85. 76-77 are: प्रयागं सप्रतिष्ठानं कम्बलाश्वतरावुभौ । तीर्थे भोगवती चैव वेदिरेषा प्रजापतेः । तत्र वेदाश्च यज्ञाश्च मूर्तिमन्तो युधिष्ठिर ।. अग्नि 111. 5. has the verse प्रयागं... प्रजापतेः (reads वेदी प्रोक्ता).]]
+[^1359]: [[gaura a graag gereali aa a Free agrā a agar Ft. 106. 3,|पूर्वपार्श्वे तु गङ्गायास्त्रिषु लोकेषु भारत। कूपं चैव तु सामुद्रं प्रतिष्ठानं च विश्रुतम्॥ मत्स्य. 106. 3.]]
+[^1360]: [[Art: fharrà fat : # wāą! yaráztara caror faazimig #F# # Ef& USHTATTI eco p. 75. Franha|माघः सितासिते विप्र राजसूयैः समो भवेत्। धनुर्विंशतिविस्तीर्णे सितासिताम्बुसङ्गमे ॥ इति पाद्ममोक्तेः। त्रिस्थली० p. 75. सितासित]] (white and dark) means [[Veni.|Veṇī.]] Vide n. 1337 above for [[ya:|धनुः]] being equal to four hastas and 96 [[angulas un|aṅgulas.]]
+[^1361]: [[ouerger ini aga gigi qaca 85. 73 ; a GT eta Tiara a stref AT 110.4 and afë 111.12, T I. 39 phbykaTorien. 4: while ata, 104.13, #. (1. 36. 28-29) read a vela.|तत्र त्रीण्यग्निकुण्डानि येषां मध्येन जाह्नवी। वनपर्व 85. 73; त्रीणि चाप्यग्निकुण्डानि येषां मध्ये तु जाह्नवी । मत्स्य. 110. 4 and अग्नि 111. 12, पद्म I. 39. 67, कूर्म I. 36. 4; while मत्स्य. 104. 13, कूर्म. (I. 36. 28-29) read पञ्च कुण्डानि.]]
 
-The three great tirthas of Prayāga, Kāśi and Gayā are referred to as Tristhali and the great scholar, Nārāyaṇabhatta (born in 1513 A, D.), wrote (about 1580 A, D.) in Benares a famous work called Tristhalīsetu (a bridge to the Tristhali) wherein he gives a thorough and exhaustive treatment of the pilgrimage to these three holy places 1348a alone. Prayāga is assigned pp. 1-72, Kāsi pp. 72-316 and Gayā pp. 316-379 (of the Anandāśrama edition). Following with all humility the footsteps of such an illustrious and venerable scholar I shall deal with the three tirthas in the same order.
+[[P600]]The [[Vanaparva 1362|Vanaparva]][^1362] and some of the [[Purānas|Purāṇas]] represent that the country between the Ganges and the Yamunā is (like) the hips and loins of the earth (i. e. it is the most prosperous and plentiful part of the earth) and that Prayāga is like the inmost part of the hips.
 
-PRAYAGA
+[^1362]: गङ्गायमुनयोर्मध्यं पृथिव्या जघनं स्मृतम् । प्रयागं जघनस्थानमुपस्थमृषयो [[fag: # aga 85.75 = UT I. 39. 69 and I. 43. 19, 31 111.4, . 1. 37. 12. F r. 106. 19.|विदुः॥ वनपर्व 85. 75 = पद्म I. 39. 69 and I. 43. 19, अग्नि 111. 4, कूर्म. I. 37. 12, मत्स्य. 106. 19.]] The idea appears to be that holy places are like the children of the earth.
 
-One of the most ancient reference to the greatness of the confluence of the Ganges and the Yamunā occurs in a khila 1349 verse which is usually placed in Rg. X. 75 and may be rendered as follows: "Those who take a bath at the place where the
+The [[Narasimha-purāṇa|Narasiṃha-purāṇa]] says that [[Visnu|Viṣṇu]] is in the form of Yogamūrti in Prayāga ([[65.17).|65. 17).]] It is said in the [[Matsya purana 1363|Matsyapurāṇa]][^1363] (111. [[4-10 )|4-10)]] that when Rudra dissolves the world at the end of the Kalpa, the holy place of Prayāga is not destroyed, that Brahmā, [[Visnu|Viṣṇu]] and [[Maheśvara (Siva)|Maheśvara (Śiva)]] stay in Prayāga, that to the north of [[Pratisthāna|Pratiṣṭhāna]] Brahmā stays in it under guise, that [[Visnu|Viṣṇu]] stays there as [[Veṇi-Madhava,|Veṇī-Mādhava,]] that Śiva stays there as the [[Vata|Vaṭa]] (banyan tree) and that therefore the gods with the [[Gan dharvas,|Gandharvas,]] the Siddhas and great sages always protect the sphere [[(mandala)|(maṇḍala)]] of Prayāga by guarding it against evil actions. The Matsyapurāṇa, therefore, recommends that a pilgrim should go to Prayāga which is protected by all the gods, stay there for a month, avoid sexual intercourse, worship gods and [[pitrs|pitṛs]] and thereby secure his desired objects ([[104.18).|104. 18).]] The same Purāṇa highly eulogises the gift at Prayāga of a kapilā cow properly decked ([[105, 16-22)|(105. 16-22)]] with clothes, ornaments and jewels. The [[Padmapurana (Adi. 42.17-24)|Padmapurāṇa (Ādi. 42. 17-24)]] has the same verses as the Matsya on this subject. Similarly, the marriage of a daughter in the [[ārsa|ārṣa]] form at Prayāga is highly spoken of in Matsya (106. 8-9). The Matsya (105. 13-14 and 106. 10) says generally that if a man makes a gift of a cow, of gold, of precious stones, of pearls and of other things that he owns his pilgrimage becomes [[fruit ful (saphala)|fruitful (saphala)]] and he collects religious merit [[(punya)|(puṇya)]] and that when a man makes gifts according to his ability and wealth, the fruit of his pilgrimage increases and he remains in heaven [[e end|till the end]] of the world. The [[Brahmānda 1364|Brahmāṇḍa]][^1364] assures pilgrims that whatever gifts are made according to one's ability at [[P601]][[Kuruksetra,|Kurukṣetra,]] [[Prayaga,|Prayāga,]] at the mouth of the Ganges where it falls into the sea, on the Ganges, at [[Puskara,|Puṣkara,]] at Setubandha, at [[Gangādvāra|Gaṅgādvāra]] and in [[Naimisa|Naimiṣa]] tends to confer inexhaustible rewards. In the [[Vanaparva 1365|Vanaparva]][^1365] it is stated that this sacrificial ground (of Brahmā) is honoured even by the gods, that even a small thing donated here assumes greatness (i. e. produces the rewards of large gifts).
 
-0 1348. दर्शे शतगुणं पुण्यं संक्रान्तौ च सहस्रकम्। चन्द्रसूर्यग्रहे लक्ष व्यतीपाते स्वनन्तकम् । ... सोमग्रहः सोमदिने रविवारे रवग्रहः । तच्चूडामणिपर्वाख्यं तत्र स्नानम H alla TE, FTTT 27. 129-131. OM
+[^1363]: [[gefa atacular act:... op fagra
 
-1348 a. FTATI FASTAI PATERT: FERRARI. -1349. सितासिते सरिते यत्र सङ्गते तत्राप्ठतासो दिवमुत्पतन्ति। ये वै तन्वं विसृजन्ति धीरास्ते जनासो अमृतत्वं भजन्ते॥. The त्रिस्थली. p.3 says it is a supplementary sruti text of the Asvalayana school, while the Tir. C. p. 47 quotes it as a verse of the Rgveda. It is quite possible to hold that the verse does not encourage religious suicide but only makes this distinction that by a bath only once a man goes to heaven and that if he dies at Prayaga he attains moksa even without correct metaphysical knowledge. Vide रघुवंश 13.58'तत्त्वावबोधेन विनापि Yatri arta Tiara: ' q. by alu. p. 313. The are says: rafa: uft
+fagrar|प्रयागे निवसन्त्येते ब्रह्मविष्णुमहेश्वराः ।... उत्तरेण प्रतिष्ठानाच्छन्नरूपो ब्रह्मा तिष्ठति।]] वेणीमाधवरूपी तु भगवांस्तत्र तिष्ठति ॥ माहेश्वरो वटो भूत्वा तिष्ठते परमेश्वरः । ततो [[देवा Furuaf: ET OTAQ: 1 Tata # FACET FraarTotal HFT. 111. BLOOD|देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः । रक्षन्ति मण्डलं नित्यं पापकर्मनिवारणात् । मत्स्य. 111. 4-10.]] Vide [[. I. 36. 23-26, T2, 31TIĘCUE 41. 6-10 for similar verses,|कूर्म. I. 36. 23-26, पद्म, आदिखण्ड 41. 6-10 for similar verses.]]
+[^1364]: कुरुक्षेत्रे प्रयागे च गङ्गासागरसङ्गमे। गङ्गायां पुष्करे सेतौ गङ्गाद्वारे च नैमिषे। [[tariana 41 a 17 call are q. in. Erfurdt p. 24.|यद्दानं दीयते शक्त्या तदानन्त्याय कल्पते॥ ब्रह्माण्ड q. in त्रिस्थली० p. 24.]]
+[^1365]: [[एषा यजनभूमिहि|एषा यजनभूमिर्हि]] देवानामपि सत्कृता। तत्र दत्तं [[स्वल्पमाप|स्वल्पमपि]] महद्भवति भारत ॥ [[48 85. 82 = 83. 77 of the cr, ed, which reads as C ERAT.|वनपर्व 85. 82 = 83. 77 of the cr. ed. which reads तत्र दत्तं सूक्ष्ममपि.]]
 
-yoga fana HRETI agarṣı uya wratra faradagi isit. 7. 54 q.bayu Ferro p 11. Vide also rsfie 7.46 for a similar verse. The verbno
+The confluence of the three rivers came to be associated with [[omkāra, 1366|oṃkāra,]][^1366] the mystic syllable that stands for Brahma. It is said in a purāṇa passage (probably Brahmapurāṇa) that the three parts of om (a u m) respectively are Sarasvatī, Yamunā and [[Gangā|Gaṅgā]] and that the waters of three rivers represent Pradyumna, Aniruddha and [[Sankarṣaṇa Hari. 18|Saṅkarṣaṇa Hari.]]
 
-as a vedic ring about it. The EPT p. 4 notices another read N The waters of the Ganges are whitish while those of the Jumna are date Classical Sanskrit poets very often harp on these colours of the waters of the two rivers. Vide 75T 13. 54-57.
+[^1366]: [[Bihari N agaurahti ada qoft fata Fahre प्रदायिनी॥|ओमित्येकाक्षरं ब्रह्म परब्रह्माभिधायकम् । तदेव वेणी विज्ञेया सर्वसौख्यप्रदायिनी॥]] अकारः शारदा [[मोक्ता|प्रोक्ता]] प्रद्युम्नस्तत्र [[जायते।|जायते ।]] उकारो यमुना [[प्रोक्तानिरुद्ध स्तज्जलात्मकः।|प्रोक्तानिरुद्धस्तज्जलात्मकः।]] मकारो जाह्नवी गङ्गा तत्र सङ्कर्षणो हरिः । एवं त्रिवेणी विख्याता वेदबीज[[gantar il q. by Ferret|प्रकीर्तिता ॥ q. by त्रिस्थली०]] p. 8.
 
-POONA
+It may be noted that, in spite of the fact that the Matsya, Kūrma (I. 36-39), Padma (Ādi. chapters 41-49), Agni 111 and other Purāṇas contain several hundred verses on Prayāga, the Kalpataru (on [[tirtha),|tīrtha),]] the earliest extant digest on [[tirthas,|tīrthas,]] quotes only the Matsya (104. 1-13 and 16-20, 105. 1-22, 106. 1-48, 107. 2–21, 108. 3-5, 8-17 and 23-34, 109. 10-12, 110. 1-11, 111. 8-11, in all about 151 [[Verses)|verses)]] and Vanaparva chap. 85. 79-87 and 97 and does not add a single word of explanation or discussion. But the other digests profusely quoting mostly from Purāṇas discuss at some length several topics and a few words must be devoted to some of those topics.
 
-4
+One such topic is tonsure at Prayāga. It is stated by the [[Gangāvākyāvali|Gaṅgāvākyāvalī]] (p. 298) and the [[Tir. Pr.|Tīr. Pr.]] (p. 335) that, though the author of the Kalpataru says nothing about tonsure at Prayāga, yet as [[ģistas|śiṣṭas]] (respectable and learned people) and the writers of digests accept it as necessary, certain [[autho rities|authorities]] would be set out. The two verses quoted by most [[13664|writers]][^1366a] are 'one should tonsure the head at Prayāga, offer [[pindas|piṇḍas]] at Gayā, make gifts in [[Kuruksetra|Kurukṣetra]] and should commit
 
-FOUNDED
+[^1366a]: प्रयागे [[वपन कुर्याद्यायो|वपनं कुर्याद्गयायां]] पिण्डपातनम् । [[दाने|दानं]] दद्यात् [[कुरुक्षेत्र वाराणस्यो जर्नु|कुरुक्षेत्रे वाराणस्यां तनुं]] त्यजेत् ॥ किं गयापिण्डदानेन काश्यां वा मरणेन किम् । किं कुरुक्षेत्रदानेन [[प्रयगे वपन याछ ।|प्रयागे वपने कृते ॥]] q. by [[ear.|गङ्गावा.]] p. 298, [[atera. p,|तीर्थचि. p.]] 32, [[Errente|त्रिस्थली०]] p. 17, [[g.|तीर्थप्र.]] p. 335. These two verses occur in [[Fire ( TC)|नारदीय (उत्तर)]] 63. 103-104.
 
-1917
+[[P602]](religious) suicide at Benares. What is the use (or necessity) of [[pinda|piṇḍa]] offerings at Gayā or death in [[Kāśi, 'or|Kāśi, or]] gifts at [[Kuruk setra,|Kurukṣetra,]] if one has tonsured one's head at Prayāga?". Elaborate discussions are held by all these works about the exact [[inten tion|intention]] of the verses, about the application of the maxim of rātrisattra[^1367] to them and about the results derived from [[ton sure.|tonsure.]] They have to be passed over here from considerations of space. The [[Tristhali-setu|Tristhalī-setu]] (p. 17) holds that the verse only [[prai ses|praises]] the rite of tonsure at Prayāga and the fruit thereof is simply the removal of sin. The Tri. S. refutes (p. 17) the application of rātrisattra-nyāya to these verses, while [[Tir. C.|Tīr. C.]] (p. 32) applies it. Some of the conclusions drawn by the Tri. S. are that in one and the same yātrā at Prayāga (even if a man stays there for some days) [[.ceremonial|ceremonial]] tonsure takes place only once, that widows have to tonsure their heads, that in the case of women whose husbands are living only two or three finger-breadths of tresses are to be cut and offered at the [[Triveni,|Triveṇī,]] that even[^1367a] boys whose upanayana has not been performed have to undergo tonsure provided the [[cūṇā|cūḍā]] rite has already been performed. The [[Tristhalisetu|Tristhalīsetu]] (p. 22) notes that certain traditionalists,[^1368] [[P603]]relying on passages that aver that all sins cling to the roots of a person's hair, say that cutting two or three tresses would be merely kartana and not vapana (tonsure), that even women whose husbands are alive must shave themselves at Prayāga, that such women should make a braid of all their hair, should deck the braid with saffron and other auspicious materials, bow to their husbands and with the husband's permission have the head tonsured, that then they should place the cut hair in their joined hands, place thereon a golden or silver [[veni|veṇī]] and pearls and coral and should cast all these into the confluence ([[(Veni)|(Veṇī)]]) of the Ganges and Jumnā after repeating the mantra ‘May all my sins be destroyed by this offering of my braided hair into the [[Veṇi!|Veṇī!]] may my blessedness (the auspicious state of wifehood) always increase in the lives to come.' The Tri. S. states that women do not tonsure their head at any [[tirtha|tīrtha]] except at Prayāga and the only reason for this is that it is the practice of [[sistas.|śiṣṭas.]] Vide above [[pp. 122-124|pp. 122–124]] for tonsure as expiation for sins. The [[Nāradiya|Nāradīya]] (Uttara) 63. 106 provides the same rule as Parāśara (in note 278 above) for women. The [[Prāyascittatattva|Prāyaścittatattva]] of Raghunandana prescribes the complete tonsure of the head for women at Prayāga.
 
-Bhandarkar Oriental Research Institute
+[^1367]:
+    रात्रिसत्रन्याय occurs in जै. IV. 3. 17-19. There is a passage in the पञ्चविंशब्राह्मण 23. 2. 4 'प्रतितिष्ठन्ति य एता रात्रीरुपयन्ति.' Here in the पञ्चविंश रात्रिसत्र is enjoined but no fruit thereof is expressly promised. The question arises whether in the absence of an express reward, heaven should be under-stood as the reward (because as explained in Jai. IV. 3. 15-16 svarga is the reward of all sacrifices for which no express reward is mentioned) or whether प्रतिष्ठा (stable position) which occurs in the above arthavāda passage should be held to be the reward of रात्रिसत्र. The reply is that here the reward is प्रतिष्ठा and not स्वर्ग i. e. though there is no express mention of the reward in the passage about rātrisattra, the arthavāda passage should be construed as laying down the reward. In the two verses, there is a vidhi in the words प्रयागे वपनं कुर्यात् and the second verse is an अर्थवाद. The question is what reward is promised in it. If रात्रिसत्रन्याय applies, then मुण्डन secures all the fruits of गयापिण्डदान, कुरुक्षेत्रदान and काशीतनुत्याग. If it does not apply then the only fruit is पापाभाव.
 
-Importance of Prayāga
+[^1367a]:
+    अनुपनीतानामपि प्रयागे वपनं कार्यम् । यस्तु पुत्रांस्तथा बालान्स्नापयेत्पाय-येत्तथा । यथात्मना तथा सर्वं दानं विप्रेषु दापयेत् ॥ इति मत्स्यपुराणवचने तृतीयपादस्य... मुण्डनादिविधायकत्वात् । त्रिस्थली० pp. 23-24. यस्तु पुत्रांस्तथा० is मत्स्य. 106.6.
 
-597
+[^1368]:
+    सांप्रदायिकास्तु... तस्मात्समूलमेव केशवपनमिह स्त्रीणामिति । अत्रापि नोन्मुक्त-केशवपनं किंतु वेणीं कृत्वा कुङ्कुमादिमङ्गलद्रव्यालङ्कृता भर्तारं नमस्कृत्य तदनुज्ञाता वापयेत् । तां च वेणीमञ्जलौ निधाय यथाशक्तिकृतां स्वर्णमयीं रूप्यमयीं वा वेणीं मुक्ताप्रवालादि च निधाय-वेण्यां वेणीप्रदानेन सर्वं पापं प्रणश्यतु । जन्मान्तरेष्वपि सदा सौभाग्यं मम वर्धताम् । इति पठित्वा वेण्यां क्षिपेत् ॥ त्रिस्थली० p. 22; प्रयागे स्त्रीणामपि मुण्डनं न तु वक्ष्यमाण-वचनाभ्यां केशानां द्वयङ्गुलच्छेदमात्रम् ॥ प्रायश्चित्ततत्त्व p. 493.
 
-two rivers, white and dark, meet together, rise up (fly up) to heaven; those determined men who abandon their body there (i. e, commit suicide by drowning themselves) secure immor tality (or moksa)". This must have been a comparatively early verse. The Skandapurāṇa referes to it as śruti. The greatness of Prayāga is dwelt upon in the Mahābhārata (Vana parva 85. 69-97, 87. 18-20, Anuśāsana 25. 36-38) 1350 and in many purāṇas such as the Matsya (chapters 103-112, in all 260 verses), Kurma I. 36-39 (verses 121), Padma (I. chap. 40-49), Skanda, Kasi-Khanda, chap. 7. 45-65). Only a few out of the hundreds of verses on Prayāga can be cited here by way of sample. One remarkable fact is that the Rāmāyana does not say much about Prayāga. The confluence of the two rivers is no doubt referred to (Rām. II. 54.6) but from the des cription it appears that there was a forest at what is now Prayāga. Prayāga is called Tirtharaja (the prince among tirthas) in the Matsya 109. 15, Skanda (Kāśi 7. 45), Padma VI. 23. 27-35 (where the refrain at the end of each verse is 'sa tirtharājo jayati prayāgah) and elsewhere. The legend runs that Prajapati or Pitamaha (Brahma) performed a sacrifice here and Prayāga is the middle one of the vedis of Brahmā, the others being Kuruksetra in the north (uttaravedi) and Gaya in the east. It is believed that three rivers meet at Prayāga viz, Ganga, Yamunā and Sarasvati (underground between the two). It is said in the Matsya 1351, Kūrma and other Purānas that at the very sight of Prayāga, even by taking its name or by applying its clay to one's body a man becomes free from sin. The Kūrmapurāṇa 1352 proclaims "it is the sacred spot of Prajāpati; those who bathe here go to heaven and those who die here are not born again.” That sacred spot is known as tirtharāja ; it is dear to Keśava. The same is known as Triveni.
+It appears probable that the provision for the casting of [[veṇi|veṇī]] (braided hair) on the part of women whose husbands were alive was suggested by the word [[Venī|Veṇī]] applied to the confluence of the two rivers, where the river Ganges appears to make a bend or curve for some distance.[^1369]
 
-STITU
+[^1369]:
+    ओमित्येकाक्षरं ब्रह्म परब्रह्माभिधायकम् । तदेव वेणी विज्ञेया सर्वसौख्य-प्रदायिनी ॥ स एव तीर्थराजोऽयं त्रिवेण्या यत्र सङ्गमः । त्रिस्थली० p. 8.
 
-1350. दशतीर्थसहस्राणि तिस्रः कोट्यस्तथापराः । समागच्छन्ति माध्यां तु प्रयागे भरतर्षभ ॥ माघमासं प्रयागे तु नियतः संशितव्रतः । स्नात्वा तु भरतश्रेष्ठ निर्मलः स्वर्गमा PTI lata 25. 36-38.
+One important question that very much exercised the minds of ancient and medieval Indian writers was whether and when suicide, particularly at sacred spots like the confluence of the Ganges and Jumnā or at the foot of the Akṣaya [[Vata|Vaṭa]] at Prayāga, would involve no sin.[^1370] This matter has already been [[P604]]dealt with at length in H. of Dh. vol. II. [[pp. 924-928|pp. 924–928]] and vol. [[TII.|III.]] [[pp. 939, 948-949.|pp. 939, 948–949.]] Only a brief treatment by way of a summary of the pages and a few notes will be added here. The general sentiment of Dharmaśāstra works is to condemn suicide or an attempt to commit suicide as a great sin (vide [[H. of Dh,|H. of Dh.]] vol. II. page 924 for texts). The [[Ap. Dh. S.|Āp. Dh. S.]] (I. 10. 28. 15-17) mentions the view of Hārīta which condemns suicide even as [[prāya Ścitta|prāyaścitta]] for committing a mahāpātaka (like incest) and puts [[kill ing|killing]] another or killing oneself on the same footing. Manu V. 89 and Yāj. III. 154 condemn suicide by denying after-death rites to those who commit it, but Manu allowed suicide in various ways as prāyaścitta for mahāpātakas (vide Manu XI. 73, [[90-91, 103-104).|90–91, 103–104).]] But exceptions to the condemnation of suicide are found in the [[smrtis,|smṛtis,]] epics and purāṇas. They may be grouped under several heads. (1) Suicide as an exception in various ways by those guilty of mahāpātakas [[(viz,| (viz.]] [[brāhmana|brāhmaṇa]] murder, drinking of surā, theft of brāhmaṇa's gold and incest); vide H. of Dh. vol. II, pp. 924–925 for [[smrti|smṛti]] and other texts. (2) Starting on the Great Journey (mahāprasthāna-gamana or mahāpathayātrā) by a forest hermit [[(Manu VI, 31,| (Manu VI. 31,]] Yāj. III. 55) suffering from incurable diseases and unable to perform the duties of his order. (3) An old man or one who cannot observe the rules of bodily purification or who is so ill as to be beyond medical skill may kill himself by throwing himself from a precipice or by fire or by drowning or fasting or start on the Great Journey into the Himālaya or by jumping from the [[bran ches|branches]] of the [[Vata|Vaṭa]] tree at Prayāga ([[Apararka|Aparārka]] p. 877 quoting [[Adi-purāna|Ādi-purāṇa]] and [[Atri-smrti|Atri-smṛti]] verses 218-219 q. by Medhātithi on Manu V. 88 and Mit. on Yāj. III. 6). (4) Even a [[house holder,|householder,]] otherwise all right, may resort to suicide by the means stated (in No. 3) if his life's work is done, if he has no desire for the pleasures of the world and does not desire to live, or if he is a Vedāntin[^1371] and convinced of the ephemeral nature of life and may kill himself by fast in Himālaya. (5) Religious suicide [[· was allowed|was allowed]] at the confluence of the two great rivers [[Gangā|Gaṅgā]] and Yamunā, at the [[Vata|Vaṭa]] there and at some other [[tirthas.|tīrthas.]] (6) A wife dying by sahagamana or [[anumarana.|anumaraṇa.]] As to [[Sati,|Satī,]] the [[Nāradiya|Nāradīya]] ([[pārvārdha|pūrvārdha]] [[7. 52-53)|7. 52–53)]] provides that a woman should not burn herself on the funeral pyre of her husband if she [[has alus|has]] [[P605]]young child or young children, if she is pregnant or if she has not attained puberty, or if she is in her monthly illness at the time. Not only did common men believe in the [[pro. mise|promise]] of the Purāṇas that those who killed themselves at [[Prayaga|Prayāga]] (at the [[sangama|saṅgama]] or near [[Vata)|Vaṭa)]] secured mokṣa [[( freedom from the everlasting cycle of births and deaths )|(freedom from the everlasting cycle of births and deaths)]] which was the highest of the four [[puruṣārathas|puruṣārthas]] [[(goals of human existence ),|(goals of human existence),]] but even great poets like Kālidāsa held the view that, though [[moksa|mokṣa]] or kaivalya or apavarga requires correct knowledge and realisation of the Supreme Spirit according to the Vedānta, [[Sānkhya|Sāṅkhya]] and Nyāya systems, death at the sacred [[sangama|saṅgama]] led to mokṣa even without [[tattvajñāna.'|"tattvajñāna."]] In H. of Dh. vol. II [[pp. 925-927,|pp. 925–927,]] historical [[ex amples|examples]] of kings such as [[Yasah-karnadeva,|Yaśaḥ-karṇadeva,]] Candella [[Dhangadev|Dhaṅgadeva]] and Cālukya Someśvara committing suicide at Prayāga or the [[Tungabhadrā|Tuṅgabhadrā]] have been given. The king Kumāragupta of Magadha is said to have entered the fire of dry cow-dung cakes. This is in accordance with the prescriptions in the [[Matsya purāna|Matsyapurāṇa]] 107. [[9-10|9–10]] [[(Padma, Adi-khanda 44.3)|(=Padma, Ādi-khaṇḍa 44. 3)]] which [[states 1372 "the man|states]] 'the man[^1372] who, suffering from no diseases, having no deficiency as to his limbs and being in full possession of his five senses, encompasses (his death) in cowdung fire remains honoured in heaven for as many years as there are pores on the whole of his body.'[^1373] The [[Rājatarangiṇi|Rājataraṅgiṇī]] VI. 14 refers to officers entrusted with the duty of supervising suicide by fast (prāyopaveśa).
 
-1351. दर्शनात्तस्य तीर्थस्य नामसंकीर्तनादपि । मृत्तिकालम्भनाद्वापि नहः पापात्
+[^1370]:
+    प्रयागः...विभो ॥ श्रवणात्तस्य... प्रमुच्यते ॥ तत्राभिषेकं यः कुर्यात्सङ्गमे संशित-व्रतः । पुण्यं सकलमाप्नोति राजसूयाश्वमेधयोः ॥ एषा यजन...महद्भवति भारत ॥ न वेद... प्रयागमरणं प्रति ॥ दशतीर्थसहस्राणि षष्टिकोट्यस्तथापराः । येषां सांनिध्यमत्रैव कीर्तितं कुरु-नन्दन । चातुर्वेद्ये च यत्पुण्यं सत्यवादिषु चैव यत् । स्नात एव तदाप्नोति गङ्गायमुनसङ्गमे ॥ वनपर्व 85. 79-85. After quoting the last verse and several other verses the त्रिस्थली-सेतु observes (p. 30) 'एतेषु सर्वेषु वचनेषु यद्यपि प्रयागशब्दस्याविशेषत उपादानं तथापि तदन्तर्गततत्तत्तीर्थस्नानफलस्य वाक्यान्तरैरुक्तत्वात् स्थलमात्रे च जलाभावेन स्नानासम्भवाद्द्रो-ण्युपलक्षकः प्रयागशब्दः '. The same verses occur in पद्म (आदि 39. 72-78). स्कन्द (काशी० chap. 7, 63 and 65) says 'तद्विष्णोः परमं पदं सदा पश्यन्ति सूरयः । एतद्यत्पठ्यते वेदे तत्प्रयागं पुनः पुनः ॥ इयं वेणी हि निःश्रेणी ब्रह्मणो वर्त्म यास्यतः ।'. तद्विष्णोः... सूरयः ।—is ऋ. I. 22.20.
 
-yal T. 104, 12, H. I. 36. 27. The rê (111. 6-7) realis THTEET aîtartuo qaqa 85.80 reads "haiwe...sul
+[^1371]:
+    शरीरमुत्सृजेत्तत्र विधिपूर्वमनाशके । अध्रुवं जीवितं ज्ञात्वा यो वै वेदान्तगो द्विजः ॥ अभ्यर्च्य देवतास्तत्र नमस्कृत्य मुनींस्तथा । ततः सिद्धो दिवं गच्छेद् ब्रह्मलोकं सनातनम् ॥ अनुशासन 25. 63–64, तत्र refers to हिमालय as the context shows.
 
-y a ng ada -1352.. एतत् प्रजापतेः क्षेत्रं त्रिषु लोकेषु विश्रुतम् । अत्र स्नात्वा दिवं यान्ति थ पतास्तेऽ yarar: 11 A. 1. 36,20. #T. (104.5 and 111. 14) and are (52063,127-128 ) also calls it प्रजापतिक्षेत्र.
+[^1372]:
+    गङ्गायमुनयोर्मध्ये कर्षाग्निं यस्तु साधयेत् । अहीनाङ्गो ह्यरोगश्च पञ्चेन्द्रिय-समन्वितः । यावन्ति रोमकूपाणि तस्य गात्रेषु देहिनः ॥ तावद्वर्षसहस्राणि स्वर्गलोके महीयते ॥ मत्स्य 107. 9, कूर्म I. 38. 3-4, नारदीय, उत्तर, 63.154 (reads करीषाग्निं तु धारयेत्), पद्म I. 44. 9 (reads पञ्चाग्निं यस्तु). कर्षाग्निं is short for करीषाग्निं for metrical reasons. कूर्म I. 38.3 reads 'करीषाग्निं च साधयेत्.' Vide Gupta Inscriptions No. 42 p. 200, the Ahsaid Stone Inscription of आदित्यसेन of मगध, which states that his fifth ancestor Kumāragupta plunged himself in the slow-burning fire of dried cowdung cakes as if in water at Prayāga. शौर्यसत्यव्रतधरो यः प्रयागगतो धने । अम्भसीव करीषाग्नौ मग्नः स पुष्पपूजितः ॥ p. 203 (of the text). धने means धने सत्यपि. The learned editor was probably unaware of the provisions about suicide at Prayāga by being burnt with dry cowdung cakes in the Matsya and other purāṇas.
 
-FOUNDED
+[^1373]:
+    The Ain-i-Akbari (tr. by Gladwin and published in 1800) speaks of the following as the meritorious kinds of suicide (vol. I. p. 531 and p. 802 of the Popular edition, edited by J. Mukhopadhyaya). These are five in number viz. (1) starving; (2) covering himself with cowdung and setting it on fire and consuming himself therein; (3) burying himself in snow; (4) to plunge into water at the Gaṅgāsāgara-saṅgama, enumerate one's sins and pray till alligators come and devour the man; (5) cut his throat at Allahabad at the confluence of the Ganges and the Jumnā.
 
-Bhandarkar Oriental Research Institute
+[[P606]]The important verse on which reliance is placed for sanctioning religious suicide at Prayāga may be translated[^1374] as follows: 'You should not set aside (pass over) your wish about dying at Prayāga on account of the words of the Veda or the words of the people.' The words of the Veda[^1375] are Vāj. S. 40. 3 [[(=Iśāvāsyopaniṣad 3)|(=Īśāvāsyopaniṣad 3)]] which literally translated means 'there are worlds of Asuras enveloped in blinding darkness; those who have killed themselves repair after death to those worlds.' This verse does not in the context appear to refer to a person committing suicide, but rather to a person who kills his soul by remaining in ignorance of the true Self. But even learned writers and poets took it to refer to suicide [[( vide|(vide]] [[Uttara rāmacarita,|Uttararāmacarita,]] Act IV after verse 3). Another passage of the Veda on which reliance may be placed is the one in the [[Satapatha Brahmana|Śatapatha Brāhmaṇa]] [[X.2.6. 7|X. 2. 6. 7]] 'one ought not to yield to his own desire and pass away before the full extent of life, for it [[(such. shortening|(such shortening]] of full life) does not make for the (heavenly) world'. By [[the words of the people'|'the words of the people']] are meant [[smrti|smṛti]] passages [[con demning|condemning]] suicide such as Gaut. 14. 12, Vas.[^1375a] [[23. 14-15,|23. 14–15,]] Manu V. 88 (which says that no water is to be offered to those who kill themselves), [[Visnu|Viṣṇu]] Dh. S. [[2.2.56|22. 56]] ([[atmatyaginah patitas-ca.|ātmatyāginaḥ patitāś-ca]] [[nasaucodakabhajah).oneimit|naśaucodakabhājaḥ).]]
 
-598
+[^1374]:
+    न वेदवचनात्तात न लोकवचनादपि । मतिरुत्क्रमणीया ते प्रयागमरणं प्रति ॥ वनपर्व 85.83, नारदीय (उत्तर) 63.129, पद्म (आदि 39.76 reads न देव०), अग्नि 111.8 (reads मतिरुत्क्रमणीयान्ते प्रयागे मरणं प्रति). मत्स्य. 106.22 reads न देववचना... प्रयागगमनं प्रति) and पद्म, आदि 43.22 reads प्रयागगमनं प्रति. The कूर्मपुराण I. 37.14 is न मातृवचनात्तात न...दपि । मति...प्रयागगमनं प्रति ॥; पद्म, आदिखण्ड 33.64 reads न लोकवचनात् पित्रोर्न चैव गुरुवादतः । मतिर्न क्रमणीया स्यादविमुक्तगतिं प्रति ॥. This entirely changes the meaning and avers that if one has a desire to go to Kāśī, one should not heed the words of one's parents or elders or of the people (dissuading him from going).
 
-History of Dharmaśāstra
+[^1375]:
+    असुर्या नाम ते लोका अन्धेन तमसावृताः । तांस्ते प्रेत्याभिगच्छन्ति ये के चात्महनो जनाः ॥ वाज. सं. 40.3; The ईशावास्योप. reads असूर्या (sunless). Vide for आत्महन् the sūtra of वसिष्ठ quoted below. यो वा शतं वर्षाणि जीवति स हैवैतदमृतमाप्नोति... तस्मादु ह न पुरायुषः स्वकामी प्रेयादलोक्यं हैत उ वा लोका० । शतपथब्रा. X. 2. 6. 7 q. by मेधातिथि on मनु V. 88 (आत्मनस्त्यागिनां चैव निवर्तेतोदकक्रिया) and VI. 32. The printed text of मेधातिथि and कुल्लूक reads स्वःकामी (desiring heaven).
 
-[Vol.
+[^1375a]:
+    य आत्मत्याग्याभिशस्तो भवति सपिण्डानां प्रेतकर्मच्छेदः । काष्ठजललोष्ट-पाषाणशस्त्रविषरज्जुभिर्य आत्मानमवसादयति स आत्महा भवति ॥ वसिष्ठ 23. 14–15.
 
-The word Prayāga is employed in the neuter when connect ed with such words as tirtha or kṣetra, as in Matsya (111. 14 prajāpater-idam kṣetram prayāgam-iti viśrutam), but when employed along with words (in the masculine gender) such as tirtharāja, it takes the masculine gender.
+[[P607]]There is no doubt that some of the [[smrtis,|smṛtis,]] the [[Maha bhārata|Mahābhārata]][^1376] itself and some [[puranas|purāṇas]] do recommend (or at least do not condemn) suicide in certain circumstances. A few purāṇa passages may be quoted here. Two verses of the Kūrma state 'That goal (or state), which a wise man that is devoted to Yoga and that has become an ascetic (or has forsaken [[“all|all]] actions) reaches, is secured by him who gives up life at the confluence of the [[Ganga|Gaṅgā]] and Yamunā. Whoever dies in the [[Gangā|Gaṅgā]] whether wilfully or unintentionally is born after death in heaven and does not see hell'.[^1377] The Kūrma is quite clear [['Moksa|'Mokṣa]] may be secured or not after a thousand births [[else where|elsewhere]] but in [[Benarés|Benares]] [[moksa|mokṣa]] can be secured in a single birth' [[(1. 32. 22).|(I. 32. 22).]] The Padma[^1378] is quite emphatic 'a man who, knowingly or unknowingly, wilfully or unintentionally, dies in the Ganges secures on death heaven and mokṣa'. A verse of the Skanda asserts 'He who abandons his life in this sacred place in some way or other does not incur the sin of suicide but secures his desired objects.' The Kūrma [[(1. 38. 3-12)|(I. 38. 3-12)]] refers to four modes of suicide and promises residence in heaven and various other rewards for thousands of years, viz. by (1) [[burn ing|burning]] oneself in the slow fire of dry cowdung cakes, (2) by [[enter ing|entering]] the water at the confluence of [[Gangā|Gaṅgā]] and Yamunā, (3) by hanging with head down in the stream and feet up and drinking [[P608]]the waters of the Ganges, (4) by cutting off his own flesh and giving it as food to birds. The famous Chinese traveller [[Hiouen Thgang|Hiouen Thsang]] (about [[629-645|629–645]] A. D.) clearly refers to this practice of religious suicide (vide Beal's 'Buddhist Records of the [[Wes tern|Western]] world,' vol. I. pp. 232–234). The Kalpataru on [[Tirtha|Tīrtha]] (composed about [[1110-1120 A, D.)|1110–1120 A. D.)]] devotes a special section to Mahāpathayātrā (pp. 258–265). Gradually, the idea of [[secur ing|securing]] heaven and [[moksa|mokṣa]] by committing suicide at Prayāga or Benares appears to have spread to other [[tirthas.|tīrthas.]] Vanaparva[^1379] speaks of suicide at [[Pșthūdaka|Pṛthūdaka]] (Pehova in the Karnal district of Punjab, 14 miles from Thanesar). The Brahmapurāṇa[^1380] calls upon dvijas who are intent on securing mokṣa to commit suicide at [[Purusottama-kṣetra.|Puruṣottama-kṣetra.]] The [[Lingapurāna|Liṅgapurāṇa]][^1381] says 'if a brāhmaṇa kills himself on Śrīśaila he destroys his sins and attains mokṣa as at Avimukta (Benares); there is no doubt about this'. The Padma promises[^1382] a similar reward for suicide by fire or by fast at the confluence of [[Narmada|Narmadā]] and Kāverī (a small river, not the great South Indian river).
 
-The word Prayaga is derived in various ways. The Vana parva 1353 appears to suggest that the word Prayāga is derived from the root 'yaj when it says 'Brahmā who is the soul of all beings performed formerly a sacrifice here; therefore it became known as Prayāga'. In the Skanda 1354 purāṇa also it appears to be explained by taking the two parts pra and yāga separate ly. "It is mentioned as Prayāga because it is superior to all sacrifices: Prayāga was the name given to it by the gods Hari. Hara and others seeing that it is superior to all sacrifices though the latter be enriched with fees and the like." The Matsyapurāṇa 1355 appears to lay emphasis on the part 'pra' when it says 'on account of its efficacy (or power) as compared with all other tirthas it prevails (or is useful) far more'. The Brahmapurāṇa 1356 affirms “It is called prayāga on account of its eminence and it has the word 'rāja' (in Tirtharāja) applied to it on account of its being the chief".
+[^1376]:
+    Vide the references given under No. 2 and 3 of the five classes of excusable or permitted suicides on p. 604 above. The Mahābhārata has a parva called Mahāprāsthānika in which it is narrated (chap. 1. 24) that Yudhiṣṭhira with his four brothers, queen Draupadī and a faithful dog started on the Great Journey towards the Himālaya and that they fell down dead one after another, Draupadī being the first and Bhīma the last.
 
-We must distinguish between Prayāga-mandala, Prayāga and Venī or Triveni, each subsequent one being smaller and holier than each preceding one. The Matsya 1357 states that the sphere of Prayaga is five yojanas in circumference and that the moment a man enters inside this strip of land, there is an Aśva medha at every step. This has been explained by the Tristhali setu (p. 15) as follows: Regarding Brahmayūpa (the sacrificial post of Brahmā) as the spike or peg, if one measures with a rope one and one half yojana long all round, that would be the
+[^1377]:
+    या गतिर्योगयुक्तस्य संन्यस्तस्य मनीषिणः । सा गतिस्त्यजतः प्राणान् गङ्गायमुनसङ्गमे ॥ अकामो वा सकामो वा गङ्गायां यो विपद्यते । स मृतो जायते स्वर्गे नरकं च न पश्यति ॥ कूर्म. I. 37. 16, 39. The first verse is read in पद्म, सृष्टिखण्ड 60.56 as या गति... सत्त्वस्थस्य मनीषिणः । सा... गङ्गायां तु शरीरिणः ॥'. नारद (उत्तर) 43.97 is the same as पद्म.
 
-1353. grgaraft pg# Tantayan 17 Warat gana TAE: 1 Ala acara ataca a 87. 18-19; au pag
+[^1378]:
+    ज्ञानतोऽज्ञानतो वापि कामतोऽकामतोऽपि वा । गङ्गायां च मृतो मर्त्यः स्वर्गं मोक्षं च विन्दति ॥ पद्म, सृष्टि. 60.65 q. by त्रिस्थली० p. 47. यथा कथञ्चित्तीर्थेस्मिन् प्राणत्यागं करोति यः । तस्यात्मघातदोषो न प्राप्नुयादीप्सितानपि ॥ स्कन्द, काशी० 22.76. The कल्पतरु on तीर्थ p. 258 quotes from वायुपुराण 'यो वाहिताग्निप्रवरो वीराध्वानं (०ध्वानं ?) गतोऽपि वा । समाधाय मनः पूर्वे मन्त्रमुच्चारयेच्छनैः ॥ त्वमग्ने रुद्रस्त्वं सुधामहोदधिस्त्वं सर्वे मारुताः क्षिप्रमीयिरे । त्वं वातयासि सगरी यस्त्वं प्रस्थिमयीरूपः पातयन् माम् ॥. The mantra as printed makes no sense. The editor should have separated the words properly even if the mss. were unsatisfactory. It [[appeare|appears]] to be Ṛg. II. 1. 6 (= Tai. S. I. 3. 14. 1) त्वमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पृक्ष ईशिषे । त्वं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु त्मना ॥.
 
-GT E TU:1 goya aleGET HYÀ TUTETI FT. 109.15.
+[^1379]:
+    उत्तमं सर्वतीर्थानां यस्त्यजेदात्मनस्तनुम् । पृथूदके जप्यपरो नैव श्वो मरणं तपेत् ॥ गीतं सनत्कुमारेण व्यासेन च महात्मना ॥ वनपर्व 83. 146, 147 q. by तीर्थकल्प. p. 180 (reads श्रुतं मे सर्व०).
 
-1354. Jeg 22: P ara al ter 4: gerai prarot FETA:I FA TETA FA ERRETTIE: 11 g. in Frer TO P. 13. The first half is para, fisito 7.49; so 721 means HET IT 49.
+[^1380]:
+    तस्मात्सर्वप्रयत्नेन तस्मिन् क्षेत्रे द्विजोत्तमाः । देहत्यागो नरैः कार्यः सम्यङ्मोक्षाभिकाङ्क्षिभिः ॥ ब्रह्मपुराण 177. 25; vide also ब्रह्मपुराण 68. 75 and 177. 16–17.
 
-1355. archaatery: Thacun faut! #T. 110. 11. 1356. HarithT TYPE- ail agiz q. in faturato p.123.0
+[^1381]:
+    श्रीशैले सन्त्यजेद् देहं ब्राह्मणो दग्धकिल्बिषः । मुच्यते नात्र सन्देहो ह्यविमुक्ते यथा शुभम् ॥ लिङ्ग (पूर्वार्ध 92. 168–169).
 
-1357. T aratato 14 st1 a aqASTA: vê we u 1917 HRT. 108. 9-10, 111.8, 1. 45.8. The arror has oramaic propera arrund Targa: I pari area ata 7FT HERCETARE || II35.4.
+[^1382]:
+    अग्निप्रवेशं यः कुर्याद्यश्च कुर्यादनाशनम् । अनिवर्तिका गतिस्तस्य यथा मे शङ्करोऽब्रवीत् ॥ पद्म., आदि. 16. 14–15.
 
-POONA
+Gradually there was a revulsion of feeling against suicide at Prayāga or [[Kasi|Kāśī]] or starting on the Great Journey. Among the actions forbidden in the Kali age are included 'starting on the Great Journey' and 'suicide of old people jumping from a precipice or by fire' (vide [[H. of Dh,|H. of Dh.]] vol. III. [[pp. 939, 958-59).|pp. 939, 958–59).]] Some of the later medieval writers try very hard to combat the view that religious suicide is permitted.[^1383] [[Nilakantha,|Nīlakaṇṭha,]] the commentator of the Mahābhārata, holds that Vanaparva 85. 83 (na vedavacanāt &c.) refers to natural death at Prayāga and not to wilful death and that the Khila verse ([("Sitāsite'|('Sitāsite']] quoted above on p. 596) has the same meaning. Then he propounds two alternative interpretations of Vanaparva 85. [[P609]]83, viz. that this passage allows those who are suffering from an incurable disease to commit suicide at Prayāga instead of dying by falling from a precipice and the like or that this verse does not apply to brāhmaṇas but only to the other three varṇas.[^1384]
 
-FOUNDED
+[^1383]:
+    Vide a learned paper on 'suicide at Prayāga' by Prof. K. Chattopadhyaya in Journal of the U. P. Historical Society, vol. X, pp. 65 ff.
 
-Bhandarkar Oriental Research Institute
+[^1384]:
+    शूद्राश्च क्षत्रिया वैश्या अन्त्यजाश्च तथाधमाः । एते त्यजेयुः प्राणान्वै वर्जयित्वा द्विजं नृप । पतित्वा ब्राह्मणस्तत्र ब्रह्महा वात्महा भवेत् ॥ q. by त्रिस्थली० p. 52, which remarks that these verses are not found in any authoritative source and they involve a contradiction, in as much as क्षत्रियs and वैश्यs are allowed to kill themselves though they are dvijas. This is q. also by भट्टोजि in त्रि. से. सा. स. p 33.
 
-IV
+Both the [[Gangāvākyāvali|Gaṅgāvākyāvalī]] (pp. 304–310) and the [[Tīr, C.|Tīr. C.]] [[(pp. 47-52)|(pp. 47–52)]] hold that all [[varnas|varṇas]] have the authority to resort to suicide at [[Prayaga.|Prayāga.]] The [[Tir. Pr.|Tīr. Pr.]] holds a long, learned and highly polemic discussion on the subject of religious suicide at [[Prayaga|Prayāga]] [[(pp.346-355).|(pp. 346–355).]] Its own view appears to be that a [[brāhmana|brāhmaṇa]] should not commit this suicide at [[Prayaga|Prayāga]] on account of the prohibition contained in Kalivarjya verses and that members of the other [[varnas|varṇas]] may do so. The [[Tristhalisetu|Tristhalīsetu]] [[algo|also]] enters upon a long discussion [[(pp. 47-55)|(pp. 47–55)]] and its [[conclu sions|conclusions]] are that in suicide at Prayāga for the attainment of [[moksa|mokṣa]] or other rewards (such as heaven) there is no sin, that this suicide at Prayāga is not forbidden[^1384a] to [[brāhmanas|brāhmaṇas]] as some think (since Agni 111. 8 reads 'na vedavacanād vipra'), that persons whether seriously ill or in good health[^1385] may resort to suicide at Prayāga, that no one has authority to commit suicide at Prayāga after abandoning to their fate one's old parents, young wife and children that require support, nor should a woman who is pregnant or who has young children or who has no permission from her husband, commit suicide at [[Prayaga.|Prayāga.]][^1386] It is refreshing to find [[Narayanabhatta,|Nārāyaṇabhaṭṭa,]] perhaps [[P610]]the most learned and renowned Pandit of his age steeped in all the lore of ancient India, make, in spite of the overwhelming weight of śāstric authority in favour of suicide at Prayāga, exceptions that surely appeal to reason, sentiment and [[common. sense.|common sense.]][^1387] [[Nārāyanabhatta|Nārāyaṇabhaṭṭa]] probably followed traditions several hundred years older than his times. Alberuni in his work on India composed about 1030 A. D. says about religious suicide that 'it was resorted to by those who are tired of life, who are distressed over some incurable disease, some irremovable bodily defect or old age or infirmity. This however no man of distinction does, but only vaiśyas and [[sūdras.|śūdras.]] Burning oneself is forbidden to brāhmaṇas and [[ksatriyas|kṣatriyas]] by a special law. Therefore these if they want to kill themselves do so at the time of an eclipse in some other manner or they hire somebody to drown them in the Ganges.' (tr. by Sachau, vol. II. p. 170). The Tri. S. S. provides that a man desirous of committing religious suicide at Prayāga should first perform a prāyaścitta, [[P611]]should perform his own [[grāddha|śrāddha]] upto the offering of [[pinda|piṇḍa]] if he has no relative entitled to perform it, should fast that day, should make a [[sankalpa|saṅkalpa]] next day preceded by a writing (to inform people of his desire to die in that way) and enter the holy waters contemplating on [[Viṣnu.|Viṣṇu.]] On his death, his relatives have to observe āśauca only for three days (and not for ten) and on the 4th day the śrāddhas of the 11th day are to be performed for [[him.1388 Jom|him.]][^1388]
 
-Boundaries and extent of Prayaga
+[^1384a]:
+    तथा च हेमाद्र्यादिधृतादिपुराणवाक्यानि ब्राह्मणस्यापि मरणविधायकानि । वृद्धः शौचस्मृतेर्लुप्तः—इत्याद्युपक्रम्य गच्छेन्महापथं वापि तुषारगिरिमादरात् । प्रयागवटशाखायां देहत्यागं करोति वा ॥ स्वयं देहविनाशस्य काले प्राप्ते महामतिः । उत्तमान्प्राप्नुयाल्लोकानात्म-घाती भवेत्क्वचित् ॥ एतेषामधिकारस्तु सर्वेषां सर्वजन्तुषु । नराणामथ नारीणां सर्ववर्णेषु सर्वदा ॥ त्रिस्थली० p. 53.
 
-599
+[^1385]:
+    तस्मादातुरादेरनातुरादेश्च सर्वस्याधिकारः । किं तु वृद्धौ पितरौ तरुणीं भार्यां पोष्यमपत्यं च विहाय नाधिकारः । एवं स्त्रिया अपि गर्भिण्या बालापत्याया भर्त्राननुज्ञाताया वा नाधिकार इत्यादि ज्ञेयम् । त्रिस्थली० p. 55.
 
-Prayagamandala of five yojanas in circumference. The bound aries of Prayāga itself are defined by Vanaparva,1358 the Matsya purāṇa (104.5 and 106. 30) and others. 'Prayāga extends from Pratisthāna up to the pool of Vāsuki and upto the two nāgas Kambala and Aśvatara and the nāga Bahumūlaka; this is known in the three worlds as the sacred spot of Prajāpati' (Matsya 104.5), while Matsya 106. 30 provides that to the east of the Ganges is the Samudrakūpa, which is the same as Prati sthāna. This is explained by the Tristhalisetu as follows: the eastern boundary is the kūpa called Pratisthāna 1359, the nor thern one is the Vasuki pool, the western limit is formed by Kambala and Aśvatara; the southern boundary is Bahumūlaka. This would be a four-cornered space which is included within Prayāga-mandala. According to the Matsyapurāṇa as quoted by the Kalpataru on tirtha p. 143 the two Nāgas are on the south bank of Yamunā while the printed text has 'vipule Yamunātate' (106, 27) 1350. The printed text of Padma I. 43. 27 supports the Kalpataru reading ('Yamunā-daksine tate). Veni-kṣetra is within the limits of Prayāga itself and is twenty bow lengths in extent, as stated in the Padma. There are three kūpas viz. Prayāga, Pratisthāna and Alarkapura, The Matsya and Agni say 'there are three fire kundas and the Ganges flows in their midst'. It should be noted that except where special reference is made in the Purānas to the sub tirthas, the reference to a bath at Prayāga in general means bath in the Veni i. e, the confluence of the two rivers, as e g in Vanaparva 85.81 and 85 and Matsya 104.16-17, 1361
+[^1386]:
+    काश्यादिमरणान्मुक्तिरित्यत्र प्रयोजकत्वे पञ्चमी । तज्जन्यादात्मज्ञानादेव साक्षात्-पत्तेः । ज्ञानेन विना मिथ्याज्ञाननिवृत्तेरसम्भवात् । 'अत्र हि जन्तोः... रुद्रस्तारकं ब्रह्म व्याचष्टे ' इति श्रुतेश्च । यत्तु काश्यां देहावसाने रुद्रोपदेशश्रुतेरस्तु ज्ञानापेक्षा न तु सर्वत्र । प्रयागमरणे दो विनैवात्मसाक्षात्कारमपवर्गोदयात् । ...तदसत् विना ज्ञानं मिथ्याज्ञाननिवृत्तेरसम्भवात् । तीर्थप्र. p. 313; the passage of the जाबालोपनिषद् is: अविमुक्तं वै कुरुक्षेत्रं देवानां देवयजनं सर्वेषां भूतानां ब्रह्मसदनम् । तस्माद्यत्र क्वचन गच्छति तदेव मन्येत तदविमुक्तमेव । इदं वै कुरुक्षेत्रं देवानां... सदनम् । अत्र हि जन्तोः प्राणेषूत्क्रममाणेषु रुद्रस्तारकं ब्रह्म व्याचष्टे येना-सावमृतीभूत्वा मोक्षीभवति ।'. In the Bhau Daji collection of mss. at the Bombay Asiatic Society there is a ms. called अविमुक्तनिरुक्तिसार (cat. No. 1047) which contains 15 verses and comments thereon intended to explain the purport of the Jābālopaniṣad passage quoted and also some other passages from the same. In this work कुरुक्षेत्र occurring in जाबालोपनिषद् is explained as 'कुत्सितं रावयतीति कुरु पापं तस्य क्षेपणात् इति कुरुक्षेत्रं पापनाशनमित्यर्थः' and देवयजनं as ब्रह्मो-पास्तिस्थानम्.
 
-1358. आ प्रयागं प्रतिष्ठानाद्यत्पुरा वासुकेर्हदात्। कम्बलाश्वतरौ नागौ नागश्च बहु Fai gan yr a: ay lng ayaq! #T. 104.5; 92 I. 39. 69-70, 41. 4-5 are similar. qaga 85. 76-77 are: 919 Haràgra sa ati affer 119 af a arazo hra: agàęta ST FAN ZUTEI. 3119 111. 5. has the verse gri...12: (reads azi sitt).
+[^1387]:
+    काम्यमप्यत्र मरणम् । अत्र तु सर्ववर्णानामधिकारः । गङ्गावा. p. 305 and तीर्थचि. p. 47. It is a most remarkable thing that the treatment of प्रयागमरण in both these works is word for word the same, except that the तीर्थचि. quotes the verses न वेदवचना० from the पद्मपुराण while the गङ्गावा. quotes them from the मत्स्य. It appears probable that the तीर्थचि. borrows from the गङ्गावा. since वाचस्पति appears to have been a younger contemporary of Vidyāpati who helped विश्वासदेवी in composing गङ्गावा. Both were closely connected with the several kings and queens of the कामेश्वर dynasty of Mithilā and it is difficult to assert with confidence who borrows from whom. In New I. A. vol. VII. at p. 53 Prof. G. C. Basu while describing a newly found ms. of a work called व्याडिभक्तितरङ्गिणी ascribed in the colophon to विद्यापति states that that work mentions the द्वैतनिर्णय of वाचस्पति. So it is not unlikely that विद्यापति helped विश्वासदेवी by taking a part from the तीर्थचिन्तामणि of वाचस्पति. Vide H. of Dh. vol. I. pp. 739–740, Journal of Dept. of Letters, Calcutta University, Vol. XVI, New I. A. vol. VII pp. 49 ff, I. H. Q. vol. XX. (1944) pp. 211 ff for the date and works of विद्यापति and H. of Dh. vol. I. pp. 404–405 for the date of वाचस्पति.
 
-1359. gaura a graag gereali aa a Free agrā a agar Ft. 106. 3,
+[^1388]:
+    वृद्धः शौचस्मृतेर्लुप्तः प्रत्याख्याताभिषक्क्रियः । आत्मानं घातयेद्यस्तु भृग्वग्न्यन-शनादिभिः । तस्य त्रिरात्रमाशौचं द्वितीये त्वस्थिसञ्चयम् । तृतीये तूदकं कृत्वा चतुर्थे श्राद्धमा-चरेत् ॥ अत्रि 218–219 q. by मेधा० on मनु V. 89. कल्प० (on आशौच p. 87) quotes these slightly differently and remarks वृधे तु देहत्यागे वृद्धः...माशौचं कर्तव्या चोदक-क्रिया इति वचनाद्भवत्येवोदकादिक्रिया.
 
-1360. Art: fharrà fat : # wāą! yaráztara caror faazimig #F# # Ef& USHTATTI eco p. 75. Franha ( white and dark ) means Veni. Vide n. 1337 above for ya: being equal to four hastas and 96 angulas un
+The psychological background behind the religious suicide at Prayāga and other places is not difficult to realise. Centuries of philosophical thought had made a very deep impression on the minds of all people that the soul has to [[subniit|submit]] to a never-ending cycle of births and deaths. Ancient scriptures had offered a release in two ways viz. by tattvajñāna and by suicide at a [[tirtha.|tīrtha.]] Death had no great terror for the pilgrim who submitted to various inconveniences and [[priva tions|privations]] ungrudgingly. If one is determined to put an end to [[samsāra|saṁsāra]] by taking one's life, what nobler environment could have been imagined or indicated than at Prayāga, where two mighty rivers flowing from the sacred [[Himalaya|Himālaya]] unite and carry on unceasingly their work of fertilizing the land and bringing prosperity and solace to millions of needy and anxious people ?
 
-1361. ouerger ini aga gigi qaca 85. 73 ; a GT eta Tiara a stref AT 110.4 and afë 111.12, T I. 39 phbykaTorien. 4: while ata, 104.13, #. (1. 36. 28-29) read a vela.
+While on this topic of religious suicide, it would not be out of place to briefly refer to the discussion in the digests about the meaning of the statement in the purāṇas that those who die at [[Prayaga|Prayāga]] are not born again (e. g. Matsya [[180.71|180. 71]] and 74). The answer is foreshadowed in the Matsyapurāṇa itself ([[182. 22-25)|(182. 22–25)]] which[^1389] says: At the time of death, when the vital [[P612]]parts of the human body are being shattered, memory must fail a human being that is about to be pushed on (to another body) by the vital breath (when it leaves the mortal coil). But at the time of death in Avimukta (Vārāṇasī) Lord (Śiva) himself whispers [[(higher knowledge in the ears|(higher knowledge) in the ears]] of his devotees that are about to be pushed [[into new bodies)|(into new bodies)]] by (accumulations of their actions). A man dying near [[Manikarnikā|Maṇikarṇikā]] pool reaches the desired goal; he being guided by the Lord reaches the goal which is difficult of attainment by those whose minds are not pure.' In the [[Kāśikhapda|Kāśīkhaṇḍa]] it is expressly stated that mokṣa does not directly result in these cities (viz. [[Kaśī|Kāśī]] &c.). But in spite of these warnings the popular belief fostered by the literal [[mean ing|meaning]] of hundreds of Purāṇa passages is that [[moksa|mokṣa]] results from dying at Prayāga or in [[Kāśiksetra.|Kāśīkṣetra.]]
 
-VLASTITUTA
+[^1389]:
+    The स्कन्दपुराण, काशी० has the following verses which repeat what the Matsya (182. 22-25) says viz. Śiva whispers into the right ear of a man dying at Kāśī the knowledge of brahma that will save his soul. ब्रह्मज्ञानेन मुच्यन्ते नान्यथा जन्तवः क्वचित् । ब्रह्मज्ञानमये क्षेत्रे प्रयागे वा तनुत्यजः ॥ ब्रह्मज्ञानं तदेवाहं काशीसंस्थितिभागिनाम् । दिशामि तारकं प्रान्ते मुच्यन्ते ते तु तत्क्षणात् ॥ chap. 32, verses 115–116; साक्षान्मोक्षो न चैतासु पुरीषु प्रियभाषिणि । स्कन्द, काशी० 8.3 (अगस्त्य tells लोपामुद्रा). The मत्स्य० verses are: अन्तकाले मनुष्याणां छिद्यमानेषु मर्मसु । वायुना प्रेर्यमाणानां स्मृतिर्नैवोपजायते ॥ अविमुक्ते ह्यन्तकाले भक्तानामीश्वरः स्वयम् । कर्मभिः प्रेर्य-माणानां कर्णजापं प्रयच्छति । मणिकर्ण्यां त्यजन्देहं गतिमिष्टां व्रजेन्नरः । ईश्वरप्रेरितो याति दुष्प्रापामकृतात्मभिः ॥ 182. 22–25. The words अन्तकाले ... जायते refer to the general rule. The verses अविमुक्ते० state the special case of death in Avimukta. The त्रिस्थली० p. 297 quotes these verses and reads अविमुक्ते त्वन्तकाले.
 
-FOUNDED
+The practice of religious suicide has a very respectable antiquity. In the 4th century B. C. Kalanos, the Indian Gymnosophist from Taxila who had accompanied Alexander from India, burnt himself alive on a funeral pyre at Sousa, when being over 70 years old, he was afflicted with a malady that made life more and more burdensome. Vide J. W. McCrindle's 'Invasion of India by Alexander the Great' (New Edition 1896) pp. 46, 301, [[386-392.|386–392.]] Strabo informs us of a gymnosophist from India named Zarmanochegas of Broach who accompanied an embassy to Augustus Caesar at Athens and consigned himself to flames (vide 'Invasion of India by Alexander' p. 389). Hiouen Thsang (Beal's 'Buddhist Records of the Western World' vol. I. [[pp. 232-234)|pp. 232–234)]] refers to suicide at Prayāga. The Jains, while on the one hand they laid the greatest emphasis on [['ahimsā'|'ahiṁsā']] (non-injury), encouraged [[reli gious|religious]] suicide (called [['Sallekhana')|'Sallekhanā')]] in certain cases.[^1390]
 
-1917
+[^1390]:
+    Vide I. A. vol. II. p. 322 'Jain Inscriptions at Sravaṇa Beḷgoḷa', where some verses are quoted from the Ratnakaraṇḍa of which the following one may be noted: उपसर्ग दुर्भिक्षे जरसि रुजायां च निष्प्रतीकारे । धर्माय तनुविमोचनमाहुः संल्लेखनामार्याः ॥.
 
-Research Institute
+Some of the works, viz. the [[Kasimrti-mokṣa-vicāra|Kāśīmṛti-mokṣa-vicāra]] of Sureśvara [[(pp. 2-9),|(pp. 2–9),]] the [[Tristhalisetu|Tristhalīsetu]] [[(pp. 50-55)|(pp. 50–55)]] and the [[Tirthaprakāśa|Tīrthaprakāśa]] [[(pp. 313-318)|(pp. 313–318)]] discuss at some length how mere death (either involuntary or voluntary) in [[Vārānasi|Vārāṇasī]] or [[Prayaga|Prayāga]] would lead to mokṣa. Considerations of space prevent a complete statement of their views. Their arguments are briefly as [[follows:Karma|follows:—Karma]] is of three kinds, viz. [[sancita|sañcita]] ([[col lected|collected]] in former births), prārabdha (that has begun to [[P613]]operate by giving the soul the present body) and [[kriyamana|kriyamāṇa]] (to be done in this body and in future). The Upaniṣads and the [[Gita,|Gītā]][^1391] declare that, just as waters do not stick to a lotus leaf, so evil deeds do not cling to a man who knows this (knowledge of brahma), that the fire of knowledge reduces to ashes all karma and that mokṣa results from the realization of the Supreme Spirit (Vedānta-sūtra IV. 1. 13). From this it follows that a man who has realized the Highest Reality will not be affected by the acts done by him after [[realiza tion|realization]] and his accumulated actions (sañcita) will be [[des troyed|destroyed]] by that realization. The present body in which the soul realizes brahma was due to that part of his karma which had begun to operate. When the present body perishes in the case of a man who has realized brahma he attains final release, since no actions remain for producing effects. To the man who dies a natural death in Benares is given at the time of death the [[Taraka|Tāraka]] (saving) [[mantra.i-The|mantra. The]] [[Matsyapurana|Matsyapurāṇa]] says:[^1392] those who enter fire according to the rules in Avimukta [[(i.e.|(i. e.]] Benares) enter the mouth of [[Siva|Śiva]] and so also those determined devotees of [[Siva|Śiva]] who die by fast in Benares do not return (to this world) even after millions of kalpas. Therefore all those who die in any way at[^1393] Benares receive Grace from [[Siva|Śiva]] after their death. That leads to tattvajñāna (correct spiritual knowledge) which leads to [[moksa.|mokṣa.]] In rare passages it is expressly stated that mokṣa cannot[^1394] be immediately secured [[P614]](by dying) in these cities. The Tāraka-mantra is variously explained. According to Sureśvara, Tāraka-mantra is the mystic syllable om which is a symbol of brahma as stated in the Tai. Up. (I. 1.8 Om-iti brahma) and the Gītā (8. 13 [[Om ityekākṣaram|Om-ityekākṣaram]] brahma). The Tri. S. gives another explanation besides this. According to [[Rāmatāpaniya|Rāmatāpanīya]] Upaniṣad and[^1395] the Padmapurāṇa the mantra is [['sri-Rama-Rāma-Rāmeti.'|'śrī-Rāma-Rāma-Rāmeti.']]
 
-600
+[^1391]:
+    यथा पुष्करपलाश आपो न श्लिष्यन्त एवमेवंविदि पापं कर्म न श्लिष्यत इति । छा. उप. IV. 14. 3; भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः । क्षीयन्ते चास्य कर्माणि तस्मिन् दृष्टे परावरे ॥ मुण्डकोपनिषद् II. 2. 8; यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन । ज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा ॥ भगवद्गीता ॥ IV. 37.
 
-History of Dharmaśāstra
+[^1392]:
+    अग्निप्रवेशं ये कुर्युरविमुक्ते विधानतः । प्रविशन्ति मुखं ते मे निःसन्दिग्धं वरानने ॥ कुर्वन्त्यनशनं ये तु मद्भक्ताः कृतनिश्चयाः । न तेषां पुनरावृत्तिः कल्पकोटिशतैरपि ॥ मत्स्य. 183. 77–78 q. by कल्पतरु on तीर्थ p. 21.
 
-[Vol. The Vanaparva 1362 and some of the Purānas represent that the country between the Ganges and the Yamunā is (like) the hips and loins of the earth (i. e. it is the most prosperous and plentiful part of the earth) and that Prayāga is like the inmost part of the hips.
+[^1393]:
+    'ज्ञानादेव तु कैवल्यम्' इत्यादि श्रुतिस्मृतिभ्यो ज्ञानाभावे मोक्षाभावाद्विश्वेश्व-राख्यगुरूपदिष्टतारकादेवात्रात्मज्ञानोत्पत्तिः । तदुक्तं काशीखण्डे । ब्रह्मज्ञानेन मुच्यन्ते नान्यथा जन्तवः क्वचित् । ब्रह्मज्ञानं तदेवाहं काशीसंस्थितिभागिनाम् । दिशामि तारकं प्रान्ते मुच्यन्ते ते तु तत्क्षणात् । त्रिस्थली० p. 292 which quotes काशीखण्ड 32. 115–116. Similar statements occur in काशीखण्ड 21. 98 विपन्नानां च जन्तूनां यत्र विश्वेश्वरः स्वयम् । कर्णे जापं प्रकुरुते कर्मनिर्मूलनक्षमम् ॥ and काशीखण्ड 61. 117–118, 64. 98. The गरुडपुराण (प्रेतखण्ड, 6. 60–61) says 'तीर्थराजस्ततः काशी महादेवो दयानिधिः । मृतानां यत्र जन्तूनां कर्णे जपति तारकम् ॥'.
 
-The Narasimha-purāṇa says that Visnu is in the form of Yogamūrti in Prayāga (65.17). It is said in the Matsya purana 1363 (111. 4-10 ) that when Rudra dissolves the world at the end of the Kalpa, the holy place of Prayāga is not destroyed, that Brahmā, Visnu and Maheśvara (Siva) stay in Prayāga, that to the north of Pratisthāna Brahmā stays in it under guise, that Visnu stays there as Veṇi-Madhava, that Siva stays there as the Vata (banyan tree) and that therefore the gods with the Gan dharvas, the Siddhas and great sages always protect the sphere (mandala) of Prayāga by guarding it against evil actions. The Matsyapurāṇa, therefore, recommends that a pilgrim should go to Prayāga which is protected by all the gods, stay there for a month, avoid sexual intercourse, worship gods and pitrs and thereby secure his desired objects (104.18). The same Purāṇa highly eulogises the gift at Prayāga of a kapilā cow properly decked (105, 16-22) with clothes, ornaments and jewels. The Padmapurana (Adi. 42.17-24) has the same verses as the Matsya on this subject. Similarly, the marriage of a daughter in the ārsa form at Prayaga is highly spoken of in Matsya (106. 8-9). The Matsya (105. 13-14 and 106. 10) says generally that if a man makes a gift of a cow, of gold, of precious stones, of pearls and of other things that he owns his pilgrimage becomes fruit ful (saphala) and he collects religious merit (punya) and that when a man makes gifts according to his ability and wealth, the fruit of his pilgrimage increases and he remains in heaven
+[^1394]:
+    साक्षान्मोक्षो न चैतासु पुरीषु प्रियभाषिणि । स्कन्द, काशी 8. 2 (अगस्त्य to लोपामुद्रा). तारकः प्रणवः तारयतीति तारः स्वार्थे कप्रत्ययः । संसारसागरात्तारकं तारकं च तद् ब्रह्म इति तारकं ब्रह्म उच्यते । काशीमृतिमोक्षविचार p. 3.
 
-e end of the world. The Brahmānda 1364 assures pilgrims that whatever gifts are made according to one's ability at
+[^1395]:
+    रामतापनीये तु श्रीराममन्त्र एव तारकशब्दार्थ उक्तः । मुमूर्षोर्दक्षिणे कर्णे यस्य कस्यापि वा स्वयम् । उपदेक्ष्यसि मन्मन्त्रं स मुक्तो भविता शिव ॥ पद्मे तु श्रीशब्दपूर्वकस्त्रिरावृत्तो रामशब्द एव तारकतयोक्तः । मुमूर्षोर्मणिकर्ण्यन्तरुदकनिवासिनः । अहं दिशामि ते मन्त्रं तारकं ब्रह्मवाचकम् । श्रीरामरामरामेति एतत्तारकमुच्यते ॥ त्रिस्थली० p. 291.
 
-1362. गङ्गायमुनयोर्मध्यं पृथिव्या जघनं स्मृतम् । प्रयागं जघनस्थानमुपस्थमृषयो fag: # aga 85.75 = UT I. 39. 69 and I. 43. 19, 31 111.4, . 1. 37. 12. F r. 106. 19. The idea appears to be that holy places are like the children
+There are several [[sub-tirthas|sub-tīrthas]] that fall under [[Prayaga.|Prayāga.]] The most important of them is the famous [[Vata|Vaṭa]] (banyan tree) called Akṣaya-[[Vata|Vaṭa]] (the imperishable [[Vata).|Vaṭa).]] The Agni (111. 13) states 'if a man dies at the foot of the [[Vata|Vaṭa]] and in the [[Sangama|Saṅgama]] he goes to the city of [[Viṣnu'.|Viṣṇu'.]] Special reference is made to abandoning one's life at the foot of the [[Vata,|Vaṭa,]] The Kūrma[^1396] says 'He, who abandons life at the foot of the [[Vata,|Vaṭa,]] passes beyond heavenly worlds and goes to the world of Rudra'. The following are the [[sub tirthas|sub-tīrthas]] of Prayāga and only references are given to the works in which they are [[described :|described:]] (1) the two Nāgas called Kambala and Aśvatara which according to some are on the spacious (vipula) bank of the Jumnā and according to others on the southern bank of the Jumnā (Vanaparva [[85.77,|85. 77,]] Matsya 106. 27, Padma, [[Adi|Ādi]] 39. 69, Agni [[111.5,|111. 5,]] Kūrma I. 37. 19), (2) [[Pratisthāna|Pratiṣṭhāna]] on the eastern side of the Ganges, being the same as the Sāmudra-kūpa ([[Vana parva|Vanaparva]] [[85.77,|85. 77,]] Matsya 106. 30, Kūrma I. 37. 22, Padma, [[Adi.|Ādi.]] 43, 30; Vanaparva [[85.114|85. 114]] appears to suggest that [[Pratisthāna|Pratiṣṭhāna]] is another name of Prayāga; (3) [[Sandhyāvata|Sandhyāvaṭa]] (Matsya [[106.43,|106. 43,]] Kūrma I. 37. 28, Agni 111. 13); (4) [[Hamsaprapatana|Haṁsaprapatana]] to the north of [[Pratisthāna|Pratiṣṭhāna]] and to the east of the Ganges (Matsya [[106.32,|106. 32,]] Kūrma I. [[37, 24,|37. 24,]] Agni [[111.10,|111. 10,]] Padma, Ādi 39. 80 and 43. 32; (5) [[Koțitirtha|Koṭitīrtha]] (Matsya 106. 44, Kūrma I. 37. 29, Agni 111. 14, Padma, [[Adi|Ādi]] [[43.44;|43. 44;]] (6) [[Bhogavati,|Bhogavatī,]] the [[Vedi|Vedī]] of Prajāpati to the north of Vāsuki (Vanaparva [[85.77,|85. 77,]] Matsya [[106.46,|106. 46,]] Agni 111. 5, Padma, [[Adi|Ādi]] 39. 79 and [[43,46;|43. 46;]] (7) Daśāśvamedhaka (Matsya [[106.46,|106. 46,]] Padma, [[Adi|Ādi]] [[39.80);|39. 80);]] (8) Urvaśīpulina, suicide at which [[P615]]led to[^1397] various rewards quoted below ([[Matsya 106.34-42,|Matsya 106. 34–42,]][^1398] Padma, [[Adi|Ādi]] [[43. 34-43,|43. 34–43,]] Agni 111. 13, [[Kurma I. 37.: 26-27);:|Kūrma I. 37. 26–27);]] (9) [[Rṇapramocana,|Ṛṇapramocana,]] on the northern bank of Yamunā and to the south of [[Prayaga|Prayāga]] ([[Kurma|Kūrma]] I. 38. 14, Padma, [[Adi|Ādi]] [[44.20);|44. 20);]] (10) Mānasa on the north bank of the Ganges (Matsya [[107.9,|107. 9,]] Padma, [[Adi|Ādi]] [[44.2,|44. 2,]] Agni [[111.14);|111. 14);]] (11) [[Agnitirtha|Agnitīrtha]] on the southern bank of the Jumnā (Matsya 108. 27, Kūrma I. [[39.4,|39. 4,]] Padma, [[Adi|Ādi]] 45. 27); (12) Viraja on the north bank of [[Yamuna|Yamunā]] (Padma, [[Adi|Ādi]] [[45.29);|45. 29);]] (13) Anaraka[^1399] to the west of Dharmarāja (Kūrma I. [[39.5).|39. 5).]]
 
-of the earth.
+[^1396]:
+    वटमूलं समाश्रित्य यस्तु प्राणान् परित्यजेत् । स्वर्गलोकानतिक्रम्य रुद्रलोकं स गच्छति ॥ कूर्म. I. 37. 8-9 q. by तीर्थचि० p. 48. The same is पद्म, आदिखण्ड 43.11 (reads सर्वलोकान्).
 
-1363. gefa atacular act:... op fagra
+[^1397]:
+    उर्वशीपुलिने पुण्ये विपुले हंसपाण्डुरे । परित्यजति यः प्राणाञ् शृणु तस्यापि यत्फलम् ॥ षष्टिवर्षसहस्राणि षष्टिवर्षशतानि च । सेव्यते पितृभिः सार्धं स्वर्गलोके नराधिप ॥ उर्वशीं तु सदा पश्येत्स्वर्गलोके नरोत्तम । पूज्यते सततं पुत्र ऋषिगन्धर्वकिंनरैः ॥ ततः स्वर्गात् परिभ्रष्टः क्षीणकर्मा दिवश्च्युतः । उर्वशीसदृशानां तु कन्यानां लभते शतम् ॥ मध्ये नारीसहस्राणां बहूनां च पतिर्भवेत् । दशग्रामसहस्राणां भोक्ता भवति भूमिपः ॥ काञ्चीनूपुरशब्देन सुप्तोसौ प्रतिबुध्यते । भुक्त्वा तु विपुलाम्भोगांस्तत्तीर्थं लभते पुनः ॥ शुक्लाम्बरधरो नित्यं नियतः संयतेन्द्रियः । एकं कालं तु भुञ्जानो मासं भूमिपतिर्भवेत् ॥ सुवर्णालङ्कृतानां तु नारीणां लभते शतम् । पृथिव्यामासमुद्रायां महाभूमिपतिर्भवेत् ॥ धनधान्यसमायुक्तो दाता भवति नित्यशः । भुक्त्वा तु विपुलाम्भोगांस्तत्तीर्थं लभते पुनः ॥ मत्स्य. 106. 34–42 = पद्म, आदिखण्ड 43. 34–42 with some variations. The first two verses are कूर्म I. 37. 26–27 and all occur नारदीय (उ.) 63. 140–149.
 
-fagrar वेणीमाधवरूपी तु भगवांस्तत्र तिष्ठति ॥ माहेश्वरो वटो भूत्वा तिष्ठते परमेश्वरः । ततो देवा Furuaf: ET OTAQ: 1 Tata # FACET FraarTotal HFT. 111. BLOOD Vide . I. 36. 23-26, T2, 31TIĘCUE 41. 6-10 for similar verses,
+[^1398]:
+    It may be noted that the rewards promised for suicide at Urvaśīpulina are sex pleasures and secular benefits like becoming a king or governor. Even suicide at the Saṅgama is promised similar pleasures of the flesh and of kingly power and riches in Matsya 105. 1–12.
 
-1364. कुरुक्षेत्रे प्रयागे च गङ्गासागरसङ्गमे। गङ्गायां पुष्करे सेतौ गङ्गाद्वारे च नैमिषे। tariana 41 a 17 call are q. in. Erfurdt p. 24.
+[^1399]:
+    In मत्स्य. 108. 29 we read तीर्थं निरञ्जनं नाम यत्र देवाः सवासवाः which appears to be a misreading. पश्चिमे धर्मराजस्य तीर्थं त्वनरकं स्मृतम् । कूर्म. I. 39. 5.; the अग्नि 111. 14 mentions a तीर्थ called वानरक (or वासरक acc. to some mss.) but that seems to be a misreading of त्वनरकं (तु + अनरकं). मत्स्य. 108. 27 तीर्थं तु नरकं स्मृतम् seems to be a misreading for त्वनरकं. Several tīrthas called अनरक are known. Vide पद्म, आदि 27. 56 and list.
 
-FOUNDED
+The [[Puranas|Purāṇas]] lay down that if a man starts on a [[pilgrim age,|pilgrimage,]] but dies on the way to Prayāga he reaps great benefits even without reaching it, provided he dies remembering [[Prayaga.|Prayāga.]] The [[Matsyapurana|Matsyapurāṇa]] [[(105.8-12)|(105. 8–12)]] [[asserts :|asserts:]][^1400] 'A man whether in his own country or house or after leaving his country dies in a forest, while remembering Prayāga, he still secures the world of Brahma; he reaches a world where the [[P616]]trees yield all desires, where the earth is full of gold and where there are sages and munis and siddhas; he dwells on the bank of the Ganges full of thousands of women and enjoys the company of sages; when he comes down from heaven he becomes the lord of Jambūdvīpa.
 
-1917
+[^1400]:
+    देशस्थो यदि वारण्ये विदेशस्थोथवा गृहे । प्रयागं स्मरमाणोपि यस्तु प्राणान् परित्यजेत् ॥ ब्रह्मलोकमवाप्नोति वदन्ति ऋषिपुङ्गवाः । सर्वकामफला वृक्षा मही यत्र हिरण्मयी । ऋषयो मुनयः सिद्धास्तत्र लोके स गच्छति ॥ स्त्रीसहस्रावृते रम्ये मन्दाकिन्यास्तटे शुभे । मोदते ऋषिभिः सार्धं सुकृतेनेह कर्मणा ।... ततः स्वर्गात्परिभ्रष्टो जम्बूद्वीपपतिर्भवेत् । मत्स्य 105. 8–11 q. by गङ्गावा० p. 310; verses from स्त्रीसहस्रा० are quoted from कूर्म by त्रिस्थली० p. 25.
 
-Bhandarkar Oriental Research InstituteIVI
+At most famous [[tirthas|tīrthas]] the pilgrim has to perform śrāddha. [[śrāddha, The Visnu|The Viṣṇu]] Dh. S. (chap. 85) mentions about fifty-five sacred places which are fittest for śrāddha. The Kalpataru (on [[tirtha),|tīrtha),]] the [[Gangāvākyāvali,|Gaṅgāvākyāvalī,]] [[Tir. C.|Tīr. C.]] and other digests quote several verses from the [[Devipurāṇa,|Devīpurāṇa,]] the gist of which is as follows: [[Srāddha|Śrāddha]] should be performed at [[tirthas,|tīrthas,]] but there is no offering of arghya and no āvāhana (since [[pitrs|pitṛs]] are deemed to be always present at tīrthas, as the [[Kāśikhanda|Kāśīkhaṇḍa]] says) nor is the entering of the thumb of the invited brāhmaṇa into the food served done, nor is there the question about the brāhmaṇas being satiated, nor [[vikira|vikira.]][^1401] If one is unable to follow the complete procedure of śrāddha one should merely offer [[pindas|piṇḍas]] made from barley meal or may offer [[samyāva|saṁyāva]] (cake of wheat flour fried with ghee and milk), rice boiled in milk, the cake of sesame (after the oil is extracted) or [[jaggery.1402|jaggery.]][^1402] It should not be allowed to be seen by dogs, crows and vultures, it may be offered at any time after the pilgrim reaches the holy place. A śrāddha performed at a holy place gives great satisfaction to [[pitrs.|pitṛs.]] Some of the works such as the [[Tristhalīsetusārasangraha|Tristhalīsetusārasaṅgraha]] of [[Bhattoji|Bhaṭṭoji]] provide that after performing a [[pārvanaśrāddha|pārvaṇaśrāddha]] at a [[tirtha|tīrtha]] and after making offerings of [[pindas|piṇḍas]] to one's ancestors one should offer a single [[piṇda|piṇḍa]] to one's other relatives with the following [[mantra : "Here|mantra: 'Here]] I offer [[pinda|piṇḍa]] to deceased persons of my father's family, and of my mother's family and to the deceased relatives of my guru and of my father-in-law, to those men of my family [[P617]]who were devoid of sons or wives and so who would lose the benefit of the [[pinda|piṇḍa]] (to be offered by the son or wife) and in the case of whom all rites after death have ceased, those who were blind from birth or were cripples, those who were [[mal formed|malformed]] or died in the womb; to all these, whether known or unknown to me, may this [[(pinda)|(piṇḍa)]] reach inexhaustively'! (Vāyu 110. [[51-52).|51–52).]] After this he should offer another [[pinda|piṇḍa]] for his servants, slaves, friends, dependents, pupils, persons who conferred obligations on him, cattle, trees and those with whom he came in contact in other lives (Vāyu 110. [[54-55).|54–55).]] If a person is ill or has not the time to go through this elaborate [[pro cedure,|procedure,]] then he should make a [[sankalpa|saṅkalpa]] that he would perform śrāddha and should offer a single [[pinda|piṇḍa]] with the mantra (in Vāyu 110. [[23-24)|23–24)]] 'I offer this [[pinda|piṇḍa]] to my father, grand-father, great-grand-father, to my mother, father's mother, grandfather's mother, to my maternal grandfather and to the latter's father and grandfather. May it reach them inexhaustively'!
 
-Rewards of gifts at Prayāga
+[^1401]:
+    अर्घ्यमावाहनं चैव द्विजाङ्गुष्ठनिवेशनम् । तृप्तिप्रश्नं च विकिरं तीर्थश्राद्धे विवर्ज-येत् ॥ q. by त्रि. से. सा. स. p. 18; देवाश्च पितरो यस्माद्गङ्गायां सर्वदा स्थिताः । आवाहनं विसर्गं (०र्गश्च ?) तेषां तत्र ततो न हि ॥ काशीखण्ड 28.9; तीर्थे श्राद्धं प्रकुर्वीत पक्वान्नेन विशेषतः । आमान्नेन हिरण्येन कन्दमूलफलैरपि ॥ सुमन्तु q. in त्रि. से. सा. स. p. 20.
 
-601
+[^1402]:
+    सक्तुभिः पिण्डदानं तु संयावैः पायसेन तु । कर्तव्यमृषिभिर्दृष्टं पिण्याकेन गुडेन च । श्राद्धं तत्र तु कर्तव्यमर्घ्यावाहनवर्जितम् । श्वध्वांक्षगृध्रकाकानां नैव दृष्टिहतं च यत् । श्राद्धं तत्तैर्थिकं प्रोक्तं पितॄणां प्रीतिकारकम् ।...कालेवाप्यथवाऽकाले तीर्थे श्राद्धं तथा नरैः । प्राप्तैरेव सदा कार्य कर्तव्यं पितृतर्पणम् । पिण्डदानं च तच्छस्तं पितॄणामतिवल्लभम् । विलम्बो नैव कर्तव्यो न च विघ्नं समाचरेत् । पद्मपुराण V. 29. 212–218, q. by पृथ्वीचन्द्रोदय folio 135b and 136a. The same verses are quoted from देवीपुराण by कल्प० on तीर्थ p. 10, तीर्थचि. pp. 10–11, गङ्गावा. p. 129. Vide स्कन्द, काशीखण्ड 6. 58–60 for some of the verses and नारदीय (उत्तर) 62. 41–42 for last two verses.
 
-Kuruksetra, Prayaga, at the mouth of the Ganges where it falls into the sea, on the Ganges, at Puskara, at Setubandha, at Gangādvāra and in Naimisa tends to confer inexhaustible rewards. In the Vanaparva 1365 it is stated that this sacrificial ground (of Brahmā) is honoured even by the gods, that even a small thing donated here assumes greatness (i. e. produces the rewards of large gifts).
+The Anuśāsana-parva, the Kūrmapurāṇa, [[Nāradiya|Nāradīya]] (uttara) 63. [[19-20|19–20]] and [[36-38|36–38]] and others highly praise bathing at the [[sangama|saṅgama]] in the month of [[Māgha 1403|Māgha]][^1403]. Men of all castes, women and those born of mixed unions can take this bath; [[sūdras,|śūdras,]] women and men of [['mixed|mixed]] castes should not repeat any mantra but should bathe silently or with the word [['namah'|'namaḥ']] (Tri. S. p. 39). Similarly, the Padma, Kūrma, Agni and other [[Purānas|Purāṇas]] wax eloquent over a bath for three days in Māgha saying that it is equal to the gift of three crores of cows.[^1404] There is great divergence as to exactly what three days are meant, as pointed out by the Tri. S. p. 33. The various views are: the three days are the passage of the sun into Capricornus, [[Rathasaptami|Rathasaptamī]] and the full moon day of Māgha; the three consecutive days including the 10th of the bright half of Māgha; the first three days of Māgha; the three consecutive days from the 13th day of the bright half of Māgha; any three days in Māgha.
 
-The confluence of the three rivers came to be associated with omkāra, 1366 the mystic syllable that stands for Brahma. It is said in a purāṇa passage (probably Brahmapurāṇa) that the three parts of om (a um) respectively are Sarasvati, Yamunā and Gangā and that the waters of three rivers represent Pradyumna, Aniruddha and Sankarṣaṇa Hari. 18 It may be noted that, in spite of the fact that the Matsya, Kūrma (I. 36-39), Padma (Ādi. chapters 41-49), Agni 111 and other Purāṇas contain several hundred verses on Prayāga, the Kalpataru (on tirtha), the earliest extant digest on tirthas, quotes only the Matsya (104, 1-13 and 16-20, 105. 1-22, 106. 1-48, 107.2–21, 108. 3-5, 8-17 and 23-34, 109. 10-12, 110.1-11, 111. 8-11, in all about 151 Verses) and Vanaparva chap. 85. 79-87 and 97 and does not add a single word of explanation or discussion. But the other digests profusely quoting mostly from Purāṇas discuss at some length several topics and a few words must be devoted to some of those topics.
+[^1403]:
+    दशतीर्थसहस्राणि षष्टिकोट्यस्तथापराः । समागच्छन्ति माघ्यां तु प्रयागे भरतर्षभ ॥ अनुशासन 25. 36–37; षष्टितीर्थसहस्राणि षष्टितीर्थशतानि च । माघमासे गमिष्यन्ति गङ्गा-यमुनसङ्गमे ॥ कूर्म I. 38. 1; मत्स्य 107.7 is very nearly the same.
 
-One such topic is tonsure at Prayāga. It is stated by the Gangāvākyāvali (p. 298) and the Tir. Pr. (p. 335) that, though the author of the Kalpataru says nothing about tonsure at Prayāga, yet as ģistas (respectable and learned people) and the writers of digests accept it as necessary, certain autho rities would be set out. The two verses quoted by most 13664 writers are one should tonsure the head at Prayāga, offer pindas at Gayā, make gifts in Kuruksetra and should commit
+[^1404]:
+    गवां कोटिप्रदानाद्यत् त्र्यहं स्नानस्य तत्फलम् । प्रयागे माघमासे तु एवमाहुर्मनी-षिणः ॥ अग्नि. 111.10–11; गवां शतसहस्रस्य सम्यग्दत्तस्य यत्फलम् । प्रयागे माघमासे तु त्र्यहं स्नातस्य तत्फलम् ॥ पद्म, आदि 44. 8, कूर्म I. 38.2.
 
-1365. एषा यजनभूमिहि देवानामपि सत्कृता। तत्र दत्तं स्वल्पमाप महद्भवति भारत ॥ 48 85. 82 = 83. 77 of the cr, ed, which reads as C ERAT.
-
-1366. Bihari N agaurahti ada qoft fata Fahre प्रदायिनी॥ अकारः शारदा मोक्ता प्रद्युम्नस्तत्र जायते। उकारो यमुना प्रोक्तानिरुद्ध स्तज्जलात्मकः। मकारो जाह्नवी गङ्गा तत्र सङ्कर्षणो हरिः । एवं त्रिवेणी विख्याता वेदबीज gantar il q. by Ferret p. 8.
-
-_13662. प्रयागे वपन कुर्याद्यायो पिण्डपातनम् । दाने दद्यात् कुरुक्षेत्र वाराणस्यो जर्नु त्यजेत् ॥ किं गयापिण्डदानेन काश्यां वा मरणेन किम् । किं कुरुक्षेत्रदानेन प्रयगे वपन याछ । q. by ear. p. 298, atera. p, 32, Errente p. 17. g. p. 335. These two verses occur in Fire ( TC) 63, 103-104.
-
-H. D:76
-
-I
-
-STITUTA POONA
-
-FOUNDED
-
-s
-
-he
-
-rain
-
-Bhandarkar Oriental Research Institute
-
-602
-
-History of Dharmaśāstra
-
-[Vol.
-
-(religious) suicide at Benares. What is the use (or necessity) of pinda offerings at Gayā or death in Kāśi, 'or gifts at Kuruk setra, if one has tonsured one's head at Prayāga?". Elaborate discussions are held by all these works about the exact inten tion of the verses, about the application of the maxim of rātrisattra 1367 to them and about the results derived from ton sure. They have to be passed over here from considerations of space. The Tristhali-setu (p. 17) holds that the verse only prai ses the rite of tonsure at Prayāga and the fruit thereof is simply the removal of sin. The Tri. S. refutes (p. 17) the application of rātrisattra-nyāya to these verses, while Tir. C. (p. 32) applies it. Some of the conclusions drawn by the Tri. S. are that in one and the same yātrā at Prayāga (even if a man stays there for some days) .ceremonial tonsure takes place only once, that widows have to tonsure their heads, that in the case of women whose husbands are living only two or three finger-breadths of tresses are to be cut and offered at the Triveni, that even 1367a boys whose upanayana has not been performed have to undergo tonsure provided the cūṇā rite has already been performed. The Tristhalisetu (p. 22) notes that certain traditionalists, 1368
-
-1367. art occurs in H. IV. 3. 17-19. There is a passage in the waraṣtater 23. 2. 4 'garagica u gar tegia. Here in the parast The is enjoined but no fruit thereof is expressly promised. The question arises whether in the absence of an express reward, heaven should be under stood as the reward (because as explained in Jai. IV. 3. 15-16 svarga is the
-
-ard of all sacrifices for which no express reward is mentioned) or whether gragt (stable position ) which occurs in the above arthavāda passage should be held to be the reward of : 11HET. The reply is that here the reward is grant and not f i, e, though there is no express mention of the reward in the passage about ratrisattra, the arthavada passage should be construed as laying down the reward. In the two verses, there is a vidhi in the words प्रयागे वपनं कुर्यात् and the second verse is an अर्थवाद. The question is what reward is promised in it. If XNX ty applies, then puga secures all the fruits of गयापिण्डदान, कुरुक्षेत्रदान and काशीतनुत्याग. If it does not apply then the only fruit is पापाभाव.
-
-1367a. अनुपनीतानामपि प्रयागे वपनं कार्यम् । यस्तु पुत्रांस्तथा बालान्स्नापयेत्पाय येत्तथा। यथात्मना तथा सर्व दानं विप्रेषु दापयेत्॥ इति मत्स्यपुराणवचने ततीयपादस्य... usatera Utara. Tuoto pp. 23-24. Tell yaikauto is Hart. 106.6.
-
-1368. Yigetika... Ara thagafat ataja I Bag #1747 केशवपनं किंतु वेणी कृत्वा कुङ्कमादिमङ्गलद्रव्यालङ्कता भारं नमस्कृत्य तदनुज्ञाता वापयेत
-
-चवेणीमञ्जली निधाय यथाशक्तिकृता स्वर्णमयी रूप्यमयीं वा वेणी मुक्तापवालादि च निधाय वेण्यां वेणीप्रदानेन सर्व पापं प्रणश्यतु । जन्मान्तरेष्वपि सदा सौभाग्यं मम वर्धमाम्। इति पठित्वा वेण्या क्षिपेत्॥ त्रिस्थली p. 22% प्रयागे स्त्रीणामपि मुण्डनं न तु वक्ष्यमाण
-
-arxai at at TęAT | aaaa p. 493.
-
-SNTU POONA
-
-तेजस्विभाव
-
-बावधीतमस्तु
-
-Bhandarkar Oriental Research Institute
-
-IV
-
-Tonsure of women at Prayāga
-
-603
-
-relying on passages that aver that all sins cling to the roots of a person's hair, say that cutting two or three tresses would be merely kartana and not vapana (tonsure), that even women whose husbands are alive must shave themselves at Prayāga, that such women should make a braid of all their hair, should deck the braid with saffron and other auspicious materials, bow to their husbands and with the husband's permission have the head tonsured, that then they should place the cut hair in their joined hands, place thereon a golden or silver veni and pearls and coral and should cast all these into the confluence (Veni) of the Ganges and Jumnā after repeating the mantra ‘May all my sins be destroyed by this offering of my braided hair into the Veṇi! may my blessedness (the auspicious state of wifehood) always increase in the lives to come.' The Tri. S. states that women do not tonsure their head at any tirtha except at Prayāga and the only reason for this is that it is the practice of sistas. Vide above pp. 122-124 for tonsure as expiation for sins. The Nāradiya (Uttara) 63. 106 provides the same rule as Parāśara (in note 278 above) for women. The Prāyascittatattva of Raghunandana prescribes the complete tonsure of the head for women at Prayāga.
-
-It appears probable that the provision for the casting of veṇi (braided hair) on the part of women whose husbands were alive was suggested by the word Venī applied to the confluence of the two rivers, where the river Ganges appears to make a bend or curve for some distance 1369
-
-One important question that very much exercised the minds of ancient and medieval Indian writers was whether and when suicide, particularly at sacred spots like the confluence of the Ganges and Jumnā or at the foot of the Akṣaya Vata at Prayāga, would involve no sin 1370 This matter has already been
-
-1369. ओमित्येकाक्षरं ब्रह्म परब्रह्माभिधायकम्। तदेव वेणी विज्ञेया सर्वसौख्य erat va aturari fragt THTA: 1 tuto p. 8. nov
-
-1370. ...in 90 ...nya a : CHṢÀ Hisa वतः। पुण्य सकलमामोति राजसूयाश्वमेधयोः॥ एषा यजन...महद्भवति भारत॥ न वेद... प्रयागमरणं प्रति॥ दशतीर्थसहस्राणि षष्टिकोट्यस्तथापराः। येषां सांनिध्यमत्रैव कीर्तितं कुरु नन्दन। चातुर्वेदे च यत्पुण्यं सत्यवादिषु चैव यत्। स्नात एव तदामोति गङ्गायमुनसङ्गमे॥ वनपर्व 85. 79-85. After quoting the last verse and several other verses the farfurdt He observes (p. 30) gay wig aay pafu T apataśina zorama तदन्तर्गततत्तत्तीर्थस्नानफलस्य वाक्यान्तरैरुक्तत्वात् स्थलमात्रे च जलाभावेन नानासम्मेवावे. V : Trea:). The same verses occur in ( 39. 78 (Firsito chap. 7, 63 and 65) says 'argcnt: TÁ & Farra atryana a ari ya: yazll of fe fago
-
-r eya: la copia.co.. aru: bis F. I. 22.20.
-
-FOUNDED
-
-Bhandarkar Oriental Research Institute
-
-604
-
-History of Dharmaśāstra
-
-[Vol.
-
-dealt with at length in H. of Dh. vol. II. pp. 924-928 and vol. TII. pp. 939, 948-949. Only a brief treatment by way of a summary of the pages and a few notes will be added here. The general sentiment of Dharmaśāstra works is to condemn suicide or an attempt to commit suicide as a great sin (vide H. of Dh, vol. II. page 924 for texts). The Ap. Dh. S. (I. 10. 28. 15-17) mentions the view of Hārīta which condemns suicide even as prāya Ścitta for committing a mahāpātaka (like incest) and puts kill ing another or killing oneself on the same footing. Manu V. 89 and Yāj. III. 154 condemn suicide by denying after-death rites to those who commit it, but Manu allowed suicide in various ways as prāyaścitta for mahāpātakas (vide Manu XI. 73, 90-91, 103-104). But exceptions to the condemnation of suicide are found in the smrtis, epics and purāṇas. They may be grouped under several heads. (1) Suicide as an exception in various ways by those guilty of mahāpātakas (viz, brāhmana murder, drinking of surā, theft of brāhmaṇa's gold and incest); vide H. of Dh. vol. II, pp. 924–925 for smrti and other texts. (2) Starting on the Great Journey (mahāprasthāna-gamana or mahāpathayātrā) by a forest hermit (Manu VI, 31, Yāj. III. 55) suffering from incurable diseases and unable to perform the duties of his order. (3) An old man or one who cannot observe the rules of bodily purification or who is so ill as to be beyond medical skill may kill himself by throwing himself from a precipice or by fire or by drowning or fasting or start on the Great Journey into the Himālaya or by jumping from the bran ches of the Vata tree at Prayāga (Apararka p. 877 quoting Adi-purāṇa and Atri-smrti verses 218-219 q. by Medhātithi on Manu V. 88 and Mit. on Yāj. III. 6). (4) Even a house holder, otherwise all right, may resort to suicide by the means stated (in No. 3) if his life's work is done, if he has no desire for the pleasures of the world and does not desire to live, or if he is a Vedāntin1371 and convinced of the ephemeral nature of life and may kill himself by fast in Himālaya. (5) Religious suicide
-
-· was allowed at the confluence of the two great rivers Gangā and Yamunā, at the Vata there and at some other tirthas. (6) A wife dying by sahagamana or anumarana. As to Sati, the Nāradiya (pārvārdha 7. 52-53) provides that a woman should not burn herself on the funeral pyre of her husband if she has alus
-
-POONA
-
-houkbED
-
-1917
-
-1371. T a a faragdaarṣii aura strad great at a train ollen 2
-
-•अभ्यर्च्य देवतास्तत्र नमस्कृत्य मुनींस्तथा। ततः सिद्धो दिवं गच्छेद् ब्रह्मलोक सनातनम् ॥ अनुस्
-
-a 25. 63-64, a refers to FEATZT as the context shows.
-
-Bhandarkar Oriental
-
-5 TL Bhandarkar Oriental Research Institute
-
-IV1
-
-Suicide at Prayāga
-
-605
-
-young child or young children, if she is pregnant or if she has not attained puberty, or if she is in her monthly illness at the time. Not only did common men believe in the pro. mise of the Purāṇas that those who killed themselves at Prayaga (at the sangama or near Vata) secured mokṣa ( freedom from the everlasting cycle of births and deaths ) which was the highest of the four puruṣārathas (goals of human existence ), but even great poets like Kālidāsa held the view that, though moksa or kaivalya or apavarga requires correct knowledge and realisation of the Supreme Spirit according to the Vedānta, Sānkhya and Nyāya systems, death at the sacred sangama led to mokṣa even without
-
-tattvajñāna.' In H. of Dh. vol. II pp. 925-927, historical ex amples of kings such as Yasah-karnadeva, Candella Dhangadev and Cālukya Someśvara committing suicide at Prayāga or the Tungabhadrā have been given. The king Kumāragupta of Magadha is said to have entered the fire of dry cow-dung cakes. This is in accordance with the prescriptions in the Matsya purāṇa 107. 9-10 (Padma, Adi-khanda 44.3) which states 1372 "the man who, suffering from no diseases, having no deficiency as to his limbs and being in full possession of his five senses, encompasses (his death) in cowdung fire remains honoured in heaven for as many years as there are pores on the whole of his body.' 1373 The Rājatarangiṇi VI. 14 refers to officers entrusted with the duty of supervising suicide by fast (prāyopaveśa). . 1372. Et
-
-a f TT HUOTI 31ETAIṢî 9 T समन्वितः। यावन्ति रोमकूपाणि तस्य गात्रेषु देहिनः॥ तावद्वर्षसहस्राणि स्वर्गलोके महीयते॥ H 107.9. 1. 38. 3-4, ana, at, 63.154 (reads ciutat auga), a I. 44.9 (reads पञ्चाग्निं यस्तु). कर्षाग्निं is short for करीषाग्निं for metrical reasons.
-
-I, 38.3 reads'
-
-T T. Vide Gupta Inscriptions No. 42 p. 200, the Ahsaid Stone Inscription of cria of Au, which states that his fifth ancestor Kumāragupta plunged himself in the slow-burning fire of dried cowdung cakes as if in water at Prayaga. शौर्यसत्यव्रतधरो यःप्रयागगतो Vår 3Fuia mirar : # yoqyrta: Il p. 203 (of the text). gå means ya HAT. The learned editor was probably unaware of the provisions about suicide at Prayāga by being burnt with dry cowdung cakes in the Matsya and other puranas.
-
-1373. The Ain-i-Akbari (tr. by Gladwin and published in 1800 ) speaks of the following as the meritorious kinds of suicide (vol. I. p. 531 and p. 802 of the Popular edition, edited by J. Mukhopadhyaya). These are five in number viz. (1) starving; (2) covering himself with cowdung and setting iton fire and consuming himself therein; (3) burying himself in snowu ti to plunge into water at the Gangasagara-sangama, enumerate one's sins and pray till alligators come and devour the man; (5) cut his throat Allahabad at the confluence of the Ganges and the Tumnā.
-
-STITU
-
-WOUNDED
-
-1917
-
-Research Institute
-
-606
-
-History of Dharmasastra
-
-[Vol.
-
-The important verse on which reliance is placed for sanctioning religious suicide at Prayāga may be translated 1374 as follows: 'You should not set aside (pass over) your wish about dying at Prayāga on account of the words of the Veda or the words of the people. The words of the Veda1375 are Vāj. S. 40. 3 (=Iśāvāsyopaniṣad 3) which literally translated means 'there are worlds of Asuras enveloped in blinding darkness; those who have killed themselves repair after death to those worlds.' This verse does not in the context appear to refer to a person committing suicide, but rather to a person who kills his soul by remaining in ignorance of the true Self. But even learned writers and poets took it to refer to suicide ( vide Uttara rāmacarita, Act IV after verse 3). Another passage of the Veda on which reliance may be placed is the one in the Satapatha Brahmana X.2.6. 7 'one ought not to yield to his own desire and pass away before the full extent of life, for it (such. shortening of full life) does not make for the (heavenly) world'. By the words of the people' are meant smrti passages con demning suicide such as Gaut. 14. 12, Vas.1375a 23. 14-15, Manu V. 88 (which says that no water is to be offered to those who kill themselves), Visnu Dh. S. 2.2.56 (atmatyaginah patitas-ca. nasaucodakabhajah).oneimit
-
-1374. न वेदवचनात्तात न लोकवचनादपि। मतिरुत्क्रमणीया ते प्रयागमरणं प्रति ॥ वनपर्व 85.83, नारदीय (उत्तर) 63.129, पद्मा (आदि 39.76 reads न देव०), अग्नि 111.8 (reads मतिरुत्क्रमणीयान्ते प्रयागे मरणं प्रति). मत्स्य. 106.22 reads न देववचना... पयागगमनं प्रति) and पद्म, आदि 43.22 reads प्रयागगमनं प्रति. The कूर्मपुराण I. 37.14 is न मातृवचनात्तात न...दपि। मति...प्रयागगमनं प्रति ॥; पद्म, आदिखण्ड 33.64 reads न लोकवचनात् पित्रोन चैव गुरुवादतः । मतिर्न क्रमणीया स्यादविमुक्तगति प्रति॥. This entirely changes the meaning and avers that if one has a desire to go to Kasi, one should not heed the words of one's parents or elders or of the people ( dissuading him from going).
-
-1375, असुर्या नाम ते लोका अन्धेन तमसावृताः । तांस्ते प्रत्याभिगच्छन्ति ये के चात्महनो जनाः॥ वाज. सं.40.3: The ईशावास्योप. reads असूर्या (sunless). vide for आत्महन् the sutra of वसिष्ठ quoted below. यो वा शतं वर्षाणि जीवति स हैवैतद मृतमामोति... तस्मादु ह न पुरायुषः स्वकामी प्रेयादलोक्यं हैत उ वा लोका। शतपथना. X. 2. 6.7 q. by मेधातिथि on मनु V. 88 (आत्मनस्त्यागिनां चैव निवतेतोदकक्रिया) "and VI. 32. The printed text of मेधातिथि and कुल्लक reads स्वःकामी (desiring:
-
-heaven).
-
-BAR ins 1375 a, य आत्मत्याग्याभिशस्तो भवति सपिण्डानां प्रेतकर्मच्छेदः । काष्ठजललाशन
-
-पाषाणशस्त्रविषरज्जुभिर्य आत्मानमवसादयति स आत्महा भवति ॥ वसिष्ठ 23. 14-15. लाच मानधातमाला
-
-FOEDED
-
-Bhandarkar Oriental Research Institute
-
-607
-
-IV)
-
-Suicide at Prayāga There is no doubt that some of the smrtis, the Maha bhārata 1376 itself and some puranas do recommend (or at least do not condemn) suicide in certain circumstances. A few purāṇa passages may be quoted here. Two verses of the Kūrma state 'That goal (or state), which a wise man that is devoted to Yoga and that has become an ascetic (or has forsaken "all actions) reaches, is secured by him who gives up life at the confluence of the Ganga and Yamunā. Whoever dies in the Gangā whether wilfully or unintentionally is born after death in heaven and does not see hell'.1377 The Kūrma is quite clear
-
-Moksa may be secured or not after a thousand births else where but in Benarés moksa can be secured in a single birth' (1. 32. 22). The Padma 1378 is quite emphatic "a man who, knowingly or unknowingly, wilfully or unintentionally, dies in the Ganges secures on death heaven and mokṣa'. A verse of the Skanda asserts "He who abandons his life in this sacred place in some way or other does not incur the sin of suicide but secures his desired objects.' The Kūrma (1. 38. 3-12) refers to four modes of suicide and promises residence in heaven and various other rewards for thousands of years, viz. by (1) burn ing oneself in the slow fire of dry cowdung cakes, (2) by enter ing the water at the confluence of Gangā and Yamunā, (3) by hanging with head down in the stream and feet up and drinking
-
-a
-
-1376. Vide the references given under No. 2 and 3 of the five classes of excusable or permitted suicides on p. 604 above. The Mahabharata has a parva called Mahāprāsthānika in which it is narrated (chap. 1. 24) that Yudhisthira with his four brothers, queen Draupadi and a faithful dog started on the Great Journey towards the Himalaya and that they fell down dead one after another, Draupadi being the first and Bhima the last
-
-1377. T arify yatt Haroor: fffcuta: Mora गडायमुनसङ्गमे ॥ अकामो वा सकामो वा गङ्गायां यो विपद्यते। स मृतो जायते स्वर्ग नरक च f . I. 37. 16, 39. The first verse is read in qu, igaug 60,56 as
-
-... PTT waliforor: 1 T...tuta retrtot: W. Arą (17) 43.97 is the same as पद्म
-
-1378. ज्ञानतोऽज्ञानतो वापि कामतोऽकामतोऽपि वा। गङ्गायां च मृतो मत्यः स्वर्ग मोक्षं a fare il 9, . 60.65 q. by fruct p. 47. TOT Franta GATO
-
-traigarchargia a Caragile, Firsito 22.76. The on after p. 258 quotes from ar garut atfeatinga Tri (orarai?) aire ar समाधाय मनः पूर्व मन्त्रमुच्चारयेच्छनैः ॥ त्वमग्ने रुद्रस्त्वं सुधामहोदधिस्त्वं सर्वे मारुताः fargareta aa
-
-a GATET: TT ATT. The mantra as printed makes no sense. The editor should have separated the words properly even if the mss. were unsatisfactory. It appeare to be puble 7.0 ( = Tai. S. 1. 3. 14. 1) A e BET I feara TUT Area ga Stort tizat वातरकणेर्यासि र्शगयस्त्वं पूषा विधतः पासि नु त्मना ।
-
-STITUS
-
-191.1
-
-s
-
-erta Bhandarkar Oriental Research Institute
-
-608
-
-History of Dharmaśāstra
-
-[Vol.
-
-the waters of the Ganges, (4) by cutting off his own flesh and giving it as food to birds. The famous Chinese traveller Hiouen Thgang (about 629-645 A. D.) clearly refers to this practice of religious suicide (vide Beal's 'Buddhist Records of the Wes tern world,' vol. I. pp. 232–234). The Kalpataru on Tirtha (composed about 1110-1120 A, D.) devotes a special section to Mahāpathayātrā (pp. 258–265). Gradually, the idea of secur ing heaven and moksa by committing suicide at Prayāga or Benares appears to have spread to other tirthas. Vanaparva 1379 speaks of suicide at Pșthūdaka (Pehova in the Karnal district of Punjab, 14 miles from Thanesar). The Brahmapurāṇa 1380 calls upon dvijas who are intent on securing mokṣa to commit suicide at Purusottama-kṣetra. The Lingapurāṇa 1381 says 'if a brāhmaṇa kills himself on Śrīśaila he destroys his sins and attains mokṣa as at Avimukta (Benares); there is no doubt about this'. The Padma promises 1382 a similar reward for suicide by fire or by fast at the confluence of Narmada and Kāverī (a small river, not the great South Indian river). dod
-
-Gradually there was a revulsion of feeling against suicide at Prayāga or Kasi or starting on the Great Journey. Among the actions forbidden in the Kali age are included 'starting on the Great Journey' and 'suicide of old people jumping from a precipice or by fire' (vide H. of Dh, vol. III, pp. 939, 958-59). Some of the later medieval writers try very hard to combat the view that religious suicide is permitted 1383 Nilakantha, the commentator of the Mahābhārata, holds that Vanaparva 85. 83 (na vedavacanāt &c.) refers to natural death at Prayāga and not to wilful death and that the Khila verse ("Sitāsite' quoted above on p. 596) has the same meaning. Then he propounds two alternative interpretations of Vanaparva 85.
-
-1379. उत्तमं सर्वतीर्थानां यस्त्यजेदात्मनस्तनुम् । पृथूदके जप्यपरो नैव श्वो मरणं aan ja alor a HETERETI a 83. 146, 147 q. by apeiche
-
-p. 180 (reads gi # i).
-
-1380. affrepraecata a t
-
-rar: ECAT #: re: FT STATIST: grrr 177. 25; vide also OTTO 68. 75 and 177. 16-17.
-
-1381. atas pene de Ti aurreau: 1 aya #17azanu 2791 The fos ( garek 92. 168-169). 2 * 1382. orgast ya biaraqli fafaat materie #15 tisarata , tre. 16. 14-15.
-
-1383. Vide a learned paper on 'suicide at Prayāga' by Prof. Route 14 Chattopadhyaya in Journal of the U. P. Historical Society, vol, X, pp. OSV
-
-wita 2
-
-Bhandarkar Oriental Research Institute
-
-IV]
-
-Suicide at Prayāga and medieval writers
-
-609
-
-83, viz. that this passage allows those who are suffering from an incurable disease to commit suicide at Prayāga instead of dying by falling from a precipice and the like or that this verse does not apply to brāhmaṇas but only to the other three varṇas. 1384
-
-Both the Gangāvākyāvali (pp. 304–310) and the Tīr, C. (pp. 47-52) hold that all varnas have the authority to resort to suicide at Prayaga. The Tir. Pr. holds a long, learned and highly polemic discussion on the subject of religious suicide at Prayaga (pp.346-355). Its own view appears to be that a brāhmana should not commit this suicide at Prayaga on account of the prohibition contained in Kalivarjya verses and that members of the other varnas may do so. The Tristhalisetu algo enters upon a long discussion (pp. 47-55) and its conclu sions are that in suicide at Prayāga for the attainment of moksa or other rewards (such as heaven) there is no sin, that this suicide at Prayāga is not forbidden 1384a to brāhmanas as some think (since Agni 111. 8 reads 'na vedavacanād vipra'), that persons whether seriously ill or in good health 1385 may resort to suicide at Prayāga, that no one has authority to commit suicide at Prayāga after abandoning to their fate one's old parents, young wife and children that require support, nor should a woman who is pregnant or who has young children or who has no permission from her husband, commit suicide at Prayaga.1386 It is refreshing to find Narayanabhatta, perhaps
-
-का 1384. शूद्राश्च क्षत्रिया वैश्या अन्त्यजाश्च तथाधमाः। एते त्यजेयुः प्राणान्वै वर्जयित्वा द्विजं नृप । पतित्वा ब्राह्मणस्तत्र ब्रह्महा वात्महा भवेत् । .by त्रिस्थलीop.52, which remarks that these verses are not found in any authoritative source and they involve a contradiction, in as much as Ts and sys are allowed to kill themselves though they are dvijas. This is q. also by भहोजि in त्रि. से. सा. स. P33.
-
-_1384 4. तथा च हेमाद्यादिवादिपुराणवाक्यानि ब्राह्मणस्यापि मरणविधायकानि । वृद्धः शौचस्मृतेर्लुप्तः-इत्याापक्रम्य गच्छेन्महापथं वापि तुषारगिरिमादरात्। प्रयागवटशाखायां देहत्यागं करोति वा॥ स्वयं देहविनाशस्य काले मासे महामतिः। उत्तमान्पामयाल्लोकानात्म घाती भवेत्क्वचित्॥ एतेषामधिकारस्तु सर्वेषां सर्वजन्तुषु। नराणामथ नारीणां सर्ववर्णेषु सर्वदा॥ त्रिस्थलीp. 53.
-
-_1385. तस्मादातुरादेरनातुरादेश्च सर्वस्याधिकारः। किं तु वृद्धौ पितरौ तरुणी भार्या पाण्यमपत्यं च विहाय नाधिकारः। एवं स्त्रिया अपि गर्भिण्या बालापत्याया भनिनुज्ञाताया वा नाधिकार इत्यादि ज्ञेयम्। त्रिस्थलीp. 55.
-
-__1386. काश्यादिमरणान्मुक्तिरित्यत्र प्रयोजकत्वे पञ्चमी। तजन्यादात्मज्ञानादेवं मोक्षात् पत्तेः। ज्ञानेन विना मिथ्याज्ञाननिवृत्तेरसम्भवात् । अत्र हि जन्तोः...रुद्रस्तारकं नहा याच । इति श्रुतेश्च। यत्तु काश्यां देहावसाने रुद्रोपदेशश्रुतेरस्तु ज्ञानापेक्षा न तु सर्वत्र । प्रयोगमरणादों विनैवात्मसाक्षात्कारमपषगोदयात् । ...तदसत् विना ज्ञान मिथ्याज्ञाननिवृत्तेरसम्भवात् । तीर्थम,
-
-(Continued on the next page ) H. D377
-
-FASTITUN
-
-अनावधीत
-
-Bhandarkar Oriental Research Institute
-
-610
-
-History of Dharmaśāstra
-
-[Vol.
-
-the most learned and renowned Pandit of his age steeped in all the lore of ancient India, make, in spite of the overwhelming weight of śāstric authority in favour of suicide at Prayāga, exceptions that surely appeal to reason, sentiment and common. sense.1387 Nārāyanabhatta probably followed traditions several hundred years older than his times. Alberuni in his work on India composed about 1030 A. D. says about religious suicide that it was resorted to by those who are tired of life, who are distressed over some incurable disease, some irremovable bodily defect or old age or infirmity. This however no man of distinction does, but only vaiśyas and sūdras. Burning oneself is forbidden to brāhmaṇas and ksatriyas by a special law. Therefore these if they want to kill themselves do so at the time of an eclipse in some other manner or they hire somebody to drown them in the Ganges.' (tr. by Sachau, vol. II, p. 170). The Tri. S. S. provides that a man desirous of committing religious suicide at Prayāga should first perform a prāyaścitta,
-
-(Continued from the last page) p. 313; the passage of the जाबालोपनिषद् is : अविमुक्तं वै कुरुक्षेत्र देवानां देवयजनं सर्वेषां भूतानां ब्रह्मसदनम्। तस्माद्यत्र वचन गच्छति तदेव मन्येत तदविमुक्तमेव । इदं वै कुरुक्षेत्रं देवानां...सदनम्। अत्र हि जन्तोः प्राणेषुत्क्रममाणेषु रुद्स्तारकं ब्रह्म व्याचष्टे येना Hagar gear fiatutafar. In the Bhau Daji collection of mss. at the Bombay Asiatic Society there is a ms, called strak Theron (cat. No. 1047) which contains 15 verses and comments thereon intended to explain the purport of the Jabālopaniṣad passage quoted and also some other passages from the same. In this work कुरुक्षेत्र occurring in जाबालोपनिषद् is explained as 'कुत्सितं रावयतीति कुरु पापं तस्य क्षेपणात् इति कुरुक्षेत्र पापनाशनमित्यर्थः' and देवयजनं as ब्रह्मो
-
-tratta
-
-1387. FIFACTS FUTTI 39 a #auriare: 1 grat. p. 305 and atera. p. 47. It is a most remarkable thing that the treatment of in both these works is word for word the same, except that the aferat. quotes the verses न वेदवचना० from the पद्मपुराण while the गङ्गावा. quotes them from the मत्स्य. It appears probable that the तीर्थचि. borrows from the गावा. since arengta appears to have been a younger contemporary of Vidyāpati who helped father in composing grat. Both were closely connected with the several kings and queens of the ETÀ ATT dynasty of Mithilā and it is difficult to assert with confidence who borrows from whom. In New I. A. vol. VII. at p. 53 Prof. G. C. Basu while describing a newly found ms, of a work called व्याडिभक्तितरङ्गिणी ascribed in the colophon to विद्यापति states that that work
-
-mentions the द्वैतनिर्णय of वाचस्पति. So it is not unlikely that विद्यापति helped विश्वासदेवी by taking a part from the तीर्थचिन्तामणि of वाचस्पति. Vide H, of Dh. vol. I. pp. 739-740, Journal of Dept. of Letters, Calcutta University. Vot XVI, New I. A, vol. VII pp. 49 ff, I. H.Q. vol. XX. (1944) pp. 211 forex the date and works of fagrara and H. of Dh, vol. I. pp. 404-405 for the day of वाचस्पति,
-
-STITU
-
-POUNDED
-
-Bhandarkar Oriental Research InstituteIVI
-
-Rites before suicide at Prayāga
-
-611
-
-should perform his own grāddha upto the offering of pinda if he has no relative entitled to perform it, should fast that day, should make a sankalpa next day preceded by a writing (to inform people of his desire to die in that way) and enter the holy waters contemplating on Viṣnu. On his death, his relatives have to observe āśauca only for three days and not for ten) and on the 4th day the śrāddhas of the 11th day are to be performed for him.1388 Jom The psychological background behind the religious suicide at Prayāga and other places is not difficult to realise. Centuries of philosophical thought had made a very deep impression on the minds of all people that the soul has to subniit to a never-ending cycle of births and deaths. Ancient scriptures had offered a release in two ways viz. by tattvajñāna and by suicide at a tirtha. Death had no great terror for the pilgrim who submitted to various inconveniences and priva tions ungrudgingly. If one is determined to put an end to samsāra by taking one's life, what nobler environment could have been imagined or indicated than at Prayāga, where two mighty rivers flowing from the sacred Himalaya unite and carry on unceasingly their work of fertilizing the land and bringing prosperity and solace to millions of needy and anxious people ?
-
-While on this topic of religious suicide, it would not be out of place to briefly refer to the discussion in the digests about the meaning of the statement in the purāṇas that those who die at Prayaga are not born again (e. g. Matsya 180.71 and 74). The answer is foreshadowed in the Matsyapurāṇa itself (182. 22-25) which 1389 says: At the time of death, when the vital
-
-1388. वृद्धः शौचस्मृतेर्लप्तः प्रत्याख्याताभषक्रियः। आत्मानं घातयेद्यस्तु भृग्वग्न्यन शनादिभिः। तस्य त्रिरात्रमाशोचं द्वितीये त्वस्थिसञ्चयम्। तृतीये तूदकं कृत्वा चतुर्थ श्राद्धमा
-
-au 311 218-219 q. by #To on V.89. here (on 313T P87 ) quotes these slightly differently and remarks aa a
-
-... Ara at aram क्रिया इति वचनाद्भवत्येवोदकादिक्रिया.
-
-1389. The ITIT, Fraît has the following verses which repeat what the Matsya (182. 22-25 ) says viz. Siva whispers into the right ear of a man dying at Kaśi the kpowledge of brahma that will save his soul, antaa मुच्यन्ते नान्यथा जन्तवः क्वचित् । ब्रह्मज्ञानमये क्षेत्रे प्रयागे वा तनुत्यजः॥ ब्रह्मज्ञानं तदेवाहं
-
-Situiter t e! Strih ara ara yra à a atorrall chap. 32, verses 115-116; FIAT Taare grig fHTIGOTI ***, fisito 8.3 (piy tells
-
-TEET). The #tverses are: acht Tri Phry hlargar प्रेर्यमाणानां स्मृतिर्नवोपजायते॥ अविमुक्ते ह्यन्तकाले भक्तानामीश्वरः स्वयम्। काभः श्रेर्य माणानां कर्णजापं प्रयच्छति। मणिका त्यजन्देहं गतिमिष्टां बजेन्नरः । ईश्वरपरितो यति ZUETASATTATH: 1 182. 22-25. The words 31-anto ... a refer970 the general rule. The verses stranito state the special case of death in Avimuleta. The Etero p. 297 quotes these verses and reads 31a carreiesearch Institute
-
-FOUNDED
-
-Bhandarker Oriental.
-
-612
-
-History of Dharmaśāstra
-
-[Vol.
-
-parts of the human body are being shattered, memory must fail a human being that is about to be pushed on (to another body) by the vital breath (when it leaves the mortal coil). But at the time of death in Avimukta (Vārāṇasī) Lord (Śiva) himself whispers (higher knowledge in the ears of his devotees that are about to be pushed into new bodies) by (accumulations of their actions). A man dying near Manikarnikā pool reaches the desired goal; he being guided by the Lord reaches the goal which is difficult of attainment by those whose minds are not pure.' In the Kāśikhapda it is expressly stated that mokṣa does not directly result in these cities (viz. Kaśī &c.). But in spite of these warnings the popular belief fostered by the literal mean ing of hundreds of Purāṇa passages is that moksa results from dying at Prayāga or in Kāśiksetra.
-
-The practice of religious suicide has a very respectable antiquity. In the 4th century B. C. Kalanos, the Indian Gymnosophist from Taxila who had accompanied Alexander from India, burnt himself alive on a funeral pyre at Sousa, when being over 70 years old, he was afflicted with a malady that made life more and more burdensome. Vide J. W. McCrindle's 'Invasion of India by Alexander the Great' (New Edition 1896) pp. 46, 301, 386-392. Strabo informs us of a gymnosophist from India named Zarmanochegas of Broach who accompanied an embassy to Augustus Caesar at Athens and consigned himself to flames (vide 'Invasion of India by Alexander' p. 389). Hiouen Thsang (Beal's 'Buddhist Records of the Western World' vol. I. pp. 232-234) refers to suicide at Prayāga. The Jains, while on the one hand they laid the greatest emphasis on 'ahimsā' (non-injury), encouraged reli gious suicide (called 'Sallekhana') in certain cases 1390.
-
-Some of the works, viz. the Kasimrti-mokṣa-vicāra of Sureśvara (pp. 2-9), the Tristhalisetu (pp. 50-55) and the Tirthaprakāśa (pp. 313-318) discuss at some length how mere death (either involuntary or voluntary) in Vārānasi or Prayaga would lead to mokṣa. Considerations of space prevent a complete statement of their views. Their arguments are briefly as follows:Karma is of three kinds, viz. sancita (col lected in former births), prārabdha (that has begun to
-
-1390. Vide I. A. vol. II. p. 322 Jain Inscriptions at Śravaṇa Belgola, where some verses are quoted from the Ratnakaranda of whicb the following 1 one may be noted: I gra TÊ TAMAT a facgarantii CART चनमाहुः सल्लेखनामार्याः ॥
-
-ISTITU POONA
-
-FO
-
-Bhandarkar Oriental
-
-Research Institute
-
-IV)
-
-Argument about moksa by suicide at Prayāga
-
-613
-
-operate by giving the soul the present body) and kriyamana (to be done in this body and in future). The Upaniṣads and the Gita,1391 declare that, just as waters do not stick to a lotus leaf, so evil deeds do not cling to a man who knows this (knowledge of brahma), that the fire of knowledge reduces to ashes all karma and that mokṣa results from the realization of the Supreme Spirit (Vedānta-sūtra IV. 1. 13). From this it follows that a man who has realized the Highest Reality will not be affected by the acts done by him after realiza tion and his accumulated actions (sañcita) will be des troyed by that realization. The present body in which the soul realizes brahma was due to that part of his karma which had begun to operate. When the present body perishes in the case of a man who has realized brahma he attains final release, since no actions remain for producing effects. To the man who dies a natural death in Benares is given at the time of death the Taraka (saving) mantra.i-The Matsyapurana says:1392 those who enter fire according to the rules in Avimukta (i.e. Benares) enter the mouth of Siva and so also those determined devotees of Siva who die by fast in Benares do not return (to this world) even after millions of kalpas. Therefore all those who die in any way at 1393 Benares receive Grace from Siva after their death. That leads to tattvajñāna (correct spiritual knowledge) which leads to moksa. In rare passages it is expressly stated that mokṣa cannot 1394 be immediately secured
-
-1391. यथा पुष्करपलाश आपो न श्लिष्यन्त एवमेवंविदि पाप कर्म न श्लिष्यत इति। छा. उप. IV. 14.3; भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः। क्षीयन्ते चास्य कर्माणि तस्मिन् दृष्टे परावरे॥ मुण्डकोपनिषद् II. 2. 8; यथैधांसि समिद्धोग्निर्भस्मसात्कुरुतेऽर्जुन । ज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा ॥ भगवद्गीता ॥ IV. 37.
-
-1392. अग्निप्रवेशं ये कुर्युरविमुक्ते विधानतः। प्रविशन्ति मुखं ते मे निःसन्दिग्धं वरानने । कुर्वन्त्यनशनं ये तु मद्भक्ताः कृतनिश्चयाः। न तेषां पुनरावृत्तिः कल्पकोटिशतैरपि ॥ मत्स्य, 183.77-78 q. by कल्पतरु on तीर्थ p. 21.
-
-1393. 'ज्ञानादेव तु कैवल्यम्' इत्यादि श्रुतिस्मृतिभ्यो ज्ञानाभावे मोक्षाभावाद्विश्वेश्च राख्यगुरूपदिष्टतारकादेवात्रात्मज्ञानोत्पत्तिः । तदुक्तं काशीखण्डे । ब्रह्मज्ञानेन मुच्यन्ते नान्यथा जन्तवः क्वचित् । ब्रह्मज्ञानं तदेवाहं काशीसंस्थितिभागिनाम् । दिशामि तारकं प्रान्ते मुच्यन्ते ते नु तत्क्षणात् । त्रिस्थली p. 292 which quotes काशीखण्ड 32. 115-116. Similar statements occur in काशीखण्ड 21. 98 विपन्नानां च जन्तूनां यत्र विश्वेश्वरः स्वयम् । कर्णे जापं प्रकुरुते कर्मनिर्मूलनक्षमम् ॥ and काशीखण्ड 61. 117-118. 64.98. The गरुडपुराण (प्रेतखण्ड, 6.60-61) says 'तीर्थराजस्ततः काशी महादेवो दयानिधिः । मृतानां यत्र जन्तुनां कर्णे जपति तारकम् ॥7.
-
-1394. साक्षान्मोक्षो न चैतासु पुरीषु प्रियभाषिणि। स्कन्द, काशी 8. 2 अगस्य to लोपामुद्रा). तारकः प्रणवः सारयतीति तारः स्वार्थे कपत्ययः। संसारसागरादत्तारक कारक च तद् ब्रह्म इति तारकं ब्रह्म उच्यते। काशीमृतिमोक्षविचार p.3.
-
-Bhandarkar Oriental Research Institute
-
-614
-
-History of Dharmasastra
-
-[Vol.
-
-(by dying) in these cities. The Tāraka-mantra is variously explained. According to Sureśvara, Tāraka-mantra is the mystic syllable om which is a symbol of brahma as stated in the Tai. Up. (I. 1.8 Om-iti brahma) and the Gītā (8. 13 Om ityekākṣaram brahma). The Tri. S. gives another explanation besides this. According to Rāmatāpaniya Upaniṣad and 1395 the Padmapurāṇa the mantra is 'sri-Rama-Rāma-Rāmeti.'
-
-There are several sub-tirthas that fall under Prayaga. The most important of them is the famous Vata (banyan tree) called Akṣaya-Vata (the imperishable Vata). The Agni (111. 13) states 'if a man dies at the foot of the Vata and in the Sangama he goes to the city of Viṣnu'. Special reference is made to abandoning one's life at the foot of the Vața. The Kūrma1396 says 'He, who abandons life at the foot of the Vata, passes beyond heavenly worlds and goes to the world of Rudra'. The following are the sub tirthas of Prayāga and only references are given to the works in which they are described : (1) the two Nāgas called Kambala and Aśvatara which according to some are on the spacious (vipula) bank of the Jumnā and according to others on the southern bank of the Jumnā (Vanaparva 85.77, Matsya 106. 27, Padma, Adi 39. 69, Agni 111.5, Kūrma I. 37. 19), (2) Pratisthāna on the eastern side of the Ganges, being the same as the Sāmudra-kūpa (Vana parva 85.77, Matsya 106. 30, Kūrma I. 37.22, Padma, Adi. 43, 30; Vanaparva 85.114 appears to suggest that Pratisthāna is another name of Prayāga; (3) Sandhyāvata (Matsya 106.43, Kūrma I. 37.28, Agni 111. 13); (4) Hamsaprapatana to the north of Pratisthāna and to the east of the Ganges (Matsya 106.32, Kūrma I. 37, 24, Agni 111.10, Padma, Ādi 39.80 and 43.32; (5) Koțitirtha (Matsya 106. 44, Kūrma I. 37.29, Agni 111. 14, Padma, Adi 43.44; (6) Bhogavati, the Vedi of Prajāpati to the north of Vāsuki (Vanaparva 85.77, Matsya 106.46, Agni 111. 5, Padma, Adi 39. 79 and 43,46; (7) Daśāśvamedhaka (Matsya 106.46, Padma, Adi 39.80); (8) Urvaśīpulina, suicide at which
-
-1395. रामतापनीये तु श्रीराममन्त्र एव तारकशब्दार्थ उक्त। मुमूर्षोदक्षिणे कर्णे यस्य कस्यापि वा स्वयम् । उपदेश्यसि मन्मन्त्र स मुक्तो भविता शिव ॥ पद्मे तु श्रीशब्दपूर्वकस्त्रिरावृत्तो रामशब्द एव तारकतयोक्तः । मुमूर्षोर्मणिकर्ण्यन्तर|दकनिवासिनः । अहं दिशामि ते मन्त्रं are 1 Tratara garathan fortuito p. 291. 37 1396. वटमूलं समाश्रित्य यस्तु प्राणान् परित्यजेत्। स्वर्गलोकानतिक्रम्य फिडलांक । #real #. 1. 37.8-9 q. by atera p. 48. The same is 7, apretare a (reads Hatara).
-
-POONA
-
-FOUNDED
-
-haha atau Bhandarkar Oriental Research Institute
-
-IV]
-
-Sub-tirthas of Prayaga
-
-615
-
-led to 1397 various rewards quoted below (Matsya 106.34-42,1398. Padma, Adi 43. 34-43, Agni 111. 13, Kurma I. 37.: 26-27);: (9) Rṇapramocana, on the northern bank of Yamunā and to the south of Prayaga (Kurma I. 38. 14, Padma, Adi 44.20); (10) Mānasa on the north bank of the Ganges (Matsya 107.9, Padma, Adi 44.2, Agni 111.14); (11) Agnitirtha on the southern bank of the Jumnā (Matsya 108. 27, Kūrma I. 39.4, Padma, Adi 45. 27); (12) Viraja on the north bank of Yamuna (Padma, Adi 45.29); (13) Anaraka 1399 to the west of Dharmarāja (Kūrma I. 39.5).
-
-The Puranas lay down that if a man starts on a pilgrim age, but dies on the way to Prayāga he reaps great benefits even without reaching it, provided he dies remembering
-
-Prayaga. The Matsyapurana (105.8-12) asserts : 1400 A man whether in his own country or house or after leaving his country dies in a forest, while remembering Prayāga, he still secures the world of Brahma; he reaches a world where the
-
-1397. उर्वशीपुलिने पुण्ये विपुले हंसपाण्डुरे। परित्यजति यः प्राणाञ् शृणु तस्यापि यत्फलम्॥ षष्टिवर्षसहस्राणि षष्टिवर्षशतानि च। सेव्यते पितृभिः साधे स्वर्गलोके नराधिप । उर्वशी तु सदा पश्येत्स्वर्गलोके नरोत्तम। पूज्यते सततं पुत्र ऋषिगन्धर्वकिंनरैः ॥ ततः स्वर्गत् परिभ्रष्टः क्षीणकर्मा दिवप्रच्युतः। उर्वशीसदृशानां तु कन्यानां लभते शतम्॥ मध्ये नारीसहस्राणां बहूनां च पतिर्भवेत् । दशग्रामसहस्राणां भोक्ता भवति भूमिपः ॥ काञ्चीनूपुरशब्देन सुप्तोसौ प्रतिबुध्यते। भुक्त्वा तु विपुलान्भोगांस्तत्तीर्थ लभते पुनः॥ शुक्लाम्बरधरो नित्यं नियतः संयते न्द्रियः । एकं कालं तु भुजानो मासं भूमिपतिर्भवेत्॥ सुवर्णालडतानां तु नारीणां लभते शतम् । प्रथिव्यामासमुदायां महाभूमिपतिर्भवेत्॥ धनधान्यसमायुक्तो दाता भवति नित्यशः। भुक्त्वा तु विपुलान्भोगांस्तत्तीर्थ लभते पुनः ॥ मत्स्य. 106. 34-42 = पद्म, आदिखण्ड 43.34-42with some variations. The first two verses are कूर्म I.37,26-27 and all occur नारदीय (उ.) 63.140-149.
-
-1398. It may be noted that the rewards promised for suicide at Urvasipulina are sex pleasures and secular benefits like becoming a king or governor. Even suicide at the Sangama is promised similar pleasures of the flesh and of kingly power and riches in Matsya 105, 1-12.
-
-1399. I मत्स्य, 108.29we read तीर्थ निरअनं नाम यत्र देवाः सवासवाः which appears to be a misreading. पश्चिमे धर्मराजस्य तीर्थ त्वनरकं स्मृतम्। कूर्म. I. 395.; the
-
-अग्नि 111.14 mentions a तीर्थ called वानरक (or वासरक acc. to some mss.) but that seems to be a misreading of वनरकं (तु+अनरकं). मत्स्य . 108.27 ती
-
-नरकं स्मृतम् seems to be a misreading for वनरकं. Several tirthas called अनरक are known. Vide पद्म, आदि 27.56 and list.
-
-1400. देशस्थो यदि वारण्ये विदेशस्थोथवा गृहे । प्रयागं स्मरमाणोपि यस्तु प्राणान परित्यजेत्॥ नहालोकमवामोति बदन्ति ऋषिपुङ्गवाः। सर्वकामफला वृक्षा मही यहिरण्मयी। ऋषयो मुनयः सिद्धास्तत्र लोके स गच्छति॥ स्त्रीसहस्रावृते रम्ये मन्दाकिन्यास्तटे भी मौछते ऋषिभिः सार्धं सुकृतेनेह कर्मणा ।...ततः स्वर्गात्परिभ्रष्टो जम्बूद्वीपपतिर्भवत्। मत्स्य 40.5 341 q. by tratat p. 310, verses from firent are quoted from aby CRITO p. 25.
-
-R917NR
-
-विधीतमस्तु
-
-Bhandarkar Oriental Research Institute
-
-616
-
-History of Dharmaśāstra
-
-[Vol.
-
-trees yield all desires, where the earth is full of gold and where there are sages and munis and siddhas; he dwells on the bank of the Ganges full of thousands of women and enjoys the company of sages; when he comes down from heaven he becomes the lord of Jambūdvīpa.
-
-At most famous tirthas the pilgrim has to perform śrāddha, The Visnu Dh. S. (chap. 85) mentions about fifty-five sacred places which are fittest for śrāddha. The Kalpataru (on tirtha), the Gangāvākyāvali, Tir. C. and other digests quote several verses from the Devipurāṇa, the gist of which is as follows : Srāddha should be performed at tirthas, but there is no offering of arghya and no āvāhana (since pitrs are deemed to be always present at tīrthas, as the Kāśikhanda says) nor is the entering of the thumb of the invited brāhmaṇa into the food served done, nor is there the question about the brāhmaṇas being satiated, nor vikira 1401 If one is unable to follow the complete procedure of śrāddha one should merely offer pindas made from barley meal or may offer samyāva (cake of wheat flour fried with ghee and milk), rice boiled in milk, the cake of sesame (after the oil is extracted) or jaggery.1402 It should not be allowed to be seen by dogs, crows and vultures, it may be offered at any time after the pilgrim reaches the holy place. A śrāddha performed at a holy place gives great satisfaction to pitrs. Some of the works such as the Tristhalīsetusārasangraha of Bhattoji provide that after performing a pārvanaśrāddha at a tirtha and after making offerings of pindas to one's ancestors one should offer a single piṇda to one's other relatives with the following mantra : "Here I offer pinda to deceased persons of my father's family, and of my mother's family and to the deceased relatives of my guru and of my father-in-law, to those men of my family
-
-1401.37fararea a fungeraasaai areia fafane afire oraz hallg. by E. HT. #. p. 18; ara fat TAGET I Her feat:1 Bratea fagi (fra ?) ani az qala je u pitave 28.9; at Ebara harra: BATE Eoda natal ad q. in fer. FT. F. p. 20.
-
-1402. #: fqueqrai a pia: Mała ai cautare rauaka ya 71
-
-मत कर्तव्यमावाहनवजितम्। श्वध्वांक्षगृध्रकाकानां नैव दृष्टिहतं च यत्। श्राद्धं ततैर्थिकं प्रोक्तं पितॄणां प्रीतिकारकम् ।...कालेवाप्यथवाऽकाले तीर्थे श्राद्धं तथा नरैः । प्राप्तरेख सदा कार्य कर्तव्यं पितृतर्पणम्। पिण्डदानं च तच्छस्तं पितृणामतिवल्लभम् । विलम्बो नैव कर्तव्या न च विघ्नं समाचरेत् । पद्मपुराण V.29.212-218, q. by पृथ्वीचन्द्रोदय folio 135thand 136a. The same verses are quoted from देवीपुराण by कल्प. on तीर्थ 10, auf. pp. 10-11, utglar. p. 129. Vide thrę, pilafrave 6. 58-60 for some 3 the verses and area (72) 62. 41-42 for last two verses.
-
-FOUNDED
-
-দলচিত্র আনলে
-
-Bhandarkar Oriental Research Institute
-
-IV)
-
-Offering of pindas at tirthas
-
-617
-
-who were devoid of sons or wives and so who would lose the benefit of the pinda (to be offered by the son or wife) and in the case of whom all rites after death have ceased, those who were blind from birth or were cripples, those who were mal formed or died in the womb; to all these, whether known or unknown to me, may this (pinda) reach inexhaustively'! (Vāyu 110. 51-52). After this he should offer another pinda for his servants, slaves, friends, dependents, pupils, persons who conferred obligations on him, cattle, trees and those with whom he came in contact in other lives (Vāyu 110. 54-55). If a person is ill or has not the time to go through this elaborate pro cedure, then he should make a sankalpa that he would perform śrāddha and should offer a single pinda with the mantra (in Vāyu 110. 23-24) 'I offer this pinda to my father, grand-father, great-grand-father, to my mother, father's mother, grandfather's mother, to my maternal grandfather and to the latter's father and grandfather. May it reach them inexhaustively'!
-
-The Anuśāsana-parva, the Kūrmapurāṇa, Nāradiya (uttara) 63. 19-20 and 36-38 and others highly praise bathing at the sangama in the month of Māgha 1403 Men of all castes, women and those born of mixed unions can take this bath; sūdras, women and men of 'mixed castes should not repeat any mantra but should bathe silently or with the word 'namah' (Tri. S. p. 39). Similarly, the Padma, Kūrma, Agni and other Purānas wax eloquent over a bath for three days in Māgha saying that it is equal to the gift of three crores of cows. 1404 There is great divergence as to exactly what three days are meant, as pointed out by the Tri. S. p. 33. The various views are: the three days are the passage of the sun into Capricornus, Rathasaptami and the full moon day of Māgha; the three consecutive days including the 10th of the bright half of Māgha; the first three days of Māgha; the three consecutive days from the 13th day of the bright half of Māgha; any three days in Māgha.
-
-ST
-
-1403. दशतीर्थसहस्राणि षष्टिकोट्यस्तथापराः। समागच्छन्ति माध्यां तु प्रयागे भरतर्षभ। 312TH 25.36-37; reparere for grexafeitane I ATJAT TUR T TRAFFÀ EF# I. 38.1; HT 107.7 is very nearly the same.
-
-1404. गवां कोटिप्रदानाद्यत् व्यहं स्नानस्य तत्फलम् । प्रयागे माघमासे तु एवमा मैनी षिणः॥ आग्न. 111.10-11; गवां शतसहस्रस्य सम्यग्दत्तस्य यत्फलम् । प्रयागे माघमासे तु यह
-
-Paraty
-
-a ll T, 3111€ 44. 8, I. 38.2.
-
-H. D. 78

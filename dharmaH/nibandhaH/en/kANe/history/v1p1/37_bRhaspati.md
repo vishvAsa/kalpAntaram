@@ -128,17 +128,13 @@ The foregoing, therefore, establishes, that [[Bphaspati|Bṛhaspati]] was known 
 
 The Mit. on Yāj. III. 261 quotes a [[Vrddha-Bphaspati|Vṛddha-Bṛhaspati]] on the nine varieties of saṁkara.[^554] Kullūka on Manu ( 9. 181 ) cites a verse of [[Vșddha-Bphaspati|Vṛddha-Bṛhaspati]] about the eleven subsidiary 
 
-[^551]: सप्तहस्तेन दण्डेन त्रिंशद् दण्डा निवर्तनम् । दश तान्येव गोचर्म दत्त्वा स्वर्गे
+[^551]: सप्तहस्तेन दण्डेन त्रिंशद् दण्डा निवर्तनम् । दश तान्येव गोचर्म दत्त्वा स्वर्गे महीयते ॥ A similar verse occurs in the बृहस्पतिस्मृति (Jivananda, part I. p. 645 where the reading is दशहस्तेन ).
 
-महीयते ॥ A similar verse occurs in the बृहस्पतिस्मृति (Jivananda, part I. p. 645 where the reading is [[careata|दशहस्तेन]] ).
+[^552]: महानद्यन्तरं यत्र गिरिर्वा व्यवधायकः । वाचो यत्र विभिद्यन्ते तद् देशान्तरमुच्यते ॥ देशान्तरं वदन्त्येके षष्टियोजनमायतम् । चत्वारिंशद्वदन्त्यन्ये त्रिंशदन्ये तथैव च ॥
 
-[^552]: महानद्यन्तरं यत्र गिरिर्वा व्यवधायकः । वाचो यत्र विभिद्यन्ते तद् देशान्तरमुच्यते ॥ देशान्तरं वदन्येके षष्टियोजनमायतम् । चत्वारिंशद्वदन्त्यन्ये त्रिंशदन्ये तथैव च ॥
+[^553]: सुरापाने कामकृते ज्वलन्तीं तां विनिक्षिपेत् । मुखे तया विनिर्दग्धे मृतः शुद्धिमवाप्नुयात् ॥
 
-[^553]: सुरापाने कामकृते ज्वलन्तीं [[तो|तां]] विनिक्षिपेत् । मुखे तया विनिर्दग्धे मृतः शुद्धिमवाप्नुयात् ॥
-
-[^554]: यथाह वृद्धबृहस्पतिः । एकशय्यासनं [[पद्धिर्भाण्डपतयन्नमिश्रणम्|पङ्क्तिर्भाण्डपात्रान्नमिश्रणम्]] । याजनाध्यापने
-
-योनिस्तथा च सह भोजनम् । नवधा सङ्करः प्रोक्तो न कर्तव्योऽधमैः सह ॥ ‘These are ascribed to [[Vrddha-Brhaspati|Vṛddha-Bṛhaspati]] by Mit. on Yāj. [[14.|III. 261]] [[BOR|by]] Aparārka on p. 1086 ( with slight variations ) and [[batin candrikā|by Smṛticandrikā]] (Āhnika p. 10, [[Gbarpure|Gharpure]] ) and Gr. R. p. [[687|587]] ( [[13 Beiden pati's|as Bṛhaspati’s]] ).’ 
+[^554]: यथाह वृद्धबृहस्पतिः । एकशय्यासनं पङ्क्तिर्भाण्डपङ्क्त्यन्नमिश्रणम् । याजनाध्यापने योनिस्तथा च सह भोजनम् । नवधा सङ्करः प्रोक्तो न कर्तव्योऽधमैः सह ॥ ‘These are ascribed to Vṛddha-Bṛhaspati by Mit. on Yāj. III. 261, by Aparārka on p. 1086 ( with slight variations ) and by Smṛticandrikā ( Āhnika p. 10, Gharpure ) and Gṛ. R. p. 587 ( as Bṛhaspati's )’. 
 
 [[P491]]
 
@@ -158,60 +154,17 @@ Aparārka ( on Yāj. II. 151 pp. 761-62 ), Kalpataru ( on Vyavahāra on pp. 450-
 
 The Vyavahāranirṇaya of Varadarāja cites a verse ( on p. 132 ) as [[Bphaspati's|Bṛhaspati's]] in the work called ‘[[Pancādhyāyi'|Pañcādhyāyī’]] and again ( on p. 357 ) simply a verse in ‘[[Pascādhyāyī.'|Pañcādhyāyī.’]] It is possible that [[Pascadhyāyi|Pañcādhyāyī]] is an independent work in which [[Bphaspati|Bṛhaspati]] was quoted or it may be that [[Pañcūdhyāyi|Pañcādhyāyī]] is the name of the work of Bṛhaspati himself.[^555] 
 
-[^555]: The मिता. on या. I. 210 states ‘गोचर्मलक्षणं च बृहस्पतिना दर्शितम् । सप्तहस्तेन दण्डेन त्रिंशद्दण्डं निवर्तनम् । दश तान्येव गोचर्म दत्त्वा स्वर्गे महीयते । इति । ; अपरार्क quotes ( on p. 336 ) from the मत्स्यपुराण दण्डः सप्तहस्तेन त्रिंशद्दण्डा निवर्तनम् । विभागहीनं गोचर्म मानमाह प्रजापतिः ॥
+[^555]: The मिता. on या. I. 210 states ‘गोचर्मलक्षणं च बृहस्पतिना दर्शितम् । सप्तहस्तेन दण्डेन त्रिंशद्दण्डं निवर्तनम् । दश तान्येव गोचर्म दत्त्वा स्वर्गे महीयते ॥ इति’ ; अपरार्क quotes ( on p. 336 ) from the मत्स्यपुराण ‘दण्डः सप्तहस्तेन त्रिंशद्दण्डा निवर्तनम् । त्रिभागहीनं गोचर्म मानमाह प्रजापतिः ॥’ This is quoted by अपरार्क on p. 1225 from मत्स्यपुराण and on the same page he quotes बृहस्पति as ‘दशहस्तेन वंशेन दशवंशाः समन्ततः । पञ्च चाभ्यधिकस्तद्वदेतद्गोचर्मलक्षणम् ॥’ — Prof. Aiyangar quotes Hemādri first and it is not clear why he does not mention the Mit. and Aparārka first and why he should not have made a reference to the verses of Yāj. instead of referring to pages of some edition which many readers might not be able to get. अथ पञ्चाध्याय्यां बृहस्पतिः । त्रिवर्षं भुज्यते येन समक्षं भूरवादिता । तस्य सा नापहर्तव्या क्षमालिङ्गं न चेद्वदेत् ॥ चतुष्पाद्धनधान्यादि वर्षाद्धानिमवाप्नुयात् ॥ व्यव. नि. p. 132; पञ्चाध्याय्याम् ज्ञातिसामन्तधनिकाः ज्ञाते तात्कालिकाः स्मृताः । दशाहाद्यास्तु ते सर्वे क्रेतुर्विक्रेतुरेव च । ज्ञात्यादिगामी तत्क्षेत्रं विक्रेतुर्मूल्यकार्पणात् ॥ व्यव. नि. p. 357.
 
 
 [[P493]] 
 
-Prof. Aiyangar says ( on p. 493 of his reconstructed Bṛhaspati) that certain passages ( both [[nir.|in]] prose and verse ) attributed to [[Bșhaspati|Bṛhaspati]] in different [[Nibandbas|Nibandhas]] were noticed by him after the text had been sent to the press and then [[gets|sets]] out only two passages in prose from Viśvarūpa's Bālakrīḍā The commentary of Viśvarūpa was published at Trivandrum in two parts, the first in 1922 ( on Yāj. I and II, ācāra and vyavahāra) and the 2nd in 1924 (on Prāyaścitta). He began to collect materials for the reconstruction of Bṛhaspati after 1934. Therefore, he could have secured many more prose passages attributed to Bṛhaspati by Viśvarūpa. I set out a few more prose passages of Bṛhaspati from Viśvarūpa's [[com mentary|commentary]] alone. They are ten in all, most of which refer to Vyavahāra.[^556] [[Viśvaripa|Viśvarūpa]] also quotes five verses of Bṛhaspati, 
-
-
-
-
-
-
-
- 
-
-
-
- 
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-
-This is quoted by अपरार्क on p. 1225 from [[मत्स्य पुराण|मत्स्यपुराण]] and on the same page the [[quotos|quotes]] बृहस्पति as 'दशहस्तेन शेन दशवंशाः समन्ततः । पञ्च चाभ्यधिकस्तदेतद्गोचर्मलक्षणम् ॥ -- Prof. Aiyangar (quotes [[Homa. dri|Hemādri]] first and it is not clear why he does not mention [[tho|the]] Mit. and [[Anarārka|Aparārka]] first and why he should not have made [[&|a]] [[roforonce|reference]] to the [[Nerses|verses]] of Yāj. [[instond|instead]] of referring to pages of some edition which many [[roaders|readers]] might not be [[ablo|able]] to get. [[3780 qarTTGI|अथ पञ्चाध्याय्यां]] बृहस्पतिः । त्रिवर्षे भुज्यते येन समक्षं भूरवादिता । तस्य सा नापहर्तव्या क्षमालिङ्गं न चेद्वदेत् ॥ चतुष्पाद्धनधान्यादि वर्षाद्धानिमवाप्नुयात् ॥ व्यव. नि. p. 132; पञ्चाध्याय्याम् ज्ञातिसामन्तधनिकाः ज्ञाते तात्कालिकाः स्मृताः । दशाहाद्यास्तु ते सर्वे केतुर्[[विक्रतुरेव|विक्रेतुरेव]] च । ज्ञात्यादिगामी तत्क्षेत्र विक्रेतुर्मूल्यकार्पणात् ॥ व्यव. नि. p. 357.
-
-[^556]: (1) चोरापहृतं तु सर्वेभ्योऽन्विष्यार्पणीयम् । अलाभे स्वकोशाद्वा । अददच्चोर 
-
-किल्बिषी स्यात् ॥ on या. II. 38 ; (2) धनस्त्रीहारिपुत्राणां पूर्वाभावे यथोत्तर. माधमये तदभावे क्रमशोन्येषां रिक्थभाजाम् । on या. II. 47: (3) [[पादोपच यात्|पादोपचयात्]] क्रमेणेतरेषाम् । on या. II. 39 ; ( 4 ) उपस्थाप्य विपत्तावुपस्थाप्यस्य पुनः प्रतिभूर्दाप्यः । on या. II. 55; (5) अनन्वयिनः सर्व राजा हरेत्तदनुज्ञया वाऽ वरोधज इत्येके । on या. II. 138 ; [[(8)|(6)]] कामतः शूद्रावरोधजस्य भ्रातुरंशं संमानमात्रं प्रेते पितरि दयुः शुश्रूषुश्चेत् ॥ on या. II. 139 ; (7) राजा क्षेत्र दत्वा चातुर्वैयवणिग्वारिकसर्वग्रामीणतन्महत्तरस्वामि पुरुषाधिष्ठितं परिनित न्यात् । शासनं वा कुर्यात् । on या. II. 154 ; (8) यदि शूद्रो नेता स्यात .. 
-
-
-[[P494]]
-
-which have been noticed by Prof. Aiyangar. He, it appears, regards the quotations in prose and verse as belonging to the same author. In one [[proge|prose]] quotation Bṛhaspati is mentioned by name as stating a certain proposition. It is possible that Viśvarūpa regarded that all quotations (both prose and in verse) are to be attributed to [[oue|one]] author. One cannot [[dogma tise|dogmatise]] on such a point. But it is quite likely that the author of the verses was different from the author of the Sūtras quoted by Viśvarūpa. 
+Prof. Aiyangar says ( on p. 493 of his reconstructed Bṛhaspati) that certain passages ( both [[nir.|in]] prose and verse ) attributed to [[Bșhaspati|Bṛhaspati]] in different [[Nibandbas|Nibandhas]] were noticed by him after the text had been sent to the press and then [[gets|sets]] out only two passages in prose from Viśvarūpa's Bālakrīḍā The commentary of Viśvarūpa was published at Trivandrum in two parts, the first in 1922 ( on Yāj. I and II, ācāra and vyavahāra) and the 2nd in 1924 (on Prāyaścitta). He began to collect materials for the reconstruction of Bṛhaspati after 1934. Therefore, he could have secured many more prose passages attributed to Bṛhaspati by Viśvarūpa. I set out a few more prose passages of Bṛhaspati from Viśvarūpa's [[com mentary|commentary]] alone. They are ten in all, most of which refer to Vyavahāra.[^556] [[Viśvaripa|Viśvarūpa]] also quotes five verses of Bṛhaspati, [[P494]]which have been noticed by Prof. Aiyangar. He, it appears, regards the quotations in prose and verse as belonging to the same author. In one [[proge|prose]] quotation Bṛhaspati is mentioned by name as stating a certain proposition. It is possible that Viśvarūpa regarded that all quotations (both prose and in verse) are to be attributed to [[oue|one]] author. One cannot [[dogma tise|dogmatise]] on such a point. But it is quite likely that the author of the verses was different from the author of the Sūtras quoted by Viśvarūpa. 
 
 Prof. Louis Renou of Paris contributed to volume VI (1962) of the Indo-Iranian Journal ( Publishers, Moulton and Co., the Hague ) pp. 81-102 a learned paper (in French ) on the edition of the fragments of Bṛhaspati (collected ) by Prof. K. V. Rangaswami Aiyangar. It is not possible to mention here for reasons of space even the most salient points of his criticisms against Prof. Aiyangar's edition of [[Bșhas pati|Bṛhaspati]]. On p. 83 note 2 he observes that Prof. Aiyangar has not made use of P. V. Kane's learned edition of the fragments of Kātyāyana with translations and points out that the word 'nāstika' which is explained in H. of Dh. Vol. III pp. 464-5 and the incidents of the sale by a finder of an article lost by the owner (in Kātyāyana 622-623 ) are not set out by Prof. Aiyangar. It is unnecessary for the present author to dwell on the omissions pointed out by Prof. [[Reuou|Renou]] in Prof. Aiyangar's work, which latter simply collects passages with enormous details about the works and pages where the verses of Bṛhaspati occur with hardly a word of explanation anywhere. 
 
-An interesting point, with reference to the collections of verses quoted as from Bṛhaspati or Kātyāyana, the original Smṛtis of which are not now available, is the confusion 
+An interesting point, with reference to the collections of verses quoted as from Bṛhaspati or Kātyāyana, the original Smṛtis of which are not now available, is the confusion [[P495]]caused by the same verse being cited as from Bṛhaspati or Kātyāyana or Nārada or Manu ( both the latter Smṛtis [[beiug|being]] available in printed editions ). A few striking examples are cited (in the footnote). Some verses are attributed to both Bṛhaspati and [[Kityayana|Kātyāyana]] ( and sometimes to three viz. Nār., Bṛ., Kāt., or Manu, Bṛ. and Kāt. ).[^557] 
 
-क्लैब्येनालङ्कारेणालंकृत्य शवं भस्मना मुखं विलिप्यामेयस्य पशोऽशोणितेन पञ्चाङ्गलानि कृत्वा ग्रीवायामान्त्राणि प्रतिमुच्य सव्येन पाणिना सीमालोष्टं मूर्ति Errā i on [[AL.|या.]] II. 156 ; (9) TFT afecarcarrera 7751 
+[^556]: ( 1 ) चोरापहृतं तु सर्वेभ्योऽन्विष्यार्पणीयम् । अलाभे स्वकोशाद्वा । अददच्चोरकिल्बिषी स्यात् ॥ on या. II. 38 ; ( 2 ) धनस्त्रीहारिपुत्राणां पूर्वाभावे यथोत्तरमाधमर्ण्यं तदभावे क्रमशोन्येषां रिक्थभाजाम् । on या. II. 47 ; ( 3 ) पादोपचयात् क्रमेणेतरेषाम् । on या. II. 39 ; ( 4 ) उपस्थाप्य विपत्तावुपस्थाप्यस्य पुनः प्रतिभूर्दाप्यः । on या. II. 55 ; ( 5 ) अनन्वयिनः सर्वं राजा हरेत्तदनुज्ञया वाऽवरोधज इत्येके । on या. II. 138 ; ( 6 ) कामतः शूद्रावरोधजस्य भ्रातुरंशं संमानमात्रं प्रेते पितरि दद्युः शुश्रूषुश्चेत् ॥ on या. II. 139 ; ( 7 ) राजा क्षेत्रं दत्त्वा चातुर्वैद्यवणिग्वारिकसर्वग्रामीणतन्महत्तरस्वामि पुरुषाधिष्ठितं परिनिश्चिन्यात् । शासनं वा कुर्यात् । on या. II. 154 ; ( 8 ) यदि शूद्रो नेता स्यात् क्लैब्येनालङ्कारेणालंकृत्य शवं भस्मना मुखं विलिप्यामेध्यस्य पशोः शोणितेन पञ्चाङ्गलानि कृत्वा ग्रीवायामान्त्राणि प्रतिमुच्य सव्येन पाणिना सीमालोष्टं मूर्ध्नि धारयेत् । on या. II. 156 ; ( 9 ) राजवृद्धौ संकितवात्सभिकाद्दशकं शतम् । यथासमयं वा स्यात् । on या. II. 204 ; ( 10 ) द्वादशरात्रं पञ्चगव्याहारः । षड्रात्रं वा यावकाहारो गोष्ठे वसेत् । देशकालशक्त्यनुरूपं वा भवेत् । श्मश्रुनखाद्यपनयनं कृत्वा ब्राह्मणान् प्रणिपत्यानुज्ञातोऽन्ते गां वृषं वा तन्मूल्यं दत्त्वा ब्राह्मणान् भोजयित्वा शुद्ध्येदित्याह बृहस्पतिः । on या. III. 262.
 
-UTAHI | FITTI I on [[IT.|या.]] II. 204; (10) TTTSI 92 TOJIETT: 1 षड्रात्रं वा यावकाहारो गोष्ठे वसेत् । देशकालशक्त्यनुरूपं वा भवेत् । म व नखाद्यपनयनं कृत्वा ब्राह्मणान् प्रणिपत्यानुज्ञातोऽन्ते गां वृष वा तद्वय ददाता ATT TT7 311afercar prefera terata: 1 11. VII. 202. W 
-
-[[P495]]
-
-caused by the same verse being cited as from Bṛhaspati or Kātyāyana or Nārada or Manu ( both the latter Smṛtis [[beiug|being]] available in printed editions ). A few striking examples are cited (in the footnote). Some verses are attributed to both Bṛhaspati and [[Kityayana|Kātyāyana]] ( and sometimes to three viz. Nār., Bṛ., Kāt., or Manu, Bṛ. and Kāt. ).[^557] 
-
-[^557]: (1) प्रतिज्ञादोषनिर्मुक्तं साध्यं सत्कारणान्वितम् । निश्चितं लोकसिद्धं च पक्षं पक्षविदो विदुः ॥ विश्वरूप cites without name on Yāj. II. 6 ; व्यव. मा. p. 291, कल्पतरु (व्यवहार p. [[8t|61]] ascribes to बृह. and [[कात्या..|कात्या.]] [[अपराके|अपरार्क]] p. 810, स्मृतिच. (व्य. p. 40) and परा. मा. III. p. 81 ascribe to बृहस्पति. (2) तपग्विनां तु कार्याणि विथैरेव कारयेत् । मायायोगविदां चैव न स्वयं कोपकारणात् ॥ व्य. मा. p. 281 ascribes to both बृहस्पति and कात्या०. and वीर p. 30 to बृह० ; व्यव. नि. p. 12 to बृह. It occurs in कौटिलीय I. 19. 32. (3) लेख्यदोषास्तु ये केचित्सा क्षणां चैव ये स्मृताः । वादकाले तु वक्तव्याः पश्चादुक्तान द्वषयेत् ॥ स्मृतिच. ( व्य. p. 83 ) ascribes to कात्या. ; अपरार्क p. 872, वीर. p. 184, व्य. म. p. 39 ( to बृह० ). (4) अर्थिना संनियुक्तो वा प्रत्यर्थिप्रहितोपि वा । यो यस्यार्थे विवदने तयोर्जय पराजयौ ॥ अपरार्क p. 639 ascribes to कात्या., व्य. मा. p. 287 to नारद and कात्या. [[(6)|(5)]] अनुपस्थापयन्मूलं क्रयं वाप्यशोधयन् । यथाभियोगं धनिने धनं दाप्यो दम च सः । मिता. on या. II. ( 170 ascribes to Manu ) ; स्मृतिच. ( व्यव. ) p. 216, वि. र. p. 108, व्य. म. p. 197, वीर[[•|०]] p. 381 ascribes to कात्या, [[(8)|(6)]] योगाधमनविक्रीतं योगदानप्रतिग्रहम् । यस्य वाप्युपधिं पश्येत्तत्सर्व विनि वर्तयेत् ।। अपरार्क p. 783 ascribes to कात्या ; स. वि. (सरस्वतीविलास p. 287 to नारद. This is मनु 8. 165. (7) आहूय साक्षिणः पृच्छेनियम्य शपथैभृशम् । समस्तान्विदिताचारान्विज्ञा तार्थान्पृथक् पृथक् ।। मिता. on या. II. 73 ascribes to कात्या० ; अपरार्क ascribes to नारद. (8) साहसस्तेयपारुष्यगोभिशापे तथा च ये। भूमौ च पादपे क्षिप्रमकालेपि बृहस्पतिः ॥ कल्पतरु (व्यव. p. 67) ascribes to both कात्या. and बृह., and परा. मा. III p. [[17t|171]] ascribes to बृह. (9) सानिध्येपि पितुः पुत्रैऋणं देय विभावितम् । जात्यन्धपनितोन्मत्त क्षयश्वित्रा. दिरोगिणः ॥ कात्या. act. to अपरार्क. p. 650 वि. र. p. 51, वि. चि, p. 18, परा. मा. III. p. 263. In the Introduction to my edition of [[ENT|the]] reconstruction of Kātyāyana I have (on pp. VIII-X) pointed out many verses that are common to Kātyāyana, Bṛhaspati, Nārada and Manu. 
+[^557]: ( 1 ) प्रतिज्ञादोषनिर्मुक्तं साध्यं सत्कारणान्वितम् । निश्चितं लोकसिद्धं च पक्षं पक्षविदो विदुः ॥ विश्वरूप cites without name on Yāj. II. 6 ; व्यव. मा. p. 291, कल्पतरु (व्यवहार p. 61) ascribes to बृह. and कात्या., अपरार्क p. 810, स्मृतिच. (व्य. p. 40) and परा. मा. III. p. 81 ascribe to बृहस्पति. ( 2 ) तपस्विनां तु कार्याणि त्रैविद्यैरेव कारयेत् । मायायोगविदां चैव न स्वयं कोपकारणात् ॥ व्य. मा. p. 281 ascribes to both बृहस्पति and कात्या०. and वीर p. 30 to बृह० ; व्यव. नि. p. 12 to बृह. It occurs in कौटिलीय I. 19. 32. ( 3 ) लेख्यदोषास्तु ये केचित्साक्षिणां चैव ये स्मृताः । वादकाले तु वक्तव्याः पश्चादुक्तान्न दूषयेत् ॥ स्मृतिच. ( व्य. p. 83 ) ascribes to कात्या. ; अपरार्क p. 672, वीर० p. 164, व्य. म. p. 39 ( to बृह० ). ( 4 ) अर्थिना संनियुक्तो वा प्रत्यर्थिप्रहितोऽपि वा । यो यस्यार्थे विवदते तयोर्जयपराजयौ ॥ अपरार्क p. 639 ascribes to कात्या., व्य. मा. p. 287 to नारद and कात्या. ( 5 ) अनुपस्थापयन्मूलं क्रयं वाप्यशोधयन् । यथाभियोगं धनिने धनं दाप्यो दमं च सः ॥ मिता. on या. II. 170 (ascribes to Manu) ; स्मृतिच. ( व्यव. ) p. 215, वि. र. p. 108, व्य. म. p. 197, वीर० p. 381 ascribes to कात्या. ( 6 ) योगाधमनविक्रीतं योगदानप्रतिग्रहम् । यस्य वाप्युपधिं पश्येत्तत्सर्वं विनिवर्तयेत् ॥ अपरार्क p. 783 ascribes to कात्या ; स. वि. (सरस्वतीविलास) p. 287 to नारद. This is मनु 8. 165. ( 7 ) आहूय साक्षिणः पृच्छेन्नियम्य शपथैर्भृशम् । समस्तान्विदिताचारान्विज्ञातार्थान्पृथक् पृथक् ॥ मिता. on या. II. 73 ascribes to कात्या० ; अपरार्क ascribes to नारद. ( 8 ) साहसस्तेयपारुष्यगोभिशापे तथा च ये । भूमौ च पादपे क्षिप्रमकालेऽपि बृहस्पतिः ॥ कल्पतरु (व्यव. p. 67) ascribes to both कात्या. and बृह., and परा. मा. III p. 171 ascribes to बृह. ( 9 ) सांनिध्येऽपि पितुः पुत्रैर्ऋणं देयं विभावितम् । जात्यन्धपतितोन्मत्तक्षयश्वित्रादिरोगिणः ॥ कात्या. acc. to अपरार्क. p. 650, वि. र. p. 51, वि. चि. p. 18, परा. मा. III. p. 263. In the Introduction to my edition of the reconstruction of Kātyāyana I have (on pp. VIII-X) pointed out many verses that are common to Kātyāyana, Bṛhaspati, Nārada and Manu. 

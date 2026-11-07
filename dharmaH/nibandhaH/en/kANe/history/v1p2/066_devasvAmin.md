@@ -3,6 +3,8 @@ title = "066 Devasvāmin"
 
 +++
 
+[[P591]]
+
 66. Devasvāmin
 
 The Smṛticandrikā tells us that Devasvāmin composed like [[Srīkara|Śrīkara]] and [[Sambhu|Śambhu]] a work in the nature of a digest of *smṛtis* (*smṛtisamuccaya*). Vide note 748 above. The commentary of Nārāyaṇa of the Naidhruva gotra, son of Divākara, on the Āśvalāyanagṛhyasūtra[^788] says that it relies upon the bhāṣya of Devasvāmin on the same work. Gārgya Nārāyaṇa, son of Narasiṁha, in his commentary on the Āśvalāyana-śrautasūtra, tells us that he follows the bhāṣya of Devasvāmin thereon. It is hardly likely that two writers of the same name flourished about the same time. Hence it may be assumed that Devasvāmin wrote bhāṣyas on the Āśvalāyana Śrauta and Gṛhya sūtras and a digest of smṛtis, where he discussed all topics of dharma, such as ācāra, vyavahāra, āśauca &c. The commentary of [[Bhattoji|Bhaṭṭoji]][^789] on the Caturviṁśatimata refers to the view of Devasvāmin on śrāddha and āśauca. Hemādri[^790] (vol. III, part 2, p. 324) and Mādhava (on Parāśara, vol. I, part 2, p. 328) also quote Devasvāmin. The Smṛticandrikā quotes the views of Devasvāmin on vyavahāra

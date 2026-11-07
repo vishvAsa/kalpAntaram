@@ -30,26 +30,26 @@ The Kālaviveka as its name implies contains discussions as to the appropriate s
 enumerated in the note below.[^993] Most of these *nibandhakāras* are quoted by him in his two other works also. Yogīśvara[^994] seems to be an author different from Yājñavalkya who also is styled Yogīśvara, since the view ascribed to him is not found in Yāj. In some copies of the Mit. also an author[^995] Yogīśvara is named who explained the conflicting texts about a widow's right to succeed to her husband. But Yogīśvara in the Mit. is probably a misprint or copyist's error for Dhāreśvara as some Mss. read Dhāreśvara. In the Kālaviveka Jīmūtavāhana makes frequent and effective use of Pūrvamīmāṃsā maxims[^996] and shows that he had made a profound study of that system. In the Durgotsavaviveka[^997] of Śūlapāṇi the Kālaviveka is quoted. It is also [[P702]] quoted in the Śrāddhacintāmaṇi of Vācaspati, in the Śrāddhakaumudī (p. 328) and Varṣakriyākaumudī of Govindānanda and in several Tattvas of Raghunandana, e. g. (Vol. I) Tithi 141, 144, Āhnika 341, Mala° 834, (Vol. II) Ekādaśī 41, 46, 87 (ed. of 1895).
 
 [^993]:
-    अन्धक, अमरकोश, उत्पल (p. 294), गोविन्दराज, जितेन्द्रिय, दीक्षित, (p. 92), धवल, पञ्जिकाकारमिश्र (p. 63), भोजदेव (p. 293), भवधन (p. 423), मागुरि (p. 14), योगीश्वर (p. 200), योगलोक, वार्तिककारपाद (p. 79), विश्वरूप (p. 304), शङ्करगीता (p. 477), शङ्खधर, षड्त्रिंशन्मत, संभ्रमभट्ट, स्मृतिमीमांसा, स्मृतिसमुच्चय (p. 102), हरिवंश.
+    अन्धुक, अमरकोश, उत्पल ( p. 294 ), गोविन्दराज, जितेन्द्रिय, दीक्षित ( p. 92 ), धवल, पञ्जिकाकारमिश्र ( p. 63 ), भोजदेव ( p. 290 ), भवधन ( p. 423 ), भागुरि ( p. 14 ), योगीश्वर ( p. 200 ), योग्लोक, वार्तिककारपाद ( p. 79 ), विश्वरूप ( p. 304 ), शङ्करगीता ( p. 477 ), शङ्खधर, षट्त्रिंशन्मत, संभ्रमभट्ट, स्मृतिमीमांसा, स्मृतिसमुच्चय ( p. 102 ), हरिवंश.
 
-    It may be noted that both Svalpa-Yogloka and Bṛhad-Yogloka are mentioned in the Kālaviveka (pp. 490, 505) and Yogloka is criticized very often and is dubbed ‘Tārkikam-manya’ (who regards himself as a logician but was really not so); vide Vyavahāramātṛkā, p. 291 for this.
+    It may be noted that both Svalpa-Yogloka and Bṛhad-Yogloka are mentioned in the Kālaviveka ( pp. 490, 505 ) and Yogloka is criticized very often and is dubbed ‘Tārkikam-manya’ ( who regards himself as a logician but was really not so ) ; vide Vyavahāramātṛkā, p. 291 for this.
 
 [^994]:
-    ‘कन्यायां श्रावणद्वये प्रथमे शक्रोत्थानं द्वितीये तु दुर्गाया इति योगीश्वरेण व्याख्यातो द्विराषाट्कल्पः स पुनरनुपपन्न इति मन्यामहे ।’ कालविवेक p. 200; vide p. 237 also ‘तत्र योगीश्वरमते द्विश्रुके चोत्थानप्रसक्ते’ from which जीमूतवाहन differs.
+    ‘ कन्यायां श्रावणद्वये प्रथमे शक्रोत्थानं द्वितीये तु दुर्गाया इति योगीश्वरेण व्याख्यातो द्विराषाढकल्पः स पुनरनुपपन्न इति मन्यामहे ।’ कालविवेक p. 200; vide p. 237 also ‘तत्र योगीश्वरमते वृश्चिके चोत्थानप्रसक्ते’ from which जीमूतवाहन differs.
 
 [^995]:
-    एवमादीनां विरुद्धार्थानां वाक्यानां योगीश्वरेण (v. l. धारेश्वरेण) व्यवस्था दर्शिता । पत्नी गृह्णीयादित्येतद्वचनजातं विभक्तप्रातृभ्रातृविषयम् । सा च यदि नियोगार्थिनी भवति । मिता० on याज्ञ. II. 135.
+    एवमादीनां विरुद्धार्थानां वाक्यानां योगीश्वरेण ( v. l. धारेश्वरेण ) व्यवस्था दर्शिता । पत्नी गृह्णीयादित्येतद्वचनजातं विभक्तभ्रातृस्त्रीविषयम् । सा च यदि नियोगार्थिनी भवति । मिता० on याज्ञ. II. 135.
 
 [^996]:
-    e. g. on p. 13 देशभेदेन चान्द्रे सौरे च प्रयोगदर्शनात् विशेषानवधारणात् । न च यवराहवत् प्रयोगानिर्णयः । उभयोरपि तदविशेषाद् । This refers to जैमिनि I. 3. 8-9.
+    e. g. on p. 13 देशभेदेन चान्द्रे सौरे च प्रयोगदर्शनात् विशेषानवधारणात् । न च यववराहवत् प्रयोगानिर्णयः । उभयोरपि तदविशेषात् । This refers to जैमिनि I. 3. 8-9.
 
 [^997]:
-    कन्यासंस्थे रवौ वत्सद्वादश्यामारभ्य नन्दिकाम् । नन्दिका प्रतिपदिति जीमूतवाहनः ॥ दुर्गोत्सवविवेक (p. 6 Sanskrit Sāhityapariṣad ed.); vide कालविवेक p. 513 for this. The वर्षक्रियाकौमुदी (p. 51) quotes a text from कालविवेक which occurs on pp. 443 and 447 of the latter.
+    कन्यासंस्थे रवौ वत्सशुक्लामारभ्य नन्दिकाम् । नन्दिका प्रतिपदिति जीमूतवाहनः ॥ दुर्गोत्सवविवेक ( p. 6 Sanskrit Sāhityapariṣad ed. ) ; vide कालविवेक p. 513 for this. The वर्षक्रियाकौमुदी ( p. 51 ) quotes a text from कालविवेक which occurs on pp. 443 and 447 of the latter.
 
 The Vyavahāramātṛkā as its very name implies deals with the elements of *vyavahāra* (i. e. judicial procedure). It speaks of the eighteen titles of law, the derivation of the word *prāḍvivāka* (judge), the persons fit to be appointed judges, different grades of courts, duties of *sabhyas*, four stages of *vyavahāra*, *pūrvapakṣa* (plaint), *pratibhū* (surety), blemishes in a plaint, *uttara* (reply of the defendant), four kinds of *uttara*, blemishes in *uttara*, *kriyā* (proof or burden of proof), divine (*daivī*) and human (*mānuṣī*) proof (viz.: ordeals, inference, witnesses, documents, possession), persons incompetent to be witnesses. Ordeals have not been dealt with by the author. The first verse of the work[^998] styles it Vyavahāramātṛkā. The last verse[^999] but one suggests the name Nyāyamātṛkā which practically is a synonym of Vyavahāra-mātṛkā and the colophon at the end of a ms. in the Govt. Mss. library at the B.O.R. Institute calls it Nyāyaratnamālikā.
 
 [^998]:
-    व्यवहारमातृकेवा सकलविवादेषु धर्मवादार्थम् । लोकद्वयेपि रक्षति सुतमिव सुहृदया माता ॥
+    व्यवहारमातृकैषा सकलविवादेषु धर्मवादार्थम् । लोकद्वयेपि रक्षति सुतमिव शुश्रूषया माता ॥
 
 [^999]:
     पारिभद्रकुलोद्भूतः श्रीमान् जीमूतवाहनः । विदुषां परितोषाय निर्ममे न्यायमातृकाम् ॥
@@ -149,9 +149,9 @@ On Jīmūtavāhana, his work and times one may read with profit Rai Bahadur Manm
 As to Jīmūtavāhana's time there is a sharp divergence of views among scholars. Jīmūtavāhana mentions Dhāreśvara Bhojadeva in his three works and Govindarāja in the Dāyabhāga (XI. 2. 22-23. Jiv. ed. 1893). Vide above under Govindarāja (p. 657 n. 897a.). Therefore he cannot be placed earlier than about 1125 A. D. The divergence of views among scholars concerns the latest date to which he is to be assigned. M. M. Chakravarti (J.A.S.B. vol. XI. pp. 322-324) points out that the Kālaviveka of Jīmūtavāhana is quoted in the Durgotsavaviveka of Śūlapāṇi and therefore Jīmūtavāhana cannot be placed later than the end of the 14th century A. D. Another argument for an early date is supplied by the astronomical references in the Kālaviveka. It may be noted that in the Kālaviveka (the earliest of his three works) he refers to the rising of the star Agastya (Canopus) in his own day in his homeland in Rāḍhā and in Ujjayinī. He says[^1018] ‘the rising of Canopus takes place on different days according to the country (in which an observer resides); to illustrate, that star is first seen in Rāḍhā when seven days are yet to run of the month of Bhādrapada, while in Ujjayinī it rises when only four days of Bhādrapada are yet to run; again he notes that Agastya is seen rising in Ujjayinī when twenty-six days of Leo have passed away and in Rāḍhā, Canopus is first seen rising when twenty-three days of the sign of Leo are past. Here it is clear that he is referring to the appearance of heavenly bodies in his own day.’ In other [[P713]] passages of the Kālaviveka, where there are astronomical references to heavenly bodies we should presume that he refers to what he himself saw or knew personally (unless there are clear indications to the contrary in the passage itself or near it). For example, he refers to the eighth day after the Sun's entering in Tulā (Libra) in the Śaka year 1014 (i. e. 1092 A. D.) and the seventeenth day after the Sun entered the sign of Tulā in the year 1013 (i. e. 1091 A. D.). Probably these dates may refer to his boyhood or youth.[^1018a]
 
 [^1018]:
-    किं च । अगस्त्योदयस्य देशभेदेन अनियतकालत्वात् । तथाहि । राढादिषु सप्त-दिनावशिष्टे भाद्रे तस्योदयः । उज्जयिन्यां च दिनचतुष्टयावशिष्ट इत्यनन्तरमेव वाच्यम् । कालविवेक p. 290; again कन्यामगते सूर्ये सिंहस्थे षड्विंशति-दिनेषु गतेष्वगस्त्योदयः । तदनन्तरमर्वाग्देश्यः । राढादिषु तु सिंहस्य त्रयोविंशति दिनेषु गतेषूदयो भवति । कालविवेक p. 291. अर्थ means पूजाविधि here, ‘मूल्ये पूजाविधावर्थः’ अमरः।
+    किं च । अगस्त्योदयस्य देशभेदेन अनियतकालत्वात् । तथाहि । राढादिषु सप्त-दिनावशिष्टे भाद्रे तस्योदयः । उज्जयिन्यां च दिनचतुष्टयावशिष्ट इत्यनन्तरमेव वाच्यम् । कालविवेक p. 290; again कन्यामगते सूर्ये सिंहस्थे षड्विंशति-दिनेषु गतेष्वगस्त्योदयः । तदनन्तरमर्घो देयः । राढादिषु तु सिंहस्य त्रयोविंशति दिनेषु गतेषूदयो भवति । कालविवेक p. 291. अर्घ means पूजाविधि here. ‘मूल्ये पूजाविधावर्घः’ अमर०.
 
 [^1018a]:
-    तथाहि चतुर्दशोत्तरसहस्रशकाब्दे तुलास्थादिसप्तमदिनोपक्रान्तस्य प्रतिपदादि-दशान्तमासस्य पौर्णमास्यश्विनीभरणीभ्यां व्याप्ता कृत्तिकारोहिण्योरन्यतरयोगाच्च कार्तिकः । कालविवेक pp. 49-50.
+    तथापि चतुर्दशोत्तरसहस्रशकाब्दे तुलास्थादित्याष्टमदिनोपक्रान्तस्य प्रतिपदादि-दर्शान्तमासस्य पौर्णमास्यश्विनीभरणीभ्यां व्याप्ता कृत्तिकारोहिण्योरन्यतरयोगाच्च कार्तिकः । कालविवेक pp. 49-50.
 
-    तथा त्रयोदशोत्तरसहस्रशकाब्दे तुलादिस्थस्य सप्तदशदिने चित्रा स्वातीत्याप्ता-मावास्या वृश्चिकादित्ये चानुराधा ज्येष्ठाभ्यां युक्तेति । तद्वत्सरे तस्यां विशाखायोगो न दृष्ट एव &c. । कालविवेक p. 64.
+    तथा त्रयोदशोत्तरसहस्रशकाब्दे तुलादित्यस्य सप्तदशदिने चित्रा स्वातीव्याप्ता-मावास्या वृश्चिकादित्ये चानुराधा ज्येष्ठाभ्यां युक्तेति । तद्वत्सरे तस्यां विशाखायोगो न वृत्त एव &c. । कालविवेक p. 64.

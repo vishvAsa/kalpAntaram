@@ -3,6 +3,8 @@ title = "069 Bālarūpa"
 
 +++
 
+[[P596]]
+
 69. Bālarūpa
 
 In the [[Smrtisāra|Smṛtisāra]] of Harinātha (I. O. cat. No. 301, folio 128a ff) there is a long passage setting out the views of Bālarūpa on the question of the succession to a childless man. In the Vivādacandra[^811] of Misaru-miśra the opinions of Bāla-

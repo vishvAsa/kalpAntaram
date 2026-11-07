@@ -58,58 +58,58 @@ The ideas about the wrong committed by a younger brother or sister marrying befo
 there is a succession of persons who are all guilty of blame or sin and each preceding one among whom is said to have passed it on to each succeeding one viz. *sūryābhyudita*, *sūryābhinimrukta*, *kunakhin*, *śyāvadat*, *agredidhiṣū*, *parivitta*, *vīrahan*, *brahmahan*. The *Vās. Dh.*[^1270] S. I. 18 arranges persons called sinners (*enasvin*) almost in the same order as in the *Tai. Br.* Here (in *Tai. Br.*) we have *parivitta* and *agredidhiṣū*. In another passage of the *Tai. Br.* (III. 4. 4) while speaking of *Puruṣamedha*, it is said that the *parivitta* is consigned as a victim to ill-luck (*niraṣṭi*), the *parivividāna* to distress (*ārti*) and the *didhiṣūpati* to non-success (*aruddhi*).
 
 [^1253]:
-    तं होवाच किं विद्वानो वाल्भ्यानामन्य मधुपर्क [[पिषसीति|पिबसीति]] । [[जै. उ. मा. I. 4|जै. उ. ब्रा. 18. 4]] ; [[निरुक्त I. 16|जानते मधुपर्कं प्राह । निरुक्त I. 16]].
+    तं होवाच किं विद्वान्नो दाल्भ्यानामन्य मधुपर्कं पिबसीति । जै. उ. ब्रा. 18. 4 ; जानते मधुपर्कं प्राह । निरुक्त I. 16.
 
 [^1254]:
-    [[यो वा राजानं वा मनुष्येष्वभ्यागच्छेत् अन्यं वा यमुत्तमं मन्येरन् स एनं हतामुपविशेत् तामेनां वध्यां कुर्यात् अथवा गौरमुपसर्पयेत् इति Ait. Br. III. 4. This is quoted by Aparārka on Manu III. 119 and by Kullūka on Manu III. 119.|तद्यथैवादो मनुष्यराज आगतेऽन्यस्मिन्वाऽर्हत्युक्षाणं वा वेहतं वा क्षदन्ते । ऐ. ब्रा. III. 4. This is quoted by Medhātithi on Manu III. 119 and by Haradatta on Gautama 17. 30.]]
+    तद्यथैवादो मनुष्यराज आगतेऽन्यस्मिन्वार्हति उक्षाणं वा वेहतं वा क्षदन्ते । ऐ. ब्रा. III. 4. This is quoted by मेधा० on मनु III. 119 and by हरदत्त on गौतम 17. 30.
 
 [^1255]:
-    [[एष एव मधुपर्को दातव्यः ऋत्विग्भ्यो वेदवित्भ्यः स्नातकाय राजने आचार्याय श्वशुराय पितृभ्यो मातुलभ्यः Ait. T. I.24. 1-4. The bride-groom, when he comes to the bride's house, is to be honoured with arghya because he also is generally an honored guest. The ācārya is one who performs one's yajña and teaches the Veda.|ऋत्विजो वृत्वा मधुपर्कमाहरेत् । स्नातकायोपस्थिताय । राज्ञे च । आचार्य-श्वशुर-पितृव्य-मातुलानां च । आश्व. गृ. I.24. 1-4. The bride-groom, when he comes to the bride's house, is to be honoured with मधुपर्क because he also is generally a स्नातक. The आचार्य is one who performs one's उपनयन and teaches the Veda.]]
+    ऋत्विजो वृत्वा मधुपर्कमाहरेत् । स्नातकायोपस्थिताय । राज्ञे च । आचार्य-श्वशुरपितृव्यमातुलानां च । आश्व. गृ. I. 24. 1-4. The bride-groom, when he comes to the bride's house, is to be honoured with मधुपर्क because he also is generally a स्नातक. The आचार्य is one who performs one's उपनयन and teaches the Veda.
 
 [^1256]:
-    तथैते [[ऋत्विक्|अर्घ्या ऋत्विक्]] श्वशुरः पितृव्यो मातुल [[आचार्यों|आचार्यो]] राजा वा स्नातकः प्रियो वा [[अतिथिः|अतिथिरिति]] । [[Baud. Gṛ.|बौ. गृ.]] I. 2. 65.
+    तथैते अर्घ्या ऋत्विक् श्वशुरः पितृव्यो मातुल आचार्यो राजा वा स्नातकः प्रियो वरोऽतिथिरिति । बौ. गृ. I. 2. 65.
 
 [^1257]:
-    गृह्यपरिशिष्टम् यस्य गृहे विशिष्टः तस्यैव शाखानुसारं मधुपर्कः दातव्यः न तु दातरि । quoted in [[S. Pr.|स्मृ. प्र.]] p. 823.
+    वरस्य या भवेच्छाखा तच्छाखागृह्यचोदितः । मधुपर्कः प्रदातव्योऽप्यन्यशाखेपि दातरि ॥ quoted in सं. प्र. p. 823.
 
 [^1258]:
-    Vide Appendix for text.
+    Vide Appendix for text
 
 [^1259]:
-    आसनं पाद्यं अर्घ्यं आचमनीयं मधुपर्कं च पञ्चैव यथाक्रमं दातव्यम् 'विष्टः' परिशिष्ट quoted by [[S. Pr.|स्मृ. प्र.]] p. 821. अर्घ्य is water for washing the hands in which flowers and perfume (like sandal-wood paste) have been mixed up. [[अर्घ्य पदार्थस्य|अर्घ्यपदार्थस्य]] लक्षणं यथा पुष्पाद्यैर्[[वाषितं|वासितं]] तोयं हस्तप्रक्षालनार्थं च तत् अर्घ्यम् [[Aśv. Gṛ.|आश्व. गृ.]] I. 24. 11.
+    A विष्टर is a seat with 25 दर्भs. 'पञ्चाशता भवेद्ब्रह्मा तदर्धेन तु विष्टरः' परिशिष्ट quoted by सं. प्र. p. 821. अर्घ्य is water for washing the hands, in which flowers and perfume (like sandal-wood paste) have been mixed up. गन्धमाल्यादिसंयुक्तमुदकमर्घ्यमित्युच्यते । नारायण on आश्व. गृ. I. 24 11.
 
 [^1260]:
-    अहमस्मि प्रथमजा ऋतस्य &c.—This occurs in Taittirīya Brāhmaṇa I. 3 and Śatapatha Brāhmaṇa I. 9. 8 with slight variations.
+    अहं वर्ष्म &c.—This occurs in पारस्कर I. 3 and मानवगृह्य I. 9. 8 with slight variations.
 
 [^1261]:
-    The words [[अमृतस्योपस्तरणमसि|अमृतोपस्तरणमसि]] occur in the description of [[Ācāmana|मधुपर्क]] in [[Śānkh. Gṛ. S. II. 10. 3|Āp. Mantrapāṭha II. 10. 3]] and [[Āśv. Gṛ. S. I. 9. 15|Āp. Gṛ. 13. 13, Śānkhāyana I. 9. 15]].
+    The words अमृतोपस्तरणमसि occur in the description of मधुपर्क in आप. मन्त्रपाठ II. 10. 3 and आप. गृ. 13. 13., मानवगृह्य. I. 9. 15.
 
 [^1262]:
-    The three verses Ṛg. I. 90. 6-8 all begin with the word मधु '[[मधु वाता ऋतायते|मधु वाता ऋतायते मधु क्षरन्ति सिन्धवः]]' (6), 'मधु नक्तमुतोषसो' (7), 'मधुमान् नो वनस्पतिः' (8) and so are very appropriate to [[the ritual|मधुपर्क]]. They occur in [[Vāj. S.|वाज. सं.]] 13. 27-29, are called [[Madhumatī|मधुमती]] verses and employed in [[Āśv. Gṛ. I. 3|पार. गृ. I. 3]], also in [[Śānkh. Gṛ. I. 9. 14|शाङ्खाय. I. 9. 14]].
+    The three verses Ṛg. I. 90. 6-8 all begin with the word मधु 'मधु वाता ऋतायते मधु क्षरन्ति सिन्धवः' (6), 'मधु नक्तमुतोषसो' (7), 'मधुमान्नो वनस्पतिः' (8) and so are very appropriate to मधुपर्क. They occur in वाज. सं. 13. 27-29, are called मधुमती verses and employed in पार. गृ. I. 3, also in मानवगृह्य I. 9. 14.
 
 [^1263]:
-    The three [[mantras|मन्त्राः]] [[अमृतस्य दुग्धमसि|विराजो दुहेऽस्मीति]] &c. occur in *Pār. Gṛ.* I. 3 (but at the time of receiving the *arghya* water), *Śānkh. Gṛ.* III. 7. 5, *Mānava Gṛ.* I. 9. 7 &c. Some held that he should partake of the madhuparka at one time after repeating the three *mantras* at once.
+    The three मन्त्रs 'विराजो दोहोऽसीति &c.' occur in Pār. gṛ. I. 3 (but at the time of receiving the arghya water), Sāṅ. gṛ. III. 7. 5, Mānava gṛ. I. 9. 7 &c. Some held that he should partake of the madhuparka at one time after repeating the three mantras at once.
 
 [^1264]:
-    अमृतस्य पिधानमसि—this मन्त्र occurs also in [[Śānkh. Gṛ. S. II. 10. 4|Āp. M. P. II. 10. 4]] and [[Āśv. Gṛ. S. I. 9. 15|Āp. Gṛ. 13. 13]].
+    अमृतापिधानमसि-this मन्त्र occurs also in आप. म. पा. II. 10. 4 and आप. गृ. 13. 13.
 
 [^1264A]:
-    The verse मातरं रुद्राणाम् (referring to the cow) is mentioned in several Gṛhyasūtras such as the [[Mānava Gṛ. (I. 9. 23)|Mānava Gṛhya Sūtra (I. 9. 23)]], [[Pār. Gṛ. (1.3)|Pāraskara Gṛhya Sūtra (I. 3)]], [[Baud. Gṛ. I. 2. 60|Baudhāyana Gṛhya Sūtra I. 2. 60]].
+    The verse माता रुद्राणां (referring to the cow) is mentioned in several गृह्यसूत्रs such as the मानव (I. 9. 23), Pār. (I. 3), बौ. गृ. I. 2. 50.
 
 [^1265]:
-    Vide *Mit.* on *Yāj.* III. 265 explaining *Vas. Dh. S.* '(परिवेत्ता) कृच्छ्रातिकृच्छ्रौ चरित्वा तस्मै ज्येष्ठाय तां स्वोढां दत्त्वा ब्रह्मचर्यं चरित्वा तस्मै ज्येष्ठाय उपनिषद्य दारार्थं निवेश्य पुनराहरेत् । तस्मैव ...स्वोढां ज्येष्ठाय निवेदितां तेन चाण्डालवद्वर्तेत ।।'
+    Vide Mit. on Yāj. III. 265 explaining Vas. Dh. S. '(परिवेत्ता) कृच्छ्रातिकृच्छ्रौ चरित्वा तस्मै ज्येष्ठाय तां स्वोढां दत्त्वा ब्रह्मचर्याहृतं भैक्षवद् गुरुपरिभवपरिहारार्थं निवेश्य पुनरुद्वहेत् । तामेव ...स्वोढां ज्येष्ठाय निवेदितां तेन चानुज्ञातामुद्वहेत् ।'
 
 [^1266]:
-    The story of Jacob and the two sisters Leah (older) and Rachel (younger) in Genesis XXIX shows that among the ancient Jews also there was a custom prohibiting the marriage of a younger sister before the elder sister.
+    The story of Jacob and the two sisters Leah (elder) and Rachel (younger) in Genesis XXIX shows that among the ancient Jews also there was a custom prohibiting the marriage of a younger sister before the elder sister.
 
 [^1267]:
-    प्रोषितो द्वादश वर्षाणि षट् वा वासाय प्रतीक्षेत । ततः कुर्यात् अग्न्याधेयं वा दारसंग्रहं वा [[Gaut.|गौतम]] 18. 18-19.
+    भ्रातरि चैवं ज्यायसि कनीयान्कन्याग्न्युपयमेषु । षडित्येके । गौतम 18. 18-19.
 
 [^1268]:
-    उन्मत्तः किल्बिषी कुष्ठी पतितः क्लीव एव च । राजयक्ष्मामयावी च न [[योग्या|योग्यः]] स्यात् [[प्रतीक्षितम्|प्रतीक्षितुम्]] ॥ quoted by Medhātithi on Manu III. 171 and Aparārka p. 446.
+    उन्मत्तः किल्बिषी कुष्ठी पतितः क्लीब एव च । राजयक्ष्मामयावी च न योग्यः स्यात् प्रतीक्षितुम् ॥ quoted by मेधा० on मनु III. 171 and अपरार्क p. 445.
 
 [^1269]:
-    क्लीब देशान्तरस्थे च पतिते प्रव्रजितेपि वा। [[योगशास्त्राभियुक्तस्य न दोषा|योगशास्त्राभियुक्ते च न दोषो]] विद्यते क्वचित् ॥ Atri 106. This is quoted as [[such|शास्त्रान्तर]] by Aparārka p. 445.
+    क्लीब देशान्तरस्थे च पतिते प्रव्रजितेपि वा । योगशास्त्राभियुक्ते च न दोषः परिवेदने ॥ अत्रि 106. This is quoted as शातातप's by अपरार्क p. 445.
 
 [^1270]:
-    [[श्यावदन्तौ कुनखौ च सूर्यौद्यौ सूर्यौनिष्टौ अग्न्यौद्यौ ब्रह्मद्विषौ इति एते पापिनो भवन्ति Vas. Dh. S.|सूर्याभ्युदितः सूर्याभिनिम्रुक्तः कुनखी श्यावदन्तः परिवित्तिः परिवेत्ताग्रे-दिधिषूर्दिधिषूपतिर्वीरहा ब्रह्मोज्झ इत्येनस्विनः । वसिष्ठ]] I. 18.
+    सूर्याभ्युदितः सूर्याभिनिम्रुक्तः कुनखी श्यावदन्तः परिवित्तिः परिवेत्ताग्रेदिधिषूपतिर्वीरहा ब्रह्मोज्झ इत्येनस्विनः । वसिष्ठ I. 18.

@@ -44,10 +44,10 @@ As the Prakāśa is quoted in the Kalpataru it is certainly earlier than 1125. A
 Hemādri frequently cites a work called Mahārnava-prakāśa.[^890] According to the latter the sandal unguents, flowers, incense, lamp presented in śrāddha are to be offered to the [[Brālunanas|Brāhmaṇas]] invited and not to the *pitṛs*. In another place Hemādri quotes the explanation of the word '*nimantraṇa*'[^891] given by the Mahārnava-prakāśa. In some places [[P655]] Hemādri refers to a work called Smṛtimahārnava or simply Mahārnava.[^892] It appears to me that all these are the names of the same work. The Madanapārijāta (p. 93) quotes a verse from the Smṛtimahārnava about *upākarma*.
 
 [^890]:
-    किं गन्धपुष्पधूपदीपाच्छादनानि ब्राह्मणेभ्यो देयान्युत पितृभ्य इति । तत्र तावद्वचनार्थदर्शनन्यायोपलब्धब्राह्मणेभ्यो देयानीति महार्णवप्रकाशकारो मन्यते । चतुर्वर्ग° III. 1. 1031.
+    किं गन्धपुष्पधूपदीपाच्छादनानि ब्राह्मणेभ्यो देयान्युत पितृभ्य इति । तत्र तावद्वचनार्थदर्शनन्यायोपलब्धेर्ब्राह्मणेभ्यो देयानीति महार्णवप्रकाशकारो मन्यते । चतुर्वर्ग° III. 1. 1031.
 
 [^891]:
-    निमन्त्रणं नाम देवपितृकार्यायोऽभ्यर्थ्य नियोग इति स्मृतिचन्द्रिकाकारः । अध्येषणपूर्वकमभ्युपगमसंपादनमिति मेधातिथिमहार्णवप्रकाशकारौ । चतुर्वर्ग° III. 1. 1131 ; vide also p. 1151 for another reference to महार्णवप्रकाश.
+    निमन्त्रणं नाम देवपितृकार्यार्थोऽप्रत्याख्येयो नियोग इति स्मृतिचन्द्रिकाकारः । अध्येषणपूर्वकमभ्युपगमसंपादनमिति मेधातिथिमहार्णवप्रकाशकारौ । चतुर्वर्ग° III. 1. 1131 ; vide also p. 1151 for another reference to महार्णवप्रकाश.
 
 [^892]:
     तथा च स्मृतिमहार्णवे आह बुधः । गर्भाष्टमे वर्षे वसन्ते ब्राह्मण आत्मानमुपनायेत् । चतुर्वर्ग° III. 1. 112 ; on pp. 183, 545 of the same only the word महार्णव occurs.

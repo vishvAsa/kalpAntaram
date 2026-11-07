@@ -14,7 +14,7 @@ and lakṣaṇa had been published, the first by Jivananda (Calcutta 1875) and t
 In the Tīrthaprakāśa he deals with the nature of *tīrthas*, the utility thereof for men, the persons entitled to undertake pilgrimage, the proper times for pilgrimage, the ceremonial acts to be performed at *tīrthas* such as shaving, fasts, bathing, gifts, the
 
 [^1455]:
-    अवीक्षेप्त्वासदृर्नितां द्वन्देनापि निष्कासनमिति माघवीयप्रकारो ( प्रकारे ? ) द्विव्याप: । वीर० p. 640 ( व्यवहार section, Jivananda ).
+    अत्यौद्धत्यात्तदकुर्वन्तीनां त्वनेनापि निष्कासनमित्यादि प्रायश्चित्तप्रकारो ( प्रकाशे ? ) विवक्ष्यामः । वीर० p. 640 ( व्यवहार section, Jivananda ) .
 
 [[P943]]
 
@@ -29,7 +29,7 @@ The Rājanītiprakāśa treats of the definition of *rājan*, the proper time an
 In all his works Mitramiśra mentions hundreds of authors and works. The portion on *vyavahāra* is full of long-drawn controversies in which he refutes the views of numerous predecessors. The Viramitrodaya enters into polemics far more frequently than Nīlakaṇṭha. He generally upholds the Mitākṣarā of Vijñāneśvara against all its critics, particularly the writers of the Bengal school. But he does not slavishly admire the Mitākṣarā in every thing. Now and then he rebukes even Vijñāneśvara. For example, he does not approve of what the Mitākṣarā says about the son called *Kānīna*.[^1456] He finds fault with Vijñāneśvara's explanation of the verse ‘anodyaryastu’ as extremely forced and
 
 [^1456]:
-    या तु मिताक्षराकृता अयनोद्युभावन्यस्वर्गे मालामालुसूष्वाहृया सदा वेदोदितेपि व्यवस्था इता सापि मनसि न चम्कारमर्दयति । वीर० p. 606.
+    या तु मिताक्षराकृता यद्यनूढायामुत्पन्नस्तर्हि मातामहसुतोप्यूढायां तदा वोढुरेवेति व्यवस्था कृता सापि मनसि न चमत्कारमादधाति । वीर० p. 606.
 
 [[P944]]
 
@@ -143,13 +143,13 @@ The Tīrthaprakāśa of the Vīramitrodaya occupies 610 printed pages. After men
 He profusely quotes the Mahābhārata in the Tīrthaprakāśa. Tīrthas are either Daiva (such as Vārāṇasī, Prabhāsa, Puṣkara), or Asura (such as Gayā); or Ārṣi (those that are established by Ṛṣis) and mānuṣa are those established by rulers of Sūryavaṁśa or Somavaṁśa. Men of all varṇas and āśramas are entitled to perform *tīrthayātrā* (p. 19). The Mahābhārata and the Purāṇas are full of descriptions of *tīrthas* and pilgrimages. Kurukṣetra[^1474] as a *tīrtha* is described in Vanaparva 83. 1–8. Vanaparva chapters 87–90 speak of the *tīrthas* in the east, south, west and north respectively. Śalyaparva (chapters 35–39) describes the *tīrthas* which were visited by Balarāma in
 
 [^1472]:
-    The important works and authors mentioned or quoted in the Vyavahāraprakāsha are : ( f. stands for 'frequently' ) : अपरार्क ( f. ), उदयनाचार्य ( p. 79 ); कल्पतरु ( f. ), चण्डेश्वर ( page 81 ). जीमूतवाहन ( f. and on p. 533 he is said to be श्रान्त ), दायतत्त्व ( of रघुनन्दन f. ), मद्रवेद, मदनरत्न ( f. ), महाभाष्य ( p. 43 ), मिताक्षरा ( f. its opinion declared to be उपेक्ष्य on p. 137 ), मेधातिथि ( f.; once on p. 75 styled Bhāgavān ), रत्नाकर, वाचस्पति ( f. ), विज्ञानेश्वर ( called आचार्य on p. 179 ), विद्यारण्यश्रीपादाः or विद्यारण्यश्रीचरणाः ( pp. 179, 531 ), विवादचिन्तामणि, विश्वरूप ( p. 553 ), व्यवहारतत्त्व ( pp. 60, 86 ), व्यवहारतिलक ( 63 ), शाबरभाष्य ( p. 73 ), श्रीकर ( p. 523 ). सातेम्भट्टाचार्य, ( i. e. रघुनन्दन on p. 548 ), स्मृतिचन्द्रिका ( p. 62 ), हरदत्त ( p. 534 दाक्षिणात्यनिबन्धकार ).
+    The important works and authors mentioned or quoted in the Vyavahāraprakāśa are : ( f. stands for ' frequently ' ) : अपरार्क ( f. ) , उदयनाचार्य ( p. 79 ) ; कल्पतरु ( f. ) , चण्डेश्वर ( page 81 ) . जीमूतवाहन ( f. and on p. 533 he is said to be भ्रान्त ) , दायतत्त्व ( of रघुनन्दन f. ) , भवदेव, मदनरत्न ( f. ) , महाभाष्य ( p. 43 ) , मिताक्षरा ( f. its opinion declared to be उपेक्ष्य on p. 137 ) , मेधातिथि ( f. ; once on p. 75 styled Bhagavān ) , रत्नाकर, वाचस्पति ( f. ) , विज्ञानेश्वर ( called आचार्य on p. 179 ) , विद्यारण्यश्रीपादाः or विद्यारण्यश्रीचरणाः ( pp. 179, 531 ) , विवादचिन्तामणि, विश्वरूप ( p. 553 ) , व्यवहारतत्त्व ( pp. 60, 86 ) , व्यवहारतिलक ( 63 ) , शाबरभाष्य ( p. 75 ) , श्रीकर ( p. 523 ) . स्मार्तभट्टाचार्य , ( i. e. रघुनन्दन on p. 548 ) , स्मृतिचन्द्रिका ( p. 62 ) , हरदत्त ( p. 534 दाक्षिणात्यनिबन्धकार ) .
 
 [^1473]:
-    Vide a paper by Prof. B. K. Sarkar on 'Nīlakaṇṭha and Mitramiśra' in Calcutta Review vol. LVI ( for 1935 ) pp. 147–156.
+    Vide a paper by Prof. B. K. Sarkar on ' Nīlakaṇṭha and Mitramiśra ' in Calcutta Review vol. LVI ( for 1935 ) pp. 147–156.
 
 [^1474]:
-    पांसवोऽपि कुरुक्षेत्रे वायुना समुदीरिताः । अपि दुष्कृतकर्माणो नयन्ति परमां गतिम् ।। दक्षिणेन सरस्वत्या दृषद्वत्युत्तरेण च । ये वसन्ति कुरुक्षेत्रे ते वसन्ति त्रिविष्टपे ।। वनपर्व 83. 203–4; एष्टव्या बहवः पुत्रा यद्येकोपि गयां व्रजेत् । यजेत वाऽश्वमेधेन नीलं वा वृषमुत्सृजेत् ।। वनपर्व 87. 10.
+    पांसवोऽपि कुरुक्षेत्रे वायुना समुदीरिताः । अपि दुष्कृतकर्माणं नयन्ति परमां गतिम् ॥ दक्षिणेन सरस्वत्या दृषद्वत्युत्तरेण च । ये वसन्ति कुरुक्षेत्रे ते वसन्ति त्रिविष्टपे ॥ वनपर्व 83. 203–4 ; एष्टव्या बहवः पुत्रा यद्येकोऽपि गयां व्रजेत् । यजेत वाऽश्वमेधेन नीलं वा वृषमुत्सृजेत् ॥ वनपर्व 87. 10.
 
 [[P952]]
 

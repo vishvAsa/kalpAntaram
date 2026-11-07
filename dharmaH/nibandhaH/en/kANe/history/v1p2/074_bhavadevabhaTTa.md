@@ -5,10 +5,9 @@ title = "074 Bhavadevabhaṭṭa"
 
 74. Bhavadevabhaṭṭa
 
-The Vyavahāratattva of Raghunandana and the Viramitrodaya tell us that Bhavadevabhaṭṭa composed a work called Vyavahāratilaka on judicial procedure. The Vyavahāratattva[^868] tells us that Bhavadeva read ‘astavyastapadavāyāpi’ instead of ‘yadyastāpadamavyāpi’ in Kātyāyana's verses
+The Vyavahāratattva of Raghunandana and the Viramitrodaya tell us that Bhavadevabhaṭṭa composed a work called Vyavahāratilaka on judicial procedure. The Vyavahāratattva[^868] tells us that Bhavadeva read 'astavyastapadavyāpi' instead of 'yadvyastapadamavyāpi' in Kātyāyana's verses
 
-[^868]:
-    ‘अस्तव्यस्तपदव्यापि अनन्वितार्थपदव्याप्तमिति’ व्यवहारातिलके भवदेवभट्टः । व्यवहारतत्त्व ( p. 297, vol. II, Jivananda ) ; भवदेवेन तु अस्तव्यस्तपदव्या-पीति पाठं लिखित्वाऽनन्वितार्थपदव्याप्तमिति व्याख्यातं व्यवहारातिलके । वीर० p. 85.
+[^868]: 'अस्तव्यस्तपदव्यापि अनन्वितार्थपदव्याप्तमिति' व्यवहारातिलके भवदेवभट्टः । व्यवहारतत्त्व ( p. 297, vol. II, Jivananda ) ; भवदेवेन तु अस्तव्यस्तपदव्यापीति पाठं लिखित्वाऽनन्वितार्थपदव्याप्तमिति व्याख्यातं व्यवहारतिलके । वीर० p. 85.
 
 [[P640]]
 
@@ -40,8 +39,7 @@ In the Govt. Mss. library at the B. O. R. Institute Poona, there are two Mss. (N
 
 Another work of Bhavadevabhaṭṭa (who is called Bālāvalabhibhujaṅga therein) is styled Prāyaścitta-Prakaraṇa (or Nirūpaṇa). That was published by the Varendra Research Society (Rajshahi, Bengal in 1927), edited by Nani Gopal Majumdar. In this work he deals with the five grave sins mentioned by Manu (XI. 54) viz. killing a brāhmaṇa, drinking *surā*, theft (of gold), adultery with the wife of a *guru* and contact with these (for a year or more) and also with lesser sins or misconduct such as killing a woman, killing a cow, breaking another's bones, killing beings other than human, eating food from the vessel of a śūdra, touching a washerman or one who deals in hides, taking food without wearing Yajñopavīta, penances for condemned
 
-[^873]:
-    It begins चतुर्दशनभसश्चन्द्रद्विन्दुनी । द्विजानुष्ठेयसत्समासिणे त्रिभुवने नमः ।। युष्माभ्यमालेख्य छन्दोगानामियं क्रमात् । कृता श्रीभवदेवेन कर्मा-नुष्ठानपद्धतिः ॥
+[^873]: It begins चतुर्वदनसद्मस्थचतुर्वेदकुटुम्बिने । द्विजानुष्ठेयसत्कर्मसाक्षिणे ब्रह्मणे नमः ॥ गृह्यसूत्रार्थमालोक्य छन्दोगानामियं क्रमात् । कृता श्रीभवदेवेन कर्मानुष्ठानपद्धतिः ॥
 
 [[P642]]
 
@@ -55,11 +53,9 @@ The first few verses are quoted below.[^875]
 
 Besides the Vedas, the Brāhmaṇas, and Jaimini's sūtras, the Śrautasūtra of Āpastamba (frequently) and those of Drāhyāyaṇa and Satyāṣāḍha (rarely), the *bhāṣya* of Śabara, Pāṇini, Manusmṛti, Gautama-dharmasūtra are cited.
 
-[^874]:
-    स्मृतिरत्नाकरमतनुसारेण भवदेवोपरि समन्तत । प्रायश्चित्तमिदं वक्ष्ये विषये पापनि-ष्कृतौ ॥ स्मृतिरत्नाकर ( I. O. Cat. p. 473 ).
+[^874]: मन्वादिस्मृतिशास्त्रार्थं भवदेवादिसम्मतम् । प्रायश्चित्तमहं वक्ष्ये विज्ञाय पापनिष्कृतौ ॥ स्मृतिरत्नाकर ( I. O. Cat. p. 473 ).
 
-[^875]:
-    यताभिमतिलोकोऽभिमतनुतदास्तदृश्यते । रमते सरसस्तो हि तस्यै वास्ते नात्मदर्शी ।। मामप्यनवधानायामुवाच वाचं दर्शि शक्र वालवलभिपुज्ञापराममा लक्ष्मी भवदेव ।। तेनाप्यमुमो मे विद्यादाने जातु सजातः । तमसिदाहवर्णान् विषयानभिधीयते सुधियः ।। अनित्र नैव गुणोत्था शान्तिर्न चानुगृह्यते लोकाः द्वैलोक्यदा जाता न जानते तन्मतरीकाये ॥ अजिता was a commentary on Kumārila's work.
+[^875]: यन्नाभिनलिनलीनब्रह्मचतुर्वदनसदनगायेन । रमते सरस्वती सह तस्मै चास्यै नमस्कुर्मः । मामप्यध्ययनदशायामुवाच वाचं दर्शी स्वप्ने बालवलभीभुजङ्गापरनामा त्वमसि भवदेव । तेनायमुद्यमो मे विद्यादर्पान्न जातु सञ्जातः । तस्मादिहावधानं विधातुमधिकुर्वते सुधियः । अजिता नैव सुबोधा संक्षिप्तं नाऽनुपदमतो लोकाः हतोत्साहा जाता न जानते तन्त्रटीकार्थम् ॥ अजिता was a commentary on Kumārila's work.
 
 [[P643]]
 
@@ -69,20 +65,16 @@ It mentions the *bhāṣyakāra* (Śabara), Vārttika (folio 12 a), Gurumata (17
 
 Raghunandana in his vast Smṛtitattva mentions Bhavadevabhaṭṭa's views dozens of times, several times for criticizing him or discarding his views (‘heyam’ is the word often used) Vide, for example, Tithitattva[^877] (vol. I pp. 95, 99, Saṁskāratattva p. 887, 889-90, Udvāhatattva, vol. II p. 130). But it should be noted that Raghunandana also accepts his views several times, e. g. in Vyavahāratattva, vol. II pp. 213, 216, Suddhitattva pp. 240, 312. In modern times also Sāmavedins in Bengal follow Bhavadevabhaṭṭa as regards religious rites, while other Brāhmaṇas rely on Raghunandana's works.
 
-[^876]:
-    तथा च जाग्रत्यपि क्वचनिदत्ते जाग्रत्यायोर्विकल्पे वार्तिकदुक्ते भवदेवे-नोक्तम् ।। इदं तु वक्तव्यम् । कस्य सामान्यविहितेनायेन विशेषविहितजाग्रत्य-विकल्पः । सत्यं सामान्यविहितविशेषयोर्युगपद्वाक्यप्रामाण्येपरस्परम् ।। भवेत् । द्विशेषापि विशेषवाक्यात् । &c. चतुर्विंश° ( कालनिर्णय ) p. 120. Vide also p. 404 for another reference to भवदेव.
+[^876]: तथा च जाघन्याधिकरणसिद्धान्ते जाघन्याज्ययोर्विकल्पे वार्तिककृदुक्ते भवदेवेनोक्तम् । इदं त्विह वक्तव्यम् । कथं सामान्यविहितेनाज्येन विशेषविहितजाघन्या विकल्पः सर्वत्र सामान्यविशेषशास्त्रयोर्बाध्यबाधकभावोच्छेदप्रसङ्गात् । नैतत् । द्वयोरपि विशेषशास्त्रत्वात् । &c. चतुर्वर्ग० ( कालनिर्णय ) p. 120. Vide also p. 404 for another reference to भवदेव.
 
-[^877]:
-    भवदेवीयसन्धानविवेक प्रवराभिधानमहां भवि यदुग्राणम् ।। संस्कारतत्त्व p. 890 ( vol. I ).
-
-    यत्तु प्रज्ञाकरविपश्चिदानयनाय शास्त्रायनहेतुभाविभावनं भवदेवभट्टीयतं तद् प्रामा-णिकं तस्मादपि महाप्रामाणिके प्रमाणयुगलोकभिमूर्ध्व तद्यमा-णितवादतः ।। तिथितत्त्व p. 99 ( vol. I ) and संस्कारतत्त्व ( vol. I, p. 878 ).
+[^877]: भवदेवीयसम्बन्धविवेके प्रवराभिधानमाह भविष्यपुराणम् । संस्कारतत्त्व p. 890 ( vol. I ).
+    यत्तु प्रकृतकर्मवैगुण्यप्रशमनाय शाख्यायनहोमाभिधानं भवदेवभट्टसंमतं तन्न प्रामाणिकं तस्मादपि महाप्रामाणिकैर्भट्टनारायणचरणैर्गोभिलभाष्ये तदप्रमाणीकृतत्वात् । तिथितत्त्व p. 99 ( vol. I ) and संस्कारतत्त्व ( vol. I, p. 878 ).
 
 [[P644]]
 
 Unexpected light is thrown on the personal history of Bhavadevabhaṭṭa by an inscription found in the temple of Ananta Vāsudeva at Bhuvaneśvara in the Puri District of Orissa edited by Kielhorn in E. I. vol. VI, p. 203, which eulogises Bhavadevabhaṭṭa, the identity of the author Bhavadeva with the person eulogised being established by the unique epithet, Bālāvalabhibhujaṅga applied to the latter.[^878] The eulogy is composed by a person called Vācaspatikavi. Bhavadeva belonged to the Sāvarṇa *gotra* of the Kauthumi school of the Sāmaveda. The family belonged to Siddhalagrāma in Rāḍhā (west of the Hugli and south of the Ganges). The pedigree given in the inscription is: Bhavadeva (who received from the Gauḍa king in gift the *agrahāra* of Hastinibhiṭṭa)—son Rāṭhāṅga—son Atyaṅga—son Budha—son Śrī Ādideva (wife Sarasvatī), who was Prime Minister of Vahaṅga king)—son Govardhana (wife Sāṅgokā, daughter of a Vandyaghaṭīya brāhmaṇa)—son Bhavadeva Bālāvalabhibhujaṅga, Minister of Harivarmadeva and his son. In the Inscription he is declared to be a second Varāha (i. e. Varāhamihira). Vide pp. 478-480 (of H. of Dh. Vol. V) for the three branches of Jyotiṣa. The Bṛhatsaṁhitā of Varāhamihira states that Jyotiḥ-śāstra has three branches (*skandhas*) and a work dealing with all three branches is called ‘*Saṁhitā*’ (Br. S. I. 9). The three branches are called Gaṇita or Tantra, (mathematical calculations of the motions of planets &c), Horā (or Jātaka) that dealt with horoscopes and astrology and the third was called Sākhā. The inscription further claims that Bhavadeva was an expert in the Purvamīmāṁsā as propounded by Kumārila-
 
-[^878]:
-    सिद्धान्ततत्त्वमणितार्णवपरिस्खता विश्वात्मदृष्टिमतिसिद्धित फलप्रहितागु । कार्येषु यं प्रविविव च नवनीतिभार-शास्त्रस्य यः सकृतममृत्पदो वराहः ॥ यो भैमेशाखण्डपट्टवैज्ञ जननिधिनाथविचार धरितोतितसत्यवचनः । स व्याख्याता विशदयन्दुनिपूर्वमागमाः स्मार्ताक्षरियश्चयेप्ययनमाने ॥ मीमां-सायां स खलु चिरचितो येन मद्रोहिकानीय यज्ञ न्यायः रतिरिक्तमानां न क्षमते तस्मात् । किं भूम्ना सोऽमिन साम्नां सकलकेविपताकसामग्रीय शक्रे-चन्द्रादेवरिविरुदाविरुद्धोत्थपप्रतिपत्तिदोषामिमोत्सु ॥ यस्य खलु बाल-वल्लभीभूषण्ड इति नाम नाग्निकं केन । मीमांसयापि सुपृथक्प्रमाणितवर्जितो-द्विवाद ॥ verses 21 to 24 from the Inscription in E. I. vol. VI. pp. 203-207.
+[^878]: सिद्धान्ततन्त्रगणितार्णवपारदृश्वा विश्वाद्भुतप्रसविता फलसंहितासु । काव्यं स्वयं प्रथयिता च नवीनहोरा-शास्त्रस्य यः स्फुटमभूदपरो वराहः ॥ यो धर्मशास्त्रपदवीषु जरन्निबन्धानन्धीचकार रचितोचितसत्प्रबन्धः । स व्याख्यया विशदयन्मुनिधर्मगाथाः स्मार्तक्रियाविषयसंशयमुन्ममार्ज ॥ मीमांसायां स खलु विरचितो येन भट्टोक्तनीत्या यत्र न्यायाः रविकिरणसमा न क्षमन्ते तमांसि । किं भूम्ना सीम्नि साम्नां सकलकविकलास्वागमेष्वत्र शास्त्रेष्वार्युर्वेदाम्विवेदास्त्रवेदप्रभृतिषु कृतधीरद्वितीयोऽयमेव ॥ यस्य खलु बालवलभीभुजङ्ग इति नाम नादृतं केन । मीमांसयापि सपुलकमाकर्णितवर्णितोद्गीतम् ॥ verses 21 to 24 from the Inscription in E. I. vol. VI. pp. 203-207.
 
 [[P645]]
 
@@ -90,12 +82,9 @@ bhaṭṭa, was also an expert in Āyurveda (medicine) and *astrāvidyā* (the s
 
 The epithet ‘Bālāvalabhi-bhujaṅga’ has mystified several writers. In ‘Modern Review’ for March 1931, at p. 288 Mr. Ray suggests that it means ‘destroyer of the kingdom of Balavabali in Rāḍhā’. In I. H. Q. vol. 27 p. 80 Dr. D. C. Sircar quotes verse 23 of the Tautātitamatatilaka[^879] (quoted below) and holds that the appellation was given to Bhavadeva in his student days. Another possible explanation is as
 
-[^879]:
-    Dr. Sircar quotes from a fragmentary ms. of Tautātita-matatilaka, verse 23, as follows :
-
-    मामप्यनवधानायामुवाच वाचं दर्शि शक्र ( ? ) । बालवल्लभोज्ञापरनामा लक्ष्मी भवदेव ।। तेनाप्यमुमो मे विवादपाने जातु सजातः । तमसिदाहवर्णान् विषयानभिधीयते सुधियः ॥
-
-    Vide I. H. Q. Vol. 27 pp. 80-82. Dr. Dasharatha Sharma gives a reply to this in the same volume on p. 339, which does not appear to me to be at all satisfactory. Vide also I. H. Q. vol. 29 p. 294 where Dr. Sircar repeats what he says in Ibid. Vol. 27. No reason is assigned why a student should be dubbed ‘bhujaṅga’ of Bāla-valabhī’ by his teacher. The words in bold type are more or less inexplicable. It is not known who spoke (‘uvāca’), unless we ( Continued on the next page )
+[^879]: Dr. Sircar quotes from a fragmentary ms. of Tautātita-matatilaka, verse 23, as follows :
+    मामप्यध्ययनदशायामुवाच वाचं दर्शी स्वप्ने (?) । बालवलभीभुजङ्गापरनामा त्वमसि भवदेव । तेनायमुद्यमो मे विद्यादर्पान्न जातु सञ्जातः । तस्मादिहावधानं विधातुमधिकुर्वते सुधियः ॥
+    Vide I. H. Q. Vol. 27 pp. 80-82. Dr. Dasharatha Sharma gives a reply to this in the same volume on p. 339, which does not appear to me to be at all satisfactory. Vide also I. H. Q. vol. 29 p. 294 where Dr. Sircar repeats what he says in IHQ. Vol. 27. No reason is assigned why a student should be dubbed 'bhujaṅga' of Bālavalabhī' by his teacher. The words in bold type are more or less inexplicable. It is not known who spoke ( 'uvāca' ), unless we take 'Sarasvatī' ( occurring in the first verse ) as the subject. We may then understand that the author professes ( or brags ) that Sarasvatī spoke to him in a dream. But how is 'darśī' to be construed ? Is it a verbal form or a noun ? Another difficulty is : what is the metre of the verse ? The first half has 17 letters, while the latter half has 19 letters. If it is a mātrā metre, what is the metre ? If we could read दृशं गता स्वप्ने the metre would be right as an 'Āryā'. Unless one can secure several mss. it is not possible to argue that somebody surprised by the peculiar appellation might have invented some story and inserted a verse or verses in the fragment. A ms. of the Tautātita-matatilaka was described in the Catalogue of the Sanskrit mss. in the India Office Library prepared by Dr. Windisch and Dr. Eggeling, part IV p. 690, No. 2166. It deals only with pāda 1 of chapter II of the Pūrvamīmāṁsāsūtra.
 
 [[P646]]
 
@@ -121,12 +110,9 @@ Prof. Hazra, in his Intro. to the work ‘śava-prakaraṇa’ on p. XVIII (last
 
 The contents of the work Śava-sūtikā-viśuddhi-prakaraṇa,[^880] (as all the available mss. say) are briefly as follows, Discussion about impurity on premature delivery and special
 
-[^880]:
-    The last verse and colophon as printed are : वराहोिपमो यश्चक्षुः श्री-श्री-भवदेवायः । शम्बरताविशुद्धिप्रकरणमलेकं संहिताधिके । इति श्रीभाव-वल्लभीभुजङ्गपरनाम-श्रीभारद्वाजसगोत्र-भट्टश्रीभवदेवशर्मणा प्रणीतं समाप्तम् । p. 49 of शाव० The reading of all the three available mss is ‘ शिवसूतिकाविशुद्धि ’.
-
-    दत्तात्रेयोद्भवज्ञानं च कृतवृद्धे च मांस्वते । आयुर्वेदे वान्यत्रापि सर्वे मुनये च तथैवैत ॥ दशाहं शास्त्रमासीत् सम्प्रष्ट्ये विधिवदिति । मनु V. 58-60.
-
-    मृतके कर्मणि त्यागः सर्वेभ्यो विहिते । होमः श्रौतकु कर्म च । शूद्रा(?)नापि च फलेः पृथक् ॥ गोभिल III. 60 ; मृतके तु पक्षयमि जन्ममृत्युनिमित्तकम् । दर्शयति VI. 1.
+[^880]: The last verse and colophon as printed are : वङ्गाधिपधर्माध्यक्षो भट्ट-श्री-भवदेवाख्यः । शवसूतकाविशुद्धिप्रकरणमवलोक्य संहिताश्चक्रे । इति श्रीबाल-वलभीभुजङ्गापरनाम-श्रीवङ्गाधिराज-भट्टाचार्य-भवदेवकृतं शवसूतकाशौचप्रकरणं समाप्तम् । p. 49 of शाव० The reading of all the three available mss is ' शिवसूतिकाविशुद्धि '.
+    दन्तजातेऽनुजाते च कृतचूडे च संस्थिते । अशुद्धा बान्धवाः सर्वे सूतके च तथोच्यते ॥ दशाहं शावमाशौचं सपिण्डेषु विधीयते । मनु V. 58-59.
+    सूतके कर्मणां त्यागः सन्ध्यादीनां विधीयते । होमः श्रौतस्तु कर्तव्यः शुष्कान्नेनापि वा फलैः ॥ गोभिल III ; 60 ; सूतकं तु प्रवक्ष्यामि जन्ममृत्युनिमित्तकम् । दक्षस्मृति VI. 1.
 
 [[P650]]
 

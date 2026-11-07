@@ -3,24 +3,16 @@ title = "Table of Contents"
 
 +++
 
-TABLE OR CONTENTS
+TABLE OF CONTENTS 
 
-Page
-
-xavili
-
-ix-xii vjii-xsi xvii-xriy
-
-Preface .. ... List of Abbreviations Chronological Tablo Brief Synopsis of the contents List of works consulted Index of Law cases Additions and Corrections .. History of Dharmasastra, vol. IV Appendix containing long passages in Sanskrit General Index ... Index of technical or important Sanskrit words
-
-Fri-rui  
-
-·
-
-. .
-
-1-827
-
-828-833 835-922 923-920
-
-...
+Preface ... ... ... i–iv
+List of Abbreviations ... ... ... v–viii
+Chronological Table ... ... ... ix–xii
+Brief Synopsis of the contents ... ... ... xiii–xvi
+List of works consulted ... ... ... xvii–xxiv
+Index of Law cases ... ... ... xxv
+Additions and Corrections ... ... ... xxvi–xxxii
+History of Dharmaśāstra, vol. IV ... ... ... 1–827
+Appendix containing long passages in Sanskrit ... ... ... 828–833
+General Index ... ... ... 835–922
+Index of technical or important Sanskrit words ... ... ... 923–926

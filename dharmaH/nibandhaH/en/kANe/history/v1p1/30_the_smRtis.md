@@ -10,11 +10,11 @@ Vide reconstruction of [[Sumanta|Sumantu]] by Prof. T. R. Chintamani in JOR (Mad
 
 The word smṛti is used in two senses. It is applied to all ancient orthodox non-Vedic works such as Pāṇini’s [[gram mar|grammar]], to the śrauta, gṛhya and dharma sūtras, to the Mahābhā-rata, to Manu, Yājñavalkya and others. In a narrower sense smṛti and dharmaśāstra are synonyms, as Manu says.[^304] The word smṛti occurs in Taittirīya Āraṇyaka (I. 2). Gautama (Dh. S. I. 2) and Vasiṣṭha (Dh. S. I. 4) speak of smṛti as one of the sources of Dharma. Āp. Dh. S. (II. 6. 15. 25) employs the word smṛti and has in view Gautama’s Dharma-sūtra according to Haradatta. In the Pūrvamīmāṁsā-sūtra the word smṛti occurs (vide VI. 8. 23 and XII. 4. 42).[^305] In the Vedāntasūtras the word smṛti is employed in a wide sense, in one place as referring even to the sāṅkhya system.[^306]
 
-[^302]: ज्ञात्याद्यननुज्ञाप्य समीपस्थानतन्द्रिणा । क्रयविक्रयकर्तारौ तत्समं दण्डमर्हतः ॥ सरस्वती. p. 322; ‘चतुःसामन्तसांनिध्ये प्राची दिग्बलवत्तरा । उदीची च प्रतीची च सर्वाभावे तु दक्षिणा ॥’ p. 323.
-[^303]: किंचिच्च द्रव्यमादाय काले दास्यामि ते कचित् । नो चेन्मूलमिदं त्यक्तं केदारस्येति यः क्रयः ॥ स उक्तलाभ इत्युक्त उक्तकालेऽप्यनर्पणा ॥ सरस्वती. p. 324; मूल्यस्य पादमर्धं वा मूल्यमाज्ञाक्रये स्थितम् । मूल्यं तदाप्तमखिलं दत्त्वा क्षेत्रं समाहुयात् ॥ आ त्रिभोगात् ततः क्रेतुः परतो दृढतामियात् । p. 323.
+[^302]: ज्ञात्याद्यननुज्ञाप्य समीपस्थानतन्द्रिणा । क्रयविक्रयकर्तारौ तत्समं दण्डमर्हतः ॥ सरस्वती० p. 322 ; ‘ चतुःसामन्तसांनिध्ये प्राची दिग्बलवत्तरा । उदीची च प्रतीची च सर्वाभावे तु दक्षि० ॥ p. 323.
+[^303]: किंचिच्च द्रव्यमादाय काले दास्यामि ते क्वचित् । नो चेन्मूलमिदं त्यक्तं केदारस्येति यः क्रयः ॥ स उक्तलाभ इत्युक्त उक्तकालेप्यनर्पणात् ॥ सरस्वती० p. 324 ; मूल्यस्य पादमर्धं वा मूल्यमाज्ञाक्रये स्थितम् । मूल्यं तदाप्तमखिलं दत्त्वा क्षेत्रं समाप्नुयात् ॥ आ त्रिभोगात् ततः क्रेतुः परतो दृढतामियात् । p. 323.
 [^304]: श्रुतिस्तु वेदो विज्ञेयो धर्मशास्त्रं तु वै स्मृतिः । मनु II. 10.
-[^305]: स्मृतेर्वा स्याद् ब्राह्मणानाम् । पू. मी. सू. XII. 4. 42 (refers to आधान).
-[^306]: स्मृत्यनवकाशदोषप्रसङ्ग इति चेन्नान्यस्मृत्यनवकाशदोषप्रसङ्गः । वेदान्तसूत्र II. 1. 1.
+[^305]: स्मृतेर्वा स्याद् ब्राह्मणानाम् । पू. मी. सू. XII. 4. 42 ( refers to आर्त्विज्य ).
+[^306]: स्मृत्यनवकाशदोषप्रसङ्ग इति चेन्नान्यस्मृत्यनवकाशदोषप्रसङ्गात् । वेदान्तसूत्र II. 1. 1.
 
 [[P300]]
 In that work the word is used, according to Śaṅkara, with reference to the Mahābhārata or the Manusmṛti (Vedānta-sūtra II. 3. 47, III. 1. 14, IV. 2. 14).
@@ -34,7 +34,7 @@ Smṛtis mirrored the beliefs and practices of people and also influenced writer
 
 In ancient times the number of smṛtis (i.e. works on dharmaśāstra) must have been very small. Gautama mentions by name no smṛtikāra except Manu, though he speaks of dharmaśāstras (XI. 19). Baudhāyana names seven (besides himself) authors on dharma, viz. Aupajaṅghani, Kātya, Kāśyapa, Gautama, Prajāpati, Maudgalya and Hārīta. Vasiṣṭha names only five authors, Gautama, Prajāpati, Manu, Yama and Hārīta. Āpastamba mentions a large number, viz. ten, some of whom like Eka, Kuṇika and Puṣkarasādi are no more than mere names to us. Manu speaks of only six (besides himself) viz. Atri, the son of Utathya, Bhṛgu, Vasiṣṭha, Vaikhānasa (or rather Vikhanas) and Śaunaka. But in all these works the writers are mentioned only casually and there is no regular enumeration or list of writers on dharma in one place. Aparārka quotes (p. 7) a sūtra of Gautama (not found in the printed G. Dh. S.) in which sixteen authors of dharmaśāstras including himself are enumerated.[^309]
 
-[^309]: अत्र गौतमः । स्मृतिर्धर्मशास्त्राणि तेषां प्रणेतारो मनुविष्णुयमाङ्गिरोवसिष्ठदक्षसंवर्तशातातपपराशराः ॥ आपस्तम्बगौतमसंवर्तात्रेयकात्यायनशङ्खलिखितपराशरव्यासशातातपचेतायाज्ञवल्क्यादयः ।
+[^309]: अत्र गौतमः । स्मृतिर्धर्मशास्त्राणि तेषां प्रणेतारो मनुविष्णुदक्षाङ्गिरोऽत्रिबृहस्पत्युशन-आपस्तम्बगौतमसंवर्तात्रेयकात्यायनशङ्खलिखितपराशरव्यासशातातपप्रचेतोयाज्ञवल्क्यादयः ।
 
 [[P303]]
 same sūtra with slight variations is ascribed to Śaṅkha-Likhita in the Vīramitrodaya (Paribhāṣā-prakāśa p. 16). Yājñavalkya is probably the earliest writer who enumerated in one place (I. 4-5) twenty expounders of dharma (including himself and counting Śaṅkha and Likhita as two distinct persons). It will be noticed that Yāj. omits Baudhāyana. Parāśara also gives a list of 19 expounders of dharma (excluding himself), but his list differs slightly from that of Yāj. Parāśara omits Bṛhaspati, Yama and Vyāsa and adds Kāśyapa, Gārgya and Pracetas. The Tantra-vārtika (p. 125) of Kumārila speaks of eighteen dharmasaṁhitās. Viśvarūpa quotes a verse of Vṛddha-Yājñavalkya, who adds ten names to the list of Yājñavalkya (vide note 262 above).[^310] The Caturviṁśatimata is a work which professes to give the views of 24 sages on dharmaśāstra, viz. all those listed by Yāj. (except Kātyāyana and Likhita) and six more, viz. Gārgya, Nārada, Baudhāyana, Vatsa, Viśvāmitra, Śaṅkha (Sāṅkhyāyana?). Aṅgiras as quoted in the Smṛticandrikā (I. p. 1), Hemādri (Dānakhaṇḍa p. 528), the Sarasvatīvilāsa (p. 13) and other works mention Upasmṛtis.[^311] There is a smṛti called Ṣaṭtriṁśanmata quoted by the Mit., Aparārka and other works. Paiṭhīnasi as quoted in the Smṛticandrikā, the Saṁskāramayūkha and other works enumerates 36 smṛtis.[^312] Aparārka says that the Bhaviṣyatpurāṇa speaks of 36 smṛtis and his enumeration of them is slightly different from that of Paiṭhīnasi.[^313]
@@ -59,7 +59,7 @@ As most of the writers quote from memory and had recourse to mss. and not to sta
 
 In spite of all these drawbacks, an attempt will be made in the following pages to arrange some of the leading versified smṛtis in chronological order beginning from the Manusmṛti.
 
-[^315]: वृद्धवसिष्ठेप्येवमेव मध्ये सौम्यामिति तु विशेषः । Vide वसिष्ठध. सू. III. 64-68 for the five तीर्थs on one’s hand.
+[^315]: वृद्धवासिष्ठेप्येवमेव मध्ये सौम्यमिति तु विशेषः । Vide वसिष्ठध. सू. III. 64–68 for the five तीर्थs on one’s hand.
 
 [[P306]]
 All these smṛtis are not equal in authority. Most of them are obscure and are only rarely cited by ancient commentators. Exclusive of the dharmasūtras hardly a dozen smṛtis have found commentators. If we are to judge of the authority of a smṛti by the commentaries thereon, then the Manusmṛti stands pre-eminent. Next to it is the Yājñavalkyasmṛti.

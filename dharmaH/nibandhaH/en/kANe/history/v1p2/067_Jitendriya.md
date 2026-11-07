@@ -3,12 +3,14 @@ title = "067 Jitendriya"
 
 +++
 
+[[P593]]
+
 67. Jitendriya
 
 Jitendriya is one of those writers who at one time held an eminent position but in course of time sank into unmerited oblivion. The works of Jīmūtavāhana bear abundant [[testi-mony|testimony]] to the fact that Jitendriya wrote an extensive work on dharmaśāstra. In his Kālaviveka (p. 380) Jīmūtavāhana says that Jitendriya[^797] wrote on the topic of *kāla* (i. e. on determining doubtful points about the months, the tithis, saṁkrāntis, &c. and the religious rites to be performed on them). In several passages of the Kālaviveka the very words of Jitendriya are quoted. Jitendriya said that a rite that occupies in performance only a short time must be per-
 
 [^797]:
-    जितेन्द्रियशङ्खधरान्धकसंभ्रमहरिवंशधवलयोग्लोकैः । कृतमपि कालनिर्णयमधुना निःसारतां याति ॥
+    जितेन्द्रियशङ्खधरान्धुकसंभ्रमहरिवंशधवलयोग्लोकैः । कृतमपि कालनिरूपणमधुना निःसारतां याति ॥
 
 [[P594]]
 

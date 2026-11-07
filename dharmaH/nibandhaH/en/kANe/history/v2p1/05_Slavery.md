@@ -14,7 +14,7 @@ title = "05 Slavery"
 Westermarck in his 'Origin and Development of the Moral Ideas' vol. I (1912) p. 711 was constrained to observe 'This system of slavery, which at least in the British colonies and slave states surpassed in cruelty the slavery of any pagan country ancient and modern, was not only recognised by Christian Governments but was supported by the large bulk of the clergy, Catholic and Protestant alike.' Slavery was abolished in the British Dominions only in 1833 and in British India by Act V of 1843.
 
 [^420]:
-    Vide Encyclopaedia of Social Sciences, vol. XIV, p. 74 "To the ancient mind slavery was a fixed and accepted element of life and no moral problem was involved. That slavery already was established as a recognized institution in the Sumerian culture of the Babylonian area in the 4th millenium B.C. may be confidently assumed from the fragments of Sumerian legislation upon slaves which date from the first half of the 3rd millenium".
+    Vide Encyclopaedia of Social Sciences, vol. XIV, p. 74 'To the ancient mind slavery was a fixed and accepted element of life and no moral problem was involved. That slavery already was established as a recognized institution in the Sumerian culture of the Babylonian area in the 4th millenium B. C. may be confidently assumed from the fragments of Sumerian legislation upon slaves which date from the first half of the 3rd millenium'.
 
 
 ## dAsa records
@@ -39,13 +39,13 @@ We read in the Chān. Up.
 > 'In this world they speak of cows and horses, elephants and gold, wives and slaves, fields and houses as mahimā (greatness)'.
 
 [^421]:
-    शतं मे गर्दभानां शतमूर्णावतीनाम् । शतं दासाँ अति स्रजः ॥ Ṛg. VIII. 56. 3; यो मे हिरण्यसंदृशो दश राज्ञो अमंहत । अधस्पदाच्चैद्यस्य कृष्टयश्चर्मम्ना अभितो जनाः ॥ Ṛg. VIII. 5. 38; पञ्चाशद् वधूरियम् ॥ Ṛg. VIII. 19. 36.
+    शतं मे गर्दभानां शतमूर्णावतीनाम् । शतं दासाँ अति स्रजः ॥ ऋ. VIII. 56. 3 ; यो मे हिरण्यसंदृशो दश राज्ञो अमंहत । अधस्पदा इच्चैद्यस्य कृष्टयश्चर्मम्ना अभितो जनाः ॥ ऋ. VIII. 5. 38 ; अदान्मे पौरुकुत्स्यः पञ्चाशतं त्रसदस्युर्वधूनाम् । ऋ. VIII. 19. 36.
 
 [^422]:
-    उदकुम्भानधिनिधाय दास्यो मार्जालीयं परिनृत्यन्ति पदो निघ्नतीरिदं मधु गायन्त्यो मधु ॥ Tai. S. VII. 5. 10. 1.
+    उदकुम्भानधिनिधाय दास्यो मार्जालीयं परिनृत्यन्ति पदो निघ्नतीरिदं मधु गायन्त्यो मधु वै देवानां परममन्नाद्यम् । तै. सं. VII. 5. 10. 1.
 
 [^423]:
-    आत्मनो वा एष भागमवद्यति योऽभयादन्तमश्वं वा पुरुषं वा प्रतिगृह्णाति । ... [[વૈશ્વાનરં દ્વાદશકપાલં નિર્વપેત્|वैश्वानरं द्वादशकपालं निर्वपेत्]] ॥ Tai. S. II. 2. 6. 3; अहं च दास्याय ते ॥ Bṛ. Up. IV. 4. 23; इह खलु गोअश्वमिहस्तिहिरण्यं दासभार्यं क्षेत्राण्यायतनानीति महिमानमाचक्षते । Chān. Up. VII. 24. 2.
+    आत्मनो वा एष मात्रामाप्नोति यो उभयादन्तंप्रतिगृह्णात्यश्वं वा पुरुषं वा वैश्वानरं द्वादशकपालं निर्वपेदुभयादत्प्रतिगृह्य । तै. सं. II. 2. 6. 3 ; सोऽहं भगवते विदेहान् ददामि मां चापि सह दास्याय । बृह. उ. IV. 4. 23 ; गो अश्वमिह महिमेत्याचक्षते हस्तिहिरण्यं दासभार्यं क्षेत्राण्यायतनानीति । छा. उ. VII. 24. 2,
 
 
 [[P182]] Vide also Chān. Up. V. 13. 2 and Bṛ. Up. VI. 2. 7 for references to dāsīs. These passages show that in the Vedic period men and women had become the subjects of gifts and so were in the condition of slaves.
@@ -58,7 +58,7 @@ Jaimini (VI. 7. 6)[^424] makes this perfectly clear by saying that when a man ma
 > 'the śūdra may not desire to serve the man to whom the sacrificer gives his all and the latter has no power over him if he is unwilling.'
 
 [^424]:
-    तथा शूद्रो धर्मशास्त्रत्वात् । Jaimini VI. 7. 6; 'ननु शूद्रो धर्मशास्त्रोपनतः । कुतः । धर्मशास्त्रत्वात् । धर्मशास्त्रेणोपनतत्वात्तस्य । एवमसौ तस्मै त्रैवर्णिकायोपनत इमं शुश्रूषतामिति । यद्यपि शुश्रूषेत यदि नेच्छेत् कस्तं निवारयेत्' in Śabara's bhāṣya on this.
+    शूद्रश्च धर्मशास्त्रत्वात् । जै. VI. 7. 6 ; 'शूद्रश्च न देय इत्यान्वादेशः । कुतः । धर्मशास्त्रत्वात् । धर्मशासनोपनतत्वात्तस्य । एवमसौ तस्मै त्रैवर्णिकायोपनत इमं शुश्रूषमाणो धर्मेण संभन्त्स्य इति । सोऽन्यस्मै दीयमानो नेच्छेदपि । न चानिच्छतस्तस्य स प्रभवति ।' शबर.
 
 
 
@@ -76,10 +76,10 @@ Manu (VIII. 299-300) places a slave on the same level as one's son in the matter
 > 'the wife, the son, the slave, a menial servant, one's full brother—these when guilty of wrong may be beaten with a rope [[P183]] or a thin piece of split bamboo, but only on the back and never on the head and if a person beat them otherwise he would be punished as a thief.'
 
 [^425]:
-    आत्मानं वा भार्यां वा पुत्रं वातिथ्यर्थं नोपरुन्ध्यात् । दासं वा कर्मकरं वा ॥ Āp. Dh. S. II. 4. 9. 11.
+    काममात्मानं भार्यां पुत्रं वोपरुन्ध्यान्न त्वेव दासकर्मकरम् । आप. ध. सू. II. 4. 9. 11.
 
 [^426]:
-    अन्योऽपि च न विक्रेयो मनुष्यः किं पुनः प्रजाः । अधर्ममूलैर्हि धनैस्तेन धर्मोपलिप्सिता ॥ Anuśāsana Parva 45. 23.
+    अन्योप्यथ न विक्रेयो मनुष्यः किं पुनः प्रजाः । अधर्ममूलैर्हि धनैस्तेन धर्मोऽथ कश्चन ॥ अनुशासनपर्व 45. 23.
 
 
 ## Provenance over time
@@ -110,7 +110,7 @@ He prescribes the first amercement for a master having intercourse with a pledge
     Vide Rhys Davids in 'Buddhist India' (1903) p. 263.
 
 [^428]:
-    म्लेच्छानामदोषः प्रजां विक्रोतुमाधातुं वा न त्वेवार्यस्य दासभावः । Arthaśāstra III. 13.
+    म्लेच्छानामदोषः प्रजां विक्रेतुमाधातुं वा । न त्वेवार्यस्य दासभावः । कौटिल्य III. 13.
 
 
 ## Manu categories
@@ -121,7 +121,7 @@ He states the general rule[^429] that the wife, the son and the slave have no we
 Manu prescribes a fine of 600 paṇas for a brāhmaṇa making a member of the dvijāti castes after his upanayana a slave against his will.
 
 [^429]:
-    भार्या पुत्रश्च दासश्च त्रय एवाधनाः स्मृताः । यत्ते समधिगच्छन्ति यस्य ते तस्य तद्धनम् ॥ Manu VIII. 416. This is the same as Śabara's bhāṣya 33. 64 where the first half is 'त्रयो धनानि राज्ञस्तु दासश्चाश्रोत्रियो मुनिः', compare Nārada (ṛṇādāna) verse 41.
+    भार्या पुत्रश्च दासश्च त्रय एवाधनाः स्मृताः । यत्ते समधिगच्छन्ति यस्य ते तस्य तद्धनम् ॥ मनु VIII. 416. This is the same as उद्योगपर्व 33. 64 where the first half is 'त्रय एवाधना राजन् भार्या दासस्तथा सुतः' ; compare नारद (अभ्युपेत्याशुश्रूषा) verse 41.
 
 
 ## Other categorization
@@ -148,23 +148,23 @@ Kātyāyana (v. 721) says that when a brāhmaṇa becomes an apostate from the o
 Dakṣa (VII. 33) quoted by Aparārka (p. 787) adds that the apostate's head should be branded with the mark of a dog's foot.
 
 [^430]:
-    गृहाद्वाराधिस्थानरथ्यावस्करशोधनम् । गुह्याङ्गस्पर्शनोज्झिष्टविण्मूत्रग्रहणोज्झनम् ॥ इष्टतः स्वामिनश्चापि शरीरस्योपसेवनम् । अशुद्धं कर्म विज्ञेयं शुद्धमन्यदतः परम् ॥ Nārada (v. 6-7).
+    गृहद्वाराशुचिस्थानरथ्यावस्करशोधनम् । गुह्याङ्गस्पर्शनोच्छिष्टविण्मूत्रग्रहणोज्झनम् ॥ इच्छतः स्वामिनश्चाङ्गैरुपस्थानमथान्ततः । अशुद्धं कर्म विज्ञेयं शुद्धमन्यदतः परम् ॥ नारद ( अभ्यु. 6-7 ).
 
 [^431]:
     A slave who is pledged becomes the slave of two till the pledge is redeemed.
 
 [^432]:
-    स्वतन्त्रस्यात्मनो दानाद् दासत्वं [[दासपद्धयः|दासवद्भवेत्]] । त्रिषु वर्णेषु विज्ञेयं दास्यं विप्रस्य [[नाचित्|न क्वचित्]] ॥ वर्णानामानुलोम्येन दास्यं न प्रतिलोमतः । Kātyāyana quoted by Aparārka p. 788; compare Nārada (v. 39).
+    स्वतन्त्रस्यात्मनो दानाद् दासत्वं दासवद्भृगुः । त्रिषु वर्णेषु विज्ञेयं दास्यं विप्रस्य न क्वचित् ॥ वर्णानामानुलोम्येन दास्यं न प्रतिलोमतः । कात्यायन quoted by अपरार्क p. 788 ; compare नारद (अभ्यु. 39).
 
 [^433]:
-    ब्राह्मणस्य हि दासत्वं न कदाचिद्विधीयते । वर्णज्येष्ठे स्थिते विप्रे दासत्वं तस्य नेष्यते ॥ शीलाध्ययनसंपन्ने तच्छुश्रूषां तु कामतः । तत्रापि नाशुभं किंचित्प्रकुर्वीत द्विजोत्तमः ॥ Kātyāyana (vv. 717 and 719) quoted by Aparārka p. 789 and Sm. C.
+    समवर्णोऽपि विप्रं तु दासत्वं नैव कारयेत् । ब्राह्मणस्य हि दासत्वान्नृपतेजो विहन्यते ॥ शीलाध्ययनसंपन्ने तद्व्रतं कर्म कामतः । तत्रापि नाशुभं किंचित्प्रकुर्वीत द्विजोत्तमः ॥ कात्यायन (vv. 717 and 719) quoted by अपरार्क p. 789 and स्मृतिच०.
 
 
 ## Slave mother freed
 Kauṭilya[^434] and Kātyāyana (v. 723) both declare that if a master has sexual intercourse with a female slave and she is delivered of a child, both the slave and the child should be given freedom by the master.
 
 [^434]:
-    स्वामिनो दास्यां जातं पुत्रमात्मनः सदासभावं च दासीं मोचयेत् । Arthaśāstra III. 13.
+    स्वामिनस्तस्यां दास्यां जातं समातृकमदासं विद्यात् । कौटिल्य III. 13.
 
 
 ## Inheritance
@@ -173,7 +173,7 @@ Kauṭilya[^434] and Kātyāyana (v. 723) both declare that if a master has sexu
 Kauṭilya declared that the heirs to the wealth of a slave are his relatives and if none of them exist then the master, while Kātyāyana[^435] says that the only wealth that the slave can call his own is the price he received for selling himself or what the master gave as a gift through favour.
 
 [^435]:
-    दासस्य तु धनं यत्स्वाधीनं तस्य प्रभुः स्मृतः । प्रसादविक्रयाच्च न स्वामी तत्र प्रभुः ॥ Kātyāyana 724 (quoted by Sm. C. p. 150 and V. R. p. 46).
+    दासस्य तु धनं यत्स्वामी तस्य प्रभुः स्मृतः । प्रसादविक्रयाद्यत्तु न स्वामी धनमर्हति ॥ कात्यायन 724 (quoted by वि. र. p. 150 and वि. चि. p. 46).
 
 
 ## Manumission
@@ -189,7 +189,7 @@ The Vyavahāramayūkha remarks that this passage is not reliable as it is not fo
 Nārada mentions 15 kinds of slaves, but this is not one of them. All that the Kalikāpurāṇa probably means is that when a boy is adopted into another family after his cūḍā and upanayana are performed in the family of birth, he is not fully affiliated in the family of adoption, he does not become a son and so does not take the inheritance but is only entitled to maintenance in the family of adoption, just as a slave is to be fed. No digests have recognised such a person as a slave proper.
 
 [^436]:
-    ...कृतकाद्या यदि संस्काराः पितृगोत्रेण संस्कृताः । स्युस्तदा पितुरेवैते नान्यथा दास उच्यते ॥ Vyavahāramayūkha p. 114 (of my edition). This verse occurs in the Dattakamīmāṃsā also where the reading is 'अन्यगोत्रेण वा यदि संस्कारा...'
+    यत्तु कालिकापुराणे चूडोपनयनसंस्कारा निजगोत्रेण वै कृताः । दत्ताद्यास्तनया ते स्युरन्यथा दास उच्यते ॥ व्यवहारमयूख p. 114 (of my edition). This verse occurs in the दत्तकमीमांसा also where the reading is चूडाद्या यदि संस्कारा.
 
 
 ## Debt
@@ -199,7 +199,7 @@ Nārada[^437] (ṛṇādāna 12) and Kātyāyana declare that a debt contracted 
 Ordinarily a slave was not a competent witness, but Manu VIII. 70 and Uśanas (quoted in Vyavahāramayūkha p. 37) say that when no other witness is available, a minor, an old man, a woman, a pupil, a relative, a slave or a hired servant may be a witness.
 
 [^437]:
-    शिष्योऽन्तेवासिभृतकस्तथा दासश्च पञ्चमः । कुटुम्बार्थे कृतं ऋणं स्वामी दद्यादतन्द्रितः ॥ Nārada (ṛṇādāna v. 12); प्रोषितस्यामतेनापि कुटुम्बार्थे ऋणं कृतम् । दासस्त्रीशिष्यपुत्रैर्वा दद्यात् प्रोषित एव तु ॥ Kātyāyana quoted by Smṛti C. p. 648, V. C. p. 56.
+    शिष्यान्तेवासिदासस्त्रीप्रेष्यकृत्यकरैश्च यत् । कुटुम्बहेतोरुक्षिप्तं दातव्यं तत्कुटुम्बिना ॥ नारद ( ऋणादान v. 12 ) ; प्रोषितस्यामतेनापि कुटुम्बार्थमृणं कृतम् । दासस्त्रीमातृशिष्यैर्वा दद्यात् पुत्रेण वा भृगुः ॥ कात्यायन quoted by अपरार्क p. 648, वि. र. p. 56.
 
 
 ## Works on slavery

@@ -4,34 +4,32 @@ title = "+4"
 +++
 
 
-HISTORY OF DHARMASASTRI 
+HISTORY OF [[DHARMASASTRI|DHARMAŚĀSTRA]] 
 
-; 
+(ANCIENT AND MEDIÆVAL RELIGIOUS AND CIVIL LAW) 
 
-(AXCIENT 4X 1.130,1 ili 12:2 
+BY 
 
-XI) CHVIL, I, 
+MAHĀMAHOPADHYAYA PANDURANG VAMAN KANE, M.A., LL.M., D.LITT. 
 
-, 
+Vol. IV 
 
-Vol IV 
+(PĀTAKA, [[PRIYAŚCITTA|PRĀYAŚCITTA]], [[KAR:1.11AK|KARMAVIPĀKA]], [[ANTYESTI|ANTYEṢṬI]], [[ASAUCA|AŚAUCA]], [[SUDDI)|ŚUDDHI]], [[SRIDDILI|ŚRĀDDHA]] 
 
-(PĀTAKA, PRIYAŚCITTA, KAR:1.11AK, ANTYESTI, ASAUCA, SUDDI), SRIDDILI 
-
-AND TIRTITAYATR.) 
+AND [[TIRTITAYATR.)|TĪRTHAYĀTRĀ]]) 
 
 Bhandarkar Oriental Research Institute, Poona 
 
 1953 
 
-Copies can be had direct from the Bhandarhar Onental 
+Copies can be had direct from the [[Bhandarhar Onental|Bhandarkar Oriental]] 
 
-Research Institute, Poona 1, India Price Rs. 30 per copy, exclusive of Postage, 
+Research Institute, [[Poona 1|Poona 4]], India Price Rs. 30 per copy, exclusive of Postage, 
 
-Prinled by Mr K G Shrrangpani, at the Aty zbliushan Press, 
+[[Prinled|Printed]] by Mr. [[K G Shrrangpani|K. G. Sharangpani]], at the [[Aty zbliushan|Aryabhushan]] Press, 
 
-915/1 Shuaji Nagar, Poona 4, 
+915/1 [[Shuaji|Shivaji]] Nagar, Poona 4, 
 
-and Published by Dr. R. X Daodchar, Y.A.Pb D, Hon. Secretary, 
+and Published by Dr. [[R. X Daodchar|R. N. Dandekar]], [[Y.A.Pb D|M.A., Ph.D.]], Hon. Secretary, 
 
-Bbandarlar Oriental Research Iostitate, Poona + 
+[[Bbandarlar|Bhandarkar]] Oriental Research [[Iostitate|Institute]], [[Poona +|Poona 4.]]

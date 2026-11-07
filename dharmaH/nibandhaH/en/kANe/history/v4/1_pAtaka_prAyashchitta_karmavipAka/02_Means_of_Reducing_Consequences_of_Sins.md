@@ -7,378 +7,167 @@ CHAPTER II
 
 MEANS OF REDUCING CONSEQUENCES OF SINS
 
-CHAPTER II
+[[P41]]Confession—In [[Ap.|Āp.]] [[Dh,|Dh.]] S. [[1.|I.]] 9. 24. 15, [[1.|I.]] 10. [[28, 19,|28. 19,]] [[1. 10.29.1|I. 10. 29. 1]] it is prescribed that the person undergoing a penance for being an abhiśasta or for unjustly forsaking his wife or for the murder of a learned brāhmaṇa has to declare his misdeed while begging for alms to support himself. The Vedic student who was guilty of sexual intercourse had also to proclaim his lapse while begging at seven houses ([[Gaut,|Gaut.]] 23.18, Manu XI. [[122 ).|122).]][^98]
 
-MEANS OF REDUCING CONSEQUENCES OF SINS
+[^98]:
+    Confession of sins has played a prominent part in early and medieval Christianity. For example, (First epistle of) John I. 9 says 'If we confess our sins, he is faithful and just to forgive us our sins and cleanse us from all unrighteousness'.
 
-Confession-In Ap. Dh, S. I. 9. 24. 15, 1. 10. 28, 19, 1. 10.29.1 it is prescribed that the person undergoing a penance for being an abhiśasta or for unjustly forsaking his wife or for the murder of a learned brāhmaṇa has to declare his misdeed while begging for alms to support himself. The Vedic student who was guilty of sexual intercourse had also to proclaim his lapse while begging at seven houses (Gaut, 23.18, Manu XI. 122 ).98
+Repentance ([[anutūpa|anutāpa]])—Manu[^99] XI. 229-230 ([[=Vispudharm oftara II. 73.231-32 )|(=Viṣṇudharmottara II. 73.231-32)]] provide: "The more a man's mind loathes his own evil deed the more does his body become freed from the unrighteousness (committed by him). If after committing a sin a man feels repentance for having done it he becomes free from that sin. He becomes purified only by the resolution of ceasing to sin and thinking 'I shall not do so again'".[^100] The [[Visnupurāṇa|Viṣṇupurāṇa]] II. 6.40 lays emphasis on repentance and humble devotion to [[Krspa.|Kṛṣṇa.]] Pr. V. (p. [[30 )|30)]] quotes a verse of [[Angiras|Aṅgiras]] [["A man|'A man]] after committing sins, if he is consumed by repentance and is sorry day and night (for his misdeed), is purified by [[prānāyāma'.|prāṇāyāma'.]] The view of digests like the Pr. [[Prakasa|Prakāśa]] is that [[P42]]repentance by itself is not enough to destroy sins, but that repentance renders the sinners fit to receive penance, just as paring the nails and the like make the person intending to perform a Vedic sacrifice fit to be a [[dikṣita.|dīkṣita.]] Yama quoted by Aparārka (p. 1231) states that repentance and stopping from repeating the sin are merely the [[angas|aṅgas]] ([[ subsidiary elements)|(subsidiary elements)]] of prāyaścittas and cannot independently take the place of [[penances,|penances.]]
 
-Repentance (anutūpa)-Manu99 XI. 229-230 (=Vispudharm oftara II. 73.231-32 ) provide: "The more a man's mind loathes his own evil deed the more does his body become freed from the unrighteousness (committed by him). If after committing a sin a man feels repentance for having done it he becomes free from that sin. He becomes purified only by the resolution of ceasing to sin and thinking 'I shall not do so again". 100 The Visnupurāṇa II. 6.40 lays emphasis on repentance and humble devotion to Krspa. Pr. V. (p. 30 ) quotes a verse of Angiras "A man after committing sins, if he is consumed by repentance and is sorry day and night (for his misdeed), is purified by prānāyāma'. The view of digests like the Pr. Prakasa is that
+[^99]:
+    Manu XI. 229 also occurs in ब्रह्मपुराण 218. 5.
 
-98. Confession of sins has played a prominent part in early and medie val Christianity. For example, (First epistle of) John I. 9 says 'If we confess our sins, he is faithful and just to forgive us our sins and cleanse us from all unrighteousness'.
+[^100]:
+    Compare Christ's call to repentance in Matthew 4. 17 and Mark I. 15 and his last words (in Luke 24. 47) that 'repentance and remission of sins should be preached in his name among all nations'. शोचेत मनसा नित्यं दुष्कृतान्यनुचिन्तयन् । तपस्वी चाप्रमत्तश्च पापेभ्यः स प्रमुच्यते ॥ इति कल्पतरूदाहृतवाक्येन तपस्विपदोपादानात् ।...पुनरङ्गिराः । विकर्मणा तप्यमानः पापाद्धि परिमुच्यते । इति । अत्रानुतापमात्रस्य पापनाशकत्वानुपपत्तेः पापनाशकप्रायश्चित्ते अधिकारिविशेषणत्वेन पापनाशप्रयोजकत्वमुक्तम् । विष्णुरपि । मनःसंतापनात्तीव्रमुद्वहेच्छोकमन्ततः । ...अत्र सर्वत्रानुतापस्य विहितत्वेन नखानि निकृन्तति इत्यादिवद् दीक्षितत्ववैराग्यवच्चाधिकारिविशेषणत्वमेव । प्रा. प्रकाश folio 11 ; यमः । पश्चात्तापो निवृत्तिश्च स्नानं चाङ्गतयोदितम् । नैमित्तिकानां स्वातन्त्र्ये तद्विधिः स्यादनर्थकः ॥ महाक्लेशसाध्यं हि प्रायश्चित्तम् । अल्पक्लेशा हि पश्चात्तापादयस्ततः प्रायश्चित्तफले कृते प्रायश्चित्तविधिरफल इति स्पष्टम् । अपरार्क p. 1231.
 
-99. Manu XI. 229 also occurs in tro 218. 5.
+Prāṇāyāma (restraint of the breath). Vide H. of Dh. vol. [[II|II.]] p. 317 for a description of this. Manu XI. 248 (which is the same as Baud. Dh. S. [[IV, 1.31,|IV. 1. 31,]] [[Vas, 26.4,|Vas. 26. 4,]] Atri II. 5, [[Sankhasmrti|Śaṅkhasmṛti]] [[XII.18-19 )|XII. 18-19)]] lays down: [[sixteen|'sixteen]] prāṇāyāmas attended by the [[Vyāhrtis|Vyāhṛtis]] and the [[Pranava|Praṇava]] ([[omkāra),|oṁkāra),]] if [[per formed|performed]] every day, would purify after a month even the murderer of a [[bhrūna|bhrūṇa]] (a learned [[brāhmana).|brāhmaṇa)'.]] [[Visnu|Viṣṇu]] Dh. S. [[55.2|55. 2]] (in prose) is to the same effect. Vas. [[26.1-3|26. 1-3]] provide that on the proper performance of three [[prānāyāmas|prāṇāyāmas]] all the sins committed by day or in the night are at once destroyed. Yāj. III. 305 [[statas|states]] that for the removal of all sins, of upapātakas and of sins for which no special expiation is provided by the texts one hundred [[prānāyāmas|prāṇāyāmas]] should be performed. This refers to sins not known to others for which expiation is to be performed secretly. Baud. Dh. S. [[(IV.1,5-11)|(IV. 1. 5-11)]] provides for varying numbers (3, 7, [[12 )|12)]] of prāṇāyāmas to be spread over one day to a year for different kinds of sins ranging from the eating of the food of a [[sūdra|śūdra]] to [[brāhmana|brāhmaṇa]] murder. This whole passage [[is.|is]] quoted by the Mit. on Yāj. [[III,305|III. 305]] which points out the kinds of sins it deals with. The Agnipurāṇa [[173.21|173. 21]] has the same half verse as [[Yaj.|Yāj.]] [[III.305|III. 305]] (first [[half ).|half).]]
 
-100. Compare Christ's call to repentance in Matthew 4. 17 and Mark I. 15 and his last words (in Luke 24. 47) that repentance and remission of sins should be preached in his name among all nations'. Ira FTET नित्यं दुष्कृतान्यनुचिन्तयन् । तपस्वी चाप्रमत्तश्च पापेभ्यः स प्रमुच्यते ॥ इति कल्पतरूदाहृत
+Tapas (austerity). Even [[Rg.|Ṛg.]] X. 154. 2 speaks of tapas as leading to heaven and as unassailable. The Chān. Up. V. 10. 1-2, [[Mundaka|Muṇḍaka]] Up. I. 2. 10-11 place tapas over yajña. Gaut. [[19.15|19. 15]] says that celibacy,[^101] truthfulness, bathing thrice daily (in the morning, at noon and in the evening), wearing wet clothes (till they are dried on the body), sleeping on the ground (on a raised part or altar) and fasting constitute austerities. Baud. Dh. S. III. 10. 13 adds to these [['ahimsā'|'ahiṁsā']] (non-injury to any being), astainya (not depriving any one of his property) and [[puru. sugrūṣa|guruśuśrūṣā]] (attendance upon a teacher). Gaut. 19. 17 [[sates|states]] that [[P43]]the periods for which tapas is to be observed are a year, six months, four months, three months, two months, one (month), 24 days, 12 days, 6 days, 3 days, a day and a night (according to the nature of the sin). Manu XI. 239-241 declare that those guilty of [[mahāpatakas|mahāpātakas]] and others guilty of evil deeds are freed from sins by well-practised tapas and that whatever sins are committed by people in thought, word and bodily actions are all quickly burnt by tapas. This doctrine is shared by [[th|the]] Jainas as stated in the [[Uttaradhyayana|Uttarādhyayana]] XXIX. 27 [[by|'by]] austerities he cuts off karman' ([[S B. E,|S. B. E.]] vol. 45 p. 166).
 
-FİT ATTATYTITETA I... gaisr: I FECHOTT CEST: TOTO sya I gai अत्रानुतापमात्रस्य पापनाशकत्वानुपपत्तेः पापनाशकपायश्चित्ते अधिकारिविशेषणवेन पापनाश प्रयाजकत्वमुक्तम् । विष्णुरपि। मनःसंतापनात्तीवमुदहेच्छोकमन्ततः । ...अत्र सर्वत्राङतापस्य विहितत्वेन नखानि निकृन्तति इत्यादिव दीक्षितत्ववैराग्यवच्चाधिकारिविशेषणत्वमेव मा. मकाश folio 11; यमः । पश्चात्तापो निवृत्तिश्च स्नानं चाङ्गतयोदितम् । नैमित्तिकानां स्वातन्डये ताद्वाधः स्यादनर्थकः ॥ महाक्लेशसाध्यं हि प्रायश्चित्तम् । अल्पक्लेशा हि पश्चासापादेयतः
+[^101]:
+    ब्रह्मचर्यं सत्यवचनं सवनेषूदकोपस्पर्शनमार्द्रवस्त्रताधःशायिताऽनाशक इति तपांसि । गौ. 19. 15.
 
-a rafutno na FTTI 37 p. 1231.
+Homa (sacrifice into fire). The Tai. [[A.|Ā.]] ([[II,|II.]] 7-8) describes[^102] the [[kūsmānda|kūṣmāṇḍa]] homa and [[diksa|dīkṣā]] and II. 8 prescribes that the man who regards himself as impure should offer a sacrifice with the [[kūsmanda|kūṣmāṇḍa]] mantras (mentioned in Tai. [[A.|Ā.]] II. 3-6, viz 'yaddevā deva-hedanam' ([[Vaj.|Vāj.]] S. [[20.14-16=Tai.|20. 14-16 = Tai.]] [[A.|Ā.]] II. [[3.1).|3. 1).]] The [[Mahārnava karmavipaka|Mahārṇavakarmavipāka]] (folio 8 a) prescribes the procedure of [[Kūsmānda|Kūṣmāṇḍa]] homa taken from Jamadagni which is brief. It is as [[follows:|follows:—]] After shaving the hair on the head and the moustache and taking a bath in holy water one should offer the [[ajyabhāgas|ājyabhāgas]] and then offer oblations of clarified butter with the three Anuvākas beginning with 'yad devā devahedanam,' and then he worships fire with the verses beginning with [['Vaisvānarāya pratipā. dayāni.'|'Vaiśvānarāya pratipādayāmi.']] He then offers samidh with the mantra [['yadadiya. yam'|'yadadivāyam']] and then he repeats the Jayā mantras. He has to observe the rules for a [[dikṣita|dīkṣita]] viz. not eating flesh, avoiding sexual intercourse, not telling a falsehood and not sleeping on a cot. He has to subsist on milk (if he is a [[brāhmana),|brāhmaṇa),]] on barley gruel if a [[ksatriya|kṣatriya]] and on [[āmiksā|āmikṣā]] if he is a [[vaisya.|vaiśya.]] The [[Kuṣmāṇda-homa|Kūṣmāṇḍa-homa]] as prescribed by Baudhāyana is a longer one. The [[Baud,|Baud.]] Dh. S. III. [[7,1|7. 1]] prescribes that he who considers himself impure should offer burnt oblations reciting the [[kūṣmānda|kūṣmāṇḍa]] mantras, that he who has had forbidden intercourse becomes even like a thief or [[evən|even]] like a slayer of a learned [[brāhmana|brāhmaṇa]] [[P44]]and that (by performing homa with [[kūsmāndas)|kūṣmāṇḍas)]] he becomes free from any sin that is less than the murder of a learned brāhmaṇa. Yāj. III. 309 provides that whenever a twice-born man feels himself mixed up in heavy sins he should perform a homa with sesame with the sacred [[Gāyatri|Gāyatrī]] mantra. The Mit. following a verse of Yama says that one lakh of offerings of sesame must be made. Both [[Manu.|Manu]] XI. 34 and Vas. 26. 16 say that a [[brāhmana|brāhmaṇa]] becomes free from all [[distrasses|distresses]] by Vedic recitations (japa) and sacrifices (homa). When the wife [[con fessed|confessed]] to the existence of a paramour, the Śat. Br. II. 5. 2. 20 states that she made an offering into the Dakṣiṇāgni with the mantra ([[Vaj.|Vāj.]] S. [[IIT.|III.]] 45) 'whatever[^103] sin we have committed, whether in the village, in the forest, in society or by the organs of sense, we cast that away by this sacrifice, svāhā.' Both Manu (VIII. 105) and Yāj. [[(II, 83)|(II. 83)]] prescribe that when a witness tells a falsehood in order to prevent an accused person from [[be ing|being]] sentenced to death, he should offer for expiating his perjury an oblation of boiled rice to Sarasvatī. There are other homas also prescribed such as the Gaṇahoma, in which such verses as 'agne naya supathā' from the [[Taittiriya|Taittirīya]] [[sākhā|śākhā]] are recited ([[Mahārnava).|Mahārṇava).]]
 
-H.D. 6
+[^102]:
+    अथ कूष्माण्डैर्जुहुयाद्योऽपूत इव मन्येत यथा स्तेनो यथा भ्रूणहैवमेष भवति योऽयोनौ रेतः सिञ्चति । यदर्वाचीनमेनो भ्रूणहत्यायास्तस्मान्मुच्यत इति । तै. आ. II. 8, which is repeated in बौ. ध. सू. III. 7. 1, that is q. by the मिता. on या. III. 303. यत्र कर्मणि यद्देवा देवहेडनमित्यादयो मन्त्रास्तैत्तिरीयारण्यके समाम्नाताः स कूष्माण्डहोमः यस्मिंश्च अग्ने नय सुपथेति च तथा अग्ने मन्वे प्रथमस्य प्रचेतस इत्याद्या ऋचस्तैत्तिरीयशाखायां समाम्नाताः स गणहोमः । महार्णवकर्मविपाक folio 7 b. For अग्ने नय vide Ṛg. I. 189. 1, Tai. S. I. 1. 14. 3, Tai. Ā. I. 8. 8.
 
-FOUNDED
+[^103]:
+    यद् ग्रामे यदरण्ये यत्सभायां यदिन्द्रिये । यदेनश्चकृमा वयमिदं तदवयजामहे स्वाहा ॥ वाज. सं III. 45; vide also तै. सं. I. 8. 3 for a similar passage.
 
-H
+The old idea of sacrifice seems to have been that it was propitiatory in character. Sacrifice was not demanded or required by God. Sacrifice was probably regarded as a gift which pleased God, induced Him to forgive a man for his transgressions and enabled erring man to regain God's favour which had been lost by some shortcoming or some sinful act. Sacrifices therefore had an expiatory or cleansing function or character. Sacrifices may be performd by offerings either an animal (meant as substitute for the sinner himself who had forfeited his life for his sins and transgressions) or a burnt offering or any other thing offered to God and then [[distri buted|distributed]] to others.
 
-Bhandarkar Oriental Research Institute
+Japa (muttering of Vedic passages as prayers). Japa is of three kinds, vācika (audibly uttered), [[upārsu|upāṁśu]] (inaudibly uttered) and mānasa (mentally revolved), each succeeding one being ten times superior, acc. to Laghu Hārīta [[IV, 186,|IV. 186,]] [[P45]]([[Jivananda I.)|Jīvānanda I).]][^104] Śabara (on Jai. XII. [[4.1)|4. 1)]] distinguishes japa from stuti, the former being simply an utterance or recitation of a mantra or mantras.[^105] Inaudible japa is praised[^106] in [[Sānkhāyana|Śāṅkhāyana]] Br. 14. 1. The Āśv. [[Śr|Śr.]] I. 1. 20 provides that japa, [[anumantrana,|anumantraṇa,]] āpyāyana and upasthāna are uttered [[upāṁsu.|upāṁśu.]] The Āp. Śr. (24. 1. [[8-10 )|8-10)]] provides that mantras from the [[Rgveda|Ṛgveda]] and the [[Samaveda|Sāmaveda]] are uttered in sacrifices loudly and that passages of the Yajurveda are muttered [[upamśu|upāṁśu]] and the Tai. [[Pratisakhya23.6|Prātiśākhya 23. 6]] states that [[upāmsu|upāṁśu]] recitation is made by means of the effort of speech organs but without sound (i. e. in a very low voice) and without the mind being directed (to utterance with udātta and other accents) i. e. [['Karanavad asabdam-amanah-prayogam-upamsu'.|'Karaṇavad-aśabdam-amanaḥ-prayogam-upāṁśu'.]] Gaut. 19. 12 (= Baud. Dh. S. III. 10. 10 = [[Vas.22.9)|Vas. 22. 9)]] prescribes the following Vedic texts as purifiers: [[Upanisads,|Upaniṣads,]] [[Vedanta|Vedānta]] texts, the [[Samhita|Saṁhitā]] texts of all the Vedas (and not the [[padapātha|padapāṭha]] or [[kramapātha),|kramapāṭha),]] the Yajus texts in which the word 'madhu' occurs, the [[Aghamarsana|Aghamarṣaṇa]] hymn ([[Rg.|Ṛg.]] [[X, 190. 1-3),|X. 190. 1-3),]] the [[Atharvasiras,|Atharvaśiras,]] (the [[anuvakas|anuvākas]] called) Rudras, the [[Purusa|Puruṣa]] hymn ([[Rg.x.90),|Ṛg. X. 90),]] the two [[samans|sāmans]] called [[Rajata.|Rājata]] and [[Rauhineya,|Rauhiṇeya,]] the [[Br̥hat-sāma|Bṛhat-sāma]] and the Rathantara, the [[Puruṣagati saman,|Puruṣagati sāman,]] the [[Mahānāmni|Mahānāmnī]] verses, the Mahāvairāja (sāman), the [[Mahādivākirtya|Mahādivākīrtya]] (sāman), any of the [[Jyestha|Jyeṣṭha]] sāmans, the [[Bahispavamāna|Bahiṣpavamāna]] (sāman), the [[Kuṣmāndas,|Kūṣmāṇḍas,]] the [[Pāvamānis|Pāvamānīs]] ([[Rg.|Ṛg.]] IX) and the [[Sāvitri|Sāvitrī]] ([[Rg.|Ṛg.]] III. [[62.10).|62. 10).]][^107] The [[P46]]original idea of japa was highly spiritual. Deep knowledge of the Upaniṣads and other texts would have made the soul pure and enabled it to realize the supreme reality and induced in the mind love of all human beings as sparks of the one Divine Essence. Japa at the highest level was contemplation of God and endeavour to attain unity with God. The habit of [[repeat ing|repeating]] the sacred texts should lead to maintaining the soul in the presence and thought of God. Japa demands three things, purity of heart, detachment and placing oneself in the hands of God.
 
-42
+Manu XI. 46 provides that a sin unintentionally committed [[jsexpiated|is expiated]] by the recitation of Vedic texts as prayers, but that which men in their folly commit intentionally is expiated by [[prayascitta.|prāyaścitta.]]
 
-History of Dharmaśāstra
+[^104]:
+    अत्र जपयज्ञं प्रकृत्य नरसिंहपुराणम् । त्रिविधो जपयज्ञः स्यात्तस्य भेदं निबोधत । वाचिकाख्य उपांशुश्च मानसस्त्रिविधः स्मृतः । त्रयाणां जपयज्ञानां श्रेयान् स्यादुत्तरोत्तरम् । इति । अत्र हारीतः । उच्चैस्त्वेकगुणः प्रोक्तो ध्यानाद्दशगुणः स्मृतः । उपांशुः स्याच्छतगुणः सहस्रो मानसः स्मृतः । स्मृतिच. I. p. 149. The verses त्रिविधो... उत्तरोत्तरम् occur in नृसिंहपुराण 58. 78-79 and also in लघुहारीत IV. p. 186 (Jiv. I). Both these also define वाचिक and उपांशुजप as follows: 'मन्त्रमुच्चारयन् वाचा जपयज्ञस्तु वाचिकः । शनैरुच्चारयन्मन्त्रं किंचिदोष्ठौ प्रचालयेत् । किंचिच्छ्रवणयोग्यः स्यात्स उपांशुजपः स्मृतः ॥...'
 
-[Vol.
+[^105]:
+    वचनं जपनमिति समानार्थः, यस्मात् जप व्यक्तायां वाचीति स्मर्यते । तेन यत्र वचनमात्रं मन्त्रस्य क्रियते न स्तूयते नाशास्यते स जपः । शबर on जै. XII. 4. 1.
 
-repentance by itself is not enough to destroy sins, but that repentance renders the sinners fit to receive penance, just as paring the nails and the like make the person intending to perform a Vedic sacrifice fit to be a dikṣita. Yama quoted by Aparārka (p. 1231) states that repentance and stopping from repeating the sin are merely the angas ( subsidiary elements) of prāyaścittas and cannot independently take the place of penances,
+[^106]:
+    अथात आज्यमाज्येन वै देवाः सर्वान्कामानाजयन्त सर्वममृतत्वं... तद्वा इदं षड्विधमाज्यं तूष्णीं जपस्तूष्णीं शंसः पुरोरुक्सूक्तमुक्थवीर्यं याज्येति । ... अथ यत्पुरस्तात्तूष्णीं जपं जपति स्वर्गो वै लोको यज्ञस्तद्यत्पुरस्तात्तूष्णीं जपं जपति स्वस्त्ययनमेव तत्कुरुते स्वर्गस्य लोकस्य समष्ट्यै । शांखायनब्रा. 14. 1.
 
-Prāṇāyāma (restraint of the breath). Vide H. of Dh. vol. II p. 317 for a description of this. Manu XI. 248 (which is the same as Baud. Dh. S. IV, 1.31, Vas, 26.4, Atri II. 5, Sankhasmrti XII.18-19 ) lays down: sixteen prāṇāyāmas attended by the Vyāhrtis and the Pranava (omkāra), if per formed every day, would purify after a month even the murderer of a bhrūna (a learned brāhmana). Visnu Dh. S. 55.2 (in prose) is to the same effect. Vas. 26.1-3 provide that on the proper performance of three prānāyāmas all the sins committed by day or in the night are at once destroyed. Yāj. III. 305 statas that for the removal of all sins, of upapātakas and of sins for which no special expiation is provided by the texts one hundred prānāyāmas should be performed. This refers to sins not known to others for which expiation is to be performed secretly. Baud. Dh. S. (IV.1,5-11) provides for varying numbers (3, 7, 12 ) of prāṇāyāmas to be spread over one day to a year for different kinds of sins ranging from the eating of the food of a sūdra to brāhmana murder. This whole passage is. quoted by the Mit. on Yāj. III,305 which points out the kinds of sins it deals with. The Agnipurāṇa 173.21 has the same half verse as Yaj. III.305 (first half ).
+[^107]:
+    'Madhūni' are explained by Haradatta as 'मधुशब्दयुक्तानि यजूंषि ब्रह्ममेतु मामित्यादीनि'. These occur in तै. आ X. 38. It is better to hold as done by the मद. पा. p. 761, by Maskarin in his bhāṣya on Gaut. and by Pr. Prakāśa (folio 86a) that the word मधुनि refers to the three verses beginning with the words 'Madhu vātā' that are Ṛg. I. 90. 6-8 and occur in Tai. S. IV. 2. 9 and Vāj. S. XIII. 27-29 also, since they are styled मधुमती by आश्व. गृ., पार. गृ. I. 3, मानवगृ. I. 9. 14. Atharvaśiras is an उपनिषद् which begins with देवा ह वै स्वर्गं लोकमायंस्ते रुद्रमपृच्छन् को भवानिति. Vide the Nir. edition of 108 Upaniṣads (printed in 1925) for the अथर्वशिरस्. The अघमर्षण is highly eulogized as a destroyer of sins like Aśvamedha in Manu XI. 259-60, Viṣṇu Dh. S. 55. 7, Vas. 26. 8, Baud. Dh. S. IV. 2. 20. Rudras are the eleven anuvākas of Tai. S. IV. 5. 1-11 beginning with नमस्ते रुद्र मन्यवे. Acc. to Haradatta the two Sāmans Rājata and Rauhiṇa are sung on the Ṛk verse 'Indraṁ naro nemadhitā havante' (Ṛg. VII. 27. 1, Sāmaveda, Pūrvārcika 318). The बृहत्साम is sung on the verse त्वामिद्धि हवामहे (ऋ. VI. 46. 1, Sāmaveda Pūrvārcika No. 234), the Rathantara on the verse अभि त्वा शूर (ऋ. VII. 32. 22, Sāmaveda Pūrvārcika 233). In the भगवद्गीता X. 35 Śrīkṛṣṇa puts the Bṛhatsāma as the foremost among Sāmans (बृहत्साम तथा साम्नां). Puruṣagati Sāman is sung on the verse 'Aham-asmi prathamajā ṛtasya,' (Sāmaveda, Āraṇyakāṇḍa VI. 1 594). महानाम्नी verses are those beginning with विदा मघवन् विदा which occur in the तै. आ. IV, in the जैमिनीयसंहिता of the सामवेद (ed. by Dr. Raghuvira) and in other संहिताs. The महावैराज (सामन्) is sung on the verse पिबा सोममिन्द्र मन्दतु त्वा (ऋ. VII. 22. 1, सामवेद पूर्वार्चिक 398, उत्तरार्चिक 927); the महादिवाकीर्त्य is sung on विभाड्बृहत्पिबतु सोम्यं (ऋ. X. 170. 1, सामवेद अरण्यकाण्ड 628, उत्तरार्चिक 1453); about the ज्येष्ठसामानि हरदत्त mentions two interpretations (of the तलवकार शाखा and छन्दोगs), one holding that they are sung on उदु त्यं (Ṛg. I. 50. 1, सामवेद पूर्वार्चिक 31) and चित्रं देवानां (Ṛg. I. 115. 1), the other that they are three Sāmans sung on मूर्धानं दिवो (Ṛg. VI. 7. 1, सामवेद पूर्वार्चिक 67, उत्तरार्चिक 1140). Maskarin holds that ज्येष्ठसामानि are those sung on the verses शं नो देवी- (Ṛg. X. 9. 4) and चित्रं देवानां (Ṛg. I. 115. 1). The बहिष्पवमान is sung on उपास्मै गायता नरः (Ṛg. IX. 11. 1, सामवेद उत्तरार्चिक 651, 763). Vide H. of Dh. vol II pp. 1169-1170 for further details of the बहिष्पवमान. For the कूष्माण्डमन्त्र, vide तै. आ. II. 3-6. पावमान्यः are the verses about soma in the 9th Maṇḍala of the Ṛgveda. Sāvitrī is the famous Gāyatrī mantra (Ṛg. III. 62. 10).
 
-Tapas (austerity). Even Rg. X. 154. 2 speaks of tapas as leading to heaven and as unassailable. The Chān. Up. V. 10. 1-2, Mundaka Up. I. 2. 10-11 place tapas over yajña. Gaut. 19.15 says that celibacy, 101 truthfulness, bathing thrice daily in the morning, at noon and in the evening), wearing wet clothes (till they are dried on the body), sleeping on the ground (on a raised part or altar) and fasting constitute austerities. Baud. Dh, S. III. 10.13 adds to these 'ahimsā' (non-injury to any being), astainya (not depriving any one of his property) and puru. sugrūṣa (attendance upon a teacher). Gaut. 19. 17 sates that
+[[P47]]Manu II. 85-87 (which are the same as [[Vas,|Vas.]] 26. 9-11 and [[Visnu|Viṣṇu]] Dh. S. 55. 10-21) lay[^108] down: 'the performance of japa is ten times more efficacious than the sacrifices (like [[Darsapūrna māsa)|Darśapūrṇamāsa)]] prescribed by the rules (of the Veda), japa when carried on inaudibly is a hundred times superior (to sacrifices) and mental revolution of mantras is a thousand times superior. The four pākayajñas[^109] (Vaiśvadeva, bali, daily [[Śrūddha,|śrāddha,]] and [[hono uring gueste)|honouring guests)]] together with the Vedic sacrifices do not come up to even the 16th part of japa. A [[brāhmana|brāhmaṇa]] attains perfection (the highest goal) by japa; he may or may not engage in other duties (such as Vedic sacrifices); a brāhmaṇa befriends all creatures'. Great eulogy is bestowed on the inaudible japa of the [[Gāyatri|Gāyatrī]] mantra ([[Rg.|Ṛg.]] III. [[62,10)|62. 10)]] for which pp. 303-305 of H. of [[Dh,|Dh.]] vol. II may be consulted. Where no particular number is specially mentioned the recitation of a mantra is to be [[per formed|performed]] a hundred times.[^110]
 
-FOUNDED
+[^108]:
+    Manu II. 87 occurs in Śaṅkhasmṛti also (XII. 28).
 
-1917
+[^109]:
+    The five pākayajñas are enumerated in Manu III. 70 and the four meant are all of them except brahmayajña (teaching and studying Veda).
 
-101. i # ATITI. 19.15,
+[^110]:
+    'जपस्तु शतसंख्यकः, अनादेशे शतमिति सूत्रादिति शूलपाणिः । प्रा. प्रकाश, folio 143a.
 
-Fathirsiaranara:
+[[Manu1104|Manu]][^110a] XI. 261-262, Vas. [[27.1-3,|27. 1-3,]] [[Angiras|Aṅgiras]] 101 and other works go so far as to assert that the fire of Veda study [[con sumes|consumes]] guilt caused by evil deeds just as a fire burning strongly [[eonsumes|consumes]] even green trees or that a [[brahmana|brāhmaṇa]] who remembers [[Rgveda|Ṛgveda]] (studied by him) is not tainted by any guilt, though he may have destroyed the three worlds and have eaten the food of any person whatever. But these are simply [[laudatory(arthavadas)|laudatory (arthavādas)]] and are not to be taken literally, as [[Vas, 27, 4|Vas. 27. 4]][^111] ([[=Angiras|=Aṅgiras]] 102) gives the warning 'one should not become addicted to (or take pleasure in committing) evil deeds relying on the power of the Veda (stated in some [[smrti|smṛti]] passages). [[The effects of)|(The effects of)]] actions done through ignorance and negligence are alone consumed (by Veda study) and not those of other actions (intentionally done).'
 
-Sarsfida
+[^110a]:
+    Manu XI. 262 and Vas. 27. 3 are identical.
 
-Bhandarkar Oriental Research Institute
+[^111]:
+    न वेदबलमाश्रित्य पापकर्मरतिर्भवेत् । अज्ञानाच्च प्रमादाच्च दह्यते कर्म नेतरत् ॥ वसिष्ठ 27. 4, अङ्गिरस् 102.
 
-IV
+Many smṛtis such as Manu XI. [[249-957|249-257]] (which are almost the same as [[Vispudharmottara|Viṣṇudharmottara]] II. [[74,4-13),|74. 4-13),]] Vas. 26. 5-7 and 28. 10-15 (the former of which are the same as Manu XI. 249-251), [[Vispu|Viṣṇu]] [[P48]]Dh. S. 56. 3-27, Atri VI. 1-5 (which are almost the same as Vas.[^112] 28. 10-15), [[Sankha,|Śaṅkha,]] chap. 11 (=Vas. 28. 10-15), [[Samvarta|Saṁvarta]] [[227 228,|227-228,]] Baud. Dh. S. IV. 2. 4-5, IV. 3. 8, IV. 4. 2-5, Yāj. [[IJI.|III.]] 302-305, prescribe several Vedic hymns or single Vedic verses or prose passages as specially efficacious for removing all sins. It is not possible nor necessary to set down all of them, but by way of sample the verses of Manu (XI. 249-257) are translated here. 'Even a drinker of surā becomes pure if he mutters the hymn (seen) by Kutsa[^113], the three verses beginning with [['prati"|'prati']] [[(Rg. VII 80. 1-3)|(Ṛg. VII. 80. 1-3)]] seen by [[Vasistha,|Vasiṣṭha,]] the Māhitra hymn ([[Rg.|Ṛg.]] X. 185), the verses called [[Suddhavatis|Śuddhavatīs]] ([[Rg. VIII,|Ṛg. VIII.]] 95. 7-9 where the word [[suddha'|'śuddha']] occurs 13 times in different connections). Even he who has stolen gold (of a [[brāhmana)|brāhmaṇa)]] instantly [[tecomes|becomes]] free from guilt if he once mutters (the hymn) beginning with 'asya vāmasya' [[i. e. Rg. I. 164. 1-52),|(i. e. Ṛg. I. 164. 1-52),]] and the [[Sivasankalpa|Śivasaṅkalpa]] (Vāj. S. XXXIV. 1-6). The violater of a guru's bed is freed from sin if he repeatedly recites the hymn beginning with [['havispāntam'|'haviṣpāntam']] ([[Rg.|Ṛg.]] X. [[88. 1-19 )|88. 1-19)]] and the hymn beginning with [['na tam-amho|'na tam-aṁho']] ([[i. e. Rg. X. 126.1-8),|(i. e. Ṛg. X. 126. 1-8),]] the hymn beginning with 'iti' ([[i. e. Rg. X. 119)|(i. e. Ṛg. X. 119)]] and the hymn addressed to [[Purusa|Puruṣa]] ([[Rg.|Ṛg.]] X. 90). He who desires to do away with sins, great and small, should mutter during a year the verse beginning with 'ava' (i. e. 'ava te [[helo|heḷo]] [[varuna|varuṇa]] [[namobhih'|namobhiḥ']] [[Rg.|Ṛg.]] I. 24. 14, Tai. S. I. 5. 11. 3), or the [[vərse|verse]] 'yat [[kim|kiṁ]] ca' [[(Rg. VII, 89. 5)|(Ṛg. VII. 89. 5)]] or the verse 'iti vā' ([[Rg. X 119. 1).|Ṛg. X. 119. 1).]] That man who, having accepted a gift that ought not to be accepted, or having [[eatən|eaten]] forbidden food, mutters the hymn beginning with 'tarat sa mandī' [[(Rg. IX. 58.1-4)|(Ṛg. IX. 58. 1-4)]][^114] becomes pure after three days. He who has committed many sins becomes pure if he recites for a month the hymn beginning with 'Somā rudrā' ([[Rg.|Ṛg.]] VI. 74. 1-4) and the three verses beginning with [[Aryamanam'|'Aryamaṇam']] ([[Rg. IV.2.4-6)|Ṛg. IV. 2. 4-6)]] while he bathes in a river (and not in a pond or other reservoir of water). One guilty of a [[grioyous|grievous]] offence should mutter the seven verses beginning with 'Indram' ([[Rg.|Ṛg.]] I. 106. 1-7). A twice-born man removes even very great guilt by offering clarified butter for a year (in fire) with the mantras for the [[Sakalahomas|Śākalahomas]] (Vāj. S. VIII. 13) or by muttering the [[P49]]mantra 'nama id-ugram' ([[Rg.|Ṛg.]] VI. 51. 8). One who is stained by mortal sin becomes pure if with a concentrated mind he attends cows for a year, reciting the [[Pāvanāni|Pāvamānī]] hymns (the whole of [[Rg.|Ṛg.]] IX) and subsisting on alms.[^114a]
 
-Tapas (austerities )
+[^112]:
+    Vas. 28. 10-15 are quoted in स्मृतिच. I. p. 187. Atri VI. 1-5 are quoted as Atri's in Gṛ. R. p. 245.
 
-the periods for which tapas is to be observed are a year, six months, four months, three months, two months, one (month), 24 days, 12 days, 6 days, 3 days, a day and a night (according to the nature of the sin). Manu XI. 239-241 declare that those guilty of mahāpatakas and others guilty of evil deeds are freed from sins by well-practised tapas and that whatever sins are committed by people in thought, word and bodily actions are all quickly burnt by tapas. This doctrine is shared by th Jainas as stated in the Uttaradhyayana XXIX. 27 by austerities he cuts off karman' (S B. E, vol. 45 p. 166).
+[^113]:
+    The Kautsa hymn is Ṛg. I. 97. 1-8, all of which have as their refrain अप नः शोशुचदघम्, 'may he burn away our sin.'
 
-Homa (sacrifice into fire). The Tai. A. (II, 7-8) describes 102 the kūsmānda homa and diksa and II. 8 prescribes that the man who regards himself as impure should offer a sacrifice with the kūsmanda mantras (mentioned in Tai. A. II. 3-6, viz 'yaddevā deva-hedanam' (Vaj. S. 20.14-16=Tai. A. II. 3.1). The Mahārnava karmavipaka (folio 8 a) prescribes the procedure of Kūsmānda homa taken from Jamadagni which is brief. It is as follows: After shaving the hair on the head and the moustache and taking a bath in holy water one should offer the ajyabhāgas and then offer oblations of clarified butter with the three Anuvākas beginning with 'yad devā devahedanam,' and then he worships fire with the verses beginning with 'Vaisvānarāya pratipā. dayāni.' He then offers samidh with the mantra 'yadadiya. yam' and then he repeats the Jayā mantras. He has to observe the rules for a dikṣita viz. not eating flesh, avoiding sexual intercourse, not telling a falsehood and not sleeping on a cot. He has to subsist on milk (if he is a brāhmana), on barley gruel if a ksatriya and on āmiksā if he is a vaisya. The Kuṣmāṇda-homa as prescribed by Baudhāyana is a longer one. The Baud, Dh. S. III. 7,1 prescribes that he who considers himself impure should offer burnt oblations reciting the kūṣmānda mantras, that he who has had forbidden intercourse becomes even like a thief or evən like a slayer of a learned brāhmaṇa
+[^114]:
+    तरत्स मन्दी धावति is the refrain of all four verses of Ṛg IX. 58. It means 'He who presses (soma) gets over (all sins), he runs (to higher worlds)'. Vide Nir. XIII. 6.
 
-102. अथ कूष्माण्डैर्जुहुयायोऽपूत इव मन्येत यथा स्तेनो यथा भ्रूणहैवमेष भवति योऽयोनी ta: i warfait retrata-raqa gaia. 31. II.8, which is re peated in . III. 7.1, that is g. by the far on a. III. 303. कर्मणि यद्देवा देवहेडनमित्यादयो मन्त्रास्तैत्तिरीयारण्यके समाम्नाताः स कूष्मारवहामः परिमच अग्ने नय सुपधेति च तथा अग्ने मत्वे प्रथमस्य प्रचेतस इत्याया कचस्तैत्तिरीयशाखाया *parar: # Torea: 1 haroratiniranih folio 7 b. For å #4 vide Rg. 1. 189.), Tai. S. I. 1 14.3, Tai. Ā. 18.8.
+[^114a]:
+    In Ṛg. I. 106. 1-7 the first six verses have the refrain विश्वस्मान्नो अंहसो निष्पिपर्तन ('May you take us beyond all sin').
 
-STITU
+So much importance and such occult powers came to be attached to the words of the [[Rgveda|Ṛgveda]] that the [[Rgvidhāna|Ṛgvidhāna]] of [[Saunaka|Śaunaka]] (which is later than Manu) concerns itself with prescribing numerous hymns of the [[Rgveda|Ṛgveda]] for the removal of various diseases, of sins, for the conquest of enemies.
 
-OHA
+The Sāma. Br. I. 5. 2 says[^115] generally that when no [[parti cular|particular]] hymns are prescribed for the removal of sins Vedic mantras are powerful and become purifiers if accompanied by tapas and the Sāmans may be repeated for the same purpose from ten times as the minimum to 100 times as [[prāyagcitta, Gautama|prāyaścitta. Gautama]] 19. 13 prescribes the kind of food on which one should subsist when one is engaged in japa [[viz,|viz.]] one was to live on milk alone, to eat vegetables only, to eat fruits only, to live on barley gruel prepared from a handful of grain, to eat gold[^116], to eat clarified butter, and to drink soma and so forth. Gautama 19. 14 further lays down that all mountains, all rivers, holy lakes, places of pilgrimage, the dwellings of sages ([[reis).|(ṛṣis),]] [[cowpans|cowpens]] and temples of the gods are places (which help to destroy sin).
 
-FOUNDED
+[^115]:
+    अनादेशे मन्त्रा बलवन्तस्तपोन्विताः पावना भवन्ति । आपन्नः प्रायश्चित्तं चरेत् । अभ्यासः साम्नां शतं दशावरम् । सामविधानब्रा. I. 5. 2-4.
 
-of TUTE
+[^116]:
+    'To eat gold' is explained by हरदत्त as 'सर्पिरादौ हिरण्यं निधृष्य प्राशनं हिरण्यप्राशनम् '.
 
-Bhandarkar Oriental Research Institute
+As the Veda could be studied in and after the [[sutra|sūtra]] period only by the male members of the first three classes, the japa of Vedic texts for the removal of sins was not possible for [[sūdras;|śūdras;]] therefore, the Mit. (on Yāj. III. 262) says that although the [[sūdra|śūdra]] (and women and those born of pratiloma marriages also) has no adhikāra (power or capacity or authority) for the recitation of [[Gāyatri|Gāyatrī]] and other Vedic mantras, still the [[sūdra|śūdra]] and women after revolving in the mind the name of the deity put in the dative case can engage in japa with the word [[namah|namaḥ]] (i. e. he can only utter the words 'namo [[namah'|namaḥ']] and not om &c) [[P50]]as stated by Gaut. Dh. S. X. 66-67 and Yāj. I. [[121117.|121.]][^117] When Manu IV. 80 says 'let him not explain to a [[sūdra|śūdra]] the sacred law (dharma) nor [[imposé|impose]] upon him a vrata' all that is meant is, according to the Mit. on Yāj. III. 262, that it applies only to a [[sūdra|śūdra]] who does not wait upon or serve higher [[varpas.|varṇas.]] Similarly, when Gaut. IV. 20 says that those born in the inverse order are outside the pale of the sacred law, the meaning is that [[samskāras|saṁskāras]] like upanayana are not to be performed on them. The mystic syllable 'om' is said by [[Ap.|Āp.]] Dh. S. (I. 4. 13. 6) to be the door to heaven and was to be employed before the recitation of any Vedic passage. The Yogasūtra (I. 27) avers that om (called praṇava) is expressive of the idea of God and that the repetition of om and revolving the meaning of it in the mind lead to concentration.[^118]
 
-History of Dharmaśāstra
+[^117]:
+    अनुज्ञातोऽस्य नमस्कारो मन्त्रः । पाकयज्ञैः स्वयं यजेतेत्येके । गौ. X. 66-67, on which हरदत्त comments 'अस्य शूद्रस्य वैश्वदेवादिषु तत्तद् देवतापदं चतुर्थ्यन्तं मनसा ध्यात्वा नमो नम इत्येवंरूपो मन्त्रोऽनुज्ञातो धर्मज्ञैः; नमस्कारेण मन्त्रेण पञ्चयज्ञान् न हापयेत् ॥ या. I. 121. Vide H. of Dh. vol. II. p. 158 note 371 for further details. मनु. X. 41 says that all pratilomas are like śūdras.
 
-[Vol.
+[^118]:
+    ओङ्कारः स्वर्गद्वारं तस्माद् ब्रह्माध्येष्यमाण एतदादि प्रतिपद्येत । आप. ध. सू. I. 4. 13. 6; 'तस्य वाचकः प्रणवः । तज्जपस्तदर्थभावनम् । योगसूत्र I. 27-28; वाचस्पति comments: प्रणवस्य जपः प्रणवाभिधेयस्य चेश्वरस्य भावनम् । तदस्य योगिनः प्रणवं जपतः प्रणवार्थं च भावयतश्चित्तमेकाग्रं सम्पद्यते ।
 
-and that (by performing homa with kūsmāndas) he becomes free from any sin that is less than the murder of a learned brāhmaṇa. Yāj. III. 309 provides that whenever a twice-born man feels himself mixed up in heavy sins he should perform a homa with sesame with the sacred Gāyatri mantra. The Mit. following a verse of Yama says that one lakh of offerings of sesame must be made. Both Manu. XI. 34 and Vas. 26. 16 say that a brāhmana becomes free from all distrasses by Vedic recitations (japa) and sacrifices (homa). When the wife con fessed to the existence of a paramour, the Sat. Br. II. 5. 2. 20 states that she made an offering into the Dakṣiṇāgni with the mantra (Vaj. S. IIT. 45) 'whatever103 sin we have committed, whether in the village, in the forest, in society or by the organs of sense, we cast that away by this sacrifice, svāhā.' Both Manu (VIII. 105) and Yāj. (II, 83) prescribe that when a witness tells a falsehood in order to prevent an accused person from be ing sentenced to death, he should offer for expiating his perjury an oblation of boiled rice to Sarasvati. There are other homas also prescribed such as the Ganahoma, in which such verses as 'agne naya supathā' from the Taittiriya sākhā are recited (Mahārnava).
+Not only were certain Vedic hymns and passages [[recom mended|recommended]] for recitation with the object of removing sins some works, particularly the [[Purānas,|Purāṇas,]] proposed an easy way for all viz. that the remembrance of God [[Nārāyana|Nārāyaṇa]] (or Hari or [[Krsna)|Kṛṣṇa)]] removed all sins. The Brahmapurāṇa (chap. 176) contains a stotra (hymn of praise) of [[Visnu,|Viṣṇu,]] which when recited is said to free a man from all sins (mental, vocal or bodily). The Pr. V. p. 31 quotes a verse from the [[Bhavisyapuranal18a|Bhaviṣyapurāṇa]][^118a] and three verses from the [[Visnupurāṇa|Viṣṇupurāṇa]] as follows:—'even a great sin is removed by (the resolve of) not doing it again, by gifts, by confessing it to others, and by meditation (on [[Visnu)|Viṣṇu)]] and not only by prāyaścittas' ([[Bhavisya);|Bhaviṣya);]] 'of all the expiations (for sins declared by the sages) such as tapas ([[Candrāyana|Cāndrāyaṇa]] and [[others )|others)]] and other actions (japa, homa, [[gifts )|gifts)]] the meditation on [[P51]][[Krsna|Kṛṣṇa]] is the highest. If a man remembers [[Nārāyana|Nārāyaṇa]] in the morning, at night, at twilight, at midday and the like, he at once secures the removal of sin' ([[Visnupurāṇa).|Viṣṇupurāṇa).]] The [[Brahma purāṇa|Brahmapurāṇa]][^119] (216. 87-88) gives expression to a popular belief as follows:—"Men, even after committing sins many times through folly, do not go to Hell if they prostrate themselves before Hari who destroys all sins. Those men also who always remember Janārdana [[eyon|even]] by roguery go to the world of [[Visnu|Viṣṇu]] after death." The [[Visnupurāṇa|Viṣṇupurāṇa]] affirms that those who contemplate upon the mantra of twelve letters (viz. 'om namo bhagavate Vāsudevāya') do not return to the cycle of births and deaths. The great power of mantras is mentioned in the [[Adiparva|Ādiparva]] (161. 14) by [[Kunti.|Kuntī.]] The [[Nrsimha-purāṇa|Nṛsiṁha-purāṇa]] in chap. 18 eulogises the mantra of eight letters (om namo [[Nārāyanāya)|Nārāyaṇāya)]] and chap. 63. 6, states "what is the use of many mantras and the performance of many vratas, when the mantra 'om namo [[Nārāyanāya'|Nārāyaṇāya']] is capable of securing all desired objects". The mantra of five letters '[[namah|namaḥ]] [[Sivaya'|Śivāya']] is dealt with in [[Lingapurana|Liṅgapurāṇa]] (pūrvārdha, chap. 85) and [[Saura purāṇa|Saura-purāṇa]] 65. Brahma-purāṇa speaks of vaidika mantras and [[āgamolta|āgamokta]] mantras (41. 63). The Nityācāra-paddhati (p. 67) says that it is necessary to understand the meaning of Vedic mantras in [[srauta|śrauta]] rites but in smārta rites it is not so.
 
-The old idea of sacrifice seems to have been that it was propitiatory in character. Sacrifice was not demanded or required by God. Sacrifice was probably regarded as a gift which pleased God, induced Him to forgive a man for his transgressions and enabled erring man to regain God's favour which had been lost by some shortcoming or some sinful act. Sacrifices therefore had an expiatory or cleansing function or character. Sacrifices may be performd by offerings either an animal (meant as substitute for the sinner himself who had forfeited his life for his sins and transgressions) or a burnt offering or any other thing offered to God and then distri buted to others.
+[^118a]:
+    भविष्यपुराणम् । अपुनःकरणात्त्यागात्प्रख्यापनादनुचिन्तनात् । व्यपैति महदप्येनः प्रायश्चित्तैर्न केवलम् ॥ विष्णुपुराणम् । प्रायश्चित्तान्यशेषाणि तपःकर्मात्मकानि वै । यानि तेषामशेषाणां कृष्णानुस्मरणं परम् ॥ प्रातर्निशि तथा सन्ध्यामध्याह्नादिषु संस्मरन् । नारायणमवाप्नोति सद्यः पापक्षयं नरः ॥ प्रा. वि. p 31. The verse प्रायश्चि... परम् is विष्णुपुराण II. 6. 39. The verse प्रातर्निशि is q. by अपरार्क p. 1232 and by प्राय. तत्त्व also (p. 524). The two verses are also respectively ब्रह्मपुराण 22. 37 and 39.
 
-Japa (muttering of Vedic passages as prayers). Japa is of three kinds, vācika (audibly uttered), upārsu (inaudibly uttered) and mānasa (mentally revolved), each succeeding one being ten times superior, acc. to Laghu Hārīta IV, 186,
+[^119]:
+    कृत्वापि बहुशः पापं नरा मोहसमन्विताः ॥ न यान्ति नरकं नत्वा सर्वपापहरं हरिम् ॥ शाठ्येनापि नरा नित्यं ये स्मरन्ति जनार्दनम् । तेपि यान्ति तनुं त्यक्त्वा विष्णुलोकमनामयम् ॥ ब्रह्मपु. 216. 87-88; अद्यापि न निवर्तन्ते द्वादशाक्षरचिन्तकाः । विष्णुपुराण I. 6. 39.
 
-FOUNDED
+Dāna (gifts). Gaut. XIX. 16 provides[^120] that gold, a cow, a dress, a horse, land, sesamum, clarified butter and food are the gifts (that destroy sin) and may be optionally undergone as penance if no express mention is made thereof. Vas. quotes several verses on gifts one of which (29. 16) states: "whatever sin a man distressed for livelihood commits he is purified from that by giving land even if it be as small in extent as 'gocarma' '[^121]. [[Visnu|Viṣṇu]] Dh. S. [[92.4|92. 4]] is to the same effect. [[Sam varta|Saṁvarta]][^122] (204) prescribes that the gifts of gold, cow and land [[P52]]quickly destroy sins even if committed in former lives. [[Medha tithi|Medhātithi]] (on Manu XI. 139) remarks that the verse implies that as to sins arising from injury to living beings gifts are the [[princi pal|principal]] expiations. The subject of dāna has been dealt with at length in H. of Dh. vol. II pp. 837-888. A few further remarks may be made here. In many inscriptions and copperplate grants of lands or villages the donor usually states that the grant is made for the increase of the merit of himself and of his parents (e. g. E. I. vol. [[XI,|XI.]] p. 219 at p. 221). [[Bphaspati|Bṛhaspati]][^123] as quoted in the Madanaratna (vyavahāra p. 66) expressly provides that in land-grants the king should state that he made the gift for securing merit to his parents and to himself[^124]. The [[Rājatarangiṇi|Rājatarangiṇī]] ([[I. 143 )|I. 143)]][^125] refers to the founding of vihāras (monasteries).
 
-1917
+[^120]:
+    हिरण्यं गौर्वासोऽश्वो भूमिस्तिला घृतमन्नमिति देयानि । एतान्येवानादेशे विकल्पेन क्रियेरन् । गौ. 19. 16 and 18.
 
-103. यद ग्रामे यदरण्ये यत्सभायां यदिन्द्रिये। यदेनश्चकृमा वयमिदं तेववयजामहे erer i art. III, 45; vide also #. #. I. 8.3 for a similar passag@yandarkar Oriental
+[^121]:
+    अथाप्युदाहरन्ति । यत्किंचित्कुरुते पापं पुरुषो वृत्तिकर्शितः । अपि गोचर्ममात्रेण भूमिदानेन शुध्यति ॥ वसिष्ठ 29. 16. For the meaning of गोचर्म, vide H. of Dh. vol. III. p. 432, n. 718.
 
-THE Bhandarkar Oriental Research Institute
+[^122]:
+    सुवर्णदानं गोदानं भूमिदानं तथैव च । नाशयन्त्याशु पापानि अन्यजन्मकृतान्यपि ॥ संवर्त 204 q. by प्राय. तत्त्व p. 483 (which reads 'महापातकजान्यपि at the end). हिंसायां दानमेव मुख्यमित्युक्तं भविष्ये । हिंसात्मकानां सर्वेषां कीर्तितानां मनीषिभिः । प्रायश्चित्तकदम्बानां दानं प्रथममुच्यते ॥ प्रा. प्रकाश (folio 86a).
 
-IV]
+[^123]:
+    दत्त्वा भूम्यादिकं राजा ताम्रपट्टे पटेऽथवा । शासनं कारयेद्धर्म्यं स्थानवंश्यादिसंयुतम् । मात्रापित्रोरात्मनश्च पुण्यायामुकसूनवे । दत्तं मयामुकायाद्य दानं सब्रह्मचारिणे ॥ बृह. in मदनरत्न p. 66 on व्यवहार.
 
-Japa (repeating Vedic prayers) (Jivananda I.).104 Śabara (on Jai. XII, 4.1) distinguishes japa from stuti, the former being simply an utterance or recitation of a mantra or mantras105. Inaudible japa is praised106 in Sānkhāyana Br. 14. 1. The Āśv. Śr I. 1. 20 provides that japa, anumantrana, āpyāyana and upasthāna are uttered upāṁsu. The Āp. Śr. (24. 1. 8-10 ) provides that mantras from the Rgveda and the Samaveda are uttered in sacrifices loudly and that passages of the Yajurveda are muttered upamśu and the Tai. Pratisakhya23.6 states that upāmsu recitation is made by means of the effort of speech organs but without sound (i.e. in a very low voice) and without the mind being directed (to utterance with udātta and other accents) i. e. 'Karanavad asabdam-amanah-prayogam-upamsu'. Gaut. 19.12(= Baud. Dh. S. III. 10. 10 =Vas.22.9) prescribes the following Vedic texts as purifiers: Upanisads, Vedanta texts, the Samhita texts of all the Vedas (and not the padapātha or kramapātha), the Yajus texts in which the word 'madhu' occurs, the Aghamarsana hymn (Rg.
+[^124]:
+    In Europe the same practice prevailed in the middle ages. 'The founder (of monasteries) constantly tells us that this sacrifice is made for the atonement of his own sins and those of his progenitors and kinsfolk'' G. G. Coulton in 'Five centuries of Religion' (1936) vol. III. p. 27. Redemption of sin by monetary payments or by leaving property to the churches and monasteries was a very firm belief in the Middle Ages in Christian countries, so much so that men who had earned properties made large gifts to the church when the prospect of death was near and vast estates accumulated in the hands of churchmen, which led to the passing of the Statute of Mortmain in England.
 
-X, 190. 1-3), the Atharvasiras, (the anuvakas called) Rudras, the Purusa hymn (Rg.x.90), the two samans called Rajata. and Rauhineya, the Br̥hat-sāma and the Rathantara, the Puruṣagati saman, the Mahānāmni verses, the Mahāvairāja (sāman), the Mahādivākirtya (sāman), any of the Jyestha sāmans, the Bahispavamāna (sāman), the Kuṣmāndas, the Pāvamānis (Rg. IX) and the Sāvitri (Rg. III. 62.10). 107 The
+[^125]:
+    तस्मिन् कृते न जायेत विहारच्छेदवैशसम् । तस्य तत्प्रेरकाणां च प्रायश्चित्तं कृतं भवेत् ॥ राजतरङ्गिणी I. 143.
 
-104. अत्र जपयज्ञं प्रकृत्य नरसिंहपुराणम् । त्रिविधी जपयज्ञः स्यात्तस्य भेदं निबोधत । याचिकाख्य उपांशुश्च मानसस्त्रिविधः स्मृतः। त्रयाणां जपयज्ञानां श्रेयान स्यादुत्तरोत्तरम् । इति। अत्र हारीतः । उच्चस्त्वेकगुणः प्रोक्तो ध्यानाशगुणः स्मृतः । उपांश: स्याच्छताणः सह स्रो मानसः स्मृतः । स्मृतिच. I.p. 149. The verses त्रिविधो...उत्तरोत्तरम् occur in नृसिंह पुराण 58.78-79 and also in लघुहारीत IV. p. 186 (Jiv. I). Both these also define वाचिक and उपांशुजप as follows: 'मन्त्रमुच्चारयन् वाचा जपयज्ञस्तु वाचिकः । शनैरुच्चारयन्मन्त्रं किंचिदोष्ठौ प्रचालयेत् । किंचिच्छ्रवणयोग्यः स्यात्स उपांशुजपः स्मृतः॥.."
+Upavāsa (fasting). Fasting strictly means total [[abstin ence|abstinence]] from food and drink, but generally it means light diet restricted in quantity and also as regards the nature of the articles taken. Even the Tai. S. (I. 6. 7. 3-4) refers[^126] to three ways of observing vrata on the days of the [[Darsapūrnamāsa-iṣti|Darśapūrṇamāsa-iṣṭi]] either by subsisting only on food available in the village or on forest food or partaking of no food at all. Gaut. 19. 11 includes upavāsa among the several means of removing sins. Tapas is also one of such means acc. to him. But in Gaut. 19. 15 as [[stat ed|stated]] above, [[Gaut,|Gaut.]] includes fasting (anāśaka) among [['tapāmsi'.|'tapāṁsi'.]] [[P53]]Haradatta explains [[upavāsa187|upavāsa]][^127] as giving up the eating of boiled rice (bhaktatyāga) and adds that upavāsa is again included under [[tapāmsi|tapāṁsi]] to show the great importance attached to it. Haradatta notes that a predecessor of his relying on a Purāṇa passage explained [[u pavāsa|upavāsa]] in Gaut. 19. 11 as 'restraint of senses'. In many of the [[Grhya|Gṛhya]] sūtras upavāsa means only eating light food prepared from corn usable in sacrifices (such as rice) once in the day excluding vegetables, māṣa (pulse), salt and flesh (compare Gobhila [[gr.|gṛ.]] I. [[5.26,|5. 26,]] Khādira [[gr.|gṛ.]] II. [[1.4|1. 4]] and 6, [[Kausika sūtra|Kauśika-sūtra]] I. 31-32, [[Kathakagrhya 46.2|Kāṭhakagṛhya 46. 2]][^128]). The [[Br.|Bṛ.]] Up. IV. 4. 22 closely associates 'anāśaka' (fasting) with tapas as a means to the mystic realisation of the Supreme Soul[^129]. Jaimini (III. 8. [[9 11)|9-11)]] appears to regard fasting as tapas.[^130] Manu XI. 203 (=[[Visnu|Viṣṇu]] Dh. S. [[54.29)|54. 29)]] provides that fasting (for a day) is the penance for omitting the rites ordained by the Veda (such as the [[Darsapūrnamāsa|Darśapūrṇamāsa]] sacrifice and the performance of [[sandhya|sandhyā]] adoration) and for neglecting the special duties of a snātaka (laid down in Manu IV. 34 ff). When a person was observing a fast he had to avoid doing certain other actions. Acc. to Devala a fast becomes bereft of its good results by drinking water often, by chewing [[tâmbulat'by|tāmbūla, by]] sleep in the day-time and by sexual intercourse[^131]; but the [[Garudapurāṇa|Garuḍapurāṇa]] I. [[128.6|128. 6]] and [[Bhavisya purana (I. 184.27)|Bhaviṣyapurāṇa (I. 184. 27)]] allow even when one is fasting the use of flowers, ornaments, rich clothes, garlands, unguents, applying collyrium to the eye and the cleansing of teeth. Dakṣa quoted by the Par. M. states that if a man observes a fast for the day and night on the day on which the sun first turns towards the [[P54]]north or south, or on the [[Vișuva|Viṣuva]] day (day of equinox), and on an eclipse of the sun or the moon and bathes he is freed from all sins.[^132] Manu XI. 166 (=Agnipurāṇa [[169.31)|169. 31)]] prescribes a fast for three days as a penance for theft of grass, firewood, tree, dry food (i. e. grains of rice), jaggery, clothes, hide and [[flesh,|flesh.]] The Anuśāsanaparva (106. 1) remarks[^133] that men of all [[varnas|varṇas]] and even Mlecchas thought highly of fasts and that chapter contains an exaggerated eulogy of fasting. Almost all religions (except Zoroastrianism) such as the Hebrew, Christian (in Lent) and Moslem (in Ramjan) emphasize the necessity of fasting as a discipline or as a preparation for penitence. The [[Bhavisya purāṇa|Bhaviṣyapurāṇa]] (I., chap. 16. 12-14) states that those who have not kindled sacred fires can please the gods by vratas, restraints, gifts and particularly by upavāsas and points out (verses 18-22) what substances (eatables) should be given up from the first to the 15th tithi in each fortnight. In the [[Satapatha|Śatapatha]] [[Brāhmana|Brāhmaṇa]] and the [[srauta|śrauta]] and [[grhya|gṛhya]] sūtras the word upavasatha is used in the sense of [['upavasa'|'upavāsa']] and is derived from 'vas' (to dwell) with 'upa'. Vide. H. of Dh. vol. II. p. 1010 and n. 2276 for the [[Sat.|Śat.]] Br. The Khādira [[gr|gṛ]] II. [[1.4,|1. 4,]] [[Gobhila,|Gobhila.]] [[gr.|gṛ.]] I. [[6.2,|6. 2,]] [[Kausika-sutra|Kauśika-sūtra]] I. 31 employ the word upavasatha. [[Ap.|Āp.]] Dh. S. [[II.1.1.4-5.|II. 1. 1. 4-5.]] prescribe an upavāsa for husband and wife on parvan days and if they cannot totally abstain from food they should eat only once by day food proper for upavāsa. Aparārka p. 199, [[Smr.|Smṛ.]] C. ([[srāddha|śrāddha]] [[p.355)|p. 355)]] and [[Krtya ratnākara|Kṛtyaratnākara]] quote a verse from Vyāsa deriving the word [[upavāsa13a|upavāsa]][^133a]. The [[Ap.|Āp.]] Dh. S. [[II, 5. 9-13,|II. 5. 9-13,]] Baud. Dh. [[II, 7.32,|II. 7. 32,]] Vas. [[6.21|6. 21]] and [[San.|Śāṅ.]] [[gr.|gṛ.]] II. [[16.5|16. 5]] have the same verse viz. 'an āhitāgni, a draught ox and [[brahmacãrin,|brahmacārin,]] these three fulfill (their work) by eating; they cannot fulfill their duties by non-eating'. This is explained as not applying to prāyaścittas (Baud. Dh. [[S II, 7.34)|Ś II. 7. 34)]] and to fasts on Ekādaśī. The [[Santiparva|Śāntiparva]] [[323.17|323. 17]] states 'Just as a dirty garment is afterwards cleansed by water, so to those who are heated in [[the fire of)|(the fire of)]] fasting inexhaustible happiness for a long time comes.' Śānti 79. 18, however, says 'merely [[emaciat ing|emaciating]] the body by fasting is not tapas, but [[ahimsā,|ahiṁsā,]] truthfulness, freedom from cruelty, restraint and compassion are tapas'.
 
-___105. वचनं जपनमिति समानार्थः, यस्मात् जप व्यक्तायां वाचीति स्मर्यते । तेन यत्र वचनमा मन्त्रस्य क्रियते न स्तूयते नाशास्यते स जपः । शवर on जै. XII. 4.1.
+[^126]:
+    यद्ग्राम्यानुपवसति तेन ग्राम्यानवरुन्धे यदारण्यानश्नाति तेनारण्यान् यन्न नाश्नीयादुपवसेत् पितृदेवत्यः स्यात् । तै. सं. I. 6. 7. 3.
 
-106. अथात आज्यमाज्येन वै दवाः सर्वान्कामानाजयन्त सर्वममृतत्वं...तद्वा इदं षडू. विधमाज्यं तूष्णीं जपस्तूष्णीं शंसः पुरोरुकूसूक्तमुक्थवीर्य याज्येति । ... अथ यत्पुरस्तात् तूष्णीं जपं जपति स्वर्गो वै लोको यज्ञस्तयत्पुरस्तातूष्णीं जपं जपति स्वस्त्ययनमेव तत्कुरुते स्वर्गस्य लोकस्य समष्टचै। शांखायनबा. 14.1.
+[^127]:
+    उपवासो भक्तत्यागः । स एव तपःस्वपि पुनः पठ्यते आदरख्यापनार्थम् । अपर आह । निष्क्रयणेषु पठित उपवास इन्द्रियनिग्रहः । व्यावृत्तस्यैव दोषेभ्यो यस्तु वासो गुणैः सह । उपवासं तमाहुस्तु न शरीरस्य शोषणात् ॥ इति पुराणे दर्शनादिति । हरदत्त on गौ. 19. 11. The स्मृतिच० II. p. 355 attributes the verse to व्यास and it and अपरार्क p. 199 read it as उपावृत्तस्य पापेभ्यो... सर्वभोगविवर्जितः. प्रा. प्रकाश. (folio 44a) reads as अपरार्क does and says it is taken from अग्निपुराण.
 
-107. 'Madhuni' are explained by Haradatta as 'मधुशब्दयुक्तानि यजूंषि ब्रह्ममेतु मामित्यादीनि'. These occur in तै. आx.38. It is better to hold/as done by the मद. पा. p. 761, by Maskarin in his bhasya on Gaut. and by Pt Frakalin (folio 86a) that the word ya refers to the three verses beginning with the words 'Madhu vata' that are Rg. I.90.6-8 and occur in Tai. S. IV.NPand
+[^128]:
+    काठकगृह्य 46. 2 is औपवस्त्रं भुक्त्वा and the com. of देवपाल says: उपवस्त्वशनमौपवस्त्रं तत्पुनर्व्रत्यं हविष्यान्नं शाकमाषलवणमांसवर्जम् । व्रीहियवपयोघृतप्रभृतिभिर्भुक्त्वा ।
 
-नरिव नावभीन (Continued on the next page)
+[^129]:
+    स वा एष महानज आत्मा... तमेतं वेदानुवचनेन ब्राह्मणा विविदिषन्ति यज्ञेन दानेन तपसाऽनाशकेन । बृह. उ. IV. 4. 22. Vide शाङ्करभाष्य on वेदान्तसूत्र III. 4. 26 and 33 for the explanation of this Up. passage.
 
-Bhandarkar Oriental Research Institute
+[^130]:
+    तपश्च फलसिद्धित्वाल्लोकवत् । जै. III. 8. 9 ; शबर 'तपः श्रूयते द्वयहं नाश्नाति त्र्यहं नाश्नाति इति । तत्र सन्देहः किमार्त्विजं तपः याजमानमिति । याजमानं तप इति ।'
 
-History of Dharmaśāstra
+[^131]:
+    असकृज्जलपानाच्च ताम्बूलस्य च भक्षणात् । उपवासः प्रदुष्येत्तु दिवा स्वापाच्च मैथुनात् ॥ देवल q. by अपरार्क p. 199, स्मृतिच० II. p. 355. The गरुडपुराण (I. 128. 7-8) has almost the same verse.
 
-[Vol.
+[^132]:
+    अयने विषुवे चैव चन्द्रसूर्यग्रहे तथा । अहोरात्रोषितः स्नात्वा सर्वपापैः प्रमुच्यते ॥ दक्ष q. by परा. मा. I. 1 p. 438.
 
-original idea of japa was highly spiritual. Deep knowledge of the Upaniṣads and other texts would have made the soul pure and enabled it to realize the supreme reality and induced in the mind love of all human beings as sparks of the one Divine Essence. Japa at the highest level was contemplation of God and endeavour to attain unity with God. The habit of repeat ing the sacred texts should lead to maintaining the soul in the presence and thought of God. Japa demands three things, purity of heart, detachment and placing oneself in the hands of God.
+[^133]:
+    सर्वेषामेव वर्णानां म्लेच्छानां च पितामह । उपवासे मतिरियं कारणं च न विद्महे ॥ अनुशासन 106. 1.
 
-Manu XI. 46 provides that a sin unintentionally committed jsexpiated by the recitation of Vedic texts as prayers, but that which men in their folly commit intentionally is expiated by prayascitta.
+[^133a]:
+    'उपावृत्तस्य पापेभ्यो यस्तु वासो गुणैः सह । उपवासः स विज्ञेयः सर्वभोगविवर्जितः' अपरार्क p. 199. गुणैः means 'क्षमादिभिः' and वासः means 'नियमेनावस्थानम्'.
 
-(Continued from the last page) Vāj. s. XII. 27-29 also, since they are styled gaat by 3 . T RT. T. 1.3, मानवगृ. I. 9.14. Atharvasiras is an उपनिषदू which begins with देवा ह वै स्वर्ग लोक #rūa h a apurar. Vide the Nir. edition of 108 Upanisads (printed in 1925) for the stuṣica. The greador is highly eulogized as a destroyer of sios like Asvamedha in Manu XI. 259-60, Visnu Dh. S. 55.7, Vas, 26.8, Baud. Dh. S. IV. 2.20. Rudras are the eleven anuvākas of Tai. S. IV, 5.1-11 beginning with H T . Acc. to Haradatta the two Samans Rajata and Rauhiṇa are sung on the Rk verse 'Indram naro nemadhitā havante' (Rg. VII. 27.1. Sāmaveda, Pārvārcika 318). The gear is sung on the verse
+[[P55]][[Tirthayātrā:|Tīrthayātrā:—]] Pilgrimage will be dealt with [[exhaus tively|exhaustively]] in a later section. It was believed that going on a pilgrimage and bathing in such holy rivers as the Ganges freed a man from sins. [[Visnu|Viṣṇu]] Dh. S. [[(35.6)|(35. 6)]] lays down that those guilty of mahāpātakas may become pure by Aśvamedha sacrifice or by visiting all the sacred places on the earth. Devala says that a man removes the consequences of such grave sins as the murder of a [[brāhmana|brāhmaṇa]] that he may have committed [[uninten tionally|unintentionally]] by the performance of great sacrifices or by going on a pilgrimage. Parāśara (XII. 58 ff) prescribes[^134] pilgrimage to see Rāma's bridge to [[Lankā|Laṅkā]] for a murderer of a [[brāhmana|brāhmaṇa]] who has studied the four Vedas. Devala states: 'a man becomes freed from sin by approaching holy places and shrines, [[brāhma nas|brāhmaṇas]] that practise austerities, that all rivers that fall into the ocean, all great mountains, all shrines and all forests are holy.' The Matsyapurāṇa [[(184.18)|(184. 18)]] says that a heap of sins as big as the mountain Meru or Mandara becomes destroyed when man reaches Avimukta (Benares). The [[Kurmapurana|Kūrmapurāṇa]][^135] (pūrvārdha [[29.3)|29. 3)]] says: 'I do not see any other expiation for destroying all sins in the Kaliyuga for all beings except Benares'. Even in the times of the Peshwas of Poona pilgrimage was prescribed for [[brāhmana|brāhmaṇa]] murder (vide 'Selections from Peshwa Records,' vol. 43 p. 107) and the [[brāhmapas|brāhmaṇas]] were ordered that after the sinner performed the penance they were to dine with him and recognize that he had been purified. In an order dated [[sake|śake]] 1659 (1737 AD) the Peshwa Bajirao the first informs the Deshmukhas, Deshpandes and Mukadams that four brothers named Zende approached him with the story that their father was born when their paternal grandmother lived with one Pilaji Zende after she became a widow and that she intended to remarry that man but that had to be postponed owing to famine, that the caste meeting were prepared to take them into the [[P56]]caste and hold them pure if a Government order was issued. Then the Peshwa issued an order that they should go to Tulapur on the banks of the [[Bhimā|Bhīmā]] river and that they and their male progeny together with their wives should be restored back to the caste and complete association with them as to taking food and marriage be carried on with them from generation to [[genera tion,|generation.]][^136] The Pr. Prakāśa quotes a verse from the [[Bhavisya purāṇa|Bhaviṣyapurāṇa]] about the penance for [[brāhmana|brāhmaṇa]] murder to the effect that for him who dwells to the north of the Vindhya mountain Parāśara prescribes the sight of Setubandha as a penance and then remarks that a man from the north of Vindhya has to travel 360 yojanas to reach Setubandha and that since 360 Prājāpatya penances are declared to be enough to remove the sin of brahmahatyā, it impliedly follows that each yojana towards a tīrtha is equal to one Prājāpatya. The [[Smrtyar thasāra|Smṛtyarthasāra]] (pp. [[149-150 )|149-150)]] quotes several verses from the [[Purānas|Purāṇas]] stating that gods like Brahmā, [[Visnu|Viṣṇu]] and [[Siva,|Śiva,]] great sages like [[Bhrgu,|Bhṛgu,]] [[Vasistha|Vasiṣṭha]] and Viśvāmitra, great kings like [[Hariscandra,|Hariścandra,]] Nala, Sagara obtained greatness by means of [[tirthas|tīrthas]] and that [[Pāndavas,|Pāṇḍavas,]] [[Sri|Śrī]] [[Krsna,|Kṛṣṇa,]] Nārada, Vyāsa and other sages engaged in pilgrimages for securing kingdoms and for removal of evil fortune. This subject of tīrthas will be dealt with at length in a separate section.
 
-TAPETAR (. VI. 46.1, Samaveda Pārvārcika No. 234), the Rathantara on the verse EaT (. VII. 32.22. Samaveda Pārvārcika 233). In the pragter X. 35 SriKrsna puts the Br̥hatsāma as the foremost among Samans (ECH GUT HITT). Purusagati Saman is sung on the verse 'Abam asmi prathamajā tasya.' (Samaveda, Aranyakanda VI. 1 594). Heart verses are those beginning with faen er far which occur in the g. 31. IV, in the A FTERT of the Free (ed. by Dr. Raghuvira) and in other Hears. The AERTS (FIAT) is sung on the verse foar #ART #qa Far (. VII. 22.1, Fire gaire 398, T T 927); the wenigarra is sung on
+[^134]:
+    चातुर्विद्योपपन्ने तु विप्रघ्ने ब्रह्मघातके । समुद्रसेतुगमनं प्रायश्चित्तं विनिर्दिशेत् ॥ पराशर XII. 58 q. by अपरार्क p. 1061, प्राय. वि. p. 45. The प्रा. प्रकाश (folio 66 a and b) remarks: 'ब्रह्महत्याव्रतमुपक्रम्य भविष्यपुराणे । विन्ध्यादुत्तरतो यस्य निवासः परिकीर्तितः । पराशरमतं तस्य सेतुबन्धस्य दर्शनम् ॥ इति ।... अत्र च विन्ध्योत्तरवर्तिनः षष्ट्यधिकशतत्रययोजनगमनेन तावत्संख्याकप्राजापत्यापनोद्यब्रह्महत्यापनोदोक्तेस्तीर्थानुकूलैकैकयोजनगमनस्यैकैकप्राजापत्यतुल्यत्वमर्थादुक्तं भवति ।'.
 
-#GETWY # (#. X. 170.1, Fra srozahte 628, J 1453): about the ज्येष्ठसामानि हरदत्त mentions two interpretations (of the तलवकार शाखा and छन्दोगs), one holding that they are sung on उदु त्य (Rg. I. 50.1, सामवेद garda 31) and pa ra (Rg. I. 115.1), the other that they are three Sam ans sung on or fear (Rg VI. 7.1, Trnare carrera 67, Trah 1140).
+[^135]:
+    नान्यत्पश्यामि जन्तूनां मुक्त्वा वाराणसीं पुरीम् । सर्वपापप्रशमनं प्रायश्चित्तं कलौ युगे ॥ कूर्मपुराण (पूर्वार्ध 29. 3) q. by परा. मा. II. 2 p. 162 ; अभिगम्य तु तीर्थानि पुण्यान्यायतनानि च । नरः पापात्प्रमुच्येत ब्राह्मणांश्च तपस्विनः ॥ सर्वाः समुद्रगाः पुण्याः सर्वे पुण्या नगोत्तमाः । सर्वमायतनं पुण्यं सर्वे पुण्या वनाश्रयाः ॥ देवल q. by परा. मा. II. 2. p. 201, प्रा. प्रकाश folio 66 b.
 
-Maskarin holds that ज्येष्ठसामानि are those sung on the verses शं नो देवी-(REX. 9.4) and चित्रं देवानां (Rg I. 115.1). The बहिष्पवमान is sung on उपास्मै गायती नर (Rg. IX. 11 1, AT 651,763). Vide H. of Dh.vol II pp.1169-1170 for further details of the बहिष्पवमान. For the कृण्माण्डमन्त्र, vide तै. आ.rugas.
-
-ray: are the verses about soma in the 9th Mandala of Savitri is the famous Gāyatri mantra (Rg. III. 62.10.)
-
-SS
-
-the Rived
-
-TOGLIA
-
-Bhandarkar Oriental Research Institute
-
-IV
-
-Japa
-
-41
-
-Manu II. 85-87 (which are the same as Vas, 26. 9-11 and Visnu Dh. S. 55. 10-21) lay108 down: 'the performance of japa is ten times more efficacious than the sacrifices (like Darsapūrna māsa) prescribed by the rules (of the Veda), japa when carried on inaudibly is a hundred times superior (to sacrifices) and mental revolution of mantras is a thousand times superior. The four pākayajñas 109 (Vaiśvadeva, bali, daily Śrūddha, and hono uring gueste) together with the Vedic sacrifices do not come up to even the 16th part of japa. A brāhmana attains perfection (the highest goal) by japa; he may or may not engage in other duties (such as Vedic sacrifices); a brāhmaṇa befriends all creatures'. Great eulogy is bestowed on the inaudible japa of the Gāyatri mantra (Rg. III, 62,10) for which pp. 303-305 of H. of Dh, vol. II may be consulted. Where no particular number is specially mentioned the recitation of a mantra is to be per formed a hundred times. 110
-
-Manu1104 XI. 261-262, Vas. 27.1-3, Angiras 101 and other works go so far as to assert that the fire of Veda study con sumes guilt caused by evil deeds just as a fire burning strongly eonsumes even green trees or that a brahmana who remembers Rgveda (studied by him) is not tainted by any guilt, though he may have destroyed the three worlds and have eaten the food of any person whatever. But these are simply laudatory(arthavadas) and are not to be taken literally, as Vas, 27, 4 111 (=Angiras 102) gives the warning 'one should not become addicted to (or take pleasure in committing) evil deeds relying on the power of the Veda (stated in some smrti passages). The effects of) actions done through ignorance and negligence are alone consumed (by Veda study) and not those of other actions (intentionally done).'
-
-Many smrtis such as Manu XI. 249-957 (which are almost the same as Vispudharmottara II. 74,4-13), Vas. 26.5-7 and 28,10-15 (the former of which are the same as Manu XI. 249-251), Vispu
-
-108. Manu II. 87 occurs in Sankhasmrti also (XII. 28).
-
-109. The five pākayajñas are enumerated in Manu III 70 and the four meant are all of them except brahmayajña (teaching and studying Veda).
-
-110. TFT car, rest STATAFA a : 1 ST. folio 143a.
-
-110a. Manu XI. 262 and Vas. 27. 3 are identical. 111. Arret
-
-i 3 #ria per a 27.4, íg# 102.
-
-FOUNDED
-
-1917
-
-Bhandarkar Oriental Research Institute
-
-48
-
-History of Dharmasastra
-
-| Vol.
-
-Dh. S.56. 3-27, Atri VI.1-5 (which are almost the same as Vas 112 28. 10-15), Sankha, chap. 11 (=Vas. 28. 10-15), Samvarta 227 228, Baud. Dh. S. IV. 2. 4-5, IV. 3. 8, IV. 4. 2-5, Yāj. IJI. 302-305, prescribe several Vedic hymns or single Vedic verses or prose passages as specially efficacious for removing all sins. It is not possible nor necessary to set down all of them, but by way of sample the verses of Manu (XI. 249-257) are translated here. *Even a drinker of surā becomes pure if he mutters the hymn (seen) by Kutsa 113, the three verses beginning with 'prati" (Rg. VII 80. 1-3) seen by Vasistha, the Māhitra hymn (Rg. X. 185), the verses called Suddhavatis (Rg. VIII, 95.7-9 where the word
-
-suddha' occurs 13 times in different connections). Even he who has stolen gold (of a brāhmana) instantly tecomes free from guilt if he once mutters (the hymn) beginning with 'asya vāmasya' i. e. Rg. I. 164. 1-52), and the Sivasankalpa (Vāj. S. XXXIV. 1-6). The violater of a guru's bed is freed from sin if he repeatedly recites the hymn beginning with 'havispāntam' (Rg. X. 88. 1-19 ) and the hymn beginning with 'na tam-amho (i. e. Rg. X. 126.1-8), the hymn beginning with 'iti' (i. e. Rg. X. 119) and the hymn addressed to Puruṣa (Rg. X. 90). He who desires to do away with sins, great and small, should mutter during a year the verse beginning with 'ava' (i. e. 'ava te helo varuna namobhih' Rg. I. 24. 14, Tai. S. I. 5. 11. 3), or the vərse ‘yat kim ca' (Rg. VII, 89. 5) or the verse 'iti vā' (Rg. X 119. 1). That man who, having accepted a gift that ought not to. be accepted, or having eatən forbidden food, mutters the hymn beginning with 'tarat sa mandi' (Rg. IX. 58.1-4)114 becomes pure after three days. He who has committed many sins becomes pure if he recites for a month the hymn beginning with 'Somā rudra' (Rg. VI. 74. 1-4) and the three verses beginning with
-
-Aryamanam' (Rg. IV.2.4-6) while he bathes in a river (and not in a pond or other reservoir of water). One guilty of a grioyous offence should mutter the seven verses beginning with 'Indram' (Rg. I. 106. 1-7). A twice-born man removes even very great guilt by offering clarified butter for a year (in fire) with the mantras for the Sakalahomas (Vāj.S. VIII. 13) or by muttering the
-
-112. Vas. 28.10-15 are quoted in a. I. p. 187. Atri VI. 1-5 are quoted as Atri's in Gr. R. p. 245.
-
-113. The Kautsa hymn is Rg. 1. 97. 1-8, all of which have as their refrain अप
-
-e, 'may be burn away our sin.' 114. # # erara is the refrain of all four verses of Rg IX. 58/It means 'He who presses (soma) gets over (all sins), he runs (to higher worlds Vide Nir, XIII. 6.
-
-Bhandarkar Oriental Research InstituteIV)
-
-Japa
-
-49
-
-mantra 'nama id-ugram' (Rg. VI. 51. 8). One who is stained by mortal sin becomes pure if with a concentrated mind he attends cows for a year, reciting the Pāvanāni hymns (the whole of Rg. IX) and subsisting on alms. 114a
-
-So much importance and such occult powers came to be attached to the words of the Rgveda that the Rgvidhāna of Saunaka (which is later than Manu) concerns itself with prescribing numerous hymns of the Rgveda for the removal of various diseases, of sins, for the conquest of enemies.
-
-The Sāma. Br. I. 5. 2 says 115 generally that when no parti cular hymns are prescribed for the removal of sins Vedic mantras are powerful and become purifiers if accompanied by tapas and the Sāmans may be repeated for the same purpose from ten times as the minimum to 100 times as prāyagcitta, Gautama 19. 13 prescribes the kind of food on which one should subsist when one is engaged in japa viz, one was to live on milk alone, to eat vegetables only, to eat fruits only, to live on barley gruel prepared from a handful of grain, to eat gold116, to eat clarified butter, and to drink soma and so forth. Gautama 19. 14 further lays down that all mountains, all rivers, holy lakes, places of pilgrimage, the dwellings of sages (reis). cowpans and temples of the gods are places (which help to destroy sin).
-
-As the Veda could be studied in and after the sutra period only by the male members of the first three classes, the japa of Vedic texts for the removal of sins was not possible for sūdras; therefore, the Mit. (on Yāj. III. 262) says that although the sūdra (and women and those born of pratiloma marriages also) has no adhikāra (power or capacity or authority) for the recitation of Gāyatri and other Vedic mantras, still the sūdra and women after revolving in the mind the name of the deity put in the dative case can engage in japa with the word namah (i. e. he can only utter the words 'namo namah' and not om &c)
-
-ASTITUT
-
-POONA
-
-114a. In Rg. I. 106. 1-7 the first six verses have the refrain rawatan BIEHT Faroua ("May you take us beyond all sin').
-
-115. aastal arauaar: maar aral 39: Tara STTH: Frai stai atrac FTAFUTTET. I. 5. 2-4.
-
-116. To eat gold' is explained by aan as 'afgerei feruri faqog Sad हिरण्यप्राशनम् ।
-
-FOUNDED
-
-1917
-
-Bhandarkar Oriental Research Institute
-
-H, D. 7
-
-50
-
-History of Dharmaśāstra
-
-[Vol.
-
-as stated by Gaut. Dh. S. X. 66-67 and Yāj. I. 121117. When Manu IV. 80 says 'let him not explain to a sūdra the sacred law (dharma) nor imposé upon him a vrata' all that is meant is, according to the Mit. on Yāj. III. 262, that it applies only to a sūdra who does not wait upon or serve higher varpas. Similarly, when Gaut. IV. 20 says that those born in the inverse order are outside the pale of the sacred law, the meaning is that samskāras like upanayana are not to be performed on them. The mystic syllable 'om' is said by Ap. Dh. S. (I. 4. 13. 6) to be the door to heaven and was to be employed before the recitation of any Vedic passage. The Yogasūtra (I. 27) avers that om (called pranava) is expressive of the idea of God and that the repetition of om and revolving the meaning of it in the mind lead to concentration.118
-
-Not only were certain Vedic hymns and passages recom mended for recitation with the object of removing sins some works, particularly the Purānas, proposed an easy way for all viz. that the remembrance of God Nārāyana (or Hari or Krsna) removed all sins. The Brahmapurāṇa (chap. 176) contains a stotra (hymn of praise) of Visnu, which when recited is said to free a man from all sins (mental, vocal or bodily). The Pr. V. p. 31 quotes a verse from the Bhavisyapuranal18a and three verses from the Viṣnupurāṇa as follows:even a great sin is removed by the resolve of) not doing it again, by gifts, by confessing it to others, and by meditation (on Visnu) and not only by prāyaścittas' (Bhavisya); 'of all the expiations (for sins declared by the sages) such as tapas (Candrāyana and others ) and other actions (japa, homa, gifts ) the meditation on
-
-117. 313 31raisey #AECHTET #2: : * Steret . X. 66-67, on wbich are comments FT errege at War AT भ्याखा नमो नम इत्येवंरूपो मन्त्रोऽनुज्ञातो धर्मज्ञैः नमस्कारेण मन्त्रेण पश्चयशान हापयेत् ॥
-
-T. I. 121. Vide H. of Dh, vol. II. p. 158 note 371 for further details. He X. 41 says that all pratilomas are like sūdras.
-
-118. Fr: Frigre a caror pagira sacara I . . .
-
-5.6; 'a ara: OTT: I TEHTII UTTEET I. 27-28; arena comments: प्रणवस्य जपः प्रणवाभिधेयस्य चेश्वरस्य भावनम् । तदस्य योगिनः प्रणवं जपतः प्रणवार्थ च भावयतश्चित्तमेकाग्रं सम्पद्यते।
-
-118a. भविष्यपुराणम् । अपुनःकरणात्यागारख्यापनादनुचिन्तनात् । व्यपैति महदप्येनः पायश्चित्तैन केवलम् ॥ विष्णुपुराणम् । प्रायश्चित्तान्यशेषाणि तपःकर्मात्मकानि में यानि तेषाम शेषाणां कृष्णानुस्मरणं परम् ॥ प्रातर्निशि तथा सन्ध्यामध्याह्वादिषु संस्मरन् । नारायणनवामोति Fra: U : Il y fa. p 31. The verse rupa... is facugat. 6.39. The verse प्रातर्निशि is q. by अपरार्क p. 1232 and by प्राय, तत्व also (23524) The two verses are also respectively TTTIUT 22.37 and 39.
-
-ISTITUTO
-
-UN
-
-_
-
-Bhandarkar Oriental Research Institute
-
-51
-
-IV)
-
-Taking the name of Hari Krsna is the highest. If a man remembers Nārāyana in the morning, at night, at twilight, at midday and the like, he at once secures the removal of sin' (Visnupurāṇa). The Brahma purāṇa119 (216. 87-88) gives expression to a popular belief as follows:"Men, even after committing sins many times through folly, do not go to Hell if they prostrate themselves before Hari who destroys all sins. Those men also who always remember Janārdana eyen by roguery go to the world of Visnu after death." The Visnupurāṇa affirms that those who contemplate upon the mantra of twelve letters (viz. 'om namo bhagavate Vasudevāya') do not return to the cycle of births and deaths. The great power of mantras is mentioned in the Adiparva (161. 14) by Kunti. The Nrsimha-purāṇa in chap.18 eulogises the mantra of eight letters (om namo Nārāyanāya) and chap. 63.6. states "what is the use of many mantras and the performance of many vratas, when the mantra 'om namo Nārāyanāya' is capable of securing all desired objects". The mantra of five letters 'namah Sivaya' is dealt with in Lingapurana (pūrvārdha, chap. 85) and Saura purāṇa 65. Brahma-purāṇa speaks of vaidika mantras and āgamolta mantras (41. 63). The Nityācāra-paddhati (p. 67) says that it is necessary to understand the meaning of Vedic mantras in srauta rites but in smārta rites it is not so.
-
-Dāna (gifts). Gaut. XIX. 16 provides120 that gold, a cow, a dress, a horse, land, sesamum, clarified butter and food are the gifts (that destroy sin) and may be optionally undergone as penance if no express mention is made thereof. Vas, quotes several verses on gifts one of which (29. 16) states: "whatever sin a man distressed for livelihood commits he is purified from that by giving land even if it be as small in extent as 'gocarma' "121Visnu Dh. S. 92.4 is to the same effect. Sam varta122 (204) prescribes that the gifts of gold, cow and land
-
-119. CETTT TEST: O Ter T arifa at an aqre ERTH शाम्येनापि नरा नित्यं ये स्मरान्त जनादनम् । तेपि यान्ति तनुं त्यक्ता विष्णुलोकमनामयम् ॥
-
-g. 216.87-88: se para a rear: racorexror I. 6.39.
-
-120. feruir harfisadi ar para ati gargarareat fear P . 19.16 and 18.
-
-121. Sarrerer i retraga qo y trana: 1 tra TANEL raraa gara ar 29.16. For the meaning of Tad, vide H. of Dh. Notra III. p. 432, n. 718.
-
-122. rująuar fare ia **Tara sua संवत 204 q. by प्राय. तत्व p. 483 (which reads 'महापातकजान्यपि at the endy हिंसायां दानमेव मुख्यमित्युक्तं भविष्ये। हिंसात्मकानां सर्वेषां कीर्तितानां मनीषिभिः पास
-
-Fracariera A # C. TST (folio 86a).
-
-USA
-
-1917
-
-Research Institute
-
-History of Dharmaśāstra
-
-[Vol.
-
-quickly destroy sins even if committed in former lives. Medha tithi (on Manu XI. 139) remarks that the verse implies that as to sins arising from injury to living beings gifts are the princi pal expiations. The subject of dāna has been dealt with at length in H. of Dh. vol. II pp. 837-888. A few further remarks may be made here. In many inscriptions and copperplate grants of lands or villages the donor usually states that the grant is made for the increase of the merit of himself and of his parents (e. g. E. I. vol. XI, p. 219 at p. 221). Bphaspati123 as quoted in the Madanaratna (vyavahāra p. 66) expressly provides that in land-grants the king should state that he made the gift for securing merit to his parents and to himself124. The Rājatarangiṇi (I. 143 ) 125 refers to the founding of vihāras (monasteries).
-
-Upavāsa (fasting ). Fasting strictly means total abstin ence from food and drink, but generally it means light diet restricted in quantity and also as regards the nature of the articles taken. Even the Tai. S. (I. 6. 7. 3-4) refers126 to three ways of observing vrata on the days of the Darsapūrnamāsa-iṣti either by subsisting only on food available in the village or on forest food or partaking of no food at all. Gaut. 19.11 includes upavāsa among the several means of removing sins. Tapas is also one of such means acc. to him. But in Gaut, 19.15 as stat ed above, Gaut, includes fasting (anāśaka) among 'tapāmsi'.
-
-123. दत्त्वा भूम्यादिकं राजा ताम्रपट्टे पटेऽथवा। शासनं कारयेद्धयं स्थानवंश्यादि संयुत्तम् । मात्रापितोरात्मनश्च पुण्यायामुकसूनवे । दत्तं मयामुकायाद्य दानं सब्रह्मचारिणे ॥
-
-g. in fua p. 66 on ear.
-
-124. In Europe the same practice prevailed in the middle ages, "The founder of monasteries) constantly tells us that this sacrifice is made for the atonement of his own sins and those of his progenitors and kinsfolk" G. G. Coulton in 'Five centuries of Religion (1936) vol. III. p. 27. Redemption of sin by monetary payments or by leaving property to the churches and monasteries was a very firm belief in the Middle Ages in Christian countries, so much so that men who had earned properties made large gifts to the church when the prospect of death was near and vast estates accumulated in the hands of churchmen, which led to the passing of the Statute of Mortmain in England,
-
-125. ara la fermedastamie Caronia
-
-a aqil raviesoft I. 143.
-
-126. Uprava a arturatu negarar ervar 2014 era foartet: uraia. I6, 7, 3.
-
-FOUNDED
-
-TEREZ
-
-Bhandarkar Oriental Research Institute
-
-IV1
-
-Upavāsa ( fasting)
-
-Haradatta explains upavāsa187 as giving up the eating of boiled rice (bhaktatyāga) and adds that upavāsa is again included under tapāmsi to show the great importance attached to it. Haradatta notes that a predecessor of his relying on a Purāna passage explained u pavāsa in Gaut. 19.11 as 'restraint of senses'. In many of the Grhya sūtras upavāsa means only eating light food prepared from corn usable in sacrifices (such as rice) once in the day excluding vegetables, māṣa (pulse), salt and flesh (compare Gobhila gr. I. 5.26, Khādira gr. II. 1.4 and 6, Kausika sūtra I. 31-32, Kathakagrhya 46.2128). The Br. Up. IV. 4. 22 closely associates 'anāśaka' (fasting) with tapas as a means to the mystic realisation of the Supreme Soul129 Jaimini (III. 8. 9 11) appears to regard fasting as tapas130. Manu XI, 203 (=Visnu Dh. S. 54.29) provides that fasting (for a day) is the penance for omitting the rites ordained by the Veda (such as the Darśapūrṇamāsa sacrifice and the performance of sandhya adoration) and for neglecting the special duties of a snātaka (laid down in Manu IV. 34 ff). When a person was observing a fast he had to avoid doing certain other actions. Acc. to Devala a fast becomes bereft of its good results by drinking water often, by chewing tâmbulat'by sleep in the day-time and by sexual intercourse131 ; but the Garudapurāṇa I. 128.6 and Bhavisya purana (I. 184.27) allow even when one is fasting the use of flowers, ornaments, rich clothes, garlands, unguents, applying collyrium to the eye and the cleansing of teeth. Daksa quoted by the Par. M. states that if a man observes a fast for the day and night on the day on which the sun first turns towards the
-
-127. उपवासो भक्तत्यागः । स एव तपःस्वपि पुनः पठ्यते आदरख्यापनार्थम् । अपर आह । निष्क्रयणेषु पठित उपवास इन्द्रियनिग्रहः । व्यावृत्तस्यैव दोषेभ्यो यस्तु वासो गुणैः सह । Tiara Tiga TOETST
-
-Trror Tanera i erant on at: 19. 11. The स्मृतिच II. p. 355 attributes the verse to व्यास and it and अपराक p. 199 read it as
-
-...a erarsia:. pr. st. (folio 44a) reads as अपरार्क does and says it is taken from अग्निपुराण.
-
-128. FICHTE 46.2 is uitgaai Far and the com. of ar says: gat रशनमोपवस्त्रं तत्पुनर्वत्यं हविष्यानं शाकमाषलवणमांसवर्जम् । वीहियवपयोघृतप्रभृतिभिर्भुक्त्वा ।
-
-__129. स वा एष महानज आत्मा...तमेतं वेदानुवचनेन ब्राह्मणा विविदिषन्ति यज्ञेन दानेन तपसाउनाशकेन । बह. उ. IV.4.22. Vide शाडरभाष्य on वेदान्तसूत्र III. 4.26 and 33 for the explanation of this Up. passage.
-
-130.99 Srinaa . III. 8.9; saxaq: sua terra व्यहं नानाति इति । तत्र सन्देहः किमात्विजं तपः याजमानमिति । याजमानं तप इति ।
-
-13!. असकृज्जलपानाच्च ताम्बूलस्य च भक्षणात् । उपवासः प्रदुण्येत्तु दिवा स्वापाका #Yalauq. by 37 p. 199, a . II. p. 355. The ageror Y 193728, 7-8) has almost the same verse.
-
-SPOONA
-
-FOUNDED
-
-Bhandarkar Oriental Research Institute
-
-54
-
-History of Dharmaśāstra
-
-[ Vol.
-
-north or south, or on the Vișuva day (day of equinox), and on an eclipse of the sun or the moon and bathes he is freed from all sins132. Manu XI. 166 (=Agnipurāṇa 169.31) prescribes a fast for three days as a penance for theft of grass, firewood, tree, dry food (i. e. grains of rice), jaggery, clothes, hide and flesh, The Anuśāsanaparva (106.1) remarks133 that men of all varnas and even Mlecchas thought highly of fasts and that chapter contains an exaggerated eulogy of fasting. Almost all religions (except Zoroastrianism) such as the Hebrew, Christian (in Lent) and Moslem (in Ramjan) emphasize the necessity of fasting as a discipline or as a preparation for penitence. The Bhavisya purāṇa (I., chap. 16. 12-14) states that those who have not kind led sacred fires can please the gods by vratas, restraints, gifts and particularly by upavāsas and points out (verses 18-22) what substances (eatables) should be given up from the first to the 15th tithi in each fortnight. In the Satapatha Brāhmana and the srauta and grhya sūtras the word upavasatha is used in the sense of 'upavasa' and is derived from 'vas' (to dwell) with 'upa'. Vide. H. of Dh. vol. II, p. 1010 and n. 2276 for the Sat. Br. The Khadira gr II. 1.4, Gobhila, gr. I. 6.2, Kausika-sutra I. 31 employ the word upavasatha. Āp. Dh. S. II.1.1.4-5. prescribe an upavāsa for husband and wife on parvan days and if they cannot totally abstain from food they should eat only once by day food proper for upavāsa. Aparārka p. 199, Smr. C. (srāddha p.355) and Krtya ratnākara quote a verse from Vyāsa deriving the word upavāsa13a The Ap. Dh. S. II, 5. 9-13, Baud. Dh. II, 7.32, Vas. 6.21 and San. gr. II. 16.5 have the same verse viz. 'an āhitāgni, a draught ox and brahmacãrin, these three fulfill (their work) by eating; they cannot fulfill their duties by non-eating'. This is explained as not applying to prāyaścittas (Baud. Dh. S II, 7.34) and to fasts on Ekādaśī, The Santiparva 323.17 states "Just as a dirty garment is afterwards cleansed by water, so to those who are heated in the fire of) fasting inexhaustible happiness for a long time comes.' Santi 79.18, however, says 'merely emaciat ing the body by fasting is not tapas, but ahimsā, truthfulness, freedom from cruelty, restraint and compassion are tapas'.
-
-STITU
-
-POONA
-
-132. 314# raga a
-
-terra: Farear warra: * q. by er. Ar. I. 1 p. 438.
-
-133. aura aurat waarai Game i gara hard to figub SVET2 166.1.
-
-133a. (gargareT grūru ar OT: ISTAT#: #raitu: a 3 p. 199. Tut: meanserareru: and atā: means ' Thaa
-
-FOUNDED
-
-atelia zverine Bhandarkar Oriental Research Institute
-
-IV]
-
-Tirthayatra (Pilgrimages)
-
-55
-
-Tirthayātrā: Pilgrimage will be dealt with exhaus tively in a later section. It was believed that going on a pilgrimage and bathing in such holy rivers as the Ganges freed a man from sins. Viṣnu Dh. S. (35.6) lays down that those guilty of mahāpātakas may become pure by Aśvamedha sacrifice or by visiting all the sacred places on the earth. Devala says that a man removes the consequences of such grave sing as the murder of a brāhmana that he may have committed uninten tionally by the performance of great sacrifices or by going on a pilgrimage. Parāśara (XII, 58 ff) prescribes 134 pilgrimage to see Rāma's bridge to Lankā for a murderer of a brāhmana who has studied the four Vedas. Devala states: 'a man becomes freed from sin by approaching holy places and shrines, brāhma nas that practise austerities, that all rivers that fall into the ocean, all great mountains, all shrines and all forests are holy.' The Matsyapurāṇa (184.18) says that a heap of sins as big as the mountain Meru or Mandara becomes destroyed when man reaches Avimukta (Benares). The Kurmapurana135 (pūrvārdha 29.3) says: 'I do not see any other expiation for destroying all sins in the Kaliyuga for all beings except Benares'. Even in the times of the Peshwas of Poona pilgrimage was prescribed for brāhmaṇa murder (vide 'Selections from Peshwa Records, vol. 43 p. 107) and the brāhmapas were ordered that after the sinner performed the penance they were to dine with him and recognize that he had been purified. In an order dated sake 1659 (1737 AD) the Peshwa Bajirao the first informs the Deshmukhas, Deshpandes and Mukadams that four brothers named Zende approached him with the story that their father was born when their paternal grandmother lived with one Pilaji Zende after she became a widow and that she intended to remarry that man but that had to be postponed owing to famine, that the caste meeting were prepared to take them into the
-
-134. araracce raua arrara I HENTAI nararasia 37T XII58 q. by 37 p. 1061, 91. f. p. 45. The AT. F15 (folio 66 a and b) remarks: T a y Tracy rut I FETE 2 परिकीर्तितः। पराशरमतं तस्य सेतुबन्धस्य दर्शनम् ॥ इति ।...अत्र च विन्ध्योत्तरवर्तिनः षष्ठयधिकशतत्रययोजनगमनेन तावत्संख्याकप्राजापत्यापनाद्यब्रह्महत्यापनोदोक्तेस्तीर्थानुकूलै कैकयोजनगमनस्यैकैकप्राजापत्यनुल्यत्वमर्थादुक्तं भवति ।".
-
-135. नान्यत्पश्यामि जन्तूनां मुक्त्वा वाराणसी पुरीम् । सर्वपापप्रशमन प्रायश्चित्तं en yn agoror (gate 29.3) q. by TT. AT. II. 2 p. 162, arra aurra guaranê gi*: arrena Erisa gureta: Il Fal: preto quatro सर्वे पुण्या नगोत्तमाः । सर्वमायतनं पुण्यं सर्वे पुण्या बनाश्रयाः ॥ देवलq. by परा, मा. II. 2.p. 201.97. 1719 folio 66 b.
-
-1917
-
-la main e Bhandarkar Oriental Research Institute
-
-56
-
-History of Dharmaśāstra
-
-[Vol.
-
-caste and hold them pure if a Government order was issued. Then the Peshwa issued an order that they should go to Tulapur on the banks of the Bhimā river and that they and their male progeny together with their wives should be restored back to the caste and complete association with them as to taking food and marriage be carried on with them from generation to genera tion,136 The Pr. Prakāśa quotes a verse from the Bhavisya purāṇa about the penance for brāhmana murder to the effect that for him who dwells to the north of the Vindhya mountain Parāśara prescribes the sight of Setubandha as a penance and then remarks that a man from the north of Vindhya has to travel 360 yojanas to reach Setubandha and that since 360 Prājāpatya penances are declared to be enough to remove the sin of brahmahatyā, it impliedly follows that each yojana towards a tirtha is equal to one Prājāpatya, The Smrtyar thasāra (pp. 149-150 ) quotes several verses from the Puranas stating that gods like Brahmā, Visnu and Siva, great sages like Bhrgu, Vasistha and Viśvāmitra, great kings like Hariscandra, Nala, Sagara obtained greatness by means of tirthas and that Pāndavas, Sri Krsna, Nārada, Vyāsa and other sages engaged in pilgrimages for securing kingdoms and for removal of evil fortune. This subject of tirthas will be dealt with at length in a separate section.
-
-STITI
-
-POONA
-
-FOUNDED
-
-1917
-
-136. Vide TFTË EVE 6 letter 113 p. 225.
-
-TTURAI
+[^136]:
+    Vide राजवाडे खण्ड 6 letter 113 p. 225.

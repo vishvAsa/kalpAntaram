@@ -77,7 +77,7 @@ The passages cited above (note 1274) from the *Ait. Br.* and the *Tai. S.* that 
     Vide *Cambridge History of India*, vol I. p. 88, *Vedic Index* I. p. 479.
 
 [^1284]:
-    एकस्य बहवो विहिता महिष्यः कुरुनन्दन । नैकस्य बहवः पुंसः भुज्यन्ते पतयः क्वचित् । लोकवेदविरुद्धं हि यन्नाधर्मो धर्मविप्लवः । कर्तुमर्हसि कौन्तेय कस्माच्च भुज्यते पतिः ॥ *Ādi.* 195. 27-29; vide *Sabhāparva* 68.35 where *Karṇa* speaks of *Draupadī* as 'bandhakī' (a harlot), because she had many men as her husbands.
+    एकस्य बहवो विहिता महिष्यः कुरुनन्दन । नैकस्या बहवः पुंसः श्रूयन्ते पतयः क्वचित् । लोकवेदविरुद्धं त्वं नाधर्मं धर्मविच्छुचिः । कर्तुमर्हसि कौन्तेय कस्मात्ते बुद्धिरीदृशी ॥ आदि. 195. 27-29; vide सभापर्व 68. 35 where Karṇa speaks of Draupadī as 'bandhakī' (a harlot), because she had many men as her husbands.
 
 [^1285]:
     युधिष्ठिर replies 'सूक्ष्मो धर्मो महाराज नास्य विद्मो वयं गतिम् । पूर्वेषामानुपूर्व्येण यातं वर्त्मानुयामहे ॥'

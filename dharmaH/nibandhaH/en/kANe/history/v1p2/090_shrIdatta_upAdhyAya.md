@@ -9,9 +9,9 @@ title = "090 Śrīdatta Upādhyāya"
 
 The *Ācārādarśa* of Śrīdatta was printed in Benares at the Divākara Press and by the Veṅkaṭeśvara Press in Bombay in saṁvat 1961. It is a manual of the daily religious duties of the followers of the white Yajurveda (Vājasaneyins),[^1135] such as ācamana, brushing the teeth, morning bath, *sandhyā*, japa, *brahmayajña*, *tarpaṇa*, daily worship of gods, *vaiśvadeva*, feeding guests etc. Among the works and writers named are the following:[^1136]— *Ācāra-cintāmaṇi*, *Kalpataru*, *Kāmadhenu*, *Kālikāpurāṇa*, Gaṇeśamiśra, Rājā (probably Bhojadeva), *Smṛtimahārṇava*, Harihara and *Halāyudha-nibandha*. There is a commentary on this work called *Ācārādarśabodhinī* composed by Gaurīpati or Gaurīśa, son of Dāmodara Maithila, at Benares in 1640 A. D. (Dr. Bhandarkar’s report, 1883–84, p. 347). In this work he uses several vernacular words; e. g. he says that ‘Sāla’ tree is known as Sagavana[^1137] (in the vernacular).
 
-[^1135]: अहोरात्राश्रितो धर्म इह वाजसनेयिनाम् । निबध्यते निबद्धो यो धर्मशास्त्रनिबन्धुभिः ॥ 2nd intro. verse in D. C. Ms. No. 342 of 1875–76; समूलवचनाभोगो मीमांसान्यायनिर्मलः । श्रीदत्तेन सतामेष आचारदर्पणः कृतः ॥
+[^1135]: अहोरात्राश्रितो धर्म इह वाजसनेयिनाम् । निवध्यते निबद्धो यो धर्मशास्त्रनिबन्धृभिः ॥ 2nd intro. verse in D. C. Ms. No. 342 of 1875–76; समूलवचनाभोगो मीमांसान्यायनिर्मलः । श्रीदत्तेन सतामेष आचारे दर्पणः कृतः ॥
 
-[^1136]: Vide for गणेशमिश्र and राजा ‘अशिरस्कं माजनमिति गणेशमिश्राः’ folio 15 b of आचारादर्श (D. C. Ms. No. 342 of 1875–76); ‘इति राजाध्यलिखितं मैत्रायणीयगृह्यपरिशिष्टवचनं न प्रमाणमस्याहुः’ folio 26 a; ‘इदं च बौधायनवाक्यं राजाध्यलिखितमपि बहुजनसंमतत्वाल्लिखितम्’ folio 29 a.
+[^1136]: Vide for गणेशमिश्र and राजा ‘अशिरस्कं मार्जनमिति गणेशमिश्राः’ folio 15 b of आचारादर्श (D. C. Ms. No. 342 of 1875–76); ‘इति राजावलिखितं मैत्रायणीयगृह्यपरिशिष्टवचनं न प्रमाणमित्याहुः’ folio 26 a; ‘इदं च बौधायनवाक्यं राजाद्यलिखितमपि बहुजनसंमतत्वालिखितम् ।’ folio 29 a.
 
 [^1137]: ‘शालवृक्षः सगवन इति प्रसिद्धः’ folio 9 b of the आचारादर्श. Compare Marathi ‘सागवान’.
 

@@ -3,13 +3,13 @@ title = "29 Sumantu"
 
 +++
 
-For a Dharmasūtra of Sumantu vide Madras Tri. Cat. of Sanskrit [[M88.|Mss.]] (1919-22) pp. 5160-62.
+[[P296]] For a Dharmasūtra of Sumantu vide Madras Tri. Cat. of Sanskrit [[M88.|Mss.]] (1919-22) pp. 5160-62.
 
 From Viśvarūpa, Haradatta and Aparārka it follows that Sumantu composed a sūtra work on dharma, particularly on ācāra and prāyaścitta. Viśvarūpa quotes prose passages from Sumantu on upapātakas,[^296] on prāyaścitta for [[Brāh mana-murder|Brāhmaṇa-murder]] (on Yāj. III. 237), for drinking wine (on Yāj. III. 250), for theft of gold (on Yāj. III. 252), for incest (on Yāj. III. 253-54), for killing a cow and about ātatāyin (on Yāj. III. 261). In one quotation from Sumantu cited by Viśvarūpa the views of ācāryas and of Āṅgirasa are [[men tioned.|mentioned.]][^297] The [[prīyaścittas|prāyaścittas]] for Brāhmaṇa-murder and for killing a cow contained in Viśvarūpa occur in Haradatta (on Gaut. 22. 13 and 18). Most of the [[qnotations|quotations]] cited by [[Viśva rūpa|Viśvarūpa]] occur in Aparārka also. The Hāralatā (p. 68) quotes sūtras of Sumantu on āśauca. One well-known sūtra of [[Suma ntu|Sumantu]] is 'no prāyaścitta (or blame) is incurred by killing an 
 
-[^296]: एवं सुमन्तुः 'नीरजतगोस्तैन्यं गोश्च गमनं नाशकं भूम्यनृतं क्षत्रियवैश्यगोध्नता परिवित्तितावकीर्णिता प्रतिरूपकवृत्तिश्चेत्युपपातकानि' इति । विश्वरूप on याज्ञ III. 229-236.
+[^296]: एवं सुमन्तुः 'स्त्रीरजतगोस्तैन्यं गोश्च गमनं नाशकं भूम्यनृतं क्षत्रियवैश्यगोध्नता परिवित्तितावकीर्णिता प्रतिरूपकवृत्तिश्चेत्युपपातकानि' इति । विश्वरूप on याज्ञ III. 229-236.
 
-[^297]: न ब्राह्मणस्य पतनमिच्छन्त्याचार्याः किल्बिषाद्गतः पातव्य इत्याङ्गिरसः इति । विश्वरूप on याज्ञ. III. 237.
+[^297]: न ब्राह्मणस्य पतनमिच्छन्त्याचार्याः किल्बिषयुग्गतः पातव्य इत्याङ्गिरसः इति । विश्वरूप on याज्ञ. III. 237.
 
 [[P297]] 
 
@@ -19,9 +19,9 @@ Paiṭhīnasi includes Sumantu among the thirty-six sages, expounders of Dharma�
 
 [^298]: विश्वरूप on याज्ञ. III. 262 quotes it as 'नाततायिवधे प्रायश्चित्तमन्यत्र गोब्राह्मणेभ्यः,' while the मिता. on याज्ञ. II. 21 quotes it as 'नाततायिवधे दोषोऽन्यत्र गोब्राह्मणात्'; the स्मृतिमञ्जरी of गोविन्दराज (I. O. ms. No. 1736) has 'आततायिन्यदोषोऽन्यत्र गोब्राह्मणेभ्यः'.
 
-[^299]: मातुलसुतां पैतृष्वसेयीं समानार्षगोत्रां च परिणीय चान्द्रायणं चरेत परित्यज्यैनां बिभृयात् । अपरार्क on याज्ञ. I. 53; 'कन्या कुलसितान्यजातिकर्मशीला व्याध्युपगता परिणीता यद्यक्षतयोनिः स्यात्परित्यक्तव्या' अपरार्क on याज्ञ. I. 65.
+[^299]: मातुलसुतां पैतृष्वसेयीं समानार्षगोत्रां च परिणीय चान्द्रायणं चरेत परित्यज्यैनां बिभृयात् । अपरार्क on याज्ञ. I. 53; 'कन्या कुत्सितान्यजातिकर्मशीला व्याध्युपगता परिणीता यद्यक्षतयोनिः स्यात्परित्यक्तव्या' अपरार्क on याज्ञ. I. 65.
 
-[^300]: अतः सप्ताङ्गानि सर्वथा संरक्ष्याणीत्याह सुमन्तुः 'स्वाम्यमात्मना संरक्षेत् अमात्यान् संमानेन । वर्णान् रञ्जनेन । जनान् वर्णधर्मरञ्जनेन । दुर्गं धनधान्यात् समुद्घृत्य । कोशमुचितव्ययेन । दण्डं स्वधर्मेण । इति ।' सरस्वती° p. 46.
+[^300]: अतः सप्ताङ्गानि सर्वथा संरक्ष्याणीत्याह सुमन्तुः 'स्वाम्यमात्मना संरक्षेत् । अमात्यान् संमानेन । वर्णान् रञ्जनेन । जनान् वर्णधर्मरञ्जनेन । दुर्गं धनधान्यात् समृद्ध्या । कोशमुचितव्ययेन । दण्डं स्वधर्मेण । इति ।' सरस्वती° p. 46.
 
 [[P298]] 
 
@@ -35,4 +35,4 @@ Numerous verses on dharma are also cited from Sumantu by Aparārka, the Smṛtic
 
 It is remarkable that the Mit. and Aparārka contain [[po|no]] verses of Sumantu on [[vyavalāra|vyavahāra]]. The Sarasvatī-vilāsa is rich in quotations from [[Sumuntu|Sumantu]] on vyavahāra. A [[compro mise|compromise]], exchange or partition, if [[lair|fair]], could be annulled up to the tenth day, but if unfair up to the 9th year (vide note 293 above). ‘If even as much as a [[mixit|māṣa]] went from the buyer to the seller, that would support the sale of the land (sold just as a small dose of poison permeates the whole [[boily|body]] and when no purchase-money is paid or only a portion is paid, then the purchase is called [[avukrıty6|avakraya]] and is liable to be set aside if the price is not paid in (good time)'.[^301] Sumantu prescribes a 
 
-[^301]: माषमात्रमपि द्रव्यं केतुर्विक्रेतरि स्थितम् । व्याप्नोति सकलां भूमिं कायमलं विषं यथा ॥ अर्थं दत्तमदत्तं तु क्रयमाहुरवक्रयम् । अवक्रयो निवर्तेत यदि काले न दीयते ॥ सरस्वती° p. 321. 
+[^301]: माषमात्रमपि द्रव्यं क्रेतुर्विक्रेतरि स्थितम् । व्याप्नोति सकलां भूमिं कायमल्यं विषं यथा ॥ अर्थं दत्तमदत्तं वा क्रयमाहुरवक्रयम् । अवक्रयो निवर्तेत यदि काले न दीयते ॥ सरस्वती° p. 321. 

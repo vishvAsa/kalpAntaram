@@ -10,23 +10,23 @@ Nandapaṇḍita was a voluminous writer on dharmaśāstra. An account of his pr
 
 He composed a commentary called *Vidvanmanoharā* on the *Pārāśarasmṛti*. He expressly mentions therein that he follows the commentary of Mādhavācārya.[^1381] This commentary is referred to in his *Vaijayantī*.[^1382]
 
-[^1381]: धर्माधिकारिकुलकैरवकाननेन्दु श्रीरामपण्डितसुतेन विनायकेन । व्याख्यायते कलियुगोचितवर्णधर्मशास्त्रं पराशरमुखोद्गतमल्पशब्दैः ।। माधवाचार्यनिर्दिष्टव्याख्यामार्गानुसारिणः । खल्वतोपि ( स्वलतोपि ? ) न मे दोषः परप्रत्ययगामिनः ॥ verses 3 and 5, I. O. Cat. p. 377 No. 1301.
+[^1381]: धर्माधिकारिकुलकैरवकाननेन्दुश्रीरामपण्डितसुतेन विनायकेन । व्याख्यायते कलियुगोचितवर्णधर्मशास्त्रं पराशरमुखोद्गतमल्पशब्दैः ॥ माधवाचार्यनिर्दिष्टव्याख्यामार्गानुसारिणः । स्खलन्नपि (स्खलतोपि ?) न मे दोषः परप्रत्ययगामिनः ॥ verses 3 and 5, I. O. Cat. p. 377 No. 1301.
 
 [^1382]: विवृतं चैतत्पराशरस्मृतिविवृतौ विद्वन्मनोहरायां दत्तकमीमांसायां चास्माभिरिति नेह प्रतन्यते । वैजयन्ती on विष्णुधर्मसूत्र 15. 42.
 
 He also appears to have written a commentary called *Pramitākṣarā* or *Pratītākṣarā* on the *Mitākṣarā* of Vijñāneśvara.[^1383] This commentary was probably not completed, as only fragments are found with his descendants.
 
-[^1383]: On विष्णुधर्मसूत्र 15. 9 he says 'स्वैरिण्या: पुनःसंस्काराभावश्चोपपादितो-साभिः सविस्तरं मिताक्षराटीकायां प्रतीताक्षरायामिति नेहोच्यते ।' folio 86 b of the I. O. ms. (of वैजयन्ती ); on विष्णु 16. 1 'विशेषस्तु मिताक्षराटीकायां प्रमिताक्षरायामस्मृत्कृतायामवगन्तव्यः' (folio 93 b).
+[^1383]: On विष्णुधर्मसूत्र 15. 9 he says 'स्वैरिण्याः पुनःसंस्काराभावश्चोपपादितो-स्माभिः सविस्तरं मिताक्षराटीकायां प्रतीताक्षरायामिति नेहोच्यते ।' folio 86 b of the I. O. ms. (of वैजयन्ती); on विष्णु० 16. 1 'विशेषस्तु मिताक्षराटीकायां प्रमिताक्षरायामस्मत्कृतायामवगन्तव्यः' (folio 93 b).
 
 Nandapaṇḍita also composed a work called *Śrāddhakalpalatā*, which is referred to in his *Śuddhicandrikā*[^1384] and in the *Vaijayantī*.[[P916]] In this work[^1385] he refers to a city called Sādhāraṇa (probably modern Saharanpur) where the Sahagila family ruled. He speaks of Siṃhamalla, Vasāvana, Rūpacandra, Bhūpacandra and Paramānanda as successive members of the dynasty and says that he was urged to write the work by the last of them and that he relies upon the *Śrāddhadīpikā* of Govindapaṇḍita.[^1386] At the end of the ms. of the *Vaijayantī* in the Deccan College Collection it is said that the *Vidvanmanoharā*, the *Smṛtisindhu* and the *Śrāddhakalpalatā* were the commentaries composed by Nandapaṇḍita.[^1387] But from the contents given in the India Office Catalogue it does not appear that the work was a commentary. It is divided into five *stabakas* and deals with the usual topics, viz. what is śrāddha, the proper time and place for it, the proper brāhmaṇas, various kinds of śrāddhas &c. The principal authors and works named therein are given below.[^1388] The *Śrāddhakalpalatā* was published in the Chowkhamba S. Series (1935) in 262 pages. In *Poona Orientalist* (vol. 15 pp. 60-64) Dr. S. L. Katre shows that a ms. of the *Śrāddhakalpalatā* is dated in *Saṃvat* 1641 (i. e. 1584-85 A. D.). The same scholar shows (in *I. H. Q.* vol. 28 for 1952, pp. 91 ff.) that a ms. of *Śuddhicandrikā* (which mentions the *Śrāddhakalpalatā* at least five times) was copied in [[Śaivat 196)|Saṃvat 1960]], Śrāvaṇa-vadi (i. e. in July 1603 A. D.). Therefore *Śrāddhakalpalatā* must have been composed several years earlier than 1603 A. D.
 
-[^1384]: 'स च स्येष्ठ एवेत्युपपादितं श्राद्धकल्पलतायाम्' folio 31 b of शुद्धिचन्द्रिका; on विष्णु 21. 19 'अत्रान्यो विशेषः श्राद्धकल्पलतायामस्माभिरुपपादित इति नेहोच्यते ।' folio 123 b (वैजयन्ती ).
+[^1384]: 'स च ज्येष्ठ एवेत्युपपादितं श्राद्धकल्पलतायाम्' folio 31 b of शुद्धिचन्द्रिका; on विष्णु 21. 19 'अत्रान्यो विशेषः श्राद्धकल्पलतायामस्माभिरुपपादित इति नेहोच्यते ।' folio 123 b (वैजयन्ती).
 
 [^1385]: Vide I. O. Cat. p. 556 No. 1731 for श्राद्धकल्पलता.
 
 [^1386]: गोविन्दपण्डितकृतामवलम्ब्यातियत्नतः । श्राद्धकल्पलतामेतां कुर्वे तां श्राद्धदीपिकाम् ॥ I. O. Cat. p. 557.
 
-[^1387]: 'पराशरस्मृतेष्टीका विद्वन्मनोहरा स्मृतिसिन्धुः । श्राद्धकल्पलता चैता नन्दपण्डितकृता टीका: ॥ D. C. ms. No. 39 of 1866-68.
+[^1387]: 'पराशरस्मृतेष्टीका विद्वन्मनोहरा स्मृतिसिन्धुः । श्राद्धकल्पलता चैता नन्दपण्डितकृता टीकाः ॥ D. C. ms. No. 39 of 1866-68.
 
 [^1388]: कालविधान, कालादर्श, चन्द्रप्रकाश, धर्मप्रदीप, निर्णयप्रदीपिका, पुराणसमुच्चय, श्राद्धकमल, श्राद्धकाशिका, श्राद्धचिन्तामणि, श्राद्धनिर्णय, श्राद्धप्रदीप, स्मृतिदर्पण, स्मृतिरत्नावलि, स्मृतिसार.
 

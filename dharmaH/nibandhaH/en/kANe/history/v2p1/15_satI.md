@@ -11,49 +11,34 @@ SATĪ ( Self-immolation of widows )
 
 [[P624]]
 
-The word is often written as 'suttee' in English works and papers. This subject is now of academic interest in India, since for over a hundred years (i.e., from 1829) self-immolation of widows has been prohibited by law in British India and has been [[deolared|declared]] to be a crime. A portion of sec. 1 of the Regulation XVII of 1829 passed by the Governor-General Lord William Bentinck is set out below. We are now in [[&|a]] position to take a dispassionate view of the practice, to trace its origin and follow its working down to the date of its being declared illegal. It is not possible in the space available here to go into all details. Those interested may read the latest book on the subject by Mr. Edward Thomson. [^1461] The burning
+The word is often written as 'suttee' in English works and papers. This subject is now of academic interest in India, since for over a hundred years (i.e., from 1829) self-immolation of widows has been prohibited by law in British India and has been declared to be a crime. A portion of sec. 1 of the Regulation XVII of 1829 passed by the Governor-General Lord William Bentinck is set out below:
+
+> Section 1 of Regulation XVII of 1829 which declared the practice of *satī* illegal and a crime punishable in the courts (and passed by the Governor-General in Council on 4th December 1829) is: 'The practice of Suttee or of burning or burying alive the widows of Hindoos is revolting to the feelings of human nature; it is nowhere enjoined by the religion of the Hindoos as an imperative duty; on the contrary a life of purity and retirement on the part of the widow is more especially and preferably inculcated and by a vast majority of that people throughout India the practice is not kept up or observed; in some extensive districts it does not exist; in those in which it has been most frequent, it is notorious that, in many instances, acts of atrocity have been perpetrated, which have been shocking to the Hindoos themselves, and in their eyes unlawful and wicked... Actuated by these considerations the Governor-General in Council, without intending to depart from one of the first and most important principles of the system of British Government in India that all classes of the people be secure in the observance of their religious usages, so long as that system can be adhered to without violation of the paramount dictates of justice and humanity, has deemed it right to establish the following rules &c.'
+
+We are now in a position to take a dispassionate view of the practice, to trace its origin and follow its working down to the date of its being declared illegal. It is not possible in the space available here to go into all details. Those interested may read the latest book on the subject by Mr. Edward Thomson. [^1461] The burning [[P625]] of widows was not peculiar to [[Brahmanism|Brāhmaṇism]], as many are prone to believe, but the custom owes its origin to the oldest religious views and superstitious practices of mankind in general. The practice of widow burning obtained among ancient Greeks, Germans, Slavs and other races (vide *Die Frau* pp. 56, 82-83 and [[Sobrader's|Schrader's]] 'Prehistoric Antiquities of the Aryan People,' English Translation of 1890, p. 391 and [[Wester marok's|Westermarck's]] 'Origin and Development of Moral Ideas', 1906, vol. I, pp. 472–476 ), but was generally confined to the great ones, the princes and nobles.
+
+There is no Vedic passage which can be cited as [[incon trovertibly|incontrovertibly]] referring to widow-burning as then current, nor is there any mantra which could be said to have been repeated in very ancient times [^1462] at such burning nor do the ancient [[gphy & sūtras|gṛhyasūtras]] contain any direction prescribing the procedure of widow burning. It therefore appears probable that the practice arose in [[Brahmanical|Brāhmaṇical]] India [[&|a]] few centuries before Christ. Whether it was indigenous or was copied from some non-Aryan or non-Indian tribes cannot be demonstrated. None of the [[dharmasūtras|dharmaśāstras]] [[P626]] except [[Viṣṇu|Viṣṇu]] contains any reference to [[sati|satī]]. The [[Manusmrti|Manusmṛti]] is entirely silent about it. It is stated in Strabo (XV. 1. 30 and 62 ) that the Greeks under Alexander found [[sati|satī]] practised among the Cathaei in the Punjab and that that practice arose from the apprehension that wives would desert or poison their husbands (Hamilton and [[Falooner's|Falconer's]] Translation vol. III ). The [[Viṣṇu-dharmasūtra|Viṣṇudharmasūtra]] [^1463] says 'On her husband's death the widow should observe [[celibaoy|celibacy]] or should ascend the funeral pyre after him.' The [[Mahābhārata|Mahābhārata]], though it is profuse in the descriptions of sanguinary fights, is very sparing in its references to widow burning. [[Mādrl|Mādrī]], the favourite wife of [[Pāṇdu|Pāṇḍu]], burnt herself with her husband's body. [^1464] In the [[Virāṭa-parva|Virāṭa-parva]] [[Sairandhri|Sairandhrī]] is ordered to be burnt with [[Kicaka|Kīcaka]], [^1465] just as in ancient times it is said there was a custom to bury a slave or slaves along with the deceased ruler. The [[Mausala parva|Mauṣala Parva]] (7.18) says that four wives of [[Vasudeva|Vasudeva]], viz. [[Devaki|Devakī]], [[Bhadra|Bhadrā]], [[Rohiniand|Rohiṇī and]] [[Madirā|Madirā]] burnt themselves with him and (chap. 7.73-74) that [[Rukmiṇi|Rukmiṇī]], [[Gāndhāri|Gāndhārī]], [[Saibyā|Śaibyā]], [[Haimavati|Haimavatī]], [[Jāmbavati|Jāmbavatī]] among the consorts of [[Krṣṇa|Kṛṣṇa]] burnt themselves along with his body and other queens like Satyabhāmā went to [[&|a]] forest for [[tapas|tapas]]. The [[Viṣṇupurāṇa|Viṣṇupurāṇa]] also says that eight queens of [[Krona|Kṛṣṇa]], [[Rukmiṇi|Rukmiṇī]] and others, entered fire on the death of [[Krsna|Kṛṣṇa]]. [^1466] The [[Sāntiparva|Śāntiparva]] (chap. 148) describes how a [[kapoti|kapotī]] (female pigeon) entered fire on the death of her husband the bird. [^1467] In the [[Striparva|Strīparva]] (chap. 26) the Great Epic describes the death ceremonies performed for the fallen Kauravas, but no mention is made of any widow immolating herself on the funeral pyre though the chariots, clothes and weapons of the warriors are said to have been consigned to fire. From the above it appears
 
 [^1461]:
-    *[[Suttee|Sati]]* ([[1928|1923]]), which gives an account of it from the most ancient times, of the efforts made to suppress it by Raja Rama Mohan Roy and the British Government. In an appendix the [[autbor|author]] gives extracts from the accounts reported by those who witnessed widow burning from 317 B.C. to 1845 A.D. Vide also Max Muller's *H. A. S. L.* p. 48 for references to the custom of widow-burning among Greeks and [[Soythians|Scythians]]; *Die Frau* pp. 74-79 for accounts of travellers and eye [[witueg808|witnesses]]; Colebrooke's Miscellaneous [[Essay&|Essays]] vol. I (ed. of 1837) pp. 114-116 (for description of the rite), vol. II. chap. III. [[Pp.|pp.]] 153-158; Annals of the Bhandarkar O. R. Institute vol. 14, p. 219. In the Travels of [[Poter|Peter]] Mundy (1608-1669) published by the Hakluyt Society in 1914 vol. II, pp. 34-36, the author gives an account of the burning of a widow at Surat in 1630 with a sketch showing the widow having on her lap the [[hoad|head]] of her deceased husband. That writer also notes that the practice had in his time become rare, as under the [[Mogal|Mogul]] rulers a special license from [[tho|the]] Ruler or Governor was required. Similarly Barbosa (a [[Portugueso|Portuguese]]) describes the burning of a [[sati|satī]] in the Vijayanagar kingdom (vide translation by M. L. Dames, vol. I. pp. 213-216).
-
-
-[[Seotion|Section]] 1 of Regulation XVII of 1829 [[whioh doclared|which declared]] the practice of [[san|satī]] illegal and a crime punishable in the courts (and passed by the Governor-General in Council on 4th December 1829 ) is, [[Tbe|The]] practice of [[Suttee|Satī]] or of burning or burying alive the widows of [[Hindoos|Hindus]] is [[revolt ing|revolting]] to the [[foelings|feelings]] of human nature; it is nowhere enjoined by the religion of the [[Hindoos|Hindus]] as an [[imporative|imperative]] duty; on the contrary life of  
-[[P625]]
-## Satī
-
-of widows was not peculiar to [[Brahmanism|Brāhmaṇism]], as many are prone to believe, but the custom owes its origin to the oldest religious views and superstitious practices of mankind in general. The practice of widow burning obtained among ancient Greeks, Germans, Slavs and other races (vide *Die Frau* pp. 56, 82-83 and [[Sobrader's|Schrader's]] 'Prehistoric Antiquities of the Aryan People,' English Translation of 1890, p. 391 and [[Wester marok's|Westermarck's]] 'Origin and Development of Moral Ideas', 1906, vol. I, pp. 472–476 ), but was generally confined to the great ones, the princes and nobles.
-
-There is no Vedic passage which can be cited as [[incon trovertibly|incontrovertibly]] referring to widow-burning as then current, nor is there any mantra which could be said to have been repeated in very ancient times [^1462] at such burning nor do the ancient [[gphy & sūtras|gṛhyasūtras]] contain any direction prescribing the procedure of widow burning. It therefore appears probable that the practice arose in [[Brahmanical|Brāhmaṇical]] India [[&|a]] few centuries before Christ. Whether it was indigenous or was copied from some non-Aryan or non-Indian tribes cannot be demonstrated. None of the [[dharmasūtras|dharmaśāstras]]
-
-(Continued from last page)  purity and retirement on the part of the widow is more especially and preferably inculcated and by a vast majority of that [[peoplo|people]] throughout India the practice is not kept up or observed; in some extensive districts it does not exist; in those in which it has been most [[froquent|frequent]], it is notorious that, in many instances, acts of atrocity [[bayo|have]] been perpetrated, which have been shocking to the [[Hindoos|Hindus]] [[thomselves|themselves]], and in their eyes unlawful and wicked......... Actuated by those considerations the Governor-General in Council, without intending to [[dopart|depart]] from one of the first and most important principles of the system of British [[Govorament|Government]] in India that all classes of the people be secure in the observance of their [[religiou8|religious]] usages, so long as that [[Bystem|system]] can be adhered to without violation of the paramount dictates of justice and humanity, has deemed it right to establish the following rules [[&o|etc.]],
+    'Suttee' (1928), which gives an account of it from the most ancient times, of the efforts made to suppress it by Raja Rama Mohan Roy and the British Government. In an appendix the author gives extracts from the accounts reported by those who witnessed widow burning from 317 B.C. to 1845 A.D. Vide also Max Muller's H. A. S. L. p. 48 for references to the custom of widow-burning among Greeks and Scythians; 'Die Frau' pp. 74–79 for accounts of travellers and eye witnesses; Colebrooke's Miscellaneous Essays vol. I (ed. of 1837) pp. 114–116 (for description of the rite), vol. II. chap. III. pp. 153–158; Annals of the Bhandarkar O. R. Institute vol. 14, p. 219. In the 'Travels of Peter Mundy' (1608–1669) published by the Hakluyt Society in 1914 vol. II. pp. 34–36, the author gives an account of the burning of a widow at Surat in 1630 with a sketch showing the widow having on her lap the head of her deceased husband. That writer also notes that the practice had in his time become rare, as under the Mogul rulers a special license from the Ruler or Governor was required. Similarly Barbosa (a Portuguese) describes the burning of a *satī* in the Vijayanagar kingdom (vide translation by M. L. Dames, vol. I. pp. 213–216).
 
 [^1462]:
-    Raja [[Radhakant Deva|Rādhākānt Deva]] relied upon two verses which he found in the [[Aukbya fikhs|Ākhyāśikṣā]] of the [[Tai. S.|Tai. Saṃ.]] quoted in the 84th [[Apuvika|Anuvāka]] of the [[Nærøyaniya Upadiṣad|Nārāyaṇīya Upaniṣad]] as the most explicit authority for widow burning; vide Prof. H. H. Wilson's Works vol. II, pp. 293-305. The two so-called [[Vodic|Vedic]] texts are: अग्ने व्रतानां व्रतपतेरसि ... चरिष्यामि तन्मे राज्यताम् । इह वा अग्ने नमसा विधेम सुवर्गस्य लोकस्य समे... । जुषाणो अग्ने ... जातवेदो विश्वाति ... यथा मा परसुर्ये (pp. 295-296). [[Thesc|These]], to say the least, are of doubtful authenticity.
-
-
-[[H. D. 79626|H. D. 79]]
-
-[[P626]]
-except [[Viṣṇu|Viṣṇu]] contains any reference to [[sati|satī]]. The [[Manusmrti|Manusmṛti]] is entirely silent about it. It is stated in Strabo (XV. 1. 30 and 62 ) that the Greeks under Alexander found [[sati|satī]] practised among the Cathaei in the Punjab and that that practice arose from the apprehension that wives would desert or poison their husbands (Hamilton and [[Falooner's|Falconer's]] Translation vol. III ). The [[Viṣṇu-dharmasūtra|Viṣṇudharmasūtra]] [^1463] says 'On her husband's death the widow should observe [[celibaoy|celibacy]] or should ascend the funeral pyre after him.' The [[Mahābhārata|Mahābhārata]], though it is profuse in the descriptions of sanguinary fights, is very sparing in its references to widow burning. [[Mādrl|Mādrī]], the favourite wife of [[Pāṇdu|Pāṇḍu]], burnt herself with her husband's body. [^1464] In the [[Virāṭa-parva|Virāṭa-parva]] [[Sairandhri|Sairandhrī]] is ordered to be burnt with [[Kicaka|Kīcaka]], [^1465] just as in ancient times it is said there was a custom to bury a slave or slaves along with the deceased ruler. The [[Mausala parva|Mauṣala Parva]] (7.18) says that four wives of [[Vasudeva|Vasudeva]], viz. [[Devaki|Devakī]], [[Bhadra|Bhadrā]], [[Rohiniand|Rohiṇī and]] [[Madirā|Madirā]] burnt themselves with him and (chap. 7.73-74) that [[Rukmiṇi|Rukmiṇī]], [[Gāndhāri|Gāndhārī]], [[Saibyā|Śaibyā]], [[Haimavati|Haimavatī]], [[Jāmbavati|Jāmbavatī]] among the consorts of [[Krṣṇa|Kṛṣṇa]] burnt themselves along with his body and other queens like Satyabhāmā went to [[&|a]] forest for [[tapas|tapas]]. The [[Viṣṇupurāṇa|Viṣṇupurāṇa]] also says that eight queens of [[Krona|Kṛṣṇa]], [[Rukmiṇi|Rukmiṇī]] and others, entered fire on the death of [[Krsna|Kṛṣṇa]]. [^1466] The [[Sāntiparva|Śāntiparva]] (chap. 148) describes how a [[kapoti|kapotī]] (female pigeon) entered fire on the death of her husband the bird. [^1467] In the [[Striparva|Strīparva]] (chap. 26) the Great Epic describes the death ceremonies performed for the fallen Kauravas, but no mention is made of any widow immolating herself on the funeral pyre though the chariots, clothes and weapons of the warriors are said to have been consigned to fire. From the above it appears
+    Raja Radhakant Deva relied upon two verses which he found in the Aukhya śākhā of the Tai. S. quoted in the 84th Anuvāka of the Nārāyaṇīya Upaniṣad as the most explicit authority for widow burning; vide Prof. H. H. Wilson's Works vol. II. pp. 293–305. The two so-called Vedic texts are : अग्ने व्रतानां व्रतपतिरसि पत्यानुगमनव्रतं चरिष्यामि तच्छकेयं तन्मे राध्यताम् । इह त्वा अग्ने नमसा विधेम सुवर्गस्य लोकस्य समेष्ट्यै । जुषाणो अद्य हविषा जातवेदो विशानि त्वा सत्वतो नय मा पत्युरग्रे (pp. 295–296). These, to say the least, are of doubtful authenticity.
 
 [^1463]:
-    सुते भर्तरि ब्राह्मणी ब्रह्मचर्यं तदन्वारोहणं वा । विष्णुधर्मसूत्र 25. 14 quoted by the [[मिताक्षरा|Mitākṣarā]] on [[या. I. 86|Yāj. I. 86]].
-
+    मृते भर्तरि ब्रह्मचर्यं तदन्वारोहणं वा । विष्णुधर्मसूत्र 25. 14 quoted by the मिताक्षरा on या. I. 86.
 
 [^1464]:
-    आदिपर्व 95. 65 'तत्रैवं चिताग्निस्थं माद्री समन्वारोहत् ।; आदि 125. 29 'राज्ञः शरीरेण सह ममापीदं कलेवरम् । दग्धव्यं सुप्रतिच्छन्नमेतदार्ये प्रियं कुरु ।।'
-
+    आदिपर्व 95. 65 'तत्रैनं चिताग्निस्थं माद्री समन्वारुरोह' ; आदि 125. 29 'राज्ञः शरीरेण सह ममापीदं कलेवरम् । दग्धव्यं सुप्रतिच्छन्नमेतदार्ये प्रियं कुरु ॥'
 
 [^1465]:
-    सैरन्ध्र्याः सूतपुत्रेण सह दाहं विशाम्पतिः । विराटपर्व 23. 8.
-
+    सैरन्ध्र्याः सूतपुत्रेण सह दाहं विशाम् पतिः । विराटपर्व 23. 8.
 
 [^1466]:
     अष्टौ महिष्यः कथिता रुक्मिणीप्रमुखास्तु याः । उपगुह्य हरेर्देहं विविशुस्ता हुताशनम् ॥ विष्णुपुराण V. 38. 2.
 
-
 [^1467]:
-    पतिव्रता संप्रदीप्तं प्रविवेश हुताशनम् ॥ ततश्चित्राम्बरधरं भर्तारं सान्वपश्यत । ...... ततः स्वर्गगतः पक्षी भार्यया सह संगतः । शान्ति 148. 10–12. This passage is quoted in the Mit. on Yāj. I. 86 in support of the plea that [[sati|satī]] [[in onjoined|is enjoined]] and leads to great [[blies|bliss]] in the other world.
+    पतिव्रता संप्रदीप्तं प्रविवेश हुताशनम् ॥ ततश्चित्राङ्गदधरं भर्तारं सान्वपश्यत । ...... ततः स्वर्गं गतः पक्षी भार्यया सह संगतः । शान्ति 148. 10–12. This passage is quoted in the Mit. on Yāj. I. 86 in support of the plea that satī is enjoined and leads to great bliss in the other world.
 
 
 [[P627]]
@@ -62,19 +47,16 @@ that the practice was originally confined to royal families and great warriors e
 The burning of a widow on the death of her husband is called [[sahamarana|sahāmaraṇa]] or [[sahagamana|sahagamana]] or [[anvārohana|anvārohaṇa]] (when she
 
 [^1468]:
-    पैठीनसिः । मृतानुगमनं नास्ति ब्राह्मण्या ब्रह्महत्यासमं परः स्मृतः ॥ अङ्गिराः । या तु ब्राह्मणजातीया मृतं पतिमनुव्रजेत् । सा स्वर्गमात्मपातेन नात्मानं न पतिं नयेत् ॥ व्याघ्रपात् । न म्रियेत समं भर्त्रा ब्राह्मणी शोकमोहिता । प्रवृद्धागतिमाप्नोति मरणादात्मघातिनी ॥ quoted by [[अपरार्क|Aparārka]] p. 112. These are quoted by the [[मिताक्षरा|Mitākṣarā]] on [[या. I. 86|Yāj. I. 86]] but without name. पृथग्दाहेच्छति समारूढा न विधवा गन्तुमर्हति । अन्यासां चैव नारीणां स्त्रीधर्मोयं परः स्मृतः ॥ [[उशनम्|Uśanas]] quoted by [[अपरार्क|Aparārka]] p. 112 and by [[मिताक्षरा|Mitākṣarā]] on [[या. I. 86|Yāj. I. 86]].
-
+    पैठीनसिः । मृतानुगमनं नास्ति ब्राह्मण्या ब्रह्मशासनात् । इतरेषां तु वर्णानां स्त्रीधर्मोयं परः स्मृतः ॥ अङ्गिराः । या स्त्री ब्राह्मणजातीया मृतं पतिमनुव्रजेत् । सा स्वर्गमात्मघातेन नात्मानं न पतिं नयेत् ॥ व्याघ्रपात् । न म्रियेत समं भर्त्रा ब्राह्मणी शोकमोहिता । प्रव्रज्यागतिमाप्नोति मरणादात्मघातिनी ॥ quoted by अपरार्क p. 112. These are quoted by the मिता० on या. I. 86 but without name. पृथक्चितिं समारुह्य न विप्रा गन्तुमर्हति । अन्यासां चैव नारीणां स्त्रीधर्मोयं परः स्मृतः ॥ उशनस् quoted by अपरार्क p. 112 and by मिता० on या. I. 86.
 
 [^1469]:
-    मृतं भर्तारमादाय ब्राह्मणी वह्निमाविशेत् । जीवन्ती (v.l. ब्राह्मणी) चेत्प्रत्यक् केशान् तपसा शोषयेद् वपुः ॥ वेदव्यास II. 53 quoted above in note 1379.
-
+    मृतं भर्तारमादाय ब्राह्मणी वह्निमाविशेत् । जीवन्ती ( v. l. ब्राह्मणी ) चेत्त्यक्तकेशा तपसा शोषयेद्वपुः ॥ वेदव्यास II. 53 quoted above in note 1379.
 
 [^1470]:
-    [[अपरार्क|Aparārka]] p. 112 refers to the [[रामायण|Rāmāyaṇa]] 'अत एव रामायणादौ ब्राह्मण्यादीनां स्वभर्तृशरीरालिङ्गनपूर्वकं स्वशरीरवह्निमुपाख्यायते ।।'
-
+    अपरार्क p. 112 refers to the रामायण 'अत एव रामायणादौ ब्राह्मण्यादीनां स्वभर्तृशरीरालिङ्गनपूर्वकं स्वशरीरदहनमुपाख्यायते ।'
 
 [^1471]:
-    तां पश्य वदतीमार्तां मुक्तकेशीमधोमुखीम् । हतं पतिमुपासन्तीं द्रोणं शस्त्रभृतां वरम् ॥ बाणैर्निहतगात्राणां धृष्टद्युम्नेन केशव । उपास्ते वै मृथे द्रोणं जटिला ब्रह्मचारिणी ।। स्त्रीपर्व 23.
+    तां पश्य रुदतीमार्तां मुक्तकेशीमधोमुखीम् । हतं पतिमुपासन्तीं द्रोणं शस्त्रभृतां वरम् ॥ बाणैर्निहतगात्राणं धृष्टद्युम्नेन केशव । उपास्ते वै मृधे द्रोणं जटिला ब्रह्मचारिणी ॥ स्त्रीपर्व 23.
 
 
 [[P628]]
@@ -89,11 +71,11 @@ ascends the funeral pyre of her husband and is burnt along with his corpse ), bu
 
 
 [^1474]:
-    [[Bana|Bāṇa]] in his [[Kadambari|Kādambarī]] यदेतदनुमरणं नाम तदतिनिष्फलम् । in paragraph 177 of my edition of the pūrvabhāga, which Candrāpīḍa addresses to Mahāśvetā, where he gives instances of famous women like Rati, Pṛthā, Uttarā, Duḥśalā that did not resort to sahamaraṇa and winds up 'अन्याश्च रक्षःसुरासुरमुनिमनुजसिद्धगन्धर्वकन्यका भर्तृरहिताः श्रूयन्ते सहस्रशो विधृतजीविताः'.
+    यदेतदनुमरणं नाम तदतिनिष्फलम् । in paragraph 177 of my edition of the pūrvabhāga, which Candrāpīḍa addresses to Mahāśvetā, where he gives instances of famous women like Rati, Pṛthā, Uttarā, Duḥśalā that did not resort to sahagamana and winds up 'अन्याश्च रक्षःसुरासुरमुनिमनुजसिद्धगन्धर्वकन्यका भर्तृरहिताः श्रूयन्ते सहस्रशो विधृतजीविताः'.
 
 
 [^1475]:
-    [[Bana|Bāṇa]] in his [[Kadambari|Kādambarī]] (p. 242) quotes the passage of the भागवतपुराण.
+    रघुनन्दन in his शुद्धितत्त्व (p. 242) quotes the passage of the भागवतपुराण.
 
 
 [[P629]]
@@ -116,18 +98,18 @@ The rewards promised to a [[sati|satī]] were as follows: [[Saṅkba|Śaṅkha]]
 There were old commentators who were opposed to the [[practioe|practice]] of [[sati|satī]]. [[Medbātithi|Medhātithi]] on Manu V. 157 ([[Kāmam tu|Kāmaṃ tu]] &c.) compares this practice to [[øyenayāga|śyenayāga]] which a man performed by
 
 [^1477]:
-    तिस्रः कोट्यर्धकोटी च यानि लोमानि मानुषे । तावत्कालं वसेत्स्वर्गे भर्तारं यानुगच्छति ॥ व्यालग्राही यथा सर्पं बलादुद्धरते बिलात् । तद्वदुद्धृत्य सा नारी सह तेनैव मोदते ॥ तत्र सा भर्तृपरमा स्तूयमानाप्सरोगणैः । क्रीडते पतिना सार्धं यावदिन्द्राश्चतुर्दश ॥ ब्रह्मघ्नो वा कृतघ्नो वा मित्रघ्नो वा भवेत्पतिः । पुनात्यविधवा नारी तमादाय सुता सह ॥ सुते भर्तरि या नारी समारोहेद्धुताशनम् । सारन्धतीसमाचारा स्वर्गलोके महीयते ॥ यावन्न सुते पत्नी वा नात्मानं प्रदहत्यसौ । तावत् सा दुःखतां याति स्त्रीशरीराकथंचन ॥ quoted by the [[मिताक्षरा|Mitākṣarā]] on [[या. I. 86|Yāj. I. 86]], [[अपरार्क|Aparārka]] p. 110, [[हारीत|Hārīta]] p. 234. The two verses तिस्रः कोट्यो &c. are also पराशर IV. 32 and 33 and ब्रह्मपुराण, गौतमीमाहात्म्य chap. 10. 76 and 74.
+    तिस्रः कोट्योऽर्धकोटी च यानि लोमानि मानुषे । तावत्कालं वसेत्स्वर्गे भर्तारं यानुगच्छति ॥ व्यालग्राही यथा सर्पं बलादुद्धरते बिलात् । तद्वदुद्धृत्य सा नारी सह तेनैव मोदते ॥ तत्र सा भर्तृपरमा स्तूयमानाप्सरोगणैः । क्रीडते पतिना सार्धं यावदिन्द्राश्चतुर्दश ॥ ब्रह्मघ्नो वा कृतघ्नो वा मित्रघ्नो वा भवेत्पतिः । पुनात्यविधवा नारी तमादाय मृता तु या ॥ मृते भर्तरि या नारी समारोहेद्धुताशनम् । सारुन्धतीसमाचारा स्वर्गलोके महीयते ॥ यावच्छामौ मृते पत्यौ स्त्री नात्मानं प्रदाहयेत् । तावन्न मुच्यते सा हि स्त्रीशरीरात्कथंचन ॥ quoted by the मिताक्षरा on या. I. 86, अपरार्क p. 110, शुद्धितत्त्व p. 234. The two verses तिस्रः कोट्यो &c. are also पराशर IV. 32 and 33 and ब्रह्मपुराण, गौतमीमाहात्म्य chap. 10. 76 and 74.
 
 
 [^1478]:
-    अयं च सर्वासां स्त्रीणामगर्भिणीनामपालापरतानामाचाण्डालं साधारणो धर्मः । भर्तरि यातुमिच्छतीत्यविशेषोपपादनात् । मिता॰ on [[या. I. 86|Yāj. I. 86]]; vide the same words in [[मध. प.|Madh. P.]] p. 196 and [[स्मृतिसं|Smṛtisaṃgraha]] (संस्कार p. 162), in which latter they are expressly quoted from विज्ञानेश्वर.
+    अयं च सर्वासां स्त्रीणामगर्भिणीनामबालापत्यानामाचाण्डालं साधारणो धर्मः । भर्तारं यानुगच्छतीत्यविशेषोपादानात् । मिता० on या. I. 86; vide the same words in मद. पा. p. 196 and स्मृतिसं० (संस्कार p. 162), in which latter they are expressly quoted from विज्ञानेश्वर.
 
 
 [[P632]]
 way of [[blaok|black]] magic to kill his enemy. He says [^1479] that though [[Angiras|Aṅgiras]] allowed '[[anumarana|anumaraṇa]]' it is suicide and is really forbidden to women. Just as the Veda says '[[syenenabbicaran yajet|śyenābhicaran yajet]]' and yet [[syenayaga|śyenayāga]] is not looked upon as dharma, but rather as [[adharma|adharma]] (vide [[Sabara|Śabara]] on [[Jaimini|Jaimini]] I. 1. 2), so, though [[Angiras|Aṅgiras]] speaks of it, it is really [[adharma|adharma]]; and that a woman who is in a hurry and extremely anxious to secure heaven quickly for herself and her husband might act according to [[Angiras|Aṅgiras]], still her action is [[aśāstriya|aśāstrīya]] (not in accordance with the [[sāstras|śāstras]]); besides [[apvārohana|anvārohaṇa]] is opposed to the Vedic text 'one should not leave this world before one has finished one's allotted span of life.' The [[Mit.|Mitākṣarā]] on [[Yāj. I. 86|Yāj. I. 86]] [[coinbats|combats]] these arguments. It says that [[śyenayāga|śyenayāga]] is no doubt undesirable and therefore [[adharma|adharma]], but that is so because the object of [[syenayāga|śyenayāga]] is injury to another. [[Anugamana|Anugamana]] on the other hand is not so; there the result promised is heaven which is [[&|a]] desir able result and which is enjoined by [[fruti|śruti]] in such [[sentenoes|sentences]] as 'one should sacrifice a white goat to [[Vāyu|Vāyu]] if one desires pros perity'. Similarly the [[smrti|smṛti]] about [[anugamana|anugamana]] is not opposed to the [[fruti|śruti]] quoted, the meaning of which is different; that [[sruti|śruti]] means 'one should not waste one's life for securing heavenly bliss which is fleeting and insignificant as compared with the supreme bliss of [[Brahma knowledge|Brahman knowledge]]. As the woman in [[Anumarana|anumaraṇa]] desires only heaven, she is not doing anything cont rary to the [[sruti|śruti]] texts. This is the reasoning of the [[Mitakṣarā|Mitākṣarā]] which looks like special pleading. [[Aparārka|Aparārka]] p. 111, the [[Madang. pārijāta|Madanapārijāta]] p. 199, Par. M. II. part I pp. 55-56 follow the reasoning of the [[Mit.|Mitākṣarā]] and add that the Vedic text about the allotted span of life is a general rule, while the [[smrti|smṛti]] about [[anumarana|anumaraṇa]] is a special or exceptional [[sastra|śāstra]] and so there is no contradiction as the rule applies to all cases outside the excepted one. The [[Madanapērijāta|Madanapārijāta]] (p. 200) further explains that the texts about purifying a husband guilty of [[brābmaṇa murder|brāhmaṇa murder]] are not to be taken literally but only as [[byperbolically|hyperbolically]] extolling [[anvārohana|anvārohaṇa]].
 
 [^1479]:
-    पुंवत्स्त्रीणामपि प्रतिषिद्ध आत्मत्यागो यद्यप्याङ्गिरसे पतिमनुम्रियेरन्नित्युक्तं तदपि नित्यवदवश्यं कर्तव्यम् । फलस्तुतिस्तत्रास्ति फलकामायाश्चाधिकारे श्येनतुल्यता । तथैव श्येनेन हिंस्याद्भूतानीत्यधिकारस्यातिप्रवृद्धतरद्वेषान्धतया सत्यामपि प्रवृत्तौ न धर्मत्वम्, एवमिहापि अतिप्रवृद्धफलाभिलाषायाः सत्यपि प्रतिषेधे तदतिक्रमेण मरणे प्रवृत्त्युपपत्तेर्न शास्त्रीयत्वमतोस्त्येव पतिमनु मरणेऽपि स्त्रियाः प्रतिषेधः । किं च 'तस्मादु ह न पुरायुषः प्रेयात्' इति प्रत्यक्षश्रुतिविरोधोयम् । मेधा० on मनु V. 156. The words of शबर are 'नैव श्येनादयः कर्तव्या विज्ञायन्ते । यो हि हिंसितुमिच्छेत्तस्यायमभ्युपाय इति तेषामुपदेशः । श्येनेनाभिचरन्यजेतेति हि समामनन्ति नाभिचरितव्यमिति । on जै. I. 1. 2. p. 19.
+    पुंवत्स्त्रीणामपि प्रतिषिद्ध आत्मत्यागो यद्यप्याङ्गिरसे पतिमनुम्रियेरन्नित्युक्तं तदपि नित्यवदवश्यं कर्तव्यम् । फलस्तुतिस्तत्रास्ति फलकामायाश्चाधिकारे श्येनतुल्यता । तथैव श्येनेन हिंस्याद्भूतानीत्यधिकारस्यातिप्रवृद्धतरद्वेषान्धतया सत्यामपि प्रवृत्तौ न धर्मत्वम्, एवमिहापि अतिप्रवृद्धफलाभिलाषायाः सत्यपि प्रतिषेधे तदतिक्रमेण मरणे प्रवृत्त्युपपत्तेर्न शास्त्रीयत्वमतोस्त्येव पतिमनु मरणेऽपि स्त्रियाः प्रतिषेधः । किं च 'तस्मादु ह न पुरायुषः प्रेयात्' इति प्रत्यक्षश्रुतिविरोधोयम् । मेधा० on मनु V. 156. The words of शबर are 'नैव श्येनादयः कर्तव्या विज्ञायन्ते । यो हि हिंसितुमिच्छेत्तस्यायमभ्युपाय इति तेषामुपदेशः । श्येनेनाभिचरन्यजेतेति हि समामनन्ति नाभिचरितव्यमिति ।' on जै. I. 1. 2. p. 19.
 
 
 [[P633]]
@@ -140,19 +122,19 @@ We saw above that [[brāhmaṇa widows|brāhmaṇa widows]] were only allowed [[
 The [[Suddhitattva|Śuddhitattva]] sets out the procedure of widow burning. [^1484] The widow bathes and puts on two white garments, takes kuśa blades in her hands, faces the east or north, performs [[koamana|ācamana]] (sipping water); when the [[brāhmaṇas|brāhmaṇas]] say 'om, tat sat' she remembers the God Narayana and refers to the time (month, fortnight,
 
 [^1480]:
-    यत्तु विष्णुना धर्मान्तरमुक्तं मृते भर्तरि ब्रह्मचर्यं तदन्वारोहणं वा ... ... तदेतद्धर्मान्तरमपि ब्रह्मचर्यधर्माज्जघन्यम् । निकृष्टफलत्वात् । स्मृतिचं on व्यव. p. 254.
+    यत्तु विष्णुना धर्मान्तरमुक्तं मृते भर्तरि ब्रह्मचर्यं तदन्वारोहणं वा ... ... तदेतद्धर्मान्तरमपि ब्रह्मचर्यधर्माज्जघन्यम् । निकृष्टफलत्वात् । स्मृतिच० on व्यव. p. 254.
 
 
 [^1481]:
-    सर्वासामेष भार्याणाममिमं पतिमारते । नान्यो धर्मो हि विशेष्यो सुते भर्तरि कश्चित् ॥ [[अङ्गिरस्|Aṅgiras]] quoted by [[अपरार्क|Aparārka]] p. 109, परा. मा. II. 1. p. 58, [[स्मृतिचं|Smṛticandrikā]] (p. 234 reads सर्वासामेष भार्याणां). सर्वासामेष भार्याणां is also [[ब्रह्मपुराण|Brahmapurāṇa]] XI. 202.
+    सर्वासामेव नारीणामग्निप्रपतनादृते । नान्यो धर्मो हि विज्ञेयो मृते भर्तरि कर्हिचित् ॥ अङ्गिरस् quoted by अपरार्क p. 109, परा. मा. II. 1. p. 58, शुद्धितत्त्व (p. 234 reads साध्वीनामेव नारीणां). साध्वीनामिह नारीणां is also वृद्धहारीत XI. 202.
 
 
 [^1482]:
-    बालापत्याश्च गर्भिण्यो अदृष्टर्तवस्तथा । रजस्वला राजसुते नारोहन्ति चितां शुभे ॥ [[बृहन्नारदीयपुराण|Bṛhannāradīyapurāṇa]] quoted by परा. मा. II. part 1, p. 58, [[स्मृतिचं|Smṛticandrikā]] p. 236, [[स्मृतिसं|Smṛtisaṃgraha]] I. p. 162 (ascribes to और्व). 'बालसंवर्धनं त्यक्त्वा बालापत्या न गच्छति । रजस्वला सूतिका च रक्षेद्गर्भं च गर्भिणी ॥' [[बृहस्पति|Bṛhaspati]] quoted by परा. मा. and [[स्मृतिचं|Smṛticandrikā]].
+    बालापत्याश्च गर्भिण्यो अदृष्टऋतवस्तथा । रजस्वला राजसुते नारोहन्ति चितां शुभे ॥ नारदीयपुराण quoted by परा. मा. II. part 1, p. 58, शुद्धितत्त्व p. 236, स्मृतिमुक्ताफल I. p. 162 (ascribes to और्व). 'बालसंवर्धनं त्यक्त्वा बालापत्या न गच्छति । रजस्वला सूतिका च रक्षेद्गर्भं च गर्भिणी ॥' बृहस्पति quoted by परा. मा. and शुद्धितत्त्व.
 
 
 [^1483]:
-    प्रतिषिद्धा हि या नारी मोहादिच्छति सति ततः । प्राजापत्येन शुध्येतु तस्याः पापकर्मणः । [[आपस्तम्ब|Āpastamba]] quoted by [[अपरार्क|Aparārka]] p. 1193 and [[स्मृतिचं|Smṛticandrikā]] p. 243.
+    चितिभ्रष्टा तु या नारी मोहाद्विचलिता ततः । प्राजापत्येन शुद्ध्येत तस्माद्धि पापकर्मणः ॥ आपस्तम्ब quoted by अपरार्क p. 1193 and शुद्धितत्त्व p. 243.
 
 
 [^1484]:
@@ -169,7 +151,7 @@ tithi) and then makes the [[saṅkalpa|saṅkalpa]] (declaration of resolve) set
 
 
 [^1486]:
-    Vide निर्णयसिन्धु III, उत्तरार्ध p. 623 and धर्मसिन्धु pp. 483-484. The निर्णयसिन्धु expressly refers to the Gauḍa procedure as different from his "गौडास्तु 'इमा नारीरविधवाः' इति 'ओं इमाः पतिव्रताः ... विभावसुम्' इति च विप्रः पठेदित्याहुः ।".
+    Vide निर्णयसिन्धु III, उत्तरार्ध p. 623 and धर्मसिन्धु pp. 483-484. The निर्णयसिन्धु expressly refers to the Gauḍa procedure as different from his "गौडास्तु 'इमा नारीरविधवाः' इति 'ओं इमाः पतिव्रताः ... विभावसुम्' इति च विप्रः पठेरित्याहुः ।".
 
 
 [[P635]]
@@ -182,7 +164,7 @@ It appears from all accounts of travellers and others that [[widow-burning|widow
 
 
 [^1488]:
-    Vide [[दायभाग|Dāyabhāga]] (ed. by Jīvānanda, 1893) 'अतोऽविशेषेणैव विभक्ताविभक्तानपेक्षयैव अपुत्रस्य भर्तुः कृत्स्नधने पत्न्यधिकारो जितेन्द्रियोक्त आदरणीयः ।' p. 46; 'पत्नी च भर्तृधनं भुञ्जीतैव परं न तु तस्य दानाधमनविक्रयान्कर्तुमर्हति' p. 56.
+    Vide दायभाग (ed. by Jīvānanda, 1893) 'अतोऽविशेषेणैव विभक्ताद्यनपेक्षयैव अपुत्रस्य भर्तुः कृत्स्नधने पत्न्यधिकारो जितेन्द्रियोक्त आदरणीयः ।' p. 46; 'पत्नी च भर्तृधनं भुञ्जीतैव परं न तु तस्य दानाधमनविक्रयान्कर्तुमर्हति' p. 56.
 
 
 [[P636]]

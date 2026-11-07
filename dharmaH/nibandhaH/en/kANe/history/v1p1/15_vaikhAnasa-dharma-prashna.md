@@ -11,9 +11,9 @@ Mahādeva in his commentary called Vaijayantī (Ānandāśrama ed.) on the Saty�
 
 Kalpataru (Mokṣakāṇḍa) p. 20 reads as ‘śrāvaṇakena’, quotes Bhaṭṭayajña as ‘Vaikhānasam śāstram śrāvaṇakam’, on p. 22 quotes a very long prose passage from Hārīta beginning with ‘Tretām Śrāvaṇakam vāgnimādhāya’. The Manu-
 
-[^227]: ‘श्रावणकेन (श्रामणकेन?) अग्निमाधाय’ गौ. ध. सू. 3. 26 and बौ. ध. सू. 11. 6. 17, वसिष्ठ IX. 10.
+[^227]: 'श्रावणकेन (श्रामणकेन ?) अग्निमाधाय' गौ. ध. सू. 3. 26 and बौ. ध. सू. 11. 6. 17, वसिष्ठ IX. 10.
 
-[^228]: गोविन्दस्वामी, the commentator of Baud., says ‘वैखानसोऽपि वानप्रस्थ एव । संज्ञान्तरकरणं तु संव्‍यवहारार्थम् । विखनसा ऋषिणा प्रोक्तं वैखानस-शास्त्रम् । तत्र हि बहवो वानप्रस्थाश्रमोक्ता ग्रामे पञ्चतपा इत्यादयः समुदाचाराः ’.
+[^228]: गोविन्दस्वामी, the commentator of Baud., says 'वैखानसोपि वानप्रस्थ एव । संज्ञान्तरकरणं तु संव्यवहारार्थम् । विखनसा ऋषिणा प्रोक्तं वैखानस-शास्त्रम् । तत्र हि बहवो वानप्रस्थार्योक्ता ग्रीष्मे पञ्चतपा इत्यादयः समुदाचाराः '.
 
 [[P258]]
 

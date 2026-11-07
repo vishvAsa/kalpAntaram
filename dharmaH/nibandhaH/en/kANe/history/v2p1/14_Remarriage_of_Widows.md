@@ -23,10 +23,10 @@ The three _punarbhūs_ are:
     - (this is _niyoga_ and no ceremony is to be performed).
 
 [^1429]:
-    Vide _Vedic Index_ Vol. I, pp. 476-478, 'Die Witwe im Veda' (the widow in the Veda), [[« pa por|a paper]] by Dr. [[Wiptornitz|Winternitz]] in the [[Vioona Oriental Journal|Vienna Oriental Journal]] (1915), Vol. 29, pp. 172-203 for discussion of some Vedic passages bearing on the question.
+    Vide *Vedic Index* vol. I. pp. 476–478, 'Die Witwe im Veda' (the widow in the Veda), a paper by Dr. Winternitz in the Vienna Oriental Journal (1915) vol. 29, pp. 172–203 for discussion of some Vedic passages bearing on the question.
 
 [^1430]:
-    Compare Manu IX. 176 and [[Viṣṇa|Viṣṇu]] 15. 8 for the first _punarbhū_, [[Mapu|Manu]] IX. 176, Vas. Dh. S. 17.19 and [[Viṣṇu|Viṣṇu]] [[16. 9|15. 9]] for the second _punarbhū_.
+    Compare Manu IX. 176 and Viṣṇu 15. 8 for the first *punarbhū*, Manu IX. 176, Vas. Dh. S. 17. 19 and Viṣṇu 15. 9 for the second *punarbhū*.
 
 
 The four _svairiṇīs_ are:
@@ -39,7 +39,7 @@ The four _svairiṇīs_ are:
 4) a woman who is given to a stranger by the elders relying on the usages of the country, but who incurs the blame of wantonness [^1431] (as the [[smr̥ti|smṛti]] rules about _niyoga_ are not observed by them or her).
 
 [^1431]:
-    Dr. Jolly in his translation of Nārada (S. B. E. vol. 33 pp. 175-176) [[render,|renders]] this verse of Nārada differently; but his rendering appears to me to be incorrect. The 3rd kind of _punarbhū_ refers to the practice of _niyoga_; the 4th kind of _svairiṇī_ is one who is allowed to have intercourse by her elders for procreating a son for her deceased husband but without observing the strict rules of _niyoga_ laid down in the [[smr̥tis|smṛtis]]. That is the difference between the two. The action of the [[Riftoft|svairiṇī]] is described as [[#|vyabhicāra]], as it is no more than [[vyabhicara|vyabhicāra]], though with the [[older's|elder's]] permission.
+    Dr. Jolly in his translation of Nārada (S. B. E. vol. 33 pp. 175–176) renders this verse of Nārada differently; but his rendering appears to me to be incorrect. The 3rd kind of *punarbhū* refers to the practice of *niyoga*; the 4th kind of *svairiṇī* is one who is allowed to have intercourse by her elders for procreating a son for her deceased husband but without observing the strict rules of *niyoga* laid down in the *smṛtis*. That is the difference between the two. The action of the स्वैरिणी is described as साहस, as it is no more than *vyabhicāra*, though with the elder's permission.
 
 
 [[P609]]
@@ -69,7 +69,7 @@ According to [[Kasyapa|Kaśyapa]] [^1432] the seven kinds of _punarbhū_ are:
 7) who had given birth to a child after marriage.
 
 [^1432]:
-    [[वाग्दत्ता मनोदत्ता अग्निं परिगता सप्तमं पदं गता भुक्ता गृहीतगर्भा प्रसूता चेति सप्तविधा पुनर्भूर्भवति । एताश्च कश्यपेनोक्ता वहन्ति कुलमव्ययम् । (quoted by Viśvarūpa I. 76.)|वाग्दत्ता मनोदत्ता कृतकौतुकमङ्गला । उदकेन दत्ता या च या च पाणिगृहीतिका ॥ अग्निं परिगता या च पुनर्भूः प्रसूता च या । एतास्ताः काश्यपेनोक्ता वहन्ति कुलमव्ययम् ॥ (काश्यप quoted by Smṛticandrikā I. 76.)]]
+    वाचा दत्ता मनोदत्ता कृतकौतुकमङ्गला । उदकस्पर्शिता या च या च पाणिगृहीतिका ॥ अग्निं परिगता या च पुनर्भूः प्रसवा च या । इत्येताः कश्यपेनोक्ता वहन्ति कुलमग्निवत् ॥ कश्यप quoted by स्मृतिच. I. 75.
 
 
 [[P610]]
@@ -99,13 +99,13 @@ Vas. Dh. S. [^1435] 17 19-20 describes _paunarbhava_ as the son of a woman, who 
 Baud. Dh. S. II. 2. 31 describes _paunarbhava_ as the son of a woman who after abandoning an impotent or outcast husband goes to another husband.
 
 [^1433]:
-    [[वाग्दत्ता मनोदत्ता अग्निं परिगता सप्तमं पदं भीता भुक्ता गृहीतगर्भा प्रसूता चेति सप्तविधा पुनर्भूर्भवति । अतस्ता गृहीत्वा न प्रजा धर्म च विन्देत । बौधायन quoted in Ferrage I. p. 75, 8. 9. p. 736.|वाग्दत्ता मनोदत्ता अग्निं परिगता सप्तमं पदं गता भुक्ता गृहीतगर्भा प्रसूता चेति सप्तविधा पुनर्भूर्भवति । अतस्ता गृहीत्वा न प्रजां धर्मं च विन्देत । बौधायन (quoted in Smṛticandrikā I. p. 75, Saṁ. Pr. p. 736.)]]
+    वाग्दत्ता मनोदत्ता अग्निं परिगता सप्तमं पदं नीता भुक्ता गृहीतगर्भा प्रसूता चेति सप्तविधा पुनर्भूर्भवति । अतस्तां गृहीत्वा न प्रजां धर्मं च विन्देत । बौधायन quoted in स्मृतिच० I. p. 75, सं. प्र. p. 735.
 
 [^1434]:
-    [[wiar erat fraaret gray fyrirft पितुरेव सा ॥ पाणिग्राहे सुते बाला केवलं मग्नसंस्कृता । सा दक्षतयोनिः स्थापना ÁFICARE II SS 17. 72 and 74.|वाग्दत्ता मनसा दत्ता अग्निं पर्यगतापि वा । पुनर्भूः पितुरेव सा ॥ पाणिग्राहे मृते बाला केवलं मन्त्रसंस्कृता । साक्षतयोनिः स्थापना पुनर्भूः पुनर्विधेया ॥ वासिष्ठधर्मसूत्र 17. 72 and 74.]]
+    अद्भिर्वाचा च दत्तायां म्रियेतादौ वरो यदि । न च मन्त्रोपनीता स्यात्कुमारी पितुरेव सा ॥ पाणिग्राहे मृते बाला केवलं मन्त्रसंस्कृता । सा चेदक्षतयोनिः स्यात्पुनः संस्कारमर्हति ॥ वसिष्ठ 17. 72 and 74.
 
 [^1435]:
-    [[natatand: T * Faipari Frey TETT gara भयति सा पुनर्भवति । या चली पतितमुम्मसंवा भारहसण्यान्य पति पिन्दते सते पा ft gengutara ifa 17. 18-20.|पौनर्भवः पुत्रः । या कौमारं भर्तारमुत्सृज्यान्यं वा पुरुषं प्राप्नोति सा पुनर्भूर्भवति । या तु क्लीबं पतितमुन्मत्तं वा भार्याहेतोरन्यं पतिं विन्दते सा पुनर्भूर्भवति । वासिष्ठधर्मसूत्र 17. 18-20.]]
+    पौनर्भवश्चतुर्थः । या कौमारं भर्तारमुत्सृज्यान्यैः सह चरित्वा तस्यैव कुटुम्बमाश्रयति सा पुनर्भूर्भवति । या च क्लीबं पतितमुन्मत्तं वा भर्तारमुत्सृज्यान्यं पतिं विन्दते मृते वा सा पुनर्भूर्भवति । वसिष्ठ 17. 18–20.
 
 
 [[P611]]
@@ -138,13 +138,13 @@ and Manu VIII. 226 (the Vedic mantras used in [[panigrahana|pāṇigrahaṇa]] a
     नष्टे मृते प्रव्रजिते क्लीबे च पतिते पतौ । पञ्चस्वापत्सु नारीणां पतिरन्यो विधीयते ॥ (नारद, स्त्रीपुंसप्रकरण 97).
 
 [^1437]:
-    [[Toret ... ..Parte a SATTELFRYTATYTUT unitar magpare fumatut on RU V. 157; Fu Tait Tartua angga r प्रतिषिष्यवे नियोगस्मृत्या तु तत्पुनरम्यनुज्ञास्यवे। तदेवदपस्योत्पादनमुक्तमतिषिद्धत्वादि mara HUT. ON AE V. 163.|यत्र नष्टे ...... विधीयते इति तत्र पालनात्पतिमन्यमाश्रयेत् मेधातिथि on मनु V. 157; अत्र तु नियोगस्मृत्या तत्पुनरभ्यनुज्ञास्यते । तदेवेदपत्योत्पादनमुक्तमप्रतिषिद्धत्वादि ॥ मेधातिथि on मनु V. 163.]]
+    यत्तु नष्टे ...... विधीयते इति तत्र पालनात्पतिमन्यमाश्रयेत सैरन्ध्रकर्मादिनाऽत्मवृत्त्यर्थम् । मेधातिथि on मनु V. 157; तथा स्वर्गे गच्छत्यपुत्रापीत्यनेनापत्यजननमापदि प्रतिषिध्यते नियोगस्मृत्या तु तत्पुनरभ्यनुज्ञास्यते । तदेतदपत्योत्पादनमुक्तमप्रतिषिद्धत्वाद्विकल्पते । मेधा. on मनु V. 163.
 
 [^1438]:
-    [[gaspari turg WHETETT IGT GOTÁHaga qafe II तापदृष्टे कन्यैव पुनर्देयेति केचन । आगर्भधारणाकन्या पुनर्देयेति चापरे । देशकालादिमा WAT MOST FETTET I FOTOATT p. 12.|वाग्दत्ता तु या कन्या न विवाह्येत चेत् पुनः । साप्यदृष्टे कन्यैव पुनर्देयेति केचन । अगतावृद्धे कन्यैव पुनर्देयेति केचन । आगर्भधारणा कन्या पुनर्देयेति चापरे । देशकालाविमा धर्मा अनुष्ठेया विजानता ॥ (स्मृत्यर्थसार p. 12).]]
+    मृतेऽन्यस्मै तथा देया वरे सप्तपदात्पुरा । पुरा पुरुषसंयोगान्मृते देयेति केचन ॥ ऋतावदृष्टे कन्यैव पुनर्देयेति केचन । आगर्भधारणात्कन्या पुनर्देयेति चापरे । देशकालादिमा धर्मा अनुष्ठेया विजानता ॥ स्मृत्यर्थसार p. 12.
 
 [^1439]:
-    [[#1194 #retrat antarane i FE V. 162; # PRETTETTUTET format gas II AZ IX. 65; 75***9ahti AE IX. 47; Trafora ##T: Arr a igar: AO VIII. 226. Vide sky. . I. 7. 13, BTC, .T. I. 5.7 &a for the मन्त्रा'अर्यमणं देवं कन्या अग्निमयक्षत&o.', where the word कन्या (a maiden ) alono is usod.|न निष्क्रयविसर्गाभ्यां साध्वीनां काचिदस्त्युपदिश्यते । मनु V. 162; न विवाहविधावुक्तं विधवावेदनं पुनः ॥ मनु IX. 65; सकृत् कन्या प्रदीयते । मनु IX. 47; पाणिग्रहणिका मन्त्राः कन्यानामेव प्रतिष्ठिताः । मनु VIII. 226. Vide Āśv. Gṛ. I. 7. 13, Āp. M. Pā. I. 5. 7 &c. for the मन्त्रः 'अर्यमणं देवं कन्या अग्निमयक्षत &c.', where the word कन्या (a maiden) alone is used.]]
+    न द्वितीयश्च साध्वीनां क्वचिद्भर्तोपदिश्यते । मनु V. 162; न विवाहविधावुक्तं विधवावेदनं पुनः ॥ मनु IX. 65; सकृत्कन्या प्रदीयते । मनु IX. 47; पाणिग्रहणिका मन्त्राः कन्यास्वेव प्रतिष्ठिताः । मनु VIII. 226. Vide आश्व. गृ. I. 7. 13, आप. म. पा. I. 5. 7 &c for the मन्त्रः 'अर्यमणं नु देवं कन्या अग्निमयक्षत &c.', where the word कन्या (a maiden) alone is used.
 
 
 [[P612]]
@@ -165,10 +165,10 @@ Aparārka (p. 97) quotes a passage from the [[Brahmapurāṇa|Brahmapurāṇa]] 
 or for one who was forcibly abandoned or carried away by somebody. [^1441]
 
 [^1440]:
-    [[एक एव पति र्या यावजीवं परायणम् । सुते जीपति वा सस्मिक्षापरं प्राप्नपा. स्पतिम् ।।अभिगम्य पर नारी पतिष्यति न संशयः। अपतीनां तु नारीणामयमभूति पातकम् ॥ enf 104. 35-96.|एक एव पतिर्नार्या यावज्जीवं परायणम् । सुते जीवति वा तस्मिन्नापरं प्राप्नुयात्पतिम् ॥ अभिगम्य परं नारी पतिष्यति न संशयः । अपतीनां तु नारीणामयमधर्मः पातकम् ॥ महाभारत, आदिपर्व 104. 35-36.]]
+    एक एव पतिर्नार्या यावज्जीवं परायणम् । मृते जीवति वा तस्मिन्नापरं प्राप्नुयात्पतिम् ॥ अभिगम्य परं नारी पतिष्यति न संशयः । अपतीनां तु नारीणामयमधर्मस्तु पातकम् ॥ आदि 104. 35–36.
 
 [^1441]:
-    [[Trofeu unarmar fra THT sargiarat ora 11 gator quoted by STUTT p.97.|यदि सा बालविधवा बलात्त्यक्ताथवा क्वचित् । तदा भूयस्तु संस्कार्या गृहीता येन केनचित् ॥ ब्रह्मपुराण quoted by अपरार्क p. 97.]]
+    यदि सा बालविधवा बलात्त्यक्ताथवा क्वचित् । तदा भूयस्तु संस्कार्या गृहीता येन केनचित् ॥ ब्रह्मपुराण quoted by अपरार्क p. 97.
 
 
 ### Remarriage when husband unheard of
@@ -229,13 +229,13 @@ The first verse is not to be taken literally in the sense that a woman married t
     Vide 'Marriage and Stridhana' (5th ed.) p. 309 'one of those rules of selection requires that the parties to marriage should be of different gotras; but what is to be regarded as the gotra of a widow the gotra of her father in which she was born or that of her deceased husband to which she has been transferred by marriage?'.
 
 [^1444]:
-    [[कन्यामद इति वचनावक्षताया एवं नैयमिक दानम् । पिता स्वकन्यामपि fonare remain 600 71. I. 63.|कन्याप्रद इति वचनादक्षताया एव नैयमिकं दानम् । पिता स्वकन्यामपि दत्त्वा दातुमेव समर्थः स्यादिति केचित् । (विश्वरूप on या. I. 63).]]
+    कन्याप्रद इति वचनादक्षताया एव नैयमिकं दानम् । पिता स्वकन्यामपि दद्यादिति केचित् । विश्वरूप on या. I. 63.
 
 [^1445]:
-    [[ST TEHTUU PET for: g rami FTAASTE OT oferta बाह्मण एव पतिने राजन्यो न वैश्यः। तत्सूर्यः अनुपजेति पक्षम्यो मानण्यः । अथर्ववेद V. 17. 8-9. 77 is explained by the form (e. g. I, 19) genorally us ufe, whonever it is at the beginning of a verse or pada.|उत यत्पतयो वध्विया: पूर्वे अनागसः । ब्रह्मा चेद्वस्तुमग्रहीत् स एव पतिरेकधा ॥ ब्राह्मण एव पतिर्न राजन्यो न वैश्यः । तत्सूर्यो मनुविष्यति पञ्चभ्यो मानवेभ्यः ॥ अथर्ववेद V. 17. 8-9. उत is explained by the निघण्टु (e. g. I. 19) generally as अपि, whenever it is at the beginning of a verse or pāda.]]
+    उत यत्पतयो दश स्त्रियाः पूर्वे अब्राह्मणाः । ब्रह्मा चेद्धस्तमग्रहीत्स एव पतिरेकधा ॥ ब्राह्मण एव पतिर्न राजन्यो न वैश्यः । तत्सूर्यः प्रब्रुवन्नेति पञ्चभ्यो मानवेभ्यः ॥ अथर्ववेद V. 17. 8–9. उत is explained by the निरुक्त (e. g. I. 19) generally as अपि, whenever it is at the beginning of a verse or pāda.
 
 [^1446]:
-    [[TT rin art formats of forestry I yarat पि योषतः समानलोको भवति पुनर्भुषापरः पतिः। पोऽज पत्रोदनं दक्षिणापोतिष ददाति sutec IX. 6. 27-28.|या पूर्वं पतिं वित्त्वाऽथान्यं विन्दतेऽपरम् । पञ्चौदनं च तावजं ददातो न वि योषतः ॥ समानलोको भवति पुनर्भुवापरः पतिः । योऽजं पञ्चौदनं दक्षिणाज्योतिषं ददाति ॥ अथर्ववेद IX. 5. 27-28.]]
+    या पूर्वं पतिं वित्त्वाऽथान्यं विन्दतेऽपरम् । पञ्चौदनं च तावजं ददातो न वि योषतः ॥ समानलोको भवति पुनर्भुवापरः पतिः । योऽजं पञ्चौदनं दक्षिणाज्योतिषं ददाति ॥ अथर्ववेद IX. 5. 27–28.
 
 
 [[P615]]
@@ -301,13 +301,13 @@ Certain verses of the [[Rgveda|Ṛgveda]] and the [[Atharvaveda|Atharvaveda]] ha
 It is somewhat strange that [[Sāyaṇa|Sāyaṇa]] understands the latter half as an invitation by the husband's brother to the wife of the departed to remarry him.
 But that meaning is far-fetched and does not bring out the proper force of '_hastagrābhasya_', '_patyuḥ_' and '_babhūtha_'.
 
-The [[Asv. gr. 1451|Āśv. Gṛ.]] [^1451] (IV. 6. 11-12) prescribes that (in the expiatory rite performed on the death of an elder) the young women relatives should salve their eyes with butter with their thumb and fourth finger and with tender _darbha_ blades and then throw the blades away, when the performer of the rite should look at them while they are salving their eyes with the verse '_imā [[nārir|nārīr]] &o._'.
+The Āśv. Gṛ. [^1451] (IV. 6. 11-12) prescribes that (in the expiatory rite performed on the death of an elder) the young women relatives should salve their eyes with butter with their thumb and fourth finger and with tender _darbha_ blades and then throw the blades away, when the performer of the rite should look at them while they are salving their eyes with the verse '_imā nārīr &c._'.
 
 [^1450]:
-    [[इमा नारीरविधवा: सुपत्नीराजनेन सर्पिषा सं विशन्तु । अमश्रवोऽनमीषा: सरस्ना आरोहन्तु जनयो योनिमये ॥ उदीवं नाभि जीवलोकं गतासमेतमुप शेष एहि । FRETTET F ire Piger TOT # ay l . X. 18. 7-8, Huaw (XII. 2. 31 and XVIII. 3. 57 ) bus the verse FAT Tār, but roads were शन्ताम् for संविशन्तु ते. आ. VI. 10 has the verse इमा नारी, but reads संश ताम् and शेवाn for संविशन्तु and सरस्नाः ते. आ. VI. 1 and अथर्ववेद 18. 3. 2. have उदीर्व eto. but ते. आ. reads इतासं for गतासं, स्वमेतत् for वदं and बभूव for it. The most difficult words are the last quarter of Rg X. 18. 8. mtu requires a subjeot in tbe 2nd person whiob does not ocour in' the latter half of the verse.|इमा नारीरविधवाः सुपत्नीराजनेन सर्पिषा सं विशन्तु । अनश्रवोऽनमीवाः सुरत्ना आरोहन्तु जनयो योनिमग्रे ॥ उदीर्ष्व नार्यभि जीवलोकं गतासुमेतमुप शेष एहि । हस्तग्राभस्य दिधिषोस्तवेदं पत्युर्जनित्वमभिसंबभूव ॥ ऋग्वेद X. 18. 7-8. तैत्तिरीयारण्यक (XII. 2. 31 and XVIII. 3. 57) has the verse इमा नारीः, but reads शन्ताम् for संविशन्तु. तैत्तिरीयारण्यक VI. 10 has the verse इमा नारी, but reads संशताम् and शेवान् for संविशन्तु and सुरत्नाः. तैत्तिरीयारण्यक VI. 1 and अथर्ववेद 18. 3. 2. have उदीर्व etc. but तैत्तिरीयारण्यक reads इतासुं for गतासुं, स्वमेतत् for इदमं and बभूव for अभिसंबभूव. The most difficult words are the last quarter of Ṛg. X. 18. 8. अत्र requires a subject in the 2nd person which does not occur in the latter half of the verse.]]
+    इमा नारीरविधवाः सुपत्नीराञ्जनेन सर्पिषा सं विशन्तु । अनश्रवोऽनमीवाः सुरत्ना आरोहन्तु जनयो योनिमग्रे ॥ उदीर्ष्व नार्यभि जीवलोकं गतासुमेतमुप शेष एहि । हस्तग्राभस्य दिधिषोस्तवेदं पत्युर्जनित्वमभि सं बभूथ ॥ ऋ. X. 18. 7–8. अथर्ववेद (XII. 2. 31 and XVIII. 3. 57) has the verse इमा नारीः, but reads संस्पृशन्ताम् for संविशन्तु. तै. आ. VI. 10 has the verse इमा नारीः, but reads संस्पृशन्ताम् and सुशेवाः for संविशन्तु and सुरत्नाः ; तै. आ. VI. 1 and अथर्ववेद 18. 3. 2. have उदीर्ष्व etc. but तै. आ. reads इतासुं for गतासुं, त्वमेतत् for तवेदं and बभूव for बभूथ. The most difficult words are the last quarter of Ṛg X. 18. 8. बभूथ requires a subject in the 2nd person which does not occur in the latter half of the verse.
 
 [^1451]:
-    [[A artean: Ereireena Hari . . IV. 6. 12; ETIC पत्नीम् । धनुष क्षत्रियाय । सामुस्थापयेदेवरः पतिस्थानीयोऽन्तेवासी जरबासोपोदीव नाभि utenten HTE I 377*. T. IV, 2, 16.-18. Those sutras are referred to by SUTIE p. 112. The com. on Tai, Ar. holds that the latter half oalls upon the wife of the deceased to remarry.|इमा नारीरविधवाः सुपत्नीरित्यञ्जना इत्येव । आश्वलायन गृह्यसूत्र IV. 6. 12; दक्षिणेनाग्नेः पत्नीम् । धनुश्च क्षत्रियाय । तामुत्थापयेदेवरः पतिस्थानीयोऽन्तेवासी जरद्दास इत्युदीर्ष्व नार्यभि जीवलोकम् । आश्वलायन गृह्यसूत्र IV. 2. 16-18. These Sūtras are referred to by Smṛticandrikā, p. 112. The commentary on Tai. Ar. holds that the latter half calls upon the wife of the deceased to remarry.]]
+    इमा नारीरविधवाः सुपत्नीरित्यक्षाना ईक्षेत । आश्व. गृ. IV. 6. 12 ; उत्तरत पत्नीम् । धनुश्च क्षत्रियाय । तामुत्थापयेद्देवरः पतिस्थानीयोऽन्तेवासी जरद्दासो वोदीर्ष्व नार्यभि जीवलोकमिति । आश्व. गृ. IV. 2. 16.-18. These sūtras are referred to by अपरार्क p. 112. The com. on Tai. Ār. holds that the latter half calls upon the wife of the deceased to remarry.
 
 
 [[P618]]
@@ -325,19 +325,19 @@ There is another mantra in the [[Atharva veda|Atharvaveda]] (18. 3. 1) and Tai. 
 
 The first verse (i.e., Ṛg. X. 18. 7) contains nothing about _niyoga_ or remarriage. It has been made use of for giving Vedic authority to the practice of [[sati|satī]] (which will be dealt with later on). That verse refers to the practice that young women of the household of the departed urged to go to the cemetery and applied clarified butter to their eyes (by way of purification and _śānti_); this practice continued to the days of the Āśv. Gṛ., the [[Bpbad-devata|Bṛhad-devatā]] (VII. 12) and the Baud. [[pitpmedbasūtra|pitṛmedhasūtra]] (I.21.11).
 
-The two verses '_iyam [[nāri|nārī]]_' and Ṛg. X. 18. 8 are employed by the [[Baudhāyana-Pitr̥medhasūtra 153|Baudhāyana-Pitṛmedhasūtra]] [^1453] in the funeral rites, the first to be repeated when the wife is made to sit near the corpse and the next for making her rise. It is to be noted that Baud. directs that the corpse is placed on the funeral pile after the wife is made to rise from the vicinity of the corpse; while the [[Br̥had-devatā|Bṛhad-devatā]] appears to suggest that the wife ascends the funeral pile after the corpse is placed thereon and then the younger brother forbids her with the verse '_udirṣva_ &o.'. But the [[Br̥had-devatā|Bṛhad-devatā]] [^1454] does not mean that the wife burns herself on the funeral pyre and the brother-in-law contents himself with only repeating a verse to dissuade her. The [[Rgvidhāna [^1455]|Ṛgvidhāna]] (III. 8.4) says that the brother-in-law should call back the wife
+The two verses '_iyam [[nāri|nārī]]_' and Ṛg. X. 18. 8 are employed by the Baudhāyana-Pitṛmedhasūtra [^1453] in the funeral rites, the first to be repeated when the wife is made to sit near the corpse and the next for making her rise. It is to be noted that Baud. directs that the corpse is placed on the funeral pile after the wife is made to rise from the vicinity of the corpse; while the [[Br̥had-devatā|Bṛhad-devatā]] appears to suggest that the wife ascends the funeral pile after the corpse is placed thereon and then the younger brother forbids her with the verse '_udirṣva_ &o.'. But the [[Br̥had-devatā|Bṛhad-devatā]] [^1454] does not mean that the wife burns herself on the funeral pyre and the brother-in-law contents himself with only repeating a verse to dissuade her. The Ṛgvidhāna (III. 8. 4) [^1455] says that the brother-in-law should call back the wife
 
 [^1452]:
-    [[इयं भारी पतिलोक पणाना निपपत उप त्वा मर्त्य प्रेतम् । विर्य पुराणमा पालपन्ती सस्यै प्रजा बषिगंह धेहि ते. आ. VI. 1; अधास्य भार्यामुपसंदेशयति । इयं भारी ...... he fet et ma fra: Free Propuerdrucu ... Eleint. Tega I. 8. 1-2.|इयं नारी पतिलोकं वृणाना निपद्यत उप त्वा मर्त्य प्रेतम् । विश्वं पुराणमनुपालयन्ती तस्यै प्रजां द्रविणं चेह धेहि ॥ तैत्तिरीयारण्यक VI. 1; अथास्य भार्यामुपसंदेशयति । इयं नारी ...... इत्यादि । बौधायन पितृमेधसूत्र I. 8. 1-2.]]
+    इयं नारी पतिलोकं वृणाना निपद्यत उप त्वा मर्त्य प्रेतम् । विश्वं पुराणमनुपालयन्ती तस्यै प्रजां द्रविणं चेह धेहि ॥ तै. आ. VI. 1; अथास्य भार्यामुपसंवेशयति । इयं नारी ...... धेहि इति । तां प्रति हितः सव्ये पाणावभिपाद्योत्थापयति उदीर्ष्व... बभूव इति । बौ. पितृमेधसूत्र I. 8. 1–2.
 
 [^1453]:
-    [[HTATOT FUTEUTE 1. Fuad I. 8. 7. _1464. उर्दर्थ भारीत्यनया सतं पल्परोहति । भ्राता कनीयात् प्रेतस्प मिगय ratura i EM VII. 18.|अधोनिनीतस्यास्याः सह चित्यामग्निं दधाति । बौधायन पितृमेधसूत्र I. 8. 7.]]
+    अथैनमेतयासन्या सह चितायामादधाति । बौ. पितृमेधसूत्र I. 8. 7.
 
 [^1454]:
-    [[उर्दर्थ भारीत्यनया सतं पल्परोहति । भ्राता कनीयात् प्रेतस्प मिगय ratura i EM VII. 18.|उदीर्ष्व नार्यनया सतं पत्युरारोहति । भ्राता कनीयान् प्रेतस्य नियच्छति परामुखः ॥ बृहद्देवता VII. 18.]]
+    उदीर्ष्व नारीत्यनया मृतं पत्यनुरोहति । भ्राता कनीयान् प्रेतस्य निगद्य प्रतिषेधति ॥ बृहद्देवता VII. 13.
 
 [^1455]:
-    [[Eurfag 4 Farrut To Tali TTS Tuindeuren fr og i fryra III. 8. 4 (ed. by Meyer).|एतस्मिन् भ्राता भगिन्यै पुत्रेण न भर्तरि । नियोगेन प्रजां कुर्यादिति ऋग्विधान III. 8. 4 (ed. by Meyer).]]
+    भ्रातृभार्यामपुत्रस्य सन्तानार्थं मृते पतौ । देवरोऽन्वारुरुक्षन्तीमुदीष्वेति निवर्तयेत् ॥ ऋग्विधान III. 8. 4 (ed. by Meyer).
 
 
 [[P619]]
@@ -379,7 +379,7 @@ Even when the husband was allowed to abandon the wife for her lapse, still she w
 The Mit. on Yāj. I. 77 says that a wife is not under the control of her husband as long as he remains _patita_ (outcast or excommunicated) and that she should wait till he is purified by penance and restored to caste and that thereafter she again becomes dependent on him.
 
 [^1456]:
-    [[Vide fanney On T. III. 253–254 Etretat HE TENTAT FR मेच्छन्ति संबन्धिनिमितवाद्वारशब्दस्थ । ...... तथा च सति विधवास्वपि पारदार्य म स्यात् । न च व्यभिचारादिभिस्तस्यापगमो युक्तः संस्कारनिमित्तस्वाद दारशग्दस्य । तस्य च पतनेप्यनपममात् । अत एव पतिता योषिता कृतप्रायश्चित्ताः पुनर्न संस्क्रियन्ते । अन्यथा तु पतन संस्कारस्थापगमात् कृतप्रायश्चित्ता अप्पदाराः स्युः । अतो व्यभिचारिणीवप्यरत्येष पारदार्यम्।|Vide विश्वरूप on या. III. 253-254 केचित्तु परिसंख्यात् पारदार्यमपि नेच्छन्ति संबन्धिनिमित्तत्वाद्दारशब्दस्य । ...... तथा च सति विधवास्वपि पारदार्यं न स्यात् । न च व्यभिचारादिभिस्तस्यापगमो युक्तः संस्कारनिमित्तत्वाद् दारशब्दस्य । तस्य च पतनेप्यनपगमात् । अत एव पतिता योषिता कृतप्रायश्चित्ताः पुनर्न संस्क्रियन्ते । अन्यथा तु पतनसंस्कारस्यापगमात् कृतप्रायश्चित्ता अप्यदाराः स्युः । अतो व्यभिचारिण्यामप्यस्त्येव पारदार्यम् ।]]
+    Vide विश्वरूप on या. III. 253–254 केचित्तु परित्यक्तासु पारदार्यप्रायश्चित्तं नेच्छन्ति संबन्धिनिमित्तत्वाद्दारशब्दस्य । ...... तथा च सति विधवास्वपि पारदार्यं न स्यात् । न च व्यभिचारादिभिस्तस्यापगमो युक्तः संस्कारनिमित्तत्वाद् दारशब्दस्य । तस्य च पतनेप्यनपगमात् । अत एव पतिता योषितः कृतप्रायश्चित्ताः पुनर्न संस्क्रियन्ते । अन्यथा तु पतनेन संस्कारस्यापगमात् कृतप्रायश्चित्ता अप्यदाराः स्युः । अतो व्यभिचारिणीष्वप्यस्त्येव पारदार्यम् ।
 
 
 [[P621]]
@@ -412,13 +412,13 @@ The _Arthaśāstra_ of Kautilya contains some interesting observations bearing o
 Kautilya himself says (in III. 2) that the first four forms viz. _brāhma_, _prājāpatya_, [[arṣa|ārṣa]], and _daiva_ are _dharmya_ (approved), since they are brought about under the authority of the father. [^1459]
 
 [^1457]:
-    [[Vide The Government of Bombay v. Ganga I. L. R. 4. Boin, 330; in the matter of Ram Kumari I. L. R. 18 Cal. 264; Budansa v. Fatma Bi 26 Madras Law Journal p. 260.|Vide The Government of Bombay v. Ganga I.L.R. 4 Bom. 330; In the matter of Ram Kumari I.L.R. 18 Cal. 264; Budansa v. Fatma Bi 26 Madras Law Journal p. 260.]]
+    Vide The Government of Bombay v. Ganga I. L. R. 4 Bom. 330; in the matter of Ram Kumari I. L. R. 18 Cal. 264; Budansa v. Fatma Bi 26 Madras Law Journal p. 260.
 
 [^1458]:
-    [[HATT TA Eget rinofara fire #14:1 बीषिप्रकाराला पुरुषश्वेग्मोक्षमिच्छेयथागहीतमस्य दद्यात् । पुरुषविषकाराद्वा भी मोक्ष. Tea Turrera TOTĘ I HRIAT uintagarrari HUTH III. 3.|अमोक्ष्या भर्तुरकामस्य द्विषती भार्या । भार्यायाश्च भर्ता । परस्परं द्वेषान्मोक्षः । द्विषतः कार्याद् भयाद् वा मोक्षमिच्छेद्यथागृहीतमस्यै दद्यात् । पुरुषविकाराद्वा भीतो मोक्षमिच्छेदस्यै यथागृहीतं दद्यात् । अमोक्षो धर्मविवाहानामिति । अर्थशास्त्र III. 3.]]
+    अमोक्ष्या भर्तुरकामस्य द्विषती भार्या । भार्यायाश्च भर्ता । परस्परं द्वेषान्मोक्षः । स्त्रीविप्रकाराद्वा पुरुषश्चेन्मोक्षमिच्छेद्यथागृहीतमस्यै दद्यात् । पुरुषविप्रकाराद्वा स्त्री चेन्मोक्षमिच्छेदस्या यथागृहीतं दद्यात् । अमोक्षो धर्मविवाहानामिति । अर्थशास्त्र III. 3.
 
 [^1459]:
-    [[P ROTETTO: " uzaf i wÚer III. 2.|पितृमातृमात्सर्यविवाहाः पूर्वे धर्म्याः । अर्थशास्त्र III. 2.]]
+    पितृप्रमाणाश्चत्वारः पूर्वे धर्म्याः । अर्थशास्त्र III. 2.
 
 
 [[P622]]
@@ -445,7 +445,7 @@ The Matrimonial Causes Act of 1923 (13 and 14 Geo. 5, chap. 19) placed women on 
 Then the Act of 1937 known as [[A, P.|A. P.]] Herbert's Act (1 Edw. 8 and 1 Geo. 6, chap. 57) allows the husband or wife to petition for divorce on four grounds.
 
 [^1460]:
-    [[Vide the Gospels of Mark X, 2-12 end of Luke XVI. 18, whiob altogether forbid divorce.|Vide the Gospels of Mark X, 2-12 and Luke XVI. 18, which altogether forbid divorce.]]
+    Vide the Gospels of Mark X. 2-12 and of Luke XVI. 18, which altogether forbid divorce.
 
 
 [[P623]]

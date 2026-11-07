@@ -97,8 +97,8 @@ Yāj. on which the Mit. has elaborate note and Kalpa°. (Vy.) has not a word, th
 Scores of Yāj. verses occur on which Kalpataru is silent and Mit. has long notes and so references to the pages of the Kalpataru (on Vy.) and the verses of Yāj. (not mentioned immediately above) are given below in one place: p. 8 (I. 1, Mit. half a page), 17 (II. 19, Mit. ten lines), 45 (II. 2, pages in Mit.), 60 (II. 6, Mit. two pages), p. 68 (II. 7 half verse), (Mit. has two pages); 92 (II. 22, one page in Mit.), 105 (II. 63–69, mit. one page), 142 (II. 81–82), Mit. one page and a half), 147 (II. 83, Mit. nearly one page), 162 (II. 91, one page in Mit.), 180 (II. 27 half verse, 1½ pages in Mit.), 185 (II. 27 half, verse Mit, more than half a page), 204 (II. 98, nearly one page in Mit.), 218[^921] (II. 100–102 Kalpa° two lines, over hree pages in Mit.), 308 (II. 56, Mit. more than half a page), 318 (II. 49, Mit. 11 lines of comment), 350 (II. 169, Mit. has nine lines), and criticizes Śrīkara 374 (II. 175, Mit. more than half page), 376 (II. 176, Mit. has one page), 436 (II. 258, Mit. has half a page), 442 (II. 152, more than a page in Mit.), 537 (II. 275, Mit. has more than a page), 586 (II. 288, about a page in Mit.), 587 (III. 232-3, two thirds of a page), 598 (II. 290 more than a page in Mit.), 619 (I. 86, Mit. 1½ pages), 654 (II. 114–5, Mit. one page ), 671 (II. 124 Mit. one page), 676 (II. 118–119, Mit. two pages), 716 (II. 132, Mit. more than a page), 721 (II. 127, Mit. more than a page), 764 (II. 199–200, Mit. half a page), 825 (I. 96, Mit. one page).
 
 [^921]:
-    The two lines in Kalpa°. (Vy.) are : रेखां कृत्वा येन सन्निवेशेन प्रतीयमान-समीकरणदशायां ( ! ) यत्र पादौ स्थितौ शिल्पिजनबद्धौ तत्र पाण्डुलेखेनाङ्कयित्वा.
-    Compare मिता°. on Yāj. II. 100 ( प्रतिमानसमीभूतौ रेखां कृत्वावतारितः .
+    The two lines in Kalpa°. (Vy.) are : रेखां कृत्वा येन सन्निवेशेन प्रतीयमान-समीकरणदशायां (?) यत्र पादौ स्थितौ शिक्यरज्जवश्च तत्र पाण्डुलेखेनाङ्कयित्वा.
+    Compare मिता० on Yāj. II. 100 ( प्रतिमानसमीभूतो रेखां कृत्वावतारितः .
     The Mit. says दिव्यकारी रेखां कृत्वा येन संनिवेशेन प्रतिमानसमीकरणदशायां शिक्यतलेऽवस्थितस्तस्मिन् पाण्डुलेखेनाङ्कयित्वा etc. Either Lakṣmīdhara himself borrowed or some later scribe introduced these words. The editor did not understand that प्रतीयमान should be प्रतिमान.
 
 [[P674]]
@@ -243,12 +243,12 @@ In the eleven Kāṇḍas so far printed the present author has not been able to
 
 [^988]:
     About the special professions of Māgadhas Śaṅkha-Likhita states ;
-    मागधानां मृदङ्गवेणुवीणावादन-मृदुगीतपुष्पमाणवककर्मसिद्धिकोपस्थान-गाथा-
-    श्लोक-प्रत्यूष प्रतिबोधनानि कर्माणि । ५. in व्यवहारकाण्ड p. 830, which
-    Śabarasāwmi see ( p. 831 ) 'पुष्यमाणवकः स्थान् पुष्पमाणवकत्वेन ज्योतिः
+    मागधानां मृदङ्गवेणुवीणावादन-नृत्यगीतपुष्पमाणवककर्मसिद्धिकोपस्थान-गाथा-
+    श्लोक-प्रत्यूष प्रतिबोधनानि कर्माणि । q. in व्यवहारकाण्ड p. 830, which
+    Śabarasāwmi see ( p. 831 ) 'पुष्पमाणवकः स्थानं पुष्पमाणवकत्वेन ज्योतिः
     शास्त्रवित्त्वेन कर्मसिद्ध्युपदेशार्थं राजसमीपोपस्थानमिति शबरस्वामी'. The
     Mahābhāṣya mentions 'Puṣyamānavāḥ' in a half verse quoted on
-    Pāṇ. VII. 2. 23 'महीपालवचः श्रुत्वा जगुः पुष्यमाणवाः ।' This last
+    Pāṇ. VII. 2. 23 'महीपालवचः श्रुत्वा जुघुषुः पुष्यमाणवाः ।' This last
     word appears to mean 'bard' ( māgadhas ).
 
     The Editor has not been able to locate the part of Śabara's bhāṣya

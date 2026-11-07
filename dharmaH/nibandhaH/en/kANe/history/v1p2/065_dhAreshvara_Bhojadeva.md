@@ -15,7 +15,7 @@ The Mit. (on Yāj. II. 135) says that Dhāreśvara [[tries to re-concile|tries t
 That Dhāreśvara is to be identified with Bhojadeva of Dhārā, perhaps the most famous Indian prince as a patron of learned men, follows from several considerations. The [[Dāya-bhāga|Dāyabhāga]][^778] cites Bhojadeva and Dhāreśvara without making any distinction between the two. Some views that are ascribed to Dhāreśvara in one work are ascribed to Bhojadeva in another. The [[Vivadatāndava|Vivādatāṇḍava]] of Kamalākara ascribes to [[Bhoja deva|Bhojadeva]] the same views as to the widow's rights as are ascribed to Dhāreśvara by the Mit. Mss. of the Rājamārtaṇḍa (commentary on the Yogasūtras) have colophons saying that the work was composed by Dhāreśvara Bhojarāja. Dhāreśvara is styled *ācārya* by the Mit. (on Yāj. III. 24) and *sūri* by the Smṛticandrikā (II p. 257). Works on numerous branches of knowledge were composed by (or in the name of or under) Bhoja of Dhārā. On Poetics we have two extensive works of his, viz. the [[Sarasvatikanthabharana|Sarasvatīkaṇṭhābharaṇa]] and the [[Sṭngāraprakāśa|Śṛṅgāraprakāśa]].
 
 [^778]:
-    दायभाग ( p. 53, ed. of 1829 ) ‘ अथ वा धारेश्वरपुरस्कृतो वचनार्थः । इच्छया विभागदानप्रवृत्तस्य पितुः पैतामहधने सदृशं स्वाम्यं पुत्रैः सह न तत्र स्वोपार्जित-धन इव न्यूनाधिकविभागमिच्छतः कद्वेहतीति । ’ ; दायभाग ( p. 280 ) ‘ अत एव भोजदेवेनापि कृताकृतदुहित्राधिकारे बृहस्पतिरित्यभिधाय यथा पितृधने स्वाम्यमिति वचनं लिखितम् । ’.
+    दायभाग ( p. 53, ed. of 1829 ) ‘ अयं वा धारेश्वरपुरस्कृतो वचनार्थः । इच्छया विभागदानप्रवृत्तस्य पितुः पैतामहधने सदृशं स्वाम्यं पुत्रैः सह न तत्र स्वोपार्जित-धन इव न्यूनाधिकविभागमिच्छातः कर्तुमर्हतीति । ’ ; दायभाग ( p. 280 ) ‘ अत एव भोजदेवेनापि कृताकृतदुहित्राधिकारे बृहस्पतिरित्यभिधाय यथा पितृधने स्वाम्यमिति वचनं लिखितम् । ’.
 
 [[P586]]
 
@@ -37,16 +37,16 @@ Besides the two points noted above (about widow's rights and about the grandmoth
 ownership to be known only from śāstra, while the Mit. held it to be *laukika* (vide Viramitrodaya pp. 528, 536). Dhāreśvara held that the word ‘[[duhitarah|duhitaraḥ]]’ in Yāj. stands for *putrikā* in the order of succession (Smṛticandrikā II. pp. 295-96). On other points the views of Dhāreśvara coincide with those of the Mit., viz. on the usage of giving a special share to the eldest son having fallen into desuetude, on the daughter's son's right to succession, on the father's inability to give a greater or smaller share to his sons in ancestral property on a partition during his life-time. Vide my article on Bhojadeva in JBBRAS for 1925, pp. 223-224 for details of these and other views ascribed to Bhojadeva. A few other references may be noted here. The Nirṇayāmṛta[^782] (p. 68) quotes a Bhojarājiya text. In the Kālaviveka of Jīmūtavāhana two verses about taking food at the time of eclipses are cited from Bhojadeva (p. 539). In several works certain views are stated to be those of a Bhūpālapaddhati or of Bhūpāla or of Rāja. The reference seems to be to a work of king Bhoja. For example, in the Dānaratnākara, a Bhūpāla-paddhati and Bhūpāla are frequently quoted.[^783] The [[Samayapradipa|Samayapradīpa]][^784] and [[Ācārādarsa|Ācārādarśa]] of Śrīdatta speak of both Bhūpāla and Rāja. In other works also the views of Bhoja are often referred to as those of Rāja (the king *par excellence*). For example, the [[Ekāvali|Ekāvalī]][^785] (a
 
 [^782]:
-    यत्र भोजराजीये– न दिवा न निशासु च विष्टिहता न च सप्तमीशल्यसमोपहतेति । इदं सप्तमीशल्यनिषेधपरम् । निर्णयामृत.
+    यत्तु भोजराजीयं– न दिवा न निशासु च विष्टिहता न च सप्तमीशल्यसमोपहतेति । इदं सप्तमीशल्यनिषेधपरम् । निर्णयामृत.
 
 [^783]:
-    पद्मासनगतांस्तद्द्वौ ब्रह्मविष्णुमहेश्वरान् । लोकपालान्सहैतांश्च खवाहनसमन्वितान् ॥ इति श्लोकार्धपादौ भूपालपद्धतियोगीश्वरयोदृष्टः । दानरत्नाकर ( Ms. No. 114 of 1884-86 ) in the Govt. Mss. Library at the B. O. R. Institute, Poona 4, folio 34 b ; *vide* folios 19 a, 28 a, 29 a, 50 b for भूपाल.
+    पद्मासनगतांस्तद्वद् ब्रह्मविष्णुमहेश्वरान् । लोकपालान्सहैतांश्च स्ववाहनसमन्वितान् ॥ इति श्लोकार्धपादौ भूपालपद्धतियोगीश्वरयोर्दृष्टः । दानरत्नाकर ( Ms. No. 114 of 1884-86 ) in the Govt. Mss. Library at the B. O. R. Institute, Poona 4, folio 34 b ; *vide* folios 19 a, 28 a, 29 a, 50 b for भूपाल.
 
 [^784]:
-    तदेवं गौडीयवचनानि प्रमाणयतां तदनुसारेण व्यवस्थोक्ता । भूपालादिभिस्तु सप्तम्येकादश्योर्वाचनिकी व्यवस्था तिथ्यन्तरेषु प्रधानकालात्रुत्पन्नाप्यादुदयकाल-व्यापिन्यादर इति । समयप्रदीप ( Ms No. 371 of 1875-76 ) in the Govt. Mss. Lib. at the B. O. R. Institute, Poona 4, folio 8 b ; केनिच्च राज्ञालिखितवाक्यबलात् युगादिषु मुगान्तेषु संक्रान्तिषु पिण्डं न मन्यते । समयप्रदीप folio 64 a ; इदं च बौधायनवचनं राज्ञालिखितमपि बहुजन-समेतत्वाल्लिखितम् । आचारादर्श ( Ms. No. 349 of 1875-76 in the Govt. Mss. Lib. at the B. O. R. Institute, Poona 4, folio 29 a ).
+    तदेवं गौडीयवचनानि प्रमाणयतां तदनुसारेण व्यवस्थोक्ता । भूपालादिमते तु सप्तम्येकादश्योर्वाचनिकी व्यवस्था तिथ्यन्तरेषु प्रधानकालानुरूपन्यायादुदयकाल-व्यापिन्यादर इति । समयप्रदीप ( Ms No. 371 of 1875-76 ) in the Govt. Mss. Lib. at the B. O. R. Institute, Poona 4, folio 8b; केचित्तु राजाद्यलिखितवाक्यबलात् युगाद्येषु युगान्तेषु संक्रान्तिषु पिण्डं न मन्यन्ते । समयप्रदीप folio 54 a ; इदं च बौधायनवाक्यं राजाद्यलिखितमपि बहुजन-संमतत्वाल्लिखितम् । आचारादर्श ( Ms. No. 349 of 1875-76 in the Govt. Mss. Lib. at the B. O. R. Institute, Poona 4, folio 29 a ).
 
 [^785]:
-    राजा तु शृङ्गारमेकमेव शृङ्गारप्रकाशे रसमुच्चैकर । एकावली p. 93 ( B. S. series ).
+    राजा तु शृङ्गारमेकमेव शृङ्गारप्रकाशे रसमुरीचकार । एकावलि p. 98 ( B. S. series ).
 
 [[P588]]
 
