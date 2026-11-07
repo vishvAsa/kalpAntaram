@@ -7,7 +7,7 @@ title = "List of Abbreviations"
 LIST OF ABBREVIATIONS EMPLOYED 
 
 A. I. R. = All India Reporter of Nagpur 
-Ait. Br. [[| = ]]Aitareya [[Brahmana|Brāhmaṇa]] 
+[[Ait. Br.|Ait. Br. =]] Aitareya [[Brahmana|Brāhmaṇa]] 
 All. = Indian Law Reports, Allahabad Series 
 A. L. J. = Allahabad Law Journal 
 [[Ap.|Āp.]] = Āpastamba (generally the author of the Dharmasūtra is meant) 
@@ -56,11 +56,11 @@ I. L. R. = Indian Law Reports
 Ins. = Inscription or Inscriptions 
 I. P. C. = Indian Penal Code 
 Jai. = Jaimini's [[Pūrvamlmāmgāsātra|Pūrvamīmāṁsāsūtra]] 
-J. A. O. S. [[| = ]]Journal of the American Oriental Society 
+[[J. A. O. S.|J. A. O. S. =]] Journal of the American Oriental Society 
 J. A. S. B. = Journal of the Asiatic Society of Bengal 
 [[J. B. O, R. S. *|J. B. O. R. S. =]] Journal of the Bihar and Orissa Research Society 
 [[J. R, A, S.|J. R. A. S. =]] Journal of the Royal Asiatic Society (London) 
-Kām. [[| = ]][[Kamandakiya-niti-sāra|Kāmandakīya-nīti-sāra]] 
+Kā[[m.|m. =]] [[Kamandakiya-niti-sāra|Kāmandakīya-nīti-sāra]] 
 Kāt. = [[Smrti|Smṛti]] of Kātyāyana reconstructed by P. V. Kane 
 [[Kaut = Kautilya's Arthasāstra|Kauṭ. = Kauṭilya's Arthaśāstra]] 
 K. V. N. = Kalivarjyavinirṇaya (ms) 
@@ -89,7 +89,7 @@ Raghu. = [[Raghuvamsa|Raghuvaṁśa]]
 [[a ) Rājadharnakāṇda of Kalpataru ( on p. 43 Rāja Dh. K >= R. D. K. by mistake stands for Rājadharma-- kaustubha)|R. D. K. / Rāja Dh. K. = Rājadharmakāṇḍa of Kalpataru (on p. 43 R. D. K. by mistake stands for Rājadharmakaustubha)]] 
 [[Rajadharma-K.|Rājadharma-K.]] = Rājadharmakaustubha of Anantadeva 
 [[Rāja N. P., Rājanitiprakāśa (a part of the Viramitrodaya R. N. P. I of Mitramiśra )|Rāja N. P. / R. N. P. = Rājanītiprakāśa (a part of the Vīramitrodaya of Mitramiśra)]] 
-Rājat. [[| = ]][[Rājatarangiṇi|Rājataraṅgiṇī]] 
+Rā[[jat.|jat. =]] [[Rājatarangiṇi|Rājataraṅgiṇī]] 
 [[Rg. = Rgveda|Ṛg. = Ṛgveda]] 
 [[Sam. K. = Samskāra-kaustubha|Saṁ. K. = Saṁskāra-kaustubha]] 
 [[Sam. Pr. = Samskāraprakasa ( a part of the Viramitrodaya|Saṁ. Pr. = Saṁskāraprakāśa (a part of the Vīramitrodaya]] of Mitramiśra) 
@@ -98,7 +98,7 @@ Rājat. [[| = ]][[Rājatarangiṇi|Rājataraṅgiṇī]]
 [[S. B, E.|S. B. E.]] = Sacred Books of the East (series edited by Max [[Mūller|Müller]]) 
 [[8. 1. 1.|S. I. I.]] = South Indian Inscriptions 
 Sm. C. = [[Smsticandrika|Smṛticandrikā]] 
-Sm. Kau. [[| = ]][[Smrti-kaustubha|Smṛti-kaustubha]] 
+[[Sm. Kau.|Sm. Kau. =]] [[Smrti-kaustubha|Smṛti-kaustubha]] 
 Sm. M. [[== Smftimuktāphala|= Smṛtimuktāphala]] 
 [[Śr. - Srautasūtra|Śr. = Śrautasūtra]] 
 S. V. = [[Sarasvativilāsa|Sarasvatīvilāsa]] 
@@ -110,7 +110,7 @@ Tai. Br. = [[Taittiriya Brahmana|Taittirīya Brāhmaṇa]]
 Tai. S. = [[Taittiriya Samhita|Taittirīya Saṁhitā]] 
 Tai. Up. = [[Taittiriya Upanisad|Taittirīya Upaniṣad]] 
 T. L. L. = Tagore Law Lectures 
-Tr. [[| = ]]Translation or translated 
+[[Tr.|Tr. =]] Translation or translated 
 [[Vaj. S. = Vajasaneya-samhita|Vāj. S. = Vājasaneya-saṁhitā]] 
 Vas. = [[Vasiṣtha-dharma-sūtra|Vasiṣṭha-dharma-sūtra]] 
 V. C. = [[Vivāda-cintamani|Vivāda-cintāmaṇi]] 

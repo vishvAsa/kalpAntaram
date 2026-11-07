@@ -9,7 +9,7 @@ TABLE OF CASES CITED
 (Volumes of reports are not specified where the names of parties are given, but volumes are cited at the end of this table where the names of parties are not mentioned in the text). 
 
 [[Abilakb|Abilakh]] v. Bhekhi [[617a.|617n.]] 
-[[| ]]Bai Parson v. Bai Somli [[5510,|551n.]] 
+Bai Parson v. Bai Somli [[5510,|551n.]] 
 Advyappa v. Rudrava [[7170,|717n.]] 
 Bai Raman v. Jagjivandas 794. 
 Ahmed Khan v. Channi Bibi [[9710,|971n.]] 
@@ -92,7 +92,7 @@ Ekoba v. Kashiram [[727a,|727n.]]
 Emperor [[v, Bal Gangadhar Tilak 331A.|v. Bal Gangadhar Tilak 331n.]] 
 Fakirappa v. [[Chapappa 5940,|Chanappa 594n.]] 
 Cally Churn v. [[Bluggobutty 574n,|Bhuggobutty 574n.]] 
-Chalakonda Alsani v. [[Chalakonda | ]]Fakirappa v. [[Savitrewa 667,|Savitrewa 667.]] 
+Chalakonda Alsani [[v. Chalakonda|v.]] Fakirappa v. [[Savitrewa 667,|Savitrewa 667.]] 
 Chalakonda Ratnachalam 584n. 
 Fakirappa v. Yellappa [[7670.|767n.]] 
 Chandika [[v, Muda 729n, 9710.|v. Muna 729n, 971n.]] 
@@ -250,7 +250,7 @@ Kojiyadu v. [[Laksbmi 717a.|Lakshmi 717n.]]
 
 [[Pxl]]
 Minakshi v. [[Ramapada|Ramanada]] 683n. 
-[[| ]]Parvati v. Ganpatrao [[$10,|810.]] 
+Parvati v. Ganpatrao [[$10,|810.]] 
 [[Mobandas v. Krisbpabai 7310|Mohandas v. Krishnabai 731n]] 
 Pauliem v. Pauliem 584n. 
 Mohesh v. Satrughan 631. 
@@ -426,7 +426,7 @@ Vannia [[Kono v, Vandicbi 9710,|Kone v. Vannichi 971n.]]
 Vasudev v. [[Vamoaji 8830.|Vamnaji 883n.]] 
 
 [[Pxlii]]
-[[11. 7250. |]]Vasudev v. Venkatesh [[5940.|594n.]] 
+[[11. 7250. Vasudev|Vasudev]] v. Venkatesh [[5940.|594n.]] 
 [[Vasudevaa|Vasudevan]] v. Secretary of State 660. 
 Vellaiyappa v. Natarajan 809n, 810. 
 Venkata Narasimha [[v, Rangayya 6930.|v. Rangayya 693n.]] 
@@ -451,7 +451,7 @@ Vyas Chimanlal v. Vyas Ramchandra 676, 678, [[796n, 818. 708a. 603.|796n.]]
 [[48. Bom, 203 763a.|48 Bom. 203 763n.]] 
 60 Bom. 311 450. 
 31 Bom. L. R. 199 [[3270,|327n.]] 
-31 Bom. L. R. 1030 [[|11.]] 
+31 Bom. L. R. [[1030|1030 11.]] 
 47 [[Bom, L. R,5 6020, 7630,|Bom. L. R. 5 602n, 763n,]] 814. 
 1 [[Cal, 1 6020.|Cal. 1 602n.]] 
 6 [[Cal, 119|Cal. 119 725n.]] 
@@ -484,10 +484,10 @@ Vyas Chimanlal v. Vyas Ramchandra 676, 678, [[796n, 818. 708a. 603.|796n.]]
 39 [[Mad, 298 .876.|Mad. 298 876.]] 
 40 [[Mad, 925 574a.|Mad. 925 574n.]] 
 42 Mad. 711 450. 
-53 Mad. 84 [[|619n.]] 
+53 Mad. [[84|84 619n.]] 
 53 [[Mad, 549 4278,|Mad. 549 427n.]] 
 58 Mad. 126 [[6220.|622n.]] 
-58 Mad. 238 [[|760n.]] 
+58 Mad. [[238|238 760n.]] 
 A. I. R. (1945) Mad. 327 [[5920.|592n.]] 
 5 Patna 646 [[710a.|710n.]] 
 23 Patna 599 [[5760,|576n.]] 
