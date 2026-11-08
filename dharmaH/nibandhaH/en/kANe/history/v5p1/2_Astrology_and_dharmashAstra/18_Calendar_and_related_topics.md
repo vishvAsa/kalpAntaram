@@ -119,7 +119,7 @@ Another era, which is current even now in Kashmir, is the Saptarṣi era, also c
 
 [^1009]: Vide Journal of Oriental Research, Madras, vol. 17 pp. 92-93 (Dr. Gai's paper ).
 
-[^1009]: लौकिकेऽब्दे चतुर्विंशे शककालस्य साम्प्रतम् । सप्तत्याम्यधिकं यातं सहस्रं परिवत्सराः ॥ राजतरङ्गिणी 1. 52.
+[^1009a]: लौकिकेऽब्दे चतुर्विंशे शककालस्य साम्प्रतम् । सप्तत्याम्यधिकं यातं सहस्रं परिवत्सराः ॥ राजतरङ्गिणी 1. 52.
 
 [^1010]: आसन्मघासु...राज्ञश्च ॥ एकैकस्मिन्नृक्षे शतं शतं ते चरन्ति वर्षाणाम् । बृहत्संहिता 13. 3-4 q. above in note 746.
 
@@ -238,13 +238,13 @@ The curious reader may consult pp. 246-251 of the C. R. C. Report for light on t
 
 The rules about what religious acts should be done or not done in an intercalary month will be dealt with a little later. The Śāntiparva refers to the kṣaya of saṁvatsaras, months, pakṣas and divasas (tithis )[^1033]. When there is a kṣayamāsa, the adhikamāsa before it is like all ordinary māsas i. e. there is no prohibition of doing religious acts in it, but the adhikamāsa that follows a kṣayamāsa is the one that is declared unsuitable for religious rites. Adhikamāsa and kṣayamāsa may be illustrated by one example for each.
 
-[^1031]. Tā Saighe Ta Tihi fatūrenfi TUFH4: EITB स्तथा प्रायशोऽयं कुवेदेन्दुभिः स्यात् क्वचिद्गोकुभिश्च ॥ सि. शि (ग्रहगणित, मध्यमाधिकार verse 7) 4. by R. f. 10, FATHETIT P. 142.
+[^1031]: Tā Saighe Ta Tihi fatūrenfi TUFH4: EITB स्तथा प्रायशोऽयं कुवेदेन्दुभिः स्यात् क्वचिद्गोकुभिश्च ॥ सि. शि (ग्रहगणित, मध्यमाधिकार verse 7) 4. by R. f. 10, FATHETIT P. 142.
 
-[^1032]. AQUICKū Fraan TTT AF: TI FF: re: 919: Changes AHH: 11 q. by Fati. p. 522. This verse is quoted by Bapudevasbāstri (editor of TSITATŪT D. 49 note) as from
+[^1032]: AQUICKū Fraan TTT AF: TI FF: re: 919: Changes AHH: 11 q. by Fati. p. 522. This verse is quoted by Bapudevasbāstri (editor of TSITATŪT D. 49 note) as from
 
 . The 4th pāda lays down that if there are two saṅkrāntis in one lunar month an inter calary month is required and that the intercalary is the latter of the two. There were two methods of naming adhimāsa; one was to give to the adhimāsa the name of tbe next following month; the second was to give to an adhimāsa the name of the preceding month; in these days it is the first method that is followed. The farqatik 18 says ' ar TATHIS Fishi H a arrell . 00 i p. 32 says "PUTAFITTARANTIE ATHFETT), Vide App. to E. I, vol. XIX-XXIII for first Pauṣa.
 
-[^1033]. क्षयं संवत्सराणां च मासानां च क्षयं तथा । पक्षक्षयं तथा दृष्ट्वा दिवसानां च FITY
+[^1033]: क्षयं संवत्सराणां च मासानां च क्षयं तथा । पक्षक्षयं तथा दृष्ट्वा दिवसानां च FITY
 
 T
 
@@ -418,7 +418,7 @@ Let us now turn to the literary evidence. The Āryabhatīya ( Daśagitikā, vers
 
 [^1072]: क्षितितनयदिवसवारो न शुभकृदिति पितामहप्रोक्ते । कुजदिनमनिष्टमिति वा कोत्र विशेषो नृदिव्यकृतेः (V. 1. कृते ) ॥ बृहत्सं I. 4.
 
-[^1072a] . The भागवत X 7.5 says 'ज्योतिषामयनं साक्षात् यत्तज्ज्ञानमतीन्द्रियम् । प्रणीतं भवता येन पुमान् वेद पराशरः॥' This is said of गर्ग (who is said in verse 7 to have been the आचार्य of the Yadus).
+[^1072a]:  The भागवत X 7.5 says 'ज्योतिषामयनं साक्षात् यत्तज्ज्ञानमतीन्द्रियम् । प्रणीतं भवता येन पुमान् वेद पराशरः॥' This is said of गर्ग (who is said in verse 7 to have been the आचार्य of the Yadus).
 
 ## Week days
 
