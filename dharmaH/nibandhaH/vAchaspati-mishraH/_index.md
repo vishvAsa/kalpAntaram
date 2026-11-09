@@ -1,5 +1,5 @@
 +++
-title = "+व्यवहारचिन्तामणिः"
+title = "+वाचस्पति-मिश्रः"
 unicode_script = "devanagari"
 
 +++
