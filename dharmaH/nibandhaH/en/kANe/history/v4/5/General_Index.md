@@ -1,67 +1,66 @@
 +++
 title = "General Index"
-
 +++
 
 [[P835]]
 ## GENERAL INDEX
 ### OF Vol. IV (of the History of Dharmaśāstra)
 
-(N. B. This Index deals with pages 1-727 only. As the list of [[tirthas|tīrthas]] from p. 730 onwards is arranged alphabetically, no entries from these pages are included in this Index, except in very rare cases for special reasons. When the name of a person or work occurs both in the body of the book as well as in the [[foot-notes|footnotes]] on the same page, only the page is entered and nothing else).
+(N. B. This Index deals with pages 1-727 only. As the list of tīrthas from p. 730 onwards is arranged alphabetically, no entries from these pages are included in this Index, except in very rare cases for special reasons. When the name of a person or work occurs both in the body of the book as well as in the footnotes on the same page, only the page is entered and nothing else).
 
-Abhijit, a Vedic sacrifice, as [[prāya scitta,|prāyaścitta,]] [[91. 92n|91, 92n]]
+Abhijit, a Vedic sacrifice, as prāyaścitta, 91, 92n
 
-[[Abhilaṣitārthacintamani|Abhilaṣitārthacintāmaṇi]] 566n
+Abhilaṣitārthacintāmaṇi 566n
 
-[[Abhistut,|Abhiṣṭut,]] a Vedic sacrifice deemed to remove even intentional sins 62n, 91
+Abhiṣṭut, a Vedic sacrifice deemed to remove even intentional sins 62n, 91
 
-[[Abhyudayika-sraddha|Ābhyudayika-śrāddha]] 359n, 525-529; see under [[Mātrs|Mātṛs]] and [[Nandisraddha;|Nāndīśrāddha;]] [[Asv. gr.|Āśv. gṛ.]] mentions only four [[sraddhas|śrāddhas]] by name of which this is one 525; darbhas to be employed are straight 526; even number of [[brābmanas|brāhmaṇas]] to be fed 526; followers of [[Samaveda|Sāmaveda]] do not perform [[mātrsraddha|mātṛśrāddha]] in this rite 527; homa is made on the hand of the [[brahmana|brāhmaṇa]] [[526:|526;]] is a [[modifica. tion|modification]] of [[pārvanasrāddha|pārvaṇaśrāddha]] 526; is made of three parts, viz. [[matrsraddha,|mātṛśrāddha,]] [[pitrsraddha|pitṛśrāddha]] and [[mātāmahasraddha|mātāmahaśrāddha]] 528; is to be performed in the morning 526 (except on birth of a son when it is to be performed at once); is treated as synonymous with [[Vrddhisrāddha,|Vṛddhiśrāddha,]] but has wider [[im- port|import]] 528; performed when there is a lucky event such as the birth of a son, or the latter's upanayana or there is a marriage or the [[commen cement|commencement]] of pūrta acts such as the dedication of a tank or park to the public 525; [[pindas|piṇḍas]] are offered to the [[mātrs,|mātṛs,]] the paternal ancestors and the three maternal ancestors, while some do not offer [[pindas|piṇḍas]] in this [[sraddha|śrāddha]] 527, 529; [[pitrs|pitṛs]] called [[Nandi mukha|Nāndīmukha]] are invoked 526, 528; [[pro cedure|procedure]] of 526-527; sacred thread is worn by the performer in the usual form 526; [[sankalpa|saṅkalpa]] of 526n; while [[brahmanas|brāhmaṇas]] are dining holy texts may be recited (except the mantras addressed to [[pitrs,|pitṛs,]] viz. [[Rg.|Ṛg.]] X. 15. 1-13) 527; word [['svadha'|'svadhā']] not to be used 526; yavas are to be used in stead of sesame 526
+Ābhyudayika-śrāddha 359n, 525-529; see under Mātṛs and Nāndīśrāddha; Āśv. gṛ. mentions only four śrāddhas by name of which this is one 525; darbhas to be employed are straight 526; even number of [[brābmanas|brāhmaṇas]] to be fed 526; followers of Sāmaveda do not perform mātṛśrāddha in this rite 527; homa is made on the hand of the brāhmaṇa 526; is a modification of pārvaṇaśrāddha 526; is made of three parts, viz. mātṛśrāddha, pitṛśrāddha and mātāmahaśrāddha 528; is to be performed in the morning 526 (except on birth of a son when it is to be performed at once); is treated as synonymous with Vṛddhiśrāddha, but has wider import 528; performed when there is a lucky event such as the birth of a son, or the latter's upanayana or there is a marriage or the commencement of pūrta acts such as the dedication of a tank or park to the public 525; piṇḍas are offered to the mātṛs, the paternal ancestors and the three maternal ancestors, while some do not offer piṇḍas in this śrāddha 527, 529; pitṛs called Nāndīmukha are invoked 526, 528; procedure of 526-527; sacred thread is worn by the performer in the usual form 526; saṅkalpa of 526n; while brāhmaṇas are dining holy texts may be recited (except the mantras addressed to pitṛs, viz. Ṛg. X. 15. 1-13) 527; word 'svadhā' not to be used 526; yavas are to be used in stead of sesame 526
 
-[[Acamana,|Ācamana,]] has to be performed after one sneezes 454
+Ācamana, has to be performed after one sneezes 454
 
-Actions, are of three kinds, [[nitya. naimittika|nitya, naimittika]] and [[kamya|kāmya]] 60n
+Actions, are of three kinds, nitya, naimittika and kāmya 60n
 
-[[Adabhya,|Adābhya,]] cup, used in [[Jyotiṣtoma|Jyotiṣṭoma]] 157
+Adābhya, cup, used in Jyotiṣṭoma 157
 
 Adam's Fall [['n|8n]]
 
-[[Adhaka,|Āḍhaka,]] see under [['drona'.|'droṇa'.]]
+Āḍhaka, see under 'droṇa'.
 
-[[Adiparva,|Ādiparva,]] 51, 161, 223, 614, 615, 687
+Ādiparva, 51, 161, 223, 614, 615, 687
 
-[[Adipurāṇa,|Ādipurāṇa,]] 215, 234, 288, 291n, 296, 299, [[303 n,|303n,]] 306, 604, 652n, 685.
+Ādipurāṇa, 215, 234, 288, 291n, 296, 299, 303n, 306, 604, 652n, 685.
 
-[[Adityapurāṇa,|Ādityapurāṇa,]] 574n
+Ādityapurāṇa, 574n
 
-[[Adityas,|Ādityas,]] are twelve 490
+Ādityas, are twelve 490
 
-Adopted son, conflict between [[Nirnaya sindhu|Nirṇayasindhu]] and Dharmasindhu as to his priority in being an [[adhikarin|adhikārin]] for [[Antyesti|Antyeṣṭi]] rites, in opposition to [[grand son|grandson]] of the deceased 258n; [[1 sup posed|is supposed]] by the High [[Courtsand|Courts and]] by the Privy Council, relying [[onre Manud.|on Manu IX.]]
+Adopted son, conflict between Nirṇayasindhu and Dharmasindhu as to his priority in being an adhikārin for Antyeṣṭi rites, in opposition to grandson of the deceased 258n; [[1 sup posed|is supposed]] by the High Courts and by the Privy Council, relying [[onre Manud.|on Manu IX.]]
 
-[[P836]]142, to become totally severed from the family of birth, but this is not [[ite|quite]] accurate, since [[Nirnayasindhu,|Nirṇayasindhu,]] Dharmasindhu and the [[Dattaka- candrikā|Dattakacandrikā]] state that the adopted son can perform the [[sraddha|śrāddha]] of his natural father if the latter has no son at the time of his death 538-539; to whom should he offer [[pindas|piṇḍas]] 538
+[[P836]]142, to become totally severed from the family of birth, but this is not [[ite|quite]] accurate, since Nirṇayasindhu, Dharmasindhu and the Dattakacandrikā state that the adopted son can perform the śrāddha of his natural father if the latter has no son at the time of his death 538-539; to whom should he offer piṇḍas 538
 
-Adultery, [[prayascitta|prāyaścitta]] for a, by men and women 105; [[prāyascitta|prāyaścitta]] for a. was only half when the lapse was due to mistake 105
+Adultery, prāyaścitta for a, by men and women 105; prāyaścitta for a. was only half when the lapse was due to mistake 105
 
-Afsad stone Inscription of [[Adityasena|Ādityasena]] 605n
+Afsad stone Inscription of Ādityasena 605n
 
-[[Aghamarsaṇa,|Aghamarṣaṇa,]] hymn ([[Rg.|Ṛg.]] X. 190) as purifier from sins 45, [[46,|46n,]] 126, 130, 578
+Aghamarṣaṇa, hymn (Ṛg. X. 190) as purifier from sins 45, [[46,|46n,]] 126, 130, 578
 
-[[Aghamarsana-vrata,|Aghamarṣaṇa-vrata,]] 130
+Aghamarṣaṇa-vrata, 130
 
 Aghoramantra, set out 699n
 
 Agnes, Saint, was canonized primarily for her refusal to bathe 311
 
-[[Agneya-krcchra,|Āgneya-kṛcchra,]] means subsisting on sesame alone for 12 days 131
+Āgneya-kṛcchra, means subsisting on sesame alone for 12 days 131
 
 Agnicayana, 115, 249n
 
-Agnihotrins, even in modern times perform their [[nitya-srautahoma|nitya-śrautahoma]] during āśauca 240
+Agnihotrins, even in modern times perform their nitya-śrautahoma during āśauca 240
 
 Agnipurāṇa, 17, [[180,|18n,]] 19, 25, 30, 32, 35, 42, 53n, 54, 74, 75, [[76,|76n,]] 80, 81, 88, 104, 107, 109, 150-51, 160, 162-63, 168, 174-75, 265n, 266, 282n, 287, 290, 293n, 300, [[3010,|301n,]] 310, 334, 335, 370, 371n, 374-75, 389n, 445n, 448, 449n, 512-13, 531n, 562n, 566, [[467a,|567n,]] 574n, 579, 585, 588n, 595, 597n, 599n, 600n, 601, 606n, 609, 614, 615, 617, 623, 625n, 626n, 628, 649, 651, 654, 655n, 656n, 657n, 660, [[6610,|661n,]] [[6630,|663n,]] 665, 666, 667, 669, 670n, 677, 689, 705n, 710
 
 [[Agnißțut,|Agniṣṭut,]] a [[vedic|Vedic]] sacrifice 62n, 91, 92n
 
-[[Ahāva,|Āhāva,]] meaning of 503n
+Āhāva, meaning of 503n
 
 Ain-i-Akbari, 605n, 627, 642
 
@@ -73,82 +72,82 @@ Aiyangar, Prof. K. V. Rangaswami 705
 
 Aiyangar, Dr. S. Krishnaswami 712
 
-[[Ajyabhāgas,|Ājyabhāgas,]] 357
+Ājyabhāgas, 357
 
 Alberuni on India 641.
 
 Allan, [[Tames,|James,]] author of 'Catalogue of the coins of Ancient India' 688
 
-Altekar, Prof. A. S., author of 'History of Benares' 618n, [[622.n,|622n,]] [[632 n,|632n,]] 633, 636n, 639n, [[6420|642n]]
+Altekar, Prof. A. S., author of 'History of Benares' 618n, 622n, 632n, 633, 636n, 639n, [[6420|642n]]
 
-[[Amantrana,|Āmantraṇa,]] distinguished from [['nim antrana'|'nimantraṇa']] in some ancient works 408.
+Āmantraṇa, distinguished from 'nimantraṇa' in some ancient works 408.
 
-[[Amarakantaka,|Amarakaṇṭaka,]] mountain, whence Narmadā rises 703, 704.
+Amarakaṇṭaka, mountain, whence Narmadā rises 703, 704.
 
 Amarakośa, 11n, [[217,|217n,]] 278n, 387, 394n, 590n, 703n,
 
-[[Amasraddba|Āmaśrāddha]] ([[Sraddha|śrāddha]] with uncooked grains) 514-515; can be offered by him alone who is eligible for offering [[pārvana-sraddha|pārvaṇa-śrāddha]] 514; is always prescribed for [[sudras|śūdras]] 514; is performed in the forenoon 515; to [[bo|be]] performed when a [[brāhmana|brāhmaṇa]] or materials are not available or when one is on a journey or one's wife is in her monthly illness or on the birth of a son 514
+[[Amasraddba|Āmaśrāddha]] ([[Sraddha|śrāddha]] with uncooked grains) 514-515; can be offered by him alone who is eligible for offering pārvaṇa-śrāddha 514; is always prescribed for śūdras 514; is performed in the forenoon 515; to [[bo|be]] performed when a brāhmaṇa or materials are not available or when one is on a journey or one's wife is in her monthly illness or on the birth of a son 514
 
-Amāvāsyā, is of two kinds, [[sinivali|sinīvālī]] (on which an [[abitāgni|āhitāgni]] should perform [[sraddha)|śrāddha)]] and [[kuhu,|kuhū,]] on which those who have not kept [[srauta|śrauta]] fires and [[Sudras|śūdras]] should offer [[sraddha|śrāddha]] 369; derivation of [[369nd|369n]]
+Amāvāsyā, is of two kinds, sinīvālī (on which an [[abitāgni|āhitāgni]] should perform śrāddha) and kuhū, on which those who have not kept śrauta fires and [[Sudras|śūdras]] should offer śrāddha 369; derivation of [[369nd|369n]]
 
 Ananda, favourite disciple of Buddha arranged for elaborate funeral rites for his master through the Mallas of Kusinārā 234-235
 
-Anākulā, commentary of Haradatta on [[Ap.|Āp.]] [[Gr.|Gṛ.]] 354n, 357n, 426n, 433.
+Anākulā, commentary of Haradatta on Āp. Gṛ. 354n, 357n, 426n, 433.
 
-Ancestor, only three rites for departed a. in very ancient times, viz. [[pinda pitryjana,|piṇḍapitryajña,]] the [[mahāpitryajña|mahāpitṛyajña]] and [[Astakās|Aṣṭakās]] 349-350, 353
+Ancestor, only three rites for departed a. in very ancient times, viz. [[pinda pitryjana,|piṇḍapitryajña,]] the mahāpitṛyajña and Aṣṭakās 349-350, 353
 
-[[Anarta,|Ānarta,]] country through which [[ar madā|Narmadā]] flowed acc. to Vanaparva and in which Dvārakā was situated [[704.|704n]]
+Ānarta, country through which [[ar madā|Narmadā]] flowed acc. to Vanaparva and in which Dvārakā was situated [[704.|704n]]
 
-[[Angiras,|Aṅgiras,]] [[smrti|smṛti]] of 41, 47, 59, [[75, 70|75, 78,]] 81, 83, 84, 85, 86n, 90, [[950 park98 pntal|95n, 98,]]
+Aṅgiras, smṛti of 41, 47, 59, [[75, 70|75, 78,]] 81, 83, 84, 85, 86n, 90, [[950 park98 pntal|95n, 98,]]
 
 [[P837]]105, 109, 123, [[146,|146n,]] 148, 150, 223, 262n, 263, 270n, 271, 291n, [[2920,|292n,]] 293n, [[294,|294n,]] [[296,|296n,]] 301, 326, 331, 321n, 464n, 478, 562n, 575.
 
-[[Angirases;|Aṅgirases;]] vide Navagvas and [[Dasag vas;|Daśagvas;]] are a class of [[pitrs|pitṛs]] in the [[Rgveda,|Ṛgveda,]] associated with Yama 341; [[Vairupas|Vairūpas]] are a sub-division of [[192, 1920|192, 192n]]
+Aṅgirases; vide Navagvas and Daśagvas; are a class of pitṛs in the Ṛgveda, associated with Yama 341; Vairūpas are a sub-division of [[192, 1920|192, 192n]]
 
-[[Anguttara-nikaya|Aṅguttara-nikāya]] 659, 668n, 677, 697
+Aṅguttara-nikāya 659, 668n, 677, 697
 
 Annals, of Bhandarkar Oriental
 Research Institute 182n.
 
-Annasūktas ([[Rg.|Ṛg.]] I. 187 and others) 494.
+Annasūktas (Ṛg. I. 187 and others) 494.
 
 Antyakarmadīpaka, 183, 184n, 185n, 217n, 262
 
-[[Antyesti,|Antyeṣṭi,]] see 'funeral rites'; is one of the 16 [[samskāras|saṁskāras]] performed for dvijas with vedic mantras 189-190
+Antyeṣṭi, see 'funeral rites'; is one of the 16 saṁskāras performed for dvijas with vedic mantras 189-190
 
-[[Antyestipaddhati,|Antyeṣṭipaddhati,]] of [[Nārāyanabhatta|Nārāyaṇabhaṭṭa]] 183, 184n, 185n, 217n, 262
+Antyeṣṭipaddhati, of Nārāyaṇabhaṭṭa 183, 184n, 185n, 217n, 262
 
-Anupātakas, enumerated by [[Visnu|Viṣṇu]] Dh. S. are treated by Manu and Yāj. as equal to or like those that are mahāpātakas 106; persons guilty of, were purified by Aśvamedha or by pilgrimages 106.
+Anupātakas, enumerated by Viṣṇu Dh. S. are treated by Manu and Yāj. as equal to or like those that are mahāpātakas 106; persons guilty of, were purified by Aśvamedha or by pilgrimages 106.
 
 Anuśāsanaparva, 54, 164, 166, 180, 185n, 223, 311, 347n, 348, 364, 371, 372-74, 380, 385, 390, 392, 400n, 411, 419, 423, 434n, 466, 480, 481, 535, 539n, 545, 555, 585, 586, 588n, 594n, 597, 604n, 617, 620, 649, 651, 707
 
-[[Anustarani,|Anustaraṇī,]] cow or goat 206, 209n
+Anustaraṇī, cow or goat 206, 209n
 
-[[Anvastakā|Anvaṣṭakā]] or [[Anvaṣtakya|Anvaṣṭakya]] 358; acc. to [[Ap.|Āp.]] [[gr.|gṛ.]] and [[San. gr,|Śāṅ. gṛ.,]] procedure of A. is the same as that of [[pindapit yajña|piṇḍapitṛyajña]] 358; explanation of the word 359n; most notable characteristic of A. is that female ancestors are invoked and liquor, scum of boiled rice, collyrium and garlands are offered [[359,|358,]] 474; performed after each [[Astakā|Aṣṭakā]] 360; procedure of, from [[Asv. gr.|Āśv. gṛ.]] 359-360; some say that [[Astaka|Aṣṭakā]] is the model on which the procedure of other [[sraddhas|śrāddhas]] is based while others say that [[Astakā|Aṣṭakā]] and [[Anvastakā|Anvaṣṭakā]] are modelled on the monthly [[sraddha|śrāddha]] 358
+Anvaṣṭakā or Anvaṣṭakya 358; acc. to Āp. gṛ. and Śāṅ. gṛ., procedure of A. is the same as that of [[pindapit yajña|piṇḍapitṛyajña]] 358; explanation of the word 359n; most notable characteristic of A. is that female ancestors are invoked and liquor, scum of boiled rice, collyrium and garlands are offered [[359,|358,]] 474; performed after each Aṣṭakā 360; procedure of, from Āśv. gṛ. 359-360; some say that Aṣṭakā is the model on which the procedure of other śrāddhas is based while others say that Aṣṭakā and Anvaṣṭakā are modelled on the monthly śrāddha 358
 
 Apāmārga, a plant used for cleaning the performer of religious rites 250
 
-[[Apankteya,|Apāṅkteya,]] 391-392
+Apāṅkteya, 391-392
 
-[[Aparahna,|Aparāhna,]] three views about what is 376
+Aparāhna, three views about what is 376
 
 Aparārka, 11n, [[250,|25n,]] 34n, 41n, 50n, 53n, 54, 55n, 65n, 66n, 83n, [[87,|87n,]] 88, 89, 93, 94, 96, 97, 99n, [[1041,|104n,]] 105n, 108, 114n, 121, 124n, [[125,|125n,]] 127n, 128n, 131n, 133, 139, 142, 147n, 161n, 199n, 210n, 215, 216n, 218, 220n, 221, 222n, 224-26, 227n, 237, 238n, 255n, 256n, 261n, 262n, 274n, 285n, 289n, 294, 297n, 301n, 304n, 305n, 309, 310, 312-14, 317, 322n, 323n, 324, 351n, 364, 369n, 371n, 376, 377n, 378n, 394n, 395n, 397, 399n, 400, 413n, 417n, 418n, 422n, 424, 440n, 443n, 444n, 445, 447n, 448n, 449n, 450n, 453, 455n, 456n, 457n, 471, 476n, 478, 479n, 480, 483n, 514n, 515n, 517, 518, 519n, 521, 526, 528n, 529, 530, 531n, 547n, 548n, 604, 669
 
 Apasavyam, meaning of, 487n.
 
-[[Apastamba-dharmasūtra,|Āpastamba-dharmasūtra,]] 10-14, 17-19, 21-23, 37n, 40, 41, 50, 54, 64, 65, 70, 71, 73, 74, 82, 88, 89, 91, 94-96, 101, 103, 104, 107, 110-112, 120, 132, 162, 175, 211, 217, 218n, 238, 282, 312, 315, 322, 329, 331, 335n, 349, 365, 370, 372, 375, 379, 384, 387, 388, 392, 394n, 401, 404, 406, 412, 422, 468, 459, 604
+Āpastamba-dharmasūtra, 10-14, 17-19, 21-23, 37n, 40, 41, 50, 54, 64, 65, 70, 71, 73, 74, 82, 88, 89, 91, 94-96, 101, 103, 104, 107, 110-112, 120, 132, 162, 175, 211, 217, 218n, 238, 282, 312, 315, 322, 329, 331, 335n, 349, 365, 370, 372, 375, 379, 384, 387, 388, 392, 394n, 401, 404, 406, 412, 422, 468, 459, 604
 
-[[Apastamba-grhyasūtra|Āpastamba-gṛhyasūtra]] 353, 358, 384, 438, 469, 471, 472
+Āpastamba-gṛhyasūtra 353, 358, 384, 438, 469, 471, 472
 
-[[Apastambamantrapātha,|Āpastambamantrapāṭha,]] 353, 357n, 438, 439, 444n, 461n, 469, 474, 476, 496n, 498
+Āpastambamantrapāṭha, 353, 357n, 438, 439, 444n, 461n, 469, 474, 476, 496n, 498
 
-[[Apastamba-smrti|Āpastamba-smṛti]] (in verse) 28, 79n, 98, 114, 117, 123, 126, [[1813,|133, 143,]] 263, 288, 314n, 323, [[324n, 175|324n, 575]]
+Āpastamba-smṛti (in verse) 28, 79n, 98, 114, 117, 123, 126, [[1813,|133, 143,]] 263, 288, 314n, 323, [[324n, 175|324n, 575]]
 
 [[Apastamba-srautasūtra, 45618404|Āpastamba-śrautasūtra, 184n,]] 312, [[4260, 4620,|426n, 462n,]] 468n, 479, [[4996,|499n,]] 537n, 558
 
 [[P838]]Apātrīkaraṇa sins, 15, 35; expiation for 118-119
 
-[[Aponaptriya|Aponaptṛya]] hymn ([[Rg.|Ṛg.]] X. 30) 558
+[[Aponaptriya|Aponaptṛya]] hymn (Ṛg. X. 30) 558
 
 Apratiratha hymn, 439, 507
 
@@ -158,115 +157,115 @@ Archaeological Survey Reports of Mysore 716n, 717
 
 [[Archeological|Archaeological]] Survey of India, reports of 683, 685, 686
 
-[[Ardhakrcchra,|Ardhakṛcchra,]] 131
+Ardhakṛcchra, 131
 
 Arghya, respectful offering of water or water with unhusked rice grains, flowers etc. to gods or venerable persons 435n, 441n
 
 Arthavāda (laudatory passage), may in some cases be construed as a vidhi (injunction) 62
 
-[[Aryasamāja,|Āryasamāja,]] objects to the institution of [[srāddha|śrāddha]] 339
+Āryasamāja, objects to the institution of śrāddha 339
 
-[[Asauca;|Āśauca;]] vide under 'adopted son', 'death', 'food', 'kāyasthas', 'men', 'pratiloma', [['sapindas ',|'sapiṇḍas',]] [['suddhi '|'śuddhi',]] [['sūtaka '|'sūtaka',]] 'wife', 'women', [['yati '|'yati';]] agha is used often as a synonym for ā. 267-268; [[atikrāntāsauca|atikrāntāśauca]] 282-284; birth and death are causes of ā. only when they become known to the person to be affected 276; [[brāhmana|brāhmaṇa]] who has studied the vedas and kept vedic fires becomes free from impurity in one day, one who has only mastered the veda in three days, one devoid of both in ten days 270; defined by [[Mitaksarā|Mitākṣarā]] 268; derivation from the word [['suci '|'śuci']] 267; differing views in ancient times as to explanation of the origin of ā. for ten days on birth and death 309; explanation of varying provisions on [[ā|ā.]] 288; impurity on birth 275; exceptions to rules about [[atikrāntāsauca|atikrāntāśauca]] 284; five classes of cases in which rules about ā. do not operate 296; for adopted son in case natural father or adoptive father dies or for natural father and adoptive father when the adopted son dies and for [[sapindas|sapiṇḍas]] 280-281; for carrying a dead body for money 289; for father and [[sapindas|sapiṇḍas]] on abortion, still-birth or after the birth of a child 275; for mother when there is abortion in the first four months of pregnancy or in later months of pregnancy or on still-birth or after birth 275; for slaves when masters die 292; form [['asucya '|'āśucya']] is found in Devala and other [[smrtis|smṛtis]] 267; general rules about ā. 276-277; great divergence of views on question about the periods of [[ā,|ā.,]] if a [[sapinda's|sapiṇḍa's]] death comes to one's ears more than ten days after death 283; Haradatta's definition of ā. 268; in the case of an āhitāgni or non-āhitāgni dying in a different country, whose bones even are not found and whose effigy is cremated 286; intensity of impurity was arranged on a descending scale in the following order viz. a sūtikā (a freshly delivered woman), rajasvalā (a woman in monthly illness), death and birth 274; king's death required the residents of the country to observe ā. up till the advent of the day or night next after the king's death 281-282; Manu and others mention several optional periods of impurity 270-271, 307; Manu and others urge men not to increase through laziness the number of days for which ā. is to be observed 271; meaning of [[asaucasannipata|āśaucasannipāta]] 292ff; meaning of life-long impurity 274; medieval [[brāhmanas|brāhmaṇas]] attached exaggerated importance to ceremonial purity after ā. 273; [[Mitāksarā|Mitākṣarā]] says that dicta of [[Parāsara|Parāśara]] on periods of impurity should be discarded as opposed to several [[smrtis|smṛtis]] and popular usage 272; most important subject under the head of [[suddhi|śuddhi]] is [[ā..|ā.]] 267; no [[atikrāntāsauca|atikrāntāśauca]] for [[sapindas|sapiṇḍas]] on birth 283; no periods of ā. prescribed
+Āśauca; vide under 'adopted son', 'death', 'food', 'kāyasthas', 'men', 'pratiloma', 'sapiṇḍas', 'śuddhi', 'sūtaka', 'wife', 'women', 'yati'; agha is used often as a synonym for ā. 267-268; atikrāntāśauca 282-284; birth and death are causes of ā. only when they become known to the person to be affected 276; brāhmaṇa who has studied the vedas and kept vedic fires becomes free from impurity in one day, one who has only mastered the veda in three days, one devoid of both in ten days 270; defined by Mitākṣarā 268; derivation from the word 'śuci' 267; differing views in ancient times as to explanation of the origin of ā. for ten days on birth and death 309; explanation of varying provisions on ā. 288; impurity on birth 275; exceptions to rules about atikrāntāśauca 284; five classes of cases in which rules about ā. do not operate 296; for adopted son in case natural father or adoptive father dies or for natural father and adoptive father when the adopted son dies and for sapiṇḍas 280-281; for carrying a dead body for money 289; for father and sapiṇḍas on abortion, still-birth or after the birth of a child 275; for mother when there is abortion in the first four months of pregnancy or in later months of pregnancy or on still-birth or after birth 275; for slaves when masters die 292; form 'āśucya' is found in Devala and other smṛtis 267; general rules about ā. 276-277; great divergence of views on question about the periods of ā., if a sapiṇḍa's death comes to one's ears more than ten days after death 283; Haradatta's definition of ā. 268; in the case of an āhitāgni or non-āhitāgni dying in a different country, whose bones even are not found and whose effigy is cremated 286; intensity of impurity was arranged on a descending scale in the following order viz. a sūtikā (a freshly delivered woman), rajasvalā (a woman in monthly illness), death and birth 274; king's death required the residents of the country to observe ā. up till the advent of the day or night next after the king's death 281-282; Manu and others mention several optional periods of impurity 270-271, 307; Manu and others urge men not to increase through laziness the number of days for which ā. is to be observed 271; meaning of āśaucasannipāta 292ff; meaning of life-long impurity 274; medieval brāhmaṇas attached exaggerated importance to ceremonial purity after ā. 273; Mitākṣarā says that dicta of Parāśara on periods of impurity should be discarded as opposed to several smṛtis and popular usage 272; most important subject under the head of śuddhi is ā. 267; no atikrāntāśauca for sapiṇḍas on birth 283; no periods of ā. prescribed
 
-[[P839]]for pratiloma castes, but some say that they are like [[sudras|śūdras]] 288; no unanimity among [[smrtis|smṛtis]] as to periods of [[ā,|ā.]] on death 277ff; on birth ā. lasted ten days even in the Vedic period 274; on death of a child for parents and [[sapindas|sapiṇḍas]] before ten days from birth or before the striking of teeth, before [[cūdā|cūḍā]] or upanayana or after upanayana 277-278; on death of a person after upanayana all [[sapindas|sapiṇḍas]] had to [[under o|undergo]] [[a.|ā.]] for ten days and all samānodakas for three days 277; on death of a girl after three years of age and before betrothal or after [[betrotbal|betrothal]] but before marriage and after marriage 278; period of [[a.|ā.]] depended on several circumstances, such as the [[varna|varṇa]] or on whether deceased was an infant or a male or a female or whether death was before or after upanayana or on the vicinity or otherwise of the deceased, the degree of relationship, the time that elapsed after birth or death 271-273, 286-287; periods of ā. for relatives in the case of anuloma or pratiloma marriages 488; periods of [[a.|ā.]] for four [[varnas|varṇas]] were respectively fixed at 10, 12, 15 days and a month 271; periods of 10 days of ā. were fixed for men of all [[varnas|varṇas]] by some [[smrtikāras|smṛtikāras]] such as [[Angiras|Aṅgiras]] and [[Satātapa|Śātātapa]] and the reason for such fixation 271, 307; period of [[ā,|ā.]] for less than ten days on [[tbe|the]] ground of vedic learning was included among Kalivarjya 271; rules about [[a.|ā.]] on death of bandhus such as maternal grand-father, grand-mother or maternal uncle, daughter's son and father-in-law, mother-in-law, son-in-law, wife's brother 279-280; rules about ā. on the death of an [[acārya,|ācārya,]] his wife or son or of a guru or pupil 281; rules about [[a.|ā.]] apply only when times are easy and peaceful 306; rules about the period of [[a.|ā.]] when the knowledge of birth or death comes to a man after the periods fixed 282-284; [[sannipata|sannipāta]] or [[sampāta|saṁpāta]] of [[5.|ā.]] (another [[asauca|āśauca]] supervening while one is being [[under gone),|undergone),]] rules of 292-294; several printed works and mss. on [[a.|ā.]] are in verse 272-273; ten varieties of impurity, according to [[Daksa|Dakṣa]] 274; things that could be taken without taint from the house of one undergoing [[ā,|ā.,]] though not from his hand 291-92; two characteristics of [[a.|ā.]] viz. taking away the privilege of performing religious acts and rendering a person untouchable to others for some time, 268-269; two kinds of ā. viz. [[jananaśauca|jananāśauca]] or sūtaka (arising on birth) and [[savāśauca|śavāśauca]] or [[mrtaka sauca|mṛtakāśauca]] (arising on death) 269; two varieties in each kind of [[ā.viz,|ā. viz.]] for a short period and for a long period 269; two views as to the day from which period of [[a.|ā.]] is to be calculated, if a man died at night or news reached at night 287-288; usage of the country the most important in matters of [[a.|ā.]] 306; when calculating the period of [[a,|ā.,]] the day of cremation in the case of an [[ahitāgni|āhitāgni]] and the day of death in the case of a non-āhitāgni is the first day 276; when a solemn sacrifice (like Somayāga) is begun or a marriage rite or festival in honour of [[matrs|mātṛs]] has started or the foundation or dedication of a temple or image is begun, supervening cause of [[a.|ā.]] does not matter 291; why birth and death should cause impurity to relations has not been discussed by most writers 269-270; woman's delivery or death at her father's or brother's house and at her husband's makes a difference as to [[a.|ā.]] 276, 278; women of all [[varnas|varṇas]] become touchable after ten days from delivery but they are not fit to take part in religious rites 30 or 40 days from birth according as a son or daughter is born 276; words like [['ahah'|'ahaḥ']] and [['latrih'|'rātriḥ']]
+[[P839]]for pratiloma castes, but some say that they are like śūdras 288; no unanimity among smṛtis as to periods of ā. on death 277ff; on birth ā. lasted ten days even in the Vedic period 274; on death of a child for parents and sapiṇḍas before ten days from birth or before the striking of teeth, before cūḍā or upanayana or after upanayana 277-278; on death of a person after upanayana all sapiṇḍas had to [[under o|undergo]] ā. for ten days and all samānodakas for three days 277; on death of a girl after three years of age and before betrothal or after [[betrotbal|betrothal]] but before marriage and after marriage 278; period of ā. depended on several circumstances, such as the varṇa or on whether deceased was an infant or a male or a female or whether death was before or after upanayana or on the vicinity or otherwise of the deceased, the degree of relationship, the time that elapsed after birth or death 271-273, 286-287; periods of ā. for relatives in the case of anuloma or pratiloma marriages 488; periods of ā. for four varṇas were respectively fixed at 10, 12, 15 days and a month 271; periods of 10 days of ā. were fixed for men of all varṇas by some smṛtikāras such as Aṅgiras and Śātātapa and the reason for such fixation 271, 307; period of ā. for less than ten days on [[tbe|the]] ground of vedic learning was included among Kalivarjya 271; rules about ā. on death of bandhus such as maternal grand-father, grand-mother or maternal uncle, daughter's son and father-in-law, mother-in-law, son-in-law, wife's brother 279-280; rules about ā. on the death of an ācārya, his wife or son or of a guru or pupil 281; rules about ā. apply only when times are easy and peaceful 306; rules about the period of ā. when the knowledge of birth or death comes to a man after the periods fixed 282-284; sannipāta or saṁpāta of [[5.|ā.]] (another āśauca supervening while one is being undergone), rules of 292-294; several printed works and mss. on ā. are in verse 272-273; ten varieties of impurity, according to Dakṣa 274; things that could be taken without taint from the house of one undergoing ā., though not from his hand 291-92; two characteristics of ā. viz. taking away the privilege of performing religious acts and rendering a person untouchable to others for some time, 268-269; two kinds of ā. viz. jananāśauca or sūtaka (arising on birth) and śavāśauca or mṛtakāśauca (arising on death) 269; two varieties in each kind of ā. viz. for a short period and for a long period 269; two views as to the day from which period of ā. is to be calculated, if a man died at night or news reached at night 287-288; usage of the country the most important in matters of ā. 306; when calculating the period of ā., the day of cremation in the case of an āhitāgni and the day of death in the case of a non-āhitāgni is the first day 276; when a solemn sacrifice (like Somayāga) is begun or a marriage rite or festival in honour of mātṛs has started or the foundation or dedication of a temple or image is begun, supervening cause of ā. does not matter 291; why birth and death should cause impurity to relations has not been discussed by most writers 269-270; woman's delivery or death at her father's or brother's house and at her husband's makes a difference as to ā. 276, 278; women of all varṇas become touchable after ten days from delivery but they are not fit to take part in religious rites 30 or 40 days from birth according as a son or daughter is born 276; words like 'ahaḥ' and [['latrih'|'rātriḥ']]
 
 [[P840]]mean day and night in texts on ā. 276
 
-[[Asaucadaśaka,|Āśaucadaśaka,]] attributed to [[Vijnane śvara,|Vijñāneśvara,]] deals with [[asauca|āśauca]] in ten [[Sārdūlavikridita|Śārdūlavikrīḍita]] verses, 273,; text of 276, 277, 290
+Āśaucadaśaka, attributed to Vijñāneśvara, deals with āśauca in ten Śārdūlavikrīḍita verses, 273,; text of 276, 277, 290
 
-[[Asaucāstaka,|Āśaucāṣṭaka,]] attributed to Vararuci, deals with [[asauca|āśauca]] in eight [[Sragdhara|Sragdharā]] verses 272-273.
+Āśaucāṣṭaka, attributed to Vararuci, deals with āśauca in eight Sragdharā verses 272-273.
 
-Ascetics, see under [['Nārāyanabali',|'Nārāyaṇabali',]] [['yati ';|'yati';]] general rule for, is that for eight months they must move from place to place and may spend four months of rainy season in one place, but this rule was abrogated when a. entered [[Kasi|Kāśī]] 641; great emphasis laid in some works on inviting them at a [[sraddha|śrāddha]] dinner 388, 399; had to tonsure the whole head when under going [[prāyascitta|prāyaścitta]] 123; [[bave|have]] not to undergo the condition of preta and no [[ekoddista|ekoddiṣṭa]] nor [[sapindikarana|sapiṇḍīkaraṇa]] is to be performed for them, but only [[pārvana|pārvaṇa]] on 11th day after death 519; is not affected by [[asauca|āśauca]] 298; [[mahālayasraddha|mahālayaśrāddha]] for, is to be per formed on 12th day of [[Bhadrapada|Bhādrapada]] dark half 533; [[Vasistha|Vasiṣṭha]] and others insist that an a. must partake of flesh served at a [[sraddha|śrāddha]] 423
+Ascetics, see under 'Nārāyaṇabali', 'yati'; general rule for, is that for eight months they must move from place to place and may spend four months of rainy season in one place, but this rule was abrogated when a. entered Kāśī 641; great emphasis laid in some works on inviting them at a śrāddha dinner 388, 399; had to tonsure the whole head when under going prāyaścitta 123; [[bave|have]] not to undergo the condition of preta and no ekoddiṣṭa nor sapiṇḍīkaraṇa is to be performed for them, but only pārvaṇa on 11th day after death 519; is not affected by āśauca 298; mahālayaśrāddha for, is to be per formed on 12th day of Bhādrapada dark half 533; Vasiṣṭha and others insist that an a. must partake of flesh served at a śrāddha 423
 
-[[Asoka,|Aśoka,]] in times of, a branch of the bodhi tree was transplanted to Ceylon 667; tradition that [[Asoka|Aśoka]] dug up seven out of the eight mounds of the relics of Buddha and distributed the contents in 84000 boxes through out India and built stūpas over them 236n.
+Aśoka, in times of, a branch of the bodhi tree was transplanted to Ceylon 667; tradition that Aśoka dug up seven out of the eight mounds of the relics of Buddha and distributed the contents in 84000 boxes through out India and built stūpas over them 236n.
 
-[[Asramavā sikaparva,|Āśramavāsikaparva,]] 223, 451n, 534
+Āśramavāsikaparva, 223, 451n, 534
 
-Association, see under [['samsarga';|'saṁsarga';]] even 4th or 5th in a series of persons guilty of a. with one guilty of [[maha pataka|mahāpātaka]] is liable to some expiation 27
+Association, see under 'saṁsarga'; even 4th or 5th in a series of persons guilty of a. with one guilty of mahāpātaka is liable to some expiation 27
 
-[[Asthisa ñcayana,|Asthisañcayana,]] see under [['sanca. yana'|'sañcayana']]
+Asthisañcayana, see under 'sañcayana'
 
-[[Astakasrāddhas,|Aṣṭakāśrāddhas,]] see [[Anvastakã ;|Anvaṣṭakā;]] 353-360; cow is sacrificed acc. to [[Khadira erhya|Khādiragṛhya]] 355; days of [[A,|A.]] were four or three or one only 354; derivation of [[Astakā|Aṣṭakā]] from [[astan|aṣṭan]] 354n; first among seven pākayajñas, acc. to Gautama and one of the 40 [[samskaras|saṁskāras]] 353; five A. acc. to [[Bhattoji|Bhaṭṭoji]] 361; flesh to be offered in all acc. to some writers 354; great variations on almost all points connected with [[A,|A.]] such as the number of days and the months in which they were to be performed, the deities to be worshipped, the offerings to be made and the procedure 353; many options are given as to offerings acc. to several [[gļhya-sūtras|gṛhya-sūtras]] 355; meaning of A. was 8th tithi in any month after full-moon day 353; not performed now 361; offerings made on the three [[Astakās|Aṣṭakās]] differed in different sūtras 355; [[pitrs|pitṛs]] are the deities of [[A,|A.]] according to [[Vārtika|Vārttika]] on [[Panini|Pāṇini]] and [[Kathakagrhya,|Kāṭhakagṛhya,]] but great divergence on the devatās, acc. to others; 355-56; procedure of, comprises three parts viz. homa, inviting [[brāhmanas|brāhmaṇas]] for dinner and the rite called [[Anvaṣtakya|Anvaṣṭakya]] or [[Anvastakā|Anvaṣṭakā]] 356; procedure of A. in several [[grhya sūtras,|gṛhyasūtras,]] but the shortest is that of [[Ap.|Āp.]] [[gr.|gṛ.]] which is set out 356-358; A [[sraddhas|śrāddhas]] known to early Vedic literature 194n, 350n; twelve A. in a year 383n; were modifications [[(vikrtis )|(vikṛtis)]] of monthly [[sraddha|śrāddha]] on [[Amavasyā|Amāvāsyā]] 361-362, 434
+Aṣṭakāśrāddhas, see Anvaṣṭakā; 353-360; cow is sacrificed acc. to [[Khadira erhya|Khādiragṛhya]] 355; days of A. were four or three or one only 354; derivation of Aṣṭakā from aṣṭan 354n; first among seven pākayajñas, acc. to Gautama and one of the 40 saṁskāras 353; five A. acc. to Bhaṭṭoji 361; flesh to be offered in all acc. to some writers 354; great variations on almost all points connected with A. such as the number of days and the months in which they were to be performed, the deities to be worshipped, the offerings to be made and the procedure 353; many options are given as to offerings acc. to several [[gļhya-sūtras|gṛhya-sūtras]] 355; meaning of A. was 8th tithi in any month after full-moon day 353; not performed now 361; offerings made on the three Aṣṭakās differed in different sūtras 355; pitṛs are the deities of A. according to [[Vārtika|Vārttika]] on Pāṇini and Kāṭhakagṛhya, but great divergence on the devatās, acc. to others; 355-56; procedure of, comprises three parts viz. homa, inviting brāhmaṇas for dinner and the rite called Anvaṣṭakya or Anvaṣṭakā 356; procedure of A. in several gṛhyasūtras, but the shortest is that of Āp. gṛ. which is set out 356-358; A śrāddhas known to early Vedic literature 194n, 350n; twelve A. in a year 383n; were modifications (vikṛtis) of monthly śrāddha on Amāvāsyā 361-362, 434
 
-Astrology, a [[brāhmana|brāhmaṇa]] subsisting by the practice of, is unfit to be invited at a [[sraddha|śrāddha]] 393; Yama states that if [[brāhmanas|brāhmaṇas]] that do not declare (or advise on) the auspicious nakṣatra, tithi or day or [[muhurta|muhūrta]] and other auspicious matters eat [[srāddha|śrāddha]] food, the reward is inexhaustible 400
+Astrology, a brāhmaṇa subsisting by the practice of, is unfit to be invited at a śrāddha 393; Yama states that if brāhmaṇas that do not declare (or advise on) the auspicious nakṣatra, tithi or day or muhūrta and other auspicious matters eat śrāddha food, the reward is inexhaustible 400
 
-[[Asucikara,|Aśucikara,]] sins so called 12, 14
+Aśucikara, sins so called 12, 14
 
-Asuras, like Prahlāda, [[Bāna|Bāṇa]] and [[Ball,|Bali,]] though good and decent, are [[describe ed|described]] as fighting with gods 659; usage of, about burial of dead bodies 234
+Asuras, like Prahlāda, Bāṇa and [[Ball,|Bali,]] though good and decent, are [[describe ed|described]] as fighting with gods 659; usage of, about burial of dead bodies 234
 
-[[P841]][[Asvaghosa,|Aśvaghoṣa,]] author of Buddhacarita 621
+[[P841]]Aśvaghoṣa, author of Buddhacarita 621
 
-[[Asvalāyana|Āśvalāyana]] (in verse) 381n
+Āśvalāyana (in verse) 381n
 
-[[Asvalāyana-grhya-parisista|Āśvalāyana-gṛhya-pariśiṣṭa]] 219, [[262 n,|262n,]] 524, 526, 527,
+Āśvalāyana-gṛhya-pariśiṣṭa 219, 262n, 524, 526, 527,
 
 [[Asvalāyanagrhvasūtra,|Āśvalāyana-gṛhyasūtra,]] 46n, 58, 98, 111, 112n, 149n, 190, 194n, 199n, 200n, 203n, 204, 205, 209, 218, 238, 240, 241, 244, 245n, 262, 353, 354, 355, 356, 357n, 358, 359, 360, 384, 389, 402, 412n, 417, 433, 460, 463, 470, 491, 493n, 496n, 506n, 525, 527n
 
-[[Asvalāyana-śrauta-sūtra,|Āśvalāyana-śrautasūtra,]] 45, 57, 58, 62n, 92n, 127, 184n, 200n, 202, 203n, 346n, 436n, 463, 472, 477n, 480, 494, 498, 499, 500n, 511, 558, 681
+Āśvalāyana-śrautasūtra, 45, 57, 58, 62n, 92n, 127, 184n, 200n, 202, 203n, 346n, 436n, 463, 472, 477n, 480, 494, 498, 499, 500n, 511, 558, 681
 
-[[Asvamedha,|Aśvamedha,]] as a [[prāyascitta|prāyaścitta]] 91, 92; deemed to have freed even gods from all sins, even including [[brāh- mana|brāhmaṇa]] murder 37, 62; even a murderer of a [[brāhmana|brāhmaṇa]] becomes free from that sin by a bath at end of A. along with the king and priests after announcing his sin and after permission 94, 131; to be performed only by a king 91, 131; verses recited at time of making crowned queen get up from dead horse 200n.
+Aśvamedha, as a prāyaścitta 91, 92; deemed to have freed even gods from all sins, even including brāhmaṇa murder 37, 62; even a murderer of a brāhmaṇa becomes free from that sin by a bath at end of A. along with the king and priests after announcing his sin and after permission 94, 131; to be performed only by a king 91, 131; verses recited at time of making crowned queen get up from dead horse 200n.
 
-[[Asvamedhikaparva|Āśvamedhikaparva]] 535
+Āśvamedhikaparva 535
 
-[[Asvapati|Aśvapati]] Kekaya, a king, boasts that no drinker of madya dwelt in his kingdom 20
+Aśvapati Kekaya, a king, boasts that no drinker of madya dwelt in his kingdom 20
 
-Atharvans, a class of [[pitrs|pitṛs]] 192
+Atharvans, a class of pitṛs 192
 
-[[Atharvasiras,|Atharvaśiras,]] purifies from sins 45, 46n
+Atharvaśiras, purifies from sins 45, 46n
 
 Atharvaveda, 5, 11n, 57, 155, 157, 159, 174n, 182n, 184n, 192n, 194n, 198, 204, 205n, 206n, 207n, 211, 232, 233, 242, 252n, 254, 321, 342, 345, 346, 347n, 351, 353, 433n, 462n, 555, 556, 645, 680
 
 Atheists, touch of 115
 
-[[Atikrcchra,|Atikṛcchra,]] an expiation 130; how constituted 130; purifies a man of all sins except mahāpātakas 15, 88
+Atikṛcchra, an expiation 130; how constituted 130; purifies a man of all sins except mahāpātakas 15, 88
 
-Atipātakas, no [[prāyascitta|prāyaścitta]] for these except entering fire acc. to [[Viṣnu|Viṣṇu]] Dh. S. but Manu and Yāj. differ 88
+Atipātakas, no prāyaścitta for these except entering fire acc. to Viṣṇu Dh. S. but Manu and Yāj. differ 88
 
 Atirudra, for reversal of a disease 178
 
-[[Atisāntapana,|Atisāṁtapana,]] defined variously by [[smrtis|smṛtis]] 130-131
+[[Atisāntapana,|Atisāṁtapana,]] defined variously by smṛtis 130-131
 
-Atithi, who is, at a [[srāddha|śrāddha]] 396
+Atithi, who is, at a śrāddha 396
 
-Atri, [[smrti|smṛti]] of, 42, 48, 67n, 75, 94, 97, 124, 128, 138, 139, 141, 142, 145, 147, 149, 152, 173, 270, 271, 277, 287, 295, 298, 302, 310, 313, 324n, 392, 401n, 420, 421, 471, 545, 577, 604, 611n, 653
+Atri, smṛti of, 42, 48, 67n, 75, 94, 97, 124, 128, 138, 139, 141, 142, 145, 147, 149, 152, 173, 270, 271, 277, 287, 295, 298, 302, 310, 313, 324n, 392, 401n, 420, 421, 471, 545, 577, 604, 611n, 653
 
 Audgāhamāni, 354
 
 Aulāna, son of [[Santanu|Śaṁtanu]] 189n
 
-[[Aurnavābha,|Aurṇavābha,]] 645
+Aurṇavābha, 645
 
 [[Auśanadasmṛti|Auśanasasmṛti]] 222n, 301n, 339, 340, 386, 399, 400n, 411, 422
 
-[[Avadānasataka,|Avadānaśataka,]] 176
+Avadānaśataka, 176
 
-Avakīrṇin, see under 'brahmacārin'; has to offer to [[Nirrti|Nirṛti]] an ass according to procedure of pākayajñas 212
+Avakīrṇin, see under 'brahmacārin'; has to offer to Nirṛti an ass according to procedure of pākayajñas 212
 
-Avanti, is name of country and [[Avanti|Avantī]] was its capital 619
+Avanti, is name of country and Avantī was its capital 619
 
-[[Avidhavānavamīsrāddha,|Avidhavānavamīśrāddha,]] 533-534; performed for one's mother or other woman of one's family who died during her husband's lifetime, on the 9th day of Bhādrapada dark half 533
+Avidhavānavamīśrāddha, 533-534; performed for one's mother or other woman of one's family who died during her husband's lifetime, on the 9th day of Bhādrapada dark half 533
 
-Avimukta-nirukti-sāra, a work in 15 verses with commentary thereon, explaining the purport of a [[Jābalop- anisad|Jābālopaniṣad]] passage 610n
+Avimukta-nirukti-sāra, a work in 15 verses with commentary thereon, explaining the purport of a Jābālopaniṣad passage 610n
 
-[[Bahispavamāna,|Bahiṣpavamāna,]] sāman 46n
+Bahiṣpavamāna, sāman 46n
 
-[[Bahvrca-grhya-parisista|Bahvṛca-gṛhya-pariśiṣṭa]] 443n
+Bahvṛca-gṛhya-pariśiṣṭa 443n
 
 Baijavāpa, 238
 
 [[Bālācārya|Bālaccārya]] Khuperkar, Pandit of Kolhapur 717n
 
-[[Bālakrcchra,|Bālakṛcchra,]] see under [[Siśukrcchra|Śiśukṛcchra]]
+Bālakṛcchra, see under Śiśukṛcchra
 
-[[Bālambhattī,|Bālambhaṭṭī,]] 59, 60n, 140n, 142n, 391, 398, 574n
+Bālambhaṭṭī, 59, 60n, 140n, 142n, 391, 398, 574n
 
-Bali, grandson of Prahlāda and a devotee of [[Viṣnu|Viṣṇu]] 144, 659
+Bali, grandson of Prahlāda and a devotee of Viṣṇu 144, 659
 
-[[Bāna,|Bāṇa,]] 371n, 625n (Vāmanapurāṇa exhibits similar style)
+Bāṇa, 371n, 625n (Vāmanapurāṇa exhibits similar style)
 
-[[Bāna,|Bāṇa,]] an asura, son of [[Ball,|Bali,]] [[Tought|fought]] with [[Krsna|Kṛṣṇa]] with the help of [[Siva|Śiva]] 659
+Bāṇa, an asura, son of [[Ball,|Bali,]] [[Tought|fought]] with Kṛṣṇa with the help of Śiva 659
 
-[[P842]]Bandhus, are of three kinds 280; rules about [[āsauca|āśauca]] on death of 280
+[[P842]]Bandhus, are of three kinds 280; rules about āśauca on death of 280
 
 Banerji, R. D. on 'History of Orissa' 693, 694n, 698n
 
@@ -278,21 +277,21 @@ Barley, see under 'yava'
 
 Barua, Dr. Benimādhava, author of 'Gayā and Buddha-Gayā' 643, 644, 647, 649, 650, 651, 653n, 659, 664n
 
-Bath, as an easy substitute for some expiations 127; daily bath for all insisted upon by ancient and medieval Indians 311; prescribed after sexual intercourse with one's wife, for vomiting after sunrise, after shaving, after a bad dream or foul touch 311; prescribed on touching certain persons and substances such as a seller of Veda, a sacrificial post, a patita, a dog, a [[cāndāla|caṇḍāla]] 331-332
+Bath, as an easy substitute for some expiations 127; daily bath for all insisted upon by ancient and medieval Indians 311; prescribed after sexual intercourse with one's wife, for vomiting after sunrise, after shaving, after a bad dream or foul touch 311; prescribed on touching certain persons and substances such as a seller of Veda, a sacrificial post, a patita, a dog, a caṇḍāla 331-332
 
 Bauddhas, touch of, required expiation 115
 
-[[Baudhāyana-dharma-sūtra,|Baudhāyana-dharmasūtra,]] 13, 14, 25n, 32, 40n, 42, 43, 45, 46n, 48, 54, 71, 75, 82, 96, 103, 106, 113, 120, 122, 123, 130, 132, 134-138, 142-145, 147, 149, 150, 229n, 231, 275, 292, 310, 312, 313n, 316, 317, 322, 325-328, 331, 339, 350, 354, 355, 358, 365, 368, 384, 385, 387, 403, 418, 443n, 448n, 450n, 463, 464n, 467, 538, 560
+Baudhāyana-dharmasūtra, 13, 14, 25n, 32, 40n, 42, 43, 45, 46n, 48, 54, 71, 75, 82, 96, 103, 106, 113, 120, 122, 123, 130, 132, 134-138, 142-145, 147, 149, 150, 229n, 231, 275, 292, 310, 312, 313n, 316, 317, 322, 325-328, 331, 339, 350, 354, 355, 358, 365, 368, 384, 385, 387, 403, 418, 443n, 448n, 450n, 463, 464n, 467, 538, 560
 
-[[Baudhāyana-grhya-sūtra,|Baudhāyana-gṛhyasūtra,]] 111, 474, 525
+Baudhāyana-gṛhyasūtra, 111, 474, 525
 
-[[Baudhāyana-grhya-sesasūtra,|Baudhāyana-gṛhya-śeṣasūtra,]] 229n, 304n, 305, 319n, 516, 542.
+Baudhāyana-gṛhya-śeṣasūtra, 229n, 304n, 305, 319n, 516, 542.
 
-[[Baudhāyanagrhyā-paribhāsāsūtra,|Baudhāyanagṛhya-paribhāṣāsūtra,]] 399n
+Baudhāyanagṛhya-paribhāṣāsūtra, 399n
 
-[[Baudhāyana-pitrmedhasūtra,|Baudhāyana-pitṛmedhasūtra,]] 182, 189, 190, 191n, 199n, 200n, 204, 205n, 207n, 208n, 209n, 223, 229, 238, 240, 244, 246n, 251, 253, 254n, 255, 263, 467n, 520, 521
+Baudhāyana-pitṛmedhasūtra, 182, 189, 190, 191n, 199n, 200n, 204, 205n, 207n, 208n, 209n, 223, 229, 238, 240, 244, 246n, 251, 253, 254n, 255, 263, 467n, 520, 521
 
-[[Baudhāyana-smrti,|Baudhāyana-smṛti,]] 64, 217n, 261, 280n, 312, 316
+Baudhāyana-smṛti, 64, 217n, 261, 280n, 312, 316
 
 Baudhāyana-śrautasūtra, 346
 
@@ -302,23 +301,23 @@ Beginning, of certain acts such as a sacrifice or marriage how settled 291.
 
 Belvalkar, Dr. S. K. 648n.
 
-[[Bhagavad-gītā,|Bhagavadgītā,]] 9, 46n, 68, 83n, 158, 186, 188, 236n, 265n, 335, 373, 496, 587, 611, 614, 683; some verses of, occur in [[Viṣnudharmasūtra|Viṣṇudharmasūtra]] 236n
+Bhagavadgītā, 9, 46n, 68, 83n, 158, 186, 188, 236n, 265n, 335, 373, 496, 587, 611, 614, 683; some verses of, occur in Viṣṇudharmasūtra 236n
 
 Bhāgavatapurāṇa, 163, 168, 349, 560, 690, 691n, 704n, 707
 
-[[Bhaktūpadhyāya,|Bhaktupādhyāya,]] 59n
+Bhaktupādhyāya, 59n
 
 Bhandarkar, Prof. D. R. 271
 
 Bhandarkar, Dr. R. G. 713n, 716
 
-[[Bhāradvaja,|Bhāradvāja,]] 387
+Bhāradvāja, 387
 
-[[Bharadvāja grhya sutra,|Bhāradvāja-gṛhyasūtra,]] 58, 355, 476, 520, 522n
+Bhāradvāja-gṛhyasūtra, 58, 355, 476, 520, 522n
 
-Bhāraśivas, an imperial dynasty in ancient India that performed [[Asva- medha|Aśvamedha]] sacrifices 634
+Bhāraśivas, an imperial dynasty in ancient India that performed Aśvamedha sacrifices 634
 
-Bharata, author of [[Nātyasāstra|Nāṭyaśāstra]] 217n
+Bharata, author of Nāṭyaśāstra 217n
 
 Bharata [[Dauṣṣanti|Dauḥṣanti]] 585
 
@@ -326,23 +325,23 @@ Bhārgava, 79n
 
 Bhārhut stūpa, 709
 
-[[Bhāskaraksetra,|Bhāskarakṣetra,]] is Prayāga, according to some and [[Konārka|Koṇārka]] according to others 217n, 574n
+Bhāskarakṣetra, is Prayāga, according to some and Koṇārka according to others 217n, 574n
 
-[[Bhattācārya,|Bhaṭṭācārya,]] (explanation of what are mantras) 61, 268 (definition of [[suddhi).|śuddhi).]]
+Bhaṭṭācārya, (explanation of what are mantras) 61, 268 (definition of śuddhi).
 
-[[Bhattoji,|Bhaṭṭoji,]] 262n, 361, 372n, 519n, 520n, 521, 568n, 573, 609n
+Bhaṭṭoji, 262n, 361, 372n, 519n, 520n, 521, 568n, 573, 609n
 
-Bhavadeva, author of [[Prāyascittapra- karana|Prāyaścittaprakaraṇa]] 24
+Bhavadeva, author of Prāyaścittaprakaraṇa 24
 
 Bhaviṣyapurāṇa, 15, 19, 21, 39, 40, 50, 53, 54, 56, 88, 90, 91, 93, 94, 96n, 124, 129, 131, 163, 225, 361, 375, 380n, 381n, 382n, 391, 396, 402, 413n, 468n, 478, 528, 529, 530, 531, 532n, 536, 541, 586, 587
 
 Bhaviṣyottara-purāṇa, 540n
 
-[[Bhīsma,|Bhīṣma,]] story of, who waited for [[Utta- rāyana|Uttarāyaṇa]] as the proper time for death, is eulogistic of arcirādi path and not to be taken literally 188, 189; popular belief that death in [[Utta- rāyana|Uttarāyaṇa]] is best still persists 189
+Bhīṣma, story of, who waited for Uttarāyaṇa as the proper time for death, is eulogistic of arcirādi path and not to be taken literally 188, 189; popular belief that death in Uttarāyaṇa is best still persists 189
 
-[[Bhrgu,|Bhṛgu,]] [[smrti|smṛti]] of, 290n, 409, 546
+Bhṛgu, smṛti of, 290n, 409, 546
 
-[[Bhrgus,|Bhṛgus,]] a class of [[pitrs|pitṛs]] 192
+Bhṛgus, a class of pitṛs 192
 
 [[P843]]Birth, good or evil future b. depends on good or evil conduct in this life 158
 
@@ -356,83 +355,83 @@ Bombay Act 35 of 1947, 320
 
 Bombay Gazetteer volumes 303n, 571n, 686, 705n, 709, 710, 713, 714, 715, 721
 
-Boy, whose upanayana has not been performed and who drinks madya through foolishness may undergo expiation through a pratinidhi (brother, father, friend), when he is himself unable to do so or is between the ages of 5 to 11, 98; whose upanayana was not performed was not to repeat Vedic mantras except the mantras that are required for the funeral rites and [[srāddha|śrāddha]] of his father or mother 258
+Boy, whose upanayana has not been performed and who drinks madya through foolishness may undergo expiation through a pratinidhi (brother, father, friend), when he is himself unable to do so or is between the ages of 5 to 11, 98; whose upanayana was not performed was not to repeat Vedic mantras except the mantras that are required for the funeral rites and śrāddha of his father or mother 258
 
-[[Brahma,|Brahmā,]] is said to have created in the beginning four classes, viz. gods, asuras, [[pitrs|pitṛs]] and men 342
+Brahmā, is said to have created in the beginning four classes, viz. gods, asuras, pitṛs and men 342
 
 Brahmabandhu, six kinds of 400
 
-Brahmacārin, had to observe [[asauca|āśauca]] for three days after he returned from his guru for all relatives that died during the period of his [[student hood|student-hood]] 298; [[prāyascitta|prāyaścitta]] for having sexual intercourse 112-113; is styled [[avakīrnin,|avakīrṇin,]] if he has sexual intercourse 112; may carry the corpse of his parents, maternal grandfather, upādhyāya and ācārya and perform funeral rites for them, but if another adhikārin is available he should not do so 260, 298; on death of, [[sapindas|sapiṇḍas]] had to observe [[asauca|āśauca]] 305; should not give up vedic studies and vratas even on death of parents 298
+Brahmacārin, had to observe āśauca for three days after he returned from his guru for all relatives that died during the period of his student-hood 298; prāyaścitta for having sexual intercourse 112-113; is styled avakīrṇin, if he has sexual intercourse 112; may carry the corpse of his parents, maternal grandfather, upādhyāya and ācārya and perform funeral rites for them, but if another adhikārin is available he should not do so 260, 298; on death of, sapiṇḍas had to observe āśauca 305; should not give up vedic studies and vratas even on death of parents 298
 
-Brahmamedha, procedure of, employed only for an ācārya or śrotriya and the mantras called [[caturhotārah|caturhotāraḥ]] were recited therein 254
+Brahmamedha, procedure of, employed only for an ācārya or śrotriya and the mantras called caturhotāraḥ were recited therein 254
 
-Brahmāvarta, country between [[Sara svatī|Sarasvatī]] and [[Drsadvatī|Dṛṣadvatī]] 557n
+Brahmāvarta, country between Sarasvatī and Dṛṣadvatī 557n
 
-[[Brāhmana,|Brāhmaṇa,]] āhitāgni may, if his wife dies, marry again and establish fresh sacred fires or remain a widower and perform his Agnihotra with an effigy of the dead wife made of gold or kuśa grass 225-226; all deities reside in b. who knows the veda 488; becomes unfit for invitation at [[srāddha|śrāddha]] by practising medicine, by teaching dancing or by going on the stage 14n; carrying the dead body of a person who is not a [[sapinda|sapiṇḍa]] or carrying dead body of his mother's [[sapindas|sapiṇḍas]] became pure after three days 289; could be liable to death as [[prāyascitta|prāyaścitta]] for a heinous sin, though not as punishment 73; could perform as pratinidhi of women and [[sudras|śūdras]] homa in ordinary fire 78; one drinking surā intentionally had to undergo an expiation viz. drinking boiling milk, cow-urine, water, which ended in death 96; expiation for threatening to beat or strike a b. 96; [[figbting|fighting]] for saving a brāhmaṇa's life or for saving twelve cows as expiation for murder of b. 93; following the funeral procession of a [[brāhmana,|brāhmaṇa,]] [[ksatriya|kṣatriya]] or [[vaisya|vaiśya]] or śūdra had to undergo a bath and also [[asauca|āśauca]] and expiation in the last three cases 290; general rule that [[prāyas citta|prāyaścitta]] for intentional murder of b. was to end in death 88; guilty of grave sins committed intentionally was to be banished but was allowed to take his wealth with him and if guilty of the same unintentionally to be punished with middle [[namerce. ment|amercement]] 72; guilty of [[thell|theft]] was to go to a king with an iron [[elab|club]] and ask him to smash his head as [[panish. soment|punishment]] 73; invited for [[sraddha|śrāddha]] should
+Brāhmaṇa, āhitāgni may, if his wife dies, marry again and establish fresh sacred fires or remain a widower and perform his Agnihotra with an effigy of the dead wife made of gold or kuśa grass 225-226; all deities reside in b. who knows the veda 488; becomes unfit for invitation at śrāddha by practising medicine, by teaching dancing or by going on the stage 14n; carrying the dead body of a person who is not a sapiṇḍa or carrying dead body of his mother's sapiṇḍas became pure after three days 289; could be liable to death as prāyaścitta for a heinous sin, though not as punishment 73; could perform as pratinidhi of women and śūdras homa in ordinary fire 78; one drinking surā intentionally had to undergo an expiation viz. drinking boiling milk, cow-urine, water, which ended in death 96; expiation for threatening to beat or strike a b. 96; [[figbting|fighting]] for saving a brāhmaṇa's life or for saving twelve cows as expiation for murder of b. 93; following the funeral procession of a brāhmaṇa, kṣatriya or vaiśya or śūdra had to undergo a bath and also āśauca and expiation in the last three cases 290; general rule that prāyaścitta for intentional murder of b. was to end in death 88; guilty of grave sins committed intentionally was to be banished but was allowed to take his wealth with him and if guilty of the same unintentionally to be punished with middle [[namerce. ment|amercement]] 72; guilty of [[thell|theft]] was to go to a king with an iron [[elab|club]] and ask him to smash his head as [[panish. soment|punishment]] 73; invited for śrāddha should
 
-[[P844]]not refuse and after accepting invitation if he breaks the promise incurs sin 410; killing a b. woman is upapātaka except in two cases acc. to Manu and [[Yaj.|Yāj.]] 18; one killing one's own parent, brother, teacher of veda, or a [[brāhmana|brāhmaṇa]] who has studied the veda or kept vedic fires had to undergo expiation till death 94; Manu speaks of 13 [[prāyascittas|prāyaścittas]] for murder of b. 88-93; Manu first prescribes twelve years of begging alms, carrying a bone in [[band|hand]] and on a staff 88; murder of, gravest of sins 10; not to be punished with death for any crime or sin but may be banished 31; [[prayascitta,|prāyaścitta,]] extent of, when taken once for all for several murders of b. 90; [[prayascitta|prāyaścitta]] for murder of a person who is a [[brāhmana|brāhmaṇa]] without vedic learning 93; rules about a b. staying in the house of one dying or partaking of food there 289; should not violate, even when a knower of brahmavidyā, the injunction against eating unclean food when there is no distress or danger to life 100; three causes of a person being called a [[brāhmana|brāhmaṇa]] are tapas, vedic learning and birth from [[brahmana|brāhmaṇa]] parents according to the Mahābhāṣya 400; twelve years vrata as [[prayascitta|prāyaścitta]] for unintentional [[brahmana|brāhmaṇa]] murder 90; twenty-four years vrata for intentional b. murder 90; vedic sacrifices of [[Aśva medha,|Aśvamedha,]] Gosava, Abhijit, Viśvajit or [[Agniṣtut|Agniṣṭut]] as expiation for murder of b. 91; weeping with the family of a deceased person who is not a [[sapinda|sapiṇḍa]] or who belonged to another [[varna|varṇa]] had to undergo varying periods of [[asauca|āśauca]] and purifications which depended on the fact whether he went before or after the collection of bones 290; b. whether could be killed in self-defence 19-20; who drinks surā prepared from raw sugar, flour and honey should undergo [[Taptakrccha,|Taptakṛccha,]] Parāka and [[Cāndrāyana|Cāndrāyaṇa]] respectively, acc. to [[Brhaspati|Bṛhaspati]] 97; who drinks any intoxicant (except surā prepared from flour) had to undergo light expiation 97; who has studied the veda and is afflicted with bodily defects (which ordinarily exclude him from a row of diners) is acc. to Yama a [[panktipāvana|paṅktipāvana]] 401; who remembers the [[Rgveda|Ṛgveda]] studied by him is not tainted by any guilt 47
+[[P844]]not refuse and after accepting invitation if he breaks the promise incurs sin 410; killing a b. woman is upapātaka except in two cases acc. to Manu and Yāj. 18; one killing one's own parent, brother, teacher of veda, or a brāhmaṇa who has studied the veda or kept vedic fires had to undergo expiation till death 94; Manu speaks of 13 prāyaścittas for murder of b. 88-93; Manu first prescribes twelve years of begging alms, carrying a bone in [[band|hand]] and on a staff 88; murder of, gravest of sins 10; not to be punished with death for any crime or sin but may be banished 31; prāyaścitta, extent of, when taken once for all for several murders of b. 90; prāyaścitta for murder of a person who is a brāhmaṇa without vedic learning 93; rules about a b. staying in the house of one dying or partaking of food there 289; should not violate, even when a knower of brahmavidyā, the injunction against eating unclean food when there is no distress or danger to life 100; three causes of a person being called a brāhmaṇa are tapas, vedic learning and birth from brāhmaṇa parents according to the Mahābhāṣya 400; twelve years vrata as prāyaścitta for unintentional brāhmaṇa murder 90; twenty-four years vrata for intentional b. murder 90; vedic sacrifices of Aśvamedha, Gosava, Abhijit, Viśvajit or Agniṣṭut as expiation for murder of b. 91; weeping with the family of a deceased person who is not a sapiṇḍa or who belonged to another varṇa had to undergo varying periods of āśauca and purifications which depended on the fact whether he went before or after the collection of bones 290; b. whether could be killed in self-defence 19-20; who drinks surā prepared from raw sugar, flour and honey should undergo Taptakṛccha, Parāka and Cāndrāyaṇa respectively, acc. to Bṛhaspati 97; who drinks any intoxicant (except surā prepared from flour) had to undergo light expiation 97; who has studied the veda and is afflicted with bodily defects (which ordinarily exclude him from a row of diners) is acc. to Yama a paṅktipāvana 401; who remembers the Ṛgveda studied by him is not tainted by any guilt 47
 
 [[Brabmakrccbra,|Brahmakṛcchra,]] an expiation 147
 
-Brahmakūrca, an expiation, 146-147; is same as pañcagavya acc. to some [[smrtis|smṛtis]] 147
+Brahmakūrca, an expiation, 146-147; is same as pañcagavya acc. to some smṛtis 147
 
-[[Brahmanasarvasva,|Brāhmaṇasarvasva,]] of [[Halayudha|Halāyudha]] 346n, 434n, 504, 506n
+Brāhmaṇasarvasva, of Halāyudha 346n, 434n, 504, 506n
 
-[[Brahmandapurana,|Brahmāṇḍapurāṇa,]] 114n, 168, 311, 342, 344, 347n, 348, 349, 351, 372, 374, 375, 378n, 388n, 389, 390, 391n, 392, 395n, 399n, 414, 415n, 417n, 420, 421n, 443n, 448, 457n, 458n, 460, 463, 471, 473n, 479n, 481, 484n, 531n, 539n, 540, 560, 578, 587, 590n, 593n, 600, 623, 685n, 689n, 708n, 712
+Brahmāṇḍapurāṇa, 114n, 168, 311, 342, 344, 347n, 348, 349, 351, 372, 374, 375, 378n, 388n, 389, 390, 391n, 392, 395n, 399n, 414, 415n, 417n, 420, 421n, 443n, 448, 457n, 458n, 460, 463, 471, 473n, 479n, 481, 484n, 531n, 539n, 540, 560, 578, 587, 590n, 593n, 600, 623, 685n, 689n, 708n, 712
 
-[[Brahmanda-dana,|Brahmāṇḍa-dāna,]] one of the 16 [[maha danas|mahādānas]] 166
+Brahmāṇḍa-dāna, one of the 16 mahādānas 166
 
-Brahmapurāṇa, 41n, 50, 51, 84n, 109, 127, 133, 139, 146, 152, 163, 164, 166, 170, 174, 176, 180, 214, 217, 222n, 223-225, 227, 255, 257, 265, 266, 271, 277, 296, 299, 301, 334, 337, 340, 348, 371n, 372, 374, 378-379, 381n, 385, 388n, 392, 411, 414-416, 421, 423, 440n, [[4410,|441n,]] 443n, 450n, 471, 473, 478, 479n, 481, 483, 518, 520, 528, 531n, 539n, 560n, 562n, 564, 567, 568, 570, [[512,|572,]] 573n, 582, 587, 592n, 595, 598, 608, 620, 622, 659, 688, 696, 699, 700, 702, 707, 708, 711; contains hymn to [[Visnu|Viṣṇu]] which when repeated was deemed to free a man from all sins 51; states that even when a person remembers [[Ji Viṣnu|Viṣṇu]] through roguery, he [[goedelo|goes to]] [[Viṣnuloka|Viṣṇuloka]] after death 51
+Brahmapurāṇa, 41n, 50, 51, 84n, 109, 127, 133, 139, 146, 152, 163, 164, 166, 170, 174, 176, 180, 214, 217, 222n, 223-225, 227, 255, 257, 265, 266, 271, 277, 296, 299, 301, 334, 337, 340, 348, 371n, 372, 374, 378-379, 381n, 385, 388n, 392, 411, 414-416, 421, 423, 440n, [[4410,|441n,]] 443n, 450n, 471, 473, 478, 479n, 481, 483, 518, 520, 528, 531n, 539n, 560n, 562n, 564, 567, 568, 570, [[512,|572,]] 573n, 582, 587, 592n, 595, 598, 608, 620, 622, 659, 688, 696, 699, 700, 702, 707, 708, 711; contains hymn to Viṣṇu which when repeated was deemed to free a man from all sins 51; states that even when a person remembers [[Ji Viṣnu|Viṣṇu]] through roguery, he [[goedelo|goes to]] Viṣṇuloka after death 51
 
-[[P845]][[Brahmarsi,|Brahmarṣi,]] defined 593n
+[[P845]]Brahmarṣi, defined 593n
 
-[[Brāhmanas,|Brāhmaṇas,]] dinner to be given to, in all [[religions|religious]] rites and at end of expiations 120-121; distinction has to be made between [[brahmanas hmanas who|brāhmaṇas who]] should not be invited at a [[srāddha|śrāddha]] because they are sagotras, bandhus, friends and those that are [[apankteya|apāṅkteya]] or [[panktidūsaka|paṅktidūṣaka]] 391-392; hailing from the countries of [[Anga, van Vanga,|Aṅga, Vaṅga,]] [[Kalinga,|Kaliṅga,]] [[Saurastra,|Saurāṣṭra,]] Gurjara, [[Konkana,|Koṅkaṇa,]] [[Dravida,|Draviḍa,]] Avanti, Magadha were declared in some purāṇas to be unfit to be invited at [[Sraddha|śrāddha]] 395-396; high ideal as to receiving gifts kept before, viz. that by frequent acceptance of gifts spiritual power acquired by learning is lost 116, 548-49; expiation prescribed by some texts for b. accepting gifts from [[ksatriyas|kṣatriyas]] and men of other castes except in the case of distress 116; feeding of, as a substitute for expiation 128; list of [[apānkteya|apāṅkteya]] [[brahmanas|brāhmaṇas]] in Manusmrti 392-394; not to accept gifts from kings that are parsimonious or act against [[sās tra|śāstra]] dictates 116; in distress allowed by Manu and Yāj. to take food from anyone, to accept a gift from anyone or teach anyone whatever 116; scrutiny of the learning and character of, recommended in case of rites to Gods and Manes, but not in making gifts 390; were not to sell certain things and animals such as sesame and oil of sesame, curds, salts, grapes, wine, cooked food &c. horses, bulls, elephants 116-117; who are [[apankteya brahmanas|apāṅkteya brāhmaṇas]] 391-392
+Brāhmaṇas, dinner to be given to, in all [[religions|religious]] rites and at end of expiations 120-121; distinction has to be made between [[brahmanas hmanas who|brāhmaṇas who]] should not be invited at a śrāddha because they are sagotras, bandhus, friends and those that are apāṅkteya or paṅktidūṣaka 391-392; hailing from the countries of [[Anga, van Vanga,|Aṅga, Vaṅga,]] Kaliṅga, Saurāṣṭra, Gurjara, Koṅkaṇa, Draviḍa, Avanti, Magadha were declared in some purāṇas to be unfit to be invited at [[Sraddha|śrāddha]] 395-396; high ideal as to receiving gifts kept before, viz. that by frequent acceptance of gifts spiritual power acquired by learning is lost 116, 548-49; expiation prescribed by some texts for b. accepting gifts from kṣatriyas and men of other castes except in the case of distress 116; feeding of, as a substitute for expiation 128; list of apāṅkteya brāhmaṇas in Manusmrti 392-394; not to accept gifts from kings that are parsimonious or act against śāstra dictates 116; in distress allowed by Manu and Yāj. to take food from anyone, to accept a gift from anyone or teach anyone whatever 116; scrutiny of the learning and character of, recommended in case of rites to Gods and Manes, but not in making gifts 390; were not to sell certain things and animals such as sesame and oil of sesame, curds, salts, grapes, wine, cooked food &c. horses, bulls, elephants 116-117; who are apāṅkteya brāhmaṇas 391-392
 
 Brahmasūtra, 9n
 
 Brahmavaivartapurāṇa, 163, 413, 469, 583n, 640
 
-Branding, in case of the first four [[mabāpātakas|mahāpātakas]] resorted to only if the guilty person did not undergo [[prayascitta|prāyaścitta]] 72
+Branding, in case of the first four [[mabāpātakas|mahāpātakas]] resorted to only if the guilty person did not undergo prāyaścitta 72
 
-[[Brhadaranyakopanisad|Bṛhadāraṇyakopaniṣad]] 12, 39, 53, 158, 165, 188, [[1890,|189n,]] 335, [[3420,|342n,]] 343, 344n, 449n, 543, 619
+Bṛhadāraṇyakopaniṣad 12, 39, 53, 158, 165, 188, [[1890,|189n,]] 335, [[3420,|342n,]] 343, 344n, 449n, 543, 619
 
-[[Brhad-devatā|Bṛhad-devatā]] 200n, 201n.
+Bṛhad-devatā 200n, 201n.
 
-[[Brhad-Visnu,|Bṛhad-Viṣṇu,]] 79n, 80n, 132
+Bṛhad-Viṣṇu, 79n, 80n, 132
 
-[[Brhad-yāvaka,|Bṛhad-yāvaka,]] 146
+Bṛhad-yāvaka, 146
 
-[[Brhad-Yama,|Bṛhad-Yama,]] 78, 79n, 81, 95, 98, 111n, 113, 123, 147, 294n, 392, 464n
+Bṛhad-Yama, 78, 79n, 81, 95, 98, 111n, 113, 123, 147, 294n, 392, 464n
 
-[[Brhadyogayātrā,|Bṛhadyogayātrā,]] 376n
+Bṛhadyogayātrā, 376n
 
-[[Brhan-Manu|Bṛhan-Manu]] 282n, 285n
+Bṛhan-Manu 282n, 285n
 
-[[Brban-naradiya-purana,|Bṛhan-nāradīya-purāṇa,]] see [[Nārada purāṇa|Nāradapurāṇa]]
+[[Brban-naradiya-purana,|Bṛhan-nāradīya-purāṇa,]] see Nāradapurāṇa
 
 [[Brbaspati,|Bṛhaspati,]] one of the vedic gods 352
 
-[[Brhaspati,|Bṛhaspati,]] [[smrti|smṛti]] of 18n, 25, 52, 60, [[610,|61n,]] 67, 69, 74, 79, 82, 97, 99, 104, [[106,|106n,]] 111, 119, 225, 270, 285, 292, 310, 313, 323, 332n, 351, 367, 381, 399n, 404, 440n, 447n, 457n, 459, 469, 470, 473, 475, 480, 503n, 506n, 524n, 530, 535, 539n, 541n, 569n, 570, 668n; emphasized the importance of usages of countries 82; laid down the famous rule that no decision should be given based merely on the words of the [[sastra|śāstra]] 67
+Bṛhaspati, smṛti of 18n, 25, 52, 60, [[610,|61n,]] 67, 69, 74, 79, 82, 97, 99, 104, [[106,|106n,]] 111, 119, 225, 270, 285, 292, 310, 313, 323, 332n, 351, 367, 381, 399n, 404, 440n, 447n, 457n, 459, 469, 470, 473, 475, 480, 503n, 506n, 524n, 530, 535, 539n, 541n, 569n, 570, 668n; emphasized the importance of usages of countries 82; laid down the famous rule that no decision should be given based merely on the words of the śāstra 67
 
-[[Br̥hat-Parasara|Bṛhat-Parāśara]] 286, 304, 364, 386, 392, 425n, 473,
+Bṛhat-Parāśara 286, 304, 364, 386, 392, 425n, 473,
 
-[[Br̥hat-sama,|Bṛhat-sāma,]] 46n, 450
+Bṛhat-sāma, 46n, 450
 
 [[Br̥hat-sambita,|Bṛhat-saṁhitā,]] 168
 
-[[Br̥hat-Saunaka,|Bṛhat-Śaunaka,]] 230
+Bṛhat-Śaunaka, 230
 
-Budge, [[E, A. W.|E. A. W.]] on Egyptian Heaven and Hell 170
+Budge, E. A. W. on Egyptian Heaven and Hell 170
 
-Buddha, date of [[Nirvana|Nirvāṇa]] of 645; relics of, were divided into parts and distributed among [[Ajatasatru,|Ajātaśatru,]] the Licchavis and others, who built stūpas over them 235
+Buddha, date of Nirvāṇa of 645; relics of, were divided into parts and distributed among Ajātaśatru, the Licchavis and others, who built stūpas over them 235
 
-Buddhacarita of [[Asvaghosa|Aśvaghoṣa]] 621, 646
+Buddhacarita of Aśvaghoṣa 621, 646
 
 Buddhists, religious rites for the dead among ancient 234
 
-Buddhism, principles of, were first proclaimed at Benares by [[Sakya muni|Śākyamuni]] 618
+Buddhism, principles of, were first proclaimed at Benares by Śākyamuni 618
 
-[[Būhler,|Bühler,]] Dr. G., author of Kashmir Report 724
+Bühler, Dr. G., author of Kashmir Report 724
 
 Burial, child when [[still DOLIT op|still-born or]] one that had not struck teeth was on death to be buried and not cremated
 
@@ -440,43 +439,43 @@ Burial, child when [[still DOLIT op|still-born or]] one that had not struck teet
 
 Caine, W. S., author of 'Picturesque India' 692, 712n
 
-Caitanya, great [[Vaisnava|Vaiṣṇava]] saint, settled at [[Puri|Purī]] and lived there for 18 years till his death in 1533 A. D. 702; is said to have converted the Gajapati king Pratāparudradeva to his new faith 702; visited [[Vrndāvana|Vṛndāvana]] 692; was worshipped along with [[Visnu|Viṣṇu]] at Jagannātha, being described as narabrahma while Jagannātha was said to be [[darubrahma|dārubrahma]] 702
+Caitanya, great Vaiṣṇava saint, settled at Purī and lived there for 18 years till his death in 1533 A. D. 702; is said to have converted the Gajapati king Pratāparudradeva to his new faith 702; visited Vṛndāvana 692; was worshipped along with Viṣṇu at Jagannātha, being described as narabrahma while Jagannātha was said to be dārubrahma 702
 
-Caitanyacandrodaya, a drama by [[Para- mānandadāsa|Paramānandadāsa]] 692, 700-701, 702
+Caitanyacandrodaya, a drama by Paramānandadāsa 692, 700-701, 702
 
-[[Caitanyacaritāmrta,|Caitanyacaritāmṛta,]] a poem by [[Para manandadāsa|Paramānandadāsa]] 692, 702
+Caitanyacaritāmṛta, a poem by Paramānandadāsa 692, 702
 
 Caland, Dr., author of 'Altindischer Ahnencult' 57, 58, 190, 231, 253n, 355, 435n, 439, 461n, 474
 
 Cambridge History of India 619, 688
 
-[[Candala,|Cāṇḍāla,]] sixteen castes were treated as, in matters of sight, touch, and speech 115
+Cāṇḍāla, sixteen castes were treated as, in matters of sight, touch, and speech 115
 
-[[Candrāyana,|Cāndrāyaṇa,]] derivation of word c. 134; divided into mukhya and [[gauna|gauṇa]] 136; five varieties of 135-136; is the [[prayascitta|prāyaścitta]] for all lapses for which no specific penance is prescribed in [[smrtis|smṛtis]] 135; may be undergone not as penance, but also for accumulating merit 35; prescribed as expiation for drinking any of the twelve excretions of the body or any of the several kinds of madya 99; prescribed as expiation for dining at a [[sraddha|śrāddha]] on the birth of a son or at a [[navasrāddha|navaśrāddha]] 388; prescribed as expiation for incest in certain cases 103; prescribed as expiation for [[apātrikarana|apātrīkaraṇa]] and [[sankarikarana|saṅkarīkaraṇa]] acts 118; procedure of, described in Gautama and others 137-138; rules about the size of the morsels to be taken in 137; sacrificial food to be employed in 138; [[samanya|sāmānya]] c. described 136; tonsure necessary if [[c,|c.]] undertaken as [[prāyascitta|prāyaścitta]] 137; two varieties of 134-135
+Cāndrāyaṇa, derivation of word c. 134; divided into mukhya and gauṇa 136; five varieties of 135-136; is the prāyaścitta for all lapses for which no specific penance is prescribed in smṛtis 135; may be undergone not as penance, but also for accumulating merit 35; prescribed as expiation for drinking any of the twelve excretions of the body or any of the several kinds of madya 99; prescribed as expiation for dining at a śrāddha on the birth of a son or at a navaśrāddha 388; prescribed as expiation for incest in certain cases 103; prescribed as expiation for apātrīkaraṇa and saṅkarīkaraṇa acts 118; procedure of, described in Gautama and others 137-138; rules about the size of the morsels to be taken in 137; sacrificial food to be employed in 138; sāmānya c. described 136; tonsure necessary if c. undertaken as prāyaścitta 137; two varieties of 134-135
 
-[[Caraka-samhita|Caraka-saṁhitā]] 175
+Caraka-saṁhitā 175
 
 Carrel, Dr. Alexis, author of 'Journey to Lourdes' 561
 
-[[Carvaka,|Cārvāka,]] 34; views of the followers of 1n
+Cārvāka, 34; views of the followers of 1n
 
-Caste, exclusiveness declared that a dvija even of bad character is to be honoured and not a [[sūdra|śūdra]] though of good character 85; excommunicated a sinner if he refused to perform [[prayascitta|prāyaścitta]] 76; one guilty of a sin or crime had to give in some cases a dinner to men of his c. 76; persons of 16 castes were treated as [[candalas|caṇḍālas]] as regards sight, touch or speech 115
+Caste, exclusiveness declared that a dvija even of bad character is to be honoured and not a śūdra though of good character 85; excommunicated a sinner if he refused to perform prāyaścitta 76; one guilty of a sin or crime had to give in some cases a dinner to men of his c. 76; persons of 16 castes were treated as caṇḍālas as regards sight, touch or speech 115
 
-[[Caturhotārah,|Caturhotāraḥ,]] mantras beginning with 'cittiḥ sruk' 230, 254
+Caturhotāraḥ, mantras beginning with 'cittiḥ sruk' 230, 254
 
-[[Caturvargacintamani,|Caturvargacintāmaṇi,]] of [[Hemadri|Hemādri]] 314n, 582; vide under Hemādri
+Caturvargacintāmaṇi, of Hemādri 314n, 582; vide under Hemādri
 
-[[Caturvimsatimata,|Caturviṁśatimata,]] 59n, 81, 85, 125n, 128, 143, 262n, 313, 361, 372n, 519n, 520n
+Caturviṁśatimata, 59n, 81, 85, 125n, 128, 143, 262n, 313, 361, 372n, 519n, 520n
 
-[[Chagaleya,|Chāgaleya,]] [[smrti|smṛti]] of 26, 64, 302, 525
+Chāgaleya, smṛti of 26, 64, 302, 525
 
-[[Chandogaparisista,|Chāndogapariśiṣṭa,]] (same as [[Gobhila smrti)|Gobhila-smṛti)]] 269n
+Chāndogapariśiṣṭa, (same as Gobhila-smṛti) 269n
 
-[[Chandogya-upaniṣad,|Chāndogya-upaniṣad,]] 8, 12, 20, 39, 42, 100, 158, 186-188, 232, 333, 449n, 613n, 681
+Chāndogya-upaniṣad, 8, 12, 20, 39, 42, 100, 158, 186-188, 232, 333, 449n, 613n, 681
 
 Chapekar, Mr. N. G. 551
 
-[[Chattopadhyaya,|Chaṭṭopādhyāya,]] Prof. [[Ksetreschandra|Kṣetreśacandra]] 556n, 608n
+Chaṭṭopādhyāya, Prof. [[Ksetreschandra|Kṣetreśacandra]] 556n, 608n
 
 Chaudhuri, Dr. J. B. 574n, 583
 
@@ -484,7 +483,7 @@ Childe, Prof. V. G., on disposal of corpses in Paleolithic, Neolithic and bronze
 
 Child, if dead, after upanayana [[Dway|was]] to be cremated with ordinary fire and the procedure was same as for [[abita gni|āhitāgni]] 228; before upanayana may do
 
-[[P847]]as it pleases as regards behaviour, speech and eating 98; death of, before the appearance of teeth or before [[cūdā|cūḍā]] entailed no [[āsauca|āśauca]] except undergoing a bath 298-299; various views as to cremation or burial of a child according to age or the performance of [[cūdākaraṇa|cūḍākaraṇa]] or upanayana 227-228
+[[P847]]as it pleases as regards behaviour, speech and eating 98; death of, before the appearance of teeth or before cūḍā entailed no āśauca except undergoing a bath 298-299; various views as to cremation or burial of a child according to age or the performance of cūḍākaraṇa or upanayana 227-228
 
 Christ, gave model prayer to his disciples for daily bread, forgiveness of sins and deliverance from evil 38n
 
@@ -498,9 +497,9 @@ Clothes, purification of 330-331; purification of c. extremely polluted 330; sil
 
 Confession, as a means of removing the effects of sins 40-41; in Christianity 41
 
-Conflict, in case of, among [[smrtis|smṛtis]] and [[purānas|purāṇas]] one should follow the usage of one's country, Vedic [[sākhā|śākhā]] or family 519
+Conflict, in case of, among smṛtis and purāṇas one should follow the usage of one's country, Vedic śākhā or family 519
 
-Conversion, see under [[suddhi;|śuddhi;]] to Hindu fold made by performing [[Vrtyastoma|Vrātyaṣṭoma]] in ancient times 118
+Conversion, see under śuddhi; to Hindu fold made by performing [[Vrtyastoma|Vrātyaṣṭoma]] in ancient times 118
 
 Converts, re-admission of Hindus forcibly made converts by Mlecchas 117
 
@@ -508,7 +507,7 @@ Cooking food, for oneself only, condemned as an upapātaka 34
 
 Corinthians 171
 
-Corn, kinds of, recommended for use in [[srāddha|śrāddha]] 413-414; cereals that were forbidden in [[srāddha|śrāddha]] 414-415
+Corn, kinds of, recommended for use in śrāddha 413-414; cereals that were forbidden in śrāddha 414-415
 
 Corporal punishment to be moderate 19
 
@@ -516,15 +515,15 @@ Corpus Inscriptionum Indicarum, vol. I p. 696; vol. III p. 705
 
 Coulton, G. G., author of 'Five centuries of religion' 52n
 
-Country, extent of, varied from age to age 682n; what circumstances make one country distinct from another ([[deśāntara|deśāntara)]] 285-286
+Country, extent of, varied from age to age 682n; what circumstances make one country distinct from another (deśāntara) 285-286
 
-Cow, gift of, came to be the substitute for many expiations 127; gift of cow called [[Vaitaranī|Vaitaraṇī]] 545; gift of one cow in lieu of Prājāpatya, of two cows for [[Sāntapana|Sāṁtapana]] &c 128; gold or money as a substitute for gift of cows in [[prāyascitta|prāyaścitta]] 127-128; legend about the reason why kapilā cow is the best 545; prices of, in medieval times in India 129; procedure of gift of a cow on 2nd day after [[āsauca|āśauca]] ends 545
+Cow, gift of, came to be the substitute for many expiations 127; gift of cow called Vaitaraṇī 545; gift of one cow in lieu of Prājāpatya, of two cows for [[Sāntapana|Sāṁtapana]] &c 128; gold or money as a substitute for gift of cows in prāyaścitta 127-128; legend about the reason why kapilā cow is the best 545; prices of, in medieval times in India 129; procedure of gift of a cow on 2nd day after āśauca ends 545
 
-Cremation, see under 'effigy', 'death', 'burial', 'fires', 'dead bodies', 'funeral rites', 'sacrifice', 'tonsure'; acc. to [[Brahmapurāna|Brahmapurāṇa]] great noise should be made with four kinds of musical instruments when taking a corpse for 217; at end of c. relatives take a bath, offer water to deceased and on entering house touch a stone, a bull, fire, cowdung, fried barley 210; bamboo staff with a bundle of grass at its top was carried to cremation ground acc. to Kāt. Śr. 205n; bath for all relatives on mother's and father's side up to 7th degree (except for a child less than one year old) necessary on c. 211; brahmacārin was not to carry
+Cremation, see under 'effigy', 'death', 'burial', 'fires', 'dead bodies', 'funeral rites', 'sacrifice', 'tonsure'; acc. to Brahmapurāṇa great noise should be made with four kinds of musical instruments when taking a corpse for 217; at end of c. relatives take a bath, offer water to deceased and on entering house touch a stone, a bull, fire, cowdung, fried barley 210; bamboo staff with a bundle of grass at its top was carried to cremation ground acc. to Kāt. Śr. 205n; bath for all relatives on mother's and father's side up to 7th degree (except for a child less than one year old) necessary on c. 211; brahmacārin was not to carry
 
-[[P848]]the dead body of a person or relative except of [[bis|his]] own parents or of guru or ācārya 214; brahmacārin carrying dead body of a person other than that of a parent or guru had to undergo expiation for vratalopa 215; carrying the dead body of a [[brāhmana|brāhmaṇa]] who is poor and without relatives is highly extolled as equal to a sacrifice at each step 215; cow or goat was taken to c. ground with its left fore-foot tied with a rope, was killed and corpse covered with its body 206; corpse should be first bathed and then cremated but not naked 216; dead body was not to be carried through a village when being taken for c. 216; dead body was carried to c. ground in a cart drawn by oxen acc. to Atharvaveda or by men, acc. to [[Sat.|Śat.]] [[Sr.|Śr.]] 205n, 206, 212; duty to carry dead body is on the [[sapindas|sapiṇḍas]] of the deceased 215; dvija not to carry the dead body of a [[sūdra|śūdra]] 214; fuel for the pyre was not to be carried by [[sūdras|śūdras]] if deceased was dvija but if so carried the pyre should be made by the castemen only 216; ground for c. to be open on all sides 205; how relatives are to act and show grief after c. 211; long list of persons who should not be cremated 223; [[Mitāksarā|Mitākṣarā]] prescribes that if a [[brāhmana|brāhmaṇa]] carries a [[sūdra's|śūdra's]] corpse the period of impurity for a [[brāhmana|brāhmaṇa]] is a month but if a [[sūdra|śūdra]] has to carry the corpse of a [[brā- hmana|brāhmaṇa]] the impurity is only for ten days 216; c. of bones of āhitāgni, if he died away from home 223; c. of effigy if a man gone to a distant land is unheard of for 12 or 15 years 225; c. of sacrificer with sacrificial implements is [[pratipatti- karma|pratipattikarma]] of the implements 208n, 334n; parts of the body on which the several sacrificial implements are placed at time of c. 207-208; performer of c. rites had to undergo tonsure as an [[anga|aṅga]] (ancillary part) 217; procedure of c. in modern times follows that in Āśv. [[gr|gṛ]] and in [[Garudapurāna|Garuḍapurāṇa]] 212; procedure of, from [[Antyesti- paddhati,|Antyeṣṭipaddhati,]] which is now followed by [[Rgvedins|Ṛgvedins]] in Western India 212-214; procedure where a man returns alive after his effigy is cremated under the belief that he was dead 225; rites of, described frequently in Mahābhārata and sometimes in [[Rāmāyana|Rāmāyaṇa]] 223; rites of an effigy made with 360 [[palāsa|palāśa]] leaves bound with yava flour and woollen thread, if even the bones of the deceased could not be found 224; Romans regarded c. as honourable way of the disposal of the dead body and reserved burial for murderers and those guilty of suicide 233; rules about periods of impurity on carrying dead body and staying with and eating the food of the family of the deceased 215-216; rules about impurity on carrying a dead body for a fee or from an interested motive 216; rules about selection of site for 204n, 205; rules about who were to carry the dead body to c. ground 214-215; rules for those who, not being relatives carry a dead body to c. such as taking bath, touching and drinking ghee 215; sacrificial fires and vessels of āhitāgni are carried to c. ground 206-208; small pieces of gold or drops of clarified butter are cast on seven vital parts of the corpse 207n; special rules for c. of women dying in or immediately after child-birth or while in monthly illness 231; [[sūdras|śūdras]] not to carry the dead body of a dvija if members of the deceased's [[varna|varṇa]] are available 214; to be carried out at a
+[[P848]]the dead body of a person or relative except of [[bis|his]] own parents or of guru or ācārya 214; brahmacārin carrying dead body of a person other than that of a parent or guru had to undergo expiation for vratalopa 215; carrying the dead body of a brāhmaṇa who is poor and without relatives is highly extolled as equal to a sacrifice at each step 215; cow or goat was taken to c. ground with its left fore-foot tied with a rope, was killed and corpse covered with its body 206; corpse should be first bathed and then cremated but not naked 216; dead body was not to be carried through a village when being taken for c. 216; dead body was carried to c. ground in a cart drawn by oxen acc. to Atharvaveda or by men, acc. to Śat. Śr. 205n, 206, 212; duty to carry dead body is on the sapiṇḍas of the deceased 215; dvija not to carry the dead body of a śūdra 214; fuel for the pyre was not to be carried by śūdras if deceased was dvija but if so carried the pyre should be made by the castemen only 216; ground for c. to be open on all sides 205; how relatives are to act and show grief after c. 211; long list of persons who should not be cremated 223; Mitākṣarā prescribes that if a brāhmaṇa carries a śūdra's corpse the period of impurity for a brāhmaṇa is a month but if a śūdra has to carry the corpse of a brāhmaṇa the impurity is only for ten days 216; c. of bones of āhitāgni, if he died away from home 223; c. of effigy if a man gone to a distant land is unheard of for 12 or 15 years 225; c. of sacrificer with sacrificial implements is pratipattikarma of the implements 208n, 334n; parts of the body on which the several sacrificial implements are placed at time of c. 207-208; performer of c. rites had to undergo tonsure as an aṅga (ancillary part) 217; procedure of c. in modern times follows that in Āśv. gṛ and in Garuḍapurāṇa 212; procedure of, from Antyeṣṭipaddhati, which is now followed by Ṛgvedins in Western India 212-214; procedure where a man returns alive after his effigy is cremated under the belief that he was dead 225; rites of, described frequently in Mahābhārata and sometimes in Rāmāyaṇa 223; rites of an effigy made with 360 palāśa leaves bound with yava flour and woollen thread, if even the bones of the deceased could not be found 224; Romans regarded c. as honourable way of the disposal of the dead body and reserved burial for murderers and those guilty of suicide 233; rules about periods of impurity on carrying dead body and staying with and eating the food of the family of the deceased 215-216; rules about impurity on carrying a dead body for a fee or from an interested motive 216; rules about selection of site for 204n, 205; rules about who were to carry the dead body to c. ground 214-215; rules for those who, not being relatives carry a dead body to c. such as taking bath, touching and drinking ghee 215; sacrificial fires and vessels of āhitāgni are carried to c. ground 206-208; small pieces of gold or drops of clarified butter are cast on seven vital parts of the corpse 207n; special rules for c. of women dying in or immediately after child-birth or while in monthly illness 231; śūdras not to carry the dead body of a dvija if members of the deceased's varṇa are available 214; to be carried out at a
 
-[[P849]]sacred spot or at least after invo- king the presence of [[tirthas|tīrthas]] like the Ganges in the water to be used for washing dead body 217; tonsure necessary in, on first day of death and also after end of impurity acc. to Madanapārijāta, others holding that it depends upon the usage of each country 218; varying views about the distribution of leaves to represent different parts of the body when an effigy is cremated 224-225; weeping permitted when body is burning, but none after cremation is finished and water is offered 218; wife of deceased made to lie down on wood pile arranged on c. ground and then made to rise up 207; wife of āhitāgni dying before him had c. performed with his vedic fires and sacrificial implements 225
+[[P849]]sacred spot or at least after invo- king the presence of tīrthas like the Ganges in the water to be used for washing dead body 217; tonsure necessary in, on first day of death and also after end of impurity acc. to Madanapārijāta, others holding that it depends upon the usage of each country 218; varying views about the distribution of leaves to represent different parts of the body when an effigy is cremated 224-225; weeping permitted when body is burning, but none after cremation is finished and water is offered 218; wife of deceased made to lie down on wood pile arranged on c. ground and then made to rise up 207; wife of āhitāgni dying before him had c. performed with his vedic fires and sacrificial implements 225
 
 Cremation Act, passed in 1902 in England 233
 
@@ -534,89 +533,89 @@ Cunningham, General, on 'Mahābodhi' 643; on 'Ancient Geography of India' 683n, 
 
 Cyavana, 18, 23, 80n
 
-[[Dadhikrcchra,|Dadhikṛcchra,]] described 140
+Dadhikṛcchra, described 140
 
-[[Daksa,|Dakṣa,]] [[smrti|smṛti]] of 34n, 53, 94, 119, 122, 220n, 267, 269-271, 274, 288, 295, 306, 307, 310, 417
+Dakṣa, smṛti of 34n, 53, 94, 119, 122, 220n, 267, 269-271, 274, 288, 295, 306, 307, 310, 417
 
-[[Daksinā,|Dakṣiṇā,]] (fee or gift) to be given to [[brāhmanas|brāhmaṇas]] at the end of all [[prāya- ścittas|prāyaścittas]] 121; to be given towards end of [[srāddha|śrāddha]] rite 446, 451, 501
+Dakṣiṇā, (fee or gift) to be given to brāhmaṇas at the end of all prāyaścittas 121; to be given towards end of śrāddha rite 446, 451, 501
 
-[[Daksināgni,|Dakṣiṇāgni,]] homa in several [[srāddhas|śrāddhas]] by Agnihotrins performed in 461-462
+Dakṣiṇāgni, homa in several śrāddhas by Agnihotrins performed in 461-462
 
 Dānas, see under 'gifts'; in making dānas at death Kāmastuti is to be recited 184
 
-Dānavākyāvalī, of Queen [[Dhīramatī|Dhīramati]] 583n
+Dānavākyāvalī, of Queen Dhīramati 583n
 
-[[Dandakāranya,|Daṇḍakāraṇya,]] 745; that part of it through which the Godāvarī flows is most holy 708
+Daṇḍakāraṇya, 745; that part of it through which the Godāvarī flows is most holy 708
 
-[[Dandaviveka,|Daṇḍaviveka,]] of Vardhamāna 71
+Daṇḍaviveka, of Vardhamāna 71
 
 Dandekar, Dr. R. N. 160n
 
 Daradas, placed the bodies of dead relatives on trees 234
 
-Darbhas, sprang from the hair and perspiration of [[Visnu|Viṣṇu]] in the Boar incarnation 418
+Darbhas, sprang from the hair and perspiration of Viṣṇu in the Boar incarnation 418
 
-[[Darśapūrnamāsa,|Darśapūrṇamāsa,]] sacrifice to be offered by him who desires heaven 168
+Darśapūrṇamāsa, sacrifice to be offered by him who desires heaven 168
 
-[[Dasagvas,|Daśagvas,]] a sub-division of [[pitrs|pitṛs]] called [[Angirases|Aṅgirases]] 192n; identified with seven sages 341
+Daśagvas, a sub-division of pitṛs called Aṅgirases 192n; identified with seven sages 341
 
-[[Dasahotārah,|Daśahotāraḥ,]] 230n
+Daśahotāraḥ, 230n
 
 Datta, Dr. B. N. on 'Vedic funeral customs and Indus Valley Culture' 241
 
 Day, divided into two, three or five or fifteen parts 376
 
-Dāyabhāga, 22n, 366, 404, 483n, 510; theory of, about [[sapinda|sapiṇḍa]] 510
+Dāyabhāga, 22n, 366, 404, 483n, 510; theory of, about sapiṇḍa 510
 
 Dāyatattva, 366n, 368n
 
 De, Prof. S. K., author of 'Vaiṣṇava faith and movement in Bengal' 692, 702, 718
 
-Dead, bodies, disposal of, in ancient India had four stages, cremation, collecting charred bones and depositing underground in an urn, [[Sānti- karma,|Śāntikarma,]] erection of a monument over the urn 255; embalming of, not unknown in ancient India 233; general [[ruie|rule]] in India of cremation of, from the times of the oldest literary monuments 232; methods of disposal differed at different times and among different peoples 231-232; preserved in caves, as in Rome 232n; cult of the dead, prominent feature in primitive societies 339
+Dead, bodies, disposal of, in ancient India had four stages, cremation, collecting charred bones and depositing underground in an urn, Śāntikarma, erection of a monument over the urn 255; embalming of, not unknown in ancient India 233; general [[ruie|rule]] in India of cremation of, from the times of the oldest literary monuments 232; methods of disposal differed at different times and among different peoples 231-232; preserved in caves, as in Rome 232n; cult of the dead, prominent feature in primitive societies 339
 
-Death, see under 'man', [['vratodyā- pana',|'vratodyāpana',]] 'soul'; attitudes towards d. by men 180; generally looked upon with awe and terror 179; causes of premature 180; in [[Uttarāyana|Uttarāyaṇa]] best 187; if date of death of a man dying in a distant land is not known,
+Death, see under 'man', 'vratodyāpana', 'soul'; attitudes towards d. by men 180; generally looked upon with awe and terror 179; causes of premature 180; in Uttarāyaṇa best 187; if date of death of a man dying in a distant land is not known,
 
-[[P850]]then certain tithis had to be accepted as the dates of his d. and [[sraddha|śrāddha]] performed on those dates 306; indications of the immediate approach of 181; of son, pupil or wife due to corporal punishment no sin, when punishment moderate 19; man near death should be made to give gifts 182; rites after (see funeral rights); rites after [[ūrst|first]] day of cremation and collection of bones begin in modern times on 10th day after d. 263; signs indicative of the approach of 181; sentence of death for theft, carried out by [[cāndālas|caṇḍālas]] 74; times when it is best to die 187-188; to whom d. is happy and easy 180; terror of death was due to several causes 179; three classes of rites after death, acc. to [[Viṣnupurāṇa|Viṣṇupurāṇa]] 261; various views even among those who say there is survival after d. 180; was presumed after a man was unheard of for 12 or 15 or 20 years and effigy was cremated and [[āsauca|āśauca]] observed 225, 256; d. while treating a brāhmaṇa or a cow medically does not amount to sin 109; worst indications of the approach of death are not being able to hear humming sound in the ear when closed with fingers and not being able to see the light in the eye 181
+[[P850]]then certain tithis had to be accepted as the dates of his d. and śrāddha performed on those dates 306; indications of the immediate approach of 181; of son, pupil or wife due to corporal punishment no sin, when punishment moderate 19; man near death should be made to give gifts 182; rites after (see funeral rights); rites after [[ūrst|first]] day of cremation and collection of bones begin in modern times on 10th day after d. 263; signs indicative of the approach of 181; sentence of death for theft, carried out by caṇḍālas 74; times when it is best to die 187-188; to whom d. is happy and easy 180; terror of death was due to several causes 179; three classes of rites after death, acc. to Viṣṇupurāṇa 261; various views even among those who say there is survival after d. 180; was presumed after a man was unheard of for 12 or 15 or 20 years and effigy was cremated and āśauca observed 225, 256; d. while treating a brāhmaṇa or a cow medically does not amount to sin 109; worst indications of the approach of death are not being able to hear humming sound in the ear when closed with fingers and not being able to see the light in the eye 181
 
-Debts, see 'father'; one of the fundamental conceptions of the Hindu faith [[bas|has]] been the idea of d. owed to sages, Gods and [[pitrs|pitṛs]] 550; whoever took the estate of a man had to pay latter's d. 570
+Debts, see 'father'; one of the fundamental conceptions of the Hindu faith [[bas|has]] been the idea of d. owed to sages, Gods and pitṛs 550; whoever took the estate of a man had to pay latter's d. 570
 
 Decalogue, 11n
 
-Deceased, goat was carried along with the body of 196; parts of the body of, such as eye, breath were sup posed to merge in the sun, wind 196; does not become free from condition of being a preta till navaśrāddhas are performed 263; [[pindas|piṇḍas]] offered for ten days after death built up a subtle body for the departed 263
+Deceased, goat was carried along with the body of 196; parts of the body of, such as eye, breath were sup posed to merge in the sun, wind 196; does not become free from condition of being a preta till navaśrāddhas are performed 263; piṇḍas offered for ten days after death built up a subtle body for the departed 263
 
 Defamation, fines or punishment for, depended upon the caste of the offender as well as of the person defamed 81
 
 Deśas, holy, are all mountains, all rivers, lakes, places of pilgrimage, the dwellings of sages, cowpens and temples 560
 
-[[Devakrcchrā,|Devakṛcchra,]] 140-141
+Devakṛcchra, 140-141
 
 Devala, 11n, 24, 26, 29, 53, 55, 64, 70, 75, 77n, 78, 79n, 81n, 86, 90, 108, 115, 117, 119, 132n, 133, 138, 142, 143, 147, 149, 151, 181, 210, 215, 217n, 267, 276, 283, 284, 292, 295n, 298n, 314, 317, 318, 322, 327, 339, 352, 383n, 384n, 394n, 405, 415, 446n, 453n, 469, 478, 483, 484, 514, 535, 542n, 559, 584, 593n.
 
-Devapāla, commentator of [[Kāthaka- grhya|Kāṭhakagṛhya]] (or [[Laugāksigrbya)|Laugākṣigṛhya)]] 53n, 140n, 358n, 359n,
+Devapāla, commentator of Kāṭhakagṛhya (or [[Laugāksigrbya)|Laugākṣigṛhya)]] 53n, 140n, 358n, 359n,
 
 Devāpi and [[Santanu|Śaṁtanu]] were brothers and sons of king Kuru 681.
 
-Devayājñika, commentator of [[Kātyāy- anaśrautasūtra|Kātyāyanaśrautasūtra]] 219, 568,
+Devayājñika, commentator of Kātyāyanaśrautasūtra 219, 568,
 
-Devayāna and [[pitryāna|pitṛyāna]] paths 198; described in the Gītā 188; explanation of the word 'light', 'day' 188; of hoary antiquity 189n;
+Devayāna and pitṛyāna paths 198; described in the Gītā 188; explanation of the word 'light', 'day' 188; of hoary antiquity 189n;
 
 Devī-Bhāgavata 712.
 
-[[Devīpurāna,|Devīpurāṇa,]] 560n, 578n, 616n,
+Devīpurāṇa, 560n, 578n, 616n,
 
-Dhāmas, four, viz. Badrīnāth, [[Jagan- nātha,|Jagannātha,]] Rāmeśvara and Dvārakā 678
+Dhāmas, four, viz. Badrīnāth, Jagannātha, Rāmeśvara and Dvārakā 678
 
 Dey, Nandolal, author of 'Geographical Dictionary of ancient and medieval India' 678n, 691n, 723-724
 
-[[Dhanada-krcchra|Dhanada-kṛcchra]] 141
+Dhanada-kṛcchra 141
 
-Dharma, body being the all-in-all (or only source) of d., should be saved by all efforts 127; is in its pristine glory in [[Krtayuga|Kṛtayuga]] and has four feet but loses one foot in each succeeding yuga 540n
+Dharma, body being the all-in-all (or only source) of d., should be saved by all efforts 127; is in its pristine glory in Kṛtayuga and has four feet but loses one foot in each succeeding yuga 540n
 
-[[Dharma-dvaita-nirnaya|Dharma-dvaita-nirṇaya]] 28n
+Dharma-dvaita-nirṇaya 28n
 
 Dharmapradīpa 482
 
-[[Dharmasāstra|Dharmaśāstra]] writers, very fond of divisions, sub-divisions and classifications and [[eleborate|elaborate]] rules on [[āsaūca|āśauca]]
+Dharmaśāstra writers, very fond of divisions, sub-divisions and classifications and [[eleborate|elaborate]] rules on āśauca
 
 [[P851]]307-308
 
@@ -624,23 +623,23 @@ Dharmasindhu, 219, 230, 258n, 259, 263, 275, 276, 282, 283, 284, 286, 287n, 288,
 
 Dhaumya 388, 473
 
-[[Dhavana,|Dhāvana,]] meaning of, in procedure of building up of a sepulchral mound acc. to [[Satyāsādha srauta|Satyāṣāḍha-śrauta]] 252, 253-255; now followed nowhere in India 254-255
+Dhāvana, meaning of, in procedure of building up of a sepulchral mound acc. to Satyāṣāḍha-śrauta 252, 253-255; now followed nowhere in India 254-255
 
-[[Dhruva-sraddha,|Dhruva-śrāddha,]] 517
+Dhruva-śrāddha, 517
 
-[[Didda,|Diddā,]] cruel but energetic queen of Kashmir 571
+Diddā, cruel but energetic queen of Kashmir 571
 
 Dikshit, S. K. on 'Mother Goddesses' 529n
 
 Dikshitar, Prof. V. R. Ramchandra, author of 'Purāṇa Index' 726
 
-Dīpakalikā, commentary on [[Yāj,|Yāj.,]] 18n, 96n, 105n, 134n, 142n, 163, 221n, 227n, 314n, 324n, 334n, 377n, 422n, 517n
+Dīpakalikā, commentary on Yāj., 18n, 96n, 105n, 134n, 142n, 163, 221n, 227n, 314n, 324n, 334n, 377n, 422n, 517n
 
-Diseases, evil, were said to be eight 394n; no complete agreement among [[smrtis|smṛtis]] as to what sins lead to which diseases 175; particular diseases removed by particular gifts 178; procedure of driving out disease by means of images of the sun and of the disease and offering worship to the images 178; were believed by ancient Indians and other peoples to be the consequences of sins 174-175;
+Diseases, evil, were said to be eight 394n; no complete agreement among smṛtis as to what sins lead to which diseases 175; particular diseases removed by particular gifts 178; procedure of driving out disease by means of images of the sun and of the disease and offering worship to the images 178; were believed by ancient Indians and other peoples to be the consequences of sins 174-175;
 
-Divākara, a. of [[Prāyascittamuktāvali|Prāyaścittamuktāvalī]] 15
+Divākara, a. of Prāyaścittamuktāvalī 15
 
-Divodāsa and Indra in the [[Rgveda|Ṛgveda]] 619; founded [[Vārānasī|Vārāṇasī]] on the northern bank of Gomatī 620; ruler of [[Kāsīs|Kāśīs]] 620; great-grandson of Dhanvantari king of [[Kāsīs|Kāśīs]] 620;
+Divodāsa and Indra in the Ṛgveda 619; founded Vārāṇasī on the northern bank of Gomatī 620; ruler of Kāśīs 620; great-grandson of Dhanvantari king of Kāśīs 620;
 
 Divodāsīya, 548n
 
@@ -648,11 +647,11 @@ Divyāvadāna, 235n
 
 Doctor, incurred no sin when patient died, though proper treatment given 19
 
-[[Drona,|Droṇa,]] a measure of capacity, generally held equal to four [[ādhakas|āḍhakas]] 330n
+Droṇa, a measure of capacity, generally held equal to four āḍhakas 330n
 
 Dvita, (see Ekata) 11
 
-Eclipse, eating during course of e. of sun or moon forbidden, but that applies only to the [[brāhmana|brāhmaṇa]] who eats, but not to the giver of food, who reaps good results thereby 375
+Eclipse, eating during course of e. of sun or moon forbidden, but that applies only to the brāhmaṇa who eats, but not to the giver of food, who reaps good results thereby 375
 
 Edgerton, Prof 182n
 
@@ -662,11 +661,11 @@ Egyptians, ideas of, about Heaven and Hell were similar to those of most ancient
 
 Ekabhakta, an [[exp'ation|expiation]] 132
 
-[[Ekāstakā,|Ekāṣṭakā,]] is the 8th tithi after full moon of month of Māgha 353-54; said to be the wife of the year 353-355
+Ekāṣṭakā, is the 8th tithi after full moon of month of Māgha 353-54; said to be the wife of the year 353-355
 
 Ekata, story of 11
 
-[[Ekoddista,|Ekoddiṣṭa,]] (see 'navaśrāddha', 'navamiśra') 516-520; is [[srāddha|śrāddha]] offered to one deceased person alone whereas in [[pārvanaśrāddha|pārvaṇaśrāddha]] three paternal ancestors are invoked 380, 516; is a modification of [[pārvanaśrāddha|pārvaṇaśrāddha]] 516; place of performing (not in the house) 520; points of difference between [[pārvanaśrāddha|pārvaṇaśrāddha]] and e 516-517; suitable words have to be substituted in mantras 517; to be performed every month for a deceased dvija till [[sapindīkaraṇa|sapiṇḍīkaraṇa]] 517; three kinds of, viz. nava, navamiśra and [[purāna|purāṇa]] 517; what are E. [[srāddhas|śrāddhas]] 520
+Ekoddiṣṭa, (see 'navaśrāddha', 'navamiśra') 516-520; is śrāddha offered to one deceased person alone whereas in pārvaṇaśrāddha three paternal ancestors are invoked 380, 516; is a modification of pārvaṇaśrāddha 516; place of performing (not in the house) 520; points of difference between pārvaṇaśrāddha and e 516-517; suitable words have to be substituted in mantras 517; to be performed every month for a deceased dvija till sapiṇḍīkaraṇa 517; three kinds of, viz. nava, navamiśra and purāṇa 517; what are E. śrāddhas 520
 
 Elliot and Dowson's 'History of India' 631, 632, 692n, 699
 
@@ -684,13 +683,13 @@ Epigraphia Indica, 52, 182n, 555, 572n, 580n, 634n, 636, 637, 639n, 685, 688, 68
 
 [[Eween,|Ewen,]] J. author of 'Benares, a handbook for visitors' 618
 
-Excommunication ([[Ghatasphota),|Ghaṭasphoṭa),]] process of 105
+Excommunication (Ghaṭasphoṭa), process of 105
 
 Expiation, for acts said to be equal to mahāpātakas is half of that for the latter 29-30
 
 Fa Hien, Chinese Traveller (399-413 A. D.) 235n, 650,
 
-Fast, vide 'upavāsa'; all religions (except Zoroastrianism) emphasize as a discipline the necessity of 54; f. for a day is the penance for omitting rites ordained by Veda or for neglecting duties of a snātaka 53; Gautama includes f. under tapas 52; Mlecchas even think highly of f., according to Mahābhārata 51; observer of, had to give up certain actions such as chewing tāmbūla 53; [[Sāntiparva|Śāntiparva]] says that merely emaciating body by f. is not tapas 54
+Fast, vide 'upavāsa'; all religions (except Zoroastrianism) emphasize as a discipline the necessity of 54; f. for a day is the penance for omitting rites ordained by Veda or for neglecting duties of a snātaka 53; Gautama includes f. under tapas 52; Mlecchas even think highly of f., according to Mahābhārata 51; observer of, had to give up certain actions such as chewing tāmbūla 53; Śāntiparva says that merely emaciating body by f. is not tapas 54
 
 Father, debts of, should be paid acc. to Yāj. by the sons or grandsons, even when they receive no ancestral property, but the great-grandson need not pay even the principal if he has received no ancestral property 366-367
 
@@ -698,35 +697,35 @@ Fergusson and Burgess, authors of 'Cave temples of India', 678n
 
 Fine, disposal by king of, imposed and recovered from one guilty of mortal sins 71
 
-Fires, disposal of, in the case of an āhitāgni, if he became patita or committed suicide in one of various ways 227; employed in the cremation of a widower, a widow, brahmacārin, unmarried girl, a boy whose upanayana was not performed or an ascetic 226; five fires are Gārhapatya, [[Ahavanīya,|Āhavanīya,]] [[Daksināgni,|Dakṣiṇāgni,]] [[Avasathya|Āvasathya]] (or Aupāsana) and Sabhya.
+Fires, disposal of, in the case of an āhitāgni, if he became patita or committed suicide in one of various ways 227; employed in the cremation of a widower, a widow, brahmacārin, unmarried girl, a boy whose upanayana was not performed or an ascetic 226; five fires are Gārhapatya, Āhavanīya, Dakṣiṇāgni, Āvasathya (or Aupāsana) and Sabhya.
 
 Fire-temple, called Jvālājī near Baku 118
 
 Fleet, Dr. 235n, 634n, 706
 
-Flesh-eating, at [[srāddhas|śrāddhas]] by [[brāhmanas|brāhmaṇas]] 424; [[Mitāksarā|Mitākṣarā]] and Kalpataru written about 1100-1120 A.D. do not expressly say that flesh-eating is forbidden in the Kali age 424; [[Vasistha|Vasiṣṭha]] and Manu appear to be in two minds about 425
+Flesh-eating, at śrāddhas by brāhmaṇas 424; Mitākṣarā and Kalpataru written about 1100-1120 A.D. do not expressly say that flesh-eating is forbidden in the Kali age 424; Vasiṣṭha and Manu appear to be in two minds about 425
 
 Food, cooked along with hair or insects (like ants) or that is polluted by contact with a woman in monthly illness should not be partaken of but if food already cooked is polluted then it should be used after purifying it with ashes, water and the like 329
 
-Food, cooked in marriages, festivals in honour of a deity or in a sacrifice may be served through others, if an [[āsauca|āśauca]] on birth or death intervenes 291; exceptions to prohibition about food 100; gift of cooked f. highly eulogised 534n; offered as sacrifice to gods and manes must be given only to a [[brāhmana|brāhmaṇa]] who has studied the veda and what is presented to most worthy [[brāhmanas|brāhmaṇas]] brings greatest reward 386; one requiring inner purity should avoid forbidden f. or vomit it if he takes it through ignorance and take same [[prāyascitta|prāyaścitta]] 100; purification of polluted cooked f. 328-329; rules about f. in expiations 124; rules about, for relatives after the performance of funeral rites for three days and twelve days 238-239; seen by dogs, [[cāndālas,|caṇḍālas,]] those guilty of mahāpātakas and a woman in her monthly [[illnes|illness]] or by a sonless woman or by one suffering from white leprosy becomes unclean 379-380; unclean food even may be taken in case of distress or danger to life 100; wealthy men should not throw away polluted f. if it is more than a
+Food, cooked in marriages, festivals in honour of a deity or in a sacrifice may be served through others, if an āśauca on birth or death intervenes 291; exceptions to prohibition about food 100; gift of cooked f. highly eulogised 534n; offered as sacrifice to gods and manes must be given only to a brāhmaṇa who has studied the veda and what is presented to most worthy brāhmaṇas brings greatest reward 386; one requiring inner purity should avoid forbidden f. or vomit it if he takes it through ignorance and take same prāyaścitta 100; purification of polluted cooked f. 328-329; rules about f. in expiations 124; rules about, for relatives after the performance of funeral rites for three days and twelve days 238-239; seen by dogs, caṇḍālas, those guilty of mahāpātakas and a woman in her monthly [[illnes|illness]] or by a sonless woman or by one suffering from white leprosy becomes unclean 379-380; unclean food even may be taken in case of distress or danger to life 100; wealthy men should not throw away polluted f. if it is more than a
 
-[[P853]][[drona|droṇa]] in quantity and poor men should not throw away more than an [[ādhaka|āḍhaka]] 330
+[[P853]]droṇa in quantity and poor men should not throw away more than an āḍhaka 330
 
 Force, enjoyment or gift of property or a transaction brought about by, is void 118
 
-Forest, a large f. is invoked as a deity in [[Rgveda|Ṛgveda]] 561; seven holy forests of [[Kuruksetra|Kurukṣetra]] 561
+Forest, a large f. is invoked as a deity in Ṛgveda 561; seven holy forests of Kurukṣetra 561
 
 Francis of Assisi, saint, considered dirt as one of the signs of holy poverty 311
 
 Fraud, consequences of, are the same as those of force in cases of gifts and other transactions 118
 
-Fravashis of Parsi scriptures, see under [[pitrs|pitṛs]] 341n
+Fravashis of Parsi scriptures, see under pitṛs 341n
 
-Funeral monuments; erection of a [[lasti|laṣṭi]] (a staff) in the Andhau Inscription of the time of Rudradāman (2nd century A. D.) 255; planting of a [[puskaraka|puṣkaraka]] tree on the site of cremation or building of an [[edūka|eḍūka]] 255
+Funeral monuments; erection of a laṣṭi (a staff) in the Andhau Inscription of the time of Rudradāman (2nd century A. D.) 255; planting of a puṣkaraka tree on the site of cremation or building of an eḍūka 255
 
-Funeral rites, see under 'Agnihotrin', 'cremation', 'child', 'deceased', 'mantras', 'satī', 'water'; animal in, may be killed or donated or let off acc. to [[Asvalāyana-grhya|Āśvalāyana-gṛhya]] 209n; are same for all whose upanayana has been performed except that āhitāgni is cremated with the three Vedic fires, except that one who has smārta fire only is cremated with that fire and one who has neither of these with ordinary fire 210; couch on which corpse was carried was to be of udumbara wood 204, 206n; description of death and funeral rites of Gautama Buddha 234-235; differ in each Vedic [[Sākhā,|Śākhā,]] though certain matters are common to all 190; earthenware vessel filled with water continuously and cooked rice at mid-day to be offered for the deceased's benefit 219; ethereal body was supposed to be built up by the [[pindas|piṇḍas]] offered to the deceased for ten days after death 221; for an āhitāgni in general 204-208; for one who had undergone consecration for a soma sacrifice or sattra, acc. to śrauta sūtras 202-204; for ten days after death, a handful of water mixed with sesame was to be offered to deceased on the stone called aśmā placed on kuśas and one large [[pinda|piṇḍa]] also on kuśas every day 262; for [[Yati|yati]] 229-231; funeral pyre is to be made of the wood of sacrificial trees 211; great importance attached to the incident of a crow seizing or eating the [[pinda|piṇḍa]] offered on the 10th day after death 264; king to arrange for funeral rites of the deceased in the absence of all relatives 256-257; lamp fed with sesame oil to be kept burning for ten days after death 219; milk and water to be placed in space for ten nights after death for reducing torments of thirst to the spirit of the deceased 340; no funeral rites for those who start in anger on the Great Journey (to the [[Himalayas)|Himālayas)]] or who commit suicide in one of various ways 222-223; order of persons who are adhikārin for performing f. r. is generally the same as the adhikārins for [[srāddha,|śrāddha,]] but varies in different works 256-260; person who begins the funeral rites on the first day has to carry them on till the 10th day even if a nearer relative becomes available after the former has begun 221; [[pindas|piṇḍas]] to be offered to deceased on day of cremation and for ten days more in addition by the son or nearest [[sapinda|sapiṇḍa]] 219-221; procedure of, according to Āśv. [[gr.|gṛ.]] 208-210; procedure of, became more elaborate in medieval and later times 190; procedure of offering water to deceased after cremation 218-219; procedure of what to do after returning to the house on cremation 237; procedure for ten days after death 262; procedure on 10th day after death 263-264; procession of relatives returning after
+Funeral rites, see under 'Agnihotrin', 'cremation', 'child', 'deceased', 'mantras', 'satī', 'water'; animal in, may be killed or donated or let off acc. to Āśvalāyana-gṛhya 209n; are same for all whose upanayana has been performed except that āhitāgni is cremated with the three Vedic fires, except that one who has smārta fire only is cremated with that fire and one who has neither of these with ordinary fire 210; couch on which corpse was carried was to be of udumbara wood 204, 206n; description of death and funeral rites of Gautama Buddha 234-235; differ in each Vedic Śākhā, though certain matters are common to all 190; earthenware vessel filled with water continuously and cooked rice at mid-day to be offered for the deceased's benefit 219; ethereal body was supposed to be built up by the piṇḍas offered to the deceased for ten days after death 221; for an āhitāgni in general 204-208; for one who had undergone consecration for a soma sacrifice or sattra, acc. to śrauta sūtras 202-204; for ten days after death, a handful of water mixed with sesame was to be offered to deceased on the stone called aśmā placed on kuśas and one large piṇḍa also on kuśas every day 262; for [[Yati|yati]] 229-231; funeral pyre is to be made of the wood of sacrificial trees 211; great importance attached to the incident of a crow seizing or eating the piṇḍa offered on the 10th day after death 264; king to arrange for funeral rites of the deceased in the absence of all relatives 256-257; lamp fed with sesame oil to be kept burning for ten days after death 219; milk and water to be placed in space for ten nights after death for reducing torments of thirst to the spirit of the deceased 340; no funeral rites for those who start in anger on the Great Journey (to the Himālayas) or who commit suicide in one of various ways 222-223; order of persons who are adhikārin for performing f. r. is generally the same as the adhikārins for śrāddha, but varies in different works 256-260; person who begins the funeral rites on the first day has to carry them on till the 10th day even if a nearer relative becomes available after the former has begun 221; piṇḍas to be offered to deceased on day of cremation and for ten days more in addition by the son or nearest sapiṇḍa 219-221; procedure of, according to Āśv. gṛ. 208-210; procedure of, became more elaborate in medieval and later times 190; procedure of offering water to deceased after cremation 218-219; procedure of what to do after returning to the house on cremation 237; procedure for ten days after death 262; procedure on 10th day after death 263-264; procession of relatives returning after
 
-[[P854]]cremation arranged according to age, the elder coming first 199n; relatives after performing f. r should touch dūrvā tendrils, fire and bull and should offer a [[pinda|piṇḍa]] to the departed 237; relatives should, for one day after rites on death, purchase or obtain food from another (house) of one kind only and without salt 238; rules of conduct to be observed by relatives (male and female) after they return from cremation and for three days after 238-239; slaves and attendants were buried with the corpses of the master in Babylon and Celtic Britain but no such practice mentioned even in early Vedic literature 256; some persons, such as the impotent, thieves of gold, women that kill their foetus or husbands, or drink surā were forbidden to offer water to deceased relations 222; some works allow a man to perform his own [[antyeṣti,|antyeṣṭi,]] while living 261; the mantra [['asmāt- tvam'|'asmāttvam']] is not to be repeated in f. r. when deceased had not kept [[srauta|śrauta]] fires 210-211; toes and thumbs of the corpse were tied with a white thread or the fringe of a garment in, 204; throwing of aśmā into water after anointing it with oil 264; urn containing bones was supported by wooden post 201n; varied acc. to the śrauta or [[grhya|gṛhya]] sūtra, or acc. as the deceased was an āhitāgni or not, or acc. as the deceased was a woman or child or an ascetic or died in a distant land or by accident or committed suicide 190; verses of [[Rgveda|Ṛgveda]] X. 14-18 were employed by most of the sūtras, are used even now in cremation rites and occur in other Vedic [[samhitās|saṁhitās]] 191; views differ as to the stoppage of certain actions for ten or twelve days after death by relatives 239-240; what fire cannot be used in f. r 210; what the relatives and those who carried the corpse though no relatives were to do on day of cremation and one day thereafter 238; what is stopped for ten days after death is performance of kāmya rites, giving and accepting gifts, homa and vedic study, but nitya and naimittika acts to be performed in vedic and smārta fires are to be performed through another 239; women could, in default of son or male [[sapindas|sapiṇḍas]] of the deceased, perform f. r. of their husbands or father, father-in-law, brother but without vedic mantras, acc. to some 256-257, 259; words of condolence and comfort were to be addressed to the relatives of the deceased according to several works, after they have offered water, expatiating on the grip of Kāla on everything, on the certainty of death for every one born, on dharma alone following the soul in its wanderings and on the futility of mere lamentations 236-37
+[[P854]]cremation arranged according to age, the elder coming first 199n; relatives after performing f. r should touch dūrvā tendrils, fire and bull and should offer a piṇḍa to the departed 237; relatives should, for one day after rites on death, purchase or obtain food from another (house) of one kind only and without salt 238; rules of conduct to be observed by relatives (male and female) after they return from cremation and for three days after 238-239; slaves and attendants were buried with the corpses of the master in Babylon and Celtic Britain but no such practice mentioned even in early Vedic literature 256; some persons, such as the impotent, thieves of gold, women that kill their foetus or husbands, or drink surā were forbidden to offer water to deceased relations 222; some works allow a man to perform his own antyeṣṭi, while living 261; the mantra 'asmāttvam' is not to be repeated in f. r. when deceased had not kept śrauta fires 210-211; toes and thumbs of the corpse were tied with a white thread or the fringe of a garment in, 204; throwing of aśmā into water after anointing it with oil 264; urn containing bones was supported by wooden post 201n; varied acc. to the śrauta or gṛhya sūtra, or acc. as the deceased was an āhitāgni or not, or acc. as the deceased was a woman or child or an ascetic or died in a distant land or by accident or committed suicide 190; verses of Ṛgveda X. 14-18 were employed by most of the sūtras, are used even now in cremation rites and occur in other Vedic saṁhitās 191; views differ as to the stoppage of certain actions for ten or twelve days after death by relatives 239-240; what fire cannot be used in f. r 210; what the relatives and those who carried the corpse though no relatives were to do on day of cremation and one day thereafter 238; what is stopped for ten days after death is performance of kāmya rites, giving and accepting gifts, homa and vedic study, but nitya and naimittika acts to be performed in vedic and smārta fires are to be performed through another 239; women could, in default of son or male sapiṇḍas of the deceased, perform f. r. of their husbands or father, father-in-law, brother but without vedic mantras, acc. to some 256-257, 259; words of condolence and comfort were to be addressed to the relatives of the deceased according to several works, after they have offered water, expatiating on the grip of Kāla on everything, on the certainty of death for every one born, on dharma alone following the soul in its wanderings and on the futility of mere lamentations 236-37
 
 Führer, Dr. 297n
 
@@ -734,213 +733,213 @@ Gadādhara on [[Srāddhasūtra 50%|Śrāddhasūtra 507n]]
 
 Gadre, Mr. N. K., author of a Marathi work 719n
 
-[[Gāhadvāla|Gāhaḍvāla]] Inscriptions 572n, 636-37.
+Gāhaḍvāla Inscriptions 572n, 636-37.
 
 Gajacchāyā 171n, 532
 
-[[Gānagāri,|Gāṇagāri,]] view of, on [[srāddha|śrāddha]] 511
+Gāṇagāri, view of, on śrāddha 511
 
-[[Ganahoma,|Gaṇahoma,]] 43n, 44
+Gaṇahoma, 43n, 44
 
-[[Ganesa|Gaṇeśa]] is called [[Dhundhi|Dhuṇḍhi]] at [[Kāsī|Kāśī]] and derivation of the word 638
+Gaṇeśa is called Dhuṇḍhi at Kāśī and derivation of the word 638
 
-[[Gangā|Gaṅgā]] (Ganges) 585-596; G. and [[Kuruksetra|Kurukṣetra]] were the most sacred spots acc. to Manu 587; as long as a particle of the bones of a man lies inside the G. so long does the man remain happy in heaven 586; casting of the ashes of a cremated person in the Ganges 594-595; countries, hermitages, mountains through which G. flows are pre-eminent in purity 586; defining the extent of the [[ksetra|kṣetra]] of G, the tīra (bank) and the garbha 589-90; derivation of word
+Gaṅgā (Ganges) 585-596; G. and Kurukṣetra were the most sacred spots acc. to Manu 587; as long as a particle of the bones of a man lies inside the G. so long does the man remain happy in heaven 586; casting of the ashes of a cremated person in the Ganges 594-595; countries, hermitages, mountains through which G. flows are pre-eminent in purity 586; defining the extent of the kṣetra of G, the tīra (bank) and the garbha 589-90; derivation of word
 
-[[P855]]'Gaṅgā' 589; eulogy of, in [[Viṣnu- purāṇa|Viṣṇupurāṇa]] 587-588; four different streams of G. in four directions 587; grand eulogy of, in Vanaparva chap. 85 verses 86-97, 586; G. does not forsake even the most sinful or wicked man 589; G. is equal to all the 35 millions of holy places declared by Vāyu, says Kūrma 588; G. water and residence thereon are said to be superior to Vedic sacrifices, tapas, and yoga, since they yield heaven and [[moksa|mokṣa]] 588; G. represents [[Viṣnu|Viṣṇu]] who represents all gods 589; God [[Nārāyana|Nārāyaṇa]] is the owner of the strip of land within four cubits from the flowing water of G. 590; interpretation of the story of [[Gayasura|Gayāsura]] by Mitra, O'Malley and Barua 359-360; invocation of the clay in the bed of G. 591-592; [[ksetra|kṣetra]] extends to two [[krosas|krośas]] on each bank of G. 590; mantras to be recited at the time of a bath in the Ganges 594; mūlamantra about G. 589; names of the seven streams of the G. 587; no tonsure on, according to [[Vacaspatimiśra|Vācaspatimiśra]] 575; on G. all times are auspicious and all men are fit for receiving gifts [[559;|589;]] one thousand names of, in [[Skandapurāna,|Skandapurāṇa,]] [[Kāśikhanda,|Kāśīkhaṇḍa,]] chap. 29, 565; procedure of a bath in the G. prescribed by [[Matsyapurana|Matsyapurāṇa]] chapter 102 for all [[varnas|varṇas]] and all students of the several vedas, 591-594; [[Puranas|Purāṇas]] contain hundreds of verses eulogising the sanctifying activity and greatness of, 585; [[Puranas|Purāṇas]] say that G. springs from toe-nail of [[Visnu|Viṣṇu]] and that [[Siva|Śiva]] let it off from his matted hair in seven streams 587; residence on the bank itself of G. is not desired 590; [[sankalpa|saṅkalpa]] to be made at time of bathing in G. 590n; some [[puranas|purāṇas]] say that the G. is easy of access everywhere except at three places viz. [[Gangadvāra,|Gaṅgādvāra,]] Prayāga and where it joins the sea 588; special merit accumulated by bath in the Ganges on certain days 596; supposed to flow in heaven as [[Mandakini,|Mandākinī,]] on the earth as Ganges and in Pātāla as [[Bhogavati|Bhogavatī]] 587; [[tarpana|tarpaṇa]] on G. after one bathes with water for the gratification of the three worlds 592; waters of, burn all bad deeds 586; waters of, are white, while those of Yamunā are dark 596n
+[[P855]]'Gaṅgā' 589; eulogy of, in Viṣṇupurāṇa 587-588; four different streams of G. in four directions 587; grand eulogy of, in Vanaparva chap. 85 verses 86-97, 586; G. does not forsake even the most sinful or wicked man 589; G. is equal to all the 35 millions of holy places declared by Vāyu, says Kūrma 588; G. water and residence thereon are said to be superior to Vedic sacrifices, tapas, and yoga, since they yield heaven and mokṣa 588; G. represents Viṣṇu who represents all gods 589; God Nārāyaṇa is the owner of the strip of land within four cubits from the flowing water of G. 590; interpretation of the story of Gayāsura by Mitra, O'Malley and Barua 359-360; invocation of the clay in the bed of G. 591-592; kṣetra extends to two krośas on each bank of G. 590; mantras to be recited at the time of a bath in the Ganges 594; mūlamantra about G. 589; names of the seven streams of the G. 587; no tonsure on, according to Vācaspatimiśra 575; on G. all times are auspicious and all men are fit for receiving gifts [[559;|589;]] one thousand names of, in Skandapurāṇa, Kāśīkhaṇḍa, chap. 29, 565; procedure of a bath in the G. prescribed by Matsyapurāṇa chapter 102 for all varṇas and all students of the several vedas, 591-594; Purāṇas contain hundreds of verses eulogising the sanctifying activity and greatness of, 585; Purāṇas say that G. springs from toe-nail of Viṣṇu and that Śiva let it off from his matted hair in seven streams 587; residence on the bank itself of G. is not desired 590; saṅkalpa to be made at time of bathing in G. 590n; some purāṇas say that the G. is easy of access everywhere except at three places viz. Gaṅgādvāra, Prayāga and where it joins the sea 588; special merit accumulated by bath in the Ganges on certain days 596; supposed to flow in heaven as Mandākinī, on the earth as Ganges and in Pātāla as Bhogavatī 587; tarpaṇa on G. after one bathes with water for the gratification of the three worlds 592; waters of, burn all bad deeds 586; waters of, are white, while those of Yamunā are dark 596n
 
-[[Ganga|Gaṅga]] kings of Orissa built magnificent temples at Bhuvanesvara, [[Konārka|Koṇārka]] and [[Puri|Purī]] 699
+Gaṅga kings of Orissa built magnificent temples at Bhuvanesvara, Koṇārka and Purī 699
 
-[[Ganga-bhaktitarangini|Gaṅgā-bhaktitaraṅgiṇī]] of [[Ganapati|Gaṇapati]] 576n, 586, 587n, 588n, 592n,
+Gaṅgā-bhaktitaraṅgiṇī of Gaṇapati 576n, 586, 587n, 588n, 592n,
 
-[[Gangakrtyaviveka|Gaṅgākṛtyaviveka]] of [[Vardhamana|Vardhamāna]] 585
+Gaṅgākṛtyaviveka of Vardhamāna 585
 
-[[Gangapattalaka|Gaṅgāpattalaka]] of [[Ganesvara|Gaṇeśvara]] 586
+Gaṅgāpattalaka of Gaṇeśvara 586
 
-[[Gangāvākyavali|Gaṅgāvākyāvalī]] of [[Visvasadevi,|Viśvāsadevī,]] queen of king [[Padmasimha|Padmasiṁha]] of [[Mithila|Mithilā]] 586; 587n, 588n, 574n, 576n, 577n, 590n, 591, 595n, 601, 609, 615n, 616n; said to have been really composed by Vidyāpati in honour of his patroness 583n
+Gaṅgāvākyāvalī of Viśvāsadevī, queen of king Padmasiṁha of Mithilā 586; 587n, 588n, 574n, 576n, 577n, 590n, 591, 595n, 601, 609, 615n, 616n; said to have been really composed by Vidyāpati in honour of his patroness 583n
 
 Garga 398n
 
-[[Gargya|Gārgya]] 373
+Gārgya 373
 
-[[Garudapurana|Garuḍapurāṇa]] 53, 166, 168, 174, 182n, 184n, 212, 216, 218, 219, 221, 224, 225, 231, 236-38, 240, 262n, 263, 265n, 266n, 268, 302n, 304, 338n, 401, 418, 419, 440n, 445, 448, 458n, 483, 488n (verse 'apavitraḥ pavitro vā'), 517, [[578,|518,]] 520-22, 523n, 524n, 535, 536n, 541, 547n, 577n, 579, 580n, 588, 649, 651 (same verses as in Vāyu 110. 34-60), 663n, 666n, 668n, 669n, 678n.
+Garuḍapurāṇa 53, 166, 168, 174, 182n, 184n, 212, 216, 218, 219, 221, 224, 225, 231, 236-38, 240, 262n, 263, 265n, 266n, 268, 302n, 304, 338n, 401, 418, 419, 440n, 445, 448, 458n, 483, 488n (verse 'apavitraḥ pavitro vā'), 517, [[578,|518,]] 520-22, 523n, 524n, 535, 536n, 541, 547n, 577n, 579, 580n, 588, 649, 651 (same verses as in Vāyu 110. 34-60), 663n, 666n, 668n, 669n, 678n.
 
-[[Gathas|Gāthās]] sung by [[pitrs|pitṛs]] 653
+Gāthās sung by pitṛs 653
 
-Gautama, views of, on [[sraddha,|śrāddha,]] 354, 511
+Gautama, views of, on śrāddha, 354, 511
 
 Gautama, Dharmasūtra of, 9, 14, 16n, 19, 21, 23-25, 30-32, 35, 39-42, 45, 49-52, 59n, 61, 62n, 70, 72, 74, 75, 76, 77, 79, 82, 84, 88, 89, 91, 93-97, 98, 99, 103, 107, 109, 110, 111, 113, 114, 119, 122, 125, 130, 132, 133, 135, 136, 137, 138n, 150, 161, 214, 215, 218, 222, 223, 238, 240, 246n, 256, 261, 268-71, 277, 280, 292,
 
 [[P856]]297, 298, 300, 301, 310, 314-15, 329, 331, 353-54, 379, 384, 387, 388, 400, 402, 410, 426n, 444, 466, 521, 606
 
-[[Gautamapitrmed hasūtra|Gautamapitṛmedhasūtra]] 185, 189, 204, [[207,|207n,]] 208n, 218n, [[220,|220n,]] 222, 224, 236, 240
+Gautamapitṛmedhasūtra 185, 189, 204, [[207,|207n,]] 208n, 218n, [[220,|220n,]] 222, 224, 236, 240
 
-[[Gautama-smrti|Gautama-smṛti]] 174, 175
+Gautama-smṛti 174, 175
 
-Gavyūti is equal to two [[krosas|krośas]] 186n
+Gavyūti is equal to two krośas 186n
 
-Gayā, pp. 643-679; see under [[Gaya siras,|Gayāśiras,]] [[Visnupada,|Viṣṇupada,]] [[Aksayavata|Akṣayavaṭa]] at 661n; [[Aksayavata|Akṣayavaṭa]] [[sraddha|śrāddha]] at G. and honouring Gayā [[brāhmanas|brāhmaṇas]] established by [[Brahma|Brahmā]] 666, 676; sages did not prohibit kṣaura even at Gayā but only [[mun dana|muṇḍana]] 575; all sins are destroyed by performance of [[sraddha|śrāddha]] at [[Gaya|Gayā]] 654; ancestors to whom [[srāddha|śrāddha]] is offered at G. are either six, nine, or twelve 669; [[Anusasanaparva|Anuśāsanaparva]] mentions three spots in [[Gaya|Gayā]] that are not mentioned in Vanaparva chap 84, 649; ascetic has to offer no [[sraddha,|śrāddha,]] but should put down his staff on [[Visnupada|Viṣṇupada]] 655; bath of [[Gadadhara|Gadādhara]] with [[pañcāmrta|pañcāmṛta]] explained 664; bathing of [[Gadadhara|Gadādhara]] with [[pañcampta|pañcāmṛta]] is obligatory in [[Fañcatirthi|Pañcatīrthī]] rites and the rest may be done according to one's ability 675; [[Brabmā,|Brahmā,]] it is stated by Vāyupurāṇa and Agni, bestowed upon G. [[brāhmanas|brāhmaṇas]] 55 villages, [[Gayatirtha,|Gayātīrtha,]] well-appointed houses &c. but he enjoined on them not to beg or accept gifts from others, but they being greedy officiated at a sacrifice of Dharma and begged of him fees whereupon Brahmā cursed them and deprived them of everything and when they bewailed he pitied them and told them to maintain themselves at Gayātīrtha 55, 579, 657; by performing [[sraddha|śrāddha]] and offering [[pindas|piṇḍas]] on [[Visnupada|Viṣṇupada]] pilgrim saves one thousand families and takes them and himself to the world of [[Visnu|Viṣṇu]] 665; comprehended, when Buddhism waned, all the tract from [[Pretasilā|Pretaśilā]] to Mahābodhi tree 650; conduct of modern Gayā [[brāhmanas|brāhmaṇas]] 405; description of rites performed for seven days after entering Gayā 662-668; [[Dhamins|Dhāmins]] are a special but lower class of priests at, 668; [[Dharmāranya|Dharmāraṇya]] was founded by Asūrtarayas, says [[Rāmāyana|Rāmāyaṇa]] 653n; enumeration of the principal holy rivers, peaks and hills, bathing places, sacred sites and trees in G. 660-664; expenses on [[Gayasrāddha|Gayāśrāddha]] to be on a profuse scale 404-405; full pilgrimage at Gayā lasts for seven days 662; [[Gadalola,|Gadālola,]] why so called, 665n; [[Gadalola,|Gadālola,]] [[sraddha|śrāddha]] at 676; Gaya is not a demon in [[Rgveda|Ṛgveda]] 59n; G. named after king Gaya who is mentioned in even Buddhist and Jaina works 646; [[Gaya ksetra|Gayākṣetra]] has an extent of five [[krosas|krośas]] and [[Gayāsiras|Gayāśiras]] of one krośa 655, 677; [[Gayasiras|Gayāśiras]] is the centre of Gayā, the most holy spot and smaller than [[Gaya|Gayā]] 665n, 677; [[Gayasiras|Gayāśiras]] and Gayā were well-known places in Buddha's days 668, 677; [[Gayāyatra|Gayāyātrā]] described in Vāyu 110, 661-662; Gayāls or [[Gayawals|Gayāwals]] are priests who make profit from Gayā pilgrimage their business 580; great divergence of views as to the ancestors to whom [[srāddha|śrāddha]] is to be offered at Gayā 668-669; if one out of many sons goes to G. and performs [[sraddba,|śrāddha,]] the [[pitrs|pitṛs]] secure mukti 539; great divergence of views among modern scholars about the antiquity of the Gayāmāhātmya 644; hill called [[Mundaprstha|Muṇḍapṛṣṭha]] 658; if pilgrim unable to perform all details of [[Gaya sraddha|Gayāśrāddha]] at Phalgu, [[Pretasila|Pretaśilā]] and other spots he may offer only [[pindas|piṇḍas]] 671, 673; in whose soever name a [[pinda|piṇḍa]] is offered at [[Gaya|Gayā]] that person if in hell goes to heaven and if in heaven secures release from [[sam sāra|saṁsāra]] 665, 670; is spoken of as [[P857]][[pitrtirtha|pitṛtīrtha]] 654; king Gaya, son of Amūrtarayas, performed a sacrifice in which food and fees were [[distri buted|distributed]] in plenty 653; [[Krauñcapada E is|Krauñcapāda is]] the hill [[Mundaprstha|Muṇḍapṛṣṭha]] 665; literature on the History and Antiquities of 643; Mahābodhi tree, verses addressed to 664, 667; [[mahānadi|mahānadī]] in Vāyupurāṇa on Gayā generally means Phalgu 676; māhātmya of G. in [[Vayupurāṇa|Vāyupurāṇa]] is a patchwork made between 7th and 10th centuries [[951-952;|651-652;]] mango tree at [[G,|G.,]] famous verse about 661n; [[mātrsodasi|mātṛṣoḍaśī]] described by [[Raghu nandana|Raghunandana]] with 16 mantras which do not occur in Vāyu 677; most important work on G. relied upon in medieval digests is the [[Gaya mahatmya|Gayāmāhātmya]] i. e. [[Vayupurana|Vāyupurāṇa]] chapters 105-112, 644; not a spot in G. that is not a [[tirtha|tīrtha]] 656; numerous [[sub-tirthas|sub-tīrthas]] of [[G,|G.]] are mentioned in Vanaparva chapters 77 and 82; occupies a unique place in the hearts of all pious Hindus even now [[613;|643;]] on entering G. pilgrim bathes in Phalgu river, performs [[tarpana and sraddha|tarpaṇa and śrāddha]] and on same day performs [[sraddha|śrāddha]] on [[Preta-sila|Preta-śilā]] and offers [[pindas|piṇḍas]] whereby the [[per sons|persons]] for whom this is done become free from the position of preta 662-663; one may offer [[pinda|piṇḍa]] to oneself but without sesame 670; one may offer to [[pitrs|pitṛs]] at G. [[pindas|piṇḍas]] of [[payasa,|pāyasa,]] boiled rice, barley flour, fruits, roots, sesame [[Cake,|cake,]] jaggery or honey 653; order in which several [[tirthas|tīrthas]] at G. are to be visited 662ff.; padas (stone slabs with foot-prints thereon) at G. and [[sraddhas|śrāddhas]] at them 661n, 676; [[pancatīrthi|pañcatīrthī]] (five [[tirthas)|tīrthas)]] of Gayā and rites there 663n, 675; passed through several vicissitudes 650; pilgrim should gratify the Gayā [[brāhmanas|brāhmaṇas]] 656; [[Pretasilā|Pretaśilā]] adjoins the west bank of Phalgu river and is to the north of Gayā 671; procedure of offering a [[pinda|piṇḍa]] to oneself while living 670; procedure of [[srāddha,|śrāddha,]] acc. to [[Vāyu purāṇa|Vāyupurāṇa]] 653-656; procedure of [[Gaya srāddha|Gayāśrāddha]] acc. to Raghunandana 671-677; [[Rāmatirtha|Rāmatīrtha]] (i. e. [[Prabhā sahrada),|Prabhāsahrada),]] bath, [[sraddha|śrāddha]] and [[pindas|piṇḍas]] at, free [[pitrs|pitṛs]] of pilgrim from [[condi tion|condition]] of being preta 674; references to Gayā from [[Rgveda|Ṛgveda]] downwards 645-647; rites from the first to the seventh day of entering Gayā described 672-676; river [[Vaitarani|Vaitaraṇī]] in G. 656; rules of conduct to be observed while one is in Gayā 655-656; [[Samarohana,|Samārohaṇa,]] meaning of, in [[Aurnavabha's|Aurṇavābha's]] [[ex planation|explanation]] of the three padas of [[Visnu|Viṣṇu]] 647; [[sankalpa|saṅkalpa]] acc. to [[Raghu nandana,|Raghunandana,]] before a bath in [[Phaigu|Phalgu]] 671n; seven gotras to whom [[sraddha|śrāddha]] may be offered at G. 662; six Gayās that confer mukti by worship and [[pindadāna|piṇḍadāna]] at them, enumerated 667; size of [[pindas|piṇḍas]] to be offered at [[Gaya sraddha|Gayāśrāddha]] 662; [[Sodasikarma|Ṣoḍaśīkarma]] at G. [[des cribed|described]] 672-673; special [[characteris tics|characteristics]] of [[sraddhas|śrāddhas]] at G. 669-670; [[sraddha|śrāddha]] may be performed at [[G,|G.]] at all times, even in an intercalary month, even when Jupiter and Venus are invisible 370, 655; [[sraddha|śrāddha]] at G. is made without arghya and āvāhana 661; [[sraddha|śrāddha]] at [[Pretasilā|Pretaśilā]] is the first and that at [[Akṣayavata|Akṣayavaṭa]] is the last and the rest of the [[Sraddhas|śrāddhas]] should be performed in the order set out in Vāyupurāṇa or, if one does not know it, in any order 666; story of [[Gayasura|Gayāsura]] 656-657; story of the mace manufactured from the bones of an asura called Gada 660; story of [[Sila,|Śilā,]] that was placed on the head of [[Gayasura|Gayāsura]] [[657-657|657-658;]] story of [[Visala,|Viśāla,]] a sonless king and of a [[per son|person]] who offered one sixth of his property to a trader [[Andung|and who]] was saved from remaining [[Areto 666.|preta 666;]] [[tarpana|tarpaṇa]] of ancestors [[al 6710;|at G. 671n;]] tax was levied on [[Kasteriskinis|Kaśmīrians]] [[per forming|performing]] [[sraddha|śrāddha]] at Gayā 571; the
+Gayā, pp. 643-679; see under Gayāśiras, Viṣṇupada, Akṣayavaṭa at 661n; Akṣayavaṭa śrāddha at G. and honouring Gayā brāhmaṇas established by Brahmā 666, 676; sages did not prohibit kṣaura even at Gayā but only muṇḍana 575; all sins are destroyed by performance of śrāddha at Gayā 654; ancestors to whom śrāddha is offered at G. are either six, nine, or twelve 669; Anuśāsanaparva mentions three spots in Gayā that are not mentioned in Vanaparva chap 84, 649; ascetic has to offer no śrāddha, but should put down his staff on Viṣṇupada 655; bath of Gadādhara with pañcāmṛta explained 664; bathing of Gadādhara with [[pañcampta|pañcāmṛta]] is obligatory in [[Fañcatirthi|Pañcatīrthī]] rites and the rest may be done according to one's ability 675; [[Brabmā,|Brahmā,]] it is stated by Vāyupurāṇa and Agni, bestowed upon G. brāhmaṇas 55 villages, Gayātīrtha, well-appointed houses &c. but he enjoined on them not to beg or accept gifts from others, but they being greedy officiated at a sacrifice of Dharma and begged of him fees whereupon Brahmā cursed them and deprived them of everything and when they bewailed he pitied them and told them to maintain themselves at Gayātīrtha 55, 579, 657; by performing śrāddha and offering piṇḍas on Viṣṇupada pilgrim saves one thousand families and takes them and himself to the world of Viṣṇu 665; comprehended, when Buddhism waned, all the tract from Pretaśilā to Mahābodhi tree 650; conduct of modern Gayā brāhmaṇas 405; description of rites performed for seven days after entering Gayā 662-668; Dhāmins are a special but lower class of priests at, 668; Dharmāraṇya was founded by Asūrtarayas, says Rāmāyaṇa 653n; enumeration of the principal holy rivers, peaks and hills, bathing places, sacred sites and trees in G. 660-664; expenses on Gayāśrāddha to be on a profuse scale 404-405; full pilgrimage at Gayā lasts for seven days 662; Gadālola, why so called, 665n; Gadālola, śrāddha at 676; Gaya is not a demon in Ṛgveda 59n; G. named after king Gaya who is mentioned in even Buddhist and Jaina works 646; Gayākṣetra has an extent of five krośas and Gayāśiras of one krośa 655, 677; Gayāśiras is the centre of Gayā, the most holy spot and smaller than Gayā 665n, 677; Gayāśiras and Gayā were well-known places in Buddha's days 668, 677; Gayāyātrā described in Vāyu 110, 661-662; Gayāls or Gayāwals are priests who make profit from Gayā pilgrimage their business 580; great divergence of views as to the ancestors to whom śrāddha is to be offered at Gayā 668-669; if one out of many sons goes to G. and performs [[sraddba,|śrāddha,]] the pitṛs secure mukti 539; great divergence of views among modern scholars about the antiquity of the Gayāmāhātmya 644; hill called Muṇḍapṛṣṭha 658; if pilgrim unable to perform all details of Gayāśrāddha at Phalgu, Pretaśilā and other spots he may offer only piṇḍas 671, 673; in whose soever name a piṇḍa is offered at Gayā that person if in hell goes to heaven and if in heaven secures release from saṁsāra 665, 670; is spoken of as [[P857]]pitṛtīrtha 654; king Gaya, son of Amūrtarayas, performed a sacrifice in which food and fees were distributed in plenty 653; [[Krauñcapada E is|Krauñcapāda is]] the hill Muṇḍapṛṣṭha 665; literature on the History and Antiquities of 643; Mahābodhi tree, verses addressed to 664, 667; mahānadī in Vāyupurāṇa on Gayā generally means Phalgu 676; māhātmya of G. in Vāyupurāṇa is a patchwork made between 7th and 10th centuries [[951-952;|651-652;]] mango tree at G., famous verse about 661n; mātṛṣoḍaśī described by Raghunandana with 16 mantras which do not occur in Vāyu 677; most important work on G. relied upon in medieval digests is the Gayāmāhātmya i. e. Vāyupurāṇa chapters 105-112, 644; not a spot in G. that is not a tīrtha 656; numerous sub-tīrthas of G. are mentioned in Vanaparva chapters 77 and 82; occupies a unique place in the hearts of all pious Hindus even now [[613;|643;]] on entering G. pilgrim bathes in Phalgu river, performs tarpaṇa and śrāddha and on same day performs śrāddha on Preta-śilā and offers piṇḍas whereby the persons for whom this is done become free from the position of preta 662-663; one may offer piṇḍa to oneself but without sesame 670; one may offer to pitṛs at G. piṇḍas of pāyasa, boiled rice, barley flour, fruits, roots, sesame [[Cake,|cake,]] jaggery or honey 653; order in which several tīrthas at G. are to be visited 662ff.; padas (stone slabs with foot-prints thereon) at G. and śrāddhas at them 661n, 676; pañcatīrthī (five tīrthas) of Gayā and rites there 663n, 675; passed through several vicissitudes 650; pilgrim should gratify the Gayā brāhmaṇas 656; Pretaśilā adjoins the west bank of Phalgu river and is to the north of Gayā 671; procedure of offering a piṇḍa to oneself while living 670; procedure of śrāddha, acc. to Vāyupurāṇa 653-656; procedure of Gayāśrāddha acc. to Raghunandana 671-677; Rāmatīrtha (i. e. Prabhāsahrada), bath, śrāddha and piṇḍas at, free pitṛs of pilgrim from condition of being preta 674; references to Gayā from Ṛgveda downwards 645-647; rites from the first to the seventh day of entering Gayā described 672-676; river Vaitaraṇī in G. 656; rules of conduct to be observed while one is in Gayā 655-656; Samārohaṇa, meaning of, in Aurṇavābha's explanation of the three padas of Viṣṇu 647; saṅkalpa acc. to Raghunandana, before a bath in [[Phaigu|Phalgu]] 671n; seven gotras to whom śrāddha may be offered at G. 662; six Gayās that confer mukti by worship and piṇḍadāna at them, enumerated 667; size of piṇḍas to be offered at Gayāśrāddha 662; Ṣoḍaśīkarma at G. described 672-673; special characteristics of śrāddhas at G. 669-670; śrāddha may be performed at G. at all times, even in an intercalary month, even when Jupiter and Venus are invisible 370, 655; śrāddha at G. is made without arghya and āvāhana 661; śrāddha at Pretaśilā is the first and that at Akṣayavaṭa is the last and the rest of the [[Sraddhas|śrāddhas]] should be performed in the order set out in Vāyupurāṇa or, if one does not know it, in any order 666; story of Gayāsura 656-657; story of the mace manufactured from the bones of an asura called Gada 660; story of Śilā, that was placed on the head of Gayāsura [[657-657|657-658;]] story of Viśāla, a sonless king and of a person who offered one sixth of his property to a trader [[Andung|and who]] was saved from remaining [[Areto 666.|preta 666;]] tarpaṇa of ancestors [[al 6710;|at G. 671n;]] tax was levied on [[Kasteriskinis|Kaśmīrians]] performing śrāddha at Gayā 571; the
 
-[[P858]]unmanifest forms (such as hills like Prabhāsa) and manifest forms (such as image of [[Adi-Gadadhara|Ādi-Gadādhara]]) of [[Visnu|Viṣṇu]] 660-661; [[thou h|though]] there are numerous tīrthas at Gayā, visit to three alone is absolutely necessary viz. to Phalgu river, [[Visnupada|Viṣṇupada]] and [[Aksaya vata|Akṣayavaṭa]] 666; Uttaramānasa tank [[650 651,|650-651,]] 653; [[Vedis,|Vedīs,]] at which the leisured pilgrim may offer [[pindas|piṇḍas]] in [[G,|G.]] are forty-five 667; very sublime formula repeated at the time of offering [[pinda|piṇḍa]] and water at, 550; [[Visnupada|Viṣṇupada]] is [[Adi-Gadadhara|Ādi-Gadādhara]] himself 665; [[Visnupada|Viṣṇupada]] is deemed to be the foot-print of God [[Visnu|Viṣṇu]] 667; was named according to Agni and [[Vayu|Vāyu]] after Gaya who performed a sacrifice there 654; was all emptiness and desolation in Fa Hien's [[tlme,|time,]] while in Hiouen Thsang's time it was a flourishing town with 1000 [[brāhmana|brāhmaṇa]] families 650; why Hari is [[Adi-Gada dhara|Ādi-Gadādhara]] at [[G,|G.]] 657, 660; works dealing with procedure of [[srāddha|śrāddha]] at G. [[670 671;|670-671;]] Yājñavalkya says that whatever a man gives in Gayā leads to [[in exhaustible|inexhaustible]] rewards 653
+[[P858]]unmanifest forms (such as hills like Prabhāsa) and manifest forms (such as image of Ādi-Gadādhara) of Viṣṇu 660-661; [[thou h|though]] there are numerous tīrthas at Gayā, visit to three alone is absolutely necessary viz. to Phalgu river, Viṣṇupada and Akṣayavaṭa 666; Uttaramānasa tank 650-651, 653; Vedīs, at which the leisured pilgrim may offer piṇḍas in G. are forty-five 667; very sublime formula repeated at the time of offering piṇḍa and water at, 550; Viṣṇupada is Ādi-Gadādhara himself 665; Viṣṇupada is deemed to be the foot-print of God Viṣṇu 667; was named according to Agni and Vāyu after Gaya who performed a sacrifice there 654; was all emptiness and desolation in Fa Hien's [[tlme,|time,]] while in Hiouen Thsang's time it was a flourishing town with 1000 brāhmaṇa families 650; why Hari is Ādi-Gadādhara at G. 657, 660; works dealing with procedure of śrāddha at G. 670-671; Yājñavalkya says that whatever a man gives in Gayā leads to inexhaustible rewards 653
 
-[[Gayals|Gayāls]] or Gayāwals are notorious for their indolence, ignorance and are a dying race 644; function of, at [[Aksayavata|Akṣayavaṭa]] in Gayā 580, 668; have become a guild or close [[corpora- tion|corporation]] and resent the intrusion of a stranger 580; have got books in which they enter the names and addresses of pilgrims who are asked to sign themselves and recommend to their descendants to honour them when the descendants might come to Gayā 581; [[Nārāyanabhatta|Nārāyaṇabhaṭṭa]] limited the injunction about honouring [[Gaya wals|Gayāwals]] alone to [[sraddha|śrāddha]] at [[Akṣaya vața|Akṣayavaṭa]] 670; pilgrims to Gayā must honour Gayāls alone and not other [[brahmanas|brāhmaṇas]] however learned they may be 670; profess the [[Vaisnava|Vaiṣṇava]] faith established by Madhva 644; referred to in a copperplate grant of [[Laksmanasena|Lakṣmaṇasena]] in 1183 [[A, D,|A. D.]] [[580:|580;]] strange practice among them of adopting the same person in several families at the same time and yet allowing the son so adopted to retain his rights in the family of birth 580-581; the number of, is being gradually reduced 581
+Gayāls or Gayāwals are notorious for their indolence, ignorance and are a dying race 644; function of, at Akṣayavaṭa in Gayā 580, 668; have become a guild or close corporation and resent the intrusion of a stranger 580; have got books in which they enter the names and addresses of pilgrims who are asked to sign themselves and recommend to their descendants to honour them when the descendants might come to Gayā 581; Nārāyaṇabhaṭṭa limited the injunction about honouring Gayāwals alone to śrāddha at Akṣayavaṭa 670; pilgrims to Gayā must honour Gayāls alone and not other brāhmaṇas however learned they may be 670; profess the Vaiṣṇava faith established by Madhva 644; referred to in a copperplate grant of Lakṣmaṇasena in 1183 A. D. 580; strange practice among them of adopting the same person in several families at the same time and yet allowing the son so adopted to retain his rights in the family of birth 580-581; the number of, is being gradually reduced 581
 
-[[Gayāsiras,|Gayāśiras,]] extent of, according to Nārada-purāṇa 647; is the [[Brahma yoni|Brahmayoni]] hill according to some modern scholars, while Dr. Mitra holds it is not 646n; named in the Vanaparva, in several [[Purānas|Purāṇas]] and in ancient Buddhist works such as the [[Maha vagga|Mahāvagga]] 646
+Gayāśiras, extent of, according to Nārada-purāṇa 647; is the Brahmayoni hill according to some modern scholars, while Dr. Mitra holds it is not 646n; named in the Vanaparva, in several Purāṇas and in ancient Buddhist works such as the Mahāvagga 646
 
-[[Gayasraddhapaddhati|Gayāśrāddhapaddhati]] of [[Raghunan. dana|Raghunandana]] 583
+Gayāśrāddhapaddhati of Raghunandana 583
 
-Gayāśrāddhapaddhati of [[Raghunatha|Raghunātha]] 671
+Gayāśrāddhapaddhati of Raghunātha 671
 
 Gayāśrāddhapaddhati of Vācaspati 670
 
-[[Gayatri,|Gāyatrī,]] inaudible japa of, [[bighly|highly]] eulogised 47; repeating of, as secret expiation for sins 126-127; repeating of, in [[srāddhas|śrāddhas]] 507, 543; to be recited while performing expiation 120
+Gāyatrī, inaudible japa of, [[bighly|highly]] eulogised 47; repeating of, as secret expiation for sins 126-127; repeating of, in śrāddhas 507, 543; to be recited while performing expiation 120
 
-[[Ghațajātaka|Ghaṭajātaka]] 668
+Ghaṭajātaka 668
 
-[[Ghosaśānti|Ghoṣaśānti]] 178
+Ghoṣaśānti 178
 
-Ghose, [[Dr J.C.|Dr. J. C.]] on 'Antiquity of [[Gaya'.|Gayā',]] criticized 643
+Ghose, Dr. J. C. on 'Antiquity of Gayā', criticized 643
 
 Gibbon, author of 'Decline and fall of the Roman Empire' 129n, 552
 
-Gifts, see [['daksinā,'|'dakṣiṇā,']] 'food'; acceptance of gifts from kings is terrible in its consequences 549; as removers of the consequences of sins 51-52; one or more of ten g. should be made by a dying man 182; of gold, cow, clothes, horse, land, clarified butter and food destroy sin 51; of all wealth or of a large portion as expiation of [[brābmana|brāhmaṇa]] murder [[92%|92]]
+Gifts, see 'dakṣiṇā,' 'food'; acceptance of gifts from kings is terrible in its consequences 549; as removers of the consequences of sins 51-52; one or more of ten g. should be made by a dying man 182; of gold, cow, clothes, horse, land, clarified butter and food destroy sin 51; of all wealth or of a large portion as expiation of [[brābmana|brāhmaṇa]] murder 92
 
 Goat was carried with the dead body 196n
 
-[[Gobhilagrhya,|Gobhilagṛhya,]] 53, 64, 346, [[354,|354, 348n,]] 355, 358, 417, 525, 526
+Gobhilagṛhya, 53, 64, 346, [[354,|354, 348n,]] 355, 358, 417, 525, 526
 
-[[P859]][[Gobhila-smrti|Gobhila-smṛti]] (often cited as [[Chand ogaparisista|Chandogapariśiṣṭa]] of [[Katyāyana)|Kātyāyana)]] 149n, 182, 207n, 218n, 223, 224, 225, 226, 237, 239n, 240, 269, 297, 321, 355, 356, 361, 417, 418, 440n, 441n, 443n, 455n, 464n, 473, 475n, 476, 477, 480, 482, 487n, 513, 517n, 518, 521, 524, 529, 537; quotes some verses of [[Yajñavalkyasmrti|Yājñavalkyasmṛti]] and a verse from [[Mahabharata|Mahābhārata]] 237
+[[P859]]Gobhila-smṛti (often cited as Chandogapariśiṣṭa of Kātyāyana) 149n, 182, 207n, 218n, 223, 224, 225, 226, 237, 239n, 240, 269, 297, 321, 355, 356, 361, 417, 418, 440n, 441n, 443n, 455n, 464n, 473, 475n, 476, 477, 480, 482, 487n, 513, 517n, 518, 521, 524, 529, 537; quotes some verses of Yājñavalkyasmṛti and a verse from Mahābhārata 237
 
-[[Godavari|Godāvarī]] (or [[Gautami)|Gautamī)]] 707-711; [[sce|see]] [['Dandakaranya';|'Daṇḍakāraṇya';]] bath in G. when Jupiter enters Leo highly regarded even up to the present day 711; Brahmapurāṇa, chapters 70-175 laud [[Godavari|Godāvarī]] and about 100 [[sub tirthas|sub-tīrthas]] at great length 707-708; Ganges is called [[Gautami|Gautamī]] in the south and [[Bhagirathi|Bhāgīrathī]] in the north 707; Gautama brought Ganges from [[Siva's|Śiva's]] matted hair to Brahmagiri where he had his hermitage 708; G. is said to be 200 yojanas long and to have 35 millions of [[tirthas|tīrthas]] on it 707-708; G. is pre-eminently a place for performing [[sraddha|śrāddha]] 708; holiest spot in Nasik is [[Rāmakunda|Rāmakuṇḍa]] 710; Govardhana (6 miles to west of Nasik), history of 710; Nasik on G., history of, from 200 B. C. 709; [[Pancavațion|Pañcavaṭī on]] G. 709-710; referred to generally as [[Gautami|Gautamī]] in the [[Brahmapurana|Brahmapurāṇa]] 707; story of [[Bavari|Bāvarī]] who resided on the [[Godavari|Godāvarī]] and sent several disciples to Buddha, acc. to [[Suttanipata|Suttanipāta]] 707; [[Tryambakesvara|Tryambakeśvara]] is the hill on which Gautama had his hermitage 708; two epics and [[puranas|purāṇas]] contain numerous references to it 707; Vanaparva speaks of it as a holy river in the south 707; verse occurring in several [[purānas|purāṇas]] says that G. is on the Sahya mountain and the country through which G. flows is the most charming in the world 708
+Godāvarī (or Gautamī) 707-711; [[sce|see]] 'Daṇḍakāraṇya'; bath in G. when Jupiter enters Leo highly regarded even up to the present day 711; Brahmapurāṇa, chapters 70-175 laud Godāvarī and about 100 sub-tīrthas at great length 707-708; Ganges is called Gautamī in the south and Bhāgīrathī in the north 707; Gautama brought Ganges from Śiva's matted hair to Brahmagiri where he had his hermitage 708; G. is said to be 200 yojanas long and to have 35 millions of tīrthas on it 707-708; G. is pre-eminently a place for performing śrāddha 708; holiest spot in Nasik is Rāmakuṇḍa 710; Govardhana (6 miles to west of Nasik), history of 710; Nasik on G., history of, from 200 B. C. 709; Pañcavaṭī on G. 709-710; referred to generally as Gautamī in the Brahmapurāṇa 707; story of Bāvarī who resided on the Godāvarī and sent several disciples to Buddha, acc. to Suttanipāta 707; Tryambakeśvara is the hill on which Gautama had his hermitage 708; two epics and purāṇas contain numerous references to it 707; Vanaparva speaks of it as a holy river in the south 707; verse occurring in several purāṇas says that G. is on the Sahya mountain and the country through which G. flows is the most charming in the world 708
 
-Gods, see under [[pitrs;|pitṛs;]] Gods like Mitra and [[Varuna|Varuṇa]] are implored to confer immortality 156; of Vedic pantheon described as guardians and [[promo ters|promoters]] of [[rta 3 ;|ṛta 3;]] distinction drawn in [[Sat. Br.|Śat. Br.]] about what is done for g. and for [[pitrs|pitṛs]] 249n
+Gods, see under pitṛs; Gods like Mitra and Varuṇa are implored to confer immortality 156; of Vedic pantheon described as guardians and promoters of ṛta 3; distinction drawn in Śat. Br. about what is done for g. and for pitṛs 249n
 
-[[Gomatividya,|Gomatīvidyā,]] an expiation for [[go. vadba,|govadha,]] 108-109
+Gomatīvidyā, an expiation for [[go. vadba,|govadha,]] 108-109
 
-[[Gomūtrakrcchra|Gomūtrakṛcchra]] 134
+Gomūtrakṛcchra 134
 
-Gopalan R, author of 'History of the Pallavas of [[Kanci|Kāñcī']] 712
+Gopalan R, author of 'History of the Pallavas of Kāñcī' 712
 
-[[Gopatha-brahmana|Gopatha-brāhmaṇa]] 618
+Gopatha-brāhmaṇa 618
 
-Gosava, a strange Vedic rite 62n, 434; deemed by [[Vasistha|Vasiṣṭha]] to be a destroyer of sin 62n
+Gosava, a strange Vedic rite 62n, 434; deemed by Vasiṣṭha to be a destroyer of sin 62n
 
-[[Gosthisraddha|Goṣṭhīśrāddha]] 381-382
+Goṣṭhīśrāddha 381-382
 
-Govadha is at the head of all [[upapatakas|upapātakas]] 107; different [[prāyascittas|prāyaścittas]] for, in different [[smrtis|smṛtis]] 107-109; expiation for, is same as one for killing a [[val sya|vaiśya]] or [[sūdra|śūdra]] 107; four expiations prescribed for by [[Yaj|Yāj]] 107; was [[to|no]] sin, [[il|if]] a cow or bull died while being medically treated 109
+Govadha is at the head of all upapātakas 107; different prāyaścittas for, in different smṛtis 107-109; expiation for, is same as one for killing a [[val sya|vaiśya]] or śūdra 107; four expiations prescribed for by Yāj 107; was [[to|no]] sin, [[il|if]] a cow or bull died while being medically treated 109
 
 Govindacandra, emperor of Kanoj 634n, 636, 637, 639
 
-[[Govindananda,|Govindānanda,]] commentator of [[Praya scittaviveka|Prāyaścittaviveka]] 39n, 86, 88, 92, [[2220,|222n,]] 265
+Govindānanda, commentator of Prāyaścittaviveka 39n, 86, 88, 92, [[2220,|222n,]] 265
 
-[[Govindaraja,|Govindarāja,]] a commentator of [[Manu smrti|Manu-smṛti]] 481
+Govindarāja, a commentator of Manu-smṛti 481
 
-Govrata, as [[prayascitta|prāyaścitta]] 134
+Govrata, as prāyaścitta 134
 
-Grants, [[Brhaspati's|Bṛhaspati's]] rules about g. of land 52; of land and villages state that they are made for the increase of the merit of donor and his parents 52
+Grants, Bṛhaspati's rules about g. of land 52; of land and villages state that they are made for the increase of the merit of donor and his parents 52
 
-Graves, or sepulchral mounds 246-250; at Lauriya Nandangarh resemble in many respects the mounds described in [[Srauta.sutras|Śrauta-sūtras]] 254; clods or baked bricks were employed in building mounds over charred bones of deceased persons 254; difference between g of godly people and of asuras 247-248; ground of, should not be visible from the [[village)248;|village 248;]] height of, depended on the [[verna|varṇa]] of persons whose ashes were to be buried 250; pegs of different kinds of trees are fixed in different directions
+Graves, or sepulchral mounds 246-250; at Lauriya Nandangarh resemble in many respects the mounds described in Śrauta-sūtras 254; clods or baked bricks were employed in building mounds over charred bones of deceased persons 254; difference between g of godly people and of asuras 247-248; ground of, should not be visible from the village 248; height of, depended on the [[verna|varṇa]] of persons whose ashes were to be buried 250; pegs of different kinds of trees are fixed in different directions
 
-[[P860]][[of these 250, performer|of these 250; performer]] of rites about graves return to their houses holding the tail of an ox 250; placing of bricks silently without mantras 249-250; procedure of the erection of a mound with dhavana and without dhavana including dialogue, dancing and singing acc. to [[Sat, srauta|Śat. śrauta]] [[251 252;|251-252;]] procedure for making sepulchral mounds for those who had performed agnicayana 248-251; proper time for making 247-248; shape of, should be four-cornered and not round (which is practised by Asuras and Eastern people) 247-248; not too large, but broader behind and on north side 248; should not be erected near certain plants and trees 248; size of, should be just the size of the man whose bones were to be deposited 248; size of mounds differed among 'devadarśins' and [[Saunakins|Śaunakins]] 253; various measurements in the [[sutras|sūtras]] provided for constructing a mound over the charred bones deposited in a pit 253; verses were recited while piling up layers of clay or bricks, which refer to pillars and posts 254; were in ancient India generally quadrangular, but sometimes also round 254
+[[P860]]of these 250; performer of rites about graves return to their houses holding the tail of an ox 250; placing of bricks silently without mantras 249-250; procedure of the erection of a mound with dhavana and without dhavana including dialogue, dancing and singing acc. to Śat. śrauta 251-252; procedure for making sepulchral mounds for those who had performed agnicayana 248-251; proper time for making 247-248; shape of, should be four-cornered and not round (which is practised by Asuras and Eastern people) 247-248; not too large, but broader behind and on north side 248; should not be erected near certain plants and trees 248; size of, should be just the size of the man whose bones were to be deposited 248; size of mounds differed among 'devadarśins' and Śaunakins 253; various measurements in the sūtras provided for constructing a mound over the charred bones deposited in a pit 253; verses were recited while piling up layers of clay or bricks, which refer to pillars and posts 254; were in ancient India generally quadrangular, but sometimes also round 254
 
 Greece, some ancient writers in, held theory of transmigration of souls 180
 
-[[Grhastharatnākara|Gṛhastharatnākara]] 25n, 48n, 226n
+Gṛhastharatnākara 25n, 48n, 226n
 
-[[Grhyāgnisagara,|Gṛhyāgnisāgara,]] of [[Nārāyanabhatta|Nārāyaṇabhaṭṭa]] [[Arde|Ārḍe]] 360n
+Gṛhyāgnisāgara, of Nārāyaṇabhaṭṭa Ārḍe 360n
 
-[[Grhya-kārikās|Gṛhya-kārikās]] 286
+Gṛhya-kārikās 286
 
-[[Grhya-parisista|Gṛhya-pariśiṣṭa]] 219, 221, 546
+Gṛhya-pariśiṣṭa 219, 221, 546
 
-Growse, F. S. on [['Mathura'|'Mathurā']] 688, 692
+Growse, F. S. on 'Mathurā' 688, 692
 
-Guild, [[brahmana|brāhmaṇa]] who is a member of a [[g,|g.]] or who officiates at a sacrifice on behalf of g. is unfit to be invited at a [[sraddha|śrāddha]] 393, 394
+Guild, brāhmaṇa who is a member of a g. or who officiates at a sacrifice on behalf of g. is unfit to be invited at a śrāddha 393, 394
 
-[[Gunas,|Guṇas,]] in [[Sankhya|Sāṅkhya]] philosophy 9
+Guṇas, in Sāṅkhya philosophy 9
 
 Gupta Inscriptions [[16,|16n,]] 605n, 634n, 646n, 712
 
 Guru, eleven males so called 24; meaning of 24
 
-[[Gurvaaganāgama,|Gurvaṅganāgama,]] (sexual intercourse with guru's wife), see under 'incest'; a mahāpātaka 23-25, 103; [[prāya scitta|prāyaścitta]] for 103-104; sexual intercourse with maiden of higher [[varna,|varṇa,]] with friend's wife, sister, son's or sagotra's wife or with antyaja woman equal to g. 103
+[[Gurvaaganāgama,|Gurvaṅganāgama,]] (sexual intercourse with guru's wife), see under 'incest'; a mahāpātaka 23-25, 103; prāyaścitta for 103-104; sexual intercourse with maiden of higher varṇa, with friend's wife, sister, son's or sagotra's wife or with antyaja woman equal to g. 103
 
 Hades, the Greek word for Hebrew Sheol 170
 
 Haj and Haji 552n
 
-Halāyudha, commentator of [[Srāddha sūtra|Śrāddhasūtra]] of [[Katyāyana,|Kātyāyana,]] 443n, 450n, 455n, [[470,|470n,]] 484n, 516n
+Halāyudha, commentator of Śrāddhasūtra of Kātyāyana, 443n, 450n, 455n, [[470,|470n,]] 484n, 516n
 
 Hall, Dr. Fitz-Edward 623n
 
-[[Haracaritacintamani,|Haracaritacintāmaṇi,]] 724
+Haracaritacintāmaṇi, 724
 
-Haradatta, 11n, [[46,|46n,]] [[49n.|49n,]] 50n, 53, 59n, 62n, 64n, 71, [[79n.|79n,]] 90, 93n, 96, 108n, 111, 114n, 124, 126, 130, 135, 136, 138n, [[144n.|144n,]] 149n, 150, 161n, 218, 222n, 223, 268, 271, 275n, 278n, 289, 292, 293n, 301, 305n, 335n, 349, 353, 360n, 384, 392n, 394n, 397n, 402n, 404, 406, 410n, 437n, 444, 482
+Haradatta, 11n, [[46,|46n,]] 49n, 50n, 53, 59n, 62n, 64n, 71, 79n, 90, 93n, 96, 108n, 111, 114n, 124, 126, 130, 135, 136, 138n, 144n, 149n, 150, 161n, 218, 222n, 223, 268, 271, 275n, 278n, 289, 292, 293n, 301, 305n, 335n, 349, 353, 360n, 384, 392n, 394n, 397n, 402n, 404, 406, 410n, 437n, 444, 482
 
 Hāralatā, 215, 216, 221n, 222n, 234, 240, 241n, 267n, 269n, 270n, 271, 273, 274n, 276n, 288, 291n, 293n, [[296,|296n,]] 297n, 298n, 299, 300, 305n, 306, 307, 310, 315n
 
-Haraprasad, Shastri, [[M.M.|M. M.]] 458, [[5420,|542n,]] 572n, 697n
+Haraprasad, Shastri, M. M. 458, [[5420,|542n,]] 572n, 697n
 
-Harihara, commentator of [[Asaucada saka,|Āśaucadaśaka,]] [[mss|mss.]] of which are dated 1482-83 and [[1522-23 A.D.,|1522-23 A. D.,]] 273, 460
+Harihara, commentator of Āśaucadaśaka, mss. of which are dated 1482-83 and 1522-23 A. D., 273, 460
 
-[[Harini,|Hariṇī,]] verses from Atharvaveda 242
+Hariṇī, verses from Atharvaveda 242
 
-[[Harita,|Hārīta,]] 16, 40, 60, 83, 88, 106, 114, 119, 124, 126, 143, 173, 175, 215, 224, 270, 333, 385, 514, [[5151,|515n,]] 523n, 536-537, 546, 548, 604
+Hārīta, 16, 40, 60, 83, 88, 106, 114, 119, 124, 126, 143, 173, 175, 215, 224, 270, 333, 385, 514, [[5151,|515n,]] 523n, 536-537, 546, 548, 604
 
-[[Harita-samhita|Hārīta-saṁhitā]] (on medicine) 176
+Hārīta-saṁhitā (on medicine) 176
 
-[[Harivamsa|Harivaṁśa]] 117, 350, 445n, 620, 690
+Harivaṁśa 117, 350, 445n, 620, 690
 
-[[Harsacarita,|Harṣacarita,]] 371n
+Harṣacarita, 371n
 
-Harshe, Dr. R. G. [[181,|181]]
+Harshe, Dr. R. G. 181
 
 Hastings, Encyclopaedia of Religion and Ethics by, 1
 
-Havell, [[E B.,|E. B.,]] author of [['Benaresit|'Benares]] the sacred city,' 618n, 631, [[632n,|632n]]
+Havell, E. B., author of [['Benaresit|'Benares]] the sacred city,' 618n, 631, 632n
 
-[[Havisya,|Haviṣya,]] food, what is 149n, [[412|412,]] 414
+Haviṣya, food, what is 149n, 412, 414
 
-[[P861]][[Hayasīrṣa-pañcarātra,|Hayaśīrṣa-pañcarātra,]] 319n
+[[P861]]Hayaśīrṣa-pañcarātra, 319n
 
-Heaven, see under 'Hell', [['karma'.|'karma',]] 'Yama', 'worlds', 'svarga'; ancient machinery of Heaven and Hell has largely failed to keep people moral in these days 172n; [[cal culating|calculating]] and bargaining spirit of [[smrtis|smṛtis]] and purāṇas about actions that lead to, 166; descriptions of the pleasures of, 165-166; glowing [[des criptions|descriptions]] of, in Mahābhārata and [[puranas|purāṇas]] 165; generous donor or [[wor shipper|worshipper]] goes to it and mixes among gods 156; history of idea of 154-158; idea that h. is a place or state of eternal bliss to which the spirits of the religious or of warriors go is common to many ancient peoples 158; idea of heaven in post-vedic [[litera ture|literature]] 161-164; in heaven, acc. to Atharvaveda, there are bevies of women, ponds of ghee, streams of milk and honey, wine flows like water and there is no disease 157; is devoid of fear or old age, or hunger or thirst or sorrow acc. to [[Upanisads|Upaniṣads]] 158; is placed in the north by [[Sāntiparva,|Śāntiparva,]] in which there is no hunger or thirst or old age or sin 166; life in [[h,|h.]] is said in [[Rgveda|Ṛgveda]] to be full of joys and delights 156; pious dead become united in h. with their [[istapurta|iṣṭāpūrta]] and their forefathers 156; theory of, came to be modified by the doctrine of karma and punarjanma 158; said to be the abode of Yama in the [[Rgveda|Ṛgveda]] and full of music and song 156; theory that pleasures of h. [[bave|have]] a time limit 167; three heavens [[men tioned|mentioned]] in [[Rgveda|Ṛgveda]] 156; warriors killed in battle were supposed even in the [[Rgveda|Ṛgveda]] and generally in the Gītā and later to ascend to [[h,|h.]] and there had the society of beautiful damsels 158
+Heaven, see under 'Hell', 'karma', 'Yama', 'worlds', 'svarga'; ancient machinery of Heaven and Hell has largely failed to keep people moral in these days 172n; calculating and bargaining spirit of smṛtis and purāṇas about actions that lead to, 166; descriptions of the pleasures of, 165-166; glowing descriptions of, in Mahābhārata and purāṇas 165; generous donor or worshipper goes to it and mixes among gods 156; history of idea of 154-158; idea that h. is a place or state of eternal bliss to which the spirits of the religious or of warriors go is common to many ancient peoples 158; idea of heaven in post-vedic literature 161-164; in heaven, acc. to Atharvaveda, there are bevies of women, ponds of ghee, streams of milk and honey, wine flows like water and there is no disease 157; is devoid of fear or old age, or hunger or thirst or sorrow acc. to Upaniṣads 158; is placed in the north by Śāntiparva, in which there is no hunger or thirst or old age or sin 166; life in h. is said in Ṛgveda to be full of joys and delights 156; pious dead become united in h. with their iṣṭāpūrta and their forefathers 156; theory of, came to be modified by the doctrine of karma and punarjanma 158; said to be the abode of Yama in the Ṛgveda and full of music and song 156; theory that pleasures of h. [[bave|have]] a time limit 167; three heavens mentioned in Ṛgveda 156; warriors killed in battle were supposed even in the Ṛgveda and generally in the Gītā and later to ascend to h. and there had the society of beautiful damsels 158
 
-Hell, see 'Naraka', [["Yama'|'Yama']] and 'Citragupta'; Buddhists took over the idea of hell 164; [[h.called|h. called]] [[put|put 161;]] clear references in Atharvaveda to, 155; description of the torments of 167-168; different views about whether it is a place 161; different numbers of hells 162-164; eighteen evil actions which lead to h. 173; four hells named in [[Taittiriya Aran yaka|Taittirīya Āraṇyaka]] 155; is a man's lot when he transgresses his dharma 162; names of hells 162-163; no clear or express references in [[Rgveda|Ṛgveda]] to h. 154; in Jain literature 163; land of [[everlast ing|everlasting]] fire for the devil and his [[my rmidons|myrmidons]] 170; no mention of tortures of hell in [[Rgveda|Ṛgveda]] 155; periods for which several sinners undergo torments of 164; Quranic ideas of 171n; seven hells, acc. to [[Vedantasutra|Vedāntasūtra]] and [[Visnupurana|Viṣṇupurāṇa]] 162; some [[Puranas|Purāṇas]] state that the number of hells is crores 164; twenty-one hells mentioned by several works 162; torments in, described 167-168; task before modern Indian leaders is how to build up virtues of [[toler ance|tolerance]] and respect for life apart from ideas of heaven and hell 172
+Hell, see 'Naraka', 'Yama' and 'Citragupta'; Buddhists took over the idea of hell 164; h. called [[put|put 161;]] clear references in Atharvaveda to, 155; description of the torments of 167-168; different views about whether it is a place 161; different numbers of hells 162-164; eighteen evil actions which lead to h. 173; four hells named in Taittirīya Āraṇyaka 155; is a man's lot when he transgresses his dharma 162; names of hells 162-163; no clear or express references in Ṛgveda to h. 154; in Jain literature 163; land of everlasting fire for the devil and his myrmidons 170; no mention of tortures of hell in Ṛgveda 155; periods for which several sinners undergo torments of 164; Quranic ideas of 171n; seven hells, acc. to Vedāntasūtra and Viṣṇupurāṇa 162; some Purāṇas state that the number of hells is crores 164; twenty-one hells mentioned by several works 162; torments in, described 167-168; task before modern Indian leaders is how to build up virtues of tolerance and respect for life apart from ideas of heaven and hell 172
 
-Hemādri 59, 77, 115, 147, 148, 151, 304, 309n, 343, 351n, 352n, 361n, 376, 378n, 385, 386, 388, 389, 390n, 392n, 394n, 395n, 396, 397, 398n, 399n, 400n, 403n, 407n, 408, 409, 411, 413, 414n, 415n, 416, 418n, 422n, 424, 433n, 441n, [[• 442n,|442n,]] 444n, 445, 449n, 450n, 453, 455n, 457, 458, 459n, 460, 463, 466, [[4670,|467n,]] 468, 471, 472n, 475, 476, 477n, 479, 480n, 481n, 482, 484, 507n, 508n, 513n, 514, 523n, 528, 530n, 536, 542, 545, 582n, 669, 717
+Hemādri 59, 77, 115, 147, 148, 151, 304, 309n, 343, 351n, 352n, 361n, 376, 378n, 385, 386, 388, 389, 390n, 392n, 394n, 395n, 396, 397, 398n, 399n, 400n, 403n, 407n, 408, 409, 411, 413, 414n, 415n, 416, 418n, 422n, 424, 433n, 441n, 442n, 444n, 445, 449n, 450n, 453, 455n, 457, 458, 459n, 460, 463, 466, [[4670,|467n,]] 468, 471, 472n, 475, 476, 477n, 479, 480n, 481n, 482, 484, 507n, 508n, 513n, 514, 523n, 528, 530n, 536, 542, 545, 582n, 669, 717
 
-[[Hemasrāddba|Hemaśrāddha]] (śrāddha with gold i. e. money) 515; if the person who has to perform a [[sraddha|śrāddha]] cannot offer even [[āmasrāddha,|āmaśrāddha,]] he should [[per form|perform]] h. 515; occasions when it is allowed 515
+[[Hemasrāddba|Hemaśrāddha]] (śrāddha with gold i. e. money) 515; if the person who has to perform a śrāddha cannot offer even āmaśrāddha, he should perform h. 515; occasions when it is allowed 515
 
 Herodotus 180
 
 Hibbert Journal, 1n, 8n
 
-[[P862]][[Himalaya,|Himālaya,]] all parts of, said to be holy in the [[Purānas|Purāṇas]] 560; mentioned in the Atharvaveda 559; spoken of as 'devatātmā' by [[Kalidasa|Kālidāsa]] 560; vide list of [[tirthas|tīrthas]]
+[[P862]]Himālaya, all parts of, said to be holy in the Purāṇas 560; mentioned in the Atharvaveda 559; spoken of as 'devatātmā' by Kālidāsa 560; vide list of tīrthas
 
 Hinduism, spread of, in Java, Bali and other countries of south-east Asia 118
 
 Hiouen Thsang 608, 629, 631, 683, 688, 711, 766
 
-[[Hiranyakeśi-grhya-sutra|Hiraṇyakeśi-gṛhya-sūtra]] 58, 353, 354, 355, 361, 384, 385, 439, 471, 474, 559, 619
+Hiraṇyakeśi-gṛhya-sūtra 58, 353, 354, 355, 361, 384, 385, 439, 471, 474, 559, 619
 
-[[Hiranyakesi-pitr-medha-sūtra|Hiraṇyakeśi-pitṛ-medha-sūtra]] 185
+Hiraṇyakeśi-pitṛ-medha-sūtra 185
 
-History of [[Dharmasastra,|Dharmaśāstra,]] vol. I-582, 586, 610n, 651n, 721n; vol. II-11, 13n, 19, 24n, 36n, 42, 46n, 47, 48n, 52, 54, 62n, 76, 82, 85, 91n, 92n, 93n, 111, 112, 115, 117, 118, 120n, 131, [[133 n,|133n,]] 141, 144n, 168n, 184n, 199n, 200n, [[2070,|207n,]] 222n, 229n, 230n, 231, 239n, 249n, 275n, 302, 309, 311, 327n, 331, 332, 349n, 357n, 359n, 369, 384, 397, 412, 415, 417, 422, 425, 434n, 435n, 440n, 442n, 443n, 501n, 510, 529, 536n, 543n, 553n, 554, 555n, 558n, 571n, 592n, 593n, 604, 605, 676n, 722n, 734; vol. III-11, 13n, 19, 21, 25, 51n, 69, 74, 76, 80, 82, 89n, 92, 100n, 105, 106, 118, 129, 164n, 257, 258, 271, 275n, 280n, 286, 302, 330n, 331, 364, 380n, 424, 425, 439, 453n, 454, 473n, 510, 525, 538, [[540n,.|540n,]] 550n, 590n, 604, 608, 628
+History of Dharmaśāstra, vol. I-582, 586, 610n, 651n, 721n; vol. II-11, 13n, 19, 24n, 36n, 42, 46n, 47, 48n, 52, 54, 62n, 76, 82, 85, 91n, 92n, 93n, 111, 112, 115, 117, 118, 120n, 131, 133n, 141, 144n, 168n, 184n, 199n, 200n, [[2070,|207n,]] 222n, 229n, 230n, 231, 239n, 249n, 275n, 302, 309, 311, 327n, 331, 332, 349n, 357n, 359n, 369, 384, 397, 412, 415, 417, 422, 425, 434n, 435n, 440n, 442n, 443n, 501n, 510, 529, 536n, 543n, 553n, 554, 555n, 558n, 571n, 592n, 593n, 604, 605, 676n, 722n, 734; vol. III-11, 13n, 19, 21, 25, 51n, 69, 74, 76, 80, 82, 89n, 92, 100n, 105, 106, 118, 129, 164n, 257, 258, 271, 275n, 280n, 286, 302, 330n, 331, 364, 380n, 424, 425, 439, 453n, 454, 473n, 510, 525, 538, 540n, 550n, 590n, 604, 608, 628
 
 Holy cities, seven enumerated 678
 
 Holy places, what are 55n, 555
 
-Homa, as a means of removing [[conse quences|consequences]] of sins 43-44; could be [[per formed|performed]] in ordinary fire 78n; for women and [[sudras|śūdras]] to be performed through a [[brahmana|brāhmaṇa]] as a pratinidhi acc. to some digests 78n; general [[pro cedure|procedure]] of 543n; number of oblations of clarified butter is either 28, 108 or 1008, 543; one lakh of homas with sesame accompanied by [[Gāyatri|Gāyatrī]] recitation as substitute for heavy expiations 128; should be [[perform ed|performed]] in all expiations 120.
+Homa, as a means of removing consequences of sins 43-44; could be performed in ordinary fire 78n; for women and śūdras to be performed through a brāhmaṇa as a pratinidhi acc. to some digests 78n; general procedure of 543n; number of oblations of clarified butter is either 28, 108 or 1008, 543; one lakh of homas with sesame accompanied by Gāyatrī recitation as substitute for heavy expiations 128; should be performed in all expiations 120.
 
-House, see under 'purity,' [['purifica tion';|'purification';]] constructed with burnt bricks is purified by wind and the Sun 323-24
+House, see under 'purity,' 'purification'; constructed with burnt bricks is purified by wind and the Sun 323-24
 
-Hunter, W. W., author of work on [['Orissa,'|'Orissa',]] 692, 695n, 696, 697, 698, 699, 702, 750.
+Hunter, W. W., author of work on 'Orissa', 692, 695n, 696, 697, 698, 699, 702, 750.
 
-Image, see under [['purification, purity,|'purification', 'purity',]] 'temple'.
+Image, see under 'purification', 'purity', 'temple'.
 
-Impurity, see [['Āsauca';|'Āśauca';]] observed by man for ten days, when he performs his own [[srāddha|śrāddha]] while living 544; some persons are free from, not at all times, but only when they are engaged in some peculiar actions such as sacrifices while engaged in sacrifice 298
+Impurity, see 'Āśauca'; observed by man for ten days, when he performs his own śrāddha while living 544; some persons are free from, not at all times, but only when they are engaged in some peculiar actions such as sacrifices while engaged in sacrifice 298
 
-Incest, see under [['gurvanganagama';|'gurvaṅganāgama';]] [[prayascittas|prāyaścittas]] for, acc. to Parāśara 104; punishment and prāyaścitta for, are same viz. excision of testicles 72
+Incest, see under 'gurvaṅganāgama'; prāyaścittas for, acc. to Parāśara 104; punishment and prāyaścitta for, are same viz. excision of testicles 72
 
 Indian Antiquary, 271, [[4510,|451n,]] 572n, 612n, 642, 650, 702, 716, 726, 765
 
@@ -950,65 +949,65 @@ Indische Studien 449n.
 
 Indian Historical Quarterly [[610p,|610n,]] 716n
 
-Indra, consigned yatis to [[salavrkas|śālāvṛkas]] 63; invoked to strike down evil-doers 154
+Indra, consigned yatis to śālāvṛkas 63; invoked to strike down evil-doers 154
 
-Indradyumna, a cakravartin, mentioned in [[Maitrāyanyupanisad|Maitrāyaṇyupaniṣad]] 695
+Indradyumna, a cakravartin, mentioned in Maitrāyaṇyupaniṣad 695
 
-Inheritance, close connection between the right to perform funeral rites and taking i. 257; [[Mitakṣarā|Mitākṣarā]] and [[Daya bhāga|Dāyabhāga]] doctrines on 257; whoever takes i. has to offer [[pinda|piṇḍa]] to the deceased 257
+Inheritance, close connection between the right to perform funeral rites and taking i. 257; Mitākṣarā and Dāyabhāga doctrines on 257; whoever takes i. has to offer piṇḍa to the deceased 257
 
-Inscriptions, see 'Epigraphia Indica'; Andhau Inscription 255; in a fire temple at Baku on the Caspian [[seorom|sea]] 118; of Hoysala king granting [[reves nues|revenues]] of a village for meeting [[taxex|taxes]] levied on pilgrims to Benares [[572:|572;]] [[tecording|recording]] gifts of lands and houses
+Inscriptions, see 'Epigraphia Indica'; Andhau Inscription 255; in a fire temple at Baku on the Caspian [[seorom|sea]] 118; of Hoysala king granting [[reves nues|revenues]] of a village for meeting [[taxex|taxes]] levied on pilgrims to Benares 572; [[tecording|recording]] gifts of lands and houses
 
 [[P863]]coins and gold as prāyaścitta for benefit of deceased 182n
 
-Intercalary month 546-547; all [[śrad- dhas|śrāddhas]] that come after [[Sapindana|Sapiṇḍana]] were not to be performed in 546; is called by various names such as [[Amhasas pati,|Aṁhasaspati,]] Adhimāsa, Malamāsa, [[Malim luca,|Malimluca,]] [[Samsarpa|Saṁsarpa]] 546; is to be [[dis carded|discarded]] for all rites in honour of gods and [[pitrs|pitṛs]] 546; purāṇas call it [[Purusottamamāsa|Puruṣottamamāsa]] 546; the [[samvat sarika-śrāddha|saṁvatsarika-śrāddha]] of one who dies in an intercalary month may be [[per formed|performed]] in the same intercalary month, but if there be no [[i. m,|i. m.]] of that name, then in ordinary month of same name 446-447; thirteenth month and vendor of soma were condemned as [[papa|pāpa]] (sinful) 546; was known even in the times of the [[Rgveda|Ṛgveda]] 546; what religious actions could be done in 546
+Intercalary month 546-547; all śrāddhas that come after Sapiṇḍana were not to be performed in 546; is called by various names such as Aṁhasaspati, Adhimāsa, Malamāsa, Malimluca, Saṁsarpa 546; is to be discarded for all rites in honour of gods and pitṛs 546; purāṇas call it Puruṣottamamāsa 546; the saṁvatsarika-śrāddha of one who dies in an intercalary month may be performed in the same intercalary month, but if there be no i. m. of that name, then in ordinary month of same name 446-447; thirteenth month and vendor of soma were condemned as pāpa (sinful) 546; was known even in the times of the Ṛgveda 546; what religious actions could be done in 546
 
 [[IŚāvāsyopanisad|Īśāvāsyopaniṣad]] 606
 
 Israelites, ancient, customs of, concerning the relatives of the dead 309
 
-[[Istiśrāddha|Iṣṭiśrāddha]] is [[Karmangaśrāddha,|Karmāṅgaśrāddha,]] 9th among twelve classes of [[Srāddhas|śrāddhas]] 457n
+Iṣṭiśrāddha is Karmāṅgaśrāddha, 9th among twelve classes of [[Srāddhas|śrāddhas]] 457n
 
-Jābāla, [[smrti|smṛti]] of 60n, 61, 136, 140, 146, 147, 152
+Jābāla, smṛti of 60n, 61, 136, 140, 146, 147, 152
 
-[[Jabali,|Jābāli,]] [[smrti|smṛti]] of 64, 121, 134, 139, 142
+Jābāli, smṛti of 64, 121, 134, 139, 142
 
-[[Jabalopaniṣad,|Jābālopaniṣad,]] 610n, 625
+Jābālopaniṣad, 610n, 625
 
-[[Taimini,|Jaimini,]] a of [[Pūrvamimamsāsūtra|Pūrvamīmāṁsāsūtra]] 9n, 20n, 24, 27n, 40n, 45, 53, 58, 61-63, 66n, 89n, 92, 112, [[137,|137n,]] 168n, 169, 208n, 310n, 353, 373, 419, 439, 440n, 442n, 447, 453, 454, 481n, 554n, 602n, 670, 672n, 687
+[[Taimini,|Jaimini,]] a of Pūrvamīmāṁsāsūtra 9n, 20n, 24, 27n, 40n, 45, 53, 58, 61-63, 66n, 89n, 92, 112, [[137,|137n,]] 168n, 169, 208n, 310n, 353, 373, 419, 439, 440n, 442n, 447, 453, 454, 481n, 554n, 602n, 670, 672n, 687
 
-[[Jaimini-grhya|Jaimini-gṛhya]] 355, 418
+Jaimini-gṛhya 355, 418
 
-[[Jaiminiya-samhita,|Jaiminīya-saṁhitā,]] of Sāmaveda 46n
+Jaiminīya-saṁhitā, of Sāmaveda 46n
 
-Jains, accept the doctrine of tapas as a destroyer of sins 43; though they emphasized [['ahimsa',|'ahiṁsā',]] they [[encourag ed|encouraged]] religious suicide called [[Sallekhana|Sallekhanā]] under certain circumstances 612
+Jains, accept the doctrine of tapas as a destroyer of sins 43; though they emphasized 'ahiṁsā', they encouraged religious suicide called Sallekhanā under certain circumstances 612
 
-[[Jalakrcchra,|Jalakṛcchra,]] see [['Toyakrcchra'|'Toyakṛcchra']] 138
+Jalakṛcchra, see 'Toyakṛcchra' 138
 
-Jamadagni, [[smrti|smṛti]] of 43, 94, 163n, 464n
+Jamadagni, smṛti of 43, 94, 163n, 464n
 
 James, Prof. E. O. in 'Christian Myth and Ritual' 234n
 
 James, William, author of 'Varieties of religious experience' 171n
 
-Janasthāna (in [[Dandakāranya),|Daṇḍakāraṇya),]] said to be four yojanas in extent and [[Panca. vati|Pañcavaṭī]] was part of it and it was so called after Janaka 710
+Janasthāna (in Daṇḍakāraṇya), said to be four yojanas in extent and Pañcavaṭī was part of it and it was so called after Janaka 710
 
-Japa, a means of removing consequences of sin 44-51; distinguished from stuti 45; demands three things 46; food on which one should [[sub sist,|subsist,]] when engaged in 49; is expiation for sins unintentionally committed 46-47; original idea of, spiritual 46; of mantras, a hundred times where no particular number is specified 47; three kinds of 44-45; superiority of, over Vedic sacrifices and pākayajñas 47; [[upāmsu J.|upāṁśu J.]] described and praised 45; way in which [[sudras|śūdras]] and women were to engage in 49
+Japa, a means of removing consequences of sin 44-51; distinguished from stuti 45; demands three things 46; food on which one should subsist, when engaged in 49; is expiation for sins unintentionally committed 46-47; original idea of, spiritual 46; of mantras, a hundred times where no particular number is specified 47; three kinds of 44-45; superiority of, over Vedic sacrifices and pākayajñas 47; upāṁśu J. described and praised 45; way in which śūdras and women were to engage in 49
 
-[[Jatibhramsakara|Jātibhraṁśakara]] sins 15, 35; expiation [[for,is|for, is]] [[Santapana|Sāntapana]] and Prajāpatya 118
+Jātibhraṁśakara sins 15, 35; expiation for, is Sāntapana and Prajāpatya 118
 
 [[Jātākarnya,smrti|Jātūkarṇya, smṛti]] of 98, 182n, 190, 206n, 209n, 225, 389n, 390, 469, 512, 531n
 
-Jayaswal, [[K. P,|K. P.]] author of 'History of [[I ndia'|India']] (150-350 [[A.D.)|A. D.)]] 634, 689n, 762
+Jayaswal, K. P. author of 'History of India' (150-350 A. D.) 634, 689n, 762
 
 Jerusalem, holiest place for Christians 552
 
 Jesus, miraculously cured a blind man [[1740|174n]]
 
-[[Jikana,|Jīkana,]] 80n
+Jīkana, 80n
 
-[[Jivat-sraddha|Jīvat-śrāddha]] or [[Jivaśrāddha|Jīvaśrāddha]] [[542-545:|542-545;]] effigy representing a human figure is to be made of threads and [[palasa|palāśa]] [[stalkson|stalks on]] which the performer sleeps, then rises up and on the 4th day it is burnt 543-544; one cannot perform one's [[Sapindana|Sapiṇḍana]] 544; performed by a man himself while alive for the benefit of his soul after death once every month up to [[12cars|12 years]] and then he stops 544; procedure [[of vecord ing|of, according]] to [[Baudhāyana-gyliyasesasūtra|Baudhāyana-gṛhyaśeṣasūtra]] 542-544; procedure of acc. to [[Linga purāṇa,|Liṅgapurāṇa,]] is [[substantiallyardifferent|substantially different]] 544; this [[srāddha|śrāddha]] is a perversion of the
+Jīvat-śrāddha or Jīvaśrāddha 542-545; effigy representing a human figure is to be made of threads and palāśa stalks on which the performer sleeps, then rises up and on the 4th day it is burnt 543-544; one cannot perform one's Sapiṇḍana 544; performed by a man himself while alive for the benefit of his soul after death once every month up to [[12cars|12 years]] and then he stops 544; procedure [[of vecord ing|of, according]] to [[Baudhāyana-gyliyasesasūtra|Baudhāyana-gṛhyaśeṣasūtra]] 542-544; procedure of acc. to Liṅgapurāṇa, is [[substantiallyardifferent|substantially different]] 544; this śrāddha is a perversion of the
 
-[[P864]]ancient idea of [[sraddha|śrāddha]] 545; water and [[pinda|piṇḍa]] are offered to himself with a mantra 544; word 'preta' is not to be used in this rite 544
+[[P864]]ancient idea of śrāddha 545; water and piṇḍa are offered to himself with a mantra 544; word 'preta' is not to be used in this rite 544
 
 Job, book of, in Old Testament 170
 
@@ -1042,43 +1041,43 @@ Journal, of U. P. Historical Research Society 608n, 720n, 746, 760
 
 Judicial function, separated early from the executive function of the king 69
 
-[[J yesthasāmāni|Jyeṣṭhasāmāni]] 46n, 384, 386, 450
+Jyeṣṭhasāmāni 46n, 384, 386, 450
 
-[[Jyotirlingas,|Jyotirliṅgas,]] twelve, names and [[loca tions|locations]] of 678-679; divergence of views about identifications of some J. 678n; each J. has an [[Upalinga|Upaliṅga]] [[6781|678n]]
+Jyotirliṅgas, twelve, names and locations of 678-679; divergence of views about identifications of some J. 678n; each J. has an Upaliṅga [[6781|678n]]
 
-[[Jyotistoma,|Jyotiṣṭoma,]] 157 cups (grahas) used in, were to be cleansed with a strainer of wool, but not the camasas 310; one who offers the [[Adabhya|Adābhya]] cup in, goes to heaven while still living 157
+Jyotiṣṭoma, 157 cups (grahas) used in, were to be cleansed with a strainer of wool, but not the camasas 310; one who offers the Adābhya cup in, goes to heaven while still living 157
 
-[[Kadalivana,|Kadalīvana,]] 178
+Kadalīvana, 178
 
-[[Kailasa,|Kailāsa,]] temple at Ellora is not one of the twelve [[Jyotirlingas|Jyotirliṅgas]] 678n
+Kailāsa, temple at Ellora is not one of the twelve Jyotirliṅgas 678n
 
-[[Kakini,|Kākinī,]] value of 129
+Kākinī, value of 129
 
 Kalanos, an Indian Gymnosophist from Taxila, accompanied Alexander and burnt himself to death at the age of 70, 612
 
 Kāla, see under Time
 
-[[Kalidasa|Kālidāsa]] 560, 605, 691, 706
+Kālidāsa 560, 605, 691, 706
 
 Kālikāpurāṇa, 467
 
 Kalivarjya acts 65, 271, 302, 424, 425, 608
 
-Kalpa, [[164.|164]]
+Kalpa, 164
 
-Kalpataru, 21, 98, 108, (prāyaścitta), 131, 136, 148, 181 [[(moksakānda)|(mokṣakāṇḍa)]] 187n [[(moksakānda),|(mokṣakāṇḍa),]] 222n, 238n, 270n, 273, 274n, 289, 292n, 293n, 297, 305n, 315n [[(srāddha).|(śrāddha),]] 334 [[( sraddba ),|(śrāddha),]] 339 [[( srāddha),|(śrāddha),]] 368n, 371n [[(on srāddha),|(on śrāddha),]] 377n [[(sraddha),|(śrāddha),]] 378 (śrāddha), 380n, 381n, 383, 385, 386, 391, 392, 396n, 398n, 400n, 401n, 424, 441n, 444n, 445, 455n, 457n, 458n, 463n, 468n, 469n, 471n, 473, 475, 477, 479, 481, 512, 514n, 517n, 518, 523n, 524n, 528, 529, 531, 532n, 536n, 537, 538n, 542, 555n, 559n, 560n, 561n, 569n, 610n [[(on asauca),|(on āśauca),]] 623n; held that an [[anupanita|anupanīta]] boy and unmarried girl incurred no sin by drinking [[sura|surā]] 21, 98; its date 624n; verses quoted by it from Skandapurāṇa are not found in the printed purāṇa, but are found in the [[Lingapurana|Liṅgapurāṇa]] 624n
+Kalpataru, 21, 98, 108, (prāyaścitta), 131, 136, 148, 181 (mokṣakāṇḍa) 187n (mokṣakāṇḍa), 222n, 238n, 270n, 273, 274n, 289, 292n, 293n, 297, 305n, 315n (śrāddha), 334 [[( sraddba ),|(śrāddha),]] 339 (śrāddha), 368n, 371n (on śrāddha), 377n (śrāddha), 378 (śrāddha), 380n, 381n, 383, 385, 386, 391, 392, 396n, 398n, 400n, 401n, 424, 441n, 444n, 445, 455n, 457n, 458n, 463n, 468n, 469n, 471n, 473, 475, 477, 479, 481, 512, 514n, 517n, 518, 523n, 524n, 528, 529, 531, 532n, 536n, 537, 538n, 542, 555n, 559n, 560n, 561n, 569n, 610n (on āśauca), 623n; held that an anupanīta boy and unmarried girl incurred no sin by drinking surā 21, 98; its date 624n; verses quoted by it from Skandapurāṇa are not found in the printed purāṇa, but are found in the Liṅgapurāṇa 624n
 
-[[Kamastuti,|Kāmastuti,]] repeated in many [[cerem onies|ceremonies]] such as marriage, adoption, gifts made on approach of death 184n; repeated when making a gift of a cow on 2nd day after āśauca ends 545
+Kāmastuti, repeated in many ceremonies such as marriage, adoption, gifts made on approach of death 184n; repeated when making a gift of a cow on 2nd day after āśauca ends 545
 
-[[Kamya|Kāmya]] rites should be undertaken only when one is able to perform all parts of them 373
+Kāmya rites should be undertaken only when one is able to perform all parts of them 373
 
-[[Kanci,|Kāñcī,]] 711-712; famous temples of 712; history and antiquity of 711-12; [[Kasi|Kāśī]] and K. are the two eyes of [[Siva|Śiva]] and K. is a famous [[Vaisnavaksetik|Vaiṣṇavakṣetra]] 712; one of the seven holy cities of India and one of the most ancient towns in south India 678, [[76|711]]
+Kāñcī, 711-712; famous temples of 712; history and antiquity of 711-12; Kāśī and K. are the two eyes of Śiva and K. is a famous [[Vaisnavaksetik|Vaiṣṇavakṣetra]] 712; one of the seven holy cities of India and one of the most ancient towns in south India 678, [[76|711]]
 
-[[P865]]regions around K. were frequented by Buddha, [[acc,|acc.]] to Hiouen Thsang and K. had a stūpa 100 feet high built by [[Asoka|Aśoka]] 711
+[[P865]]regions around K. were frequented by Buddha, acc. to Hiouen Thsang and K. had a stūpa 100 feet high built by Aśoka 711
 
 Kane Festschrift, 648n
 
-[[Kantipuri,|Kāntipurī,]] one of the seven holy cities acc. to some 678, 762; divergent views about its location 678
+Kāntipurī, one of the seven holy cities acc. to some 678, 762; divergent views about its location 678
 
 Kaṇva, 26n, 544
 
@@ -1086,79 +1085,79 @@ Kapadia, Dr. on 'Hindu Kinship' 368
 
 Kapardin, 392n, 482
 
-[[Karkabhāsya,|Karkabhāṣya,]] 447n, 482, [[507a,|507n,]] 508n
+Karkabhāṣya, 447n, 482, [[507a,|507n,]] 508n
 
-Karma, see under 'birth,' 'soul'; basis of, 39; doctrine of, is inextricably mixed up with that of punarjanma 38-39; doctrine of, appears to be in conflict with that of [[sraddha|śrāddha]] 335; doctrine of, is opposed to the theory of the transference of merit ([[punya)|puṇya)]] from one man to another 66n; doctrine that there is no final release from the cycle of births and deaths by performance of meritorious deeds alone 167; doctrine of, illustrated in the Jain [[Uttaradhyayanasūtra|Uttarādhyayanasūtra]] by the story of brothers 445n; knowledge (true) destroys all k. 68, 611; main propositions of the doctrine of 38-39 and 612-613; modified by the theory of expiations for sins [[40:|40;]] three kinds of viz. [[sancita,|sañcita,]] prārabdha and [[kriya māna|kriyamāṇa]] and their explanation 612-613; whether good or evil does not perish without bringing forth its [[consequ ences|consequences]] 39
+Karma, see under 'birth,' 'soul'; basis of, 39; doctrine of, is inextricably mixed up with that of punarjanma 38-39; doctrine of, appears to be in conflict with that of śrāddha 335; doctrine of, is opposed to the theory of the transference of merit (puṇya) from one man to another 66n; doctrine that there is no final release from the cycle of births and deaths by performance of meritorious deeds alone 167; doctrine of, illustrated in the Jain Uttarādhyayanasūtra by the story of brothers 445n; knowledge (true) destroys all k. 68, 611; main propositions of the doctrine of 38-39 and 612-613; modified by the theory of expiations for sins 40; three kinds of viz. sañcita, prārabdha and kriyamāṇa and their explanation 612-613; whether good or evil does not perish without bringing forth its consequences 39
 
-[[Karmangasraddha,|Karmāṅgaśrāddha,]] 382
+Karmāṅgaśrāddha, 382
 
-Karmavipāka, (fruition of evil deeds), see under 'sins', 'disease', 'actions'; [[Apastamba-dharmasutra|Āpastamba-dharmasūtra]] says that a dvija who murders a [[brahmana|brāhmaṇa]] is born after undergoing torments of hell as [[cândala,|cāṇḍāla,]] paulkasa and other sinners are born as animals 175; doctrine of, was well-known to Buddhist philosopher [[Nagarjuna|Nāgārjuna]] 176; doctrine of, is not, acc. to some writers, to be taken literally but is an [[arthavada|arthavāda]] 177; diseases arising from sinful acts subside by recitation of vedic texts, homa, gifts 173; physical marks indicative of sins committed in previous lives [[dis appear|disappear]] on repentance and on [[under going|undergoing]] expiation 173; residual [[conse quences|consequences]] of sinful deeds in the form of deformed bodies or bodies with [[con demned|condemned]] signs or diseases 173; human beings alone are subject to doctrine of 176-177; [[smrtis|smṛtis]] and [[puranas|purāṇas]] state into what animals, trees and creepers sinners are born after undergoing hell torments 173-174; some [[smrtis|smṛtis]] say that the murderer of a [[brāhmana|brāhmaṇa]] in a later life suffers from [[leprosy.|leprosy,]] while others say that he suffers from [[pthisis|phthisis]] 175; Yogasūtra says K. is of three kinds viz. birth (as a worm or animal), life (short), and experiencing torments of hell 176; treatment of [[K,|K.]] is the longest in [[Prayascittasara|Prāyaścittasāra]] 176; teaching of works on, comes to this that no man however sinful need despair 177; women guilty of theft and other sins become the wives of men guilty of same offences 177
+Karmavipāka, (fruition of evil deeds), see under 'sins', 'disease', 'actions'; Āpastamba-dharmasūtra says that a dvija who murders a brāhmaṇa is born after undergoing torments of hell as cāṇḍāla, paulkasa and other sinners are born as animals 175; doctrine of, was well-known to Buddhist philosopher Nāgārjuna 176; doctrine of, is not, acc. to some writers, to be taken literally but is an arthavāda 177; diseases arising from sinful acts subside by recitation of vedic texts, homa, gifts 173; physical marks indicative of sins committed in previous lives disappear on repentance and on undergoing expiation 173; residual consequences of sinful deeds in the form of deformed bodies or bodies with condemned signs or diseases 173; human beings alone are subject to doctrine of 176-177; smṛtis and purāṇas state into what animals, trees and creepers sinners are born after undergoing hell torments 173-174; some smṛtis say that the murderer of a brāhmaṇa in a later life suffers from leprosy, while others say that he suffers from [[pthisis|phthisis]] 175; Yogasūtra says K. is of three kinds viz. birth (as a worm or animal), life (short), and experiencing torments of hell 176; treatment of K. is the longest in Prāyaścittasāra 176; teaching of works on, comes to this that no man however sinful need despair 177; women guilty of theft and other sins become the wives of men guilty of same offences 177
 
-[[Kārsnājini,|Kārṣṇājini,]] 484
+Kārṣṇājini, 484
 
-[[Kasi|Kāśī]] [[(Varanasi,| (Vārāṇasī,]] Banaras) 618-642; see under 'Sārnāth', 'sins', [['onkara'|'oṅkāra']] 'lingas', 'ascetics'; Ādikeśava-ghāṭ 636; after repairing to K. one should smash one's feet with a stone [[sa|so]] that one may not be tempted to go to another place 566-567; Alberuni expressly states that Mahmud Gaznavi had not reached Banaras 623n; almost all Hindu temples at [[Kasi|Kāśī]] were demolished by Moslem rulers from 1194 to 1670 [[A,D.|A. D.]] 631; ancient history of [[Bananas|Banaras]] from the [[Sat. Br.,|Śat. Br.,]] the [[Gopathaa Broths|Gopatha Br., the]] [[Upa nisads,|Upaniṣads,]] epics and [[punasand|purāṇas and]] Buddhist works 618-623; [[Frukta|Avimukta]] is said by some to be that part of the holy place which is [[bcneesented|represented]] by a radius of 200 [[dhanusstiques.|dhanus (i.]] e. 800
+Kāśī  (Vārāṇasī, Banaras) 618-642; see under 'Sārnāth', 'sins', 'oṅkāra' 'lingas', 'ascetics'; Ādikeśava-ghāṭ 636; after repairing to K. one should smash one's feet with a stone [[sa|so]] that one may not be tempted to go to another place 566-567; Alberuni expressly states that Mahmud Gaznavi had not reached Banaras 623n; almost all Hindu temples at Kāśī were demolished by Moslem rulers from 1194 to 1670 A. D. 631; ancient history of [[Bananas|Banaras]] from the Śat. Br., the [[Gopathaa Broths|Gopatha Br., the]] Upaniṣads, epics and [[punasand|purāṇas and]] Buddhist works 618-623; [[Frukta|Avimukta]] is said by some to be that part of the holy place which is [[bcneesented|represented]] by a radius of 200 [[dhanusstiques.|dhanus (i.]] e. 800
 
-[[P866]]hastas) in all directions from the shrine of [[Viśvesvara|Viśveśvara]] 628; āyatanas, fourteen named 640; belief that dying in Banaras freed one from [[samsāra,|saṁsāra,]] led the old and decrepit to crowd in K. and persons about to die were [[remov ed|removed]] to the banks of the Ganges 626; called [[Jitvari|Jitvarī]] by traders 621; [[construc tion|construction]] and endowment of [[mathas|maṭhas]] at K. highly eulogised 639; conclusions drawn from the stories in the [[Epic .|Epic]] and [[Puranas|Purāṇas]] that Banaras was once a centre of non-Aryan worship [[cri ticized|criticized]] 622-623; [[Dasāśvamedha ghāt|Daśāśvamedha-ghāṭ]] famed for centuries [[634 635;|634-635;]] derivation and significance of the name [[Kaśi|Kāśī]] 625; eulogies of greatness and uniqueness of K. cover thousands of verses 629; famed for the qualities of its cloth in the second century B. C. 619; first called [[Anandakanana|Ānandakānana]] and then Avimukta 624; five questions about [[K,|K.]] asked by sages to [[Bhrgu|Bhṛgu]] in the Padmapurāṇa 623; for devotees of [[Siva|Śiva]] there is no other remedy even in great calamities or incurable diseases than touching the water of the feet of the image of God 641; [[Ganesas|Gaṇeśas]] are 56 at K. 638; [[ghāts|ghāṭs]] in Banaras for at least a thousand years 634-637; hardly any other city in the world can claim greater [[anti quity,|antiquity,]] greater continuity and greater popular veneration than Banaras 618; hyperbolic descriptions of the results of bathing and dying in [[Kasi|Kāśī]] in the [[Puranas|Purāṇas]] 629-630; in the times of Buddha, Banaras was a great and famous city like [[Rājagrha,|Rājagṛha,]] [[Saketa,|Sāketa,]] [[Srāvasti|Śrāvasti]] 621; individual [[tirthas|tīrthas]] in K. described 632-640; it is said that mere residence in K. till death not only frees a man from such sins as [[brahmana-murder,|brāhmaṇa-murder,]] but also frees him from the cycle of births and deaths 566; is called [[Anandakanana|Ānandakānana]] because it gives joy to [[Siva|Śiva]] 626; [[Jābālopa- niṣad|Jābālopaniṣad]] gives an esoteric meaning to Avimukta, [[Varanā|Varaṇā]] and [[Nasi|Nāsī]] 625-626; Jain works like the Kalpasūtra say that Arhat [[Pārsva|Pārśva]] was born in Banaras 621; [[Jñanavāpi,|Jñānavāpī,]] origin and importance of 638; [[Kapālamocana ghāt|Kapālamocana-ghāṭ]] at [[K, isancient|K. is ancient]] 639; [[Kasikhanda,|Kāśīkhaṇḍa,]] a part of Skandapurāṇa, devotes 15000 verses to Banaras and [[sub tirthas|sub-tīrthas]] 623; known under five names from ancient times [[viz,|viz.]] [[Vārāṇasi,|Vārāṇasī,]] Kāśī, Avimukta, [[Anandakanana|Ānandakānana]] and [[Śmasāna|Śmaśāna]] or [[Mabāśmaśāna|Mahāśmaśāna]] 624; lauded and described at great length in several [[Puranas|Purāṇas]] 623; [[lingas|liṅgas]] and [[tirthas|tīrthas]] at K. mentioned in some [[puranas|purāṇas]] are numerous 639-40; Lolārka is one of the twelve shrines of the Sun in K. 633n, 634; [[Mani. karnikā|Maṇikarṇikā]] pool is the most holy among [[tirthas|tīrthas]] at K. 635; mantras recited when contemplating [[Manikarnikā|Maṇikarṇikā]] 633; Mlecchas, insects, birds, beasts, worms after death in [[K.find|K. find]] happiness 630; by identifying Asi and [[Varanā|Varaṇā]] with [[Ida|Iḍā]] and other [[nādis|nāḍīs]] mystic [[fla vour|flavour]] is imparted to those names 631; name Avimukta, derived and [[explain ed|explained]] in two ways 626; name [[Smasana|Śmaśāna]] or [[Mahāsmasāna|Mahāśmaśāna]] due to various causes 626-627; name [[Varanasi|Vārāṇasī]] is derived from the two rivers [[Varanā|Varaṇā]] (modern [[Barnā)|Bārṇā)]] and Asi, which are [[respec tively|respectively]] the northern and southern boundaries of the modern city 625; name was spelt as Benares up to recent times, but now it is spelt as Banaras 618; [[Naradiyapurana|Nāradīyapurāṇa]] says that Banaras was at first the city of [[Madhava,|Mādhava,]] but later on became a [[Saiva-ksetra|Śaiva-kṣetra]] 622n; [[Nārāyanabhatta|Nārāyaṇabhaṭṭa]] says that in the case of [[Vißvesvara linga|Viśveśvara-liṅga]] there is no blemish due to the touch of the untouchable 633; one should not commit the [[slightestlsim|slightest sin]] in [[K,|K.]] as punishment is relatively far heavier 638; [[Pañcaganga-ghāt,|Pañcagaṅgā-ghāṭ,]] [[sool? called|called]] because five rivers, [[Kigandauimaand|Kiraṇā,]]
+[[P866]]hastas) in all directions from the shrine of Viśveśvara 628; āyatanas, fourteen named 640; belief that dying in Banaras freed one from saṁsāra, led the old and decrepit to crowd in K. and persons about to die were removed to the banks of the Ganges 626; called Jitvarī by traders 621; construction and endowment of maṭhas at K. highly eulogised 639; conclusions drawn from the stories in the Epic and Purāṇas that Banaras was once a centre of non-Aryan worship criticized 622-623; Daśāśvamedha-ghāṭ famed for centuries 634-635; derivation and significance of the name Kāśī 625; eulogies of greatness and uniqueness of K. cover thousands of verses 629; famed for the qualities of its cloth in the second century B. C. 619; first called Ānandakānana and then Avimukta 624; five questions about K. asked by sages to Bhṛgu in the Padmapurāṇa 623; for devotees of Śiva there is no other remedy even in great calamities or incurable diseases than touching the water of the feet of the image of God 641; Gaṇeśas are 56 at K. 638; ghāṭs in Banaras for at least a thousand years 634-637; hardly any other city in the world can claim greater antiquity, greater continuity and greater popular veneration than Banaras 618; hyperbolic descriptions of the results of bathing and dying in Kāśī in the Purāṇas 629-630; in the times of Buddha, Banaras was a great and famous city like Rājagṛha, Sāketa, Śrāvasti 621; individual tīrthas in K. described 632-640; it is said that mere residence in K. till death not only frees a man from such sins as brāhmaṇa-murder, but also frees him from the cycle of births and deaths 566; is called Ānandakānana because it gives joy to Śiva 626; Jābālopaniṣad gives an esoteric meaning to Avimukta, Varaṇā and Nāsī 625-626; Jain works like the Kalpasūtra say that Arhat Pārśva was born in Banaras 621; Jñānavāpī, origin and importance of 638; Kapālamocana-ghāṭ at K. is ancient 639; Kāśīkhaṇḍa, a part of Skandapurāṇa, devotes 15000 verses to Banaras and sub-tīrthas 623; known under five names from ancient times viz. Vārāṇasī, Kāśī, Avimukta, Ānandakānana and Śmaśāna or [[Mabāśmaśāna|Mahāśmaśāna]] 624; lauded and described at great length in several Purāṇas 623; liṅgas and tīrthas at K. mentioned in some purāṇas are numerous 639-40; Lolārka is one of the twelve shrines of the Sun in K. 633n, 634; Maṇikarṇikā pool is the most holy among tīrthas at K. 635; mantras recited when contemplating Maṇikarṇikā 633; Mlecchas, insects, birds, beasts, worms after death in K. find happiness 630; by identifying Asi and Varaṇā with Iḍā and other nāḍīs mystic flavour is imparted to those names 631; name Avimukta, derived and explained in two ways 626; name Śmaśāna or Mahāśmaśāna due to various causes 626-627; name Vārāṇasī is derived from the two rivers Varaṇā (modern Bārṇā) and Asi, which are respectively the northern and southern boundaries of the modern city 625; name was spelt as Benares up to recent times, but now it is spelt as Banaras 618; Nāradīyapurāṇa says that Banaras was at first the city of Mādhava, but later on became a Śaiva-kṣetra 622n; Nārāyaṇabhaṭṭa says that in the case of [[Vißvesvara linga|Viśveśvara-liṅga]] there is no blemish due to the touch of the untouchable 633; one should not commit the [[slightestlsim|slightest sin]] in K. as punishment is relatively far heavier 638; Pañcagaṅgā-ghāṭ, [[sool? called|called]] because five rivers, [[Kigandauimaand|Kiraṇā,]]
 
-[[P867]][[Dbutapapa,|Dhūtapāpā,]] [[Ganga,|Gaṅgā,]] Yamunā and Sarasvatī are supposed to meet there 636; [[Pancakrosi|Pañcakrośī]] pilgrimage by road is held the most meritorious of all and is described in detail 637; [[Pan catīrthi|Pañcatīrthī]] (five essential [[tirthas)|tīrthas)]] named and described 633-634; present temple of [[Visvanatha|Viśvanātha]] was built by Ahalyabai Holkar 633; questions about Banaras asked in the [[Skanda purāṇa|Skandapurāṇa]] 624; residents of [[K|K.]] must repair to the river every day, take a bath in [[Manikarnikā|Maṇikarṇikā]] and visit [[vis. Veśvara|Viśveśvara]] 640; rules of conduct [[(parti cularly|(particularly]] moral) for those who dwell in K. 638-639; results of sins [[com mitted|committed]] outside K. but sinner dying in [[K,|K.]] and of sins committed in K. by one who dies outside K. 640-41; several images of [[Kesava|Keśava]] existed at K. 636n; [[sraddba|śrāddha]] should be [[per formed|performed]] at K. 639; stotra of [[Durga|Durgā]] called [[Vajrapa njara|Vajrapañjara]] 638; [[sub-tirthas|sub-tīrthas]] at K. are numerous 638; temple of [[Bhairavanatha,|Bhairavanātha,]] supposed to be kotwal of K., who wields a thick stone cudgel 638; temple of [[Durga|Durgā]] at [[K.very|K. very]] popular and much frequented 638; temple of [[Saksi-Vinayaka|Sākṣi-Vināyaka]] 637; temple of [[Tarakesvara|Tārakeśvara]] near [[Mani karnikā|Maṇikarṇikā]] 635; temple of Viśvanātha re-established by [[Narayanabbatta|Nārāyaṇabhaṭṭa]] about 1585 A. D. was desecrated by Aurangzeb 631-32; there are about 1500 temples in K. built during the last 225 years, 632; there is in [[Kasia|Kāśī a]] holy place at every step and there is not even as much space as a sesamum grain which has not a [[linga|liṅga]] 631; there were one hundred temples in K. in Hiouen Thsang's time and in one of them there was a copper image of [[Mahadeva|Mahādeva]] about 100 feet high 631; though cremation of corpses is continually going on, yet Banaras, owing to the Ganges, is held purest 626; though [[Kasi,|Kāśī,]] [[Vara nasi|Vārāṇasī]] and Avimukta are generally used as synonyms, sometimes a distinction is made in their extent 627-629; traditions of great learning associated with K. as vouched for by [[Kasikhanda,|Kāśīkhaṇḍa,]] Alberuni and [[Ain-i. Akbari|Ain-i-Akbari]] 641-642; Vācaspati held that [[Avimuktesvara-linga|Avimukteśvara-liṅga]] is the same as [[Visvanatha,|Viśvanātha,]] but the [[Skandapurana|Skandapurāṇa]] treats them as distinct 633; [[Vana. parva|Vanaparva]] states that by visiting [[Avi mukta|Avimukta]] and by a bath there pilgrim [[be comes|becomes]] free from the sin of [[brāhmana murder|brāhmaṇa-murder]] and by dying there secures [[moksa|mokṣa]] 629; [[Vārānasi|Vārāṇasī]] was burnt by Nikumbha, a [[gana|gaṇa]] of [[Siva|Śiva]] and was re-established by [[Divodása|Divodāsa]] 620; [[Visnu|Viṣṇu]] is said by [[Kaśikhanda|Kāśīkhaṇḍa]] to have assigned a place called [[Dharmaksetra|Dharmakṣetra]] to the north of [[Kasi|Kāśī]] and stayed there in the form of Buddha 641; [[Viśve śvara|Viśveśvara]] or [[Visvanātha|Viśvanātha]] is the tutelary deity of Banaras and the principal temple in it and every resident is required every day to take a bath in the [[Ganga|Gaṅgā]] and visit [[Visvesvara|Viśveśvara]] 692; was burnt by [[Krsna|Kṛṣṇa]] with his cakra in pursuit of a [[krtyā|kṛtyā]] 622; was the capital of Brahmadatta kings [[accord ing|according]] to the [[Jatakas|Jātakas]] and [[Purānas|Purāṇas]] 621; was the capital of the [[Kasis|Kāśis]] [[619 :|619;]] was the name of a country long [[be fore|before]] the [[Sat. Br.|Śat. Br.]] was composed 619; yātrās of great [[lingas|liṅgas]] should be celebrated every month from the first tithi onwards 640
+[[P867]][[Dbutapapa,|Dhūtapāpā,]] Gaṅgā, Yamunā and Sarasvatī are supposed to meet there 636; Pañcakrośī pilgrimage by road is held the most meritorious of all and is described in detail 637; Pañcatīrthī (five essential tīrthas) named and described 633-634; present temple of Viśvanātha was built by Ahalyabai Holkar 633; questions about Banaras asked in the Skandapurāṇa 624; residents of K. must repair to the river every day, take a bath in Maṇikarṇikā and visit [[vis. Veśvara|Viśveśvara]] 640; rules of conduct (particularly moral) for those who dwell in K. 638-639; results of sins committed outside K. but sinner dying in K. and of sins committed in K. by one who dies outside K. 640-41; several images of Keśava existed at K. 636n; [[sraddba|śrāddha]] should be performed at K. 639; stotra of Durgā called Vajrapañjara 638; sub-tīrthas at K. are numerous 638; temple of Bhairavanātha, supposed to be kotwal of K., who wields a thick stone cudgel 638; temple of Durgā at K. very popular and much frequented 638; temple of Sākṣi-Vināyaka 637; temple of Tārakeśvara near Maṇikarṇikā 635; temple of Viśvanātha re-established by [[Narayanabbatta|Nārāyaṇabhaṭṭa]] about 1585 A. D. was desecrated by Aurangzeb 631-32; there are about 1500 temples in K. built during the last 225 years, 632; there is in Kāśī a holy place at every step and there is not even as much space as a sesamum grain which has not a liṅga 631; there were one hundred temples in K. in Hiouen Thsang's time and in one of them there was a copper image of Mahādeva about 100 feet high 631; though cremation of corpses is continually going on, yet Banaras, owing to the Ganges, is held purest 626; though Kāśī, Vārāṇasī and Avimukta are generally used as synonyms, sometimes a distinction is made in their extent 627-629; traditions of great learning associated with K. as vouched for by Kāśīkhaṇḍa, Alberuni and Ain-i-Akbari 641-642; Vācaspati held that Avimukteśvara-liṅga is the same as Viśvanātha, but the Skandapurāṇa treats them as distinct 633; Vanaparva states that by visiting Avimukta and by a bath there pilgrim becomes free from the sin of brāhmaṇa-murder and by dying there secures mokṣa 629; Vārāṇasī was burnt by Nikumbha, a gaṇa of Śiva and was re-established by Divodāsa 620; Viṣṇu is said by Kāśīkhaṇḍa to have assigned a place called Dharmakṣetra to the north of Kāśī and stayed there in the form of Buddha 641; Viśveśvara or Viśvanātha is the tutelary deity of Banaras and the principal temple in it and every resident is required every day to take a bath in the Gaṅgā and visit Viśveśvara 692; was burnt by Kṛṣṇa with his cakra in pursuit of a kṛtyā 622; was the capital of Brahmadatta kings according to the Jātakas and Purāṇas 621; was the capital of the Kāśis 619; was the name of a country long before the Śat. Br. was composed 619; yātrās of great liṅgas should be celebrated every month from the first tithi onwards 640
 
-[[Kāsikā,|Kāśikā,]] com. on [[Panini|Pāṇini]] 162
+Kāśikā, com. on Pāṇini 162
 
-[[Kasikbanda,|Kāśīkhaṇḍa,]] part of [[Skandapurana,|Skandapurāṇa,]] which see
+[[Kasikbanda,|Kāśīkhaṇḍa,]] part of Skandapurāṇa, which see
 
-[[Kāsimrtimoksavicara|Kāśīmṛtimokṣavicāra]] of [[Suresvaracārya|Sureśvarācārya]] 583, 612, 613n
+Kāśīmṛtimokṣavicāra of Sureśvarācārya 583, 612, 613n
 
-[[Kaśinātha|Kāśīnātha]] [[Upadhyâya|Upādhyāya]] 721
+Kāśīnātha Upādhyāya 721
 
-[[Kasyapa|Kāśyapa]] 75, 94
+Kāśyapa 75, 94
 
-[[Kathaka-grhya-sutra|Kāṭhaka-gṛhya-sūtra]] 53, [[254,|354,]] 355, 358, [[4610,|461n,]] 463, 479n, [[5237,|523n,]] [[539.ch|539]]
+Kāṭhaka-gṛhya-sūtra 53, [[254,|354,]] 355, 358, [[4610,|461n,]] 463, 479n, [[5237,|523n,]] [[539.ch|539]]
 
-[[Kathakasamhitā,|Kāṭhakasaṁhitā,]] 10, [[111,|11n,]] 20, [[63,|60,]] [[1600,|160n,]] 343, 419n, [[4610,|461n,]] [[479d|479n,]] [[32gn,|522n,]] 523n, 546
+Kāṭhakasaṁhitā, 10, [[111,|11n,]] 20, [[63,|60,]] [[1600,|160n,]] 343, 419n, [[4610,|461n,]] [[479d|479n,]] [[32gn,|522n,]] 523n, 546
 
-[[Kathakasruti|Kāṭhakaśruti]] 225, [[371&handarkar Oriental|371]]
+Kāṭhakaśruti 225, [[371&handarkar Oriental|371]]
 
-[[P868]][[Kathopaniṣad|Kaṭhopaniṣad]] 39, 155, 158, 162n, 165, 180, 350, 384n,
+[[P868]]Kaṭhopaniṣad 39, 155, 158, 162n, 165, 180, 350, 384n,
 
-[[Katyāyana|Kātyāyana]] 104, 149, 259n, 263, 513n, 514, 517, 530n, 569; divided sins into five classes 15; on prices of cows, calves etc. [[129:|129;]] prescribes half fine for women 80; [[smrti|smṛti]] of, on steya 22; [[smrti|smṛti]] of, on [[govadba|govadha]] 109
+Kātyāyana 104, 149, 259n, 263, 513n, 514, 517, 530n, 569; divided sins into five classes 15; on prices of cows, calves etc. 129; prescribes half fine for women 80; smṛti of, on steya 22; smṛti of, on [[govadba|govadha]] 109
 
-Kātyāyana, author of [[Chandogaparisista|Chandogapariśiṣṭa]] or [[Gobhilasmrti|Gobhilasmṛti]] 297-298, 454; author of [[sraddhasūtra|śrāddhasūtra]] (which see), 426
+Kātyāyana, author of Chandogapariśiṣṭa or Gobhilasmṛti 297-298, 454; author of śrāddhasūtra (which see), 426
 
-[[Katyayanasrauta-sūtra|Kātyāyanaśrauta-sūtra]] 37n, 63n, [[203 204,|203-204,]] [[206,|206n,]] 207n, 208n, 209n, 223, 224, 226, 246, 248, 249n, 250n, 255, 346n, 432, 433n, 511, 558, 681
+Kātyāyanaśrauta-sūtra 37n, 63n, 203-204, [[206,|206n,]] 207n, 208n, 209n, 223, 224, 226, 246, 248, 249n, 250n, 255, 346n, 432, 433n, 511, 558, 681
 
-[[Kausika,|Kauśika,]] [[smộti|smṛti]] of 67, 241
+Kauśika, [[smộti|smṛti]] of 67, 241
 
-[[Kausika--sūtra|Kauśika-sūtra]] 53, 54, 58, 182, 198, 204, [[206,|206n,]] 207n, 208n, 238, 240, 242, 247n, 252n, 253n, 345, 346n, 355, 474, 479n
+Kauśika-sūtra 53, 54, 58, 182, 198, 204, [[206,|206n,]] 207n, 208n, 238, 240, 242, 247n, 252n, 253n, 345, 346n, 355, 474, 479n
 
-[[Kausitaki-brāhmaṇa|Kauṣītaki-brāhmaṇa]] 57, 155-156
+Kauṣītaki-brāhmaṇa 57, 155-156
 
-[[Kausitaki-brāhmanopanisad|Kauṣītaki-brāhmaṇopaniṣad]] 8, 9n, 158, 165, 619
+Kauṣītaki-brāhmaṇopaniṣad 8, 9n, 158, 165, 619
 
-[[Kausitaki-grhya|Kauṣītaki-gṛhya]] 354, 402, 516, 520, 521, 525, 539
+Kauṣītaki-gṛhya 354, 402, 516, 520, 521, 525, 539
 
-[[Kautilya,|Kauṭilya,]] 74, 75
+Kauṭilya, 74, 75
 
 Kautsa, 354
 
 Kautsa hymn 48n
 
-[[Kavasa,|Kavaṣa,]] story of 558-559
+Kavaṣa, story of 558-559
 
 Kavīndracandrodaya, edited by Dr. Sharma and Dr. Patkar 572
 
-Kavīndrācārya, pleaded with Shah Jehan for remission of taxes on Hindu pilgrims at Prayāga and Kāśī and was given the title of [['Sarvavidyā nidhāna'|'Sarvavidyānidhāna']] and was felicitated by people throughout India 571-572
+Kavīndrācārya, pleaded with Shah Jehan for remission of taxes on Hindu pilgrims at Prayāga and Kāśī and was given the title of 'Sarvavidyānidhāna' and was felicitated by people throughout India 571-572
 
-Kavya verse is [[Rg,|Ṛg.]] X. 14.3, 503n
+Kavya verse is Ṛg. X. 14.3, 503n
 
-Kāyasthas, of Bengal, still observe [[āsauca|āśauca]] for a month owing to social tyranny 271
+Kāyasthas, of Bengal, still observe āśauca for a month owing to social tyranny 271
 
 Kielhorn, Dr. 643, 645, 650
 
-Keith, Prof. A. B., a. of 'Religion and philosophy of the [[Veda' 2n,38,|Veda' 2n, 38,]] 154n
+Keith, Prof. A. B., a. of 'Religion and philosophy of the Veda' 2n, 38, 154n
 
 Kenopaniṣad, 756
 
-[[Khādiragṛhyasūtra,|Khadiragṛhyasūtra,]] 53, 54, 112n, 346n, 354, 355, 358, 476, 487n, 574n
+Khadiragṛhyasūtra, 53, 54, 112n, 346n, 354, 355, 358, 476, 487n, 574n
 
 Khare, Mr. G. H., on 'Śrīviṭṭhala and Pandharpur' in Marathi 716n, 717, 719n, 720
 
@@ -1166,81 +1165,81 @@ Khoh, copperplate 16n
 
 Kīkaṭa, same as Magadha, supposed to be beyond pale of Aryanism 187n
 
-King, vide 'fine', 'prāyaścitta'; had not to observe periods of impurity 297; had jurisdiction to punish sinners, if they refused to undergo prāyaścitta prescribed by pariṣad 70-71; had to make good from his treasury or from officers stolen property if it could not be recovered from thief 74; had to be informed in carrying out [[ex piations|expiations]] for govadha or sins higher than it 70-71; helped in carrying out prāyaścittas prescribed by pariṣad 70; not to appropriate to himself fine recovered from one guilty of heavy guilt 71; neglect of penances was included among prakīrṇaka matters by Nārada which were solely dependent on the king 70; was to inflict branding and fine on those guilty of one of the first four [[mahā pātakas|mahāpātakas]] and that did not undergo expiation for same 71; was the [[ulti mate|ultimate]] heir and also performer of śrāddha for a person who has no relatives left 369
+King, vide 'fine', 'prāyaścitta'; had not to observe periods of impurity 297; had jurisdiction to punish sinners, if they refused to undergo prāyaścitta prescribed by pariṣad 70-71; had to make good from his treasury or from officers stolen property if it could not be recovered from thief 74; had to be informed in carrying out expiations for govadha or sins higher than it 70-71; helped in carrying out prāyaścittas prescribed by pariṣad 70; not to appropriate to himself fine recovered from one guilty of heavy guilt 71; neglect of penances was included among prakīrṇaka matters by Nārada which were solely dependent on the king 70; was to inflict branding and fine on those guilty of one of the first four mahāpātakas and that did not undergo expiation for same 71; was the ultimate heir and also performer of śrāddha for a person who has no relatives left 369
 
 Kirste, Dr. 361
 
-Kratu, [[smrti|smṛti]] of 226, 291n
+Kratu, smṛti of 226, 291n
 
-[[Krcchra,|Kṛcchra,]] means Prājāpatya 132; [[expia tion|expiation]] for theft 101; method of [[per forming|performing]] described 120; general term for several expiations 132; word for several kinds of expiations 132-133
+Kṛcchra, means Prājāpatya 132; expiation for theft 101; method of performing described 120; general term for several expiations 132; word for several kinds of expiations 132-133
 
-[[Krcchra-samvatsara|Kṛcchra-saṁvatsara]] 133
+Kṛcchra-saṁvatsara 133
 
-[[Krcchrātikṛcchra,|Kṛcchrātikṛcchra,]] 133-134
+Kṛcchrātikṛcchra, 133-134
 
 Krośa, measure of distance 590n
 
-[[Krsna,|Kṛṣṇa,]] meditation on, is the highest means for removing sins 50-51
+Kṛṣṇa, meditation on, is the highest means for removing sins 50-51
 
-[[Krsna,|Kṛṣṇa,]] Dr, of Mysore Archaeological Survey 717
+Kṛṣṇa, Dr, of Mysore Archaeological Survey 717
 
-[[Krtyaratnākara,|Kṛtyaratnākara,]] 149n, 321n, 352n, 371n, 374n, 375n, 419
+Kṛtyaratnākara, 149n, 321n, 352n, 371n, 374n, 375n, 419
 
-[[P869]][[Ksatriya,|Kṣatriya,]] alone could perform [[Asva medha|Aśvamedha]] 131; killing of, when amounted to [[brāhmana|brāhmaṇa]] murder 18
+[[P869]]Kṣatriya, alone could perform Aśvamedha 131; killing of, when amounted to brāhmaṇa murder 18
 
-[[Ksetraja|Kṣetraja]] son, defined 536n; to whom and in what order he offers [[pindas|piṇḍas]] in a śrāddha 536, 537
+Kṣetraja son, defined 536n; to whom and in what order he offers piṇḍas in a śrāddha 536, 537
 
-[[Kșetras,|Kṣetras,]] eight, each of [[Viṣnu, Siva|Viṣṇu, Śiva]] and Sakti 679n
+Kṣetras, eight, each of Viṣṇu, Śiva and Sakti 679n
 
-[[Kṣirasvāmin,|Kṣīrasvāmin,]] commentator of [[Amara kosa|Amarakośa]] 112n
+Kṣīrasvāmin, commentator of Amarakośa 112n
 
-[[Kulluka,|Kullūka,]] commentator on [[Manu smrti|Manu-smṛti]] 88, 90, 91, 93, 104n, 106, 131, 163, 271n, 276n, [[305n.|305n,]] 330n, 461n, 464n, 481n, 537n, 606
+Kullūka, commentator on Manu-smṛti 88, 90, 91, 93, 104n, 106, 131, 163, 271n, 276n, 305n, 330n, 461n, 464n, 481n, 537n, 606
 
-[[Kundapāyinām|Kuṇḍapāyinām]] ayana, rule of 136
+Kuṇḍapāyinām ayana, rule of 136
 
-Kumāra, a. of [[smrti|smṛti]] 79, 98n
+Kumāra, a. of smṛti 79, 98n
 
-Kumāragupta, king of Magadha, entered the fire of cowdung cakes at [[Prayaga|Prayāga]] 605
+Kumāragupta, king of Magadha, entered the fire of cowdung cakes at Prayāga 605
 
-[[Kumarasambhava,|Kumārasambhava,]] of [[Kalidasa|Kālidāsa]] 560
+Kumārasambhava, of Kālidāsa 560
 
-[[Kurmapurana|Kūrmapurāṇa]] 55, 186, 210n, 216, 220, 222n, 224n, 241, 274n, 276, 277, 283, 288, 290, 291n, 292, [[293,|293n,]] 298, 300, 301, 351, 370, 372, 374, 375, 377, 380, 381, 385, 387, 392, 395, 398, 402, 403, 404n, 409, 410, 411n, 419, 423, 448, 455, 466n, 468, 469n, 480, 483, 560, 566, 567n, 568, 570, 576, 586, 588, 594n, 597, 598n, 599n, 600n, 601, [[6050,|605n,]] 606, 607, 614, 615, 617, 623, 625n, 639n, 640, 653n, 654, 659, 683, 685n, 691, 695, 703, 704n, 705, 708
+Kūrmapurāṇa 55, 186, 210n, 216, 220, 222n, 224n, 241, 274n, 276, 277, 283, 288, 290, 291n, 292, [[293,|293n,]] 298, 300, 301, 351, 370, 372, 374, 375, 377, 380, 381, 385, 387, 392, 395, 398, 402, 403, 404n, 409, 410, 411n, 419, 423, 448, 455, 466n, 468, 469n, 480, 483, 560, 566, 567n, 568, 570, 576, 586, 588, 594n, 597, 598n, 599n, 600n, 601, [[6050,|605n,]] 606, 607, 614, 615, 617, 623, 625n, 639n, 640, 653n, 654, 659, 683, 685n, 691, 695, 703, 704n, 705, 708
 
-[[Kurujāngala,|Kurujāṅgala,]] 682
+Kurujāṅgala, 682
 
-Kurukṣetra, (25 miles east of Ambala) 680-686; see under 'Vinaśana', 'Samantapañcaka,' 'Pṛthūdaka'; all beings in K. are freed from all sins and also those that say 'I shall go to K.' 684; Asthipura is a sub-tīrtha 685; boundaries of, in [[Tai. A.|Tai. Ā.]] 681; called Brahmāvarta 682; country south of [[Sarasvati|Sarasvatī]] and north of [[Drsadvatī|Dṛṣadvatī]] was included in K. 682; eulogy of the greatness and sanctity of Kurukṣetra in the Epic and [[purānas|purāṇas]] 684; exhaustive list of [[tirthas|tīrthas]] in K. 686n; explanation of the word K. occurring in the Jābālopaniṣad 610n; extent of, was five yojanas in radius 683; fanciful derivation of K. 684n; history of, from [[Rgveda|Ṛgveda]] onwards 680-681; in the times of the [[Brāhmanas,|Brāhmaṇas,]] [[Sarasvati|Sarasvatī]] flowed through Kurukṣetra 682; is so called after king Kuru who ploughed the land with a golden plough for seven [[krosas|krośas]] all round 682n; lake Brahma-saras or Pavanahrada in K. 684-685; is referred to under several names 683; limits of, described in a some- what corrupt verse 683; said to have been the [[vedi|vedī]] of Brahmā 682; seven holy forests of 561n, 686; [[sub-tirthas|sub-tīrthas]] of 684-686; those dying in K. do not come to the earth again 566, 682n, 683, 684; [[Vyāsasthali|Vyāsasthalī]] (modern Basthali, 17 miles south west of Thanesar) is a [[sub-tirtha|sub-tīrtha]] where Vyāsa resolved to die on the loss of his son 685; was called [[Samantpañcaka|Samantapañcaka]] and then [[Kuruksetra|Kurukṣetra]] 682; was called [[Sannihali|Sannihati]] or Sannihatyā 686; was centre of Vedic culture in [[Brāhmana|Brāhmaṇa]] period and was called [[Dharmaksetra|Dharmakṣetra]] 610, 683-684
+Kurukṣetra, (25 miles east of Ambala) 680-686; see under 'Vinaśana', 'Samantapañcaka,' 'Pṛthūdaka'; all beings in K. are freed from all sins and also those that say 'I shall go to K.' 684; Asthipura is a sub-tīrtha 685; boundaries of, in Tai. Ā. 681; called Brahmāvarta 682; country south of Sarasvatī and north of Dṛṣadvatī was included in K. 682; eulogy of the greatness and sanctity of Kurukṣetra in the Epic and purāṇas 684; exhaustive list of tīrthas in K. 686n; explanation of the word K. occurring in the Jābālopaniṣad 610n; extent of, was five yojanas in radius 683; fanciful derivation of K. 684n; history of, from Ṛgveda onwards 680-681; in the times of the Brāhmaṇas, Sarasvatī flowed through Kurukṣetra 682; is so called after king Kuru who ploughed the land with a golden plough for seven krośas all round 682n; lake Brahma-saras or Pavanahrada in K. 684-685; is referred to under several names 683; limits of, described in a some- what corrupt verse 683; said to have been the vedī of Brahmā 682; seven holy forests of 561n, 686; sub-tīrthas of 684-686; those dying in K. do not come to the earth again 566, 682n, 683, 684; Vyāsasthalī (modern Basthali, 17 miles south west of Thanesar) is a sub-tīrtha where Vyāsa resolved to die on the loss of his son 685; was called [[Samantpañcaka|Samantapañcaka]] and then Kurukṣetra 682; was called [[Sannihali|Sannihati]] or Sannihatyā 686; was centre of Vedic culture in Brāhmaṇa period and was called Dharmakṣetra 610, 683-684
 
-[[Kūsmānda-homa,|Kūṣmāṇḍa-homa,]] as a remover of sins 43; procedure of 43-44
+Kūṣmāṇḍa-homa, as a remover of sins 43; procedure of 43-44
 
-[[Kūsmānda|Kūṣmāṇḍa]] mantras 43, 46n; as puri- fiers from sins 45; employed in [[Vrsotsarga|Vṛṣotsarga]] 540
+Kūṣmāṇḍa mantras 43, 46n; as puri- fiers from sins 45; employed in Vṛṣotsarga 540
 
 Kutapa, meanings of 376-377; deri- vation of 376
 
-[[Laghu-Āsvalāyana|Laghu-Āśvalāyana]] 221n, 225, 284, 285n, 287, 303, 421n, 480, 487n
+Laghu-Āśvalāyana 221n, 225, 284, 285n, 287, 303, 421n, 480, 487n
 
 Laghu-Atri 292n
 
 Laghu-Hārīta 19n, 44, 45n, 79n, 98, 214, 288, 293n, 294n, 306, 313n, 316n, 411
 
-[[Laghu-krcchra,|Laghu-kṛcchra,]] as [[prāyascitta|prāyaścitta]] 150; same as [[Sisukrcchra|Śiśukṛcchra]] 150
+Laghu-kṛcchra, as prāyaścitta 150; same as Śiśukṛcchra 150
 
-[[Laghu-Sankha|Laghu-Śaṅkha]] 19n, 401n, [[1ln, 518n,|511n, 518n,]] 539n
+Laghu-Śaṅkha 19n, 401n, [[1ln, 518n,|511n, 518n,]] 539n
 
-[[Laghu-Sātātapa|Laghu-Śātātapa]] 104, [[1460, 326n,|146n, 326n,]] 376n, 386, 464n
+Laghu-Śātātapa 104, [[1460, 326n,|146n, 326n,]] 376n, 386, 464n
 
-[[P870]][[Laghu-Visnu|Laghu-Viṣṇu]] 79n, 148n, 291n
+[[P870]]Laghu-Viṣṇu 79n, 148n, 291n
 
-[[Laksmanasena,|Lakṣmaṇasena,]] king of Bengal, men- tions in a grant a [[Gayal|Gayāl]] [[brahmana|brāhmaṇa]] 580
+Lakṣmaṇasena, king of Bengal, men- tions in a grant a Gayāl brāhmaṇa 580
 
-[[Laksmanasastri,|Lakṣmaṇaśāstrī,]] Pandit, of Wai [[7170|717n]]
+Lakṣmaṇaśāstrī, Pandit, of Wai [[7170|717n]]
 
 Lalitavistara 650
 
-[[Latyayana-srauta-sutra|Lāṭyāyana-śrauta-sūtra]] 62n, 681
+Lāṭyāyana-śrauta-sūtra 62n, 681
 
 [[Laugaksi-gphya|Laugākṣi-gṛhya]] 121, 130, 132, 140n, 147, 228, 518
 
-[[Laukayatikas,|Laukāyatikas,]] touch of 115
+Laukāyatikas, touch of 115
 
 Lauriya Nandangarh, excavations at are supposed to show Vedic burial mounds 254
 
@@ -1250,25 +1249,25 @@ Lefever, Dr. Henry, author of 'Vedic idea of sin' 2n
 
 Legge's translation of Fa Hien's work 619, 650
 
-[[Lepabbajah or lepabhujah-see|Lepabhājaḥ or lepabhujaḥ-see]] under [[srāddha|śrāddha]]
+[[Lepabbajah or lepabhujah-see|Lepabhājaḥ or lepabhujaḥ-see]] under śrāddha
 
 Leviticus 309, 327n
 
-[[Likhitasmrti|Likhitasmṛti]] 266n, 411, 518, 654
+Likhitasmṛti 266n, 411, 518, 654
 
-[[Līlāvati|Līlāvatī]] 129
+Līlāvatī 129
 
-[[Linga-purana|Liṅga-purāṇa]] 51, 124, 181, 261, 298, 310, 325, 542, 544, 566n, 608, 623, 626, 628, 629n, 630n, 631, 639, 640
+Liṅga-purāṇa 51, 124, 181, 261, 298, 310, 325, 542, 544, 566n, 608, 623, 626, 628, 629n, 630n, 631, 639, 640
 
-[[Lingas,|Liṅgas,]] numerous in [[Kasi|Kāśī]] 640; two lists of 14 great l. in [[Kasikhanda|Kāśīkhaṇḍa]] 640; 36 principal l. referred to in [[Kāsi khanda|Kāśīkhaṇḍa]] 640
+Liṅgas, numerous in Kāśī 640; two lists of 14 great l. in Kāśīkhaṇḍa 640; 36 principal l. referred to in Kāśīkhaṇḍa 640
 
-Lodge, Sir Oliver, in 'Christian [[Doc trine'|Doctrine']] 1n, 8n
+Lodge, Sir Oliver, in 'Christian Doctrine' 1n, 8n
 
 Lourdes (in France), miraculous cure of diseases at 561, 641
 
 Luke, Gospel of 38n, 41n, 171, 233
 
-[[Ma-Asir-i-Alamgiri|Ma-Aṣir-i-Alamgiri]] 632, 692n
+Ma-Aṣir-i-Alamgiri 632, 692n
 
 MacDonell, Prof. A. A. 154n, 157
 
@@ -1280,29 +1279,29 @@ Madana-pārijāta 10, 23, 24, 27n, 30n, 45n, [[C0n,|60n,]] 64n, 70n, 73, 76n, 78
 
 Madanaratna, a work 52n, 82
 
-[[Madhubrāhmana|Madhubrāhmaṇa]] is same as Madhu- vidyā, which see, 449n
+Madhubrāhmaṇa is same as Madhu- vidyā, which see, 449n
 
 Madhumatī verses 46n, 437, 496, 497, 507, 524
 
 Madhūni, texts called, as purifiers from sins 45
 
-Madhuvidyā, stated in [[Br. Up.|Bṛ. Up.]] and Chān. Up. 449n
+Madhuvidyā, stated in Bṛ. Up. and Chān. Up. 449n
 
-Madhva, conflict about the dates of the birth and death of, [[64 4n;|644n;]] wrote [[Mahābhārata-tātparyanirnaya|Mahābhārata-tātparyanirṇaya]] in gatakali 4300, 644n
+Madhva, conflict about the dates of the birth and death of, 644n; wrote Mahābhārata-tātparyanirṇaya in gatakali 4300, 644n
 
-[[Madhyadesa,|Madhyadeśa,]] boundaries of 557-558n
+Madhyadeśa, boundaries of 557-558n
 
-[[Madhyamāngiras|Madhyamāṅgiras]] 88n
+Madhyamāṅgiras 88n
 
-Madya (intoxicant), see under 'surā', and [['brāhmana';|'brāhmaṇa';]] forbidden to [[brāh manas|brāhmaṇas]] at all stages of life 21; ten kinds of 21
+Madya (intoxicant), see under 'surā', and 'brāhmaṇa'; forbidden to brāhmaṇas at all stages of life 21; ten kinds of 21
 
 Magas buried their dead underground 234
 
 [[Māghyāvarga|Māghyāvarṣa]] rite 360-361; doubt about the real name 360; two views about the time of its performance 360; probably the precursor of the later Mahālayasrāddha 361
 
-Mahābhārata 164, 180, 181, 187, 188, 223, 237, 363, 371n, 450 (should be recited in [[Pārvanasrāddha|Pārvaṇaśrāddha]] as it is dear to [[pitrs),|pitṛs),]] 561, 562, 585, 607, 608, 649, 682, 703, 709
+Mahābhārata 164, 180, 181, 187, 188, 223, 237, 363, 371n, 450 (should be recited in Pārvaṇaśrāddha as it is dear to pitṛs), 561, 562, 585, 607, 608, 649, 682, 703, 709
 
-[[Mahābharani srāddha|Mahābharaṇī śrāddha]] performed in Bhādrapada dark half when the moon is in [[Bharanī|Bharaṇī]] [[naksatra|nakṣatra]] and is equal to [[Gayāsrāddha|Gayāśrāddha]] 533
+Mahābharaṇī śrāddha performed in Bhādrapada dark half when the moon is in Bharaṇī nakṣatra and is equal to Gayāśrāddha 533
 
 Mahābhāṣya, of Patañjali 16n, [[22u,|22n,]] 58, 295n, 400n, 408, 449n, 619, 621, 687, 706, 709, 711, 746, 756, 758, 763, 768
 
@@ -1310,147 +1309,147 @@ Mahādivākīrtya, sāman 46n
 
 Mahākassapa, disciple of Buddha 235
 
-[[P871]][[Mahālayasraddha,|Mahālayasrāddha,]] see 'ascetics'; follows procedure of [[pārvanasraddha|pārvaṇaśrāddha]] 532; is so called because it is the abode [[(alaya)|(ālaya)]] of the maha (festival for [[pitrs)|pitṛs)]] 531; is the most eminent among all [[sraddhas|śrāddhas]] 532; latter half of [[Bhadrapada|Bhādrapada]] when the sun is in Kanyā is called Mahālaya and Gajacchāyā 532; to be performed in the dark half of [[Bhadrapada|Bhādrapada]] when the sun is in the zodiacal sign Kanyā or [[Tula|Tulā]] 530-531; is performed not only for benefit of paternal and maternal ancestors, but also for several deceased [[rela. tives|relatives]] together with their wives (such as son, uncles, aunts, sisters, father-in-law, friend, pupil) 533; various views as to the exact date on which M. should be performed 532; when the sun enters the sign of scorpion and no [[sraddha|śrāddha]] is performed the [[pitrs|pitṛs]] lose hope, pronounce a curse on their descendant and return to their abode 531
+[[P871]]Mahālayasrāddha, see 'ascetics'; follows procedure of pārvaṇaśrāddha 532; is so called because it is the abode (ālaya) of the maha (festival for pitṛs) 531; is the most eminent among all śrāddhas 532; latter half of Bhādrapada when the sun is in Kanyā is called Mahālaya and Gajacchāyā 532; to be performed in the dark half of Bhādrapada when the sun is in the zodiacal sign Kanyā or Tulā 530-531; is performed not only for benefit of paternal and maternal ancestors, but also for several deceased relatives together with their wives (such as son, uncles, aunts, sisters, father-in-law, friend, pupil) 533; various views as to the exact date on which M. should be performed 532; when the sun enters the sign of scorpion and no śrāddha is performed the pitṛs lose hope, pronounce a curse on their descendant and return to their abode 531
 
 Mahānāmnī, verses, as purifiers from sins 45, 46n
 
-[[Mahāparinibbana-sutta|Mahāparinibbāna-sutta]] 234, 235n, 552, 621
+Mahāparinibbāna-sutta 234, 235n, 552, 621
 
-Mahāpātakas, see [['brāhmana|'brāhmaṇa]] murder'; first among them is [[brāhmana|brāhmaṇa]] mur- der 88; [[Sankha|Śaṅkha]] prescribes prāyaścitta of twelve years for one guilty of one of the m. 87-88
+Mahāpātakas, see 'brāhmaṇa murder'; first among them is brāhmaṇa mur- der 88; Śaṅkha prescribes prāyaścitta of twelve years for one guilty of one of the m. 87-88
 
-[[Mabapitryajña,|Mahāpitṛyajña,]] performed in the [[Catur- māsya|Cāturmāsya]] called [[Sakamedha|Sākamedha]] 350, 426-27
+[[Mabapitryajña,|Mahāpitṛyajña,]] performed in the Cāturmāsya called Sākamedha 350, 426-27
 
-[[Mabaraurava,|Mahāraurava,]] [[Panini|Pāṇini]] teaches accent of 162
+[[Mabaraurava,|Mahāraurava,]] Pāṇini teaches accent of 162
 
 Mahārudra 178
 
-Mahāprasthānika-parva of the [[Maha bhārata|Mahābhārata]] 607
+Mahāprasthānika-parva of the Mahābhārata 607
 
-[[Mahārnava,|Mahārṇava,]] [[133 n,|133n,]] 134n
+Mahārṇava, 133n, 134n
 
-[[Maharnava-karmavipaka,|Mahārṇava-karmavipāka,]] a work, 43, 121, [[146,|146n,]] 172n, 175, 178 (brief analysis of contents of)
+Mahārṇava-karmavipāka, a work, 43, 121, [[146,|146n,]] 172n, 175, 178 (brief analysis of contents of)
 
-[[Maharnavaprakasa,|Mahārṇavaprakāśa,]] 460, 479
+Mahārṇavaprakāśa, 460, 479
 
-[[Mahāsantapana,|Mahāsāntapana,]] an expiation 147
+Mahāsāntapana, an expiation 147
 
 Mahāsudassana-sutta 721
 
 [[Maha-taptakrochra,|Mahā-taptakṛcchra,]] 147
 
-[[Mahavagga,|Mahāvagga,]] 668n, 677
+Mahāvagga, 668n, 677
 
-Mahāvairāja, [[saman|sāman]] 46n
+Mahāvairāja, sāman 46n
 
-[[Mahāyajnas,|Mahāyajñas,]] five daily, prescribed for each householder of which sacrifice to the [[pitrs|pitṛs]] was one 369
+Mahāyajñas, five daily, prescribed for each householder of which sacrifice to the pitṛs was one 369
 
-[[Mahesvara-krcchra,|Maheśvara-kṛcchra,]] 148
+Maheśvara-kṛcchra, 148
 
-Mahīdhara, commentator of [[Vajas aneya-samhitā|Vājasaneya-saṁhitā]] 433n
+Mahīdhara, commentator of Vājasaneya-saṁhitā 433n
 
-[[Mahismatī,|Māhiṣmatī,]] capital of [[Anupa|Anūpa]] on the bank of the Revā 703; about the exact location of which scholars differ 706-707
+Māhiṣmatī, capital of Anūpa on the bank of the Revā 703; about the exact location of which scholars differ 706-707
 
-[[Maitrakrcchra|Maitrakṛcchra]] 148
+Maitrakṛcchra 148
 
-[[Maitrāyani-samhita,|Maitrāyaṇī-saṁhitā,]] 230, 426n, 427n, 428n, 433, 680
+Maitrāyaṇī-saṁhitā, 230, 426n, 427n, 428n, 433, 680
 
-[[Maitrayani Upanisad|Maitrāyaṇī Upaniṣad]] 695
+Maitrāyaṇī Upaniṣad 695
 
-[[Maitrāyaniya-sutra,|Maitrāyaṇīya-sūtra,]] 468, 478
+Maitrāyaṇīya-sūtra, 468, 478
 
 Majjhima, 687
 
 Malāvaha sins 15-16, 35; expiation for 118-119
 
-Man, see under 'death'; entertains a belief even in the [[Upanisads|Upaniṣads]] that the thoughts that dying man has at time of death determine what will [[happ en|happen]] to his soul 185-186; dying man taking [[sannyasa|sannyāsa]] was supposed to be free from the cycle of births and deaths 185; dying man should be made to give one or more of ten gifts 182; dying man, after one or more out of ten gifts, should donate a cow with calf and another cow called [[Vaitarani|Vaitaraṇī]] 183; dying [[m,|m.]] should repeat such mantras as 'Om namo [[bhagavate Vasudevāya'|bhagavate Vāsudevāya']] or listen to Vedic texts or [[samans|sāmans]] or the [[Gitā|Gītā]] and other works 185; dying near [[Sala grāma|Śālagrāma]] reaches highest abode of [[Visnu|Viṣṇu]] or [[Vaikuntha|Vaikuṇṭha]] even though he be a mleccha 187; dying in a garden of [[Tulasi|Tulasī]] (basil) plants or with a basil leaf in his [[aunth|mouth]] attains [[moksa|mokṣa]] even if guilty of crores of sins 187; enemies of, [[addording ja|according to]] [[Sānti parva|Śāntiparva]] 9; how m. [[indung An|incurs sin]] 10; m, on whose death no [[piala|piṇḍa]] was offered
+Man, see under 'death'; entertains a belief even in the Upaniṣads that the thoughts that dying man has at time of death determine what will happen to his soul 185-186; dying man taking sannyāsa was supposed to be free from the cycle of births and deaths 185; dying man should be made to give one or more of ten gifts 182; dying man, after one or more out of ten gifts, should donate a cow with calf and another cow called Vaitaraṇī 183; dying m. should repeat such mantras as 'Om namo bhagavate Vāsudevāya' or listen to Vedic texts or sāmans or the Gītā and other works 185; dying near Śālagrāma reaches highest abode of Viṣṇu or Vaikuṇṭha even though he be a mleccha 187; dying in a garden of Tulasī (basil) plants or with a basil leaf in his [[aunth|mouth]] attains mokṣa even if guilty of crores of sins 187; enemies of, [[addording ja|according to]] Śāntiparva 9; how m. [[indung An|incurs sin]] 10; m, on whose death no [[piala|piṇḍa]] was offered
 
-[[P872]]or the sixteen [[srāddhas|śrāddhas]] were not performed remained for long in the condition of a [[pisaca|piśāca]] 265-266; if man dying is a knower of brahma, in his ear should be [[utter ed|uttered]] Tai. Up. II. 1 and III. 1, 185; practice of taking down from the bedstead a dying m. and placing on a bed of [[kusa|kuśa]] grass or of sand on the earth 182; polluted by certain actions 51; [[sarvaprāyascitta|sarvaprāyaścitta]] for dying man 184; son or other relative of dying m. should perform or make him perform vratodyāpana, [[sarva prā yaścitta|sarvaprāyaścitta]] and gift of ten dānas 183; should, when dying, be taken near a holy place (like the Ganges) 186; various views about the fate of the departed m. in [[Upanisad|Upaniṣad]] times 155
+[[P872]]or the sixteen śrāddhas were not performed remained for long in the condition of a piśāca 265-266; if man dying is a knower of brahma, in his ear should be uttered Tai. Up. II. 1 and III. 1, 185; practice of taking down from the bedstead a dying m. and placing on a bed of kuśa grass or of sand on the earth 182; polluted by certain actions 51; sarvaprāyaścitta for dying man 184; son or other relative of dying m. should perform or make him perform vratodyāpana, sarvaprāyaścitta and gift of ten dānas 183; should, when dying, be taken near a holy place (like the Ganges) 186; various views about the fate of the departed m. in Upaniṣad times 155
 
-[[Manasvati|Manasvatī]] verses are [[Rg.|Ṛg.]] X. 57.3-5, 499
+Manasvatī verses are Ṛg. X. 57.3-5, 499
 
-[[Mānava-grhya-sūtra|Mānava-gṛhya-sūtra]] 46n, [[59,|58,]] 354
+Mānava-gṛhya-sūtra 46n, [[59,|58,]] 354
 
-[[Mandalabrahmana|Māṇḍalabrāhmaṇa]] is an [[Upanisad|Upaniṣad]] 449n
+Māṇḍalabrāhmaṇa is an Upaniṣad 449n
 
-[[Mandhātr,|Māndhātṛ,]] author of [[Mahārnava-karma vipāka|Mahārṇava-karmavipāka]] 172n, 178
+Māndhātṛ, author of Mahārṇava-karmavipāka 172n, 178
 
-[[Māndhātr,|Māndhātṛ,]] legendary king who was instructed by Indra 364
+Māndhātṛ, legendary king who was instructed by Indra 364
 
 Man Mohan Chakravarti 698
 
-[[Manimekhalai|Maṇimekhalai]] 712
+Maṇimekhalai 712
 
-Mantra, [[mula|mūla]] m. of [[Siva|Śiva]] 699; of five letters [[(namah Sivāya)|(namaḥ Śivāya)]] 51; of eight letters (om namo [[Nārāyanāya)|Nārāyaṇāya)]] [[51.|51,]] 700; of twelve letters (om namo bhagavate [[Vasudevāya)|Vāsudevāya)]] 51, 700; to be recited at the commencement and completion of expiations 124-125
+Mantra, mūla m. of Śiva 699; of five letters (namaḥ Śivāya) 51; of eight letters (om namo Nārāyaṇāya) 51, 700; of twelve letters (om namo bhagavate Vāsudevāya) 51, 700; to be recited at the commencement and completion of expiations 124-125
 
-Mantras, see under Japa; from the several Vedas, how repeated 45; from several Vedas become powerful [[puri fiers|purifiers]] when accompanied by tapas 49; meaning of, need not be understood in smārta rites 51; of two kinds, Vaidika and [[Agamokta|Āgamokta]] 51; same mantras often occur in different Vedic [[samhitas|saṁhitās]] [[433 :|433;]] to be repeated at the time of making gifts for a dying man 183; to be repeated on entering a house and touching [[sami|śamī]] leaves, fire and stone [[(asmā)|(aśmā)]] 238
+Mantras, see under Japa; from the several Vedas, how repeated 45; from several Vedas become powerful purifiers when accompanied by tapas 49; meaning of, need not be understood in smārta rites 51; of two kinds, Vaidika and Āgamokta 51; same mantras often occur in different Vedic saṁhitās 433; to be repeated at the time of making gifts for a dying man 183; to be repeated on entering a house and touching śamī leaves, fire and stone (aśmā) 238
 
-Manu, as the promulgator of [[sraddha|śrāddha]] rites and styled [[srāddhadeva|śrāddhadeva]] 349
+Manu, as the promulgator of śrāddha rites and styled śrāddhadeva 349
 
-Manu, as father of mankind in the [[Rgveda|Ṛgveda]] 349
+Manu, as father of mankind in the Ṛgveda 349
 
-Manu, [[(smrti of)|(smṛti of)]] [[10.11n,|10, 11n,]] 14n, 15, 16, 18-25, 30-32, 34, 35, 40-44, 46, 47, 50, [[52–54,|52-54,]] 60n, 61-66, 71, 72, 74-78, 82-84, 88, 90-107, 110, 111, 113-116, 118-120, 123 (not in printed text), 124-125, 129, 130, 132, 134, 135-138, 141, 142, 145, 147, 149, 150, [[153,161|153, 161,]] 163, 173, 176, 190, [[214-216,222,225,|214-216, 222, 225,]] 227, 228, 238, 240, 258, 261, 267-269, 271, 275, 276n, 277, 278n, 281, 282n, 283, 286-288, 290, 292, 296-298, 300, 301, 305, 307, 309, 311, 312, 314, 316, 317, 321, 322, 325, 326, 327n, 328-331, 334, 339, 340, 343, 344, 348, 352, 358, 360, 361, 365, 366, 369, 370, 371, 375, 377, 379, 381, 383, 385, 387, 389, 390, 391n, 392, 394, 398n, [[401.|401,]] 403, 406, 407n, 408-410, 412, 413, 422n, 423, 424, 425, [[434n, 435,|434n, 435n,]] 437n, 439, 443-445, 447, 449n, 450n, 453, 454, 456, 461, 463, 464, 466, 468-470, 473n, 477n, 479-481, 483, 484, 487n, 497n, 509n, 510, 511n, 512, 517, 524, 525, 536n, 537, 538, 540n, 549, 557, 587, 604, 606, 682.
+Manu, (smṛti of) 10, 11n, 14n, 15, 16, 18-25, 30-32, 34, 35, 40-44, 46, 47, 50, 52-54, 60n, 61-66, 71, 72, 74-78, 82-84, 88, 90-107, 110, 111, 113-116, 118-120, 123 (not in printed text), 124-125, 129, 130, 132, 134, 135-138, 141, 142, 145, 147, 149, 150, 153, 161, 163, 173, 176, 190, 214-216, 222, 225, 227, 228, 238, 240, 258, 261, 267-269, 271, 275, 276n, 277, 278n, 281, 282n, 283, 286-288, 290, 292, 296-298, 300, 301, 305, 307, 309, 311, 312, 314, 316, 317, 321, 322, 325, 326, 327n, 328-331, 334, 339, 340, 343, 344, 348, 352, 358, 360, 361, 365, 366, 369, 370, 371, 375, 377, 379, 381, 383, 385, 387, 389, 390, 391n, 392, 394, 398n, 401, 403, 406, 407n, 408-410, 412, 413, 422n, 423, 424, 425, [[434n, 435,|434n, 435n,]] 437n, 439, 443-445, 447, 449n, 450n, 453, 454, 456, 461, 463, 464, 466, 468-470, 473n, 477n, 479-481, 483, 484, 487n, 497n, 509n, 510, 511n, 512, 517, 524, 525, 536n, 537, 538, 540n, 549, 557, 587, 604, 606, 682.
 
-[[Manvadi|Manvādi]] tithis 375
+Manvādi tithis 375
 
 Manvantara 164
 
-[[Marici,|Marīci,]] [[smrti|smṛti]] of 275n, 292, 305, 322, 351, 478, 514n,
+Marīci, smṛti of 275n, 292, 305, 322, 351, 478, 514n,
 
-[[Marjana,|Mārjana,]] (splashing water on head and other limbs with kuśas dipped in water) 120, 133
+Mārjana, (splashing water on head and other limbs with kuśas dipped in water) 120, 133
 
 Mark, Gospel of 41n, 233
 
 Marks branded on the forehead of one guilty of first four mahāpātakas 72
 
-[[Markandeyapurana,|Mārkaṇḍeyapurāṇa,]] 39, [[127,|127n,]] 134, 143, 146, 148, 151, 163, 164, 177, 181, 256, 261, 265n, 266, 312, 322, 335, 336, [[337,|337n,]] 338, 340n, 342, 350n, 352, 371-372, 374, 379, 380, [[38871|388n,]] 392, 396, 409, 411, 415, 420, [[4481D|448n,]] 462, 463n, 470n, 483, 517, 518n, 521, 523n, 524, 528, 532, [[524,|534,]] 535n, 708n
+Mārkaṇḍeyapurāṇa, 39, [[127,|127n,]] 134, 143, 146, 148, 151, 163, 164, 177, 181, 256, 261, 265n, 266, 312, 322, 335, 336, [[337,|337n,]] 338, 340n, 342, 350n, 352, 371-372, 374, 379, 380, [[38871|388n,]] 392, 396, 409, 411, 415, 420, [[4481D|448n,]] 462, 463n, 470n, 483, 517, 518n, 521, 523n, 524, 528, 532, [[524,|534,]] 535n, 708n
 
 [[P873]]Marshall, Sir John, on Mohenjo-daro 234
 
-Maskarin, a. of [[bhāsya|bhāṣya]] on [[Gautama. dharmasūtra|Gautama-dharmasūtra]] 45n, [[46,|46n,]] [[59,|59n,]] 273 (m. in com. on [[Asaucāstaka )|Āśaucāṣṭaka)]]
+Maskarin, a. of bhāṣya on Gautama-dharmasūtra 45n, [[46,|46n,]] [[59,|59n,]] 273 (m. in com. on Āśaucāṣṭaka)
 
-[[Mātamahasraddha|Mātāmahaśrāddha]] or [[Dauhitra-prati. pat-Sraddha|Dauhitra-pratipat-śrāddha]] 533
+Mātāmahaśrāddha or [[Dauhitra-prati. pat-Sraddha|Dauhitra-pratipat-śrāddha]] 533
 
 Matthew, Gospel of, [[38,|38n,]] 41n, 171, 233
 
-Mathurā, (or [[Madhura)|Madhurā)]] 686-692; antiquity of, discussed 687-689; esoteric interpretation on [[Krsna,|Kṛṣṇa,]] [[Gopis,|Gopīs,]] [[Kālindi|Kālindī]] 691n; established by [[Satrughna|Śatrughna]] 688; eulogy of M. in the purāṇas 690; Govardhana hill 691; Gokula or Vraja or Mahāvana 691; inscription of [[Khāravala|Khāravela]] refers to 688; inscriptions of Kuṣāṇa rulers that refer to it 689; [[Krsna|Kṛṣṇa]] left M. owing to the constant attacks of [[Jara sandha|Jarāsandha]] and established the [[Yadavas|Yādavas]] in Dvārakā 688; Megasthenes knew its connection with Heracles [[(Hari-Krsna )|(Hari-Kṛṣṇa)]] 687; nine [[Naga|Nāga]] kings that ruled over M. 689; old temples of Mathurā were [[des troyed|destroyed]] at Aurangzeb's order 692; [[Panini|Pāṇini]] includes it in [[Varanādi-gana|Varaṇādi-gaṇa]] 687; Ptolemy calls it 'Modoura of the gods' 687n; spoken of, as [[Sauryapura|Śauryapura]] in Jaina works 687; twelve vanas (forests) of M. 690-691; Vallabhācārya founded new Gokula 692; [[Vrndāvana,|Vṛndāvana,]] highly eulogised in [[Puranas|Purāṇas]] and by [[Káli dāsa,|Kālidāsa,]] 691-92; centre of Caitanya's movement 692; [[Vrsnis|Vṛṣṇis]] and Andhakas left M. through the fear of [[Kalaya- vana,|Kālayavana,]] acc. to [[Brahmapurana|Brahmapurāṇa]] 688
+Mathurā, (or Madhurā) 686-692; antiquity of, discussed 687-689; esoteric interpretation on Kṛṣṇa, Gopīs, Kālindī 691n; established by Śatrughna 688; eulogy of M. in the purāṇas 690; Govardhana hill 691; Gokula or Vraja or Mahāvana 691; inscription of [[Khāravala|Khāravela]] refers to 688; inscriptions of Kuṣāṇa rulers that refer to it 689; Kṛṣṇa left M. owing to the constant attacks of Jarāsandha and established the Yādavas in Dvārakā 688; Megasthenes knew its connection with Heracles (Hari-Kṛṣṇa) 687; nine Nāga kings that ruled over M. 689; old temples of Mathurā were destroyed at Aurangzeb's order 692; Pāṇini includes it in Varaṇādi-gaṇa 687; Ptolemy calls it 'Modoura of the gods' 687n; spoken of, as Śauryapura in Jaina works 687; twelve vanas (forests) of M. 690-691; Vallabhācārya founded new Gokula 692; Vṛndāvana, highly eulogised in Purāṇas and by Kālidāsa, 691-92; centre of Caitanya's movement 692; Vṛṣṇis and Andhakas left M. through the fear of Kālayavana, acc. to Brahmapurāṇa 688
 
 Matsyapurāṇa, 19, 23, 55, 72, 102, 129, 166, 176, 221, 271, 310, 335, 336, 338, 340, 344, 374, 375, 381, 385, 387, 389, 390, 392, 396, 403, 407, 410, 413, 414, 418, 420, 421, 422n, 423, 445n, 446n, 447, 448, 450n, 464n, 468, 470, 478, 480, 482, 484, 497n, 519, 533, 535, 539n, 540n, 560n, 561n, 564, 565n, 566, 567, 568n, 574n, 576, 582, 585, 587, 589, 594n, 597, 601, 602n, 605, 606, 611, 613, 614, 615, 617n, 621, 623, 624n, 625n, 626n, 627, 629, 630n, 638, 639n, 641n, 653n, 654, 691, 703, 706, 708n
 
 Mausalaparva, 223
 
-Max [[Muller|Müller]] 8
+Max Müller 8
 
-Maxims, see under 'nyāyas'; [['caturdha karana'|'caturdhākaraṇa']] 670; [['Dandavat prāyascittani bhavanti'|'Daṇḍavat prāyaścittāni bhavanti']] 75-76, 81; of the power of an authoritative [[sruti|śruti]] or [[smrti|smṛti]] text [[66,|66n,]] 67; of [[Kundapayınam ayana|Kuṇḍapāyinām ayana]] 136, 137n; of niṣāda-sthapati 24; of 'phalavat-sannidhau aphalam [[tadangam'|tadaṅgam']] 481; of 'Rātrisattra' 62-63, 602n; of [[sarvasakha-pratyaya|sarvaśākhā-pratyaya]] 89-90, 453-455; of [[visaya-vyavastha|viṣaya-vyavasthā]] 87
+Maxims, see under 'nyāyas'; 'caturdhākaraṇa' 670; 'Daṇḍavat prāyaścittāni bhavanti' 75-76, 81; of the power of an authoritative śruti or smṛti text [[66,|66n,]] 67; of [[Kundapayınam ayana|Kuṇḍapāyinām ayana]] 136, 137n; of niṣāda-sthapati 24; of 'phalavat-sannidhau aphalam tadaṅgam' 481; of 'Rātrisattra' 62-63, 602n; of sarvaśākhā-pratyaya 89-90, 453-455; of viṣaya-vyavasthā 87
 
 McCrindle, Mr. J. W., on 'Invasion of India by Alexander the Great' 612; on 'Megasthenes and Arrian' 687n, and 'Ancient India as described by [[Ptolemy' 1870|Ptolemy' 187n]]
 
-Measures of capacity, such as [[adhaka|āḍhaka]] and [[drona|droṇa]] 330
+Measures of capacity, such as āḍhaka and droṇa 330
 
 Measures of length or distance 590n
 
-[[Medhatithi,|Medhātithi,]] commentator of Manu, 10, 16n, 52, 63, 75, 93, 102, 103, 124, 286, 316, 325, 326n, 327n, 362n, 365, 377, 386, 391, 394n, 401n, 416, 444, 453, 464, 477, 483, 604, 606n, 611n
+Medhātithi, commentator of Manu, 10, 16n, 52, 63, 75, 93, 102, 103, 124, 286, 316, 325, 326n, 327n, 362n, 365, 377, 386, 391, 394n, 401n, 416, 444, 453, 464, 477, 483, 604, 606n, 611n
 
-[[Meghaduta|Meghadūta]] 619
+Meghadūta 619
 
-Men; in case of m., guilty of suicide by fire, poison or the like, or who are patita, no cremation, no offering of water and no [[āsauca|āśauca]] are prescribed by Manu, [[Yaj,|Yāj,]] 301; water and [[pinda|piṇḍa]] offered to men who die in angry fights with [[candālas|cāṇḍālas]] or with a [[brāh mana|brāhmaṇa]] or a snake, from animals or lightning do not reach them and perish in mid air, [[belhi's|but this]] does not apply to those [[whandiafrom|who die from]] inadvertence in this [[manner|manner 301]]
+Men; in case of m., guilty of suicide by fire, poison or the like, or who are patita, no cremation, no offering of water and no āśauca are prescribed by Manu, Yāj, 301; water and piṇḍa offered to men who die in angry fights with cāṇḍālas or with a brāhmaṇa or a snake, from animals or lightning do not reach them and perish in mid air, [[belhi's|but this]] does not apply to those [[whandiafrom|who die from]] inadvertence in this [[manner|manner 301]]
 
 Meru mountain 169
 
 Mettasutta 550n
 
-[[P874]][[Mimāṁsā,|Mīmāṁsā,]] see 'Jaimini', 'maxim', [['Pūrvamimāṁsā',|'Pūrvamīmāṁsā',]] 136, 481
+[[P874]]Mīmāṁsā, see 'Jaimini', 'maxim', 'Pūrvamīmāṁsā', 136, 481
 
-[[Mitaksarā|Mitākṣarā]] discards the dicta of [[smrtis|smṛtis]] and of Parāśara on periods of āśauca as contradictory and as opposed to popular usage 272; rules of M. as to [[asauca|āśauca]] became unacceptable in 500 years to [[Nirnayasindhu|Nirṇayasindhu]] 272; theory of, about [[sapinda|sapiṇḍa]] relationship 510
+Mitākṣarā discards the dicta of smṛtis and of Parāśara on periods of āśauca as contradictory and as opposed to popular usage 272; rules of M. as to āśauca became unacceptable in 500 years to Nirṇayasindhu 272; theory of, about sapiṇḍa relationship 510
 
-[[Mitāksarā,|Mitākṣarā,]] (com. on [[Yajnavalkya smrti)|Yājñavalkyasmṛti)]] 10, 11n, 16-19, 21-24, 25n, 26, 28n, 30n, 32, 35, 42, 43n, 44, 49, 50, 60, 61n, 63n, 65, 66, 68n, 72-74, 77, 78n, 79-81, 83, 86n, 89, 90, 93n, 94-98, 101, 102n, 103, 104, 105n, 106, 108n, 109n, 111, 114n, 117, 119, 122n, 125-127, 128, 130, 131, 134, 136-138, 141-143, 146, 148, 149, 151, 152, 174, 175, 177, 210n, 215, 216, 217, 218, 219, 220n, [[22 in,|221n,]] 223n, 227, 228, 231, 237, 238n, 239, 240, 262n, 268, 270, 271, 275n, 276n, 280, 282, 283, 284, 285n, 288, 289n, 291n, 292-294, 295, 298, 299n, 301-303, 305n, 316, 317, 322n, 324n, 326, 334, [[3360,|336n,]] 366-368, 371n, 375, 381, 387, 394n, [[4020,|402n,]] 407n, 408, 411, 414n, 422n, [[423a,|423n,]] 424, 440n, 441n, [[4420,|442n,]] 443n, 444, 446n, 448n, 449, 453, 457, 461, 510, 512, 516n, 518n, 519, 520, 521n, 523n, 524, 525, 528, 537n, 574, 575, 604
+Mitākṣarā, (com. on Yājñavalkyasmṛti) 10, 11n, 16-19, 21-24, 25n, 26, 28n, 30n, 32, 35, 42, 43n, 44, 49, 50, 60, 61n, 63n, 65, 66, 68n, 72-74, 77, 78n, 79-81, 83, 86n, 89, 90, 93n, 94-98, 101, 102n, 103, 104, 105n, 106, 108n, 109n, 111, 114n, 117, 119, 122n, 125-127, 128, 130, 131, 134, 136-138, 141-143, 146, 148, 149, 151, 152, 174, 175, 177, 210n, 215, 216, 217, 218, 219, 220n, [[22 in,|221n,]] 223n, 227, 228, 231, 237, 238n, 239, 240, 262n, 268, 270, 271, 275n, 276n, 280, 282, 283, 284, 285n, 288, 289n, 291n, 292-294, 295, 298, 299n, 301-303, 305n, 316, 317, 322n, 324n, 326, 334, [[3360,|336n,]] 366-368, 371n, 375, 381, 387, 394n, [[4020,|402n,]] 407n, 408, 411, 414n, 422n, [[423a,|423n,]] 424, 440n, 441n, [[4420,|442n,]] 443n, 444, 446n, 448n, 449, 453, 457, 461, 510, 512, 516n, 518n, 519, 520, 521n, 523n, 524, 525, 528, 537n, 574, 575, 604
 
-Mitra, Dr. Rajendralal on [['Buddha gayā'|'Buddhagayā']] 643, 644, 646n, 650, 659; on Antiquities of Orissa' 693, 695, 696, 697, 698, 699, 750, 751,
+Mitra, Dr. Rajendralal on 'Buddhagayā' 643, 644, 646n, 650, 659; on Antiquities of Orissa' 693, 695, 696, 697, 698, 699, 750, 751,
 
-Mleccha, divergence of views about meaning of 117; how Sagara dealt with [[Sakas,|Śakas,]] Yavanas [[Kambojas|Kāmbojas]] and other Mlecchas, as to dress and hair 117; M. country is one in which the system of four [[varnas|varṇas]] is not [[establ- ished|established]] 378
+Mleccha, divergence of views about meaning of 117; how Sagara dealt with Śakas, Yavanas Kāmbojas and other Mlecchas, as to dress and hair 117; M. country is one in which the system of four varṇas is not established 378
 
 Mohenjo-daro, date of ruins of, not certain 234; funeral customs at 247n
 
-[[Moksa,|Mokṣa,]] results from correct knowledge of the supreme Reality 613; results in four ways viz. by knowledge of brahma, by [[srāddha|śrāddha]] at Gayā, on death in a fight for preventing seizure of cows and by residence in [[Kuruksetra|Kurukṣetra]] 566, 654
+Mokṣa, results from correct knowledge of the supreme Reality 613; results in four ways viz. by knowledge of brahma, by śrāddha at Gayā, on death in a fight for preventing seizure of cows and by residence in Kurukṣetra 566, 654
 
 Monasteries, founding of, in Europe, for atonement of the sins of the founder and his progenitors 52n
 
@@ -1460,53 +1459,53 @@ Mortmain, statute of, in England, to prevent accumulation of large estates with 
 
 Mother Goddesses, worship of, is oldest and most widely spread form of religion 529n
 
-Mountains, see under 'Parvata'; are included among holy localities and as destroyers of sin 560; [[Bhāgavata purāṇa|Bhāgavatapurāṇa]] [[Dames|names]] 27 holy m. and [[Brahmānda|Brahmāṇḍa]] thirty 560; held by most ancient people to be the abodes of gods 559; [[Rgveda|Ṛgveda]] holds valleys of [[m,|m.]] and confluences of rivers holy 559; seven great m. called [['kula- parvatas'|'kulaparvatas']] of India [[(Bhāratavarsa)|(Bhāratavarṣa)]] 560n
+Mountains, see under 'Parvata'; are included among holy localities and as destroyers of sin 560; Bhāgavatapurāṇa [[Dames|names]] 27 holy m. and Brahmāṇḍa thirty 560; held by most ancient people to be the abodes of gods 559; Ṛgveda holds valleys of m. and confluences of rivers holy 559; seven great m. called 'kulaparvatas' of India (Bhāratavarṣa) 560n
 
-[[Mūlakrcchra|Mūlakṛcchra]] 148
+Mūlakṛcchra 148
 
-[[Mundaka-Upanisad|Muṇḍaka-Upaniṣad]] 42, 613n
+Muṇḍaka-Upaniṣad 42, 613n
 
-[[Mundana|Muṇḍana]] (shaving the hair on the head as well as the moustache and beard) 575; no [[m,|m.]] on the Ganges except at Prayāga 575n
+Muṇḍana (shaving the hair on the head as well as the moustache and beard) 575; no m. on the Ganges except at Prayāga 575n
 
 Munshi, Diamond Jubilee Volume 181
 
-Murder of [[brāhmana|brāhmaṇa]] regarded as [[gra- vest|gravest]] of sins in early Vedic times 10; of [[bhruna,|bhrūṇa,]] worse than even murder of [[brahmana|brāhmaṇa]] 11; of [[ksatriya|kṣatriya]] amounted to [[brāhmana|brāhmaṇa]] murder in certain cases 18; one may be guilty of, in five ways 17; of women placed on same footing as murder of [[ksatriya,|kṣatriya,]] [[vaisya|vaiśya]] or [[sūdra|śūdra]] males, except in the cases of an [[Atreyi|Ātreyī]] or a pregnant woman etc. [[96%|96;]] terrible secret expiation prescribed by Gautama for [[brāhmana|brāhmaṇa]] [[m, 120|m. 120]]
+Murder of brāhmaṇa regarded as gravest of sins in early Vedic times 10; of bhrūṇa, worse than even murder of brāhmaṇa 11; of kṣatriya amounted to brāhmaṇa murder in certain cases 18; one may be guilty of, in five ways 17; of women placed on same footing as murder of kṣatriya, vaiśya or śūdra males, except in the cases of an Ātreyī or a pregnant woman etc. 96; terrible secret expiation prescribed by Gautama for brāhmaṇa m. 120
 
 Musical instruments, four classes 217n
 
 [[P875]]Nāciketa fire 384n
 
-Naciketas, dialogue of, with Yama, in the [[Kathopaniṣad|Kaṭhopaniṣad]] 180
+Naciketas, dialogue of, with Yama, in the Kaṭhopaniṣad 180
 
-[[Nadapit,|Nāḍapit,]] 585
+Nāḍapit, 585
 
-[[Nadistuti|Nādistuti]] hymn is [[Rg|Ṛg]] X. 75
+Nādistuti hymn is Ṛg X. 75
 
-[[Nagarjuna,|Nāgārjuna,]] a Buddhist philosopher who well knew the doctrine of [[karmavipaka|karmavipāka]] 176
+Nāgārjuna, a Buddhist philosopher who well knew the doctrine of karmavipāka 176
 
 Nagna; people defined as n. should not be allowed to see a [[srāddba|śrāddha]] 395
 
-[[Nagnapracchādana-sraddha|Nagnapracchādana-śrāddha]] 220
+Nagnapracchādana-śrāddha 220
 
-[[Naimisa,|Naimiṣa,]] the best [[tirtha|tīrtha]] on the earth acc. to Vanaparva 565
+Naimiṣa, the best tīrtha on the earth acc. to Vanaparva 565
 
-[[Nairanjana,|Nairañjanā,]] river on the banks of which the future Buddha dwelt for some time 646
+Nairañjanā, river on the banks of which the future Buddha dwelt for some time 646
 
-[[Namaskaravati|Namaskāravatī]] verse is [[Rg,|Ṛg.]] X. [[152,|15. 2,]] 502
+Namaskāravatī verse is Ṛg. X. 15. 2, 502
 
 Nandana, park of Indra 166
 
-[[Nanda-pandita,|Nanda-paṇḍita,]] commentator of [[Ṣadasīti|Ṣaḍaśīti]] 268
+Nanda-paṇḍita, commentator of Ṣaḍaśīti 268
 
-[[Nandipurana|Nandipurāṇa]] 343
+Nandipurāṇa 343
 
-[[Nandiśraddha,|Nāndīśrāddha,]] same as [[Vrddhisraddha|Vṛddhiśrāddha]] 527; procedure of 528
+Nāndīśrāddha, same as Vṛddhiśrāddha 527; procedure of 528
 
 Nandā tithis are 1st, 6th and 11th, 373
 
-[[Narada,|Nārada,]] [[smrti|smṛti]] of 19, 31, 66, 67, 70, 72, 74, 76, 162, 540n
+Nārada, smṛti of 19, 31, 66, 67, 70, 72, 74, 76, 162, 540n
 
-[[Naradapurana,|Nāradapurāṇa,]] 95n, 123n, 163, 392, 407, 411, 419, 424, 425, 449n, 456, 459n, 463, 555n, 560n, 564n, 570n, 573n, 574n, 575n, 576n, 585, 586, 588, 589, 592n, [[5940,|594n,]] 595, 601n, 604, [[6050,|605n,]] 606, 607, 615n, 616n, 617, 623, 626, 628, 629n, 635n, 636, 647, 649, 651, 653, 655n, 660, 661n, 665, 666, 667n, 668n, 670n, 677, 678n, 682n, 683n, 684, 685, 686, 690, 691, 695n, 696n, 699n, 700n, 701n, 703, 704n, 708, 710
+Nāradapurāṇa, 95n, 123n, 163, 392, 407, 411, 419, 424, 425, 449n, 456, 459n, 463, 555n, 560n, 564n, 570n, 573n, 574n, 575n, 576n, 585, 586, 588, 589, 592n, [[5940,|594n,]] 595, 601n, 604, [[6050,|605n,]] 606, 607, 615n, 616n, 617, 623, 626, 628, 629n, 635n, 636, 647, 649, 651, 653, 655n, 660, 661n, 665, 666, 667n, 668n, 670n, 677, 678n, 682n, 683n, 684, 685, 686, 690, 691, 695n, 696n, 699n, 700n, 701n, 703, 704n, 708, 710
 
 Naraka, see under 'hell'; meaning of 161; narakaloka is mentioned in Atharvaveda 155; supposed to be a place below the earth 168
 
@@ -1514,79 +1513,79 @@ Naraka, see under 'hell'; meaning of 161; narakaloka is mentioned in Atharvaveda
 
 Nārāyaṇa, commentator of Āśv. [[gp|gṛ]] 58, 205n, 245n, 402n, 412n, 435n, 436n, 437n; commentator of [[Asy, sr,|Āśv. śr.]] 58
 
-[[Narayana,|Nārāyaṇa,]] author of [[Anty estipaddhati|Antyeṣṭipaddhati]] 185n, 212, 296n; author of [[Tristha lisetu|Tristhalīsetu]] 633, 638
+Nārāyaṇa, author of Antyeṣṭipaddhati 185n, 212, 296n; author of Tristhalīsetu 633, 638
 
-[[Narāyanabali,|Nārāyaṇabali,]] described in Sholapur District Gazetteer 303n; procedure of, from different works 302-305; [[pro cedure|procedure]] of, when performed on 12th day after death for ascetics [[304,|304;]] should be offered one year after the death of those who commit suicide in any way not sanctioned by [[sastra|śāstra]] and thereafter [[sraddhas|śrāddhas]] may be performed for such persons 302, 525
+Nārāyaṇabali, described in Sholapur District Gazetteer 303n; procedure of, from different works 302-305; procedure of, when performed on 12th day after death for ascetics 304; should be offered one year after the death of those who commit suicide in any way not sanctioned by śāstra and thereafter śrāddhas may be performed for such persons 302, 525
 
-Narmadā, (Namados of Ptolemy) [[703 707;|703-707;]] [[Amarakantaka|Amarakaṇṭaka]] dispels all sins 706; [[Bhrgutirtha|Bhṛgutīrtha]] on N. 10 miles to the east of Broach a bath in which leads to heaven and death at which to [[moksa|mokṣa]] 706; earliest inscriptional reference is of 484-85 [[A.D.|A. D.]] 705; is said to be holy everywhere and to purify the sinner by its very sight 704; is said to be 100 yojanas in length and two yojanas in breadth 705; [[Jāmadagnya-tirtha|Jāmadagnya-tīrtha]] where N. joins the sea and where Janārdana secured perfection 706; Kalpataru quotes only about 70 verses from [[Matsyapurana|Matsyapurāṇa]] (and from no other work) on N. 703; Maheśvara (i. e. [[Omkāra)|Oṁkāra)]] is a famous [[tirtha|tīrtha]] on N. whence Rudra burnt the cities of [[Banasura|Bāṇāsura]] 706; mantra addressed to N. frees one from danger of snakes 705; most sacred rivers after the Ganges are Narmadā and [[Godavari|Godāvarī]] 703; most important place on N. is [[Mahismati|Māhiṣmatī]] 706-7; one who commits suicide by fire or water or fast at [[soma tirtha|soma tīrtha]] on N. or on [[Amarakan taka|Amarakaṇṭaka]] does not return to [[samsara|saṁsāra]] 705; [[Puranas,|Purāṇas,]] such as Matsya, [[Kurma|Kūrma]] and Padma deal at length with the greatness of N. and [[carrhat|say that]] there are crores of [[tirthdy on D|tīrthas on it]] 703; Revā is a synonym [[o|of]] N. but the [[Bhagavata|Bhāgavata]] and [[Vamibia purana|Vāmana-purāṇa]] seem to hold that they are distinct
+Narmadā, (Namados of Ptolemy) 703-707; Amarakaṇṭaka dispels all sins 706; Bhṛgutīrtha on N. 10 miles to the east of Broach a bath in which leads to heaven and death at which to mokṣa 706; earliest inscriptional reference is of 484-85 A. D. 705; is said to be holy everywhere and to purify the sinner by its very sight 704; is said to be 100 yojanas in length and two yojanas in breadth 705; Jāmadagnya-tīrtha where N. joins the sea and where Janārdana secured perfection 706; Kalpataru quotes only about 70 verses from Matsyapurāṇa (and from no other work) on N. 703; Maheśvara (i. e. Oṁkāra) is a famous tīrtha on N. whence Rudra burnt the cities of Bāṇāsura 706; mantra addressed to N. frees one from danger of snakes 705; most sacred rivers after the Ganges are Narmadā and Godāvarī 703; most important place on N. is Māhiṣmatī 706-7; one who commits suicide by fire or water or fast at soma tīrtha on N. or on Amarakaṇṭaka does not return to saṁsāra 705; Purāṇas, such as Matsya, Kūrma and Padma deal at length with the greatness of N. and [[carrhat|say that]] there are crores of [[tirthdy on D|tīrthas on it]] 703; Revā is a synonym [[o|of]] N. but the Bhāgavata and [[Vamibia purana|Vāmana-purāṇa]] seem to hold that they are distinct
 
-[[P876]]703-704; rises from [[Amarakantaka|Amarakaṇṭaka]] which is the abode of [[Siva|Śiva]] and is said to have started from [[Siva's|Śiva's]] body 704-705; several rivers such as [[Kapila, Erandi, Kaveri|Kapilā, Eraṇḍī, Kāverī]] join N. 705; [[Suklatirtha,|Śuklatīrtha,]] where [[Rajarsi Canakya|Rājarṣi Cāṇakya]] attained perfection 706; [[Visnu dharmasūtra|Viṣṇudharmasūtra]] includes all places on banks of N. as eminently fit for [[Sraddha|śrāddha]] 704
+[[P876]]703-704; rises from Amarakaṇṭaka which is the abode of Śiva and is said to have started from Śiva's body 704-705; several rivers such as Kapilā, Eraṇḍī, Kāverī join N. 705; Śuklatīrtha, where Rājarṣi Cāṇakya attained perfection 706; Viṣṇudharmasūtra includes all places on banks of N. as eminently fit for [[Sraddha|śrāddha]] 704
 
-Nasik, Antiquity and temples of [[709 710;|709-710;]] cave Inscriptions 710; twenty five temples were destroyed by the Viceroy of Aurangzeb in 1680, 709
+Nasik, Antiquity and temples of 709-710; cave Inscriptions 710; twenty five temples were destroyed by the Viceroy of Aurangzeb in 1680, 709
 
-[[Natyasastra|Nāṭyaśāstra]] of Bharata 690n; prefers dialect of [[Sūrasena|Śūrasena]] for dramas 690n
+Nāṭyaśāstra of Bharata 690n; prefers dialect of Śūrasena for dramas 690n
 
 Navagraha-yajña 178
 
-Navagvas, a sub-division of [[pitrs|pitṛs]] called [[Angirases|Aṅgirases]] 192n; sometimes identified with seven sages 341
+Navagvas, a sub-division of pitṛs called Aṅgirases 192n; sometimes identified with seven sages 341
 
-[[Navamisra-sraddhas|Navamiśra-śrāddhas]] 262, 517
+Navamiśra-śrāddhas 262, 517
 
-[[Navasraddhas|Navaśrāddhas]] 262-263, 517; [[chara. cteristics|characteristics]] of 519-520; one should not partake of food at [[n,|n.,]] but if one does one must undergo [[prāyascitta|prāyaścitta]] 263
+Navaśrāddhas 262-263, 517; characteristics of 519-520; one should not partake of food at n., but if one does one must undergo prāyaścitta 263
 
-[[Navya-Vardhamana,|Navya-Vardhamāna,]] 296n
+Navya-Vardhamāna, 296n
 
-[[Nayapaladeva,|Nayapāladeva,]] [[Pala|Pāla]] king of Bengal who died in 1045 A. D. 643
+Nayapāladeva, Pāla king of Bengal who died in 1045 A. D. 643
 
 New Indian Antiquary 610n
 
 [[Nigbantu|Nighaṇṭu]] 352
 
-[[Nilakantha,|Nīlakaṇṭha,]] contradiction between his [[Vyavahāramayukha|Vyavahāramayūkha]] and his [[Prayas citta-mayukha|Prāyaścitta-mayūkha]] 78n
+Nīlakaṇṭha, contradiction between his Vyavahāramayūkha and his Prāyaścitta-mayūkha 78n
 
-[[Nilakantha,|Nīlakaṇṭha,]] commentator of [[Maha bharata|Mahābhārata]] 565n, 570n, 608, 649n, 684n
+Nīlakaṇṭha, commentator of Mahābhārata 565n, 570n, 608, 649n, 684n
 
 [[Nilamalapurana|Nīlamatapurāṇa]] 560n, 724
 
-[[Nilambaradāsa,|Nīlāmbaradāsa,]] author of 'Deul-tola' 701
+Nīlāmbaradāsa, author of 'Deul-tola' 701
 
 Nimi, dead body of, being covered with oil and fragrant substances was not decomposed for long 234
 
-Nirgranthas, called heretics by Hiouen Thsang dwelt in [[Kanci|Kāñcī]] in the time of the Chinese pilgrim 711
+Nirgranthas, called heretics by Hiouen Thsang dwelt in Kāñcī in the time of the Chinese pilgrim 711
 
-[[Nirnayasindhu|Nirṇayasindhu]] 29, 190, 230, 231, 238n, 243, 256n, 258, 259, 261n, 262n, 263, 272, 282, 293, 294, 298, 301, 302n, 304, 318, 319n, 338n, 381n, 382n, 388, 398n, 405, 408, 425n, 473n, 482n, 493n, 512, 514n, 519, 521, 524, 534, 536, 538n, 541, [[5460,|546n,]] 547n, 548n
+Nirṇayasindhu 29, 190, 230, 231, 238n, 243, 256n, 258, 259, 261n, 262n, 263, 272, 282, 293, 294, 298, 301, 302n, 304, 318, 319n, 338n, 381n, 382n, 388, 398n, 405, 408, 425n, 473n, 482n, 493n, 512, 514n, 519, 521, 524, 534, 536, 538n, 541, [[5460,|546n,]] 547n, 548n
 
 Nirukta, 2n, 7n, 10, 48n, 161, [[1870,|187n,]] 191n, 192n, 193n, 194n, 198, 200n, 342, 344n, 345, 351, 554, 557n, 561, 645, 681
 
-[[Niska|Niṣka]] as a substitute for [[prayaścittas|prāyaścittas]] 127-128; is gold weighing 32 raktikās 129; value of, 128n, 129
+Niṣka as a substitute for prāyaścittas 127-128; is gold weighing 32 raktikās 129; value of, 128n, 129
 
-Nitya (obligatory) acts (such as [[Agni hotra,|Agnihotra,]] [[Darsapūrnamāsa)|Darśapūrṇamāsa)]] must be performed even though one may be unable to perform a subsidiary part thereof 373
+Nitya (obligatory) acts (such as Agnihotra, Darśapūrṇamāsa) must be performed even though one may be unable to perform a subsidiary part thereof 373
 
 Nityācārapaddhati 51, 149n, 240
 
-[[Nityopavāsa-krcchra|Nityopavāsa-kṛcchra]] 141
+Nityopavāsa-kṛcchra 141
 
-Nivāsapura (modern Newasa on the [[Pravara)|Pravarā)]] 709; [[Jñānesvara|Jñāneśvara]] wrote his great commentary on the [[Gita|Gītā]] here 709n
+Nivāsapura (modern Newasa on the Pravarā) 709; Jñāneśvara wrote his great commentary on the Gītā here 709n
 
-Niyamas; meaning of 124; to be observed while undergoing expiation 121, 124; [[sauca|śauca]] as one of the, in Yoga 311
+Niyamas; meaning of 124; to be observed while undergoing expiation 121, 124; śauca as one of the, in Yoga 311
 
-[[Non-Aryar|Non-Aryan]] peoples like [[Sakas|Śakas]] 117
+[[Non-Aryar|Non-Aryan]] peoples like Śakas 117
 
-[[Nrsimhapurāṇa,|Nṛsiṁhapurāṇa,]] 45n, 51, 391, [[565,|565]]
+Nṛsiṁhapurāṇa, 45n, 51, 391, 565
 
 Numbers 309
 
-[[Nyāyas,75 n;|Nyāyas, 75n;]] [['sarvangopasambāranyaya'|'sarvāṅgopasaṁhāranyāya']] 373n, [['yathā kanya tatha havih'|'yathā kanyā tathā haviḥ']] 397; [[yathasaktinyāya|yathāśaktinyāya]] 373n
+Nyāyas, 75n; [['sarvangopasambāranyaya'|'sarvāṅgopasaṁhāranyāya']] 373n, 'yathā kanyā tathā haviḥ' 397; yathāśaktinyāya 373n
 
 Oldenberg, 193n, 245, 260
 
-O'Malley, L. S. S. in 'District Gazetteer of [[Gayā,'|Gayā',]] 643, 644, 659, [[664n,|664n]]
+O'Malley, L. S. S. in 'District Gazetteer of Gayā', 643, 644, 659, 664n
 
-Om, employed before reciting a Vedic verse 50; expresses the idea of God [[50:|50;]] mystic syllable, said to be the door to heaven 50; repetition of, [[lead|leads]] to concentration of mind 50, 69
+Om, employed before reciting a Vedic verse 50; expresses the idea of God 50; mystic syllable, said to be the door to heaven 50; repetition of, [[lead|leads]] to concentration of mind 50, 69
 
-[[Omkara,|Oṁkāra,]] and other [[lingas|liṅgas]] at [[Kasi|Kāśī]] 639n
+Oṁkāra, and other liṅgas at Kāśī 639n
 
-[[P877]]Ordeal of fire, mentioned in [[Tandya Brahmana|Tāṇḍya Brāhmaṇa]]
+[[P877]]Ordeal of fire, mentioned in Tāṇḍya Brāhmaṇa
 
 Osiris, Egyptian legend of, resembles Yama 342n
 
@@ -1594,109 +1593,109 @@ Ownership, private, none in forests, holy mountains, holy places, temples 377
 
 [[Padakrochra,|Pādakṛcchra,]] 143
 
-[[Padarthādarśa|Padārthādarśa]] 319n
+Padārthādarśa 319n
 
-[[Padmapurana,|Padmapurāṇa,]] 163, 221n, 263, 266, 310, 338n, 344, 348, 361n, 372, [[374.|374,]] 375, 376n, 401, 403, 404, 407, 410n, 413n, 414, 418, 420, 423, 445n, 447n, 448, 449n, 468n, 480, 483n, 484n, 497n, 518, 521, 528, 530, 535, 536, 539n, 548, 549, 555n, 560, 561n, 562n, 563, 564, 565n, 566n, 568, 573, 576, 578n, 582, 585, 588, 591n, 594n, 597, 598n, 599, 600, 601, 603n, 605, 606, 608, 614, 615, 616n, 617, 623, 625n, 626, 627, 628, 630n, 639 (dozens of verses are the same as those in Kūrma), 640, 648n (borrows from Vanaparva), 649, 651, 653, 659, 661n, 664n, 682n, 683n, 685, 690, 691, 703, 707, 713
+Padmapurāṇa, 163, 221n, 263, 266, 310, 338n, 344, 348, 361n, 372, 374, 375, 376n, 401, 403, 404, 407, 410n, 413n, 414, 418, 420, 423, 445n, 447n, 448, 449n, 468n, 480, 483n, 484n, 497n, 518, 521, 528, 530, 535, 536, 539n, 548, 549, 555n, 560, 561n, 562n, 563, 564, 565n, 566n, 568, 573, 576, 578n, 582, 585, 588, 591n, 594n, 597, 598n, 599, 600, 601, 603n, 605, 606, 608, 614, 615, 616n, 617, 623, 625n, 626, 627, 628, 630n, 639 (dozens of verses are the same as those in Kūrma), 640, 648n (borrows from Vanaparva), 649, 651, 653, 659, 661n, 664n, 682n, 683n, 685, 690, 691, 703, 707, 713
 
-[[Padonakrcchra,|Pādonakṛcchra,]] 143; is [[ths of Prāja patya|3/4ths of Prājāpatya]] 143
+Pādonakṛcchra, 143; is [[ths of Prāja patya|3/4ths of Prājāpatya]] 143
 
 Paingya 272n
 
-[[Paithïnasi|Paiṭhīnasi]] 17, 71, 110, 218, 239, 240, 276, 284, 291, 484, 519, 577n, 578
+Paiṭhīnasi 17, 71, 110, 218, 239, 240, 276, 284, 291, 484, 519, 577n, 578
 
-[[Paitska|Paitṛka]] mantras are [[Rg.|Ṛg.]] X. 15. 1-13
+[[Paitska|Paitṛka]] mantras are Ṛg. X. 15. 1-13
 
-[[Pakayajñas or Mahayajñas,|Pākayajñas or Mahāyajñas,]] five in number 47n
+Pākayajñas or Mahāyajñas, five in number 47n
 
-Pākayajñas are seven acc. to [[grhya sutras|gṛhya-sūtras]] and [[dharma-sutras|dharma-sūtras]] 112n
+Pākayajñas are seven acc. to gṛhya-sūtras and dharma-sūtras 112n
 
-[[Pakṣadhara-misra|Pakṣadhara-miśra]] 59
+Pakṣadhara-miśra 59
 
-[[Pakṣini,|Pakṣiṇī,]] meaning of 278
+Pakṣiṇī, meaning of 278
 
 Pala, quantity of 139n
 
-[[Palasa|Palāśa]] leaves, number of, used in making an effigy of a person for cremation 224-225
+Palāśa leaves, number of, used in making an effigy of a person for cremation 224-225
 
-[[Pana,|Paṇa,]] is copper weighing 80 [[raktikas|raktikās]] 129
+Paṇa, is copper weighing 80 raktikās 129
 
-Pañcagavya, could be taken by a [[sudra|śūdra]] without mantras in medieval times though forbidden in early works 143; to be taken at the end of each [[prāyascitta|prāyaścitta]] 121; ingredients of 141; materials of, taken with separate mantras 146; same as [[Brahmakurca|Brahmakūrca]] [[acc,|acc.]] to some [[smrtis|smṛtis]] 147; to be [[offer ed|offered]] into fire with mantras and drunk for the removal of several sins of a petty nature 141
+Pañcagavya, could be taken by a śūdra without mantras in medieval times though forbidden in early works 143; to be taken at the end of each prāyaścitta 121; ingredients of 141; materials of, taken with separate mantras 146; same as Brahmakūrca acc. to some smṛtis 147; to be offered into fire with mantras and drunk for the removal of several sins of a petty nature 141
 
 Pañcāgnividyā 188
 
-[[Pancajanāh,|Pañcajanāḥ,]] meaning of 344-345
+Pañcajanāḥ, meaning of 344-345
 
-[[Pancala,|Pañcāla,]] country of, was divided into north and south 682
+Pañcāla, country of, was divided into north and south 682
 
-[[Pancavimsa|Pañcaviṁśa]] Brāhmaṇa 602
+Pañcaviṁśa Brāhmaṇa 602
 
-Pandharpur 712-722; all attendants in [[Vithoba's|Viṭhobā's]] temple, except Badves, are called [[sevadhāris,|sevādhārīs,]] who have hereditary [[duties.|duties]] to perform and are of seven sorts viz. [[Pujari,|Pujārī,]] [[Benāri,|Beṇārī,]] Paricāraka, [[Haridas,|Haridās,]] [[Dingre,|Diṅgre,]] [[Divte|Divṭe]] and [[Dange|Ḍāṅge]] 714; chief temple in P. is that of [[Vithoba|Viṭhobā]] and behind it is the temple of [[Rakhumāi|Rakhumai]] 713; derivation of name [[Vitthala|Viṭṭhala]] 721; description of [[Vitho ba's|Viṭhobā's]] image in [[Skandapurana|Skandapurāṇa]] agrees with the present image and in the description by Tukārām are mixed up actual, legendary and ideal [[ele ments|elements]] 720; description of the image of [[Vithobā|Viṭhobā]] at P. 714-715, 720; had risen in sanctity and importance in the 15th century follows from the fact that both Caitanya and [[Vallabha cārya|Vallabhācārya]] visited it 718; image of [[Vithobā|Viṭhobā]] was the same before [[Hema dri|Hemādri]] as it is now 718; image of [[Vithobā|Viṭhobā]] is neither Buddhist nor Jain 722; is called [[Paundarikaksetra|Pauṇḍarīkakṣetra]] on [[Bhimarathi|Bhīmarathī]] in an inscription of 1249 A. D., [[Pandurangapura|Pāṇḍuraṅgapura]] in another of 1270 A. D., [[Pandarage|Paṇḍarage]] in an inscription in the [[Vithoba|Viṭhobā]] temple itself of 1237 A. D., where god [[Vitthaladeva|Viṭṭhaladeva]] and [[Pundarika|Puṇḍarīka]] are both referred to and [[Pandarangapalli|Pāṇḍaraṅgapalli]] 716-717; large staff of priests and attendants in [[D|the]] temple of [[Vithobā,|Viṭhobā,]] the chief of whom are the Badves who are held to be trustees and guardians of the [[neuple|temple]] by the
+Pandharpur 712-722; all attendants in Viṭhobā's temple, except Badves, are called sevādhārīs, who have hereditary duties to perform and are of seven sorts viz. Pujārī, Beṇārī, Paricāraka, Haridās, Diṅgre, Divṭe and Ḍāṅge 714; chief temple in P. is that of Viṭhobā and behind it is the temple of Rakhumai 713; derivation of name Viṭṭhala 721; description of Viṭhobā's image in Skandapurāṇa agrees with the present image and in the description by Tukārām are mixed up actual, legendary and ideal elements 720; description of the image of Viṭhobā at P. 714-715, 720; had risen in sanctity and importance in the 15th century follows from the fact that both Caitanya and Vallabhācārya visited it 718; image of Viṭhobā was the same before Hemādri as it is now 718; image of Viṭhobā is neither Buddhist nor Jain 722; is called Pauṇḍarīkakṣetra on Bhīmarathī in an inscription of 1249 A. D., Pāṇḍuraṅgapura in another of 1270 A. D., Paṇḍarage in an inscription in the Viṭhobā temple itself of 1237 A. D., where god Viṭṭhaladeva and Puṇḍarīka are both referred to and Pāṇḍaraṅgapalli 716-717; large staff of priests and attendants in [[D|the]] temple of Viṭhobā, the chief of whom are the Badves who are held to be trustees and guardians of the [[neuple|temple]] by the
 
-[[P878]]Bombay High Court 713; modern P. lies along the right bank of the Bhīmā river 713; one of the most popular places of pilgrimage in the Bombay State 712; ordinary and special services in the [[Vithobā|Viṭhobā]] temple treat the image as if it were some high personage requiring bath, dress, food, songs, sleep &c. 714; P. cannot claim great antiquity 713; Padmapurāṇa mentions the image of [[Vitthala|Viṭṭhala]] [[Visnu|Viṣṇu]] on the [[Bhimarathi|Bhīmarathī]] 713; pilgrims to P. may be divided into two classes, regular visitors and occasional visitors and the first class comprises those called [[Vār karis|Vārkaris]] 722; pilgrims formerly used to embrace the image of [[Vithobā|Viṭhobā]] and also touched the feet, but since about 1873 the feet alone are [[allow ed|allowed]] to be touched 715, 721; priests of the goddess [[Rakhumāi|Rakhumai]] are known as utpāts 714; river Bhīmā is called Candrabhāgā within Pandharpur limits and its water is believed to possess sin-purifying powers 716; scheme of management for [[Vi thobā|Viṭhobā]] temple at P. 713n; [[seve ral|several]] controversial questions arise as to [[Vithobā's|Viṭhobā's]] temple viz. date of the installation of the image, whether it is an old one, the ancient name of P. and derivation of the word [[Vitthala|Viṭṭhala]] 716; story of [[Pundlik|Puṇḍlīk]] 715; temple of [[Pundlik,|Puṇḍlīk,]] who is not a god but a devotee of [[Vithobā,|Viṭhobā,]] is in the bed of the Bhīmā river about 500 yards east of [[Vithobā's|Viṭhobā's]] temple 715; temples at P. are numerous and are described in Bombay Gazetteer, vol. 20 pp. 434-468, 716; tradition that the image of [[Vithobā|Viṭhobā]] was removed several times by the Badves and brought back 719; Vārkari cult, characteristics of 722; [[Vithobā's|Viṭhobā's]] image is variously called viz. [[Pāndu ranga,|Pāṇḍuraṅga,]] [[Pandhari,|Paṇḍhari,]] [[Vitthal,|Viṭṭhal,]] [[Vitthala nātha|Viṭṭhalanātha]] 721
+[[P878]]Bombay High Court 713; modern P. lies along the right bank of the Bhīmā river 713; one of the most popular places of pilgrimage in the Bombay State 712; ordinary and special services in the Viṭhobā temple treat the image as if it were some high personage requiring bath, dress, food, songs, sleep &c. 714; P. cannot claim great antiquity 713; Padmapurāṇa mentions the image of Viṭṭhala Viṣṇu on the Bhīmarathī 713; pilgrims to P. may be divided into two classes, regular visitors and occasional visitors and the first class comprises those called Vārkaris 722; pilgrims formerly used to embrace the image of Viṭhobā and also touched the feet, but since about 1873 the feet alone are allowed to be touched 715, 721; priests of the goddess Rakhumai are known as utpāts 714; river Bhīmā is called Candrabhāgā within Pandharpur limits and its water is believed to possess sin-purifying powers 716; scheme of management for Viṭhobā temple at P. 713n; several controversial questions arise as to Viṭhobā's temple viz. date of the installation of the image, whether it is an old one, the ancient name of P. and derivation of the word Viṭṭhala 716; story of Puṇḍlīk 715; temple of Puṇḍlīk, who is not a god but a devotee of Viṭhobā, is in the bed of the Bhīmā river about 500 yards east of Viṭhobā's temple 715; temples at P. are numerous and are described in Bombay Gazetteer, vol. 20 pp. 434-468, 716; tradition that the image of Viṭhobā was removed several times by the Badves and brought back 719; Vārkari cult, characteristics of 722; Viṭhobā's image is variously called viz. Pāṇḍuraṅga, Paṇḍhari, Viṭṭhal, Viṭṭhalanātha 721
 
-[[Pandurāṅga-māhātmya,|Pāṇḍuraṅga-māhātmya,]] 717n
+Pāṇḍuraṅga-māhātmya, 717n
 
-[[Panini,|Pāṇini,]] 10, 16n, 22n, 58, 86n, 134, 360n, 384n, 391n, 400n, 408, 410n, 460n, 555, 561n, 619, 681, 703, 706, 707, 709n, 711, 731, 736, 743, 746, 756, 757, 765, 768
+Pāṇini, 10, 16n, 22n, 58, 86n, 134, 360n, 384n, 391n, 400n, 408, 410n, 460n, 555, 561n, 619, 681, 703, 706, 707, 709n, 711, 731, 736, 743, 746, 756, 757, 765, 768
 
-[[Pandulenā|Pāṇḍuleṇā]] caves at Nasik 710n
+Pāṇḍuleṇā caves at Nasik 710n
 
-[[Panktipāvana.|Paṅktipāvana,]] (those who sanctify by their presence a company of diners) 384-386, 389; long lists of [[pankti. pāvana|paṅktipāvana]] [[brāhmanas|brāhmaṇas]] in [[Anusasana parva|Anuśāsanaparva]] and some [[puranas|purāṇas]] and in [[Sankhalikhita|Śaṅkhalikhita]] and other works [[385 386;|385-386;]] qualifications of, acc. to [[Hārita,|Hārīta,]] are that he must be born in a good family, must be endowed with vedic learning, good character and decent conduct 385-386, 389; yogins are specially p. at [[sraddha|śrāddha]] 388
+Paṅktipāvana, (those who sanctify by their presence a company of diners) 384-386, 389; long lists of paṅktipāvana brāhmaṇas in Anuśāsanaparva and some purāṇas and in Śaṅkhalikhita and other works 385-386; qualifications of, acc. to Hārīta, are that he must be born in a good family, must be endowed with vedic learning, good character and decent conduct 385-386, 389; yogins are specially p. at śrāddha 388
 
-[[Paradarya|Pāradārya]] (adultery with another's wife), expiation for 110; is a minor sin 110; excludes Gurutalpagamana 110
+Pāradārya (adultery with another's wife), expiation for 110; is a minor sin 110; excludes Gurutalpagamana 110
 
-Parāka is called [[Krcchra|Kṛcchra]] by some 132; removes all sins 142
+Parāka is called Kṛcchra by some 132; removes all sins 142
 
-[[Parasara,|Parāśara,]] [[smrti|smṛti]] of 22n, 24, 26, 40, 55, 70, 71, 74, 78, 84-86, 95, 97, 107, 109, 110, 112, 114n, 115n, 117, 121, 123, 127, 130, 136-139, 142, 143, 147, 208n, 214, 215, 227, 267, 270, 271, 275, 287, 289, 292, 295, 298, 299, 306, 307, 313, 323, 324, 326n, 327-329, 331, 332, 575
+Parāśara, smṛti of 22n, 24, 26, 40, 55, 70, 71, 74, 78, 84-86, 95, 97, 107, 109, 110, 112, 114n, 115n, 117, 121, 123, 127, 130, 136-139, 142, 143, 147, 208n, 214, 215, 227, 267, 270, 271, 275, 287, 289, 292, 295, 298, 299, 306, 307, 313, 323, 324, 326n, 327-329, 331, 332, 575
 
-Parāśara, an ancient astronomer that preceded [[Varahamihira|Varāhamihira]] 168
+Parāśara, an ancient astronomer that preceded Varāhamihira 168
 
-[[Parāsara-madhavīya|Parāśara-mādhavīya]] 26, 28, 39n, 53, 55n, 59, 60, 61n, 64, 66, 67, 70, 75, 76n, 80, 81, 84, 85, 86, 87n, 88n, 90n, 94, 95n, 98, 99n, 109n, 111n, 113, 114, 121, 123, 124n, 125n, 126, 127n, 128n, 131n, 132, 134, 139, 140, 141n, 142, 143, 144n, 147n, 149, 152, 153n, 173, 175, 177, 210n, 214, 215, 217n, 218n, 227, 237, 238n, 256, 257n, 258n, 261n, 274n, 280n, 284n, 290, 291n, 292n, 293n, [[294na|294n,]] 298n, 299n, 302n, 306, 326, 334n, 373, 375, 377n, 380n, 383n, 519n, 548, 575
+Parāśara-mādhavīya 26, 28, 39n, 53, 55n, 59, 60, 61n, 64, 66, 67, 70, 75, 76n, 80, 81, 84, 85, 86, 87n, 88n, 90n, 94, 95n, 98, 99n, 109n, 111n, 113, 114, 121, 123, 124n, 125n, 126, 127n, 128n, 131n, 132, 134, 139, 140, 141n, 142, 143, 144n, 147n, 149, 152, 153n, 173, 175, 177, 210n, 214, 215, 217n, 218n, 227, 237, 238n, 256, 257n, 258n, 261n, 274n, 280n, 284n, 290, 291n, 292n, 293n, [[294na|294n,]] 298n, 299n, 302n, 306, 326, 334n, 373, 375, 377n, 380n, 383n, 519n, 548, 575
 
 [[P879]]Pāraskara [[2870|287n]]
 
-[[Paraskara-grhyasūtra|Pāraskara-gṛhyasūtra]] 46n, 57n, 113, 210, 211, 220, 221, 227, 238, 239, 277, 282n, 283, 300, 313, 354, 355, 358, 361, 539, 574n
+Pāraskara-gṛhyasūtra 46n, 57n, 113, 210, 211, 220, 221, 227, 238, 239, 277, 282n, 283, 300, 313, 354, 355, 358, 361, 539, 574n
 
-Parāvartana, see under [[suddhi|śuddhi]] 118
+Parāvartana, see under śuddhi 118
 
-Parekh, [[Mr,|Mr.]] Manilal C., author of 'Vallabhācārya' 692
+Parekh, Mr. Manilal C., author of 'Vallabhācārya' 692
 
-Pargiter, translator of [[Markandeya purāṇa|Mārkaṇḍeya-purāṇa]] 726, 745
+Pargiter, translator of Mārkaṇḍeya-purāṇa 726, 745
 
 Paridhikarma 244-246
 
 Pārijāta 296n
 
-[[Parinah,|Pariṇāḥ,]] in [[Kuruksetra|Kurukṣetra]] 558, 681
+Pariṇāḥ, in Kurukṣetra 558, 681
 
 Parisaraka 558-559, 680
 
-[[Parisad,|Pariṣad,]] vide under [[prayascitta;|prāyaścitta;]] details of constitution of 85; even a learned man, when guilty of a sin should approach a [[p,|p.]] of learned brāhmaṇas and after declaring his guilt ask them to prescribe penance 84; had [[juris diction|jurisdiction]] to decide what expiation should be prescribed and the king did not probably interfere 69-70; duty of p. to take compassion on the weak, boys and old men 86; incurred sin if through affection, greed or ignorance expiation was reduced 86; not to prescribe expiation that would end in death 76, 126-127; of a number of [[brahmanas|brāhmaṇas]] proficient in [[Dharmasa stra|Dharmaśāstra]] alone entitled to reduce expiation through compassion and not one man alone 86; of learned [[brahmanas|brāhmaṇas]] knowing proper expiation and not declaring it incurred sin, 86; [[pro cedure|procedure]] before p. 84-85; unanimous decision to be given by p. as far as possible 86
+Pariṣad, vide under prāyaścitta; details of constitution of 85; even a learned man, when guilty of a sin should approach a p. of learned brāhmaṇas and after declaring his guilt ask them to prescribe penance 84; had jurisdiction to decide what expiation should be prescribed and the king did not probably interfere 69-70; duty of p. to take compassion on the weak, boys and old men 86; incurred sin if through affection, greed or ignorance expiation was reduced 86; not to prescribe expiation that would end in death 76, 126-127; of a number of brāhmaṇas proficient in Dharmaśāstra alone entitled to reduce expiation through compassion and not one man alone 86; of learned brāhmaṇas knowing proper expiation and not declaring it incurred sin, 86; procedure before p. 84-85; unanimous decision to be given by p. as far as possible 86
 
-[[Parnakūrca,|Parṇakūrca,]] an expiation 142
+Parṇakūrca, an expiation 142
 
-Parsi scriptures on Yima ([[i, e.|i. e.]] Yama) 192n
+Parsi scriptures on Yima (i. e. Yama) 192n
 
-Pārvaṇa-śrāddha, see under [['pindas ';|'piṇḍas';]] [[acamana|ācamana]] required in six items at, 459; [[agnaukarana|agnaukaraṇa]] in [[Ap. gr.|Āp. gṛ.]] 436, 438; agnihotrin cannot perform p., except on amāvāsyā, acc. to Manu 462; [[apatraka-pārvanaśrāddha|apatraka-pārvaṇaśrāddha]] in Mithilā explained [[486-486;|485–486;]] [[Āśv. gļ,|Āśv. gṛ.]] omits several details of p. found in some [[smrtis|smṛtis]] 438n; [[brāhmana|brāhmaṇa]] is the [[ābavaniya|āhavanīya]] fire in, 444n; conflict of views about the ancestors to whom [[pindas|piṇḍas]] are to be offered at [[sraddha|śrāddha]] on [[amavāsyā|amāvāsyā]] 472-476; [[dakśiṇā|dakṣiṇā]] was to be given to [[brahmanas|brāhmaṇas]] in p. according to the ability of the performer, 446, 451, 501; darbhas are double-folded in p. 434, 441, 505; details of p. vary in modern times according to the country, the [[veda|Veda]] or [[sākhā|śākhā]] of the performer or [[acc,|acc.]] to the eminent writer the performer follows or according as he is a [[Saiva|Śaiva]] or [[Vaisnava|Vaiṣṇava]] 485; difference of views as to the stage at which [[pindas|piṇḍas]] were to be offered in p. [[470 472 ;|470–472;]] different manuals on [[sraddha|śrāddha]] have been followed in medieval and modern times 486; divergence of views from very early times as to the number of [[abutis|āhutis]] in p., as to the deities, as to the order of naming the deities and the form of words to be used 462-463; eleven [[brahmanas|brāhmaṇas]] are invited in Mithilā villages even by poor men, but it is often difficult to secure a very learned man (called [[patra|pātra]] or [[mabāpātra)|mahāpātra)]] to officiate 483; epigraphic evidence about gifts of land made at p. and other śrāddhas 451n; feeding of daiva or [[vaisvadeva|vaiśvadeva]] [[brāhmanas|brāhmaṇas]] at p. not mentioned in [[Asv. gr|Āśv. gṛ.]] though [[men tioned|mentioned]] by Manu, [[Vas,|Vas.]] and [[Yaj.|Yāj.]] 435n; food offered on the hand of [[bra hmanas|brāhmaṇas]] was to be mixed with the food served in the plates placed before them and then eaten by them 443n; food served to the [[brābmanas|brāhmaṇas]] in [[p,|p.]] should be rich and steaming hot and should be [[sifeiftly gaten|silently eaten]] by them and its good [[asalitfes|qualities]] should not be declared by [[themolife|them while]] they are eating 465; formula of [[presenta tion|presentation]] if the [[performed of know|performer does not know]]
+Pārvaṇa-śrāddha, see under 'piṇḍas'; ācamana required in six items at, 459; agnaukaraṇa in Āp. gṛ. 436, 438; agnihotrin cannot perform p., except on amāvāsyā, acc. to Manu 462; apatraka-pārvaṇaśrāddha in Mithilā explained [[486-486;|485–486;]] [[Āśv. gļ,|Āśv. gṛ.]] omits several details of p. found in some smṛtis 438n; brāhmaṇa is the [[ābavaniya|āhavanīya]] fire in, 444n; conflict of views about the ancestors to whom piṇḍas are to be offered at śrāddha on amāvāsyā 472-476; dakṣiṇā was to be given to brāhmaṇas in p. according to the ability of the performer, 446, 451, 501; darbhas are double-folded in p. 434, 441, 505; details of p. vary in modern times according to the country, the [[veda|Veda]] or śākhā of the performer or acc. to the eminent writer the performer follows or according as he is a Śaiva or Vaiṣṇava 485; difference of views as to the stage at which piṇḍas were to be offered in p. 470–472; different manuals on śrāddha have been followed in medieval and modern times 486; divergence of views from very early times as to the number of [[abutis|āhutis]] in p., as to the deities, as to the order of naming the deities and the form of words to be used 462-463; eleven brāhmaṇas are invited in Mithilā villages even by poor men, but it is often difficult to secure a very learned man (called pātra or [[mabāpātra)|mahāpātra)]] to officiate 483; epigraphic evidence about gifts of land made at p. and other śrāddhas 451n; feeding of daiva or vaiśvadeva brāhmaṇas at p. not mentioned in Āśv. gṛ. though mentioned by Manu, Vas. and Yāj. 435n; food offered on the hand of brāhmaṇas was to be mixed with the food served in the plates placed before them and then eaten by them 443n; food served to the [[brābmanas|brāhmaṇas]] in p. should be rich and steaming hot and should be [[sifeiftly gaten|silently eaten]] by them and its good [[asalitfes|qualities]] should not be declared by [[themolife|them while]] they are eating 465; formula of presentation if the [[performed of know|performer does not know]]
 
-[[P880]]the names of his ancestors 477; gradual addition of details to p. from ancient vedic times to modern times illustrated 485; great divergence of views from the sūtras onwards as regards mantras, details and order of items in p. 426; holy texts should be repeated while [[brahmanas|brāhmaṇas]] are engaged in dining at p. 439, 449-50; holy texts to be repeated varied from writer to writer 444-445; if gotra of ancestors be not known, the performer should employ the gotra name [[Kasyapa|Kaśyapa]] 477; if holy texts to be repeated not known to performer, he should recite [[Gāyatri|Gāyatrī]] mantra 450n; if one is unable to perform p. every month, [[Srāddha tattva|Śrāddhatattva]] recommends that one should perform it thrice a year or at least once a year when the sun is in the sign of Kanyā 510; if performer has no smārta fire he is to offer homa food on the hand of the [[brahmanas|brāhmaṇas]] invited at p. 436-437, 443n, 461; important differences of other [[sutras|sūtras]] from [[Asv.gr|Āśv. gṛ.]] on [[p.,|p.]] 438; in all cases where a question is to be put or permission taken, the performer addresses the most eminent among the [[brahmanas|brāhmaṇas]] invited or all of them together, 442n, 505; in southern and western India [[brahmanas|brāhmaṇas]] invited at [[sraddha|śrāddha]] are worshipped, while in Bengal effigies made of darbhas are worshipped 458; is the pattern or norm of other [[sraddhas|śrāddhas]] 426; Kātyāyana and some others say that everyone has to follow his own sūtra as to the words 'svāhā' and [['svadhā Damah',|'svadhā namaḥ',]] as to the mode of wearing the sacred thread, as to the number of āhutis and as to the stage at which [[pindas|piṇḍas]] are to be offered [[426, 402, 471;|426, 462, 471;]] larger the number of [[brahmanas|brāhmaṇas]] invited for [[p,|p.]] the greater the fruit or reward acc. to [[Asv. gr.|Āśv. gṛ.]] 434; [[Mahabharata|Mahābhārata]] was among the texts to be recited when [[brāhmanas|brāhmaṇas]] were engaged in dinner at [[p. 450 :|p. 450;]] mantras for invoking [[Visve-devas|Viśve-devas]] in p. 458; mantras at moistening of [[pindas|piṇḍas]] given by [[Apastamba-mantra pāțha|Āpastamba-mantrapāṭha]] differ from those in [[Baud. gr.|Baudh. gṛ.]] and Vaikhānasa [[gr.|gṛ.]] 438; mantras to be recited at the time of [[cffering|offering]] each of the [[pindas|piṇḍas]] in p. differed from ancient times 476-477; method of padārthānusamaya is the rule, but sometimes that of [[kandanusa. maya|kāṇḍānusamaya]] has to be followed 442n; most of the fundamental conceptions and items of p. as performed in modern times are clearly brought out even in the [[Satapatha Brahmana|Śatapatha Brāhmaṇa]] [[431 432;|431–432;]] names and gotras of the [[ances tors|ancestors]] should be mentioned in offering [[-padya,|pādya,]] arghya, gandha, [[pinda|piṇḍa]] etc. 443n, 449, 451; number of [[ahutis|āhutis]] in [[agnaukarana|agnaukaraṇa]] differs in different works 462; order in which the [[bra hmanas|brāhmaṇas]] invited at p. are to be [[dis missed|dismissed]] at the end 447; performer of p. and [[brāhmanas|brāhmaṇas]] invited at it should abstain from sexual [[inter course|intercourse]] on the night of the [[sraddha|śrāddha]] day 448; performer collects portions from all kinds of food cooked for [[srāddha,|śrāddha,]] puts water over them and spreads them on darbhas for the benefit of various deceased persons [[450-51;|450–451;]] performer has to refer to ancestors in a certain order about his relationship to them, their names and gotras and the case [[rela tion|relation]] in which the words are to be used 459; [[pinda|piṇḍa]] is offered to each ancestor after mentioning his gotra, his relationship to performer and name (all in vocative) 476; [[pindas|piṇḍas]] should be offered to male ancestors near the remains of the food eaten by the brāhmaṇas and the procedure mentioned in [[pindapitryajña|piṇḍapitṛyajña]] is to be followed 446, 451; [[pindas|piṇḍas]] were to be separately offered to mother's paternal ancestors 473; procedure
+[[P880]]the names of his ancestors 477; gradual addition of details to p. from ancient vedic times to modern times illustrated 485; great divergence of views from the sūtras onwards as regards mantras, details and order of items in p. 426; holy texts should be repeated while brāhmaṇas are engaged in dining at p. 439, 449-50; holy texts to be repeated varied from writer to writer 444-445; if gotra of ancestors be not known, the performer should employ the gotra name Kaśyapa 477; if holy texts to be repeated not known to performer, he should recite Gāyatrī mantra 450n; if one is unable to perform p. every month, Śrāddhatattva recommends that one should perform it thrice a year or at least once a year when the sun is in the sign of Kanyā 510; if performer has no smārta fire he is to offer homa food on the hand of the brāhmaṇas invited at p. 436-437, 443n, 461; important differences of other sūtras from Āśv. gṛ. on p. 438; in all cases where a question is to be put or permission taken, the performer addresses the most eminent among the brāhmaṇas invited or all of them together, 442n, 505; in southern and western India brāhmaṇas invited at śrāddha are worshipped, while in Bengal effigies made of darbhas are worshipped 458; is the pattern or norm of other śrāddhas 426; Kātyāyana and some others say that everyone has to follow his own sūtra as to the words 'svāhā' and [['svadhā Damah',|'svadhā namaḥ',]] as to the mode of wearing the sacred thread, as to the number of āhutis and as to the stage at which piṇḍas are to be offered [[426, 402, 471;|426, 462, 471;]] larger the number of brāhmaṇas invited for p. the greater the fruit or reward acc. to Āśv. gṛ. 434; Mahābhārata was among the texts to be recited when brāhmaṇas were engaged in dinner at p. 450; mantras for invoking Viśve-devas in p. 458; mantras at moistening of piṇḍas given by Āpastamba-mantrapāṭha differ from those in [[Baud. gr.|Baudh. gṛ.]] and Vaikhānasa gṛ. 438; mantras to be recited at the time of [[cffering|offering]] each of the piṇḍas in p. differed from ancient times 476-477; method of padārthānusamaya is the rule, but sometimes that of kāṇḍānusamaya has to be followed 442n; most of the fundamental conceptions and items of p. as performed in modern times are clearly brought out even in the Śatapatha Brāhmaṇa 431–432; names and gotras of the ancestors should be mentioned in offering pādya, arghya, gandha, piṇḍa etc. 443n, 449, 451; number of āhutis in agnaukaraṇa differs in different works 462; order in which the brāhmaṇas invited at p. are to be dismissed at the end 447; performer of p. and brāhmaṇas invited at it should abstain from sexual intercourse on the night of the śrāddha day 448; performer collects portions from all kinds of food cooked for śrāddha, puts water over them and spreads them on darbhas for the benefit of various deceased persons [[450-51;|450–451;]] performer has to refer to ancestors in a certain order about his relationship to them, their names and gotras and the case relation in which the words are to be used 459; piṇḍa is offered to each ancestor after mentioning his gotra, his relationship to performer and name (all in vocative) 476; piṇḍas should be offered to male ancestors near the remains of the food eaten by the brāhmaṇas and the procedure mentioned in piṇḍapitṛyajña is to be followed 446, 451; piṇḍas were to be separately offered to mother's paternal ancestors 473; procedure
 
-[[P881]]of p. acc. to [[Aśw, gr.|Āśv. gṛ.]] 434-438; procedure of p. acc. to [[Srāddha sutra|Śrāddhasūtra]] of Kātyāyana 439; procedure of p. acc. to [[Yajñavalkya-smrti|Yājñavalkya-smṛti]] [[440 448;|440–448;]] procedure of p. acc. to Padma purāṇa 448-452; procedure of p. in modern Bengal for [[Samavedins,|Sāmavedins,]] Yajurvedins and [[Rgvedins|Ṛgvedins]] is [[respec tively|respectively]] that laid down in the paddhatis of Bhavadeva, [[Pasupati|Paśupati]] and [[Kalesi|Raghunandana]] 486; procedure of [[pratisāmvatsarika srāddha|prātisaṁvatsarika śrāddha]] (which differs very little from p.) for [[Rgvedins|Ṛgvedins]] in Western India 487-503; procedure for maternal [[an cestors|ancestors]] is the same as that for [[pater nal|paternal]] ancestors 446; procedure of p. for Yajurvedins of the [[Mādhyan dina Sakha|Mādhyandina Śākhā]] in Bengal set out in [[*Yajurvedisraddhatattva|Yajurvediśrāddhatattva]] is based on [["Sraddhasutra|Śrāddhasūtra]] of Kātyāyana 504; [[rtus|ṛtus]] (seasons) are identified with six ancestors and offered salutation 450n, 479; rules about making [[mandalas|maṇḍalas]] in front of performer's house for receiving daiva and pitrya brāhmaṇas 456-457; rules of etiquette about serving food and eating [[sraddha|śrāddha]] dinner and related matters 463-464; rules of [[pindapitre yajña|piṇḍapitṛyajña]] are extended to p. acc. to [[Asv. gr.|Āśv. gṛ.]] and [[Srāddhasūtra|Śrāddhasūtra]] of Kātyāyana 434, 505; [[samsthājapa|saṁsthājapa]] 494; [[san kalpa|saṅkalpa]] in [[pratisāmvatsarikasraddha|prātisaṁvatsarikaśrāddha]] in Western India in modern times [[387n;|487n;]] several options about the number of [[brāhmanas|brāhmaṇas]] to be invited if three paternal and three maternal ancestors are to be invoked in [[p.,|p.]] 440n; several purāṇas add details not included in sūtras, Manu and [[Yaj.|Yāj.]] 456; several purāṇas contain detailed description of p. 448; some hold that [[sraddha|śrāddha]] for maternal ancestors is to be performed [[separ ately|separately]] while others say that [[sraddha|śrāddha]] is to be offered at the same time for paternal and maternal ancestors 473; some [[smrtis|smṛtis]] emphasize the [[participa tion|participation]] of the wives of paternal [[ancas tors|ancestors]] in p. 475; some verses from the purāṇas are to be recited, while [[brāhmanas|brāhmaṇas]] are engaged in dinner at p. 445; some writers proposed that nine [[pindas|piṇḍas]] should be offered, three to [[pitrvarga,|pitṛvarga,]] three to [[mātrvarga|mātṛvarga]] and three to mātāmahavarga 508n; three āhutis are to be offered [[accord. ing|according]] to some and two according to others in [[Daksināgni|Dakṣiṇāgni]] or smārta fire or on [[brāhmanas'|brāhmaṇas']] hand 443n; three [[pindas|piṇḍas]] are prescribed for paternal ancestors and three for [[mothers'|mother's]] paternal ancestors by [[Katyayana|Kātyāyana]] and Gobhila 472-473; thumbs of [[brāhmanas|brāhmaṇas]] invited for [[sraddha|śrāddha]] in p. should be moved in the food served in the plates [[444, 467:|444, 467;]] tila water offered in the midst of mango trees serves two purposes 449n; vaiśvadeva [[brāhmanas|brāhmaṇas]] are to be seated facing east and pitrya ones facing north 458; [[vaisvadeva|vaiśvadeva]] [[brahmanas|brāhmaṇas]] have [[prece dence|precedence]] in all items except two viz. in washing the hand smeared with remnants of food and the final send off at the end of [[Grāddha|śrāddha]] 458; Vedic works refer generally to the three paternal ancestors as the [[devatas|devatās]] of [[p,|p.]] and not to any other relatives, male or female, 380, 472; verses called [[saptavyādha|saptavyādhāḥ]] are to be recited at p. while [[brāhmanas|brāhmaṇas]] are dining 445; [[Visvedevas|Viśve-devas]] [[Purūrava|Purūravas]] or [[Purū ravas|Purūravas]] and [[Ardrava|Ārdrava]] are the two to be invoked in p. 457; water is offered to [[pitrs|pitṛs]] in p. with the [[Pitrtirtha|Pitṛtīrtha]] 435n; when the wives of ancestors came to be associated with them in p. cannot be satisfactorily solved, but they had certainly become [[asso ciated|associated]] in the [[sutra|sūtra]] period [[4741476;|474–476;]] where paternal ancestors are [[homo ured|honoured]] there maternal ancestors [[mull|must]] be honoured acc. to [[Dhautnya|Dhaumya]] and others 473; where yavas are [[em ployed|employed]] in the daiva [[partshofer plante|part of the p.]]
+[[P881]]of p. acc. to [[Aśw, gr.|Āśv. gṛ.]] 434-438; procedure of p. acc. to Śrāddhasūtra of Kātyāyana 439; procedure of p. acc. to Yājñavalkya-smṛti 440–448; procedure of p. acc. to Padma purāṇa 448-452; procedure of p. in modern Bengal for Sāmavedins, Yajurvedins and Ṛgvedins is respectively that laid down in the paddhatis of Bhavadeva, Paśupati and [[Kalesi|Raghunandana]] 486; procedure of prātisaṁvatsarika śrāddha (which differs very little from p.) for Ṛgvedins in Western India 487-503; procedure for maternal ancestors is the same as that for paternal ancestors 446; procedure of p. for Yajurvedins of the Mādhyandina Śākhā in Bengal set out in Yajurvediśrāddhatattva is based on Śrāddhasūtra of Kātyāyana 504; ṛtus (seasons) are identified with six ancestors and offered salutation 450n, 479; rules about making maṇḍalas in front of performer's house for receiving daiva and pitrya brāhmaṇas 456-457; rules of etiquette about serving food and eating śrāddha dinner and related matters 463-464; rules of [[pindapitre yajña|piṇḍapitṛyajña]] are extended to p. acc. to Āśv. gṛ. and Śrāddhasūtra of Kātyāyana 434, 505; saṁsthājapa 494; saṅkalpa in prātisaṁvatsarikaśrāddha in Western India in modern times [[387n;|487n;]] several options about the number of brāhmaṇas to be invited if three paternal and three maternal ancestors are to be invoked in p. 440n; several purāṇas add details not included in sūtras, Manu and Yāj. 456; several purāṇas contain detailed description of p. 448; some hold that śrāddha for maternal ancestors is to be performed separately while others say that śrāddha is to be offered at the same time for paternal and maternal ancestors 473; some smṛtis emphasize the participation of the wives of paternal [[ancas tors|ancestors]] in p. 475; some verses from the purāṇas are to be recited, while brāhmaṇas are engaged in dinner at p. 445; some writers proposed that nine piṇḍas should be offered, three to pitṛvarga, three to mātṛvarga and three to mātāmahavarga 508n; three āhutis are to be offered according to some and two according to others in Dakṣiṇāgni or smārta fire or on brāhmaṇas' hand 443n; three piṇḍas are prescribed for paternal ancestors and three for mother's paternal ancestors by Kātyāyana and Gobhila 472-473; thumbs of brāhmaṇas invited for śrāddha in p. should be moved in the food served in the plates 444, 467; tila water offered in the midst of mango trees serves two purposes 449n; vaiśvadeva brāhmaṇas are to be seated facing east and pitrya ones facing north 458; vaiśvadeva brāhmaṇas have precedence in all items except two viz. in washing the hand smeared with remnants of food and the final send off at the end of [[Grāddha|śrāddha]] 458; Vedic works refer generally to the three paternal ancestors as the devatās of p. and not to any other relatives, male or female, 380, 472; verses called [[saptavyādha|saptavyādhāḥ]] are to be recited at p. while brāhmaṇas are dining 445; Viśve-devas [[Purūrava|Purūravas]] or Purūravas and Ārdrava are the two to be invoked in p. 457; water is offered to pitṛs in p. with the Pitṛtīrtha 435n; when the wives of ancestors came to be associated with them in p. cannot be satisfactorily solved, but they had certainly become associated in the sūtra period [[4741476;|474–476;]] where paternal ancestors are [[homo ured|honoured]] there maternal ancestors [[mull|must]] be honoured acc. to [[Dhautnya|Dhaumya]] and others 473; where yavas are employed in the daiva [[partshofer plante|part of the p.]]
 
-[[P882]]rite, sesame are to be employed for all purposes in the pitrya part 442n; whether daily [[vaisvadeva|vaiśvadeva]] and balihoma should be performed [[be fore|before]] or after p. 452; wives of paternal ancestors i. e. the mother, paternal [[grand-mother|grandmother]] and paternal great grandmother were not associated with their husbands in the times of the Vedas (except probably in one passage of [[Vaj. S.)|Vāj. S.)]] and [[Brāhmanas|Brāhmaṇas]] and in almost all sūtras 472
+[[P882]]rite, sesame are to be employed for all purposes in the pitrya part 442n; whether daily vaiśvadeva and balihoma should be performed before or after p. 452; wives of paternal ancestors i. e. the mother, paternal grandmother and paternal great grandmother were not associated with their husbands in the times of the Vedas (except probably in one passage of Vāj. S.) and Brāhmaṇas and in almost all sūtras 472
 
-Parvata, is a dual [[duty|deity]] with Indra in the [[Rgveda|Ṛgveda]] 559; rivers [[Vipās|Vipāś]] (Beas) and [[Sutudri|Śutudrī]] are described in the [[Rgveda|Ṛgveda]] as issuing from the lap of mountains 559
+Parvata, is a dual [[duty|deity]] with Indra in the Ṛgveda 559; rivers Vipāś (Beas) and Śutudrī are described in the Ṛgveda as issuing from the lap of mountains 559
 
-[[Pasupatas,|Pāśupatas,]] touch of, required bath with clothes on and they were not to be invited for [[sraddha|śrāddha]] dinner 395
+Pāśupatas, touch of, required bath with clothes on and they were not to be invited for śrāddha dinner 395
 
-[[Pasus,|Paśus,]] (animals) of two kinds, grāmya and [[aranya|āraṇya]] 110
+Paśus, (animals) of two kinds, grāmya and āraṇya 110
 
-[[Pataka,|Pātaka,]] derivation of 10
+Pātaka, derivation of 10
 
-[[Pataniya|Pātanīya,]] meaning of 10; sins called 12-13
+Pātanīya, meaning of 10; sins called 12-13
 
-Patañjali, author of [[Mahābhāsya|Mahābhāṣya]] on [[Panini's Astādhyāyi|Pāṇini's Aṣṭādhyāyī]] 16n
+Patañjali, author of Mahābhāṣya on Pāṇini's Aṣṭādhyāyī 16n
 
-Pathak, Prof. [[K B.|K. B.]] 716
+Pathak, Prof. K. B. 716
 
 Patil, Dr. D. R. on 'Cultural History of [[Vāyuyurāna '|Vāyupurāṇa']] 558n
 
@@ -1704,203 +1703,203 @@ Patita, son of, was [[Condemned,|condemned,]] but not daughter 106
 
 Pativratā, miraculous power of, extolled 237
 
-[[Patrakrccbra-same|Patrakṛcchra—same]] as [[Parnakūrca,|Parṇakūrca,]] but a [[title|little]] less severe 142
+[[Patrakrccbra-same|Patrakṛcchra—same]] as Parṇakūrca, but a [[title|little]] less severe 142
 
 [[Paundarika-mābātmya|Pauṇḍarīka-māhātmya]] 717n
 
 [[Pavamanasakta|Pavamānasūkta]] 330
 
-Pāvamānī verses ([[Rg.|Ṛg.]] IX. 1. 1-10) as purifiers 45, 244; verses to be repeated in [[srāddha|śrāddha]] 444
+Pāvamānī verses (Ṛg. IX. 1. 1-10) as purifiers 45, 244; verses to be repeated in śrāddha 444
 
-Pavitravatī verses 120, 133 (beginning with [['pavamānah suvarjanah')|'pavamānaḥ suvarjanaḥ')]]
+Pavitravatī verses 120, 133 (beginning with 'pavamānaḥ suvarjanaḥ')
 
-[[Pavitresti,|Pavitreṣṭi,]] prescribed for one desirous of [[suddbi|śuddhi]] 312
+Pavitreṣṭi, prescribed for one desirous of [[suddbi|śuddhi]] 312
 
 Penal Code, Indian 17
 
 Penances, in Europe 129n
 
-Persons, cremating patitas through affection or offering water or [[sraddha|śrāddha]] to them had to undergo prāyaścitta 301; declared by express texts as not liable to observe [[asauca|āśauca]] 305; that should be abandoned for [[cer tain|certain]] actions of theirs 32n; that do not cause impurity to others while performing certain services to the community (such as physicians, barbers, craftsmen), although they may themselves be in [[asauca|āśauca]] 299-300; (persons) to whom some [[taiat|taint]] attaches (such as those who kill themselves by starting on the great journey to the [[Himalaya|Himālaya]] or by fast) do not cause periods of [[asauca|āśauca]] 300
+Persons, cremating patitas through affection or offering water or śrāddha to them had to undergo prāyaścitta 301; declared by express texts as not liable to observe āśauca 305; that should be abandoned for certain actions of theirs 32n; that do not cause impurity to others while performing certain services to the community (such as physicians, barbers, craftsmen), although they may themselves be in āśauca 299-300; (persons) to whom some [[taiat|taint]] attaches (such as those who kill themselves by starting on the great journey to the Himālaya or by fast) do not cause periods of āśauca 300
 
 Phalakṛcchra 146
 
-Pilgrimage, vide under [[Tirthayātrā:|Tīrthayātrā;]] as purification for anupātakas 106; merit of, may be collected [[vicari. ously|vicariously]] such as by some one dipping an effigy made with [[kusas|kuśas]] in holy water or by engaging a man to go to a [[tirtha|tīrtha]] for money 577-578; p. to a place supposed to be [[boly|holy]] for the curing of diseases is not rare even in these days 561; to Benares as the only superior expiation for all sins 55; was prescribed in some cases as expiation by the Peshwas for [[brāhmana|brāhmaṇa]] murder 55
+Pilgrimage, vide under Tīrthayātrā; as purification for anupātakas 106; merit of, may be collected vicariously such as by some one dipping an effigy made with kuśas in holy water or by engaging a man to go to a tīrtha for money 577-578; p. to a place supposed to be [[boly|holy]] for the curing of diseases is not rare even in these days 561; to Benares as the only superior expiation for all sins 55; was prescribed in some cases as expiation by the Peshwas for brāhmaṇa murder 55
 
-[[Pindas,|Piṇḍas,]] middle one of three was to be eaten by the performer's wife, if she desired a son 480, 500n; materials from which they were to be made 478, 498n; [[paurānic|paurāṇic]] mantra to be repeated when p. are placed on line drawn on the ground or altar 479; rules about size of 478; were to be placed on darbhas spread on the ground or on an altar 478
+Piṇḍas, middle one of three was to be eaten by the performer's wife, if she desired a son 480, 500n; materials from which they were to be made 478, 498n; paurāṇic mantra to be repeated when p. are placed on line drawn on the ground or altar 479; rules about size of 478; were to be placed on darbhas spread on the ground or on an altar 478
 
 Pindar 180
 
-[[Pindapitryajña|Piṇḍapitṛyajña]] (performed on [[amā vāsyā|amāvāsyā]] of each month by an [[āhitāgni).|āhitāgni),]] was known to early Vedic [[Litera ture|Literature]] 349, 358; is a [[sraddha|śrāddha]] 349n; not performed by agnihotrins in the Deccan or performed only once
+Piṇḍapitṛyajña (performed on amāvāsyā of each month by an āhitāgni), was known to early Vedic Literature 349, 358; is a śrāddha 349n; not performed by agnihotrins in the Deccan or performed only once
 
-[[P883]]a year, [[362;|350;]] description of, in [[Tai ttiriya|Taittirīya]] Brāhmaṇa 427-28; [[descrip tion|description]] of, from [[Satapatha Brābmana|Śatapatha Brāhmaṇa]] 429-431; rules about, are set out in [[Aśv. Sr. S.|Āśv. Śr. S.]] 435n
+[[P883]]a year, [[362;|350;]] description of, in Taittirīya Brāhmaṇa 427-28; description of, from [[Satapatha Brābmana|Śatapatha Brāhmaṇa]] 429-431; rules about, are set out in Āśv. Śr. S. 435n
 
-[[Pipilikā-madhya,|Pipīlikā-madhya,]] variety of [[Candra yana|Cāndrāyaṇa]] 135
+Pipīlikā-madhya, variety of Cāndrāyaṇa 135
 
 [[Piprabava vase, Inscription,|Piprahwa vase Inscription,]] the oldest found up to date (375 B. C.) 235n; seven hundred articles found in the vase were not relics of Buddha, acc. to Fleet, but of his kinsmen 236n
 
 [[l'itryākarma,|Pitryākarma,]] described 203n
 
-[[Pitrbhakti|Pitṛbhakti]] of [[Sridatta,|Śrīdatta,]] [[3340,|334n,]] 335n, 412, 447n, 486
+Pitṛbhakti of Śrīdatta, [[3340,|334n,]] 335n, 412, 447n, 486
 
-[[Pitrdayitā,|Pitṛdayitā,]] 182, 210, 261, 526, 527, 541
+Pitṛdayitā, 182, 210, 261, 526, 527, 541
 
 [[Pitrgatbas,|Pitṛgāthās,]] 388n, 405, 539
 
-[[Pitrmedha|Pitṛmedha]] in [[Satyāsadba-srautasutra|Satyāṣāḍha-śrautasūtra]] 254
+Pitṛmedha in [[Satyāsadba-srautasutra|Satyāṣāḍha-śrautasūtra]] 254
 
-[[Pitrs,|Pitṛs,]] see under 'soul', [['yama';|'Yama';]] afternoon is the proper time for 345; ancient Vedic texts and practice sharply distinguish between gods and p. 345; are sometimes identified in the [[Rg,|Ṛg.]] with seven sages 341; are identified with Vasus, Rudras and [[Adityas|Ādityas]] 334, 335, 337, 339; belief that p. move about as birds 339; belief that p. assume an aerial form and enter the [[brahmanas|brāhmaṇas]] invited for dinner at [[sraddha|śrāddha]] 340; called [[Agniṣvātta|Agniṣvāttāḥ]] and [[Barhisad|Barhiṣadaḥ]] in [[Rgveda|Ṛgveda]] 195, 201; called [[asrumukha|aśrumukha]] and [[nândimukha|nāndīmukha]] 528; created by Brahmā along with gods, asuras and human beings 342; derive sustenance and water when a bull let loose digs up earth or drinks at a pool 541; differences in the procedure of the rites for gods and p. (such as wearing the sacred thread, the [[direc. tion|direction]] to be faced, circumambulation, use of [[svāhā|svadhā]] for gods and [[svadbā|svadhā]] for [[pitrs )|pitṛs)]] 345-6; different classes of, are Kavyas, [[Angirases,|Aṅgirases,]] [[Rkvans,|Ṛkvans,]] [[Vairupas,|Vairūpas,]] Atharvans, [[Bhrgus,|Bhṛgus,]] [[Nava gvas|Navagvas]] and [[Dasagvas|Daśagvas]] 192, 341, 593; division of [[pits|pitṛs]] into [[Somavantah,|Somavantaḥ,]] [[Barhisadah|Barhiṣadaḥ]] and [[Agnisvattaḥ|Agniṣvāttāḥ]] 343; earlier and later p. 341; element of the fear of [[pitrs|pitṛs]] is not wanting even in the [[Rgveda|Ṛgveda]] 347; enjoy delight in the company of Yama 193; fire is supposed to take the spirit of a cremated person to the [[pitrs|pitṛs]] 342; Fravashis of Parsi scriptures correspond to [[pitrs|pitṛs]] of ancient Indian works [[3410;|341n;]] idea of, is Indo-Iranian 341n; identified with [[Rtus|Ṛtus]] (seasons) in [[Taittiriya Brahmana|Taittirīya Brāhmaṇa]] and Manu 428, 430, 450n; interpretation of the word p. by the [[Aryasamāja|Āryasamāja]] 339; in many passages of the [[vedic|Vedic]] literature [[pits|pitṛs]] mean three deceased male ancestors 347; invocation of, in [[Rgveda|Ṛgveda]] X. 15, 194-195; invocation of, after mentioning their gotra and names 348; invoked for conferring various boons such as happiness, wealth and heroic sons even in the [[Rgveda,|Ṛgveda,]] 346; in [[Vrddhi-sraddha|Vṛddhi-śrāddha]] are called [[Nandimukha|Nāndīmukha]] 359n; love soma drink 194, 342; man becomes free from debt due to p. by offering water mixed with sesame, by letting loose a bull and by lighting lamps in the rainy season 541; Manu says gods sprang from p. 344; meanings of the word p. are two, viz. a man's three immediate male ancestors and the ancient ancestors of the human race supposed to reside in a separate world 340-41; names of the [[pitys|pitṛs]] of [[brahmanas|brāhmaṇas]] and the other [[varnas|varṇas]] 343-44; number of classes of [[changed|classes of, changed]] in later times 348; of him who does not offer [[sraddha|śrāddha]] on amāvāsyā even with water or vegetables go away after cursing him 351; of three grades in the [[Rgveda,|Ṛgveda,]] [[lowet,|lower,]] [[midd. ling|middling]] and higher 341; [[presèniation|presentation]] formula in [[Sat. Br.|Śat. Br.]] differs from that of [[Tai. S.|Tai. Br.]] 347-348; regale [[fbemselves|themselves]] in the company of gods, [[partieularly|particularly]] of Yama 341-42; several classes of,
+Pitṛs, see under 'soul', [['yama';|'Yama';]] afternoon is the proper time for 345; ancient Vedic texts and practice sharply distinguish between gods and p. 345; are sometimes identified in the Ṛg. with seven sages 341; are identified with Vasus, Rudras and Ādityas 334, 335, 337, 339; belief that p. move about as birds 339; belief that p. assume an aerial form and enter the brāhmaṇas invited for dinner at śrāddha 340; called [[Agniṣvātta|Agniṣvāttāḥ]] and [[Barhisad|Barhiṣadaḥ]] in Ṛgveda 195, 201; called aśrumukha and nāndīmukha 528; created by Brahmā along with gods, asuras and human beings 342; derive sustenance and water when a bull let loose digs up earth or drinks at a pool 541; differences in the procedure of the rites for gods and p. (such as wearing the sacred thread, the direction to be faced, circumambulation, use of [[svāhā|svadhā]] for gods and [[svadbā|svadhā]] for pitṛs) 345-6; different classes of, are Kavyas, Aṅgirases, Ṛkvans, Vairūpas, Atharvans, Bhṛgus, Navagvas and Daśagvas 192, 341, 593; division of [[pits|pitṛs]] into Somavantaḥ, Barhiṣadaḥ and Agniṣvāttāḥ 343; earlier and later p. 341; element of the fear of pitṛs is not wanting even in the Ṛgveda 347; enjoy delight in the company of Yama 193; fire is supposed to take the spirit of a cremated person to the pitṛs 342; Fravashis of Parsi scriptures correspond to pitṛs of ancient Indian works [[3410;|341n;]] idea of, is Indo-Iranian 341n; identified with Ṛtus (seasons) in Taittirīya Brāhmaṇa and Manu 428, 430, 450n; interpretation of the word p. by the Āryasamāja 339; in many passages of the [[vedic|Vedic]] literature [[pits|pitṛs]] mean three deceased male ancestors 347; invocation of, in Ṛgveda X. 15, 194-195; invocation of, after mentioning their gotra and names 348; invoked for conferring various boons such as happiness, wealth and heroic sons even in the Ṛgveda, 346; in Vṛddhi-śrāddha are called Nāndīmukha 359n; love soma drink 194, 342; man becomes free from debt due to p. by offering water mixed with sesame, by letting loose a bull and by lighting lamps in the rainy season 541; Manu says gods sprang from p. 344; meanings of the word p. are two, viz. a man's three immediate male ancestors and the ancient ancestors of the human race supposed to reside in a separate world 340-41; names of the [[pitys|pitṛs]] of brāhmaṇas and the other varṇas 343-44; number of classes of [[changed|classes of, changed]] in later times 348; of him who does not offer śrāddha on amāvāsyā even with water or vegetables go away after cursing him 351; of three grades in the Ṛgveda, [[lowet,|lower,]] middling and higher 341; [[presèniation|presentation]] formula in Śat. Br. differs from that of [[Tai. S.|Tai. Br.]] 347-348; regale [[fbemselves|themselves]] in the company of gods, [[partieularly|particularly]] of Yama 341-42; several classes of,
 
-[[P884]]named by Manu who connects them with [[varnas|varṇas]] 344; seven classes [[of|of,]] acc. to some [[Puranas|Purāṇas]] 344, 348; Skandapurāṇa speaks of nine classes of, 344; spoken of as mortal by [[Sat. Br.|Śat. Br.]] while gods are spoken of as immortal 346; sometimes sages are said to be distinct from [[pitrs|pitṛs]] 347; supposed power of p. to benefit or harm the [[livipg|living]] led to the cult of the dead in ancient societies 339; three classes of p. 348; three male ancestors of a man are called [[p,|p.]] and identified with the deities Vasus, Rudras and [[Adityas|Ādityas]] 335; took the south 345; twelve groups of [[pitrs|pitṛs]] mentioned by [[Sātā tapa|Śātātapa]] 344; water is offered to [[pitrs|pitṛs]] like [[Angiras,|Aṅgiras,]] Kratu, and [[Kasyapa|Kaśyapa]] while [[pindas|piṇḍas]] are offered to three male immediate ancestors 347; Vāyu and other [[puranas distioguish|purāṇas distinguish]] between p. who are above and p. who are laukika viz. father, grand-father and great [[grand-father|grandfather]] 348; were in a [[class. apart|class apart]] from the gods 344-345; were supposed to have some divine characteristics though they are [[plac- ed|placed]] in a class apart from gods 346; when gratified by śrāddha bestow on their descendants long life, progeny, wealth, [[learnirg,|learning,]] all happiness, heaven, and [[moksa|mokṣa]] 335, 337
+[[P884]]named by Manu who connects them with varṇas 344; seven classes of, acc. to some Purāṇas 344, 348; Skandapurāṇa speaks of nine classes of, 344; spoken of as mortal by Śat. Br. while gods are spoken of as immortal 346; sometimes sages are said to be distinct from pitṛs 347; supposed power of p. to benefit or harm the [[livipg|living]] led to the cult of the dead in ancient societies 339; three classes of p. 348; three male ancestors of a man are called p. and identified with the deities Vasus, Rudras and Ādityas 335; took the south 345; twelve groups of pitṛs mentioned by Śātātapa 344; water is offered to pitṛs like Aṅgiras, Kratu, and Kaśyapa while piṇḍas are offered to three male immediate ancestors 347; Vāyu and other [[puranas distioguish|purāṇas distinguish]] between p. who are above and p. who are laukika viz. father, grand-father and great grandfather 348; were in a class apart from the gods 344-345; were supposed to have some divine characteristics though they are placed in a class apart from gods 346; when gratified by śrāddha bestow on their descendants long life, progeny, wealth, [[learnirg,|learning,]] all happiness, heaven, and mokṣa 335, 337
 
 [[Pitặtirtha,|Pitṛtīrtha,]] part of the hand between the thumb and forefinger 435n
 
-[[Pitryajña,|Pitṛyajña,]] the word occurs even in the [[Rgveda|Ṛgveda]] X. 16. 10 and in [[Sat. Br.|Śat. Br.]] 201, 369; means [[tarpana,|tarpaṇa,]] acc. to Manu 369
+Pitṛyajña, the word occurs even in the Ṛgveda X. 16. 10 and in Śat. Br. 201, 369; means tarpaṇa, acc. to Manu 369
 
-Pitryā verses are [[Rg.|Ṛg.]] X. 15, [[1-3,|1–3,]] 503n
+Pitryā verses are Ṛg. X. 15, 1–3, 503n
 
-Planets, [[Navagrahasanti,|Navagrahaśānti,]] in which each planet is assigned a country and a gotra 178
+Planets, Navagrahaśānti, in which each planet is assigned a country and a gotra 178
 
 Plato 180
 
-Pollution, see purity, purification, [[suddhi;|śuddhi;]] excreta, urine, semen, blood, fat, marrow, intoxicants were held to be causes of great p. while dogs, village swine, cats, wax from ear, nails, phlegm, discharge from eyes and perspiration were the causes of [[insignificent|insignificant]] p. 316; three kinds of soil when polluted, viz. amedhyā (impure), [[dustā|duṣṭā]] [[(soiled).|(soiled),]] [[malina|malinā]] [[(dirty )|(dirty)]] with illustrations and means of purification 317-18
+Pollution, see purity, purification, śuddhi; excreta, urine, semen, blood, fat, marrow, intoxicants were held to be causes of great p. while dogs, village swine, cats, wax from ear, nails, phlegm, discharge from eyes and perspiration were the causes of [[insignificent|insignificant]] p. 316; three kinds of soil when polluted, viz. amedhyā (impure), duṣṭā (soiled), malinā (dirty) with illustrations and means of purification 317-18
 
-Prabhākara, [[mimamsā|mīmāṁsā]] school 170
+Prabhākara, mīmāṁsā school 170
 
-[[Prabandhacintamani|Prabandhacintāmaṇi]] 571n
+Prabandhacintāmaṇi 571n
 
-Pracetas, [[smrti|smṛti]] of, 216n, 218, 219, 276, 409, 413, 521
+Pracetas, smṛti of, 216n, 218, 219, 276, 409, 413, 521
 
-[[Pracinavitin,|Prācīnāvītin,]] meaning of 487n
+Prācīnāvītin, meaning of 487n
 
-[[Prahlada,|Prahlāda,]] a devout asura, [[fougbt|fought]] with [[Nrsimha|Nṛsiṁha]] 659
+Prahlāda, a devout asura, [[fougbt|fought]] with Nṛsiṁha 659
 
-[[Prajapati|Prajāpati]] 95n, 295, 374, 376, 386, 407, 409, 411, 413, 417, 419, 420, 465, [[5 31n,|531n,]] 532, 533n, 669
+Prajāpati 95n, 295, 374, 376, 386, 407, 409, 411, 413, 417, 419, 420, 465, 531n, 532, 533n, 669
 
 Prajāpati, a God 345, 352; is the devatā of all rites where none is specified 357n
 
-[[Prajapatya krcchra|Prājāpatya kṛcchra]] 103, 132, 145-146; expiation for sin of [[gurvanganagama|gurvaṅganāgama]] by mistake 103; for [[jatibhramsakara|jātibhraṁśakara]] acts if done unintentionally 118; substitutes for several varieties of p. 127-128, 145; [[krcchra|kṛcchra]] if used without qualification means p. 145
+Prājāpatya kṛcchra 103, 132, 145-146; expiation for sin of gurvaṅganāgama by mistake 103; for jātibhraṁśakara acts if done unintentionally 118; substitutes for several varieties of p. 127-128, 145; kṛcchra if used without qualification means p. 145
 
-[[Prakaranapancikā,|Prakaraṇapañcikā,]] of [[Salikanātha,|Śālikanātha,]] a [[Mimamsa|Mīmāṁsā]] work 170
+Prakaraṇapañcikā, of Śālikanātha, a Mīmāṁsā work 170
 
-[[Prakirnaka,|Prakīrṇaka,]] sins called 36; expiation for 119
+Prakīrṇaka, sins called 36; expiation for 119
 
 [[Prānāluti|Prāṇāhuti]] mantras 138
 
-[[Pranavānanda,|Praṇavānanda,]] Swami 760
+Praṇavānanda, Swami 760
 
-[[Pranāyāma,|Prāṇāyāma,]] as a means of removing the consequences of sins 42; as [[sub stitute|substitute]] for other severe expiations 127
+Prāṇāyāma, as a means of removing the consequences of sins 42; as substitute for other severe expiations 127
 
-[[Pranitā|Praṇītā]] water 209, 501
+Praṇītā water 209, 501
 
-[[Prasna-upaniṣad|Praśna-upaniṣad]] 186
+Praśna-upaniṣad 186
 
-[[Prasrti-yavaka|Praśṛti-yāvaka]] (or [[Prasrta-yāvaka)143 1 45;|Prasṛta-yāvaka) 143, 145;]] results of drinking the gruel in pr. for 6, 7, 11, or 21 days, 145
+Praśṛti-yāvaka (or Prasṛta-yāvaka) 143, 145; results of drinking the gruel in pr. for 6, 7, 11, or 21 days, 145
 
-Pratiloma castes, are for purposes of [[asauca|āśauca]] like [[sūdras|śūdras]] acc. to some, while the [[Mit|Mit.]] says that there are no periods of [[asauca|āśauca]] for them 288-289; [[samskāras|saṁskāras]] like upanayana [[weron|were]] not to be performed for, 50; to be treated as [[sudras|śūdras]] 50n
+Pratiloma castes, are for purposes of āśauca like śūdras acc. to some, while the Mit. says that there are no periods of āśauca for them 288-289; saṁskāras like upanayana [[weron|were]] not to be performed for, 50; to be treated as śūdras 50n
 
-[[P885]][[Pratisamvatsarika|Prātisaṁvatsarika]] or [[Pratyabdika|Prātyabdika]] [[sraddha|śrāddha]] 487-503, 529-530; no pr. in intercalary month [[530 :|530;]] partakes of the character of [[pārvana|pārvaṇa]] in the case of one's parents but of [[ekoddista|ekoddiṣṭa]] in the case of other relatives 530; to be performed every year on the day of death 529
+[[P885]]Prātisaṁvatsarika or Prātyabdika śrāddha 487-503, 529-530; no pr. in intercalary month 530; partakes of the character of pārvaṇa in the case of one's parents but of ekoddiṣṭa in the case of other relatives 530; to be performed every year on the day of death 529
 
-Pratyamnāyas, meaning of 127; various p. for [[prayascittas|prāyaścittas]] 127-128
+Pratyamnāyas, meaning of 127; various p. for prāyaścittas 127-128
 
 Pratyavasita, meaning of 113; nine kinds of 95, 113
 
 Pravarādhyāya, 537
 
-[[Pravaramanjari|Pravaramañjarī]] 538n
+Pravaramañjarī 538n
 
-Prayāga, see 'suicide at P.', [['tirtha,|'tīrtha',]] [['sraddha';|'śrāddha';]] 596-617; [[Agnitirtha,|Agnitīrtha,]] a [[sub tirtha|sub-tīrtha]] 615; [[Aksaya-vata|Akṣayavaṭa]] is the most famous [[sub-tirtha|sub-tīrtha]] at P. death at the foot of [[wbicb|which]] or suicide from which was believed to lead to highest worlds 614; at the very sight of P. or by taking its name or by applying its clay to the body a man becomes free from sins 597; bath in month of [[Magba|Māgha]] at P. highly praised 617; [[Bhogavati,|Bhogavatī,]] vedi of Prajāpati, [[sub-tirtha|sub-tīrtha]] of P. 614; boundaries of P. 599; confluence of three rivers at P. came to be associated with om and with Pradyumna, [[Sankarsana,|Saṅkarṣaṇa,]] Hari 601; [[Dasasvame dhaka,|Daśāśvamedhaka,]] a [[sub-tirtha|sub-tīrtha]] of P. 614; derivation of the word Prayāga in various ways 598; distinction between [[Pra yāga-mandala,|Prayāga-maṇḍala,]] [[Prayaga|Prayāga]] and [[Veni|Veṇī]] or [[Triveni,|Triveṇī,]] each subsequent one being smaller in extent but holier than each preceding one 598-599; gift of kapilā cow and the marriage of a daughter in [[ārsa|ārṣa]] form at P. highly eulogised 600; gifts made according to one's ability at P., in [[Kuruksetra,|Kurukṣetra,]] on [[Gangā,|Gaṅgā,]] at [[Puskara,|Puṣkara,]] Setubandha, [[Gangadvāra,|Gaṅgādvāra,]] [[Naimiṇa|Naimiṣa]] produce inexhaustible results 600-601; greatest holiness in, 586; greatness of the confluence of [[Ganga|Gaṅgā]] and [[Yamuna|Yamunā]] occurs in a khila verse 596-597; greatness of, described in the [[Maha bhārata|Mahābhārata]] and some [[Puranas|Purāṇas]] 597; is called [[Tirtharaja|Tīrtharāja]] in some [[Puranas|Purāṇas]] 597; is said to be the middle vedi for Brahmā and is called [[Prajāpati kṣetra|Prajāpatikṣetra]] 597; is known as [[Triveni;|Triveṇī;]] is not destroyed at the end of a kalpa and Brahmā, [[Viṣnu|Viṣṇu]] (as [[Veni madhava)|Veṇīmādhava)]] and Rudra as the sacred [[Vata|Vaṭa]] stay there at the end of kalpa 600; Kalpataru quotes on P. only Vanaparva and Matsya and no other [[Purana|Purāṇa]] 601; mantra to be recited when women offer their cut hair at P. 603; meaning of the statement 'those who die at P. are not born again' discussed 611-614; officers were appointed in Kashmir for supervising suicide by fast 605; one dying at P. becomes immortal 547; one dying on the way to [[P,|P.]] reaps great benefit even without reaching it 615; practice of suicide at P. has great antiquity 612; procedure [[pres cribed|prescribed]] by Tristhalīsetu for a man committing religious suicide at P. [[610,611;|610, 611;]] [[Pratisthāna|Pratiṣṭhāna]] or Samudrakūpa, a [[sub-tirtha|sub-tīrtha]] of P. 614; reference to a bath at P. in the purāṇas generally means a bath at the confluence of the two rivers 599; removal of sin is the only result of tonsure at P. 602; [[sub-tirthas|sub-tīrthas]] under Prayāga 614-615; [[sraddha|śrāddha]] has to be performed at most famous [[tirthas|tīrthas]] 616; theory of medieval writers was that at the time of death in Prayāga or [[Varanasi|Vārāṇasī]] the Lord Himself whispers in the ears of the dying man higher knowledge or the [[Taraka|Tāraka]] mantra and that mokṣa does not result directly by dying at a [[tirtha,|tīrtha,]] 612-613; three rivers, [[Gangā,|Gaṅgā,]] Yamunā and [[Sarasvati|Sarasvatī]] (between the other [[two )|two)]] are believed to meet at 597; tonsure at [[P|P.]] discussed and great importance [[Attached|attached]] to it by digests 601-602; [[Tivadipiina,|Urvaśīpulinā,]] a [[sub-tirtha|sub-tīrtha]] of [[P. 614-615,|P. 614–615;]] [[Verikketra|Veṇīkṣetra]] is within the limits of [[Prand|P. and]] is twenty bows in length 599; [[amaterskierol the|waters of the]]
+Prayāga, see 'suicide at P.', 'tīrtha', 'śrāddha'; 596-617; Agnitīrtha, a sub-tīrtha 615; Akṣayavaṭa is the most famous sub-tīrtha at P. death at the foot of [[wbicb|which]] or suicide from which was believed to lead to highest worlds 614; at the very sight of P. or by taking its name or by applying its clay to the body a man becomes free from sins 597; bath in month of [[Magba|Māgha]] at P. highly praised 617; Bhogavatī, vedi of Prajāpati, sub-tīrtha of P. 614; boundaries of P. 599; confluence of three rivers at P. came to be associated with om and with Pradyumna, Saṅkarṣaṇa, Hari 601; Daśāśvamedhaka, a sub-tīrtha of P. 614; derivation of the word Prayāga in various ways 598; distinction between Prayāga-maṇḍala, Prayāga and Veṇī or Triveṇī, each subsequent one being smaller in extent but holier than each preceding one 598-599; gift of kapilā cow and the marriage of a daughter in ārṣa form at P. highly eulogised 600; gifts made according to one's ability at P., in Kurukṣetra, on Gaṅgā, at Puṣkara, Setubandha, Gaṅgādvāra, [[Naimiṇa|Naimiṣa]] produce inexhaustible results 600-601; greatest holiness in, 586; greatness of the confluence of Gaṅgā and Yamunā occurs in a khila verse 596-597; greatness of, described in the Mahābhārata and some Purāṇas 597; is called Tīrtharāja in some Purāṇas 597; is said to be the middle vedi for Brahmā and is called Prajāpatikṣetra 597; is known as Triveṇī; is not destroyed at the end of a kalpa and Brahmā, Viṣṇu (as Veṇīmādhava) and Rudra as the sacred Vaṭa stay there at the end of kalpa 600; Kalpataru quotes on P. only Vanaparva and Matsya and no other Purāṇa 601; mantra to be recited when women offer their cut hair at P. 603; meaning of the statement 'those who die at P. are not born again' discussed 611-614; officers were appointed in Kashmir for supervising suicide by fast 605; one dying at P. becomes immortal 547; one dying on the way to P. reaps great benefit even without reaching it 615; practice of suicide at P. has great antiquity 612; procedure prescribed by Tristhalīsetu for a man committing religious suicide at P. 610, 611; Pratiṣṭhāna or Samudrakūpa, a sub-tīrtha of P. 614; reference to a bath at P. in the purāṇas generally means a bath at the confluence of the two rivers 599; removal of sin is the only result of tonsure at P. 602; sub-tīrthas under Prayāga 614-615; śrāddha has to be performed at most famous tīrthas 616; theory of medieval writers was that at the time of death in Prayāga or Vārāṇasī the Lord Himself whispers in the ears of the dying man higher knowledge or the Tāraka mantra and that mokṣa does not result directly by dying at a tīrtha, 612-613; three rivers, Gaṅgā, Yamunā and Sarasvatī (between the other two) are believed to meet at 597; tonsure at P. discussed and great importance [[Attached|attached]] to it by digests 601-602; [[Tivadipiina,|Urvaśīpulinā,]] a sub-tīrtha of P. 614–615; [[Verikketra|Veṇīkṣetra]] is within the limits of [[Prand|P. and]] is twenty bows in length 599; [[amaterskierol the|waters of the]]
 
-[[P886]]Ganges are white, while those of the [[Yamunā aré|Yamunā are]] dark at P. [[5960;|596n;]] whether suicide at [[P,|P.]] and other [[tirthas|tīrthas]] would involve no sin 603-611; widows have to tonsure their head at P. but women whose husbands are living are to cut off only two finger breadths of tresses according to most writers and all boys whose [[cūda|cūḍā]] ceremony has been performed are subjected to tonsure 602; word P. generally means the [[Veni|Veṇī]] or confluence of the rivers in all passages except where there are express words to the contrary 603n
+[[P886]]Ganges are white, while those of the Yamunā are dark at P. [[5960;|596n;]] whether suicide at P. and other tīrthas would involve no sin 603-611; widows have to tonsure their head at P. but women whose husbands are living are to cut off only two finger breadths of tresses according to most writers and all boys whose cūḍā ceremony has been performed are subjected to tonsure 602; word P. generally means the Veṇī or confluence of the rivers in all passages except where there are express words to the contrary 603n
 
-[[Prāyascitla|Prāyaścitta]] (expiation); see under [[brāhmana,|brāhmaṇa,]] caste, [[cândrāyana,|cāndrāyaṇa,]] incest, [[mahapatakas,|mahāpātakas,]] [[pataka,|pātaka,]] penance, punishment, sinners, theft, tonsure, touch; adhikārin for 77 ff; all persons including even [[candālas|caṇḍālas]] are liable to 77-78; amusing examples of mishaps for which p. is provided in [[Brāhmana|Brāhmaṇa]] texts 58; p. and punishment were same for some misdeeds, such as incest 72; baths with ashes, clay, cowdung, [[pañca gavya|pañcagavya]] in 124; boy over five and less than eleven years had not to undergo p. personally but through father, brother or the like 78-79; branding on forehead, if p. for the first four [[mahapatakas|mahāpātakas]] not undergone 72; called [[Santapana|Sāṁtapana]] 118; cases in which both p. and punishment were given 72; caste of sinner and of the person sinned against made a difference in p. and punishment 80-81; child less than five years is not liable for any crime or liable to p. according to some 79; conventional meaning of, acc. to the [[Mitaksara|Mitākṣarā]] 60; consequences of not performing [[p,|p.]] for sins 153-154; derivation of the word p. 59-60; destroys [[sios|sins]] unintentionally committed 61; discriminatory treatment about [[p,|p.]] depending on caste gradually became obsolete 82; does not destroy sin intentionally committed but makes the sinner fit for association with others 63; easier p. came to be prescribed in course of time 127; ending in death destroys sin 64; ending in death is forbidden in Kali age acc. to digests 65; for adultery 43, 111; for [[brāhmana|brāhmaṇa]] murder by [[ksatriya,|kṣatriya,]] [[vaisya|vaiśya]] or [[sudra|śūdra]] 91, 95; for eating the flesh of certain birds and certain fish was fast for one day or three days 101; for grave sins there was difficult [[p.and|p. and]] easy p. for trivial lapses 84; for [[guru. talpa gamana|gurutalpagamana]] 103-105; for intentionally committed sin is double of that for unintentioned sin 64, 80, 83; for killing any animal other than a cow or bull 110; for particular sins 87-116; for persons kidnapped by mlecchas or raiders, sold or treated as slaves, made to kill cows or eat forbidden food and returning to their own country depended on the caste of the person so treated 117-118; for [[prakirnaka|prakīrṇaka]] (miscellaneous) lapses 119; for pratyavasita (ascetic reverting to the life of an householder) 113; for surāpāna 96-98; for theft of [[brahmana's|brāhmaṇa's]] gold of a certain weight or of [[non brahmana's|non-brāhmaṇa's]] gold 101-102; for unintentional [[brāhmana|brāhmaṇa]] murder 92; for thefts of various articles were different 102; for touching certain men, certain unclean objects like bones, women in monthly illness or recently delivered, animals like dogs or crows 114; for [[upapatakas|upapātakas]] 84, 107; for woman guilty of adultery 104-105; gift of one, two, three or four cows to be made at the end of each p. acc. to the [[varna|varṇa]] of the sinner [[12%;|126;]] homa to be performed in all p. 120; if not performed for one year, then double [[p,|p.]] to be prescribed 75; in cases of [[sinsi|sins]] described as equal to [[brahmahatya|brahmahatyā]] or surāpāna p. is half of what is
+[[Prāyascitla|Prāyaścitta]] (expiation); see under brāhmaṇa, caste, cāndrāyaṇa, incest, mahāpātakas, pātaka, penance, punishment, sinners, theft, tonsure, touch; adhikārin for 77 ff; all persons including even caṇḍālas are liable to 77-78; amusing examples of mishaps for which p. is provided in Brāhmaṇa texts 58; p. and punishment were same for some misdeeds, such as incest 72; baths with ashes, clay, cowdung, pañcagavya in 124; boy over five and less than eleven years had not to undergo p. personally but through father, brother or the like 78-79; branding on forehead, if p. for the first four mahāpātakas not undergone 72; called [[Santapana|Sāṁtapana]] 118; cases in which both p. and punishment were given 72; caste of sinner and of the person sinned against made a difference in p. and punishment 80-81; child less than five years is not liable for any crime or liable to p. according to some 79; conventional meaning of, acc. to the Mitākṣarā 60; consequences of not performing p. for sins 153-154; derivation of the word p. 59-60; destroys [[sios|sins]] unintentionally committed 61; discriminatory treatment about p. depending on caste gradually became obsolete 82; does not destroy sin intentionally committed but makes the sinner fit for association with others 63; easier p. came to be prescribed in course of time 127; ending in death destroys sin 64; ending in death is forbidden in Kali age acc. to digests 65; for adultery 43, 111; for brāhmaṇa murder by kṣatriya, vaiśya or śūdra 91, 95; for eating the flesh of certain birds and certain fish was fast for one day or three days 101; for grave sins there was difficult p. and easy p. for trivial lapses 84; for gurutalpagamana 103-105; for intentionally committed sin is double of that for unintentioned sin 64, 80, 83; for killing any animal other than a cow or bull 110; for particular sins 87-116; for persons kidnapped by mlecchas or raiders, sold or treated as slaves, made to kill cows or eat forbidden food and returning to their own country depended on the caste of the person so treated 117-118; for prakīrṇaka (miscellaneous) lapses 119; for pratyavasita (ascetic reverting to the life of an householder) 113; for surāpāna 96-98; for theft of brāhmaṇa's gold of a certain weight or of non-brāhmaṇa's gold 101-102; for unintentional brāhmaṇa murder 92; for thefts of various articles were different 102; for touching certain men, certain unclean objects like bones, women in monthly illness or recently delivered, animals like dogs or crows 114; for upapātakas 84, 107; for woman guilty of adultery 104-105; gift of one, two, three or four cows to be made at the end of each p. acc. to the varṇa of the sinner [[12%;|126;]] homa to be performed in all p. 120; if not performed for one year, then double p. to be prescribed 75; in cases of [[sinsi|sins]] described as equal to brahmahatyā or surāpāna p. is half of what is
 
-[[P887]]prescribed for [[latter|the latter]] 95; in medieval times came to be gifts and dinner to [[brāhmanas|brāhmaṇas]] 128; is either kratvartha or [[purusārtha|puruṣārtha]] 58; is hardly ever performed now except in the form of gifts of cows or money to [[brāhmanas,|brāhmaṇas,]] pilgrimages, recitation of vedic texts or japa of the names of a deity 87; [[Krechra,|Kṛcchra,]] [[Atikrcchra|Atikṛcchra]] and [[Candrāyana|Cāndrāyaṇa]] are p. prescribed for all sins 84; king's position as to punishment and p. in ancient times 71-72; liability to p. depended on usages of countries 82; lesser p. for abettor or inciter of [[brāhmana|brāhmaṇa]] murder than the actual murderer 90; Literature on 77; many p. prescribed for grave sins were terrible and were to be self-inflicted 76; mantras to be recited in p. and in beginning and at the completion 124-125; matters to be considered in prescribing p. or punishments were the same, [[viz|viz.]] intention or its absence, first lapse or repeated lapse, time, place, age, caste, learning, wealth, [[asrama|āśrama]] 75-83; may be administered to [[Sudra|Śūdra]] but without japa and homa 78; meaning of 57; means also doing something to get rid of the fault arising from some accidental happening or mishap 57; [[p.mentioned|p. mentioned]] in [[srauta|śrauta]] works are passed over in this volume 58-59; [[Mitāksarā|Mitākṣarā]] solution of conflict about efficacy of p. 65; sinner not to ignore [[parisad|pariṣad]] and not to prescribe p. himself 71; numerous [[prāya cittas|prāyaścittas]] prescribed for same sin in [[smrtis|smṛtis]] 87; pañcagavya to be taken in each p. 121; p. partakes of the character of [[nai. mittika|naimittika]] and [[kamya|kāmya]] actions, 60-61; [[Patimokkba|Pātimokkha]] meetings of Buddhists 165; [[parisad|pariṣad]] may prescribe p. for lapses for which no particular expiation is prescribed 84; person drinking through ignorance intoxicants, human urine and the like had to undergo p. of [[Tapta-krcc bra|Tapta-kṛcchra]] and also punarupanayana if he was dvija 97; persons of different [[asramas|āśramas]] were prescribed different p. 83; persons over 80 years old and boys less than 16, women and diseased men are liable to only half of ordinary p. 79-80; persons who were to resort to secret p. 125; prescribing the giving of cows by [[Ap., Baud ,|Āp., Baudh.,]] Manu and Yāj. on killing [[ksatriya,|kṣatriya,]] [[vaisya|vaiśya]] or [[sūdra|śūdra]] explained 71; procedure as prescribed for taking p. after consulting pariṣad has varied in details from time to time 119-121; proper times for performing p. 119; purposes of, as conceived by the [[smrtis|smṛtis]] are purging of sin, satisfaction of sinner's mind, admission to intercourse with others 63-64; rahasya (secret) p., rules about 125-126; reason why it should be conceded that sins are destroyed by p. 68; recitation of the [[Gāyatri|Gāyatrī]] verse ten thousand times is p. for all sins, [[acc to Parāsara|acc. to Parāśara]] 84; relation of p. to punishment 69, 71; role of king, king's officers, learned men and sinner in relation to 70-71; same vrata for striking a [[brāhmana|brāhmaṇa]] with intention to kill as for [[brahmahatya|brahmahatyā]] though victim recovers 95; rules as to food and other matters to be observed in p. 124; severity of, depended on whether the lapse was the first one or was repeated 82-83; should be sought from [[parisad|pariṣad]] at once after a sinful act 119; slight p. could be carried out without informing king 70; [[smrtis|smṛtis]] provide that if a sinner died in the midst of the period for which p. was prescribed he became free from sin here and in next world 83; [[smrtis|smṛtis]] prescribed some terrible p. 126; stages (four) in the matter of expiation 85; [[sūdras bad to bke p. without mantras and hama 149,|śūdras had to take p. without mantras and homa 146;]] to be moulded on the lines of punishment 75; thirteen p. for [[brāhmana|brāhmaṇa]] murder
+[[P887]]prescribed for [[latter|the latter]] 95; in medieval times came to be gifts and dinner to brāhmaṇas 128; is either kratvartha or puruṣārtha 58; is hardly ever performed now except in the form of gifts of cows or money to brāhmaṇas, pilgrimages, recitation of vedic texts or japa of the names of a deity 87; [[Krechra,|Kṛcchra,]] Atikṛcchra and Cāndrāyaṇa are p. prescribed for all sins 84; king's position as to punishment and p. in ancient times 71-72; liability to p. depended on usages of countries 82; lesser p. for abettor or inciter of brāhmaṇa murder than the actual murderer 90; Literature on 77; many p. prescribed for grave sins were terrible and were to be self-inflicted 76; mantras to be recited in p. and in beginning and at the completion 124-125; matters to be considered in prescribing p. or punishments were the same, viz. intention or its absence, first lapse or repeated lapse, time, place, age, caste, learning, wealth, āśrama 75-83; may be administered to Śūdra but without japa and homa 78; meaning of 57; means also doing something to get rid of the fault arising from some accidental happening or mishap 57; p. mentioned in śrauta works are passed over in this volume 58-59; Mitākṣarā solution of conflict about efficacy of p. 65; sinner not to ignore pariṣad and not to prescribe p. himself 71; numerous [[prāya cittas|prāyaścittas]] prescribed for same sin in smṛtis 87; pañcagavya to be taken in each p. 121; p. partakes of the character of naimittika and kāmya actions, 60-61; [[Patimokkba|Pātimokkha]] meetings of Buddhists 165; pariṣad may prescribe p. for lapses for which no particular expiation is prescribed 84; person drinking through ignorance intoxicants, human urine and the like had to undergo p. of [[Tapta-krcc bra|Tapta-kṛcchra]] and also punarupanayana if he was dvija 97; persons of different āśramas were prescribed different p. 83; persons over 80 years old and boys less than 16, women and diseased men are liable to only half of ordinary p. 79-80; persons who were to resort to secret p. 125; prescribing the giving of cows by [[Ap., Baud ,|Āp., Baudh.,]] Manu and Yāj. on killing kṣatriya, vaiśya or śūdra explained 71; procedure as prescribed for taking p. after consulting pariṣad has varied in details from time to time 119-121; proper times for performing p. 119; purposes of, as conceived by the smṛtis are purging of sin, satisfaction of sinner's mind, admission to intercourse with others 63-64; rahasya (secret) p., rules about 125-126; reason why it should be conceded that sins are destroyed by p. 68; recitation of the Gāyatrī verse ten thousand times is p. for all sins, acc. to Parāśara 84; relation of p. to punishment 69, 71; role of king, king's officers, learned men and sinner in relation to 70-71; same vrata for striking a brāhmaṇa with intention to kill as for brahmahatyā though victim recovers 95; rules as to food and other matters to be observed in p. 124; severity of, depended on whether the lapse was the first one or was repeated 82-83; should be sought from pariṣad at once after a sinful act 119; slight p. could be carried out without informing king 70; smṛtis provide that if a sinner died in the midst of the period for which p. was prescribed he became free from sin here and in next world 83; smṛtis prescribed some terrible p. 126; stages (four) in the matter of expiation 85; [[sūdras bad to bke p. without mantras and hama 149,|śūdras had to take p. without mantras and homa 146;]] to be moulded on the lines of punishment 75; thirteen p. for brāhmaṇa murder
 
-[[P888]]88-93; p. for twelve years had a sliding scale of substitutes in medieval times 128; two forms of the word p. 57; two kinds of, acc. to [[Sabara,|Śabara,]] in [[sruti|śruti]] texts 58; two meanings of the word in old Vedic texts 57; varied according to rules for [[sauca|śauca]] laid down for the several [[asramas|āśramas]] 83; various kinds of [[p,|p.]] prescribed by [[smrtis|smṛtis]] for eating and drinking what ought not be eaten or drunk or for [[drioking|drinking]] from a [[cândāla's|cāṇḍāla's]] pot 99; Vedic indications in support of view that even sins intentionally committed are destroyed by [[p|p.]] 62-64; were of two kinds, viz. those undergone openly and those that were undergone secretly 125; when a man attempts suicide by fire, water, poison or the like and is saved or recovers p. is for three years 95; when no specific p. prescribed for a lapse, then recitation of vedic texts, tapas, fast and gifts may be resorted to 84; when one is bitten by a [[barlot,|harlot,]] a dog, monkey, ass, jackal or the like p. is [[prānāyāma|prāṇāyāma]] 110; whether rules on p. were made earlier than the rules about punishments, where the same act is liable to both 69-70; while undergoing p. the [[singer|sinner]] has to observe certain rules such as [[ahimsā,|ahiṁsā,]] truthfulness 120-121, 124; women had to take [[p,|p.]] without vedic mantras 146
+[[P888]]88-93; p. for twelve years had a sliding scale of substitutes in medieval times 128; two forms of the word p. 57; two kinds of, acc. to Śabara, in śruti texts 58; two meanings of the word in old Vedic texts 57; varied according to rules for śauca laid down for the several āśramas 83; various kinds of p. prescribed by smṛtis for eating and drinking what ought not be eaten or drunk or for [[drioking|drinking]] from a cāṇḍāla's pot 99; Vedic indications in support of view that even sins intentionally committed are destroyed by p. 62-64; were of two kinds, viz. those undergone openly and those that were undergone secretly 125; when a man attempts suicide by fire, water, poison or the like and is saved or recovers p. is for three years 95; when no specific p. prescribed for a lapse, then recitation of vedic texts, tapas, fast and gifts may be resorted to 84; when one is bitten by a [[barlot,|harlot,]] a dog, monkey, ass, jackal or the like p. is prāṇāyāma 110; whether rules on p. were made earlier than the rules about punishments, where the same act is liable to both 69-70; while undergoing p. the [[singer|sinner]] has to observe certain rules such as ahiṁsā, truthfulness 120-121, 124; women had to take p. without vedic mantras 146
 
-[[Prāyascittamayūkha,|Prāyaścittamayūkha,]] 24, 25, 30n, 59n, 67, 78, 83n, 84n, 86n, 121, 122, 123n, 128n, 129, 130, 137n, 142, 146n, [[1500|150n]]
+Prāyaścittamayūkha, 24, 25, 30n, 59n, 67, 78, 83n, 84n, 86n, 121, 122, 123n, 128n, 129, 130, 137n, 142, 146n, [[1500|150n]]
 
-[[Prayascitta-muktāvali|Prāyaścitta-muktāvalī]] (ms.) 15, 65, 112, 113, 117n, 128n, 150
+Prāyaścitta-muktāvalī (ms.) 15, 65, 112, 113, 117n, 128n, 150
 
-[[Prāyaścitta prakarana,|Prāyaścittaprakaraṇa,]] [[210,|21n,]] 23, 24, 25n, 26, 28, 59n, 74n, 75n, [[791,|79n,]] 80n, [[sln,|81n,]] 82, 94, 95, 96, 97, 98, 106, 109, 114, 132, 134, 142, 149
+Prāyaścittaprakaraṇa, [[210,|21n,]] 23, 24, 25n, 26, 28, 59n, 74n, 75n, [[791,|79n,]] 80n, [[sln,|81n,]] 82, 94, 95, 96, 97, 98, 106, 109, 114, 132, 134, 142, 149
 
-[[Prayascittaprakasa,|Prāyaścittaprakāśa,]] (part of [[Viramitro- daya,|Vīramitrodaya,]] ms.) 16n, 21, 22, 25n, 26, 27n, 28n, 41n, 45n, 47, 51, [[550,|55n,]] 56, 60n, 61, [[641,|64n,]] [[650,|65n,]] 67, 70n, 76, 78n, 84n, 85, 87, 88n, 90, 91, 95n, 98, 104n, 107, 108n, 116, 121, 122, 124, 128n, 131, 132, 134n, 136, 137, 138, 139, 140, 141, 146, 148, 149, 150n, 151, 152
+Prāyaścittaprakāśa, (part of Vīramitrodaya, ms.) 16n, 21, 22, 25n, 26, 27n, 28n, 41n, 45n, 47, 51, [[550,|55n,]] 56, 60n, 61, [[641,|64n,]] [[650,|65n,]] 67, 70n, 76, 78n, 84n, 85, 87, 88n, 90, 91, 95n, 98, 104n, 107, 108n, 116, 121, 122, 124, 128n, 131, 132, 134n, 136, 137, 138, 139, 140, 141, 146, 148, 149, 150n, 151, 152
 
-[[Prāyascitta-sāra,|Prāyaścitta-sāra,]] 65n, 70n, 76n, 78n, 84, 86, 94n, 101, 106, [[1131,|113n,]] 121, 123n, 125n, 127, 128n, 129, 130, 131n, 132n, 134, 139, 140, 143n, 147, 148, 149n, 150, 152, 176, 177
+Prāyaścitta-sāra, 65n, 70n, 76n, 78n, 84, 86, 94n, 101, 106, [[1131,|113n,]] 121, 123n, 125n, 127, 128n, 129, 130, 131n, 132n, 134, 139, 140, 143n, 147, 148, 149n, 150, 152, 176, 177
 
-[[Prayascitta-tattva,|Prāyaścitta-tattva,]] 17n, 28, 40, 50, 51, 60, 67, 75, 79n, 84n, 86n, 90, 108, 109, 117, 119, 121, 122, 123n, 127n, 129, 131, 132n, 217n, 576n, 577n, 578, 589n, 590, 594, 602n, 603
+Prāyaścitta-tattva, 17n, 28, 40, 50, 51, 60, 67, 75, 79n, 84n, 86n, 90, 108, 109, 117, 119, 121, 122, 123n, 127n, 129, 131, 132n, 217n, 576n, 577n, 578, 589n, 590, 594, 602n, 603
 
-[[Prāyascittaviveka,|Prāyaścittaviveka,]] 10, 17, 18, 19, 21, 22n, 23-26, 28, 32, 40, 41, 50, 55n, 59n, 60, 61n, 63n, 75, 77n, 79n, 80n, 81n, 83n, 86, 87n, 88, 90, 94, 95, 97, 98, 99n, 101, 103, 104n, 105n, 106, 108, 111n, 114, 115n, 121, 123n, 125n, 129, 131, 132n, 134n, 142n, 146, 148n, [[1500,|150n,]] 153n, 162, [[163 n,|163n,]] 265n, 313n
+Prāyaścittaviveka, 10, 17, 18, 19, 21, 22n, 23-26, 28, 32, 40, 41, 50, 55n, 59n, 60, 61n, 63n, 75, 77n, 79n, 80n, 81n, 83n, 86, 87n, 88, 90, 94, 95, 97, 98, 99n, 101, 103, 104n, 105n, 106, 108, 111n, 114, 115n, 121, 123n, 125n, 129, 131, 132n, 134n, 142n, 146, 148n, [[1500,|150n,]] 153n, 162, 163n, 265n, 313n
 
-[[Prayascittendusekhara|Prāyaścittendusekhara]] of [[Nāgojibhatta|Nāgojībhaṭṭa]] 77, 119, 121, 129, 152
+Prāyaścittendusekhara of Nāgojībhaṭṭa 77, 119, 121, 129, 152
 
 Predestination, doctrine of 9
 
-[[Pretasraddhas,|Pretaśrāddhas,]] 262n; eighteen details omitted in 262n
+Pretaśrāddhas, 262n; eighteen details omitted in 262n
 
-Priyolkar, Mr. A. K. [[715n. 721|715n, 721]]
+Priyolkar, Mr. A. K. 715n, 721
 
 Pringle-Pattison, author of 'Idea of immortality' 171n
 
-[[Prthudaka|Pṛthūdaka]] (modern Pehova) is called [[Brahmayonitirtha|Brahmayonitīrtha]] 685; is the holiest of [[tirthas,|tīrthas,]] acc. to Vanaparva 566, 685; religious suicide at, mentioned by Vanaparva 608, 685
+Pṛthūdaka (modern Pehova) is called Brahmayonitīrtha 685; is the holiest of tīrthas, acc. to Vanaparva 566, 685; religious suicide at, mentioned by Vanaparva 608, 685
 
 Ptolemy 765
 
-[[Prthvicandrodaya|Pṛthvīcandrodaya]] 351n, [[406,|406n,]] 424n, 425n, 459n, 464n, 503n, 513n, 515n, 520n, 529n, 535, 547, 555n, 574n, 578n, 580n, [[616,|616n,]] 652n
+Pṛthvīcandrodaya 351n, [[406,|406n,]] 424n, 425n, 459n, 464n, 503n, 513n, 515n, 520n, 529n, 535, 547, 555n, 574n, 578n, 580n, [[616,|616n,]] 652n
 
 Puckle, Bertram S., author of 'Funeral customs,' describing funeral customs of England, France, Jews and peoples of Europe 191n, 232n
 
-[[Pūjaratnākara,|Pūjāratnākara,]] 187
+Pūjāratnākara, 187
 
 [[Tulastya,|Pulastya,]] 351n, 424, 481
 
-[[P889]]Punaḥstoma, a [[srauta|śrauta]] sacrifice which removes [[sine|sins]] 62
+[[P889]]Punaḥstoma, a śrauta sacrifice which removes [[sine|sins]] 62
 
-Punarjanma, doctrine of, apparently conflicts with the theory of [[sraddha|śrāddha]] 335; doctrine of, very succinctly put forth in [[Br. Up.|Bṛ. Up.]] and [[Bhagavadgitā|Bhagavadgītā]] 335
+Punarjanma, doctrine of, apparently conflicts with the theory of śrāddha 335; doctrine of, very succinctly put forth in Bṛ. Up. and Bhagavadgītā 335
 
 Punarupanayana; details that are done or omitted from those of upanayana 98
 
-Punishment, and expiation for certain acts are the same 31, 72; based on considerations of the castes of the offender and the person aggrieved had ceased to be operative by about 12th century [[A.D.82;|A.D. 82;]] by king with a fine of the first or second kind can offenders allow to associate with other members of the society, but not those awarded the highest fine 67, 76; by king was deemed in some cases to have purged a man of sin 73; depended on the caste of offender and person aggrieved acc. to [[smrtis|smṛtis]] 81; for incest viz. excision of testicles and death was for [[non-brāhmana|non-brāhmaṇa]] offenders 72; for many acts was light in India as compared with western countries probably owing to the liability of the perpetrator to undergo expiation 68; of [[brāhmanas|brāhmaṇas]] guilty of one of the first four [[mahāpatakas|mahāpātakas]] 72; of persons other than [[brāhmanas|brāhmaṇas]] guilty of the first four [[mabā patakas|mahāpātakas]] 72; some acts not liable to be punished by the king or State made the authors liable to [[prayascitta|prāyaścitta]] 68; some acts punishable by the king entailed no [[prayascitta|prāyaścitta]] 69
+Punishment, and expiation for certain acts are the same 31, 72; based on considerations of the castes of the offender and the person aggrieved had ceased to be operative by about 12th century A.D. 82; by king with a fine of the first or second kind can offenders allow to associate with other members of the society, but not those awarded the highest fine 67, 76; by king was deemed in some cases to have purged a man of sin 73; depended on the caste of offender and person aggrieved acc. to smṛtis 81; for incest viz. excision of testicles and death was for non-brāhmaṇa offenders 72; for many acts was light in India as compared with western countries probably owing to the liability of the perpetrator to undergo expiation 68; of brāhmaṇas guilty of one of the first four mahāpātakas 72; of persons other than brāhmaṇas guilty of the first four [[mabā patakas|mahāpātakas]] 72; some acts not liable to be punished by the king or State made the authors liable to prāyaścitta 68; some acts punishable by the king entailed no prāyaścitta 69
 
-Punpun, sacred river where orthodox pilgrims get shaved before proceeding to Gayā and perform [[sraddha|śrāddha]] also 580-581
+Punpun, sacred river where orthodox pilgrims get shaved before proceeding to Gayā and perform śrāddha also 580-581
 
-[[Purana,|Purāṇa,]] a coin equal to sixteen [[panas|paṇas]] in value 129
+Purāṇa, a coin equal to sixteen paṇas in value 129
 
-[[Puranas|Purāṇas]] 243, 272, 302; abound in stories that appear to modern minds absurd and puerile 659; contain thousands of verses on [[sraddha|śrāddha]] 262; contain stories that may be divided into several classes and many of them were meant to satisfy the cravings of the human mind for the marvellous, the unusual and the horrible 622-623; closely follow [[grhyasūtras,|gṛhyasūtras,]] Manu and [[Yaj,|Yāj.,]] and contain numerous verses that are identical with those of [[Yaj.|Yāj.]] and often employ the same mantras and [[formula|formulae]] 448, 452; often describe the quarrels and bickerings among high gods and sages 623; procedure for [[sraddha|śrāddha]] is the same in all purāṇas 448; proposed an easy way for all to remove consequences of sins, viz. remembering the name of [[Nārāyana|Nārāyaṇa]] 50; several p. devote considerable space to [[asauca|āśauca]] 272; state that gods like Indra and [[Krsna|Kṛṣṇa]] fought, that [[Ganesa's|Gaṇeśa's]] tooth was shattered by [[Parasurama|Paraśurāma]] who wanted to fight with Rāma and that sages cursed [[Visnu,|Viṣṇu,]] Indra and Dharma 623; state that even gods like [[Visnu,|Viṣṇu,]] sages like [[Vasistha|Vasiṣṭha]] and great kings attained their positions by pilgrimages 56
+Purāṇas 243, 272, 302; abound in stories that appear to modern minds absurd and puerile 659; contain thousands of verses on śrāddha 262; contain stories that may be divided into several classes and many of them were meant to satisfy the cravings of the human mind for the marvellous, the unusual and the horrible 622-623; closely follow gṛhyasūtras, Manu and Yāj., and contain numerous verses that are identical with those of Yāj. and often employ the same mantras and [[formula|formulae]] 448, 452; often describe the quarrels and bickerings among high gods and sages 623; procedure for śrāddha is the same in all purāṇas 448; proposed an easy way for all to remove consequences of sins, viz. remembering the name of Nārāyaṇa 50; several p. devote considerable space to āśauca 272; state that gods like Indra and Kṛṣṇa fought, that Gaṇeśa's tooth was shattered by Paraśurāma who wanted to fight with Rāma and that sages cursed Viṣṇu, Indra and Dharma 623; state that even gods like Viṣṇu, sages like Vasiṣṭha and great kings attained their positions by pilgrimages 56
 
-[[Purana, śrāddhas|Purāṇa-śrāddhas]] 262
+Purāṇa-śrāddhas 262
 
-Purification, see under [['food',|'food';]] of things, (dravyas) 312-333; divergence of views about p. of various objects 316; five to seven means of p. of land, acc. to [[Vasistha,|Vasiṣṭha,]] [[Yaj.|Yāj.]] and others 317; general rule for [[p.of|p. of]] large quantities of corn, clothes and many other articles is that sprinkling with water suffices but if quantity small then washing with water necessary 329; of house, when polluted, by sweeping or cowdunging, but far more p. necessary if a dog, a [[sudra,|śūdra,]] mleccha, [[cândāla|cāṇḍāla]] or patita dies in it or [[cândala|cāṇḍāla]] stays in it 321-322; of gold and silver by water or fire (if pollution slight) 325; of cloth and yarn 330; means of purification of metallic things, earthenware, wooden things, of cloth, bones, iron [[315, none for infants up to th|315; none for infants up to the time of anna-]]
+Purification, see under 'food'; of things, (dravyas) 312-333; divergence of views about p. of various objects 316; five to seven means of p. of land, acc. to Vasiṣṭha, Yāj. and others 317; general rule for p. of large quantities of corn, clothes and many other articles is that sprinkling with water suffices but if quantity small then washing with water necessary 329; of house, when polluted, by sweeping or cowdunging, but far more p. necessary if a dog, a śūdra, mleccha, cāṇḍāla or patita dies in it or cāṇḍāla stays in it 321-322; of gold and silver by water or fire (if pollution slight) 325; of cloth and yarn 330; means of purification of metallic things, earthenware, wooden things, of cloth, bones, iron [[315, none for infants up to th|315; none for infants up to the time of anna-]]
 
-[[P890]][[prasana|prāśana]] (taking cooked food for the first time), or up to one year or up to upanayana 312; matters to be considered in prescribing p. of polluted things are time, place, the body, the thing to be purified, the purpose for which the thing is to be used, origin of defilement, condition (of the thing) 316; of metals and precious stones 325-326; of idols or [[įmages|images]] made of iron or other metal or of stone 318-319; of temples when polluted 318-319; of water 322-323; of body by ācamana, bath etc. 331-332; of small quantities of liquids (oil, ghee etc.) by two [[kusas|kuśas]] dipped in water and of large quantities by [[i sprinkling|sprinkling]] water 330; of substances depended on many circumstances such as being metallic or not, solid or liquid, being large or small in quantity 331; of polluted corn and cooked food 328; procedure of p. of images polluted in various ways 319-320; procedure of p. of a well in which the dead body of an animal with five nails (man or beast) is found or it is extremely polluted 323; some birds or animals were always pure or deemed to be pure as to certain parts of the body such as a cow except as to its mouth, goats and horses as to their mouths 312-313; sprinkling with water is the mode of [[p,|p.]] when large quantities of corn or clothes are polluted 314; substances that bring about p. of all polluted things are water, clay, paste of soap berries, bilva fruit, rice, mustard cake, salts, cow's urine and dung 314; of vessels and pots when slightly or extremely polluted 326-327; of vessels and implements used in Vedic sacrifices 327-328; water deemed even in the [[Rgveda|Ṛgveda]] to be a means of [[p.321;|p. 321;]] water and earth are to be employed for p. of things or bodies smeared with foul matter till the foul odour is removed 314; ways of p. of ground 316-317; what things do not need p. and are always pure 312-14
+[[P890]]prāśana (taking cooked food for the first time), or up to one year or up to upanayana 312; matters to be considered in prescribing p. of polluted things are time, place, the body, the thing to be purified, the purpose for which the thing is to be used, origin of defilement, condition (of the thing) 316; of metals and precious stones 325-326; of idols or images made of iron or other metal or of stone 318-319; of temples when polluted 318-319; of water 322-323; of body by ācamana, bath etc. 331-332; of small quantities of liquids (oil, ghee etc.) by two kuśas dipped in water and of large quantities by [[i sprinkling|sprinkling]] water 330; of substances depended on many circumstances such as being metallic or not, solid or liquid, being large or small in quantity 331; of polluted corn and cooked food 328; procedure of p. of images polluted in various ways 319-320; procedure of p. of a well in which the dead body of an animal with five nails (man or beast) is found or it is extremely polluted 323; some birds or animals were always pure or deemed to be pure as to certain parts of the body such as a cow except as to its mouth, goats and horses as to their mouths 312-313; sprinkling with water is the mode of p. when large quantities of corn or clothes are polluted 314; substances that bring about p. of all polluted things are water, clay, paste of soap berries, bilva fruit, rice, mustard cake, salts, cow's urine and dung 314; of vessels and pots when slightly or extremely polluted 326-327; of vessels and implements used in Vedic sacrifices 327-328; water deemed even in the Ṛgveda to be a means of p. 321; water and earth are to be employed for p. of things or bodies smeared with foul matter till the foul odour is removed 314; ways of p. of ground 316-317; what things do not need p. and are always pure 312-14
 
-Purity, see under [["bath,' sauca,' suddhi';|'bath', 'śauca', 'śuddhi';]] causes of, are time, fire, religious rites, clay, wind, mind, spiritual knowledge, expiations, water, repentance and fast 315; extremely exaggerated importance attached by medieval [[brahmanas|brāhmaṇas]] to ceremonial p. on births and [[death -and|death and]] led to such prescriptions as the one that if a [[sūdra,|śūdra,]] patita or mleccha died in a [[brāhmana's|brāhmaṇa's]] house, the latter became impure for months 273, 282; great care taken for the purity or cleanliness of vessels used in sacrifices and of offerings in early [[vedic|Vedic]] times 310; great emphasis laid by ancient and medieval Indians on p. of mind, body, place where they resided or performed religious rites, of food 332; ground in a [[brahmana's|brāhmaṇa's]] house, in a temple and in cowpens is held to be endowed with [[p.,|p.]] unless it has been polluted 322; inner p. and the food that one eats 100, 332-333; Manu declares that mental purity is the highest of all kinds of p. 311; of the body effected by various means such as rinsing the mouth, bath 311; of sacrificer's body in [[srauta|śrauta]] rites was effected by the adhvaryu priest rubbing the sacrificer's body twice with three bunches of seven darbhas each 311
+Purity, see under 'bath', 'śauca', 'śuddhi'; causes of, are time, fire, religious rites, clay, wind, mind, spiritual knowledge, expiations, water, repentance and fast 315; extremely exaggerated importance attached by medieval brāhmaṇas to ceremonial p. on births and death and led to such prescriptions as the one that if a śūdra, patita or mleccha died in a brāhmaṇa's house, the latter became impure for months 273, 282; great care taken for the purity or cleanliness of vessels used in sacrifices and of offerings in early [[vedic|Vedic]] times 310; great emphasis laid by ancient and medieval Indians on p. of mind, body, place where they resided or performed religious rites, of food 332; ground in a brāhmaṇa's house, in a temple and in cowpens is held to be endowed with p. unless it has been polluted 322; inner p. and the food that one eats 100, 332-333; Manu declares that mental purity is the highest of all kinds of p. 311; of the body effected by various means such as rinsing the mouth, bath 311; of sacrificer's body in śrauta rites was effected by the adhvaryu priest rubbing the sacrificer's body twice with three bunches of seven darbhas each 311
 
-Puronuvākyā (invitatory prayer) 543 (in [[Jivat-śrāddha),|Jīvat-śrāddha),]] is recited by the hotṛ priest while seated 543n
+Puronuvākyā (invitatory prayer) 543 (in Jīvat-śrāddha), is recited by the hotṛ priest while seated 543n
 
-[[Purusagati,|Puruṣagati,]] a [[saman|sāman]] 46n
+Puruṣagati, a sāman 46n
 
-[[Purusasūkta|Puruṣasūkta]] ([[Rg.|Ṛg.]] X. 90), is deemed to be a hymn that purifies one of sins 45, 48, 304, 320; is of 18 verses in [[Vaj. S|Vāj. S.]] and Tai. Ā. 543; to be repeated at [[pārvana-srāddha|pārvaṇa-śrāddha]] 439, 444, 449n, 488, 507; to be repeated in [[Vrsot, sarga|Vṛṣotsarga]] 540
+Puruṣasūkta (Ṛg. X. 90), is deemed to be a hymn that purifies one of sins 45, 48, 304, 320; is of 18 verses in Vāj. S. and Tai. Ā. 543; to be repeated at pārvaṇa-śrāddha 439, 444, 449n, 488, 507; to be repeated in Vṛṣotsarga 540
 
-[[Purusottama-tirtha|Puruṣottama-tīrtha]] (Jagannātha [[Purzy|Purī)]] 692-703; see [['Castanya';|'Caitanya';]] army of
+Puruṣottama-tīrtha (Jagannātha [[Purzy|Purī)]] 692-703; see [['Castanya';|'Caitanya';]] army of
 
-[[P891]]attendants at temple of [[Jagannatha|Jagannātha]] divided into 36 orders and 97 classes 699; Brahma and [[Nāradiya puranas|Nāradīya purāṇas]] deal exhaustively with P. 693; Caitanya settled at Puri in 1515 and died there in 1533 A. D., 702; conflict of views about the builder of the great temple at, 698; description of the car festival of [[Jagannatha|Jagannātha]] which is the most important of the high festivals at Puri 697-698; five important [[tirthas|tīrthas]] at 699; [[Gundi- ca-yatra|Guṇḍicā-yātrā]] for seven days 700-701; indications showing that P. was a place of Buddhist sanctuary 695-696; legend of Indradyumna who [[establish ed|established]] wooden images of [[Krsna,|Kṛṣṇa,]] [[Bala rāma|Balarāma]] and [[Subhadra|Subhadrā]] 694-695; Mitra surmises three periods in history of [[P|P.]] viz. early Hindu period, Buddhist period and [[Vaisnava|Vaiṣṇava]] period 695; not described by Kalpataru on [[tirtbas|tīrthas]] 693; no truth in the stories about suicide by falling before the car of [[Jagannatha|Jagannātha]] 698; one of the four most important [[tirthas|tīrthas]] in Orissa, the other three being [[Bhuvanesvara,|Bhuvaneśvara,]] [[Konārka|Koṇārka]] and [[Jājpur (Yayatipura)|Jājpur (Yayātipura)]] 693; peculiar features of P. are that no distinction of caste is observed, holy cooked rice, car festival 697; pool called after Indradyumna 694-695, 700; pool of [[Markandeya,|Mārkaṇḍeya,]] story of 699; P. was probably called [[Nilacala|Nīlācala]] in ancient times, [[Krsna worsbip|Kṛṣṇa worship]] was introduced from northern India and three images of wood were [[est- ablished|established]] early 695; religious suicide at, recommended to dvijas by Brahmapurāṇa 608; regrettable feature of [[Jagannatha|Jagannātha]] temple is the existence of obscene sculptures on the walls 702; [[Rgveda|Ṛgveda]] X. 155. 3 is supposed by [[Sayaṇa|Sāyaṇa]] to refer to [[P,|P.]] 693; sacred enclosure of [[Jagapnātha|Jagannātha]] with 120 temples and the pagoda of [[Jagannatha|Jagannātha]] in four chambers [[des cribed|described]] 696-697; sacred [[vata|vaṭa]] at P. 699-700; story of [[Jagannatha|Jagannātha]] in the [[Brahmapurana|Brahmapurāṇa]] 694-695; three images described by Hunter and Mitra which are supposed to correspond to Buddha, Dharma and [[Sangha|Saṅgha]] 695n, 696; [[vesyās|veśyās]] (dancing girls) at temple of, referred to in [[Brahma purāṇa|Brahmapurāṇa]] 702-703; works on 692-693
+[[P891]]attendants at temple of Jagannātha divided into 36 orders and 97 classes 699; Brahma and Nāradīya purāṇas deal exhaustively with P. 693; Caitanya settled at Puri in 1515 and died there in 1533 A. D., 702; conflict of views about the builder of the great temple at, 698; description of the car festival of Jagannātha which is the most important of the high festivals at Puri 697-698; five important tīrthas at 699; Guṇḍicā-yātrā for seven days 700-701; indications showing that P. was a place of Buddhist sanctuary 695-696; legend of Indradyumna who established wooden images of Kṛṣṇa, Balarāma and Subhadrā 694-695; Mitra surmises three periods in history of P. viz. early Hindu period, Buddhist period and Vaiṣṇava period 695; not described by Kalpataru on [[tirtbas|tīrthas]] 693; no truth in the stories about suicide by falling before the car of Jagannātha 698; one of the four most important tīrthas in Orissa, the other three being Bhuvaneśvara, Koṇārka and Jājpur (Yayātipura) 693; peculiar features of P. are that no distinction of caste is observed, holy cooked rice, car festival 697; pool called after Indradyumna 694-695, 700; pool of Mārkaṇḍeya, story of 699; P. was probably called Nīlācala in ancient times, [[Krsna worsbip|Kṛṣṇa worship]] was introduced from northern India and three images of wood were established early 695; religious suicide at, recommended to dvijas by Brahmapurāṇa 608; regrettable feature of Jagannātha temple is the existence of obscene sculptures on the walls 702; Ṛgveda X. 155. 3 is supposed by Sāyaṇa to refer to P. 693; sacred enclosure of [[Jagapnātha|Jagannātha]] with 120 temples and the pagoda of Jagannātha in four chambers described 696-697; sacred vaṭa at P. 699-700; story of Jagannātha in the Brahmapurāṇa 694-695; three images described by Hunter and Mitra which are supposed to correspond to Buddha, Dharma and Saṅgha 695n, 696; veśyās (dancing girls) at temple of, referred to in Brahmapurāṇa 702-703; works on 692-693
 
 [[Purusottamalsetratattva|Puruṣottamakṣetratattva]] of Raghunandana 583, 693,
 
-[[Purvamimāmsā,|Pūrvamīmāṁsā,]] see under [['Mimāmsā|'Mīmāṁsā']] 24
+Pūrvamīmāṁsā, see under 'Mīmāṁsā' 24
 
-[[Pusan,|Pūṣan,]] protects cattle and hands over the departed to [[pitrs|pitṛs]] 198; worshipped in [[Vrsotsarga|Vṛṣotsarga]] rite 540
+Pūṣan, protects cattle and hands over the departed to pitṛs 198; worshipped in Vṛṣotsarga rite 540
 
-[[Puskara,|Puṣkara,]] all ten thousand crores of [[tirthas|tīrthas]] are present in, 565
+Puṣkara, all ten thousand crores of tīrthas are present in, 565
 
 [[Puspakrochra,|Puṣpakṛcchra,]] 143
 
-[[Pustisraddha|Puṣṭiśrāddha]] 282
+Puṣṭiśrāddha 282
 
-Putra (son); all three descendants of a man were deemed to confer equally great spiritual benefit upon him 366; Manu says that by the birth of a son man wins the worlds, [[secure.|secures]] immortality by a grandson and reaches the abode of the sun by a great-grandson 366; [[Mitaksara|Mitākṣarā]] included the great-grandson also in the extended meaning of the word 367-368; who deserves to be called p. 365
+Putra (son); all three descendants of a man were deemed to confer equally great spiritual benefit upon him 366; Manu says that by the birth of a son man wins the worlds, [[secure.|secures]] immortality by a grandson and reaches the abode of the sun by a great-grandson 366; Mitākṣarā included the great-grandson also in the extended meaning of the word 367-368; who deserves to be called p. 365
 
-Putrikāputra, 473, 474, 536n; to whom does he offer [[pindas|piṇḍas]] in a [[sraddba|śrāddha]] and in what order 537
+Putrikāputra, 473, 474, 536n; to whom does he offer piṇḍas in a [[sraddba|śrāddha]] and in what order 537
 
 Quack, liable to be punished, [[il|if]] person treated by him died as a result 19
 
@@ -1908,43 +1907,43 @@ Raghavan, Dr. V. [[7016|701n]]
 
 [[Raghavadanda,|Rāghavānanda,]] commentator of Manu 93
 
-Raghunandana, author of [[Sraddha. tattva, Gayasraddhapaddhati|Śrāddhatattva, Gayāśrāddhapaddhati]] and other works 594; closely follows [[Tirtha-cintamani|Tīrtha-cintāmaṇi]] of [[Vacaspati|Vācaspati]] in his [[Tirthayatratattva|Tīrthayātrātattva]] 671
+Raghunandana, author of Śrāddhatattva, Gayāśrāddhapaddhati and other works 594; closely follows Tīrtha-cintāmaṇi of Vācaspati in his Tīrthayātrātattva 671
 
-[[Raghunatha,|Raghunātha,]] commentator of [[Trusat Slokī|Triṁśat-ślokī]] [[255,|255n,]] 276n,
+Raghunātha, commentator of [[Trusat Slokī|Triṁśat-ślokī]] [[255,|255n,]] 276n,
 
-[[Raghuvamsa|Raghuvaṁśa]] 158, [[596,|596n,]] [[68691, ins.|688, 691, 705,]] 706,
+Raghuvaṁśa 158, [[596,|596n,]] [[68691, ins.|688, 691, 705,]] 706,
 
-[[Rajata,|Rājata,]] a [[saman|sāman]] 46n
+Rājata, a sāman 46n
 
-[[Rājatarangiṇi|Rājatarangiṇī]] 52, 571, 605, [[3172|724]]
+Rājatarangiṇī 52, 571, 605, [[3172|724]]
 
-[[P892]]Rājvāde, [[Khanda|Khaṇḍa]] 56n
+[[P892]]Rājvāde, Khaṇḍa 56n
 
-[[Raksoghna|Rākṣoghna]] hymns ([[Rg.|Ṛg.]] IV. 4. 1-5 etc.), 439, 449n, 450n, 497, 507
+Rākṣoghna hymns (Ṛg. IV. 4. 1-5 etc.), 439, 449n, 450n, 497, 507
 
 Raktikā, weight of 129
 
-Rāma, performed sacrifices accompanied by a golden image of Sītā 226; when an exile in [[Dandaka|Daṇḍakā]] forest gratified his [[pitrs|pitṛs]] by offering [[inguda,|iṅguda,]] badara and bilva fruit 416
+Rāma, performed sacrifices accompanied by a golden image of Sītā 226; when an exile in Daṇḍakā forest gratified his pitṛs by offering iṅguda, badara and bilva fruit 416
 
-[[Rāmāyana,|Rāmāyaṇa,]] 214, 223, 233, 237, 416, 534, 597, 647n, 653n, 688, 707, 710
+Rāmāyaṇa, 214, 223, 233, 237, 416, 534, 597, 647n, 653n, 688, 707, 710
 
-[[Rāmatāpaniya-upaniṣad|Rāmatāpanīya-upaniṣad]] 614
+Rāmatāpanīya-upaniṣad 614
 
 Ramprasad Chanda 247n
 
-Rathantara, a [[saman|sāman]] [[46,|46n,]] 450
+Rathantara, a sāman [[46,|46n,]] 450
 
-[[Ratnāvali,|Ratnāvalī,]] of [[Nagarjuna|Nāgārjuna]] 176
+Ratnāvalī, of Nāgārjuna 176
 
 Rātrisattra, see under 'maxim', meaning of 62-63
 
-[[Rauhina,|Rauhiṇa,]] a [[saman|sāman]] 46n
+Rauhiṇa, a sāman 46n
 
-Raurava, a [[saman|sāman]] 133
+Raurava, a sāman 133
 
 Raurava, a hell supposed to be below the earth 168
 
-[[Rāyamukuța,|Rāyamukuṭa,]] 117n
+Rāyamukuṭa, 117n
 
 Raychaudhuri, Dr. Hemcandra 726
 
@@ -1954,107 +1953,107 @@ Report on the 'Doctrine of the Church of England' 171
 
 Reynolds, Reginald, author of 'Cleanliness and godliness' 311
 
-[[Rgveda,|Ṛgveda,]] 2, 6, 10, 11n, 20, 34, 36, 37, 42, 43n, 45, 46, 48, 49, 98, 100n, 112n, 120, 126, 127, 133, 140, 141, 144n, 145, 146, 154, 156, 159, 162n, 165, 182, 185n, 187, 189n, 191–201 (translation of [[Rg.|Ṛg.]] X. 14-18 with [[notes ),|notes),]] [[1921,|192n,]] 193n, 194n, 196n, 198n, 203, 205n, 206, 214, 227, 229, 230, 231, 232, 241-246, 249n, 250, 254, 266, 267, 269n, 304, 307, 320, 321, 341-344, 346, 347, 349, 351, 376, 384, 429n, 434, 435n, 437, 439, 441, 442, 444, 446n, 447n, 448, 449, 450n, 452, 457, 458, 460, 468, 487n, 488-496, 499, 500, 501, 502, 503, 507, 523, 524, 527, 540, 543, 544, 554, 555, 556, 558, 559, 561, 578, 585, 603n, [[607,|607n,]] 619, 643, 645, 680, 681, 693n; occult powers came to be attributed to the words of 49
+Ṛgveda, 2, 6, 10, 11n, 20, 34, 36, 37, 42, 43n, 45, 46, 48, 49, 98, 100n, 112n, 120, 126, 127, 133, 140, 141, 144n, 145, 146, 154, 156, 159, 162n, 165, 182, 185n, 187, 189n, 191–201 (translation of Ṛg. X. 14-18 with notes), [[1921,|192n,]] 193n, 194n, 196n, 198n, 203, 205n, 206, 214, 227, 229, 230, 231, 232, 241-246, 249n, 250, 254, 266, 267, 269n, 304, 307, 320, 321, 341-344, 346, 347, 349, 351, 376, 384, 429n, 434, 435n, 437, 439, 441, 442, 444, 446n, 447n, 448, 449, 450n, 452, 457, 458, 460, 468, 487n, 488-496, 499, 500, 501, 502, 503, 507, 523, 524, 527, 540, 543, 544, 554, 555, 556, 558, 559, 561, 578, 585, 603n, [[607,|607n,]] 619, 643, 645, 680, 681, 693n; occult powers came to be attributed to the words of 49
 
-[[Rgvidbana,|Ṛgvidhāna,]] prescribes numerous hymns and verses of the [[Rgved|Ṛgveda]] for the removal of sins and diseases and the destruction of enemies 49; provides that one should repeat at the time of death the sūkta 'nānānam' ([[Rg.|Ṛg.]] IX. 112), 185
+[[Rgvidbana,|Ṛgvidhāna,]] prescribes numerous hymns and verses of the [[Rgved|Ṛgveda]] for the removal of sins and diseases and the destruction of enemies 49; provides that one should repeat at the time of death the sūkta 'nānānam' (Ṛg. IX. 112), 185
 
 Rhys Davids, Mr. 235, 236n, 628
 
-Rivers, invoked and named in the [[Rgveda|Ṛgveda]] and other Vedas 555-558; said to be ninety-nine in some passages of the [[Rgveda|Ṛgveda]] 556; falling into the sea are holy 560; some great rivers are said to be specially holy at certain times 560n; some great rivers are seen by most Indians in two aspects, physical and spiritual or divine 585; three principal r. of three groups of seven each are [[Sarasvati,|Sarasvatī,]] Sarayū and Sindhu 556; what are the seven r. of the [[Rgveda|Ṛgveda]] 557
+Rivers, invoked and named in the Ṛgveda and other Vedas 555-558; said to be ninety-nine in some passages of the Ṛgveda 556; falling into the sea are holy 560; some great rivers are said to be specially holy at certain times 560n; some great rivers are seen by most Indians in two aspects, physical and spiritual or divine 585; three principal r. of three groups of seven each are Sarasvatī, Sarayū and Sindhu 556; what are the seven r. of the Ṛgveda 557
 
-[[Rkvans,|Ṛkvans,]] a class of [[pitrs|pitṛs]] associated with [[Brhaspati,|Bṛhaspati,]] [[Visṇu,|Viṣṇu,]] Soma and other gods 192n
+Ṛkvans, a class of pitṛs associated with Bṛhaspati, Viṣṇu, Soma and other gods 192n
 
 [[Rṣicanarayana|Ṛṣicāndrāyaṇa]] 132
 
 [[Rsyasriga|Ṛṣyaśṛṅga]] 221, 547n
 
-[[Rta,|Ṛta,]] different from sacrifice 3; distinguished from satya 4; had a three-fold aspect 2; meaning of, in the [[Rgveda|Ṛgveda]] 2; moral imperative is 4
+Ṛta, different from sacrifice 3; distinguished from satya 4; had a three-fold aspect 2; meaning of, in the Ṛgveda 2; moral imperative is 4
 
 Rudradāman 255
 
-Rudradhara, author of [[Suddhiviveka|Śuddhīviveka]] 269
+Rudradhara, author of Śuddhīviveka 269
 
-[[Rudraikādasini|Rudraikādaśinī]] 178
+Rudraikādaśinī 178
 
-Rudras, anuvākas of [[Tai, S.|Tai. S.]] called r. as purifiers 45, 46n; are eleven 490; are employed in [[Vrsotsarga|Vṛṣotsarga]] rite 540
+Rudras, anuvākas of Tai. S. called r. as purifiers 45, 46n; are eleven 490; are employed in Vṛṣotsarga rite 540
 
-Rudraskanda, commentator of [[Khadira gr.|Khādira-gṛ.]] 359n
+Rudraskanda, commentator of Khādira-gṛ. 359n
 
-[[Sabara,|Śabara,]] author of [[bhāsya|bhāṣya]] on [[Jaimini's Purvamimāmsāsutra,|Jaimini's Pūrvamīmāṁsāsūtra,]] [[9n, 240, 270,|9n, 24n, 27n,]] 40n, 45n, 53n, 58, 62n, 66n, 89n, 112n, 137, 168n, 169, 170, [[2080|208n]]
+Śabara, author of bhāṣya on Jaimini's Pūrvamīmāṁsāsūtra, [[9n, 240, 270,|9n, 24n, 27n,]] 40n, 45n, 53n, 58, 62n, 66n, 89n, 112n, 137, 168n, 169, 170, [[2080|208n]]
 
 [[P893]]310n, 353, 419n, 440n, [[4537,|453n,]] 454n, 481n, 687n
 
-[[Sabdakalpadruma|Śabdakalpadruma]] 87
+Śabdakalpadruma 87
 
 Sabhāparva, 622, 688, 692
 
-Sacrifices, Vedic, are supposed by some European writers to be magic 38; implements used in, were burnt with the body of the sacrificer on his death except those of copper, iron and clay 197n, 207–208; in smārta [[s|ś.]] animals are not killed now but only [[māsa|māṣa]] grains are used 362; some āhitāgnis also do not offer meat but only [[pista pasu|piṣṭapaśu]] ([[four|flour]] effigy of animal) 362; were originally propitiatory 44
+Sacrifices, Vedic, are supposed by some European writers to be magic 38; implements used in, were burnt with the body of the sacrificer on his death except those of copper, iron and clay 197n, 207–208; in smārta ś. animals are not killed now but only māṣa grains are used 362; some āhitāgnis also do not offer meat but only piṣṭapaśu ([[four|flour]] effigy of animal) 362; were originally propitiatory 44
 
 Sacred Books of the East Series 8, 37, 43; vol. IV, [[1921,|192n,]] 231n, 341n; vol. VI, 171n, 552n; vol. VII, 540n; vol. IX, 171n; vol. X. 176, 707; vol. XI, 204, 235, 552, 621, 742; vol. XII, 321, 574n; vol. XIII, 165, 621, [[64n5,|645,]] 646, 668, 677, 753; vol. XIV, 170, 403n; vol. XVII, 621; vol. XXI, 176; vol. XXIII, 241n; vol. XXVI, 559n, 680, 744; vol. XXIX, 245n, 277, 360, 574n; vol. XXX, 540n, 559, 619; vol. XXXIII, 69; vol. XLIV, 680, 703; vol. XLV, 165, 646, 687, 749; vol. XLIX, 621, 646
 
 [[Saddharniapundarika|Saddharmapuṇḍarīka]] 176
 
-[[Ṣadasiti,|Ṣaḍaśīti,]] a work on āśauca in 86 [[Anu stubh|Anuṣṭubh]] verses by [[Kausikāditya|Kauśikāditya]] 268, 270n, 274n, 285, 293, 294, 295; commentary on, called [[Suddhicandrikā|Śuddhicandrikā]] by [[Nandapandita|Nandapaṇḍita]] 273
+Ṣaḍaśīti, a work on āśauca in 86 Anuṣṭubh verses by Kauśikāditya 268, 270n, 274n, 285, 293, 294, 295; commentary on, called Śuddhicandrikā by Nandapaṇḍita 273
 
-[[Sadhanā,|Sādhanā,]] by Tagore 852n
+Sādhanā, by Tagore 852n
 
-[[Sadyahsauca,|Sadyaḥśauca,]] see under [['ascetic', 'brahmacārin', 'king':|'ascetic', 'brahmacārin', 'king';]] meaning of 295-296; occasions of (where one becomes pure by a mere bath on a relative's death) 297-299
+Sadyaḥśauca, see under 'ascetic', 'brahmacārin', 'king'; meaning of 295-296; occasions of (where one becomes pure by a mere bath on a relative's death) 297-299
 
-Sages, of the [[Rgveda|Ṛgveda]] had some faint glimmerings of a dark pit for wicked persons 154-155; prayed to [[Varuna,|Varuṇa,]] [[Adityas|Ādityas]] and Agni to free them from sin 36; say that they violated the dharmas and vratas of gods and implore forgiveness 36-37
+Sages, of the Ṛgveda had some faint glimmerings of a dark pit for wicked persons 154-155; prayed to Varuṇa, Ādityas and Agni to free them from sin 36; say that they violated the dharmas and vratas of gods and implore forgiveness 36-37
 
 [[Sa basa,|Sāhasa,]] divided into three kinds (when meaning fine for offences) 76; divided into four kinds (when meaning offences) 81n
 
-[[Sakas|Śakas]] 117
+Śakas 117
 
 [[Sakalahomas|Sakalahoma]] 48
 
-Sākamedha, one of the [[Caturmasyas;|Cāturmāsyas;]] [[pindapitryajña|piṇḍapitṛyajña]] performed in 201
+Sākamedha, one of the Cāturmāsyas; piṇḍapitṛyajña performed in 201
 
-[[Sākapūni|Śākapūṇi]] 645
+Śākapūṇi 645
 
-[[Sakuntala,|Śakuntalā,]] an Apsaras, is said in a [[gatha|gāthā]] in [[Sat. Br.|Śat. Br.]] to have conceived Bharata at [[Nādapit|Nāḍapit]] 595
+Śakuntalā, an Apsaras, is said in a gāthā in Śat. Br. to have conceived Bharata at Nāḍapit 595
 
-Saletore, [[Prof,|Prof.]] B. A. 716n
+Saletore, Prof. B. A. 716n
 
-[[Salikanātha,|Śālikanātha,]] author of [[Prakarana pañçikā|Prakaraṇapañcikā]] 170
+Śālikanātha, author of Prakaraṇapañcikā 170
 
-Salt, manufactured, condemned for use in [[sraddha|śrāddha]] but natural salt from a lake allowed 416; was not to be directly served to dining [[brahmanas|brāhmaṇas]] in a [[sraddha|śrāddha]] 466
+Salt, manufactured, condemned for use in śrāddha but natural salt from a lake allowed 416; was not to be directly served to dining brāhmaṇas in a śrāddha 466
 
-[[Salyaparva,|Śalyaparva,]] 237, 582, 683n, [[68411,|684n,]] 685, 686, 710
+Śalyaparva, 237, 582, 683n, [[68411,|684n,]] 685, 686, 710
 
 Sāmans, as purifiers of sin 45; should be repeated from 10 to 100 times for removal of sins as expiation 49
 
-[[Samantapancaka.|Samantapañcaka,]] represents the five pools of [[ksatriya|kṣatriya]] blood that [[Parasu rāma|Paraśurāma]] collected in revenge for his father's murder, subsequently turned into holy pools 682
+Samantapañcaka, represents the five pools of kṣatriya blood that Paraśurāma collected in revenge for his father's murder, subsequently turned into holy pools 682
 
 Sāmaveda, 46n, 110, 116, 133n, 203n, 307
 
-[[Samavidhana Brāhmana|Sāmavidhāna Brāhmaṇa]] 18, 23, 49, 60, 95, 96, 100, 107, 110, 116, 130, 132, 133
+Sāmavidhāna Brāhmaṇa 18, 23, 49, 60, 95, 96, 100, 107, 110, 116, 130, 132, 133
 
-[[Samsarga,|Saṁsarga,]] a [[mahāpataka,|mahāpātaka,]] when 25-29, 105-106; expiation for association with one guilty of [[mahāpataka|mahāpātaka]] was not death but an observance extending over years 106; extension of, in medieval works 27; [[haltexpiation|half expiation]] if [[s,|s.]] was due to [[ignorande|ignorance]] 106; nine kinds of 25-26; result of [[more|s.]] in the four yugas 26; three kinds of 26
+Saṁsarga, a mahāpātaka, when 25-29, 105-106; expiation for association with one guilty of mahāpātaka was not death but an observance extending over years 106; extension of, in medieval works 27; [[haltexpiation|half expiation]] if s. was due to [[ignorande|ignorance]] 106; nine kinds of 25-26; result of [[more|s.]] in the four yugas 26; three kinds of 26
 
-[[Samskararatnamālā|Saṁskāraratnamālā]] of [[Gopinatha,|Gopīnātha,]] 482, 509
+Saṁskāraratnamālā of Gopīnātha, 482, 509
 
-[[P894]][[Samskāras,|Saṁskāras,]] all were once performed for women also but without Vedic mantras except at marriage 190; are performed for [[sūdras|śūdras]] but without Vedic mantras 190; two [[samskāras,|saṁskāras,]] viz. at birth and at death are absolutely necessary for all 190
+[[P894]]Saṁskāras, all were once performed for women also but without Vedic mantras except at marriage 190; are performed for śūdras but without Vedic mantras 190; two saṁskāras, viz. at birth and at death are absolutely necessary for all 190
 
-Samudrakara, author of [[bhāsya|bhāṣya]] on [[Sraddhasūtra|Śrāddhasūtra]] 406n
+Samudrakara, author of bhāṣya on Śrāddhasūtra 406n
 
-[[Samvarta,|Saṁvarta,]] [[smrti|smṛti]] of, 19n, 23, 24, 40, 48, 51, 74, 88, 99, 103, 107, 109-111, 115, 123, 127, 222n, 238, 240, 276n, 322
+Saṁvarta, smṛti of, 19n, 23, 24, 40, 48, 51, 74, 88, 99, 103, 107, 109-111, 115, 123, 127, 222n, 238, 240, 276n, 322
 
-[[Sanatkumāra samhita,|Sanatkumāra saṁhitā,]] 633
+Sanatkumāra saṁhitā, 633
 
-[[Sancayana|Sañcayana]] (collection of the charred bones of a person cremated) 240-244; bones of a male are collected in an urn without protuberances and of a woman in an urn with protuberances 241; collected charred bones should be cast into the Ganges or some holy river or into the sea, since the deceased would remain in heaven as long as even a particle of the bones remains in the Ganges 234; of the dead are cast at Prayāga 243; even in modern times, particularly in towns and cities, the collection of charred bones is done immediately after cremation 242; four modes of the disposal of charred bones, acc. to [[Sat, śr.|Śat. Śr.]] 246n; great divergence of views about the day on which this is to be done, but many works lay down 4th day after cremation 240-241; [[Kausika-sutra|Kauśika-sūtra]] and [[Satyasadba-srautasūtra|Satyāṣāḍha-śrautasūtra]] differ in details, the most important being that the urn is deposited at the root of a tree 242; men and women (but not mixed up together) may collect 241; no [[S.|s.]] for one whose upanayana has not been performed 244; procedure of, in [[Asv. grhya sutra|Āśv. gṛhyasūtra]] 241; procedure of, acc. to [[Antyesti-paddbati|Antyeṣṭi-paddhati]] 242-243; rattling noise should not be made in collecting 241; relatives return to house without looking back, bathe and offer [[sraddha|śrāddha]] to deceased alone 241; rite of casting ashes in Ganges or other holy river 243-244; rules about disposal of the bones of a [[brāhmana,|brāhmaṇa,]] [[ksatriya|kṣatriya]] and [[vaisya|vaiśya]] in trees with different characteristics 242; [[Sat, śr.|Śat. Śr.]] prescribes that the bones were to be deposited in an urn and buried in the earth in a secluded forest 241-242; urn for [[s,|s.]] was to be of terracotta or [[palāsa|palāśa]] wood 241; verses repeated at 241; was done on 4th day by [[Rgvedins|Ṛgvedins]] in modern times 243; woman's charred bones are to be collected by men 241
+Sañcayana (collection of the charred bones of a person cremated) 240-244; bones of a male are collected in an urn without protuberances and of a woman in an urn with protuberances 241; collected charred bones should be cast into the Ganges or some holy river or into the sea, since the deceased would remain in heaven as long as even a particle of the bones remains in the Ganges 234; of the dead are cast at Prayāga 243; even in modern times, particularly in towns and cities, the collection of charred bones is done immediately after cremation 242; four modes of the disposal of charred bones, acc. to [[Sat, śr.|Śat. Śr.]] 246n; great divergence of views about the day on which this is to be done, but many works lay down 4th day after cremation 240-241; Kauśika-sūtra and [[Satyasadba-srautasūtra|Satyāṣāḍha-śrautasūtra]] differ in details, the most important being that the urn is deposited at the root of a tree 242; men and women (but not mixed up together) may collect 241; no [[S.|s.]] for one whose upanayana has not been performed 244; procedure of, in Āśv. gṛhyasūtra 241; procedure of, acc. to [[Antyesti-paddbati|Antyeṣṭi-paddhati]] 242-243; rattling noise should not be made in collecting 241; relatives return to house without looking back, bathe and offer śrāddha to deceased alone 241; rite of casting ashes in Ganges or other holy river 243-244; rules about disposal of the bones of a brāhmaṇa, kṣatriya and vaiśya in trees with different characteristics 242; [[Sat, śr.|Śat. Śr.]] prescribes that the bones were to be deposited in an urn and buried in the earth in a secluded forest 241-242; urn for s. was to be of terracotta or palāśa wood 241; verses repeated at 241; was done on 4th day by Ṛgvedins in modern times 243; woman's charred bones are to be collected by men 241
 
 Sandhyā, daily practice of, frees from sin 42; is a great purifier 311
 
 Sandhyopāsana, omission of, entails sin 18-19
 
-[[Sangraha|Saṅgraha]] (smṛti) 102n, 128n, 276n, 281, 282n, 288, 292n, 296n, 303n, 305, 323, 332n, 404n, 406n, 411, 413, 442n, 447, 458, 467n, 468n, 471, 472, 473n, 475, 477n, 508n, 520, 522n, 526, 527n, 545, 546n
+Saṅgraha (smṛti) 102n, 128n, 276n, 281, 282n, 288, 292n, 296n, 303n, 305, 323, 332n, 404n, 406n, 411, 413, 442n, 447, 458, 467n, 468n, 471, 472, 473n, 475, 477n, 508n, 520, 522n, 526, 527n, 545, 546n
 
-[[Sangrahakāra|Saṅgrahakāra]] 371, 470, 483, 521, 524
+Saṅgrahakāra 371, 470, 483, 521, 524
 
-[[Sankalpa,|Saṅkalpa,]] in all religious acts is important 63-64; is the life of a rite 60
+Saṅkalpa, in all religious acts is important 63-64; is the life of a rite 60
 
-[[Sankha,|Śaṅkha,]] [[smrti|smṛti]] of, 15, 18-19, [[18-119|118-119,]] 10, 11n, 24, 32, 42, 48, 74, 78, 79n, 83, 84, 87, 93, 99, 108, 121, 123, 126, 127n, 132, 138-140, 142, 145-149, 175, 220, 237, 238, 256, 271, 281, 282n, 283, 286, 287, 292, 294n, 312, 313n, 314, 322, 325, 328, [[330. 350n,|330, 350n,]] 377, 378, 381, 414n, 415, 416, 441n, 466, 470, 519, 560n, 562n, 653
+Śaṅkha, smṛti of, 15, 18-19, [[18-119|118-119,]] 10, 11n, 24, 32, 42, 48, 74, 78, 79n, 83, 84, 87, 93, 99, 108, 121, 123, 126, 127n, 132, 138-140, 142, 145-149, 175, 220, 237, 238, 256, 271, 281, 282n, 283, 286, 287, 292, 294n, 312, 313n, 314, 322, 325, 328, 330, 350n, 377, 378, 381, 414n, 415, 416, 441n, 466, 470, 519, 560n, 562n, 653
 
 [[P895]][[Sankha-Likbita|Śaṅkha-Likhita]] 21n, 23, 24, 25n, 26, 28, 41, 42, 48, 64n, 65n, 70, 71, 74, 76, 78, 80n, 82, 84n, 86, 92, 94, 98, 102, 105, 107, 108, 109, 114, 116, 118, 121, 123, 127n, 132, 140, 142, 146, 148, 149n, 237, 271, 272n, 276n, 282n, 286, 287, 289, 291n, 292, 294, 312, 314, 315, 318, 325, 332n, 362, 372n, 378, 384, 387, 403, 404, 406, 407, 409n, 414, 416, 423, 424, 442, 459n, 460, 464, 468, 472, 473, 480, 512, 515n, 521, 525, 526, 527n, 532, 533n, 535n, 545n, 547n, 550n, 551n, 552n, 589n, 610, 611
 
@@ -2062,27 +2061,27 @@ Sandhyopāsana, omission of, entails sin 18-19
 
 [[Sānkhyāyana-srautasūtra|Śāṅkhāyana-śrautasūtra]] 61n, 186, 202n, 203n, 204n, 205n, 206n, 207n, 209, 210, 223, 227n, 232, 246, 248, 252, 253n, 254, 427, 428, 431, 558, 559, 680
 
-[[Sānkrti|Sāṅkṛti]] 18, [[Jātibhramsakara|jātibhraṁśakara]] 118
+Sāṅkṛti 18, [[Jātibhramsakara|jātibhraṁśakara]] 118
 
 [[Sāntapana|Sāṁtapana]] 107, 132, 146, 147; three varieties of 147
 
 [[Santaptakrcchra|Saṁtaptakṛcchra]] 147
 
-[[Sapindana|Sapiṇḍana]] or [[Sapindikaraṇa|Sapiṇḍīkaraṇa]] (reception of a deceased person into the company of ancestral [[pitrs)|pitṛs)]] 256, 363, 520-525; cannot be performed till twelve days of impurity on death are over 521; can be performed even by an [[anupanita|anupanīta]] son for his father without mantras 525; delay in performing, condemned 521; details omitted in, acc. to [[Asv. gr.|Āśv. gṛ.]] 523; difference of views about the time of, such as after one year, in the 12th month, or every three months or three fortnights or on 12th day after death or on the happening of a lucky event (birth of a son or marriage) 520; different times after death prescribed for this [[sraddha|śrāddha]] in ancient works 520ff; even if s. be performed within one year, still for one year food and a jar of water should be given to a [[brahmana|brāhmaṇa]] 521; four [[pindas|piṇḍas]] are to be prepared, one for the preta and three for his deceased paternal ancestors and then the performer divides the [[preta. pinda|preta-piṇḍa]] into three parts and puts each [[tbird|third]] into each of the three [[pindas|piṇḍas]] with the two mantras 'ye [[samāna'|samānāḥ']] 522; mantras differ in different works 523-524; means the reception of a deceased person into the community of [[pitrs|pitṛs]] to whom [[pindas|piṇḍas]] are offered 520; [[navasrāddhas,|navaśrāddhas,]] 16 [[srād dhas|śrāddhas]] and s. must be performed by one heir alone, though there be many heirs, but after a year [[sraddha|śrāddha]] may be performed by each heir separately 526; no auspicious rite like marriage can be performed until [[sapindana|sapiṇḍana]] of a deceased family member has been performed 525; no [[sapindana|sapiṇḍana]] for a person unless he had upanayana performed 524-525; no [[sapindana|sapiṇḍana]] for those who left off their faith or committed suicide or became ascetics or were born of mixed unions, or for patita women 525; number of [[brābmanas|brāhmaṇas]] to be invited 522; on completion of s. the preta ceases to be so and becomes one of the [[pitrs|pitṛs]] 523; of woman who became a satī or was made a putrikā or was married in the [[asura|āsura]] form 524; partakes of both [[ekoddista|ekoddiṣṭa]] (applying to [[pretul|preta)]] and [[pārvana|pārvaṇa]] (applying to [[threencestors)|three ancestors)]] 523; procedure of, described 522 ff; [[sankalpa|saṅkalpa]] in s. [[521 nanandhisoriddha|521n; this śrāddha]]
+Sapiṇḍana or Sapiṇḍīkaraṇa (reception of a deceased person into the company of ancestral pitṛs) 256, 363, 520-525; cannot be performed till twelve days of impurity on death are over 521; can be performed even by an anupanīta son for his father without mantras 525; delay in performing, condemned 521; details omitted in, acc. to Āśv. gṛ. 523; difference of views about the time of, such as after one year, in the 12th month, or every three months or three fortnights or on 12th day after death or on the happening of a lucky event (birth of a son or marriage) 520; different times after death prescribed for this śrāddha in ancient works 520ff; even if s. be performed within one year, still for one year food and a jar of water should be given to a brāhmaṇa 521; four piṇḍas are to be prepared, one for the preta and three for his deceased paternal ancestors and then the performer divides the preta-piṇḍa into three parts and puts each [[tbird|third]] into each of the three piṇḍas with the two mantras 'ye [[samāna'|samānāḥ']] 522; mantras differ in different works 523-524; means the reception of a deceased person into the community of pitṛs to whom piṇḍas are offered 520; navaśrāddhas, 16 śrāddhas and s. must be performed by one heir alone, though there be many heirs, but after a year śrāddha may be performed by each heir separately 526; no auspicious rite like marriage can be performed until sapiṇḍana of a deceased family member has been performed 525; no sapiṇḍana for a person unless he had upanayana performed 524-525; no sapiṇḍana for those who left off their faith or committed suicide or became ascetics or were born of mixed unions, or for patita women 525; number of [[brābmanas|brāhmaṇas]] to be invited 522; on completion of s. the preta ceases to be so and becomes one of the pitṛs 523; of woman who became a satī or was made a putrikā or was married in the āsura form 524; partakes of both ekoddiṣṭa (applying to [[pretul|preta)]] and pārvaṇa (applying to [[threencestors)|three ancestors)]] 523; procedure of, described 522 ff; saṅkalpa in s. [[521 nanandhisoriddha|521n; this śrāddha]]
 
-[[P896]]and [[ekoddista-śrāddha|ekoddiṣṭa-śrāddha]] are performed for women also 524; to be performed in the afternoon 523; twelfth day is generally commended for several reasons 520-521; twelfth day after death is the only day for s. for [[Sūdras,|Śūdras,]] acc. to some 521; two meanings of the word preta 523; was to be performed after the sixteen śrāddhas 520, 521; widow dying sonless has no [[s,|s.]] performed for her, but only [[ekoddista|ekoddiṣṭa]] 524
+[[P896]]and ekoddiṣṭa-śrāddha are performed for women also 524; to be performed in the afternoon 523; twelfth day is generally commended for several reasons 520-521; twelfth day after death is the only day for s. for Śūdras, acc. to some 521; two meanings of the word preta 523; was to be performed after the sixteen śrāddhas 520, 521; widow dying sonless has no s. performed for her, but only ekoddiṣṭa 524
 
 Saptārcis mantra 450n, 458n, 459
 
-Saraka, a tīrtha on [[Sarasvati|Sarasvatī]] 559
+Saraka, a tīrtha on Sarasvatī 559
 
-Sārasvatasattras, described 558-559, 681; the country between [[Vinasana|Vinaśana]] and [[Plaksa Prasravana|Plakṣa Prāsravaṇa]] was the proper locality for 558; three S. 557-558
+Sārasvatasattras, described 558-559, 681; the country between Vinaśana and Plakṣa Prāsravaṇa was the proper locality for 558; three S. 557-558
 
-[[Sārasvata-tirthas|Sārasvata-tīrthas]] 559, 681
+Sārasvata-tīrthas 559, 681
 
-Sarasvatī, see under 'Sindhu'; [[describ ed|described]] in some purāṇas as springing from [[Plaksa|Plakṣa]] tree, as flowing through [[Kuruksetra|Kurukṣetra]] and Dvaitavana 556n, 686; [[Alberuni's|Al-Bīrūnī's]] account of [[an other|another]] [[S,|S.]] that falls into the sea near Somanātha 686; description of, in the [[Rgveda|Ṛgveda]] 556-557; disappeared in the desert sands in the times of the [[Brāhmana|Brāhmaṇa]] texts 557; following the course of, from the sea to its source was an expiation 93; has a two-fold character as a river and as a divinity 198n; is now identified with Sarsuti which is lost in the desert sands near Bhatnair 557; question whether S. is the same as Sindhu discussed 556n; seven [[Sarasvatis|Sarasvatīs]] that encompass the world 686; seven very holy rivers connected with S. 686; the [[diksa|dīkṣā]] of the [[Sarasvata sattras|Sārasvata sattras]] was to be performed on the south bank of the dry bed of S. 557; three hymns are addressed to S. as a deity in the [[Rgveda|Ṛgveda]] 556; Vāj. S. says that five rivers fall into the S. 557
+Sarasvatī, see under 'Sindhu'; described in some purāṇas as springing from Plakṣa tree, as flowing through Kurukṣetra and Dvaitavana 556n, 686; [[Alberuni's|Al-Bīrūnī's]] account of another S. that falls into the sea near Somanātha 686; description of, in the Ṛgveda 556-557; disappeared in the desert sands in the times of the Brāhmaṇa texts 557; following the course of, from the sea to its source was an expiation 93; has a two-fold character as a river and as a divinity 198n; is now identified with Sarsuti which is lost in the desert sands near Bhatnair 557; question whether S. is the same as Sindhu discussed 556n; seven Sarasvatīs that encompass the world 686; seven very holy rivers connected with S. 686; the dīkṣā of the Sārasvata sattras was to be performed on the south bank of the dry bed of S. 557; three hymns are addressed to S. as a deity in the Ṛgveda 556; Vāj. S. says that five rivers fall into the S. 557
 
-[[Sarasvativilāsa,|Sarasvatīvilāsa,]] a work 82
+Sarasvatīvilāsa, a work 82
 
 Sarayū, river 556
 
@@ -2090,25 +2089,25 @@ Sarayū, river 556
 
 Sarvadhāna, method of Agnihotra 461
 
-[[Sarvajña-Nārāyana,|Sarvajña-Nārāyaṇa,]] commentator of Manu 93, [[362n,|362n]]
+Sarvajña-Nārāyaṇa, commentator of Manu 93, 362n
 
 [[Sarvānukrama|Sarvānukramaṇī]] 619
 
-[[Sarvaprāyascitta,|Sarvaprāyaścitta,]] for dying man 184
+Sarvaprāyaścitta, for dying man 184
 
-[[Sārvarājīyah|Sārvarājīyaḥ]] [[(rcah)|(ṛcaḥ)]] 203n
+Sārvarājīyaḥ (ṛcaḥ) 203n
 
-[[Satapatha-Brāhmana|Śatapatha-Brāhmaṇa]] 8, 10, 20, 37, 39, 44, 54, 57, 58, 62n, 70, 117, 155, 157, 168, 189n, 194n, 196n, 203n, 204n, 205n, 206, 207n, 208, 209n, 210, 223, 225n, 246, 248, 249n, 266, 321, 339, 343, 345-348, 353, 369, 376, 383n, 402n, 417, 418, 429, 462, 472, 476, 477n, 559n, 574n, 585, 606, 618, 680, 703
+Śatapatha-Brāhmaṇa 8, 10, 20, 37, 39, 44, 54, 57, 58, 62n, 70, 117, 155, 157, 168, 189n, 194n, 196n, 203n, 204n, 205n, 206, 207n, 208, 209n, 210, 223, 225n, 246, 248, 249n, 266, 321, 339, 343, 345-348, 353, 369, 376, 383n, 402n, 417, 418, 429, 462, 472, 476, 477n, 559n, 574n, 585, 606, 618, 680, 703
 
-Śātātapa, [[smrti|smṛti]] of 40, 108, 115, 172, 174, 178, 220, 280n, 295n, 305, 311, 324n, 325, 332n, 344, 348, 399, 475, [[5150,|515n,]] 519n, 528; on Karmavipāka 172n
+Śātātapa, smṛti of 40, 108, 115, 172, 174, 178, 220, 280n, 295n, 305, 311, 324n, 325, 332n, 344, 348, 399, 475, [[5150,|515n,]] 519n, 528; on Karmavipāka 172n
 
-[[Sati,|Satī,]] see under 'wife'; wife burning herself on her husband's funeral pyre or burning herself some time after her husband's death 237, 604ff; [[brāhmana|brāhmaṇa]] woman was to burn herself along with her husband's body, but not after its cremation, but women of other classes could do so 237; [[Nārada purāṇa|Nāradapurāṇa]] does not allow a woman to burn herself if she has a young child or if she is pregnant or if she has not attained puberty or she is in her monthly illness 237, 604-605; practice of, was common to all women including [[cândala|cāṇḍāla]] women 237; [[Rgveda|Ṛgveda]] X. 18. 7 slightly changed was recited at the burning of, 199n
+Satī, see under 'wife'; wife burning herself on her husband's funeral pyre or burning herself some time after her husband's death 237, 604ff; brāhmaṇa woman was to burn herself along with her husband's body, but not after its cremation, but women of other classes could do so 237; Nāradapurāṇa does not allow a woman to burn herself if she has a young child or if she is pregnant or if she has not attained puberty or she is in her monthly illness 237, 604-605; practice of, was common to all women including cāṇḍāla women 237; Ṛgveda X. 18. 7 slightly changed was recited at the burning of, 199n
 
-[[Sat-trimsan-mata.|Ṣaṭ-triṁśan-mata,]] [[18n.|18n,]] [[102n.|102n,]] 114, 128n, 293, 332n, 364, 414, 541n, 548n
+Ṣaṭ-triṁśan-mata, 18n, 102n, 114, 128n, 293, 332n, 364, 414, 541n, 548n
 
 Satya, vide under [[sta|ṛta]]
 
-[[Satyāsādha-srauta-sūtra,|Satyāṣāḍha-śrautasūtra,]] 191n, 204, 206, 207n, 208n, 211, 212, 218
+Satyāṣāḍha-śrautasūtra, 191n, 204, 206, 207n, 208n, 211, 212, 218
 
 [[P897]]224, 225, 226, 233, 240, 242, 244, 245n, 246, 248, 251-254, 361
 
@@ -2116,95 +2115,95 @@ Satyavrata, 419n
 
 [[Satyāyani|Satyāyanin]] 383n
 
-[[Sauca,|Śauca,]] see under 'purity', [['suddhi';|'śuddhi';]] consists in avoiding abhakṣya (what ought not to be eaten), by association with those only who are uncondemned, and firmly abiding by one's prescribed duties 310; four kinds of, acc. to a [[smrti|smṛti]] viz. monetary, mental, bodily and of speech 310; is one of the five niyamas of Yoga 311; means removal by means of clay, water, cowdung and the like of the besmearing, the oiliness and odour of a thing that causes impurity 314; mental attitude is the highest thing in, acc. to Padmapurāṇa 310; of two kinds; [[babya|bāhya]] (of the [[body )|body)]] and [[abhyan tara,|ābhyantara,]] the latter being superior to the former 310; Vanaparva speaks of three kinds of, viz. in speech, actions and that brought about by water 310
+Śauca, see under 'purity', 'śuddhi'; consists in avoiding abhakṣya (what ought not to be eaten), by association with those only who are uncondemned, and firmly abiding by one's prescribed duties 310; four kinds of, acc. to a smṛti viz. monetary, mental, bodily and of speech 310; is one of the five niyamas of Yoga 311; means removal by means of clay, water, cowdung and the like of the besmearing, the oiliness and odour of a thing that causes impurity 314; mental attitude is the highest thing in, acc. to Padmapurāṇa 310; of two kinds; [[babya|bāhya]] (of the body) and ābhyantara, the latter being superior to the former 310; Vanaparva speaks of three kinds of, viz. in speech, actions and that brought about by water 310
 
-[[Saumyakrcchra|Saumyakṛcchra]] 152
+Saumyakṛcchra 152
 
-[[Saunaka,|Śaunaka,]] 243, 540n, 544; condemned the begetting of a son by a dvija from a [[sudra|śūdra]] woman 14n; procedure of [[Nārāyanabali|Nārāyaṇabali]] from, 304
+Śaunaka, 243, 540n, 544; condemned the begetting of a son by a dvija from a śūdra woman 14n; procedure of Nārāyaṇabali from, 304
 
-[[Saunakātharvanasrāddha-kalpa|Śaunakātharvaṇaśrāddha-kalpa]] 479
+Śaunakātharvaṇaśrāddha-kalpa 479
 
 Saurapurāṇa, 51, 371n, 375, 388, 392, 396, 443n, 456, 471n, 514
 
-Sāvitrī, ([[Gāyatri|Gāyatrī]] verse), as purifier of sins 45
+Sāvitrī, (Gāyatrī verse), as purifier of sins 45
 
-[[Savyam;|Savyam,]] meaning of 487n
+Savyam, meaning of 487n
 
-[[Sāyana,|Sāyaṇa,]] 193n, [[1941,|194n,]] 197, 228n; [[bha sya|bhāṣya]] of, on [[Rgveda|Ṛgveda]] 556, 559n, 693n; [[bhāsya|bhāṣya]] of, on [[Samavidhānabrāhmana|Sāmavidhāna-brāhmaṇa]] 59n; [[bhāsya|bhāṣya]] of, on [[Tai, Br.|Tai. Br.]] 427n, 462n; [[bhāsya|bhāṣya]] of, on [[Tai. A.|Tai. Ā.]] 39n; [[bhāsya|bhāṣya]] of, on Tai. S. 426n
+Sāyaṇa, 193n, [[1941,|194n,]] 197, 228n; bhāṣya of, on Ṛgveda 556, 559n, 693n; bhāṣya of, on Sāmavidhāna-brāhmaṇa 59n; bhāṣya of, on Tai. Br. 427n, 462n; bhāṣya of, on Tai. Ā. 39n; bhāṣya of, on Tai. S. 426n
 
 Sea, every, is holy 560
 
-Sea voyage; a [[brāhmana,|brāhmaṇa,]] who undertakes sea voyages, is unfit to be invited at [[sraddha|śrāddha]] 393
+Sea voyage; a brāhmaṇa, who undertakes sea voyages, is unfit to be invited at śrāddha 393
 
-Setu, 55, 94; pilgrimage to, as an expiation for the murder of a [[brāhmana|brāhmaṇa]] who has studied four Vedas 94
+Setu, 55, 94; pilgrimage to, as an expiation for the murder of a brāhmaṇa who has studied four Vedas 94
 
-[[Sewel,|Sewell,]] on image of [[Jagannatha|Jagannātha]] 696
+[[Sewel,|Sewell,]] on image of Jagannātha 696
 
 Sheol, was the name the Hebrews gave to the gloomy abode of the dead 170
 
-Sherring, [[M.A,|M. A.,]] author of 'The sacred city of the Hindus' 618n, 631, 632
+Sherring, M. A., author of 'The sacred city of the Hindus' 618n, 631, 632
 
-[[Siddhāntasekhara,|Siddhāntaśekhara,]] 319n
+Siddhāntaśekhara, 319n
 
-Siddharāja, king of [[Anahilavād-Vide|Aṇahilavāḍ—vide]] under [[Somanatha|Somanātha]]
+Siddharāja, king of [[Anahilavād-Vide|Aṇahilavāḍ—vide]] under Somanātha
 
-[[Silappadikāram|Śilappadikāram]] 767
+Śilappadikāram 767
 
-Silver, said to be produced from the eye of [[Siva|Śiva]] and therefore dear to [[pitrs|pitṛs]] 420
+Silver, said to be produced from the eye of Śiva and therefore dear to pitṛs 420
 
-Sin, [[apātrikarana|apātrīkaraṇa]] 15, 35; [[Asvamedha|Aśvamedha]] deemed to free from all 37; confession of, supposed to remove effects of 37; how [[s,|s.]] arises has been a difficult problem 8-9; idea of, bound up with conception of [[rta|ṛta]] in the [[Rgveda|Ṛgveda]] 2; idea of original s. not accepted by many people 8n; idea of, varies at different ages, in different countries and different religions 1; is difficult to define 1; is transferred from man to man by sitting or sleeping together, by dining in same row or by using same conveyance 26; means of removing consequences of 37, 40, 41-56; most frequent words in the [[Rgveda|Ṛgveda]] for sin are [[agas|āgas]] and enas 5; murder of [[brahmana,|brāhmaṇa,]] [[gravests|gravest s.]] 10; potentialities and consequences of, are two-fold 65; [[Rgvedic|Ṛgvedic]] sages acutely conscious of 5; seven kinds of, named in the Nirukta 10; source of, is the Devil, acc. to Christianity 8n; water was supposed to remove 37; what is s. 1; words for [[s,|s.]] in [[Rgveda,|Ṛgveda,]] discussed 5-8
+Sin, apātrīkaraṇa 15, 35; Aśvamedha deemed to free from all 37; confession of, supposed to remove effects of 37; how s. arises has been a difficult problem 8-9; idea of, bound up with conception of ṛta in the Ṛgveda 2; idea of original s. not accepted by many people 8n; idea of, varies at different ages, in different countries and different religions 1; is difficult to define 1; is transferred from man to man by sitting or sleeping together, by dining in same row or by using same conveyance 26; means of removing consequences of 37, 40, 41-56; most frequent words in the Ṛgveda for sin are āgas and enas 5; murder of brāhmaṇa, gravest s. 10; potentialities and consequences of, are two-fold 65; Ṛgvedic sages acutely conscious of 5; seven kinds of, named in the Nirukta 10; source of, is the Devil, acc. to Christianity 8n; water was supposed to remove 37; what is s. 1; words for s. in Ṛgveda, discussed 5-8
 
-Sindhu, question whether Sarasvatī is really Sindhu 556n; seven Sindhus spoken of in some passages of [[Rgveda|Ṛgveda]] and [[Atharvaveda, 556D|Atharvaveda 556n]]
+Sindhu, question whether Sarasvatī is really Sindhu 556n; seven Sindhus spoken of in some passages of Ṛgveda and [[Atharvaveda, 556D|Atharvaveda 556n]]
 
-Sinners, see under [['karmavipaka':|'karmavipāka';]] enumerated in Tai. Br. 11; had to undergo three [[burdens-76 :|burdens 76;]] guilty of
+Sinners, see under 'karmavipāka'; enumerated in Tai. Br. 11; had to undergo three burdens 76; guilty of
 
-[[P898]][[mabāpātakas|mahāpātakas]] may become pure by [[Asvamedha|Aśvamedha]] or by visiting all [[tirthas|tīrthas]] 91-92; three classes of, acc. to [[Vasistha|Vasiṣṭha]] 13; who feel no repentance and do not perform prāyaścitta fall into terrible Hells and after undergoing tortures in hells are born again as men suffering from deformities or diseases or as animals, insects, trees and shrubs 153, 154, 172
+[[P898]][[mabāpātakas|mahāpātakas]] may become pure by Aśvamedha or by visiting all tīrthas 91-92; three classes of, acc. to Vasiṣṭha 13; who feel no repentance and do not perform prāyaścitta fall into terrible Hells and after undergoing tortures in hells are born again as men suffering from deformities or diseases or as animals, insects, trees and shrubs 153, 154, 172
 
-Sins, are removed not by [[prāyascitta|prāyaścitta]] alone but also by confession to others, gifts, meditation on God 50; bodily sins 173; difference in punishments or expiation based on intention or absence of it or on repetition 17; divergence among sūtras as to classification of 12; five classes of, acc. to [[Katyāyana|Kātyāyana]] 14; five enumerated in [[Chāndogya Upanisad|Chāndogya Upaniṣad]] 12, 16; homas and mantras may purify a man from sins that have not become public 125; many s. are punishable by the king as crimes, though penances are provided for them 68; mental sins 173; nine classes of, acc. to [[Viṣnu Dh. S.|Viṣṇu Dh. S.]] 15; redemption of, by monetary payments or bequests of property to churches in Christian belief 52n; supposed to be centred in the hair 122, 574; three classes of, acc. to [[Baud. Dh, S.|Baudh. Dh. S.]] 13; three classes of, acc. to Manu 173; three kinds of viz. bodily, in words and mental 173; classes of, acc. to Āp. Dh. S. 12; two kinds of, viz. intentionally committed and unintentionally committed 61; unintentionally committed s. are destroyed by repeating Vedic texts 63; views differed as to whether all sins committed in past lives are destroyed by entering [[Kasi|Kāśī]] or whether only those of the present life 638; vocal sins 173; which diseases arise as the results of which sins 173
+Sins, are removed not by prāyaścitta alone but also by confession to others, gifts, meditation on God 50; bodily sins 173; difference in punishments or expiation based on intention or absence of it or on repetition 17; divergence among sūtras as to classification of 12; five classes of, acc. to Kātyāyana 14; five enumerated in Chāndogya Upaniṣad 12, 16; homas and mantras may purify a man from sins that have not become public 125; many s. are punishable by the king as crimes, though penances are provided for them 68; mental sins 173; nine classes of, acc. to Viṣṇu Dh. S. 15; redemption of, by monetary payments or bequests of property to churches in Christian belief 52n; supposed to be centred in the hair 122, 574; three classes of, acc. to [[Baud. Dh, S.|Baudh. Dh. S.]] 13; three classes of, acc. to Manu 173; three kinds of viz. bodily, in words and mental 173; classes of, acc. to Āp. Dh. S. 12; two kinds of, viz. intentionally committed and unintentionally committed 61; unintentionally committed s. are destroyed by repeating Vedic texts 63; views differed as to whether all sins committed in past lives are destroyed by entering Kāśī or whether only those of the present life 638; vocal sins 173; which diseases arise as the results of which sins 173
 
-[[Sirkar,|Sircar,]] [[Dr. D. C,|Dr. D. C.]] 698
+[[Sirkar,|Sircar,]] Dr. D. C. 698
 
 [[sisucāndrāyana|Śiśucāndrāyaṇa]] 150
 
-[[Siśukrcchra,|Śiśukṛcchra,]] same as [[Bālakṣcchra,|Bālakṛcchra,]] 150
+Śiśukṛcchra, same as [[Bālakṣcchra,|Bālakṛcchra,]] 150
 
-[[Sīta-krcchra|Śīta-kṛcchra]] 150
+Śīta-kṛcchra 150
 
-[[Sivad harmottara|Śivadharmottara]] 396
+Śivadharmottara 396
 
-[[Sivapurāṇa|Śivapurāṇa]] 445n, 519, 678n, 679
+Śivapurāṇa 445n, 519, 678n, 679
 
-[[Sivasankalpa,|Śivasaṅkalpa,]] sacred Vedic texts from [[Vaj. S.|Vāj. S.]] 48
+Śivasaṅkalpa, sacred Vedic texts from Vāj. S. 48
 
-Skandapurāṇa 164, 187, 337n, 351, 352n, 363n, 369n, 370n, 371n, 372, 374, 375, 376n, 380, 381n, 382n, 385, 389, 391, 392, 394n, 399, 405, 407, 409n, 413, 416, 418, 440n, 442n, 448, 450n, 452 (closely follows [[Asv, gr,|Āśv. gṛ.]] and [[Yaj.),|Yāj.),]] [[4580,|458n,]] 466, 468, 469, 478, 484, 512, 514, 517, 530, 531, 539n, 547, 555, 562, 563, 564n, 566n, 573n, 577n, 578n, 579n, 589, 595, 596n, 597, 598, 603n, 607, 612, 613n, 616-625, 627, 630n, 631, 633, 639, 640, 641n, 678n, 695, 725; is said to have 81000 verses acc. to [[Matsya-purana|Matsyapurāṇa]] 624n
+Skandapurāṇa 164, 187, 337n, 351, 352n, 363n, 369n, 370n, 371n, 372, 374, 375, 376n, 380, 381n, 382n, 385, 389, 391, 392, 394n, 399, 405, 407, 409n, 413, 416, 418, 440n, 442n, 448, 450n, 452 (closely follows Āśv. gṛ. and Yāj.), [[4580,|458n,]] 466, 468, 469, 478, 484, 512, 514, 517, 530, 531, 539n, 547, 555, 562, 563, 564n, 566n, 573n, 577n, 578n, 579n, 589, 595, 596n, 597, 598, 603n, 607, 612, 613n, 616-625, 627, 630n, 631, 633, 639, 640, 641n, 678n, 695, 725; is said to have 81000 verses acc. to Matsyapurāṇa 624n
 
-[[Sloka-Gautama|Śloka-Gautama]] [[5310|531n]]
+Śloka-Gautama [[5310|531n]]
 
-Smith, Vincent, author of [[' History|'History]] of Fine Arts in India and Ceylon' 720n
+Smith, Vincent, author of 'History of Fine Arts in India and Ceylon' 720n
 
-[[Smrtis,|Smṛtis,]] conflict of, on the periods of impurity, resolved in various ways by Madanapārijāta 270n; contain varying details of the same rite 89; one view is that details of all [[smrtis|smṛtis]] should be combined, if not in conflict 89-90; prescribe prāyaścittas for [[brāhmanas|brāhmaṇas]] partaking of [[sraddha|śrāddha]] food 387; put uncleanliness on birth and that on death on the same level 309; [['sarva-sakhā-pratyaya-nyāya'|'sarva-śākhā-pratyaya-nyāya']] applied to 89-90; some authors like [[Visvarūpa|Viśvarūpa]] held the view that details about a [[prāyascitta|prāyaścitta]] in each [[smrti|smṛti]] should be kept separate and not combined 90
+Smṛtis, conflict of, on the periods of impurity, resolved in various ways by Madanapārijāta 270n; contain varying details of the same rite 89; one view is that details of all smṛtis should be combined, if not in conflict 89-90; prescribe prāyaścittas for brāhmaṇas partaking of śrāddha food 387; put uncleanliness on birth and that on death on the same level 309; 'sarva-śākhā-pratyaya-nyāya' applied to 89-90; some authors like Viśvarūpa held the view that details about a prāyaścitta in each smṛti should be kept separate and not combined 90
 
-[[Smrticandrika|Smṛticandrikā]] 45n, 48n, 53n, 54, 82, 114n, 115n, 149n, 220, 227n, 231, 243n, 256n, 257n, [[2610,|261n,]] 262n, 268, 270n, 273 (on āśauca), 275n, 276n, 282n, 285, 287n, 291, 292n, [[3051|305n,]] 311, 332n, 338n, 350, 369n, [[3700|370n,]] 372n, 374n, 375, 376, 377n, 381n, [[FOUND 382n,|382n,]] 383n, 394n, 395n, 404n, [[4050|405n,]]
+Smṛticandrikā 45n, 48n, 53n, 54, 82, 114n, 115n, 149n, 220, 227n, 231, 243n, 256n, 257n, [[2610,|261n,]] 262n, 268, 270n, 273 (on āśauca), 275n, 276n, 282n, 285, 287n, 291, 292n, [[3051|305n,]] 311, 332n, 338n, 350, 369n, [[3700|370n,]] 372n, 374n, 375, 376, 377n, 381n, [[FOUND 382n,|382n,]] 383n, 394n, 395n, 404n, [[4050|405n,]]
 
-[[P899]]406, 407, 409, 412, 415n, 416, 417, 419n, 420, 421n, 422n, 423n, 443n, 444n, 446n, 455n, 457, 458, 459n, 460, 462n, 463, 464, 468n, 469n, 473n, 475n, 477n, 478, 481, 484n, 514n, 520, [[523 n,|523n,]] 524, 531n, 532n, 546n, 547n, 569n, 578n, 591n, 651, 652n
+[[P899]]406, 407, 409, 412, 415n, 416, 417, 419n, 420, 421n, 422n, 423n, 443n, 444n, 446n, 455n, 457, 458, 459n, 460, 462n, 463, 464, 468n, 469n, 473n, 475n, 477n, 478, 481, 484n, 514n, 520, 523n, 524, 531n, 532n, 546n, 547n, 569n, 578n, 591n, 651, 652n
 
-[[Smrtimuktāphala|Smṛtimuktāphala]] of [[Vaidyanatha|Vaidyanātha]] [[18a,|18n,]] 22n, 29, 60n, 67, 90n, 94, 95n, 101, 107, 148, 164n, 220, 240, 268n, 269, 273, 282, 288, 290, 296, 302n, 383n, 399n, 486 (followed by Madras smārta [[brāhmanas|brāhmaṇas]] on [[srāddha),|śrāddha),]] 532, 546n
+Smṛtimuktāphala of Vaidyanātha [[18a,|18n,]] 22n, 29, 60n, 67, 90n, 94, 95n, 101, 107, 148, 164n, 220, 240, 268n, 269, 273, 282, 288, 290, 296, 302n, 383n, 399n, 486 (followed by Madras smārta brāhmaṇas on śrāddha), 532, 546n
 
-[[Smrtisagara|Smṛtisāgara]] 119n
+Smṛtisāgara 119n
 
-[[Smrtiratnávali|Smṛtiratnāvalī]] 670n
+Smṛtiratnāvalī 670n
 
-[[Smrtisamuccaya|Smṛtisamuccaya]] 574
+Smṛtisamuccaya 574
 
-[[Smrtisara|Smṛtisāra]] 296n,
+Smṛtisāra 296n,
 
-[[Smrtyarthasāra|Smṛtyarthasāra]] 27, 56, 91, 92, 95n, 101, 129, 175, 177, 229, 230, 257, 272n, 286, 289, 291n, 304, 316, 318, 325, 365, 374n, 375, 416, 459n, 473n, 508n, 521, 526, 532n, 668n, 669
+Smṛtyarthasāra 27, 56, 91, 92, 95n, 101, 129, 175, 177, 229, 230, 257, 272n, 286, 289, 291n, 304, 316, 318, 325, 365, 374n, 375, 416, 459n, 473n, 508n, 521, 526, 532n, 668n, 669
 
 Snakes, supposed to subsist on wind 335
 
-Soma, camasas filled with [[s.,|s.]] can be drunk by priests one after another without incurring any blemish 328; distinguished from surā 20; extent of period of s. sacrifice 96; is food only of [[brāhmanas|brāhmaṇas]] 196n; is king of [[brahmanas|brāhmaṇas]] 196n; throws in a pit those who do not observe Soma's ordinances 154
+Soma, camasas filled with s. can be drunk by priests one after another without incurring any blemish 328; distinguished from surā 20; extent of period of s. sacrifice 96; is food only of brāhmaṇas 196n; is king of brāhmaṇas 196n; throws in a pit those who do not observe Soma's ordinances 154
 
-Somanātha, tax on pilgrims going to, was levied by Siddharāja, king of [[Anahilavād,|Aṇahilavāḍ,]] but was later remitted at the intercession of his mother 571
+Somanātha, tax on pilgrims going to, was levied by Siddharāja, king of Aṇahilavāḍ, but was later remitted at the intercession of his mother 571
 
 Somāyana, an expiation 151-152
 
@@ -2212,137 +2211,137 @@ Son, of patita was condemned and excluded from inheritance 106; saved father fro
 
 Sons, one should desire to have many sons, so that at least one may visit Gayā 652-653; twelve kinds of, recognized in ancient times, of whom the kṣetraja, the putrikāputra and dattaka most important 536
 
-Soul, at time of death of one body enters into another new one 335; eight qualities of, mentioned in Gautama and others 310; [[sauca,|śauca,]] one of the eight qualities of the soul 310; was supposed to become, after death of body, associated with Yama and [[pitrs|pitṛs]] 342
+Soul, at time of death of one body enters into another new one 335; eight qualities of, mentioned in Gautama and others 310; śauca, one of the eight qualities of the soul 310; was supposed to become, after death of body, associated with Yama and pitṛs 342
 
-Souls, see under funeral [[rites|rites,]] [['pindas',|'piṇḍas';]] after the death of the body are supposed to assume a body called [[ativabika,|ātivāhika,]] that such a body is secured by human beings alone and not by other beings 265; bodies that s. secure after death are called [[ātivā. hika|ātivāhika]] by some and [[yātaniya|yātanīya]] by others 266; of departed persons who offered sacrifices when living become shining stars in the firmament 157, 166; supposed to take on a new bright body on cremation in [[Rgveda|Ṛgveda]] 193, 342; survival of, after death of body, is emphatically asserted in Tai. Br. 157
+Souls, see under funeral rites, 'piṇḍas'; after the death of the body are supposed to assume a body called [[ativabika,|ātivāhika,]] that such a body is secured by human beings alone and not by other beings 265; bodies that s. secure after death are called ātivāhika by some and yātanīya by others 266; of departed persons who offered sacrifices when living become shining stars in the firmament 157, 166; supposed to take on a new bright body on cremation in Ṛgveda 193, 342; survival of, after death of body, is emphatically asserted in Tai. Br. 157
 
 South Indian Inscriptions 712n
 
-[[Sraddhā,|Śraddhā,]] is addressed as a deity in the [[Rg.|Ṛg.]] 351, 496-497; various definitions of 352
+Śraddhā, is addressed as a deity in the Ṛg. 351, 496-497; various definitions of 352
 
-[[Srāddha,|Śrāddha,]] see [[amasraddha,|āmaśrāddha,]] aparāhna, [[Aryasamaja,|Āryasamāja,]] [[brahmanas,|brāhmaṇas,]] corn, [[ecli pse,|eclipse,]] food, [[hemaśraddha,|hemaśrāddha,]] [[jīvat sraddha,|jīvat-śrāddha,]] kutapa, [[Māghyāvarsa,|Māghyāvarṣa,]] [[panktipāvana,|paṅktipāvana,]] [[pārvanasraddha,|pārvaṇaśrāddha,]] [[pinda-pitryajña,|piṇḍa-pitṛyajña,]] [[pindas,|piṇḍas,]] [[pitrs,|pitṛs,]] putra, salt, soul, [[sraddha;|śrāddha;]] afternoon preferred for [[ś,|ś.,]] except for [[Vrddhi-sraddha|Vṛddhi-śrāddha]] and [[Amaśrāddha|Āmaśrāddha]] 370; [[agnaukarana,|agnaukaraṇa,]] discussion about 461-462; [[ahitagni|āhitāgni]] should not perform [[s.|ś.]] on any day except [[darṣa)|darśa]] acc. to [[Manu371n;|Manu 371n;]] among the [[brahmanas|brāhmaṇas]] invited at [[s,|ś.,]] two are meant for gods (and are called daiva or [[vaisvadeva|vaiśvadeva]] [[brāhmanas)|brāhmaṇas)]] and [[threefom pitns|three for pitṛs]] 403,
+Śrāddha, see āmaśrāddha, aparāhna, Āryasamāja, brāhmaṇas, corn, eclipse, food, hemaśrāddha, jīvat-śrāddha, kutapa, Māghyāvarṣa, paṅktipāvana, pārvaṇaśrāddha, piṇḍa-pitṛyajña, piṇḍas, pitṛs, putra, salt, soul, śrāddha; afternoon preferred for ś., except for Vṛddhi-śrāddha and Āmaśrāddha 370; agnaukaraṇa, discussion about 461-462; āhitāgni should not perform ś. on any day except darśa acc. to Manu 371n; among the brāhmaṇas invited at ś., two are meant for gods (and are called daiva or vaiśvadeva brāhmaṇas) and [[threefom pitns|three for pitṛs]] 403,
 
-[[P900]]407; an atithi must be fed at a [[s.|ś.]] 404; ancestors upwards from 4th [[viz,|viz.]] father, grandfather, [[great-grand- father|great-grandfather]] of the performer's [[great-grand- father,|great-grandfather,]] are entitled only to the lepa (wipings of the particles of food sticking to the hand of the [[perfor- mer)|performer)]] 482-483; [[brāhmanas|brāhmaṇas]] alone are to be invited for dinner at [[s.|ś.]] 383; [[brāhmanas|brāhmaṇas]] should pronounce blessings at [[s.|ś.]] after they dine and sip [[water, 468;|water 468;]] [[brahmanas|brāhmaṇas]] who are [[panktipavana|paṅktipāvana]] should be invited at [[s.|ś.]] 385-386; called anvāhārya performed formerly on the same day after [[pindapitryajña,|piṇḍapitṛyajña,]] but not now 362; child whose upanayana has not been performed is not eligible to repeat Vedic mantras and cannot perform [[s.|ś.]] but an exception is made in the case of a son as to [[funeral: rites|funeral rites]] for a parent 365; classification of [[sraddhas,|śrāddhas,]] 380-381; confers long life, happiness, fame, prosperity, sons, and heaven on the [[performer,|performer]] 350; consequences that follow from disposal of the [[pindas|piṇḍas]] in [[sraddha|śrāddha]] in each of the several modes of [[dis- posal|disposal]] 481; daily [[$.|ś.]] prescribed by Manu for all householders to be performed with food or water or milk or fruits and roots 369; dakṣiṇā has to be given profusely towards the end of each [[s.|ś.]] and it is supposed that whatever may be wanting in mantras or the proper time or [[pro- cedure|procedure]] is cured and made perfect by it 534-535; dark half of a month is preferred for, 370; definitions of [[s.|ś.]] by Brahmapurāṇa, Mitākṣarā and others emphasize its connection with [[sraddhā|śraddhā]] 334, 351; denotes, [[accord- ing|according]] to some, three things [[viz|viz.]] homa, offering of [[pinda|piṇḍa]] and gratification of [[brābmanas|brāhmaṇas]] invited to dinner, 335; derivation of word [[s.|ś.]] from [[sraddha|śraddhā]] 351-52; description of [[pitrs|pitṛs]] as Vasus, Rudras and [[Adityas|Ādityas]] is only for purposes of contemplation, 348; Devala recommends that an [[elabor ate|elaborate]] [[s.|ś.]] should be performed only once a year, 383; differences in many details of [[$.|ś.]] had [[asisen|arisen]] in the days of the [[Purānas,|Purāṇas,]] 363; differences among sūtras whether young or old learned [[brahmanas|brāhmaṇas]] were to be invited 388; digests on [[s,|ś.,]] utilized in this volume, 363; discussion of the [[ques tion|question]] what Hindus of the 20th century should do about [[sraddhas|śrāddhas]] 549-551; discussion whether a performer of ś. should perform the rite strictly in accordance with the [[grhyasūtra|gṛhyasūtra]] of his own Veda or [[Sakhā|Śākhā]] or may include details found in other works, 452-455; discussion whether performer of [[s,|ś.]] studying one recension of the Veda must invite [[brāhmanas|brāhmaṇas]] studying the same recension or could invite one who had studied any of the three Vedas, 397-398; discussion whether the daily Vaiśvadeva is to be performed before the starting of ś. rites or after they are finished 483-484; divergent views as to the stage when āvāhana of [[pitrs|pitṛs]] is to be made and about the mantras to be employed at [[s,|ś.,]] 460-461; doctrine of, carried to excess 383, 513; doctrine of offering balls of cooked rice to ancestors at ś. presupposes or requires that the ancestors are even after 50 or 100 years from their deaths [[cap- able|capable]] of enjoying in an ethereal body the flavour or essence of the balls wafted by the wind 335; doctrine underlying the conception of [[s|ś.]] is apparently opposed to the dogma of karma and punarjanma, 335; eight matters to be avoided by [[brahmanas|brāhmaṇas]] invited at [[s,|ś.,]] 411; emphasis on inviting very learned [[brāhmanas|brāhmaṇas]] became practically nugatory by the rules of some [[smrtis|smṛtis]] that one should not partake of [[sraddha|śrāddha]] for three [[yeats=|years]] after [[sapindana|sapiṇḍana]] and that laid down various [[prāyascittas|prāyaścittas]] for dining at [[srāddha|śrāddha]] in the first, second or third [[P901]]year after [[Sapindana|Sapiṇḍana]] 548; [[enu meration|enumeration]] of 96 [[srāddhas|śrāddhas]] to be performed in a year 382-383; even in modern times learned [[bra hmanas|brāhmaṇas]] are unwilling to dine at [[as.,|a ś.,]] particularly within a few years of death 387, 548; examination of the explanation of the doctrine of [[s.|ś.]] offered by Purāṇas and medieval digests 338-339; exclusiveness and pride of sub-castes even among [[brā hmanas|brāhmaṇas]] go so far that [[Balambhatti|Bālambhaṭṭī]] recommends that [[Maharastra|Mahārāṣṭra]] [[bra hmanas|brāhmaṇas]] should not invite for [[s.|ś.]] [[bra bmanas|brāhmaṇas]] of other castes even if very learned and particularly [[Konkanas thas|Koṅkaṇasthas]] and that men of one's own [[sub caste|sub-caste]] should be preferred even if they are of blemished character 398; explanation how [[masisraddha|māsiśrāddha]] came to be called the [[prakrti|prakṛti]] (the norm) of all [[sraddhas|śrāddhas]] 258; explanation given by [[Purānas|Purāṇas]] and digests how food offered into fire or eaten by [[brāhmana|brāhmaṇa]] invitees at [[s.|ś.]] is enjoyed by the departed whatever form they might have attained after death (such as a god or daitya, beast, or snake or grass) 335-337; five classes of, acc. to [[Brhaspati|Bṛhaspati]] and others 381; flowers allowed and condemned for employment in [[s.|ś.]] 416; food offered in [[s,|ś.]] is believed to be enjoyed by departed spirits in the world of [[pitrs|pitṛs]] 340; frugal or poor dinner not to be offered in certain [[sraddhas|śrāddhas]] and on certain occasions 406; gift of [[bed stead|bedstead]] used by the deceased to a [[brā hmana|brāhmaṇa]] and his wife with appropriate mantra and other details [[recom mended|recommended]] by some [[puranas|purāṇas]] but severely condemned by the Padmapurāṇa 535-536; gifts of wealth, lands and houses on death of kings and great warriors and eulogies of such gifts and particularly of cooked food 534; guests coming by chance, while [[s.|ś.]] rites are in progress, should be honoured, since yogins wander over the earth for the good of people in various forms 396; if a [[brāhmana|brāhmaṇa]], who is [[panktipāvana|paṅktipāvana]] and fulfills the conditions laid down in Manu III. 132-146 be not available, one may invite as the next best course even a bandhu, father-in-law, son-in-law, one's teacher of the Veda or pupil, daughter's son, wife's brother, a sagotra or even a brother 387; if a performer can afford to invite at [[s.|ś.]] only one [[brahmana|brāhmaṇa]], then he should [[frefer|prefer]] a chanter of the whole of [[Sama veda|Sāmaveda]] 399; if it is not possible to [[per form|perform]] all [[sraddhas|śrāddhas]] (except [[Sapindi. karana|Sapiṇḍīkaraṇa]]) according to detailed procedure, they may be performed by the procedure called '[[sankalpavidhi|saṅkalpavidhi]]' 532; if no [[brāhmana|brāhmaṇa]] be available on śrāddha day, effigies with darbhas should be made, [[sraddha|śrāddha]] offered and fees and materials may be given later to other [[brāhmanas|brāhmaṇas]] 406, 514; if primary procedure for a rite as laid down in [[sruti or smrti|śruti or smṛti]] cannot be carried out, then one may resort to some substituted procedure [[513 514|513-514]]; in eclipses the appropriate time for ś. is [[sparsakala|sparśakāla]] 372; inquiry into the learning and qualities of [[brahmanas|brāhmaṇas]] to be invited at ś. was allowed but not as to those who came by chance uninvited 391; in ś. on the birth of a son or in [[s|ś.]] offered by even a good [[sudra|śūdra]] there is no feeding of brāhmaṇas 482; [[insti tution|institution]] of, had a hoary antiquity even at the time of the [[Ap. Dharmasutra|Āp. Dharmasūtra]] 349; inviting Bauddhas, Nirgranthas or those who espouse the [[Pañcarātra|Pāñcarātra]] or [[Pasupata|Pāśupata]] or Kāpālika doctrines forbidden 395; [[kamya s.|kāmya ś.]], examples of, 373; kuśas to be used in [[é,|ś.,]] rules about 417-418; leavings of food in the plates of the invited [[brāhmanas|brāhmaṇas]] and the vikira on [[darbināsiere|darbhas were]] the share or lot of persons of the family dying young and the leavings fallen on the ground were the lot of [[deceas|deceas-]]
+[[P900]]407; an atithi must be fed at a ś. 404; ancestors upwards from 4th viz. father, grandfather, great-grandfather of the performer's great-grandfather, are entitled only to the lepa (wipings of the particles of food sticking to the hand of the performer) 482-483; brāhmaṇas alone are to be invited for dinner at ś. 383; brāhmaṇas should pronounce blessings at ś. after they dine and sip water 468; brāhmaṇas who are paṅktipāvana should be invited at ś. 385-386; called anvāhārya performed formerly on the same day after piṇḍapitṛyajña, but not now 362; child whose upanayana has not been performed is not eligible to repeat Vedic mantras and cannot perform ś. but an exception is made in the case of a son as to funeral rites for a parent 365; classification of śrāddhas, 380-381; confers long life, happiness, fame, prosperity, sons, and heaven on the performer 350; consequences that follow from disposal of the piṇḍas in śrāddha in each of the several modes of disposal 481; daily [[$.|ś.]] prescribed by Manu for all householders to be performed with food or water or milk or fruits and roots 369; dakṣiṇā has to be given profusely towards the end of each ś. and it is supposed that whatever may be wanting in mantras or the proper time or procedure is cured and made perfect by it 534-535; dark half of a month is preferred for, 370; definitions of ś. by Brahmapurāṇa, Mitākṣarā and others emphasize its connection with śraddhā 334, 351; denotes, according to some, three things viz. homa, offering of piṇḍa and gratification of [[brābmanas|brāhmaṇas]] invited to dinner, 335; derivation of word ś. from śraddhā 351-52; description of pitṛs as Vasus, Rudras and Ādityas is only for purposes of contemplation, 348; Devala recommends that an elaborate ś. should be performed only once a year, 383; differences in many details of [[$.|ś.]] had [[asisen|arisen]] in the days of the Purāṇas, 363; differences among sūtras whether young or old learned brāhmaṇas were to be invited 388; digests on ś., utilized in this volume, 363; discussion of the question what Hindus of the 20th century should do about śrāddhas 549-551; discussion whether a performer of ś. should perform the rite strictly in accordance with the gṛhyasūtra of his own Veda or Śākhā or may include details found in other works, 452-455; discussion whether performer of ś. studying one recension of the Veda must invite brāhmaṇas studying the same recension or could invite one who had studied any of the three Vedas, 397-398; discussion whether the daily Vaiśvadeva is to be performed before the starting of ś. rites or after they are finished 483-484; divergent views as to the stage when āvāhana of pitṛs is to be made and about the mantras to be employed at ś., 460-461; doctrine of, carried to excess 383, 513; doctrine of offering balls of cooked rice to ancestors at ś. presupposes or requires that the ancestors are even after 50 or 100 years from their deaths capable of enjoying in an ethereal body the flavour or essence of the balls wafted by the wind 335; doctrine underlying the conception of ś. is apparently opposed to the dogma of karma and punarjanma, 335; eight matters to be avoided by brāhmaṇas invited at ś., 411; emphasis on inviting very learned brāhmaṇas became practically nugatory by the rules of some smṛtis that one should not partake of śrāddha for three [[yeats=|years]] after sapiṇḍana and that laid down various prāyaścittas for dining at śrāddha in the first, second or third [[P901]]year after Sapiṇḍana 548; enumeration of 96 śrāddhas to be performed in a year 382-383; even in modern times learned brāhmaṇas are unwilling to dine at a ś., particularly within a few years of death 387, 548; examination of the explanation of the doctrine of ś. offered by Purāṇas and medieval digests 338-339; exclusiveness and pride of sub-castes even among brāhmaṇas go so far that Bālambhaṭṭī recommends that Mahārāṣṭra brāhmaṇas should not invite for ś. [[bra bmanas|brāhmaṇas]] of other castes even if very learned and particularly Koṅkaṇasthas and that men of one's own sub-caste should be preferred even if they are of blemished character 398; explanation how māsiśrāddha came to be called the prakṛti (the norm) of all śrāddhas 258; explanation given by Purāṇas and digests how food offered into fire or eaten by brāhmaṇa invitees at ś. is enjoyed by the departed whatever form they might have attained after death (such as a god or daitya, beast, or snake or grass) 335-337; five classes of, acc. to Bṛhaspati and others 381; flowers allowed and condemned for employment in ś. 416; food offered in ś. is believed to be enjoyed by departed spirits in the world of pitṛs 340; frugal or poor dinner not to be offered in certain śrāddhas and on certain occasions 406; gift of bedstead used by the deceased to a brāhmaṇa and his wife with appropriate mantra and other details recommended by some purāṇas but severely condemned by the Padmapurāṇa 535-536; gifts of wealth, lands and houses on death of kings and great warriors and eulogies of such gifts and particularly of cooked food 534; guests coming by chance, while ś. rites are in progress, should be honoured, since yogins wander over the earth for the good of people in various forms 396; if a brāhmaṇa, who is paṅktipāvana and fulfills the conditions laid down in Manu III. 132-146 be not available, one may invite as the next best course even a bandhu, father-in-law, son-in-law, one's teacher of the Veda or pupil, daughter's son, wife's brother, a sagotra or even a brother 387; if a performer can afford to invite at ś. only one brāhmaṇa, then he should [[frefer|prefer]] a chanter of the whole of Sāmaveda 399; if it is not possible to perform all śrāddhas (except Sapiṇḍīkaraṇa) according to detailed procedure, they may be performed by the procedure called 'saṅkalpavidhi' 532; if no brāhmaṇa be available on śrāddha day, effigies with darbhas should be made, śrāddha offered and fees and materials may be given later to other brāhmaṇas 406, 514; if primary procedure for a rite as laid down in śruti or smṛti cannot be carried out, then one may resort to some substituted procedure 513-514; in eclipses the appropriate time for ś. is sparśakāla 372; inquiry into the learning and qualities of brāhmaṇas to be invited at ś. was allowed but not as to those who came by chance uninvited 391; in ś. on the birth of a son or in ś. offered by even a good śūdra there is no feeding of brāhmaṇas 482; institution of, had a hoary antiquity even at the time of the Āp. Dharmasūtra 349; inviting Bauddhas, Nirgranthas or those who espouse the Pāñcarātra or Pāśupata or Kāpālika doctrines forbidden 395; kāmya ś., examples of, 373; kuśas to be used in [[é,|ś.,]] rules about 417-418; leavings of food in the plates of the invited brāhmaṇas and the vikira on [[darbināsiere|darbhas were]] the share or lot of persons of the family dying young and the leavings fallen on the ground were the lot of deceas-
 
-[[P902]]ed slaves of the family 470n, 500; leavings of food in the plates of [[brā. hmanas|brāhmaṇas]] should not be removed or swept away till sunset, as the spirits of those that were offered no water regale themselves with them 468; leavings of food cooked for [[sraddha|śrāddha]] dinner should not be given to a person inferior in qualities or to a [[sudra|śūdra]] 468; literature on [[s,|ś.]] is [[enor mous|enormous]] in extent 362-363; long lists of persons not to be allowed near a [[Ś.|ś.]] 380; [[Mahalayasraddha|Mahālayaprāddha]] 530-533; main underlying conception of śrāddha viz. a tender and [[affecti onate|affectionate]] regard for one's relatives, is admirable 550; mantra to be repeated at the beginning and end of all [[sraddhas|śrāddhas]] 458; mantras at āvāhana in [[s.|ś.]] 460; mantras repeated in [[s,|ś.]] are deemed to carry food to the [[pitrs|pitṛs]] that are invoked by their names and gotras and as accompanied by Vasus, Rudras and Ādityas 338; many works disapprove of [[extra vagance|extravagance]] in inviting a large number of [[brāhmanas|brāhmaṇas]] at [[s.,|ś.,]] since a large company affects five desiderata, viz. respectful treatment of brāhmaṇas, securing a proper place, proper time, purity and meritorious [[brāhmanas|brāhmaṇas]] 403-404, 550; [[māsa|māṣa]] preparations highly recommended in [[s.|ś.]] 421-422; may be performed on any day, if particularly appropriate materials or holy [[brāhmanas|brāhmaṇas]] are available or the performer is near a sacred place 370; meant originally a sacrifice for the [[pitrs|pitṛs]] on amāvāsyā 369; method of giving invitations to [[brāhmanas|brāhmaṇas]] for a [[Ś.|ś.]] 406-409; milk, which was allowed and which was condemned for use in [[s.|ś.]] 315; [[moksa|mokṣa]] results from performance of [[s.|ś.]] 350; monthly ś. on amāvāsyā was the [[prakrti|prakṛti]] (norm or model) of which [[Astakā|Aṣṭakā]] and other [[sraddhas|śrāddhas]] were modifications 361-362; [[nai mittika|naimittika]] ś. 373, 381; non-Aryans (called dasyus in the [[Mahabharata|Mahābhārata]]) like Yavanas, Mlecchas, Kirātas, [[Sakas,|Śakas,]] Cīnas may perform [[sraddhas|śrāddhas]] 364; no legal machinery exists to enforce the liability to perform [[srāddha|śrāddha]] of the deceased whose wealth was inherited by an heir 510; no [[pindadāna|piṇḍadāna]] on certain [[srāddhas,|śrāddhas,]] such as [[āmasraddha|āmaśrāddha]] and on yugādi days 481; no scrutiny should be made about a [[brābmana|brāhmaṇa]] of whom nothing is known, since siddhas roam on the earth as [[brāhmanas|brāhmaṇas]] 389; no [[se|ś.]] to be offered to father or mother if he or she became a [[mleccba|mleccha]] (by forcible or voluntary conversion) and the [[pinda|piṇḍa]] to be offered to him or her should be offered to [[Visnu|Viṣṇu]] 483; no [[ś,|ś.]] for deceased ascetics except [[pārvana|pārvaṇa]] on the 11th day after death and every year afterwards 519; not to be performed on 14th of the dark half of a month for anyone except for those killed by poison or snakes or beasts or in battle or by [[brāhmana's|brāhmaṇa's]] wrath 370n; number of [[brahmanas|brāhmaṇas]] to be invited did not depend on the means of the inviter, but on whether he could honour them all well 403; number of [[brahmanas|brāhmaṇas]] to be invited differed acc. to the views of different authors and works 402-404; observances for inviter and invitee 410-412; [[offer ings|offerings]] at [[s.,|ś.,]] acc. to some [[Puranas,|Purāṇas,]] become transformed into that kind of food that the [[pitrs|pitṛs]] require in the new bodies they might have assumed acc. to doctrine of karma and [[offer ings|offerings]] due to wealth acquired by unjust means gratify [[pitrs|pitṛs]] that are born as [[candālas|caṇḍālas]] 352; on amāvāsyā is nitya (obligatory) 426n; on 11th day after death, two views about 519; on [[thir teenth|thirteenth]] day of dark half of [[Bhadrapada|Bhādrapada]] highly eulogised 360; one can offer [[pindas|piṇḍas]] only to three ancestors [[ber ginning|beginning]] with one's father and not to 4th, 5th or 6th ancestor even if one or more of the first three ancestors [[P903]]be alive, 365, 511; one knowing only the [[Gāyatri|Gāyatrī]] verse but leading a [[well regulated|well-regulated]] life was to be preferred at [[ś,|ś.,]] to one who knows the three Vedas but whose conduct is not [[well regulated|well-regulated]] 389; order of preference among invitees at [[s.|ś.]] viz. first ascetics, then a [[brāhmana,|brāhmaṇa,]] who has studied the four Vedas and [[itihasa|itihāsa]] and so on 389; origin of the institution of [[s.|ś.]] from Manu or from the Boar [[in carnation|incarnation]] 349; [[pārvana|pārvaṇa]] ś. 431-514; performance of ś. at night or twilight or when the sun has just risen is forbidden (except in eclipses) 375; performed at a holy place and on yugādi or manvādi tithis yields inexhaustible gratification to the [[pitrs|pitṛs]] 374; performer of [[s.|ś.]] calls the [[pits|pitṛs]] to be present at the rite after taking permission of the invited [[brahmanas|brāhmaṇas]] for the invocation 348; performer of, should as a rule invite a [[brāhmana|brāhmaṇa]] who has studied some recension of the Veda and who is not of same gotra as the performer, who is not connected by marriage or who is not a teacher or a pupil or a friend, though some exceptions were recognized 385; performer of, should not observe a fast on [[sraddha|śrāddha]] day, but should partake of the food left after being served to the invited [[brahmanas|brāhmaṇas]] or should at least smell it 469-470; performer of, should wash house floor, should cowdung it, should wash the clothes and cleanse vessels the previous day 409; persons (of over 50 kinds) to be shunned at a [[s.|ś.]] according to Gautama, some of whom could be invited at a rite for gods [[accordiog|according]] to others 400-401; persons and animals that should be ejected from the place of [[s.|ś.]] or should not be allowed to look at it or disturb it 379-380; [[pindas|piṇḍas]] are made by the performer or by his wife with the food that remains after [[agnaukarana|agnaukaraṇa]] and mixed with sesame, honey and ghee and are offered by the [[pitr-tirtha|pitṛ-tīrtha]] 498n; [[pindas|piṇḍas]] offered to the [[great-grand father,|great-grandfather,]] the [[grand father|grand-father]] and father are declared to be identical [[respec tively|respectively]] with Vāsudeva, [[Sankarsana|Saṅkarṣaṇa]] and Pradyumna and the offerer of [[pindas|piṇḍas]] with Aniruddha 350-351; [[pindas|piṇḍas]] of cooked rice or flour were not to be offered in [[sraddha|śrāddha]] [[per formed|performed]] on equinoctial days, on [[san krānti,|saṅkrānti,]] on solstitial days, on [[ekādasi|ekādaśī]] or [[trayodasi|trayodaśī]] or on [[Magha|Maghā]] and [[Krttika|Kṛttikā]] nakṣatras 481; [[pitrs|pitṛs]] assuming aerial forms were supposed to hover round and enter the [[brahmanas|brāhmaṇas]] invited at [[s.|ś.]] 390, 401, 407; pitryā verses are each repeated loudly with [[abāva|āhāva]] at the end of [[ś,|ś.]] rite 502; place that is full of insects or is arid or burnt by fire or terrific in aspect or gives out painful sounds or fetid smell is unfit for [[s.|ś.]] 379; points in which modern Madras manuals differ from those used in Western India 504; polluted by asuras is purified by sesame and by tying a goat near the place 419; poor man may offer, instead of [[sum ptuous|sumptuous]] food, uncooked corn, or some vegetables or some slight [[see|fee]] or a few grains of sesame to a [[brāhmana|brāhmaṇa]] with water or may offer grass to a cow or raise his arms and repeat loudly that he has nothing 425-426; practice of presenting the clothes, ornaments, bedstead, the horse and the like used by the deceased to the [[brāhmana|brāhmaṇa]] invited for [[sraddha|śrāddha]] and also of donating an umbrella and sandals on the completion of [[sraddha|śrāddha]] 535; praise of the importance and benefits of, 349-351; [[pratisāmvatsa rika|pratisāṁvatsarika]] or pratyābdika ś. 529-530; [[prāyascittas|prāyaścittas]] prescribed by [[smrtis|smṛtis]] for dining at a [[pārvanasråddha,|pārvaṇaśrāddha,]] or [[vrddhisraddha,|vṛddhiśrāddha,]] [[sapindad|sapiṇḍana]] and other [[Sraddhas|śrāddhas]] 387-388, 548; [[prayasdftas|prāyaścittas]] prescribed for partaking of food at [[Navasrāddhas,|Navaśrāddhas,]] [[months and Sraddhas|monthly śrāddhas]]
+[[P902]]ed slaves of the family 470n, 500; leavings of food in the plates of brāhmaṇas should not be removed or swept away till sunset, as the spirits of those that were offered no water regale themselves with them 468; leavings of food cooked for śrāddha dinner should not be given to a person inferior in qualities or to a śūdra 468; literature on ś. is enormous in extent 362-363; long lists of persons not to be allowed near a [[Ś.|ś.]] 380; [[Mahalayasraddha|Mahālayaprāddha]] 530-533; main underlying conception of śrāddha viz. a tender and affectionate regard for one's relatives, is admirable 550; mantra to be repeated at the beginning and end of all śrāddhas 458; mantras at āvāhana in ś. 460; mantras repeated in ś. are deemed to carry food to the pitṛs that are invoked by their names and gotras and as accompanied by Vasus, Rudras and Ādityas 338; many works disapprove of extravagance in inviting a large number of brāhmaṇas at ś., since a large company affects five desiderata, viz. respectful treatment of brāhmaṇas, securing a proper place, proper time, purity and meritorious brāhmaṇas 403-404, 550; māṣa preparations highly recommended in ś. 421-422; may be performed on any day, if particularly appropriate materials or holy brāhmaṇas are available or the performer is near a sacred place 370; meant originally a sacrifice for the pitṛs on amāvāsyā 369; method of giving invitations to brāhmaṇas for a [[Ś.|ś.]] 406-409; milk, which was allowed and which was condemned for use in ś. 315; mokṣa results from performance of ś. 350; monthly ś. on amāvāsyā was the prakṛti (norm or model) of which Aṣṭakā and other śrāddhas were modifications 361-362; naimittika ś. 373, 381; non-Aryans (called dasyus in the Mahābhārata) like Yavanas, Mlecchas, Kirātas, Śakas, Cīnas may perform śrāddhas 364; no legal machinery exists to enforce the liability to perform śrāddha of the deceased whose wealth was inherited by an heir 510; no piṇḍadāna on certain śrāddhas, such as āmaśrāddha and on yugādi days 481; no scrutiny should be made about a [[brābmana|brāhmaṇa]] of whom nothing is known, since siddhas roam on the earth as brāhmaṇas 389; no [[se|ś.]] to be offered to father or mother if he or she became a [[mleccba|mleccha]] (by forcible or voluntary conversion) and the piṇḍa to be offered to him or her should be offered to Viṣṇu 483; no ś. for deceased ascetics except pārvaṇa on the 11th day after death and every year afterwards 519; not to be performed on 14th of the dark half of a month for anyone except for those killed by poison or snakes or beasts or in battle or by brāhmaṇa's wrath 370n; number of brāhmaṇas to be invited did not depend on the means of the inviter, but on whether he could honour them all well 403; number of brāhmaṇas to be invited differed acc. to the views of different authors and works 402-404; observances for inviter and invitee 410-412; offerings at ś., acc. to some Purāṇas, become transformed into that kind of food that the pitṛs require in the new bodies they might have assumed acc. to doctrine of karma and offerings due to wealth acquired by unjust means gratify pitṛs that are born as caṇḍālas 352; on amāvāsyā is nitya (obligatory) 426n; on 11th day after death, two views about 519; on thirteenth day of dark half of Bhādrapada highly eulogised 360; one can offer piṇḍas only to three ancestors [[ber ginning|beginning]] with one's father and not to 4th, 5th or 6th ancestor even if one or more of the first three ancestors [[P903]]be alive, 365, 511; one knowing only the Gāyatrī verse but leading a well-regulated life was to be preferred at ś., to one who knows the three Vedas but whose conduct is not well-regulated 389; order of preference among invitees at ś. viz. first ascetics, then a brāhmaṇa, who has studied the four Vedas and itihāsa and so on 389; origin of the institution of ś. from Manu or from the Boar incarnation 349; pārvaṇa ś. 431-514; performance of ś. at night or twilight or when the sun has just risen is forbidden (except in eclipses) 375; performed at a holy place and on yugādi or manvādi tithis yields inexhaustible gratification to the pitṛs 374; performer of ś. calls the [[pits|pitṛs]] to be present at the rite after taking permission of the invited brāhmaṇas for the invocation 348; performer of, should as a rule invite a brāhmaṇa who has studied some recension of the Veda and who is not of same gotra as the performer, who is not connected by marriage or who is not a teacher or a pupil or a friend, though some exceptions were recognized 385; performer of, should not observe a fast on śrāddha day, but should partake of the food left after being served to the invited brāhmaṇas or should at least smell it 469-470; performer of, should wash house floor, should cowdung it, should wash the clothes and cleanse vessels the previous day 409; persons (of over 50 kinds) to be shunned at a ś. according to Gautama, some of whom could be invited at a rite for gods [[accordiog|according]] to others 400-401; persons and animals that should be ejected from the place of ś. or should not be allowed to look at it or disturb it 379-380; piṇḍas are made by the performer or by his wife with the food that remains after agnaukaraṇa and mixed with sesame, honey and ghee and are offered by the pitṛ-tīrtha 498n; piṇḍas offered to the great-grandfather, the grand-father and father are declared to be identical respectively with Vāsudeva, Saṅkarṣaṇa and Pradyumna and the offerer of piṇḍas with Aniruddha 350-351; piṇḍas of cooked rice or flour were not to be offered in śrāddha performed on equinoctial days, on saṅkrānti, on solstitial days, on ekādaśī or trayodaśī or on Maghā and Kṛttikā nakṣatras 481; pitṛs assuming aerial forms were supposed to hover round and enter the brāhmaṇas invited at ś. 390, 401, 407; pitryā verses are each repeated loudly with [[abāva|āhāva]] at the end of ś. rite 502; place that is full of insects or is arid or burnt by fire or terrific in aspect or gives out painful sounds or fetid smell is unfit for ś. 379; points in which modern Madras manuals differ from those used in Western India 504; polluted by asuras is purified by sesame and by tying a goat near the place 419; poor man may offer, instead of sumptuous food, uncooked corn, or some vegetables or some slight [[see|fee]] or a few grains of sesame to a brāhmaṇa with water or may offer grass to a cow or raise his arms and repeat loudly that he has nothing 425-426; practice of presenting the clothes, ornaments, bedstead, the horse and the like used by the deceased to the brāhmaṇa invited for śrāddha and also of donating an umbrella and sandals on the completion of śrāddha 535; praise of the importance and benefits of, 349-351; pratisāṁvatsarika or pratyābdika ś. 529-530; prāyaścittas prescribed by smṛtis for dining at a pārvaṇaśrāddha, or vṛddhiśrāddha, [[sapindad|sapiṇḍana]] and other [[Sraddhas|śrāddhas]] 387-388, 548; [[prayasdftas|prāyaścittas]] prescribed for partaking of food at Navaśrāddhas, [[months and Sraddhas|monthly śrāddhas]]
 
-[[P904]]and yearly ones 548; principal act in [[s.|ś.]] rites is the feeding of [[brāhmanas|brāhmaṇas]] 349; procedure if only one [[brābmana|brāhmaṇa]] could be invited or was available 403, 513; procedure applicable to [[srāddha|śrāddha]] by one whose father was alive was extended by [[Visnu|Viṣṇu]] to one's mother's paternal ancestors 513; procedure if the performance of a [[sraddha|śrāddha]] on a particular day is [[rend ered|rendered]] impossible by an obstacle such as [[asauca|āśauca]] 547-548; proper places for the performance of 377-379; qualifications of [[brāhmanas|brāhmaṇas]] to be invited were few in the [[grhyasūtras,|gṛhyasūtras,]] but [[smrtis|smṛtis]] and purāṇas add many more and enlarge the lists of those that should not be invited 384-390; question how [[sraddha|śrāddha]] was to be [[per formed|performed]] if one or more of the three paternal ancestors were alive was discussed from ancient times and opinions varied 511-513; rewards for performance of [[sraddha|śrāddha]] in an eclipse 375; rewards for performing [[ś,|ś.]] on 28 nakṣatras from [[Kr̥ttikā|Kṛttikā]] to Bharaṇī (including Abhijit) 374; [[re wards|rewards]] for performing [[s.|ś.]] on the several week-days 373-374; rewards for [[per forming|performing]] [[s.|ś.]] from the first to the 15th tithi of the dark half 372; rewards for performing [[s.|ś.]] on even tithis and even nakṣatras and uneven tithis and nakṣatras 370; rewards of [[pinda dāna|piṇḍadāna]] 503; right to inherit is based under the [[Dayabhāga|Dāyabhāga]] on the [[capa city|capacity]] to offer [[pindas|piṇḍas]] to the [[deceas ed|deceased]] owner and not on actually [[offer ing|offering]] them 510; rules as to the day (tithi) on which [[samvatsarika sraddha|saṁvatsarika śrāddha]] is to be performed if the day or month of death or both are not known 530; rules for testing the [[brahmanas|brāhmaṇas]] to be invited at a [[s.|ś.]] 390-391; rules of conduct for the performer of [[s.|ś.]] 401-402; rules on removal of particles of food left in plates from which [[brāhmanas|brāhmaṇas]] dined 468-469; [[sapindi-karana,|sapiṇḍī-karaṇa,]] 520-525; several views about the final disposal (pratipatti) of [[pindas|piṇḍas]] 480-481; should be begun on Kutapa (8th out of 15 [[muhurtas|muhūrtas]] of the day) and should not extend beyond [[Rauhina|Rauhiṇa]] (12th muhūrta of the day) 376; should be performed when one dreams an evil dream or when evil planets affect the nakṣatra on which a man was born 372; should not be performed in mleccha localities 378; should not be performed in the [[Trisanku|Triśaṅku]] country and in the countries of Kāraskara, [[Kalinga|Kaliṅga]] and others and in countries to the north of the Sindhu river 378-379; should not be performed on Nandā tithis, on Friday, on 13th of the dark half, on the nakṣatra of one's birth 373; sixteen [[srāddhas|śrāddhas]] are laid down by numerous works as necessary to free the spirit of a deceased person from the condition of being a preta and [[pisaca|piśāca]] 518; sixteen [[srāddhas,|śrāddhas,]] divergence of views about what they are and particularly whether [[sa pindi karana|sapiṇḍīkaraṇa]] is included therein or not 518-519; sixteen [[sraddhas|śrāddhas]] were and are now performed on the 11th day after death 520; some [[authori ties|authorities]] allow anyone to perform [[sraddhas|śrāddhas]] (except [[sapindikarana|sapiṇḍīkaraṇa]]) for any relative, particularly at [[Gaya|Gayā]] 364-365; some [[Purānas|Purāṇas]] condemn scrutiny into the character and learning of brāhmaṇas to be invited but digests explain away such passages as referring to [[sraddbas|śrāddhas]] at [[tirthas|tīrthas]] 391; some purāṇas inculcate the performance of [[sraddha|śrāddha]] on a profuse scale, particularly at Gayā 404-405; some [[smrtis|smṛtis]] laid down very strict rules about the [[qualifica tions|qualifications]] of [[brāhmanas|brāhmaṇas]] for a [[s.|ś.]] 399-400; some [[smrtis|smṛtis]] recommend lavish expenditure on [[s,|ś.,]] [[Brhaspati|Bṛhaspati]] [[requirt ing|requiring]] an heir to spend on [[s.|ś.]] [[hati|half]] the property inherited by him 404; some writers hold that in [[P905]]agnaukarana, [[pindadānā|piṇḍadāna]] and feeding of [[brāhmanas|brāhmaṇas]] are all principal 482; some works lay great emphasis on inviting ascetics or yogins at [[s.|ś.]] and say that a yogin is superior to a hundred [[brāhmanas|brāhmaṇas]] 388; some works state that rites for [[pitrs|pitṛs]] deserve pre-eminence over those for the gods 483-484; specific times most proper for performing [[s.|ś.]] 371; spot chosen for [[s.|ś.]] should be clean, should slope towards the south, should be cowdunged, covered on all sides and should be unfrequented and not owned by another person 377; [[śraddbā|śraddhā]] is the mainspring or root of, 351; [[s.|ś.]] may be separately offered to the mother in the [[Anvastakā|Anvaṣṭakā]] rites, in [[Vrddhisraddha,|Vṛddhiśrāddha,]] at Gayā and on the anniversary of the day of death, but in other cases it is performed along with her husband 475, 662; [[sraddhadhikarin,|śrāddhādhikārin,]] general rule about, was that husband should not offer [[pinda|piṇḍa]] to his wife, nor father to his son, nor elder brother to younger one, but exceptions to this were recognized 364-365; substances and utensils proper for being used at [[sraddha|śrāddha]] and those not proper 412-413; [[Suddhi|śuddhi]] (purity) should be specially secured in seven matters in [[s.|ś.]] viz, the body (of the performer), the materials, the wife, the place (of performance), the mind, the mantras and the [[brahmanas|brāhmaṇas]] 413; sugar is sacred and may be employed in sacrifices to gods and manes 414; texts support both views, viz. that food is offered direct to the deceased ancestors in [[s,|ś.,]] and also that Vasus, Rudras and [[Adityas|Ādityas]] are the [[pitrs|pitṛs]] and devatās of [[s.|ś.]] 339; [[tbree|three]] classes of, viz. nitya, naimittika and [[kamya|kāmya]] 369-370; three sanctifying things in [[s,|ś.,]] are dauhitra, a Nepal blanket and sesame 413; three views as to what is the principal item in [[s.|ś.,]] whether feeding of [[brahmanas,|brāhmaṇas,]] or offering of [[pindas|piṇḍas]] or both 481-482; tilas (sesame), great importance of, in ś. 418-419; times for performing [[s.|ś.]] 360, 369-377; times on which [[s,|ś.]] was obligatory (nitya) according to [[Viṣnu|Viṣṇu]] Dh. S. 372; times proper for [[kamya s.|kāmya ś.]] are eclipses, days of solstice, equinoctial days, [[Vyatipāta,|Vyatīpāta,]] [[sankranti|saṅkrānti]] and [[Srāddhas|śrāddhas]] performed on them give infinite pleasure to [[pitrs|pitṛs]] 372; times for which [[pitrs|pitṛs]] are gratified by the offering of the flesh of several animals 422-424; [[tirtha śrāddha,|tīrtha śrāddha,]] see under [[Tirtha;|Tīrtha;]] treated under five heads [[viz ,|viz,]] how, where, when, by whom and with what materials 340; to whom should the sons of two fathers, such as kṣetraja, putrikāputra and dattaka offer [[pindas|piṇḍas]] 536-538; twelve kinds of, according to [[Visvamitra|Viśvāmitra]] 381-382; two classes of, viz., [[ekoddista|ekoddiṣṭa]] and [[pārvana|pārvaṇa]] 380; use of flesh in [[s,|ś.,]] great divergence of views on 422-425; use of plantain leaves as plates was allowed by some and forbidden by others 421; use of wealth obtained by bribery or from patita persons, or arising from bride-price or declared unlawful is condemned 412; [[Vaisvadeva|Vaiśvadeva]] is to be performed before [[pindadāna|piṇḍadāna]] in such [[srāddhas|śrāddhas]] as [[Navasraddha|Navaśrāddha]] and after [[pindadāna|piṇḍadāna]] in yearly [[sraddha,|śrāddha,]] in [[ma hālaya|mahālaya]] acc to some, while Hemādri gives more elaborate rules [[depend. ing|depending]] upon whether the performer was an [[abitāgni|āhitāgni]] or one who had no [[srauta|śrauta]] fires [[471-72,|471-472,]] 484; variation in the names of Viśve-devas 457n; vedic benediction finely worded and comprehensive to be uttered by brāhmaṇas on accepting an [[invita tion|invitation]] for [[s.|ś.]] 409; vegetables, fruits and roots [[recommended/and con demned|recommended and condemned]] for use in [[ś,|ś.,]] [[4154116.|415-416;]] vessels of iron condemned for use in [[421|ś. 421]]; vessels of metals, particularly of silver, should be used in [[Sraddha,|śrāddha,]] 420; vessels to be [[usedreich offering|used in offering]]
+[[P904]]and yearly ones 548; principal act in ś. rites is the feeding of brāhmaṇas 349; procedure if only one [[brābmana|brāhmaṇa]] could be invited or was available 403, 513; procedure applicable to śrāddha by one whose father was alive was extended by Viṣṇu to one's mother's paternal ancestors 513; procedure if the performance of a śrāddha on a particular day is rendered impossible by an obstacle such as āśauca 547-548; proper places for the performance of 377-379; qualifications of brāhmaṇas to be invited were few in the gṛhyasūtras, but smṛtis and purāṇas add many more and enlarge the lists of those that should not be invited 384-390; question how śrāddha was to be performed if one or more of the three paternal ancestors were alive was discussed from ancient times and opinions varied 511-513; rewards for performance of śrāddha in an eclipse 375; rewards for performing ś. on 28 nakṣatras from Kṛttikā to Bharaṇī (including Abhijit) 374; rewards for performing ś. on the several week-days 373-374; rewards for performing ś. from the first to the 15th tithi of the dark half 372; rewards for performing ś. on even tithis and even nakṣatras and uneven tithis and nakṣatras 370; rewards of piṇḍadāna 503; right to inherit is based under the Dāyabhāga on the capacity to offer piṇḍas to the deceased owner and not on actually offering them 510; rules as to the day (tithi) on which saṁvatsarika śrāddha is to be performed if the day or month of death or both are not known 530; rules for testing the brāhmaṇas to be invited at a ś. 390-391; rules of conduct for the performer of ś. 401-402; rules on removal of particles of food left in plates from which brāhmaṇas dined 468-469; sapiṇḍī-karaṇa, 520-525; several views about the final disposal (pratipatti) of piṇḍas 480-481; should be begun on Kutapa (8th out of 15 muhūrtas of the day) and should not extend beyond Rauhiṇa (12th muhūrta of the day) 376; should be performed when one dreams an evil dream or when evil planets affect the nakṣatra on which a man was born 372; should not be performed in mleccha localities 378; should not be performed in the Triśaṅku country and in the countries of Kāraskara, Kaliṅga and others and in countries to the north of the Sindhu river 378-379; should not be performed on Nandā tithis, on Friday, on 13th of the dark half, on the nakṣatra of one's birth 373; sixteen śrāddhas are laid down by numerous works as necessary to free the spirit of a deceased person from the condition of being a preta and piśāca 518; sixteen śrāddhas, divergence of views about what they are and particularly whether sapiṇḍīkaraṇa is included therein or not 518-519; sixteen śrāddhas were and are now performed on the 11th day after death 520; some authorities allow anyone to perform śrāddhas (except sapiṇḍīkaraṇa) for any relative, particularly at Gayā 364-365; some Purāṇas condemn scrutiny into the character and learning of brāhmaṇas to be invited but digests explain away such passages as referring to [[sraddbas|śrāddhas]] at tīrthas 391; some purāṇas inculcate the performance of śrāddha on a profuse scale, particularly at Gayā 404-405; some smṛtis laid down very strict rules about the qualifications of brāhmaṇas for a ś. 399-400; some smṛtis recommend lavish expenditure on ś., Bṛhaspati [[requirt ing|requiring]] an heir to spend on ś. [[hati|half]] the property inherited by him 404; some writers hold that in [[P905]]agnaukarana, piṇḍadāna and feeding of brāhmaṇas are all principal 482; some works lay great emphasis on inviting ascetics or yogins at ś. and say that a yogin is superior to a hundred brāhmaṇas 388; some works state that rites for pitṛs deserve pre-eminence over those for the gods 483-484; specific times most proper for performing ś. 371; spot chosen for ś. should be clean, should slope towards the south, should be cowdunged, covered on all sides and should be unfrequented and not owned by another person 377; [[śraddbā|śraddhā]] is the mainspring or root of, 351; ś. may be separately offered to the mother in the Anvaṣṭakā rites, in Vṛddhiśrāddha, at Gayā and on the anniversary of the day of death, but in other cases it is performed along with her husband 475, 662; śrāddhādhikārin, general rule about, was that husband should not offer piṇḍa to his wife, nor father to his son, nor elder brother to younger one, but exceptions to this were recognized 364-365; substances and utensils proper for being used at śrāddha and those not proper 412-413; [[Suddhi|śuddhi]] (purity) should be specially secured in seven matters in ś. viz, the body (of the performer), the materials, the wife, the place (of performance), the mind, the mantras and the brāhmaṇas 413; sugar is sacred and may be employed in sacrifices to gods and manes 414; texts support both views, viz. that food is offered direct to the deceased ancestors in ś., and also that Vasus, Rudras and Ādityas are the pitṛs and devatās of ś. 339; [[tbree|three]] classes of, viz. nitya, naimittika and kāmya 369-370; three sanctifying things in ś., are dauhitra, a Nepal blanket and sesame 413; three views as to what is the principal item in ś., whether feeding of brāhmaṇas, or offering of piṇḍas or both 481-482; tilas (sesame), great importance of, in ś. 418-419; times for performing ś. 360, 369-377; times on which ś. was obligatory (nitya) according to Viṣṇu Dh. S. 372; times proper for kāmya ś. are eclipses, days of solstice, equinoctial days, Vyatīpāta, saṅkrānti and [[Srāddhas|śrāddhas]] performed on them give infinite pleasure to pitṛs 372; times for which pitṛs are gratified by the offering of the flesh of several animals 422-424; tīrtha śrāddha, see under Tīrtha; treated under five heads viz, how, where, when, by whom and with what materials 340; to whom should the sons of two fathers, such as kṣetraja, putrikāputra and dattaka offer piṇḍas 536-538; twelve kinds of, according to Viśvāmitra 381-382; two classes of, viz., ekoddiṣṭa and pārvaṇa 380; use of flesh in ś., great divergence of views on 422-425; use of plantain leaves as plates was allowed by some and forbidden by others 421; use of wealth obtained by bribery or from patita persons, or arising from bride-price or declared unlawful is condemned 412; Vaiśvadeva is to be performed before piṇḍadāna in such śrāddhas as Navaśrāddha and after piṇḍadāna in yearly śrāddha, in mahālaya acc to some, while Hemādri gives more elaborate rules depending upon whether the performer was an [[abitāgni|āhitāgni]] or one who had no śrauta fires [[471-72,|471-472,]] 484; variation in the names of Viśve-devas 457n; vedic benediction finely worded and comprehensive to be uttered by brāhmaṇas on accepting an invitation for ś. 409; vegetables, fruits and roots recommended and condemned for use in ś., [[4154116.|415-416;]] vessels of iron condemned for use in [[421|ś. 421]]; vessels of metals, particularly of silver, should be used in [[Sraddha,|śrāddha,]] 420; vessels to be [[usedreich offering|used in offering]]
 
-[[P906]]arghya water, for cooking [[sraddha|śrāddha]] food, for dining and for serving 419-421; vessels to be used in [[s.|ś.]] may be made from sacrificial wood or from palāśa or from a sea product (conch-shell) 420; views differed as to whether mother included [[step. mother|step-mother]] in [[Parvana|Pārvaṇa]] 475; [[Visnu|Viṣṇu]] is to be regarded as dwelling in the three [[piṇdas|piṇḍas]] for the father, [[grand father|grand-father]] and the great-grand-father 349, 351; [[Visve-devas|Viśve-devas]] are generally [[men tioned|mentioned]] in Manu and [[Yaj.,|Yāj.,]] but later [[smrtis|smṛtis]] enumerated ten of them, two of them being assigned to each of five classes of [[sraddhas|śrāddhas]] 457; [[Vrddhisraddha,|Vṛddhiśrāddha,]] meaning of, 359n, and it is same as [[Nandisraddha|Nāndīśrāddha]] 527; was offered to three immediate ancestors, father, grandfather, [[great grandfather|great-grandfather]] 365; [[water quality of. to|water, quality of, to]] be employed in [[s.|ś.]] 415; what food is of the nature of havis and fit for [[Ś.|ś.]] 412; what men and women should engage in cooking [[s food|ś. food]] 462-466; when [[s.|ś.]] is performed at a [[tirtha|tīrtha]] the [[pindas|piṇḍas]] should be cast into the sacred water, otherwise they may be cast into fire or water or handed over to a [[brahmana|brāhmaṇa]] or may be allowed to be eaten by a cow or goat [[480--481;|480-481;]] who are entitled to offer [[Sraddha|śrāddha]] ([[srāddhadhikarin|śrāddhādhikārin]]) 364-365; who are [[lepabhajah|lepabhājaḥ]] or [[lepabhāginah|lepabhāginaḥ]] 483; who are the deities of [[Ś,|ś.,]] the three male ancestors or Vasus, Rudras and [[Adityas|Ādityas]] 348; whoever took the wealth of the deceased had to offer [[sraddha|śrāddha]] and [[pindas|piṇḍas]] to the deceased even under the [[Mitāksarā|Mitākṣarā]] system 364, 510; who should be invited for [[srāddha|śrāddha]] dinner according to the [[grhya|gṛhya]] and dharma sūtras 384-385; who was the real recipient of the [[offerin,s|offerings]] made in [[srāddha|śrāddha]] [[viz,|viz.]] the [[brāhmanas|brāhmaṇas]] or [[pitrs|pitṛs]] 460; women and [[sudras|śūdras]] should get ś. performed through a priest or they may [[them selves|themselves]] perform ś. without mantras but only mention the name and gotra of the deceased 365; word śrāddha does not occur in any authentic and ancient vedic work, but only in the [[Kathopanisad|Kaṭhopaniṣad]] 349-50; worship of [[rtus|ṛtus]] (seasons) in ś. provided for in some digests 433n.
+[[P906]]arghya water, for cooking śrāddha food, for dining and for serving 419-421; vessels to be used in ś. may be made from sacrificial wood or from palāśa or from a sea product (conch-shell) 420; views differed as to whether mother included step-mother in Pārvaṇa 475; Viṣṇu is to be regarded as dwelling in the three piṇḍas for the father, grand-father and the great-grand-father 349, 351; Viśve-devas are generally mentioned in Manu and Yāj., but later smṛtis enumerated ten of them, two of them being assigned to each of five classes of śrāddhas 457; Vṛddhiśrāddha, meaning of, 359n, and it is same as Nāndīśrāddha 527; was offered to three immediate ancestors, father, grandfather, great-grandfather 365; water, quality of, to be employed in ś. 415; what food is of the nature of havis and fit for [[Ś.|ś.]] 412; what men and women should engage in cooking ś. food 462-466; when ś. is performed at a tīrtha the piṇḍas should be cast into the sacred water, otherwise they may be cast into fire or water or handed over to a brāhmaṇa or may be allowed to be eaten by a cow or goat 480-481; who are entitled to offer [[Sraddha|śrāddha]] (śrāddhādhikārin) 364-365; who are lepabhājaḥ or lepabhāginaḥ 483; who are the deities of [[Ś,|ś.,]] the three male ancestors or Vasus, Rudras and Ādityas 348; whoever took the wealth of the deceased had to offer śrāddha and piṇḍas to the deceased even under the Mitākṣarā system 364, 510; who should be invited for śrāddha dinner according to the gṛhya and dharma sūtras 384-385; who was the real recipient of the [[offerin,s|offerings]] made in śrāddha viz. the brāhmaṇas or pitṛs 460; women and śūdras should get ś. performed through a priest or they may themselves perform ś. without mantras but only mention the name and gotra of the deceased 365; word śrāddha does not occur in any authentic and ancient vedic work, but only in the Kaṭhopaniṣad 349-50; worship of ṛtus (seasons) in ś. provided for in some digests 433n.
 
-[[Sraddhacandrikā|Śrāddhacandrikā]] of [[Divākara-bhatta|Divākara-bhaṭṭa]] 363
+Śrāddhacandrikā of Divākara-bhaṭṭa 363
 
-[[Sraddhakalikā,|Śrāddhakalikā,]] 381n, 412, 459n
+Śrāddhakalikā, 381n, 412, 459n
 
-[[Srādd bakalpa|Śrāddhakalpa]] of [[Sridatta|Śrīdatta]] for [[sama vedins|sāmavedins]] 486
+[[Srādd bakalpa|Śrāddhakalpa]] of Śrīdatta for sāmavedins 486
 
-[[Sraddhakalpalatā|Śrāddhakalpalatā]] of [[Nandapandita,|Nandapaṇḍita,]] 334n, 336, 337, 371, 381n, 382n, 387n, 398n, 403n, 409, 481, 483, 531n, 533, 535n, 540n, 541n
+Śrāddhakalpalatā of Nandapaṇḍita, 334n, 336, 337, 371, 381n, 382n, 387n, 398n, 403n, 409, 481, 483, 531n, 533, 535n, 540n, 541n
 
-[[Sraddhakārikā,|Śrāddhakārikā,]] 548n
+Śrāddhakārikā, 548n
 
-[[Sraddhakriyakaumudi,|Śrāddhakriyākaumudī,]] 266n, 334n, 376n, 380n, 407, 408, 409n, 410n, 417, 418n, 455n, 457, 473n, [[4761,|476n,]] [[512,514n,|512, 514n,]] 518n, 519n, 520n, 523n, 524n, 531n, 532n, 546n, 547n, 548n
+Śrāddhakriyākaumudī, 266n, 334n, 376n, 380n, 407, 408, 409n, 410n, 417, 418n, 455n, 457, 473n, [[4761,|476n,]] 512, 514n, 518n, 519n, 520n, 523n, 524n, 531n, 532n, 546n, 547n, 548n
 
-[[Sraddhamayūkha,|Śrāddhamayūkha,]] 544
+Śrāddhamayūkha, 544
 
-[[Sraddhaprakasa,|Śrāddhaprakāśa,]] 261, 269n, 334, 343n, 349n, 350, 351n, 377n, 378, 379n, 386n, 388n, 389n, [[3910,|391n,]] 398n, 399n, 401n, 408, 409, 410n, 411, 414n, 421, 457n, 458n, 460, 463, 467n, 471, 473n, 475n, 476n, 477n, 478n, 479, 529, 542, 544, 569n
+Śrāddhaprakāśa, 261, 269n, 334, 343n, 349n, 350, 351n, 377n, 378, 379n, 386n, 388n, 389n, [[3910,|391n,]] 398n, 399n, 401n, 408, 409, 410n, 411, 414n, 421, 457n, 458n, 460, 463, 467n, 471, 473n, 475n, 476n, 477n, 478n, 479, 529, 542, 544, 569n
 
-[[Srāddharatna|Śrāddharatna]] of [[Laksmipati|Lakṣmīpati]] 486, 535n
+Śrāddharatna of Lakṣmīpati 486, 535n
 
-[[Sraddhasangraha,|Śrāddhasaṅgraha,]] 459n
+Śrāddhasaṅgraha, 459n
 
-[[Sraddha sāra|Śrāddhasāra]] 335n, 338n, 350, 471, 532, 533
+Śrāddhasāra 335n, 338n, 350, 471, 532, 533
 
-[[Srāddhasaukbya|Śrāddhasaukhya]] (part of [[Todara nanda|Ṭoḍarānanda]]) 455n, 457n, 475, 476n
+[[Srāddhasaukbya|Śrāddhasaukhya]] (part of Ṭoḍarānanda) 455n, 457n, 475, 476n
 
-[[Sraddhasūtra|Śrāddhasūtra]] of [[Katyāyana|Kātyāyana]] 352, 408, 409, 411, 419, 423, 424, 435n, 439, [[442n|442n,]] 466, 470, 472, 478, 486, 504, 516, 521, 525
+Śrāddhasūtra of Kātyāyana 352, 408, 409, 411, 419, 423, 424, 435n, 439, 442n, 466, 470, 472, 478, 486, 504, 516, 521, 525
 
-[[Sraddhatattva|Śrāddhatattva]] of Raghunandana 263, 336n, 351, 352n, 370n, 380n, [[406 com 407n,|406, 407n,]] 408, 409n, 445, 446n, [[4500,|450n,]] 457n, 458, 464n, 475n, 476n, [[4790|479n,]] 486, 510, 516n, 520n, 527, 530n, 546n
+Śrāddhatattva of Raghunandana 263, 336n, 351, 352n, 370n, 380n, [[406 com 407n,|406, 407n,]] 408, 409n, 445, 446n, [[4500,|450n,]] 457n, 458, 464n, 475n, 476n, [[4790|479n,]] 486, 510, 516n, 520n, 527, 530n, 546n
 
-[[P907]][[Sraddhaviveka|Śrāddhaviveka]] of [[Rudrad hara|Rudradhara]] 334, 380n, 381, 396 (one of the longest lists of persons unfit to be invited at [[sraddha|śrāddha]]), 406, 416, 486 ([[descrip tion|description]] of [[apatraka|apātraka]] [[pārvanasraddha|pārvaṇaśrāddha]]), 524n, 526n, 540n, 541, 545n, 548n
+[[P907]]Śrāddhaviveka of Rudradhara 334, 380n, 381, 396 (one of the longest lists of persons unfit to be invited at śrāddha), 406, 416, 486 (description of apātraka pārvaṇaśrāddha), 524n, 526n, 540n, 541, 545n, 548n
 
-[[Sridatta,|Śrīdatta,]] author of [[Pitrbhakti|Pitṛbhakti]] 335n, 447n, 460, 486
+Śrīdatta, author of Pitṛbhakti 335n, 447n, 460, 486
 
-[[Srisūkta,|Śrīsūkta,]] 444
+Śrīsūkta, 444
 
-[[Srotriya,|Śrotriya,]] meaning of 384n
+Śrotriya, meaning of 384n
 
-Srughna, modern Sugh on the old Jumnā about 40 miles from [[Thane sar|Thanesar]] 681n
+Srughna, modern Sugh on the old Jumnā about 40 miles from Thanesar 681n
 
 St John, Gospel of, 174n
 
-Stein, Sir Aurel, translator of the [[Rajatarangini,|Rājataraṅgiṇī,]] 725, 755, 759
+Stein, Sir Aurel, translator of the Rājataraṅgiṇī, 725, 755, 759
 
-Steya (theft), becomes [[mabāpātaka|mahāpātaka]] only when [[brāhmana's|brāhmaṇa's]] gold of a certain quantity is stolen 22-23, 101; meaning of, acc. to [[Ap.|Āp.]] 22; none in certain cases, even if one appropriates without owner's consent 23; of two kinds, viz. accompanied with force (such as robbery or dacoity) and effected clandestinely 101; [[pra yascitta|prāyaścitta]] for theft of [[brāhmana's|brāhmaṇa's]] gold weighing 80 raktikās or more was death for all offenders except [[brahmanas|brāhmaṇas]] [[101prāyascitta|101; prāyaścitta]] for [[bra hmana|brāhmaṇa]] guilty of the [[māhāpātaka|mahāpātaka]] steya same as for [[sura|surā]] of flour 101; [[praya Ścitta|prāyaścitta]] for, depended on various circumstances 101
+Steya (theft), becomes [[mabāpātaka|mahāpātaka]] only when brāhmaṇa's gold of a certain quantity is stolen 22-23, 101; meaning of, acc. to Āp. 22; none in certain cases, even if one appropriates without owner's consent 23; of two kinds, viz. accompanied with force (such as robbery or dacoity) and effected clandestinely 101; prāyaścitta for theft of brāhmaṇa's gold weighing 80 raktikās or more was death for all offenders except brāhmaṇas 101; prāyaścitta for brāhmaṇa guilty of the mahāpātaka steya same as for surā of flour 101; [[praya Ścitta|prāyaścitta]] for, depended on various circumstances 101
 
-Story, of [[Ajigarta,|Ajīgarta,]] who agreed to slay [[bis|his]] own son when famished 100; of Bharadvāja, who, when famished, accepted many cows from [[Brbu,|Bṛbu,]] a carpenter 100; of Ekata, Dvita and Trita, 11, 11n; of the birth of Yama and [[Yami|Yamī]] from Vivasvat 198; of Indradyumna, 694-695; of Kavaṣa and [[Sarasvati|Sarasvatī]] 558-559, 680; of Naciketas 384n; of Nimi who [[perfor med|performed]] [[sraddha|śrāddha]] for his predeceased son 364; of [[Paundraka|Pauṇḍraka]] [[Vasudeva,|Vāsudeva,]] who challenged [[Krsna|Kṛṣṇa]] with the help of king of [[Kāśi|Kāśī]] 622; of Sagara's sons reduced to ashes by the wrath of Kapila 595; of 'saptavyādhas' 445n; of [[Sunaḥsepa|Śunaḥśepa]] 274; of ten [[Visve-devas|Viśve-devas]] to be [[in voked|invoked]] in five classes of śrāddhas 457n; of [[Tuladhāra|Tulādhāra]] and Jājali 570; of Uṣasti [[Cakrāyana|Cākrāyaṇa]] and his [[par taking|partaking]] of forbidden food [[100,681;|100, 681;]] of Vāmadeva, who desired to eat [[dog flesh|dog-flesh]] when famished 100; of [[Visva mitra,|Viśvāmitra,]] who proceeded to take the haunch of a dog from the hands of a [[Candāla,|Cāṇḍāla,]] 100; of Vyāsa, who, when on the point of cursing [[Kasi,|Kāśī,]] was ordered by [[Siva|Śiva]] who had assumed the form of an householder not to enter [[Kasi|Kāśī]] except on the 8th and 14th tithis, 638-639
+Story, of Ajīgarta, who agreed to slay [[bis|his]] own son when famished 100; of Bharadvāja, who, when famished, accepted many cows from Bṛbu, a carpenter 100; of Ekata, Dvita and Trita, 11, 11n; of the birth of Yama and Yamī from Vivasvat 198; of Indradyumna, 694-695; of Kavaṣa and Sarasvatī 558-559, 680; of Naciketas 384n; of Nimi who performed śrāddha for his predeceased son 364; of Pauṇḍraka Vāsudeva, who challenged Kṛṣṇa with the help of king of Kāśī 622; of Sagara's sons reduced to ashes by the wrath of Kapila 595; of 'saptavyādhas' 445n; of Śunaḥśepa 274; of ten Viśve-devas to be invoked in five classes of śrāddhas 457n; of Tulādhāra and Jājali 570; of Uṣasti Cākrāyaṇa and his partaking of forbidden food 100, 681; of Vāmadeva, who desired to eat dog-flesh when famished 100; of Viśvāmitra, who proceeded to take the haunch of a dog from the hands of a Cāṇḍāla, 100; of Vyāsa, who, when on the point of cursing Kāśī, was ordered by Śiva who had assumed the form of an householder not to enter Kāśī except on the 8th and 14th tithis, 638-639
 
-[[Striparva|Strīparva]] 223
+Strīparva 223
 
-[[Sudarsana,|Sudarśana,]] commentator of [[Ap. gr|Āp. gṛ]] 472
+Sudarśana, commentator of Āp. gṛ 472
 
-[[Suddhi|Śuddhi]] (re-conversion) modern [[move ment|movement]] of, for taking back those converted by force, fraud or [[other wise,|otherwise,]] 118
+Śuddhi (re-conversion) modern movement of, for taking back those converted by force, fraud or otherwise, 118
 
-[[Suddhi,|Śuddhi,]] see under [['sasauca',|'āśauca',]] [['purity.' sauca';|'purity', 'śauca';]] āśauca most important subject under 267; comprehensive term including purification after [[āsauca,|āśauca,]] purification of a person after contact with an impure object or person or certain evil occurrences and purification of food, pots, wells, temples &c. after they are deemed to be polluted 267; emphasis on, laid as early as [[Rgveda|Ṛgveda]] 310; is an attribute, acc. to [[Suddhiviveka,|Śuddhiviveka,]] that confers a capacity or privilege for the performance of all dharmas 269; literature on, is very extensive 270; Manu divides it into two, viz. [[suddhi|śuddhi]] after death ([[pretasuddhi|pretaśuddhi]]) and [[s|ś.]] of things ([[dravyasuddhi|dravyaśuddhi]]) 267, 309; means of purification 315-316; of dravya, is of two [[kiads,|kinds,]] viz. purification of the body and of an external object 309; [[und destrous|one desirous]] of, should perform [[Payituresti|Pavitreṣṭi]] 312; [[smrtis|smṛtis]] contain extremely [[contradic tory|contradictory]] dicta, particularly on periods of impurity, with the result [[rebat the|that the]]
+Śuddhi, see under [['sasauca',|'āśauca',]] 'purity', 'śauca'; āśauca most important subject under 267; comprehensive term including purification after āśauca, purification of a person after contact with an impure object or person or certain evil occurrences and purification of food, pots, wells, temples &c. after they are deemed to be polluted 267; emphasis on, laid as early as Ṛgveda 310; is an attribute, acc. to Śuddhiviveka, that confers a capacity or privilege for the performance of all dharmas 269; literature on, is very extensive 270; Manu divides it into two, viz. śuddhi after death (pretaśuddhi) and ś. of things (dravyaśuddhi) 267, 309; means of purification 315-316; of dravya, is of two [[kiads,|kinds,]] viz. purification of the body and of an external object 309; [[und destrous|one desirous]] of, should perform [[Payituresti|Pavitreṣṭi]] 312; smṛtis contain extremely contradictory dicta, particularly on periods of impurity, with the result [[rebat the|that the]]
 
-[[P908]]Mit. remarks that the usages in its day were altogether different from those in the [[smrtis|smṛtis]] 270
+[[P908]]Mit. remarks that the usages in its day were altogether different from those in the smṛtis 270
 
-[[Suddhicandrikā,|Śuddhicandrikā,]] com. on [[Sadasiti|Saḍaśīti]] 270; by [[Vinayaka|Vināyaka]] alias [[Nandapandita|Nandapaṇḍita]] 273, 276n, 295n
+Śuddhicandrikā, com. on Saḍaśīti 270; by Vināyaka alias Nandapaṇḍita 273, 276n, 295n
 
-[[Suddhikaumudi|Śuddhikaumudī]] of Govindānanda 212n, 264n, 267, 269n, 270n, 273, 277, 296, 306, 313n, 317n, 318n, 322n, 323n, 324n, 326n, 328n, 332n
+Śuddhikaumudī of Govindānanda 212n, 264n, 267, 269n, 270n, 273, 277, 296, 306, 313n, 317n, 318n, 322n, 323n, 324n, 326n, 328n, 332n
 
-[[Suddhimayūkha|Śuddhimayūkha]] of [[Nilakantha|Nīlakaṇṭha]] 273
+Śuddhimayūkha of Nīlakaṇṭha 273
 
-[[Suddhipañji,296n|Śuddhipañjī, 296n]]
+Śuddhipañjī, 296n
 
-[[Suddhiprakasa|Śuddhiprakāśa]] (part of [[Viramitrodaya|Vīramitrodaya]]) 182, 183, 185n, 187n, [[2120,|212n,]] 217, 218, 219n, 222n, 224, 225, 226n, 227, 229, 237, 262n, 263, 267n, 273, 275n, 278n, 282n, 284, 285n, 290n, 291n, 292n, 293n, 294n, 296, 299, 300n, 301, 304n, 311, 313n, 317n, 322n, 323n, 324n, 326, 327n, 330, 332n, 348, 540n, 541
+Śuddhiprakāśa (part of Vīramitrodaya) 182, 183, 185n, 187n, [[2120,|212n,]] 217, 218, 219n, 222n, 224, 225, 226n, 227, 229, 237, 262n, 263, 267n, 273, 275n, 278n, 282n, 284, 285n, 290n, 291n, 292n, 293n, 294n, 296, 299, 300n, 301, 304n, 311, 313n, 317n, 322n, 323n, 324n, 326, 327n, 330, 332n, 348, 540n, 541
 
 [[Suddhiếrāddha|Śuddhiśrāddha]] 382
 
-[[Suddhitattva|Śuddhitattva]] of Raghunandana, 186n, [[1870,|187n,]] 238, 256n, 265n, 273, 282, 290n, 295, 296, 299, 306
+Śuddhitattva of Raghunandana, 186n, [[1870,|187n,]] 238, 256n, 265n, 273, 282, 290n, 295, 296, 299, 306
 
-[[Suddhiviveka|Śuddhiviveka]] of Rudradhara 269, 285, 306, 319n
+Śuddhiviveka of Rudradhara 269, 285, 306, 319n
 
-[[Sūdra,|Śūdra,]] see under [['samskāras';|'saṁskāras';]] could drink any kind of intoxicant without incurring sin 21; could not drink [[pancagavya|pañcagavya]] in early times, though allowed to drink without mantras in medieval works 142; disability of a śūdra who does not wait upon or serve a dvija 50; how to perform japa for removal of sin 49; [[boma.|homa]] could be performed for, in ordinary fire through a [[brāhmana,|brāhmaṇa,]] acc. to some digests 78; [[prayascitta|prāyaścitta]] for killing a crow, [[hamsa,|haṁsa,]] dog or the like same as for killing a [[sūdra|śūdra]] 110; [[prayascitta|prāyaścitta]] for, was only 1/4th of that for a [[brāhmana|brāhmaṇa]] sinner, except as to offences of violence against a dvija 81
+Śūdra, see under 'saṁskāras'; could drink any kind of intoxicant without incurring sin 21; could not drink pañcagavya in early times, though allowed to drink without mantras in medieval works 142; disability of a śūdra who does not wait upon or serve a dvija 50; how to perform japa for removal of sin 49; [[boma.|homa]] could be performed for, in ordinary fire through a brāhmaṇa, acc. to some digests 78; prāyaścitta for killing a crow, haṁsa, dog or the like same as for killing a śūdra 110; prāyaścitta for, was only 1/4th of that for a brāhmaṇa sinner, except as to offences of violence against a dvija 81
 
-[[Sūdrakamalakara|Śūdrakamalākara]] 142, 364n, 477n
+Śūdrakamalākara 142, 364n, 477n
 
-Sugatisopāna of [[Pratihastaka|Pratīhastaka]] 486
+Sugatisopāna of Pratīhastaka 486
 
-Suicide, 604-613; see under [['sati';|'satī';]] Alberuni's remarks on religious s. 610; by starting on the Great Journey ([[mahāprasthanagamana|mahāprasthānagamana]]) or by [[fall ing|falling]] in fire or from a precipice [[for bidden|forbidden]] in Kali age 302, 308; [[Dhar masastra|Dharmaśāstra]] writers generally condemn [[5.|s.]] as a great sin 604; divergent views of [[Harita|Hārīta]] and Manu as to allowing [[s,|s.]] as a [[prāyascitta|prāyaścitta]] for grave sins like incest 604; every kind of s. was not condemned by the ancient [[smrtis|smṛtis]] 525; exceptions to the [[con demnation|condemnation]] of suicide are found in the epics, [[smrtis|smṛtis]] and [[puranas|purāṇas]] 302, 525, 604-605; five meritorious kinds of suicide mentioned in Ain-i-Akbari 605n; gradually there was a revulsion of feeling against suicide at Prayāga or other [[tirthas|tīrthas]] and against starting on the Great Journey in the [[Hima laya|Himālaya]] 608; great poets like [[Kalidasa|Kālidāsa]] believed that those who killed [[them selves|themselves]] at Prayāga or [[Vata|Vaṭa]] became free from the cycle of births and deaths even though they had not correct knowledge of the Supreme Reality 605; historical examples of kings committing religious suicide at holy places 605; householder was allowed to commit s. even if all right, by fall, or fire or drowning if his life's work was done, or if he does not desire the pleasures of life and is a [[Vedantin|Vedāntin]] 604; important verse found in Vanaparva and some purāṇas relied upon for the approval of religious suicide at Prayāga 606; [[Kūrma-purana|Kūrma-purāṇa]] recommends four modes of religious s. and promises residence in heaven for thousands of years 607; an old man or a man unable to observe rules of bodily purification or a man so ill as to be beyond medical skill was allowed by some [[s|smṛtis]] to kill himself by jumping from [[P909]]precipice or by fire or by drowning or fasting or jumping from [[Vața|Vaṭa]] tree at [[Prayaga|Prayāga]] 604; one who, knowingly or unknowingly, wilfully or [[unintention ally,|unintentionally,]] dies in the Ganges, secures on death heaven and [[moksa|mokṣa]] (according to [[l'adma)|Padma)]] 607; psychology behind religious s. 611; religious suicide at [[Purusottama|Puruṣottama]] is referred to in [[Brah mapurana|Brahmapurāṇa]] 701; religious suicide was allowed at [[Prayaga|Prayāga,]] or at the [[Vata|Vaṭa]] there or at some other [[tirtbas|tīrthas]] 604, 608; some medieval digests allowed religious s. to all [[varnas|varṇas]] while [[Tirtha prakāsa|Tīrthaprakāśa]] restricts it to members of castes other than the first 609; some [[smrtis,|smṛtis,]] the [[Mahabharata|Mahābhārata]] and some [[Puranas|Purāṇas]] do recommend religious s. at [[Prayaga|Prayāga]] and other holy places 607-608; some writers of medieval times combat the view that religious s. is permitted 608-609; [[Tristbalisetu|Tristhalīsetu]] refuses authority to commit s. at Prayāga to any person abandoning his old parents, young wife and children and to women who are pregnant or have young children or have no permission from husband 609; wife was allowed to die on her husband's death by sahagamana or [[апиталана|anumaraṇa]] 604
+Suicide, 604-613; see under 'satī'; Alberuni's remarks on religious s. 610; by starting on the Great Journey (mahāprasthānagamana) or by falling in fire or from a precipice forbidden in Kali age 302, 308; Dharmaśāstra writers generally condemn [[5.|s.]] as a great sin 604; divergent views of Hārīta and Manu as to allowing s. as a prāyaścitta for grave sins like incest 604; every kind of s. was not condemned by the ancient smṛtis 525; exceptions to the condemnation of suicide are found in the epics, smṛtis and purāṇas 302, 525, 604-605; five meritorious kinds of suicide mentioned in Ain-i-Akbari 605n; gradually there was a revulsion of feeling against suicide at Prayāga or other tīrthas and against starting on the Great Journey in the Himālaya 608; great poets like Kālidāsa believed that those who killed themselves at Prayāga or Vaṭa became free from the cycle of births and deaths even though they had not correct knowledge of the Supreme Reality 605; historical examples of kings committing religious suicide at holy places 605; householder was allowed to commit s. even if all right, by fall, or fire or drowning if his life's work was done, or if he does not desire the pleasures of life and is a Vedāntin 604; important verse found in Vanaparva and some purāṇas relied upon for the approval of religious suicide at Prayāga 606; Kūrma-purāṇa recommends four modes of religious s. and promises residence in heaven for thousands of years 607; an old man or a man unable to observe rules of bodily purification or a man so ill as to be beyond medical skill was allowed by some [[s|smṛtis]] to kill himself by jumping from [[P909]]precipice or by fire or by drowning or fasting or jumping from Vaṭa tree at Prayāga 604; one who, knowingly or unknowingly, wilfully or unintentionally, dies in the Ganges, secures on death heaven and mokṣa (according to [[l'adma)|Padma)]] 607; psychology behind religious s. 611; religious suicide at Puruṣottama is referred to in Brahmapurāṇa 701; religious suicide was allowed at Prayāga, or at the Vaṭa there or at some other [[tirtbas|tīrthas]] 604, 608; some medieval digests allowed religious s. to all varṇas while Tīrthaprakāśa restricts it to members of castes other than the first 609; some smṛtis, the Mahābhārata and some Purāṇas do recommend religious s. at Prayāga and other holy places 607-608; some writers of medieval times combat the view that religious s. is permitted 608-609; [[Tristbalisetu|Tristhalīsetu]] refuses authority to commit s. at Prayāga to any person abandoning his old parents, young wife and children and to women who are pregnant or have young children or have no permission from husband 609; wife was allowed to die on her husband's death by sahagamana or [[апиталана|anumaraṇa]] 604
 
 [[Sūlapāṇi 1041|Śūlapāṇi 104n]]
 
 Sumantu 18n, 80, 258, 350, 415, 616n
 
-Surā, [[ksatriyas|kṣatriyas]] and [[vaisyas|vaiśyas]] incurred no sin by drinking any intoxicant other than [[sura|surā]] prepared from flour 97; meaning of, 20-21; sharply [[dis tinguished|distinguished]] from Soma 20; [[sudra|śūdra]] [[in curred|incurred]] no sin by drinking even [[sura|surā]] prepared from flour 97-98; [[uniuitiat ed|uninitiated]] boys and unmarried girls had to undergo [[ith|1/4th]] [[prayascitta|prāyaścitta]] (i.e. 3 years) for drinking surā and, if intentionally done, for six years 98; word, occurs in the [[Rgveda|Ṛgveda]] 20
+Surā, kṣatriyas and vaiśyas incurred no sin by drinking any intoxicant other than surā prepared from flour 97; meaning of, 20-21; sharply distinguished from Soma 20; śūdra incurred no sin by drinking even surā prepared from flour 97-98; [[uniuitiat ed|uninitiated]] boys and unmarried girls had to undergo [[ith|1/4th]] prāyaścitta (i.e. 3 years) for drinking surā and, if intentionally done, for six years 98; word, occurs in the Ṛgveda 20
 
-[[Suracāndrāyana|Surācāndrāyaṇa]] 151
+Surācāndrāyaṇa 151
 
-Surāpāna (drinking of surā) 20-22; a mahāpātaka, when 20; alternative [[prāyascitta|prāyaścitta]] for 96-97; forbidden to boys whose upanayana [[bas|has]] not been performed and to unmarried girls 21; means taking surā down the gullet and not merely touching it with the lips 22; [[prāyascitta|prāyaścitta]] for [[ksatriya|kṣatriya]] or [[vaisya|vaiśya]] guilty of 97; twelve years' prāyaścitta for, is meant for one who drinks surā (from flour) through ignorance or force 97
+Surāpāna (drinking of surā) 20-22; a mahāpātaka, when 20; alternative prāyaścitta for 96-97; forbidden to boys whose upanayana [[bas|has]] not been performed and to unmarried girls 21; means taking surā down the gullet and not merely touching it with the lips 22; prāyaścitta for kṣatriya or vaiśya guilty of 97; twelve years' prāyaścitta for, is meant for one who drinks surā (from flour) through ignorance or force 97
 
-[[Sūrasena,|Śūrasena,]] country, the capital of which was Mathurā 682n
+Śūrasena, country, the capital of which was Mathurā 682n
 
-Sureśvara, author of [[Kāsimrtimokṣa vicāra|Kāśīmṛtimokṣavicāra]] 614
+Sureśvara, author of Kāśīmṛtimokṣavicāra 614
 
 [[Susruta 4150|Suśruta 415n]]
 
-Sūtaka, employed in the Ait. Br. 269; three meanings of, in [[smrtis,|smṛtis,]] viz. (1) impurity on birth, (2) impurity on death alone, (3) impurity on both birth and death 269
+Sūtaka, employed in the Ait. Br. 269; three meanings of, in smṛtis, viz. (1) impurity on birth, (2) impurity on death alone, (3) impurity on both birth and death 269
 
 Suttanipāta 176, 550n, 707
 
-[[Suvarna,|Suvarṇa,]] meaning of 23, 129, 139n
+Suvarṇa, meaning of 23, 129, 139n
 
-[[Suvarnakrcchra|Suvarṇakṛcchra]] 151
+Suvarṇakṛcchra 151
 
-Suvāstu (modern Swat), a river [[men tioned|mentioned]] in the [[Rgveda|Ṛgveda]] 534
+Suvāstu (modern Swat), a river mentioned in the Ṛgveda 534
 
-Svarga, actions that lead to, [[enume rated|enumerated]] in [[Anusasanaparva|Anuśāsanaparva]] 166; [[an cient|ancient]] astronomical works located svarga thousands of yojanas above earth 168; description of the [[plea sures|pleasures]] of 165-166; definition of svarga in an [[oft quoted|oft-quoted]] verse 169-170; great drawback is that no new merit is accumulated there and that when the store of merit is exhausted one has to fall down from heaven and to be born again 166; is a place for those who die in battle 165; is not directly seen by any one, but one has to believe in its existence 170; means unsurpassed joy in another life, according to [[Sabara,|Śabara,]] Kumārila and a few others 169; [[vary ing|varying]] views about what is meant by 168-170; Vedas, [[smrtis|smṛtis]] and [[purānas|purāṇas]] hold view that [[s,|s.]] is a place above the earth 168
+Svarga, actions that lead to, enumerated in Anuśāsanaparva 166; ancient astronomical works located svarga thousands of yojanas above earth 168; description of the pleasures of 165-166; definition of svarga in an oft-quoted verse 169-170; great drawback is that no new merit is accumulated there and that when the store of merit is exhausted one has to fall down from heaven and to be born again 166; is a place for those who die in battle 165; is not directly seen by any one, but one has to believe in its existence 170; means unsurpassed joy in another life, according to Śabara, Kumārila and a few others 169; varying views about what is meant by 168-170; Vedas, smṛtis and purāṇas hold view that s. is a place above the earth 168
 
-[[Svargarohanika-parva|Svargārohaṇika-parva]] 164
+Svargārohaṇika-parva 164
 
 [[P910]]Sven Hedin 760
 
-[[Svistakrt|Sviṣṭakṛt]] 357n
+Sviṣṭakṛt 357n
 
 Syrians, customs of, about impurity on death 309
 
@@ -2350,125 +2349,125 @@ Tabus (or taboos), most important in all ancient and modern primitive societies 
 
 Tagore 552n
 
-[[Taittiriya Aranyaka|Taittirīya Āraṇyaka]] 43, 45n, 112, 113, 146, 155, 184n, 191n, 200n, 211, 212, 227n, 230, 242, 245n, 246, 252, 304, 369, 384n, 441, 469n, 488, 496n, 540, 543, 681, 736, 768
+Taittirīya Āraṇyaka 43, 45n, 112, 113, 146, 155, 184n, 191n, 200n, 211, 212, 227n, 230, 242, 245n, 246, 252, 304, 369, 384n, 441, 469n, 488, 496n, 540, 543, 681, 736, 768
 
-[[Taittiriya Brāhmaṇa|Taittirīya Brāhmaṇa]] 11, 37n, 38, 40, 62n, 69, 122, 133, 137, 157, 184n, 189n, 230, 254, 266, 275, 329, 342, 343, 345, 365, 384n, 394n, 409n, 426n, 427, 428, 433, 434n, 446n, 462n, 472, 543, 680
+Taittirīya Brāhmaṇa 11, 37n, 38, 40, 62n, 69, 122, 133, 137, 157, 184n, 189n, 230, 254, 266, 275, 329, 342, 343, 345, 365, 384n, 394n, 409n, 426n, 427, 428, 433, 434n, 446n, 462n, 472, 543, 680
 
-[[Taittiriya-Prātisakhya|Taittirīya-Prātiśākhya]] 45
+Taittirīya-Prātiśākhya 45
 
-[[Taittiriya-samhitā|Taittirīya-saṁhitā]] 10, 20, 37, 43n, 44n, 45n, 46n, 48, 52, 57, 62n, 63, 69, 110n, 124n, 133, 145, 155n, 157, 159, 160, 168n, 197n, 201, 229, 230, 266, 309, 345, 347n, 348, 352, 353, 365, 384, 409n, 419, 426, 428n, 433, 435n, 439, 441, 442, 444, 447, 450n, 452, 460, 466n, 468, 472, 476, 477n, 497n, 499n, 539n, 540, 543, 546, 550n, 554, 555, 593n, 607n
+Taittirīya-saṁhitā 10, 20, 37, 43n, 44n, 45n, 46n, 48, 52, 57, 62n, 63, 69, 110n, 124n, 133, 145, 155n, 157, 159, 160, 168n, 197n, 201, 229, 230, 266, 309, 345, 347n, 348, 352, 353, 365, 384, 409n, 419, 426, 428n, 433, 435n, 439, 441, 442, 444, 447, 450n, 452, 460, 466n, 468, 472, 476, 477n, 497n, 499n, 539n, 540, 543, 546, 550n, 554, 555, 593n, 607n
 
-[[Taittiriya-Upanisad|Taittirīya-Upaniṣad]] 8, 158, 614
+Taittirīya-Upaniṣad 8, 158, 614
 
-[[Tāndya-brāhmana,|Tāṇḍya-brāhmaṇa,]] 62n, 69, 557, 768
+Tāṇḍya-brāhmaṇa, 62n, 69, 557, 768
 
 Tantra, meaning of, 440n
 
 Tantravārtika, 20n, 387n, 453n, 687n
 
-Tapas, see fast; as a means of removing consequences of sins 42-43; means [[' niyamas|'niyamas']] (restraint or strict observances) 400n; periods for which it is to be practised 43; what constitutes 42, 54
+Tapas, see fast; as a means of removing consequences of sins 42-43; means 'niyamas' (restraint or strict observances) 400n; periods for which it is to be practised 43; what constitutes 42, 54
 
-[[Taptakrcchra,|Taptakṛcchra,]] expiation for [[brāh manas|brāhmaṇas]] for selling things and animals that should not be sold by them 117; great divergence of views about 138-139
+Taptakṛcchra, expiation for brāhmaṇas for selling things and animals that should not be sold by them 117; great divergence of views about 138-139
 
-Tāraka, mantra variously explained as om or the mantra [[' Sri-Rāma-Rāma-|'Śrī-Rāma-Rāma-]] [[Rāmeti '|Rāmeti']] 613n, 614, 635
+Tāraka, mantra variously explained as om or the mantra 'Śrī-Rāma-Rāma- Rāmeti' 613n, 614, 635
 
-[[Tarpana|Tarpaṇa]] (satiating with water) 120, 133; if one cannot perform an [[elabo rate|elaborate]] t., one may offer three handfuls of water with sesame and kuśas and the three mantras from [[Vāyupurana|Vāyupurāṇa]] 120, 592n; is either principal or subsidiary ([[anga),|aṅga),]] the first being performed every day by a dvija householder for gods, sages and [[pitrs|pitṛs]] and the second as part of snāna or of [[bralmayajña|brahmayajña]] 592n; [[sannyasin|sannyāsin]] has not to do it but a widow has to perform it for her husband and his relatives 592n; must be done, even if day be not auspicious, at a [[tirtha,|tīrtha,]] in Gayā, in the dark half of [[Bhadrapada|Bhādrapada]] with water mixed with sesame 592n; one whose father is living has not to perform [[tarpana|tarpaṇa]] 592n; was called [[pitryajña|pitṛyajña]] by Manu 369; water is poured with both hands in t. 592n
+Tarpaṇa (satiating with water) 120, 133; if one cannot perform an elaborate t., one may offer three handfuls of water with sesame and kuśas and the three mantras from Vāyupurāṇa 120, 592n; is either principal or subsidiary (aṅga), the first being performed every day by a dvija householder for gods, sages and pitṛs and the second as part of snāna or of [[bralmayajña|brahmayajña]] 592n; sannyāsin has not to do it but a widow has to perform it for her husband and his relatives 592n; must be done, even if day be not auspicious, at a tīrtha, in Gayā, in the dark half of Bhādrapada with water mixed with sesame 592n; one whose father is living has not to perform tarpaṇa 592n; was called pitṛyajña by Manu 369; water is poured with both hands in t. 592n
 
-[[Tattvarthakaumudi,|Tattvārthakaumudī,]] com. on [[Prāya Tattvartha scitta-viveka|Prāyaścitta-viveka]] 266n
+Tattvārthakaumudī, com. on [[Prāya Tattvartha scitta-viveka|Prāyaścitta-viveka]] 266n
 
 Tātparyadarśana, com. on [[Ap. gp|Āp. gṛ]] 354n
 
 Taulvali, views of, on [[śrāddba|śrāddha]] 511
 
-Teacher, a [[brābniana|brāhmaṇa]] who is t. for hire or who is taught by a hired t, or whose teacher is a [[sudra|śūdra]] is unfit to be invited at a [[sraddha|śrāddha]] 393
+Teacher, a [[brābniana|brāhmaṇa]] who is t. for hire or who is taught by a hired t, or whose teacher is a śūdra is unfit to be invited at a śrāddha 393
 
-Temples, see under [['polluted', 'puri fication,' 'purity';|'polluted', 'purification', 'purity';]] are holy 560; throwing open of, to all people held to be untouchable, by Legislative action in Bombay and C. P. 320-321
+Temples, see under 'polluted', 'purification', 'purity'; are holy 560; throwing open of, to all people held to be untouchable, by Legislative action in Bombay and C. P. 320-321
 
 Text, nothing too heavy for a text 66n
 
 Theft, see 'steya'; punishment for, was death in some cases 69; misappropriation of deposit was like t. and misappropriator was punished as a thief and had to return deposit or its price 72; person guilty of, had to restore thing stolen or its
 
-[[P911]]price 74, 102; person guilty of, approached king with club 73, 101; [[prayascitta|prāyaścitta]] for, was to be double if the thief could not restore thing stolen or its price 102; [[prāyascitta|prāyaścitta]] and punishment for, were same in some cases 73-74
+[[P911]]price 74, 102; person guilty of, approached king with club 73, 101; prāyaścitta for, was to be double if the thief could not restore thing stolen or its price 102; prāyaścitta and punishment for, were same in some cases 73-74
 
-Thomas, Dr. F. [[W,|W.,]] editor of [[Bārhas patya-sūtra|Bārhaspatya-sūtra]] 679; volume of Indian and Eastern studies presented to, 648n
+Thomas, Dr. F. W., editor of Bārhaspatya-sūtra 679; volume of Indian and Eastern studies presented to, 648n
 
-Tilas, four kinds of, 419; great importance of the use of, in [[sraddha|śrāddha]] 418-419; supposed to have sprung from body of [[Visnu|Viṣṇu]] 419
+Tilas, four kinds of, 419; great importance of the use of, in śrāddha 418-419; supposed to have sprung from body of Viṣṇu 419
 
-Tilak, author of 'Arctic Home in the Vedas' 192n; far-fetched explanation of Navagvas and [[Dasagvas|Daśagvas]] by, 192n
+Tilak, author of 'Arctic Home in the Vedas' 192n; far-fetched explanation of Navagvas and Daśagvas by, 192n
 
-Time, for any religious act is of two kinds, mukhya (principal or proper) and [[gauna|gauṇa]] (inferior) 377; in conflict between proper time for a religious act and the complete means or materials for it the former should be preferred 377
+Time, for any religious act is of two kinds, mukhya (principal or proper) and gauṇa (inferior) 377; in conflict between proper time for a religious act and the complete means or materials for it the former should be preferred 377
 
-[[Tirtbacintamani|Tīrthacintāmaṇi]] of [[Vacaspati,|Vācaspati,]] 563n, 566n, 567n, [[56,|568,]] 570, 572n, 573n, 574, 576, 577n, 579, 582, 584, 586n, 587n, 588n, 589n, 590n, 595, 596n, 601n, 602, 609, 616n, 628n, 629, 631n, [[6331,|633n,]] 648n, [[6520,|652n,]] [[6620,|662n,]] 667n, 668n, 672-673n, 674n, 675n, 699n, 700, 701n
+[[Tirtbacintamani|Tīrthacintāmaṇi]] of Vācaspati, 563n, 566n, 567n, [[56,|568,]] 570, 572n, 573n, 574, 576, 577n, 579, 582, 584, 586n, 587n, 588n, 589n, 590n, 595, 596n, 601n, 602, 609, 616n, 628n, 629, 631n, [[6331,|633n,]] 648n, [[6520,|652n,]] [[6620,|662n,]] 667n, 668n, 672-673n, 674n, 675n, 699n, 700, 701n
 
-[[Tirthakalpataru|Tīrthakalpataru]] of [[Laksmidhara,|Lakṣmīdhara,]] 561n, 562n, 563n, 565, 566n, 567n, 570n, 572n, 573, 575, 577n, 578n, 579, 582, 584, 587n, 589n, 599, 601, 607n, 608, 613n, 616n, 629n, 630n, 637 (takes no notice of [[Pancakrosī|Pañcakrośī]] pilgrimage at [[Kaśi).|Kāśī),]] 639n, [[6410,|641n,]] 651, [[653 n,|653n,]] 668n, [[683 n,|683n,]] [[6840,|684n,]] 685n
+Tīrthakalpataru of Lakṣmīdhara, 561n, 562n, 563n, 565, 566n, 567n, 570n, 572n, 573, 575, 577n, 578n, 579, 582, 584, 587n, 589n, 599, 601, 607n, 608, 613n, 616n, 629n, 630n, 637 (takes no notice of Pañcakrośī pilgrimage at Kāśī), 639n, [[6410,|641n,]] 651, 653n, 668n, 683n, [[6840,|684n,]] 685n
 
-[[Tirtha-prakāśa,|Tīrtha-prakāśa,]] 10, 560n, [[5610,|561n,]] 562n, 565n, 567, 568, 569n, 570, [[5720, 3n,|572n, 573n,]] 574, 575, 576, 577, 578n, 579, 582, 595, [[596,|596n,]] 601, 609n, 612, 627n, 628n, 633, [[6550,|655n,]] 662n, 683, 684n
+Tīrtha-prakāśa, 10, 560n, [[5610,|561n,]] 562n, 565n, 567, 568, 569n, 570, [[5720, 3n,|572n, 573n,]] 574, 575, 576, 577, 578n, 579, 582, 595, [[596,|596n,]] 601, 609n, 612, 627n, 628n, 633, [[6550,|655n,]] 662n, 683, 684n
 
-[[Tirtharatnākara|Tīrtharatnākara]] of [[Anantabhatta,|Anantabhaṭṭa,]] probably the largest work on [[tirthas,|tīrthas,]] is yet in Ms. at Bikaner, 582
+Tīrtharatnākara of Anantabhaṭṭa, probably the largest work on tīrthas, is yet in Ms. at Bikaner, 582
 
-Tirthas, forests, mountains, holy rivers and t. have no owner and cannot be possessed by a person as owner 590; do not occupy a prominent place in the sūtras, in Manu and [[Yaj,|Yāj.,]] but are highly lauded in [[Maha bharata|Mahābhārata]] and [[Purānas|Purāṇas]] and declared superior to sacrifices in several [[res pects|respects]] 561-562; Literature on t., is far more extensive than on any other topic of [[Dharmasastra|Dharmaśāstra]] 581-582
+Tirthas, forests, mountains, holy rivers and t. have no owner and cannot be possessed by a person as owner 590; do not occupy a prominent place in the sūtras, in Manu and Yāj., but are highly lauded in Mahābhārata and Purāṇas and declared superior to sacrifices in several respects 561-562; Literature on t., is far more extensive than on any other topic of Dharmaśāstra 581-582
 
-[[Tirthasāra|Tīrthasāra]] (part of [[Nrsimhaprasada)|Nṛsiṁhaprasāda)]] deals mostly with [[tirthas|tīrthas]] in the Deccan and Southern India, [[565,582,|565, 582,]] 707, 717n, 718
+Tīrthasāra (part of Nṛsiṁhaprasāda) deals mostly with tīrthas in the Deccan and Southern India, 565, 582, 707, 717n, 718
 
-[[Tirthasaukhya,|Tīrthasaukhya,]] part of [[Todarānanda,|Ṭoḍarānanda,]] 582
+Tīrthasaukhya, part of Ṭoḍarānanda, 582
 
-[[Tirthatattva|Tīrthatattva]] of Raghunandana 582
+Tīrthatattva of Raghunandana 582
 
-[[Tirthendusekhara|Tīrthenduśekhara]] of [[Nāgesa,|Nāgeśa,]] 575, 582
+Tīrthenduśekhara of Nāgeśa, 575, 582
 
-[[Tirthayātrā|Tīrthayātrā]] (pilgrimage to holy places) 552-722; see 'Gayā', 'tīrtha', 'woman', 'tonsure'; advantages of t. to the community and to the individual pilgrim 553; all religions lay great emphasis on the sanctity of certain places and enjoin pilgrimages to them 552; ancient [[Dharmasastra|Dharmaśāstra]] works lay emphasis on visits to [[tīrtba|tīrtha]] because of the benefits derived therefrom 553; as a means of removing the consequences of sins, 55-56; [[brāhmana|brāhmaṇa]] born and bred at a [[tirtha|tīrtha]] like Mathurā or Gayā should be preferred to a stranger, though the latter may have mastered all the Vedas 579; [[brahmana|brāhmaṇa]] should wander about [[tirthas|tīrthas]] acc. to [[Brahmapurana|Brahmapurāṇa]] after his capacity to perform yajñas has come to an end 570; classification of [[tirthas|tīrthas]] into four, [[vizoru,|viz.]] daiva, (established by gods), asura (associated with asuras [[libe Gaya).|like Gayā),]] [[ārsa|ārṣa]] (established by sages such as Prabhāsa) and [[Mānusa Testablished|Mānuṣa (established]] by kings like Manu, [[siku nugrien567;|Kuru etc.) 567;]]
+Tīrthayātrā (pilgrimage to holy places) 552-722; see 'Gayā', 'tīrtha', 'woman', 'tonsure'; advantages of t. to the community and to the individual pilgrim 553; all religions lay great emphasis on the sanctity of certain places and enjoin pilgrimages to them 552; ancient Dharmaśāstra works lay emphasis on visits to [[tīrtba|tīrtha]] because of the benefits derived therefrom 553; as a means of removing the consequences of sins, 55-56; brāhmaṇa born and bred at a tīrtha like Mathurā or Gayā should be preferred to a stranger, though the latter may have mastered all the Vedas 579; brāhmaṇa should wander about tīrthas acc. to Brahmapurāṇa after his capacity to perform yajñas has come to an end 570; classification of tīrthas into four, [[vizoru,|viz.]] daiva, (established by gods), asura (associated with asuras [[libe Gaya).|like Gayā),]] ārṣa (established by sages such as Prabhāsa) and [[Mānusa Testablished|Mānuṣa (established]] by kings like Manu, [[siku nugrien567;|Kuru etc.) 567;]]
 
-[[P912]][[dbarmas|dharmas]] common to all men include truthfulness, restraint of mind, charity, [[ahimsã|ahiṁsā]] and t. 553-554; digests on [[tirthas|tīrthas]] follow a process of selection, i. e. each describes only a few [[tirtbas|tīrthas]] known to it 565; [[diges's|digests]] have a tendency to make every religious act more elaborate and harder 573; fast at a [[tirtha|tīrtha]] is optional according to Kalpataru but if observed it confers special rewards 473, 584; five classes of people do not reap the rewards of pilgrimage 563; four places of [[pil grimage|pilgrimage]] for Buddhists 552; fourteen acts which a pilgrim had to give up after reaching the Ganges or other [[tirtha|tīrtha]] 578; held superior to Vedic sacrifices in several respects by the [[Mahābbārata|Mahābhārata]] and [[Purānas|Purāṇas]] 561-562; honouring the [[pitrs|pitṛs]] at the time of starting on [[t,|t.]] is specially obligatory on rich men 574; house-holder whose wife is chaste must go on a pilgrimage with her, otherwise he would not reap the fruit of t. 568; idea in the [[Mahabharata|Mahābhārata]] and some [[Purānas|Purāṇas]] was that [[t|t.]] may help those who have no high moral qualities in removing their sins while those that possess moral qualities gain a great store of merit by t. 562-563; [[kārpati-vesa|kārpaṭī-veṣa]] on t. 573; large rivers, mountains and forests have always been venerated in India as sacred and as the abodes of gods 552; literature on, is more [[exten sive|extensive]] than on any other single topic of [[Dbarmasastra|Dharmaśāstra]] 580-582; [[Mabā bhārata|Mahābhārata]] lays the greatest emphasis on the cultivation of high moral and spiritual qualities if the full reward of [[t,|t.]] is to be reaped 562; Mahābhārata and some purāṇas emphasize that a pure mind is the real [[tirtba|tīrtha]] and that it is better to stay at home and perform one's duties including performance of vedic sacrifices than undertaking t. 570; Mahābhārata and [[Purānas|Purāṇas]] [[con tain|contain]] at least 40000 verses on t. 582; meaning of tirtha in the [[Rgveda|Ṛgveda]] and other vedas is either 'road' or 'ford' and rarely a holy place 554; meaning of tirtha in this section 555; meaning of tirtha is sometimes extended to places where Agnihotra and [[sraddha|śrāddha]] are performed, to temples, to house where Veda is being studied, to cowpens, parks, where an [[asvattha|aśvattha]] tree exists, where a teacher stands or a chaste woman dwells 564; mode of travel, use of [[convey ances,|conveyances,]] horses, bullock carts, wearing of shoes, rules about these in [[Purānas|Purāṇas]] and digests 576-577; [[mundana|muṇḍana]] and [[ksaura|kṣaura]] distinguished 575; not only men of all [[varnas|varṇas]] but also women and even [[cāṇdālas|caṇḍālas]] have adhikāra for t. 567-568; number of [[tirthas|tīrthas]] declared by [[Vayu,|Vāyu,]] according to Matsya, Padma, [[Nāradiya|Nāradīya]] and other [[Purānas,|Purāṇas,]] is 35 millions in the sky, the aerial regions and the earth 564; number of tīrthas, acc. to [[Varābapurāṇa,|Varāhapurāṇa,]] is 60 thousand crores 564n; one should not enter upon an examination of the worth of [[brāhmanas|brāhmaṇas]] at a [[tirtha|tīrtha]] 578-579; one who wants to [[under take|undertake]] t. should pay off [[bis|his]] three debts, should provide means of maintenance for his sons and consign his wife to their care 571; rewards promised for baths at [[tirthas|tīrthas]] 727; rites to be performed when a person undertakes a [[t.572--73,|t. 572-73,]] 583; rivers in general, certain named rivers and waters are referred to with great veneration as early as [[Rgveda|Ṛgveda]] 555; sacred places for Moslems 552; [[sankalpa|saṅkalpa]] to be made at starting on t. 577; Shah [[Jeban,|Jehan,]] emperor, remitted the tax levied on pilgrims at [[Prayaga|Prayāga]] and [[Kāsi|Kāśī]] owing [[to to|to]] eloquent pleading of [[Kavindrilly cārya|Kavīndrācārya]] 571; six rivers having [[the|their]] sources in the [[Himalaya|Himālaya]] and six to the south of Vindhya are declared [[P913]]to be most holy [[devatirtbas|devatīrthas]] by [[Brahmapurana|Brahmapurāṇa]] 567; some digests state that a pilgrim has to wear the [[kārpati|kārpaṭī]] dress at all [[tirthas|tīrthas]] when he is actually travelling, while others say that he has to do so only at [[Gaya|Gayā]] 573; some purāṇas say that some virtues may be called mental [[tirthas|tīrthas]] and purity of mind is the highest [[tirtha|tīrtha]] 563; some say that tonsure and fast are necessary at all [[tirthas|tīrthas]] except at [[Kuruksetra,|Kurukṣetra,]] Viśālā, Viraja and Gayā 574; [[srāddha|śrāddha]] has to be performed at most famous [[tirthas,|tīrthas,]] but from the procedure of [[sraddha|śrāddha]] are omitted arghya, [[āvā hana,|āvāhana,]] entering the thumb of the invited [[brahmana|brāhmaṇa]] in the food served, the question about being satiated and vikira 616; [[sraddha|śrāddha]] may be performed at any time after a pilgrim reaches the [[tirtha|tīrtha]] 616; [[sraddha|śrāddha]] at [[tirthas|tīrthas]] consists, if the whole [[pro cedure|procedure]] cannot be followed, in [[offer ing|offering]] [[pindas|piṇḍas]] of barley meal or rice cooked in milk, cake of sesame or jaggery and one should offer a single [[pinda|piṇḍa]] to all relatives after [[pārvanaśrāddha|pārvaṇaśrāddha]] and another [[pinda|piṇḍa]] for servants, slaves, cattle, trees etc, 616-617; tended to foster the idea of the fundamental unity of India and Indian culture 553; tended to level up all men by bringing them together to the same holy rivers and shrines 553; three grounds on which [[tirthas|tīrthas]] are said to be holy 554-555; tonsure and fast are not obligatory but only kāmya according to [[Kalpa taru|Kalpataru]] but otherwise according to others 573-575; t., sacrifices and various gifts are the means of [[clean sing|cleansing]] the mind 563; t. yields full fruit only if performed bare-footed 576; t. yields fruit to men of all [[varnas|varṇas]] and āśramas 563; use of bullock-cart condemned in [[Matsya purāṇa|Matsyapurāṇa]] as leading to hell and of other conveyances (not drawn by bulls) as fruitless, but Kūrma recommends to those who are unable to walk conveyances drawn by mules, horses or men 576; use of a conveyance is according to Kalpataru condemned only in pilgrimage to Prayāga 576; use of a vessel allowed 577; view that the [[institu tion|institution]] of t. was first started by Buddhists and Jains is wrong 558; was deemed very early to be a way of redemption of sins for men and women 569; was favoured by writers on [[Dharmasastra|Dharmaśāstra]] by prescribing that no money was to be demanded by a ferryman or a toll officer from a pilgrim, from a pregnant woman, from a vedic student, forest hermit or ascetic, but this was not followed even by Hindu kings 571; whether tonsure at the time of starting on a pilgrimage is obligatory 573; who are eligible for or have adhikāra for t. 567-571; widows, ascetics and [[Sudras|śūdras]] have to cut all hair on pilgrimage 575; women could not undertake t. without husband's permission 569; works on, repel by their over-statements and [[exaggera tions,|exaggerations,]] when they state that pilgrimage to a particular [[tirtha|tīrtha]] will yield all one's desires in this world and the next, that even gods secured perfection at Puṣkara, that [[Prthū daka|Pṛthūdaka]] is the holiest of [[tirthas|tīrthas]] etc. 565-566
+[[P912]][[dbarmas|dharmas]] common to all men include truthfulness, restraint of mind, charity, ahiṁsā and t. 553-554; digests on tīrthas follow a process of selection, i. e. each describes only a few [[tirtbas|tīrthas]] known to it 565; [[diges's|digests]] have a tendency to make every religious act more elaborate and harder 573; fast at a tīrtha is optional according to Kalpataru but if observed it confers special rewards 473, 584; five classes of people do not reap the rewards of pilgrimage 563; four places of pilgrimage for Buddhists 552; fourteen acts which a pilgrim had to give up after reaching the Ganges or other tīrtha 578; held superior to Vedic sacrifices in several respects by the [[Mahābbārata|Mahābhārata]] and Purāṇas 561-562; honouring the pitṛs at the time of starting on t. is specially obligatory on rich men 574; house-holder whose wife is chaste must go on a pilgrimage with her, otherwise he would not reap the fruit of t. 568; idea in the Mahābhārata and some Purāṇas was that t. may help those who have no high moral qualities in removing their sins while those that possess moral qualities gain a great store of merit by t. 562-563; kārpaṭī-veṣa on t. 573; large rivers, mountains and forests have always been venerated in India as sacred and as the abodes of gods 552; literature on, is more extensive than on any other single topic of [[Dbarmasastra|Dharmaśāstra]] 580-582; [[Mabā bhārata|Mahābhārata]] lays the greatest emphasis on the cultivation of high moral and spiritual qualities if the full reward of t. is to be reaped 562; Mahābhārata and some purāṇas emphasize that a pure mind is the real [[tirtba|tīrtha]] and that it is better to stay at home and perform one's duties including performance of vedic sacrifices than undertaking t. 570; Mahābhārata and Purāṇas contain at least 40000 verses on t. 582; meaning of tirtha in the Ṛgveda and other vedas is either 'road' or 'ford' and rarely a holy place 554; meaning of tirtha in this section 555; meaning of tirtha is sometimes extended to places where Agnihotra and śrāddha are performed, to temples, to house where Veda is being studied, to cowpens, parks, where an aśvattha tree exists, where a teacher stands or a chaste woman dwells 564; mode of travel, use of conveyances, horses, bullock carts, wearing of shoes, rules about these in Purāṇas and digests 576-577; muṇḍana and kṣaura distinguished 575; not only men of all varṇas but also women and even caṇḍālas have adhikāra for t. 567-568; number of tīrthas declared by Vāyu, according to Matsya, Padma, Nāradīya and other Purāṇas, is 35 millions in the sky, the aerial regions and the earth 564; number of tīrthas, acc. to [[Varābapurāṇa,|Varāhapurāṇa,]] is 60 thousand crores 564n; one should not enter upon an examination of the worth of brāhmaṇas at a tīrtha 578-579; one who wants to undertake t. should pay off [[bis|his]] three debts, should provide means of maintenance for his sons and consign his wife to their care 571; rewards promised for baths at tīrthas 727; rites to be performed when a person undertakes a t. 572-73, 583; rivers in general, certain named rivers and waters are referred to with great veneration as early as Ṛgveda 555; sacred places for Moslems 552; saṅkalpa to be made at starting on t. 577; Shah [[Jeban,|Jehan,]] emperor, remitted the tax levied on pilgrims at Prayāga and Kāśī owing [[to to|to]] eloquent pleading of [[Kavindrilly cārya|Kavīndrācārya]] 571; six rivers having [[the|their]] sources in the Himālaya and six to the south of Vindhya are declared [[P913]]to be most holy [[devatirtbas|devatīrthas]] by Brahmapurāṇa 567; some digests state that a pilgrim has to wear the kārpaṭī dress at all tīrthas when he is actually travelling, while others say that he has to do so only at Gayā 573; some purāṇas say that some virtues may be called mental tīrthas and purity of mind is the highest tīrtha 563; some say that tonsure and fast are necessary at all tīrthas except at Kurukṣetra, Viśālā, Viraja and Gayā 574; śrāddha has to be performed at most famous tīrthas, but from the procedure of śrāddha are omitted arghya, āvāhana, entering the thumb of the invited brāhmaṇa in the food served, the question about being satiated and vikira 616; śrāddha may be performed at any time after a pilgrim reaches the tīrtha 616; śrāddha at tīrthas consists, if the whole procedure cannot be followed, in offering piṇḍas of barley meal or rice cooked in milk, cake of sesame or jaggery and one should offer a single piṇḍa to all relatives after pārvaṇaśrāddha and another piṇḍa for servants, slaves, cattle, trees etc, 616-617; tended to foster the idea of the fundamental unity of India and Indian culture 553; tended to level up all men by bringing them together to the same holy rivers and shrines 553; three grounds on which tīrthas are said to be holy 554-555; tonsure and fast are not obligatory but only kāmya according to Kalpataru but otherwise according to others 573-575; t., sacrifices and various gifts are the means of cleansing the mind 563; t. yields full fruit only if performed bare-footed 576; t. yields fruit to men of all varṇas and āśramas 563; use of bullock-cart condemned in Matsyapurāṇa as leading to hell and of other conveyances (not drawn by bulls) as fruitless, but Kūrma recommends to those who are unable to walk conveyances drawn by mules, horses or men 576; use of a conveyance is according to Kalpataru condemned only in pilgrimage to Prayāga 576; use of a vessel allowed 577; view that the institution of t. was first started by Buddhists and Jains is wrong 558; was deemed very early to be a way of redemption of sins for men and women 569; was favoured by writers on Dharmaśāstra by prescribing that no money was to be demanded by a ferryman or a toll officer from a pilgrim, from a pregnant woman, from a vedic student, forest hermit or ascetic, but this was not followed even by Hindu kings 571; whether tonsure at the time of starting on a pilgrimage is obligatory 573; who are eligible for or have adhikāra for t. 567-571; widows, ascetics and [[Sudras|śūdras]] have to cut all hair on pilgrimage 575; women could not undertake t. without husband's permission 569; works on, repel by their over-statements and exaggerations, when they state that pilgrimage to a particular tīrtha will yield all one's desires in this world and the next, that even gods secured perfection at Puṣkara, that Pṛthūdaka is the holiest of tīrthas etc. 565-566
 
-[[Tirthayātrātattva,|Tīrthayātrātattva,]] of Raghunandana (published in Bengali characters) 669n, 670, 673n, 674n
+Tīrthayātrātattva, of Raghunandana (published in Bengali characters) 669n, 670, 673n, 674n
 
-[[Todarānanda,|Ṭoḍarānanda,]] 59, 376n (on [[sraddba),|śrāddha),]] 382n, [[398,|398n,]] 408n, 417n, [[4570, 4610,|457n, 461n,]] 462, 475, 476n, 484n, 582
+Ṭoḍarānanda, 59, 376n (on [[sraddba),|śrāddha),]] 382n, [[398,|398n,]] 408n, 417n, [[4570, 4610,|457n, 461n,]] 462, 475, 476n, 484n, 582
 
-Tolappar, followed by [[Madras" Vaisna vas|Madras Vaiṣṇavas]] on [[srāddha.|śrāddha]] 486
+Tolappar, followed by Madras Vaiṣṇavas on śrāddha 486
 
-Tonsure (vapana or [[mundana)quyide|muṇḍana) vide]] under [[Prayāga; Āp.Dh.s.|Prayāga; Āp. Dh. S.]] provides that all [[sapindas|sapiṇḍas]] younger than the [[deceas ed|deceased]] had to undergo tonsure 218; differ-
+Tonsure (vapana or [[mundana)quyide|muṇḍana) vide]] under [[Prayāga; Āp.Dh.s.|Prayāga; Āp. Dh. S.]] provides that all sapiṇḍas younger than the deceased had to undergo tonsure 218; differ-
 
-[[P914]]ence between [[mundana|muṇḍana]] and kṣaura 575; differed according to extent of expiation 123; forbidden in the case of one whose wife was pregnant, [[122–123;|122-123;]] in [[prāyascittas,|prāyaścittas,]] 122-124; in case of married women whose husbands were alive was restricted to cutting off two finger-breadths of [[bair|hair]] 123, 574, 575; may take place on 2nd, 3rd or other day up till [[sraddha|śrāddha]] on 11th day after death 217; mode of, in daiva form [[de- clared|declared]] in Tai. Br. 122; mode of daiva t. prescribed for [[ādbāna,|ādhāna,]] [[isti|iṣṭi]] and soma sacrifices 122; necessary because sins were supposed to resort to the hair of those that became pilgrims 574; not insisted upon in expiations for king, prince or learned [[brābmanas,|brāhmaṇas,]] but then they had to undergo double the usual penance 123; no tonsure in [[candra yana|cāndrāyaṇa]] performed solely for [[accumu lating|accumulating]] merit 135; [[Do|no]] tonsure if cremation took place at night 217; none at Gayā 669; occasions when t. should be undergone 122, 574; of performer of cremation rites 217; three kinds of, [[asura,|āsura,]] daiva and mānuṣa, of which only the last two are allowed 122; religious occasions for tonsure 573-575; [[res tricted|restricted]] to hair on the head and lips generally (the top knot, hair on eye brows and on the trunk being [[ex cepted)|excepted)]] but in expiations the [[ex ception|exception]] was not enforced 122-123; seven cases where t. is obligatory 217, 574; unnecessary acc. to some, in expiations other than [[candra yana|cāndrāyaṇa]] 124; whether obligatory when starting on a pilgrimage 573-74; widows, [[Sudras,|śūdras,]] and ascetics had to submit to t. of all hair in [[prā yascitta|prāyaścitta]] and [[tirthayātrā|tīrthayātrā]] 123, 575
+[[P914]]ence between muṇḍana and kṣaura 575; differed according to extent of expiation 123; forbidden in the case of one whose wife was pregnant, 122-123; in prāyaścittas, 122-124; in case of married women whose husbands were alive was restricted to cutting off two finger-breadths of [[bair|hair]] 123, 574, 575; may take place on 2nd, 3rd or other day up till śrāddha on 11th day after death 217; mode of, in daiva form declared in Tai. Br. 122; mode of daiva t. prescribed for [[ādbāna,|ādhāna,]] iṣṭi and soma sacrifices 122; necessary because sins were supposed to resort to the hair of those that became pilgrims 574; not insisted upon in expiations for king, prince or learned [[brābmanas,|brāhmaṇas,]] but then they had to undergo double the usual penance 123; no tonsure in cāndrāyaṇa performed solely for accumulating merit 135; [[Do|no]] tonsure if cremation took place at night 217; none at Gayā 669; occasions when t. should be undergone 122, 574; of performer of cremation rites 217; three kinds of, āsura, daiva and mānuṣa, of which only the last two are allowed 122; religious occasions for tonsure 573-575; restricted to hair on the head and lips generally (the top knot, hair on eye brows and on the trunk being excepted) but in expiations the exception was not enforced 122-123; seven cases where t. is obligatory 217, 574; unnecessary acc. to some, in expiations other than cāndrāyaṇa 124; whether obligatory when starting on a pilgrimage 573-74; widows, [[Sudras,|śūdras,]] and ascetics had to submit to t. of all hair in prāyaścitta and tīrthayātrā 123, 575
 
-Touching, prāyaścitta for t. certain men, women in certain conditions, animals &c 114; included indirect touching also for purposes of [[prāya scitta|prāyaścitta]] 114; t. [[cândalas,|cāṇḍālas,]] mlecchas, bhillas and [[Parasīkas,|Pārasīkas,]] entails a bath with clothes on 114; t. Bauddhas, [[Pasupatas,|Pāśupatas,]] Laukāyatikas and atheists required expiation by bath with clothes on 115; t. shoemaker, [[washer man,|washerman,]] fisherman, hunter, dog, [[nata|naṭa]] and several others requires sipping water as purification 115
+Touching, prāyaścitta for t. certain men, women in certain conditions, animals &c 114; included indirect touching also for purposes of prāyaścitta 114; t. cāṇḍālas, mlecchas, bhillas and Pārasīkas, entails a bath with clothes on 114; t. Bauddhas, Pāśupatas, Laukāyatikas and atheists required expiation by bath with clothes on 115; t. shoemaker, washerman, fisherman, hunter, dog, naṭa and several others requires sipping water as purification 115
 
-[[Toyakrcchra|Toyakṛcchra]] (also called [[Varuna krochra),|Varuṇakṛcchra),]] a [[prāyascitta,|prāyaścitta,]] described 140.
+Toyakṛcchra (also called [[Varuna krochra),|Varuṇakṛcchra),]] a prāyaścitta, described 140.
 
-Traikakuda, a peak of the [[Himalaya,|Himālaya,]] from which an eye salve was brought 559
+Traikakuda, a peak of the Himālaya, from which an eye salve was brought 559
 
-[[Trikāndamandana.|Trikāṇḍamaṇḍana,]] 226, 311, 377, [[300|399n]]
+Trikāṇḍamaṇḍana, 226, 311, 377, [[300|399n]]
 
-Trimadhu, 384, [[449n,|449n]]
+Trimadhu, 384, 449n
 
-[[Trimsat-sloki|Triṁśat-ślokī]] 255n, 273, 276n, 281n, 286n, 290, 292, 300; com. on, by [[Raghunatha|Raghunātha]] 273, [[285,|285n,]] [[286,|286n,]] 296n
+Triṁśat-ślokī 255n, 273, 276n, 281n, 286n, 290, 292, 300; com. on, by Raghunātha 273, [[285,|285n,]] [[286,|286n,]] 296n
 
-Trita, see [['Ekata '|'Ekata']]
+Trita, see 'Ekata'
 
-[[Trināciketah,|Trināciketaḥ,]] explanations of 384n
+Trināciketaḥ, explanations of 384n
 
-[[Trisanku,|Triśaṅku,]] boundaries of the country of 378-379
+Triśaṅku, boundaries of the country of 378-379
 
-[[Tristhali,|Tristhalī,]] means the three holy places of [[Prayaga,|Prayāga,]] [[Kasi|Kāśī]] and Gayā 596
+Tristhalī, means the three holy places of Prayāga, Kāśī and Gayā 596
 
-[[Tristhalisetu|Tristhalīsetu]] of [[Nārāyanabhatta|Nārāyaṇabhaṭṭa]] 365n, 405, 565, 577, 582, 596, 598, 599, 600n, 601, 602, 603, 607n, 609, 613n, 614, 615n, 617, 624n, 625n, 626n, 627n, 628n, 631n, 632, 633, 635, 638, 639n, 640n, 648n, 652n, 654n, 655n, 657n, 661, 662n, 663n, 666, 667, [[6680,|668n,]] 669, 670, 673n, 676n, [[6770|677n]]
+Tristhalīsetu of Nārāyaṇabhaṭṭa 365n, 405, 565, 577, 582, 596, 598, 599, 600n, 601, 602, 603, 607n, 609, 613n, 614, 615n, 617, 624n, 625n, 626n, 627n, 628n, 631n, 632, 633, 635, 638, 639n, 640n, 648n, 652n, 654n, 655n, 657n, 661, 662n, 663n, 666, 667, [[6680,|668n,]] 669, 670, 673n, 676n, [[6770|677n]]
 
 [[Tristbalisetusārasangraha,|Tristhalīsetusārasaṅgraha,]] 568n, 582, [[609,|609n,]] 616n
 
 Trisuparna, explanations of 384n, 449n
 
-[[Tulāpurusa,|Tulāpuruṣa,]] an expiation 139
+Tulāpuruṣa, an expiation 139
 
-[[Tulasi,|Tulasī,]] leaves should be avoided in [[sraddha|śrāddha]] acc. to [[Smrtyarthasāra,|Smṛtyarthasāra,]] but others allow them 416-417
+Tulasī, leaves should be avoided in śrāddha acc. to Smṛtyarthasāra, but others allow them 416-417
 
-[[Tup-tikā|Tup-ṭīkā]] of Kumārila on [[Jaimi|Jaimini's]] [[Purvamimamsāsūtra|Pūrvamīmāṁsāsūtra]] 169
+Tup-ṭīkā of Kumārila on [[Jaimi|Jaimini's]] Pūrvamīmāṁsāsūtra 169
 
-[[Turuska (Turk).|Turuṣka (Turk),]] treated as low as [[cāndala|cāṇḍāla]] 115
+Turuṣka (Turk), treated as low as cāṇḍāla 115
 
-[[P915]][[Turuska-danda,|Turuṣka-daṇḍa,]] means, in [[Gahadvāla|Gāhaḍvāla]] inscriptions, money levies imposed by Moslem rulers and raiders [[5720|572n]]
+[[P915]]Turuṣka-daṇḍa, means, in Gāhaḍvāla inscriptions, money levies imposed by Moslem rulers and raiders [[5720|572n]]
 
 Tylor, author of 'Primitive culture' 585
 
-[[Uddalaka-vrata,|Uddālaka-vrata,]] described 111; [[ex piation|expiation]] for [[vratyatā|vrātyatā]] 111
+Uddālaka-vrata, described 111; expiation for vrātyatā 111
 
 Udyogaparva, 704n, 707
 
@@ -2476,43 +2475,43 @@ Udyogaparva, 704n, 707
 
 Untouchability, no question of, arises when bathing in holy waters, in marriages, in religious festivals, in a battle, in case of invasion, when a town or village is on fire 569-570
 
-Untouchables, no purification required even for dvijas for touch of, on certain occasions such as battle, fire, religious festivals and marriage [[pro cessions|processions]] [[115,332|115, 332]]
+Untouchables, no purification required even for dvijas for touch of, on certain occasions such as battle, fire, religious festivals and marriage processions 115, 332
 
 Unvala, Dr. J. M. 118
 
-[[Upacara,|Upacāra,]] meaning of, 489; 5 and 16 upacāras in worship 583n, 676
+Upacāra, meaning of, 489; 5 and 16 upacāras in worship 583n, 676
 
 Upahavya, a sacrifice 63n
 
-[[Upanisad|Upaniṣad]] texts, japa of, as purifier from sins 45; repeating or uttering into the ear of a dying man [[Up,|Up.]] texts 185; speak of the soul proceeding by the path of [[arois,|arcis,]] day, etc, 265
+Upaniṣad texts, japa of, as purifier from sins 45; repeating or uttering into the ear of a dying man Up. texts 185; speak of the soul proceeding by the path of [[arois,|arcis,]] day, etc, 265
 
-[[Upapā takas,|Upapātakas,]] derivation of word [[upa pātaka|upapātaka]] 35; expiation for all [[u,|u.]] is same as for govadha or it is [[Candrā yana,|Cāndrāyaṇa,]] Parāka, Gosava or subsisting on milk for a month 107; [[fitfy-one|fifty-one]] u. enumerated by [[Yaj.|Yāj.]] set out 33-34; [[go vadha|govadha]] stands at the head of all u. 107; if a [[brahmana|brāhmaṇa]] killed a [[ksatriya,|kṣatriya,]] [[vaisya|vaiśya]] or [[sudra,|śūdra,]] it was an upapātaka, unless the [[ksatriya|kṣatriya]] or [[vaisya|vaiśya]] was engaged in soma sacrifice 95; if [[re peatedly|repeatedly]] committed, make a man patita 35; number of, varies from [[smrti|smṛti]] to [[smrti|smṛti]] and from time to time and was very large 32, 106; [[purifi cation|purification]] for, by repeating Veda thrice while fasting 107; what are u. acc. to Baud. Dh. S. 14
+Upapātakas, derivation of word upapātaka 35; expiation for all u. is same as for govadha or it is Cāndrāyaṇa, Parāka, Gosava or subsisting on milk for a month 107; [[fitfy-one|fifty-one]] u. enumerated by Yāj. set out 33-34; govadha stands at the head of all u. 107; if a brāhmaṇa killed a kṣatriya, vaiśya or śūdra, it was an upapātaka, unless the kṣatriya or vaiśya was engaged in soma sacrifice 95; if repeatedly committed, make a man patita 35; number of, varies from smṛti to smṛti and from time to time and was very large 32, 106; purification for, by repeating Veda thrice while fasting 107; what are u. acc. to Baud. Dh. S. 14
 
-[[Upavasa|Upavāsa]] (fasting), as a means of [[re movin;|removing]] sins 52-54; meaning of, 52
+Upavāsa (fasting), as a means of [[re movin;|removing]] sins 52-54; meaning of, 52
 
-[[Upavitin,|Upavītin,]] meaning of, 487n
+Upavītin, meaning of, 487n
 
-Usages, of countries, marrying a maternal uncle's daughter prevalent in Deccan and Southern India but [[con demned|condemned]] by Manu and Baudhāyana 82; to be considered in giving [[deci sions|decisions]] 82
+Usages, of countries, marrying a maternal uncle's daughter prevalent in Deccan and Southern India but condemned by Manu and Baudhāyana 82; to be considered in giving decisions 82
 
-Uśanas, [[smrti|smṛti]] of, see [[Ausanasa|Auśanasa]] [[smrti;|smṛti;]] 323n, 409, 470n, 519n, 521, 524n
+Uśanas, smṛti of, see Auśanasa smṛti; 323n, 409, 470n, 519n, 521, 524n
 
-Usurer, a [[brāhmana|brāhmaṇa]] who is [[u,|u.]] is unfit to be invited at [[śrāddba|śrāddha]] 393
+Usurer, a brāhmaṇa who is u. is unfit to be invited at [[śrāddba|śrāddha]] 393
 
-Utpala, commentator of the works of [[Varahamihira|Varāhamihira]] 168
+Utpala, commentator of the works of Varāhamihira 168
 
 [[Uttarādhyanasūtra|Uttarādhyayanasūtra]] 43, 165, 445n (story of seven brothers), 646, 687
 
 Uttararāmacarita 601
 
-[[Uttarayana,|Uttarāyaṇa,]] those who die in, proceed by the Devayāna and do not return [[188:|188;]] waiting for, on the part of [[Bhisma|Bhīṣma]] explained 188-189
+Uttarāyaṇa, those who die in, proceed by the Devayāna and do not return 188; waiting for, on the part of Bhīṣma explained 188-189
 
-[[Utthāpinyah,|Utthāpinyaḥ,]] verses 200n, 242
+Utthāpinyaḥ, verses 200n, 242
 
-[[Uvața,|Uvaṭa,]] commentator of [[Vājasaneya samhita|Vājasaneyasaṁhitā]] 433n
+Uvaṭa, commentator of Vājasaneyasaṁhitā 433n
 
-Vācaspati, on [[dharmasastra|dharmaśāstra]] 282n, 575; author of [[bhāsya|bhāṣya]] on [[Yogasutra|Yogasūtra]] 22, 50n (different from preceding)
+Vācaspati, on dharmaśāstra 282n, 575; author of bhāṣya on Yogasūtra 22, 50n (different from preceding)
 
-Vācaspati, author of [[Candanadhenu dana|Candanadhenudāna]] 542n
+Vācaspati, author of Candanadhenudāna 542n
 
 [[Vaidhști-yogas,|Vaidhṛti-yogas,]] 13 in a year, 383n
 
@@ -2520,261 +2519,261 @@ Vaidya, Mr. M. V. 648n
 
 Vaidya, Dr. P. L. 176n
 
-Vaidikasārvabhauma's works on pūrva and apara kriyās, followed by [[Vaisnavas|Vaiṣṇavas]] in Madras 486
+Vaidikasārvabhauma's works on pūrva and apara kriyās, followed by Vaiṣṇavas in Madras 486
 
-[[Vaijayanti,|Vaijayantī,]] com. on [[Satyāsādha-srauta sutra|Satyāṣāḍha-śrautasūtra]] [[265n,253n,|265n, 253n,]] 254; com. on [[Visnu dharmasūtra|Viṣṇudharmasūtra]]
+Vaijayantī, com. on Satyāṣāḍha-śrautasūtra 265n, 253n, 254; com. on Viṣṇudharmasūtra
 
 Vaikhānasasmārtasūtra 112n, 223, 225, 227, 231, 240, 241, 304, 355, 474, [[4910|491n]]
 
 [[vaikhānasa-śrautasūtra|Vaikhānasa-śrautasūtra]] [[57,1910233,|57n, 191n, 233,]] [[3650|365n]]
 
-[[Vaisnavāmrta,|Vaiṣṇavāmṛta,]] a work [[1871|187n]]
+Vaiṣṇavāmṛta, a work [[1871|187n]]
 
-[[Vaisnavi řk|Vaiṣṇavī ṛk]] is [[Rg. 1622. 17 Hidam Visnur-vi-cakrame), 466arch Institute|Ṛg. I. 22. 17 (Idaṁ Viṣṇur-vi-cakrame), 466n]]
+Vaiṣṇavī ṛk is [[Rg. 1622. 17 Hidam Visnur-vi-cakrame), 466arch Institute|Ṛg. I. 22. 17 (Idaṁ Viṣṇur-vi-cakrame), 466n]]
 
-[[P916]][[Vaisnavi|Vaiṣṇavī]] yajus is Tai S. I. [[I.|1.]] 3.1 [[(Visno havyam raksasva),|(Viṣṇo havyaṁ rakṣasva),]] 466n
+[[P916]]Vaiṣṇavī yajus is Tai S. I. [[I.|1.]] 3.1 (Viṣṇo havyaṁ rakṣasva), 466n
 
 [[Vajasaneyasambitā|Vājasaneyasaṁhitā]] 20, 37n, 38, 43-44, 46, 48, 57, 69, 124n, 137, 138, 146, 155, 182, 197n, 209-211, 229, 240, 248-251, 296, 298n, 300n, 306, 317, 346, 348, 352, 357n, 384, 409n, 419, 426n, 427, 429, 430, 432, 433, 435n, 439, 441, 442, 443n, 444, 447, 449, 450n, 452, 460, 464, 466n, 468, 472, 477n, 479, 480, 486, 497n, 498, 502, 505, 506, 507, [[108,|508,]] 509, 515, 522, 540, 543, 546, 554, 557, 559n, 606
 
 Vaiśvadeva 144
 
-[[Vaitarani,|Vaitaraṇī,]] river in the nether world, full of foul smell and blood 163n
+Vaitaraṇī, river in the nether world, full of foul smell and blood 163n
 
-Vajra, a [[prāyascitta|prāyaścitta]] 149
+Vajra, a prāyaścitta 149
 
-Vajrapañjara, a Durgāstotra in [[Kasi khanda|Kāśīkhaṇḍa]] 638
+Vajrapañjara, a Durgāstotra in Kāśīkhaṇḍa 638
 
-[[Vakyabheda,|Vākyabheda,]] fault of 226
+Vākyabheda, fault of 226
 
-[[Vamadevyagāna|Vāmadevyagāna]] 307
+Vāmadevyagāna 307
 
-[[Vamadevya|Vāmadevya]] verses 307
+Vāmadevya verses 307
 
 Vāmanapurāṇa 240, 296, 298n, 302n, 306, 317, 324n, 325, 535n, 556n, 560n, 564 (fine rūpaka about the soul being a river full of the water of control), 565n, 566n, 568, 625n, 626, 655n, 659, 682, 683, 684, 685, 686, 704n, 712; chapter 12 of, is called Karmavipāka 177
 
 Vanaparva 165, 166, 310, 371n, 559n, 561, 562, 565, 567, 582, 589n, 595, 598, 601, 603n, 606n, 608, 614, 629, 647, 649, 651, 653, 682, 685, 704, 707
 
-[[Vanaprastha|Vānaprastha]] (forest hermit), has to observe no [[asauca|āśauca]] on a relative's death (except bath) 298; no āśauca for relatives on death of 305; three daily baths prescribed for 311
+Vānaprastha (forest hermit), has to observe no āśauca on a relative's death (except bath) 298; no āśauca for relatives on death of 305; three daily baths prescribed for 311
 
-Vapana, see [[' tonsure '|'tonsure']]
+Vapana, see 'tonsure'
 
 Varāha (coin) was equal to five rūpakas 151
 
-Varāhapurāṇa, 160, 212, 348, 360, 371, 374, 385, 387, 388, 392, 396, 399, 401, 405, 409, 425, 445, 448, 456, [[158,|458,]] 460, 463, 473, 480, 482, 483, 484, 564n, 579, 582, 587, 589, 594n, 666n, 690, 691, [[708,.711|708, 711]]
+Varāhapurāṇa, 160, 212, 348, 360, 371, 374, 385, 387, 388, 392, 396, 399, 401, 405, 409, 425, 445, 448, 456, [[158,|458,]] 460, 463, 473, 480, 482, 483, 484, 564n, 579, 582, 587, 589, 594n, 666n, 690, 691, 708, 711
 
 [[Varābamihira|Varāhamihira]] (see [[Brbat-samhitā)|Bṛhat-saṁhitā)]] 168, 376n
 
-[[Vārānasi,|Vārāṇasī,]] see under [[Kasi|Kāśī]]
+Vārāṇasī, see under Kāśī
 
-[[Varātikā|Varāṭikā]] (cowrie) 129
+Varāṭikā (cowrie) 129
 
-[[Vārkakhandi|Vārkakhaṇḍi]] 354
+Vārkakhaṇḍi 354
 
-Vārtikas, on [[Panini|Pāṇini]] 354n, 619, 687, 703, 707, 745
+Vārtikas, on Pāṇini 354n, 619, 687, 703, 707, 745
 
-[[Varuna,|Varuṇa,]] as lord of waters even in the [[Rgveda|Ṛgveda]] 140; called king in the [[Rgveda|Ṛgveda]] 193
+Varuṇa, as lord of waters even in the Ṛgveda 140; called king in the Ṛgveda 193
 
-[[Varunakrcchra,|Varuṇakṛcchra,]] a [[prayascitta|prāyaścitta]] 140
+Varuṇakṛcchra, a prāyaścitta 140
 
-[[Varunapraghāsa,|Varuṇapraghāsa,]] one of the [[cāturmas yas|cāturmāsyas]] 37-38; was a rite in which the sacrificer's wife had to confess directly or indirectly whether she had a lover 40
+Varuṇapraghāsa, one of the cāturmāsyas 37-38; was a rite in which the sacrificer's wife had to confess directly or indirectly whether she had a lover 40
 
-[[Vasisthadharmasūtra,|Vasiṣṭhadharmasūtra,]] 13, 14, 16, 18, 21, [[22,|22n,]] 23, 25, 32, 35, 40, 42, 44, 46n, 47, 48, 51, 54, 61, 62n, 68, 72, 73n, 74, 75, 77, 83, 88, 91, 93, 95, 96, 97, 99, 103-107, 110-112, 121, 122, 125, 128, 130, 135, 138, 142, 145, 150, 172n, 174, 175, 214, 218, 219, 223, 239, 258n, 281, 297n, 314n, 315, [[316,|316n,]] 317, 325, 327, 360, 365, 366, 368, 370, 392, 394n, 398, 401, 403, 410, 411n, 413, 423, 425, 435n, 440, 454, 464, 467, 468, 524, 536n, 560, 606, 653
+Vasiṣṭhadharmasūtra, 13, 14, 16, 18, 21, [[22,|22n,]] 23, 25, 32, 35, 40, 42, 44, 46n, 47, 48, 51, 54, 61, 62n, 68, 72, 73n, 74, 75, 77, 83, 88, 91, 93, 95, 96, 97, 99, 103-107, 110-112, 121, 122, 125, 128, 130, 135, 138, 142, 145, 150, 172n, 174, 175, 214, 218, 219, 223, 239, 258n, 281, 297n, 314n, 315, [[316,|316n,]] 317, 325, 327, 360, 365, 366, 368, 370, 392, 394n, 398, 401, 403, 410, 411n, 413, 423, 425, 435n, 440, 454, 464, 467, 468, 524, 536n, 560, 606, 653
 
 Vasus, are eight 490
 
 Vāyupurāṇa, 181, 339, 343n, 344, 345n, 348, 349, 364, 368, 372, 373n, 374, 378, 380, 385, 388n, 390, 392, 395n, 396, 397, 399, 404, 405, 411, 412, 414-416, 417n, 418-420, 423, 446, 449n, 458, 464, 479, 481, 484n, 519n, 539n, 541n, 545, 550n, 560, 563, 566n, 573, 579, 590n, 592n, 607n, 617, 620, 622, 644, 649-651, 653-656, 660, 661, 662, 668-676, 683, 688, 689, 704, 708n
 
-[[Vāyavya-krcchra,|Vāyavya-kṛcchra,]] 150
+Vāyavya-kṛcchra, 150
 
-[[Vedāngas,|Vedāṅgas,]] six 386
+Vedāṅgas, six 386
 
-[[Vedāntasutra,|Vedāntasūtra,]] 20n, 53n, 66, 67, 68, 100, 158, 161, 165, 186, 188, 189, [[R 265,|265,]] 344, [[4810,|481n,]] 613
+Vedāntasūtra, 20n, 53n, 66, 67, 68, 100, 158, 161, 165, 186, 188, 189, [[R 265,|265,]] 344, [[4810,|481n,]] 613
 
 [[P917]]Vedānta texts, japa of, as purifier from sin 45-46
 
-Vedas, japa of the [[samhitās|saṁhitās]] of all, as purifier from sin 45-46, 128; japa of single verses or prose passages of, efficacious to remove sins, acc. to some [[smrtis|smṛtis]] 48; study of, consumes all guilt 47; views differ as to [[stop ping|stopping]] of Veda study and performance of [[srauta|śrauta]] rites by relatives during days of impurity 240, 300
+Vedas, japa of the saṁhitās of all, as purifier from sin 45-46, 128; japa of single verses or prose passages of, efficacious to remove sins, acc. to some smṛtis 48; study of, consumes all guilt 47; views differ as to stopping of Veda study and performance of śrauta rites by relatives during days of impurity 240, 300
 
-Vedis, five, of Brahmā are [[Samanta. pancaka|Samantapañcaka]] (northern), [[Prayaga|Prayāga]] (middle), Gayāśiras (eastern), Virajā (southern) and [[Puskara|Puṣkara]] (western) 682n
+Vedis, five, of Brahmā are Samantapañcaka (northern), Prayāga (middle), Gayāśiras (eastern), Virajā (southern) and Puṣkara (western) 682n
 
 Vendidad (Parsi scriptures) 192n, 231n
 
-Vidyāpati, author of or [[belper|helper]] of the author, queen [[Visvāsadevī,|Viśvāsadevī,]] of [[Ganga vākyāvali|Gaṅgāvākyāvalī]] 583n
+Vidyāpati, author of or [[belper|helper]] of the author, queen Viśvāsadevī, of Gaṅgāvākyāvalī 583n
 
-[[Vidyānivasa,|Vidyānivāsa,]] author of [[Dvadasayātrā prayogapramana|Dvādaśayātrāprayogapramāṇa]] 697n
+Vidyānivāsa, author of Dvādaśayātrāprayogapramāṇa 697n
 
-[[Vidyasūkta,|Vidyāsūkta,]] 444
+Vidyāsūkta, 444
 
-[[Vijnanesvara,|Vijñāneśvara,]] author of [[Mitāksara|Mitākṣarā]] 129, 368
+Vijñāneśvara, author of Mitākṣarā 129, 368
 
-[[Ninasana,|Vināśana,]] place where river [[Sarasvati|Sarasvatī]] disappeared in the [[sands. was boly|sands, was holy]] 682, 684
+[[Ninasana,|Vināśana,]] place where river Sarasvatī disappeared in the [[sands. was boly|sands, was holy]] 682, 684
 
-[[Vinayaka-santi|Vināyaka-śānti]] 178
+Vināyaka-śānti 178
 
 Viraja or Virajā 574n
 
-[[Virajakṣetra,|Virajākṣetra,]] extends a little beyond Jajpur in Orissa 694n
+Virajākṣetra, extends a little beyond Jajpur in Orissa 694n
 
-[[Virasana,|Vīrāsana,]] a posture 148
+Vīrāsana, a posture 148
 
-[[Visala,|Viśālā,]] is [[Ujjayani|Ujjayinī]] or [[Badarika|Badarikā]] 574
+Viśālā, is [[Ujjayani|Ujjayinī]] or Badarikā 574
 
-[[Visamasraddhas|Viṣamaśrāddhas]] 263
+Viṣamaśrāddhas 263
 
-[[Visnu|Viṣṇu]] 544, 574; explanation of the [[Rgveda|Ṛgveda]] verse stating that [[v.|V.]] took three steps 645; repeating one thousand names of, as a means of driving away a disease 178; [[repeat ing|repeating]] one thousand names of [[Visnu|Viṣṇu]] in the ear of one dying 185n
+Viṣṇu 544, 574; explanation of the Ṛgveda verse stating that [[v.|V.]] took three steps 645; repeating one thousand names of, as a means of driving away a disease 178; repeating one thousand names of Viṣṇu in the ear of one dying 185n
 
-[[Visnudharmasútra:|Viṣṇudharmasūtra;]] the commentator states that it is the [[Kathakiva. sraddhaprayoga|Kāṭhakīya-śrāddhaprayoga]] that the [[sutra|sūtra]] sets out in chap. 73, 461n; some [[ver- ses|verses]] of, are the same as Bhagavadgītā 236n; 9n, 15, 16, 19, 25, 27n, 30-32, 35, 40-42, [[46,|46n,]] 47, 48, 51, 53, 55, 66, 70, 72, 74, 75, 79n, 83, 84, 88, 96, 99, 101, 102, 104, 107, 110, 111, 116, 118, 119, 121n, 125, 126, 128, 130, 131, 133-143, 144n, 145, 147-151, 153, 154, 161, 162, 164, 166, 173, 174, 214, 218, 219n, 220, 227, 236, 238, 240, 241, 243, 244, 256, 257, [[258,|258n,]] 271, 278, 281, 287, 288, 290, 291, 292, 297n, 298, 300, 303, 306, 311, 312, 314-317, 321, 323-331, 339, 340, 348, 358, 360, 364, 365, 366, 372, 375, 378, 380, [[386,388,390,392,|386, 388, 390, 392,]] 401, 414, 416, 418, 420, 421, 423, 424, 447, 450n, 460, 463, 464n, 466-469, 470, 472, 477, 479, 482, 483, 497n, 512, 517, 519, 521, 523, 533, 539, 560n, 571, 646, 653
+Viṣṇudharmasūtra; the commentator states that it is the [[Kathakiva. sraddhaprayoga|Kāṭhakīya-śrāddhaprayoga]] that the sūtra sets out in chap. 73, 461n; some verses of, are the same as Bhagavadgītā 236n; 9n, 15, 16, 19, 25, 27n, 30-32, 35, 40-42, [[46,|46n,]] 47, 48, 51, 53, 55, 66, 70, 72, 74, 75, 79n, 83, 84, 88, 96, 99, 101, 102, 104, 107, 110, 111, 116, 118, 119, 121n, 125, 126, 128, 130, 131, 133-143, 144n, 145, 147-151, 153, 154, 161, 162, 164, 166, 173, 174, 214, 218, 219n, 220, 227, 236, 238, 240, 241, 243, 244, 256, 257, [[258,|258n,]] 271, 278, 281, 287, 288, 290, 291, 292, 297n, 298, 300, 303, 306, 311, 312, 314-317, 321, 323-331, 339, 340, 348, 358, 360, 364, 365, 366, 372, 375, 378, 380, 386, 388, 390, 392, 401, 414, 416, 418, 420, 421, 423, 424, 447, 450n, 460, 463, 464n, 466-469, 470, 472, 477, 479, 482, 483, 497n, 512, 517, 519, 521, 523, 533, 539, 560n, 571, 646, 653
 
-[[Visnud harmottara-purana|Viṣṇudharmottara-purāṇa]] 47, 76n, 117, 131, 140, 141, 149, 150, 153, 164, 177, 265, 344, 349, 350, 378n, 397, 411, 418, 422n, 423, 441n, 447, 448, 452, 453, 458n, 459, 461, 463, 466, 480, 481, 482, 521, 528, 539n, 540n, 541n, 553n, 561n, 563, 576n, 578
+Viṣṇudharmottara-purāṇa 47, 76n, 117, 131, 140, 141, 149, 150, 153, 164, 177, 265, 344, 349, 350, 378n, 397, 411, 418, 422n, 423, 441n, 447, 448, 452, 453, 458n, 459, 461, 463, 466, 480, 481, 482, 521, 528, 539n, 540n, 541n, 553n, 561n, 563, 576n, 578
 
-[[Visnupada,|Viṣṇupada,]] hill of this name existed near Delhi at Meharauli 646n; occurs in the Nirukta and [[Visnudharma sutra|Viṣṇudharmasūtra]] 645, 653; south of river [[Vipāsa|Vipāśā]] 647n
+Viṣṇupada, hill of this name existed near Delhi at Meharauli 646n; occurs in the Nirukta and Viṣṇudharmasūtra 645, 653; south of river Vipāśā 647n
 
-[[Visnupurāṇa,|Viṣṇupurāṇa,]] 41, 50, 51, 84n, [[122|122,]] 153, 162, 163, 168, 170, 216, [[234|234,]] 238n, [[23%n,|239n,]] 241, 256, 261, 296, 302, 349, 350, 353, 368, 372, 374, 380, 387, 392, 395, 396n, 403, 404, 405n, 409, [[4131,|413n,]] 414, 415, 419, 423, 425, 440n, 445, 448, 460n, 473, 482, 516, 520, 521, 528, 534, 576, 587, 595, 622, 623, 641n, 659, 682n, 688, 689, 690, 691, 705
+Viṣṇupurāṇa, 41, 50, 51, 84n, 122, 153, 162, 163, 168, 170, 216, 234, 238n, [[23%n,|239n,]] 241, 256, 261, 296, 302, 349, 350, 353, 368, 372, 374, 380, 387, 392, 395, 396n, 403, 404, 405n, 409, [[4131,|413n,]] 414, 415, 419, 423, 425, 440n, 445, 448, 460n, 473, 482, 516, 520, 521, 528, 534, 576, 587, 595, 622, 623, 641n, 659, 682n, 688, 689, 690, 691, 705
 
-[[Visvajit,|Viśvajit,]] a vedic sacrifice, [[ir|as]] [[prāyas citta|prāyaścitta]] for [[brāhmaṇa mwder 91 920|brāhmaṇa murder 91, 92n]]
+Viśvajit, a vedic sacrifice, [[ir|as]] prāyaścitta for [[brāhmaṇa mwder 91 920|brāhmaṇa murder 91, 92n]]
 
-[[Visvamitra,|Viśvāmitra,]] [[smrti|smṛti]] of 23, [[J 100|75, 108]]
+Viśvāmitra, smṛti of 23, [[J 100|75, 108]]
 
-[[Visvarūpa,|Viśvarūpa,]] commentator of [[Vipavalk yasmrti,|Yājñavalkyasmṛti,]] 10, 18, 19n, 23, [[233.35,|32, 33, 35,]] [[660,|66n,]] 75n, 90, 107n, [[k108 horietan|108n, 111n,]]
+Viśvarūpa, commentator of [[Vipavalk yasmrti,|Yājñavalkyasmṛti,]] 10, 18, 19n, 23, [[233.35,|32, 33, 35,]] [[660,|66n,]] 75n, 90, 107n, [[k108 horietan|108n, 111n,]]
 
 [[P918]]161n, 225n, 274n, 313n, 316n, 321, 324n, [[3300,|330n,]] 336, 371n
 
-[[Vitthalabhūsana|Viṭṭhalabhūṣaṇa]] of [[Gopālācāryā|Gopālācārya]] 717-718
+Viṭṭhalabhūṣaṇa of Gopālācārya 717-718
 
-[[Vitthala-rn-mantra-sāra-bhāṣya|Viṭṭhala-ṛṅ-mantra-sāra-bhāṣya]] of [[Kā sinātha|Kāśīnātha]] [[Upadhyāya|Upādhyāya]] 721
+Viṭṭhala-ṛṅ-mantra-sāra-bhāṣya of Kāśīnātha Upādhyāya 721
 
-[[Vivadaratnākara,|Vivādaratnākara,]] 69, 109n
+Vivādaratnākara, 69, 109n
 
-[[Vivāgasuyam (Vipāka-srutam )|Vivāgasūyaṁ (Vipāka-śrutam)]] 176
+Vivāgasūyaṁ (Vipāka-śrutam) 176
 
-Vivasvat, marriage of, with daughter of [[Tvastr|Tvaṣṭṛ]] 198; Yama and [[Yami|Yamī]] are children of, 198
+Vivasvat, marriage of, with daughter of Tvaṣṭṛ 198; Yama and Yamī are children of, 198
 
-Vrata, three ways of observing v. on [[Darsa-pūrnamāsa|Darśa-pūrṇamāsa]] [[isti|iṣṭi]] 52
+Vrata, three ways of observing v. on Darśa-pūrṇamāsa iṣṭi 52
 
-[[Vratod yapana,|Vratodyāpana,]] description of, at time of a man's death 183-184
+Vratodyāpana, description of, at time of a man's death 183-184
 
-[[Vratya,|Vrātya,]] is one whose upanayana has not been performed at proper time 111; [[prāyascitta|prāyaścitta]] for being a, [[111--112|111-112]]
+Vrātya, is one whose upanayana has not been performed at proper time 111; prāyaścitta for being a, 111-112
 
 Vratyastoma, a Vedic sacrifice 62; prescribed in the case of him whose upanayana was not performed at the proper time 62n; used for bringing into āryan fold persons not born into it 118
 
-[[Vrddha-Atri|Vṛddha-Atri]] 292n
+Vṛddha-Atri 292n
 
 [[Vrddha-Bphaspati|Vṛddha-Bṛhaspati]] 25n
 
-[[Vrddha-Gautama|Vṛddha-Gautama]] [[1126,|112n,]] 137, 174, 386, 389, 392
+Vṛddha-Gautama [[1126,|112n,]] 137, 174, 386, 389, 392
 
-[[Vrddha-Harita|Vṛddha-Hārīta]] 15, 32, 36, 65n, 75, 123, 164, 216, 225, 226, [[204,|304,]] 575
+Vṛddha-Hārīta 15, 32, 36, 65n, 75, 123, 164, 216, 225, 226, [[204,|304,]] 575
 
-[[Vrddha-or|Vṛddha-or]] [[Vrddhi-krcchra|Vṛddhi-kṛcchra]] 150
+Vṛddha-or Vṛddhi-kṛcchra 150
 
-[[Vrddha-Manu|Vṛddha-Manu]] 222n, [[2850,|285n,]] [[3710,|371n,]] 390, 532
+Vṛddha-Manu 222n, [[2850,|285n,]] [[3710,|371n,]] 390, 532
 
-[[Vrddha-Parāśara|Vṛddha-Parāśara]] 113, 503n
+Vṛddha-Parāśara 113, 503n
 
 [[Vrddba-Śatātapa|Vṛddha-Śātātapa]] 441n
 
-[[Vrddha-Vasistha|Vṛddha-Vasiṣṭha]] 263, 383, 372, 470, 529, 547
+Vṛddha-Vasiṣṭha 263, 383, 372, 470, 529, 547
 
-[[Vrddha-Viṣnu|Vṛddha-Viṣṇu]] 80
+Vṛddha-Viṣṇu 80
 
-[[Vrddha-Yajnavalkya|Vṛddha-Yājñavalkya]] 114n, 210n, 302, 509n, 525
+Vṛddha-Yājñavalkya 114n, 210n, 302, 509n, 525
 
-[[Vrddhisraddha-see|Vṛddhiśrāddha-see]] [[Nandimukba-srād. dha;|Nāndīmukha-śrāddha;]] [[mātrsrāddha|mātṛśrāddha]] is a part of it and if a sufficient number of [[brāhmanas|brāhmaṇas]] is not available then women who have a son and whose husbands are alive may be invited for groups of [[mātrs|mātṛs]] and [[mātāmahis|mātāmahīs]] 529
+Vṛddhiśrāddha-see [[Nandimukba-srād. dha;|Nāndīmukha-śrāddha;]] mātṛśrāddha is a part of it and if a sufficient number of brāhmaṇas is not available then women who have a son and whose husbands are alive may be invited for groups of mātṛs and mātāmahīs 529
 
-Vulliamy, C. [[E,|E.,]] author of 'Immortal man' 180, 232n, 342n, 347n
+Vulliamy, C. E., author of 'Immortal man' 180, 232n, 342n, 347n
 
-[[Vrsotsarga|Vṛṣotsarga]] (letting loose a bull) [[539 542;|539-542;]] if a bull be not available on 11th day after death an effigy of a bull made of darbhas and flour or clay may be employed 541; great importance of, 541; none for a woman, but a cow together with its calf may be donated for her benefit 542; procedure of [[Visnudharmottara|Viṣṇudharmottara]] closely follows that of [[Viṣnud harma sutra|Viṣṇudharmasūtra]] 541n; procedure of, according to [[Visnud harmasutra|Viṣṇudharmasūtra]] 539-541; [[quali ties|qualities]] of the bull to be let loose for the benefit of [[pitrs|pitṛs]] 539-540; [[under lying|underlying]] idea of this rite 542
+Vṛṣotsarga (letting loose a bull) 539-542; if a bull be not available on 11th day after death an effigy of a bull made of darbhas and flour or clay may be employed 541; great importance of, 541; none for a woman, but a cow together with its calf may be donated for her benefit 542; procedure of Viṣṇudharmottara closely follows that of Viṣṇudharmasūtra 541n; procedure of, according to Viṣṇudharmasūtra 539-541; qualities of the bull to be let loose for the benefit of pitṛs 539-540; underlying idea of this rite 542
 
 Vyāghra 59n, 75, 517, 520
 
-[[Vyāghrapa da|Vyāghrapāda]] 477n
+Vyāghrapāda 477n
 
-[[Vyāhrtihoma,|Vyāhṛtihoma,]] should be of 28 or 108 oblations 121
+Vyāhṛtihoma, should be of 28 or 108 oblations 121
 
-[[Vyahrtis|Vyāhṛtis]] (mystic syllables [['bhūr, bhuvah, svah ")|'bhūr, bhuvaḥ, svaḥ')]] 121, 490
+Vyāhṛtis (mystic syllables 'bhūr, bhuvaḥ, svaḥ') 121, 490
 
 Vyāsa 22, 28, 54, 80, 83n, 105n, 106, [[1870,|187n,]] 369n, 469, 514, 520, 546
 
-[[Vyāsakrochra,|Vyāsakṛcchra,]] same as [[Maitrakrcchra|Maitrakṛcchra]] 150
+[[Vyāsakrochra,|Vyāsakṛcchra,]] same as Maitrakṛcchra 150
 
-[[Vyatipāta,|Vyatīpāta,]] defined 171n; thirteen v. yogas in a year 383n
+Vyatīpāta, defined 171n; thirteen v. yogas in a year 383n
 
-[[Vyavahāracintamani|Vyavahāracintāmaṇi]] 119n
+Vyavahāracintāmaṇi 119n
 
-[[Vyavahāramayukha|Vyavahāramayūkha]] 257n, 280, 535n, 538n, 569
+Vyavahāramayūkha 257n, 280, 535n, 538n, 569
 
-[[Vyavahāranirnaya|Vyavahāranirṇaya]] 280n
+Vyavahāranirṇaya 280n
 
-Water, all deities are centred in waters 553; at a [[prapa|prapā]] or from a jar placed near a well or from a leather bag, should not ordinarily be drunk except in distress 325; difference of opinion as to the number of handfuls of water to be offered after [[crema tion,|cremation,]] viz. 10, 55 or 100, 218-219; duty of [[sapindas|sapiṇḍas]] and samānodakas to offer water to deceased 221; held to be a great purifier even so early as the [[Rgveda|Ṛgveda]] 321; hymns and verses in the [[Rgveda|Ṛgveda]] addressed to waters as divinities 321, 555; [[in a voked|invoked]] for carrying off sin 7, [[555|555;]]
+Water, all deities are centred in waters 553; at a prapā or from a jar placed near a well or from a leather bag, should not ordinarily be drunk except in distress 325; difference of opinion as to the number of handfuls of water to be offered after cremation, viz. 10, 55 or 100, 218-219; duty of sapiṇḍas and samānodakas to offer water to deceased 221; held to be a great purifier even so early as the Ṛgveda 321; hymns and verses in the Ṛgveda addressed to waters as divinities 321, 555; [[in a voked|invoked]] for carrying off sin 7, 555;
 
-[[P919]]mixed with gold over which the [[Gayatri|Gāyatrī]] verse had been recited employed as purification of cooked food 328; no pollution recognized in large reservoirs 324; number of handfuls of water to be offered to deceased depended upon the usage of the country or on caste 219; offered to a deceased person after cremation by any or all [[sapindas|sapiṇḍas]] 218-220; of a flowing river, spring and deep tank is always pure 322-323; w. and mud on roads, though trodden by low castes, dogs and crows become pure by the wind and sun 323-324; person could, if he chose, offer water to his deceased married sister or daughter or to a friend, to father-in-law on their death 221; procedure of offering water to deceased 219; [[purifica tion|purification]] of 322-323; purification of, is brought about by the sun, moon and wind and by means of the urine and dung of cows 324; rain water deemed to be impure for ten days 324; symbolic dialogue between person offering water to deceased and that person's relatives or brother-in-law or with a king's officer, 221-222; should be sipped or touched when a man engaged in religious rites hears a mantra addressed to [[pitrs,|pitṛs,]] scratches his body, looks at a low caste man, or allows wind to escape from his abdomen, laughs loudly or utters an untruth, touches a cat or a mouse, uses harsh words or has a fit of anger 321; what water is deemed to be pure [[322-23|322-323]]
+[[P919]]mixed with gold over which the Gāyatrī verse had been recited employed as purification of cooked food 328; no pollution recognized in large reservoirs 324; number of handfuls of water to be offered to deceased depended upon the usage of the country or on caste 219; offered to a deceased person after cremation by any or all sapiṇḍas 218-220; of a flowing river, spring and deep tank is always pure 322-323; w. and mud on roads, though trodden by low castes, dogs and crows become pure by the wind and sun 323-324; person could, if he chose, offer water to his deceased married sister or daughter or to a friend, to father-in-law on their death 221; procedure of offering water to deceased 219; purification of 322-323; purification of, is brought about by the sun, moon and wind and by means of the urine and dung of cows 324; rain water deemed to be impure for ten days 324; symbolic dialogue between person offering water to deceased and that person's relatives or brother-in-law or with a king's officer, 221-222; should be sipped or touched when a man engaged in religious rites hears a mantra addressed to pitṛs, scratches his body, looks at a low caste man, or allows wind to escape from his abdomen, laughs loudly or utters an untruth, touches a cat or a mouse, uses harsh words or has a fit of anger 321; what water is deemed to be pure [[322-23|322-323]]
 
-Well, purification of static water in wells and small reservoirs is same 324; when a well or a reservoir with a dam is constructed by men of the lowest class no [[prayascitta|prāyaścitta]] is [[pres cribed|prescribed]] for bathing or for drinking that water [[3.4;|324;]] when deemed to be extremely polluted 323
+Well, purification of static water in wells and small reservoirs is same 324; when a well or a reservoir with a dam is constructed by men of the lowest class no prāyaścitta is prescribed for bathing or for drinking that water [[3.4;|324;]] when deemed to be extremely polluted 323
 
-Wife, see under pativratā; even a [[kṣaţriya|kṣatriya]] wife of a [[brāhmana|brāhmaṇa]] āhitāgni, if she died before him, was to be cremated with his sacred fires, acc. to Viśvarūpa 226; husband had to observe a brief āśauca on the death of a wife who had left him or had [[inter course|intercourse]] with another of the same or higher [[varna,|varṇa,]] but had to observe no āśauca if she lived with one of lower [[varna|varṇa]] 290; of āhitāgni was cremated with his sacred fires and sacrificial implements if she died before him 225; of āhitāgni dying after him was to be cremated with nirmanthya fire 226; of [[brāhmana,|brāhmaṇa,]] even of the [[sūdra|śūdra]] caste, was not to drink surā 22; of dvija was forbidden the drinking of surā 21; of deceased dvija was made to lie on the wooden pile in cremation ground and then made to get up, acc. to sūtras 207; of sacrificer in [[Varunapraghāsa|Varuṇapraghāsa]] had to confess whether she had a lover 37-38, 40; virtuous w. alone was cremated with śrauta or smārta fire 226; was given only two alternatives by [[Visnudharma-sūtra|Viṣṇudharma-sūtra]] and others on husband's death, viz. becoming a [[sati|satī]] or leading a life of perfect celibacy 256; was authorised to perform funeral rites and yearly and other śrāddhas for her husband with Vedic mantras by some late works, though some [[purānas|purāṇas]] were against [[tbis|this]] 259
+Wife, see under pativratā; even a kṣatriya wife of a brāhmaṇa āhitāgni, if she died before him, was to be cremated with his sacred fires, acc. to Viśvarūpa 226; husband had to observe a brief āśauca on the death of a wife who had left him or had intercourse with another of the same or higher varṇa, but had to observe no āśauca if she lived with one of lower varṇa 290; of āhitāgni was cremated with his sacred fires and sacrificial implements if she died before him 225; of āhitāgni dying after him was to be cremated with nirmanthya fire 226; of brāhmaṇa, even of the śūdra caste, was not to drink surā 22; of dvija was forbidden the drinking of surā 21; of deceased dvija was made to lie on the wooden pile in cremation ground and then made to get up, acc. to sūtras 207; of sacrificer in Varuṇapraghāsa had to confess whether she had a lover 37-38, 40; virtuous w. alone was cremated with śrauta or smārta fire 226; was given only two alternatives by Viṣṇudharma-sūtra and others on husband's death, viz. becoming a satī or leading a life of perfect celibacy 256; was authorised to perform funeral rites and yearly and other śrāddhas for her husband with Vedic mantras by some late works, though some purāṇas were against [[tbis|this]] 259
 
-Wilson, translator of [[Visnupurāṇa|Viṣṇupurāṇa]] 726, 763
+Wilson, translator of Viṣṇupurāṇa 726, 763
 
-Winternitz, Dr. M., author of [['History of Sanskrit Literature.|'History of Sanskrit Literature']] 646n
+Winternitz, Dr. M., author of 'History of Sanskrit Literature' 646n
 
 Witness, bearing false w. was like drinking surā 72; is promised heaven if he tells the truth but hell if he lies 161; w. telling a falsehood for saving a man from death penalty had to offer a rice oblation to [[Sarasvall 4|Sarasvatī 74]]
 
 Woman, even a patita [[wolnæty|woman]] was to be given bare maintenance and was not to be cast on the [[streeterli Senthow|street 105; how]]
 
-[[P920]]to perform japa for removal of sins 49; Hindu w. succeeding as heir to her husband has a qualified [[owner ship|ownership]] over inherited property, she could alienate validly a small part of her deceased husbands' estate on pilgrimages to Gayā, Pandharpur and some other tīrthas 569; no expiation for killing a woman intentionally, acc. to Viśvarūpa 18; whatever a woman does relating to benefits to be derived by her after death without the permission of her husband or husband's father or her son becomes fruitless 569; who became patita and did not undergo expiation could be excommunicated by process called [[Ghatasphota|Ghaṭasphoṭa]] 105
+[[P920]]to perform japa for removal of sins 49; Hindu w. succeeding as heir to her husband has a qualified ownership over inherited property, she could alienate validly a small part of her deceased husbands' estate on pilgrimages to Gayā, Pandharpur and some other tīrthas 569; no expiation for killing a woman intentionally, acc. to Viśvarūpa 18; whatever a woman does relating to benefits to be derived by her after death without the permission of her husband or husband's father or her son becomes fruitless 569; who became patita and did not undergo expiation could be excommunicated by process called Ghaṭasphoṭa 105
 
-Women, [[asauca|āśauca]] for married w. in the case of the death of parents or brother or in case they hear of it beyond ten days, within a year or after a year from death or of death of grandfather 278-279; in case of married w. if they were delivered or died at father's house then only the father has to observe āśauca for one or three days, but none [[other wise,|otherwise,]] acc. to [[Visnu|Viṣṇu]] 278; four classes of, that were to be altogether abandoned and not given even starving maintenance 105; guilty of offence liable to death sentence are to be punished with cutting off a limb 80; married w. had to observe āśauca for three days for death of parents or step-mother if ten days had not elapsed from death or for the remaining days out of ten 278; may perform [[prānāyāmas|prāṇāyāmas]] and give gifts as penances in secret 125; of dvija classes guilty of adultery with a [[sūdra|śūdra]] could be purified by a penance if they do not give birth to a child of the intercourse 105; of all [[varnas|varṇas]] were allowed to drink pañcagavya as remover of sins 142; three acts specially condemned in women, viz. sexual intercourse with a man of lower [[vana,|varṇa,]] causing abortion, killing husband 105; rules about uncleanliness for women in monthly illness are older than Tai. S. 309; that have adopted heterodox views and practices, that are thieves of gold and the like, that attempt to kill husbands, that are unchaste, that drink liquor or attempt suicide should not be offered water on death and no āśauca should be observed for them 301; tonsure of entire head prescribed for all women at Prayāga by Raghunandana, though others did not agree 603; were regarded as unclean on child birth, the duration of impurity depending on the sex of the child 309
+Women, āśauca for married w. in the case of the death of parents or brother or in case they hear of it beyond ten days, within a year or after a year from death or of death of grandfather 278-279; in case of married w. if they were delivered or died at father's house then only the father has to observe āśauca for one or three days, but none otherwise, acc. to Viṣṇu 278; four classes of, that were to be altogether abandoned and not given even starving maintenance 105; guilty of offence liable to death sentence are to be punished with cutting off a limb 80; married w. had to observe āśauca for three days for death of parents or step-mother if ten days had not elapsed from death or for the remaining days out of ten 278; may perform prāṇāyāmas and give gifts as penances in secret 125; of dvija classes guilty of adultery with a śūdra could be purified by a penance if they do not give birth to a child of the intercourse 105; of all varṇas were allowed to drink pañcagavya as remover of sins 142; three acts specially condemned in women, viz. sexual intercourse with a man of lower [[vana,|varṇa,]] causing abortion, killing husband 105; rules about uncleanliness for women in monthly illness are older than Tai. S. 309; that have adopted heterodox views and practices, that are thieves of gold and the like, that attempt to kill husbands, that are unchaste, that drink liquor or attempt suicide should not be offered water on death and no āśauca should be observed for them 301; tonsure of entire head prescribed for all women at Prayāga by Raghunandana, though others did not agree 603; were regarded as unclean on child birth, the duration of impurity depending on the sex of the child 309
 
-Worlds, of Indra, [[Prajapati,|Prajāpati,]] [[Varuna,|Varuṇa,]] Vāyu and other gods promised in the Upaniṣads 165; three w. [[165,342,|165, 342,]] 343; three lokas of devas, [[pitrs|pitṛs]] and of worms and creeping beings in the Upaniṣads 188
+Worlds, of Indra, Prajāpati, Varuṇa, Vāyu and other gods promised in the Upaniṣads 165; three w. 165, 342, 343; three lokas of devas, pitṛs and of worms and creeping beings in the Upaniṣads 188
 
-[[Yajna,|Yajña,]] was dharma par excellence in the [[Brahmana|Brāhmaṇa]] period 680
+Yajña, was dharma par excellence in the Brāhmaṇa period 680
 
-[[Yajnapatras,|Yajñapātras,]] cremation of sacrificer with, is pratipattikarma of the pātras, 208n; some were either donated or thrown into water on the death of the agnihotrin 208
+Yajñapātras, cremation of sacrificer with, is pratipattikarma of the pātras, 208n; some were either donated or thrown into water on the death of the agnihotrin 208
 
-[[Yajnasvamin,|Yajñasvāmin,]] 148n
+Yajñasvāmin, 148n
 
-[[Yajñavalkya-smrti,|Yājñavalkya-smṛti,]] 9, 10, [[140,|14n,]] 16, 18, 23, 25, [[29 30,|29, 30,]] 33, 35, 42, 44, 48, 50, 59, 60n, 61, 63, 65, 66, 68, 71, 83, 84, 86n, 88, 99, 101, 103, 105, 106, 107, 108n, 109, 110, 111, 113, 114, 116, 118, 119, 121, 122n, 123, 126, 127n, 128, 133, 135, 143, 145, 152, 161n, 162, 163, 173, 178, 189, 190, 210n, 211, 214, 215, 217n, 218, 220, 223, 225n, 227, 228, 236, 240, 257, 258, 267, 268, 270, 271, 272, 274n, 275, 276, 277, 280, 281, 282n, 283, 284, 285n, 287, 288n, 290, 292, [[294,3|294,]] 305n, 312, 313n, 314, 317, 321, [[32,|322,]] 323, 324n, 325, 331, 334, 335, [[330,|336,]] 339, 350, 359n, 360, 366, 367, [[3bdbparkar Oriente|368,]]
+Yājñavalkya-smṛti, 9, 10, [[140,|14n,]] 16, 18, 23, 25, 29, 30, 33, 35, 42, 44, 48, 50, 59, 60n, 61, 63, 65, 66, 68, 71, 83, 84, 86n, 88, 99, 101, 103, 105, 106, 107, 108n, 109, 110, 111, 113, 114, 116, 118, 119, 121, 122n, 123, 126, 127n, 128, 133, 135, 143, 145, 152, 161n, 162, 163, 173, 178, 189, 190, 210n, 211, 214, 215, 217n, 218, 220, 223, 225n, 227, 228, 236, 240, 257, 258, 267, 268, 270, 271, 272, 274n, 275, 276, 277, 280, 281, 282n, 283, 284, 285n, 287, 288n, 290, 292, [[294,3|294,]] 305n, 312, 313n, 314, 317, 321, [[32,|322,]] 323, 324n, 325, 331, 334, 335, [[330,|336,]] 339, 350, 359n, 360, 366, 367, [[3bdbparkar Oriente|368,]]
 
 [[P921]]370n, 371, 372, 374, 375, 377, 381, 385, 387, 392, 403, 407n, 408, 410, 411, 414n, 419, 420, 422n, 423, 435n, 439, 440, 446n, 447n, 448, 449n, 456, 457, 458, 460, 461, 463, 467, 469, 470, 471, 473n, 478, 480, 502, 506n, 512, 516, 519, 521, 523n, 524, 525, 527, 528, 537, 549, 574, 575, 604
 
-[[Yajnayudhas|Yajñāyudhas]] (implements of sacrifice) are ten 168n
+Yajñāyudhas (implements of sacrifice) are ten 168n
 
-Yājñikadeva, commentator of [[Kātyā- yana-srautasūtra|Kātyāyana-śrautasūtra]] 206n
+Yājñikadeva, commentator of Kātyāyana-śrautasūtra 206n
 
-[[Yajnopavita,|Yajñopavīta,]] the [[prācīnāvita|prācīnāvīta]] mode of wearing 407
+Yajñopavīta, the prācīnāvīta mode of wearing 407
 
-[[Yajñopavitin,|Yajñopavītin,]] explained 487n
+Yajñopavītin, explained 487n
 
-[[Yajurvedi-srāddhatattva|Yajurvedi-śrāddhatattva]] of [[Raghunan- dana|Raghunandana]] 486, 504, 509n, 516
+Yajurvedi-śrāddhatattva of Raghunandana 486, 504, 509n, 516
 
-[[Yajyā|Yājyā]] (offering prayer), 543 (in [[jivat- śrāddha)|jīvat-śrāddha)]]
+Yājyā (offering prayer), 543 (in jīvat-śrāddha)
 
-Yama, called king in [[Rgveda|Ṛgveda]] 193, 343; Citragupta, chief assistant of, 160; descriptions of the abode of Yama and his assistants in the [[Purānas|Purāṇas]] 160; fierce servants of, drag sinners to various tormenting hells 167; gradually came to be looked upon as a dreadful punisher of men for evil deeds 160, 343; heaven as abode of, in [[Rgveda|Ṛgveda]] 156, 342; identified with [[Mrtyu|Mṛtyu]] even in the [[Rgveda|Ṛgveda]] 159; Y. in the Veda 159-160; in [[jivat-śra- ddha|jīvat-śrāddha]] Y. and his servants are gratified 543, 544; is at least Indo-Iranian deity 159; is lord of men and drinks Soma with gods 159; is really a god of the middle region 342; is supposed to allow departed souls and [[pitrs|pitṛs]] to visit the world of men at time of śrāddha 401; is styled king in the [[Rgveda|Ṛgveda]] and the gatherer of people 159, 342; is said to have been the first mortal and to have made a way to Heaven 159, 192n; mentioned as a god by himself in [[Rg.|Ṛg.]] X. 135, 343; names of Yama 593, [[5940;|594n;]] [[pitrs|pitṛs]] are said to enjoy delight in the company of Y in [[Rgveda|Ṛgveda]] 160; [[pitrs|pitṛs]] called [[Angirases|Aṅgirases]] are particular-ly associated with [[bim|him]] 341; son of Vivasvat, the sun and brother of [[Yami|Yamī]] 159, 192n, 198; soul of departed man was supposed in the [[Rg.|Ṛg.]] to become associated with Yama and [[pitrs|pitṛs]] 342; though Y. is a beneficent god in [[Rgveda|Ṛgveda]] and Atharvaveda, there is still an element of fear 159; two dogs of, that are sons of Saramā, guard the way and mark the doings of men 159, 193
+Yama, called king in Ṛgveda 193, 343; Citragupta, chief assistant of, 160; descriptions of the abode of Yama and his assistants in the Purāṇas 160; fierce servants of, drag sinners to various tormenting hells 167; gradually came to be looked upon as a dreadful punisher of men for evil deeds 160, 343; heaven as abode of, in Ṛgveda 156, 342; identified with Mṛtyu even in the Ṛgveda 159; Y. in the Veda 159-160; in jīvat-śrāddha Y. and his servants are gratified 543, 544; is at least Indo-Iranian deity 159; is lord of men and drinks Soma with gods 159; is really a god of the middle region 342; is supposed to allow departed souls and pitṛs to visit the world of men at time of śrāddha 401; is styled king in the Ṛgveda and the gatherer of people 159, 342; is said to have been the first mortal and to have made a way to Heaven 159, 192n; mentioned as a god by himself in Ṛg. X. 135, 343; names of Yama 593, [[5940;|594n;]] pitṛs are said to enjoy delight in the company of Y in Ṛgveda 160; pitṛs called Aṅgirases are particular-ly associated with [[bim|him]] 341; son of Vivasvat, the sun and brother of Yamī 159, 192n, 198; soul of departed man was supposed in the Ṛg. to become associated with Yama and pitṛs 342; though Y. is a beneficent god in Ṛgveda and Atharvaveda, there is still an element of fear 159; two dogs of, that are sons of Saramā, guard the way and mark the doings of men 159, 193
 
-Yama, [[smrti|smṛti]] of, 19n, 40, 44, 64, 65n, 95, 108, 113, 119, 121, 124, 125n, 131, 133, 139, 140, 142, 147, 148n, 150, 164, 175, 216, 219, 227, 228, 240, 266n, 289n, 313, 324n, 350, 368, 377, 386, 400n, 401, 408, 444, 464, 477, 479, 518n, 525, 575, 590, 669
+Yama, smṛti of, 19n, 40, 44, 64, 65n, 95, 108, 113, 119, 121, 124, 125n, 131, 133, 139, 140, 142, 147, 148n, 150, 164, 175, 216, 219, 227, 228, 240, 266n, 289n, 313, 324n, 350, 368, 377, 386, 400n, 401, 408, 444, 464, 477, 479, 518n, 525, 575, 590, 669
 
-[[Yamagathās,|Yamagāthās,]] what are, 227n
+Yamagāthās, what are, 227n
 
-Yamasūkta, [[Rg|Ṛg]] X. 14
+Yamasūkta, Ṛg X. 14
 
 Yamas, meaning of 121, 124; to be observed while undergoing expiation 121
 
-[[Yami|Yamī]] verse is [[Rg.|Ṛg.]] X. 14. 4
+Yamī verse is Ṛg. X. 14. 4
 
-[[Yamya,|Yāmya,]] a prāyaścitta 149
+Yāmya, a prāyaścitta 149
 
-[[Yaudhajapa,|Yaudhājapa,]] a [[Saman|Sāman]] 132-133
+Yaudhājapa, a Sāman 132-133
 
-Yava, boiled and offered to [[Varuna,|Varuṇa,]] deemed to be destroyer of taint due to partaking of the food of guilds, harlots, [[sudras|śūdras]] and others and of other sins 144
+Yava, boiled and offered to Varuṇa, deemed to be destroyer of taint due to partaking of the food of guilds, harlots, śūdras and others and of other sins 144
 
-[[Yavamad hya,|Yavamadhya,]] variety of [[Candrayana|Cāndrāyaṇa]] 135
+Yavamadhya, variety of Cāndrāyaṇa 135
 
 Yavanas, 117
 
-[[Yavaka,|Yāvaka,]] a prāyaścitta 149
+Yāvaka, a prāyaścitta 149
 
-Yati (ascetic) burial of, from ancient times to modern times 229-231; disposal of the bodies of four kinds of, 229; no cremation is done, nor water offered nor āśauca observed by sons and [[sapindas|sapiṇḍas]] on death of, 230, 305; on death of, his [[sapindas|sapiṇḍas]] have simply to undergo a bath and nothing more and a yati and [[brahmacárin|brahmacārin]] have to observe no āśauca [[(eNDepna Hath)|(except a bath)]] in all cases and at all times [[289|281,]] 298; paraphernalia of, 229n; procedure of [[P922]]rites on death of, 229-230; procedure added by the [[Nirnayasindhu|Nirṇayasindhu]] and Dharmasindhu 230; reason why yatis were buried and not cremated 231
+Yati (ascetic) burial of, from ancient times to modern times 229-231; disposal of the bodies of four kinds of, 229; no cremation is done, nor water offered nor āśauca observed by sons and sapiṇḍas on death of, 230, 305; on death of, his sapiṇḍas have simply to undergo a bath and nothing more and a yati and brahmacārin have to observe no āśauca [[(eNDepna Hath)|(except a bath)]] in all cases and at all times [[289|281,]] 298; paraphernalia of, 229n; procedure of [[P922]]rites on death of, 229-230; procedure added by the Nirṇayasindhu and Dharmasindhu 230; reason why yatis were buried and not cremated 231
 
-[[Yaticāndrāyana|Yaticāndrāyaṇa]] 149
+Yaticāndrāyaṇa 149
 
 Yatisāntapana 149
 
@@ -2784,11 +2783,11 @@ Yima (Yama) in Parsi scriptures 192n
 
 Yogas, 27 in a month, 383n
 
-[[Yogasutra,|Yogasūtra,]] 22, 50, 176, 311, 352; [[bbāsya|bhāṣya]] on 352
+Yogasūtra, 22, 50, 176, 311, 352; [[bbāsya|bhāṣya]] on 352
 
-Yogayājñavalkya or [[Yogi-Yaj.|Yogi-Yāj.]] 134n, [[140p,|140n,]] 243n, 324, 473n
+Yogayājñavalkya or Yogi-Yāj. 134n, [[140p,|140n,]] 243n, 324, 473n
 
-Yogin, superior to 100 brāhmaṇas and so should be invited at a [[sraddha|śrāddha]] for dinner 388, 398-399
+Yogin, superior to 100 brāhmaṇas and so should be invited at a śrāddha for dinner 388, 398-399
 
 Yojana, extent of 92, 286, 590n, 628
 

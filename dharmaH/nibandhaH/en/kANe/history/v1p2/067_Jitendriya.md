@@ -1,20 +1,19 @@
 +++
 title = "067 Jitendriya"
-
 +++
 
 [[P593]]
 
 67. Jitendriya
 
-Jitendriya is one of those writers who at one time held an eminent position but in course of time sank into unmerited oblivion. The works of Jīmūtavāhana bear abundant [[testi-mony|testimony]] to the fact that Jitendriya wrote an extensive work on dharmaśāstra. In his Kālaviveka (p. 380) Jīmūtavāhana says that Jitendriya[^797] wrote on the topic of *kāla* (i. e. on determining doubtful points about the months, the tithis, saṁkrāntis, &c. and the religious rites to be performed on them). In several passages of the Kālaviveka the very words of Jitendriya are quoted. Jitendriya said that a rite that occupies in performance only a short time must be per-
+Jitendriya is one of those writers who at one time held an eminent position but in course of time sank into unmerited oblivion. The works of Jīmūtavāhana bear abundant testimony to the fact that Jitendriya wrote an extensive work on dharmaśāstra. In his Kālaviveka (p. 380) Jīmūtavāhana says that Jitendriya[^797] wrote on the topic of *kāla* (i. e. on determining doubtful points about the months, the tithis, saṁkrāntis, &c. and the religious rites to be performed on them). In several passages of the Kālaviveka the very words of Jitendriya are quoted. Jitendriya said that a rite that occupies in performance only a short time must be per-
 
 [^797]:
     जितेन्द्रियशङ्खधरान्धुकसंभ्रमहरिवंशधवलयोग्लोकैः । कृतमपि कालनिरूपणमधुना निःसारतां याति ॥
 
 [[P594]]
 
-formed at the principal time indicated for it[^798] (and not at a *gauna* time). From another quotation it appears that Jitendriya controverted the views of a predecessor [[Sambhramabhatta|Sambhramabhaṭṭa]].[^799] Jitendriya is said to have enumerated the names of the fifteen *muhūrtas* of the day from the Matsyapurāṇa;[^800] vide pp. 257, 367 of the Kālaviveka for other places where the views of Jitendriya on *kāla* occur. In the Dāyabhāga of Jīmūtavāhana also Jitendriya is frequently mentioned. The Dāyabhāga says that, if a man takes another's gold believing it to be iron or takes what is another's believing (in good faith) that it is his own, Jitendriya held in his remarks on the section of *prāyaścitta* that he is not guilty of theft.[^801] The peculiar doctrine of the Dāyabhāga that the widow of a person, whether he was separate or a member of a joint family, succeeded to her deceased husband's estate had been already expounded by Jitendriya.[^802] The view of Jitendriya was that whatever is acquired by a person without using means or materials jointly owned by all members of a family is his exclusive property and that *maitra* (gifts of a friend) and *audvāhika* are only cited (by Yāj.) as examples of this proposition.[^803] Jitendriya
+formed at the principal time indicated for it[^798] (and not at a *gauna* time). From another quotation it appears that Jitendriya controverted the views of a predecessor Sambhramabhaṭṭa.[^799] Jitendriya is said to have enumerated the names of the fifteen *muhūrtas* of the day from the Matsyapurāṇa;[^800] vide pp. 257, 367 of the Kālaviveka for other places where the views of Jitendriya on *kāla* occur. In the Dāyabhāga of Jīmūtavāhana also Jitendriya is frequently mentioned. The Dāyabhāga says that, if a man takes another's gold believing it to be iron or takes what is another's believing (in good faith) that it is his own, Jitendriya held in his remarks on the section of *prāyaścitta* that he is not guilty of theft.[^801] The peculiar doctrine of the Dāyabhāga that the widow of a person, whether he was separate or a member of a joint family, succeeded to her deceased husband's estate had been already expounded by Jitendriya.[^802] The view of Jitendriya was that whatever is acquired by a person without using means or materials jointly owned by all members of a family is his exclusive property and that *maitra* (gifts of a friend) and *audvāhika* are only cited (by Yāj.) as examples of this proposition.[^803] Jitendriya
 
 [^798]:
     तथा जितेन्द्रियेणाप्युक्तं यत्पुनरल्पकालीनमेव कृत्यं स्वकाले समापयितुं शक्यते तत्रोत्कर्षहेतोः कर्मवैतत्यस्यासामर्थ्यस्याभावान्मुख्यकाल एव कर्मानुष्ठानमित्यन्तम् । कालविवेक p. 489.

@@ -1,15 +1,14 @@
 +++
 title = "45 Pulastya"
-
 +++
 
 [[P516]]
 
 45. Pulastya
 
-Pulastya's name is among the ten primordial sages [[men tioned|mentioned]] in the Manusmṛti I. 34-35.
+Pulastya's name is among the ten primordial sages mentioned in the Manusmṛti I. 34-35.
 
-Pulastya is one of the expounders of dharma enumerated by Vṛddha-Yājñavalkya. Viśvarūpa quotes a verse from him on śārīraśauca.[^604] The Mit. (on Yāj. I. 261) cites [[&|a]] verse from Pulastya that a Brāhmaṇa should principally use [[asce tic's|ascetic's]] food (i. e. vegetable food) in śrāddha, that kṣatriyas and vaiśyas should use meat and [[būdras|śūdras]] madhu.[^605] The Mit. (Yāj. III. 253) quotes two verses of Pulastya who enumerates eleven intoxicating drinks together with surā as the twelfth.[^606] Aparārka quotes several verses from Pulastya on [[saṁdhyā|saṃdhyā]], Śrāddha, [[asauca|āśauca]], duties of yatis, [[prayascitta|prāyaścitta]]. Aparārka quotes two verses from Pulastya propounding the view that a
+Pulastya is one of the expounders of dharma enumerated by Vṛddha-Yājñavalkya. Viśvarūpa quotes a verse from him on śārīraśauca.[^604] The Mit. (on Yāj. I. 261) cites [[&|a]] verse from Pulastya that a Brāhmaṇa should principally use ascetic's food (i. e. vegetable food) in śrāddha, that kṣatriyas and vaiśyas should use meat and [[būdras|śūdras]] madhu.[^605] The Mit. (Yāj. III. 253) quotes two verses of Pulastya who enumerates eleven intoxicating drinks together with surā as the twelfth.[^606] Aparārka quotes several verses from Pulastya on saṃdhyā, Śrāddha, āśauca, duties of yatis, prāyaścitta. Aparārka quotes two verses from Pulastya propounding the view that a
 
 [^604]: स्नातकस्य त्रयोऽपाने पञ्चापानेऽग्निहोत्रिणः । सर्वानेवं गृहस्थेषु शौचकल्पान्नियोजयेत् । विश्वरूप on या. I. 17.
 [^605]: मुन्यन्नं ब्राह्मणस्योक्तं मांसं क्षत्रियवैश्ययोः । मधुप्रदानं शूद्रस्य सर्वेषां चाविरोधि यत् ॥

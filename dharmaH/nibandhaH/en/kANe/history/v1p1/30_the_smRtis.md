@@ -1,14 +1,13 @@
 +++
 title = "30 The Smṛtis"
-
 +++
 
 [[P299]]
-fine for selling and purchasing land without the consent of the [[neighbouriny|neighbouring]] members of the family and says that in case of pre-emption the neighbours on the east are preferred to all and those on the south come last.[^302] [[Sunintu|Sumantu]] defines a [[mort gage|mortgage]] by conditional sale ([[callel|called]] ‘uktalābhakraya’) and a sale for arrears of revenue by the king’s orders (called [[ajna kraya|ājñā-kraya]]).[^303]
+fine for selling and purchasing land without the consent of the [[neighbouriny|neighbouring]] members of the family and says that in case of pre-emption the neighbours on the east are preferred to all and those on the south come last.[^302] [[Sunintu|Sumantu]] defines a mortgage by conditional sale ([[callel|called]] ‘uktalābhakraya’) and a sale for arrears of revenue by the king’s orders (called ājñā-kraya).[^303]
 
 Vide reconstruction of [[Sumanta|Sumantu]] by Prof. T. R. Chintamani in JOR (Madras) vol. VIII. pp. 75 ff.
 
-The word smṛti is used in two senses. It is applied to all ancient orthodox non-Vedic works such as Pāṇini’s [[gram mar|grammar]], to the śrauta, gṛhya and dharma sūtras, to the Mahābhā-rata, to Manu, Yājñavalkya and others. In a narrower sense smṛti and dharmaśāstra are synonyms, as Manu says.[^304] The word smṛti occurs in Taittirīya Āraṇyaka (I. 2). Gautama (Dh. S. I. 2) and Vasiṣṭha (Dh. S. I. 4) speak of smṛti as one of the sources of Dharma. Āp. Dh. S. (II. 6. 15. 25) employs the word smṛti and has in view Gautama’s Dharma-sūtra according to Haradatta. In the Pūrvamīmāṁsā-sūtra the word smṛti occurs (vide VI. 8. 23 and XII. 4. 42).[^305] In the Vedāntasūtras the word smṛti is employed in a wide sense, in one place as referring even to the sāṅkhya system.[^306]
+The word smṛti is used in two senses. It is applied to all ancient orthodox non-Vedic works such as Pāṇini’s grammar, to the śrauta, gṛhya and dharma sūtras, to the Mahābhā-rata, to Manu, Yājñavalkya and others. In a narrower sense smṛti and dharmaśāstra are synonyms, as Manu says.[^304] The word smṛti occurs in Taittirīya Āraṇyaka (I. 2). Gautama (Dh. S. I. 2) and Vasiṣṭha (Dh. S. I. 4) speak of smṛti as one of the sources of Dharma. Āp. Dh. S. (II. 6. 15. 25) employs the word smṛti and has in view Gautama’s Dharma-sūtra according to Haradatta. In the Pūrvamīmāṁsā-sūtra the word smṛti occurs (vide VI. 8. 23 and XII. 4. 42).[^305] In the Vedāntasūtras the word smṛti is employed in a wide sense, in one place as referring even to the sāṅkhya system.[^306]
 
 [^302]: ज्ञात्याद्यननुज्ञाप्य समीपस्थानतन्द्रिणा । क्रयविक्रयकर्तारौ तत्समं दण्डमर्हतः ॥ सरस्वती० p. 322 ; ‘ चतुःसामन्तसांनिध्ये प्राची दिग्बलवत्तरा । उदीची च प्रतीची च सर्वाभावे तु दक्षि० ॥ p. 323.
 [^303]: किंचिच्च द्रव्यमादाय काले दास्यामि ते क्वचित् । नो चेन्मूलमिदं त्यक्तं केदारस्येति यः क्रयः ॥ स उक्तलाभ इत्युक्त उक्तकालेप्यनर्पणात् ॥ सरस्वती० p. 324 ; मूल्यस्य पादमर्धं वा मूल्यमाज्ञाक्रये स्थितम् । मूल्यं तदाप्तमखिलं दत्त्वा क्षेत्रं समाप्नुयात् ॥ आ त्रिभोगात् ततः क्रेतुः परतो दृढतामियात् । p. 323.

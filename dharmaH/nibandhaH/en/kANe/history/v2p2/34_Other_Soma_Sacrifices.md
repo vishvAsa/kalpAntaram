@@ -1,13 +1,12 @@
 +++
 title = "34 Other Soma Sacrifices"
-
 +++
 
 CHAPTER XXXIV
 
 OTHER SOMA SACRIFICES
 
-[[P1204]] The sūtras speak of seven forms ([[samstbas|saṃsthās]]) of soma sacrifices. These seven forms are Agniṣṭoma, [[Atyagnistoma|Atyagniṣṭoma]], Ukthya, [[Sodasin|Ṣoḍaśin]], Vājapeya, [[Atitātra|Atirātra]] and Aptoryāma (according to Kāt. X. 9. 27, Āśv. VI. 11. 1, Lāt. V. 4. 24). The first of these has been described in some detail above. Owing to restrictions of space only a few words can be said about the other [[goma|soma]] sacrifices. All sūtras do not state the same number of soma sacrifices. Āp. XIV. 1.1 and Śat. IX.7. p. 958 expressly say that Ukthya, Ṣoḍaśin, Atirātra and Aptoryāma are the modifications of Agniṣṭoma and the commentaries of both point out that there were several views on the number of the modifications of the Agniṣṭoma. In the [[Brahmapas|Brāhmaṇas]] the Agniṣṭoma, Ukthya, Ṣoḍaśin and Atirātra are generally mentioned as forms of Jyotiṣṭoma (vide Śat. Br. IV. 6. 3. 3, Tai. Br. I. 3. 2 and 4, which last mentions Vājapeya also).
+[[P1204]] The sūtras speak of seven forms ([[samstbas|saṃsthās]]) of soma sacrifices. These seven forms are Agniṣṭoma, Atyagniṣṭoma, Ukthya, Ṣoḍaśin, Vājapeya, [[Atitātra|Atirātra]] and Aptoryāma (according to Kāt. X. 9. 27, Āśv. VI. 11. 1, Lāt. V. 4. 24). The first of these has been described in some detail above. Owing to restrictions of space only a few words can be said about the other [[goma|soma]] sacrifices. All sūtras do not state the same number of soma sacrifices. Āp. XIV. 1.1 and Śat. IX.7. p. 958 expressly say that Ukthya, Ṣoḍaśin, Atirātra and Aptoryāma are the modifications of Agniṣṭoma and the commentaries of both point out that there were several views on the number of the modifications of the Agniṣṭoma. In the [[Brahmapas|Brāhmaṇas]] the Agniṣṭoma, Ukthya, Ṣoḍaśin and Atirātra are generally mentioned as forms of Jyotiṣṭoma (vide Śat. Br. IV. 6. 3. 3, Tai. Br. I. 3. 2 and 4, which last mentions Vājapeya also).
 
 Ukthya or Uktha.—In this there are three more stotras (called uktha stotras) and śastras (called uktha śastras) to be chanted and recited in the evening pressing, thus bringing the total of stotras and śastras to fifteen (Ait. Br. 14. 3, Āśv. VI. 1. 1-3). Āp. XIV. 1. 2 says that the Ukthya, Ṣoḍaśin, Atirātra and Aptoryāma are respectively performed by him who desires cattle, vigour, progeny and cattle, all objects. In the Ukthya an additional victim, a goat (over and above those offered in Agniṣṭoma) is sacrificed for Indra and Agni on the pressing day. Vide Ait. Br. XIV. 3, Āśv. VI. 1. 1-3, Āp. XIV.1, Śat. IX. 7. pp. 958-959, Haug's tr. of Ait. Br. p. 251 n, S. B. E. vol. 41, pp. XIV-XVI.
 

@@ -1,6 +1,5 @@
 +++
 title = "43 Dakṣa"
-
 +++
 
 [[P513]]
@@ -21,7 +20,7 @@ In Jivananda's collection there is a Dakṣasmṛti (part II, pp. 383-402) in se
 
 Dakṣasmṛti contains the name of Dakṣa himself and shows that he was a thorough-going Advaitin (as the note shows).[^592]
 
-This smṛti is certainly a very old one. All the [[quota tions|quotations]] from Dakṣa cited by Viśvarūpa occur in the printed Dakṣa (vide pp. 395, 396, 384, 397 which reads 'na [[pathyā sanād|pathyāśanād]] yogo'). Similarly all the quotations in the Mit. from Dakṣa are found in the Calcutta text. Aparārka contains over forty verses from the printed Dakṣa, though there are a few verses cited by him as Dakṣa's which are not found therein. The Smṛticandrikā quotes about ten verses of Dakṣa on woman which are all found in the 4th chap. of the Calcutta text.
+This smṛti is certainly a very old one. All the quotations from Dakṣa cited by Viśvarūpa occur in the printed Dakṣa (vide pp. 395, 396, 384, 397 which reads 'na pathyāśanād yogo'). Similarly all the quotations in the Mit. from Dakṣa are found in the Calcutta text. Aparārka contains over forty verses from the printed Dakṣa, though there are a few verses cited by him as Dakṣa's which are not found therein. The Smṛticandrikā quotes about ten verses of Dakṣa on woman which are all found in the 4th chap. of the Calcutta text.
 
 In the Govt. [[Mos.|Mss.]] library at the B. O. R. Institute Poona, there is a ms. of Dakṣa (No. 120 of 1895-1902), which contains 197 verses on the same topics as above, many of which are identical with the Calcutta text. The Bombay University has also a similar ms. Vide I. O. Cat. No. 1320 p. 385 for a similar ms. in 197 verses.
 

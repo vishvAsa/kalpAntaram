@@ -1,6 +1,5 @@
 +++
 title = "Table of Cases Cited"
-
 +++
 
 [[Pxxxvii]]
@@ -16,7 +15,7 @@ Ahmed Khan v. Channi Bibi [[9710,|971n.]]
 Bajapa v. Trimbak 581n. 
 Ajai Verma v. Vijai Kumari [[9710|971n]] 
 Bajirao v. [[Ramkrisboa 671,|Ramkrishna 671.]] 
-Akku [[v,|v.]] Ganesh 810n, 812. 
+Akku v. Ganesh 810n, 812. 
 Bajrangi v. Manokarnika [[7170.|717n.]] 
 [[Aksbaya|Akshaya]] Chandra v. Haridas 739n. 
 Bal v. Maneklal [[4470.|447n.]] 
@@ -27,8 +26,8 @@ Balabai v. Mahadu 681n.
 Amirthammal v. Vallimayil 612. 
 Balasubramanya v. M. Subbayya 669, 756, 758n. 
 Anandi v. Hari 723n. 
-Anandilal [[v,|v.]] Chandrabai 812 
-Bala Krishnayya v. Venkata [[698n,|698n.]] 
+Anandilal v. Chandrabai 812 
+Bala Krishnayya v. Venkata 698n. 
 [[Adandrao|Anandrao]] v. Shankar 971n. 
 Balkrishna v. Gopal 425n. 
 Anant v. Dnyaneshwar 674. 
@@ -38,7 +37,7 @@ Balu [[v, Laboo|v. Lahoo]] 671.
 [[Apanthaya v. Vishau|Ananthaya v. Vishnu]] 809n. 
 Balwantrao v. Baji Rao 782n. 
 Angammal v. [[Vepkata|Venkata]] 808. 
-Basangavda [[v,|v.]] Basangavda [[7520.|752n.]] 
+Basangavda v. Basangavda [[7520.|752n.]] 
 Apaji v. Ramchandra 570. 
 Appaji v. Mohanlal 732n, [[7520.|752n.]] 
 Basappa v. Gurulingawa [[6877, 6970,|687n, 697n,]] 724n. 
@@ -50,31 +49,31 @@ Basappa v. Shidramappa [[5740.|574n.]]
 Atmaram v Bajirao 599n, 753n, 780n. 
 Basant v. Brijraj 970n. 
 [[Basvaat|Basvant]] v. Mallappa 674n. 
-Baba Narayan [[v,|v.]] Saboosa 970n. 
+Baba Narayan v. Saboosa 970n. 
 Beharilal v. Kaildas Chunder 693n 
-Baboo Ganesh Dutt [[v,|v.]] Maharaja [[Mobeshur|Moheshur]] 631. 
+Baboo Ganesh Dutt v. Maharaja [[Mobeshur|Moheshur]] 631. 
 Beni Prasad v. Hardai Bibi 676. 
 Bhagavati Shukul v. Ram Jatan 620. 
 Babui Rita [[v, Babu Purao 659,|v. Babu Puran 659.]] 
-Bhagirthibai v. Kahnujirao 716n, [[796n,|796n.]] 
+Bhagirthibai v. Kahnujirao 716n, 796n. 
 Babuna v. Jagat Narain 608. 
 Bhagwan v. Bhagwan 664n, 665, [[6830.|683n.]] 
 Badri Roy v. Bhugvat [[608a.|608n.]] 
 Bhagwan v. Warubai [[7270.|727n.]] 
 Bai Devkore v. Amritram [[7530,|753n.]] 
-Bai Gulab [[v,|v.]] Jivanlal 599n. 
+Bai Gulab v. Jivanlal 599n. 
 Bharmappa v. [[Vjjaagauda|Ujjangauda]] 667. 
 Bai [[Kasbi v. Jampadas|Kashi v. Jamnadas]] 600n. 
 Bhau v. Raghunath [[7820, 785a.|782n, 785n.]] 
 Bhau v [[Suadrabai 8672, 9710.|Sundrabai 867n, 971n.]] 
 Bai Keserba v. Shivsangji [[6900,|690n,]] 694n, [[697a.|697n.]] 
 Bhikubai v. Hariba [[8040, 8070,|804n, 807n,]] 808. 
-Bai [[Kesgarbai|Kessarbai]] v. Hunsraj [[800n,|800n.]] 
+Bai [[Kesgarbai|Kessarbai]] v. Hunsraj 800n. 
 Bhikya v. Babu [[7170.|717n.]] 
 Bai Mahalaxmi [[y.|v.]] The Deputy Nazir 750. 
 Bhimabai v. Gurunathgauda 670. 
 Bhola v. Kausilla [[7089.|708n.]] 
-Bai Mancha [[v, Narotamdas 584n.|v. Narotamdas 584n.]] 
+Bai Mancha v. Narotamdas 584n. 
 [[Bbugwandeen|Bhugwandeen]] v. Myna Baee [[7100.|710n.]] 
 Bai Mani [[y. Usafalt 4470.|v. Usafali 447n.]] 
 Bhyah Ram [[singh v. Bhyab|Singh v. Bhyah]] Ugur Singh [[875o.|875n.]] 
@@ -92,19 +91,19 @@ Ekoba v. Kashiram [[727a,|727n.]]
 Emperor [[v, Bal Gangadhar Tilak 331A.|v. Bal Gangadhar Tilak 331n.]] 
 Fakirappa v. [[Chapappa 5940,|Chanappa 594n.]] 
 Cally Churn v. [[Bluggobutty 574n,|Bhuggobutty 574n.]] 
-Chalakonda Alsani [[v. Chalakonda|v.]] Fakirappa v. [[Savitrewa 667,|Savitrewa 667.]] 
+Chalakonda Alsani [[v. Chalakonda|v.]] Fakirappa v. Savitrewa 667. 
 Chalakonda Ratnachalam 584n. 
 Fakirappa v. Yellappa [[7670.|767n.]] 
 Chandika [[v, Muda 729n, 9710.|v. Muna 729n, 971n.]] 
 Fattehsangji v. Desai [[Kalliaoraiji 5750.|Kallianraiji 575n.]] 
 [[Cbandreshwar|Chandreshwar]] v. Bisheshwar 681n. 
-Framji v. Commissioner of Customs [[305n,|305n.]] 
-Chaudhuri Govindchandra v. [[Haya. griba|Hayagriba]] 448n. 
+Framji v. Commissioner of Customs 305n. 
+Chaudhuri Govindchandra v. Hayagriba 448n. 
 Gadadhar v. Chandrabhagabai 709. 
-[[Chemnauth v. Palakuzhu 659,|Chemnauth v. Palakuzhu 659.]] 
-Gajadhar Prasad [[v,|v.]] Gauri Shankar [[76in,|761n.]] 
-Chengama [[v, Munisami 596n,|v. Munisami 596n.]] 
-Chima [[v,|v.]] Padmanabha 757n. 
+Chemnauth v. Palakuzhu 659. 
+Gajadhar Prasad v. Gauri Shankar [[76in,|761n.]] 
+Chengama v. Munisami 596n. 
+Chima v. Padmanabha 757n. 
 Gajanan v. [[Kasbinath|Kashinath]] 683. 
 Chunilal v. Surajram [[8670.|867n.]] 
 Gandhi Maganlal [[v, Bai Jadab 7520, 7930.|v. Bai Jadab 752n, 793n.]] 
@@ -112,16 +111,16 @@ Collector of Madura v. Mootoo 599n, 665, 669n, 711, 780n, 875n, 878.
 Ganesh Dutt [[v, Jewach 6390,|v. Jewach 639n.]] 
 Collector of Masulipatam v. Cavaly Venkata [[7630.|763n.]] 
 Ganga v. [[Gbasita|Ghasita]] 788, 808. 
-Gangabai [[v,|v.]] Anant 675n. 
+Gangabai v. Anant 675n. 
 Collector of Thana v. Hari [[5750.|575n.]] 
-Gangadhar [[v, Ibrahim 700n,|v. Ibrahim 700n.]] 
+Gangadhar v. Ibrahim 700n. 
 Collector of Thana v. [[Krishnadatb|Krishnanath]] 575n. 
 Ganga Reddi [[v, Tammi Reddi 5930.|v. Tammi Reddi 593n.]] 
 Ganga [[Sabai|Sahai]] v. Lekhraj 664n, 681. 
 [[Commissivner of Incometax v, Laxmi Darayan|Commissioner of Incometax v. Laxminarayan]] 591. 
 Gangu v. Chandrabhagabai 672. 
 Ganpat [[y,|v.]] Gopalrao 596n. 
-Dalglish v. Guzuffer [[826n,|826n.]] 
+Dalglish v. Guzuffer 826n. 
 Ganpatrao v. Balkrishna [[6870.|687n.]] 
 Damodardas v. Purmanandas 709, [[7850.|785n.]] 
 Garurudhwaja [[v, Saparandhwaja 970a|v. Saparandhwaja 970n]] 
@@ -138,14 +137,14 @@ Girjabai v. Sadashiv [[5620,|562n.]]
 Debi Das v. Mukat Behari 758n, 759. 
 Gokalchand v. Hukamchand 584n. 
 Debi Mangal Prasad [[v, Mabadeo|v. Mahadeo]] Prasad [[783a.|783n.]] 
-Gopal v. Gangaram [[525n,|525n.]] 
+Gopal v. Gangaram 525n. 
 Gopal v. [[Haomapt 683a.|Hanmant 683n.]] 
 Debi [[Parsbad|Parshad]] v. Thakur Dial [[6320, 638a.|632n, 638n.]] 
 Gopalayyan v. Raghupatiayyan [[9710,|971n.]] 
 Gopalrao v. Trimbakrao 631. 
 Deivanayaga v. Muttu [[9710.|971n.]] 
 Govind v. Bhiku 718, [[7310, 8010,|731n, 801n.]] 
-Deokishen [[v,|v.]] Budh Prakash 617n. 
+Deokishen v. Budh Prakash 617n. 
 Govind v. Trimbak 588. 
 Dharma v. Ramkrishna [[6810.|681n.]] 
 Govindayyar v. [[Dorasani 688n,|Dorasami 688n.]] 
@@ -158,7 +157,7 @@ Gridhari Lall [[v, The Bengal Govera ment 7550,|v. The Bengal Government 755n.]]
 Duggirala Veeranna v. Duggirala Sārasiratnam [[9720.|972n.]] 
 [[Hajarimali v. Abaninath 3770.|Hajarimall v. Abaninath 577n.]] 
 Hanmant v. [[Ganosh|Ganesh]] 872. 
-Dular Koeri [[v, Dwarkanath 606n,|v. Dwarkanath 606n.]] 
+Dular Koeri v. Dwarkanath 606n. 
 [[Hannaot|Hanmant]] v. Vasudev 758n. 
 [[Durgā Dat v, Ganesb 384,|Durga Dat v. Ganesh 584.]] 
 Hargobind [[v.-Dhapako Singh 810n. .|v. Dharam Singh 810n.]] 
@@ -178,16 +177,16 @@ Krishnalal v. Nandeshwar 608n.
 Hiralal v. Tripura [[8019.|801n.]] 
 [[Krisbnayyan|Krishnayyan]] v. Muthusami 809. 
 [[Hosbapna v. Devanda|Hosbanna v. Devanna]] 606n. 
-Kumaran [[v, Narayanan 658,|v. Narayanan 658.]] 
+Kumaran v. Narayanan 658. 
 [[Hucbrao|Huchrao]] v. Bhimrao [[6850.|685n.]] 
 Kuppa v. Singarvelu 810n. 
-[[Hunooman persad|Hunoomanpersad]] v. Mussummat Babooee 449, [[7840.|784n.]] 
+Hunoomanpersad v. Mussummat Babooee 449, [[7840.|784n.]] 
 Lachmandas v. Khunnu [[4440.|444n.]] 
 Ladu Narayan v. [[Gobard ban 4440.|Gobardhan 444n.]] 
 Huri Das v. Bamchurn 743n, 
 [[Lakbmichand v. Apandi 808,|Lakhmichand v. Anandi 808.]] 
 In re Munshiram [[6750,|675n.]] 
-Lakshman v. Jamnabai [[584 n.|584n.]] 
+Lakshman v. Jamnabai 584n. 
 Irappa v. Rachayya [[6710|671n]] 
 Lakshman v. [[Satyabbamabai 804a.|Satyabhamabai 804n,]] 816n 
 Jairam v. Nathu [[6060, 6210.|606n, 621n.]] 
@@ -214,24 +213,24 @@ Madhavrao v. Raghavendrarao [[9710|971n]]
 Jugmohandas v. Sir Mangaldas [[5770 8188.|577n, 818n.]] 
 [[Mab Nhin Bwin v. U, Schwe Gone 6410,|Mah Nhin Bwin v. U. Schwe Gone 641n.]] 
 Mahableshwar v. Subramanya [[6930.|693n.]] 
-Kailash Chandra [[v,|v.]] Karuna Nath 746n 
+Kailash Chandra v. Karuna Nath 746n 
 [[Mabamaya|Mahamaya]] Debi v. Haridas 970n. 
 Kalgauda [[v, Somappa 6818.|v. Somappa 681n.]] 
-Mahant Garuddas [[v, Mahant Laldas 730n,|v. Mahant Laldas 730n.]] 
-Kali Komul [[v,|v.]] Umashankar 690 
+Mahant Garuddas v. Mahant Laldas 730n. 
+Kali Komul v. Umashankar 690 
 Kamalakshi v. Ramasami [[9720|972n]] 
 Maharaja of Kolhapur v. Sundaram 972. 
-Kandasami v Doraisami [[592n,|592n.]] 
-Kanhaiya Lal v. Gaura [[608n,|608n.]] 
-Malubhai v. Sursangji [[631,|631.]] 
+Kandasami v Doraisami 592n. 
+Kanhaiya Lal v. Gaura 608n. 
+Malubhai v. Sursangji 631. 
 Kantawa v. [[Sangaagowda|Sangangowda]] 724n. 
 [[Manekial v. Mohanlal 5070.|Maneklal v. Mohanlal 507n.]] 
-Kashibai v. Moreshwar [[752n,|752n.]] 
-Manikbai v. Gokuldas [[693n,|693n.]] 
+Kashibai v. Moreshwar 752n. 
+Manikbai v. Gokuldas 693n. 
 [[Kasbibai v, Tatia 6780.|Kashibai v. Tatia 678n.]] 
-Manikchand v. Hiralal [[631,|631.]] 
+Manikchand v. Hiralal 631. 
 Kesarlal v. Jagubhai [[7300,|730n.]] 
-Manilal Rewadat [[v,|v.]] Bai Rewa 797n. 
+Manilal Rewadat v. Bai Rewa 797n. 
 [[Kesarsiogji v. Secretary of Stale 7580, I|Kesarsingji v. Secretary of State 758n,]] 760n. 
 [[Manjanatb|Manjanath]] v. Narayan 634. 
 [[Mapki v. Kuaduo 7160,|Manki v. Kundun 716n.]] 
@@ -258,14 +257,14 @@ Peda [[Venkappa v. Sreenivasa 4450.|Venkanna v. Sreenivasa 445n.]]
 Moniram v. Kerry 707n. 
 Pedda Amani v. Zemindar of Marungapuri 656 
 Moriarty v. London, Chatham and Dover Railway Co. [[349a. I|349n.]] 
-Perrazu [[v,|v.]] Subbarayudu 699. 
+Perrazu v. Subbarayudu 699. 
 Moro v. Ganesh [[5910, 6320,|591n, 632n.]] 
 Pichuvayyan v. Subbayyan [[6810.|681n.]] 
 Mothoormohun v. Sourendro 574n. 
 Ponappa v. Pappuvayyangar 621n. 
 [[Mubammad Husain v. Kishwa Naodao. 5761, 5770.|Muhammad Husain v. Kishwa Nandan 576n, 577n.]] 
 [[Pradjivan|Pranjivan]] v. Motiram 622n. 
-Pranjivandas v. Iccharam [[634,|634.]] 
+Pranjivandas v. Iccharam 634. 
 Mulji v. Cursandas [[7270.|727n.]] 
 [[Prithigaogji|Prithisangji]] v. Umedsingji 631. 
 Murugayi v. Viramkali [[7080|708n]] 
@@ -277,7 +276,7 @@ R. v. Mylius [[3360.|336n.]]
 Rachava v. Kalingappa 751n. 
 [[Nagalutchnee|Nagalutchmee]] Ummal v. Gopoo 816n. 
 Radhabai v. Gopal 816n 
-[[Nagiadas|Nagindas]] v. Bachoo 657, [[699n,|699n.]] 
+[[Nagiadas|Nagindas]] v. Bachoo 657, 699n. 
 [[Radba|Radha]] Mohun v. Hardai Bibi 676. 
 Nagubai v. [[Moagbibai|Monghibai]] 585n. 
 Raghuraj Chandra v. Subhadra 691n, [[6940.|694n.]] 
@@ -289,14 +288,14 @@ Raj Kishen Singh v. Ramjoy [[9710|971n]]
 Narain Das v. Tirlok [[8010.|801n.]] 
 Raja v. [[Krishnabbat|Krishnabhat]] 972n. 
 [[Narasimbarao|Narasimharao]] v. Antaji 445. 
-Raj Nandini v. Aswini Kumar [[675,|675.]] 
+Raj Nandini v. Aswini Kumar 675. 
 Narayan v. Lakshman 727n, [[8010.|801n.]] 
 Raja Mukund v. Jagannath [[6810.|681n.]] 
 Narayan v. Shankar 634. 
-Raja Ramrao v. Raja of Pittapur 803n, [[805:|805.]] 
-Narayan v. Venkatacharya [[448n,|448n.]] 
+Raja Ramrao v. Raja of Pittapur 803n, 805. 
+Narayan v. Venkatacharya 448n. 
 Narhar v. Bhau [[7960.|796n.]] 
-Rajah Muthu Ramlinga v. [[Perianaya gum|Perianayagum]] 821. 
+Rajah Muthu Ramlinga v. Perianayagum 821. 
 Narhari v. Bhimrao [[9710.|971n.]] 
 Narotam v. [[Napka|Nanka]] 452n. 
 [[Rajanikaata|Rajanikanta]] v. Sajani Sundari 806n. 
@@ -315,7 +314,7 @@ Ramanand v. Surgiani [[7240.|724n.]]
 [[Nilnoney v. Banesbur|Nilmoney v. Baneshur]] 810n. 
 Ramappa v. Sithammal 700n. 
 [[Niagareddi v, Lakshmawa 8100,|Ningareddi v. Lakshmawa 810n.]] 
-Ramchandra [[v,|v.]] Gopal 683n. 
+Ramchandra v. Gopal 683n. 
 Nirman v. Fateh [[5920,|592n.]] 
 Ramchandra v. [[Haomaot|Hanmant]] 603. 
 Ramchandra v. Shankar 672. 
@@ -324,8 +323,8 @@ Ramchandra v. Vinayak [[7570,|757n.]]
 Palaniappa v. Alayyan 607n 
 Ramdas v. Baldevadasji [[7650.|765n.]] 
 [[Pancbanon|Panchanon]] Roy v. Fazlur Rahman 970n. 
-Rameshwar v. Lachmi [[571n,|571n.]] 
-Ramji [[v,|v.]] Ghamau 670, 821. 
+Rameshwar v. Lachmi 571n. 
+Ramji v. Ghamau 670, 821. 
 [[Pandhariaath|Pandharinath]] v. Govind 710. 
 Ramkrishna v. [[Chimoaji|Chimnaji]] 683. 
 Pandit Suraj Narain v. Iqbal Narain [[362a.|562n.]] 
@@ -340,16 +339,16 @@ Ramnarasu v. [[Buchampa 8100.|Buchamma 810n.]]
 Somasundaram v. Vaithilinga 765n. 
 Soundararajan v. [[Arubachalam|Arunachalam]] 562n. 
 Sri Balusu Gurulingswami v. Sri Balusu 676. 
-Sri [[Ragbunadha|Raghunadha]] v. Sri Brozo [[638n,|638n.]] 
-Srimati Hemagini [[v,|v.]] Kedarnath 606. 
+Sri [[Ragbunadha|Raghunadha]] v. Sri Brozo 638n. 
+Srimati Hemagini v. Kedarnath 606. 
 Srischandra Nandy v. Baijnath [[3250.|325n.]] 
 Subba v. Ganas [[57in,|571n.]] 
-Subbaraya v. Ramasami [[801n,|801n.]] 
+Subbaraya v. Ramasami 801n. 
 Subbarayana v. Subbakka 804. 
 Subbayya v. [[Anaot|Anant]] 620n. 
 [[Subhadi|Subhani]] v. Nawab 970. 
 Subramania v. Valu 809n. 
-Subramaniam [[v,|v.]] Arunachalam 606n. 
+Subramaniam v. Arunachalam 606n. 
 [[Supdarabai|Sundarabai]] v. Jayawant 425n. 
 Sundrabai v. [[Haomant|Hanmant]] 684. 
 Sundrabai v. Shiv Narayan [[0220.|622n.]] 
@@ -359,16 +358,16 @@ Surampalli v. Surampalli [[8040,|804n.]]
 Surendra v. Bholanath [[679A.|679n.]] 
 [[Ramraov, Yeshwantrao 631, 9710.|Ramrao v. Yeshwantrao 631, 971n.]] 
 Ram Gopal v. Narain [[7980.|798n.]] 
-[[Ram.|Ram]] Nundun v. Maharani Janki 631. 
+Ram Nundun v. Maharani Janki 631. 
 Ram Saran v. [[Mababir 072.|Mahabir 972.]] 
-Rao Balwant [[Singh.|Singh]] v. Rani Kishori 640. 
+Rao Balwant Singh v. Rani Kishori 640. 
 Ratilal v. Motilal [[9710.|971n.]] 
 Reade [[vi|v.]] Krishna 574. 
 Reg. v. Karsan Goja 972n. 
 Roshan Singh v. Balwant Singh 809n. 
-Rukhab v. Chunilal [[698n,|698n.]] 
+Rukhab v. Chunilal 698n. 
 Sadu v. Baiza 602n. 
-Sahebgauda [[v, Shiddangouda 699n,|v. Shiddangouda 699n.]] 
+Sahebgauda v. Shiddangouda 699n. 
 Sahu Ram v. Bhup Singh 822. 
 Sakharam v. Balkrishna 758n. 
 Sakharam v. Sitabai 727n, 728n, 796n. 
@@ -388,15 +387,15 @@ Seethai v. Nachiar [[7240,|724n.]]
 Sellam v. Chinnammal 707n. 
 Sha Chamanlal v. Doshi [[Ganesia|Ganesh]] 709. 
 Shalig Ram v. Chiranjit Lal [[785a..|785n.]] 
-Shamsing [[v,|v.]] Shantabai 667. 
+Shamsing v. Shantabai 667. 
 Shankar v. [[Kasbinatb|Kashinath]] 730n. 
 [[Sbantaram|Shantaram]] v. Waman 588. 
 Sharadacandra v. Shantabai 666. 
-Sheo Narain v. Janki Prasad [[608n,|608n.]] 
-Sheo Shankar [[v,|v.]] Debi Sahai 782n. 
+Sheo Narain v. Janki Prasad 608n. 
+Sheo Shankar v. Debi Sahai 782n. 
 [[Sbesgiri v. Gireva 708n,|Shesgiri v. Gireva 708n.]] 
 Shibprasad v. Prayag Kumari 576, [[97Go.|970n.]] 
-Shivaji v. Datu [[574n,|574n.]] 
+Shivaji v. Datu 574n. 
 Shivajirao v. Vasantrao [[5960. .|596n.]] 
 [[Sbivial v. Bai Saṅkli 808n, ..|Shivlal v. Bai Sankli 808n.]] 
 Shyama Charan v. Sri Charan 693n. 
@@ -405,7 +404,7 @@ Sitabai v. Vasantrao [[7970.|797n.]]
 Tahaldayi v. Gaya Pershad [[7240.|724n.]] 
 Tara [[v, Krishna 7180, 8010.|v. Krishna 718n, 801n.]] 
 Thakoor [[Jeeboath v, Court of Wards 659,|Jeebnath v. Court of Wards 659.]] 
-Thakur Rab Prasad v. Chhotay Munwan [[810n,|810n.]] 
+Thakur Rab Prasad v. Chhotay Munwan 810n. 
 Tirkangauda v. Shivappa 685. 
 Toshanpal [[Singb|Singh]] v. District Judge of Agra [[4610.|461n.]] 
 Totawa v. Basawa [[7160.|716n.]] 
@@ -418,7 +417,7 @@ Tukaram v. Ramchandra [[6980.|698n.]]
 Uji v. Hathi [[9720.|972n.]] 
 Umaid Bahadur v. [[Udoicband 7560.|Udoichand 756n.]] 
 Uma Shankar Moitro v. Kali Komul [[6900.|690n.]] 
-United Provinces [[v,|v.]] Kanhaiya Lal 756. 
+United Provinces v. Kanhaiya Lal 756. 
 Valubai v. Govind [[688a.|688n.]] 
 Vaman v. The Collector of [[Tbana 388a.|Thana 588n.]] 
 Vaman v. Vasudev 586. 
@@ -430,24 +429,24 @@ Vasudev v. [[Vamoaji 8830.|Vamnaji 883n.]]
 [[Vasudevaa|Vasudevan]] v. Secretary of State 660. 
 Vellaiyappa v. Natarajan 809n, 810. 
 Venkata Narasimha [[v, Rangayya 6930.|v. Rangayya 693n.]] 
-Venkatarayudu v. [[Śivaram Krishnayya 622n,|Sivaram Krishnayya 622n.]] 
-[[Ven kayyamma v. Venkataramana yamma 577n,|Venkayyamma v. Venkataramanayamma 577n.]] 
+Venkatarayudu v. Sivaram Krishnayya 622n. 
+Venkayyamma v. Venkataramanayamma 577n. 
 Venku v. Mahalinga 972n. 
 Virangauda v. Yellappa 756. 
 Viraragava v. Ramalinga 681n. 
 Viraswami v. Appaswami [[45in.|451n.]] 
-Viswasundara v. Somasundara [[684,|684.]] 
-Vithabai v. Pandu [[602n,|602n.]] 
-Vithal [[v,|v.]] Anant 972n. 
-Vithal [[v, Balu 793n,|v. Balu 793n.]] 
+Viswasundara v. Somasundara 684. 
+Vithabai v. Pandu 602n. 
+Vithal v. Anant 972n. 
+Vithal v. Balu 793n. 
 Vithal v. Prahlad 443n, 608n. 
 Vithappa v. Savitri 716n. 
-Vithu v. Govind [[708,|708.]] 
-Vyakunta v. Government of Bombay [[329n,|329n.]] 
+Vithu v. Govind 708. 
+Vyakunta v. Government of Bombay 329n. 
 Vyas Chimanlal v. Vyas Ramchandra 676, 678, [[796n, 818. 708a. 603.|796n.]] 
 
 42 Bom. 136 [[7100.|710n.]] 
-46 [[Bom, 213 327n,|Bom. 213 327n.]] 
+46 Bom. 213 327n. 
 [[48. Bom, 203 763a.|48 Bom. 203 763n.]] 
 60 Bom. 311 450. 
 31 Bom. L. R. 199 [[3270,|327n.]] 
@@ -458,7 +457,7 @@ Vyas Chimanlal v. Vyas Ramchandra 676, 678, [[796n, 818. 708a. 603.|796n.]]
 19 [[Cal, 91 602a.|Cal. 91 602n.]] 
 28 Cal. 194 [[6020.|602n.]] 
 39 Cal. 862 [[4470.|447n.]] 
-47 Cal. 274 [[327n|327n.]] 
+47 Cal. 274 327n. 
 [[I. L, R. (1940) Cal, 415|I. L. R. (1940) Cal. 415 818.]] 
 6 [[1. A, 88 4500,|I. A. 88 450n.]] 
 7 [[1. A. 115|I. A. 115 708n.]] 
@@ -469,19 +468,19 @@ Vyas Chimanlal v. Vyas Ramchandra 676, 678, [[796n, 818. 708a. 603.|796n.]]
 51 [[I. A, 129 4490,|I. A. 129 449n.]] 
 53 [[I. A, 163 763a.|I. A. 163 763n.]] 
 58 [[I. A, 402|I. A. 402 603.]] 
-5 [[Mad, H, C. R. 150|Mad. H. C. R. 150]] 581n. 
+5 Mad. H. C. R. 150 581n. 
 1 [[Mad, 306 6029.|Mad. 306 602n.]] 
-4 [[Mad, 250|Mad. 250]] 581n. 
+4 Mad. 250 581n. 
 8 [[Mad, 290 7100.|Mad. 290 710n.]] 
 11 Mad. 287 [[7600.|760n.]] 
-23 [[Mad, 16|Mad. 16]] 601. 
+23 Mad. 16 601. 
 27 Mad. 300 [[5790,|579n.]] 
 30 Mad. 406 [[7600,|760n.]] 
 31 Mad. 250 [[427a,|427n.]] 
 34 Mad. 68 [[6029.|602n.]] 
-37 Mad. 458 [[447,|447.]] 
+37 Mad. 458 447. 
 38 Mad. 556 [[6220.|622n.]] 
-39 [[Mad, 298 .876.|Mad. 298 876.]] 
+39 Mad. 298 876. 
 40 [[Mad, 925 574a.|Mad. 925 574n.]] 
 42 Mad. 711 450. 
 53 Mad. [[84|84 619n.]] 
@@ -491,7 +490,7 @@ Vyas Chimanlal v. Vyas Ramchandra 676, 678, [[796n, 818. 708a. 603.|796n.]]
 A. I. R. (1945) Mad. 327 [[5920.|592n.]] 
 5 Patna 646 [[710a.|710n.]] 
 23 Patna 599 [[5760,|576n.]] 
-[[P.J.|P. J.]] (for 1874) p. 250 [[8678,|867n.]] 
+P. J. (for 1874) p. 250 [[8678,|867n.]] 
 
 Walbai v. Heerbai 683. 
 Waman v. Balaji 972n. 
@@ -500,18 +499,18 @@ Yadao v. Namdeo 670.
 Yamunabai v. [[Magubai 806n,|Manubai 806n.]] 
 Yashvantrao v. Kashibai [[8100, 8110.|810n, 811n.]] 
 14 All. 67 677n. 
-17 [[All, 523|All. 523]] 760n. 
+17 All. 523 760n. 
 28 All. 458 600n. 
 29 All. 667 577n. 
 31 All. 454 760n. 
 54 All. 698 758n. 
 1 Bom. 121 [[4520.|452n.]] 
 2 Bom. 573 763n. 
-4 [[Bom, 37|Bom. 37]] 601, 602. 
+4 Bom. 37 601, 602. 
 5 Bom. 99 [[3120.|312n.]] 
 12 Bom. 26 [[7630,|763n.]] 
-16 [[Bom, 29.|Bom. 29]] 570n. 
+16 Bom. 29 570n. 
 26 Bom. 163 [[7630,|763n.]] 
-26 [[Bom, 206|Bom. 206]] 450. 
+26 Bom. 206 450. 
 32 Bom. 348 [[4470,|447n.]] 
 32 Bom. 562 [[602. 619a. 7600,|602.]]

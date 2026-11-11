@@ -1,6 +1,5 @@
 +++
 title = "107 Raghunandana"
-
 +++
 
 107. Raghunandana
@@ -15,7 +14,7 @@ title = "107 Raghunandana"
 
 [[P892]]It is not feasible to give even brief summaries of Raghunandana's *tattvas*. Their very names indicate the subject matter. But one of them, the *Dāyatattva*, deserves special mention. It treats of partition made by father, partition among brothers after their father's death, persons not entitled to a share, property not liable to partition, evidence of separation, *strīdhana* and its devolution, inheritance to one dying sonless etc. His *Tithitattva* contains a description in Sanskrit of the game called *Caturaṅga* played on the full moon of Āśvina by four players. Vide (in vol. I) *Tithi-tattva* pp. 137–139 (for a description of 'caturangakrīḍana).
 
-Besides the 28 *tattvas* Raghunandana is said to have composed several other works. There is a commentary on the *Dāyabhāga* attributed to him. Colebrooke suspected its genuineness, but the colophon of the commentary[^1344] gives the same details about Raghunandana as are found in his admitted works. It is to be noticed that the *Dāyatattva* of Raghunandana sets forth the same principles of Hindu law that are peculiar to [[Jimūtavahana|Jīmūtavāhana]], though in matters of detail they disagree in a few cases. The *Vīramitrodaya* styles the author of the *Dāyatattva* a follower of Jīmūtavāhana.[^1345] It has been held by the Calcutta High Court that Raghunandana's is the best commentary on the *Dāyabhāga* and that the authority of Raghunandana is acknowledged and respected universally in the Bengal School.[^1346]
+Besides the 28 *tattvas* Raghunandana is said to have composed several other works. There is a commentary on the *Dāyabhāga* attributed to him. Colebrooke suspected its genuineness, but the colophon of the commentary[^1344] gives the same details about Raghunandana as are found in his admitted works. It is to be noticed that the *Dāyatattva* of Raghunandana sets forth the same principles of Hindu law that are peculiar to Jīmūtavāhana, though in matters of detail they disagree in a few cases. The *Vīramitrodaya* styles the author of the *Dāyatattva* a follower of Jīmūtavāhana.[^1345] It has been held by the Calcutta High Court that Raghunandana's is the best commentary on the *Dāyabhāga* and that the authority of Raghunandana is acknowledged and respected universally in the Bengal School.[^1346]
 
 [^1344]: इति श्रीवन्द्यघटीयहरिहरभट्टाचार्यात्मजरघुनन्दनभट्टाचार्यकृता दायभागटीका समाप्ता।
 
@@ -25,7 +24,7 @@ Besides the 28 *tattvas* Raghunandana is said to have composed several other wor
 
 Besides the above, Raghunandana wrote also *Tīrthatattva* or *Tīrthayātrāvidhitattva*, the *Dvādaśayātrātattva* (on the principal festivals at Jagannāthapurī, one in each month), *Tripuṣkaraśānti-tattva*, *Gayāśrāddhapaddhati* and *Rāsāyātrāpaddhati*. His works however are not very much in vogue elsewhere than in Bengal.
 
-Raghunandana was the son of [[Hariharabhatticārya|Hariharabhaṭṭācārya]] and was a Bengal Vandyaghaṭīya Brāhmaṇa. He was a pupil of Śrīnātha-ācārya-cūḍāmaṇi, whose works are frequently quoted in the [[P893]]several *tattvas* (vide Chakravarti in JASB for 1915 p. 351 n. 2). According to tradition Raghunandana and the great Vaiṣṇavite saint Caitanya were pupils of the same teacher, [[Vasudeva Sārva. bhauma|Vāsudeva Sārvabhauma]], who was the shining light of the new logic (navyanyāya) at Navadvīpa and were residents of that place (Sarvadhikari's Tagore Law Lectures, first edition p. 403 ff.).
+Raghunandana was the son of [[Hariharabhatticārya|Hariharabhaṭṭācārya]] and was a Bengal Vandyaghaṭīya Brāhmaṇa. He was a pupil of Śrīnātha-ācārya-cūḍāmaṇi, whose works are frequently quoted in the [[P893]]several *tattvas* (vide Chakravarti in JASB for 1915 p. 351 n. 2). According to tradition Raghunandana and the great Vaiṣṇavite saint Caitanya were pupils of the same teacher, Vāsudeva Sārvabhauma, who was the shining light of the new logic (navyanyāya) at Navadvīpa and were residents of that place (Sarvadhikari's Tagore Law Lectures, first edition p. 403 ff.).
 
 Among the authors and works quoted in his encyclopaedia by Raghunandana those noted below deserve mention.[^1347]
 

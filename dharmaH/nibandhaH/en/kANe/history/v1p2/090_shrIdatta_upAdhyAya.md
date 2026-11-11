@@ -1,6 +1,5 @@
 +++
 title = "090 Śrīdatta Upādhyāya"
-
 +++
 
 90. Śrīdatta Upādhyāya
@@ -31,12 +30,12 @@ The *Śrāddhakalpa* was composed by him for the Sāmavedins. It is referred to 
 
 [^1141]: समांसरुधिरदानमाह श्रीदत्तोपाध्यायकृतसमयप्रदीपे भविष्यपुराणम् । दुर्गोत्सवविवेक p. 21 (Calcutta Sanskrit Sahitya Parishad ed.).
 
-As Śrīdatta names the *Kalpataru*, Harihara and Halāyudha’s work on śrāddha he must have flourished later than 1200 A. D. As Caṇḍeśvara mentions his *Samayapradīpa*, Śrīdatta must have flourished before the first quarter of the 14th century. If Gaṇeśamiśra mentioned in the *Ācārādarśa* be the same as Gaṇeśvaramiśra, the author of [[Sugatisopana|*Sugatiṣopāna*]] and uncle of Caṇḍeśvara (which appears extremely probable), then Śrīdatta flourished a short time before Caṇḍeśvara and must have composed his works between 1275 and 1510 A. D.
+As Śrīdatta names the *Kalpataru*, Harihara and Halāyudha’s work on śrāddha he must have flourished later than 1200 A. D. As Caṇḍeśvara mentions his *Samayapradīpa*, Śrīdatta must have flourished before the first quarter of the 14th century. If Gaṇeśamiśra mentioned in the *Ācārādarśa* be the same as Gaṇeśvaramiśra, the author of *Sugatiṣopāna* and uncle of Caṇḍeśvara (which appears extremely probable), then Śrīdatta flourished a short time before Caṇḍeśvara and must have composed his works between 1275 and 1510 A. D.
 
 Śrīdatta affords hardly any information about himself or his family. But as he refers to certain writers by the general word ‘Gauḍāḥ’ (pakvatailam na duṣyatīti Gauḍāḥ p. 12 of *Chandogāhnika*) it may be assumed that he was not a Gauḍa but a Maithila.
 
-[[P763]]He was liberal enough to assert that a śūdra[^1142] can perform Vaiśvadeva and the offering of *bali*, but he cannot adopt the procedure of [[Sakala|Śākala]] as it includes Vedamantras; he can, however, perform those rites with ‘namaḥ’ as the Mantra and relies on Yāj. I. 12 and [[Vispupurāṇa|Viṣṇupurāṇa]] in support. The *Samayapradīpa* of Śrīdatta is quoted by Raghunandana in (vol. I), Mala° p. 839 and (vol. II) in Ekādaśī p. 44.
+[[P763]]He was liberal enough to assert that a śūdra[^1142] can perform Vaiśvadeva and the offering of *bali*, but he cannot adopt the procedure of Śākala as it includes Vedamantras; he can, however, perform those rites with ‘namaḥ’ as the Mantra and relies on Yāj. I. 12 and [[Vispupurāṇa|Viṣṇupurāṇa]] in support. The *Samayapradīpa* of Śrīdatta is quoted by Raghunandana in (vol. I), Mala° p. 839 and (vol. II) in Ekādaśī p. 44.
 
 [^1142]: शूद्रस्यापि वैश्वदेवबलिकर्मणी बोद्धव्ये । शाकलकल्पस्तु तस्य न सम्भवति वेदमन्त्रान्तर्भावात् । शूद्रस्यानधिकारो वैश्वदेवादाविति तु भ्रमः । दानं दद्याच्च शूद्रोपि पाकयज्ञैर्यजेत च । इति विष्णुपुराणवचनात् । भार्यारतिः ... नमस्कारेण पञ्चयज्ञान्न हापयेत् । इति याज्ञवल्क्यवचनाच्च पञ्चयज्ञाधिकारस्य स्फुटमवगमादिति । छन्दोगाह्निक 52. रघुनन्दन in तिथि ( Vol. I. p. 24 ) accepts this view of the Chandogāhnika.
 
-It appears that there was another Maithila writer called Śrīdattamiśra, son of [[Nāgeśvaraniśra|Nāgeśvaramiśra]], who composed the *Ekāgnidānapaddhati* and one or two other works (Hp. Nepal cat. p. 129). The Nepal Ms. of the *Ekāgnidāna-paddhati* was copied in La-Saṁ 299 (Lakṣmaṇasena era 299, i. e. 1418 A.D.). Vide Hp. Nepal cat. XII, 45 and 129. So this Śrīdatta flourished towards the end of the 14th century in the reign of Devasiṁha son of [[Bhavesa|Bhaveśa]]. Vide JASB for 1915 pp. 379–381 and 388–390 for Śrīdatta.
+It appears that there was another Maithila writer called Śrīdattamiśra, son of [[Nāgeśvaraniśra|Nāgeśvaramiśra]], who composed the *Ekāgnidānapaddhati* and one or two other works (Hp. Nepal cat. p. 129). The Nepal Ms. of the *Ekāgnidāna-paddhati* was copied in La-Saṁ 299 (Lakṣmaṇasena era 299, i. e. 1418 A.D.). Vide Hp. Nepal cat. XII, 45 and 129. So this Śrīdatta flourished towards the end of the 14th century in the reign of Devasiṁha son of Bhaveśa. Vide JASB for 1915 pp. 379–381 and 388–390 for Śrīdatta.

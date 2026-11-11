@@ -1,17 +1,16 @@
 +++
 title = "42 Caturviṁśatimata"
-
 +++
 
 [[P510]]
 
 42. Caturviṃśatimata
 
-There are two [[Mgs.|Mss.]] of this work in the Bhandarkar Institute, Poona (No. 244 of A. 1881-1882 and 111 of 1895-1902). It contains 525 verses. The work is so called because it embodies the essence of the teachings of 24 sages, Manu, [[Yājña valkya|Yājñavalkya]], Atri, Viṣṇu, Vasiṣṭha, Vyāsa, Uśanas, [[Apaskambe,|Āpastamba,]]
+There are two [[Mgs.|Mss.]] of this work in the Bhandarkar Institute, Poona (No. 244 of A. 1881-1882 and 111 of 1895-1902). It contains 525 verses. The work is so called because it embodies the essence of the teachings of 24 sages, Manu, Yājñavalkya, Atri, Viṣṇu, Vasiṣṭha, Vyāsa, Uśanas, [[Apaskambe,|Āpastamba,]]
 
 [[P511]]
 
-Vatsa, Hārīta, Guru (Bṛhaspati), Nārada, Parāśara, Gautama, Yama, Baudhāyana, Dakṣa, [[Saikha|Śaṅkha]], [[Aigiras|Aṅgiras]], Śatātapa, [[Sārkhya|Sāṅkhya]] (Sāṅkhyāyana?), Saṃvarta. The subjects treated of are :— The usages of the [[varmas|varṇas]] and [[iframas|āśramas]], śauca, ācamana, cleansing the teeth, bath, prāṇāyāma, repeating the Gāyatrī, study of the Vedas, marriage, agnihotra, five great daily yajñas, means of livelihood, forest hermits, [[sam nyāsins|saṃnyāsins]], duties of Kṣatriyas and the other two varṇas, prāyaścittas for the deadly sins and other lesser misdeeds, means of livelihood, śrāddha, āśauca (on birth and death).
+Vatsa, Hārīta, Guru (Bṛhaspati), Nārada, Parāśara, Gautama, Yama, Baudhāyana, Dakṣa, [[Saikha|Śaṅkha]], [[Aigiras|Aṅgiras]], Śatātapa, [[Sārkhya|Sāṅkhya]] (Sāṅkhyāyana?), Saṃvarta. The subjects treated of are :— The usages of the [[varmas|varṇas]] and [[iframas|āśramas]], śauca, ācamana, cleansing the teeth, bath, prāṇāyāma, repeating the Gāyatrī, study of the Vedas, marriage, agnihotra, five great daily yajñas, means of livelihood, forest hermits, saṃnyāsins, duties of Kṣatriyas and the other two varṇas, prāyaścittas for the deadly sins and other lesser misdeeds, means of livelihood, śrāddha, āśauca (on birth and death).
 
 In the Govt. Mss. library at the B. O. R. Institute (Poona), there is a Ms. bearing No. 111 of 1895-1902 of Caturviṃśatimata which contains 526 verses and another No. 244 of A. 1881-82 which has 525 verses.
 
@@ -23,17 +22,17 @@ The work often quotes the views of Uśanas, Manu, Pārāśarya, Aṅgiras, Yama,
 
 [^587]: यन्नास्ति वेदे न च यत्पुराणे रामायणे भारतसङ्गरे वा । मन्वादिशास्त्रेषु च यन्न वोक्तं तन्नास्ति नास्तीति न तेन कार्यम् ॥
 
-The Caturviṃśatimata is frequently quoted by the Mit., [[A parārka|Aparārka]] and later [[work8,688|works[^588]]] but not by Viśvarūpa and
+The Caturviṃśatimata is frequently quoted by the Mit., Aparārka and later [[work8,688|works[^588]]] but not by Viśvarūpa and
 
 [[P512]]
 
 Medhātithi. It was probably compiled about the time when the latter two writers flourished. Aparārka[^589] (p. 1121) quotes a prose passage from the work on the prāyaścitta for a dvijāti procreating children on a Śūdra wife. This passage could not be traced in the two mss. referred to above.
 
-The Mit. on Yāj. III. 58 quotes the [[Caturo|Catur°]] for the proposition that a person resorting to the 4th āśrama (i.e. Sannyāsa) may be 'ekadaṇḍin' or 'tridaṇḍin'. The Mit. quotes several verses from the [[Caturo|Catur°]] on penances ([[prayas cittas|prāyaścittas]]) for serious and light sins or offences. It suggests alternative penances for even very heinous sins, e. g. on Yāj. III. 308 it provides that if a person performs the Japa of Gāyatrī (Ṛg. III. 62. 10 tat-savitur-vareṇyam) a crore of times he atones for the sin of brāhmaṇa murder, becomes free from the sin of drinking liquor by japa of Gāyatrī 80 lakhs of times, from the sin of the theft of gold by [[repeat ing|repeating]] 70 lakhs of times the Gāyatrī. The Smṛti-candrikā quotes [[Caturo|Catur°]] many times on Āhnika and on Śrāddha. It quotes the opinion of Baudhāyana in a verse and goes so far as to say that a man becomes free from sins by the japa of Brāhmaṇa works, the six aṅgas, the ākhyānas (legends), Itihāsa, [[Purālas|Purāṇas]] and praises of gods and expositions on Dharma. Aparārka also quotes about 60 verses of Caturviṃśatimata and one [[proge|prose]] passage on p. 1121 (quoted below).
+The Mit. on Yāj. III. 58 quotes the [[Caturo|Catur°]] for the proposition that a person resorting to the 4th āśrama (i.e. Sannyāsa) may be 'ekadaṇḍin' or 'tridaṇḍin'. The Mit. quotes several verses from the [[Caturo|Catur°]] on penances (prāyaścittas) for serious and light sins or offences. It suggests alternative penances for even very heinous sins, e. g. on Yāj. III. 308 it provides that if a person performs the Japa of Gāyatrī (Ṛg. III. 62. 10 tat-savitur-vareṇyam) a crore of times he atones for the sin of brāhmaṇa murder, becomes free from the sin of drinking liquor by japa of Gāyatrī 80 lakhs of times, from the sin of the theft of gold by repeating 70 lakhs of times the Gāyatrī. The Smṛti-candrikā quotes [[Caturo|Catur°]] many times on Āhnika and on Śrāddha. It quotes the opinion of Baudhāyana in a verse and goes so far as to say that a man becomes free from sins by the japa of Brāhmaṇa works, the six aṅgas, the ākhyānas (legends), Itihāsa, [[Purālas|Purāṇas]] and praises of gods and expositions on Dharma. Aparārka also quotes about 60 verses of Caturviṃśatimata and one [[proge|prose]] passage on p. 1121 (quoted below).
 
 [^588]: जप्त्वा पापैः प्रमुच्येत बोधायनवचो यथा । त्रिमधुस्त्रिसुपर्णं च नाचिकेतमथ यथा । नारायणं जपेत्सर्वं मुच्येत ब्रह्महत्यया । हंसः शुचिषदित्येकां जपेद्वा त्रियम्बकम् ॥ ब्राह्मणानि च कल्पांश्च देवतास्तवनानि च । जप्त्वा पापैः प्रमुच्येत धर्माख्यानैस्तथापरैः ॥ चतुर्विंशतिमत q. by स्मृतिच०, आह्निक pp. 187-188 ; हंसः शुचिषद्° is Ṛg. IV. 40. 5 ; त्रियम्बकं is त्र्यम्बकं यजामहे Ṛg. VII. 59. 12.
 
-[[Anothor|Another]] somewhat remarkable point is that [[A parārka|Aparārka]] in several cases places Caturviṃśatimata passages [[immediate ly|immediately]] near Ṣaṭ-triṃśatmata passages (vide Aparārka pp. 1081, 1172-74, 1182, 1248).
+[[Anothor|Another]] somewhat remarkable point is that Aparārka in several cases places Caturviṃśatimata passages immediately near Ṣaṭ-triṃśatmata passages (vide Aparārka pp. 1081, 1172-74, 1182, 1248).
 
 The portions of the works on [[saṇskāra|saṃskāra]] and śrāddha together with the commentary of Bhaṭṭoji, son of Lakṣmīdhara, have been published in the Benares Sanskrit
 

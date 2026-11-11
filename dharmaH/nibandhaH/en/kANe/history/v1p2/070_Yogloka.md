@@ -1,13 +1,12 @@
 +++
 title = "070 Yogloka"
-
 +++
 
 [[P598]]
 
 70. Yogloka
 
-Yogloka like Jitendriya and Bālaka is a writer about whom we know only from the works of Jīmūtavāhana and Raghunandana. He is the last of the series of writers enumerated in one place by the Kālaviveka as having dealt with the subject of *kāla* (vide note 611 above). The [[Vyavahāra-mātṛkā|Vyavahāramātṛkā]] of Jīmūtavāhana very frequently[^815] cites the views of Yogloka and generally twits him with thinking himself as being a logician or a new-fangled (*nava-tārkikān-manya*) logician. Both in the Kālaviveka and the Vyavahāramātṛkā Yogloka is generally cited for being refuted (e. g. pp. 457-58, 465, 483 of the Kālaviveka). It is only very rarely that Jīmūtavāhana agrees with Yogloka (as on p. 369 of the Kālaviveka). From certain passages of the Kālaviveka it follows that Yogloka composed two works, one called Bṛhad-Yogloka (larger work) and the other styled Svalpa-Yogloka (a smaller-work).[^816] It appears that Yogloka was later than Śrīkara and accepted certain illustrations given by the latter.[^817] The Vyavahāratattva of Raghunandana informs us that like Śrīkara and Bālaka, Yogloka held the view that twenty years' adverse possession of immovables conferred ownership (vide note 624 above). The same work tells us that the Maithilas followed the view of Yogloka that the verse of Kātyāyana (*yadyekadeśavyāptāpi...nṛṇām*) was intended to apply to a case where a litigant threw down the challenge that if even
+Yogloka like Jitendriya and Bālaka is a writer about whom we know only from the works of Jīmūtavāhana and Raghunandana. He is the last of the series of writers enumerated in one place by the Kālaviveka as having dealt with the subject of *kāla* (vide note 611 above). The Vyavahāramātṛkā of Jīmūtavāhana very frequently[^815] cites the views of Yogloka and generally twits him with thinking himself as being a logician or a new-fangled (*nava-tārkikān-manya*) logician. Both in the Kālaviveka and the Vyavahāramātṛkā Yogloka is generally cited for being refuted (e. g. pp. 457-58, 465, 483 of the Kālaviveka). It is only very rarely that Jīmūtavāhana agrees with Yogloka (as on p. 369 of the Kālaviveka). From certain passages of the Kālaviveka it follows that Yogloka composed two works, one called Bṛhad-Yogloka (larger work) and the other styled Svalpa-Yogloka (a smaller-work).[^816] It appears that Yogloka was later than Śrīkara and accepted certain illustrations given by the latter.[^817] The Vyavahāratattva of Raghunandana informs us that like Śrīkara and Bālaka, Yogloka held the view that twenty years' adverse possession of immovables conferred ownership (vide note 624 above). The same work tells us that the Maithilas followed the view of Yogloka that the verse of Kātyāyana (*yadyekadeśavyāptāpi...nṛṇām*) was intended to apply to a case where a litigant threw down the challenge that if even
 
 [^815]:
     Vide pp. 291, 293, 295, 310, 312, 313, 347.

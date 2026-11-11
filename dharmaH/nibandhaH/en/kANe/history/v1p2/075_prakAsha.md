@@ -1,6 +1,5 @@
 +++
 title = "075 Prakāśa"
-
 +++
 
 [[P652]]
@@ -25,7 +24,7 @@ Whether the Prakāśa was an independent work or a commentary is somewhat doubtf
 [^885]:
     कल्पतरौ तु अविजानतेति स्थाने अभिजानतेति पाठो दर्शितः स तु याज्ञवल्क्य-प्रकाश-हलायुध-पारिजातविरोधात् प्रमादपाठ इति लक्षितः । वि. र. p. 198.
 
-The Vivādacintāmaṇi in several places gives the explanation of Prakāśa.[^886] The Smṛtisāra[^887] gives at great length the [[P654]] explanation of Prakāśa on the controversial verses of Yāj. (II. 138-139). The Viramitrodaya[^888] quotes at length Prakāśa's explanation of Manu (9. 207) and disapproves of it on the ground (among others) that the verse can more clearly be explained so as to convey a meaning similar to that of Yāj. II. 116. The Prakāśa is mentioned in the [[Dayatattva|Dāyatattva]] (vol. II, p. 173) and in the [[Suddhitattva|Śuddhitattva]] (vol. II, p. 288) and p. 385 and the Mahārnava-prakāśa is mentioned in the [[Kaljataru|Kalpataru]] on Śrāddha p. 262.
+The Vivādacintāmaṇi in several places gives the explanation of Prakāśa.[^886] The Smṛtisāra[^887] gives at great length the [[P654]] explanation of Prakāśa on the controversial verses of Yāj. (II. 138-139). The Viramitrodaya[^888] quotes at length Prakāśa's explanation of Manu (9. 207) and disapproves of it on the ground (among others) that the verse can more clearly be explained so as to convey a meaning similar to that of Yāj. II. 116. The Prakāśa is mentioned in the Dāyatattva (vol. II, p. 173) and in the Śuddhitattva (vol. II, p. 288) and p. 385 and the Mahārnava-prakāśa is mentioned in the [[Kaljataru|Kalpataru]] on Śrāddha p. 262.
 
 [^886]:
     विद्ययापि साधारणधनानुपलेषेण यदार्जितं तदेवाविभाज्यमिति प्रकाशकारः । तन्न उभयोपादानानर्थक्यात् । वि. चि. p. 135 ; ' परिसंख्यानबलात्पितृभ्रातृपितृव्यैरेव विभागपूर्वकं धनमेतन्न संसर्ग इति प्रकाशः । ' वि. चि. p. 157 ; vide pp. 130, 140 also.

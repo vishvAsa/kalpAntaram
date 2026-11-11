@@ -1,10 +1,9 @@
 +++
 title = "35 The Parāśara Smṛti"
-
 +++
 
 [[P459]]
-This work has been published several times, but the [[edi. tion|edition]] of Jīvananda (part II. pp. 1-52) and that in the Bombay Sanskrit Series with the voluminous gloss of the great Mādhava are the best known. In the following pages [[Jika nanda's|Jīvananda’s]] edition has been used.
+This work has been published several times, but the edition of Jīvananda (part II. pp. 1-52) and that in the Bombay Sanskrit Series with the voluminous gloss of the great Mādhava are the best known. In the following pages [[Jika nanda's|Jīvananda’s]] edition has been used.
 
 The smṛti of Parāśara must have been an ancient one as Yāj. (I. 4) mentions him among the ancient writers on [[dha wim|dharma]].
 
