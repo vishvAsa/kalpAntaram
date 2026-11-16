@@ -51,7 +51,7 @@ service of the Teacher, or by much wealth, or by knowledge (in exchange); there 
 
 <details><summary>भारुचिः</summary>
 
-गुर्वादिशुश्रूषाविध्यनुष्ठानशेषः श्लोकः (४ अक्ष् लचुन) रश् च ।
+गुर्वादिशुश्रूषाविध्यनुष्ठानशेषः श्लोकः (४ अक्ष् lacuna) रश् च ।
 
 **मुण्डो वा जटिलो वा स्याद् अथ वा स्याच् छिकाजटः ।**
 

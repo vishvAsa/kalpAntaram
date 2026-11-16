@@ -57,5 +57,5 @@ See Comparative notes for [Verse 2.93].
 
 <details><summary>भारुचिः</summary>
 
-इदं चान्यत् प्रसङ्ख्यानं पूर्वविशेषरू (१ अक्ष् लचुन) तम् ।
+इदं चान्यत् प्रसङ्ख्यानं पूर्वविशेषरू (१ अक्ष् lacuna) तम् ।
 </details>
