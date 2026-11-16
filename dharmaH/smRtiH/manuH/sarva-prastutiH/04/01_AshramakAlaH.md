@@ -1,24 +1,22 @@
 +++
 title = "०१ आश्रमकालः"
-
 +++
 
-<div class="js_include" includetitle="true" newlevelforh1="5" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/04/001_chaturtham_AyuSho.md">
-<details open><summary><h5>001 चतुर्थम् आयुषो ...{Loading}...</h5></summary>
-
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्थम् आयुषो भागम्  
 उषित्वाद्यं गुरौ द्विजाः ।  
 द्वितीयम् आयुषो भागं  
-कृत-दारो गृहे वसेत्  ॥ ४.१ ॥  
+कृत-दारो गृहे वसेत्  ॥ ४.१ ॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/001_chaturtham_AyuSho.md">
-<details><summary><h6>सर्वाष् टीकाः ...{Loading}...</h6></summary>
+
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/001_chaturtham_AyuSho.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having dwelt, during the first quarter of his life, with the Teacher, the Brāhmaṇa shall, during the second quarter of his life, live in his house, after having taken a wife.—(1)
 </details>
+
 <details><summary>मेधातिथिः</summary>
 
 संक्षेपेणातिक्रान्तस्याध्यायद्वयस्यार्थं कथयत्य् अनुस्मरणाय । गार्हस्थ्यधर्मस्यायं वृत्तिविधिर् इति द्वितीयं श्लोकप्रयोजनम् । 
@@ -27,58 +25,43 @@ Having dwelt, during the first quarter of his life, with the Teacher, the Brāhm
 
 - **चतुर्थम्** आद्यम् **आयुषो भागं** । जन्मापेक्षम् आद्यत्वम् । **गुरौ उषित्वा** ब्रह्मचर्यं कृत्वा, ततो **द्वितीयं** चतुर्थम् आयुषो भागं कृतविवाहो **गृहे वसेत्** । गृहस्थाश्रमम् अनुतिष्ठेत्, तत्र वसेत् ॥ ४.१ ॥
 </details>
+
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The first verse sums up in brief what has gone in the last two
-discourses, for the purpose of recalling it to the mind; and the second
-verse serves to indicate that among the Duties of the Householder this
-prescribes the means of livelihood.
+The first verse sums up in brief what has gone in the last two discourses, for the purpose of recalling it to the mind; and the second verse serves to indicate that among the Duties of the Householder this prescribes the means of livelihood.
 
-Inasmuch as the extent of ‘life’ of man is uncertain, any rule regarding
-the ‘quarter’ of life becomes incompatible; hence the present verse is
-to be taken as stating only the period of life that has been allocated
-to the various stages of life. Though the rule might somehow be
-justified on the basis of the assertion that ‘man lives for a hundred
-years,’ yet our Author has himself laid down other kinds of limit;
+Inasmuch as the extent of ‘life’ of man is uncertain, any rule regarding the ‘quarter’ of life becomes incompatible; hence the present verse is to be taken as stating only the period of life that has been allocated to the various stages of life. Though the rule might somehow be justified on the basis of the assertion that ‘man lives for a hundred years,’ yet our Author has himself laid down other kinds of limit;
 *e.g*., with regard to studentship he has said that ‘it may extend till
-the Veda has been got up’ (3. 1); and in connection with the limit of
-the stage of the Householder also, it has been said (6. 2)—‘when the
-Householder finds etc.;’ and from all this it follows that the present
-verse is to be taken simply as the reiteration of the said limits.
+the Veda has been got up’ (3. 1); and in connection with the limit of the stage of the Householder also, it has been said (6. 2)—‘when the Householder finds etc.;’ and from all this it follows that the present verse is to be taken simply as the reiteration of the said limits.
 
-‘*The first quarter of his life*.’—This is regarded as ‘first,’ counting
-from the man’s birth.
+‘*The first quarter of his life*.’—This is regarded as ‘first,’ counting from the man’s birth.
 
-‘*Having dwelt with his Teacher*,’—*i.e*., having accomplished his
-studentship;—‘*during the second quarter of his life*,’—he shall marry,
-and ‘*live in his house*’;—*i.e*., lead the life of the Householder.—(1)
+‘*Having dwelt with his Teacher*,’—*i.e*., having accomplished his studentship;—‘*during the second quarter of his life*,’—he shall marry, and ‘*live in his house*’;—*i.e*., lead the life of the Householder.—(1)
 </details>
+
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 562), which adds
-that the rule here laid down is on the basis of the understanding that
-the ordinary span of man’s life is a hundred years;—and in
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 562), which adds that the rule here laid down is on the basis of the understanding that the ordinary span of man’s life is a hundred years;—and in
 *Saṃskāramayūkha*, (p. 64), which remarks that the span of man’s life
-being a hundred years, one should devote twenty-five years to each of
-the four life—stages,—such is the view of the writers of the Digests.
+being a hundred years, one should devote twenty-five years to each of the four life—stages,—such is the view of the writers of the Digests.
 </details>
+
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata* (12.242.28-30).—‘The pupil shall pass through the
-life-stages, free from vulgarity; having gone through the fourth part of
-his life by keeping the fasts and observances, relating to the Veda, he
-shall offer the fee to his preceptor and perform the ceremony of
-‘Return’ according to the law; being united to a virtuous wife and
-having, with due care, kindled the fires, the householder shall pass the
-second quarter of his life, keeping firm in his observances.’
+life-stages, free from vulgarity; having gone through the fourth part of his life by keeping the fasts and observances, relating to the Veda, he shall offer the fee to his preceptor and perform the ceremony of ‘Return’ according to the law; being united to a virtuous wife and having, with due care, kindled the fires, the householder shall pass the second quarter of his life, keeping firm in his observances.’
 
-Do. (12.243.1).—‘During the second quarter of his life, the householder
-shall live in the house, firm in his observances, after having been
-united to a virtuous wife and having kindled the fires.’
+Do. (12.243.1).—‘During the second quarter of his life, the householder shall live in the house, firm in his observances, after having been united to a virtuous wife and having kindled the fires.’
 </details>
+
 <details><summary>Bühler</summary>
 
 001	Having dwelt with a teacher during the fourth part of (a man's) life, a Brahmana shall live during the second quarter (of his existence) in his house, after he has wedded a wife.
+</details>
+
+<details><summary>भारुचिः</summary>
+
+ब्रह्मचर्यकालस्य विहितत्वात् "**चतुर्थम् आयुषो भागम्**" इत्य् एतद् उत्तरविवक्षार्थम् उद्दिष्टसङ्कीर्तनम् । एतेन द्वितीयभागो व्याख्यातः । "गृहे वसेद् द्विजः" इत्य् अनेन तृतीयाध्यायविहितस्य पञ्चमहायज्ञादेः कर्मणो ऽनुष्ठानम् उच्यते । तच् च पुनर् अनुष्ठानं कर्मणो वित्तसाधनं यस्माद् अर्थवृत्तिनियमशास्त्रम् इदं प्रक्रियते ।
 </details>
 </details>
 </div>

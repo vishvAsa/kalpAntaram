@@ -13,15 +13,13 @@ But, for others - maybe some other smRti explicitly allows even in other cases, 
 
 ## बहु-पतित्व-निषेधः
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/05/162_nA-nyotpannA_prajAstIha.md">
-<details open><summary><h3>162 नाऽन्योत्पन्ना प्रजास्तीह ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाऽन्योत्पन्ना प्रजा ऽस्तीह  
 न चाऽप्य् अन्यपरिग्रहे [मेधातिथिपाठः - न चाऽन्यस्य परिग्रहे] ।  
 न द्वितीयश् च साध्वीनां  
 क्व चिद् भर्तोपदिश्यते  ॥ ५.१६२ ॥ [१६० मेधातिथिपाठे]
 </details>
-</div>
 
 ## आपद्-धर्मः
 - नरकासुर-मुक्त-कृष्ण-गृहीताः कन्याः। 

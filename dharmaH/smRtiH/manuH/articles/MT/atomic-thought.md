@@ -3,41 +3,36 @@ title = "Atomic thoughts"
 +++
 Source: [TW](https://www.oocities.org/somasushma/manu.html)
 
-
 The presence of atomic thought in the manu-smR^iti
 
 One of the most profound philosophical achievements of the ancient Hindus was the development of the vaisheShika darshaNa or the theory of the particulate structure of all matter. While the principle text of the vaisheShikas is kaNAda’s work, there is clear evidence that the philosophy had a more ancient root in the speculative hymns of the vedic saMhitas (for example Atharva Veda [shaunaka shAkha] 12.1.26, and RV 10.72.6). It is interesting to note that along with the other vedic philosophical and origin-mythological constructs the MDS also presents a scheme for the particular construction of matter (MDS1.15-20):
 
-
-
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/01_praveshaH/015_mahAntam_eva.md">
-<details open><summary><h3>015 महान्तम् एव ...{Loading}...</h3></summary>
-
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महान्तम् एव चात्मानं  
 सर्वाणि त्रि-गुणानि च ।  
 विषयाणां ग्रहीतॄणि  
 शनैः पञ्चेन्द्रियाणि च  ॥ १.१५ ॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/015_mahAntam_eva.md">
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/015_mahAntam_eva.md">
 <details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Also the all-pervading ‘mahat’ (the ‘great’ principle of intelligence); as also all those things that consist of the three constituent attributes, and in due course, also the five organs of sensation which apprehend objects.—(15)
 </details>
+
 <details><summary>मेधातिथिः</summary>
 
 **महान्** इति संज्ञया सांख्यानां तत्त्वं प्रसिद्धम् । **आत्मानम्** इति महता सामानाधिकरण्यम् । सर्वपिण्डसृष्टौ च महत्तयानुस्यूतम्[^४६] अत आत्मव्यवहारः । अहंकारात् पूर्वं पूर्वेण न्यायेन ससर्ज । **सर्वाणि त्रिगुणानि च** । यथानुक्रान्तं यथानुक्रम्यते तत् सर्वं त्रिगुण । सत्वरजस्तमांसि गुणाः । क्षेत्रज्ञाः केवलं निर्गुणाः । प्राकृतो भागः सर्वः सत्त्वरजस्तमोमयः । **पञ्चेन्द्रियाणि** तेषां निर्देश**विषयाणां** रूपरसादीनां यथास्वं **ग्रहीतॄणि** विज्ञानजनकानि । **पञ्च** "श्रोत्रं त्वग्" इत्यादिना वक्ष्यन्ते (म्ध् २.९०) विशेषनामानि[^४७] । **च**सब्देन विषयांश् च शब्दस्पर्शरूपरसगन्धान् पृथिव्यादीनि च ॥ १.१५ ॥
 
-
 [^४७]:
 M G 1st ed.: nāma
-
 
 [^४६]:
 M G 1st ed.: -ānurūpam
 </details>
+
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
 The creation of the Elemental Principles is now described. What forms
@@ -53,22 +48,21 @@ appearing in the form of the notion of ‘I,’ is a function of the
 Principle of Egoism; it is called *all-powerful* in the sense that it is
 capable of accomplishing its work.—(14)
 
-
-
-&gt; **Sanskrit text, Unicode transliteration and English translation by
-&gt; Ganganath Jha:**
-&gt;
-&gt; महान्तमेव चात्मानं सर्वाणि त्रिगुणानि च ।  
-&gt; विषयाणां ग्रहीतॄणि शनैः पञ्चैन्द्रियाणि च ॥ १५ ॥
-&gt;
-&gt; *mahāntameva cātmānaṃ sarvāṇi triguṇāni ca* \| *
-&gt; viṣayāṇāṃ grahītṝṇi śanaiḥ pañcaindriyāṇi ca* \|\| 15 \|\|
-&gt;
-&gt; Also the all-pervading ‘mahat’ (the ‘great’ principle of
-&gt; intelligence); as also all those things that consist of the three
-&gt; constituent attributes, and in due course, also the five organs of
-&gt; sensation which apprehend objects.—(15)
+> **Sanskrit text, Unicode transliteration and English translation by
+> Ganganath Jha:**
+>
+> महान्तमेव चात्मानं सर्वाणि त्रिगुणानि च ।  
+> विषयाणां ग्रहीतॄणि शनैः पञ्चैन्द्रियाणि च ॥ १५ ॥
+>
+> *mahāntameva cātmānaṃ sarvāṇi triguṇāni ca* \| *
+> viṣayāṇāṃ grahītṝṇi śanaiḥ pañcaindriyāṇi ca* \|\| 15 \|\|
+>
+> Also the all-pervading ‘mahat’ (the ‘great’ principle of
+> intelligence); as also all those things that consist of the three
+> constituent attributes, and in due course, also the five organs of
+> sensation which apprehend objects.—(15)
 </details>
+
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 **(verse xiv-xv)**
@@ -107,40 +101,40 @@ meant to provide an accurate account of the precise order of creation;
 all that is meant to be shown is that all things were produced out of
 parts of the body of the Creator himself.
 </details>
+
 <details><summary>Bühler</summary>
 
 015	Moreover, the great one, the soul, and all (products) affected by the three qualities, and, in their order, the five organs which perceive the objects of sensation.
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/01_praveshaH/016_teShAn_tv.md">
-<details open><summary><h3>016 तेषान् त्व् ...{Loading}...</h3></summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां त्व् अवयवान् सूक्ष्मान्  
 षण्णाम् अप्य् अमितौजसाम् ।  
 सन्निवेश्यात्ममात्रासु  
 सर्वभूतानि निर्ममे [मेधातिथिपाठः - सन्निवेश्य]  ॥ १.१६ ॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/016_teShAn_tv.md">
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/016_teShAn_tv.md">
 <details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having combined the subtile components of the said six principles of illimitable potency with their own evolutes, he created even all beings.—(16)
 </details>
+
 <details><summary>मेधातिथिः</summary>
 
 **तेषां षण्णां** या **आत्ममात्रास्** तासु **सूक्ष्मान्** **अवयवान्** **संनिवेश्य** **सर्वभूतानि निर्ममे** । तत्र षट्संख्यया वक्ष्यमाणानि पञ्च तन्मात्राणि अतिक्रान्तश् चाहंकारः प्रतिनिर्दिश्यते । आत्ममात्रास् तेषां स्वविकाराः । तन्मात्राणां भूतानि, अहंकारस्येन्द्रियाणि । पृथिव्यादिषु भूतेषु शरीररूपतया तिष्ठत्सु सूक्ष्मान् अवयवांस् तन्मात्राहंकारान् संनिवेश्य यथास्थानं योजनं कृत्वा सर्वभूतानि देवमनुष्यतिर्यक्पक्षिस्थावरादीनि निर्ममे । एतद् उक्तं भवति । षड् अविशेषा अवयवा एकदेशारम्भकाः सर्वस्य जगतस् तस्य तदारब्धत्वात् । सूक्ष्मत्वं तन्मात्रसंज्ञयैव सिद्धम् । तानि संनिवेश्य संनिहत्य[^४८] तेषाम् एवात्ममात्रांस् तद्विकारान्[^४९] भूतेन्द्रियाणि निर्ममे । तैश् च पिण्डसृष्टिं चकारात् । "**मात्रासु**" इत्य् अत्र "मात्राभिः" इति युक्तः पाठः ॥ १.१६ ॥
 
-
 [^४९]:
 M G: evātmamātrās tadvikārāḥ
-
 
 [^४८]:
 J: saṃhatya
 </details>
+
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
 The said six principles of their own respective evolutes,—to these he
@@ -170,6 +164,7 @@ being indicated by the word ‘even.’
 
 In place of ‘*mātrāsu*’ it is better to rend ‘*mātrābhiḥ*’.—(16)
 </details>
+
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 *Six elements*—The five Rudimentary Substances and the Principle of
@@ -199,32 +194,34 @@ principles’ with ‘their own evolutes.’
 Hopkins remarks that ‘*ātmamātrā*’ stands for ‘the *spiritual* atom as
 opposed to the *elementary*,—not reflexive *elements of himself*.’
 </details>
+
 <details><summary>Bühler</summary>
 
 016	But, joining minute particles even of those six, which possess measureless power, with particles of himself, he created all beings.
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/01_praveshaH/017_yan_mUrty-avayavAH.md">
-<details open><summary><h3>017 यन् मूर्त्य्-अवयवाः ...{Loading}...</h3></summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन् मूर्त्य्-अवयवाः सूक्ष्मास्  
 तानीमान्य् आश्रयन्ति षट् ।  
 तस्माच् छरीरम् इत्य् आहुस्  
 तस्य मूर्तिं मनीषिणः  ॥ १.१७ ॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/017_yan_mUrty-avayavAH.md">
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/017_yan_mUrty-avayavAH.md">
 <details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Because the six subtile components of the frame (of primordial matter) enter into (produce) these, therefore the wise ones have described the frame of that (primordial matter) as ‘body.’—(17)
 </details>
+
 <details><summary>मेधातिथिः</summary>
 
 **मूर्तिः** शरीरम् । तदर्थास् तत्सम्पादका **अवयवाः** । **सूक्ष्माः** **षड्** उक्तस्वरूपाश् च अविशेषाख्याः । **तानीमानि** इन्द्रियाणि वक्ष्यमाणानि च भूतान्य् **आश्रयन्ति** । तस्योत्पत्तेर् भूतान्य् आश्रयन्तीत्य् उच्यते । तदाश्रयोत्पत्तिस् तेषाम् । पठितं च "पञ्चभ्यः पञ्च भूतानि" इति (साम्क् २२) । यद् येन कारणेनाश्रयन्ति तस्मात् कारणात् **शरीरं तस्य** प्रधानस्य येयं मूर्तिः **शरीरम् इत्य्** उच्यते । **मनीषिणः** । मनीषा बुद्धिस् तद्वन्तः पण्डीताः । अथ वा विपरीतः कर्तृभावः । सूक्ष्माः कर्तार इन्द्रियाणि कर्म । अवयवाश् चेन्द्रियाणाम् आश्रयभावं प्रतिपद्यमाना आश्रयन्तीत्य् उच्यते । यथा "बहुभिर् भुक्तः" इति भोजयन् भुक्त इत्य् उच्यते । अथ वानेकार्थत्वाद् धातूनां आश्रयन्ति जनयतीत्य् अर्थः ॥ १.१७ ॥
 </details>
+
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
 ‘*Frame*’—body; the ‘*components*’ of it are those things that
@@ -257,6 +254,7 @@ man doing the *feeding* is spoken of as ‘fed.’—Or, since verbal roots
 may have several meanings, ‘*enter in*’ may be explained as
 ‘produce.’—(17)
 </details>
+
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 Nandana explains the verse to mean that ‘the body of *Hiraṇyagarbha* is
@@ -281,32 +279,34 @@ should be an accusative ending in in order to make it the object of
 forward *another* construction by which *sūkṣmāḥ* is the nominative and
 *tānīmāni* the objective of the verb *āśrayanti*,
 </details>
+
 <details><summary>Bühler</summary>
 
 017	Because those six (kinds of) minute particles, which form the (creator's) frame, enter (a-sri) these (creatures), therefore the wise call his frame sarira, (the body.)
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/01_praveshaH/018_tad_Avishanti.md">
-<details open><summary><h3>018 तद् आविशन्ति ...{Loading}...</h3></summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् आविशन्ति भूतानि  
 महान्ति सह कर्मभिः ।  
 मनश् चाऽवयवैः सूक्ष्मैः  
 सर्वभूतकृद् अव्ययम्  ॥ १.१८ ॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/018_tad_Avishanti.md">
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/018_tad_Avishanti.md">
 <details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The great elemental substances, along with their functions, as also the mind, along with its subtile components, enter into that which (on that account) is the generator of all things and imperishable.—(18)
 </details>
+
 <details><summary>मेधातिथिः</summary>
 
 तद् एतत् प्रधानं **सर्वभूतकृद्** भवति । **अव्ययम्** अविनाशं कारणात्मना । कथं सर्वाणि **भूतानि** करोति । यतस् तद् **आविशन्ती**मानि । कानि पुनस् तानि । **मनः सूक्ष्मैर् अवयवैः **सह तन्मात्रैर् बुद्ध्यहंकारेन्दियलक्षणैः । अनन्तरं **महान्ति भूतानि** पृथिव्यप्तेजोवाय्वाकाशाख्यानि । **सह कर्मभिः** । धृतिसंहननपक्तिव्यूहावकाशाः पृथिव्यादीनां यथाक्रमं कर्माणि । तत्र धृतिः धारणं सरणपतनधर्मकस्य एकत्रावस्थानम् । संग्राहकाद् विकीर्णस्य संहननम् । यथा पांसवो विकीर्णा उदकेन संहन्यन्ते पिण्डीक्रियन्ते । पक्तिर् अन्नौषधतृणादेस् तेजसः कार्यतया प्रसिद्धा । व्यूहो विन्यासः संनिवेशः । अवकाशो मूर्त्यन्तरेणाप्रतिबन्धः । न हि यस्मिन् देशे मूर्तिर् एका स्थिता तत्र मूर्त्यन्तरस्य स्थानम् । सुवर्णपिण्डे न कस्यचिद् अन्तःसंभवः । मनोग्रहणं सर्वेन्द्रियप्रदर्शनार्थम् । कर्मग्रहणेन च कर्मेन्द्रियाणि वा गृह्यन्ते । अथ वा तत्कार्यं सूक्ष्मैर् अवयवैर् युक्तं महान्ति भूतान्य् अधितिष्ठति पश्चाद् इत्य् एवं योजना । इन्द्रियाणि च मनःशब्दस्य प्रदर्शनार्थत्वात् ॥ १.१८ ॥
 </details>
+
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
 ‘*That*,’ ‘Primordial Matter—is ‘the generator of all things’:—it is
@@ -356,6 +356,7 @@ with the subtile components, enter into the great elemental
 substances’—‘as also do the organs of sensation,’ this latter being
 indicated by the word ‘*Mind*.’—(18)
 </details>
+
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 Buhler supplies the translation of the verse according to the five
@@ -383,46 +384,47 @@ karmabhiḥ saha—manaśca sūkṣmaiḥ avayavaiḥ*.
 
 Medhātithi himself offers a second explanation.
 </details>
+
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata*, 12.232.12.—(First half is the same as Manu.)
 </details>
+
 <details><summary>Bühler</summary>
 
 018	That the great elements enter, together with their functions and the mind, through its minute parts the framer of all beings, the imperishable one.
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/01_praveshaH/019_teShAm_idam.md">
-<details open><summary><h3>019 तेषाम् इदम् ...{Loading}...</h3></summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषाम् इदं तु सप्तानां  
 पुरुषाणां महौजसाम् ।  
 सूक्ष्माभ्यो मूर्तिमात्राभ्यः  
 सम्भवत्य् अव्ययाद् व्ययम्  ॥ १.१९ ॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/019_teShAm_idam.md">
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/019_teShAm_idam.md">
 <details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From out of the Subtile constituents of the frames of the said exceedingly potent principles is produced this (Gross Body)—the perishable proceeding from the imperishable.—(19)
 </details>
+
 <details><summary>मेधातिथिः</summary>
 
 सूक्ष्मात् स्थूलम् उत्पद्यते संभवति । **अव्ययाद् व्ययम्** इत्य् एतावति तात्पर्यम् । न तु षण्णां सप्तानां वा तत्त्वानां मात्राभ्य इति । चतुर्विंशतितत्त्वानि । तानि सृष्टौ सर्वेषां निमित्तम् । अथ वा पिण्डसृष्टौ सप्तैव प्रधानं कारणम्, षडविशेषाः सप्तमो महान् । तेभ्यो भूतेन्द्रियाण्य् उत्पद्यन्ते । तेषु चोत्पन्नेषु पिण्डीभवति शरीरम् ।
 
 - **अव्ययात्**[^५०] प्रधानाद् उपसंभृतसर्वविकाराद् एकीभूताद् इदं बहुधा विप्रकीर्णं विश्वरूपं जगद् उत्पद्यते । किं युगपद् एव समस्तैर् विकारैः स्थूलरूपैः प्रधानं विक्रियते । नेत्य् आह । **तेषाम् इदम्** इति । यादृशः प्राग् उक्तः क्रमस् तेनैव । "प्रकृतेर् महांस् ततो ऽहंकारस् तस्माद् गुणस् तु षोडशकः" इति (सांक् २२) । पुरुषशब्दस् तत्त्वे पुरुषार्थत्वात् प्रयुक्तः । **महौजसां** स्वकार्ये वीर्यवताम् । अपरिमितविकारहेतुत्वान् महत्वम् । तेषां याः **सूक्ष्मा मूर्तिमात्रा** मूर्तिः शरीरम्, तदर्था मात्रास्, ताभ्य इदं भवति । अत उच्यते । **अव्ययाद् व्ययम्** इति । काः पुनस् तेषां सूक्ष्मा मात्राः । न हि तन्मात्राणाम् अन्या मात्राः संभवन्ति येन तेषां सूक्ष्मा मात्रा इति व्यतिरेक उपपद्यते । न तेषां स्वागतमात्रापेक्षत्वम् । किं तर्हि । तन्मात्रेभ्यः सूक्ष्मो महान् महतः प्रभूर्[^५१] इति ॥ १.१९ ॥
 
-
 [^५१]:
 J: prakṛtir
-
 
 [^५०]:
 M G 1st ed.: atha yāvat
 </details>
+
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
 All that is meant by saying that ‘*the perishable proceeds from the
@@ -481,6 +483,7 @@ the Rudimentary Substances, and the Root Evolvent (Primordial Matter) is
 \[Another explanation of the verse is given below, in the form of an
 introduction to verse 20\].—19
 </details>
+
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 The ‘seven’ are made up of—
@@ -495,47 +498,46 @@ The name ‘*puruṣa*’ has been applied to the Tattvas, Principles,—because
 ‘they serve the purposes of the, soul’ (Medhātithi),—or because ‘they
 are produced by the Puruṣa, Ātman,’
 </details>
+
 <details><summary>Bühler</summary>
 
 019	But from minute body (-framing) particles of these seven very powerful Purushas springs this (world), the perishable from the imperishable.
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/01_praveshaH/020_AdyAdyasya_guNam.md">
-<details open><summary><h3>020 आद्याद्यस्य गुणम् ...{Loading}...</h3></summary>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आद्याद्यस्य गुणं त्व् एषाम्  
 अवाप्नोति परः परः ।  
 यो यो यावतिथश् चैषां  
 स स तावद् गुणः स्मृतः  ॥ १.२० ॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/020_AdyAdyasya_guNam.md">
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/020_AdyAdyasya_guNam.md">
 <details><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among these (Elementary Substances), each succeeding one acquires the quality of what precedes it; and each elemental substance is endowed with as many qualities as the place it occupies (in the order in which the said substances are set forth).—(20)
 
-
 “Why does the Author use the form ‘ādyādyasya’? The correct form should be ‘ādyasyādyasya’, the repetition of the term ‘ādyasya’ being necessitated by Pāṇini’s Sūtra 8.1.4; just as we have in such expressions as ‘paraḥ paraḥ.’”
 </details>
+
 <details><summary>मेधातिथिः</summary>
 
 पूर्वश्लोके केचिद् अन्यथा सप्तसंख्या परिकल्पयन्ति । पञ्चेन्द्रियाणि चक्षुरादीनि वर्गीकृतान्य् एकीभवन्ति । बोधहेतुतयैकेन धर्मेण योगाद् एकत्वेन निर्दिश्यन्ते । एवं कर्मेन्द्रियाणि । तौ च वर्गद्वित्वाद् द्वौ पुरुषौ भवतः । पञ्चभूतानि भेदेनैव निर्दिष्टानि कर्यवैलक्षण्यात् । तद् एवं सप्तपुरुषास् तेषां या मूर्त्यर्थाः सूक्ष्मा मात्रा निर्माणकार्याणि तन्मात्राण्य् अहंकारश् च । अन्यत् समानम् ।
 
 - अतश् च भूतानां पूर्वश्लोके संनिधानाद् **एषाम्** इति तेषाम् प्रतिनिर्देशः । यद्य् अपि च व्यवहिते बहूनि वचनानि[^५२] संनिहितानि तथापि य इहार्थः प्रतिपाद्यते विशिष्टसंख्याकर्तृगुणवत्त्वं तद् भूतानाम् एव संभवति नान्येषां, प्रकृतत्वे सत्य् अपि ।
 
-
 [^५२]:
 M G 1st ed.: ca tāni
 
 - अतो ऽयं श्लोकार्थः । एषां भूतानां यद् यत आद्यं[^५३] तस्य यद्रूपं ततो ऽनन्तरं पठितं तत् तत् पूर्वस्य संबन्धेन गुणं गृह्णाति । गुणशब्देन शब्दादयः पञ्चोच्यन्ते । आद्यत्वं चात्र वक्ष्यमाणया व्यवस्थया "आकाशं जायते" (म्ध् १.७५) इति । गुणत्वं च शब्दादीनां तत्रैव वक्ष्यति । यो य आकाशादिलक्षणो ऽर्थो **यावतिथः** यावतां पूरणः । "वतोर् इथुक्" (पाण् ५.२.५३) । द्वितीये तृतीये ऽवस्थाने स्थितः स **तावद्गुणः** । तावन्तो गुणास् तस्य भवन्ति । द्वितीयस्थाने स्थितो द्विगुण इत्यादि । परस्पराद्याद्यगुणसंबन्धित्वं प्रथमे ऽर्धश्लोक उक्तम् । तत्र यः स्वशब्देन यस्यैव यो गुणो ऽभिहितः "तस्य शब्दगुणं विदुः," (म्ध् १.७५) "तद् रूपगुणम् उच्यते" (म्ध् १.७७) इत्यादि । ततश् च पूर्वगुणावाप्तौ द्वैगुण्यम् आकाशं वर्जयित्वा भूतानां प्राप्तम् । अत उक्तम् **यो यो यावतिथ** इति । तेन द्विगुणो वायुस् त्रिगुणं तेजस् चतुर्गुणा आपः पञ्चगुणा भूमिर् इति । आद्याद्यस्येति कथम् । आद्यस्याद्यस्येह भवितव्यम् । नित्यवीप्सयोर् इति द्विवचनेन । यथा परः पर इति । छन्दोभिर् अविशेषात् स्मृतीनां लुग्वृत्तानुरोधाच् चैवं पठितम् ॥ १.२० ॥
 
-
 [^५३]:
 M G 1st ed.: yadādyantavat
 </details>
+
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
 In the preceding verse some people offer a different explanation of the
@@ -599,25 +601,28 @@ second half of the verse—*Each Elemental Substance being endowed with as
 many qualities &c. &c*.,—which means that Wind has *two* qualities, Fire
 has *three*, Water has *four*, and Earth has *five*.
 
-&gt; “Why does the Author use the form ‘*ādyādyasya*’? The correct form
-&gt; should be ‘*ādyasyādyasya*’, the repetition of the term ‘*ādyasya*’
-&gt; being necessitated by Pāṇini’s *Sūtra* 8.1.4; just as we have in such
-&gt; expressions as ‘*paraḥ paraḥ*.’”
+> “Why does the Author use the form ‘*ādyādyasya*’? The correct form
+> should be ‘*ādyasyādyasya*’, the repetition of the term ‘*ādyasya*’
+> being necessitated by Pāṇini’s *Sūtra* 8.1.4; just as we have in such
+> expressions as ‘*paraḥ paraḥ*.’”
 
 The form used is due to the exigencies of metre; and exigencies of metre
 justify the non-observance of rules.—(20)
 </details>
+
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 Nandana places verse 27 before 20. There appears to be no justification
 for deviating from the order adopted by all other commentators.
 </details>
+
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Mahābhārata*, 12.232.8.—‘The qualities of the preceding go over to the
 succeeding and whatever it is and in whatever form and place, so many
 qualities it is declared to possess.’
 </details>
+
 <details><summary>Bühler</summary>
 
 020	Among them each succeeding (element) acquires the quality of the preceding one, and whatever place (in the sequence) each of them occupies, even so many qualities it is declared to possess.
@@ -625,8 +630,6 @@ qualities it is declared to possess.’
 </details>
 </div>
 
-
 While this atomic origin mythology of the MDS may not reach the level of the well argued physical and chemical theories of matter presented in the sutras of kaNada the kAshyapa or the discourses of pa~nchashika the A~Ngirasa and sulabhA the vasiShTha, it does present some basic features of Hindu atomic thought. Importantly, it recognizes the presence of a unified origin of all existence with the structural lay out of the universe attributable to a small set of minute fundamental particles. Further, it recognizes that these particles combine to give rise to the changing universe while remaining more permanent themselves. It also presents the concept of a hierarchy of combination of the basic particles, with the current combination being influenced by the constituent ones. 
-
 
 The occurrence of the atomistic doctrine with the other more macro-scale origin mythologies in the MDS suggests, that this was one of the streams of origin mythology that developed along with the others in the kuru-pa~nchala realm. Such concepts appear to have been the seeds of the vaisheShika philosophy, that developed parallel to old vedAnta and sAmkhya, which emerged from a different set of seed ideas in the same milieu.

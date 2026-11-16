@@ -1,6 +1,5 @@
 +++
 title = "Remarriage, Divorce"
-
 +++
 
 
@@ -44,15 +43,12 @@ Everywhere here Apad-dharma can alter practice. sAmAnya-dharmas are described.
 
 अक्षतयोन्याः पुनर्भूत्वं न तावद् गर्हितम्। 
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/09/176_sA_ched.md">
-<details open><summary><h3>176 सा चेद् ...{Loading}...</h3></summary>
+मनुर् आह -
 
-सा चेद् अक्षत-योनिः स्याद्  
-गत-प्रत्यागतापि वा ।  
+> सा चेद् +++([जीवत्-शिशोः] प्रसवतः)+++ **अक्षत**-योनिः स्याद्  
+**गत-प्रत्यागता** ऽपि वा ।  
 पौनर्भवेन भर्त्रा सा  
-पुनः संस्कारम् अर्हति  ॥ ९.१७६ ॥
-</details>
-</div>
+पुनः संस्कारम् **अर्हति**  ॥ ९.१७६ ॥
 
 > “Rāghavānada, relying on Yājñavalkya 2.130, thinks that the word ‘*vā*’ at the end of the first half-verse, permits the insertion of ‘or not a virgin.’”—Buhler.
 
@@ -85,29 +81,26 @@ Everywhere here Apad-dharma can alter practice. sAmAnya-dharmas are described.
 क्षतयोनित्वे विचारः "अक्षतयोनाव्" इति विभागे द्रष्टव्यः।  
 पत्यौ मृते यथा-सम्भवं न स्यात् पुनर्-विवाह इति मनुः -
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/05/157_kAman_tu.md">
-<details open><summary><h3>157 कामन् तु ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं तु क्षपयेद् देहं  
 पुष्प-मूल-फलैः शुभैः ।  
 न तु नामाऽपि गृह्णीयात्  
 पत्यौ प्रेते परस्य तु  ॥ ५.१५७ ॥ [१५५ मेधातिथिपाठे] +++(4)+++
 </details>
-</div>
 
 यथाऽधिकारं प्राचीनैर् नियोगोऽभ्युपगतः।  
-
 
 #### अमृते, क्षतयोनौ
 क्षतयोनित्वे विचारः "अक्षतयोनाव्" इति विभागे द्रष्टव्यः।
 
-<div class="js_include" url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/09/046_na_niShkraya-visargAbhyAm.md" unfilled newLevelForH1="5" includeTitle="false"> 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** निष्क्रय-विसर्गाभ्यां  
 भर्तुर् भार्या **विमुच्यते** ।  
 एवं धर्मं **विजानीमः**  
 प्राक् प्रजा-पति-**निर्मितम्**  ॥ ९.४६ ॥
-</div>  
+</details>  
 
 #### पतिः पालनेन
 मेधातिथिर् अपि 
@@ -120,13 +113,11 @@ Everywhere here Apad-dharma can alter practice. sAmAnya-dharmas are described.
 >
 > इति । मृते भर्तरि नास्ति व्यभिचारः, किम् अङ्ग प्रोषिते ?
 
-
 >  न दत्त्वा कस्य चित् कन्यां  
 > पुनर् दद्याद् विचक्षणः ।  
 > दत्त्वा पुनः प्रयच्छन् हि  
 > प्राप्नोति पुरुषानृतम् ॥  
 > Manusmriti 9.71
-
 
 > नष्टे मृते प्रव्रजिते  
 क्लीबे च पतिते पतौ ।
@@ -134,7 +125,6 @@ Everywhere here Apad-dharma can alter practice. sAmAnya-dharmas are described.
 पतिर् अन्यो विधीयते ॥ (न्स्म् १२.९७)
 
 > When the husband is absconding, dead, has renounced family life, has fallen (morally), or is eunuch, in these five unfortunate circumstances it is prescribed that a woman can choose another husband. (Parasara Smriti 4.30, Also occurs in Narada Smriti 12.97)
-
 
 इत्यत्र मेधातिथिर् आह -
 
@@ -145,9 +135,6 @@ Everywhere here Apad-dharma can alter practice. sAmAnya-dharmas are described.
 
 > पतिशब्दो हि पालन-क्रिया-निमित्तकः,  
 ग्राम-पतिः, सेनायाः पतिर् इति ।  
-
-
-
 
 ## Practice
 - Gazetteer of the Ambala District: 1883

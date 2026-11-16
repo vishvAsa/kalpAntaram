@@ -1,32 +1,29 @@
 +++
 title = "दण्डः"
 unicode_script = "devanagari"
-
 +++
 
 ## परिवारे
 - बृहदारण्यकोपनिषदि बलेन गमनम् उक्तम् - विस्तारो [ऽत्र](../../women/Rape/) । 
 
 ### मनुस्मृतौ
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/08/299_bhAryA_putrash.md">
-<details open><summary><h3>299 भार्या पुत्रश् ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भार्या पुत्रश् च दासश् च  
 प्रेष्यो भ्रात्रा च सोदरः ।  
 प्राप्तापराधास् ताड्याः स्यू  
 रज्ज्वा वेणुदलेन वा  ॥ ८.२९९ ॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="गङ्गानथ-मूलानुवादः" unfilled url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/08/299_bhAryA_putrash.md">
-<details><summary><h4>गङ्गानथ-मूलानुवादः ...{Loading}...</h4></summary>
 
+<div class="js_include collapsed" newlevelforh1="4" title="गङ्गानथ-मूलानुवादः" unfilled="" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/08/299_bhAryA_putrash.md">
+<details><summary><h4>गङ्गानथ-मूलानुवादः ...{Loading}...</h4></summary>
 
 The wife, the son, the slave, the servant and the uterine brother shall be beaten with a rope or a split bamboo, when they have committed a fault.—(299)
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मेधातिथिः" unfilled url="/kalpAntaram/smRtiH/manuH/medhAtithiH/08/299_bhAryA_putrash.md">
-<details><summary><h4>मेधातिथिः ...{Loading}...</h4></summary>
 
+<div class="js_include collapsed" newlevelforh1="4" title="मेधातिथिः" unfilled="" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/08/299_bhAryA_putrash.md">
+<details><summary><h4>मेधातिथिः ...{Loading}...</h4></summary>
 
 प्राप्ता अपराधं **प्राप्तापराधाः** । **अपराधो** व्यतिक्रमः नीतिभ्रंशः । स यदा तैः कृतो भवति, तदा ताडयितव्याः । 
 
@@ -41,16 +38,15 @@ The wife, the son, the slave, the servant and the uterine brother shall be beate
 
 **वेणुदलं** वंश-त्वक् । एतद् अप्य् उपलक्षणम्- तथा-विधानां मृदु-पीडा-साधनानां शिफादीनाम्[^२८३] ॥ ८.२९९ ॥
 
-
 [^२८३]:
      M G: śiṣyādīnām
-
 
 [^२८२]:
      M G DK (1: 1812) omit: yā
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="गङ्गानथ-भाष्यानुवादः" unfilled url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/08/299_bhAryA_putrash.md">
+
+<div class="js_include collapsed" newlevelforh1="4" title="गङ्गानथ-भाष्यानुवादः" unfilled="" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/08/299_bhAryA_putrash.md">
 <details><summary><h4>गङ्गानथ-भाष्यानुवादः ...{Loading}...</h4></summary>
 
 ‘*Prāptāparādhāḥ*,’—those who have fallen upon, committed, a fault.
@@ -83,11 +79,10 @@ wrong path, should be prevented by all the methods, ending with
 illustrative of the lotus-fibre and other such objects which cause only
 slight pain.—(299)
 
-
-
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="गङ्गानथ-टिप्पन्यः" unfilled url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/08/299_bhAryA_putrash.md">
+
+<div class="js_include collapsed" newlevelforh1="4" title="गङ्गानथ-टिप्पन्यः" unfilled="" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/08/299_bhAryA_putrash.md">
 <details><summary><h4>गङ्गानथ-टिप्पन्यः ...{Loading}...</h4></summary>
 
 [*Cf*.
@@ -103,11 +98,10 @@ not be beaten;—and in *Smṛticandrikā* (Saṃskāra, p. 142), which says
 that this beating should be done only when the boy proves intractable to
 chiding and other means;—and in *Vivādacintāmaṇi* (Calcutta, p. 76).
 
-
-
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="गङ्गानथ-तुल्य-वाक्यानि" unfilled url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/08/299_bhAryA_putrash.md">
+
+<div class="js_include collapsed" newlevelforh1="4" title="गङ्गानथ-तुल्य-वाक्यानि" unfilled="" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/08/299_bhAryA_putrash.md">
 <details><summary><h4>गङ्गानथ-तुल्य-वाक्यानि ...{Loading}...</h4></summary>
 
 **(verses 8.299-301)  
@@ -137,14 +131,15 @@ the King.’
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="भारुचिः" unfilled url="/kalpAntaram/smRtiH/manuH/bhAruchiH/08/299_bhAryA_putrash.md">
-<details><summary><h4>भारुचिः ...{Loading}...</h4></summary>
 
+<div class="js_include collapsed" newlevelforh1="4" title="भारुचिः" unfilled="" url="/kalpAntaram/smRtiH/manuH/bhAruchiH/08/299_bhAryA_putrash.md">
+<details><summary><h4>भारुचिः ...{Loading}...</h4></summary>
 
 दण्डप्रतिषेधर्थो ऽयम् आरम्भः, ताडनासादननियमार्थश् च ॥ ८.२९८ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="बुह्लेर्" unfilled url="/kalpAntaram/smRtiH/manuH/buhler/08/299_bhAryA_putrash.md">
+
+<div class="js_include collapsed" newlevelforh1="4" title="बुह्लेर्" unfilled="" url="/kalpAntaram/smRtiH/manuH/buhler/08/299_bhAryA_putrash.md">
 <details><summary><h4>बुह्लेर् ...{Loading}...</h4></summary>
 
 299	A wife, a son, a slave, a pupil, and a (younger) brother of the full blood, who have committed faults, may be beaten with a rope or a split bamboo,
