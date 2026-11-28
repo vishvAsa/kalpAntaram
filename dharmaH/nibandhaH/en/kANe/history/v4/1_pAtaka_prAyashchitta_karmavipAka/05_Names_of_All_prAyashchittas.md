@@ -1,15 +1,7 @@
-#!/usr/bin/env python3
-import sys
-
-# Prepare the complete text of Chapter V
-
-frontmatter = """+++
-title = "05 Names of All Prāyaścittas"
-
 +++
-"""
+title = "05 Names of All Prāyaścittas"
++++
 
-text = frontmatter + """
 CHAPTER V
 
 NAMES OF ALL PRĀYAŚCITTAS
@@ -320,17 +312,9 @@ SURĀCĀNDRĀYAṆA—The Agnipurāṇa defines it as one where somehow or other
 
 SUVARṆA-KṚCCHRA—Vide Hemādri on Prāyaścitta pp. 969–972 quoting Devala and Mārkaṇḍeyapurāṇa, in which a varāha or a half of it or quarter of it had to be donated. A Varāha was equal to nine rūpakas and a rūpaka was one māṣa of five guñjas (of silver it seems). For killing a brāhmaṇa secretly or for the guilt of incest one had to perform ten thousand or 40 thousand suvarṇa-kṛcchras and a lesser number for various other lapses.
 
-SOMĀYANA—According to the Madanapārijāta pp. 744–746 (quoting Hārītadharmasūtra and Mārkaṇḍeya) and Pr. Prakāśa (folio 60b) the penance lasts for thirty days divided into five periods of 7, 7, 7, 6, 3 days, in which the milk of all the four udders of a cow, of three udders, of two udders and of one udder is respectively drunk and for the last three days there is a complete fast. There is another variety which lasts for 24 days from the 4th tithi of the dark half of a month to the 12th of the bright half of the next fortnight; the 24 days are divided into eight periods of three days each; in the first four [[P152]]periods of three days each the milk of a cow's four udders, three udders, two udders and one udder is respectively drunk and then in the next four periods of three days each the milk of one udder, two, three and four udders is respectively drunk. drunk. Vide also Prāyaścittendu-śekhara p. 12.
+SOMĀYANA—According to the Madanapārijāta pp. 744–746 (quoting Hārītadharmasūtra and Mārkaṇḍeya) and Pr. Prakāśa (folio 60b) the penance lasts for thirty days divided into five periods of 7, 7, 7, 6, 3 days, in which the milk of all the four udders of a cow, of three udders, of two udders and of one udder is respectively drunk and for the last three days there is a complete fast. There is another variety which lasts for 24 days from the 4th tithi of the dark half of a month to the 12th of the bright half of the next fortnight; the 24 days are divided into eight periods of three days each; in the first four [[P152]]periods of three days each the milk of a cow's four udders, three udders, two udders and one udder is respectively drunk and then in the next four periods of three days each the milk of one udder, two, three and four udders is respectively drunk. Vide also Prāyaścittendu-śekhara p. 12.
 
 [[SAUMYAK RCCRA-According|SAUMYAKṚCCHRA—According]] to Yāj. III. 321 this penance lasts for six days, in the first five of which one subsists in succession upon oilcake alone, foamy scum of boiled rice alone, butter-milk alone, water alone and saktus (barley) alone and on the last day a total fast is observed. The Mit., Madanapārijāta p. 717, Pr. Sāra p. 178 and other digests state that one has to partake of the five ingredients in quantities just sufficient to keep body and soul together. Jābāla (quoted by the Mit., Par. M. II part 2 p. 183 and others) makes it a penance of four days' duration, in the first three of which one partakes successively of oilcake, saktus and butter-milk and observes a fast on the 4th day. Atri (128–129) also mentions it. The Pr. Prakāśa (quoting Brahmapurāṇa) speaks [^354]  of another variety of six days' duration, on the first of which there is a complete fast and on the last of which the sinner subsists on saktus alone and in the intervening four days he subsists on the thick gruel of barley cooked in cow's urine.
 
 [^354]:
     प्रकारान्तरेण षडहः सौम्यकृच्छ्र उक्तो ब्रह्मपुराणे । प्रथमेऽहनि नाश्नीयात्सौम्यकृच्छ्रेऽपि सर्वदा । गोमूत्रयावकाहारः षष्ठे सक्तूंश्च तत्समान् ॥ इति । प्रा. प्रकाश folio 46b.
-"""
-
-target_path = "/home/vvasuki/gitland/vishvAsa/kalpAntaram/content/dharmaH/nibandhaH/en/kANe/history/v4/1_pAtaka_prAyashchitta_karmavipAka/05_Names_of_All_prAyashchittas.md"
-
-with open(target_path, "w", encoding="utf-8") as f:
-    f.write(text.strip() + "\n")
-
-print(f"Wrote {len(text)} bytes to {target_path}")

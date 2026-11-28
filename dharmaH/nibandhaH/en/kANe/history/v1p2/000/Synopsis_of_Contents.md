@@ -1,850 +1,502 @@
 +++
 title = "Synopsis of Contents"
-
+proofreader = [ "Gemini 4 Hydrogen",]
 +++
 
-SYNOPSIS OF CONTENTS 
+[[Pi]]
+SYNOPSIS OF CONTENTS
 
-( PART I) 
+[PART I]
 
-Sec. 1 Meaning of Dharma : 
+Sec. 1 Meaning of Dharma : .. pp. 1-6
 
-.. pp. 1-6 
+Defies exact rendering in English - In the [[Rgveda,|Ṛgveda,]] used as [[ad jective|adjective]] or noun - means [[' upholder or supporter'in|'upholder or supporter' in]] some Ṛgvedic passages - in most [[Rgveda|Ṛgveda]] passages means 'religious ordinances or rites' and in rare cases 'fixed principles or rules of conduct' - in [[Aitareya-brahmana|Aitareya-brāhmaṇa]] dharma means 'whole body of religious duties' - in [[Chandogva-Upaniṣad|Chāndogya-Upaniṣad]] dharma means [['peruliar|'peculiar]] duties of [[aśramas-'|āśramas-']] dharma came to mean 'duties and privileges of a person as a [[mem ber|member]] of the [[Aryan|Āryan]] community, as member of one of the varṇas or as in a particular stage of life' - the same meaning in [[Taittiriya|Taittirīya]] Upaniṣad ([[1|I]]. 11), [[Bhagavadgita,|Bhagavadgītā,]] Manusmṛti and other smṛtis - according to [[Medbātithi,|Medhātithi,]] dharma five-fold viz., varṇadharma, [[āśra madharma,|āśramadharma,]] [[varnāsramadharma,|varṇāśramadharma,]] naimittikadharma, [[gunadharma|guṇadharma]] - this meaning of dharma taken in this work - definitions of dharma according to Jaimini, [[Vaisesikasūtra,|Vaiśeṣikasūtra,]] [[Hārita,|Hārīta,]] Mahābhārata and Buddhist works - subjects treated in this work, viz. sources of dharma, contents of works on dharma, their chronology.
 
-Defies exact rendering in English - In the Rgveda, used as ad jective or noun - means ' upholder or supporter'in some Ṛgvedic passages - in most Rgveda passages means 'religious ordinances or rites' and in rare cases · fixed principles or rules of conduct ' . in Aitareya-brahmana dharma means “whole body of religious duties'. in Chandogva-Upaniṣad dharma means 'peruliar duties of aśramas-' dharma came to mean' duties and privileges of a person as a mem ber of the Aryan community, as member of one of the varṇas or as in a particular stage of life - the same meaning in Taittiriya Upaniṣad (1. 11), Bhagavadgita, Manusmṛti and other smṛtis - according to Medbātithi, dharma five-fold viz., varṇadharma, āśra madharma, varnāsramadharma, naimittikadharma, gunadharma - this meaning of dharma taken in this work - definitions of dharma according to Jaimini, Vaisesikasūtra, Hārita, Mahābhārata and Buddhist works - subjects treated in this work, viz. sources of dharma, contents of works on dharma, their chronology. 
+Sec. 2 Sources of [[Pharma|Dharma]] : .. pp. 6-11
 
-Sec. 2 Sources of Pharma : 
+According to Gautama, [[Apastamba,|Āpastamba,]] [[Vasiṣtha|Vasiṣṭha]], Manu, [[Yājña valkya|Yājñavalkya]] - principal sources were Veda, [[smrtis|smṛtis]] and custom - Vedas do not contain positive precepts on dharma, but give information incidentally - examples from Vedic literature suggesting [[dharmasa stra|dharmaśāstra]] rules - division of ancient Sanskrit works into three groups, viz. the Vedic [[Sajjhitās,|Saṁhitās,]] the [[Brahmanas|Brāhmaṇas]] and [[Sātras|Sūtras]] - Kalpa is one of the six [[angas|aṅgas]] of the Veda - Kalpa [[di ting'!ished|distinguished]] by Tantravārtika from [[Kalpasutras.comprehensive pill thing|Kalpasūtras - comprehensive meaning]] of Kalpa - Kalpasūtras [[classi fied|classified]] into three classes, viz. [[? lutistras,|Śrautasūtras,]] [[Grhyasūras|Gṛhyasūtras]] and [[Dharma sūtras|Dharmasūtras]] - brief review of Dr. Ram Gopal's large work on 'India of Vedic [[Kalp:sutras|Kalpasūtras]]' - mainly [[uzals !1 Gșh;a|deals with Gṛhya]] and Dharmasūtras, that too, not critically or thoroughly.
 
-.. pp. 6-11 
+[[Pii]]
+Sec. 3 When [[Dharmaśāsira|Dharmaśāstra]] works were first composed .. pp. 12–19
 
-ATII 
+It is difficult to say when composed - [[Nirkta|Nirukta]] (III. 4-5) [[exhi bits|exhibits]] controversies about inheritance and quotes a verse ([[sloka|śloka]]) from some work on dharma - [[Būhler's|Bühler's]] view about such verses - [[Gau tama|Gautama]] and Baudhāyana speak of dharmaśāstra - Baudhāyana and [[Apastamba|Āpastamba]] mention numerous sages on [[dharmia|dharma]] - Vārtika of [[Katya yana|Kātyāyana]] and Jaimini speak of dharmaśāstra - Patañjali on [[dharmaṣi trakāras-|dharmasūtrakāras -]] dharmaśāstra works existed prior to [[Yaska|Yāska]] or at least before 600 B.C. and in 2nd century B. C. dharmasūtras had become authoritative - method of dealing with the whole [[dharmasastra litera ture|dharmaśāstra literature]] followed in this book, first dharmasūtras, then early metrical [[smstis|smṛtis]] like those of Manu [[ard|and]] Yājñavalkya, later versified [[smstis,|smṛtis,]] then commentaries and digests, such as the [[Mitāksarā|Mitākṣarā]] - chronology of early writers very difficult to settle - Max [[Mūller's|Müller's]] view that works in continuous śloka metre followed sūtra works not acceptable.
 
-According to Gautama, Apastamba, Vasiṣtha, Manu, Yājña valkya - principal sources were Veda, smrtis and custom - Vedas do not contain positive precepts on dharma, but give information incidentally-examples from Vedic literature suggesting dharmasa stra rules - division of ancient Sanskrit works into three groups, viz. the Vedic Sajjhitās, the Brahmanas and Sātras - Kalpa is one of the six angas of the Veda - Kalpa di ting'!ished by Tantravārtika from Kalpasutras.comprehensive pill thing of Kalpa - Kalpasūtras classi fied into three classes, viz. ? lutistras, Grhyasūras and Dharma sūtras - brief review of Dr. Ram Gopal's large work on 'India of Vedic Kalp:sutras - mainly uzals !1 Gșh;a and Dharmasūtras, that too, not critically or thoroughly. 
+Sec. 4 Dharmasūtras : .. pp. 19-22
 
-11. . - A 
+Many of them formed part of the Kalpa and were studied in distinct [[sūtra-caranas|sūtra-caraṇas]] - dharmasūtras of Āpastamba and [[Baudhā yana|Baudhāyana]] presuppose [[grhyasūtras|gṛhyasūtras]] of [[thier|their]] [[carana|caraṇa]] - no dharmasūtras [[ex tant|extant]] corresponding to the śrauta and [[gshya|gṛhya]] [[sutras|sūtras]] of [[Asvalāyana,|Āśvalāyana,]] [[Saṅkhāyana|Śāṅkhāyana]] and [[Mānava-Tantravārtika|Mānava - Tantravārtika]] on what dharmasūtra was studied in what particular Vedic [[Sakhā|Śākhā]] - all dharmasūtras gradually became authoritative in all schools - close connection between [[grhyasūtras|gṛhyasūtras]] and [[dharmasutras|dharmasūtras]] on certain topics - scope of [[dharma sūtras|dharmasūtras]] - [[gìhyasotras|gṛhyasūtras]] sometimes refer to dharmasūtras - points of distinction between dharmasūtras and the other [[smstis.|smṛtis.]]
 
+Sec. 5 [[Dharmasutra|Dharmasūtra]] of Gautama : .. pp. 22-38
 
+Gautama's is the oldest extant dharmasūtra - specially studied by followers of Sāmaveda - Gautama one of the nine subdivisions of the [[Ranayaniya|Rāṇāyanīya]] school of Sāmaveda - [[Gautamadbarmasūtra|Gautamadharmasūtra]] points to close connection with [[Samaveda|Sāmaveda]] - [[Gautarria|Gautama]] refers to his own previous dicta - contents of 28 chapters of Gautamadharmasūtra - the work is entirely in prose - Gautama's language [[agrecs|agrees]] more with [[Pānini's|Pāṇini's]] rules than [[Apastamba's|Āpastamba's]] - explanation of this - Haradatta prefers Pāṇinian readings of Gautama's text - some [[stras|sūtras]] of [[Piii]] Gautama quoted in the Mitākṣarā and other works not found in extant text - extent of literature known to Gautama - the only author named is Manu - the meaning of 'ācāryāḥ' whose views are cited by Gautama - earliest reference to Gautama on dharma is in Baudhāyana-dharmasūtra - Baudhāyana (III. 10) borrows chap. 19 of Gautama - close correspondence between many other sūtras of Gautama and Baudhāyana - [[Vasistha|Vasiṣṭha]] (4.35 and 37) refers to views of Gautama - [[Vasistha's|Vasiṣṭha's]] 22nd chap. is borrowed from 19th of Gautama - many sūtras the same in Gautama and [[Vasistha|Vasiṣṭha]] - [[Gau tama|Gautama]] referred to by Manu as son of Utathya - Gautama referred to by [[Yajñavalkya,|Yājñavalkya,]] Bhaviṣyapurāṇa, [[Kumātila,|Kumārila,]] [[Saskarācārya,|Śaṁkarācārya,]] [[Medha tithi|Medhātithi]] - Gautama's reference to Yavana - probable age between [[100 400|600-400]] B.C. - Haradatta and Maskarin commented on Gautama - [[Asa haya|Asahāya]] also did so - special matters presented by Gaut. Dh. S. - [[śloka Gautama|śloka-Gautama]] and Vṛddha-Gautama.
 
-Sec. 3 When Dharmaśāsira works were first composed .. pp.12–19 
+Sec. 6 [[Baudhayana-dharmasutra|Baudhāyana-dharmasūtra]] : .. pp. 38-53
 
-It is difficult to say when composed - Nirkta (III. 4-5) exhi bits controversies about inheritance and quotes a verse (sloka) from some work on dharma - Būhler's view about such verses - Gau tama and Baudhāyana speak of dharmaśāstra - Baudhāyana and Apastamba mention numerous sages on dharmia - Vārtika of Katya yana and Jaimini speak of dharmaśāstra - Patañjali on dharmaṣi trakāras- dharmaśāstra works existed prior to Yaska or at least before 600 B.C. and in 2nd century B. C. dharmasūtras had become authoritative-method of dealing with the whole dharmasastra litera ture followed in this book, first dharmasūtras, then early metrical smstis like those of Manu ard Yājñavalkya, later versified smstis, then commentaries and digests, such as the Mitāksarā - chronology of early writers very difficult to settle - Max Mūller's view that works in continuous śloka metre followed sūtra works not acceptable. 
+Baudhāyana is a teacher of the Black Yajurveda - arrangement of [[Baudhayana|Baudhāyana]] kalpa according to Dr. Burnell and Dr. Caland - [[Baudhāyanagrhya|Baudhāyanagṛhya]] presupposes the Baudhāyanadharmasūtra - [[gshya|gṛhya]] ([[I11.9.6|III.9.6]]) speaks of [[pravacan:kāra|pravacanakāra]] [[Kanva|Kaṇva]] Bodhāyana and sūtrakāra [[A pastamba|Āpastamba]] - [[tarpana|tarpaṇa]] in [[Baudhayana dharmasutra|Baudhāyana dharmasūtra]] (II. 5. 27) [[men tions|mentions]] [[Kanva|Kaṇva]] Bodhāyana, [[Apastamba|Āpastamba]] and [[Hiranyakesin|Hiraṇyakeśin]] - contents of Baudhāyanadharmasūtra - extant sūtra has not come down [[in tact|intact]] - fourth praśna probably an interpolation - third praśna also not free from doubt - Baudhāyana III.10 taken from Gautama - [[Baudhā yana|Baudhāyana]] III. 6 agrees closely with [[Viṣṇudharmasutra|Viṣṇudharmasūtra]] 48 - Dr. Jolly thinks both borrowed from a [[conimon|common]] source - probably Viṣṇu borrows from Baudhāyana - repetitions exist even in the first two praśnas - form and structure of Baudhāyana - quotes numerous verses, even in the first two praśnas - language of Baudhāyana often departs from [[Paninian|Pāṇinian]] standard - literature known to [[Baudhayana|Baudhāyana]] - several authors on dharma together with their views mentioned by Baudhāyana - Asura Kapila said to be originator of [[asramas|āśramas]] - [[Sabara,|Śabara,]] Kumārila, Viśvarūpa and Medhātithi refer to Baudhāyana [[dharma sūtra|dharmasūtra]] - home of Baudhāyana - Baudhāyana is styled pravacanakāra and [[Apastamba|Āpastamba]] sūtrakāra - [[Būhler|Bühler]] holds that [[Baudhayana|Baudhāyana]] was a southern teacher - sets out five peculiar usages of southern part - [[buotes|quotes]] several views about Āryāvarta - age of Baudhāyana dharma[[Piv]]sūtra - later than Gautama - [[Būhler's|Bühler's]] reasons for placing [[Baudha yana|Baudhāyana]] a century or two earlier than [[Apastamba|Āpastamba]] not convincing - [[diver gences|divergences]] between Baudhāyana and [[Apastamba|Āpastamba]] - style of [[Baudhā yana|Baudhāyana]] compared with that of [[Apastamba|Āpastamba]] - [[Baudhāvana|Baudhāyana]] to be placed between 500-200 B. C. - numerous sūtras of [[Baudhayana|Baudhāyana]] identical with those of [[Apastamba|Āpastamba]] and [[Vasiṣtha|Vasiṣṭha]] - [[Baudhavana|Baudhāyana]] mentions several appellations of [[Ganesa,|Gaṇeśa,]] just as [[Mānavagļhya|Mānavagṛhya]] does and mentions seven planets, Rāhu and Ketu - [[Govindasvamin|Govindasvāmin]] [[commen ted|commented]] on [[Baudhayana|Baudhāyana]].
 
-Sec. 4 Dharmasūtras : 
+Sec. 7 Dharmasūtra of [[Ăpastamba|Āpastamba]] : .. pp. 53-90
 
-.. pp. 19-22 Many of them formed part of the Kalpa and were studied in distinct sūtra-caranas - dharmasūtras of Āpastamba and Baudhā yana presuppose grhyasūtras of thier carana - no dharmasūtras ex tant corresponding to the śrauta and gshya sutras of Asvalāyana, Saṅkhāyana and Mānava-Tantravārtika on what dharmasūtra was studied in what particular Vedic Sakhā-all dharmasūtras gradually became authoritative in all schools - close connection between grhyasūtras and dharmasutras on certain topics - scope of dharma sūtras - gìhyasotras sometimes refer to dharmasūtras - points of distinction between dharmasūtras and the other smstis. 
+The [[Ăpastambakalpasūtra|Āpastambakalpasūtra]] of the Black Yajurveda divided [[in to|into]] 30 [[prasnas,|praśnas,]] dharmasūtra constituting 28th and 29th [[prasnas|praśnas]] thereof - [[Ápastamba|Āpastamba]] is one of the five subdivisions of the [[Khāndi keya|Khāṇḍikeya]] school of [[Taittiriyaśākhā|Taittirīyaśākhā]] - [[Apastanibagļhya|Āpastambagṛhya]] and dharma-sūtras are compositions of the same author - some [[sutras|sūtras]] of the two are [[iden tical|identical]] - [[Ap. gphya|Āp. gṛhya]] does not treat of some topics as they are dealt with in dharmasūtra - though Dr. Ram Gopal points out ten [[sutras|sūtras]] in [[Ap. Gr.|Āp. Gṛ.]] about the choice of a marriageable girl there is only one rule worth something - there are several passages where [[Ap. Dh. S.|Āp. Dh. S.]] presupposes [[Āp. Gr.|Āp. Gṛ.]] - contents of [[Ap.dharmasūtra|Āp. dharmasūtra]] - form and [[struc ture|structure]] of [[Ap.|Āp.]] [[dharma sūtra|dharmasūtra]] - [[Ap.|Āp.]] is more archaic and un-[[Paninian|Pāṇinian]] [[th|than]] any other dharmasūtra - many unfamiliar words in [[Ap.|Āp.]] - several verses quoted in [[Ap-literature|Āp. - literature]] known to Āp. - [[Ap.|Āp.]] mentions six [[angas|aṅgas]] of Veda and ten writers on dharma by name - [[Svetaketu|Śvetaketu]] and [[Ap.|Āp.]] - [[Hārita|Hārīta]] quoted frequently by [[Ap.|Āp.]] - [[Ap.|Āp.]] controverts several [[veiws|views]] - striking coincidences between Gautama and [[Ap.|Āp.]] - Āp. quotes a verse from Purāṇa and speaks of the view of Bhaviṣyatpurāṇa - [[Apastamba|Āpastamba]] and Manu - [[Apastamba|Āpastamba]] presupposes many rules of the [[Mimāṁsā|Mīmāṁsā]] and agrees closely with Jaimini's sūtras - age of [[Ap.|Āp.]] Dh. S. - quoted by [[Sabara,|Śabara,]] Kumārila, [[Saskarācārya,|Śaṁkarācārya,]] Viśvarūpa and [[Medhātithj|Medhātithi]] - home and personal history of [[Apastamba|Āpastamba]] not known - Dr. Ram Gopal's view about [[Ápastamba|Āpastamba]] being earlier than [[Pāụini|Pāṇini]] who gives [[Apastamba|Āpastamba]]'s name in [[Bidādiga na,|Bidādigaṇa,]] refuted - reply to Dr. Ram Gopal's puerile [[arg'iments|arguments]] about the home of [[Apastamba|Āpastamba]] etc. - [[Áp.|Āp.]] is later than Gautama and probably [[Baudhayana|Baudhāyana]] - [[Ap.|Āp.]] Dh. S. may be assigned to the period of 450-350 B. C. not 600-300 B. C. (as in the first edition) - [[Áp|Āp]]. condemns niyoga, rejects secondary sons, does not admit paiśāca and [[Prājupatya|Prājāpatya]] forms of marriage - divergence [[Pv]] between the views of [[Ap.|Āp.]] and Gautama and other sūtrakāras - Haradatta's is the only commentary extant on [[Ap.|Āp.]] - [[Apastamba smrti|Āpastamba smṛti]] in verse.
 
-Sec. 5 Dharmasutra of Gautama: 
+Sec. 8 [[Hiranyakesidharmasutra|Hiraṇyakeśidharmasūtra]] : .. 91-94
 
-.. pp. 22-38 
+[[Hiranyakesidharmasūtra|Hiraṇyakeśidharmasūtra]] forms 26th and 27th praśnas of the [[Hiranyakeśikalpa|Hiraṇyakeśikalpa]] - [[Hiraṇyakesin's|Hiraṇyakeśin's]] can be hardly called an [[indepen dent|independent]] work, as it borrows hundreds of sūtras word for word from [[Ap.|Āp.]] - a few additions made to [[Ap.|Āp.]] in [[Hiranyakesi|Hiraṇyakeśi]] Dh. S. - [[Hiranya kesin's|Hiraṇyakeśin's]] readings are smoother and more classical than Āpastamba's - arrangement of sūtras also is somewhat different in the two - com. of [[Mahadeva|Mahādeva]] called Ujjvalā on [[Hyraṇyakeśin|Hiraṇyakeśin]] is almost the same as Haradatta's on Āp. - [[Būhler|Bühler]] thinks [[Mahadeva|Mahādeva]] borrows from Haradatta - [[Mahadeva's|Mahādeva's]] com. in a few places contains more matter than Haradatta's and [[Mahadeva|Mahādeva]] differs from Haradatta.
 
-Gautama's is the oldest extant dharmasūtra - specially studied by followers of Sāmaveda - Gautama one of the nine subdivisions of the Ranayaniya school of Sāmaveda - Gautamadbarmasūtra points to close connection with Samaveda - Gautarria refers to his own previous dicta-contents of 28 chapters of Gautamadharmasūtra - the work is entirely in prose - Gautama's language agrecs more with Pānini's rules than Apastamba's -explanation of this - Haradatta prefers Pāṇinian readings of Gautama's text - some stras ofSynopsis of Contents 
+Sec. 9 [[Vasistha-dharmasutra|Vasiṣṭha-dharmasūtra]] : .. pp. 94-112
 
-Gautama quoted in the Mitākṣarā and other works not found in extant text - extent of literature known to Gautama - the only author named is Manu- the meaning of 'ācāryāḥ' whose views are cited by Gautama - earliest reference to Gautama on dharma is in 
+Different editions of [[Vasistha|Vasiṣṭha]] contain different numbers of chapters - Kumārila says it was specially studied by [[Rgvedins|Ṛgvedins]] - [[ex planation|explanation]] of this statement - nothing special in the [[Vasiṣthadharma sūtra|Vasiṣṭhadharmasūtra]] to connect it with [[Rgveda|Ṛgveda]] - contents of the Vasiṣṭhadharmasūtra - style of Vas. Dh. S. resembles Gautama's - many sūtras of [[Vas,|Vas.]] identical with Gautama and Baudhāyana - form of [[Vasistha|Vasiṣṭha]] dharmasūtra resembles [[Baudhāyaradharmasūtra|Baudhāyanadharmasūtra]] - Medhātithi and [[Mitakṣarā|Mitākṣarā]] quote from almost all chapters of extant [[Vasistha|Vasiṣṭha]] and so does Viśvarūpa - literature known to [[Vasiṣtha|Vasiṣṭha]] - [[Vasiṣtha|Vasiṣṭha]] prohibits learning language of Mlecchas - authors on [[dharmaśātsra|dharmaśāstra]] named by [[Vasiṣtha|Vasiṣṭha]] - [[Vasistha|Vasiṣṭha]]'s references to the views of Manu are made with reference to a work of Manu almost identical with the present [[Manu smṛti|Manusmṛti]] and do not compel us to [[forniluate|formulate]] the existence of a [[Māna vadharmasutra|Mānavadharmasūtra]] - [[Būhler|Bühler]] wrong in taking Vas. Dh. S. 4.8 as a [[quo tation|quotation]] from Mānavadharmasūtra - only Vas. Dh. S. 12.16 and 19.37 where Manu is quoted have no corresponding verses in the present [[Manusmrti|Manusmṛti]] - over forty verses are entirely common to Vas. and present [[Manusmīti|Manusmṛti]] - conclusion that Vas. contains borrowings from the present Manusmṛti or its prototype in verse - Vas. Dh. S. 22 is the same as Gautama 19 - Dr. Jolly's view that Vas. Dh. S. 28. 10-15 and 18-22 are borrowed from Viṣṇudharmasūtra chap. 56 and 87 or its original the [[Kathakadharmasutra|Kāṭhakadharmasūtra]] is wrong - home of [[Vas,|Vas.]] to [[Pvi]] the north of Narmadā, according to [[Būhler|Bühler]] - this is mere [[specula tion|speculation]] - earliest reference to [[Vasiṣtha|Vasiṣṭha]] as a writer on dharma is in Manu (8.140) - age of [[Vasiṣtha|Vasiṣṭha]] - [[Vasiṣtha|Vasiṣṭha]]'s views are ancient, [[praticularly|particularly]] about secondary sons, about Dattaka son, about niyoga and remarriage - he mentions only six forms of marriage - but in other matters differs from Gaut. or Baudh. viz. on adoption, on documents - Vas. Dh. S. between [[303–100|300–100]] B. C. - whether Vas. 18.4 (Rāmaka [[v. 1.|v. l.]] Romaka) contains a reference to the Romans - the author of the extant Vas. Dh. S. appears to be eclectic and the extant Vas. Dh. S. is only a re-hash of the [[Ap.|Āp.]] Dh. S., Baud. Dh. S. and Manu - passages from the [[Samhitas|Saṁhitās]] and [[Brahmanas|Brāhmaṇas]] quoted in or referred to by Vas. [[Dlı.|Dh.]] S. outnumber the [[Rgvedic|Ṛgvedic]] passages - this shows that Vas. Dh. S. did not at first attach itself to the [[Rgveda|Ṛgveda]] - Dr. Ram Gopal's remarks on the passages of [[Vas,|Vas.]] and the three [[Gṭ.|Gṛ.]] sūtras attached to [[Rgveda|Ṛgveda]] are misleading - [[Viddha-Vasi ștha,|Vṛddha-Vasiṣṭha,]] an early compilation - there is a Bṛhad [[Vasiṣtha|Vasiṣṭha]] and a Jyotir [[Vasistha|Vasiṣṭha]] - [[Yajñasvāmin|Yājñasvāmin]] commented upon Vas. Dh. S.
 
-Baudhāyana-dharmasūtra - Baudhāyana (III. 10 ) borrows chap. 19 of Gautama-close correspondence between many other sūtras of Gautama and Baudhāyana - Vasistha ( 4.35 and 37 ) refers to views of Gautama - Vasistha's 22nd chap. is borrowed from 19th of Gautama - many sūtras the same in Gautama and Vasistha - Gau tama referred to by Manu as son of Utathya - Gautama referred to by Yajñavalkya, Bhaviṣyapurāṇa, Kumātila, Saskarācārya, Medha tithi - Gautama's reference to Yavana - probable age between 100 400 B.C. - Haradatta and Maskarin commented on Gautama-Asa haya also did so - special matters presented by Gaut. Dh. S.-śloka Gautama and Vṛddha-Gautama. 
+Sec. 10 [[Viṣṇudharmasutra|Viṣṇudharmasūtra]] : ... 112-127
 
-11 
+Viṣṇu Dh. S. contains 100 chapters and yet [[sutra|sūtra]] not extensive - several chap. (40, 42, 76) contain only one [[sutra|sūtra]] and one verse - first chap. and the last two are entirely in verse, the rest in mixed prose and verse - Viṣṇu Dh. S. closely [[connectej|connected]] with [[Kathasākha|Kāṭhaśākhā]] - Dr. Jolly says chap. 21, 67, 73 and 86 of [[Vișnu|Viṣṇu]] closely correspond with [[Kathaka gshya|Kāṭhaka gṛhya]] - but Viṣṇu Dh. S. is not the work of the author of [[Kathaka grhya|Kāṭhaka gṛhya]] - contents of Viṣṇu Dh. S. - Viṣṇu resembles Vas. Dh. S. - its peculiar feature that it professes to be [[re vealed|revealed]] by God Viṣṇu - its style, easy and diffuse - work contains old and new material - hundreds of sūtras are prose renderings of [[hund reds|hundreds]] of verses occurring in our Manu - hypothesis of a common origin or borrowing by both from a floating mass of verses [[unten able|untenable]] - extant [[Viṣṇudharmasutra|Viṣṇudharmasūtra]] borrows from Manu - [[Vispu|Viṣṇu]] contains verses identical with the [[Bhagavadgitā|Bhagavadgītā]] and [[Yājñavalkya smrti|Yājñavalkyasmṛti]] - Dr. Jolly's view that Yājñavalkya borrows his anatomical section from Viṣṇu not correct - [[Vispu|Viṣṇu]] Dh. S. contains long list of [[tirthas|tīrthas]], the word Jaiva for Jupiter - those wanting in Yājñavalkya - extant Viṣṇu Dh. S. later than Manusmṛti and [[Yajñavalkyasmsti|Yājñavalkyasmṛti]] - [[Viśva rūpa|Viśvarūpa]] does not quote a single [[sutra|sūtra]] of Viṣṇu by name, though he refers to Viṣṇu (ch. 97) for orders of [[samnyasins|saṁnyāsins]] - [[Mitāksarā|Mitākṣarā]] [[Pvii]] quotes hardly any verse from Viṣṇu - Aparārka and [[Smsticandrika|Smṛticandrikā]] quote Viṣṇu profusely - verses were added at a late date to original sūtra - literature known to Viṣṇu Dh. S. - Viṣṇu mentions the seven days of the week, recommends the practice of [[saii,|satī,]] speaks of [[pus takas|pustakas]], of many good and evil omens among which the sight of yellow-robed Buddhist ascetics is included - it prohibits speech with Mlecchas and journeys to [[Mlcccha|Mleccha]] countries, it dilates on worship of [[Vasudeva|Vāsudeva]] - though Viṣṇu agrees in some respects with [[Kathaka grhya,|Kāṭhaka gṛhya,]] on some points it differs from it - date of older kernel of Viṣṇu may be 300 to [[10j|100]] B.C. - additions made after 3rd century A. D. and before 7th century - some sūtras agree closely with Nārada - [[Bșhad|Bṛhad]] Viṣṇu and [[Vrddha|Vṛddha]] Viṣṇu and Laghu Viṣṇu - [[Nanda pandita's|Nandapaṇḍita's]] com. on the Viṣṇu Dh. S. - probably Bhāruci also [[com mented|commented]] on it.
 
-TI 
+Sec. 11 The Dharmasūtra of [[Harita|Hārīta]] : ... pp. 127-136
 
-Sec. 6 Baudhayana-dharmasutra : 
+Baudhāyana, [[Apastamba|Āpastamba]] and [[Vasistha|Vasiṣṭha]] quote Hārīta as an authority - Mr. Islampurkar secured a ms. of [[Harītadharmasūtra|Hārītadharmasūtra]] at Nasik in 30 chapters - contents of that ms. - its relation to [[Maitra yaniyasashitā|Maitrāyaṇīyasaṁhitā]] - it mentions the [[Kaśmirian|Kāśmīrian]] word "Kaphella" - two-fold classification of śruti and its explanation - quotations in commentaries and digests show that [[Harita|Hārīta]] dealt exhaustively with the same topics that are found in other dharmasūtras - Kumārila mentions [[Hārita|Hārīta]] as dharmaśāstrakāra but does not assign him to any particular [[caraña|caraṇa]] as he does Āpastamba and others - notable doctrines of [[Harita|Hārīta]] - mentions worship of [[Ganesa|Gaṇeśa]] - [[Harita's|Hārīta's]] verses on vyavahāra quoted in nibandhas are later than the sūtra - quoted by [[Aprārka,|Aparārka,]] Kalpataru, [[Brahmacarikanda,|Brahmacārikāṇḍa,]] Sm. C. - Laghu [[Hārita|Hārīta]] and [[Viddha Hārita|Vṛddha Hārīta]] - latter in verse is later than [[Yajñavalkya,|Yājñavalkya,]] Nārada and [[Katyayana.|Kātyāyana.]]
 
-.. pp. 38-53 Baudhāyana is a teacher of the Black Yajurveda-arrangement of Baudhayana kalpa according to Dr. Burnell and Dr. Caland - Baudhāyanagrhya presupposes the Baudhāyanadharmasūtra - gshya (I11.9.6) speaks of pravacan:kāra Kanva Bodhāyana and sūtrakāra A pastamba - tarpana in Baudhayana dharmasutra (II. 5. 27 ) men tions Kanva Bodhāyana, Apastamba and Hiranyakesin - contents of Baudhāyanadharmasūtra - extant sūtra has not come down in tact-fourth praśna probably an interpolation - third praśna also not free from doubt - Baudhāyana III.10 taken from Gautama. Baudhā yana III. 6 agrees closely with Viṣṇudharmasutra 48 - Dr. Jolly thinks both borrowed from a conimon source - probably Viṣṇu borrows from Baudhāyana - repetitions exist even in the first two praśnas - form and structure of Baudhāyana - quotes numerous verses, even in the first two praśnas - language of Baudhāyana often departs from Paninian standard - literature known to Baudhayana - several authors on dharma together with their views mentioned by Baudhāyana - Asura Kapila said to be originator of asramas-Sabara, Kumārila, Viśvarūpa and Medhātithi refer to Baudhāyana dharma sūtra - home of Baudhāyana - Baudhāyana is styled pravacanakāra and Apastamba sūtrakāra - Būhler holds that Baudhayana was a southern teacher - sets out five peculiar usages of southern part - buotes several views about Āryāvarta - age of Baudhāyana dharma 
+Sec. 12 The Dharmasūtra of [[Sunkha-Likhita|Śaṅkha-Likhita]] : ... pp. 136-142
 
+From Tantravārtika it appears that dharmasūtra of [[Saṅkha Likhita|Śaṅkha-Likhita]] was studied by Vājasaneyins - [[Mahabharata|Mahābhārata]] (Śānti 23) contains story of brothers [[Saṅkha|Śaṅkha]] and Likhita - [[Pali|Pāli]] story in [[Dighanikāya|Dīghanikāya]] seems to be based on the story in the [[Mahabharata|Mahābhārata]] - various compilations ascribed to [[Saṅkha|Śaṅkha]] alone or Likhita alone or to both - restoration of Dharmasūtra in the Annals of Bhandarkar [[Pviii]] Institute (vols. VII, [[VIH|VIII]]) - Verse [[Sarkhasmsti|Śaṅkhasmṛti]] stricter than prose [[Saṅkha-Likhita|Śaṅkha-Likhita]] - com. on dharmasūtra mentioned in Kalpataru and Vivādaratnākara - doctrines of dharmasūtra similar to those of other dharmasūtras - speaks of twelve secondary sons - allows niyoga - speaks of several [[ordcals|ordeals]] - defines [[Aryavarta|Āryāvarta]] as between Sindhu-[[Sauvira|Sauvīra]] and [[Kampilya|Kāmpilya]] - literature known to [[Saṅkha - Likhita|Śaṅkha-Likhita]] - probable age between 300 B.C. - 100 A. D.
 
+Sec. 13 Mānavadharmasūtra : Did it exist ? ... pp. 143-149
 
-sūtra - later than Gautama - Būhler's reasons for placing Baudha yana a century or two earlier than Apastamba not convincing-diver gences between Baudhāyana and Apastamba - style of Baudhā yana compared with that of Apastamba - Baudhāvana to be placed between 500-200 B. C.- numerous sūtras of Baudhayana identical with those of Apastamba and Vasiṣtha - Baudhavana mentions several appellations of Ganesa, just as Mānavagļhya does and mentions seven planets, Rāhu and Ketu- Govindasvamin commen ted on Baudhayana. 
+Max [[Mūller|Müller]] and Weber responsible for the theory that the extant Manusmṛti was a recast of an ancient Mānavadharmasūtra now lost - hardly any data for the sweeping generalisation of Max [[Mūller|Müller]] that all genuine dharmaśāstras are nothing but more modern texts of earlier sūtra works on kuladharma - one main plank of this theory that the continuous [[en ployment|employment]] of the [[sloka|śloka]] metre was [[un known|unknown]] in the [[sutra|sūtra]] period is now exploded - [[Būhler|Bühler]] supports Max [[Mūller's|Müller's]] theory by some additional arguments - [[Vasiṣtha|Vasiṣṭha]] IV. 5-8 on which [[Būhler|Bühler]] relies not properly understood by him - [[Vasistha|Vasiṣṭha]] (19-37) quotes a Mānava [[sloka|śloka]] which is not in the [[Anuṣtubh|Anuṣṭubh]] metre and not found in extant Manu and [[Būhler|Bühler]] thinks it is taken from Mānavadharmasūtra - [[Būhler's|Bühler's]] reliance on a fragment of Uśanas which is corrupt is not worth consideration - [[Būhler|Bühler]] relies on [[Kamandakiyanitisāra|Kāmandakīyanītisāra]] (II. 3 and XI. 67) where Mānavas are said to hold that there are three vidyās for a king and that Manu said that king's council should consist of 12 ministers - These views not the same in extant Manu - [[Būhler's|Bühler's]] conclusion not correct - [[Kamandaka|Kāmandaka]] is only paraphrasing [[Kautiliya-Būhler's|Kauṭilīya - Bühler's]] generalisation about Mānava or [[Manavāh|Mānavāḥ]] without foundation - [[Kumarila,|Kumārila,]] [[Śhaṅkara|Śaṅkara]] and Viśvarūpa all employ 'Mānava' for Manusmṛti - [[Būhler|Bühler]] relies on analogy of the complete set of [[Apastamba|Āpastamba]] and [[Raudhayana|Baudhāyana]] sūtras for holding that a Mānavadharmasūtra existed - Proper explanation of Vas. Dh. S. IV. 5-8 - [[Būhler|Bühler]] not right in saying that Vas. Dh. S. 11. 23, [[12, 16,|12. 16,]] 23.43 either contradict Manu or find no counterpart therein - analogy of [[Apastamba|Āpastamba]] sūtras of no use - excepting the three [[caranas|caraṇas]] of the Black Yajurveda, no [[carana|caraṇa]] of any Veda has a dharmasūtra attributed to the founder of that [[carapa|caraṇa]] - an explanation suggested - existing materials not sufficient to establish theory that a [[Mūnavadharmasūtra|Mānavadharmasūtra]] once existed.
 
-Sec. 7 Dharmasūtra of Ăpastamba: 
+[[Pix]]
+Sec. 14 Arthaśāstra of [[Kautilya|Kauṭilya]] : ... pp. 149–256
 
-.. pp. 53-90 
+The three words used in the same sense viz. [[Arthasāstra,|Arthaśāstra,]] [[Dandaniti|Daṇḍanīti]] and [[Rajasāstra|Rājaśāstra]] or [[Rajaniti|Rājanīti]] or [[Rajanitiśāstra|Rājanītiśāstra]] or [[Nitiśāstra|Nītiśāstra]] - meaning and scope of [[arthasastra|arthaśāstra]] and relation to [[dharmaśātra|dharmaśāstra]] - arthaśāstra, an upaveda of Atharvaveda - Mr. Kavi wrongly holds that [[Kautilya|Kauṭilya]] borrows from the [[Cakṣusiya|Cākṣuṣīya]] Arthaśāstra - the [[Artha śāstra|Arthaśāstra]] of [[Kautilya,|Kauṭilya,]] first translated by Dr. [[Shama Śāstri|Shāma Śāstrī]] and text published in 1909 - Other editions - numerous works and articles inspired by the publication of [[Kautiliya|Kauṭilīya]] Arthaśāstra - [[Kauṭiliya|Kauṭilīya]] is the oldest extant work on [[Arthasāstra|Arthaśāstra]] - purpose of this [[sāstra.|śāstra]] - rule in case of conflict between Dharmaśāstra and [[Arthasāstra|Arthaśāstra]] - thinking on politics, economics, law etc. prevailed in India several centuries before Christ as is clear from the Mbh., and early [[Dharma sūtras|Dharmasūtras]] of Gautama, [[Baudhayana|Baudhāyana]] and [[Apastamba|Āpastamba]] - Arthaśāstra of [[Brhaspati|Bṛhaspati]] - principles, and phraseology of Arthaśāstra in the Mbh. and the Rāmāyaṇa - [[Canakya|Cāṇakya]] and Viṣṇugupta are names of the same person - glowing tribute paid to [[Canakya|Cāṇakya]] or Viṣṇugupta by [[Kamandakiyanitisāra,|Kāmandakīyanītisāra,]] [[Tantrākhyāyika,|Tantrākhyāyikā,]] [[Dandin|Daṇḍin]] - [[Bana|Bāṇa]] and [[Pañca tantra|Pañcatantra]] on [[Kautilya|Kauṭilya]] as author of [[Arthasastra|Arthaśāstra]] - Bṛhatkathā of [[Gunādhya|Guṇāḍhya]] contained his story - Mudrārākṣasa connects his name with [[Kutila|Kuṭila]] - these works along with the [[Kathasaritsāgara,|Kathāsaritsāgara,]] [[Kāvyādarsa|Kāvyādarśa]] etc. naming Viṣṇugupta, [[Cānakya|Cāṇakya]] and [[Kautilya|Kauṭilya]] singly or collectively, dealt with - [[Puranas|Purāṇas]] mentioning [[Cadragupta|Candragupta]] and his minister [[Kautilya|Kauṭilya]] - Candragupta and Seleucus - Bāṇa refers to [[Kautilya's|Kauṭilya's]] work as a cruel work and so also does the [[Matsya Purana|Matsya Purāṇa]] - the extant Arthaśāstra itself claims that it is a work of [[Kautilya|Kauṭilya]] - Candragupta and the epithet [[Vrśala|Vṛṣala]] used for him - Viṣṇugupta, an astrologer mentioned by Varāhamihira must be entirely different from the author of the Arthaśāstra - controversy as to whether [[Kauṭiliya|Kauṭilīya]] can be the work of a busy minister of Candragupta Maurya - Jolly, Winternitz and Keith hold that extant work is not by the minister of Candragupta - [[Megasthenes.|Megasthenes']] silence about Cāṇakya explained - whether the [[Kautiliya|Kauṭilīya]] is the product of a school or of an individual author - [[Kautilya|Kauṭilya]]'s views cited about 70 times in the work in the third person - explanation of this - Dr. Jolly wrong in his explanation of apadeśa (in XV. 1) - Keith thinks that an author would not parade an [[uncompliment ary|uncomplimentary]] epithet like [[Kautilya|Kauṭilya]] (derived from [[kutila|kuṭila]]) - Is the name [[Kautilya|Kauṭilya]] or [[Kautalya|Kauṭalya]] - works on gotra and pravara give various [[Px]] forms such as [[Kautali|Kauṭali]], [[Kautilya|Kauṭilya]] and Kauṭili - form, style and [[con tents|contents]] of the [[Kauṭiliya|Kauṭilīya]] - a few verses interspersed in the work, generally at the end - in all 375 verses excluding mantras - some verses are certainly quotations - work abounds in numerous [[techni cal|technical]] and rare words - deviations from Pāṇini - summary of contents - section on judicial administration interesting - greatest [[correspon dence|correspondence]] between [[Kautiliya|Kauṭilīya]] and Yājñavalkya - some striking examples - it is [[Yajñavalkya|Yājñavalkya]] that borrows - reasons - Yājñavalkya represents a far too advanced stage [[o|of]] juristic [[priniciples|principles]] than [[Kautilya|Kauṭilya]] - close agreement between [[Manusmrti|Manusmṛti]] and [[Kautilya|Kauṭilya]] also - but they differ on niyoga, as to nomenclature of vyavahārapadas, about heirship of mother and paternal grandmother, on remarriage of widows, divorce, gambling - [[Kautiliya|Kauṭilīya]] long anterior to the extant [[Manu smṛti|Manusmṛti]] - [[Kautilya|Kauṭilya]]'s five references to Mānavas explained - references to [[Svayambhuva|Svāyambhuva]] and Prācetasa Manu contained in the [[Maha bhārata|Mahābhārata]] suggest that there were two works in verse on dharma and politics attributed to these or perhaps one work containing both, subsequently recast as the extant Manusmṛti - only two views ascribed to Mānavas in [[Kauṭiliya|Kauṭilīya]] not found in extant Manusmṛti - in the [[dharmasthiya|dharmasthīya]] section the only other authors or schools cited are Bārhaspatyas and Auśanasas - none of the dharmasūtras of Gautama and others are anywhere quoted by name - views cited on the question as to whom a child belongs (to the begetter or to him on whose wife it is begotten) can be traced to Baudhāyana, Gautama and [[Vasistha|Vasiṣṭha]] - views of [[Acāryas|Ācāryas]] cited in the [[Kautiliya|Kauṭilīya]] - [[Kauṭiliya|Kauṭilīya]] later than Gautama and [[Apastamba|Āpastamba]] but earlier than extant Manusmṛti - date of [[Kauṭiliya|Kauṭilīya]] - it is certainly not later than 2nd century A. D. and not earlier than 325 B.C. - schools named by [[Kautilya|Kauṭilya]] and also individual authors - views of [[Acāryas|Ācāryas]] are quoted over fifty times and [[Kautilya|Kauṭilya]] differs in each case - meaning of 'ācāryas' - literature known to [[Kautilya|Kauṭilya]] - Sanskrit official [[lang uage|language]] and the work mentions [[gunas|guṇas]] of composition - [[Kautiliya|Kauṭilīya]] agrees with [[Kamasutra|Kāmasūtra]] in several respects - Dr. Jolly and Prof. Keith opine that both works composed about same time - points of difference between the two works - countries and peoples [[men tioned|mentioned]] by [[Kautilya|Kauṭilya]] - silks from [[Cina|Cīna]] and blankets from Nepal - home of [[Kautilya,|Kauṭilya,]] southern acc. to Dr. Jolly who concludes so on two quite worthless grounds - Buddhist and Jain traditions associate [[Cānakya|Cāṇakya]] with [[Gāndhūra|Gāndhāra]] - was resident of the extreme North-west of India - three principal groups of writers on the question of the [[Pxi]] age of [[Kautilya|Kauṭilya]] - corporations of Licchavis, [[Vfjikas|Vṛjikas]] and others mentioned - meaning of '[[rājasabdopajivinah|rājaśabdopajīvinaḥ]]' (in XI. 1) - best breeds of horses - Mlecchas sold or pledged children - references to Buddhists and [[Ajivakas|Ājīvakas]] - weights to be made from stones of Magadha and Mekala - most of the stories cited as illustrations by [[Kauṭiliya|Kauṭilīya]] occur in the [[Mahabharata,|Mahābhārata,]] but some divergence exists in the case of Janamejaya, [[Māndavya|Māṇḍavya]] - [[Kautilya's|Kauṭilya's]] knowledge of drugs and of rasa (mercury) - references to shrines of Śiva, Skanda &c. - traditional date of 300 B. C. more likely to be correct than 3rd [[centnry|century]] A. D. approved of by Dr. Jolly and Winternitz - two commentaries on [[Kauṭiliya,|Kauṭilīya,]] Nayacandrikā of [[Madhavayajvan|Mādhavayajvan]] and [[Pratipadapancikā|Pratipadapañcikā]] of [[Bhattasvamin|Bhaṭṭasvāmin]] - sūtras attributed to [[Cānakya|Cāṇakya]] - several [[niti|nīti]] collections in verse ascribed to [[Canakya|Cāṇakya]] are later than [[Kautiliya.|Kauṭilīya.]]
 
-The Ăpastambakalpasūtra of the Black Yajurveda divided in to 30 prasnas, dharmasūtra constituting 28th and 29th prasnas thereof - Ápastamba is one of the five subdivisions of the Khāndi keya school of Taittiriyaśākhā -Apastanibagļhya and dharma-sūtras are compositions of the same author-some sutras of the two are iden tical-Ap. gphya does not treat of some topics as they are dealt with in dharmasūtra - though Dr. Ram Gopal points out ten sutras in Ap. Gr. about the choice of a marriageable girl there is only one rule worth something - there are several passages where Ap. Dh. S. presupposes Āp. Gr.-contents of Ap.dharmasūtra-form and struc ture of Ap. dharmasūtra-Ap. is more archaic and un- Paninian th any other dharmasūtra-many unfamiliar words in Ap.-several verses quoted in Ap-literature known to Āp.- Ap. mentions six angas of Veda and ten writers on dharma by name-Svetaketu and Ap.-Hārita quoted frequently by Ap. - Ap. controverts several veiws-striking coincidences between Gautama and Ap. - Āp. quotes a verse from Purāṇa and speaks of the view of Bhaviṣyatpurāṇa - Apastamba and Manu - Apastamba presupposes many rules of the Mimāṁsā and agrees closely with Jaimini's sūtras-age of Ap. Dh. S. - quoted by Sabara, Kumārila, Saskarācārya, Viśvarūpa and Medhātithj - home and personal history of Apastamba not known - Dr. Ram Gopal's view about Ápastamba being earlier than Pāụini who gives Apastamba's name in Bidādiga na, refuted - reply to Dr. Ram Gopal's puerile arg'iments about the home of Apastamba etc.-Áp. is later than Gautama and probably Baudhayana - Ap. Dh. S. may be assigned to the period of 450-350 B. C, not 600-300 B. C. ( as in the first edition)- Áp. condemns niyoga, rejects secondary sons, does not admit paiśāca and Prājupatya forms of marriage - divergence 
+Sec. 15 [[Vaikhūnasadharmasūtra|Vaikhānasadharmasūtra]] : .. pp. 257-260
 
-Synopsis of Contents 
+Vaikhānasa is one of the six sūtra caraṇas of the black [[Yajur veda|Yajurveda]] mentioned by Mahādeva in his [[Vaijayanti|Vaijayantī]] on [[Satyasādba srautasūtra|Satyāṣāḍhaśrautasūtra]] - Vaikhānasa occurs in Gautama, [[Baudbāyana,|Baudhāyana,]] [[Vasistba|Vasiṣṭha]] (9.10) and Manu (6.21) - Vaikhānasadharmapraśna divided into three praśnas - contents of the work - its age later than Gautama and [[Baudhayana|Baudhāyana]] - names more mixed castes than even some of the verse smṛtis - devotion to [[Nārāyana|Nārāyaṇa]] looms very large in the work Vai. [[Gr|Gṛ]]. S. - Dr. Caland's view that [[Manusmrti|Manusmṛti]] borrows from [[Vai khānasagļhya|Vaikhānasagṛhya]] not correct - parallelisms between Manusmṛti and [[Vai. Dh. $.|Vai. Dh. S.]] put forward by Dr. Caland too flimsy - Vai. [[Gr|Gṛ]]. and Vai. Dh. later than Yāj. - may be assigned to 300 to [[400. A D.|400 A. D.]]
 
-between the views of Ap. and Gautama and other sūtrakāras - Haradatta's is the only commentary extant on Ap.- Apastamba smrti in verse. 
+Sec. 16 Atri : .. pp. 261-264
 
-Sec. 8 Hiranyakesidharmasutra : 
+Atri named in Manu (III. 16) - [[Atreyadharmaśāstra|Ātreyadharmaśāstra]] in nine adhyāyas - summary of contents - form of Atridharmaśāstra - several works styled [[Atrisniști|Atrismṛti]] - summary of Atrisaṁhitā printed by [[Jivananda|Jīvānanda]] - Atri quoted as an authority on adoption - Laghu Atri and [[Vrddhātreyasmīti|Vṛddhātreyasmṛti]] - [[Mahabharata|Mahābhārata]] ([[Anusāsana|Anuśāsana]] 65.1) quotes a verse of Atri - Aparārka quotes about a hundred verses of Atri on various topics - [[Atreya-smrti|Ātreya-smṛti]] edited by Aiyangar.
 
-.. 91-94 
+[[Pxii]]
+Sec. 17 Uśanas : .. pp. 264-272
 
-Hiranyakesidharmasūtra forms 26th and 27th praśnas of the Hiranyakeśikalpa - Hiraṇyakesin's can be hardly called an indepen dent work, as it borrows hundreds of sūtras word for word from 
+Uśanas, ancient sage in the [[Rgveda|Ṛgveda]] - wrote on politics, as [[Kau tiliya|Kauṭilīya]] shows - [[Mahabharata|Mahābhārata]] ([[Śanti|Śānti]] 56. 29-30) refers to work of Uśanas on politics - [[Nitiprakāśika|Nītiprakāśikā]] on [[Sukra|Śukra]] as arranger of rājaśāstra - An Auśanasa dharmaśāstra in verse - contents - peculiar views of Uśanas about offspring of inter-caste marriages - several verses [[com mon|common]] to Uśanas and Manu - names the views of numerous writers on dharma - Haradatta and [[Smsticandrikā|Smṛticandrikā]] knew a work of Uśanas dealing with all branches of dharma - Uśanas smṛti in verse - verses of Uśanas on vyavahāra - acc. to Uśanas the son of a brāhmaṇa from a [[ksatriya|kṣatriya]] wife is a brāhmaṇa and that of a [[ksatriya|kṣatriya]] from a vaiśya wife is a [[ksatriya|kṣatriya]] - quoted by Aparārka, Mahābhāṣya - [[Suka ranitisāra|Śukranītisāra]] edited by Oppert.
 
-Ap.- a few additions made to Ap. in Hiranyakesi Dh.S. - Hiranya kesin's readings are smoother and more classical than Āpastamba's - arrangement of sūtras also is somewhat different in the two -com. of Mahadeva called Ujjvalā on Hyraṇyakeśin is almost the same as Haradatta's on Āp. - Būhler thinks Mahadeva borrows from Haradatta - Mahadeva's com. in a few places contains more matter than Haradatta's and Mahadeva differs from Haradatta. 
+Sec. 18 [[Kanva|Kaṇva]] and Kāṇva : .. pp. 273-274
 
-FU 
+[[Ap.|Āp.]] Dh. S. ([[1|I]]. 6. 19) shows that [[Kanva|Kaṇva]] and Kāṇva were two distinct authors - verses of [[Kanva|Kaṇva]] quoted in [[Smrticandrika|Smṛticandrikā]] - Mit. quotes a verse of Kāṇva - Maskarin frequently quotes passages from [[Kanva.|Kaṇva.]]
 
-Sec. 9 Vasistha-dharmasutra : 
+Sec. 19 Kaśyapa and [[Kaśyapa|Kāśyapa]] : .. pp. 274–276
 
-.. pp. 94-112 Different editions of Vasistha contain different numbers of chapters - Kumārila says it was specially studied by Rgvedins - ex planation of this statement - nothing special in the Vasisthadharma sūtra to connect it with Rgveda - contents of the Vasiṣthadharma sūtra - style of Vas. Dh. S. resembles Gautama's - many sūtras of Vas, identical with Gautama and Baudhāyana - form of Vasistha dharmasūtra resembles Baudhāyaradharmasūtra - Medhātithi and Mitakṣarā quote from almost all chapters of extant Vasistha and so does Viśvarūpa - literature known to Vasiṣtha-Vasiṣtha prohibits learning language of Mlecchas - authors on dharmaśātsra named by Vasiṣtha - Vasistha's references to the views of Manu are made with reference to a work of Manu almost identical with the present Manu smṛti and do not compel us to forniluate the existence of a Māna vadharmasutra - Būhler wrong in taking Vas. Dh. S. 4.8 as a quo tation from Mānavadharmasūtra-only Vas. Dh. S. 12.16 and 19.37 where Manu is quoted have no corresponding verses in the present Manusmrti - over forty verses are entirely common to Vas. and present Manusmīti - conclusion that Vas. contains borrowings from the present Manusmṛti or its prototype in verse - Vas. Dh. S. 22 is the same as Gautama 19 - Dr. Jolly's view that Vas. Dh. S. 28. 10-15 and 18-22 are borrowed from Viṣṇudharmasūtra chap. 56 and 87 or its original the Kathakadharmasutra is wrong - home of Vas, to 
+Baudhāyana (Dh. S. I, 11.20) cites a verse in which Kāśyapa's view is contained - there was a dharmasūtra of Kāśyapa - a Kāśyapa smṛti in prose contained in Deccan College Mss. - contents thereof - Maskarin quotes a verse of [[Kāśvapa|Kāśyapa]] - the Vanaparva (29.35-40) quotes five gāthās of [[Kasyapa|Kaśyapa]] - Aparārka mentions [[Kaśyapa|Kāśyapa]] 13 times and Kaśyapa six times - [[Smsticandrikā|Smṛticandrikā]] includes [[Kasyapa|Kāśyapa]] among 18 [[upasmstis.|upasmṛtis.]]
 
+Sec. 20 Gārgya : .. pp. 276-277
 
+A sūtra work of Gārgya on dharma existed - [[Gargya|Gārgya]] and [[Vrddha|Vṛddha]] Gārgya - a [[Gargisaṁhitā|Gārgīsaṁhitā]] on astronomy and astrology - Jyotir Gārgya and Bṛhad Gārgya - Garga, an astronomer [[mention ed|mentioned]] in [[Apuśāsana|Anuśāsana]] and [[Salya|Śalya]] probably different from the [[Dharma. śāstra|Dharmaśāstra]] writer Garga - Vṛddha-Gārgya.
 
-the north of Narmadā, according to Būhler - this is mere specula tion - earliest reference to Vasiṣtha as a writer on dharma is in Manu (8.140 ) - age of Vasiṣtha - Vasiṣtha's views are ancient, praticularly about secondary sons, about Dattaka son, about niyoga and remarriage - he mentions only six forms of marriage - but in other matters differs from Gaut. or Baudh. viz, on adoption, on documents - Vas. Dh. S. between 303–100 B. C.- whether Vas. 18.4 ( Rāmaka v. 1. Romaka ) contains a reference to the Romans - the author of the extant Vas. Dh. S. appears to be eclectic and the extant Vas. Dh. S. is only a re-hash of the Ap. Dh. S., Baud. Dh. S. and Manu - passages from the Samhitas and Brahmanas quoted in or referred to by Vas. Dlı. S. outnumber the Rgvedic passages - this shows that Vas. Dh. S. did not at first attach itself to the Rgveda - Dr. Ram Gopal's remarks on the passages of Vas, and the three Gṭ. sūtras attached to Rgveda are misleading - Viddha-Vasi ștha, an early compilation - there is a Bṛhad Vasiṣtha and a Jyotir Vasistha - Yajñasvāmin commented upon Vas. Dh. S. 
+[[Pxiii]]
+Sec. 21 Cyavana : .. pp. 277-278
 
-Sec. 10 Viṣṇudharmasutra : 
+Cyavana famous in [[Rgveda|Ṛgveda]] - stories of Cyavana in the Mbh. - seems to have written a sūtra work on dharma - quoted by the Mit., Aparārka.
 
-... 112-127 
+Sec. 22 [[Jātukarnya|Jātūkarṇya]] : .. pp. 278-279
 
-Viṣṇu Dh. S. contains 100 chapters and yet sutra not extensive - several chap. (40, 42, 76 ) contain only one sutra and one verse - first chap. and the last two are entirely in verse, the rest in mixed prose and verse - Viṣṇu Dh. S. closely connectej with Kathasākha - Dr. Jolly says chap. 21, 67, 73 and 86 of Vișnu closely correspond with Kathaka gshya - but Viṣṇu Dh. S. is not the work of the author of Kathaka grhya - contents of Viṣṇu Dh. S. - Viṣṇu resembles Vas. Dh. S. - its peculiar feature that it professes to be re vealed by God Viṣṇu - its style, easy and diffuse - work contains old and new material - hundreds of sūtras are prose renderings of hund reds of verses occurring in our Manu - hypothesis of a common origin or borrowing by both from a floating mass of verses unten able - extant Viṣṇudharmasutra borrows from Manu-Vispu contains verses identical with the Bhagavadgitā and Yājñavalkya smrti - Dr. Jolly's view that Yājñavalkya borrows his anatomical section from Viṣṇu not correct - Vispu Dh. S. contains long list of tirthas, the word Jaiva for Jupiter - those wanting in Yājñavalkya - extant Viṣṇu Dh. S. later than Manusmṛti and Yajñavalkyasmsti - Viśva rūpa does not quote a single sutra of Viṣṇu by name, though he refers to Viṣṇu (ch. 97) for orders of samnyasins - Mitāksarā 
+A verse of [[Vrddha|Vṛddha]] Yājñavalkya names [[Jātūkarnya|Jātūkarṇya]] as a [[dhar maśāstrakāra|dharmaśāstrakāra]] - quotations in verse in Mitākṣarā and later works.
 
-Synopsis of Contents 
+Sec. 23 Devala : .. pp. 279-284
 
-quotes hardly any verse from Viṣṇu - Aparārka and Smsticandrika quote Viṣṇu profusely - verses were added at a late date to original sūtra - literature known to Viṣṇu Dh.S. -Viṣṇu mentions the seven days of the week, recommends the practice of saii, speaks of pus takas, of many good and evil omens among which the sight of yellow-robed Buddhist ascetics is included - it prohibits speech with Mlecchas and journeys to Mlcccha countries, it dilates on worship of Vasudeva - though Viṣṇu agrees in some respects with Kathaka grhya, on some points it differs from it- date of older kernel of Viṣṇu may be 300 to 10j B.C. - additions made after 3rd century A. D. and before 7th century - some sūtras agree closely with Nārada - Bșhad Viṣṇu and Vrddha Viṣṇu and Laghu Viṣṇu - Nanda pandita's com. on the Viṣṇu Dh. S. - probably Bhāruci also com mented on it. 
+Devala frequently occurs in the Mbh. - referred to by [[Saṅkarā cārya|Śaṅkarācārya]] as relying on Sāṅkhya tenets - A [[dharmasātra|dharmasūtra]] of Devala existed once - Mitākṣarā, Kalpataru, Smṛticandrikā and other works also contain quotations in verse on ācāra, vyavahāra, śrāddha - this latter a later compilation - [[Devalasmrti|Devalasmṛti]] in 90 verses on purifications is also a late work - jurist Devala flourished about the same time as [[Brhaspati|Bṛhaspati]] and [[Katyāyana.|Kātyāyana.]]
 
-Sec. 11 The Dharmasūtra of Harita : 
+Sec. 24 [[Paithinasi|Paiṭhīnasi]] : .. pp. 284-286
 
-... pp. 127-136 
+An ancient sūtrakāra, as Viśvarūpa quotes his sūtras - Dr. Jolly thinks he belongs to Atharvaveda - [[Paithinasi|Paiṭhīnasi]] on [[sati,|satī,]] inheritance, on absence of untouchability under certain circumstances. (Also vide Sec. 46).
 
-Baudhāyana, Apastamba and Vasistha quote Hārīta as an authority - Mr. Islampurkar secured a ms. of Harītadharmasūtra at Nasik in 30 chapters - contents of that ms. - its relation to Maitra yaniyasashitā - it mentions the Kaśmirian word “Kaphella" - two-fold classification of śruti and its explanation - quotations in commentaries and digests show that Harita dealt exhaustively with the same topics that are found in other dharmasūtras - Kumārila mentions Hārita as dharmaśāstrakāra but does not assign him to any particular caraña as he does Āpastamba and others - notable doctrines of Harita - mentions worship of Ganesa - Harita's verses on vyavahāra quoted in nibandhas are later than the sūtra - quoted by Aprārka, Kalpataru, Brahmacarikanda, Sm. C. - Laghu Hārita and Viddha Hārita - latter in verse is later than Yajñavalkya, Nārada and Katyayana. 
+Sec. 25 Budha : . . pp. 286-287
 
-Sec. 12 The Dharmasūtra of Sunkha-Likhita : 
+A sūtrakāra cited by Hemādri, Aparārka, Kalpataru and [[Ji mūtavāhana|Jīmūtavāhana]] - a brief compilation and not very early in age.
 
-... pp. 136-142 
+Sec. 26 [[Brhaspati|Bṛhaspati]] : .. pp. 287–290
 
-From Tantravārtika it appears that dharmasūtra of Saṅkha Likhita was studied by Vājasaneyins - Mahabharata (Śānti 23 contains story of brothers Saṅkha and Likhita - Pali story in Dighanikāya seems to be based on the story in the Mahabharata - various compilations ascribed to Saṅkha alone or Likhita alone or to both - restoration of Dharmasūtra in the Annals of Bhandarkar 
+An ancient teacher of [[arthasāstra|arthaśāstra]] mentioned in [[Kautiliya|Kauṭilīya]] - [[Mahābharata|Mahābhārata]] (Śānti 59. 80-85) credits him with compression of vast work of Brahmā on [[trirarga|trivarga]] and mentions several of his views - Kāmasūtra speaks of [[Brhaspati|Bṛhaspati]] as writer on artha - peculiar views of Bṛhaspati according to [[Kautiliya|Kauṭilīya]] - Bṛhaspati also wrote a prose work on vyavahāra and [[peżyascitta|prāyaścitta]] - probably the authors of the two are different - 700 verses on vyavahāra ascribed to [[Bphaspati|Bṛhaspati]] are quoted in the [[Mitakṣarī|Mitākṣarā]] - this is an independent [[Pxiv]] work composed between 300-500 A. D. - smaller compilations in verse ascribed to [[Bphaspati|Bṛhaspati]] - Bārhaspatya [[Arthasāstra|Arthaśāstra]] edited by Dr. Thomas is a late work.
 
-viii 
+Sec. 27 [[Bharadvaja|Bharadvāja]] and [[Bharadvāja|Bhāradvāja]] : .. pp. 290-294
 
-History of Dharmaśāsira 
+A śrautasūtra and [[gshya|gṛhya]] of Bhāradvāja exists - Viśvarūpa's work establishes existence of a [[sutra|sūtra]] work on dharma of [[Bharad vāja|Bharadvāja]] - there was a smṛti in [[veise|verse]] also attributed to [[Bharadvāja|Bhāradvāja]] - [[Kauṭiliya|Kauṭilīya]] shows that [[Bharadvāja|Bhāradvāja]] was an ancient author on [[poli tics|politics]] - some views of Bharadvāja - [[Mahabharata|Mahābhārata]] on [[Bharadvāja|Bhāradvāja]] - Bhāradvāja (Bārhaspatya), sage of the 6th [[Mandala|Maṇḍala]] of the [[Rg veda|Ṛgveda]] - mentioned by [[Pūnini|Pāṇini]] as a predecessor - Mahābhāṣya [[men tions|mentions]] [[Bhāradvājiyas|Bhāradvājīyas]], a school of grammarians - [[Kautiliya|Kauṭilīya]] probably lumps Bharadvāja, Vyāsa and Manu and refers to them collectively as 'ācāryāḥ' - verses on vyavahāra attributed to Bhāradvāja - this probably different from work on politics.
 
-Institute (vols. VII, VIH ) - Verse Sarkhasmsti stricter than prose Saṅkha-Likhita - com. on dharmasūtra mentioned in Kalpataru and Vivādaratnākara - doctrines of dharmasūtra similar to those of other dharmasūtras - speaks of twelve secondary sons - allows niyoga - speaks of several ordcals - defines Aryavarta as between Sindhu-Sauvira and Kampilya - literature known to Saṅkha - Likhita - probable age between 300 B.C. - 100 A. D. 
+Sec. 28 [[Śātātupa|Śātātapa]] : . . pp. 294–296
 
-Sec. 13 Mānavadharmasūtra : Did it exist ? 
+A sūtra work of Śātātapa on dharma dealing with [[prayaścitta,|prāyaścitta,]] śrāddha and ācāra must have existed - verses of Śātātapa quoted in [[Mitakṣarī|Mitākṣarā]] and other later works - this is probably different from smṛti work - several verse compilations ascribed to [[śātātapa|Śātātapa]] - [[Viddha Satatapa|Vṛddha Śātātapa]] and Bṛhat [[Śatātapa.|Śātātapa.]]
 
-... pp. 143-149 
+Sec. 29 Sumantu : .. pp. 296–299
 
-Max Mūller and Weber responsible for the theory that the extant Manusmṛti was a recast of an ancient Mānavadharmasūtra now lost - hardly any data for the sweeping generalisation of Max Mūller that all genuine dharmaśāstras are nothing but more modern texts of earlier sūtra works on kuladharma - one main plank of this theory that the continuous en ployment of the sloka metre was un known in the sutra period is now exploded - Būhler supports Max Mūller's theory by some additional arguments - Vasiṣtha IV. 5-8 on which Būhler relies not properly understood by him - Vasistha ( 19-37) quotes a Mānava sloka which is not in the Anuṣtubh metre and not found in extant Manu and Būhler thinks it is taken from Mānavadharmasūtra · Būhler's reliance on a fragment of Uśanas which is corrupt is not worth consideration - Būhler relies on Kamandakiyanitisāra ( II. 3 and XI. 67) where Mānavas are said to hold that there are three vidyās for a king and that Manu said that king's council should consist of 12 ministers - These views not the same in extant Manu - Būhler's conclusion not correct - Kamandaka is only paraphrasing Kautiliya-Būhler's generalisation about Mānava or Manavāh without foundation - Kumarila, Śhaṅkara and Viśvarūpa all employ · Mānava 'for Manusmṛti - Būhler relies on analogy of the complete set of Apastamba and Raudhayana sūtras for holding that a Mānavadharmasūtra existed - Proper explanation of Vas. Dh. S. IV. 5-8 - Būhler not right in saying that Vas. Dh. S. 11. 23, 12, 16, 23.43 either contradict Manu or find no counterpart therein - analogy of Apastamba sūtras of no use. excepting the three caranas of the Black Yajurveda, no carana of any Veda has a dharmasūtra attributed to the founder of that carapa - an explanation suggested - existing materials not sufficient to establish theory that a Mūnavadharmasūtra once existed. 
+A sūtra work on ācāra and [[prayascitta|prāyaścitta]] ascribed to Sumantu existed - [[Paithinasi|Paiṭhīnasi]] includes Sumantu among 36 expounders of Dharmaśāstra - quoted by Viśvarūpa, Kalpataru, Aparārka - [[Yajña valkya|Yājñavalkya]] and Parāśara do not enumerate Sumantu among [[expound ers|expounders]] of dharma - Sumantu mentioned in Mahābhārata and [[Bhāga vata|Bhāgavata]] - verses from Sumantu on dharma are cited by Aparārka - this is a different work - numerous verses on vyavahāra quoted from Sumantu in [[Sarasvativilāsa|Sarasvatīvilāsa]] - reconstruction of Sumantu by Prof. T. R. Chintamani.
 
-Synopsis of Contents 
+Sec. 30 The [[Smrtis|Smṛtis]] : pp. 299-306
 
-Sec. 14 Arthaśāstra of Kautilya : 
+Two senses of the word [[smsti,|smṛti,]] viz. all orthodox ancient non-Vedic works (such as [[Panini's|Pāṇini's]] [[granımar,|grammar,]] [[Srauta|Śrauta]] sūtras, Mahābhā[[Pxv]]rata, Manu, &c.) and (a narrower sense) dharmaśāstra - [[smsti,|smṛti,]] a source of dharma according to Gautama and others - references to [[smrtis|smṛtis]] in early inscriptions - [[spistis|smṛtis]] mirrored the beliefs and [[practi ces|practices]] of people and also influenced writers and ordinary [[people;|people -]] number of [[smstis|smṛtis]] went on increasing - Yājñavalkya enumerates twenty writers of [[smrtis,|smṛtis,]] Parāśara 19 - Tantravārtika speaks of 18 [[dharmasamhitas|dharmasaṁhitās]] - [[Caturvimsatimata|Caturviṁśatimata]] gives views of 24 writers - a smṛti called [[Sat-trirśanmata|Ṣaṭ-triṁśanmata]] - [[Paithinasi|Paiṭhīnasi]] enumerates 36 and so does Aparārka - [[Vrddha|Vṛddha]] Gautama enumerates 57 - [[Viramitrodaya|Vīramitrodaya]] enumerates 18 [[smstis,|smṛtis,]] 18 upasmṛtis and 21 more - total number of smṛtis about 100 - these are products of widely separated ages - some entirely in prose, some entirely in verse, some are mixed - chronology of [[smstis|smṛtis]] presents perplexing problems - two or three [[smrtis|smṛtis]] go under the same name, e. g. [[Harita,|Hārīta,]] Atri, [[Śatātapa|Śātātapa]] - sectarian zealots fabricate certain [[smrtis|smṛtis]] - the prefixes laghu, [[brhat|bṛhat]] and [[viddha|vṛddha]] applied to [[smstis|smṛtis]] - well-known verses are ascribed to different authors, as authors quote from memory.
 
-... pp. 149–256 
+Sec. 31 The [[Manusmrti|Manusmṛti]] : .. pp. 306-349
 
-The three words used in the same sense viz. Arthasāstra, Dandaniti and Rajasāstra or Rajaniti or Rajanitiśāstra or Nitiśāstra meaning and scope of arthasastra and relation to dharmaśātra - arthaśāstra, an upaveda of Atharvaveda - Mr. Kavi wrongly holds that Kautilya borrows from the Cakṣusiya Arthaśāstra - the Artha śāstra of Kautilya, first translated by Dr. Shama Śāstri and text published in 1909 - Other editions - numerous works and articles inspired by the publication of Kautiliya Arthaśāstra - Kauṭiliya is the oldest extant work on Arthasāstra - purpose of this sāstra. rule in case of conflict between Dharmaśāstra and Arthasāstra - thinking on politics, economics, law etc. prevailed in India several centuries before Christ as is clear from the Mbh., and early Dharma sūtras of Gautama, Baudhayana and Apastamba - Arthaśāstra of Brhaspati - principles, and phraseology of Arthaśāstra in the Mbh. and the Rāmāyaṇa - Canakya and Viṣṇugupta are names of the same person - glowing tribute paid to Canakya or Viṣṇugupta by Kamandakiyanitisāra, Tantrākhyāyika, Dandin - Bana and Pañca tantra on Kautilya as author of Arthasastra - Bṛhatkathā of Gunādhya contained his story - Mudrārākṣasa connects his name with Kutila - these works along with the Kathasaritsāgara, Kāvyādarsa etc, naming Viṣṇugupta, Cānakya and Kautilya singly or collectively, dealt with - Puranas mentioning Cadragupta and his minister Kautilya - Candragupta and Seleucus - Bāṇa refers to Kautilya's work as a cruel work and so also does the Matsya Purana - the extant Arthaśāstra itself claims that it is a work of Kautilya - Candragupta and the epithet Vrśala used for him - Viṣṇugupta, an astrologer mentioned by Varāhamihira must be entirely different from the author of the Arthaśāstra - controversy as to whether Kauṭiliya can be the work of a busy minister of Candragupta Maurya - Jolly, Winternitz and Keith hold that extant work is not by the minister of Candragupta - Megasthenes. silence about Cāṇakya explained - whether the Kautiliya is the product of a school or of an individual author - Kautilya's views cited about 70 times in the work in the third person - explanation of this - Dr. Jolly wrong in his explanation of apadeśa ( in XV. 1). - Keith thinks that an author would not parade an uncompliment ary epithet like Kautilya ( derived from kutila) - Is the name Kautilya or Kautalya - works on gotra and pravara give various 
+Numerous editions - Manu as the father of mankind in the [[Rgveda|Ṛgveda]] and other Vedas - Manu and the deluge in [[Satapatha-brah maṇa|Śatapatha-brāhmaṇa]] - Manu in the Nirukta - Manu quoted as law-giver in [[Gau tama,|Gautama,]] [[Ápastamba|Āpastamba]] and Mahābhārata - introduction to [[Nārada smȚti|Nāradasmṛti]] and Manu - how the [[Manusmsti|Manusmṛti]] is narrated - four versions of [[Svayambhuva|Svāyambhuva]] [[sastra|śāstra]] according to Bhaviṣyapurāṇa - almost impossible to say who composed extant Manusmṛti - [[Būhler's|Bühler's]] theory that our Manu is a recast of Mānavadharmasūtra shown above to be unsustainable - the [[Manavagļhya|Mānavagṛhya]] differs from [[Manu smrti|Manusmṛti]] in several particulars - Vināyakaśānti of [[Mānavagļhya|Mānavagṛhya]] and tests for selecting a bride not contained in our Manu - [[Mahā. bhārata|Mahābhārata]] distinguishes between Svāyambhuva Manu and [[Pracetasa|Prācetasa]] Manu, former promulgating dharmaśāstra - these two [[wroks|works]] combined in the present Manu - extant Manu has 12 chapters and 2694 verses - its style - contents of [[Manusmsti|Manusmṛti]] - extent of literature known to [[Manusmști|Manusmṛti]] - the author of the [[Manusmrti|Manusmṛti]] is not the first legislator - recognised as an ancient writer on [[Dharma sāstra|Dharmaśāstra]] in the [[Dharniasutras|Dharmasūtras]] - number and names of Manus in Purāṇas - confusion caused by ancient texts referring to [[Svayam bhuva|Svāyambhuva]] Manu, Prācetasa Manu and Manu - views of Svāyambhuva [[Pxvi]] are mentioned in [[Mapu|Manu]] VI. 54, VIII. 124, IX. 158 - Manu [[Praja pati|Prajāpati]] is mentioned in X. 78, XII. 123 - in [[l.|I.]] 35 among ten [[Praja patis|Prajāpatis]] primeval Manu is mentioned - criticism of some one-sided and biased remarks of Hopkins about Manu - involved account in [[Manusmrti|Manusmṛti]] about the creation of the world by [[Paraniātman|Paramātman]] - the fact that the Manusmṛti mentions human authors like Atri, [[Bhrgu|Bhṛgu]] etc. and refers to dasyus who speak mleccha and [[Arya|Ārya]] [[languae ges|languages]] etc. indicates that the extant [[Manusmrti|Manusmṛti]] is not older than 200 B. C. - age of [[Manusmrit|Manusmṛti]] - external evidence - Medhātithi's is the first extant commentary - Viśvarūpa [[quotcs|quotes]] 200 verses - [[Śhaṅkara.|Śaṅkara,]] Kumārila and [[Sabara|Śabara]] refer to Manu - [[Bșhaspati|Bṛhaspati]] had the present text of Manu before him - [[Asvaghosa|Aśvaghoṣa]] in his [[Vajrasuci|Vajrasūcī]] quotes several verses from 'Mānavadharma' some of which are found in our Manu - [[Rāmāyana|Rāmāyaṇa]] ([[Kiṣkidhā|Kiṣkindhā]] 18. 30-32) contains Manu VIII. 318 and 316 - [[Maou|Manu]] attained present form long before 2nd century A. D. - there are earlier and later strata in Manu - [[contra dictory|contradictory]] statements as to [[Brahmana|Brāhmaṇa]] marrying a [[sūdra|śūdra]] woman, about appropriate forms of marriage, about niyoga, about flesh eating - [[Būhler's|Bühler's]] conclusion is that cosmological and [[philosophi cal|philosophical]] portions in 1st and 12th books, rules about mixed castes and duties of castes in 10th book are later additions - all additions made before 3rd century A. D. - Manusmṛti has not suffered several recasts - quotations cited as [[Viddha|Vṛddha]] Manu and Bṛhan-Manu are later than [[Manusmrti|Manusmṛti]] - extant Manu older than Yājñavalkya - Manu mentions Yavanas, [[Kambojas|Kāmbojas]], [[Sakas,|Śakas,]] Pahlavas and [[Cinas|Cīnas]] - extant Manusmṛti composed between 2nd century B. C. and 2nd century A. D. - relation of Mahābhārata and Manu - conflict of views between Mandlik, Hopkins and [[Būhler|Bühler]] - Hopkins holds that there was a mass of floating verses ascribed to mythical Manu on which both [[Manusmrti|Manusmṛti]] and [[Mahabharata|Mahābhārata]] drew - [[Būhler|Bühler]] says that the floating mass of verses was not all attributed to Manu - Manu mentions stories and names that occur in the Mahābhārata but these names go into Vedic antiquities - Manu never names the Mahābhārata, while the latter often refers to 'rājadharmas or śāstra of Manu' or to 'what Manu said' - Jayaswal's remarks on Manu XII. 100 are worthless for settling the date of the [[Manu smrti|Manusmṛti]] - both Hopkins and [[Būhler|Bühler]] hold that the Anuśāsanaparva and [[Sāntiparva|Śāntiparva]] knew a [[Manusmrti|Manusmṛti]], but earlier books, [[when ever|whenever]] they speak of Manu, refer to floating mass of popular verses - this conclusion not correct - final conclusion, viz., long before 4th [[Pxvii]] century B. C. there was a dharmaśāstra [[inverse|in verse]] attributed to [[Svā yambhuva|Svāyambhuva]] Manu, there was another work on [[rājadharna|rājadharma]] [[attribu ted|attributed]] to Prācetasa Manu, that probably there was one work, then between 200 B. C. and 200 A. D. [[Manusmīti|Manusmṛti]] was recast - extant [[Mababhārata|Mahābhārata]] later than extant Manusmṛti - Vṛddha-Manu, if a [[sepa rate|separate]] work, must have been composed before the 7th century A.D. - influence of Manu spread to Cambodia and other countries beyond India - Manu had several commentators, [[Medbātithi,|Medhātithi,]] Govindarāja, Kullūka, [[Nārāyana,|Nārāyaṇa,]] Rāghavānanda, Nandana and Rāmacandra - Asahāya commented on Manu - Udayakara is another [[commenta tor|commentator]] and so is [[Dharanidhara|Dharaṇīdhara]] - Nārāyaṇa flourished between 1100-1300 A.D. - Rāghavānanda later than 1400 A.D. - Vṛddha Manu and Bṛhan-Manu - explanation as to how these originated.
 
-H, D.- B 
+Sec. 32 The Two Epics ... pp. 349-408
 
+The two great Epics contain numerous passages bearing on topics of [[Dharmasastra|Dharmaśāstra]] - Mbh. itself claims as being composed by Vyāsa as a great Dharmaśāstra, as [[Arthasāstra|Arthaśāstra]] etc. - Mbh. consists of one hundred thousand verses - a great deal has been written about the Two Epics - a work for popular education long before the 7th cent. A. D. - [[Ånuvamsa|Ānuvaṁśa]] [[Slokas|Ślokas]] in Mbh. - From the references in [[Papipi|Pāṇini]] and Patañjali it is certain that the story of Mbh. is [[diffe rent|different]] from the story of Rāmāyaṇa - there was considerable scope for adding stories and didactic matter and hence the Mbh. became very much inflated by additions at different times - literature known to Mbh. - criticism against four passages relied upon by Hopkins as referring to Rāmāyaṇa - the core of the Mbh. existed before 500 B. C. - references to Mbh. in some early inscriptions - [[Nilakantha's|Nīlakaṇṭha's]] commentary on Mbh. - date of the Mahābhārata war - both the Epics inspired many later writers to compose Sanskrit dramas on the characters and stories contained in them - the Mahābhārata, predominantly a [[Vaiṣžavite|Vaiṣṇavite]] work.
 
+Several recensions of the Rāmāyaṇa - the three well-known being Southern, Bengali and North-Western - relation to the [[Dasarathajātaka|Daśarathajātaka]] - references to the legends in the [[Mabābhārata|Mahābhārata]] occur in the extant Rāmāyaṇa - Rāmāyaṇa mainly being a Kāvya is less quoted than the Mahābhārata, but is relied upon as a source of dharma - the [[Rāmāyana|Rāmāyaṇa]] exists in Bali in the Kavi language - [[• Kaccit-praśna'|'Kaccit-praśna']] chapters in the two epics - the Rāmāyaṇa is not [[Pxviii]] earlier than 300-200 B. C. - verses in the [[Sundarakanda|Sundarakāṇḍa]] of great significance on the date of [[Rāmāyana|Rāmāyaṇa]] - Srinivasa Sastri's 'Thirty Lectures on the [[Rāmāyana'|Rāmāyaṇa']] - commentaries on the Rāmāyaṇa - Mr. Tadpatrikar's theory about the [[Mūlarāmayaṇa.|Mūlarāmāyaṇa.]]
 
-forms such as Kautali, Kautilya and Kauṭili - form, style and con tents of the Kauṭiliya - a few verses interspersed in the work, generally at the end - in all 375 verses excluding mantras - some verses are certainly quotations - work abounds in numerous techni cal and rare words - deviations from Pāṇini – summary of contents - section on judicial administration interesting - greatest correspon dence between Kautiliya and Yājñavalkya - some striking examples - it is Yajñavalkya that borrows - reasons - Yājñavalkya represents a far too advanced stage o juristic priniciples than Kautilya - close agreement between Manusmrti and Kautilya also - but they differ on niyoga, as to nomenclature of vyavahārapadas, about heirship of mother and paternal grandmother, on remarriage of widows, divorce, gambling - Kautiliya long anterior to the extant Manu smṛti - Kautilya's five references to Mānavas explained - references to Svayambhuva and Prācetasa Manu contained in the Maha bhārata suggest that there were two works in verse on dharma and politics attributed to these or perhaps one work containing both, subsequently recast as the extant Manusmṛti - only two views ascribed to Mānavas in Kauṭiliya not found in extant Manusmṛti - in the dharmasthiya section the only other authors or schools cited are Bārhaspatyas and Auśanasas - none of the dharmasūtras of Gautama and others are anywhere quoted by name - views cited on the question as to whom a child belongs (to the begetter or to him on whose wife it is begotten ) can be traced to Baudhāyana, Gautama and Vasistha - views of Acāryas cited in the Kautiliya - Kauṭiliya later than Gautama and Apastamba but earlier than extant Manusmṛti - date of Kauṭiliya - it is certainly not later than 2nd century A. D. and not earlier than 325 B.C. - schools named by Kautilya and also individual authors - views of Acāryas are quoted over fifty times and Kautilya differs in each case - meaning of 'ācāryas' - literature known to Kautilya - Sanskrit official lang. uage and the work mentions gunas of composition - Kautiliya agrees with Kamasutra in several respects - Dr. Jolly and Prof. Keith opine that both works composed about same time-points of difference between the two works - countries and peoples men tioned by Kautilya - silks from Cina and blankets from Nepal - home of Kautilya, southern acc. to Dr. Jolly who concludes so. on two quite worthless grounds - Buddhist and Jain traditions associate Cānakya with Gāndhūra - was resident of the extreme North-west of India - three principal groups of writers on the question of the 
+[[Sec,|Sec.]] 33 The Purāṇas : ... pp. 408-421
 
-Synopsis of Contents 
+Yājñavalkya includes Purāṇa among the fourteen sources of Vidyās and of Dharma - Chāndogya Up. speaks of [[Itihasa-Purā na|Itihāsa-Purāṇa]] as the fifth Veda - originally there was a single work called Purāṇa - eighteen Purāṇas - number of upapurāṇas varies - chronology of Purāṇas, a perplexing problem - main characteristics of the [[teach ings|teachings]] of the extant Purāṇas - Bhakti an important aspect dealt with by some [[Puranas|Purāṇas]] - Mit. on Yāj. quotes several Purāṇas such as [[Brahmānda,|Brahmāṇḍa,]] Matsya, Bhaviṣyat, Skanda etc. - difference of opinion among the Purāṇas about the names and extent of the several Purāṇas - Matsyapurāṇa gives the extent of 18 Purāṇas as four lakhs of verses - [[Padmapurana|Padmapurāṇa]] divides the 18 Purāṇas into three groups viz. sāttvika, rājasa and [[tūmasa|tāmasa]] - a table showing which [[darmaśāstra|dharmaśāstra]] topics are dealt with in which [[purā ṇa.|purāṇa.]]
 
-xi 
+Sec. 34 The [[Yajñavalkyasmrti|Yājñavalkyasmṛti]] : ... pp. 421-459
 
-age of Kautilya - corporations of Licchavis, Vfjikas and others mentioned - meaning of rājasabdopajivinah' (in XI. 1 ) - best breeds of horses - Mlecchas sold or pledged children - references to Buddhists and Ajivakas - weights to be made from stones of Magadha and Mekala - most of the stories cited as illustrations by Kauṭiliya occur in the Mahabharata, but some divergence exists in the case of Janamejaya, Māndavya - Kautilya's knowledge of drugs and of rasa (mercury) - references to shrines of Śiva, Skanda &c.- traditional date of 300 B. C. more likely to be correct than 3rd centnry A. D. approved of by Dr. Jolly and Winternitz - two commentaries on Kauṭiliya, Nayacandrikā of Madhavayajvan and Pratipadapancikā of Bhattasvamin - sūtras attributed to Cānakya - several niti collections in verse ascribed to Canakya are later than Kautiliya. 
+[[Yajñavalkya,|Yājñavalkya,]] a name most illustrious among Vedic sages - stories about strained relations between [[Vaisampāyana|Vaiśampāyana]] and [[Yājña valkya|Yājñavalkya]] - Yājñavalkya and Janaka in the [[Satapathabrāhmaṇa|Śatapathabrāhmaṇa]] - [[Yājña valkya,|Yājñavalkya,]] a great philosopher in the Bṛhadāraṇyaka - Yājñavalkya [[smrti|smṛti]] claims that the [[Aranyaka|Āraṇyaka]] and Yogaśāstra were composed by the author of the [[smrti|smṛti]] - slight variation in the number of verses contained in [[Yājñavalkyasmsti|Yājñavalkyasmṛti]] according to Viśvarūpa, [[Mitakṣarā|Mitākṣarā]] and Aparārka - arrangement of verses different in Viśvarūpa and Mitākṣarā, particularly in the [[prāyaścittakanda|prāyaścittakāṇḍa]] - readings of the two commentators also differ - Agnipurāṇa affords excellent check for consideration of text of Yājñavalkya - readings of Agnipurāṇa [[com pared|compared]] with those of Viśvarūpa and the Mitākṣarā - conclusion is that the Agnipurāṇa represents a text midway between Viśvarūpa and that of the Mitākṣarā - so Agnipurāṇa represents a text of Yājñavalkya current about 900 A. D. - total number of verses on vyavahāra in the Agnipurāṇa is 315, out of which the first 31 are not taken from Yājñavalkya - almost all of these 31 taken from Nārada - Garuḍapurāṇa (chap. 93) expressly says that the dharma [[Pxix]] promulgated by [[Yajñavalkya|Yājñavalkya]] was imparted therein - Garuḍa (chap. 93-106) contains dharmaśāstra material taken from [[acāra|ācāra]] and prāyaścitta sections of Yājñavalkya - Garuḍa (93-102) deals with [[acara|ācāra]] and (102-106) with prāyaścitta - Garuḍapurāṇa omits [[rāja dharma|rājadharma]] section of Yājñavalkya - only a few verses of Yāj. are repeated word for word, while a summary only is given of several verses - comparison of the text of the Garuḍapurāṇa with [[Viśvard pa's|Viśvarūpa's]] text and that of the [[Mitākṣari|Mitākṣarā]] - Garuḍapurāṇa represents text intermediate between Viśvarūpa and [[Mitāksarā|Mitākṣarā]] - are there different strata in Yājñavalkya? text mainly the same from 700 A. D. and little evidence to show that the text of [[Yājsavalkya|Yājñavalkya]] as we have it contains several strata - comparison of [[Yajñavalkyasmrti|Yājñavalkyasmṛti]] with Manusmṛti - close agreement in phraseology between the two - Yājñavalkya usually tries to compress Manu's dicta - [[Yaj|Yāj]]. adds [[Vinayakaśānti|Vināyakaśānti]] and Grahaśānti and ordeals, while Manu omits first two and cursorily refers to two ordeals - Yāj. silent on origin of world which we have in Manu - style of [[Yajñavalkya|Yājñavalkya]] - contents of [[smsti|smṛti]] - literature known to [[Yajñavalkyasmrti|Yājñavalkyasmṛti]] - enumerates 19 authors on dharma - Yoga-[[Yajñavalkya|Yājñavalkya]] - contents of its twelve chapters - some recommendations of Yoga-[[Yajñavalkya|Yājñavalkya]] - it is a small work on Yoga and has little to do with Dharmaśāstra - close agreement between Viṣṇu Dh. S. and [[Yajñavalkya|Yājñavalkya]] and between [[Kautilya|Kauṭilya]] and Yāj. - Manu and Yāj. differ on several points and Yāj. represents a more advanced state of thought than Manu - Manu allows [[brāh maṇa|brāhmaṇa]] to marry śūdra girl, Yāj. does not - Manu condemns niyoga, [[Yaj|Yāj]]. does not - same case with gambling - Yāj. takes Vināyakaśānti from [[Mānavagļhva|Mānavagṛhya]] - Yājñavalkyasmṛti in intimate relation to white Yajurveda and literature appurtenant to it - Yājñavalkya closely agrees with [[Paraskaragrhya|Pāraskaragṛhya]] - Dr. Jolly's theory that [[Yajñavalkya's|Yājñavalkya's]] work goes back to a dharmasūtra of White Yajurveda is without foundation - date of [[Yājsavalkyasmrti|Yājñavalkyasmṛti]] - Viśvarūpa separated from the [[smsti|smṛti]] by several centuries - probable date of Yājñavalkya [[bet ween|between]] 100 B. C. and 300 A. D. - [[Lankāvatārasūtra|Laṅkāvatārasūtra]] (gāthās 814–816) refers to [[Yajñavalkyasmṛti|Yājñavalkyasmṛti]] - Dr. Jolly thinks that Yāj. shows [[acqu aintance|acquaintance]] with Greek astrology - Dr. Jacobi's theory that naming of week-days after planets first introduced by Greeks and borrowed by Indians - these theories untenable - Yāj. does not mention week days, but only the nine planets (in I. 296) - Yāj. does not mention the zodiacal signs - he arranges the nakṣatras from [[Kșttika|Kṛttikā]] to Bharaṇī (I. 268) as the [[Taittiriyabrāhmaṇa|Taittirīyabrāhmaṇa]] does - 'susthe indau' [[Pxx]] in Yāj. explained by Viśvarūpa without reference to zodiacal signs - from Vedic times nakṣatras divided into auspicious and [[inauspi cious|inauspicious]] - Yājñavalkya's reference to nānakas - Yāj. regards sight of yellow-robed people as an evil omen - Dr. Jolly's date of 400 A. D. for [[Yajñavalkya|Yājñavalkya]] is far too late - there is a [[Vrddha|Vṛddha]]-Yāj., a [[Yoga-Yāi.|Yoga-Yāj.]] and a [[Brhad-Yaį.|Bṛhad-Yāj.]] - Vṛddha-Yāj. is quoted by [[Madhava|Mādhava]] and Aparārka - [[Brhad-Yaj.|Bṛhad-Yāj.]] is quoted by Jitendra and Mit. and as such must be earlier [[then|than]] 1000 A. D. - editions of Bṛhadyogi-Yāj. - [[Bșhadyogi-Yaj.|Bṛhadyogi-Yāj.]] is a large work in 12 chapters and has about 930 verses - topics dealt with in [[Bṛhadyogi-Yaj.|Bṛhadyogi-Yāj.]] - it quotes dozens of verses from Manusmṛti, [[Bhagavadgitā|Bhagavadgītā]] and several [[Upanisadic|Upaniṣadic]] passages without acknowledgement - editions of Yoga-Yāj. - criticism of Mr. Divanji's arguments - several commentaries on Yājñavalkya, viz. of Viśvarūpa, [[Vijñānesvera,|Vijñāneśvara,]] Aparārka, [[Sulapāṇi|Śūlapāṇi]] and [[Mitramisra.|Mitramiśra.]]
 
-Sec. 15 Vaikhūnasadharmasūtra : 
+Sec. 35 Parāśarasmṛti : .. pp. 459-466
 
-.. pp. 257-260 
+Yāj. mentions Parāśara, but the extant [[Parasarasmṛti|Parāśarasmṛti]] is [[pro bably|probably]] a recast of an older smṛti - Garuḍapurāṇa (chap. 107) gives a summary of 39 verses of Parāśarasmṛti - from [[Kautilya|Kauṭilya]] it appears there was a work of Parāśara on politics in which vyavahāra was also dealt with - extant [[Parāsara|Parāśara]] in 12 chapters and 592 verses deals with [[acara|ācāra]] and [[prayascitta|prāyaścitta]] alone - Parāśara, an ancient name - [[Parāsara|Parāśara]] mentions 19 smṛti writers - contents of the [[smrti|smṛti]] - Parāśara has peculiar views - authors cited by [[Parasara|Parāśara]] - views of Manu frequently cited - several identical verses in Manu and [[Parāsara|Parāśara]] - age of Parāśarasmṛti between 100-500 A. D. - a [[Br̥hat|Bṛhat]] [[Parāśara samhitā|Parāśara saṁhitā]] in 12 chapters and 3000 verses - contents [[there of|thereof]] - it is a late work - [[Viddha|Vṛddha]] Parāśara quoted by Aparārka - Jyotiḥ-Parāśara quoted by Hemādri, [[Bhattoji|Bhaṭṭoji]] and Smṛti-candrikā.
 
-Vaikhānasa is one of the six sūtra caraṇas of the black Yajur veda mentioned by Mahādeva in his Vaijayanti on Satyasādba srautasūtra - Vaikhānasa occurs in Gautama, Baudbāyana, Vasistba (9.10 ) and Manu (6.21 ) - Vaikhānasadharmapraśna divided into three praśnas - contents of the work - its age later than Gautama and Baudhayana - names more mixed castes than even some of the verse smṛtis - devotion to Nārāyana looms very large in the work Vai. Gr. S. - Dr. Caland's view that Manusmrti borrows from Vai khānasagļhya not correct - parallelisms between Manusmṛti and Vai. Dh. $. put forward by Dr. Caland too flimsy Vai. Gr. and Vai. Dh. later than Yāj. - may be assigned to 300 to 400. A D. 
+Sec. 36 The [[Naradasmrti|Nāradasmṛti]] : .. pp. 467–483
 
-Sec. 16 Atri: 
+Two versions of Nārada on vyavahāra, a smaller and a larger one - com. of Asahāya as revised by [[Kalyāṇabhatta|Kalyāṇabhaṭṭa]] is contained in Dr. Jolly's edition - [[Narada|Nārada]] not mentioned by [[Yaj.|Yāj.]] or [[Parāsara|Parāśara]] in the list of expounders of dharma - mentioned [[hy|by]] Manu (I. 35) as one of the ten [[Prajapatis|Prajāpatis]] - sage Nārada frequently figures in the Mahābhārata - three introductory chapters on judicial procedure and on sabhā, then 18 [[vyavahārupadas,|vyavahārapadas,]] then an appendix on theft [[Pxxi]] from Nepal ms. - some difference in the names of titles between Nārada and Manu - printed Nārada contains 1028 verses - about 700 verses of Nārada quoted in digests - Viśvarūpa's and [[Medhā tithi's|Medhātithi's]] quotations from Nārada agree with printed Nārada - [[Agni purāṇa|Agnipurāṇa]] chap. 253 contains thirty verses of Nāradasmṛti defining the eighteen titles from [[smādana|ṛṇādāna]] to [[prakirnaka|prakīrṇaka]] in the same order - Nārada's verses on [[acāra,|ācāra,]] [[sraddha|śrāddha]] and [[prayascitta|prāyaścitta]] quoted in [[Smrti candrikā,|Smṛticandrikā,]] Hemādri - probably this is a different Nārada - form, style and metre of Nārada - [[literatureknown|literature known]] to Nārada - 50 verses are identical in Manu and Nārada - many more verses of [[Narada|Nārada]] closely correspond to Manu's - Nārada based upon Manu, almost the same as the extant one - some verses of [[Mahābharata|Mahābhārata]] are same as Nārada's - some verses of [[Kautilya|Kauṭilya]] and Nārada agree - points in which Manu and Nārada differ - many subdivisions of topics in Nārada - some topics peculiar to Nārada, viz. 14 kinds of [[impo tent|impotent]] persons, three [[punarbhīs|punarbhūs]] and four [[svairinis|svairiṇīs]] - Nārada [[some what|somewhat]] later than Yāj. - Nārada propounds several juristic and [[poli tical|political]] principles, fixes the period of minority at 16 - Nārada earlier than 8th century at the latest - [[Bāna's|Bāṇa's]] reference to [[Nāradiya|Nāradīya]] explained - Nārada wrote a work on politics also - one half verse common to [[Vikramorvasiya|Vikramorvaśīya]] and Nārada - '[[dināra'|dīnāra']] occurs in Nārada - Dr. Jolly says Nārada is later than 300 A. D. - Jolly's assumption wrong - [[dināras|dīnāras]] may have been introduced into India about beginning of Christian era - Nārada flourished between 100-300 A.D. - [[Nāradiya|Nāradīya]] Manusaṁhitā - [[disserences|differences]] between the longer and shorter versions of Nārada pub. by Jolly - Bhavasvāmin, [[bhāṣya kāra|bhāṣyakāra]] of Nārada, was a [[brāhmana|brāhmaṇa]] from Kerala - [[bis|his]] date not free from doubt - may be placed conjecturally between 700-1000 A. D. - [[bome|home]] of Nārada cannot be ascertained - Dr. Jolly's theory that he came from Nepal is pure guess-work - Jyotir-Nārada, [[Bșhan Nārada,|Bṛhan-Nārada,]] [[Laghu-Narada|Laghu-Nārada]] - Mahābhārata quotes Nārada's view on flesh-eating, on utpātas.
 
-.. pp. 261-264 
+Sec. 37 Bṛhaspati : .. pp. 484–495
 
-Atri named in Manu ( III. 16 ) - Atreyadharmaśāstra in nine adhyāyas - summary of contents - form of Atridharmaśāstra - several works styled Atrisniști - summary of Atrisaṁhitā printed by Jivananda - Atri quoted as an authority on adoption - Laghu Atri and Vrddhātreyasmīti - Mahabharata (Anusāsana 65.1) quotes a verse of Atri - Aparārka quotes about a hundred verses of Atri on various topics - Atreya-smrti edited by Aiyangar, 
+The complete [[smsti|smṛti]] of [[Bphaspati|Bṛhaspati]] on vyavahāra not yet [[dis covered|discovered]] - [[Bșhaspati|Bṛhaspati]] closely follows Manu, pointedly refers to Manu's text and explains and defines the laconic terms of Manu - [[Brhaspati|Bṛhaspati]] treats of nine ordeals - order in which topics of [[vyava hāra|vyavahāra]] were dealt with in [[Bșhaspati|Bṛhaspati]] - Bṛhaspati first to clearly dist[[Pxxii]]inguish between civil and criminal justice - elaborate rules of procedure - close agreement between Nārada and Bṛhaspati on many points - [[Brhaspati|Bṛhaspati]] agrees closely with Manu, but differs from him as to partibility of clothes and as to maximum interest on corn, fruit, wood and beasts of burden - age of [[Bṭhaspati|Bṛhaspati]] - later than Manu and Yāj. - Bṛhaspati uses the words nāṇaka and [[dināra|dīnāra]] - probably of the same age as Nārada - Kātyāyana who is regarded as an ancient sage by Viśvarūpa about 825 A. D. frequently refers to the views of Bṛhaspati - Dr. Jolly wrong in assigning Bṛhaspati to 6th or 7th century - [[Bșhaspati|Bṛhaspati]] flourished between 200-400 A.D. - home of Bṛhaspati cannot be determined - verses of Bṛhaspati on ācāra, śrāddha, [[āsauca|āśauca]] and saṁskāra in [[Mitāk sarā,|Mitākṣarā,]] [[Smsti candrika|Smṛticandrikā]] and other works - a Vṛddha Bṛhaspati and a Jyotir [[Bșhaspati|Bṛhaspati]] - Bṛhaspati's [[smrti|smṛti]] reconstructed by Prof. K. V. [[Rang swami|Rangaswami]] Aiyangar and published in Gaekwad's Oriental Series - arranged in seven parts - a laborious performance, but still some verses and prose passages remain unnoticed - Prof. Renou's [[criti cism|criticism]] against Prof. Aiyangar.
 
-tij 
+Sec. 38 [[Kötyāyana|Kātyāyana]] : ... pp. 496-507
 
+Work of [[Katyāyana|Kātyāyana]] on vyavahāra not yet recovered - collection of [[Katyāyana|Kātyāyana]]'s 973 verses with English translation by Dr. P. V. Kane and collection of 121 verses by Prof. Aiyangar - Nārada and [[Bșhas pati|Bṛhaspati]] are models of [[Kātyayana|Kātyāyana]] - on several points he presupposes Nārada - Nārada very brief on [[stridhana,|strīdhana,]] while Kātyāyana's [[treat ment|treatment]] is classical - Kātyāyana first to give definitions of some kinds of [[stridhana|strīdhana]] - Kātyāyana often refers to Bṛhaspati's views - About 900 verses of [[Katyāyana|Kātyāyana]] on vyavahāra quoted in digests - he refers to [[Bhrgu|Bhṛgu]] 20 times - only a few of these are found in Manu - many of the views attributed in Kātyāyana to Manu are not found in extant [[Manusmrti|Manusmṛti]] - some of the views ascribed to Mānavas by [[Katyāyana|Kātyāyana]] differed from the views of the extant Manusmṛti - some verses are ascribed to [[Katyāyana|Kātyāyana]] and Manu, [[Yajñavalkya|Yājñavalkya]] and [[Bșhaspati|Bṛhaspati]] in the digests - [[Katyayana|Kātyāyana]] is in advance of [[Narada|Nārada]] and [[Brhaspati|Bṛhaspati]] in the matter of definitions and as to rules on [[stridhana|strīdhana]] - Kātyāyana probably first to distinguish between jayapatra and paścātkāra - date of [[Katyāyana|Kātyāyana]] - later than Yājñavalkya, Nārada and Bṛhaspati - flourished between 400-600 A. D. - Medhātithi (on Manu 7.1) quotes a [[Katyāyana|Kātyāyana]] sūtra in prose - [[Briat|Bṛhat]] [[Katyāyana|Kātyāyana]] and Vṛddha [[Pxxiii]] [[Katyāyana|Kātyāyana]] - Hemādri speaks of [[Upa-Katyayana|Upa-Kātyāyana]] - the [[Karmapradipa|Karmapradīpa]] of Kātyāyana or Gobhilasmṛti in 500 verses - contents thereof - authors named by [[Karmapradipa|Karmapradīpa]] - some verses of it identical with Manu, [[Yajñavalkya|Yājñavalkya]] and Mahābhārata - [[Karmapradipa|Karmapradīpa]] profusely quoted in Aparārka and [[Smsticandrik,|Smṛticandrikā,]] and to a lesser degree by [[Mitāksarā|Mitākṣarā]] - some quotations ascribed to Kātyāyana on topics other than vyavahāra are not found in the [[Karmapradipa|Karmapradīpa]] - Kātyāyana composed some large work of which [[Karmapradipa|Karmapradīpa]] is part or abridgment - no sufficient data to identify jurist Kātyāyana and the author of the [[Karmapradipa|Karmapradīpa]] - many verses ascribed to Bṛhaspati in some Dharmaśāstra works and to [[Katyāyana|Kātyāyana]] by others.
 
+Sec. 39 [[Angiras|Aṅgiras]] : ... pp. 507–509
 
-Sec. 17 Uśanas : 
+Quoted frequently on all topics except vyavahāra by writers from Viśvarūpa - [[Smsticandrika|Smṛticandrikā]] quotes some prose passages from [[Angiras|Aṅgiras]] - several compilations on prāyaścitta attributed to [[Angiras|Aṅgiras]] - Bṛhad-[[Angiras|Aṅgiras]] and [[Madhyamāngiras|Madhyamāṅgiras]] - [[Angiras|Aṅgiras]]-[[Smrti|Smṛti]] in [[Anand.|Ānand.]] Collection of Smṛtis has 168 verses - [[Angirasasmṛti|Aṅgirasasmṛti]] published [[by by|by]] Mr. A. N. Krishna Aiyangar contains over 1200 verses.
 
-.. pp. 264-272 Uśanas, ancient sage in the Rgveda - wrote on politics, as Kau tiliya shows - Mahabharata (Śanti 56. 29-30 ) refers to work of Uśanas on politics - Nitiprakāśika on Sukra as arranger of rājaśāstra 
+Sec. 40 [[Rsyaśmga|Ṛṣyaśṛṅga]] : ... p. 510
 
-• An Auśanasa dharmaśāstra in verse - contents - peculiar views of Uśanas about offspring of inter-caste marriages-several verses com mon to Uśanas and Manu - names the views of numerous writers on dharma - Haradatta and Smsticandrikā knew a work of Uśanas dealing with all branches of dharma - Uśanas smṛti in verse - verses of Uśanas on vyavahāra - acc. to Uśanas the son of a brāhmaṇa from a ksatriya wife is a brāhmaṇa and that of a ksatriya from a vaiśya wife is a ksatriya - quoted by Aparārka, Mahābhāṣya - Suka 
+Frequently quoted by [[Mitāksarā,|Mitākṣarā,]] Aparārka and [[Smsticandrikā|Smṛticandrikā]] on [[acāra,|ācāra,]] āśauca and [[srāddha|śrāddha]] - one verse on partition - a prose quotation in [[Smrticandrikā|Smṛticandrikā]] - quoted by Aparārka on prāyaścitta and vyavahāra - the verse of [[Yaj.|Yāj.]] II. 32 ascribed to [[Rsyasriga|Ṛṣyaśṛṅga]] also - quoted by Kalpataru on a wife's duties.
 
-ranitisāra edited by Oppert. 
+Sec. 41 [[Karṣıājini|Kārṣṇājini]] : ... p. 510
 
-Sec. 18 Kanva and Kāṇva : 
+Sec. 42 [[Caturvimśatimata|Caturviṁśatimata]] : ... pp. 510-513
 
-.. pp. 273-274 Ap. Dh. S. (1. 6. 19) shows that Kanva and Kāṇva were two distinct authors - verses of Kanva quoted in Smrticandrika - Mit. quotes a verse of Kāṇva - Maskarin frequently quotes passages from Kanva. 
+Embodies in 525 verses the opinions of 24 sages - contents - quoted by Mitākṣarā and Aparārka, but not by Viśvarūpa and Medhātithi - suggests alternative penances even for very heinous sins - quoted many times by [[Smsticandrikā|Smṛticandrikā]] on Āhnika and [[sraddha|śrāddha]] (probably compiled about 8th or 9th century A. D.) - [[Bhattoji|Bhaṭṭoji]] commented upon it.
 
-Sec. 19 Kaśyapa and Kaśyapa : 
+[[Pxxiv]]
+Sec. 43 [[Daksa|Dakṣa]] : ... pp. 513-514
 
-.. pp. 274–276 Baudhāyana (Dh. S. I, 11.20) cites a verse in which Kāśyapa's view is contained - there was a dharmasūtra of Kāśyapa-a Kāśyapa smṛti in prose contained in Deccan College Mss. -contents thereof - Maskarin quotes a verse of Kāśvapa - the Vanaparva ( 29.35-40) quotes five gāthās of Kasyapa - Aparārka mentions Kaśyapa 13 times and Kaśyapa six times - Smsticandrikā includes Kasyapa among 18 upasmstis. 
+Mentioned by [[Yaj.|Yāj.]] - Viśvarūpa quotes [[bim|him]] several times - Aparārka quotes a prose passage - contents of printed [[Dakṣasmsti|Dakṣasmṛti]] in 220 verses.
 
-Sec. 20 Gārgya : 
+Sec. 44 [[Pitamaha|Pitāmaha]] : ... pp. 514-516
 
-.. pp. 276-277 A sūtra work of Gārgya on dharma existed - Gargya and Vrddha Gārgya - a Gargisaṁhitā on astronomy and astrology. Jyotir Gārgya and Bṛhad Gārgya - Garga, an astronomer mention ed in Apuśāsana and Salya probably different from the Dharma. śāstra writer Garga - Vṛddha-Gārgya.Synopsis of Contents 
+Quotations from [[Pitamaha|Pitāmaha]] occur mostly on vyavahāra, [[patri cularly|particularly]] ordeals - he treats of nine ordeals - 50 chalas enumerated by Pitāmaha in which king took action without a complaint - views peculiar to Pitāmaha, viz. 18 lowest castes, eight constituents of hall of justice, &c. - mentions Bṛhaspati - flourished between 400–700 A. D.
 
-xiii 
+Sec. 45 Pulastya : ... pp. 516-517
 
-Sec. 21 Cyavana : 
+An expounder of dharma named in a verse of Vṛddha [[Yajña valkya|Yājñavalkya]] - [[Visarupa,|Viśvarūpa,]] [[Mitaksarā,|Mitākṣarā,]] [[Apararka|Aparārka]] cite many verses on āhnika and śrāddha - Dānaratnākara cites a prose passage of Pulastya - composed between 4th and 7th century A. D.
 
-.. pp. 277-278 
+Sec. 46 [[Paithinasi|Paiṭhīnasi]] ... pp. 517-519
 
-Cyavana famous in Rgveda - stories of Cyavana in the Mbh. seems to have written a sūtra work on dharma - quoted by the Mit., Aparārka. 
+Mentioned among 36 [[Smstis|Smṛtis]] quoted by [[Aprārka|Aparārka]] - deals with all three branches of Dharmaśāstra - ācāra, vyavahāra and [[praya scitta|prāyaścitta]] - prose quotations from him outnumber quotations in verse - Mit., Aparārka and Kalpataru quote several passages from [[Paishinasi.|Paiṭhīnasi.]]
 
-Sec. 22 Jātukarnya : 
+Sec. 47 [[Pracetas|Prācetas]] : ... pp. 519-520
 
-.. pp. 278-279 A verse of Vrddha Yājñavalkya names Jātūkarnya as a dhar maśāstrakāra - quotations in verse in Mitākṣarā and later works. 
+A dharmaśāstra writer mentioned by Parāśara, though not by [[Yaj.|Yāj.]] - prose and verse quotations cited by [[Mitāksarā|Mitākṣarā]] and [[Apa rārka|Aparārka]] - a few prose quotations in Haradatta on Gautama and [[Smrti candrikā|Smṛticandrikā]] - [[Vìddha|Vṛddha]] [[Pracetas|Prācetas]] and Bṛhat [[Pracetas.|Prācetas.]]
 
-.. pp. 279-284 
+Sec. 48 Prajāpati : ... pp. 520-521
 
-Sec. 23 Devala: 
+Prajāpati cited as authority by [[Baudhayana|Baudhāyana]] Dh.S. (II. 4. 15) and [[Vasistha|Vasiṣṭha]] (III. 47 &c.) - they mean probably Manu - a [[com pilation|compilation]] in 198 verses ascribed to [[Praj.ipati|Prajāpati]] - Mit. and Aparārka and others quote [[Prajapati|Prajāpati]] on āśauca, prāyaścitta, śrāddha, ordeals and vyavahāra.
 
-Devala frequently occurs in the Mbh. - referred to by Saṅkarā cārya as relying on Sāṅkhya tenets-A dharmasātra of Devala existed once - Mitākṣarā, Kalpataru, Smṛticandrikā and other works also contain quotations in verse on ācāra, vyavahāra, śrāddha- this latter a later compilation - Devalasmrti in 90 verses on purifications is also a late work - jurist Devala flourished about the same time as Brhaspati and Katyāyana. 
+[[Pxxv]]
+Sec. 49 [[Marici|Marīci]] : ... pp. 521-522
 
-Sec. 24 Paithinasi : 
+Quoted on āhnika, āśauca, śrāddha and vyavahāra by [[Mitāk sarā,|Mitākṣarā,]] Aparārka and [[Smsticandrika|Smṛticandrikā]] - recommends writing as essential for sale, mortgage, gift and partition of immovables.
 
-.. pp. 284-286 An ancient sūtrakāra, as Viśvarūpa quotes his sūtras - Dr. Jolly thinks he belongs to Atharvaveda - Paithinasi on sati, inheritance, on absence of untouchability under certain circumstances. (Also vide Sec. 46). 
+Sec. 50 Yama : ... pp. 522-528
 
-Sec. 25 Budha : 
+Yama quoted in Vas. Dh. S. (18. 13-15 and 19.48) - various printed compilations in verse ascribed to Yama - Bṛhad Yama in 5 chapters and 182 verses - Viśvarūpa and others quote over three hundred verses of Yama on all topics including vyavahāra - some of these found in printed text - a few prose passages of Yama quoted by Aparārka - Anuśāsanaparva 104.72-74 quotes gāthās of Yama - some views of Yama on vyavahāra set out - Bṛhad Yama, Laghu Yama - Yama is profusely quoted in various [[kāndas|kāṇḍas]] of Kalpataru.
 
-. . pp. 286-287 A sūtrakāra cited by Hemādri, Aparārka, Kalpataru and Ji mūtavāhana - a brief compilation and not very early in age. 
+Sec. 51 [[Laugākși|Laugākṣi]] : ... pp. 528–529
 
-Sec. 26 Brhaspati : 
+[[Mitāksarā|Mitākṣarā]] quotes verses on āśauca and prāyaścitta, while Aparārka quotes prose and verse passages on [[acāra,|ācāra,]] [[asauca,|āśauca,]] order of forest-hermits - Laugākṣi's definition of [[yogaksema|yogakṣema]] quoted by Mit. - quoted by Maskarin on [[Gant.|Gaut.]] Dh. S. as [[Lokāksi.|Lokākṣi.]]
 
-.. pp. 287–290 An ancient teacher of arthasāstra mentioned in Kautiliya Mahābharata (Śānti 59. 80-85) credits him with compression of vast work of Brahmā on trirarga and mentions several of his views - Kāmasūtra speaks of Brhaspati as writer on artha - peculiar views of Bṛhaspati according to Kautiliya - Bṛhaspati also wrote a prose work on vyavahāra and peżyascitta - probably the authors of the two are different - 700 verses on vyavahāra ascribed to Bphaspati are quoted in the Mitakṣarī - this is an independent 
+Sec. 52 Viśvāmitra : ... [[. 529|p. 529]]
 
-xiv 
+Named by Vṛddha [[Yajñavalkya|Yājñavalkya]] - verses quoted on all topics except vyavahāra.
 
-History of Dhurmasastra 
+Sec. 53 [[Vyasa|Vyāsa]] : - pp. 529–535
 
-work composed between 300-500 A. D. - smaller compilations in verse ascribed to Bphaspati - Bārhaspatya Arthasāstra edited by Dr. Thomas is a late work. 
+Printed compilation ascribed to [[Vyasa|Vyāsa]] in 250 verses - contents - quoted by Viśvarūpa, Kalpataru, Maskarin - about two hundred verses of [[Vyasa|Vyāsa]] on vyavahāra cited in Aparārka, [[Smrticandrikā|Smṛticandrikā]] and other works - his doctrines closely agree with those of Nārada, [[Bșhaspati|Bṛhaspati]] and [[Katyāyana|Kātyāyana]] - some of his views on vyavahāra set out - flourished between 200-500 A. D. - Aparārka cites many verses from Vyāsa on [[samskaras,|saṁskāras,]] śrāddha &c. - probably [[Vyasa|Vyāsa]] the jurist is identical with the latter - Gadya-Vyāsa, [[Vļddha-Vyasa|Vṛddha-Vyāsa]] and [[Bșhad-Vyāsa,|Bṛhad-Vyāsa,]] [[Maha|Mahā]]-[[Vyasa|Vyāsa]] and Laghu-Vyāsa.
 
-00 
+[[Pxxvi]]
+Sec. 54 [[Ṣat-trimsan-mata|Ṣaṭ-triṁśan-mata]] : pp. 535-537
 
-Sec. 27 Bharadvaja and Bharadvāja : 
+This was a compilation like [[Caturvimśati-mata|Caturviṁśati-mata]] - quotations from it cited in Kalpataru, [[Mitāksarā,|Mitākṣarā,]] [[Smsticandrika|Smṛticandrikā]] and [[Aparār ka|Aparārka]] - Viśvarūpa and Medhātithi do not mention it - date between 790-909 A. D. - no verse quoted from this on vyavahāra.
 
-.. pp. 290-294 A śrautasūtra and gshya of Bhāradvāja exists - Viśvarūpa's work establishes existence of a sutra work on dharma of Bharad vāja - there was a smṛti in veise also attributed to Bharadvāja - Kauṭiliya shows that Bharadvāja was an ancient author on poli tics - some views of Bharadvāja - Mahabharata on Bharadvāja - Bhāradvāja ( Bārhaspatya ), sage of the 6th Mandala of the Rg veda - mentioned by Pūnini as a predecessor - Mahābhāṣya men tions Bhāradvājiyas, a school of grammarians - Kautiliya probably lumps Bharadvāja, Vyāsa and Manu and refers to them collectively as 'ācāryāḥ'- verses on vyavahāra attributed to Bhāradvāja - this probably different from work on politics. 
+Sec. 55 [[Samgraha|Saṁgraha]] or [[Smstisaingraha|Smṛtisaṁgraha]] : ... pp. 537-541
 
-Sec. 28 Śātātupa: 
+Quoted by [[Mitākșarā,|Mitākṣarā,]] Aparārka and Smṛticandrikā on several topics of dharma - quotations on vyavahāra are many and [[importa nt|important]] for history of Hindu Law - views of [[Samgrahakāra|Saṁgrahakāra]] and [[Dhāres vara|Dhāreśvara]] coincide in many respects and were criticized by Mitākṣarā - date of Saṁgraha between 8th and 10th centuries.
 
-. . pp. 294–296 A sūtra work of Śātātapa on dharma dealing with prayaścitta, śrāddha and ācāra must have existed - verses of Śātātapa quoted in Mitakṣarī and other later works - this is probably different from smṛti work - several verse compilations ascribed to śātātapa - Viddha Satatapa and Bṛhat Śatātapa. 
+Sec. 56 Saṁvarta : ... pp. 541-543
 
-Sec. 29 Sumantu : 
+Mentioned as dharmaśāstrakāra by Yāj. - cited on all topics of dharma by Viśvarūpa, Medhātithi, [[Mitākṣara|Mitākṣarā]] - Aparārka quotes about 200 verses - some of his views on vyavahāra - contents of printed Saṁvarta in 230 verses - [[Bṭhat|Bṛhat]] [[Samvarta|Saṁvarta]] and Svalpa [[Samvarta|Saṁvarta]].
 
-.. pp. 296–299 A sūtra work on ācāra and prayascitta ascribed to Sumantu existed - Paithinasi includes Sumantu among 36 expounders of Dharmaśāstra - quoted by Viśvarūpa, Kalpataru, Aparārka-Yajña valkya and Parāśara do not enumerate Sumantu among expound ers of dharma - Sumantu mentioned in Mahābhārata and Bhāga vata - verses from Sumantu on dharma are cited by Aparārka - this is a different work - numerous verses on vyavahāra quoted from Sumantu in Sarasvativilāsa - reconstruction of Sumantu by Prof. T. R. Chintamani. 
+Sec. 57 [[Harita|Hārīta]] : ... pp. 543-545
 
-Sec. 30 The Smrtis : 
+Verses from [[Harita|Hārīta]] on vyavahāra deserve special treatment - some of his views set out, e. g. definition of [[vyavabāra,|vyavahāra,]] four aspects of vyavahāra, importance of writing, defects of plaint and reply, protection of long possession, when title by itself is decisive against long possession, five kinds of sureties, treatment of erring wives - [[bis|his]] date between 400-700 A. D.
 
-pp. 299-306 Two senses of the word smsti, viz. all orthodox ancient non Vedic works ( such as Panini's granımar, Srauta sūtras, Mahābhā 
+Sec. 58 Commentaries and Nibandhas : ... pp. 545-546
 
-Synopsis of Contents 
+Dharmaśāstra literature falls into three periods, the first from [[600_B.|600 B.]] C. to 100 A. D. being the period of the dharmasūtras and of the Manusmṛti, the 2nd from 100 A. D. to 800 A. D. of [[Yājña. valkya|Yājñavalkya]] and other [[smrtis|smṛtis]] and third from 700 to 1800 of [[commen, tators|commentators]] and authors of digests - first part of this last period contains commentaries - digests written from 11th century - no hard and fast line between commentaries and digests - these to be treated of in chronological order as far as possible.
 
-XV 
+[[Pxxvii]]
+Sec. 59 Asahāya : ... pp. 546-551
 
-rata, Manu, &c.) and ( a narrower sense ) dharmaśāstra - smsti, a source of dharma according to Gautama and others - references to smrtis in early inscriptions - spistis mirrored the beliefs and practi ces of people and also influenced writers and ordinary people; number of smstis went on increasing - Yājñavalkya enumerates twenty writers of smrtis, Parāśara 19 - Tantravārtika speaks of 18 dharmasamhitas - Caturvimsatimata gives views of 24 writers - a smṛti called Sat-trirśanmata - Paithinasi enumerates 36 and so does Aparārka - Vrddha Gautama enumerates 57 - Viramitrodaya enumerates 18 smstis, 18 upasmṛtis and 21 more - total number of smṛtis about 100 - these are products of widely separated ages - some entirely in prose, some entirely in verse, some are mixed - chronology of smstis presents perplexing problems - two or three smrtis go under the same name, e. g. Harita, Atri, Śatātapa - sectarian zealots fabricate certain smrtis - the prefixes laghu, brhat and viddha applied to smstis - well-known verses are ascribed to different authors, as authors quote from memory. 
+Portion of his [[bhasya|bhāṣya]] on Nārada (up to verse 21 of [[abhyu petyāśusrūṣā|abhyupetyāśuśrūṣā]]) published by Dr. Jolly - [[Kalyanabhatta|Kalyāṇabhaṭṭa]] revised it - exact relationship of [[Kalyānabhatta's|Kalyāṇabhaṭṭa's]] revision to original not clear, but he took great liberties - [[Kalyāṇabhatta|Kalyāṇabhaṭṭa]] was encouraged by [[Kesavabhatta|Keśavabhaṭṭa]] - Viśvarūpa on Yāj. (III. 263–264) mentions [[Asa hāya|Asahāya]] by name and quotes latter's explanation of Gautama 22. 13 - Asahāya's com. on [[Saokha-Likhita|Śaṅkha-Likhita]] mentioned by [[Anandagiri|Ānandagiri]] - Hāralatā of Aniruddha speaks of [[bhāsya|bhāṣya]] of Asahāya on Gautama - from a passage of [[Sarasvativilāsa|Sarasvatīvilāsa]] it appears that Asahāya [[com mented|commented]] on Manu also - Medhātithi on Manu 8. 156 quotes [[Asahaya|Asahāya]] - [[Mitaksarā|Mitākṣarā]] mentions the views of Asahāya - date of Asahāya between 600-750 A. D. - a few views of Asahāya set out, viz. definition of dāya, succession to [[Sulka|Śulka]] of a woman, succession to a childless brāhmaṇa.
 
-Sec. 31 The Manusmrti : 
+Sec. 60 [[Bhartyyajna|Bhartṛyajña]] : ... pp. 551-553
 
-.. pp. 306-349 Numerous editions - Manu as the father of mankind in the Rgveda and other Vedas - Manu and the deluge in Satapatha-brah maṇa - Manu in the Nirukta - Manu quoted as law-giver in Gau tama, Ápastamba and Mahābhārata - introduction to Nārada smȚti and Manu - how the Manusmsti is narrated – four versions of Svayambhuva sastra according to Bhaviṣyapurāṇa - almost impossible to say who composed extant Manusmṛti – Būhler's theory that our Manu is a recast of Mānavadharmasūtra shown above to be unsustainable - the Manavagļhya differs from Manu smrti in several particulars - Vināyakaśānti of Mānavagļhya and tests for selecting a bride not contained in our Manu - Mahā. bhārata distinguishes between Svāyambhuva Manu and Pracetasa Manu, former promulgating dharmaśāstra – these two wroks combined in the present Manu - extant Manu has 12 chapters and 2694 verses – its style - contents of Manusmsti - extent of literature known to Manusmști – the author of the Manusmrti is not the first legislator - recognised as an ancient writer on Dharma sāstra in the Dharniasutras - number and names of Manus in Purāṇas - confusion caused by ancient texts referring to Svayam bhuva Manu, Prācetasa Manu and Manu - views of Svāyambhuva 
+An ancient [[Bhāsyakāra|Bhāṣyakāra]] mentioned by [[Medbātithi|Medhātithi]] (on Manu 8. 3) - his views cited by [[Trikāndamandana|Trikāṇḍamaṇḍana]] - he wrote [[bhāsya|bhāṣya]] on Kātyāyana [[srautasūtra|śrautasūtra]] and [[Paraskara|Pāraskara]] [[gļhyasūtra|gṛhyasūtra]] - probably he commented on Gautamadharmasūtra - [[bis|his]] explanation of Manu V. 143, Gaut. [[V,|V.]] 41, XIV. 35-40, Vas. VIII. 1 quoted by Kalpataru - probably commented on [[Paraskaragrhya|Pāraskaragṛhya]] - flourished about 800 A. D.
 
-xvi 
+Sec. 61 Viśvarūpa : ... pp. 553-565
 
+His commentary called [[Balakrida|Bālakrīḍā]] on Yāj. published at [[Trivan drum|Trivandrum]] - [[Mitāksarā|Mitākṣarā]] refers to it in introductory verses and on [[Yaj.|Yāj.]] (I. 80 and III. 24) - printed com. of Viśvarūpa on vyavahāra [[por tion|portion]] of [[Yaj.|Yāj.]] is very meagre - literature referred to or quoted by Viśvarūpa - most of the quotations from [[Svayambhuva|Svāyambhuva]] found in extant Manu, but not so those ascribed to [[Bhșgu|Bhṛgu]] - quotes prose passages of [[Bșhaspati|Bṛhaspati]] on vyavahāra - quotes a verse of [[Visālāksa|Viśālākṣa]] on politics and refers to arthaśāstras of Bṛhaspati and Uśanas - [[Kautilya|Kauṭilya]] not named, yet Viśvarūpa seems to have had his work before him - Viśvarūpa's work saturated with doctrines of [[Purva mimāṁsā|Pūrvamīmāṁsā]] - quotes [[Sabara|Śabara]] and [[Slokavārtika|Ślokavārtika]] - quotes his own kārikās on [[Yaj.|Yāj.]] I. 7 and other places - his philosophical views identical with [[Sanikarācārya's|Śaṁkarācārya's]] - Dr. Jolly's view that citations of Viśvarūpa [[Pxxviii]] in the Smṛticandrikā on certain points not traced in the printed [[Balakridā|Bālakrīḍā]] examined and shown to be incorrect - some citations of Viśvarūpa's views in Gṛhastharatnākara and Hemādri not found in printed text of Viśvarūpa - points in which Viśvarūpa and [[Mitaksarā|Mitākṣarā]] differ set out - Viśvarūpa must have flourished between 750 and 1000 A. D. - If Viśvarūpa identical with Sureśvara, pupil of [[Sarkara,|Śaṅkara,]] then he flourished between 800-850 - reasons for identity set out - [[Mandana|Maṇḍana]] and Sureśvara not identical - [[Bhava bhūti|Bhavabhūti]] and Umbeka identical, but not same as [[Suresvara|Sureśvara]] - Viśvarūpa was probably an inhabitant of Malwa or stayed there for some years - a digest called Viśvarūpanibandha by another Viśvarūpa - a Viśvarūpasamuccaya mentioned by Raghunandana.
 
+Sec. 62 [[Bharuci|Bhāruci]] : .. pp. 565-571
 
-are mentioned in Mapu VI. 54, VIII. 124, IX .158 - Manu Praja pati is mentioned in X. 78, XII. 123 - in l. 35 among ten Praja patis primeval Manu is mentioned - criticism of some one-sided and biased remarks of Hopkins about Manu - involved account in Manusmrti about the creation of the world by Paraniātman - the fact that the Manusmṛti mentions human authors like Atri, Bhrgu etc. and refers to dasyus who speak mleccha and Arya languae ges etc. indicates that the extant Manusmrti is not older than 200 B. C.- age of Manusmrit - external evidence - Medhātithi's is the first extant commentary - Viśvarūpa quotcs 200 verses - Śhaṅkara. Kumārila and Sabara refer to Manu - Bșhaspati had the present text of Manu before him - Asvaghosa in his Vajrasuci quotes several verses from Mānavadharma' some of which are found in our Manu - Rāmāyana ( Kiṣkidhā 18. 30-32 ) contains Manu VIII. 318 and 316 - Maou attained present form long before 2nd century A. D.-there are earlier and later strata in Manu -contra dictory statements as to Brahmana marrying a sūdra woman, about appropriate forms of marriage, about niyoga, about flesh eating - Būhler's conclusion is that cosmological and philosophi cal portions in 1st and 12th books, rules about mixed castes and duties of castes in 10th book are later additions - all additions made before 3rd century A. D.-Manusmṛti has not suffered several recasts - quotations cited as Viddha Manu and Bṛhan-Manu are later than Manusmrti - extant Manu older than Yājñavalkya - Manu mentions Yavanas, Kambojas, Sakas, Pahlavas and Cinas - extant Manusmṛti composed between 2nd century B. C. and 2nd century A. D. - relation of Mahābhārata and Manu - conflict of views between Mandlik, Hopkins and Būhler - Hopkins holds that there was a mass of floating verses ascribed to mythical Manu on which both Manusmrti and Mahabharata drew – Būhler says that the floating mass of verses was not all attributed to Manu - Manu mentions stories and names that occur in the Mahābhārata but these names go into Vedic antiquities - Manu never names the Mahābhārata, while the latter often refers to'rājadharmas or śāstra of Manu' or to what Manu said ' - Jayaswal's remarks on Manu XII. 100 are worthless for settling the date of the Manu smrti – both Hopkins and Būhler hold that the Anuśāsanaparva and Sāntiparva knew a Manusmrti, but earlier books, when ever they speak of Manu, refer to floating mass of popular verses - this conclusion not correct - final conclusion, viz., long before 4th 
+His views quoted by Mitākṣarā on Yāj. I. 81 and II. 124 - a [[Bharuci|Bhāruci]] mentioned as an ancient teacher of [[Visiștādvaita|Viśiṣṭādvaita]] system by Rāmānujācārya in his [[Vedārthasamgraha|Vedārthasaṁgraha]] - Bhāruci the [[philo sopher|philosopher]] is probably identical with Bhāruci the jurist - from notices in the [[Sarasvativilāsa|Sarasvatīvilāsa]] [[Bharuci|Bhāruci]] seems to have commented on the [[Viṣṇudharmasutra|Viṣṇudharmasūtra]] - Bhāruci and Mitākṣarā disagreed on numerous points - Trivandrum Ms. of [[Bharuci|Bhāruci]]'s commentary on Manu - According to Dr. Derrett [[Bharuci|Bhāruci]] is nearer A. D. 700 - his [[sugges tion|suggestion]] that Bhāruci is [[Rju|Ṛju]] [[not be|not]] acceptable.
 
-Synopsis of Contents 
+Sec. 63 [[Srikara|Śrīkara]] ... pp. 571-573
 
-xvii 
+Views of [[Srikara|Śrīkara]] set out - first writer to propound the view that spiritual benefit was the criterion for judging of superior rights to succession - probably a Maithila - difficult to say whether he wrote a commentary or an independent digest - flourished between 800-1050 A. D.
 
-century B. C. there was a dharmaśāstra inverse attributed to Svā yambhuva Manu, there was another work on rājadharna attribu ted to Prācetasa Manu, that probably there was one work, then between 200 B. C, and 200 A. D. Manusmīti was recast - extant Mababhārata later than extant Manusmṛti-Vṛddha-Manu, if a sepa rate work, must have been composed before the 7th century A.D. influence of Manu spread to Cambodia and other countries beyond India - Manu had several commentators, Medbātithi, Govindarāja, Kullūka, Nārāyana, Rāghavānanda, Nandana and Rāmacandra - Asahāya commented on Manu - Udayakara is another commenta tor and so is Dharanidhara - Nārāyaṇa flourished between 1100 1300 A.D.-Rāghavānanda later than 1400 A.D.-Vṛddha Manu and Bṛhan-Manu - explanation as to how these originated. 
+Sec. 64 Medhātithi : ... 573-583
 
-Sec. 32 The Two Epics 
+Wrote an extensive commentary on Manu - in Dr. Ganganath Jha's ed. ten verses in the 3rd adhyāya are wanting - printed [[bhāsya|bhāṣya]] corrupt in 8th, 9th and 12th chapters - reference to king Madana having restored Medhātithi's [[bhāsya|bhāṣya]] explained - Dr. Jolly says Medhātithi was a southerner - this is wrong - He was a northerner and probably a Kashmirian - literature known to Medhātithi - smṛtis quoted by him - mentions Asahāya, [[Bhartsyajña,|Bhartṛyajña,]] Yajvan, [[Pxxix]] [[Upadhyāya|Upādhyāya]], [[Rju|Ṛju]], Viṣṇusvāmin - Medhātithi saturated with [[Purva mimāṁsā|Pūrvamīmāṁsā]] - his [[bhāsya|bhāṣya]] is full of the terms vidhi and arthavāda - he mentions several nyāyas for explaining Manusmṛti - his reference to [[Sāriraka|Śārīraka]] explained - Medhātithi and [[Saṅkarācārya|Śaṅkarācārya]] - Medhātithi names only a few Dharmaśāstra writers and does not quote any [[Smstikāra|Smṛtikāra]] with the prefix 'bṛhat' or '[[vrddha|vṛddha]]' - peculiar views of Medhātithi set out - wrote Smṛtiviveka from which he quotes verses in his [[Manubhāsya|Manubhāṣya]] - date of Medhātithi - flourished between 825-900 A. D.
 
-... pp. 349-408 
+[PART II]
 
-The two great Epics contain numerous passages bearing on topics of Dharmasastra - Mbh. itself claims as being composed by Vyāsa as a great Dharmaśāstra, as Arthasāstra etc. - Mbh. consists of one hundred thousand verses – a great deal has been written about the Two Epics - a work for popular education long before the 7th cent. A. D. - Ånuvamsa Slokas in Mbh. - From the references in Papipi and Patañjali it is certain that the story of Mbh. is diffe rent from the story of Rāmāyaṇa - there was considerable scope for adding stories and didactic matter and hence the Mbh. became very much inflated by additions at different times - literature known to Mbh. - criticism against four passages relied upon by Hopkins as referring to Rāmāyaṇa – the core of the Mbh. existed before 500 B. C.-references to Mbh. in some early inscriptions - Nilakantha's commentary on Mbh. -- date of the Mahābhārata war – both the Epics inspired many later writers to compose Sanskrit dramas on the characters and stories contained in them - the Mahābhārata, predominantly a Vaiṣžavite work. 
+Sec. 65 Dhāreśvara [[Bhojadera|Bhojadeva]] ... pp. 585-591
 
-Several recensions of the Rāmāyaṇa -- the three well-known being Southern, Bengali and North-Western - relation to the Dasarathajātaka – references to the legends in the Mabābhārata occur in the extant Rāmāyaṇa - Rāmāyaṇa mainly being a Kāvya is less quoted than the Mahābhārata, but is relied upon as a source of dharma - the Rāmāyana exists in Bali in the Kavi language 
+[[Mitākșarā|Mitākṣarā]] (on Yāj. [[11.|II.]] 135 and III. 24) mentions views of Dhāreśvara - [[Dharesvara|Dhāreśvara]] is to be identified with king Bhojadeva of Dhārā - works on [[pumerous|numerous]] branches of knowledge attributed to Bhoja of Dhārā such as on Poetics, [[Rājamṭgāöka|Rājamṛgāṅka]] (on [[astrono my|astronomy]]), a com. on Yogasūtras - [[Suddhikaumndi|Śuddhikaumudī]] of [[Govindananda|Govindānanda]] mentions Rājamārtaṇḍa of Bhoja on [[sraddha|śrāddha]] - Mitākṣarā and Dhāreśvara disagree on several points, e. g. on the question whether ownership was known from [[sāstra|śāstra]] alone, on the meaning of [[.duhitarah'in|'duhitaraḥ' in]] [[Yaj|Yāj]]. - on other points the two agree - [[Bhūpāla paddhati|Bhūpālapaddhati]] or simply Bhūpāla or rāja refers to a work of Bhojadeva - [[Bhujabalabhima|Bhujabalabhīma]] of Bhojarāja quoted in Tithitattva and [[Ahnika tattva|Āhnikatattva]] of Raghunandana as distinct from the Rājamārtaṇḍa - two works of Bhoja on Sanskrit poetics - inscriptional references to Bhoja - pedigree given in the Ujjain plate - Bhoja reigned from 1005-1054 A.D. - [[Dharmapradipa|Dharmapradīpa]] of Bhoja is the work of another Bhoja, who was son of [[Bharamalla|Bhāramalla]] and king of [[Aśāpura|Āśāpura]] - it was written between 1400-1600 A. D.
 
-• Kaccit-praśna' chapters in the two epics - the Rāmāyaṇa is not 
+Sec. 66 Devasvāmin : ... pp. 591-593
 
-H. D.-G. 
+Said by Smṛticandrikā to have composed a digest of smṛtis - [[Nārāyana,|Nārāyaṇa,]] commentator of [[Aśvalayanagshya,|Āśvalāyanagṛhya,]] relies on [[bhāsya|bhāṣya]] of Devasvāmin - he composed a digest on ācāra, vyavahāra and [[asauca|āśauca]] - [[Smsticandrika|Smṛticandrikā]] quotes his views on the meaning of Yautaka, on the meaning of duhitaraḥ in [[Yaj.,|Yāj.,]] on Manu 9. 141 - A Devasvāmin commented on [[Pārvamimāṁsāsūtras|Pūrvamīmāṁsāsūtras]] and on the [[Pxxx]] [[Saṁkarsakānda|Saṁkarṣakāṇḍa]] - difficult to say whether he is identical with the writer on dharmaśāstra - Devasvāmin flourished about 1000-1050 A. D.
 
-xviii 
+Sec. 67 Jitendriya : ... pp. 593-595
 
+He is frequently quoted by [[Jimūtavahana|Jīmūtavāhana]] in his three works - Jitendriya held that the wives of a person whether separated or joint succeeded to their deceased husband - no early writer other than [[Jimõtavahana|Jīmūtavāhana]] cites him - flourished between 1000-1050 A.D.
 
+Sec. 68 [[Balaka|Bālaka]] : ... pp. 595-596
 
-earlier than 300-200 B. C. - verses in the Sundarakanda of great significance on the date of Rāmāyana - Srinivasa Sastri's - Thirty Lectures on the Rāmāyana'-commentaries on the Rāmāyaṇa - Mr. Tadpatrikar's theory about the Mūlarāmayaṇa. 
+Mentioned by [[Jimūtavāhana|Jīmūtavāhana]], [[Sūlapāṇi,|Śūlapāṇi,]] [[Raghupandana|Raghunandana]] - [[seve ral|several]] views of Bālaka set out - flourished before 1100 A. D.
 
-Sec, 33 The Purāṇas : 
+Sec. 69 [[Balarūpa|Bālarūpa]] : ... pp. 596–598
 
-... pp. 408-421 Yājñavalkya includes Purāṇa among the fourteen sources of Vidyās and of Dharma - Chāndogya Up, speaks of Itihasa-Purā na as the fifth Veda - originally there was a single work called Purāṇa eighteen Purāṇas - number of upapurāṇas varies - chronology of Purāṇas, a perplexing problem - main characteristics of the teach ings of the extant Purāṇas - Bhakti an important aspect dealt with by some Puranas - Mit. on Yāj. quotes several Purāṇas such as Brahmānda, Matsya, Bhaviṣyat, Skanda etc. - difference of opinion among the Purāṇas about the names and extent of the several Purāṇas - Matsyapurāṇa gives the extent of 18 Purāṇas as four lakhs of verses – Padmapurana divides the 18 Purāṇas into three groups viz. sāttvika, rājasa and tūmasa - a table showing which darmaśāstra topics are dealt with in which purā ṇa. 
+The opinions of Bālarūpa are cited in the [[Smstisāra|Smṛtisāra]] and Vivādacandra - also in the [[Vivādacintamani|Vivādacintāmaṇi]] - he wrote at least on [[vyavahara|vyavahāra]] and Kāla - Bālaka and [[Balarūpa|Bālarūpa]] are probably identical - [[Būlarūpa|Bālarūpa]] is certainly earlier than 1250 A. D. - Vivādacandra once speaks of 'author of Bālarūpa', suggesting thereby that [[Balarūpa|Bālarūpa]] was a work.
 
-Sec. 34 The Yajñavalkyasmrti : 
+Sec. 70 Yogloka : ... pp. 598-599
 
-... pp. 421-459 Yajñavalkya, a name most illustrious among Vedic sages - stories about strained relations between Vaisampāyana and Yājña valkya - Yājñavalkya and Janaka in the Satapathabrāhmaṇa - Yājña valkya, a great philosopher in the Bṛhadāraṇyaka - Yājñavalkya smrti claims that the Aranyaka and Yogaśāstra were composed by the author of the smrti - slight variation in the number of verses contained in Yājñavalkyasmsti according to Viśvarūpa, Mitakṣarā and Aparārka - arrangement of verses different in Viśvarūpa and Mitākṣarā, particularly in the prāyaścittakanda - readings of the two commentators also differ - Agnipurāṇa affords excellent check for consideration of text of Yājñavalkya - readings of Agnipurāṇa com pared with those of Viśvarūpa and the Mitākṣarā – conclusion is that the Agnipurāṇa represents a text midway between Viśvarūpa and that of the Mitākṣarā - so Agnipurāṇa represents a text of Yājñavalkya current about 900 A. D. - total number of verses on vyavahāra in the Agnipurāṇa is 315, out of which the first 31 are not taken from Yājñavalkya - almost all of these 31 taken from Nārada - Garuḍapurāṇa (chap. 93) expressly says that the dharma 
+Known only from works of [[Jimūtavāhana|Jīmūtavāhana]] and [[Raghunan dana|Raghunandana]] - [[Jimūtavahana|Jīmūtavāhana]] only rarely agrees with him and generally criticizes him and taunts him with being a logician merely - Bṛhad Yogloka and Svalpa Yogloka - Yogloka wrote at least on [[vyava hāra|vyavahāra]] and [[Kala|Kāla]] - flourished between 950-1050.
 
-Synopsis of Contents 
+Sec. 71 Vijñāneśvara : ... pp. 599-616
 
-xix 
+The unique position of the [[Mitakṣarā|Mitākṣarā]] on account of being esteemed as of paramount authority by British Indian courts - the several names of the [[Mitaksarā|Mitākṣarā]] - quotes a host of [[smsti|smṛti]] writers and six predecessors as authors of commentaries and digests - noticeable features of Mit. - chary of quoting from Purāṇas - [[men tions|mentions]] the views of many [[Smsti|Smṛti]] writers with the prefix '[[brhat|bṛhat]]' or [[• vpddha'|'vṛddha']] e. g. Bṛhan-Manu, Vṛddha-Manu, Bṛhad-[[Vasistha|Vasiṣṭha]], [[Vṭddha-Viṣṇu|Vṛddha-Viṣṇu]] etc., particularly on [[asauca|āśauca]] and prāyaścitta - personal [[Pxxxi]] history of Vijñāneśvara - profound student of [[pūrvamimāṁsā|pūrvamīmāṁsā]] - date of [[Vijñānesvara|Vijñāneśvara]] - between 1100-1120 - Dr. Derrett's facile [[as sumption|assumption]] about Vijñāneśvara being a judge, based on the Mit. on [[Yaj.|Yāj.]] II. 4 not acceptable - criticism against Prof. R. Aiyangar who makes an hasty and biased remark about Mit. as referring in its concluding verses to Kalpataru of [[Laksmīdhara|Lakṣmīdhara]] - out of many commentators of the Mitākṣarā three famous - peculiar doctrines of the Mitākṣarā - seems to have been author of [[Aśaucadaśaka|Āśaucadaśaka]] also - several commentaries on Āśaucadaśaka by Harihara, Raghunātha and [[Bhattoji|Bhaṭṭoji]] - Vijñāneśvara not the author of [[Trimsat-śloki|Triṁśat-ślokī]] - Nārāyaṇa, a pupil of Vijñāneśvara, wrote [[Vyavahāra-siromani.|Vyavahāra-śiromaṇi.]]
 
-promulgated by Yajñavalkya was imparted therein - Garuḍa (chap. 93-106 ) contains dharmaśāstra material taken from acāra and prāyaścitta sections of Yājñavalkya - Garuḍa ( 93-102 ) deals with acara and ( 102-106 ) with prāyaścitta - Garuḍapurāṇa omits rāja dharma section of Yājñavalkya -- only a few verses of Yāj. are repeated word for word, while a summary only is given of several verses - comparison of the text of the Garuḍapurāṇa with Viśvard pa's text and that of the Mitākṣari - Garuḍapurāṇa represents text intermediate between Viśvarūpa and Mitāksarā - are there different strata in Yājñavalkya ? text mainly the same from 700 A. D. and little evidence to show that the text of Yājsavalkya as we have it contains several strata - comparison of Yajñavalkyasmrti with Manusmṛti – close agreement in phraseology between the two - Yājñavalkya usually tries to compress Manu's dicta - Yaj. adds Vinayakaśānti and Grahaśānti and ordeals, while Manu omits first two and cursorily refers to two ordeals - Yāj. silent on origin of world which we have in Manu - style of Yajñavalkya - contents of smsti - literature known to Yajñavalkyasmrti - enumerates 19 authors on dharma - Yoga-Yajñavalkya - contents of its twelve chapters some recommendations of Yoga-Yajñavalkya – it is a small work on Yoga and has little to do with Dharmaśāstra - close agreement between Viṣṇu Dh. S. and Yajñavalkya and between Kautilya and Yāj. - Manu and Yāj. differ on several points and Yāj. represents a more advanced state of thought than Manu - Manu allows brāh maṇa to marry śūdra girl, Yāj. does not - Manu condemns niyoga, Yaj. does not-same case with gambling - Yāj. takes Vināyakaśānti from Mānavagļhva - Yājñavalkyasmṛti in intimate relation to white Yajurveda and literature appurtenant to it - Yājñavalkya closely agrees with Paraskaragrhya - Dr. Jolly's theory that Yajñavalkya's work goes back to a dharmasūtra of White Yajurveda is without foundation - date of Yājsavalkyasmrti – Viśvarūpa separated from the smsti by several centuries – probable date of Yājñavalkya bet ween 100 B. C. and 300 A. D. - Lankāvatārasūtra (gāthās 814–816) refers to Yajñavalkyasmṛti - Dr. Jolly thinks that Yāj. shows acqu aintance with Greek astrology - Dr. Jacobi's theory that naming of week-days after planets first introduced by Greeks and borrowed by Indians - these theories untenable - Yāj. does not mention week days, but only the nine planets (in I. 296) - Yāj. does not mention the zodiacal signs - he arranges the nakṣatras from Kșttika to Bharaṇī (I. 268 ) as the Taittiriyabrāhmaṇa does - susthe indau' 
+Sec. 72 [[Kamadhenu|Kāmadhenu]] : ... pp. 616-622
 
-TE 
+An ancient digest not yet discovered - quoted by Kalpataru, Hāralatā, and other works - Gopāla, the author of [[Kamadhenu|Kāmadhenu]] - Aufrecht's view that [[Sambhu|Śambhu]] is the author of [[Kamdhenu|Kāmadhenu]] wrong - [[Sambhu|Śambhu]] is a nibandhakāra on dharma cited by [[Spisticandrik,|Smṛticandrikā,]] and Hemādri - Mr. Jayasval wrongly ascribes [[Kāmdhenu|Kāmadhenu]] to Bhoja - probable date of [[Kamadhenu|Kāmadhenu]] between 1000-1100 A. D.
 
-XX 
+Sec. 73 [[Halayudha|Halāyudha]] : ... pp. 622-639
 
+Several Halāyudhas - the first, the author of Kavirahasya and [[Mstasañjivani,|Mṛtasañjīvanī,]] flourished in the latter half of the 10th century - interesting features of Kavirahasya - another Halāyudha, the author of [[Brāhmana-sarvasva|Brāhmaṇa-sarvasva]] and four other works - personal history of this Halāyudha - patronized by [[Laksmanasena,|Lakṣmaṇasena,]] king of Bengal - his literary activity to be assigned to the period of [[1160 1200|1160–1200]] A. D. - La. [[Sam.|Saṁ.]] - voluminous literature on it - this [[Halā yudha|Halāyudha]] is different from one who was a jurist - composed a work on law - meaning and exposition of the words 'Vyavahāra' and [[* Vivāda’|'Vivāda']] - yet another Halāyudha who composed a com. called Prakāśa on Kātyāyana's [[Sraddhakalpasūtra|Śrāddhakalpasūtra]] - he must have [[flouri shed|flourished]] before 1509 A. D. and later than 1150 A. D. - [[Halayudha,|Halāyudha,]] the author of [[Karmopadesini|Karmopadeśinī]] - earlier than 15th century.
 
+Sec. 74 [[Bhavadevabhatta|Bhavadevabhaṭṭa]] : ... pp. 639-652
 
-in Yāj. explained by Viśvarūpa without reference to zodiacal signs from Vedic times nakṣatras divided into auspicious and inauspi cious - Yājñavalkya's reference to nānakas - Yāj. regards sight of yellow-robed people as an evil omen - Dr. Jolly's date of 400 A. D. for Yajñavalkya is far too late - there is a Vrddha-Yāj., a Yoga-Yāi. and a Brhad-Yaį.-Vṛddha-Yāj. is quoted by Madhava and Aparārka - Brhad-Yaj. is quoted by Jitendra and Mit. and as such must be earlier then 1000 A. D. - editions of Bṛhadyogi-Yāj. – Bșhadyogi-Yaj. is a large work in 12 chapters and has about 930 verses - topics dealt with in Bṛhadyogi-Yaj. - it quotes dozens of verses from Manusmṛti, Bhagavadgitā and several Upanisadic passages without acknowledgement - editions of Yoga-Yāj. - criticism of Mr. Divanji's arguments – several commentaries on Yājñavalkya, viz. of Viśvarūpa, Vijñānesvera, Aparārka, Sulapāṇi and Mitramisra. 
+Author of Vyavahāratilaka - and of Sambandhaviveka - also of [[Karmānuṣthānapaddhati|Karmānuṣṭhānapaddhati]] or [[Desakarmapaddhati|Daśakarmapaddhati]] - contents of [['atter|latter]] - another work is [[Prāyascittanirūpana|Prāyaścittanirūpaṇa]] - yet another work [[Pxxxii]] called Tautātitamatatilaka is concerned with elucidating [[Purvami māṁsā|Pūrvamīmāṁsā]] doctrines - [[Raghunandara|Raghunandana]] criticizes [[Bhavadevabhatta's|Bhavadevabhaṭṭa's]] views several times, but also accepts his views many times - light on personal history of Bhavadeva in inscription at Bhuvaneśvara - he was a great builder of temples and tanks - explanation of the epithet [['Bālavalabhi-bhujanga'|'Bālavalabhī-bhujaṅga']] applied to Bhavadeva - authors and works quoted in [[Prayascitta prakarana|Prāyaścitta-prakaraṇa]] - review of Bhavadeva's [[Śavasūtikasauca-prakarna|Śavasūtikāśauca-prakaraṇa]] ed. by Dr. R. C. Hazra - contents of [[savasūtikāvisuddhi-prakaraṇa|Śavasūtikāviśuddhi-prakaraṇa]] - flourished between 1050-1150 A.D. - Bhavadeva and [[Pradipa|Pradīpa]] - other authors on dharmaśāstra named [[Bhayadeva.|Bhavadeva.]]
 
-Sec. 35 Parāśarasmṛti : 
+Sec. 75 Prakāśa : ... pp. 652–655
 
-.. pp. 459-466 Yāj, mentions Parāśara, but the extant Parasarasmṛti is pro bably a recast of an older smṛti - Garuḍapurāṇa (chap. 107) gives a summary of 39 verses of Parāśarasmṛti - from Kautilya it appears there was a work of Parāśara on politics in which vyavahāra was also dealt with - extant Parāsara in 12 chapters and 592 verses deals with acara and prayascitta alone - Parāśara, an ancient name - Parāsara mentions 19 smṛti writers - contents of the smrti - Parāśara has peculiar views – authors cited by Parasara – views of Manu frequently cited -- several identical verses in Manu and Parāsara - age of Parāśarasmṛti between 100-500 A. D. - a Br̥hat Parāśara samhitā in 12 chapters and 3000 verses - contents there of - it is a late work -- Viddha Parāśara quoted by Aparārka - Jyotiḥ-Parāśara quoted by Hemādri, Bhattoji and Smṛti-candrikā. 
+An ancient work on vyavahāra, dāna, [[śrādhda|śrāddha]] &c. - whether an independent digest is doubtful - was probably a commentary on Yājñavalkyasmṛti composed between 1000-1100 A.D. - [[Mahārṇava prakāśa,|Mahārṇava-prakāśa,]] [[Smṛtimahārnava|Smṛtimahārṇava]] or Mahārṇava quoted by Hemādri are all [[Dames|names]] for the same work - probably [[Prakasa|Prakāśa]] and [[Smstimahār navaprakasa|Smṛtimahārṇavaprakāśa]] are identical.
 
-Sec. 36 The Naradasmrti: 
+Sec. 76 [[Parijata|Pārijāta]] : ... pp. 655-656
 
-.. pp. 467–483 Two versions of Nārada on vyavahāra, a smaller and a larger one-com, of Asahāya as revised by Kalyāṇabhatta is contained in Dr. Jolly's edition - Narada not mentioned by Yaj. or Parāsara in the list of expounders of dharma - mentioned hy Manu ( I. 35 ) as one of the ten Prajapatis - sage Nārada frequently figures in the Mahābhārata - three introductory chapters on judicial procedure and on sabhā, then 18 vyavahārupadas, then an appendix on theft 
+Several works on dharma end in Pārijāta - an ancient work called [[Parijata|Pārijāta]] quoted by Kalpataru - it dealt with at least [[vyavaha ra,|vyavahāra,]] [[dana|dāna]] - composed between 1000-1125 A. D.
 
-T 
+Sec. 77 Govindarāja : ... pp. 656-663
 
-he 
+Wrote com. on Manusmṛti and a work called [[Smstimañjari|Smṛtimañjarī]] - personal history of [[Govindaraja|Govindarāja]] - he is not to be identified with king Govindacandra of Benares - Kullūka frequently criticizes Govindarāja - contents of [[Smstimañjari|Smṛtimañjarī]] - date of Govindarāja [[bet ween|between]] 1000–1110 A. D.
 
-whole 
+Sec. 78 The Kalpataru of [[Lakṣmidhara|Lakṣmīdhara]] : ... pp. 663-699
 
-Synopsis of Contents 
+An extensive work which exercised great influence over early [[Mithila|Mithilā]] and Bengal writers - work divided into fourteen [[kāndas|kāṇḍas]] - their arrangement and contents - eleven [[kāndas|kāṇḍas]] edited by Prof. K. V. Rangaswami Aiyangar - [[presonal|personal]] history of [[Laksmidhara|Lakṣmīdhara]] - date of Kalpataru between 1125-1145 A. D. - passages in Kalpataru on [[Pxxxiii]] vyavahāra are more or less identical with those of Mit. - Prof. Aiyangar's arguments for holding Mit. as knowing or relying upon Kalpataru not correct - Kalpataru, Manusmṛti and [[Yājñavalkya smṛti|Yājñavalkyasmṛti]] - Kalpataru has extensive size and wide range, but in quality it is inferior to [[Mit,|Mit.]] and some other digests - passages of Devala in Aparārka and the [[Moksakānda|Mokṣakāṇḍa]] of the [[Kalpajaru|Kalpataru]] - composed in the realm of Govindacandra.
 
-XX! 
+Sec. 79 [[Jimitavāhana|Jīmūtavāhana]] : ... pp. 699-713
 
-*7. ū. 
+He is first of the three great Bengal writers on dharmaśāstra - only three works known, Kālaviveka, [[Vyavahāramātṛk,|Vyavahāramātṛkā]] and [[Dāya bhāga|Dāyabhāga]] - these three parts of a projected digest called Dharmaratna - object and contents of [[Kalaviveka|Kālaviveka]] - works quoted in [[Kalaviveka|Kālaviveka]] - profound study of [[Pūrvamimānisā|Pūrvamīmāṁsā]] displayed therein - contents of [[Vyavahāramātska|Vyavahāramātṛkā]] - works quoted in it - [[Dayabhāga|Dāyabhāga]] most famous of his works and of paramount authority in Bengal on Hindu Law - contents of Dāyabhāga - doctrines peculiar to [[Dayabhāga|Dāyabhāga]] - authors and works named in the [[Dayabhāga|Dāyabhāga]] - personal history of [[Jimūtavāhana|Jīmūtavāhana]] - his date - divergent views - literary activity lies between 1090-1130 A. D. - Did [[Jsmūtavāhana|Jīmūtavāhana]] know the Mitākṣarā? - commentaries on [[Dayabhāga|Dāyabhāga]].
 
-from Nepal ms. - some difference in the names of titles between Nārada and Manu - printed Nārada contains 1028 verses - about 700 verses of Nārada quoted in digests - Viśvarūpa's and Medhā tithi's quotations from Nārada agree with printed Nārada - Agni purāṇa chap. 253 contains thirty verses of Nāradasmṛti defining the eighteen titles from smādana to prakirnaka in the same order Nārada's verses on acāra, sraddha and prayascitta quoted in Smrti candrikā, Hemādri - probably this is a different Nārada - form, style and metre of Nārada - literatureknown to Nārada - 50 verses are identical in Manu and Nārada - many more verses of Narada closely correspond to Manu's - Nārada based upon Manu, almost the same as the extant one - some verses of Mahābharata are same as Nārada's - some verses of Kautilya and Nārada agree - points in which Manu and Nārada differ – many subdivisions of topics in Nārada -- some topics peculiar to Nārada, viz. 14 kinds of impo tent persons, three punarbhīs and four svairinis - Nārada some what later than Yāj. - Nārada propounds several juristic and poli tical principles, fixes the period of minority at 16 - Nārada earlier than 8th century at the latest - Bāna's reference to Nāradiya explained - Nārada wrote a work on politics also - one half verse common to Vikramorvasiya and Nārada - dināra' occurs in Nārada - Dr. Jolly says Nārada is later than 300 A. D.- Jolly's assumption wrong - dināras may have been introduced into India about beginning of Christian era - Nārada flourished between 100 300 A.D. - Nāradiya Manusaṁhitā - disserences between the longer and shorter versions of Nārada pub. by Jolly-Bhavasvāmin, bhāṣya kāra of Nārada, was a brāhmana from Kerala - bis date not free from doubt - may be placed conjecturally between 700-1000 A. D. bome of Nārada cannot be ascertained - Dr. Jolly's theory that he came from Nepal is pure guess-work - Jyotir-Nārada, Bșhan Nārada, Laghu-Narada - Mahābhārata quotes Nārada's view on flesh-eating, on utpātas, 
+Sec. 80 [[Apararka|Aparārka]] : ... pp. 713-723
 
-Sec. 37 Bṛhaspati : 
+Wrote a voluminous commentary on [[Yājñavalkyasmrti|Yājñavalkyasmṛti]] - [[His tory|History]] of [[Silāhāras|Śilāhāras]] - three branches of this family - two kings called Aparārka or Aparāditya belonged to the branch that ruled in North Konkan - authors and works quoted by [[Aparırka|Aparārka]] - [[studi ously|studiously]] avoids naming his predecessors who were writers of digests - peculiar views of [[Apararka|Aparārka]] - [[evidedce|evidence]] to show that Aparārka knew the [[Mitāksarā|Mitākṣarā]] - date of [[Aparārak|Aparārka]] - [[Smrticandrikā|Smṛticandrikā]] criticizes [[Aparar ka|Aparārka]] - Aparārka was a [[Silāhāra|Śilāhāra]] prince - inscriptions of [[Silāhāras|Śilāhāras]] - commentary written about 1125 [[A, D.|A. D.]]
 
-.. pp. 484–495 
+Sec. 81 [[Pradipa|Pradīpa]] : ... [[Pp.|pp.]] 724-725
 
-The complete smsti of Bphaspati on vyavahāra not yet dis covered - Bșhaspati closely follows Manu, pointedly refers to Manu's text and explains and defines the laconic terms of Manu - Brhaspati treats of nine ordeals - order in which topics of vyava hāra were dealt with in Bșhaspati - Bṛhaspati first to clearly dist 
+An independent work on vyavahāra, śrāddha, [[suddhi|śuddhi]] and other topics - between 1100-1150 [[A, 1).|A. D.]]
 
-Xxii 
+[[Pxxxiv]]
+Sec. 82 [[Smrtyarthasāra|Smṛtyarthasāra]] of [[Gridhara|Śrīdhara]] : ... pp. 725-727
 
+Contents of - personal history of [[Gridhara|Śrīdhara]] - authors and works relied on as authorities - [[Sridhara|Śrīdhara]] probably composed another larger work - date between 1150–1200 A. D.
 
+Sec. 83 Aniruddha : ... [[Pp.|pp.]] 727-730
 
-inguish between civil and criminal justice - elaborate rules of procedure - close agreement between Nārada and Bṛhaspati on many points - Brhaspati agrees closely with Manu, but differs from him as to partibility of clothes and as to maximum interest on corn, fruit, wood and beasts of burden - age of Bṭhaspati - later than Manu and Yāj. - Bṛhaspati uses the words nāṇaka and dināra - probably of the same age as Nārada - Kātyāyana who is regarded as an ancient sage by Viśvarūpa about 825 A. D. frequently refers to the views of Bṛhaspati - Dr. Jolly wrong in assigning Bṛhaspati to 6th or 7th century - Bșhaspati flourished between 200-400 A.D. home of Bṛhaspati cannot be determined - verses of Bṛhaspati on ācāra, śrāddha, āsauca and saṁskāra in Mitāk sarā, Smsti candrika and other works - a Vṛddha Bṛhaspati and a Jyotir Bșhaspati - Bṛhaspati's smrti reconstructed by Prof. K. V. Rang swami Aiyangar and published in Gaekwad's Oriental Series - arranged in seven parts - a laborious performance, but still some verses and prose passages remain unnoticed - Prof. Renou's criti cism against Prof. Aiyangar. 
+An early and eminent Bengal writer - wrote Hāralatā and [[Pi trdayitā|Pitṛdayitā]] alias [[Karmopadesinipaddhati|Karmopadeśinīpaddhati]] - contents of Hāralatā and of [[Pitrdayitā|Pitṛdayitā]] - authors and works named in them - personal history of Aniruddha - flourished in 3rd quarter of 12th century.
 
-Sec. 38 Kötyāyana: 
+Sec. 84 [[Ballalasena|Ballālasena]] and Lakṣmaṇasena ... pp. 730-735
 
-... pp. 496-507 
+Compiled at least four works, Ācārasāgara, Adbhutasāgara, Dānasāgara, [[Pratisthāsāgara|Pratiṣṭhāsāgara]] - subjects dealt with in [[Dānasagara|Dānasāgara]] - Adbhutasāgara left incomplete and finished by his son [[Laksma nasena|Lakṣmaṇasena]] - Dānasāgara deals with 16 great dānas, eulogy of [[brāhma pas|brāhmaṇas]] etc. and contains valuable information about the Mahābhārata and the [[Puranas|Purāṇas]] - literary activity in 3rd quarter of 11th century, as Dānasāgara was composed in [[sake|śake]] 1091 - Aniruddha was guru of Ballālasena.
 
-Work of Katyāyana on vyavahāra not yet recovered - collection of Katyāyana's 973 verses with English translation by Dr.P.V. Kane and collection of 121 verses by Prof. Aiyangar - Nārada and Bșhas pati are models of Kātyayana - on several points he presupposes Nārada - Nārada very brief on stridhana, while Kātyāyana's treat ment is classical - Kātyāyana first to give definitions of some kinds of stridhana - Kātyāyana often refers to Bṛhaspati's views - About 900 verses of Katyāyana on vyavahāra quoted in digests - he refers to Bhrgu 20 times - only a few of these are found in Manu - many of the views attributed in Kātyāyana to Manu are not found in extant Manusmrti - some of the views ascribed to Mānavas by Katyāyana differed from the views of the extant Manusmṛti - some verses are ascribed to Katyāyana and Manu, Yajñavalkya and Bșhaspati in the digests - Katyayana is in advance of Narada and Brhaspati in the matter of definitions and as to rules on stridhana - Kātyāyana probably first to distinguish between jayapatra and paścātkāra date of Katyāyana - later than Yājñavalkya, Nārada and Bṛhaspati flourished between 400-600 A. D. - Medhātithi (on Manu 7.1) quotes a Katyāyana sūtra in prose - Briat Katyāyana and VṛddhaSynopsis of Contents 
+Sec. 85 Harihara : ... pp. 735–737
 
-XX 
+A writer on vyavahāra - he flourished before 1300 [[A, D.|A. D.]] - Harihara composed commentary on [[Paraskaragrhyasūtra|Pāraskaragṛhyasūtra]] - this [[Ha rihara|Harihara]] flourished between 1150 and 1250 [[A, D.|A. D.]] - whether he was pupil of Vijñāneśvara - a Harihara comments on Āśaucadaśaka - jurist Harihara probably identical with [[bhāsyakāra|bhāṣyakāra]] of [[Paraskara|Pāraskara]] - several Hariharas known.
 
-i 
+Sec. 86 [[Smrticandrikā|Smṛticandrikā]] of [[Devannabhatta|Devaṇṇabhaṭṭa]] : ... pp. 737-741
 
-Katyāyana - Hemādri speaks of Upa-Katyayana - the Karmapradipa of Kātyāyana or Gobhilasmṛti in 500 verses - contents thereof authors named by Karmapradipa - some verses of it identical with Manu, Yajñavalkya and Mahābhārata - Karmapradipa profusely quoted in Aparārka and Smsticandrik, and to a lesser degree by Mitāksarā -- some quotations ascribed to Kātyāyana on topics other than vyavahāra are not found in the Karmapradipa - Kātyāyana composed some large work of which Karmapradipa is part or abridgment-no sufficient data to identify jurist Kātyāyana and the author of the Karmapradipa - many verses ascribed to Bṛhaspati in some Dharmaśāstra works and to Katyāyana by others. 
+An extensive digest - printed text deals with saṁskāra, [[ācara,|ācāra,]] vyavahāra, [[sraddha|śrāddha]] and āśauca - he wrote on [[prāyascitta|prāyaścitta]] also - name variously written - profusely quotes Smṛtikāras, 600 verses of [[Katyāyana|Kātyāyana]] alone on vyavahāra being quoted - authors and works named - author a southerner - contents - points in which [[Mitāksarā|Mitākṣarā]] and [[Smrticandrikā|Smṛticandrikā]] differ - date between 1150 and 1225 A. D. - several works named [[Smrticandrikā.|Smṛticandrikā.]]
 
-Sec. 39 Angiras : 
+[[Pxxxv]]
+Sec. 87 Haradatta : ... pp. 742-749
 
-... pp. 507–509 
+His fame high as a commentator - his [[Anākujā|Anākulā]] on [[Apastam bagļhya,|Āpastambagṛhya,]] Anāvilā on [[Asvalayanagshya,|Āśvalāyanagṛhya,]] [[Mitāksarā|Mitākṣarā]] on [[Gautamadhar masutra,|Gautamadharmasūtra,]] Ujjvalā on [[Apastambadharmasūtra|Āpastambadharmasūtra]] and a com. on the [[Ā pastambamantrapātha|Āpastambamantrapāṭha]] - explains grammatical peculiarities at great length - he was a southerner - great devotee of Śiva - tradition says Rudradatta and Haradatta are identical - Haradatta on [[wi dow's|widow's]] right of succession - interesting information from Haradatta - date, a difficult problem - between 1100-1300 [[A, D.|A. D.]] - Haradatta commentator of [[dharmasastra|dharmaśāstra]] works, is identical with Haradatta, author of [[Padamañjari|Padamañjarī]] - Haradattācārya mentioned in [[Bhavisyotta rapurāṇa|Bhaviṣyottarapurāṇa]] and Śivarahasya is probably the Haradattācārya cited in [[Sarvadarśanasamgraha|Sarvadarśanasaṁgraha]] - Hariharatāratamya and [[Caturvedatātpar yasaṁgraha|Caturvedatātparyasaṁgraha]] are works ascribed to Haradatta.
 
-Quoted frequently on all topics except vyavahāra by writers from Viśvarūpa - Smsticandrika quotes some prose passages from Angiras - several compilations on prāyaścitta attributed to Angiras - Bṛhad-Angiras and Madhyamāngiras - Angiras-Smrti in Anand. Collection of Smṛtis has 168 verses - Angirasasmṛti published by by Mr. A. N. Krishna Aiyangar contains over 1200 verses. 
+Sec. 88 [[Hemadri|Hemādri]] : ... pp. 749–755
 
-Sec. 40 Rsyaśmga : 
+He and [[Madhava|Mādhava]] the two outstanding [[dākṣinātya|dākṣiṇātya]] writers on dharmaśāstra - his [[Caturvargacintamani|Caturvargacintāmaṇi]] is a huge work of an [[en cyclopædic|encyclopædic]] character - projected to contain five sections - printed parts comprise vrata, dāna, śrāddha and [[kala|kāla]] - Hemādri a profound student of [[Purvamimamsā|Pūrvamīmāṁsā]] - predecessors named by him - personal history of Hemādri - his connection with [[Yadavas|Yādavas]] of Devagiri - genealogy of the [[Yadavas|Yādavas]] - Caturvargacintāmaṇi composed about 1270 [[A, D.|A. D.]] - com. on [[Saunaka's|Śaunaka's]] Praṇavakalpa and a [[Sraddhakalpa|Śrāddhakalpa]] according to [[Katyāyana|Kātyāyana]] are attributed to him - Vopadeva, a friend and a protege of [[Hemālri|Hemādri]] - references to Hemādri's work in grants.
 
-... p. 510 
+Sec. 89 [[Kullūkabhatta|Kullūkabhaṭṭa]] : ... pp. 756-759
 
-Frequently quoted by Mitāksarā, Aparārka and Smsticandrikā on acāra, āśauca and srāddha - one verse on partition - a prose quotation in Smrticandrikā - quoted by Aparārka on prāyaścitta and vyavahāra - the verse of Yaj. II. 32 ascribed to Rsyasriga also - quoted by Kalpataru on a wife's duties. 
+A famous commentator of Manusmṛti - he drew largely upon Medhātithi's bhāṣya and [[Govindarājā|Govindarāja]] - Sir William Jones on [[Kulluka|Kullūka]] - authors and works quoted by him - personal history - he wrote Smṛtiviveka, of which [[Aśaucasāgara,|Āśaucasāgara,]] [[Srāddhasāgara|Śrāddhasāgara]] and [[Vi vādasāgara|Vivādasāgara]] were parts - contents of [[Sraddhasagara|Śrāddhasāgara]] - this is full of [[Purvamīmāṁsā|Pūrvamīmāṁsā]] discussions - date of Kullūka uncertain - flourished between 1150-1300 A. D.
 
-Sec. 41 Karṣıājini : 
+Sec. 90 [[Śridatta|Śrīdatta]] Upādhyāya : ... [[PP.|pp.]] 759-763
 
-... p. 510 
+One of the earliest nibandhakāras on dharmaśāstra from [[Mithi. lā|Mithilā]] - contents of [[Acārādarsa|Ācārādarśa]] and authors quoted therein - his Chando[[Pxxxvi]]gāhnika - principal topics in it - works quoted in it - his [[Pit;bhakti..|Pitṛbhakti]] - authors quoted in it - his [[Srāddhakalpa|Śrāddhakalpa]] - his [[Samayapradipa|Samayapradīpa]] - [[con tents|contents]] of the work - flourished between 1200-1300 [[A. 1).,|A. D.,]] probably about [[1275-130J|1275-1300]] A. D. - hardly gives any information about [[him self|himself]] or his [[fajmily|family]] - liberal enough to allow Vaiśvadeva to [[sūdras|śūdras]] - another [[Sridattamiśra|Śrīdattamiśra]], a Maithila writer, who flourished towards end of 14th century.
 
-Sec. 42 Caturvimśatimata : 
+Sec. 91 [[Candeśvara|Caṇḍeśvara]] : ... pp. 763-775
 
-... pp. 510-513 
+Most prominent among Maithila [[nibandhakaras|nibandhakāras]] - compiled [[ex tensive|extensive]] digest called [[Smstiratnākara|Smṛtiratnākara]] in seven sections on [[dana|dāna]], [[kstya,|kṛtya,]] [[vyavabāra,|vyavahāra,]] śuddhi, pūjā, vivāda and [[gļhastha|gṛhastha]] - contents of [[Kṛtya ratnākara,|Kṛtyaratnākara,]] Gṛhastharatnākara, [[Dānaratnakara,|Dānaratnākara,]] [[Vivādaratnakara|Vivādaratnākara]] and other ratnākaras - he also compiled Kṛtyacintāmaṇi, the [[Rajanitiratnakara,|Rājanītiratnākara,]] [[Dānavākyāvali|Dānavākyāvalī]] and [[Śivavākyāvali|Śivavākyāvalī]] - contents of [[Rajanitiratnākara|Rājanītiratnākara]] - he drew principally upon five viz. [[Kamadhenu|Kāmadhenu]], Kalpataru, Pārijāta, [[Prakasa|Prakāśa]] and Halāyudha - authors and works quoted - Dr. Bhabatosh Bhattacharya's papers on [[Candeśvara|Caṇḍeśvara]] - personal history of [[Caṇdesvara|Caṇḍeśvara]] - genealogy - he was minister of [[Harisimhadeva|Harisiṁhadeva]] of [[Mithila|Mithilā]] and later of Bhaveśa and weighed [[him self|himself]] against gold in 1314 [[A, D.|A. D.]] - Karṇāṭa and [[Kameśvara|Kāmeśvara]] dynasties - Vidyāpati, paternal cousin of [[Caṇdesvara|Caṇḍeśvara]] - literary activity [[bet ween|between]] 1314-1370 A. D.
 
-Embodies in 525 verses the opinions of 24 sages - contents quoted by Mitākṣarā and Aparārka, but not by Viśvarūpa and Medhātithi - suggests alternative penances even for very heinous sins - quoted many times by Smsticandrikā on Āhnika and sraddha (probably compiled about 8th or 9th century A. D.) - Bhattoji commented upon it. 
+Sec. 92 Harinātha : ... pp. 775-777
 
-xxiv 
+Author of a digest called Smṛtisāra - names numerous [[autho rities|authorities]] - contents - flourished sometime between 1300-1400 A. D. - several works styled [[Smstisāra.|Smṛtisāra.]]
 
+Sec. 93 [[Madhavācārya|Mādhavācārya]] : ... pp. 778-792
 
+The most eminent of dakṣiṇātya writers on dharmaśāstra - two works on dharmaśāstra deserve special notice, viz. Parāśara [[Madhaviya|Mādhavīya]] and Kālanirṇaya - authors and works quoted in them - contents of [[Kalanirṇaya|Kālanirṇaya]] - published in 1889 and 1936 - [[Sayana,|Sāyaṇa,]] the minister under four kings viz. Bukka, [[Kampana.|Kampaṇa,]] [[Sangama|Saṅgama]] II and Harihara II - Father Heras' 196 inscriptions - life-sketch of Vidyāraṇya - Heras' conclusion that the ascetics of [[Syngerimath|Śṛṅgerimath]] fabricated the story of [[Vidyāranya|Vidyāraṇya]] as the founder of Vijayanagar etc. and the opinion about [[Vidyaranya|Vidyāraṇya]] superfluous - the identity [[Pxxxvii]] of [[Madhavācārya|Mādhavācārya]] and Vidyāraṇya - family and personal history of [[Madhavācārya|Mādhavācārya]] - his brother [[Sayaṇa|Sāyaṇa]] - [[Madhava|Mādhava]] founded [[Vijaya nagar|Vijayanagar]] in 1335 A. D. - Burnell's theory about the identity of [[Sayapa|Sāyaṇa]] and Mādhava refuted by Narasimhachar - works of [[Madhavācārya|Mādhavācārya]] - pedigree of Vijayanagar kings - [[Parāsara|Parāśara]] [[Madhaviya|Mādhavīya]] and [[Kāla nirṇaya|Kālanirṇaya]] were composed between 1340-1360 A. D. - literary [[acti vity|activity]] of [[Madhava|Mādhava]] [[Vidyaranya|Vidyāraṇya]] between 1330-1385 A.D. - Fleet is wrong in identifying [[Mādhavanka|Mādhavāṅka]] with [[Madhavācārya|Mādhavācārya]] - [[Madhava|Mādhava]] Vidyāraṇya different from [[Madhava|Mādhava]] Mantrin who was governor of Banavase and Goa - several commentaries of [[Kalanirṇaya.|Kālanirṇaya.]]
 
-Sec. 43 Daksa : 
+Sec. 94 Madanapāla and [[Visveśvarabhatta|Viśveśvarabhaṭṭa]] : ... pp. 792-804
 
-... pp. 513-514 Mentioned by Yaj. - Viśvarūpa quotes bim several times – Aparārka quotes a prose passage - contents of printed Dakṣasmsti in 220 verses, 
+Four works attributed to Madanapāla, a great patron of [[learn ing|learning]] like Bhoja, viz. Madanapārijāta, [[Smṛtimahārnava|Smṛtimahārṇava]] or [[Madana mahārṇava,|Madanamahārṇava,]] Tithinirṇayasāra and [[Smṛtikaumudi|Smṛtikaumudī]] - Madanapārijāta really composed by [[Visveśvarabhatta|Viśveśvarabhaṭṭa]] - contents of Madanapārijāta - its proposition with regard to [[kanina|kānīna]] and secondary sons - its style simple and lucid - authors and works quoted in it - Mahārṇava ascribed to Māndhātā, a son of Madanapāla - [[princi pal|principal]] topics of the work - Tithinirṇayasāra - [[Smṛtikaumudi|Smṛtikaumudī]] deals with dharmas of [[sūdras|śūdras]] - contents - all the above four works probably composed by [[Viśvesvarabhatta|Viśveśvarabhaṭṭa]] - [[Subodhini,|Subodhinī,]] com. on [[Mitāksarā|Mitākṣarā]] by [[Visveśvarabhaatta|Viśveśvarabhaṭṭa]] is a leading authority in Benares school of Hindu Law - pedigree of Madanapāla - other works on astronomy and medicine attributed to Madanapāla - date of Madanapāla, between 1300-1400 A. D. - [[Madanavinodanighantu|Madanavinodanighaṇṭu]] composed in 1431 of Vikrama era i. e. 1375 A. D.
 
-Sec. 44 Pitamaha : 
+Sec. 95 [[Madanuratna|Madanaratna]] : ... pp. 804-809
 
-... pp. 514-516 Quotations from Pitamaha occur mostly on vyavahāra, patri cularly ordeals - he treats of nine ordeals - 50 chalas enumerated by Pitāmaha in which king took action without a complaint - views peculiar to Pitāmaha, viz. 18 lowest castes, eight constituents of hall of justice, &c. - mentions Bṛhaspati – flourished between 400–700 A. D. 
+An extensive digest on dharmaśāstra, variously styled - seven uddyotas of it on samaya, ācāra, vyavahāra, prāyaścitta, [[dana,|dāna,]] śuddhi, śānti - contents of uddyotas on samaya, [[dana|dāna]], and śānti - Dānoddyota published by the Sanskrit Academy in 1964 - subjects treated in Dānoddyota - D. C. Ms. dealing with [[Santi|Śānti]] section - authors and works referred to in it - work composed under [[Madanasimhadeva,|Madanasiṁhadeva,]] son of [[Saktisimbadeva|Śaktisiṁhadeva]] - pedigree of the family - [[Madanasimha|Madanasiṁha]] called together four learned men, Ratnākara, [[Gopinātha,|Gopīnātha,]] Viśvanātha and [[Gangadhara,|Gaṅgādhara,]] and entrusted compo[[Pxxxviii]]sition of work to them - Vyavahāra section edited by the present author - its contents - date of Madanaratna between 1350-1500, probably about 1400-50.
 
-Sec. 45 Pulastya : 
+Sec. 96 Vidyāpati : ... [[PP.|pp.]] 810-815
 
-... pp. 516-517 An expounder of dharma named in a verse of Vṛddha Yajña valkya - Visarupa, Mitaksarā, Apararka cite many verses on āhnika and śrāddha - Dānaratnākara cites a prose passage of Pulastya - composed between 4th and 7th century A. D. 
+Born in [[Bisapi,|Biśapi,]] a village in north Bihar - fourth in descent from [[Dhireśvara,|Dhīreśvara,]] uncle of [[Candeśvara|Caṇḍeśvara]] - Love songs of Vidyāpati - credited with the authorship of 12 works - he was believed to be a great Vaiṣṇava, while in [[Mithila|Mithilā]] he was held to be a Śaiva - he made Queen [[Viśvāsadevi's|Viśvāsadevī's]] work [[Gangāvākyāvali|Gaṅgāvākyāvalī]] faultless and supplied textual authorities in support of her propositions - there appears to be agreement about the date of his death viz. 1448 A. D. - he may be held to have flourished between 1360-1448 A. D.
 
-Sec. 46 Paithinasi 
+Sec. 97 [[Vyavaharanirṇaya|Vyavahāranirṇaya]] of [[Varadaraja|Varadarāja]] : ... pp. 815-823
 
-... pp. 517-519 Mentioned among 36 Smstis quoted by Aprārka - deals with all three branches of Dharmaśāstra - ācāra, vyavahāra and praya scitta - prose quotations from him outnumber quotations in verse Mit., Aparārka and Kalpataru quote several passages from Paishinasi. 
+Vyavahāranirṇaya having no [[Mangala|Maṅgala]] [[sloka|śloka]] at the beginning - one of the four South Indian works on Dharmaśāstra - [[Varada rāja's|Varadarāja's]] explanations often same as in the Mit. - on the whole Vy. N. a pedestrian performance - quotes many [[smstis,|smṛtis,]] works and authors, but nowhere refers to Bhāruci - Varadarāja a puny figure in [[th|the]] matter of [[Mimāṁsā|Mīmāṁsā]] as against the Mit. - later than the Mit. - [[bu|but]] certainly earlier than 1515 A. D.
 
-Sec. 47 Pracetas : 
+Sec. 98 [[Sulapāṇi|Śūlapāṇi]] : ... pp. 823-840
 
-... pp. 519-520 A dharmaśāstra writer mentioned by Parāśara, though not by Yaj. - prose and verse quotations cited by Mitāksarā and Apa rārka - a few prose quotations in Haradatta on Gautama and Smrti candrikā - Vìddha Pracetas and Bṛhat Pracetas. 
+An eminent writer on Dharmaśāstra from Bengal - [[Dipakali kā|Dīpakalikā]] commentary on Yājñavalkya, his earliest work - holds archaic views on inheritance - his fourteen treatises ending in [['liveka'|'viveka']] never mentioned as parts of his [[Smrtiviveka|Smṛtiviveka]] - Durgotsavaviveka is amongst his latest works - [[Srāddhaviveka|Śrāddhaviveka]] is his most famous work - authors and works named by him - Sambandhaviveka edited by Dr. J. B. Chaudhuri - [[Dolayātrūviveka|Dolayātrāviveka]] of [[Sūlapāni|Śūlapāṇi]] - Dolayātrā, the festival of swinging, when to be celebrated - half of the work taken from Skandapurāṇa - [[Prayascittaviveka|Prāyaścittaviveka]] - printed with the com. [[Tattvārthakaumudi|Tattvārthakaumudī]] of [[Gorindānanda|Govindānanda]] - etymology of the word 'prāyaścitta' - contents - works and authors quoted - [[Salapāṇi|Śūlapāṇi]] and [[Vacaspatimiśra|Vācaspatimiśra]] - his Tithiviveka edited by Prof. S. C. Banerji and by Dr. J. B. [[Claudhuri|Chaudhuri]] - [[Caturangadipikā|Caturaṅgadīpikā]] ed. by Mr. Mano Mohan Ghosh in 1936 - commentaries on Śrāddhaviveka - [[Pxxxix]] Śūlapāṇi hardly gives any information about himself - in colophons styled [[Mahāmahopadhyaya|Mahāmahopādhyāya]] - and also [[Sāhudiyān|Sāhuḍiyān]] - probably came from some place called [[Sāhudi|Sāhuḍi]] - flourished between 1365-1445 A. D.
 
-Sec. 48 Prajāpati : 
+Sec. 99 Rudradhara : ... pp. 840-842
 
-... pp. 520-521 Prajāpati cited as authority by Baudhayana Dh.S. ( II. 4. 15 ) and Vasistha (III. 47 &c. ) - they mean probably Manu-a com pilation in 198 verses ascribed to Praj.ipati - Mit. and Aparārka and others quote Prajapati on āśauca, prāyaścitta, śrāddha, ordeals and vyavahāra. 
+A Maithila writer - wrote [[Sraddhaviveka,|Śrāddhaviveka,]] [[Suddhiviveka,|Śuddhiviveka,]] [[Vra tapaddhati|Vratapaddhati]] and [[Varṣakṣtya,|Varṣakṛtya,]] the first being the most famous of his works - flourished between 1425-1460 A. D.
 
-Synopsis of Contents 
+Sec. 100 Misarumiśra : ... pp. 842-844
 
-XXV 
+Wrote Vivādacandra - contents - work composed under [[crders|orders]] of queen [[Lachimadevi,|Lachimādevī,]] wife of prince Candrasiṁha of [[Mithila|Mithilā]] - flourished about 1450 A. D.
 
-1 
+Sec. 101 [[Vācuspatimiśra|Vācaspatimiśra]] : ... pp. 844-854
 
-Sec. 49 Marici : 
+The foremost nibandhakāra of [[Mithili|Mithilā]] - his [[Vivadacintāmaṇi|Vivādacintāmaṇi]] of paramount authority on matters of Hindu Law in Mithilā - a voluminous writer - several works of his styled [[Cintamani|Cintāmaṇi]] on [[acara,|ācāra,]] āhnika, kṛtya, [[tirtha,|tīrtha,]] dvaita, [[niti|nīti]], [[vivada,|vivāda,]] [[vyavahara,|vyavahāra,]] [[suddhi|śuddhi]], Śūdrācāra, śrāddha - works named by him - a group of his works ends in 'nirṇaya' viz. Tithinirṇaya, Dvaitanirṇaya, [[Mahādānanir naya,|Mahādānanirṇaya,]] Vivādanirṇaya, [[Suddhinirṇaya|Śuddhinirṇaya]] - he also contemplated writing seven works styled Mahārṇava on [[krtya,|kṛtya,]] [[acāra|ācāra]], [[vivada,|vivāda,]] vyavahāra, dāna, śuddhi and [[pitryajña|pitṛyajña]] - other works of his - Śrāddhakalpa or [[Pit;bhaktitarangiṇi|Pitṛbhaktitaraṅgiṇī]] his last work - personal history of [[Vacaspati|Vācaspati]] - connected with king Bhairava and his son Rāmabhadra - genealogy of Kāmeśvara kings - Vācaspati [[flouri shed|flourished]] between 1425-1480 A. D. - philosopher Vācaspati different.
 
-pp. 521-522 
+Sec. 102 [[Dandaviveka|Daṇḍaviveka]] of [[Vardhamana|Vardhamāna]] : ... pp. 854-860
 
-Quoted on āhnika, āśauca, śrāddha and vyavahāra by Mitāk sarā, Aparārka and Smsticandrika - recommends writing as essential for sale, mortgage, gift and partition of immovables. 
+First edited by [[Kamalakṭsna|Kamalakṛṣṇa]] [[Smṛtitirtha|Smṛtitīrtha]] - probably the only extensive extant Sanskrit work on the law of crimes and [[punish ments|punishments]] alone - cites Halāyudha 33 times - starts with the eulogy of [[* danda'|'daṇḍa']] - contents - [[Vardhamana|Vardhamāna]] wrote his Viveka in the reign of king Bhairava of [[Mithila|Mithilā]] - works and authors consulted by [[Vardhamana|Vardhamāna]] - his elder brother [[Gandakamisra,|Gaṇḍakamiśra,]] [[Śhaṅkara|Śaṅkara]] and [[Vacaspati|Vācaspati]] were his gurus - [[!!e|he]] composed nine works - [[Vardhamana|Vardhamāna]] must have flourished some decades before 1496 A. D.
 
-Sec. 50 Yama: 
+[[Pxl]]
+Sec. 103 [[Nșsimhaprasāda|Nṛsiṁhaprasāda]] : ... pp. 860-868
 
-... pp. 522-528 
+An encyclopædic work - divided into 12 sections called [['sara'|'sāra']] - the author's name variously given as Dalapati or [[Dalādhisa|Dalādhīśa]] - personal history - writers and works named - contents of the work - flourished between 1400-1510 A. D., probably about 1490 to 1510.
 
-Yama quoted in Vas. Dh. S. (18. 13-15 and 19.48 ) - various printed compilations in verse ascribed to Yama - Bṛhad Yama in 5 chapters and 182 verses - Viśvarūpa and others quote over three hundred verses of Yama on all topics including vyavahāra - some of these found in printed text - a few prose passages of Yama quoted by Aparārka - Anuśāsanaparva 104.72-74 quotes gāthās of Yama - some views of Yama on vyavahāra set out - Bṛhad Yama, Laghu Yama - Yama is profusely quoted in various kāndas of Kalpataru. 
+Sec. [[101|104]] Pratāparudradeva : 869-879
 
-Sec. 51 Laugākși : 
+He was king of the Gajapati dynasty in Orissa and composed [[Sarasvativilāsa|Sarasvatīvilāsa]] - pedigree and history of family - purpose and [[con tents|contents]] of [[Sarasvativilāsa|Sarasvatīvilāsa]] - works quoted - often points out the differences of opinion between Bhāruci and [[Vijñānesvara|Vijñāneśvara]] - cites in many places the explanations of certain sūtras and words of Viṣṇu giving Bhāruci's interpretations thereof - quotes Varadarāja, [[Smsticandrikā|Smṛticandrikā]] - composed between 1497-1539 A. D. - Foulke's theory about date not acceptable - authorship of Sar. V. - goes to Lolla [[Laksmidhara|Lakṣmīdhara]] acc. to Dr. Gode and Mr. R. Subrahmanyam - the Pratāpamārtaṇḍa or [[Praudhapratāpamārtaṇḍa|Prauḍhapratāpamārtaṇḍa]] of [[Pratāpa rudradeva.|Pratāparudradeva.]]
 
-... pp. 528–529 Mitāksarā quotes verses on āśauca and prāyaścitta, while Aparārka quotes prose and verse passages on acāra, asauca, order of forest-hermits – Laugākṣi's definition of yogaksema quoted by Mit. - quoted by Maskarin on Gant. Dh. S. as Lokāksi. 
+Sec. 105 [[Dharmatattvakalanidhi|Dharmatattvakalānidhi]] or [[Pṛthvicandrodaya|Pṛthvīcandrodaya]] [[Vyavaharaprakāśa|Vyavahāraprakāśa]] : ... pp. 879-882
 
-Sec. 52 Viśvāmitra : 
+A large digest on Dharmaśāstra comprising several parts (prakāśas), perhaps 16 as the word 'Kalānidhi', meaning moon, suggests - its 7th part Vyavahāraprakāśa quotes sūtrakāras, smṛtis, [[Puranas,|Purāṇas,]] Rāmāyaṇa, Mahābhārata, digests on [[Dharma śāstra|Dharmaśāstra]] - this [[Pșthvicandrodaya|Pṛthvīcandrodaya]] was composed in Bundelkhand and must be placed later than about 1375 A. D.
 
-... . 529 
+Sec. 106 [[Govindananda|Govindānanda]] : ... pp. 882-889
 
-Named by Vṛddha Yajñavalkya - verses quoted on all topics except vyavahāra. 
+Author of [[Dānakaumudi,|Dānakaumudī,]] [[Suddhikaumudi,|Śuddhikaumudī,]] [[Śrāddhakaumudi|Śrāddhakaumudī]] and [[Varsakriyakaumudi|Varṣakriyākaumudī]] and a com. called [[Arthakaumudi|Arthakaumudī]] on the [[Suddhidipikā|Śuddhidīpikā]] of [[Srinivasa|Śrīnivāsa]] and a com. [[Tattvārthakaumudi|Tattvārthakaumudī]] on the Prāyaścittaviveka of [[Sūlapāṇi|Śūlapāṇi]] - son of [[Ganapatibhatta|Gaṇapatibhaṭṭa]] - protest against Dr. Bhattacharya about certain points - [[Govindananda|Govindānanda]] was loose in giving the names of his own works - years with [[inter calary|intercalary]] months - [[Kriyākaumudi|Kriyākaumudī]] and its authorship - two inaccurate statements of Dr. Haraprasad Sastri - literary activity between 1500–1540 A. D.
 
-Sec. 53 Vyasa : 
+[[Pxli]]
+Sec. 107 Raghunandana : ... pp. 890-902
 
-pp. 529–535 
+Last great writer of Bengal on dharmaśāstra - wrote an [[en cyclopaedia|encyclopaedia]] called [[Smstitattva|Smṛtitattva]] in 28 sections - names over 300 authors and works - 28 tattvas enumerated - other works besides these 28 - wrote also com. on [[Dayabhāga|Dāyabhāga]] - personal history - authors and works quoted - attitude of writers towards women and [[sūdras|śūdras]] - flourished between 1510-1580 A. D. - papers on [[Raghupandana|Raghunandana]] - the Dharmaśāstra topics that assumed [[import ance|importance]] in 16th cent. - internal evidence to establish the order of composition in Raghunandana's Tattvas - master in application of the [[Mimamsāsūtras|Mīmāṁsāsūtras]] and [[Nyayas.|Nyāyas.]]
 
-Printed compilation ascribed to Vyasa in 250 verses - contents - quoted by Viśvarūpa, Kalpataru, Maskarin - about two hundred verses of Vyasa on vyavahāra cited in Aparārka, Smrticandrikā and other works - his doctrines closely agree with those of Nārada, Bșhaspati and Katyāyana - some of his views on vyavahāra set out - flourished between 200-500 A. D. - Aparārka cites many verses from Vyāsa on samskaras, śrāddha &c.-probably Vyasa the jurist is identical with the latter - Gadya-Vyāsa, Vļddha-Vyasa and Bșhad-Vyāsa, Maha-Vyasa and Laghu-Vyasa. 
+Sec. 108 [[Nārāyanabhatta|Nārāyaṇabhaṭṭa]] : ... pp. 903-907
 
-H.D.-D 
+The most famous member of the [[Bhatta|Bhaṭṭa]] family of Benares - personal history - born in 1513 A. D. - among his works are [[Antyestipaddhati,|Antyeṣṭipaddhati,]] Tristhalisetu, Prayogaratna and com. on verses of [[Kalamadhava|Kālamādhava]] - literary activity between 1540-1570 A. D. - Nārāyaṇa author of [[Dharmapravștti|Dharmapravṛtti]] different.
 
-Xxvi 
+Sec. 109 [[Țodarānanda|Ṭoḍarānanda]] : ... pp. 907-914
 
-History of Dharmasastra Sec. 54 Ṣat-trimsan-mata : 
+An extensive encyclopaedia of civil and religious law, [[astro nomy|astronomy]] and medicine - two parts on Sarga and Avatāras published by Dr. P. L. Vaidya - family and ancestors of Todarmal - work divided into 22 sections called saukhyas each saukhya being [[sub divided|subdivided]] into harṣas - composed between 1572 A. D. to 1589 A. D. the year in which Todarmal died - extent - [[acccount|account]] of some saukhyas - Jyotiḥsaukhya composed in 1572 A. D. and other works useful for the history of [[Todaramalla|Ṭoḍaramalla]] - Dr. Vaidya's ascription of the authorship of [[Țodarānanda|Ṭoḍarānanda]] chiefly to [[Nārāyaṇabhatta|Nārāyaṇabhaṭṭa]] not acceptable - Jyotiḥsaukhya composed by [[Nilakantha.|Nīlakaṇṭha.]]
 
-pp. 535-537 This was a compilation like Caturvimśati-mata - quotations from it cited in Kalpataru, Mitāksarā, Smsticandrika and Aparār ka - Viśvarūpa and Medhātithi do not mention it - date between 790-909 A. D. - no verse quoted from this on vyavahāra. 
+Sec. 110 [[Nandapandita|Nandapaṇḍita]] : ... pp. 915-925
 
-1 
+A voluminous writer on dharmaśāstra - author of com. on [[Parāsarasmṛti|Parāśarasmṛti]] and on the [[Mitāksarā|Mitākṣarā]] of Vijñāneśvara - his [[Sraddha kalpalatā|Śrāddhakalpalatā]] - his [[Suddhicandrikā,|Śuddhicandrikā,]] a com. on the [[Șadasiti|Ṣaḍaśīti]] - his work styled Smṛtisindhu and a summary of it styled [[Tattvamuktavali|Tattvamuktāvalī]] - his [[Vaijayanti,|Vaijayantī,]] a com. on [[Viṣṇudharmasutra|Viṣṇudharmasūtra]] - his agreements and disagreements with Mitākṣarā - [[Dattakamimamsā,|Dattakamīmāṁsā,]] [[bis|his]] most [[Pxlii]] famous work - it is regarded by British Indian courts and Privy Council as a standard work on adoption - his views set out - personal history - he had various patrons - his thirteen works - [[Vaijayanti|Vaijayantī]] composed in 1623 A. D. - literary activity to be placed [[betwecn|between]] 1580-1630 A. D.
 
-Sec. 55 Samgraha or Smstisaingraha : 
+Sec. 111 [[Kamalakarabhatta|Kamalākarabhaṭṭa]] : ... pp. 925-937
 
-... pp. 537-541 
+Grandson of [[Nārāyaṇabhatta|Nārāyaṇabhaṭṭa]] - Personal history - [[coniposed|composed]] more than 22 works on several [[sastras|śāstras]] - about a dozen works on dharmaśāstra, the [[Nirnayasindhu,|Nirṇayasindhu,]] [[Sūdrakamalakara|Śūdrakamalākara]] and [[Vivāda tāndava|Vivādatāṇḍava]] being most famous - he meant all the works on [[dharma śāstra|dharmaśāstra]] to be parts of a digest called Dharmatattva - contents of [[Portakamalakara,|Pūrtakamalākara,]] [[Santiratna,|Śāntiratna,]] [[Vivādatāndava|Vivādatāṇḍava]], [[Sūdrakamalakara|Śūdrakamalākara]] and [[Nirnayasindhu|Nirṇayasindhu]] - the last one of his earliest works composed in 1612 A. D. and so his literary activity lies between 1610-1640 A. D. - sometimes differs from [[Nārāyaṇabhatta|Nārāyaṇabhaṭṭa]] - his interesting observations - [[Nirnayasindhu|Nirṇayasindhu]] - its contents.
 
-Quoted by Mitākșarā, Aparārka and Smṛticandrikā on several topics of dharma- quotations on vyavahāra are many and importa nt for history of Hindu Law - views of Samgrahakāra and Dhāres vara coincide in many respects and were criticized by Mitākṣarā - date of Saṁgraha between 8th and 10th centuries. 
+Sec. 112 [[Nilakanthabhatta|Nīlakaṇṭhabhaṭṭa]] : ... pp. 937-941
 
-Sec. 56 Saṁvarta : 
+Grandson of [[Nārāyaṇabhatta|Nārāyaṇabhaṭṭa]] and son of [[Śhaṅkarabhatta|Śaṅkarabhaṭṭa]] - personal history - his work Bhagavantabhāskara divided into twelve mayūkhas composed in honour of Bhagavantadeva, Bundella chieftain - also wrote Vyavahāratattva - estimate of his qualities as a writer - his [[Vyavahāramayukha|Vyavahāramayūkha]] is of paramount authority on Hindu Law in Gujerat, Bombay Island and North Konkan - his literary activity - flourished between 1610-1650 - divergence of views between the cousins [[Kamalakara|Kamalākara]] and [[Nilakantha.|Nīlakaṇṭha.]]
 
-... pp. 541-543 Mentioned as dharmaśāstrakāra by Yāj. - cited on all topics of dharma by Viśvarūpa, Medhātithi, Mitākṣara - Aparārka quotes about 200 verses - some of his views on vyavahāra - contents of printed Saṁvarta in 230 verses - Bṭhat Samvarta and Svalpa Samvarta. 
+Sec. 113 The [[Viramitrodaja|Vīramitrodaya]] of Mitramiśra : ... pp. 941-953
 
-Sec. 57 Harita : 
+[[Viramitrodaya,|Vīramitrodaya,]] a vast digest composed by Mitramiśra on all topics of dharmaśāstra - sections called prakāśas - contents of the printed prakāśas on [[Laksana,|Lakṣaṇa,]] āhnika, vyavahāra, [[tirtha,|tīrtha,]] pūjā, [[sani skāra,|saṁskāra,]] [[rajaniti|rājanīti]] - highly controversial work - generally follows [[Vijñānesvara,|Vijñāneśvara,]] but at times severely criticizes him - a work of high authority in Benares school of modern Hindu Law - [[Mitramisra|Mitramiśra]] also wrote a commentary on [[Yājsavalh yasmrti|Yājñavalkyasmṛti]] - personal history - account and pedigree of his patron [[Virasimha|Vīrasiṁha]] - meaning of title [[Pxliii]] [[* Viramitrodaya'|'Vīramitrodaya']] - his literary activity lay in the first half of the 17th century - twenty-two [[prakaśas|prakāśas]] and the subject-matter [[thereof,|thereof.]]
 
-... pp. 543-545 Verses from Harita on vyavahāra deserve special treatment some of his views set out, e. g. definition of vyavabāra, four aspects of vyavahāra, importance of writing, defects of plaint and reply, protection of long possession, when title by itself is decisive against long possession, five kinds of sureties, treatment of erring wives - bis date between 400-700 A. D. 
+Sec. 114 Anantadeva : ... pp. [[953-563|953-963]]
 
-Sec. 58 Commentaries and Nibandhas : 
+Composed a vast digest called Smṛtikaustubha on [[sams kāra,|saṁskāra,]] ācāra, rājadharma, dāna, utsarga, [[pratișthā,|pratiṣṭhā,]] tithi and [[saṁ. vatsara|saṁvatsara]] - [[Samiskārakaustubha|Saṁskārakaustubha]] is most popular work - contents of Saṁskārakaustubha - portion of it on adoption called [[Dattaka didhiti|Dattakadīdhiti]] - summary of important views on adoption - contents of [[Abdadidhiti|Abdadīdhiti]] and Rājadharmakaustubha - name [[Smrtikaustubha|Smṛtikaustubha]] misleading - [[Smstikaustubha|Smṛtikaustubha]] is really [['Abdadidhiti'|'Abdadīdhiti']] or [['Samvatsara didhiti'|'Saṁvatsaradīdhiti']] - Anantadeva wrote several prayogas and also a drama [[• Krsnabhakticandrika’|'Kṛṣṇabhakticandrikā']] - pedigree of his patron's family - Anantadeva wrote at command of Baz Bahadurcandra - [[Ananta deva|Anantadeva]] was great-grand-son of Ekanātha, a great Marathi poet and saint - his younger brother [[Jivadeva|Jīvadeva]] - literary activity between 1645–1695.
 
-pp. 545-546 Dharmaśāstra literature falls into three periods, the first from 600 B, C. to 100 A. D. being the period of the dharmasūtras and of the Manusmṛti, the 2nd from 100 A. D. to 800 A. D. of Yājña. valkya and other smrtis and third from 700 to 1800 of commen, tators and authors of digests – first part of this last period contains commentaries-digests written from 11th century - no hard and fast line between commentaries and digests - these to be treated of in chronological order as far as possible. 
+Sec. 115 [[Nāgojibhatta|Nāgojībhaṭṭa]] : ... pp. 963-967
 
-Synopsis of Contents 
+His learning of an [[encyclopaedic|encyclopædic]] character - wrote standard works on grammar, dharmaśāstra, yoga, &c. - Aufrecht mentions 47 works as composed by [[Nāgojibhatta|Nāgojībhaṭṭa]] - wrote several works on dharmaśāstra - personal history - his patron Rāma of the Bisen family - pedigree of [[Bhattoji Diksita|Bhaṭṭoji Dīkṣita]] and Nāgoji's connection with [[Bhattoji|Bhaṭṭoji]] - literary activity between 1700-1750 A. D.
 
-xxvii 
+Sec. 116 [[Balakrsna|Bālakṛṣṇa]] or [[Bālambhatta|Bālambhaṭṭa]] : ... pp. 968-974
 
-Sec. 59 Asahāya : 
+[[Laksmīvyakhyāna|Lakṣmīvyākhyāna]] or [[Balambhatti|Bālambhaṭṭī]] is a com. on the [[Mitāksarā|Mitākṣarā]] of Vijñāneśvara - works and authors quoted - [[Balambhatti|Bālambhaṭṭī]] favours latitudinarian views about the rights of women - estimate of [[Balambhatti|Bālambhaṭṭī]] according to judicial decisions - author of [[Bālam bhatti|Bālambhaṭṭī]] somewhat of an enigma - introductory verses about the authoress [[Lakṣmidevi|Lakṣmīdevī]] - real author [[Bālakrsna,|Bālakṛṣṇa,]] son of [[Vridyanatha|Vaidyanātha]] [[Payagunda,|Pāyaguṇḍa,]] who was a pupil of [[Nāgojibhatta|Nāgojībhaṭṭa]] - [[Balakrsna|Bālakṛṣṇa]] also wrote [[Upākstitattva,|Upākṛtitattva,]] [[Dharmaśāstrasamgraha|Dharmaśāstrasaṁgraha]] - [[Vaidyanatha|Vaidyanātha]], the commentator of [[Alamkāra|Alaṁkāra]] works, different from Vaidyanātha [[Payagunda,|Pāyaguṇḍa,]] the father of [[Bālambhatta|Bālambhaṭṭa]] - flourished between 1730-1820 A. D.
 
-... pp. 546-551 Portion of his bhasya on Nārada (up to verse 21 of abhyu petyāśusrūṣā) published by Dr. Jolly - Kalyanabhatta revised it – exact relationship of Kalyānabhatta's revision to original not clear, but he took great liberties - Kalyāṇabhatta was encouraged by Kesavabhatta - Viśvarūpa on Yāj. (III. 263--264) mentions Asa hāya by name and quotes latter's explanation of Gautama 22. 13 Asahāya's com. on Saokha-Likhita mentioned by Anandagiri – Hāralatā of Aniruddha speaks of bhāsya of Asahāya on Gautama - from a passage of Sarasvativilāsa it appears that Asahāya com mented on Manu also – Medhātithi on Manu 8. 156 quotes Asahaya - Mitaksarā mentions the views of Asahāya - date of Asahāya between 600-750 A. D.-a few views of Asahāya set out, viz. definition of dāya, succession to Sulka of a woman, succession to a childless brāhmaṇa. 
+[[Pxliv]]
+Sec. 117 [[Kasinātha Upadhyāya|Kāśīnātha Upādhyāya]] : ... pp. 974-978
 
-Sec. 60 Bhartyyajna : 
+Composed extensive work called Dharmasindhusāra - leading work in Deccan now on religious matters - authors and works mentioned therein - subjects of the work - personal history - his other works - Dharmasindhu composed in 1790-91 A. D.
 
-... pp. 551-553 An ancient Bhāsyakāra mentioned by Medbātithi (on Manu 8. 3) - his views cited by Trikāndamandana - he wrote bhāsya on Kātyāyana srautasūtra and Paraskara gļhyasūtra - probably he commented on Gautamadharmasūtra – bis explanation of Manu V. 143, Gaut. V, 41, XIV. 35-40, Vas. VIII. 1 quoted by Kalpataru - probably commented on Paraskaragrhya - flourished about 800 A. D. 
+Sec. 118 [[Jagannatha Tarkapañcanana|Jagannātha Tarkapañcānana]] : ... pp. 978-980
 
-Sec. 61 Viśvarūpa : 
+A digest got prepared by Warren Hastings - its Persian and English renderings - [[Vivādasārārnava|Vivādasārārṇava]] compiled by Trivedi Sarvoruśarman - Among digests compiled under the British the [[Vivadabbangārṇava|Vivādabhaṅgārṇava]] of [[Jagnnātha|Jagannātha]] is the most famous - Colebrooke translated it in 1796 - topics treated of in it - [[Jagannatha|Jagannātha]] died in 1806.
 
-... pp. 553-565 His commentary called Balakrida on Yāj. published at Trivan drum - Mitāksarā refers to it in introductory verses and on Yaj. (I. 80 and III. 24 ) - printed com. of Viśvarūpa on vyavahāra por tion of Yaj. is very meagre - literature referred to or quoted by Viśvarūpa -- most of the quotations from Svayambhuva found in extant Manu, but not so those ascribed to Bhșgu - quotes prose passages of Bșhaspati on vyavahāra - quotes a verse of Visālāksa on politics and refers to arthaśāstras of Bṛhaspati and Uśanas - Kautilya not named, yet Viśvarūpa seems to have had his work before him - Viśvarūpa's work saturated with doctrines of Purva mimāṁsā -- quotes Sabara and Slokavārtika - quotes his own kārikās on Yaj. I. 7 and other places – his philosophical views identical with Sanikarācārya's - Dr. Jolly's view that citations of Viśvarūpa 
+Sec. 119 Conclusion : ... pp. 980-981
 
-xxviii 
+Motives actuating writers on dharmaśāstra - their contribution to culture - their defects - their admirable and useful work.
 
-History of Dharmaśāsira 
-
-in the Smṛticandrikā on certain points not traced in the printed Balakridā examined and shown to be incorrect - some citations of Viśvarūpa's views in Gṛhastharatnākara and Hemādri not found in printed text of Viśvarūpa - points in which Viśvarūpa and Mitaksarā differ set out - Viśvarūpa must have flourished between 750 and 1000 A. D. - If Viśvarūpa identical with Sureśvara, pupil of Sarkara, then he flourished between 800-850 - reasons for identity set out - Mandana and Sureśvara not identical – Bhava bhūti and Umbeka identical, but not same as Suresvara - Viśvarūpa was probably an inhabitant of Malwa or stayed there for some years - a digest called Viśvarūpanibandha by another Viśvarūpa - a Viśvarūpasamuccaya mentioned by Raghunandana. 
-
-Sec. 62 Bharuci : 
-
-.. pp. 565-571 
-
-His views quoted by Mitākṣarā on Yāj. I. 81 and II. 124 - a Bharuci mentioned as an ancient teacher of Visiștādvaita system by Rāmānujācārya in his Vedārthasamgraha - Bhāruci the philo sopher is probably identical with Bhāruci the jurist -- from notices in the Sarasvativilāsa Bharuci seems to have commented on the Viṣṇudharmasutra - Bhāruci and Mitākṣarā disagreed on numerous points - Trivandrum Ms. of Bharuci's commentary on Manu - According to Dr. Derrett Bharuci is nearer A. D. 700 - his sugges tion that Bhāruci is Rju not be acceptable. 
-
-Sec. 63 Srikara 
-
-... pp. 571-573 Views of Srikara set out -- first writer to propound the view that spiritual benefit was the criterion for judging of superior rights to succession - probably a Maithila -- difficult to say whether he wrote a commentary or an independent digest - flourished between 800-1050 A. D. 
-
-Sec. 64 Medhātithi : 
-
-... 573-583 Wrote an extensive commentary on Manu – in Dr. Ganganath Jha's ed. ten verses in the 3rd adhyāya are wanting - printed bhāsya corrupt in 8th, 9th and 12th chapters – reference to king Madana having restored Medhātithi's bhāsya explained - Dr. Jolly says Medhātithi was a southerner - this is wrong - He was a northerner and probably a Kashmirian - literature known to Medhātithi - smṛtis quoted by him-mentions Asahāya, Bhartsyajña, Yajvan, 
-
-Synopsis of Contents 
-
-xxix 
-
-Upadhyāya, Rju, Viṣṇusvāmin - Medhātithi saturated with Purva mimāṁsā - his bhāsya is full of the terms vidhi and arthavāda - he mentions several nyāyas for explaining Manusmṛti – his reference to Sāriraka explained - Medhātithi and Saṅkarācārya - Medhātithi names only a few Dharmaśāstra writers and does not quote any Smstikāra with the prefix bṛhat' or 'vrddha'- peculiar views of Medhātithi set out - wrote Smṛtiviveka from which he quotes verses in his Manubhāsya - date of Medhātithi – flourished between 825-900 A. D. 
-
-(PART II] 
-
-Sec. 65 Dhāreśvara Bhojadera 
-
-... pp. 585-591 
-
-Mitākșarā (on Yāj. 11. 135 and III. 24) mentions views of Dhāreśvara - Dharesvara is to be identified with king Bhojadeva of Dhārā - works on pumerous branches of knowledge attributed to Bhoja of Dhārā such as on Poetics, Rājamṭgāöka (on astrono my), a com. on Yogasūtras - Suddhikaumndi of Govindananda mentions Rājamārtaṇḍa of Bhoja on sraddha - Mitākṣarā and Dhāreśvara disagree on several points, e. g. on the question whether ownership was known from sāstra alone, on the meaning of .duhitarah'in Yaj. - on other points the two agree - Bhūpāla paddhati or simply Bhūpāla or rāja refers to a work of Bhojadeva - Bhujabalabhima of Bhojarāja quoted in Tithitattva and Ahnika tattva of Raghunandana as distinct from the Rājamārtaṇḍa - two works of Bhoja on Sanskrit poetics - inscriptional references to Bhoja - pedigree given in the Ujjain plate - Bhoja reigned from 1005-1054 A.D. - Dharmapradipa of Bhoja is the work of another Bhoja, who was son of Bharamalla and king of Aśāpura - it was written between 1400-1600 A. D. 
-
-Sec. 66 Devasvāmin : 
-
-... pp. 591-593 
-
-Said by Smṛticandrikā to have composed a digest of smṛtis - Nārāyana, commentator of Aśvalayanagshya, relies on bhāsya of Devasvāmin -- he composed a digest on ācāra, vyavahāra and asauca - Smsticandrika quotes his views on the meaning of Yautaka, on the meaning of duhitaraḥ in Yaj., on Manu 9. 141 - A Devasvāmin commented on Pārvamimāṁsāsūtras and on the 
-
-XXX 
-
-History of Dharmaśāsira 
-
-Saṁkarsakānda - difficult to say whether he is identical with the writer on dharmaśāstra - Devasvāmin flourished about 1000 1050 A. D. 
-
-Sec. 67 Jitendriya : 
-
-... pp. 593-595 He is frequently quoted by Jimūtavahana in his three works - Jitendriya held that the wives of a person whether separated or joint succeeded to their deceased husband - no early writer other than Jimõtavahana cites him - flourished between 1000-1050 A.D. 
-
-Sec. 68 Balaka : 
-
-... pp. 595-596 Mentioned by Jimūtavāhana, Sūlapāṇi, Raghupandana - seve ral views of Bālaka set out - flourished before 1100 A. D. 
-
-Sec. 69 Balarūpa : 
-
-... pp. 596–598 The opinions of Bālarūpa are cited in the Smstisāra and Vivādacandra - also in the Vivādacintamani – he wrote at least on vyavahara and Kāla - Bālaka and Balarūpa are probably identical – Būlarūpa is certainly earlier than 1250 A. D. - Vivādacandra once speaks of author of Bālarūpa ', suggesting thereby that Balarūpa was a work. 
-
-Sec. 70 Yogloka : 
-
-... pp. 598-599 Known only from works of Jimūtavāhana and Raghunan dana - Jimūtavahana only rarely agrees with him and generally criticizes him and taunts him with being a logician merely - Bṛhad Yogloka and Svalpa Yogloka - Yogloka wrote at least on vyava hāra and Kala - flourished between 950-1050. 
-
-Sec. 71 Vijñāneśvara : 
-
-... pp. 599-616 The unique position of the Mitakṣarā on account of being esteemed as of paramount authority by British Indian courts - the several names of the Mitaksarā - quotes a host of smsti writers and six predecessors as authors of commentaries and digests - noticeable features of Mit. - chary of quoting from Purāṇas -- men tions the views of many Smsti writers with the prefix brhat' or 
-
-• vpddha' e. g. Bṛhan-Manu, Vṛddha-Manu, Bṛhad - Vasistha, Vṭddha-Viṣṇu etc., particularly on asauca and prāyaścitta- personal 
-
-Synopsis of Contents 
-
-xxxi 
-
-history of Vijñāneśvara - profound student of pūrvamimāṁsā - date of Vijñānesvara – between 1100-1120 – Dr. Derrett's facile as sumption about Vijñāneśvara being a judge, based on the Mit. on Yaj. II. 4 not acceptable - criticism against Prof. R. Aiyangar who makes an hasty and biased remark about Mit. as referring in its concluding verses to Kalpataru of Laksmīdhara - out of many commentators of the Mitākṣarā three famous - peculiar doctrines of the Mitākṣarā – seems to have been author of Aśaucadaśaka also - several commentaries on Āśaucadaśaka by Harihara, Raghunātha and Bhattoji – Vijñāneśvara not the author of Trimsat-śloki - Nārāyaṇa, a pupil of Vijñāneśvara, wrote Vyavahāra-siromani. 
-
-Sec. 72 Kamadhenu : 
-
-Oi! 
-
-... pp. 616-622 
-
-An ancient digest not yet discovered - quoted by Kalpataru, Hāralatā, and other works - Gopāla, the author of Kamadhenu - Aufrecht's view that Sambhu is the author of Kamdhenu wrong - Sambhu is a nibandhakāra on dharma cited by Spisticandrik, and Hemādri -- Mr. Jayasval wrongly ascribes Kāmdhenu to Bhoja – probable date of Kamadhenu between 1000-1100 A. D. 
-
-Sec. 73 Halayudha : 
-
-... pp. 622-639 Several Halāyudhas - the first, the author of Kavirahasya and Mstasañjivani, flourished in the latter half of the 10th century - interesting features of Kavirahasya - another Halāyudha, the author of Brāhmana-sarvasva and four other works - personal history of this Halāyudha - patronized by Laksmanasena, king of Bengal - his literary activity to be assigned to the period of 1160 1200 A. D. - La. Sam. - voluminous literature on it - this Halā yudha is different from one who was a jurist - composed a work on law - meaning and exposition of the words Vyavahāra' and * Vivāda’ - yet another Halāyudha who composed a com. called Prakāśa on Kātyāyana's Sraddhakalpasūtra - he must have flouri shed before 1509 A. D. and later than 1150 A. D. - Halayudha, the author of Karmopadesini - earlier than 15th century. 
-
-Sec. 74 Bhavadevabhatta : 
-
-... pp. 639-652 Author of Vyavahāratilaka - and of Sambandhaviveka - also of Karmānuṣthānapaddhati or Desakarmapaddhati - contents of 'atter - another work is Prāyascittanirūpana - yet another work 
-
-xxxii 
-
-
-
-called Tautātitamatatilaka is concerned with elucidating Purvami māṁsā doctrines - Raghunandara criticizes Bhavadevabhatta's views several times, but also accepts his views many times - light on personal history of Bhavadeva in inscription at Bhuvaneśvara - he was a great builder of temples and tanks - explanation of the epithet 'Bālavalabhi-bhujanga' applied to Bhavadeva - authors and works quoted in Prayascitta prakarana - review of Bhavadeva's Śavasūtikasauca-prakarna ed. by Dr. R. C. Hazra - contents of savasūtikāvisuddhi-prakaraṇa - flourished between 1050-1150 A.D. - Bhavadeva and Pradipa - other authors on dharmaśāstra named Bhayadeva. 
-
-Sec. 75 Prakāśa : 
-
-... pp. 652–655 An ancient work on vyavahāra, dāna, śrādhda &c. - whether an independent digest is doubtful - was probably a commentary on Yājñavalkyasmṛti composed between 1000-1100 A.D. - Mahārṇava prakāśa, Smṛtimahārnava or Mahārṇava quoted by Hemādri are all Dames for the same work - probably Prakasa and Smstimahār navaprakasa are identical. 
-
-Sec. 76 Parijata: 
-
-... pp. 655-656 Several works on dharma end in Pārijāta - an ancient work called Parijata quoted by Kalpataru - it dealt with at least vyavaha ra, dana - composed between 1000-1125 A. D. 
-
-Sec. 77 Govindarāja : 
-
-... pp. 656-663 Wrote com. on Manusmṛti and a work called Smstimañjari - personal history of Govindaraja - he is not to be identified with king Govindacandra of Benares - Kullūka frequently criticizes Govindarāja - contents of Smstimañjari - date of Govindarāja bet ween 1000–1110 A. D. 
-
-Sec. 78 The Kalpataru of Lakṣmidhara : ... pp. 663-699 
-
-An extensive work which exercised great influence over early Mithila and Bengal writers - work divided into fourteen kāndas - their arrangement and contents - eleven kāndas edited by Prof. K. V. Rangaswami Aiyangar - presonal history of Laksmidhara - date of Kalpataru between 1125-1145 A. D. - passages in Kalpataru onSynopsis of Contents 
-
-xxxiii 
-
-vyavahāra are more or less identical with those of Mit. - Prof. Aiyangar's arguments for holding Mit. as knowing or relying upon Kalpataru not correct - Kalpataru, Manusmṛti and Yājñavalkya smṛti - Kalpataru has extensive size and wide range, but in quality it is inferior to Mit, and some other digests - passages of Devala in Aparārka and the Moksakānda of the Kalpajaru - composed in the realm of Govindacandra. 
-
-Sec. 79 Jimitavāhana : 
-
-... pp. 699-713 
-
-He is first of the three great Bengal writers on dharmaśāstra - only three works known, Kālaviveka, Vyavahāramātṛk, and Dāya bhāga - these three parts of a projected digest called Dharmaratna - object and contents of Kalaviveka - works quoted in Kalaviveka profound study of Pūrvamimānisā displayed therein - contents of Vyavahāramātska - works quoted in it - Dayabhāga most famous of his works and of paramount authority in Bengal on Hindu Law - contents of Dāyabhāga - doctrines peculiar to Dayabhāga - authors and works named in the Dayabhāga - personal history of Jimūtavāhana - his date - divergent views - literary activity lies between 1090-1130 A. D.- Did Jsmūtavāhana know the Mitākṣarā ? commentaries on Dayabhāga. 
-
-Sec. 80 Apararka: 
-
-... pp. 713-723 Wrote a voluminous commentary on Yājñavalkyasmrti - His tory of Silāhāras - three branches of this family - two kings called Aparārka or Aparāditya belonged to the branch that ruled in North Konkan - authors and works quoted by Aparırka - studi ously avoids naming his predecessors who were writers of digests peculiar views of Apararka - evidedce to show that Aparārka knew the Mitāksarā - date of Aparārak - Smrticandrikā criticizes Aparar ka - Aparārka was a Silāhāra prince - inscriptions of Silāhāras - commentary written about 1125 A, D. 
-
-Sec. 81 Pradipa: 
-
-... Pp. 724-725 An independent work on vyavahāra, śrāddha, suddhi and other topics - between 1100-1150 A, 1). 
-
-H. D.-E 
-
-xxxiv 
-
-
-
-Sec. 82 Smrtyarthasāra of Gridhara: 
-
-... pp. 725-727 Contents of - personal history of Gridhara - authors and works relied on as authorities - Sridhara probably composed another larger work - date between 1150–1200 A. D. 
-
-111 
-
-Sec. 83 Aniruddha : 
-
-... Pp. 727-730 An early and eminent Bengal writer - wrote Hāralatā and Pi trdayitā alias Karmopadesinipaddhati - contents of Hāralatā and of Pitrdayitā - authors and works named in them - personal history of Aniruddha - flourished in 3rd quarter of 12th century. 
-
-Sec. 84 Ballalasena and Lakṣmaṇasena 
-
-... pp. 730-735 
-
-Compiled at least four works, Ācārasāgara, Adbhutasāgara, Dānasāgara, Pratisthāsāgara - subjects dealt with in Dānasagara - Adbhutasāgara left incomplete and finished by his son Laksma nasena - Dānasāgara deals with 16 great dānas, eulogy of brāhma pas etc. and contains valuable information about the Mahābhārata and the Puranas - literary activity in 3rd quarter of 11th century, as Dānasāgara was composed in sake 1091 - Aniruddha was guru of Ballālasena. 
-
-8 
-
-S 
-
-Sec. 85 Harihara : 
-
-... pp. 735–737 A writer on vyavahāra - he flourished before 1300 A, D. Harihara composed commentary on Paraskaragrhyasūtra - this Ha rihara flourished between 1150 and 1250 A, D. - whether he was pupil of Vijñāneśvara - a Harihara comments on Āśaucadaśaka jurist Harihara probably identical with bhāsyakāra of Paraskara - several Hariharas known. 
-
-Sec. 86 Smrticandrikā of Devannabhatta: ... pp. 737-741 
-
-An extensive digest - printed text deals with saṁskāra, ācara, vyavahāra, sraddha and āśauca - he wrote on prāyascitta also name variously written - profusely quotes Smṛtikāras, 600 verses of Katyāyana alone on vyavahāra being quoted - authors and works named - author a southerner - contents - points in which Mitāksarā and Smrticandrikā differ - date between 1150 and 1225 A. D. several works named Smrticandrikā. 
-
-Synopsis of Contents 
-
-XXXV 
-
-1 
-
-Sec. 87 Haradatta : 
-
-... pp. 742-749 His fame high as a commentator - his Anākujā on Apastam bagļhya, Anāvilā on Asvalayanagshya, Mitāksarā on Gautamadhar masutra, Ujjvalā on Apastambadharmasūtra and a com. on the Ā pastambamantrapātha - explains grammatical peculiarities at great length - he was a southerner - great devotee of Śiva - tradition says Rudradatta and Haradatta are identical - Haradatta on wi dow's right of succession - interesting information from Haradatta date, a difficult problem - between 1100-1300 A, D. - Haradatta commentator of dharmasastra works, is identical with Haradatta, author of Padamañjari - Haradattācārya mentioned in Bhavisyotta rapurāṇa and Śivarahasya is probably the Haradattācārya cited in Sarvadarśanasamgraha - Hariharatāratamya and Caturvedatātpar yasaṁgraha are works ascribed to Haradatta. 
-
-Sec. 88 Hemadri: 
-
-... pp. 749–755 He and Madhava the two outstanding dākṣinātya writers on dharmaśāstra - his Caturvargacintamani is a huge work of an en cyclopædic character - projected to contain five sections - printed parts comprise vrata, dāna, śrāddha and kala - Hemādri a profound student of Purvamimamsā - predecessors named by him - personal history of Hemādri - his connection with Yadavas of Devagiri - genealogy of the Yadavas - Caturvargacintāmaṇi composed about 1270 A, D. - com. on Saunaka's Praṇavakalpa and a Sraddhakalpa according to Katyāyana are attributed to him - Vopadeva, a friend and a protege of Hemālri - references to Hemādri's work in grants. 
-
-E. 
-
-IHIL 
-
-LE 
-
-Sec. 89 Kullūkabhatta : 
-
-... pp. 756-759 A famous commentator of Manusmṛti - he drew largely upon Medhātithi's bhāṣya and Govindarājā - Sir William Jones on Kulluka - authors and works quoted by him - personal history - he wrote Smṛtiviveka, of which Aśaucasāgara, Srāddhasāgara and Vi vādasāgara were parts - contents of Sraddhasagara - this is full of Purvamīmāṁsā discussions - date of Kullūka uncertain - flourished between 1150-1300 A. D. Sec. 90 Śridatta Upādhyāya : 
-
-... PP. 759-763 One of the earliest nibandhakāras on dharmaśāstra from Mithi. lā - contents of Acārādarsa and authors quoted therein - his Chando 
-
-XXXVi 
-
-
-
-gāhnika - principal topics in it - works quoted in it - his Pit;bhakti.. authors quoted in it - his Srāddhakalpa - his Samayapradipa - con tents of the work - flourished between 1200-1300 A. 1)., probably about 1275-130J A. D. - hardly gives any information about him self or his fajmily - liberal enough to allow Vaiśvadeva to sūdras - another Sridattamiśra, a Maithila writer, who flourished towards end of 14th century. 
-
-LL 
-
-Sec. 91 Candeśvara : 
-
-... pp. 763-775 Most prominent among Maithila nibandhakaras - compiled ex tensive digest called Smstiratnākara in seven sections on dana, kstya, vyavabāra, śuddhi, pūjā, vivāda and gļhastha - contents of Kṛtya ratnākara, Gṛhastharatnākara, Dānaratnakara, Vivādaratnakara and other ratnākaras - he also compiled Kṛtyacintāmaṇi, the Rajanitiratnakara, Dānavākyāvali and Śivavākyāvali - contents of Rajanitiratnākara - he drew principally upon five viz. Kamadhenu, Kalpataru, Pārijāta, Prakasa and Halāyudha - authors and works quoted - Dr. Bhabatosh Bhattacharya's papers on Candeśvara personal history of Caṇdesvara - genealogy - he was minister of Harisimhadeva of Mithila and later of Bhaveśa and weighed him self against gold in 1314 A, D. - Karṇāṭa and Kameśvara dynasties - Vidyāpati, paternal cousin of Caṇdesvara - literary activity bet ween 1314-1370 A. D. 
-
-Sec. 92 Harinātha : 
-
-... pp. 775-777 Author of a digest called Smṛtisāra - names numerous autho rities - contents - flourished sometime between 1300-1400 A. D. several works styled Smstisāra. 
-
-Sec. 93 Madhavācārya : 
-
-... pp. 778-792 The most eminent of dakṣiṇātya writers on dharmaśāstra - two works on dharmaśāstra deserve special notice, viz. Parāśara Madhaviya and Kālanirṇaya - authors and works quoted in them - contents of Kalanirṇaya - published in 1889 and 1936 - Sayana, the minister under four kings viz. Bukka, Kampana. Sangama II and Harihara II - Father Heras' 196 inscriptions – life-sketch of Vidyāraṇya - Heras' conclusion that the ascetics of Syngerimath fabricated the story of Vidyāranya as the founder of Vijayanagar etc. and the opinion about Vidyaranya superfluous - the identity 
-
-Synopsis of Contents 
-
-xxxvii 
-
-of Madhavācārya and Vidyāraṇya - family and personal history of Madhavācārya - his brother Sayaṇa – Madhava founded Vijaya nagar in 1335 A. D. -Burnell's theory about the identity of Sayapa and Mādhava refuted by Narasimhachar - works of Madhavācārya - pedigree of Vijayanagar kings - Parāsara Madhaviya and Kāla nirṇaya were composed between 1340-1360 A. D. - literary acti vity of Madhava Vidyaranya between 1330-1385 A.D. - Fleet is wrong in identifying Mādhavanka with Madhavācārya - Madhava Vidyāraṇya different from Madhava Mantrin who was governor of Banavase and Goa – several commentaries of Kalanirṇaya. 
-
-Sec. 94 Madanapāla and Visveśvarabhatta: 
-
-... pp. 792-804 
-
-Four works attributed to Madanapāla, a great patron of learn ing like Bhoja, viz. Madanapārijāta, Smṛtimahārnava or Madana mahārṇava, Tithinirṇayasāra and Smṛtikaumudi - Madanapārijāta really composed by Visveśvarabhatta - contents of Madanapārijāta - its proposition with regard to kanina and secondary sons - its style simple and lucid - authors and works quoted in it - Mahārṇava ascribed to Māndhātā, a son of Madanapāla - princi pal topics of the work – Tithinirṇayasāra - Smṛtikaumudi deals with dharmas of sūdras - contents - all the above four works probably composed by Viśvesvarabhatta - Subodhini, com. on Mitāksarā by Visveśvarabhaatta is a leading authority in Benares school of Hindu Law - pedigree of Madanapāla - other works on astronomy and medicine attributed to Madanapāla – date of Madanapāla, between 1300-1400 A. D. - Madanavinodanighantu composed in 1431 of Vikrama era i. e. 1375 A. D. 
-
-Sec. 95 Madanuratna : 
-
-... pp. 804-809 
-
-An extensive digest on dharmaśāstra, variously styled – seven uddyotas of it on samaya, ācāra, vyavahāra, prāyaścitta, dana, śuddhi, śānti - contents of uddyotas on samaya, dana, and śānti – Dānoddyota published by the Sanskrit Academy in 1964 – subjects treated in Dānoddyota - D. C. Ms. dealing with Santi section - authors and works referred to in it - work composed under Madanasimhadeva, son of Saktisimbadeva – pedigree of the family - Madanasimha called together four learned men, Ratnākara, Gopinātha, Viśvanātha and Gangadhara, and entrusted compo 
-
-xxxviji 
-
-
-
-sition of work to them - Vyavahāra section edited by the present author - its contents - date of Madanaratna between 1350-1500, probably about 1400-50. 
-
-Sec. 96 Vidyāpati : 
-
-... PP. 810-815 Born in Bisapi, a village in north Bihar - fourth in descent from Dhireśvara, uncle of Candeśvara - Love songs of Vidyāpati - credited with the authorship of 12 works - he was believed to be a great Vaiṣṇava, while in Mithila he was held to be a Śaiva - he made Queen Viśvāsadevi's work Gangāvākyāvali faultless and supplied textual authorities in support of her propositions – there appears to be agreement about the date of his death viz. 1448 A. D. – he may be held to have flourished between 1360-1448 A. D. 
-
-Sec. 97 Vyavaharanirṇaya of Varadaraja : ... pp. 815-823 
-
-Vyavahāranirṇaya having no Mangala sloka at the beginning - one of the four South Indian works on Dharmaśāstra - Varada rāja's explanations often same as in the Mit. - on the whole Vy. N. a pedestrian performance - quotes many smstis, works and authors, but nowhere refers to Bhāruci - Varadarāja a puny figure in th matter of Mimāṁsā as against the Mit. – later than the Mit. - bu 
-
-certainly earlier than 1515 A. D. 
-
-Sec. 98 Sulapāṇi : 
-
-... pp. 823-840 An eminent writer on Dharmaśāstra from Bengal - Dipakali kā commentary on Yājñavalkya, his earliest work-holds archaic views on inheritance - his fourteen treatises ending in 'liveka' never mentioned as parts of his Smrtiviveka - Durgotsavaviveka is amongst his latest works - Srāddhaviveka is his most famous work - authors and works named by him -- Sambandhaviveka edited by Dr. J. B. Chaudhuri – Dolayātrūviveka of Sūlapāni - Dolayātrā, the festival of swinging, when to be celebrated – half of the work taken from Skandapurāṇa - Prayascittaviveka - printed with the com. Tattvārthakaumudi of Gorindānanda - etymology of the word 'prāyaścitta' - contents – works and authors quoted - Salapāṇi and Vacaspatimiśra - his Tithiviveka edited by Prof. S. C. Banerji and by Dr. J. B. Claudhuri - Caturangadipikā ed. by Mr. Mano Mohan Ghosh in 1936 - commentaries on Śrāddhaviveka - 
-
-Synopsis of Contents 
-
-xxxix 
-
-Śūlapāṇi hardly gives any information about himself - in colophons styled Mahāmahopadhyaya -- and also Sāhudiyān - probably came from some place called Sāhudi - flourished between 1365-1445 A. D. 
-
-Sec. 99 Rudradhara : 
-
-pp. 840-842 A Maithila writer -- wrote Sraddhaviveka, Suddhiviveka, Vra tapaddhati and Varṣakṣtya, the first being the most famous of his works - flourished between 1425-1460 A. D. 
-
-LILL 
-
-Sec. 100 Misarumiśra : 
-
-... pp. 842-844 Wrote Vivādacandra - contents - work composed under crders of queen Lachimadevi, wife of prince Candrasiṁha of Mithila - flourished about 1450 A. D. 
-
-Sec. 101 Vācuspatimiśra : 
-
-... pp. 844-854 
-
-The foremost nibandhakāra of Mithili - his Vivadacintāmaṇi of paramount authority on matters of Hindu Law in Mithilā - a voluminous writer - several works of his styled Cintamani on acara, āhnika, kṛtya, tirtha, dvaita, niti, vivada, vyavahara, suddhi, Śūdrācāra, śrāddha - works named by him - a group of his works ends in nirṇaya 'viz. Tithinirṇaya, Dvaitanirṇaya, Mahādānanir naya, Vivādanirṇaya, Suddhinirṇaya - he also contemplated writing seven works styled Mahārṇava on krtya, acāra, vivada, vyavahāra, dāna, śuddhi and pitryajña - other works of his - Śrāddhakalpa or Pit;bhaktitarangiṇi his last work - personal history of Vacaspati - connected with king Bhairava and his son Rāmabhadra - genealogy of Kāmeśvara kings - Vācaspati flouri shed between 1425-1480 A. D. - philosopher Vācaspati different. 
-
-Sec. 102 Dandaviveka of Vardhamana : 
-
-. pp. 854-860 First edited by Kamalakṭsna Smṛtitirtha - probably the only extensive extant Sanskrit work on the law of crimes and punish ments alone - cites Halāyudha 33 times - starts with the eulogy of * danda'-contents - Vardhamana wrote his Viveka in the reign of king Bhairava of Mithila - works and authors consulted by Vardhamana – his elder brother Gandakamisra, Śhaṅkara and Vacaspati were his gurus - !!e composed nine works - Vardhamana must have flourished some decades before 1496 A. D. 
-
-History of Dharmaśāsira 
-
-Sec. 103 Nșsimhaprasāda : 
-
-pp. 860-868 An encyclopædic work - divided into 12 sections called 'sara' - the author's name variously given as Dalapati or Dalādhisa -- personal history - writers and works named - contents of the work flourished between 1400-1510 A. D., probably about 1490 to 1510. 
-
-Sec. 101 Pratāparudradeva : 
-
-869-879 He was king of the Gajapati dynasty in Orissa and composed Sarasvativilāsa – pedigree and history of family - purpose and con tents of Sarasvativilāsa - works quoted - often points out the differences of opinion between Bhāruci and Vijñānesvara - cites in many places the explanations of certain sūtras and words of Viṣṇu 
-
-giving Bhāruci's interpretations thereof - quotes Varadarāja, Smsticandrikā - composed between 1497-1539 A. D. - Foulke's theory about date not acceptable - authorship of Sar. V. - goes to Lolla Laksmidhara acc. to Dr. Gode and Mr. R. Subrahmanyam - the Pratāpamārtaṇḍa or Praudhapratāpamārtaṇḍa of Pratāpa rudradeva. 
-
-Sec. 105 Dharmatattvakalanidhi or Pṛthvicandrodaya 
-
-Vyavaharaprakāśa : 
-
-... pp. 879-882 A large digest on Dharmaśāstra comprising several parts (prakāśas ), perhaps 16 as the word ' Kalānidhi', meaning moon, suggests - its 7th part Vyavahāraprakāśa quotes sūtrakāras, smṛtis, Puranas, Rāmāyaṇa, Mahābhārata, digests on Dharma śāstra – this Pșthvicandrodaya was composed in Bundelkhand and must be placed later than about 1375 A. D. 
-
-Sec. 106 Govindananda : 
-
-... pp. 882-889 Author of Dānakaumudi, Suddhikaumudi, Śrāddhakaumudi and Varsakriyakaumudi and a com. called Arthakaumudi on the Suddhidipikā of Srinivasa and a com. Tattvārthakaumudi on the Prāyaścittaviveka of Sūlapāṇi – son of Ganapatibhatta – protest against Dr. Bhattacharya about certain points - Govindananda was loose in giving the names of his own works – years with inter calary months - Kriyākaumudi and its authorship - two inaccurate statements of Dr. Haraprasad Sastri – literary activity between 1500–1540 A. D. 
-
-Synopsis of Contents 
-
-Sec. 107 Raghunandana : 
-
-... pp. 890-902 
-
-Last great writer of Bengal on dharmaśāstra - wrote an en cyclopaedia called Smstitattva in 28 sections – names over 300 authors and works -- 28 tattvas enumerated - other works besides these 28 - wrote also com. on Dayabhāga - personal history - authors and works quoted - attitude of writers towards women and sūdras - flourished between 1510-1580 A. D. - papers on Raghupandana - the Dharmaśāstra topics that assumed import ance in 16th cent. - internal evidence to establish the order of composition in Raghunandana's Tattvas - master in application of the Mimamsāsūtras and Nyayas. 
-
-Sec. 108 Nārāyanabhatta : 
-
-... pp. 903-907 The most famous member of the Bhatta family of Benares - personal history - born in 1513 A. D. - among his works are Antyestipaddhati, Tristhalisetu, Prayogaratna and com. on verses of Kalamadhava - literary activity between 1540-1570 A. D. - Nārāyaṇa author of Dharmapravștti different. 
-
-Sec. 109 Țodarānanda : 
-
-... pp. 907-914 An extensive encyclopaedia of civil and religious law, astro nomy and medicine - two parts on Sarga and Avatāras published by Dr. P. L. Vaidya - family and ancestors of Todarmal – work divided into 22 sections called saukhyas each saukhya being sub divided into harṣas - composed between 1572 A. D. to 1589 A. D. the year in which Todarmal died - extent - acccount of some saukhyas - Jyotiḥsaukhya composed in 1572 A. D. and other works useful for the history of Todaramalla - Dr. Vaidya's ascription of the authorship of Țodarānanda chiefly to Nārāyaṇabhatta not acceptable - Jyotiḥsaukhya composed by Nilakantha. 
-
-Sec. 110 Nandapandita : 
-
-... pp. 915-925 A voluminous writer on dharmaśāstra -- author of com. on Parāsarasmṛti and on the Mitāksarā of Vijñāneśvara - his Sraddha kalpalatā - his Suddhicandrikā, a com. on the Șadasiti - his work styled Smṛtisindhu and a summary of it styled Tattvamuktavali - his Vaijayanti, a com. on Viṣṇudharmasutra - his agreements and disagreements with Mitākṣarā – Dattakamimamsā, bis most 
-
-xlii 
-
-
-
-7 
-
-famous work - it is regarded by British Indian courts and Privy Council as a standard work on adoption - his views set out - personal history - he had various patrons - his thirteen works - Vaijayanti composed in 1623 A. D. – literary activity to be placed betwecn 1580-1630 A. D. 
-
-Sec. 111 Kamalakarabhatta : 
-
-... pp. 925-937 Grandson of Nārāyaṇabhatta - Personal history -- coniposed more than 22 works on several sastras - about a dozen works on dharmaśāstra, the Nirnayasindhu, Sūdrakamalakara and Vivāda tāndava being most famous – he meant all the works on dharma śāstra to be parts of a digest called Dharmatattva - contents of Portakamalakara, Santiratna, Vivādatāndava, Sūdrakamalakara and Nirnayasindhu - the last one of his earliest works composed in 1612 A. D. and so his literary activity lies between 1610-1640 A. D. - sometimes differs from Nārāyaṇabhatta - his interesting observations - Nirnayasindhu - its contents. 
-
-Sec. 112 Nilakanthabhatta : 
-
-WIEC 
-
-... pp. 937-941 
-
-Grandson of Nārāyaṇabhatta and son of Śhaṅkarabhatta - personal history - his work Bhagavantabhāskara divided into twelve mayūkhas composed in honour of Bhagavantadeva, Bundella chieftain -- also wrote Vyavahāratattva - estimate of his qualities as a writer - his Vyavahāramayukha is of paramount authority on Hindu Law in Gujerat, Bombay Island and North Konkan - his literary activity – flourished between 1610-1650 – divergence of views between the cousins Kamalakara and Nilakantha. 
-
-Sec. 113 The Viramitrodaja of Mitramiśra : ... pp. 941-953 
-
-Viramitrodaya, a vast digest composed by Mitramiśra on all topics of dharmaśāstra - sections called prakāśas - contents of the printed prakāśas on Laksana, āhnika, vyavahāra, tirtha, pūjā, sani skāra, rajaniti - highly controversial work - generally follows Vijñānesvara, but at times severely criticizes him - a work of high authority in Benares school of modern Hindu Law - Mitramisra also wrote a commentary on Yājsavalh yasmrti – personal history -- account and pedigree of his patron Virasimha - meaning of titleSynopsis of Contents 
-
-xliji 
-
-* Viramitrodaya' - his literary activity lay in the first half of the 17th century - twenty-two prakaśas and the subject-matter thereof, 
-
-Sec. 114 Anantadeva : 
-
-... pp. 953-563 
-
-Composed a vast digest called Smṛtikaustubha on sams kāra, ācāra, rājadharma, dāna, utsarga, pratișthā, tithi and saṁ. vatsara - Samiskārakaustubha is most popular work - contents of Saṁskārakaustubha -- portion of it on adoption called Dattaka didhiti - summary of important views on adoption - contents of Abdadidhiti and Rājadharmakaustubha - name Smrtikaustubha misleading - Smstikaustubha is really 'Abdadidhiti' or 'Samvatsara didhiti' - Anantadeva wrote several prayogas and also a drama 
-
-• Krsnabhakticandrika’ - pedigree of his patron's family - Anantadeva wrote at command of Baz Bahadurcandra - Ananta deva was great-grand-son of Ekanātha, a great Marathi poet and saint - his younger brother Jivadeva – literary activity between 1645–1695. 
-
-Sec. 115 Nāgojibhatta : 
-
-... pp. 963-967 
-
-His learning of an encyclopaedic character -- wrote standard works on grammar, dharmaśāstra, yoga, &c. - Aufrecht mentions 47 works as composed by Nāgojibhatta - wrote several works on dharmaśāstra - personal history - his patron Rāma of the Bisen family - pedigree of Bhattoji Diksita and Nāgoji's connection with Bhattoji - literary activity between 1700-1750 A. D. 
-
-Sec. 116 Balakrsna or Bālambhatta : 
-
-... pp. 968-974 
-
-Laksmīvyakhyāna or Balambhatti is a com. on the Mitāksarā of Vijñāneśvara - works and authors quoted - Balambhatti favours latitudinarian views about the rights of women - estimate of Balambhatti according to judicial decisions -- author of Bālam bhatti somewhat of an enigma - introductory verses about the authoress Lakṣmidevi - real author Bālakrsna, son of Vridyanatha Payagunda, who was a pupil of Nāgojibhatta - Balakrsna also wrote Upākstitattva, Dharmaśāstrasamgraha - Vaidyanatha, the commentator of Alamkāra works, different from Vaidyanātha Payagunda, the father of Bālambhatta – flourished between 1730-1820 A. D. 
-
-xliv 
-
-
-
-Sec. 117 Kasinātha Upadhyāya : 
-
-... pp. 974-978 Composed extensive work called Dharmasindhusāra – leading work in Deccan now on religious matters - authors and works mentioned therein - subjects of the work - personal history - his other works - Dharmasindhu composed in 1790-91 A. D. 
-
-Sec. 118 Jagannatha Tarkapañcanana : 
-
-... pp. 978-980 A digest got prepared by Warren Hastings - its Persian and English renderings - Vivādasārārnava compiled by Trivedi Sarvoruśarman - Among digests compiled under the British the Vivadabbangārṇava of Jagnnātha is the most famous - Colebrooke translated it in 1796 – topics treated of in it - Jagannatha died in 1806. 
-
-Sec. 119 Conclusion : 
-
-... pp. 980-981 Motives actuating writers on dharmaśāstra - their contribution to culture - their defects – their admirable and useful work. 
-
-Brief Note on Dharmaśāstra Works and Writers from Kamarupa ( i. c. Assam). 
-
-Namarupa ( 1. c. Assam ). 
-
-... pp. 981-984 
+Brief Note on Dharmaśāstra Works and Writers from [[Kamarupa ( i. c. Assam).|Kāmarūpa (i. e. Assam).]] ... pp. 981-984

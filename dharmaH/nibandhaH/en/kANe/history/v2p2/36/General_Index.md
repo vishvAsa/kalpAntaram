@@ -1,4734 +1,4022 @@
 +++
 title = "General Index"
-
+proofreader = [ "Gemini 4 Hydrogen",]
 +++
 
-GENERAL INDEX 
+[[P1279]]
+## GENERAL INDEX
 
-(N. B.-Full references to works and authors liko tbe Mababbarata, Mapa, Yajñavalkya that are quoted dozens of timos have not beon given. After the first dozen referonoos tbe attempt bas been gived up in such C4008. Tbo oply exceptions made are about loscriptions', Jaimidi', and Sabara', 
+(N. B.—Full references to works and authors like the Mahābhārata, Manu, Yājñavalkya that are quoted dozens of times have not been given. After the first dozen references the attempt has been given up in such cases. The only exceptions made are about 'Inscriptions', 'Jaimini', and 'Śabara'.)
 
-Abbe Dubois 20. Abda pūrti, & samskor& 106, 258mm 
+Abbe Dubois 20.
 
-260. Abhijit, 28th dakpatra, added beto woon Śravaṇa and Uttardṣadb, 
+Abdapūrti, a saṁskāra 196, 258-260.
 
-247. Abhiras, a casto 72–73, 262; are dig. 
+Abhijit, 28th nakṣatra, added between Śravaṇa and Uttarāṣāḍhā 247.
 
-tinct froni sudras according to Mahabbagya 72; history and ori gin of 72-73; modern Abirs 73; speech of abhiras was called Apa 
+Ābhīras, a caste 72-73, 252; are distinct from śūdras according to Mahābhāṣya 72; history and origin of 72-73; modern Ahirs 73; speech of ābhīras was called Apabhraṁśa 72.
 
-bbramba 72. Abbigecaniya, principal among the 
+Abhiṣecanīya, principal among the rites in Rājasūya, 1215; procedure of 1216-1218.
 
-rites in Rõjasūya, 1215; procoduro 
+Abhiṣikta, a caste 71.
 
-of 1216-1218. Abhiṣikta, a caste 71. Abbivadana (bowing to a person) 
+Abhivādana (bowing to a person) of three kinds 336; rules about 335-338; various modes, according as the person honoured knows pratyabhivāda 337-8.
 
-of throo kinds 136; rulos about 385-338; various modes, accord. ing as the person honoured knows 
+Abhyātāna, mantras 253n.
 
-pratya bhivada 337-8. Abhyatāna, mantra: 253n. Ablinga, versos 317n, 955. Acumuna (sipping water): before and after bhojana 316; Occasions for 316; procedure of, is of four kinds 658; rules about 315-316 652 ; tbros times in Sazódby& with three namos of Vippu 315; twice, Decoltary in somo casos 316; to be done with the brahma tirtha 316; Water for, in deve 
+Abliṅga, verses 317n, 955.
 
-puja 731. Lodradipakara, . Jaioa work 321, 
+Ācamana (sipping water): before and after *bhojana* 316; occasions for 316; procedure of, is of four kinds 653; rules about 315-316 652; three times in Saṁdhyā with three names of Viṣṇu 315; twice, necessary in some cases 316; to be done with the brāhma tīrtha 316; water for, in devapūjā 731.
 
-726. Aotra mayūkba 647, 6480, 648,675. Ackraretoa 667 D, 67% 1, 875, 7161, 
+Ācāradinakara, a Jaina work 321, 725.
 
-729 n, 10000. 
+Ācāramayūkha 647, 648n, 648, 675.
 
-Ācārya : compared with father and 
+Ācāraratna 657n, 672n, 675, 716n, 729n, 1000n.
 
-mother 323; dorivation of 323; for veda toaobing must ordinarily be a brūhmaga 326; greatness of 323, bigbest among all gurus 323; 
+Ācārya: compared with father and mother 323; derivation of 323; for veda teaching must ordinarily be a brāhmaṇa 325; greatness of 323, highest among all *gurus* 323; qualifications of 324-325.
 
-qualifications of 324-325. Adbrig upraiga 11210 ; Jainini ox 
+Adhrigupraiṣa 1121n; Jaimini explains many words in, 1121-22n; meaning of adhrigu 1121; some expressions in, are recited inaudibly 1121n.
 
-plaing many words in, 1121-220 ; meaning of adbrigu 1121; some ex prossions in, aro recited inaadi 
+Ādiparva 7, 41, 74, 88, 154n, 155n, 215, 322, 427n, 431n, 460, 501 &c.
 
-bly 1121n. Adiparva 7, 41, 74, 88, 154n, 1560, 
+Ādipurāṇa 95, 99, 784, 926.
 
-215, 322, 427m, 4310, 460, 501 &c. Adipurāga 96, 99, 784, 926. Adityadarsana, samo 48 nigkramı g& 
+Ādityadarśana, same as niṣkramaṇa 196;
 
-196; Adityadarkann, & com. of Kathaka. 
+Ādityadarśana, a com. of Kāṭhakagṛhya 228, 532.
 
-gibya 228, 682. Aditya purana 18, 78, 209n, 461. Aditya-vrata, for brabmacārin 371. Adopted: diotum of Menu that a, son 
+Ādityapurāṇa 18, 78, 209n, 451.
 
-does not take gotrs and wealth of gonitive father is restrioted to inheritance and druddha and door 
+Āditya-vrata, for brahmacārin 371.
 
-not oxtend to marriage 493. Adultery: abandonment of wife for, 
+Adopted: dictum of Manu that a. son does not take gotra and wealth of genitive father is restricted to inheritance and śrāddha and does not extend to marriage 493.
 
-allowed by sages in four 0830! ... 571; is upa pātaka according to Madu 572n; nothing so harmful to life 48, 567; punishinent for, ia caso of būdra wale 160; punish ment for, in case of brūhmaga nale 160; punisbment of wito for 570-71; rules as to husband's rights in case of wife's a. 572-73. Āgarna, works on 718. Agastya, gotra, divisions of 490; 
+Adultery: abandonment of wife for, allowed by sages in four cases ... 571; is upapātaka according to Manu 572n; nothing so harmful to life as, 567; punishment for, in case of śūdra male 160; punishment for, in case of brāhmaṇa male 160; punishment of wife for 570-71; rules as to husband's rights in case of wife's a. 572-73.
 
-Lopamudra, wife of $86. 
+Āgama, works on 713.
 
-1280 
+Agastya, gotra, divisions of 490; Lopāmudrā, wife of 586.
 
-History of Dharmatūsdra 
+[[P1280]] Aghamarṣaṇa 317, 661, 686, 955; a. hymn purifies a man 686.
 
-Aghamarga pa 317, 661, 686, 955; 6.1 draata a. 1000-1006; Srauta a. 998. 
+Āghāras 207; two, to Prajāpati and Indra ... 1051n.
 
-bymn parifies a min 686. 
+Aghāsika, a caste 102.
 
-1008; somewhat raro erop in ap Āgbaras 207, two, to Prajapati and 
+Āgneya-snāna 668.
 
-aient timos 979; timo of 979; time Indra ... 10510. 
+Agni (see also under fire, haviṣya), addressed under various names in different ceremonies 212, 818; ardhādhāna and sarvādhāna methods of maintaining Śrauta a. 919n; all three śrauta fires to be permanently maintained by those called 'gataśrī' according to some 999; brahmacārin had to offer fuel-stick twice every day in 307; called purohita 40; called gṛhapati in the Ṛgveda 418; gṛhya, worship of, from day of marriage 307; positions of the vedic fires 989; śrauta, could be kindled only by one who had attained a certain age 676; sviṣṭakṛt, offering to, at end of a rite 208, 211; two views about the necessity of kindling śrauta fires 676-677;
 
-of morning and evening Srauts 4. Agh Isika, a caste 108. 
+Agnicayana, meaning of 1246; procedure of 1247-1255; bricks of various sizes and names, how prepared 1248-49; altar in, how arranged 1249-53; observances for a year after performance of 1255.
 
-999-1000; underlying iden of, Agaeya-n&oa 668. 
 
-was that oblations thrown into firo Agai (see also under fire, havipya), 
+Agnihotra: cow identified with 1001; daily offered twice 998; daily homa is performed with cow's milk or *ājya* or cooked rice &c. 1001; deities to whom offered 681, 1003-1004; highly thought of in vedic times, but not obligatory on everybody 677; is the second of seven haviryajñas 998; kṣatriyas and a. 1006-7; lasts as long as life lasts 425, 676; lasts throughout life according to vedic passages 998; oblations in, of what corn 681; one who has lost his wife may perform 685, 1000; procedure of śrauta a. 1000-1006; śrauta a. 998-1008; somewhat rare even in ancient times 979; time of 979; time of morning and evening śrauta a. 999-1000; underlying idea of, was that oblations thrown into fire reach the sun, that sends rain, which produces crops, the sustenance of all beings 680; *upasthāna* of fire in 1006; whether *gṛhya homa* should precede or follow śrauta homa 1000; who is to milk the cow in a. 1001;
 
-roach the sun, that sends rain, addrossed under various dames in 
+Agnihotra-havaṇi, a *sruc* with which agnihotra is offered 1002n; was licked by the agnihotrin in ancient times 1005.
 
-which produces crops, the susto differont ceremonies 212, 818; 
+Agnihotrasthālī, vessel in which cow's milk for agnihotra is held 1002;
 
-nance of all beings 680; upasthana ardbadband and sarvadhana 
+Agnihotrin: had to offer twice daily oblations of clarified butter in śrauta fire 678; had to perform *saṁdhyā* in the house and for a very short time 313-314; a. has become very rare in modern times 678; many a. do not establish *sabhya* and *āvasathya* fires 992; rules for a. leaving his house for one night or longer or leaving along with wife 1007-8; should personally perform agnihotra every day, but must do so at least on parva days 1007;
 
-of fire in 1006; whether grhya methods of maintaining Srauta A. 
+Agnikula kṣatriyas, four principal classes of 382;
 
-homa should precedo or follow 9190; all threo srauta fros to be 
+Agnimāruta, last *śastra* in Agniṣṭoma 1196.
 
-Srauta homa 1000; wbo is to milk permanently maintained by those 
+Agnipurāṇa 73, 89, 90, 96, 215, 315n, 713, 725, 844n, 847n, 852n &c.
 
-the cow in &. 1001 ; callod 'gatasri' scoording to 
+Agnitanū formulae 994.
 
-Agnihotramba vadi, a sruc with which some 999; brabmac&rin bad to Agnihotra is offered 1002n; was offer fuel-stick twice overy day 
+Agniṣṭoma (see under 'avabhṛtha', 'sacrifices', 'soma', 'dīkṣita', 'pravargya', 'upasad', 'stotra', 'śastra', 'dakṣiṇā') 1133-1203; Āgnimāruta, last *śastra* in 1196; āgnīdhriya shed in 1155; *āhāvas* and *pratigaras* in 1179-1180; *ājyaśastra* 1180-1181; allowing acchā-[[P1281]]vāka priest to partake of soma in 1177-1178; anubandhyā rite 1200-1201; A. and Jyotiṣṭoma are often identified 1133; Ārbhavapavamāna chanted in 3rd pressing 1193; ātithyeṣṭi for hospitably receiving soma stalks in 1146; avāntaradīkṣā of sacrificer 1147; carrying fire from original āhavanīya to *uttaravedi* 1153; construction of *mahāvedi* 1152; *dadhigharma* in mid-day pressing 1187; dakṣiṇā homa 1188; Devikā offerings to Dhātṛ, Anumati, Rākā, Sinīvālī and Kuhū 1201; dhiṣṇyas, eight, prepared, six of which are in sadas 1156-57; dīkṣā takes place in afternoon 1138; dīkṣaṇīyeṣṭi 1136-1137; erection of *havirdhāna* shed 1154; even a king had to go through the form of requesting brāhmaṇas for grant of sacrificial ground 1135; five *savanīya* offerings on last day in 1163; four round holes called uparavas dug under shafts of southern cart 1154; Hāriyojana cup in 1197; *havis* of the limbs of *savanīyapaśu* offered in 3rd pressing of soma 1193; is one day sacrifice 1133; last day of, is called sutyā 1161; mahābhiṣava (great pressing of soma) described 1164-66; mādhyandina-savana described 1186-1192; mārjālīya shed in 1157; measurement of *mahāvedi* on 2nd *upasad* day 1152; *mindā* mantras recited towards end of 1198; model of all soma sacrifices 1133; *nihnava* (salutation) to Heaven and Earth in 1147; *nivid* in the first śastra in 1180; Pātnīvata cup 1194-1195; *pātras* required in soma sacrifice 1161n, 1162; pitch of the voice at several stages in 1137; prātaranuvāka recited in three parts by hotṛ on last day in 1162-1163; pravargya 1147-1151; prāyaṇīyā (opening) iṣṭi 1140; priest called *grāvastut* wears as a turban the cloth in which soma stalks were tied 1186; priests creep like hunters towards north corner of vedi when Bahiṣpavamāna stotra is to be chanted, 1167; purchase of king soma 1141; qualifications of priests in, 1134; reason why so called, 1134; ṛtu-grahas in, 1178; sacrifice of Agniṣomīya paśu on 4th day in, 1158, 1159; sacrificer has to cut his hair, pare his nails, brush teeth and subsist on milk in, 1135-36; sacrificer to go to king for a sacrificial ground in, 1134; sacrificer is given antelope horn for scratching body and a staff of udumbara, 1137-38; sadas, construction of, in, 1155; *savanīya* animal sacrificed on last day in, 1174; *savanīya* offerings of cake &c., 1174-1175; season for performance of, 1134; soma placed on a couch of udumbara wood, 1146; *stomabhāgas* repeated by brahmā, 1167; stones for crushing soma stalks, 1158; stotras are of two kinds in, pavamāna and dhurya, 1167; śukrāmanthi-pracāra in, 1175; tanūnaptra (solemn covenant) between priests and sacrificer after ātithyeṣṭi, 1146-1147; twelve śastras in, 1181-1182; udavasānīyā iṣṭi in, 1201; udumbara post planted in sadas, 1155-1156; *udayanīyā iṣṭi* at end of, 1200; *upasad* iṣṭi twice daily for three days in, 1151-52; Vaisarjina homa in which priests and sacrificer and wife touch each other and are covered with cloth, 1158; Vaiśvakramaṇa offerings in, 1190; Vasatīvarī water brought before evening on Agniṣomīya day, 1160; *vipruddhoma*, 1166n; waters, two kinds of, used in extracting soma juice in, 1164n; wife is girt up with *yoktra*, has hair covered with *jāla* and a piece of holy wood [[P1282]] to scratch her body with, 1138; wife of sacrificer has to undergo *apsu-dīkṣā* except cutting of hair, 1136; wife undergoes purification of body with bunches of darbha at the instance of pratiprasthātṛ, 1136; wife pours *pānnejana* water on her thigh at the chanting of yajña-yajñīya stotra in, 1195; Yajñāyajñīya stotra is last in, 1195.
 
-licked by the agnihotrin in in 807; called purobita 40; 
+Agnyādheya, 986-997; formulae in establishing vedic fires differed according to gotra and varṇa, 994n; A. is an iṣṭi, 986; A. is first of the seven haviryajñas of Gautama 986; meaning of, 987; occupies two days, 986; procedure of, 987; *sāmans* in, chanted inaudibly by brahmā priest, 996 and 996n; times for, 986-987.
 
-ancient times 1005. called gpha pati in the Rgvoda | Agnihotrastball, voasel in which 418; gļhya, worabip of, from day 
+Agrahāra, grant of land to brāhmaṇas, 869;
 
-cow's milk for agnihotra is hold of marriage 307; positions of the 
+Agrahāyaṇī, 829-831; one of the seven pākayajñas, 829.
 
-1002; vodio firoa 989; srauta, could be 
+Āgrayaṇa (offering of first corn), 827-829; also called 'navayajña' or navasasyeṣṭi, 827; prescribed in Śrauta sūtras for those who maintain vedic fires, 828, 1106-7; prescribed also for those who do not maintain vedic fires, 828; seventeen sāmidhenī verses in śrauta a. 1106; Vaikhānasa connects the pitṛs also with this rite, 829.
 
-Agaihotria: had to offor twice daily kindled only by one who had 
+Agriculture: an avocation common to all varṇas in later smṛtis 126n; allowed to śūdras as an avocation 121; condemned by Manu for brāhmaṇas 125; conflict of views among dharmaśāstras about allowing to brāhmaṇas 125; gambler's song in the Ṛgveda recommends a. 125; one should give up a. if unable to arrange for study and a. 125; restrictions on brāhmaṇas as to 124-126; oxen in, should be considerately treated by brāhmaṇa 125; study of veda tends to loss of, 125.
 
-oblations of clarified butter in attained a certain age 676; 
+Āhavanīya (fire), 989, 992; mound of, is square, 994n:
 
-frauta fire 678 ; had to porform sviptakst, offering to, at end of a 
+Ahiṁsā, a duty common to all beings, 10, 776; doctrine of, influenced by theory of karma and transmigration of souls, 776; insisted on, because of defilement supposed to be caused by flesh-eating, 776.
 
-sadbyd in the houso and for a 
+Ahīna, a species of soma sacrifices extending over more than one day, 1213-1214.
 
-vory sbort timo 318-314; a. bas rite 208, 211; two views about tho necessity of kindling srauta 
+Ahiṇḍika, a caste, 73.
 
-become very rare in modorn time: fires 676-677; 
+Āhituṇḍika, a caste, 102.
 
-678; many 8. do not ostablish Agnionyans, meaning of 1246; pro 
+Āhitāgni (one who has kindled vedic fires) is cremated with his sacrificial utensils 985n.
 
-sabhya and avasathya fires 992; oedure of 1247-1266 ; bricks of 
+Āhnika (daily duties and rites) 643 ff.; most important items of, are six, 646; principal matters falling under 646.
 
-rules for a, leaving his house for 
+Āhnika-prakāśa, 52n, 318, 647, 648n, 654n, 667n, 668n, 687n, 695, 700 &c.
 
-various sizes and namor, how 
+Āhnika-tattva, 643, 647n, 648n.
 
-one night or longor or leaving prepared 1248–49; altar in, how 
+Āhutis, procedure applying to all a. of ājya, 997n.
 
-along with wife 1007-8; sbould arranged 1249-53; obworva DOCS 
+Aikādaśina sacrifice, eleven animals are offered to eleven deities in 1132; thirteen *yūpas* are made or one yūpa may suffice 1132n.
 
-personally perform agnihotra for & year after performance of 
+Airiṇī-dāna, a rite subsequent to marriage, 537-538.
 
-every day, but must do so at least 1965. 
+Aitareya Āraṇyaka, 372n, 394, 406, 428n, 750, 758, 1245.
 
-on parva day: 1007; Agnihotra: cow identified with 1001; 
+Aitareya Brāhmaṇa, 13n, 15n, 29, 32n, 33, 34n, 35, 36, 37, 39n, 40, 46, 71, 213, 419 &c.
 
-Agnikula kpatriyas, four principal daily offorod twice 998; daily 
+Aitaśa, story of, in Ait. Br., 480.
 
-clasgos of 382 ; home is porformed with cow's milk 
+Aitaśāyanas, lowest among Bhṛgus, 480; most sinful among Aurvas, 480.
 
-Agnimāruta, last sastra in Agni or ajya or cooked rico &c. 1001; 
+Aiyer, Sir Śivaswamy, 4n.
 
-ptoma 1196. deitios to whom offered 681, 1003- Agoipurana 79, 89, 90, 96, 215, 316n, 1004; highly thonght of in vedio 
+Ajātaśatru, king of Kāśī, 38; expounded philosophy to Bālāki, 106.
 
-718, 726, 8441, 8470, 85ān &c. timos, but not obligatory on every 
+Ājya, is the material of *homa* when none expressly specified, 681, 986; ordinarily of cow to be used, but she-buffalo's ghee or sesame oil may be substituted, 1041n.
 
-Agoitanu formulao 994. body 677 ; is the second of seren Agniṣtoma (800' under avabbștha', ha viryajñas 998; kpatriyas and a. sacrifices', 'soma', dikqita ', 1006-7; lasts as long as lito lasts privargya', 'apasad', 'stotra', 425, 876 ; lasta throughout life Sastra,' dakṣiqd') 1183-1208; according to vodic passager 998; Āgnimāruta, last sastra in 1198 ; oblation, in, of what corn 681 ; Agnidhriya shed in 1166; ahdoas one who has lost his wife may and pratigaras in 1179-1180; djya perform 686, 1000; proooduro of ! dastra 1180-1181 ; allowing acohit 
+[[P1283]] Ājyabhāgas, 207n; in pūrṇamāsa are called Vārtraghna and in darśeṣṭi Vṛdhanvantau, 1060; two, 1059-1060; they are the eyes of yajña, 1059n; procedure of, 1060n.
 
-General Index 
+Ājyadoha, mantras, 372n.
 
-1281 
+Akṣayanīvī (permanent endowment), 860n.
 
-. veka priest to partake of doma in 
+Alberuni, work of, on India, 172, 363.
 
-1177-1178; anubandhya rite 1200-1201 ; A, and Jyotiptome aro often identified 1133; Arbbavapa vamena chanted in 3rd prossing 1193 ; atithyopṭi for bospitably roceiving some stalks in 1146; Qvaataradīkṣ& of sacrificar 1147; carrying fire from original abava niya to uttaravedi 1163; construction of mahavedi 1152; dadhigharma in mid-day pressing 1187; dokpiṇa homa 1188; Dovika offerings to Dbatr., Anumati, Raka, Sinivali and Kuhu 1201; dbipoyas, eight, prepared, six of which are in sadas 1156-57; dīkpd takes place in afternoon 1188; diksa a Ty osti 1136-1137 ; erection of havirdhana shed 1154 ; oven a king had to go through the form of requesting brahmanas for grant of sacrificial ground 1135 ; five gavenly. otier ings on last day in 1163; four round holos called uparavas dug under shafts of southorn cart 1154 ; Hariyojana cup in 1197 ; havis of the limbs of Bavaolyapasu offered in 3rd pressing of soma 1193; is one day sacrifoo 1133; last day of, is called sutya 1161; mahobbipava (great prossing of soma ) described 1164-66; mIdby andina-sa vada dosoribed 1186 1192; mūrjaliye sbod in 1167 ; measurement of mahavedi on 2nd upasad day 1162; minda mantras recited towards end of 1198; model of all soma sacrifices 1133 ; nihnava (salutation) to Heaven and Barth in 1147 ; nivid in the first dastra in 1180; Pātnivata cup 1194-1195; potras requirod in soms sacrifice 11610, 1162 ; pitch of the voice at several stages in 1137 ; pratar ou vtka reoitod in three parto by botṛ on last day in 1162-1163; pravargya 1147-1181; priyapiy: (opening ) iṣti 1140 ; priost called grāvastut 
+Altekar, Dr. A. S., 321n, 537.
 
-\#. D. 161 
+Alwars, 177.
 
-wears at & turban tho cloth in wbiob soma stalks wore tiod 1186 ; priests oroep like hunters towards north corner of vodi when Babisa payamina stotra is to be obante ed, 1167 ; purchase of king soms 1141 ; qualifications of priosto io, 1134 ; reason why so called, 1134 ; ftu-grabag in, 1178; saorifice of Agnipomiya pasu on 4th day in, 1168, 1159; sacrificar bas to out his hair, pare bis naila, brush teeth and subsist on milk in, 1135-36 ; sacrificer to go to king for a sacrificial ground in, 1134 ; sacrificer is given antelope born for soratohing body and a staff of udumbara, 1137-38 ; sadas, con struction of, in, 1165 ; savamiya animal sacrificed on last day in, 1174; davaniya offerings of cake &c., 1174-1175; season for per formance of, 1184 ; soma placed ont couch of udumbara wood, 1146; slomabhāgas repeated by brahma, 1167; stones for crusbing soma stalks, 1168 ; stotras are of two kinds in, payamana and dhurya, 1167; dakrimanthi-practra in, 1175; tanūnaptra (Bolema covenant) between priests and sacrificer after Atithyepṭi, 1146 1147; twelve sastras in, 1181-1182; udavasiniya iṣti in, 1201 ; udum. bara post planted in sadas, 1165 1156 ; udayaniyā isti at end of, 1200 ; upasad ieṭi twice daily for three days in, 1151-62 ; Vaisarjina homa in which priests and saori ficor and wifo touch each other and are covered with cloth, 1168 ; Vaidvakramapa offerings in, 1190; Vanatsvarī wator brought boforo evening on Agnipomiy. day, 1160 ; vipruddhoma, 1166n; waters, two kinds of, used in extracting soma juice in, 1164n; wife is girt up with yoktra, ha, hair covorod with jala and a pioco of holy wood1282 
+Amarakaṇṭaka, throwing oneself from peaks of, eulogised in Matsyapurāṇa, 925;
 
+Amarakośa, 73, 78, 79, 80, 82, 84, 98.
 
+Ambaṣṭha, 53, 71-72; *anuloma* caste, 53, 71; avocations of, 71-72.
 
-to sorstcb her body witb, 1138; wife of sacrificer has to updorgo apsu-dikga except outting of hair, 1136; wifo undorgoos purification of body with bunches of darbha at the instance of pratipresthat, 1136 ; wife pours pānnojana water on her thigh at the chanting of yajña-yajñiya stotra in, 1195 ; Yajõby ajñiga stotra is last in, 
+Ambaṣṭhya, a king, performed aśvamedha 71.
 
-1195. Agayadboya, 986-997; formulae in 
+Ambikā, described as sister of Rudra, 213n, 1104; mother of Gaṇeśa in Yāj. 214.
 
-establishing vedio firos differed According to gotra and varṇa, 9940 ; A. is an ipti, 986; A. is first of the seven baviryajñas of Gautama 986 ; meaning of, 987; occupies two days, 986 ; procedure of, 987 ; samans in, chanted in audibly by brabm& priost, 996 and 
+Āmikṣā (same as payasyā), 1092n.
 
-996n ; times for, 986-987. Agrabara, grant of land to 
+Anadhyāyas (days of cessation from Veda study), 393-402; ākālika, 399; a. and brahma-yajña, 394, 401; for brahmacārin for a lesser number of days, 400; a. lasting for one whole day, 398; lasting only for a portion of the day, 397-398; lasting for three days, 398, 399; lasting for twelve days or more, 400; nitya a. 402; occasions of, stated in Śat. Br. and Tai. Ār., 394; of three kinds, 400-401; on death of king, upādhyāya, fellow-student, 398-399; revolving in mind of Veda allowed even on a. days, 401; rules about a. apply only to learning veda and not to its use in religious rites, 401; tātkālika, 396; *tithis* of, 395; vedāṅgas and śāstras could be studied on a. days, 401-402.
 
-brabmanas, 869; Agrahāyaṇī, 829-831; one of the 
+Ānandagiri, 944.
 
-seven pakayajõus, 829. Agrayana ( offering of first corn). 827-829; also called 'Davayajāa' or na vagasy epṭi, 827 ; prescribed in Brauta sūtras for those who maintain vodic fires, 828, 1106-7; prescribed also for thoso who do not maintain vedio fires, 828; seventeen smidheni versos in 
+Anantadeva, author of Saṁskārakaustubha, 201n.
 
-125; study of voda tonds to lose 
+Anavalobhana, 196, 220-221; a part of puṁsavana rite, 220; same as garbharakṣaṇa.
 
-of, 125. Abavaniya (fire), 989, 992; mound 
+Andhra, caste, origin and avocation of, 69.
 
-of, is square, 9940: Abirns, a duty common to all beings, 
+Andhras, associated with *Pulindas* in Rock Edict of Aśoka, 69; Viśvāmitra's sons became, 47.
 
-10, 776; doctrine of, ipfiuenced by thoory of karms and transmi gration of douls, 776; insisted on, because of defilemeat supposed to 
+Andhras, founder of dynasty of, is said to have been a śūdra, 1238.
 
-be caused by flesh-eating, 776. Abina, & species of soma saorificos 
+Aṅgiras, smṛti of, 70n, 89, 134, 153, 168, 171, 174n, 194, 310, 358n, 438 &c.
 
-extending ovor more than one 
+Āṅgirasa, mantra called, is Ṛg. IV. 40.5., 378n.
 
-day, 1213-1214. Ahiṇdika, a caste, 73. Abilondika, a caste, 102. Abitāgni (one who has kindlod 
+Āṅgirasa, story of, who addressed his ancestors as 'boys' when he taught them, 345.
 
-vedio fires) is cremated with his 
+Aṅgirogaṇa, divisions and sub-divisions of, 490.
 
-sacrificial utensils 986n. Abnika (daily duties and rites ) 643 
+Anglican church, hierarchy of Archbishops, bishops &c. 118; Thirty-nine Articles of, 117n.
 
-ff.; most important items of, are six, 646; principal mattore falling 
+Aṅguttara-nikāya, a Pāli work, 831.
 
-under 646. Āhnika-prakıda, 52n, 318, 647, 648n, 
+Animals, not proper for being sacrificed, 773; sacrificial, are horse, ox, goat and ram, 773.
 
-654n, 667n, 668n, 6871, 696, 700 &c. Ahnika-tattva, 643, 6470, 648n. Abutis, procedure applying to all a. 
+Annaprāśana, a saṁskāra, 196, 256-258.
 
-of jya, 997n. Aikadasina sacrifico, eleven ani mals are offered to eleven deitios in 1132; thirteen yūpas are made 
+Anniversary, of birth of a child, every month or year, 258; of the day of marriage, 259.
 
-or ono yupa may suffice 1132a. Airiñi-d&a, & rite subsoquent to 
+Antelope (vide under *yajña*), country of black, associated with spiritual eminence, 14; skin has been a symbol of vedic culture and holiness, 1026n.
 
-marriage, 537-538. Aitareya Aranyaka, 372n, 394, 406, 
+Antya, applies to all lowest castes, 69-70.
 
-428n, 750, 758, 1245, Aitareya Brahmaga, 131, 15n, 29, 
+Antyaja, applied to all lowest castes like cāṇḍālas, 70; is one who eats cow's flesh according to Veda-Vyāsa, 71; most a. castes are no longer untouchable, 173; seven kinds of, enumerated in some smṛtis, 70; soldiers referred to in Mahābhārata, 70; touch of many castes of, did not require a bath for purification, 171; two groups [[P1284]] of, distinguished by Mitākṣarā 70; twelve kinds of, mentioned by Veda-Vyāsa, 71.
 
-32n, 33, 340, 35, 36, 37, 39n, 40, 
+Antyāvasāyin, 70, 71; lowest group of antyajas according to the Mitākṣarā, 70; Manu distinguished between antya and antyāvasāyin, 71; is modern Dom, 71; origin of, 71; stays in a cemetery, 71.
 
-46, 71, 213, 419 &0. Aitasa, story of, in Ait. Br., 480. Aitas&yanes, lowest among Bhrgus, 
+Antyeṣṭi, a saṁskāra, 197.
 
-480; most ainful among Aurvas,480. Aiyer, Sir Śivaswamy, 40.. Ajātasatru, king of Kadi, 38; expoun 
+Anubandhyā, rite of offering barren cow after Udayanīyā iṣṭi, 1200-1201; now āmikṣā offered instead, 1201.
 
-ded philosophy to Balaki, 106. Ajya, is the material of homa when 
+Anucara, of three verses, 1190n.
 
-none expressly specifiod, 681, 986; ordinarily of cow to be used, but sho-buffalo's ghoo or sesame oil may bo substituted, 10418. 
+Anukramaṇī of the Ṛgveda, 221n, 487n.
 
-WU 
+Anuloma (see under 'caste' and 'marriage') castes six, 53, 57; entitled to upanayana and other saṁskāras of dvijas, 53; marriage, approved by Gautama and many others, 53; meaning of, 52; status of children of anuloma marriages, 55-56; theory of anuloma castes, 52-53; theory of pratiloma castes, 53.
 
-noots the pitfs also with this 
+Anumati, iṣṭi for, in Rājasūya, 1215.
 
-rite, 829. Agriculture: an avocation common 
+Anupravacanīya, sacrifice after part of Veda is learnt, 283.
 
-to all vargas in later smṛtis 126 n; allowed to gudras as an ayocation 121: condemned by Manu for brahmadas 125; oon fliot of views among dharmadistras about allow. ing to brahmanas 125; gambler's song in the Rgveda recommands 1. 125; one sbould give up a. if unable to arrange for study and a, 125; restrictions on brxbmaga: ad 
+Anurūpa, a triplet in a śastra, 1186.
 
-to 124-126; oxen in, should be 
+Anus, tribe of, 39.
 
-· considerately treated by brahma na 
+Anuśāsana-parva, 2n, 7, 10n, 56n, 59, 60, 63n, 66, 71, 73, 77, 81, 86, 88, 92, 100n, 313n, &c.
 
-General Index 
+Anuvāda, 289.
 
-1283 
+Anuvākyā (same as puronuvākyā).
 
-Ajyabhagas, 207n; in pūrṇamisa 
+Anuyājas (offerings subsequent to principal ones), are three in darśapūrṇamāsa, 1057n, 1071n; deities of, 1057n, 1071n.
 
-are called Vartraghna and in dar- Besti Vṛdhanvantau, 1060; two, 1059–1060; they are the eyes of yajña, 1059a; procoduro of, 
+Anvāhāryapacana, a name of dakṣiṇāgni, 989n.
 
-1060a. Ājyadoha, mantras, 372n. Akpayanivi (pormanent codow- 
+Anvārambhaṇīyā iṣṭi, 1010 and n.
 
-mont), 8600. Alberuni, work of, on India, 172, 363. Altekar, Dr. A. S., 3210, 537. Alware, 177. Ainarakantaka, throwing onosolf 
+Anvaṣṭakā day, 794; surā offered on piṇḍas for female ancestors in, 794.
 
-from peaks of, eulogised in 
+Āpad (distress), dharma for brāhmaṇas in, 118ff; several means of maintaining oneself in, 129-130; ten means of maintaining oneself in, given by Manu, 129.
 
-Mateya purna, 925; Amarakośa, 73, 78, 79, 80, 82, 
+Aparārka, 6n, 15, 54, 56, 63n, 72, 76, 78, 150, 277n, 280 &c.
 
-84, 98. Ambaptha, 53, 71-72; anuloma caste, 
+Āpastamba, dharmasūtra of, 1, 7, 34, 35, 44n, 52, 197, 212n, 259n, 269, 270n, 258, &c.
 
-53, 71; avocations of, 71-72. Ambapthya, a king, performed asva 
+Āpastamba, gṛhya-sūtra of, 195, 196, 203, 207n, 233, 234, 235, 275, 276, 279, &c.
 
-inedba 71. Ambika, described 48 sister of 
+Āpastambīya-mantra-pāṭha, 219, 221, 223, 224n, 228, 234, 235, 253n, 257, 263n, 268, 272 &c.
 
-Rudra, 213n, 1104; mother of 
+Āpastamba, śrauta-sūtra of, 46, 211n, 386, 401, 642n, 679, 684, 919n, 989n, 999, &c.
 
-Gapoda in Yāj. 214. Amikṣā (samo 48 payasym), 1092n. Anadbylyas (days of cessation from 
+Āpastamba, smṛti of, in verse, 7n, 80, 96, 126, 326n, 451, 790.
 
-Veda study), 393-402; akalika, 399; , and brahına yajña, 394,401; for brabmachriu for a lessor num 
+Āpīta, a caste, 72.
 
-ber of daye, 400; a, lasting for one 
+Appayadīkṣita, 917.
 
-· whole day, 998; lasting only for 
+Apprentice, system of, for learning *śilpas*, 365.
 
-& portion of the day, 397-398; lasting for three days, 398, 399; Jasting for twelve days or moro, 400; nitya &. 402; occasions of, stated in Sat. Br. and Tai. Ār., 394 ; of three kinds, 400-401 ; 00 death of king, upadbydya, fellow. student, 398-399; rovolving in mind of Voda allowed oven on a. days, 401; rules about a, apply oply to learning rods and not to its use in religious rites, 401; tatkalika, 396; tithis of, 396; vedtāgas and distras could be stu 
+Āprī, derivation of, 1118n; persons of Śunaka and Vasiṣṭha gotras should repeat their own Āprī hymn, while others should employ Ṛg. X. 110, 1118; second *prayāja* deity is either Tanūnapāt or Narāśaṁsa, 1118; ten Āprī hymns in Ṛgveda, 1118; two meanings of, 1118n; A. verses are used as yājyās in making prayāja offerings in paśubandha, 1118.
 
-died on e. days, 401-402. Ārandagiri, 944. Anantadova, author of Samskara 
+Āptoryāma, a soma sacrifice, 1206.
 
-kaustubha, 2010. 
+Aratni, a measure of length, 209 and n.
 
-Anavalobhada, 196, 220-221; a part of puṁsavana rito, 220; samo da 
+Āraṭṭaka, country of, 16; sojourn in, made one liable to undergo expiation, 16.
 
-garbharakṣana. Andhra, ceste, origin and avocation 
+Ārbhava-pavamāna, chanted in evening pressing of soma. 1193.
 
-of, 69. Andhras, associated with Pulindas 
+Ārdrākṣatāropaṇa, is among the last ceremonies of marriage, 536.
 
-in Rook Edict of Asoka, 69; 
+Aristotle, 9.
 
-Viśvamitra's sons bocamo, 47. Andhras, founder of dynasty of, 
+Arjuna, secret name of Indra, 241.
 
-is said to have been a sūdra, 1238. Angiras, smṛti of, 70n, 89, 134, 163, 
+Arjuna, is said to have been intoxicated with wine, 795-796; one of the Pāṇḍavas, is charged with [[P1285]] marrying his maternal uncle's daughter, 459-60; met death in battle with his son Babhruvāhana but was brought back to life by Ulūpī, 1238.
 
-168, 171, 1740, 104, 310, 3580, 438 
+Arkavivāha, man who loses two wives by death goes through this rite before marrying a third, 546.
 
-&o. Angirasa, mantra called, is Ṛg. IV. 
+Arrian, says that Indian dress was made of cotton, 670.
 
-40.5., 378n. Angirala, story of, who addressed 
+Ārṣa, form of marriage, 517.
 
-bis ancestors as 'boys' wbon bo 
+Artha, a goal of human life, 8.
 
-taught them, 345. Angirogape, divisions and sub-divi 
+Arthaśāstra (vide under Kauṭilya), 9, 67n, 183, 266n, 645.
 
-sions of, 490. Anglican cburoh, hierarchy of Arch 
+Arthavāda, 1044n; an a. text may be construed as a vidhi according to Jaimini, 463.
 
-bishops, bishops &c. 118; Thirty 
+Arundhatī, 531; star of, to be shown to bride in marriage rites, 530.
 
-nino Articles of, 117a. Aiguttara-nikaya, & Pali work, 831. Animals, not proper for being sacri 
+Aruṇmukha, name of certain yatis killed by Indra, 419.
 
-foed, 773; sacrificial, are borse, ox, 
+Ārya, child, cannot be reduced to slavery by his father according to Kauṭilya, 508.
 
-goat and ram, 773. Annapraśana, a samskāra, 196, 256 
+Aryan, culture, centre of, in Ṛgvedic times, 11-12;
 
-258. Anniversary, of birth of & child, 
+Aryan, culture, centre of, in Brāhmaṇas, 12.
 
-every month or year, 258; of tho 
+Āryas, and dāsas formed opposing camps, 25; had internecine quarrels even in Ṛgveda times, 27.
 
-day of marriago, 259. Antelope ( vide under yajña), coun 
+Āryāvarta, extent of, differed at different periods and according to different writers, 11-15; and black antelope, 13; countries outside Ā. not to be visited except on pilgrimage, 18; what countries beyond pale of, 15-16.
 
-try of black, associatod with spiri tual eininence, 14 ; skia has beon & symbol of vodio culture and 
+Āśauca, (impurity on birth or death), less for brāhmaṇas than for others, 153.
 
-holiness, 10260. Antya, applies to all lowest 0&stos, 
+Ascetic, apostate from order of, became a slave of the king, 185-186; apostate from order of, to be branded and banished, 186; highly eulogised as a guest, 754; was required by Vasiṣṭha to take even flesh in śrāddha and rites for gods, 777.
 
-69-70. Antyaja, appliod to all lowest castos 
+Asceticism, features of, are common to all religions, 975; several aspects of, 975.
 
-like okndalas, 70; is one who onts cow', flesh according to Veda Vydna, 71; most &. gastos are no longor untouchable, 173 ; 8OVON kinds of, enamoratod in somo smrtis, 70; soldiors roferred to in Mababbarata, 70; touch of many castes of, did not require a bath for purification, 171 ; two group. 
+Asiknī, river in Ṛg., 12.
 
-1284 
+Aśoka, constructed wells on roads and planted mango and banyan trees, 894; enjoins kind treatment of slaves, 183; established hospitals for men and beasts, 4n; forbade the killing of certain birds and animals, 778; inscribed on stone virtues he most prized, 10; on flesh-eating, 778; Rock edicts of, 69, 113; refers to Yonas, 93.
 
+Āśramas (see under brahmacarya, householder, saṁnyāsa) 416; all four mentioned in Jābālopaniṣad, 421; earliest reference to, probably in the Ait. Br., 420; features characteristic of each of four, 937; Kapila, an asura, is said by Baud. Dh. S. to have started system of four, 417; difference between theories of varṇas and āśramas, 423; no ā. superior to others, according to Āp. Dh. S., 425; number of, 416; saṁnyāsa mentioned in Muṇḍakopaniṣad, 421; śūdra could take only to householder's stage, 163, 924; theory of Manu and others about, 417-418; three ā. clearly referred to in Chān. Up., 420, 422-24; three different points of view about, 424-426; various names for the last āśrama, 417; what duties common to all, 6; word ā. does not occur in Vedic Saṁhitās or Brāhmaṇas, 418.
 
+Āśrama-dharma, meaning of, 3.
 
-of, distinguished by Mitikpark 70; twelvo kinds of, mentioned by 
+Āśramavāsiparva, 10n, 498, 869, 923, 945.
 
-Voda-Vysa, 71. Antydvalgyio, 70, 71; lowest group 
+Aṣṭakā days, 398; killing of cows in, 776.
 
-of antyajas according to the Mitekpard, 70; Manu distinguigbed between antys and antydvasāyin, 71; is modern Dou, 71 ; origin of, 
+Aṣṭāṅgasaṁgraha, of Vāgbhaṭa, 656n, 735.
 
-71; stays in a cennetery, 71. Antyesti, a tamskara, 197. Apubandhya, rite of offering barren cow after Udayanly& iṣti, 1200. 1201 ; now Imikpā offered instead, 
+Aṣṭāvakra, com. of Mānavagṛhya, 440, 817.
 
-1201. Apucara, of tbroe verses, 1190n. Anukramapr of the Rgveda, 2211, 
+[[P1286]] Astrology (see under *kūṭas*): consideration of, led to abandoning a child if born on certain conjunctions, 237; details of, entered in all rites, 204; in Upanayana, 277; in marriage, 513-515; predictions of a. from the time of birth, 236; to be consulted in marriages only if girl is not more than ten years old, 513.
 
-487n. Anuloma ( 898 under caste' and 
+Āsura, form of marriage, 517, 519; form, essence of, is monetary consideration for giving the girl received by father or guardian, 525; Ṛgveda and Nirukta refer to ā. form, 525.
 
-marriage') castes six, 53, 57; entitled to upana ya da and other samsktras of dvijas, 53; marriage, approved by Gautama apd mapy others, 53; meaning of, 52; status of cbildren of anuloma marriagos, 55-56; theory of apuloma castes, 52-53; theory of pratiloma castes, 
+Asura, meaning of, in Ṛgveda, 25.
 
-maintaining oneself in, 129-130; ten moans of maintaining oneself 
+Āśvalāyana, water offered to, in tarpaṇa, 691.
 
-in, given by Maou, 129, A parārka, 6n, 15, 54, 56, 630, 72, 76, 
+Āśvalāyana-gṛhya-kārikās, of Kumārila 222.
 
-78, 150, 277n, 280 &o. Apustamba, dhurmusutra of, 1, 7, 
+Āśvalāyana-gṛhya-pariśiṣṭa 210, 533, 891, 896.
 
-34, 35, 449, 52, 197, 212n, 250n, 
+Āśvalāyana-gṛhya-sūtra, 78, 196, 197, 201n, 207, 221, 274, 276, 278, 279 &c.
 
-269, 270n, 258, &c. A pastomba, gihya-sūtra of, 195, 196, 
+Āśvalāyana-śrauta-sūtra 74, 252, 430, 480, 491, 828, 919n, 999n, 1001, 1003 &c.
 
-203, 2070, 233, 234, 235, 275, 276, 
+Āśvalāyana-smṛti, in verse 370, 769.
 
-279, &o. Apastambiya-mantra-patha, 219, 221, 
+Aśvamedha, dialogues and abuse in 1234-35; fees in 1236-37; historic instances of performance of 1238-39; mentioned even in the Ṛgveda 1228-1229; performed by ancient kings 978, 1229; performer of, got rid of all sins, even of brahmahatyā 147, 1236n; procedure of 1229-1236; sin removed by persons bathing in the water in which the king bathed at the end of Aśvamedha 1236; yūpas were 21 in, 1233.
 
-223, 224n, 228, 234, 235, 253n, 257, 
+Āśvamedhikaparva 72, 77, 88, 361, 439, 562, 643, 645, 710, 847n, 923 &c.; describes Aśvamedha at great length 1237-38.
 
-263n, 268, 272 &c. Āpastamba, brauta-sutra of, 46, 211n, 
+Aśvapati Kekaya, declared that in his kingdom there were no thieves, no drinkers of intoxicants &c. 794; taught [[vaiśvanaravidyā|vaiśvānaravidyā]] to five brāhmaṇas 106, 273.
 
-386, 401, 6420, 679, 684, 9190, 
+Aśvasūkta 1006.
 
-9890, 999, &c. Āpastamba, smrti of, in rerne, 7n, 
+Aśvattha, marriage with, for averting ill-luck for a girl 546; Vṛddha-Gautama identifies with Kṛṣṇa 895
 
-80, 96, 126, 326n, 451, 790. Apita, & custe, 72. Appayadikpita, 917. Apprentice, system of, for learning 
+Aśvatthāman, a brāhmaṇa warrior 123; a *cirajīvin* 648.
 
-silpas, 365. Āpri, derivation of, 1118n; persons of 
+Āśvayujī, one of the seven pākayajñas 826-827.
 
-$nuaka aud Vasiptha gotrus should Lopeat their own Apri hymn, while others shonld om ploy Rg. X, 110, 1118 ; second prayāja deity is either Tagūnapt or Nurīdainsa, 1118; ton Apri hymns in Rgveda, 1118; two meanings of, 11180 ; A. verses are used as yðjyds in mnak ing prayðja offorings in pasuban dha, 1118. A ptoryāma, a soma sacrifice, 1206. Aratni, a measure of length, 209 
+Āśvika, a caste 73.
 
-and o. Aruttaka, country of, 16; sojouro 
+Āśvinaśastra in Atirātra 1203.
 
-in, mado one liable to undergo 
+Aśvins 439; bestowed husband on Ghoṣā who was growing old 439.
 
-expiation, 18. Arbhava•pavamīda, cbanted in 
+Aṭhaṅguḷeṁ, a modern rite in the Deccan resembling Sīmantonnayana 226.
 
-evening proasing of soma. 1193. Ardrakpatāropapa, is annong the last 
+Atharvaveda 37, 41, 43, 201, 202n, 203n, 218, 221n, 247n, 263n, 270, 386, 419, 435 &c.; Śaunakīya recension of Atharvaveda has a different beginning 902n.
 
-ceremonies of warriage, 536. Aristotlo, 9. Arjuna, seoret name of Indra, 241. Arjunı, is said to bave been intoria 
+Atharvāṅgirasaḥ, as subject of study in Śatapatha Br. 353.
 
-oated with wino, 795-796; ono of the Pandavas, is charged with 
+Atheists, touch of, required bath for purification 169, 664.
 
-53. 
+Atirātra, a form of soma sacrifice 1203; Saṁdhistotra in, 1203.
 
-Anumati, inti for, in Rajagūya, 1216. AnupravacanIya, sucrifice after part 
+Ātreya, quoted by Bharadvājagṛhya 203.
 
-of Voda is learnt, 283. Anurūpa, a triplet in a dastra, 1186. Apus, tribe of, 39. Auusasana-parvu, 20, 7, 10a, 66n, 
+Atri, smṛti of 6n, 69, 85, 89, 105, 113, 119, 126n, 130, 157n, 173, 174n, 189, 312 &c.; gotra, subdivisions of 490.
 
-59, 60, 63n, 66, 71, 73, 77, 81, 86, 
+Ātura-saṁnyāsa, procedure of, for those who are very ill 963.
 
-88, 92, 1000, 3130, &c. Apavida, 280. Anuvakya (same as puronuvākya). Apaysjus (offoring: gubsequent to 
+Atyagniṣṭoma 1203.
 
-principal ones), are three in darda- purgamEsa, 1057n, 1071n ; deitios 
+Aufrecht 461n; edition of Ṛgveda by 461n.
 
-of, 10670, 10710. Aovābārya pacana, a naine of daksi- 
+Aupajaṅghani 602, recognised among sons only the aurasa son 602.
 
-nāgni, 189n. Aardrambhaniya iṣti, 1010 and n. Anyagtaka day, 794 ; surt offered 
+Aupaniṣada vrata for brahmacārin 371.
 
-on pindas for fomalo adoostors 
+Aurabhra, a caste 102.
 
-in, 794, Āpad (distrobe ), dharma for brūb. 
+Auśanasa-smṛti 114, 174n, 290n, 310, 332, 343n, 357n, 402n, 734, 763n &c.
 
-mapas id, 118\#* ; several moans of 
+[[P1287]] Auspicious, all saṁskāras to be performed on a. times 213; eight a. objects 876n; objects that one should see or touch before going out of his house 688; objects, eight 511, 688; sights, what are 648, 687; times 213 and n.
 
-General Index 
+Avabhṛtha, final purificatory bath in Agniṣṭoma 1198; handful of kuśas thrown in water becomes the āhavanīya for all offerings in 1199-1200; Mahīyā ṛk muttered in, by yajamāna, priests and wife 1200; only a cake to Varuṇa is offered in 1198; procedure of, is like an iṣṭi but many items are dropped 1198-1200; Sāman chanted in, is called *avabhṛtha-sāman*, of which the *nidhana* is repeated thrice by all priests, sacrificer and his wife 1199; unnetṛ priest leads out sacrificer and all others 1200; utensils are thrown into water at a. 1199.
 
-1285 
+Avadhūta, a class of saṁnyāsin 942
 
-marrying his maternal unclo's daughter, 458-60; mot death in battle with his son Babhruvahana but was brought back to life by 
+Avakīrṇin, had to offer an ass to Nirṛti 374; prāyaścitta for 374.
 
-Ulupi, 1238. Arkavivaba, man wbo loses two 
+Avantisundarī, of the Cāhuāna family, married poet Rājaśekhara 450.
 
-WIVOS by death goes through this 
+Āvantya, a caste 73; same as bhūrja-kaṇṭha 73.
 
-rito before marrying a third, 546. Arrian, says that Indian dress was 
+Avarīṭa, a sub-caste 72.
 
-made of cotton, 670. Arpa, form of marriage, 617. Artha, a goal of human lifo, 8. Arthasāstra (vido under Kautilya), 
+Āvartaka, a caste 102.
 
-9, 67n, 183, 266n, 645. Arthavada, 10440; an , toxt may 
+Āvasathya (fire) 989; some held that it need not be established at all 989n.
 
-bo construod as a vidhi according 
+Avatāras: faint traces of several out of ten a. in Vedic Literature 717-718; names of 720-721; theory of 717; three lists of Viṣṇu's a. in Bhāgavata-purāṇa 721.
 
-to Jaimini, 463. Arundbati, 631; star of, to be shown 
+Aveṣṭi, an iṣṭi, performed in Rājasūya and also independently 1223.
 
-to bride in inarriage rites, 530. Aruninukha, name of certain yatis 
+Āvid, formulae in Rājasūya 1217n.
 
-killed by Indra, 419. Arya, child, oannot be reduced to 
+Avīra, a caste 72.
 
-slavery by his father according to 
+Avivākya, the tenth day of the Dvādaśāha sacrifice, 1213-14.
 
-Kautilya, 508. Aryan, culturo, ceutre of, in Rgve 
+Avocations: brāhmaṇa should not perform the work of a śūdra even in distress 119n; followed by brāhmaṇas were numberless even in ancient days 130-131; one should not take to the work of a higher varṇa 119; peculiar to brāhmaṇas, three 105; persons following certain condemned a. became untouchable 169; śūdra, to be punished by king if he takes up the duties of brāhmaṇas such as japa 119.
 
-dic times, 11-12; Aryan, culturo, centre of, in Brah 
+Ayaskāra, a caste 72; regarded as a śūdra by Patañjali 72.
 
-inapas, 12. Aryas, and dasas formed opposing 
+Ayogava, 73; a pratiloma caste 57, 73; avocation of, 73; one of the antyāvasāyins, 70.
 
-camps, 25; had internecine quar. 
+Āyurveda (medicine), to be learnt under the apprentice system, 365n.
 
-rels avop in Rgvoda times, 27. ArySvarta, extent of, differed at 
+Āyuṣya, one of the rites in jātakarma, 233.
 
-difforent periods and according to different writors, 11-16; and black antolopo, 13; countries outside A, not to be visited excopt on pilgri mago, 18; what countries beyond 
+Babhruvāhana, son of Arjuna, 1238.
 
-palo of, 15–16. Adauca, (inipurity on birth or death), 1088 for brāhinagas than for othors, 
+Bādarāyaṇa, held view that all āśramas are enjoined, 425; quoted by Bhāradvājagṛhya, 203.
 
-153. Ascetio, a postate froni order of, be- 
+Bādari, propounded that a śūdra could perform vedic sacrifices, 36, 156.
 
-came a slave of the king, 185-186; apostate from order of, to be branded and banished, 186; highly eulogised . guest, 784; was required by Vasistha to tako avon dash in sraddha and rites for gode, 777, 
+Baden-Powell, 868.
 
-Asceticism, fontures of, are common 
+Bāhīka, countries called, were impure, 16.
 
-to all religions, 975; Boveral as. 
+Bahiṣpavamāna, first stotra in morning pressing of soma, 1169; has nine verses, 1169; method of dividing into five parts and chanting, 1168-1169.
 
-pects of, 975. Asikal, rivoria Rg., 1%. Akoka, construoted wells on roads 
+Bāhya, same as antya, 70, 89.
 
-and planted mango and banyan treo8, 894 ; onjoins kind treatment of slaves, 183; established hospi. tale for mon and boasto, An; for bado the killing of certain birds and animals, 778; inscribed on stone virtues he most prized, 10; on flesh-eating, 778; Rock odicts of, 69, 113; refers to Yonas, 
+Baidyas of Bengal, 72.
 
-93. Asramas (see under brahmacarya, householder, sannyāsa) 416; all four montioned in Jabalopanipad, 421; earliest reference to, pro bably in the Ait. Br., 420; fea tures characteristic of each of four, 837; Kapila, an asura, is said by Baud. Dh. S. to havo started systom of four, 417; difference between theories of vargac and afrainas, 423; no . superior to others, according to Ap. Dh. S, 425; number of, 416; samny&&& mentioned in Muqdakopanigad, 421; sadr& could take only to householder's stage, 163, 924; theory of Maou and others about, 417-418; threo &. cloarly referred to in Chin. Up., 420, 422-24; tbroe different points of view about, 424-426; various names for the løst asrama, 417; wbat duties common to all, 6; word 8. does pot ocour in Vodio Sarhitās or 
+Baijavāpa-gṛhya, 198n, 219, 220, 244.
 
-Brahmayan, 418. Adrama-dharma, meaning of,'3. Asramavisiparva, 10n, 498, 869, 923, 
+Bālāki-Gārgya, 328; learnt from king Ajātaśatru, 105-106.
 
-945. Amtaka days, 398; killing of cows 
+Bālambhaṭṭī, 473n, 484, 489n, 590, 592.
 
-in, 776. Aptaāgasarigraba, of Vogbbatu, 
+Balarāma, 797.
 
-6560, 735. Apf&vakra, com. of Migavagrhys, 
+Balbūtha, a friendly dāsa in Ṛgveda, 33.
 
-440, 817. 
+Bali, island of, priests in, repeat the yajñopavīta mantra, 284n.
 
-1288 
+[[P1288]] Bali, a *cirajīvin*, 648.
 
-History of Dharmaśāstro 
+Baliharaṇa or bhūtayajña, 745-748; deities of, 745; food to be distributed even to crows, dogs and cāṇḍālas, 746; offerings in, are to be on the ground and not in fire, 745; offered at night by wife without mantras, 747; remnants of bali food are offered to pitṛs, 748; sentiment underlying, 746-747.
 
-Astrology (see under kutat): con. 
+*Balutedars*, hereditary village servants in the Deccan, 178.
 
-sideration of, led to abandoning e obild if born on certain conjuno tions, 237; details of, entered in all ritos, 204; in Upa Dayana, 277; in marriage, 518-516; predictions of a. from the time of birth, 236; to be consulted in marriages only if girl is not inore than ten years 
+Bāṇa, 81, 83, 91, 174, 215, 217, 239, 266, 349, 510, 579, 598, 628.
 
-old, 513. Ăsura, form of marriage, 517, 519; 
+Bāṇa, an asura devotee of Śiva, 737.
 
-form, essence of, is monetary consideration for giving the girl received by father or guardian, 525: Roveda and Nirukt& rofer to 
+Banaji, D. R. 187.
 
-1. form, 525. A sura, meaning of, in Rgvoda, 25. Abyaldyani, wator oifered to, in 
+Bāṇa-liṅgas, from Narmadā river worshipped as symbols of Śiva, 716, 737.
 
-tarpana, 691. Aśvaldyana-grbye-kirikis, of Ku. 
+Bandhula, a caste, 102.
 
-mārila 222. Aśvaldyana-ghya-parisipta 210, 633, 
+Bandin, see under 'vandin', 89.
 
-891, 896. Āsvaldyana-għhya-sutra, 78, 196, 197, 
+Banerjee, Sir Gooroodas, 520, 614.
 
-2010, 207, 221, 274, 276, 278, 
+Barbara, 89.
 
-279 &o. Asvaldyana drauta-ātra 74, 252, 
+Barter, almost same principles apply to b. as to sale, 126-129; of some articles allowed, though no sale of them allowed, 129; of sesame allowed, though not sale, to brāhmaṇas, 127.
 
-430, 480, 491, 828, 9190, 9990, 
+Barth, M., 107n, 724.
 
-1001, 1003 &o. Ādvaløyapa-smrti, in verso 370, 769, Asramodhe, dialogues and abuso in 
+Baskerville, Geoffrey, 951.
 
-1291-35; foos in1236-37; historio instances of performance of 1238- 39; mentioned even in the Rgveda 1228–1229; performed by ancient kings 978, 1929; performer of, got rid of all sinn, even of brahms. baty& 147, 1236n; procedure of 1229-1236; sin romoved by perdon8 bathing in the water in whioh the kipg' batbed at the end of Advamedb. 1236; yūpas were 21 
+Bath (see 'Snāna'), for coming in contact with cāṇḍāla, patita, a woman in her monthly course, 172; mid-day, 689; principal matters in mid-day bath are tarpaṇa, devapūjā and mahāyajñas, 689.
 
-in, 1233. Advamedhika parva 72, 77, 88, 861, 439, 662, 643, 645, 710, 8470, 923 &c.; dosoribos Asramodha at groat length 1237-38. Advaputi Lokaya, declarod that in 
+Bauddhas, touch of, entailed bath as expiation, 169, 665.
 
-his kingdom thoro wore do thiovos, 
+Baudhāyana, dharmasūtra of, 1, 2n, 14, 15, 34n, 45n, 53, 56, 59, 65, 78, 213, 272 &c.
 
-do drinkers of intoxicanta &c. 794; taught vaidva para vidya to Aro 
+Baudhāyana-gṛhya, 94, 148n, 194n, 197, 233, 245, 255, 258, 275, 278 &c.
 
-brābina pas 106, 273. Afvasukta 1006. Advattba, marriage with, for avert 
+[[Baudhāyanagṛhyaśeṣasūra|Baudhāyanagṛhyaśeṣasūtra]], 176, 214, 215, 217, 251n, 254, 297, 299, 480, 537, 727n, 728 &c.
 
-ing ill-luck for a girl 546 ; Viddha Gautama identifies with Kjena 
+Baudhāyanagṛhya-paribhāṣā, 108n, 288, 393, 411.
 
-895 Afvatthaman, a brahmana warrior 
+Baudhāyana-gṛhya-saṁgraha-pariśiṣṭa, 210.
 
-123 ; & cirajivin 648. Asyayajı, one of the seven pakaya 
+Baudhāyana-pitṛ-medhasūtra, 588, 618n.
 
-jñas 826-827. Asvika, a casto 79, Asvinadaatre in Atirātra 1203. Advias 439; bestowed busband on 
+Baudhāyana-śrauta-sūtra, 995, 997, 999, 1001, 1003, 1005, 1010n, 1013n, 1020n, 1061n, &c.
 
-Ghost who was growing old 439. Atbangulor, a modern rite in the 
+Beal, 723.
 
-Deccan resembling Simantonne 
+Beasts, unclean, 166.
 
-yana 226. Atharvavada 37. 41, 43, 201, 2020, 
+Begging (see under bhikṣā) 133-134; allowed to the diseased and such like persons, 134; allowed to one oppressed by hunger, 134; allowed to one who has been without food for three days, 134; a characteristic of saṁnyāsa in the sūtras, 421; Kekaya king boasts that no one except a brahmacārin begged in his kingdom, 133; of whom one should not beg, 134; smṛtis hold b. appropriate to veda students and ascetics, 133; smṛtis do not allow it to others except under great restrictions, 133-134; when allowed according to Āp., 133-134.
 
-203n, 218, 2216, 2470, 263n, 270, 386, 419, 435 &c.; Saunakiya re. consion of Atbarvaveda has & 
+Benefit of clergy, doctrine of, 142-143.
 
-different beginning 902a. Atharvangirasaḥ, 46 subject of study 
+Bengal, widows in, entitled to rights of property even in joint Hindu family under Dāyabhāga, 635; worship of Durgā in, 739.
 
-in Satapatha Br. 363. Atheists, touch of, required bath for 
+Bhagat, M. G., 179n.
 
-purification 169, 664. Atirgtra, e form of soma sacrifice 
+Bhagavad-gītā, 9, 60, 97, 423, 746n, 946.
 
-1203 ; Sandbistotra in, 1203. Atreya, quoted by Bharadvajagrbya 
+Bhāgavata-purāṇa, 9, 87, 155n, 176, 319, 380, 565, 628, 715n, 720, 721, 726 &c.
 
-203. Atri, smrti of 6n, 69, 85, 89, 105, 113, 
+Bhāgavatas, to be worshippers in temples of Viṣṇu, 722; worshippers of Viṣṇu or Śiva posing as holy (*buwā* in Marathi), 131.
 
-119, 1261, 180, 1572, 173, 1740, 189, 312 &o. ; gotra, subdivisions of 490, Atura-saunysa, procedure of, for 
+Bhairava, temple of, could be erected by untouchables, 176.
 
-those who are pory ill 963. Atyagniṣtoma 1203. Aufrocht 461a; edition of Rgveda 
+Bhāllavins, 14, 436n.
 
-by 4610. Aupajangbani 602, recognised anong 
+Bhāmaha, author of Kāvyālaṁkāra 252n.
 
-aons only tho aaraga son 602. Aupanipada vrata for brahmaokrin 
+[[P1289]] Bhandarkar, Prof. D. R., 384.
 
-371. Aurabbra, a caste 102. Ausan&-smrti 114, 1740, 290n, 310, 
+Bhaṇḍarkar, Sir R. G., 215, 438n, 440n, 710n, 719n, 721n 736, 737n; holds kṣatriyas original possessors of knowledge of *brahman*, 107n.
 
-832, 8480, 3571, 402n, 734, 7630 &o, 
+Bharadvāja, story of, in Tai. Br. about veda study, 271, 350.
 
-General Inder 
+Bharadvāja-gṛhyasūtra, 45n, 94, 196, 203, 205, 208n, 219, 224n, 233, 234, 235, 246, 253, 257, 261, 263, 276, 279n, &c.
 
-1287 
+Bharadvāja-śrauta-sūtra, 71, 157.
 
-Auspioious, all samakāras to be por. Avocations: brahmaga should not 
+Bharatavarṣa, extent of, 17-18; name of, why given, 17; is called karmabhūmi 17; only land where *karma* is prescribed for mortals, 17; so called after Bharata, 17.
 
-formod on a. times 213; oight a. perform the work of a sudra oven objects 876n ; objeots that one in distress 119n; followed by brā - should see or touch before going bmapas wore numberloss avon in out of his house 688; objoots, anciont days 130-131 ; one should eight 511, 688; sights, what are not take to the work of a higher 648, 687 ; timos 213 and n. 
+Bhasmāṅkura, a caste called *gurava*, 102.
 
-varga 119; peculiar to brøbmagas, Avabhṛtha, final purificatory bath in three 105 ; persons following cere 
+Bhaṭa, an antyaja, 89.
 
-Agniptoma 1198; handful of kudas tain condemned a. bocamo 09 thrown in water becomes the sha. touchable 169; Sudra, to be puni vaniya for all offerings in 1199- Bhed by king if he takos up the 1200 ; Mabiya ;k muttered in, by duties of brahmanas such as japa yajamāna, priesta and wife 1200; 119. only a cake to Varuga is offered Ayaskāra, a caste 72 ; regarded as a in 1198; procedure of, is like an sadra by Patañjali 72. ipṭi but many items are dropped Ayogava, 73 ; a pratiloma casto 57, 1198–1200 ; Siman obanted in, is 73 ; &vocation of, 73; one of the called avabhrtha-saman, of wbich antyavasayids, 70. the nidhana is repoated thrice by Ayurveda (medicine ), to be learnt all prieste, sacrificer and his wife under the apprentice system, 365p. 1199; unnet priest leads out Ayapya, one of the rites in jate. 8&crificer and all otbers 1200 ; karma, 233. utensils are tbrown into water ut a. 1199, 
+Bhāu Dājī, Dr., 509n.
 
-Babbruvihana, son of Arjuna, 1238. Avadhuta, & olags of saṁnyasin 942 Badar yana, held view that all Avakiröin, had to offer an ass to asrames are enjoinod, 425 ; quoted 
+Bhauma-snāna, 668.
 
-Nirīti 374 ; prayascitta for 374. by Bharadrājagļhya, 203, Avantigundari, of the Cabuśna Badari, propounded that a sudra 
+Bhavabhūti, 367, 403, 446, 579; mother of, was Jātūkarṇī, 252.
 
-family, married poet Rriagekhers could perform vedio sacrifices, 36, 450. 
+Bhāvins (girls dedicated to a temple), 904.
 
-156. Avantya, a caste 73 ; samo as bhur 
+Bhaviṣyapurāṇa, 122n, 215, 217, 310, 445n, 675, 723n, 883.
 
-Badon-Powell, 868. ja-kaptha 73. 
+Bhaviṣyottara-purāṇa, 349, 874, 882, 883.
 
-Babīka, countries called, wore im Avarsta, a sub-oaste 72. 
+Bhikṣā (alms obtained by begging); all to be placed before teacher, 311-312; duty of householders to give to brahmacārins and yatis, 311; brahmacārins to take to, 308-312; food obtained by, supposed to be pure for brahmacārins, 310; from śūdras allowed to brahmacārins only in distress, 310; growing strictness as to caste of persons of whom to beg for food in case of brahmacārins, 309-310; mother the first person of whom to beg, 309; quantity of food to be given as, 311; refusal to give food to a brahmacārin results in loss of merit (puṇya), 309; rules about, 309-312.
 
-pure, 16. Avartaka, & oaste 102. 
+Bhikṣukopaniṣad, 939.
 
-Babiṛpavamina, first stotra in morn 
+Bhikṣu-sūtra, known to Pāṇini, 422.
 
-ing pressing of soma, 1169; bas Āvasathya (fire ) 989; some held i 
+Bhilla, an antyaja, 70, 89.
 
-pine versos, 1169; method of that it nood not be established at 
+Bhiṣak, a caste, 89-90.
 
-dividing into five parts and obant all 989n. 
+Bhīṣma, his gotra was Vaiyāghrapadya, 494; forcibly carried off three daughters of king of Kāśī, 501n, 523; refused to raise issue from widows of Vicitravīrya 603.
 
-ing, 1168-1169. Avataras: faint traoos of several out Bahyn, gan 
+Bhīṣmaparva, 138n, 139, 710.
 
-Bahya, same as antya, 70, 89. of ten a. in Vedic Literature 717 
+Bhīṣmatarpaṇa, 494, 695.
 
-Baidyas of Bengal, 72, 718; bamos of 720-721 ; theory of 
+Bhoja, a caste, 90.
 
-Baijavāpa-gȚhye, 198n, 219, 220, 244, 717 ; three lists of Viegu's &. in 
+Bhojana (see under 'food,' 'paṅkti') 757-799; about removing plates after, 769; ācamana before and after, 762; cleansing the mouth after b. with sixteen mouthfuls of water, 769; discontinued on hearing the voices of certain persons, 765; east to be faced at time of, 758; etiquette at time of, 762-763, 766-767; expiation, if one touches another at, 765; exudation of trees cut forbidden, 758; five limbs should be wet at time of, 760; five morsels as prāṇāhutis at beginning of, 763-764; householder to take his meals in 5th part of the day, 757; importance of purity of food, 757; in same dish with wife forbidden, 765; leaves of the trees that may be used as plates, 762; *maṇḍala* to be drawn at, 760; milk of cow for ten days after delivery forbidden even in vedic times, 758; most important subject in dharmaśāstra next to marriage, 757; observing silence at, 760; one may eat anything in a dire calamity, 758; one should not eat in company of even other brāhmaṇas for fear of sharing in their sins, 759; order in which items of food are to be eaten, 765; places where food should not be taken, 759-760; rules about the seat for taking, 761; rules for the plate, 761; to be begun while feet are wet, 760; silence at, 764; talking how far [[P1290]] allowed, 764; to be taken in private or screened from public view, 759; to be taken twice a day, 758; to be taken while sitting, 758; uttering 'Govinda' while taking food in, 765; yajñopavīta to be worn in upavīta form at, 762.
 
-Bulaki-Görgya, 328; loarnt from Bhagavata-purapa 721. 
+Bhṛgugaṇa, divisions and sub-divisions of, 490.
 
-king Ajatadatru, 105-106. Avesti, au ipti, performed in Raja 
+Bhṛjjakaṇṭha, a caste, 90; same as ambaṣṭha, 90.
 
-Balambbaṭṭi, 4730, 484,489n,690,692. sūya and also indepondently 1223, 
+Bhrūṇa, meanings of, 148n.
 
-Balarima, 797. Avid, formulae in Rajesūye 1217n. Balbūtha, a friendly d&as in Rgvoda, Avira, a caste 72. Avivākya, the tenth day of the Bali, island of, priests in, repeat the 
+Bhujabalabhīma, 513.
 
-Dv&dadaba suorifoo, 1213-14. 
+Bhūpa, a caste, 90.
 
-yajñopavita mantra, 2840. 
+Bhūrjakaṇṭha, a caste, 90.
 
-33. 
+Bhūtayajña (see under baliharaṇa).
 
-1288 
+Bible, 849.
 
-History of Dharmatūatra 
+Bilhaṇa, 524.
 
-Bali, e cirajivin, 648. Balibarapa or bhotayajõa, 746-748; 
+Blackstone, 570.
 
-doltios of, 746; food to be dis tributed oven to orows, dogs and oāndolas, 746 ; offerings in, aro to bo on the ground and got in fire, 746; offered at night by wife without mantras, 747; romnants of bali food are offered to pitra, 748 ; sontimont uadorlying, 746 
+Boar, flesh of, recommended in śrāddha, 166; incarnation of Viṣṇu as, 718.
 
-747. 
+Bodas, Mr. M. R., 949n.
 
-Balutedars, hereditary village ser 
+Bombay Land Revenue Code, 866.
 
-vants in the Deccan, 178. Bana, 81, 83, 91, 174, 215, 217, 239, 
+Books: gifts of epics and purāṇas to brāhmaṇas, 349, 883; prejudice against using, for learning, 349; read by ascetic women for a queen, 349; reliance on, reckoned as an obstacle in the path of acquiring knowledge, 349; to be placed in *maṭhas* for all people and provision for reading them in temples, 883.
 
-266, 349, 510, 579, 598, 628. Bana, an apura dovotee of siva, 737. Banaji, D. R. 187. Baga-lingas, from Narmada river 
+Boundary disputes settled by old men and guilds, 67.
 
-worshippod as symbols of siva, 
+Boys, were to be taught certain mantras even before Upanayana, 300.
 
-716, 737. Bandhuis, a custe, 10%. Bandin, 860 under vandin', 89. Banorjee, Sir Gooroodas, 620, 614, Barbara, 89. Barter, almost game principles apply 
+Brāhma, form of marriage, the best, 517.
 
-to b. as to sale, 126–129 ; of some articles allowed, though no sale of them allowed, 129; of sesame allowed, though not sale, to 
+Brahmā, God creates the world, 724; temples of, 724.
 
-brahmaṇas, 127. Barth, M., 1072, 724. Baskervillo, Geoffrey, 951. Bath (880 'Snina), for coming in 
+Brahmā, priest, duties and privileges of, in darśapūrṇamāsa, 1021; priest may be optionally employed in all pākayajñas, 208; receives as his special portion the prāśitra, 1039n; represented by a bundle of kuśas in gṛhya rites, 208n; required to be most learned of all priests, 1021.
 
-contact with cāṇdala, patita, a woman in her monthly course, 172; mid-day, 689; principal matters in mid-day bath are tarpana, deva puja and mabad 
+Brahmabala or Brāhmaṇabala, com. of Kāṭhakagṛhya, 220, 255n.
 
-yajāas, 689. Bauddhas, touch of, optailod bath as 
+Brahmacārin, garments of, 278-279; in Ṛg. and Tai. Ār. 268, 270; girdle (*mekhalā*) for, according to varṇa, 280-281; highly eulogised in Atharvaveda, 270; how to deal with hair on the head, 333; life of, depicted in Śat. Br., 271; most reprehensible act of, was sexual intercourse, 374; naiṣṭhika (perpetual), 375; prāyaścitta for failing in his duties, 373-374; prāyaścitta for sexual intercourse by, 374, 967; principal observances of, are offering *samidh* into fire every day, begging for food, working for teacher, study of veda, 305; stayed with a teacher away from home even in Brāhmaṇa period, 271; supposed to have violated his vow if he failed to beg or offer *samidh*, 311; rules of conduct for, 283, 304ff; to abstain from intoxicant of any kind, though he may be a kṣatriya or vaiśya, 796; to carry a staff of certain trees according to varṇa, 279-80; to wear two garments, 278; veda-vratas of, 370-374.
 
-expiation, 169, 665. Baudhayanı, dharmasutra of, 1, 2n, 
+Brahmacarya, duration of, usually twelve years, 349-352; information about, in the Upaniṣads, 273; long periods of, such as 48 years, 350; long periods of, opposed to vedic injunctions according to Śabara, 350; perpetual, was allowed for the blind, impotent and others, 351n, 376; prāyaścitta for giving up vow of perpetual, 376.
 
-14, 15, 841, 450, 63, 86, 69, 65, 78, 
+Brahmagarbha, a smṛti, 926.
 
-218, 272 ko. Baudb@yana-gobya, 94, 1480, 1941, 
+Brahmahatyā (killing a brāhmaṇa), the greatest sin from very ancient times, 147.
 
-197, 233, 245, 266, 268, 275, 278 &o.. Baudhayanagrbyasofa sūra, 176, 214, 
+Brahman, world of, only chaste persons can enter, 5.
 
-215, 217, 2610, 254, 297, 299, 480, 637, 7840, 728 &c. 
+Brahmānandī, on saṁnyāsa, 958.
 
-Baudhayanagphya-paribhasa, 1080, 
+[[P1291]] Brāhmaṇa: assault on a b. severely condemned, 151; not liable to pay fare at a ferry or to pay toll, 153; not to perform abhivādana to a kṣatriya, 338; of ten years must be saluted by kṣatriya though a hundred years old, 338; received lesser punishment for certain offences, 152; sacredness of person of, went on increasing in successive ages, 151; way to be made for, by all including the king, 153, 146; whether could be killed in self-defence without incurring sin, 148-150; who is paṅktipāvana, 767-768.
 
-288, 393, 411. Baudhayana-gphya-sangraha-pati 
+Brāhmaṇas (see 'agriculture', 'money-lending', 'gifts', 'veda'): b. accumulating wealth lose high status of brāhmaṇya, 111; all b. were not and are not priests, 109; Āpastamba was against b. becoming soldiers, 122; b. as soldiers even in very ancient times, 122; become degraded by giving up veda study, 108; become like śūdras by selling milk for three days, 127; classes of b., according to the wealth they possess, 111; corporal punishment for, 140-141; corporal punishment for b. takes form of shaving the head, 141; could maintain themselves by following avocations of kṣatriyas or vaiśyas, 118-119; could in ancient times take food from any *dvijāti* or from some śūdras even, 788-789; could take food from śūdras, if in difficulties, except for *agnihotra* or sacrifice, 112; described as daiva varṇa, 25; described as gods that are visible, 37; divided in modern times into ten classes, each of which is further subdivided, 103; doing certain acts to be treated as śūdras, 132; duty of, to study veda and its *aṅgas*, 107; eight kinds of, described by Devala, 131; formed a group even in Ṛgvedic times, 29; founders of royal dynasties, 123; four peculiar attributes of, according to Śat. Br., 37; *gurus* of all by the fact of birth alone, 138; have all gods in them, 135; highly honoured even in early vedic times, 28, 135; hyperbolical eulogies of, 135-136; ideal set before b. as to gifts, 113; ideal set before b. was often realized, 115; identified with Agni, 135; immunity of b. from taxation, whipping &c., 140, 143; invited for śrāddha must possess learning and character, 117; may accept for supporting parents, dependants &c. gifts from any body, but not for themselves, 112; may learn from a kṣatriya teacher in time of distress, 108; may take arms at command of king, 123; may wield arms in self-defence or for protecting women and cows, 123; not reciting Gāyatrī mantra are more impure than śūdras, 133; nine kinds of snātaka b. are primary recipients of gifts inside the vedi, 114; not eligible for invitation at śrāddhas, 130-131; not studying veda are like śūdras, 133; not to be cited as witnesses by non-brāhmaṇas unless as attesting witnesses, 152; not to receive gifts from irreligious kings or other irreligious persons, 112; only b. entitled to officiate as priests, 109; persons from whom b. may not take gifts, 112-113; person of b. held to be very sacred, 147; power of b. to deprive deities of their status 135; privileges claimed by 138-153; punished with far higher fine than śūdras for theft, 35n, 152; punished with branding and banishment for some offences, 140-141; purposes for which b. were created 107-108; reasons why b. are seized by Death, 133; [[P1292]] receiving gifts, special privilege of, 110; receiving gifts from worthy persons preferable to officiating as priests, 110; receiving gifts from śūdra worse for b. than teaching him or being his priest, 110; residents of certain countries not to be invited at śrāddha, 103; restrictions on, when following occupations of vaiśyas, 124 ff; results of ill-treating or disrespecting b. 41; six kinds of, cease to be b. by their actions, 132; some b. fulfilled ideal set up 137; some sub-castes of b. due to the Veda-śākhā studied, 876; superior by fact of birth 37; teaching done solely by 38, 108; ten kinds of, based on avocations and conduct 130-131; though bad or wicked must be honoured according to some, 132; to approach king or rich persons for maintenance when hungry or without means 112; to cultivate supreme contentment, 111; to expound dharma to all classes, to give advice about conduct, 139; uphold ordinances 39n; wealth does not find delight in, 37; were compelled by circumstances to pursue avocations other than the three especially prescribed for them 118-119; when to be sentenced to death 141; whether a separate caste in the Ṛgveda 28; whether b. were by birth in Ṛgveda 27; whether learned or not are great deities, 135; wives of, were sometimes ill-treated by kings 41; which b. should be afraid of receiving gifts 113-114; who are *pātra* 115; word b. occurs several times in Ṛgveda, 28.
 
-sipta, 110. Baudh&yana-pits-modhasutra, 688, 
+Brāhmaṇas in Gujerat, have 84 subdivisions, 103.
 
-618n. Baudhayapa-drauta-sūtra, 995, 997, 
+Brahmāṇḍa, a mahādāna, 873.
 
-999, 1001, 1003, 1005, 1010n, 10130, 
+[[Brahmāḍa-purāṇa|Brahmāṇḍa-purāṇa]], 169, 665n, 672n, 673, 754.
 
-1020n, 1061n, &o. Boal, 723, Beaste, unclean, 166. Begging (see under bbikpa) 133 
+Brahmānvādhāna, a rite in the procedure of taking *saṁnyāsa* 954.
 
-194; allowed to the diseased and such like persons, 134; allowed to one oppreased by bunger, 134 ; allowed to one who has been with out food for three deye, 134 ; & characteristic of saunyāsa in the sutras, 421; Kekaya king boasts that no one except a brahmacarin begged in his kingdom, 138; of whom one should not beg, 184 ; emṛtis hold b. appropriate to veda students and ascotics, 133; gmiṣtis do not allow it to othørs except under great restrictions, 133-134; whon allowed according to Āp., 
+Brahmapurāṇa, 11n, 80, 83, 84, 94, 97, 98, 189n, 198, 308n, 346n, 395, 447, 451, 606 &c.
 
-133-134. Benefit of clergy, doctrine of, 142 
+Brahmarṣideśa, 15.
 
-143. Bengal, widows in, entitled to rights of property oven in joint Hindu family under Dayabhaga, 635; 
+Brahmasūtra (same as Vedāntasūtra, which see), 425.
 
-worship of Durgā in, 739. Bhagat, M. G., 179n. Bhagavad-gita, 9, 60, 97, 423, 746n, 
+Brahmavaivarta-purāṇa, 646.
 
-946. Bhagavata-purana, 9, 87, 155n, 176, 
+Brahmāvarta, defined by Manu, 15.
 
-819, 380, 365, 628, 7160, 720, 721, 
+Brahmayajña, 700-704; compared with elements of *śrauta* sacrifices, 700-701; formula of, in modern times for Ṛgvedins once a year, 704; is daily study of a portion of Veda (svādhyāya) acc. to Śat. Br., 700; *japa* in saṁdhyā held by some to be, 700; may be performed before tarpaṇa and after morning homa acc. to some 700; may be performed before or after Vaiśvadeva, 700; now rarely performed every day, 703; proper place for performance, 701; rewards of performance of, 701; tarpaṇa as part of, acc. to some, 700, 704; time for performing, 700; works or parts of works recited in, 701, 703.
 
-726 &o. Bhagavatas, to be worshippers in 
+Brāhmī alphabet, derived from a Semitic alphabet about 800 B. C., acc. to Bühler 348.
 
-temples of Viṣṇu, 722; worshippers of Vippu or Śiva posing as boly 
+Bṛhadāraṇyaka Upaniṣad, 5, 13, 38n, 45, 52, 88, 106, 108, 110, 167, 201, 227, 273; contains one of the noblest prayers, 5; holds truth and dharma are identical, 5; inculcates three cardinal virtues, 5.
 
-(buwd in Marathi ), 131. Bhairava, temple of, could be orected 
+Bṛhad-devatā, 447, 535, 618, 619, 833n.
 
-by untouchables, 176. Bhullavins, 14, 436A. Bhimahe, anthor of Kavyalankara 
+Bṛhad-Yama, smṛti of, 70, 390n, 445, 804, 846.
 
-2620, 
+Bṛhan-manu, 476n.
 
-General Index 
+Bṛhan-Nāradīya-purāṇa (same as Nāradīya purāṇa), 505, 633.
 
-1289 
+Bṛhaspati, 59, 76, 83n, 85, 115, 124n, 149, 175, 219, 254, 365n, &c.; eight verses from, on eight qualities of the soul, 6n; founder of materialism, 359n; held wife half of a
 
-Bhandarkar, Prof. D. R., 384. Bhandarkar, Sir R. G., 216, 4389, 
+[[P1293]] man and sharer in his sins and merits, 428n; on duties of brāhmaṇas settled by a king with grants of lands, 858; on grants of land, 861; on the rights of daughters, 510; usages of countries should be respected by the conquering king, 462.
 
-440n, 710n, 7190, 7219 736, 7370 ; holds kpatriyas original possossors 
+Bṛhaspati-sava, a kind of one day soma sacrifice performed by a brāhmaṇa who has performed the Vājapeya, 1211.
 
-of knowledge of brahman, 107n. Bharadvāja, story of, ia Tai. Br. 
+Bṛhatī, a work of Prabhākara, 359n;
 
-about veda study, 271, 350. Bharadvaja-grbyastra, 451, 94, 
+Bṛhat-Parāśara, 15, 121, 145, 304, 310, 314n, 315, 430, 578, 643, 667n, 687n, &c.
 
-196, 208, 205, 208n, 219, 224n, 233, 234, 235, 246, 263, 257, 261, 
+Bṛhat-sāman, 996n.
 
-263, 276, 279a, &c. Bharadvaja-srauta-sutra, 71, 167. Bharata varpa, extent of, 17-18; name 
+Bṛhat-saṁhitā, 217, 249, 398, 551n, 579, 655, 712, 722, 734, 826.
 
-of, why given, 17; is called karma bhumi 17 ; only land where karma is prescribed for mortals, 17 ; 80 
+Browne, J. C., 509n.
 
-oallod after Bharata, 17. Bhasmxakura, a caste called gurava, 
+Buddha, grant made to a brāhmaṇa in honour of, 854; images of, worshipped in certain vratas stated in the purāṇas, 721; Kumārila did not regard him as an *avatāra*, 721-22; reviled as an atheist in the Rāmāyaṇa, 721; some tenets of, 723; when came to be looked upon as avatāra of Viṣṇu, 720-722.
 
-102. 
+Buddhism, causes of disappearance of, from India 723; total disappearance of, from India, cannot be satisfactorily explained, 723.
 
-Bbata, an antyaja, 89. Bhau Daji, Dr., 5090. Bhauma-endo, 668. Bhavabhūti, 367, 403, 446, 579 ; 
+Buddhist nuns, tonsured their heads, 592-93.
 
-mothor of, was Jatukarpi, 252. Bhāvins ( girls dedicated to a tom 
+Buddhists; and four varṇas, 48n; nakṣatra names of, 248; took the idea of pabbajjā from brāhmaṇical system, 422; works, 85.
 
-ple ), 904. Bhaviṣya puriṇa, 1220, 215, 217, 310, 
+Budhasmṛti, 196.
 
-445n, 675, 723n, 883. Bbavigyottara-puraga, 349, 874, 882, 
+Bühler, 63n, 348, 956n.
 
-883. Bhikoa (alms obtained by begging); all to be placed before toacher, 311-312; duty of householdors to give to brahmacarins and yatis, 311 ; brahmao&rins to tako to, 308-312; food obtained by, sup posed to be pure for bralımacārids, 310; froin sūdras allowed to bra. hmao&rins only in distress, 310; growing strictnost 88 to caste of persons of whom to beg for food in case of brabmacarias, 809-310; mother the first person of whom to beg, 309; quantity of food to be given as, 311 ; refusal to give food to a brahmacarin results in loss of morit ( puṇya ), 309; ralos a bout, 
+Bukka, king of Vijayanagar, daughter of, married a brāhmaṇa, 450.
 
-309-312. Bhikpukopanigad, 939. 
+Bull, sacred, at Mohenjo-daro. 725.
 
-8. D. 162 
+Burnell, 1170n, 1171.
 
-Bbikpu-sutra, known to Panini, 422. Bhilla, an antyaja, 70, 89, Bhipak, a caste, 89-90. Bhisma, his gotre was Vaiyaghra 
+Buruḍa (worker in bamboo), an antyaja, 70, 89; written as varuḍa also, 89.
 
-padya, 494 ; forcibly carriod off tbroe daughters of king of Kuki, 5010, 523; refused to raise issue 
+Caidya Kaśu, donated noblemen as slaves, 181.
 
-from widows of Vioitra vīrya 603. Bhisma parva, 138, 139, 710. Bhifmatarpana, 494, 695. Bhoja, a costo, 90. Bhojana (see under 'food,' pankti') 
+Caila-nirṇejaka, 82; distinguished from *rajaka* by some, 82.
 
-757-799 ; about removing plates after, 769; Doamana before and after, 762 ; cleansing the mouth after b. with sixteon month fuls of water, 769; discontinued on hearing the voices of certain persons, 785 ; cast to be faced at time of, 768 ; etiquette at time of, 762-763, 766-767; xpiation, if ono touches another st, 766 ; exu dation of trees out forbidden, 758; five limbs should be wet at timo of, 760; five morsols ad prægahutia at beginning of, 763-764 ; house. holder to take his meals in Bth part of the day, 757 ; importa nce of purity of food, 767; in tame dish with wife forbidden, 765 ; leaves of the trees that may be 1180d as plates, 782; mandala to be drawn at, 760; milk of cow for ton days after delivery forbidden even in vedic timos, 758; most important subject in dharma dastra next to marriage, 767 ; ob serving silence at, 760; one may eat anything in a dire calamity, 758; one should not oat in company of even other brahmanas for fear of sharing in their sing, 759; order in wbicb items of food are to be eaton, 765; places whoro food should not be taken, 769-760; rulos about the seat for taking, 761; rules for the plate, 761 ; to be begun whilo foet are wet, 760; silence at, 764 ; talking how far 
+Caitrī, 820; a rite performed on full moon day of Caitra, 820.
 
-1290 
+Cakravāka, birds, love of, mentioned in a *mantra* quoted in Hiraṇyakeśigṛhya, 203.
 
+Cakrī, a caste, 80.
 
+Cākrika, 80.
 
-allowed, 764; to bo takon in pri- ' in grbya ritog, 208n; required to vate or scroened from public view, be most learned of all prioste, 1021, 759; to be takon twice a day, 758; Brahmabala or Brabmapabala, com. to be takon whilo sitting, 758 ; 1 of Kathakagrbya, 220, 2560. uttering Govinda' while taking Brahmapārin, garments of, 278-279; food in, 765; yajñopavita to bo in Rg. and Tai. Ār. 268,270 ; girdle worn in a pavita form at, 762. 
+Caland, Dr. 1171.
 
-(mekhala) for, acoording to varga, Bhrgugana, divisions and sub-divie 280-281 ; highly eulogised in 
+Caland and Henry, 978 n.
 
-sions of, 490. 
+Calls of nature, answering, rules about, 649-651; answering, in front of images of gods forbidden, 709.
 
-Atharvaveda, 270; how to doal Bbrjjakanṭba, a caste, 90; same ag 
+Cālukyas, described as cherished by seven Mātṛs, 217; described as of the Mānavya gotra, 494.
 
-with hair on the head, 333; life ambaptha, 90. 
+Camels, gifts of, in Ṛgveda, 838.
 
-of, depicted in Sat. Br., 271; most Bbruna, meanings of, 148n. 
+Camphor, to be burnt before the images of gods, 733.
 
-roprehensible act of, was sexual Bhujabalabbima, 513. 
+Cāṇakya, angered by the Nandas, kept his śikhā untied 265.
 
-intercourse, 374; naipthika (por Bhapa, a caste, 90. 
+Cāṇḍāla: 44-45, 81-82; alone among pratilomas was untouchable, 172; a pratiloma caste, 57, 171; called antyāvasāyin, 70; description of hamlet of, 81; included among śūdras by Patañjali, 168; occurs in Vāj. S. and Tai. Br., 44; ranked with the dog in Chān. Up. 44, 166; restrictions on, 81; shadow of, not polluting in ancient times, 174; three kinds of, according to Veda-Vyāsa, 81, 171; touch of, who comes for worship of Viṣṇu, did not entail bath, 172.
 
-petual), 375; prayascitta for fail 
+Caṇḍeśvara, minister of Mithilā kings, weighed himself against gold, 872.
 
-ing in his duties, 373-374; priyasa Bhurjakantha, a caste, 90. Bhūtayajña (see uudor baliharapa). 
+Candragupta, Maurya king, 248.
 
-citta for sexual intercourse by, Bible, 849. 
+Cāndrāyaṇa, method of, may be followed by vānaprastha, 921; prāyaścitta for eating forbidden vegetables, 783; prāyaścitta for intercourse with sagotra woman, 497; prāyaścitta for marrying one's maternal uncle's or paternal
 
-374, 967; principal observances of, 
+[[P1294]] aunt's daughter, 459; prāyaścitta for marrying a girl whose gotra is the same as that of one's maternal grand-father, 471.
 
-are offering samidh into firo every Bilbaga, 524, Blackstono, 570. 
+Capitalist society, some defects of, 137-138.
 
-day, begging for food, working 
+Caraka-śākhā, 796.
 
-for teacher, study of veda, 305; Boar, flesh of, recommonded in 
+Caraka-saṁhitā, on medicine, 799.
 
-Sraddha, 166; incarnation of 
+Caraka-sautrāmaṇi, 1224.
 
-stayed with a teacher away from 
+Carmamna, probably means 'tanner' in the Ṛgveda, 165.
 
-home even in Brābmaṇa period, Vippu as, 718, 
+Carmakāra (worker in hides), 70, 80.
 
-271; supposed to bave violated Bodas, Mr. M. R., 9499. 
+Carmaśiras, a teacher mentioned in the Nirukta, 587.
 
-his vow if he failed to beg or offer Bombay Land Revenue Code, 866, 
+Carpenter caste, perform upanayana in modern times, 46.
 
-samidh, 311; rules of conduot for, Books: gifts of epics and puriṇas to 
+Cārvāka system, 359n.
 
-283, 304ff; to abstain from into brahmaras, 349, 883; prejudice 
+Caste (see under 'anuloma', 'jāti', 'pratiloma' and *varṇa*): anuloma only, recognised by some sages if there be marriage, 53; achievements under, 21n; avocations of a few castes only mentioned in smṛtis, 57; caste is now a matter of marriage and food only, 24; council, not a common feature in all castes, 24; differed if spouses of different varṇas united by wedlock or otherwise, 54; features common to all castes, 23; features of the system have not been the same throughout the ages, 24; great speculation about origin of, 19; greater emphasis on birth in higher castes than on virtue, 101n; how far an invention of brāhmaṇas, 21n; in medieval works, 102-103; is a matter of the body and not of the soul, 52; list of castes mentioned in smṛtis, 69ff; Megasthenes on, 50; mixed, only a few mentioned in dharmasūtras, 57; most professions may now be followed by any one, 24; names of castes arise principally from occupations, 100; no unanimity possible on the causes that led to modern caste system, 23; number of, in the vedic period, 49; numerous sub-castes arise in several ways, 57-58; preserved Indian society from social anarchy, 21n; professional c. were wealthy and had organized guilds, 66-68; professions and crafts, whether castes in vedic works, 43-45; propositions about, before the close of vedic period, 48; ramifications of, explained by ancient dharmaśāstra works as due to saṁkara, 50-51; revolt against system of, in Mahābhārata, 101; system eulogised and condemned, 20-21; tests for determining the varṇa of, in modern times, 382; theory of anuloma and pratiloma marriages to explain system of, 52-53; those outside the system of four varṇas are dasyus, 47; works on, 19n.
 
-xicant of any kind, though he may against using, for learning, 349; 
+Caturhotṛ, mantras in Tai. Ār., 372n, 993n.
 
-be a ksatriya or vaidya, 796; to road by ascetic women for a 
+Cāturmāsyas (seasonal sacrifices), 1091-1106; and a few other iṣṭis are called Iṣṭyayana, 1091; five offerings common to all, 1092; indicate advent of spring, rains and autumn, 1091; may be performed throughout life or for one year, 1092; observances on all *parvans* for sacrificer, 1092; three or four called *parvans*, 1091.
 
-carry a staff of oortain trees accord queen, 349; reliance on, rockoned 
+Caturthī-karma, 195, 202-204; described in gṛhyasūtras as a rite, 202 ff; treated by the gṛhyasūtras as part of marriage rites, 204.
 
-ing to varṇa, 279-80; to wear as an obstacle in the path of 
+Caturvarga-cintāmaṇi of Hemādri, 381, 451n, 713, 734.
 
-two garmonts, 278; veda-Vratas acquiring knowledge, 349; to be 
+Caturviṁśatimata, 349, 462, 464.
 
-of, 370-374. placed in mathas for all people and provision for readiog them in 
+Cātvāla, pit in Paśubandha, 1112.
 
-Brabmacarya, duration of, usually temples, 883. 
+Caula, same as cūḍākaraṇa, 197, 260-267.
 
-twelve years, 349-352; informa 
+Census of India, 179n.
 
-tion about, in the Upaniṣads, 273; Boundary disputos settled by old 
+Chāgaleya, on livelihood in *āpad*, 129.
 
-long periods of, such as 48 years, men and guilds, 67. 
+Chandogapariśiṣṭa—same as Gobhilasmṛti, 654, 874n.
 
-350; long poriods of, opposed to Boys, were to be taught certain maa 
+Chāndogya Upaniṣad, 5, 13, 44n, 79, 106, 108, 147, 165, 166, 202n, 241, 247, 273 &c.; condemns severely
 
-vedic injunctions according to tras even bofore Upanayapa, 300. 
+[[P1295]] five grave sins, 5; mentions cāṇḍāla along with dogs and boars, 166; mentions five *mahāpātakas*, 147-148.
 
-Sa bara, 350; perpetual, was allow Brūhma, form of marriage, the best, 
+Chandomas, parts of Dvādaśāha sacrifice, 1213, 1240.
 
-ed for the blind, in potent and 617. 
+Charitable works: founder could keep control over, 915; referred to even in Ṛgveda, 889; regarded as more meritorious than sacrifices, 890.
 
-others, 3510, 376; priyascitta for Brahmā, God creates the world, 724; giving up yow of perpetual, 376. 
+Charity, universal, in Hindu śāstras, 4n; to poor and cripple is due to compassion and does not amount to *pratigraha*, 116n.
 
-temples of, 724. 
+Charpentier, Dr., 711.
 
-Brahmagarbba, a Binti, 926. Brahma, priost, duties and privileges | Brahmabatya (killing a brāhmaṇa ), 
+Child: allowed to crawl among instruments and utensils and to seize one as a prognostication of future occupation, 258; does not become impure by acting or eating as it likes before upanayana, 188; education of, before upanayana, no rules in sūtras about, 265-266; of marriage that is void for sagotra, sapravara or sapiṇḍa relationship, becomes a cāṇḍāla, 497; sale of, forbidden and condemned by Āpastamba and other sages, 504-505; sale of, an upapātaka, 506; views as to whom the child of *niyoga* belonged, 605.
 
-of, in dardaporṇamāsa, 1021; priest | the greatest sin frou vory ancient may bo optionally employed in all timog, 147. pakayajñas, 208; receives as his Brahman, world of, only chaste por special portion tho prasitra, 1039n; | 8008 can eater, 5. represented by a burdle of kuśas | Brahmanandi, op samaydoa, 968. 
+Child Marriage Restraint Act (of 1927) 445, 616.
 
-General Index 
+Cīnas, 82; Manu on 47; regarded as degraded kṣatriyas, 82.
 
-1991 
+Cirajīvins, names of, 648.
 
-Bralina pa : assault on a b. soverely 
+Circumambulating: rules about, in case of images of gods, cows, trees, 346.
 
-condomnod, 151; not liable to pay faro at a ferry or to pay toll, 153 ; not to performa abhi vādade to a ksatriya, 338; of ten years must be saluted by kpatriya though a hundred years old, 338; received longer punish mont for certain offences, 152; sacredness of person of, went on increasing in successive ages, 151; way to be inade for, by all inclu ding tbe king, 153, 146; whether conld be killed in self-defence without incurring sin, 148-150; 
+Clothes: rules about tucking up the lower garment, 672; *tārpya* garment worn by sacrificer in Mahāvrata, 670-671; to be worn in Devapūjā must be different from those to be worn on the road, 672; to be worn by brahmacārin, 278-279; to be worn by householder, 669-672; two garments to be worn by *snātakas*, 670; upper garment necessary in five religious rites, 671; whether cotton clothes known in earliest vedic period is doubtful 670; white, to be worn by snātakas, 671.
 
-who is panktipāvana, 767-768. Brāhmaṇas (see 'agriculturo', 'money 
+Codrington, 215, 725.
 
-lending', 'gifts', 'veda'): b. accumulating wealth lose high status of brābmaṇya, 111 ; all b. were not and are not priests, 109; A pagtamba was against b. be coming soldiers, 122; b. as soldiers oven in very ancient times, 122 ; become degraded by giving up voda study, 108; become like sūdras by selling milk for three days, 127; classes of b., according to the wealth they possess, 111; corporal punisbment for, 140-141; corporal punishment for b. takes form of shaving the bead, 141; could maintain themselves by following a vocations of ksatriyas or vaisyas, 118-119; could in ancient times take food from any dvijati or from some sudras aven, 788-789; could take food from sudras, if in diffioulties, except for agnihotra or sacrifice, 112; des. cribed as daivā varṇa, 25; des cribed as gods that aro visible, 37; divided in modorn times into ton classes, each of which is further subdivided, 103; doing certain acts to be treated as sudras, 132; duty of, to study veda and its angas, 107 ; eight kinds of, des oribod by Dovala, 131; formed a 
+Cole, Mrs. M., 428.
 
-group oven in Rgvedio times, 29; founders of royal dynasties, 123 ; four peculiar attributes of, accord ing to Sat. Br., 37; gurus of all by the fact of birth alone, 138; have all gods in them, 135 ; higbly honoured even in early vedic times, 28, 135; hyporbolical eulogies of, 135-136 ; ideal get before b. as to gifts, 113; ideal set before b. was often roalized, 115 ; identified with Agni, 135; immunity of b. from taxation, whipping &c., 140, 143 ; invited for graddba must possess loarning and character, 117; may accopt for supporting parents, depon dants &o. gifts from any body, but not for themselves, 112 ; may learn from a ksatriya teacher in time of distress, 108; may take arms at command of king, 123; may wield arms in self-defenco or for protecting women and cows, 123; not rociting Gayatri mantra are more impure than sudras, 133 ; nine kinds of spātakı b. aro primary recipients of gifts inside the vedi, 114; not eligible for invitation at brāddhai, 130-131 ; not studying veda are like sudras, 133; not to be oited as witnesses by non-brāhmaṇas unless as attest ing witno88e8, 152; not to receive gifts from irreligious kings or other irreligious persons, 112; only b. entitled to officiate as priests, 109; persons from whom b. may not take gifts, 112-113; porson of b. beld to be very sacred, 147 ; powor of b. to deprivo deities of their status 135; privileges claimed by 138-163; punisbod with far highor fine than sadras for theft, 35n, 162 ; punished with branding and banishment for some offondes, 140-141 ; purposes for wblob b. woro created 107-108; reasons why b. are seized by Doath, 133;1292 
+Colebrooke, 195n, 583n, 624n, 636.
 
-History of Dharmdfāstra 
+Concubine, entitled to maintenance after paramour's death if she is a continuously kept one and remains chaste afterwards, 639.
 
-receiving gifts, special privilege of, 110; receiving gifts from worthy persons proferable to officiating ac prieste, 110; recei ving gifts from Sudra worse for b. than teaching him or being bis priest, 110; rosidents of certain countries not to be invited at draddba, 103; restrictions on, when following oocupations of vaidyas, 124 ff ; results of ill-trea- ting or disrespeoting b. 41; six kinds of, conse to be b. by their actions, 132; some b. fulfilled ideal set up 137 ; some sub-oastes of b. due to the Veda-sākba studied, 876; superior by fact of birth 37 ; teaching done solely by 38, 108 ; ten kinds of, based on a vocations and conduct 130-131 ; though bad or wicked must be honoured according to some, 132 ; to approach king or riob persons for maintenance when hungry or without means 112 ; to cultivate supreme contentmont, 111; to expound dharma to all classes, to give advice about conduct, 139; uphold ordinancou 39n; wealth does not find delight in, 37; were compelled by circumstances to pursuo avocations other than the three epocially proscribed for them 118-119; when to be sentenc od to death 141; whether a separato caste in the Rg veda 28 ; whether b. were by birth iu Rgveda 27; whether learned or not are great deities, 135; wives of, wore sometimos ill-treated by king. 41; which b. should be afraid of receiving gifts 113-114; who are patra 115; word b. occur. 
+Conjugal rites, suit for restitution of, defences to, 570.
 
-several times in Rgvoda, 28. Brahmanas in Gujarat, bave 84 sob. 
+Conversion, taking back into Hindu fold the victims of forcible, 973-974.
 
-divisions, 103. Brahmānda, mabadanı, 873. Brahmada-puprina, 169, 666n, 6720, 
+Countries, stay in which required expiation or punarupanayana if not visited on pilgrimage, 16, 393.
 
-673, 754. 
+Courtesy, shown by asking *kuśala*, anāmaya &c. according to the varṇa of person asked, 344; to women not relatives, how shown, 344.
 
-Brabminvadhina, & rite in the 
+Cow (see under 'flesh-eating', 'pañcagavya', 'Yājñavalkya'): called aghnyā, 772; divine honour paid to, even in Ṛgveda, 772-73; donors made gifts of old and weak cows, 881; gift of, highly praised, 878; gift of cow on the point of delivery highly extolled, 879; holy in all limbs except her mouth, 775; house without a cow is devoid of *maṅgala*, 774; *kapilā* (tawny) cow most auspicious, 775, 878; kapila cow should be donated by him who is at door of death, 879; killed or let loose in Madhuparka in ancient times, 545, 773; milk of agnihotra cow belongs to various deities at various stages, 1001n; occasions on which cow was killed according to gṛhya and dharma sūtras, 776-777; one sacrificing his life in defence of cow or brāhmaṇa became free from gravest sins, 775;
 
-procedure of taking samnyösa 954. Brahmapurana, 110, 80, 83, 84, 94, 
+[[P1296]] procedure of gift of, 878-879; rewards of gift of, 878; veneration for, led to her urine and dung being regarded as purifying, 773; what cows were not to be donated, 881-882.
 
-97, 98, 189, 198, 308n, 346n, 395, 
+Crafts, (see under professions), 43-45.
 
-447, 451, 606 &o. Brabmarṣideda, 15. Brahmasutra (same as Vedāntasutra, 
+Cross-cousin marriages (see under 'maternal uncle's daughter,' 'maternal aunt's daughter' and 'paternal aunt's daughter'), 463; smṛti passages condemning them how explained away, 463.
 
-which sec ), 425. Brabmavaivarta-purana, 646. Brahināvarta, defined by Manu, 15. Brahmayajña, 700-704; compared with elements of srauta sacrifices, 700-701; formula of, in modern times for Rgvodins once a year, 704; is daily study of a portion of Voda (svadhyaya ) aco, to Sat. Br., 700; japa in sandhyā hold by some to bo, 700; may be performed before tarpana and after morning home acc. to some 700; may be performed before or after Vaisva deva, 700; now rarely performed every day, 703; proper place for performanco, 701; rewards of por formance of, 701; tarpana as part of, acc. to some, 700, 704; time for performing, 700; works or parts of 
+Cucuka, 82.
 
-works rocited in, 701, 703. Brāhini alphabet, derived from a 
+Cūḍākarma or -karaṇa, 197, 260-267; for girls also in sūtra times, 265; locks kept according to family usage or *pravara*, 264; materials required in, 261; number of locks of hair kept in, 263; principal acts in, 261; procedure of, 261-263; times for performance of, 261.
 
-Semitic alphabet about 800 B. C., 
+Cullavagga, 592.
 
-acc. to Būhler 348. Brhadaraṇyaka Upanipad, 5, 13, 38a, 
+Cuñcu, 82.
 
-45, 52, 88, 106, 108, 110, 167, 201, 227, 273; contains one of the noblest prayors, 5; holds truth and dharma are identical, 5; inculcater 
+Customs ('see maternal uncle's daughter'): Bṛhaspati declares that king should respect c. though at variance with śāstras, 462, 555; five c. peculiar to south and five others to north according to Baud., 458; Medhātithi's explanation of the custom of marrying *mātulakanyā*, 460; of marrying maternal uncle's daughter, 459-461; in southern countries, 582; of countries and families allowed to be observed in marriage, 527; various customs in marriage recognised by Āśv. gṛ. and others, 527.
 
-three cardinal virtues, 5. Bṭbad-devata, 447, 535, 618, 619, 
+Cutchi memons, governed by Hindu Law in matters of inheritance up to recent times, 389.
 
-833n. Bṛhad-Yama, smrti of, 70, 3900, 445, 
+Cyavana, author of a smṛti, 169n, 879.
 
-804, 846. Bṛban-mapu, 476n. Bṛhan-Naradiya-purana (samo me 
+Cyavana, of the Bhṛgugotra, married princess Sukanyā, 447, 562; married several maidens, 550n.
 
-Nāradiya purðṇa ), 505, 633. Bṛhaspati, 69, 76, 830, 85, 115, 124n, 
+Daiva, form of marriage, 517, 525, 1188.
 
-149, 175, 219, 264, 3650, &c.; eight versos from, on oight qualities of the soul, 6n; founder of materia lism, 369n; hold wife half of a 
+Dakṣa, smṛti of, 7n, 114, 115, 186, 188, 327n, 357, 375, 415n, 424, 569 &c.
 
-General Index 
+Dākṣāyaṇa, modification of darśapūrṇamāsa sacrifice, 919n, 1108n.
 
-1293 
+Dakṣiṇā, distribution of cows in Agniṣṭoma as, 1188-1189; gold is the foremost, 855; in Agniṣṭoma, 1188-1189; none to be given in Agniṣṭoma to a brāhmaṇa who is not learned, 1189; separate d. to accompany all kinds of gifts, 855.
 
+Dakṣiṇāgni, 989, 992; is also called anvāhāryapacana, 989n; mound of, is semi-circular, 994n; whence to be brought, 995, 999.
 
+Damayantī, 613; chose Nala in svayaṁvara, 523; name of, to be recited in the morning, 648; power of as *pativratā*, 567.
 
+Dāna (see under 'books', 'gifts', 'iṣṭā-pūrta,' 'grants'), 837; brāhmaṇa who is not learned should not accept dāna of gold, land, cow, horses, sesame, 851; certain things when offered must be accepted by everyone, 849; cows the most frequent subject of gift in Ṛgveda, 837-838; *dānas* called *dhenus*, 880-881; *dānas* called *meru* or *parvata*, 882; definition of, 842; distinguished from *homa* and *yāga* and utsarga, 714n, 841, 893; division of, into *nitya*, *naimittika* and *kāmya*, 848; division of, into sāttvika, rājasa, tāmasa, 849; donor is a rare sight, 845; duty to make *dāna* emphasized by saying a rich man making no gifts should be drowned, 845; eulogized even in Ṛgveda, 837; eight kinds of, forbidden by Nārada, 850; is either of *iṣṭa* or *pūrta*, 844-845; limits imposed as to, 850-851; *mahādānas*, 869-877; merit (puṇya) of gift depends on mental attitude, capacity of donor and
 
+[[P1297]] manner of gift and not on extent, 847; naiveśika dāna, 857; nine kinds of, forbidden by Dakṣa, 850; not to be made at night as a general rule, 853; of food and clothing may be made to any one, 838, 846; of land condemned in the Brāhmaṇas, 840; of villages mentioned in Chān. Up. 840; of vidyā, land and cows the best, 848; of land surpasses dāna of all other things, 848; of young damsels in Ṛgveda, 838; persons to whom gifts should not be made, 846; presiding deities of certain objects that are donated, 839, 855; procedure of, 855-856; prohibition of acceptance of dāna of certain things, 851; proper times for, 851-853; proper places for, 854; requires acceptance by the donee, 841; rewards expected from making, 855n; secret, best, 849; separate dakṣiṇās to accompany various gifts, 854-855; six *aṅgas* of, 843; sixteen futile dānas, 846; subjects of, 847-848; śūdra can make pūrta-dāna, though not iṣṭa, 845; three kinds of subjects of, 847-848; to be made with śraddhā, 846; various rewards promised to makers of gifts of dakṣiṇā, horses, gold and clothes, 838-839; water poured on hand of donee in, 854; ways of accepting a gift, 841-842; what constitutes dāna, 841; what dāna gives best rewards, 845; what cannot be donated, 849-850; who could make, 845.
 
+Dānacandrikā, 886, 909.
 
+Dānakriyā-kaumudī, 212n, 842, 855, 885, 891n, 892, 893n.
 
-man and sharor in bis sing and Caidya Kasu, donated noblomon as morita, 428n; on duties of brāb- slaves, 181. 
+Dānamayūkha, 842, 854n, 855, 874n, 878, 881.
 
-inaṇas settled by & king with Caila-pirṇojaka, 82; distinguished grants of lands, 868; on grants of froin rajaka by some, 82. land, 861; on the rights of daugh- Caitrì, 820; a rite performod on full tors,510; usages of countries should moon day of Caitra, 820. be respected by the conquering | Cakravaka, birds, love of, mentioned king, 462. 
+Dānaratnākara, 131n.
 
-in & mantra quoted in Hiranya B;baspati-seva, 4 kind of one day kesigṛhya, 203. 
+Dānastutis in Ṛgveda, 837.
 
-Boma sacrifice performod by Cakri, a caste, 80. brahmana who has performed the Cakrika, 80. Vajapeys, 1211. 
+Dānavākyāvali, 842n, 845n.
 
-Caland, Dr. 1171. Bṛbati, a work of Prabhākara, 359n; Caland and Hobry, 978 n. Bṛbat-Paradara, 15, 121, 145, 304, 310, Calls of nature, 20swering, rulos 
+Dānaviveka, 881.
 
-3140, 315, 430, 578, 643, 6670, About, 649-651; answering, in front 687., &c. 
+Daṇḍin, 72, 726.
 
-of images of gods forbidden, 709. Br̥hat-bāman, 996n. 
+Danta-dhāvana (brushing the teeth), 653-656; in the morning as well as after meals, 656; length and breadth of twig, 655-656; mantra to be repeated when using a twig as a brush, 654-655; trees the twigs of which are to be used in, 655; trees the twigs of which are not to be used in, 655; when not allowed, 656.
 
-Calukyas, describod as oberished by Bṭbat-sambitā, 217, 249, 398, 5510, 
+Daradas, 83; view of Manu about, 47.
 
-seven Mātra, 217; described as of 579, 655, 712, 722, 734, 826. 
+Darbha, colour of, 657; difference between kuśa and, 657; *pavitra* of, 657.
 
-the Māna vya gotra, 494. Browne, J. C., 5090. 
+Darśapūrṇamāsa, 1009-1085; *āghāras* in, 1051-1053; *āhitāgni* had to perform darśapūrṇamāsa throughout life, or for thirty years or till he became very old 1009; ājyabhāga offerings, 1059-1060; anvārambhaṇīyā iṣṭi on the first darśapūrṇamāsa after agnyādhāna, 1010; archetype or pattern of all iṣṭis, 1009; barhirāharaṇa (bringing bundles of kuśas), 1013-1014; barhirāstaraṇa (strewing kuśas on vedi), 1043-1044; begun on first full moon day after agnyādheya, 1010; brahmā priest eats prāśitra without masticating it, 1067; brahmavaraṇa (choosing of brahmā priest), 1020-1021; choosing of four priests, 1091; cutting off, of *iḍā*, 1065-1066; deities of darśeṣṭi and paurṇamāseṣṭi, 1012; drawing lines with the *sphya* to indicate extent of vedi, 1036n; hotṛvaraṇa, 1054-1055; idhmāharaṇa (bringing fuel sticks), 1014-1015; invocation of Iḍā, 1066-1067; invoking, cleaning and taking up sruva and sruc ladles, 1038-1039; iṣṭi on pūrṇamāsa may occupy two days, but can be finished in one, 1010; kapālas on which cake is baked are arranged on the gārhapatya mound, 1030-31; japa by hotṛ, 1048; *madantī* water poured over
 
-Camels, gifts of, in Rgveda, 838. Buddha, grant made to & brābina na 
+[[P1298]] pounded grains to make a cake, 1030; Nāriṣṭha homas, 1081-1082; nigada after sāmidhenī verses repeated by hotṛ, 1049-1050; nirvāpa (taking out four handfuls of grains), 1023; one who has not three *pravara* sages is not eligible for darśapūrṇamāsa according to Jaimini, 1055n; offering of water used for scouring vessels to Ekata, Dvita and Trita, 1034; offering to Agni Sviṣṭakṛt after puroḍāśas, 1063-1064; patnīsaṁyājas, 1076-1077; patnīsaṁnahana, 1040-1041; pātras (utensils) required in, 1015n, 1020; pātrāsādana, 1020; Piṇḍapitṛyajña performed only in darśeṣṭi, 1015, 1085-1090; plenty of rice cooked is dakṣiṇā for priests, 1069; portion cut off for offering (from cake &c.) is as much as front joint of thumb, 1061; praṇītā waters, carrying forward of, in, 1021-1022; *prastara* (first handful of kuśa grass that is cut), 1013; prastara is thrown into fire, 1072-1074; pravara-mantra repeated by hotṛ, 1050; prayāja offerings in, are five, 1056-1057; puroḍāśa, preparation of and giving it shape of tortoise, 1032; puroḍāśas, offering of two, 1061-1063; remnants of puroḍāśa are divided into four and eaten by priests, 1068-1069; rites performed on upavasatha day where the iṣṭi extends over two days, 1010; śākhāharaṇa rite to be performed if the sacrificer has already performed soma sacrifice, 1011-1012; Sāmidhenī verses in d. repeated by hotṛ 1048-1049; Samiṣṭayajus homas, 1082; Saṁsthājapa, 1080; Śaṁyuvāka formula recited by hotṛ, 1075; Sānnāyya offered in darśeṣṭi by one who has performed somayāga, 1012; Sarvaprāyaścitta mantras, 1080n; Sāyaṁ-doha for sacrificer who has once performed somayāga, 1015-1016; second iḍā consists only of drops of ājya, 1078; spreading the antelope skin to the west of the utkara on which grains are to be pounded, 1026-1027; Sūktavāka repeated by hotṛ, 1073-1074; summons to haviṣkṛt differed according to varṇa of sacrificer, 1027; third puroḍāśa offered to Indra Vaimṛdha in full moon iṣṭi according to some, 1085; upāṁśuyāja, after the first puroḍāśa, 1062; Veda (bunch of darbhas so called) how cut and for what purpose, 1014-1015; vedi, construction of, to west of āhavanīya, 1034-1038; Viṣṇukramas, (four), 1083; *yajamāna* repeats the Atimokṣa mantras towards the end of the rite, 1084.
 
-Campbor, to be burnt before the in honour of, 854; images of, wor 
+Das, S. K., 921n.
 
-images of gods, 733. shipped in certain vratas stated 
+Dāsa (see under *dasyu*), antagonism of, to Āryas, 26; distinguished from Aryan foes or other Āryas, 27; same as dasyu in Ṛgveda, 26; vanquished by Āryas and became śūdras, 33.
 
-Canakya, angered by the Nandan, in the purāṇas, 721; Kumārila did 
+Dāśa, a fisherman, 83.
 
-kopt his sikha uptied 265, not regard him as an avatāra, 
+Daśahotṛ mantras, 993, 1024n, 1168.
 
-Cāndala : 44-45, 81-82; alone among 721-22; reviled as an atheist in 
+Daśakumāracarita, 806.
 
-pratilomas was untouobable, 172; the Ramayana, 721; somo tonete 
+Daśapeya; brāhmaṇa, for drinking soma in, had to trace ten generations of learned ancestors on both sides, 252, 1220; procedure of, 1220-21.
 
-* pratiloina caste, 57, 171; called of, 723; when came to be lookod 
+Dasnamis, ten orders of saṁnyāsins, 948n.
 
-antyāvasayin, 70; description of . upon as avatūra of Viṣṇu, 720-722. 
+Dasyu (see under *dāsa*), differed from Ārya in colour and cult, 26; characteristics of the tribe of, 26; identified with asuras in some cases, 26.
 
-hamlot of, 81; included among Buddhism, causes of disappearanco 
+Dattakamīmāṁsā, 186n.
 
-sudras by Patañjali, 168; occurs in 
+Dattātreya; as *avatāra* of Viṣṇu in the Bhāgavata-purāṇa, 721; devotees of, offered him wine and meat, 726; referred to as paramahaṁsa in Jābālopaniṣad, 726; worship of, popular in the Deccan, 726.
 
-Vaj. 8, and Tai, Br., 44; ranked of, from India 723; total dis 
+[[P1299]] Daughter, is like the son and is one's own self according to Manu, 510; was not greeted as much as the son, 509-510.
 
-with the dog in Chān. Up. 44, appearance of, from India, cannot bo satisfactorily explained, 723. 
+Dauṣmanta, 84.
 
-166; restrictions on, 81; abadow 
+Day, division of, into two, three, five or eight parts, 644-645; division of, into thirty muhūrtas, is ancient, 645.
 
-of, not polluting in ancient times, Buddhist nuns, tonsured their head8, 
+Dāyabhāga, 584n; conferred higher rights to property on the widow of a deceased coparcener in Bengal than anywhere else, 635; mentions no vedic passages for its theory of sapiṇḍa, 477; on sapiṇḍa relationship, 452, 472-477.
 
-174; three kinds of, according to 592-93. 
+Dāyakramasaṁgraha, a work of Śrīkṛṣṇa, 474.
 
-Veda-Vyana, 81, 171; touch of, Buddhists ; and four varṇas, 48n; 
+Debts, son's pious duty to pay debts of father and other ancestors does not include debts for drinking, 799; theory of three, due to gods, sages and pitṛs, 270, 425, 560, 676, 1134.
 
-who comes for worship of Vippu, Bakpatra names of, 248; took the 
+Deluge, story of, 1005n.
 
-did not ontail bath, 172. idea of pabbajjā from brahmani. 
+Deśastha brāhmaṇas: of Mādhyandina śākhā, marriage customs of, 470-471; of Mysore and Karṇāṭaka, 467.
 
-Caṇdesvara, minister of Mitbild cal system, 422; works, 85. 
+Deshpande, Dr. Mrs., 195n.
 
-kings, weighed himself against Bud basmrti, 196, 
+Deussen, on grandeur of the conception of āśramas, 423-424; propounds that kṣatriyas were pioneers of Brahmavidyā, 106n.
 
-gold, 872. Būhlor, 631, 348, 956n. 
+Devadāsīs (minor girls dedicated to service in temples), 904.
 
-Candragupta, Maurya king, 248. Bukka, king of Vijayanagar, daugh- Candrðyana, method of, may bo 
+Devadasis Protection Act of 1934, 904;
 
-ter of, married a brahmana, 450. followed by vānaprastha, 921; Bull, sacred, at Mohenjo-daro. 725. prayasoittfor oating forbidden Burnell, 1170n, 1171. 
+Devala, 7, 16n, 53, 72, 78, 81n, 109n, 115, 121, 264, 293n, 324 &c.; tackled the problem of taking back into Hindu fold people converted to other faiths, 389-390.
 
-vegetables, 783; pr&yadoitta for Buruda (worker in bamboo ), an intercourse with sagotra woman, 
+Devalaka, temple priest, 109n; not to be invited for śrāddha, 711.
 
-antyaja, 70, 89; written as varuda 497; prayasoitta for marrying also, 89. 
+Devapāla, com. on Kāṭhaka-gṛhya, 219, 228, 248n, 832.
 
-one's maternal upolo's or patornal 
+Devāpi, purohita of Śantanu, 31, 109.
 
-1294 
+Devāpi, descendant of Pūru, will revive kṣatriya race, 380-381.
 
+Devapratiṣṭhātattva of Raghunandana, 897n, 900, 904.
 
+Devapūjā, (vide 'image' and 'image worship,' 'tīrtha', 'naivedya') also is a yāga, 714; aparādhas in, 736; bath of image, how effected, 731; bath of image with five ingredients, 731; different from
 
-aant's daughter, 459; prāyasoitta | Bub-castes arise in several wayo, for marrying a girl whose gotra is 57-58; preserved Indian society the samo as that of one's maternal from social anaroby, 21a; prokee graad-father, 471. 
+Devayajña of the Tai. Ar. and sūtras, 405; flowers to be employed in, 732-733; is only one for all members of a joint Hindu family, 714; lamps in, to be fed with ghee or sesame oil, 733; men of all varṇas and women can perform, 714; naivedya (food offering) in, 733-734; namaskāra in, 735; ornaments for images of gods should be of real gold and jewels and not imitation ones, 732; nirmālya (removed flowers) purify the worshipper, 732; of three sorts, Vaidikī, Tāntrikī and miśrā, 740; performed after morning homa or after brahmayajña, 705; procedure of, in modern times, 739-740; rules about water used in, 730-731; seat for worshipper in, 731; time for, 714; unguents in, 732; *upacāras* in, 729-735; water used in bath of image treated as sacred 731; waving lamps before an image, 733; word occurs in the Vārtikas of Kātyāyana, 714.
 
-sional c. were wealthy and had Capitalist society, some defects of, organized guilde, 66-68; profox 
+Devatā, form of, discussed in Nirukta, 712; which meant in gṛhya rites when none specifically mentioned, 208 and n.
 
-137-138. 
+Devatādhyāya, of Sāmaveda, 1170n.
 
-sions and crafts, whether castes Carakadakba, 796. 
+Devayajana (place of sacrifice), 988n, 1134-1135.
 
-in vedic works, 43-45; proposi Caraka-sathbita, on medicine, 799. tions about, before tbe close of Caraka-sautrāinași, 1224. 
+Devayajña (vide devapūjā), 705-740; consisted in offering into fire offerings or fuel sticks, 705; devatās differed according to śākhā 705; distinction made between devayajña and devapūjā in later
 
-vodic period, 48 ; ramifiontions of, Carmamda, probably means 'tannor' explained by Anciont dbarma 
+[[P1300]] smṛtis, 705; vaiśvadeva came to be looked upon as, 705.
 
-in the Rgveda, 165. 
+Devīpurāṇa, 176, 217, 900.
 
-dastra works as due to samkara, Carmakara (worker in hides), 70, 80. 50-51; revolt against system of, Carmadiras, a teacher mentioned in in Mahabharata, 101 ; system eulo 
+Dhammapada, 336n.
 
-tho Nirukta, 587. 
+Dhānyas (corns), eighteen kinds of, enumerated, 874n.
 
-gised and condomned, 20-21; tosts Carpenter casto, jerform upanayana for determining the varṇa of, in 
+Dharādāna, a *mahādāna*, 876.
 
-in modern times, 46. 
+Dhāreśvara, allowed widow to succeed to sonless husband if she submitted to *niyoga*, 600n.
 
-wodern times, 382; theory of Vārvāka systom, 359n. 
+Dharma, (see under 'pariṣad', 'śiṣṭa'), conflict between other goals and, 9; doubtful points of, should be decided not by mere reliance on śāstra but by reasoning, 967; divisions of, six, 2-3; one of the four goals of human existence, 8; meaning of, 2; qualities that secured dharma for all, 10; quintessence of, 7; Śaṁkarācārya and learned brāhmaṇas at holy places claim the exclusive rights of restoring to castes or excommunication for lapses, 971-973; śiṣṭas to decide the doubtful points of, 967; smārta, 2; sources of, 2; śrauta, 2; to be preferred to *artha* and *kāma*, 8; ten-fold, common to all, 11.
 
-anuloma and pratiloma marriages Caste (see under "apuloina', jati', to explain system of, 52-53; those 
+Dharmaśāstra, extensive literature on, in ancient times, 355; primarily concerned with varṇāśramadharma, 11; primarily concerned with practices in āryāvarta, 18; subjects lower aims to higher, 9; topics of, in Gautama and other sūtrakāras, 1; works proceeded on assumption that the Veda is eternal, 352; works glorify householder's life and push into background life of *saṁnyāsa*, 424.
 
-pratiloma' and varṇa): anuloma 
+Dharmasindhu, 200, 206, 236, 249n, 457, 462, 465, 468, 502, 535, 536 &c.
 
-outside the system of four vargas only, recognised by some Bages if 
+Dhenus, are gifts of certain articles, 880; ten kinds of, according to Matsya, 880-881; twelve kinds of, according to Varāhapurāṇa, 880.
 
-aro dasyus, 47; works on, 19n. there be marriage, 53; achieve 
+Dhigvaṇa, 84.
 
-Caturhots, mantras in Tai. Ar., inepte uader, 212; & vocations of a 
+Dhīvara, a caste, 84.
 
-372n, 993n. few castes only mentioned in Caturmāsyas (seasonal sacrifices ), emitis, 57; caste is now a matter 
+Dhṛtarāṣṭra, became forest hermit after Kaurava war, 923.
 
-1091-1106; and a few other iṣtis of marriage and food only, 24; are called Iptyayana, 1091 ; five council, not a common feature in offerings common to all, 1092; in all castes, 24 ; differed if epouses dioate advent of spring, rains and of different vardas united by wed- autumn, 1091 ; may be performed lock or otherwise, 54; features 
+Dhvajī, 84.
 
-tbronghout life or for one yoar, common to all castos, 23; features 1092 ; observan008 on all parvans of the system have not been the for sacrificer, 1092; three or four Bame throughout the ages, 24; 
+Dice-play, in Rājasūya, 1219.
 
-called parvans, 1091. great spoculation about origin of, Caturthi-karma, 195, 202-204 ; dos 19; groter emphasis on birth in cribed in gṛhyasutras 48 & rite, higher caster than on virtue, 1010 ; 202 ff; treated by the gihyasutras how far an invention of brib- As part of marriage ritos, 204. mapas. 21a; in medieval works. i Caturvarga-cintāmagi of Homadri, 102-103; is a matter of the body 
+Dickens, in Oliver Twist, 4n.
 
-381, 451a, 713, 734. and not of the soul, 52; list of 
+Dīkṣā, procedure of, in Agniṣṭoma, 1137-1138.
 
-Caturvitsatimata, 349, 462, 464. Oastos mentioned in smptis, 698; 
+Dīkṣaṇīyā iṣṭi, in Agniṣṭoma, 1136-1138; is finished when patnīsaṁyājas are offered, 1137
 
-Oatvala, pit in Pasubandba, 1112. Mogasthenos on, 50; mized, only Cauls, same as cudakarana, 197, 8 few montioned in dharmaautras, 
+Dīkṣita, food of, not to be eaten till vapāhoma, 758; not to be addressed by name, 333; restrictions as to food for, 1139; rules to be observed by wife and dīkṣita, 1139-1140; should not speak with a śūdra while engaged in sacrifice, 35; when a man is entitled to be called a, 1136.
 
-260.-267. 57; most professions may aow bo 
+Diksitar, Prof. V. R., 719.
 
-Census of India, 1792. followed by any ono, 24; names Chagaleya, on livelihood in apad, 129. of castos arise principally from Obandoga parikieta-game as Gobhi - occupations, 100; no unanimity lasmști, 654, 8740. 
+Dīnāras, golden, 388n, 860n; interest on twelve dīnāras was sufficient to feed one bhikṣu throughout the year in the Gupta period, 860n.
 
-possible on the crusos that led to Chandogya Upanigad, 6,13, 440, 79, modern casto system, 29; number 106, 108, 147, 165, 166, 2020, 241, of, in the vedio period,49; numeroue! 247, 273 &0.; condemns sovorely 
+Dīpakalikā, a com. on Yāj., 471.
 
-General Index 
+Directions, objectionable, 305n; presiding deities of four, 745n; unobjectionable, in which religious acts may be performed, 305n.
 
-1295 
+Dīrghatamas, forbade remarriage and *niyoga*, 612.
 
-fivo gravo sins, 6; mentions oana, by anatakas, 670 ; apper garmont dala along with dogs and boars, necessary in five roligious ritos, 186; mentions ivo mahāpatakas, 671; whether cotton clothes known 147-148. 
+Divākīrtya, 84.
 
-io earliest redio period is doubt Chandomas, parts of Drādaddha ful 670; white, to be worn by 
+Divorce, Indian Act, of 1869, 621.
 
-sacrifice, 1213, 1240. 
+Divorce (see under 'marriage'), 619-623; abandonment (tyāga) of wife is not, 620; *a vinculo matrimonii* unknown to Hindu society (except by custom among lower castes), 620; in England and in Roman Catholic Church, 622-623; Kauṭilya on, 621-622; marriage in approved forms cannot be dissolved according to Kauṭilya, 621-622; nothing in the Vedic texts about, 619.
 
-8natakas, 671. Charitable works : founder could Codrington, 215, 725. keop control ovor, 915; referred to Cole, Mrs. M., 428. even in Rgveda, 889; regarded as Colebrooke, 195n, 5830, 6240, 636. more meritorious than sacrifices, Concubino, ontitled to maintenance 890. 
+Divya-snāna, 368.
 
-after paramour's death if she is a Charity, universal, in Hindu sastras, continuously kept one and remaids 
+Ḍoma (or ḍomba), a caste, 82; same as śvapaca, 82.
 
-4n; to poor and cripple is due to chaste afterwards, 639. com passion and does not amount Conjugal rites, suit for restitution to pratigraha, 116n. 
+[[P1301]] Drāhyāyaṇa-śrauta-sūtra, 240n, 988n, 1134, 1145n, 1168, 1185, 1195n.
 
-of, defences to, 570. Charpentier, Dr., 711. 
+Draupadī: according to Kumārila, there were really five wives of the Pāṇḍavas very similar to each other, 555; svayaṁvara of, 523; wife of five brothers, 554.
 
-Conversion, taking back into Hindu Child : allowed to crawl among in- fold the victims of forcible, 973 
+Draviḍas, 84; Manu's view about, 47.
 
-strumonts and utensils and to 974. Hoize one as a progaostioation of Countries. Stay in which required futuro ocoupation, 258; does not 
+Drinking (liquor), 792-798; see 'Arjuna', 'Vāsudeva,' 'liquor'; brāhmaṇas drink rum in north India according to Baud. 795; brāhmaṇas had given up drink at time of Kāṭhaka-saṁhitā, 793-794; enumerated among five grave sins in Chān. Up., 794; forbidden to brāhmaṇas at all stages of life, 795; in sautrāmaṇī iṣṭi, 793; liquor prepared from molasses or flowers not forbidden to kṣatriyas and vaiśyas, 795; prohibition as to drinking did not apply to brāhmaṇa women according to some, 795; *surā* distinguished from Soma in Vedic literature, 792; surā said to be of three kinds, 795; surā primarily applies to liquor prepared from flour and it is this that is forbidden to all *dvijātis*, 795; ten kinds of intoxicants forbidden to brāhmaṇas by Viṣṇu Dh. S., 757.
 
-expiation or punarupanayana if become impure by acting or eating not visited on pilgrimage, 16, 393. as it likes before u papayapa, 188; Courtesy, shown by asking kusala, education of, before upapayana, 
+Droṇa, a brāhmaṇa commander, 123, 322; taught the Kauravas and Pāṇḍavas but without prior stipulation for fees, 362.
 
-anāmaya &o, according to the no rules in sutras about, 265-266; 
+Droṇa-parva, 8n, 84, 88, 322, 329, 511, 539.
 
-varṇa of person asked, 344; to of inarriage that is void for sago 
+Dṛṣadvatī, river in Ṛg., 12; falls into the Sarasvatī, 15n.
 
-women not relativos, how shown, tra, sapravara or sa pinda relation 
+Druhyus, 39.
 
-344. ship, becomes a cāṇdāla, 497; Hale 
+Dumont, Prof., 977n.
 
-Cow (see under flesh-eating', of, forbidden and condemned by 
+Durbhara, 102.
 
-panoagavya ', "Yajña valkya '); Apastamba and other sages, 504 
+Durbrāhmaṇa, who is, 108n.
 
-called agbaya, 772; divine honour 505; sale of, in upapātaka, 506; 
+Durgā, eighth of bright half of Āśvina sacred to, 138; Devīmāhātmya, principal text of worshippers of, 738; killed Mahiṣāsura, 638; metallic stone used in worship of, 716; names of, 738; sacrifice of goat or buffalo for, 739; stated to be fond of blood and wine, 738; worship of, 738-739.
 
-paid to, even in Rgvoda, 772-73; views as to whom the child of 
+Durgārcanapaddhati of Raghunandana, 739.
 
-donors made gifts of old and weak riyoga belonged, 605. 
+Dūrvā, plant favourite of Viṣṇu, 732.
 
-cows, 881; gift of, highly praisod, Child Marriage Restraint Act (of 
+Dutt, N. K., 168.
 
-878; gift of cow on the point of 1927 ) 445, 616. 
+Dvādaśāha, a Soma sacrifice, 1213-14; is both an *ahīna* and a sattra, 1213; difference between D. as ahīna and as sattra, 1214.
 
-delivery bigbly extolled, 879; boly Cinas, 82; Manu on 47; regarded as 
+Dvijāti or dvija, meaning of, 189; three higher varṇas are called, as upanayana is 2nd birth, 189; who neglects Veda and studies other lores becomes a śūdra, 356.
 
-in all limbs except her mouth, 776; degraded kpatriyas, 82. 
+Ears, piercing of the lobes of, in the case of infants, as a rite in ancient and modern times, 255.
 
-house without a cow is devoid of Cira jivins, names of, 648. 
+Edicts, of Aśoka, 10, 93, 414n, 724, 778, 894.
 
-mangala, 174; kapila (taway) cow Circumambulatiog : rules about, in most auspicious,775,878; kapilacow 
+Education, (see under 'guru,' 'apprentice', 'universities', 'svādhyāya', 'Veda', 'vidyā', 'women'), in ancient India, 321ff; corporal punishment how far allowed in ancient India, 362-363; defects of, 370; given without prior agreement about fees, 359-360; instruction was oral, 321, 348; knowledge learnt orally from a teacher more effective, 322; literature to be studied vast even in ancient times, 353-354; no directions in sūtras about education of children before upanayana, 265-266; of kṣatriyas and vaiśyas, 363-364; of prince in Kautilya, 266; of princes in specially built houses, 364; of women in ancient India, 365-368; oral instruction persisted in because it was cheap and ensured accuracy, 348; originally father taught his son, 321; prejudice against learning from books in India, 347, 349; salient features of system of, in ancient India, 369-370; subjects of study, 352;
 
-Case of images of gods, cows, trees, sbould be donated by him who is 346. 
+[[P1302]] system of pupil teachers in, 343-344; teacher was the pivot of the system of, 321; teachers addressed pupils by their gotra names in Upaniṣad times, 481.
 
-at door of death, 879; killed or let Clothes: rules about tucking up loose in Madhuparka in anoiont 
+Eggeling, Prof., 977, 1031n, 1163n, 1219n, 1227, 1236n.
 
-the lower garmont, 672 ; tarpya tiines, 545, 773; milk of agoihotra garnont worn by sacrificer in cow belongs to various deities at Mabā vrata, 670–671 ; to be worn various stages, 10010 ; oooasions in Dovapaja must be different from on whioh cow was killed acoording those to be worn on the road, 672; to grbya and dbarma sūtran, 776– to be worn by brabmacarin, 278 777 ; one sacrificing his lifo in 279; to be worn by householder, defence of cow or brābbana bo 669-678; two garments to be worn | camo free from gravest dias, 775; 
+Ekalavya, story of, 322.
 
-1296 
+Emūṣa, boar called Emūṣa, raised the earth out of water, 718.
 
+Encyclopaedia, of Social Sciences, 165, 180n.
 
+Encyclopaedia Britannica, 4n.
 
-&c. 
+Endogamy, 23, 24, 436.
 
-procedure of gift of, 878-879; | Daiva, form of marriage, 517, 625, rowards of gift of, 878; venera 
+Ends, dharmaśāstra requires subjection of lower to higher, 9; proximate and remote, 9.
 
-1188. tion for, led to her urine and dung Dakpa, smști of, 7a, 114, 115, 186, boing regarded as purifying, 773; 188, 3277, 367, 375, 4160, 484, 569 what cows were not to be donated, 881-882. 
+England, marriages of infants of 3 years and onwards took place 300 years ago in, 446.
 
-Daksāyaṇa, modification of darda Crafts, (800 andor professions ), pūrnamasa sacrifice, 919n, 1108n. 
+Enthoven, 73, 904n.
 
-43-45. 
+Epigraphia Indica, 61, 66n, 68, 70, 72, 77, 87, 92, 94, 113n, 123, 145, 216n, 217, 240n, 245n &c.
 
-Dakṣiṇa, distribution of cows in Cross-cousin marriages ( 886 under 
+Ethics, conscience is basis of, 7; no detailed examination of principles of, 3; two principles stated, 7.
 
-Agniṛtoma a8, 1188-1189 ; gold is 'matornal uncle's daughter,' 'mater 
+Eugenics, rules about, 205, 430.
 
-the foremost, 855 ; in Agniptoma, pel aunt's daughter' and 'paternal 
+Europeans, privileges of, in criminal trials in British India, 142-143.
 
-1188-1189; nono to be given in aunt's daughter'), 463 ; smrti pa 
+Exogamy, 23, 436.
 
-Agniptoma to a brahmaṇa who is 
+Fa Hien, 66, 856n.
 
-pot learned, 1189; Beparato d. to souges condemning them how ex plained away, 463. 
+Family, good, the first requisite in selecting bride or bridegroom, 430; ten classes of, to be avoided in marriage, 430.
 
-acoompany all kinds of gifts, 855. 
+Farquhar, Dr. J. N., 711, 724, 730, 948n, 951n.
 
-Dakṣiṇāg ni, 989, 992; is also called Cocuka, 82. 
+Father, cut the hair in his son's caula in ancient times, 262; has no ownership over children, 508-509; himself taught Veda to his son in ancient times, 273, 321; on return from journey, smelt head of son with a mantra, 254; f. or guardian incurred sin if he did not get girl married before puberty, 442; power of, over his children, 507-508; power of, to inflict corporal punishment, 508.
 
-anvāhāryapacana, 989n; mound of, Cudakarma or-karana, 197, 260-267; 
+Female Infanticide Prevention Act of 1873 in India, 509.
 
-is semi-ciroular, 994n; whence to for girls also in sutra times, 265 ; 
+Fick, 21n, 23n, 48n, 56, 79, 84, 103.
 
-be brought, 995, 999. looks kept according to family 
+Fire (vide under 'agni' and 'gṛhya'): bears several names in several rites, 818; consecration of Vedic, by a man having a son and black hair, 350; five fires, 679; sabhya fire, 679; is mouth of gods, 698; not kindling śrauta or gṛhya fire or giving it up, an upapātaka, 685; three śrauta fires, 677; worship of gṛhya, may be done by wife, son, pupil or daughter if householder ill or absent, 307; worship of gṛhya, twice daily, 557.
 
-Damayanti, 613; chose Nala in usago or pravara, 264; materials 
+Fish, no unanimity among sūtras about eating of, 782.
 
-svayamvara, 623 ; name of, to be required in, 261; Duniber of locks 
+Fleet, Dr., 217, 867, 953.
 
-recited in the morning, 648; power of hair kept in, 263; principal 
+Flesh-eating (see under 'Cow') 772-782; causes that led to giving up of, 775-776; doctrine of Śat. Br. that flesh-eater is eaten in next birth by the animal killed, 775; flesh of certain animals highly commended in śrāddha, 780; flesh said by Śat. Br. to be the best kind of food, 773; flesh of certain birds forbidden, 781-782; flesh of five five-nailed animals allowed in many smṛtis, 777; flesh of certain animals forbidden, 777; given up by vast populations in India, 780; position of Manu as to, 778-779; references to flesh of ox, horse, cow and ram in Ṛgveda, 772; Vaiṣṇavas following Bhāgavata-purāṇa give up, 780.
 
-of as pativrata, 567. acts in, 261; procedure of, 261-263; times for performance of, 261. 
+Flowers, commended and prohibited for devapūjā, 732-733.
 
-Dana (see under books', 'gifts', 
+Food, (see under 'brāhmaṇa,' 'gifts,' 'vaiśvadeva,' 'flesh-eating,' 'milk'): abstaining from, in eclipses, 770; blemishes in, one of the four causes of death overcoming brāhmaṇas, 758; brāhmaṇa could take f. of five classes of
 
-iṣte-porta,' 'grante'), 837 ; Cullavagga, 592. 
+[[P1303]] śūdras in smṛti times, 161; cooked, but stale food forbidden, 784; coming from hands of or owned by certain persons forbidden, 787-788; forbidden postures at time of taking, 765; forbidden, 771, 785; gifts of, to be made daily, 133; grounds on which food becomes forbidden, 771; is life according to Veda, 755; large quantities of, how purified, 786; one should not partake of f. without giving to others, 755; obtained by begging supposed to be pure for *brahmacārins*, 310; Ṛgveda hymn in praise of, 758; rules about giving remnants of one's food, 769; rules about, became stricter with time, 161; rules about quantity of f. to be eaten, 766; should be greeted and not found fault with 762-763; sprinkling water round food in a plate with a mantra, 763; taking forbidden food is *upapātaka*, 771; who could be engaged to cook, 791; *yati* and *brahmacārin* have first claim on food cooked in a house, 935.
 
-brahman, who is not learned Cuñon, 82. 
+Forms of marriage: Brāhma and Āsura alone are in vogue in modern times, 525; courts have held in some cases that *Gāndharva form* is still prevalent, 525.
 
-should not accept dāng of gold, Customs (see maternal uncle's dau 
+Foucher, Prof. A., 725n.
 
-land, cow, borde8, Besame, 851; gbter'): Bṛhaspati declares that 
+Francis, St. 4n.
 
-certain things when offered must king should respect c. though at 
+Fraud, vitiates all transactions, 887.
 
-be accopted by everyone, 849 ; variance with sāstras, 462, 555; 
+Fuel-stick (*samidh*), rules about, 307-308; to be offered by *brahmacārin* twice daily in fire, 307.
 
-cows the most frequent subject of five c. peculiar to south and five 
+Furnivall, on child marriages in England, 446.
 
-gift in Rgveda, 837-838; danas others to north according to Baud., 
+Gadādhara: com. of Pāraskara-gṛhyasūtra, 537;
 
-'called dhonus, 880-881 ; danasoalled 458; Medbatitbi's explanation of 
+Gadyāṇakas: six as yearly salary, 355; thirty *nivartanas* of land purchased for 30 g. of gold, 853.
 
-meru or parvata, 882; defnition the oustom of marrying mātula 
+Gāgābhaṭṭa, officiated at coronation of Shivaji, 379n.
 
-of, 842; distinguished from homa kanya, 460; of marrying maternal 
+Gambler, song of, in the Ṛgveda, 125.
 
-and yāga and utsarga, 7141, 841, uncle's daughter, 459-461 ; in 
+Gaṇa, consideration of, in marriage, 514-515.
 
-893; division of, into nitya, naimit southern countries, 582 ; of coun 
+Gaṇa, meaning of, 67-68.
 
-tika and kāmya, 848 ; division of, tries and families allowed to be 
+Gaṇapati (see under 'Gaṇeśa'), meaning of, in Ṛgveda, 213.
 
-into sāttvika, rajasa, tāmasa, 849; observed in varriago, 627; various 
+Gaṇapati-pūjana, 213-216; preliminary act in all rites, 212.
 
-donor is a rare sight, 846; duty customs in marriage recogpisod by 
+Gāndhārī, power of, as a *pativratā*, 568.
 
-to make dana emphasised by day Adv. gf. and others, 627. 
+Gāndharva, 517, 519; form of marriage, indicated in Ṛgveda, 525; *homa* and *saptapadī* necessary even in Gāndharva and the subsequent forms of marriage, 521; the best form of marriage according to the Kāmasūtra, 522; very much in vogue among royal families, 522-523.
 
-ing a rich man making no gifts Cutobi memons, govorned by Hindu 
+Gandhi, Mahatma, 165; fast of, for removal of untouchability, 177.
 
-sbould be drowned, 845; eulogized Law in matters of inheritance up 
+Gaṇeśa, as the amanuensis of Vyāsa in Mahābhārata, 215; eight famous shrines of, 216n; images of, found from 5th century, 215, 725; images of, may have from two to 108 arms, 725; identified with supreme Brahma, 725; origin of the worship of, 213-216; peculiar features of, wanting in Vedic Literature, 213; red stone as symbol in worship of, 716; worshipped even by Jainas in medieval times, 725.
 
-oven in Agroda, 837; cigbt kinds to reoent times, 389. 
+Gaṇeśa-purāṇa, 725.
 
-of, forbidden by Nārada, 860; is Cyayını, autbor of a smrti, 1690, 
+Ganges, invoked in a verse repeated in sīmantonnayana, 225; mentioned in Ṛg., 12.
 
-either of ifta or purta, 844-846; 879. 
+Ganguly, Mr. O. C. 711n.
 
-limite imposod ar to, 850-851 ; Cyavanı, of the Bhrgagotra, married mahadanas, 869-877; merit (pupya) 
+Garbhādhāna, 201-206; a saṁskāra, 195; procedure of, in Bṛ. Up, 202; proper time for, 204; whether a saṁskāra of the woman or of the child, 205-206.
 
-pri20888 Sukanya, 447, 562; marri. of gift depends on mental atti ed soveral maidens, 660n. 
+Garbharakṣaṇa, 196, 220-221; same as *Anavalobhana*, 196, 220.
 
-tado, capacity of dopor and 
+Garden, procedure of dedicating to the public, 896.
 
-General Index 
+Garga, 267, 656, 660, 672, 825.
 
-1297 
+[[P1304]] Gārgī Vācaknavī, put subtle questions to Yājñavalkya, 365-366.
 
-manner of gift and not on oxtont, Dandio, 72,726. 847; Daivesika dana, 857 ; nine Denta-dhavana (brushing the teeth), kinds of, forbidden by Dakṣa, 653-658; in the morning as well 850 ; Dot to be made at night as a as after moals, 656; longth and general rule, 853; of food and breadth of twig, 655-856; mantra clothing may be made to any one, to be repeated when using a twig 838, 846; of land condemned in the a8 a brush, 654-655; troes tho Brahmaṇas, 840; of villagos mon- twigs of which are to be used in, tioned in Chan. Up. 840; of vidyo, 655; trecs tbe twigs of which are land and cows the best, 848 ; of not to be used in, 656; when not land surpasses dans of all other allowed, 656. tbinge, 848 ; of young damsela in Daradas, 83; view of Manu about, 47. Roreda, 838 ; persons to whom Darbhe, colour of, 657; differenco gifts should not be unada, 846 ; between kuga and. 657: pavitra presiding deitios of certain objects 
+Gārgya, a smṛtikāra, 926n.
 
-of, 657. tbat are donated, 839, 855; proce- | Dargapurnamase, 1009-1085; agharat dure of, 855-866 ; prohibition of in, 1051-1053; ahitagni had to per acceptance of dana of certain 
+Gārgya approached king Ajātaśatru for knowledge of brahma 38.
 
-form darda pūrna indsa throughont things, 851; proper times for, 
+Gārhapatya fire, 989, 992n &c.; mound of, is circular, 994n; only gārhapatya fire permanently maintained according to some, 999.
 
-life, or for thirty years or till he 851-853 , proper places for, 854; 
+Gāthāsaptaśatī, 215, 628.
 
-became very old 1009; ajyabhaga requires acceptance by the donee, 
+Gauḍapāda, author of kārikās, 301n.
 
-offerings, 1059–1060; anvāram 841; rewards expected from mak 
+Gaurīharapūjā, a ceremony preparatory to marriage, 536.
 
-bhaniya ipti on the first darde ing, 855n ; secret, best, 849 ; 
+Gautama, dharmasūtra of, 1, 6, 8, 39n, 53, 55, 59, 62, 112, 275, 278, 279 &c.
 
-pūrnamāsa after agayadbana, separate dakpiṇas to accompany 
+Gavām-ayana, is model of all sattras of one year or more, 1239; parts of, 1240; procedure of 1241-1245; the mahāvrata day in, 1243.
 
-1010; archetype or pattern of all various gifts, 854-855 ; six angas 
+Gāyatrī, 283; see under 'Sāvitrī,' 'patitasāvitrikā'; called 'Veda-mātā', 303; eulogy of, 303-304; how many times to be repeated by brahmacārin, ascetic &c., 686; japa of, is chief part of saṁdhyā, 313; meaning of, 302; meditation (*dhyāna*) of, 304n; must be repeated several times in saṁdhyā every day, 304; sacredness of, 303-304; *Śiras* of, 304; why the verse became so famous, 303.
 
-ipṭia, 1009; barbirabarana (bring. of, 843; sixteen futilo danas, 
+Genesis, 547n.
 
-ing bundles of kujas ), 1013-1014; 846; subjects of, 847-848 ; Audra 
+Getting up: auspicious and inauspicious sights on, 648; duties immediately after, 647; from bed before sunrise, prescribed for all but particularly for students, 647; to repeat names of famous heroes and heroines and long-lived persons on, 648; verses to be recited on, 647-648.
 
-barhirastarana ( strewing kusag on can make porta-dāda, though not 
+Getty, Alice, 725n.
 
-vedi), 1043-1044; begun on Arst ipta, 845 ; three kinds of subjects 
+Gharbhari Gosavis, 952.
 
-full moon day after agayādboya, of, 847-848 ; to be inade with 
+Gharmaśiras mantras, 994n.
 
-1010; brahia priest eats prasitra sraddba, 846; various rewards 
+Gharpure, Mr. 295n.
 
-without inasticating it, 1067; brah promised to makers of gifts of 
+Ghaṭasphoṭa, procedure of, 388.
 
-mavaraṇa (choosing of brahma dakṣiṇā, horses, gold and clothes, 
+Gholika, a caste, 102.
 
-priest), 1020-1021; choosing of 838-839; water poured on hand of 
+Ghora Āṅgirasa, teacher of Kṛṣṇa, 719.
 
-four priests, 1091; cutting off, of donee in, 854 ; ways of accepting 
+Ghosh, Raisaheb Jamini Mohan, 951n.
 
-ida, 1065-1066; deities of darsesti a gift, 841-842 ; what constitutes 
+Ghoṭaka-mukha, a writer on erotics. 432.
 
-aud paurnamāsosti, 1012; drawing dana, 841; what dana givos best 
+Ghurye, Dr. 29, 31, 32, 38n, 285n.
 
-linos with the sphya to indicate rewards, 846; what cannot be 
+Gifts (see under 'dāna'): acceptance of gifts made on the Ganges and of elephants, horses, beds of the dead condemned, 885; could be made by anybody to anybody, 115; donors should make only to learned or worthy persons, 114; even ignorant brāhmaṇas were allowed to accept gifts without scruples, 117; for dharma are held by courts to be void for uncertainty, 888; food may be donated outside Vedi to all, 114, 116; given unasked may be taken from anybody except *patita*, 114; grades of donors making, 113; merit of, differed according to the worth of the recipient, 115; not to be received from unworthy persons, 110; only learned brāhmaṇas should accept, 110; promised to a brāhmaṇa but not made become debts, 886; receiving gifts from a worthy person a better means of livelihood for brāhmaṇas than teaching or being priest, 110; sin incurred by accepting gifts that should not have been accepted, 885; sixteen kinds of invalid g., 887; strict rules about, gradually relaxed in favour of even ignorant brāhmaṇas, 117; when obligatory, 116; when not revocable, 886; when may be revoked, 887.
 
-extent of vedi, 1036n; hotvaraṇa, donated, 849-850; who could 
+Girl (see 'maidens'): every g. supposed to be under protection of Soma, Gandharva and Agni before marriage, 443; if not got married by father or brother could select her own husband, 442; marriage of infant, referred to in Gaut., 442; promised to one may be given to another who is
 
-1054-1055; idhmābarana ( bringing make, 845. 
+[[P1305]] worthier, 540; practice of finding out a male to go through a form of marriage with the corpse of a dead unmarried grown-up girl, 444; purchased for a price, did not become a *patnī*, 505; providing for marriage of girl with a brāhmaṇa highly meritorious, 856; remaining unmarried, was supposed not to go to heaven after death, 436, 444; sale of, in marriage condemned in sūtras and digests, 503-505; sale of, made punishable by Peshwas, 506-507; sentiment arose that the marriage of a girl must be arranged early and so even with one without good qualities, 443; taking wealth from a bridegroom for the benefit of a girl is not a sale, 505-506.
 
-fuel atioks ), 1014-1015; in Vock Danacaodrika, 886, 909. 
+Gītagovinda, 723.
 
-tion of Ida, 1066–1067; invoking, Daoakriy&-kaumudi, 212n, 842, 856, cloaning and taking up sruva and 
+Goals, of human life, four, 8-9.
 
-885, 891n, 892, 8930. 
+Gobhila, gṛhyasūtra of, 196, 203, 208, 222, 233, 234, 246, 255, 258, 261, 262, 264 &c.
 
-eruc ladlos, 1038-1039; isti on Danamayukha, 842, 864n, 855, 874n, pūrṇaināsa may occupy two days, 
+Gobhila, smṛti of (also called Karmapradīpa and Chandoga-pariśiṣṭa), 115, 215, 217, 265, 304n, 308n, 315n, 317n, 318, 328n, 511, 548 &c.
 
-878, 881. 
+Gocarma, measure of land, defined, 859n.
 
-bat can be finished in ono, 1010; Danaratnakara, 131n. 
+God, conceived as trimūrti by some, 724; eight forms of, 898; one, worshipped by many people in different ways and with different offerings, 715; was supposed to come down to earth to establish dharma, 720; worship of, with and without symbols, 896.
 
-kapalas op wbich cake is baked Dinastutis in Rgvoda, 837. 
+Godāna, same as Keśānta: 197, 402-405.
 
-are arranged on the garbapatya Danavākyāvali, 842n, 845n. 
+Godāna-vrata, a Vedavrata for brahmacārin, 371.
 
-mound, 1030-31; japa by botṛ, Danaviveka, 881. 
+Gode, Mr. P. K., 537.
 
-1048; madantt water poured over 
+Gods, wives of (see under 'wives').
 
-6. D. 163 
+Goja (or Goḍa), a caste, 79.
 
-1298 
+Golaka, 54, 80, 611; treated by Mitākṣarā as different from anuloma or pratiloma or savarṇa, 54; upanayana of, 298.
 
+Gomatī, river in Ṛg., 12.
 
+Gopa, a caste, 80.
 
-pounded grains to make a cake,1 Bomayaga, 1016-1016; second iqa 1030; Naristha homas, 1081-1082; / consists only of drops of ajya, nigada after 8&midhent verges re- 1078; spreading the antelopo skin poated by hotf, 1049-1050; airvāpa to the west of the utkara on which (taking out four handfuls of grains are to be pounded, 1026 grains ), 1023 ; one who has not 1027; Saktavaks ropeated by hot, threo pravara sages is not eligible 1073-1074; suunnons to havipkit for darśapūrnamāl& according to differed according to varṇa of Jaimini, 1055n; offering of water sacrificor, 1027; tbird purodada 1180d for scouring volgels to Ekata, offered to Indra Vaindha in full Dvita and Trita, 1034; offering to inoon ipṭi uccording to some, 1085; Agni Svietakrt after purodadas, upārnsuy&ja, after the first puro 1063-1064; patpisanyājas, 1076. I dāda, 1062; Veda (bunch of dar 1077; patoisampabana, 1010-1041; bhas so called) how cut and for pātras (utensils) required in, what purposo, 1014-1015; vodi, 10159, 1020; pātrāsādada, 1020; construction of, to west of alava Pinda pitļyajña performed only in niya, 1034-1038; Vipnukramas, darāeṣti, 1015, 1085-1090; plenty (four), 1083; yajamāna repeats of rice cooked is dakṣiṇā for the Atimokpa mantras towards the priests, 1069; portion cut off for ond of the frite, 1084, offering from onko &c) is as much Das, S. K., 921n. 48 front joint of thumb, 1061; Dāse (866 under dasyu), antago pranit. waters, carrying forward nism of, to Aryas, 26; distinguish of, in, 1021-1022; prastara (first 
+Gopatha-brāhmaṇa, 270n, 272, 279n, 303, 327, 350, 353.
 
-ed from Aryan foes or other handful of kusa grass that is cut), Aryas, 27; same as dneyu in 1013; prastara is thrown into fire, Rgveda, 26; vanquished by Aryas 1072-1074; pravara-mantra repeat- and became sūdras, 33. ed by botṛ, 1050; prayāja offer- Dada, a Asherman, 83. ings in, are five, 1056-1057; puro- Dasahotī mantras, 993, 1024a, 1168. data, preparation of and giving it Dasakuināracarita, 806. shape of tortoise, 1032; purodāsas, Dasa peya; brāhmaṇa, for drinking offoring of two, 1061-1063; re- some in, had to trace ten gonora mnants of purodāsa are divided tions of learned ancestors on both into four and eaten by priesta, sides, 252, 1220 ; proceduro of, 1068-1069; rites performod on 1220-21. upavasatha day where the ipṭi ex- | Dannemis, ten orders of saṁnyasins, tends over two days, 1010; dakha-1 9480. barana rite to be performed if the Dasyu (800 under dasa), differed sacrificer has already porformed from Arya in colour and cult, 26; som& sacrifice, 1011-1012; Sami- characteristics of the tribo of, 26; dhoại verdes in d. repeatod by identified with aguras in some hotr 1048-1049; Samiętayajus cases, 26. bomas, 1082; Samsthajapa, 1080; Dattakamimama, 186a. Saiyuvaka formula recited by Dattatreya; as avatóra of Vippu in hotr, 1075; Sannayya offered in the Bhagavata-purāṇa, 721; de. darsepti by one who has performed voteos of, offored bim wide and somayaga, 1012; Sarvaprāyasoitta meat, 726; referred to as parama muntras, 1080a; Sayam-doba for harga in Jabalops nigad, 720; wor sacrifioer who bus once performed xbip of, popular in the Decoan, 726. 
+Gopīcandana, clay used to mark forehead after a bath, 673.
 
-mta. 84 
+Gopīnātha, author of Saṁskāraratnamālā, 201n.
 
-atb of imago,' aparadhaelya) albo 
+Gosahasra, a mahādāna mentioned in Harṣacarita, 869; procedure of, 874.
 
-· General Index 
+Gosava, a one-day Soma sacrifice, of strange practices, 1213n.
 
-1299 
+Gosūkta, 1006.
 
-Daughter, is like the son and is Devāpi, descendant of Paru, will 
+Gotra, (see 'marriage', '*sagotra*', 'women'), 479-501; conception underlying the idea of gotra was familiar to the poets of the Ṛgveda, 479; connection between gotra and pravara, 497; details of worship differed according to the founder of the group called a gotra, 480; eighteen gotras according to Bālambhaṭṭī, 489; father's gotra, retained by woman even after marriage, if a woman was a *putrikā* or married in āsura and the following forms, 466; gotras grouped into gaṇa, pakṣa, 486; importance of, in several practices and rites; 481-482; is known only by immemorial tradition, 486; majority of gotras have three pravaras, 491; means progeny of eight sages according to Baud. Śr., 483; meaning of, in Ṛgveda, 479; meaning of, in Pāṇini, 485, means secondarily any illustrious founder of a family, according to Medhātithi, 485-486; millions of gotras, but pravaras are only 49, 484, 489; mythical kings as founders of, 496; of child born of void marriage inadvertently entered in, is Kaśyapa, 497; of women, discussion in smṛtis and digests, 466-467; originally only four gotras
 
-one's own self according to Manu, revive ksatriya race, 380-381. $10; was not greeted as much as Deva pratinthatattva of Raghunan tbe 800, 509-510. 
+[[P1306]] according to Mahābhārata, 489; pravaras of same gotra differ, 495-496; reason why brahmacārin was asked, 285-286; rules for one who does not know his own, 495; some gotras have one, two or five pravara sages but never four, 491-492; system of, among Buddhists also, 494; theories about grounds of prohibited degrees in, 477-478; two gotras for some families, 492-493; two gotras have to be considered in marriage of an adopted son, 493; two meanings of, 485-486; two views of gotra of women, 466-467; woman enters husband's gotra by marriage particularly in the first four forms, 463, 466.
 
-dana, 8970, 900, 904. Dausmanta, 84. 
+Government, often tribal, in the Ṛgveda, 39.
 
-Devapūjā, ( vido 'image' and 'imago Day, division of, into two, throc, worship,' 'lIrtha', 'naivedya') also 
+Govindarāja, com. of Manusmṛti, 110n.
 
-five or oight parts, 644-645; divi- is & yāga, 714; a paradhas in, 736 ; sion of, into thirty mubūrtas, is bath of image, how effected, 731 ; anciont, 645. 
+Govindasvāmin, com. of Baud. Dh. S., 518, 929.
 
-bath of image with ivo ingredi Dāyabhaga, 584n ; conferred bighor onts, 731 ; diforont from Dova 
+Grahamakha, a rite performed before upanayana, 286; and in vāstuśānti and on other occasions, 835.
 
-rights to proporty on tho widow yajua of the Tri. Ar. and satras, of a deceased coparooper in Bengal 405; flowers to be employed in, tban anywhere olso, 635; men- 732-733, is only one for all mem tions no vodic passages for its bors of a joint Ilindu family, 714; theory of sapiṇda, 477; on sapindla lamps in, to be fod with ghee or * rolationship, 452, 472-477. 
+Grahaśānti (see under 'planets'): procedure of, according to Yājñavalkya, 884; dānas for propitiating planets, 885n.
 
-808ame oil, 733; mon of all varṇas Dāykkramaganigraha, a work of and womon can perform, 714 ; 
+Grant-Duff, author of History of Marathas, 178.
 
-Srikrena, 474. 
+Grants, (see under 'dāna', 'gifts', 'mahādānas', 'sin'): curse pronounced on him who would resume grants, 863; 865; extent of, described with great exactness in, 864; eight *bhogas* of land in, 865; for bali, vaiśvadeva, agnihotra and mahāyajñas, 854; for university scholarships in ancient times, 361, 369; forged copperplate grants, 867; made for agnihotra, vaiśvadeva, *caru*, bali &c., 113n, 979; made by kings and wealthy donors for the study of various branches of knowledge, 355, of land held to be highly meritorious, 856, 858-859; of lands after purchasing them from the owners, 856, 864; of lands and villages at solar and lunar eclipses, 853; of land sometime resumed by later kings, 863; of village to a brāhmaṇa in honour of Buddha, 854; prior grants to temples and brāhmaṇas were excepted when making grants of villages, &c., 863; rules about royal grants of lands or *nibandhas*, 860-861; sin in resumption of grants made by former kings, 861-862; verses deprecating resumption of, 861-863.
 
-naivedyn ( food offering) in, 733 Debts, son's pious duty to pay debts 734; namaskara in, 735; ornaments 
+Gṛhapraveśanīya homa, a rite in marriage, 535.
 
-of father and other ancestors does for images of gods should bo of not include debts for drinking, real gold and jewols and not 799; theory of three, due to gods, imitation ones, 732; nirmalys sages and pitṛ8, 270, 425, 560, (removed flowers) purify the wor. 676, 1134. 
+Gṛhastha (householder), must worship gṛhya fire from day of marriage, every day twice, 307, 678.
 
-shippor, 732; of threc borts, Vaidiki, Deluge, story of, 1005n. 
+Gṛhastharatnākara, 78, 124, 125, 126, 134, 304n, 314n, 318, 415n, 434, 438n, 446 &c.
 
-Tantrikr and midra, 740; perform Desastba brahmaṇas: of Madhyan- od after morning home or after 
+Gṛhya (fire): if goes out, husband and wife have to observe fast that day, 682; one should not blow on, with the mouth, 682; several names of, 678; time from which to be maintained, 678-680; whence brought, 682.
 
-dina dakha, marriage customs of, brahmayajña, 705 ; procedure of, 470-471; of Mysoro and Karnāṭaka, 
+Gṛhyapariśiṣṭa, 206, 239, 254, 284n, 469, 521, 543.
 
-in modern tiines, 739-740; rules 467. 
+Gṛhyasaṁgraha, 328n.
 
-about water (1sed in, 730-731 ; sest Doslıpando, Dr. Mrs., 195n. 
+Gṛhyāsaṁgraha, 443.
 
-for worsbipper in, 731 ; time for, Dousson, on grandeur of the concep- 714; unguents in, 732 ; upacāras 
+Guardians: for the marriage of girls, 502-503; may be fined for concealing defects of marriageable girl, 540.
 
-tion of aśramas, 423-424; propounds in, 729-735; water usod in bath of that ksatriya, were pionoors of image treated as sacred 731; wav Brahmavidya, 106n. 
+Guests: ascetics and brahmacārins are the foremost among guests, 754; greeting to, differed according to varṇa, 753; honour how shown to, 752; how an unlearned brāhmaṇa or a kṣatriya or a vaiśya was to be treated when a guest, 753; king to set apart some paddy in each village for śūdra guests, 753; madhuparka was offered to, 542; householder to dine after serving food to guests, 755; should
 
-ing lamps before an image, 733; Devadasis (minor girla dedicated to word occurs in the Vārtikas of 
+[[P1307]] be honoured, because they may be *yogins* in disguise, 754; when guest departs, host must accompany to some distance according to eminence of guest, 756; wife of householder to look after guests in his absence, 753.
 
-sorvico in temples ), 904. 
+Guhaka, a caste, 79.
 
-Katyāyana, 714, Dovadaris Protection Act of 1934, Dovata, forın of, discussed in Niru 
+Guilds, boundary disputes to be settled by, 67.
 
-904; 
+Gulma, meaning of, 68.
 
-kta, 712 ; which meant in grbye Devala, 7, 16n, 53, 72, 78, 810, 1097, rites when none specifically men 
+Guṇadharma, meaning of, 3.
 
-115, 121, 264. 293n, 324 &c.; tioned, 208 and n. tackled the problem of taking Devatadhyāya, of Samaveda, 1170n. back into Hindu told people con- Devayajada (place of sacrifice ), 
+Gupta Inscriptions, 217, 218, 245, 251, 494, 629, 775, 857, 860n, 861, 863, 864, 867, 927, 953.
 
-verted to other faiths, 389-390. 988n, 1134-1135. Devalake, temple priest, 109a ; not Devayajña (vido devapaja), 705-740; 
+Guptas, Imperial dynasty of, 953.
 
-to bo invited for sraddha, 711. consisted in offering into fire Deva pala, com, on Kathaka-gobya, offerings or fuel sticks, 705 ; 
+Gurava, see bhasmāṅkura, 102.
 
-219, 228, 2481, 832. 
+Guru: called āhavanīya fire by Manu, 312; defined, 324; fee to be given to, at end of studies, 360-361; five gurus deserve special honour, 324; importance of, 322; three highest gurus are father, mother and ācārya, 324; to be looked upon as God by the pupil, 322.
 
-devatao differed according to gakh& Devapi, purobita of Santapu, 31, 705; distinction made betwcon 
+Hall, Fitz-Edward, 636n.
 
-109. 
+Halsbury, 143, 572n, 573n.
 
-devayajña and devapuja in later 
+Haradatta, 6n, 56, 62n, 70n, 71, 74, 105n, 140, 159, 200, 275n, 286 &c.
 
-1300 
+Harappa, seals excavated at, 348.
 
+Haribhadra, 359n.
 
+Harihara, bhāṣya of, 198, 284n, 813n.
 
-sugtis, 705; vaisvadova oame to be Dhṛtarāptra, bocame forost hermit looked upon 48, 705. 
+Harijan, meaning of, 179.
 
-after Kaurava war, 923. Devipurāṇa, 176, 217, 900. 
+Hariścandra, 241; had one hundred wives, 551; story of, 37.
 
-Dhvajı, 84. Dhammapada, 336n. 
+Hariścandra, prince of Kanoj, 240; nāmakaraṇa of, 240.
 
-Dico-play, in Rajasūya, 1219. Dhanyas (cords ), eighteen kinda Dickens, in Oliver Twist, 40. 
+Harivaṁśa, 156, 978.
 
-of, enumorated, 874n. 
+Hārīta, 80, 82, 84, 89, 94, 96, 125n, 126, 128, 171, 188, 192, 204, 236, 264 &c.
 
-Diksā, procedure of, in Agniptoms, Dharādina, a mahadāna, 876. 
+Harṣa, emperor, 388, 532, 628, 867; was worshipper of the Sun though his elder brother was a Buddhist, 724.
 
-1137-1138. Dharesvara, allowed widow to buco Dikșaniyā iṣti, in Agniṣtoma, 1136 
+Harṣacarita, 87, 215, 430, 446, 450, 510, 532, 584, 598, 628, 630, 722n, &c.
 
-ceed to sonless husband if sho 1138 ; is finisbed when patoidar submitted to niyoga, 600n. 
+Hathigumpha Inscription (2nd century B. C.) 364, 869.
 
-yajas are offered, 1137 Dharma, (see under 'paripad', 'fipta'), Dikṣita, food of, not to be eaten till condict betwoon other goals and, vapāhoma, 758; Dot to be address. 9; doubtful points of, should be ed by name, 333; restrictions as decided not by more reliance on 
+Haug, 1012n, 1014n, 1032n, 1050n, 1119n, 1145n, 1161n, 1164, 1182, 1185n, 1213n, 1240n, 1244, 1246n.
 
-to food for, 1139; rules to be sastra but by reasoning, 967; observed by wife and dikpita, divisions of, six, 2-3; one of tho 1 1139-1140; should not speak with 
+Haviryajñas, seven, 194, 1224.
 
-four goals of buman existence, 8; 
+Haviṣkṛt, call, 157, 1027n.
 
-a dūdra while opgaged in sacrifice, menning of, 2 ; qualities that 35; when a man is entitlod to be secured dharna for all, 10; quin- | called a, 1136. tessence of, 7; Samkarācārya and 
+Haviṣya (to be offered in fire), ten materials fit for being, 681.
 
-Diksitar, Prof. V. R., 719. learned brahmanad at holy places 
+Hayagrīva, as avatāra of Viṣṇu, 720.
 
-Dipāras, golden, 3880, 8600 ; inter claim the exclusive rights of res 
+Heinrich, Rev. J. C., 179n.
 
-ost on twelve dipāras was sufficiout toring to castos or excommunica 
+Heliodorus, Besnagara Inscription of, 719-720.
 
-to feed one bhikṣu throughout the tion for lapses, 971-973; distas to 
+Hell, called Kālasūtra, for him who sells his daughter in marriage for his own livelihood, 506.
 
-year in the Gupta period, 6600. dooide the doubtful points of, 967; 
+Hemādri, 3, 6n, 11, 209n, 308n, 381, 451, 577, 852, 853n, 854 &c.
 
-Dipakalika, a com, on Yaj., 471. smārta, 2; sources of, 2 ; srauta, 
+Hemahastiratha, a mahādāna, 875.
 
-Directions, objectionable, 305n ; pre 2; to be preforred to artha and 
+Hemāśvaratha or Hiraṇyāśvaratha, a *mahādāna*, 875; performed by Lakṣmaṇasena of Bengal, 870.
 
-siding deities of four, 7450 ; 10 kāna, 8; ten-fold, common to all, 
+Herbert, Mr. A. P., 622.
 
-objectionable, in which religious 
+Hereditary Offices Act, 178.
 
-acts may be perforined, 305n. Dharmasāgtra, extensive literature on, in ancient times, 355 ; prima 
+Heretics, to be banished from capital according to Manu, 359n.
 
-Dirghatamas, forbade remarriage 
+Hillebrandt, Prof. 977, 978n.
 
-and niyoga, 612. rily conoerned with varnāsrama dharma, 11; primarily concorded 
+Himālaya, 13; abandoning life in, by fasting, said in Mahābhārata to lead to mokṣa, 925.
 
-Divākirtya, 84. with practicos in aryavarta, 18; 
+Hiṁsā (killing or injury to an animal): doctrine that hiṁsā is ahiṁsā if done according to Veda for sacrificial purposes, 779.
 
-Divorce, Indian Act, of 1869, 621. subjects lower aims to higher, 9; 
+Hindu (see under 'reconversion'): absorption of non-Aryan elements into Hindu society, 384, 389; excommunication of, how brought about, 388; keeping of śikhā, one of the outward signs of, 264; may lose caste, but can come back after expiation, 387; no procedure in the smṛtis for converting to Hinduism those who never belonged to it, 388; quietly absorbed non-Aryans, 388-389; religion, not avowedly proselytizing, 387; reconversion to, of those forcibly converted, 379-392; tenet of adhi-[[P1308]]kārabheda in, 714–715; tolerance in, examples of, 388n.
 
-Divorce (see under 'inarriage'), 619 topics of, in Gautama and other 
+Hindu Widows' Remarriage Act (of 1856), 616.
 
-623 ; abandopment (tyāga ) of sūtrakāras, 1; works proceeded on wife is not, 620; a vinculo matri &ssumption that the Voda is oter 
+Hiraṇyagarbha, a mahādāna, 872–873; all saṁskāras symbolically gone through by donor in, 872; performed by king Dantidurga at Ujjayinī, 876.
 
-monii unknown to Hindu society nal, 362; works glorify bousc 
+Hiraṇyagarbha (Creator), addressed in Ṛg. X. 121, 172.
 
-(except by custom among lower holder's life and push into bao! - 
+Hiraṇyakaśipu, was killed by Viṣṇu in man-lion form, 718.
 
-costes ), 620; in England and in ground life of saṁnyāsa, 424. 
+Hiraṇyakeśigṛhya, 162n, 196, 197, 199n, 202n, 203, 205, 208, 233, 235, &c.
 
-Roman Catholio Church, 622-623; Dharmasind bu, 200, 206, 236, 249n, 
+Hiraṇyakeśi-śrauta-sūtra, 483.
 
-Kautilya on, 621-622 ; Marriage in 457, 462, 465, 468, 502, 536, 636 &c. 
+Holdsworth, 118n, 142.
 
-approved forms cannot be dissolv Dhenus, are gifts of certain articles, 
+Holy places, 854; gifts made at, confer infinite reward, 854.
 
-ed according to Kautilya, 621-622; 
+Homa: daily homa in gṛhya fire may be done by wife, 557; description of model, 207–208; distinguished from dāna and yāga, 714n; materials required in gṛhya, 209–210; order of the several actions in, 210–211; priest cannot offer, in the absence of both spouses, 683; to be offered by the house-holder himself or his wife, son, pupil &c., 683; two views about time of performing daily homa, 675–676; when no material specified, ājya is offered in, 681, 986; when performed in morning and evening, 675–676; who can offer homa, in the absence of householder, 683.
 
-nothing in the Vedic texts about, 880; ten kinds of, according to Matsya, 880.881 ; twolve kinds of, 
+Honour (see under 'courtesy', 'guest'): grounds on which honour was to be shown, 345; learning, foremost ground for paying, 346; showing, to one who is not a teacher or a relative, 344; shown in various ways, 334–337;
 
-.619, according to Vardhapurāga, 880. 
+Hopkins, Prof., 3n, 107n, 720n, 776n.
 
-Divya-8n8na, 368. Duigvana, 84. 
+Horse, with white spots in five places on his body is very auspicious and is called pañcakalyāṇaka, 875n.
 
-Doma (or domba ), & vaste, 82; samo Dhivera, & caste, 84. 
+Horses: Gautama mentions horses as objects of gift, 839; gifts of, in Ṛgveda, 838; gift of, condemned in Tai. S., 181, 839; iṣṭi to Varuṇa to be performed by the donor of a horse in a Vedic sacrifice, 839.
 
-as āva paca, 82. 
+Hospitality (*vide* under 'manuṣya-yajña'): eulogy of, in Atharvaveda and smṛtis, 749, 752; is not for the undeserving, 750.
 
-11. 
+Hospitals, called ārogyaśālā, 885.
 
-General Index 
+Hotṛ priest, position of limbs of, in sacrifices, 1047.
 
-1301 
+Householder (see under *food, gṛhastha, śālīna, yāyāvara*): brāhmaṇa householder to approach king or a rich man for his maintenance 689; duties of, 643; eulogised as the highest āśrama, 425, 640; importance of stage of, 640–641; life of, not regarded as inferior to that of an ascetic by most dharmaśāstra works, 424–425; not to partake of food till guests are fed, 755; not to stint one's servants and slaves as to food in order to feed guests, 755; the only āśrama according to Gautama and Baudhāyana, 424–425; varieties of, 641–643; was to allow girls of the family and ailing persons to take food before him, 755.
 
-Drābydyana-frauta-sutra, 2400,9889, sacrifice of goat or buffalo for, 739; 
+Hultzsch, Dr., 506n.
 
-1134, 1145n, 1168, 1185, 1196n. stated to be fond of blood and Draupadi: according to Kumārila, wine, 738; worship of, 738-739. 
+Hūṇa, princesses married to Hindu kings, 389.
 
-there wore really five wivos of Durgārcana puudbati of Raghunan. the Pāṇda vas very similar to each 0808, 739. othor, 655; svayarrara of, 523; Durva, plant favourite of Viṣṇu, 732. wife of five brothora, 554. 
+Husband (see 'marriage', 'wife'): abandoning a blameless wife had to undergo expiation and was punishable by king, 551, 569; and wife to perform sacrifices together, 367, 429; has no ownership over wife, according to several writers, 508–509; identity of husband and wife accepted in religious matters but not for secular and legal purposes, 573; mutual duties and rights of wife and husband, 556–582; mutual fidelity highest dharma of wife [[P1309]] and husband, 619; not ordinarily liable for wife's debts, 573; not to prove false to each other in three puruṣārthas and not to be separate from each other, 556; power of correction of, over wife, 569; principal obligations of wife and husband 556; rules about sexual intercourse between husband and wife, 801–802.
 
-Dutt, N. K., 168. Dravidag, 84; Maou's viow about, 47. Dvadasaba, & Soma sacrifice, 1213 Drinking (liquor ), 792-798; 8c0 14; is both an ahina and a sattra, 
+Hymns, Vedic, recitation of which purifies man, 685–686.
 
-'Arjuna', 'Vāsudova,' 'liquor'; brāli- 1213; difference between D. us maṇas drink rum in north India abina and as sattra, 1214. According to Baud. 795; brāhmaṇas Dvijati or dvije, beaning of, 189; had given up drink at time of 
+Ibbetson, 66.
 
-three higher vargas are callod, u8 Kathaka-samlita, 793-794; Opu 
+Iḍā, daughter of [[Manu.,|Manu,]] 1065n.
 
-upanayana is 2nd birth, 189; who morated among five grave sing in 
+Iḍāpātra, 1065n.
 
-neglects Veda and studies other Chan. Up., 794; forbidden to 
+Images (*vide* 'devapūjā,' 'temples'): cannot be owners of property in the literal sense, 911; consecration of images in temples not dealt with in principal gṛhya and dharma sūtras, 896; doubtful if worship of, prevailed in Vedic times, 706–707; expressly mentioned by Mānavagṛhya, Baud. gr., Laugākṣi gṛhya, and others, 709; are juridical persons capable of holding property, 911; materials of which images are made, 715; of Buddha began to be made about a century or two before Christ, 711; of Śiva and Skanda spoken of by Pāṇini, 710; proper sizes of, in the house or in temples, 716; views about origin of, in India, 711–712; whether trustee can substitute a new image or remove it to another place, 916; witnesses to be sworn in the presence of images of gods, 709; worship of five gods called pañcāyatana, 716–717; worship of, not necessary for everybody, 714–715; worship of, whether derived from śūdras, 711; worship of, may be in a private house or in temples, 897.
 
-loros becomes a sudra, 356. brahmaṇas at all stages of life, 795; in s&utrāmaa ni iṣti, 793; liquor Ears, piercing of the lobes of, in the prepared from molasses or flowers 
+Immortal, names of seven persons believed to be 259n.
 
-case of infants, as a rite in anciont not forbidden to ksatriyas and 
+Impurity, on birth none till navel cord is cut, 236.
 
-and modern times, 255. vaidyas, 795; prohibition as to Edicts, of Asoka, 10, 93, 4140, 724, drinking did not apply to brālı 
+Indian Antiquary, 85, 217, 240n, 245, 349n, 506, 593n, 598, 629, 799, 865n, 867, 1245; New I. A., 75n.
 
-778, 894. Wana woiuen according to some, 
+Indian Historical Quarterly 85–86, 238n, 319n, 720n, 864.
 
-Education, (see under 'guru,' approde 795; surā distinguished from Soma 
+Indians, discrimination against in South Africa, 165.
 
-tice', 'universities', 68vadhyaya', in Vedic literature, 792; surā said 
+Indra: and Ahalyā, 1145n; and Medhyātithi Kāṇva, 1145n; born of Menā of Vṛṣaṇaśva, 1145n; festival of raising the banner of, called Indramaha, 398, 825–826; guilty of brahmahatyā in killing Viśvarūpa, 147, 801–802; killed Namuci with foam, 718–719; said to be grandson of sage Śṛṅgavṛṣa, 717; secret name of, is Arjuna, 241; some people do not regard him as god in Ṛgveda, 358n; spoken of as 'meṣa', 1145; transferred sin of brahmahatyā to earth, trees and women, 802.
 
-"Veda', 'vidya', 'women'), in ancient to bo of three kinds, 795 ; surā 
+Indrāṇī (wife of Indra), 1041; worship of, in marriage ceremonies, 536.
 
-India, 321ff; corporal punishment primarily applies to liquor pre 
+Indrayajña, 824–825; on full moon of Bhādrapada, 824.
 
-how far allowed in anoiont lodia, pared from flour and it is this that 
+Infanticide, 509.
 
-362-363; defects of, 370; given is forbidden to all dvijātis, 795; 
+Infanticide Act in England, 509.
 
-without prior agreement about ton kinds of intoxicants forbidden 
+Inge, Dean, 138, 146.
 
-foes, 359-360; instruction was to brahinanas by Viṣṇu Dh. S., 757. 
+Inscriptions, 61, 65–66, 68–69, 70, 77, 85, 87, 113n, 123, 145, 217, 248, 355, 382, 384, 388n, 389, 494, 553, 615, 629, 719, 722n, 730, 737n, 774, 839, 853–854, 856, 857, 859n, 860n, 862–865; 870, 883, 903–904, 909, 913n, 925–926, 928, 978–979.
 
-oral, 321, 348; knowledge learnt Drona, a brābmaṇa commander, 123, 
+Īśāna-bali (see under *śūlagava*), 831.
 
-orally from a toacher more effective, 322; taught the Kauravas and 322; literature to be studied vast Pandavas but without prior stipu 
+Ishwar Chandra Vidyasagar, Pandit, 614, 616.
 
-even in anoient times, 353-354 ; lation for feos, 362. 
+Iṣṭāpūrta: defined by the Mahābhārata, 884; meaning of, in Vedic Literature, 843–844.
 
-no directions in sutras about edu Drona-parva, 80, 84, 88, 322, 329, cation of obildren boforo upa 
+Iṣṭi: distinguished from a paśuyāga or somayāga, 981n, 986; on birth of a son, 228–229; sacrifice in [[P1310]] which four priests are employed, 1009.
 
-511, 539. 
+Īśvarasena, an Ābhīra king, 68, 73, 252; described as Māḍharīputra, 252.
 
-nayana, 265–266; of kpatriyas and Drgadvati, river in Rg., 12; falls into vaibgas, 363-364; of prince in 
+Itihāsa-purāṇa, as fifth veda in Upaniṣads, 354; as *svādhyāya* or brahmayajña, 353, 701; to be read in the 6th and 7th parts of the day, 799.
 
-the Sarasvati, 150. 
+It-sing, Chinese traveller, 369.
 
-Kautilya, 266 ; of princes in Drubyus, 39. 
+Jābāli, 667n.
 
-specially built houses, 364; of Dumont, Prof., 9770. 
+Jābālopaniṣad, 197n, 421, 726, 918, 930, 931, 943, 963.
 
-women in ancient India, 365-368; Durbbara, 102. 
+Jacob, story of, in the Bible, 547n.
 
-oral instruction persisted in be Durbrābmaṇa, who is, 1080. 
+Jaimini (see *pūrvamīmāṁsā*): 17, 29n, 34n, 36, 109, 152, 154n, 156, 182, 190, 229, 269, 297n, 350, 352, 367, 383, 401, 463, 469n, 482, 494, 504–505, 507, 557, 560, 568, 581, 589, 684n, 714n, 793, 803, 849, 865, 889, 984, 985n, 989, 996n, 998, 1010n, 1016, 1019, 1024, 1026, 1027, 1057n, 1058, 1060, 1064, 1069, 1073n, 1074, 1085, 1086, 1095, 1110, 1114n, 1115 and n, 1116, 1129, 1130, 1131, 1132, 1133n, 1134, 1135, 1136, 1137, 1138, 1139, 1140, 1141, 1145n, 1146, 1151n, 1154, 1168, 1175, 1182, 1183, 1184, 1189, 1190, 1199, 1200, 1203, 1205, 1211–12, 1222–23, 1228, 1241–42, 1246, 1250.
 
-cause it was cheap and ensured Durgā, eighth of bright half of Assina accuracy, 348 ; originally father 
+Jaimini, author of a smṛti, 236, 312n.
 
-Bacred to, 138; Devluahatmya, taught his son, 321; prejudico principal text of worshippers against Coarning from books in of, 738; killod Mahiṣāours, India, 347, 349; salient features 638; metallic stone used in wor of system of, in ancient India, ship of, 716; Dimes of, 738 ;' 369-370; subjects of study, 362;1302 
+Jainas, as worshippers in temples of Jina, 722; religious suicide allowed among, 927–928; touch of, entailed bath as expiation, 169, 665
 
+Jalāśayotsargatattva of Raghunandana, 892, 893n.
 
+Jalopajīvin, 82.
 
-syalem of pupil teachers in, 349- 1 ohildren, 507-508; power of, to in 
+Jamadagni, cow of, carried away by Kārtavīrya, 41; descendant of, in Tai. S., 479; descendants of, are pañcāvattins, 528n.
 
-344; toucher was the pivot of the flict corporal punishment, 608.. bystem of, 321; teachers addressed Fomalo Infanticide Prevention Act pupils by their gotr& names in of 1873 in India, 509. Upanipad times, 481. 
+Jāmadagnyas, divisions and subdivisions of, 490; special usages of, 481–482.
 
-Fiok, 210, 23n, 48n, 56, 79, 84, 103. Eggeling, Prof., 977, 10310, 11630, Fire (vide undor 'agoi' and 'grhya'): 
+Jana, meaning of, 1212n.
 
-12190, 1227, 1236n. 
+Janaka, king of Videha, 13; asked Yājñavalkya to expound saṁnyāsa, 421; discussion of philosophy in court of, 365; expounded to Yājñavalkya philosophy, 105; had studied Veda and Upaniṣads, 106; made a gift of himself as slave to Yājñavalkya, 181.
 
-bears several names in several rites, Ekalavya, story of, 322. 
+Janamejaya: his priest Indrota, 241; received Vyāsa with madhuparka, 546.
 
-818; consecration of Vedic, by a Emuga, boar called Emuṣa, raised man having a son and black hair, 
+Jānaśruti Pautrāyaṇa, 838; addressed as śūdra by Raikva, 155.
 
-the earth out of water, 718. 
+Japa (see 'mantra'): alone confers on brāhmaṇas highest perfection, 686; is of three sorts, 686; of mantras like 'om namo Viṣṇave,' 687; of Gāyatrī and other mantras is chief part of Saṁdhyā, 313, 318; should comprise Gāyatrī and Puruṣasūkta at least, 686; when to be performed, 686; where to be performed, 686.
 
-350 ; five fires, 679; sabhy& fire, Encyclopaedia, of Social Sciencos, 679; is mouth of gods, 698; not 
+Jaṭā, a mode of reciting Veda, 347.
 
-165, 1800. 
+Jātakarma, a saṁskāra, 196, 228–237; āyuṣya is one of the rites in, 233; elements in rite of, according to Bṛ. Up. 229–230; procedure of, according to Āśv. gṛhyasūtra, 231.
 
-kindling Srauta or grbya fire or Encyclopaodia Britannica, 40. 
+Jātakas (Buddhist birth stories), 13, 85, 945.
 
-giving it up, an upapataka, 685 ; Eudogamy, 23, 24, 436. 
+Jāti, generally distinguished from varṇa, but sometimes confounded, 55; does not occur in Vedic Literature in the sense of caste, 55; lays great emphasis on birth and heredity, 55; meaning of, 54; word occurs in dharmasūtras, 55.
 
-three srauta fires, 677 ; worship of Ends, dharmaśāstra roquiros sub- gphya, may be done by wifo, son, 
+Jātiviveka, a modern work, 71, 74, 83, 84, 92, 97, 102.
 
-jection of lower to bigbor, 9; pro- pupil or daughter if householder ximate and remoto, 9. 
+Jātūkarṇya, 157n, 194, 219.
 
-ill or abaent, 307; worship of England, marriagos of infants of 3 grbya, twice daily, 557. 
+Jātyapakarṣa, doctrine of, explained, 62–65; two kinds of, in Yājñavalkya, 64–65.
 
-yoars and onwards took place 300 Fish, no unanimity amoog aatras yoars ago io, 446. 
+Jātyutkarṣa, doctrine of, explained, 62–65; two kinds of, in Yājñavalkya, 64–65.
 
-about oating of, 782. Enthoven, 73, 9040. 
+Jaya, mantras from Tai. S. 253n.
 
-Fleet, Dr., 217, 867, 953. Epigraphia Indica, 61, 66n, 68, 70, Flesb-eating (sed under Cow') 
+Jayarāma, com. of Pāraskara-gṛhya, 284n, 813n.
 
-72, 77, 87, 92, 94, 113n, 123, 145, 772-782; causes that led to giving 216, 217, 240n, 245n &c. 
+[[P1311]] Jhalla, 82.
 
-up of, 775–776 ; doctrine of Sat. Ethics, conscience is basis of, 7; Br. that flesh-eater is eaten in 
+Jīmūtavāhana, author of Dāyabhāga, 452.
 
-no detailed examination of prinoi- next birth by the animal killed, 
+Jīvanmuktiviveka, 937, 941, 946, 950, 964.
 
-ples of, 3 ; two principles stated, 7. 775; Gosh of cortain animals bigh Eugenios, rules about, 205, 430. ly commended in Hraddha, 780; Europeans, privilegos of, in crimiual fesh said by Sat. Br. to be tho 
+John, St., 975.
 
-trials in British India, 142–143. bost kind of food, 773; flesh of Exogany, 23, 436. 
+Jolly, Dr., 438n, 555, 556, 606, 609n.
 
-certain birds forbidden, 781-782 ; 
+Journal, of Bombay Asiatic Society, 73.
 
-Besh of five fiva-nailod animals F: Hien, 86, 866n. 
+Journey, father on return from, smelt the head of his son with a mantra, 254; one should start on, after seeing certain objects, 688; one should avoid sight of certain objects when starting on, 688.
 
-allowed in inany smrtis, 777; flosh Family, good, the first requisite in of certain adimals forbidden, 777; solcoting bride or bridegroom, given up by yest populations in 430 ; ton classes of, to be avoided i India, 780; position of Madu as in marriage, 480. 
+Judicial work, king to devote three parts of the day in the morning to, 806.
 
-to, 778-779; references to flesh of Farqubar, Dr. J. N., 711, 724, 730, ox, horse, cow sad ram in Rgveda, 
+Juhū, a ladle to be employed in all offerings except where otherwise stated, 986.
 
-948n, 951a. 
+Justinian, Institutes of, 507.
 
-772; Vaippavas following Bbāga Father, cut the hair in his son's 
+Jyeṣṭhasāmika, 767n.
 
-yata-pur&na give up, 780. caula in ancient times, 262; has 
+Jyeṣṭhasāmika-vrata, 372.
 
-Flowers, commonded and probibited no ownership over children, 608 for devapūja, 732-783. 509 ; hingelf taugbt Veda to his | Food, (866 under brūhmına," son in anciant times, 273, 381 ; on gifts,' vaidvedeva,' 'Alesbest return froin journey, amolt head ing,' 'milk'): abstaining from, of son with a mantra, 254 ; f. or in eclipses, 770; blemishes in, ono guardiay incorrod sin if he did of the four cou808 of doath over not get girl married before pube. coming brabra pas, 768 ; brahmaga rty, 48 ; power of, ovor bis could tako f. of five classes of 
+Jyotiṣmatī, verse, 956n.
 
-General Index 
+Jyotiṣṭoma (see under Agniṣṭoma) 1133; chief rites in, 1133; identified often with Agniṣṭoma, 1133; occupies generally five days, 1133; performance of, obligatory on all dvijātis, 1134.
 
-1303 
+Kadambas: founder of, a brāhmaṇa, 66, 123, 251, 449–450; gave their daughters in marriage to Gupta and other kings, 66, 450; meditating on the group of Mātṛs, 217.
 
-$adras in smrti times, 161; cooked, Gambler, song of, in the Rgvoda,126. but stale food forbidden, 784 ; | Gana, consideration of, in marriage, coming from hands of or owned 514-515. by certain persons forbidden, 787– 
+Kādambarī of Bāṇa, 81, 91, 174, 217, 239, 266n, 295, 349, 598, 628, 645, 675, 687 &c.
 
-Gana, meaning of, 67-68. 788; forbidden poxtures at time of 
+Kaivalyopaniṣad, 946.
 
-Ganapati (sed under "Ganesa'), mean taking, 765; forbidden, 771, 785 ; | 
+Kaivarta (fisherman), 70, 79; same as dāśa, 79.
 
-ing of, in Rgveda, 213. gifts of, to be made daily, 133; grounds on wbich food becomes 
+Kakṣīvat, though old, married a young girl through Indra's favour, 439.
 
-Gana pati-pujana, 213-216; prelimi forbiddon, 771; is life according to 
+Kākusthavarman, a Kadamba king, 66, 123, 251, 449.
 
-Dary act in all ritos, 212. Veda, 765; large quantities of, how 
+Kālāgnirudropaniṣad, on *tripuṇḍra*, 674.
 
-Gandhari, power of, as a patiorala, 
+Kālakavana, 13;
 
-568. purified, 786; one should not partake of f. without giving to others, 
+Kalanos, Indian gymnosophist, who consigned himself to flames before Alexander, 928.
 
-Gandharva, 617, 519; form of 755 ; obtained hy begging suppos 
+Kalās, 64 enumerated in Kāmasūtra, 367.
 
-marriage, indicated in Rgvoda, ed to be pure for brahmacaring, 
+Kālasūtra, a hell, 506.
 
-525; homa and saptapadi necos 310; Rgvoda bymn in praiso of, 
+Kali age: begging food from all varṇas forbidden to ascetics in, 934; cow or ox not to be killed for an honoured guest in, 750; food cooked by śūdras cannot be offered in vaiśvadeva by āryas, 744; food of all śūdras forbidden to all brāhmaṇas, 162; human sacrifice and aśvamedha forbidden in, 796; intercaste marriages forbidden in, 451; intoxicants forbidden to three varṇas in, 796; killing even an ātatāyin brāhmaṇa forbidden in, 151; licking of agnihotra-havaṇī in agnihotra forbidden in, 1005n; marriage with a girl having the same gotra as one's mother's original family forbidden in, according to some, 468; marriage with sapiṇḍa or sagotra girl forbidden in, 500–501; niyoga prohibited in, according to Bṛhaspati, 603; religious suicide, forbidden in, 928; remarriage of widows forbidden in, 612, 620; no remarriage in, of a girl whose marriage was void on account of sapiṇḍa or sagotra relationship, 498; saṁnyāsa forbidden in, by some, 953; slaughter of anubandhyā cow at end of Agniṣṭoma, forbidden in, 1201n; śūdra kings will perform Aśvamedha in, according to purāṇas, 1238n; taking the food of even five kinds of śūdras disallowed to dvijātis in, 790; vānaprasthāśrama came to be forbidden in, 929, 424.
 
-sary ovon in Gāndharva and tho 758; rules about giving remnants 
+[[P1312]] Kālidāsa, 56, 144, 215, 266, 296, 355, 362, 422, 450, 521, 522, 524, 529n, 536, 563, 628, 724.
 
-subsequent forms of marriage, of one's food, 769; rules about, 
+Kālikāpurāṇa, 186, 857, 890n, 1107n.
 
-621; tho best form of marriago became stricter with time, 161; 
+Kalkin, as avatāra of Viṣṇu, 721.
 
-according to the Kannasutra, 522; rules about quantity of f. to be 
+Kālottara, a śaiva work, 882.
 
-very much in vogue among royal eaten, 766 ; should be groeted and 
+Kalpapādapas (wish-yielding trees), said to be five, 874n.
 
-fainilios, 522-523. not found fault with 762-763 ; 
+Kalpasūtra referred to in the Rāmāyaṇa, 1238.
 
-Gandhi, Mahatma, 165; fast of, for 
+Kalpataru, same as Kṛtyakalpataru, 156.
 
-Gandhi, Sprinkling water round food in a 
+Kalpavṛkṣa, a mahādāna, mentioned in Hathigumpha Inscription, 869; procedure of, 873–874.
 
-removal of untouchability, 177, plate with a mantra, 763; taking Gaṇeśa, as the amanuensia of Vyasa forbidden food is upapātaka, 771; in Mahabharata, 215; eight famous who could be engaged to cook, 
+Kāma, a goal of human life, but the lowest, 8.
 
-shrines of, 216n; images of, found 791 ; yati and brahmacarin have 
+Kāmadhenu, a *mahādāna*: procedure of, 874–875.
 
-from 5th century, 215, 725; images first claim on food cooked in a of, may have from two to 108 house, 935. 
+Kamalākarabhaṭṭa, author of Nirṇayasindhu, 634; mother of, became *satī*, 635.
 
-arms, 725 ; identified with supreme Forms of marriage : Brahma and 
+Kāmastuti, 1067n.
 
-Bralıme, 725; origin of the wor Asura alono aro in voguo in 
+Kāmasūtra, 9, 72, 83, 367, 414n, 431, 432, 433, [[435.|435,]] 522, 540, 562, 628, 734; regards dharma as superior to kāma and artha, 9.
 
-ship of, 213-216 ; peculiar foatures modern times, 525; courts have 
+Kambhoja: guilds of kṣatriyas in, 67, 75; outside limits of Āryāvarta according to Nirukta, 13; Manu on people of, 47; referred to by Aśoka, 93.
 
-of, wanting in Vedic Literature, held in some cases that Gandharva 
+Kāmpilī, a city, 14.
 
-213; red stone as symbol in wor form is still prevalent, 525. 
+Kaṁsa, killed by Kṛṣṇa, 719.
 
-ship of, 716 ; worshipped oven by Foucher, Prof. A., 7250, 
+Kāṁsyakāra, a caste, 75.
 
-Jainas in medieval times, 725. Francis, St. 40. 
+Kāmyeṣṭis (sacrifices for securing certain desires) 1107–1108.
 
-Ganesa-puranı, 725. Fraud, vitiates all transactiong, 887. Ganges, invoked in a verde repoatod Fuel-stick (samidh), rules about, 
+Kānīna, caste of, 54.
 
-in sImantonnayana, 225; montion 307-308; to be offered by brahma. 
+Kaṅkaṇabandhana, 536.
 
-ed in Rg., 12. carin twice daily in ire, 307. Ganguly, Mr. 0. 0. 711n. Furnivall, on obild marriages in 
+Kaṇva, a smṛtikāra, 932.
 
-Garbhādhana, 201-206 ; a gainskāra, England, 446, 
+Kāṇvāyana, dynasty, was of brāhmaṇa origin, 123.
 
-195; procedure of, in Bṭ. Up, 20% ; 
+Kanyādāna, a rite in marriage, 533; bridegroom promises not to prove faithless in *dharma*, *artha* and *kāma* to the bride in, 533.
 
-proper time for, 204 ; whether & Gadadbare : com. of Paraskara- sangkāra of the woman or of the 
+Kapālas, arrangement of eight or more for baking cake, 1031n.
 
-gļhyasutra, 537; 
+Kāpālikas, sect of, 737n.
 
-child, 205 206. Gadyaṇakas ; six as yoarly salary, Garbharakpana, 196, 220-221; same 
+Kapila, son of Prahlāda, an asura, started the system of āśramas, 417.
 
-365; thirty nivartanas of land pūr- as Anavalobhana, 196, 220. 
+Kapila, condemns those who hold that mokṣa is not possible for him who remains a householder, 641.
 
-chased for 30 g. of gold, 853. Gardon, procedure of dedicating to Gagabhafta, officiated at coronation the public, 896. 
+Kapila Pañcarātra, 855.
 
-of Shivaji, 3790. 
+Karaṇa, 53, 74–75; an anuloma caste, 53.
 
-Garga, 267, 666, 660, 672, 826. 
+Kāraskara, country of, not fit for Āryas to stay in, 16.
 
-1304 
+Kārāvara, a caste, 77.
 
+Kārīriṣṭi (for securing rain), 1107.
 
+Karka, com. of Pāraskara-gṛhya, 284n.
 
-719. 
+Karmakāra, a caste, 75; distinguished from Karmāra in some works, 75.
 
-Gargi Vacakpavi, put subtlo quega | Ghora Aagirasa, teacher of Kyśṇa, 
+Karmanda, 422.
 
-tions to Yējāavalkya, 365–366. Gargya, 1 smṛtikāra, 926n. 
+Karmāra (*vide* karmakāra), 75.
 
-Ghosh, Raisahob Jamini Mohan, 961n. Gārgy& approached king Ajātaśatru | Ghotaka-mukba, a writer on erotics. 
+Karṇa-parva, 16n, 71, 77, 88, 638.
 
-for knowledge of brabna 38. 
+Karṇavedha, a saṁskāra, 196, 254–255.
 
-432. Garhapatya firo, 989, 992. &c.; 
+Karpūramañjarī, a work of Rājaśekhara, 450, 737n.
 
-Ghurye, Dr. 29, 31, 32, 38n, 285n. mound of, is circular, 994n; only 
+Kārṣāpaṇa, fines measured in, 152.
 
-Gifts (nee undor dāna'); scoopt garba patya fire perma nontly main 
+Kārtavīrya, story of, 41, 726.
 
-ance of gifts made on the Ganges tained according to some, 999. 
+Kārtikeya, worship of, 217.
 
-and of elephants, borses, beds of Gøthāsa pta sati, 215, 628. 
+Kārūṣa, a caste, 77.
 
-the dead condemned, 885; could Gauda pada, author of karikās, 301n. 
+Kāśikā, com. on Pāṇini, 67, 122n, 225n, 253, 366, 485.
 
-be made by anybody to anybody, Gaurshara puja, a ceromony propara 
+Kāśi-Videha, country of, 13, 328.
 
-115; donors should make only to tory to marriage, 536. 
+Kaśyapa, smṛti of, 293n, 445, 608.
 
-learned or worthy persons, 114 ; Gautama, dharmasutra of, 1, 6, 8, 
+Kaśyapa, subdivisions of gotra, of, 490.
 
-avon ignorant brghmaṇas were 39n, 63, 55, 59, 62, 112, 275, 278, 
+Kaṭadhānaka, a caste, 102.
 
-allowed to accept gifts without 279 &c. 
+Kaṭakāra, a caste, 74.
 
-scruplos, 117 ; for dharna are held Gavām-ayana, is inodol of all sattras 
+Kāṭhaka-gṛhya, 196, 219, 228, 248n, 255, 257, 258, 262, 263, 264, 265n, 279n &c.
 
-by courts to be void for uncer 
+Kāṭhaka-saṁhitā, 12, 107, 139, 148, 220, 233, 241n, 246, 302, 419, 557, 669, 682 &c.
 
-txinty, 888; food may be donated of one year or more, 1239; parts 
+Kaṭhopaniṣad, 5, 181, 241, 247, 322, 358n, 750, 767n, 881.
 
-outside Vedi to all, 114, 116; of, 1240; procedure of 1241-1245 ; the mahāvrata day in, 1243. 
+Kātyāyana, smṛti of, [[66 68|66, 68]], 141, 149, 160–161, 173, 184, 185, 186, 497, 539, 559, &c.; allowed a girl to be married again if first marriage void for sagotra or sapravara, 497–498; on defects of bridegrooms, [[P1313]] 431; on slaves, 184–185; on father's want of power to sell child or wife, 508.
 
-given unasked may be taken from Gayatri, 283 ; 800 under Savitri,' 
+Kātyāyana-snānasūtra, 662n, 700.
 
-anybody except patila, 114; grados 
+Kātyāyana-śrauta-sūtra, 46, 109, 153n, 157, 209n, 386, 489n, 576, 679, 919n, 989n &c.
 
-of donors making, 113; inerit *patitas&vitrika'; called "Veda 
+Kātyāyana-sūtra, a supplement to Pāraskara-gṛhya, 196, 361, 693.
 
-of, differed according to the worth mbta', 303 ; eulogy of, 303-304 ; 
+Kaukilī, variety of Sautrāmaṇī sacrifice, 1224; for whom performed, 1227.
 
-of the recipient, 115; not to be how many times to be repeated by 
+Kauśikasūtra, 196, 398, 403, 479, 513, 827.
 
-received from unworthy persons, brahmacārin, 88cetic &o., 686; 
+Kauṣītaki Brāhmaṇa, 12n, 42n, 67, 419, 480, 758, 940, 1000.
 
-110; only learnod brahmanas ja pa of, is chief part of sandhyā, 
+Kauṣītaki Upaniṣad, 9n, 38n, 52, 106, 254, 328, 1232n.
 
-should accept, 110 ; promised to a 313; meaning of, 302; meditation 
+Kauṭilya, 9, 53, 56, 67, 73, 78, 85, 122, 141, 143, 144, 266, 363, 552, 600, 932; artha is the principal goal according to, 9; on daily duties of kings, 805–806; on duties to be performed by kings in the eight parts of the day and night, 645; on education of prince after *caula*, 266; on education of prince after upanayana, 266; on sale of children, 508; on temples in the capital, 710.
 
-brahmıṇa but not made become (dhyana ) of, 3040 ; must be ro 
+Kavaṣa Ailūṣa, 447, 758; driven out from a sacrifice on the Sarasvatī, 36.
 
-debts, 886; receiving gifts from a poated sovoral times ju saudhyā 
+Kāvyādarśa, 72.
 
-wortby person & better means of every day, 304; sacredness of, 
+Kāvyālaṁkāra, of Bhāmaha, 252n.
 
-livelihood for brahmaṇas than 303-304 ; Siras of, 304; why the verse became so famous, 303. 
+Kāvyamīmāṁsā, of Rājaśekhara, 369.
 
-teaching or being priest, 110; sin 
+Kāvyaprakāśa, 904n.
 
-incurred by accepting gifts that Genesis, 647a. 
+Kāyastha, 75–77; controversies about origin and history of, 75; in inscriptions, 77; included among śūdras by some smṛtis, 76; was originally an officer, 76; word occurs among sūtras only in Viṣṇu, 76; word probably derived from foreign source, 76.
 
-should not bave beon accepted, Getting up: auspicious and inauspi 
+Keay, Mr., 285n, 321n.
 
-885 ; sixtoon kinds of invalid g., cious sights on, 648; duties 
+Keith, Prof., 38n, 418n, 499–500, 555, 977, 978n, 1176n, 1188n, 1202n, 1223, 1228n, 1237, 1239n, 1245, 1246n.
 
-887; strict rules & bout, gradually immediately after, 647; from bed 
+Kenopaniṣad, 738.
 
-relaxed in favour of oven ignorant before sunrise, prescribed for all 
+Keśānta (same as godāna), 197, 402–405; follows the procedure of cūḍākaraṇa, 404; medieval digests omit, 415; performed in the 16th year from conception or birth, 403; performed immediately before marriage according to some, 403; performed for girls according to some sūtras, 405; procedure of, 404.
 
-brahmanas, 117; when obligatory, but particularly for students, 647; 
+Keśava, com. of Kauśikasūtra, 403.
 
-116; when not revocable, 886 ; to repeat names of famour heroes 
+Keśavapanīya, a rite in Rājasūya, 1221.
 
-when may be revoked, 887. and heroines and long-lived per 
+Ketkar, Dr. S. V., 977.
 
-Girl (860maidens'): every g. sons on, 648; versos to be recited 
+Khādira-gṛhya-sūtra, 191n, 196, 208, 220, 234, 246, 247, 255, 261, 262, 288 &c.
 
-supposed to be under protection on, 647-648, 
+Khanaka, a caste, 79.
 
-of Soma, Gandharva and Agni be Gotty, Alice, 725n. 
+Khāravela, 869; inscription of, at Hathigumpha, 17, 384; performed Rājasūya, 978; repaired all temples, 710; what he learnt as prince, 364.
 
-foro inarriage, 443; if not got Gharbhari Gosa vis, 962. 
+Khaśa, a caste, 79; view of Manu about, 47.
 
-married by father or brothor could Gharmadiras mantros, 9940. 
+Khojas, governed by Hindu Law of inheritance till recent times, 389n.
 
-select her own busband, 442; Gharpure, Mr. 295n. 
+King (see under 'pariṣad', 'purohita'): cessation of Veda study on death of, 398; could punish brāhmaṇas in appropriate cases, 139; could take cognisance of wrong committed by husband against wife and *vice versa*, 574; defender of dharma and brāhmaṇas, 39, 965; dependence of, on *purohita*, 40, 965; drinking is the worst vice for a, 798; duty of, to assign proper means of livelihood to brāhmaṇas in distress, 113; duty to make daily gifts to learned brāhmaṇas, to grant lands to them and to make provision for their marriages, 856–858; duty of, to prevent member of lower varṇa doing work of higher varṇa, 119; duty of, to punish those guilty of the breach of the rules of guilds, 68; duty of, to punish [[P1314]] persons guilty of saṁkara, 60–61; duty of, to see that no śrotriya perished in his kingdom through hunger, 112n; education of, according to Kauṭilya, 364; four wives of, 551; greeted by maidens with showers of fried grain on festive occasions, 511; has parts of eight deities in him, 137; kept people within bounds, 39; left ecclesiastical matters to *purohita*, 363; madhuparka offered to, on his visiting a person's house, 542; office of, extolled beyond measure, 137; on coronation was given a vessel of *surā* by purohita, 796; ruler of all, except brāhmaṇas, 139; shared in the merit accumulated by brāhmaṇas, 139; to be approached for *yogakṣema* by brāhmaṇas, 112; to hold assemblies of poets and learned men, 369; to make brāhmaṇas who do not perform saṁdhyā, do the work of śūdras, 318; to punish husband who abandons blameless wife, 552; to punish with death one who kills a woman, a child or a brāhmaṇa, 510; to punish with fine villages where high caste men wander about begging, 134; to regulate dharma on advice of purohita and pariṣad of learned brāhmaṇas, 965; to rely on Vedas, dharmaśāstras, upavedas, for regulating subjects, 354, 363; took by escheat property of heirless persons, except of brāhmaṇas, 146; ultimate protector of all women that have no relatives, 577n; vices of kings enumerated, 798; whether owner of all lands in the kingdom, 865–867.
 
-marriago of infant, referred to Ghatasphota, procedure of, 388. in Gaut., 442; prounibed to ono Gholika, & casto, 102. 
+Kings; Agnikulas, 382; claimed descent from the Sun and the moon, 381; daily duties of, 805–806; gotras and pravaras of, 493–494; had gotras of their own, 494; Manu ordains brāhmaṇas not to live in the kingdom of śūdra kings, 121; some k. had a hundred wives, 553; who became brāhmaṇas according to the Mahābhārata and purāṇas, 66; who had attained eminence in *brahmavidyā*, 105.
 
-may be given to another who is 
+Kirātas, 77; are mlecchas according to some works, 77; mentioned in Tāṇḍya Brāhmaṇa, 44; view of Manu about, 47.
 
-General Index 
+Kleen, Miss Tyra de, 321.
 
-1908 
+Kolika, 79.
 
-worthior, 640; practice of finding pratiloma or savarṇa, 64; upa opt a male to go through a form Dayana of, 298. of marriago with the corpse of Gomati, river in Rg., 12. & dead unmarried grown-up girl, Gopa, & caste, 80. 444; purchased for & price, did | Gopatba-brāhmana, 270n, 272, 279, not become a patni, 505; providing 303, 327, 350, 353. for marriage of girl with a brūh- Gopioandana, clay used to mark fore maṇa highly moritorious, 856; hoad aftor & bath, 673. 
+Koṅkaṇa, country of, outside pale of Āryāvarta, 16.
 
-romaining unmarried, was sup | Gopinaths, author of Satiskāraratda posod not to go to heaven after wala, 2010. death, 436, 444; sale of, in Gosahasre, & mabadana mentioned marriage condemned in sutras and in Harṣacarita, 869; proçedure of, digests, 503m605; sale of, mado 874. punishable by Peshwas, 506-507; Gosava, & one-day Soma sacrifico, sentiment arose that the marriage of strange practices, 1219a. of & girl must be arranged early 
+Kooch Behar, non-Hindu family in, became Hindu 389.
 
-Gosukta, 1006. and so even with one without good Gotra, (sce 'marriage', sagotra', qualities, 443; taking wealth from 'women'), 479-501 ; conception uu a bridegroom for the benefit of a derlying tho idol of gotr& WAS girl is not a salo, 505-506. 
+Kosala-Videhas, centre of Aryan culture in Brāhmaṇas, 12.
 
-familiar to the poets of the Rg Gitagovinda, 723. 
+Krama, 347; a mode of reciting Veda, is of human authorship, 348n.
 
-voda, 479; connection between Goals, of human life, four, 8-9. 
+Kratu, a smṛtikāra, 934.
 
-gotra and pravara, 497; details Gobhila, gļhyasutra of, 196, 203, 
+Kṛpa, 123.
 
-of worship diffored according to 208, 222, 233, 234, 246, 255, 258, 
+Kṛpī, wife of Droṇa, 627.
 
-the founder of the group called a 261, 262, 264 &o. 
+Kṛśāśva, author of Naṭasūtra, 84.
 
-gotra, 480; eighteen gotras accor Gobhila, smṛti of (also called Karma 
+Kṛṣṇa: Ghora Āṅgirasa, was teacher of, 719; name of, to be taken in morning, 648; some of his queens burnt themselves along with his body, 626.
 
-ding to Balambhatti, 489; father's 
+Kṛta, a caste, 79.
 
-gotra, retained by woman even pradipa and Chandoga-pariṭiṣta), 
+Kṛtyakalpataru, 58, 59, 60, 78, 89, 94, 215.
 
-after niarriago, if a woman was 115, 215, 217, 265, 304n, 308n, 315n, 3179, 318, 328n, 511, 548 &c. 
+Kṛtyaratnākara, 3n, 7n, 217, 258n, 259, 308n, 687n, 721, 738, 825, 890n &c.
 
-a putrika or married in Asura and 
+Krumu, river, mentioned in Ṛg, 12.
 
-the following forms, 466; gotras Gocarma, measure of land, defined, 
+Kṣatra-dhṛti, a rite in Rājasūya, 1222.
 
-grouped into gana, pakṣa, 486; 859n. 
+Kṣatriyas (see under Marathas), as teachers, 108; commend the svayaṁvara form of marriage, 523; co-operation of brāhmaṇa with, emphasized, 39; could become *vānaprastha*, 923; could not generally officiate as priests, 109; could not partake of soma drink, 29; courts in India now hold that kṣatriyas exist, 382; did not con[[P1315]]stantly wear yajñopavīta, 296; distinguished from rājanya in Ait. Br., 32; engaging in trade was not subject to restrictions like brāhmaṇas, 127; extirpation of, by Paraśurāma, 98; flesh-eating allowed to, 780–781; forms of marriage for, 522; gotras and pravaras of, 493–494; names of k. as pravara names, 496; position of, 39 ff; *pravaras* of, in Vedic sacrifices, 388; proposition that kṣatriyas were pioneers in brahmavidyā challenged, 106n; some medieval works held so-called kṣatriyas were śūdras, 381; some k. studied Veda and philosophy, 106; sometimes claimed higher status than brāhmaṇas, 40; subdivisions among, 104; whether exist in Kali age or not, 380–382; word applied to Gods in Ṛgveda, 30–31.
 
-importance of, in several practicos God, conceived as trimurti by some, 
+Kṣattṛ, 79; a pratiloma caste, 57, 79; called antyāvasāyin, 70; three meanings of the word, 79.
 
-and ritos; 481-482; is known only 724; eight forms of, 898; 0no, 
+Kṣemendra, 723.
 
-by immemorial tradition, 486; worshipped by many poople in 
+Kṣetraja, son, belongs to the caste of his mother, 54.
 
-majority of gotres bave threo different ways and with different 
+Kṣīrasvāmin, com. of Amarakośa, 80, 82, 89, 174n, 918.
 
-pravaras, 491 ; means progeny of offorings, 715; was supposed to 
+Kubhā, river, mentioned in Ṛg, 12.
 
-eight sages according to Baud. Sr., como down to earth to establish 
+Kukkuṭa, a caste, 78.
 
-483; meaning of, in Rgvoda.; dharma, 720; worship of, with 
+Kukunda, 78.
 
-479; meaning of, in Panini, 485, and without symbols, 896. 
+Kulāla, 78; same as kumbhakāra.
 
-means secondarily any illustrious Godana, same as Kosanta: 197, 402- founder of a family, according to 
+Kulika, a caste, 78.
 
-405. 
+Kullūka, 3n, 53, 63n, 72n, 73, 84, 90n, 110n, 150, 172, 280 &c.
 
-Medbātithi, 485-486; millions of Godana vrata, & Vedavrata for 
+Kumāra, a smṛtikāra, 798.
 
-gotras, but pravaras are only 49, brahmacārin, 371. 
+Kumārasambhava, 628, 724, 725, 738.
 
-484, 489; mythioul kings as foun Gode, Mr. P. K., 537. 
+Kumārila (see 'Tantravārtika'), 292, 351, 355, 376, 459, 555, 603, 721; author of gṛhya kārikās, 222; explains Indra and Ahalyā as meaning Sun and Night, 1145n; rebukes bhāṣyakāra Śabara, 351.
 
-ders of, 496; of obild born of void Gode, wives of (see under 'wives). 
+Kumbhakāra, a caste, 78; food cooked by, could be eaten by brāhmaṇas according to the Mit., 122.
 
-marriage inadvertently ontered in, Goja (or Goda), a caste, 79. 
+Kumbhavivāha, a ceremony for a girl to avoid early widowhood, 546.
 
-is Kaśyapa, 497; of womon, dis Golaka, 64, 80, 611; treated by Mitak- cussion in smrtis and digests, 466 sard as difforcat from apuloma or 467; originally only four gotras 
+Kumbhī, 110n, 641n.
 
-. D. 164 
+Kuṇḍa, required in Mahādāna and other rites, 871n.
 
-1806 
+Kuṇḍa, 78, 611; treated as different from savarṇa, anuloma and pratiloma, 54; upanayana of, 298.
 
+Kuṇḍārka, a work of Śaṁkara, son of Nīlakaṇṭha, 871n.
 
+Kuntalaka (same as *nāpita*), 102.
 
-According to Mahabharata, 489 ; 1 purchasing thom from the owaord, pravara, of same gotra diffor, 495. 856, 864; of lands and villages at 496; roason why brahmacarin was solar and lunar eclipses, 863; of askod, 285-286; rules for one who land sometimo resumed by later doos not know his own, 495 ; kings, 863; of village to a brib somo gotras have one, two or fivo mana in honour of Buddha, 854 ; pravara sages but novor four, 491- prior grants to temples and brāb 492; system of, among Buddhists maṇas wore exceptod when making also, 494; theories about grounds grants of villagos, &c., 863; rulos of prohibitod degrees in, 477-478; about royal grants of lands or two gotras for some families, 492- nibandhas, 860-861; sin in rebump 493;two gotras bave to be consider- tion of grants made by former od in marriage of an adopted son, kings, 861-862 ; vorges deprecating 493; two meanings of, 485-4861 resumption of, 861-863. two views of gotra of women, 466- Grha pravesaniye boma, a rite in 467; wonian enters husband'a gotra marriage, 535. by marriago particularly in the first Gphastha (householder), must wor four forms, 463, 466. 
+Kunte, 977.
 
-slip gžbya fire from day of marri Government, often tribal, in the age, every day twice, 307, 678. 
+Kuntī, 581; mother of and highly honoured by Pāṇḍavas, 581.
 
-Rgveda, 39. 
+Kūrmapurāṇa, 316, 318, 329n, 330n, 357n, 400n, 402, 643, 646n, 647, 657, 736 &c.
 
-Gṭhustharatnākara, 78, 124, 125, Govindardja. com, of Menusmrti, 126, 134, 304n, 314n, 318, 415n, 434, 
+Kuru, tribe of, 1222.
 
-110n. 
+Kurukṣetra, 13; holy place, 13; Vedi of gods in, 13.
 
-438n, 446 &o. Govindasyāmin, com. of Band. Db. Qṭbya (firo); if goes out, bugband 
+Kuru-Pañcāla, 328; centre of Aryan culture in times of Brāhmaṇas, 12, 13; centre of Aryan culture in times of Upaniṣads, 13; speech at its best in, 12.
 
-S., 618, 929. 
+Kuru-Vājapeya, 1211.
 
-and wife have to observe fast that Grabamakla, a rite porformed beforo day, 682; one should not blow on, upapayana, 286; and in vgstu- with the inouth, 682; several 
+Kuruvinda, a caste, 102.
 
-mati and on other occasions, 835. names of, 678; time from which Grahasānti (886 uador 'planets'): to be maintained, 678-680; whence 
+Kuśas, difference between darbhas and, 657; kāśa or dūrvā to be used if kuśa not available, 657; required to be held in the hand in japa, homa, gift &c., 656–657.
 
-procedure of, according to Yājña- brought, 682. valkya, 884; danas for propitiat- Grhya parisista, 206, 239, 254, 284n, ing planets, 885n. 
+Kuśīlava, a caste, 78.
 
-469, 521, 543. Grant-Duff, author of History of Gșhyasarāgraba, 328n. 
+Kuṣmāṇḍa homa, in taking saṁnyāsa, 958.
 
-Marathas, 178. 
+Kusūla, 110n, 641n.
 
-Gșhyāsangraha, 443. Grants, (H08 under dina', 'gifts', Guardiang: for the marriage of girls, faahadpas', 'sin'); curse pronounc- 502-503; may be fined for con ed on him who would rosume grants, coaling defects of marriageable 863; 865; extent of, described with girl, 640. great exactness in, 864; eight bhogas Guests: ascetics and brabmacārins of land in, 865; for bali, vaiśva- are the foremost anong guests, dova, agpibotra and mshkyajñas, 754; grooting to, differed accord 864; for university scholarships ing to varṇa, 753 ; honour how in ancient times, 361, 369; forged shown to, 752 ; how an unlearned copperplato grants, 867; made ior brahmana or a ksatriya or a vaidya agnihotra, vaiśvadova, caru, bali was to be troated when a gaont, &c., 113n, 979; made by kings and 763; king to set a part some paddy Wealthy donors for the study of in each village for sūdra guosta, Various branches of knowledge, 365, 753; madbuparka was offorod to, of land hold to be highly morito- 642; hous obolder to dine after rious, 866, 868-869 ; of landa efter serving food to guests, 756; sbould 
+Kūṭas, eight, to be considered in marriages, 514.
 
-General Index 
+Laghu-Āśvalāyana, 120n, 121, 132, 204, 205, 221, 225, 239, 256, 370, 403, 411 &c.
 
-i304 
+Laghu-Hārīta, 15, 265, 314n, 360n, 466, 649n, 655, 734, 766n.
 
-bo honoured, because they may bo | Hathigumpha Inscription (2nd con yogins in dieguise, 754; whon tury B. C.) 364, 869. guost departe, host must accom- Haug, 1012n, 10141, 1032n, 1060p, pany to some distance according 1 11199, 1145n, 11610, 1164, 1182, to eminence of guest, 756; wife 11851, 1213n, 12400, 1244, 12460. of householder to look after guosts Haviryajñas, soven, 194, 1224. in his absence, 753. 
+Laghu-Śaṅkha, 157n.
 
-Haviṣkṛt, call, 157, 1027n. Gubaka, a casto, 79. 
+Laghu-Śātātapa, 80, 81, 113n, 115, 128n, 311n, 645, 654n, 760 &c.
 
-Llavisya (to bo offorod in firo ), ton Guilds, boundary disputes to be materials fit for being, 681. 
+Laghu-Viṣṇu, 158n, 159, 226n, 424, 642, 937, 939, 943.
 
-settled by, 67. 
+[[P1316]] Laghu-Vyāsa, 111, 655, 659n.
 
-Hayagriva, as avatāra of Viṣṇu, 720. Gulma, moaning of, 68. 
+Lāja-homa, in marriage, 529.
 
-Heinrich, Rev. J. O., 179n. Gunadharma, moaning of, 3. 
+Lākulas or Lakulīśas, 737 and n.
 
-Heliodorus, Bosnagara Inscription Gupta Inscriptions, 217, 218, 245, of, 719-720. 
+Land revenue, whether a tax or rent, 868.
 
-251, 494, 629, 775, 857, 860n, 861, | Hell, called Kalasutra, for liin who 863, 864, 867, 927, 963. 
+Lāṭa, silk weavers from, 69.
 
-sells his daughter in marriage for Guptas, Imperial dynasty of, 953. his own livelihood, 506. Gurava, sce bhagmankura, 102. Hemādri, 3, 60, 11, 2090, 308a, 381, Guru: called abavapiya fire by Manu, 451, 577, 852, 853n, 854 &o. 
+Lāṭas, the word 'abhyañjana' among, 803n.
 
-312 ; defined, 324; fee to be given | Hemahastiratla, a inahādāna, 875. to, at end of studies, 360–361 ; fivo Hemāśvaratha or Hiranyāśvaratha, a gurus deserve special honour, 324; mahādāna, 875; performed by iniportance of, 322; three highest Lakṣmaṇasona of Bengal, 870. gurus are father, mother and Herbert, Mr. A. P., 622. acārya, 324 ; to be looked upon 28 Hereditary Oficos Act, 178. God by the pupil, 322. 
+Lāṭyāyana-śrauta-sūtra, 481, 1133, 1145, 1168, 1169, 1182n, 1183, 1193, 1195n, 1199n, 1207n &c.
 
-Heretico, to be ba nished from capital 
+Laugākṣi-gṛhya, 434, 444.
 
-according to Manu, 3590. Hall, Fitz-Edward, 636A. 
+Laugākṣis, are Vasiṣṭhas by day and Kaśyapas by night, 496.
 
-Hillebrandt, Prof. 977, 978n. Halsbury, 143, 572n, 573n. 
+Legge, 82, 86.
 
-Himālaya, 13; abandoning life in, Haradatta, 6n, 56, 62a, 70n, 71, 74, by fasting, said in Mahabharata to 
+Lekhaka, a caste, 94.
 
-105n, 140, 159, 200, 2752, 286 &o. lead to mokṣa, 925. Harappa, Heals excavatod at, 348. llimsa ( killing or injury to an ani Haribhadra, 3590. 
+Levi, Prof. Sylvain, 319n.
 
-mal). doctrine that bimsa is ahimga Haribara, bhapya of, 198, 284n, 813n. if done according to Voda for Harijan, meaning of, 179. 
+Licchivika and Buddha, 86; oligarchies of, 85.
 
-sacrificial purposes, 779. Hariscandra, 241 ; had one hundred 
+Likhita, smṛti of, 69, 135, 466, 657n, 844n.
 
-Hindu (see under .roconversion'). wives, 561 ; story of, 37. 
+Līlāvatī, of Bhāskarācārya, 881.
 
-absorption of non-Aryan elements Hariscandra, prince of Kanoj, 240; 
+Liṅga, fourteen crores said to have been established by Bāṇāsura, 737; merit secured by bathing *liṅga* of Śiva with milk, curds etc., 738; procedure of worship of, 729; Śiva worshipped as *liṅga*, 737; twelve famous, 737; worship of, 708.
 
-into Hindu society, 384, 389; ex aamakarana of, 240. 
+Liṅgapurāṇa, 869, 872, 873, 874.
 
-communication of, bow brought Harivatha, 156, 978. 
+Liquor, vendor of, should have a flag at his shop and should not sell it to antyajas except in distress, 798.
 
-about, 388; keeping of sikba, Harita, 80, 82, 84, 89, 94, 96, 1250, 
+Lohakāra, a caste, 94.
 
-one of the outward signs of, 264; 126, 128, 171, 188, 192, 204, 236, 
+Lokapālas (guardian deities of the eight quarters), 871, 873, 899.
 
-may lose casto, but can come back 264 &c. 
+Lokāyatas, referred to by Mahābhāṣya, 259n; tenets of, 359n; touch of, 169.
 
-after expiation, 387; Do procedure Harga, emperor, 388, 532, 628, 867; in the smitis for converting to 
+Lokāyatikas, touch of, required bath for expiation, 665.
 
-was worsbipper of the Sun though Hinduism those who never belong bis older brother was a Buddhist, ed to it, 388 ; quietly absorbed 
+Lopāmudrā, a pativratā and wife of Agastya, 586.
 
-non-Aryans, 388-389; roligion, not Hargacarita, 87, 215, 430, 446, 450, avowedly proselytizing, 887; T 
+Low, Sydney, 20.
 
-610, 632, 684, 598, 628, 630, 722n, conversion to, of those forcibly 
+Lubdhaka, (same as vyādha), 94.
 
-converted, 379-392 ; tonet of adhi 
+Luke, Gospel of, 851; Gospel of, forbids divorce, 622n; on kingdom of Heaven, 975.
 
-724. 
+Macdonell, Prof. 499, 718n.
 
-&c. 
+Mac Munn, Sir George, 187.
 
-1808 
+MacNaughton, 520.
 
+Madana-pārijāta, 158, 200, 302, 310, 316, 334n, 337, 438, 455n, 471, 514, 563, 585, 592 &c.
 
+Madanaratna, 198, 249.
 
-235, &c. 
+Madantī, water heated on gārhapatya and used for making dough from pounded grains, 1030.
 
-karabheda in, 714-715; tolorance Hors08: Goutama moptions horses ās in, examples of, 3880. 
+Madgu, a caste, 90.
 
-objects of gift, 839; gifts of, in Hindu Widows' Remarriage Act Rgveda, 838; gift of, condemned 
+Madhumatī, verses of the Ṛgveda, 544n.
 
-(of 1856 ), 616. 
+Madhuparka: a mixture of honey and curds or ājya offered in, 545; divergence as to substances offered in, 545; flesh necessary in, according to most sūtras, 545; in marriage, 532; killing or presenting a bull or cow in honour of a worthy guest in, 542; offered only in marriage in modern times, 546; offered to six classes of persons, 542; procedure of, 543–544.
 
-in Tai. S., 181, 839; isti to Varuna Hiranyagarbha, & mabādāna, 872- to be performed by the donor of a 
+Madhusūdana-Sarasvatī, initiated kṣatriyas and vaiśyas into seven out of ten orders of saṁnyāsins and made them fight Moslem armies, 951.
 
-873; all sanskāras symbolically horso in \# Vedic sacrifice, 839. gone through by donor in, 872; 
+Madhuvidyā, 767n; to be imparted by father to son or to a worthy pupil only, 322.
 
-Hospitality (vide under 'mapupya. performed by king Dantidurga at 
+Madhvācārya, 673.
 
-yajña'): eulogy of, in Atbarvaveda Ujjayin, 876. 
+Madhyadeśa, limits of, 15.
 
-and smitis, 749, 752 ; is not for the Hiranyagarbha (Croator), addrossed 
+Madhyamāṅgiras, 70n.
 
-undeserving, 760. in Rg. X. 121, 172, 
+Madhyamikā, besieged by Yavana, 384.
 
-Hospitals, called arogyasala, 885. Hiranyakasipu, was killed by Viṣṇu Hoto priest, position of limbs of, in 
+Mādhyandina śākhā, followers of, have to observe a special rule about gotra relationship in marriage 471.
 
-in man-lion form, 718. 
+Madra, country of, 328.
 
-sacrifices, 1047. Hiranyakośigbya, 162n, 196, 197, 
+Madras Nambudri Act of 1933, 554; forbids a Nambudri brāhmaṇa from marrying a second wife except in three cases, 554.
 
-Householder ( 860 under food, gpha 1990, 202, 203, 205, 208, 233, stha, tatina, yayavara ): brahmana 
+Mādrī, a wife of Pāṇḍu burnt herself on the funeral pile of her husband, 626.
 
-bouseholder to approach king or a Hiranyakegi-éranta-sūtra, 483. 
+[[P1317]] Māgadha, a pratiloma caste, 57, 90–91; one of the Antyāvasāyins, 70.
 
-rich mun for his maintenance 689; Holdsworth, 118n, 142. 
+Madya (see under 'drinking').
 
-duties of, 643; eulogised as the Holy placos, 854; gifts made at, 
+Magavyakti of Kṛṣṇadāsa, 722n.
 
-highest Asrama, 425, 640; iinpor confor infinito reward, 854. 
+Magas: Bhojaka a synonym for, 722n; to receive naivedya offered to the sun-god, 733; story of their being brought by Sāmba from Śvetadvīpa, 722n; to be worshippers in the temples of the Sun, 722.
 
-tance of stage of, 640-641 ; life of, Home: daily homa in gğlya fire may 
+Mahābhārata, 8, 10, 41, 66, 72, 82, 83, 88, 89, 93, 100, 123, 136, 182, 327 &c.; indulges in frequent eulogies of brāhmaṇas 136; on subdivisions of Viśvāmitra gotra, 384; recited in temples, 799.
 
-not regarded as inforior to that of bo dono by wife, 557; description 
+Mahābhāṣya (see under Patañjali), 13, 14n, 67, 72, 83, 92, 100, 107, 225n, 238n &c.
 
-an ascetic by most dharmasastra of model, 207-208; distinguished 
+Mahābhūtaghaṭa, a mahādāna, 877.
 
-works, 424-425 ; not to partake of from dāna and yāga, 714n ; mate 
+Mahādānas, 869–877; are ten according to Agnipurāṇa, 869; are usually said to be 16, 869; construction of maṇḍapa in, 870–871; described at length in Matsyapurāṇa, 870; performed according to Matsya by great heroes of the past like Vāsudeva, Rāma, Kārtavīrya, 870; procedure of 871; their names go back to centuries before Christian era, 869.
 
-food till guests are fød, 755; Dot rials required in grhya, 209-210; 
+Mahādeva, com. of Satyāṣāḍha-śrauta-sūtra, 1085n.
 
-to stint ono's servants and slaves order of the several actions in, as to food in order to feed guests, 210-211; priest cannot offer, in 755; the only asrama according to the absonce of both spouses, 683 ; Gautams and Baudhayana, 424 to be offered by tbe bouse-boldor 425; varietios of, 641-643 ; was to bimself or his wife, 800, pupil &c., allow girls of the family and 683; two views about time of ailing persons to tako food before performing daily homa, 675-676; him, 755. when no material specified, ajya Hultzsch, Dr., 606n. is offered in, 681, 986; wbon | Huga, princesses married to Hindu perforinodin morning and evening, kings, 389. 676–876;. who can offer homa, in | Husband (806 marriage', 'wife'): 
+Mahākāla, temple of, at Ujjayinī, 738.
 
-the absence of householder, 683. abandoning a blameless wife had Honour (806 under "courtesy, to undergo expiation and was 
+Mahākalpalatā, a mahādāna, 876.
 
-'guost'): grounds on which honour punishable by king, 561, 569 ; and was to be shown, 345; learning, wife to porforin sacrifices to foremost ground for płying, 346; gether, 367, 429; has no ownership showing, to one who is not a over wifo, according to several terchor or a relativo, 344 ; shown writors, 508-509 ; idontity of in various ways, 334-337; 
+Mahānāmnī: vrata, 371–373, verses to be studied in Śākvara vrata, 371–372; what are m. verses, 372n.
 
-husband and wife accepted in Hopkins, Prof., 3n, 1070, 720n, 776n. religious matters but not for Horse, with white spots in five Becular and legal purpo808, 673; 
+Mahānandin, the last kṣatriya according to the purāṇas and medieval writers, 381.
 
-placos on his body is very auspi- mutual duties and rights of wife 
+Mahāpadma Nanda, as extirpator of kṣatriyas, 380.
 
-· cious and is called pancakalyanaka, 
+Mahāprasthāna (starting on the great journey to die on the way), 924–927.
 
-and husband, 566-682; mutual 876n. 
+Mahārs, an untouchable caste, 178; economically better off than many villagers, 178.
 
-fidelity highest dbarma of wife 
+Mahārāṣṭra, brāhmaṇas, subdivisions among, 103.
 
-General Index 
+Mahāsaṁhitā, a work, 321.
 
-1309 
+Mahāvākyas (profoundly philosophical sentences in the Upaniṣads), instruction in one out of four, at time of taking *saṁnyāsa*, 961.
 
-and husband, 619; not ordinarily | Iin purity, on birth none till navel liable for wife's debts, 573 ; not to cord is cul, 236. prove falec to each other in three Indiun Antiquary, 85, 217, 240n, 245, puruṣārthas and not to bo separate | 349n, 506, 5939, 598, 629, 799, from each other, 556; power of 865n, 867, 1245 ; New I. A., 750. correction of, over wife, 569; | Indian Historical Quarterly 85-86, priacipal obligations of wife and ! 2388, 3190, 720 1, 864. busband 556; rules about soxual Indians, discrimination against in intercourse betwoon busband and South Africa, 165. wife, 801-80%. 
+Mahāvīracarita, 215.
 
-Indra : and Ahalya, 11450; und Hymns, Vedic, recitation of which Modhyatithi Kanva, 1145a; born 
+Mahāvrata; mock fight between brāhmaṇa and śūdra in, 25; one who knows mahāvrata not to dine with one who is ignorant, 758; procedure of M. which is the last day but one in a sattra 1243–45.
 
-purifies inad, 685-686. 
+Mahāvyāhṛtis, 257, 301n.
 
-of Monā of Viða naśva, 1145n; 
+Mahāyajñas; ancient nomenclature of, differed, 699; distinguished from śrauta rites in two respects, 697; five, 197, 696ff; included among saṁskāras by Gautama, 697; institution of, morally superior to śrauta rites, 697; occur in Śat. Br. and Tai. Ār. 696; order of performance in time, 700; purpose of to atone for unintentional injury caused by cooking, pounding &c. according to Manu and others, 698; sentiments underlying, 697–698; why so called, 697.
 
-festival of raising the bannor of, Ibbotson, 66. 
+Māhiṣmatī, women of, were uncontrolled in their sexual relations, according to Mahābhārata, 428.
 
-called Indramaha, 398, 825-826 ; Ida, daughter of Manu., 1065n. 
+Mahīyā ṛk, 1200.
 
-guilty of brabmalatya in killing Idapatra, 10650. 
+Maidens, brotherless, could not secure husbands in ancient times for fear of being *putrikās*, 435; regarded as auspicious and pure, 511
 
-Viśvarūpa, 147, 801-802 ; killed Images (vido 'deva pāja,' 'tem 
+Maine, views of, on caste, 21.
 
-Namuci with foam, 718-719; said ples'): cannot be owners of pro 
+Maintenance: absolute duty to give maintenance to certain persons, 568–569; duty of well-to-do people to give maintenance to some persons, 689.
 
-to be grandson of sago 8ṭnga vrßu, perty in the literal sense, 911; 
+Maitra, (same as Kārūṣa) 92.
 
-717 ; secret name of, is Arjuna, consecration of images in temples 
+Maitrāvaruṇa priest (see under paśubandha), 1110.
 
-241 ; some peoplo do not rogard pot dealt with in principal gļhya him as god in Rgvoda; 358n; and dharma sutras, 896 ; doubtful 
+[[P1318]] Maitrāyaṇī-saṁhitā, 42n, 255, 503, 516, 726, 779n, 1024, 1025, 1220n.
 
-spokon of as moça ', 1145 ; trans if worsbip of, prevailed in Vedic 
+Maitreyaka, 92.
 
-ferred sia of brahmahatya to limes, 706-707; expressly mention 
+Maitreyī, wife of Yājñavalkya, an earnest seeker after true knowledge, 365, 946.
 
-ourth, trees and women, 802. ed by Manavag;hya, Baud. gr., Indrāni (wife of Indra ), 1041 ; Laugak pi gṛhya, and others, 709; 
+Maitrī Upaniṣad, 5n, 356.
 
-worship of, in marriage ceromo are juridical persone capable of nios, 636. holding property, 911; materials of 
+Mala (filthy exudations from the body), twelve, 651–652.
 
-| Indrayajña, 824-825; on full moon whicb images are made, 715; of of Bbadra pada, 824. Buddha bogan to be made about Infanticide, 509. & century or two before Christ, Infanticido Act in England, 509. 711; of Śiva and Skanda spoken of Ingo, Dean, 138, 146. by Pāṇini, 710; proper sizes of, Inscriptions, 61, 66-66, 68-69, 70, 77, in the house or in tomples, 716; 85, 87, 113n, 123, 145, 217, 248, views about origin of, in India, 1 
+Malabar Marriage Act (of 1896), 621; allows divorce, 621; forbids polygamy, 621.
 
-355, 382, 384, 388n, 389, 494, 553, 711-712; whother trusted can sub 
+Mālākāra or Mālika, a caste, 91.
 
-615, 629, 719, 722n, 730, 7370, stitute a new image or remove it 
+Malamāsatattva of Raghunandana, 464n.
 
-774, 839, 853-854, 856, 867, 859n, to another place, 916; witn08808 
+Mālatīmādhava, of Bhavabhūti, 367, 432n, 446, 579n.
 
-8600, 862-865; 870, 883, 903-904. to be sworn in the presence of 
+Mālavikāgnimitra of Kālidāsa, 450, 725, 945, 978.
 
-909, 913n, 925-926, 928, 978-979. images of gods, 709; worship of Isana-bali (seo under sūlagava ), five gods called pañcayatana, 
+Malla, (see Jhalla) 90.
 
-831. 716–717; worsbip of, not neces- Ishwar Chandra Vidyasagar, Pandit, sary for everybody, 7144715; 614, 616. worship of, whother derived from 
+Mallinātha, 590.
 
-Igta purta : dofined by the Mababba sūdras, 711; worship of, may bo rata, 884; moaning of, in Vedic in a private house or in tomples, Literature, 843-844. 897. 
+Man, born with three debts to gods sages and pitṛs, 270.
 
-Ieṭi : distinguisbod froin a pasuyóga Immortal, names of soven persons or sopayaga, 9810, 986; on birth 
+Mānasāra, a work, 713.
 
-believed to be 259n. 
+Mānasa-snāna, 668.
 
-of a son, 228-229; sacrifioo ia 
+Manasvatī, verses in piṇḍa-pitṛ-yajña, 1089.
 
-1310 
+Mānava-gṛhyasūtra, 84, 214, 219, 222, 225, 233, 245n, 255, 257, 262, 263, 275 &c.
 
-262. 
+Māṇavika, 91.
 
-History of Dharmaidstra which four priests are employed, Janaka, king of Videha, 13; asked 1009. 
+Maṇḍana, on the making of images, 713.
 
-Yajõrvalkya to expound sadayasa, Iśvarasena, an Abhira king, 68, 73, 421; discussion of philosophy in 252 ; described as Maqbariputru, court of, 365; expounded to Yajña 
+Maṇḍapa, construction of, in mahādānas, 870–871; erection of, for distributing water to travellers, 882.
 
-valkya philosophy, 105; had Itibd8a-pur&na, as fifth voda in studied Voda and Upapipade, 106; 
+Mandlik, Rao Saheb V. N., author of 'Hindu Law', 467, 469.
 
-Upanipads, 354; as svadhyaya or mado a gift of himself as slave to brahmayajõe, 353, 701 ; to be read Yajāavalkya, 181. . in the 6th and 7th parts of the Janamejaya: his priest Indrota,:241; 
+Māṇḍūkī-śikṣā, 655n.
 
-day, 799. 
+Māṇḍūkya-upaniṣad, 301n.
 
-receivod Vyasa with madhuparka, It-sing, Chinese traveller, 369, 
+Maṅgala, eight objects, 511, 876n.
 
-546, 
+Maṅgalasūtra, now the most important ornament which no married woman parts with, 537; not mentioned in the sūtras, 537.
 
-Japaśruti Pautrāyana, 838; addres Jabali, 667n. 
+Maṇikāra, a caste, 90.
 
-god as āudra by Raikva, 155. Jabalo paniṣnd, 1970, 421, 726, 918, Jape (soe 'mantra'), aloneconfors on 
+Man-lion, avatāra of Viṣṇu, 718–719.
 
-930, 931, 943, 963. 
+Mantra-brāhmaṇa, 220, 256, 262, 366.
 
-brahmanas highest perfoction, 686; Jacob, story of, in the Biblo, 547a. is of threo sorte, 686; of mantras Jaimini (see purvamimāuisa): 17, like 'om Damo Vipnave,' 687; of 290, 340, 36, 109, 162, 154n, 156, Gayatrr and other mantras is chiof 182, 190, 229, 269, 2970, 350, 352, part of Sandhya, 313, 318 ; should 367, 383, 401, 463, 4691, 482, 494, comprise Gāyatri and Purupasukta 504-505, 507, 557, 560, 568, 581, 1 at least, 686; when to be performed, 589, 684n, 7140, 793, 803, 849, 865, 686; where to be performed, 686. 889, 984, 985n, 989, 996n, 998, Jaṭā, & mode of reciting Veda, 347. 1010a, 1016, 1019, 1024, 1026, 1027, Jatakarma, a samskāra, 196, 228-237; 1057n, 1058, 1060, 1064, 1069, 1073n. 
+Mantras (*vide* under *nigada*): four categories of, 983; *japa* of mantras of 6, 8, 12 or more letters, 687; japa of mantras to be counted by the fingers or on a rosary, 687.
 
-ayusya is one of the ritos in, 233; 1074, 1085, 1086, 1095, 1110, 1114n, elements in rito of, according to 1115 and 1, 1116, 1129, 1130, 1131, 1 
+Mantrasnāna, 667–668.
 
-Bś. Up. 229-230; procedure of, 1132, 1133n, 1134, 1135, 1136, 1137, according to Abv. gļhyasutra, 231. 1138, 1139, 1140, 1141, 1145n, 1146, Jatakas (Buddbist birth stories ), 13, 1151w, 1164, 1168, 1175, 1182, 1183, 85, 945. 1184, 1189, 1190, 1199, 1200, 1203, Jati, generally distinguished from 1205, 1211-12, 1222-23, 1228, 1241 
+Manu, 3, 7, 9, 33, 39n, 53, 55, 59, 63, 73 &c.; ready to regard yavanas, śakas, cīnas and others as kṣatriyas reduced to position of śūdras, 47; smṛti of, has the highest authority among smṛtis, 465; smṛti opposed to Manu's to be discarded, 465.
 
-Varna, but sometimes confounded, 42, 1246, 1250. 
+Manu, story of Manu and Iḍā his daughter, 1065n.
 
-65 ; does not occur in Vedic Lito Jaimini, author of a smrti, 236, 312n. rature in the sense of caste, 55 ; Jainas, as worshippers in tomples of lays great emphasis on birth and 
+Manuṣya-yajña (honouring guests, see under 'hospitality' and 'guests') 749–756; an enemy need not be honoured as guest, 752; comes after offering of *bali*, 749; fire described as a guest in the Ṛgveda, 749; food to be given to all including cāṇḍālas at time of taking one's meal, 752; if none offered to brāhmaṇa guest, he carries away merit, hopes, expectations of householder, 750, 753–754; motives of, 753–754; ox or goat cooked for a guest according to Śat. Br., 750; preference among guests governed by varṇa and learning, 749; to show honour according to one's ability, 751.
 
-Jina, 722; religious suicide heredity, 55; ineaning of, 54; word allowed among, 927-928; touch of, occurs in dharmasutras, 55. 
+Manvantarādi tithis, 396n; anadhyāya on, 395.
 
-ontailed batb as expiation, 169, 665 Jativiveka, a modern work, 71, 74, Jalasa yotsargatattve of Raghunan- 83, 84, 92, 97, 102, 
+Manyu, a caste, 102.
 
-dana, 892, 893n. 
+Marathas, of Mahārāṣṭra, three classes of, 382.
 
-Jatukarpya, 1570, 194, 219. Jalopajivio, 82. 
+Mārgava (same as Kaivarta) 91.
 
-Jatyapakarga, doctrine of, explained, Jamadagni, cow of, carried away by ! 62-65; two kinds of, in Yajāa 
+Marīci, 445, 657n, 705, 769n.
 
-Karta virya, 41; descondant of, in valkya, 64-66. 
+Mārjana, 317, 812n.
 
-Tai, 8., 479; descondants of, are | Jātyutkarsa, doctrine of, explained, pancāvattine, 528n. 
+Mark, Gospel of, forbids divorce, 622n.
 
-62-65 ; two kinds of, in Yajās J&madagayas, divisions and subm 1 valkya, 64-65. 
+Mārkaṇḍeya, sage, believed to be immortal, 259.
 
-divisions of, 490; special usages 1 Jaya, mantras from Tai. 8. 253A. of, 481-482. 
+Mārkaṇḍeya-purāṇa, 6n, 17, 61, 97, 105n, 114n, 147, 173, 197, 217, 237, 238, &c.
 
-Jayarāma, com. of Paraskara-gphya, Jana, moaning of, 1812n. 
+[[P1319]] Marks, of sect, branded on body with heated metal of the shape of conch, discus, 675.
 
-284n, 818n. 
+Marriage (see under 'sagotra', 'sapiṇḍa', 'sapravara', 'child' and 'polygamy'): age of, for girls, in Ṛgveda, 439–440; age of, for girls, in sūtras, 440–443; age of, for men and women, 438–447; anuloma, 448–451; approved forms of, 521–524; attractiveness more important in a bride than knowledge, 432n; auspicious characteristics of brides are external and internal, 432; auspicious times for, 511–513; bride to be younger than bridegroom, 434–435; bride must not be brotherless according to some smṛtis, 435; bride must not be of same gotra or pravara; 436–437; bride must be of same caste, 436; bride must not be sapiṇḍa, 437; bride's mother's gotra also forbidden by some, 437; bridegroom was to seek hand of bride, 532; consequences of void marriage, 497–499; defects of girls as brides according to Nārada, 433; desertion or apostasy of a spouse does not amount to dissolution of, 621; different Sanskrit words for, 427; force and fraud in, 538–539; forms of, 516–525; four or five inducing reasons for selecting a girl, 433; girl in, must be *nagnikā*, 440; good family placed in the forefront of qualifications for a bridegroom, 430; highly thought of throughout the ages, in India, 427; hymn in Ṛgveda X. 85, 526–527; impotent persons how detected according to Nārada, 431; impotent persons sometimes married, as shown by Manu, 431; indissoluble when completed by Saptapadī, 619; intercaste, history of, 50–58, 447–452; interposing a piece of cloth between bride and bridegroom, 533; *kanyādāna* in, 531; kṣatriya girls were under no restrictions as to age at time of, 446; list of all rites of marriage, described in smṛtis, 531–535; madhuparka was offered to bridegroom in, 542; maṅgalasūtrabandhana in, 537; names of the girl to be chosen in, must not be after rivers or trees or nakṣatras, 432; mystic method of selecting a bride by means of lumps of clay from various places, 433–434; no vedic evidence about marriage-less society, 427–428; not annulled even by adultery of wife or by her supersession, 620; observances for three nights after, 530–531, 535; of *dvija* with a śūdra girl allowed by some sages but condemned by many, 448; of dvijāti girls celebrated with Vedic mantras, 197; of old men with young girls, 439; of two sisters to same person when both living, 501 and n; persons who have power to arrange marriage and give girls away, 501–502; principal ceremonies of, 531; post-puberty marriages regarded as highly sinful by some smṛtis, 445; pre-puberty marriages, insisted on for girls from about 200 A. D., 443; purposes of, to perform sacrifices, to procreate sons and to secure pleasure, 428–429; prohibition on grounds of sameness of gotra and pravara, 478; prohibition on the ground of 'viruddhasambandha', 469; qualification of an eligible bridegroom, 429–431; qualifications of an eligible bride, 431–433; reasons for pre-puberty marriages of girls, 443–444; restrictions on the ground of sapiṇḍa relationship in, 452ff; rite of, according to Āśvalāyana, 527–531, rites of, great divergence in from ancient times, 527; rules for selection of brides more elaborate than for selecting bridegrooms, 431; sale of girls in, 503–507; saptapadī, [[P1320]] principal rite in, 529; three parts in rites of 531; three views about children of *anuloma* marriage, 55–56; validity of anuloma and pratiloma m. in British India, 451–452; when m. final and irrevocable, 539; with deceased wife's sister permissible, though forbidden in England till 1907, 501; with descendants of one's pitṛbandhus and mātṛbandhus, 474–476; with maternal aunt's daughter 467; with maternal uncle's daughter, 458–463; with sagotra or sapravara girl, null and void, 437–438; with sister's daughter practised by some brāhmaṇas in Karṇāṭaka, 467; without consent of guardian for, cannot be set aside if principal rites such as saptapadī have been performed, 503.
 
-General Index 
+Married Women's Property Act (England) of 1882, 573–574.
 
-1311 
+Marshall, Sir John, 218, 718, 724.
 
-452. 
+Maruts, as eaters of ahuta, 824; myth that they stayed in the aśvattha tree, 825; names of, 825n.
 
-Jhalla, 89. Jimõtavahana, author of Dayabbāga, Jivanmuktiviveka, 937, 941, 946, 950, 
+Marutta Āvikṣita, an Āyogava king, 43.
 
-964. Joba, St., 975. Jolly, Dr., 4380, 656, 666, 606, 609n. Journal, of Bombay Asiatic Society, 
+Marutvatīya śastra, in Mādhyandinasavana, 1190n.
 
-73. 
+Mātaṅga (same as cāṇḍāla), 91.
 
-Journey, father og return from, 
+Materialism, Indian, 358–359n; Bṛhaspati as founder of, 359n.
 
-smelt the head of his son with a mantra, 254 ; one should start on, after seeing cortain objects, 688; one should avoid sight of certain 
+Maternal aunt's daughter, marriage with, condemned by almost all writers on dharma, 467.
 
-objects when starting on, 688. Judicial work, king to devote three 
+Maternal uncle's daughter, marriage with, supported by some on Vedic authority, 461–462; marriage with, practised among many sections of brāhmaṇas in Deccan and Karṇāṭaka, 462.
 
-parts of the day in the morning 
+Maṭhas (*vide* 'Śaṁkarācāryas'), 906ff; origin of 908; appointment of head of, 909; heads of, were called *Mohunt*, 909; heads of, quarrel among themselves as to jurisdiction over ecclesiastical matters and as to property, 948–949; maṭhas served a purpose different from temples, 907; pratiṣṭhā of, 906; maṭhas probably owed their origin to the Buddhist vihāras, 907; maṭhas established by Śaṁkarācārya and his pupils, 907, 948; regulation of administration of, in medieval times, 910–913; supplementary to temples, 909.
 
-to, 806, Juhū, & ladle to be employed in all 
+Matthew, Gospel of, 849, 975.
 
-offerings except where otherwise 
+Mātṛdatta, com. on Hiraṇyakeśi-gṛhya-sūtra, 219n, 268n, 304n, 440.
 
-stated, 986. Justinian, Institutes of, 507. Jyesthasāmika, 7670. Jyeșthas&mika-vrata, 372. Jyotigmati, verse, 956n. Jyotiptoma (800 under Agniṣtoma) 
+Mātṛkāpūjana, 217–218.
 
-1133; chiof rites in, 1133; idon tified often with Agniṣļoina, 1133 ; occupies gonerally five days, 1133; performance of, obligatory on all dvijatis, 1134. 
+Mātṛs (mother goddesses) 733; number of, variously given, 217; worship of, 215, 217; worship of, at Mohenjo-daro, 218.
 
-Kalagnirudropanipad, on tripundra, 
+Matronymic, names for males, 242, 252
 
-674. Kalakavana, 13; Kalanos, Indian gymnosophist, wbo consigoed bimself to flamos bofore 
+Matsya, country of, 13, 328.
 
-Alexander, 928. Kalas, 64 opumoratod in Kamasutra 
+Matsya, story of avatāra of, 718.
 
-367, Kalasutra, a boll, 506. Kali age : begging food from all 
+Matsya-bandhaka, a caste, 90.
 
-varṇas forbidden to ascotics in, 934 ; cow or ox not to be killed for an honoured guest in, 750 ; food cooked by sudras cannot bo offered in vaiśvadeva by Aryas, 744 ; food of all fadras forbiddon to all brahmanas, 162; human sacrifice and asvamedha forbidden in, 796 ; intercaste marriagos forbidden in, 461; intoxicants forbidden to three varṇas in, 796; killing even an atatayin brahmana forbidden in, 151 ; licking of agnihotra-havaṇiin agnihotra for bidden in, 1005n; marriage with & girl having the same gotra as ono's mother's original family forbidden in, according to some, 468; marriage with sapinda or sagotra girl forbidden in, 600-501 ; niyoga prohibited in, according to Bṭbas pati, 603 ; religious suicide, for bidden in, 928; remarriage of widows forbidden in, 612, 620; no remarriage in, of a girl whoso marriage was void on account of sapiṇda or sagotra relationship, 498; sannyasa forbidden in, by somo, 953; slaughter of adu bandby: oow at end of Agnistoma, forbidden in, 1201n ; fadra kinga will perform Aśvamodha in, according to puraqas, 1298n; taking the food of evop five kinds of sudras disallowed to dvijatis in, 790; vina prastha rana came to be torbidden is, 999, 484. 
+Matsyapurāṇa, 6n, 17, 61, 103, 114n, 115n, 148, 215, 217, 308n, 324, 380, 395n; has four hundred verses on mahādānas, 870; on gotras and pravaras, 484.
 
-Kadambas: founder of, a brahmana, 
+Mauryas, established images from greed of gold, 710.
 
-66, 123, 251, 449-450 ; gave their daughter's in nurriago to Gupta and other kings, 66, 450; modita. 
+Mausala-parva, 72, 553, 626, 697, 923.
 
-ting on the group of Matrs, 217, Kadambart of Bana, 81, 91, 174, 217, 
+Maxim: in conflict between smṛti texts, the rule accepted by the majority of smṛtis, is to be preferred, 464; of *atideśa*, 469, 493; of *factum valet*, 503; of frog's leap, 458; of umbrella-holders, 500–501; sacred text may prescribe anything, though apparently impossible, 525; purport of texts censuring anything is to enjoin the performance of the opposite, 581; texts should not be extended by analogy to cases not expressly enumerated, 469n; of cleaning the cup, explained, 589n; of same word not being taken in two senses in the same context, 603.
 
-239, 2660, 295, 349, 598, 628, 645, 675, 687 &o. Kairalyopanipad, 946. Kaivarta (fisborman ), 70, 79; game 
+[[P1321]] Max Müller, 202n, 326n, 347, 624n, 1119n; started theory that writing for literary purposes was unknown to Pāṇini, 347; suggested a tentative chronology for Vedic Literature, 976.
 
-&8 daga, 79. Kakpivat, though old, married a 
+Mayūraśarman, brāhmaṇa founder of Kadamba family, 66, 123, 251.
 
-young girl through Indra's favour, 
+McKenzie, Dr. John, on Hindu Ethics, 3n, 776n.
 
-439. 
+Measures: of area, 859n; of corn, such as kuḍava, prastha, āḍhaka &c, 786n, 881n; of weight such as kṛṣṇala, māṣa, 880n.
 
-Kakusthavarman, a Kadamba king, 
+Meda, an antyaja, 70, 92.
 
-66, 123, 251, 449.1312 
+Medhājanana, a rite, 233; name of verse in Ṛgveda, 231.
 
+Medhātithi, 3, 16, 56, 58, 60n, 63n, 79, 87, 88, 110n, 116, 150, 158, 205, 291, &c.
 
+Megasthenes: on castes, 50; on flesh-eating in India, 777; on Kalanos, 928; says that Indians employed no slaves, 183; says that Indians did not drink wine except in sacrifices, 798.
 
-75. 
+Meghadūta, 724.
 
-Kalidasa, 66, 144, 215, 266, 296, 358, Kapila, son of Prablada, ān asura, 
+Men, killing themselves on the death of their kings, friends &c., 630.
 
-362, 422, 450, 521, 622, 524, 629n, I started the systom of asramas, 417. 536, 663, 628, 724. 
+Menander, is the yavana referred to by Patañjali, 384.
 
-Kapila, 'condomas those who hold that Kalikapur&na, 186, 857, 890n, 1107n. mokça is not possible for bim who Kalkin, as avatara of Vippu, 721. remaids a houseboldor, 641. Kalottara, a saiva work, 882. 
+Merudāna (vide under Parvatadāna), 882.
 
-Kapila Pancar&tra, 865. Kalpa pada pas (wish-yielding trees), Karana, 53, 74-76; an anuloma casto, 
+Mihirakula, 723.
 
-said to be five, 874n. 
+Milk, 782–783; allowed and forbidden, 782; of *kapilā* cow not to be used by śūdras and not even by brāhmaṇas except for gods, 783.
 
-53. Kalpasūtra referred to in the Rama. Kæraskara, country of, not fit for 
+Milton, on education, 266.
 
-yaṇa, 1238. 
+Mīmāṁsā, Prābhākara school of, 355.
 
-Aryas to stay in, 16. Kalpataru, same as Kṛtyakalpataru, Kardvare, & casto, 77. 
+Mīmāṁsaka, method of, in dealing with inconvenient texts, 460; position on caste being by birth only, 52n.
 
-156. 
+Mīmāṁsā-vidyālaya of Poona, 980.
 
-Kartripti ( for securing rain ), 1107. Kalpavīkpa, a mabadna, mentioned | Karka, com. of Paraskara-gļhya, 
+Miṇḍā mantras, 1198.
 
-in Hathigumpha Inscription, 869; 
+[[Mitākṣara|Mitākṣarā]], 3n, 10, 16, 53, 54, 56, 57, 70, 87, 94, 105n, 431, &c.
 
-2840. proceduro of, 873-874. 
+Mitramiśra, author of Saṁskāraprakāśa, 201n, 265.
 
-Karmakārs, a caste, 75; distinguish Kāma, a goal of human life, but the 
+Mlecchas: as a caste, 92; could according to Bhaviṣyapurāṇa worship images of Devī and clay images, 716n; country of, defined, 15, 383; eat cow's flesh, according to Parāśara, 383; incurred no blame by selling their children, according to Kauṭilya, 508; inhabitants of countries where no system of varṇa and āśrama prevails are, 383; Jaimini holds that words had been borrowed into Sanskrit from language of, 383; known to Śatapatha Brāhmaṇa, 167; language of, not to be studied, 383; not punishable if they sold their children as slaves, according to Kauṭilya, 183; persons should not visit country of m. or perform śrāddha therein, 382; purification of women raped by, 575; touch of, on same level with that of cāṇḍāla, 384.
 
-od from Karnārs in some works, lowest, 8. Kamadhenu, a mahadana: procedure Karmanda, 422. 
+Modes of Vedic recitation, three, 1196n.
 
-of, 874-875. 
+Mohenjo-daro: excavations at, 218; phallic emblems at, 708, 736; seals excavated at, bear an undeciphered script, 348.
 
-Karmāra (vide karmakāra ), 75. Kamalakarabhatta, author of Nirṇa- Kurṇa-parva, 16n, 71, 77, 88, 638. 
+Mokṣa, 422; depended on *tyāga*, 946; highest goal of man, 422; one should be intent on, after discharging debts to gods, manes and sages, 932; synonyms of, 422–423.
 
-yasindhu, 634 ; mother of, became Karnavodha, a gamskāra, 196,254-255. sati, 635. 
+Money-lending: at low rate of interest allowed to brāhmaṇas, 124; brāhmaṇa not to engage personally in, but through servants or agents, 124; is a greater sin if usurious than even brāhmaṇa murder, 124; usurious, not allowed to brāhmaṇas even in distress, 124.
 
-Karpūramañjari, a work of Rajase- . Kāinastuti, 10678. 
+Months: intercalary month called Saṁsarpa or Aṁhasaspati, 1178; twelve ancient names of, are Madhu, Mādhava &c. 820, 1178 [[P1322]] twelve, associated with twelve names of Viṣṇu, 250.
 
-khara, 450, 7370. Kamasutra, 9,72,83,367,414n, 431,432, 
+Moral values, emphasized in Mahābhārata in opposition to birth, 101; highest importance attached to, by dharmaśāstra, 11; standard for judging, 7–8; Upaniṣads lay stress on, for the seeker after spiritual truth, 940.
 
-Karpāpaṇa, finos measured in, 152. 433, 435. 622, 540, 662, 628, 734; Kārta virya, story of, 41, 726. regarde dharma as superior to kama Kartikeya, worship of, 217, and artba, 9. 
+Mother: a thousand times superior to father in worth, 323; curse of, cannot be averted, 681; high eulogy of and reverence for, in all dharmaśāstra works, 580–581; never to be abandoned by son, though she be *patita*, 580; put low in the order of guardians for a girl in marriage for certain reasons, 502; right of, to select a bridegroom for her daughter in preference to distant male relatives recognized by Indian Courts, 502; son's duty to serve m. even when she is guilty of grave sins, 580; son not freed from debt to mother, except by performing Sautrāmaṇī sacrifice, 580.
 
-Kāruṣa, & caste, 77. Kambhoja: guilds of kpatriyas in, 67, Kaśikā, com. on Pāṇini, 67, 122n, 
+Mourning, period of, less for brāhmaṇas in ancient smṛtis, 153; period of, now ten days for all, 153.
 
-75; outsido limits of Aryavarta 225n, 253, 366, 485. according to Nirukta, 13; Manu Kāgi-Videba, country of, 13, 328. on people of, 47 ; referred to by Kaśya pa, smṛti of, 2939, 445, 608. Asoka, 93. 
+Mouse, mentioned as *paśu* (animal) of Rudra in Vāj. S., 213.
 
-Kasy&pa, subdivisions of gotra, of, Kampilt, a city, 14. Kamsa, killed by Kypṇa, 719, Katadhanaka, & caste, 102, Kāmsyakāra, a casto, 75. 
+Mṛcchakaṭika, 76, 140n, 142, 155, 217, 927.
 
-Katak&ra, & caste, 74. Kamy estis (sacrifices for socuring Kathaka-gṭhya, 196, 219, 228, 2480, 
+Mṛtapa, 92; distinct from cāṇḍāla, 92, 168; included among śūdras by Patañjali, 92, 168.
 
-certain desires ) 1107-1108. 
+Mudgala-purāṇa, 725.
 
-266, 267, 258, 262, 263, 264, 265n, Kanina, casto of, 54, 
+Mudrā (hand and finger poses), 320–321; in saṁdhyā, 320; in worship of Viṣṇu, 320; number of, varies, 320–321; practised in island of Bali, 321; when made, 320.
 
-279n &c. Kankagabandhana, 536. 
+Mudrārākṣasa, 265.
 
-Kaṭbaka-sambita, 12, 107, 139, 148, Kanya, a smrtikāra, 932. 
+Muhūrta: called Brāhma, 646; called Prājāpatya, 600; day divided into 30 muhūrtas in Śat. Br. 645; equal to two nāḍikās, 645n; names of fifteen muhūrtas of day given in Tai. Br., 645.
 
-220, 233, 241n, 246, 302, 419, 557, Kanvāyana, dynasty, was of brāh- 669, 68 &c. 
+Mukerji, Dr. Radhakumud, 69n.
 
-mane origin, 123. 
+Muṇḍakopaniṣad, 5, 322, 323, 685, 969n.
 
-Kathopaniṣad, 6, 181, 241, 247, 322, Kanyadina, a rito in marriage, 633; 358n, 750, 7670, 881. 
+Muni, Indra is said in Ṛgveda to be friend of Munis, 419.
 
-bridegroom promisos dot to prove Katyayana, smsti of, 66 68, 141, 149, faithless ia dharma, artha and 160-161, 173, 184, 185, 186, 497, koma to the bride in, 633. 
+Mūrdhāvasikta, 53; an anuloma caste, 53, 91.
 
-539, 669, &o.; allowed a girl to be Ka palas, arrangement of sight or married again if first marriago 
+Mustard, seed thrown into fire for driving away evil spirits, 235.
 
-more for baking osko, 10310. · void for sagotra or sa pravara, 497 Kipklikus, soot of, 787a. 
+Mūtiba, Viśvāmitra's sons were cursed to be, 47.
 
-498; on doteots of bridegrooms, 
+Mūtrapurīṣotsarga, 649–651.
 
-490. 
+Muzumdar, B. C., 738.
 
-General Index 
+Nābhāga, a king, married a vaiśya girl and so incurred sin, according to a purāṇa, 451.
 
-1313 
+Nābhānediṣṭha, son of Manu, story of, 271.
 
-Kosants (samo as god&na), 197,402 
+Nāciketa fire, 767n.
 
-405; follows the procodure of cūdo karana, 404; medieval digests omit, 415; performed in the 16th year from conception or birth, 403 ; porformed immediately bofore marriage according to some, 403 ; performed for girls according to 
+Naciketas, sought to know the destiny of man after death, 181.
 
-some sūtras, 405; procedure of, 404. Resuva, com. of Kansikasūtra, 
+Nāḍī, consideration of, in marriage, 515.
 
-403. Kebuvapaniya, a rito in Rajasūya, 
+Nāgabali (offering to propitiate snakes), 824; for expiating sin of killing a snake and obviating obstacle to securing progeny, 824.
 
-1221. Ketkar, Dr. S. V., 977. Khadira-gphya-sūtra, 191n, 196, 208, 
+Nāgas, figure frequently in the Mahābhārata, 823; names of seven, that support the earth, 823.
 
-220, 234, 246, 247, 255, 261, 262, 
+Nāgeśabhaṭṭa, 381, 953.
 
-288 &c. Khanaka, a caste, 79. Khāravela, 869; inscription of, at 
+Naigama, meaning of, 68.
 
-Hathigumphn, 17, 384; performed Rājasūya, 978; repaired all temples, 710; what he learnt as princo, 
+Naimittika, dharma, 3.
 
-364. 
+Nairs, of Malabar, had polyandry among them, 556.
 
-431; on slaves, 184-18B; on father's want of power to sell child or 
+Naivedya (food offered to images of gods), distribution of, 733; what allowed and forbidden, 733.
 
-wife, 508. Katyayana-spinasūtra, 662n, 700. Katydyana-srauta-sūtra, 46, 109,163n, 
+Nakṣatras: auspicious nakṣatras for marriage, 512–513; enumerated in Vedic Literature from Kṛttikā to Bharaṇī, 247n; male, 219n, 223; names derived from, important in Vedic sacrifices, 247; names given to people from, 246; names of some, different in Vedic times, 247n; presiding deities of, in Vedic [[P1323]] Literature, 247n; twenty-eight mentioned in the Vedāṅgajyotiṣa, 247.
 
-157, 2099, 386, 489n, 576, 679, 
+Nala, name of, to be repeated in the morning, 648.
 
-9199, 989n &c. Katydyana-sūtra, & supplement to 
+Nālandā, University of, 369.
 
-Pāraskara-gphya, 196, 361, 693. Kankilr, variety of Sautrāmeni sacri- 
+Nāmakaraṇa (see under 'names'), 196, 234, 238–254; name given at time of birth according to some sūtras, 234; several times for, 238.
 
-fice, 1224; for whom performed, 
+Namaskāra: consisting in bowing and folding one's hands, 346; distinguished from *abhivādana*, 346; in *devapūjā*, 735–736; twelve namaskāras to the sun in modern times, 735–736; with eight limbs, 735.
 
-1227. Kangikasūtra, 196, 398, 403, 479, 513, 
+Nāmavyatiṣañjanīya, homas, in Rājasūya, 1218.
 
-827. Kaușrtaki Brāhmaṇa, 12n, 42n, 67, 
+Names (see under 'Nakṣatra' and 'Nāmakaraṇa'): additions like *śarman*, 251; *abhivādanīya*, 246n, 285; derived from mother's name, 242; derived from gotra, 247; derived from nakṣatras, 240n, 249; derived from names of months, 249–250; derived from sages, deities or ancestors, 245; four or more, 246n, 249; in Mahābhāṣya, 245; more than one given for prosperity, 240; may be same as father's ancestor, 245; of girls how given, 250; one man given several in Ṛgveda, 240; Pāṇini's rules for names from nakṣatras, 248; rules of gṛhyasūtras for giving names to persons, 243–248; rules of Manu for n. simple, 250–251; secret, given by the parents either at birth or on 12th day, 246; secret, given to persons in the Ṛgveda, 240–241; short forms of, 244n; three names of same person, examples of 241; usually two n. given to a person in Vedic works, 242; whose names are not to be taken out of respect for them 334.
 
-419, 480, 758, 940, 1000. Kaupstaki Upaniṣad, 9n, 38n, 52, 106 
+Nammāḷvār, 177.
 
-254, 328, 1232n. Kautilya, 9, 53, 56, 67, 73, 78, 85, 
+Namuci, was killed by Indra at dawn with foam, 718–719.
 
-122, 141, 143, 144, 266, 363, 552, 600, 932; artba is the principal goal according to, 9; on daily duties of kings, 805–806; on duties to be performed by kings in the oight parts of the day and night, 645; on education of prince after caula, 266; on cducation of princo after upapayana, 266; on sale of children, 508; on temples in the 
+Nandas: after them there will be no kṣatriya kings, according to some purāṇas, 121n; angered Cāṇakya, 265.
 
-capital, 710. Kavaṣa Ailūpa, 447, 758; driven out 
+Nandikeśvara, addressed as Dharma in Gosahasra mahādāna, 874; as vehicle of Śiva, 876.
 
-from a sacrifice on the Sarasvati, 36. Kavyadarka, 72. Kavyalamkāra, of Bhāmaha, 252n. Kavyamımāınsa, of Rajasekhara, 369. Kavya prakash, 9040. Kayastha, 75–77; controversies about 
+Nandipurāṇa, on hospitals, 885.
 
-origin and history of, 75; in inscri ptions, 77; included anong sūdras by some sınṣtis, 76; was originally an officer, 76; word occurs among sūtras only in Viṣṇu, 76; word probably derived from foreign 
+Nāndīśrāddha, a necessary preliminary in Upanayana and other saṁskāras, 286.
 
-source, 76. Keay, Mr., 285A, 321n. Keith, Prof., 380, 4180, 499-500, 555, 
+Nāpita, 85; two varieties of 85.
 
-977, 978n, 11760, 11880,1202n,1223, 
+Nārada, 39n, 55, 56, 59, 61, 68, 70, 71, 75, 86, 92, 94, 119, 124, 128, 184, 331 &c.; condemns learning Veda from books, 348, 349n; on defects of girls as brides, 433; on guardians of a girl for marriage, 502; on kinds of slaves, 184; on the apprentice system, 365; on fourteen classes of impotent persons, 431.
 
-1228n, 1237, 12399, 1245, 1246n. Kenopanigad, 738. 
+Nāradīya-purāṇa, 395, 451n, 928n, 929n.
 
-H. D. 165 
+Nāradīya-śikṣā, 1170, 1173.
 
-Khasa, a caste, 79; view of Mapu 
+Nārāśaṁsī gāthās, 353, 354n, 701n.
 
-about, 47. Khojas, governed by Hindu Law of 
+Narasimha-purāṇa (vide under Nṛsimha-purāṇa).
 
-inheritance till recont times, 389n. King (see under paripad, puro 
+Nārāyaṇa (Viṣṇu), mantra of 25, letters of, 320
 
-bita'); cessation of Veda study on death of, 398; could punish brahmanas in appropriate caso, 139; could takecognisance of wrong committed by hugband against wife and vice versa, 574; defender of dharma and brahmapas, 39, 965; dependonoe of, on purohita, 40, . 965; drinking is the worst vice for 1, 798; duty of, to assiga pro per means of livelihood to brah magas in distress, 113; duty to make daily gifts to learned brah magas, to grant lands to them and to make provision for their warriages, 856-858; duty of, to prevent member of lower varṇa doing work of bigbor varṇa, 119; duty of, to punish those guilty of the breach of the rules of guilds, 68; duty of, to punish 
+Nārāyaṇa, com. of Āśv. gṛ. and other works, 211n, 219, 221, 231n, 260, 262, 304n, 307, 326n, 403, 404, 409n, 410n &c.,
 
-1314 
+Nārāyaṇa, com. on Śvetāśvatara Up., 421n; com. on Kālāgnirudra Up., 674n.
 
+Nāriṣṭha homas and mantras, 1081–1082.
 
+Nartaka, 85; distinguished from Naṭa by Bṛhaspati, 85.
 
-persons guilty of gari kara, 60-61; live in the kingdom of sudra duty of, to 800 that no drotriya kings, 121; some k. had a hundred porished in his kingdom through wives, 653; who bocamo brahma hungor, 112n; education of, pas according to the Mahabharata according to Kautilya, 364; four and purīgas, 66; who had attained wives of, 551 ; greated by maidont eninence in brahmavidya, 105. with showers of friod grain on Kiratas, 77; aro mlecchas according fostive occasions, 611; has parts to some works, 77; inentioned in of oight deitios in him, 137; kept Taqdya Brahmana, 44; viow of people within bounda, 39; loft Mann about, 47. ecclesiastical matters to purohita, Kleen, Miss Tyra de, 321. 363; madhu parka offered to, on Kolika, 79. his visiting a person's hou80, 642; Konkara, country of, outside pale office of, extolled beyond measure, of Aryāvarta, 16. 137; on coronation was given a Kooch Behar, pon-Hindu family in, vessel of sura by purohita, 796; became Hindu 389. rulor of all, except biahmaṇas, Kosala-Videhas, ceatre of Aryan 139; shared in the merit accumu- | culturo in Brahmana', 12. lated by brahmanas, 139; to be Krama, 347; a modo of reciting approached for yogaksema by brā- | Veda, is of hunian authorship, hmagas, 112; to hold assomblies of 348n. poots and learnod men, 369; to Kratu, & smrtikara, 934. mako brahmagas who do not per į Krpa, 123. form saradhyā, do the work of Kṛp, wife of Drona, 627. sadras, 318; to punish husband Krśaśva, author of Natasutra, 84. who abandons blameless wife, 552; | Kropa: Ghora Angirasa, was teacher to punish with death one who of, 719; nanie of, to be taken in kills & woman, a child or a brah- morning, 648; some of his queens maga, 610; to punish with fine burnt themselves along with his 
+Nasik, cave inscriptions, 73, 113n, 252, 414n.
 
-villages where high casto men body, 626, wandor about begging, 134; to re- Kita, e casto, 79 gulate dharma on advice of puro- Kṛtyakalpataru, 58, 59, 60, 78, 89, hita and pariṣad of learned brāb- 94, 215. magas, 966; to rely on Vedas, Kștyarataikara, 30, 7a, 217, 258n, dbarmasastres, u pavedas, for regu- 259, 3080, 6870, 721, 738, 825, lating subjocts, 354, 363; took hy 8900 &c. oscheat property of heirless per- Krumu, river, mentioned in Rg, 12. B0n9, except of brūhmaṇas, 146; Kpatra-dbiti, & rite in Rajasuya, ultimate protector of all womon 1222. that have no relativos, 5770; vices Kpatriyas (800 under Marathas ), as of kings opunerated, 798; teuchore, 108 ; commond the whether owner of all lands in the svayamvara form of marriage, 523; kingdom, 865-867, 
+Nāstika, condemned as a *patita*, 359; derived by Pāṇini, 359n; unfit to be a witness, 359n.
 
-co-oporation of brahmana with, Kings; Agoikulas, 382; claimod emphasized, 39; could becomo 
+Nāstikya, condemned by Manu, 358; history of, 358, 359n.
 
-descent from the Sun and the vūna praatha, 923;could not general moon, 381; daily duties of, 805- ly officiato as priests, 109; could 806; gotras and pravaras of, 493 Bot partako of soma drink, 29; 494 ; had gotras of their own, 494 ; courts in India now hold that Manu ordains brahmapag not to 1 kpatriyas oxigt, 382 ; did not con 
+Naṭa (dancer), 84–85; an *antyaja*, 70; distinguished from śailūṣa 84.
 
-General Inder 
+[[P1324]] Naṭasūtra, composed by Śilālin and another by Kṛśāśva, 84.
 
-iiis 
+Native Converts Marriage Dissolution Act (of 1866), 621.
 
-stantly wear yajñopavita, 296 ; | Kumbhavivaha, & ceremony for a distinguished from rājanya in Ait g irl to avoid early widowbood, 546. Br., 32 ; engaging in trade was not Kumbbi, 110n, 64in. subject to restrictions liko brah- Kunda, required in Mahadana and maṇas, 127; extirpation of, by other ritos, 871n. 
+Negroes, discrimination against in America, 165.
 
-Parasuramu, 98; flosh-eating allow- Kunda, 78, 611; treated as different od to, 780-781į forms of marriage from savarṇa, anuloma and prati for, 522 ; gotras and pravaras of, loma, 54 ; u panayana of, 298. 493-494 ; names of k. as pravara Kundarka, & work of Samkara, 80n of names, 496 ; position of, 39 ff; Nilakantha, 871u. pravaras of, in Vedic sacrificos, Kuntalaka (saino as nāpita), 102. 388 ; proposition that keatriyas | Konte. 977. were pioneers in brahmavidya | Kunti, 581; mothor of and highly challenged, 106n; somo modioval honourod by Pandavas, 581. works held so-called kpatriyas wore Kūrmapurana, 316, 318, 3290, 3300, sudras, 381; some k, studied Voila 357n, 400n, 402, 643, 6460, 647, and philosophy, 106; sometimes 657, 736 &c. claimed bigher status than brah- Kurn, tribe of, 1222. maṇas, 40; subdivisions among, Kurukṣetra, 13; holy place, 13; Vodi 
+Nejameṣa name of a *khilasūkta*, 222.
 
-104; whether exist in Kali age or of gods in, 13, not, 380-382 ; word applied to Gode Kuru-Pañcala, 328; contro of Aryan in Rgveda, 30-31. 
+Nibandha, a periodic payment, translated as corrody, 860n.
 
-culture in times of Brabmaṇas, 12, Ksatt?, 79; & pratilonia casto, 57, 79; 13; centro of Aryan culture in 
+Nicchivi, a caste, 85; probably a misreading for Licchavi, 85.
 
-callod antyāvasayin, 70; three times of Upanigads, 13; speech at meanings of the word, 79. 
+Nidhana, of the nine verses of Bahiṣpavamāna, 1170; the finale of a Sāman, 1169; repeated thrice in avabhṛthasāman, 1199; was not fixed in many cases, but could be changed at the desire of yajamāna, 1169n.
 
-its best in, 12. Kpemendra, 723. 
+Nigada, distinguished from *yajus*, 984; what is, 983–984.
 
-Kuru-Vajapeya, 1211. Kpetraja, don, belongs to the caste 
+Nīlakaṇṭha, com. of Mahābhārata, 70, 92, 556, 825n.
 
-Kuruvinda, a caste, 102. of his mother, 54. 
+Nīlakaṇṭha, author of Saṁskāramayūkha, 201n.
 
-Kusas, difference between darbhas Kpirasvamin, con, of Amarakosa, 80, 
+Nirṇayana (same as Niṣkramaṇa) 196.
 
-and, 657; kada or dūrva to be 1180rl 82, 89, 174n, 918. 
+Nirṇayasindhu, 176, 198, 199, 249, 259n, 260, 277, 298n, 446n, 452n, 453n, 455n, &c.
 
-if kuda not available, 657 ; required Kubha, river, nuontionod in Rg, 12. 
+Nirṇejaka (vide 'caila-nirṇejaka') 82.
 
-to be held in the band in japa, Kukkuta, a caste, 78. 
+Nirūḍhapaśubandha, see Paśubandha
 
-homa, gift &c., 656-657, 
+Nirukta, 13, 26n, 31n, 32n, 55, 86, 107, 235, 255, 323n, 330, 357, 435, 478 &c.
 
-Kubilava, a casto, 78. Kukunda, 78. 
+Niṣāda (see under 'pāraśava') 53, 86–87; an anuloma caste, 53, 86.
 
-Kapmāṇda homa, in taking satunyasa, Kulala, 78 ; samo as kumbbakāra. 
+Niṣāda-sthapati, 46; could perform an iṣṭi to Rudra according to Vedic texts and sūtras, 46; offered caru of Gavedhuka corn, 46; Satyāṣāḍha holds that he can perform Agnihotra and Darśapūrṇamāsa, 46.
 
-958. Kulika, a caste, 78. 
+Niṣeka, a saṁskāra, 195; same as garbhādhāna, 195.
 
-Kusūla, 1100, 6410. Kullūka, 31, 53, 63n, 720, 73, 84, 90n Kutas, eight, to be considored in 
+Niṣkramaṇa, a saṁskāra, 196, 255–256; same as Upaniṣkramaṇa.
 
-1100, 150, 172, 280 &c. 
+Nityācārapaddhati, 172, 237, 259, 320, 559, 648, 681n, 729n, 730n, 734n.
 
-marriages, 514. Kumāra, a smžtikāça, 798. Kumarasambhava, 628, 724, 725, 738. Lagbu-Asvalayana, 1201, 121, 182, Kumārila ( see Tantra vārtika'), 204, 205, 221, 225, 239, 256, 370, 
+Nityācārapradīpa, 672n.
 
-292, 351, 355, 376, 459, 555, 603, 403, 411 &c. 721; autbor of gpya kārikās, 222; Legbu-Harita, 15, 265, 314n, 960n, explains Indra and Ahalya as 466, 6490, 655, 734, 766n. moaning Sun and Night, 1145n ; | Laghu-Saṅkba, 1570. 
+Nivartana, a measure of land, defined, 859n.
 
-rebukes bhayakara Sabera, 351 Laghu-Satatapa, 80, 81, 113n, 116, Kumbbakāra, & caste, 78; food cook 128n, 311n, 645, 6840, 760 &c. 
+Niyoga (appointment of widow to raise issue), 599–607; allowed by Gautama and some smṛtis, 599–602; condemned by Āpastamba and Manu, 599–602; breach of the restrictions of niyoga, was held to be sinful and would invite punishment from king, 601; conflict of views about to whom the child of niyoga belonged, 605; Mahābhārata is full of examples of, 603–604; restrictions under which niyoga was allowed, 601; several views about, 604; smṛti texts about, refer to śūdras according to some, 604; widows of kṣatriyas allowed to raise issue from brāhmaṇas, 603–604.
 
-od by, could be eaten by brābmaṇas Laghu-Viggu, 168, 169, 226n, 24, according to the Mit., 122. 
+Nose-ring, began to be worn by women about 1000 A. D., 537; not mentioned in sūtras, smṛtis and even in early digests, 537.
 
-642, 937, 939, 943. 
+Nṛsimhapurāṇa, 395, 643, 655, 656, 663, 714, 715n, 720, 729n, 730, 900 &c.
 
-1316 
+Nṛyajña (see under Manuṣyayajña).
 
+Nyāsa, 319–320; in Devapūjā, 739; meanings of, 319; of sacred Vedic verses on one's limbs, 319; supposed to be non-Vedic, 319; three kinds of, 900.
 
+Nyāyasūtra, 423.
 
-Layhu-Vyasa, 111, 655, 659A, 
+Oceans, seven, 877.
 
-Macdonell, Prof. 499, 718n. Laja-loma, in marriage, 529. 
+Oḍra, 74; Manu's views about, 47.
 
-Mac Munn, Sir George, 187, Lakulas or Lakulidas, 737 and a. MacNaughton, 520. Luod rovonuo, whether a tax or rent, 1 Madana-pārijata, 158, 200, 302, 310, 
+Offerings, method of making, 211.
 
-868. 
+Officers, grades of, each lower grade reporting to the higher, 868; royal, named *ājñā*, *dūtaka* &c., 861.
 
-316, 3340, 337, 438, 4550, 471, 514, Lata, silk weavors from, 69. 
+Oldenberg, 810, 825n.
 
-563, 585, 592 &c. Latas, the word 'abhyañjana'among, Mada poratna, 198, 249. 
+Om: ascetic should meditate on, 957; eulogy of, 301–302; is the root of [[P1325]] Veda, 957; looked upon as very sacred as a symbol of the Supreme Being, 301; to be uttered when beginning Veda study everyday and at end of Veda lesson, 301, 327.
 
-803p. 
+Oman, J. C, 975n.
 
-Madadir, water heated on gārhapatya Latydynpa-srauta-sūtra, 481, 1133. and used for making dough from 
+Ordeal, trial by, did not ordinarily apply to women, 596.
 
-1145, 1168, 1169, 1182n, 1183, 1193, pounded grains, 1030. 1195n, 1199n, 12070 &c. 
+Pada text, of the Veda, 347; due to Śākalya, 348n.
 
-Mndgu, a casto, 90. Laugakṣi-gruya, 434, 444. 
+Padmapurāṇa, 661, 724, 771, 880.
 
-Madhumati, verses of the Rgveda, Laugakṣis, aro Vasiṣthias by day and 544n. 
+Pahlavas, 87; Manu on, 47.
 
-Kasya pas by night, 496. 
+Paiśāca; form of marriage is the basest and most sinful of all forms, 517; recognition of paiśāca and rākṣasa does not mean that smṛtis legalised marriage by capture or stealth, 520.
 
-Madhuparka: & inįxture of honey and Leggo, 82, 86. 
+Paithīnasi, 17, 335, 393, 456, 627, 761n, 913.
 
-curds or djya offered in, 545 Lekhaka, a caste, 94. 
+Pākayajñas: are saṁskāras according to Gautama, 194; seven, according to Gautama, 194, 819.
 
-divergence as to substances offer Levi, Prof. Sylvain, 3190. 
+Palāśa-karma, in Upanayana, 306.
 
-ed in 545; flesia necessary in, Licclivika and Buddha, 86; oligur- ! 
+Paḷasulā (a Marathi word), a modern rite, 306.
 
-according to most sūtras, 545; in chies of, 85. 
+Pallavas, of Kāñcī, were of Bharadvājagotra, 494.
 
-warriage, 632; killing or presenting Likhita, sırti of, 69, 135, 466, 657n, 
+Pañcadaśī, a work on Vedānta, 391.
 
-& bull or cow in honour of a 8440. 
+Pañcagavya, 773–774; as prāyaścitta 774; as purification, 773; ingredients of, 773; is called brahmakūrca, 774; śūdras and women could take pañcagavya but without mantras, 774; Vedic verses to be recited when preparing, 773; vessel for 774.
 
-worthy guest in, 542; offered only Lilavatt, of Bhaskarācārya, 881. 
+Pañcāgnividyā, not known to brāhmaṇas till Pravāhaṇa taught it to Gautama, 106n.
 
-in nurriage in modern times, 546 ; 
+Pañcajanāḥ, meaning of, 32n.
 
-offered to six classes of persons, Linga, fourtoon croros said to bave 
+Pañcamas, untouchable, 168.
 
-542; procedure of, 543-544. been established by Bānāsura, 737; morit socurod by bathing linga of 
+Pañcalāṅgala, a mahādāna, 875–876; performed by Devarāya II of Vijayanagara, 870.
 
-| Madhusudu 12-Sarasvati, initiated sive with milk, curds etc., 738 ; 
+Pañcarātra: Kāpila, 212n; p. texts condemn tripuṇḍra mark, 673; texts enjoin marking body with the conch, wheel and other weapons of Viṣṇu, 673.
 
-kpatriyas and vaiśyus into seven procedure of worship of, 729; Siya 
+Pañcāvattins, 528; cannot intermarry, 490; descendants of Jamadagni are, 528n, 1003n; meaning of, 1003n, 1060, 1061n; Vatsas, Bidas and Ārṣṭiṣeṇas are styled, 490, 1003n.
 
-out of ten orders of sarnyasins 
+Pañcavātīya, a rite in Rājasūya, 1215.
 
-and made thorn fight Moslen worshipped as linga, 737 ; twelvo 
+Pañcavidha-sūtra, 1169n, 1170.
 
-arinies, 951. funous, 737; worship of, 708. 
+Pañcāyatana, worship of, 716–717.
 
-Madhuvidyā, 767n; lo be iinpaited Litgapurana, 869, 872, 873, 874. 
+Pañcīkaraṇa, doctrine of, in Vedānta, 961n.
 
-by father to son or to it worthy Liquor, vendor of, shoul I have a flag ! 
+Pañcīkaraṇa, a work of Śaṁkarācārya, 961n.
 
-pupil only, 322. at bis shop and should not sell it to 
+Pāṇḍavas; five had one wife Draupadī, 554; paid highest honour to Kuntī, their mother, 581; supposed by some to be non-Aryan, 554.
 
-Mudlivācārya, 673. 
+Panditrao (minister in Shivaji's council): jurisdiction of, 972; sent doubtful cases of dharma for decision to learned brāhmaṇas of Wai, Nasik or Karad, 972, 973.
 
-M antyajas except in distress, 798. 
+Pāṇḍu, is said to have told Kuntī to resort to *niyoga*, 604.
 
-Mudhyadesa, limits of, 15. Lobakāra, a caste, 94. 
+Pāṇḍusopāka, a caste, 87.
 
-Madhyamāngiran, 700. Loka palas (guardian deities of tho 
+Pāṇini, 45n, 52, 55, 67, 71, 75, 78, 83, 84, 91, 93, 122n, 168, 225n, 243n &c.; his mother was Dākṣī, 252; not later than at least 300 B. C., 422; was called Śālāturiya, 252n.
 
-Madhyamikā, besieged by Yavana, sight quarters ), 871, 873, 899. 
+Pāṇinīya-śikṣā, 347.
 
-384. Lokayatas, referred to by Maha Madhyanding sakha, followers of, 
+Paṅkti (row of diners): devices for breaking continuity of, 767; one in paṅkti should not take *ācamana* before others or should not get up 766–767; one should not sit in same paṅkti with undeserving persons, 767; persons of different castes may sit in one if separated by streaks of ashes, 767; persons in one paṅkti not to touch one another, 769; persons who sanctify paṅkti, 767–768; persons who defile paṅkti by their presence, 767–768; same food must be served to all in same paṅkti, 768.
 
-bhagya, 259n; tenots of, 3590 ; buve to observe a special rulo touch of, 169. 
+[[P1326]] Paṅktipāvana (sanctifying company or row of diners), 767–768.
 
-about gotr& relationship in Lokayatikas, touch of, required bath 
+Pāradas, Manu on, 47.
 
-marriage 471. for expiation, 665. 
+Paramahaṁsas: are either *vidvat* or *vividiṣu*, 941; Dattātreya described as, 726; state of, described by Jābālopaniṣad, 941.
 
-Madra, country of, 328. Lopamudra, a pativrate and wife of 
+Parāśara, smṛti of, 80, 82, 85, 126, 133, 134, 161, 189, 304, 381, 444, 571n, 631n, 646, 648 &c.
 
-Madras Nambudri Act of 1933, 554; Agastya, 686. 
+Parāśara, grandson of Vasiṣṭha, 487.
 
-forbids & Nambudri brabmaṇa Low, Sydpoy, 20. 
+Parāśara-Mādhavīya, 2n, 6n, 53, 58, 59, 66, 76, 78, 81, 85, 101n, 176, 189n, 289n, &c.
 
-from marrying a second wife ox Lubdbaka, (same as vyadha), 94. cept in three cases, 584. Luko, Gospel of, 851; Gospel of, 1 Madri, & wife of Pandu burnt her 
+Pārāśarya, 422.
 
-· forbide divorce, 6220; on kingdom self on the funeral pile of her of Heaven, 976. 
+Pāraśava, 86; distinguished from niṣāda by some, 86; son of a brāhmaṇa from śūdra wife was called, 448.
 
-husband, 626. 
+Pārasīkas, practice of marrying the mother among, 555.
 
-General Index 
+Pāraskara-gṛhya-sūtra, 196, 197, 203, 208, 219, 220, 234, 235, 251, 255, 263, 268, 275, 278, 282n, 300, 441, 448, 532, 533 &c.
 
-1317 
+Pāraskara-gṛhya-pariśiṣṭa, 891.
 
-Magadha, & pratiloma caste, 57, 90mm Maharastra, brahmanas, subdivisions 
+Paraśurāma, extirpated kṣatriyas, 98, 380, 381n, 604.
 
-91; one of tho Antyāvasāyins, 70. among, 103. Madya (800 under drinking'). Malāsamhita, a work, 321. Magavyakti of Krpnadāsa, 722n. Mahāvakyas (profoundly pbiloso Magas: Bhojaka & synonym for, 722n; phical sentences in the:Upanipods), 
+Parents (see 'father'): absolute power of, to give, sell or abandon their child, 507.
 
-to receive naivodya offered to the instruction in ono out of four, sun-god, 733 ; story of their being at timo of taking sannyāsa,961. brougbt by Samba from svetadvipu, Malāvīracarita, 216. 7220; to be worsbippers in the Mshāvrata ; inock fight betweon brā. toin plos of the Sun, 722. 
+Pargiter, 862.
 
-hniana and sudra in, 25; one who Mahabharata, 8, 10, 41, 66, 72, 82, 83, knows mahāvrata not to dine with 
+Paribhāṣā-prakāśa, 14n, 17, 18n.
 
-88, 89, 93, 100, 123, 136, 182, 327 one who is ignorant, 758; proce &c.; indulges in Iroquont e ulogios dure of M, which is the last day of brābmaṇas 136; un subdivisions but ono in a sattra 1243-45. of Viévāmitra gotra, 384; recited Mahāvyabrtis, 257, 301n. in temples, 799. 
+Paridhi (encircling woodstick): described, 1014n; placing three paridhis round āhavanīya with mantras, 1044–1045.
 
-Mahdyajñas; ancient nomenclature Mahābhapya (see undor Palaõjali), of, differed, 699; distinguishod 
+Pārijāta, a work, 267.
 
-13, 14n, 67, 72, 83, 92, 100, 107, from brauta rites in two respects, 225n, 238n &o. 
+Pāriplava, narrative of, in Rājasūya, 1231–1233.
 
-697; tivo, 197, 696ff; included Mahābhūtaghata, il malādāda, 877. among Barnskāras by Gautama, Mahādānas, 869-877; are ten accord- 697; institution of, morally supe. 
+Pariṣad (assembly of learned men), see under 'śiṣṭa'; discussed intricate questions of conduct in times of Tai. Up. 266; duty of, to declare appropriate expiations, 970; is not constituted by thousands of ignorant people in doubtful matters of dharma, 969; must be constituted of śiṣṭas, 971; must work with king in the matter of grave sins, 970; number of persons required to constitute, 966, 968–969; qualifications of members of, 968; single person being the best of ascetics and knowing the Veda may in exceptional cases constitute p. 969; to administer penance to brahmacārin guilty of sexual intercourse, 967; to prescribe appropriate expiation for lapses, 968; was acknowledged authority for hundreds of years before Śaṁkarācārya in doubtful points of dharma, 968.
 
-ing to Agnipurāṇa, 869; are rior to srauta rites, 697; occur in usually said to be 16, 869; con- Sat, Br. and Tai. Ar. 696; order struction of inanda pa in, 870-871; of performance in time, 700; pur described at length in Matgyapu- pose of to atono for unintentional rāṇa, 870; performed according injury caused by cooking, pound to Matsya by great heroes of the ing &c. according to Manu and past like Vasudeva, Rāmu, Kārta. othors, 698; sentiments underly virya, 870; procedure of 871; their ing, 697-698; why so called, 697. namos go buck to conturies beforo Māhiṣmati, women of, wore uncon Christian era, 869. 
+Parisaṁkhyā, 780.
 
-trolled in their sexual relations, Mobādeva, com. of Satyāṣāḍha-éra- according to Mahabhai ata, 428. 
+Parivedana (marrying before an elder brother or sister), 546–549; elder brother or sister before whom a younger one married also incurred sin, 547; enumerated among *upapātakas* by Viṣṇu Dh. S, 548; one kindling sacred fires or performing a Vedic sacrifice before his elder brother was also condemned, 547; prāyaścitta for, 547; severely condemned as a great sin in vedic and sūtra literature, 546, 549; when not sinful or condemned, 548.
 
-uta-sūtra, 1085n. 
+Pāriyātra, mountain, 13.
 
-Mahiøya, 53, 91; an anuloma caste, Mabakala, templo of, at Ujjayini,738. 53. Mabakalpalata, a mahadāna, 876. Mahiya rk, 1200. Mabānāmni : vrata, 371-373, verses Maidens, brotherless, could not 
+Pārtha, homas in Rājasūya, 1217.
 
-to bo studied in Sakvara vrata, socure husbands in ancient times 
+Paruṣṇī, river in Ṛg, 12.
 
-371-372; what are m. verses, 372n. for fear of being putrikās, 435; Mabapandin, the last kpatriya accor- regarded as auspicious and pure, 
+Pārvaṇa homa in Darśa-pūrṇamāsa, 1081.
 
-ding to the purapar and wedieval 511 writers, 381, 
+Pārvaṇa-sthālīpāka, 819–820; one of the seven pākayajñas, 819.
 
-Maino, viows of, on casto, 21, Mabapadma Nanda, &g extirpator of Maintenanco: absolute duty to give 
+Parvatadānas, 882; are gifts of heaps of corn, salt, jaggery, sesame &c., 882; ten kinds or twelve, 882.
 
-kṣatriyas, 380. 
+Paryaṅka-śauca, 961–962; purification of saṁnyāsin by, 961–62.
 
-inaintenance to certain persons, Mahāprastbana (starting on the 568-569; duty of well-to-do pro 
+Paśubandha (immolation of animal in sacrifice), 1109–1131; (see under yūpa, vedi, Āprī); āhavanīya is the fire on the nābhi of the uttaravedi, 1113; animal is meant for Indra, Agni or Sūrya or Prajā[[P1327]]pati, 1117; animal sacrifice in *soma*-yāga is called Saumika paśu, 1109; animal sacrifice performed independently and also as an aṅga of soma sacrifices, 1109; animal (he-goat) to be bathed and touched with kuśa blades and plakṣa branch, 1116; animal's right fore-leg and right horn to be bound with a girdle of two strands, 1116–1117; encircling yūpa with a girdle (raśanā), 1115; *havis* is offered to Manotā, 1128; heart of victim is roasted on *śāmitra* fire with a pike, 1127; hotṛ recites the Adhrigupraiṣa before victim is killed, 1121; how animal is killed, 1122; independent animal sacrifice is to be performed every six months or once a year, 1109; inserting *svaru* in the coils of the girdle of the yūpa, 1115; limbs of *paśu* cut off for puroḍāśa, 1126–1127; limbs of paśu except heart are cooked in an ukhā, 1127; making of yūpa, 1110–1112; occupies two days, 1112; offering of prayājas in 1117–1119; omentum of paśu is offered in āhavanīya, 1125; planting of yūpa in a pit on the borders of Vedi, 1114; preparation of Vedi in, 1112; sacrificer's wife washes with water from a jar several limbs of the animal, 1123; śāmitra fire established to north of cātvāla pit, 1120; śāmitra fire employed for roasting flesh of victim, 1120n; six priests required in (including maitrāvaruṇa), 1109; staff handed over to maitrāvaruṇa who stands to south of hotṛ's seat resting staff on vedi and utters directions to hotṛ to repeat yājyās 1110; tail of victim employed as offering in Patnīsaṁyāja, 1127, 1130; *upayāja* offerings of entrails of the victim after the eleven anuyāja offerings, 1129–1130; vapā, puroḍāśa and *havis* are the three *pradānas* in paśubandha, 1125; verses from Āprī hymns used for prayājas, 1118 and n; views differ as to the limbs of the victim that are cut off for being used as avadānas, 1126.
 
-great journey to dio on the way), ple to give maintenance to somo 924-927. 
+Pāśupatas, condemn ūrdhva-puṇḍra mark, 673; refutation of doctrines of, in Vedāntasūtra, 736; touch of, condemned, 169, 665.
 
-persons, 689. Mab&rs, an unlouchable casto, 178; Maitra, (same as Kartea ) 92. 
+Pāṭaliputra (modern Patna): śāstrakāras like Pāṇini were examined at, 369.
 
-economically better off, than many Maitrāvaruṇa priest (see undor villagers, 178. 
+Patañjali (see under Mahābhāṣya), 7n, 14, 71, 72, 83, 122n, 168, 736ff &c.
 
-taśubandha ), 1110. 
+Paternal aunt's daughter, marriage with, condemned by most writers on dharma, 467.
 
-1318 
+Patitasāvitrika (those whose upanayana is not performed and who had no instruction in Gāyatrī mantra), 376–379; being a, is only an upapātaka, 378; consequence of being a, 376–377; for several generations, 378–379; various prāyaścittas and modes for reclaiming, 377.
 
+Pativratā (chaste wife), 565–568; approved conduct for, 565, 567; hyperbolical descriptions of the power of, 567ff.
 
+Patnī, who is a, 558.
 
-Maitrdyani-8ambita, 421, 255, 503, Mantras (vide under nigada): fout 
+Patnīsaṁyājas, are four offerings to Soma, Tvaṣṭṛ, wives of gods and Agni Gṛhapati, 1076n; procedure of, 1076–1077.
 
-516, 726, 7791, 1024, 1025, 1220n. categories of, 983; japa of mantras Maitreyaka, 92. 
+*Patria potestas*, 507.
 
-of 6, 8, 12 or more letters, 687; Maitreyi, wife of Y&jaavalkya, an japa of mantras to be counted by 
+Paul, St., 10, 438n, 562n.
 
-carnest gooker after truo kpow. the fingers or on & rosary, 687. lodge, 365, 946. 
+Paulkasa, 44; a filthy caste, according to Vāj. S., 44.
 
-Mantrasnāna, 667-668. Maitri Upanigad, 50, 366. 
+Pauṇḍarīka, sacrifice in which the dakṣiṇā was a thousand horses, 839.
 
-Mapu, 3, 7, 9, 33, 390, 53, 55, 69, 63, Mala (filthy oxudations from the 73 &c.; ready to regard yavadan, 
+Pauṇḍrakas, Manu's view about, 47; same as Puṇḍrakas, 89.
 
-body ), twelve, 661-652. 
+Pauṣṭika, 102.
 
-sakas, cinas and others as ksatriyas Malabar Marriage Act (of 1896 ), roduced to position of sudras, 47; 
+Pāvamānī, verses, purify a man, 317n, 378n, 686.
 
-621; allows divorce, 621; forbids smrti of, has the bighost authority polygamy, 621. 
+[[P1328]] Pavitra (loop or ring), 211n, 1016, 1021n; how made, 657; of darbhas to be worn on ring finger in religious rites, 657.
 
-among smrtis, 465; smrti opposed Malakāra or Malika, & casto, 91. to Manu's to be discarded, 465. Malamāsatattve of Ragbunandana, Manu, story of Maou and Ida bis 
+Pavitra, a soma sacrifice performed at beginning of Rājasūya, 1215.
 
-464n. 
+Payasyā (same as āmikṣā), 1092n.
 
-daughter, 10650. Malatimad hava, of Bhavabhuti, 367, 
+Pedandas, repeat yajñopavītamantra in island of Bali, 284n.
 
-Manuṣya-yajña (honouring guests, 432n, 446, 5790. 
+Persecution: religious persecution in India very little, 723–724.
 
-see under 'hospitality and 'guests') Malavikagnimitra of Kalidasa, 450, 
+Peshwas, in Poona, distributed dakṣiṇā to learned men, 361; made sale of girls in marriage punishable, 506–507.
 
-749-756 ; an enemy need not be 725, 946, 978. 
+Phalgunīs, constellation of, presided over by Indra, 241.
 
-honourod as guest, 752; comes aftor Malla, (800 Jhall& ) 90. 
+Phallic, emblems, 708.
 
-offering of bali, 749; fire describod Mallinatha, 590 
+Philosophy: of Upaniṣads, inculcates One Self, 7; *summum bonum* of Indian, is mokṣa, 422.
 
-as a guest in the Rgveda, 749; food Man, born with three debts to gode 
+Piṇḍapitṛyajña, 1085–1090; all actions are done facing south-east in, 1086; balls of rice are offered to three male ancestors, 1088; *caru* (boiled rice) is cooked on dakṣiṇāgni in, 1086; disposal of piṇḍas in water or fire &c., 1090; one not an āhitāgni could offer piṇḍas in gṛhya fire, 1090; *pātras* required in, placed to north-east or north-west of dakṣiṇāgni, 1086; performed on amāvāsyā in the afternoon, 1086; procedure of, 1086–1090; views differed whether it is independent rite or only a subordinate part of darśa sacrifice, 1085–1086; views of teachers differed as to offering of piṇḍas when any ancestor out of three was living, 1088; wife to eat the middle piṇḍa, 1089.
 
-to be given to all including sages and pitss, 270. 
+Piṅgala, a caste, 88.
 
-cāndalas at time of taking opo's Manastra, & work, 713. 
+Pitāmaha, 647, 939.
 
-meal, 762; if none offered to brab Mānade-snana, 668. 
+Pitṛtarpaṇa, 692–693; the ancestors and relatives to whom water was offered in, 692.
 
-maga guest, he carries away morit. Manasvati, verses in pinda-pitr-yaj 
+Pitṛyajña, daily, 748; śrāddha, tarpaṇa and bali in baliharaṇa constitute singly or collectively, 700, 748.
 
-hopes, expectations of bouscholder, ña, 1089. 
+Planets (see grahaśānti): fuel sticks of different trees for different planets, 884; food on which brāhmaṇas are to be fed to propitiate, 884; gifts to propitiate 883; material of the images of, 726, 884; nine, 883; welfare of kings supposed to depend upon rites for, 883; worship of the images or pictures of 726.
 
-750, 753–764; motives of, 753-754; Mānava-gļhyasutrin, 84, 214, 219, 
+Plants, Mahābhārata highly eulogises plant life, 894; six kinds of, 894–895.
 
-Ox or goat cookod for a guest 222, 226, 233, 245, 256, 257, 262, 
+Plato, 139.
 
-according to Sat. Br., 750; pre 863, 275 &c. 
+Plava, a caste, 102.
 
-forence among guests goverued by Māṇavika, 91. 
+Pluta, letter shown by figure 3 placed after it, 1027n, 1051n; meaning of, 340.
 
-varṇa and learning, 749; to show Mandana, on the making of images, bonour according to one's ability, 
+Poetesses, in ancient India, 367.
 
-713. Mandapa, construction of, in maha 
+Pole star, to be seen by bride in marriage, 530, 535.
 
-Manyantaradi tithis, 396n ; ADA danas, 870m871; erection of, for 
+Pollock and Maitland, 142.
 
-dhyaya on, 395. distributing water to travellers, 
+Polyandry, 554–556; example of Draupadī, 554–555; prevailed among Nairs in Malabar, 556; prevalent even now among certain people in Kumaon and Garhwal, 556; unheard of, in Vedic literature, 554.
 
-Manyu, a caste, 102, 
+Polygamy, 550–554; allowed if first wife bears no sons, 552; common view was that a person could marry several wives if he provided maintenance and strīdhana, 552; is not very common even in modern times, 553; many wives believed to be a form of prosperity, 551; not confined to kings and nobles, 551; prohibited by some sages, except under very exceptional circumstances, 551; Vedic literature is full of references to, 550.
 
-Marathas, of Mabardstra, three Mandlik, Rao Bahob V, N., author 
+Poor Law, none in India, 4n, 755.
 
-of 'Hindu Law ', 467, 469. 
+Pope, claimed power to distribute territories among kings, 138; Bull of, 138.
 
-classes of, 382, Mandukr-kiks2, 655n. 
+Porcupine, quill of, auspicious, even in Tai. Br. 222n.
 
-Mārgava (same as Kaivarta ) 91. Mandukya-upanipad, 301n. 
+[[P1329]] Portents, images trembling and shedding tears believed to be terrible, 710.
 
-Marici, 445, 657a, 705, 769n. Mangala, sight objects, 511, 876n. 
+Prabhākara, writer on Pūrvamīmāṁsā, 349n.
 
-Mārjana, 317, 8120. Mangalasutra, now the most important Mark, Gospel of, forbids divorce, 
+Prabhākaravardhana, on whose death many of his friends, ministers and servants killed themselves, 630.
 
-ordamont which no married woman 
+Pracetas, smṛti of, 236, 278n, 584, 594n, 761n,
 
-622n. parts with, 537; not mentionod in Markandeya, Bago, believed to bo im the sutras, 537. 
+Pragātha, consists of two verses, 1190n; when called Bārhata, 1190n; when called Kākubha, 1190n.
 
-mortal, 259. Magikāra, a casto, 80. 
+Prajāpati, smṛti of, 645, 852, 939.
 
-Mārkandeya-puriṇa, 6n, 17, 61, 97, 
+Prajāpati (Creator), all offerings to, are made silently, 1004n; as a boar raised the earth, 718; became a tortoise, 718; presiding deity of human beings in case of gifts, 855; word P. [[ocourring|occurring]] in a formula is uttered inaudibly, 1051n, 1062n.
 
-· Man-lion, avatāra of Vippu, 718-719. 1050, 1140, 147, 173, 197, 217, 237, Mantra-brahmana, 220, 266, 262, 366. I 238, &c. 
+Prājāpatya, penance of, 200, 377n, 638.
 
-751. 
+Prājāpatya, form of marriage, 517, 519.
 
-882. 
+Prājāpatya (muhūrta), 600.
 
-General Index 
+Prakrama, 989n.
 
-1319 
+Prākṛta, languages, probably derived from prakṛtis, 70.
 
-Marks, of sect, branded on body 
+Prakṛtis, eighteen, 70; seven castes of antyajas are so called by Pitāmaha, 70.
 
-with heated inotal of the sbape of 
+Praṇava, syllable 'om' is so called, 301.
 
-coach, discus, 676. Marriage (see under "sagotra', 
+Prāṇāyāma, 317; three stages in, 317.
 
-sapinda', sa pravara ', 'child' and polygamy'); age of, for girls, in Rgveda, 439–440; ago of, for girls, in sūtras, 440-443; ago of, for men and women, 438–447 ; anuloma, 448-451; approved forms of, 521-524; attractiveness moro important in & bride than know ledge, 432n; auspicious charac teristics of brides are external and internal, 432; auspicious times for, 511-513; bride to be younger tban bridegroom, 434-435; bride must not be brotherless according to some smstis, 436; bride must not be of samo gotra or pravara; 436 437; brido must be of same caste, 436; bride must not be sapinda, 437; bride's mother's gotra also forbidden by some, 437; bride grooun was to seek hand of bride, 532;consequences of void marriago, 497–499; defects of girls as brides according to Nārada, 433; deser tion or a postasy of a spouso does not amount to dissolution of, 621; different Sanskrit words for, 427; force and fraud in, 538-539 ; forins of, 516-525; four or five inducing reasons for selecting a girl, 433; girl in, must be nagnikā, 440; good family placed in the forefront of qualifications for a bridegroom, 430; highly thought of throughout the ages, in India, 427; hymn in Rgveda X. 85, 526-527; im potent persons how detected according to Nārada, 431; impotent persons sometimes married, as shown by Manu, 431; indissoluble when completed by Saptapadi, 619; intercasto, history of, 50-58, 447 452; interposing a piece of cloth betwoon bride and bridegroom, 533; kanyadana in, 631; ksatriya girls 
+Praṇītā, water, 208, 984, 1022; principal purpose of, in darśapūrṇamāsa, 1023
 
-were undor no restrictions as to ago at time of, 446; list of all ritos of marriage, described in smśtis, 631 535; madhu parka was offered to bridegroom in, 542; mangalasutra bandhana in, 537; names of tho girl to be chosen in, must not be after rivers or trees or nakgatras, 432 ; mystic method of selecting & brido by means of lumps of clay from various places, 433-434 ; no vedio evidence about marriage-lese society, 427-428; not appulled oven by adultery of wife or by her super session, 620; observances for three nights after, 530-531, 535; of dvija with a sudra girl allowed by some sages but condemned by many, 448, of dvijāti girls celebrated with Vedic mantras, 197; of old mon with young girls, 439; of two sisters to samo person whon both living, 501 and n; persons wbo have power to arrange marriage and give girls away, 501-502; principal ceremonies of, 531; post puberty marriages regarded as highly sinful by some smṛtis, 445 ; pre-puberty marriages, insisted on for girls from about 200 A. D., 443; purposes of, to perform sacrifices, to procreate song and to secure pleasure, 428-429; prohibition on grounds of sameness of gotra and pravara, 478; prohibition on the ground of 'viruddhasamba udha', 469; qualification of an eligible bridegroom, 429-431; qualifications of an eligible bride, 431-433; reasons for pre-puberty marriages of girls, 443-444; restrictions on the ground of sapinda relationship in, 452 ff; rite of, according to Abvaldyana, 527-531, rites of, great divergence in from ancient timos, 527; rules for selection of brides moro elaborate than for selecting bridegroome, 431; sale of girls in, 503–507; saptapadı, 
+Prāśitra, for brahmā priest, how cut, 1064.
 
-1320 
+Praśna-Upaniṣad, 329, 422, 481.
 
+Pratiloma, 52; all pratilomas are outside wedlock, according to Kullūka, 53; castes treated like śūdras, 53; children of pratiloma marriages lower in caste than both parents, 56; entitled to perform vratas &c., 53; primary and secondary pratiloma castes, 57–58; subject to rules of morality, 53.
 
+Pratinidhi (substitute), when not allowed 684.
 
-principal rito in, 629; three parts in rites of 631; three views about childron of anuloma marriago, 55-56 ; validity of apuloma and pratilomą m. in British India, 451-452; when m. final and irrevocable, 639; with deceased wife's sistor permissible, though forbidden in England till 1907, 501; with descendants of one's pitr bandhug and mātsbandhus, 474 476; with maternal aunt's daughter 467; with maternal uncle's daughter, 458-463; with sagotra or sa pravara girl, pull and void, 437-438; with sister's daughter practised by some brāhmaṇas in Karnataka, 467; without consont of guardian for, cannot be set aside if principal ritos such 48 saptapadı have been 
+Pratipad, consists of three verses, 1190n.
 
-porformed, 503. Married Women's Property Act 
+Pratiṣṭhāmayūkha of Nīlakaṇṭha, 892.
 
-(England) of 1882, 573-574. Marshall, Sir John, 218, 718, 724. Maruts, as eators of ahuta, 824; myth 
+Pratiṣṭhā and Utsarga (*vide* under Pūrta), 889–916; dedicator to the public of a charitable object could make use of it, 893; four stages in procedure of pratiṣṭhā, 893; procedure of dedicating a well or a tank, 890–892; procedure prescribed in purāṇas preferred in medieval times, 892; proper time for, 891; punaḥpratiṣṭhā (reconsecration of images), 904–905.
 
-that they stayed in the asvattha 
+Pratyabhivāda (returning a salutation), importance of, 341–342; rules about, 339ff.
 
-troe, 825; names of, 825n. Marutta Aviksita, an Ayogava king, 
+Pratyavarohaṇa, a rite performed to signalize the giving up of the use of cots for sleeping, 829.
 
-kus: Marutvatiya sastra, in Madhyandina 
+Pratyutthāna (honouring by rising from seat), 339; one need not rise to receive a brāhmaṇa who has not studied the Veda, unless he is old, 339; rules about, 336–339.
 
-savana, 1190n. Matanga (same as cāndala), 91. Materialism, Indian, 358-359n; 
+Prauga śastra, contents of, 1185–1186.
 
-Bșhaspati as founder of, 359n. Maternal aunt's daughter, marriago 
+Pravāhaṇa Jaivali, expounded philosophy to Śvetaketu, 106, 247.
 
-witb, condemned by almost all 
+Pravara, 264, 482ff; Baudhāyana's Pravarādhyāya best on, 483; connection between pravara and *gotra* 497; conception of, interwoven with that of gotras, 482; defined by some as group of sages distinguishing the founder of one gotra from another, 486; entered into several domestic ceremonies and practices, 482–483; great confusion on, in the sūtras, 483; invocation of pravara sages of the yajamāna in darśapūrṇamāsa by hotṛ, 1049–1050; invocation of the pravara sages of the yaja[[P1330]]māna in darśapūrṇamāsa by adhvaryu, 1055; meaning of 482; of family priest employed in Vedic sacrifices for kṣatriyas and vaiśyas, 488, 493–494; of vaiśyas, 494–495; purpose of pronouncing the pravara in sacrifices, 488; rules for him who did not know his own, 495; sameness of, meaning of, 491, synonyms of, 482; system of goes back to the Ṛgveda, 486–487; two methods of mentioning pravara sages, 487–488, 1055n.
 
-writers on dharma, 467. Maternal uncle's daughter, marriage 
+Pravaramañjarī, a work on pravaras, 483, 489n.
 
-with, supportod by some on Vodic authority, 461-462; marriago with, practised among many sections of brābmaṇas in Deocan and 
+Pravara-mantra, 487, 1050.
 
-Karṇāṭaka, 462. Mathas (vide 'Saṅkardcāryas'), 906ff; 
+Pravargya, 1147–1151; an awful and mystic affair, 1149n; an earthenware vessel called Mahāvīra prepared in, 1148; an independent rite and not a modification, 1148; clay for mahāvīra how prepared, 1149; gharma, the pot of heated milk, was called samrāṭ and identified with the sun, 1148; doctrine of, was called Madhu, 1149n; hot milk in mahāvīra vessel deemed to be divine life and light, 1148; hot water alone to be used in, wherever required, 1149n; performed at least three days twice daily in somayāga, 1147; procedure of, 1148ff; śūdra or woman not to look at the rite of 1149; supposed to provide sacrificer with a new celestial body, 1147; two sets of 21 verses repeated by hotṛ when mahāvīra is being heated and cow is milked, 1150; udvāsana (discharge) of pravargya, 1150.
 
-origin of 908; a ppointment of bead of, 909; heads of, were called Mohunt, 909; heads of, quarrel among themselvo: as to jurisdic. tion over soclosiastical matters and 
+Prayāga: drowning oneself at, supposed to lead to mokṣa, 925; king Gāṅgeya obtained release with his one hundred wives near banyan tree of, 925.
 
-as to property, 948-949; mathas served & purpose different froin temples, 907; pratißtha of, 906; maṭbas probably owed their origio to the Buddbist vilāras, 907; mathas established by Samkar. carya and his pupils, 907, 948; regulation of administration of, in medieval times, 910-913; 8upple 
+Prayājas: are five offerings in darśapūrṇamāsa introductory to the principal offerings, 1057n; deity of 2nd depended on gotra, 482, 1058; deities of, according to Nirukta, 1057n; procedure of, in darśapūrṇamāsa, 1057ff.
 
-montary to temples, 909. Matthew, Gospel of, 849, 975. Matrdatta, com. on Hiranyakesi 
+Prāyaścittas: are prescribed even for the greatest sins, 387; for abandoning a blameless wife, 551; for *asat-pratigraha*, 885; for drinking *surā* or other intoxicants, 798; for sale of forbidden commodities, 128; for merely resolving to commit suicide, 924; none possible for intentionally killing a brāhmaṇa, according to Manu, 148; on undergoing, sinners were to be welcomed and restored to all privileges, 387.
 
-grhya-sutra, 219n, 268n, 304n, 440. Matrkāpūjana, 217–218. Matra (mother goddesses ) 733 ; 
+Prāyaścittatattva of Raghunandana, 881.
 
-number of, variously given, 217; worship of, 215, 217; worship of, 
+Prāyaścittaviveka, of Śūlapāṇi, 390n.
 
-at Mohenjo-daro, 218. Matronymic, names for males, 242, 
+Priests: brāhmaṇas as temple priests were looked down upon, 109; in all temples are not invariably brāhmaṇas, 109; madhuparka offered to, in a yajña, 543; sixteen required in soma sacrifices, 981n.
 
-252 Matsya, country of, 13, 328. Matsya, story of avatāra of, 718. Matsya-bandhaka, a caste, 90. Matsyapurāṇa, 6n, 17, 61, 103, 114n, 
+Professions: that had become or were becoming castes in the Vedic period, 49; in times of Ṛgveda and other Vedic works, 43–45.
 
-115n, 148, 215, 217, 3089, 324, 380, 395n; has four hundred verses on mahadīnas, 870; on gotras and 
+Promiscuity: Mahābhārata on, 427–428; no evidence for promiscuity of sexual relations in ancient Sanskrit literature, except one passage in the Mahābhārata, 427–428.
 
-pravaras, 484. Mauryas, established images from 
+Pṛṣātaka, a rite on full moon of Āśvina, 827.
 
-greed of gold, 710. Mausala-parva, 72, 553, 626, 697, 
+Pṛṣṭhya ṣaḍaha: how constituted, 1213n; distinction from Abhiplava ṣaḍaha, 1213n.
 
-923. Maxim: in conflict between smrti 
+Pṛthu, called Ādirāja (first king), 496, 1217n; story of, 496.
 
-texts, the rule accepted by the majority of smstis, is to be pre forred, 464; of atidesa, 469, 493; of faotum valet, 603; of frog's leap, 468; of umbrella-holders, 600 501; sacred text may prescribe anything, though apparently im possible, 625; purport of texts consuring anything is to enjoin the performance of the opposite, 581; texts should not be extended by analogy to cases not expressly egunerated, 469n; of cleaning the cup, explained, 589n; of same word not being taken in two son 808 in the same contoxt, 603, 
+Pūga, meaning of, 67–68.
 
-43. 
+Pūjāprakāśa, a work, 320, 713, 714, 715n, 716n, 727n, 729, 732, 733, 735n &c.
 
-General Index 
+Pulastya, 797.
 
-1921 
+Pulinda, 88; Viśvāmitra's sons were cursed to be wild tribes on the Himālayas, 88.
 
-Max Mūllor, 202n, 326n, 847, 6240, 
+[[P1331]] Pulkasa (or Paulkasa), 88–89.
 
-1119n; started theory that writing for literary purposes was unknown to Pāṇini, 347; suggested a tenta tive chronology for Vedic Litora 
+Puḷumāyi, described as Vāsiṭhīputa, 252.
 
-ture, 976. May ūraśarman, brahmana founder 
+Puṁsavana, 218–220; a saṁskāra, 196; procedure of, 218; time for, 219.
 
-of Kadamba family, 66, 123, 251. McKenzie, Dr. John, 08 Hindu 
+Punarādheya, 997–998; grounds for, 997; procedure of, 998.
 
-Ethics, 3n, 776n. Moaburoa : of area, 859n; of corn, 
+Punarbhū, 608–610; seven kinds of, 609–610.
 
-guch as kudava, prastha, adhaka &o, 786n, 8810; of weight such as 
+Punarupanayana, 392–393; occasions for, 392.
 
-krgnala, māga, 880n. Meda, an antyaja, 70, 92. Medhajanana, rite, 233; name of 
+Puṇḍras, non-Aryan tribe, 88; Viśvāmitra's sons were cursed to be, 47.
 
-verge in Rgveda, 231. Medhātithi, 3, 16, 56, 58, 601, 63n, 
+Puṇyāhavācana, 216–217; originally a simple ceremony, 216.
 
-79, 87, 88, 110n, 116, 150, 158, 205, 
+Purāṇas, 66, 121n; hold the view that there will be no kṣatriya kings after Nanda, 121n, 380.
 
-291, &c. Megasthenes: on castos, 50; on Aesh 
+*Purda* system, 596–598; none in ancient and medieval India except for ladies of high birth or when visiting royal court or public assembly hall, 598.
 
-eating in ladia, 777; on Kalanos, 928; says that Indiuns employed no slaves, 183 ; says that lodians did not drink wine except in sacri 
+Purohita, 40; ecclesiastical matters left by kings to, 363; even gods had, 40; half the soul of the king, 40, 363; importance of, to king, 40, 363; qualifications of, 363.
 
-fices, 798. Meghaduta, 724. Men, killing thomselves on the death 
+Puronuvākyā (invitatory prayer) 1059–1060.
 
-of their kings, friends &c., 630. Menander, is the yavana referred to 
+*Puroruc* verses, 1185n.
 
-by Patañjali, 384. Merudāna (vide under Parvatadana), 
+Pūrta, defined, 844; reward of pūrta works is higher than sacrifices, 890; women and śūdras were entitled to perform pūrtadharma, 889.
 
-882. Mihirakula, 723. Milk, 782-783; allowed and forbid 
+Pūru, youngest son of Yayāti and crowned king, 923.
 
-op, 782:; of kapila cow not to be used by sūdras and not even by 
+Purus, 89.
 
-brabmanas except for gods, 783, Milton, on education, 266. Mimāma, Prabhakara school of, 355. Mimamsaka, inethod of, in dealing 
+Puruṣamedha, in Tai. Br., 43.
 
-with inconvenient texta, 460; position on caste boing by birth 
+Puruṣārthas, four, 8; preference among them, 8–9.
 
-only, 52a. Mimarsa-vidyalaya of Poona, 980. Mindo mantras, 1198. Mitaksara, 3n, 10, 16, 53, 54, 56, 57, 
+Puruṣasūkta, 27, 33, 315; does not employ the word varṇa, 27; *nyāsa* with verses of, 315; repeated at time of bathing, 661–662.
 
-70, 87, 94, 105n, 431, &c. 
+Puruṣottama, commentator of Saṁnyāsanirṇaya of Vallabha, 949n.
 
-H. D. 166 
+Pūrvamīmāṁsā-sūtra (vide under Jaimini), 45, 46, 289, 367, 437, 558, 559, 839.
 
-Mitramiāra, author of Samskāra pra 
+Puṣkara, an antyaja, 89.
 
-kaba, 201n, 265. Mloccbas; as a caste, 92; could accor 
+Puṣpadha, same as āvantya, 89.
 
-ding to Bhaviṣya purane worship images of Devi and clay images, 716n; country of, dofined, 15, 383 ; ont cow's fiesh, according to Part sara, 383; incurred no blamo by Belling their childron, according to Kautilya, 608; inhabitants of countries where no system of varṇa and asrama prevails aro, 383; Jaimini holds that words had been borrowed into Sanskrit from language of, 383; known to Sata patha Brøbmana, 167; langu age of, not to be studied, 383; not punishable if they gold their children; as slaves, according to Kanṭilya, 183; persons should not visit country of m, or perform ārad dba therein, 382; purification of womon raped by, 575; touch of, on game level with that of caq. 
+Puṣyamitra: Agnimitra, son of, married a kṣatriya princess, 450; a brāhmaṇa commander-in-chief of the Mauryas, 123, 450; founded a royal dynasty, 123, 248, 978; performed Rājasūya or Aśvamedha, 978.
 
-dala, 384. Modes of Vedic recitation, three, 
+Pūtīka plant, substitute for soma 1203.
 
-11961. Mobonjo-daro : excavations at, 218; 
+Putrikā (daughter appointed as son), 435–436.
 
-phallic emblems at, 708, 736; soals excavated at, bear an undeciphor 
+Qualities, to be cultivated by all irrespective of caste, 10.
 
-od script, 348. Moksa, 422; depended on tyaga, 946; 
+Rāghavabhaṭṭa, commentator of Śāradātilaka, 900n.
 
-highest goal of man, 422; one should be intent on, after dis charging debts to gods, manes and 
+Raghunandana, 198, 201n, 294, 344, 451, 472, 634, 643; charge of manipulating Ṛg. X. 18.7 brought against him not sustainable, 634; was styled Smārtabhaṭṭācārya, 634.
 
-sages, 932; aynonyms of, 422-423. Modey-lending: at low rate of in 
+Raghuvaṁśa, 116n, 266, 296, 355, 362, 381, 521, 524, 529n, 579n, 590, 628n, 687 &c.
 
-terest allowed to brohmaṇas, 124; brahinang not to engage personal ly in, but through servants or Agents, 124; is & greater sin if ugurious than even brthmana murder, 124; usurious, not allowed 
+Raghu Vira, Dr., 1220n.
 
-to brahmanas even in distress, 124. Months : intercalary month called 
+Rahasya Malimluc, killed Vaikhānasas, 418.
 
-Samsarpa or Ashasaspati, 1178; twelvo enciont names, of, &ro Madhu, Madhara &c. 820, 11781912 
+Rāhu, and the Sun brought together in the Atharvaveda, 770.
 
+Rājadharmakaustubha, 892, 900.
 
+Rājamārtaṇḍa, 513.
 
-twolve, Associated with twelve fifteen muhurtas of day given in names of Viṣṇu, 250. 
+Rajaka (washerman), an antyaja, 70, 93; sometimes distinguished from nirṇejaka, 82; included under śūdra by Patañjali, 93; liable to pay his wife's debts, 93.
 
-Tai. Br., 645. Moral values, empbasized in Maba- | Mukerji, Dr. Radbakumud, 690. " 
+Rājanya, occurs in the Ṛgveda only in Puruṣasūkta, 31.
 
-bbārata in opposition to birth, 101; Muṇdakopanipad, 5, 322, 323, 685, highest importance attached to, 
+Raja Radhakanta Deva, 625n.
 
-9691. by dharmaśāstra, 11; standard for 
+Rājaśekhara, author of Sūktimuktāvalī, an anthology, 367; author of Kāvyamīmāṁsā, 369; author of Karpūramañjarī, 450.
 
-Muni, Indra is said in Rgveda to be judging, 7-8; U panipada lay stress 
+[[P1332]] Rājasūya, a very complex rite extending over two years, 1214; could be performed only by kṣatriyas, 153, 1214; derivation of, 1214n; procedure of, 1215–1222; relation to Vājapeya, 1214–1215; dice-play in 1219; fees in, 1221.
 
-friend of Munis, 419. on, for the socker aftor spiritual 
+Rajasvalā, conduct and rules prescribed for, 803–805.
 
-Murdhivasikta, 53; an anuloma truth, 940. 
+Rājataraṅgiṇī, 75, 82, 629, 630, 716, 863, 903, 908, 909, 927, 952.
 
-casto, 53, 91. Mother : & thousand times superior 
+Rajputs, infanticide among, 509; *jauhar* of ladies of, 629.
 
-Mustard, sood thrown into fire for to father in worth, 323; curso of, 
+Rajvade, Prof., 436n.
 
-driving away evil spirits, 235. cannot be averted, 681 ; high 
+Rajvade, Mr. V. K., 948n, 970, 971n, 973.
 
-Mutiba, Viøvāmitra's sons were oulogy of and roverence for, in 
+Rākā, Sinīvālī and Kuhū, offerings to, 1077.
 
-cursed to bo, 47. all dharmasastra works, 580-581 ; 
+Rākṣasa: form of marriage, 517, 519; Indrarāja, a Rāṣṭrakūṭa king married by r. form the daughter of a Cālukya king, 522; Pṛthvīrāja Cohan married the daughter of Jayacandra of Kanoj by rākṣasa form, 522–523.
 
-Mutrapurisotsarga, 649-651. novor to be abandoned by son, 
+Rakṣoghna mantras, 835.
 
-Muzumdar, B. O., 738. though she be patita, 580 ; put low 
+Rāma: killed Tāṭakā, 594; performed, after abandoning his wife Sītā, sacrifices with a golden image of Sītā by his side, 558, 684.
 
-Nabhāga, a king, married a vaidya in the order of guardians for a 
+Rāmaka, 94.
 
-girl and so incurred sin, according girl in marriage for certain reasons, 
+Rāmārcana-candrikā, 675.
 
-to a purāṇa, 451. 502 ; right of, to select a bride 
+Rāmāyaṇa, 87, 109, 119, 395, 445, 510n, 511, 513, 551n, 558n, 562, 578, 594, 627, 641, 720, 733, 1145n, 1238.
 
-| Nabhanedietha, son of Madu, story groom for her daugbter in pro- of, 271. ference to distant male relativos | Naciketa fire, 7670. recognized by Indian Courts, 502; Naciketas, sought to know the son's duty to servo m. even when destiny of man after death, 181. she is guilty of grave sips, 580; | Nadı, consideration of, in marriago, son not freed from debt to mother, exoopt by performing Sautrimani Nagabali (offering to propitiate Bacrifice, 580, 
+Ranade, Mr. Justice, 379n.
 
-enakos ), 824; for expiating sin of Mourning, period of, less for brāh- killing a snake and obviating 
+Raṅgāvatārin, a caste, 93.
 
-manas in ancient smrtis, 153; obstacle to securing progeny, 824. poriod of, now ton days for all, Nagas, figure frequently in the 
+Rañjaka, 94.
 
-Mababhārata, 823; names of seven, Mouse, mentioned as paśu (animal) that support the earth, 823. 
+Rāṣṭrabhṛt, mantras, 253n.
 
-of Rudra in Vaj. 8., 213. 
+Rathakāra, a caste, 94; allowed to consecrate Vedic fires, 45; held by Jaimini not to belong to the three higher varṇas, 45; gradually lost his status, 94; is the caste called Saudhanvana 45; not entitled to upanayana, according to Viśvarūpa, 46; offspring of a māhiṣya male and karaṇa female, 57; upanayana of, to be performed in the rains, 94.
 
-Nāgedabbatta, 381, 953. Myochakatika, 76, 140n, 142, 165, Naigama, meaning of, 68. 
+Rathantara sāman, 396n, 1184; verses of, 1184.
 
-217, 927. 
+Ratnadhenu, a mahādāna, 877.
 
-Naimittika, dharma, 3. Mṛtapa, 92 ; distinct from cāṇqala, Nairs, of Malabar, had polyandry 
+Ratnakaraṇḍa-śrāvakācāra of Samantabhadra 927.
 
-92, 168 ; inoluded among sudrag by among them, 558. Patañjali, 92, 168. 
+Ratnas (jewels) of king, certain functionaries as, 43, 1215n.
 
-Naivedya ( food offered to images of Mudgala-purāṇa, 725. 
+Ṛbhus: are three, Ṛbhu, Vibhvā and Vāja, 1193n; connected with third pressing of soma, 1193n; said to have been mortals, but were made immortal by Prajāpati, 1193n.
 
-gods ), distribution of, 733; what Mudra (hand and finger pogos), 320- allowed and forbidden, 733. 
+Remarriage, 608–619; allowed among śūdras and some castes by custom, 615; historic example of 615; of girl whose marriage was not consummated when husband died, allowed by Manu, 612; prohibited for centuries among brāhmaṇas and some other castes, 615; sūtras silent about, 615; the Hindu Widows Remarriage Act, 616; was not prohibited in the time of the Atharvaveda, 615; when allowed by Nārada, 611.
 
-321 ; in sandhya, 820; in worship Nakgatras : auspicious pakpatras for of Vippu, 320 ; number of, varies, marriage, 612-613; ontmorated in 320-921; practised in island of Vedic Literature from Kittika to Bali, 321; whon made, 320. 
+Reservoirs, of water, divided into four kinds, 893.
 
-Bbara pi, 2472 ; malo, :219n, 223 : Mudrār akṣaga, 266. 
+Ṛgveda, 4, 12, 25, 241, 242, 253, 254, 257, 261, 264, 268, 269, &c.; no infanticide in, 509.
 
-names derived from, important in Muhurtat called Brahma, 646; called Vodic sacrificor, 247; nanos given 
+Ṛgveda-Prātiśākhya, 326n, 1172n, 1196n.
 
-Prajapatya, 600; day divided into to people from, 246; Damos of pomo, 80 muhurtus in sat. Br. 646; equal different in Vedic times, 2472; to two audikas, 6460; names of I presiding doitie, of, in Vodio 
+Ṛgvidhāna, a work, 618, 619, 647, 715n, 729n.
 
-516. 
+Rhys Davids, 183n.
 
-153. 
+Rice, on 'Mysore and Coorg from Inscriptions', 388n.
 
-General Index 
+Risley, 72.
 
-1323 
+Rites: preliminaries, common to all, in modern times, 212; to be performed according to ritual of one's Vedic śākhā, 328; when the ritual of another śākhā may be followed, 328.
 
-Literature, 247n; twenty-eight | Nandas: after them there will be no mentioned in the Vedāngajyotiṇa, ksatriya kinge, acoording to some 
+River, invoked in Sīmantonnayana, 224–225.
 
-• 247, 
+Rivers, mentioned in Ṛgveda, 12.
 
-purāṇas, 1210 ; angored Canakys, Nala, name of, to be repeated in the 
+[[P1333]] Rivers, on marriage of cousins, 477.
 
-265. morning, 648. 
+Ṛjrāśva, story of, 507.
 
-Nandikesvare, addrossed as Dharma Nalanda, University of, 369. 
+Ṛkprātiśākhya (see Ṛgvedaprātiśākhya).
 
-in Gosabasra mabadana, 874; 48 Namakarana (808 under names'), 
+Road, public, not polluted by being trodden by Cāṇḍālas, 174; use of public, by untouchables, restricted in South India, 175.
 
-vehicle of siva, 876. 196, 234, 238-254; name given at 
+Roman Catholic Church: forbids divorce, 622; privileges of clergy in, 145–146.
 
-Nandipurdṇa, on hospitals, 885, time of birth according to some 
+Romika, a caste, 102.
 
-Nāodiśrāddha, & necessary prelimi satras, 234; several times for, 238. 
+Rope trick, 85.
 
-nary in Upanayada and other Namaskara : consisting io bowing sa inakāras, 286. 
+Rosary: number of beads in, 687; used in *japa* 687; of *rudrākṣas* for devotees of Śiva, 738.
 
-and folding one's bands, 346; dis- Napito. 85; two varieties of 85. tioguished froin abhivadana, 346; Nārada, 390, 55, 56, 59, 61, 68, 70,71,' in dorapuja, 735-736; twelve 75, 86, 92, 94, 119, 124, 128, 184, namaskdrag to the sun in modern 331 &o, ; condemne learning Veda timea, 735-736; with eight limbs, from books, 348, 349n; on defects 735, 
+Ṛṣyaśṛṅga, 291.
 
-of girls as bridos, 433; on Nāmaryatipañjaniya, bomes, in 
+Ṛta, sublime conception of, 5.
 
-guardians of a girl for marriage, Rājasnya, 1218, 
+Ṛtusaṁgamana, 195, 203; same as Niṣeka, 195.
 
-502; on kinds of slaves, 184 ; on Names (800 under "Nakpatra' and 
+Rudra: Ambikā as sister of, 213n; described as Supreme Deity in Ṛgveda, 736; mouse said to be paśu of, 213; presiding deity of Ārdrā nakṣatra, 831n; presiding deity of cows when donated, 355; sublime eulogy of, in Tai. S., 736; twelve names of, in Āśv. gṛ. 736; worshipped as supreme deity in Śūlagava, 736.
 
-the apprentice system, 365; on Namakarana '); additions like 
+Rudradāman, Junagad inscription of, 248, 384, 775.
 
-fourteen classes of impotent darman, 251 ; abhivadantya, 246n, 
+Rudradatta, com. on Āpastamba-śrauta-sūtra, 1008n, 1085n.
 
-persons, 431. 285; derived from mother's name: 
+Rudra-Gāyatrī, 737.
 
-: Nāradīya-purāṇa, 395, 4510, 928n, 242 ; derived from gotra, 247 i 9290. derived from pakpatras, 240n, 249; Naradiya-sikpā, 1170, 1173, derived from Dames of months, Nasasa msi gatbās, 353, 3540, 7010. 249-250; derived from Bages, Narasimha-purana (vide under deities or ancestors, 245 ; four or Nṛsimba-purāṇa ). more, 246n, 249; in Mahabbaya, Nardyaṇa (Vipṇu ), mantra of 25, 245; more than one givon for letters of, 320 pros perity, 240; may be same as Narayana, com. of Aśv. gr. and other father's ancestor, 245; of girls works, 211n, 219, 221, 231n, 260, how given, 250; ono man given 262, 304n, 307, 326n, 403, 404, 409n, govoral in Rgveda, 240 ; Papini's 410n &o., rules for names from nakpatras, 248; Narayana, oom, on Svetasvatara Up. rules of gļhyasutras for giving 4210 ; com. on Kalagnirudra Up., Dames to persons, 243-248; rules 674n. of Manu for n, simple, 250-251; Narietha homes and mantras, 1081 secret, given by the parents either 1 1082. at birth or on 12th day, 246; secrot, Nartaka, 85; distinguished from Nata given to persons in the Rgvoda, 
+Rudraskanda, commentator of Khādiragṛhya, 191n.
 
-by Bphaspati, 85. 240-241; short forms of, 244n; Nasik, cave inscriptions, 73, 113n, three names of same person, 01- 262, 414n. amples of 241; usually two n. given 
+Rule of the road: favoured brāhmaṇas, [[146 147|146–147]]; preference as to, 146–147.
 
-Nastika, condemned as a patita, 569; to a person in Vedic works, 242; derived by Papini, 3590; unfit to Whoso namos aro not to be taken be a witno88, 369p. oat of respect for them 334. 
+Rules: for which there are *dṛṣṭa* (seen) or easily perceptible reasons are only recommendatory, 437; for which there are no perceptible reasons are mandatory and breach makes the thing done nugatory, 437.
 
-Nastikya, condemned by Manu, 368; Nammalvār, 177. 
+Rūpanārāyaṇa, 198.
 
-history of, 358, 359n. Namaci, was killed by Indre at | Nata (dancer), 84-85; an antyaja, 
+Śabara: author of Bhāṣya on Pūrvamīmāṁsā, 17, 29n, 34n, 182, 190, 269n, 275n, 350, 357, 367n, 383n, 469n, 482, 507n, 525, 533, 557, 560, 581, 632n, 677, 714, 766, 793, 803, 866, 889, 910, 1009n, 1019, 1145n, 1183n, 1207n, 1214n, 1226n, 1241.
 
-dawo with form, 718-719. 
+Śabaras, 96; Viśvāmitra's sons were cursed to be, 47.
 
-70; distinguished from dail&pa 84. 
+Sabhāparva, 72, 74, 79, 82, 427n, 439, 598, 780, 830n &c.
 
-1324 : 
+Sabhya (fire), 679, 989n; some held that it was not to be established at all, 989n.
 
+Sacrifices: animals killed in were deemed to go to heaven, 781; divisions of, into iṣṭi, paśu, soma, 1133; offering a *samidh* or a *namaskāra* held to be equal to, even in Ṛgveda, 677; Vedic, to be performed only by him who knows the portion of Veda necessary for them, 352; Vedic, who are entitled to perform, 157; wife had only a subordinate part in, 558; wife performed certain specified acts only in, 558.
 
+Sadānīrā, river, 12.
 
-Nataggtra, composed by silalin and Nity&carapaddhati, 172, 237, 259, 
+Sadasya, 17th priest, according to some, in soma sacrifices, 981n.
 
-Anotber by Kesadva, 84, 
+Ṣaḍ-darśana-samuccaya, of Haribhadra, 359n.
 
-320, 559, 648, 6810, 729n, 730n, Native Converto Marriage Dissola- 734n. 
+Ṣaḍ-dhotṛ mantras, 1193.
 
-tion Act (of 1866), 621. 
+Sadguruśiṣya, 260.
 
-Nity&carapradipa, 672n. Nogtoos, discrimination against in Nivartana, a moasure of land, defin 
+Sādhana-mālā, 319n.
 
-America, 166. 
+Sādhāraṇa-dharma, meaning of, 3; qualities comprehended in, 11.
 
-ed, 8590. Nejamosa name of a khilasukia, 222. Niyog& (appointment of widow to Nibandha, a periodic payment, trans- raige issue), 599-607; allowed by 
+Sagotra, 478ff; relationship both wider and narrower than sapiṇḍa relationship, 499; occurs in Tāṇḍya Brāhmaṇa, 480: prohibition of marriage on the ground of, 437, 438, 497.
 
-lated as oorrody, 860n. 
+Sahyādrikhaṇḍa, 72, 73, 74, 75, 79, 88, 99, 103n.
 
-Gautama and some smitis, 699 Nicobivi, a casto, 85; probably a mis 602; condomned by Apastamba 
+Sahoḍha, caste, of, 54.
 
-reading for Licchavi, 85. 
+Śaikha, same as Āvantya, 96.
 
-and Manu, 699-60% ; breach of the Nidhana, of the nino versos of restrictions of niyoga, was held to Babippavam&na, 1170; the finale of be sinful and would invite punish 
+Śailūṣa, a caste, 96–97.
 
-Sdman, 1169; repeated thrice in ment from king, 601 ; confliot of &yabhythasinan, 1199; was not views about to whom the child of fixed in many cases, but could be niyoga belonged, 605; Maba ohanged at the desire of yajamīna, bharata is full of examples of, 1169n. 
+Sairandhrī (Draupadī), was ordered to be burnt with Kīcaka, 626.
 
-603-604; restrictions under wbiob Nigada, distinguished from yajus, piyoga was allowed, 601 ; several 
+[[P1334]] Sairindhra, 99.
 
-984; what is, 983-984. 
+Śaivas, following vaidika cult or Tantrika cult or both, 675; sects of, mentioned in Kūrmapurāṇa, 737; touch of, condemned, 169.
 
-views about, 604; emṛti texts Nilakantha, com. of Mahabbārata, about, refer to Sūdras according to 
+Śākadvīpa, 722n.
 
-70, 92, 556, 8250. 
+Śākadvīpī brāhmaṇas, 722n.
 
-some, 604; widows of kpatriyas Nilakantha, author of Samskara 
+Śākala, 714n.
 
-allowed to raiso issue from brāb mayūkba, 2010. 
+Śākalya, author of the pada text of the Ṛgveda, 348n.
 
-manas, 603-604. Nirnayana (same as Nipkramana) | Nose-ring, bogan to be worn by 
+Śakas (vide under 'yavana'), 96; Manu on, 47; inscriptions of king Damijaḍa of, 251.
 
-196. 
+Śākamedha, third *parvan* of cāturmāsyas, 1100–1105; four prayājas (omitting *barhis*) and four anuyājas, 1102; last rite in śākamedha is Traiyambaka homa, 1103–1104; *mahāhavis* of eight offerings to eight deities, 1101; mahāpitṛyajña performed on a vedi to the south of Dakṣiṇāgni, 1101–1102; many rites included in this, 1100; performed four months after Varuṇapraghāsa on full moon day of Kārtika or Mārgaśīrṣa, 1100; procedure of, 1101ff; requires two days for performance, 1100.
 
-women about 1000 A, D., 537; not Nirqayasindhu, 176, 198, 199, 249 
+Sāketa, besieged by Yavana in Patañjali's time, 384.
 
-mentioned in sūtras, smitis and 2599, 260, 277, 298n, 4460, 452n, 
+Śākhāharaṇa, in darśeṣṭi by one who had already performed somayāga, 1011–1012.
 
-oven in early digests, 537. 453n, 455n, &c. 
+Śākta worship, 739.
 
-Nșsimba purana, 395, 643, 656, 656, Nirpejaka (vide "caila-niryejuka') | 
+Śakti, son of Vasiṣṭha, 487.
 
-663, 714, 716a, 720, 729n, 730, 
+Śakuntalā, 56, 144, 369, 422, 429, 522, 563, 582, 756, 917.
 
-900 &c. Nirudhapasubındha,see Pasubandha Niyajia (see under Manusyayajña). Nirukta, 13, 260, 3in, 320, 56, 86 Nyāsa, 319-320; in Davapuja, 739 ; 
+Śākvara-vrata for brahmacārins, 371–372.
 
-107, 235, 255, 3230, 330, 357, 435, meanings of, 319; of sacred Vedic 478 &c. 
+Śālagrāma: Pūjāprakāśa says women and śūdras can worship, 715–716; stone found in Gaṇḍakī river and worshipped as a symbol of Viṣṇu, 715; Vṛddha-Hārīta says only dvijas can worship, 715; worship of, comparatively ancient, 716.
 
-verses on one's limbs, 319 ; suppos Niṣada (nee under paradava') 63,1 ed to be non-Vodic, 819; tbroo 
+Śālākya, a caste, 102.
 
-86-87; an anuloma casto, 53, 86. 
+Sale, of commodities, as an avocation for brāhmaṇas, 16–129; barter on almost same footing as, 129; commodities that could not be sold by a brāhmaṇa even in distress, 126–128.
 
-kinds of, 900. Niṣada-gtba pati, 46; could perforın | Nyayasutra, 423. 
+Śālika, same as Māgadha, 96.
 
-an iṣti to Rudra acoording to Vedic texts and sutras, 46; offered | O00818, Boven, 877. oary of Gavedbuka corn, 46; Saty&- Odra, 74; Manu's views about, 47. padba holds that he can perform Offorings, method of making, 211. Agnihotra and Darsa pūrgamiga, Officers, grados of, each lower grade 
+Śālīna, 641n; a class of householders, 642; varieties of, 642.
 
-roporting to the higher, 868; royal, Nigeka, & samskāra, 195; same as named ajña, dataka &o., 861. 
+Salmond, 574n.
 
-gerbhadhdan, 195. 
+Salutation (see 'abhivādana', 'pratyutthāna,', 'upasaṁgrahaṇa', 'namaskāra'): various modes of, 335–343; who do not deserve, 339.
 
-Oldenborg, 810, 8260. Nipkramaṇa, & samskira, 196, 256 Om: asootio should meditate on, 957; 
+Sālva, country of, 224–225n; king of, attacked Dvārakā, 225n; Yaugandhara, a division of, 225n.
 
-266; samo 48 Upuniçkramadı. eulogy ot, 801-302 ; is the root of 
+Śalyaparva, 8n, 66, 225n, 436, 444, 568, 598, 925.
 
-82. 
+Sāman (see under 'stotra'): cessation of Ṛgveda or Yajurveda study on hearing chanting of, 397; means a melody that is sung, 1183–1184; relation of ṛk and stobhas to, 1184; rules in Jaimini about, 1184–1185; seven ancient notes of and their correspondence with classical svaras, 1172–1173.
 
-46. 
+Sāmapavitra, is the mantra 'kayā naścitra', 378n.
 
-General Index 
+Samāvartana (ceremonial bath after finishing Veda study), 197, 405–415; auspicious day for, 411; brief procedure of, 415; essence is ceremonial bath, 406; procedure of, 408–410; regarded by some as a subordinate element (*aṅga*) of marriage, 405–406; some distinguish between *snāna* and samāvartana, 405; time when samāvartana takes place, 407.
 
-1325 
+Sāmaveda, 1169, 1184, 1185n, 1193n, 1195–1196; has pitṛs as its deities, 397; pūrvārcika, 1184; sung in a thousand ways and modifications, 354n; ūhagrantha, of human authorship, 1184; uttarārcika, 1184, 1185.
 
-Voda, 957; looked upon as very 1 texts enjoin marking body with sacred a8 & symbol of the Supreme the conob, wheel and other wos being, 301; to be uttered when pops of Vippu, 673. beginning Veda study everyday Pañoavattins, 528; cannot inter und at end of Veda lesson, 301, marry, 490; descendants of Jama 827. 
+Sāmavidhāna-brāhmaṇa, 1172, 1184.
 
-dagai are, 628n, 1003n; meaning Oman, J. C, 9750. 
+Samayapradīpa, a work, 258n.
 
-of, 10031, 1060, 10610 ; Vataan, Ordeal, trial by, did not ordinarily Bidas and Ārstipenas are styled, 
+Sambandhaviveka, 477n.
 
-apply to women, 596. 
+[[P1335]] Sambhārayajus, formula, 1135.
 
-490, 1003n, 
+Saṁdhyā or sandhyā 312–321; ācamana, as part of, 315–316; aghamarṣaṇa in, 317; arghya in, 318; japa of Gāyatrī and other mantras, principal in 313; manner of performing, 314; mārjana in, 317; meaning of, 312; means contemplation of Āditya and of One Intelligence, 313; prāṇāyāma in, 317; principal constituent parts of, 314–315; proper place for, 313–314; removes sins, 318–319; repetition of 24 names of Viṣṇu in 315; required to be performed twice every day or thrice according to some, 312; sages attained long life by extensive, 313; time of, in morning and evening, 313; time to be spent in, 313; upasthāna of Mitra and Varuṇa in, 315, 318; water thrown up in, drives away evil spirits according to Tai. Ār. and others, 314.
 
-Pañcavatiya, & rite in Rajasaya,1215. Pada text, of the Veda, 347; due to Pancavidha-sutra, 1169n, 1170. 
+Samidh (see under 'fuel-stick').
 
-Śakalya, 348n. 
+Sāmidhenī (kindling verses), 1048–1049; are eleven but to be raised to fifteen in darśapūrṇamāsa by repetition of first and last verses, 1048; method of reciting, 1049n.
 
-Pancāyatana, worship of, 716-717. Padmapurana, 661, 724, 771, 880. Pañcikarana, doctrine of, in Vedan. Pahlavas, 87; Madu on, 47. 
+Śamitṛ, views about, 1121–1122n.
 
-th, 961n. Paisaca : form of marriage is the Pañcīkarana, a work of Samkard 
+Saṁkara, 51; the cause of numerous castes and subcastes, 50, 59–60.
 
-basest and nost sinful of all carya, 9610. forms, 517; recogoition of paidaca Paṇdavas : five bad one wife Drau and raksasa does not mean that padi, 554; paid bighest bonour to Bmtis legalised marriage by cap Kunts, their mother, 581; supposed ture or stealth, 520, 
+Śaṁkarācārya, 32n, 61, 88, 156, 353n, 354n, 356, 366, 421n, 440n, 712n, 716, 757n &c.; established four *maṭhas* in four parts of India, 907; four pupils of, 948, 964; is said to have popularized Pañcāyatana-pūjā, 717; prohibited sale of girls in marriage, 506; succession lists of pupils of, do not agree and are probably fabricated, 949.
 
-by some to be don-Aryan, 554. Paiṭbinasi, 17, 336, 393, 456, 627, Panditrao (minister in Shivaji's 
+Śaṁkarācāryas (heads of maṭhas): claim of, to prescribe penances for lapses, to excommunicate persons and decide doubtful points of dharma, examined, 966 and 972–973.
 
-7618, 913. 
+[[Samkaravarman|Saṁkaravarman]], king of Kashmir, deprived temples of all lands donated by previous kings, 863.
 
-council): jurisdiction of, 972; Paka yajñag: are saihekāras according sent doubtful cases of dharma for 
+Sāṁkhya, 423.
 
-to Gautama, 194; seved, according decision to learned brāhmaṇas of to Gautama, 194, 819. 
+Saṁskāras (see under śūdra, upanayana, marriage): any agnate may perform for a child, except garbhādhāna, 206; brāhmaṇas to be fed in all, 212; bring out *brāhmaṇya*, 189–190; could not be performed for the impotent, 198; divided into *brāhma* and *daiva*, 193; easy expiations for non-performance of, 199–200; forty, according to Gautama, 193–194; have to be repeated on each child of a woman, 205; list of, 195–197; meaning of, 190–191; most, have fallen into oblivion, 199; number of, great divergence on, 193–194; of śūdra, to be performed without Vedic mantras, 158–159; performed on auspicious days only, 213; performed with Vedic mantras for dvijāti males, 197; performed without mantras for women even of dvijātis, 197; purify body, 192; purpose of, 191–192; remove taints, 192; sixteen, enumeration of, 194; the word does not occur in Vedic Literature. 190; upanayana, the principal, 200; which obligatory on dvijātis, 197–198.
 
-Wai, Nasik or Karad, 972, 973. Palada-karma, in Upa nayuna, 306. Paṇdu, is said to bare told Kunti to Palasula (a Marathi word), a modern resort to niyoga, 604. 
+Saṁskārakaustubha, 200, 201n, 206, 373, 392n, 415, 443n, 462, 464, 468, 469, &c.
 
-rite, 306. 
+Saṁskāramayūkha, 194, 201n, 206, 219n, 220, 292, 293n, 392n, 396n.
 
-Pondusopaka, a oaste, 87. Pallavas, of Kañcr, were of Bhara- Panini, 45n, 52, 55, 67, 71, 75, 78,83, 
+Saṁskāraprakāśa, 45n, 189n, 193n, 194, 198, 201n, 206, 220, 223, 226, 237n, 249n &c.
 
-dvajagotra, 494. 
+Saṁskāra-ratna-mālā, of Gopīnātha, 201n, 212n, 216n, 220, 237n, 249n, 256, 258, 260, 265n, 267, 287 &c.
 
-84, 91, 93, 122n, 168, 2250, 243n Pañcadası, a work on Vedānta, 391. &c.; his mother was Dakpi, 252; Pañoagavya, 773-774; 18 prāyascitta not later than at least 300 B.O., 
+Saṁskāratattva, 189n, 192, 201n, 206, 251, 272n, 284, 294, 498n.
 
-774; as purification, 773 ; ingredi- 422; was called salaturiya, 252n. epts of, 773; is called brahma- Paninsya-dikpa, 347. kurca, 774; sudras and women Pankti (row of diners): devicos for could take pañcaga vyť but with- breaking continuity of, 767; ono in out mantras, 774; Vedic verses to pankti should not take acamana be recited when preparing, 773; before others or should not get up Vosgol for 774. 
+Samudragupta, performed Aśvamedha that had gone out of vogue, 978.
 
-766-767; one should not sit in Pañoāgaividyā, not known to brāh- 8ame pankti with undeserving per 
+[[P1336]] Saṁvarga-vidyā, 247, 840.
 
-maṇas till Prayahaṇa taught it to $008, 767 ; persons of different Gautama, 106n, 
+Saṁvarta, 15, 112n, 169, 303, 326n, 443, 445, 460, 571n, 852, 878n &c.
 
-castes may ait in one if separated Pañoa janah, meaning of, 32n. 
+Saṁvartaka, a great yogin, 941n.
 
-by streaks of ashes, 767; persons Pancaman, untouchable, 168. 
+Śaṁyu Bārhaspatya, legend of, 1075n.
 
-in one pankti not to touch ono Pañoalangala, a mabadana, 875m876; another, 769; per8008 who sano 
+Śaṁyuvāka (formula), 1075.
 
-performed by Devardya II of tify pankti, 767-768; persons who Vijayanagara, 870. 
+Śaṇḍa and Amarka (or Marka), chips offered to, in morning pressing in Agniṣṭoma, 1176; purohitas of asuras, 40.
 
-defile pankti by their prosence, Pañoardtra: Kæpila, 2120 ; p. toxts 767-768; name food inust be served 
+Śāṇḍilī, explains how a *pativratā* attains heaven, 567.
 
-condemn tripundra mark, 673; ! to all in samo parkti, 768. 
+Śāṇḍilya, 764.
 
-1326 
+Śāṇḍilya, the principal authority on Agnicayana in Śat. Br., 1247.
 
+Saṅgha, meaning of, 68.
 
+Saṁgraha, a work, 299, 305n, 320, 375.
 
-Panktipāvana (danctifying company, with king in the matter of grave 
+Saṁkalpa, one of the essential elements in any gift or dedication to the public, 892.
 
-or row of dinors), 767-768. 
+Śaṁkarānanda, author of a com. on some Upaniṣads, 419n.
 
-sins, 970; number of persons re Paradas, Manu on, 47. 
+Saṁkeśvara and Karavīra: Śaṁkarācārya of, 971, 972; rarely decided disputed matters in Maratha times, 972–973.
 
-quired to constituto, 966, 968-989; Parama barisas: are either vidvat or qualifications of membors of, 968; 
+Śaṅkha, 6n, 15, 45n, 56, 78, 80, 83, 94, 95, 141n, 159, 236, 257.
 
-vividi su, 941; Dattatroya describe single person being the best of od as, 726; state of, described by ascetics and knowing the Veda Jabalopanigad, 941. 
+Śaṅkha-Likhita, dharmasūtra of, 14, 119n, 128, 134, 205, 250, 260, 356, 417n, 562, 565, 580, 664 &c.
 
-may in exceptional cales consti Paradara, smrti of, 80, 82, 85, 126, tute p. 969; to administer ponance 
+Śāṅkhyāyana Brāhmaṇa, 36n, 46, 749, 840.
 
-133, 134, 161, 189, 304, 381, 444, to brabmacārin guilty of sexual 6710, 6310, 646, 648 &o. 
+Śāṅkhyāyana-gṛhya, 85, 195, 196, 197, 202, 208, 220, 221, 233, 247n, 253, 257 &c.
 
-intercourse, 967; to proscribe Paradara, grandson of Vasietba, 487. appropriate expiation for lapses, Parkhara-Madhaviya, 2n, 62, 53, 58, 968: Was acknowledged authority 
+Śāṅkhyāyana-śrauta-sūtra, 618, 1050n, 1121n, 1134n, 1222n.
 
-59, 66, 76, 78, 81, 85, 101n, 176, for hundreds of years before Sang 189n, 2899, &o. 
+Sānnāyya: deity to whom offered, 1019; offered to Indra or Mahendra, 1012; preparation of, 1017–1018; remnants of, not to be partaken of by a non-brāhmaṇa sacrificer, 1082; views about persons who could offer sānnāyya, 1019.
 
-karbotrya in doubtful points of Paradarya, 422. 
+Saṁnyāsa (see under 'saṁnyāsin,' 'Vallabhācārya,' 'asceticism'), 930–975; allowed even immediately after brahmacarya, 930; a person cannot return to householder's life after resorting to, 424; apostate from, severely condemned, 947; begging a characteristic of, from ancient times, 421; eight śrāddhas before entering on, 932; for those who are very ill, 963; forbidden after 4400 years of Kali by Vyāsa, 953; kṣatriyas could resort to, 944; mentioned in Muṇḍakopaniṣad, 421; not meant, as some supposed, for the blind and cripple, 946–947; principal features of, 931–938; to carry three or one daṇḍa, 937; procedure of taking saṁnyāsa according to Baud., 954–957; procedure of taking saṁnyāsa according to Dharmasindhu, 958–962; to be resorted to after 70th year according to Baud. Dh. S., 418; to observe silence in, except when reciting Veda, 937; various names for one who resorts to, 417; views on question whether saṁnyāsa can be resorted to immediately after student-hood or after householder's life, 424–426; vratas of, major and minor, 956; whether he has to give up his śikhā (top-knot of hair) and sacred thread, 963–964; whether allowed to the three varṇas or only to brāhmaṇas, 942–944; whether Chāndogyopaniṣad refers to it is doubtful, 930; who were to be allowed to resort to, 947; word 'saṁnyāsa' conveys two ideas, 946; world-renouncing ideal of saṁnyāsa, given up by many heads of maṭhas in modern times, 950.
 
-dharma, 968. Paradava, 86; distinguished from Parisankhya, 780. 
+Saṁnyāsa-nirṇaya of Vallabhācārya, 949n.
 
-nigada by some, 86; son of a Parivedana (marrying before an br&bmana from sudra wife was elder brother or sister), 546-549; called, 448. 
+Saṁnyāsapaddhati of Toro Rudradeva, 965n.
 
-elder brother or sister before whom Parasikas, practice of marrying the & younger one married also in 
+Saṁnyāsin (see under 'food', 'paramahaṁsa,' 'maṭha,' 'paryaṅkaśauca,' 'yogapaṭṭa'): branding and banishment for him who [[P1337]] does not abide by rules of the order, 948; became cut off from family and lost rights to property, 951–952; clothes of, to be ochre-coloured, 935; could at one time beg food from all varṇas, 934; characteristics of, according to Jābālopaniṣad, 931; daily duties of, 964–965; five kinds of food obtained by begging, 934; four proper actions for, viz. contemplation, purity, begging and staying alone, 933; four kinds of, viz. kuṭīcaka, bahūdaka, haṁsa and paramahaṁsa, defined, 938–942; had to leave home and wife and to beg only once and from seven or a few houses only, 934; had to perform sacrifice to Prajāpati and distribute his possessions among priests and the poor, 931; his bowl and plate to be of clay, wood or a gourd, 936; militant saṁnyāsins, 951; mother and wife are supposed not to have to be born again as females, 946; new name to be given to s. by his *guru*, 961; not to remain in one place except in the rains, 947–948, 952; people professing to be saṁnyāsins began to marry and keep concubines, 952; punishment for becoming a saṁnyāsin without making proper provision for wife and sons, 932; pupil of, becomes heir, 952; resorts to yoga to purify his mind, 938; rules of mourning as to, 965; should kindle no śrauta, gṛhya or domestic fire, 933; should be celibate and unattached to all pleasures, 933; should eat only as much as is necessary to keep body and soul together, 935; should wander alone without a companion, 933; should move about avoiding all injury to creatures, 933; śūdra could not become according to smṛtis, 944; ten virtues such as truthfulness to be acquired, 938; ten orders of advaita saṁnyāsins, 948; takes vow of ahiṁsā, 955; time when one became a [[|s.,]] 932; to repeat the word 'Nārāyaṇa' when some one bows [[io|to]] him, 965; vairāgya should be generated, 938; was not beyond rules of morality, 940–942; was to own and possess nothing except his clothes, jar &c. 935; was to subsist on food obtained by begging, 934; what is tridaṇḍin, 937; women rarely took to mode of life of, 942.
 
-motber among, 505. 
+Saṁnyāsopaniṣad, mentions six kinds of saṁnyāsins, 942.
 
-curred sin, 647; enumerated Paraskara-gļhya-sūtra, 196, 197, 203, among upapatakas by Vipnu Dh. 8, 
+Śantanu, Devāpi was purohita of, in Ṛgveda, 31; was a Kaurava king according to Nirukta, 31.
 
-208, 219, 220, 234, 235, 251, 255, 648; one kindling sacred fires or 263, 268, 275, 278, 282n, 300, 441, performing a Vedic sacrifico be 448, 532, 533 &c. 
+Śantātīya, hymn in Ṛgveda (VII. 35), 833n.
 
-fore his elder brother was also Paraskara-gphy&-paribieta, 891. condemned, 547; priyancitta for, Paradurdma, extirpatod kpatriyao, 547 ; goverely condemned 48 a 
+Śānti, rites for birth on inauspicious times, 237.
 
-98, 380, 381n, 604. 
+Śāntiparva, 2n, 6, 7n, 8n, 10, 41, 42, 51n, 70, 71, 81, 101, 128, 155, 324 &c.
 
-great sin in vedic and sutra litera Parents (see "father'): absoluto 
+Sapiṇḍa relationship, 452–478: about the adopted son, 470; according to Dāyabhāga, 452, 472–477; according to Mitākṣarā, 452–455; how far applicable in the case of girls from one's step-mother's original family, 468–469; narrowed down if three women intervene, 476; narrowing of, in marriage, permitted by smṛtis and digests on the ground of usage only, 464; required in three branches of dharmaśāstra, 452; restricted to seven degrees on father's side, and five on mother's side in most works, 454–455; two schools of, 452; usages vary, particularly as to cognates, 458ff; wider than sagotra relationship in one direction and narrower in another, 499.
 
-ture, 546, 549; when not sinful or power of, to give, sell or abandon 
+Sapiṇḍīkaraṇa, a śrāddha, 473.
 
-condemned, 548. their abild, 507. 
+Sāpiṇḍyadīpikā, a work, 464.
 
-Pariyatra, mountain, 13. Pargiter, 862. 
+Saptahotṛ formula, 1070n, 1135, 1195.
 
-Partha, homag in Rajasūya, 1217. Paribhasa-prakuda, 140, 17, 18a. Parupṇi, river in Rg, 12. Paridbi ( encircling woodstick): dem 
+[[P1338]] Saptapadī, principal rite in marriage, 534.
 
-Parvana homa in Darde-pūrṇamika, scribed, 10140; placing three 
+Saptasāgaraka, a mahādāna, 877.
 
-1081. paridhis round Thavanly& with Parvana-stbalīpāka, 819-820; one of mantras, 1044-1045. 
+Śarabhaṅga, entered fire, 927.
 
-the seven pokayajdas, 819. Pārijala, a work, 267, 
+Śāradātilaka, on mudrās, 321; on prāṇapratiṣṭhā of images, 900n.
 
-Parvatadinas, 882; are gifts of Pāriplava, narrative of, in Rajasdye, heaps of corn, salt, jaggery, 
+Sārasvata, brāhmaṇas of Punjab, have 470 sub-divisions, 103n.
 
-1231-1233. 
+Sārasvata-snāna, 667.
 
-sesame &o., 882 ; ten kinds or Paripad (assembly of learned mon), twelve, 882. - 
+Sarasvatī, river, 12; disappearance of, 13; reasons for disappearance of, 14n.
 
-806 under dieta'; digoussed intri- Paryanka-sauca, 961-962; purifica cate questions of conduct in times tion of sampyāsin by, 961-62. of Tai. Up. 266; daty of, to declare Pasnbandha (immolation of animal appropriate expiations, 970; is in sacrifice ), 1109–1131; (800 not constituted by thousands of under yupa, vedi, Āpri); cheva ignorant people in doubtfal mat niya is the firo on the aābbi of the tors of dharms, 069; must be con- uttararodi, 1113; animal is meant Atitutod of diptus, 971; must work | for Indra, Agai or Sarya or Praj.. 
+Sarasvatī, goddess, described as all white by Daṇḍin, 726.
 
-General Index 
+Sarasvatīvilāsa, 70.
 
-1327 
+Śarayū, mentioned in Ṛgveda, 12.
 
-pati, 1117; animal sacrifice in three pradanas in pasabandha, SUBA-yaga is called Saumika pasu, 1126; verses from Aprr hymns 1109; animal sacrifice performed used for prayājas, 1118 and a; independently and also as an anga views differ as to the limbs of the of soma sacrifices, 1109; apinnal victim that are cut off for being 
+Sarkar, Golap Chandra, 453n, 915n.
 
-(bo-goat ) to bo bathed and touch- used as avadanas, 1126. od with kuda blades and plakṣa Pasupatas, condemn Urdbva-pundre branoh, 1116 ; animal's right fore- mark, 673; refutation of dootrines Jeg and right horn to be bound of, in Vedantasutra, 736; touch of, with a girdle of two strande, 1116- condemnod, 169, 665. 1117; encircling yūpa with a girdle Pataliputra (modorn Patna): sastra 
+Sarkar, Dr. S. C., 321.
 
-Casana ), 1115; havia is offerod to kāras like Panini were examined Manote, 1128 ; heart of victim is at, 369. roasted on samitra ire with a pike, Patañjali (see under Mabibhagya ), 1127 ; hotṛ recites tho Adbrigup- 78, 14, 71, 72, 83, 1220, 168, raisa before victim is killed, 1121; 1 736ff &c. bow animal is killed, 1122 ; in- | Patornal aunt's daugbter, marriage depondent animal sacrifice is to be with, condemned by most writers performed every six months or on dbarma, 467. once a year, 1109; inserting svaru Patitas&vitrika (those whoso upa in the coils of the girdle of the nayana is not porformed and who yūpa, 1115 ; limbs of paśu cut off had no instruction in Gayatri for purodada, 1126-1127 ; limbs of mantra ), 376-379; being , is only pasu except heart are cooked in 20 upa pātaka, 378 ; consequence an ukba, 1127 ; making of yūpas of being a, 376-377; for several 1110-1112; oocupies two days, generations, 378-379; various 1112 ; offering of prayājas in prāyasoittas and modes for re 1117–1119; omentum of pasu is olaiming, 377. offered in xhavaplya, 1125 ; plant- | Pativrata (chaste wife ), 665-568; ing of yūpa in a pit on the borders approved conduot for, 565, 667; of Vedi, 1114; preparation of Vedi hyperbolical descriptions of tho ip, 1112; Bacrifioer'wife washes 
+Sarpabali (offerings to serpents), 821–824.
 
-power of, 567ff. with water from a jar several Patal, who is a, 558. limbs of the animal, 1128 ; Sāmitra Patnisanuyajas, are four offerings to fire astablished to north of cat- Soma, Tvasti, wives of gods and vala pit, 1120; &\#mitra fire employ. Agni Gọba pati, 1076n ; procedure od for roasting fosh of victim, of, 1076-1077. 1120n; six priests required in Patria potestas, 607. (ipoluding mạitr&varuṇa ), 1109; Paul, Et., 10, 438n, 5620. staff handed over to maitr&varuṇa 
+Sarparājñī mantras, 994n.
 
-Paulkasa, 44; a filthy caste, acoorde who stands to south of botr'a seat ing to Vaj. S., 44. resting staff on vedi and utters Paqndarika, sacrifice in which tho directions to hotṛ to repeat yajy8s 
+Sarvadarśanasaṁgraha, 359n.
 
-dakṣiṇ& wag & thousand borsos, 1110; tail of victim employed as 
+Sarvajña-Nārāyaṇa, com. of Manu, 63n, 390n, 426, 779n, 780n, 795.
 
-889. offering in Pato Isamydja, 1127, Paugdrakas, Manu's view about, 47; 1130 ; upayāja offerings of ontrails samo as Papdrokas, 89. of the victim after the eleven Pauptika, 102. anuykj& offoringe, 1129-1130; Pavamini, verdes, purify & man, yapā, purodada and havio are the 3179, 378n, 686. 
+Sarvasvāra, a [[oneday|one-day]] soma sacrifice, in which the sacrificer committed suicide by entering fire, 1213n.
 
-1328 
+Sarvauṣadhi, ten herbs are so called, 874n.
 
+Śastras, belong to and follow *stotras*, 1181; distinction between *stotras* and s. 1181; elements connected with, 1181; śastra called Prauga, 1185; twelve, in Agniṣṭoma, 1181–1182.
 
+Śatapatha Brāhmaṇa, 5, 12, 35, 37, 39, 40, 105, 229, 268, 270n, 271n.
 
-Pavitra (loop or ring), 211n, 1016, | Planets ( seo grabadanti): fuel stioks 
+Śatarudriya, texts purify a man, 686.
 
-10210; how made, 657; of darbhas of different trees for different to be worn on ring fioger in planets, 884 ; food on which religious rites, 657. 
+Śātātapa, 172, 174n, 175, 302, 459, 471, 497n, 664, 715, 752, 852 &c.
 
-brahmaṇas are to be fed to propi Pavitra, a soma sacrifice performed tiato, 884; gifts to propitiate 883 ; 
+Satavalekara, Pandit, 1171.
 
-at beginning of RojasDya, 1215. material of the images of, 726, 884; Payasya (samo ag imikpæ ), 10921. 1 nine, 883; welfare of kings sopa Podandas, repeat yajñop&vitamantra posed to depend upon rites for, 
+Satī (self-immolation of widows), 624–636; duty to become satī common to all women from brāhmaṇa to cāṇḍāla according to Mit. 631; in epigraphic records, 629; no dharmasūtra except Viṣṇu's refers to, 626; more prevalent in Bengal than elsewhere, 635–636; no Vedic passage nor sūtra passage about widow burning, 625; number of *satīs* larger in Bengal on account of the rights over property granted to women, 635; penance for giving up at the last moment the resolve to become *satī*, 633; practice of, forbidden by law in India from 1829, 624; practice of, originally confined to kings and nobles, 627; procedure of, 633–635; restrictions against all widows being *satī*, 633; rewards promised for, 631–632; some texts forbid self-immolation of brāhmaṇa widows, 627; was not a practice imposed consciously by men on unwilling women, 630; writers of medieval India opposed to practice, 631–632.
 
-in island of Bali, 2840. 
+Sattra: sacrifice could be performed only by brāhmaṇas, except those of Bhṛgu, Śaunaka and Vasiṣṭha gotras, 153, 482; general rules about, 1241–1242; observances for performers of, 1243; sacrifice lasted from 12 days to a year or more, 1239; subdivisions of, 1239–40.
 
-883; worsbip of the images or Persecution: religious persecution in piotures of 726. 
+Ṣaṭ-triṁśan-mata, a work, 169, 665n.
 
-India very little, 723-724. 
+Satyabhāmā, queen of Kṛṣṇa, went to a forest on Kṛṣṇa's death, 923.
 
-Planta, Mahabbārata highly eulo Peshwas, in Poona, distributed gisos plent life, 894 ; six kinds 
+Sātvata, same as Kārūṣa, 97.
 
-dakping to learned men, 361; made of, 894-895. sale of girls in marriage puni- Plato, 139 shable, 506-507. 
+Satyakāma Jābāla, 247, 273, 285–286, 307, 322, 329, 349n, 406.
 
-Plava, a caste, 102. Pbalgunis, constellation of, presided Pluta, letter shown by figure 3 placed 
+Satyāṣāḍha, śrautasūtra of, 46, 483, 684, 994n, 998n, 1005n, 1009n, 1015n, 1019, 1020n &c.
 
-ovor by Indra, 241. 
+Śauca (cleansing): differs in degree according to āśrama, 650; night time requires half of that in day time, 650; of two kinds, external and internal, 651; sub-divisions of, 651.
 
-after it, 1027a, 1051n ; meaning Phallic, emblems, 708. 
+Saudhanvana, vide Rathakāra, 100.
 
-of, 340. Philosophy: of Upanigads, inculcates Porteggen, in anciont India, 367. 
+Śaunaka, 199, 305n, 306, 401, 764.
 
-One Self, 7; summum bonum of Pole star, to be soon by bride in Indian, is mokra, 422. 
+Śaunaka, tarpaṇa offered to, 691.
 
-marriage, 530, 635. Piṇdapitryajāa, 1085-1090; all Pollock and Maitland, 142. 
+Śaunaka, author of Ṛk-Prātiśākhya, 691; teacher of Āśvalāyana, 691.
 
-actions are done facing south-east Polyandry, 554–556 ; example of ip, 1086; balla of rice are offered to Draupadi, 564-555; prevailed three male ancostors, 1088; caru among Nairs in Malabar, 556; pre (boiled rice) is cooked on dakpia valent even now among certain nāgni in, 1086; disposal of pindas people in Kumaon and Garhwal, in water or firo &o., 1090 ; one not 556; unbeard of, in Vedic liters an \#hitagni could offor pipdas in ture, 554. grbya fire, 1090; patras required in, Polygamy, 660-564; allowed if first placed to porth-east or north-west wife bears DO 8008, 552; common of dakpinagni, 1086; performed on view was that a person could amāvasya in the afternoon, 1086; marry several wives if he provided procedure of, 1086-1090; views maintenance and stridbana, 552; differed whether it is independent is not very common aven in rito or only a subordinate part of modern timos, 653; many wives darsa sacrifice, 1085-1086; views believed to be a form of prosperity, of togobers differed as to offoring 551 ; not confined to kings and of pipdas whon any ancestor out noblos, 651; probibited by somo of three was living, 1088; wife to sagos, except under very excep eat the middlo pipda, 1089 
+[[P1339]] Śaunaka-kārikā, a work, 221, 511, 537.
 
-tional circumstances, 651; Vodio Pingala, a casta, 88. 
+Śauṇḍika, 97.
 
-literature is full of roferoncos to, Pitamaha, 647, 939. 
+Śaunika (same as Sūnika), 99.
 
-550. Pitptarpana, 692-693; the snoestors Poor Law, 2009 in India, 4n, 765. 
+Sautrāmaṇī: performed for one who had drunk too much soma or at the end of Rājasūya or cayana, 793, 1227; preparation of *surā* in, 1225–26; procedure of, 1224–1228; sacrifice frees a son from debt due to mother, 580; sacrifice in which *surā* was offered and remnants of the latter were drunk by a brāhmaṇa hired for the purpose, 793, 1226; two kinds of, 1224.
 
-and rolatives to whom water was Popo, claimed power to distributo offered in, 692. 
+Sauvīra, country of, 14.
 
-territories among kings, 138; Ball Pitsyajõe, daily,748; draddba, tarpaga of, 138. 
+Sāvitrī, Drupadā, 661.
 
-and bali in balibarana constituto Porcupino, quill of, suspicious, even singly or collectively, 700, 748. in Tai. Br. 222n. 
+Sāvitrī, ideal of womanly virtue in India, 568; story of, who brought back dead husband from Yama, 567.
 
-General Inder 
+Sāvitrī, mantra, 283; method of teaching, 283, 300–301; some prescribed different verses according to varṇa, 302; teaching of, postponed for some time after upanayana in ancient days, 300.
 
-1329 
+Sāvitrīpraveśa, in the procedure of saṁnyāsa, 954n.
 
-Portents, images trembling and daty pratiloma castes, 57-58; 
+Sāyaṇa, 25n, 288n, 386, 418n, 588, 617, 837n, 988n, 990n, 991n, 993n, 1145n, 1250n.
 
-shedding tears belioved to be ter subject to rules of morality, 63. rible, 710. 
+Scheduled Castes Order of 1936, 69, 177.
 
-Pratipidbi (substitute), when not Prabhakara, writer on Purva- allowed 684. 
+Schweitzer, Dr. A., 723.
 
-mimamsa, 349n. 
+Sectarians, advice to, given by Smṛtimuktāphala that God is one, 675.
 
-Pratipad, consists of three verses, Prabbakaravard bana, on whoso death 11900. 
+Self, one, immanent in all, 7.
 
-many of his friends, ministers and Pratiethdına yukha of Nilakantha, 
+Self-defence, right of, against one guilty of certain crimes, 148–149.
 
-servants killed themselves, 630. 892. Pracetas, smsti of, 236, 278n, 684, Pratietha and Utsarga (vide under 
+Senart, 447; on characteristics of caste, 23.
 
-5940, 7610, 
+Serpents, born of Kadrū from Kaśyapa, 830n; names of, in Atharvaveda, 823; said to be the progeny of Kaśyapa, a Prajāpati, 830n; worship of, very ancient, 823.
 
-Purta ), 889-916; dedicator to the Pragatha, consista of two verses, publio of a charitable object could 
+Shadow, of whom polluting, 173; of whom should not be crossed, 173.
 
-1190p; when called Barbata, 1190n; make use of it, 893; four stages 
+Sham Sastry, Dr., 1245.
 
-when called Kākubha, 11900, la proceduro of pratietha, 893; Prajā pati, smrti of, 645, 852, 939. procedure of dedicating a well or Prajapati (Creator), all offerings to, 
+Shaving, prescribed on seven occasions, 591.
 
-a tank, 890-892; procedure pre are made silently, 10040; 48 m 
+Sherring, 103n, 104, 722n; condemnation of caste system by, 21; exaggerates by mistake number of castes, 24; thought that caste system was invented by brāhmaṇas, 21n.
 
-scribed in purāṇas preferred in boar raised the earth, 718; became 
+Shivaji (see under 'Panditrao'); claimed Rajput lineage, 380n; established a council of eight ministers, 972; founder of Maratha Empire, 379, 972, 975; had his upanayana performed by Gāgābhaṭṭa at 45, 379n.
 
-medieval times, 892 ; proper time & tortoise, 718; presiding deity of 
+Siddhāntas, gifts of works called, 883.
 
-for, 891; punaḥpratistha (recon human beings in caso of gifts, 
+Śikhā: one cutting off through hate or foolishness had to undergo expiation, 264–265; religious acts done without, become useless, 264; rules about keeping locks of hair according to gotra, 264.
 
-gecration of imagos ), 904-905. 855; word P.ocourring in a formula 
+Śilālin, author of a Naṭasūtra, 84.
 
-Pratyabbivada (returning a saluta is uttered inaudibly, 1051n, 10620. tion), importance of, 341-342; 
+Śilappadikāram, an ancient Tamil work, 719, 870.
 
-rules about, 339ff. Prajapatya, penance of, 200, 377n, 
+Sīmantapūjana, a ceremony preliminary to marriage, 535.
 
-638. 
+Sīmantonnayana, 196, 222–226; a saṁskāra of the woman, 226; great divergence among gṛhya-sūtras about, 223–224; rite mainly of a social and festival nature, 223; songs in, 224–225; time for, 223.
 
-Pratyavarohana, a rite performed Prajapatya, form of marriage, 517, 
+Simon Commission Report, 179.
 
-to signalize the giving up of the 519. 
+Simon, Dr., 1169n.
 
-use of cots for sleeping, 829. Prajapatya (muburta ), 600. 
+Sindhu, 12; seven, in Ṛg., 12.
 
-Pratyutthana (honouring by rising Prakrama, 989n. 
+Sindolika, a caste, 103.
 
-from seat), 339;000 poed not rise 
+Sins, five grave, condemned by Chān. Up., 5, 147–148, 794; gravest, could be expiated, 620; supposed to be expiated by gifts, particularly of land, gold and cows, 859.
 
-to receive a brahmana who has not Prakýta, languages, probably deriv. 
+Śiṣṭas, qualifications of, 971–972.
 
-ed froin praktis, 70. 
+Śiśupālavadha, 646n, 726.
 
-studied the Voda, unless he is old, Prakstis, eighteon, 70; Bovon castes 
+[[P1340]] Sītā, ideal of Indian women, 568; name of, holy, 648; svayaṁvara of, 523.
 
-339; rules about, 336-339, of antyajas are so called by Pita 
+Sītāyajña (sacrifice to ploughed land), 820–821.
 
-Prauge bastre, contents of, 1185– 
+Śiva (see under Rudra): as half male and half female, 725; as yogin at Mohenjo-daro, 724; bull as conveyance of, 725; flowers commended in worship of, 732–733; fourteenth of dark half, sacred to, 738; images of, referred to by Patañjali, 710; Mahābhārata teaches identity of Viṣṇu and Śiva, 725; mantras in worship of, 737–738; one thousand names of, 725; procedure of worship of, 728–729; wearing of rudrākṣa rosary by devotees of, 738; with five aspects or mouths, 725; worship of, most ancient, 724; worshipped in the form of liṅga or image, 737.
 
-1186. maba, 70. Pranava, syllable 'om' is so called, 
+Śiva-bhāgavata (devotee of Śiva) mentioned by Patañjali, 736.
 
-Pravāhana Jaivali, expounded philo 
+Skandapurāṇa, 112n, 117, 484, 565, 568, 585, 715n, 854n.
 
-sopby to Dvotaketu, 106, 247. 301. 
+Slaves: brāhmaṇa cannot be made slave of even a brāhmaṇa, 186; debt contracted by s. when binding on master, 187; extent of corporal punishment allowed by Manu, 182; gift of, entailed expiation, 181; gifts of, very frequent in the Mahābhārata, 182; how became free, 185; kinds of, 183–184; master to treat humanely, 182; punishment for selling relatives and children as, in Kauṭilya, 184; result of master having intercourse with female, 186.
 
-Pravara, 264, 482ff; Baudhiyana's Prindyama, 317; three stages in, 317. 
+Slavery, 180–187; abolished in British Dominions in 1833, 180; an institution in all ancient countries, 180; in England and America, 180; in the Ṛgveda and Vedic literature 181–182; Kauṭilya on, 183–184.
 
-Pravaradhyāya best on, 483 ; con Pranita, water, 208, 984, 1022; 
+Sleep, 800–801; five persons famed as having very sound, 801; rules about bed for 800; who was not to sleep on a cot, 801.
 
-Dection between pravure and gotra principal purpose of, in darsa 
+Smoking, of medicinal herbs after meals in ancient times, 799.
 
-497; conception of, interwovon pūr Damāsa, 1023 
+Smṛticandrikā, 3n, 6n, 18n, 66n, 76, 110, 111, 193n, 194, 197n, 219, 254, 277n &c.
 
-with that of gotras, 482; defined Prasitra, for brahmā priest, how cut, 
+Smṛtikaumudī, 72.
 
-by some as group of sages distin. 1064. 
+Smṛtimuktāphala, 197n, 199n, 319, 320, 438n, 443n, 462, 501, 522n, 585, 631n, 643, 647n, 669n &c.
 
-guisbing the founder of opo gotra Pragna-Upanisad, 329, 422, 481. from another, 486; entorod into Pratiloma, 52; all pratilomus are poveral domostio coromonies and 
+Smṛtis, emphasize that the first duty of a dvijāti is to study the Veda, 356; object of composition of, a practical one, 51; opposed to śruti to be discarded, 351; postulate *saṁkara* as origin of numerous castes, 51; propositions which all or most assume, 51–52; rule in case of conflict of smṛtis, 464; rules in, based on śruti according to Par. M., 697; Śabara makes fun of, as to long *brahmacarya*, 351.
 
-outside wedlock, according to practicos, 482-483; great con Kulluka, 63; castos treated liko fusion on, in tbo sutras, 483; kudras, 53; obildren of pratiloms invocation of prayara sages of the marriages lowor in odsto tbsn both yajam.na in darda parpamāsa by paronts, 56; entitled to perform hot?, 1049-1060; invocation of Yratas &o., 53; primary and 1000n- | the prayers sages of the yaja. 
+Smṛtitattva, extensive digest, by Raghunandana, 474.
 
-E. D. 167 
+Smṛtyartha-sāgara, of Chalāri, 674; supports branding of body with marks of Viṣṇu's weapons, 674.
 
-1330 
+Smṛtyarthasāra, 53, 57, 175, 188, 194n, 199, 221, 741, 743, 744 &c.
 
+Snāna (bath), 658–668; brief procedure of, 663–664; clay to be employed for cleaning the body, 664; every day bath with cold water, 660; method of bath for one who is ill or for a woman who is ill while in menstrual period, 667; mid-day bath, ingredients accompanying, 659; no bath with oil on certain days, 666; not allowed at night, except on eclipses, āśauca, vrata etc., 659; once everyday is obligatory on all, 658; of rivers (not directly going to sea) to be avoided in rains, 660–661; procedure of, 661–663; rules at bath, such as not being naked &c., 664; ten consequences of, 664; thrice for yati, 658; touch [[P1341]] of certain persons or after doing certain acts entailed a bath, 669; twice for brāhmaṇa householder according to some, 658; various kinds of, 658, 664–667; with āmalaka fruit for prosperity, 666; with water from another's well to be taken under certain restrictions for fear of partaking of his sin, 660.
 
+Snāna (see under samāvartana) same as samāvartana according to some, 197.
 
-881. 
+Snātaka, distinguished from brahmacārin, 406; not to address his teacher by name, 334; rules of conduct for, 412–415; three kinds of, 407; was offered madhuparka when he came as a guest, 542.
 
-mina in darda purgamasa by adh- Nirukta, 1067n; procedure of, in 
+Social service, meaning of, 4n.
 
-Varyu, 1055; meaning of 482; of dardapūrṣamada, 1057ff, family priest employed in Vedic Prayadoittas: are prescribed even for sacrifices for kpatriyas and vai“ the greatest sins, 387; for aban Syas, 488, 493-494 ; of vaidyas, doning & blamelesa wifo, 661; for 494-495; purpose of pronouncing asat-pratigraha, 885; for drinking the pravara in sacrifices, 488; rules sura or other intoxicants, 798; for for him who did not know his own, sale of forbidden commodities, 128; 495; samenoss of, meaning of,491. for merely resolving to commit synonyms of, 482; system of suicide, 924; none possible for goes back to the Rgveda, 486-487 intentionally killing a brahmana, two methods of mentioning pravara According to Manu, 148; on under. Bages, 487-488, 1055n, 
+Ṣoḍaśa-stoma, 385–386; frees vrātyas from sin, 386.
 
-going, ginners were to be welcom Pravarama õjarl, & work on pravarat, ed and restored to all privileges, 
+Ṣoḍaśin, a form of soma sacrifice, 1204–1205.
 
-483, 489n. 
+Soma, presiding deity of clothes in gifts, 855.
 
-387, Pravara-mantra, 487, 1060. 
+Soma: animals offered in principal soma sacrifice, 1174; became unobtainable in the days of Brāhmaṇas, 1202; description of cow with which soma was to be purchased, 1142; dialogue between adhvaryu and vendor of, 1143; food of brāhmaṇas and not of kṣatriyas, 29; goat as a present when cart of soma brought to yajña pavilion, 1146; habitation of, 1202; is said to have married Sūryā, 526; king of brāhmaṇas, 139; not drinking for three generations entailed expiation, 108n; no question of being ucchiṣṭa arises when vessels are filled with soma, 1177n; not to be drunk by kṣatriyas, 1179; relation of soma plant to moon, 1202; show of force in taking soma from the vendor of soma, 1143; subrahmaṇya priest drives the cart of soma with two palāśa branches, 1144; subrahmaṇyā litany 1144n and 1145; substitutes for, 1202–1203; things offered in exchange for, 1143n.
 
-Prayasoittatattva of Raghunandana, Pravargya, 1147-1101; an awful and mystic affair, 11490; an earthen 
+Soma sacrifice: classified into *ekāha*, *ahīna* and *sattra*, 1133; seven forms of, 194, 1133, 1204; speculative theories about origin of, 1202.
 
-Prøyadoittaviveka, of śula pani,390n. ware vessel called Mahavira prepar. 
+Son, born of marriage in approved form supposed to be endowed with virtues, 524; born of the different approved forms purified different number of ancestors according to smṛtis, 524; bought, Śunaḥśepa being an example, 507; called apaviddha, 507; Manu says that wealth acquired by son belongs to the father, 507; one who has no son does not reach heavenly worlds, according to Mahābhārata, 799; saves father from *put* hell, 561; several sons desirable so that at least one may go to Gayā, 561; was supposed to free father from debt to ancestors, to secure immortality and heaven, 560–561.
 
-Priests: brahmapu8 19 temple priests ed i0,1148; an independent rite and 
+Sopāka, a low caste, 100.
 
-wore looked down upon, 109; in all not a modification, 1148; clay for 
+Soṣyantīkarma, a rite for a woman about to be delivered, 196, 227–228.
 
-temples aro not invariably brth mabavir. bow prepared, 1149; 
+Soul: eight qualities of, 6; *dayā*, at the top of all qualities of, 6n; highest value attached to moral qualities of, 7; survival of, after death, denied by some, 359n; transmigration of, in the Ṛgveda, 717–718.
 
-maṇas, 109; madbupacka offered gharma, the pot of heated milk, was 
+Special Marriage Act of 1872, 451, 621; forbids marriages between persons descended from a common ancestor within certain degrees, 465–466, 499; makes Indian Divorce Act applicable, 621.
 
-to, in & yajña, 643 ; sixteen re called sa mat and identified with 
+Spengler, 138.
 
-quired in some sacrifices, 981a. the sun, 1148; doctrine of, was 
+Sphya (wooden sword), 985; used in sweeping Vedi 1035, 1036.
 
-Profossions : that had becomo or 'called Madbu, 11490; bot milk in 
+Śrāddha, flesh offered to pitṛs in, 780.
 
-were becoming castes in the Vedic mahavira veksel deemed to be 
+Śrāmaṇaka, fire so called, 919n; [[is|in]] Vaikhānasa śāstra, 917.
 
-period, 49; in times of Rgveda and divine life and light, 1148 ; bot 
+[[P1342]] Śrauta (Vedic) sacrifices, 976ff; deep study of, necessary for properly understanding Vedic Literature, for chronology, 976.
 
-other Vodio works, 43-45. water alone to be used in, wherever 
+Śrautapadārtha-nirvacana, 1015n.
 
-Promiscuity: Mahabharata on, 427 required, 1149n; performed at 
+Śrauta-sūtras: contain detailed and accurate descriptions of Vedic sacrifices, 980; general rules about sacrifices in, 982–986.
 
-428; no evidence for promiscuity least three days twice daily in 
+Śrāvaṇī (see under sarpa-bali) 821.
 
-of sexual relations in ancient Bomayaga, 1147; procedure of, 
+Śreṇi, meaning of, 67–68.
 
-Sanskrit literaturo, except ono 1148ff ; sudra or woman not to look 
+Śrīkara, commentator of Vedāntasūtra, 946; says that *nyāsa* (abandonment of worldly desires) is possible for women and śūdras, though not saṁnyāsa, 946.
 
-passage in the Mahabharata, 427 at the rito of 1149; supposed to 
+Śrīkṛṣṇa, commentator of Dāyabhāga, 474.
 
-428. provide sacrificer with a pow cele 
+Śrīsūkta, 898.
 
-Prpataka, a rite on full moon of stial body, 1147; two sets of 21 
+Śṛṅgerī, maṭha at, established by Śaṁkarācārya, 907.
 
-Abvina, 827. verses repeated by botr when 
+Śrīvaiṣṇavas, 593.
 
-Prothya padaba: how constituted, mabayira is being heated and cow 
+Sruc, description of, 984–985; three kinds of viz. juhū, upabhṛt and dhruvā, 985; filling the three sruc with clarified butter to the accompaniment of mantras, 1042–1043; cleansing the three sruc with tips of kuśas, 1039; yajamāna addresses mantras to the three sruc when he places juhū on prastara and the others near it, 1045.
 
-1213n; distinotion from Abhiplava i& milkod, 1150; udrākana (dis 
+Sruva, description of, 984; ladle to be used in all gṛhya rites, 208.
 
-padaha, 12131. chargo) of pravargya, 1160, 
+State, is not, according to one view, owner of all lands, but is only entitled to tax them, 866; only entitled to levy taxes on land already brought under cultivation, 867–868.
 
-Pythu, called Adiraja (frøt king ), Prayage : drowning opoself at, sup 
+Statute, of Elizabeth, 858; of Mortmain, 118.
 
-496, 12172; story of, 496. posed to load to mokra, 926; king 
+Statutes, Indian, regulating religious and charitable institutions, 914.
 
-Puga, meaning of, 67-68. Gangoya obtained release with his one hundred wires near bunyan 
+Steele, 553, 615n, 952n.
 
-Pajaprakssa, a work, 820, 713, 714, troo of, 925. 
+Stein, Dr. Otto, 884.
 
-710, 718n, 7271, 729, 732, 733, Prayajas: 886 five offerings in darda- 736n &o. 
+Stevenson, Mrs. 195n.
 
-purnamāsu introductory to tho | Pulastya, 797. principal offerings, 1067n; deity | Pulinda, 88; Vidyamitra's sons woro of ?nd depended on gotra, 482, carsod to be wild tribes on the 1058; deitios of, according to I Himalayas, 88. 
+Sthaṇḍila (altar), how prepared, 208–209.
 
-General Index 
+Stones, five kinds of, used in worship, 716.
 
-1331 
+Stotras (see 'Bahiṣpavamāna'): are chanted in certain groups, 1182; are chanted near the audumbarī post in *Sadas* except the Bahiṣpavamāna, 1185; Bahiṣpavamāna is the first stotra in Agniṣṭoma, 1182; S. called ājya, 1185; choristers in chanting stotras are sacrificer and four other priests, 1168; devatās of, are determined by the nidhanas, 1170n; divided into two kinds, pavamāna and dhurya, 1167, 1168; each sāman verse in, has five parts, 1169; mādhyandina-pavamāna-stotra, 1187; marking of accents, 1172; method of introducing, 1167; method of chanting to the movements of thumb and fingers, 1173; most of, taken from Ṛgveda, 1172; notations of, differ in mss and śākhās, 1172–1173; place of chanting Bahiṣpavamāna, 1167–1168; position of the sāman chanters, 1167, 1185; prastotṛ udgātṛ and pratihartṛ chant, 1167; stobhas in, 1183.
 
-252. 
+Stotriya, a triplet, forms part of some śastras, 1186.
 
-978. 
+Strabo, 183, 518n, 626, 777, 798, 928.
 
-Pulkase (or Paulkada), 88–89. 
+Strangways, Mr. A. H. Fox, 1171.
 
-Farvamimaig A-sātra (vide undor Puļumāyi, desoribed as Vosithīputa, Jaimini), 45, 46, 289, 367, 437, 
+Strīparva, 93, 589, 598, 626.
 
-558, 559, 839. Pumavana, 218-220; & satiskara, 
+Student: conduct of, towards wife or son of *guru*, 342; duration of the stage of, 349–352; had to look after teacher's fires, tend his cattle and serve teacher, 331; not to take *ucchiṣṭa* of any one, except of his guru, 332; not to hear calumny of his teacher, 333; not to mention name of teacher or teacher's wife or son without an honorific prefix, 333; qualities of a good, 330–331; rules of conduct for, 331–333; rules on saluting teachers and [[P1343]] others, 335ff; what things should be avoided by, 331.
 
-196 ; procedure of, 218; time for, Puspadhe, samo as avantya, 89. 219. 
+Study, of Veda, to be done by householder in 2nd part of the day, 688.
 
-Puøyamitra : Agoimitra, 800 of, Punarādbeya, 997-998; grounds for, married a ksatriya princess, 460; & 
+Sub-castes: great diversity of view as to origin of and status of several, 58–59; several names for same sub-caste, 59; some smṛtis say that sub-castes are to be recognised by the acts or occupations of the members, 59.
 
-997; procedure of, 998. 
+Subhadrā: described as daughter of Vasudeva and sister of Kṛṣṇa, in the Mahābhārata, 460; was not the real sister of Kṛṣṇa, but a distant cousin, says Kumārila, 460.
 
-brahmana commander-in-chief of Punarbhu, 608-610; seven kinds of, tho Mauryas, 123, 450; founded a 
+Subodhinī, com. on the Mitākṣarā, 194.
 
-609-610. 
+Subrahmaṇyā litany, 1144n–1148; called pitāputriyā on Agniṣomīya paśu day, 1159–1160; changes in the words referring to the day, 1145n; contains three names of the sacrificer and his descendants according to seniority, 1145n; recited at each *upasad* in soma sacrifices, [[145|1145]]; recited near the utkara, except the first one, [[145n|1145n]].
 
-royal dynasty, 123, 248, 978; per Punarupandyana, 392–393; occasions | formed Rajasuya or Advamedha, 
+Sūcaka, a caste, 98.
 
-for, 392. Pundras, non-Aryan tribe, 88; Vidva- Putika plant, substitute for some 
+Sūcika (sūcī), a tailor, 98.
 
-mitra's sons were cursed to be, 47. 1203. Punydhavioana, 216-217; originally Putrika (daughter appointed as son), 
+Sudarśana, com. of Āpastamba-gṛhya, 225n, 284, 301n, 527, 813n, 828n.
 
-a simple ceremony, 216, 
+Śuddhitattva, 381, 628n, 631n, 633n, 634.
 
-436-436, Puranas, 66, 121n; bold the view that there will be po ksatriya kings 
+Sudhanvācārya, same as Kārūṣa, 97.
 
-Qualities, to be cultivated by all after Nanda, 1210, 380. 
+Śūdra (vide under 'brāhmaṇa,' 'caste,' 'king'): accumulation of wealth by, condemned, 121; a dīkṣita could not speak with a, 35; asat, did not incur sin by eating flesh or drinking wine, 122; assumed the ascetic mode of life sometimes, 945; called anārya by Gautama and other smṛtikāras, 35; Cāṇḍālas included by Patañjali among, 168; could in distress follow the avocations of the vaiśya, 121; could follow almost any occupation, 164; could listen to the recitation of [[the the|the]] epics and purāṇas, 155; could perform the daily five yajñas in ordinary fire, 158; could perform vratas, 159; could not himself read even the epics and purāṇas, according to some, 155; could not be a judge, 160; could not touch a brāhmaṇa, 162; could repeat Rāma and Śiva mantras, 158; derivation of the word in Vedāntasūtra, 155; described as 'asurya varṇa' in Tai. Br., 25; divided into aniravasita and niravasita, 121, 168; divided into bhojyānna and abhojyānna, 121–122; divided into sat and asat, 122; divisions of 121–122; duty of, to render service to dvijas, 120; enlisted as soldier, 164; esteemed low, 163; food of, could not be taken by a brāhmaṇa, 161; in distress may live in any country, 15; initiation of, as bhāgavata, 156; intoxicants not forbidden to, 796; is said to be untruth itself in Śat. Br., 35; killing a śūdra was an upapātaka, 163; liable to higher punishment than dvijātis for certain offences, 159–160; list of disabilities of, 154–164; mantra in case of, 158; may attain to spiritual development and mokṣa without Veda study, 156; no Veda study in presence of, 34, 154; not allowed to study Veda, 154; not fit for sacrifice, 34, 36; not to perform Vedic sacrifices, 156–157; numerous subcastes of, 121–122; ordained to servitude, according to Manu, 33; period of impurity on death greater for, 160; position of, improved in course of time, 120–121; purāṇa mantras to be repeated by brāhmaṇas for, 158; saṁskāras of, without Vedic mantras, 158–159; serving dvijātis as a duty was not a slave, 182; should not take gratuity for himself in giving [[P1344]] daughter in marriage, 506; some śūdras became kings, 121; spoken of as 'dark varṇa' in the sūtras, 33; spoken of as Vājasaneyin, 156; subdivisions of śūdra whose food could be eaten by brāhmaṇas in ancient times, 121–122; to say 'Śivāya namaḥ' or 'Viṣṇave namaḥ' in worship, 730; to wash feet of a brāhmaṇa guest in madhuparka, 544; touch of, entailed bath according to some smṛtis, 172, 665; was at beck and call of others, 35; was to be fed, when old, by his patron, 120; was to wear cast off clothes and shoes of his patron, 120; washes the feet of others, 34, what saṁskāras allowed to, different views about, 198–199.
 
-irrespeotive of custo, 10. Purda system, 596–598; none in an 
+Śūdrakamalākara, 34n, 72, 74, 77, 92, 93, 95, 102, 122, 155, 156n, 158, 381, 593 &c.
 
-Raghavabhafta, commentator of cient and modioval India except 
+Śūdrakṛtyatattva, 156n, 198.
 
-Śāradātilata, 900n. for ladies of bigb birth or when 
+Suicide (vide under 'Mahāprasthāna'), 924–928; allowed under exceptional circumstances such as brāhmaṇa murder or when life's work was done or in extreme illness, 924–926; fine for attempt to commit suicide, 924, 926–27; generally condemned by dharmaśāstra writers, 924; historical examples of religious, 925–926; officers were appointed to supervise and control fasting by death &c., 927; in Prayāga and other holy places for attaining heaven or release, 630, 925; no mourning need be observed for those who wilfully die by fasting or fire &c. 926; no water or funeral rites for him who commits, 924; religious, came to be forbidden in the Kali age, 928.
 
-Raghunandana, 198, 2010, 294, 344, visiting royal court or public 
+Śukra: and Kaca, 796; forbade intoxicants to brāhmaṇas, 796.
 
-451, 472, 634, 643 ; charge of mani assembly ball, 598. 
+Śukriya: a vrata for brahmacārin, 370–371.
 
-pulating Rg. X. 18.7 brought Purohita, 40; ecclesiastical matters 
+Sūktavāka, in darśapūrṇamāsa, 1072–1074.
 
-against him not sustainable, 684 ; left by kings to, 363; oven gods 
+Sūktimuktāvalī, 367.
 
-was styled Smārtabbatidoarya, had, 40; half the soul of the king, 634. 40, 363; importanco of, to king, Raghuvamsa, 1160, 266, 296, 356, 
+Śūlagava (rite), 831–832; flesh of ox offered to Rudra, 831; performed in Śarad or Vasanta on [[Ārdra|Ārdrā]], 831; Rudra described as supreme deity in, 736.
 
-40, 363 ; qualifications of, 363. 362, 381, 521, 524, 5290, 5798, Puronuvakya (invitatory prayer) 590, 6280, 687 &c. 
+Śūlapāṇi, 198, 477n.
 
-1059-1060. 
+Śūlika, a caste, 96.
 
-Ragbu Vira, Dr., 1220n. Puroruo vorbes, 1185R, 
+Sumantu, 76, 80, 83, 84, 94, 96, 149, 468, 497n, 647n, 963n.
 
-Rabasya Malimluc, killed Vaikha. Parta, defined, 844; reward of purta Daga8, 418. 
+Summum bonum, of Indian Philosophy, 422.
 
-works is higher than sacrifices, Rahu, and the Sun brought together 890; women and sudras were 
+Sun: crystal as symbol for worship of, 716; eclipse of, described in Ṛgveda, 770; feet of, not shown in images or paintings, 725; temple of, built by weavers from Lāṭa in Daśapura, 69; twelve names of the, in namaskāra, 735.
 
-in the Atharvaveda, 770. entitled to perform pārtadharma, 
+Śunaḥśepa: came to be called Devarāta by Viśvāmitra when the latter adopted him, 480; legend of, 35, 480, 507; spoken of as Ājīgarti and Āṅgirasa, 241, 480; story of, narrated to king in Rājasūya, 1218; was sold by his father for money, 507;
 
-Rajadharmakaustubba, 892, 900. 889. 
+Śunāsīrīya, 1105–1106; meaning of śunāsīra, 1105; no fixed time for it, 1091n; no fire produced by attrition and no uttaravedi in this, 1105; three special offerings viz. a cake to Śunāsīra, fresh milk to Vāyu and a cake to Sūrya, 1105.
 
-Rajamārtaṇḍa, 513. Puru, youngest son of Yayati and 1 Rajaka (washerman), an antyaja, 
+Sundara Ram, Mr. L. L., 773.
 
-crowned king, 923. 
+Sūnika, a caste, 99.
 
-70, 93; sometimes distinguished Purus, 89. 
+Surā (wine) see under 'drinking'.
 
-from nirnejaka, 82; included under Purusamedba, in Tai, Br., 48. 
+Surabhimatī, verses, 317n, 955n.
 
-Sudra by Patañjali, 93; liable to Purniṣārlhas, four, 8; preference pay bis wife's debts, 93. 
+Śūrasena, country of, 15.
 
-among them, 8-9. 
+Surāṣṭra, outside pale of Āryāvarta, 16; guilds of soldiers in, 67.
 
-Rajanya, ocours in the Rgveda only Puragasakta, 27, 38, 315; does not in Puruṣa sakta, 31. 
+Sureśvara, pupil of Śaṁkarācārya, wrote vārtika on Bṛhad-āraṇyakopaniṣad-bhāṣya, 943, 947.
 
-employ the word varṇa, 27; nyasa | Raja Radhakanta Dova, 625n. with verses of, 315; ropeated at Rajasekhara, author of Sakti makta time of bathing, 661-682, 
+Sūryā, a hymn in Ṛgveda (X. 85), 531; daughter of Savitṛ, married Soma, 526.
 
-vali, an anthology, 367; author of Purupottama, commentator of San- Kāvyamimānsa, 369; author of 
+[[P1345]] Sūryasiddhānta, 645n, 646.
 
-Dyābanirṇays of Vallabha, 949n. Karpūramañjarī, 460.133% 
+Sūta, 57, 98–99; one of antyāvasāyins, 70.
 
+Sūtasaṁhitā, 52, 54, 72, 79, 84, 85, 88, 90, 91, 935, 939.
 
+Sūtikāgni, how prepared, 232n.
 
-Rojasnya, a very complex rite 1 of, to be performed in the ruins, 
+Śutudrī, a river in Ṛg., 12.
 
-extending ovor two years, 1214; could be performed only by Ratbantara sdman, 3960, 1184; vOrgos kṣatriyab, 153, 1214; derivation of, 1184. of, 1214n; procedure of, 1216-1222; Ratnadhonu, a mabadana, 877, relation to Vajapeya, 1214-1215; Ratpakaranda-frāvalācara of Samad 
+Suvarṇa, 97.
 
-dico-play in 1219; feos in, 1221. tabhadra 927. Rajasvald, conduot and rules pres- Ratoas (jewels) of king, certain 
+Suvarṇakāra (or hemakāra), 98.
 
-cribed for, 803-805. 
+Suvāstu, river, mentioned in the Ṛg., 12.
 
-fanctionaries 48, 43, 1215n. Rajatarangipi, 76, 82, 629, 630, 716, Rbhus: are tbroo, Kbhu, Vibbvā and 
+Svādhyāya, study of, is called 'tapas' by Tai. Up., 356; subjects of, 353.
 
-863, 903, 908, 909, 927, 962. 
+Śvapaca or śvapāka, 97; avocations of, 97; one of the antyajas, 70, 97.
 
-Vaja, 1193n; connected with third Rajputs, infanticide among, 509; pressing of some, 11930; said to 
+Svargārohaṇikaparva, 8n.
 
-jauhar of ladios of, 629. 
+Svastisūkta, 902n.
 
-bave been mortals, but were mado Rajvade, Prof., 436n. 
+Svastyayana, mantras, 831n.
 
-immortal by Praj&pati, 1193n. Rajvado, Mr. V. K., 9480, 970, 971., 1 Remarriage, 608-619; allowed among 
+Svayaṁvara: a girl of marriageable age could after waiting for some time choose her husband, if father or other guardian did not give her in marriage, 502; held in an assembly with pomp was thought to be unsuitable to brāhmaṇas, 524; of Candralekhā, a Śilāhāra princess, 524; principal religious rites of marriage must be performed even after, 521; several varieties of, 523–524.
 
-973. 
+Śvetaketu, in Chāndogya Up., 13, 273.
 
-sūdras and some castes by custom, Ruka, Sinivali and Kubt, offerings 615; historic example of 615; of 
+Śvetaketu, a brahmacārin, when suffering from a skin disease was advised by Aśvins to take madhu (wine) and meat as medicine, 796.
 
-to, 1077, 
+Śvetaketu Āruṇeya, 321, 966; credited with having stopped promiscuous sexual relations, 428; learnt from Pravāhaṇa, 106, 966; styled Gautama, 241, 247.
 
-girl whoso marriage war pot con Rakpasa: form of marriage, 517, 519; gunmated when busband died, 
+Śvetāśvataropaniṣad, 322, 353, 960.
 
-Indrardja, Raptrakuta king allowed by Manu, 612 ; prohibited married by r, form the daughter for centuries among brahmanas of a Calukya king, 522 ; Pythri- and some other castes, 615; sutrag rdja Cohan married the daughter silent about, 615; the Hindu of Jayaoundra of Kanoj by rak- Widows Remarriage Act, 616; was pasa form, 522-523. 
+Sviṣṭakṛt: (vide under Agni), 208, 211, 1051n.
 
-not prohibited in the time of the Bakpogboa mantras, 835. 
+Śyaita Sāman, 996n.
 
-Atbarvaveda, 615; when allowod Rama: killed Tataki, 594 ; perform- by Nārada, 611, 
+Śyāvāśva, married a princess, 447, 525.
 
-od, efter abandoning his wife Reservoirs, of water, divided into Sita, sacrifices with a golden image four kinds, 893. 
+Śyena-yāga, performed as black magic against one's enemy, 632.
 
-of Sita by his side, 558, 684. Rg veda, 4, 12, 25, 241, 242, 253, 254, Rānaka, 94. 
+Tailika, 83.
 
-257, 261, 264, 268, 269, &o.; no Rimircana-candrika, 675. 
+Taittirīya Āraṇyaka, 14, 213n, 255n, 288, 303, 306, 314, 318, 327, 331 &c.
 
-infanticide in, 509. Rāmāyana, 87,109, 119, 395, 445, Rgveda-Prātisakbya, 326n, 11720, 
+Taittirīya Brāhmaṇa, 13n, 25, 30n, 37, 41n, 42, 43, 84, 135, 222n, 247n, 271 &c.
 
-510a, 611, 513, 5610, 568n, 562, 1196n. 678, 694, 627, 641, 720, 733, 1145n, Rg vidhana, & work, 618, 619, 647, 
+Taittirīya Saṁhitā, 34, 36, 38, 39, 40, 43, 95, 108n, 213n, 228, 247n, 255 &c.
 
-1238, 
+Taittirīya Upaniṣad, 5, 272, 301, 306, 326n, 328, 454n, 674, 750.
 
-715n, 7290. Ranade, Mr. Justice, 370n. 
+Takṣan (or Takṣaka), a caste, 82–83; regarded as śūdra, 83; was originally different from rathakāra, 83.
 
-Rhys Davids, 1831, Rangavatārin, e casto, 93. 
+Tāmbūla, 734–735; forbidden to widows, ascetics and vedic students, 584, 769; ingredients of, 734–735; no mention of, in ancient gṛhya sūtras, 734; thirteen guṇas of, 735; to be chewed after meals, 799.
 
-Rico, on "Mysore and Coorg from Rafjaka, 94. 
+Tāmbūlika, 83, 734.
 
-Inscriptions', 388n. Raptrabbạt, mantras, 263a. 
+Tāmropajīvin, 83.
 
-Risløy, 72. Rathakara, a casto, 94; allowed to Rites: preliminarios, common to all, in 
+Tanjore Maratha princes, held to be śūdras by Madras High Court, 382.
 
-consecrate Vedic iros, 45; held by modern tiines, 212; to be performed Juimipi pot to belong to the three according to ritual of one'a Vedic bigher vargas, 45; gradually lost dakba, 328 ; when the ritual of his status, 94; is the caste callod / another sakba may be followod, Saudhantada 46; not entitled to upanayanı, according to Vidvarūpa, River, invoked in Simantonrayana, 46; offspring of a mahinya malo 224-225. and karana female, 57; upanayana | Rivere, mentioned in Rgveda, 12. 
+Tāṇḍya Brāhmaṇa, 14, 15n, 34, 35, 37, 42, 43, 345, 385, 418, 419, 427, &c.
 
-328. 
+Tank (see under 'reservoir'), water of large, could be taken by cāṇḍālas, 176.
 
-General Index 
+Tantra, 319n; influence of, on smṛti practices, 319n; influence of, on Devapūjā, 740; influence of, on consecration of images, 900.
 
-1333 
+Tantraratna, 508.
 
-Rivers, on marriago of cousins, 477. Sabara : author of Bhagya on Purva. Rirasva, story of, 507, 
+Tantravārtika, 190, 191n, 289, 351, 355, 364, 459, 463n, 555, 585, 603n, 721 &c.
 
-mimams, 17, 290, 34a, 182, 190, Ṛkpratilakhya (see Rgveda prāti. 269, 2750, 350, 367, 367n, 3830, 
+Tāntrika, cult followed by some Vaiṣṇavas and Śaivas, 675.
 
-Sakhya). . 
+Tantuvāya, 83; also called kuvinda, 83.
 
-4691, 482, 5070, 525, 533, 557, 560, Road, public, not polluted by being 681, 6320, 677, 714, 766, 793, 803, 
+Tarka, importance of, in settling doubtful matters of dharma, 967.
 
-trodden by Candalas, 174; 198 of 866, 889, 910, 10099, 1019, 1145n, public, by untouchables, restricted 11830, 12070, 1214A, 12260, 1241. in South India, 175. 
+[[P1346]] Tarn, Dr. 384.
 
-Sabaras, 96; Viśvamitra's sons were Roman Catholic Church: forbids 
+Tarpaṇa, 668–669, 689–695; a constituent part of brahmayajña 692; a constituent part of snāna, [[668–689|668–669]]; every one had daily to perform tarpaṇa of gods, sages and pitṛs, 689; most elaborate tarpaṇa of all sūtras is in Baud. Dh. S. 693; part of hand by which water is offered in, 689–690; procedure of, 690; the devatās that are offered water, 690; the pitṛs to whom water is offered, 691–692; the sages to whom water is to be offered, 690–691; performed while standing in water, 668; to be performed as part of brahmayajña, 668; women teachers in, 366, 691; short form of 693; special tarpaṇa to Yama and Bhīṣma, 695; t. of sages in upākarma, 813.
 
-cursed to be, 47. divorce, 622 ; privileges of clergy 
+Taxation: learned brāhmaṇas free from, 143–144; women and other persons exempt from taxation, 144.
 
-Sabhāparva, 72, 74, 79, 82, 4270, 439, in, 145-146. 
+Taxes, on upanayana, marriages and Vedic sacrifices, 145.
 
-598, 780, 8300 &c. 
+Teacher (see under 'ācārya', 'education', 'guru', 'student'): demanded fanciful dakṣiṇā, 362; for Veda, must ordinarily be a brāhmaṇa, 325; generally a brāhmaṇa alone could be a, 108; kṣatriyas rarely engaged as, 108; kṣatriya may be teacher of Veda in difficulty, 325; not to keep back knowledge from pupil, 329; perpetual student could not stay with a kṣatriya t., 109; pupils were addressed by gotra names by, 481; rules to be observed by t. 329–330; students generally stuck to one, 328–329; to be revered as God by pupil, 322; to explain in Sanskrit, Prakrit or vernacular, 349; to treat pupil as his son, 329–330; woman as, 366.
 
-Sabhya ( fre), 679, 9890 ; some held Romika, a oaste, 102, 
+Teaching: after prior stipulation for money regarded as a sin, 361; method of t. Veda, 325–326; t. of Veda, in the hands of brāhmaṇas alone, 108; t. of Veda was a duty, 329; t. of vernaculars viz., Kannaḍa, Tigula and Marathi, in 1290 A. D., 355; was oral, 108, 325.
 
-that it was not to be established Rope trick, 85. 
+Teeth, brushing of, see under Dantadhāvana.
 
-at all, 9890. Rosary : number of beads in, 687; used in japa 687; of rudrāksas for 
+Telang, Mr. Justice, on coronation of Shivaji, 379n.
 
-Sacrifices: animals killed in were devotees of Śiva, 738. 
+Temples, administration of temples and maṭhas in ancient times, 910–913; could be entered by Antyajas according to Smṛtyarthasāra, 176; dancing girls attached to, 903–904; existed long before 5th century B. C., 710; king's duty to punish persons interfering with temple property, 911; kings appointed officer called Devatādhyakṣa, 912; mentioned by Laugākṣi-gṛhya, Gautama, Āp.Dh.S. and other sūtras, 709; of god Brahmā rare, 724; prāṇapratiṣṭhā of images in, a later element, 900; procedure of establishing images in, 897–899; procedure of consecrating image of Viṣṇu, according to Vaikhānasa, 901–903; to be circumambulated if one meets them on one's way, 709; to be erected in the centre of the capital, 710; two ways of establishment of images in, 897; trees to be planted round, 895; worshippers (*pujaris*) in temples of different gods are different, 722.
 
-deemed to go to heaven, 781; divi Rṣyasrnga, 291. 
+Tengalais, sect of the followers of Rāmānuja, 593.
 
-sions of, into iṣti, pasu, soma, 1133; Rta, sublime conception of, 5. 
+Thomas, Dr. E. J., 711n.
 
-offering a samidh or a namaskara Ṛtusangamana, 195, 203; samo as 
+Thomson, Mr. Edward, 624, 635n.
 
-held to be equal to, oven in æg Nipeka, 195. 
+Tilak, 'Orion' by, 287n, 829n; 'Arctic home in the Vedas' by, 1239n, 1245.
 
-veda, 677; Vedic, to be performed 
+Tilaka (mark on forehead), 672–675; made with [[sandlewood|sandalwood]] paste, 673.
 
-only by bir wbo kpowa tho portion Rudra : Ambika as sister of, 2130 ; 
+Tīrtha, different names of, 316n, 652; meaning a certain part of the palm, 316, 652.
 
-of Veda necessary for them, 352; described as Supreme Deity in 
+Tīrtha (water used in bathing the image of a god); deemed very holy, 731.
 
-Vodio, who are entitled to perform, Rgveda, 736 ; mouge said to be 
+[[P1347]] Tithi, called sopapadā, 396.
 
-157 ; wife had only & subordinate pasu of, 213; presiding deity of 
+Tod, 104, 509n, 523n.
 
-part in, 558; wife porformed oer Ardra nakpatra, 831n ; presiding 
+Tolerance, in religion in India from Aśoka downwards, 724.
 
-tain specified aots only in, 558, deity of cows when donated, 355; 
+Tones, three viz. mandra, madhyama and uttama, 1059.
 
-Sadanirt, river, 12. sublime eulogy of, in Tai. 8., 736; 
+Tortoise: avatāra of Viṣṇu as, probably due to a story of Prajāpati in Śat. Br., 718; was built alive in the fire altar, 1251.
 
-Sadasya, 17th priest, acoording to twelve names of, in Āév. gr. 736 ; 
+Townsend, Meredith, estimate of caste system by, 21.
 
-some, in somna aaorifices, 9810. worsbipped as supreine deity in 
+Traidhātavī, an iṣṭi in Rājasūya, 1222.
 
-Sad-darbana-sunuccaya, of Hari. solagava, 736. 
+Traiyambaka homa: 1103–1105; a rite in Sākamedhaparva, 1103; everything is done facing the north, 1103–1104; offered to Rudra, 1103; yajamāna, wife, children and unmarried daughters go round fire striking their thighs and repeating the mantra 'Tryambakaṁ yajāmahe', 1104.
 
-bhadra, 359n. Rudradaman, Junagad inscription Ṣad-dhotṣ mantras, 1193. 
+Transmigration, doctrine of, taught by Yājñavalkya, 106n; doctrine of, in Bṛ. Up., 776; not the prime cause of doctrine of *ahiṁsā*, 776.
 
-of, 248, 384, 775. 
+Trasadasyu, made gifts of female slaves, 181.
 
-Sadgurusiøya, 260. Rudradatta, com. on Āpastamha- Sadhana-mala, 3190. 
+Tṛcakalpa-namaskāras, described, 735–736.
 
-frauta-sutra, 1008n, 108ān. 
+Treasure-trove; brāhmaṇa more favoured as to, 146.
 
-Sadharaga-dbarma, meaning of, 3; Rudra-Gayatri, 737. 
+Trees (see under 'plants', 'garden'); circumambulating holy trees, 894; fines for cutting trees and plants wrongfully, 895; fuel sticks (samidh) to be of nyagrodha, udumbara, plakṣa and aśvattha, 894; have life, according to Mahābhārata, 895; highly valued in India at all times, 893–894; leaves and twigs of aśvattha, udumbara, plakṣa, mango and nyagrodha very auspicious, 894; no Veda study under the shade of certain, 400; none to injure trees yielding fruits and flowers, 895; numerous uses of, in sacrifices and otherwise, 893–894; palāśa, very sacred and so seats or tooth brushes not to be made from it, 894; pitṛs gratified by the plantation of mango trees that are watered, 894; planting of, confers spiritual benefit like sons, 895; seven holy trees in Taittirīya Brāhmaṇa, 894; to be planted round temples, 895; worship of, particularly by women desirous of sons, 894.
 
-qualities comprehended in, 11. Rudraskanda, commentator of Sagotra, 478ff; relationship both 
+Tribes, in the Ṛgveda, 39.
 
-Khidiragṛhya, 1910. 
+Trikadruka, a sacrifice, 981n.
 
-wider and narrower than sa pinda Rule of the road: favoured relationsbip, 499; occurs in Tandya 
+Trikāṇḍamaṇḍana, 155n, 308, 548, 560, 566, 677, 1086n.
 
-brabidana, 146 147; preference Brahmana, 480 ; probibition of all to, 146–147. 
+Trimūrti, conception of, is ancient, 724.
 
-marriage on the ground of, 437, Rules : for which tbore are dreta 438, 497. 
+Tripuṇḍra (mark on forehead), 673; highly extolled by Pāśupatas, 673; made with ashes, 673; [[jrocedure|procedure]] of making, 674.
 
-(8000) or easily percoptiblo Sahyadrikhaqda, 72, 73, 74, 75, 79, reasons are only recommendatory, 88, 99, 103n. 437; for which there are no per- Sabodha, caste, of, 54. ceptible reasons are mandatory Saikha, samo as Avantya, 96. and breach makes the thing done Sailūga, a caste, 96-97. bugatory, 437. 
+Triśaṅku; cursed to be cāṇḍāla, 109; Viśvāmitra became his priest, 109.
 
-Sairandbri ( Draupadi ), wos orderod Rupandrāyana, 198. 
+Tristhalīsetu, 595.
 
-I to be burnt with Kloakı, 626. 
+Trisuparṇa, texts purify a man, 686.
 
-1334 
+Trita, who had fallen into a well, 550.
 
+Trita, story of, a devotee of Indra, 1034n.
 
+Tṛtsus, 39.
 
-almost same footing as, 129; com. modities that could not be sold by a brābmaga even in distress, 126 
+Truth: exalted above everything else in the Ṛgveda and other Vedic texts, 4–5; conduces to the greatest good, 10.
 
-128. 
+Tulāpuruṣa (weighing against gold or silver): frequently mentioned in epigraphic records, 870; kings and ministers indulged in this, 872; procedure of, 871–872.
 
-Sairindhra, 99. Śaivas, following vaidika oult or 
+Tulasī: clay at root of, used for making mark on forehead after bath, 673; leaves of, to be offered to Viṣṇu, 732; plant supposed to be favourite of Viṣṇu, 731.
 
-Tantrika cult or both, 675 ; sects of, mentioned in Kurmapurana, 
+Tunnavāya, a caste, 83.
 
-737 ; touch of, condemned, 169. Sakadvipa, 722n. sakadripi brahmanas, 722n. Sakala, 7140. sakalya, author of the pada text of 
+Turāyaṇa, an iṣṭi, 919n, 1107.
 
-the Rgveda, 3480. Sakas (vido under yavada'), 96; Manu on, 47; inscriptions of king 
+Turīyātīta, a class of saṁnyāsin, 942.
 
-Damijada of, 251. Sakamedha, tbird parvan of caturmas yas, 1100-1105; four praydjas 
+Tura, Kāvaṣeya, received doctrine of Agnicayana from Prajāpati, 1247.
 
-omitting barhis ) and four anu yojas, 1102; last rite in s kamedha is Traiyambaka homa, 1103-1104; mahahavis of sight offerings to eight deities, 1101 ; nad&pitryajna porformed on a vedi to the south of Dakṣiqögni, 1101-1102 ; many rites included in this, 1100; per. formed four months after Varuna praghosa on full moon day of Kartika or Margasirga, 1100; procedure of, 1101ff ; requires two days for performance, 1100. Saketa, besieged by Yavana iu Patan. 
+Turvaśas, 39.
 
-jali's time, 384. śabbabarana, in darsepti by one who had already performed somayoga, 
+[[P1348]] Tvaṣṭṛ, story of, that by wrong pronunciation of the word Indra-śatru he lost, 347.
 
-1011-1012. sakta worship, 739. Sakti, son of Vasiftua, 487. Sakuntala, 66, 144, 369, 422, 429, 
+Tvāṣṭra, had three heads and was killed by Indra, 419.
 
-522, 563, 582, 766, 917. sakvara vrata for brahmacarins, 371 
+Ucchiṣṭa: food of a brāhmaṇa, not to be given to a non-brāhmaṇa, 44n; food to be given to a śūdra only if he was dependent on a brāhmaṇa, 44n; pupil may take teacher's, 332.
 
-372. salagr&ma: Pujtprakasa says women 
+Udavasānīyā; iṣṭi at the end of Agniṣṭoma; 1201; procedure of, 1201.
 
-and dūdras can worsbip, 715-716; stone found in Gandaki river and worsbipped as a symbol of Vigou, 715; Vṛddha-Harita days only dvijas can worship, 716; worship 
+Udayanīyā: concluding iṣṭi in Agniṣṭoma, 1200; performed in prāgvaṁśa and not on uttaravedi, 1200; procedure of, 1200.
 
-of, comparatively ancient, 716. stlaky., a caste, 102, Salo, of commodities, 88 an avocation 
+Udbandhanaka, a caste, 74.
 
-for brahmapas, 16-129; baster on 
+Uddālaka Āruṇi, 12, 273.
 
-Salika, samo as Mogadha, 96. salina, 641n; a class of householdore, 
+Uddālaka vrata, for patitasāvitrika 377.
 
-642; varieties of, 642. Salmond, 574n, Salutation (see "abhivadana', 'PI& tyuttbona,', upagarograbana', 'namaskara'); various modes of, 
+Uddhava, a great devotee of Kṛṣṇa, 949.
 
-335-343 ; who do not deserve, 339. Salva, country of, 224-226p; king of, 
+Uddīkṣaṇikā, a ceremony in each Veda-vrata, 371.
 
-attacked Dvāraka, 2250 ; Yaugan 
+Udgīthavidyā, 167.
 
-dhara, a division of, 225n. Salya parva, 8n, 66, 2250, 438, 444, 
+Udvāhatattva, 162, 344, 429n, 439, 451, 455n, 456n, 468, 471, 474, 486n, 493n &c.
 
-568, 598, 925. Samen (see under "stotra'): cossa 
+Udyogaparva, 6, 8n, 69, 79, 82, 83, 84, 88, 330n, 358n, 431n, 507, 510n, 637, 795 &c.
 
-tion of Rgvoda or Yajurveda study on hearing cheating of, 397; means & melody that is sung, 1183-1184; rolation of ik and stobbas to, 1184; rules in Jaimini about, 1184-1186; seven ancient notes of and their correspondence 
+Ugra, a caste, 73–74; a nobleman in Bṛ. Up. 45; offspring of a kṣatriya from a śūdra woman, 45; occurs in Ṛgveda, 45.
 
-with classical svares, 1172-1173. Somapavitra, is the mantra 'kay. 
+Ujjayinī: poets like Kālidāsa were examined at, 369; temple of Mahākāla at, 799.
 
-Dagcitra ', 378n. Samāvartana ( ceremonial bath after 
+Ukthamukha: principal part of certain śastras is so called, 1186.
 
-finisbing Veda study), 197, 405– 415 ; auspicious day for, 411; brief procodure of, 415 ; essence is cere monial bath, 406; procedure of, 408-410; regarded by some as a subordipato element (anga ) of marriage, 405-406; some dis tinguish between snāna and sans vartana, 405 ; time when samd 
+Ukthya, a form of soma sacrifice, 1204.
 
-vartada takes place, 407. Samaveda, 1169, 1184, 1185n, 1193n, 
+Universities, famous, in ancient India, 369.
 
-1195–1196 ; bas pitṛs &s its deities, 397 ; pūrvārcika, 1184 ; sung in a thousand ways and modifications, 364n; ūbagrantba, of human authorship, 1184; uttatārcika, 1184, 
+Untouchable (see under 'antyaja', 'cāṇḍāla,' 'mleccha'): could establish temple of Bhairava, 176; could worship images of avatāras of Viṣṇu, 176; included among śūdras for marriage, 179; not to approach a caste Hindu at what distance, 174; punished, if deliberately touched one of a high caste, 176; population of, 178–179.
 
-1185. Samavidb80a-brabmana, 1172, 1184. Sumaya pradipa, a work, 258n. Sembandhavivoka, 4770. 
+Untouchability (see under 'antyaja,' 'cāṇḍāla'), 165–179; arises in various ways, 168–169; exceptions as to, on certain occasions, 175–176; lowest avocations mentioned in the Vedas, 165; permanent and temporary, 168–169; underlying notion of, 170.
 
-General Index 
+Upacāras (items in procedure of worship): in devapūjā, 729; number of, differs, 729–730.
 
-1335 
+Upādhyāya: defined, 323–24, 361; slapped a pupil for wrong accentuation, 363.
 
-Sambharayajus, formula, 1135. Bamkaravarman, king of Kasbmir, Samdhya or sandhya 312-321; acama- deprived temples of all lands 
+Upākarma (starting of annual session of veda study) 197, 807–815; called vārṣika in some sūtras, 807; cessation of Veda study for, 399; divergence as to mantras, deities and material of oblations, in sūtras, 810; holiday after upākarma, 815; procedure of, 812–813; procedure of, in modern times, 813–815; reasons why the month of śrāvaṇa and the nakṣatra Śravaṇa were held so important are obscure, 809–810; time for, variously stated, 807–810.
 
-na, a part of,315-316; aghamarçaṇa donated by previous kings, 868. in, 317; argbya in, 318; japa of Samkhya, 423. Gayatri and other mantrag, pria 
+Upakosala, pupil of Satyakāma Jābāla, 307, 329, 349n, 406.
 
-Sarnokāras (see under Aūdra, upa cipal in 313; mander of perform- nayana, marriage ): any agnate ing, 314; marjana in, 317 ; mean- inay perforın for a child, except ing of, 312; moang contompla- garbhadbena, 206 ; brūbmapas to tion of Aditya and of Ono In 
+Upakruṣṭa, 74; authorized to perform consecration of Vedic fires, 74.
 
-be fed in all, 212 ; bring out telligenco, 313 ; praṇāyāna in, brahmanya, 189-190 ; could not be 317 ; principal constituent parts performed for the in potent, of, 314-316; proper place for, 198; divided into brāhma and 313-314; removes sins, 318-319; daiva, 193; easy expiations repetition of 24 naines of Vippu in 
+Upāṁśuyāja, procedure of, 1062.
 
-for non-performance of, 199-200 ; 315; required to be perforined 
+Upanayana (see under 'brahmacārin', 'brahmacarya', 'patitasāvitrika', 'Veda study'), 268–415; a child may act and eat as it likes before, 188; auspicious times for, 276–278; characteristic features of, in Atharvaveda, 270; characteristic features of, in Śat. Br., 271; foremost of saṁskāras, 189; goes [[P1349]] back to Indo-Iranian period, 268; had to be performed again for going to Āraṭṭaka and other Bāhīka countries, 16; if till latest age no upanayana performed, the person became patitasāvitrika, 376; latest age for, according to varṇa, 376; makes a man as if born again, 189; Medhājanana rite performed on 4th day after upanayana, 305–306; nivīta mode of wearing when required, 288; of the blind, deaf and dumb etc., 297–298; of mixed castes, 299; of trees, 299–300; order of the several rites in, different in works, 286; origin and development of, 268–274; person entitled to perform the u. of a boy, 278; prācīnāvīta mode of wearing, when required, 288; procedure of, in Āśvalāyana, 281–283; proper age for, in the case of different varṇas, 274–276; upavīta mode of wearing, 289, 290n; whether year of, calculated from conception or birth, 275; when performed again, 392.
 
-forty, according to Gautama, 193. twice every day or thrice accord 
+Upaniṣads, 105, 247, 319, 353, 354, 480; ākhyānas in, 1232n; distinguish between lesser and greater good, 9–10.
 
-194; have to be repeated on each ing to some, 312; sages attained 
+Upaniṣkramaṇa, 196.
 
-child of a womaa, 205; list of, long life by extensive, 313; time 
+Upapātaka: not kindling or keeping up śrauta or gṛhya fire was, 685; teaching Veda with a prior stipulation for money is, 361.
 
-195–197 ; moaning of, 190-191; of, in morning and evening, 313 ; 
+Uparavas, 1154–1155; digging of four round holes in Agniṣṭoma called uparavas, 1154; wooden board covered with hide placed on, for pressing soma, 1157–1158.
 
-most, have fallen into oblivion, time to be spent in, 313 ; upastha 
+Uparicara Vasu, started Indramaha festival, 826.
 
-199; aumber of, great divergence Da of Mitra and Varuga in, 315, 
+Upasad, 1151–1152; is an iṣṭi, 1151; mantras in, refer to sieges of iron, silver and gold cities, 1152; nine sāmidhenī verses of, 1151; offerings made to Agni, Soma, Viṣṇu and other āhutis with 'yā te' &c., 1151; procedure of, is like upāṁśuyāja, 1152.
 
-on, 193-194 ; of kūdra, to be per 318; water thrown up in, drives 
+Upasaṁgrahaṇa (clasping the feet and bowing), rules about, 335.
 
-formed without Vedic mantras, away evil spirits according to Tai. 
+Upavedas, 354; four, 355.
 
-168-159 ; perforned on auspicious Ār, and others, 314. 
+Ūrdhvapuṇḍra (mark on forehead), 673; fingers employed in making, 673; marks made on twelve parts of the body, 673; marks made with Gopicandana, 673; clay to be employed in making, 673; marks branded on the body with heated metal pieces by followers of Madhvācārya, 674; run down by Pāśupatas, 673.
 
-days only, 213; performed with Samidh (gee under 'fuel-stick'). 
+Usages (see 'custom'), peculiar to South, according to Baud. Dh. S., 765; peculiar to the North, one of which was drinking of rum by brāhmaṇas, 795; to be learnt from women, 201n.
 
-Vedic mantras for dvijati males, Sāmidheni (kindling verses ), 1048 
+Uśanas, 54, 71, 73, 76, 78, 79, 85, 187, 548, 667n; forbids a brāhmaṇa widow to burn herself after her husband's body is cremated elsewhere, 627; on the avocations of sub-castes, 58.
 
-197; porformed without mantras 1049; are eleven but to be raised 
+Uṣasti Cākrāyaṇa, story of, 440, 758.
 
-for women even of dvijatis, 197; to fifteon in darsa pūrṇamāsa by 
+Uṣavadāta, donations of, 113n, 388n, 856.
 
-purify body, 192 ; purpose of, 191 repetition of first and last verses, 
+Uśīnara, country of, 13, 328; centre of Aryan culture, 13.
 
-192; romove tainte, 192 ; sixteen, 1048; method of reciting, 1049a. 
+Utkara, 984; position of, 1035n.
 
-enumeration of, 194 ; the word Samitr, views about, 1121-1122n. 
+Utsarga (dedication to the public)–see under 'pratiṣṭhā'; distinguished from dāna, 893.
 
-does not ocour in Vedic Literature. Samkara, 51 ; the cause of oumerous 
+Utsargamayūkha, 895.
 
-190; upanayana, the principal, castes and subcastes, 50, 59-60. 200; which obligatory on dvijatis, Samkarācārya, 320, 61, 88, 166, 353a, 107-198. 
+Utsarjana (cessation of annual Veda study), 197, 815–818; a saṁskāra, 197; cessation of Veda study on, 399, 816; now performed on same day as upākarma, 817; procedure of, in ancient times, 816; procedure of, in modern times, 817–818; rite of, gradually faded away, 817; time of, divergence about, 815–816.
 
-3540, 356, 366, 4210, 440n, 712a, Samskarakaustubha, 200, 201 n, 206, 716, 7579 &0.; established four 373, 392n, 415, 4430, 462, 464, 468, mathas in four parts of India, 907; 469, &o. four pupils of, 948, 964 ; is said to Sarāgkaramayukba, 194, 201n, 206, hare popularized Pañcāyatana- 2190, 220, 292, 293n, 392n, 396n. puja, 717 ; probibited sale of girle Samekira prakada, 45n, 1899, 1930, in marriage, 506; succession lists | 194, 198, 2010, 206, 220, 223, 226, of pupils of, do not agree and are 2370, 249n &o. 
+[[P1350]] Uttarakuru, country of, credited with having promiscuity of sexual relations in the time of the Mahābhārata, 428.
 
-probably fabricated, 949. | Samskara-ratna-mala, of Gopinatha, Saṅkar&oaryas (beads of mathas): 2011, 2120, 216n, 220, 237a, 249n, 
+Uttararāmacarita, 119, 403, 579n, 927.
 
-claim of, to prescribe pedances | 256, 258, 260, 2660, 267, 287 &o. for lapaes, to excommunicate por- Samskāratattva, 1890, 192, 2017, 206 2008 and decide doubtful points 251, 272n, 284, 294, 498A. of dharma, examined, 966 and Samudragupta, performed Asramedha 972.973. 
+Utthāna, a saṁskāra, according to some, 196, 237.
 
-1 that had gone out of vogue, 978. 
+Utthāpinyaḥ (verses), 618.
 
-1336 
+Vad, Rao Bahadur, 972n.
 
+Vaidehaka, 57, 95–96; a pratiloma caste, 57, 95; one of the antyāvasāyins, 70.
 
+Vaidyanātha, author of Smṛtimuktāphala, 462.
 
-Sathvarga-vidya, 247, 840. Samvaria, 15, 1121, 169, 303, 326n, 
+Vaijayantī, com. on Satyāṣāḍha-śrauta-sūtra, 1009n.
 
-443, 445, 460, 5710, 852, 878n &o. Samyartaka, a great yogin, 9410. Samyu Bārbaspatya, legend of, 
+Vaikhānasa: means 'vānaprastha' in sūtras, 418; said in the Tāṇḍya Brāhmaṇa to be favourite of Indra, 418.
 
-10750. Samyuvāka (formula), 1076. Sanda and Amarka (or Marka), chipe 
+Vaikhānasa-śāstra, treated of the duties of the forest hermits, 917.
 
-offered to, in morning pressing in Agnistoma, 1176; purobitas of Asuras, 40. Bandils, explains how a pativrata 
+Vaikhānasa-smārtasūtra, 54, 72, 73, 79, 80, 85, 131n, 194, 195, 196, 233, 236 &c.
 
-attains heaven, 567. Sandilya, 764. Sandilya, the principal authority on 
+Vaiśālī, capital of Licchavis, 85.
 
-Agnicayaga in Sat. Br., 1247, Sangha, meaning of, 68. Sandgraba, a work, 299, 3050, 320, 375. Saṅkalpa, one of the essential ele ments in any gift or dedication to 
+Vaisarjina homa, in Agniṣṭoma, 1158.
 
-the public, 892. Śhaṅkarananda, author of a com. on 
+Vaiṣṇava saints, 177; sectarians, following only Vaidika cult, or following Tāntrika cult only, or both, 675; two schools of Vaiṣṇavas, viz. Vaikhānasas and Pāñcarātrikas, 917.
 
-some Upanigads, 419. . Samkośvara and Karaytra: Samkara 
+Vaiśvadeva (see under 'baliharaṇa'), 741–748; comprises, according to some devayajña, bhūtayajña and pitṛyajña, 741; deities of, 741–742; duty to give food even to dogs and cāṇḍālas at time of, 116; performed twice daily in old times, 742; performed only once daily in medieval and modern times, 742; procedure of, 742–743; to be offered in gṛhya fire or ordinary fire, 741; taking food without performing condemned, 745; whether *puruṣārtha* only, 743; whether to be performed before śrāddha or after, 743–744; who was to cook food for, 744–745.
 
-cārya of, 971, 972 ; rarely decided disputed mattors in Maratba times, 
+Vaiśvadeva: the first of the Cāturmāsyas, 1092–1095; *āmikṣā* or *payasyā* offered to All Gods in, 1092; begun on morning of first full moon day after agnyādheya, 1092; nine prayājas and nine anuyājas in 1093–1094; three additional offerings in, 1092; *vājina* offered to deities called Vājins, 1094.
 
-972-973. Saṅkha, 6n, 16, 45n, 56, 78, 80, 83, 
+Vaiśvakarmaṇa, offerings in Mādhyandinasavana, 1190.
 
-94, 95, 1410, 159, 236, 257. Saṅkha-Likbita, dharnasātra of, 14, 
+Vaiśvānara, iṣṭi for, on birth of a son, 229.
 
-119n, 128, 134, 205, 250, 260, 356, 
+Vaiśvānara-vidyā, taught by king Aśvapati to five brāhmaṇas, 106n.
 
-4170, 562, 566, 580, 664 &c. saókhyāyana Brahmana, 360, 46, 
+Vaiśya, characteristics of, in Vedic works, 41–42; exceeded others in numbers, 41; had numerous cattle, 42; may in difficulties maintain himself by doing work of śūdra, 120; paid taxes, 42; pravara of, 494–495; to be subsisted upon by others, 41–42; word does not occur in Ṛgveda, 27.
 
-749, 840. stokhyāyana-gpbya, 85,195, 196, 197, 
+Vājapeya: animals sacrificed to Prajāpati in V. are 17, 1206; dialogue between sacrificer and his wife in 1209; fees at end of V., 1210–1211; horses yoked to chariots in race smelt boiled wild rice, 1208; lasted for 17 days, 1206; number 17 predominates in many features of, 1206; observances of one who has performed V., 1210; race of 17 chariots described, 1206, 1207–1209; performed only by brāhmaṇas and kṣatriyas who wanted eminence or overlordship, 1207; 17 cups of soma and 17 of *surā*, 1206; seventeen drums were simultaneously beaten, 1206; stotras and śastras, 17 of each, 1206; wine cups, offered in V. are given to those who took part in the race, 1209; yūpa was 17 aratnis in height in, 1206.
 
-202, 208, 220, 221, 233, 247a, 253, 
+[[P1351]] Vaitaraṇī: cow, donated by a dying man is so called, 879; a river in Yama's region which the dead have to cross, 879.
 
-257 &c. sankhy yıpt-brauta-gatra, 618, 
+Vājaprasavīya, a rite in Agnicayana, 1254n.
 
-1060n, 11211, 11340, 1222n. : Sanndyya: deity to whom offered, 
+Vājasaneya Saṁhitā, 39n, 43, 95, 125, 139, 148, 213, 233, 282n &c.
 
-1019; offorod to Indra or Mabon dra, 1012; preparation of, 1017- 1018; rempants of, not to be pare taken of by a non-br&bmuga gaori- fioor, 1082; viows about person. who could offor Innlyy, 1019. Samnyāsa (806 under samayasin, 
+Vājina, offered to deities called Vājins in Vaiśvadeva-parvan, 1094; priests only smell remnants of v. and sacrificer eats them, 1094; what is, 1092n.
 
-Vallabbdcbrya,' 'asceticism'), 930-976, allowed von immedi- 
+Vākāṭaka kings, were brāhmaṇas by varṇa but married kṣatriya princesses, 449.
 
-ately after brahmacarya, 930; i porson cannot return to bours. bolder's life after resorting to, 424: a postate from, severely con demned, 947; begging & charac teristio of, from ancient times, 421; eight bruddhas before entere ing on, 932; for those who are very ill, 963; forbidden after, 4400 years of Kali by Vyasa, 953; kṣatriyas could resort to, 944; mentioned in Mundakopanipad, 421; not meant, as some supposed, for the blind and cripple, 946–947; principal features of, 931-938; to carry three or one danda, 937 ; procedure of taking sanayāsa according to Baud., 954-957 ; pro codurs of taking sanay sa acoord ing to Dharmasindhu, 958-962; to be resorted to after 70th year according to Baud. Dh. S., 418; to observe silence in, except when reciting Veda, 937; various names for one who resorts to, 417; views on question whether sannyāsa can be resorted to immodiately after student-bood or after householder's life, 424-426; viatas of, major and minor, 956; whether he has to give up his sikhā (top-knot of hair) and sacred thread, 963-964; whether allowed to the three var gas or only to brahmanas, 942-944; whether Chandogyopanipad refers to it is doubtful, 930; who wore to be allowed to resort to, 947 ; word ‘sanayasa' conveys two ideas, 946; world-renouncing ideal of sauny.da, given up by many beads of mathas in modern timos, 
+Vākyabheda, a fault, 590.
 
-960. Sarinyaga-nirṇaya of Vallabba 
+Vallabhācārya, author of bhāṣya on Vedāntasūtra, 949; holds saṁnyāsa forbidden in Kali, 949.
 
-carya, 949n. Sarinydeapaddbati of Toro Rudra 
+Vāmadevī, ṛk., 728.
 
-dova, 966n. Sannyasin (500 under "food', 
+Vāmadevya-sāman, 996n, 1184; verses of, 1184.
 
-paramahamsa, matha,' 'pur yankabouca, yogapatta ): brend ing and banishment for him who 
+Vāmana, regarded as avatāra of Viṣṇu by Kālidāsa, 724.
 
-General Index 
+Vāmanapurāṇa, 11, 215, 346n, 511, 647, 649, 666, 688, 737, 923.
 
-1337 
+Vanaparva, 2n, 7, 14n, 61, 63n, 82, 88, 101, 215, 294, 324n, 439 &c.
 
-does not abide by rules of the advaita gapnyasins, 948 ; takos order, 948; became cut off froin Yow of abimea, 955; time whon ono family and lost rights to property, became a 932; to repeat the word 951-952; clothes of, to be ocbre- "Nārāyana 'when some one bows coloured, 935; could at one time io him, 965; vairagya should be beg food from all varṇas, 934; gonerated, 938; was not beyond obaracteristics of, according to rules of morality, 940-942 ; was to Jabalopanipad, 931; daily duties own and possess nothing except of, 964-965; five kinds of food his clothes, jar &o. 935; was to obtained by begging, 934; four aubsist on food obtained by beg proper actions for, viz. contem- ging, 934 ; what is tridaṇdin, 937 ; plation, purity, begging and stay- woinen rarely took to mode of life ing alono, 933; four kinds of, viz. kuṭioaka, bahudaka, harsh and Samayāsopaniṣad, montions dix paramahamsa, defined, 988-942; kinds of samayāsins, 942. had to leave home and wife and Santapu, Devāpi was purohita of, in to bog only once and from seven Rgveda, 31; was a Kaurava king or a few housor only, 934; had to aocording to Nirukta, 31. perform sacrifice to Prajapati and Santātiya, hymn in Rgveda ( VII. distribute bio possossions among 35), 833n. priests and the poor, 931; bis bowl Sānti, rites for birth on inauspi and plate to be of clay, wood or a cious times, 237. gourd, 936; militant gaminyasins, Santiparva, 2n, 6, 7n, 8n, 10, 41, 42, 951; mother and wife are supposed 510, 70, 71, 81, 101, 128, 155, not to have to be born again as 
+Vānaprastha (forest hermit), 917–929; classifications of, 922–923; could beg for his food, according to Yājñavalkya, 920; difference of, from saṁnyāsin, 928–929; has to bathe twice or thrice a day, 920; has to give up all village food and subsist on forest produce, such as flowers, fruits, roots, 920; may start on the great journey or enter water or fire when too old or infirm, 922; partakes of food only once a day or fasts for long periods, 921; practises severe austerities such as standing in summer in midst of five fires, 921; royal personages became, 923; should live a life of complete continence and friendliness to all, 920; should perform the five daily yajñas, 920; should study Upaniṣads, 922; some of the duties of, practically same as for saṁnyāsins, 928; śūdra could not be, 923; takes with him his śrauta and gṛhya fires according to some, 919; time for becoming, 918; vaikhānasa was the ancient word for, 917; wife may accompany or may be left in charge of son, 918.
 
-324 &c. females, 946; now name to be Sa pipda relationship. 452-478: about given to s. by his gurry 961; not to the adopted son, 470; according to remain in one place except in the Dayabhāga, 452, 472-477 ; accord rains, 947-948, 952 ; people pro- ing to Mitakṣarā, 452-455; how far fessing to be sarnyasida bogan to applicable in the case of girls marry and keep concubines, 952 ; from ono's step-mother's original punigbmont for becoming 8am- family, 468-469; narrowed down nyāsin without making proper if three women intervene, 476 ; provision for wife and sons, 932; narrowing of, in marriage, per pupil of, becomes boir, 952; resorts mitted by smitis and digesta on to yoga to purify bis mind, 938; the ground of asage only, 464 ; rules of mourning as to, 965; abould required in three branches of kindle no frauta, grbye or domestic dbarmadāstra, 452 ; restricted to fre, 933 ; should be celibate and geron degrees on father's side, unattached to all pleasures, 933; and five on mother's side in most should oat only as much as is works, 454-455; two sobools of, necessary to keep body and soul 
+Vandin, a caste, 94.
 
-452; usages vary, particularly 48 togethor, 935; should wander alone 
+Vārāhagṛhya, 246, 250, 260, 302, 355, 433, 434, 437.
 
-to cognates, 458ff; wider than without a companion, 933; should sagotra relationship in one direc more about avoiding all injury to tion and narrower in another, 499. 
+Varāhamihira, 217, 579, 628, 722.
 
-creatures, 933 ; sudre could not Sapindīkaraga, a sraddba, 473. become according to stuftis, 944; Sapiṇdyadipik, a work, 464. ton virtues much as truthfulness Saptabotṛ formula, 1070a, 1135, to be acquired, 938; ten orders of 1 1196. 
+Varāha-purāṇa, 158, 198, 720, 725, 878, 879, 880.
 
-. D. 168 
+Vārāha-śrauta-sūtra, 1075n, 1220n.
 
-1338 
+Varāṭa, an antyaja, 95.
 
+Vāravantīya-sāman, 996n.
 
+Vardhamānasūri, author of Ācāradinakara, 321.
 
-Saptapadi, principal rito in marriage, 
+Varṇa, 19–104; arises by birth only, according to most smṛtis, 51–52; Āryas and dāsas were both called varṇa in the Ṛgveda, 25; associated with metres in Brāhmaṇa works, 34; distinguished generally from *jāti*, 54–55; even gods deemed to have v. among them, 42; evolved by actions of people, 101; ideal of v. lays most emphasis on duties than on privileges, 54; meaning of, in Ṛgveda, 25; men of three higher varṇas to live only in certain countries, 15; not applied to brāhmaṇa and kṣatriya in Ṛgveda, 27; system of v. had taken deep root in Brāhmaṇa period, 42; theory of, in smṛtis, presupposes certain propositions, 51–52; theory of, was based on several principles, 137; theory of, whether only a theory even in ancient times, 47.
 
-634. Saptasłgaraka, a mabedane, 877. Sarabhsāga, entered firo, 927. Stradatilaka, on mudrās, 321; on 
+Varṇa-dharma, meaning of, 2.
 
-propa pretiṣtha of images, 900n. Strastata, brābmagas of Punjab, 
+Varṇas: duties of Veda study, Vedic sacrifices and making gifts enjoined on all three, 105; means of livelihood of the three, 105; only [[P1352]] four and no fifth, 167; privileges and duties of, occupy large space in dharmaśāstra works, 105.
 
-bare 470 sub-divisions, 1030. Strasfata-ip.a., 667. Sarasvati, river, 12; disappearance 
+Varṇasaṁkara, applies to both anuloma and pratiloma progeny, 60; causes of, 60; had gone too far in the Mahābhārata times, 61; meaning of, 59.
 
-of, 13; reasons for disappearance 
+Varṇāśramadharma, 3.
 
-of, 140. Sarasvati, goddess, described as all 
+Varṣakriyākaumudī, 156n.
 
-white by Dapdin, 726. Barasvativildda, 70. Sarayu, mentioned in Rgveda, 12. Sarkar, Golap Chandra, 453n, 916n. Sarkar, Dr. 8. C., 821. Sarpabali (offerings to serpents), 
+Varṣavardhana (vide *abdapūrti*): a saṁskāra, 196, 258–260.
 
-821-824. Sarparkjör mantras, 994n. Suryadarkanasamgraba, 369n. Sarvajña-Narayane, com. of Mano, 
+Vārtikas of Kātyāyana on Pāṇini, 93, 98, 242n, 251, 340, 371, 714.
 
-630, 990n, 426, 779a, 780n, 796. Barvasvāra, a oneday soma sacrifioo, 
+Varuḍa, vide under buruḍa, 95.
 
-in which the sacrificer committed 
+Varuṇa: lord of waters even in the Ṛgveda, 667, 890; lord of the west, 890; spoken of as upholder of vrata, 39n.
 
-suicide by ontoring fire, 1213n. Sarvaugadhi, ton herbs are so called, 
+Varuṇapraghāsa, 1095–1100; avabhṛtha (bath) by priests, sacrificer and wife on conclusion of rite, 1099; etymology of, in Śat. Br., 1095; four additional offerings in this rite, 1096; performed four months after Vaiśvadeva on full moon day of Āṣāḍha or Śrāvaṇa, 1095; pots of karambha and figures of a ram and ewe got ready, 1095–1096; two altars prepared to east of āhavanīya, one to north and the other to south in charge of adhvaryu and pratiprasthātṛ respectively, 1095; wife had to confess if she had a paramour and in spite of confession was allowed to participate in, 575–576, 1098.
 
-8740. Santras, belong to and follow stotras, 
+Vāruṇī, verses, 317n, 955, 957n.
 
-1181 ; distinction between stotras and s. 1181; olomonts connected with, 1181 ; Sastra culled Prauga, 1185 ; twolve, in Agaiptoma, 1181 
+Vaṣaṭkāra, 1058–1059; pronouncing of, was a mystic matter, 1059; to be uttered only by day, 1059; uttered at end of all yājyās and in anuyājas, 1058.
 
-1182; Bata patha Brahmaga, 6, 12, 35, 37, 
+Vasiṣṭha, cow of, carried away by [[Viśāvmitra|Viśvāmitra]], 41.
 
-89, 40, 106, 229, 268, 270n, 2711. Batarudriye, texts purify a man, 686. Satatapa, 172, 174n, 175, 302, 468, 
+Vasiṣṭha, dharmasūtra of, 1, 6n, 10, 13, 34n, 55, 59, 61, 67, 278 &c.
 
-471, 4970, 664, 716, 762, 862 &c. Batavalekara, Pandit, 1171. Satr (Belf-immolation of widowe), 
+Vasiṣṭha, 226; subdivisions of gotra of, 490.
 
-674-686; doty to become sati common to all women from braba mage to cagdala according to Mit. 891; in opigraphio rocorda, 629; 20 dbarmasutra exoopt Vippa's rofors to, 626 ; moro provalent in 
+Vāsiṭhīputa Siri-puḷumāyi, 61.
 
-Bengal than ellowhore, 636-636 ; DO Vedic passage nor sur passage about widow burning, 625; number of katie larger in Bengal on Account of the rights over proporty granted to women, 688 ; ponando for giving up at the last momont tho rosolve to becomo natt, 633; praction of, torbidden by law in India from 1829, 624 ; Practice of, originally confipod to kings and pobles, 627; proceduro of, 633-686; rostrictions against all widows boing, 633; rewards pro mised for, 631-632 ; some texta forbid solf-immolation of brah mana widows, 627; was not a practice imposed consciously by mon on onwilling womon, 630; writers of medieval India opposod 
+Vasordhārā, a rite in Agnicayana, 1253n.
 
-to practico, 631-632. Battra : daorifico could be performod 
+Vāstoṣpati, a god, 834n.
 
-only by brahmagas, except thoso of Burgu, Saunake and Vabistha gotras, ¡163, 482; genoral rules about, 1241-1242 ; observances for performers of, 1943; saorition lasted from 12 days to a year or moro, 
+Vāstu-pratiṣṭhā (construction and occupation of a new house), 833–836; examining the site for a building, 833; procedure of vāstu-yajña, 834–835; v. yajña has to be performed five times in relation to a house, 834.
 
-1239; subdivisions of, 1239-40. $at-trimsan-mata, a work, 169, 6660. Satyabhama, quson of Krona. wont 
+Vāstuśānti, 834; procedure of, 835.
 
-to e forost on Krppa'death, 923. Satvata, samo as Karusa, 97. Satyakima Jabala, 247, 273, 285-286 
+Vasudeva (father of Kṛṣṇa): wives of, burnt themselves with his dead body, 621.
 
-307, 312, 329, 549n, 406. Satyaṣadba, Srautasutra of, 46, 483, 
+Vāsudeva, was not according to Patañjali, a mere kṣatriya, but an avatāra, 710.
 
-684, 994n, 9980, 1005n, 10090, 
+Vāsudeva (see under 'Viṣṇu'): is charged with having married his maternal uncle's daughter, 459–460; is said in the Mahābhārata to have had 16000 wives, 553; images of, worshipped in times of Pāṇini, Mānavagṛhya, Āp. Dh. S., Gaut. and others, 709–710; said to have been drunk with wine along with Arjuna, 795–796.
 
-1015a, 1019, 1020n &o. Sadon (cleansing): diffors in dogres 
+Vāsudevopaniṣad, 673.
 
-according to framh, 660; night timo requires half of that in day timo, 650; of two kinds, external and internal, 661; sub-divisions 
+Vātsyāyana, author of Kāmasūtra, 9, 367.
 
-of, 661. Sandhanvana, vido Rathakata, 100. Saunaka, 199, 306n, 306, 401, 764. Saunaka, tarpana offered to, 691, Saunaka, author of Bk-Prātidakhya, 
+Vāṭadhāna, a caste, 95.
 
-691 ; touobor of Advaldyana, 891. 
+Vatsa, 520n.
 
-General Index 
+Vātsapra, a hymn, 233, 1006, 1249.
 
-1339 
+Vāyupurāṇa, 2n, 17, 66n, 87, 99, 302, 308, 314n, 323n, 325n, 355, 381, 445 &c.; on gotras and pravaras, 484; recitation of, to Bāṇa, 800.
 
-Saunaka-karika, a work, 221, 611, | Sbadow, of whom polluting, 173; of 
+Veda (see 'hymns'); become latent at dissolution and manifest at creation of world, 353; breath of the Great Being, 353; eternity of, interpreted in several ways, 353; memorizing of, most highly thought of in medieval times, 358; means mantras and Brāhmaṇa works, 352; one who merely commits to memory without understanding it, strongly condemned, 357; meaning [[P1353]] of, cannot be known according to some orthodox brāhmaṇas, 358; not to be allowed to be forgotten, 358; śākhās of, 354n; sellers and writers of, severely condemned, 349; study of, destroys sin, 358; study of, till godāna saṁskāra allowed by Bhāradvāja, 352; study of, first duty of every dvijāti, 327, 356; study of, included knowledge of its meaning, 356; study of, involves five things, 357; whole universe is supposed to emanate from, 352–353.
 
-537. 
+Vedas: deemed to be eternal and not composed by any human author, 352; emphasis on the correct accentuation of, 347; endless in extent, according to Tai. Br., 271; eulogy of the study of, 327; extent of, according to Mahābhāṣya, 327; four, 327; *japa* of some hymns of, purifies man of his sins, 350; method of teaching, 325–326; one may study only one of the v. that was studied by his forefathers, 328; originally father taught son, 108, 273; repeating veda in pada, krama, jaṭā formations, 347; reviling of, a great sin, 359; study of, is called *tapas* by Tai. Up. 356, 105–108; study of, the highest dharma of a brāhmaṇa, 107–108; study of, to be preferred if in conflict with agriculture, 125; teaching of, special privilege of brāhmaṇas 108–110.
 
-wbom sbould not be crossod, 173. Baundika, 97. 
+Vedāṅgas, six, 354, 323n, 768.
 
-Sham Sastry, Dr., 1245 Saudika (same as Sunika ), 99. Shaving, prodoribed on sevOD 0008 Sautr&maṇi: performed for one who 
+Vedāṅgajyotiṣa, 28 nakṣatras in, 247.
 
-sions, 591. bad drunk too muoh soma or at the 
+Vedāntakalpataruparimala, 917n, 936n, 963n.
 
-Sberring, 1030, 104, 7220; condem ond of Rajasūya or cayana, 793, 
+Vedāntasāra, a work, 961n.
 
-nation of casto syetom by, 21; 1227; preparation of Sura in, 
+Vedāntasūtra, 32n, 36, 83, 155n, 166n, 316, 352, 353n, 354n, 356, 422, 424, 712n, &c.
 
-exaggerates by mistake number of 1226–26; procedure of, 1224-1228; 
+Vedi, construction of, in darśapūrṇamāsa, 1034–1037; construction of, in paśubandha, 1112–1113; eastern corners of, are called *aṁsa*, 1034n; figure of, compared to a young lady's, 1034n; making an uttaravedi with earth from cātvāla, 1112–1113; measurements of, 1034n; measurements of, in paśubandha, 1112; on uttaravedi a square hole called *nābhi* is prepared, 1113; sphya used in sweeping, 1035; western corners are called śroṇi, 1034n.
 
-oastos, 24 ; thought that custo Bacrifice freos a son from debt due 
+Veda-vrata, 370–374; saṁskāra according to Gautama, 370; names and procedure of four vratas differed, 370; went out of vogue, 373.
 
-system was invented by brūhma to mother, 680; sacrifice in which 
+Veda-Vyāsa, 15, 71, 76, 78, 79, 81, 159, 194, 196, 437, 559, 563, 627 &c.; enumerates twelve castes as antyajas, 71.
 
-pas, 210. Burt was offored and romnants of 
+Vedic Index, 107n, 499, 509n, 554n, 608n, 707, 1106.
 
-Shivaji (106 ander Panditrao '); the latter were drunk by a brah 
+Vegetables, allowed and forbidden as food, 583–584; touch of certain, entailed bath, 170.
 
-claimed Rajput lineage, 380n ; maga hired for tho purposo, 793, 
+Velava, a caste, 95.
 
-established & council of eight 1226; two kinds of, 1224. 
+Veṇa (or Vaiṇa), a caste, 95.
 
-ministers, 972; foundor of Mara. Sauvirs, country of, 14. 
+Veṇīsaṁhāra, a drama, 296.
 
-tha Empire, 379, 972, 975 ; had his Savitri, Dropada, 661. 
+Veṇuka, a pratiloma caste, 95.
 
-upanayans porformed by Gaga Savitri, ideal of womanly virtuo in 
+Veśyā, (courtezan), 637–639; constitutes a separate class according to Skandapurāṇa, 638; institution of, existed from the times of Ṛgveda, 637; origin of, in Skandapurāṇa, 638; punishment for having intercourse with a concubine kept by another, 638.
 
-bhatta at 45, 379n. Iodia, 568 ; story of, who brought 
+Vicitravīrya (see under 'Vyāsa'), 603; protege of Bhīṣma, married at the same time two daughters of king of Kāśī, 501n, 523.
 
-Siddhantas, gifts of works called, back dead husband from Yama, 
+Videgha Māthava, story of, 12.
 
-883. 567. 
+Vidura, possessed knowledge of brahma, though a śūdra, 36, 156; was buried as an ascetic, 945.
 
-sikhā: one cutting off through bate Savitri, mentra, 283; mothod of 
+Vidūra, the progeny of him who leaves off saṁnyāsa became cāṇḍālas and are called, 947.
 
-or foolishness had to undergo ex teaching, 283, 300-301 ; some pre 
+Vidyārambha, a saṁskāra, 197, 265–267.
 
-piation, 264-265; religious acts scribed different vor808 according 
+Vidyāraṇya, 391.
 
-done without, becomo uselona, 264; to varga, 902 : toaching of, post 
+[[P1354]] Vidyārṇava, 195n.
 
-rules about koeping looks of hair poned for some time aftor upa 
+Vidyās, fourteen or eighteen, 355.
 
-according to gotra, 264, nayana in ancient days, 300. 
+Vidyāsūkta, 107, 330.
 
-Śilalin, author of a Natasutra, 84. Sāvitrīpraveda, in the proceduro of Silappadikāram, an ancient Tamil 
+Vihavya, hymn, 1011.
 
-Barny.ka, 9540. 
+Vijanman, (same as Kāruṣa,) 95.
 
-work, 719, 870. 8ayana, 260, 2889, 386, 4180, 688, Simānta pujada, a ceromony preli 
+Vikramāṅka-devacarita, 524.
 
-617, 8370, 9887, 990n, 991n, 993n, minary to marriago, 535. 11460, 1250n. 
+Village (grāma), defined, 875n; king to appoint headman for a, 868.
 
-Simantopnayada, 196, 222-226; . Scheduled Castor Order of 1936, 69, samskors of the woman, 226; great 
+Vinaśana, place where Sarasvatī disappeared, 14, 14n.
 
-177. 
+Vināyaka (see under Gaṇeśa): Ambikā, mother of, 214; mentioned in Mānavagṛhya, 214; rite for propitiating, 214; said to be four or six, 214; stages in cult of 214–215.
 
-divergence among gļhya-8Utrar Sohweitzer, Dr. A., 723. 
+Vipāś, river in Ṛg., 12.
 
-about, 223-224; rito maialy of a Sootariaan, advice to given by 
+Virajā-homa, in taking saṁnyāsa, 959; procedure of, 959.
 
-social and festival nature, 223; Smṣtimuktaphala that God is one, songs in, 224-225; time for, 223. 675. 
+Vīramitrodaya, 70, 71n, 151, 198n, 349n, 508, 600n, 643, 915.
 
-Simon Commission Report, 179. Solf, 000, immanent in all, 7. Simon, Dr., 1169n. Solf-defence, right of, against one 
+Vīrāsana, a yogic posture, 937.
 
-Sindhu, 18; seven, in Rg., 12. guilty of cortaia crimes, 148-149. Sindolika, a caste, 103. Sonart, 447 ; on characteristios of Sing, iro grave, condemnod by Cbao, 
+Virāṭaparva, 494, 626.
 
-canto, 23. 
+Virtues, why to be cultivated, 7–8.
 
-Up., 6, 147-148, 794 ; gtavost, Sorpents, born of Kadru from Kader could be expiatod, 620; supposed 
+Viṣṇu (see under 'avatāras', 'Vāsudeva'): earliest detailed description of worship of, 726–727; flowers recommended in worship of, 732; four *vyūhas* (aspects) of, 917, 954; gradation in merit secured by offering flowers of various kinds to, 732; made earth steady, 719; Mahābhārata teaches identity of Śiva and, 725; names of, taken in ācamana, 653; one thousand names of, 725; śālagrāma stone in worship of, 715–716; supposed to go to sleep and be awakened respectively on the 11th of the bright half of Āṣāḍha and Kārtika, 396; ten avatāras of 717–724; took three steps, 719; twelve names of, associated with twelve months, 250; twelve names of, in devapūjā, 728; twenty-four names of, in saṁdhyā, 315 and n; ūrdhvapuṇḍra mark made on twelve parts of body after taking twelve names of, 673.
 
-yapa, 830n; damos of,in Atharva. to be expiated by gifts, partion. voda, 823 ; said to be the progony larly of land, gold and cows, 859. of Kasyapa, * Prajapati, 830n; siggas, qualifioations of, 971-972. worship of, very Ancient, 823. Sidupalavadba, 6460, 726. 
+Viṣṇubali, a saṁskāra, 196, 226–227.
 
-1340 
+Viṣṇudharmasūtra, 9, 11, 15, 52n, 53, 56, 58, 67, 75, 219, 247n, 293n, &c.; is the first sūtra to recommend self-immolation to widows, 626.
 
+Viṣṇudharmottara, 112n, 266n, 713, 715, 725, 842, 858.
 
+Viṣṇukramas, 1083, 1218.
 
-Bitx, ideal of Indian women, 568; 
+Viṣṇu-purāṇa, 6n, 9n, 17, 93, 158n, 189n, 251n, 355n, 359n, 380, 395, 438, &c.
 
-Daine of, holy, 648; kvayenvara of, 623. Sitayajõe (sacrifice to ploughed 
+Viṣuva (when day and night are equal) 395–396.
 
-land), 820-821. siva (see ander Rudra): a half 
+Viṣuvat, day in Gavām-ayana, 1240 and n.
 
-male and half female, 725; as yogin at Mohenjo-daro, 724; bull 08 Convoyance of, 725; flowers commended in wor- ship of, 732–733; fourteonth of dark half, sacred to, 738 ; images of, referred to by Patanjali, 710; Mababharata teaobes identity of Vipnu and sive, 725; mantras in worsbip of, 737-738; one thousand names of, 725; procedure of worship of, 728-729; wearing of rudrakpa rosary by devotees of, 788; with five aspects or mouths, 725; worship of, most anciont, 724; worsbipped in the form of 
+Viśvacakra, a mahādāna, 876.
 
-linga or image, 737. siva-bhagavata (devotee of siva) 
+Viśvajit sacrifice: one cannot give away one's wife and children in, 508, 850; one gives away everything in, 46, 1212n; performer of, had to stay in a settlement of niṣādas for some time, 46, 481, 1212n; performer of, had to stay with brāhmaṇas of same gotra for a year, 480; sovereign cannot make a gift of whole earth in 850, 865; śūdra who merely serves as a duty cannot be given away, 850.
 
-mentioned by Patañjali, 736. Skandapurāṇa, 112a, 117, 484, 565, 
+Viśvakarman Bhauvana, made a gift of the earth to his priest Kaśyapa, 840.
 
-568, 585, 7150, 854n. Slavos: brahmans cannot be made Blave of even & brahmana, 186; debt contracted by 8. when binding on master, 187; extent of corporal pudiebment allowed by Manu, 182; gift of, entailed expiation, 181; gifts of, very frequent in the Mahabbārata, 182 ; how became free, 185; kinds of, 183-184; master to treat bumanoly, 182; punish ment for selling relatives and children an, in Kautilya, 184; result of master having inter 
+Viśvāmitra: became priest of Triśaṅku, 109; carried off cow of Vasiṣṭha, 41; cursed his fifty disobedient sons to be Andhras, Puṇḍras and Śabaras, 47; sub-divisions of gotra of, 490; treated Śunaḥśepa as his son, 47.
 
-course with female, 186. Slavery, 180-187; abolished in British 
+Viśvarūpa: had three heads, 792–793; Indra killed, 147, 801; purohita of gods, 40.
 
-Donninions in 1833, 180; an insti tution in all anoiont countries, 180; in England and America, 180; in the Rgveda and Vedic literature 
+Viśvarūpa, 11th chapter of the Bhagavadgītā is so called, 962.
 
-181-182 ; Kautilya 0o, 183-184. Sloop, 800-801 ; five persons famed 
+Viśvarūpa, com. of Yājñavalkya, 14n, 15, 45, 54, 58, 59, 141, 150, 159, 205, 239, 268n, 304n &c.; held to be identical with Sureśvara, 944; views of, in com. on Yājñavalkya are opposed to view of Bṛ. Up. bhāṣyavārtika, 944.
 
-as having very sound, 801 ; rulos 
+[[P1355]] Viśvarūpasamuccaya, 456n.
 
-about bed for 800 ; Wbo was not to 
+Vītahavya, a king, became a brāhmaṇa, 496.
 
-sleep on a cot, 801. Smoking, of medicinal-herbs aftor 
+Vitaraṇī 14n.
 
-meals in ancient times, 799. Smīticandrika, 30, 6n, 187, 660, 76, 
+Vitasti, a measure of length, 209n.
 
-110, 111, 1930, 194, 197n, 219, 
+Vivādaratnākara, 66n, 580n, 872.
 
-254, 277n &o. Smṛtikaumudi, 72. Smṛtimuktāphala, 1970, 1990, 319, 
+Vivāha, 197.
 
-320, 438n, 4430, 462, 501, 522n, 
+Vivasvat, a smṛtikāra, 926n.
 
-585, 6310, 643, 6470, 669n &c. Smśtis, emphasize that the first duty 
+Vratas (see under Veda-vratas): as saṁskāras, 197, could be performed by śūdras, 159.
 
-of a dvijāti is to study the Veda, 356; object of composition of, & practical one, 51 ; opposed to fruti to be discarded, 351 ; postulate sain kara as origin of numerous castes, 51; propositions whioh all or most assume, 51-52; rule in case of conflict of smitis, 464; rules in, based on sruti according to Par. M., 697; Sabara makes fun of, as 
+Vrātika, a *vedavrata* for brahmacārin, 371.
 
-to long brahmacarya, 351, Smṛtitattva, extensive digost, by 
+Vrātyas, 96, 376; could be purified even after twelve generations, 387; glorified in Atharvaveda, 386; meaning of, in Baudhāyana and others, 59, 96; what they were like, 386.
 
-Raghunandana, 474. Smrtyartha-sāgara, of Chalari, 674 ; 
+Vrātya-stoma: described from Tāṇḍya Brāhmaṇa, 385; for purifying *patitasāvitrika*, 377.
 
-supports branding of body with marks of Viṣṇu's weapons, 674. Smṛtyarthasara, 53, 57, 175, 188, 
+Vrātyatāprāyaścittanirṇaya, a work of Nāgeśa, 381, 953.
 
-194n, 199, 221, 741, 743, 744 &o. Suana (bath), 658-668; brief pro 
+Vrātyatā-śuddhisaṁgraha, 385.
 
-cedure of, 663-664 ; clay to be omployed for cleaning the body, 664 ; overy day bath with cold water, 660; method of bath for one who ia ill or for a woman who is ill while in inenstrual period, 667; mid-day bath, ingredients &C companying, 659; no bath with oil on certain days, 666 ; not allowed at night, except on eclipses, asa uca, vrata otc., 659; onco everyday is obligatory on all, 658; of rivers (not directly going to sea ) to be avoided in rains, 660-661 ; procedure of, 661-663; rules at bath, such as not being Daked &c., 664; ten consequences of, 664 ; thrice for yati, 658 ; touch 
+Vṛddha-Gārgya, 276.
 
-General Index 
+Vṛddha-Gautama, 101, 117, 126, 314n, 349, 355, 651, 677, 732, 846, 895, &c.
 
-1341 
+Vṛddha-Hārīta, 121, 126, 148, 170, 176, 292n, 293n, 302, 315, 320, 563, 567n, 584 &c.
 
-of oortain persons or after doing l: of soms with two palaba branches, 
+Vṛddha-Manu, 206n, 605, 760.
 
-certain acto entailed a bath, 669 ; 1144; subrabmagya litany 11440 at wioe for brabmaṇa householder and 1145 ; substitutes for, 1202 
+Vṛddha-Vasiṣṭha, 653.
 
-according to some, 668; various | 1203; things offered in exchango kinds of, 658,664-667; with ama- for, 1143n. laka fruit for prosperity, 666; with Soma sacrifice: classified into skuha, water from another's well to bo ahina and satira, 1133; DOVOD taken under certain restrictions forms of, 194, 1133, 1204 ; 8 peoula for fear of partaking of his sin, tivo theories about origin of, 1202. 660. 
+Vṛddha-Yājñavalkya, 169, 384.
 
-Son, born of marriage in approved Snāna (see under samāvartana ) form supposed to be ondowed with 
+Vṛttis (means of livelihood): five kinds of, according to Manu, 130; ten kinds of, according to Baudhāyana, 130.
 
-Bame as samā vartana according to virtuos, 524; born of the difføront some, 197. 
+Vyādha, a caste, 96.
 
-approved forms purified different Snālaka,distinguished from brabma- number of ancostore according to 
+Vyāghrapāda, 174, 651.
 
-odrin, 406 ; not to address his tea- sm;tis, 524; bought, gunahdepa cher by pamo, 334; rules of conduct being an example, 507; called a pavi for, 412-415 ; tbreo kinds of, 407; ddha, 507; Manu says that woulth was offered madbuparka when be acquired by gon belongs to the came as a guest, 542. 
+Vyāhṛtihoma, 199n.
 
-father, 507; one who bao no son Social service, moaping of, 4n, does not reach heavenly worlds, Sodasa-stoma, 385-386; froes vrātya! according to Mahabharata, 799 ; 
+Vyāhṛtis, 301n.
 
-from sin, 386. 
+Vyāsa, a cirajīvin, 648; advised Yudhiṣṭhira to perform Aśvamedha, 1237–1238; was appointed to raise issue from the widows of Vicitravīrya, 603, 605.
 
-saves father from put hell, 661; 
+Vyāsa, 174n, 236, 313n, 324n, 356, 357, 471, 646, 760 &c.; four pupils of, 964; on rules about grants of land, 861.
 
-several sons desirable so that at Sodasin, & form of soma sacrifice, 
+Vyatīpāta, one of the 27 *yogas*, 852n.
 
-least one may go to Gaya, 561; 1204–1205. 
+Vyavahāramayūkha, 151, 186, 462, 470, 500, 509, 714n, 860n, 866, 1107n.
 
-was supposed to free father from Soma, presidiog deity of clothes in 
+Vyuṣṭi-dvirātra, two rites called V. in Rājasūya, 1222.
 
-debt to ancestors, to secure immor gifts, 855. 
+Water: for *arghya*, how mixed, 731; is to be touched after reciting a mantra referring to evil spirits or touching one's body etc., 1023n; rules about, to be employed in worship of gods, 730–731.
 
-tality and heaven, 560-561. Soma : animals offered in principal | sopaka, a low caste, 100. 
+Wealth: divided by Nārada into three kinds, 130; kṛṣṇa, what is, 130; śabala, 130; śukla, 130; three modes of acquisition of, common to all, 130; three special modes of acquisition of, for each of the three higher varṇas, 130.
 
-soma sacrifice, 1174; becaine une Sosyantikarma, & rite for a woman obtainable in tbe days of Brahma- about to be delivored, 196, 227-228. ṇas, 1202 ; description of cow with 
+Weapons, eight, 876n.
 
-s Soul : eight qualities of, 6; daya, at wbich soma was to be purchased, 
+Weber, 722n, 977, 1223n.
 
-the top of all qualities of, 6n; 1142; dialogue between adhvaryu 
+Well, dedication of, to public, procedure of, 890–892.
 
-higbest value attached to moral and vendor of, 1143; food of qualities of, 7; survival of, aftor brabmaṇas and not of kpatriyas, death, denied by some, 3690; 29 ; goat as a prosent when cart of transmigration of, in the Rgveda, soma brought to yajda puvilion, 717-718. 1146; babitation of, 1202 ; is said 
+Westermarck, 160, 165n, 180, [[457|477]], 509, 606, 625.
 
-Special Marriage Act of 1872, 461, to have married Surya, 526; king 621; forbids marriages between of brahmaṇas, 139; not drinking persona descended from a common for three generations ontailed ex- QDcostor within certain degroes, piation, 108n; no question of 465-466, 499; makos Indisa Di being ucchiata arises when vossola 
+Widow (see 'divorce' and 'remarriage'): burning of, among Greeks and Scythians, 624n, 625; did not apply eye-salve and simply tied her hair, 584; duties of, 583–587; entitled only to maintenance in joint Hindu family except in Bengal, 635; gotra of, at time of remarriage, 614; had greater power of alienation for spiritual benefit of husband, 889; had no right to succeed to sonless husband in ancient times, 581–582; kṣatriya, did not tonsure her hair, 589; not to chew betel leaves nor to take meals in vessel of bell metal, 584; position as to property improved by recent legislation, 586–587; remarriage of, 608–617; right of widow, to maintenance, 586; sight of, most inauspicious (except of one's [[P1356]] mother), 585; tonsure of, among brāhmaṇas, 587–593; tying up of hair into braid by, leads to bondage of deceased husband, 585; was to take only one meal a day, 585.
 
-vorce Act applicable, 621. are filled with soma, 1177n; not to Spengler, 138. be drunk by ksatriyas, 1179; 18- 8pbya ( wooden sword ), 985; used lation of soma plant to moon, in swooping Vedi 1036, 1036. 1202; show of force in taking soma sraddba, fresh offered to pitṇs in,780. from the vendor of some, 1143; frāmanaka, firo so called, 9100; is subrahmanya priest drives the cart! Vaikhanaga &stre, 917.194% 
+Wife (see 'husband', 'marriage', '*pativratā*'): cannot desert even a *patita* husband, 620–621; conduct proper for wife, whose husband has gone abroad, 565–566; co-operates with husband in sacrifices, 429, 556; could not lodge a complaint against husband and *vice versa*, 574; could not perform sacrifices or vratas independently of husband, 559; does in sacrifices only those acts which she is expressly authorized to do, 1000n; duties of 562–565; eldest wife to co-operate in religious matters with husband or wife of same caste, 584; eulogy of, 428–429, 575; goal of the life of woman was declared to be to marry and procreate sons, 561; foremost duty to obey husband and honour him as god, 561–562; grounds on which in modern times wife can refuse to reside with husband, 570; is girt up with a cord in śrauta rites to make her fit for participation, 1040n; is half of a man, 428, 584; is the home, according to Ṛgveda, 428; lenient and harsh punishments for adultery of, 575; man not complete without wife, 428; mutual rights and duties of husband and wife, 556–582; no ownership of husband in, 508; no separation between husband and, 429; not liable for husband's debts, 573; part of, in śrauta sacrifices became less and less, 1000n; played a very subordinate part in sacrifices, 367–368; property of, free from control of husband, 573; punishment of, for adultery, 571–572; rewards promised to chaste wife, 566–567; rights of residence in husband's house and maintenance, 568; rules for precedence among several wives, 559–560; śūdra wife not to be associated with, in religious rites by *dvijāti* husband, 559; was cremated with the vedic fires and sacrificial utensils of husband if she died before husband, 558; was to learn vedic mantras required in sacrifices from her father or husband, 1041n; was to be guarded from lapse by devotion to her and not by beating her, 569; was to look into the clarified butter to be offered in sacrifices and to repeat a mantra, 1042; wealth acquired by, belongs to husband according to Manu, 507; what wife was to do when husband went abroad for many years, 612–613; wife who drinks liquor may be abandoned, 797.
 
+Williams, Prof. Monier, 195n.
 
+Wills, germ of, in Kātyāyana's rules about gift to a brāhmaṇa promised but not carried out, 887–888; in favour of brāhmaṇas or religious institutions not made in India, 118.
 
-Áranta (Vedic) sacrifices, 076f; , stbandila (altar ), how prepared, 
+Wilson, Dr. John, 103n, 175, 509n.
 
-doep study of, neoculary for pro- 208-209. perly understanding Vedic Litera- Stones, fire kinds of, asod in worn turo, for obropology, 976. 
+Wilson, Prof. H. H., 625n, 635n, 722n, 948n, 949n.
 
-ship, 716. Srauta padartha-nirvacana, 1016n. 
+Wine, see 'drinking'.
 
-Stotras ( 886 'Babiṇpava mane'): are Srauta- outras: contain detailed and 
+Winternitz, Dr. 215, 446, 509n, 583n, 604n, 607, 608n.
 
-cbanted in certain groups, 1182 ; socurato descriptions of Vodio 
+Witness: brāhmaṇa could not be cited by a non-brāhmaṇa as, unless he had attested a document, 152; to be sworn before images of gods, 709; who could not be cited as, 152.
 
-are chantod nour the audumbarı Baorifoes, 980 ; goneral rules about 
+Wives of Gods: Patnīsaṁyāja offering to, is made in a screened space, 1077; region of, is to west of gārhapatya in sacrifices, 1041n.
 
-post in Sada. oxoopt the Bahiṛpa sacrifices in, 982-986. 
+Women (see 'gotra', 'marriage'): and education, 365–368; and upanayana, 294–296; as composers of Vedic hymns, 365; as teachers, 366; by marriage enter husband's gotra, 463; charged, in smṛtis [[P1357]] with serious moral defects, 577–578; could become vānaprastha, 923; defence of women by Varāha, 579; dependence of, 577; deserve honour according to the ages of their husbands, 342; estimate of character of, 574–581; marriages of, performed with vedic mantras, 295; names of five holy women to be taken every morning, 648; not to be killed for any reason (except in one or two cases), 575, 593–594; not treated with contempt everywhere in Indian Literature, 511; position of, 574–578; position of, became assimilated to that of śūdras, 594; privileges of, 595–596; punishment of cutting the nose or ear for adultery by, 594; purification of, when raped, 575; rights of, to property increased in medieval times, 581–582; rules about showing honour to, 342–343; rules for women when in their monthly illness, 803–805; sarcastic references to, even in Vedic times, 368, 575, 576; sight of, in a dream, very auspicious, 511; women sages in tarpaṇa, 691; status of, as to education better in ancient times, 365–366; two classes of, 294; usages and unwritten dharma to be learnt from, 367; were assigned position of dependence, 367; were equated with śūdras 367–368; were to be taught certain vedic mantras, 300, 366–367; where women honoured gods love to dwell, according to Manu, 511; whether w. wore yajñopavīta, 294–296.
 
-Famāna, 1185; Babippavamada is Brāvani (160 under sarpa-bali) 821. 
+Word, relation of, to sense is eternal, 352.
 
-the first stotra in Agniṣtome, 1182; śroni, moaning of, 67-68. 
+Works, of public utility, highly commended, 889–890.
 
-8. called ajya, 1185; cboristers in śrrkara, commentator of Vedanta obanting stotras aro sacrificar and Batra, 946; says that nyasa (aban- four other priests, 1168 ; devatas donment of worldly desires) is of, are determined by the nidha possible for women and sudras, nas, 1170a; divided into two kinds, though not sechnyāsa, 946. 
+Yadus, 39.
 
-pavamana and dhurya, 1167, 1168; Srikruhe, commentator of Daya- each sānan verse in, has five parts, 
+Yāga (see under yajña): constituted by *dravya*, devatā and tyāga, 983; distinguished from *homa* and *dāna*, 714n, 983.
 
-bhaga, 474. 
+Yajña: five operations to be performed on the āhavanīya mound in all iṣṭis or other rites, 986; fundamental conception of, goes back to [[Ind-European|Indo-European]] antiquities, 978; legend that Yajña escaped from gods and wandered about as a black antelope, 1026n, 1166; madhuparka offered to priests in, 543; main features of, evolved even in times when Ṛgveda was composed, 980; many words connected with yajña common to Vedic and Parsi books, 778; pātras (utensils) required in, 985n.
 
-1169 ; madhyandina-pavam8n8 srisukta, 898. 
+Yajñatanū, 33 offerings on last day of Agniṣṭoma, 1161.
 
-stotra, 1187; marking of acoents, srāgori, matba at, established by 
+Yājñavalkya (see under Janaka): and cow's flesh, 773; and Gārgī, 365–366; and Janaka, 181, 365; and Maitreyī, 365, 930; had two wives, 551, 930; learnt from king Janaka, 105; left home, wives and began to beg when he became *parivrājaka*, 930.
 
-1172; method of introducing, 1167; Samkar&cārya, 907. 
+Yājñavalkya-smṛti, 3, 10, 18, 45, 52n, 53, 54, 55, 57, 64, 73 &c.
 
-method of chanting to the movo 
+Yajñāyajñīya-sāman, 996, 1185; also called Agniṣṭomasāman, 1195; last stotra in Agniṣṭoma, 1195; sacrificer's wife is brought near udgātṛ who looks at her and asks her to go, 1195.
 
-ments of thumb and fingers, 1173; Srivaippavaa, 593. 
+Yājñikadeva, com. of Kātyāyana-śrauta-sūtra, 1092n.
 
-most of, taken from Rgveda, 1172; Srus, description of, 984-986; three 
+Yajñopavīta (see under 'kṣatriyas', 'women'): devatās of the strands of, 292; history of, from ancient times, 287–291; how manufactured, 292, 296–297; kṣatriyas and vaiśyas wore in 17th century, 292; length of, 292; mantra at time of putting on, occurs in Baud. Gṛ. first, 284; many sūtrakāras say not a word about it in upanayana, 284; manufactured by maiden to be preferred to one by a widow, 291n; material from which to be manufactured, 292; mode of wear[[P1358]]ing sacred thread in *tarpaṇa*, 690–692; number of, differed according to circumstances, 292–293; prāyaścitta for loss of, 374; procedure of putting on, 297 and n; religious acts done without wearing y. became futile, 293; taking meals without wearing, made one liable to expiation, 293; whether women wore, 294–296.
 
-notations of, differ in mes and kinds of viz. juhu, apabhst and 
+Yajuṣpavitra, is a mantra 378n, 728.
 
-sakhas, 1172-1173; place of chant dururk, 985; Alling the threo druo 
+Yājyā (offering prayer), 1058–1059; is preceded by 'ye yajāmahe' and followed by *vaṣaṭkāra*, 1059.
 
-ing Babiṛpa vamāna, 1167-1168; with clarified butter to the accom 
+Yama, 60, 70n, 81, 89, 91, 110, 127n, 216n, 217, 251, 256, 260 etc.
 
-position of the saman chantors, paniment of mantras, 1042-1043; 
+Yama (God of death): river Vaitaraṇī in his realm, 879; tarpaṇa of 695.
 
-1167, 1186; prastotr udgāty and oleansing the three sruo with tips 
+Yamunā, mentioned in Ṛg., 12; invoked in a verse repeated in Sīmantonnayana, 224n.
 
-pratihart; cbant, 1167; stobbas in, of kubat, 1039; yajam\#pa addrosses 
+Yāska (see under Nirukta also), 26n, 75, 582, 1105, 1118n.
 
-1183, maatras to the threo sruc when 
+Yati (see under Muni): heads of yatis became date palms according to Tai. S. 419; Indra is said to have thrown y. to the wolves, 419; Indra is said to have taken three yatis under his protection, 419; meaning of, in Ṛgveda, 418–419.
 
-Stotriya, a triplet, forms part of be places jubu on prastars and tho 
+Yatidharmasaṁgraha, 931, 933, 947.
 
-somo Sastras, 1186. otbors near it, 1045. Brava, description of, 984; ladle to 
+Yaugandhari, king, song in praise of, at Sīmantonnayana, 224.
 
-Strabo, 183, 5180, 626, 777, 798, 928. be used in all gibya ritos, 208. Strangways, Mr. A. H. Fox, 1171. Stato, in pot, according to ope view, Striparta, 93, 589, 598, 626. 
+Yavanas, 92–93; generally associated with Śakas, 93; Manu on, 47; meaning of, disputed by scholars 384; occur frequently in Mahābhārata, 384; mention of, in inscriptions, 384; pratiloma caste according to some, 92; regarded as śūdras by Patañjali, 93; rules of conduct prescribed for, by Mahābhārata, 384; women of, in the harem of Jayadratha, 93, 384; referred to as Yona by Aśoka, 93, 384.
 
-owner of all lands, but is only Stodont: conduct of, towards wife optitled to tax them, 866; only 
+Yavanānī, meaning of, 93, 383.
 
-or son of guru, 342; duration of entitled to lory taxos on land 
+Yayāti, became a vānaprastha and died by fasting, 923.
 
-the stage of, 349-352; bad to look alroady brought under coltivation, 
+Yāyāvara, a class of householders, 641n, 642.
 
-after toucher's fires, tond his cattio 867-868. 
+Yogapaṭṭa, for a saṁnyāsin, 962.
 
-and serve toschor, 331; pot to take Statute, of Elizabeth, 868; of Mort 
+Yogasūtra, 301n, 317.
 
-sacchiṣta of any ono, except of his main, 118. 
+Yoga-Yājñavalkya, 312n, 313, 314, 317, 658n, 663, 668n, 694, 849.
 
-guru, 332; not to hear calumny of Statutos, Indian, regulatiog roligi- his toacher, 333; not to mention 
+Yona, referred to by Aśoka in his edicts, 93.
 
-ous and obaritable institutions, 
+Yuan Chwang, a Chinese traveller, 369.
 
-name of toucbor or toucbor's wifo 914. 
+Yudhiṣṭhira, gotra of, was Vaiyāghrapadya, 494; name of, to be taken on getting up, 648; Rājasūya performed by, 1222; Aśvamedha performed by, 1237–38.
 
-or son without an honorido profix, Steele, 669, 616n, 9620. 
+Yugas, four, viz. Kṛta, Tretā, Dvāpara and Kali, 837; prominent religious aspects respectively in the yugas, 837.
 
-333; qualities of a good, 330-381; Stein, Dr. Otto, 884. 
+Yugādi, anadhyāya on, 395.
 
-rules of conduct for, 831-338; Stoconson, Mrs. 1950. 
+Yugas, the first days of the four, 395.
 
-rules on muluting teacborand 
-
-General Indar 
-
-1343 
-
-othors, 3368; wbat things should 
-
-be avoided by, 391. Study, of Veda, to be dopo by 
-
-householder in 2nd part of the 
-
-day, 688. Sub-oaster: great diversity of viow as to origin of and status of sove ral, 58-69; dovoral names for same Bub-casto, 69; some smrtis say that Hub-castes are to be recognised by the acts or occupations of the 
-
-members, 59. Subhadra : described as daughter of 
-
-Vasudeva and sister of Kṛpna, in the Mababbarata, 460; was not tho real ristor of Krśṇa, but a distant 
-
-cousin, haye Kumarila, 460. Subodhini, com, on tho Mitakṣars, 
-
-194. Sabrabmany: litany, 11440-1148; 
-
-called pitā putriya on Agnigomiya paśu day, 1159–1160; changes in the words referring to the day, 1145n; contains throe names of tho sacrificer and his descendants according to seniority, 11450 ; recitod at each upasad in som& sacrifoes, 146; recited near the 
-
-utkara, except the first ono, 1450. Sucakı, & caste, 98. Sacika (UCI), a tailor, 98. Sudardana, com. of Āpastamba-grbys, 
-
-225n, 284, 8010, 627, 813n, 828n. Suddhitattva, 381, 6280, 6310, 6330, 
-
-634, Sudhanvaoārya, same as Korupa, 97. Sudra (vide onder 'brahmana,' 
-
-baste,' 'king'): accumulation of Wealth by, condemned, 121; drkpita could not sponk with ., 36; esat, did not incar sin by cating fesh or drinking wing, 121; assumed tho escotio mode of life domotimos, 946; called andrya by Gautama and othor smrtikāras, 36; Oandalas inoluded by Patanjali among, 188; oould in distrods follow the avocations of the vaidya, 121; could follow almost 
-
-any oooupation, 164; could listen to the recitation of the tbo oplos and purlṇas, 165; could perform the daily five yajõus in ordinary fro, 168 ; could perform Vratas, 159; could not himself road ovon the opios and purnai, socording to some, 150; could not be a judge, 160; could not touch a brdhmaga, 162; could report Rāms and Śiva mantras, 168 ; derivation of the word in Vedantasutra, 165; dos• oribed as "asarya yarpn' in Tai. Bt., 25; divided into aniravasita and niravasita, 121, 168; divided into bhojy&nda and abbojydons, 121-122; divided into sat and agat, 122; divisions of 121-122; duty of, to rondor sorvice to dvijas, 120; enlisted as soldier, 164; ostoomod low, 163; food of, could not be takon by a brahmana, 161; in dis tross may live in any country, 15; initiation of, as bhagavata, 156; intoxicants not forbidden to, 796; is said to be untruth itsolf in sat, Br., 35; killing a sudra wat sa upapataka, 163; liable to higher punishment than dvijatis for certain offondon, 159–160; list of disabilities of, 164-164; mantra in Case of, 188; may attain to spiri tual development and mokąwith out Veda study, 166; no Voda study in presence of, 34, 164; aot allowod to study Voda, 164; not at for sacrifice, 84, 36; not to porform Vodio saorificos, 156-167; Qumorous Buboastos of, 121-182 ; orduipod to servitudo, according to Mand, 33; period of impurity on dorth groster for, 160 ; position of, im prored in course of time, 180-181; pur&na mantras to be ropeated by brābmagas for, 198; Bariskarai of, without Vodio mentras, 158-160; Berting dvijatis 48 . duty was not A slave, 18% ; should not tako gratuity for himself in giving 
-
-1344 
-
-
-
-daugbtor in matriago, 506; some | Suktavaka, ia darda purgamis, 1072 sudrabecamo kinga, 121; *pokon 1074. of as dark varga' in the sutras, Saktimukt&vali, 367, 38 ; spoken of as Vajananoyin, salagava (rite ), 831-832; flesh of 166; subdivisions of sodra 0x offorod to Rudra, 831; perform whoso food could be eaten by ed in Sarad or Vasanta on Ardra, brahmagas in ancient timos, 121- 831; Rudra described as supremo 122; to say "śiv&ya nanah' or deity in, 736. 
-
-Viṣpo ve namah'in worship, 730; sulapagi, 198, 4770. to wash feet of a brāhmaṇa guest salika, a caste, 96. in madhu parka, 544; touch of, Sumantu, 76, 80, 83, 84, 94, 96, 149, obtailed bath according to some 468, 497n, 647n, 963n. smptis, 172, 665; was at beok and Summum bonum, of Indian Pbilo oall of others, 36; was to be fed, sopby, 422. when old, by his patron, 120; was Sun : crystal 28 symbol for worship to wear cast off clothes and shoes 1 0f, 716; eclipse of, described in of his patron, 120; wasbes the feet Ṛgveda, 770; feet of, not shown of others, 34, what samakaras in images or paintings, 725 ; tem allowed to, different views aboat, / ple of, built by wosvors from Lata 198-199. 
-
-in Dasa pura, 69; twelve names of Sadrakamalakara, 34n, 72, 74, 77, 92, the, in pamaskāra, 736. 
-
-93, 95, 102, 122, 155, 156n, 158, subahsepa : came to be called Dovan 381, 593 &o. 
-
-rata by Visvimitra when tho latter Sudrakrtyatattva, 166, 198. 
-
-adopted him, 480; legend of, 35, Suicide (vide under "Mabłpra- 480, 507; spokon of an Ajigarti 
-
-sthank'), 924-928; allowed under and Angirasa, 241, 480 ; story of, exceptional ciroumstances saob as Darrated to king in Rajasūya, 1218; brābaada murder or when life's was Bold by his father for monoy! work was done or in extreme ill 
-
-607; 2016, 924-926 ; fine for attempt to Sunddiriya, 1105-1106; meaning of commit suicide, 924, 926-27; suodsira, 1105; no fixed time for gonerally condemned by dharma. it, 1091n; no fire produced by attri. bāstra writers, 924; bistorical ox- tion and no uttarevedi in this, amples of religious, 925-926; 1105 ; tbree special offerings viz, officers were appointed to super- a cake to Bunāsira, fresh milk to Vi8o and control fasting by death Vayu and a cake to Sūrya, 1105. &c. 927; in Prayóga and other Sundara Ram, Mr. L. L., 773. holy places for attaining heaven Sūnika, a ouste, 99. or release, 630, 926; no mouraing Surx ( wino ) ser under drinking'. neod be observed for those wbo | Surabbimati, verses, 3179, 966n. wilfully dio by fasting or fire &o. Burasena, country of, 15. 926; ao water or funeral ritos for Sareptra, outside pale of Aryavarta, him who commits, 924; religious, 16; guilds of soldiers in, 87. came to be forbiddon in the Kali | Surostera, papil of Sarkarkotrya, age, 928, 
-
-wrote vārtika on Bṣbad-aranya Sakra : and Kaca, 796; forbado into- kopanipad-bboṣys, 943, 947. . xlgants to brøbmapas, 796. . Suryx, a hymn in Rgveda (X. 86 ), Sukriya: & vatt for brubmuodrin, 681 ; daughter of Savity, marrled 
-
-870371. 
-
-Soma, 526. 
-
-General Index 
-
-1345 
-
-12. 
-
-799. 
-
-Suryasiddbanta, 645n, 646. 
-
-Syona-yoga, performed as bluok Spta, 57, 98-99; one of antydvasa-l magic against one's enemy, 632. 
-
-yins, 70. Sutagainbita, 52, 54, 72, 79, 84, 85, Tailika, 83. 
-
-88, 90, 91, 935, 939. 
-
-Taittiriya Aranyaka, 14, 213n, 2550, Sutikāgai, bow prepared, 232a. 
-
-288, 303, 306, 314, 318, 327, 331 &o. Sutudri, & river in Rg., 12. 
-
-Taittiriya Brahmana, 13n, 25, 30n, Suvarṇa, 97, 
-
-37, 410, 42, 43, 84, 185, 222n, 247a, Suvarṇakóra (or bemakāts ), 98. 271 &c. Suvistu, river, wentioned in the Rg., | Taittiriya Sarbita, 34, 36, 38, 39, 40, 
-
-43, 95, 108n, 2130, 228, 247a, Svadby@ya, study of, is called 255 &c. 
-
-tapas' by Tai, Up., 356; subjects 
-
-Taittiriya Upadiṣad, 5, 272, 301, 306, of, 363. 
-
-3261, 328, 4540, 674, 750. Svapact or sva pāka, 97 ; avocations 
-
-Takpan (or Takpake), a caste, 82–83; of, 97; one of the antyajas, 70, 97. 
-
-regarded as sodra, 83; was origi Svargarohapikaparva, 8n. 
-
-nally different from rathakāra, 83. Svastisukta, 902n. 
-
-Tambala, 734-735; forbidden to Syastyayapa, mantras, 831a. 
-
-widows, ascetics and vedio stu Svayamvare : a girl of marriagoablo 
-
-deats, 584, 769; ingredients of, age could after waiting for some 
-
-734-735 ; no mention of, in ancient timo chooso hor busband, if father 
-
-gļhya sūtras, 734; thirteen guṇas or other guardian did not give her 
-
-of, 735 ; to be chewed after meals, in marriage, 602; held in an assembly with pomp was thought to be unsuitable to brābmaṇas, 
-
-Tambalika, 83, 734. 
-
-Tamropajivin, 83. 584 ; of Candralekha, a śilabara 
-
-Tanjore Maratba princes, held to bo princess, 624 ; principal religious 
-
-sūdras by Madras High Court, 382. ritos of marriage must be porform 
-
-Tandya Brahmara, 14, 15, 34, 35, ed even after, 621; several varieties of, 523-524. 
-
-37, 42, 43, 346, 385, 418, 419, 427, 
-
-&o. Sveta ketu, in Chandogya Up., 13, 
-
-Tank (see under reservoir '), water 273. 
-
-of large, could be taken by caṇda Bretaketu, brabmacarin, when 
-
-las, 176. suffering from a skin discase was 
-
-Tantra, 319n; infuonce of, on smrti advised by Asyius to tako madhu 
-
-practices, 319n; influence of, on (wino) and meat as medicine, 796. 
-
-Dovapuja, 740; ipduence of, on Sretaketu Aruneya, 321, 966 ; credit 
-
-consecration of images, 900. ed with having stopped promis 
-
-Tantraratna, 508. cuous sexual relations, 428 ; learnt 
-
-Tantra vārtika, 190, 1910, 289, 851, from Pravābana, 106, 966; styled 
-
-365, 364, 469, 4630, 656, 585, 603n, Gautama, 241, 247. 
-
-721 &o. Sretadraturopaniṣnd, 322, 353, 960. Tantrika, cult followed by some Brisakyt: (vide under Agai), 208 
-
-Vaippavaa and Saivus, 675. 111, 1051n. 
-
-Tantuvāya, 83; also called kuvinda, Syaita 8amaa, 9969. 
-
-83. sydvkiva, married a princese, 447, Tarka, importanc6 of, in settling 
-
-doubtful mattors of dharma, 967. 8. D. 169 
-
-525. 
-
-1346 
-
-. 
-
-
-
-Tarz, Dr. 384. Tarpang, 668-689, 689-695; & con stituent part of brahmayajia 692 ; a constituent part of sadna, 668 689 ; every one bad daily to per form tarpaṇa of gode, bages and pitļs, 689; most elaborato tarpapa of all sutras is in Baud. Dh. 8. 693 ; part of band by which water is offered in, 689-690; proceduro of, 630 ; the devatas that are offered water, 690; the pitis to wbom wator is offered, 691-692 ; the sagos to whom water is to be offered, 690-691 ; performed while standing in mator, 668; to be Porforined as part of brabmayajõe, 668 ; women teachers in, 366, 691; short form of 693; special tarpana to Yams and Bhisma, 695; t. of 
-
-sages ia upakarma, 813, Taxation : learned brahmapas freo from, 143-144; women and other 
-
-porxong exempt from taxation, 144. Taxos, on apanay&na, marriages and 
-
-Vedic sacrifices, 145. Teacher (ned under "Karya', 'edu cation', 'guru', student'): deman ded fanciful dakṣiṇā, 362; for Veda, must ordinarily be a brab mapa, 325; generally , brøbmana alono could be a, 108; kṣatriyas rarely engaged 18, 108; kṣatriya may be teacher of Veda in diffi culty, 325; not to keep back know ļedge from pupil, 329; perpetual student could not stay with a kna triya t., 109; pupils wero addres god by gotra Dames by, 481; rules to be obsorved by t. 329-330; stu. dento generally stuck to one, 328 329; to be revered as God by pupil, 322; to explain in Sanskrit, Prakrit or vernacular, 849 ; to troat pupil 
-
-as his son, 329-330; woman af, 366. Teaching: after prior stipulation for monoy rogarded as a sin, 361; mo- thod of t. Veda, 325-826;t, of Voda, in the hands of brabmanas alone, 
-
-108; t. of Vedi was a duty, 329; 6, of verpaculars viz., Kannada, Tiguin and Marathi, in 1290 A. D., 
-
-355 ; was oral, 108, 325. Toetb, brusbing of, see under Danta. 
-
-dbāvana. Telang, Mr. Justice, on coronation . of Shivaji, 379a. Temples, adıninistration of temples and mathas in ancient timor, 910net 913; could be enterod by Antyajas According to Smityarthesāra, 176 ; dancing girls attached to, 903–904; existed long before 6th century B, C., 710; king's duty to pupish porsons interfering with temple property, 911; kings appointed officer called Devatadhyaksa, 912; mentioned by Laugākṣi-gruya, Gau tama, Ap.Db.S. and other sutras, 709; of god Brahma raro, 724 ; præṇa pratiṣth& of images in, a later element, 900; procedure of esta blisbing images in, 897-899 ; pro cedure of consecrating image of Viṣṇu, accordiog to VaikbTossa, 901-903; to be circumain bulated if one meets them on one's way, 709; to be erected in the contro of the capital, 710; two ways of osta blishment of images in, 897; trees to be planted round,895;worshippers (prujaris) in temples of different gode are different, 722. , Tengalaia, sect of the followers of 
-
-Rimāquja, 593. Thomas, Dr. E. J., 711n. Thomson, Mr. Edward, 624, 635n. Tilak, 'Orion' by, 2870, 829n; 'Arctio 
-
-home in the Vedas' by, 1239n, 
-
-1245. Tilaka (mark on forehead), 672-675; 
-
-made with gandlewood pasto, 673. Tirtha, different names of, 9160, 
-
-652 ; meaning a certain part of the 
-
-palm, 316, 662. Tirtha (Water used in bathing the 
-
-image of a god ); deemed vory holy, 731, 
-
-General Index 
-
-1344 
-
-palada, very sacrod and 80 seats or tooth brushes not to be made froin it, 894; pitss gratified by tbo plantation of mango troos that aro watered, 894; planting of, conferg spiritual benefit like sons, 895; seven boly trees in Taittiriya Brābmaṇa, 894; to be planted round temples, 895; worship of, particularly by womon desirous of song, 894. Tribes, in the Rgvoda, 39. Trikadruka, & sacrifice, 9818. Trikāpdamaqdana, 1550, 308, 518, 
-
-560, 566, 677, 10868. Trimārti, conception of, is ancient, 
-
-724. 
-
-Tithi, called sopapada, 896. Tod, 104, 509n, 6230, Tolerance, in religion in India from 
-
-Asoka downwards, 724. Tones, three viz. mandra, madhyama 
-
-and uttawa, 1069. Tortoise: avatars of Vipṇu as, probab ly due to a story of Prajapati in Sat. Br., 718; was built alive in 
-
-the fire altar, 1261. Townsend, Meredith, estimate of 
-
-casto system hy, 21, Traidhatavi, an isti in Rajasuya, 
-
-1222. Traiyambaka homa : 1103-1105; a 
-
-rite in Sakamodhaparva, 1103 ; everything is done facing the north, 1103_1104; offered to Rudra, 1103 ; yajamina, wife, children and unmarried daughters go round fire striking their thighs and repeating the mantra Tryambukam 
-
-yajāmabe', 1104. Transmigration, doctrine of, taught 
-
-by Yöjõa valky, 106n; doctrine of, in Bṛ. Up., 776; not the primo 
-
-cause of doctrine of ahimsā, 776. Tragadasyu, made gifts of feinalo 
-
-slaves, 181. Tycakalpa-namaskaras, described, 
-
-735-736. Treasure-trove; brahmana moro 
-
-favoured as to, 146. Trees (see under 'plants', 'garden'); 
-
-circumambulatiog holy trees, 894; fines for cutting trees and plants wrongfully, 895; fuel sticks (samidb) to be of Dyagrodba, udumbara, plakpa and Edvattba, 894 ; bave life, according to Mahabharata, 895; highly valued in India at all times, 893-894 ; leaves and twigs of agvattha, udumbara, plakṇa, mango and nyagrodhs very auspi cious, 894; no Vode study under the shade of certain, 400 ; none to injure trees yielding froits and flowors, 895 ; numerous uses of, in sacrifices and otherwiso, 893-894 ; 
-
-Tri puadra (mark on forehead ), 673 ; 
-
-highly extolled by Pasupatas, 673; made with ashes, 673; jrocedure 
-
-of making, 674. Trisanku; cursod to be cāndala, 109; 
-
-Vidy&mitra became bis priest, 109. Tristhaltsetu, 595. Trisuparna, texte purify a man, 686. Trita, who bad fallen into a well,550. Trita, story of, a devotee of Indra, 
-
-10340. Trtaus, 39. Truth: exalted above everything else 
-
-in the Rgveda and other Vodio toxts, 4-5; conduces to the great 
-
-est good, 10. Tula puruṣa (weighing against gold or silver ): frequently mentioned in opigraphio records, 870 ; kings and ministers indulged in this, 
-
-872; procedure of, 871-872. Tulasi: clay at root of, used for making mark on forehead after bath, 673; leaves of, to be offered to Viṣṇu, 732 ; plant sapposed to 
-
-be favourite of Vippu, 731. Tubnav&ya, a oaste, 83. Turayana, an iṣti, 919a, 1107. Turiyalita, & class of gamnyasin, 942. Tura, Klvasoya, received doctrine 
-
-of Agoicayana from Prajapati, 
-
-1247. Turvadas, 39. 
-
-1348 
-
-
-
-Traptr, story of, that by wrong pro- could worship images of avstöras 
-
-nunciation of the word Indra. of Viṣpu, 176; included among Satru be lost, 347. 
-
-sudras for marriago, 179; not to Traptra, bad three beads and was approach a casto Hindu at what 
-
-killed by Indra, 419. 
-
-distance, 174; punishod, if delibe 
-
-rately touched one of a high caste, Ucobipta: food of a brahmana, not to 176 ; population of, 178-179. 
-
-bo given to a non-brahmaṇa, 440 ;, Untouchability (860 under 'antyaja,' food to be given to a sūdra only 'candala'), 166-179; arises in vari if he was depondent on a brślıma- ous ways, 168-169; exceptions as na, 440 ; meanings of, 3320 ; pupil to, on certain occasiona, 175-176 ; may take tenoher's, 332. 
-
-lowest avocations mentioned in the Udavasiniya;ixṭi at the end of Agai. Vedas, 165 ; permanent and tem 
-
-ptoma; 1201; procedure of, 1201. porary, 168-169; underlying no Udayapiya: concluding iṣti in Agni- tion of, 170. 
-
-atoma, 1200 ; performed in prāg- Upacaras (iteins in procedure of vanda and not on ottaravodi, worship): ip deva pūję,729; number 1200; procedure of, 1200. 
-
-of, differs, 729-730. Udbandhapaka, a caste, 74. 
-
-Upadhyāya: defined, 323-24, 361; 
-
-· Uddalaks Aruṇi, 12, 273. 
-
-slapped a pupil for wrong accentua Uddalaka vrata, for patilasivitrika tion, 363. 
-
-377. 
-
-Upakarms (starting of annual 108 Oddbava, a great devotee of Kropa, sion of reda study) 197, 807-815; 
-
-949. 
-
-called vārșika in some Butrag, 807; Uddikpapika, & ceremony in each cessation of Veda study for, 399; 
-
-Voda-vrata, 371. 
-
-divergonco as to mantras, deities Odgithavidya, 167. 
-
-and material of oblatione, in gut Udvabatattva, 162, 844, 4290, 439, ras, 810; holiday after upokarma, 
-
-451, 455n, 4560, 468, 471, 474, · 815; procedure of, 812-813; pro 486n, 493n &o. 
-
-coduro of, in modern tiinos, 813 Udyoga parva, 6, 8n, 69, 79, 82, 83, 816; reasons why the month of 
-
-84, 88, 330n, 358n, 4310, 507, 5100, 
-
-śravana and the nakgatra Śravaṇa 637, 795 &c. 
-
-were held so important are obscure, Ogra, a casto, 73-74 ; a nobleman in 809-810; time for, variously stated, 
-
-Bṭ. Up. 45; offspring of a kpatriya 807-810. from a sūdra woman, 45; occurs Upakosala, pupil of 8.tyakims in Rigveda, 45. 
-
-Jabala, 307, 329, 349n, 406. Ujjayinl: poets like Kalidasa were Upakrupta, 74; authorized to perform 
-
-examined at, 869; temple of consecration of Vedic tiros, 74. Mabokal, at, 799. 
-
-Upārbuyāja, procedure of, 1062. Ukthemukba: principal part of cer- U pa nayana (800 under 'brahman 
-
-tain Rastras is so called, 1186, caria', 'brabmacarya', 'patita Uktbya, forin of soma sacrifice, $&vitrika ', 'Voda stody'), 268-416; 
-
-1204. 
-
-a child may not and eat as it likes Universities, famous, in anoient before, 188; auspioious timor for, 
-
-Indis, 369. 
-
-276-278; characteristio toaturos Untouchable (see nuder "antyaja !, of, ia Atharvavoda, 270; charac 
-
-capdala, mlecchx'): could osta- teristic features of, in sat. Br., 271; blish temple of Bhairava, 176; foremost of samskāras, 189; 800k 
-
-General Index 
-
-1349 
-
-back to Indo-Iranian period, 268 ; 1 prooedure of, is like apāinsuyāja, bad to be performed again for 1162, going to Araṭtaka and other Bæbike Upagamgrabaña (clasping the feet countries, 16;-it till latest age no and bowing ), rules about, 335. upapayapa performod, the person Upavedan, 354; four, 365. bookino patitas &vitrika, 376; Urdhvapundra (mark on foro. latest age for, according to varṇa, bead), 673; fiagers omployed in 376; makos a inan as if born again, making, 673; marks inado on 189; Medbājanapa rite performed 
-
-twelve parts of the body, 673; on 4th day after upanayana, 305- marks made with Gopioandanı, 306; nivita mode of wearing whep 
-
-673; shape of, 673 ; olay to bo required, 288; of th. blind, deaf 
-
-employed in making, 673; marks and dumpb etc., 297-298; of mixed 
-
-brandod on the body with heated castes, 299; of trees, 299-300; motal piecos by followers of order of the soveral rites in, 
-
-Madhvācārya, 674; run dowa by difforent in works, 286; origin and Pāśu patas, 673. development of, 268-274; person Usages (seo 'custoin'), peculiar to 
-
-entitled to perform the u, of a 
-
-South, according to Band. Db. 8., boy, 278; prācroāvits mode of wear 
-
-765; peculiar to the North), one of ing, wben required, 288; procedure 
-
-which was drinking of run by of, in Afvalāyana, 281-283; proper 
-
-brāhmagas, 795; to be learnt from age for, in the case of differont 
-
-women, 2010. varpas, 274-276; upavita mode of 
-
-Udanas, 54, 71, 73, 76, 78, 79, 86, 187, woaring, 289, 290n; whetber year 
-
-548, 6670 ; forbids a brābmapa of, caloulated froin conception or 
-
-widow to burn herself after her birtb, 276; when perforined again, 
-
-busband's body is cromatod olde 392. 
-
-wbere, 627; on the avocations of Upa niṣads, 105, 247, 319, 353, 354, 
-
-sub-castes, 58. 480; akhyānas in, 12320 ; distin 
-
-Upasti Cakrayana, story of, 440, 758, guish between lesser and groater 
-
-Upavadāta, donations of, 1130, 388a, good, 9-10; 
-
-856. Upaniskramada, 196. 
-
-Udioara, country of, 13, 328; centre Upapātnka: not kindling or keeping 
-
-of Aryan culture, 13. up srauta or gļhya ire was, 685; 
-
-Utkara, 984 ; position of, 1035o. teaching Veda with a prior stipula tion for money is, 361. 
-
-Utsarga (dedication to the public ) 
-
-800 under 'pratiṣtha'; disting Uparavas, 1154-1155; digging of four round holes in Agoistoma 
-
-uisbed from dana, 893. called uparavas, 1154 ; wooden 
-
-Utsargamayukba, 895. board covered with hide placed on, 1 Utgarjana (cessation of annual Veda 
-
-for pressing soma, 1157-1168. study), 197, 815-818; & samskara, Uparicara Vasu, started Indramaba 
-
-197; cessation of Veda study on, festival, 826. 
-
-399, 816; now performed on samo U pasad, 1151-1162; is an iṣti, 1151 ; day es upakarma, 817; procoduro mantras in, refor to sieges of iron, of, in ancient times, 816; procedure silvor and gold cities, 1152 ; oine of, in modern times, 817-818; rito samidbent verno8 of, 1161; offerings of, gradually faded away, 817; made to Agni, Soma, Viṇṇu and time of, divergence about, 815 othor Okulis with yā te' &o., 1161; 816. 
-
-1350 
-
-History of Dharmadāstrā 
-
-Uttarakura, country of, credited with having promiscuity of soxual relations in the time of the 
-
-Mahabharata, 428. Uttarardimacarita, 119, 403, 579D, 927. Utthia, & samskārı, according to 
-
-some, 196, 237, Utthapinyah (verses ), 618. 
-
-Vad, Rao Babadur, 972n. Vaidebaka, 57, 95-96; & pratiloma 
-
-ceste, 57, 95; one of the apty 
-
-Vasaying, 70. Vaidyanatha, author of Smartimukta 
-
-phala 462, Vaijayanti, con, on Satyagadba 
-
-srauta-sutra, 1009n. Vaikbāngsa: neangivnaprastha'in 
-
-Batras, 418; said in the Tāndya Brahmaṇa to be favourite of Indra, 418. Vaikh&oasa-dāstra, troated of the 
-
-duties of the forost hormita, 917. Vaikbānasa- smārta sutra, 64, 72, 73, 
-
-79, 80, 85, 1310, 194, 195, 196, 233, 
-
-236 &o. Vaiśali, capital of Licchayis, 85. Vaigarjina homa, in Agniṣtoma, 
-
-1158. Vaigna ve saints, 177; sectarians, 
-
-following only Vaidika cult, or following Tantrika cult only, or botb, 675; two schools of Vaignavas, Ti%. Vaikbanagas and Pañcaratri 
-
-kus, 917. Vaidyadeva ( 806 under 'baliharana'), 
-
-741-748; compris08, according to sono devayajña, bhutayajña and pitryajia, 741; deities of, 741-742; duty to give food even to dogs and o&ndalas at time of, 116, por formed twice daily in old times, 742; porformed oply onco daily in modioval and modern times, 742 ; procedure of, 742-743; to be offored in ghy, firo or ordinary fire, 741; taking food without porforming condemned, 746; whether puru sartha only, 743; whether to be 
-
-performed before draddha or after, 743-744; who was to cook food for, 
-
-744-745. Vaidvadeva : the first of the Catur masyas, 1092-1095 ; amikṣa or payasya offorod to All Gods in, 1092; begon on morning of first full moon day after agayadheya, 1092; nino prayājus and nine spuyajas in 1093–1094; three additional offerings in, 1092; vājina offered to 
-
-deitios called Vajins, 1094. Vaiśvakarmaṇa, offerings in Ma 
-
-dhyapdinasayada, 1190. Vaisvinara, iğti for, on birth of a 
-
-son, 229. Vaiāvānara-vidyā, taught by king 
-
-Adva pati to five brūhmanas, 1060. Vaisya, characteristics of, in Vodic 
-
-works, 41-42 ; cxceeded others in numbers, 41; had numerous cattle, 42; may in diffioulties maintain bimself by doing work of sudra, 120; paid taxes, 42; pravara of, 494-495; to be subsisted upon by otboro, 41-42; word does not occur 
-
-in Rgveda, 27. Vājapeya: animals sacrificed to 
-
-Prajapati in V. are 17, 1206 ; dialogue betweon sacrificor and bis wife io 1209; feos at end of V., 1210-1211; horses yoked to chariots in r&co smelt boiled wild rice, 1208; lasted for 17 days, 1206 ; number 17 predomipates in many features of, 1206 ; observances of one who has performed V., 1210; race of 17 oberiots described, 1206, 1207 1209; performed only by brāhmaṇas and ksatriyas who wanted ominonco or overlordebip, 1207; 17 cups of soina and 17 of tura, 1206 ; serontoen druins were simulta noously beaten, 1206; stotras and dastras, 17 of each, 1206; wine cups, offored in V. are given to those who took part in the raco, 1209; yapa was 17 aratris in hoight in, 1206. 
-
-Generul Index 
-
-1351 
-
-Vailarigi: cow, donated by a dying man is so callod, 879; & river in 
-
-Yama's region which the doad have 
-
-to cross, 879.. Vājaprasaviya, a rite in Agoicayana, 
-
-12540. Vajaga neys Samhita, 39a, 43, 95, 
-
-125, 139, 148, 213, 233, 282a &o. Vajina, offered to doition called 
-
-Vājins in Vaidvadeva-parvan, 1094; priests only smell remnants of v. and sacrificer eats them, 1094; what is, 1092a. Vakataka kings, were brāhmaṇas by varmt but married kpatriya 
-
-princesses, 449. Vākyabheda, a fault, 590. Vallabhācārya, autbor of bhāøya on 
-
-Vedāntasutra, 949; holds sam- 
-
-ayāsa forbidden in Kali, 949. Vāmadevi, śk., 728. Vāmadevya-saman, 996n, 1184 ; vor- 
-
-80s of, 1184. Vāmana, regarded as avatāra of 
-
-Visnii by Kālidāsa, 724. Vāmanapurana, 11, 215, 346n, 511, 
-
-647, 649, 666, 688, 737, 923. Vana parva, 2n, 7, 14n, 61, 631, 82, 
-
-88, 101, 215, 294, 324n, 439 &c. Vāna prastha (forest liormit), 917 
-
-929; classifications of, 922–923; could beg for bis fuod, according to Yajāavalkya, 920; differonco of, from samnyāsia, 928–929; has to batbe twice or thrice a day, 920; has to give up all village food and Qubsist on forest produce, such as flowers, fruits, roots, 920; may start on the great journey or enter water or fire when too old or in firm, 922; partakes of food only once a day or fasts for long periods, 921; practises sovere austerities such as standing in summer in midst of five fires, 921; royal personages bocame, 923; should live a life of completo con- tiponce and friendliness to all, 920; should perform the five daily 
-
-yajāas, 920; should study Upani pads, 922 ; 80mo of tho duties of, practically same as for sampydsins, 928; Sudra could not be, 923; takos with him his granta and grhya firos according to some, 919; time for bocoming, 918; vaikh&naga was the anciont word for, 917 wife may accompany or may be 
-
-left in charge of son, 918. Vandin, a caste, 94. Vārālaghya, 246, 250, 260, 302, 355, 
-
-433, 434, 437. Vardhamihira, 217, 579, 628, 722. Vardha-purane, 168, 198, 720, 725, 
-
-878, 879, 880. Vārdha-drauta-sūtra, 10760, 1220n. Varāta, an antyaja, 95. Varavantiya-s&man, 9960. Vardhanīnasuri, author of Acara 
-
-dinakara, 321. Varna, 19-104 ; arises by birth only, according to most smitis, 51-52 Aryas and dāgas woro both called varṇa in the Rgveda, 25; associated with metros in Brah maṇr works, 34; distinguished gonerally from jati, 54–55; oven gods deemed to have v. among then, 42 ; evolved by actions of people, 101 ; ideal of v. lays most emphasis on duties tban on privi leges, 54; moaning of, in Rgvoda, 25; men of three higher varṇas to live only in certain countries, 15 not applied to brāhmana and kpa triya in Rgveda, 27; system of v. had ta kon deep root in Brahmana period, 42; theory of, in omștie, presupposes certain propositions, 51-52 ; theory of, was based on several principles, 137; theory of, whether only a theory oven in 
-
-ancient times, 47. Vaiṇa-dharma, meaning of, 2. Varpas: duties of Vedo study, Vodio 
-
-sacrificos and making gifts enjoin od on all three, 106; many of livelihood of the threo, 105; only135% 
-
-History of Dhurmatāsira 
-
-four and no fifth, 167; privilegos and duties of, occupy large space 
-
-in dharmas&stra works, 105. Varnasarnkara, applies to both anu- 
-
-loma and piatiloma progeny, 60; causos of, 60; had gone too far in the Mahabhārata times, 61 ; mean 
-
-ing of, 69. Varṇāframadharma, 3. Varṣakriyakaumudi, 156n. Varsa vardhana (vide abdapurti): 1 
-
-samskāra, 196, 258,260. Vārtikus of Katyāyana od Panini, 
-
-93, 98, 242n, 251, 340, 371, 714. Varuda, vide under buruda, 95. Varuṇa: lord of wators oven in the 
-
-Rgveda, 667, 890; lord of tho west, 890; spoken of as upholdor of 
-
-vrata, 39n. Varuṇapragbāsa, 1095-1100; ara 
-
-blaṣtba (bath) by priosts, sacri ficer and wife on conclusion of rite, 1099; etymology of, in Sat. Br., 1095:; four additional offerings in this rite, 1096 ; performed four months after Vaidvadeva on full moon day of Āṇādba or śrāvana, 1095; pots of karambha and figures of a ram and ewe got roady, 1096 1096 ; two altars prepared to east of dhavanīya, ono to north and the other to south in charge of adbvaryu and prati prastbātr ros- poctively, 1095; wife had to confons if sbo had a paramour and in spito of confession was allowed to parti- 
-
-cipate in, 576-676, 1098. Varunī, verses, 317n, 955, 9570. Vapatkāra, 1058–1059; pronouncing 
-
-of, was a mystio mattor, 1059; to bo uttered only by day, 1059; ut tored at ond of all ydjyds and in 
-
-Apuydjas, 1068. Vasifgha, cow of, carried away by 
-
-Vidāvmitra, 41. Vasietha, dharmastitra of, 1, 6, 10, 
-
-13, 34n, 65, 59, 61, 67, 878 &o. 
-
-· Vasiptha, 226; subdivisions of gotra 
-
-of, 490. 
-
-Vasithipita Siri-pulumdyi, 61, Vasordhara, a rito in Agnicayana, 
-
-1253n. Vastoßpati, a god, 834n. Vāstu-pratiṣtbæ (construction and 
-
-occupation of a now bouse), 833 836; examining the site for a building, 833; procedure of vāstu yajõa, 834 835; v. yajña bas to bo porformod five times in rolation to a house, 834. Vastuśāpti, 834; proceduro of, 835. Vasudeva (father of Krsna): wives of, burnt themselves with his doad 
-
-body, 621. Vasudova, was not according to 
-
-Patañjali, a mere ksatriya, but an avatāra, ,710. Vasudeva (300 under "Viṣṇu '): is 
-
-charged with having married his maternal uncle's daughter, 459 460; is said in the Mahabharata to have had 16000 wivos, 553; images of, worshippod in timos of Panini, Mānavagfhya, Āp. Dh. 8., Gaut. and others, 709-710; said to have been drunk with wine along with 
-
-Arjuna, 795-796. Vasudevopanigad, 673. Vātsydyana, author of Kamasutra, 
-
-9, 367, Vatadhana, a caste, 95. Vatsa, 520n. Vātsa pra, a bymn, 233, 1006, 1249. Vayupurāṇa, 2n, 17, 66n, 87, 99, 302, 
-
-308, 314n, 3230, 325n, 355, 381, 445 &c.; on gotras and pravares, 484; recitation of, to Bana, 800. Veda (see "hymns'); become latent at dissolution and manifost at creation of world, 363; broath of the Great Boing, 353; etornity of, interpreted in several ways, 363 ; momorizing of, mapst bighly thought of in medieval timon, 368; moans mantras and Brūhmaga works, 362; one who morely commits to momory without understanding it, strongly condemned, 867; meaning 
-
-General Index 
-
-1993 
-
-of, cannot bo known according to figure of, compared to a young some orthodox brahmanas, 358; lady's, 1034n; making an uttara not to be allowed to be forgotten, vedi with earth from cātvāla, 1112 368; &akbas of, 354n ; sellers and 1113; measurements of, 10340 ; writors of, severely condemned, 349; measurements of, in pasubandha, study of, destroys sin, 358; study 1112; on uttara vodi e square hole of, till godansanskare allowed called nabhi is prepared, 1113 ; by BhIradvāja, 352; study of, sphya used in sweeping, 1035 ; first duty of evory dvijati, 327, western corners are called froṇi, 356; study of, included knowledge 1034n. of its meaning, 356 ; study of, in- Voda-frata, 370-374; Hathskāra accord volves five things, 357 ; whole uni- ing to Gautama, 370; names and verso is supposed to emanate from, procedure of four vratas difforod, 352-353. 
-
-370; went out of vogue, 373. Vedas : deemed to be eternal and not Veda-Vyāsa, 18, 71, 76, 78, 79, 81, 
-
-composed by any human author, 159, 194, 196, 437, 559,563, 627 &c.; 352; emphasis on the correct ac- enumerates twelve castes as contuation of, 347; endless in ex- antyajas, 71. topt, according to Tai. Br., 271; 1 Vedic Index, 107n, 499, 509n, 554n, oulogy of the study of, 327; extent 608n, 707, 1106, of, according to Mahabhāsya, 327; | Vegetables, allowed and forbidden four, 327; japa of some hymns of, as food, 583-584; touch of certain, purifies man of his sins, 350; method entailed bath, 170. of teaching, 325-326 ; one may | Velava, a caste, 95. study only one of the v, that Vepa (or Vaiṇa ), a caste, 95. was studiod by his forefathers, į Venisambāra, a drama, 296. 328; originally father taught son, Venuka, & pratiloma caste, 95. 108, 273; repeating veda in pada, Vesya, (courtezan), 637-639; consti krana, jata formations, 347; rovi- tutes & separate class according to ling of, a great sin, 358; study of, Skandapurāṇa, 638; institution of, is called tapas by Tai. Up. 356, existed from the times of Rgveda, 105-108; study of, the highest 637; origin of, in Skandapurāṇa, dharma of a brāhmana, 107-108; 
-
-638 ; punishment for having inter study of, to be preferred if in con- course with a concubino kept by fict with agriculturo, 126; teach- another, 638. ing of, special privilege of brāh- Vicitravirya (see under Vyasa'), magas 108-110. 
-
-603; protege of Bhipma, married Vedangas, six, 364, 3230, 768. 
-
-at the same time two daughters of Vedangajyotiga, 28 Dakgatras in, 247. king of Kası, 6019, 523. Vedantakalpataruparimala, 9170, | Videgha Mathava, story of, 12. 
-
-936n, 9638. 
-
-Vidura, possessed knowledge of Vodantasāra, a work, 961n. 
-
-brabma, though a sūdra, 36, 156 ; Vedantanatra, 32n, 96, 83, 156n, 166n, wus buried as an ascotic, 945. 
-
-316, 352, 3531, 364n, 356, 422, 424, Vidūra, the progeny of him who 712a, &o. 
-
-leaves off gama yaba becama Vodi, construction of, in darśa pūrnam candalas and are called, 947. 
-
-mesa, 1034-1037; construction of, | Vidyarambha, & Samskara, 197, ia pabubandba, 1112-1113; eastern | 266-267. corners of, aro-callod amsa, 1034n ; Vidydraṇya, 391. 
-
-H. D. 170 
-
-1354 
-
-
-
-Vidyargava, 196n. Vidyas, fourtoon or eightoon, 365. Vidy&sūkta, 107, 330. Vihevya, hymn, 1011. Vijapman, (same as Kāruga, ) 95. Vikramlaka-devacarita, 524. Village (grāma), definod, 875n ; king 
-
-to appoint headman for a, 868. Vinabana, place where Sarasvati dis 
-
-appeared, 14, 14n. Vintyaka (500 under Gaṇośa ): Ambika, mother of, 214; mentioned in Manavagļhya, 214 ; rite for propitiating, 214; said to be four or six, 214; stages in cult of 
-
-214-215. Vipas, river in Rg., 12. Viraja-homa, in taking saunyāsa, 
-
-969; procedure of, 969. Viramitrodaya, 70, 710, 161, 198n, 
-
-3490, 508, 600n, 643, 915. Vīrāgana, & yogic posture, 957. Virāta parva, 494, 626. Virtues, why to be cultivated, 7-8. Viągu (soe under 'avatars ', 'V&su dova'): earliest detailed descrip. tion of worship of, 726-727 flowers recommended in worsbip of, 732; four vyuha. ( aspects ) of, 917, 964; gradation in merit secured by offering flowers of various kinds to, 732 ; mado carth steady, 719; Mababharata teaches identity of Śiva and, 725; namos of, takon in Acamana, 663 ; 0no thousand names of, 725 ; balagrama stone in worship of, 715–716 supposed to go to sleep and be awakoned respectively on the 11th of tho bright half of Aṣadha and Kartika, 396; ten nvatāras of 717 724; took tbroo stops, 719; twelve namos of, associated with twelve months, 250; twolvo Damos of, in deva pājs, 728; twonty-four nameg of, in tandby, 316 and n;ūrdhra 
-
-puadra mark made on twolve parts of body after taking twelvo pamos of, 673, 
-
-| Vimabali, & sathskara, 196, 226-227. Viṣṇudharmasūtra, 9, 11, 16, 62n, 63. 
-
-56, 58, 67, 75, 219, 247n, 293a, &c. is the first sūtra to recommond 
-
-self-immolation to widows, 626. Viṣṇudbarmottara, 1120, 2660, 713, 
-
-716, 725, 842, 868. Viṣğukramas, 1083, 1218. | Vigau-purdna, 60, 9n, 17, 93, 158n, 
-
-189n, 2510, 355n, 8590, 380, 395, 438. &c. Vizuva ( when day and night are 
-
-equal) 395-896. Viṣuvat, day in Gavim-ayana, 1240 
-
-und n, Viūvacakra, a mabadāns, 876. Viśvajit sacrifice: one cannot givo 
-
-away one's wife and obildron in, 508, 850; ono givos away every thing in, 46, 1218n; performer of, had to stay in \# settlement of nizadas for some time, 46, 481, 12120; performer of, had to stay with brahmaṇas of same gotra for a yoar, 480; soveroign cannot make a gift of wbole earth in 850, 866; budra who meroly sorvos 88 
-
-& duty cannot be given away, 850. Viśvakarman Bbauvana, made a gift 
-
-of the earth to his priest Kasyapa, 
-
-840. Visv&mitra : became priest of Tri 
-
-tanku, 109; carried off cow of Vasistha,41; cursed his fifty disobe dient sons to be Andbras, Pun dras and Saberas, 47; sub-divisions of gotra of, 490; treated Sudahāopa 
-
-as bis son, 47. Viśvarūpa: had three heads, 792-793; 
-
-Indra killed, 147, 801; purohita of gods, 40. Viśvarūpa, 11th chaptor of the 
-
-Bhagavadgit& is 80 callod, 962. Viśvarūpa, com. of Yajñavalkya, 14n, 
-
-15, 45, 54, 58, 59, 141, 160, 169, 208, 289, 268n, 9040 &c.; hold to be identical with Sureśvara, 944 ; views of, in com. on Yajāavaltya are opposed to viow of Bṛ. Up bh&pyarartika, 944 
-
-General Index 
-
-1355 
-
-of, 964 ; on rules about grants of 
-
-land, 861. Vyatipāta, one of the 27 yogan, 852n. Vyavahāramayukha, 151, 186, 462, 
-
-470, 500, 509, 7140, 860n, 866, 
-
-1107n. Vyusti-dvirātra, two rites called V. 
-
-in Rājaslya, 1222. 
-
-Viśvarūpasamuccaya, 466n. Vīta barya, & king, became a brah 
-
-• mapa, 496. Vitaran: 14n. ' Vitasti, a measure of longth, 209p. Vivadaratnakara, 66n, 5800, 872. Vivaba, 197. Vivasvat, a smstikūra, 926n. Vratas (806 under Voda-vratas): as 
-
-samskāras, 197, could be perfor med by sudras, 169. Vratika, & vodavrata for brahmacārin, 
-
-371, Vrātyas, 96, 376; could be purified 
-
-even after twelve generations, 387; glorified in Atharva veda, 386; meaning of, in Baudhayana and others, 59, 96; what they were like, 386. Vratya-stoma: described from Tān 
-
-dya Brahmana,385; for purifying 
-
-patitasquitrika, 377. Vratyatāprāyascittanirṇaya, 4 work 
-
-of Nagesa, 381, 963. Vratyatā-suddbisangraba, 385. Vṛddha-Gārgya, 276. Vrddba-Gautama, 101, 117, 126, 314n, 
-
-349, 355, 651, 677, 732, 846, 895, 
-
-&o. Viddha-Harīta, 121, 126, 148, 170, 
-
-176, 2921, 293a, 302, 315, 320, 563, 5670, 584 &c. Viddha-Manu, 206n, 605, 760, Vyddha-Vasiṣtha, 653. Vṛddha-Yajāavalkya, 169, 384. Vṛttis (modds of livelihood): five 
-
-kinds of, according to Manu, 130; top kinds of, according to Baudh. 
-
-yana, 130. Vyadhe, a casto, 96. Vyagbrapada, 174, 651. Vyabftiboma, 199a. Vyabftis, 301a. Vy&ta, & cirajīvin, 648; advised 
-
-Yudhiṣthira to porform Advame dha, 1237-1238; was appointed to raigo isgao from the widows of 
-
-Vicitra virya, 603, 605. Vysa, 1740, 236, 313n, 3240, 356, 
-
-867, 471, 646, 760 &0.; four papils 
-
-Water: for arghya, how inixed, 731; 
-
-is to be touched after rociting & mantra referring to ovil spirits or touching one's body etc., 10230; rules about, to be employed in 
-
-worship of gods, 730–731. Wealth: divided by Narada into three 
-
-kinds, 130; kṛpna, what is, 130; sa bala, 130; sukla, 130; three modos of acquisition of, common to all, 130; three special modes of aoqui sition of, for each of the thron 
-
-higber varṇas, 130. Weapons, eight, 876n. Weber, 722n, 977, 1223n. Well, dedication of, to public, proce 
-
-dure of, 890–892, Westermarck, 160, 166n, 180, 457, 
-
-509, 606, 625. Widow (500 divorco' and 'romar riage'): burning of, among Groeks and Scythians, 624n, 625; did not apply eye-salvo and simply tied bor hair, 584; dutios of, 583-687; entitled only to maintonance in joint Hindu family except in Bon. gal, 636; gotra of, at time of remarriago, 614; had groater power of alienation for spiritual benefit of husband, 889; had no right to gucceod to sonless husband in an cient times, 581-582; kontriya, did not tonsure her hair, 689; not to chow botel loaves nor to take moals id vessel of bell metal, 684; posi tion as to proporty improved by recent legislation, 686-587; remar riage of, 608-617; right of widow, to maintenance, 586;sigbt of, most iDauspicious (excopt of one's 
-
-1356 
-
-
-
-mothor ), 585; tonsuro of, among 18nco, 568; rules for procedenca brahmaṇas, 687-693; tying up of among several wives, 559-560; hair into braid by, loads to bond. sudrs wife not to be associatod* ago of deceased husband, 685; W08 with, in religious rites by doijata 
-
-to tako only one meal a day, 585. husband, 569; was cremated with Wife (800 husband', 'marriage's the vodic fires and sacrificial uten 
-
-pativrata'): cannot desert oven sils of husband if she died before to patita husband, 620-621; conduct busband, 558; was to learn vedio propor for wife, whose husband mantras required in sacrifices from has gono abroad, 566-566; co-ope- her father or husband, 10410; was rates with husband in sacrifices, to be guarded from lapse by dovo 429, 556; could not lodge & com- tion to ber and not by beating ber, plaint against husband and vice 569; was to look into the clarified versa, 574; could not perform butter to be offered in sacrifices Bacrifices or Vratas independently and to repeat a mantra, 1042; of husband, 569; does in sacrifices wealth acquired by, belongs to only those acts which she is ex- husband according to Manu, 507; pressly authorized to do, 1000ni what wifo was to do when husband duties of 562-565; eldost wife to went abroad for many years, 612 co-operate in religious mattors with 613; wife who drinks liquor may husband or wife of same casto, bo abandoned, 797. 684; eulogy of, 428-429, 675; goal Williams, Prof. Monier, 195n. of the life of woman was declared Wills, germ of, in Katyāyana's rules to be to marry and procreate sons, about gift to a brābmaṇa promised 561; foremost duty to obey bus- but not carried out, 887-888; in band and bonour him as god, 561- favour of brahinanas or religious 562; grounds on which in modern institutions not made in India. times wife can refuso to reside with 118. husband, 570; is girt up with a Wilson, Dr. Jobn, 103n, 175, 6090. cord in greuta rites to make ber fit Wilson, Prof. H. H., 626n, 6350, 7220, for participation, 1040n; is half of a 948n, 9490. man, 428, 584;:is the home, accord Wine, see drinking'. ing to Rgreda, 428; lenient and Winternitz, Dr. 215, 446, 509n, 5830, barsb punishments for adultery of 604n, 607, 608n. 575; man not complete without Witness: brahmaṇa could not be cited wifo, 428; mutual rights and duties by a non-brahmana as, unless he of husband and wife, 566-582; no had attested & document, 162; to ownorship of busband in, 508; no bo sworn before images of gods, soparation between busband and, 709; who could not be cited as, 152. 429; not liable for busband's debts, Wives of Gods: Patnsganyaja offer 573; part of, in drauta sacrifices ing to, is made in a screened became less and less, 1000n; play- space, 1077; region of, is to post od & very subordinato part in of garba patya in sacrifices, 10410. sacrifices, 387-368; property of, Women (see 'gotra', marriage'): freo from control of busband, 573; and education, 365–368; and upa punishment of, for adultory, 571- nayana, 294–296; as composers of 572; rowards promised to chasto Vodic hymos, 365; &s toschors, wifo, 566-667; rights of residence 366; by marriage enter husband's in husband's house and mainte- gotra, 463; cbargod, in smitis 
-
-General Index 
-
-1357 
-
-with gorious moral dofocts, 577 578; could become vāpaprastha, 923; defence of women by Varāha, 579; depondence of, 577; deserve honour according to the ages of their busbands, 342; estiinate of character of, 574-581 ; marriages of, performed with vedio mantras, 295; names of five boly women to bo takon svory morning, 648; not to be killed for any reason (ex copt in one or two casos ), 575, 593-594 ; not treated with contempt everywhere in Indian Literature, 511; position of, 574-578; position of, became assimilated to that of sudras, 594; privileges of, 595-596; punishment of cutting the nose or ear for adultery by, 594; purifica. tion of, when raped, 576; rights of, to property increased in medi oval times, 581-582; rules about showing honour to, 342-343; rules for womon when in their monthly illness, 803-805; sarcastic refe rences to, even in Vodio tiinos, 368,575, 576; sight of, in a dream, Vory auspicious, 511; womon sages in tarpaṇa, 691 ; status of, as to oducation better in ancient times, 366-366; two classes of, 294; usages and unwritten dharma to be learnt from, 367; were assigned position of dopendence, 367; Were equated with sudr89 367-368; wore to be taught certain vodic mantras, 300, 366-367; whero women bonoured gods love to dwell, accor ding to Mapu, 511; whether w. 
-
-woro yajõopa vita, 294–296. Word, relation of, to son86 is eter 
-
-Dal, 352. Works, of public utility, higbly com 
-
-mondod, 889-890. Yadus, 39. Yaga (500 under yajõa): constituted 
-
-by dravya, dovat? and tyaga, 983; distinguished from homa and dāna, 714n, 983. 
-
-Yajña : Alve operations to be per 
-
-formed on the shavaniya mound in all istis or other rites, 986; fundamental conception of, goos back to Ind-European antiquities, 978; logopd tbat Yajõa oscaped from gods and wandorod about as 
-
-black antelope, 1026n, 1166; madhuparka offered to priests in, 543; main foatures of, evolved even in times when Rgveda was composed, 980; many words con Docted with yajña common to Vedic and Parsi books, 778; pātras 
-
-(utensils ) required in, 985n. Yajñatan 1, 33 offerings on last day 
-
-of Agnistoma, 1161. Yajnavalkya (goe under Janaka ): 
-
-and cow's flesh, 773; and Gārgi, 365-366; and Janaka, 181, 365; and Maitreyr, 365, 930; had two wives, 551, 930; learnt from king Janaka, 105; left boine, wives and began to bog whon be became pariura jaka, 930, Yajāavalkya-smrti, 3, 10, 18, 45, 52n, 
-
-53, 54, 55, 57, 64, 73 &c. Yajñāyajõlya-&man, :996, 1185; also 
-
-called Agnistomasāman, 1195; last stotra in Agniṣtoma, 1195; sacri ficor's wife is brougbt near udgātr who looks at hor and asks her to go, 1195. Yajõikadova, com. of Katyāyana 
-
-krauta-sutra, 1092n. Yajño pa vrta (800 under ksatriyas', 
-
-* womnon '); devatas of the strends of, 292; history of, from ancient tiinos, 287-291; how manufactured, 292, 296-297; kpatriyas and rai syas wore in 17th contury, 292; length of, 292; mantra at time of putting on, occurs in Baud. Gy. first, 284 ; many sutra köras say not & word about itin upanayapa, 284; manufactured by maidon to be proferred to ono by & widow, 291a; material from which to bo manufactured, 292; mode of wear 
-
-1358 
-
-
-
-ing sacred throad in tarpana, 690 692 ; qumbor of, diffored according to circunstances, 292-293 ; praya écitta for loss of, 374; procoduro of putting on, 297 and .; roligious acts done without wearing y. be came futile, 293; taking moals without wearing, made ono liable to expiation, 293; whother women wore, 294–296. Yajuṣ pavitra, is a mantra 3780, 728 Yajyd (offoring prayor ), 1058-1059; 
-
-is preceded by 'ye yajāmake'and 
-
-followed by vaṣatkara, 1059. Yama, 60, 700, 81, 89, 91, 110, 1270, 
-
-216n, 217, 251, 256, 260 etc. Yama (God of death ): river Vaita. rani in his roalm, 879; tarpaqa of 
-
-695. Yamunt, mentioned in Rg. 12 ; 
-
-invoked in & Yorgo repeated in Simantonnayana, 224n. Yaska (800 under Nirukta also), 261, 
-
-75, 582, 1105, 11189. Yati (500 under Muni): heads of 
-
-yatis beganno date palms according to Tai. 8. 419; Indra is said to bave thrown y. to the wolvos, 419; Indra is said to bave taken three yatis under his protection, 419; moaning of, in Rgveda, 418-419. Yatidbarmadamgraba, 931, 933, 947. Yaugandbari, king, song in praise 
-
-of, at Simantonnayana, 224. Yavanas, 92-93; generally associated 
-
-with Bakas, 93 ; Manu on, 47; moaning of, disputed by scholars 384;ocour frequently in Mababba rata, 384; mention of, in inscrip tions, 384; pratiloma caste accord ing to somo, 92 ;rogarded as sudras 
-
-by Patañjali, 93 ; rules of conduct prescribod for, by Mahabbārata, 384; women of, in tbo harem of Jayadratha, 93, 384 ; referred to as 
-
-Yona by Asoka, 93. 384. Yavanāni, moaning of, 93, 383. Yayati, bocamo & vana prastha and 
-
-died by fasting, 923. Yayāvara, a class of householders, 
-
-6419, 642. Yoga patta, for a sanny.sin, 962. Yogasutrs, 3011, 317. Yoga-Yajāavalkya, 312n, 313, 314, 
-
-317, 658n. 663, 668n, 694, 849. Yona, reforred to by Asoka in his 
-
-edicts, 93. Yuan Chwang, & Chinese traveller, 
-
-369. Yudhiøthira, gotrs of, was VaiyX ghra padya, 494; nawe of, to be taken on getting up, 648; Raja BƯy& performed by, 1222; Asya modha performed by, 1237-38. Yugas, four, viz. Kita, Trota, Dva 
-
-para and Kali, 837; prominent reli gious aspects respectively in tho 
-
-yugas, 837. Yug&di, anadbyāya on, 395. Yugas, the first days of the four, 396. Yupa, 1110-1112; called patnīvata in 
-
-Aikadasina, 1132n; called upabaya in Aikādasina, 1132n; bead piece called caṣala made from top por tion of treo felled, 1111-1112; procedure of cutting tree for making yupa, 1111; thirteen yūpas in Aikadasida sacrifice, 1132n; to be made of palaśa, kbadira, bilva or roubitaka and in somayaga of khadira slono, 1110; views about longth of, 1111. 
+Yūpa, 1110–1112; called pātnīvata in Aikādaśina, 1132n; called upaśaya in Aikādaśina, 1132n; head piece called caṣāla made from top portion of tree felled, 1111–1112; procedure of cutting tree for making yūpa, 1111; thirteen yūpas in Aikādaśina sacrifice, 1132n; to be made of palāśa, khadira, bilva or rauhitaka and in somayāga of khadira alone, 1110; views about length of, 1111.

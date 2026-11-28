@@ -1,4212 +1,4186 @@
 +++
 title = "General Index"
-
+proofreader = [ "Gemini 4 Hydrogen",]
 +++
 
-GENERAL INDEX 
+[[P1243]]
 
-N. B. In the case of several works and authors like the Mitākṣarā, Aparārka, Raghunandana, Smrticandrikā etc. which occur almost on every page, exhaustive references are not given. 
+GENERAL INDEX
 
-Abdhi, relied on by Smrtyarthasāra, Adbhutasāgara, of Ballalasena, pp. 
+N. B. In the case of several works and authors like the Mitākṣarā, Aparārka, Raghunandana, [[Smrticandrikā|Smṛticandrikā]] etc. which occur almost on every page, exhaustive references are not given.
 
-p. 725. 
+Abdhi, relied on by [[Smrtyarthasāra,|Smṛtyarthasāra,]] p. 725.
 
-548, 629, 730, 732-33, 893n. Abbidhānakosa (lexicon ), p. 557. | Ādhi, four varieties of, p. 522. Abhirāmapura, p. 774n. 
+[[Abbidhānakosa|Abhidhānakośa]] (lexicon), p. 557.
 
-Adhiśvara, two kinds of, p. 618. Abhyankar, M. M. Vasudeva Shastri, Adhyakṣapraçāra, p. 208. 
+Abhirāmapura, p. 774n.
 
-pp. 791., 678, 
+Abhyankar, M. M. Vasudeva Shastri, pp. [[791.,|79n.,]] 678.
 
-Ādideva (S'ri ), Prime Minister of Abul Fazal, killed by Virasimba, p. Vabaga king, p. 644. 
+Abul Fazal, killed by [[Virasimba,|Vīrasiṁha,]] p. 947.
 
-947. 
+[[Acāracandra,|Ācāracandra,]] p. [[8487.|848n.]]
 
-Adipurāṇa, pp. 715, 731, 893. Acāracandra, p. 8487. 
+Ācāracandrikā, p. 893n.
 
-Adiśūra, king who brought brāhma Ācāracandrikā, p. 893n. 
+Ācāracintāmaṇi, of Vācaspati, pp. 760, 844, 893n.
 
-nas into Bengal, pp. 624, 707. Ācāracintāmaṇi, of Vācaspati, pp. Aditya, author of Ṣadasīti, p. 916. 
+Ācārādarśa of [[S'ridatta,|Śrīdatta,]] pp. 587, 760, 761, 840, 893n.
 
-760, 844, 893n. 
+[[Ācārādarśabodhini,|Ācārādarśabodhinī,]] com. on Ācārādarśa by [[Gauripati,|Gaurīpati,]] p. 760.
 
-Adityapurāṇa, pp. 715, 893 ; quoted Ācārādarśa of S'ridatta, pp. 587, 760,1 in Srāddhasāra, p. 866n. 
+[[Acāradipa,|Ācāradīpa,]] of [[Kamalakara,|Kamalākara,]] p. 927.
 
-761, 840, 893n. 
+[[Ācāramayūkba,|Ācāramayūkha,]] p. 273.
 
-Adityabhatta, author of Kālādarsa, Ācārādarśabodhini, com. on Ācārā. p. 597. 
+[[Ācārapradipa,|Ācārapradīpa,]] p. [[847.|847n.]]
 
-darśa by Gaurīpati, p. 760. 
+Ācāraprakāśa, quoted by Mitramiśra, p. 945.
 
-Adoption, rules of, in Vasietha, Acāradipa, of Kamalakara, p. 927. p. 105; Atrion, p. 262; of a Ācāramayūkba, p. 273. 
+Ācārārka, of [[Divākarabhatta,|Divākarabhaṭṭa,]] p. 941.
 
-ksatriya boy, allowed to brāb Ācārapradipa, p. 847. 
+Ācārasāgara of [[Ballalasena,|Ballālasena,]] pp. 731, 794n.
 
-mana by Medhātithi, pp. 581-82; 
+[[Ācārendusekara,|Ācārenduśekhara,]] of Nāgoji, p. 964.
 
-whether a girl can be taken in, Ācāraprakāśa, quoted by Mitramiśra, 
+Ācāroddyota, p. 805.
 
-p. 956 ; rules of, in Dattakadidbiti, p. 945. 
+[[Acāryacūdāmaṇi,|Ācāryacūḍāmaṇi,]] pp. [[8937.,|893n.,]] 930n.
 
-pp. 954-56. Ācārārka, of Divākarabhatta, p. 941. 
+Ācāryas, meaning of, pp. 32–33, 209; conflicting views of Manu about, p. 331; views of, according to Kauṭilya, p. 209; referred to by Gautama, pp. 13, 32; greatness of, p. 95.
 
-Adultery, with pravrajitā, & mortal Ācārasāgara of Ballalasena, pp. 731, 
+Actors, looked down upon, p. 133.
 
-sin, according to Nārada, p. 794n. 
+Acyutacakravartin, [[anthor|author]] of Sandarbhasūcikā, p. 729.
 
-474 ; punishment for, according Ācārendusekara, of Nāgoji, p. 964. | to Yama, Smrticandrikā and Ācāroddyota, p. 805. 
+Adbhutasāgara, of [[Ballalasena,|Ballālasena,]] pp. 548, 629, 730, 732–33, 893n.
 
-Vyavahāramayūkha, p. 527. 
+Ādhi, four varieties of, p. 522.
 
-Acāryacūdāmaṇi, pp. 8937., 930n. 
+Adhīśvara, two kinds of, p. 618.
 
-Adverse possession, vide under 
+[[Adhyakṣapraçāra,|Adhyakṣapracāra,]] p. 208.
 
-possession, Ācāryas, meaning of, pp. 32–33, 209; 
+Ādideva ([[S'ri|Śrī]]), Prime Minister of [[Vabaga|Vahaṅga]] king, p. 644.
 
-conflicting views of Manu about, | Agamasaukhya, p. 913n. p. 331 ; views of, according to Agastya, pp. 245, 336, 373 ; rising of Kautilya, p. 209; referred to by star, in Ujjayidi and Rādha, Gautama, pp. 13, 32; greatness of, p. 707 ; rise of, dealt with in p. 95. 
+[[Adipurāṇa,|Ādipurāṇa,]] pp. 715, 731, 893.
 
-Jyotibsaukhya, p. 911, Actors, looked down upon, p. 133. Agastyasaṁhitā, p. 958n. Acyutacakravartin, anthor of San. | Agnihotraprayoga, of Anantadeva, 
+[[Adiśūra,|Ādiśūra,]] king who brought brāhmaṇas into Bengal, pp. 624, 707.
 
-darbhasūçikā, p. 729. 
+[[Aditya,|Āditya,]] author of [[Ṣadasīti,|Ṣaḍaśīti,]] p. [[916.|915.]]
 
-p. 959. 
+[[Adityapurāṇa,|Ādityapurāṇa,]] pp. 715, 893; quoted in [[Srāddhasāra,|Śrāddhasāra,]] p. 866n.
 
-1 244 
+[[Adityabhatta,|Ādityabhaṭṭa,]] author of [[Kālādarsa,|Kālādarśa,]] p. 597.
 
+Adoption, rules of, in [[Vasietha,|Vasiṣṭha,]] p. 105; [[Atrion,|Atri on,]] p. 262; of a [[ksatriya|kṣatriya]] boy, allowed to brāhmaṇa by Medhātithi, pp. 581–82; whether a girl can be taken in, p. 956; rules of, in [[Dattakadidbiti,|Dattakadīdhiti,]] pp. 954–56.
 
+Adultery, with pravrajitā, [[&|a]] mortal sin, according to Nārada, p. 474; punishment for, according to Yama, [[Smrticandrikā|Smṛticandrikā]] and Vyavahāramayūkha, p. 527.
 
-Agnikumāra, elder brother of Hara- | Alankārasudhānidhi, of Sāyana, 
+Adverse possession, vide under possession.
 
-datta, p. 747. 
+[[Agamasaukhya,|Āgamasaukhya,]] p. 913n.
 
-p.78514. Agoinitra, named in Vyavahāranir. | Alekhana, quoted by Bhāradvāja, 
+Agastya, pp. 245, 336, 373; rising of star, in [[Ujjayidi|Ujjayinī]] and [[Rādha,|Rāḍhā,]] p. 707; rise of, dealt with in [[Jyotibsaukhya,|Jyotiḥsaukhya,]] p. [[911,|911.]]
 
-paya, p. 816. 
+Agastyasaṁhitā, p. 958n.
 
-p. 290. Agnipurāṇa, date of, p. 426 ; portion Alexander, pp. 35, 36, 173, 218. 
+Agnihotraprayoga, of Anantadeva, p. 959.
 
-of vyavahāra of, pp. 421-27 ; Altekar, Prof. A. S., pp. 157,714, 911; borrows from Yājśavalkyat and 
+[[P1244]]
 
-criticized, p. 180. Nārada, pp. 424-27 ; extent of, Amrakośa, pp. 17., 168, 225, 227, p. 415 ; Rāma story in, p. 408 ; 
+Agnikumāra, elder brother of Haradatta, p. 747.
 
-373 1., 634, 70114., 938 ; Rāyamu mentioned in Dharmasindhu, p.975. 
+[[Agoinitra,|Agnimitra,]] named in Vyavahāranirṇaya, p. 816.
 
-kula's com, 01, p. 839; date of, Agrawala, Dr. V. S., pp. 817., 414. p. 71n. ; refers to dināra and 
+Agnipurāṇa, date of, p. 426; portion of vyavahāra of, pp. [[421-27|424–27]]; borrows from [[Yājśavalkyat|Yājñavalkya]] and Nārada, pp. 424–27; extent of, p. 415; Rāma story in, p. 408; mentioned in Dharmasindhu, p. 975.
 
-niska, p. 479. Ābnikacintā mani, of Vācaspati, 
+Agrawala, Dr. V. S., pp. [[817.,|81n.,]] 414.
 
-Amarasimha, p. 237. p. 845. 
+Āhnikacintāmaṇi, of Vācaspati, p. 845.
 
-Ambarīsi, pp. 219, 220, 245. Āhnikaprakāśa, pp, 942, 946. 
+Āhnikaprakāśa, [[pp,|pp.]] 942, 946.
 
-Ambaṣıba, a mixed caste, p. 142. Áhnikatattva, pp. 588, 899, 900, 901. 
+[[Áhnikatattva,|Āhnikatattva,]] pp. 588, 899, 900, 901.
 
-Āmbhiyas, pp. 156, 209, 199n. Ain-i-Akbari, p. 911. 
+Ain-i-Akbari, p. 911.
 
-Amrtavyākhyā, p. 917). Aitareyabrāhmana, pp. 2, 8, 9, 95, 
+[[Aitareyabrāhmana,|Aitareyabrāhmaṇa,]] pp. 2, 8, 9, 95, 308, 337.
 
-308, 337. 
+Aiyangar, Prof. K. V. Rangaswami, pp. 298, [[3187.,|318n.,]] 491–94, [[196,|496,]] 609, 663, 664, 815; criticized, pp. 611, 817–20, 821.
 
-Ansaprakāsikā, a com. on Vippu 
+Aiyar, Mr. R. Narayanaswami, pp. 386, 399n.
 
-purana, p. 981. Aiyangar, Prof. K. V. Rangaswami, 
+[[Ajigurta,|Ajīgarta,]] who was ready to sacrifice his son, p. 336; figures in [[Aitareyabrāhmapa,|Aitareyabrāhmaṇa,]] p. 337.
 
-Anadhyaya, cessation of study on pp. 298, 3187., 491–94, 196, 609, 
+Ājīvaka, p. 219.
 
-the first day of month, p. 397 ; 663, 664, 815; criticized, pp. 611, 
+Ājñākraya, sale of [[arreares|arrears]] of revenue by [[kiny's|king's]] order, p. 299.
 
-rules about, apply only to Vedic 817–20, 821. 
+Akbar, pp. 862, 907, 908; Pārasika emperor, p. 909; biography of, by Vincent Smith, p. 911; contemporary of Rudracandra, p. 962.
 
-study and not to sacrifices, p. 64. Aiyar, Mr. R. Narayanaswami, pp. | Anākulā, com. on Āpastambagshya, 
+Akbarnama, of Beveridge, p. 911.
 
-386, 399n. 
+[[Akhandādarśa,|Akhaṇḍādarśa,]] pp. 816, 975.
 
-P. 742. Ajigurta, who was ready to sacrifice Anandabouhācārya, quoted in Jivan. 
+Ākhyānas, named by Manu, p. 315; Mahābhārata mentions, as the 5th Veda, p. 293.
 
-his son, p. 336; figures in Inuktiviveka, p. 788. Aitareyabrāhmapa, p. 337. 
+Akṣamālā, of low birth, united to [[Vasiṣtha,|Vasiṣṭha,]] p. 336.
 
-Anandagiri, p. 547. Ājivaka, p. 219. 
+Akṣapāda, propounded Nyāya system of logic, p. 556.
 
-Adandakanda-campū, of Mitramista, Ajñākraya, sale of arreares of p. 948. 
+[[Alamkārasarvasva,|Alaṁkārasarvasva,]] p. 405.
 
-revenue by kiny's order, p. 299. | Anandapurna, commentator of the Akbar, pp. 862, 907, 908 ; Pārasikat ishābhārata, p 381. 
+[[Alankāraśāstra,|Alaṅkāraśāstra,]] beginnings of, in Kauṭilya, p. 210.
 
-emperor, p. 909; biography of, by Ādandasañjirana, ascribed to Vincent Smith, p. 911; contem 
+[[Alankārasudhānidhi,|Alaṅkārasudhānidhi,]] of Sāyaṇa, p. [[78514.|785n.]]
 
-Madanapala, p. 802. porary of Rudracandra, p. 962, 
+Ālekhana, quoted by Bhāradvāja, p. 290.
 
-Ananta, p. 551. Akbarnama, of Beveridge, p. 911. 
+Alexander, pp. 35, 36, 173, 218.
 
-Anantadeva, pp. 953-963 ; author of Akhandādarśa, pp. 816, 975. 
+Altekar, Prof. A. S., pp. 157, 714, 911; criticized, p. [[180.|480.]]
 
-Rajadharmakaustubha, pp. 389, Ākhyānas, named by Manu, p. 315 ; | 
+[[Amrakośa,|Amarakośa,]] pp. [[17.,|4n.,]] 168, 225, 227, 373n., 634, [[70114.,|701n.,]] 938; Rāyamukuṭa's com. [[01,|on,]] p. 839; date of, p. 71n.; refers to dināra and niṣka, p. 479.
 
-408. Mahābhārata mentions, as the 5th Anantāśrama, author of Vyngyārtha Veda, p. 293. 
+[[Amarasimha,|Amarasiṁha,]] p. 237.
 
-kaumudi, p. 953. Akṣamālā, of low birth, united to Ananta Vasudeva, temple of, p. 614. 
+[[Ambarīsi,|Ambarīṣa,]] pp. 219, 220, 245.
 
-Vasiṣtha, p. 336. 
+[[Ambaṣıba,|Ambaṣṭha,]] a mixed caste, p. 142.
 
-Anāvilā, com, on Āśvalāyadagṛhya, Aksapāda, propounded Nyāya sys. I pp. 742, 743. 
+Āmbhīyas, pp. 156, 209, [[199n.|499n.]]
 
-tem of logic, p. 556. 
+[[Amrtavyākhyā,|Amṛtavyākhyā,]] p. [[917).|917n.]]
 
-Andhra, p. 67 ; Mlecoba country, not Alamkārasarvasva, p. 405. 
+[[Ansaprakāsikā,|Aṁśaprakāśikā,]] a com. on Viṣṇupurāṇa, p. 981.
 
-fit for sacrifice, p. 659 ; called Alankāraśāstra, beginnings of, in 
+[[Anadhyaya,|Anadhyāya,]] cessation of study on the first day of month, p. 397; rules about, apply only to Vedic study and not to sacrifices, p. 64.
 
-Trilinga, p. 876. Kautilya, p. 210. 
+Anākulā, com. on [[Āpastambagshya,|Āpastambagṛhya,]] p. 742.
 
-Andhuka, an author, pp. 7019., 708. 
+[[Anandabouhācārya,|Ānandabodhācārya,]] quoted in Jīvanmuktiviveka, p. 788.
 
-arreal'OS 
+[[Anandagiri,|Ānandagiri,]] p. 547.
 
-General Index 
+[[Adandakanda-campū,|Ānandakanda-campū,]] of [[Mitramista,|Mitramiśra,]] p. 948.
 
-1245 
+[[Anandapurna,|Ānandapūrṇa,]] commentator of the [[ishābhārata,|Mahābhārata,]] p. 381.
 
-p. 40. 
+[[Ādandasañjirana,|Ānandasañjīvana,]] ascribed to Madanapāla, p. 802.
 
-Andikā, a weight, p. 487. 
+Ananta, p. 551.
 
-views of, coincide with Jimi. Aney, Shri M. S., p. 373n. 
+Anantadeva, pp. 953–963; author of Rājadharmakaustubha, pp. 389, 408.
 
-tarāhana's, p. 719. Anga, country, home of mixed castes, Āpastamba, pp. 329, 595; home and 
+Anantāśrama, author of Vyaṅgyārthakaumudī, p. 953.
 
-p. 48. 
+Ananta Vāsudeva, temple of, p. [[614.|644.]]
 
-personal history of, p. 66; bis school Aigas, of Veda, cannot be designated earlier than Hirnyakesin's, p. 66; 
+Anāvilā, [[com,|com.]] on [[Āśvalāyadagṛhya,|Āśvalāyanagṛhya,]] pp. 742, 743.
 
-as Veda, p. 64 ; six, p. 100. 
+Āndhra, p. 67; [[Mlecoba|Mleccha]] country, not fit for sacrifice, p. 659; called Triliṅga, p. 876.
 
-views of, opposed to those of Angiras, pp. 278, 329-30; Smiti of, 
+Andhuka, an author, pp. [[7019.,|701n.,]] 708.
 
-others on sereral points, p. 70; pp. 507–509. 
+[[P1245]]
 
-called 'sūtrabāra' in Bau. Gr., Angirasa, story of, pp. 336, 337. Animāṇdarya, p. 246. 
+[[Andikā,|Aṇḍikā,]] a weight, p. 487.
 
-Apastamba, school of, a subdivision 
+Aney, Shri M. S., p. 373n.
 
-of Khāndikīyas, p. 54. Aniruddha, pp. 651, 662, 727-730; 
+[[Anga,|Aṅga,]] country, home of mixed castes, p. 48.
 
-guru of Ballalasena, p. 518. 
+[[Aigas,|Aṅgas,]] of Veda, cannot be designated as Veda, p. 64; six, p. 100.
 
-Apastambadharmasūtra, pp. 61., 14, Antalikita, a Greek king, p. 355. 
+[[Angiras,|Aṅgiras,]] pp. 278, 329–30; [[Smiti|Smṛti]] of, pp. 507–509.
 
-15, 16, 53–90, 329; autbor of, Antaryāmi Sruti, is Bļ. p. III. 7. I. 
+[[Angirasa,|Āṅgirasa,]] story of, pp. 336, 337.
 
-southerner, p. 29; contents of, pp. 23, p. 78712. 
+[[Animāṇdarya,|Aṇimāṇḍavya,]] p. 246.
 
-56ff.; age of, pp. 70, 73 ff.; bhāsya 
+Aniruddha, pp. 651, 662, 727–730; guru of [[Ballalasena,|Ballālasena,]] p. [[518.|548.]]
 
-kūra of, p. 89; Haradatta's com. Aotyajas, Viṣṇucharnasūtra prohi 
+Antalikita, a Greek king, p. 355.
 
-Cjjvalā on, pp. 89, 742; conflict bits speuch with, p. 121 ; oven, between views of, and of Baudbā. Pp. 262, 508 ; no prayilīcitta for 
+[[Antaryāmi|Antaryāmī]] [[Sruti,|Śruti,]] is [[Bļ.|Bṛ.]] Up. III. 7. [[I.|1.]] 23, p. 787n.
 
-yana, p. 62; contains many strange men who bathe in or drink water 
+[[Aotyajas,|Antyajas,]] [[Viṣṇucharnasūtra|Viṣṇudharmasūtra]] prohibits speech with, p. 121; seven, pp. 262, 508; no [[prayilīcitta|prāyaścitta]] for men who bathe in or drink water from a well constructed by, p. 294; can instal image of Bhairava acc. to Devīpurāṇa, p. 935n.
 
-words, p. 59; has many sūtras and from a well constructed by, p. 
+Antyeṣṭipaddhati, of Nārāyaṇabhaṭṭa, p. 905.
 
-Verses in common with Baudhā 294 ; can instal image of Bhairava 
+[[Antyeștipaddhati,|Antyeṣṭipaddhati,]] of [[Anantadera,|Anantadeva,]] p. 963.
 
-Fana, p. 51; has special relation to acc. to Devīpurāṇa, p. 935n. 
+[[Anubhūtiprakāśit,|Anubhūtiprakāśa,]] of [[Mūniharicārya,|Mādhavācārya,]] p. 787.
 
-Pūrramimāṁsā, p. 63; language Antyestipaddhati, of Nārāyancha 
+[[Anurāda,|Anuvāda,]] cannot be a vidhi, p. 64.
 
-of, p. 59; lays down stricter and bhatta, p. 905. 
+[[Anviksiki,|Ānvīkṣikī,]] one of the Vidyās, pp. 144, 145, 434; ātmavidyā, lamp of all vidyās, p. 226; [[tarkividya|tarkavidyā]] acc. to [[Kṣiragvāmin,|Kṣīrasvāmin,]] pp. 225, 226.
 
-more puritanic views tban Bau 
+Apadeśa, one of the yantrayuktis, meaning of, pp. 195–96.
 
-duāyana, p. 50; literature known Antyeștipaddhati, of Anantadera, 
+Āpadeva, author of [[Swticanibel,|Smṛticandrikā,]] p. 741.
 
-to, pp. 60-63; presuplioses grhya 
+Āpadeva, author of Mīmāṁsānyāyaprakāśa, p. 961.
 
-sutra, p. 55; stricking cojucidences Anubhūtiprakāśit, of Mūniharicārya, 
+Aparārka, or Aparāditya, pp. 34, 66, 90, 105, 131, 133, 328, [[410,|440,]] [[187,|487,]] 492, 713–723; quotes Viṣṇu most profusely, pp. 120, 272; [[quote|quotes]] Parāśara and [[Viṣeucharmott:l'it|Viṣṇudharmottara]] frequently, p. 464; criticizes Mitākṣarā, pp. [[719–1|719–21]]; quoted and refuted by [[Smiticandrikā,|Smṛticandrikā,]] p. 721; views of, coincide with Jīmūtavāhana's, p. 719.
 
-between, and Gautamadharmasū. p. 787. 
+Āpastamba, pp. 329, 595; home and personal history of, p. 66; [[bis|his]] school earlier than [[Hirnyakesin's,|Hiraṇyakeśin's,]] p. 66; views of, opposed to those of others on [[sereral|several]] points, p. 70; called ‘[[sūtrabāra|sūtrakāra]]’ in Bau. Gṛ., p. 40.
 
-tra, pp. 62-63; explanation of the Anurāda, cannot be a vidhi, p. 64. 
+Āpastamba, school of, a subdivision of Khāṇḍikīyas, p. 54.
 
-word purchase? in, p. 79. Anviksiki, one of the Vidyag, pp. 
+Āpastambadharmasūtra, pp. 6n., 14, 15, 16, 53–90, 329; [[autbor|author]] of, southerner, p. 29; contents of, pp. 56ff.; age of, pp. 70, 73 ff.; bhāṣyakāra of, p. 89; Haradatta's com. [[Cjjvalā|Ujjvalā]] on, pp. 89, 742; conflict between views of, and of Baudhāyana, p. 62; contains many strange words, p. 59; has many sūtras and verses in common with Baudhāyana, p. 51; has special relation to Pūrvamīmāṁsā, p. 63; language of, p. 59; lays down stricter and more puritanic views than Baudhāyana, p. 50; literature known to, pp. 60–63; [[presuplioses|presupposes]] gṛhyasūtra, p. 55; [[stricking|striking]] [[cojucidences|coincidences]] between, and Gautamadharmasūtra, pp. 62–63; explanation of the word ‘purchase’ in, p. 7n.
 
-Apastambagrhyasūtra, pp. 16, 17, 40, 144, 145, 434 ; ātmavidya, lamp of 
+Āpastambagṛhyasūtra, pp. 16, 17, 40, 55, 446; topics of brahmacārins, atithi and śrāddha meagrely stated in, p. 21; commentary on, by Sudarśanācārya, p. 567; commentary Anākulā on, p. 742; refers to teachings of the Dharmasūtra, p. 55; silent about the forms of marriage, holidays, p. 55; some sūtras in, identical with those of Āp. Dh. S., p. 55; composed by the author of dharmasūtra, p. 56; extremely brief as compared with Āśv. Gṛ. and Gobhilagṛhya, p. [[Jt.|54.]]
 
-55, 16; topics of brahmacārins, all vidyās, p. 226 ; tarkividya acc. 
+[[A pastamla-kilpa,|Āpastamba-kalpa,]] divisions of, p. 53.
 
-atitli and srāddha meagrely stated to Kṣiragvāmin, pp. 225. 226. 
+[[A pastanıltsrautii-sūtra,|Āpastamba-śrauta-sūtra,]] p. 71; authorship of, p. 54.
 
-in, p. 21; commentary on, by Apadeśa, one of the yantrayuktis, Sudarīanācārya, p. 567; comment 
+[[P1246]]
 
-meaning of, pp. 195-96. 
+[[Āpastambasūtra-dhranitārtha-kārikā|Āpastambasūtra-dhvanitārtha-kārikā]] of Trikāṇḍamaṇḍana, p. 551.
 
-ary Anākulā on, p. 742; refers to Apadeva, author of Swticanibel, teachings of the Dharmasūtra, 
+[[Āpastambiya-mantrapātba,|Āpastambīya-mantrapāṭha,]] p. 82n.; a commentary of Haradatta on, p. 742.
 
-p. 741. 
+Apekṣitārthadyotinī, of Nārāyaṇa, p. 805.
 
-p. 55; silent about the forms of Āpadeva, author of Mimāṁsāuya 
+Apipāla, p. 893n.
 
-marriage, holidays, p. 55; 
+Apte, Prof. M. V., p. 17n.
 
-some sūtras in, identical with yaprakasa, p. 961. 
+Āraṇyaka, composed by Yāj., p. 433.
 
-those of Ap. Dh. S., p. 55; compo A parārka, or Aparāditya, pp. 34, 66, sed by the author of dharmasūtra, 
+Āraṭṭa, a country, pp. 49, 219.
 
-90, 105, 131, 133, 328, 410, 187, 492, p. 56; extremely brief as com 713–723; quotes Viṣṇu most pared with Asv. Gr. and Gobhila profusely, pp. 120, 272 ; quote grliya, p. Jt. Parāsara and Viṣeucharmott:l'it 
+Arhat, teachings of, delude people, p. 511.
 
-A pastamla-kilpa, divisions of, p. 53. frequently, p. 464; criticizes Mitā. ksarā, pp. 719–1 ; quoted and A pastanıltsrautii-sūtra, p.71; author refuted by Smiticandrikā, p. 721; } whip uf, 1). 54. 
+Arjuna, p. 211.
 
-OV 
+Ārkavivāha, p. 976.
 
-p. 963. 
+Arthakaumudī, commentary on Śuddhidīpikā, p. 882.
 
-1246 
+[[Arthasāstra,|Arthaśāstra,]] of Bṛhaspati, pp. 162, 289, 290.
 
+Arthaśāstra, of Kauṭilya, pp. 149–256; meaning of the word, pp. 149–52; identified with rājanītiśāstra, p. 151; upaveda of Atharvaveda, pp. 152, 158, Cākṣuṣīya and Kauṭilīya, pp. 152–54; commentaries on, pp. [[1556;|154–56;]] Kauṭilya's is the oldest text on, p. 158; Mudrārākṣasa and, pp. 166, 168, 173–74; of Kauṭilya, pp. 175–97; Kauṭilya's definition of, p. 193; form, style and contents of, pp. 198 ff.; age of, pp. 175, 177, 233–41; relation of, to Manusmṛti and the Mahābhārata, pp. 241 ff.; a branch of dharmaśāstra, p. 158; commentaries Pratipadapañcikā and Nayacandrikā on, pp. 247–48.
 
+Āryāpañcadaśī, quoted in Jīvanmuktiviveka, p. 788.
 
-Āpastambasūtra-dhranitārtha-kārikā Asabāya, pp. 37, 547-551; composed 
+Āryāvarta, views about, quoted by Baudhāyana, pp. 48–49; definition of, p. 118; limits of, according to Śaṅkha, p. 141; Bhallāvins' gāthā on the limits of, pp. 45, 313; limits of, pp. 11, 97; location of, given by Vi. Dh. S. vague, p. 121.
 
-of Trikandamandana, p. 551, 
+Asafoetida, use of, forbidden according to Haradatta, p. 744.
 
-bhāsya on Nārada, pp. 546, 547, Āpastambiya-mantrapātba, p. 82n. ; 
+[[Asabāya,|Asahāya,]] pp. 37, 547–551; composed bhāṣya on Nārada, pp. 546, 547, and on Gautama, pp. 548, 728; commentary of, on Śaṅkha-Likhita, p. 547; probably composed [[&|a]] commentary on Manusmṛti, pp. 548–49.
 
-and on Gautama, pp. 548, 728; 
+Āśauca, none, in marriages, famines, fairs etc., p. 285; none for kings, royal officers, physicians etc., p. 519.
 
-commentary of, on Saṅkha-Likhita a commentary of Haradatta on, p. 742. 
+Āśaucadaśaka, p. 613; authorship of, pp. 613–14; commentaries on, p. 614.
 
-p. 547; probably composed & 
+[[Ā$auca-nirṇaya,|Āśauca-nirṇaya,]] of Jīvadeva, p. 961.
 
-commentary on Manusmrti, pp. Apekṣitārthadyotini, of Nārāyana, 548-49. 
+[[ĀSauca-nirṇaya,|Āśauca-nirṇaya,]] of Nāgoji, p. 964.
 
-p. 805. 
+Āśauca-nirṇaya (or [[ṣadasīti|Ṣaḍaśīti]]), of Kauśikāditya, p. 917.
 
-Āśauca, none, in marriages, famines, Apipāla, p. 893n. 
+Aśaucasāgara, of Kullūka, p. 758.
 
-fairs etc., p. 285; none for kings, Apte, Prof. M. V., p. 17n. 
+Ascetics, yellow-robed, sight of, p. 121.
 
-royal officers, physicians etc., Āranyaka, composed by Yāj., p. 433.1 p. 519. Aratta, a country, pp. 49, 219. A saucadaśaka, p. 613; authorship of, 
+[[Asmarathya,|Āśmarathya,]] p. 290.
 
-pp. 613–14; commentaries on, Arhat, teachings of, delude people, 
+[[Asoka,|Aśoka,]] pp. [[59.,|5n.,]] 6n., 190, 214, [[2177.,|217n.,]] 444; was crowned 218 years after passing away of Buddha, p. 171.
 
-p. 614. p. 511. 
+[[Āramas,|Āśramas,]] division into four, ascribed to *asura* Kapila, according to Baudhāyana, pp. 45–46; Kṣatriya can resort to three, pp. 438n., 456.
 
-Ā$auca-nirṇaya, of Jivadeva, p. 961. Arjuna, p. 211. 
+[[Astāngahrdaya,|Aṣṭāṅgahṛdaya,]] of Vāgbhaṭa, pp. 118n., 755; com. Āyurvedarasāyana on, by Hemādri, p. 755.
 
-ĀSauca-nirṇaya, of Nāgoji, p. 964. Ārkavivāha, p. 976. 
+[[Asvaghoṣa,|Aśvaghoṣa,]] refers to Bṛhaspati and Śukra, p. 162; refers to Mānavadharma, p. 330.
 
-Ā śauca-nirṇaya (or ṣadasīti ), of Arthakaumudi, commentary on Su. 
+[[Āśvalāyanagrbya,|Āśvalāyanagṛhya,]] pp. 15, 54, 311; commentary on, by Nārāyaṇa, p. 591; commentary Anāvilā on, pp. 742, 743; mentions several sages, p. 24.
 
-Kausikāditya, p. 917. ddhidipikā, p. 882 
+[[Asvalāyana-srauta-sūtra,|Āśvalāyana-śrauta-sūtra,]] refers to [[djfferiog|differing]] views of [[Gāpagāri,|Gāṇagāri,]] Taulvali and Gautama, p. 28; does not mention Kutala among gotra groups, p. 196; commentary of Nārāyaṇa on, pp. 591, 593.
 
-Aśaucasāgara, of Kullūka, p. 758. Arthasāstra, of Brhaspati, pp. 162, 
+Ātatāyin, p. 298; killing an, pp. 298, 497, 640; who are, when they could be killed in self-defence, p. 95.
 
-289, 290. 
+[[P1247]]
 
-Ascetics, yellow-robed, sight of, p.121. Arthaśāstra, of Kautilya, pp. 149 
+[[Atharvaṇādbbuta,|Ātharvaṇādbhuta,]] p. 732n.
 
-Asmarathya, p. 290. 256; meaning of the word, pp. 149. Asoka, pp. 59., 6n., 190, 214, 2177., 52; identified with rājanītiśāstra, 144; was crowned 218 years after p. 151; upaveda of Atharvaveda, passing away of Buddha, p. 171. pp. 152, 158, Cākṣusiya and Kauti. 
+Atharvaveda, pp. 7, 9n., 232, [[8481.;|848n.;]] contains many verses of the Ṛgveda, p. 2; [[Artbaśāstra|Arthaśāstra]] is the Upaveda of, p. 63; spoken of as Atharvāṅgirasī Śruti, p. 315; has [[Kauiskasūtra|Kauśikasūtra]] as its [[grbya,|gṛhya,]] p. 19.
 
-Āramas, division into four, ascribed liya, pp. 152-54; commentaries 
+Atheism, referred to by Manu, p. 315.
 
-to asura Kapila, according to on, pp. 1556; Kautilya's is the 
+Atithi, duties of, p. 21; definition of, p. 57; [[precidence|precedence]] of, p. 57; procedure in case of, whose caste and character are doubtful, and one who comes to king, p. 57.
 
-Baudbāyana, pp. 45–46; Ksatriya oldest text on, p. 158; Mudrārā. 
+Atri, author on dharmaśāstra, p. 315; [[gavo|gave]] [[bis|his]] only son to Aurva, p. 8; work of, [[oo|on]] [[dharmačāstra,|dharmaśāstra,]] pp. 261–264; named by Manusmṛti, pp. 302, 315; smṛti of, p. 103.
 
-can resort to three, pp. 438n., 456. kṣasa and, pp. 166, 168, 173-74; of 
+Audumbara, kind of sapatnika vānaprastha, p. 258.
 
-Astāngahrdaya, of Vāgbhata, pp. Kautilya, pp. 175-97; Kautilya's 
+Aufrecht, Prof., pp. 613, 615, 618, 896, 963.
 
-118n., 755 ; com, Ayurvedarasa definition of, p. 193; form, style and contents of, pp. 198 ff.; age of, 
+[[Aupajangbani,|Aupajaṅghani,]] p. 286; named by Baudhāyana as holding that *aurasa* son only to be recognised, pp. 45, 302.
 
-pana on, by Hemādri, p. 755. pp. 175, 177, 233-41; relation of, to | Asvaghoṣa, refers to Brhaspati and Manusmrti and the Mahābhārata, Sukra, p. 162; refers to Mānara pp. 241 ff.; & branch of dharma- dharma, p. 330. $āstra, p. 158; commentaries Prati- |Āśvalāyanagrbya, pp. 15, 54, 311; pada pañcikā and Nayacandrikā 
+Aurangzeb, demolished Viśveśvara temple, p. 908.
 
-commentary on, by Nārāyana, on, pp. 247–48. 
+Aurva, p. 8.
 
-p. 591; commentary Anāvilā on, Āryāpañcadasi, quoted in Jivan- pp. 742, 743; mentions several 
+[[Auśanasa-dbarmaśāstra,|Auśanasa-dharmaśāstra,]] deals with mixed castes and their avocations, p. 270.
 
-muktiviveka, p. 788. 
+[[Ausapasas,|Auśanasas,]] one of the five schools mentioned by Kauṭilya, p. 209.
 
-sages, p. 24, Aryā varta, views about, quoted by Asvalāyana-srauta-sūtra, refers to 
+Āvaḍī, daughter of Kāśīnātha, married to Rāmakṛṣṇa, son of Marathi poet Moropant, p. 978.
 
-Baudbāyana, pp. 48–49; definition djfferiog views of Gāpagāri, Taul of, p. 118; limits of, according to vali and Gautama, p. 28; does not Saṅkha, p. 141; Bhallāvins' gātha mention Kutala among gotra on the limits of, pp. 45, 313; limits groups, p. 196; commentary of of, pp. 11, 97; location of, given Nārāyana on, pp. 591, 593. 
+Avakraya, meaning of, p. 298.
 
-by Vi. Dh. S. vague, p. 121. Ātatāyin, p. 298; killing an, pp. 298, Asafoetida, use of, forbidden accord- 497, 640; who are, when they 
+Avantivarman, vanquished Hūṇas, p. 169.
 
-ing to Haradatta, p. 744, 
+Āvarta, p. 731.
 
-could be killed in self-defence, p.95, 
+Āvasathika, meaning of, p. 627.
 
-General Index 
+Avanti, p. 373; country of mixed castes, p. 48.
 
-1247 
+Aviśvāsa, sheet-anchor of Bṛhaspati's policy, p. 288; essence of all nītiśāstras, p. 159.
 
-Atharvaṇādbbuta, p. 732n. 
+Āyogava, a mixed caste, p. 142.
 
-Aviśvāsa, sheet-anchor of Brhaspati's Atharvaveda, pp. 7, 9n., 232, 8481.; 
+Āyurveda, p. 645; eight aṅgas of, pp. [[2167.,|216n.,]] 259.
 
-policy, p. 288; essence of all contains many verses of the nitiśāstras, p. 159. Rgveda, p. 2; Artbaśāstra is the Ayogava, a mixed caste, p. 142. Upaveda of, p. 63; spoken of as 
+Āyurvedarasāyana, com. on Vāgbhaṭa's work, p. 755.
 
-Ayurveda, p. 645; eight angas of, Atharvāngirasi Sruti, p. 315; has pp. 2167., 259. Kauiskasūtra as its grbya, p. 19. 
+Bādarāyaṇa, p. 732n.
 
-Ayurvedarasāyana, com. on Vāgbha Atheism, referred to by Manu, ta's work, p. 755. 
+Bāhlīka, a country, p. 219; a non-Aryan tribe, p. 261.
 
-P. 315. Atithi, duties of p. 21; definition of, Bādarāyana, p. 732n. 
+Bāhudantaka, [[Damed|named]] in Mahābhārata, pp. 210, 308.
 
-p. 57; precidence of, p. 57; proce- Bāhlika, a country, p. 219; a non dure in case of, whose caste and 
+Bāhudantiputra, pp. 209, 210.
 
-Aryan tribe, p. 261. character are doubtful, and one 
+Bahvṛcāhnika, p. 927.
 
-Bāhudantaka, Damed in Mahābhāra wbo comes to king, p. 57. 
+Baijavāpa, p. 805.
 
-ta, pp. 210, 308. Atri, author on dharmaśāstra, p. 315; 
+[[Baijarāpagrhya,|Baijavāpagṛhya,]] p. 18; on Vināyaka, p. 440.
 
-Bāhudantiputra, pp. 209, 210. gavo bis only son to Aurva, p. 8; work of, oo dharmačāstra, pp. 
+Bakhtiyar Khilji, defeated Lakṣmaṇasena, p. 631.
 
-Bahvṛcāhnika, p. 927. 261-264; named by Manusmrti, Baijavāpa, p. 805. pp. 302, 315; smrti of, p. 103. 
+Bālabhūṣā, com. on Tattvamuktāvali, pp. [[9171.,|917n.,]] 924.
 
-Baijarāpagrhya, p. 18; on Vināyaka, Audumbara, kind of sapatnika p. 440. 
+[[Bālabbūșana,|Bālabhūṣaṇa,]] p. 858.
 
-vāpaprastha, p. 258. 
+Bālaka, pp. 640, 705–706, 893n.
 
-Bakhtiyar Khilji, defeated Laksmana Aufrecht, Prof., pp. 613, 615, 618, 896, seda, p. 631. 
+[[Bālakrida,|Bālakrīḍā,]] Viśvarūpa's com. on Yāj., pp. 493, 553.
 
-963. 
+[[Balambbatta,|Bālambhaṭṭa,]] pp. 968–974.
 
-Bālabhūṣā, com. on Tattvamuktāvali, Aupajangbani, p. 286; named by 
+Bālambhaṭṭī, pp. 549, 558, 613; com. on Mitākṣarā, p. 968 ff.
 
-pp. 9171., 924. Baudhayana 89 holding that 
+Balārkodaya, p. 863.
 
-Bālabbūșana, p. 858. aurasa son oply to be recognised, pp. 45, 302. 
+Bālarūpa, pp. 596–598, 776.
 
-Bālaka, pp. 640, 705–706, 893n. Aurangzeb, demolished Visvesvara Bālakrida, Viśvarūpa's com. on Yāj., 
+[[Balavalabbibbujanga,|Bālavalabhībhujaṅga,]] meaning of, pp. 645, 646.
 
-temple, p. 908. 
+[[Ballklasena,|Ballālasena,]] pp. 629, 730–735; quotes [[Mabā-Vyāsa|Mahā-Vyāsa]] and Laghu-Vyāsa, p. 534; pupil of Aniruddha, pp. 548, 728.
 
-pp. 493, 553. Aurva, p. 8. 
+Bāṇa, pp. 49, 174, 187, 197, 475, [[5579.,|557n.,]] 646, 705.
 
-Balambbatta, pp. 968-974. Auśanasa-dbarmaśāstra, deals with Bālambhatti, pp. 549, 558, 613; com. 
+[[Bapavase,|Banavase,]] country of, p. 791.
 
-mixed castes and their avocations, on Mitākṣarā, p. 968 ff. p. 270. 
+Bandhus, p. 305; three kinds of, p. 597.
 
-Balārkodaya, p. 863. Ausapasas, one of the five schools Balarūpa, pp. 596–598, 776. 
+[[P1248]]
 
-mentioned by Kautilya, p. 209. 
+Banerji-sastri, A., p. 247.
 
-Balavalabbibbujanga, meaning of, Āvadi, daughter of Kāśinātha, pp. 645, 646. 
+Banerji, Dr. S. C., pp. 10, [[81-86,|84–86,]] 128, 136, [[8367.,|836n.,]] [[$387.,|838n.,]] [[8517.,|851n.;]] criticized, p. 87.
 
-married to Rāmakrṣṇa, son of 
+Bapat, Prof., p. 137.
 
-Ballklasena, pp. 629, 730–735; quotes Marathi poet Moropant, p. 978. 
+Bārhaspatyas, p. 206; one of the five schools mentioned by Kauṭilya, p. 209.
 
-Mabā-Vyāsa and Laghu-Vyāsa, Avakraya, meaning of, p. 298. 
+Barua, Dr. B. M., pp. 178, 216–217.
 
-p. 534; pupil of Aniruddha, pp. Avantivarman, vanquished Hūnas, 
+Basu, Shri G. C., p. 811.
 
-548, 728. p. 169. 
+Bathing, in rivers, disallowed in the months of Śrāvaṇa and Bhādrapada, p. [[5:22;|522;]] on touching certain people, p. 536.
 
-Bāṇa, pp. 49, 174, 187, 197, 475, Āvarta, p. 731. 
+Baudhāyana, a teacher of Kṛṣṇa Yajurveda, p. 38; his sūtras, how arranged according to Burnell, p. 38; [[styler|styled]] [[Kānvāyana,|Kāṇvāyana,]] p. 39; styled pravacanakāra, p. 40.
 
-5579., 646, 705. A vasathika, meaning of, p. 627. Bapavase, country of, p. 791. Avanti, p. 373; country of mixed' Bandhus, p. 305; three kinds of, p. 
+[[Baudhāyana-īlharmasūtra,|Baudhāyana-dharmasūtra,]] pp. 38–53; age of, pp. 49–51; authors named in, p. 45; borrows one chapter from [[Goutama,|Gautama,]] [[pr.|pp.]] 33, [[13;|43;]] has many sūtras in common with Gautama, p. 34; contents of, pp. 41–43; structure of, p. 44; literature known to, pp. [[44-17;|44–47;]] home of, pp. 47–49; one chapter of, agrees closely with Viṣṇudharmasūtra, p. 43; text of, rather suspicious, p. 43; has many sūtras in common with Āpastamba, p. 51; has numerous quotations in common with Vasiṣṭha, p. 52; refers to Baudhāyanagṛhya, p. 39; several verses [[comnion|common]] to Parāśara and, p. 463.
 
-castes, p. 48, 
+Baudhāyanagṛhya, [[illow's|allows]] upanayana to *rathakāra*, p. 50, referred to by Bau. Dh. S., p. 39; on the word ‘bhrūṇa’, p. 48; on marriage nakṣatras, p. [[416;|446;]] quoted in the Mitākṣarā, p. 43.
 
-1 597. 
+Bauddhas, [[delurle|delude]] people, p. 511.
 
-. 
+Baz Bahadur, patron of Anantadeva, pp. 957, 961; [[Anante:devil|Anantadeva]] compiled Smṛtikaustubha at the [[commitne|command]] of, p. 960; date of, p. 962.
 
-1248 
+Beames, p. 876.
 
+Belvalkar, Dr., pp. 227, 747, 965, 966, 973.
 
+Bergaigne, A., p. 345.
 
-Banerji-sastri, A., p. 247. 
+Beveridge, p. 911.
 
-| Belvalkar, Dr., pp. 227, 747, 965, Banerji, Dr. S. C., pp. 10, 81-86, 966, 973. 
+Bhāgabhadra, a king, p. 355.
 
-128, 136, 8367., $387., 8517., criti 
+[[Bhagaradbhaktinirṇaya,|Bhagavadbhaktinirṇaya,]] pp. 959, 963.
 
-Bergaigne, A., p. 345. cized p. 87. 
+Bhagavadgītā, pp. 4, 252, 413; verses of, borrowed by Yāj. Smṛti, pp. 450, 451; [[rerses|verses]] of, borrowed by Viṣṇudharmasūtra, p. 117; largely quoted in Jīvanmuktiviveka, p. 788; referred to [[liy|by]] Haradatta, p. 749.
 
-Beveridge, p. 911. Bapat, Prof., p. 137. 
+Bhagavannāmakaumudī, of Lakṣmīdhara, p. 963; [[Anantadera's|Anantadeva's]] com. called Prakāśa on, p. 963.
 
-Bhāgabhadra, a king, p. 355. Bārhaspatyas, p. 206; one of the five 
+Bhagavantabhāskara, of Nīlakaṇṭha, p. [[938.|938;]] composed in Bundelkhand, p. 881.
 
-Bhagaradbhaktinirṇaya, pp. 959,963, schools mentioned by Kautilya, p. 209. 
+[[Bhagavantadera,|Bhagavantadeva,]] patron of Nīlakaṇṭha, p. 938.
 
-Bhagavadgitā, pp. 4, 252, 413; verses Barua, Dr. B. M., pp. 178, 216–217. 
+Bhāgavatapurāṇa, pp. 298, 413, 421, [[$46,|896,]] 898n., 910n.; not drawn upon in Dānasāgara, p. 731; Śrīdharasvāmin's commentary on, pp. 378, 379, 886; extent of, p. 415; philosophy of, embodied in [[Muktūpbala,|Muktāphala,]] p. 754.
 
-of, borrowed by Yāj. Smrti, pp. 
+Bhagavattattvamañjarī, p. 730.
 
-450, 451; rerses of, borrowed by Basu, Shri G. C., p. 811. 
+Bhāguri, [[it|a]] commentator of Manu, pp. 346, [[70171.,|701n.,]] 770n.
 
-Viṣṇudharmasūtra, p. 117; largely Bathing, in rivers, disallowed in the 
+Bhaimarathī, an Ākhyāyikā, p. 81.
 
-quoted in Jīvarmuktiviveka, p.788; months of Srāvana and Bhadra- referred to liy Haradatta, p. 749. pada, p. 5:22; on touching certain 
+[[Blairavendra,|Bhairavendra,]] king of Mithilā, pp. [[814,|844,]] 847, 852.
 
-Bhagavannāmakaumudi, of Laksmi. people, p. 536. 
+Bhakti, p. 359; meaning of, p. 359n.; topic dealt with in some Purāṇas, p. 413; nine aspects of, pp. 952–53.
 
-dhara, p. 963; Anantadera's com. Baudhāyana, a teacher of Krsna 
+[[Bhaktinirnnya,|Bhaktinirṇaya,]] p. 975.
 
-called Prakāśa on, p. 963. Yajurveda, p. 38; his sūtras, how 
+Bhaktiviveka, p. 963.
 
-Bhagavantabhāskara, of Nīlakantha, arranged according to Burnell, p. 
+[[Bhallāvina,|Bhallāvins,]] gāthā of, quoted in [[Bauhāyana,|Baudhāyana,]] about limits of Āryāvarta, p. 45; gāthā of, quoted by [[Visiṣl,|Vasiṣṭha,]] pp. [[4.7,|45,]] 100.
 
-p. 938. composed in Bundelkhand, 38; styler Kānvāyana, p. 39; sty 
+[[Błāmati,|Bhāmatī,]] [[ou|on]] [[Śhaṅkarabhāsya,|Śaṅkarabhāṣya,]] pp. [[143,|443,]] 563, 583.
 
-P. 881. led pravacanakāra, p. 10. 
+Bhāminīvilāsa, p. 624.
 
-Bhagavantadera, patron of Nilakan. Baudhāyana-īlharmasūtra, pp. 38-53; 
+[[P1249]]
 
-tha, p. 938. age of, pp. 49-51; authors named in, p. 15; borrows one chapter Bhagavatapurāṇa, pp. 298, 413, 421, from Goutama, pr. 33, 13; has $46, 898n., 910n.; not drawn upon many Sūtras in common with in Dānasāgara, p. 731; Sridhara Gautama, p. 34; contents of, pp. srāmin's commentary on, pp. 378, 41-43; structure of, p. 44; litera- 379, 886; extent of, p. 415; philo ture known to, pp. 44-17; home 
+Bhandari, Pandit [[Vignu|Viṣṇu]] Prasad, p. 948.
 
-sophy of, embodied in Muktūpbala, of, pp. 47-19: one chapter of, 
+Bhandarkar, Dr. Sir, pp. 377, 760, 961.
 
-p. 754, agrees closely with Vishudharma. sūtra, p. 43; text of, rather suspi. 
+Bhandarkar, [[Ar,|Dr.]] D. R., pp. 15n., 157, 215, 221, [[492;|482;]] criticized, p. 223.
 
-Bhagavattattramañjarī, p. 730. cious, p. 43; has many sūtras in Bhāguri, it commentator of Manu, common with Apastambul, p. 51; pp. 316, 70171., 770n. has numerous quotations in com- | Bhaimarathi, an Akhyāyikā, p. 81. mon with Vasisiba, p. 52: refers 
+[[Bhāradyāja,|Bhāradvāja,]] writer on dharma, pp. 290–294; who accepted many cows, p. 336.
 
-Blairavendra, king of Mithilā, pp. to Baudhāyanagihya, p. 39; seve ral verses comnion to Parāśara 
+Bhāradvāja, writer on Arthaśāstra, pp. 164, 209, 210; views of, 291; [[Kaninka,|Kaṇiṅka,]] pp. 209, 291.
 
-814, 847, 852. 
+Bhāradvājagṛhyasūtra, pp. 17, 39, 290.
 
-and, p. 463. 
+Bhāradvājaśrautasūtra, p. 290.
 
-Bhakti, p. 359; meaning of, p. 359n.; 
+Bharata, author of [[Nalyasastra,|Nāṭyaśāstra,]] p. 600.
 
-topic dealt with in some Purāpas, Baudhāyanagrhya, illow's upauayana 
+Bhāratabhāvadīpa, Nīlakaṇṭha Caturdhara's commentary on Mahābhārata, p. 378.
 
-p. 413; nine aspects of, pp. 952– to rrethakuorrt, . 50, referred to 
+Bharatacandra, Pandit, p. 704.
 
-53. by Bau. Dh. S., p. 39; on the word 'bhruna' p. 18; on marriage 
+Bharatavākya, meaning of, p. 168; not defined in [[Natyaśāstra,|Nāṭyaśāstra,]] p. 169; prominent character in play, p. 169.
 
-Bhaktinirnnya, p. 975. 
+[[Bbāratītīrtba,|Bhāratītīrtha,]] teacher of Mādhavācārya, p. 785.
 
-pakṣntras, p. 416; quoted in the 
+Bhāravi, p. 77.
 
-Bhaktiviveka, p. 963. Mitākṣarı, p. 43. 
+Bhārgava, mentioned in Karmapradīpa, p. 503.
 
-Bhallāvina, gāthā of, quoted in Bauddhas, delurle people, p. 511. 
+Bhārgavīya, p. 732n.
 
-Bauhāyana, about limits of Ar Baz Bahadur, patron of Anantadevil, 
+[[Bhartryajĩa,|Bhartṛyajña,]] pp. [[551-533,|551–553,]] 576.
 
-Jūvarta, p. 45; gāthā of, quoted pp. 957, 961; Anante:devil cuinpileci 
+Bhāruci, pp. 565–571; and the Mitākṣarā, p. [[569;|568;]] and the Viṣṇudharmasūtra, pp. 127, 567–68; quoted as [[dibandhakāra|nibandhakāra]] in [[Saravatīvilāsa,|Sarasvatīvilāsa,]] pp. 872, 873.
 
-Hy Visiṣl, I'p. 4.7, 100. Smrtikaustubha at the commitne Błāmati, ou Śhaṅkarabhāsya, pp. 143, of, p. 960; date of, p. 962. 
+Bhāsa, pp. 178, 331.
 
-563, 583. Beames, p. 876. 
+Bhāṣā-vyākhyāna, com. on Kauṭilīya in Malayalam, p. 155.
 
-Bhāminivilāsa, p. 624, 
+Bhāskara, bhāṣyakāra on Vedāntasūtras, p. 757.
 
-General Index 
+[[Bhāskarācāryā,|Bhāskarācārya,]] pp. 802, 803.
 
-1249 
+Bhāskaradatta, father of Viśākhadatta, p. 169.
 
-TJIE 
+Bhāskaravarman, king of Kāmarūpa, grant of, pp. [[291.,|29n.,]] 167.
 
-Bhandari, Pandit Vignu Prasad, p.; 
+[[Bhāsyārthasaṁgrahakāra,|Bhāṣyārthasaṁgrahakāra,]] p. 738.
 
-948. Bhandarkar, Dr. Sir, pp. 377, 760, 
+Bhaṭṭabhālūka, p. 817n.
 
-961. Bhandarkar, Ar, D. R., pp. 15 n., 157, 
+[[Bbattacharya,|Bhattacharya,]] Dr. Bhabatosh, pp. 388, 389, [[4381.,|438n.,]] 630, 772 etc.; criticized, pp. 768–70, 883–84.
 
-215, 221, 492; criticized, p. 223. Bhāradyāja, writer on dharma, pp. 
+Bhattacharya, Dr. Durgamohan, pp. 625, 627.
 
-290-294; who accepted many 
+Bhattacharya, Prof. Dineshcandra, pp. 637, [[6447.|644n.,]] 850.
 
-p. 336, Bhāradvāja, writer on Arthaśāstra, 
+[[Bhāttadipikā,|Bhāṭṭadīpikā,]] of [[Kbandadeva,|Khaṇḍadeva,]] p. 968.
 
-pp. 164, 209, 210; views of, 291; 
+[[Bbattakumāra,|Bhaṭṭakumāra,]] named in Vyavahāranirṇaya, p. 817.
 
-Kaninka, pp. 209, 291. Bhāradvājagṛhyasūtra, pp. 17, 39, 
+[[Bhattālankāra,|Bhaṭṭālaṅkāra,]] commentary on Mīmāṁsānyāyaprakāśa, p. 963.
 
-290. Bhāradvājasrautasūtra, p. 290. Bharata, author of Nalyasastra, P. 
+[[Bhattasyāmin.|Bhaṭṭasvāmin,]] commentator of [[Arthasāstra,|Arthaśāstra,]] pp. 155, 247.
 
-600. Bhāratabhāvadīpa, Nilakantha Catur- 
+[[Bhattayarśakāvra,|Bhaṭṭavaṁśakāvya,]] of Kāntānāthabhaṭṭa, p. 906.
 
-dbara's commentary on Mahābhā 
+[[Bhattavārtika-krt,|Bhaṭṭavārtika-kṛt,]] p. 757.
 
-rata, p. 378. Bharatacandra, Pandit, p. 704. Bharatavākya, meaning of, p. 168; 
+[[Bhattoji,|Bhaṭṭoji,]] pp. 347, 466; his commentary on [[Caturviñsatimata,|Caturviṁśatimata,]] pp. 482, 511; his commentary on Āśaucadaśaka, p. 614; son of Lakṣmīdhara, p. 512; pedigree of, 966n.; pupil of [[Śhaṅkarabhatta|Śaṅkarabhaṭṭa]] and [[Soṣa|Śeṣa]] Śrīkṛṣṇa, pp. 965, 967.
 
-not defined in Natyaśāstra, p. 169; prominent character in play, p. 
+Bhau Daji, Dr., pp. 786, 791, 926.
 
-169. Bbāratītīrtba, teacher of Madhavā. 
+Bhavabhūti, p. 564.
 
-cārya, p. 785. Bhāravi, p. 77. Bhārgava, mentioned in Karmapra 
+Bhavadeva, pp. 639–652, [[8939.;|893n.;]] author of Prāyaścittanirūpaṇa, p. 596; styled [[Bālavalabbībhujanga,|Bālavalabhībhujaṅga,]] pp. 644–45; author of Śavasūtikā-śaucaprakaraṇa, p. 647.
 
-dipa, p. 503. Bhargaviya, p. 732n. Bhartryajĩa, pp. 551-533, 576. Bhāruci, pp. 565–571; and the Mitā 
+Bhāvadhana, p. 701n.
 
-kṣarā, p. 569; and the Virpudhar masūtra, pp. 127, 567-68; quoted as dibandhakāra in Saravatīvilāsa, 
+Bhavanātha, mentioned by Smṛticandrikā, p. 738.
 
-pp. 872, 873. Bhāsa, pp. 178, 331. Bhāṣā-vyākhyāna, com. on Kautilīya 
+[[Bhavagyāmin,|Bhavasvāmin,]] commentator of Nāradasmṛti, pp. 477–80, date of, p. 481.
 
-in Malayalam, p. 155. Bhāskara, bhāṣyakāra on Vedānta 
+Bhavatrāta, commentator of Kauṣītaka Gṛ. S., p. 16.
 
-sūtras, p. 757. Bhāskarācāryā, pp. 802, 803. Bhāskaradatta, father of Visakha- 
+[[Bhavesa,|Bhaveśa,]] king of Mithilā, pp. 767, 775, 843, 849.
 
-& datta, p. 169. Bhāskara varman, king of Kāmarūpa, 
+Bhaviṣyapurāṇa, on [[fire-fold|five-fold]] dharma, p. 4n.; quoted by Aparārka, pp. 34, 105; on Manu, pp. 309, 328; quoted in [[Srāddhasara,|Śrāddhasāra,]] p. 866n.
 
-grant of, pp. 291., 167. 
+[[P1250]]
 
-H. D. 157 
+Bhaviṣyatpurāṇa, pp. [[345.,|34n.,]] 63, 414; speaks of 36 smṛtis, p. 303.
 
-Bhāsyārthasaṁgrahakāra, p. 738. Bhattabhālūka, p. 817. Bbattacharya, Dr. Bhabatosh, pp. 
+Bhaviṣyottarapurāṇa, pp. 723, 747, 805.
 
-388, 389, 4381., 630, 772 etc.; 
+[[Bbiksātana,|Bhikṣāṭana,]] p. 557.
 
-criticized, pp. 768–70, 883–84. Bhattacharya, Dr. Durgāmohan, pp. 
+[[Bhiksātanakāvya,|Bhikṣāṭanakāvya,]] of [[Srivabhaktidāsa,|Śivabhaktidāsa,]] p. 557.
 
-625, 627. Bhattacharya, Prof. Dineshcandra, 
+[[Bhikśu,|Bhikṣu,]] used by Gautama in the sense of parivrājaka, p. 35; four kinds of, pp. 258, 259.
 
-pp. 637, 6447. 850. Bhāttadipikā, of Kbandadeva, po 
+[[Bhiksu|Bhikṣu]] Prabhamati, commentator of Arthaśāstra, p. 155.
 
-968. Bbattakumāra, named in Vyavahāra 
+Bhikṣusūtras, p. 80.
 
-nirṇaya, p. 817. Bhattālankāra, commentary on Mi 
+Bhīmaparākrama, a work, pp. 849n., 893n.
 
-mimeānyāyaprakāśa, p. 963. Bhattasyāmin. commentator of 
+[[Bhogadātha,|Bhoganātha,]] younger brother of Mādhavācārya, p. 785; wrote six works, p. 785n.; narmasaciva of king Saṅgama II, p. 789.
 
-Arthasāstra, pp. 155, 247. Bhattayarśakāvra, of Kāntānātha. 
+Bhoja, author of Dharmapradīpa, p. 591.
 
-bhatta, p. 906. Bhattavārtika-krt, p. 757. Bhattoji, pp. 347, 466; his commen. 
+Bhojadeva, vide under Dhāreśvara, p. 893n.; commented on Manu, pp. 347, 580; numerous works ascribed to, p. 585; wrote on grammar, medicine and yoga, p. 586; author of Rājamārtaṇḍa and [[Bbujabalabbima,|Bhujabalabhīma,]] p. 588.
 
-tary on Caturviñsatimata, pp. 482, 511; his commentary on Āś. aucadaśnka, p. 614; son of Laks. midhara, p. 512; pedigree of, 966n.; pupil of Śhaṅkarabhatta and Soṣa 
+Bhojaprabandha, p. 589.
 
-Srikrṣṇa, pp. 965, 967. Bhau Daji, Dr., pp. 786, 791, 926. Bhavabhūti, p. 564. Bhavadeva, pp. 639-652, 8939.; au. 
+Bhojarājīya, quoted in Jayasiṁha-Kalpadruma and [[Nirnayāmṛta,|Nirṇayāmṛta,]] pp. 586, 587.
 
-thor of Prayascittanirūpana, p. 596; styled Bālavalabbībhujanga, pr. 644-45; author of Savasūti. 
+Bhṛgu, named by Manu, pp. 302, 315; son of fire, p. 331; quoted by Kātyāyana, pp. 497, 498.
 
-kā-śaucaprakarana, p. 647. Bhāvadhana, p. 701n. Bhavanātha, mentioned by Smītican 
+Bhrūṇa, meaning of, p. 48; prāyaścitta for killing a, p. 57.
 
-drikā, p. 738. Bhavagyāmin, commentator of Nāra. 
+Bhujabalabhima, a work of Bhoja, pp. 588, [[8419,|841n.,]] 893n.; cited in Dolayātrā, p. 827.
 
-dasmrti, pp. 477-80, date of, p. 
+Bhūpāla, stands for Bhojadeva in works on dharma, pp. 587, 761, 770n.
 
-481. 
+[[Bhūpāla-krtyasamuccaya,|Bhūpāla-kṛtyasamuccaya,]] p. 770n.
 
-Bhavatrāta, commentator of Kausi 
+[[Bhipāla-paddhati,|Bhūpāla-paddhati,]] stands for Bhojadeva's work, pp. 587, 770n.; mentioned by Vardhamāna, p. 858.
 
-taka Gr. S., p. 16. Bhavesa, king of Mithilā, pp. 767, 
+Bhuvaneśvara, temple of Ananta at, p. 644.
 
-775, 843, 849. Bhavisvadu Bhaviṣyapurāṇa, on fire-fold dharma, 
+[[Bindumādbava,|Bindumādhava,]] form of Viṣṇu, worshipped at Benares, p. 925n.
 
-p. 4n.; quoted by Aparārka, pp. 34, 105; on Manu, pp. 309, 328; quoted in Srāddhasara, p. 866n. 
+Bloch, Th., p. 260.
 
-1250 
+Blochmann, pp. 911, 912.
 
+Bodhāyana, wrote [[&|a]] [[Vitti|*Vṛtti*]] called Kṛtakoṭi on the [[Vedāptasūtras,|Vedāntasūtras,]] pp. 566, 593.
 
+Bose, Dr. Atindranath, pp. 217, 218.
 
-p. 644, 
+Brahmā, credited with a huge work on dharma, [[artba|artha]] and kāma in the Mahābhārata, pp. 287, 308; and also according to [[Kāpasūtra,|Kāmasūtra,]] p. 288; from him sprang Virāj, p. 309; [[gevoz|seven]] sons of, p. 511.
 
-10 
+Brāhma, form of marriage, distinguished from Prājāpatya, p. 745.
 
-Bhaviṣyatpurāṇa, pp. 345., 63, 414; | Bhuvaneśvara, temple of Ananta at, 
+Brahmacārin, duties of, pp. 9, 258; four kinds of, p. 258.
 
-speaks of 36 smrtis, p. 303. Bhaviṣyottarapurāṇa, pp. 723, 747, Bindumādbava, form of Viṣṇu, wor 
+Brahmacāriprakāśa, p. 881.
 
-805. 
+Brahmagupta, p. 700.
 
-shipped at Benares, p. 925n. Bbiksātana, p. 557. 
+Brāhmaṇa, avocations allowed to, p. 33; allowed by Vasiṣṭha and [[Viṣṇudbarmasūtra|Viṣṇudharmasūtra]] to marry a girl of any of the four varṇas, pp. 126, 269; first allowed and then condemned by Manu for marrying a [[$ūdra|śūdra]] woman, pp. 205, 331; disallowed by [[Yājöavalkya|Yājñavalkya]] to marry a [[$ūdra|śūdra]] girl, p. 438; varieties of, p. 262; of certain localities [[pot|not]] honoured (at śrāddha), p. 262; no bodily injury to be done to, prāyaścittas for killing a, pp. 267, 296; no sin or prāyaścitta for killing an *ātatāyin*, pp. 267, 298; learned, on par with king, p. [[315|315;]] forbidden by Manu to dwell in the kingdom of a [[$ūdra,|śūdra,]] p. 335; powers of, pp. 336–37; guilty of murder [[aot|not]] to be sentenced, p. 302; of Gayā supermen, p. 412.
 
-Bloch, Th., p. 260. Bhiksātanakāvya, of Srivabhaktidāsa, Blochmann, pp. 911, 912. 
+Brahmānanda-bhārati, author of Puruṣārthaprabodha, p. 562.
 
-p. 557. 
+Brahmānandin, and Ṭaṅka identical, p. 567.
 
-Bodhāyana, wrote & Vitti called Bhikśu, used by Gautama in the 
+[[Brābmanasarvasva,|Brāhmaṇasarvasva,]] of [[Halāyudba,|Halāyudha,]] p. 625; chief object of, p. 627.
 
-Kr̥ta koti on the Vedāptasūtras, sense of parivrājaka, p. 35; four pp. 566, 593. kinds of, pp. 258, 259. 
+[[P1251]]
 
-Bose, Dr. Atindranath, pp. 217, 218. Bhiksu Prabhamati, commentator of Brahmā, credited with a huge work 
+[[Brahmāndapurāṇa,|Brahmāṇḍapurāṇa,]] pp. 171, 601; does not contain [[dāpavidhi,|dānavidhi,]] p. 731.
 
-Arthaśāstra, p. 155. 
+Brahmapurāṇa, pp. 126, 601, 670, [[9037.|903n.]]
 
-on dharma, artba and kāma in the Bhikṣusūtras, p. 80. 
+Brahmasiddhānta, p. 732n.
 
-Mahābhārata, pp. 287, 308; and 
+Brahmasūtra, pp. 299, 356; Śaṅkara's bhāṣya on, pp. 65, 443; quotes [[Sāntiparvad|Śāntiparvan]] to the effect that all the four varṇas are entitled to acquire knowledge, p. 895.
 
-also according to Kāpasūtra, p. Bhimaparākrama, & work, pp. 849n., 
+Brahmayajña, p. 129n.
 
-288; from him sprang Virāj, p. 893n. 
+Brahmayāmala, p. 910n.
 
-309; gevoz sons of, p. 511. Bhogadātha, younger brother of Mā. 
+Breloer, pp. 157, 215.
 
-Brāhma, form of marriage, disting dbavācārya, P. 785; wrote six 
+Bṛhad-Aṅgiras, p. 509.
 
-uished from Prājāpatya, p. 745. works, p. 785 n.; Darmasaciva of king Sangama II, p. 789. 
+Bṛhad-āraṇyakopaniṣad, pp. 65, 73, 97, 145, 422, 431, 461; borrowed by Yāj., pp. 434, 440.
 
-Brahmacārin, duties of, pp. 9, 258; Bhoja, author of Dharmapradīpa, p. 
+[[Bșhaddevatā,|Bṛhaddevatā,]] pp. 211, 337.
 
-four kiods of, p. 258. 591. 
+Bṛhad-Gārgya, quoted in Smṛticandrikā, p. 276.
 
-Brahmacāriprakāśa, p. 881. Bhojadeva, vide under Dhāreśvara, Brahmagupta, p. 700. 
+Bṛhad-Rājamārtaṇḍa, p. 588.
 
-p. 893n.; commented on Manu, 
+[[Brbad-Vasiṣtha,|Bṛhad-Vasiṣṭha,]] p. 112.
 
-Brāhmana, avocations allowed to, pp. 347, 580; numerous works 
+[[Bșhad-Viṣṇu,|Bṛhad-Viṣṇu,]] pp. 126, 717.
 
-p. 33; allowed by Vasiṣtha and ascribed to, p. 585; wrote on 
+Bṛhad-Yājñavalkya, p. 448.
 
-Viṣṇudbarmasūtra to marry a girl grammar, medicine and yoga, 
+[[Bṛbad-Yama,|Bṛhad-Yama,]] pp. 524, 527, 717.
 
-of any of the four varṇas, pp. 126, p. 586; author of Rājamārtaṇḍa 
+Bṛhad-Yogiyājñavalkya, pp. 450–455.
 
-269; first allowed and then con. and Bbujabalabbima, p. 588. 
+Bṛhan-Manu, pp. 334, 349, 717.
 
-demned by Manu for marrying a Bhojaprabandba, p. 589. 
+[[Bșhao-Nārada,|Bṛhan-Nārada,]] p. 482.
 
-$ūdra woman, pp. 205,331; disallow. 
+[[Brbaspati,|Bṛhaspati,]] on [[Arth:1$āstra,|Arthaśāstra,]] pp. 287–290; on [[dharma'āstra,|dharmaśāstra,]] views of, quoted by Kauṭilīya, pp. 268, 555; propounder of [[Rājadbarma,|Rājadharma,]] p. 341.
 
-ed by Yājöavalkya to marry a Bhojarājīya, quoted in Jayasimha 
+Bṛhaspati-smṛti, pp. 484–495; closely follows Manu, p. 484; but differs from Manu on some points, pp. 486–87; and Nārada, pp. 485–86; order of topics of law [[jo,|in,]] pp. 484–85; age of, pp. 487–88; nothing can be said about country of, p. 489; quoted profusely by Mitākṣarā, pp. 489–90; first to distinguish between civil and criminal justice, p. 485.
 
-$ūdra girl, p. 438; varieties of, p. Kalpadruma and Nirnayāmṛta, pp. 
+Bṛhatkathā, of [[Guṇādbya,|Guṇāḍhya,]] pp. 171, 750.
 
-262; of certain localities pot hono. 586, 587. 
+[[Bihatkathāmañjari,|Bṛhatkathāmañjarī,]] of Kṣemendra, p. 171.
 
-ured (at srāddha), p. 262; no bo Bhrgu, named by Manu, pp. 302, dily injury to be done to, prayag. 
+Bṛhat-Kātyāyana, p. 502.
 
-315; son of fire, p. 331; quoted by cittas for killing a, pp. 267, 296; DO Kātyāyana, pp. 497, 498. 
+[[Brbat-Parāśara,|Bṛhat-Parāśara,]] pp. 305, 465–66.
 
-sin or prāyaścitta for killing an Bhrūna, meaning of, p. 48; prāyaści 
+Bṛhat-Prācetas, pp. 520, 717.
 
-atatāyin, pp. 267, 298; learned, tta for killing a, p. 57. 
+Bṛhat-Saṁvarta, p. [[513.|543.]]
 
-on par with king, p. 315 for 
+Bṛhat-Śātātapa, p. 296.
 
-bidden by Manu to dwell in the Bhujabalabhima, a work of Bhoja, 
+Brides, purchase of, not unknown in Vedic age, p. 7; tests for selecting, mentioned in sūtras, p. 310.
 
-kingdom of a $ūdra, p. 335; pp. 588, 8419, 893n.; cited in 
+Brother, full and half-brother re-united, pp. 824–25; full, inherits first, p. 969; Nandapaṇḍita recognises uterine, as an heir, p. 920.
 
-powers of, pp. 336-37; guilty of Dolayātrā, p. 827. 
+Brothers, include sisters for inheritance, according to Nandapaṇḍita, p. 920; succeed before parents in case of property acquired without detriment to ancestral property, p. 623.
 
-murder aot to be sentenced, p. 302; Bhūpāla, stands for Bhojadeva in of Gayā supermen, p. 412. 
+Brother's son, includes grandson for inheritance, according to Nandapaṇḍita, p. 920.
 
-works on dharma, pp. 587, 761, Brahmananda-bhārati, author of Pu. 770n. 
+Buckland, C. E., compiled ‘Dictionary of Indian Geography’, p. 979.
 
-ruṣārthaprabodha, p. 562. Bhūpāla-krtyasamuccaya, p. 770n. Brahmānandin, and Tanka identical, Bhipāla-paddhati, stands for Bhoja- p. 567. 
+Buddha, p. 171; condemnation of, in Rāmāyaṇa, p. 371; teaching of, in [[Dhammacakka-ppavattana-gutta,|Dhammacakka-ppavattana-sutta,]] p. 227.
 
-deva's work, pp. 587, 770n.; men. Brābmanasarvasva, of Halāyudba, tioned by Vardhamana, p. 858. ? p. 625; chief object of, p. 627.General Index 
+Buddhacarita, of [[A$vagboṣa,|Aśvaghoṣa,]] p. 162.
 
-1251 
+Buddhapurāṇa, of Paṇḍita Indradatta, p. 214.
 
-p. 171. 
+Buddhasena, king of Magadha, p. 632.
 
-Brahmāndapurāṇa, pp. 171, 601; does | Bihatkathāmañjari, of Ksemendra, 
+Buddhist, sight of, an evil omen, p. 447; saṅgha, p. 70; not to be invited to dinners in honour of gods, p. 219.
 
-not contain dāpavidhi, p. 731. Brahmapurāṇa, pp. 126, 601, 670, Br̥hat-Kātyāyana, p. 502, 
+Budha, dharmasūtra of, pp. 286–287.
 
-9037. 
+Bühler, Dr., pp. 22, 33, 36, 47, 52, 102, 103, 259, 306, 310, 311, 316, 317, 331–32, 335, 336, 337, 343, 467, 475, 487, 576, 661, 742; criticized, pp. 12, 32, 35, 48, 53, 100, 104, 578.
 
-Brbat-Parāśara, pp. 305, 465-66. Brahmasiddhānta, p. 732n. 
+Bulcke, Prof. C., p. 387; criticized, p. 390.
 
-Bṛhat-Prācetas, pp. 520, 717. Brahmasūtra, pp. 299, 356; Śhaṅkara's Br̥hat-Samvarta, p. 513. 
+[[P1252]]
 
-bhāṣya on, pp. 65, 443; quotes 
+Burmese, [[gorerned|governed]] by Manusmṛti, p. 346; grafted their law on Manu when they adopted the latter, p. [[341,|341.]]
 
-Bṛhat-Śatātapa, p. 296. Sāntiparvad to the effect that all 
+Burnell, Dr., pp. 38, 53, 743, 875, 927; criticized, pp. 786, 787.
 
-Brides, purchase of, not unknown the four varṇas are entitled to 
+Buyer, rights of, to recover price paid, p. 522.
 
-in Vedic age, p. 7; tests for acquire knowledge, p. 895. 
+Caitanya, relations of, with Pratāparudradeva, p. 776; pupil of Vāsudeva Sārvabhauma, p. 893.
 
-selecting, mentioned in sūtras, Brahmayajña, p. 129n. 
+Cakranārāyaṇī, p. 826n.
 
-P. 310. Brahmayāmala, p. 910n. 
+Cakravartin, meaning of, p. 227; same as [[sārvabbauma|sārvabhauma]] according to Amarakośa, p. 227; limits of his region, p. 227.
 
-Brother, full and half-brother re-uni Breloer, pp. 157, 215. 
+Cākṣuṣīya Arthaśāstra, p. 152.
 
-ted, pp. 824–25; full, inherits first, Brhad-Angiras, p. 509. 
+Caland, Dr., pp. 38, 39, 122n., 125, 129, 257, 284, 311, 333, 441; criticized, p. 260.
 
-p. 969; Nandapandita recognises 
+Cālukyas, of [[Kalyana,|Kalyāṇa,]] pp. 607, 608.
 
-uterine, as an heir, p. 920. Brhad-āraṇyakopaniṣad, pp. 65, 73, 97, 145, 422, 431, 461, borrowed by 
+Camatkārakhaṇḍa, p. 794n.
 
-Brothers, include sisters for inherit Yāj., pp. 434, 440. 
+Cambridge, History of India, pp. 105, 172.
 
-ance, according to Nandapandita, 
+Cāṇakya, vide under Kauṭilya, p. 192; born in a village called [[Capaka|Caṇaka]] and hence the name, p. 167; sūtras attributed to, p. 248; referred to by Manu as a writer on daṇḍanīti, p. 575; associated with Gāndhāra, p. [[214,|214.]]
 
-p. 920; succeed before parents in Bșhaddevatā, pp. 211, 337. 
+[[Cānakyatikā,|Cāṇakyaṭīkā,]] by Bhikṣu Prabhamati, p. 155.
 
-case of property acquired without Brhad-Gārgya, quoted in Smrtican- detriment to ancestral property, 
+Cāṇḍāla, p. 73; prāyaścitta for touching, p. 274.
 
-drikā, p. 276. 
+Candana-dhenupramāṇa, a work of Vācaspati, p. 844n.
 
-p. 623. Brhad-Rājamārtaṇḍa, p. 588. 
+Caṇḍeśvara, pp. 763–775; Rājanītiratnākara of, frequently quotes Nārada on politics, p. 475; Vivādaratnākara of, relies upon Kāmadhenu several times, p. 618; Ratnākaras of, frequently quote [[Kāmadhepu,|Kāmadhenu,]] p. 621; mentions Halāyudha dozens of times, p. 623; and cites views of Prakāśa scores of times, p. 652; pedigree of, p. 774n.; five predecessors of, p. 768.
 
-Brother's son, includes grandson for 
+Candicaran [[Smrtibhūṣaana,|Smṛtibhūṣaṇa,]] p. 837.
 
-inheritance, according to Nanda. Brbad-Vasiṣtha, p. 112. 
+Caṇḍīdāsa, commentator of Kāvyaprakāśa, p. 883n.
 
-pandita, p. 920. Bșhad-Viṣṇu, pp. 126, 717. Brhad-Yājñavalkya, p. 448. 
+Caṇḍīprayoga, p. 964n.
 
-Buckland, C. E., compiled 'Diction 
+Candraprabhā, of Nīlāmbarācārya, p. 982.
 
-ary of Indian Geography', p. 979. Bṛbad-Yama, pp. 524, 527, 717. 
+Candraprakāśa, p. 916n.
 
-Buddha, p. 171; condemnation of, in Bṛhad-Yogiyājñavalkya, pp. 450 
+Candrasiṁha, great-grandson of Bhaveśa of Mithilā, p. 843.
 
-Rāmāyana, p. 371; teaching of, in 
+Caraka, pp. 118, 216, 246, 732n.
 
-Dhammacakka-ppavattana-gutta, Bṛban-Manu, pp. 334, 349, 717. Bșhao-Nārada, p. 482. 
+Caraṇavyūha, pp. 54, 112, 148; of [[Saunaka,|Śaunaka,]] pp. 158, 257; commentary on, pp. 22, 67, 91.
 
-Buddhacarita, of A$vagboṣa, p. 162. Brbaspati, on Arth:1$āstra, pp. 287 
+Cārāyaṇa, [[Dirgha,|Dīrgha,]] named by Kauṭilya, p. 209.
 
-Buddhapurāṇa, of Pandita Indrada 290; on dharma'āstra, views of, tta, p. 214. quoted by Kauṭiliya, pp. 268, 555; | Buddhasena, king of Magadha, 
+Cārvāka, words of, delude people, p. 511.
 
-propounder of Rājadbarma, p. 341. p. 632. Brhaspati-smrti, pp. 484-495; closely Buddhist, sight of, an evil omen, p. 
+Castes, mixed, home of, p. 48; long lists of, given by Gautama and Baudhāyana, p. 73; seven lowest, p. 524n., rules about mixed, p. 116.
 
-follows Manu, p. 484; but differs 
+Caturaṅga, game of, p. 892.
 
-447; sangha, p. 70; not to be from Manu on some points, pp. 
+Caturaṅgadīpikā, of Śūlapāṇi p. 837.
 
-invited to dinners in honour of 486–87; and Nārada, pp. 485–86; 
+Cāturmāsya-paddhati, of Aniruddha, p. 730.
 
-gods, p. 219. order of topics of law jo, pp. 484- | Budha, dharmasūtra of, pp. 286-287. 85; age of, pp. 487–88; nothing Būhler, Dr., pp. 22, 33, 36, 47, 52, can be said about country of, p. 102, 103, 259, 306, 310, 311, 316, 489; quoted profusely by Mitākṣa- 317, 331-32, 335, 336, 337, 343, rā, pp. 489–90; first to distinguish 467, 475, 487, 576, 661, 742; between civil and criminal justice, 
+[[Cātusmāsya-prayoga,|Cāturmāsya-prayoga,]] of [[Abantadeva,|Anantadeva,]] p. 959.
 
-criticized, pp. 12, 32, 35, 48, 53, P. 485. 
+Caturvarga-cintāmaṇi, pp. [[1411.,|141n.,]] 142n., 286n., 749, 752, 754.
 
-100, 104, 578. Br̥hatkathā, of Guṇādbya, pp. 171, Bulcke, Prof. C., p. 387; criticized, 
+[[Caturvedatātparyasamgraba,|Caturvedatātparyasaṁgraha,]] p. 748.
 
-750. 
+[[Caturvirmsatimata,|Caturviṁśatimata,]] pp. 303, 510–513; commentary of Bhaṭṭoji on, pp. 112, 132n., 466, 482, 512; subjects treated of in, p. 511; authors quoted by, 511.
 
-p. 390. 
+Caula, p. [[533,|533.]]
 
-455. 
+Cauṇḍappa, commentator of Āpastambīyasūtras, p. 53.
 
-p. 227. 
+Chakaldar, Mr. M. C., p. 71.
 
-1252 
+Chakravarti, Rai Bahadur M. M., pp. 626, 639, 645, 700, 707, 709, 710, 711, 758, 759, 775, 836, [[83711.,|837n.,]] 843, 844n., 847, 849, 853, 869n., 889, 890, 893, 898.
 
+Chakravarti, Dr. [[Sbrimati|Shrimati]] Vani, p. 887.
 
+[[P1253]]
 
-recove 
+Chalas, 50 in number are cases on which king took action without complaint, p. 515.
 
-Burmese, gorerned by Manusmrti, Candicaran Smrtibhūṣaana, p. 837. 
+Chamberlain, p. 180.
 
-p. 346; grafted their law on Manu 
+Chand, dynasty of Almora, p. 962.
 
-Candidāsa, commentator of Kāvya when they adopted the latter, p. 
+Chandaḥ-sūtra, of Piṅgala, p. 624; commentary of Halāyudha on, p. 624.
 
-I prakāśa, p. 883n. 341, 
+Chandoga-gṛhya-bhāṣyakāra, p. 742.
 
-Candiprayoga, p. 964n. Burnell, Dr., pp. 38, 53, 743, 875, 
+Chandogāhnika, of [[S'rīdatta,|Śrīdatta,]] pp. 760–761.
 
-Candraprabhā, of Nilambarācārya, 927; criticized, pp. 786, 787. 
+Chandogapaddhati, pp. 760–61.
 
-p. 982. Buyer, rights of, to recover price | 
+[[Chā ndogaparisisła,|Chāndogapariśiṣṭa,]] p. 728.
 
-Candraprakāśa, p. 916n. paid, p. 522. 
+Chandogaśrāddhatattva, p. 897.
 
-Candragimba, great-grandson of Caitanya, relations of, with Pratāpa 
+[[Chāndog yopaniṣad,|Chāndogyopaniṣad,]] pp. 3, 23, 32n., 50, 61, on the meaning of dharma, p. 3; speaks of [[Itibāsa-Purāṇa|Itihāsa-Purāṇa]] as the fifth Veda, p. 409.
 
-Bhaveśa of Mitbilā, p. 843. rudradeva, p. 776; pupil of Caraka, pp. 118, 216, 246, 732n. Vāsudeva Sārvabhauma, p. 893. Caranavyūha, pp. 54, 112, 148; of 
+Chatterjee, Dr. Bijan Raj, author of ‘India and Java’, pp. 398, 399.
 
-Saunaka, pp. 158, 257; commentary Cakranārāyanī, p. 826n. 
+Chatterjee, Mr. Justice Digambara, p. 763.
 
-on, pp. 22, 67, 91. Cakravartin, meaning of, p. 227; | 
+Chaudhuri, Dr. J. B., p. 837.
 
-Cārāyana, Dirgha, named by Kauti same as sārvabbauma according 
+Children, sale of, among Mlecchas, p. 219.
 
-lya, p. 209. to Amarakośa, p. 227; limits of his region, p. 227. 
+Chintamani, Dr. T. R., pp. 16, 239, 276, [[478.79,|478–79,]] 566, 568; criticized, p. 480.
 
-Cārvāka, words of, delude people, Cākṣuṣīya Arthaśāstra, p. 152. 
+Choudhary, Prof. [[Radbakrishna,|Radhakrishna,]] p. 632.
 
-p. 511. Caland, Dr., pp. 38, 39, 1221., 125, Castes, mixed, home of, p. 48; long 
+Cīnas, silks from, pp. 211, 212; mentioned by Manu, p. 326.
 
-129, 257, 284, 311, 333, 441; criti- lists of, given by Gautama and cized, p. 260. 
+Clothes, whether impartible, p. 329.
 
-Baudhāyana, p. 73; seven lowest, Cālukyas, of Kalyana, pp. 607, 608. 
+Coercion, vitiated all transactions, p. 526.
 
-p. 524n., rules about mixed, p. 116. Camatkārakhanda, p. 794n. 
+Colas, p. 743.
 
-Caturanga, game of, p. 892. Cambridge, History of India, pp. Caturangadīpikā, of Sūlapāṇi p. 837. 
+Colebrooke, pp. 704, 711, 839, 972, 979.
 
-105, 172. 
+Compromise, period [[with|within]] which could be set aside, pp. 293–94, 298.
 
-Cāturmāsya-paddhati, of Aniruddha, Cā nakya, vide under Kautilya, 
+[[Conflictof,|Conflict of,]] [[Smitis|Smṛtis]] and [[Purāpas,|Purāṇas,]] p. 867.
 
-p. 730. p. 192; born in a village called 
+Conze, Dr. E., author of ‘Buddhist Thought in India’, p. 5n.
 
-Cātusmāsya-prayoga, of Abantadeva, Capaka and hence the name, p. 167; sūtras attributed to, p. 248; re 
+Coronation, rites of, p. 618.
 
-p. 959. ferred to by Manu as a writer on Caturvarga-cintāmaṇi, pp. 1411., dandanīti, p. 575; associated with 142n., 286n., 749, 752, 754. Gāndhāra, p. 214, 
+Corporations of warriors, p. 218.
 
-Caturvedatātparyasamgraba, p. 748. Cānakyatikā, by Bhikṣu Prabhamati, Caturvirmsatimata, pp. 303, 510-513; 
+Council, of ministers, to consist of 16, according to Bṛhaspati, p. 288; to consist of 7 or 8 *sacivas* according to Manusmṛti, p. 205.
 
-commentary of Bhattoji on, pp. Cāṇdāla, p. 73; prāyaścitta for 112, 132n., 466, 482, 512; subjects 
+Courts, gradation of, for trial of suits, pp. 515–16.
 
-touching, p. 274, 
+Cow, [[prayascitta|prāyaścitta]] for killing a, pp. 274, 289, 294, 329, 830.
 
-treated of in, p. 511; authors Candana-dhenupramāna, a work of 
+Cunningham, General, p. 444.
 
-quoted by, 511. Vācaspati, p. 844n. 
+Cyavana, pp. 277–278, [[910%.|910n.]]
 
-Caula, p. 533 Candesvara, pp. 763–775; Rājanj. 
+Dahlmann, p. 353.
 
-Caundappa, commentator of Āpastam ti-ratnākara of, frequently quotes 
+Daivajñacintāmaṇi, p. 910n.
 
-bīyasūtras, p. 53. Nārada on politics, p. 475; Vivādaratnākara of, relies upon 
+Daivajñamanohara, p. 910n.
 
-Chakaldar, Mr. M. C., p. 71. Kāmadhenu several times, p. 618; 
+Dakṣa, and his daughters, p. 336.
 
-Chakravarti, Rai Bahadur M. M., Ratnākaras of, frequently quote 
+Dakṣa, smṛti of, pp. 513–514.
 
-pp. 626, 639, 645, 700, 707, 709, Kāmadhepu, p. 621; mentions 
+[[Dakṣipāpatha,|Dakṣiṇāpatha,]] meaning of, pp. 48, 49; home of mixed castes, p. 49; ordinarily means countries south of the Narmadā, p. 212; used by Kauṭilya in the sense of trade route to the south, p. 213.
 
-710, 711, 758, 759, 775, 836, 83711., Halāyudba dozens of times, p. 
+Dalapati, author of Nṛsiṁhaprasāda, p. 861; south Indian, p. 868; pupil of [[Suryapandita|Sūryapaṇḍita]] [[end|and]] [[8|a]] great exponent of Vaiṣṇavadharma, p. 662.
 
-843, 8441., 847, 849, 853, 869n., 623; and cites views of Prakās a 
+[[Dāmdupat,|Dāmdupaṭ,]] p. 848.
 
-889, 890, 893, 898. scores of times, p. 652; pedigree of, Chakravarti, Dr. Sbrimati Vani, p.774 n.; five predecessors of. p.768.' p. 887. 
+[[Dāba-Bṛhaspati,|Dāna-Bṛhaspati,]] p. 290.
 
-p. 155. 
+[[Dāpadbarmaprakriyā,|Dānadharmaprakriyā,]] of Bhavadeva, p. 652.
 
-General Index 
+Dānakamalākara, p. 927.
 
-1253 
+[[Dāvakaumudi,|Dānakaumudī,]] p. 882.
 
-Chalas, 50 in number are cases on Council, of ministers, to consist of 16, 
+Dānaprakāśa, p. 945.
 
-which king took action without according to Bṛhaspati, p. 288; to complaint, p. 515. 
+[[Dāparatnākara,|Dānaratnākara,]] pp. 290, 587, 653, 774, 775n.; contents of, p. 765.
 
-consist of 7 or 8 sacivas according Chamberlain, p. 180. 
+Dānasāgara, pp. 398, 534, 728, 730, 731, 732, 770n.; subjects dealt with by, p. 731; work of Aniruddha according to Raghunandana, p. 734.
 
-to Manusmrti, p. 205. Chand, dynasty of Almora, p. 962. 
+Dānavākyāvali, of [[Candesvara|Caṇḍeśvara]] pp. 768, 893n.
 
-Courts, gradation of, for trial of Chandah-sūtra, of Pingala, p. 624; 
+[[Dānavivekodd yota,|Dānavivekoddyota,]] of [[Madadasimha,|Madanasiṁha,]] p. 664.
 
-suits, pp. 515–16. commentary of Halāyudha on, 
+Dāna-Vyāsa, p. 534.
 
-Cow, prayascitta for killing a, pp. p. 624. 
+Daṇḍa, of four [[lovels,|levels,]] p. 856.
 
-274, 289, 294, 329, 830. Chandoga-grhya-bhāṣyakāra, p. 742. 
+[[P1254]]
 
-Cunningham, General, p. 444. Chandogāhnika, of S'rīdatta, pp. 760 | Cyavana, pp. 277-278, 910%. 
+Daṇḍanīti, pp. 266, 434; one of the three vidyās to be studied by a king, p. 144; compressed by Viṣṇugupta in six thousand ślokas, p. 192.
 
-761, Chandogapaddhati, pp. 760–61. 
+[[Dandaviveka,|Daṇḍaviveka,]] of [[Vardhamāda,|Vardhamāna,]] pp. 621, 852, 854–858.
 
-Dahlmann, p. 353. Chā ndogaparisisła, p. 728. 
+Daṇḍin, pp. 165, 168, 171, 192, 222.
 
-Daivajñacintāmaṇi, p. 910n. Chandogaśrāddhatattva, P. 897. 
+Darpanārāyaṇa, grandson [[ofB haveśa,|of Bhaveśa,]] p. 843.
 
-Daivajñamanohara, p. 910n. Chāndog yopaniṣad, pp. 3, 23, 32n., 
+Dāsa, who could be made to work as, p. 497.
 
-Dakṣa, and his daughters, p. 336. 50, 61, on the meaning of dharma, Dakṣa, smrti of, pp. 513-514. p. 3; speaks of Itibāsa-Purāṇa as 
+Daśakarmapaddhati or –dīpikā, of Bhavadeva, p. 641.
 
-Dakṣipāpatha, meaning of, pp. 48, the fifth Veda, p. 409. 
+Daśakumāracarita, of Daṇḍin, pp. 151, 165, 192.
 
-49; home of mixed castes, p. 49; Chatterjee, Dr. Bijan Raj, author of 
+Daśarathajātaka, and [[Rāmāyapa,|Rāmāyaṇa,]] pp. [[392–93,|392–93.]]
 
-ordinarily means countries south 'India and Java', pp. 398, 399. of the Narmadā, p. 212; used by Chatterjee, Mr. Justice Digambara, Kautilya in the sense of trade 
+Daśaślokī, the same as Āśaucadaśaka, pp. 614, 615.
 
-p. 763. 
+Dāsī, three varieties of, p. 945.
 
-route to the south, p. 213. Chaudhuri, Dr. J. B., p. 837. 
+Dattaka, inferior position, according to Vasiṣṭha, p. 105.
 
-Dalapati, author of Nrsinhaprasāda, Children, sale of, among Mleccbas, p. 861; south Indian, p. 868; pupil 
+Dattakacandrikā, of [[Devannabbaatta,|Devaṇṇabhaṭṭa,]] p. 921.
 
-p. 219. 
+Dattakadīdhiti, portion of Saṁskārakaustubha, p. 954.
 
-of Suryapandita end 8 great Chintamani, Dr, T, R., pp. 16, 239, exponent of Vaiṣṇavadharma, 
+Dattakamīmāṁsā, pp. 53, 91, 262, 466, 592n, 919, 920; [[Śhaṅkara's|Śaṅkara's]] com. called [[Maõjari|Mañjarī]] on, p. 921; standard work on adoption, and preferred to [[Vyavahāramayõkha|Vyavahāramayūkha]] in certain matters, pp. 921–22.
 
-276, 478.79, 566, 568; criticized, p. 662. p. 480. 
+Dattakanirṇaya, p. 938.
 
-Dāmdupat, p. 848. Choudhary, Prof. Radbakrishna, Dāba-Bṛhaspati, p. 290. 
+Dattakavidhi, of Vācaspati, p. 850.
 
-p. 632. 
+Daughter, excluded from inheritance by son, p. 8; succeeded, if putrikā according to Viśvarūpa and Śrīkara, p. 571; unmarried, succeeds in preference to married, p. 597; according to [[Diksīta|Dīkṣita]] and Dāyabhāga, one having sons preferred to barren or widowed ones, p. 706; wealth of an appointed, to be taken by her mother or mother-in-law and not by her husband, p. [[285,|285.]]
 
-Dāpadbarmaprakriyā, of Bhavadeva, Cinas, silks from, pp. 211, 212; 
+Daughter-in-law, whether an heir, p. 970.
 
-p. 652. mentioned by Manu, p. 326. 
+Daughter's son, rights of, pp. 595, 662; postponed to [[beirs|heirs]] expressly mentioned according to Bālaka, p. 595.
 
-Dānakamalākara, p. 927. Clothes, whether impartible, p. 329. 
+Dave, Mr. J. H., pp. 879, 880, 881, 882.
 
-Dāvakaumudi, p. 882. Coercion, vitiated all transactions, 
+Dāya, definition of, given by the Mit. p. 550; is not approved by Smṛticandrikā, p. 740; sapratibandha and apratibandha, pp. 568, 613.
 
-Dānaprakāśa, p. 945. p. 526. 
+Dāyabhāga, of [[Jimūtavāhana,|Jīmūtavāhana,]] pp. 559, 594, 596, 703–706; mentions Vṛddha Kātyāyana, p. 502; doctrines peculiar to, p. 704; commentary on, by Raghunandana, p. 892; contents of, p. 704; commentaries on, pp. 711–12.
 
-Dāparatnākara, pp. 290, 587, 653, Colas, p. 743. 
+[[Vāyatattva,|Dāyatattva,]] of Raghunandana, pp. 595, 703, 892.
 
-774, 775n.; contents of, p. 765. Colebrooke, pp. 704, 711, 839, 972, Dānasāgara, pp.398,534,728, 730, 731, 
+De, Dr. S. K., pp. 647, 899n.
 
-732, 770n.; subjects dealt with by, Compromise, period with which p. 731; work of Aniruddha accord 
+Debt, threefold, theory of, p. [[8:|8;]] of deceased man, to be paid by whom, p. 289; five modes of recovering, p. 484.
 
-could be set aside, pp. 293-94, ing to Raghunandana, p. 734, 298. 
+Debtor, refusing to pay though able, punished, p. 527.
 
-Dānavākyavali, of Candesvara pp. Conflictof, Smitis and Purāpas, p. 867. 768, 893n. Conze, Dr. E., author of Buddhist Dānavivekodd yota, of Madadasimha, 
+Decision, rule of, when litigants of different countries, p. 515.
 
-Thought in India ', p. 5n. 
+Delhi, p. 861.
 
-P. 664, Coronation, rites of, p. 618. 
+Denarius, Roman coin, pp. 375–76.
 
-Dāna-Vyāsa, p. 534. Corporations of warriors, p. 218. Danda, of four lovels, p. 856, 
+Deposits, should not be appropriated by king, p. 285.
 
-979. 
+[[Derret,|Derrett,]] Dr., pp. 569, 570, 588, 672, 882, criticized, pp. 609, 610.
 
-1254 
+Deśa, extent of, according to Bṛhaspati, p. 490.
 
+Devāditya, grandfather of Caṇḍeśvara, p. 771.
 
+Devagiri (modern Daulatabad), pp. 861, 868.
 
-Dandanīti, pp. 266, 434; one of the Daughter-in-law, whether an heir, 
+Devala, dharmasūtra of, pp. 279–284; topics discussed in, pp. 282, 283.
 
-three vidyās to be studied by a p. 970. king, p. 144; compressed by Vis- Daughter's son, rights of, pp. 595, pugupta in six thousand slokas, p. 
+Devala, as a jurist, p. 284.
 
-662; postponed to beirs expressly 192. 
+Devalasmṛti, on [[prāyafcitts|prāyaścitta]] for contact with mlecchas, p. 282.
 
-mentioned according to Balaka, Dandaviveka, of Vardhamāda, pp. 
+[[P1255]]
 
-p. 595. 621, 852, 854–858. 
+[[Devangabhatta,|Devaṇṇabhaṭṭa,]] pp. 607, 737, 921; vide under Smṛticandrikā.
 
-Dave, Mr. J. H., pp. 879, 880, 881, Dandin, pp. 165, 168, 171, 192, 222. 882. Darpanārāyana, grandson ofB haveśa, Dāya, definition of, given by the Mit. 
+Devapāla, commentator of Kāṭhakagṛhya, p. 18.
 
-p. 843. 
+[[Devapratișthā,|Devapratiṣṭhā,]] p. 900.
 
-p. 550; is not approved by Smrti Dāsa, who could be made to work as, candrikā, p. 740; sapratibandha 
+Devarāta, pp. 738, 875n.
 
-p. 497. 
+Devasthali, Prof. G. V., p. 903n.
 
-and apratibandha, pp. 568, 613. 
+[[Devasyāmin,|Devasvāmin,]] author of digest on dharma, pp. 572, 591–593, 738, [[8751.,|875n.,]] 921n.; commented on Pūrvamīmāṁsā, p. 593.
 
-Dāyabhāga, of Jimātavāhana, pp. 559, Daśakarmapaddhati or dipikā, of 
+[[Devayājõika,|Devayājñika,]] p. 777.
 
-594, 596, 703-706; mentions Vr Bhavadeva, p. 641. 
+Deveśvara, p. 770n.
 
-ddba Kātyāyana, p. 502; doctrines Dasakumāracarita, of Dandin, pp. 
+Devīpurāṇa, pp. 761, 826, 827, 935; approved of by heterodox system according to Dānasāgara, p. 732.
 
-peculiar to, p. 704; commentary 151, 165, 192. 
+Dhammacakka-ppavattana-sutta, p. 227.
 
-on, by Raghunandana, p. 892; con Dasarathajātaka, and Rāmāyapa, pp. tents of, p. 704; commentaries on, 
+Dhammathats, based on Manu, p. 346.
 
-392–93, 
+Dhanañjaya, father of Halāyudha, pp. 625, 628.
 
-pp. 711-12. Dasaśloki, the same as Āsaucadasaka, 
+Dharaṇīdhara, commentator of Manu, pp. 347, 757.
 
-Vāyatattva, of Raghunandana, pp. pp. 614, 615. 
+Dharasena, a Valabhi king, inscription of, p. 328.
 
-595, 703, 892. Dāsī, three varieties of, p. 945. 
+[[Dbāreśvara,|Dhāreśvara,]] vide under Bhojadeva, pp. 585–591; [[0n|on]] ownership, p. 538; on son's right and on widow's right to succeed, p. 539; placed paternal grandmother immediately after mother, pp. 539, 585; agrees with [[samgrabakāra|saṁgrahakāra]] on many points, p. 540; and Mitākṣarā, points of conflict between pp. 586–587.
 
-De, Dr. S. K., pp. 647, 899n. Dattaka, inferior position, according Debt, threefold, theory of. p. 8: of 
+Dharma, meaning of, pp. 1–6; derived from the root *dhṛ*, p. 1; meaning of, in Ṛgveda, p. 1; meaning of, in Vājasaneyisaṁhitā, p. 2; meaning of, in Atharvaveda, p. 2; meaning of, in Aitareya-brāhmaṇa, p. 2; treated as equivalent of Satya by Bṛ. Up., p. 3; meaning of, in Chāndogya, p. 3; meaning of, in [[Taittiriya|Taittirīya]] Up., pp. [[344;|3–4;]] meaning of, in Bhagavadgītā, p. 4; five-fold division of, p. 4; definitions of, p. 5; meaning of, [[poculiar|peculiar]] to the Buddhist system, p. 5; Viśvāmitra's definition of, p. 529; Veda as the source of, pp. 6, 9; three branches of, p. 3; 100000 ślokas on, composed by Supreme Being, p. 308; word used in the neuter also, p. 1.
 
-to Vasiṣtha, p. 105. 
+Dharmabhāṣya, p. 738.
 
-deceased man, to be paid by Dattakacandrikā, of Devannabbaatta, whom, p. 289; five modes of reco 
+[[Dharmādhyaksa,|Dharmādhyakṣa,]] p. 625.
 
-P. 921. 
+Dharmadīpa or -pradīpa, of Bhoja, pp. 541, [[9177.;|917n.;]] quoted by Smṛticandrikā, p. 738.
 
-vering, p. 484. Dattakadidhiti, portion of Saṁskāra 
+Dharmadroṇa, [[pamed|named]] in Vyavahāranirṇaya, p. 877.
 
-| Debtor, refusing to pay though able, kaustubba, p. 954. 
+Dharmakīrti, a writer on Logic and Philosophy, p. 26; date of, p. 26n.
 
-punished, p. 527. 
+[[Dharmaprakāsa,|Dharmaprakāśa,]] of [[Śhaṅkarabbatta,|Śaṅkarabhaṭṭa,]] p. 938.
 
-Decision, rule of, when litigants of Dattakamīmāṁsā, pp. 53, 91, 262, 
+[[Dharmapravștti,|Dharmapravṛtti,]] of Nārāyaṇa, pp. 907, 917n.
 
-different countries, p. 515. 466, 592n, 919, 920; Śhaṅkara's com. called Maõjari on, p. 921; standard 
+[[Dharmaratoa,|Dharmaratna,]] projected by Jīmūtavāhana, p. 699.
 
-Delhi, p. 861. work on adoption, and preferred Denarius, Roman coin, pp. 375–76. to Vyavahāramayõkha in certain 
+[[Dharmajāstra,|Dharmaśāstra,]] referred to by Gautama and Baudhāyana, p. 13; works on, existed prior to Yāska or prior to the period 600–300 B. C. and attained position of supreme authority in the 2nd century B. C., p. 14; nineteen expounders of, named by Yāj., p. 433; rule in case of conflict of, with arthaśāstra, p. 434; [[rulo|rule]] in case of conflict of, with usages, p. 475; what is, according to Pitāmaha, p. 514; literature on, falls into three periods, p. 545; Smṛti is, acc. to [[Mapu,|Manu,]] p. [[121.|12n.]]
 
-Deposits, should not be appropriated matters, pp. 921-22. 
+[[Dharmaśāstrasamgraha,|Dharmaśāstrasaṁgraha,]] of Bālaśarman Pāyaguṇḍa, p. 972.
 
-by king, p. 285. Dattakanirṇaya, p. 938. 
+Dharmasindhusāra or Dharmasindhu of [[Kāśivātha,|Kāśīnātha,]] pp. 974–977.
 
-Derret, Dr., pp. 569, 570,588,672,882, Dattakavidhi, of Vācaspati, p. 850. criticized, pp. 609, 610. Daughter, excluded from inheritance Desa, extent of, according to Bras 
+Dharmasūtras, concerned with instruction in dharmas of varṇas and āśramas, p. 4; existed in Patañjali's days, p. 13; some, formed part of Kalpasūtras, p. 19; which, studied in particular [[sākās,|śākhās,]] p. 20; [[P1256]] closely connected with gṛhyasūtras, p. 20; points of [[ditference|difference]] between them and other smṛtis, p. 21; of Gautama, pp. 22–38.
 
-by son, p. 8; succeeded, if putrikā pati, p. 490. according to Viśvarūpa and Srī- Devāditya, grandfather of Candesva kara, p. 571; unmarried, succeeds 
+Dharmasvāmin, a Tibetan pilgrim, pp. 631–32.
 
-ra, p. 771. in preference to married, p. 597; 
+Dharmatattva, digest of Kamalākara, p. 927.
 
-Devagiri (modern Daulatabad ), pp. according to Diksīta and Dāyabh 
+Dharmatattvakalānidhi, pp. [[879_882,|879–882.]]
 
-861, 868. āga, one having sons preferred to 
+[[Dharmavivști,|Dharmavivṛti,]] pp. 794n., 865.
 
-Devala, dharmasūtra of, pp. 279-284; barren or widowed ones, p. 706; 
+[[Dhātuvștti,|Dhātuvṛtti,]] of Mādhava, pp. 747, 789.
 
-topics discussed in, pp. 282, 283. wealth of an appointed, to be taken by her mother or mother 
+Dhavala, p. 701n.
 
-Devala, as a jurist, p. 284. in-law and not by her husband, Devalasmrti, on prāyafcitts for con p. 285, 
+Dhigvaṇas, sales of hides was means of livelihood of, p. 270.
 
-tact with mlecchas, p. 282. 
+Dhīrasiṁha, son of Darpanārāyaṇa, p. 843.
 
-General Index 
+[[Dhundhupaddhati,|Ḍhuṇḍhupaddhati,]] p. [[8931.|893n.]]
 
-1255 
+Dhūrtasvāmin, p. 738.
 
-Devangabhatta, pp. 607, 737, 921; ons of, p. 5; meaning of, poculiar 
+Dhvanyāloka, p. 625.
 
-vide under Smrticandrikā. 
+Dīkṣita, a predecessor of Jīmūtavāhana, p. 599; nibandhakāra named by Jīmūtavāhana, pp. 702, 705.
 
-to the Buddhist system, p. 5; Vis Devapāla, commentator of Kathaka 
+Dinakara alias Divākara, elder brother of Kamalākara, p. 925.
 
-vāmitra's definition of, p. 529; Ve grhya, p. 18. 
+Dīnāra, mentioned by Nārada, p. 474; golden coins called, were current in Kashmir in the 11th century, p. 480; opinions about the time of, p. 477; also called [[suvarpa,|suvarṇa,]] pp. 477, 487; defined by [[Bșhaspati,|Bṛhaspati,]] p. 487; equal to 28 [[ropakas,|rūpakas,]] p. 859; and denarius, pp. 375–76.
 
-da as the source of, pp. 6, 9; three Devapratișthā, p. 900. 
+Dīpakalikā, [[com,|com.]] of Śūlapāṇi on Yājñavalkya, pp. 823–24, 838, [[8931.|893n.]]
 
-branches of, p. 3; 100000 ślokas on, 
+[[Dipavamsa,|Dīpavaṁśa,]] pp. 171, 227, [[3741.|374n.]]
 
-composed by Supreme Being, p. Devarāta, pp. 738, 875n. 
+[[Dipikāvivarana,|Dīpikāvivaraṇa,]] of [[Nosimha,|Nṛsiṁha,]] p. 867.
 
-308; word used in the neuter also, Devasthali, Prof. G. V., p. 903n. 
+Divanji, Mr. P. C., p. 437; criticized, pp. 449, 453–54, 457–59.
 
-p. 1. Devasyāmin, author of digest on Dharmabhāgya, p. 738. 
+Divorce, not permitted by Dharmaśāstra, p. 205; permitted by Kauṭilya in certain circumstances, p. 205.
 
-dharma, pp. 572, 591–593, 738, | Dharmādhyaksa, p. 625. 8751., 921n.; commented on Pūrva 
+Divyānuṣṭhānapaddhati, of Nārāyaṇa, p. [[305.|905.]]
 
-Dharmadipa or-pradīpa, of Bhoja, mimāṁsā, p. 593. 
+Divyasūricarita, of [[Garuḍavāhada|Garuḍavāhana]] Paṇḍita, p. 679.
 
-pp. 541, 9177.; quoted by Smrti Devayājõika, p. 777. 
+Divyatattva, p. 929n.
 
-candrikā, p. 738. Devesvara, p. 770n. 
+Documents, no reference to, in Manu, p. 334; referred to by Vasiṣṭha and Gautama, p. 105; of various kinds, [[definod,|defined,]] pp. 121, 515; rule of superiority among, p. 516; varieties of, pp. 485, 531, 538; importance of, in transactions, p. 544.
 
-Dharmadrona, pamed in Vyavahāra Devipurāṇa, pp. 761, 826, 827, 935; nirṇaya, p. 877. 
+[[Dolayātrā viveka,|Dolayātrāviveka,]] of Śūlapāṇi, pp. 825, [[$27.|827.]]
 
-approved of by heterodox system 
+Drāhyāyaṇaśrauta, of Sāmaveda, p. 22.
 
-Dharmakīrti, a writer on Logic and according to Dānasāgara, p. 732. 
+[[Dramidn,|Dramiḍa,]] pp. 566, 567.
 
-Philosophy, p. 26; date of, p. 26n. Dhammacakka-ppavattana-sutta, p. 
+Draupadīkuṇḍa, at Benares, inscription of, pp. 908, 913.
 
-227. 
+Draviḍa, an author relied on by Śrīdhara, p. 725.
 
-Dharmaprakāsa, of Śhaṅkarabbatta, 
+Draviḍas, practices of, p. 743.
 
-p. 938. Dhammathats, based on Manu, p. 
+Drinking, prāyaścitta for, p. 296; a *[[tyasana|vyasana]]*, p. 351n.
 
-Dharmapravștti, of Nārāyana, pp. 346. 
+Drinks, twelve kinds of, p. 516.
 
-907, 917n. Dhananjaya, father of Halāyudha, 
+Durgābhaktitaraṅgiṇī, pp. 772, 847n., [[8939.|893n.]]
 
-pp. 625, 628. 
+Durgāvatī, wife of Dalapati, p. 862.
 
-Dharmaratoa, projected by Jimūta Dharanidbara, commentator of Manu, 
+Durghaṭārthaprakāśinī, of Vimalabodha, p. 588.
 
-vāhana, p. 699. Pp. 347, 757. 
+[[Durgbatavrtti,|Durghaṭavṛtti,]] of Śaraṇadeva, p. 747.
 
-Dharmajāstra, referred to by Dharasena, a Valabhi king, inscrip 
+[[Duryotsavaviveka,|Durgotsavaviveka,]] of Śūlapāṇi, pp. 596, [[7017.,|701n.,]] 762, 825.
 
-Gautama and Baudbāyana, p. 13; tion of, p. 328. 
+[[Drādaśavākyavivarana,|Dvādaśavākyavivaraṇa,]] of Gopāla, p. 562.
 
-works on, existed prior to Yāska 
+Dvādaśayātrātattva, of Raghunandana, p. 892.
 
-or prior to the period 600-300 B. Dbāreśvara, vide under Bhoja 
+Dvaitacintāmaṇi, of Vācaspati, p. [[$15.|845.]]
 
-C. and attained position of deva, pp. 585-591; 0n ownership, 
+Dvaitanirṇaya, of Vācaspati, pp. 847–48, [[8931.|893n.]]
 
-supreme authority in the 2nd p. 538; on son's right and on wid 
+Dvaitanirṇaya, of [[Śhaṅkarabbatta,|Śaṅkarabhaṭṭa,]] pp. 546, 746, 938.
 
-century B. C., p. 14; nineteen ow's right to succeed, p. 539; pla 
+Dvaitaviveka, of Vardhamāna, p. 858.
 
-expounders of, named by Yāj., p. ced paternal grandmother immedi 
+[[Dvijāhuikapaddhati,|Dvijāhnikapaddhati,]] of Īśāna, pp. 626, 627.
 
-433; rule in case of conflict of, ately after mother, pp. 539, 585; 
+Dvivedi, M. M. Sudhakar, p. 182.
 
-with arthasāstra, p. 434; rulo in agrees with samgrabakāra on ma 
+Eḍaka, ram acc. to [[Amarakota,|Amarakośa,]] p. 72; one of the three amedhya animals acc. to Śat. Br., p. 72.
 
-case of conflict of, with usages, Dy points, p. 540; and Mitā kṣarā, 
+[[P1257]]
 
-p. 475; what is, according to points of conflict between pp. 
+[[Edumitra,|Eḍumiśra,]] author of Kulakārikā, p. 707.
 
-Pitāmaha, p. 514; literature on, 586-587. 
+Eggeling, pp. [[9267.,|926n.,]] 959.
 
-falls into three periods, p. 545; Dharma, meaning of, pp. 1-6; derived Smrti is, acc. to Mapu, p. 121. 
+Eggers, Dr., p. 269.
 
-from the root dh!, p. l; meaning 
+Eka, a writer named by Āpastamba, pp. 13, 61, 273, 302.
 
-Dharmaśāstrasamgraha, of Balasar of, in Rgveda, p. 1; meaning of, in 
+Ekādaśī, 18 varieties of, p. 565.
 
-man Pāyagunda, p. 972. Vājasaneyisambitā, p. 2; meaning of, in Atharvaveda, p. 2, meaning 
+Ekanātha, finished his Marathi Bhāgavata at Benares, pp. 862, 962–63; ancestor of Anantadeva, pp. 960–61.
 
-Dharmasindhusāra or Dharmasindhu 
+Ekaśilā, capital of the Kākatīya king, p. 876.
 
-of, in Aitareya-brāhmana, p. 2; 
+Ekāvalī, a work on Poetics, p. 587.
 
-of Kāśivātha, pp. 974–977. treated as equivalent of Satya Dharmasūtras, concerned with by Br. Up., p. 3; meaning of, in instruction in dharmas of yarnas Chāndogya, p. 3; meaning of, and āśramas, p. 4; existed in in Taittiriya Up., pp. 344; mean- Patañjali's days, p. 13; some, formed ing of, in Bhagavadgitā, p. 4; part of Kalpasūtras, p. 19; which, five-fold division of, p. 4; definiti. I studied in particular sākās, p. 20; 
+Epics, the two Indian, pp. 349–408.
 
-IA 
+Eran, inscription, mentions week-day, p. 126.
 
-1256 
+Evidence, oral, when in opposition to writing, to be discarded, p. 541.
 
+Ezhuthachan, Shri K. N., p. 155.
 
+Father, could distribute wealth among sons, p. 8; power of, over ancestral property, p. 560; preferred to mother as an heir by Aparārka, p. 719; Mitākṣarā preferring mother to, criticized by Smṛticandrikā, p. 607.
 
-closely connected with grhya- | Divyatattva, p. 929n. sūtras, p. 20; points of ditference Documents, no reference to, in Manu, between them and other smrtis, P. 334; referred to by Vasistha p. 21; of Gautama, pp. 22–38. 
+Finot, Louis, p. [[316.|346.]]
 
-and Gautama, p. 105; of various Dharmasvāmin, a Tibetan pilgrim, kinds, definod, pp. 121, 515; rule 
+Fleet, Dr., pp. 105, 126, 169, 215, 607, 714; criticized, p. 791.
 
-pp. 631-32. 
+Flesh, eating of, pp. 211, 331; of cows, eating of, not condemned by Āpastamba and Vasiṣṭha, p. 73; offering of, to manes, effect of, p. 269; of certain birds, allowed, p. 523.
 
-of superiority among, p. 516; Dharmatattva, digest of Kamalakara, 
+Food, of astrologers and bellmakers, forbidden, pp. [[281–85;|284–85;]] whose, allowed, p. 273.
 
-varieties of, pp. 485, 531, 538; p. 927. 
+Forchhammer, Dr., p. 346.
 
-importance of, in transactions, Dharmatattvakalānidhi, pp. 879_882, 
+Foulkes, Rev. Thomas, pp. 869, 875, 876, 879.
 
-p. 544, 
+[[Fūbrer,|Führer,]] Dr., pp. 94, 97, 484.
 
-Dolayātrā viveka, of Sūlapāṇi, pp. Dharmavivști, pp. 794n., 865. 
+Gadādhara, bhāṣya of, on Pāraskaragṛhya, pp. 551, 582n.
 
-825, $27. Dhātuvștti, of Madhava, pp. 747, 789. 
+Gādhi, p. 336.
 
-Drāhyāyaṇasrauta, of Sāmaveda, p.22. Dhavala, p. 701n. 
+[[Gādhivarsānucarita,|Gādhivaṁśānucarita,]] of Śaṅkarabhaṭṭa, p. 903n.
 
-Dramidn, pp. 566, 567. Dhigvanas, sales of hides was means Draupadikunda, at Benares, jnscrip 
+Gadya-Viṣṇu, p. 127.
 
-of livelihood of, p. 270. 
+Gadya-Vyāsa, p. 533.
 
-tion of, pp. 908, 913. Dhirasimba, son of Darpanārāyana, Dravida, an author relied on by 
+Gāgābhaṭṭa, p. 937.
 
-p. 843. 
+Gai, Dr. G. S., p. 612n.
 
-Sridhara, p. 725. Dhundhupaddhati, p. 8931. 
+Gajapati, dynasty of [[Oriṣsa,|Orissa,]] pp. 869, [[$75.|875.]]
 
-Dravidas, practices of, p. 743. Dhūrtasvāmin, p. 738. 
+Gambling, condemned by Manu but allowed by others, pp. 205, 329, 439, 473; evil [[etfects|effects]] of, known to Ṛgveda, p. 337; a *[[tyasana|vyasana]]*, p. 351n.
 
-Drinking, prāyaścitta for, p. 296. ; a Dhvanyāloka, p. 625. 
+Gaṇapati Shastri, T., pp. 196, 215, 256, 257, 553; com. Śrīmūla of, on Arthaśāstra, pp. 154, 155.
 
-tyasana, p. 351n. 
+[[Gandakamiśra,|Gaṇḍakamiśra,]] elder brother and guru of [[Vardhamāda,|Vardhamāna,]] pp. 852n., 857.
 
-Drinks, twelve kinds of, p. 516. Dikṣita, a predecessor of Jimūtavā. 
+Gaṇeśa, appellations of, mentioned by Baudhāyana, p. 53; [[worsbip|worship]] of, according to Hārīta, p. 133; vratas of, in Samayapradīpa, p. 762.
 
-Durgābhaktitaranginī, pp. 772, 84711., hana, p. 599; nibandhakāra named 
+Gaṇeśamiśra, pp. 760, 775.
 
-8939. by Jimūtavābana, pp. 702, 705. 
+[[Gapeśvaramiśra,|Gaṇeśvaramiśra,]] author of Sugatisopāna, pp. 762, 773, 777, 845.
 
-Durgāvati, wife of Dalapati, p. 862. Dinakara alias Divākara, elder bro. 
+Gaṅgākṛtyaviveka, of Vardhamāna, pp. 852, 858, 859.
 
-Durghaṭārthaprakāśini, of Vimalabo ther of Kamalakara, p. 925. 
+Gaṅgāvākyāvalī, pp. 588, 771, 893n.
 
-dha, p. 588. Dināra, mentioned by Nārada, p. 474; Durgbatavrtti, of Saranadeva, p. 747. 
+Gāṅgeya, p. 794n.
 
-golden coins called, were current 
+[[Ganitashukhya,|Gaṇitasaukhya,]] pp. 913, 914.
 
-Duryotsavaviveka, of Sūlapāpi, pp. in Kashmir in the 11th century, p. 
+Garbe, Dr., p. 54.
 
-596, 7017., 762, 825. 480; opinions about the time of, p. 477; also called suvarpa, pp. 477, | Drādaśavākyavivarana, of Gopāla, p. 487; defined by Bșhaspati, p. 487; 
+Garga, pp. 732n., 757, 911; on astronomy, pp. 277, 718.
 
-562. equal to 28 ropakas, p. 859; and Dvādaśayātrātattva, of Raghunanda denarius, pp. 375–76. 
+[[Garyi|Gārgī]] Vācaknavī, [[Yajnavalkya's|Yājñavalkya's]] wife, pp. 452, 454; entitled to receive daily tarpaṇa, pp. 894–95.
 
-na, p. 892. Dipakalikā, com, of S'ulapani on Tā. Dvaitacintamani, of Vācaspati, p. 
+Gārgīyas, p. 499.
 
-jñavalkya, pp. 823–24, 838, 8931. 
+Gārgya, writer on dharma, pp. 276, 303; probably different from astronomer Garga, p. 277.
 
-$15. Dipavamsa, pp. 171, 227, 3741. Dvaitanirṇaya, of Vācaspati, pp. 847– Dipikāvivarana, of Nosimha, p. 867. 
+Garuḍapurāṇa, [[p.|pp.]] 416, 464; borrows from Yājñavalkyasmṛti, p. 449; [[Yājñaralkyasmrti|Yājñavalkyasmṛti]] and, pp. 427–29.
 
-48, 8931. 
+Garuḍavāhana Paṇḍita, p. 679.
 
-Dvaitanirṇaya, of Śhaṅkarabbatta, pp. Divanji, Mr. P. C., p. 437; criticized, 
+[[P1258]]
 
-546, 746, 938. pp 449, 453–54, 457–59. 
+[[Gātbās,|Gāthās,]] Nārāśaṁsī, p. 433.
 
-Dvaitaviveka, of Vardhamāna, p. Divorce, not permitted by Dharmasā. 
+Gauḍapāda, pp. 557, 563.
 
-858. stra, p. 205; permitted by Kauti 
+Gauraśiras, on politics, mentioned by Mahābhārata, p. 210; propounder of Rājadharma, p. 341.
 
-Dvijāhuikapaddhati, of Iśāna, pp. lya in certain circumstances, p. 
+Gaurī, mother of Vardhamāna, p. 858.
 
-626, 627. 205. 
+[[Gaurībāthāṣtaka,|Gaurīnāthāṣṭaka,]] of Bhoganātha, p. 785n.
 
-Dvivedi, M. M. Sudhakar, p. 182. Divyānuṣthānapaddhati, of Nārāyana, 
+Gaurīpati, author of [[com,|com.]] on Ācārādarśa, p. 760.
 
-p. 305. 
+Gautama, a subdivision of the Rāṇāyanīya school of Sāmaveda, p. 22; a generic name, p. 23; mentioned in Āśv. Gṛ. among sages, p. 25; chief among the exponents of dharmaśāstra, p. 26; referred to in Baudhāyana-dharmasūtra, p. 33, views of, quoted in Vasiṣṭha-dharmasūtra, pp. 34, 100, 302.
 
-Edaka, ram acc. to Amarakota, p. 72; Divyasūricarita, of Garuḍavāhada one of the three amedhya animals 
+Gautamadharmasūtra, pp. 22–38, 302, 485; studied by Sāmavedins, pp. 20, 22; oldest among dharmasūtras, p. 22; closely connected with Sāmaveda, p. 22; commented upon by Haradatta and Maskarin, p. 36; and probably by [[Asabāya,|Asahāya,]] pp. 37, 548; commentary Mitākṣarā on, by Haradatta, p. 742; contents of, pp. 30–31; language of, p. 31; literature known to, pp. 32–33; many sūtras of, correspond to those of Baudhāyana, p. 34; views of, quoted by Vasiṣṭha, p. 34; many sūtras of, identical with those of Vasiṣṭha, p. 34; special matters presented by, pp. 37–38; age of, between 600–400 B. C., pp. 34–36.
 
-Pandita, p. 679. 
+Gayāśrāddhapaddhati, of Vācaspati, p. 850; of [[Ragbubandana,|Raghunandana,]] p. 892.
 
-acc. to S'at. Br., p. 72. 
+Gharpure, Mr. J. R., pp. 573, 737, 799, 824, 938, 968.
 
-General Index 
+[[Gbatakasimha,|Ghaṭakasiṁha,]] p. 708.
 
-1257 
+Ghose, author of ‘Hindu Law’, pp. 707, 744, 758, 852.
 
-Edumitra, author of Kulakārikā, p. | Gādhi, p. 336. 
+Ghosh, Batakrishna, pp. 534, 535.
 
-707. 
+Ghosh, Jogendracandra, p. 625.
 
-Gādhivarsānucarita, of Śhaṅkara. Eggeling, pp. 9267., 959. 
+Ghosh, Mr. Panchanan, p. 708.
 
-i bhatta, p. 903n. Eggers, Dr., p. 269. 
+[[Ghosbal,|Ghoshal,]] Dr. U. N., pp. 157, 158, 252, 318n.
 
-Gadya-Viṣṇu, p. 127. Eka, a writer named by Āpastamba, Gadya-Vyāsa, p. 533. 
+Ghoṭakamukha, pp. 71, 210; date of, p. [[710.;|71n.;]] quoted by Kauṭilya, p. 209.
 
-pp. 13, 61, 273, 302. 
+Gifts, nine things that could not be subjects of, p. 513; necessity of writing for completing, p. 522; of food were regarded as highest, p. 412.
 
-Gāgābhatta, p. 937. Ekādasī, 18 varieties of, p. 565. Gai, Dr. G. S., p. 612n. Ekanātha, finished his Marathi Bhā 
+Gītābhāṣya, pp. 677, 678, 679.
 
-Gajapati, dynasty of Oriṣsa, pp. 869, gavata at Benares, pp. 862, 962- $75. 63; ancestor of Anantadeva, PP. Gambling condemned by Manu but 960-61. 
+Goa, capital of Koṅkaṇa, p. [[79).|791.]]
 
-allowed by others, pp. 205, 329, Ekasilā, capital of the Kākatiya king, 439, 473; evil etfects of, known to 
+[[Gobbilagrhya,|Gobhilagṛhya,]] p. 446; studied by Sāmavedins, p. 20; [[Dames|names]] Gautama as an authority, p. 22; and Karmapradīpa, p. 503.
 
-p. 876. 
+Gocarma, a measure of area, equal to ten nivartanas, p. 490.
 
-Rgveda, p. 337; & tyasana, p. Ekāvali, a work on Poetics, p. 587. 3512. Epics, the two Indian, pp. 349–408. Ganapati Shastri, T., pp. 196, 215, Eran, inscription, mentions week-day, 
+Godāvaramiśra, court-poet of Pratāparudra, p. 878.
 
-256, 257, 553; com. Srīmula of, on p. 126. 
+Gode, Dr. P. K., pp. 17, 380, 408, 588, 589, 754, 801, 878, 963, 965, 966n.; ascribes Sarasvatīvilāsa to Lolla Lakṣmīdhara, pp. 876–77.
 
-Artbaśāstra, I'p. 154, 155. Evidence, oral, when in opposition 
+Gonda, J., p. 82n.
 
-Gandakamiśra, elder brother and to writing, to be discarded, guru of Vardhamāda, pp. 852n., p. 541, 
+[[Goldstūcker,|Goldstücker,]] pp. [[155.,|15n.,]] 422.
 
-857. Ezhuthachan, Shri K. N., p. 155. Ganesa, appellations of, mentioned by 
+Gopācala (modern Gwalior), pp. 946, 949.
 
-Baudhāyana, p. 53; worsbip of, 
+Gopāla, pp. 616–619, 621, 622, 761, 770n.; author of Kāmadhenu, p. 617.
 
-according to Hārīta, p. 133; vratas Father, could distribute wealth among 
+[[Gorrecio,|Gorresio,]] G., pp. 386, 388.
 
-of, in Samayapradipa, p. 762. sons, p. 8; power of, over ance 
+Gotrapravaradarpaṇa, of Kamalākara, p. 927.
 
-Ganesamiśra, pp. 760, 775. stral property, p. 560; preferred to mother as an heir by Aparārka, 
+Gotrapravaranirṇaya, of Jayadeva, p. 961.
 
-Gapeśvaramiśra, author of Sugatiso. p. 719; Mitākṣarā preferring mot 
+Govardhana, father of Bhavadeva, p. 644.
 
-pāna, pp. 762, 773, 777, 845. her to, criticized by Smrticandrikā, Gangākrtyaviveka, of Vardhamana, p. 607. 
+Govindabhaṭṭa, p. 893n.
 
-pp. 852, 858, 859. Finot, Louis, p. 316. 
+Govindacandra, king of Kanoj, pp. [[687-91,|687–91.]]
 
-Gangāvākyāvali, pp. 588, 771, 893n. Fleet, Dr., pp. 105, 126, 169, 215 Gāngeya, p. 794n. 
+Govinda Das, Mr., pp. 799, 972, 973, 974.
 
-714; criticized, p. 791. 
+Govindamānasollāsa, p. 893n.
 
-Ganitashukhya, pp. 913, 914. Flesh, eating of, pp. 211, 331; of cows, 
+[[P1259]]
 
-Garbe, Dr., p. 54. eating of, not condemned by Apa stamba and Vasiṣtba, p. 73; offer. i Garga, pp. 7321., 757, 911; on astro. ing of, to manes, effect of, p. 269; nony, pp. 277, 718. 
+Govindānanda, pp. 642, 702, 729, 762, 882–889; quotes Rājamārtaṇḍa of Bhoja more frequently than any other work, p. 586n.
 
-of certain birds, allowed, p. 523. | Garyi Vācaknavī, Yajnavalkya's Food, of astrologers and bellmakers, wife, pp. 452, 454; entitled to 
+Govindarāja, pp. 4n., 523, 585, 656–663; author of Smṛtimañjarī, p. 297n., 656; placed daughter's son before married daughter, p. 662; later than [[Medhātitbi,|Medhātithi,]] p. 583; followed by Śrīdhara in respect of saṁnyāsa, p. 726.
 
-forbidden, pp. 281–85; whose, receive daily tarpana, pp. 894–95. allowed, p. 273. 
+Govindarājan, composed [[com,|com.]] Bhūṣaṇa on Rāmāyaṇa, p. 404.
 
-Gārgiyas, p. 499. Forchhammer, Dr., p. 346. 
+Govindasvāmin, commentator of Baudhāyana, pp. 33, 39, 44, 53, 112, 257n.
 
-Gārgya, writer on dharma, pp. 276, Foulkes, Rev. Thomas, pp. 869, 875, 303; probably different from 
+[[Govindopadhyāya,|Govindopādhyāya,]] p. 750n.
 
-876, 879. 
+Grahaśānti, in Yāj., p. 431.
 
-astronomer Garga, p. 277. Fūbrer, Dr., pp. 94, 97, 484. 
+Graheśvaramiśra, pp. 770n., 845, 858.
 
-Garuḍapurāṇa, p. 416, 464; borrows 
+Grāmakūṭas, food of, is poison, p. 285; meaning of, p. 285n.
 
-from Yājñavalkyasmrti, p. 449; Gadādhara, bhāsya of, on Pāraskara- | 
+Grandmother, rights of succession of, p. 559.
 
-Yājñaralkyasmrti and, pp. 427-29. grhya, pp. 551, 582n. 
+Grant, of land, should be inscribed by king, p. 531.
 
-I Garuḍavāhana Pagdita, p. 679. H, D.-158 
+Gṛhastha, two kinds of, p. 280; duties of, p. 280n.
 
-1258 
+Gṛhastharatnākara, pp. 551, 552, 559, 766, 775n., 893n.; contents of, pp. 764–65.
 
+Gṛhyasūtras, subjects of, p. 20; principally confined to domestic life, p. 20; some refer to dharmasūtras, p. 21.
 
+[[Gșhyatātparya-darsana,|Gṛhyatātparya-darśana,]] of Sudarśanācārya, p. 17.
 
-VITIT 
+Grierson, pp. 771, 775.
 
-Gātbās, Nārāśansī, p. 433. 
+[[Grnjana|Gṛñjana]] (Gājara), forbidden for eating, p. 865n.
 
-Ghosh, Mr. Panchanan, p. 708. Gaudapāda, pp. 557, 563. 
+Guest, cow or bull offered to, p. 9.
 
-Ghosbal, Dr. U. N., pp. 157, 158, Gauragiras, on politics, mentioned by 252, 318n. 
+[[Gubadeva,|Guhadeva,]] expounder of Viśiṣṭādvaita, p. 566.
 
-Mahābhārata, p. 210; propounder Ghotakamukha, pp. 71, 210; date of, of Rājadharma, P. 341. 
+Guilds, wealth of, does not go to king, p. 285.
 
-p. 710.; quoted by Kautilya, Gaurī, mother of Vardhamāna, p. 858. p. 209. Gaurībāthāṣtaka, of Bhoganātha, p. 
+Guṇaviṣṇu, predecessor of Halāyudha, p. 637.
 
-Gifts, nine things that could not be 785n. 
+Guru, deserves to be punished when conceited, p. 372; prāyaścitta for killing a, and violating the bed of, p. 56; how to act towards [[&|a]] [[falleo|fallen]] (patita), p. 57; rules about falling at the feet of, precedence of, p. 97.
 
-subjects of, p. 513; necessity of 
+Gurumata, p. 643.
 
-writing for completing, p. 522; of Gauripati, author of com, on Ācārā. 
+Guruvaṁśa-kāvya, pp. 563, 786.
 
-food were regarded as highest, darśa, p. 760. 
+Halāyudha, pp. 622–639, 653, 768; author of Brāhmaṇasarvasva, pp. 625–28; [[gencalogy|genealogy]] of, p. 626; age of, pp. 625, 628–36; author of commentary on Śrāddha-Kalpasūtra, p. 636; the jurist, p. 633.
 
-p. 412. Gautama, a subdivision of the Rānā. 
+Halhed, p. 979.
 
-Gitābhāsya, pp. 677, 678, 679. yaniya school of Sāmaveda, p. 22; a generic name, p. 23; mentioned 
+Hammīra, p. 690.
 
-Goa, capital of Konkana, p. 79). in Afv. Gr. among sages, p. 25; Gobbilagrhya, p. 446; studied by chief among the exponents of Sāmavedins, p. 20; Dames Gau dharmaśāstra, p. 26; referred to in tama as an authority, p. 22; and Baudhāyana-dharmasūtra, p. 33, Karmapradipa, p. 503. views of, quoted in Vasiṣtha- Gocarma, a measure of area, equal dharmasūtra, pp. 34, 100, 302. 
+Hammurabi, p. 324.
 
-to ten nivartanas, p. 490. Gautamadharmasūtra, pp. 22-38, 302, Godavaramisra, court-poet of Pra 
+Haradatta, pp. 4n., 8n., 30, 31, 60, 64, 67, 106, 270, 463, 485n., 742–749; explains Śramaṇaka to be [[Vaikhānasagāstra,|Vaikhānasaśāstra,]] pp. 32, 257; commentator of Gautama, p. 36; and of Āpastamba, p. 66; commentator of Dharmaśāstra, whether identical with author of Padamañjarī, pp. 746–47; was a [[southerncr,|southerner,]] p. 743; whether identical with Rudradatta, p. 743.
 
-485; studied by Sāmavedins, pp. tāparudra, p. 878. 20, 22; oldest among dharma 
+Haradattācārya, cited in Sarvadarśanasaṁgraha, p. 748.
 
-Gode, Dr. P. K., pp. 17, 380, 408, sūtras, p. 22; closely connected 
+Hāralatā, pp. 296, 548, 585, 586, 662, 709; contents of, p. 727; authors and works quoted in, p. 728; com. called Sandarbhasūcikā on, p. 729; composed about 1160 to 1170 A. D., p. 699; consulted Kāmadhenu, p. 617.
 
-588, 589, 754, 801, 878, 963, 965, with Sāmaveda, p. 22; commented 
+Haraprasāda [[Sistri,|Śāstri,]] M. M., pp. 586, 807, 849, 888, 904, 907, 932, 967.
 
-966n.; ascribes Sarasvatīvilāsa to upon by Haradatta and Maskarin, 
+Hārahūra, a place, p. 213; identification of, with Arachosia, p. 214.
 
-Lolla Lakṣmīdhara, pp. 876–77. p. 36; and probably by Asabāya, pp. 37, 548; commentary Mitāk. 
+Hara(i)siṁhadeva, king of Mithilā, p. 771.
 
-Gonda, J., p. 82n. ṣarā on, by Haradatta, p. 742; Goldstūcker, pp. 155., 422. contents of, pp. 30-31; language Gopācala (modern Gwalior), pp. 946, of, p. 31; literature known to, 949. pp. 32–33; many sūtras of, 
+Harasiṁhadeva, son of [[Bhavcīa,|Bhaveśa,]] pp. 843, 849, 852n.
 
-Gopāla, pp. 616-619, 621, 622, 761, correspond to those of Baudbā 
+[[P1260]]
 
-770n.; author of Kamadhenu, yana, p. 34; views of, quoted by 
+Harasiṁhapaṇḍita, grand-father of Mitramiśra, p. 946.
 
-p. 617. Vasiṣtba, p. 34; many sūtras of, identical with those of Vasiṣtha, 
+Haribhakti, pp. 761, 893n.
 
-Gorrecio, G., pp. 386, 388. p. 34; special matters presented Gotrapravaradarpaṇa, of Kamalā by, pp. 37-38; age of, between kara, p. 927. 600-400 B. C., pp. 34-36. 
+Haribhaktidīpikā, p. 761.
 
-Gotrapravaranirṇaya, of Jayadeva, Gayāśrāddhapaddhati, of Vācaspati, p. 961, 
+Haridīkṣita, guru of Nāgoji, p. 965.
 
-p. 850; of Ragbubandana, p. 892. 
+Harihara, pp. 613–614, 735–737; bhāṣyakāra of Pāraskaragṛhya, pp. 613, 736.
 
-Govardhana, father of Bhavadeva, Gharpure, Mr. J. R., pp. 573, 737, 
+Harihara, king of Vijayanagara, p. 786.
 
-p. 644. 799, 824, 938, 968. 
+Hariharabhaṭṭācārya, father of Raghunandana, pp. 737, 892.
 
-Govindabhatta, p. 893n. Gbatakasimha, p. 708. 
+Hariharācārya, author of Samayapradīpa, p. 737.
 
-Govindacandra, king of Kanoj, pp. Ghose, author of Hindu Law', pp. 687-91, 
+[[Haribara paddhati,|Hariharapaddhati,]] p. 849n.
 
-707, 744, 758, 852, 
+Harihara Sastri, Mr. G., p. 155.
 
-Govinda Das, Mr., pp. 799, 972, 973, Ghosh, Batakrishna, pp. 534, 535. 974. Ghosh, Jogendracandra, p. 625, | Govindamānasollāsa, p. 893n. 
+Hariharatāratamya, p. 748.
 
-General Index 
+Harilīlā, of Vopadeva, p. 754; com. called Viveka on, p. 754.
 
-1259 
+Harinātha, pp. 775–777, 893n.
 
-Guru, deserves to be punished when 
+Hariprabodha, a work, p. 170.
 
-conceited, p. 372; prāyaścitta for killing a, and violating the bed of, p. 56; how to act towards & falleo (patita), p. 57; rules about falling at the feet of, precedence of, p. 97. 
+Hārīta, dharmasūtra of, pp. 127–136; origin of, probably Kashmir, p. 129; bhāṣyakāra of, p. 129; contents of, p. 129; belonged to [[Kļ3'a|Kṛṣṇa]] Yajurveda, p. 129; explains dharma as based on two kinds of śrutis, p. 129; gave wider meaning to Śruti, p. 130; peculiar doctrines of, pp. 132–33; named by Āpastamba, pp. 13, 61, 302; named by Baudhāyana, pp. 13, 45, 50, 302; the jurist, pp. 545–47.
 
-Gurumata, p. 643. Guruvaṁśa-kāvya, pp. 563, 786. 
+Harivaṁśa, reading of, as a penance for infanticide, p. 295.
 
-Govindānanda, pp. 642, 702, 729, 762, 
+[[Harivariisa,|Harivaṁśa,]] an author on dharmaśāstra, p. 701n.
 
-882-889; quotes Rājamārtaṇḍa of Bhoja more frequently than any 
+Harivaṁśavarman, prince of Mahendra family and patron of Nandapaṇḍita, p. 916.
 
-other work, p. 586n. Govindarāja, pp. 4n., 523, 585, 656– 
+[[Harivarśavilāsa,|Harivaṁśavilāsa,]] of Nandapaṇḍita, p. 924.
 
-663; author of Smṛtimañjari, p. 2977., 656; placed daughter's son before married daughter, p. 662; later than Medhātitbi, p. 583; followed by Sridhara in respect 
+Harivarmadeva, a king, 644–45.
 
-of samnyāsa, p. 726. Govindarājan, composed com, Bhū. 
+Harrington, p. 979.
 
-sana on Rāmāyana, p. 404. Govindasvāmin, commentator of 
+Harṣacarita, pp. 49, 167, 170, 171; 215, 235, 646, 705.
 
-Baudhāyana, pp. 33, 39, 44, 53, 
+Hastinibhiṭṭa, a village in Bengal, p. [[614.|644.]]
 
-112, 2577. Govindopadhyāya, p. 750n. Grahaśānti, in Yāj., p. 431, Graheśvaramiśra, pp. 770n., 845, 858. Grāmakūtas, food of, is poison, P. 
+Hazra, Prof., pp. 3, 82n., 130, 410, 413, 647, 884, 887, 898; criticized, p. 647–49.
 
-285; meaning of, p. 285n. Grandmother, rights of succession 
+Heirless property, inheritance to, p. 285.
 
-of, p. 559. Grant, of land, should be inscribed 
+Heliodorus, Yona ambassador from the Greek king Antalikita, p. 355.
 
-by king, p. 531. Grhastha, two kinds of, p. 280; duties 
+Hells, p. 828; twentyone, in Viṣṇu and Yāj., p. 121.
 
-of, p. 280n. Grhastharatnākara, pp. 551, 552, 559, 
+Heller, p. 624.
 
-766, 7751., 893n.; contents of, 
+Hemādri, pp. 129, 287, 309, 466, 470, 491, 560, 591, 622, 725, 749–755; and his relations with Yādava king, pp. 751–53; works of, pp. 753–55.
 
-pp. 764–65. Grhyasūtras, subjects of, p. 20; 
+Heras, Father, pp. 781, 782, 784.
 
-principally confined to domestic life, p. 20; some refer to dharma 
+Heretics, guilds of, spoken of by [[Manusmfti,|Manusmṛti,]] p. 315.
 
-sūtras, p. 21. Gșhyatātparya-darsana, of Sudar 
+Hertel, Prof., p. 177.
 
-sanācārya, p. 17. Grierson, pp. 771, 775. Grnjana (Gājara), forbidden for eat 
+Hillebrandt, p. 195.
 
-ing, p. 865n. Guest, cow or bull offered to, p. 9. Gubadeva, expounder of Visiṣtā. 
+Hiraṇya, meaning of, p. 189n.
 
-dvaita, p. 566. Guilds, wealth of, does not go to 
+[[Hiranyakeśi-dharmasutra,|Hiraṇyakeśi-dharmasūtra,]] pp. 91–94; borrowed from Āpastamba-dharmasūtra, p. 91; commentary of Mahādeva on, pp. 91, 93–94.
 
-king, p. 285. Guṇaviṣṇu, predecessor of Halā- 
+[[Hiranyakeśigfhyasutra,|Hiraṇyakeśigṛhyasūtra,]] p. 39n.; commented on by [[Mātsdatta,|Mātṛdatta,]] pp. 17, 91.
 
-yudha, p. 637. 
+Holtzmann, p. 353.
 
-Halāyudha, pp. 622-639, 653, 768; 
+Hopkins, pp. 316, 318n., 336, 341, 343, 361, 369; criticized, pp. 323–24, 368, 369, 375.
 
-author of Brahmaṇasarvasva, pp. 625-28; gencalogy of, p. 626; age of, pp. 625, 628-36; author of commentary on Sraddha-Kalpa 
+Horāsukha, (or -saukhya), pp. 913, 914.
 
-sūtra, p. 636; the jurist, p. 633. Halhed, p. 979. Hammira, p. 690. Hammurabi, p. 324. Haradatta po4n Aus 30 3160 
+Horses, breeds of, p. 219; prāyaścitta for killing, p. 830.
 
-61, 67, 106, 270, 463, 485n., 742 749; explains Sramanaka to be Vaikhānasagāstra, pp. 32, 257; commentator of Gautama, p. 36; and of Apastamba, p 66; commen tator of Dharmaśāstra, whether identical with author of Padaman. jari, pp. 746-47; was a southerncr, p. 743; whether identical with 
+Householder, four varieties of, p. 258; two varieties of, p. 280.
 
-Rudradatta, p. 743. Haradattācārya, cited in Sarvadar. 
+Hultzsch, Dr., pp. 38, 43, 905.
 
-sanasarngraha, p. 748. Hāralatā, pp. 296, 548, 585, 586, 
+Hūṇas, p. 411; vanquished by Avantivarman, p. 169.
 
-662, 709; contents of, p. 727; authors and works quoted in, p. 728; com. called Sandarbhasūcika on, p. 729; composed about 1160 to 1170 A. D., p. 699; consulted 
+Illegitimate son, of śūdra, p. 561.
 
-Kamadhenu, p. 617. Haraprasada Sistri, M. M., pp. 586, 
+Images, of Śiva, Skanda, Viśākha, p. 247.
 
-807, 849, 888, 904, 907, 932, 967. Hārahūra, a place, p. 213; identifi. 
+Impartible, what things are, pp. 329, 488; Yogakṣema is, p. 528; fields, in what way, p. 550.
 
-cation of, with Arachosia, p. 214. Hara(i)siṁhadeva, king of Mithila, 
+[[P1261]]
 
-p. 771. Harasiinhadeva, son of Bhavcīa, 
+Impotent persons, 14 kinds of, p. 473.
 
-pp. 843, 849, 852n. 
+Impurity, on birth, period of, p. 267.
 
-1260 
+India, in close touch with Egypt, Greece, and Syria in 4th and 3rd centuries [[B, C.,|B. C.,]] p. [[414;|444;]] and Greece, p. 221.
 
+Indra and *yatis*, p. 9.
 
+Inheritance, divergent views as to, pp. 919–20; rights of uterine brother, p. 920.
 
-Harasimhapandita, grand-father of Hastinibhitta, a village in Bengal, 
+Interest, rates of, according to castes, pp. 289, 848; rule about rate of, according to Vasiṣṭha, pp. 104, 471; four varieties of, p. [[481;|484;]] not allowed in some cases, if not stipulated, p. 542.
 
-Mitramiśra, p. 946. 
+[[Tấāna.|Īśāna,]] brother of Halāyudha, p. 626; author of Dvijāhnikapaddhati, p. 626.
 
-p. 614. Haribhakti, pp. 761, 893n. 
+[[Itihasa,|Itihāsa,]] mentioned by Manu, pp. 315, 336; an ancient word, p. 358; called fifth Veda, p. 363; mentioned by [[Yaj.,|Yāj.,]] p. 433.
 
-Hazra, Prof., pp. 3, 82n., 130, 410, Haribhaktidipikā, p. 761. 
+Iyer, T. Krishnasvami, p. 737.
 
-413, 647, 884, 887, 898; criticized, Haridikṣita, guru of Nāgoji, p. 965. p. 647–49. Harihara, pp. 613-614, 735-737; Heirless property, inheritance to, 
+Jacobi, Dr., pp. 24, 156, 157, 158, 167, 212, 215; criticized, pp. 195, 443.
 
-bhāșyakāra of Pāraskaragphya, pp. p. 285. 613, 736. 
+[[Jagannāthapandita,|Jagannāthapaṇḍita,]] pp. 965, 966n.
 
-Heliodorus, Yona ambassador from Harihara, king of Vijayanagara, p. 
+Jagannātha Tarkapañcānana, pp. 978–980.
 
-the Greek king Antalikita, p. 355. 786. 
+Jaimini, pp. 5, 9, 13, 51, 63, 64, 73, 719; [[secs|sees]] no difference in the meaning of words in Veda and ordinary life, p. [[176.;|17n.;]] [[denirs|denies]] independent authority of [[Kalpasītras,|Kalpasūtras,]] p. 148; quoted profusely by Viśvarūpa, pp. 555–56; author of Smṛti-mīmāṁsā, p. 718.
 
-Hells, p. 828; twentyone, in Viṣṇu 
+Jaitrapāla, p. 752.
 
-and Yāj., p. 121. Hariharabhattācārya, father of Raghu 
+Jalāśayotsargatattva, of Raghunandana, p. 899.
 
-Heller, p. 624, nandana, pp. 737, 892. 
+Jalāśayotsargavidhi, of Nārāyaṇa, p. 905.
 
-Hemādri, pp. 129, 287, 309, 466, Hariharācārya, author of Samayapra 
+Jamadagni, p. 245.
 
-470, 491, 560, 591, 622, 725, 749– dipa, p. 737, 
+Jāmadagnya, pp. 219–220.
 
-755; and his relations with Yadava Haribara paddhati, p. 849n. 
+Janamejaya, p. 244; author of Nītiprakāśikā, pp. 265, 266.
 
-king, pp. 751-53; works of, pp. Harihara Sastri, Mr. G., p. 155, 
+Jamunāpura, p. 869.
 
-753-55. Hariharatāratamya, p. 748. 
+Jātiviveka, p. 862n.
 
-Heras, Father, pp. 781, 782, 784. 
+[[Jatīkarnya,|Jātūkarṇya,]] pp. 278–79; certain texts of, not authoritative according to Bhojadeva, Viśvarūpa and Govindarāja, p. 585.
 
-Heretics, guilds of, spoken of by Harililā, of Vopadeva, p. 754; com. 
+Jayā, queen of Bhairava, patroness of [[Vacaspati,|Vācaspati,]] pp. 852, 970.
 
-Manusmfti, p. 315. called Viveka on, p. 754. 
+Jayāditya, p. 746.
 
-Hertel, Prof., p. 177. Harinātha, pp. 775–777, 893n. 
+Jayamaṅgalā, commentary on Arthaśāstra, p. 155.
 
-Hillebrandt, p. 195. Hariprabodha, a work, p. 170. Hiranya, meaning of, p. 189n. Hārita, dharmasūtra of, pp. 127-136; Hiranyakeśi-dharmasutra, pp. 91-94; 
+Jayantasvāmin, criticized by Harihara, p. 737.
 
-origin of, probably Kashmir, p. 129; borrowed from A pastamba-dharma bhaṣyakāra of, p. 129; contents of, sītra, p. 91; commentary of Maha p. 129; belonged to Kļ3'a Yajur- deva on, pp. 91, 93–94. veda, p. 129; explains dharma as Hiranyakeśigfhyasutra, p. 39n.; com based on two kinds of śrutis, p. 
+Jayapatra, definition and contents of, p. 111; defined by Kātyāyana, p. 501.
 
-mented on by Mātsdatta, pp. 17,91. 129; gave wider meaning to Sruti, 
+Jayaśarman, mentioned by Vācaspati, p. [[8+5.|845.]]
 
-Holtzmann, p. 353. p. 130; peculiar doctrines of, pp. 
+Jayasena, son of Buddhasena, Janibigha inscription of, p. 632.
 
-Hopkins, pp. 316, 318n., 336, 341, 132–33; named by Apastamba, 
+Jayasiṁha, successor of Bhoja, p. 690.
 
-343, 361, 369; criticized, pp. 323– pp. 13, 61, 302; named by Bau 
+Jayasiṁha-kalpadruma, p. 586.
 
-24, 368, 369, 375. dhāyana, pp. 13, 45, 50, 302; the jurist, pp. 545-47. 
+Jayaswal, Dr. K. P., pp. 214, 215, 219, 276, 318n., 340, 341, 446, 474, 618, 631, 673, 767, 907; criticized, pp. 232–33, 339–40, 447, 477, 622.
 
-Horāsukha, (or -saukhya), pp. 913, 
+Jayatsena, opponent of Nala, pp. 245, 384.
 
-914. Harivamsa, reading of, as a penance 
+Jha, Dr. Ganganath, pp. 573, 845.
 
-Horses, breeds of, p. 219; prāyascitta for infanticide, p. 295. 
+Jha, Kamal Narain, p. 771.
 
-for killing, p. 830. Harivariisa, an author on dharma 
+Jha, Subhadra, pp. 631, 810.
 
-Householder, four varieties of, p. Śāstra, p. 701n. 
+Jikana, quoted by Kullūka, pp. 758, 770n, 826n., 893n.; quoted in [[Prāvaścitta-prakarana,|Prāyaścitta-prakaraṇa,]] p. 647.
 
-258; two varieties of, p. 280. Harivamsavarman, prince of Mahen 
+Jīmūtavāhana, pp. 286, 296, 476, 559, 587, 699–713; and Aparārka, p. 719.
 
-Hultzsch, Dr., pp. 38, 43, 905. dra family and patron of Nanda. 
+[[Jimitavāhana,|Jīmūtavāhana,]] of the Vidyādhara race and progenitor of Śilāhāras, pp. 713, 722.
 
-Hūṇas, p. 411; vanquished by Ava pandita, p. 916. 
+Jitendra, p. 747.
 
-ntivarman, p. 169. Harivarśavilāsa, of Nandapaṇdita, 
+Jitendriya, p. 448.
 
-p. 924. 
+[[Jivacchrāddhavidhi,|Jīvacchrāddhavidhi,]] [[p."03.,|p. 903n.]]
 
-Illegitimate son, of śūdra, p. 561. 
+[[P1262]]
 
-| Images, of Śiva, Skanda, Visakha, Harivarmadeva, a king, 644-45. 
+Jīvadeva, brother of Anantadeva, p. 961.
 
-p. 247. Harrington, p. 979. 
+Jīvanmuktiviveka, of [[Madhayācārya,|Mādhavācārya,]] p. 788.
 
-Impartible, what things are, pp. 329, Harsacarita, pp. 49, 167, 170, 171; 488; Yogakṣema is, p. 528; fields, 
+[[Jivatpitpkanirṇaya,|Jīvatpitṛkanirṇaya,]] p. 724.
 
-215, 235, 646, 705. 
+[[Jõānaratnāvali,|Jñānaratnāvali,]] p. 863.
 
-in what way, p. 550.General Index 
+[[Jñanadeva,|Jñānadeva,]] commentator of Gītā, p. 453.
 
-1261 
+Johnston, E. H., pp. 187, 217.
 
-Impotent persons, 14 kinds of, p. Janamejaya, p. 244; author of Niti 
+Jolly, Dr., pp. 24, 43, 94, 112, 113, 118, 124, 125, 127, 128, 134, 154, 177, 182, 183, 199, 200, 209, 246, 247, 284, 317, 333, 443, 447, 467, 475, 478, 487, 492, 546, 587, 661, 748, 896 etc.; criticized, pp. 103, 170, 185, 186, 187–89, 195, 212, 441, 477, 482, 564.
 
-473. 
+Jones, Sir [[Williams,|William,]] p. 979.
 
-prakāśikī, pp. 265, 266. Impurity, on birth, period of, p. 267. Jamunāpura, p. 869. India, in close touch with Egypt, Jātiviveka, p. 862n. 
+Jonker, Dr., p. 346.
 
-Greece, and Syria in 4th and 3rd 
+Judicial procedure, rules of, p. 334.
 
-Jatīkarnya, pp. 278-79; certain texts centuries B, C., p. 414; and Greece, 
+Justice, civil and criminal clearly distinguished by [[Bphaspati,|Bṛhaspati,]] p. 485; eight aṅgas of hall of, p. 515.
 
-of, not authoritative according to p. 221. 
+Jyotiḥ-Parāśara, pp. 466, 910n.
 
-Bhojadeva, Viśvarūpa and Govinda Indra and yatis, p. 9. 
+Jyotiḥ-Saukhya, p. 910.
 
-rāja, p. 585. Inheritance, divergent views as to, Jayā, queen of Bhairava, patroness of 
+[[Jyotir-Bphaspati,|Jyotir-Bṛhaspati,]] p. 791.
 
-pp. 919-20; rights of uterine bro- Vacaspati, pp. 852, 970. ther, p. 920. 
+Jyotir-Gārgya, p. 276.
 
-Jayāditya, p. 746. Interest, rates of, according to castes, 
+Jyotir-Nārada, p. 482.
 
-Jayamangalā, commentary on Artha pp. 289, 848; rule about rate of, 
+Jyotir-Vasiṣṭha, p. 112.
 
-sāstra, p. 155. according to Vasistha, pp. 104, 471; four varieties of, p. 481; not allo 
+[[Jyotiṣmal,|Jyotiṣmatī,]] astronomical work, pp. 883, 884.
 
-Jayantasvāmin, criticized by Harihara, wed in some cases, if not stipulated, p. 737. 
+[[Jyotistattva,|Jyotiṣtattva,]] pp. 588, 897.
 
-p. 542. 
+[[Kādambari,|Kādambarī,]] of Bāṇa, pp. 174, 196, 355, 475.
 
-Jayapatra, definition and contents of, Tấāna. brother of Halāyudha, p. 626:1 p. 111; defined by Kātyāyana, 
+Kaivalyadīpikā, a com. by Hemādri on Muktāphala, p. 754.
 
-author of Dvijāhnikapaddhati, p.) P. 501, 626. 
+Kaiyaṭa, cited by Śaraṇadeva, p. 747.
 
-Jayaśarman, mentioned by Vācaspati, Itihasa, mentioned by Manu, pp. 315, p. 8+5. 
+Kālādarśa, of Ādityabhaṭṭa, pp. 597, 780, 826n., 893n., 916n.
 
-336; an ancient word, p. 358; Jayasena, son of Buddhasena, Jani called fifth Veda, p. 363; men- bigha inscription of, p. 632. tioned by Yaj., p. 433. 
+Kālakaumudī, pp. 826n., 893n.
 
-Jayasimha, successor of Bhoja, p. 690. Iyer, T. Krishnasvami, p. 737. 
+Kālamādhava, same as [[Kalanirmaya|Kālanirṇaya]] of Mādhava, pp. 788, 905; com. on, by Nārāyaṇa, p. 905.
 
-Jayasimha-kalpadruma, p. 586. 
+Kālanirṇaya, of Mādhavācārya, pp. 780–81, 893n.
 
-Jayaswal, Dr. K. P., pp. 214, 215, Jacobi, Dr., pp. 24, 156, 157, 158, 167 
+Kālanirṇaya-dīpikā, com. on Kālanirṇaya, p. 792.
 
-219, 276, 318n., 340, 341, 446, 
+Kālanirṇayakautuka, of Nandapaṇḍita, p. 924.
 
-474, 618, 631, 673, 767, 907; criti 212, 215; criticized, pp. 195, 443, 
+[[Kālanirṇaya-siddhanta-vyākhyā,|Kālanirṇaya-siddhānta-vyākhyā,]] p. 565.
 
-cized, pp. 232–33, 339-40, 447, Jagannāthapandita, pp. 965, 966n. 
+Kālāvali, p. 732n.
 
-477, 622. Jagannātha Tarkapañcānana, pp. Jayatsena, opponent of Nala, pp. 245, 
+Kālavidhāna, p. 916n.
 
-978-980, 
+Kālaviveka, of [[Jimūtavāhana,|Jīmūtavāhana,]] pp. 286, 529, 587, 593, 700–701, 893n.
 
-384. Jaimini, pp. 5, 9, 13, 51, 63, 64, Jha, Dr. Ganganath, pp. 573, 845. 
+Kāleya, recommended in Śrāddha, p. 657.
 
-73, 719; secs no difference in the 
+Kali, things forbidden in, pp. 819n., 957; no [[samsargadosa|saṁsargadoṣa]] in, 726n.
 
-Jha, Kamal Narain, p. 771. meaning of words in Veda and ordinary life, p. 176.; denirs inde. Jha, Subhadra, pp. 631, 810. pendent authority of Kalpasītras, Jikana, quoted by Kullaka, pp. 758, p. 148; quoted profusely by Viśva- 770n, 826n., 893n.; quoted in rūpa, pp. 555-56; author of Smpti- Prāvaścitta-prakarana, p. 647. mimāṁsā, p. 718. 
+Kālidāsa, pp. 77, 169, 198, 245, 357, 390, 611.
 
-Jimūtavāhana, pp. 286, 296, 476, Jaitrapāla, p. 752, 
+Kālikāpurāṇa, pp. 417, 760, 897, 955.
 
-559, 587, 699-713; and Aparārka, Jalāśayotsargatattva, of Raghu- | 
+Kalpalatā, p. 725.
 
-p. 719. 
+Kalpasūtras and Jaimini, p. 148.
 
-nandana, p. 899. 
+Kalpataru, of Lakṣmīdhara, pp. 140, 286, 533, 609, 663–699, 725, 768, 775.
 
-Jimitavāhana, of the Vidyadhara 
+Kalubariga (modern Gulbarga), p. 869.
 
-race and progenitor of Silāhāras, Jalāśayotsargavidhi, of Nārāyana, p. 
+Kalyāṇa, capital of Vikramārka Cālukya, pp. 603, 607.
 
-905. 
+Kalyāṇabhaṭṭa, p. 549; revised Asahāya's com. on [[Nāradasmsti,|Nāradasmṛti,]] pp. 467, 546.
 
-pp. 713, 722. 
+Kalyāṇavarman, author of Sārāvalī, p. 182.
 
-Jitendra, p. 747. Jamadagni, p. 245. 
+Kalyanov, edited Russian translation of Kauṭilya's Arthaśāstra, p. 156.
 
-Jitendriya, p. 448. Jāmadagnya, pp. 219-220. 
+[[Kamadeva,|Kāmadeva,]] father of Hemādri, p. 751.
 
-Jivacchrāddhavidhi, p."03., 
+Kāmadhenu, pp. 616–622, 768, 775; [[composçd|composed]] by Bhoja according to Haraprasādaśāstri, p. 586; and Jayasval, p. 622; composed really by Gopāla, pp. 618–19; composed by Śambhu according to Aufrecht, p. 618.
 
-1262 
+Kāmadhenudīpikā, p. 347.
 
+[[Kamalakara,|Kamalākara,]] pp. 196, 575, 585, 925–937.
 
+[[Kamalakrsna|Kamalakṛṣṇa]] [[Smstitirtha,|Smṛtitīrtha,]] pp. 855, 957, 958n.
 
-Jivadeva, brother of Anantadeva, p. Kālanirṇaya-dipikā, com. on Kāla 
+[[P1263]]
 
-961. 
+Kamalaśīla, commented on Śāntarakṣita's [[Tattvasangraha,|Tattvasaṁgraha,]] p. 309n.
 
-nirṇaya, p. 792. Jivanmuktiviveka, of Madhayācārya, Kālanirṇayakautuka, of Nanda 
+Kāmandaka, pp. 144, 145; age of, p. 196; named in Mahābhārata, p. 210; looked upon Viṣṇugupta as his guru, p. 164; named in Rājanītiratnākara, p. 770.
 
-p. 788. 
+[[Kāmandakiya-nstisāra,|Kāmandakīya-nītisāra,]] pp. 144, 145, 164, 169, 192, 254.
 
-pandita, p. 924. Jivatpitpkanirṇaya, p. 724. 
+[[Kāmarūplyanibandha,|Kāmarūpīyanibandha,]] p. 893n.
 
-Kālanirṇaya-siddhanta-vyākhyā, p. 
+Kāmasūtra, pp. 71, 210; and Kauṭilya, pp. 210–11; date of, p. 71n.; deeply influenced by Arthaśāstra, p. 182; mentions tradition about works on dharma and artha, p. 288.
 
-565. Jõānaratnāvali, p. 863. 
+Kāmbhoja, pp. 218, 219.
 
-Kālāvali, p. 732n. Jñanadeva, commentator of Gitā, 
+[[Kāmbbojas,|Kāmbhojas,]] mentioned by Manu, p. 334; mentioned in the 5th Aśokan edict, p. 335.
 
-Kalavidhāna, p. 916n. p. 453. 
+Kamcha, whether identical with Vijñāneśvara, pp. 612–13.
 
-Kālaviveka, of Jimātavāhana, pp. Johnston, E. H., pp. 187, 217. 
+Kāmeśvara, dynasty of Mithilā, [[rp.|pp.]] 771, 852n.
 
-286, 529, 587, 593, 700-701, 893n. Jolly, Dr., pp. 24, 43, 94, 112, 113, 
+Kāmika, mentioned in [[Dānasagara,|Dānasāgara,]] p. 863.
 
-Kaleya, recommended in Srāddha, 118, 124, 125, 127, 128, 134, 154, 
+Kaṁsagrāma, in Tanjore district, p. 748n.
 
-p. 657. 177, 182, 183, 199, 200, 209, 246, 247, 284, 317, 333, 443, 447, 467, 
+Kangle, Prof. R. P., pp. 154, 156, 251n.
 
-Kali, things forbidden in, pp. 819n., 475, 478, 487, 492, 546, 587, 661, 
+Kaṇiṅka Bhāradvāja, p. 209.
 
-957; no samsargadosa in, 726n. 748, 896 etc.; criticized, pp. 103, Kālidāsa, pp. 77, 169, 198, 245, 357, 170, 185, 186, 187–89, 195, 212, 390, 611. 441, 477, 482, 564. 
+Kāntānāthabhaṭṭa, p. 906.
 
-Kālikāpurāṇa, pp. 417, 760, 897, 955. Jones, Sir Williams, p 979. 
+[[Kaava|Kaṇva]] and Kāṇva, named by Āpastamba, pp. 13, 61, 273, 274.
 
-Kalpalatā, p. 725. Jonker, Dr., p. 346. 
+Kaṇva (Kāṇva)-Bodhāyana, pp. 39, 40.
 
-Kalpasūtras and Jaimini, p. 148. Judicial procedure, rules of, p. 334. 
+Kāpālikas, [[pp,|pp.]] 121, 271; sight of, an evil omen, p. 121.
 
-Kalpataru, of Lakṣmidhara, pp. 140, 
+Kapardi, p. 566.
 
-286, 533, 609, 663–699, 725, 768, Justice, civil and criminal clearly 
+Kapila, an asura, fourfold division of āśramas ascribed to, p. 45; name of Vāsudeva, p. 115.
 
-775. distinguished by Bphaspati, p. 485; 
+Kapilendra, founder of Gajapati dynasty, p. 869.
 
-Kalubariga ( modern Gulbarga ), p. eight angas of hall of, p. 515. 
+Kapiñjalādhikaraṇa, p. 865n.
 
-869. Jyotih-Parāśara, pp. 466, 910n. 
+Karka, pp. 18, 639, 736, 761, 848n.
 
-Kalyāna, capital of Vikramārka Jyotiḥ-Saukhya, p. 910. 
+Karmānuṣṭhānapaddhati, p. 641; com. on, p. 652.
 
-Cālukya, pp. 603, 607. Jyotir-Bphaspati, p. 791. Jyotir-Gārgya, p. 276. 
+Karmapradīpa, attributed to Kātyāyana, pp. 502–505, 775; contents of, p. 503; quoted by Mitramiśra, p. 945.
 
-Kalyāṇabhatta, p. 549; revised Asa 
+[[Karmavipaka,|Karmavipāka,]] meaning of, p. 796.
 
-hāya's com. on Nāradasmsti, pp. Jyotir-Nārada, p. 482. 
+Karmavipāka, of Śātātapa, pp. 295, 797n.
 
-467, 546. Jyotir-Vasiṣtha, p. 112. 
+Karmavipākaratna, p. 927.
 
-Kalyāṇavarman, author of Sārāvali, Jyotiṣmal, astronomical work, pp. 1 
+Karmavipākasamuccaya, p. 805.
 
-P 182. 883, 884. 
+Karmopadeśinī, of Aniruddha, pp. 651, 727, 893n.
 
-Kalyanov, edited Russian translation Jyotistattva, pp. 588, 897. 
+Karmopadeśinī, ascribed to Halāyudha, p. 639.
 
-of Kauṭilya's Arthaśāstra, p. 156. 
+[[Karnaṭa,|Karṇāṭa,]] dynasty of Mithilā, p. 771.
 
-Kamadeva, father of Hemādri, p. Kādambari, of Bāna, pp. 174, 196, 751. 
+Kārṣāpaṇa, pp. 477, 479, 532; current in Draviḍa country, p. 479.
 
-355, 475. 
+Kārṣṇājini, p. 676n.
 
-Kāmadhenu, pp. 616-622, 768, 775; Kaivalyadipikā, a com. by Hemādri 
+Kāśikā, commentary on [[Panini,|Pāṇini,]] pp. 80, 746; com. of Haradatta on, p. 746.
 
-composçd by Bhoja according to on Muktāphala, p. 754. 
+Kāśīkhaṇḍa, p. 848n.
 
-Haraprasādaśāstri, p. 586; and Kaiyaṭa, cited by Saraṇadeva, p. 747. Jayasval, p. 622; composed really Kālādarsa, of Adityabhatta, pp. 597, 
+[[Kasimaraṇamuktivicāra,|Kāśīmaraṇamuktivicāra,]] a work, p. 624.
 
-by Gopala, pp. 618-19; composed 780, 826n., 893n., 916n. 
+[[Kāīiprakāśa,|Kāśīprakāśa,]] of Nandapaṇḍita, p. 924.
 
-by Sambhu according to Aufrecht, Kālakaumudī, pp. 826n., 893n. 
+Kāśīnātha, pp. 790, 961, 974–978.
 
-p. 618. 
+[[Kāṣıhā,|Kāṣṭhā,]] capital of Ṭāka kings, pp. 800, 801.
 
-Kālamadhava, same as Kalanirmaya 
+[[Kāīyapa,|Kāśyapa,]] pp. 274–276, 911; mentioned by Baudhāyana, pp. 13, 45, 274, 302.
 
-Kāmadhenudīpikā, p. 347. of Madhava, pp. 788, 905; com, Kamalakara, pp. 196, 575, 585, 925 on, by Nārāyaṇa, p. 905. 
+Kaṭaka, or [[Amsta-Kataka,|Amṛta-Kaṭaka,]] com. on Rāmāyaṇa, p. 406n.
 
-937. Kālanirṇaya, of Mādhavācārya, pp. Kamalakrsna Smstitirtha, pp. 855, 
+Kaṭakanagara, p. 876.
 
-780–81, 893n. 
+Kaṭānna, [[mcaning|meaning]] of, p. 667.
 
-957, 958n. 
+[[Kāphakadharmasūtra,|Kāṭhakadharmasūtra,]] p. 103.
 
-General Index 
+Kāṭhakagṛhya, pp. 18, 113; and Viṣṇudharmasūtra, pp. 122–23, 125; synonyms of, and commentaries on, p. 18.
 
-1263 
+Kathāsaritsāgara, of Somadeva, pp. 170, 958n.
 
-p. 945. 
+[[P1264]]
 
-Kamalasila, commented on Santa | Karmānusthānapaddhati, P. 641; 
+[[Kathopanisad,|Kaṭhopaniṣad,]] pp. 23, 41, 316n., 380n.
 
-rakṣita's Tattvasangraha, p. 309n. com. on, p. 652. Kamandaka, pp. 144, 145; age of, Karmapradipa, attributed to Kātyā. 
+Kātīyakalpa, p. 761.
 
-p. 196; named in Mahābhārata, p. 
+Kātya, mentioned by Baudhāyana, pp. 13, 45, 302, 496.
 
-yana, pp. 502-505, 775; contents 210; looked upon Viṣṇugupta as 
+Kātyāyana, p. 274; named by Kauṭilya, p. 209.
 
-of, p. 503; quoted by Mitramiśra, his guru, p. 164; named in Raja nitiratnākara, p. 770. 
+Kātyāyana, author of Vārtikas, p. 422; Śrāddhakalpa of, pp. [[411,|441,]] 639.
 
-Karmavipaka, meaning of, p. 796. Kāmandakiya-nstisāra, pp. 144, 145, 
+Kātyāyana, pp. 496–507, 805; looked upon as an authority by Viśvarūpa and Medhātithi, p. 487; quotes [[Bfhaspati|Bṛhaspati]] as authority, pp. 488, 497; confusion about the verses quoted from Bṛhaspati and Kātyāyana, pp. 494–95; mentioned as author of [[Craddhakalpa|Śrāddhakalpa]] and [[Srauta|Śrautasūtra,]] p. 496; expounds Nārada, p. 496; expounds in detail law of strīdhana, pp. 496–97; and Bhṛgu, pp. 497–98; and Manusmṛti, pp. 498–500; advanced views [[cf.|of,]] about law and rules of procedure, pp. 500–501; date of, pp. 501–502; author of Karmapradīpa, pp. 503–504; whether [[Kētyāyana|Kātyāyana]] the jurist is identical with the author of Karmapradīpa, pp. [[501–50;|504–505;]] additional verses, ascribed to, pp. 505–507.
 
-164, 169, 192, 254. 
+Kātyāyanaśrautasūtra, commented on by Bhartṛyajña, p. 551.
 
-Karmavipāka, of Śatātapa, pp. 295, 
+Kauṇapadanta, named by Kauṭilya, pp. 196, 209–10.
 
-797n. Kāmarūplyanibandha, p. 893n. 
+Kauṇḍinya, Vṛttikāra, p. 39.
 
-Karmavipākaratna, p. 927. Kāmasūtra, pp. 71, 210; and Kauti Iya, pp. 210–11; date of, p. 71n.; 
+Kauśika, mentioned by Kātyāyana, p. 500.
 
-Karmavipākasamuccaya, p. 805. deeply influenced by Arthasāstra, Karmopadesini, of Aniruddha, pp. p. 182; mentions tradition about 651, 727, 893n. works on dharma and artha, p. 288. 
+Kauṭalya, p. 196; explanation of, pp. 254–55.
 
-Karmopadeśini, ascribed to Halā. Kambhoja, pp. 218, 219. 
+Kauṭilīya, oldest [[cxtant|extant]] work on arthaśāstra, p. 158; age of, p. 215ff.; agreement of, with Kāmasūtra, pp. 210–11; and [[Yajravalkya,|Yājñavalkya,]] pp. 202–204; and Mahābhārata, pp. 159–62; authenticity of, p. 194; form of, p. 196; style of, p. 200; contents of, pp. 200–02; judicial administration in, pp. 202–04; points of difference from Manu in, pp. 204–07; authors named by, p. 209; literature known to, pp. 210–11; knowledge of drugs in, pp. 246–47; agreement of, with Manusmṛti, p. 312.
 
-L yudha, p. 639. Kāmbbojas, mentioned by Manu, p. Karnaṭa, dynasty of Mithilā, p. 771. 
+Kauṭilya, pp. 4, 33; cited as authority in the work itself, pp. 194–95; derivation of, p. 196; proper form of name, pp. 195–96.
 
-334; mentioned in the 5th Asokan 
+Kautsa, named by Āpastamba, pp. 13, 61, 273.
 
-Kārṣāpana, pp. 477, 479, 532; cur edict, p. 335. 
+Kavaṣa, p. 817.
 
-rent in Dravida country, p. 479. Kamcha, whether identical with 
+Kavikāntasarasvatī, p. 893n.
 
-Kārṣnājini, p. 676n. Vijñāneśvara, pp. 612-13. 
+[[Kavipriyī,|Kavipriyā,]] of Keśavadāsa, p. 947.
 
-Kāsikā, commentary on Panini, pp. Kāmeśvara, dynasty of Mithilā, rp. 
+Kavirahasya, pp. 624, 636.
 
-80, 746; com. of Haradatta on, 771, 852n. 
+Kavi, Ramakrishna, pp. 152–53.
 
-p. 746. Kāmika, mentioned in Dānasagara, 
+Kāvya, vide under Uśanas; sage in Ṛgveda, p. 264; purohita of asuras, pp. 265, 266; propounder of Rājadharma, pp. 150, 341.
 
-Kāśikhanda, p. 848n. P. 863, Kamsagrāma, in Tanjore district, p. 
+[[Kavyīdarsa,|Kāvyādarśa,]] of Daṇḍin, p. 171.
 
-Kasimaraṇamuktivicāra, a work, p. 
+Kāvyālaṁkāra, of Bhāmaha, p. 574.
 
-624. 748n. Kangle, Prof. R. P., pp. 154, 156, 
+[[Kāvālamkārasītravṛtti,|Kāvyālaṁkārasūtravṛtti,]] of Vāmana, p. 625.
 
-Kāīiprakāśa, of Nandapandita, p. 251n. 
+Kāvyamīmāṁsā, of Rājaśekhara, p. 311.
 
-924. 
+Kāya, means Prājāpatya form of marriage, p. 430.
 
-Kāślnātha, pp. 790, 961, 974–978. Kaninka Bhāradvāja, p. 209. 
+Kāyasthadharmapradīpa, of Gāgābhaṭṭa, p. 938.
 
-Kāṣıhā, capital of Țāka kings, pp. Kāntānāthabhatta, p. 906. 
+Kedāra, relied on by Śrīdhara, p. 725.
 
-800, 801. Kaava and Kāṇva, named by Apas 
+Keith, [[Prof,|Prof.,]] pp. 183, 185, 186, 191, 194, 209, 211, 260, 477; criticized, pp. 169n., 178, 187, 191, 195, 210, 211.
 
-Kāīyapa, pp. 274-276, 911; mentioned tamba, pp. 13, 61, 273, 274. 
+Kennedy, M. T., p. 897n.
 
-by Baudhāyana, pp. 13, 45, 274, Kaṇva (Kāṇva)-Bodhāyana, pp. 39, 302. 
+Kern, pp. 182, 364.
 
-40. 
+[[Keśavabhaita,|Keśavabhaṭṭa,]] [[encourged|encouraged]] Kalyāṇabhaṭṭa to revise Asahāya's com. on Nāradasmṛti, pp. 467, 546.
 
-Kataka, or Amsta-Kataka, com. on Kāpālikas, pp, 121, 271; sight of, an 
+[[Kebavadāsa,|Keśavadāsa,]] author of Vīrasiṁhadevacarita, p. 947.
 
-Rāmāya na, p. 406n. 
+Keśavāditya-bhaṭṭopādhyāya, father of Devaṇṇabhaṭṭa, p. 737.
 
-Rāmāvan cvil omen, p. 121. 
+[[P1265]]
 
-Katakanagara, p. 876. Kapardi, p. 566. 
+Keśavanāyaka, son of Koṇḍapanāyaka, p. 918; patron of Nandapaṇḍita, p. 919.
 
-Kaṭānna, mcaning of, p. 667. Kapila, an asura, fourfold division of 
+[[Kesavaśarman,|Keśavaśarman,]] author of [[Smrtiāra,|Smṛtisāra,]] p. 777.
 
-Kāphakadharmasūtra, p. 103. āśramas ascribed to, p. 45; name 
+Keśavasvāmin, compiled a lexicon, [[Nānārthārpavasanksepa,|Nānārthārṇavasaṅkṣepa,]] p. 254.
 
-Kāṭhakagrhya, pp. 18, 113; and of Vāsudeva, p. 115. 
+Keśava-vaijayantī, of Nandapaṇḍita, com. on Viṣṇudharmasūtra, p. 919.
 
-Viṣṇudharmasūtra, pp. 122–23, Kapilendra, founder of Gajapati 
+[[Khan ladeva,|Khaṇḍadeva,]] author of Bhāṭṭadīpikā, p. 968.
 
-125; synonyms of, and commenta dynasty, p. 869. 
+Khilas, mentioned by [[Manusmști,|Manusmṛti,]] p. 315.
 
-ries on, p. 18. Kapiñjalādhikarana, p. 865n. Kathāsaritsāgara, of Somadeva, pp. Karka, pp. 18, 639, 736, 761, 848n. 170, 958n. 
+Kibe, Mr. M. V., p. 373n.
 
-1264 
+Kielhorn, pp. 49, 193, 198, 213, 359, 631, 645, 811.
 
+King, eight activities of, p. 266; had to restore stolen property from his treasury if the thief not found, p. 289; high prerogative of even a weak, 474; took action without any complaint, in cases of *chalas* and of aparādhas, pp. 515, 542; to look into disputes of people, p. 526; becomes endowed with three goals awarding punishment to those who deserve, p. 855; shares 1/6th part of his subjects' merit regulating them properly, otherwise takes 1/6th of their sins, p. 856; was to safeguard varṇas and āśramas, p. 302; prime duty of, to offer security and protection to subjects and to appoint persons of the first three varṇas for that purpose, p. 250; an ideal time-table for, acc. to Kauṭilya, p. 228; duty of a crowned, p. 12; condemned by both the [[cpics|epics]] when being engrossed in pleasures does not attend the court of justice, p. 397; duties of ideal, in Sabhāparva, p. 399; conduct or life of, different from common men, p. 159; Bṛhaspati's views about, as stated in Śānti and Karṇaparvans, pp. 160–62; Uśanas on, pp. 163–64; coronation of, in Rājyābhiṣeka-dīdhiti, p. 957; deserves special honour with five others, p. 95.
 
+Kiñjalka, an author, p. 209.
 
-Kathopanisad, pp. 23, 41, 3161., 1 in, pp. 202-04; points of difference 
+[[Kirfel.|Kirfel,]] p. 410.
 
-380n. 
+Kirste, Dr., pp. 17, 39n.
 
-from Manu in, pp. 204-07; authors Kātiyakalpa, p. 761. 
+Knauer, Dr., pp. 145, 146, 310.
 
-named by, p. 209; literature known 
+Knox, J., p. 921.
 
-to, pp. 210-11; knowledge of drugs Katya, mentioned by Baudhāyana, 
+Konkan, ruled over by Śilāhāras, p. 721; king Aparāditya of, sent embassy to Kashmir, p. 722; capital of, p. 791.
 
-in, pp. 246-47; agreement of, with pp. 13, 45, 302, 496. 
+Konow, Sten, pp. 157, 215.
 
-Manusmrti, p. 312. Kātyāyana, P. 274; named by Kau- Kautilya, pp. 4, 33; cited as autho 
+Kramapāṭha, p. 554.
 
-tilya, p. 209. 
+Krishnamacharya, Pandit V., p. 918.
 
-rity in the work itself, pp. 194–95; Kātyāyana, author of Vārtikas, p. derivation of, p. 196; proper form 
+Kriyā, meaning of, pp. 702, 846.
 
-422; Sraddhakalpa of, pp. 411, of name, pp. 195-96. 639. 
+Kriyāśakti, teacher of Mādhavamantrin, p. 791.
 
-Kautsa, named by Āpastamba, pp. Kātyāyana, pp. 496-507, 805; looked 13, 61, 273. 
+[[Kriviisrava,|Kriyāśrava,]] a work on astronomy, p. 718.
 
-upon as an authority by Viśvarūpa 
+[[Kļṇa,|Kṛṣṇa,]] a [[Rāstrakata|Rāṣṭrakūṭa]] king, p. 624.
 
-Kavaṣa, p. 817. and Medhātithi, p. 487; quotes Bfhaspati as authority, pp. 488, 
+Kṛṣṇa, author of [[Sriddhakasiki,|Śrāddhakāśikā,]] p. 639.
 
-Kavikāntasarasvati, p. 893n. 497; confusion about the verses Kavipriyī, of Keśavadāsa, p. 947. quoted from Bṛhaspati and Kātya- Kavirahasya, pp. 624, 636. yana, pp. 494–95; mentioned as 
+Kṛṣṇabhakticandrikā, a drama of Anantadeva, pp. 959–60.
 
-Kavi, Ramakrishna, pp. 152-53. author of Craddhakalpa and Srauta 
+Kṛtyacintāmaṇi, of Śivarāma, p. 582n.
 
-Kāvya, vide under Uśanas; sage in sātra, p. 496; expounds Nārada, p. 496; expounds in detail law of 
+[[Kṛtyacintīmani,|Kṛtyacintāmaṇi,]] of Caṇḍeśvara, p. 766; deals with astronomical matters, 767.
 
-Rgveda, p. 264; purohita of asuras, stridhana, pp. 496–97; and Bhrgu, 
+Kṛtyacintāmaṇi, of Vācaspatimiśra, deals with festivals, pp. 845, 893n.
 
-pp. 265, 266; propounder of Rāja pp. 497-98; and Manusmrti, pp. 
+[[Kstvakalpataru,|Kṛtyakalpataru,]] vide Kalpataru, pp. 104, 663.
 
-dharma, pp. 150, 341. 498_500; advanced views cf. about | Kavyīdarsa, of Dandin, p. 171. law and rules of procedure, pp. 
+[[Kștyakaumudi,|Kṛtyakaumudī,]] p. 893n.
 
-Kāvyālamkāra, of Bhāmaha, p. 574. 500-501; date of, pp. 501-502; Kāvālamkārasītravṛtti, of Vāmana, author of Karmapradipa, pp. 503 
+Kṛtyamahārṇava, of Vācaspati, p. 847.
 
-p. 625. 504; whether Kētyāyana the jurist 
+Kṛtyapradīpa, a work on Nyāya, p. [[816n.|846n.]]
 
-Kāvyamimāmsā, of Rajasekhara, p. is identical with the author of 
+Kṛtyaratnākara, of Caṇḍeśvara, pp. 762, 764, 775n.
 
-311. Karmapradipa, pp. 501–50; ad. ditional verses, ascribed to, pp. 
+Kṛtyasamuccaya, p. 770n.
 
-Kāya, means Prājāpatya form of 505-507. 
+Kṛtyatattvārṇava, p. 893n.
 
-marriage, p. 430. 
+Kṣatriyas, śreṇis of, in Kauṭilīya, p. 218; have privilege to perform [[rā jasapījā,|rājasapūjā,]] p. 895; duties of, 779n.
 
-Kā tyāyanasrautasūtra, commented on 
+[[Koemendra,|Kṣemendra,]] p. 171.
 
-Kayasthadharmapradipa, of Gāgā. by Bhartfyajña, p. 551. 
+[[Kerasvāmin,|Kṣīrasvāmin,]] pp. 225, 467; was a Kashmirian, p. 574.
 
-bhatta, p. 938. Kauṇapadanta, named by Kautilya, 
+Kubera, p. 336.
 
-Kedāra, relied on by Sridhara, p. pp. 196, 209–10. 
+[[P1266]]
 
-725. 
+Kukura, pp. 218, 252.
 
-Kaundinya, Vettikāra, p. 39. 
+Kulakārikā, of [[Edumiāra,|Eḍumiśra,]] p. 707.
 
-Keith, Prof, pp. 183, 185, 186, 191, 
+Kulārṇava, p. 147n.
 
-194, 209, 211, 260, 477; criticized, Kausika, mentioned by Katyayana, 
+Kullūka, pp. [[51.,|5n.,]] 34, 129, 266n., 270, 328, 457, 484, 490, 498, 661, 756–759; criticizes Govindarāja, p. 659; Śrāddhasāgara is a work of, p. 758; named in Rājanītiratnākara, p. 770.
 
-pp. 169n., 178, 187, 191, 195, 210, p. 500. 
+Kulottuṅga, a Cola king, p. 678.
 
-211. Kautalya, p. 196; explanation of, 
+Kumāra, p. [[773.|775.]]
 
-Kennedy, M. T., p. 897n. 
+Kumārasambhava, p. 162.
 
-• pp. 254-55. 
+Kumāratantra, promulgated by the son of Rāvaṇa, p. 805.
 
-Kern, pp. 182, 364. Kautiliya, oldest cxtant work on arthaśāstra, p. 158; age of, p. 215ff.; 
+Kumārila, pp. 46, 50, 145, 149, 327, 563; called Tautātita, p. 642.
 
-Keśavabhaita, encourged Kalyāna agreement of, with Kamasūtra, pp. 
+Kumbhīdhānya, meaning of, pp. 255–56.
 
-bhatta to revise Asahāya's com. on 
+Kuṇḍabhāskara, of Śaṅkara, p. 941.
 
-Nāradasmṣti, pp. 467, 546. 210-11; and Yajravalkya, pp. 202 204; and Mahābhārata, pp. 159 
+Kuṇḍapaddhati, p. 964n.
 
-Kebavadāsa, author of Virasimha. 62; authenticity of, p. 194; form of, i devacarita, p. 947. 
+Kuṇika, pp. 61, 273, 302.
 
-p. 196; style of, p. 200; contents of, | Keśavāditya-bhattopādhyāya, father pp. 200-02; judicial administration of Devannabhatta, p737. 
+Kūrmapurāṇa, p. 534n.; extent of, p. 415.
 
-" 
+Kushans, gold coins of, p. 447; chronology of, p. 447.
 
-General Index 
+Kūṭa, verses in the Mahābhārata, p. 350n.
 
-1265 
+Kuṭala, a gotra, p. 196.
 
-Keśavanāyaka, son of Kondapa- | Kiñjalka, an author, p. 209. 
+Kutsa, pp. 61, 273.
 
-nāyaka, p. 918; patron of Nanda Kirfel. p. 410. pandita, p. 919. 
+Lachimādevī, queen of Candrasiṁha, p. 843.
 
-Kirste, Dr., pp. 17, 39n. Kesavaśarman, author of Smrtiāra, 
+Laghu-Atri, p. 263.
 
-Knauer, Dr., pp. 145, 146, 310. p. 777. 
+[[Laghubhāṣaṇakānti,|Laghubhūṣaṇakānti,]] com. on Vaiyākaraṇabhūṣaṇasāra, p. 971.
 
-Knox, J., p. 921. Keśavasvāmin, compiled a lexicon, 
+Laghu-Hārīta, pp. 134, 135; quoted by Aparārka, p. 717.
 
-Konkan, ruled over by Silāhāras, p. Nānārthārpavasanksepa, p. 254, 
+Laghu-Nārada, p. 483.
 
-721; king Aparāditya of, sent Keśava-vaijayanti, of Nandapandita, 
+Laghu-Śaṅkha, p. 138.
 
-embassy to Kashmir, p. 722; com. on Viṣṇudharmasūtra, p. 919. 
+Laghu-Viṣṇu, pp. 126, 127; quoted by Aparārka, p. 717.
 
-capital of, p. 791. Khan ladeva, author of Bhāttadipikā, 
+Laghu-Vyāsa, p. 534.
 
-Konow, Sten, pp. 157, 215. P. 968. 
+Laghu-Yama, pp. 527, 717.
 
-Kramapatha, p. 554, Khilas, mentioned by Manusmști, 
+Laharpur, birth-place of Ṭoḍaramalla, p. 908.
 
-Krishnamacharya, Pandit V., p. 918. p. 315. 
+Lakṣmaṇabhaṭṭa, younger brother of Kamalākarabhaṭṭa, p. 925.
 
-Kriyā, meaning of, pp. 702, 846. Kibe, Mr. M. V., p. 373n. 
+Lakṣmaṇasena, king of Bengal, patron of Halāyudha; finished the Adbhutasāgara of his father Ballālasena, pp. 628–29; date of, pp. 629–30; was defeated by Bakhtiyar Khilji in 1200 A. D., p. 631; era of, pp. 631–32.
 
-Kriyāsakti, teacher of Madhava Kielhorn, pp. 49, 193, 198, 213, 359, 
+Lakṣmaṇopādhyāya, p. 636.
 
-mantrin, p. 791. 631, 645, 811. 
+[[Laksanaprakāka,|Lakṣaṇaprakāśa,]] of [[Nitramiýra,|Mitramiśra,]] p. [[912.|942.]]
 
-Kriviisrava, a work on astronomy, King, eight activities of, p. 266; had 
+Lakṣmī, com. on Kālanirṇaya, p. 792.
 
-p. 718. to restore stolen property from his treasury if the thief not found, p. 
+Lakṣmīdevī, reputed authoress of [[com,|com.]] on Mitākṣarā, p. 968.
 
-Kļṇa, a Rāstrakata king, p. 624. 289; high prerogative of even a Krsna, author of Sriddhakasiki, p. weak, 474; took action without any 
+Lakṣmīdhara, vide under Kalpataru.
 
-639. complaint, in cases of chalas and of Krsnabhakticandrika, a drama of aparādhas, pp. 515, 542; to look Anantadeva, pp. 959–60. into disputes of people, p. 526; | Kftyacintāmani, of Śivarāma, p. 582n. becomes endowed with three goals 
+Lala Sitaram, Mr., pp. 916, 947, 953.
 
-Kṛtyacintīmani, of Candeśvara, p. awarding punishment to those who 
+Lalita, p. 917n.
 
-766; deals with astronomical deserve, p. 855; shares 1/6th part 
+Lama Taranath, p. 214.
 
-matters, 767. of his subjects' merit regulating them properly, otherwise takes 1/6th 
+Lane-Poole, Mr., p. 868n.
 
-Kṛtyacintamani, of Vācaspatimiśra, of their sins, p. 856; was to safe 
+Laṅkāvatārasūtra, p. 443.
 
-deals with festivals, pp. 845, 893n. guard varṇas and aśramas, p. 302; Kstvakalpataru, vide Kalpataru, pp. prime duty of, to offer security 104, 663. and protection to subjects and to 
+Lāṭyāyanaśrauta, pp. 22, 770.
 
-Kștyakaumudi, p. 893n. appoint persons of the first three 
+Laugākṣi, pp. 528–529.
 
-Kṛtyamahārnava, of Vācaspati, p. 847. varṇas for that purpose, p. 250; ao 
+Laugākṣi-gṛhya, same as Kāṭhakagṛhya, p. 122n.; Devapālabhāṣya on, p. 122n.
 
-Kṛtyapradipa, a work on Nyāya, ideal time-table for, acc. to kau. tilya, p. 228; duty of a crowned, 
+Law, [[B,|B.]] C., pp. 167n., 216.
 
-p. 816n. p. 12; condemned by both the Kr̥tyaratnākara, of Candeśvara, pp. cpics when being engrossed in plea 
+Law, N. N., p. 215.
 
-762, 764, 775n. sures does not attend the court of Kṛtyasamuccaya, p. 770n. justice, p. 397; duties of ideal, in 
+Lawyers, professional, whether existed in the time of the Mānava Code, pp. 340–41.
 
-Kṛtyatattvārnava, p. 893n. Sabhāparva, p. 399; conduct or life 
+Levy, Prof. Sylvain, p. 398.
 
-Ksatriyas, śrenis of, in Kauṭiliya, p. of, different from common men, 
+Licchivikas, p. 218; a saṅgha, pp. 251, 252, 253.
 
-218; have privilege to perform p. 159; Bṛhaspati's views about, as 
+Likhanāvalī, p. 810n.
 
-rā jasapījā, p. 895; duties of, 779n. stated in Santi and Karnaparvans, 
+Likhita, mentioned by Kātyāyana, p. 216; story of, and his brother Śaṅkha in Mahābhārata, pp. 136–37.
 
-Koemendra, p. 171. pp. 160-62; L'śanas on, pp. 163-64; coronation of, in Rājyībhiseka-di 
+Likhitasmṛti, pp. 138–39.
 
-Kerasvāmin, pp. 225, 467; was a dhiti, p. 957; deserves special 
+Līlāvatī, work on mathematics, p. 970.
 
-| Kashmirian, p. 574. honour with five others, p. 95. Kubera, p. 336. 
+Liṅgapurāṇa, pp. 933, 950; speaks of 20 expounders of dharma, p. 416
 
-H.D.--159 
+[[P1267]]
 
-1266 
+Liquors, twelve kinds of, p. 516.
 
+Lokaprakāśa, of Kṣemendra, p. 480.
 
+Lokāyata, school of, known to Kauṭilya, pp. 210, 225; expounded by Pañcaśikha to Janaka, p. 226.
 
-Kukura, pp. 218, 252. 
+Lollaṭa, p. 917n.; quotes Medhātithi, p. 582; relied on by Śrīdhara, p. 725.
 
-Laksmanabhatta, younger brother of Kulakārikā, of Edumiāra, p. 707. 
+Macnaghten, Sir [[Williams,|William,]] p. 921.
 
-Kamalakarabhatta, p. 925. Kulārnava, p. 147n. 
+Madana, son of Sahāraṇa, p. 574.
 
-Laksmanasena, king of Bengal, patron Kullāka, pp. 51., 34, 129, 266n., 270, of Halāyudha; finished the Adbhuta 
+Madanapāla, pp. 792–804.
 
-328, 457, 484, 490, 498, 661, 756- sāgara of his father Ballālasena, 759; criticizes Govindarāja, p. 659; 
+Madanapārijāta, pp. 132n., 139, 305, 505, 655, 656, 792–804.
 
-pp. 628-29; date of, pp. 629–30; Srāddhasāgara is a work of, p. 758; was defeated by Bakhtiyar Khilji named in Rajanitiratnākara, p. 
+Madanaratna, pp. 804–809.
 
-in 1200 A, D., p. 631; era of, 770. 
+Madanaratnapradīpa (or Madanapradīpa), pp. 804–809.
 
-pp. 631-32. Kulottunga, a Cola king, p. 678. Lakṣmanopādhyāya, p. 636. Kumāra, p. 773. 
+Madanavinodanighaṇṭu, p. 801.
 
-Laksanaprakāka, of Nitramiýra, p. Kumārasambhava, p. 162. 
+Mādhavācārya, pp. 65, 305, 334, 379, 448, 460, 562, 778–792; identical with Vidyāraṇya, p. 808; personal history of, pp. 775–790; distinct from Mādhavamantrin, connected with Goa, p. 791.
 
-912. Kumāratantra, promulgated by the Lakṣmi, com. on Kālanirṇaya, p. 
+Mādhavamantrin, p. 791.
 
-son of Rāvana, p. 805. 
+[[Mūdhavānanda,|Mādhavānanda,]] p. 924.
 
-792. Kumārila, pp. 46, 50, 145, 149, 327, Lakṣmidevi, reputed authoress of 
+Mādhavasvāmin, p. 770n.
 
-563; called Tautātita, p. 642. 
+Mādhavayajvan, commentator of Kauṭilīya, p. 247.
 
-com, on Mitākṣarā, p. 968. Kumbhidhānya, meaning of, pp. | Lakṣmidhara, vide under Kalpataru. 
+Mādhavīyā [[Dhātuvrti,|Dhātuvṛtti,]] pp. 746, 789.
 
-255-56. 
+Madhuśarman, p. [[70n.|750n.]]
 
-Lala Sitaram, Mr., pp. 916, 947, 953. Kundabhāskara, of Śhaṅkara, p. 941. Lalita, p. 917n. Kundapaddhati, p. 964n. 
+Madhusūdana Sarasvatī, p. 755.
 
-Lama Taranath, p. 214. Kunika, pp. 61, 273, 302. 
+Madhyama-Aṅgiras, p. 509.
 
-Lane-Poole, Mr., p. 868n. Kūrmapurāṇa, p. 534n.; extent of, Lankāvatārasūtra, p. 443. 
+Madraka, pp. 218, 251, 252.
 
-p. 415. 
+Madya, 10 kinds of, p. 449; drinking of, not blamable in case of kṣatriyas and vaiśyas, p. 449; Pulastya gives 11 kinds of, p. 829n.; all kinds of, are not surā, p. 829n.
 
-Latyāyanaśrauta, pp. 22, 770. Kushans, gold coins of, p. 447; chrono. 
+Magadha, pp. 219, 875; brāhmaṇas from, not honoured at śrāddha acc. to Atri, p. 262.
 
-Laugākși, pp. 528–529. logy of, p. 447. 
+Māgadha, a mixed caste, pp. 142, 246, 267.
 
-Laugākṣi-grhya, same as Kāṭhaka Kūṭa, verses in the Mahābhārata, gshya, p. 122n.; Devapālabhāsya 
+Mahābhārata, pp. 46, 210, 263, 264, 308, 349–385; authors of Daṇḍanīti named by, p. 210; names Bṛhaspati, p. 287; [[namcs|names]] Bhāradvāja, p. 291; distinguishes between Svāyambhuva Manu and Prācetasa Manu, p. 311; itself a great work on Dharmaśāstra, Arthaśāstra etc., p. 349; relation of, to Manusmṛti, pp. 335–45; dharmaśāstra topics in, p. 353; had become popular long before 7th cent. A. D., p. 355; claims to be Itihāsa, p. 356; story of, older than that of Rāmāyaṇa, p. 361; literature known to, p. 363; several hundred verses are common to Manusmṛti and, p. 376; and Java, its Javanese version Brata Yuda, pp. 377, 399; commentaries on, pp. 378–79; predominantly a Vaiṣṇavite work, p. 384; relation of, to Nārada, pp. 472–73, 483.
 
-p. 350n. 
+Mahābhāṣya, pp. 13n., 75, 77, 210n., 247, 330, 359, 360, 365, 391, 403, 409, 422, 903n.; passages from, similar to Dharmasūtras, p. [[141.;|14n.;]] date of, generally accepted to be 150 B. [[G.,|C.,]] pp. 75, 366; contains the seeds of all *nyāyas*, p. 76.
 
-on, p. 122n. Kutala, a gotra, p. 196. 
+Mahābhāṣyapradīpoddyota, of Nāgoji, p. 964.
 
-Law, B, C., pp. 1671., 216. Kutsa, pp. 61, 273. 
+Mahādānanirṇaya, of Vācaspati, pp. 849, 893n.
 
-Law, N. N., p. 215. 
+Mahādeva, commentary of, on Hiraṇyakeśin, pp. 91, 93–94; relation of, to Haradatta, pp. 93–94.
 
-Lawyers, professional, whether existed Lachimādevi, queen of Candrasimha, 
+Mahādeva, Yādava king of Devagiri, pp. 752, 753.
 
-in the time of the Mānava Code, p. 843. 
+Mahādevī, p. 970.
 
-pp. 340-41. Laghu-Atri, p. 263. 
+Mahāgaṇapatistotra, of Bhoganātha, p. 785n.
 
-Levy, Prof. Sylvain, p. 398. Laghubhāṣaṇakānti, com, on Vaiyā. Licchivikas, p. 218; a sangha, pp. 251, 
+[[Mahakapilapancarātra,|Mahākapilapañcarātra,]] p. 826n.
 
-karapabhūṣaṇasāra, p. 971. 
+Mahāpātakas, pp. 529, [[7971.,|797n.,]] 828, 829n.
 
-252, 253. Laghu-Hārita, pp. 134, 135; quoted by Likhanāvali, p. 810n. 
+Mahārṇava, ascribed to [[Māodhātā,|Māndhātā,]] pp. [[197-195.|794–795.]]
 
-Aparārka, p. 717. 
+Mahārṇava, pp. 67, 91, 655, 737.
 
-Likhita, mentioned by Kātyayana, Laghu-Nārada, p. 483. 
+[[P1268]]
 
-p. 216; story of, and his brother Laghu-Saṅkha, p. 138. 
+Mahārṇavaprakāśa, same as Mahārṇava, p. 654.
 
-Saṅkha in Mahābhārata, pp. 136 Laghu-Viṣṇu, pp. 126, 127; quoted by 
+[[Mahāgāntapana,|Mahāsāntapana,]] penance, p. 125.
 
-37. Aparārka, p. 717. 
+Mahāvaṁśa, pp. 172, 215, 374n.
 
-Likhitasmști, pp. 138-39. Laghu-Vyāsa, p. 534. 
+Mahā-Vyāsa, p. 534.
 
-| Lilāvati, work on mathematics, p. Laghu-Yama, pp. 527, 717. 
+[[Mahesyara,|Maheśvara,]] pp. 705, 706, 710n., 711.
 
-970. Laharpur, birth-place of sodara- Lingapurāṇa, pp. 933, 950; speaks of 
+Maidens, brotherless, found marriage difficult in Vedic times, p. 7.
 
-malla, p. 908. 
+Mailugi-Karmavipāka, p. 862n.
 
-20 expounders of dharma, p. 416 
+Maireya, a kind of wine, pp. 213–14.
 
-va 
+Maintenance, four ways of, for a brāhmaṇa, pp. 255–56.
 
-General Index 
+Maitrāyaṇīyasaṁhitā, pp. 7, 95.
 
-1267 
+Maitrāyaṇī Upaniṣad, p. 351n.; regards Yoga as [[galanga,|ṣaḍaṅga,]] p. 316n.
 
-Liquors, twelve kinds of, p. 516. named by, p. 210; names Bphas Lokaprakāśa, of Kṣemendra, p. 480. 
+[[Majumadar,|Majumdar,]] Dr. R. C., pp. 346, 631, 688n., 689, 771.
 
-pati, p. 287; namcs Bhāradvāja, Lokāyata, school of, known to Kau 
+[[Makkhai|Makkhali]] Gosāla, p. 219.
 
-p. 291; distinguishes between 
+Malalasekhara, Dr., p. 215.
 
-Svāyambhuva Manu and Prācetasa tilya, pp. 210, 225; expounded by 1 Pancasikha to Janaka, p. 226. 
+Mallaka, pp. 218, 251, 252.
 
-Manu, p. 311; itself a great work 
+Man, master in his own house, p. 474.
 
-on Dharmaśāstra, Arthaśāstra etc., Lollata, p. 917n.; quotes Medhātitbi, 
+[[Mānasollāsa-výttanta-vilāsa,|Mānasollāsa-vṛttānta-vilāsa,]] of Rāmatīrtha, p. 562.
 
-p. 349; relation of, to Manusmrti, p. 582; relied on by Sridhara, 
+[[Mānavadharmastitra,|Mānavadharmasūtra,]] pp. 101–103, 143–149, 310, 317; and Vasiṣṭha, pp. 101–103; closely connected with Manusmṛti, p. 335.
 
-pp. 335-45; dharmaśāstra topics p. 725. 
+[[Māpavagṛhya,|Mānavagṛhya,]] pp. 12n., 17, 133, 146, 310; doctrines of, opposed to Manusmṛti, p. 310; borrowed [[Yāj-smrti|Yāj-smṛti]] on Vināyaka, pp. 53, 439–40.
 
-in, p. 353; had become popular 
+Mānavam, meaning of, p. 101.
 
-long before 7th cent. A. D., p. 355; Macnaghten, Sir Williams, p. 921. claims to be Itihāsa, p. 356; story Madana, son of Sahāraṇa, p. 574. of, older than that of Rāmāyana, Madanapāla, pp. 792–804. 
+Mānavas, meaning of, pp. 144–45; views of, about vidyās, pp. 144, 205; and Kauṭilya, pp. 205, 206; and Kātyāyana, pp. 499–500.
 
-p. 361; literature known to, p. Madanapārijāta, pp. 132n., 139, 305, 
+Mānava School, subdivision of Maitrāyaṇīyas, p. 148; not found in Viśvarūpa's day, p. 149.
 
-363; several hundred verscs arc 505, 655, 656, 792-804. 
+Mānavaśrauta-sūtra, pp. 20, 145.
 
-common to Manusmrti and, p. 
+Maṇḍala, constitution of, p. 871.
 
-376; and Java, its Javanese version Madanaratna, pp. 804-809. 
+Maṇḍanamiśra, pp. 564, 794n.
 
-Brata Yuda, pp. 377, 399; com. Madanaratnapradipa (or Madana- mentaries on, pp. 378–79; predo 
+[[Madanapāla,|Mandapāla,]] and Sāraṅgī, p. 336.
 
-pradipa ), pp. 804-809. 
+Mālākāra, p. 348.
 
-minantly a Vaiṣṇavite work, p. Madanavinodanighantu, p. 801. 
+Māṇḍavya, story of, p. 485.
 
-384; relation of, to Nārada, pp. Madhavācārya, pp. 65, 305, 334, 
+Māndhātā, son of Madanapāla, p. [[794,|794.]]
 
-472-73, 483. 379, 448, 460, 562, 778–792; iden 
+Mandlik, Rao Saheb V. N., pp. 306, 335, 573, 656, 906, 923, 924.
 
-Mahābhāṣya, pp. 13n., 75, 77, 210n., tical with Vidyaranya, p. 808; 
+Mañjarī, com. on Dattakamīmāṁsā, p. [[821.|921.]]
 
-247, 330, 359, 360, 365, 391, 403, personal history of, pp. 775-790; 
+[[Mañjarikāsa,|Mañjarīkāra,]] p. 662.
 
-409, 422, 903n.; passages from, distinct from Mādhavamantrin, 
+Maṅkha, p. 722.
 
-similar to Dharmasutras, p. 141.; connected with Goa, p. 791, 
+Manoramākucamardana, p. 967.
 
-date of, generally accepted to be Madhavamantrin, p. 791. 
+Mantrabhāgavata, of Moropanta, p. 978.
 
-150 B. G., pp. 75, 366; contains Mūdhavānanda, p. 924. 
+Mantrapāṭha (Āpastambīya), pp. 17, 53, 54, 81, 83.
 
-the seeds of all nyayas, p. 76. Madhavasvamin, p. 770n. 
+Mantraprakāśa, p. 849n.
 
-Mahābhāṣyapradipoddyota, of Na. Madhavayajvan, commentator of goji, p. 964. 
+Manu, as the founder of the institution of śrāddha, pp. 63, 317; and hence Śrāddhadeva, p. 317; Vedic references to, pp. 306–307; divided his wealth among his sons, p. 308; and the deluge, p. 308; Svāyambhuva, promulgated dharmas, p. 308; and [[Nāradasmfti,|Nāradasmṛti,]] pp. 308–309; Svāyambhuva and Prācetasa distinguished, p. 311; Purāṇas differ as to the number of, pp. 317–18.
 
-Kauṭiliya, p. 247. 
+Manudeva, author of Laghubhūṣaṇakānti, p. 971.
 
-Mahādānanirṇaya, of Vācaspati, pp. Madhaviya Dhātuvrti, pp. 746, 789. 849, 893n. Madhuśarman, p. 70n. 
+Manusmṛti, pp. 1, 4, 306–349; gives definition of Dharma, p. 5; whether a recast of [[Mānavadharmasātra,|Mānavadharmasūtra,]] pp. 143, 316–17; on vidyās, pp. 205–206; on number of king's councillors, p. 206; four versions of, according to Bhaviṣyapurāṇa, p. 309; agreement of, with Kauṭilīya, p. 312; and introduction to Nārada, pp. 308–309; and Bṛhaspati, pp. 328–30; contents of, pp. 312–15; extent of literature known to, pp. 315–16; whether contains earlier and later strata, pp. 331–32; its special relation to Tantravārtika, pp. 327, 332–33; abridged several times, according to Nārada, p. 333; whether underwent several recasts, p. 333; opposed to several [[P1269]] views of Mānavagṛhya, p. 310, and Rāmāyaṇa, p. 330; and Viśvarūpa, p. 327; and Yājñavalkya, p. 334; relation of, to Vṛddha-Manu, p. 333; whether the first smṛti, p. 316; age of, pp. 327ff.; relation of, to Mahābhārata, pp. 335ff.; commentators of, pp. 346–48; relation of, to Parāśara, pp. 462–63; relation of, to Nārada, pp. 471–73.
 
-Mahādeva, commentary of, on Hira Madhusūdana Sarasvati, p. 755. 
+Manvarthamuktāvali, by [[Kullaka,|Kullūka,]] p. 756.
 
-nyakesin, pp. 91, 93-94; relation Madhyama-Angiras, p. 509. 
+Marīci, Smṛti of, pp. 521–522.
 
-of, to Haradatta, pp. 93-94. Madraka, pp. 218, 251, 252. 
+Mārkaṇḍeya, p. 309.
 
-Mahādeva, Yadava king of Devagiri, Madya, 10 kinds of, p. 449; drinking / pp. 752, 753. 
+[[Mārkan leyapurāṇa,|Mārkaṇḍeyapurāṇa,]] pp. 356, 414.
 
-of, not blamable in case of ksat 
+Marriage, Brāhma form of, pp. 7, 125; Āsura form of, pp. 7, 125; Gāndharva form of, p. 8; forms of, generally eight, pp. 50, 125, 142, 331; forms of, only six, according to Āpastamba, and [[Visistha,|Vasiṣṭha,]] pp. 50, 105; forms of, two acc. to Kāṭhaka, p. 125; intercaste, pp. 105, 142; prohibited degrees in, p. 284; with maternal uncle's or paternal aunt's daughter condemned, pp. 297, 543, 745; and allowed, pp. 661, 866; guardians for, p. 424; auspicious nakṣatras for, pp. 445–46; proper age for, in case of girls, pp. 525n., 543; may be performed at all times according to Śrīdhara, p. 914; Brāhma form of, as distinguished from Prājāpatya, p. 745; of person of one Vedic śākhā, with a girl belonging to another Vedic śākhā, p. 751.
 
-Mahādevi, p. 970. riyas and vaiśyas, p. 449; Pulastya gives 11 kinds of, p. 829n.; all kinds Mahāganapatistotra, of Bhoganātha, of, are not surā, p. 829n. 
+Mārtaṇḍapādamūla, in Kashmir, p. 722.
 
-p. 785n. 
+Maskarin, pp. 36, 37, 273, 275, 279, 294.
 
-Magadha, pp. 219, 875; brāhmaṇas Mahakapilapancarātra, p. 826n. 
+[[Mathapratisthā,|Maṭhapratiṣṭhā,]] p. 899.
 
-from, not honoured at śrāddha acc. 
+Mātrā, duration of, p. 456n.
 
-Mahāpātakas, pp. 529, 7971., 828, to Atri, p. 262. 
+[[Mātsdatta,|Mātṛdatta,]] commentator of Hiraṇyakeśi-gṛhya, pp. 17, 91.
 
-829n. Māgadha, a mixed caste, pp. 142, 
+[[Mātsyanyaya,|Mātsyanyāya,]] p. 230.
 
-246, 267. 
+Matsyapurāṇa, pp. 4, 175, 409, 413, 414, 415, 416, 434, 594, 728, 739n., 829n.; verses in, on daṇḍa, p. 151; devotes several chapters to Rājadharma, p. 164; account of Candragupta in, defective, p. 171; states qualities of Dharmādhikārin, p. 629.
 
-Mahārṇava, ascribed to Māodhātā, 
+Maudgalya, named by Baudhāyana, pp. 13, 45, 302.
 
-PP. 197-195. Mahābhārata, pp. 46, 210, 263. 264. 1 
+Maurya, pp. 189, 190, 194, 247.
 
-308, 349-385; authors of Dandaniti / Mahārnava, pp. 67, 91, 655, 737. 
+Max Müller, p. 422; holds [[Manusmști|Manusmṛti]] a recast of ancient dharmasūtra, p. 310; criticized, pp. 15, 143.
 
-1268 
+May, Reginald le, p. 398.
 
+Mayūracitra, pp. 732n., 911.
 
+Māyaṇa, the father of Mādhavācārya, p. 785.
 
-p. 794, 
+Medhātithi, pp. 47, 64, 66, 97, 195, 266, 309, 424, 469, 548, 573–583; 770n.; gives fivefold division of dharma, p. 4; quotes Gautama [[morc|more]] frequently than any other smṛtikāra, p. 34; [[Nāradasmpti|Nāradasmṛti]] and, p. 309; quotes Yāj. on writers of Dharmaśāstra, p. 424n.; summarises first section of Nārada, p. 469; quotes the views of Asahāya, p. 549; bhāṣya of, and Madana, p. 574; a southerner according to Jolly, p. 574; expert in Pūrvamīmāṁsā, p. 577; mentions several nyāyas for explaining the Manusmṛti, p. 578; and the text of the Manusmṛti, p. 579; and his [[Smptiviveka,|Smṛtiviveka,]] p. 582; date of, p. 583; and Govindarāja, pp. 661–62.
 
-Mahārgavaprakāśa, same as Mahār- | Māndavya, story of, p. 485. 
+Megasthenes, pp. 194, 218, 220.
 
-paya, p. 654. 
+Mekala, p. 219.
 
-Māndhātā, son of Madanapāla, Mahāgāntapana, penance, p. 125. Mahāvamsa, pp. 172, 215, 374n. 
+Meyer, J. J., his German translation of Kauṭilya's Arthaśāstra, pp. 156, 158.
 
-Mandlik, Rao Saheb V. N., pp. 306, Maha-Vyāsa, p. 534. 
+Mīmāṁsābālaprakāśa, of Śaṅkarabhaṭṭa, p. 938.
 
-335, 573, 656, 906, 923, 924. Mahesyara, pp. 705, 706, 710n., 711. Mañjari, com. on Dattakamimāmsā, Maidens, brotherless, found marriage p. 821. 
+[[Mimārisānyāyaprakāśa,|Mīmāṁsānyāyaprakāśa,]] p. 960.
 
-difficult in Vedic times, p. 7. 
+Minor, wealth of, should not be appropriated by king, p. 285.
 
-Mañjarikāsa, p. 662. Mailugi-Karmavipaka, p. 862n. 
+[[P1270]] Minority, period of, upto sixteenth year, p. 475.
 
-Mankha, p. 722. Maireya, a kind of wine, pp. 213-14. 
+Misarumiśra, pp. 596, 640, 651, 776, 842–844.
 
-Manorama kucamardana, p. 967. Maintenance, four ways of, for a 
+Mishra, Dr. Jayakant, p. 771.
 
-Mantrabhāgavata, of Moropanta, brāhmana, pp. 255–56. 
+Mishra, Dr. Umesh, p. 627.
 
-p. 978. Maitrāyaniyasamhitā, pp. 7, 95. 
+Mitākṣarā, pp. 43, 47, 66, 89, 111, 112, 274, 276, 277, 278; and Viśvarūpa, pp. 423–24, 560–61; and Bhāruci, p. 568; place of, in Dharmaśāstra, p. 599; and Smṛticandrikā, pp. 607, 740; and Jīmūtavāhana, p. 708; and Aparārka, pp. 719–21; commentaries on, pp. 613, 968; and Nandapaṇḍita, pp. 919–20; and Vyavahāramayūkha, p. 940; and Vīramitrodaya, p. 943.
 
-| Mantrapātha (Āpastambiya), pp. Maitrāyani Upaniṣad, p. 351n.; L 17, 53, 54, 81, 83. 
+Mitākṣarā, commentary on Gautama-dharmasūtra, p. 742.
 
-regards Yoga as galanga, p. 316n. 
+Mithilā, valuable contribution of, to dharmaśāstra, p. 759; Karṇāṭa dynasty of, p. 771; Pañji historian of, p. 771; Kāmeśvara dynasty of, p. 852n.
 
-Mantraprakāśa, p. 849n. Majumadar, Dr. R. C., pp. 346, 
+Mitra, Dr. Rajendralal, pp. 631, 811, 869n.
 
-Manu, as the founder of the institu 631, 6881., 689, 771. 
+Mitra, Khagendranath, pp. 771, 811.
 
-tion of srāddha, pp. 63, 317; and Makkhai Gosāla, p. 219. 
+Mitramiśra, pp. 457, 536, 941–953.
 
-hence Srāddhadeva, p. 317; Vedic Malalasekhara, Dr., p. 215. 
+Mixed castes, pp. 73, 267; means of livelihood for, should be sought for in the works of Uśanas and Manu, p. 270; home of, p. 48; avocations of, p. 141.
 
-references to, pp. 306-307; divided Mallaka, pp. 218, 251, 252. 
+Mixed marriages, offspring of, pp. 142, 267.
 
-his wealth among his sons, p. 308; Man, master in his own house, p. and the deluge, p. 308; Svāyam 
+Mlecchas, language of, not to be learnt according to Vasiṣṭha, p. 100; and according to Bhāradvāja, p. 290; speech prohibited with, p. 121; sale of children among, p. 219; mean pulindas and tājikas, p. 557; countries of, not fit for performing sacrifices, p. 659.
 
-474. 
+Mokṣa, p. 224n.; results from combination of jñāna and karma according to Bṛ-Yogi-Yāj., p. 455; from correct knowledge alone, pp. 557, 717; use of music in the path of, p. 433; views of Lakṣmīdhara about, in Mokṣakāṇḍa, p. 675–77.
 
-bhuva, promulgated dharmas, p. Mānasollāsa-výttanta-vilāsa, of Rāma 
+Monasteries of Brāhmaṇas, p. 447.
 
-308; and Nāradasmfti, pp. 308–309; tirtha, p. 562. 
+Monopolies, of kings, p. 575.
 
-Svāyambhuva and Prācetasa dis 
+Moropant, Marathi poet, p. 977.
 
-tinguished, p. 311; Purāṇas differ Mānavadharmastitra, pp. 101-103, 
+Mortgage, by conditional sale, p. 299; necessity of writing for, p. 522.
 
-as to the number of, pp. 317-18. 143-149, 310, 317; and Vasiṣtha, pp. 101-103; closely connected Manudeva, author of Laghubhūṣana with Manusmrti, p. 335. 
+Mother, as heir, whether preferred to father, pp. 740, 919, 929, 945.
 
-krānti, p. 971. Māpavagṛhya, pp. 12n., 17, 133, 146, Manusmrti, pp. 1, 4, 306–349; gives 
+Mourning, on [[dealth|death]] of unmarried daughter, p. 592.
 
-310; doctrines of, opposed to Manu. definition of Dharma, p. 5; whether smṛti, p. 310; borrowed Yāj-smrti 
+Mṛcchakaṭika, pp. 193, 302, 477; refers to Manusmṛti, p. 328; mentions nāṇaka, p. 474.
 
-a recast of Mānavadharmasātra, on Vināyaka, pp. 53, 439–40. 
+Mṛtasañjīvanī, p. 624.
 
-pp. 143, 316-17; on vidyās, pp. Mānavam, meaning of, p. 101. 
+Mudrārākṣasa, pp. 166, 179, 186, 193, 267, 873.
 
-205-206; on number of king's Mānavas, meaning of, pp. 144-45; } 
+Mugdhabodha, grammar, p. 754.
 
-councillors, p. 206; four versions views of, about vidyās, pp. 144, 
+Muhūrtas, fifteen of the day, p. 594.
 
-of, according to Bhaviṣyapurāṇa, 205; and Kautilya, pp. 205, 206; 
+Muhūrtavidhānasāra, p. 780.
 
-p. 309; agreement of, with Kauti and Katyāyana, pp. 499–500. 
+Mukerjee, Dr. K. R., p. 180.
 
-liya, p. 312; and introduction to 
+Mukerji, Sir Asutosh, pp. 699, 703, 758.
 
-Nārada, pp. 308-309; and Bphas Mānava School, subdivision of Mai 
+Muktāphala, a work of Vopadeva, p. 754.
 
-pati, pp. 328–30; contents of, pp. trāyaṇiyas, p. 148; not found in 
+Mūla-Rāmāyaṇa, pp. 406–407.
 
-312-15; extent of literature known Viśvarūpa's day, p. 149. 
+Mūlasthāna, (modern Multan), p. 806.
 
-to, pp. 315-16; whether contains Mānavasrauta-sūtra, pp. 20, 145. earlier and later strata, pp. 331 Mandala, constitution of, p. 871. 32; its special relation to Tantra 
+Muṇḍakopaniṣad, pp. 41, 744.
 
-vārtika, pp. 327, 332-33; abridged Mandapamiśra, pp. 564, 794n. 
+Muñja, pp. 590, 624; also called Vākpatirāja, pp. 590, 624.
 
-several times, according to Nārada, Madanapāla, and Sarangi, p. 336. 
+Murārirāja, p. 770n.
 
-p. 333; whether underwent several Mālākāra, p. 348, 
+Nābhānediṣṭha, pp. 307, 308.
 
-recasts, p. 333; opposed to several 
+Naciketas, and his father styled Gautama, p. 23.
 
-General Index 
+Nāgamalla, father of Pṛthvīdhara, p. 881.
 
-1269 
+Nāgānanda, pp. 715, 722.
 
-views of Mānavagphya, p. 310, and Rāmāyana, p. 330; and Viśva rūpa, p. 327; and Yajñavalkya, p. 334; relation of, to Vrddha. Manu, p. 333; whether the first smrti, p. 316; age of, pp. 327ff.; relation of, to Mahābhārata, pp. 335ff.; commentators of, pp. 346-48; relation of, to Parāśara, pp. 462-63; relation of, to Nārada, 
+Nāgojibhaṭṭa, pp. 406, 963–967.
 
-pp. 471-73, Manvarthamuktāvali, by Kullaka, 
+[[Nahusa|Nahuṣa,]] p. 336.
 
-p. 756. Marici, Smsti of, pp. 521-522. Mārkandeya, p. 309. Mārkan leyapurāṇa, pp. 356, 414. Marriage, Brāhma form of, pp. 7, 
+Naiṣkarmyasiddhi, p. 562.
 
-125; Āsura form of, pp. 7, 125; Gāndharva form of, p. 8; forms of, generally eight, pp. 50, 125, 142, 331; forms of, only six, accord. ing to Āpastamba, and Visistha, pp. 50, 105; forms of, two acc. to Kāṭhaka, p. 125; intercaste, pp. 105, 142; prohibited degrees in, p. 284; with maternal uncle's or paternal aunt's daughter condemn. ed, pp. 297, 543, 745; and allowed, pp. 661, 866; guardians for, p. 424; auspicious nakṣatras for, pp. 445–46; proper age for, in case of girls, pp. 5251., 543; may be performed at all times according to Sridhara, p. 914; Brāhma form of, as distinguished from Prājāpatya, p. 745; of person of one Vedic śākhā, with a girl belonging to 
+[[P1271]] Nāka Maudgalya, p. 41; sage, occurs in Bṛ. Up., p. 41n.
 
-another Vedic śākhā, p. 751. Mārtanda pādamūla, in Kashmir, p. 
+Nakṣatras, arranged from Kṛttikā in Yāj., p. 445; divided into auspicious and inauspicious from days of Tai. Br., p. 445; auspicious, for marriages, pp. 445–46; consulting of, p. 211; śāntis for birth on evil, p. 805.
 
-p. 722. Maskarin, pp. 36, 37, 273, 275, 279, 
+Nakulīśa-pāśupatadarśana, p. 748.
 
-294. Mathapratisthā, p. 899. Mātrā, duration of, p. 456n. Mātsdatta, commentator of Hiranya. 
+Nala, pp. 245, 384.
 
-kesi-gļhya, pp. 17,91. Mātsyanyaya, p. 230. 
+Nāmaratnamālā, p. 557.
 
-Matsyapurāṇa, pp. 4, 175, 409, 413, 
+Nāṇakas, mentioned by Yāj., p. [[4-16|446]]; the word quite conjectural, p. 447; mentioned by Mṛcchakaṭika, p. 474; mentioned by Bṛhaspati, p. 487; punishment for counterfeiting, p. 446.
 
-414, 415, 416, 434, 594, 728, 739n., 829n.; verses in, on danda, p. 151; devotes several chapters to Rāja dharma, p. 164; account of Candra. gupta in, defective, p. 171; states qualities of Dharmādhikārin, p. 629. 
+Nandana, commentator of Manu, pp. 346, 348.
 
-Maudgalya, named by Baudhāyana, 
+Nandapaṇḍita, pp. 466, 568, 613, 915–925; author of Vaijayantī, pp. 127, 545, [[610|640]]; author of Dattakamīmāṁsā, pp. 91, 466; author of com. on Ṣaḍaśīti, p. 724; authority of, superior to Bālambhaṭṭa in Benares school, p. 970.
 
-pp. 13, 45, 302. Maurya, pp. 189, 190, 194, 247. Max Mūller, p. 422; holds Manusmști 
+Nānārthārṇavasaṅkṣepa, a lexicon, p. 25n.
 
-a recast of ancient dharmasutra, 
+Nārada, on politics, p. 475; his role in purāṇas, p. 482.
 
-p. 310; criticized, pp. 15, 143. May, Reginald le, p. 398. Mayūracitra, pp. 732n., 911. Māyana, the father of Madhavācārya, 
+Nārada, pp. 126, 159, 309, 467–483; abridged work of Manu, pp. 309, 333; commentary of Asahāya on, p. 467; contents of, p. 468; authenticity of the text of, p. 469; and Agnipurāṇa, p. 470; quotations from, on ācāra and śrāddha, p. 470; smṛti of, based on Manu, p. 333; disquisition of, on impotency, p. 447; two versions of smṛti, p. 467; and Manu, 468, 471–73; and Kauṭilya, p. 473; and Mahābhārata, pp. 472–73; relation of, to Bāṇa, p. 475; peculiar views of, p. 473; probably later than Yāj., p. 474; date of, pp. 476–77; home of, p. 482; relation of, to Bṛhaspati, pp. 486–87.
 
-P. 785. Medhātithi, pp. 47, 64, 66, 97, 195, 
+Nāradīyapurāṇa, pp. [[175|475]], 731.
 
-266, 309, 424, 469, 548, 573-583; 770n.; gives fivefold division of dharma, p. 4; quotes Gautama morc frequently than any other smrtikāra, p. 34; Nāradasmpti and, P. 309; quotes Yāj. on writers of Dharmaśāstra, p. 424n.; summarises first section of Nārada, p. 469; quotes the views of Asahāya, p. 549; bhāsya of, and Madana, p. 574; a southerner according to Jolly, p. 574; expert in Pūrvamimāmsā, P. 577; mentions several nyāyas for explaining the Manusmṛti, p. 578; and the text of the Manusmrti, p. 579; and his Smptiviveka, p. 582; date of, p. 583; and Govinda. 
+Narapativijaya, a work on astrology, p. 379.
 
-rāja, pp. 661-62. Megasthenes, pp. 194, 218, 220. Mekala, p. 219. Meyer, J. J., his German translation 
+Nārāśaṁsī gāthās, pp. 409, 433.
 
-of Kautilya's Arthaśāstra, pp. 156, 
+Nārāyaṇa, author of Prayogaratna, pp. 745, 903–907.
 
-158. Mimāṁsābālaprakāśa, of Sarkara. 
+Nārāyaṇa, of the Naidhruvagotra, commented on Āśvalāyanagṛhya; p. 591; Gārgya, commented on Āśvalāyanaśrauta, pp. 591, 593.
 
-bhatta, p. 938. Mimārisānyāyaprakāśa, p. 960. Minor, wealth of, should not be 
+Nārāyaṇa, commentator of Manusmṛti, p. 346; cited by Bhaṭṭoji, p. 347; profusely quoted in Daṇḍaviveka, p. 857n.
 
-appropriated by king, p. 285. 
+Nārāyaṇa, worship of, pp. 470, 568.
 
-1270 
+Nārāyaṇa, author of Vyavahāraśiromaṇi, p. 615; differences of, from Vijñāneśvara, p. 616.
 
-History of Dharmaśāstia 
+Nārāyaṇa, ancestor of Halāyudha and of the Tagore family, p. 633; one of the five brāhmaṇas brought by Ādiśūra, p. 707.
 
-Minority, period of, upto sixteenth correct knowledge alone, pp. 557, 
+Nārāyaṇavṛtti, p. 761.
 
-year, p. 475. 
+Narasimhachar, Rao Bahadur R., pp. 787, 788.
 
-717; use of music in the path of, Misarumiśra, pp. 596, 640, 651, 776, į 
+Nasratshah, a Pathan king of Bengal, killed Bhairava, p. 853.
 
-P. 433; views of Lakṣmidhara 842–844. 
+Naṭasūtras, by Śilālin, and Kṛśāśva, p. 80.
 
-about, in Moksakānda, p. 675-77. Mishra, Dr. Jayakant, p. 771. 
+Nāthamuni, grand-father of Yāmunamuni, p. 567.
 
-Monasteries of Brāhmaṇas, p. 447, Mishra, Dr. Umesh, p. 627. 
+Navadvīpa, p. 893.
 
-Monopolies, of kings, p. 575. Mitākṣarā, pp. 43, 47, 66, 89, 111, Moropant, Marathi poet, p. 977. 
+Navakaṇḍikā, of Kātyāyana, p. 639.
 
-112, 274, 276, 277, 278; and Mortgage, by conditional sale, p. Viśvarūpa, pp. 423–24, 560-61; L 299; necessity of writing for, and Bhāruci, p. 568; place of, p. 522. in Dharmaśāstra, p. 599; and 
+Navarātrapradīpa, of Nandapaṇḍita, p. 924.
 
-Mother, as heir, whether preferred Smsticandrikā, pp. 607, 740; 
+Navasāhasāṅka, p. 590.
 
-to father, pp. 740, 919, 929, 945. and Jimõtavāhana, p. 708; and Aparārka, pp. 719-21; com 
+Navya-Vardhamānopādhyāya, p. 893n.
 
-Mourning, on dealth of unmarried mentaries on, pp. 613, 968; and 
+Nayacandrikā, p. 218.
 
-daughter, p. 592. Nandapandita, pp. 919-20; and Mṣcchakatika, pp. 193, 302, 477; Vyavahāramayūkha, p. 940; and refers to Manusmrti, p. 328; men. Viramitrodaya, p. 943. 
+Nayaviveka, p. 944n.
 
-tions nāṇaka, p. 474. Mitākṣarā, commentary on Gautama- Mptasañjivani, p. 624. 
+Nepal, pp. 770, 771; blankets from, pp. 211, 736; name of, does not occur in Mahābhārata, p. 217.
 
-dharmasūtra, p. 742. 
+Neugebauer, Prof., p. 221.
 
-Mudrārākṣasa, pp. 166, 179, 186, Mithila, valuable contribution of, to 
+Nibandhas, pp. 545–546.
 
-193, 267, 873. dharmaśāstra, p. 759; Karnāṭa Mugdhabodha, grammar, p. 754. dynasty of, p. 771; Pañji historian 
+Nibandhanakāra, mentioned by Sarasvatīvilāsa, is probably Asahāya, pp. 548, 875n.
 
-Muhūrtas, fifteen of the day, p. 594. of, p. 771: Kāmeśvara dynasty of, 
+[[P1272]] Nidāna, a kind of work, p. 45; of Bhallāvins, pp. 98, 100.
 
-Muhurtavidhānasāra, p. 780. p. 852n. Mitra, Dr. Rajendralal, pp. 631, 
+Nighaṇṭu, p. 592.
 
-Mukerjee, Dr. K. R., p. 180. 
+Nigūḍhārthadīpikā, com. on Prāyaścittaviveka, p. 838.
 
-811, 869n. 
+Nijāmasāha, king of Deccan, p. 861; Dalapati was the chief minister of, p. 862.
 
-Mukerji, Sir Asutosh, pp. 699, 703, 
+Nīlakaṇṭhabhaṭṭa, pp. 937–941.
 
-758. Mitra, Khagendranath, pp. 771, 811. 
+Nīlakaṇṭha Caturdhara, commentator of Mahābhārata, pp. 226n., 378, 413n.
 
-Muktāphala, a work of Vopadeva, Mitramiśra, pp. 457, 536, 941–953. 
+Nīlakaṇṭha Śukla, pupil of Bhaṭṭoji, p. 965.
 
-p. 754. Mixed castes, pp. 73, 267; means of 
+Nīlāmbara, Kātyāyanabhāṣyakṛt, p. 893n.; from [[Kāmarupa|Kāmarūpa]], pp. 981–82.
 
-Mūla-Rāmāyaṇa, pp. 406–407. livelihood for, should be sought for in the works of Usanas and 
+Nimantraṇa, meaning of, p. 654n.
 
-Mūlasthāna, (modern Multan), p. 806. Manu, p. 270; home of, p. 48; Muğdakopaniṣad, pp. 41, 744. avocations of, p. 141, 
+Nimi, p. 336.
 
-Muñja, pp. 590, 624; also called Mixed marriages, offspring of, pp. 
+Niravadyavidyoddyota, an author mentioned in Dāyabhāga, pp. 705–707.
 
-Vākpatirāja, pp. 590, 624. 142, 267. 
+Nirgranthas, p. 219; outside the pale of Vedic orthodoxy, p. 577.
 
-Murārirāja, p. 770n. 
+Nirṇayāmṛta, pp. 587, 750n., 893n.
 
-Mlecchas, language of, not to be learnt according to Vasistha, p. 
+Nirṇayasindhu, pp. [[183|483]], 505, 639; quotes Laghu-Nārada, p. 483; and Bṛhaspati, p. 489; quotes verses of Viśvarūpa, p. 565; quotes views of Śrīdharīya, p. 726.
 
-Nābhānediṣtha, pp. 307, 308. 100; and according to Bhāradvāja, 
+Nirukta, pp. 7, 8n., 17n., 33, 78n., 115; mentions Nidāna, p. 45; an aṅga of Veda, p. 61; passages in Āpastamba agree with, p. 61; discussion about the rights of sons and daughters in, p. 308; gives an etymology of Parāśara, p. 461; speaks about itself as Vidyāsthāna, p. 409n; condemned mere memorizing of the Veda without understanding the meaning, p. 534.
 
-Naciketas, and his father styled p. 290; speech prohibited with, Gautama, p. 23. p. 121; sale of children among, p. Nāgamalla, father of Pythvidhara, 219; mean pulindas and tājikas, 
+Niṣāda, mention of, in Vedic works, p. 73; who is, p. 267; a mixed caste, p. 142.
 
-p. 881. p. 557; countries of, not fit for 
+Niṣka, p. 859; value of, pp. 532, 535.
 
-Nāgānanda, pp. 715, 722. performing sacrifices, p. 659. Mokṣa, p. 224n.; results from com 
+Nīticintāmaṇi, of Vācaspati, p. [[8+5|845]].
 
-Nāgojibhajta, pp. 406, 963-967. 
+Nītinirṇiti, of Yogghama, p. 155.
 
-bination of jñāna and karma accord 
+Nītiprakāśikā, of Janamejaya, p. 265.
 
-Nahusa p. 336. ing to Bp. Yogi-Yāj., p. 455; from | Naiskarmyasiddhi, p. 562. 
+Nītisāra, of Kāmandaka, pp. 5, 169.
 
-ÀYGeneral Index 
+Nītiśāstra, of Bhārgava, p. 265; of Bṛhaspati, p. 484.
 
-1271 
+Nītivākyāmṛta, pp. 288, 484; com. on, pp. 288, 484.
 
-p. 379. 
+Nityācārapradīpa, pp. 276, 552.
 
-Nāka Maudgalya, p. 41; sage, occurs | Narapativijaya, a work on astrology, 
+Niyama, p. 553.
 
-in Bp. Up., p. 41n. Nakṣatras, arranged from Kr̥ttikā inį Nārāśamsi gāthās, pp. 409, 433. 
+Niyoga, approved of by sūtrakāras except Āpastamba, pp. 50, 73, 126; allowed by Vasiṣṭha, p. 105; allowed and condemned by Manu, pp. 51, 204, 331, 438; allowed by Kauṭilya, p. 204; allowed only to śūdras by Vṛddha-Manu, p. 333; allowed by Yāj., p. 438; allowed by Nārada, p. 473; not allowed in Kali age, p. 539; view of Viśvarūpa and [[Bṛhaspalti|Bṛhaspati]] on, p. 561; allowed to childless widows by Bhāruci, p. 568.
 
-Yāj., p. 445, divided into auspicious Nārāyaṇa, author of Prayogaratna, and inauspicious from days of Tai. 
+Niyogi, Dr. Rama, author of the ‘History of the Gahaḍwāla dynasty’, p. 688n.
 
-pp. 745, 903–907. [Br., p. 445; auspicious, for marriages, 
+Nivartana, a measure of area, p. 490.
 
-Nārāyana, of the Naidhruvagotra, pp. 445–46; consulting of, p. 211; 
+Non-Aryan tribes mentioned by Atri, p. 261.
 
-commented on Āśvalāyanagshya; sāntis for birth on evil, p. 805. 
+Nṛsiṁha, author of Prayogapārijāta, p. 745.
 
-p. 591; Gārgya, commented on Nakulisa-pāśupatadarśana, p. 748. 
+Nṛsiṁha, [[sun|son]] of Rāmacandrācārya, wrote [[vivarala|vivaraṇa]] on Kālanirṇayadīpikā, pp. 792, 867.
 
-Ásvalāyanaśrauta, pp. 591, 593. Nala, pp. 245, 384. 
+Nṛsiṁhaprasāda, pp. 860–868; divided into sāras, p. 861; contents of, pp. 863–64.
 
-Nārāyaṇa, commentator of Manu Nāmaratnamālā, p. 557. 
+[[Nvāya|Nyāya]], means Mīmāṁsā doctrines, pp. 64, 556.
 
-smpti, p. 346; cited by Bhattoji, Nāṇakas, mentioned by Yāj., p. 4-16; 
+Nyāyabindu, of Dharmakīrti, p. 26.
 
-p. 347; profusely quoted in Danda the word quite conjectural, p. 447; 
+Nyāyamañjarī, p. 750n.
 
-viveka, p. 857n. mentioned by Mșcchakarika, p. 474; | Nārāyana, worship of, pp. 470, 568. mentioned by Brhaspati, p. 487; Nārāyaṇa, author of Vyavahārasiro punishment for counterfeiting, mani, p. 615; differences of, from p. 446. 
+Nyāyaratna, p. [[818n.|848n.]].
 
-Vijñāneśvara, p. 616. Nandana, commentator of Manu, Nārāyaṇa, ancestor of Halāyudha and 
+Nyāyaratnākara, p. 628.
 
-pp. 346, 348. 
+Nyāyasūcinibandha, of Vācaspati, pp. 455, 562, 853.
 
-of the Tagore family, p. 633; one of Nandapandita, pp. 466, 568, 613, 
+Ojha, Mr. K. C., p. 166n.
 
-the five brāhmaṇas brought by 915–925; author of Vaijayanti, 
+Oldenberg, Prof. pp. 54, 354.
 
-Ādisūra, p. 707. pp. 127, 545, 610; author of Narayaṇavṛtti, p. 761. Dattakamimālsā, pp. 91, 466; 
+Omens, pp. 121, 447.
 
-Narasimhachar, Rao Bahadur R., author of com. on Sadasiti, p, 724; 
+Oppert, Dr., p. 272.
 
-pp. 787, 788. authority of, superior to Balam 
+[[P1273]] Orccha, founded by Pratāparudra, p. 946; ruled over by Vīrasiṁha, p. 947.
 
-Nasratshah, a Pathan king of Bengal, bhatta in Benares school, p. 970. 
+Ordeals, pp. 140, 334; not treated of by Manu, pp. 334, 431, 473; five, treated by Yāj., p. 431; nine, according to Bṛhaspati, p. 484; nine, according to Pitāmaha, pp. 515, 538; seven, described by Nārada, p. 473, 538; what appropriate to which wrongs, p. 538; what, in vogue in which countries, pp. 874–75.
 
-killed Bhairava, p. 853, Nānārthārṇavasanksepa, a lexicon, 
+Ownership, whether laukika, pp. 538, 587; whether son has, by birth, p. 538; does not consist in being able to dispose thing at one's sweet will, since it is śāstra, p. 539; sources of, pp. 750–51; none over wife and children, p. [[911|941]]; views of Kamalākara about, p. 933.
 
-p. 25n. 
+Padamañjarī, commentary of Haradatta, on Kāśikā, pp. 746–47.
 
-Naļasūtras, by Silālin, and Kṛśāśva, 
+Padapāṭha, p. [[551|554]].
 
-p. 80. Nārada, on politics, p. 475; his role in 
+Padmagupta, author of Navasāhasāṅkacarita, p. 590.
 
-Nathamuni, grand-father of Yamuna. purāṇas, p. 482. 
+Padma (Rudra) kumāra, father of Haradatta, pp. 747, 748.
 
-muni, p. 567. Nīrada, pp. 126, 159, 309, 467-483; 
+Padmapurāṇa, pp. 103, 126, 404, 412, 415, 715; speaks of 14 Manus, p. 317; Rāma story in, p. [[108|408]]; gives three-fold classification of Purāṇas, p. 416.
 
-Navadvipa, p. 893. abridged work of Mfanu, pp. 309, 
+Padyasaṅgraha, of Maṇirāma, p. 903.
 
-Navakandikā, of Kātyāyana, p. 639. 333; commentary of Asahāya on, p. 167; contents of, p. 468; au 
+Padya-Viṣṇu, often quoted in Parāśara-Mādhavīya, p. 127.
 
-Navarātrapradipa, of Nandapandita, thenticity of the text of, p. 469; and p. 924. Agnipurāṇi, p. 470; quotations from, Navasāhasāṅka, p. 590. on ācāra and śrāddha, p. 470; smsti Navya-Vardhamānopādhyaya, p 893n. of, based on Manu, p. 333; dis 
+Pahlavas, mentioned in Manu, p. 334.
 
-Nayacandrikā, p. 218. quisition of, on impotency, p. 447; 
+Pai, Mr. Govind, p. 179.
 
-Nayaviveka, p. 944n. two versions of sinști, p. 467; and Manu, 468, 471-73; and Kautilya, 
+Paijavana, p. 336.
 
-Nepal, pp. 770, 771; blankets from, 
+Paiṭhīnasi, pp. 284–286, 517–519, 705n.; work of, known only through quotations, p. 14; names 36 smṛtis, pp. 303, 535.
 
-pp. 211, 736; name of, does not p. 473; and Mahābhārata, pp. 472– 
+Pākayajñapaddhati, of Paśupati, p. 626.
 
-occur in Mahābhārata, p. 217. 73; relation of, to Bāṇa, p. 475; peculiar views of, p. 473; probably 
+Pālakāpya, p. 732n.
 
-Neugebauer, Prof., p. 221. 
+Pallava, a work mentioned in Rājanītiratnākara, p. 770.
 
-| Nibandhas, pp. 545–546. 476-77; home of, p. 482; relation 
+Palvala, p. 848n.
 
-Nibandhanakāra, mentioned by of, to Bphaspati, pp. 486-87. 
+Pañcadaśī, of Mādhavācārya, p. 788.
 
-Sarasvativılāsa, is probably Asahāya, Nāradiyapurāṇa, pp. 175, 731. 
+Pañcādhyāyī, of Bṛhaspati, pp. 492, 817.
 
-pp. 548, 875n. 
+Pañcanada, southern, p. 118.
 
-1272 
+Pāñcarātras, pp. 271, 656, 717; outside Vedic orthodoxy, p. 577.
 
+Pañcaśāradīya, p. 848n.
 
+Pañcatantra, pp. 192, 231, 249n., 265, 717; stories of, based on judicial problems of civil and criminal law, p. 302; gives three-fold realm of politics, p. 231.
 
-Nidāna, a kind of work, p. 45; of Nitiprakāśikā, of Janamejaya, p. 265. 
+Pandharpur, shrine of Viṭhoba at, pp. 977, 978.
 
-Bhallāvins, pp. 98, 100. 
+Paṇḍitaparitoṣa, a work quoted by Hemādri, pp. 573, 662, 750n.; criticized Govindarāja, p. 662.
 
-Nitisāra, of Kāmandaka, pp. 5, 169. Nighantu, p. 592. 
+Paṇḍitasarvasva, of Halāyudha, pp. 626, 628, 630, 893n.
 
-Nitiśāstra, of Bhārgava, p. 265; of Nigūdhārthadipikā, com. on Prāyaści- Bphaspati, p. 484, 
+Pangarkar, Mr. L. R., p. 977.
 
-ttaviveka, p. 838. 
+Panikkar, Sardar K. M., p. 908.
 
-Nītivākyāmsta, pp. 288, 484; com, on, Nijāmasāha, king of Deccan, p. 861; pp. 288, 484. 
+Pāṇini, pp. 76, 77, 189, 200; mentions ten predecessors and speaks of eastern and northern ācāryas, pp. 78, 79; resident of north-west India, pp. 78, 79; date of, pp. 79, 81n.; time for, p. 41; called Śālāturiya, p. 167.
 
-Dalapati was the chief minister of, Nityācārapradipa, pp. 276,552. p. 862. 
+Pañjikākāramiśra, p. 701n.
 
-Niyama, p. 553. Nilakanthabhaṭṭa, pp. 937–941. 
+Pāpeya, p. 219.
 
-Niyoga, approved of by sītrakāras Nilakantha Caturdhara, commentator except Āpastamba, pp. 50, 73, 126; 
+Paramānanda, patron of Nandapaṇḍita, p. 916.
 
-of Mahābhārata, pp. 226n., 378, allowed by Vasiṣtha, p. 105; allowed 413n, 
+Parāśara, named by Kauṭilya, p. 209.
 
-and condemned by Manu, pp. 51, Nilakaṛtha Sukla, pupil of Bhattoji, 
+Parāśara-Mādhavīya, pp. 127, 293, 460n., 476, 488n., 489, 497n., 562, 566, 779, 785, 815, 818, etc.; authority on modern Hindu law in southern India, p. 779.
 
-204, 331, 438; allowed by Kautilya, p. 965. 
+Pārāśaras, school of, mentioned by Kauṭilīya, pp. 209, 460.
 
-p. 204; allowed only to śūdras by 
+[[P1274]] Parāśarasmṛti, pp. 138, 276, 459–466, 818; drawn upon by Garuḍapurāṇa, p. 460; and Manusmṛti, pp. 462–63; and Baudhāyanadharmasūtra, p. 463; contents of, pp. 461–62; date of, p. 464; enumerates 19 smṛtikāras, pp. 303, 461; peculiar views of, pp. 462–63; contains no treatment of vyavahāra, p. 779; Vidvanmanoharā, com. on, p. 915.
 
-Viddha-Manu, p. 333; allowed by Nilambara, Kātyāyanabhī yakṛt, P. 893n.; from Kāmarupa, pp. 981-82. 
+Pāraśava, meaning of, pp. 35, 267.
 
-Yāj., p. 438; allowed by Nārada, 
+Pārasīkas, touch of, as similar to that of mlecchas, p. 448.
 
-p. 473; not allowed in Kali age, Nimantrana, meaning of, p. 654n. 
+Pāraskaragṛhya, pp. 551, 613, and Yājñavalkyasmṛti, p. 441; com. of Gadādhara on, p. 582n.; bhāṣya of Harihara on, p. 613; Amṛtavyākhyā on, p. 917n.
 
-p. 539; view of Viśvarūpa and Nimi, p. 336. 
+Parasnis, Rao Bahadur D. B., p. 914n.
 
-Bphaspalti on, p. 561; allowed to Niravadyavidyoddyota, an author 
+Paraśurāma, pp. 219–20.
 
-childless widows by Bhāruci, p. 568. mentioned in Dāyabhāga, pp. Niyogi, Dr. Rama, author of the 705–707. 
+Paraśurāmapaṇḍita, father of Mitramiśra, pp. 946, 949.
 
-'History of the Gahadwāla dynasty', Nirgranthas, p. 219; outside the pale 
+Parents, succeed together to their deceased son, according to Śrīkara and Śambhu, pp. 571, 622; succeed before brothers according to Halāyudha, p. 623.
 
-p. 688n. of Vedic orthodoxy, p. 577. 
+Pargiter, pp. [[193.|193,]] 410.
 
-Nivartana, a measure of area, p. 490, Nirnayāmsta, pp. 587, 750n., 893n. Non-Aryan tribes mentioned by Atri, Nirnayasindhu, pp. 183, 505, 639; L p. 261. 
+Pāribhadrīya, p. 707.
 
-quotes Laghu-Nārada, p. 483; and Nṭsimha, author of Prayogapārijāta, Bphaspati, p. 489; quotes verses of p. 745. Viśvarūpa, p. 565; quotes views of 
+Paribhāṣāprakāśa, p. 949.
 
-Nrsinha, sun of Rāmacandrācārya, Sridhariya, p. 726. 
+Pārigrāma, p. 707.
 
-wrote vivarala on Kālanirṇaya Nirukta, pp. 7, 8n., 171., 33, 781., 115; dipikā, pp. 792, 867. 
+Parihal or Pāri Gai, 707.
 
-mentions Nidāna, p. 45; an anga of Nrsisihaprasīda, pp. 860-868; divided Veda, p. 61; passages in Āpastamba 
+Pārijāta, pp. 655–656; frequently coupled with Prakāśa, pp. 652, 768, 893n.
 
-L into sāras, p 861; contents of, pp. agree with, p. 61; discussion about 
+Pārijātamañjarī, a drama, p. 590.
 
-863-64. the rights of sons and daughters in, p. 308; gives an etymology of 
+Pariṣad, constitution of, according to Aṅgiras, p. 508.
 
-Nraya, means Mimānisā doctrines, Parāśara, p. 461; speaks about itself 
+Parisaṅkhyā, p. 553.
 
-pp. 64, 556. as Vidyāsthāna, p. 409n; condemned Nyāyabindu, of Dharmakirti, p. 26. mere memorizing of the Veda with- Nyāyamañjari, p. 750n. out understanding the meaning, Nyāyaratna, p. 8 18n. p. 534. 
+Pariśiṣṭa-dīpakalikā, of Śūlapāṇi, p. 825.
 
-Nyiyaratnākara, p. 628. Niṣāda, mention of, in Vedic works, Nyāyasūcinibandha, of Vācaspati, 
+Pariśiṣṭaparva, of Hemacandra, p. 167.
 
-p. 73; who is, p. 267; a mixed caste, pp. 455, 562, 853. p. 142. 
+Parivrājakas, four kinds of, p. 521.
 
-Ojha, Mīr. K, C., p. 166n. Niska, p. 859; value of, pp. 532, 535. 
+Pārṣada, meaning of, p. 238; phonetically and semantically different from Pāṣaṇḍa, p. 238.
 
-Oldenberg, Prof. pp. 54, 354. Niticintīmani, of Vācaspati, p. 8+5. 
+Partition, allowed to son in ancestral property even against father's wish, p. 532; between brothers, unmarried sister's rights in, p. 581; larger share to eldest son on p. 50; period, within which could be set aside, pp. 293, 298; necessity of writing for completing, p. 522; son's right to, according to Dāyabhāga, p. 704; in Dāyatattva, p. 892.
 
-Omens, pp. 121, 447. Nitinirṇiti, of Yogghama, p. 155. Oppert, Dr., p. 272. 
+Paścātkāra, defined by Kātyāyana, p. 501.
 
-General Index 
+Pāṣaṇḍa, meaning of, pp. 237–38; habitation for, p. 238.
 
-1273 
+Pāśupatas, pp. 271, 717; outside Vedic orthodoxy, p. 577; doctrines of, authoritative when not opposed to Veda according to Pārijāta, p. 656.
 
-Orccha, founded by Pratā parudra, Pālakāpya, p. 732n. 
+[[Paśupati,,|Paśupati,]] brother of Halāyudha, pp. 626, 636, 893n.
 
-p. 946; ruled over by Virasimha, 
+Pāṭaliputra, pp. 186, 549.
 
-Pallava, a work mentioned in Raja p. 947. 
+Patañjali, pp. 6n., 13, 189, 190.
 
-nitiratnakara, p. 770. Ordeals, pp. 140, 334; not treated of 
+Patnī, who is, p. 274; meaning of, according to Viśvarūpa, p. 559.
 
-Palvala, p. 848n. by Manu, pp. 334, 431, 473; five, treated by Yāj., p. 431; pine, 
+Paulkasa, a mixed caste, p. 73.
 
-Pancadasi, of Madhavācārya, p. 788. according to Brhaspati, p. 484; Pañcādhyāyi, of Bphaspati, pp. 492, nine, according to Pitāmaha, pp. 
+Piśuna, named by Kauṭilya, pp. 196, 209, 210; identified with Nārada, p. 482.
 
-817. 515, 538; seven, described by 
+[[Paśunaputra|Piśunaputra]], named by Kauṭilya, p. 209.
 
-Pañcanada, southern, p. 118. Nārada, p. 473, 538; what appro 
+Pitāmaha, smṛti of, pp. 514–516; enumerates nine kinds of ordeals, p. 515.
 
-Pāñcarātras, pp. 271, 656, 717; out priate to which wrongs, p. 538; what, in vogue in which countries, 
+Pitṛbhakti, of Śrīdatta, pp. 586, 621, 761, 848n., 893n.
 
-side Vedic orthodoxy, p. 577. pp. 874–75. 
+Pitṛbhaktitaraṅgiṇī or Śrāddhakalpa, of Vācaspati, pp. 844, 850, 851, 893n.
 
-Pañcaśāradiya, p. 848n. Ownership, whether laukika, pp. 538, | Pañcatantra, pp. 192, 231, 249n., 
+Pitṛdayitā, alias Karmopadeśinī-paddhati, pp. 727, 893n.; contents of, p. 727.
 
-587; whether son has, by birth, 
+Pitṛhitākaraṇikāra, p. 761.
 
-265, 717; stories of, based on judi. p. 538; does not consist in being 
+Plaint, characteristics of, pp. 538, 544.
 
-cial problems of civil and criminal able to dispose thing at one's 
+Planets, seven, mentioned by Baudhāyana, p. 53; arrangement of, [[P1275]] whether borrowed and from whom, pp. 443–45.
 
-law, p. 302; gives three-fold realm sweet will, since it is sastra, p. 
+Pledge, divided into four varieties, p. 293.
 
-of politics, p. 231. 539; sources of, pp. 750–51; none over wife and children, p. 911; 
+Pogson, author of ‘History of the Boondelas’, p. 947n.
 
-| Pandharpur, shrine of Viphoba at, views of Kamalākara about, p. 933. pp. 977, 978. 
+Politics, teachers of, pp. 265–66; three-fold realm of, p. 231.
 
-Panditaparitoșa, a work quoted by Padamañjari, commentary of Hara- Hemādri, pp. 573, 662, 750n.; 
+Poor, the, and helpless entitled to a share of state wealth, pp. 573, 618.
 
-datta, on Kāsikā, pp. 746–47, criticized Govindarāja, p. 662. Padapātha, p. 551. 
+Possession, five characters of juridical, p. 516; five characteristics of adverse, p. 532; how many years', constitutes title, pp. 596, 598, 651–52; adverse, for twenty years conferred ownership according to Bhavadeva, p. 651; when protected, pp. 542, 544; as opposed to title, p. 544; entitled to protection, pp. 532, 544.
 
-Pan litasarvasva, of Halāyudha, pp. Padmagupta, author of Navasīha- | 
+Prabandhacintāmaṇi, p. 590.
 
-626, 628, 630, 893n. sankacarita, p. 590. 
+Prabhākara, p. 643.
 
-Pangarkar, Mr. L. R., p. 977. Padma ( Rudra ) kumāra, father of Panikkar, Sardar K. M., p. 908. 
+Prabodhacandrodaya a drama, p. 643.
 
-Haradatta, pp. 747, 748. 
+Prācetas, Smṛti of, pp. 519–520.
 
-Pārini, pp. 76, 77, 189, 200; men Padmapurāṇa, pp. 103, 126, 404, tions ten predecessors and spcaks 
+Prācetasa, Manu, pp. 206, 311, 321, 322, 338; important references to, in Mbh., pp. 341–42; on rājadharma, pp. 150, 338, 341.
 
-412, 415, 715; speaks of 14 Manus, of eastern and northern ācāryas, p. 317; Rāma story in, p. 108; pp. 78, 79; resident of north-west gives three-fold classification of India, pp. 78, 79, date of, pp. 79, Purāṇas, p. 416. 
+Pradīpa, pp. 724–725, 847n.; criticized Bhavadeva, p. 651.
 
-81n.; time for, p. 41; called Padyasangraha, of Manirāma, p. 903. 
+Prajāpati, named by Baudhāyana, pp. 45, 302, 520; named by Vasiṣṭha, pp. 101, 302, 520; smṛti of, pp. 520–521.
 
-salāturiya, p. 167. 
+Prakāśa, pp. 551, 652–655, 770.
 
-Pañjīkākāramiśra, p. 701n. Padya-Viṣṇu, often quoted in Parā. 
+Prakāśa, commentary on Śrāddhakalpasūtra of Kātyāyana, p. 636.
 
-sara-Madhaviya, p. 127. 
+Prakāśa, Anantadeva's com. on Bhagavannāmakaumudī, p. 963.
 
-Pāpeya, p. 219. Pahlavas, mentioned in Manu, p. 1 Paramānanda, patron of Nanda. 
+Prakriyākaumudī, of Rāmacandrācārya, p. 967n.
 
-334. 
+Prakriyāprakāśa, p. 967n.
 
-pandita, p. 916. Pai, Mr. Govind, p. 179. 
+Prakṛtis, eighteen according to Pitāmaha, p. 515.
 
-Parisara, named by Kautilya, p. 209. Paijavana, p. 336. 
+Pramitākṣarā, com. on Mitākṣarā, p. 915.
 
-Parāśara-Madhaviya, pp. 127, 293, Paiṭbinasi, pp. 284-286, 517–519, 460n., 476, 488n., 489, 4978., 562, 705n.; work of, known only through 566, 779, 785, 815, 818, etc.; quotations, p. 14; names 36 smrtis, authority on modern Hindu law in pp. 303, 535. 
+Praṇavakalpa, of Śaunaka, p. 753.
 
-southern India, p. 779. Pākayajñapaddhati, of Pasupati, p. Pārāśaras, school of, mentioned by 
+Pran Nath, Dr., pp. 158, 192, 223.
 
-626. 
+Prapañcahṛdaya, p. 567.
 
-Kauṭiliya, pp. 209, 460. H, D.-160 
+Prapañcasāra, p. 779.
 
-1274 
+Pratāpamārtaṇḍa, of Pratāparudradeva, p. 878.
 
-History of Dharmaśāstrā 
+Pratāparudradeva, king of Orissa, pp. 869–879.
 
-Parāśarasmṛti, pp. 138, 276, 459-466, ( Partition, allowed to son in ancestral 818; drawn upon by Garuḍapurāṇa, property even against father's wish, P. 460; and Manusmrti, pp. 462- p. 532; between brothers, unmar. 63; and Baudhāyanadharmasītra, ried sister's rights in, p. 581; larger P. 463; contents of, pp. 461–62; date share to eldest son on p. 50; period, of, p. 464; enumerates 19 smsti- within which could be set aside, kāras, pp. 303, 461; peculiar views pp. 293, 298; necessity of writing of, pp. 462-63; contains no treat- for completing, p. 522; son's right ment of vyavahāra, p. 779; to, according to Dāyabhāga, p. 704; 
+Pratihastaka, p. 848n.
 
-Vidvanmanoharā, com, on, p. 915. in Dāyatattva, p. 892. Pāraśava, meaning of, pp. 35, 267. Paścātkāra, defined by Katyāyana, Pārasikas, touch of, as similar to that p. 501. 
+Pratiloma, p. 278.
 
-of mlecchas, p. 448. 
+Pratimānāṭaka, p. 331.
 
-Pāṣanda, meaning of, pp. 237–38; Pāraskaragplıya, pp. 551, 613, and habitation for, p. 238. 
+Pratimāsaṅgraha, p. 770n.
 
-Yājñavalkyasmsti, p. 441; com. of 
+Pratipadapañcikā, com. by Bhaṭṭasvāmin on Kauṭilīya, pp. 155, 247.
 
-Pāśupatas, pp. 271, 717; outside Vedic Gad\#dhara on, p. 582n.; bhāṣya of 
+Pratiṣṭhāmayūkha, p. 940.
 
-orthodoxy, p. 577; doctrines of, Harihara on, p. 613; Amptavyā. 
+Pratiṣṭhāna, on the Godāvarī, pp. 624, 904.
 
-authoritative when not opposed to khyā on, p. 917n. 
+Pratiṣṭhāsāgara, p. 731.
 
-Veda according to Pārijāta, p. 656. Parasnis, Rao Bahadur D. B., p. 914n. 
+Pratītākṣarā, same as Pramitākṣarā, p. 915.
 
-Pasupati,, brother of Halāyudha, pp. Parasurama, pp. 219-20. 
+Pravacana, meaning of, pp. 40n., 41n.; derivation of, p. 41n.; stands for some sūtra school, p. 47.
 
-626, 636, 893n. Paraśurāmapandita, father of Mitra 
+Pravacanakāra, pp. 39, 47.
 
-Pāśaliputra, pp. 186, 549. miśra, pp. 946, 949. 
+Pravacana-sūtra, pp. 47–48.
 
-Patañjali, pp. 6n., 13, 189, 190. Parents, succeed together to their deceased son, according to Srikara 
+Pravaradarpaṇa, pp. 196, 928.
 
-Patni, who is, p. 274; meaning of, and Sambhu, pp. 571, 622; succeed according to Viśvarūpa, p. 559. before brothers according to Hala- Paulkasa, a mixed caste, p. 73. yudha, p. 623. 
+Pravaramañjarī, pp. 196, 721n.
 
-Piśuna, named by Kautilya, pp. 196, Pargiter, pp. 193. 410. 
+Prāyaścitta, pp. 507, 508; etymology of the word, p. 828n.; in Prāyaścittaviveka for different offences, pp. 828–35; for Indra, p. 9; for minors and women, less than for men, p. 147n.; for killing cow, p. 274, 296, 830; for other acts, pp. 274–75; for cessation of gṛhya fires, p. 291; for mahāpātakas, pp. 296–97; for Brāhmaṇa guilty of mahāpātakas, p. 507; for dvijāti having children from a śūdra [[wise|wife]], p. 512.
 
-209, 210; identified with Nārada, Pāribhadriya, p. 707. 
+Prāyaścittamayūkha, pp. 442, 534, 940.
 
-p. 482. Paribhāṣāprakāśa, p. 949. 
+Prāyaścittanirūpaṇa, of Bhavadeva, pp. 596, 641.
 
-Pasunaputra, named by Kautilya, Pārigrāma, p. 707. 
+[[P1276]] Prāyaścittaprakāśa, p. 942.
 
-p. 209. Parihal or Pāri Gai, 707. 
+Prāyaścittaratna, pp. 927, 929.
 
-Pitāmaha, smṛti of, pp. 514-516; enu. Pārijāta, pp. 655-656; frequently 
+Prāyaścitta-sudhānidhi, of [[Sāyasa|Sāyaṇa]], p. 785.
 
-merates nine kinds of ordeals, p. coupled with Prakāśa, pp. 652, 
+Prāyaścitta-viveka, of Śūlapāṇi, pp. 825, 827, 893n., 946; contents of, pp. 828–35; often referred to by Raghunandana, p. 835; authors and works mentioned in, p. 835; commentaries on, p. 838.
 
-515. 
+Prāyaścittenduśekhara, of Nāgoji, p. 964.
 
-768, 893n. 
+Prāyaścittenduśekhara, of Kāśīnātha, p. 977.
 
-Pitbhakti, of Sridatta, pp. 586, 621, Pārijā tamañjari, a drama, p. 590. 761, 848n., 893n. Pariṣad, constitution of, according to | Pitsbhaktitarangiṇi or Sraddhakalpa, 
+Prayogapārijāta, pp. 655, 721n., 745; quotes views of Śrīdharīya, p. 726; enumerates 18 principal smṛtis, 18 upasmṛtis and 21 smṛtikāras, p. 304.
 
-Angiras, p. 508. 
+Prayogaratna, of Nārāyaṇabhaṭṭa, pp. 624, 745, 907, 935; composed at Benares, p. 633.
 
-of Vācaspali, pp. 844, 850, 851, 
+Prayogasāra, pp. 805, 893n.
 
-893n. Parisankhyā, p. 553. Parisista-dipakalikā, of Sūlapāni, p. | Pitrdayitā, alias Karmopadesini 
+Pre-emption, p. 299.
 
-825. 
+Proof, means of, p. 702.
 
-paddhati, pp. 727, 893n.; contents 
+Pṛthu, p. 336.
 
-of, p. 727. Pariśiṣṭaparva, of Hemacandra, p. 
+Pṛthvīcandra, pp. 507, 880.
 
-167. 
+Pṛthvīcandrodaya, pp. 750n., 879–882.
 
-Pitbitākaranikīra, p. 761. Parivrājakas, four kinds of, p. 521. Plaint, characteristics of, pp. 538, Pārsada, meaning of, p. 238; phone-i 
+Pṛthvīdharamiśra, p. 893n.
 
-tically and semantically different Planets, seven, mentioned by Baudhi. from Paganda, p. 238. 
+Pūjāprakāśa, p. 943.
 
-yana, p. 53; arrangement of, 
+Pūjāratnākara, p. 766.
 
-544. 
+Pulkasa, a mixed caste, p. 142.
 
-General Index 
+Pulastya, smṛti of, pp. 516–517.
 
-1275 
+Punarbhū, seven kinds of, p. 275; three kinds of, according to Nārada, p. 473.
 
-whether borrowed and from whom, | Pramitākṣarā, com. on Mitākṣarā, pp. 443-45. 
+Puṇḍarīka (or Pauṇḍarīka), a tīrtha, is modern Pandharpur, p. 864.
 
-p. 915. Pledge, divided into four varieties, | Praṅavakalpa, of Saunaka, p. 753. 
+Puṇḍra, a country, p. 49.
 
-p. 293. 
+Punishment, of death, prescribed for whom, p. 526.
 
-Pran Nath, Dr., pp. 158, 192, 223. Pogson, author of History of the 
+Pupil, as heir to teacher, p. [[530|550]].
 
-Prapancahṣdaya, p. 567. Boondelas', p. 947n. 
+Purāṇa, mentioned by Āpastamba-dharmasūtra, p. 59; known to Kauṭilīya, p. 246; mentioned by Manusmṛti, p. 315; mentioned by Nāradasmṛti, p. 471; the word, occurs in Atharvaveda, p. 409; narration of some, on the 9th day of Pāriplava, p. 409.
 
-Prapancasāra, p. 779. Politics, teachers of, pp. 265-66; 
+Purāṇas, pp. 408–421; antiquity of, p. 410; chronology of, p. 410; characteristics of the teachings of, pp. 411–12; bhakti and vratas as the important aspects of, p. 413; quotations from, in dharmaśāstra works, pp. 413–14; contain thousands of ślokas on dharmaśāstra matter, pp. 416–417; table of dharmaśāstra material in, pp. 417–21; divided into three groups, *sāttvika*, *rājasa* and *tāmasa*, p. 416; mentioned by Yāj., pp. 433, 434; valuable information about, in Dānasāgara, p. 731.
 
-Pratāpamārtaṇḍa, of Pratāparudra. three-fold realm of, p. 231. 
+Purāṇasamuccaya, p. 916n.
 
-deva, p. 878. Poor, the, and helpless entitled to a 
+Purāṇasāra, mentioned by Mādhavācārya, pp. 779, 863.
 
-Pratāparudradeva, king of Orissa, share of state wealth, pp. 573, 
+Purī, [[Gaitanya|Caitanya]] lived at, 876.
 
-pp. 869-879. 618. 
+Purification of things, p. 291; of food touched by insects, sinners etc., p. 525.
 
-Pratihastaka, p. 848n. Possession, five characters of juridical, 
+Puruṣa, etymology of, p. 116.
 
-Pratiloma, p. 278. p. 516; five characteristics of adverse, p. 532; how many years', 
+Puruṣaparīkṣā, a work, p. 771.
 
-Pratimānāṭaka, p. 331. constitutes title, pp. 596, 598, 651- Pratimīsangraha, p. 770n. 52; adverse, for twenty years Pratipadapancikā, com. by Bhatta conferred ownership according to svāmin on Kauṭiliya, pp. 155, 247. Bhavadeva, p. 651; when protected, 
+Puruṣārtha and Kratvartha, p. 556.
 
-Pratișthāmayūkha, p. 940. pp. 542, 544; as opposed to tille, p. 544; entitled to protection, 
+Puruṣārthaprabodha, of Brahmānanda-bhāratī, p. 562.
 
-Pratiṣthāna, on the Godavari, pp. pp. 532, 544. 
+Puruṣottama, as 26th *tattva* of Raghunandana, p. 525.
 
-624, 904. 
+Pūrvamīmāṁsā, pp. 5n., 7n., 13, 299, [[044|644]]; Āpastamba's relation to, pp. 63–64; and Viśvarūpa, pp. [[535-57|555–57]]; commentators of, p. 593.
 
-Prabandhacintāmari, p. 590. 
+Puṣkara, opponent of Nala, p. 245.
 
-Pratiṣthāsāgara, p. 731. Prabhākara, p. 643. 
+Puṣkarasādi, author named by Āpastamba, pp. 61, 273, 302.
 
-Pratitākṣarā, same as Pramitākṣarā, Prabodhacandrodaya a drama, p. 
+Puṣyamitra, p. 335.
 
-p. 915. 643 
+Putra, etymology of, p. 116.
 
-Pravacana, meaning of, pp. 40n., 
+Putrikā, custom of, is ancient, p. 7; meaning of, p. 592; prohibition of marriage with maternal uncle's daughter applies only to the son of, p. 661.
 
-41n.; derivation of, p. 4in.; stands Prācetas, Smrti of, pp. 519-520. 
+[[P1277]] Rāḍhā, part of Bengal, pp. 644, 707, 708, 712; Jīmūtavāhana was a native of, p. 707; Bhavadeva constructed water reservoir in, p. 645.
 
-for some sutra school, p. 47. Prācetasa, Manu, pp. 206, 311, 321, 
+Rāḍhīya, brāhmaṇas in Bengal, p. 838.
 
-Pravacanakāra, pp. 39, 47. 322, 338; important references to, in Mbh., pp. 341-42; on rāja. 
+Raghavachar, S. S., p. 566n.
 
-Pravacana-sutra, pp. 47–48. dharma, pp. 150, 338, 341. 
+Raghavan, Dr. V., pp. 381, 384, 414, 415, 547, 588, 589, 590.
 
-Pravaradarpana, pp. 196, 928. Pradipa, pp. 724–725, 847n.; criticized Pravaramañjarī, pp. 196, 721n. 
+Rāghavānanda, commentator of Manu, pp. 346, [[318|348]].
 
-Bhavadeva, p. 651. 
+Raghunandana, pp. 483, 565, 588, 623, 630, 633, 639, 643, 729, 890–902; last dharmaśāstra writer of Bengal, p. 890; a Rāḍhīya brāhmaṇa, p. 890; author of 28 *tattvas*, p. 892; pupil of Vāsudeva Sārvabhauma, p. 893; date of, pp. 896–97; expert in Mīmāṁsāsūtras and Nyāyas, [[elucidatas|elucidates]] over 171 nyāyas, p. 902.
 
-Prāyaścitta, pp. 507, 508; etymology Prajāpati, named by Baudhāyana, of the word, p. 828n.; in Prāya 
+Raghunātha, commentator of Āśaucadaśaka, p. 614.
 
-pp. 45, 302, 520; named by Vasi- scittaviveka for different offences, fṭba, pp. 101, 302, 520; smpti of, pp. 828-35; for Indra, p. 9; for pp. 520-521. 
+Raghuvaṁśa, of Kālidāsa, pp. 302, 383, 388n.; and Uttarakāṇḍa of Rāmāyaṇa, pp. 389–90; com. on, by Hemādri, p. 754.
 
-minors and women, less than for Prakāśa, pp. 551, 652-655, 770. 
+Raghuvir, Dr., p. 18.
 
-men, p. 147n.; for killing cow, p. 
+Ragim, copperplate of Tīvaradeva, pp. 105, 263n.
 
-274, 296, 830; for other acts, pp. Prakasa, commentary on Śrāddha 
+Rāhula Sāṅkṛtyāyana, Pandit, p. 26n.
 
-274-75; for cessation of gphya fires, kalpasūtra of Katyāyana, p. 636. 
+Rājā, stands for Bhojadeva in dharmaśāstra works, p. 760.
 
-p. 291; for mahāpā takas, pp. 296 Prakāśa, Anantadeva's com. on 97; for Brāhmaṇa guilty of mahā. 
+Raja, Prof. Kunhan, p. 17n.
 
-Bhagavannāmakaumudi, p. 963. 
+Rājadharmakaustubha, of Anantadeva, pp. 389, 408, 953, 957–58.
 
-pātakas, p. 507; for dvijāti having Prakriyākaumudi, of Rāmacandrā- children from a sūdra wise, p. 512. 
+Rājalāsaka, p. 875n.
 
-carya, p. 967n. 
+Rājamārtaṇḍa, Bhoja's commentary on Yogasūtra, pp. 585, 586; Rājamārtaṇḍa, Bhoja's work on dharmaśāstra, pp. 586, 770n., 847n.
 
-Prāyascittamayūkha, pp. 442, 534, Prakriyāprakāśa, p. 967n. 
+Rājamṛgāṅka, Bhoja's work on astronomy, pp. 586, 590.
 
-940. Prakrtis, eighteen according to Pitā. Prāyaścittanirūpaṇa, of Bhavadeva, 
+Rājan, meaning of, p. 857.
 
-maha, p. 515. 
+Rājānaka Śitikaṇṭha, p. 718.
 
-pp. 596, 641, 
+Rājanighaṇṭu, p. 865.
 
-acan 
+Rājanītiprakāśa, p. 943.
 
-1276 
+Rājanītiratnākara, of Caṇḍeśvara, pp. 476, 573, 759, 767, 771; composed at the command of Bhaveśa, p. 775.
 
+Rājanītisaukhya, p. 913.
 
+Rājaputra, p. 732n.
 
-Prāyascittaprakāśa, p. 942. 
+Rājaśāstra, teachers of, according to Nītiprakāśikā, pp. 265–66.
 
-Nāradasmsti, p. 471; the word, Prāyaścittaratna, pp. 927, 929. 
+[[Rājaśekeara|Rājaśekhara]], p. 311.
 
-occurs in Atharvaveda, p. 409; Prāyaścitta-sudhānidhi, of Sāyasa, 1 
+Rājataraṅgiṇī, p. 479.
 
-narration of some, on the 9th day 
+Rājāvali, a work p. 374n.
 
-p. 785. 
+Rāju, Prof. P. T., p. 5n.
 
-of Pīriplava, p 409. Prāyaścitta-viveka, of Sūlapāṇi, pp. 
+Rājya, seven constituents of, p. 297.
 
-Purā nas, pp. 408-421; antiquity of, 
+Rāma, of Bisena family, patron of Nāgoji, p. 965.
 
-p. 410; chronology of, P 410; chara. 825, 827, 893n., 946; contents of, 
+Rāmabhadra, a king of Mithilā, pp. [[819, 872|849, 852]].
 
-cteristics of the teachings of, pp. 411 pp. 828–35; often referred to by 
+Rāmacandra, commentator of Manu, p. 346.
 
-12; bhakti and vratas as the impor Raghunandana, p. 835; authors 
+Rāmacandra, Yādava king of Devagiri, p. 753.
 
-tant aspects of, p. 413; quotations and works mentioned in, p. 835; 
+Rāmacandrācārya, author of Kālanirṇayadīpikā, p. 791.
 
-from, in dharmaśāstra works, pp. commentaries on, p. 838. 
+Rāmaka, meaning of, p. 106.
 
-413–14; contain thousands of slokas Prāyascittendusekhara, of Nāgoji, 
+Rāmakṛṣṇa, author of Jīvatpitṛkanirṇaya, p. 724; and father of Kamalākara, p. 925.
 
-on dharmaśāstra matter, pp. 416 p. 964. 
+Rāmānujācārya, pp. 678–81, 784; author of Vedārthasaṅgraha, p. 566; pupil of Yāmunamuni, p. 567.
 
-417; table of dharmaśāstra material Prāyascittendusekhara, of Kāśinātha, in, pp. 417-21; divided into three 
+Rāmapaṇḍita, father of Nandapaṇḍita, p. 915.
 
-p. 977. 
+Rāmārcanacandrikā, pp. 847n., 893n.
 
-groups, sāttvika, rajasa and tamasa, Prayogapārijā ta, pp. 655, 721n., 745; 
+Rāmāyaṇa, pp. 386–408; several recensions of, pp. 386–87; resemblance of Raghuvaṁśa with the Uttarakāṇḍa of, pp. 389–90; relation of, to Daśarathajātaka, pp. 392–93; mutual references of Mahābhārata and of, pp. 393–95; meagre material on politics in, p. 399; Kaccitpraśnas in, pp. 399–401; date of, pp. 396, 402; commentaries on, pp. 404–406; dharmaśāstra topics in, p. 402.
 
-p. 416; mentioned by Yāj., pp. 433, quotes views of Sridhariya, p. 726; 
+Rāmeśvarabhaṭṭa, father of Nārāyaṇabhaṭṭa, p. 904.
 
-434; valuable information about, in enumerates 18 principal smstis, 18 
+[[P1278]] Ram Gopal, Dr., pp. 11, 23, 26, 35, 36, 52, 54, 77, 79, 81; criticized, pp. 27, 66, 67, 70–75, 83, 110, 111.
 
-Dānasāgara, p. 731. upasmstis and 21 smṛtikāras, p. 304. Purāṇasamuccaya, p. 916n. Prayogaratna, of Nārāyaṇabhatra, Purāṇasāra, mentioned by Mādhava 
+Rāmollāsa, of Bhoganātha, p. 785n.
 
-pp. 624, 745, 907, 935; composed cārya, pp. 779, 863. at Benares, p. 633. 
+Rāṇāyanīya, school of Sāmaveda, p. 22.
 
-Puri, Gaitanya lived at, 876. Prayogasīra, pp. 805, 893n. 
+Rasagañgādhara, of Jagannātha, pp. 624, 964.
 
-Purification of things, p. 291; of Pre-emption, p. 299. 
+Rasamañjarī, of Bhānudatta, pp. 953, 964.
 
-food touched by insects, sinners Proof, means of, p. 702. 
+Rasamañjarī-prakāśa, of Nāgeśabhaṭṭa p. 964n.
 
-etc., p. 525. Ppthu, p. 336. 
+Rasayātrāpaddhati, of Raghunandana, p. 892.
 
-Puruṣa, etymology of, p. 116. Pṛtbvicandra, pp. 507, 880. 
+Rasikapriyā, of Keśavadāsa, p. 947.
 
-Puruṣaparikṣā, a work, p. 771. Pythyicandrodaya, pp. 750n., 879-882. Puruṣartha and Kratvartha, p. 556. Prthvidharamista, p. 893n. 
+Rāśis, not mentioned by Yāj., p. 445.
 
-Purusārthaprabodha, of Brahma Pūjāprakāsa, p. 943. 
+Rāṣṭrakūṭas, p. 624.
 
-nanda-bhārati, p. 562. Pājāratnākara, p. 766. 
+Rathakāra, *upanayana* allowed to, p. 50; a mixed caste, p. 267.
 
-Purusottama, as 26th tattva of Raghu Pulkasa, a mixed caste, p. 142. nandana, p. 525. Pulastya, smrti of, pp. 516-517. 
+Ratnākara, of Caṇḍeśvara, pp. 763, 838, 840, 849n.
 
-Pārvamimāṁsā, pp. 5n., 71., 13, Punarbhū, seven kinds of, p. 275; 299, 044; Apastamba's relation to, 
+Ratnakaraṇḍikā, quoted in Pitṛbhakti, p. 761.
 
-three kinds of, according to Nārada, pp. 63–64; and Viśvarūpa, pp. p. 473. 
+Ratnamālā, p. 910n.
 
-535-57; commentators of, p. 593. Pundarika (or Paundarika), a tirtha, Puṣkara, opponent of Nala, p. 245. 
+Ratnāvalī, p. [[819n.|849n.]]
 
-is modern Pandharpur, p. 864, 
+Ray, Mr., p. 645.
 
-Puṣkarasādi, author named by Apa Pundra, a country, p. 49. 
+Rāyamukuṭa, pp. 347, 839, 893n.
 
-stamba, pp. 61, 273, 302. Punishment, of death, prescribed for | Pusyamitra, p. 335. 
+Remarriage, of women, allowed by Nārada, p. 473; of child widows, allowed by Vasiṣṭha, p. 105; prohibited by Manu, p. 205; allowed by Kauṭilya to widows and even wives whose husbands have not been heard of for a year or more, p. 205.
 
-whom, p. 526. 
+Renou, Prof. L., pp. 125, 157.
 
-Putra, etymology of, p. 116. Pupil, as heir to teacher, p. 530. Putrikā, custom of, is ancient, p. 7: Purāṇa, mentioned by Āpastamba- meaning of, p. 592; prohibition of 
+Reṇudīkṣita, p. 736.
 
-dharmasūtra, p. 59; known to marriage with maternal uncle's Kautiliya, p. 246; mentioned by daughter applies only to thc son Manusmrti, p. 315; mentioned by of, p. 661. 
+Res Judicata, rule of, in Kātyāyana, p. 501.
 
-General Index 
+Re-union, rights of full brother superior to half brother, pp. 824–25.
 
-1277 
+Reviling, examples of, pp. 744–45.
 
-Rādhā, part of Bengal, pp. 644, 707, Rājanitiratnākara, of Candeśvara, 
+Ṛgveda, word dharma in, pp. 1–2; a hymn from, as regards marriage, p. 7; a hymn of, quoted by Medhātithi in connection of *niyoga*, p. 321n.; Vasiṣṭha's oath occurs in, p. 337; Bṛhaspati and Vena in, p. 444; Jupiter in, p. 445; condemns one who feeds none but himself, p. 412; [[nad|and]] Gautama, p. 24.
 
-708, 712;Jimātavāhana was a native pp. 476, 573, 759, 767, 771; com. of, p. 707; Bhavadeva constructed posed at the command of Bhavesa, water reservoir in, p. 645. 
+Rhys Davids, author of ‘Buddhist India’, pp. 6n., 213, 219, 252, 392.
 
-p. 775. Rādhiya, brahmanas in Bengal, p. 838. Rājanitisaukhya, p. 913. Raghavachar, S. S., p. 566n. 
+Ṛju, commentator of Manu, p. 576.
 
-Rājaputra, p. 732n. Raghavan, Dr. V., pp. 381, 384, 414, Rājaśāstra, teachers of, according to 
+Ṛkṣoccaya, p. 910n.
 
-415, 547, 588, 589, 590. 
+Rocher, Dr. Ludo, pp. [[814n.|844n.]], 846, 860.
 
-Nitiprakāśikā, pp. 265-66. Rāghavānanda, commentator of Rājasekeara, p. 311. 
+Ropaka, 1/70th part of *suvarṇa*, one *dīnāra* is equal to 28, p. 859.
 
-Manu, pp. 346, 318. 
+Ṛṣyaśṛṅga, p. 510; texts attributed to, not accepted as authoritative by Dhāreśvara and others, p. 585.
 
-Rījatarangini, p. 479. Raghunandana, pp. 483, 565, 588, Rājāvali, a work p. 374n. 623, 630, 633, 639, 643, 729, 890- Raju, Prof. P. T., p. 5n. 902; last dharmaśāstra writer of 
+Rudradāman, inscription of, p. 35.
 
-Rājya, seven constituents of, p. 297. Bengal, p.890; a Rādhiya brāhmaṇa, P. 890; author of 28 taltvas, p. 892; 
+Rudradatta, commentator of Āpastamba-śrautasūtra, p. 743.
 
-Rāma, of Bisena family, patron of pupil of Vasudeva Sārvabhauma, 
+Rudradhara, author of Kṛtyacandrikā, p. 842.
 
-Nāgoji, p. 965. p. 893; date of, pp. 896–97; expert | Rāmabhadra, a king of Mithila, pp. in Mimāmgāsūtras and Nyāyas, 819, 872. 
+Rudraskanda, commentator of Khādiragṛhya, p. 19.
 
-elucidatas over 171 nyāyas, p. 902. Rāmacandra, commentator of Manu, Raghunatha, commentator of Āsauca 
+Rūpanārāyaṇa, title of king Rāmabhadra of Mithilā, pp. 849, 852.
 
-p. 346. daśaka, p. 614. 
+Śabara, pp. 9, 17n., 45, 104, 118, 556, 643; quotes Āpastamba Dh. S., p. 65; commented on Sūtra of Satyāṣāḍha p. 91; and Manu, p. 328; criticizes dharmasūtras, p. 148.
 
-Rāmacandra, Yādava king of Devagiri, Raghuvarnīa, of Kalidasa, pp. 302, 
+Śabdaratna, of Haridīkṣita, p. 965.
 
-p. 753. 383, 388n.; and Uttarakānda of Ramacandrācārya, author of Kāla. Rāmāyana, pp. 389-90; com, on, nirṇayadipika, p. 791. by Hemādri, p. 754. 
+Śabdenduśekhara, of Nāgoji, p. 964.
 
-Rāmaka, meaning of, p. 106. Raghuvir, Dr., p. 18. 
+Sabhā, meaning of, pp. 625–26.
 
-Rāmakṣsa, author of Jivatpitrkanir. Ragim, copperplate of Tivaradeva, 
+Saccaritarakṣā, of Vedāntadeśika, pp. 819, 820.
 
-naya, p. 724; and father of pp. 105, 263n. 
+Ṣaḍaśīti, p. 724; com. Śuddhicandrikā on, p. 915.
 
-Kamalakara, p. 925. Rāhula Sāṅkstyayana, Pandit, p. 26n. | Ramānujācārya. pp. 678–81, 784; Rājā, stands for Bhojadeva in dharma 
+Sādhāraṇa, father of Madanapāla, p. 801; brought about the remission of taxes at three *tīrthas*, p. 800; a city (modern Saharanpur), p. 916.
 
-author of Vedārthasangraha, p. 566; śāstra works, p. 760. 
+Saduktikarṇāmṛta, of Śrīdharadāsa, p. 630.
 
-pupil of Yamunamuni, p. 567. Raja, Prof. Kunhan, p. 17n. 
+Ṣaḍviṁśabrāhmaṇa, p. 732n.
 
-Rāmapandita, father of Nandapandita, Rājadharmakaustubha, of Anantadeva, 
+Sāgara, p. 770n.
 
-p. 915. pp. 389, 408, 953, 957-58. 
+[[P1279]] Sahagila, family of Saharanpur, p. 916.
 
-Rāmārcanacandrikā, pp. 847n., 893n. Rājalāsaka, p. 875n. 
+Sāhāraṇa, same as Sādhāraṇa, p. 801.
 
-Rāmāyana, pp. 386-408; several recen 
+Sāhasa, meaning of, p. 540; five kinds of, p. 857; witnesses in charges of, 271.
 
-sions of, pp. 386-87; resemblance Rājamartanda, Bhoja's commentary 
+Sāhityadarpaṇa, pp. 557, 647.
 
-of Raghuvamsa with the Uttara. on Yogasūtra, pp. 585, 586; Rāja 
+Sāhuḍiyāla, section of brāhmaṇas in Bengal, p. 838.
 
-kunda of, pp. 389–90; relation of, mārtaṇḍa, Bhoja's work on dharma 
+Śakas, mentioned by Manu, p. [[331|334]].
 
-to Daśarathajtaka, pp. 392-93; śāstra, pp. 586, 770n., 8471, 
+Śākuntala, pp. 168, 169.
 
-mutual references of Mahābhārata Rājamrgānka, Bhoja's work on and of, pp. 393-95; meagre material 
+Salatore, Dr. B. R., p. 644.
 
-astronomy, pp. 586, 590. 
+Sale, without consent of members of family, p. 299; for arrears of revenue, p. 299; necessity of writing for completing, p. 522.
 
-on politics in, p. 399; Kaccitpraśnas Rājan, meaning of, p. 857. 
+Śālihotra, p. 732n. a Sāmavedin sage, p. 25.
 
-in, pp. 399–401; date of, pp. 396, Rājānaka Sitikantha, p. 718. 
+Śālikanātha, p. 875n.
 
-402; commentaries on, pp. 404-406; 
+Salomons, J. W., p. 290.
 
-Charınaśāstra topics in, p. 402. Rajanighanļu, p. 865. 
+Sālva, a country, people of, p. 82–83.
 
-Rameśvarabhalta, father of Nārāyaṇa. Rājanītiprakāśa, p. 943. 
+Samānodaka, p. 313.
 
-bhatta, p. 904. 
+Sāmantasena, of Cāndravaṁśa, p. 733.
 
-1278 
+Sāmaśravas, addressed by Yāj., p. 431.
 
+Sāmavidhāna Brāhmaṇa, p. 22.
 
+Śāmavit, king of Delhi, p. 861.
 
-P. 842. 
+Samaya, several meanings of, p. 4n.
 
-Ram Gopal, Dr., pp. 11, 23, 26, 35, 36, Vasiṣtha's oath occurs in, p. 337; 
+Samayapradīpa, of Śrīdatta, pp. 762, 770n., 841; quoted by Raghunandana, p. 763.
 
-52, 54, 77, 79, 81; criticized, pp. 27, Bphaspati and Vena in, p. 444; 66, 67, 70–75, 83, 110, 111. 
+Samayapradīpa, astrological work of Harihara, p. 737.
 
-Jupiter in, p. 445; condemns one Rāmollāsa, of Bhoganātha, p, 785n. 
+Sāmba, Upapurāṇa, p. 416.
 
-who feeds none but himself, p. 412; 
+Sambandhacintāmaṇi, p. 851n.
 
-nad Gautama, p. 24. Rāṇāyaniya, school of Sāmaveda, 
+Sambhramabhaṭṭa, p. 701n.
 
-Rhys Davids, author of Buddhist p. 22. 
+Śambhu, author of Kāmadhenu according to Aufrecht, pp. 618; writer of digests, pp. 572, 618, 725, 738; relied on by Śrīdhara, p. 725.
 
-India', pp. 6n., 213, 219, 252, 392. Rasagañgādhara, of Jagannātha, 
+Saṁgraha, vide Smṛtisaṁgraha.
 
-pp. 624, 964. 
+Saṁhitāsārāvalī, p. 910n.
 
-Rju, commentator of Manu, p. 576. Rasamañjari, of Bhānudatta, pp. 953, Rkṣoccaya, p. 910n. 
+Saṁkara, of nine kinds, p. 490.
 
-964. 
+Saṁkarṣakāṇḍa, p. 593.
 
-Rocher, Dr. Ludo, pp. 814n., 846, 860. Rasamañjari-prakāśa, of Nāgesabhatta Ropaka, 1/70th part of suvarṇa, one 
+Saṁnyāsa, meaning of, p. 581.
 
-p. 964n. 
+Saṁnyāsin, p. 273; four kinds of, pp. 521, 783.
 
-dinara is equal to 28, p. 859. Rasayātrāpaddhati, of Raghunandana, Rṣyasriga, p. 510; texts attributed to, 
+Saṁrāṭ, definition of, pp. 227–28.
 
-P. 892. 
+Saṁsārapaddhatirahasya, p. 652.
 
-not accepted as authoritative by Rasikapriyā, of Keśavadāsa, p. 947. 
+Saṁskārakaustubha, of Anantadeva, pp. 483, 489, 953; quotes views of Śrīdharīya, p. 726; contents of, p. 954.
 
-Dhāreśvara and others, p. 585. Rasis, not mentioned by Yai. p. 445. Rudradāman, inscription of, p. 35, 
+Saṁskāramayūkha, pp. 304n., 309, 505, 938.
 
-Rāṣtrakūtas, p. 624. 
+Saṁskāraratnamālā, p. 964n.
 
-Rudradatta, commentator of Āpas 
+Saṁsārasaukhya, p. 913.
 
-tamba-srautasūtra, p. 743. Rathakāra, upanayana allowed to, p. 50; 
+Saṁvarta, pp. 541–543.
 
-a mixed caste, p. 267. 
+Saṁvatsarapradīpa, quoted by Raghunandana, p. 637; not a work of Śūlapāṇi, p. 826.
 
-Rudradhara, author of Kftyacandrikā, Ratnākara, of Candeśvara, pp. 763, 
+Sandarbhasūcikā, com. on Hāralatā, p. 729.
 
-Rudraskanda, commentator of Kha 838, 840, 849n. 
+Śāṇḍilya, p. 504.
 
-diragshya, p. 19. Ratnakaranṭikā, quoted in Pitsbhakti, 
+Śāṇḍilyāyana, p. 504.
 
-Rūpanārāyana, title of king Rāmabha. p. 761. 
+Saṅgha, of Vṛṣṇis in Kauṭilīya, p. 218.
 
-dra of Mithilā, pp. 849, 852. Ratnamālā, p. 910n. Ratnāvali, p. 819n. 
+Sāṅgokā, wife of Govardhana, p. 644.
 
-Sabara, pp. 9, 17n., 45, 104, 118, 
+Sañjñātantra, p. 911.
 
-556, 643; quotes Apastamba Dh. Ray, Mr., p. 645. 
+Śaṅkarabhaṭṭa, author of Dvaitanirṇaya, pp. 546, 746, 904, 938; a profound mīmāṁsaka, father of Nīlakaṇṭha, p. 938.
 
-S., p. 65; commented on Sūtra of Rāyamukuta, pp. 347, 839, 893n. 
+Śaṅkarācārya, pp. 43, 65, 115, 118, 145, 443; calls Manusmṛti Mānavam, pp. 145, 327; quotes Āpastambadharmasūtra, p. 65; quotes Gautamadharmasūtra, p. 35; quotes Vasiṣṭha, p. 97; quotes Manusmṛti frequently, pp. 118, 327; com. of, on Viṣṇusahasranāma, p. 379; pupils of, pp. 562–63.
 
-Satyaṣāḍha p. 91; and Manu, p. Remarriage, of women, allowed by | 328; criticizes dharmasītras, p. 148. 
+Śaṅkaragītā, p. 701n.
 
-Nārada, p. 473; of child widows, 
+Śaṅkha-Likhita, dharmasūtra of, pp. 136–142; known from quotations only, p. 14; bhāṣyakāra of, p. 140; [[P1280]] date of, p. 142; doctrines of, pp. 140–42; story of, in Mahābhārata, p. 136; studied by Vājasaneyins, pp. 20, 136; and Aparārka, pp. 716–17.
 
-Sabdaratna, of Haridikṣita, p. 965. allowed by Vasistha, p. 105; prohi bited by Manu, p. 205; allowed by Śabdendusekhara, of Nāgoji, p. 964. Kautilya to widows and even wives 
+Śaṅkha, smṛti of, p. 103.
 
-Sabhā, meaning of, pp. 625–26. whose husbands have not been heard 
+Śaṅkhadhara, pp. 636, 701n., 728.
 
-Saccaritarakṣā, of Vedāntadesika, of for a year or more, p. 205. 
+Sāṅkhya, pp. 281, 528.
 
-pp. 819, 820. Renou, Prof. L., pp. 125, 157. 
+Sāṅkhyakārikā, pp. 281, 576–77.
 
-Ṣadaśiti, p. 724; com. Suddhican Repudikṣita, p. 736. 
+Saṅkṣepa-Śaṅkarajaya, p. 562.
 
-drikā on, p. 915. Res Judicata, rule of, in Katyāyana, 
+Sanmārgadīpikā, p. 819.
 
-p. 501. 
+Ṣaṇṇavatiśrāddhanirṇaya, of Śivabhaṭṭa, p. 564.
 
-Sadhārana, father of Madanapāla, 
+Sanskṛt, official language, according to Kauṭilya, p. 210.
 
-p. 801; brought about the remission Re-union, rights of full brother 
+Sāntapana, defined by Viṣṇudharmasūtra, p. 125.
 
-of taxes at three tirthas, p. 800; a superior to half brother, pp. 824–25. 
+Śāntarakṣita, pp. 309n., 345n.
 
-city (modern Saharanpur), p. 916. Reviling, examples of, pp. 744-45. Rgveda, word dharma in, pp. 1-2; a 
+Śāntikaustubha, p. 940.
 
-Saduktikarṇāmsta, of Sridharadāsa, 
+Śāntimayūkha, p. 941.
 
-p. 630. hymn from, as regards marriage, p. 7; a bymn of, quoted by Medhā. 
+Śāntiratna, of Kamalākara, pp. 926, 927; contents of, p. 928; also called Śāntiratnākara, p. 926n.
 
-Ṣadviinsabrāhmana, p. 732n. tithi in connection of niyoga, p. 321n.; Sāgara, p. 770n. 
+Sapiṇḍa, relationship, p. 334n.; limits of, p. 432; meaning of, according to Mitākṣarā, p. 613.
 
-La 
+Sapiṇḍīmañjarī, of Nāgoji, p. 964.
 
-General Index 
+Sāpiṇḍyadīpikā, of Nāgoji, p. 964.
 
-1279 
+Saptanātha, temple of, p. 791; liṅga of, established by Mādhava-Mantrin, p. 791.
 
-Sahagila, family of Saharanpur, p. 
+Saptārṣa, a sacred place, p. 121.
 
-916. Sāhāraṇa, same as Sādhārana, p. 
+Saptaśatiprayogavidhi, p. 964n.
 
-801. Sāhasa, meaning of, p. 540; five kinds of, p. 857; witnesses in charges 
+Saptasūtra-saṁnyāsapaddhati, p. 563.
 
-of, 271. Sāhityadarpana, pp. 557, 647. Sāhudiyala, section of brāhmanas in 
+Śarabhaṅga, a pupil of Śatātapa, p. 295.
 
-Bengal, p. 838. Sakas, mentioned by Manu, p. 331. Śākuntala, pp. 168, 169. Salatore, Dr. B. R., p. 644. Sale, without consent of members of 
+Śaraṇadeva, author of Durghaṭavṛtti, p. 747.
 
-family, p. 299; for arrears of revenue, p. 299; necessity of writ 
+Sāraṅgī, united with Mandapāla, p. 336.
 
-ing for completing, p. 522. Śālihotra, p. 732n. a Sāmavedin sage, 
+Sarasvatīkaṇṭhābharaṇa, of Bhoja, p. 585.
 
-p. 25. Śalikanātha, p. 8751. Salomons, J. W., p. 290. Sālva, a country, people of, p. 82-83. Samā nodaka, p. 313. Samantasena, of Cāndravaṁsa. p. 
+Sarasvatīvilāsa, pp. 8n., 127, 293, 294n., 297, 502, 548, 549, [[560|566]], 640, 719, 869–879; quoted by Smṛticandrikā, p. 741; ascribed to Lolla Lakṣmīdhara by Gode and R. Subrahmanyam, p. 877; quotes Varadarāja several times, p. 823.
 
-733. Sāmaśravas, addressed by Yāj., 
+Sarasvatī, wife of Ādideva, p. 644.
 
-Trears 
+Śarāvatī, river, location of, 67n; country north of, called Udīcya, p. 67.
 
-rev 
+Sārāvalī, a work on astrology, pp. 182, 718, 910n.
 
-Sarihitāsārāvali, p. 910n. Samkara, of nine kinds, p. 490. Sarkarsakānda, p. 593. Sarinyāsa, meaning of, p. 581. Samnyasin, p. 273; four kinds of, 
+Śārīrakabhāṣya, of Śaṅkara, p. 447.
 
-pp. 521, 783. Samrāṭ, definition of, pp. 227–28. Samsārapaddhatirahasya, p. 652. Samiskārakaustubha, of Anantadeva, 
+Sarkar, Benoy Kumar, pp. 272, 951n.
 
-pp. 483, 489, 953; quotes views of Sridhariya, p. 726; contents 
+Sarkar, [[D. G.|D. C.]], p. 967.
 
-of, p. 954. Sariiskāramayūkha, pp. 3041., 309, 
+Sarkar, Golapchandra, p. 942.
 
-505, 938. Sanskāraratnamālā, p. 964n. Sarnsārasaukhya, p. 913. Sarvarta, pp. 541-543. Samvatsarapradipa, quoted by Raghunandana, p. 637; not a work 
+Sarkar, H. B., p. 398.
 
-Sūlapāni, p. 826. Sandarbhasīcikā, com. on Hāralatā, 
+Sarkar, Prof. Jadunath, p. 897n.
 
-p. 729. Śāṇdilya, p. 504. Sāndilyāyana, p. 504. Sangha, of Vroṇis in Kauṭiliya, 
+Sarma, Pandita K. Madhava Krishna, pp. 907, 952.
 
-p. 218. Sangokā, wife of Govardhana, p. 644. Sañjñātantra, p. 911, Śhaṅkarabhafta, author of Dvaita nirṇaya, pp. 546, 746, 904, 938; a profound mimamsaka, father of 
+Sarvadarśana-saṁgraha, p. 748.
 
-Nilakangha, p. 938. Sarkarācārya, pp. 43, 65, 115, 118, 
+Sarvadhikari, pp. 658, 803, 893.
 
-145, 443; calls Manusmṛti Māna vam, PP. 145, 327; quotes Apa stambadharmasītra, p. 65; quotes Gautamadharmasūtra, p. 35; quotes Vasisha, p. 97; quotes Manu smṣti frequently, pp. 118, 327; com. of, on Viṣṇuṣahasranāma, p. 
+Sarvajñanārāyaṇa, commentator of Manu, pp. 881, 917n.
 
-379; pupils of, pp. 562-63. Śhaṅkaragitā, p 701n. Sarkha-Likhita, dharmasūtra of, pp. 
+[[Sarvaśkāhāpratyayanyāya|Sarvaśākhāpratyayanyāya]], p. 902.
 
-136-142; known from quotations only, p. 14; bhāṣyakāra of, p. 140; 
+Śāstradīpikā, of Pārthasārathimiśra, pp. 905, 938; com. on, by Nārāyaṇabhaṭṭa, p. 905; com. on by Śaṅkarabhaṭṭa, p. 938; relied on Brāhmaṇasarvasva, p. 628.
 
-p. 431. 
+Sastri, Chinnaswami A., p. 642.
 
-Sāmavidhāna Brāhmana, p. 22. Śāmavit, king of Delhi, p. 861. Samaya, several meanings of, p. 4n. Samayapradipa, of Sridatta, pp. 762, 
+Sastri, Pattabhiram, p. 642.
 
-770n., 841; quoted by Raghu 
+Sastry, Mr. P. L., p. 785n.
 
-nandana, p. 763. Samayapradipa, astrological work of 
+Śaṭakopa, guru of Govindarājan, p. 405.
 
-Harihara, p. 737. Samba, Upapurāṇa, p. 416. Sambandhacintāmani, p. 851n, Sambhramabhaṭṭa, p. 701n. Sambhu, author of Kamadhenu 
+Śatapathabrāhmaṇa, pp. 8n., 9, 95, 211, 421, 422.
 
-according to Aufrecht, pp. 618; writer of digests, pp. 572, 618, 725, 738; relied on by Sridhara, 
+Śātātapa, pp. 294–296, 795, 797.
 
-p. 725. Sarngraha, vide Smptisamgraha. 
+Śātātapīya-Karmavipāka, p. 795.
 
-1280 
+Satavlekar, Shri, p. 25.
 
+Satī, practice of, p. 508; recommended by Viṣṇudharmasūtra, p. 121; eulogised by Hārīta, p. 133; recommended to all women except brāhmaṇa women, p. 284; eulogised by Parāśara, p. 462.
 
+[[P1281]] Śatruñjaya, king of Sauvīra, p. 291.
 
-date of, p. 142; doctrines of, pp. Smṛticandrikā, p. 741; ascribed to 140-42; story of, in Mahābhārata, Lolla Laksmidhara by Gode and p. 136; studied by Vājasaneyins, R. Subrahmanyam, p. 877; quotes pp. 20, 136; and Aparārka, pp. Varadarāja several times, p. 823. 716–17. 
+Ṣaṭ-triṁśanmata, pp. 303, 535–537, 701n.
 
-Sarasvati, wife of Ādideva, p. 644. Saṅkha, smsti of, p. 103. 
+Saudāyika, a kind of strīdhana, p. 534.
 
-Sarāvati, river, location of, 67n; Saṅkhadhara, pp. 636, 7019., 728. 
+Śaunaka, p. 805; author of Caraṇavyūha, pp. 158, 257; named by Manusmṛti, pp. 302, 315; author of Praṇavakalpa, p. 753.
 
-country north of, called Udicya, Sāökhya, pp. 281, 528. 
+Saundaryalaharī, of Śaṅkarācārya, p. 877.
 
-P. 67. Sāṅkhyakārikā, pp. 281, 576–77. Sārāvali, a work on astrology, pp. Saṅkṣepa-Śhaṅkarajaya, p. 562. 
+Saurapurāṇa, p. 417.
 
-182, 718, 910n. Sanmārgadipikā, p. 819. 
+Sauvīra, country of, pp. 49, 219, 291.
 
-Śārirakabhisya, of Śhaṅkara, p. 447. Ṣansavatiśrāddhanirṇaya, of Śiva- Sarkar, Benoy Kumar, pp. 272,951n. 
+Savai Jaising, p. 967.
 
-bhaļļa, p. 564. 
+Sāyaṇa, p. 789; was a Baudhāyanīya, p. 47; brother of Mādhavācārya, pp. 785–87; works of, p. 787n., kulaguru of Harihara, son of Saṅgama, p. 786.
 
-Sarkar, D. G., p. 967. Sanskst, official language, according Sarkar, Golapchandra, p. 942. 
+Sayce, Prof. A. H., pp. 189n., 221.
 
-to Kautilya, p. 210. 
+Śava-sūtikāśauca-prakaraṇa, of Bhavadevabhaṭṭa, pp. 647, 648.
 
-Sarkar, H. B., p. 398. Santapana, defined by Viṣṇudharma. 
+[[Sciefner|Schiefner]], A., p. 214.
 
-Sarkar, Prof. Jadunath, p. 897n. sūtra, p. 125. 
+Sea-faring, peculiar to the north, p. 48.
 
-Sarma, Pandita K. Madhava Krishna, śāntarakṣita, pp. 309n., 345n. 
+Sehgal, Dr. S. R., p. 111n.
 
-pp. 907, 952. Śāntikaustubha, p. 940. 
+Sehund, a city, p. 881.
 
-Sarvadarśana-samgraba, p. 748. śāntimayūkha, p. 941. 
+Śelārvāḍī, near Poona, p. 715.
 
-Sarvadhikari, pp. 658, 803, 893. śāntiratna, of Kamalākara, pp. 926, | Sarvajñanārāyana, commentator of 
+Seleucus, and Candragupta, p. 172; stands for Śailūṣa, p. 173.
 
-927; contents of, p. 928; also Manu, pp. 881, 917n. called Santiratnākara, p. 926n. Sarvaśkāhāpratyayanyāya, p. 902. Sapinda, relationship, p. 334n.; limits Śāstradipiki, of Pārthasāsathimiśra, 
+Self-acquisitions, what are, pp. 460–461; according to Jitendriya, pp. 594–95; according to Bālaka, p. 595.
 
-of, p. 432; meaning of, according 
+Seth, K. C., p. 179.
 
-pp. 905, 938; com. on, by Nārā. to Mitākṣarā, p. 613. 
+Setlur, Mr. S. S., pp. 553, 799, 800.
 
-vanabhatta, p. 905; com. on by Sapindīmañjari, of Nāgoji, p. 964. Śhaṅkarabhatta, p. 938; relied on Sāpindyadipikā, of Nāgoji, p. 964. Brāhmaṇasarvasva, p. 628. Saptanātha, temple of, p. 791; linga 
+Setudarpaṇī, com. on Setubandha, p. 843.
 
-Sastri, Chinnaswami A., p. 642. of, established by Madhava-Man- Sastri, Pattabhiram, p. 642. trin, p. 791. 
+Sewel, p. 876.
 
-Sastry, Mr. P. L., p. 785n. Saptārga, a sacred place, p. 121. 
+Shah, Dr. Miss Priyabala, p. 958.
 
-Saṭakopa, guru of Saptaśatiprayogavidhi, p. 964n. 
+Shamshastri, Dr. R., pp. 24, 39, 154, 156, 215, [[240, 663|248, 869]].
 
-Govindarājan, Saptasūtra-sarinyāsapaddhati, p. 563. 
+Siddhalagrāma, p. 644.
 
-p. 405. Sarabhanga, a pupil of Śatātapa, 
+Siddhāntagarbha, p. 801.
 
-Śatapathabrāhmaṇa, pp 8n., 9, 95, p. 295. 
+Siddhāntas, four kinds of, p. 188.
 
-211, 421, 422. Saranadeva, author of Durghatavștti, 
+Siddhāntaśiromaṇi, pp. 781, 910n.
 
-Śātātapa, pp. 294–296, 795, 797. p. 747. 
+Śilāhāras, dynasty of, said to have sprung from Vidyādhara Jīmūtavāhana, pp. 713–14; three branches of, pp. 721–22.
 
-Śātātapiya-Karmavipāka, p. 795. Sārangi, united with Mandapāla, Satavlekar, Shri, p. 25. 
+Sindhu, p. 249.
 
-p. 336. 
+Sindhula or Sindhurāja, p. 589.
 
-Sati, practice of, p. 508; recommend. Sarasvatikanghābharaṇa, of Bhoja, 
+Sinha, Dr. B. P., p. 632.
 
-ed by Viṣli udharmasītra, p. 121; p. 585. 
+Sister, unmarried, entitled to one-fourth share as provision for marriage, pp. 549, 565, 581; not placed high as an heir by Kamalākara, p. 929.
 
-culogised by Harita, p. 133; Sarasvativilāsa, pp. 8n., 127, 293, recommended to all women except 
+Śiśukṛcchra, an easy penance for children and old men, pp. 102, 147.
 
-294n., 297, 502, 548, 549, 560, brahmana women, p. 284; eulogised 640, 719, 869-879; quoted by 1 by Parāśara, p. 462.General Index 
+Śiśupāla, p. 261.
 
-1281 
+Sitaram Sastri, Mr., p. 553.
 
-T21 
+Śivabhaktidāsa, p. 557n.
 
-Satruñjaya, king of Sauvira, p. 291. | Siddhāntagarbha, p. 801. Ṣat-trimśanmata, pp. 303, 535-537, Siddhāntas, four kinds of, p. 188. 
+Śivabhaṭṭa, p. 564.
 
-701n. 
+Śivadatta, p. 750n.
 
-Siddhāntaśiromaṇi, pp. 781, 910n. Saudāyika, a kind of stridhana, Silāhāras, dynasty of, said to have 
+Śivarahasyapurāṇa, pp. 732, 747.
 
-P. 534. 
+Śivarāma, author of Kṛtyacintāmaṇi, pp. 565, 582n.
 
-sprung from Vidyādhara Jimūta Saunaka, p. 805; author of Caraṇa- vā hana, pp. 713–14; three branches 
+Śivasahāya, commentator of Rāmāyaṇa, p. 405.
 
-vyūha, pp. 158, 257; named by of, pp. 721-22. Manuṣmṛti, pp. 302, 315; author Sindhu, p. 249. of Pranavakalpa, p. 753. 
+Śivasvāmin, pp. 574, 738, 779, 794n.
 
-Sindhula or Sindhurāja, p. 589. Saundaryalahari, of Saṅkarācārya, ! 
+Śivavākyāvalī, of Caṇḍeśvara, p. 769.
 
-Sinha, Dr. B. P., p. 632. P. 877. 
+Skandapurāṇa, pp. 415, 416, 715, 935; view of, about veśyās, p. 414.
 
-Sister, unmarried, entitled to one Saurapurāṇa, p. 417. 
+Slaves, kinds of, according to Manu and Nārada, p. 473; who could be, according to varṇas, p. 497.
 
-fourth share as provision for Sauvira, country of, pp. 49, 219, marriage, pp. 549, 565, 581; not 
+Śloka-Gautama, p. 38.
 
-291. 
+Śloka-Kātyāyana, p. 502.
 
-placed high as an heir by Kamalā Savai Jaising, p. 967. 
+Ślokavārtika, p. 643.
 
-kara, p. 929. 
+Smārtabhaṭṭācārya, p. 950n.
 
-Sāyaṇa, p. 789; was a Baudhayaniya, 
+Smārtasamuccaya, p. 924.
 
-Sisukrcchra, an easy penance for p. 47; brother of Midhavācārya, 
+Smith, Vincent, p. 911.
 
-children and old men, pp. 102, 147. pp. 785-87; works of, p. 787n., Śiśupīla, p. 261. kulaguru of Harihara, son of 
+Smṛtis, pp. 299–306; number of, pp. 302–304; age of, pp. 304–305; authority of, p. 306; meaning of, [[P1282]] pp. 299–300; discarded, when in conflict with śruti, p. [[61|64]]; divided by Padmapurāṇa into three groups of *sāttvika*, *rājasa* and *tāmasa*, p. 416; option, when in conflict with purāṇas, p. 867.
 
-Sitaram Sastri, Mr., p. 553. Sangama, p. 786. Sayce, Prof. A. H., pp. 189n., 221. 
+Smṛtibhāskara, p. 738.
 
-Śivabhaktidāsa, p. 5571. 
+Smṛticandrikā, pp. 89, 90, 131, 270, 271, 273, 295, 468, 470, 487n., 591, 621, 737–741, 822; quotes 20 verses from Vṛddha-Vasiṣṭha, p. 112; quotes Viṣṇu about 225 times, p. 120; quotes about 70 verses from Bṛhaspati, p. 489; several verses of Bhṛgu, p. 498; quotes profusely from Devasvāmin, p. 593; frequently cites and refutes the views of Śambhu on vyavahāra, p. 622; and Mitākṣarā, pp. 740–41; South Indian work on Dharmaśāstra, p. 819; quotes from Saṁgrahakāra, pp. 819, 820; date of, 821.
 
-Sava-ṣūtikāśauca-prakarana, of Bhava. 
+Smṛticandrikā, of Bhavadeva, p. 652.
 
-Śivabhatta, p. 564. devabhatta, pp. 647, 648. 
+Smṛtidarpaṇa, p. 847n.
 
-Śivadatta, p. 750n. Sciefner, A., p. 214. 
+Smṛtikaumudī, pp. 792, 797; subjects dealt with in, p. 798; works and authors mentioned in, p. 799.
 
-Śivarahasyapurāṇa, pp. 732, 747. Sea-faring, peculiar to the north, Śivarīma, author of Kftyacintāmani, 
+Smṛtikaustubha, of Anantadeva, p. 953; contents of, p. 954.
 
-p. 48. 
+Smṛtimahārṇava, pp. 287n., 655, 794n.
 
-pp. 565, 582n. Sehgal, Dr. S. R., p. 1111. 
+Smṛtimañjarī, of Govindarāja, pp. 297n., 756, 758, 761, 794n.
 
-Śivasabāya, commentator of Rāmā. Sehund, a city, p. 881. 
+[[Smṛtimañjuṣā|Smṛtimañjūṣā]], pp. 761, 775, 849n.
 
-yaṇa, p. 405. Selirvādi, near Poona, p. 715. 
+Smṛtimīmāṁsā, pp. 701n., 718.
 
-Śivasvāmin, pp. 574, 738, 779, 794n. Seleucus, and Candragupta, p. 172; 
+Smṛtimuktāphala, of Vaidyanātha Dīkṣita, p. 815.
 
-Śivavākyāvali, of Can Jeśvara, p. 769. stands for Sailūṣa, p. 173. 
+Smṛtiparibhāṣā, pp. 847n., 858, 860.
 
-Skandapuralia, pp. 415, 416, 715, 
+Smṛtipradīpa, pp. 725, 849.
 
-935; view of, about veśyās, p. 414. Self-acquisitions, what are, pp. 460– 
+Smṛtiratnākara, of Vedācārya, p. 642; of Caṇḍeśvara, p. 763.
 
-461; according to Jitendriya, pp. Slaves, kinds of, according to Manu 594–95; according to Balaka, 
+Smṛtiratnāvali, p. 509.
 
-and Nirada, p. 473; who could be, p. 595. 
+Smṛtiratnaviveka, p. 770n.
 
-according to varṇas, p. 497. Seth, K. C., p. 179. 
+Smṛtisāgara, a digest of Kullūkabhaṭṭa, pp. 758, 847n.
 
-Sloka-Gautama, p. 38, Setlur, Mr. S. S., pp. 553, 799, 800. | Sloka-Kātyāyana, p. 502. Setudarpani, com. on Setubandha, ślokavārtika, p. 643. 
+Smṛtisaṁgraha, pp. 537–541, 592; view about widow's right of succession, pp. 539, 558.
 
-Smārtabhaīļācārya, p. 950n. Sewel, p. 876. 
+Smṛtisaṁgraha, of Varadarāja, pp. 819, 820.
 
-Smārtasamuccaya, p. 924. Shah, Dr. Miss Priyabala, p. 958. 
+Smṛtisamuccaya, pp. 701n., 845.
 
-Smith, Vincent, p. 911. Shamshastri, Dr. R., pp. 24, 39, 154, 
+Smṛtisāra, pp. 571, 572, 596, 623, 775–777, 841n.; quoted by Mitramiśra, p. 945.
 
-Smstis, pp. 299–306; number of, pp. 156, 215, 240, 663. 
+Smṛtisindhu, of Nandapaṇḍita, p. 916.
 
-302-304; age of, pp. 30+305; Siddhalagrāma, p. 614. 
+Smṛtitattva, digest of Raghunandana, p. 890.
 
-authority of, p. 300; meaning of, 
+Smṛtitattvāmṛta, of Vardhamāna, p. 858.
 
-P. 813. 
+Smṛtisāroddhāra, of Vardhamāna, p. 858.
 
-H, D.-161 
+Smṛtiviveka, of Vardhamāna, p. 858.
 
-1282 
+Smṛtiviveka, a work of Medhātithi, p. [[382|582]]; digest of Śūlapāṇi, p. 825.
 
+Smṛtyarthasāra, pp. 572, 617, 618, 619, 621, 622, 663, 724, 725–727, 738.
 
+Snātaka, p. 41; rules about, pp. 44, [[94|90]]; code of conduct for a, p. 313.
 
-nul 
+Somadeva, p. 193.
 
-pp. 299-300; discarded, when in Smṭtisamgraha, pp. 537–541, 592; conflict with śruti, p. 61; divided view about widow's right of suc by Padmapurāṇa into three groups cession, pp. 539, 558. of sāttvika, rajasa and cāmasa, p. 
+Someśvara, commentator of Tantravārtika, p. 863.
 
-Smṛtisa'ngraha, of Varadarāja, pp. 416; option, when in conflict with 
+Son, adopted, p. 8; adoption of only, or eldest, p. 955; importance of, p. 8; kṣetraja, p. 8; eleven varieties of subsidiary, pp. 50, 73, 490; largest share allowed to eldest, p. 50; that are condemned by Āpastamba, p. 73; what debts of father not bound to repay, p. 271; thirteen kinds of, mentioned by Manu, p. 329; only four kinds of, mentioned by Parāśara, p. 462; equal rights of, with father in ancestral property, pp. 532, 613; special share of eldest, pp. 539, 607; whether has ownership by birth, p. 538; of brāhmaṇa from śūdra wife, share of, p. 561; illegitimate, of śūdra, p. 561; has no ownership by birth in ancestral property, [[P1283]] according to Dāyabhāga, p. 704; ownership of father over, p. 941.
 
-819, 820. purā l:as, p. 867. 
+Śrāddha, foods forbidden in, p. 291; foods proper to be used in, by different castes, p. 516; performance of, on 13th tithi by one having a son, p. 662; should be performed in accordance with directions in all kalpa [[w.rks|works]] and smṛtis, p. 751.
 
-Smstisamuccaya, pp. 701n., 845. Smstibhāskara, p. 738. Smṛticandrikā, pp. 89, 90, 131, 270, 
+Śrāddhacandrikā, pp. 838n., 893n.
 
-Smytisāra, pp. 571, 572, 596, 623, 271, 273, 295, 468, 470, 487n., 
+Śrāddhacintāmaṇi, of Vācaspati, pp. 702, 846, 848, 852; quoted in Śrāddhakriyākaumudī, pp. 883, 886.
 
-775-777, 841n.; quoted by Mitra 591, 621, 737-741, 822; quotes 
+Śrāddhadīpikā, of [[Govindapaṇ lita|Govindapaṇḍita]], p. 916.
 
-miśra, p. 945. 20 verses from Vrddha-V'asistha, Sniśtisindhu, of Nandapandita, p. 916. p. 112; quotes Viṣṇu about 
+Śrāddhadīpikā, of Śrīnātha, p. 838n.
 
-Smṭlitattva, digest of Raghunandana, 225 times, p. 120; quotes about 
+Śrāddhakalikā, p. 565; Viśvarūpa's vivaraṇa of, p. 565.
 
-p. 890. 70 verses from Bphaspui, p. 
+Śrāddhakalpa, p. 841n.
 
-Smstitattvāmsta, of Vardhamāna, 489; several verses of Blusu, p. 498; quotes profusely from 
+Śrāddhakalpa, of Śrīdhara, p. 761.
 
-p. 858. Devasvāmin, p. 593; frequently Smytisāroddhāra, of Vardhamana, cites and refutes the vicws of p. 838. Sambhu on vyavahāra, p. 622; 
+Śrāddhakalpa, of Vācaspati, pp. 850, 851.
 
-Smṛtiviveka, of Vardhamana, p. 858. and Mitūksarā, pp. 740-41; South Indian work on Dharmajastra, 
+Śrāddhakalpacintāmaṇi, p. 847n.
 
-Smṭtiviveka, a work of Medhātithi, p. 819; quotes from Saingrahakūra, 
+Śrāddhakalpalatā, p. 915.
 
-p. 382; digest of Śūlapāṇi, p. 825. pp. 819, 820; date of, 821. 
+Śrāddhakalpasūtra, of Kātyāyana, pp. 636, 639.
 
-Smstrarthasara, pp. 572, 617, 618, Smsticandrikā, of Bhavadeva, p. 652. 619, 621, 622, 663, 724, 725–727, Smṛtidarpana, p. 847n. 
+Śrāddhakamala, p. 916n.
 
-738. Smrtikaumudi, pp. 792, 797: Sub. Snātuka, p. 41; rules about, pp. 44, 
+Śrāddhakāśikā, pp. 639, 916n.
 
-jects dealt with in, p. 798; works 94; code of conduct for a, p. 313. 
+Śrāddhakaumudī, pp. 702, 882.
 
-and authors mentioned in, p. 799. Sonadeva, p. 193. Smrtikaustubha, of Anantadeva, p. Sonieśvara, commentator of Tantra 
+Śrāddhakriyākaumudī, pp. 586n., 729, 842, 882, 886.
 
-953; contents of, p. 954. 
+Śrāddhakṛtyapaddhati, of Paśupati, p. 626.
 
-vīrtika, p. 863. Smstimahārnava, pp. 287n., 655, | Son, adopted, p. 8; adoption of only, 
+Śrāddhamayūkha, pp. 273, 639, [[910|940]].
 
-794n. 
+Śrāddhanirṇaya, p. 916n.
 
-or eldest, p. 955; importance of, Smṛtimañjari, of Govindarīja, pp. 1 p. 8; kṣetraja, p. 8; eleven varieties 
+Śrāddhapallava, pp. [[84:n, 8171.|841n., 847n.]], 910n.
 
-297n., 756, 758, 761, 794n. 
+Śrāddhapañjī, pp. 841n., 847n.
 
-of subsidiary, pp. 50, 73, 490; Smstimañjuśā, pp. 761, 775, 849n. 
+Śrāddhapradīpa, pp. [[8191|849n.]], [[9101.|916n.]]
 
-largest share allowed to eldest, p. 
+Śrāddhasāgara, of Kullūka, p. 758.
 
-50; that are condemned by Apas Smstimimaṁsā, pp. 7016., 718. 
+Śrāddhasaukhya, pp. 563, 909, 910.
 
-tainba, p. 73; what debts of father Smptimuktāphala, of Vaidyanitha not bound to repay, p. 271; thir 
+Śrāddhatattva, p. 588.
 
-Diksita, p. 815. 
+Śrāddhaviveka, of Rudradhara, pp. 588, 761, 773, [[810-841|840–841]].
 
-tecn kinds of, mentioned by Manu, Smṛtiparibhaṣā, pp. 847n., 858, 860. 
+Śrāddhaviveka, of Śūlapāṇi, pp. 825, 837; commentaries on, p. 838; referred to in Smṛtiratnākara, p. 839; mentioned by Rudradhara, p. 842.
 
-p. 329; only four kinds of, menti 
+Śrāddhenduśekhara, of Nāgoji, p. [[961|964]].
 
-oned by Parāśara, p. 462; equal Smstipradipa, pp. 725, 849. 
+Śrāmaṇaka meaning of, pp. 32, 45, 103, 257.
 
-rights of, with father in ancestral Smstiratnikara, of Vedācārya, P. property, pp. 532, 613; special 
+Śramaṇas, p. 5n.; antipathy between brāhmaṇas and, in Patañjali's time, p. 6n.
 
-642; of Candesvara, p. 763. 
+Śreṇis or corporations, p. 218.
 
-share of eldest, pp. 539, 607; whe Smstiratnāvali, p. 509. 
+Śrībhāṣya, of Rāmānuja, pp. 678, 679, 680.
 
-ther has ownership by birth, p. 
+Śrīdatta, pp. [[536|586]], 587, 621, 759–763, 770n., 854, 893n., 930n.
 
-538; of brāhmaṇa from sūdra wife, Smṛtiratnaviveka, p. 770n. 
+Śrīdattamiśra, author of Ekāgnidānapaddhati, p. 763.
 
-share of, p. 561; illegitimate, of Smftisāgara, a digest of Kullūka. śūdra, p. 561; has no ownership 
+Śrīdharācārya, pp. 617, 663, 724; author of Smṛtyarthasāra, pp. 725–727.
 
-blatta, pp. 758, 847n. 
+Śrīdharadāsa, author of Saduktikarṇāmṛta, p. 630.
 
-by birth in ancestral property, 
+Śrīdharasvāmin, commentator of Bhāgavatapurāṇa, pp. 378, 379, 886, 953.
 
-General Index 
+Śrīdharīya, p. 726.
 
-1283 
+Śrīkaṇṭha, author of digest on dharma, pp. 572, 725.
 
-according to Dāyabhāga, p. 704; frāddhatattva, p. 588. ownership of father over, p. 941. Śrāddhaviveka, of Rudradhara, pp. 
+Śrīkaṇṭha, guru of Mādhavācārya, p. 785.
 
-a, foods forbidden in, p. 291; 588, 761, 773, 810-841. foods proper to be used in, by 
+Śrīkaṇṭhacarita, of Maṅkha, p. 722.
 
-| Śrāddha viveka, of Stlapāṇi, pp. 825, different castes, p. 516; performance 
+Śrīkara, pp. 571–573, 703, 705, 725, 770.
 
-837; commentaries on, p. 838; of, on 13th tithi by one having a 
+Śrīmatī, mother of Mādhavācārya, p. 785.
 
-referred to in Smṛtiratnākara, p. son, p. 662; should be performed 
+Śrīnātha-ācārya-cūḍāmaṇi, pp. 838n., 892.
 
-839; mentioned by Rudradhara, in accordance with directions in 
+Śrīnivāsa author of Śuddhidīpikā, p. 738.
 
-p. 842. all kalpa w.rks and smstis, p. 751. 
+[[P1284]] Śrīnivāsadāsa, p. 566.
 
-Grāddhendusekhara, of Nāgoji, p. Srāddbacandrikā, pp. 838n., 893n. 
+Śrīparvata, pp. 118, 121.
 
-961. Srāddhacintāmani, of Vācaspati, pp. 
+Śṛṅgāramañjarī, of Bhoganātha, p. 785n.
 
-702, 846, 848, 852; quoted in 
+Śṛṅgāraprakāśa, of Bhoja, p. 585.
 
-Śrāma raka meaning of, pp. 32, 45, Sraddhakrivakaumudi, pp. 883, 
+Śṛṅgavera, a city, p. 965.
 
-103, 257. 886. 
+Śrotriya, property of heirless, does not go to king, p. 285.
 
-framaṇas, p. 5n.; antipathy between Śrāddhadipikā, of Govindapan lita, 
+Stcherbatsky, Dr., p. 5n.
 
-brāhmanas and, in Patañjali's p. 916. 
+Stein, Dr. Otto, pp. 157, 220, 221.
 
-time, p. 6n. Śrāddhadipikā, of Srinādia, p. 838n. frenis or corporations, p. 218. Śrāddhakalikā, p. 565; Viśvarūpa's 
+Sten Konow, pp. 213, 215
 
-Sribhāsya, of Rāmānuja, pp. 678, vivarana of, p. 565. 
+Stenzler, Dr., p. 440.
 
-679, 680. Śrāddhakalpa, p. 841n. 
+Sternbach, Dr., pp. 248, 302.
 
-fridatta, pp. 536, 587, 621, 759– 
+Stotrāpastamba, quoted by Smṛticandrikā, p. 90.
 
-763, 770n., 854, 893n., 930n. friddhakalpa, of Sridhara, p. 761. Śrāddhakalpa, of Vācaspati, pp. 850, 
+Śubhākara, p. 761.
 
-fridattamisra, author of Ekāgnidīna 
+Subodhinī, commentary on Mitākṣarā, pp. 89, 558, 745, 792, 799, 865, 920.
 
-paddhati, p. 763. 851. 
+Subrahmanya, Mr. R. pp. 877, 878.
 
-Sridharācāry), pp. 617, 663, 724; Srāddhakalpacintamani, p. 847n. 
+Succession, order of, according to Saṁgrahakāra, p. 539; propinquity, the guiding principle in, according to the Mitākṣarā, p. 613; superior spiritual benefit gave right to, according to [[Śrīkasa|Śrīkara]] and Dāyabhāga, pp. 571, 704.
 
-author of Smṛtyarthasira, pp. Srāddhakalpalatā, p. 915. 
+Sudarśanācārya, commentator of Āpastambagṛhya, pp. 17, 567.
 
-725-727. Srāddhakalpasūtra, of Katyāyana, pp. Sridharadāsa, author of Saduktikarṇā. 
+Sudās Paijavana, p. 336.
 
-636, 639. 
+Śuddhibimba, p. 840.
 
-mrta, p. 630. Śrāddhakamala, p. 916n. 
+Śuddhicandrikā, of Nandapaṇḍita, p. 915.
 
-Sridharasvāmin, commentator of Śrāddhakāśikā, pp. 6;39, 916n. Bhāgavatapurīna, pp. 378, 379, 
+Śuddhicintāmaṇi, p. 849.
 
-886, 953, Grāddhakaumudi, pp. 702, 882. 
+Śuddhidīpikā, of Nārāyaṇa, p. 347.
 
-Sridhariya, p. 726. Śrāddhakriyākaumudi, pp. 586n., 
+Śuddhidīpikā, of Śrīnivāsa, p. 738.
 
-729, 812, 882, 886. 
+Śuddhikaumudī, of Govindānanda, pp. 586, 882.
 
-Srikantha, author of digest on dhar 
+Śuddhimayūkha, pp. 508, [[910|940]].
 
-ma, pp. 572, 725. Śrāddhakrtyapaddhati, of Pasupati, srikantha, guru of Madhavācārya, 
+Śuddhinirṇaya, of Vācaspati, pp. [[819|849]], 850, 853.
 
-p. 626. 
+Śuddhipradīpa, p. [[810|840]].
 
-p. 785. Sraddhamayukha, pp. 273, 639, 910. śikanthacarita, of Mankha, p. 722. Srādchanir haya, p. 916n. 
+Śuddhiratnākara, pp. 766, 775n.
 
-Srikara, pp. 571-573, 703, 705, 725, Śrāddliapallava, pp. 84:n, 8171., 
+Śuddhitattva, p. 654.
 
-770. 910n. 
+Śuddhiviveka, of Rudradhara, pp. 729, 840, 883.
 
-Srimati, mother of Madhavācārya, Srāddhapañjī, pp. 8117., 847n. 
+Sudhākaramahāmahopādhyāya, p. 849n.
 
-p. 785. 
+Śūdra, prāyaścitta for killing a, p. 126n.; dharmas of, p. 280n.; set forth in Smṛtikaumudī, p. 798; not fit for sacrifice, p 9; usury allowed towards, p. 73; inviting of ascetic, at dinner for gods and manes, fined, p. 219; was not to be appointed judge, p. 335; woman, marriage of, with a dvijāti, pp. 261, 331; illegitimate son of, gets share in father's property, pp. 289, 561; allowed niyoga by Viśvarūpa, 561; can perform Vaiśvadeva and the offerings of *bali*, p. 763; śūdras are vājasaneyins, p. 893; should perform five daily yajñas to the accompaniment of the word ‘namaskāra’ as the mantra, p. 894; could perform tāmasapūjā, p. 895; whether Purāṇa mantra could be recited by, pp. 895–96; Mahābhārata was composed for, p. 896; may adopt daughter's or sister's son, p. 955.
 
-Srinatha-ācārya-cūdamani, pp. 838n., frāddhapradipa, pp. 8191 , 9101. Srāddhasāgara, of Kullāka, p. 758. Srinivasa author of Suddhidipiki, Sraddhasaukhya, pp. 563, 909, 910. ! p. 738. 
+Śūdrācāracintāmaṇi, pp. 846, 851.
 
-Y 
+Śūdrakamalākara, p. 930.
 
-892. 
+Sugatisopāna, of Gaṇeśvaramiśra, pp. 762, 773, 841n., 847n., 893n
 
-1284 
+Śukadevamiśra, author of a Smṛticandrikā, p. 741.
 
+Śukla-Yajurveda, quoted, p. 1n.; Pāraskara Dharmasūtra for, p. 70.
 
+Śukra, author on Politics, p. 210; abridged rājaśāstra, p. 266.
 
-frinivāsadāsa, p. 566. śrīparvata, pp. 118, 121. śrngāramañjarl, of Bhoganātha, p. 
+Śukranītisāra, p. 272.
 
-785n. Érngāraprakāśa, of Bhoja, p. 585. Śrngavera, a city, p. 965. Srotriya, property of heirless, does 
+Śukriya Āraṇyaka, mentioned by Yāj. smṛti, p. [[133|433]].
 
-not go to king, p. 285. Stcherbatsky, Dr., p. 5n. Stein, Dr. Otto, pp. 157, 220, 221. Sten Konow, pp. 213, 215 Stenzler, Dr., p. 440. Sternbach, Dr., pp. 248, 302. Stotrāpastamba, quoted by Smsti 
+Sukthankar, Dr. V. S., pp. 354, 356, [[366,|366.]]
 
-candrīki, p. 90. Subhākara, p. 761. 
+[[P1285]] Sulabhā Maitreyī, p. 895.
 
-Subodhini, commentary on Mitāksarā, 
+Śulka, succession to, p. 550.
 
-pp. 89, 558, 745, 792, 799, 865, 
+Śūlapāṇi, pp. 588, 596, 701, 776, 823–840
 
-920. Subrahmanya, Mr. R. pp. 877, 878. Succession, order of, according to 
+Sumanottarā, an Ākhyāyikā, p. 81.
 
-Samgrahakāra, p. 539; propinquity, the guiding principle in, according to the Mitāksarā, p. 613; superior spiritual benefit gave right to, ac cording to Srikasa and Dayabhāga, 
+Sumantu, pp. 296–299, a sūtra-writer on dharma, pp. 296–97; a pupil of Jaimini, p. 298.
 
-pp. 571, 704. Sudarsanācārya, commentator of 
+Sumati Bhārgava, p. 309.
 
-Apastambagphya, pp. 17, 567. Sudās Paijavana, p. 336. Suddhibimba, p. 840. Suddhicandrikā, of Nandapandita, 
+Śunaḥśepa, story of, pp. 8, 95.
 
-p. 915. Suddhicintīmaṇi, p. 849. Suddhidipikā, of Nārāyana, p. 347. Suddhidipikā, of Śrīnivāsa, p. 738. Suddhikaumudi, of Govindānanda, 
+Sunīti, Mitramiśra's sister, p. 948.
 
-pp. 586, 882. Suddhimayūkha, pp. 508, 910. Suddhinirṇaya, of Vācaspati, pp. 
+Śūrasena (Mathurā), p. 875.
 
-819, 850, 853. 
+Sureśvara, identified with Viśvarūpa by Mādhava, pp. 65, 149, 562–64.
 
-Suddhipradipa, p. 810. Suddhiratnākara, pp. 766, 775n. Suddhitattva, p. 654. Suddhiviveka, of Rudradhara, pr. 
+Surety, p. 289; kinds of, pp. 532, 545; liability of son of, when he goes abroad or dies, pp. 497, 724.
 
-729, 840, 883. Sudhakaramahāmahopadhyāya, p. 
+Sūryapaṇḍita, guru of Dalapati, p. 862; father of Ekanātha, p. 862.
 
-849n. Sūrlra, prāyaścitta for killing a, p. 
+Sūryasiddhānta, pp. 126, 732n.
 
-126n.; dharnas of, p. 280n.; set forth in Smṛtikaumudi, p. 798; not fit for sacrifice, p 9; usury allowed towards, p. 73; inviting of ascetic, at dinner for gods and manes, fined, p. 219; was not to be appo. inted judge, p. 335; woman. marriage of, with a dvijāti, pp. 261, 331; illegitimate son of, gets share in father's property, pp. 289, 561; allowed niyoga by Viśvarūpa, 561; can perform Vajśvadeva and the offerings of bali, p. 763; stidras are vajasaneyins, p. 893; should perform five daily yajñas to the accompaniment of the word 
+Sūryasiddhāntaviveka, of Madanapāla, pp. 801, 804.
 
-namaskāra' as the mantra, p. 894; could perform tā masapūjā, p. 895; whether Purāpa mantra could be recited by, pp. 895–96; Mahābhārata was composed for, P. 896; may adopt daughter's or sister's son, p. 955. Śūdrācāracintīmani, pp. 846, 851. Sūdrakamalā kara, p. 930. Sugatisopāna, of Gabeśvaramiśra, pp. 
+Suśruta, pp. 118, 216, 246, 732n., 865.
 
-762, 773, 8411., 847n., 893n Sukadevamiśra, author of a Smsti. 
+Sūta, caste of, pp. 142, 246, 267.
 
-candrikā, p. 741. Sukla-Yajurveda, quoted, p. 1n.; Para 
+Sūtaka, meaning of, p. 648.
 
-skara Dharmasītra for, p. 70. Sukra, author on Politics, p. 210; 
+Sutherland, translated Dattakamīmāṁsā, pp. 920, 921.
 
-abridged rājasāstra, p. 266. Sukranitisāra, p. 272. Sukriya Āralyaka, mentioned by 
+Suvarṇa, same as dīnāra, p. 477; value of, pp. 487, 532, 859.
 
-Yaj. smsti, p. 133. Sukthankar, Dr. V. S., pp. 354, 356, 
+Svairiṇīs, four kinds of, p. 473.
 
-366, 
+Svalpa-Saṁvarta, p. 543.
 
-General Index 
+Śvapāka, mentioned in Gītā, p. 73; avocations of, p. 142.
 
-$285 
+Svāyambhuva Manu, pp. 206, 308, 311, 321.
 
-p. 911. 
+Svāyambhuva śāstra, four versions of, p. 309.
 
-5n. 
+Śvetaketu, named by Āpastamba, p. 61.
 
-Sulabhā Maitreyi, p. 895, 
+Tadpatrikar, Mr. S. N., p. 407.
 
-| Tagore, Sourindramohan, pp. 624, Sulka, succession to, p. 550. 
+Tagara, p. 714.
 
-632. Sūlapāṇi, pp. 588, 596, 701, 776, Tailapa, p. 590. 
+Tagore, Prasannakumar, p. 626; translated Vyavahāracintāmaṇi, pp. [[843|845]], 852.
 
-823–840 
+Tagore, Sourindramohan, pp. 624, 632.
 
-Taitala, p. 219. Sumanottarā, an Ākhyāyikā, p. 81. Taittiriya-Aranyaka, pp. 23n., 100, Sumantu, pp. 296-299, a sūtra-writer 299, 409, 461; enumerates five 
+Tailapa, p. 590.
 
-on dharma, pp. 296-97; a pupil yajñas, p. 9. of Jaimini, p. 298. 
+Taitala, p. 219.
 
-Taittiriya-Brāhmaṇa, p. 445. Sumati Bhārgava, p. 30). 
+Taittirīya-Āraṇyaka, pp. 23n., 100, 299, 409, 461; enumerates five yajñas, p. 9.
 
-Taittiriya-Samhitā, pp. 8, 9, 307, Sunaḥśepa, story of, pp. 8, 95. 
+Taittirīya-Brāhmaṇa, p. 445.
 
-308; quoted by Baudhāyana on Sunīti, Mitramiśra's sister, p. 948. the equal division among sons, p. Śūrasena ( Mathurā ), p. 875. 
+Taittirīya-Saṁhitā, pp. 8, 9, 307, 308; quoted by Baudhāyana on the equal division among sons, p. 62; Vasiṣṭha quotes several passages from, p. 95.
 
-62; Vasiṣıha quotes several pass 
+Taittirīya Upaniṣad, pp. 4, 5.
 
-Sureśvara, identified with Viśvarūpa 
+Taittirīyopaniṣadbhāṣyavārtika, p. 563.
 
-ages from, p. 95. by Madhava, pp. 65, 149, 562–64. / Taittiriya Upanisad, pp. 4, 5. Surety, p. 289; kinds of, pp. 532, Taittiriyopaniṣadbhāṣyavārtika, P. 
+Tājika-Nīlakaṇṭhī, of Nīlakaṇṭha, p. 911.
 
-545; liability of son of, when he 563. 
+Ṭāka, kings of Kāṣṭhā, pedigree of, pp. 800, 801.
 
-goes abroad or dies, pp. 497, 724. Tājika-Nilakanthi, of Nilakantha, Sūryapanlita, guru of Dalapati, p. 862; father of Ekanātha, p. 862. 
+Takakusu, Prof. J., author of ‘Essentials of Buddhist Philosophy’, p. 5n.
 
-Tāka, kings of Kāṣthī, pedigree of, Sūryasiddhānta, pp. 126, 732n. 
+[[Takaṣaśilā|Takṣaśilā]], Cāṇakya hailed from, p. 215.
 
-pp. 800, 801. Sūryasiddhantaviveka, of Madana- Takakusu, Prof. J., author of 'Essen 
+Talavakāra Brāhmaṇa, referred to by Haradatta, p. 749.
 
-pāla, pp. 801, 804. 
+Tāṇḍyamahābrāhmaṇa, pp. 9n., 266, 307, 337.
 
-tials of Buddhist Philosophy', p. Susruta, pp. 118, 216, 246, 732n., 
+Ṭaṅka, expounder of Viśiṣṭādvaita, p. 566; same as Brahmānandin, p. 567.
 
-865. 
+Tantrākhyāyikā, pp. 164, 165.
 
-Takaṣasilā, Canakya hailed from, Sūta, caste of, pp. 142, 246, 267. p. 215. Sūtaka, meaning of, p. 648. 
+Tantravārtika, pp. 4, 18, 20, 23, 25, 47, 104, 409, 511n., 643; refers to Āpastamba about local and family usages, pp. 46, 65; refers to 18 dharmasaṁhitās, p. 303; stands in special relation to Manusmṛti, pp. 327, 332–33.
 
-Talavakāra Brāhmaṇa, referred to by Sutherland, translated Dattakamimā. Haradatta, p. 749. 
+Taranath, Lama, p. 214.
 
-msā, pp. 920, 921. 
+Tarkasaṁgraha, of Annambhaṭṭa, p. 915.
 
-Tāṇdyamahābrāhmaṇa, pp. 9n., 266, Suvarṇa, saine as dināra, p. 477; 307, 337. 
+Tarn, author of, ‘The Greeks in Bactria and India’, p. 172.
 
-value of, pp. 487, 532, 859. 
+[[P1286]] Tātparyadīpikā, a com. on Tithiviveka, p. 837.
 
-Tarka, expounder of Viśiṣṭādvaita, Svairiṇis, four kinds of, p. 473. 
+Tattvamuktāvali, of Nandapaṇḍita, p. 917.
 
-p. 566; same as Brahmānandin, Svalpa-Sarvarta, p. 543. 
+Tattvaprakāśa, of Bhoja, on Śaiva āgama, p. 585.
 
-p. 567. Svapāka, mentioned in Gitā, p. 73; | Tantrākhyāyikā, pp. 164, 165. 
+Tattvārthakaumudī, com. on Prāyaścittaviveka, p. 882.
 
-avocations of, p. 142. 
+Tattvasamāsa, p. 281.
 
-Tantravārtika, pp. 4, 18, 20, 23, 25, Svāyambhuva Manu, pp. 206, 308, 47, 104, 409, 5111., 613; refers to 
+Tattvasaṁgraha, of Śāntarakṣita, pp. 309n., 345n.
 
-311, 321. 
+Tautātitamatatilaka, of Bhavadeva, pp. 642, 645.
 
-Apastamba about local and family Svāyambhuva sāstra, four versions of, usages, pp. 46, 65; refers to 18 
+Teacher, as heir to pupil, p. 550.
 
-p. 309. 
+Temples, of various deities, p. 237; wealth of, does not go to king, p. 285.
 
-dharmasamhitās, p. 303; stands in 
+Tendulkar, Mr. Justice, p. 882.
 
-special relation to Manusmrti, pp. Svetaketu, damed by Āpastamba, 
+Ter, to south-east of Paithan, p. 714.
 
-327, 332-33. p. 61. 
+Theft, p. [[591|594]]; punishment for, of gold, pp. 829, 830.
 
-Taranath, Lama, p. 214. Tadpatrikar, Mr. S. N., p. 407. 
+Thomas, Dr. F. W., pp. 14n., 290.
 
-Tarkasamgraha, of Annambhatta, p. Tagara, p. 714. 
+Tilaka, com. on Rāmāyaṇa, p. 405.
 
-915. Tagore, Prasannakumar, p. 626; 
+Tīrthacintāmaṇi, of Vācaspati, pp. 845, 883n.
 
-translated Vyavabiracināmaṇi, pp. Tarn, author of, The Greeks in 843, 852. 
+Tīrthakalpalatā, p. 924.
 
-Bactria and India', p. 172. 
+Tīrthaprakāśa, p. 942.
 
-1286 
+Tīrthatattva (or Tīrthayātrāvidhitattva), of Raghunandana, p. 892.
 
+Tīrthenduśekhara, of Nāgoji, p. 964.
 
+Tithīnduśekhara, of Nāgoji, p. [[961|964]].
 
-Tātparyadipika, a com. on Tithi- | Țo laramalla, Rājā, finance niinisier 
+Tithinirṇaya, of Vācaspati, p. 847.
 
-viveka, p. 837. 
+Tithinirṇayasāra, of Madanapāla, p. 797.
 
-of Akbar, p. 907; son of Bhaga Tattvamuktāvali, of Nandapaṇdita, vatidāsa, of Țaṇdana family, p. 
+Tithinirṇaya-sarvasamuccaya, pp. 565, 582.
 
-p. 917. 
+Tithinirṇayatattva, of Nāgoji, p. 964.
 
-908; rebuilt the temple of Viśve. Tattvaprakiśa, of Bhoja, on Śaiva 
+Tithitattva, of Raghunandana, pp. 890, 891n., 892.
 
-śvara, p. 908. agama, p. 585. 
+Title, and possession, p. 544.
 
-To Jarānanda, pp. 4995., 653, 907– 
+Titles, of law, eighteen, p. 204; treatment of, in Kauṭilya, p. [[201|204]]; twenty-two, of which king took cognisance suo motu, p. 515.
 
-914. Tattvārthakaumudi, com. on Prayas 
+Ṭoḍaramalla, Rājā, finance minister of Akbar, p. 907; son of Bhagavatīdāsa, of Ṭaṇḍana family, p. 908; rebuilt the temple of Viśveśvara, p. 908.
 
-cittaviveka, p. 882. 
+Ṭoḍarānanda, pp. 499n., 653, 907–914.
 
-Todarānanda-Sanhita-saukhya, PP. Tattvasamāsa, p. 281. 
+Ṭoḍarānanda-Saṁhitā-saukhya, pp. 630, 732.
 
-630, 732. Tattvasamgraha, of Sāntarakṣita, Trailokyasāra, p. 848n. 
+Trailokyasāra, p. 848n.
 
-pp. 309n., 345n. 
+Trikāṇḍamaṇḍana, pp. 551, 593; quoted by Hemādri and quotes Gārgya Nārāyaṇa, p. 593.
 
-Trikārdaman lana, pp. 551, 593; Tautātitamatatilaka, of Bhavadeva, 
+Triṁśat-ślokī, Hemādri's com. on, p. 615.
 
-quoted by Hemādri and quotes pp. 642, 645. 
+Tripuravijaya, of Bhoganātha, p. 785n.
 
-Gārgya Nārāyaṇa, p. 593. Teacher, as heir to pupil, p. 550. 
+Tripuṣkaraśāntitattva, p. 892.
 
-Triingat-śloki, Hemiidri's com. on, Temples, of various deities, p. 237; 
+Tristhalīsetu, pp. 904n., 905, 907, 935, 964.
 
-p. 615. wealth of, does not go to king, Tripuravijaya, of Bhoganātha, p. p. 285. 
+Trivedi, Mr., pp. 876, 966.
 
-785n. Tendulkar, Mr. Justice, p. 882. Tripuskaraśāntitattva, p. 892. Ter, to south-east of Paithan, p. 714. | 
+Trivedi, Sarvoruśarman, p. 979.
 
-Tristhalisetu, pp. 904n., 905, 907, 
+Tulasī, use of, to be avoided in śrāddha, p. 726.
 
-935, 964. Theft, p. 591; punishment for, of 
+Turuṣkas, p. 791.
 
-gold, pp. 829, 830 
+Tushāspa, p. 35.
 
-Trivedi, Mr., pp. 876, 966. Thomas. Dr. F. W OD. 14. 290. Trivedi, Sarvoruśarman, p. 979. Tilaka, com. on Rāmāyana, P. 405. 
+Udāharaṇacandrikā, p. 973.
 
-Tulasī, use of, to be avoided in 
+Udāharaṇamālā, of Bhoganātha, p. 785n.
 
-śrāddha, p. 726. Tirthacintāmaṇi, of Vācaspati, pp. 
+Udayakara, commentator of Manu, pp. 346, 770n., 847n.
 
-845, 883n. 
+Udayanācārya, p. [[930n.|950n.]]
 
-Turuṣkas, p. 791. Tirthakalpalatā, p. 924. 
+Udgrāhamalla, mentioned in Dāyabhāga, p. 705; meaning of, p. 705; a smṛti-writer according to Maheśvara, p. 706.
 
-Tushāspa, p. 35. Tirthaprakāśa, p. 942. Tirthatattva (or Tirthayātrāvidhi 
+Udīcya, meaning of, pp. 67, 746.
 
-Udāliara pacandrikā, p. 973. tattva ), of Raghunandana, p. 892. Udaharanamālā, of Bhoganātha, p. Tirthendusekhara, of Nāgoji, p. 964. 78Jr. Tithindusekhara, of Nāgoji, p. 961. Udayakara, commentator of Manu, Tithinirṇaya, of Vācaspati, p. 847. pp. 346, 7701., 847). Tithinirṇayasira, of Madanapāla, Udayanācirya, p. 930n. 
+Udvāhatattva, of Raghunandana, pp. 565, 588.
 
-p. 797. 
+Ugra, a mixed caste, pp. 142, 267; meaning of, p. 657; food offered by, to be avoided by a brāhmaṇa, p 657.
 
-Udgrāhamalla, mentioned in Dāya. Tithinirṇaya-sarvasamuccaya, pp. 565, bhāga, p. 703; meaning of, p. 
+[[P1287]] Ujjayinī, pp. 707, 708, 712.
 
-582. 
+Ujjvalā-vṛtti, of Haradatta, on Āpastamba-dharmasūtra, pp. 89, 141n., 742, 745.
 
-705; a smști-writer according to Tithinirṇayatattva, of Nāgoji, p. 964. 
+Uktalābhakraya, p. 299.
 
-Maheśvara, p. 706. Tithitattva, of Raghunandana, pp. Udicya, meaning of, pp. 67, 746. 
+Umbeka, p. [[561|564]].
 
-890, 891n., 892. 
+Untouchability, none on certain occasions, p. 262.
 
-Udvahatattva, of Raghunandana, pp. Title, and possession, p. 544. 
+Upādhyāya, a writer named by Medhātithi, p. 576.
 
-565, 588. Titles, of law, eighteen, p. 204; treat- Ugra, a mixed caste, pp. 142, 267; ment of, in Kautilya, p. 201; meaning of, p. 657; food offered twenty-two, of which king took by, to be avoided by a brāhmana, cognisance suo motu, p. 515. 
+Upadhyaya, Prof. Baladeva, p. 522.
 
-P 657. 
+Upadhyaya, Prof. Sukhamaya, p. 632.
 
-General Index 
+Upadhyaya, Sastri Venkatacarya, p. 954.
 
-11 
+Upākarmaprayoga, p. 964n.
 
-1287 
+Upakātyāyana, p. 502.
 
-Ujjayini, pp. 707, 708, 712. Ujjvalī-vștti, of Haradatta, on Āpa 
+Upākṛtitattva, of Bālambhaṭṭa, p. 971.
 
-stamba-dharmasūtra, pp. 89, 141n., 
+Upanayana, entitles man for śāstric actions, pp. 62, 95; no adhikāra for homa upto, p. 34; proper time of, for the varṇas, pp. 41, 313; prāyaścittas for one who has not undergone, p. 96; rules about, p. 96; allowed to rathakāra by Bau. Gṛ. S., p. 50.
 
-742, 745. Uktalabhakraya, p. 299. Umbeka, p. 561. Untouchability, none on certain 
+Upaniṣads, p. 433.
 
-occasions, p. 262. Upadhyāya, a writer named by 
+Upapātakas, eight according to Śātātapa, pp. 294, 295; are 38 in Manu. pp. 828, 830.
 
-Medhitithi, p. 576. Upadhyaya, Prof. Baladeva, p. 522. Upadhyaya, Prof. Sukhamaya, P. 
+Upapurāṇas, eighteen, p. 416.
 
-632. Upadhyaya, Sastri Venkatacarya, 
+Upasmṛtis, eighteen, pp. 276, 278, 303.
 
-p. 954. Upākarmaprayoga, p. 964n. Upakātyāyana, p. 502. Upākśtitattva, of Bālambhatta, p. 971. Upanayana, entitles man for sāstric 
+Upavarṣa, commented on [[purva-mīmāṁsā|pūrva-mīmāṁsā]], p. 593; mentioned in Brāhmaṇasarvasva, p. 628.
 
-actions, pp. 62, 95; no adhikāra for homa upto, p. 34; proper time of, for the varṇas, pp. 41, 313; prāyaścittas for one who has not undergone, p. 96; rules about, p. 96; allowed to rathakāra by Bau. 
+Usages, authoritativeness, of, p. 33; controversy between Āpastamba and Baudhāyana about, pp. 46, 65; superiority of, when in conflict with dharmasūtras p. 475; of various peoples, mentioned by Bṛhaspati, p. 469; peculiar to the south, acc. to Baudhāyana, p. 575; which, acceptable to smṛtis, p. 333.
 
-Gr. S., p. 50. 
+Uśanas, pp. 159, 161, 264–272; and Manu, pp. 144, 269; work of, on politics, p. 264; came to be called Śukra, p. 265; sūtra work of, dealing with all branches of dharma, p. 269; composed śāstra based on dharmas of Manu Svāyambhuva, p. 308; quoted by Maskarin, p. 37.
 
-Upaniṣads, p. 433. L'papātakas, eight according to śātā 
+Uśanas, pp. 159, 161; composed a treatise on Arthaśāstra, p. 163; enumerates eight kinds of spies, p. 164.
 
-tapa, pp. 294, 295; are 38 in Manu. pp. 828, 830. 
+Usury, condemned by Āpastamba and Baudhāyana, pp. 73, 131; allowed by Gautama to a Brāhmaṇa as a calling if done through an agent, p. 73.
 
-Uśanas, pp. 159, 161, 264-272; and Manu, pp. 144, 269; work of, on politics, p. 264; came to be called Sukra, p. 265; sūtra work of, deal. ing with all branches of dharma, p. 269; composed śāstra based on dharmas of Manu Svāyambhuva, 
+Utathya, on politics, named by Mahābhārata, p. 210; son of, mentioned by Manusmṛti, p. 315.
 
-p. 308; quoted by Maskarin, p. 37. Uśanas, pp. 159, 161; composed a 
+Utgikar, Mr. N. B., pp. 157, 158, 392.
 
-treatise on Arthasāstra, p. 163; enumerates eight kinds of spics, 
+Utkala, p. 874.
 
-p. 164. Usury, condemned by Apastamba 
+Utpala, pp. 701n., 873, 910n.; commentator of Bṛhajjātaka, p. 181; date of, p. 182.
 
-and Baudhāyana, pp. 73, 131; allowed by Gautama to a Brāh. maṇa as a calling if done through 
+Uttara (defendant's reply), of six kinds, p. 296; of four kinds according to Prajāpati, p. 521; and Vyāsa, p. 531; dealt with Vyavahāra-cintāmaṇi, [[p,|p.]] 846.
 
-an agent, p. 73. C'tathya, on politics, named by Mahābhārata, p. 210; son of, mentioned by Manusmṛti, p. 315. L'tgikar, Mr. N. B., pp. 157, 158, 
+Uttara-Garga, p. 805.
 
-392. Utkala, p. 874. Utpala, pp. 7019., 873, 910n.; com 
+Uttarāpatha, p. 49.
 
-mentator uf Bfhajjataka, p. 181; date of, p. 182. L'itara (defendant's reply ), of six 
+Uvaṭa, author of bhāṣya on Vājasaneya Saṁhitā, p. 627; Halāyudha's predecessor, p. 636.
 
-kinds, p. 296; of four kinds accord. ing to Prajā pati, p. 521; and Vyasa, p. 531; dealt with Vyava hāra-cintāmaṇi, p, 846. Uttara-Garga, p. 805. Uttarāpatha, p. 49. Uvaṭa, author of bhāsya on Vājasa 
+Vacanamālā, com. on Bālakrīḍā, p. 563.
 
-neya Sarnhitā, p. 627; Halayudha's predecessor, p. 636, 
+Vācaspatimiśra, pp. 844–854, 893n.; his [[Bhāmtī|Bhāmatī]] and Nyāyasūci-nibandha, p. 563; date of, pp. 563, 583, 853; his Vivādacintāmaṇi often cites views of Bālarūpa, p. 597; to be distinguished from Vācaspati, philosopher, p. 853.
 
-Upapurāṇas, eighteen, p. 416. Upasmṛtis, eighteen, pp. 276, 278, 
+Vādanyāya, of Dharmakīrti, p. 26n.
 
-303. Upavarsa, commented on pirya mimamsī, p. 593; mentioned in 
+[[P1288]] Vaḍavā Prātitheyī, p. 895.
 
-Brāhmaṇasarvasva, p. 628. Usages, authoritativeness, of, p. 33; 
+Vādhūla, Śrauta-sūtra, p. 257.
 
-controversy between Apastamba and Baudhāyana about, pp. 46, 6); superiority of, when in conflict with dharmasūtras p. 475; of various peoples, mentioned by Bphaspati, p. 469; peculiar to the south, acc. to Baudhāyana, p. 575; which, acceptable to smftis, p. 333. 
+Vādibhayaṅkara, admirer of Vijñānayogin, pp. 695, 696, 863, 944n.
 
-Vacanamālā, com. on Balakrida, 
+Vāgbhaṭa, author of Aṣṭāṅgahṛdaya, pp. 118n., 216.
 
-p. 563. Vācaspatimiśra, pp. 844-864, 893n.; 
+Vāgbhaṭa-smṛti-saṁgraha, p. 718.
 
-his Bhāmti and Nyāyasūci-niban. dla, p. 563; date of, pp. 563, 583; 853; his Vivādacintā mani often cites views of Balarūpa, p. 597; to be distinguished from Vācaspati, 
+Vāgvatī, p. 770.
 
-philosopher, p. 853. Vārlanyāya, of Dharmakirti, p. 26n. 
+Vaidehaka, a mixed caste, p. 142.
 
-1288 
+Vaidya, Mr. C. V., pp. 350n., 354.
 
-History of Dharmaśāsira 
+Vaidya, Dr. P. L., pp. 907, 908.
 
-Vākovākya, pp. 32, 433; occurs 
+Vaidyanātha Pāyaguṇḍa, pp. 792, 970–974; composed several commentaries on grammatical works, p. 974.
 
-several times in Ch. Up., p. 324. Vākyapradipa, quoted by Medhātithi, 
+Vaidyanātha Tatsat, composed several commentaries on Alaṁkāra works, p. 973.
 
-p. 577. Valabli, kings of, inscriptions of, 
+Vaijayantī, com. on Viṣṇudharmasūtra, pp. 112, 127.
 
-p. 328. Vallabha, father of Dalapati, p. 861. Vāloka, a writer, p. 596. Vāmadeva, on politics, named by 
+Vaijayantī, commentary by Mahādeva on Satyāṣāḍha-śrautasūtra, p. 257.
 
-Mahābhārata, p. 210; sage, desired dog's flesh to save his life, 
+Vaijayantī, a lexicon, p. 738.
 
-p. 336. 
+Vaikhānasa-dharma-praśna, pp. 257–60.
 
-Vadavā Prātitleyi, p. 895. Vādbāla, Srauta-sītra, p. 257. Vādibhayankara, admirer of Vijñā. 
+Vaikhānasa-śāstra, same as Śrāmaṇaka according to [[Haradtta|Haradatta]], pp. 32, 103, 257; mentioned by Manusmṛti, pp. 302, 315; mentioned by Baudhāyana, pp. 45, 257; mentioned by Gautama, p. 257.
 
-nayogin, pp. 695, 696, 863, 944n. Vāgbhata, author of Aṣtāngahrdaya, 
+Vaiśampāyana and Yājñavalkya, p. 421.
 
-pp. 1181., 216. Vāgbhata-smrti-sangraba, p. 718. Vāgvatī, p. 770. Vaidehaka, a mixed caste, p. 142. Vaidya, Mr. C. V., pp. 3505., 354. Vaidya, Dr. P. L., pp. 907, 908. Vaidyanātha Pāyagunda, pp. 792, 
+Vaiśeṣikasūtra, its definition of dharma, p. 5.
 
-970-974; composed several cont. mentaries on grammatical works, 
+Vaiyākaraṇabhūṣaṇa, of Koṇḍabhaṭṭa, p. 966.
 
-P. 974. Vaidyanātha Tatsat, composed seve. 
+Vaiyākaraṇasiddhāntamañjūṣā, of Nāgoji, p. 964.
 
-ral commentaries ou Alamkāra 
+Vājasaneyins, p. 760.
 
-works, p. 973. Vaijayanti, com. on Viṣṇudharma 
+Vajjis, tribe of, p. 218.
 
-sutra, pp. 112, 127. Vaijayautī, commentary by Mahā. 
+Vijñānatilaka, consulted by Nṛsiṁhaprasāda, p. 862n.
 
-deva on Satyāṣāḍha-srautasūtra, 
+Vajra, name of a prāyaścitta, p. 507.
 
-p. 257. Vaijayantī, a lexicon, p. 738. Vaikhānasa-dharma-praśna, pp. 257- 
+Vajrasūcī, of Aśvaghoṣa, p. 330.
 
-60. 
+Vākovākya, pp. 32, 433; occurs several times in Ch. Up., p. 324.
 
-me 
+Vākyapradīpa, quoted by Medhātithi, p. 577.
 
-Vaikbānana-śāstra, same as Srāma 
+Valabhī, kings of, inscriptions of, p. 328.
 
-Daka according to Haradtta, pp. 32, 103, 257; mentioned by Maousmrti, pp. 302, 315; mentioned by Baudhāyana, pr. 45, 257; men 
+Vallabha, father of Dalapati, p. 861.
 
-tioned by Gautama, p. 257. Vaiśampāyana and Yājñavalkya, 
+Vāloka, a writer, p. 596.
 
-p. 421. Vaiśeṣikasūtra, its definition of 
+Vāmadeva, on politics, named by Mahābhārata, p. 210; sage, desired dog's flesh to save his life, p. 336.
 
-dharma, p. 5. Vaiyākaraṇabhūṣana, of Kondabhatta, 
+Vāmadevabhaṭṭācārya, author of a Smṛticandrikā, p. 741.
 
-p. 966. Vaigākaranasiddhāntamañjūṣa, 
+Vāmana, author of Kāśikā, p. 757; of Kāvyālaṁkārasūtra, p. 169.
 
-Nāgoji, p. 964. Vājsanepios, p. 760. Vajjis, tribe of, p. 218. Vijñāpatilaka, consulted by Nrṣiriba 
+Vaṁśabrāhmaṇa, p. 786.
 
-prasāda, p. 8621. Vajra, name of a prāyaścitta, p. 507. Vajragūci, of Aśvaghoṣa, p. 330. 
+Vaṁsatthappakāsinī, p. 215.
 
-Vāmadevabhattācārya, author of a 
+Vaṁśīdhara, patron of Śivasahāya, p. 405.
 
-Smrticandrikā, p. 741. Vāmana, author of Kāśikā, p. 757; of 
+Vānaprastha, varieties of, p. 258.
 
-Kāvyālamkārasūtra, p. 169. Vamsabrāhmaṇa, p. 786. Vanisatthappakāsipi, p. 215. Vamsidbara, patron of Śivasahāya, 
+Vanāyu, p. 219.
 
-p. 405. Vānaprastha, varieties of, p. 258. Vanāyu, p. 219. Vandyaghaṭiya, p. 711. Varada, commentator of Mahābhā. 
+Vandyaghaṭīya, p. 711.
 
-rata, p. 381. Varadarāja, pp. 815-823. Varāhamibira, pp.170, 445, 700, 7321., 
+Varada, commentator of Mahābhārata, p. 381.
 
-911; knew week days, p. 126; mentioned Srāddhasa ukhya, p. 910n.; author of Yogayātrā, p. 181, 260; author of Bṛbatsambitā, p. 614; mentions Viṣṇugupta in 
+Varadarāja, pp. 815–823.
 
-bis Bșhajjātaka, p. 181. Vararuci, p. 77. Vardbamāna, author of Dandaviveka 
+Varāhamihira, pp. 170, 445, 700, 732n., 911; knew week days, p. 126; mentioned Śrāddhasaukhya, p. 910n.; author of Yogayātrā, p. 181, 260; author of Bṛhatsaṁhitā, p. [[614|644]]; mentions Viṣṇugupta in his Bṛhajjātaka, p. 181.
 
-and other works, pp. 84771., 854 860; Vācaspati was his guru, 
+Vararuci, p. 77.
 
-pp. 852, 857. Varendri, a place in North Bengal, 
+Vardhamāna, author of Daṇḍaviveka and other works, pp. 847n., 854–860; Vācaspati was his guru, pp. 852, 857.
 
-p. 733. Varma, Dr. Siddheshwar, p. 898. Varsadipikā, p. 770n. Varṣakriyākaumudi or Varṣakau 
+Varendrī, a place in North Bengal, p. 733.
 
-mudi, pp. 565, 588, 612, 702, 882, 885. 
+Varma, Dr. Siddheshwar, p. 898.
 
-General Index 
+Varṣadīpikā, p. 770n.
 
-1289 
+Varṣakriyākaumudī or Varṣakaumudī, pp. 565, 588, [[612|642]], 702, 882, 885.
 
-Varsakrtya, of Rudradhara, p. 811. Vārsyāyaṇi, author named by 
+[[P1289]] Varṣakṛtya, of Rudradhara, p. 841.
 
-A pastamba, p. 61. Vārtā, to be studied by a king, pp. 
+Vārṣyāyaṇi, author named by Āpastamba, p. 61.
 
-114, 151, 152. Vasantarāja, pp. 732n., 770%. Vasistha, oath of, p. 336; united to 
+Vārtā, to be studied by a king, pp. 144, 151, 152.
 
-Ak samālā, p. 336. Vasisthadharmasītra, pp. 6, 7, 911. 
+Vasantarāja, pp. 732n., 770n.
 
-94-112, 463; refers to views of Gautama, pp. 34, 100, 302; many sūtras of, identical with Gautama's, p. 34; studied by Rgvedins, pp. 20, 91; has many sūtras in common with Baudbāyana, p. 52; contents of, pp. 95, 96; style of, pp. 96, 97; relation of, to Manuṣmrti, pp. 99 103, 146-57; quotes largely from Rgveda and other Vedic Saṁhitās, pp. 100, 107; relation of, to Vi pudharmasūtra, pp. 103, 104, some views of, ancient, pr. 104, 105; whether refers to Romans, pp. 105, 106; commented on, by Yajñasvāmin, p. 112; whether 
+Vasiṣṭha, oath of, p. 336; united to Akṣamālā, p. 336.
 
-affiliated to Rgveda, pp. 110–11. Vasisthasmrti, p. 112. Vāsictha Rāmāyana, pp. 780 781. Vāstusaukhya, p. 9131. Vasudeva, named by Harihara, p. 736. Tāsudeva, p. 359; worship of, p. 121. Vāguleva Sārvabhauma, teacher of 
+Vasiṣṭhadharmasūtra, pp. 6, 7, 9n., 94–112, 463; refers to views of Gautama, pp. 34, 100, 302; many sūtras of, identical with Gautama's, p. 34; studied by Ṛgvedins, pp. 20, [[91|94]]; has many sūtras in common with Baudhāyana, p. 52; contents of, pp. 95, 96; style of, pp. 96, 97; relation of, to Manusmṛti, pp. 99–103, 146–57; quotes largely from Ṛgveda and other Vedic Saṁhitās, pp. 100, 107; relation of, to Viṣṇudharmasūtra, pp. 103, 104, some views of, ancient, pp. 104, 105; whether refers to Romans, pp. 105, 106; commented on, by Yajñasvāmin, p. 112; whether affiliated to Ṛgveda, pp. 110–11.
 
-Caitanya, p. 893. Vasuhoma, on politics, named by 
+Vasiṣṭhasmṛti, p. 112.
 
-Mahābhārata, p. 210. Vātā pi, p. 219. Vātavyādbi, named by Kau'ilya, 
+Vāsiṣṭha Rāmāyaṇa, pp. [[780|780,]] 781.
 
-pp. 196, 210. Vate(varasidhānta, p. 780. Vatsa, a smrtikāra, pp. 303, 511; 
+Vāstusaukhya, p. 913n.
 
-undergoing ordeal, p. 336. Vātsyāyana, author of Kāmasutra, 
+Vāsudeva, named by Harihara, p. 736.
 
-pp. 71, 182, 210. Vaul, a village, p. 753. Vāvarasa, son of Keśavanāyaka, 
+Vāsudeva, p. 359; worship of, p. 121.
 
-patron of Nandapandita pp. 918, 919. 
+Vāsudeva Sārvabhauma, teacher of Caitanya, p. 893.
 
-H.D.--162 
+Vasuhoma, on politics, named by Mahābhārata, p. 210.
 
-Vāgupurīṇa, pp. 116, 171, 412, 657, 
+Vātāpi, p. 219.
 
-658, 739n., 9041.; on Ajīvas, p. 219; etymology of the word Maun 
+Vātavyādhi, named by Kauṭilya, pp. 196, 210.
 
-acc. to, p. 318. Vedācārya, pp. 509, 642. Vedāngajyotiṣa, p. 218. Vedānças, pr. 121; six, pp. 315, 433. Vedāntadeçika, p. 819. Vedāntakalpataru, p. 799. Vedāntasūtra, vide Brahmasūtra. Vedārthasani graha, pp. 566, 567. Vedas, as sources of dharma, pp. 6-9, 
+[[Vateśvarasidhānta|Vaṭeśvarasiddhānta]], p. 780.
 
-408–409; contain 10 vidLis on dharma but identical references, pp. 6–7; calumny of, p. 315; five aspects of the study of, acc. to 
+Vatsa, a smṛtikāra, pp. 303, 511; undergoing ordeal, p. 336.
 
-to Dakṣa, p. 534. Vena, p. 336. Venīsamhārt, pp. 624, 633. Vidhānapārijāta. p. 655, Vidbipuspamālā, p. 761. Vichirasāyanadūcana, of Sonkara. 
+Vātsyāyana, author of Kāmasūtra, pp. 71, 182, 210.
 
-bhatta, p. 938. Vidvanmanoharā, of Nandapandita, 
+Vaul, a village, p. 753.
 
-pp. 915, 916. Vidyādhana, meaning of, p. 488; not 
+Vāvarasa, son of Keśavanāyaka, patron of Nandapaṇḍita pp. 918, 919.
 
-liabale to partition, p. 488. Vidyapati, pp. 771-72, 893n. Vidyāraṇya, founded Vijayanagarn, 
+Vāyupurāṇa, pp. 116, 171, 412, 657, 658, 739n., 904n.; on Ājīvas, p. 219; etymology of the word [[Maun|Manu]] acc. to, p. 318.
 
-pp. 782, 786; identity of, with 
+Vedācārya, pp. 509, 642.
 
-Madhavācārya, pp. 782–83. Vidyās, number of, for kings, pp. 144, 
+Vedāṅgajyotiṣa, p. 218.
 
-145; fourteen, what are, pp. 267, 433; ouly two, for kings, acc. to Brhaspati, p. 288; only three according to Mānavas, p. 311; 
+Vedāṅgas, pp. 121; six, pp. 315, 433.
 
-sources of, pp. 408–09. Viharapātaka, on the banks on the 
+Vedāntadeśika, p. 819.
 
-Ganges, p. 728; Aniruddha was a 
+Vedāntakalpataru, p. 799.
 
-resirlent of, p. 728. Vijayanyara, date of foundation of 
+Vedāntasūtra, vide Brahmasūtra.
 
-p. 786; dynasty of kings of Pp. 786, 789-90. Vijñāneśvara, PP. 599 616, 775; 
+Vedārthasaṁgraha, pp. 566, 567.
 
-author of A fiucada-akit, pp. 613, 614; view of, criticized by Prataja rulra, p. $71. 
+Vedas, as sources of dharma, pp. 6–9, 408–409; contain [[10|no]] vidhis on dharma but identical references, pp. 6–7; calumny of, p. 315; five aspects of the study of, acc. [[to to|to]] Dakṣa, p. 534.
 
-1290 
+Vena, p. 336.
 
+Veṇīsaṁhāra, pp. 624, 633.
 
+Vidhānapārijāta. p. 655.
 
-Vikhanas, sūtra of, pp. 103, 277. Viṣṇudharmastītra, pp. 112-127; Vikramārka or Vikramadityalleva of content of, pl. 113–15; resembles 
+Vidhipuṣpamālā, p. 761.
 
-Kalyāṇa, pp. 607, 608, 609. 
+Vidhirasāyaṇadūṣaṇa, of Śaṅkarabhaṭṭa, p. 938.
 
-Vasisthadharmasūtra, 
+Vidvanmanoharā, of Nandapaṇḍita, pp. 915, 916.
 
-115; Vikrainorvasiya, p. 476. 
+Vidyādhana, meaning of, p. 488; not [[liabale|liable]] to partition, p. 488.
 
-commentary of, Vilijayanti, pp. 
+Vidyāpati, pp. 771–72, 893n.
 
-112, 127; date of, pp. 116-26; Vilamba, p. 775. 
+Vidyāraṇya, founded Vijayanagara, pp. 782, 786; identity of, with Mādhavācārya, pp. 782–83.
 
-Inter than Yājủavalkya, pp. 118, Vimalabodha, commentator of Jahā. 
+Vidyās, number of, for kings, pp. 144, 145; fourteen, what are, pp. 267, 433; only two, for kings, acc. to Bṛhaspati, p. 288; only three according to Mānavas, p. 311; sources of, pp. 408–09.
 
-126; relation of, to Kāihaka school; bharata, p 588. 
+Vihārapāṭaka, on the banks on the Ganges, p. 728; Aniruddha was a resident of, p. 728.
 
-of Krṣmayajurveda, pp. 122–25; Vināyaka, worship of, found in borrows from Yājnavalkya, pp. 
+[[Vijayangara|Vijayanagara]], date of foundation of, p. 786; dynasty of kings of, pp. 786, 789–90.
 
-Mānaragrhya and Bandhāyanil, pp. 118, 121.-22; char:cter of, p. 118; 53, 440; and Manusmrti, p. 410; relation of, to Manusiarti, pp. 112, found in Yāj., pp. 431, 4399-10; 116-17; stlye of, p. 115; verses in consecration of, in Porta-Kamalca later additions, pp. 119–20. kara, p. 928. 
+Vijñāneśvara, pp. [[599 616|599–616]], 775; author of Āśaucadaśaka, pp. 613, 614; view of, criticized by Pratāparudra, p. 871.
 
-Viṣṇudharmottara, frequently quoted Vindhyavāsali), pp. 577, 73211. by Aparārka, p. 464, Viranitrodaya, pp. 89, 140, 14116., Viṣṇugupta, an astrologer, p. 873. 
+[[P1290]] Vikhanas, sūtra of, pp. 103, [[277|257]].
 
-484, 489n., 710, 941--953; quoted 
+Vikramārka or Vikramādityadeva of Kalyāṇa, pp. 607, 608, 609.
 
-Viṣṇugupta, ville under Kiutilya, by Smrticandrikā, p. 741; unique 
+Vikramorvaśīya, p. 476.
 
-pp. 164, 165, 166, 167, 171, 7321., in size, range and quality, p. 697; embraces all branches of Dharma 
+Vilamba, p. 775.
 
-quoted by Vardhamāna, p. 859. $āstra in its sections called | Viṣṇupurāda, pp. 193, 2399,, 421, prakāśas, pp. 941, 942. 
+Vimalabodha, commentator of Mahābhārata, p 588
 
-600, 601, 677, 739n.; speaks of 
+Vināyaka, worship of, found in Mānavagṛhya and Baudhāyana, pp. 53, 440; and Manusmṛti, p. 410; found in Yāj., pp. 431, 439–40; consecration of, in Pūrta-Kamalākara, p. 928.
 
-arthasāstra as an upaveda of Virasimba, patron of Vitramiśra, p. 
+Vindhyavāsa (i), pp. 577, 732n.
 
-Atharvaveda, P. 152; number of 946; son of Madhurasāha and 
+Vīramitrodaya, pp. 89, 140, 141n., 484, 489n., 710, 941–953; quoted by Smṛticandrikā, p. 741; unique in size, range and quality, p. 697; embraces all branches of Dharmaśāstra in its sections called prakāśas, pp. 941, 942.
 
-Manuṣ acc. to, p. 317; extent of, father of Jujhāra, pp. 946-47; 
+Vīrasiṁha, patron of Mitramiśra, p. 946; son of Madhurasāha and father of Jujhāra, pp. 946–47; killed Abul Fazal, the [[frined|friend]] of Akbar, p. 947; ruled at Orccha, p. 948.
 
-p. 415. killed Abul Fazal, the frined of Akbar, p. 947; ruled at Orçoba, 
+Vīrasiṁhadevacarita, p. [[917|947]].
 
-Viṣṇurahasyapurāṇa, p. 732, p. 948. 
+Vīreśvara, son of Devāditya and father of Caṇḍeśvara, pp. 773, 774n.
 
-Viṣṇusamuccaya, p. 7949, Vīrasimhadevacarita, p. 917. 
+Vīreśvara, elder brother of Mitramiśra, p. 948.
 
-Viṣṇusyāmin, p. 576. 
+Viśālākṣa, abridged work of Brahmā on dharma, artha and kāma, pp. 149n., 308; as a writer on Nīti (Rājanīti), pp. 150, 341, 342; mentioned by Kauṭilya, pp. 209, 210; mentioned by Viśvarūpa, p. 555; mentioned by Vyavahārakāṇḍa, p. 871.
 
-Viśvādırsa, pp. 614, 738. Vireśvara, son of Devāditya and father of candeśvara, pp. 773,771n. 
+Viśārada, p. 883n.
 
-Viśvakośa, quoted hy Nilakantha, 
+Viśiṣṭādvaita, teachers of, before Rāmānuja, pp. 566–67.
 
-commentator of the Mahābhārata, Vīreśvara, elder brother of Mitrami. 
+Viṣṇu, twelve names of, p. 53; one hundred names of, p. 121.
 
-p. 379. śra, p. 948. 
+Viṣṇucitta, commentator of Viṣṇupurāṇa, p. 415.
 
-Viśvaksena, king of Bengal, p. 707. Visālākṣa, abridged work of Brahma 
+Viṣṇudharmasūtra, pp. 112–127; contents of, pp. 113–15; resembles Vasiṣṭhadharmasūtra, p. 115; commentary of, Vaijayantī, pp. 112, 127; date of, pp. 116–26; later than Yājñavalkya, pp. 118, 126; relation of, to Kāṭhaka school; of Kṛṣṇayajurveda, pp. 122–25; borrows from Yājñavalkya, pp. 118, 121–22; character of, p. 118; relation of, to Manusmṛti, pp. 112, 116–17; [[stlye|style]] of, p. 115; verses in later additions, pp. 119–20.
 
-Viśvalocada, quoted by Nilakantha, on dharma, artha and kāma, pp. 
+Viṣṇudharmottara, frequently quoted by Aparārka, p. 464.
 
-commentator of the Mahabharata, 1491., 308; as a writer on Niti 
+Viṣṇugupta, an astrologer, p. 873.
 
-p. 379. ( Rājaniti ), pp. 150, 341, 342; mentioned by Kawilya, pp. 209, 
+Viṣṇugupta, *vide* under Kauṭilya, pp. 164, 165, 166, 167, 171, 732n., quoted by Vardhamāna, p. 859.
 
-Vjśvāmitra, smrti of, pp. 303, 529; 210; mentioned by Viśvarūpa, 
+Viṣṇupurāṇa, pp. 193, 239n., 421, 600, 601, 677, 739n.; speaks of arthaśāstra as an upaveda of Atharvaveda, p. 152; number of Manus acc. to, p. 317; extent of, p. 415.
 
-sage, took dog's leg from. cũndāla, p. 555; mentioned by Vyavahāra 
+Viṣṇurahasyapurāṇa, p. 732.
 
-p. 336; at loggerheads with kānda, p. 871. 
+Viṣṇusamuccaya, p. 794n.
 
-Vasistha, p. 90376. Viśārada, p. 8837. 
+Viṣṇusvāmin, p. 576.
 
-Viśvaprakāśa, p. 750%. Viśiṣṭādvaita, teachers 
+Viśvādarśa, pp. 614, 738.
 
-Viśvarūpa, a lexicographer, p. 757. 
+Viśvakośa, quoted by Nīlakaṇṭha, commentator of the Mahābhārata, p. 379.
 
-of, before Rāmānuja, pp. 566–67. 
+Viśvaksena, king of Bengal, p. 707.
 
-Viśvarūpa, pp. 9, 31, 47, 64, 65, 104, 
+Viśvalocana, quoted by Nīlakaṇṭha, commentator of the Mahābhārata, p. 379.
 
-105, 13211., 140, 145, 263, 274, 421, Viṣṇu, twelve names of, p. 53; one 
+Viśvāmitra, smṛti of, pp. 303, 529; sage, took dog's leg from cāṇḍāla, p. 336; at loggerheads with Vasiṣṭha, p. 903n.
 
-488, 553-565, 602; flourished about hundred namas of, p. 121. 
+Viśvaprakāśa, p. 759n.
 
-the first quarter of the 9th century Vi pucitta, commentator of Viṣou- pp. 97, 469; and text of Yājñava 
+Viśvarūpa, a lexicographer, p. 757.
 
-prurāṇa, p. 415. 
+Viśvarūpa, pp. 9, [[31|34]], 47, 64, 65, 104, 105, 132n., 140, 145, 263, 274, 421, 488, 553–565, 602; flourished about the first quarter of the 9th century pp. 97, 469; and text of Yājñavalkya, pp. 423–27; frequently [[P1291]] quotes Parāśara, p. 465; and Nāradasmṛti, p. 469; points of difference between Mitākṣarā and, pp. 560–61; identity of, with Sureśvara, pp. 65, 149, 562–64.
 
-Ikya, PP. 423-27; frequentlyGeneral Index 
+Viśvarūpanibandha, pp. 564–65, 849n.
 
-1291 
+Viśvarūpasamuccaya, p. 565.
 
-quotes Parāśara, p. 465; and Vratasāgara, pp. 731, 77011, Nāradasmrti, p. 469; points of 
+Viśveśvara, temple of, at Benares, p. 908.
 
-Viddha-Brhaspati, p. 490. difference between Mitākṣarā and, i 
+Viśveśvara, commentator of Mitākṣarā, pp. 613, 745, 792–804; personal history of, pp. 799–800.
 
-Vrddba-Garga, p. 732n. pp. 560-61; identity of, with Sureśvara, pp. 65, 149, 562-64. 
+Viśveśvara-Sarasvatī, p. 582.
 
-Viddha-Gārgya, pp. 276, 277, 305. Viśvarūpanibandha, pp. 564–65, 849n. 
+Viṭhobā, shrine of, at Pandharpur, p. 977.
 
-Vṛddha-Gautama, pp. 38, 305; names 
+Viṭṭhala-ṛṅmantrabhāṣya, of Kāśīnātha, pp. 790, 961n., 977.
 
-57 dharmaśāstras, p. 304. Viśvarūpasamuccaya, p. 565. 
+Vivādabhaṅgārṇava, p. xlv.
 
-Vrddha-Harita, p. 135. Visveśvara, temple of, at Bedares, 
+Vivādacandra, of Misarumiśra, pp. 596, 640, 651, 776, 842, 843.
 
-Vrddha-Katyāyana, p. 502. P. 908. 
+Vivādacandra, of Rudradhara, p. 842.
 
-Vyddha-dlanu, pp. 305, 3217., 334, Visveśvara, commentator of Mitā 
+Vivādacintāmaṇi, pp. 140, 597, 636, 653, 844, 845, 846, 858, 893n.
 
-349. kçarā, pp. 613, 745, 792-804; 
+Vivādanirṇaya, p. 849.
 
-Vridba-Parāśara, p. 466. personal history of, pp. 799–800. 
+Vivādapadas, p. 857.
 
-Vrddha-Parcetas, p. 520. Visveśvara.Sarasvatī, . 582. Vithobā, shrine of, at Pandharpur, 
+Vivādaratnākara, pp. 131, 140, 346n., 548, 633, 635, 656, 763, 765, 846n.
 
-Vrddha-Śatātapa, pp. 294, 295, 305; 
+Vivādasāgara, of Kullūka, p. 758.
 
-bhāsyakāra of, p. 296. p. 977. 
+Vivādasārārṇava, p. 978.
 
-Vrddhātregasmrti, p. 263. Vitthala-rāmantrabhāṣya, of Kāśi. 
+Vivādatāṇḍava, of Kamalākarabhaṭṭa, pp. 585, 710, 925; resembles in method and matter Nīlakaṇṭha's Vyavahāramayūkha, p. 929; subjects treated in, p. 929.
 
-Vrddba-Vasiștha, pp. 111-12, 305. nātha, pp. 790, 961n., 977. Vivādabhangārṇava, p. xlv. 
+Vivāhapaṭala, pp. 910n., 914.
 
-Vrddha--Viṣṇu, pp. 126, 305. 
+Vivāhasaukhya, pp. 910, 913, 914.
 
-Vivādacandra, of Misarumiśra, pp. 
+Vivāhavṛndāvana, p. 910n.
 
-Viddha-Vyāsa, p. 534. 596, 640, 651, 776, 842, 843 
+Viveka, pp. 754, 910n.
 
-Vrddha-Yājñavalkya, pp. 276, 303, Vivādacandra. of Rudradbara, 1 305, 448; different from Tajpaval 
+Vopadeva, a friend and a protege of Hemādri, p. 754.
 
-kya-Smrti, p. 449. p. 842. 
+Vratakamalākara, p. 927.
 
-Vsjika, p. 218; a sangha, pp. 251, 252. Vivādacintamani, pp. 140, 597, 636, 
+Vratakhaṇḍa, of Hemādri, p. 755.
 
-653, 844, 845, 846, 858, 8931. 
+Vratapaddhati, of Rudradhara, p. 841.
 
-Vrsala, pp. 179-80. Vivādanirṇaya, p. 849. 
+Vratasāgara, pp. 731, 770n.
 
-Vrṣṇis, sangha of, pp. 218, 252. Vivādapadas, p. 857. 
+Vṛddha-Bṛhaspati, p. 490.
 
-Vittaratoakara, com, on by Nārāyaṇa. Vivādaratnākara, pp. 131, 140, 3467., 
+Vṛddha-Garga, p. 732n.
 
-bhatta, p. 906. 548, 633, 635, 656, 763, 765, 846n. 
+Vṛddha-Gārgya, pp. 276, 277, 305.
 
-Vyādibhaktitarangini, of Vidyāpati 
+Vṛddha-Gautama, pp. 38, 305; names 57 dharmaśāstras, p. 304.
 
-Vivādasāgara, of Kullūka, p. 758. 
+Vṛddha-Hārīta, p. 135.
 
-p. 811. Vivādasārārnava, p. 978. 
+Vṛddha-Kātyāyana, p. 502.
 
-Vyāghra, sınśti quoted by Maskarin, 
+Vṛddha-Manu, pp. 305, 321n., 334, 349.
 
-p. 37. Vivādatā ndava, of Kamalā karabbatta, 
+Vṛddha-Parāśara, p. 466.
 
-Vyāhrtis, p. 231. pp. 585, 710, 925; resembles in method and matter Nilakantha's 
+[[Vṛddha-Paracetas|Vṛddha-Pracetas]], p. 520.
 
-Vyabrtisā man, p. 23. Vyavahāramayūkba, p. 929; Vyangyārthakaumudi, of Anantā. subjects treated in, p. 929. 
+Vṛddha-Śātātapa, pp. 294, 295, 305; bhāṣyakāra of, p. 296.
 
-śrama, P. 953. Vivāhapatala, pp. 910n., 914. 
+Vṛddhātreyasmṛti, p. 263.
 
-Vyāsa, pp. 529-535. Vivābasaukhya, pp. 910, 913, 914, 
+Vṛddha-Vasiṣṭha, pp. 111–12, 305.
 
-Vyavabāra, compared to Yajna, p. Vivāharṛndāvana, p. 910n. 
+Vṛddha-Viṣṇu, pp. 126, 305.
 
-489; bas four pādas, pp. 496, 544; Viveka, pp. 754, 910). 
+Vṛddha-Vyāsa, p. 534.
 
-defined, p. 543, 
+Vṛddha-Yājñavalkya, pp. 276, 303, 305, 448; different from Yājñavalkya-Smṛti, p. 449.
 
-Vopadera, a friend and a protege 
+Vṛjika, p. 218; a saṅgha, pp. 251, 252.
 
-Vyavabāracintamani, of Vacaspati, of Hemādri, p. 754, 
+Vṛṣala, pp. 179–80.
 
-pp. 846, 855, 893n. 
+Vṛṣṇis, saṅgha of, pp. 218, 252.
 
-Vratakamalākara, p. 927. 
+Vṛttaratnākara, com. on by Nārāyaṇabhaṭṭa, p. 906.
 
-Vyavaharamañjarī, p. 589. 
+[[Vyādibhaktitaraṅgiṇī|Vyāḍībhaktitaraṅgiṇī]], of Vidyāpati p. 811.
 
-Vyavahāramātkā, of Jimītavāhana, Vratakhanda, of Hemādri, p. 755. 
+Vyāghra, smṛti quoted by Maskarin, p. 37.
 
-pp. 296, 473, 476, 4851., 48811,, Vratapaddhati, of Rudradbora, pol 502, 559, 595, 702-703, 707, 709, 
+Vyāhṛtis, p. 23n.
 
-841. 
+Vyāhṛtisāman, p. 23.
 
-710, 711. 
+Vyaṅgyārthakaumudī, of Anantāśrama, p. 953.
 
-1292 
+Vyāsa, pp. 529–535.
 
+Vyavahāra, compared to Yajña, p. 489; has four pādas, pp. 496, 544; defined, p. 543.
 
+Vyavahāracintāmaṇi, of Vācaspati, pp. 846, 855, 893n.
 
-Vyavabziramayūkba, pp. 305, 489, 
+Vyavahāramañjarī, p. 589.
 
-938; relation of, to Vitā kṣarā, pp. 
+Vyavahāramātṛkā, of Jīmūtavāhana, pp. 296, 473, 476, 485n., 488n., 502, 559, 595, 702–703, 707, 709, 710, 711.
 
-939-10. Vyavaharanirṇaya, pp. 815-823 Vyavahārapadas, pp. 122, 204, 815, 
+[[P1292]] Vyavahāramayūkha, pp. 305, 489, 938; relation of, to Mitākṣarā, pp. 939–40.
 
-857, 872n. Vyavahāraprakāśa, pp. 881, 942, 948. Vyavabāraratnākara, pp. 617, 766, 
+Vyavahāranirṇaya, pp. [[815–823-|815–823.]]
 
-774, 855. Vyavahāraśiromani, of Nāriyana, pp. 
+Vyavahārapadas, pp. 122, 204, [[815|845]], 857, 872n.
 
-239, 615. V'yavahāratattva, pp. 131, 596, 639, 
+Vyavahāraprakāśa, pp. 881, 942, 948.
 
-703, 825, 938, 911n.; written after 
+Vyavahāraratnākara, pp. 617, 766, 774, 855.
 
-Dāyatattva, p. 901. Vyarahāratilaka, of Bhavadera, pp. 
+Vyavahāraśiromaṇi, of Nārāyaṇa, pp. 239, 615.
 
-639-40, 858, 9447., 950n. Vyavahāroccaya, 7, 910n. Vyūbas, pp. 159, 161; ia Śstra of 
+Vyavahāratattva, pp. 131, 596, 639, 703, 825, 938, [[911n.|944n.]]; written after Dāyatattva, p. 901.
 
-Usanas, p. 163; Manusinfti men tions six, p. 163. 
+Vyavahāratilaka, of Bhavadeva, pp. 639–40, 858, 944n., 950n.
 
-separated coparcener allowed to inherit, p. 532; if she submitted to piyoga, pp. 539, 623; of predecea sed son preferred to daughter as heir, by Nandapandita, p. 920; adoption by, p. 955; of predeceased son or grandson, right of, p. 560; succeeded to husband's estate, if small, according to Srikara, p. 571; remarriage of, allowed by Vasiṣtha and Kautilya, pp. 105, 205; remarriage of, allowed by Nārada, p. 473, remarriage of, condemned by Manu, pp. 205, 473; right to inherit to husband, pp. 334, 438–39, 486-87; not recognised by Nārada p. 474; recognised by Yāj. and Bșhaspati; pp. 486–87; right of, to succeed, view of Samgrabakāra as to, p. 558; right of, to succeed, view of Viśvarūpa, P. 559; if tarkasū to be given maintenance only, p. 597; succeeded to her sonless busband and was bound to offer śrāddhas, p. 521; to get 2000 kārśāpaṇas from husband's estate, p. 532; right of, to gucceed, view of Haradatta, p. 744; accord ing to A pastamba and Gautama, p. 744. 
+Vyavahāroccaya, p. 910n.
 
-ife, called half of a man in 
+Vyūhas, pp. 159, 161; in śāstra of Uśanas, p. 163; Manusmṛti mentions six, p. 163.
 
-Ampāya and Smṛtitantra, p. 131; when desertion of husband by, con doned, p. 205; abandonment of, in certain circumstances, pp. 297, 535; duties of, p. 281; even arlulterous, not to be cast adrift by husband, p. 545; adoption by, 
+Warren Hastings, pp. 191, 978.
 
-p. 955, Wijesekara, Dr., p. 227. Winternitz, Dr., pp. 54, 157, 183, 184, 
+Wealth, three kinds of, according to Nārada, p. 469; ancestral, concealment of, p. 497; lost and regained by one co-sharer, p. 510.
 
-194, 209, 216, 477, 742; criticized, 
+Weber, Prof., p. 143.
 
-pp. 1767., 187-88. Witnesses, even minors and defective 
+Week-days, names of, pp. 123, 126; whether first established by Greeks, pp. 443–44; earliest mention of, in Indian inscriptions, pp. 444–45.
 
-men could be, in certain cases, p. 271; of 12 kinds, p. 485; of two 
+Weights, to be made of iron or stones from Magadha, p. 219; units of, given by Manu, p. 329.
 
-kinds, kita and akṛta, p. 521. Women, two kinds of brahmavādinie 
+West and Bühler, digest of, pp. 921, 961, 968.
 
-and sadyovadhūs, according to 
+[[Westrop|Westropp]], Sir Michael, p. 969.
 
-Warren Hastings, pp. 191, 978. Wealth, three kinds of, according to 
+Widow, of sonless man, according to Halāyudha and Pārijāta, was to submit to niyoga, and give wealth to son so born, pp. 623, 655; erring, allowed bare maintenance by Hārīta, p. 545; even in undivided family, succeeded to husband's property, according to Jitendriya and Dāyabhāga, pp. 594, 704; of separated coparcener allowed to inherit, p. 532; if she submitted to niyoga, pp. 539, 623; of predeceased son preferred to daughter as heir, by Nandapaṇḍita, p. 920; adoption by, p. 955; of predeceased son or grandson, right of, p. 560; succeeded to husband's estate, if small, according to Śrīkara, p. 571; remarriage of, allowed by Vasiṣṭha and Kauṭilya, pp. 105, 205; remarriage of, allowed by Nārada, p. 473, remarriage of, condemned by Manu, pp. 205, 473; right to inherit to husband, pp. 334, 438–39, 486–87; not recognised by Nārada p. 474; recognised by Yāj. and Bṛhaspati; pp. 486–87; right of, to succeed, view of Saṁgrahakāra as to, p. 558; right of, to succeed, view of Viśvarūpa, p. 559; if *karkaśā* to be given maintenance only, p. 597; succeeded to her sonless husband and was bound to offer śrāddhas, p. 521; to get 2000 kārṣāpaṇas from husband's estate, p. 532; right of, to succeed, view of Haradatta, p. 744; according to Āpastamba and Gautama, p. 744.
 
-Nārada, p. 469; ancestral, conceal inent of, p. 497; lost and regained 
+Wife, called half of a man in Āmnāya and Smṛtitantra, p. 131; when desertion of husband by, condoned, p. 205; abandonment of, in certain circumstances, pp. 297, 535; duties of, p. 281; even adulterous, not to be cast adrift by husband, p. 545; adoption by, p. 955.
 
-by one co-sharer, p. 510. Weber, Prof., p. 143. Week-days, names of, pp. 123, 1:26; 
+Wijesekara, Dr., p. 227.
 
-whether first established by Greeks, pp. 443–41; earliest men tion of, jo Indian inscriptions, 
+Winternitz, Dr., pp. 54, 157, 183, 184, 194, 209, 216, 477, 742; criticized, pp. 176n., 187–88.
 
-pp. 114-15, Weights, to be made of iron or 
+Witnesses, even minors and defective men could be, in certain cases, p. 271; of 12 kinds, p. 485; of two kinds, kṛta and akṛta, p. 521.
 
-stones from Maradha, p. 019; 
+Women, two kinds of brahmavādinīs and sadyovadhūs, according to [[P1293]] Hārīta, p. 132; claims of, to succession not favoured by Āpastamba and Śaṅkha, p. 140; bought, are not patnīs, p. 274; wealth of, should not be appropriated by king, p. 285; presiding deities of house, p. 286; pass on marriage into husband's *gotra*, p. 524; not allowed to resort to Saṁnyāsa, p. 527; tutelage of, as to their husband's wealth, p. 545.
 
-units of, giren by Manu, p. 329. West and Buhler, digest of, pp. 921, 
+Writing, importance of, in transactions, p. 544.
 
-961, 968. Westrop, Sir Michael, p. 969. Widow, of sonless man, according 
+Yādavabhūṣaṇa-bhaṭṭācārya, author of Smṛtisāra, p. 777.
 
-to Halāyudba and Pārijāta, was to submit to niyoga, and give wealth to son so bora, pp.623, 655; erring, allowed bare maintenance by Hārīta, p. 545; even in undivided family, succeeded to husband's property, according to Jitendriya and Dāyabhāga, pp. 594, 704; of 
+Yādavas, genealogy of, p. 752; principal grants of, p. 752.
 
-On 
+Yajñanārāyaṇa, commentator of Mahābhārata, p. 381.
 
-General Index 
+Yajñapārśva, pp. 794n., 799.
 
-1293 
+Yajñas, Vedic study spoken of as, p. 9; five, p. 9.
 
-P. 945, 
+Yajñasvāmin, commentator of Vasiṣṭhadharma sūtra, p. 112.
 
-Hārīta, p. 132; claims of, to borrowed by Viṣṇudharmasūtra; guccession not favoured by p 118; date of, pp. 442-48; A pastamba and Saṅkha, p. 140; Mitramiśra's commentary on, bought, are not patnīs, p. 274; wealth of, should not be appro- Yājñavalkya Brāhmana, reviling of, priated by king, p. 285; presidiog | if called biodern, p. 745. deities of house, p. 286; pass on 
+Yajñatantra-sudhānidhi, of Sāyaṇa, pp. 786, 789.
 
-Yajurveda, Black, six srautasūtras marriage into husband's gotra, p. 
+Yājñavalkya, rupture of, with Vaiśampāyana, p. 421; dialogue of, with Janaka, p. 422; a great philosopher, taught Brahmavidyā to his wife [[Maitryī|Maitreyī]], p. 422; works ascribed to, p. 448; enumerates 19 smṛtikāras, p. 303.
 
-of, p. 257; white, promulgated by 524; not allowed to resort to 
+Yājñavalkyasmṛti, pp. 421–459; commentary of Viśvarūpa on, pp. 119, 423; and Agnipurāṇa, pp. 424–27; and Garuḍapurāṇa, pp. 427–29; and Manu, pp. 430–31, 438–39; contents of, pp. 433–34; and Mānavagṛhya, pp. 439–40; and White Yajurveda, pp. 423, 440–41; and Greek astrology, pp. 443–44; commentaries on, pp. 457–58; and Pāraskaragṛhya, pp. 440–41; philosophy of, p. 447; borrows from Bṛ. Up., p. 440; earlier and later strata in, pp. 429–30; various readings in, pp. 423–24; verses of, borrowed by Viṣṇudharmasūtra; p 118; date of, pp. 442–48; Mitramiśra's commentary on, p. 945.
 
-Yājñavalkya, p. 422; intimate Samnyāsa, p. 527; tutelage of, as 
+Yājñavalkya Brāhmaṇa, reviling of, if called modern, p. 745.
 
-rolation betwen Yajña valkyasmrti to their husband's wealth, p. 515. 
+Yajurveda, Black, six śrautasūtras of, p. 257; white, promulgated by Yājñavalkya, p. 422; intimate relation [[betwen|between]] Yājñavalkyasmṛti and, pp. 423, 440.
 
-ind, pp. 423, 110. Writing, importance of, in transac 
+Yajvan, an author named by Medhātithi, p. 576.
 
-Yajvan, an anthor named by Medhā. tions, p. 544. 
+Yama, referred to by Vasiṣṭha, pp. 101, 522; omitted by Parāśara in his list of 19 expounders of dharma, p. 303; smṛti of, pp. 522–528.
 
-tithi, p. 576. 
+Yāmunamuni, p. 567.
 
-Yama, referred to by Vasiṣtha, pp. Yadavabhūsaṇa-bhattācārya, author 
+Yantra-prakāśa, p. 801.
 
-101, 522; omitted by Parāśara in of Smrtisāra, p. 777. 
+Yaśastilaka, a work, pp. 288, 292, 511n.
 
-his list of 19 expounders of Yadavas, genealogy of, p. 752; prin dharma, p. 303; smrti of, pp. 522 
+Yāska, author of Nirukta, p. 12.
 
-cipal grants of, p. 752. 
+Yaśovigraha, a Gāhadwal King, p. 688.
 
-528. Yajñanārāyana, commentator of Yamunamuni. p. 567. 
+Yati, rules of conduct for a, p. 280; six duties of, p. 583.
 
-Mahābhārata, p. 381. 
+Yatidharmasaṅgraha, of Viśveśvara Sarasvatī, p. 582.
 
-Yantra-prakāśa, p. 801. Yajñapārsva, pp. 794n., 799. 
+Yatīndramatadīpikā, of Śrīnivāsadāsa, p. 566.
 
-Yaśastilaka, a work, pp. 288, 292, Yajñas, Vedic study spoken of as, p. 
+Yautaka, meaning of, p. 592.
 
-511n. 9; five, p. 9. 
+Yavana, a mixed caste, mentioned by Gautama, pp. 35, 73; mentioned by Manu, pp. 326, 334; a non-Aryan tribe, p. 261; those of Mūlasthāna were made to give up cow-slaughter, p. 806.
 
-Yaska, author of Nirukta, p. 12. Yajõaṣvāmin, commentator of Va 
+Yavaneśvara, p. 732n.
 
-Yasovigraha, a Gūbadwal King, sisthadharma sūtra, p. 112. 
+Year, of five kinds, pp. 956–57.
 
-p. 688. Yajnatantra-sudhānidhi, of Sāyana, Yati, rules of conduct for a, p. 280; 
+Yoga, defined, p. 281; eight aṅgas of, p. 259.
 
-pp. 786, 789. 
+Yogacintāmaṇi, work on Yoga, p. 379.
 
-six duties of, p. 583, Yājñavalkya, rupture of, with 
+Yogāditya, younger brother of Mitramiśra, 948.
 
-Yatidharmasangraha, Vaiśampāyana, p. 421; dialogue of, 
+[[P1294]] Yoga-kṣema, defined, p. 528; a learned brāhmaṇa may approach a ruler for his own, p. 13n.
 
-Sarasvati, p. 582. with Janaka, p. 422; a great 
+Yogānanda, death of, brought about by Cāṇakya, pp. 170, 171.
 
-! Yatindramatarlipikā, of Srīnivūsa. pbilosopher, taught Brahmavidyā to his wife Maitryi, p. 422; works 
+Yogasūtra, of Yājñavalkya, pp. 422, 433, 449.
 
-is dāsa, p. 566. ascribed to, p. 448; enumerates 19 Yautaka, meaning of, p. 592. smrtikāras, p. 303. 
+Yogasūtra, Bhoja's commentary on, called Rājamārtaṇḍa, pp. 585, 586; not later than 2nd or 3rd century, p. 316.
 
-Yavana, a mixed caste, mentioned by Yajñavalkyasmrti, pp. 421-459; com- Gautama, pp. 35, 73; mentioned 
+Yoga-Yājñavalkya, p. 448; different from Yāj. Smṛti, p. 449; a small work on yoga, p. 436; contents of, pp. 434–35; recommendations of, pp. 435–36; quoted by Aparārka and Ballālasena, pp. 437–38; editions of, p. 449; entirely different from Bṛhad-Yoga-Yājñavalkya, p. 457; echoes of Gītā in, p. 436n.
 
-mentary of Viśvarūpa on, pp. 119, by Maou, pp. 326, 334; & non 423; and Agnipurana, pp. 424-27; Aryan tribe, p. 261; those of and Garuḍapurāṇa, pp. 427-29; Mūlasthāna were made to give up and Maou, pp. 430–31, 438-39; cow-slaugbter, p. 806. contents of, pp. 433-34; and 
+Yogeśvara Paṇḍita, p. 612.
 
-Yavaneśvara, p. 732n. Mānavagrbya, pp. 439-40; god White Yajurveda, pp. 423, 410-41: | Twill, of five kinds, pp. 956–57. and Greek astrology, pp. 413–41; Yoga, dofined, p. 281; eight angas commentaries on, pp. 457-58; and of, p. 259. Paraskaragļhya, pp. 440-11; 
+Yogghama, commentator of Arthaśāstra, p. 155; cites the views of Āmbhiyas, p. 156.
 
-Yogacintamani, work on Yoga, D philosophy of, p. 447; borrows 
+Yogīśvara, means Yāj. and is different from Yoga-Yāj., pp. 449, 563.
 
-379. from Br. Up., p. 440; earlier and later strata in, pp. 429-30; various Yogāditya, younger brother of readings in, pp. 423-24; verses of, Mitrainiśra, 948. 
+Yugas, dharmas of four, p. 461.
 
-Ia 
-
-1294 
-
-
-
-Yoga-kṣema, defined, p. 528; a learned and Ballālasena, pp. 437–38; 
-
-brāhmana may approach & ruler editions of, p. 449; entirely differ for his own, p. 137. 
-
-ent from Brhad-Yoga-Yājāavlkya, Yogananda, death of, brought about p. 457; echoes of Gītā in, p. 436n. 
-
-by Cāṇakya, pp. 170, 171. 
-
-Yogeśvara Pandita, p. 612. Yogasūtra, of Yājñavalkya, pp. 422, 
-
-Yoggbama, commentator of Arthasā. 433, 449. 
-
-stra, p. 155; cites the views of Yogasūtra, Bhoja's commentary 
-
-Ambhiyas, p. 156. on, called Rājamārtaṇḍa, pp. 585, 586; pot later than 2nd or 3rd 
-
-Yogiśvara, means Yāj. and is differ century, p. 316. 
-
-ent from Yoga-Yāj., pp. 449, 563. Yoga-Yājñavalkya, p. 448; different | Yugas, dharmas of four, p. 461. 
-
-from Yāj. Smrti, p. 449; & small work on yoga, p. 436; contents of, pp. 434–35; recommendations of, Zodiacal sigos, not known to Yāj. pp. 435–36; quoted by Aparārka Smrti, p. 446. 
-
-ARC 
-
-TRAL 
-
-Delhi 
-
-CEN 
-
-. 
-
-L/BRAN 
-
-Hislop 
-
-LAR 
-
-. 
-
-I F 
-
-a 
-
-sting 
-
-CATALACIED 
-
-Central Archaeological Library, 
-
-NEW DELHI. 70621 
-
-Call No. 
-
-R_294.609 R 
-
-қan 
-
-Author--Kane, Pandurang Vaman 
-
-History of Dharmasastra Title-Vol.1.Part.II. 
-
-e 
-
-tok* -
+Zodiacal signs, not known to Yāj. Smṛti, p. 445.

@@ -1,11211 +1,10227 @@
 +++
 title = "List of Works"
-
+proofreader = [ "Gemini 4 Hydrogen",]
 +++
-Appendix A List of Works on Dharmaśāstra
 
-APPENDIX A. 
+[[P985]]
 
-List of Works on Dharmaśāstra It is necessary to say a few words about the methods followed in preparing this list of the works on dharmaśāstra. Purely srauta works have generally been excluded, except where they have been profusely quoted or relied upon by dharmaśāstra writers. Works of the Tantra class and the Purāṇas have been passed over, inas-much as they form in themselves independent and extensive branches of Sanskrit literature requiring an exhaustive and detailed treatment, which from considerations of space had to be abandoned here. All individual prayogas, māhātmyas, vidhis, vratas, śāntis, stotras have been omitted, except where the names of the authors are well-known or there is some importance or peculiarity attaching to them. Purely astrological works on jātaka, and tājika have not been included, but works of the muhūrta class that are closely connected with everyday religious practices have been included. Though the gshyasūtras and their commentaries were not dwelt upon in the body of the present work, they have been included in this list as their subject-matter is closely allied to dharmaśāstra. Only works up to about 1820 A. D. have been entered here. Works on politics ( arthaśāstra ) have also been included. I am afraid that all the restrictions set out above have not been rigorously observed in the following and crave the indulgence of scholars in this respect. I must gratefully acknowledge, as everyone engaged in preparing a similar list on any branch of post-Vedic literature must do, my indebtedness to the monumental Catalogus Cata logorum of Dr. Aufrecht. But even that catalogue leaves many things doubtful and necessarily gives meagre information. For removing such doubts I was compelled to read and compare the the original catalogues of Sanskrit mss. such as that of the India Office, the Notices of Sanskrit mss. by Dr. Mitra and M. M. Haraprasada. Besides the third part of Aufrecht's Catalogue was published in 1903. Since then several other catalogues, such as the Descriptive Catalogues and Triennial Catalogues of the Madras Govt. mss. Library, Notices of mss. (new series, part III) by M. M. Haraprasada Śāstri, Catalogue of Palmleaf and Paper mss. of Nepal Durbar Library by M. M. Haraprasada Śāstri, Hultzsch's Report (part III ), Catalogue of Central Provinces Sanskrit mss. by Rai Bahadur Hiralal and Catalogue of the mss. collected by 
+APPENDIX A.
 
-986 
+**List of Works on Dharmaśāstra**
 
+It is necessary to say a few words about the methods followed in preparing this list of the works on dharmaśāstra. Purely śrauta works have generally been excluded, except where they have been profusely quoted or relied upon by dharmaśāstra writers. Works of the Tantra class and the Purāṇas have been passed over, [[inas-much|inasmuch]] as they form in themselves independent and extensive branches of Sanskrit literature requiring an exhaustive and detailed treatment, which from considerations of space had to be abandoned here. All individual prayogas, māhātmyas, vidhis, vratas, śāntis, stotras have been omitted, except where the names of the authors are well-known or there is some importance or peculiarity attaching to them. Purely astrological works on jātaka, and tājika have not been included, but works of the muhūrta class that are closely connected with everyday religious practices have been included. Though the gṛhyasūtras and their commentaries were not dwelt upon in the body of the present work, they have been included in this list as their subject-matter is closely allied to dharmaśāstra. Only works up to about 1820 A. D. have been entered here. Works on politics (arthaśāstra) have also been included. I am afraid that all the restrictions set out above have not been rigorously observed in the following and crave the indulgence of scholars in this respect. I must gratefully acknowledge, as everyone engaged in preparing a similar list on any branch of post-Vedic literature must do, my indebtedness to the monumental Catalogus Catalogorum of Dr. Aufrecht. But even that catalogue leaves many things doubtful and necessarily gives meagre information. For removing such doubts I was compelled to read and compare [[the the|the]] original catalogues of Sanskrit mss. such as that of the India Office, the Notices of Sanskrit mss. by Dr. Mitra and M. M. Haraprasāda. Besides the third part of Aufrecht’s Catalogue was published in 1903. Since then several other catalogues, such as the Descriptive Catalogues and Triennial Catalogues of the Madras Govt. mss. Library, Notices of mss. (new series, part III) by M. M. Haraprasāda Śāstri, Catalogue of Palmleaf and Paper mss. of Nepal Durbar Library by M. M. Haraprasāda Śāstri, Hultzsch’s Report (part III), Catalogue of Central Provinces Sanskrit mss. by Rai Bahadur Hiralal and Catalogue of the mss. collected by [[P986]] the Bihar and Orissa Govt. (vol. I), have been published. Moreover I have consulted hundreds of mss. from collections like those at the Deccan College (now in the Bhandarkar O. R. Institute at Poona), at the Ānandāśrama Institution (Poona), the Bhadkamkar memorial collection started by Prof. H. D. Velankar in Bombay at the Wilson College and the vast collection of the Baroda Oriental Institute. In preparing this list I give, wherever possible and desirable, the names of the authors and of their ancestors, the names of the works quoted by them or of the works that quote them, the age of the work (or of the mss.) their contents &c. In most cases the very name of the work indicates its subject matter. In spite of all this many doubtful points are still left. Various circumstances tend to create confusion in preparing such lists as are offered here. The same work appears under two, three or even more names in the mss. and the catalogues. Sometimes the names of the authors and even their fathers’ names are the same as in the case of Divākara, son of Mahādeva and Śaṅkara, son of Nīlakaṇṭha. Very often portions of a large work appear separately as distinct works in the Catalogues. The same author appears under several forms, as Narasimha and Nṛsimha, Nāgeśa and Nāgoji. I have made great efforts to remove such doubts as far as I could and hope that I have been able to make my own humble contributions to the work so ably done by Aufrecht and others. I do not give references to catalogues in the case of each work, nor do I give all possible references to catalogues against each entry. Only in important cases have I given references to catalogues. It has been my endeavour to give earlier references to work and authors wherever I could, than those given by Aufrecht and to find out the age of a work or author by resort to various devices. Only a detailed comparison with Aufrecht can show this, which task I must, in all humility, leave to the readers who will use this list. One more feature of this list to which I wish to draw the attention of the reader is that I have pointed out what works have been printed. In doing this I generally refer only to well-known series and editions like the Bombay Sanskrit series, the Benares Sanskrit series and have not set out editions to which very few can have access. For those who want exhaustive information on this point, the catalogues of printed works in the British Museum Library which have now been brought up to 1928 will be found helpful.
 
+[[P987]] Besides the abbreviations given at the beginning of this work, the following abbreviations have been employed in this list and the next.
 
-. 
+a = author of.
 
-the Bihar and Orissa Govt. (vol. I), have been published. More over I have consulted hundreds of mss. from collections like those at the Deccan College (now in the Bhandarkar 0. R. Institute at Poona), at the Anandāsrama Institution (Poona ), the Bhadkamkar memorial collection started by Prof. H. D. Velankar in Bombay at the Wilson College and the vast collection of the Baroda Oriental Institute. In preparing this list I give, wherever possible and desirable, the names of the authors and of their ancestors, the names of the works quoted by them or of the works that quote them, the age of the work (or of the mss.) their contents &c. In most cases the very name of the work indicates its subject matter. In spite of all this many doubtful points are still left. Various circumstances tend to create con fusion in preparing such lists as are offered here. The same work appears under two, three or even more names in the mss. and the catalogues. Sometimes the names of the authors and even their fathers' names are the same as in the case of Divākara, son of Mahadeva and Śhaṅkara, son of Nilakantha. Very often portions of a large work appear separately as distinct works in the Catalogues. The same author appears under several forms, as Narasimha and Nșsisha, Nāgesa and Nāgoji. I have made great efforts to remove such doubts as far as I could and hope that I have been able to make my own humble contributions to the work so ably done by Aufrecht and others. I do not give references to catalogues in the case of each work, nor do I give all possible references to catalogues against each entry. Only in important cases have 1 given references to catalogues. It has been my endeavour to give earlier references to work and authors wherever I could, than those given by Aufrecht and to find out the age of a work or author by resort to various devices. Only a detailed comparison with Aufrecht can show this, which task I must, in all humility, leave to the readers who will use this list. One more feature of this list to which I wish to draw the attention of the reader is that I have pointed out what works have been printed. In doing this I generally refer only to well-known series and editions like the Bombay Sanskrit series, the Benares Sanskrit series and have not set out editions to which very few can have access. For those who want exhaustive information on this point, the catalogues of printed works in the British Museum Library which have now been brought up to 1928 will be found helpful. 
+Ānan. sm. = The collection of smṛtis published by the Ānandāśrama Press, Poona.
 
-List of Works on Dharmaśāstra 
+Ānan. p. = Ānandāśrama Press (Series of books).
 
-987 
+Ano. = Anonymous.
 
-Besides the abbreviations given at the beginning of this work, the following abbreviations have been employed in this list and the next. 
+Aufrecht’s Oxf. Cat. = Catalogue of Sanskrit mss. in the Bodleian Library at Oxford by Dr. Aufrecht (1864).
 
-a=author of. Ānan. sm. = The collection of smrtis published by the Ananda 
+Baroda O. I. = Collection of Mss. at the Baroda Oriental Institute.
 
-srama Press, Poona. Anan. p. = Ănandāśrama Press (Series of books ). Ano. = Anonymous. Aufrecht's Oxf. Cat. = Catalogue of Sanskrit mss, in the Bodleian 
+Ben. S. Series = Benares Sanskrit Series.
 
-Library at Oxford by Dr. Aufrecht (1864). Baroda 0. I. = Collection of Mss. at the Baroda Oriental Institute. Ben. S. Series = Benares Sanskrit Series. Bhad. col. =Bhadkamkar Memorial Collection made by Prof. H. 
+Bhad. col. = Bhadkamkar Memorial Collection made by Prof. H. D. Velankar of Wilson College, Bombay.
 
-D. Velankar of Wilson College, Bombay. Bik. Cat. = Catalogue of Sanskrit mss. in the Library of H. H. the 
+Bik. Cat. = Catalogue of Sanskrit mss. in the Library of H. H. the Maharaja of Bikaner by Rajendralal Mitra (1880).
 
-Maharaja of Bikaner by Rajendralal Mitra (1880). B. O. Cat. - Cat. of mss. collected for the Bihar and Orissa 
+B. O. Cat. = Cat. of mss. collected for the Bihar and Orissa Government, vol. I.
 
-Government, vol. I. Burnell's Tanj. Cat. = Classified Index to the Sanskrit mss. in the 
+Burnell’s Tanj. Cat. = Classified Index to the Sanskrit mss. in the palace at Tanjore by Dr. A. C. Burnell (1880).
 
-palace at Tanjore by Dr. A. C. Burnell (1880). C.-commentary ( of a work under which this letter occurs ). CC. =commentary on a commentary. Ch. S. Series =Chowkhamba Sanskrit Series. com,=commentary or commentator, according to context. C. P. cat. = Catalogue of Sanskrit and Prakrit mss. in the Central 
+C. = commentary (of a work under which this letter occurs).
 
-Provinces and Berar, by Rai Bahadur Hiralal (1926, 
+CC. = commentary on a commentary.
 
-Nagpur ). G. O. Series - Gaikwad's Oriental Series, Baroda. Govt. O. Series = Government Oriental Series, Poona. Hultzsch's R. = Reports on Sanskrit mss. in Southern India by 
+Ch. S. Series = Chowkhamba Sanskrit Series.
 
-Dr. Hultzsch, parts I-III. Jivananda sm. =collection of smstis edited by Jivananda in two 
+[[com,|com.]] = commentary or commentator, according to context.
 
-parts. m.=mentioned (by or in ). 
+C. P. cat. = Catalogue of Sanskrit and Prakrit mss. in the Central Provinces and Berar, by Rai Bahadur Hiralal (1926, Nagpur).
 
-988 
+G. O. Series = Gaikwad’s Oriental Series, Baroda.
 
+Govt. O. Series = Government Oriental Series, Poona.
 
+Hultzsch’s R. = Reports on Sanskrit mss. in Southern India by Dr. Hultzsch, parts I–III.
 
-Mysore G. O. L. =Mysore Government Oriental Library Series. N.=Notices of Sanskrit mss. in Bengal vols. 1-XI (vols. I-IX by 
+Jivananda sm. = collection of smṛtis edited by Jivananda in two parts.
 
-Dr. R. Mitra and X-XI by M. M. Haraprasada Śāstri). N. ( new series ) = Notices of Sanskrit mss., new series, vols. I-III 
+m. = mentioned (by or in).
 
-by M. M. Haraprasada Sastri. Nir. P.= Nirnayasāgara Press, Bombay. pr. = printed. q.=quotes. Stein's cat. or Stein = Catalogue of the Sanskrit mss. in the 
+[[P988]] Mysore G. O. L. = Mysore Government Oriental Library Series.
 
-Raghunath temple Library of H. H, the Maharaja of 
+N. = Notices of Sanskrit mss. in Bengal vols. I–XI (vols. I–IX by Dr. R. Mitra and X–XI by M. M. Haraprasāda Śāstri).
 
-Jammu and Kashmir, by Dr. M. A. Stein (1894). Ulwar cat. = Catalogue of mss. in the Library of the Maharaja of 
+N. (new series) = Notices of Sanskrit mss., new series, vols. I–III by M. M. Haraprasāda Śāstri.
 
-Ulwar, by Dr. Peterson. Venk. P. = Venkatesvara Press, Bombay. W. and K. = Catalogue of Sanskrit mss. in the Bodleian Library, 
+Nir. P. = Nirṇayasāgara Press, Bombay.
 
-vol. Il ( 1905 ) by Dr. Winternitz and Prof. A. B. Keith. 
+pr. = printed.
 
-List of Works on Dharmaśāstra 
+q. = quotes.
 
-अंशबलि gives propitiatory rites | C. by वैदिक सार्वभौम (this is (Santi) for any particular arhsa probably the same as the of a man's rāśi. 
+Stein’s cat. or Stein = Catalogue of the Sanskrit mss. in the Raghunath temple Library of H. H. the Maharaja of Jammu and Kashmir, by Dr. M. A. Stein (1894).
 
-author's own com.). अकालभास्कर by शम्भुनाथ सिद्धान्त अघनिर्णय by वीरराघव of वसिष्ठगोत्र. 
+Ulwar cat. = Catalogue of mss. in the Library of the Maharaja of Ulwar, by Dr. Peterson.
 
-वागीश; composed in Sake 1636 | अघपञ्चविवेचन by मथुरानाथ. (अङ्गाग्निरसक्षोणी) on intercalary | अघपञ्चषष्टि by मथुरानाथ (in 65 months, how to calculate them verses ). and on the special duties per- | अघपञ्चषष्टि by वीथि (षि- or -जि formed in them. 
+Venk. P. = Veṅkaṭeśvara Press, Bombay.
 
-नाथ of the कौशिकगोत्र. अक्षमालाप्रतिष्ठा. 
+W. and K. = Catalogue of Sanskrit mss. in the Bodleian Library, vol. II (1905) by Dr. Winternitz and Prof. A. B. Keith.
 
-C. स्मृतिसिद्धान्तसुधा by रामचन्द्र अखण्डादर्श by अखण्ड (?) m. in बुध. 
+---
 
-स्मृतिरत्नाकर of वेङ्कटनाथ. Divided | अघप्रकाशिका ( in ll khandas ). into kāṇdas on dharma and अघप्रदीप vyavahara. 
+[[P989]] अंशबलि gives propitiatory rites (Śānti) for any particular aṁśa of a man’s rāśi.
 
-अघप्रदीपिका ascribed to याज्ञवल्क्य . अगस्त्य or भगस्तिसंहिता m. in काल- | अघवाडव or दानसार by विश्वेश्वरभट्ट 
+अकालभास्कर by शम्भुनाथ सिद्धान्तवागीश; composed in Śake 1636 (अङ्गाग्निरसक्षोणी) on intercalary months, how to calculate them and on the special duties performed in them.
 
-विवेक of जीमूतवाहन, in अपरार्क. | (Baroda 0. I. No. 7129 C.). अग्निकार्य 
+अक्षमालाप्रतिष्ठा.
 
-अघविमोचन. भग्निकार्यपद्धति. 
+अखण्डादर्श by अखण्ड (?) m. in स्मृतिरत्नाकर of वेङ्कटनाथ. Divided into kāṇḍas on dharma and vyavahāra.
 
-अघविवेक by नीलकण्ठदीक्षित, son of अग्निनिर्णय by कमलाकर. 
+अगस्त्य or अगस्तिसंहिता m. in कालविवेक of जीमूतवाहन, in अपरार्क.
 
-अप्पयदीक्षित अद्वैताचार्य of भारद्वाज मामिसंधानवचन on ceremonies per 
+अग्निकार्य.
 
-गोत्र (in 6 प्रकरणs). formed to make up for omi- | अघविवेचन'by रामचन्द्र, son of अनन्त ssion in the daily performance 
+अग्निकार्यपद्धति.
 
-of भारद्वाजकुल, in two परिच्छेद. of aupāsana. 
+अग्निनिर्णय by कमलाकर.
 
-C. refers to मुक्ताफल. 
+अग्निसंधानवचन on ceremonies performed to make up for omission in the daily performance of aupāsana.
 
-C. by रुचिदत्त. माग्निस्थापन. अमिहोत्रकर्मन् 
+अग्निस्थापन.
 
-अघशतक. 
+अग्निहोत्रकर्मन्.
 
-भग्निहोत्रमन्त्रार्थचन्द्रिका by वैद्यनाथ, 
+अग्निहोत्रमन्त्रार्थचन्द्रिका by वैद्यनाथ, son of रामचन्द्र, son of विठ्ठल. About 1683 A. D.
 
-अघषकः son of रामचन्द्र, son of विठ्ठल. 
+अग्निहोत्रिदाहविधि.
 
-अघसंशयतिमिरादित्यसूत्र. About 1683 A. D. 
+अघदीपिका.
 
-अघसंग्रहः अग्निहोत्रिदाहविधिः 
+अघनिर्णय by वेङ्कटेश, son of रङ्गनाथ and grandson of सरस्वतीवल्लभ; names विज्ञानेश्वर, अखण्ड, स्मृत्यर्थसार, वरदराज.  
+C. by author.  
+C. called दीपिका by रामानुजयज्वन्.  
+C. by वैदिक सार्वभौम (this is probably the same as the author’s own com.).
 
-अघसंग्रहदीपिका ( Holtzsch R. I. अघदीपिका. 
+अघनिर्णय by वीरराघव of वसिष्ठगोत्र.
 
-No. 270). अघनिर्णय by वेङ्कटेश, son of रङ्गनाथ अकुराप 
+अघपञ्चविवेचन by मथुरानाथ.
 
-अडरार्पणप्रयोग ( from प्रयोगरत्न of and grandson of सरस्वतीवल्लभ; 
+अघपञ्चषष्टि by मथुरानाथ (in 65 verses).
 
-नारायणभट्ट). names विज्ञानेश्वर, अखण्ड, स्मृत्यर्थ- अङ्कुरार्पणविधि (from पाञ्चरात्रागम). सार, वरदराज. 
+अघपञ्चषष्टि by वीथि (-षि- or -जि-) नाथ of the कौशिकगोत्र.  
+C. स्मृतिसिद्धान्तसुधा by रामचन्द्र बुध.
 
-, (fron शारदातिलक). C. by author. 
+अघप्रकाशिका (in 11 khaṇḍas).
 
-अङ्गिरस् Vide sec. 39. C. called दीपिका by रामानुजय | C. by कुलमणि शुक्ल 
+अघप्रदीप.
 
-ज्वन्. 
+अघप्रदीपिका ascribed to याज्ञवल्क्य.
 
-| अचलनिबन्ध 
+अघवाडव or दानसार by विश्वेश्वरभट्ट (Baroda O. I. No. 7129 C.).
 
-990 
+अघविमोचन.
 
+अघविवेक by नीलकण्ठदीक्षित, son of अप्पयदीक्षित अद्वैताचार्य of भारद्वाजगोत्र (in 6 प्रकरणs).
 
+अघविवेचन by रामचन्द्र, son of अनन्त of भारद्वाजकुल, in two परिच्छेदs.  
+C. refers to मुक्ताफल.  
+C. by रुचिदत्त.
 
-मणुछलारीय by शेषाचार्यः 
+अघशतक.
 
-अधिकमासनिर्णय -vide मलमासनिर्णय. अण्णादीक्षितीय by अण्णादीक्षित. अधिकमासफल. भतिक्रान्तप्रायश्चित्त. 
+अघषट्क.
 
-अधोमुखजननशान्ति attributed to भविरुद्रशान्ति. 
+अघसंशयतिमिरादित्यसूत्र.
 
-शानक. अतीचारनिर्णय by महेश ( B.O. cat. | अध्यायोपाकर्मप्रयोग. 
+अघसंग्रह.
 
-vol. I, p. 2, No. 3). 
+अघसंग्रहदीपिका (Hultzsch R. I. No. 270).
 
-अनन्तभाष्य- m. in समयममूख. भतीचारनिर्णय by भुजबलभीम ( B.O. | अनन्तव्रतपूजापद्धति ( from the व्रतार्क 
+अङ्कुरार्पणप्रयोग (from प्रयोगरत्न of नारायणभट्ट).
 
-cat. vol. I, p. 3, No. 4). ____of शङ्कर. अत्रि Vide sec. 16. 
+अङ्कुरार्पणविधि (from पाञ्चरात्रागम).  
+,, (from शारदातिलक).
 
-अनन्तव्रतोद्यापन c. by कृष्णनाथ. 
+अङ्गिरस् Vide sec. 39.  
+C. by कुलमणि शुक्ल.
 
-अनन्तभट्टी or स्मार्तानुष्ठानपद्धति of C. by तकनलाल. Later than 1686 | अनन्तभट्टदीक्षित son of विश्वनाथ, 
+अचलनिबन्ध.
 
-A. D. 
+[[P990]] अणुछलारीय by शेषाचार्य.
 
-surnamed यज्ञोपवीत. Vide C. by हरिराम. 
+अण्णादीक्षितीय by अण्णादीक्षित.
 
-under प्रयोगरत्न अद्भुतदर्पण or अद्भुतसंग्रह by माधव- | अनन्ताहिक. 
+अतिक्रान्तप्रायश्चित्त.
 
-शर्मन् of the बुधबाण family, son अनाकुला, com. of हरदत्त on भाप of रघुनाथ and elder brother of स्तम्बगृह्यसूत्र. Vide sec. 87. गोविन्द. Based on the अद्भुतसागर of बल्लालसेन. On दिव्य, नाभस and 
+अतिरुद्रशान्ति.
 
-अनाचारनिर्णय भौम phenomena. Quotes मयूर 
+अतीचारनिर्णय by महेश (B. O. cat. vol. I, p. 2, No. 3).
 
-अनावृष्टशान्ति of शौनक चित्र N ( new series) vol. I, 
+अतीचारनिर्णय by भुजबलभीम (B. O. cat. vol. I, p. 3, No. 4).
 
-अनुभोगकल्पतरु by जगनाथ. pp. 2-4 
+अत्रि Vide sec. 16.  
+C. by कृष्णनाथ.  
+C. by तकनलाल. Later than 1686 A. D.  
+C. by हरिराम.
 
-अनुमरणप्रदीप by गौरीशभट्ट अद्भुतविवेक by महीधर. 
+अद्भुतदर्पण or अद्भुतसंग्रह by माधवशर्मन् of the बुधबाण family, son of रघुनाथ and elder brother of गोविन्द. Based on the अद्भुतसागर of बल्लालसेन. On दिव्य, नाभस and भौम phenomena. Quotes मयूरचित्र N (new series) vol. I, [[pp. 2–4|pp. 2–4.]]
 
-अनुमरण विवेक (quoted by रघुनन्दन अद्भुतसागर by बल्लालसेन son of 
+अद्भुतविवेक by महीधर.
 
-in शुद्वितत्व). विजयसेन (printed in 1905 by 
+अद्भुतसागर by बल्लालसेन son of विजयसेन (printed in 1905 by Prabhakari and Co., Calcutta); m. by रघुनन्दन, कमलाकर, नीलकण्ठ, अनन्तदेव; begun in 1090 śake (1168 A. D.) and finished by लक्ष्मणसेन.
 
-अनुयागपद्धति by आनन्दतीर्थ, son of Prabhakari and Co., Calcutta ); 
+अद्भुतसागरसार by चतुर्भुज.  
+,, by श्रीपति.
 
-जनार्दन m. by रघुनन्दन, कमलाकर, नील 
+अद्भुतसिन्धु; quoted by नारायण in शान्तितत्त्वामृत.
 
-अनुयागपद्धति by कृष्णानन्दसरस्वती कण्ठ, अनन्तदेव; begun in 1090 C. by आर्याध्वरीन्द्र ( Baroda 0. sake (1168 A. D.) and finished 
+अद्भुतामृत on उत्पातs of three kinds, दिव्य, आन्तरिक्ष, भौम.
 
-___I. No. 12537 ). by लक्ष्मणसेन. 
+अद्भुतोत्पातशान्ति of शौनक.
 
-अनुष्ठानपद्धति अद्भुतसागरसार by चतुर्भुज. 
+अधिकमासप्रकरण.
 
-C. by रघुनाथ " by श्रीपति. 
+अधिकमासनिर्णय -vide मलमासनिर्णय.
 
-अनूपविलास or धर्माम्भोधि written अद्भुतसिन्धु; quoted by नारायण in 
+अधिकमासफल.
 
-under Anūpasimha Rathor by शान्तितत्त्वामृत. 
+अधोमुखजननशान्ति attributed to शौनक.
 
-मणिराम दीक्षित, son of गङ्गाराम, 
+अध्यायोपाकर्मप्रयोग.
 
-son of शिवदत्त, divided into six अद्भुतामृत on उत्पातs of three kinds, 
+अनन्तभाष्य- m. in समयमयूख.
 
-parts, आचाररत्न, समयरत्न, संस्कार दिव्य, आन्तरिक्ष, भौमः 
+अनन्तव्रतपूजापद्धति (from the व्रतार्क of [[शङ्कर.|शङ्कर).]]
 
-रत्न, वत्सररत्न, दानरत्न, शुद्धिरत्न. अद्भुतोत्पातशान्ति of शौनक. 
+अनन्तव्रतोद्यापन.
 
-Refers to Alamgir, emperor of अधिकमासप्रकरण. 
+अनन्तभट्टी or स्मार्तानुष्ठानपद्धति of अनन्तभट्टदीक्षित son of विश्वनाथ, surnamed यज्ञोपवीत. Vide under प्रयोगरत्न.
 
-Delhi. अनूपसिंह was contemporList of works on Dharmaśāstra 
+अनन्ताह्निक.
 
-991 
+अनाकुला, com. of हरदत्त on आपस्तम्बगृह्यसूत्र. Vide sec. 87.
 
-rary of Shah Jehan. About | अन्त्यष्टिप्रकाश by दिवाकर, of the 1660 A. D. 
+अनाचारनिर्णय.
 
-__ भारद्वाजगोत्र. N ( new series) अनुपविवेक attributed to अनूपसिंह 
+[[अनावृष्टशान्ति|अनावृष्टिशान्ति]] of शौनक.
 
-vol. III. p. 3. देव of Bikaner. Treats of the | अन्त्यष्टिप्रयोग ( आपस्तम्बीय). शालग्रामपरीक्षण in five ullāsas. 
+अनुभोगकल्पतरु by जगन्नाथ.
 
-अन्त्येष्टिप्रयोग (हिरण्यकेशी) by केशव अनूपदेव ruled in 1673, con of कर्णसिंह (1634 ). Vide D. C. 
+अनुमरणप्रदीप by गौरीशभट्ट.
 
-__भट्ट from his प्रयोगमणि. ms. 22 of 1902-1907 copied in | अन्त्येष्टिप्रयोग by नारायणभट्ट. Vide sake 1691. Vide under दान- | sec. 108. 
+अनुमरणविवेक (quoted by रघुनन्दन in शुद्धितत्त्व).
 
-रत्नाकर. 
+अनुयागपद्धति by आनन्दतीर्थ, son of [[जनार्दन|जनार्दन.]]
 
-अन्त्यष्टिप्रयोग by विश्वनाथ, based on अन्तरिक्षवायुवीर्यप्रकाश. 
+अनुयागपद्धति by कृष्णानन्दसरस्वती.  
+C. by आर्याध्वरीन्द्र (Baroda O. I. No. 12537).
 
-आश्वलायन. अन्त्यकर्मदीपिका by हरिभट्ट दीक्षित. अन्त्येष्टिविधि by जिकन, quoted by अन्त्यकर्मपद्धति. 
+अनुष्ठानपद्धति.  
+C. by रघुनाथ.
 
-रघुनन्दन in शुद्धितत्त्व. अन्त्यक्रियाविधि by मणिराम. Quotes 
+अनूपविलास or धर्माम्भोधि written under Anūpasiṁha Rāṭhor by मणिराम दीक्षित, son of गङ्गाराम, son of शिवदत्त, divided into six parts, आचाररत्न, समयरत्न, संस्काररत्न, वत्सररत्न, दानरत्न, शुद्धिरत्न. Refers to Alamgir, emperor of Delhi. अनूपसिंह was contempo[[P991]]rary of Shah Jehan. About 1660 A. D.
 
-| अन्त्यष्टिप्रायश्चित्त. शुद्धिमयूख. Later than 1640 A.D. 
+अनूपविवेक attributed to अनूपसिंहदेव of Bikaner. Treats of the शालग्रामपरीक्षण in five ullāsas. अनूपदेव ruled in 1673, son of कर्णसिंह (1634). Vide D. C. ms. 22 of 1902–1907 copied in śake 1691. Vide under दानरत्नाकर.
 
-अन्त्यष्टिमामग्री. अन्त्येष्टि. 
+अन्तरिक्षवायुवीर्यप्रकाश.
 
-अन्त्येत्यष्ट्यर्क printed in Bombay in अन्त्येष्टि क्रियापद्धति. 
+अन्त्यकर्मदीपिका by हरिभट्ट दीक्षित.
 
-1890 A. D. अन्त्येष्टिपद्धति. 
+अन्त्यकर्मपद्धति.
 
-अन्नदान. अन्त्यष्टिपद्धति by अनन्तदेव, son of 
+अन्त्यक्रियाविधि by मणिराम. Quotes शुद्धिमयूख. Later than 1640 A. D.
 
-अन्नप्राशन. मापदेव. Vide sec. 114. 
+अन्त्येष्टि.
 
-अन्नप्राशन भन्त्यष्टिपद्धति by केशव, son of अनन्त- अन्वष्टका. 
+अन्त्येष्टिक्रियापद्धति.
 
-भट्ट of पुण्यस्तम्भ ( Puntambe on अन्वष्टकानवमीश्राद्धपद्धति. the Godāvari). Later than 
+अन्त्येष्टिपद्धति.
 
-अपमृत्युञ्जयशानि ascribed to शौनक. 1450 A. D. 
+अन्त्येष्टिपद्धति by अनन्तदेव, son of आपदेव. Vide sec. 114.
 
-अपिपालपद्धति (or शूद्रपद्धति) of अपि अन्त्येष्टिपद्धति by महेश्वरभट्ट. 
+अन्त्येष्टिपद्धति by केशव, son of अनन्तभट्ट of पुण्यस्तम्भ (Puṇṭāmbe on the Godāvarī). Later than 1450 A. D.
 
-पाल m. in श्राद्धतत्त्व of रघुनन्दन, अन्त्यष्टिपद्धति by रामाचार्य. 
+अन्त्येष्टिपद्धति by महेश्वरभट्ट.
 
-श्राद्ध क्रियाकौमुदी of गोविन्दानन्द. भन्न्येष्टिपद्धति by हरिहर son of भास्कर Earlier than 1500 A. D. 
+अन्त्येष्टिपद्धति by रामाचार्य.
 
-alias भानुभट्ट, following भारद्वाज 
+अन्त्येष्टिपद्धति by हरिहर son of भास्कर alias भानुभट्ट, following भारद्वाजसूत्र, and the भाष्य thereon; says there are a hundred पद्धतिs following भारद्वाज, but his is quite different.
 
-अपिपालकारिका m.in मालमासतत्व of सूत्र, and the भाष्य thereon; 
+अन्त्येष्टिपद्धति or और्ध्वदेहिकपद्धति by भट्टनारायण, son of रामेश्वर; vide sec. 108 (pr. Nir. P.).
 
-रघुनन्दन. says there are a hundred qaias following भारद्वाज, but his is 
+अन्त्येष्टिपद्धति or और्ध्वदेहिकपद्धति by विश्वनाथ son of गोबाल.
 
-अपेक्षितार्थद्योतिनी, com. by नारायण, quite different. 
+अन्त्येष्टिप्रकाश by दिवाकर, of the भारद्वाजगोत्र. N (new series) vol. III. p. 3.
 
-m. in मदनरत्न (शान्त्यु योत ). 
+अन्त्येष्टिप्रयोग (आपस्तम्बीय).
 
-अन्त्येष्टिपद्धति or और्वदेहिकपद्धति by 
+अन्त्येष्टिप्रयोग (हिरण्यकेशी) by केशवभट्ट from his प्रयोगमणि.
 
-अब्दपूर्तिप्रयोग or वर्षसिद्धि. भट्टनारायण, son of रामेश्वर; vide अब्दमूर्तिपूजा. sec. 108 (Fr. Nir. P.). अब्धि by केदार (?); quoted by अन्त्येष्टिपद्धति or और्ध्वदेहिकपद्धति by ___ श्रीधर in स्मृत्यर्थसार. 
+अन्त्येष्टिप्रयोग by नारायणभट्ट. Vide sec. 108.
 
-विश्वनाथ son of गोबाल. 
+अन्त्येष्टिप्रयोग by विश्वनाथ, based on आश्वलायन.
 
-अभक्ष्यभक्ष्यप्रकरण. 
+अन्त्येष्टिविधि by जिकन, quoted by रघुनन्दन in शुद्धितत्त्व.
 
-992 
+अन्त्येष्टिप्रायश्चित्त.
 
+अन्त्येष्टिसामग्री.
 
+[[अन्त्येत्यष्ट्यर्क|अन्त्येष्ट्यर्क]] printed in Bombay in 1890 A. D.
 
-. 
+अन्नदान.
 
-1 
+अन्नप्राशन.
 
-. 
+अन्नप्राशनप्रयोग.
 
-अभिनवप्रायश्चित्त. 
+अन्वष्टका.
 
-अरुणस्मृति m. in दानचन्द्रिका, निर्णय अभिनवमाधवीय by माधवाचार्य सिन्धु. Vide Ulwar cat. No. अभिनवषडशीति ( on अशौच ) by सुब 
+अन्वष्टकानवमीश्राद्धपद्धति.
 
-1253 and extract 285, which 
+अपमृत्युञ्जयशान्ति ascribed to शौनक.
 
-show that there are 149 verses झण्य, son of वेङ्कटेश of पोंगरिवंश | (printed in Telugu script, 
+अपिपालपद्धति (or शूद्रपद्धति) of अपिपाल m. in श्राद्धतत्त्व of रघुनन्दन, श्राद्धक्रियाकौमुदी of गोविन्दानन्द. Earlier than 1500 A. D.
 
-on acceptance of gifts and Madras 187-4). Vide Hultzsch's 
+अपिपालकारिका m. in [[मालमासतत्व|मलमासतत्त्व]] of रघुनन्दन.
 
-प्रायश्चित्तs connected therewith. R. vol. II. p. 113 and preface | मर्कविवाहपद्धति by शौनक. p. VI. 
+अपेक्षितार्थद्योतिनी, com. by नारायण, m. in मदनरत्न (शान्त्युद्योत).
 
-अविवाह ( on marriage with the C. धर्मप्रदीपिका by the author | Arka plant before marrying a himself; refers to चन्द्रिका, माध. 
+अब्दपूर्तिप्रयोग or वर्षसिद्धि.
 
-third wife on the death of the वीय and षडशीति of कौशिकादित्य. first two). BBRAS. cat. p. 240 
+अब्दमूर्तिपूजा.
 
-Later than 1400 A. D. अर्घ्यदान. भभिलषितार्थचिन्तामणि, alias मानसो- | अर्घ्यप्रदानकारिका. 
+अब्धि by केदार (?); quoted by श्रीधर in स्मृत्यर्थसार.
 
-ल्लास by चालुक्य king सोमेश्वर । अानुष्ठान. (vol. I in G.O. S. and also in अर्जुनार्चनकल्पलता by रामचन्द्र (on 
+अभक्ष्यभक्ष्यप्रकरण.
 
-Mysore G. O. L.); composed in worship of कार्तवीर्य). 1051 Sake (i. e. 1129 A. D.); | अर्जुना पारिजात by रामचन्द्र. has 100 chapters divided into | अर्थकौमुदी of गोविन्दानन्द, a com. on five विंशतिs on ' means (of acquir- शुद्धिदीपिका. Vide sec. 106. ing rājya ' ' means of the sta- | अर्थशास्त्र of कौटिल्य ; vide sec. 14. 
+[[P992]] अभिनवप्रायश्चित्त.
 
-bility of the kingdom, ' ' royal ____C. प्रतिपदपञ्चिका of भट्टस्वामिन enjoyments,' riroda or recrea- ( ms. on chap. 8-36 of 2nd tions' and 'kriila' (games अधिकरण ). and sports ). 
+अभिनवमाधवीय by माधवाचार्य.
 
-C. नयचन्द्रिका of माधवयज्वमिश्र. अभ्युदयश्राद्ध. 
+अभिनवषडशीति (on अशौच) by सुब्रह्मण्य, son of वेङ्कटेश of पोंद्रिवंश (printed in Telugu script, Madras 1874). Vide Hultzsch’s R. vol. II. p. 113 and preface p. VI.  
+C. धर्मप्रदीपिका by the author himself; refers to चन्द्रिका, माधवीय and षडशीति of कौशिकादित्य. Later than 1400 A. D.
 
-C. श्रीमूल by गणपतिशाखिन् ( Tri. 
+अभिलषितार्थचिन्तामणि, alias मानसोल्लास by चालुक्य king सोमेश्वर (vol. I in G. O. S. and also in Mysore G. O. L.); composed in 1051 śake (i. e. 1129 A. D.); has 100 chapters divided into five विंशतिs on ‘means of acquiring rājya’ ‘means of the stability of the kingdom,’ ‘royal enjoyments,’ ‘vinoda or recreations’ and ‘krīḍā’ (games and sports).
 
-S. S ). ममृतव्याख्या m. in शुद्धिचन्द्रिका ok 
+अभ्युदयश्राद्ध.
 
-अर्थप्रदीप m. in राजनीतिरत्नाकर of नन्दपण्डित. Earlier than 1575 A. D, 
+अमृतव्याख्या m. in शुद्धिचन्द्रिका of नन्दपण्डित. Earlier than 1575 A. D.
 
-चण्डेश्वर 
+अम्बिकार्चनचन्द्रिका m. in अहल्याकामधेनु.
 
-अम्बिकार्चनचद्रिका m. in अहल्याकाम 
+अयननिर्णय by नारायणभट्ट.
 
-अर्धोदयपर्व पूजन ( Baroda O. I. No. 
+अयाचितकालनिर्णय.
 
-3742). 
+अयुतहोमलक्षहोमकोटिहोमाः by राम, a protege of अनूपसिंह of Bikaner. About 1650 A. D.
 
-अहन्नीति of हेमाचार्य; 1088-1172 A.D. अयननिर्णय by नारायणभट्टः 
+अयुतहोमविधि by नारायणभट्ट. Vide sec. 108.
 
-(printed at Ahmedabad, 1906). अयाचितकालनिर्णय. 
+अरुणस्मृति m. in दानचन्द्रिका, निर्णयसिन्धु. Vide Ulwar cat. No. 1253 and extract 285, which show that there are 149 verses on acceptance of gifts and प्रायश्चित्तs connected therewith.
 
-अलङ्कारदान. अयुतहोमलक्षहोमकोटिहोमाः by राम, 
+अर्कविवाहपद्धति by शौनक.
 
-अलसकाजीर्णप्रकाश. a protege of अनूपसिंह of Bika 
+अर्कविवाह (on marriage with the Arka plant before marrying a third wife on the death of the first two). BBRAS. cat. [[p. 240|p. 240.]]
 
-अल्पयम m. in स्मृतिसार of हरिनाथ. ner. About 1650 A. D. 
+अर्घ्यदान.
 
-अवधूताश्रम -Ano. Gives denomi अयुतहोमविधि by नारायणभट्ट. Vide | pations of ten ciasses of sam 
+अर्घ्यप्रदानकारिका.
 
-see. 108. 
+अर्घ्यानुष्ठान.
 
-nyāsins and their duties. N 
+अर्जुनार्चनकल्पलता by रामचन्द्र (on worship of कार्तवीर्य).
 
-धेनुः 
+अर्जुनार्चनपारिजात by रामचन्द्र.
 
-List of works on Dharmaśāstra 
+अर्थकौमुदी of गोविन्दानन्द, a com. on शुद्धिदीपिका. Vide sec. 106.
 
-993 
+अर्थशास्त्र of कौटिल्य; vide sec. 14.  
+C. प्रतिपदपञ्चिका of भट्टस्वामिन् (ms. on chap. 8–36 of 2nd अधिकरण).  
+C. नयचन्द्रिका of माधवयज्वमिश्र.  
+C. श्रीमूल by गणपतिशास्त्रिन् (Tri. S. S).
 
-( new series) vol. III. preface | अष्टादशविवादसंक्षेप (Stein p. 82). p. IX and p. 8. 
+अर्थप्रदीप m. in राजनीतिरत्नाकर of चण्डेश्वर.
 
-| अष्टादशसंस्काराः by चतुर्भुज. अवसानकालप्रायश्चित्त. 
+अर्धोदयपर्वपूजन (Baroda O. I. No. 3742).
 
-अष्टादशस्मृतिसार. अशुद्धिचन्द्रिका (or rather शुद्धिचन्द्रि- अष्टादशस्मृतिसारसंग्रहः (Baroda 0. I. 
+अर्हन्नीति of हेमाचार्य; 1088–1172 A. D. (printed at Ahmedabad, 1906).
 
-का) by नन्दपण्डित. Vide sec. 110. No. 10214). अशौचनिर्णय by उमानाथ (B. O. Cat. असगोत्रपुत्रपरिग्रहपरीक्षा by अहोबल.N ____No. 10, p. 7). 
+अलङ्कारदान.
 
-(new series) vol. III. p. 11. भशौचप्रकाश-vide under आशौच- असपिण्डासगोत्रपरीक्षा-probably the 
+अलसकाजीर्णप्रकाश.
 
-प्रकाश. Many works on अशौच ! same as असगो...परीक्षा above. indiscriminately use the words असपिण्डासगोत्रपत्रपरिग्रहविधि by अशौच and आशौच. 
+अल्पयम m. in स्मृतिसार of हरिनाथ.
 
-अहोबलशास्त्रिन्. भशौचसार by सत्पण्डितश्रीबलभद्र, . अस्थिप्रक्षेप (from चन्द्रप्रकाश Baroda 
+अवधूताश्रम—Ano. Gives denominations of ten classes of saṁnyāsins and their duties. N [[P993]] (new series) vol. III. preface p. IX and p. 8.
 
-mentions कुबेरपण्डित, भीमोपाध्या- O. I. No. 5478). य, भवदेवभट्ट and स्मृतिसमुच्चयः अस्थिशुद्धि. अश्वत्थपूजा. 
+अवसानकालप्रायश्चित्त.
 
-। अस्थिशुद्धिप्रयोग. अश्वत्थप्रतिष्ठा 
+अशुद्धिचन्द्रिका (or rather शुद्धिचन्द्रिका) by नन्दपण्डित. Vide sec. 110.
 
-अस्थ्यु द्धरण. अश्वत्थोद्यापन (from शौनकस्मृति) अहविधि. 
+अशौचनिर्णय by उमानाथ (B. O. Cat. No. 10, p. 7).
 
-BBRAS cat, vol. II. p. 210. , अहल्याकामधेनु ( Ms. in Benares अश्वत्थोपनयनपद्धति ( acc. to शानक) 
+अशौचप्रकाश-vide under आशौचप्रकाश. Many works on अशौच indiscriminately use the words अशौच and आशौच.
 
-___S. college) by केशवदास, called BBRAS cat. vol. II. p. 240. 
+अशौचसार by सत्पण्डितश्रीबलभद्र, mentions कुबेरपण्डित, भीमोपाध्याय, भवदेवभट्ट and स्मृतिसमुच्चय.
 
-after अहल्या, wife of खण्डेराव, अश्वदान. 
+अश्वत्थपूजा.
 
-son of मल्लारिराव; seems to refer 
+अश्वत्थप्रतिष्ठा.
 
-to Abilyabai, the famous ruler अष्टकाकमन्. 
+अश्वत्थोद्यापन (from शौनकस्मृति) BBRAS cat. vol. II. p. 240.
 
-of Indore in the latter half of अष्टकाकर्मपद्धति. 
+अश्वत्थोपनयनपद्धति (acc. to शौनक) BBRAS cat. vol. II. p. 240.
 
-the 18th century). अष्टकाशौचभाष्य vide सूनकनिर्णय. अष्टमहाद्वादशीनिर्णय by रघुनाथ, son | अहिर्बुध्न्यसंहिता ( Pr, at Adyar by 
+अश्वदान.
 
-of माधव ( Baroda 0. I. No. ___Sehrader). 12586 A ). About 1550-1625 
+अष्टकाकर्मन्.
 
-अर्हनीति by हेमाचार्य, दायभाग por A. D. 
+अष्टकाकर्मपद्धति.
 
-tion, pr. at Lucknow in 1891. अष्टमहामन्त्रपद्धति quoted in स्मृत्यर्थ 
+अष्टकाशौचभाष्य vide सूतकनिर्णय.
 
-| आग्रयणपद्धति by विठ्ठल दीक्षित Part सागर. 
+अष्टमहाद्वादशीनिर्णय by रघुनाथ, son of माधव (Baroda O. I. No. 12586 A). About 1550–1625 A. D.
 
-___of यजुर्वल्लभा (q. v.). अष्टविंशतिमुनिमत ( Baroda o. I. ! 
+अष्टमहामन्त्रपद्धति quoted in स्मृत्यर्थसागर.
 
-No. 12743). 
+[[अष्टविंशतिमुनिमत|अष्टाविंशतिमुनिमत]] (Baroda O. I. No. 12743).
 
-| आङ्गिरसस्मृति on प्रायश्चित्त in 12 
+अष्टश्राद्धविधानविधि.
 
-___chapters. (I. O. Cat vol. III. अष्टश्राद्धविधान विधि. 
+अष्टादशगोत्र (Baroda O. I. No. 3854).
 
-___p. 380, No. 1304) अष्टादशगोत्र ( Baroda 0. I. No. 
+[[अष्टदशजातिनिर्णय|अष्टादशजातिनिर्णय]] (Stein p. 82).
 
-आचारकाण्ड 3854 ). 
+अष्टादशविवादसंक्षेप (Stein p. 82).
 
-आचारकौमुदी by गोपाल (Baroda o. अष्टदशजातिनिर्णय (Stein p. 82). I. No. 11133). 
+अष्टादशसंस्काराः by चतुर्भुज.
 
-H. D.---125 
+अष्टादशस्मृतिसार.
 
-994 
+अष्टादशस्मृतिसारसंग्रहः (Baroda O. I. No. 10214).
 
+असगोत्रपुत्रपरिग्रहपरीक्षा by अहोबल. N (new series) vol. III. p. 11.
 
+असपिण्डासगोत्रपरीक्षा-probably the same as असगो...परीक्षा above.
 
-भाचारकौमुदी by राजाराम son of | आचारतराङ्गणी by रविनाथमिश्र. 
+असपिण्डासगोत्रपुत्रपरिग्रहविधि by अहोबलशास्त्रिन्.
 
-सोमेश्वर (Vaiṣṇavite treatise on | आचारतत्त्व by हरिप्रसाद, son of मकरन्द good conduct and devotion to (Stein's cat. pp. 83 and 301). Viṣṇu) ms. (N. vol. VIII. 191) | 
+अस्थिप्रक्षेप (from चन्द्रप्रकाश Baroda O. I. No. 5478).
 
-आचारतिलक quoted in द्रव्यशुद्धि dated संवत् 1782 (1725-26 A.D.). 
+अस्थिशुद्धि.
 
-दीपिका and निर्णयदीपक; earlier माचारखण्ड ( Baroda 0. I. No. | than 1500 A. D. 
+अस्थिशुद्धिप्रयोग.
 
-12796). 
+अस्थ्युद्धरण.
 
-आचारतिलक by गङ्गाधर in 108 आचारचन्द्रिका by त्रिविक्रमसूरि. verses. Vide D. C. Ms. No. 135 भाचारचन्द्रिका by पद्मनाभदत्त. In of 1886-92 for a fragment. 
+अहर्विधि.
 
-1367 A.D. he composed his सुपद्म | आचारदर्पण by श्रीदत्त the same as grammar and his पृषोदरादिवृत्ति | आचारादर्श; vide sec 90. in 1375 A. D. 
+अहल्याकामधेनु (Ms. in Benares S. college) by केशवदास, called after अहल्या, wife of खण्डेराव, son of मल्लारिराव; seems to refer to Ahilyabai, the famous ruler of Indore in the latter half of the 18th [[century).|century.]]
 
-आचारदर्पण of बोपदेव, m. in पूर्तदिन. भाचारचन्द्रिका by रत्नेश्वरमिश्र. । 
+अहिर्बुध्न्यसंहिता (pr. at Adyar by Schrader).
 
-करोद्योत. माचारचन्द्रिका by रमापति. 
+अर्हन्नीति by हेमाचार्य, दायभाग portion, pr. at Lucknow in 1891.
 
-आचारदर्शन आचारचन्द्रिका by श्रीनाथाचार्य चूडा 
+आग्रयणपद्धति by विठ्ठल [[दीक्षित|दीक्षित.]] Part of यजुर्वल्लभा (q. v.).
 
-आचारदीधिति part of the स्मृतिकौ मणि, son of श्रीकराचार्य (on 
+आङ्गिरसस्मृति on प्रायश्चित्त in 12 chapters. (I. O. Cat. vol. III. p. 380, [[No. 1304)|No. 1304).]]
 
-। स्तुभ of अनन्तदेव. duties of शूद्रs and द्विजs), ms. copied in Sake 1410 (1488-89 
+आचारकाण्ड.
 
-आचारदीप-or प्रदीप by कमलाकर resi A.D.); m. by रघुनन्दन; flourished 
+आचारकौमुदी by गोपाल (Baroda O. I. No. 11133).
 
-___dent of कर्पूरग्राम (Kopargaon) on about 1475 A. D.; vide I 0. 
+[[P994]] आचारकौमुदी by राजाराम son of सोमेश्वर (Vaiṣṇavite treatise on good conduct and devotion to Viṣṇu) ms. (N. vol. VIII. 191) dated संवत् 1782 (1725–26 A. D.).
 
-the Godāvari. Cat. p. 524 for date Sake 1410 | आचारदीप by नागदेव on āhnika in of the ms. 
+आचारखण्ड (Baroda O. I. No. 12796).
 
-8 अध्याय; quoted by नीलकण्ठ in 
+आचारचन्द्रिका by त्रिविक्रमसूरि.
 
-his आचारमयूख and by आग्निहोत्रि माचारचन्द्रोदय alias माधवप्रकाश by 
+आचारचन्द्रिका by पद्मनाभदत्त. In 1367 A. D. he composed his सुपद्म grammar and his पृषोदरादिवृत्ति in 1375 A. D.
 
-महेश, son of सारस्वतदुर्ग and pupil 
+आचारचन्द्रिका by रत्नेश्वरमिश्र.
 
-हरिहर on कात्यायन' खानविधिसूत्रः 
+आचारचन्द्रिका by रमापति.
 
-ms. (B. O. Cat. No. 22) dated of विठ्ठल पुरुषोत्तम कविवर of मिथि 
+आचारचन्द्रिका by श्रीनाथाचार्यचूडामणि, son of श्रीकराचार्य (on duties of शूद्रs and द्विजs), ms. copied in Śake 1410 (1488–89 A. D.); m. by रघुनन्दन; flourished about 1475 A. D.; vide I. O. Cat. p. 524 for date Śake 1410 of the ms.
 
-1436 A. D. ला; divided into 8 परिच्छेदs in relation to the duties of the आचारदीपक of गंगाविष्णु, patroni eight parts of the day for Vāja 
+आचारचन्द्रोदय alias माधवप्रकाश by महेश, son of सारस्वतदुर्ग and pupil of विठ्ठल पुरुषोत्तम कविवर of मिथिला; divided into 8 परिच्छेदs in relation to the duties of the eight parts of the day for Vājasaneyas; composed under माधव, youngest of the three sons of a chief named नानू, king of लावपुर on the banks of इरावती on the Western coast of India. Later than 1500 A. D. Vide Mitra’s Notices V. p. 97 and I. O. Cat. p. 506.
 
-sed by त्रिविक्रम; ms. copied 1752 saneyas; composed under माधव, 
+आचारचन्द्रोदय by सदाराम.
 
-A. D. youngest of the three sons of a 
+आचारचिन्तामणि by वाचस्पतिमिश्र; m. by रघुनन्दन, श्रीदत्त. Vide sec. 101.
 
-आचारदीपिका. chief named नानू, king of लावपुर | 
+आचारतरङ्गिणी by रविनाथमिश्र.
 
-आचारदीपिका by कमलाकर. on the banks of granit on the 
+आचारतत्त्व by हरिप्रसाद, son of मकरन्द (Stein’s cat. pp. 83 and 301).
 
-आचारदीपिका, a com. by हरिलाल on Western coast of India. Later | ___the आचारादर्श of श्रीदत्त. than 1500 A. D. Vide Mitra's आचारदीपिका from सारसमुच्चय ( Ba 
+आचारतिलक quoted in द्रव्यशुद्धिदीपिका and निर्णयदीपक; earlier than 1500 A. D.
 
-Notices V. p. 97 and I. O. Cat. ___roda 0. I. No. 10910) p. 506. 
+आचारतिलक by गङ्गाधर in 108 verses. Vide D. C. Ms. No. 135 of 1886–92 for a fragment.
 
-माचारद्वैतविवेक by विभाकर, compo माचारचन्द्रोदय by सदाराम. 
+आचारदर्पण by श्रीदत्त the same as आचारादर्श; vide sec. 90.
 
-sed under king रामभद् of मिथि भाचारचिन्तामणि by वाचस्पतिमिश्र; m. ला; solves doubts on श्राद्ध. 
+आचारदर्पण of बोपदेव, m. in पूर्तदिनकरोद्योत.
 
-by रघुनन्दन, श्रीदत्त.Vide sec. 101. I About 1500 A. D. 
+आचारदर्शन.
 
-List of works on Dharmaśāstra 
+आचारदीधिति part of the स्मृतिकौस्तुभ of अनन्तदेव.
 
-995 
+आचारदीप- or प्रदीप by कमलाकर resident of कर्पूरग्राम (Kopargaon) on the Godāvarī.
 
-आचारनवनीत by अप्पा दीक्षित, a | आचाररत्न by लक्ष्मणभट्ट, son of राम 
+आचारदीप by नागदेव on āhnika in 8 अध्यायs; quoted by नीलकण्ठ in his आचारमयूख and by अग्निहोत्रिहरिहर on कात्यायन’s स्नानविधिसूत्र; ms. (B. O. Cat. No. 22) dated 1436 A. D.
 
-native of गौरीमायूर; composed, कृष्णभट्ट, son of नारायणभट्ट. He in the time of Shahaji (1684-- was younger brother of कमला 1711 A. D.); divided into four करभट्ट and so flourished 1580 kāndas on आचार, श्राद्ध, द्रव्यशुद्धि | 1640 A. D. pr. at Nir. P. and कालनिर्णयः 
+आचारदीपक of गंगाविष्णु, patronised by त्रिविक्रम; ms. copied 1752 A. D.
 
-आचाररत्न by चन्द्रमौलि. भाचारनिर्णय by गोपाल. 
+आचारदीपिका.
 
-आचाररत्नाकर quoted by रघुनन्दन in आचारनिर्णय in 66 verses on duties 
+आचारदीपिका by कमलाकर.
 
-माहिकतत्व. of ब्राह्मणs, origin of कायस्थः &c. 
+आचारदीपिका, a com. by हरिलाल on the आचारादर्श of श्रीदत्त.
 
-आचारवाक्यसुधा. माचारपञ्चाशिका by महाशर्मन् . 
+आचारदीपिका from सारसमुच्चय (Baroda O. I. [[No. 10910)|No. 10910).]]
 
-आचारवारिधि by रमापति उपाध्याय आचारपद्धति by वासुदेवेन्द्र. 
+आचारद्वैतविवेक by विभाकर, composed under king रामभद्र of मिथिला; solves doubts on श्राद्ध. About 1500 A. D.
 
-सन्मिश्र. He wrote विवादवारिधि " by विद्याकर. 
+[[P995]] आचारनवनीत by अप्पा दीक्षित, a native of गौरीमायूर; composed in the time of Shahaji (1684–1711 A. D.); divided into four kāṇḍas on आचार, श्राद्ध, द्रव्यशुद्धि and कालनिर्णय.
 
-also. " by श्रीधरसूरि. 
+आचारनिर्णय by गोपाल.
 
-आचारावाष माचारप्रकाश by भास्कर. son of 
+आचारनिर्णय in 66 verses on duties of ब्राह्मणs, origin of कायस्थs &c.
 
-आप्पाजी (Baroda O.I. No.12789). आचारविवेक by मानसिंह, आचारप्रकाशिका quoted in अहल्या- आचारविवेक by मदनासंह (part of 
+आचारपञ्चाशिका by महाशर्मन्.
 
-कामधेनु. 
+आचारपद्धति by वासुदेवेन्द्र.  
+,, by विद्याकर.  
+,, by श्रीधरसूरि.
 
-मदनरत्न). आचारप्रदीप by केशवभट्ट, quoted in 
+आचारप्रकाश by भास्कर, son of आप्पाजी (Baroda O. I. No. 12789).
 
-आचारव्रतादिरहस्य. श्राद्धतत्व of रघुनन्दनः 
+आचारप्रकाशिका quoted in अहल्याकामधेनु.
 
-आचारसंग्रह by रत्नपाणिशर्मा, son of माचारप्रदीप by नागदेव. He wrote __ गंगोली संजीवेश्वरशर्मा. 
+आचारप्रदीप by केशवभट्ट, quoted in श्राद्धतत्त्व of रघुनन्दन.
 
-निर्णयतत्त्व also. 
+आचारप्रदीप by नागदेव. He wrote निर्णयतत्त्व also.
 
-भाचारसंग्रह by हरिहरपण्डित, son of आचारप्रदीप by भट्टोजि. 
+आचारप्रदीप by भट्टोजि.
 
-नारायण. आचारप्रशंसा. 
+आचारप्रशंसा.
 
-आचारसागर of बल्लालसेन quoted in आचारभूषण of त्र्यम्बक राम ओक ( in | the मदनपारिजात (p. 58), स्मृति 1741 Sake) in 9 किरणs, pr. in रत्नाकर of वेदाचार्य, and in au Anan. P. 
+आचारभूषण of त्र्यम्बक राम ओक (in 1741 Śake) in 9 किरणs, pr. in Ānan. P.
 
-thor's own work दानसागर (com माचारमअरी by मथुरानाथ. 
+आचारमञ्जरी by मथुरानाथ.
 
-posed about 1168 A. D.). माचारमयूख of नीलकण्ठ (ed. by J. आचारसार m. by हेमाद्रि (III. 2. 
+आचारमयूख of नीलकण्ठ (ed. by J. R. Gharpure, Bombay and by Gujarati P., Bombay). Vide sec. 112.
 
-R. Gharpure, Bombay and by 900). Gujarati P., Bombay ). Vide | 
+आचारमाधवीय of माधवाचार्य, the first part of his com. on पराशरस्मृति.
 
-आचारसार by लक्ष्मणभट्ट, son of sec. 112. 
+आचारमाला by निधिराम.
 
-रामकृष्ण, son of नारायण, seems माचारमाधवीय ofमाधवाचार्य,the first to be the same work as भाचार 
+आचाररत्न m. in आह्निकतत्त्व of रघुनन्दन.
 
-part of his com. on पराशरस्मृति. रत्न above. आचारमाला by निधिराम. 
+आचाररत्न by मणिराम (first part of अनूपविलास).
 
-आचारस्मृतिचन्द्रिका by सदाशिव, son आचाररत्न m. in भाहिकतत्त्व of रघु- of गदाधर. 
+आचाररत्न by लक्ष्मणभट्ट, son of रामकृष्णभट्ट, son of नारायणभट्ट. He was younger brother of कमलाकरभट्ट and so flourished 1580–1640 A. D. pr. at Nir. P.
 
-नन्दन. 
+आचाररत्न by चन्द्रमौलि.
 
-आचारादर्श by श्रीदत्त (मैथिल). About आचाररत्न by मणिराम (first part of | 1300 A. D. (pr. at Benares, 
+आचाररत्नाकर quoted by रघुनन्दन in आह्निकतत्त्व.
 
-अनूपविलास). 
+आचारवाक्यसुधा.
 
-sarmvat 1920 and by Ven. P.); 
+आचारवारिधि by रमापति उपाध्याय सन्मिश्र. He wrote विवादवारिधि also.
 
-996 
+आचारविधि.
 
+आचारविवेक by मानसिंह.
 
+आचारविवेक by मदनसिंह (part of मदनरत्न).
 
-OP 
+आचारव्रतादिरहस्य.
 
-m. in the शुद्धिविवेक of रुद्रधर and | ब्राह्मण and son of होलिल(र)मिश्र, mentions कामधेनु, कल्पतरु and who was given the title quite हरिहर, vide sec. 90. 
+आचारसंग्रह by रत्नपाणिशर्मा, son of गंगोली संजीवेश्वरशर्मा.
 
-सालराय by the emperor. The C. by गौरीपति, son of दामोदर, 
+आचारसंग्रह by हरिहरपण्डित, son of नारायण.
 
-25th मयूख speaks of the origin composed in Benares in 1696 of शाकद्वीपीयब्राह्मणs. N. ( new संवत् (1640 A. D.). Pr. by Ven. 
+आचारसागर of बल्लालसेन quoted in the मदनपारिजात (p. 58), स्मृतिरत्नाकर of वेदाचार्य, and in author’s own work दानसागर (composed about 1168 A. D.).
 
-series) rol. II. pp. 10-12. P.C. आचारदीपिका by हरिलाल | आचारोल्लास by मधुरानाथ शुक्ल. 
+आचारसार m. by हेमाद्रि (III. 2. 900).
 
-। आचारादर्शिका, abridgment of the आचार्यगणादर्श, of वेङ्कटाचार्य son of 
+आचारसार by लक्ष्मणभट्ट, son of रामकृष्ण, son of नारायण; seems to be the same work as आचाररत्न above.
 
-भाचारादर्श 
+आचारस्मृतिचन्द्रिका by सदाशिव, son of गदाधर.
 
-शतक्रतुताताचार्य ( Madras ms. आचारार्क a part of धर्मशास्त्रसुधानिधि contains only the chap. called 
+आचारादर्श by श्रीदत्त (मैथिल). About 1300 A. D. (pr. at Benares, saṁvat 1920 and by Ven. P.); [[P996]] m. in the शुद्धिविवेक of रुद्रधर and mentions कामधेनु, कल्पतरु and हरिहर, vide sec. 90.  
+C. by गौरीपति, son of दामोदर, composed in Benares in 1696 संवत् (1640 A. D.). pr. by Ven. P.  
+C. आचारदीपिका by [[हरिलाल|हरिलाल.]]
 
-by दिवाकर, son of महादेव, son of 
+आचारादर्शिका, abridgment of the आचारादर्श.
 
-पंचकालक्रम dealing with rites बालकृष्ण; refers to नीलकण्ठ author and worships performed by of मयूखs who was his maternal वैष्णवs during the day divided grandfather; composed in संवत् । 
+आचारार्क a part of धर्मशास्त्रसुधानिधि by दिवाकर, son of महादेव, son of बालकृष्ण; refers to नीलकण्ठ author of मयूखs who was his maternal grandfather; composed in संवत् 1743 (i. e. 1686–87 A. D.).  
+C. by तकनलाल.
 
-into five parts). 1743 (i. e. 1686-87 A. D.). 
+आचारार्कक्रम (अनुक्रमणिका of आचारार्क) by the author’s son वैद्यनाथ who wrote अनुक्रमणिका to दानहारावलि and श्राद्धचन्द्रिका also.
 
-आचार्यचूडामणि. C. by तकनलाल. 
+आचारार्क by मथुरानाथ.
 
-C. on शूलपाणि's श्राद्धविवेक, भाचारार्कक्रम (अनुक्रमणिका of आचा- quoted by रघुनन्दन and in शूद्र 
+आचारार्क by रामचन्द्रभट्ट.
 
-राक) by the author's son वैद्यनाथ 
+आचारेन्दु of त्र्यम्बक, son of नारायण, surnamed माटे. Composed in Śake 1760 (1838 [[B. D.|A. D.]]) at सप्तर्षि (modern Satara). pr. in Ānan. P.
 
-कमलाकर. who wrote अनुक्रमाणिका to दानहा 
+आचारेन्दुशेखर by नागेशभट्ट, son of शिवभट्ट and सती. Vide sec. 115.
 
-आतिथ्येष्टि रावलि and श्राद्धचन्द्रिका also. 
+आचारोद्योत by टोडरानन्द.  
+,, part of मदनरत्नप्रदीप by मदनसिंहदेव.
 
-आतुरसंन्यास Vide B. B. R. A. S. भाचारार्क by मथुगनाथ. 
+आचारोल्लास first part of the परशुरामप्रकाश by खण्डेराय, son of नारायणपण्डित धर्माधिकारिन् at Benares at the bidding of परशुराममिश्र, who was a शाकद्वीपीय ब्राह्मण and son of होलिल(र)मिश्र, who was given the title वाणीरसालराय by the emperor. The 25th मयूख speaks of the origin of शाकद्वीपीयब्राह्मणs. N. (new series) vol. II. pp. 10–12.
 
-Cat. rol. II. p. 241. आचारार्क by रामचन्द्रभट्ट. 
+आचारोल्लास by मथुरानाथ शुक्ल.
 
-आतुरसंन्यासकारिका. आचारेन्दु of त्र्यम्बक, son of नारायण, 
+आचार्यगुणादर्श, of वेङ्कटाचार्य son of शतक्रतुताताचार्य (Madras ms. contains only the chap. called पंचकालक्रम dealing with rites and worships performed by वैष्णवs during the day divided into five parts).
 
-आतुरसंन्यासपद्धति ( Baroda o. I. surnamed माटे. Composed in 
+आचार्यचूडामणि.  
+C. on शूलपाणि’s श्राद्धविवेक, quoted by रघुनन्दन and in शूद्रकमलाकर.
 
-No. 5803). Sake 1760 (1838 B. D.) at सप्तर्षि (modern Satara). pr.in Anan.P. | भातुरसंन्यासविधिः आचारेन्दुशेखर by नागेशभट्ट, son of 
+आतिथ्येष्टि.
 
-आतुरसंन्यासविधि by आङ्गिरस. शिवभट्ट and सती. Vitle sec. 115. आतुरसंन्यासविधि by कात्यायन. भाचारोद्योत by टोडरानन्द. 
+आतुरसंन्यास Vide B. B. R. A. S. Cat. vol. II. p. 241.
 
-मातुरादिपद्धति D. C. Ms. No. 138 , part of मदनरत्नप्रदीप by | 
+आतुरसंन्यासकारिका.
 
-of 1886-92. मदनसिंहदेव. 
+आतुरसंन्यासपद्धति (Baroda O. I. No. 5803).
 
-आत्रेयधर्मशास्त्र in 9 अध्याय (I. O. माचारोल्लास first part of the परशु 
+आतुरसंन्यासविधि.
 
-Cat. vol. III. p. 380 No. 1305). रामप्रकाश by खण्डेराय, son of 
+आतुरसंन्यासविधि by आङ्गिरस.
 
-There is another in 6 chapters नारायणपण्डित धर्माधिकारिन् at 
+आतुरसंन्यासविधि by कात्यायन.
 
-(I. O. Cat. vol. III. p. 381, No. Benares at the hidding of परशु 
+आतुरादिपद्धति D. C. Ms. No. 138 of 1886–92.
 
-1304). राममिश्र, who was a शाकद्वीपीय । आत्रेयधर्मशास्त्र m. by विश्वरूप, हेमाद्रि. 
+आत्रेयधर्मशास्त्र in 9 अध्यायs (I. O. Cat. vol. III. p. 380 No. 1305). There is another in 6 chapters (I. O. Cat. vol. III. p. 381, No. 1308).
 
-List of works on Dharmaśāstra 
+आत्रेयधर्मशास्त्र m. by विश्वरूप, हेमाद्रि.
 
-997 
+[[P997]] आत्रेयस्मृति (in 369 verses). I. O. Cat. vol. III. p. 381.
 
-आत्रेयस्मृति (in 369 verses). I. O. | आपस्तम्बगृह्यप्रदीपिका. 
+आथर्वणगृह्यसूत्र (ms. in Bom. University Library) in 14 adhyāyas and 141 khaṇḍikās; ends with anadhyāya (school holidays); m. in नीतिमयूख.
 
-Cat. vol. III. p. 381. 
+आथर्वणप्रमिताक्षरा by वासुदेव, son of श्रीपति. (Baroda O. I. No. 7603). Mentions हेमाद्रि and त्रैविक्रमीपद्धति.
 
-आपस्तम्बगृह्यप्रयोग आथर्वणगृह्यसूत्र ( ms. in Bom. Uni- आपस्तम्बगृह्यभाष्यार्थसंग्रह quoted by 
+आदिधर्मसारसंग्रह attributed to Tulājirāja (1765–88 A. D.).
 
-versity Library) in 14 adhyayas । हेमाद्रि. and 141 khandikās; ends with 
+आदिस्मृत्यर्थसार– Vide स्मृत्यर्थसार.
 
-आपस्तम्बगृह्यसार by महामहोपाध्याय anadhyāya ( school holidays ); 
+आनन्दकरनिबन्ध– m. in स्मृतिसारोद्धार of विश्वम्भर.
 
-योपनभट्ट (आन्ध्र). m. in नीतिमयूख. आथर्वणप्रमिताक्षरा by वासुदेव, son of | 
+आपस्तम्बप्रायश्चित्तशतद्वयी– vide प्रायश्चित्तशतद्वयी.
 
-आपस्तम्बगृह्यसूत्रकारिका by सुदर्शन, श्रीपति. (Baroda O. I. No. 7603). 
+आपस्तम्बयल्लाजीय.
 
-_son of वाग्विजय. Mentions हेमाद्रि and त्रैविक्रमी- | आपस्तम्बगृह्यसूत्रकारिकावृत्ति by नर पद्धति. 
+आपस्तम्बसूत्रध्वनितार्थकारिका or त्रिकाण्डमण्डन by भास्करमिश्र, son of कुमारस्वामिन्. It contains four काण्ड on अधिकार, प्रतिनिधि, पुनराधान, आधान (pr. B. I. Series).  
+C. Vide Stein (Cat. p. 12).  
+C. पदप्रकाशिका or त्रिकाण्डमण्डनविवरण ano. (Is it same as above?)
 
-सिंह ( exposition of आपस्तम्बगृहा 
+आपस्तम्बगृह्यसूत्र (ed. by Winternitz and tr. in S. B. E. vol. 30).  
+C. अनाकुला by हरदत्त (pr. in Mysore G. O. L. Series).  
+C. by कर्क.  
+C. कपर्दिकारिका (pr. at Kumbhakonam, 1916).  
+C. गृह्यतात्पर्यदर्शन by सुदर्शनाचार्य (pr. Kashi S. Series).  
+C. प्रयोगवृत्ति by तालवृन्तनिवासिन् (pr. at Kumbhakonam, 1902).
 
-in 969 verses composed in sake attributed to 
+आपस्तम्बगृह्यप्रदीपिका.
 
-1536, 1614-15 A. D.; pr. in Tulajiraja ( 1765-88 A. D.). 
+आपस्तम्बगृह्यप्रयोग.
 
-1922 with Telugu tr.). मादिस्मृत्यर्थसार- Vide स्मृत्यर्थसार. आनन्दकरनिबन्ध-m. in स्मृतिसारोद्धार 
+आपस्तम्बगृह्यभाष्यार्थसंग्रह quoted by हेमाद्रि.
 
-आपस्तम्बजातकर्म by बापण्णभट्ट. of विश्वम्भर. 
+आपस्तम्बगृह्यसार by महामहोपाध्याय योपनभट्ट (आन्ध्र).
 
-आपस्तम्बधर्मसूत्र Vide sec. 7. आपस्तम्बप्रायश्चित्तशतद्वयी- vide प्राय: ___C. उज्ज्व ला by हरदत्त (pr. in B. 
+आपस्तम्बगृह्यसूत्रकारिका by सुदर्शन, son of वाग्विजय.
 
-श्चित्तशतद्वयी. 
+आपस्तम्बगृह्यसूत्रकारिकावृत्ति by नरसिंह (exposition of आपस्तम्बगृह्य in 969 verses composed in śake 1536, 1614–15 A. D.; pr. in 1922 with Telugu tr.).
 
-S. Series and at Kumbha मापस्तम्बयल्लाजीय. 
+आपस्तम्बजातकर्म by बापण्णभट्ट.
 
-konam). आपस्तम्बसूत्रध्वनितार्थकारिका or | आपस्तम्बपद्धति. 
+आपस्तम्बधर्मसूत्र Vide sec. 7.  
+C. उज्ज्वला by हरदत्त (pr. in B. S. Series and at Kumbhakonam).
 
-त्रिकाण्डमण्डन by भास्करमिश्र, son आपस्तम्बपद्धति by विश्वेश्वरभट्ट of कुमारस्वामिन्. It contains four 
+आपस्तम्बपद्धति.
 
-आपस्तम्बपरिभाषासूत्र (edited with काण्ड on अधिकार, प्रतिनिधि, पुन 
+आपस्तम्बपद्धति by विश्वेश्वरभट्ट.
 
-two com. in Mysore G. O. L. राधान, माधान (pr. B. I. Series ). 
+आपस्तम्बपरिभाषासूत्र (edited with two com. in Mysore G. O. L. Series 1894 and in Ānand. Series No. 93).  
+C. by कपर्दिस्वामिन्.  
+C. by हरदत्त.
 
-Series 1894 and in Anand, C. Vide Stein ( Cat. p. 12). 
+आपस्तम्बपूर्वप्रयोग.
 
-Series No. 93). C. पदप्रकाशिका or त्रिकाण्डमण्डन 
+आपस्तम्बपूर्वप्रयोगकारिका.
 
-C. by कपर्दिस्वामिन्. विवरण ano.(Is it same as abovel) 
+आपस्तम्बपूर्वप्रयोगपद्धति by शिङ्गभट्ट (Hultzsch R. [[1|I]] No. 87).
 
-C. by हरदत्त. आपस्तम्बगृह्यसूत्र (ed. by Winter- | 
+आपस्तम्बप्रयोगरत्न by नारायणयज्वन्.
 
-आपस्तम्बपूर्वप्रयोग. nitz and tr. in S. B. E. vol. 30). 
+आपस्तम्बप्रयोगसार.
 
-आपस्तम्बपूर्वप्रयोगकारिका. C. अनाकुला by हरदत्त (pr. in ___Mysore G.O. L. Series). 
+आपस्तम्बप्रयोगसार by गङ्गाभट्ट.
 
-आपस्तम्बपूर्वप्रयोगपद्धति by शिनाभट्ट C. by कर्क 
+आपस्तम्बप्रायश्चित्तशतद्वयी.  
+C. by वेङ्कटवाजपेयिन्.
 
-(Hultzsch R. 1 No. 87). C. कपर्दिकारिका (pr. at Kumbha 
+[[P998]] आपस्तम्बश्राद्धप्रयोग.
 
-| आपस्तम्बप्रयोगरत्न by नारायणयज्वन्. ___konam, 1916), 
+आपस्तम्बसूत्रकारिका.
 
-आपस्तम्बप्रयोगसार C. गृहातात्पर्यदर्शन by सुदर्शनाचार्य 
+आपस्तम्बसूत्रसंग्रह.
 
-आपस्तम्बप्रयोगसार by गङ्गाभट्ट (pr. Kasbi S. Series ). C. प्रयोगवृत्ति by तालवृन्तनिवासिन् | आपस्तम्बप्रायश्चित्तशतद्वयी. (pr. at Kumbhakonam,1902).! C. by वेङ्कटवाजपेयिन्। 
+आपस्तम्बस्मृति (in verse in 10 chapters) pr. by Jivananda.
 
-998 
+आपस्तम्बस्मृति, quoted by विज्ञानेश्वर, हेमाद्रि, माधव, हरदत्त.
 
+आपस्तम्बाह्निक.
 
+आपस्तम्बाह्निक by काशीनाथभट्ट.
 
-cha 
+आपस्तम्बाह्निक by गोवर्धन कविमण्डन.
 
-त्र्यम्बक. 
+आपस्तम्बाह्निक by रुद्रदेव तोरो.
 
-आपस्तम्बश्र 
+आपस्तम्बीयद्वादशसंस्काराः.
 
-आशौचकारिका. आपस्तम्बसूत्रकारिका. 
+आपस्तम्बीयमन्त्रपाठ ed. by Dr. Winternitz.
 
-भाशौचगङ्गाधरी by गङ्गाधर. आपस्तम्बसूत्रसंग्रह. 
+आपस्तम्बीयसंस्कारप्रयोग.
 
-माशौचचन्द्रिका. आपस्तम्बस्मृति (in verse in 10 | आशाचचन्द्रिका by वेदागराय, son of 
+आब्दिकनिर्णय.
 
-yananda, 
+आभ्युदयिकश्राद्ध.
 
-। त्यगलाभट्ट or तिगलाभट्ट, son of 
+आभ्युदयिकश्राद्धपद्धति.
 
-रत्नभट्ट ( Stein's cat. p. 83 ). मापस्तम्बस्मृति, quoted by विज्ञाने 
+आरामादिप्रतिष्ठापद्धति by गङ्गाराम महाडकर.
 
-आशौचचन्द्रिका by राजकृष्णतकंवागीश. श्वर, हेमाद्रि, माधव, हरदत्त. 
+आरामोत्सर्गपद्धति—see जलाशयारामोत्सर्गपद्धति.
 
-___ भट्टाचार्य मापस्तम्बाहिक. 
+आरामोत्सर्गपद्धति by भट्टनारायण.
 
-| आशौचतत्त्व- vide शुद्धितत्त्व. आपस्तम्बाह्निक by काशीनाथभट्ट. आपस्तम्बाह्निक by गोवर्धन कविमण्डन. | 
+आरामोत्सर्गपद्धति by शिवराम.
 
-आशौचतत्त्व by महादेव, son of विश्व 
+आरामोत्सर्गप्रयोग (Baroda O. I. No. 5424).
 
-नाथ of the अगस्त्यगोत्र, in 48 आपस्तम्बाहिक by रुद्रदेव तोरो. 
+आर्धचन्द्रिका.
 
-verses. Hultzsch R. II. p 143. आपस्तम्बीयद्वादशसंस्कारा.. 
+आर्धचन्द्रिका by वैद्यनाथ.
 
-C by शिवसूरि (महाजन ), son of मापस्तम्बीयमन्त्रपाठ ed. by Dr. 
+आर्ष्टिषेणस्मृति m. by निर्णयसिन्धु.
 
-Winternitz. 
+आवसथ्याधानपद्धति of श्रीदत्त.
 
-आशौचतत्त्वविचारः आपस्तम्बीयसंस्कारप्रयोगः 
+आशौच by वेङ्कटेश.
 
-आशौचत्रिंशच्छोकी-see त्रिंशच्छोकी; माब्दिकनिर्णय. भाभ्युदयिकश्राद्ध. 
+आशौचकाण्ड, part of दिनकरोद्योत.
 
-pr, at Aligarh. भाभ्युदयिकश्राद्धपद्धति. 
+आशौचकाण्ड by वैद्यनाथ दीक्षित (a part of स्मृतिमुक्ताफल).
 
-C. दीप by राघवभट्ट, whose guru 
+आशौचकारिका.
 
-was मुकुन्द; quotes स्मृत्यर्थ मारामादिप्रतिष्ठापद्धति by गङ्गाराम 
+आशौचगङ्गाधरी by गङ्गाधर.
 
-सारनिर्णयामृत. महाडकर. 
+आशौचचन्द्रिका.
 
-C. by भट्टाचार्य ( Baroda O. I. आरामोत्सर्गपद्धति-see जलाश्रयारामो 
+आशौचचन्द्रिका by वेदाङ्गराय, son of त्यगलाभट्ट or तिगलाभट्ट, son of रत्नभट्ट (Stein’s cat. p. 83).
 
-___No. 3883 is dated संवत् त्सर्गपद्धति 
+आशौचचन्द्रिका by राजकृष्णतर्कवागीशभट्टाचार्य.
 
-1579, 1522-23 A. D.). 
+आशौचतत्त्व– vide शुद्धितत्त्व.
 
-__C. by भट्टोजि. आरामोत्सर्गपद्धति by भट्टनारायण. 
+आशौचतत्त्व by महादेव, son of विश्वनाथ of the अगस्त्यगोत्र, in 48 verses. Hultzsch R. II. [[p|p.]] 143.  
+[[C|C.]] by शिवसूरि (महाजन), son of त्र्यम्बक.
 
-आशौचदशक alias दशश्लोकी by विज्ञा. आरामोत्सर्गपद्धति by शिवराम 
+आशौचतत्त्वविचार.
 
-नेश्वर; vide under दशश्लोकी also. भारामोत्सर्गप्रयोग ( Baroda O. I. No. 
+आशौचत्रिंशच्छ्लोकी–see त्रिंशच्छ्लोकी; pr. at Aligarh.  
+C. दीप by राघवभट्ट, whose guru was मुकुन्द; quotes स्मृत्यर्थसारनिर्णयामृत.  
+C. by भट्टाचार्य (Baroda O. I. No. 3883 is dated संवत् 1579, 1522–23 A. D.).  
+C. by भट्टोजि.
 
-C. विवरण by भट्टोजि. 5424 ). 
+आशौचदशक alias दशश्लोकी by विज्ञानेश्वर; vide under दशश्लोकी also.  
+C. विवरण by भट्टोजि.  
+C. by रघुनाथ, son of माधव, son of रामेश्वर; composed in A. D. 1578.  
+C. (विवृति) by विश्वेश्वर, son of लक्ष्मीधर; mentions विज्ञानेश्वर, वाचस्पति, भट्टोजि (Stein’s cat. p. 302 for extract); later than 1650 A. D.  
+C. by वेङ्कटाचार्य.  
+C. by श्रीधर.  
+[[P999]] C. by हरिहर (I. O. ms. dated संवत् 1589 i. e. 1532 A. D.; vide cat. p. [[565.|565).]]
 
-C. by रघुनाथ, son of माधव, son भार्धचन्द्रिका. 
+आशौचदीधिति, part of the स्मृतिकौस्तुभ by अनन्तदेव.
 
-_of रामेश्वर; composed in A.D. आर्धचन्द्रिका by वैद्यनाथ. 
+आशौचदीपक by a prince of कोटिलिङ्गपुरी (Cranganore).  
+C. by author.
 
-1578. आर्टिषेणस्मृति m. by निर्णयसिन्धुः । C. (विवृति ) by विश्वेश्वर, son of आवसथ्याधानपद्धति of श्रीदत्त. 
+आशौचदीपिका by अघोरशिवाचार्य.
 
-लक्ष्मीधर; mention: विज्ञानेश्वर भाशौच by वेङ्कटेश. 
+आशौचदीपिका by विश्वेश्वरभट्ट alias गागाभट्ट. N. VI. p. 136. Portion of दिनकरोद्योत on आशौच.
 
-वाचस्पति, भट्ठोजि (Stein's eat. 
+आशौचदीपिका by श्यामसुन्दर भट्टाचार्य.
 
-p. 302 for extract); later आशौचकाण्ड, part of दिनकरोद्योत. 
+आशौचदीपिका by कम्भालूर नृसिंह, who consulted हेमाद्रि, माधवीय, षडशीति, पारिजात.
 
-than 1650 A. D. आशौचकाण्ड by वैद्यनाथ दीक्षित (a C. by वेङ्कटाचार्य. 
+आशौचनिर्णय or षडशीति Aufrecht II. p. 11 identifies षडशीति with अभिनवषडशीति.
 
-part of स्मृतिमुक्ताफल). 
+आशौचनिर्णय by आदित्याचार्य or कौशिकादित्य.  
+C. शुद्धिचन्द्रिका by नन्दपण्डित (pr. Ch. S. Series) between 1590–1625 A. D.
 
-C. by श्रीधर. 
+आशौचनिर्णय of कौशिकाचार्य (in Bhadkamkar collection); contains 146 verses, refers to 86 verses of कौशिकादित्य and adds certain texts of गोभिल.
 
-List of works on Dharmaśāstra 
+आशौचनिर्णय by गोपाल, composed in शके 1535 (1613 A. D.); quoted by him in शुद्धिनिर्णय. N. IX p. 267.
 
-999 
+आशौचनिर्णय by गोविन्द, son of नृहर्याचार्य who is styled मातामह also by गोविन्द.
 
-c. by हरिहर (I. O. ms. dated | आशौचनिर्णय by जीवदेव, son of 
+आशौचनिर्णय by जीवदेव, son of आपदेव; born on the Godāvarī; probably brother of अनन्तदेव.
 
-संवत् 1589 i. e. 1532 A. D.; | आपदेव; born on the Godavari; vide cat. p. 565. 
+आशौचनिर्णय by त्र्यम्बकपण्डित, son of रघुनाथ, son of नारायण of the आङ्गिरसगोत्र (divided into अंशs), (pr. at Nir. P.). Quotes निर्णयसिन्धु and नागोजिभट्टीय; about 1760 A. D.
 
-probably brother of अनन्तदेव. माशौचदीधिति, part of the स्मृतिको आशौचनिर्णय by त्र्यम्बकपण्डित, son 
+आशौचनिर्णय by नागोजि, son of शिवभट्ट.
 
-स्तुभ by अनन्तदेव. 
+आशौचनिर्णय by भट्टोजि (1560–1620 A. D.).
 
-_of रघुनाथ, son of नारायण of the भाशौचदीपक by a prince of कोटि- आशिरसगोत्र (divided into अंशs), 
+आशौचनिर्णय by माधव, son of रामेश्वर; about [[1515–1570 A. D.).|1515–1570 A. D.]]
 
-लिङ्गपुरी (Cranganore). 
+आशौचनिर्णय by रघुनन्दन.
 
-(pr. at Nir. P.). Quotes aufero C. by author. 
+आशौचनिर्णय by रघुनाथपण्डित; vide under त्रिंशच्छ्लोकी.
 
-सिन्धु and नागोजिभट्टीय; about 
+आशौचनिर्णय by रामचन्द्र.
 
-1760 A. D. आशौचदीपिका by अघोरशिवाचार्य. 
+आशौचनिर्णय by वरद, son of श्रीनिवास. Refers to आशौचदशक and आशौचशतक as his authorities.
 
-| आशौचनिर्णय by नागोजि, son of आशौचदीपिका by विश्वेश्वरभट्ट alias 
+आशौचनिर्णय by वीरेश्वर.
 
-शिवभट्ट गागाभट्ट. N. VI. p. 136. Portion 
+आशौचनिर्णय by वेङ्कटाचार्य; see अघनिर्णय.
 
-आशौचनिर्णय by भट्टोजि (1560-1620 of दिनकरोद्योत on आशौच. 
+आशौचनिर्णय by वेदान्तरामानुजतातदास, son of वेङ्कटेशवरदताताचार्य.
 
-A. D.). आशौचदीपिका by श्यामसुन्दर भट्टा आशौचनिर्णय by माधव, son of रामे 
+आशौचनिर्णय by वैदिकसार्वभौम (Is it same as आशौचशतक?).  
+C. by शठकोपदास (Baroda O. I. No. 6380 b.).
 
-चार्यः 
+आशौचनिर्णय by श्रीनिवासतर्कवागीश.
 
-श्वर about 1515-1570 A. D.). भाशौचदीपिका by कम्भालूर नृसिंह, 
+आशौचनिर्णय by सोमव्यास.
 
-| आशौचनिर्णय by रघुनन्दनः who consulted हेमाद्रि, माधवीय, | षडशीति, पारिजात. 
+आशौचनिर्णय by हरि.
 
-आशौचनिर्णय by रघुनाथपण्डित; vide आशौचनिर्णय or षडशीति Aufrecht | under त्रिंशच्छोकी. 
+आशौचनिर्णय or स्मृतिकौस्तुभ by रायस वेङ्कटाद्रि.
 
-II. p. 11 identifies षडशीति with | आशौचनिर्णय by रामचन्द्र अभिनवषडशीति. 
+[[P1000]] आशौचनिर्णय or स्मृतिसंग्रह.
 
-भाशौचनिर्णय by वरद, son of श्रीनि आशौचनिर्णय by आदित्याचार्य or | वास. Refers to आशौचदशक and 
+आशौचनिर्णय or स्मृतिसार, a com. on some work of वेङ्कटेश.
 
-कौशिकादित्य. 
+आशौचनिर्णयसंग्रह (Baroda O. I. No. 12600).
 
-__ आशौचशतक as his authorities. C. शुद्धिचन्द्रिका by नन्दपण्डित 
+आशौचनिर्णयटीका by मथुरानाथ.
 
-आशौचनिर्णय by वीरेश्वर (pr. Ch. S. Series) between 
+आशौचपरिच्छेद.
 
-आशौचनिर्णय by वेङ्कटाचार्य; see 1590-1625 A. D. 
+आशौचप्रकाश by चतुर्भुज भट्टाचार्य; probably the same as that m. in शुद्धितत्त्व of रघुनन्दन and so before 1500 A. D.
 
-__ अघनिर्णय. भाशौचनिर्णय of कौशिकाचार्य (in 
+आशौचप्रकाश (from धर्मतत्त्वकलानिधि) by पृथ्वीचन्द्र.
 
-आशौचनिर्णय by वेदान्तरामानुजतात. Bhadkamkar collection ); con 
+आशौचमञ्जरी.
 
-दास, son of वेङ्कटेशवरदताताचार्य. tains 146 verses, refers to 86 
+आशौचमाला by गोपालसिद्धान्त.
 
-| आशौचनिर्णय by वैदिकसार्वभौम (Is verses of कौशिकादित्य and adds ! certain texts of गोभिल. 
+आशौचविवेक.
 
-it same as आशौचशतक?). 
+आशौचव्यवस्था by राधानाथशर्मन्.
 
-c. by शठकोपदास (Baroda o. I. माशौचनिर्णय by गोपाल, composed | 
+आशौचशतक.
 
-No. 6380 b.). in शके 1535 (1613 A. D.); | quoted by him in शद्धि निर्णय. N. | भाशौचनिर्णय by श्रीनिवासतर्कवागीश. IX p. 267. 
+आशौचशतक by रामेश्वर.
 
-आशौचनिर्णय by सोमव्यास. भाशौचनिर्णय by गोविन्द, son of | आशोचनिर्णय by हरि. 
+आशौचशतक by वेङ्कटाचार्य or वेङ्कटनाथ, son of रङ्गनाथ of the हारीतगोत्र, with his own com. Vide अघनिर्णय above. Hultzsch R. II. No. 1099.  
+C. आशौचनिर्णय by रामानुजदीक्षित.
 
-नृहर्याचार्य who is styled मातामह | आशौचनिर्णय or स्मृतिकौस्तुभ by also by गोविन्द 
+आशौचशतक by नीलकण्ठ.
 
-रायस वेङ्कटाद्रि. 
+आशौचशतक by वैदिकसार्वभौम (probably same as वेङ्कटाचार्य above).
 
-1000 
+आशौचषडशीति see above आशौचनिर्णय.
 
+आशौचसंक्षेप by मधुसूदनवाचस्पति.
 
+आशौचसंग्रह by सत्याधीशशिष्य (Baroda O. I. 5862).
 
-भाशौचनिर्णय or स्मृतिसंग्रह. आशौचसंग्रह by चतुर्भुज भट्टाचार्य 
+आशौचसंग्रह by चतुर्भुज भट्टाचार्य.
 
-आशौचनिर्णय or स्मृतिसार, a com. on | आशौचसंग्रह by रामचन्द्रशेखर, Son of 
+आशौचसंग्रह by रामचन्द्रशेखर, son of वेङ्कटनारायण.
 
-some work of वेङ्कटेश. 
+आशौचसंग्रह by वेङ्कटेश; quotes आचारनवनीत, अघनिर्णय, अघविवेक, अभिनवषडशीति.
 
-__वेङ्कटनारायण. आशौचनिर्णयसंग्रह (Baroda O. I. भाशीचसत्र 
+आशौचसंग्रहत्रिंशच्छ्लोकी– Vide under त्रिंशच्छ्लोकी.
 
-आशौचसंग्रह by वेङ्कटेश; quotes ___No. 12600). 
+आशौचसंग्रहविवृति by भट्टाचार्य.
 
-आचारनवनीत, अघनिर्णय, अघविवेक, 
+आशौचसागर of कुल्लूक m. in his श्राद्धसागर.
 
-अभिनवषडशीति. आशौचनिर्णयटीका by मथुरानाथ. 
+आशौचसागर by बलभद्र.
 
-आशौचसंग्रहत्रिंशच्छोकी-Vide under आशौचपरिच्छेद 
+आशौचसिद्धान्त.
 
-त्रिंशच्छोकी. आशौचप्रकाश by चतुर्भुज भट्टाचार्य; 
+आशौचस्मृतिचन्द्रिका.
 
-भुज भट्टाचायः आशौचसंग्रहविवृति by भट्टाचार्य. probably the same as that m. 
+आशौचस्मृतिचन्द्रिका by सदाशिव surnamed दशपुत्र, son of गदाधर; compiled for prince जयसिंह (of जयनगर). The author also wrote लिङ्गार्चनचन्द्रिका.
 
-आशौचसागर of कुल्लूक m. in his in शुद्धितत्व of रघुनन्दन and so 
+आशौचादर्श quoted in सारसंग्रह.
 
-श्राद्धसागर. before 1500 A. D. 
+आशौचादिनिर्णय by रामदैवज्ञ.
 
-आशौचसागर by बलभद्र. आशौचप्रकाश (from धर्मतत्त्वकलानिधि) आशौचसिद्धान्त. 
+आशौचाष्टक by वररुचि (pr. in Tri. S. Series).  
+C. anonymous. Names निर्णयकार, मस्करिन् on गौतमधर्मसूत्र and सहस्रस्वामिन्.
 
-by पृथ्वीचन्द्र. 
+आशौचीयदशश्लोकीविवृति by विश्वेश्वर, son of लक्ष्मीधर; see आशौचदशक alias दशश्लोकी above.
 
-आशोचस्मृतिचन्द्रिका आशौचमञ्जरी. 
+आशौचेन्दुशेखर by रामदैवज्ञ.
 
-आशौचस्मृतिचन्द्रिका by सदाशिव sur आशौचमाला by गोपालसिद्धान्त. 
+आशौचेन्दुशेखर by [[नागोजिभट्टा|नागोजिभट्ट.]]
 
-named दशपुत्र, son of गदाधर आशौचविवेक. 
+आश्वलायनगृह्यसूत्र (pr. Nir. P. and B. I. Series and translated in S. B. E. vol. 29).  
+C. अनाविला by हरदत्त (pr. Tri. S. Series).  
+[[P1001]] C. by आनन्दरायवाजपेययज्वन्, minister of Tanjore king Shahji and Sarfoji I.  
+C. by गदाधर.  
+C. विमलोदयमाला by जयन्तस्वामिन्, father of अभिनन्द and son of कान्त, son of कल्याणस्वामिन्. N. vol. X. p. 163. About end of 8th century.  
+C. by देवस्वामिन्; m. by नारायण. About 1000–1050 A. D.  
+C. by नारायण son of दिवाकर of नैध्रुवगोत्र (pr. B. I. Series and Nir. P.); refers to bhāṣya of देवस्वामी. Doubtful whether he is identical with नारायण, son of नरसिंह, commentator of आश्वलायनश्रौत. Vide BBRAS. cat. vol. II. p. 202.  
+C. by विष्णुगूढस्वामिन्. Follows देवस्वामिन्, नारायण and others.
 
-compiled for prince जयसिंह (of 
+आश्वलायनगृह्यकारिका in 22 adhyāyas and 1296 verses.  
+C. विवरण by a pupil of वृष्यदेव or उपदेवभट्ट.  
+C. by नारायण.
 
-जयनगर ). The author also wrote आशौचव्यवस्था by राधानाथशर्मन् . 
+आश्वलायनगृह्यकारिका by कुमारिलस्वामिन् (? कुमारस्वामिन्). Refers to नारायणवृत्ति on आश्वलायनगृह्य and to जयन्तस्वामिन् B.B.R.A.S. cat. vol. II. p. 203; pr. in Bombay, 1894.
 
-लिङ्गार्चनचन्द्रिका. आशौचशतक. आशौचशतक by रामेश्वर. 
+आश्वलायनगृह्यकारिका by रघुनाथदीक्षित.
 
-आशौचादर्श quoted in सारसंग्रह. 
+आश्वलायनगृह्यकारिकावली by गोपाल.
 
-आशौचादिनिर्णय by रामदैवज्ञ. आशौचशतक by वेङ्कटाचार्य or वेङ्कट नाथ, son of रङ्गनाथ of the हारीत 
+आश्वलायनगृह्यपरिशिष्ट (pr. Nir. P. and B. I. Series at end of गृह्यसूत्र).
 
-आशौचाष्टक by वररुचि (pr. in Tri. गोत्र, with his own com. Vide S. Series ). अघनिर्णय above. Hultzsch R. II. ___C. anonymous. Names निर्णय No. 1099. 
+आश्वलायनगृह्यपरिभाषा.
 
-कार, मस्करिन् on गौतमधर्मसूत्र 
+आश्वलायनगृह्यप्रयोग.
 
-and सहस्रस्वामिन् . C. माशौचनिर्णय by रामानुजदीक्षित 
+आश्वलायनगृह्योक्तवास्तुशान्ति by रामकृष्णभट्ट.
 
-आशौचीयदशश्लोकीविवृति by विश्वेश्वर, भाशौचशतक by नीलकण्ठ. 
+आश्वलायनधर्मशास्त्र in 22 अध्यायs on duties of द्विजs and on श्राद्ध, प्रायश्चित्त, जातिनिर्णय &c. (Baroda O. I. No. 8708).
 
-son of लक्ष्मीधर, see आशौचदशक आशौचशतक by वैदिकसार्वभौम (pro- | _ alias दशश्लोकी above. ___bably same as वेङ्कटाचार्य above). आशौचेन्दुशेखर by रामदैवज्ञ. भाशौचषडशीति see above आशौच. 
+आश्वलायनपूर्वप्रयोग (Hultzsch R. I. No. 431).
 
-आशौचेन्दुशेखर by नागोजिभट्टा निर्णय. 
+आश्वलायनप्रयोग.  
+C. वृत्ति by विष्णु.
 
-आश्वलायनगृह्यसूत्र (pr. Nir. P. and 
+आश्वलायनप्रयोगदीपिका by तिरुमल सोमयाजिन्, son of तिरुमलयज्वन्.
 
-___B. I.Series and translated in S. आशौचसंक्षेप by मधुसूदनवाचस्पति. 
+आश्वलायनयाज्ञिकपद्धति.
 
-B. E. vol. 29 ). माशौचसंग्रह by सत्याधीशशिष्य C. अनाविला by हरदत्त (pr. Tri. 
+आश्वलायनशाखश्राद्धप्रयोग by कमलाकर, son of रामकृष्ण.
 
-(Baroda O. I. 5862). 
+आश्वलायनसूत्रपद्धति by नारायण.
 
-S. Series).List of works on Dharmaśāstra 
+आश्वलायनप्रयोग by त्रैविद्यवृद्ध.
 
-1001 
+आश्वलायनसूत्रप्रयोगदीपिका by मञ्चनाचार्यभट्ट (pr. Benares S. Series).
 
-C. by आनन्दरायवाजपेययज्वन्, | आश्वलायनगृह्यपरिभाषा. __minister of Tanjore king | आश्वलायनगृह्यप्रयोग. 
+आश्वलायनस्मृति (ms. in Bombay University Library) in eleven adhyāyas and about 2000 verses; refers to आश्वलायनगृह्यसूत्र and वृत्ति thereon and कारिका also. Quoted by हेमाद्रि and [[माधवाचार्य|माधवाचार्य.]]
 
-Shahji and Sarfoji I. 
+आहिताग्निमरणे दाहादि (आश्वलायनीय).
 
-आश्वलायनगृह्योक्तवास्तुशान्ति by राम C. by गदाधर. 
+[[आहिनाग्निमरणे|आहिताग्निमरणे]] दाहादि by भट्टनारायण, son of रामेश्वरभट्ट. Vide sec. 107.
 
-कृष्णभट्ट. C. विमलोदयमाला by जयन्तस्वा- | आश्वलायनधर्मशास्त्र in 22 अध्यायs on 
+आहिताग्नेर्दाहादिनिर्णय by रामभट्ट, son of विश्वनाथ होसिंग.
 
-मिन्, father of अभिनन्द and | duties of द्विजs and on श्राद्ध, प्राय son of कान्त, son of कल्याण- श्चित्त, जातिनिर्णय c. ( Baroda 0. स्वामिन्. N. vol. x. p. 163. | 
+आहिताग्न्यन्त्येष्टिप्रयोग.
 
-I. No. 8708). About end of 8th century. 
+आहृततीर्थकस्नानप्रयोग.
 
-आश्वलायनपूर्वप्रयोग ( Hultzsch R. I. C. by देवस्वामिन् ; m. by नारायण. ___No. 431). 
+आह्निक– numerous works are so styled. Only some are noted below.
 
-About 1000--1050 A. D. C. by नारायण son of दिवाकर of 
+[[P1002]] आह्निक by आनन्द, son of प्रभाकर, of the दशपुत्रकुल.
 
-आश्वलायनप्रयोग. नैध्रुवगोत्र (pr. B. I. Series and | 
+आह्निक by आपदेव.
 
-__C. वृति by विष्णु. Nir. P.); refers to bhāsya | 
+आह्निक by कमलाकर, son of रामकृष्ण. Sec. 111; same as बह्वृचाह्निक.
 
-| आश्वलायनप्रयोगदीपिका by तिरुमल of देवस्वामी. Doubttul whe 
+आह्निक by गङ्गाधर.
 
-__ सोमयाजिन्, son of तिरुमलयज्वन्. ther he is identical with आश्वलायनयाज्ञिकपद्धति. 
+आह्निक by गोपालदेशिकाचार्य.
 
-नारायण, son of नरसिंह, com- आश्वलायनशाखश्राद्धप्रयोग by कमला mentator of भाश्वलायनौत. कर, son of रामकृष्ण. Vide BBR AS. cat, vol. II. | आश्वलायनसूनपद्धति by नारायण. p. 202. 
+आह्निक by छल्लारि नृसिंह for followers of मध्वाचार्य.
 
-आश्वलायनप्रयोग by विद्यवृद्ध. C. by विष्णुगूढस्वामिन्. Follows 
+आह्निक by ज्ञानभास्कर. He wrote आह्निकसंक्षेप also.
 
-आश्वलायगसूत्रप्रयोगदीपिका by मञ्चना देवस्वामिन्, नारायण and 
+आह्निक by दिवाकरभट्ट.
 
-चार्यभट्ट ( pr. Benares S. Series ). others, आश्वलायनगृह्यकारिका in 22 adhya- | 
+आह्निक by बलभद्र.
 
-| आश्वलायनस्मृति ( ms. in Bombay 
+आह्निक by भट्टोजि (from चतुर्विंशतिमतटीका).
 
-University Library ) in eleven yas and 1296 verses. C. विवरण by a pupil of वृष्यदेव 
+आह्निक by रघुनाथ, son of माधवभट्ट.
 
-adhyāyas and about 2000 
+आह्निक by विठ्ठलाचार्य.
 
-verses; refers to आश्वलायनगृह्य or उपदेवभट्ट 
+आह्निक (बौधायनीय) by विश्वपतिभट्ट.
 
-सूत्र and वृत्ति thereon and कारिका C. by नारायण. 
+आह्निक by वैद्यनाथ दीक्षित.
 
-also. Quoted by ATE and माश्वलायनगृह्यकारिका by कुमारिल 
+आह्निक by व्रजराज (for followers of वल्लभाचार्य).
 
-माधवाचार्य स्वामिन् ( ? कुमारस्वामिन् ). Refers 
+आह्निककारिका.
 
-| आहिताग्निमरणे दाहादि (आश्वलायनीय). to नारायणवृत्ति on आश्वलायनगृह्य and to जयन्तस्वामिन् B.B.R.A. 
+आह्निककृत्य of विद्याकर; m. in मलमासतत्त्व of रघुनन्दन and so before 1500 A. D.
 
-आहिनाग्निमरणे दाहादि by भट्टनारायण, S. cat. vol. II. p. 203; pr. in 
+आह्निककौतुक (from हरिवंशविलास).
 
-___son of रामेश्वरभट्ट. Vide sec. 107. Bombay, 1894. 
+आह्निककौस्तुभ by श्रीनिवास, pupil of यादवाचार्य (Baroda O. I. No. 8809). This is a com. on सदाचारस्मृति of आनन्दतीर्थ.
 
-आहिताग्नेहादिनिर्णय by रामभट्ट, son आश्वलायनगृद्यकारिका by रघुनाथ 
+आह्निकचन्द्रिका by काशीनाथ.
 
-___of विश्वनाथ होसिंग. दीक्षित. 
+आह्निकचन्द्रिका by कुलमणि शुक्ल (Is it चन्द्रिका or चन्द्रिकाटीका?).
 
-आहिताग्न्यन्त्येष्टिप्रयोग. आश्वलायनगृह्यकारिकावली by गोपाल. आहृततीर्थकस्नानप्रयोग. आश्वलायनगृह्यपरिशिष्ट (pr. Nir. P. | आह्निक- numerous works are so and B. I. Series at end of गद्य- styled. Only some are noted सूत्र ). 
+आह्निकचन्द्रिका by request of गोकुलचन्द्रवर्मन्.
 
-below. H. D.-128 
+आह्निकचन्द्रिका by गोपीनाथ.
 
-N 
+आह्निकचन्द्रिका by दिवाकर, son of महादेव काल, son of रामेशभट्ट; mentions भट्टोजीय (pr. at Nir. P. with extracts from सायण on Vedic mantras). Same as संक्षेपाह्निकचन्द्रिका.
 
-1002 
+आह्निकचन्द्रिका by देवराम.
 
+आह्निकचिन्तामणि quoted by रघुनन्दन in आह्निकतत्त्व (and so earlier than 1500 A. D.).
 
+आह्निकतत्त्व or आह्निकाचारतत्त्व by रघुनन्दन; pr. by Jivananda.  
+C. by मधुसूदन.
 
-मालिक by आनन्द, son of प्रभाकर, of | माह्निकचन्द्रिका by गोपीनाथ. 
+आह्निकदर्पण of रामकृष्ण (pr. with Marathi tr. in Bombay, 1876).
 
-the दशपुत्रकुल. 
+आह्निकदीपक.
 
-आहिकचन्द्रिका by दिवाकर, son of आह्निक by मापदेव. 
+आह्निकदीपक by अचल, residing at आनन्दपुर, son of वत्सराज, son of गोविन्द, son of लक्ष्मीधर, son of अनन्त surnamed मडोड. About 1518 A. D. Vide Ulwar cat. extract No. 291.
 
-महादेव काल, son of रामेशभट्ट, माह्निक by कमलाकर, son of रामकृष्ण. 
+आह्निकपद्धति by शिवराम. [[See.|See]] आह्निकसंक्षेप.
 
-mentions भट्टोजीय (pr. at Nir. _See. 111; same as बह्वचाह्निक. 
+आह्निकपद्धति by रघुनाथ सम्राट्स्थपति, son of माधव, son of रामेश्वर, he was younger brother of विश्वनाथ and [[प्रभाकर|प्रभाकर.]]
 
-P. with extracts from सायण on 
+आह्निकपद्धति by विठ्ठलदीक्षित. Vide यजुर्वल्लभा below.
 
-Vedic mantras ). Same as संक्षे माहिक by गङ्गाधर. 
+आह्निकपारिजात by अनन्तभट्ट.
 
-पाह्निकचन्द्रिका. आह्निक by गोपालदेशिकाचार्यः 
+आह्निकप्रकाश– from the वीरमित्रोदय.
 
-आह्निकचन्द्रिका by देवराम. माहिक by छल्लारि नृसिंह for follow- आह्निकचिन्तामणि quoted by रघुनन्दन 
+आह्निकप्रदीप– quoted by कमलाकर.
 
-ers of मध्वाचार्य. 
+आह्निकप्रयोग by कमलाकर of [[कूपरग्राम|कर्पूरग्राम]] (Kopargaon on the गोदावरी). There is confusion of authorship in Baroda O. I. No. 277.
 
-____in भाहिकतत्त्व (and so earlier माहिक by ज्ञानभास्कर. He wrote | than 1500 A. D. ). 
+[[P1003]] आह्निकप्रयोग by काशीदीक्षित, son of सदाशिवदीक्षित; quoted by अनन्त in his रुद्रकल्पद्रुम.
 
-माहिकसंक्षेप also. 
+आह्निकप्रयोग by गोवर्धन कविमण्डन (for आपस्तम्बीयs).
 
-माह्निकतत्त्व or मासिकाचारतत्व by रघु आह्निक by दिवाकरभट्ट. 
+आह्निकप्रयोग by मनोहरभट्ट, son of महादेवभट्ट (for हिरण्यकेशीयs).
 
-नन्दन ; pr. by Jivananda. 
+आह्निकप्रयोग by रघुनाथ, son of माधव son of रामेश्वरभट्ट; his younger brother प्रभाकर composed रसप्रदीप in 1583 A. D. at the age of 19.
 
-आहिक by बलभद्र. 
+आह्निकप्रयोगरत्नमाला by विश्वम्भरदीक्षित थिटे, son of मयूरेश्वरभट्ट resident of वैराज (modern Wai in Satara District). Mentions भट्टोजिदीक्षित, आचारार्क.
 
-C. by मधुसूदनः आह्निक by भट्टोजि ( from चतुर्विंशति 
+आह्निकप्रायश्चित्त mentions कमलाकर (I. O. Cat. III. p. [[555)|555).]]
 
-आह्निकदर्पण of रामकृष्ण (pr. with 
+आह्निकभास्कर by इन्द्रगण्टि सूर्यनारायण.
 
-_Marathi tr. in Bombay, 1876). मतटीका). माह्निक by रघुनाथ, son of माधवभट्ट. 
+आह्निकमञ्जरीटीका by वीरेश्वर, son of हरिपण्डित, son of शिवपण्डित at पुण्यस्तम्भ (modern Puṇṭāmbe) (on the Godāvarī); composed in śake वियन्नरशरेन्दुमिते [[i. e|i. e.]] 1598 A. D.
 
-आह्निकदीपक 
+आह्निकरत्न (on daily duties).
 
-भाहिक by विठ्ठलाचार्य. 
+आह्निकरत्न by दाक्षिणात्य शिरोमणिभट्ट. in three प्रकाशs.
 
-आह्निकदीपक by अचल, residing at आह्निक (बौधायनीय) by विश्वपतिभट्ट. 
+आह्निकरत्नचषक by गङ्गाधरसुत (Baroda O. I. No. 12306–7).
 
-भानन्दपुर, son of वत्सराज, son of आह्निक by वैद्यनाथ दीक्षित. 
+आह्निकविधि by कमलाकर.
 
-गोविन्द, son of लक्ष्मीधर, son of 
+आह्निकविधि by नारायणभट्ट.
 
-अनन्त surnamed मडोड. About माहिक by व्रजराज ( for followers of 
+आह्निकसंक्षेप of कौथुमिशाखा.
 
-1518 A. D. Vide Ulwar cat. वल्लभाचार्य) 
+आह्निकसंक्षेप of ज्ञानभास्कर.
 
-extract No. 291. माहिककारिका. 
+आह्निकसंक्षेप by वामदेव, written for Lālā Thakkura.
 
-आहिकपद्धति by शिवरामः See. आहिककृत्य of विद्याकर; m. in मल आह्निकसंक्षेप. 
+आह्निकसंक्षेप by शिवराम, an abridgment of वैद्यनाथ’s आह्निक.
 
-मासतत्त्व of रघुनन्दन and so | आदि 
+आह्निकसंग्रह of अनन्तभट्ट, son of नागेशभट्ट, son of यज्ञभट्ट for शुक्लयजुर्वेदिs.
 
-आहिकपद्धति by रघुनाथ सम्राट्स्थपति, before 1500 A. D. 
+आह्निकसार by दलपतिराज (2nd chap. of नृसिंहप्रसाद).
 
-_son of माधव, son of रामेश्वर , he माहिककौतुक ( from हरिवंशविलास). I was younger brother of विश्वनाथ माहिककौस्तुभ by श्रीनिवास, pupil of 
+आह्निकसार by बालम्भट्ट (probably same as author of आह्निकसारमञ्जरी below).
 
-___and प्रभाकर यादवाचार्य ( Baroda 0. I. No. 
+आह्निकसार by सुदर्शनाचार्य.
 
-आद्विकपद्धति by विठ्ठलदीक्षित. Vide 8809 ). This is a com. on सदा 
+आह्निकसार by हरिराम.
 
-यजुर्वल्लभा below. चारस्मृति of आनन्दतीर्थः माह्निकपारिजात by अनन्तभट्ट. भाहिकचन्द्रिका by काशीनाथ. 
+आह्निकसारमञ्जरी by बालम्भट्ट, son of [[विधनाथभट्ट|विश्वनाथभट्ट]] [[दातार|दातार.]]
 
-आहिकप्रकाश- from the वीरमित्रोदय. 
+आह्निकसूत्र of गौतम in 17 खण्डs on duties of ब्राह्मणs; vide BBRAS. cat. p. 204 No. 651.
 
-आहिकप्रदीप-quoted by कमलाकर. भाहिकचन्द्रिका by कुलमणि शुक्ल ( Is 
+आह्निकस्मृतिसंग्रह.
 
-आहिकप्रयोग by कमलाकर of कूपरग्राम it चन्द्रिका or चन्द्रिकाटीका!). 
+आह्निकाचारराज by रामानन्द वाचस्पति, great-great-grandson of पुष्कराक्ष of the family of सर्वानन्द; compiled under राजा कृष्णचंद्रराय of Nadia about 1750 A. D.
 
-(Kopargaon on the गोदावरी). भाहिकचन्द्रिका by request of गोकुल- There is confusion of author 
+आह्निकामृत of वासुदेवभट्टाचार्य, son of रङ्गनाथ, on duties and ritual of the वैखानस school of वैष्णवs.
 
-चन्द्रवर्मन 
+आह्निकोद्धार quoted by रघुनन्दन in आह्निकतत्त्व.
 
-ship in Baroda 0. I. No. 277. 
+इन्द्रदत्तस्मृति.
 
-List of works on Dharmaśāstra 
+इष्टिकाल by दामोदर.
 
-1003 
+ईशानसंहिता m. in समयमयूख.
 
-आहिकप्रयोग by काशीदीक्षित, son of माह्निकसंक्षेप by शिवराम, an abridg 
+ईश्वरसंहिता quoted by रघुनन्दन in तिथितत्त्व.
 
-सदाशिवदीक्षित; quoted by अनन्त | ment of वैद्यनाथ's आहिक. in his रुद्रकल्पद्रुमः 
+उज्ज्वला by हरदत्त, com. on आपस्तम्बधर्मसूत्र.  
+C. कालामृतटीका by वेङ्कटयज्वन्.
 
-आह्निकसंग्रह of अनन्तभट्ट, son of आहिकप्रयोग by गोवर्धन कविमण्डन | नागेशभट्ट, son of यज्ञभट्ट for शुक्ल 
+[[P1004]] उत्तरकालामृत by कालिदास (on marriage, विरुद्धसंबन्ध [[&c.)|&c.).]]
 
-(for आपस्तम्बीयs). 
+उत्तरक्रियापद्धति by याज्ञिकदेव.
 
-यजुर्वेदिs. माहिकप्रयोग by मनोहरभट्ट, son of 
+उत्तरीयकर्मन् [[(काण्वीय)|(काण्वीय).]]
 
-आह्निकसार by दलपतिराज ( 2nd महादेवभट्ट (for हिरण्यकेशीयs). 
+उत्पातशान्ति attributed to वृद्धगर्ग.
 
-_chap. of नृसिंहप्रसाद). आहिकप्रयोग by रघुनाथ, son of माधव | son of रामेश्वरभट्ट; his younger 
+उत्सर्गकमलाकर of कमलाकरभट्ट.
 
-आह्निकसार by बालम्भट्ट (probably 
+उत्सर्गकर्मन्.
 
-_same as author of आह्निकसार brother प्रभाकर composed रस. प्रदीप in 1583 A. D. at the age | 
+उत्सर्गकौस्तुभ, part of स्मृतिकौस्तुभ of अनन्तदेव.
 
-मञ्जरी below ). 
+उत्सर्गनिर्णय by कृष्णराम.
 
-of 19. 
+उत्सर्गपद्धति by अनन्तदेव.
 
-आह्निकसार by सुदर्शनाचार्य. माहिकप्रयोगरत्नमाला by विश्वम्भर- | आह्निकसार by हरिराम. 
+उत्सर्गपरिशिष्ट.
 
-दीक्षित थिटे, son of मयूरेश्वरभट्ट | आह्निकसारमञ्जरी by बालम्भट्ट, son of resident of वैराज ( modern Wai | विधनाथभट्ट दातार in Satara District). Mentions भट्टोजिदीक्षित, आचारार्क 
+उत्सर्गप्रयोग by [[नारायणभट्ट|नारायणभट्ट.]]
 
-आह्निकसूत्र of गौतम in 17 खण्डs on 
+उत्सर्गमयूख by नीलकण्ठ (pr. by J. R. Gharpure in Bombay).
 
-duties of us; vide BBRAS. भाहिकप्रायश्चित्त mentions कमलाकर | 
+उत्सर्गोपाकर्मप्रयोग by रामकृष्ण, son of [[नारायणभट्ट|नारायणभट्ट.]]
 
-_cat. p. 204 No. 651. (I. O. Cat. III. p. 555) 
+उत्सर्जनपद्धति.
 
-आह्निकस्मृतिसंग्रह. आहिकभास्कर by इन्द्रगण्टि सूर्यनारा 
+उत्सर्जनोपाकर्मप्रयोग by बापूभट्ट, son of [[महादेव|महादेव.]]
 
-यण. 
+उत्सवनिर्णय by तुळजाराम.
 
-माह्निकाचारराज by रामानन्द वाचस्पति, आह्निकमञ्जरीटीका by वीरेश्वर, son of 
+उत्सवनिर्णय by पुरुषोत्तम.
 
-great-great-grandson of पुष्कराक्ष 
+उत्सवनिर्णयमञ्जरी by गङ्गाधर, composed in śake 1554 i. e. 1632 A. D. (Baroda O. I. 2375).
 
-of the family of सर्वानन्द; com. हरिपण्डित, son of शिवपण्डित at 
+उत्सवप्रकाश.
 
-piled under राजा कृष्णचंद्रराय of पुण्यस्तम्भ ( modern Puntāmbe) 
+उत्सवप्रतान by [[पुरुषोत्तम|पुरुषोत्तम.]]
 
-Nadia about 1750 A. D. (on the Godavari ); composed in sake वियबरशरेन्दुमिते i.e 1598 | आलिकामृत वासुद 
+उदकुम्भदान.
 
-| माह्निकामृत of वासुदेवभट्टाचार्य, son of A. D. 
+उदक्याशुद्धिप्रकाश by ज्वालानाथमिश्र.
 
-रङ्गनाथ, on duties and ritual of माह्निकरत्न (on daily duties). 
+उदयाकरपद्धति (तन्त्र) quoted in मालासंस्कार.
 
-the aerta school of a suras. आहिकरन by दाक्षिणात्य शिरोमणिभट.. आह्निकोद्धार quoted by रघुनन्दन in 
+उदीच्यप्रकाश (Baroda O. I. No. 8016).
 
-in three प्रकाशs. 
+उद्यानप्रतिष्ठा.
 
-आह्निकतत्त्व. माह्निकरत्नचषक by गङ्गाधरसुत 
+उद्यापनकालनिर्णय.
 
-| इन्द्रदत्तस्मृति. (Baroda O. I. No. 12306-7). इष्टिकाल by दामोदर. माहिकविधि by कमलाकर. 
+उद्वाहकन्यास्वरूपनिर्णय.
 
-ईशानसंहिता m. in समयमयूख. माहिकविधि by नारायणभट्ट 
+उद्वाहचन्द्रिका by गोवर्धन उपाध्याय.
 
-ईश्वरसंहिता quoted by रघुनन्दन in माहिकसंक्षेप of कौथुमिशाखा. 
+उद्वाहतत्त्व– see विवाहतत्त्व.  
+C. by काशीराम-वाचस्पति-भट्टाचार्य (printed in 1877 at Calcutta in Bengali characters and in 1916).
 
-तिथितत्त्व. माहिकसंक्षेप of ज्ञानभास्कर. उज्ज्वला by हरदत्त, com. on माप माहिकसंक्षेप by वामदेव, written for । स्तम्बधर्मसूत्र. 
+उद्वाहनिर्णय by गोपालन्यायपञ्चानन.
 
-Lala Thakkura. 
+उद्वाहलक्षण.
 
-| C. कालामृतटीका by वेकटयज्वन् . 
+उद्वाहविवेक by गणेशभट्ट.
 
-1004 
+उद्वाहव्यवस्था N. vol. II. p. 77.
 
-Hitory of Dharmaśāstra 
+उद्वाहव्यवस्था vide संबन्धव्यवस्थाविकाश.
 
-उत्तरकालामृत by कालिदास (on | उद्यापनकालनिर्णय. 
+उद्वाहव्यवस्थासंक्षेप.
 
-marriage, विरुद्धसंबन्ध &c.) उद्वाहकन्यास्वरूपनिर्णय. उत्तरक्रियापद्धति by याज्ञिकदेव. 
+उद्वाहादिकालनिर्णय by गोपीनाथ (Baroda [[O I.|O. I.]] No. 10226).
 
-उद्वाहचन्द्रिका by गोवर्धन उपाध्याय. 
+उपकाश्यपस्मृति.
 
-उद्वाहतत्त्व-see विवाहतत्त्व. उत्तरीयकर्मन् (काण्वीय) उत्पातशान्ति attributed to वृद्धगर्ग. 
+उपचारषोडशरत्नमाला (महादेवपरिचर्यासूत्रव्याख्या) by सुरेश्वरस्वामिन्, pupil of रघुरामतीर्थ.
 
-____C. by काशीराम वाचस्पति भट्टाचार्य उत्सर्गकमलाकर of कमलाकरभट्ट. 
+उपनयनकर्मपद्धति.
 
-(p. inted in 1877 at Cal. उत्सर्गकर्मन् . 
+उपनयनकारिका anonymous.
 
-cutta in Bengali characters and 
+उपनयनचिन्तामणि by शिवानन्द.
 
-in 1916). उत्सर्गकौस्तुभ, Part of स्मृतिकौस्तुभ 
+उपनयनतन्त्र by गोभिल.
 
-उद्वाहनिर्णय hy गोपालन्यायपञ्चानन. of अनन्तदेव. 
+उपनयनतन्त्र by रामदत्त.
 
-उद्वाहलक्षण. उत्सर्गनिर्णय by कृष्णरामः 
+उपनयनतन्त्र by लौगाक्षि.
 
-उद्वाहविवेक by गणेशभट्टः उत्सर्गपद्धति by अनन्तदेव 
+उपनयनपद्धति by रामदत्त (for वाजसनेयि followers).
 
-उद्वाहव्यवस्था N. vol. II. p. 77. उत्सर्गपरिशिष्ट. 
+उपनयनपद्धति by विश्वनाथदीक्षित.
 
-उद्वाहव्यवस्था vide संबन्धव्यवस्था उत्सर्गप्रयोग by नारायणभट्ट 
+उपस्थान.
 
-विकाश. उत्सर्गमयूख by नीलकण्ठ (pr. by J. | उद्वाहव्यवस्थासंक्षेप. 
+उपाकर्मनिर्णय.
 
-R. Gharpure in Bombay). उद्वाहादिकालनिर्णय by गोपीनाथ उत्सर्गोपाकर्मप्रयोग by रामकृष्ण, son 
+उपाकर्मकारिका (Stein’s cat. p. 12).
 
-| (Baroda O I. No. 10226). of नारायणभट्ट 
+उपाकर्मपद्धति (कात्यायनीय) by वैद्यनाथ.
 
-उपकाश्यपस्मृति. उत्सर्जनपद्धतिः 
+उपाकर्मप्रमाण by बालदीक्षित.
 
-उपचारपोडशरत्नमाला (महादेवपरिचर्या 
+उपाकर्मप्रयोग (आपस्तम्बीय).
 
-सूत्रव्याख्या) by सुरेश्वरस्वामिन् , उत्सर्जनोपाकर्मप्रयोग by बापूभट्ट, son 
+[[P1005]] उपाकर्मप्रयोग (आश्वलायनीय).
 
-pupil of रघुरामतीर्थ. of महादेव 
+उपाकर्मप्रयोग by द्वारकानाथ, son of टीकाभट्ट.
 
-उपनयनकर्मपद्धति. उत्सवनिर्णय by तुळजाराम. 
+उपाकर्मविधि.
 
-उपनयनकारिका anonymous. उत्सवनिर्णय by पुरुषोत्तम. 
+उपाकृतितत्त्व by बालम्भट्ट alias बालकृष्ण पायगुण्ड; ms. dated संवत् 1848 (1792 A. D.) in Stein’s cat. p. 302.
 
-उपनयनचिन्तामणि by शिवानन्द. उत्सवनिर्णयमञ्जरी by गङ्गाधर, com 
+उपाकर्मविधि by दयाशङ्कर.
 
-उपनयनतन्त्र by गोभिल. posed in sake 1554 i. e. 1632 
+उपाङ्गिरःस्मृति.
 
-उपनयनतन्त्र by रामदत्त. A. D. (Baroda O. I. 2375). 
+ऊर्ध्वपुण्ड्रनिर्णय by पुरुषोत्तम ms. No. 3862 in Baroda O. I. is dated संवत् [[1764).|1764.]]
 
-उपनयनतन्त्र by लौगाक्षि. 
+ऊर्ध्वमूल.
 
-उपनयनपद्धति by रामदत्त ( for उत्सवप्रकाश. उत्सवप्रतान by पुरुषोत्तम 
+ऋग्वेदाह्निक by काशीनाथ. Also called ऋग्वेदाह्निकचन्द्रिका.
 
-वाजसनेयि followers). उदकुम्भदान. 
+ऋग्वेदाह्निक by शिरोमणि.
 
-उपनयनपद्धति by विश्वनाथदीक्षित. उदक्याशुद्धिप्रकाश by ज्यालानाथमिश्र. उपस्थान. उदयाकरपद्धति ( तन्त्र ) quoted in 
+ऋग्वेदाह्निकचन्द्रिका by काशीनाथ.
 
-उपाकर्मनिर्णय 
+ऋजुप्रयोग by भट्टराम, son of विश्वनाथ होसिंग (following तीर्थदर्पण). Baroda O. I. No. 8515 ms. dated 1676 (śake).
 
-उपाकर्मकारिका (Stein's eat. p. 13). मालासंस्कार. 
+ऋजुमिताक्षरा– same as मिताक्षरा.
 
-उपाकर्मपद्धति (कात्यायनीय) by उदीच्यप्रकाश ( Baroda 0. I No. 
+ऋणमोक्षण.
 
-वैद्यनाथ. 8016). 
+ऋतुलक्षण.
 
-उपाकर्मप्रमाण by बालदीक्षित. उद्यानप्रतिष्ठा 
+ऋतुशान्ति.
 
-| उपाकर्मप्रयोग (मापस्तम्बीय). 
+ऋत्विग्वरणनिर्णय by अनन्तदेव.
 
-List of works on Dharmaśāstra 
+ऋषितर्पण.
 
-1005 
+ऋषितर्पणकारिका.
 
-on 
+ऋषिभट्टी; see संस्कारभास्कर.
 
+ऋष्यशृङ्गविधान (rite for inducing rainfall). Baroda O. I. 11047 A and C.
 
+ऋष्यशृङ्गस्मृति– vide sec. 40.
 
+एकदण्डिसंन्यासविधि by शौनक.
 
+एकनक्षत्रजननशान्ति by गर्ग (Baroda O. I. No. 5661).
 
-अर्ध्वमूल. 
+एकवस्त्रस्नानविधि by भानुभट्ट, son of नीलकण्ठ, son of शङ्करभट्ट. About 1640–1680 A. D.
 
-उपाकर्मप्रयोग (आश्वलायनीय ). ऋष्यशृङ्गविधान ( rite for inducing उपाकर्मप्रयोग by द्वारकानाथ, son of 
+एकाग्निकाण्ड (यजुर्वेदीय) also known as मन्त्रपाठ, मन्त्रप्रपाठक and मन्त्रप्रश्न (pr. in Mysore G. O. L. Series, 1902). Vide आपस्तम्बीयमन्त्रपाठ.
 
-| rainfall ). Baroda O. I. 11047 
+एकाग्निकाण्डमन्त्रव्याख्या by हरदत्त.
 
-___A and C. टीकाभट्ट 
+एकाग्निदानपद्धति of श्रीदत्तमिश्र; ms. copied under देवसिंह of मिथिला in ल. सं. 299 i. e. 1418 A. D.
 
-ऋष्यशृङ्गस्मृति- vide see. 40. उपाकर्मविधि. उपाकृतितत्त्व by बालम्भट्ट alias बाल- एकदण्डिसंन्यासविधि by शौनक. 
+एकादशाहकृत्य.
 
-कृष्ण पायगुण्ड; ms. dated संवत् । एकनक्षत्रजननशान्ति by गर्ग ( Baroda 1848 (1792 A. D.) in Stein's ___0. I. No. 5661). cat. p. 302. 
+एकादशिनीप्रयोग (chanting of रुद्राध्याय eleven times).
 
-एकवस्त्रमानविधि by भानुभट्ट, son of 
+एकादशीतत्त्व by रघुनन्दन.  
+C. by काशीराम वाचस्पति.  
+C. दीप by राधामोहन गोस्वामी, a friend of Colebrooke, residing at Śāntipura. He was a descendant of अद्वैत, associate of [[चैतन्य|चैतन्य.]]
 
-नीलकण्ठ, son of शङ्करभट्टः About उपाकर्मविधि by दयाशङ्कर. 
+एकादशीनिर्णय (several works are so called and are ano. in the catalogues).
 
-1640--1680 A. D. उपाङ्गिर स्मृति. 
+एकादशीनिर्णय or निर्णयसार by धरणीधर, son of मुरारि; composed in śake 1408 (1486 A. D.); refers to महाराजाधिराज बीसलदेव; mentions अनन्तभट्ट, बोपदेवपण्डित, विश्वरूप (verses on varieties of [[P1006]] शुद्धा and विद्धा एकादशी), विज्ञानेश्वर (three स्रग्धरा verses on एकादशी). Baroda O. I. ms. No. 12052 is dated संवत् 1620.
 
-एकाग्निकाण्ड ( यजुर्वेदीय) also known 
+एकादशीनिर्णय of हरि, son of नरसिंह, of अष्टपुत्र family, at विराटनगर (Wai) on the Kṛṣṇā.
 
-as मन्त्रपाठ, मन्त्रप्रपाठक and मन्त्र 
+एकादशीनिर्णय by शङ्कर, son of नीलकण्ठ (part of सदाचारसंग्रह).
 
-प्रश्न (pr, in Mysore G. O. L. अर्ध्वपुण्डनिर्णय by पुरुषोत्तम ms. No. Series, 1902 ). Vide आपस्तम्बीय 
+एकादशीनिर्णयव्याख्या of अच्युतानन्द (a pupil of आनन्दगिरि).
 
-3862 in Baroda 0. I, is dated 
+एकादशीविवेक by शूलपाणि– sec. 98.
 
-मन्त्रपाठ. संवत् 1764). 
+एकादशीव्रतनिर्णय by देवकीनन्दन.
 
-एकाग्निकाण्डमन्त्रव्याख्या by हरदत्त. एकाग्निदानपद्धति of श्रीदत्तमिश्र; ms. 
+एकादशीव्रतोद्यापनपद्धति.
 
-cupied under देवसिंह of मिथिला 
+एकादशीहोमनिर्णय (Baroda O. I. 8332).
 
-in ल.सं. 299 i. e. 1418 A. D. ऋग्वेदाहिक by काशीनाथ. Also ! एकादशाहकृत्य. 
+एकादशीहोमनिर्णय by रामनवरत्न (Baroda O. I. 8656).
 
-called ऋग्वेदाह्निकचन्द्रिका एकादशिनीप्रयोग ( chanting of रुद्रा ऋग्वेदाहिक by शिरोमणि. 
+एकोद्दिष्टश्राद्ध.
 
-ध्याय eleven tines ). ऋग्वेदाह्निकचन्द्रिका by काशीनाथ. 
+एकोद्दिष्टश्राद्धपद्धति.
 
-( एकादशीतत्त्व by रघुनन्दन. 
+एकोद्दिष्टश्राद्धप्रयोग.
 
-C. by काशीराम वाचस्पति. ऋजुप्रयोग by भट्टराम, son of विश्वनाथ | ___C. दीप by राधामोहन गोस्वामी, होसिंग ( following तीर्थदर्पण). a friend of Colebrooke, Baroda O. I. Nc. 8515 ms. 
+एकोद्दिष्टसारिणी by रत्नपाणिमिश्र, son of गंगोलीसंजीवेश्वर, composed for securing the favour of the king of मिथिला.
 
-residing at Santipurs. He dated 1676 ( sake). 
+ऐन्दवमासनिर्णय by गणेशदत्त.
 
-was a descendant of अद्वैत, 
+औदीच्यप्रकाश by वेणीदत्त.
 
-associate of चैतन्य अजुमिताक्षरा- same as मिताक्षरा. | एकादशीनिर्णय ( several works are ऋणमोक्षण. 
+औपासनप्रायश्चित्त (from संस्कारदीधिति of अनन्तदेव).
 
-so called and are ano. in the अतुलक्षण. 
+और्ध्वदेहिककल्पवल्ली by विश्वनाथ.
 
-catalogues ). ऋतुशान्ति. 
+और्ध्वदेहिकक्रियापद्धति by विश्वनाथ, son of ज्योतिर्विद् गोबाल (according to शुक्लयजुर्वेद माध्यन्दिनशाखा). He was गोमतीबालज्ञातीय.
 
-एकादशीनिर्णय or निर्णयसार by धर ऋत्विम्वरणनिर्णय by अनन्तदेव. 
+और्ध्वदेहिकनिर्णय by वासुदेवाश्रम.
 
-णीधर, son of मुरारि composed 
+और्ध्वदेहिकपद्धति of कमलाकरभट्ट, son of रामकृष्ण; sec. 111.
 
-in sake 1408 ( 1486 A. D.); ऋषितर्पण. 
+और्ध्वदेहिकपद्धति or -प्रयोग by कृष्णदीक्षित, son of यज्ञेश्वर (according to सामवेद).
 
-refers to महाराजाधिराज बीसलदेव, ऋषितर्पणकारिका. 
+और्ध्वदेहिकपद्धति by दयाशङ्कर.
 
-mentions अनन्तभट्ट, बोपदेवपाण्डित, ऋषिभट्टी; see संस्कारभास्कर. 
+और्ध्वदेहिकपद्धति or अन्त्येष्टिपद्धति by नारायणभट्ट, son of रामेश्वर.
 
-विश्वरूप ( verses on varieties of 
+और्ध्वदेहिकप्रकरण.
 
-1006 
+और्ध्वदेहिकाधिकारनिर्णय.
 
+कठपरिशिष्ट quoted by हेमाद्रि in परिशेषखण्ड.
 
+कठसूत्र quoted by हेमाद्रि in परिशेषखण्ड and संस्कारमयूख.
 
-शुद्धा and विद्धा एकादशी), विज्ञाने- | मोर्ध्वदेहिकनिर्णय by वासुदेवाश्रमः श्वर ( three स्रग्धरा verses on | और्वदेहिकपद्धति of कमलाकरभट्ट, son एकादशी). Baroda 0. I. ms. 
+कण्ठभूषण by वैदिकसार्वभौम, m. in [[प्रयोगचन्द्रिका|प्रयोगचन्द्रिका.]] It is a com. on गृह्यरत्न.
 
-___ of रामकृष्ण ; sec. 111. No. 12052 is dated संवत् 1620. 
+कण्वस्मृति– m. by हरदत्त on गौ. ध. सू., आचारमयूख, श्राद्धमयूख.
 
-और्वदेहिकपद्धति or -प्रयोग by कृष्ण एकादशीनिर्णय of हरि, son of नरसिंह, दीक्षित, son of यज्ञेश्वर ( according 
+कदलीव्रतोद्यापन.
 
-of अष्टपुत्र family, at विराटनगर to सामवेद). (Wai) on the Krsna. 
+कन्यागततीर्थविधि.
 
-| और्ध्वदेहिकपद्धति by दयाशङ्कर एकादशीनिर्णय by शङ्कर, son of नील- और्ध्वदेहिकपद्धति or अन्त्येष्टिपद्धति by 
+कन्यादानपद्धति.
 
-कण्ठ ( part of सदाचारसंग्रह). नारायणभट्ट, son of रामेश्वर. एकादशीनिर्णयव्याख्या of अच्युतानन्द | आर्ध्वदेहिकप्रकरण. 
+कन्यादानप्रयोग.
 
-(a papil of आनन्द गिरि). 
+कन्याविवाह.
 
-और्वदेहिकाधिकारनिर्णय. एकादशीविवेक by शूलपाणि- sec. 98. एकादशीव्रतनिर्णय by देवकीनन्दन. 
+कन्यासंस्कार.
 
-| कठपरिशिष्ट quoted by हेमाद्रि in परि एकादशीव्रतोद्यापनपद्धति. 
+कपर्दिकारिका m. by नि. सि., संस्कारमयूख of सिद्धेश्वर.
 
-शेषखण्ड. एकादशीहोमनिर्णय ( Baroda 0. I. 
+कपालमोचनश्राद्ध.
 
-कठसूत्र quoted by हेमाद्रि in परिशेष 
+कपिलगोदान.
 
-खण्ड and संस्कारमयूख. 8332). 
+कपिलसंहिता m. in संस्कारमयूख.
 
-कण्ठभूषण by वैदिकसार्वभौम, m. in एकादशीहोमनिर्णय by रामनवरत्न 
+कपिलस्मृति in 10 अध्यायs, each with 100 verses, on degeneration of ब्राह्मणs in Kali, श्राद्ध, purifying ceremonies, adopted son, विवाह, gifts, penances.
 
-प्रयोगचन्द्रिका It is a com. on ( Baroda 0. I. 8656 ). 
+[[P1007]] कपिलादान.
 
-गृह्यरत्न एकोद्दिष्टश्राद्ध. 
+कपिलादानपद्धति.
 
-कण्वस्मृति- m. by हरदत्त on गौ.ध. एकोद्दिष्ट श्राद्धपद्धति. 
+कर्णवेधविधान (from प्रयोगपारिजात).
 
-सू., आचारमयूख, श्राद्धमयूख. एकोद्दिष्टश्राद्धप्रयोग. 
+कर्मकाण्डपद्धति.
 
-कदलीवतोद्यापन. एकोद्दिष्टसारिणी by रत्नपाणिमिश्र, son 
+कर्मकाण्डसारसमुच्चय (Baroda O. I. 9506 dated संवत् 1618, i. e. 1561–62 A. D.).
 
-कन्यागततीर्थविधि. of गंगोलीसजीवेश्वर, composed for 
+कर्मकालप्रकाश by कृष्णराम.
 
-कन्यादानपद्धति. securing the favour of the king 
+कर्मकौमुदी by कृष्णदत्त, son of आवसथिक ब्रह्मदत्त.
 
-कन्यादानप्रयोग. of मिथिला. 
+कर्मकौमुदी by मिश्रविष्णुशर्मन्.
 
-कन्याविवाह. 
+कर्मक्रियाकाण्ड (शैव) composed by सोमशम्भु in 1073 A. D.; ms. copied in 1206 A. D.; vide Hp. p. 95.
 
-कन्यासंस्कार. ऐन्दवमासनिर्णय by गणेशदत्त. 
+कर्मतत्त्वप्रदीपिका alias लघुपद्धति by कृष्णभट्ट, son of पुरुषोत्तम, son of रघुनाथ, on कलिवर्ज्य, आह्निक, संस्कार, श्राद्ध; quotes माधवीय, वामनभाष्य, चन्द्रिका, जयन्त, कालादर्श, मदनपारिजात. About 1400–1550 A. D. (Stein’s cat. p. 304, extract).
 
-कपर्दिकारिका m. by नि.सि., संस्कार औदीच्यप्रकाश by वेणीदत्त 
+कर्मदीप quoted in त्रिकाण्डमण्डन.
 
-मयूख of सिद्धेश्वर. भोपासनप्रायश्चित्त (from संस्कारदीधिति । कपालमोचनश्राद्ध. 
+कर्मदीपिका of रघुरामतीर्थ. Incomplete ms. in BBRAS. cat. pp. 211–213; a vast work; over 73 adhyāyas on वर्णाश्रमधर्म, व्यवहार, प्रायश्चित्त. Names विज्ञानेश्वर.
 
-of अनन्तदेव). 
+कर्मदीपिका of हरिदत्त, son of भूधर (Baroda O. I. No. 6892) on कुण्ड, वेदि, मधुपर्क, कन्यादान, चतुर्थीकर्म.
 
-कपिलगोदान. 
+कर्मनिर्णय by आनन्दतीर्थ.  
+C. by जयतीर्थ.  
+CC. by राघवेन्द्र.
 
-कपिलसंहिता m. in संस्कारमयूख. और्ध्वदेहिककल्पवल्ली by विश्वनाथ 
+कर्मपद्धति by चिद्घनानन्द.
 
-कपिलस्मृति in 10 अध्यायs, each with मौर्वदेहिकक्रियापद्धति by विश्वनाथ,son 100 verses, on degeneration of of ज्योतिर्विद् गोबाल (according ब्राह्मणs in Kali, श्राद्ध, purifying to शुक्लयजुर्वेद माध्यन्दिनशाखा). ceremonies, adopted son, विवाह, 
+कर्मपीयूष m. in अहल्याकामधेनु.
 
-He was गोमतीबालज्ञातीय. 
+कर्मप्रकाश by कलायखञ्ज.
 
-gitts, penances. 
+कर्मप्रकाश m. by रघुनन्दन in ज्योतिस्तत्त्व.
 
-. 
+कर्मप्रकाशिका of पञ्चाक्षर गुरुनाथ (on पाकयज्ञ, कूष्माण्डहोम, पुत्रस्वीकारविधि, शूलगव).
 
-List of works on Dharmaśāstra 
+कर्मप्रदीप attributed to कात्यायन or गोभिल. Also called, छान्दोगपरिशिष्ट; quoted by शूलपाणि, माधव, रघुनन्दन, कमलाकर.  
+C. by आशादित्य or आशार्क, son of चक्रधर.  
+C. परिशिष्टप्रकाश by नारायणोपाध्याय, son of गोण (B. I. series 1909).  
+C. by शिवराम, son of विश्राम.
 
-1007 
+कर्मप्रदीपिका, a पद्धति to पारस्करगृह्यसूत्र, by कामदेव.
 
-SON 
+कर्मप्रायश्चित्त by वेङ्कटविजयिन्.
 
-कपिलादान. 
+कर्ममञ्जरी (Ulwar cat. No. 1277).
 
-कर्मपीयूष m. in अहल्याकामधेनुः कपिलादानपद्धति. 
+कर्मलोचन 108 stanzas on duties of householders.
 
-कर्मप्रकाश by कलायखा. कर्णवेधविधान ( from प्रयोगपारिजात). 
+कर्मविपाक.
 
-कर्मप्रकाश m. by रघुनन्दन in ज्योति कर्मकाण्डपद्धति. 
+कर्मविपाक by ब्रह्मदेव who is said to have instructed नारद on the fruits of कर्म in 12 अध्यायs (Ulwar cat. extract 293).
 
-स्तत्व. कर्मकाण्डसारसमुच्चय ( Baroda 0. I. | कर्मप्रकाशिका of पञ्चाक्षर गुरुनाथ (on 
+कर्मविपाक by भरत who is instructed by भृगु.
 
-9506 dated संवत् 1618, i. e. पाकयज्ञ, कूष्माण्डहोम, पुत्रस्वीकार 1561-62 A. D.). 
+कर्मविपाक by भृगु who is instructed by वसिष्ठ.
 
-विधि, शूलगव). कर्मकालप्रकाश by कृष्णराम. कर्मप्रदीप attributed to कात्यायन or कर्मकौमुदी by कृष्णदत्त, son of आवस. 
+कर्मविपाक by माधवाचार्य.
 
-गोभिल. Also called, छान्दोगपरि थिक ब्रह्मदत्त. 
+कर्मविपाक by मान्धातृ– see [[महार्णवकर्मविपाक|महार्णवकर्मविपाक.]]
 
-शिष्ट; quoted by शूलपाणि, माधव, कर्मकौमुदी by मिश्रविष्णुशर्मन् रघुनन्दन, कमलाकर कर्मक्रियाकाण्ड ( शैव) composed by 
+कर्मविपाक by मौलुगिभूपति m. in कर्मविपाकसारग्राह and नृसिंहप्रसाद; earlier than 1380 A. D.
 
-C. by आशादित्य or आशार्क, son सोमशम्भु in 1073 A. D.; ms. 
+[[P1008]] कर्मविपाक by रवि to अरुण (Ulwar cat. No. 1278 and extract No. 293).
 
-of चक्रधर. copied in 1206 A. D.; vide Hp. 
+कर्मविपाक by रामकृष्णाचार्य.
 
-C. परिशिष्टप्रकाश by नारायणोपा. p. 95. 
+कर्मविपाक by विश्वेश्वरभट्ट– see महार्णवकर्मविपाक; m. in शुद्धितत्त्व p. 242.
 
-ध्याय, son of गोण ( B. I. 
+कर्मविपाक by शङ्करभट्ट, son of नीलकण्ठभट्ट (I. O. Cat. vol. III. p. 575).
 
-___ series 1909). कर्मतत्वप्रदीपिका alias लघुपद्धति by 
+कर्मविपाक by the eldest son of काह्नडदेव, son of पद्मनाभ. Vide under सारग्राहकर्मविपाक.
 
-__C. by शिवराम, son of विश्राम. कृष्णभट्ट, son of पुरुषोत्तम, son of रघुनाथ, on कलिवयं, आह्निक, 
+कर्मविपाक from the ज्ञानभास्कर.
 
-कर्मप्रदीपिका, ३ पद्धति to पारस्कर संस्कार, श्राद्ध; quotes माधवीय, । गृह्यसूत्र, by कामदेव. वामनभाष्य, चन्द्रिका, जयन्त, काला- | कर्मप्रायश्चित्त by वेङ्कटविजयिन्. दर्श, मदनपारिजात. About 1400- | कर्ममञ्जरी ( Ulwar cat. No. 1277). 1550 A. D. ( Stein's cat. p. | कर्मलोचन 108 stanzas on duties of 304, extract ). 
+कर्मविपाक from शातातपस्मृति (pr. Jivananda II. p. 435 ff.).
 
-___ householders. कर्मदीप quoted in त्रिकाण्डमण्डन. कर्मविपाक. कर्मदीपिका of रघरामतीर्थ. In- कर्मविपाक by ब्रह्मदेव who is said to 
+कर्मविपाक from the सूर्यार्णव.
 
-complete ms. in BBRAS. cat. 
+कर्मविपाकचिकित्सामृतसागर by पण्डित देवीदास.
 
-have instructed ang on the pp. 211-213; a vast work; over 
+कर्मविपाकपरिपाटी.
 
-fruits of कर्म in 12 अध्याय: 73 adhyayas on वर्णाश्रमधर्म, 
+कर्मविपाकप्रायश्चित्त.
 
-(Ulwar cat. extract 293). व्यवहार, प्रायचित्त. Names | कर्मविपाक by भरत who is instructed विज्ञानेश्वर. 
+कर्मविपाकमहार्णव; vide महार्णवकर्मविपाक.
 
-____by भृगुः कर्मदीपिका of हरिदत्त, son of भूधर | कर्मविपाक by भृगु who is instructed 
+कर्मविपाकरत्न by कमलाकर, son of रामकृष्ण.
 
-( Baroda 0. I. No. 6892 ) on _by वसिष्ठः कुण्ड, वेदि, मधुपर्क, कन्यादान, कर्मविपाक by माधवाचार्य. चतुर्थीकर्मः 
+कर्मविपाकसंहिता (pr. at Venk. P.), a part of ब्रह्मपुराण.
 
-कर्मविपाक by मान्धातृ- see महार्णव कर्मनिर्णय by भानन्दतीर्थ 
+कर्मविपाकसंग्रह from महार्णवकर्मविपाक, quoted by शङ्कर in कर्मविपाक and in मदनरत्न.
 
-कर्मविपाक C. by जयतीर्थ. 
+कर्मविपाकसमुच्चय m. in महार्णव of मान्धातृ, son of मदनपाल and in नित्याचारप्रदीप. Earlier than 1350 A. D.
 
-कर्मविपाक by मौलुगिभूपति m. in CC. by राघवेन्द्र 
+कर्मविपाकसार quoted by शङ्कर in कर्मविपाक and in नित्याचारप्रदीप pp. 140 and 207.
 
-कर्मविपाकसारमाह and नृसिंहप्रसाद, कर्मपद्धति by चिद्धनानन्द. 
+कर्मविपाकसार by दलपतिराज (about 1510 A. D.).
 
-earlier than 1380 A. D. 
+कर्मविपाकसार by दिनकर, son of रामकृष्ण, son of नारायणभट्ट (I. O. ms. dated संवत् 1696; vide cat. p. 573). About 1585–1640 A. D.
 
-. 
+कर्मविपाकसार by सूर्यराम.
 
-1008 
+कर्मविपाकसारग्राह by eldest son of कान्हड or काह्नड, son of पद्मनाभ; vide under सारग्राहकर्मविपाक and कर्मविपाक.
 
+कर्मविपाकार्क by शङ्कर. See कर्मविपाक.
 
+कर्मविपाकसारोद्धार.
 
-कर्मविपाक by रवि to अरुण ( Ulwar | कर्मविपाकसार by दिनकर, son of राम 
+कर्मसंग्रह m. in अहल्याकामधेनु.
 
-cat. No. 1278 and extract No. कृष्ण, son of नारायणभट्ट ( I. O. 293). 
+कर्मसरणि by विठ्ठल दीक्षित; vide under यजुर्वल्लभा. Said to have been born about 1519 A. D.
 
-__ms. dated संवत् 1696 ; vide कर्मविपाक by रामकृष्णाचार्य. 
+कर्मसिद्धिसिद्धान्त by पुरुषोत्तम (Baroda O. I. 8361) on श्राद्ध; नवमाध्याय &c.
 
-cat. p. 573 ). About 1585--1640 कर्मविपाक by विश्वेश्वरभट्ट- see महा 
+कर्मानुष्ठानपद्धति by भवदेव (vide sec. 74).
+C. संसारपद्धतिरहस्य.
 
-A. D. र्णवकर्मविपाक; m. in शुद्धितत्व P. कर्मविपाकसार ) सूर्यराम. 242. 
+कर्मोपदेशिनी of अनिरुद्ध (sec. 83); quoted by रघुनन्दन and कमलाकर.
 
-कर्मविपाकमारग्राह by eldest son of कर्मविपाक by शङ्करभट्ट, son of नील. 
+कर्मोपदेशिनी of हलायुध (sec. 73).
 
-कान्हड or काह्नड, son of पद्मनाभ कण्ठभट्ट ( I. O. Cat. vol. III. p. 
+कलानिधि m. in स्मृतिसारोद्धार of विश्वम्भर.
 
-___vide under सारग्राहकर्मविपाक and 575). 
+कलिका– vide दीपकलिका quoted by कमलाकर.
 
-कर्मविपाक. कर्मविपाक hy the eldest son of काह्नडदेव, son of पद्मनाभ. Vide 
+कलिधर्मनिर्णय.
 
-| कर्मविपाका by शङ्कर. See कर्मविपाक. under सारग्राहकर्मविपाका. कर्मविपाकसारांद्वार. कर्मविपाक from the ज्ञानभास्कर. कर्मसंग्रह m. in अहल्याकामधेनु. कर्मविपाक from शातातपस्मृति (pr. | कर्मसरणि by विठ्ठल दीक्षित : vide 
+कलिधर्मप्रकरण by कमलाकरभट्ट.
 
-Jivanarda II. p. 435 ff. ).. ___under यजुर्वल्लभाः Said to have कर्मविपाक from the सूर्याणव. been born about 1519 A. D. कर्मविपाक चिकित्सामृतसागर by पण्डित कर्ममिद्धिसिद्धान्त by पुरुषोत्तम 
+कलिधर्मसारसंग्रह by विश्वेश्वरसरस्वती.
 
-देवीदास. 
+कलियुगधर्मसार of विश्वेश्वरसरस्वती in two parts, first on worship of विष्णु and 2nd on शिवपूजा, गंगास्नानफल &c.
 
-( Baroda 0. I. 8361) on श्राद्ध कर्मविपाकपरिपाटी. 
+[[P1009]] कलियुगधर्माधर्म.
 
-ग्वानाध्याय &c. कर्मविपाकप्रायश्चित्त. कर्मविपाकमहार्णव; vide महावी - कर्मानुष्ठानपद्धति by भवदेव ( vide sec. 
+कलिवर्ज्यनिर्णय by दामोदर, eldest brother of नीलकण्ठ; quoted in आचारमयूख. About 1610 A. D. Mentions मांसमीमांसा of नारायणभट्ट, शास्त्रदीपिकाटीका of his father, रामचन्द्राचार्य, श्राद्धदीपकलिका etc. (Baroda O. I. No. 10793).
 
-विपाक. 
+कल्पतरु by लक्ष्मीधर; vide sec. 78. (eleven kāṇḍas pr. in G. O. Series).
 
-C. संसारपद्धतिरहस्य. कर्मविपाकरत्न by कमलाकर, son of 
+कल्पद्रु quoted in मदनपारिजात and by देवदास.
 
-रामकृष्ण. 
+कल्पद्रुम see दानकल्पद्रुम, रामकल्पद्रुम and श्राद्धकल्पद्रुम; quoted by चण्डेश्वर and मदनपारिजात (who both mean कल्पतरु of लक्ष्मीधर).
 
-कर्मोपदेशिनी of अनिरुद्ध ( sec. 83 ); कर्मविपाकसंहिता ( pr. at Venk. P.), __quoted by रघुनन्दन and कमलाकर. 
+कल्पलता vide कृत्यकल्पलता.
 
-a part of ब्रह्मपुराण. 
+कल्पलता by लोल्लट (?); quoted by श्रीधर, श्राद्धसंग्रह of रामकृष्ण, by रघुनन्दन in [[मलमासतत्त्व|मलमासतत्त्व.]]
 
-कर्मोपदेशिनी of हलायुध (sec. 73 ). कर्मविपाकसंग्रह from महार्णवकर्मवि 
+कल्पवृक्षदान.
 
-कलानिधि m. in स्मृतिसारोद्धार of पाक, quoted by शङ्कर in कर्मविपाक विश्वम्भर. and in मदनरत्न. 
+कवषस्मृति quoted in पराशरस्मृतिव्याख्या and मस्करिभाष्य on गौ. ध. सू.
 
-कलिका- vide दीपकलिका quoted by कर्मविपाकसमुच्चय m. in महार्णव of 
+कविरहस्य by कृष्णभट्ट.
 
-__ कमलाकर. मान्धातृ, son of मदनपाल and in नित्याचारप्रदीप. Earlier than 
+कविराजकौतुक by कविराजगिरि.
 
-कलिधर्मनिर्णय. 1350 A. D. 
+कश्यपस्मृति quoted in हेमाद्रि, माधव, विज्ञानेश्वर and मदनपारिजात.
 
-कलिधर्मप्रकरण by कमलाकरभट्ट कर्मविपाकसार quoted by शङ्कर in कलिधर्मसारसंग्रह by विश्वेश्वरसरस्वती. 
+कश्यपोत्तरसंहिता.
 
-कर्मविपाक and in नित्याचारप्रदीप 
+कस्तूरिस्मृति or स्मृतिशेखर by कस्तूरि.
 
-कलियुगधर्मसार of विश्वेश्वरसरस्वती in pp. 140 and 207. 
+कांस्यपात्रदान.
 
-two parts, first on worship of कर्मविपाकसार by दलपतिराज ( alhout | विष्णु and 2nd on शिवपूजा, गंगा 
+काकचण्डेश्वरी.
 
-1510 A. D. 
+काठकगृह्य quoted in हेमाद्रि, रघुo in मलमासतत्त्व, श्राद्धमयूख.
 
-स्नानफल &c. 
+काठकगृह्यपञ्चिका.
 
-List of works on Dharmaśāstra 
+काठकगृह्यपरिशिष्ट m. by हेमाद्रि and रघुनन्दन.
 
-1009 
+काठकगृह्यसूत्र by लौगाक्षि (ed. by Dr. Caland in D. A. V. College Series, Lahore 1925, with extracts from three com.).
+C. (भाष्य) by देवपाल, son of हरिपालभट्ट.
+C. विवरण by आदित्यदर्शन.
+C. पद्धति of ब्राह्मणबल, son of माधवाध्वर्यु.
 
-कलियुगधर्माधर्मः 
+काठकाह्निक by गङ्गाधर.
 
-काठकगृह्यसूत्र by लौगाक्षि (ed. by कलिवयंनिर्णय by दामोदर, eldest Dr. Caland in D. A. V. College 
+काण्व quoted in आप. ध. सू. I. 19. 7.
 
-brother of नीलकण्ठ; quoted in 
+कातीयगृह्य see पारस्करगृह्य; m. in संस्कारमयूख.
 
-Series, Lahore 1925, with ex. माचारमयूख. About 1610 A. D. tracts from three com.). Mentions मांसमीमांसा of नारायण- C. (भाष्य) by देवपाल, son of भट्ट, शास्त्रदीपिकाटीका of his father, हरिपालभट्ट. रामचन्द्राचार्य, श्राद्धदीपकलिका etc. C. विवरण by आदित्यदर्शन. (Baroda o. I. No. 10793). C. पद्धति of ब्राह्मणबल, son of कल्पतरु by लक्ष्मीधर ; vide sec. 78. 
+कात्यायनगृह्यकारिका.
 
-माधवाध्वर्यु. ( eleven kānılas pr. in G. 0. 
+कात्यायनगृह्यपरिशिष्ट.
 
-काठकाह्निक by गङ्गाधर. Series ). कल्पद्रु quoted in मदनपारिजात and 
+कात्यायनस्मृति m. by याज्ञवल्क्य, विज्ञानेश्वर, हेमाद्रि, माधव. See वृद्धकात्यायन m. by रघुनन्दन; pr. Jivananda Sm. part I, pp. 603–644. This is also called कर्मप्रदीप and गोभिलस्मृति in Ānan. Sm. pp. 49–71.
 
-काण्व quoted in आप.ध. सू. I. 19. 7. by देवदास. 
+कादम्बरी, a com. on the द्वैतनिर्णय by गोकुलनाथ.
 
-| कातीयगृह्य see पारस्करगृह्य; m. in कल्पद्रुम see दानकल्पद्रुम, रामकल्पद्रुम 
+कामधेनु of गोपाल; vide sec. 72.
 
-संस्कारमयूख. and श्राद्धकल्पद्म; quoted by | कात्यायनगृह्यकारिका. चण्डेश्वर and मदनपारिजात (who | कात्यायनगृह्यपरिशिष्टः 
+कामधेनु of यतीश, son of टेकचन्द्र, on धर्म, अर्थ, काम and मोक्ष. Compiled under विजयपाल son of अमृतपाल in four स्तनs (on धर्म, अर्थ, काम, मोक्ष); ms. in Stein’s Cat. pp. 84 and 303 contains 283 verses on धर्म and breaks off after 206 on [[अर्थ|अर्थ.]]
 
-both mean कल्पतरु of लक्ष्मीधर). कात्यायनस्मृति m.by याज्ञवल्क्य, विज्ञा. कल्पलता vide कृत्यकल्पलता. 
+कामधेनुदीपिका by नारायण, commentator of मनुस्मृति (vide मनु V. 56, 80, 104).
 
-नेश्वर, हेमाद्रि, माधव. See वृद्धकात्या कल्पलता by लोल्लट (१); quoted by यन m. by रघुनन्दन pr.Jivananda 
+कामन्दकीयनीतिसार (pr. in B. I. Series and Tri. S. Series) m. in [[P1010]] महाभारत, वामन’s काव्यालंकार. In 19 सर्गs and 1087 verses. Some mss. have 20 सर्गs.  
+C. by आत्माराम.  
+C. उपाध्यायनिरपेक्षा (vide Ulwar Cat. extract 295 which begins work with the first verse of काव्यादर्श and derives कौटिल्य as कुटिर्घट उच्यते तं लान्ति संगृह्णन्ति... नाधिकं... इति कुटिलाः..., कुटिलानामपत्यं कौटिल्यः विष्णुगुप्तः).  
+C. by जयराम.  
+C. जयमङ्गला by शङ्करार्य (pr. in Tri. S. Series).  
+C. नयप्रकाश by वरदराज.
 
-श्रीधर, श्राद्धसंग्रह of रामकृष्ण, by Sm. part I, pp. 603-644. This is रघुनन्दन in मलमासतत्त्व 
+कामरूपनिबन्ध quoted by रघुनन्दन in मलमासतत्त्व and by कमलाकर.
 
-also called कर्मप्रदीप and गोभिल कल्पवृक्षदान. 
+कामरूपयात्रापद्धति by हलिरामशर्मन् in ten पटलs.
 
-स्मृति in Anan. Sm. pp. 49-71. कवषस्मृति quoted in पराशरस्मृति- | कादम्बरी, a com. on the द्वैतनिर्णय 
+कामिक m. by हेमाद्रि, कालमाधव, नृसिंहप्रसाद, नि. सि.
 
-व्याख्या and महरिभाष्य on गौ. by गोकुलनाथ. ध. सू. 
+काम्यकर्मकमला.
 
-कामधेनु of गोपाल; vide sec. 72. कविरहस्य by कृष्णभट्टः 
+काम्यसामान्यप्रयोगरत्न.
 
-कामधेनु of यतीश, son of टेकचन्द्र, on कविराजकौतुक by कविराजगिरि धर्म, अर्थ, काम and मोक्ष. Compiled कश्यपस्मृति quoted in हेमाद्रि, माधव, under विजयपाल son of अमृतपाल 
+कायस्थक्षत्रियत्वद्रुमदलनकुठार by लक्ष्मीनारायणपण्डित.
 
-विज्ञानेश्वर and मदनपारिजात. in four स्तनs ( on धर्म, अर्थ, काम, कश्यपोत्तरसंहिता. 
+कायस्थतत्त्व.
 
-मोक्ष); ms. in Stein's Cat. pp.84 
+कायस्थधर्मदीप or प्रकाश by विश्वेश्वर alias गागाभट्ट (composed about 1674 A. D.).
 
-and 303 contains 283 verses on कस्तूरिस्मृति or स्मृतिशेखर by कस्तूरिः | 
+[[कायस्थनिर्णय|कायस्थनिर्णय.]]
 
-धर्म and breaks off after 206 on कांस्यपात्रदान काकचण्डेश्वरी. 
+कायस्थपद्धति by विश्वेश्वर. Printed at Bombay in 1873. Same as कायस्थधर्मदीप. Baroda O. I. Ms. No. 9670 is dated संवत् 1727 (1670–71 A. D.).
 
-अर्थ काठकगद्य quoted in हेमाद्रि, रघo in | कामधेनुदीपिका by नारायण, commen 
+कायस्थविचार.
 
-मलमासतत्त्व, श्राद्धमयूख. 
+कायस्थोत्पत्ति by गङ्गाधर.
 
-tator of मनुस्मृति (vide मनु V. काठकगृह्यपञ्चिका. 
+कारणप्रायश्चित्त.
 
-56, 80, 104). काठकगृह्मपरिशिष्ट m. by हेमाद्वि and | कामन्दकीयनीतिसार ( pr. in B. I. 
+कारिका by अनन्तदेव.
 
-रघुनन्दन. 
+कारिकाटीका (लघु) by माधव.
 
-Series and Tri. S. Series)m. in H. D.-127 
+कारिकामञ्जरी by कनकसभापति, son of वैद्यनाथ, of मौद्गलगोत्र.  
+C. प्रयोगादर्श by author himself.
 
-1010 
+कारिकासमुच्चय.
 
+कार्तवीर्यार्जुनदीपदान by कमलाकर, son of रामकृष्ण.
 
+कार्तवीर्यार्जुनदीपदानपद्धति by रघुनाथ, son of विश्वामित्र.
 
-महाभारत, वामन' काव्यालंकार. In | कायस्थोत्पत्ति by गङ्गाधर. 19 सर्गs and 1087 verses. Some | कारणप्रायश्चित्स. 
+कार्तवीर्यार्जुनदीपदानपद्धति by लक्ष्मण देशिक, son of कृष्ण.
 
-mss. have 20 सर्गs. 
+कार्यनिर्णयसंक्षेप on श्राद्ध.
 
-कारिका by अनन्तदेव. C. by मात्माराम. 
+काष्र्णाजिनिस्मृति m. by हेमाद्रि, माधव, जीमूतवाहन, मिता०.
 
-कारिकाटीका (लघु) by माधव. C. उपाध्यायनिरपेक्षा (vide Ulwar | कारिकामञ्जरी by कनकसभापति, son 
+कालकौमुदी m. in दुर्गोत्सवविवेक.
 
-Cat. extract 295 which of वैद्यनाथ, of मागलगोत्र. begins work with the first | C. प्रयोगादर्श by author himself. verse of काव्यादर्श and deri- कारिकासमुच्चय. ves कौटिल्य as कुटिर्घट उच्यते | कार्तवीर्यार्जनदीपदान by कमलाकर, son तं लान्ति संगृह्णन्ति... नाधिक... 
+कालकौमुदी by गोपालभट्ट, son of हरिवंशभट्ट, who was a द्राविड. m. by रघुनन्दन, रायमुकुट, कमलाकर; earlier than 1400 A. D.
 
-___of रामकृष्ण. इति कुटिलाः ..., कुटिलानामपत्य | कार्तवीर्यार्जनदीपदानपद्धति by रघनाथ, कौटिल्यः विष्णुगुप्तः). 
+कालकौमुदी by नीलाम्बर, son of गदाधर, author of कालसार, m. in शुद्धिकौमुदी of गोविन्दानन्द.
 
-son of विश्वामित्र. C. by जयराम 
+कालगुणोत्तर m. in शान्तिमयूख.
 
-कार्तवीर्यार्जुनदीपदानपद्धति by लक्ष्मण C. जयमङ्गला by शङ्कराय (pr. in | 
+कालचन्द्रिका by कृष्णभट्टमौनिन्.
 
-देशिक, son of कृष्ण. Tri. S. Series). 
+कालचन्द्रिका by पाण्डुरङ्ग मोरेश्वरभट्ट.
 
-कार्यनिर्णयसंक्षेप on श्राद्ध. C. नयप्रकाश by वरदराज. 
+कालचिन्तामणि m. in शुद्धिकौमुदी of गोविन्दानन्द (so earlier than 1500 A. D.).
 
-कार्णाजिनिस्मृति m. by हेमाद्रि, माधव, कामरूपनिबन्ध quoted by रघुनन्दन | जीमतवाहन, मिता. 
+कालतत्त्वविवेचन by रघुनाथभट्ट styled सम्राट्स्थपति, son of भट्टमाधव (and ललिता), son of भट्टरामेश्वर. His elder brother was विश्वनाथ. Composed in संवत् 1677 i. e. 1620 A. D., deals with तिथिs, मास, अधिकमास.
 
-। मलमासतत्त्व and by कमलाकर. | कालकौमदी m. in दोत्सवविवेक. कामरूपयात्रापद्धति by हलिरामशर्मन् | कालकौमदी by गोपालभट्ट, son of हरि 
+[[P1011]] कालतत्त्वविवेचनसारसंग्रह or सारोद्धार (based on विवेचन) by शम्भुभट्ट, son of बालकृष्ण and pupil of मीमांसक खण्डदेव. About 1700 A. D.
 
-in ten पटल. 
+कालतत्त्वार्णव.  
+C. रामप्रकाश by रामदेव.
 
-वंशभट्ट, who was a द्राविड. m. कामिक m. by हेमाद्रि, कालमाधव, | by रघुनन्दन, रायमुकुट, कमलाकर 
+कालतरङ्ग first part of स्मृत्यर्थसार by छलारिनृसिंह.
 
-नृसिंहप्रसाद, नि. सि. 
+कालदानपद्धति.
 
-earlier than 1400 A. D. काम्यकमेंकमला. 
+कालदीप m. in संस्कारमयूख and नृसिंहप्रसाद (संस्कारसार). Earlier than 1500 A. D.  
+C. m. in प्रयोगपारिजात of नृसिंह.
 
-कालकौमुदी by नीलाम्बर, son of काम्यसामान्यप्रयोगरत्न. 
+कालदीप of दिव्यसिंह महापात्र.
 
-गदाधर, author of कालसार, m. in 
+कालनिरूपण by वैद्यनाथ.
 
-शुद्धिकौमुदी of गोविन्दानन्द. कायस्थक्षत्रियत्वदुमदलनकुठार by 
+कालनिर्णय by आदित्यभट्ट कविवल्लभ.
 
-लक्ष्मीनारायणपण्डित. 
+कालनिर्णय by गोपालन्यायपञ्चानन.
 
-कालगुणोत्तर m. in शान्तिमयूख. 
+कालनिर्णय by तोटकाचार्य.
 
-कालचन्द्रिका by कृष्णभट्टमौनिन्. कायस्थतत्त्व. 
+कालनिर्णय (लघु) by दामोदर.
 
-कालचन्द्रिका by पाण्डुरङ्ग मोरेश्वरभट्ट कायस्थधर्मदीप or प्रकाश by विश्वेश्वर | 
+कालनिर्णय by नारायणभट्ट (? probably same as कालनिर्णयसंग्रहश्लोकविवरण).
 
-कालचिन्तामणि m. in शुद्धिकौमुदी of alias गागाभट्ट (composed about 1674 A. D.). 
+कालनिर्णय (संक्षिप्त) by भट्टोजि (Baroda O. I. No. 5373).
 
-गोविन्दानन्द ( so earlier than 
+कालनिर्णय by माधव (called कालमाधवीय). pr. in B. I. Series and Ch. S. Series.  
+C. by मिश्रमोहनतर्कतिलक, son of कृष्णाचार्य and great-grandson of द्वारकादास; written in संवत् 1670 (खमुनिरसेन्दुमितेब्दे) i. e. [[1614 A. D|1614 A. D.]] (D. C. No. 264 of 1886–92).  
+C. कालनिर्णयसंग्रहश्लोकविवरण by नारायणभट्ट, son of रामेश्वर.  
+C. कालमाधवचन्द्रिका by मथुरानाथ शुक्ल.  
+C. दीपिका vide कालनिर्णयदीपिका of रामचन्द्राचार्य below.  
+C. by धरणीधर.  
+C. लक्ष्मी by लक्ष्मीदेवी, wife of वैद्यनाथ पायगुण्ड.
 
-1500 A. D.). कायस्थनिर्णय 
+कालनिर्णय from परिशेषखण्ड of हेमाद्रि.
 
-कालतत्त्वविवेचन by रघुनाथभट्ट styled कायस्थपद्धति by विश्वेश्वर. Printed at 
+कालनिर्णयकारिका (130 कारिकाs of माधवाचार्य taken from कालमाधव).  
+C. ano. (N. vol. X. pp. 239–240).  
+C. by वैद्यनाथ (Stein’s Cat. p. 85), son of रामचन्द्र.
 
-सम्राटस्थपति, son of भट्टमाधव (and Bombay in 1873. Same as काय. 
+कालनिर्णयकौतुक, a part of हरिवंशविलास of नन्दपण्डित.
 
-ललिता), son of भट्टरामेश्वर. His स्थधर्मदीप. Baroda 0. I. Ms. 
+कालनिर्णयचन्द्रिका by दिवाकरभट्ट, son of महादेव, surnamed काल. About 1660. He was daughter’s son of रामकृष्ण, father of कमलाकर. (2) by सीतारामचन्द्र of कौण्डिन्यगोत्र, son of श्रीधर्माभट्ट and कामक्का and grandson of नृसिंह.
 
-elder brother was विश्वनाथ. No. 9670 is dated संवत् 1727 
+कालनिर्णयदीपिका by काशीनाथभट्ट also called शिवानन्दनाथ, son of जयरामभट्ट and grandson of शिवरामभट्ट and pupil of अनन्त.
 
-Composed in संवत् 1677 i. e. (1670-71 A. D.). 
+कालनिर्णयदीपिका by कृष्णभट्ट.
 
-1620 A. D., deals with तिथि, कायस्थ विचार 
+कालनिर्णयदीपिका, a com. on माधवीयकालनिर्णय by रामचन्द्राचार्य, son of कृष्णाचार्य and great-grandson of अनन्ताचार्य and pupil of परमहंस श्रीगोपाल. About 1400 A. D. He wrote प्रक्रियाकौमुदी.  
+C. विवरण by his son नृसिंह; ms. dated 1548 A. D.; m. in नृसिंहप्रसाद. This gives a detailed pedigree of the शेष family (Baroda O. I. Ms. No. [[P1012]] 10410, which says it was composed in śake 1331 शशाङ्ककालानलविश्वसंमिते विरोधिवर्षे).  
+C. रामप्रकाश by राघवेन्द्र, composed by order of कृपारामनृपति.  
+C. by सूर्यपण्डित.
 
-मास, अधिकमास.List of works on Dharmaśāstra 
+कालनिर्णयप्रकाश by रामचन्द्र, son of विठ्ठल and grandson of बालकृष्ण तत्सत्. His mother was daughter of रघुनाथभट्ट, author of कालतत्त्वविवेचन. So about 1670 A. D. Baroda O. I. No. 8455 is dated śake 1603 माघ (February 1682 A. D.).
 
-1011 
+कालनिर्णयसंक्षेप by भट्टोजि, son of लक्ष्मीधर; based on हेमाद्रि’s work.
 
-कालतत्त्वविवेचनसारसंग्रह or सारोद्धार | C. दीपिका vide कालनिर्णयदीपिका 
+कालनिर्णयसार by दलपतिराज (part of नृसिंहप्रसाद); sec. 103.
 
-(based on विवेचन) by शम्भुभट्ट, | 
+कालनिर्णयसिद्धान्त in 118 verses by महादेवविद् son of काह्नजित्, based on prose materials collected by रघुराम, son of जयराम, in वेलावटपुर near modern Sihor; composed in 1709 संवत्, i. e. 1652–53 A. D. in the city of Bhuja (modern Bhuj). Vide D. C. Ms. No. 275 of 1887–91.  
+C. by same; composed in संवत् 1710.
 
-___of रामचन्द्राचार्य below. son of बालकृष्ण and pupil of | C. by धरणीधर. मीमांसक खण्डदेव. About 1700 | 
+कालनिर्णयसौख्य or समयनिर्णयसौख्य (part of टोडरानन्द).
 
-C. लक्ष्मी by लक्ष्मीदेवी, wife of A. D. 
+कालनिर्णयावबोध by अनन्तदैवज्ञ.
 
-वैद्यनाथ पायगुण्ड. कालतत्त्वाणव. 
+कालप्रदीप m. in प्रयोगपारिजात of नृसिंह.
 
-कालनिर्णय from परिशेषखण्ड of C. रामप्रकाश by रामदेव. 
+कालप्रदीप by दिव्यसिंह.
 
-हेमाद्रि. कालतरङ्ग first part of स्मृत्यर्थसार by 
+कालभाष्यनिर्णय by गौरीनाथ चक्रवर्तिन् (Baroda O. I. 10260).
 
-Poy | कालनिर्णयकारिका ( 130 कारिकाs of छलारिनृसिंह. 
+कालभास्कर by [[शम्भुनाथामिश्र|शम्भुनाथमिश्र]] (Baroda O. I. 10155).
 
-माधवाचार्य taken from कालमाधव). कालदानपद्धति. 
+कालभेद.
 
-C. ano. ( N. vol. x. pp. 239 कालदिवाकर by चन्द्रचूडदीक्षित 
+कालमयूख or समयमयूख of नीलकण्ठ; sec. 112.
 
-240). कालदीप m. in संस्कारमयूख and 
+कालमाधव (pr. Kashi S. Series and B. I. Series). Vide कालनिर्णय above.
 
-C. by वैद्यनाथ (Stein's Cat. p. नृसिंहप्रसाद (संस्कारसार). Earlier 
+कालमाधवकारिका or लघुमाधव.  
+C. by वैद्यनाथसूरि, son of रामचन्द्र तत्सत्, son of विठ्ठल. Ulwar Cat. No. 1293.
 
-85), son of रामचन्द्र than 1500 A. D. 
+कालमार्तण्ड by कृष्णामित्राचार्य, son of रामसेवक and grandson of देवीदत्तभट्ट.
 
-कालनिर्णयकौतुक, a part of हरिवंश C. m. in प्रयोगपारिजात of नृसिंह. 
+कालविधान m. in श्राद्धकल्पलता of नन्दपण्डित.
 
-विलास of नन्दपण्डित. कालदीप of दिव्यसिंह महापात्र. 
+कालविधान of श्रीधर.
 
-कालनिर्णयचद्रिका by दिवाकरभट्ट, son कालनिरूपण by वैद्यनाथ 
+कालविधानपद्धति of श्रीधर.
 
-of महादेव, surnamed काल.About कालनिर्णय by आदित्यभट्ट कविवल्लभ. 
+कालविवेक by जीमूतवाहन (B. I. Series). Vide sec. 79; m. by नृसिंह, रघुनन्दन and कमलाकर.
 
-1660. He was daughter's son कालनिर्णय by गोपालन्यायपञ्चानन. 
+कालविवेचनसारसंग्रह by शम्भुभट्ट.
 
-of रामकृष्ण, father of कमलाकर. कालनिर्णय by तोटकाचार्यः 
+कालसर्वस्व of कृष्णमिश्र of the कौत्सगोत्र.
 
-(2) by सीतारामचन्द्र of कौण्डिन्य. कालनिर्णय (लघु) by दामोदर. 
+कालसार of गदाधर, son of नीलाम्बर and जानकी and nephew of हलधर who was guru of the queen of हरेकृष्णभूपति; pr. in B. I. Series. Between 1450–1500 A. D. Mentions कालमाधवीय, कालादर्श, रुद्रधर.
 
-गोत्र, son of श्रीधर्माभट्ट and कामका कालनिर्णय by नारायणभट्ट ( probably and grandson of नृसिंह. 
+कालसिद्धान्त or सिद्धान्तनिर्णय by चन्द्रचूड, son of उमापति or उमणभट्ट, son of धर्माभट्ट, surnamed पौराणिक. Later than 1550 A. D.
 
-same as कालनिर्णयसंग्रहश्लोक- | कालनिर्णयदीपिका by काशीनाथभट्ट विवरण). 
+कालादर्श or कालनिर्णय by आदित्यभट्ट कविवल्लभ of गर्गगोत्र, pupil of [[P1013]] विश्वेश्वराचार्य; ms. dated संवत् 1581; quoted by नृसिंह, अल्लाडनाथ, रघुनन्दन, कालमाधव, दुर्गोत्सवविवेक; composed between 1200–1325 A. D., as it mentions स्मृतिचन्द्रिका, स्मृतिमहार्णव, विश्वादर्श.
 
-also called शिवानन्दनाथ, son कालनिर्णय (संक्षिप्त) by भट्टोजि | of जयरामभट्ट and grandson of 
+कालामृत (and C. उज्ज्वला) by वेङ्कटयज्वन्, one of whose four brothers was यल्लयज्वन्.  
+(1) (pr. at Madras in Telugu and Grantha characters) Hultzsch R. I. p. 72.  
+(2) by सुरूभट्टलक्ष्मीनरसिंह and com. by author; pr. at Madras in 1880.
 
-(Baroda O. I. No. 5373). 
+कालावलि m. in अद्भुतसागर.
 
-शिवरामभट्ट and pupil of अनन्त. कालनिर्णय by माधव (called काल | कालनिर्णयदीपिका by कृष्णभट्ट 
+कालिकार्चनपद्धति.
 
-माधवीय). pr. in B. I. Series and 
+कालिकार्चनप्रदीप m. in अहल्याकामधेनु.
 
-कालनिर्णयदीपिका, a com.onमाधवीय. Ch. S. Series. 
+कालिकार्चनसंहिता m. in अहल्याकामधेनु.
 
-कालनिर्णय by रामचन्द्राचार्य, son of C. by मिश्रमोहनतर्कतिलक, son of कृष्णाचार्य and great-grandson of 
+कालिकार्चादीपिका.
 
-द्वारकादास; written in संवत् अनन्ताचार्य and pupil of परमहंस 1670 (खमुनिरसेन्दुमितेब्द) i. e. श्रीगोपाल. About 1400 A. D. 1614 A. D (D.C.No. 264 of He wrote प्रक्रियाकौमुदी. 1886-92). 
+कालोत्तर m. in हेमाद्रि, मलमासतत्त्व of रघु०; seems to be the Tāntric work of that name.
 
-C. विवरण by his son नृसिंह; ms. C. कालनिर्णयसंग्रहश्लोकविवरण by | dated 1548 A. D.; m. in 
+काल्यर्चनचन्द्रिका by नीलकमल लाहाडी; pr. at Murshidabad, 1877–79, in Bengali characters.
 
-नारायणमट्ट, son of रामेश्वर. 
+काशीखण्डकथाकेलि by प्रभाकर.
 
-नृसिंहप्रसाद. This gives a de C. कालमाधवचन्द्रिका by मथुरानाथ tailed pedigree of the शेष 
+काशीतत्त्व by रघुनाथेन्द्रसरस्वती.
 
-शुक्ल. 
+काशीतत्त्वदीपिका by प्रभाकर (Is it the same as ०केलि above?).
 
-family (Baroda O.I. Ms. No. 
+काशीतत्त्वप्रकाशिका or काशीसारोद्धार by रघुनाथेन्द्रशिवयोगिन् (Stein’s Cat. pp. 86, 303). Divided into उल्लासs. Probably the same as काशीतत्त्व above.
 
-1012 
+काशीप्रकरण (from the त्रिस्थलीसेतु).
 
+काशीप्रकाश by नन्दपण्डित. Sec. 110.
 
+काशीमरणमुक्तिविचार by नारायणभट्ट.
 
-10410, which says it was co- कालभास्कर by शम्भुनाथामिश्र (Baroda mposed in sake 1331 शशाङ्क ०. I. 10155). कालानल विश्वसंमिते विरोधिवर्षे). 
+काशीमाहात्म्यकौमुदी by रघुनाथदास.
 
-कालभेद. C. रामप्रकाश by राघवेन्द्र, compos 
+काशीमुक्तिप्रकाशिका.
 
-कालमयूख or समयमयूख of नीलकण्ठ; ed by order of कृपारामनृपति. 
+काशीमृतिमोक्षनिर्णय or काशीमोक्षनिर्णय by सुरेश्वराचार्य.
 
-| sec. 112. C. by सूर्यपण्डित. 
+काशीमृतिमोक्षनिर्णय by विश्वनाथाचार्य.
 
-कालमाधव (pr. Kashi S. Series and कालनिर्णयप्रकाश by रामचन्द्र, son of 
+काशीरहस्यप्रकाश by भट्टनारायण, son of राम, son of नारायण, composed at राजनगर by order of कामदेव.
 
-___B. I. Series). Vide कालनिर्णय विठ्ठल and grandson of बालकृष्ण 
+काश्यपधर्मशास्त्र vide sec. 19 (vide I. O. Cat. vol. III. p. 384 No. 1317).
 
-above. तत्सत् . His mother was daughter कालमाधवकारिका or लघुमाधव. of रघुनाथमट्ट, author of कालतत्त्व- C. by वैद्यनाथसूरि, son of रामचन्द्र विवेचन. So about 1670 A. D. तत्सत् , son of विठ्ठल. Ulwar Cat. 
+कीर्तिचन्द्रोदय by दामोदरपण्डित under the patronage of चूहडमल्ल in the reign of Akbar (latter half of 16th century).
 
-Baroda 0. I. No. 8455 is dated | No. 1293. sake 1603 माघ (February 1682 कालमार्तण्ड by कृष्णामित्राचार्य, son 
+कीर्तितत्त्व.
 
-A. D.). 
+कीर्तिप्रकाश of विष्णुशर्मन्; vide under समयप्रकाश (I. O. Cat. p. 538 No. 1682).
 
-of रामसेवक and grandson of कालनिर्णयसंक्षेप by भट्टोजि, son of देवीदत्तभट्टः 
+कुण्डकल्पद्रुम of माधवशुक्ल, son of कूक, son of व्यासनारायण; composed in 1577 śake (1655–56 A. D.). BBRAS Cat. p. 138. He was उदीच्यब्राह्मण of the काश्यपगोत्र, mentions कुण्डतत्त्वप्रदीप, कुण्डशिरोमणि, कुण्डसिद्धि, विश्वनाथ; pr. at Benares in 1879 A. D.  
+C. by author.
 
-लक्ष्मीधरbased on हेमाद्रि's work. | कालविधान m. in श्राद्धकल्पलता of कालनिर्णयसार by दलपतिराज (part of नन्दपण्डित. 
+कुण्डकल्पलता by ढुण्ढिराज, son of पुरुषोत्तम, son of रामकृष्ण. He was pupil of रामपण्डित, father of नन्दपण्डित. About 1600 A. D.
 
-नृसिंहप्रसाद ); sec. 103. 
+कुण्डकारिका by भट्टलक्ष्मीधर.
 
-कालविधान of श्रीधर. कालनिर्णयसिद्धान्त in 118 verses by 
+कुण्डकौमुदी or कुण्डमण्डपकौमुदी in 103 verses of विश्वनाथ, son of [[P1014]] शम्भु. He is different from विश्वनाथ, a. of कुण्डरत्नाकर; between 1520–1600 A. D., as m. in मण्डपकुण्डसिद्धि and as he mentions मदनरत्न and रूपनारायण.
 
-कालविधानपद्धति of श्रीधर. महादेवविद् son of काह्नजित् , based | 
+C. by author.
 
-कालविवेक by जीमूतवाहन ( B. I. 
+कुण्डकौमुदी by शिवसूरि son of त्र्यम्बक (महाजन).
 
-Series ). Vide sec. 79; m. by on prose materials collected by रघुराम, son of जयराम, in वेलावट 
+C. कुण्डालोक by the same. Vide Hultzsch's Report No. III. p. V. and p. 80; mentions कौस्तुभ, मयूख, कुण्डसिद्धि and रामवाजपेय. Later than 1680 A. D.
 
-नृसिंह, रघुनन्दन and कमलाकर. near modern Sihor; composed कालविवेचनसारसंग्रह by शम्भुभट्ट. in 1709 संवत, i. e. 1652-53 A. | कालसर्वस्व of कृष्णमिश्र of the 
+कुण्डगणपति.
 
-D. in the city of Bhuja (modern कौत्सगोत्र. Bhuj). Vide D. C.Ms. No. 275 कालसार of गदाधर, son of नीलाम्बर of 1887-91. 
+कुण्डचमत्कृति.
 
-and staat and nephew of C. by same; composed in संवत् हलधर who was guru of the 
+C. by वासुदेव of the महाजन family, son of शिवसूरि, son of त्र्यम्बक.
 
-1710. 
+कुण्डतत्त्वप्रकाश or प्रकाशिका by [[रामानन्दतीर्थे|रामानन्दतीर्थ]].
 
-queen of हरेकृष्णभूपति; pr. in B. कालनिर्णयसौख्य or समयनिर्णयसौख्य 
+कुण्डतत्त्वप्रदीप by बलभद्रसूरि शुक्ल, son of स्थावर of वत्सगोत्र; composed at स्तम्भतीर्थ (Khambayat) in 1623 A. D. Has 164 verses.
 
-I. Series. Between 1450-1500 
+C. by author composed in 1632 A. D. Vide D. C. Ms. No. 204 of 1884–87.
 
-A. D. Mentions कालमाधवीय, (part of टोडरानन्द). कालनिर्णयावबोध by अनन्तदैवज्ञ. 
+कुण्डदिक्पाल by बाबाजी पाध्ये.
 
-कालादर्श, रुद्रधर. कालप्रदीप m. in प्रयोगपारिजात of 
+C. by author.
 
-कालसिद्धान्त or सिद्धान्तनिर्णय by 
+कुण्डनिर्माणश्लोक by रामवाजपेय an inhabitant of नैमिषारण्य; composed in संवत् 1506 i. e. 1449–50 A. D.
 
-चन्द्रचूड, son of उमापति or उमण नृसिंह. 
+C. by author.
 
-भट्ट, son of धर्माभट्ट, surnamed कालप्रदीप by दिव्यसिंह. 
+कुण्डनिर्माणश्लोकदीपिका by मणिरामदीक्षित.
 
-पौराणिक. Later than 1550 A. D. कालभाष्यनिर्णय by गौरीनाथ चक्रवर्तिन् कालादर्श or कालनिर्णय by आदित्यभट्ट 
+कुण्डपद्धति of नागोजिभट्ट.
 
-(Baroda O. I. 10260). 
+कुण्डपरिमाण ano. (BBRAS Cat. p. 138).
 
-कविवल्लभ of गगंगोत्र, pupil of 
+कुण्डप्रकाश by रुद्रदेव, son of नारायण of तोरो family (from the प्रतापनारसिंह). Vide Ulwar Cat. extract 299. About 1710 A. D.
 
-न्तदवज्ञ. 
+कुण्डप्रदीप in 21 verses by महादेव राजगुरु, son of काहजिद्वाडव.
 
-List of works on Dharmaśāstra 
+C. by same; quotes कामिक.
 
-1013 
+कुण्डप्रदीप by महादेव राजगुरु, son of काहजित् and teacher of हैवतराज (Haibatrao) in 20 fine verses in शार्दूलविक्रीडित, स्रग्धरा and अनुष्टुप्.
 
-विश्वेश्वराचार्य; ms. dated संवत्1581; काशीप्रकाश by नन्दपण्डितः Sec. 110. quoted by नृसिंह, भल्लाडनाथ, रघु: | काशीमरणमक्तिविचार by नारायणभट्ट. नन्दन, कालमाधव, दुर्गोत्सवविवेकी 
+C. by author.
 
-काशीमाहात्म्यकौमुदी by रघुनाथदास. 
+कुण्डप्रबन्ध by कालिदास, son of बलभद्र in 73 verses. Composed in śake [[1544|1554]] (1632 A. D.) D. C. Ms. No. 42 of 1882–83.
 
-, composed between 1200--1325 A. D., as it mentions स्मृति- काशीमुक्तिप्रकाशिका 
+कुण्डभास्कर vide कुण्डोद्योतदर्शन.
 
-चन्द्रिका, स्मृतिमहार्णव, विश्वादर्श. | काशीमृतिमोक्षनिर्णय or काशीमोक्ष कालामृत (and C. उज्ज्वला) by | निर्णय by सुरेश्वराचार्य. 
+कुण्डमण्डप by वाचस्पति.
 
-वेश्वटयज्वन्, one of whose four | काशीमृतिमोक्षनिर्णय by विश्वनाथाचार्य brothers was यल्लयज्वन्. 
+कुण्डमण्डपकौमुदी vide कुण्डकौमुदी by शिवसूरि.
 
-| काशीरहस्यप्रकाश by भट्टनारायण, son (1) (pr. at Madras in Telugu and | of राम, son of नारायण, composed 
+कुण्डमण्डपचन्द्रिका by यज्ञसूरि, son of विश्वनाथ.
 
-Grantha characters) Hultzsch | at राजनगर by order of कामदेव. R. I. p. 72. 
+कुण्डमण्डपदर्पण by नारायण, son of अनन्त; composed in śake 1500, 1578 A. D.; in 43 श्लोकs written at टापरग्राम, while his प्रपितामह dwelt at मणौरग्राम.
 
-काश्यपधर्मशास्त्र vide see. 19 (vide I, (2) by सुरूभट्टलक्ष्मीनरसिंह and com. O. Cat. vol. III. p. 384 No. 
+C. मनोरमा by गङ्गाधर, son of the author.
 
-by author; pr, at Madras in | 1317). 1880. 
+कुण्डमण्डपनिर्णय from परशुरामपद्धति.
 
-कीर्तिचन्द्रोदय by दामोदरपण्डित कालावलि m. in अद्भुतसागर 
+कुण्डमण्डपनिर्णय by नीलकण्ठ, son of शङ्करभट्ट (Stein p. 86).
 
-under the patronage of चूहडमल्ल कालिकार्जनपद्धति. 
+[[P1015]] कुण्डमण्डपपद्धति.
 
-in the reign of Akbar (latter कालिकानप्रदीप m, in अहल्याकाम 
+कुण्डमण्डपमण्डनप्रकाशिका by नरहरिभट्ट surnamed सप्तर्षि. Peterson (Ulwar Cat. extract No. 300) wrongly says that the work is called सप्तर्षि.
 
-half of 16th ceatury). 
+C. by author.
 
-कीर्तितत्त्व. कालिकार्चनसंहिता m. in अहल्याकाम 
+कुण्डमण्डपलक्षण (same as कुण्डनिर्माणश्लोक above) of रामवाजपेयी, son of सूर्यदास; composed in संवत् 1506 (1449–50 A. D.) at the order of the king of रत्नपुर. In 74 श्लोकs.
 
-कीर्तिप्रकाश of विष्णुशर्मन् ; vide ander 
+C. by same.
 
-समयप्रकाश (I. O. Cat. p. 538 No. कालिका_दीपिका. 
+कुण्डमण्डपविधान by अनन्तभट्ट.
 
-1682). कालोत्तर m. in हेमाद्रि,मलमासतत्त्व of कुण्डकल्पद्रुम of माधवशुक्ल, son of 
+कुण्डमण्डपविधान by नीलकण्ठ.
 
-TEO; seems to be the Tāutric कूक, son of व्यासनारायण; compos work of that name. 
+कुण्डमण्डपविधि by केशवभट्ट, son of गोपालदीक्षित.
 
-ed in 1577 sake (1655-56 A, काल्यर्चनचन्द्रिका by नीलकमल लाहाडी; 
+कुण्डमण्डपविधि by बाबूदीक्षित जडे.
 
-D.). BBRAS Cat. p.138. He was pr. at Murshidabad, 1877-79, उदीच्यब्राह्मण of the काश्यपगोत्र, in Bengali characters. 
+कुण्डमण्डपविधि by रामवाजपेयी (probably same as कुण्डमण्डपलक्षण above).
 
-mentions कुण्डतत्वप्रदीप, कुण्ड काशीखण्डकथाकेलि by प्रभाकर. 
+कुण्डमण्डपविधि by लक्ष्मण देशिकेन्द्र.
 
-शिरोमणि, कुण्डसिद्धि, विश्वनाथ; pr. 
+कुण्डमण्डपसंग्रह by रामकृष्ण.
 
-at Benares in 1879 A. D. काशीतत्त्व by रघुनाथेन्द्रसरस्वती. 
+कुण्डमण्डपसिद्धि by नीलकण्ठ.
 
-C. by author. काशीतत्वदीपिका by प्रभाकर (Is it 
+कुण्डमण्डपसिद्धि or कुण्डसिद्धि by विठ्ठलदीक्षित, son of बूबशर्मन् of Sangamner (in Ahmednagar District) of the कृष्णात्रिगोत्र; composed in Śake 1541 (शशियुगतिथिगण्य) i. e. 1619–20 A. D. Vide BBRAS Cat. p. 141.
 
-the same as offers above 1) 
+C. by same; pr. at Bombay in 1892.
 
-कुण्डकल्पलता by दुण्डिराज, son of काशीतत्त्वप्रकाशिका or काशीसारोद्धार । 
+C. by राम.
 
-पुरुषोत्तम, son of रामकृष्ण. He was 
+कुण्डमण्डपहोमविधि.
 
-___pupil of रामपण्डित, father of by रघुनायेन्द्रशिवयोगिन् (Stein's 
+कुण्डमरीचिमाला by [[विष्णु|विष्णु.]] Based on the कुण्डाकृति of राम.
 
-नन्दपण्डित. About 1600 A. D. Cat. pp. 86, 303). Divided into उल्लासs. Probably the same as | कुण्डकारिका by भट्टलक्ष्मीधर araftarra above. 
+कुण्डमार्तण्ड of गोविन्ददैवज्ञ, son of गदाधर of माध्यन्दिनशाखा and गौतमगोत्र; composed at Junnar in 1691–92 A. D. in 71 verses.
 
-कुण्डकौमुदी or कुण्डमण्डपकौमुदी in काशीप्रकरण (from the त्रिस्थलीसेतु). | 103 verses of विश्वनाथ, son of 
+C. प्रभा by अनन्त, son of सिद्धेश्वर, residing at पल्लीपत्तन (Pāli in Bhor State). D. C. Ms. No. 43 of A 1882–83. Composed in 1693 A. D.
 
-धेनु. 
+कुण्डमार्तण्ड of रामवाजपेयी. Probably the same as कुण्डमण्डपलक्षण.
 
-1014 
+कुण्डमृदङ्ग by गोपाल (Ulwar Cat. No. 1303 and extract 301).
 
+कुण्डरचना.
 
+C.
 
-शम्भु. He is different from | कुण्डपरिमाण ano. ( BBRAS Cat. विश्वनाथ, a. of कुण्डरत्नाकर; bet. p. 138). 
+कुण्डरचनारीति by बालसूरि, son of शेषभट्ट.
 
-ween 1520-1600 A. D., as m. 
+कुण्डरत्नाकर of विश्वनाथ द्विवेदिन्, son of श्रीपति, son of जगन्नाथ; quotes कुण्डाकृति of रामवाजपेयी and is quoted in कुण्डमण्डपसिद्धि of विठ्ठल; flourished between 1450–1615 A. D. In 84 verses.
 
-कुण्डप्रकाश by रुद्भदेव, son of नारायण in मण्डपकुण्डसिद्धि and as he men 
+C. by विश्वनाथ (the author).
 
-of att family (from the tions मदनरत्न and रूपनारायण. 
+कुण्डरत्नावलि by रामचन्द्र जडे, son of कृष्ण alias Bābū; composed in Śake 1790. pr. at Nir. P.
 
-प्रतापनारसिंह ). Vide Ulwar Cat. C. by author. 
+कुण्डलक्षण by राम नैमिषारण्यवासिन्. Probably the same as कुण्डनिर्माणश्लोक above.
 
-extract 299. About 1710 A. D. कुण्डकौमुदी by शिवसूरि son of 
+कुण्डलक्ष्मविवृति of राम, son of सूर्यदास (रघुदेव in Stein's Cat. p. 186); same as कुण्डनिर्माणश्लोकटीका and कुण्डमण्डपलक्षणटीका above; m. in आचारमयूख. About 1449 A. D.
 
-कुण्डप्रदीप in 21 verses by महादेव भ्यम्बक (महाजन). C. कुण्डालोक by the same. Vide 
+[[P1016]] कुण्डविचार from तत्त्वसार.
 
-| राजगुरु, son of काहजिद्वाडव. Hultzsch's Report No. III. I C. by same; quotes कामिक. p. V. and p. 80; mentions कुण्डप्रदीप by महादेव राजगुरु, son of कौस्तुभ, मयूख, कुण्डसिद्धि and काह्नजित् and teacher of हैवतराज रामवाजपेय. Later than 1680 
+कुण्डविधान by विश्वनाथ.
 
-(Haibatrao) in 20 fine verses A. D. 
+कुण्डशिरोमणि m. in कुण्डकल्पद्रुम. Earlier than 1640 A. D.
 
-in शार्दूलविक्रीडित, स्रग्धरा and कुण्डगणपति. 
+कुण्डश्लोकदीपिका of रामचन्द्र; m. in प्रतापनारसिंह (पूर्तप्रकाश).
 
-अनुष्टुप्. कुण्डचमत्कृति. 
+कुण्डश्लोकप्रकाशिका by रामचरण.
 
-C. by author. C. by वासुदेव of the महाजन 
+कुण्डसाधनविधि.
 
-family, son of शिवसरि, son | कुण्डप्रबन्ध by कालिदास, son of of त्र्यम्बक. 
+कुण्डसिद्धि vide [[कुण्डण्डपसिद्धि|कुण्डमण्डपसिद्धि]] above.
 
-बलभद्र in 73 verses. Composed कुण्डतत्त्वप्रकाश or प्रकाशिका by | 
+कुण्डसिद्धि by विश्वेश्वरभट्ट.
 
-in sake 1544 (1632 A. D.) D. रामानन्दतीर्थ. 
+कुण्डसिद्धि by रामभट्ट.
 
-C. Ms. No. 42 of 1882-83. कुण्डतत्त्वप्रदीप by बलभद्रसूरि शुक्ल, कुण्डभास्कर vide कुण्डोद्योतदर्शन. 
+कुण्डाकृति by रामवाजपेयिन् नैमिषस्थ, son of सूर्यदास; m. in 1449 A. D. (at bidding of prince रामचन्द्र of रत्नपुर). Probably the same as कुण्डनिर्माणश्लोकविवृति above.
 
-son of स्थावर of वत्सगोत्र; com. posed at स्तम्भतीर्थ (Khambayat) 
+C. by author.
 
-कुण्डमण्डप by वाचस्पति. in 1623 A. D. Has 164 verses. कुण्डमण्डपकौमुदी vide कुण्डकौमुदी C. by author composed in ___ by शिवसूरि. 
+कुण्डार्क by कृष्णाचार्य.
 
-1632 A. D. Vide D. C. Ms. कुण्डमण्डपचन्द्रिका by यज्ञसूरि, son No. 204 of 1884-87. 
+कुण्डार्क by शङ्करभट्ट son of नीलकण्ठ of the चतुर्धर family; pr. at Ratnagiri in 1873.
 
-of विश्वनाथ. कुण्डदिक्पाल by बाबाजी पाढे. 
+C. मरीचिमाला by रघुवीर, son of विठ्ठल who was author of कुण्डमण्डपसिद्धि; pr. at Bombay in 1902. He wrote मुहूर्तसर्वस्व in 1635–36 A. D.
 
-कुण्डमण्डपदर्पण by नारायण, son of C. by author. 
+कुण्डार्कमणिदीपिका by बलभद्रसूरि.
 
-Tarat; composed in śake 1500, कुण्डनिर्माणश्लोक by रामवाजपेय an | 1578 A. D.; in 43 श्लोकs written inhabitantof नैमिषारण्य; compos- _at टापरग्राम, while his प्रपितामह ed in संवत् 1506 i. e. 1449-50 _dwelt at मणौरग्राम. A. D. 
+C. by author.
 
-C. मनोरमा by गङ्गाधर, son of C. by author. 
+कुण्डार्णव by श्रीधर अग्निहोत्रिन्, son of श्रीसूर्य, son of नागेश; ms. copied in śake 1661 (1739 A. D.).
 
-the author. कुण्डनिर्माणलोकदीपिका by मणिराम- कुण्डमण्डपनिर्णय from परशुरामपद्धति. 
+कुण्डोदधि in 9 स्रग्धरा verses by रामचन्द्र.
 
-दीक्षित. 
+कुण्डोद्योत by नीलकण्ठ, son of शङ्करभट्ट.
 
-कुण्डमण्डपनिर्णय by नीलकण्ठ, son of कुण्डपद्धति of नागोजिभट्ट. 
+C. कुण्डभास्कर by शङ्कर, son of the author.
 
-शङ्करभट्ट (Stein p. 86). 
+कुण्डोद्योतदर्शन by अनन्तदेव.
 
-List of works on Dharmaśāstra 
+कुण्डोद्योतदर्शन alias कुण्डभास्कर of शङ्करभट्ट, son of नीलकण्ठ; same as com. on कुण्डोद्योत, composed in 1671 A. D.
 
-1015 
+कुथुमिस्मृति m. in अपरार्क, कालविवेक of जीमूतवाहन, हेमाद्रि.
 
-कुण्डमण्डपपद्धति. 
+कुमारतन्त्र, of the son of रावण; m. in मदनरत्न (शान्त्युद्योत).
 
-कुण्डमरीचिमाला by विष्णु Based on कुण्डमण्डपमण्डनप्रकाशिका by नरहरि- the कुण्डाकृति of राम. 
+कुमारस्मृति m. in मिताक्षरा, अपरार्क, प्रायश्चित्ततत्त्व.
 
-भट्ट surnamed सशर्षि. Peterson कण्डमार्तण्ड of गोविन्ददेवज्ञ, son of (Ulwar Cat. extract No. 300) गदाधर of माध्यन्दिनशाखा and wrongly says that the work is 
+कुरुक्षेत्रतीर्थनिर्णय by रामचन्द्र.
 
-गौतमगोत्र; composed at Junnar called समर्षि 
+कुरुक्षेत्रप्रदीप by वनमालिमिश्र alias कृष्णदत्तमिश्र, son of महेशमिश्र and disciple of भट्टोजिदीक्षित; about 1650 A. D.
 
-in 1691-92 A. D. in 71 verses. C. by suthor. 
+कुरुक्षेत्रप्रदीप or क्षेत्रमाहात्म्य by माधवाचार्य.
 
-C. प्रभा by अनन्त, son of सिद्धेश्वर, कुण्डमण्डपलक्षण (same as कुण्डनिर्माण residing at पल्लीपत्तन (Pali in 
+कुरुक्षेत्ररत्नाकर by शङ्कर.
 
-लोक above) of रामवाजपेयी, son 
+कुरुक्षेत्रानुक्रमणिका of हरिगिरि.
 
-Bhor State). D.C. Ms. No. of सूर्यदास; composed in संवत् 43 of A 1882-83. Composed 1506 (1449-50 A. D.) at the in 1693 A. D. order of the king of रत्नपुर. In कुण्डमार्तण्ड of रामवाजपेयी. Probably 74 श्लोक. 
+कुशकण्डिका by वंशीधर.
 
-the same as कुण्डमण्डपलक्षण. C. by same. 
+कूपप्रतिष्ठा.
 
-कुण्डमृदङ्ग by गोपाल (Ulwar Cat. कुण्डमण्डपविधान by अनन्तभट्ट 
+कूष्माण्डहोम.
 
-No. 1303 and extract 301). 
+कूष्माण्डहोमप्रयोग.
 
-कुण्डमण्डपविधान by नीलकण्ठ. कुण्डरचना. कुण्डमण्डपविधि by केशवभट्ट, son of C. 
+कृच्छ्रचान्द्रायणलक्षण.
 
-गोपालदीक्षित. 
+कृच्छ्रलक्षण.
 
-कुण्डरचनारीति by बालसूरि, son of कुण्डमण्डपविधि by बाबूदीक्षित जडे. शेषभट्ट. कुण्डमण्डपविधि by रामवाजपेयी (pro- कुण्डरत्नाकर of विश्वनाथ द्विवेदिन्, son 
+कृच्छ्रादिसुप्रबोधिनीपद्धति by रामचन्द्र, son of विष्णु (Baroda O. I. 10629).
 
-bably same as कुण्डमण्डपलक्षण 
+कृतिवत्सर by मणिरामदीक्षित.
 
-of श्रीपति, son of जगनाथ; quotes above ). 
+कृतिसारसमुच्चय by अमृतनाथमिश्र.
 
-कुण्डाकृति of रामवाजपेयी and is 
+कृत्यकल्पतरु alias कल्पतरु by लक्ष्मीधर; vide sec. 78.
+[[P1017]] कृत्यकल्पद्रुम by गदाधर; m. by वाचस्पतिमिश्र. Earlier than 1500 A. D.
 
-quoted in कुण्डमण्डपसिद्धि of कुण्डमण्डपविधि by लक्ष्मण देशिकेन्द्र. 
+कृत्यकल्पलता of वाचस्पति; m. by रघुनन्दन in मलमासतत्त्व.
 
-विठ्ठल; flourished between 1450 कुण्डमण्डपसंग्रह by रामकृष्ण. 
+कृत्यकालविनिर्णय of श्रीनाथ, son of श्रीकराचार्य; vide under कृत्यतत्त्वार्णव.
 
-1615 A. D. In 84 verses. कुण्डमण्डपसिद्धि by नीलकण्ठ. 
+कृत्यकौमुदी vide sec. 106 on गोविन्दानन्द. It is this that is m. in मलमासतत्त्व of रघु०.
 
-C. by विश्वनाथ (the author). कुण्डमण्डपसिद्धि or कुण्डसिद्धि by 
+कृत्यकौमुदी by गोपीनाथमिश्र.
 
-कुण्डरत्नावलि by रामचन्द्र जडे, son of विठ्ठलदीक्षित, son of बूबशर्मन् of 
+कृत्यकौमुदी by जगदानन्द. He mentions शुद्धिदीपिका.
 
-कृष्ण alias Babā; composed in Sangamner (in Ahmednagar 
+कृत्यकौमुदी by सिद्धान्तवागीशभट्टाचार्य (Baroda O. I. No. 10152 on एकोद्दिष्टश्राद्ध portion of it).
 
-Sake 1790. pr. at Nir. P. District ) of the कृष्णात्रिगोत्र, 
+कृत्यचन्द्रिका by रामचन्द्र चक्रवर्तिन्.
 
-कुण्डलक्षण by राम नैमिषारण्यवासिन् . composed in Sake I541 (शशि 
+कृत्यचन्द्रिका by रुद्रधर महामहोपाध्याय, pupil of चण्डेश्वर (a calendar of fasts and feasts enjoined in the स्मृतिs and the rites appropriate to them). About 1360–1400 A. D.
 
-Probably the same as कुण्ड युगतिथिगण्य) i.e. 1619-20 A. D. 
+कृत्यचिन्तामणि by चण्डेश्वर; m. in his गृहस्थरत्नाकर; vide sec. 91. Deals with तारादिशुद्धि, गोचर, वेधशुद्धि, संवत्सर, करण, नक्षत्र, मुहूर्त, अधिमास, गर्भाधान and other संस्कारs, मूलशान्ति, षष्ठिकापूजा, शनैश्चरचार, संक्रान्ति, ग्रहणफल.
 
-निर्माणश्लोक above. Vide BBRAS Cat. p. 141. 
+कृत्यचिन्तामणि of वाचस्पति; sec. 101.
 
-. कुण्डलक्ष्मविवृति of राम, son of सूर्यदास C. by same; pr. at Bombay in | 
+कृत्यचिन्तामणि by शिवराम शुक्ल, son of विश्राम. In five प्रकाशs for सामवेद followers. Based on गोभिलगृह्य, deals with परिभाषा, वृद्धिश्राद्ध, गणेशपूजा, पञ्चमहायज्ञ, अष्टका, संस्कारs. Stein's Cat. (Intro. p. XV and p. 86) gives the date of composition as śake 1562 (1640–41 A. D.), but B. O. Cat. vol. I No. 72 and JBORS. for 1927 parts III–IV p. IX give 1500 śake (1578–79 A. D.) as the date.
 
-(रघुदेव in Stein's Cat. p. 186); 1892, 
+कृत्यतत्त्व of रघुनन्दन.
 
-same as कुण्डनिर्माणश्लोकटीका and C. by राम. 
+कृत्यतत्त्व alias प्रयोगसार of कृष्णदेव स्मार्तवागीश.
 
-कुण्डमण्डपलक्षणटीका above, m. in कुण्डमण्डपहोमविधिः 
+कृत्यतत्त्वार्णव alias कृत्यकालविनिर्णय of श्रीनाथ, son of श्रीकराचार्य; m. in शुद्धितत्त्व and प्रायश्चित्ततत्त्व, नि. सि., रामप्रकाश and quotes महार्णव. About 1475–1525 A. D.
 
-माचारमयूख. About 1449 A. D, 
+कृत्यदर्पण [[or|of]] आनन्दशर्मा, son of रामशर्मा; m. in his [[व्ववस्थादर्पण|व्यवस्थादर्पण]].
 
-1016 
+कृत्यदीप m. in देवदासप्रकाश.
 
+कृत्यपूर्तिमञ्जरी by रामचन्द्र (pr. at Bombay in 1855).
 
+कृत्यप्रदीप of कृष्णमित्राचार्य.
 
-कुण्डविचार from तत्वसार. 
+कृत्यप्रदीप of केशवभट्ट (this is probably the कृत्यप्रदीप quoted in शुद्धितत्त्व, श्राद्धतत्त्व, and other तत्त्वs).
 
-C. कुण्डभास्कर by शङ्कर, son of कुण्डविधान by विश्वनाथ. 
+कृत्यमञ्जरी by बापूभट्ट, son of महादेव केळकर; composed in śake 1640 पौषमास on नित्य, नैमित्तिक, काम्य rites and observances in the 12 months of the year, on संक्रान्ति, eclipses &c. at सप्तर्षि (modern Satara). N. vol. X. pp. 217–219.
 
-the author. कुण्डशिरोमणि m. in कुण्डकल्पद्रम, | कुण्डोद्योतदर्शन by अनन्तदेव. 
+कृत्यमहार्णव of वाचस्पतिमिश्र under हरिनारायणदेव of मिथिला. Deals with feasts and fasts of important days of the twelve months of the year; m. in आचारमयूख; vide sec. 101.
 
-Earlier than 1640 A. D. कुण्डोद्योतदर्शन alias कुण्डभास्कर कुण्डश्लोकदीपिका of रामचन्द्र; m. in of शङ्करभट्ट, son of नीलकण्ठ; 
+कृत्यमुक्तावली vide सत्कृत्यमुक्तावली.
 
-प्रतापनारसिंह (पूर्तप्रकाश). 
+[[P1018]] कृत्यरत्न m. in नि. सि. श्राद्धमयूख.
 
-same as com. on कुण्डोद्योत्, 
+कृत्यरत्न of खण्डेराय, son of हरिभट्ट, son of नारायणभट्ट who was honoured by the king of विदर्भ. In 8 प्रकाशs. Mentions हेमाद्रि, माधवीय and his own संस्काररत्न. Baroda O. I. No. 1953.
 
-composed in 1671 A. D. कुण्डश्लोकप्रकाशिका by रामचरण. कुण्डसाधनविधि. 
+कृत्यरत्नाकर of चण्डेश्वर; vide sec. 91. (pr. B. I. Series, 1921).
 
-। कुथुमिस्मृति m. in अपरार्क, कालविवेक 
+कृत्यरत्नाकर of मुदाकरसूरि.
 
-___of जीमूतवाहन, हेमाद्रिः कुण्डसिद्धि vide कुण्डण्डपसिद्धि above. 
+कृत्यरत्नावली of रामचन्द्र, son of विठ्ठल and grandson of बालकृष्ण तत्सत्. He was daughter's son of रघुनाथ, author of कालतत्त्वविवेचन. Composed in संवत् 1705 (1648–49 A. D.). Deals with religious observances of तिथिs from प्रतिपद् and of months from चैत्र to फाल्गुन; quotes हेमाद्रि, मदनरत्न, नारायणभट्ट.
 
-कुमारतन्त्र, of the son of रावण; m. कुण्डसिद्धि by विश्वेश्वरभट्ट 
+कृत्यरत्नाकर of लक्ष्मीधर.
 
-_in मदनरत्न (शान्त्युयोत). कुण्डसिद्धि by रामभट्ट 
+कृत्यरत्नाकर of लोकनाथ.
 
-कुमारस्मृति m. in मिताक्षरा, अपरार्क, कुण्डाकृति by रामवाजपेयिन् नैमिषस्थ, । 
+कृत्यराज a manual of ceremonial observances for different months of the year compiled under prince कृष्णचन्द्र of नवद्वीप about 1750 A. D.
 
-प्रायश्चित्ततत्त्व. son of सूर्यदास; m. in 1449 A.D. (at bidding of prince रामचन्द्र 
+कृत्यविलासमञ्जरी.
 
-कुरुक्षेत्रतीर्थनिर्णय by रामचन्द्र. of रत्नपुर). Probably the same as | कुरुक्षत्र 
+कृत्यसमुच्चय of भूपाल m. in कृत्यरत्नाकर p. 499.
 
-कुरुक्षेत्रप्रदीप by वनमालिमिश्र alias कुण्डनिर्माणश्लोकविवृति abore. कृष्णदत्तमिश्र, son of महेशमिश्र and 
+कृत्यसागर m. in वर्धमान and स्मृतिरत्नाकर of वेदाचार्य. Earlier than 1400 A. D.
 
-disciple of भट्टोजिदीक्षित; about C. by author. 
+कृत्यसार by मथुरानाथ शुक्ल.
 
-1650 A. D. कुण्डा by कृष्णाचार्यः 
+कृत्यसारसमुच्चय of अमृतनाथ ओझा (pr. at Bombay).
 
-कुरुक्षेत्रप्रदीप or क्षेत्रमाहात्म्य by कुण्डार्क by शङ्करभट्ट son of नीलकण्ठ | माधवाचार्य. 
+कृत्यसारसमुच्चय of वाचस्पति.
 
-of the चतुर्धर family; pr. at 
+कृत्यापल्लवदीपिका; vide शान्तिकल्पप्रदीप.
 
-कुरुक्षेत्ररत्नाकर by शङ्कर. Ratnagiri in 1873. 
+कृत्यार्णव m. in देवदासप्रकाश.
 
-कुरुक्षेत्रानुक्रमणिका of हरिगिरि. C. मरीचिमाला by रघुवीर, son of विठ्ठल who was author of 
+कृष्णपद्धति by चतुर्भुज.
 
-कुशकण्डिका by वंशीधर. कुण्डमण्डपसिद्धि; pr. at Bom. कूपप्रतिष्ठा. bay in 1902. He wrote कूष्माण्डहोम. मुहूर्तसर्वस्त्र in 1635-36 A. D. 
+कृष्णभक्तिकल्पवल्ली alias भक्तिमञ्जरी or हरिभक्तिमञ्जरी– a work on कृष्ण worship in four parts (मञ्जरीs).
 
-कूष्माण्डहोमप्रयोग. कुण्डार्कमणिदीपिका by बलभद्रसूरि. कृच्छ्चान्द्रायणलक्षण. 
+कृष्णभट्टीय the same as कर्मतत्त्वप्रदीपिका; m. in प्रयोगरत्न of नारायणभट्ट and in आह्निकचन्द्रिका. Earlier than 1500 A. D.
 
-C. by author. 
+कृष्णार्चनचन्द्रिका of रत्नपाणि, son of सञ्जीवेश्वर.
 
-कृच्छलक्षग. कुण्डार्णव by श्रीधर अग्निहोत्रिन्, son of | कृच्छादिसुप्रबोधिनीपद्धति by रामचन्द्र, 
+कृष्णामृतमहार्णव by आनन्दतीर्थ. N. (new series) vol. III. preface VI.
 
-श्रीसूर्य, son of नागेश; ms. copied 
+केशवार्णव by केशव.
 
-son of fase (Baroda 0. I. in sake 1661 (1739 A. D.). 
+कोटचक्र on eight kinds of forts.
 
-10629). कुण्डोदधि in 9 स्रग्धरा verses thy | कृतिवत्सर by मणिरामदीक्षित. 
+कोटिहोमप्रयोग by रामकृष्ण, son of नारायणभट्ट.
 
-रामचन्द्र 
+कौतुकचिन्तामणि by प्रतापरुद्रदेव. In three दीप्तिs on magic charms and expedients for protecting the king's person and for various other purposes, and on various startling, interesting experiments on women, plants, food. N. IX. pp. 189–190 and D. C. Ms. No. 981 of 1887–91 and 1031 of 1884–87. About 1520 A. D.
 
-कृतिसारसमुच्चय by अमृतनाथमिश्र. कुण्डोद्योत by नीलकण्ठ, son of | कृत्यकल्पतरु alias कल्पतरु by लक्ष्मी 
+कौमुदीनिर्णय.
 
-शङ्करमट्टः 
+कौशिकगृह्यसूत्र in 14 अध्यायs (ed. by Bloomfield, 1889).
 
-धर; vide sec. 78. 
+C. by भट्टारिभट्ट.
 
-List of works on Dharmasastra 
+C. by दारिल.
 
-1017 
+C. by वासुदेव.
 
-कृत्यकल्पद्रुम by गदाधर; m. by वाच of composition as sake 1562 स्पतिमिश्र. Earlier than 1500 (1640-41 A. D.), but B.O. Cat. 
+[[P1019]] कौशिकगृह्यसूत्रपद्धति of केशव, son of सोमेश्वर, son of अनन्त; composed at भोजपुर (Stein's Cat. p. [[248.|248).]]
 
-A. D. 
+कौशिकसूत्रप्रयोगदीपिकावृत्ति.
 
-rol. I No. 73 and JBORS. for कृत्यकल्पलता of वाचस्पति; m. by 1927 parts III-IV p. IX give 
+कौशिकस्मृति m. in निर्णयदीपक मस्करिभाष्य on गौतम, हेमाद्रि, माधव.
 
-रघुनन्दन in मलमासतत्त्व. 
+कौषीतकिगृह्यकारिका.
 
-1500 sake (1578-79 A. D.) as कृत्यकालविनिर्णय of श्रीनाथ, son of 
+कौषीतकिगृह्यसूत्र (pr. in Ben. S. Series). Vide under शाङ्खायनगृह्यसूत्र.
 
-the date. श्रीकराचार्य; vide under कृत्य | कृत्यतत्व of रघुनन्दन. तत्त्वार्णव 
+क्रतुस्मृति m. by the मिताक्षरा.
 
-कृत्यतत्त्व alias प्रयोगसार of कृष्णदेव कृत्यकौमुदी vide sec. 106 on गोविन्दा | स्मार्तवागीश. 
+क्रमदीपिका m. in वर्षक्रियाकौमुदी (p. 121) and देवप्रतिष्ठातत्त्व; before 1500 A. D.
 
-नन्द. It is this that is m. in कृत्यतत्वार्णव alias कृत्यकालविनिर्णय मलमासतत्त्व of रघु. 
+क्रमदीपिका (on worship of कृष्ण) by केशवाचार्य in 8 पटलs. About 1500 A. D.
 
-of श्रीनाथ, son of श्रीकराचार्य; m. कृत्यकौमुदी by गोपीनाथमिश्र. in शुद्धितत्व and प्रायश्चित्ततत्त्व, नि. कृत्यकौमुदी by जगदानन्द. He men- सि., रामप्रकाश and quotes महार्णव. 
+C. by केशवभट्टगोस्वामी.
 
-_tions शुद्धिदीपिका. 
+C. by गोविन्दभट्ट (pr. in Ch. S. Series).
 
-About 1475-1525 A. D. कृत्यकौमुदी by सिद्धान्तवागीशभट्टाचार्य कृत्यदर्पण or भानन्दशर्मा, son of राम 
+क्रमदीपिका by नित्यानन्द.
 
-(Baroda O. I. No. 10152 on | शर्मा; m. in his व्ववस्थादर्पण. एकोदृिष्टश्राद्ध portion of it). कृत्यदीप m. in देवदासप्रकाश. कृत्यचन्द्रिका by रामचन्द्र चक्रवर्तिन् . कृत्यपूर्तिमञ्जरी by रामचन्द्र (pr. at कृस्यचन्द्रिका by रुद्रधर महामहोपाध्याय, Bombay in 1855). 
+क्रियाकाण्डशेखर m. in हेमाद्रि.
 
-pupil of चण्डेश्वर (a calendar of 
+क्रियाकैरवचन्द्रिका.
 
-कृत्यप्रदीप of कृष्णमित्राचार्य: fasts and feasts enjoined in the Pufas and the rites appropriate 
+क्रियाकौमुदी of गोविन्दानन्द (pr. in B. I. Series). Vide sec. 106.
 
-कृत्यप्रदीप of केशवभट्ट ( this is 
+क्रियाकौमुदी of मथुरानाथ.
 
-___probably the कृत्यप्रदीप quoted to them). About 1360-1400 
+क्रियानिबन्ध m. in शूद्रकमलाकर.
 
-A. D. 
+क्रियापद्धति by विश्वनाथ. Describes rites from the day of death to सपिण्डीकरण for माध्यन्दिनीयs. D. C. Ms. No. 207 of 1884–87.
 
-in शुद्धितत्व, श्राद्धतत्त्व, and other 
+क्रियापद्धति or षडब्दप्रायश्चित्तादिपद्धति N. X. p. 237.
 
-तत्त्व). कृत्यचिन्तामणि by चण्डेश्वर; m. in his 
+क्रियाप्रदीप.
 
-गृहस्थरत्नाकरः vide ser. 91. Deals कृत्यमञ्जरी by बापूभट्ट, son of महादेव with तारादिशुद्धि, गोचर, वेधशुद्धि, 
+क्रियाश्रय (astrological work in relation to dharma) m. by अपरार्क.
 
-केळकर; composed in sake 1640 
+क्रियासार m. in नि. सि. and कुण्डमण्डपसिद्धि; earlier than 1600 A. D.
 
-पौषमास on नित्य, नैमत्तिक, काम्य संवत्सर, करण, नक्षत्र, मुहूर्त, अधि. 
+क्षत्रियसंध्या.
 
-rites and observances in the 12 मास, गर्भाधान and other संस्कारs, 
+क्षयमासकृत्यनिर्णय.
 
-months of the year, on संक्रान्ति, मूलशान्ति, षष्ठिकापूजा, शनैश्चरचार, 
+क्षयमासनिर्णय.
 
-eclipses &c. at सप्तर्षि { modern संक्रान्ति, ग्रहणफल. कृत्यचिन्तामणि of वाचस्पति; sec. 101.. 
+क्षयमाससंसर्पकार्याकार्यनिर्णय by परशुराम (Stein's Cat. p. 87).
 
-Satara). N. vol. X. pp. 217-219. कृत्यचिन्तामणि by शिवराम शक, son of | कृत्यमहार्णव of वाचस्पतिमिश्र under विश्राम. In five प्रकाशs for सामवेद हरिनारायणदेव of मिथिला. Deals followers. Based on गोभिलगृह्य, | 
+क्षयमाससंसर्पकार्याकार्यनिर्णयखण्डन by परशुराम (Stein's Cat. p. 87).
 
-with feasts and fasts of impor deals with परिभाषा, वृद्धिश्राद्धः | 
+क्षयमासादिविवेक of रत्नपाणिशर्मा, son of गंगोलीसंजीवेश्वर; composed during the reign of छत्रसिंह of मिथिला. Gives a long list [[of of|of]] authorities, such as वाचस्पति, वर्धमान, अनन्तपण्डित, महेश, स्मृतिविवेक &c. Vide N. vol. VI. p. 44.
 
-tant days of the twelve months गणेशपूजा, पञ्चमहायज्ञ, अष्टका, 
+क्षयाधिकमासविवृति by गणेशदत्त.
 
-of the year; m. in आचारमयूख, संस्कारs. Stein's Cat. (Intro. p. 
+क्षेमप्रकाश by क्षेमवर्मन्; composed in Vikrama 1568 (1512 A. D.) at वीरसिंहपुर, where he was governor. On आचार, विष्णुपूजा, शिवपूजा दान, उत्सर्ग, व्रत; ms. copied in संवत् 1582 (1526 A. D.) when वीरसिंहदेव was ruler (Stein's Cat. p. 305, extract).
 
-vide sec. 101. XV and p. 86) gives the date | कृत्यमुक्तावली vide सत्कृत्यमुक्तावली. 
+क्षौरनिर्णय or दर्पण by son of गङ्गाधर.
 
-H. D.-128 
+खङ्गविवाह (Baroda O. I. 1142).
 
-1018 
+खादिरगृह्य (pr. in Mysore G. O. L. Series and translated in S. B. E. vol. 29). Agrees closely with गोभिलगृह्य.
 
+C. of रुद्रस्कन्द, son of नारायण residing at मखवाट (pr. in above).
 
+खादिरगृह्यकारिका by वामन.
 
-VI. 
+[[P1020]] खेटपीठमाला by आपदेव.
 
-कृत्यरत्न m. in नि. सि. श्राद्धमयूख. कृत्यसारसमुच्चय of वाचस्पति. 
+गङ्गाकृत्यविवेक by वर्धमान for king रामभद्रदेव of मिथिला 1450–1500 A. D.
 
-कृत्यापल्लबदीपिका; vide शान्तिकल्प कृत्यरत्न of खण्डेराय, son of हरिभट्ट, । 
+गङ्गाधरपद्धति by गङ्गाधर (Stein's Cat. p. 87) m. in रुद्रकल्पद्रुम (vide BBRAS Cat. vol. II. p. 226).
 
-प्रदीप. son of नारायणभट्ट who was honoured by the king of विदर्भ | कृत्याणेव m. in देवदासप्रकाश In 8 प्रकाशs. Mentions हेमाद्रि, 
+गङ्गाभक्तितरङ्गिणी by गणपति, son of धारेश्वर, in 3 chapters. He says that king नान्य of मिथिला gave वृत्ति to his grandfather. N. vol. V. p. 183; ms. dated 1766 संवत् (1710 A. D.).
 
-कृष्णपद्धति by चतुर्भुज. माधवीय and his own संस्काररत्न. । कृष्णभक्तिकल्पवल्ली alias भक्तिमञ्जरी or 
+गङ्गाभक्तितरङ्गिणी by चतुर्भुजाचार्य.
 
-Baroda 0. I. No. 1953. 
+गङ्गाभक्तिप्रकाश by हरिनन्दन; composed in संवत् 1852 (1795–96 A. D.).
 
-हरिभक्तिमञ्जरी- a work on कृष्ण 
+गङ्गाभक्तिरसोदय by शिवदत्तशर्मा.
 
-worship in four parts (मञ्जरी). कृत्यरत्नाकर of चण्डेश्वर; vide sec. 
+गङ्गामृत m. in रघुनन्दन and वर्धमान in गङ्गाकृत्यविवेक.
 
-91. (pr. B. I. Series, 1921). 
+गङ्गावाक्यावलि by विद्यापति, under the patronage of महादेवी विश्वासदेवी, wife of पद्मसिंह of मिथिला, son of शिवसिंह, son of देवसिंह, son of भवसिंह; m. by गोविन्दानन्द and रघुनन्दन (in प्रायश्चित्ततत्त्व). About 1400–1450 [[A D.|A. D.]] Speaks of the advantage of visiting and worshipping the Ganges and bathing therein.
 
-कृष्णभट्टीय the same as कर्मतत्त्वप्रदी. 
+गणपतितत्त्वविवेक.
 
-पिका; m. in प्रयोगरत्न of नारायणभट्ट कृत्यरत्नाकर of मुदाकरसूरि. 
+गणेशपद्धति by सोमेश्वरपुत्र (Ulwar Cat. No. 1309).
 
-and in आह्निकचन्द्रिका. Earlier कृत्यरत्नावली of रामचन्द्र, son of | __ than 1500 A. D. 
+गणेशविमर्शिनी m. in कुण्डमण्डपसिद्धि.
 
-विठ्ठल and grandson of बालकृष्ण | | कृष्णार्चनचन्द्रिका of रत्नपाणि, son of तत्सत् . He was daughter's son सञ्जीवेश्वर. of रघुनाथ, author of कालतत्त्व 
+गणेशशान्ति.
 
-कृष्णामृतमहार्णव by आनन्दतीर्थ. N. विवेचन. Composed in संवत् 1705 
+गदाधरपद्धति (आचारसार) pr. in B. I. Series.
 
-(new series) vol. III. preface (1648-49 A. D.). Deals with religious observances of fafgs 
+गद्यदेवल m. in प्रायश्चित्तमयूख.
 
-केशवार्णव by केशव from man and of months from चैत्र to फाल्गुन; quotes 
+गद्यविष्णु m. in नि. सि.
 
-कोटचक्र on eight kinds of forts. हेमाद्रि, मदनरत्न, नारायणभट्ट. 
+गद्यव्यास m. by कालविवेक of जीमूतवाहन.
 
-कोटिहोमप्रयोग by रामकृष्ण, son of कृत्यरत्नाकर of लक्ष्मीधर. 
+गन्धर्वप्रयोग (Stein's Cat. p 87).
 
-नारायणभट्ट 
+गभस्तिस्मृति m. by अपरार्क, स्मृतिच०, हेमाद्रि.
 
-कौतुकचिन्तामणि by प्रतापरुद्रदेव. In कृत्यरत्नाकर of लोकनाथः 
+गयादासनिबन्ध m. by भट्टोजि. Earlier than 1600 A. D.
 
-three angs on magic charms कृत्यराज a manual of ceremonial 
+गयानुष्ठानपद्धति part of त्रिस्थलीसेतु of नारायणभट्ट.
 
-and expedients for protecting observances for different 
+गयानुष्ठानपद्धति alias गयापद्धति by रघुनाथ. Vide गयापद्धति.
 
-the king's person and for various months of the year compiled 
+गयापद्धति by अनन्तदेव.
 
-other purposes, and on various under prince कृष्णचन्द्र of नवद्वीप 
+गयापद्धति by रघुनाथ, son of माधव, son of रामेश्वर; flourished between 1550–1625 A. D.
 
-startling, interesting experi about 1750 A. D. 
+गयापद्धतिदीपिका by प्रभाकर.
 
-ments on women, plants, food. कृत्यविलासमञ्जरी 
+गयाप्रकरण from the त्रिस्थलीसेतु by नारायण.
 
-N. IX. pp. 189-190 and D. C. 
+गयाप्रकाश N. (new series) vol. I. p. 84.
 
-Ms. No. 981 of 1887-91 and कृत्यसमुच्चय of भूपाल m. in कृत्य 
+गयाप्रयोग by वाचस्पतिमिश्र.
 
-___1031 of 1884-87. About 1520 रत्नाकर P. 499. 
+गयायात्राप्रयोग by मणिरामदीक्षित.
 
-A. D. कृत्यसागर m. in वर्धमान and स्मृति 
+गयावाराणसीपद्धति.
 
-कौमुदीनिर्णयः रत्नाकर of वेदाचार्य. Earlier than 1400 A. D. 
+गयाश्राद्धपद्धति.
 
-कौशिकगृह्यसूत्र in 14 मध्यायs (ed. by 
+गयाश्राद्धपद्धति by अनन्तदेव, son of उद्धवद्विवेदिन् (for वाजसनेयवेद).
 
-Bloomfield, 1889). कृत्यसार by मथुरानाथ शुक्ल 
+गयाश्राद्धपद्धति by रघुनन्दन. Vide p. 892 above.
 
-C. by भट्टारिभट्ट कृत्यसारसमुच्चय of अमृतनाथ ओझा _C. by दारिल. 
+गयाश्राद्धप्रकरण m. in मलमासतत्त्व.
 
-(pr. at Bombay). 
+गयाश्राद्धविधि by गोकुलदेव (Baroda O. I. 8688).
 
-C. by वासुदेव. 
+गयाश्राद्धादिपद्धति of वाचस्पति. The first verse specially mentions [[P1021]] वायुपुराण, गरुडपुराण and कल्पवृक्ष (i. e. कल्पतरु) as its authorities.
 
-List of works on Dharmaśāstra 
+गर्गपद्धति or गृह्यपद्धति, manual of domestic rites (for पारस्करगृह्य) by स्थपतिगर्ग on स्थालीपाकहोम, बलिदान, पिण्डपितृयज्ञ, श्रवणाकर्म शूलगव, वैश्वदेव, मासश्राद्ध, चूडाकरण उपनयन, ब्रह्मचारिव्रतानि, सीतायज्ञ, शालाकर्म; expressly states that it follows भर्तृयज्ञमत; m. in गदाधरभाष्य on पारस्करगृह्य and in श्राद्धतत्त्व. I. [[O|O.]] ms. dated संवत् 1575 i. e. 1519 A. D. (Vide I. O. Cat. p. 515 No. 1633).
 
-1019 
+गर्गस्मृति m. in स्मृतिचन्द्रिका, नित्याचारप्रदीप.
 
-कौशिकगृह्यसूत्रपद्धति of केशव, son | क्रियासार m. in नि. सि. and कुण्ड of सोमेश्वर, son of अनन्त; com- ! मण्डपसिद्धिः earlier than 1600 posed at भोजपुर (Stein's Cat. A. D. p. 248. 
+गर्भाधानादिदशसंस्कारपद्धति by रामदत्त, son of गणेश्वर; completed by स्वामिठाकुर. About first half of the 14th century.
 
-| क्षत्रियसंध्या. कौशिकसूत्रप्रयोगदीपिकावृत्ति- क्षयमासकृत्यनिर्णयः कौशिकस्मृति m. in निर्णयदीपक मस्क- क्षयमासनिर्णय. 
+गर्भाधानादिविवाहषोडशकर्मपद्धति attributed to शौनक; mentions जयन्त.
 
-रिभाष्य on गौतम, हेमाद्रि, माधव. क्षयमाससंसर्पकार्याकार्यनिर्णय by परशु कौषीतकिगृह्यकारिका. 
+गागाभट्टपद्धति by गागाभट्ट.
 
-राम (Stein's Cat. p. 87). कौषीतकिगृह्यसूत्र (pr. in Ben. S. | क्षयमाससंसर्पकार्याकार्यनिर्णयखण्डन by Series ). Vide under शाङ्खायन- परशुराम (Stein's Cat. p. 87). गृह्यसूत्र. 
+गायत्रीपद्धति of भूषणभट्ट.
 
-क्षयमासादिविवेक of रत्नपाणिशर्मा, son ऋतुस्मृति m. by the मिताक्षरा. of गंगोलीसंजीवेश्वर; composed क्रमदीपिका m. in वर्षक्रियाकौमुदी। during the reign of छत्रसिंह 
+गायत्रीपुरश्चरण or पद्धति by शङ्कर, son of बल्लाळ, surnamed घारे. He wrote व्रतोद्यापनकौमुदी in शके 1675 (1753 A. D.).
 
-(p. 121) and देवप्रतिष्ठातत्व of मिथिला. Gives a long list of before 1500 A, D. 
+गायत्रीपुरश्चरण by शिवराम.
 
-of authorities, such as वाचस्पति, क्रमदीपिका (on worship of कृष्ण) वर्धमान, अनन्तपण्डित, महेश, स्मृति 
+गायत्रीपुरश्चरण by साम्बभट्ट.
 
-by केशवाचार्य in 8 पटलs. About : विवेक &c. Vide N. vol. VI. 1500 A. D. 
+गायत्रीपुरश्चरणचन्द्रिका by काशिनाथ, son of जयरामभट्ट and वाराणसी, surnamed भट्ट. His guru was अनन्त. Ulwar Cat. extract 618.
 
-p. 44. C. by केशवभट्टगोस्वामी. क्षयाधिकमासविवृति by गणेशदत्त. C. by गोविन्दभट्ट ( pr. in Ch. S. 
+गायत्रीपुरश्चरणप्रयोग by कृष्णभट्ट, son of नारायणभट्ट; composed in 1757. A. D.
 
-क्षेमप्रकाश by क्षेमवर्मन् ; composed in Series). 
+गायत्रीपुरश्चरणविधि by अनन्तदेव.
 
-___Vikrama 1568 ( 1512 A. D.) क्रमदीपिका by नित्यानन्द. 
+गायत्रीपुरश्चरणविधि by गीर्वाणेन्द्रसरस्वती.
 
-at वीरसिंहपुर, where he was क्रियाकाण्डशेखर m. in हेमाद्रि. governor. On आचार, विष्णुपूजा, क्रियाकैरवचन्द्रिका. 
+गायत्रीपुरश्चरणविधि from the गायत्रीपुरश्चरणचन्द्रिका (vide Ulwar Cat. extract 302).
 
-शिवपूजा दान, उत्सर्ग, व्रत; ms. क्रियाकौमुदी of गोविन्दानन्द (pr. in 
+गायत्रीपुरश्चरणविधि from शारदातिलक.
 
-copied in संवत् 1582 (1526 A, B. I. Series). Vide see. 106. 
+गायत्रीभाष्यनिर्णय (Ulwar Cat. No. 1312 and extract 304).
 
-D.) when वीरसिंहदेव was ruler 
+गार्गीयपद्धति m. in श्राद्धतत्त्व (vol. I. p. 213).
 
-(Stein's Cat. p. 305, extract). क्रियाकौमुदी of मथुरानाथ. 
+गार्ग्यस्मृति m. by विश्वरूप, मिता०, अपरार्क, स्मृतिच०.
 
-क्षौरनिर्णय or दर्पण by son of क्रियानिबन्ध m. in शूद्रकमलाकर. 
+गार्हस्थ्यदीपिका by त्र्यम्बक, pupil of यज्ञेश.
 
-_गङ्गाधर. क्रियापद्धति by विश्वनाथ. Describes 
+गालवस्मृति m. in स्मृतिच०, कालमाधव.
 
-rites from the day of death to / खग विवाह (Baroda O. I. 1142) सपिण्डीकरण for माध्यन्दिनीयs. D. | खादिरगृह्य (pr. in Mysore G. 0. L. C. Ms. No. 207 of 1884-87. 
+गुणमञ्जरी by त्रिपाठिबालकृष्ण, son of काशीराम of the महारङ्ग family. On प्रायश्चित्त.
 
-Series and translated in S. B. क्रियापद्धति or षडब्दप्रायश्चित्तादिपद्धति | 
+गुणिसर्वस्व m. in श्राद्धविवेक of रुद्रधर and in तिथितत्त्व and मलमासतत्त्व. Earlier than 1400 A. D.
 
-E. vol. 29). Agrees closely with N.X. p. 237. 
+गूढदीपिका of श्रीनाथ आचार्य m. in his कृत्यतत्त्वार्णव.
 
-गोभिलगृह्यः क्रियाप्रदीप. 
+गूढार्थदीपिका by वामदेव. Vide स्मृतिदीपिका; on doubtful points of rites and ceremonies.
 
-C. of रुद्रस्कन्द, son of नारायण क्रियाश्रय (astrological work in residing at मखवाट (pr. in 
+गृहपतिधर्म by विश्वेश्वर.
 
-relation to dharma) m. by above). अपराक. 
+गृहप्रतिष्ठातत्त्व.
 
-| खादिरगृह्यकारिका by वामन. 
+गृहवास्तु by चन्द्रचूड (portion of संस्कारनिर्णय).
 
-1020 
+गृहस्थमुक्ताफल.
 
+गृहस्थरत्नाकर by चण्डेश्वर a large work in 589 pages (pr. in B. I. Series, 1928); Sec. 91.
 
+[[P1022]] गृह्यकल्पतरु.
 
-खेटपीठमाला by आपदेव. 
+गृह्यकारिका.
 
-गद्यदेवल m. in प्रायश्चित्तमयूख. गङ्गाकृत्यविवेक by वर्धमान for king | गद्यविष्णु m. in नि. सि. 
+(1) आश्वलायनीय by जयन्त.
 
-रामभद्रदेव of मिथिला 1450-1500 | गद्यव्यास m, by कालविवेक of जीमूत. 
+(2) बौधायनीय by कनकसभापति.
 
-A. D. 
+(3) सामवेदीय by भूवाक, son of विशाखभट्ट.
 
-वाहन. गङ्गाधरपद्धति by गङ्गाधर (Stein's | गन्धर्वप्रयोग (Stein's Cat. p 87). ___Cat. p. 87) m. in रुद्रकल्पद्रुम गभस्तिस्मृति m. by अपरार्क, स्मृतिच०, 
+गृह्यकारिका by कर्क.
 
-(vide BBRAS Cat. vol. II. | हेमाद्वि. p. 226). 
+गृह्यकारिका by रेणुक, composed in 1266 A. D.
 
-गयादासनिबन्ध m. by भट्टोजि. Earlier गङ्गाभक्तितरङ्गिणी by गणपति, son of | ___ than 1600 A. D. 
+गृह्यकौमुदी m. in गोविन्दार्णव.
 
-धारेश्वर, in 3 chapters. He says 
+गृह्यतात्पर्यदर्शन com. on आपस्तम्बगृह्यसूत्र by सुदर्शनाचार्य.
 
-गयानुष्ठानपद्धति part of त्रिस्थलीसेतु that king नान्य of मिथिला gave | 
+गृह्यपदार्थानुक्रम, summary of matters connected with domestic rites, according to मैत्रायणीयगृह्यसूत्र.
 
-of नारायणभट्ट वृत्ति to his grandfather. N. vol. v. p. 183; ms. dated 1766 संवत | गयानुष्ठानपद्धति alias गयापद्धति by (1710 A. D.). 
+गृह्यपद्धति.
 
-रघुनाथ. Vide गयापद्धति गङ्गाभक्तितरङ्गिणी by चतुर्भुजाचार्यः । 
+गृह्यपद्धति (यजुःशाखीय) by भास्करदीक्षित. Ulwar Cat. extract 54.
 
-गयापद्धति by अनन्तदेव. 
+गृह्यपद्धति by रामेश्वर.
 
-गङ्गाभक्तिप्रकाश by हरिनन्दन; compos. 
+गृह्यपद्धति by वासुदेवदीक्षित, in three kāṇḍas on संस्कार, अष्टका &c.; ms. copied in शके 1720.
 
-गयापद्धति by रघुनाथ, son of माधव, ___ed in संवत् 1852 (1795-96 A.D.). 
+गृह्यपरिशिष्ट– vide under बह्वृचगृह्यपरिशिष्ट, छन्दोगगृह्यपरिशिष्ट.
 
-Sun of T NT; flourished between 
+गृह्यपरिशिष्ट by अनन्तभट्ट.
 
-1550-1625 A. D. गङ्गाभक्तिरसोदय by शिवदत्तशर्मा 
+गृह्यपरिशिष्ट by वैकुण्ठनाथाचार्य.
 
-गयापद्धतिदीपिका by प्रभाकर. गङ्गामृत m. in रघुनन्दन and वर्धमान 
+गृह्यप्रदीपकभाष्य, a com. on शाङ्खायनगृह्यसूत्र, by नारायण.
 
-in गङ्गाकृत्यविवेक 
+गृह्यप्रयोग (आपस्तम्बीय) by ब्रह्मविद्यातीर्थ. He quotes सुदर्शनाचार्य. Ulwar Cat. extract 14.
 
-गयाप्रकरण from the त्रिस्थलीसेतु by 
+गृह्यप्रयोग  
+बौधायनीय.  
+वाजसनेय.
 
-नारायण. गावाक्यावलि by विद्यापति, under the patronage of महादेवी विश्वास 
+गृह्यप्रायश्चित्तसूत्र (Hultzsch R. I. No. 637).
 
-गयाप्रकाश N. (new series) vol. I. देवी, wife of पद्मसिंह of मिथिला, 
+गृह्यभाष्यसंग्रह or गृह्यभाष्यार्थसंग्रह m. by हेमाद्रि.
 
-p. 84. son of शिव सिंह, son of देवसिंह, गयाप्रयोग वाचस्पतिमिश्र son of भवसिंह; m. by गोविन्दानन्द गयायात्राप्रयोग by मणिरामदीक्षित. and रघुनन्दन (in प्रायश्चित्ततत्त्व). 
+गृह्यरत्न by वैदिकसार्वभौम (i. e. probably वेङ्कटेश) in 21 khaṇḍas; deals with [[बाह्यसंस्कारs|ब्राह्मसंस्कारs]] like गर्भाधान, पुंसवन, [[सीमन्तोसयन|सीमन्तोन्नयन]], जातकर्म, नामकरण, अन्नप्राशन, चूडाकर्म, उपनयन, चत्वारि वेदव्रतानि and दैवसंस्कारs like पाकयज्ञ.
 
-गयावाराणसीपद्धति. About 1400-1450 A D. Speaks of the advantage of visiting 
+C. विबुधकण्ठभूषण or कण्ठभूषा by वेङ्कटनाथ वैदिकसार्वभौम, son of रङ्गनाथ of हारीतगोत्र. Hultzsch R. I. No. 603 and extract, p. 88. Refers to his पितृमेधसार and its टीका and आशौचशतक and its व्याख्या.
 
-गयाश्राद्धपद्धति and worshipping the Ganges गयाश्राद्धपद्धति अनन्तदेव, son of and bathing therein. 
+गृह्यसंग्रह m. by जयराम in his भाष्य on पारस्करगृह्य III. 1. 1.
 
-उद्धवद्विवदिन् (for वाजसनेयवेद). गणपतितत्वविवेक 
+गृह्यसूत्रपद्धति.
 
-गयात्राद्वपद्धति :y रघुनन्दनः Vide गणेशपद्धति by सोमेश्वरपुत्र (Ulwar p. 892 above. 
+गृह्यसूत्रप्रकाशिका (on पारस्करगृह्य) by विश्वनाथ, son of नृसिंह. About 1600 A. D.
 
-Cat. No. 1309). 
+गृह्याग्निसागर alias प्रयोगसार by नारायणभट्ट, son of लक्ष्मीधरभट्ट, surnamed आरड (आरडे); quotes रामाण्डारव्याख्या on धूर्तस्वामी's भाष्य on आपस्तम्ब, प्रयोगपारिजात, प्रयोगरत्न, निर्णयसिन्धु, भट्टोजिदीक्षित, परशुरामप्रताप and रामवाजपेयी and his own श्राद्धसागर. Later than 1650 A. D.
 
-गयाश्राद्धप्रकरण m. in मलमासतस्व. गणेशविर्मार्शनी m, in कुण्डमण्डपसिद्धिः | गयाश्राद्धविधि by गोकुलदेव (Baroda गणेशशान्ति. 
+गृह्यासंग्रह by गोभिलपुत्र (pr. in B. I. Series as appendix to गोभिलगृह्य); m. in कृत्यचिन्तामणि of शिवराम and in the छन्दोगवृषोत्सर्गतत्त्व and मठप्रतिष्ठातत्त्व.
+[[P1023]] C. by रामकृष्ण, son of दामोदर.
 
-O. I. 8688). गदाधरपद्धति (माचारसार) pr. in B. I. | गयाश्राहादिपद्धति of वाचस्पति. The 
+गृह्यासंग्रहपरिशिष्ट m. in छन्दोगवृषोत्सर्गतत्त्व and edited by Bloomfield in Z. D. M. G. vol. 35 pp. 537–548 in 209 verses and two प्रपाठकs. Begins अथातः संप्रवक्ष्यामि यदुक्तं पद्मयोनिना। ब्राह्मणानां हितार्थाय संस्कारार्थे तु भाषितम् ॥. Text same as in B. I. Series.
 
-Series, 
+गृह्योक्तकर्मपद्धति.
 
-first verse specially mentionsList of works on Dharmaśāstra 
+गोत्रनिर्णय by केशवदैवज्ञ of नन्दिपुर in 27 श्लोकs.
 
-1021 
+C. वाक्पुष्पमाला by प्रभाकर दैवज्ञ; mentions प्रवरमञ्जरी of श्रीधर.
 
-वायुपुराण, गरुडपुराण and कल्पवृक्ष | गायत्रीपुरश्चरणविधि by अनन्तदेव. (i. १. कल्पतरु) as its authorities. | गायत्रीपुरश्चरण विधि by गीर्वाणेन्द्रसर गर्गपद्धति or गृद्यपद्धति, manual of ___ स्वती. 
+गोत्रनिर्णय by बालम्भट्ट.
 
-domestic rites (for पारस्करगृह्य )| गायत्रीपुरश्चरणविधि from the गायत्री by स्थपतिगर्ग on स्थालीपाकहोम, पुरश्चरणचन्द्रिका ( vide Ulwar बलिदान, पिण्डपितृयज्ञ, श्रवणाकर्म | Cat. extract 302). शूलगव, वैश्वदेव,मासश्राद्ध, चुडाकरण | गायत्रीपुरश्चरणविधि from शारदा उपनयन, ब्रह्मचारिवतानि, सीतायज्ञ, | तिलक. 
+गोत्रनिर्णय by महादेव दैवज्ञ.
 
-शालाकम; expressly states that it | गायत्रीभाष्यनिर्णय ( Ulwar Cat. No. follows भर्तृयज्ञमत; m. in गदाधर- 1312 and extract 304 ). भाष्य on पारस्करगृह्य and in 
+गोत्रप्रवर (Bik. Cat. p. 391).
 
-गार्गीयपद्धति m. in श्राद्धतत्त्व ( vol. I, श्राद्धतत्त्व. I. O ms. dated संवत् 1675 i. e. 1519 A. D. ( Vide I. 
+C. भास्कर.
 
-____p. 213). O. Cat, p. 515 No. 1633). 
+गोत्रप्रवर by प्रभाकर दैवज्ञ (probably same as वाक्पुष्पमाला, a com. on गोत्रप्रवरनिर्णय of केशव).
 
-गाय॑स्मृति m. by विश्वरूप, मिता, गर्गस्मृति m. in स्मृतिचन्द्रिका, नित्या 
+गोत्रप्रवरकारिका.
 
-अपरार्क, स्मृतिच०. 
+गोत्रप्रवरखण्ड (taken from आपस्तम्बसूत्र).
 
-चारप्रदीप. 
+गोत्रप्रवरखण्ड (taken from धर्मसिन्धु).
 
-गार्हस्थ्यदीपिका by यम्बक, pupil of गर्भाधानादिदशसंस्कारपद्धति by राम 
+गोत्रप्रवरदर्पण.
 
-___ यज्ञेश. दत्त, son of गणेश्वर ; completed by | गालवस्मृति m.in स्मृतिच०, कालमाधव. स्वामिठाकुर. About first half of | गुणमञ्जरी by त्रिपाठिबालकृष्ण, son of the 14th century. 
+गोत्रप्रवरदीप by विष्णुपण्डित.
 
-__ काशीराम of the महारङ्ग family. गर्भाधानादिविवाहषोडशकर्मपद्धति On प्रायश्चित्त. 
+गोत्रप्रवरनिर्णय by अनन्तदेव (in संस्कारकौस्तुभ; which is taken from his brother's work).
 
-attributed to शौनक; mentions गुणिसर्वस्व m. in श्राद्धविवेक of रुद्रधर जयन्त. 
+गोत्रप्रवरनिर्णय by आपदेव (probably a mistake, as जीवदेव was a son of आपदेव). Vide Baroda O. I. No. 1870.
 
-and in तिथितत्त्व and मलमासतत्त्व. गागाभट्टपद्धति by गागाभट्ट 
+गोत्रप्रवरनिर्णय by कमलाकर, son of रामकृष्ण (also styled गोत्रप्रवरदर्पण) (pr. by Chentsalrao, Mysore 1900). First half of 17th century.
 
-Earlier than 1400 A. D. गायत्रीपद्धति of भूषणभट्टः 
+गोत्रप्रवरनिर्णय by केशवदैवज्ञ of नन्दिग्राम (ms. in Baroda O. I. 8131 dated शके 1600). Each verse ends with the words कुर्वन्तु वो मङ्गलम्.
 
-गूढदीपिका of श्रीनाथ आचार्य m. in गायत्रीपुरश्चरण or पद्धति by शङ्कर, | 
+C. वाक्पुष्पमाला by प्रभाकर दैवज्ञ.
 
-___his कृत्यतत्त्वार्णव son of बल्लाळ, surnamed घारे. 
+गोत्रप्रवरनिर्णय by गोपीनाथ (Baroda O. I. 11041).
 
-गृढार्थदीपिका by वामदेव. Vide स्मृति He wrote व्रतोद्यापनकौमुदी in शके 1675 ( 1753 A. D.). 
+गोत्रप्रवरनिर्णय by जीवदेव, son of आपदेव and younger brother of अनन्तदेव, author of संस्कारकौस्तुभ; quotes प्रवरमञ्जरी, आश्वलायनसूत्रवृत्तिकार, नारायणवृत्ति. About 1660–1680; says मातृगोत्र is to be avoided in marriage by माध्यन्दिनीयs alone as सत्याषाढ says and as the शिष्टाचार is to the same effect.
 
-दीपिका; on doubtful points of 
+गोत्रप्रवरनिर्णय by नागेशभट्ट.
 
-rites and ceremonies. गायत्रीपुरश्चरण by शिवराम. 
+गोत्रप्रवरनिर्णय by नारायणभट्ट m. in गोत्रप्रवरनिर्णय by भट्टोजि.
 
-| गृहपतिधर्म by विश्वेश्वर गायत्रीपुरश्चरण by साम्बभट्ट, 
+गोत्रप्रवरनिर्णय by पद्मनाभ (Baroda O. I. 8789).
 
-गृहप्रतिष्ठानत्त्व. गायत्रीपुरश्चरणचन्द्रिका by काशिनाथ, son of जयरामभट्ट and वाराणसी, 
+गोत्रप्रवरनिर्णय by भट्टोजिदीक्षित; first half of 17th century (also styled गोत्रप्रवरनिर्णय by (अभिनव) [[माधवाचार्य.|माधवाचार्य).]]
 
-| गृहवास्तु by चन्द्रचूड ( portion of surnamed His guru was 
+C. by नारायणार्य, son of मण्डूरि रघुनाथार्य (pr. by Chentsalrao, Mysore, 1900).
 
-संस्कारनिर्णय). अनन्त. Ulwar Cat. extract 618. ! | गृहस्थमुक्ताफल. गायत्रीपुरश्चरणप्रयोग by कृष्णभट्ट, Sup | गृहस्थरत्नाकर by चण्डेश्वर , large 
+गोत्रप्रवरनिर्णय by रघुनाथ, son of माधव, son of रामेश्वर. 1550–1625 A. D.
 
-of नारायणभट्ट; comprised in work in 589 pages (pr. in B. I. 1757. A. D. 
+गोत्रप्रवरनिर्णय by विश्वनाथदेव or विश्वेश्वर, son of शम्भुदेव and younger brother of रामदेव; finished [[P1024]] at Benares (I. O. Cat. vol. III. p. 580). Composed in Śake 1506. (Baroda O. I. 11055). In verse and prose.
 
-। Series, 1928); Sec. 91. 
+गोत्रप्रवरनिर्णय by सदाराम.
 
-1022 
+गोत्रप्रवरनिर्णयवाक्यसुधार्णव by विश्वनाथदेव (Baroda O. I. 9375). Different from गोत्रप्रवरनिर्णय.
 
+गोत्रप्रवरभास्कर by भट्टोजि; same as गोत्रप्रवरनिर्णय.
 
+गोत्रप्रवरमञ्जरी by केशव, who also wrote मुहूर्ततत्त्व.
 
-गृह्यकल्पतरुः 
+C. by राम; quotes स्मृत्यर्थसार, प्रयोगपारिजात.
 
-गृह्यप्रायश्चित्तसूत्र ( Hultzsch R. I. गृयकारिका, 
+गोत्रप्रवरमञ्जरी alias प्रवरमञ्जरी by पुरुषोत्तमपण्डित (standard work on this subject). Pr. by Chentsalrao, Mysore, 1900. Under each of the eight original gotras quotes passages from आपस्तम्ब, आश्वलायन, कात्यायन, बौधायन, मत्स्यपुराण, लौगाक्षि, सत्याषाढ; mentions धूर्तस्वामी, कपर्दिस्वामी, and ग्रहदेवस्वामी as भाष्यकारs on आपस्तम्बसूत्र; m. in नि. सि., नृसिंहप्रसाद, दत्तकमीमांसा. Earlier than 1450 A. D.
 
-___No. 637). (1) आश्वलायनीय by जयन्त. गृह्यभाष्यसंग्रह or गृह्यभाष्यार्थसंग्रह m. (2) बौधायनीय by कनकसभापतिः। by हेमाद्रि. (3) सामवेदीय by भवाक, son of | गृह्यरत्न by वैदिकसार्वभौम ( i. e. pro 
+गोत्रप्रवरमञ्जरी by शङ्करतान्त्रिक; gives exhaustive enumeration of divisions and sub-divisions of gotras; mentions ज्योतिर्निबन्ध, प्रवरदीपिका, व्याख्याकार of बौधायन. (Baroda O. I. No. 7657).
 
-विशाखभट्टः 
+गोत्रप्रवरमञ्जरीसारोद्धार by शङ्करदैवज्ञ, son of शिव.
 
-bably वेङ्कटेश) in 21 khandas ; गृह्यकारिका by कर्क 
+गोत्रप्रवररत्न by लक्ष्मणभट्ट, son of रामकृष्णभट्ट and younger brother of कमलाकरभट्ट. About 1585–1630 A. D.
 
-deals with बाह्यसंस्कारs like गर्भा. गृह्यकारिका by रेणुक, composed in | 
+गोत्रप्रवरविवेक (from the धर्मप्रदीप by धनञ्जय).
 
-धान, पुंसवन, सीमन्तोसयन, जातकर्म, 1266 A. D. 
+गोत्रप्रवराध्याय vide प्रवराध्याय.
 
-नामकरण, अन्नप्राशन, चूडाकर्म, उप 
+गोत्रप्रवरोच्चार (from the औदीच्यप्रकाश).
 
-नयन, चत्वारि वेदव्रतानि and देव. गृह्यकौमुदी m. in गोविन्दार्णव. 
+गोत्रामृत by नृसिंहपण्डित.
 
-संस्कारs like पाकयज्ञ. गृह्यतात्पर्यदर्शन com. on आपस्तम्ब- C. विबुधकण्ठभूषण or कण्ठभूषा by गृह्यसूत्र by सुदर्शनाचार्य. 
+गोदानविधिसंग्रह by मधुसूदनगोस्वामिन्, son of व्रजराज.
 
-वेङ्कटनाथ वैदिकसार्वभौम, son of गृद्यपदार्थानुक्रम, summary of रङ्गनाथ of हारीतगोत्र Hultzsch R. matters connected with dome- I. No. 603 and extract, p. 88. stic rites, according to मैत्राय- Refers to his पितृमेधसार and its णीयगृह्यसूत्रः 
+गोपालकारिका (बौधायनीय) 420 verses on various matters connected with religious observances, such as the measurement and construction of altars.
 
-टीका and आशौचशतक and its गृहपद्धति. 
+गोपालपद्धति He is m. even by नारायण. Earlier than 1000 A. D. BBRAS. cat. vol. II. p. 183.
 
-व्याख्या. 
+गोपालपूजापद्धति by दिनकर, son of नृसिंह belonging to दशार्ण country (on worship of कृष्ण). I. O. ms. (Cat. p. 587) dated संवत् 1664.
 
-गृह्यसंग्रह m. by जयराम in his भाष्य गृह्यपद्धति (यजुःशाखीय ) by भास्कर दीक्षित. Ulwar Cat. extract 54. 
+गोपालरत्नाकर by गोपाल.
 
-on पारस्करगृह्य III. 1. 1. गृहपद्धति by रामेश्वर. 
+गोपालसिद्धान्त m. in आचाररत्न.
 
-गृह्यसूत्रपद्धति. 
+गोपालार्चनचन्द्रिका.
 
-गृह्यसूत्रप्रकाशिका ( on पारस्करगृह्य) गृह्यपद्धति by वासुदेवदीक्षित, in three | 
+गोपालार्चनचन्द्रिका by लक्ष्मीनाथ.
 
-____by विश्वनाथ, son of नृसिंह. About kāndas on संस्कार, अष्टका &c.; 
+गोभिलगृह्यसूत्र (pr. in B. I. Series and by Dr. Knauer and tr. in S. B. E. vol. 30.).
 
-1600 A. D. ms. copied in शके 1720. 
+C. (भाष्य) by भट्टनारायण son of महाबल; m. in श्राद्धतत्त्व of रघुनन्दन; ms. copied in ल. सं. 431 (1549–50 A. D.).
 
-गृह्याग्निसागर alias प्रयोगसार by नारा गृह्मपरिशिष्ट-vide under बह्वचगृह्य- यणभट्ट, son of लक्ष्मीधरभट्ट, sur 
+C. (भाष्य) by यशोधर, m. in दानक्रियाकौमुदी of गोविन्दानन्द and in श्राद्धतत्त्व. Earlier than 1500 A. D.
 
-परिशिष्ट, छन्दोगगृह्यपरिशिष्टः named आरड ( आरडे); quotes गृह्मपरिशिष्ट by अनन्तभट्ट. 
+C. सरला m. in तिथितत्त्व and श्राद्धतत्त्व. Earlier than 1500 A. D.
 
-रामाण्डारव्याख्या on धूर्तस्वामी 
+[[P1025]] C. by सायण.
 
-भाष्य on मापस्तम्ब, प्रयोगपारिजात, गृहपरिशिष्ट by वैकुण्ठनाथाचार्य 
+C. सुबोधिनीपद्धति by शिवराम, son of विश्राम (different from the author's कारिकार्थबोधिनी). About 1640 A. D. (Stein's Cat. p. 86).
 
-प्रयोगरत्न, निर्णयसिन्धु, भट्टोजि गृह्यप्रदीपकभाष्य, a com. on शाङ्खायन- दीक्षित, परशुरामप्रताप and रामवा 
+C. पद्धति by अग्निहोत्रिविष्णु, of मथुरा.
 
-गृह्यसूत्र, by नारायण. 
+C. कारिकार्थबोधिनी by शिवराम, son of विश्राम (Stein's Cat. p. 15 and p. 250).
 
-जपयी and his own श्राद्धसागर. गृह्यप्रयोग (आपस्तम्बीय) by ब्रह्मविद्या ___Later than 1650 A. D. 
+गोभिलपरिशिष्ट (pr. in B. I. Series with com.) on सन्ध्यासूत्र, स्नानसूत्र and श्राद्धकल्प.
 
-तीर्थ. He quotes सुदर्शनाचार्य. U1- | गृह्यासंग्रह by गोभिलपुत्र (pr. in B. war Cat. extract 14, 
+C. प्रकाश by नारायण; m. by रघुनन्दन.
 
-I. Series as appendix to गोभिल गृह्यप्रयोग 
+गोभिलश्राद्धसूत्रभाष्य m. by रघुनन्दन in तिथितत्त्व and श्राद्धतत्त्व. Probably the same as भाष्य of महायशस्.
 
-गृह्य); m. in कृत्यचिन्तामणि of बौधायनीय. 
+गोभिलसन्ध्यासूत्र.
 
-शिवराम and in the उन्दोगवृषो वाजसनेय. 
+गोभिलस्मृति– same as कर्मप्रदीप of कात्यायन. Ānan. Sm. pp. 49–71.
 
-त्सर्गतत्त्व and मठप्रतिष्ठातत्त्व. 
+गोभिलीपरिशिष्ट (on rites for propitiating the planets in their evil positions, on ग्रहयाग etc.) N. vol. X. pp. 201–202.
 
-List of works on Dharmaśāstra 
+गोभिलीयश्राद्धकल्प.
 
-1023 
+C. (भाष्य) by महायशस्; m. in श्राद्धतत्त्व of रघुनन्दन. महायशस् is probably the same as यशोधर above.
 
-C. by रामकृष्ण, son of दामोदर. (pr. by Chentsalrao, Mysore गृह्मासंग्रहपरिशिष्ट m. in छन्दोवो 1900 ). First half of 17th cen 
+C. by समुद्रकर m. in श्राद्धकला of भवदेव's स्मृतिचन्द्र.
 
-त्सर्गतत्व and edited by Bloom. 
+गोवधप्रायश्चित्त.
 
-tury. field in Z. D. M.G. vol. 35 pp.. 
+गोविन्दमानसोल्लास m. in एकादशीतत्त्व and मलमासतत्त्व. So earlier than 1500 A. D.
 
-गोत्रप्रवरनिर्णय by केशवदेवज्ञ of नन्दि 537-548 in 209 verses and two 
+गोविन्दार्चनचन्द्रिका (pr. at Bombay).
 
-MA ( ms. in Baroda O I. 8131 प्रपाठकs. Begins अथात: संप्रव. 
+गोविन्दार्णव alias स्मृतिसागर or धर्मतत्त्वावलोक by शेषनृसिंह, son of रामचन्द्र; compiled under the orders of महाराजाधिराज गोविन्दचन्द्र of Kāśī, divided into six वीचिs (waves) on संस्कार, आह्निक, श्राद्ध, शुद्धि, काल and प्रायश्चित्त; quotes कल्पतरु, अपरार्क, माधवाचार्य, विश्वेश्वरभट्ट and is quoted in the निर्णयसिन्धु, आचाररत्न of लक्ष्मणभट्ट; compiled between 1400 and 1450 A. D. Vide Ulwar Cat. extract, 304 for a long description of a town ताण्डेतिका near Benares, which is said to have surpassed Delhi and Kalpī and of the श्रीवास्तव family of kings, of which गोविन्दचन्द्र was a scion and of the शेष family. The Ulwar Ms. (verse 85) speaks of only five वीचिs (omitting प्रायश्चित्त). It appears that शेषकृष्ण in his शूद्राचारशिरोमणि claims the गोविन्दार्णव as his work. Vide Ind. Ant. for 1912 p. 248.
 
-dated शके 1600). Each verse क्ष्यामि यदुपायोनिना। ब्राह्मणानां 
+गौडनिबन्ध m. in the पितृभक्ति of श्रीदत्त.
 
-ends with the wor हितार्थाय संस्कारार्थे तु भाषितम् ॥. 
+गौडनिबन्धसागर m. in नि. सि. (probably the श्राद्धसागर of कुल्लूकभट्ट).
 
-मङ्गलम्. Text saine as in B. J. Series. 
+गौडश्राद्धकौमुदी m. in निर्णयसिन्धु (probably the श्राद्धकौमुदी of गोविन्दानन्द).
 
-C. वाक्पुष्पमाला by प्रभाकर दैवज्ञ. गृह्योक्तकर्मपद्धति. 
+गौडसंवत्सरप्रदीप m. in the कालसार of गदाधर.
 
-| गोत्रप्रवरनिर्णय by गोपीनाथ (Baroda 
+[[P1026]] गौडीयचिन्तामणि m. in कालसार of गदाधर.
 
-0. I. 11041). गोत्रनिर्णय by केशवदैवज्ञ of नन्दिपुर स य by जीवदेव, son of 
+गौतमधर्मसूत्र vide sec. 5; pr. in B. S. Series and Jivananda Sm. part II. pp. 403–434.
 
-in 27 श्लोक. 
+C. by कुलमणि शुक्ल.
 
-मापदेव and younger brother of C. वाक्पुष्पमाला by प्रभाकर दैवज्ञ; 
+C. (भाष्य) by मस्करिन् (pr. in Mysore G. O. L. Series).
 
-अनन्तदेव, author of संस्कारकौस्तुभ mentions प्रवरमञ्जरी of श्रीधर. 
+C. मिताक्षरा by हरदत्त (pr. in Ānan. P.).
 
-quotes प्रवरमञ्जरी, आश्वलायनसूत्र. गोत्रनिर्णय by बालम्भट्ट. 
+गौतमस्मृति.
 
-वृत्तिकार, नारायणवृत्तिः About गोत्रनिर्णय by महादेव दैवज्ञ. 
+ग्रन्थराज or स्मृतिग्रन्थराज.
 
-1660-1680; says मातृगोत्र is to गोत्रप्रवर ( Bik. Cat. p. 391 ). 
+ग्रन्थविधानधर्मकुसुम by शङ्करशर्मन्.
 
-be avoided jn marriage by C. भास्कर. 
+ग्रहणक्रियाक्रम.
 
-माध्यन्दिनीयs alone as सत्याषाढ 
+ग्रहणनिर्णय (from the प्रयोगरत्न of नारायणभट्ट).
 
-says and as the शिष्टाचार is to the गोत्रप्रवर by प्रभाकर दैवज्ञ (probably 
+ग्रहणश्राद्धनिर्णय.
 
-same effect. same as वाक्पुष्पमाला, a com. on 
+ग्रहदानप्रयोग; refers to माधव.
 
-गोत्रप्रवरनिर्णय by नागेशभट्ट. गोत्रप्रवरनिर्णय of केशव). 
+ग्रहमखतिलक by माधव, son of कृष्णाचार्य of भारद्वाजगोत्र. Peterson's 5th Report p. 176.
 
-गोत्रप्रवरनिर्णय by नारायणभट्ट m. in गोत्रप्रवरकारिका. 
+ग्रहमखप्रयोग (N. X. p. 200).
 
-गोत्रप्रवरनिर्णय by भट्टोजि. गोत्रप्रवरखण्ड (taken from आप- गोत्रप्रवरनिर्णय by पद्मनाभ ( Baroda 
+ग्रहयज्ञकारिका.
 
-स्तम्बस्त्र). 
+ग्रहयज्ञतत्त्व by रघुनन्दन. Mentions दीपिका.
 
-_O. I. 8789). गोत्रप्रवरखण्ड (taken from धर्मसिंधु). 
+ग्रहयज्ञदीपिका by सदाशिव दीक्षित.
 
-गोत्रप्रवरनिर्णय by भट्ठोजिदीक्षित; first गोत्रप्रवरदर्पण. 
+ग्रहयज्ञनिरूपण from संस्कारकौस्तुभ of अनन्तदेव.
 
-half of 17th century (also गोत्रप्रवरदीप by विष्णुपण्डित. 
+ग्रहयज्ञपद्धति.
 
-styled गोत्रप्रवरनिर्णय by (अभिनव) 
+ग्रहयज्ञप्रयोग.
 
-माधवाचार्य. गोत्रप्रवरनिर्णय by अनन्तदेव (in | 
+ग्रहयज्ञविधान by अनन्तदेवभट्ट, son [[of of|of]] नागदेवभट्ट.
 
-C. by नारायणाय, son of मण्डूरि संस्कारकास्तुम; which is taken 
+ग्रहयागकौमुदी by रामकृष्णभट्टाचार्य.
 
-रघुनाथार्य (pr. by Chentsalrao, from bis brother's work). 
+[[ग्रहयागप्रयोतत्त्व|ग्रहयागप्रयोगतत्त्व]] or ग्रहयागतत्त्व by रघुनन्दन, son of हरिभट्ट; pr. in Bengali type by Sanskrit Sāhitya Parishad, Calcutta (No. 10). This is over and above his 28 तत्त्वs.
 
-__Mysore, 1900). गोत्रप्रवरनिर्णय by मापदेव (probably / गोत्रप्रवरनिर्णय by रघुनाथ, son of 
+ग्रहयोगशान्ति.
 
-a mistake, as जीवदेव was a son 
+ग्रहशान्ति according to शाङ्खायन and गोभिल.
 
-माधव, son of रामेश्वर. 1550-1625 of मापदेव). Vide Baroda O. I. A. D. No. 1870. 
+ग्रहशान्तिपद्धति or वसिष्ठीशान्ति by गणपति रावल, son of हरिशङ्कर. About 1686 A. D.
 
-गोत्रप्रवरनिर्णय by विश्वनाथदेव or गोत्रप्रवरनिर्णय by कमलाकर, son of | विश्वेश्वर, son of शम्भुदेव and youn. 
+ग्रहशान्तिपद्धति by योद्धृराज.
 
-रामकृष्ण (also styled गोत्रप्रवरदर्पण) | ger brother of रामदेव; finished 
+ग्रहस्थानपद्धति (Peterson's 5th Report p. 98).
 
-1024 
+ग्रामनिर्णय or पातित्यग्रामनिर्णय (from the सह्याद्रिखण्ड of the स्कन्दपुराण).
 
-Hitory of Dharmasastra 
+घृतप्रदानरत्न by प्रेमनिधि.
 
-at Benares ( I. O. Cat. vol. III. | गोत्रप्रवरविवेक ( from the धर्मप्रदीप p. 580 ). Composed in Sake | by धनञ्जय ). 1506. ( Baroda O. I. 11055 ). | गोत्रप्रवराध्याय vide प्रवराध्याय. 
+चक्रनारायणीय m. in दुर्गोत्सवविवेक of शूलपाणि. So earlier than 1400.
 
-In verse and prose. | गोत्रप्रवरोच्चार ( from the औदीच्य. गोत्रप्रवरनिर्णय by सदाराम 
+चक्रनारायणीयनिबन्ध or स्मृतिसारोद्धार by विश्वम्भरत्रिवेदिन् in 12 उद्धारs on सामान्यनिर्णय, एकभक्तादिनिर्णय, तिथिसामान्यनिर्णय, प्रतिपदादितिथिनिर्णय, व्रत, संक्रान्ति, श्राद्ध, आशौच, गर्भाधानादिकालनिर्णय, आह्निक, व्यवहार, प्रायश्चित्त, under orders of prince नारायणमल्ल, son of भीममल्ल; mentions प्रतापमार्तण्ड, होरिलस्मृति, रूपनारायणीय, अनन्तभट्टीय. First half of 17th century; pr. in Ch. S. Series.
 
-प्रकाश). गोत्रप्रवरनिर्णयवाक्यसधार्णव by विश्व- | गोत्रामृत by नृसिंहपण्डित. 
+चण्डिकार्चनदीपिका by काशीनाथभट्ट, son of जयरामभट्ट, son of शिवरामभट्ट, of the भट्ट family. (Ulwar Cat. extract 620).
 
-नाथदेव ( Baroda O. I. 9375 ). गोदानविधिसंग्रह by मधुसूदनगोस्वा. 
+चण्डीप्रयोग by कमलाकर, son of रामकृष्ण.
 
-Different from गोत्रप्रवरनिर्णय. । मिन् , son of व्रजराज. गोत्रप्रवरभास्कर by भटोजि: same as | गोपालकारिका (बौधायनीय) 420 ver 
+[[P1027]] चण्डीप्रयोग by नागोजिभट्ट.
 
-ses on various matters connect __ गोत्रप्रवरनिर्णय. 
+चण्डूकनिबन्ध or स्मार्तकर्मानुष्ठानक्रमविवरण by महामात्य श्रीसम्राट् चण्डूक. On daily duties, श्राद्ध, मलमास, त्रयोदशीनिर्णय &c. (Baroda O. I. No. 296 dated संवत् 1593).
 
-ed with religious observances. गोत्रप्रवरमञ्जरी by केशव, who als) 
+चतुरशीतिज्ञातिप्रशस्ति by सदाशिव.
 
-such as the measurement and wrote मुहूर्ततत्त्व. 
+चतुर्थीकर्मन् (on the ceremonies to be performed on the fourth night after marriage).
 
-construction of altars. C. by राम; quotes स्मृत्यर्थसार, 
+चतुर्दशश्लोकी by भट्टोजि (Baroda O. I. 1488). In fourteen verses on श्राद्ध.
 
-प्रयोगपारिजात. 
+C. by महेश्वर.
 
-गोपालपद्धति He is m, even by गोत्रप्रवरमञ्जरी alias प्रवरमञ्जरी by | 
+चतुर्वर्गचिन्तामणि of हेमाद्रि. Vide sec. 88 (pr. in B. I. Series). Hultzsch R. I. No. 658 contains प्रायश्चित्त and व्यवहार, but they are most probably by a different author.
 
-नारायण. Earlier than 1000 A. पुरुषोत्तमपण्डित ( standard work | 
+चतुर्विंशतिमत or -स्मृति. Vide sec. 42.
 
-_ID BBRAS. cat. vol. II. p. 183. on this subject ). Pr. by Chent- गोपालपूजापद्धति by दिनकर, son of salrao, Mysore, 1900. Under नृसिंह belonging to दशार्ण coun each of the eight original got try ( on worship of कृष्ण ). I. O. ras quotes passages from 19- ms. ( Cat. p. 587 ) dated संवत् स्तम्ब, आश्वलायन, कात्यायन, बौधा 1664. यन, मत्स्यपुराण, लौगाक्षि, सत्याषाढ; गोपालरत्नाकर by गोपाल. 
+C. by भट्टोजि (Ben. S. Series publishes on संस्कार and श्राद्ध). The [[I|I.]] O. Cat. ms. p. 475 (on संस्कारकाण्ड only) ascribes it in the colophons to रामचन्द्र, son of नारायणभट्ट. Mss. of आह्निक, आचार and प्रायश्चित्तकाण्ड are known.
 
-mentions धूर्तस्वामी, कपर्दिस्वामी, | गोपालसिद्धान्त m. in आचाररत्न. and ग्रहदेवस्वामी as भाष्यकारs on | | गोपालाचनचन्द्रिका. 
+C. by रामचन्द्र, son of नारायण.
 
-आपस्तम्बसूत्र; m. in नि.सि , नृसिंह- गोपालार्चनचन्द्रिका by लक्ष्मीनाथ. प्रसाद, दत्तकमीमांसा. Earlier than 
+चतुर्विंशतिमुनिमतसार (Baroda O. I. 2247 and 10540).
 
-गोभिलगृह्यसूत्र ( pr. in B. I. Series 1450 A. D. 
+चतुर्विंशतिस्मृतिधर्मसारसमुच्चय.
 
-and by Dr. Knauer and tr. in गोत्रप्रवरमञ्जरी by शङ्करतान्त्रिक ; gives S. B. E. vol. 30.). 
+चतुश्चत्वारिंशत्संस्काराः.
 
-exhaustive enumeration of 
+चन्दनधेनुदानप्रमाण or तत्त्व by वाचस्पति. Rites on the occasion of the first śrāddha of a woman dying before her husband and son. Based on रत्नाकर. N. (new series) I. p. 100.
 
-C. (भाष्य ) by भट्टनारायण son of divisions and sub-divisions of 
+चन्दनधेनूत्सर्गपद्धति by रत्ननाथ भट्टाचार्य of नवद्वीप. N. (new series) I. p. 101; ms. dated 1765 A. D.
 
-महाबल; m. in श्राद्धतत्त्व of gotras; mentious ज्योतिर्निबन्ध, 
+चन्द्रकमलाकर.
 
-रघुनन्दन; ms. copied in ल. प्रवरदीपिका, व्याख्याकार of बौधा 
+चन्द्रकलिका.
 
-सं. 431 ( 1549 50 A. D.). यन. ( Baroda O. I. No. 7657). 
+चन्द्रनिबन्ध quoted in निर्णयदीपक.
 
-C. ( भाष्य) by यशोधर, m. in गोत्रप्रवरमञ्जरीसारोद्धार by शङ्करदैवज्ञ, 
+चन्द्रप्रकाश m. by नि. सि., नन्दपण्डित's श्राद्धकल्पलता, भट्टोजि. Earlier than 1570 A. D.
 
-दान क्रियाकौमुदी of गोविन्दानन्द _son of शिव. 
+चन्द्रस्मृति m. in निर्णयदीपक.
 
-and in श्राद्धतत्त्व. Earlier गोत्रप्रवररत्न by लक्ष्मणभट्ट, son of than 1500 A. D. 
+चन्द्रोदय m. in नि. सि. (probably पृथ्वीचन्द्रोदय or आचारचन्द्रोदय).
 
-रामकृष्णभट्ट and younger brother C. सरला m. in तिथितत्त्व and of कमलाकरभट्ट, About 1585 
+चमत्कारचिन्तामणि by नारायणभट्ट (pr. at Benares, 1870); m. in आचारमयूख, समयमयूख.
 
-श्राद्धतत्त्व. Earlier than 1500 1630 A. D. 
+C. मिताक्षरा.
 
-A. D. 
+C. अन्वयार्थदीपिका by धर्मेश्वर (pr. at Benares, 1870).
 
-List of works on Dharmaśāstra 
+C. by नारायण.
 
-1025 
+चमत्कारचिन्तामणि by राजर्षिभट्ट; (is probably the work so m. by नि. सि.). It is on astrology. Earlier than 1550 A. D.
 
-C. by सायण. 
+C. (ms. dated संवत् 1657 i. e. 1600–1601 A. D.).
 
-गोविन्दार्चनचन्द्रिका (pr. at Bom C. सुबोधिनीपद्धति by शिवराम,son | 
+चमत्कारचिन्तामणि by वैद्यनाथ. On संस्कारs of two kinds, ब्राह्म (गर्भाधान and others) and दैव (such as पाकयज्ञ), on मुहूर्तs for गर्भाधान and other संस्कारs and on मलमासकृत्याकृत्य; D. C. Ms. No. 112 of 1895–1902 copied in संवत् 1719.
+[[P1028]] चलाचलमूर्तिप्रतिष्ठा.
 
-___bay). of विश्राम (different from the | गोविन्दार्णव alias स्मृतिसागर or author's कारिकार्थबोधिनी). धर्मतत्त्वावलोक by शेषनृसिंह, son of About 1640 A. D. (. Stein's रामचन्द्र; compiled under the Cat. p. 86). 
+चलार्चा (acc. to बौधायन); vide B. B. R. A. S. Cat. vol. II. p. 243.
 
-orders of महाराजाधिराज गोविन्द C. पद्धति by अग्निहोत्रिविष्णु, of | चन्द्र of Kasi, divided into six 
+चलार्चापद्धति by अनन्तदेव.
 
-मथुरा. 
+चलार्चापद्धति of नारायण based on गृह्यपरिशिष्ट, त्रिविक्रमपद्धति, कालादर्श, पुरुषार्थप्रबोध, शारदातिलक and बोपदेव. Later than 1450 A. D.
 
-वीचिs (waves) on संस्कार, आह्निक, C. कारिकार्थबोधिनी by शिवराम, श्राद्ध, शुद्धि, काल and प्रायश्चित्त; 
+चाणक्यनीति (ed. by Kressler).
 
-son of विश्राम (Stein's Cat. quotes कल्पतरु, अपराक, माधवा p. 15 and p. 250). 
+चाणक्यनीति or चाणक्यराजनीति or चाणक्यशतक. There is a वृद्धचाणक्य in 660 verses. There is a लघुचाणक्य also.
 
-चार्य, विश्वेश्वरभट्ट and is quoted in गोभिलपरिशिष्ट (pr. in B. I. Series | the निर्णयसिन्धु, आचाररत्न of 
+चाणक्यनीतिदर्पण of गजानन.
 
-with com.) on सन्ध्यासूत्र, स्नान 
+चाणक्यनीतिसारसंग्रह in 108 stanzas. It begins ‘मूलसूत्रं प्रवक्ष्यामि चाणक्येन यथोदितम् ।’
 
-लक्ष्मणभट्ट; compiled between सूत्र and श्राद्धकल्प. 
+चाणक्यराजनीतिशास्त्र (pr. in Calcutta O. Series No. 2, 1921).
 
-1400 and 1450 A. D. Vide C. प्रकाश by नारायण; m. by 
+चाणक्यसप्तति.
 
-Ulwar Cat. extract, 304 for a 
+चाणक्यसारसंग्रह.
 
-long description of a town रघुनन्दन. 
+चाणक्यसूत्र (pr. at end of the कौटिलीय in Dr. Sham Sastri's edition).
 
-ताण्डेतिका near Benares, which गोभिलश्राद्धसूत्रभाष्य m. by रघुनन्दन 
+चातुराश्रम्यधर्म by श्रीकण्ठायन.
 
-is said to have surpassed Delhi in तिथितत्व and श्राद्धतत्त्व. Pro 
+चातुर्मास्यकारिका by गोपाल.
 
-and Kalpi and of the श्रीवास्तव bably the same as 164 of 
+चातुर्वर्ण्यधर्मसंग्रह.
 
-family of kings, of which महायशस् . 
+चातुर्वर्ण्यविचार by गङ्गादत्त.
 
-गोविन्दचन्द्र was a scion and of गोभिलसन्ध्यासूत्र 
+चातुर्वर्ण्यविवरण by गङ्गाधर.
 
-the te family. The Ulwar Ms. गोमिलस्मृति- same as कर्मप्रदीप of | 
+चातुर्वर्ण्यविवेचन by धरणीधर.
 
-(verse 85) speaks of only five कात्यायन. Anan. Sm. pp. 49-71. वीचिs (omitting प्रायश्चित्त). It गोभिलीपरिशिष्ट ( on rites for propi- | appears that शेषकृष्ण in his tiating the planets in their शूद्राचारशिरोमणि claims the गोवि evil positions, on ग्रहयाग etc.) | दार्णव as his work. Vide Ind. N. vol. x. pp. 201-202. 
+चातुर्वर्ण्यव्यवस्था by धरणीधर.
 
-Ant. for 1912 p. 248. गोभिलीयश्राद्धकल्प. 
+चारायणीयगृह्यपरिशिष्ट m. by हेमाद्रि.
 
-गौडनिबन्ध m. in the पितृभक्ति of C. (भाष्य) by महायशस्; m. in श्रीदत्त. श्राद्धतत्व of रघुनन्दन. महायशस् is 
+चारुचर्या by क्षेमेन्द्र (pr. in Kāvyamālā Series).
 
-| गौडनिबन्धसागर m. in नि. सि. probably the same as यशोधर 
+चारुचर्या by भोजराज.
 
-(probably the श्राद्धसागर of above. 
+चूडाकरणकेशान्तौ.
 
-कुल्लूकभट्ट). C. by समुद्रकर m. in श्राद्धकला of भवदेव's स्मृतिचन्द्र 
+चूडाकर्म by दत्तपण्डित.
 
-गौडश्राद्धकौमुदी m. in निर्णयसिन्धु 
+चूडाकर्मप्रयोग.
 
-(probably the श्राद्धकौमुदी of गोवधप्रायश्चित्त. 
+चौलोपनयन from the विश्वप्रकाशपद्धति of विश्वनाथ.
 
-गोविन्दानन्द). गोविन्दमानसोल्लास m. in एकादशीतत्त्व 
+चौलोपनयनप्रयोग.
 
-and मलमासतत्त्व. So earlier than | गौडसंवत्सरप्रदीप m. in the कालसार 1500 A. D. 
+छन्दोगकर्मानुष्ठानपद्धति by भवदेवभट्ट. Vide छन्दोगपद्धति.
 
-of गदाधर. H. D -129 
+छन्दोगगृह्य. Vide गोभिलगृह्य.
 
-1026 
+C. (भाष्य) m. by हरदत्त in his अनाविला.
 
+छन्दोगपद्धति by भवदेवभट्ट; vide sec. 74.
 
+C. संस्कारपद्धतिरहस्य of रामनाथ, composed in Śake 1544 (1622 A. D.).
 
-गौडीयचिन्तामणि m. in कालसार of | Sahitya Parishad, Calcutta (No. 
+छन्दोगपरिशिष्ट– same as कर्मप्रदीप. (It is in verse).
 
-गदाधर. 
+छन्दोगपरिशिष्ट m. by हेमाद्रि.
 
-10). This is over and above bis गौतमधर्मसूत्र vide sec. 5; pr. in B. | 
+C. m. in श्राद्धविवेक of रुद्रधर.
 
-B | 28 तत्त्व S. Series and Jivananda Sm. | ग्रहयोगशान्ति. part II. pp. 403-434. 
+C. प्रकाश by महामहोपाध्याय नारायण, son of गोण and grandson of उमापति, who was a great प्राभाकर and patronised by king जयपाल. Vide under कर्मप्रदीप.
 
-| ग्रहशान्ति according to शालायन and C. by कुलमणि शुक्ल. 
+CC. सारमञ्जरी by श्रीनाथ, son of श्रीकराचार्य.
 
-गोभिल. C. (भाष्य) by मस्करिन् (pr. in | ग्रहशान्तिपद्धति or वसिष्ठीशान्ति by ___Mysore G. O. L. Series). । 
+CC. by हरिराम.
 
-गणपति रावल, son of हरिशङ्कर. C. मिताक्षरा by हरदत्त (pr. in | About 1686 A. D. 
+CC. by हरिहर.
 
-Anan. P.). 
+C. by आशाधर or आशार्क, son of चक्रधर.
 
-ग्रहशान्तिपद्धति by योद्धृराज. गौतमस्मृति. 
+छन्दोगप्रायश्चित्त.
 
-ग्रहस्थानपद्धति ( Peterson's 5th ग्रन्थराज or स्मृतिग्रन्थराज 
+छन्दोगश्राद्ध.
 
-__Report p. 98). अन्धविधानधर्मकुसुम by शङ्करशमन्. । ग्रामनिर्णय or पातित्यग्रामनिर्णय (from ग्रहणक्रियाक्रम. 
+छन्दोगश्राद्धतत्त्व by रघुनन्दन.
 
-_ the सह्याद्रिखण्ड of the स्कन्द ग्रहणनिर्णय (from the प्रयोगरत्न of 
+C. by काशीराम, son of राधावल्लभ, son of रामकृष्ण.
 
-पुराण). नारायणभट्ट). 
+[[P1029]] छन्दोगश्राद्धदीपिका by श्रीनाथ, son of श्रीकर.
 
-घृतप्रदानरत्न by प्रेमनिधि. ग्रहणश्राद्धनिर्णय. 
+छन्दोगाचारकृत्य m. by रघुनन्दन.
 
-चक्रनारायणीय m. in दुर्गोत्सवविवेक of ग्रहदानप्रयोग; refers to माधव. 
+छन्दोगानीयाह्निक by शिवराम, son of विश्राम. (I. O. Cat. I. p. 95 ms. dated संवत् 1810 i. e. 1753–54 A. D.). Composed about 1640.
 
-शूलपाणि. So earlier than 1400. ग्रहमखतिलक by माधव, son of 
+छन्दोगाह्निक by गोवर्धनदीक्षित, son of वेणीदास (Baroda O. I. No. 1026). Ms. dated संवत् 1860.
 
-कृष्णाचार्य of भारद्वाजगोत्र. Peter- | 
+छन्दोगाह्निक by श्रीदत्त, m. by रघुनन्दन in आह्निकतत्त्व.
 
-| चक्रनारायणीयनिबन्ध or स्मृतिसारोद्धार son's 5th Report p. 176. 
+छन्दोगाह्निक by सदानन्द.
 
-by विश्वम्भरत्रिवेदिन् in 12 उद्धार 
+छन्दोगाह्निकपद्धति by रामकृष्ण त्रिपाठिन्.
 
-on सामान्यनिर्णय, एकभक्कादिनिर्णय, ग्रहमखप्रयोग (N. X. p. 200). 
+छन्दोगाह्निकोद्धार of शङ्करमिश्र, son of भवनाथमिश्र. Vide under प्रायश्चित्तप्रदीप.
 
-तिथिसामान्यनिर्णय, प्रतिपदादितिथि ग्रहयज्ञकारिका. 
+छन्दोपहारावलि.
 
-निर्णय, व्रत, संक्रान्ति, श्राद्ध, आशौच ग्रहयज्ञतत्त्व by रघुनन्दन. Mentions 
+छागलेयस्मृति m. in मिताक्षरा, हेमाद्रि, माधवाचार्य.
 
-गर्भाधानादिकालनिर्णय, माहिक, दीपिका. 
+जगद्वल्लभा by श्रीवल्लभाचार्य of the भारद्वाजगोत्र (in more than 24 प्रकरणs).
 
-व्यवहार, प्रायश्चित्त, under orders ग्रहयज्ञदीपिका by सदाशिव दीक्षित. of prince नारायणमल्ल, son of ग्रहयज्ञनिरूपण from संस्कारकौस्तुभ of भीममल्ल, mentions प्रतापमार्तण्ड, 
+जगन्नाथकारिका m. in गदाधर's भाष्य on पारस्करगृह्य.
 
-अनन्तदेव. 
+जगन्नाथप्रकाश by सूरमिश्र, composed under orders of जगन्नाथ, of Kāmboja family. Vide Mitra's Notices vol. V. p. 109 for contents (the ms. was copied in संवत् 1838 i. e. 1782–83 A. [[D)|D.)]]; in ten प्रभाs.
 
-होरिलस्मृति, रूपनारायणीय, अनन्त प्रहयज्ञपद्धति. 
+जटमल्लविलास by श्रीधर compiled under the [[partonage|patronage]] of prince (महाठक्कुर) जटमल्ल, younger brother of चायमल्ल, who was son of बालचन्द्र, son of ढौल who was sole minister of the king of Delhi. The family was Mandira from Kosala country and their capital was स्वर्णपुरी. Deals with आचार, काल, श्राद्ध, संक्रान्ति, मलमास, संस्कार, आशौच and शुद्धि. The date in the I. O. ms. is corrupt ‘वानाब्बाणक्षिति’ (? रत्नाक्षबाणक्षिति 1559) of the विक्रम era. About 1500 A. D. Names कालनिर्णय, कालादर्श, प्रासाददीपिका.
 
-भट्टीय. First half of 17th century: ग्रहयज्ञप्रयोग. 
+जनिदोषप्रतिकार ms. (Baroda O. I. No. 2365) dated 1565 संवत् (1508–09 A. D.).
 
-pr. in Ch. S. Series. ग्रहयज्ञविधान by अनन्तदेवभट्ट, son of | चण्डिकार्चनदीपिका by काशीनाथभट्ट, ___of नागदेवभट्ट 
+जन्मदिनकृत्यपद्धति.
 
-son of जयरामभट्ट, son of शिवराम ग्रहयागकौमुदी by रामकृष्णभट्टाचार्यः 
+जन्मदिवसपूजापद्धति.
 
-भट्ट, of the भट्ट family. (Ulwar प्रहयागप्रयोतत्त्व or ग्रहयागतत्त्व by 
+जन्ममरणविवेक by वाचस्पति (Baroda O. I. No. 12774). On आशौच and श्राद्ध.
 
-Cat. extract 620). रघुनन्दन, son of हरिभट्ट, pr. in | चण्डीप्रयोग by कमलाकर, son of Bengali type by Sanskrit | रामकृष्ण. 
+जन्माष्टमीतत्त्व or जन्माष्टमीव्रततत्त्व by रघुनन्दन.
 
-List of works on Dharmaśāstra 
+जन्माष्टमीनिर्णय by विठ्ठलेश्वर.
 
-1027 
+जयतुङ्ग m. in निर्णयसिन्धु.
 
+जयन्तकारिका.
 
+जयन्तीनिर्णय (on कृष्णजन्माष्टमी) by आनन्दतीर्थ.
 
+जयन्तीनिर्णय by गोपालदेशिक, pupil of रामानुजयोगीन्द्र and son of आत्रेयकृष्णाचार्य.
 
+जयमाधवमानसोल्लास by जयसिंहदेव of गोरक्षपुर (modern Gorakhpur). He was a devotee of नारायण; deals with all religious acts [[P1030]] (nitya, naimittika and kāmya) about वासुदेव. The प्रशस्ति at the end of D. C. Ms. No. 241 of A 1881-82 is by हरिदास राजपण्डित; ms. copied संवत् 1827 (1771 A. D.).
 
+जयसिंहकल्पद्रुम by रत्नाकर of the शाण्डिल्यगोत्र, son of पण्डितश्रीदेवभट्ट of Benares (extensive work in 900 pages pr. by Lakṣmīveṅkaṭeśvara Press at Kalyan in 1925). A digest in 19 स्तबकs on काल, व्रत, श्राद्ध, दान etc. the first being on काल, compiled under the patronage of जयसिंह who performed ज्योतिष्टोम in उज्जयिनी and also पौण्डरीक. His city अम्बिका (Amber) is also referred to. Composed in Vikrama 1770 (1713 [[A D.|A. D.]]). Gives genealogy as जयसिंह (who brought Shivaji to Delhi)-रामसिंह-कृष्णसिंह विष्णुसिंह जयसिंह. Sometimes called °द्रुमोद्योत (Ulwar Cat. extract 305); pr. in Bombay, 1903.
 
+जयानिबन्ध (निबन्ध?) m. in कृत्यरत्नाकर of चण्डेश्वर (p. 166).
 
-चण्डीप्रयोग by नागोजिभट्ट. 
+जयाभिषेकप्रयोग by रघुनाथ.
 
-dying before ber husband and चण्डूकनिबन्ध or स्मार्तकर्मानुष्ठानक्रम 
+जयार्णव m. by नि. सि. and by गदाधर in पारस्करगृह्यसूत्रभाष्य. Vide युद्धजयार्णव.
 
-son. Based on रत्नाकर. N. ( new विवरण by महामात्य श्रीसम्राट 
+जलयात्रा.
 
-series ) I. p. 100. चण्डूक. On daily duties, श्राद्ध, | चन्दनधेनूत्सर्गपद्धति by रत्ननाथ भट्टा मलमास. त्रयोदशीनर्णय &c. चार्य of नवद्वीप. N. ( new series) ( Baroda O. I. No. 296 dated I. p. 101; ms. dated 1765 A.D. संवत् 1593). 
+जलाशयप्रतिष्ठा by भागुणिमिश्र.
 
-चन्द्रकमलाकर. चतुरशीतिज्ञातिप्रशस्ति by सदाशिव. चन्द्रकलिका. चतुर्थीकर्मन् (on the ceremonies to | चन्द्रनिबन्ध quoted in निर्णयदीपक 
+जलाशयारामोत्सर्गविधि or -पद्धति.  
+(1) by नारायणभट्ट, son of रामेश्वर; quotes रूपनारायण; 1513-1575 A. D.; sec. 108.  
+(2) by कमलाकर; sec. 111.
 
-be performed on the fourth 
+जलाशयोत्सर्गप्रकाश pr. at Ratnagarh (1893 A. D.).
 
-चन्द्रप्रकाश m. by नि. सि., नन्द night after marriage). 
+जलाशयोत्सर्गतत्त्व of रघुनन्दन (pr. by Jivananda) Sec. 107.
 
-पण्डित's श्राद्धकल्पलता, भट्टोजि. चतुर्दशश्लोकी by भट्टोजि ( Baroda 0. | 
+जातकर्मन् from the संस्कारभास्कर.
 
-Earlier than 1570 A. D. I. 1488). In fourteen verses 
+जातकर्मपद्धति by केशवभट्ट.
 
-| चन्द्रस्मृति m. in निर्णयदीपक on श्राद्ध. C. by महेश्वर. 
+जातकर्मपद्धति by दामोदर.
 
-चन्द्रोदय m. in नि. सि. ( probably चतुर्वर्गचिन्तामणि of हेमादि. Vide | पृथ्वीचन्द्रोदय or आचारचन्द्रोदय). 
+जातकर्मादिपालाशकर्मान्त by बापण्णभट्ट.
 
-see. 88 ( pr. in B. I. Series ). | चमत्कारचिन्तामणि by नारायणभट्ट (pr. Hultzsch R. I. No. 658 con- at Benares, 1870); m. in tains प्रायश्चित and व्यवहार, but 
+जातरिष्ट्यादिनिर्णय by विद्यार्णव; N. (new series) II pp. 55-56.
 
-आचारमयूख, समयमयूख. they are most probably by a 
+जातिनिर्णय (Baroda O. I. No. 11003) on कायस्थs etc.
 
-C. मिताक्षरा. different author. 
+जातिमाला (part of रुद्रयामलतन्त्र).
 
-C. अन्वयार्थदीपिका by धर्मेश्वर (pr. चतुर्विशतिमत or-स्मृति. Vide sec. 42. 
+जातिमाला (vide N. vol. II. p. 151) on the origin of different Hindu castes.
 
-___ at Benares, 1870 ). C. by भट्टोजि ( Ben. S. Series publishes on संस्कार and 
+जातिमाला by सोमनाथ, son of मुद्गल and झापाम्बिका, surnamed सकलकल and inhabitant of जलग्राम. Divided into three parts in verse on लक्ष्मीनिन्दा, वैराग्य, पार्वतीस्तुति; but contains nothing on धर्म or जातिs. D. C. Ms. No. 302 of 1884-86.
 
-C. by नारायण श्राद्ध). The ] O.Cat. ms. p. चमत्कारचिन्तामणि by राजर्षिभट्ट; (is 475 ( on संस्कारकाण्ड only) probably the work so m. by नि. ascribes it in the colophons 
+जातिमाला (from पराशरपद्धति); Stein's Cat. p. 94.
 
-सि.). It is on astrology. Earlier to रामचन्द्र, son of नारायणभट्ट 
+जातिविवेक m. in शूद्राचारशिरोमणि of शेषकृष्ण and in नृसिंहप्रसाद.
 
-than 1550 A. D. Mss. of मालिक, आचार and C. ( ms. dated संवत् 1657 i. e. प्रायश्चित्तकाण्ड are known. 
+जातिविवेक by कृष्णगोविन्द-पण्डित. Part of a larger work called वर्णाश्रमधर्मदीपिका.
 
-1600-1601 A. D.). C. by रामचन्द्र, son of नारायण. 
+जातिविवेक by त्र्यम्बक.
 
-चमत्कारचिन्तामणि by वैद्यनाथ. On चतुर्विशतिमुनिमतसार ( Baroda O. I. 
+जातिविवेक by नारायणभट्ट (Baroda O. I. 11147).
 
-संस्कारs of two kinds, ब्राह्म (गर्भा 2247 and 10540 ). 
+[[P1031]] जातिविवेक by पराशर.
 
-धान and others) and देव (such चतुर्विंशतिस्मृतिधर्मसारसमुच्चयः as पाकयज्ञ), on मुहूर्तs for गर्भा चतुश्चत्वारिंशत्संस्काराः 
+जातिविवेक by रघुनाथ.
 
-धान and other संस्कारs and on चन्दनधेनुदानप्रमाण or तत्त्व by वाच- मलमासकृत्याकृत्य; D. C. Ms. No. 
+जातिविवेक by विश्वनाथ (N. vol. IX. p. 179). Stein's Cat. calls it °विवेकसंग्रह (p. 89).
 
-fold. Rites on the occasion of 112 of 1895-1902 copied in the first sraddha of a woman | संवत् 1719. 
+जातिविवेक by विश्वेश्वरभट्ट (probably same as the first part of कायस्थधर्मदीप).
 
-1028 
+जातिविवेक by व्यासगोपीनाथकवि of वासिष्ठगोत्र, son of शार्ङ्गधर, grandson of विश्वनाथ, of प्रत्यण्डपुर (Parāṇḍā in Mahārāṣṭra?). In three उल्लासs; ms. (I. O. Cat. vol. III. p. 519 No. 1639) is dated śake 1564 (1642 A. D.). Peterson (in Ulwar Cat. No. 1323) says that it is part of विश्वम्भरवास्तुशास्त्र, which is quoted by हेमाद्रि and he gives the father's name as व्यासराज previously called विश्वनाथ and grandfather as ‘Samaraja’.
 
+जातिविवेकशतप्रश्न attributed to सायण.
 
+जातिविवेकसंग्रह by विश्वनाथ.
 
-74. 
+जातिसाङ्कर्य by शिवलाल सुकुल.
 
-चलाचलमूर्तिप्रतिष्ठा 
+जातिसाङ्कर्यवाद by अनन्ताल्वार.
 
-चूडाकर्म by दत्तपण्डितः चलार्चा (acc. to बौधायन); vide | चूडाकर्मप्रयोगः 
+जातिसाङ्कर्यवाद by वेणीराम शाकद्वीपिन्.
 
-B.B.R.A.S. Cat. vol. II. p. 243. | चौलोपनयन from the विश्वप्रकाश चला पद्धति by अनन्तदेव 
+जिकनीयनिबन्ध m. in दुर्गोत्सवविवेक of शूलपाणि and by कुल्लूक.
 
-पद्धति of विश्वनाथ. चला पद्धति of नारायण based on | चौलोपनयनप्रयोग 
+जीर्णोद्धारविधि (according to त्रिविक्रम) on repairing temples, images of gods &c. N. vol. X. p. 271.
 
-गृहपरिशिष्ट, त्रिविक्रमपद्धति, काला दर्श, पुरुषार्थप्रबोध, शारदातिलक छन्दोगकर्मानुष्ठानपद्धति by भवदेवभट्ट. and बोपदेव. Later than 1450 ___Vide छन्दोगपद्धति. 
+जीवच्छ्राद्धप्रयोग by नारायणभट्ट, son of रामेश्वरभट्ट.
 
-A. D. 
+जीवच्छ्राद्धप्रयोग by शौनक.
 
-छन्दोगगृह्य. Vide गोभिलगृह्य. चाणक्यनीति (ed. by Kressler). 
+जीवपितृककर्तव्यनिर्णय by बालकृष्णभट्ट, son of रङ्गोजिभट्ट. N. (new series) vol. III. p. 64 (ms. dated संवत् 1785).
 
-___C. (भाव्य ) m. by हरदत्त in his चाणक्यनीति or चाणाक्यराजनीति or 
+जीवपितृककर्तव्यनिर्णय by बालकृष्ण पायगुण्डे (Baroda O. I. Nos. 358 and 5549).
 
-अनाविला. चाणक्यशतक. There is a वृद्ध- सटोगपद्धति by भवदेवभट्ट, vide sec. चाणक्य in 660 verses. There is & लघुचाणक्य also. 
+जीवपितृककर्तव्यनिर्णय or -कर्मनिर्णय by रामकृष्णभट्ट, son of नारायणभट्ट son of रामेश्वर. About 1570-1590 A. D.
 
-C. संस्कारपद्धतिरहस्य of रामनाथ, चाणक्यनीतिदर्पण of गजानन 
+जीवपितृककर्तव्यसंचय by कृष्णभट्ट.
 
-composed in Sake 1544 चाणक्यनीतिसारसंग्रह in 108 stan- | (1622 A. D.). 
+जीवपितृकविभागव्यवस्था by मधुसूदनगोस्वामिन्, son of व्रजराज.
 
-zas. It begins 'मूलसूत्रं प्रवक्ष्यामि छन्दोगपरिशिष्ट-same as कर्मप्रदीप. चाणक्येन यथोदितम् ।' 
+जीवपितृकविभागव्यवस्थासार by मधुसूदनगोस्वामिन्, son of व्रजराज.
 
-(It is in verse). चाणक्यराजनीतिशास्त्र ( pr. in Cal- | छन्दोगपरिशिष्ट m. by हेमाद्रिः 
+जीवपितृकविभागव्यवस्था-सारसंग्रह—abridgment of the above ms. (Ulwar Cat. No. 1324) copied in संवत् 1812 (1755-6 A. D.).
 
-cutta o. Series No. 2, 1921 ). ! 
+जीवश्राद्ध Aufrecht's Leipzig Cat. p. 611.
 
-___C. m. in श्राद्धविवेक of रुद्रधर. चाणक्यसप्ततिः 
+जैमिनिगृह्य (ed. by Dr. Caland, Panjab Oriental Series 1922).  
+C. सुबोधिनी by श्रीनिवास (extracts printed in above).
 
-C. प्रकाश by महामहोपाध्याय नारा चाणक्यसारसंग्रह 
+जैमिनिगृह्यमन्त्रवृत्ति.
 
-यण, son of गोण and grand चाणक्यसत्र (pr. at end of the कौटि- son of उमापति, who was a लीय in Dr. Sham Sastri's edi- great प्राभाकर and patroni tion). 
+ज्ञातिभेदविवेक.
 
-sed by king जयपाल. Vide 
+ज्ञानभास्कर (in the form of a dialogue between सूर्य and अरुण). Divided into प्रकाशs on प्रायश्चित्त, कर्म &c.; vide Bik. Cat. p. 398. Burnell (Tanjore ms. cat. p. 136 b) says that the author's name appears to be दिङ्मणि. Baroda O. I. 1136 is a part of it (कर्मप्रकाश on रोगाधिकार) and [[P1032]] extends over 10000 ग्रंथ and No. 10546 is another in 14000 ग्रंथ.
 
-under कर्मप्रदीप चातुराश्रम्यधर्म by श्रीकण्ठायन चातुर्मास्यकारिका by गोपाल. 
+ज्ञानमाला by भट्टोत्पल m. in the धर्मप्रदीप of भोज and in आह्निकतत्त्व of रघुनन्दन and in आचारमयूख.
 
-CC. सारमारी by श्रीनाथ, son of चातुर्वर्ण्यधर्मसंग्रह 
+ज्ञानरत्नावलि m. in हेमाद्रि, नृसिंहप्रसाद (दानसार), कुण्डकौमुदी. Earlier than 1250 A. D.
 
-श्रीकराचार्य चातुर्वर्ण्यविचार by गङ्गादत्त. 
+ज्ञानाङ्कुर by चूडामणि, son of राघवेन्द्रभट्ट, in four स्तबकs.
 
-CC. by हरिरामः चातुर्वण्यविवरण by गङ्गाधर. 
+ज्ञानानन्दतरङ्गिणी by कृष्णानन्द on संस्कारs.
 
-CC. by हरिहर चातुर्वर्ण्यविवेचन by धरणीधर. 
+ज्येष्ठाविधान.
 
-C. by आशाधर or माशार्क, son of चातुर्वर्ण्यव्यवस्था by धरणीधर. 
+ज्योतिःकालकौमुदी m. by रघुनन्दन.
 
-चक्रधर. चारायणीयगृह्मपरिशिष्ट m. by हेमाद्रिः । छन्दोगप्रायश्चित्त चारुचर्या by क्षेमेन्द्र ( pr. in Karya- | छन्दोगश्राद्ध. 
+ज्योतिःसागर m. in कालसार of गदाधर, नि. सि.
 
-mālā Series ). 
+ज्योतिःसागरसार by मथुरेश.
 
-छन्दोगश्राद्धतत्व by रघुनन्दन चारुचर्या by भोजराज. 
+ज्योतिःसागरसार by विद्यानिधि; N. (new series) vol. I p. 134, ms. dated śake 1670 (1748 A. D.).
 
-C. by काशीराम, son of राधावल्लभ, चूडाकरणकेशान्ती 
+ज्योतिःसार m. in धर्मप्रवृत्ति and गोविन्दार्णव.
 
-___son of रामकृष्णः 
+ज्योतिःसारसंग्रह m. by रघुनन्दन in ज्योतिस्तत्त्व and मदनपारिजात.
 
-List of works on Dharmaśāstra 
+ज्योतिःसारसंग्रह by हृदयानन्द विद्यालङ्कार.
 
-1029 
+ज्योतिःसारसमुच्चय m. by रघुनन्दन.
 
-छन्दोगश्राब्दीपिका by श्रीनाथ, son brother of चायमल्ल, who was son 
+ज्योतिःसारसमुच्चय by नन्द, son of देवशर्मन्.
 
-of श्रीकर. 
+ज्योतिरर्णव m. in गोविन्दार्णव, सं. कौ.
 
-of बालचन्द्र, son of ढोल who was छन्दोगाचारकृत्य m. by रघुनन्दन. 
+ज्योतिर्निबन्ध m. in शूद्रकमलाकर and संस्कारमयूख and शुद्धिमयूख.
 
-sole minister of the king of 
+ज्योतिर्नृसिंह m. in गोविन्दार्णव and चतुर्विंशतिमतव्याख्यान of भट्टोजि.
 
-Delhi. The family was Man छन्दोगानीयाहिक by शिवराम, son of | 
+ज्योतिषरत्न m. in संस्कारभास्कर of सिद्धेश्वर.
 
-dira from Kosala country and विश्राम. (I. O. Cat. I. p. 95 ms. 
+ज्योतिषरत्न by केशवतर्कपञ्चानन N. (new series) II. p. 58.
 
-their capital was स्वर्णपुरी. Deals dated संवत् 1810 i. e. 1753-54 
+ज्योतिषार्णव m. by दुर्गोत्सवविवेक of शूलपाणि, by रघुनन्दन.
 
-with आचार, काल, श्राद्ध, संक्रान्ति, A. D.). Composed about 1640. मलमास, संस्कार, आशौच and छन्दोगाहिक by गोवर्धनदीक्षित, son 
+ज्योतिष्प्रकाश m. by प्रयोगरत्न of नारायणभट्ट, नि. सि., गोविन्दार्णव.
 
-शुद्धि. The date in the I. O. ms. of aufgre (Baroda 0, I. No. is corrupt 'वानाबबाणाक्षिति' (१ 
+ज्योतिस्तत्त्व by रघुनन्दन.
 
-1026). Ms. dated संवत् 1860. रत्नाक्षबाणक्षिति 1559) of the छन्दोगाहिक by श्रीदत्त, m. by रघु 
+टोडरप्रकाश by रघुनन्दनमिश्र, under Raja Toḍaramalla.
 
-विक्रम era. A bout 1500 A. D. 
+टोडरानन्द vide sec. 109.
 
-Names कालनिर्णय, कालादर्श, नन्दन in आह्निकतत्त्व. 
+ढुण्डिप्रताप by विश्वनाथ under the patronage of Mahārāja ढुण्डि. On the rites for every day of the year; ms. written in śake 1589 i. e. 1667-68. A. D. (Burnell's Tanjore Cat. p. 136b.).
 
-प्रासाददीपिका. छन्दोगाहिक by सदानन्द. 
+ढुण्ढुपद्धति m. in the अन्त्येष्टिपद्धति of नारायणभट्ट, by रघुनन्दन in श्राद्धतत्त्व (vol. I p. 213) and in शूद्रकमलाकर; earlier than 1525 A. D.
 
-जनिदोषप्रतिकार ms. ( Baroda O. I. छन्दोगाद्विकपद्धति by रामकृष्ण 
+तडागप्रतिष्ठा.
 
-No. 2365) dated 1565 संवत् त्रिपाठिन्. 
+तडागादिपद्धति of टोडरमल्ल (part of टोडरानन्द).
 
-( 1508-09 A. D.). छन्दोगाहिकोद्धार of शङ्करमिश्र, son 
+तडागादिप्रतिष्ठापद्धति by धर्मकर उपाध्याय.
 
-of भवनाथमिश्र. Vide under | जन्मदिनकृत्यपद्धति. प्रायश्चित्तप्रदीप. 
+तडागादिप्रतिष्ठाविधि by मधुसूदन गोस्वामी.
 
-जन्मदिवसपूजापद्धति. छन्दोपहारावलि. 
+तडागोत्सर्गतत्त्व by रघुनन्दन.
 
-जन्ममरणविवेक by वाचस्पति (Baroda छागलेयस्मृति m. in मिताक्षरा, हेमाद्रि, ___0. I. No. 12774). On अशीच 
+तत्त्वकौमुदी by गोविन्दानन्दकविकङ्कणाचार्य. It is a com. on श्राद्धविवेक of शूलपाणि.
 
-माधवाचार्य 
+तत्त्वकौस्तुभ by भट्टोजिदीक्षित (Baroda O. I. No. 376). Written at the bidding of केलदी वेङ्कटेश. [[P1033]] Dilates on the question as to who should observe तन्त्र rites, discourses on the inadvisability of तप्तमुद्राधारण and लिङ्गधारण.
 
-and श्राद्ध. जगदल्लभा by श्रीवल्लभाचार्य of the | जन्माष्टमीतत्त्व or जन्माष्टमीव्रततत्त्व by 
+तत्त्वदीप by त्र्यम्बक.
 
-भारद्वाजगोत्र (in more than 24 - रघुनन्दन. प्रकरणs). 
+तत्त्वनिर्णय by पक्षधरमिश्र, son of महामहोपाध्याय वटेश्वर. Vide Mitra's Notices vol. V. p. 155 for contents; ms copied in śake 1661.
 
-जन्माष्टमीनिर्णय by विठ्ठलेश्वर जगनाथकारिका m. in गदाधर' भाष्य | जयतुङ्ग m. in निर्णयसिन्धु. 
+तत्त्वप्रकाश vide शिवतत्त्वप्रकाशिका.
 
-on पारस्करगृह्य. 
+तत्त्वमुक्तावली vide BBRAS Cat. p. 217 No. 687, probably same as the next.  
+C. vide BBRAS Cat. p. 217 No. 687.
 
-जयन्तकारिका. जगनाथप्रकाश by सूरमिश्र, composed | जयन्तीनिर्णय (on कृष्णजन्माष्टमी) by 
+तत्त्वमुक्तावली of नन्दपण्डित vide sec. 110. Gives summary of his स्मृतिसिन्धु.  
+C. बालभूषा by बालकृष्ण.  
+C. बालभूषा by वेणीदत्त.
 
-under orders of जगनाथ, of | 
+तत्त्वसंग्रह by कोनेरिभट्ट.
 
-आनन्दतीर्थ. Kāmboja family. Vide Mitra's 
+तत्त्वसागर m. in हेमाद्रि and रघुनन्दन in एकादशीतत्त्व and तिथितत्त्व and in आचारमयूख.
 
-Notices vol. v. p. 109 for | जयन्तीनिर्णय by गोपालदेशिक, pupil contents (the ms. was copied ___of रामानुजयोगीन्द्र and son of in संवत् 1838 i. e. 1782-83 A. | मात्रेयकृष्णाचार्य 
+तत्त्वसार m. in मलमासतत्त्व of रघु°.
 
-D); in ten प्रभाs. 
+तत्त्वसारसंहिता m. by हेमाद्रि
 
-जयमाधवमानसोल्लास by जयसिंहदेव of जटमल्लविलास by श्रीधर compiled गोरक्षपुर (modern Gorakhpur). 
+तत्त्वामृतधर्मशास्त्र—vide स्मृतितत्त्वामृत.
 
-under the partonage of prince _He was a devotee of नारायण; (महाठक्कर) जटमल्ल, younger | deals with all religious acts 
+तत्त्वामृतसारोद्धार by वर्धमान. An abridgment of his स्मृतितत्त्वविवेक or तत्त्वामृत divided into four कोशs on आचार, श्राद्ध, शुद्धि and व्यवहार. Composed when king राम of मिथिला was reigning. Latter half of 15th century; mentions his दण्डविवेक in व्यवहारकोश.
 
-2 
+तत्त्वार्थकौमुदी by गोविन्दानन्दकविकङ्कणाचार्य, a com. on प्रायश्चित्तविवेक of शूलपाणि (pr. by Jivananda).
 
-1030 
+तत्त्वार्थदीप.
 
+तन्त्रप्रकाश m. by रघुनन्दन in आह्निकतत्त्व.
 
+तन्त्रसारपञ्चरत्न.  
+C. तन्त्रसारप्रकाशिका.
 
-. 
+तप्तमुद्राखण्डन by अप्पय्यदीक्षित against the practice of branding the body with marks (as वैष्णवs do).
 
-. 
+तप्तमुद्राधारण or चक्रमीमांसा from स्मृतिकौस्तुभ.
 
-(nitya, naimittika and kāmya)| (2) by कमलाकर; sec. 111. about वासुदेव. The प्रशस्ति at the | जलाशयोत्सर्गप्रकाश pr. at Ratnagarh end of D. C. Ms. No. 241 of A | (1893 A. D.). 1881-82 is by हरिदास राजपण्डित; | जलाशयोत्सर्गतत्त्व of रखनन्दन (pr. by ms, copied gat 1827 (1771) Jivananda Sec. 107. 
+तप्तमुद्राविद्रावण by भास्कर दीक्षित.
 
-A. D.). 
+तप्तमुद्राविवेक by हरिरायगोस्वामिन् (Baroda O. I. 11575).
 
-जातकर्मन् from the संस्कारभास्कर. जयसिंहकल्पद्रुम by रत्नाकर of the | जातकर्मपद्धति by केशवभट्ट. 
+तर्पणचन्द्रिका by रामचरण.
 
-शाण्डिल्यगोत्र, son of पण्डितश्रीदेव 
+तारकोपदेशव्यवस्था by अमृतानन्दतीर्थ.
 
-जातकर्मपद्धति by दामोदर. HE of Benares (extensive work in 900 pages pr. by Lakṣini 
+तिथिकल्पद्रुम by कल्याण.
 
-जातकर्मादिपालाशकर्मान्त by बापण्ण venkateśvara Press at Kalyan in 1925). A digest in 19 स्तबक | जातरिष्ठ्यादिनिर्णय by विद्यार्णव; N. on काल, व्रत, श्राद्ध, दान etc. the 
+तिथिकौस्तुभ or तिथिदीधितिकौस्तुभ of अनन्तदेव, son of आपदेव.
 
-(new series) II pp. 55-56. first being on काल, compiled | जातिनिर्णय ( Baroda o. I. No. under the patronage of जयसिंह 11003) on कायस्थs etc. who performed ज्योतिष्टोम in जातिमाला (part of रुद्रयामलतन्त्र). उज्जयिनी and also पौण्डरीक. His city अम्बिका ( Amber) is also | जातिमाला (vide N. vol. II. p. 151) referred to. Composed in Vi. 
+तिथिचक्र by विश्वनाथ, (Baroda O. I. 8336).
 
-on the origin of different krama 1770 (1713 A D.). Gives | 
+तिथिचन्द्रिका by पक्षधरमिश्र; (B. O. Mss. Cat. vol. I. No. 145; ms. copied in ल. सं. 345 i. e. 1464 A. D.).
 
-Hindu castes. genealogy as जयसिंह ( who | जातिमाला by सोमनाथ, son of मुद्गल brought Shivaji to Delhi)- and झापाम्बिका, surnamed सकल रामसिंह कृष्णसिंह विष्णुसिंह जयसिंह. कल and inhabitant of जलग्राम. Sometimes called 'दुमोद्योत Divided into three parts in (Ulwar Cat. extract 305); pr. verse on लक्ष्मीनिन्दा, वैराग्य, in Bombay, 1903. 
+तिथिचन्द्रिका by हरिदत्तमिश्र.
 
-qiaatrafa; but contains nothing जयानिबन्ध (निबन्ध?) m. in कृत्य 
+तिथिचन्द्रोदय m. in अहल्याकामधेनु.
 
-on धर्म or जातिs. D. C. Ms. No. 
+तिथितत्त्व by रघुनन्दन.  
+C. by काशीनाथ तर्कालङ्कार. N. (new series) I. p. 155.  
+C. by काशीराम वाचस्पति. N. (new series) II. p. 71.  
+[[P1034]] C. by रामचरण विद्यावाचस्पति; N. (new series) II. p. 72.
 
-302 of 1884-86. रत्नाकर of चण्डेश्वर (p. 166). जयाभिषेकप्रयोग by रघुनाथ. 
+तिथितत्त्वचिन्तामणि by महेशठक्कुर (pr. at Benares in 1887 A. D.).
 
-जातिमाला (from पराशरपद्धति); 
+तिथितत्त्वसार by आपदेव.
 
-Stein's Cat. p. 94. जयाणव m. by नि सि. and by गदाधर 
+तिथिदर्पण.
 
-in पारस्करगृह्यसूत्रभाष्य. Vide युद्ध- | जातिविवेक m in शूद्राचाराशरोमणि जयाणव. 
+तिथिदीधिति (part of स्मृतिकौस्तुभ of अनन्तदेव).
 
-___of शेषकृष्ण and in नृसिंहप्रसाद. जलयात्रा. 
+तिथिदीपिका by काशीनाथ, son of जयरामभट्ट (Baroda O. I. No. 10724).
 
-जातिविवेक by कृष्णगोविन्द -पण्डित. जलाशयप्रतिष्ठा by भागुणिमिश्र. Part of a larger work called जलाशयारामोत्सर्गविधि or-पद्धति. वर्णाश्रमधर्मदीपिका. 
+तिथिद्वैतनिर्णय (or तिथिविवेक) by शूलपाणि. Same as above.
 
-(1) by नारायणभट्ट, son of रामे- | जातिविवेक by त्र्यम्बक. 
+तिथिद्वैधप्रकरण alias तिथिविवेक by शूलपाणि. Names संवत्सरप्रदीप, स्मृतिसमुच्चय.  
+C. by श्रीनाथशर्मन्, son of श्रीकर.
 
-श्वर;quotes रूपनारायण; 1513- | जातिविवेक by नारायणभट्ट ( Baroda 1575 A. D.; sec. 108. 
+तिथिनिर्णय from the कालमाधव.
 
-| 0. I. 11147).List of works on Dharmaśāstra 
+तिथिनिर्णय by अनन्तभट्ट (Baroda O. I. No. 10611 is dated संवत् 1583 i. e. 1526-27 A. D.).
 
-1031 
+तिथिनिर्णय by कमलाकर.
 
-जातिविवेक by पराशर. 
+तिथिनिर्णय by गङ्गाधर.
 
-जीव पितृककर्तव्यनिर्णय by बालकृष्ण जातिविवेक by रघुनाथ. 
+तिथिनिर्णय by गोपाल.
 
-भट्ट, son of रङ्गोजिभट्ट. N. ( new 
+तिथिनिर्णय by गोविन्दभट्टबुद्धिल (Ulwar Cat. No. 1326). Peterson is wrong in saying that he praises one कालरघूत्तम. रघूत्तम is here राम, the incarnation of विष्णु, identified with काल (Time) and ब्रह्म.
 
-_series ) vol. III. p. 64 (ms. जातिविवेक by विश्वनाथ ( N. rol. IX. | 
+तिथिनिर्णय by दयाशङ्कर.
 
-dated संवत् 1785). p. 179 ). Stein's Cat. calls it "विवेकसंग्रह (p. 89 ). 
+तिथिनिर्णय by देवदासमिश्र.
 
-जीवपितृककर्तव्यनिर्णय by बालकृष्ण 
+तिथिनिर्णय by नागदेव, son of शिव; based upon निर्णयसिन्धु.
 
-पायगुण्डे ( Baroda O. I. Nos. जातिविवेक by विश्वेश्वरभट्ट (probably 
+तिथिनिर्णय by नागोजिभट्ट.
 
-358 and 5549) __same as the first part of कायस्थ 
+तिथिनिर्णय by नारायणभट्ट.
 
-धर्मदीप). 
+तिथिनिर्णय by पक्षधरमिश्र.
 
-जीवरिपतृककर्तव्यनिर्णय or -कर्मनिर्णय जातिविवेक by व्यासगोपीनाशकवि of by रामकृष्णभट्ट, son of नारायणभट्ट 
+तिथिनिर्णय by बालकृष्ण भारद्वाज. Relies on हेमाद्रि.
 
-वासिष्ठगोत्र, son of शाङ्गधर, grand 
+तिथिनिर्णय by भट्टोजि (pr. at Benares and Bombay).
 
-_son of रामेश्वर. About 1570-1590 son of विश्वनाथ, of प्रत्यण्डपुर | 
+तिथिनिर्णय by मथुरानाथ शुक्ल.
 
-A. D. ( Paranda in Maharastra ? ). In | जीवपितृककर्तव्यसंचय by कृष्णभट्ट. three उल्लास; ms. ( I. O. Cat. | जीवितकविभागस्यवश bviसन vol. III. p. 519 No. 1639 ) is | गोस्वामिन् , son of ब्रजराज. dated sake 1564 (1642 A. D.). 
+तिथिनिर्णय by महादेव.
 
-जीवपितृकविभागव्यवस्थासार by मधु Peterson ( in Ulwar Cat. No. 
+तिथिनिर्णय by माधव (part of कालनिर्णय).
 
-सूदनगोस्वामिन् , son of ब्रजराज. 1323) says that it is part of विश्वम्भरवास्तुशास्त्र, which is quor 
+तिथिनिर्णय by रघुनाथ (probably same as राघवभट्ट). W. and K. Cat. II p. 282; notes that रघुनाथ is written on title page of राघव's तिथिनिर्णय.
 
-जीवपितृकविभागव्यवस्था -सारसंग्रह ted by all and he gives the 
+तिथिनिर्णय by रमापति सिद्धान्त; N. (new series) I. p. 156; composed in śake 1633.
 
-abridgment of the above ms. father's name as व्यासराज pre 
+तिथिनिर्णय by राघवभट्ट; names निर्णयसिन्धु and नीलकण्ठ. So later than 1640 A. D.; ms. copied in śake 1681 (1759 A. D.); pr. at Bombay in 1864.
 
-(Ulwar Cat. No. 1324) copied viously called विश्वनाथ and 
+तिथिनिर्णय of रामचन्द्र, pupil of गोपाल, Baroda O. I. No. 1524. About 1400 A. D.  
+C. by नृसिंह, son of the author. Ms. dated संवत् 1638 (1582 A. D.).
 
-in संवत् 1812 ( 1755-6 A, D.). grandfather as - Samaraja'. । जीवश्राद्ध Aufrecht's Leipzig Cat. जातिविवेकशतप्रश्न attributed to 
+तिथिनिर्णय by रामप्रसाद.
 
-____p. 611. 
+तिथिनिर्णय by वाचस्पति.
 
-सायण. 
+तिथिनिर्णय by विश्वेश; names हेमाद्रि, माधव, चमत्कारचिन्तामणि, पुराणसमुच्चय.
 
-| जैमिनिगृह्य (ed. by Dr. Caland, 
+[[P1035]] तिथिनिर्णय by वैद्यनाथ (from चमत्कारचिन्तामणि).
 
-Panjab Oriental Series 1922). जातिववेकसंग्रह by विश्वनाथ. जातिसाङ्कर्य by शिवलाल सुकुल. C. सुबोधिनी by श्रीनिवास (ex. 
+तिथिनिर्णय by शिवानन्दभट्टगोस्वामी (Ulwar Cat. No. 1329).
 
-_tracts printed in above). जातिसाङ्कयवाद by अनन्ताल्वार जातिसार्थवादby वणीराम शाकद्वीपिन्. 
+तिथिनिर्णय by शुभङ्कर.
 
-जैमिनिगृह्यमन्त्रवृत्ति. जिकनीयनिबन्ध m. in दुर्गोत्सवविवेक जातिभेद 
+तिथिनिर्णय by सिद्धलक्ष्मण.
 
-of शूलपाणि and by कुल्लक 
+तिथिनिर्णय by सुदर्शन.
 
-ज्ञानभास्कर ( in the form of a dia 
+तिथिनिर्णय from the लघुमाधवीय of माधवाचार्य.
 
-logue between सूर्य and अरुण). जीणोद्धारविधि (according to त्रि 
+तिथिनिर्णय from the स्मृत्यर्थसार.
 
-Divided into प्रकाशs on प्राय. विक्रम) on repairing temples. 
+तिथिनिर्णयकारिका by श्रीनिवासार्य; son of गोविन्दार्य of the कौशिकगोत्र.
 
-श्चित्त, कर्म &c.; vide Bik. Cat. p. images of gods &c. N. vol. X. 
+तिथिनिर्णयचक्र by विश्वनाथ (Baroda O. I. No. 8336).
 
-398. Burnell ( Tanjore ms. cat. p. 271. 
+तिथिनिर्णयतत्त्व by शिवनन्दननाग.
 
-p. 136 b) says that the author's जीवच्छ्राद्धप्रयोग by नारायणभट्ट, son of name appears to be दिङ्मणि. 
+तिथिनिर्णयदीपिका by रामदेव, son of शम्भु.
 
-रामेश्वरभट्ट 
+तिथिनिर्णयमार्तण्ड by कृष्णमित्राचार्य.
 
-Baroda 0. I. 1136 is a part of जीवटाद्धप्रयोग by शौनक 
+तिथिनिर्णयसंक्षेप or तिथिनिर्णय by भट्टोजि; son of लक्ष्मीधर.
 
-it (कर्मप्रकाश on रोगाधिकार) and 
+तिथिनिर्णयसंग्रह by रामचन्द्र. A summary of the तिथिनिर्णय of अनन्तभट्ट.  
+C. by नृसिंह (Baroda O. I. ms. No. 1524 is dated संवत् 1683). Later than 1400 A. D.
 
-1032 
+तिथिनिर्णयसर्वसमुच्चय.
 
+तिथिनिर्णयसार by मदनपाल. Vide sec. 94.
 
+तिथिनिर्णयेन्दुशेखर by नागोजीभट्ट.
 
-extends over 10000 ग्रंथ and | ज्योतिषरत्न m. in संस्कारभास्कर of No. 10546 is another in 14000 ग्रंथ. 
+तिथिनिर्णयोद्धार or लघुतिथिनिर्णय or -निर्णयोद्धार by राघवभट्ट. Vide तिथिनिर्णय above. Also called तिथिसारसंग्रह
 
-ज्योतिषरत्न by केशवतर्कपञ्चानन N. tam be atome m. in the ye (new series ) II. p. 58. 
+तिथिप्रकाश by गङ्गादास द्विवेदिन्.
 
-प्रदीप of भोज and in आहिकतत्त्व | ज्योतिषार्णव m. by दुर्गोत्सवविवेक of of रघुनन्दन and in आचारमयूख. शूलपाणि, by रघुनन्दन. ज्ञानरत्नावलि m. in हेमाद्रि, नृसिंह- ज्योतिष्प्रकाश m. by प्रयोगरत्न of नारा. 
+तिथिप्रकाशप्रकाशिका.
 
-प्रसाद (दानसार), कुण्डकौमुदी यणभट्ट, नि. सि., गोविन्दार्णव. 
+तिथिप्रदीपक by भट्टोजि.
 
-Earlier than 1250 A. D. ज्योतिस्तत्त्व by रघनन्दनः ज्ञानाङ्कुर by चूडामणि, son of राघवेन्द्र 
+तिथिप्रदीपिका by नृसिंह, Refers to विद्यारण्य.
 
-भट्ट, in four स्तबक. 
+तिथिप्रदीपिका by रामसेवक.
 
-टोडरप्रकाश by रघुनन्दन मिश्र, under 
+तिथिमञ्जरी of गणेश, son of ज्ञानेश्वर, son of महादेव, son of लालभट्ट.
 
-___Raja Todaramalla. ज्ञानानन्दतरङ्गिणी by कृष्णानन्द on | टोडरानन्द vide sec. 109. 
+तिथिरत्न by महादेव.
 
-संस्कारs. 
+तिथिरत्नमाला by नीलकण्ठ, son of अनन्त, son of चिन्तामणि.
 
-दुण्डिप्रताप by विश्वनाथ under the ज्येष्टाविधान 
+तिथिवाक्यनिर्णय—Vide तिथिनिर्णय of नारायणभट्ट.
 
-patronage of Mahārāja ie. On ज्योतिःकालकौमुदी m. by रघुनन्दनः । 
+तिथिविवेक of शूलपाणि m. in रघुनन्दन's तिथितत्त्व.  
+C. तात्पर्यदीपिका by श्रीनाथ आचार्यचूडामणि, son of श्रीकर; about 1475-1525 A. D. N. (new series) vol. II. pp. 73-74 ms. copied in 1512-13 A. D.
 
-the rites for every day of the ज्योति:सागर m. in कालसार of गदाधर, year; ms. written in sake 1589 
+तिथिव्यवस्थासंक्षेप.
 
-नि.सि. 
+तिथिसंग्रह or तिथिनिर्णय by राघव. Vide above (pr. in Bombay 1864).
 
-i. e. 1667-68. A. D. ( Burnell's ज्योतिःसागरसार by मथुरेश. 
+तिथिसंग्रह ano. N. (new series) II. p. 75.
 
-Tanjore Cat. p. 136b.). ज्योतिःसागरसार by विद्यानिधि; N.. 
+तिथिस्वरूप or सर्वतिथिस्वरूप by सुरेश्वर.
 
-दुण्ढुपद्धति m. in the अन्त्येष्टिपद्धति 
+तिथीन्दुशेखर by नागेशभट्ट.
 
-of नारायणभट्ट, by रघुनन्दन in ( new series ) vol. I p. 134, ms. | 
+तिथ्यर्क by दिवाकर, son of महादेव, son of बालकृष्ण of भारद्वाजगोत्र; author of आचारार्क (both being parts of धर्मशास्त्रसुधानिधि). About 1683 A. D.  
+अनुक्रमणिका by his son वैद्यनाथ.
 
-श्राद्धतत्त्व ( vol. I p. 213 ) and in dated śake 1670 ( 1748 A. D.). 
+तिथ्यर्कपर्वनिर्णय (Baroda O. I. No. 5947). The author says that नारायणभट्ट, author of प्रयोगरत्न, [[P1036]] was the great-grand-father (प्रपितामह) of his mother. So author flourished about 1650 A. D.
 
-शूद्रकमलाकर; earlier than 1525 ज्योतिःसार m. in धर्मप्रवृत्ति and | A. D. 
+तिथ्यर्कप्रकाश by दिवाकर (same as तिथ्यर्क above?).
 
-गोविन्दार्णव. 
+तिथ्यादितत्त्वनिर्णय by लौगाक्षि भास्कर (Baroda O. I. ms. No. 5772 is dated 1605 संवत् i. e. 1548-49 A. D.) Mentions दीपिका, कालादर्श, माधव and निर्णयामृत. So later than 1400 A. D.
 
-तडागप्रतिष्ठा. ज्योतिसारसंग्रह m. by रघुनन्दन in | तडागादिपद्धति of टोडरमल्ल ( part of 
+तिथ्यादिनिर्णय by गोपीनाथ.
 
-ज्योतिस्तत्व and मदनपारिजात. टोडरानन्द ). ज्योतिःसारसंग्रह by हृदयानन्द विद्या- तडागादिप्रतिष्ठापद्धति by धर्मकर उपा 
+तिथ्यादिनिर्णय of पद्मनाभ (part of योगीश्वरसंग्रह; ms. copied in 1707 A. D.).
 
-लङ्कार. 
+तिथ्यादिविधिसंग्रह by रघूत्तम तर्कशिरोमणि. N. (new series) vol. II. p. 75.
 
-ध्यायः 
+तिथ्युक्तिरत्नावली by हरिलालमिश्र.
 
-तडागादिप्रतिष्ठाविधि by मधुसूदन गो ज्योतिःसारसमुच्चय m. by रघुनन्दन. 
+तीर्थकमलाकर alias सर्वतीर्थविधि of कमलाकरभट्ट, son of रामकृष्ण. Vide sec. 111.
 
-___ स्वामी. ज्योतिसारसमुच्चय by नन्द, son of तडागोत्सर्गतत्त्व by रघुनन्दन. 
+[[तीर्थकल्पकता|तीर्थकल्पलता]] by गोकुलदेव, son of अनन्तदेव.
 
-देवशर्मन् 
+तीर्थकल्पलता by नन्दपण्डित. Sec. 110.
 
-| तत्वकौमुदी by गोविन्दानन्दकविकङ्क ज्यातरणव " " गोविन्दाणव, स. का ज्योतिरणव n. in गोविन्दार्णव, सं. को. 
+तीर्थकल्पलता by वाचस्पति.
 
-णाचार्य. It is a com. on श्राद्ध ज्योतिर्निबन्ध m. in शूद्रकमलाकर विवेक of शूलपाणि, 
+तीर्थकाशिका m. by गङ्गाधर.
 
-and संस्कारमयूख and शुद्विमयूख. तत्त्वकौस्तुभ by भट्टोजिदीक्षित ( Baro ज्योतिसिंह m. in गोविन्दार्णव and da O. I. No. 376 ). Written at 
+तीर्थकौमुदी of शङ्कर, son of बल्लाल; mentions तीर्थचिन्तामणि. Same as तीर्थोद्यापनकौमुदी.
 
-चतुर्विशतिमतव्याख्यान of भट्टोजि. / the bidding of केलदी वेस्टेश. 
+तीर्थकौमुदी of सिद्धान्तवागीशभट्टाचार्य.
 
-List of works on Dharmaśāstra 
+तीर्थचिन्तामणि by वाचस्पतिमिश्र, in five प्रकाशs (pr. in B. I. Series); m. in the शुद्धितत्त्व of रघुनन्दन and in नि. सि. Vide sec. 101.
 
-1033 
+तीर्थतत्त्व or तीर्थयात्राविधितत्त्व of रघु°. This is over and above his स्मृतितत्त्व in 28 तत्त्वs.
 
-do). 
+तीर्थदर्पण (vide under ऋजुप्रयोग) of भट्टराम, son of विश्वनाथ, surnamed होसिङ्ग.
 
-Dilates on the question as to तत्त्वार्थकौमुदी by गोविन्दानन्दकविका who should observe तन्त्र rites, | णाचार्य, a com. on प्रायश्चित्तविवेक discourses on the inadvisability | of शूलपाणि (pr. by Jivananda). of तप्तमुद्राधारण and लिङ्गधारण. | 
+तीर्थनिर्णय or कुरुक्षेत्रतीर्थनिर्णय of रामचन्द्र.
 
-तत्त्वार्थदीप. तत्त्वदीप by यम्बक. 
+तीर्थपरिभाषा by व्यास.
 
-तन्त्रप्रकाश m. by रघुनन्दन in ाहिक तत्त्वनिर्णय by पक्षधरमिश्र, son of 
+तीर्थमञ्जरी by मुकुन्दलाल.
 
-तत्व. महामहोपाध्याय वटेश्वर. Vide Mitra's Notices vol. V. p. 155 
+तीर्थयात्रातत्त्व by रघुनन्दन. Same as तीर्थतत्त्व; sec. 107.
 
-तन्त्रसारपञ्चरत्न. for contents; ms copied in ___C. तन्त्रसारप्रकाशिका. Sake 1661. 
+तीर्थयात्रानिर्णय.
 
-तप्तमुद्राखण्डन by अप्पय्यदीक्षित तत्त्वप्रकाश vide शिवतत्वप्रकाशिका. 
+तीर्थरत्नाकर by अनन्तभट्ट, son of यदुभट्ट, at the request of अनूपसिंह.
 
-against the practice of branding तत्त्वमुक्तावली vide BBRAS Cat. p. 
+तीर्थरत्नाकर or रामप्रसाद of रामकृष्ण, son of माधव, of पराशरगोत्र; ms. dated संवत् 1690 (1634-35 A. D.). He composed the युक्तिस्नेहप्रपूरणी, com. on शास्त्रदीपिका, at Benares in संवत् 1600. He is author of प्रतापमार्तण्ड; flourished between 1500-1545 A. D.
 
-the body with marks (as वैष्णव 217 No. 687, probably same as the next. 
+तीर्थसंग्रह m. in स्मृत्यर्थसार by श्रीधर.
 
-तप्तमुद्राधारण or चक्रमीमांसा from C. vide BBRAS Cat. p. 217 | 
+तीर्थसंग्रह by साहेबराम.
 
-स्मृतिकोस्तुभ. No. 687. 
+तीर्थसार (part of नृसिंहप्रसाद); pr. in Prince of Wales Series.
 
-तप्तमुद्राविद्रावण by भास्कर दीक्षित. तत्त्वमुक्तावली of नन्दपण्डित videsee. तप्तमुद्राविवेक by हरिरायगोस्वामिन् 
+तीर्थसेतु by वृन्दावन शुक्ल.
 
-110. Gives summary of his (Baroda O. I. 11575). स्मृतिसिन्धु. 
+तीर्थसौख्य (part of टोडरानन्द).
 
-तर्पणचन्द्रिका by रामचरण. C. बालभूषा by बालकृष्ण. | तारकोपदेशव्यवस्था by अमृतानन्दतीर्थ. C. बालभूषा by वेणीदत्त. 
+तीर्थेन्दुशेखर of नागोजिभट्ट, son of शिवभट्ट. Vide sec. 115.
 
-तिथिकल्पद्रुम by कल्याण तत्त्वसंग्रह by कोनेरिभट्टः 
+तीर्थोद्यापनकौमुदी by शङ्कर, son of बल्लालसूरि. Vide under व्रतोद्यापनकौमुदी. About 1753 A. D.
 
-तिथिकौस्तुभ or तिथिदीधितिकौस्तुभ of तत्त्वसागर m. in हेमाद्रि and रघुनन्दन 
+तुलसीकाष्ठमालाधारणनिषेध by नरसिंह (Baroda O. I. No. 3894).
 
-अनन्तदेव, son of आपदेव. in एकादशीतत्त्व and तिथितत्त्व and _in आचारमयूख. 
+[[P1037]] तुलसीचन्द्रिका by राजनारायण मुखोपाध्याय.
 
-तिथिचक्र by विश्वनाथ, (Barodao. I. 
+तुलसीविवाह (taken from प्रतापमार्तण्ड) Ulwar Cat. No. 1334 and extract 313).
 
-___8336). तत्त्वसार m. in मलमासतत्त्व of रघु०. 
+तुलादान.
 
-तिथिचन्द्रिका by पक्षधरमिश्र; (B. O. तत्त्वसारसंहिता m. by हेमाद्रि 
+तुलादानपद्धति.
 
-___Mss. Cat. vol. I. No. 145%; ms, तत्त्वामृतधर्मशास्त्र-vide स्मृतितत्त्वामृत. copied in ल.सं. 345 i. e. 1464 तत्त्वामृतसारोद्वार by वर्धमान. An | A. D.). 
+तुलादानपुरुषप्रयोग.
 
-abridginent of his स्मृतितत्त्व- तिथिचन्द्रिका by हरिदत्त मिश्र. विवेक or तत्त्वामृत divided into 
+तुलादानप्रकरण by सिद्धनाथ.
 
-तिथिचन्द्रोदय m. in अहल्याकामधेनुः four कोशs on आचार, श्राद्ध, शुद्धि and व्यवहार. Composed when 
+तुलादानप्रयोग (माध्यन्दिनीय).
 
-तिथितत्त्व by रघुनन्दन. king राम of मिथिला was reigning. 
+तुलादानप्रयोग by कमलाकर, son of रामकृष्ण. Sec. 111.
 
-C. by काशीनाथ तर्कालङ्कार. N. Latter half of 15th century; ___(new series) I. p. 155. mentions his दण्डविवेक in C. by काशीराम वाचस्पति. N. व्यवहारकोश. 
+तुलादानविधि.
 
-(new series) II. p. 71. H. D.-130 
+तुलापद्धति by कमलाकर.
 
-1034 
+तुलापुरुषदानपद्धति.
 
-History of Dharmaśāstrā 
+तुलापुरुषदानप्रयोग by विठ्ठल.
 
-c. by रामचरण विद्यावाचस्पति; N. | तिथिनिर्णय by नागोजिभट्टः 
+तुलापुरुषमहादानपद्धति by गोपीनाथ.
 
-(new series) II. p. 72. तिथिनिर्णय by नारायणभट्ट. तिथितत्वचिन्तामणि by महेशठक्कुर (pr. | तिथिनिर्णय by पक्षधरमिश्र. 
+तुलापुरुषमहादानप्रयोग or तुलादानविधि by नारायणभट्ट, son of रामेश्वर; sec. 108.
 
-at Benares in 1887 A, D.). 
+त्रिंशच्छ्लोकी or आशौचत्रिंशच्छ्लोकी by वोपदेव. Is it the same as the next?
 
-तिथिनिर्णय by बालकृष्ण भारद्वाज. तिथितत्त्वसार by आपदेव. 
+त्रिंशच्छ्लोकी or आशौचत्रिंशच्छ्लोकी or सूतककारिका (pr. at Benares in 1876 with com.) in 30 स्रग्धरा verses on आशौच. Ulwar Cat. No. 1339 ascribes it to वोपदेव. Vide BBRAS Cat. vol II pp. 209-210 where it is ascribed to हेमाद्रि.  
+C. विवरण by रघुनाथभट्ट, son of माधव, son of रामेश्वर; flourished 1560-1625 A. D.  
+CC. विवरणसारोद्धार by शम्भुभट्ट कविमण्डन, son of बालकृष्ण. Names नि. सि, मयूख, भट्टोजिदीक्षित. Between 1660-1710 A. D. He says he follows com. of रघुनाथ on the त्रिंशच्छ्लोकी.  
+C. आशौचसंग्रह.  
+C. ascribed to विज्ञानेश्वर (wrongly). Vide under दशश्लोकी.  
+C. by अनन्तभट्ट (Ulwar Cat. No. 1340).  
+C. by भट्टाचार्य (Ulwar Cat. No. 1341); ms. in Baroda O. I. 3883 is dated संवत् 1579 1522-23 A. D.).  
+C. सुबोधिनी by अनन्त, son of कमलाकरभट्ट, son of रामकृष्ण. About 1610-1660 A. D.  
+C. by कृष्णमित्र.  
+C. by राघव.  
+C. by रामभट्ट.  
+C. by विश्वनाथ.  
+C. (vide I. O. Cat. III p. 566, No. 1750-51).  
+C. by रामेश्वरभारती.  
+C. by author.
 
-___Relies on हेमाद्रिः तिथिदर्पण. 
+त्रिकाण्डमण्डन alias आपस्तम्बसूत्रध्वनितार्थकारिका by भास्करमिश्रसोमयाजिन्, son of कुमारस्वामिन् (pr. in B. I. Series). Printed text and mss. differ. Divided into four sections in 575 verses on अधिकारिनिरूपण, प्रतिनिधि, पुनराधेय, निमित्त and प्रकीर्णक. He names ऋषिदेव, कर्क, केशवसिद्धान्त, दामोदर, नारायणवृत्ति on आश्वलायनश्रौतसूत्र, भवनाग, भरद्वाजसूत्रभाष्यकार, लौगाक्षिकारिका, भर्तृयज्ञ, शालीकिनाथ (on पूर्वमीमांसा), यज्ञपार्श्व, कर्मदीप, विधिरत्न; many [[P1038]] of his कारिकाs, though primarily concerned with śrauta rites, are quoted largely in धर्मशास्त्र works. He incidentally deals with many topics of धर्म, such as proper actions in मलमास (I. 165-177), what is गौणकाल for an act etc. He is named by हेमाद्रि and the मदनपारिजात. So he flourished after 1000 and before 1200 A. D. Vide Dr. Bhandarkar's Report for 1883-84 pp. 30-31 for date.  
+C. विवरण.  
+C. पदप्रकाशिका.
 
-तिथिनिर्णय by भट्टोजि (pr.at Benares तिथिदीधिति (part of स्मृतिकौस्तुभ of | and Bombay). 
+त्रिकालसन्ध्या.
 
-अनन्तदेव). 
+त्रिपिण्डीश्राद्धप्रयोग (Aufrecht's Leipzig Cat. 591).
 
-तिथिनिर्णय by मथुरानाथ शुक्ल तिथिदीपिका by काशीनाथ, son of | 
+त्रिपुष्करशान्तितत्त्व of रघु°; vide p. 892 above.
 
-तिथिनिर्णय by महादेव. जयरामभट्ट (Baroda O. I. No. 10724). 
+त्रिविक्रमपद्धति m. in नि. सि.
 
-तिथिनिर्णय by माधव (part of काल 
+त्रिविक्रमी (rules for the consecration of images when transferred from one place to another through fear of mlecchas or otherwise). N. vol. IX. p. [[295).|295.]]
 
-निर्णय). तिथिद्वैतनिर्णय (or तिथिविवेक) by 
+त्रिवेणीपद्धति by दिवाकरभट्ट (Baroda O. I. 5840).
 
-शूलपाणि. Same as above. 
+त्रिस्थलीविधि by हेमाद्रि.
 
-तिथिनिर्णय by रघुनाथ (probably 
+त्रिस्थलीसेतु of काशीनाथभट्ट, son of जयरामभट्ट.
 
-same as राघवभट्ट). W. and K. तिथिद्वैधप्रकरण alias तिथिविवेक by Cat. II p. 282; notes that रघुनाथ 
+त्रिस्थलीसेतु of नारायणभट्ट, son of रामेश्वरभट्ट (pr. at Ānandāśrama Poona). The first part deals with rites common to all sacred places and then the special features of the pilgrimage to प्रयाग, काशी and गया. Composed about 1550-60 A. D.
 
-शूलपाणि. Names संवत्सरप्रदीप, is written on title page of स्मृतिसमुच्चय. 
+त्रिस्थलीसेतुप्रघट्टक by नागेश.
 
-राघव' तिथिनिर्णय. C. by श्रीनाथशर्मन् , son of श्रीकर | तिथिनिर्णय by रमापति सिद्धान्त; N. तिथिनिर्णय from the कालमाधव 
+त्रिस्थलीसेतुसार or सारसंग्रह or तीर्थयात्राविधि by भट्टोजि.
 
-(new series) I. p. 156; composed 
+त्रैलोक्यसागर m. by वाचस्पतिमिश्र in his द्वैतनिर्णय. So earlier than 1400 A. D.
 
-in sake 1633. तिथिनिर्णय by अनन्तभट्ट (Baroda O. | 
+त्रैलोक्यसार m. by हेमाद्रि, रघुनन्दन, and in दानमयूख.
 
-I. No. 10611 is dated संवत् | तिथिनिर्णय by राघवभट्ट; names 
+त्रैवर्णिकसंन्यास by कैलासयति.
 
-1583 i. e. 1526-27 A. D.). निर्णयसिन्धु and नीलकण्ठः So तिथिनिर्णय by कमलाकर 
+त्रैविक्रमी vide त्रिविक्रमपद्धति.
 
-later than ]640 A. D.; ms. 
+दक्षस्मृति see sec. 43; pr. Jivananda Sm. part II, pp. 383-402, Ānan. sm. pp. 72-84.  
+C. by कृष्णनाथ.  
+C. by तकनलाल.
 
-copied in sake 1681 (1759 A. तिथिनिर्णय by गङ्गाधर. 
+दक्षिणद्वारनिर्णय by नारायण (Baroda O. I. 9175).
 
-D.); pr. at Bombay in 1864. तिथिनिर्णय by गोपाल. 
+दण्डकशान्ति.
 
-तिथिनिर्णय of रामचन्द्र, papil of तिथिनिर्णय by गोविन्दभट्टबुद्धिल (U1 
+दण्डनीतिप्रकरण (extracted from the नीतिमञ्जरी of शम्भुराज).
 
-गोपाल, Baroda O. I. No. 1524. war Cat. No. 1326). Peterson 
+दण्डविवेक of वर्धमान of बिल्वपञ्चग्राम, son of भवेश and younger brother of गण्डकमिश्र; in seven परिच्छेदs; (pr. in G. O. Series; see sec. 102); latter half of 15th century; on penal offences, the propriety of inflicting punishments and the different forms of punishments to be inflicted. N. vol. V. p. 225 No. 1910; composed for the king of मिथिला; mentions कल्पतरु, कामधेनु, हलायुध, धर्मकोश, स्मृतिसार, कृत्यसागर, रत्नाकर, पारिजात, व्यवहारतिलक, प्रदीपिका and प्रदीप as among his authorities. It is a part of his स्मृतितत्त्वविवेक.
 
-About 1400 A. D. is wrong in saying that he praises one कालरघूत्तम. रघूत्तम is 
+[[P1039]] दत्तककुठार.
 
-C. by नृसिंह, son of the author. here TA, the incarnation of 
+दत्तककौमुदी by रामजय तर्कालङ्कार (pr. at Calcutta in 1827 in Bengali characters). Summarised in दत्तकशिरोमणि pr. under the patronage of P. C. Tagore.
 
-Ms. dated संवत् 1638 (1582 विष्णु, identified with काल 
+दत्तककौस्तुभ by केदारनाथदत्त (pr. at Calcutta).
 
-A. D.). (Time) and ब्रह्म 
+दत्तकचन्द्रिका of कुबेरपण्डित (pr. Calcutta 1857, text with Marathi translation pr. at Baroda, 1899). The last verse is interpreted as giving रघुमणि as the name of the author. Said to be fabricated by a pandit of Colebrooke's. The author says he wrote a स्मृतिचन्द्रिका.  
+C. by रामेश्वरशुक्ल.
 
-तिथिनिर्णय by रामप्रसाद तिथिनिर्णय by दयाशङ्कर. 
+दत्तकचन्द्रिका by कोलप्पाचार्य.
 
-तिथिनिर्णय by वाचस्पति तिथिनिर्णय by देवदासमिश्र. 
+दत्तकचन्द्रिका by तोळप्पर, son of श्रीनिवासाचार्य (Baroda O. I. 6572 B.).
 
-तिथिनिर्णय by विश्वेश; names हेमाद्रि, तिथिनिर्णय by नागदेव, son of शिव; | माधव, चमत्कारचिन्तामणि, पुराण 
+दत्तकचन्द्रिकाटीका by तकनलाल.
 
-based upon निर्णयसिन्धु. 
+दत्तकतत्त्वविनिर्णय or -निर्णय by हरिनाथमिश्र. N. vol. XI; Intro. p. 5.
 
-समुच्चयः 
+दत्तकतिलक of भवदेव (a part of his व्यवहारतिलक). Summarised in the दत्तकशिरोमणि.
 
-List of works on Dharmaśāstra 
+दत्तकदर्पण by द्वैपायन (N. X. p. 71).
 
-1035 
+दत्तकदीधिति by महामहोपाध्याय अनन्तभट्ट (pr. at Calcutta and also at Bhavnagar). Summarised in दत्तकशिरोमणि.
 
-तिथिनिर्णय by वैद्यनाथ ( from चम- | तिथिप्रकाशप्रकाशिका. 
+दत्तकनिर्णय by तात्याशास्त्रिन्.
 
-त्कारचिन्तामणि). 
+दत्तकनिर्णय by विश्वनाथ उपाध्याय.
 
-तिथिप्रदीपक by भट्टांजि. तिथिनिर्णय by शिवानन्दभट्टगोस्वामी तिथिप्रदीपिका by नृसिंह, Refers to __ (Ulwar Cat. No. 1329 ). 
+दत्तकनिर्णय by शूलपाणि (part of his digest called स्मृतिविवेक). Nearly the whole is pr. in Bharatachandra Śiromaṇi's दत्तकशिरोमणि. Also styled दत्तकविवेक.
 
-विद्यारण्य. तिथिनिर्णय by शुभङ्कर. 
+दत्तकनिर्णय by श्रीनाथभट्ट.
 
-तिथिप्रदीपिका by रामसेवक. तिथिनिर्णय by सिद्धलक्ष्मण. 
+दत्तकपुत्रविधान by अनन्तदेव (probably same as दत्तकदीधिति above).
 
-तिथिमञ्जरी of गणेश, son of ज्ञानेश्वर, तिथिनिर्णय by सुदर्शन 
+दत्तकपुत्रविधान by नृसिंहभट्ट.
 
-___son of महादेव, son of लालभट्ट. तिथिनिर्णय from the लघुमाधवीय of तिथिरत्न by महादेव. 
+दत्तकपुत्रविधि by शूलपाणि; same as दत्तकनिर्णय above.
 
-माधवाचार्य 
+दत्तकमीमांसा or दत्तकपुत्रनिर्णयमीमांसा of नन्दपण्डित alias विनायकपण्डित (pr. by भरतचन्द्र शिरोमणि at Calcutta and in Ānan. P.). Vide Sec. 110.  
+C. by वृन्दावनशुक्ल.
 
-तिथिरत्नमाला by नीलकण्ठ, son of तिथिनिर्णय from the स्मृत्यर्थसार. । ___ अनन्त, son of चिन्तामणि. तिथिनिर्णयकारिका by श्रीनिवासार्यः | तिथिवाक्यनिर्णय- Vide तिथिनिर्णय of 
+दत्तकमीमांसा by माधवाचार्य.
 
-son of गोविन्दार्य of the कौशिक- । नारायणभट्ट. गोत्र. 
+दत्तकविधि (an extract from the व्यवहारमयूख of नीलकण्ठ).
 
-तिथिविवेक of शूलपाणि m. in रघु तिथिनिर्णयचक्र by विश्वनाथ ( Baroda 
+दत्तकविधि by वाचस्पति; vide N. (New Series) vol. III. preface pp. VII-VIII.
 
-___ नन्दन' तिथितत्त्व. O. I. No. 8336). 
+दत्तकविवेक by शूलपाणि (vide दत्तकनिर्णय above).
 
-C. तात्पर्यदीपिका by श्रीनाथ 
+दत्तकसपिण्डनिर्णय.
 
-आचार्यचूडामणि, son of श्रीकर; तिथिनिर्णयतत्त्व by शिवनन्दननाग. 
+दत्तकोज्ज्वल by वर्धमान, who performs an obeisance to काली. N. (new series) vol. I. p. 166.
 
-about 1475-1525 A. D. N. तिथिनिर्णयदीपिका by रामदेव, son of ! 
+दत्तचिन्तामणि by वञ्चेश्वर, son of नरसिंह.
 
-(new series) vol. II. pp.73 शम्भु. 
+दत्तदायप्रकाश by व्रजनाथ विद्यारत्न (pr. at Calcutta 1875).
 
-74 ms. copied in 1512-13 तिथिनिर्णयमार्तण्ड by कृष्णमित्राचार्य. A. D. तिथिनिर्णयसंक्षेप or तिथिनिर्णय by | तिथिव्यवस्थासंक्षेप. 
+दत्तपुत्रतत्त्वविवेक by वासुदेवभट्ट (Stein's Cat. p. 307).
 
-महोजि; son of लक्ष्मीधर. तिथिसंग्रह or तिथिनिर्णय by राघव. तिथिनिर्णयसंग्रह by रामचन्द्र. A sum 
+दत्तपुत्रविचार by गोविन्द वासुदेवभट्ट (Baroda O. I. No. 10701 b).
 
-___ Vide above (pr. in Bombay mary of the तिथिनिर्णय of अनन्त 
+दत्तपुत्रविधि.
 
-___1864). 
+दत्तमञ्जरी.
 
-भट्ट 
+[[P1040]] दत्तरत्नप्रदीपिका by श्रीनिवासाचार्य.
 
-तिथिसंग्रह ano. N. (new series) II. 
+दत्तरत्नाकर by धर्मराजाध्वरीन्द्र, son of माधवाध्वरीन्द्र; names विज्ञानेश्वर, कालामृत, वरदराजीय, दत्तसंग्रह, कालनिर्णय, दत्तमीमांसा; later than 1650 A. D.
 
-__p. 75. C. by नृसिंह ( Baroda 0. I. ms. No. 1524 is dated संवत् 1683 ). 
+दत्तरत्नार्पण by सीतारामशास्त्रिन् (Baroda O. I. No. 7204).
 
-तिथिस्वरूप or सर्वतिथिस्वरूप by Later than 1400 A. D. 
+दत्तविधि by वैद्यनाथ.
 
-सुरेश्वर. तिथिनिर्णयसर्वसमुच्चय. 
+दत्तसंग्रह by भीमसेनकवि.
 
-तिथीन्दुशेखर by नागेशभट्ट. 
+दत्तसिद्धान्तमञ्जरी by बालकृष्ण, son of देवभद्रदीक्षित of the Phalnitkar family. His guru was अद्वैतानन्द.
 
-तिथ्यर्क by दिवाकर, son of महादेव, तिथिनिर्णयसार by मदनपाल. Vide 
+दत्तसिद्धान्तमञ्जरी by भट्टभास्करपण्डित.
 
-son of बालकृष्ण of भारद्वाजगोत्र, ___sec. 94. 
+दत्तसिद्धान्तमन्दारमञ्जरी.
 
-author of आचारार्क ( both being तिथिनिर्णयेन्दुशेखर by नागोजीभट्ट parts of धर्मशास्त्रसुधानिधि). Ab तिथिनिर्णयोद्धार or लघतिथिनिर्णय or | out 1683 1. D. 
+दत्तस्मृतिसार.
 
-निर्णयोद्धार by राघवमट्ट. Vide अनुक्रमणिका by his son वैद्यनाथ. तिथिनिर्णय above. Also called | तिथ्यपर्वनिर्णय ( Baroda 0. I. No. तिथिसारसंग्रह 
+दत्तहोमानुक्रमणिका.
 
-5947). The author says that तिथिप्रकाश by गङ्गादास द्विवैदिन्- नारायणभट्ट, author of प्रयोगरत्न, 
+दत्तादर्श by माधवपण्डित.
 
-1036 
+दत्तार्क by दादा करज्गि, son of माधव, son of नृसिंह. He was a pupil of कृष्णाचार्य at Nasik on the Godāvarī and composed the work in śake 1691 (1769 A. D.). Names निर्णयसिन्धुकार and मयूखकार.
 
+दत्तार्चनकौमुदी or दत्तात्रेयपद्धति by चैतन्यगिरि.
 
+दत्तार्चनविधिचन्द्रिका by रामानन्दयति.
 
-was the great-grand-father | तीर्थतत्व or तीर्थयात्राविधितत्व of (प्रपितामह) of his mother. So रघु०. This is over and above author flourished about 1650 his स्मृतितत्त्व in 28 तत्त्व. 
+दत्ताशौचव्यवस्थापनवाद by रामसुब्रह्मण्यशास्त्रिन्, son of रामशङ्कर; flourished towards the end of the 18th century.
 
-A. D. 
+दन्तधावनविधि.
 
-। तीर्थदर्पण (vide under ऋजुप्रयोग) तिथ्यप्रकाश by दिवाकर ( same as | of भट्टराम, son of विश्वनाथ, sur 
+दर्शनिर्णय by वेङ्कटनाथ, called वैदिकसार्वभौम, son of रङ्गनाथ, son of सरस्वतीवल्लभ On such topics as जयन्तीनिर्णय, एकादशीनिर्णय &c.
 
-तिथ्यर्क above } ). 
+Probably a part of his स्मृतिरत्नाकर (N. vol. VIII. p. 14). Mentions स्मृतिचन्द्रिका, कालनिर्णय, अखण्डादर्श.
 
-_named होसिङ्ग. तिथ्यादितत्त्वनिर्णय by लौगाक्षि भास्कर | तीर्थनिर्णय or कुरुक्षेत्रतीर्थनिर्णय of 
+दर्शश्राद्ध by रामभट्ट, son of विश्वनाथ होसिङ्ग.
 
-( Baroda O. I. ms. No. 5772 is रामचन्द्र dated 1605 संवत् i. e. 1548-49 
+दर्शश्राद्धपद्धति by रघुनाथ. Based on हेमाद्रि's work.
 
-तीर्थपरिभाषा by व्यास. A. D.) Mentions दीपिका, काला 
+दर्शश्राद्धप्रयोग by दयाशङ्कर, son of धरणीधर.
 
-तीर्थमञ्जरी by मुकुन्दलाल. दर्श , माधव and निर्णयामृत. So later than 1400 A, D. 
+दर्शश्राद्धप्रयोग by भट्टगोविन्द (Baroda O. I. ms. 1677 dated śake 1680).
 
-तीर्थयात्रातत्व by रघुनन्दन. Same as 
+दर्शश्राद्धप्रयोग by शिवराम.
 
-तीर्थतत्त्व: sec, 107. तिथ्यादिनिर्णय by गोपीनाथ. तिथ्यादिनिर्णय of पद्मनाभ ( part of | तीर्थयात्रानिर्णय. 
+दर्शसञ्चिका.
 
-योगीश्वरसंग्रह: ms. copied in 1707 | तीर्थरत्नाकर by अनन्तभट्ट, son of यदु 
+दशकर्मदीपिका or -पद्धति of पशुपति for Yajurvedins (Kāṇva). He was elder brother of हलायुध and Pandit of Lakṣmaṇasena of Bengal and so flourished about 1168-1200 A. D.
 
-A. D.). 
+दशकर्मपद्धति by महामहोपाध्याय कालेसि for Ṛgvedins (about गर्भाधान etc.). N. vol. II. p. 61.
 
-। भट्ट, at the request of अनूपसिंह. तिथ्यादिविधिसंग्रह by रघुत्तम तशिरो- | तीर्थरत्नाकर or रामप्रसाद of रामकृष्ण, 
+दशकर्मपद्धति by गणपति, son of हरिशङ्कर.
 
-मणि. N. ( new series) vol. II. son of माधव, of पराशरगोत्र; ms. P. 75. 
+दशकर्मपद्धति by नारायणभट्ट.
 
-dated संवत् 1690 (1634-35 A.D.). तिथ्युक्तिरत्नावली by हरिलालमिश्रा 
+दशकर्मपद्धति by पृथ्वीधर.
 
-He composed the युक्तिस्नेहप्रपू. 
+दशकर्मपद्धति by भवदेवभट्ट; (the work is also called दशकर्मदीपिका or कर्मानुष्ठानपद्धति). According to छन्दोग school. Vide sec. 74.
 
-रणी, com. on शास्त्रदीपिका, at तीर्थकमलाकर alias सर्वतीर्थ विधि of 
+दशकर्मपद्धति by रामदत्तमैथिल for Vājasaneyins; same as गर्भाधानादिदशसंस्कारपद्धति.
 
-Benares in संवत् 1600. He is कमलाकरभट्ट, son of रामकृष्ण. 
+दशकर्मव्याख्या of हलायुध (part of ब्राह्मणसर्वस्व).
 
-author of प्रतापमार्तण्ड; Houri Vide sec, 111. 
+[[P1041]] दशकालनिर्णय.
 
-shed between 1500-1545 A. D. तीर्थकल्पकता by गोकुलदेव, son of 
+दशधेनुदानपद्धति or -विधि (part of हेमाद्रि's दानखण्ड).
 
-तीर्थसंग्रह m. in स्मृत्यर्थसार by श्रीधर. अनन्तदेव. तीर्थकल्पलता by नन्दपण्डित. See. | 
+दशनिर्णय by वेङ्कटनाथ वैदिकसार्वभौम, son of रङ्गनाथ.
 
-तीर्थसंग्रह by साहेबराम 
+दशनिर्णय (on fasts and festivals) m. in प्रयोगचन्द्रिका.
 
-तीर्थसार ( part of नृसिंहप्रसाद); pr. तीर्थकल्पलता by वाचस्पति. 
+दशपुत्राह्निक by आनन्द, son of प्रभाकर, of the दशपुत्र family.
 
-in Prince of Wales Series. 
+दशमुखकोटिहोमप्रयोग by देवभद्रपाठक (Baroda O. I. 10963).
 
-तीर्थकाशिका m. by गङ्गाधर. 
+दशविधविप्रपद्धति.
 
-तीर्थसेतु by वृन्दावन शुक्ल. तीर्थकौमुदी of शङ्कर, son of बल्लाल; 
+दशश्लोकी (ascribed to विज्ञानेश्वर) on आशौच. Same as आशौचदशक above.  
+C. by भट्टोजि, son of लक्ष्मीधर. In Hultzsch's Report III p. 101 we find that भट्टोजि says ‘विज्ञानेश्वरमदनपारिजातकारत्रिंशच्छ्लोकीकारप्रभृतयस्तु ब्राह्मणस्य वैश्यानुगमने पक्षिणीत्याहुः, which shows that he regarded the author of त्रिंशच्छ्लोकी as different from विज्ञानेश्वर.
 
-तीर्थसौख्य ( part of टोडरानन्द). mentions तीर्थचिन्तामणि. Same as | तीर्थेन्दुशेखर of नागोजिभट्ट, son of 
+दशसंस्कारपद्धति. Same as गर्भाधानादिदशसंस्कारपद्धति.
 
-तीर्थोधापनकौमुदी. 
+दशसंस्कारप्रकरण.
 
-शिवभट्ट. Vide sec. 115. तीर्थकौमुदी of सिद्धान्तवागीशभट्टाचार्यः | तीर्थोद्यापनकौमुदी by शङ्कर, son of तीर्थचिन्तामणि by वाचस्पतिमिश्र, in | बल्लालसूरि. Vide under व्रतोद्यापन 
+दशादिकालनिर्णय.
 
-five प्रकाश (pr. in B. I. Series);! कौमुदी. About 1753 A. D. 
+दशाहकर्मन्.
 
-m. in the शुद्धितत्व of रघुनन्दन | तुलसीकाष्ठमालाधारणनिषेध by नरसिंह and in नि.सि. Vide sec. 101. I (Baroda O. I. No. 3894). 
+दशाहविवाह by वैद्यनाथदीक्षित.
 
-110. 
+दानकमलाकर of कमलाकरभट्ट; sec. 111.
 
-List of works on Dharmaśāstra 
+दानकल्प quoted in अहल्याकामधेनु.
 
-1037 
+दानकल्पतरु of लक्ष्मीधर—part of कल्पतरु; sec. 78.
 
-तुलसीचन्द्रिका by राजनारायण मुखो. A. D. He says he follows 
+दानकाण्डपर्व by साम्बाजी प्रतापराज (from परशुरामप्रताप).
 
-पाध्याय. 
+दानकाण्डसंक्षेप.
 
-com. of रघुनाथ on the तुलसीविवाह (taken from प्रताप- त्रिंशच्छोकी. 
+दानकौतुक (extracted from the हरिवंशविलास of नन्दपण्डित).
 
-मार्तण्ड) Clwar Cat. No. 1334 
+दानकौमुदी by रामजयतर्कालङ्कार.
 
-C. आशौचसंग्रह and extract 313). 
+दानकौमुदी or दानक्रियाकौमुदी of गोविन्दानन्द (about 1500-1540 A. D.); mentioned in his श्राद्धक्रियाकौमुदी. Vide sec. 106; pr. in B. I. Series.
 
-C. ascribed to विज्ञानेश्वर (wro. तुलादान. 
+दानकौस्तुभ (from the स्मृतिकौस्तुभ of अनन्तदेव).
 
-___ngly). Vide under दशश्लोकी. तुलादानपद्धति. 
+दानचन्द्रिका by गौतम.
 
-C. by अनन्तभट्ट (Ulwar Cat. तुलादानपुरुषप्रयोग 
+दानचन्द्रिका by जयराम (abstract of हेमाद्रि).
 
-No. 1340). तुलादानप्रकरण by सिद्धनाथ. 
+दानचन्द्रिका by दिवाकर, son of महादेव and grandson of रामेश्वर surnamed काल; names दानोद्योत, दानरत्न, दानमयूख and व्रतार्क; also called दानसंक्षेपचन्द्रिका. Later than 1660 A. D.; pr. at Benares in 1864 and at Bombay in 1880 and 1884.
 
-c by भट्टाचार्य (Ulwar Cat. No. तुलादानप्रयोग (माध्यन्दिनीय). 
+दानचन्द्रिका by नीलकण्ठ.
 
-1341); ms. in Baroda o. I. तुलादानप्रयोग by कमलाकर, son of 
+दानचन्द्रिका by श्रीनाथ आचार्यचूडामणि, son of श्रीकर. About 1475-1525 A. D.
 
-3883 is dated संवत् 1579 रामकृष्ण. Sec. 111. 
+दानचन्द्रिकावली by श्रीधरपति.
 
-1522-23 A. D.). तुलादानविधिः तुलापद्धति by कमलाकर. 
+दानतत्त्व.
 
-C. सुबोधिनी by अनन्त, son of तुलापुरुषदानपद्धति. 
+दानदर्पण m. in शुद्धितत्त्व (vol. II. p. 250) and तिथितत्त्व by रघुनन्दन.
 
-कमलाकरभट्ट, son of रामकृष्ण. 
+दानदिनकर by कमलाकर.
 
-About 1610-1660 A. D. तुलापुरुषदानप्रयोग by विठ्ठल. तुलापुरुषमहादानपद्धति by गोपीनाथः | C. by कृष्णमित्र तुलापुरुषमहादानप्रयोग or तुलादान 
+दानदिनकर by दिवाकर, son of दिनकर.
 
-C. by राघव विधि by नारायणभट्ट, son of 
+दानदीधिति by नीलकण्ठ, son of भास्कर.
 
-c. by रामभट्ट रामेश्वर; sec. 108. 
+दानदीपवाक्यसमुच्चय.
 
-C. by विश्वनाथ त्रिंशच्छोकी or आशौचत्रिंशच्छोकी by 
+[[P1042]] दानधर्मप्रक्रिया by भवदेवभट्ट, son of कृष्णदेवसन्मिश्र मैथिल. Names भूपाल. In four काण्डs; ms. (Mitra's Notices vol. V p. 144) dated śake 1558, i. e. 1636-37 A. D.
 
-C. (vide I. O. Cat. III p. 566, वोपदेव. Is it the same as the 
+दानपञ्जी or -पञ्जिका by नवराज, son of देवसिंह of द्रोण family. N. vol. V. p. 150. Peterson (5th Report p. 177) reads नरराज and shows that सूर्यकर compiled it at the bidding of नरराज.
 
-No. 1750-51). next ? 
+दानपञ्जी by रत्नाकर ठक्कुर—summarises दानसागर, as he expressly says.
 
-_C. by रामेश्वरभारती. त्रिंशच्छोकी or आशौचत्रिंशच्छोकी or | 
+दानपञ्जी by सूर्यकरशर्मन्—vide above under नवराज also.
 
-C. by author. सूतककारिका (pr. at Benares in 
+दानपद्धति—षोडशमहादानपद्धति by रामदत्त minister of कर्णाट king नृसिंह of मिथिला. He was first cousin (paternal) of चण्डेश्वर. First half of 14th century (I. O. Cat. vol. III. p. 550 No. 1714). The colophon describes it as the work of भवशर्मन्, who is in the 4th introductory verse [[referreed|referred]] to as born of the खौपालवंश and as an अग्निहोत्रिन् and appointed (to compose the work?).
 
-त्रिकाण्डमण्डन alias आपस्तम्बसूत्र 1876 with com.) in 30 स्रग्धरा 
+दानपरिभाषा by नीलकण्ठ.
 
-ध्वनितार्थकारिका by भास्करमिश्र verses on 1311a. Ulwar Cat. 
+दानपरीक्षा by श्रीधरमिश्र.
 
-सोमयाजिन्, son of कुमारस्वामिन No. 1339 ascribes it to वोपदेव. 
+दानपारिजात by अनन्तभट्ट, son of नागेश or नागदेव, son of जह्नु of काण्वकुल.
 
-(pr. in B. I. Series ). Printed Vide BBRAS Cat. vol II pp. 
+दानपारिजात by क्षेमेन्द्र.
 
-text and mss. differ, Divided 209-210 where it is ascribed to 
+दानप्रकरण.
 
-into four sections in 575 verses हेमाद्रिः 
+दानप्रकार.
 
-on अधिकारिनिरूपण, प्रतिनिधि, पुन C. विवरण by रघुनाभट्ट, son of राधेय, निमित्त and प्रकीर्णक. He माधव, son of रामेश्वर; flourished names ऋषिदेव, कर्क, केशवसिद्धान्त, 1560-1625 A. D. 
+दानप्रकाश of मित्रमिश्र (part of वीरमित्रोदय). Vide sec. 113.
 
-दामोदर, नारायणवृत्ति on आश्वलाय CC. विवरणसारोद्धार by शम्भुभट्ट नश्रौतसूत्र, भवनाग, भरद्वाजसूत्र 
+दानप्रदीप by दयाराम.
 
-कविमण्डन, son of बालकृष्ण. भाष्यकार, लौगाक्षिकारिका, भर्तृयज्ञ, Names नि.सि, मयूख, भट्टोजि- शालीकिनाथ (on पूर्वमीमांसा), यज्ञ दीक्षित. Between 1660-1710 पार्श्व, कर्मदीप, विधिरत्न; many 
+दानप्रदीप by दयाशङ्कर.
 
-Sal 
+दानप्रदीप by महामहोपाध्याय माधव, son of विष्णुशर्मन् from Gurjardeśa.
 
-1038 
+दानफलविवेक.
 
+दानफलव्रत—description of ceremonies to be performed by wives estranged from husbands or by women afraid of being separated from their sons. (I. O. Cat. vol. III. p. 577).
 
+दानभागवत by वर्णिकुबेरानन्द; composed during the reign of [[संग्रामासिंह|संग्रामसिंह]]. It is a huge work and is very valuable for the history of the text of the Purāṇas and for Purāṇic rites, as it deals principally with topics of धर्म relying upon the पुराणs. [[Vdie|Vide]] D. C. ms. No. 265 of 1887-91 which contains 392 folios. D. C. ms. No. 496 of 1886-92 is a fragment of it, on grammatical points arising out of पुराणs. It gives various derivations of the word नागरी as applied to the alphabet. It mentions वोपदेव and so is later than 1300 A. D.
 
-of his कारिकाs, though primarily प्रयाग, काशी and गया. Composed concerned with śrauta rites, are about 1550-60 A. D. quoted largely in धर्मशास्त्र works. त्रिस्थलीसेतुप्रघट्टक by नागेश. He incidentally deals with 
+दानमञ्जरी by व्रतराज.
 
-त्रिस्थलीसेतुसार or सारसंग्रह or तीर्थ many topics of FÅ, such as 
+दानमनोहर by सदाशिव, son of त्रिपाठिपरमानन्द; composed in संवत् 1735 (1678-79 A. D.) by command of गौडेश महाराज मनोहरदास.
 
-__ यात्राविधि by भट्ठोजि. proper actions in मलमास (I. 
+दानमयूख by नीलकण्ठ, son of शङ्करभट्ट. First half of the 17th century (pr. in Kashi S. Series and by Mr. Gharpure, Bombay).
 
-त्रैलोक्यसागर m. by वाचस्पतिमिश्र in 165-177), what is गौणकाल for 
+दानमहिमन्.
 
-___his द्वैतनिर्णय. So earlier than an act etc. He is named by 
+[[P1043]] दानमुक्तावली.
 
-_1400 A. D. हेमाद्रि and the मदनपारिजात. So he flourished after 1000 and 
+दानरत्न m. in दानचन्द्रिका.
 
-त्रैलोक्यसार m. by हेमाद्रि, रघुनन्दन, before 1200 A. D. Vide Dr. 
+दानरत्न part of अनूपविलास.
 
-_and in दानमयूख. Bhandarkar's Report for 1883 त्रैवर्णिकसंन्यास by कैलासयति. -84 pp. 30-31 for date, त्रैविक्रमी vide त्रिविक्रमपद्धति. C. विवरण. 
+दानरत्नाकर by चण्डेश्वर. Vide sec. 91.
 
-दक्षस्मृति see sec. 43; pr. Jivananda C. पदप्रकाशिका. 
+दानरत्नाकर by भट्टराम, son of मुद्गल, of the होसिंग family; compiled under the direction of अनूपसिंह, king of जोधापुर in मरुविषय. Gives genealogy of अनूपसिंह, whose ancestor बीक founded Bikaner. भट्टराम says he composed at the king's bidding five other works अनूपविवेक (on शालग्रामपरीक्षण), सन्तानकल्पलतिका, अनूपकुतुकार्णव, अमृतमञ्जरी (on antidotes against poisons) and चिकित्सामालतीमाला. About 1675 A. D.
 
-Sm. part II, pp. 383-402, Anan. 
+दानवाक्य.
 
-sm. pp.72-84. त्रिकालसन्ध्या. 
+दानवाक्यसमुच्चय by योगीश्वर (Baroda O. I. ms. 10513 dated संवत् 1687 i. e. 1630-1 A. D.) D. C. ms. 332 of 1880-81 is dated संवत् 1594.
 
-C. by कृष्णनाथ. त्रिपिण्डीश्राद्धप्रयोग ( Aufrecht's C. by तकनलाल. 
+दानवाक्यसमुच्चय by योगीश्वर; mentioned in भोजदेवसंग्रह, a ms. of which was copied in śake 1297 (1375 A. D.).
 
-Leipzig Cat. 591 ). 
+दानवाक्यावलि by नरराज.
 
-| दक्षिणद्वारनिर्णय by नारायण (Baroda 
+दानवाक्यावलि by विद्यापति; composed at the direction of महादेवी धीरमती, queen of नरसिंहदेव दर्पनारायण of मिथिला; ms. dated संवत् 1539 (1483 A. D.). First half of 15th century. Vide Bhandarkar's Report 1883-84 p 352 for extract.
 
-०. I. 9175). त्रिपुष्करशान्तितत्त्व of रघु०; vide p. 
+दानवाक्यावलि Anonymous (D. C. ms. No. 367 of 1891-95).
 
-892 above. 
+दानविजय.
 
-दण्डकशान्ति 
+दानविवेक m. by हेमाद्रि; दानचन्द्रिका, दानमयूख of नीलकण्ठ.
 
-दण्डनीतिप्रकरण (extracted from the त्रिविक्रमपद्धति m. in नि. सि. 
+दानविवेक by भानुदीक्षित, son of भट्टोजिदीक्षित. About 1650 A. D.
 
-नीतिमअरी of शम्भुराज). त्रिविक्रमी (rules for the conseera- | दण्डविवेक of वर्धमान of बिल्वपञ्चग्राम, 
+दानविवेकोद्योत or दानोद्योत (from मदनरत्न).
 
-tion of images when transferred son of vastand younger brother from one place to another of गण्डकमिश्र; in seven परिच्छेद; through fear of mlecchas or (pr. in G. 0. Series; see sec. 
+दानसंक्षेपचन्द्रिका by दिवाकर, son of महादेव. Vide दानचन्द्रिका above.
 
-otherwise). N, vol. JX. p. 295). 102); latter half of 15th century; त्रिवेणीपद्धति by दिवाकरभट्ट (Baroda on penal offences, the propriety 
+दानसागर by अनन्तभट्ट.
 
-0. I. 5840). 
+दानसागर by कामदेवमहाराज, in imitation of बल्लालसेन's work.
 
-of inflicting punishments and 
+दानसागर by बल्लालसेन (pr. in B. I. Series in 1956). Vide sec. 84.
 
-the different forms of punish त्रिस्थलीविधि by हेमाद्रि. 
+दानसार, portion of नृसिंहप्रसाद. Vide sec. 103.
 
-ments to be inflicted. N. vol. V. त्रिस्थलीसेतु of काशीनाथभट्ट, son of | p. 225 No. 1910; composed for 
+दानसारसंग्रह (only section on वास्तुपूजा). Ulwar Cat. No. 1355 and extract 319.
 
-जयरामभट्ट. 
+दानसारावली (vide Bik. Cat. p. 375).
 
-the king of मिथिला; mentions त्रिस्थलीसेतु of नारायणभट्ट, son of | कल्पतरु, कामधेनु, हलायुध, धर्मकोश, 
+दानसौख्य m. in दानचन्द्रिका and दानमयूख (part of टोडरानन्द).
 
-रामेश्वरभट्ट (pr. at Anandasrama स्मृतिसार, कृत्यसागर, रत्नाकर, पारि Poona). The first part deals जात, व्यवहारतिलक, प्रदीपिका and with rites common to all sacred प्रदीप as among his authorities. places and then the special It is a part of his स्मृतितत्त्व features of the pilgrimage to ! विवेक. 
+दानहीरावलिप्रकाश by दिवाकर, son of भारद्वाज महादेव. He was daughter's son of नीलकण्ठभट्ट. A versified summary of contents was added to this work by his younger son वैद्यनाथ. He wrote आचारार्क in 1686 A. D. The work is part of his धर्मशास्त्रसुधानिधि. Vide under आचारार्क (I. O. Cat. vol. III. pp. 547-48).  
+अनुक्रमणिका by वैद्यनाथ, son of the author.
 
-List of works on Dharmaśāstra 
+दानहेमाद्रि—part of चतुर्वर्गचिन्तामणि, q. v.
 
-1039 
+[[P1044]] दानार्णव composed by order of queen धीरमती, wife of वीरनारायण नरसिंहदेव (कामेश्वरराजपण्डित) of मिथिला. First half of 15th century.
 
-C. by रामेश्वरशुक्ल. 
+दानोद्योत—same as दानविवेकोद्योत (a part of मदनरत्नप्रदीप).
 
-दत्तककुठार. 
+दानोद्योत by कृष्णराम.
 
-chandra siromani's दत्तकशिरो. दत्तककौमदी by रामजय तर्कालङ्कार | मणि. Also styled दत्तकविवेक. 
+दामोदरीय m. in निर्णयदीपक and शुद्धिमयूख and समयमयूख; earlier than 1500 A. D.
 
-(pr, at Calcutta in 1827 in | दत्तकनिर्णय by श्रीनाथभट्ट Bengali characters ). Summari 
+दायकौमुदी by पीताम्बर सिद्धान्तवागीश. About 1604 A. D.; pr. at Calcutta 1904.
 
-दत्तकपुत्रविधान by अनन्तदेव (probab sed in दत्तकशिरोमणि pr. under 
+दायक्रमसंग्रह of श्रीकृष्ण तर्कालङ्कार (pr. at Calcutta, 1828 and translated by Wynch); mentions आचार्यचूडामणि.
 
-ly same as दत्तकदीधिति above). the patronage of P. C. Tagore. 
+दायतत्त्व or दायभागतत्त्व of रघुनन्दन (pr. by Jivananda). Vide sec. 107.  
+C. by काशीराम वाचस्पति.  
+C. by राधामोहन.  
+C. by वृन्दावन शुक्ल.  
+C. Ano. N. (new series) vol. II. p. 80.
 
-दत्तकपुत्रविधान by नृसिंहभट्ट. दत्तककौस्तुभ by केदारनाथदत्त ( pr. at 
+दायदशश्लोकी in ten शार्दूलविक्रीडित verses on inheritance (pr. by Burnell at Mangalore).  
+C. by दुर्गय, son of वासुदेव.
 
-दत्तकपुत्रविधि by शूलपाणि; same as Calcutta ). 
+दायदीप, com. on दायभाग. Vide under दायभाग.
 
-दत्तकनिर्णय above. दत्तकचन्द्रिका of कुबेरपण्डित (pr. Cal 
+दायनिर्णय by गोपालपञ्चानन. Summary of रघुनन्दन's दायतत्त्व.
 
-दत्तकमीमांसा or दत्तकपुत्रनिर्णयमीमांसा cutta 1857, text with Marathi translation pr.at. Baroda; 1899) 
+दायनिर्णय by विद्याधर.
 
-of नन्दपण्डित alias विनायकपण्डित 
+दायनिर्णय by श्रीकरशर्मा; quotes मदनपारिजात, दायभाग and वाचस्पति. Vide I. O. Cat. vol. III. p. 462 No. 1523; p. 463 No. 1524 shows that there is some confusion between गोपाल and श्रीकरशर्मा.
 
-The last verse is interpreted as 
+दायभाग of जीमूतवाहन. Vide sec. 79; (pr. with seven com. by Bharatachandra for Prasanna Kumar Tagore, 1863-66).  
+C. by दायभागप्रबोधिनी (pr. at Calcutta 1893, 1898).  
+C. दायभागसिद्धान्तकुमुदचन्द्रिका by अच्युत चक्रवर्ती, son of हरिदास तर्काचार्य; criticizes श्रीनाथ's टीका and he is quoted by महेश्वर and श्रीकृष्ण 1500-1550 A. D.  
+C. by उमाशङ्कर.  
+C. by कृष्णकान्त शर्मा.  
+C. by गङ्गाधर.  
+C. by गङ्गाराम.  
+C. दायदीप by श्रीकृष्णतर्कालङ्कार, whose daughter's son was living in 1790 A. D. (pr. in 1863).  
+C. by नीलकण्ठ.  
+C. by मणेश्वर (vide I. L. R. 48 Cal. 702).  
+C. by महेश्वर; quotes अच्युतचक्रवर्ती (pr. in 1863).  
+C. by रघुनन्दन (pr. in 1863), son of हरिहर.  
+C. by रामनाथ विद्यावाचस्पति.  
+C. विवृति or दीपिका by रामभद्र, son of श्रीनाथ आचार्य चूडामणि quoted in अच्युत's टीका (pr. in 1863).  
+C. by श्रीनाथ, son of श्रीकराचार्य; criticized by अच्युत (pr. in 1863). 1475-1525 A. D.  
+[[P1045]] C. by सदाशिव.  
+C. by हरिदीक्षित.
 
-(pr. by भरतचन्द्र शिरोमणि at 
+दायभाग—a portion of व्यवहारनिर्णय of वरदराज.
 
-Calcutta and in Anan. P.). giving रघुमणि as the name of 
+दायभाग—a portion of the विवादभङ्गार्णव of जगन्नाथ.
 
-Vide Sec. 110. the author. Said to be fabric ated by a pandit of Colebroo 
+दायभाग by वैद्यनाथ.
 
-C. by वृन्दावन शुक्ल. ke's. The author says he wrote | दत्तकमीमांसा by माधवाचार्य. & स्मृतिचन्द्रिका. 
+दायभागकारिका by मोहनचन्द्र विद्यावाचस्पति. N. (new series) I. 172.
 
-दत्तकविधि ( an extract from the 
+दायभागनिर्णय or -विनिर्णय by कामदेव (I. O. Cat. p. 463).
 
-व्यवहारमयूख of नीलकण्ठ ). दत्तकचन्द्रिका by कोलप्पाचार्यः दत्तकविधि by वाचस्पति; vide N. दत्तकचन्द्रिका by तोळप्पर, son of (New Series) vol. III. preface 
+दायभागनिर्णय by भट्टोजि (Peterson's 6th Report No. 84).
 
-श्रीनिवासाचार्य ( Baroda O. I. | ___pp. V[I-VIII. 6572 B.) 
+दायभागनिर्णय by व्यासदेव.
 
-दत्तकविवेक by शूलपाणि ( vide दत्तक दत्तकचन्द्रिकाटीका by तकनलाल. निर्णय above). दत्तकतत्त्वविनिर्णय or :निर्णय by हरि- दत्तकसपिण्डनिर्णय. 
+दायभागनिर्णय of श्रीकर—vide दायनिर्णय above.
 
-नाथमिश्र. N. vol. XI; Intro. p.5. 
+दायभागविवेक alias दायरहस्य by रामनाथ विद्यावाचस्पति; a com. on दायभाग of जीमूतवाहन composed in 1657 A. D. Part of स्मृतिरत्नावलि. N. vol. V. p. 154.
 
-दत्तकोज्ज्वल by वर्धमान, who per दत्तकतिलक of भत्रदेव ( a part of his forms an obeisance to काली. N. 
+दायभागव्यवस्था of सार्वभौम in 8 तरङ्गs. Composed in (शाकेग्निमङ्गलहरास्यकलानिधाने) śake 1583 i. e. 1661-62 A. D.; composed for राघव.
 
-व्यवहारतिलक ). Summarised in ) new series) vol. I. p. 166. the दत्तकशिरोमणि. 
+दायभागव्यवस्थासंक्षेप by गणेशभट्ट (part of व्यवस्थासंक्षेप).
 
-दत्तचिन्तामणि by वञ्चेश्वर, son of दत्तकदर्पण by द्वैपायन ( N. X. p. 71). 
+दायभागसिद्धान्त of बलभद्र तर्कवागीशभट्टाचार्य (I. O. Cat. p. 465).
 
-नरसिंह दत्तकदीधिति by महामहोपाध्याय 
+दायभागसिद्धान्तकुमुदचन्द्रिका, com. on दायभाग. Vide above.
 
-दत्तदायप्रकाश by व्रजनाथ विद्यारत्न अनन्तभट्ट (pr. at Calcutta and 
+दायभागार्थदीपिकापद्यावली by रघुराम, pupil of रघुमणि. N. (new series) vol. I p. 174; towards end of 18th century.
 
-(pr. at Calcutta 1875). also at Bhavnagar ). Summari. sed in दत्तकशिरोमणि. 
+दायमुक्तावली by टीकाराम.
 
-दत्तपुत्रतत्त्वविवेक by वासुदेवभट्ट दत्तकनिर्णय by तात्याशास्त्रिन्. 
+दायरहस्य—vide दायभागविवेक of रामनाथ.
 
-(Stein's Cat. p. 307). 
+दायविभाग by कमलाकर.
 
-दत्तकनिर्णय by विश्वनाथ उपाध्याय. 
+दायसंक्षेप by गणेशभट्ट.
 
-दत्तपुत्रविचार by गोविन वासुदेवभट्ट 
+दायसंग्रहश्लोकदशकव्याख्या by दुर्गय, son of वासुदेव. Vide दायदशश्लोकी.
 
-| (Baroda b. I. No. 10701 b). दत्तकनिर्णय by शूलपाणि ( part of his 
+दायाधिकारक्रमसंग्रह by श्रीकृष्णतर्कालङ्कार.
 
-digest called स्मृतिविवेक). Nearly | दत्तपुत्रविधि. the whole is pr. in Bharata- | दत्तमञ्जरी. 
+दायाधिकारक्रमसंग्रह by कृष्ण or जयकृष्ण तर्कालङ्कार. Ulwar Cat. No. 1356. Seems to be same as the preceding.
 
-1040 
+दायाधिकारिक्रम by लक्ष्मीनारायण.
 
+दाल्भ्यकृतधर्मशास्त्र (on श्राद्ध) D. C. Ms. No. 267 of 1887-91 contains prose passages about प्रयोग.
 
+दाल्भ्यपद्धति (Baroda O. I. No. 8156). On rites of death and after death.
 
-. 
+दासीदान.
 
-yas 
+दाहादिकर्मकर्तृनिर्णय by याज्ञिकदेव सम्राट्स्थपति.
 
-दत्तरत्नप्रदीपिका by श्रीनिवासाचार्यः । Probably a part of his स्मृति दत्तरत्नाकर by धर्मराजाध्वरीन्द्र, son of . 
+दाहादिकर्मपद्धति.
 
-रत्नाकर (N. vol. VIII. p. 14). माधवाध्वरीन्द्र ; names विज्ञानेश्वर, 
+दिनकरोद्योत or शिवद्युमणिदीपिका begun by दिनकर alias दिवाकर, son of रामकृष्णभट्ट, son of नारायणभट्ट and finished by his son विश्वेश्वर alias गागाभट्ट; contains sections on आचार, आशौच, काल, दान, पूर्त, प्रतिष्ठा, प्रायश्चित्त, व्यवहार, वर्षकृत्य, व्रत, शूद्र, श्राद्ध and संस्कार.
 
-Mentions स्मृतिचन्द्रिका, काल कालामृत, वरदराजाय, दत्तसंग्रह, 
+दिनत्रयनिर्णय of विद्याधीशमुनि.
 
-निर्णय, अखण्डादर्श कालनिर्णय, दत्तमीमांसा;later than | दर्शश्राद्ध by रामभट्ट, son of विश्वनाथ 1650 A. D. 
+दिनत्रयमीमांसा of नारायण (for माध्व followers).
 
-होसिन दत्तरत्नार्पण by सीतारामशास्त्रिन् । दर्शश्राद्धपद्धति by रघुनाथ. Based on 
+दिनदीपिका.
 
-( Baroda 0. I. No. 7204). __हेमादि's work. दत्तविधि by वैद्यनाथ. 
+दिनभास्कर of शम्भुनाथ सिद्धान्तवागीश. Manual of daily religious [[P1046]] duties of householders. About 1715 A. D.
 
-दर्शश्राद्ध प्रयोग by दयाशङ्कर, son of दत्तसंग्रह by भीमसेनकवि. 
+दिवस्पतिसंग्रह m. by जीमूतवाहन's कालविवेक.
 
-धरणीधर. दत्तसिद्धान्तमञ्जरी by बालकृष्ण, son | दर्शश्राद्धप्रयोग by भट्टगोविन्द ( Baro 
+दिवोदासप्रकाश m. by कालनिर्णयचन्द्रिका of दिवाकर.
 
-of देवभद्रदीक्षित of the Phalnit- ___da O. I. ms. 1677 dated sake kar family. His guru was ___1680). अद्वैतानन्द. 
+दिवोदासीय m. by नि. सि., विधानपारिजात, शुद्धिचन्द्रिका. Earlier than 1500 A. D. Probably the same as दिवोदासप्रकाश.
 
-दर्शश्राद्धप्रयोग by शिवराम. दत्तसिद्धान्तमञ्जरी by भट्टभास्कर- दर्शसञ्चिका 
+दिव्यतत्त्व of रघुनन्दन. Vide sec. 107.  
+C. लघुटीका by मथुरानाथ शुक्ल.
 
-पण्डित. 
+दिव्यतन्त्र or तन्त्रकौमुदी m. by देवनाथ; mentions only Vaiṣṇavite rites. (Mitra's Notices vol. VI p. 32, ms. copied in 1551 śake i. e. 1629-30 A. D.).
 
-दशकर्मदीपिका or -पद्धति of पशुपति दत्तसिद्धान्तमन्दारमञ्जरी. 
+दिव्यदीपिका of दामोदरठक्कुर, compiled under Muhamad Shah (N. vol. V. p. 282).
 
-for Yajurvedins ( Kanva). He दत्तस्मृतिसार 
+दिव्यनिर्णय of दामोदरठक्कुर, compiled under संग्रामशाह (N. vol. VI. p. 40). Earlier than 1575 A. D. Vide under विवेकदीपक of दामोदर.
 
-was elder brother of हलायुध दत्तहोमानुक्रमणिका. 
+दिव्यसंग्रह by सदानन्द.
 
-and Paudit of Laksmanasena दत्तादर्श by माधवपण्डित. 
+दिव्यसिंहकारिका by दिव्यसिंह. An Abridgement in verse of his कालदीप and श्राद्धदीप.
 
-of Bengal and so flourished दत्ताक by दादा करगि, son of माधव, | ___about 1168-1200 A. D. 
+दिव्यानुष्ठानपद्धति by नारायणभट्ट, son of रामेश्वरभट्ट. Vide sec. 108. N. (new series) vol. III. p. 92.
 
-son of नृसिंह. He was a pupil of दशकर्मपद्धति by महामहोपाध्याय कृष्णाचार्य at Nasik on the Goda- | कालेसि for Rgvedins (about vari and composed the work in गर्भाधान etc.). N. vol. II. p. 61. sake 1691 ( 1769 A. D.). Na 
+दीक्षातत्त्व by रघुनन्दन. Vide sec. 107.
 
-दशकर्मपद्धति by गणपति, son of mes निर्णयसिन्धुकार and मयूखकार. 
+दीक्षातत्त्वप्रकाशिका of रामकिशोर (C. P. Cat. No. [[2202.|2202).]]
 
-हरिशङ्कर. दत्तार्चनकौमुदी or दत्तात्रेयपद्धति by 
+दीक्षानिर्णय.
 
-दशकर्मपद्धति by नारायणभट्ट. चैतन्यगिरि 
+दीपकलिका of शूलपाणि, com. on याज्ञवल्क्यस्मृति. Vide sec. 98.; pub. by Mr. Gharpure in his series of Hindu Law texts.
 
-दशकर्मपद्धति by पृथ्वीधर. दत्तार्चनविधिचन्द्रिका by रामानन्दयति. 
+दीपदान.
 
-दशकर्मपद्धति by भवदेवभट्ट; ( the दत्ताशौचव्यवस्थापनवाद by रामसुब्र 
+दीपदानविधि or -कारिका.
 
-work is also called दशकर्मदीपिका हाण्यशास्त्रिन्, son of रामशङ्कर; flourished towards the end of 
+दीपमालिका.
 
-or कर्मानुष्ठानपद्धति'. According the 18th century. 
+दीपश्राद्ध.
 
-to छन्दोग school. Vide sec. 74. दन्तधावनविधि. 
+दीपावलिप्रयोग.
 
-दशकमपद्धति by रामदत्तमैथिल for दर्शनिर्णय by वेङ्कटनाथ, called वैदिक- Vajasaneyins; same as गर्भा 
+दीपिका—Occurs in the name of several works such as कालनिर्णयदीपिका, श्राद्धदीपिका &c.
 
-सार्वभौम, son of रङ्गनाथ, son of धानादिदशसंस्कारपद्धति. सरस्वतीवल्लभ On such topics as दशकमव्याख्या of हलायुध ( part of जयन्तीनिर्णय, एकादशीनिर्णय &c. | ब्राह्मणसर्वस्व ).List of works on Dharmaśāstra 
+दीपोत्सवनिर्णय (Baroda O. I. 10625 dated 1757 संवत्).
 
-1041 
+दुर्गभञ्जन (alias स्मृतिदुर्गभञ्जन) by चन्द्रशेखरशर्मा, a वारेन्द्रब्राह्मण of नवद्वीप. For chapters on तिथि, मास, persons qualified to perform religious ceremonies such as दुर्गापूजा, fasts and penances; solves doubts on points of dharma.
 
-दशकालनिर्णय. 
+दुर्गातत्त्व—Vide दुर्गोत्सवतत्त्व.
 
-दानकाण्डसंक्षेप. दशधेनुदानपद्धति or-विधि ( part of दानकौतुक (extracted from the हरि 
+दुर्गातत्त्व by राघवभट्ट.
 
-हेमाद्रि' दानखण्ड). 
+दुर्गापुरश्चरणपद्धति.
 
-__वंशविलास of नन्दपण्डित). दशनिर्णय by वेङ्कटनाथ वैदिकसार्वभौम, दानकौमुदी by रामजयतकालङ्कार. 
+दुर्गाभक्तितरङ्गिणी or दुर्गोत्सवपद्धति ascribed to नरसिंहदेव of मिथिला, composed by विद्यापति. This was his last work. Praises धीरसिंह, son of नरसिंह, and his brother भैरवेन्द्र who is here styled रूपनारायण, though elsewhere he is called हरिनारायण (vide Ind. Ant. vol. 14 p. 193). About 1438 A. D.; pr. in Calcutta, 1909. Mentions रत्नाकर.
 
-son of रङ्गनाथ. 
+दुर्गाभक्तितरङ्गिणी of माधव.
 
-दानकौमुदी or दानक्रियाकौमुदी of दशनिर्णय (on fasts and festivals) | 
+दुर्गाभक्तिप्रकाश m. by रघुनन्दन in दुर्गोत्सवतत्त्व.
 
-गोविन्दानन्द (about 1500-1540 m. in प्रयोगचन्द्रिका. 
+दुर्गाभक्तिलहरी by रघूत्तमतीर्थ.
 
-A. D.); mentioned in his श्राद्ध दशपुत्राहिक by आनन्द, son of | क्रियाकौमुदी. Vide sec. 106; pr. 
+[[P1047]] दुर्गार्चनकल्पतरु.
 
-प्रभाकर, of the दशपुत्र family. __in B. I. Series. दशमुखकोटिहोमप्रयोग by देवभद्रपाठक | दानकौस्तुभ (from the स्मृतिकौस्तुभ 
+दुर्गार्चनामृतरहस्य by मथुरानाथ शुक्ल.
 
-(Baroda 0. I. 10963). 
+दुर्गार्चाकालनिष्कर्ष by मधुसूदन वाचस्पति. N. (new series), vol. I. p. 81.
 
-___of अनन्तदेव). दशविधविप्रपद्धति. 
+दुर्गाकौमुदी by परमानन्दशर्मन्.
 
-दानचन्द्रिका by गौतम दशश्लोकी (ascribed to विज्ञानेश्वर) on 
+दुर्गामुकुर by कालीचरण in two खण्डs, first describing जगद्धात्रीपूजा and the 2nd कालिकापूजा. It speaks of the दुर्गापूजा on कार्तिकशुक्लनवमी [[while.|while]] the well-known दुर्गापूजा is in आश्विन.
 
-दानचन्द्रिका by जयराम (abstract of माशौच. Same as आशौचदशक | 
+दुर्गार्णव m. in धर्मप्रवृत्ति.
 
-हेमाद्रि). above. C. by भट्टोजि, son of लक्ष्मीधर. दानचन्द्रिका by दिवाकर, son of 
+दुर्गावतीप्रकाश alias समयालोक by पद्मनाभ, son of बलभद्र. In seven आलोकs. Composed under patronage of दुर्गावती, queen of दलपति, king on the नर्मदा and father of वीरसाहि; vide Bik. Cat. p. 450 and I. O. Cat. p. 536 No. 1680; m. by शङ्करभट्ट in द्वैतनिर्णय and names निर्णयामृत, मदनपारिजात, मदनरत्न. Between 1460-1550 A. D. Deals with निर्णयs on तिथि, संक्रान्ति, मलमास etc. Is this दलपति the same as the author of नृसिंहप्रसाद? The seven sections are on समय, व्रत, आचार, व्यवहार, दान, शुद्धि, ईश्वराराधन (or पूजा?).
 
-In Hultzseh's Report III p. 
+दुर्गोत्सवकृत्यकौमुदी by शम्भुनाथसिद्धान्तवागीश. Mentions संवत्सरप्रदीप, वर्षकृत्य. He was a pandit at the court of the king of कामरूप. About 1715 A. D.
 
-महादेव and grandson of रामेश्वर 101 we find that भट्टोजि says 
+दुर्गोत्सवचन्द्रिका by भारतीभूषण वर्धमान महापात्र at the instance of prince रामचन्द्रदेव गजपति of Orissa.
 
-surnamed काल; names दानो. 'विज्ञानेश्वरमदनपारिजातकारत्रिं 
+दुर्गोत्सवतत्त्व by रघुनन्दन. Vide sec. 107.
 
-दद्योत, दानरत्न, दानमयूख and शच्छोकीकारप्रभृतयस्तु ब्राह्मणस्य 
+दुर्गोत्सवनिर्णय by गोपाल (N. vol. VI p. 210).
 
-व्रता; also called दानसंक्षेप 
+दुर्गोत्सवनिर्णय by न्यायपञ्चानन (name not given). Mitra appears to regard this as different from above, while Aufrecht holds them identical. N. vol. VII. p. 7.
 
-चन्द्रिका. Later than 1660 A. D.; वैश्यानुगमने पक्षिणीत्याहु, 
+दुर्गोत्सवपद्धति—vide दुर्गाभक्तितरङ्गिणी.
 
-pr. at Benares in 1864 and at which shows that he reyar ded the author of त्रिंशच्छोकी 
+दुर्गोत्सवप्रमाण by रघुनन्दन. Calcutta Sanskrit College Mss. Cat. Vol. II. pp. 310-311 No. 336.
 
-Bombay in 1880 and 1884. as different from विज्ञानेश्वर. 
+दुर्गोत्सवविवेक by शूलपाणि. Vide sec. 98.
 
-दानचन्द्रिका by नीलकण्ठ. 
+दुर्गोत्सवविवेक by श्रीनाथ आचार्यचूडामणि.
 
-दशसंस्कारपद्धति. Same as गर्भाधाना 
+दुष्टरजोदर्शनशान्ति (from प्रयोगरत्न of नारायणभट्ट).
 
-दानचन्द्रिका by श्रीनाथ आचार्यचूडा 
+दूतयोगलक्षण.
 
-मणि, son of श्रीकर. About 1475 दिदशसंस्कारपद्धति. 
+दूतलक्षण.
 
-1525 A. D. दशसंस्कारप्रकरण. 
+दूलालीय by दुलाल.
 
-दानचन्द्रिकावली by श्रीधरपति. दशादिकालनिर्णय. दशाहकर्मन् . 
+देवजानीय m. in नि. सि., विधानपारिजात, आचाररत्न of लक्ष्मण. Earlier than 1600 A. D.
 
-दानतत्त्व. दशाहविवाह by वैद्यनाथदीक्षित. 
+देवतावारिपूजा.
 
-दानदर्पण m. in शुद्धितत्त्व (vol. II. 
+देवतिलकपद्धति (marriage of an idol of विष्णु with लक्ष्मी). N. (new series) I. p. 179.
 
-p. 250) and तिथितत्त्व by रघु दानकमलाकर of कमलाकरभट्ट; sec. | 
+देवदासप्रकाश or सद्ग्रन्थचूडामणि by देवदासमिश्र, son of नामदेव, son of अर्जुन of the गौतमगोत्र. Extensive digest of leading rites with particular reference to lunations, and on श्राद्ध, आशौच, मलमास. Based, as the author says, [[P1048]] on कल्पतरु, कर्क, कृत्यदीप, स्मृतिसार, मिताक्षरा, कृत्यार्णव. Between 1350-1500 A. D. Baroda O. I. No. 5581.
 
-नन्दन. 111. 
+देवदासीय m. by नि. सि., विधानपारिजात, श्राद्धमयूख. (Probably the same as above).
 
-दानदिनकर by कमलाकर. दानकल्प quoted in अहल्याकामधेनुः | दानकल्पतरु of लक्ष्मीधर- part of | दानदिनकर by दिवाकर, son of दिनकर. 
+देवपद्धति m. in रुद्रकल्पद्रुम of अनन्तदेव. Probably the महारुद्रपद्धति of अनन्तदीक्षित.
 
-कल्पतरु; sec. 78. 
+देवप्रतिष्ठातत्त्व or प्रतिष्ठातत्त्व of रघुनन्दन. Vide sec. 107.
 
-दानदीधिति by नीलकण्ठ, son of दानकाण्डपर्व by साम्बाजी प्रतापराज | भास्कर। 
+देवप्रतिष्ठापद्धति.
 
-(from परशुरामप्रताप). 
+देवप्रतिष्ठाप्रयोग by श्यामसुन्दर, son of गङ्गाधरदीक्षित.
 
-दानदीपवाक्यसमुच्चयः H. D.-131 
+देवप्रतिष्ठाविधि (Bik. Cat. p. 380).
 
-1042 
+देवयाज्ञिकपद्धति (यजुर्वेदीय) of देवयाज्ञिक (pr. in Kashi S. Series).
 
+देवलस्मृति—vide sec. 23; pr. Ānan. Sm. pp. 85-89.
 
+देवस्थापनकौमुदी by शङ्कर, son of बल्लाल, surnamed घारे (Baroda O. I. 1464).
 
-दानधर्मप्रक्रिया by भवदेवभट्ट, son of ! दानप्रदीप by दयाराम. 
+देवालयप्रतिष्ठाविधि by रमापति.
 
-कृष्णदेवसन्मिश्र मैथिल. Names 
+देवीपरिचर्या m. in अहल्याकामधेनु.
 
-दानप्रदीप by दयाशङ्कर. भूपाल. In four काण्ड; ms. दानप्रदीप by महामहोपाध्याय माधव, (Mitra's Notices vol. V p. 144) 
+देवीपूजनभास्कर by शम्भुनाथ सिद्धान्तवागीश (N. vol. VII p. 154 gives date of completion as खयुगोर्मिशिवे शाके निशाचरतिथौ शुभे).
 
-son of facujemāa from Gurjar dated sake 1558, i. e. 1636- desa. 37 A. D. 
+देवीपूजापद्धति by चैतन्यगिरि.
 
-दानफलविवेक. दानपञ्जी or पञ्चिका by नवराज, son 
+देशान्तरमृतक्रियानिरूपण.
 
-दानफलव्रत- description of ceremo of देवसिंह of द्रोण family. N. vol. nies to be performed by wives V. p. 150. Peterson (5th Report estranged from husbands or by p. 177) reads नरराज and shows women afraid of being separat that सूर्यकर compiled it at the 
+देहशुद्धिप्रायश्चित्त (Aufrecht's Leipzig Cat. 673).
 
-ed from their sons. (I. O. Cat, bidding of नरराज. 
+दैवज्ञचिन्तामणि m. in टोडरानन्द.
 
-vol. III. p. 577). दानपञ्जी by रत्नाकर ठक्कुर -summa 
+दैवज्ञमनोहर by लक्ष्मीधर—m. by रघुनन्दन in ज्योतिस्तत्त्व and मलमासतत्त्व and in टोडरानन्द and by नि. सि.; (probably a purely astrological work). Earlier than 1500 A. D.
 
-दानभागवत by वर्णिकुबेरानन्द rises दानसागर, as he expressiy composed during the reign of says. 
+दैवज्ञवल्लभ by नीलकण्ठ or श्रीपति; m. by नि. सि. (probably a purely astrological work).
 
-संग्रामासंह. It is a huge work and दानपञ्जी by सूर्यकरशर्मन् - vide above 
+दोलयात्रा.
 
-is very valuable for the history under नवराज also. 
+दोलयात्रातत्त्व or दोलयात्राप्रमाणतत्त्व of रघुनन्दन; vide sec. 107 N. (new series) vol. I. p. 191.
 
-of the text of the Purāṇas and दानपद्धति - षोडशमहादानपद्धति by for Purāṇic rites, as it deals 
+दोलयात्राविवेक of शूलपाणि. Vide sec. 98.
 
-रामदत्त minister of कर्णाट king 
+दोलयात्रामृत by नारायणतर्काचार्य.
 
-principally with topics of धर्म नृसिंह of मिथिला. He was first 
+दोलारोहणपद्धति of विद्यानिवास.
 
-relying upon the पुराणs. Vdie cousin ( paternal ) of चण्डेश्वर. D.C. ms. No. 265 of 1887-91 First half of 14th century (I. which contains 392 folios. D. O. Cat. vol. III. p. 550 No. C. ms. No. 496 of 1886-92 is a 1714). The colophon describes 
+द्रव्यशुद्धि by रघुनाथ.
 
-fragment of it, on grammatical it as the work of भवशर्मन्, who 
+द्रव्यशुद्धिदीपिका by पुरुषोत्तम, son of पीताम्बर. Author describes himself as श्रीमद्वल्लभाचार्यचरणाब्जदासदास; quotes नि. सि., शुद्धिमयूख, दिनकरोद्योत; he was born in संवत् 1724 (1668 A. D.) and died about संवत् 1781; pr. in 1906.
 
-points arising out of पुराणs, is in the 4th introductory verse It gives various derivations of referreed to as born of the 
+द्राह्यायणगृह्यपरिशिष्ट.
 
-the word asoft as applied to the खोपालवंश and as an अग्निहोत्रिन् 
+द्राह्यायणगृह्यपूर्वापरप्रयोग.
 
-alphabet. It mentions वोपदेव and appointed (to compose the 
+द्राह्यायणगृह्यसूत्र vide खादिरगृह्यसूत्र; pr. at Ānandāśrama Press, Poona with com.  
+C. by रुद्रस्कन्द.  
+C. सुबोधिनी by श्रीनिवास.
 
-and so is later than 1300 A. D. work?). 
+द्राह्यायणगृह्यसूत्रकारिका by बालाग्निहोत्रिन्.
 
-दानमञ्जरी by व्रतराज. दानपरिभाषा by नीलकण्ठ. 
+द्राह्यायणगृह्यसूत्रप्रयोग by विनतानन्दन.
 
-दानमनोहर by सदाशिव, son of दानपरीक्षा by श्रीधरमिश्र. 
+द्रोणचिन्तामणि.
 
-त्रिपाठिपरमानन्द; composed in दानपारिजात by अनन्तभट्ट, son of | 
+द्वात्रिंशत्कर्मपद्धति.
 
-संवत् 1735 (1678-79 A. D.) by नागेश or नागदेव, son of जह of | _command of गौडेश महाराज काण्वकुल. 
+[[P1049]] द्वात्रिंशदपराध (Baroda O. I. No. 12225).
 
-मनोहरदास. दानपारिजात by क्षेमेन्द्र 
+द्वादशमासदेयदानरत्नाकर.
 
-दानमयूख by नीलकण्ठ, son of शङ्कर दानप्रकरण. 
+द्वादशयात्रातत्त्व or द्वादशयात्राप्रमाणतत्त्व of रघुनन्दन. On the twelve great festivals of Viṣṇu at Jagannathapuri.
 
-भट्ट. First half of the 17th दानप्रकार. 
+द्वादशयात्राप्रयोग by विद्यानिवास (about जगन्नाथ). N. (new series) I. p. 194.
 
-century (pr. in Kashi S. Series दानप्रकाश of मित्रमिश्र (part of वीर- __ and by Mr. Gharpure, Bombay). 
+द्वादशविधपुत्रमीमांसा.
 
-मित्रोदय). Vide sec. 113. । दानमहिमन् . 
+द्वादशाहकर्मविधि.
 
-List of works on Dharmaśāstra 
+द्विजकल्पलता by परशुराम in 6 उल्लासs. Hultzsch's Report III. p. 60.
 
-1043 
+द्विजराजोदय.
 
-दानमुकावली. 
+द्विजाह्निकपद्धति of ईशान, the elder brother of हलायुध. About 1170-1200 A. D.
 
-दानविजय. दानरत्न m. in दानचन्द्रिका 
+द्विभार्याग्नि.
 
-| दानविवेक m. by हेमाद्रिः दानचन्द्रिका, दानरत्न part of अनूपविलास. 
+द्विविधजलाशयोत्सर्गप्रमाणदर्शन by बुद्धिकरशुक्ल.
 
-दानमयूख of नीलकण्ठः दानरत्नाकर by चण्डेश्वर. Vide sec. 91. | 
+द्विसप्ततिश्राद्ध.
 
-दानविवेक by भानुदीक्षित, son of दानरत्नाकर by भट्टराम, son of मुद्रल, 
+द्वैततत्त्व of सिद्धान्तपञ्चानन.
 
-___ भट्टोजिदीक्षित. About 1650 A. D. of the great family; compiled under the direction of अनूपसिंह, | 
+द्वैतनिर्णय by चन्द्रशेखर वाचस्पति, son of विद्याभूषण. Calcutta Sanskrit College Mss. Cat. Vol. II. 79.
 
-दानविवेकोद्योत or दानोद्योत (from king of, जोधापुर in मरुविषय. 
+द्वैतनिर्णय by नरहरि; quoted by रत्नपाणि in क्षयमासादिविवेक; mentions रत्नाकर.
 
-मदनरत्न ). Gives genealogy of अनूपसिंह, 
+द्वैतनिर्णय of वाचस्पतिमिश्र (pr. in Śāstramālā Series, Benares). Vide sec. 101.  
+C. प्रकाश of जीर्णोद्धार by मधुसूदनमिश्र.  
+C. प्रदीप or कादम्बरी by गोकुलनाथ (I. O. Cat vol. III. p. 488).
 
-दानसंक्षेपचन्द्रिका by दिवाकर, son of whose ancestor to founded | महादेव. Vide दानचन्द्रिका above. 
+द्वैतनिर्णय by शङ्करभट्ट. About 1580-1600; on doubtful points of धर्म. Vide Annals of Bhandarkar Institute vol. III. part 2 pp. 67-72.
 
-Bikaner. भट्टराम says he com- | दानसागर by अनन्तभट्ट. posed at the king's bidding five दानसागर by कामदेवमहाराज, in imi other works अनूपविवेक ( on 
+द्वैतनिर्णय m. in व्रतराज by विश्वनाथ as composed by his grandfather. Latter half of the 17th century.
 
-___tation of बल्लालसेन's work. शालग्रामपरीक्षण ), सन्तानकल्प 
+द्वैतनिर्णयपरिशिष्ट or द्वैतपरिशिष्ट by केशवमिश्र; m. by रत्नपाणि; in two परिच्छेदs; dwells at great length on श्राद्धs. Vide Mitra's Notices V. p. 186.
 
-दान सागर by बल्लालसेन ( pr. in B. I. लतिका, अनूपकुतुकार्णव, अमृतमञ्जरी 
+द्वैतनिर्णयपरिशिष्ट by दामोदर, son of शङ्करभट्ट. About 1600-1640 A. D.
 
-Series in 1956 ). Vide sec. 84. (on antidotes against poisons) 
+द्वैतनिर्णयफक्किका m. in द्वैतनिर्णयपरिशिष्ट.
 
-दानसार, portion of and चिकित्सामालतीमाला. About 
+द्वैतनिर्णयसंग्रह by चन्द्रशेखर वाचस्पति, son of विद्याभूषण.
 
-नृसिंहप्रसाद. 
+द्वैतनिर्णयसिद्धान्तसंग्रह by भानुभट्ट, son of नीलकण्ठ, son of शङ्करभट्ट (whose द्वैतनिर्णय is summarised herein). About 1640-1670 A. D.
 
-___Vide sec. 103. 1675 A. D. दानवाक्य. 
+द्वैतविषयविवेक by वर्धमान, son of भवेश. About 1500 A. D.
 
-दानसारसंग्रह ( only section on वास्तु 
+द्वैतनिर्णयामृत m. in दायभागतत्त्व of रघु°.
 
-पूजा), Ulwar Cat. No. 1355 and दानवाक्यसमुश्चय by योगीश्वर ( Baro- | dao. I. ms. 10513 dated संवत 
+द्व्यामुष्यायणनिर्णय or -र्णयेन्दु by विश्वनाथ, son of कृष्णगुर्जर of नैध्रुवगोत्र (Baroda O. I. No. 12708). Mentions दिनकरोद्योत, कौस्तुभ. Later than 1680 A. D.
 
-extract 319. 1687 i. e. 1630-1 A. D. D. C. | दानसारावली ( vide Bik. Cat. p. ms. 332 of 1880-81 is dated | संवत् 1594. 
+धनञ्जयसंग्रह m. by रघु° in तिथितत्त्व.
 
-दानसौख्य m. in दानचन्द्रिका and दानवाक्यसमुच्चय by योगीश्वरः men- दानमयूख ( part of टोडरानन्द). 
+धनभागविवेक—vide भागविवेक.
 
-tioned in भोजदेवसंग्रह, a ms. of | दानहीरावलिप्रकाश by दिवाकर, son of which was copied in sake 1297 | भारद्वाज महादेव. He was daugh. ( 1375 A. D.). 
+धनिष्ठापञ्चक.
 
-ter's son of नीलकण्ठभट्ट. A ver. दानवाक्यावलि by नरराज. 
+धनुर्विद्यादीपिका m. by कमलाकर in नि. सि.
 
-sified summary of contents was दानवाक्यावलि by विद्यापति; compo. 
+धनुर्वेदचिन्तामणि by नरसिंहभट्ट.
 
-added to this work by his yoon sed at the direction of महादेवी 
+[[P1050]] धनुर्वेदसंग्रह alias वीरचिन्तामणि by शार्ङ्गधर.
 
-ger son वैद्यनाथ. He wrote धीरमती, queen of नरसिंहदेव दर्प 
+धनुर्वेदसंहिता by वसिष्ठ; pr. at Calcutta in महाराजा कुसुमचन्द्र series.
 
-आचारार्क in 1686 A. D. The नारायण of मिथिला; ms. dated 
+धर्मकारिका (author not known). 508 कारिकाs compiled from various authors. Mentions नि. सि., कौस्तुभ, कालतत्त्वविवेचन and मयूख, and so later than 1680 A. D. (vide BBRAS Cat. p. 219, No. 691).
 
-work is part of his धर्मशास्त्रसुधा संवत् 1539 ( 1483 A. D.). First 
+धर्मकोश by त्रिलोचनमिश्र m. by वर्धमान and in आह्निकतत्त्व by रघु. The work deals with व्यवहारपदs, दायभाग, ऋणादान etc.
 
-निधि. Vide under आचारार्क (I. half of 15th century. Vide 
+धर्मचन्द्र by केशवराय, son of गोविन्दराय, son of रामराय of भारद्वाजगोत्र. Based on आश्वलायनगृह्य and its परिशिष्ट. Divided into किरणs on आचार, &c. Baroda [[O. J.|O. I.]] No. 5860 is dated संवत् 1810.
 
-O. Cat. vol. III. pp. 547-48). Bhandarkar's Report 1883-64 
+धर्मतत्त्वकमलाकर by कमलाकरभट्ट, son of रामकृष्ण. Divided into ten परिच्छेदs on व्रत, दान, कर्मविपाक, शान्ति, पूर्त, आचार, व्यवहार, प्रायश्चित्त, शूद्रधर्म, and तीर्थ. Bik Cat. p. 99.
 
-अनुक्रमणिका by वैद्यनाथ, son of p 352 for extract. 
+धर्मतत्त्वकलानिधि by पृथ्वीचन्द्र, son of नागमल्ल. His बिरुदs are कलिकालकर्णप्रताप, परमवैष्णव. Divided into ten प्रकाशs, 7th being on आशौच. Baroda O. I. No. 4006. Vide sec. 105.
 
-the author. दानवाक्यावलि Anonymous ( D. C. दानहेमाद्रि- part of चतुर्वर्गचिन्ता 
+धर्मतत्त्वप्रकाश by शिवचतुर्धर, son of गोविन्ददीक्षित of कर्पूरग्राम (Kopargaon on the गोदावरी). Composed in śake 1698 (नागाङ्करसभू) i. e. 1776 A. D. at प्रतिष्ठान on the Ganges (Allahabad). Hultzsch (Report No. III p. V. wrongly says that he composed it in 1746 A. D. though in his extract at p. 84 he gives नागाङ्करसभूशाके as the date).
 
-ms. No. 367 of 1891-95). 
+धर्मतत्त्वसंग्रह by महादेव.
 
-मणि , q. v. 
+धर्मतत्त्वार्थचिन्तामणि.
 
-375). 
+धर्मतत्त्वावलोक vide गोविन्दार्णव alias स्मृतिसागर.
 
-।।।।। 
+धर्मदीप m. in आह्निकचन्द्रिका of दिवाकर.
 
-1044 
+धर्मदीपिका or स्मृतिप्रदीपिका by चन्द्रशेखर वाचस्पति. Reconciles discordant opinions on points of धर्म.
 
+धर्मद्वैतनिर्णय—vide द्वैतनिर्णय of शङ्करभट्ट.
 
+धर्मनिबंध by रामकृष्णपण्डित.
 
-दानार्णव composed by order of | Vide I. O. Cat. vol. III. p. 462 
+धर्मनिबन्धन.
 
-queen धीरमती, wife of वीरनारा- No. 1523 ; p. 463 No. 1524 यण नरसिंहदेव (कामेश्वरराजपण्डित) shows that there is some copfa of मिथिला. First half of 15th sion between गोपाल and श्रीकर century. 
+धर्मनिर्णय by कृष्णताताचार्य.
 
-शर्मा. दानोदयोत -same as दानविवेकोदद्योत | दायभाग of जीमूतवाहन. Vide sec. 
+धर्मपद्धति of नारायणभट्ट.
 
-(a part of मदनरत्नप्रदीप). 
+धर्मपरीक्षा by मञ्चरदास
 
-79; (pr. with seven com. by 
+धर्मप्रकाश by माधव. D. C. ms. No. 221 of 1886-92 deals with समयालोक i. e. व्रतs in चैत्र and the other months mentions माधवीय, वाचस्पतिमिश्र, पुराणसमुच्चय. Later than 1500 A. D.
 
-Bharatachandra for Prasanna दानोयोत by कृष्णराम. 
+धर्मप्रकाश or सर्वधर्मप्रकाश by शङ्करभट्ट, son of नारायणभट्ट and पार्वती. Latter half 16th century. Says that he follows [[ths|the]] works of मेधातिथि, अपरार्क, विज्ञानेश्वर, स्मृत्यर्थसार, कालादर्श, चन्द्रिका, हेमाद्रि, माधव, नृसिंह, [[त्रिस्थुलीसेतु|त्रिस्थलीसेतु]]. Refers to his own शास्त्रदीपिकाप्रकाश. For a part of it on संस्कार vide I. O. Cat. [[yol|vol.]] III p. 482 No. 1564.
 
-Kumar Tagore, 1863-66). दामोदरीय m. in निर्णयदीपक and 
+[[P1051]] धर्मप्रदीप or -दीप m. by स्मृतिचन्द्रिका (आशौचकाण्ड p. 63). प्रायश्चित्तविवेक of शूलपाणि, शुद्धितत्त्व of रघु°, कालादर्श etc.
 
-C. by दायभागप्रबोधिनी (pr. at शुद्धिमयूख and समयमयूख ; earlier Calcutta 1893, 1898). than 1500 A. D. 
+धर्मप्रदीप by गङ्गाभट्ट.
 
-C.दायभागसिद्धान्तकुमुदचन्द्रिका by दायकौमुदी by पीताम्बर सिद्धान्त 
+धर्मप्रदीप by धनञ्जय; N. (new series) II p. 46 (on गोत्र only).
 
-अच्युत चक्रवर्ती, son of हरिदास वागीश. About 1604 A. D.; pr. तर्काचार्य; criticizes श्रीनाथ's at Calcutta 1904. 
+धर्मप्रदीप by वर्धमान.
 
-टीका and he is quoted by 
+धर्मप्रदीप of भोज—vide p. 591 of the text. Composed between 1400 and 1600 A. D.
 
-महेश्वर and श्रीकृष्ण 1500-1550 दायक्रमसंग्रह of श्रीकृष्ण तर्कालङ्कार 
+धर्मप्रदीपिका com. on अभिनवषडशीति (q. v.) by सुब्रह्मण्य, son of वेङ्कटेश.
 
-A. D. (pr. at Calcutta, 1828 and translated by Wynch ); men. 
+धर्मप्रवृत्ति by नारायणभट्ट; m. by शङ्करभट्ट in द्वैतनिर्णय, by शुद्धिचन्द्रिका of नन्दपण्डित and in व्यवहारमयूख. Treats of daily duties (āhnika), śauca, गर्भाधान and other संस्कारs, गोत्रनिर्णय, श्राद्ध, आशौच, दान, प्रायश्चित्त, तिथिनिर्णय, स्थालीपाक. Mentions माधवीयकालनिर्णय, मदनपारिजात, प्रयोगपारिजात, महार्णव, अनन्ताचार्य, कालादर्श, नारायणवृत्ति on आश्वलायन; m. by नन्दपण्डित in श्राद्धकल्पलता. I. O. ms. (vide Cat. p. 480 No. 1560) is dated संवत् 1659 (1602-03 A. D.). So between 1400-1600 A. D. Vide p. 907 above.
 
-C. by उमाशङ्कर. tions आचार्यचूडामणि. 
+धर्मप्रश्न (आपस्तम्बीय)—part of आपस्तम्बधर्मसूत्र.
 
-C. by कृष्णकान्त शर्माः 
+धर्मबिन्दु.
 
-C. by गङ्गाधर. दायतत्त्व or दायभागतत्व of रघुनन्दन ( pr. by Jivananda). Vide sec. 
+धर्मबोधन.
 
-C. by गङ्गाराम. 107. 
+धर्मभाष्य m. in स्मृतिचन्द्रिका and हेमाद्रि (III. 2. 747).
 
-C. दायदीप by श्रीकृष्णतर्कालङ्कार, 
+धर्ममार्गनिर्णय (Baroda O. I. 11821).
 
-whose daughter's son was C. by काशीराम वाचस्पति 
+धर्मरत्न—a digest by जीमूतवाहन of which the कालविवेक and दायभाग are parts.
 
-living in 1790 A. D. ( pr.in C. by राधामोहन. 
+धर्मरत्न by भैय्याभट्ट; son of भट्टारकभट्ट. Divided into दीधितिs on आह्निक and other subjects.
 
-1863). C. by वृन्दावन शुक्ल. 
+धर्मरत्नाकर by रामेश्वरभट्ट; on धर्मस्वरूप, तिथिमासलक्षण, प्रतिपदादिषु, विहितकृत्यविधान, उपवास, युगादिनिरूपण, संक्रान्ति, अद्भुत, आशौच, श्राद्ध, वेदाध्ययन, अनध्याय etc.
 
-C. by नीलकण्ठ. C. Ano. N. ( new series) vol. C. by मणेश्वर (vide I. L. R. 48 
+धर्मविवृति m. in मद. पा. (p. 772) on the constitution of परिषद्, संस्कारमयूख and प्रायश्चित्तमयूख. मद. पा. 753 quotes a धर्मवृत्ति (on प्रायश्चित्त). It seems probable that both are identical and are the same as धर्मभाष्य above.
 
-II. p. 80. 
+धर्मविवेक by चन्द्रशेखर; explains and illustrates मीमांसान्यायs.
 
-Cal. 702). दायदशश्लोकी in ten शार्दूलविक्रीडित C. by महेश्वर ; quotes अच्युतचक्र 
+धर्मविवेक by विश्वकर्मन्, son of दामोदर and हीरा and grandson of भीम. Deals with fasts and festivals in 8 काण्डs; quotes कालमाधव, मदनरत्न, हेमाद्रि सिद्धान्तसंग्रह. Between 1450-1525 A. D. Vide Ulwar Cat. extract 320 for detailed contents where the ms. is dated संवत् 1583.
 
-verses on inheritance ( pr. by वर्ती (pr. in 1863). Burnell at Mangalore ). 
+धर्मविवेचन by रामसुब्रह्मण्यशास्त्रिन्, son of रामशङ्कर.
 
-C. by रघुनन्दन (pr. in 1863), C. by दुर्गय, son of वासुदेव. ___son of हरिहर. दायदीप, com. on दायभाग. Vide | C. by रामनाथ विद्यावाचस्पति. 
+धर्मशास्त्रकारिका.
 
-under दायभाग. 
+धर्मशास्त्रनिबन्ध by फकीरचन्द्र.
 
-C. विवृति or दीपिका by रामभद्र, 
+धर्मशास्त्रसंग्रह—collection of स्मृति texts on श्राद्ध; BBRAS Cat. p. 219 No. 692.
 
-son of श्रीनाथ आचार्य चूडामणि दायनिर्णय by गोपालपञ्चानन. Summ 
+[[P1052]] धर्मशास्त्रसंग्रह by बालशर्मपायगुण्ड, son of वैद्यनाथ and लक्ष्मी. I. O. Cat. p. 458. Vide sec. 116. About 1800 A. D.
 
-quoted in अच्युत's टीका (pr. _ary of रघुनन्दन' दायतत्त्व. 
+धर्मशास्त्रसर्वस्व by भट्टोजि. About 1600-1650 A. D.
 
-in 1863). दायनिर्णय by विद्याधर 
+धर्मशास्त्रसुधानिधि of दिवाकर. Composed in 1686 A. D. Vide आचारार्क above.
 
-C. by श्रीनाथ, son of श्रीकराचार्य; दायनिर्णय by श्रीकरशर्मा, quotes मदन- criticized by अच्युत (pr. in 
+धर्मसंहिता or धर्मस्मृति m. by कालविवेक of जीमूत°.
 
-पारिजात, दायभाग and वाचस्पतिः | 1863). 1475-1525 A. D, 
+धर्मसंग्रह by नारायणशर्मन्.
 
-List of works on Dharmaśāstra 
+धर्मसंग्रह by हरिश्चन्द्र.
 
-1045 
+धर्मसंप्रदायदीपिका by आनन्द.
 
-C. by सदाशिव. 
+धर्मसार by पुरुषोत्तम (ms. copied in śake 1607, vide Hp. Cat. p. XV).
 
-दायविभाग by कमलाकर. C. by हरिदीक्षितः 
+धर्मसार by प्रभाकर—m. in आचारमयूख. Earlier than 1600 A. D.
 
-दायसंक्षेप by गणेशभट्ट दायभाग-a portion of व्यवहारनिर्णय 
+धर्मसारसमुच्चय—same as चतुर्विंशतिस्मृतिधर्मसारसमुच्चय.
 
-दायसंग्रहश्लोकदशकव्याख्या by दुर्गय, of वरदराज. 
+धर्मसारसुधानिधि m. in आह्निकचन्द्रिका of दिवाकर काल and in com. on चतुर्विंशतिमत by भट्टोजि (vide BBRAS Cat. p 216).
 
-_son of वासुदेव. Vide दायदश दायभाग-a portion of the विवाद 
+धर्मसिन्धु or धर्मसिन्धुसार by काशीनाथ alias बाबा पाध्ये. Vide sec. 117.
 
-श्लोकी. भङ्गार्णव of जगनाथ दायभाग by वैद्यनाथ. 
+धर्मसिन्धु by मणिराम.
 
-दायाधिकारक्रमसंग्रह by श्रीकृष्णतर्का दायभागकारिका by मोहनचन्द्र विद्या | 
+धर्मसुबोधिनी by नारायण. Compiled from विज्ञानेश्वर, माधव and मदनरत्न.
 
-लङ्कार. वाचस्पति. N. (new series) I. 172. | दायाधिकारक्रमसंग्रह by कृष्ण or जय दायभागनिर्णय or -विनिर्णय by कामदेव कृष्ण तालङ्कार. Ulwar Cat. No. 
+धर्मसेतु by निर्मल of पराशर gotra on व्यवहार. Refers to विज्ञानेश्वर.
 
-(I. O. Cat. p. 463). 
+धर्मसेतु by रघुनाथ. A vast work.
 
-1356. Seems to be same as the दायभागनिर्णय by भट्टोजि (Peterson's preceding. 
+[[धर्मानमानुबन्धिश्लोक|धर्मानुबन्धिश्लोक]] by कृष्णपण्डित.  
+C. by रामपण्डित.
 
-6th Report No. 84). 
+धर्माधर्मप्रबोधिनी of प्रेमनिधि ठक्कुर, son of इन्द्रपति ठक्कुर. He hailed from माहिष्मती in the territory of निजामशाह but compiled the digest in Mithilā in संवत् 1410 (1353-54 A. D.). Contains twelve chapters on आह्निक, पूजा, श्राद्ध, आशौच, शुद्धि, विवाह, religious benefactions, आपद्धर्म, optional feasts, pilgrimages, प्रायश्चित्त, कर्मविपाक and duties common to all classes. Vide N. vol. VI. pp. 18-20. M. M. Chakravarti (JASB for 1915 pp. 392-393) says that संवत् 1410 must be taken to be śake, since विक्रम era was not in use in मिथिला. But this is not very convincing.
 
-दायाधिकारिक्रम by लक्ष्मीनारायण. दायभागनिर्णय by व्यासदेव. 
+धर्माधर्मव्यवस्था.
 
-दालभ्यकृतधर्मशास्त्र (on श्राद्ध) D. दायभागनिर्णय of श्रीकर-vide दाय C. Ms. No. 267 of 1887-91 
+धर्माध्वबोध by रामचन्द्र.
 
-निर्णय above. 
+धर्मामृत m. by वर्धमान in तत्त्वामृतसारोद्धार. Probably धर्मामृत may not be a work at all, but may refer in general to works on धर्म.
 
-contains prose passages about दायभागविवेक alias दायरहस्य by राम 
+धर्मामृतमहोदधि by रघुनाथ, son of अनन्तदेव.
 
-प्रयोग नाथ विद्यावाचस्पति; a com. on | दालभ्यपद्धति ( Baroda O. I. No. दायभाग of जीमूतवाहन composed 8156 ). On rites of death and in 1657 A, D. Part of para after death, रत्नावलि. N. vol. V. p. 154. 
+धर्माम्भोधि—same as अनूपविलास.
 
-दासीदान. दायभागव्यवस्था of सार्वभौम in 8 
+धर्मार्णव of पीताम्बर, son of काश्यपाचार्य. Vide Bik. Cat. p. 383 (on तिथिनिर्णय), which ms. is dated 1681 A. D.
 
-| दाहादिकर्मकर्तृनिर्णय by याज्ञिकदेव तरङ्गs. Composed in (शाकेग्निमङ्गल हरास्यकलानिधाने) sake 1583 i.e. 
+धवलनिबन्ध m. in अन्त्येष्टिपद्धति of नारायण, by रघु° and in निर्णयामृत.
 
-सम्राट्स्थपति. 1661-62 A. D.: composed for | दाहादिकमेपद्धति. राघव. 
+धवलसंग्रह m. in कालविवेक of जीमूतवाहन, कालसार of गदाधर (धवलनिबन्ध and धवलसंग्रह are probably the same).
 
-दिनकरोद्योत or शिवधुमाणिदीपिका दायभागव्यवस्थासंक्षेप by गणेशभट्ट ___begun by दिनकर alias दिवाकर, 
+[[P1053]] धान्याचलादिदानतत्त्व (on gifts of heaps of corn). N. (new series) II. p. 88.
 
-(part of व्यवस्थासंक्षेप). 
+ध्वजोच्छ्राय—from पूर्तकमलाकर.
 
-son of रामकृष्णभट्ट, son of नारा दायभागसिद्धान्त of बलभद्र तर्कवागीश 
+नक्तकालनिर्णय.
 
-यणभट्ट and finished by his son भट्टाचार्य (I. O. Cat. p. 465). 
+नक्षत्रयोगदान.
 
-विश्वश्वर alias गागाभट्ट; contains 
+नक्षत्रविधान.
 
-sections on आचार, माशौच, काल, दायभागसिद्धान्तकुमुदचन्द्रिका, com. 
+नक्षत्रशान्ति by बौधायन (D. C. Ms. No. 97 of A 1882-83).
 
-दान, पूर्त, प्रतिष्ठा, प्रायश्चित्त, व्यवहार, on दायभाग. Vide above. 
+नयमणिमालिका.
 
-वर्षकृत्य, व्रत, शूद्र, श्राद्ध and दायभागार्थदीपिकापद्यावली by रघुराम, संस्कार. 
+नवकण्डिकाश्राद्धसूत्र or श्राद्धकल्पसूत्र 6th परिशिष्ट of कात्यायन. Vide under श्राद्धकल्प.  
+C. by कर्क.  
+C. श्राद्धकाशिका by कृष्णमिश्र, son of विष्णुमिश्र; composed in 1448-49 A. D.  
+C. श्राद्धकल्पसूत्रपद्धति by अनन्तदेव.
 
-pupil of रघुमणि. N. (new series) दिनत्रयनिर्णय of विद्याधीशमुनि. vol. I p. 174; towards end of 
+नवग्रहदान.
 
-| दिनत्रयमीमांसा of नारायण ( for माध्य 18th century. 
+नवग्रहमख—attributed to वसिष्ठ.
 
-_followers). दायमुक्तावली by टीकाराम. | दिनदीपिका. दायरहस्य -vide दायभागविवेक of | दिनभास्कर of शम्भुनाथ सिद्धान्त 
+नवग्रहयज्ञ (Baroda O. I. 2279).
 
-रामनाथ 
+नवग्रहयज्ञामृत (Baroda O I. 6887).
 
-| वागीश. Manual of daily religious 
+नवग्रहयागविधि.
 
-CHOTI 
+नवग्रहशान्ति—Vide under वासिष्ठी.
 
-1046 
+नवग्रहशान्तिपद्धति by शिवराम, son of विश्राम for सामवेद followers I. O. Ms. (Cat. p. 570) copied in संवत् 1806 (1749 A. D.).
 
+नवग्रहस्थापना BBRAS Cat. vol. II. p. 243.
 
+नवग्रहहोम.
 
-duties of householders. About | दीपकलिका of शूलपाणि, com. on 1715 A. D. 
+नवनीतनिबन्ध by रामजी. Is it same as निबन्धनवनीत?
 
-याज्ञवल्क्य स्मृति. Vide sec. 98.; दिवस्पतिसंग्रह m. by जीमूतवाहन's 
+नवमूर्तिप्रतिष्ठाविधि.
 
-pub. by Mr. Gharpure in his कालविवेक. 
+नवरत्नदान.
 
-series of Hindu Law texts. दिवोदासप्रकाश m. by कालनिर्णय 
+नवरत्नमाला by प्रह्लादभट्ट.
 
-दीपदान. चन्द्रिका of दिवाकर 
+नवरात्रकृत्य.
 
-दीपदानविधि or -कारिका. 
+नवरात्रनिर्णय by गोपालव्यास.
 
-दीपमालिका. दिवोदासीय m. by नि. सि., विधान 
+नवरात्रप्रदीप by नन्दपण्डित (pr. in सरस्वतीभवन Series No. 23).
 
-दीपश्राद्ध. पारिजात, शुद्धिचन्द्रिका. Earlier 
+नवविवेकदीपिका by वरदराज.
 
-दीपावलिप्रयोग. than 1500 A. D. Probably the 
+नवान्नभाष्यनिर्णय by गौरीनाथचक्रवर्तिन् (Baroda O. I. 10219).
 
-दीपिका -Occurs in the name of same as दिवोदासप्रकाश. 
+नवान्नविधि.
 
-___ several works such as काल दिव्यतत्त्व of रधुनन्दन. Vide sec. 107. / निर्णयदीपिका, श्राद्धदीपिका &c. ____C. लघुटीका by मथुरानाथ शुक. दीपोत्सव निर्णय (Baroda 0. I. 10625 दिव्यतन or तन्त्रकौमुदी m. by देवनाथ; 
+नव्यधर्मप्रदीप by कृपाराम, pupil of जयराम and patronised by त्रिलोकचन्द्र and कृष्णचन्द्र, Zamindars of Bengal in the 2nd half of 18th century. N. (new series) vol. II. p 92.
 
-___dated 1757 संवत्). mentions only Vaiṣnavite 
+नागदेवाह्निक m. in शूद्रकमलाकर. Earlier than 1600 A. D.
 
-दुर्गभञ्जन (alias स्मृतिदुर्गमञ्जन) by 
+नागदेवीय m. in आचारमयूख; seems to be the same as नागदेवाह्निक.
 
-चन्द्रशेखरशर्मा, ३ वारेन्द्रब्राह्मण of rites. (Mitra's Notices vol. VI 
+नागप्रतिष्ठा by बौधायन.
 
-नवद्वीप. For ehapters on तिथि, p. 32, ms. copied in 1551 sake i. e. 1629-30 A. D.). 
+नागप्रतिष्ठा by शौनक.
 
-मास, persons qualified to per 
+नागबलि by शौनक.
 
-furm religious ceremonies such दिव्यदीपिकाof दामोदरठक्कुर, compiled 
+नागबलिसंस्कार.
 
-as दुर्गापूजा, fasts and penances; under Muhamad Shah (N. vol. solves doubts on points of V. p. 282). 
+नागार्जुनीयधर्मशास्त्र on आचार, especially स्त्रीधर्म.
 
-dharma. दिव्यनिर्णय of दामोदरठक्कर, compiled | दुर्गातत्त्व- Vide दुर्गोत्सवतत्त्व. 
+नानाशास्त्रार्थनिर्णय by वर्धमान, son of भवेश. About 1500 A. D.
 
-under संग्रामशाह (N. vol. VI. p. 
+नान्दीमुखनिरूपण by हृदयनाथ.
 
-दुर्गातत्त्व by राघवभट्ट. 40). Earlier than 1575 A. D. | 
+नान्दीमुखश्राद्धप्रयोग.
 
-| दुर्गापुरश्चरणपद्धति. Vide under विवेकदीपक of 
+नान्दीश्राद्धपद्धति by रामदत्त मन्त्रिन्, son of गणेश्वर. First half of 14th century.
 
-दुर्गाभक्तितरङ्गिणी or दुर्गोत्सवपद्धति दामोदर 
+[[P1054]] नारदस्मृति (ed by Dr. Jolly).  
+C. by असहाय, as amended by कल्याणभट्ट.  
+C. by रमानाथ.
 
-ascribed to नरसिंहदेव of मिथिला, 
+नारदीय—m. in the समयमयूख and other मयूखs. Probably the नारदपुराण.
 
-composed by विद्यापति. This was दिव्यसंग्रह by सदानन्द. 
+नारायणधर्मसारसंग्रह.
 
-his last work. Praises धीरासिंह, दिव्यसिंहकारिका by दिव्यसिंह. An son of acima, and his brother 
+नारायणपद्धति m. in ज्योतिस्तत्त्व and मलमासतत्त्व of रघु°.
 
-Abridgemont in verse of his भैरवेन्द्र who is here styled रूप. कालदीप and श्राद्धदीप. 
+नारायणप्रबोधोत्सव.
 
-नारायण, though elsewhere he is दिव्यानुष्ठानपद्धति by नारायणभट्ट, son called हरिनारायण (vide Ind. 
+नारायणबलिपद्धति by दाल्भ्य (Baroda O. I. 11497).
 
-of रामेश्वरभट्ट. Vide sec. 108. N. Ant. vol. 14 p. 193). About (new series) vol. III. p. 92. 1438 A. D.; pr. in Calcutta, 
+नारायणबलिप्रयोग by कमलाकर, son of रामकृष्ण.
 
-1909. Mentions रत्नाकर. दीक्षातत्त्व by रघुनन्दन. Vide sec. 107. 
+नारायणभट्टी. The same as प्रयोगरत्न and अन्त्येष्टिपद्धति by नारायणभट्ट.
 
-दुर्गाभक्तितरङ्गिणी of माधव. दीक्षातत्त्वप्रकाशिका of रामकिशोर (C. 
+नारायणमिश्रीय.
 
-दुर्गाभक्तिप्रकाश m. by रघुनन्दन in - P. Cat. No. 2202. 
+नारायणवृत्ति m. in आचारमयूख. probably the com. on आश्वलायनगृह्य by नारायण.
 
-दुर्गोत्सवतत्त्व. दीक्षानिर्णय. 
+नारायणस्मृति m. by अपरार्क.
 
-| दुर्गाभक्तिलहरी by रघूत्तमतीर्थ: 
+नित्यकर्मपद्धति (Baroda O. I. ms. No. 603 dated संवत् 1547 i. e. 1490-91 A. D.).
 
-List of works on Dharmaśāstra 
+नित्यकर्मपद्धति by श्रीधर, son of प्रभाकरनायक for माध्यन्दिनशाखा, based on कात्यायन. Also called श्रीधरपद्धति. D. C. Ms No 228 of 1886-92. D. C. Ms. No. 119 of 1884-85 is dated संवत् 1434 i. e. 1377-8 A. D.
 
-1047 
+नित्यकर्मप्रकाशिका by कुलनिधि.
 
-दुर्गार्चनकल्पतरुः 
+नित्यकर्मलता of धीरेन्द्रपञ्चीभूषण, son of धर्मेश्वर.
 
-दुर्गोत्सवतत्त्व by रघुनन्दन. Vide sec. दुर्गार्चनामृतरहस्य by मथुरानाथ शुक्लः | 107. दुर्गार्चाकालनिष्कर्ष by मधुसूदन वाच-दर्गोत्सवनिर्णय by गोपाल ( N. rol. 
+नित्यदानादिपद्धति by शामजित् त्रिपाठिन्. Quotes महार्णव.
 
-Fifa. N. (new series ), vol. I. 
+नित्यस्नानपद्धति by कान्हदेव ([[Barode|Baroda]] O. I. 4011).
 
-____VI p. 210). p. 81. 
+नित्याचारपद्धति by गोपालानन्द.
 
-| दुर्गोत्सवनिर्णय by न्यायपज्ञानन दुर्गा कौमुदी by परमानन्दशर्मन् 
+नित्याचारपद्धति of विद्याकर वाजपेयिन्, son of शम्भुकर (pr. in B. I. Series). For वाजसनेयशाखा. Between 1350-1500 A. D.
 
-( name not given). Mitra दुर्गा मुकुर by कालीचरण in two | appears to regard this as differ 
+नित्याचारप्रदीप by नरसिंह वाजपेयिन् of कौत्सवंश, son of मुरारि and grandson of धराधर and pupil of विघ्नेश्वर; migrated to काशी. Family came from उत्कल; quotes कल्पतरु, प्रपञ्चसार, माधवीय. A very large work. Later than 1400 A. D. (pr. in B. I. Series, 2 parts pp. 1-725). Ulwar Cat. extract 322.
 
-खण्डs, first describing जगद्धात्री- ent from above, while Aufre पूजा and the 2nd कालिकापूजा. cht holds them identical. N. It speaks of the night on 
+नित्यादर्श m. by कालादर्श of आदित्यभट्ट.
 
-vol. VII. p. 7. कार्तिक शुक्लनवमी while the well known दुर्गापूजा is in आश्विन 
+नित्यानुष्ठानपद्धति by बलभद्र.
 
-दुर्गोत्सवपद्धति vide दुर्गाभक्तितरङ्गिणी. 
+निबन्धचूडामणि by यशोधर (Bik. Cat. p. 322). Contained at least 62 प्रकाशs and dealt with शान्तिs.
 
-दुर्गोत्सवप्रमाण by रघुनन्दन. Calcutta. दुर्गार्णव m. in धर्मप्रवृत्ति 
+निबन्धन m. by सरस्वतीविलास.
 
-Sanskrit College Mss. Cat. Vol. दुर्गावतीप्रकाश alias समयालोक by II. pp. 310-311 No. 336. 
+निबन्धनवनीत by रामजित्. Divided into four आस्वादs on सामान्यतिथिनिर्णय, व्रतविशेषनिर्णय, उपाकर्मकाल and श्राद्धकाल. Mentions अनन्तभट्ट, हेमाद्रि, माधव and निर्णयामृत as his authorities. D. C. Ms. No. 102 of 1882-83 was copied in संवत् 1673. Between 1400-1600 A. D.
 
-पद्मनाभ, son of बलभद्र. In seven 
+निबन्धराज Vide under समयप्रकाश.
 
-| दुर्गोत्सवविवेक by शूलपाणि. Vide भालोकs. Composed under pa 
+निबन्धशिरोमणि by नृसिंह (Baroda O. I. 4012 and 9212). A huge work on संस्कारs, astrological [[P1055]] information about वार, नक्षत्र etc., अनुपनीतधर्म, कर्मविपाक.
 
-___sec. 98. tronage of दुर्गावती, queen of दलपति, king on the नर्मदा and 
+निबन्धसर्वस्व by महादेव, son of श्रीपति. Vide under प्रायश्चित्ताध्याय. A निबन्धसर्वस्व is m. in नृसिंहप्रसाद.
 
-दुर्गोत्सवविवेक by श्रीनाथ आचार्यचूडा father of वीरसाहि; vide Bik. | 
+निबन्धसार by वचिय, son of श्रीनाथ. A huge work in three अध्यायs on आचार, व्यवहार and प्रायश्चित्त. D. C. Ms. 123 of 1884-86 is dated संवत् 1632; m. in धर्मप्रवृत्ति.
 
-मणि. Cat. p. 450 and I. O. Cat. p. 536 | दुष्टरजोदर्शनशान्ति (from प्रयोगरत्न of No. 1680; m. by शङ्करभट्ट in | नारायणभट्ट). द्वैतनिर्णय and names निर्णयामृत, | दूतयोगलक्षण. मदनपारिजात, मदनरत्न. Between 
+निबन्धसिद्धान्तबोध by गङ्गाराम.
 
-दूतलक्षण 1460-1550 A. D. Deals with 
+निर्णयकौस्तुभ by विश्वेश्वर m. by रघुनन्दन and शङ्कर in संस्कारभास्कर.
 
-दूलालीय by दुलाल. निर्णयs on तिथि, संक्रान्ति, मलमास etc. Is this of the same as 
+निर्णयचन्द्रिका by शङ्करभट्ट, son of नारायणभट्ट.
 
-देवजानीय m. in नि. सिः, विधानपारि the author of नृसिंहप्रसाद ! The 
+निर्णयचिन्तामणि by विष्णुशर्मन् महायाज्ञिक at the instance of श्रीराज जालमदास, son of विदुर, a वैश्य of the गोभिलगोत्र (Stein's Cat. p. 308 contains the [[porion|portion]] on मलमास).
 
-जात, आचाररत्न of लक्ष्मण. Earlier 
+निर्णयतत्त्व by नागदैवज्ञ, son of शिव (C. P. Cat. No. 2598); he is author of आचारप्रदीप, which is quoted in आचारमयूख. Earlier than 1450 A. D. (Ulwar Cat. No. 1256).
 
-than 1600 A. D. seven sections are on समय, व्रत, भाचार, व्यवहार, दान, शुद्धि, ईश्वरा- देवतावारिपूजा. राधन (or पूजा?). 
+निर्णयतरणि.
 
-देवतिलकपद्धति ( marriage of an दुगोत्सवकृत्यकौमुदी by शम्भुनाथ- ___idol of विष्णु with लक्ष्मी ). N. 
+निर्णयदर्पण by गणेशाचार्य (C. P. Cat. No. 2599).
 
-सिद्धान्तवागीश. Mentions संवत्सर ( new series) I. p. 179. प्रदीप, वर्षकृत्य. He was a pandit देवदासप्रकाश or सद्ग्रन्थचूडामणि by at the court of the king of 
+निर्णयदर्पण by शिवानन्द, son of तारापति ठक्कुर. On श्राद्ध and other rites.
 
-देवदासमिश्र, son of नामदेव, son कामरूप. About 1715 A. D. 
+निर्णयदीप m. in नि. सि., आचाररत्न of लक्ष्मण.
 
-of अर्जुन of the गौतमगोत्र. Exten दुर्गोत्सवचन्द्रिका by भारतीभूषण वर्ध- sive digest of leading rites with 
+निर्णयदीपक by अचल द्विवेद, one of the three sons of वत्सराज and pupil of भट्टविनायक. He was from वृद्धपुर and of मडोड subsection of नागरब्राह्मणs and was also styled भागवतेय. He wrote also ऋग्वेदोक्तमहारुद्रविधान before this work. The work deals with श्राद्ध, आशौच, eclipses, तिथिनिर्णय, उपनयन, विवाह, प्रतिष्ठा. The work was finished in संवत् 1575 ज्येष्ठकृष्णद्वादशी (i. e. in 1518 A. D.); quotes विश्वरूपनिबन्ध, दीपिकाविवरण, निर्णयामृत, कालादर्श, पुराणसमुच्चय, आचारतिलक. Vide Ulwar Cat. extract No. 323. He has the verse ये नाम केचिदिह (मालतीमाधव I) in his introductory verses; pr. at Nadiad, 1897.  
+C. देवजानीय m. in निर्णयसिन्धु, विधानपारिजात. Between 1520-1600 A. D.
 
-मान महापात्र at the instance of particular reference to luna prince रामचन्द्रदेव गजपति of _tions, and on श्राद्ध, आशौच, मल Orissa. 
+निर्णयदीपिका by वत्सराज m. in नि. सि. and श्राद्धमयूख. Probably same as निर्णयदीपक by अचल.
 
-मास. Based, as the author says, 
+निर्णयपीयूष m. in स्मृतिसारोद्धार of विश्वम्भर.
 
-1048 
+निर्णयप्रकाश.
 
+निर्णयप्रदीपिका m. in श्राद्धकल्पलता of नन्दपण्डित.
 
+निर्णयबिन्दु by अनन्तदेव, son of महादेव, on तिथिs.
 
-on कल्पतरु, कर्क, कृत्यदीप, स्मृतिः । तत्त्व and in टोडरानन्द and by नि. सार, मिताक्षरा, कृत्यार्णव. Between | f.;( probably a purely astro 1350-1500 A. D. Baroda O. I. logical work). Earlier than 
+निर्णयबिन्दु by बुक्कण.
 
-No. 5581. 
+निर्णयभास्कर by नीलकण्ठ (C. P. Cat. No. 2600).
 
-1500 A. D. देवदासीय m. by नि.सि., विधानपारि- | दैवज्ञवल्लभ by नीलकण्ठ or श्रीपति; m. 
+निर्णयभास्कर ms. dated संवत् 1725 माघ (1669 A. D.) in Peterson's 6th Report p. 10.
 
-जात, श्राद्धमयूख. (Probably the 
+[[P1056]] निर्णयमञ्जरी by गङ्गाधर.
 
-___by नि. सि. ( probably a purely same as above). 
+निर्णयरत्नाकर by गोपीनाथभट्ट.
 
-astrological work ). देवपद्धति m. in रुद्रकल्पद्रुम of अनन्त- | दोलयात्रा. 
+निर्णयशिरोमणि m. by निर्णयदीपक and by अनन्त in स्मृतिकौस्तुभ. Earlier than 1500 A. D.
 
-देव. Probably the महारुद्रपद्धति | 
+निर्णयशैली m. by नि. सि.
 
-दोलयात्रातत्त्व or दोलयात्राप्रमाणतत्त्व of अनन्तदीक्षित देवप्रतिष्ठातत्त्व or प्रतिष्टातत्त्व of रघु 
+निर्णयसंग्रह by प्रतापरुद्र.
 
-of रघुनन्दन; vide sec. 107 N. 
+निर्णयसंग्रह by मधुसूदन.
 
-(new series ) vol. I. p. 191. नन्दन. Vide sec. 107. देवप्रतिष्ठापद्धति 
+निर्णयसमुदाय.
 
-दोलयात्राविवेक of शूलपाणि. Vide देवप्रतिष्ठाप्रयोग by श्यामसन्दर. son of 
+निर्णयसार by क्षेमंकर.
 
-I 0.00 गङ्गाधरदीक्षित. 
+निर्णयसार by गोस्वामी (C. P. Cat. No. 2602).
 
-दोलयात्रामृत by नारायणतर्काचार्य: देवप्रतिष्ठाविधि ( Bik. Cat. p. 380). | दोलारोहणपद्धति of विद्यानिवास देवयाज्ञिकपद्धति ( यजुर्वेदीय) of देव 
+निर्णयसार by नन्दराममिश्र, son of दीपचन्द्रमिश्र. In 6 परिच्छेदs on तिथि, श्राद्ध etc. Composed in विक्रम संवत् 1836 (1780 A. D.).
 
-द्रव्यशुद्धि by रघुनाथ. 
+निर्णयसार by भट्टराघव (Baroda O. I. 8670). Later than 1612 A. D. and earlier than 1700 A. D.
 
-द्रव्यशुद्धिदीपिका by पुरुषोत्तम, son of याज्ञिक (pr. in Kashi S. Series). 
+निर्णयसार by रामभट्टाचार्य.
 
-पीताम्बर. Author describes him देवलस्मृति-vide sec. 233; pr. Anan. 
+निर्णयसार by लालमणि.
 
-self as श्रीमद्वल्लभाचार्यचरणाब्जदास Sm. pp. 85-89. 
+निर्णयसारसंग्रह (Baroda O. I. 4015).
 
-दास; quotes नि. सि.. शुद्धिमयूख, देवस्थापनकौमुदी by शङ्कर, son of | 
+निर्णयसिद्धान्त by महादेव (probably the same as author of कालनिर्णयसिद्धान्त).
 
-दिनकरोद्योत; he was born in बल्लाल, surnamed घारे ( Baroda 
+निर्णयसिद्धान्त by रघुराम (This work is probably the same as कालनिर्णयसिद्धान्त).
 
-संवत् 1724 (1668 A. D.) and 0. I. 1464). 
+निर्णयसिन्धु of कमलाकरभट्ट, composed in संवत् 1668 (1612 A. D.). Vide sec. 111; pr. in Ch. S. Series and at Nir. P.  
+C. रत्नमाला or दीपिका by कृष्णभट्ट आर्ढे.
 
-died about संवत् 1781; pr. in देवालयप्रतिष्ठाविधि by रमापति. 
+निर्णयानन्द m. in अहल्याकामधेनु.
 
-1906. देवीपरिचर्या m. in अहल्याकामधेनुः । 
+निर्णयामृत by अल्लाड (or -ट) नाथसूरि, son of सिद्धलक्ष्मण at the direction of prince सूर्यसेन who ruled एकचक्रपुर on the Jumna. Gives a genealogy of the ग्राहुबाण (चाहुवाण?) kings of एकचक्रपुर. The introductory verses (which vary to some extent in different [[mss.|mss.)]] enumerate authorities on which he relies viz. मिताक्षरा, अपरार्क, अर्णव, स्मृतिचन्द्रिका, धवल, पुराणसमुच्चय, अनन्तभट्टीयगृह्यपरिशिष्ट, रामकौतुक, संवत्सरप्रदीप, देवदासीय, रूपनारायणीय, विद्याभट्टपद्धति, विश्वरूपनिबन्ध. One verse occurring in some mss. mentions हेमाद्रि, कालादर्श, चिन्तामणि. But हेमाद्रि's कालनिर्णय p. 34 mentions a निर्णयामृत. The work is mentioned in निर्णयदीपक श्राद्धक्रियाकौमुदी. So the work is earlier than 1500 A. D. and certainly later than 1250. There are four sections on व्रततिथिनिर्णय, श्राद्ध, द्रव्यशुद्धि and आशौच (pr. by Ven. P.).
 
-दाहायणगृह्यपरिशिष्ट. देवीपूजनभास्कर by शम्भुनाथ सिद्धान्त- द्राशायणगृह्यपूर्वापरप्रयोग. 
+निर्णयामृत of गोपीनारायण, son of लक्ष्मण, under सूर्यसेन (Calcutta Sanskrit Col. Mss. vol. II. p. 78). Seems to be the same as निर्णयामृत of अल्लाड, though गोपीनारायण causes some misgiving. The Bik. Cat. p. 426 also refers to गोपीनारायण and सूर्यसेन.
 
-वार्गाश ( N. vol. VII p. 154 द्राहायणगृह्यसूत्र vide खादिरगृह्यसूत्र ; gives date of completion as pr. at Anandāśrama Press, खयुगोमिशिवे शाके निशाचरतिथौ Poona with com. शुभे). 
+निर्णयामृत by रामचन्द्र N. vol. XI preface p. 4.
 
-C. by रुद्रस्कन्द. देवीपूजापद्धति by चैतन्य गिरि 
+निर्णयामृत (पाश्चात्य) m. in the शुद्धितत्त्व of रघु°.
 
-C. सुबोधिनी by श्रीनिवास. देशान्तरमृतक्रियानिरूपण. 
+[[P1057]] निर्णयार्णव by बालकृष्णदीक्षित.
 
-द्राशायणगृह्यसूत्रकारिका by बालामि देहशुद्धिप्रायश्चित्त ( Aufrecht's Leip- होत्रिन् , __zig Cat. 673). 
+निर्णयार्थप्रदीप m. in अहल्याकामधेनु.
 
-द्राह्मायणगृह्यसूत्रप्रयोग by विनता देवज्ञचिन्तामणि m. in टोडरानन्द. नन्दन दैवज्ञमनोहर by लक्ष्मीधर- m. by रघु- द्रोणचिन्तामणि. . नन्दन in ज्योतिस्तत्त्व and मलमासः । द्वात्रिंशत्कर्मपद्धति 
+निर्णयोद्धार (also styled तिथिनिर्णयो°) by राघवभट्ट. Mentions निर्णयसिन्धु and स्मृतिदर्पण. So later than 1650 A. D. (Ulwar Cat. extract 326). Vide तिथिनिर्णय of राघवभट्ट.
 
-List of works on Dharmaśāstra 
+निर्णयोद्धारखण्डनमण्डन by यज्ञेश (Baroda O. I. 5247). Dilates upon certain doubts raised about the निर्णयोद्धार of राघवभट्ट.
 
-1049 
+नीतिकमलाकर by कमलाकर.
 
-द्वात्रिंशदपराध ( Baroda 0. I. No. द्वैतनिर्णय by शङ्करभट्ट. About 1580 
+नीतिकल्पतरु by क्षेमेन्द्र.
 
-12225 ). 
+नीतिगर्भितशास्त्र by लक्ष्मीपति.
 
-1600; on doubtful points of द्वादशमासदेयदानरत्नाकर 
+नीतिचिन्तामणि by वाचस्पतिमिश्र.
 
-धर्म. Vide Annals of Bhandar 
+नीतिदीपिका.
 
-kar Institute vol. III. part द्वादशयात्रातत्व or द्वादशयात्राप्रमाणत्व । 
+नीतिप्रकाश by कुलमुनि.
 
-2pp. 67-72. ofरघुनन्दन. On the twelve great 
+नीतिप्रकाश by वैशम्पायन (ed. at Madras by Dr. Oppert, 1882). Also called नीतिप्रकाशिका. जनमेजय was instructed by वैशम्पायन at तक्षशिला in eight chapters on राजधर्मोपदेश, धनुर्वेदविवेक, खड्गोत्पत्ति, मुक्तायुधनिरूपण, सेनानयन, सैन्ययोग and राजव्यापार. Enumerates the founders of राजशास्त्र.  
+C. तत्त्वविवृति by सीताराम, son of नञ्जुण्ड of कौण्डिन्यगोत्र.
 
-द्वैतनिर्णय m. in व्रतराज by विश्वनाथ festirals of Viṣṇu at Jaganna 
+नीतिप्रदीप ascribed to वेतालभट्ट.
 
-as composed by his grand thapuri. 
+नीतिभाजनभाजन—dedicated to भोजराज (Mitra's Notices vol. II. p. 33).
 
-father. Latter half of the 17th द्वादशयात्राप्रयोग by विद्यानिवास 
+नीतिमञ्जरी by द्याद्विवेदिन्, son of लक्ष्मीधर, son of अत्रि, son of मुकुन्द द्विवेदिन् of आनन्दपुर. In अष्टकs (Chapters corresponding to the eight aṣṭakas of the Ṛgveda) and 200 verses, illustrating moral maxims by Vedic examples. Vide Ind. Ant. vol. V. p. 116. Composed in संवत् 1550 (1494 A. D.). He was a young man when he composed the work and could repeat the Veda in eleven ways.  
+C. युवदीपिका by author.  
+C. वेदार्थप्रकाश by author.  
+C. by देवराज.
 
-century. ( about जगनाथ), N. ( new | 
+नीतिमञ्जरी by शम्भुराज. A fragment called दण्डनीतिप्रकरण (Burnell's Tanjore Cat. p. 141 b).
 
-द्वैत निर्णयपरिशिष्ट or द्वैतपरिशिष्ट by series ) I. p. 194. 
+नीतिमयूख by नीलकण्ठ (pr. at Benares and by J. R. Gharpure and by Gujarati P. Bombay).
 
-केशवमिश्र; m. by रत्नपाणि; in द्वादश विधपुत्रमीमांसा. 
+नीतिमाला by नारायण.
 
-two परिच्छेद ; dwells at great द्वादशाहकर्मविधिः 
+नीतिरत्न attributed to वररुचि.
 
-length on श्राद्धs. Vide Mitra's द्विजकल्पलता by परशराम in 6 उल्लास | 
+नीतिरत्नाकर of कृष्णबृहत्पण्डितमहापात्र, grandfather of गदाधर, author of कालसार. About 1450 A. D.
 
-Notices V. p. 186. ___ Hultzsch's Report III. p. 60. . 
+नीतिरत्नाकर or राजनीतिरत्नाकर of चण्डेश्वर. Vide sec. 91; pr. by Mr. K. P. Jayasval.
 
-द्वैतनिर्णयपरिशिष्ट by दामोदर, son of द्विजराजोदय. 
+नीतिलता by क्षेमेन्द्र m. in औचित्यविचारचर्चा of the author. 2nd and 3rd quarters of 11th century.
 
-शङ्करभट्ट. About 1600-1640 A.D. 
+नीतिवाक्यामृत of सोमदेवसूरि, pupil of नेमिदेव and younger brother of महेन्द्रदेव. Printed with com. in Bombay in the Maneckchand Digambar Jaina Granthamālā. In 32 sections on धर्म, अर्थ, काम, अरिषड्वर्ग, विद्यावृद्ध, आन्वीक्षिकी [[P1058]] त्रयी, वार्ता, दण्डनीति, मन्त्रिन्, पुरोहित, सेनापति, दूत, चार, विचार, व्यसन, सप्ताङ्गराज्य (स्वामि &c.), राजरक्षा, दिवसानुष्ठान, सदाचार, व्यवहार, विवाद, षाड्गुण्य, [[युद्ध.|युद्ध,]] विवाह, प्रकीर्ण. Aufrecht notes that he is quoted by मल्लिनाथ on किरातार्जुनीय.  
+C. (anonymous). Very valuable as regards quotations from numerous स्मृतिs and works on politics.
 
-द्वैतनिर्णयफकिका m. in द्वैतनिर्णय द्विजाहिकपद्धति of ईशान, the elder 
+नीतिविलास by व्रजराजशुक्ल.
 
-परिशिष्ट brother of हलायुध. About 1170- | 
+नीतिविवेक by करुणाशङ्कर.
 
-द्वैतनिर्णयसंग्रह by चन्द्रशेखर वाचस्पति, 1200 A. D. 
+नीतिशास्त्रसमुच्चय.
 
-son of विद्याभूषण. द्विभार्याग्नि 
+नीतिसमुच्चय.
 
-द्वैतनिर्णयसिद्धान्तसंग्रह by भानुभट्ट, द्विविधजलाशयोत्सर्गप्रमाणदर्शन by son of नीलकण्ठ, son of शङ्करभट्ट 
+नीतिसार attributed to घटकर्पर.
 
-बुद्धिकरशुक्ला 
+नीतिसार attributed to शुक्राचार्य (pr. by Jivananda).
 
-( whose arug is summarised द्विसप्ततिश्राद्ध. 
+नीतिसारसंग्रह by मधुसूदन.
 
-herein ). About 1640-1670 द्वैततत्त्व of सिद्धान्तपञ्चानन. 
+नीतिसुमाञ्जलि by अप्पा वाजपेयिन्.
 
-A. D. द्वैतनिर्णय by चन्द्रशेखर वाचस्पति, | 
+नीराजनप्रकाश by जयनारायण तर्कपञ्चानन.
 
-द्वैतविषयविवेक by वर्धमान, son of son of विद्याभूषण. Calcutta | 
+नीलवृषोत्सर्ग by अनन्तभट्ट.
 
-। भवेश. A bout 1500 A. D. Sanskrit College Mss. Cat. द्वैतनिर्णयामृत m. in दायभागतत्त्व of Vol. II. 79. 
+नीलोत्सर्गपद्धति.
 
-ध्यामुष्यायणनिर्णय or -र्णयेन्दु by विश्व द्वैतनिर्णय by नरहरि ; quoted by 
+नीलोद्वाहपद्धति on the ceremony of वृषोत्सर्ग in श्राद्ध. I. O. Ms (Cat. p. 578) is dated संवत् 1648 (1591-92 A. D.).
 
-नाथ, son of कृष्णगुर्जर of नैध्रुवगोत्र रत्नपाणि in क्षयमासादिविवेक; 
+नूतनप्रतिष्ठाप्रयोग.
 
-( Baroda O. I. No. 1708 ). mentions रत्नाकर. 
+नूतनमूर्तिप्रतिष्ठा by नारायणभट्ट (based on आश्वलायनगृह्यपरिशिष्ट). Baroda O. I. 8876 A.
 
-Mentions दिनकरोद्योत, कौस्तुभ. द्वैत निर्णय of वाचस्पतिमिश्र (pr. in | Later than 1680 A. D. 
+नृसिंहजयन्तीनिर्णय by गोपालदेशिक.
 
-Bastramāla Series, Benares ). धनञ्जयसंग्रह m. by रघु० in तिथितत्त्व Vide sec. 101. 
+नृसिंहपरिचर्या m. in नि. सि. and स्मृतिकौस्तुभ of अनन्त.
 
-धनभागविवेक-vide भागविवेक. C. प्रकाश of जीर्णोद्धार by मधुसूदन- धनिष्ठापञ्चक 
+नृसिंहपरिचर्या by कृष्णदेव, son of रामाचार्य. Stein's Cat. p. 222.
 
-मिश्रा 
+नृसिंहपूजापद्धति by वृन्दावन.
 
-धनुर्विद्यादीपिका m. by कमलाकर in C. प्रदीप or कादम्बरी by गोकुलनाथ | नि. सि. ( I. O. Cat vol. III. p. 488). धनुर्वेदचिन्तामणि by नरसिंहमहः 
+नृसिंहप्रसाद of दलपतिराज, son of वल्लभ Vide sec. 103.
 
-B. D.-132 
+नृसिंहाब्धिमहोदधि m. in आचाररत्न.
 
-रघु. 
+नृसिंहार्चनपद्धति by ब्रह्माण्डानन्दनाथ.
 
-1050 
+नैमित्तिकप्रयोगरत्नाकर by प्रेमानिधि.
 
+नौकादान
 
+न्यायदीपिका of अभिनवधर्मभूषणाचार्य.
 
-धनुर्वेदसंग्रह alias वीरचिन्तामणि by the Ganges ( Allahabad ). 
+न्यायरत्नमालिका or न्यायमातृका. Vide व्यवहारमातृका of जीमूतवाहन.
 
-साधर. 
+न्यासपद्धति by त्रिविक्रम.
 
-Hultzsch (Report No. III p. V. धनुर्वेदसंहिता by वसिष्ठ; pr. at wrongly says that he com 
+पञ्चकविधान.
 
-Calcutta in महाराजा कुसुमचन्द posed it in 1746 A. D. though series. 
+पञ्चकविधि (rites performed for persons who died when the moon was in any नक्षत्र from धनिष्ठा to रेवती).
 
-in his extract at p. 84 he gives धर्मकारिका (author not known ). नागाङ्गरसभूशाके as the date ). 
+पञ्चकशान्तिविधि by मधुसूदनगोस्वामी.
 
-508 कारिकाs compiled from 
+पञ्चकालक्रियादीप on वैष्णव daily duties.
 
-धर्मतत्त्वसंग्रह by महादेव. various authors. Mentions नि. | धर्मतत्त्वार्थचिन्तामणि. सि., कौस्तुभ, कालतत्त्वविवेचन and | धर्मतत्त्वावलोक vide गोविन्दार्णव मयूख, and so later than 1680/ alias स्मृतिसागर. A. D.( vide BBRAS Cat. p. | धर्मदीप m. in ाहिकचन्द्रिका of 219, No. 691). 
+पञ्चकोशसंन्यासाचार.
 
-दिवाकर. धर्मकोश by त्रिलोचन मिश्र m. by | धर्मदीपिका or स्मृतिप्रदीपिका by चन्द्र 
+पञ्चकोशयात्रा by शिवनारायणानन्दतीर्थ.
 
-वर्धमान and in आहिकतत्त्व by | शेखर वाचस्पति. Reconciles dis. रघु. The work deals with , cordant opinions on points of 
+पञ्चगव्यमेलनप्रकार.
 
-व्यवहारपद, दायभाग, ऋणादान etc. धर्मः धर्मचन्द्र by केशवराय, son of गोविन्द- धर्मत निर्णय vide द्वैतनिर्णय of शङ्कर 
+पञ्चगौडब्राह्मणजाति.
 
-राय, son of रामराय of भारद्वाज- भट्ट गोत्र. Based on आश्वलायनगृह्य | धर्मनिबंध by रामकृष्णपण्डित. and its परिशिष्ट. Divided into 
+पञ्चत्रिंशच्छ्लोकी (श्राद्धपद्धति).
 
-धर्मनिबन्धन. किरणs on आचार, &c. Baroda 
+पञ्चदशकर्मन् (according to शौनककारिका) on fifteen of the principal संस्कारs.
 
-| धर्मनिर्णय by कृष्णताताचार्य: 0 J. No. 5860 is dated संवत् 1810. 
+पञ्चद्राविडजाति.
 
-धर्मपद्धति of नारायणभट्ट. धर्मतत्त्वकमलाकर by कमलाकरभट्ट, son | धर्मपरीक्षा by मञ्चरदास 
+पञ्चमहायज्ञप्रयोग.
 
-of रामकृष्ण. Divided into ten धर्मप्रकाश by माधव. D.C. ms. No. परिच्छेदs on व्रत, दान, कर्मविपाक, 221 of 1886-92 deals with सम शान्ति, पूर्त, आचार, व्यवहार, प्राय 
+[[P1059]] पञ्चमाश्रमविधि—attributed to शङ्कराचार्य; treats of fifth stage called परमहंस where a संन्यासी gives up even his दण्ड and कमण्डलु and wanders about alone like a child or a lunatic. N. vol. X. p. 329.
 
-यालोक i, e. व्रतs in चैत्र and the श्चित्त, शूद्रधर्म, and तीर्थ. Bik Cat. 
+पञ्चमीव्रतोद्यापन.
 
-other months mentions माधवीय, p. 99. 
+पञ्चलक्षणविधि.
 
-वाचस्पतिमिश्र, पुराणसमुच्चय. La धर्मतत्त्वकलानिधि by पृथ्वीचन्द्र, son ter than 1500 A. D. 
+पञ्चविधान (i. e. संस्कार, अधिवास, उद्वासन, पञ्चाग्निसाधन, जलवासविधि).
 
-of नागमल्ल. His बिरुदs are कलि- | धर्मप्रकाश or सर्वधर्मप्रकाश by शङ्कर. कालकर्णप्रताप, परमवैष्णव. Divided भट्ट, son of नारायणभट्ट and पार्वती. into ten प्रकाशs, 7th being on Latter balf 16th century. Says माशौच. Baroda O. I. No. 4006. that he follows ths works of Vide sec. 105. 
+पञ्चसंस्कार in 8 अध्यायs (Baroda O. I. 12355).
 
-मेधातिथि, अपरार्क, विज्ञानेश्वर, स्मृत्य धर्मतत्त्वप्रकाश by शिवचतुर्धर, son of र्थसार, कालादर्श, चन्द्रिका, हेमाद्रि, 
+पञ्चसंस्कारदीपिका by विजयीन्द्रभिक्षु, pupil of सुरेन्द्र; a manual of वैष्णव rites in accordance with the doctrines of मध्वाचार्य (तापः पुण्ड्रं तथा नाम मन्त्रो यागश्च पञ्चमः । अमी हि पञ्च संस्काराः परमैकान्त्यहेतवः ॥).
 
-गोविन्ददीक्षित of कर्पूरग्राम (Kopar. 
+पञ्चसंस्कारविधि for all श्रीवैष्णवs.
 
-माधव, नृसिंह, त्रिस्थुलीसेतु. Refers gaon on the situaft). Com 
+पञ्चसूत्रीविधान from जयसिंहकल्पद्रुम.
 
-to his own शास्त्रदीपिकाप्रकाश. For posed in sake 1698 (नागाङ्करसभू) a part of it on Åfut vide I. O. i.e. 1776 A. D. at प्रतिष्ठान on | Cat. yol III p. 482 No. 1564.1051 
+पञ्चाग्निकारिका m. in प्रयोगचन्द्रिका.
 
-List of works on Dharmaśāstra 
+पञ्चायतनपद्धति by दिवाकर, son of भारद्वाज महादेव (on पञ्चायतन of सूर्य, शिव, गणेश, दुर्गा and विष्णु; vide [[सूर्यादिपञ्चायतनप्रतिष्ठापद्धति.|सूर्यादिपञ्चायतनप्रतिष्ठापद्धति).]]
 
-धर्मप्रदीप or -दीप m. by स्मृतिचन्द्रिका | धर्मरत्न-a digest by जीमूतवाहन of 
+पञ्चायतनपूजा.
 
-(आशौचकाण्ड p. 63). प्रायश्चित्त- __which the कालविवेक and दाय विवेक of शूलपाणि, शुद्धितत्त्व of भाग are parts. रघु०, कालादर्श etc. 
+पञ्चायतनप्रतिष्ठापद्धति by दिवाकर, son of महादेव. Probably the same as पञ्चायतनपद्धति.
 
-धर्मरत्न by भैय्याभट्ट; son of भट्टारक धर्मप्रदीप by गङ्गाभट्टः 
+पञ्चायतनसार m. in पूर्तदिनकरोद्योत.
 
-भट्ट. Divided into दीधितिs on धर्मप्रदीप by धनञ्जय; N.(new series) आह्निक and other subjects. 
+पण्डितपरितोष m. by हेमाद्रि in चतुर्वर्गचिन्तामणि as refuting गोविन्दराज (III. 2. 481). Vide p. 662 above.
 
-II p. 46 (on गोत्र only). धर्मरत्नाकर by रामेश्वरभट्ट ; on धर्म धर्मप्रदीप by वर्धमान. 
+पण्डितसर्वस्व of हलायुध m. in ब्राह्मणसर्वस्व and in प्रायश्चित्ततत्त्व (Jivananda, vol. I. p. 531).
 
-स्वरूप, तिथिमासलक्षण, प्रतिपदादिषु, धर्मप्रदीप of भोज-vide p. 591 of the 
+पतितत्यागविधि by दिवाकर.
 
-विहितकृत्यविधान, उपवास, युगादि text. Composed between 1400 
+पतितसंसर्गप्रायश्चित्त by an assembly of pandits under king Sarfoji of Tanjore (Hultzsch's Report III. pp. xii and 120).
 
-निरूपण, संक्रान्ति, अद्भुत, आशौच, and 1600 A. D. 
+पतिसहगमननिषेधनिरासप्रकाश.
 
-श्राद्ध, वेदाध्ययन, अनध्याय etc. धर्मप्रदीपिका com. on अभिनवषडशीति | धर्मविवृति m. in मद. पा. (p. 772) (q. v.) by सुब्रह्मण्य, son of on the constitution of परिषद, 
+पदचन्द्रिका by दयाराम.
 
-वेङ्कटेश. 
+पदार्थादर्श of रामेश्वरभट्ट m. in नि. सि. and शूद्रकमलाकर.
 
-संस्कारमयूख and प्रायश्चित्तमयूख. 
+पद्धतिरत्न by रूपनारायण (Baroda O. I. 2393).
 
-मद.पा. 753 quotes a धर्मवृत्ति (on धर्मप्रवृत्ति by नारायणभट्ट; m. by शङ्कर 
+पद्मनाभनिबन्ध.
 
-प्रायश्चित्त). It seems probable भट्ट in द्वैतनिर्णय, by शुद्धिचन्द्रिका 
+पद्यन्यास m. by कालविवेक of जीमूत°.
 
-that both are identical and are of नन्दपण्डित and in व्यवहारमयूख ! 
+परभूजातिनिर्णय.
 
-the same as धर्मभाष्य above. Treats of daily duties (āhnika), Sauca, गर्भाधान and other | धर्मविवेक by चन्द्रशेखर ; explains संस्कारs, गोत्रनिर्णय, श्राद्ध, आशौच, | and illustrates मीमांसान्यायs. दान, प्रायश्चित्त, तिथिनिर्णय, स्थाली- 
+परभूप्रकरण by नीलकण्ठसूरि.
 
-निशान, son of दामो. पाक. Mentions माधवीयकाल 
+परभूप्रकरण by बाबदेव आटले.
 
-दर and हीरा and grandson of निर्णय, मदनपारिजात, प्रयोगपारि 
+परभूप्रकरण by गोविन्दराय (Mitra's Notices X. p. 296). About 1740-49 A. D. during the reign of Shahu, grandson of Shivaji when Balaji Bajirao was Peshwa. गोविन्दराय was राजलेखक and a [[fovourite|favourite]] of Shahu, refers to बाबदेव आटले as a hypocrite and a Karhada Brāhmaṇa.
 
-भीम. Deals with fasts and जात, महार्णव, अनन्ताचार्य, कालादर्श, festivals in 8 ares; quotes नारायणवृत्ति on आश्वलायन; m. by 
+परमहंसपरिव्राजकधर्मसंग्रह by विश्वेश्वरसरस्वति—same as यतिधर्मसंग्रह (pr. by आनन्दाश्रम Press).
 
-कालमाधव, मदनरत्न, हेमाद्रि नन्दपण्डित in श्राद्धकल्पलता. I. 0. 
+परमहंससंन्यासपद्धति.
 
-सिद्धान्तसंग्रह. Between 1450 ms. (vide Cat. p. 480 No. 1560) 
+परमहंससंध्योपासन by शङ्कराचार्य; BBRAS. Cat. vol. II. p. 246.
 
-. 1525 A. D. Vide Ulwar Cat. is dated संवत् 1659 (1602 -03 
+परमहंससंन्यासविधि
 
-extract 320 for detailed A. D.). So between 1400-1600 
+[[P1060]] परमेश्वरीदासाब्धि or स्मृतिसंग्रह by होरिलमिश्र (Bik. Cat. p. 431).
 
-contents where the ms, is dated A. D. Vide p. 907 above. 
+परशुरामकारिका m. in रुद्रकल्पद्रुम of अनन्तदेव.
 
-संवत् 1583. धर्मप्रश्न (मापस्तम्बीय)- part of आप- | 
+परशुरामप्रकाश or -निबन्ध by खण्डेराय, son of नारायणपण्डित, who was धर्माधिकारी at वाराणसी. This is a digest in two उल्लासs on आचार and श्राद्ध compiled at यमुनापुरी on the गोमती by order of परशुराममिश्र (प्रभु), son of होरिलमिश्र (or होलिलमिश्र), who is styled शाकद्वीपीय कुलावतंस. The work is mentioned in आचारार्क and स्मृत्यर्थसागर, and mentions माधवीय and मदनपाल. Between 1400-1600 A. D.
 
-धर्मविवेचन by रामसुब्रह्मण्यशानिन्, स्तम्बधर्मसूत्र 
+परशुरामप्रताप by साबाजी or साम्बाजी प्रतापराज, son of पण्डित पद्मनाभ of जामदग्न्यवत्सगोत्र and pupil of भट्ट कूर्म and a protegee of निजामसाह. Seems to have contained at least आह्निक, जातिविवेक, दान, प्रायश्चित्त, संस्कार, राजनीति and श्राद्ध. Vide Viśrāmbāg collection (in Deccan College) II Nos. 243-246 and Burnell's Tanjore Cat. p. 131a. A huge work. Baroda O. I. 5887 is राजवल्लभकाण्ड which is like मानसोल्लास in subject-matter.  
+C. श्राद्धकाण्डप्रदीपिका or श्राद्धदीपकलिका of बोपदेवपण्डित. Quotes हेमाद्रि, कालादर्श.
 
-___son of रामशङ्कर. धर्मबिन्दु. 
+पराशरपद्धति by भार्गवराम (vide वर्णजातिसङ्करमाला).
 
-धर्मशास्त्रकारिका. 
+पराशरस्मृति—Vide sec. 35 (printed several times, B. S. Series ed the best; pr. also in Jivananda Sm part II pp. 1-52).  
+C. by माधवाचार्य vide. sec. 93 (pr. B. S. Series).  
+C. by गोविन्दभट्ट m. in मलमासतत्त्व of रघु° (p. 787 of Jivananda). Earlier than 1500. A. D.  
+C. विद्वन्मनोहरा by नन्दपण्डित. Vide sec. 110 (I. O. Cat. vol. III p. 377 No. 1301 gives a summary); pr. in Benares in ‘The Pandit’ New Series, vols 29-32.  
+C. by वैद्यनाथ पायगुण्ड, son of महादेव and वेणी and pupil of नागोजि.  
+C. हितधर्म by कामेश्वरयज्वन्; mentions माधवीय; Palmleaf Ms. No. 6956 in Baroda O. I.
 
-धर्मशास्त्रनिबन्ध by फकीरचन्द्र. धर्मभाष्य m. in स्मृतिचन्द्रिका and | धर्मशास्त्रसंग्रह-collection of स्मृति 
+परिभाषाविवेक by वर्धमान, son of भवेश, of बिल्वपञ्चक family. About 1460-1500 A. D. On नित्य, नैमित्तिक, and काम्य कर्म, कर्माधिकारी, प्रवृत्त and निवृत्त कर्म, आचमन, स्नान, पूजा, श्राद्ध, मधुपर्क, दान, युग, &c.
 
-हेमाद्रि (III. 2. 747). 
+परिशिष्टदीपकलिका of शूलपाणि m. in शुद्धितत्त्व of रघु° This is probably a commentary on a गृह्यपरिशिष्ट (such as छन्दोग).
 
-_texts on श्राद्ध; BBRAS Cat. धर्ममार्गनिर्णय (Baroda O. I. 11821). | p. 219 No. 692. 
+परिशिष्टप्रकाश m. in शुद्धितत्त्व and एकादशीतत्त्व of रघुनन्दन. Probably the same as छन्दोगपरिशिष्टप्रकाश q. v.  
+C. by हरिराम
 
-6 
+परिशिष्टसंग्रह.
 
-धर्मबोधन 
+परिशेषखण्ड part of चतुर्वर्गचिन्तामणि.
 
-1052 
+परीक्षातत्त्व same as दिव्यतत्त्व of रघु°.
 
+[[P1061]] परीक्षापद्धति by वासुदेव. On ordeals. Names विश्वरूप, यज्ञपार्श्व, मिताक्षरा, शूलपाणि. Later than 1450 A. D.
 
+पर्णपुरुष or पर्णपुरुषविधि (cremation of effigies of persons who died abroad).
 
-धर्मशास्त्रसंग्रह by बालशर्मपायगुण्ड, धर्माधर्मप्रबोधिनी of प्रेमनिधि ठक्कुर, son 
+पर्यङ्काशौचविधि (about resorting to the order of संन्यास).
 
-son of वैद्यनाथ and लक्ष्मी . I. O. 
+पर्वकालनिर्णय.
 
-of इन्द्रपति ठक्कर. He hailed from Cat. p. 458. Vide sec. 116. About 1800 A, D. 
+पर्वतदानपद्धति.
 
-माहिष्मती in the territory of 
+पर्वनिर्णय by गणपति रावल, son of हरिशङ्कर and grandson of रामदास, who was औदीच गुर्जर and honoured by गौडाधीश मनोहर. Discourses on the proper time for new and full moon sacrifices and corresponding obsequial offerings. Names कालविवेचन, निर्णयसिन्धु, निर्णयभास्कर, मदन; composed in संवत् 1742 ([[नत्राम्भोधिधराधरक्षिनिमिते|नेत्राम्भोधिधराधरक्षितिमिते]] श्रीविक्रमार्के शके) i. e. 1685-86 A. D.
 
-निजामशाह but compiled the धर्मशास्त्रसर्वस्व by भट्टोजि. About 
+पर्वनिर्णय by मुरारि.
 
-digest in Mithila in संवत् 1410 1600-1650 A. D. 
+पर्वनिर्णय by रघुनाथ वाजपेयिन्, son of माधव. Between 1550-1625 A. D.
 
-(1353-54 A. D.). Contains धर्मशास्त्रसुधानिधि of दिवाकर. Com- twelve chapters on आहिक, पूजा, 
+पर्वनिर्णय a portion of धर्मसिन्धु.
 
-posed in 1686 A. D. Vide 
+पर्वसंग्रह.
 
-श्राद्ध, आशौच, शुद्धि, विवाह, आचारार्क above 
+पलपीयूषलता by मदनमनोहर, son of मधुसूदन; in 7 chapters on the canonical use of various kinds of flesh.
 
-religious benefactions, मापद्धर्म, धर्मसंहिता or धर्मस्मृति m. by काल. optional feasts, pilgrimages, 
+पल्लव—a work on politics m. in the राजनीतिरत्नाकर of चण्डेश्वर. Earlier than 1300 A. D.
 
-विवेक of जीमूत०. 
+पल्लीपतन prognostications derived from the falling of a house-lizard.
 
-प्रायश्चित्त, कर्मविपाक and duties धर्मसंग्रह by नारायणशर्मन् । 
+पल्लीपतनफल.
 
-common to all classes. Vide N. धर्मसंग्रह by हरिश्चन्द्र. 
+पल्लीपतनविचार.
 
-vol. VI. pp. 18-20. M. M. Cha 
+पल्लीपतनशान्ति.
 
-kravarti (JASB for 1915 pp. धर्मसंप्रदायदीपिका by आनन्द. 
+पल्लीसरटकाकभासादिशकुन.
 
-392-393) says that संवत् 1410 धर्मसार by पुरुषोत्तम (ms. copied in 
+पल्लीशरटयोः फलाफलविचार.
 
-must be taken to be sake, since sake 1607, vide Hp. Cat. p. 
+पल्लीशरटयोः शान्ति.
 
-विक्रम era. was not in use in XV). 
+पल्लीशरटविधान.
 
-मिथिला. But this is not very धर्मसार by प्रभाकर-m.in आचारमयूख. convincing. __Earlier than 1600 A. D. धर्माधर्मव्यवस्था. धर्मसारसमुच्चय- same as चतुर्विंशतिः | धर्माध्वबोध by रामचन्द्र. 
+पवित्ररोगपरिहारप्रयोग.
 
-स्मृतिधर्मसारसमुच्चयः 
+पवित्रारोपणविधान—rite in श्रावण of casting new threads around an image and hence taking them to wear.
 
-धर्मामृत m. by वर्धमान in तत्त्वामृत धर्मसारसुधानिधि m.in आह्निकचन्द्रिका 
+पशुपतिदीपिका m. in शुद्धिकौमुदी (pp. 206, 210). Probably same as पशुपति's दशकर्मदीपिका.
 
-सारोद्धार. Probably धर्मामृत may 
+पशुपतिनिबन्ध m. in श्राद्धक्रियाकौमुदी (p. 503). Probably the same as the श्राद्धपद्धति of पशुपति, brother of हलायुध. About 1170-1200 A. D.
 
-not be a work at all, but may of दिवाकर काल and in com. on चतुर्विंशतिमत by भट्टोजि (vide | 
+पाकयज्ञनिर्णय or पद्धति by चन्द्रशेखर alias चन्द्रचूड, son of उमापति alias उमाशङ्कर or उमणभट्ट, son of धर्मेश्वर alias धर्माभट्ट. Between 1575 1650 A. D.
 
-refer in general to works on BBRAS Cat. p 216). धर्मसिन्धु or धर्मसिन्धुसार by काशी 
+पाकयज्ञपद्धति by अनन्तमिश्र.
 
-धर्मामृतमहोदधि by रघुनाथ, son of 
+पाकयज्ञपद्धति by पशुपति.
 
-___ अनन्तदेव. नाथ alias बाबा पाध्ये. Vide sec. 117. 
+पाकयज्ञप्रयोग by शम्भुभट्ट, son of बालकृष्ण. [[Follws|Follows]] आपस्तम्बधर्मसूत्र. I. O. Cat. pp. 99-100 (ms. dated संवत् 1749 i. e. 1692-93 A. D.). Flourished between 1660-1710 A. D.
 
-धर्माम्भोधि- same as अनूपविलास. धर्मसिन्धु by मणिराम. 
+पाञ्चालजातिविवेक.
 
-धर्मार्णव of पीताम्बर, son of काश्यपा 
+पाणिग्रहणादिकृत्यविवेक by मथुरानाथतर्कवागीश. (N. vol. IX. p. 244 says that author is रघुनाथ while [[P1062]] the colophon extracted has मथुरानाथ).
 
-चार्य. Vide Bik. Cat. p. 383 (on धर्मसुबोधिनी by नारायण. Compiled | 
+पारस्करगृह्यकारिका alias कातीयगृह्यसूत्रप्रयोगविवृति by रेणुकाचार्य, son of महेशसूरि and grandson of सोमेश्वर of the शाण्डिल्यगोत्र. Composed in śake 1188 i. e. 1266 A. D. (I. O. Cat vol. I. p. 67).
 
-तिथिनिर्णय), which ms, is dated from विज्ञानेश्वर, माधव and 
+पारस्करगृह्यपरिशिष्टपद्धति by कामदेवदीक्षित on वाप्यादिप्रतिष्ठा (pr. in Gujarati P.).
 
-1681 A. D. मदनरत्न 
+पारस्करगृह्यसूत्र (also called कातीयगृह्यसूत्र) in 3 काण्डs (pr. by Stenzler in 1876 at Leipzig and in Kashi S. Series with several commentaries and by the Gujarati Press, Bombay, with several commentaries and translated in S. B. E. vol. 29).  
+C. अमृतव्याख्या m. by नन्दपण्डित in his शुद्धिचन्द्रिका. Earlier than 1550 A. D.  
+C. अर्थभास्कर by भास्कर, pupil of राघवेन्द्रारण्य.  
+C. प्रकाश by वेदमिश्र, son of विश्वरूप दीक्षित; used by his son मुरारिमिश्र.  
+C. संस्कारगणपति by रामकृष्ण, son of कोनेर, son of प्रयागभट्ट (4 खण्डs pr. in Ch. S. Series). He was of भारद्वाजगोत्र and was patronised by विजयसिंह; he compiled it in चिञ्चमण्डलपत्तन on the वशिष्ठा river; mentions कर्क, हरिहर, गदाधर, हलायुध, काशिका and दीपिका. He wrote श्राद्धगणपति also. Vide I. O. Cat. p. 562 for his श्राद्धसंग्रह. About 1750 A. D.  
+C. सज्जनवल्लभा by जयराम, son of बलभद्र of भारद्वाजगोत्र, residing in Mewad. Names उवट, कर्क, and स्मृत्यर्थसार and is m. by गदाधर. Ulwar Cat. extract 39 gives संवत् 1611 (1554-5 A. D.) as the date (probably of copying). Between 1200-1400 A. D.; pr. at Gujarati Press and in Kashi S. Series.  
+C. (भाष्य) by कर्क m. by त्रिकाण्डमण्डन, हेमाद्रि and हरिहर. Earlier than 1100 A. D. (pr. in Gujarati P. ed.).  
+C. (भाष्य) by कामदेव (on परिशिष्टकण्डिका); pr. at Gujarati P.  
+C. by गदाधर, son of वामन. Names कर्क, जयरामभाष्य, भर्तृयज्ञ, मदनपारिजात, हरिहर. About 1500 A. D.; pr. in Kashi S. Series and in Gujarati P. edition.  
+C. by भर्तृयज्ञ m. by जयराम in his भाष्य.  
+C. (on पारस्करगृह्यमन्त्रs) by मुरारिमिश्र, son of वेदमिश्र; ms. (in Stein's Cat. p. 252) dated संवत् 1430 (1373 A. D.).  
+C. by वागीश्वरीदत्त.  
+C. by वासुदेवदीक्षित; m. by हरिहर and रघुनन्दन in यजुर्वेदिश्राद्धतत्त्व. Contains पद्धति of all rites. Earlier than 1250 A. D.  
+C. by विश्वनाथ, son of नृसिंह, a नागरब्राह्मण of the काश्यपगोत्र; compiled at Benares by लक्ष्मीधर, great-grandson of अनन्त, who was uncle of [[P1063]] विश्वनाथ, in संवत् 1692 माघ (i. e. 1635 A. D.). Names कर्क, हरिहर, कालनिर्णयदीपिका. Therefore विश्वनाथ flourished about 1550 A. D. Vide Ulwar Cat. extract 42 (pr. in Gujarati P. ed.).  
+C. by हरिशर्मन् m. in प्रायश्चित्ततत्त्व (Jivananda vol. I. p. 531).  
+C. (भाष्य and पद्धति) by हरिहर (pr. in Gujarati P. and Kashi S. Series). Names कर्क, कल्पतरुकार, रेणु, वासुदेव, विज्ञानेश्वर and is m. in श्राद्धक्रियाकौमुदी of गोविन्दानन्द (p. 418). Between 1275-1400 A. D. Vide sec. 85. रघुनन्दन in his यजुर्वेदिश्राद्धतत्त्व (Jivananda vol. II. p. 488) mentions both हरिशर्मन् and हरिहर in the same sentence as explaining a passage of कात्यायनगृह्य.
 
-धवलनिबन्ध m. in अन्त्येष्टिपद्धति of धर्मसेतु by निर्मल of पराशर gotra on 
+पारस्करगृह्यसूत्रपद्धति by कामदेव. Vide above.
 
-नारायण, by रघुo and in निर्णयामृत. ग्यवहार. Refers to विज्ञानेश्वर. 
+पारस्करगृह्यसूत्रपद्धति by भास्कर. Vide above.
 
-धवलसंग्रह m. in कालविवेक of धर्मसेतु by रघुनाथ. A vast work. 
+पारस्करगृह्यसूत्रपद्धति by वासुदेव. Vide above.
 
-जीमूतवाहन, कालसार of गदाधर धर्मानमानुबन्धिश्लोक by कृष्णपण्डित. (धवलनिबन्ध and धवलसंग्रह are 
+पारस्करमन्त्रभाष्य by मुरारि. Vide above under पारस्करगृह्यसूत्र.
 
-C. by रामपण्डित. 
+पारस्करश्राद्धसूत्रवृत्त्यर्थसंग्रह by उदयकर (Stein's Cat. p. 17).
 
-probably the same). 
+पारिजात—numerous works on dharma have this ending e. g. मदनपारिजात, प्रयोगपारिजात, विधानपारिजात.
 
-धर्म 
+पारिजात—vide sec. 76
 
-List of works on Dharmaśāstra 
+पारिजात of भानुदत्त. B. O. Mss. Cat. vol. I. No. 257 and JBORS for 1927 parts III-IV p. vii.
 
-1053 
+पार्थिवलिङ्गपूजा—founded [[of|on]] बौधायनसूत्र, बृहद्वासिष्ठ, लिङ्गपुराण (I. O. Cat. p. 585).
 
-नवानविधि. 
+पार्थिवलिङ्गपूजाविधि (two different works in Stein's Cat. p. 95).
 
-I.p 92. 
+पार्वणचटश्राद्धप्रयोग by देवभद्र.
 
-धान्याचलादिदानतत्व ( on gifts of | नवमूर्तिप्रतिष्ठाविधि. 
+पार्वणचन्द्रिका by रत्नपाणिशर्मा, son of गंगोली सञ्जीवेश्वरशर्मा. On various kinds of श्राद्ध and particularly पार्वणश्राद्ध, according to the छन्दोग school.
 
-heaps of corn). N.( new series) 
+पार्वणत्रयश्राद्धविधि (Stein's Cat. p. 95).
 
-नवरत्नदान. II. p. 88. 
+पार्वणप्रयोग—part of श्राद्धनृसिंह.
 
-नवरत्नमाला by प्रह्लादभट्ट ध्वजोच्छाय -from पूर्तकमलाकर 
+पार्वणश्राद्ध (आश्वलायनीय).  
+C. प्रदीपभाष्य by नारायण
 
-नवरात्रकृत्य. 
+पार्वणश्राद्धपद्धति.
 
-नक्तकालनिर्णय. 
+पार्वणश्राद्धप्रयोग for छन्दोगs.
 
-नवरात्रनिर्णय by गोपालव्यास नक्षत्रयोगदान 
+पार्वणश्राद्धप्रयोग for वाजसनेयिन्s by देवभद्र.
 
-नवरात्रप्रदीप by नन्दपण्डित (pr. in नक्षत्रविधान. 
+पार्वणस्थालीपाकप्रयोग (part of प्रयोगरत्न of नारायणभट्ट).
 
-सरस्वतीभवन Series No. 23 ). नक्षत्रशान्ति by बौधायन ( D. C. MB | नवविवेकदीपिका by वरदराज. __No. 97 of A 1882-83 ). 
+पार्वणादिश्राद्धतत्त्व vide श्राद्धतत्त्व of रघु°.
 
-नवानभाष्यनिर्णय by गौरीनाथचक्र नयमणिमालिका. 
+पिण्डपितृयज्ञप्रयोग (हिरण्यकेशीय) by चन्द्रचूडभट्ट, son of उमापति.
 
-वर्तिन् ( Baroda O. I. 10219 ). 
+पिण्डपितृयज्ञप्रयोग by विश्वेश्वरभट्ट alias गागाभट्ट; vide Bik. Cat. p. 136.
 
-नवकण्डिकाश्राद्धसूत्र or श्राद्धकल्पसूत्र 
+पिण्डपितृयज्ञप्रयोग from the प्रयोगरत्न of हरिहर.
 
-6th offity of 191977. Vide 
+पितामहस्मृति vide sec. 44.
 
-नव्यधर्मप्रदीप by कृपाराम, pupil of under श्राद्धकल्प. 
+पितृदयिता of अनिरुद्ध. Vide sec. 83 (pr. in संस्कृतसाहित्यपरिषद् series, Calcutta).
 
-जयराम and patronised by त्रिलोक 
+पितृपद्धति of गोपालाचार्य. Mentions शूलपाणि. Later than 1450 A. D
 
-चन्द्र and कृष्णचन्द्र, Zamindars C. by कर्क. 
+[[P1064]] पितृभक्ति by श्रीदत्त. Vide sec 90. p. 761 for students of यजुर्वेद.  
+C. by मुरारि. About end of 15th century.
 
-of Bengal in the 2nd half of C. श्राद्धकाशिका by कृष्णमिश्र, son 18th century. N. ( new series ) of विष्णमिश्र; composed in vo). I 1448-49 A. D. 
+पितृभक्तितरङ्गिणी alias श्राद्धकल्प by वाचस्पतिमिश्र. Vide sec. 101 p. 844.
 
-नागदेवाहिक m.in शूद्रकमलाकर. Ear C. श्राद्धकल्पसनपद्धति by अनन्तदेव. 
+पितृमेधप्रयोग—by a follower of कपर्दिकारिका (N. vol X. p 271).
 
-___lier than 1600 A. D. 
+पितृमेधभाष्य (आपस्तम्बीय) by गार्ग्यगोपाल.
 
-नवग्रहदान. 
+पितृमेधविवरण by रङ्गनाथ.
 
-नागदेवाय m. in भाचारमयूख, seems 
+पितृमेधसार by गोपालयज्वन्.
 
-to be the same as नागदेवाटिका नवग्रहमख- attributed to वसिष्ठः 
+पितृमेधसार by वेङ्कटनाथ, son of रङ्गनाथ.
 
-| नागप्रतिष्ठा by बौधायन. नवग्रहयज्ञ ( Baroda O. I. 2279 ). नवग्रहयज्ञामृत (Baroda O I. 6887 ). 
+पितृमेधसारसुधीविलोचन (a com.) by a वैदिकसार्वभौम, probably the same as वेङ्कटनाथ above.
 
-नागप्रतिष्ठा by शौनक नवग्रहयागविधिः 
+पितृमेधसूत्र  
+by गौतम.  
+C. by अनन्तयज्वन्, son of कृष्ण.  
+by भरद्वाज.  
+by हिरण्यकेशिन्.  
+आपस्तम्बीय (प्रश्नs 31-32 of कल्प)  
+C. by कपर्दिस्वामिन् (pr. at Kumbhakonam, 1905).
 
-नागबलि by शौनक नवग्रहशान्ति-Vide under वासिष्ठी.. नागबलिसंस्कार नवग्रहशान्तिपद्धति by शिवराम,son of नागार्जुनीयधर्मशास्त्र OD 
+पितृसांवत्सरिकश्राद्धप्रयोग.
 
-नागार्जुनीयधर्मशास्त्र on आचार, espe विश्राम for सामवेद followers 
+पितृहितकरणी m. in पितृभक्ति of श्रीदत्त. About 1300 A. D
 
-___cially स्त्रीधर्म. 
+पिष्टपशुखण्डन by टीकाकारशर्मन् N. (new series) vol. III. p 116
 
-at I.O. Ms. ( Cat. p. 570) copied | नानाशास्त्रार्थनिर्णय by वर्धमान, son in संवत् 1806 ( 1749 A. D.). ___of भवेश. About ?500 A. D. नवग्रहस्थापना BBRAS Cat. vol. | नान्दीमुखनिरूपण by हृदयनाथ. 
+पिष्टपशुखण्डनमीमांसा or पिष्टपशुमीमांसा by नारायणपण्डित, son of विश्वनाथ and pupil of नीलकण्ठ. N. vol. X. p. 312. Recommends पिष्टपशु in sacrifices instead of a goat; ms. dated संवत् 1785 i. e. 1728 A. D.
 
-II. p. 243. 
+पिष्टपशुमण्डन by टीकाकारशर्मन् of गार्ग्यगोत्र (Baroda O. I. No. 2436). This is probably the same as पिष्टपशुखण्डन above.  
+C. ([[containd|contained]] in Baroda Ms.).
 
-नान्दीमुखश्राद्धप्रयोग नवग्रहहोम. 
+पिष्टपशुमण्डनव्याख्यार्थदीपिका by रक्षपाल.
 
-नान्दीश्राद्धपद्धति by रामदत्त मन्त्रिन्, नवनीतनिबन्ध by रामजी. Is it same son of गणेश्वर. First half of 14th 
+पिष्टपशुमीमांसाकारिका by नारायण, son of विश्वनाथ.
 
-as निबन्धनवनीत? 
+पुंसवनादिकालनिर्णय.
 
-century. 
+पुण्याहवाचनप्रयोग by पुरुषोत्तम.
 
-SON 
+पुत्रक्रमदीपिका by रामभद्र on the rights of partition and inheritance of the twelve kinds of sons.
 
-1054 
+पुत्रप्रतिग्रहप्रयोग ascribed to शौनक (Peterson's 6th Report No. 122).
 
+पुत्रपरिग्रहसंशयोद्भेदपरिच्छेद (Stein's Cat. p. 95).
 
+पुत्रस्वीकारनिरूपण.
 
-नारदस्मृति ( ed by Dr. Jolly ). नित्यदानादिपद्धति by शामजित् विपा 
+पुत्रस्वीकारनिर्णय of रामपण्डित, son of विश्वेश्वर, of the वत्सगोत्र. Mentions विज्ञानेश्वर, चन्द्रिका, कालादर्श, वरदराज. Later than 1400 A. D.
 
-C. by असहाय, as amended by | ठिन्. Quotes महार्णव. कल्याणभट्ट 
+पुत्रीकरणमीमांसा of नन्दपण्डित. Same as दत्तकमीमांसा above. Vide sec. 110.
 
-नित्यस्नानपद्धति by कान्हदेव ( Barode 
+पुत्रोत्पत्तिपद्धति.
 
-___O. I. 4011). C. by रमानाथ. 
+पुनःसंधान (on rekindling of the householder's fire).
 
-नित्याचारपद्धति by गोपालानन्द. नारदीय m. in the समयमयूख and | नित्याचारपद्धति of विद्याकर वाजपेयिन, 
+पुनरुपनयन—Second initiation of a brāhmaṇa, when first vitiated by partaking of forbidden food.
 
-other मयूखs. Probably the नारद 
+पुनरुपनयनप्रयोग by दिवाकर, son of महादेव.
 
-son of शम्भुकर ( pr. in R. I. पुराण. 
+[[P1065]] पुनर्विवाहमीमांसा by बालकृष्ण (Baroda O. I. No. 9026).
 
-Series). For वाजसनेयशाखा. Bet नारायणधर्मसारसंग्रह. 
+पुनर्विवाहविधि.
 
-ween 1350-1500 A. D. नारायणपद्धति m. in ज्योतिस्तत्त्व and | नित्याचारप्रदीप by नरसिंह वाजपेयिन of 
+पुरश्चरणकौमुदी by मुकुन्द, son of माधवाचार्य वज्र.
 
-कौत्सवंश, son of मुरारि and grand. मलमासतत्त्व of रघु०. 
+पुरश्चरणकौस्तुभ of अहोबल, disciple of ईशानेन्द्र and नृसिंहेन्द्र. Composed in Benares.
 
-son of धराधर and pupil of विध्ने। नारायणप्रबोधोत्सव 
+पुरश्चरणचन्द्रिका m. in वर्षकृत्यकौमुदी of गोविन्दानन्द and by रघु° in तिथितत्त्व and आह्निकतत्त्व.
 
-श्वर ; migrated to काशी. Fami नारायणबलिपद्धति by दाल्भ्य ( Baroda ly camefron उत्कल ; quotes कल्प 
+पुरश्चरणचन्द्रिका by परमहंस देवेन्द्राश्रम disciple of विबुधेन्द्राश्रम, (N. vol. VII. p 163). D. C. Ms. No. 33 of 1898-99 is dated संवत् 1753.
 
-O. I. 11497 ). 
+पुरश्चरणचन्द्रिका by माधव पाठक.
 
-तरु, प्रपञ्चसार, माधवीय. A very नारायणबलिप्रयोग by कमलाकर, son 
+पुरश्चरणचन्द्रिका by विबुधेन्द्राश्रम.
 
-large work. Later than 1400 of रामकृष्ण. 
+पुरश्चरणदीपिका by काशीनाथ, son of जयरामभट्ट.
 
-A. D. ( pr. in B. I. Series, 2 
+पुरश्चरणदीपिका by चन्द्रशेखर.
 
-parts pp. 1-725). Ulwar Cat. नारायणभट्टी. The same as प्रयोगरत्न 
+पुरश्चरणदीपिका by रामचन्द्र.
 
-extract 322. and अन्त्येष्टिपद्धति by नारायणभट्ट. 
+पुरस्क्रियाचर्या m. in तिथितत्त्व by रघु°.
 
-नित्यादर्श m. by कालादर्श of आदित्य नारायणमिश्रीय. 
+पुराणसमुच्चय m. by हेमाद्रि, निर्णयामृत, नि. सि., द्वैतनिर्णय. Earlier than 1200 A. D.
 
-भट्ट. नारायणवृत्ति m. in आचारमयूख. pro- नित्यानुष्ठानपद्धति by बलभद्र. 
+पुराणसर्वस्व by गोवर्धनपाठक, compiled under Bengal Zamindar श्रीसत्य in śake 1396 (1474-75 A. D.).
 
-bably the com. on आश्वलायनगृह्य 
+पुराणसर्वस्व by पुरुषोत्तम (Mitra's Notices vol. I- p. 188).
 
-निबन्धचूडामणि by यशोधर ( Bik. by नारायण. 
+पुराणसर्वस्व by हलायुध, son of पुरुषोत्तम. On 730 interesting points; composed in 1474 A. D. (Vide Aufrecht's Oxf. Cat. pp. 84-87).
 
-___Cat. p. 322 ). Contained at least नारायणस्मृति m. by अपरार्क. 
+पुराणसार m. in पराशरमाधवीय, नृसिंहप्रसाद, आह्निकतत्त्व. Earlier than 1300 A. D.
 
-62 प्रकाशs and dealt with शान्तिs. नित्यकर्मपद्धति ( Baroda O. I. ms. 
+पुराणसार by prince रुद्रशर्मन् son of राघवराय, of नवद्वीप. N. vol. X pp. 62-65.
 
-निबन्धन m. by सरस्वतीविलास. No. 603 dated संवत् 1547 i. e. निबन्धनवनीत by रामजित्. Divided 1490-91 A. D.). 
+पुराणसारसंग्रह.
 
-into four आस्वादs on सामान्य 
+पुरुषार्थचिन्तामणि of विष्णुभट्ट आठवले, son of रामकृष्ण A very large work on काल, संस्कार etc. Relies upon हेमाद्रि and माधव principally; pr. by Nir. P. and by Ānan. P.; ms. (Baroda O. I. No. 1666) dated śake 1706 (1784-85 A. D.).
 
-तिथिनिर्णय, व्रतविशेषनिर्णय, उपा नित्यकर्मपद्धति by श्रीधर, son of प्रभा 
+पुरुषार्थप्रबोध by ब्रह्मानन्दभारती, pupil of रामराजसरस्वती. Very large work in three parts, each having 4, 5 and 6 chapters respectively on religious efficacy of भस्म, रुद्राक्ष, devotion to रुद्र &c; composed in 1476 (probably śake) at Malavli village on the river Asanasi. Names विद्यारण्य and is m. in शूद्रकमलाकर. Vide BBRAS. Cat. pp. 220-222 No. 699. Pr. at Chidambaram, 1907.
 
-कर्मकाल and श्राद्धकाल. Mentions करनायक for माध्यन्दिनशाखा, 
+पुरुषार्थप्रबोधिनी.
 
-अनन्तभट्ट, हेमाद्रि, माधव and based on कात्यायन. Also called 
+पुरुषार्थरत्नाकर by रङ्गनाथसूरि, pupil of कृष्णानन्दसरस्वती; in 15 तरङ्गs on पुराणप्रामाण्यविवेक, त्रिवर्गतत्त्वविवेक, मोक्षतत्त्वविवेक, वर्णादिधर्मविवेक, नामकीर्तनादि, प्रायश्चित्त, अधिकारितत्त्वपदार्थविवेक, मुक्तगतविवेक.
 
-निर्णयामृत as his authorities. श्रीधरपद्धति. D. C. Ms No 228 
+पुरुषार्थसुधानिधि by सायणाचार्य, (according to some mss. such as Baroda O. I. No. 7101 and by विद्यारण्य according to others). On धर्म, अर्थ, काम and मोक्ष.
 
-D. C. Ms. No. 102 of 1882-83 of 1886-92. D. C. Ms. No. 119 | of 1884-85 in dated संवत् 1434 
+पुरुषोत्तमक्षेत्रतत्त्व of रघु°. On the famous shrine of जगन्नाथ in Orissa. Vide sec. [[107,|107.]]
 
-was copied in संवत् 1673. 
+[[P1066]] पुरुषोत्तमप्रतिष्ठाप्रकार—Vide Peterson's 6th Report No. 95.
 
-Between 1400-1600 A. D. i. e. 1377-8 A. D. 
+पुलस्त्यस्मृति Vide sec. 45 pp. 516-17.
 
-निबन्धराज Vide under समयप्रकाश नित्यकर्मप्रकाशिका by कुलनिधि. 
+पुलहस्मृति m. in [[स्मृतिचान्द्रिका|स्मृतिचन्द्रिका]] and माधवाचार्य.
 
-निबन्धशिरोमणि by नृसिंह (Baroda नित्यकर्मलता of धीरेन्द्रपञ्चीभूषण, son ___O. I. 4012 and 9212). A huge 
+पुष्टिमार्गीयाह्निक by व्रजराज (for वल्लभाचार्य sect).
 
-of धर्मेश्वर. 
+पुष्पचिन्तामणि.
 
-work on संस्कारs, astrological 
+पुष्पमाला by रुद्रधर. On the flowers and leaves appropriate to the worship of deities.
 
-List of works on Dharmaśāstra 
+पुष्पसारसुधानिधि m. in the अहल्याकामधेनु.
 
-1055 
+पूजनमालिका by भवानीप्रसाद.
 
-information about वार, नक्षत्र निर्णयदीपक by अचल द्विवेद, one of ete., अनुपनीतधर्म, कर्मविपाका the three sons of arts and 
+पूजापद्धति by आनन्दतीर्थ, son of जनार्दन.
 
-pupil of भट्टविनायक. He was निबन्धसर्वस्व by महादेव, son of 
+पूजापद्धति or पद्यमाला by जयतीर्थ pupil of आनन्दतीर्थ (Baroda O. I. 8685).
 
-from वृद्धपुर and of मडोड श्रीपति. Vide under प्रायश्चित्ता 
+पूजापद्धति by रामचन्द्रभट्ट, son of विष्णुभट्ट छजवलकर; Baroda O. I. No. 10471 copied in śake 1735 i. e. 1813-14 A. D.
 
-subsection of नागरब्राह्मणs and ध्याय- A निबन्धसर्वस्व is m. in 
+पूजापाल m in आह्निकचन्द्रिका.
 
-was also styled भागवतेय. He नृसिंहप्रसाद 
+पूजाप्रकाश by मित्रमिश्र (part of वीरमित्रोदय). Vide sec. 113.
 
-wrote also ऋग्वेदोक्तमहारुद्रविधान निबन्धसार by वचिय, son of श्रीनाथ. before this work. The work 
+पूजाप्रदीप by गोविन्द m. in दीक्षातत्त्व by रघु°.
 
-A huge work in three अध्याय deals with श्राद्ध,आशौच, eclipses, on आचार, व्यवहार and प्रायश्चित्त. तिथिनिर्णय, उपनयन, विवाह,प्रतिष्ठा. D. C. Ms. 123 of 1884-86 is The work was finished in संवत् dated संवत् 1632; m. in धर्मप्रवृत्ति. 1575 ज्येष्ठकृष्णद्वादशी (i. e. in 
+पूजारत्नाकर by चण्डेश्वर. Vide sec. 91.
 
-1518 A. D.); quotes विश्वरूप निबन्धसिद्धान्तबोध by गङ्गाराम. 
+पूर्णचन्द्र by रिपुञ्जय. On प्रायश्चित्त
 
-निबन्ध, दीपिकाविवरण, निर्णयामृत, निर्णयकौस्तुभ by विश्वेश्वर m. by रघुः कालादर्श पुराणसमुच्चय, आचार 
+पूर्तकमलाकर by कमलाकरभट्ट. Vide sec. 111.
 
-नन्दन and शङ्कर in संस्कारभास्कर. तिलक Vide Ulwar Cat. extract निर्णयचन्द्रिका by शङ्करभट्ट, son of 
+पूर्तप्रकाश—a section of the प्रतापनारसिंह of रुद्रदेव.
 
-No. 323. He has the verse ये 
+पूर्तमाला by रघुनाथ.
 
-नाम केचिदिह ( मालतीमाधव I ) in नारायणभट्ट. 
+पूर्तोद्योत by विश्वेश्वरभट्ट—part of दिनकरोद्योत q. v.
 
-his introductory verses; pr. at निर्णयचिन्तामणि by विष्णुशर्मन् महा- Nadiad, 1897. 
+पूर्वाह्णलीला—(daily duties from स्नान to पूजा) for वैष्णवs.
 
-याशिक at the instance of श्रीराज C. देवजानीय m. in निर्णय सिन्धु, जालमदास, son of विदुर, ३ वैश्य विधानपारिजात. Between 1520 of the गोभिलगोत्र ( Stein's Cat. ) 1600 A. D. p. 308 contains the porion on | निर्णयदीपिका by वत्सराज m. in नि सि. मलमास). 
+पृथगुद्वाह.
 
-and श्राद्धमयूख. Probably same निर्णयतत्व by नागदैवज्ञ, son of शिव | as निर्णयदीपक by अचल. 
+पृथ्वीचन्द्र probably the same as पृथ्वीचन्द्रोदय; m. in विधानपारिजात.
 
-(C. P. Cat. No. 2598); he is 
+पृथ्वीचन्द्रोदय m. by हेमाद्रि (चतुर्वर्ग° III. 1. 182, द्वैतनिर्णय of शङ्करभट्ट, विधानपारिजात, [[नि. सि.|नि. सि.)]] Earlier than 1250 A. D.
 
-निर्णयपीयूष m. in स्मृतिसारोद्धार of author of भाचारप्रदीप, which 
+पृथ्वीप्रेमोदय by प्रेमनिधिशर्मन्, son of उमापति of भारद्वाजगोत्र and surnamed पन्त. D. C. Ms. No. 126 of 1884-86 was composed in नन्दपञ्चनृपसंमितशाके (1659 i. e. 1737-38). It deals with श्रवणाकर्म, प्रायश्चित्त &c.
 
-विश्वम्भर. is quoted in आचारमयूख. Ear lier than 1450 A. D. (Ulwar 
+पृथ्वीरहस्य m. in अहल्याकामधेनु.
 
-निर्णयप्रकाश Cat. No. 1256). 
+पैङ्ग्यस्मृति m. in. मिताक्षरा (on या. III. 18).
 
-निर्णयप्रदीपिका m. in श्राद्धकल्पलता of निर्णयतरणि. 
+पैठीनसिस्मृति—vide sec. 24.
 
-नन्दपण्डित. 
+पैतृकतिथिनिर्णय by चक्रधर.
 
-निर्णयबिन्दु by अनन्तदेव, son of निर्णयदर्पण by गणेशाचार्य ( C. P. Cat. | 
+पैतृमेधिक by यल्लाजि, son of यल्लुभट्ट of the भरद्वाजगोत्र. According to भारद्वाजीयसूत्र and कपर्दिन्. Hultzsch R. I. No. 58.
 
-No. 2599). 
+पैतृमेधिकसूत्र by भारद्वाज in two प्रश्नs (each in 12 कण्डिकाs).
 
-___ महादेव, on तिथिs. 
+प्रकाश—several works end in प्रकाश e. g. सर्वधर्मप्रकाश of शङ्करभट्ट, परशुरामप्रकाश, परिशिष्टप्रकाश.
 
-निर्णयबिन्दु by बुक्कण. निर्णयदर्पण by शिवानन्द, son of तारा 
+प्रकाश—vide sec. 75.
 
-निर्णयभास्कर by नीलकण्ठ ( C.P. Cat. पति ठकुर. On श्राद्ध and other 
+प्रक्रियाञ्जनटीका by वैद्यनाथदीक्षित.
 
-__No. 2600). 
+प्रचेतःस्मृति—vide sec. 47.
 
-निर्णयभास्कर ms. dated संवत 1725 निर्णयदीप m. in नि.सि., माचाररत्न of | माघ (1669 A. D.) in Peterson's 
+[[P1067]] प्रजापतिस्मृति—vide sec. 48; pr. Ānan. Sm. pp. 90-98.
 
-लक्ष्मण 
+प्रजापद्धति on राजनीति.
 
-6th Report p. 10. 
+प्रजापालन.
 
-rites. 
+[[प्रवणकल्प|प्रणवकल्प]] ascribed to शौनक. On the nature and mystic import of ओङ्कार.  
+C. by हेमाद्रि.
 
-1056 
+[[प्रवणकल्प|प्रणवकल्प]] by आनन्दतीर्थ.
 
-Hlstory of Dharmaśāstra 
+[[प्रवणकल्प|प्रणवकल्प]] (from स्कन्दपुराण).  
+C. प्रकाश by गङ्गाधरसरस्वती, pupil of रामचन्द्रसरस्वती.
 
-निर्णयमञ्जरी by गङ्गाधर 
+प्रणवदर्पण by वेङ्कटाचार्य.
 
-निर्णयानन्द m. in अहल्याकामधेनु. निर्णयरत्नाकर by गोपीनाथभट्ट 
+प्रणवदर्पण by श्रीनिवासाचार्य.
 
-निर्णयामृत by अल्लाड ( Or-ट) नाथसूरि, 
+प्रणवपरिशिष्ट m. by रघु° in आह्निकतत्त्व.
 
-son of सिद्धलक्ष्मण at the direc निर्णयशिरोमणि m. by निर्णयदीपक 
+प्रणवार्चनचन्द्रिका by मुकुन्दलाल.
 
-tion of prince सूर्यसेन who ruled and by अनन्त in स्मृतिकौस्तुभ. 
+प्रणवोपासनविधि by गोपीनाथपाठक, son of अग्निहोत्रिपाठक and grandson of काशीपाठक.
 
-एकचक्रपुर on the Jumna. Gives Earlier than 1500 A. D. 
+प्रतापनारसिंह of रुद्रदेव, son of तोरो नारायण of भारद्वाज गोत्र; composed at प्रतिष्ठान (modern Paithan on the Godavari) in Śake 1632 i. e. 1710-11 A. D. An extensive digest [[d.vided|divided]] into प्रकाशs on संस्कार, पूर्त, अन्त्येष्टि, संन्यास, यति, वास्तुशान्ति, पाकयज्ञ, प्रायश्चित्त, कुण्ड, उत्सर्ग, जातिविवेक. Vide BBRAS. Cat. p. 222 Nos. 700-703.
 
-a genealogy of the argam निर्णयशैली m. by नि. सि. 
+प्रतापमार्तण्ड of प्रौढप्रतापमार्तण्ड attributed to प्रतापरुद्र गजपति, king of उत्कल, son of पुरुषोत्तम, son of कपिलेश्वर of the solar race. In 5 प्रकाशs Vide sec. 104 and N. vol X. pp 222-225; m. in समयमयूख and श्राद्धमयूख.
 
-( चाहुवाण ? ) kings of एकचक्रपुर. निर्णयसंग्रह by प्रतापरुद्र 
+प्रतापमार्तण्ड by रामकृष्ण, son of माधव; composed at the bidding of king प्रतापरुद्रगजपति (Stein's Cat. p. 96). Probably the same as above.
 
-The introductory verses ( which निर्णयसंग्रह by मधुसूदन 
+प्रतापरुद्रनिबन्ध m. in द्वैतनिर्णय by शङ्करभट्ट (probably the same as प्रतापमार्तण्ड).
 
-vary to some extent in different 
+प्रतापार्क by विश्वेश्वर of the शाण्डिल्यगोत्र and surnamed महाशब्द, son of रामेश्वर, son of गङ्गाराम, son of रत्नाकर; based on his ancestor's जयसिंहकल्पद्रुम and composed by order of king प्रताप, grandson of जयसिंह (Ulwar Cat. extract 328).
 
-mss. enumerate authorities on निर्णयसमुदाय 
+प्रतिग्रहप्रायश्चित्तप्रकार.
 
-which he relies viz. मिताक्षरा, निर्णयसार by क्षेमंकर. 
+प्रतिमादान.
 
-अपरार्क, अर्णव, स्मृतिचन्द्रिका, धवल, निर्णयसार by गोस्वामी ( C. P. Cat. पुराणसमुच्चय, अनन्तभट्टीयगृहपरि 
+प्रतिमाप्रतिष्ठा by नीलकण्ठ.
 
-No. 2602). 
+प्रतिमासंग्रह m. in दानरत्नाकर of चण्डेश्वर.
 
-शिष्ट, रामकौतुक, संवत्सरप्रदीप, 
+प्रतिष्ठाकल्पलता by वृन्दावन शुक्ल.
 
-देवदासीय, रूपनारायणीय, विद्याभट्टः निर्णयसार by नन्दरामनिश्र, son of पद्धति, विश्वरूपनिबन्ध. One verse 
+प्रतिष्ठाकौमुदी by शङ्कर.
 
-दीपचन्द्र मिश्र. In 6 परिच्छेदs on occurring in some piss, mentions तिथि, श्राद्ध etc. Composed in हेमाद्रि, कालादर्श, चिन्तामणि. But विक्रम संवत् 1836 ( 1780 A. D.). हेमाद्रि' कालनिर्णय p. 34 men 
+प्रतिष्ठाकौस्तुभ.
 
-tious a निर्णयामृत. The work is निर्णयसार by भट्टराघव ( Baroda 0. I. 
+प्रतिष्ठाचिन्तामणि by गङ्गाधर.
 
-mentioned in निर्णयदीपक श्राद्ध 8670 ). Later than 1612 A. D. 
+प्रतिष्ठातत्त्व or देवप्रतिष्ठातत्त्व by रघुनन्दन; vide sec. 107
 
-क्रियाकौमुदी. So the work is and earlier than 17C0A. D. 
+प्रतिष्ठादर्पण by पद्मनाभ, son of गोपाल, son of नारायण (ms. in Bhadkamkar collection dated śake 1706 i. e. 1784-5 A. D.).
 
-earlier than 1500 A. D. and निर्णयसार by रामभट्टाचार्यः 
+प्रतिष्ठादीधिति from the स्मृतिकौस्तुभ of अनन्तदेव.
 
-certainly later than 1250. There निर्णयसार by लालमणि. 
+प्रतिष्ठानिर्णय of गंगाधर.
 
-are four sections on garaier 
+प्रतिष्ठापद्धति by अनन्तभट्ट alias बापुभट्ट.
 
-निर्णय, श्राद्ध, द्रव्यशुद्धि and आशौच निर्णयसारसंग्रह ( Baroda O.I. 4015). | 
+[[P1068]] प्रतिष्ठापद्धति by त्रिविक्रमभट्ट, son of रघुसूरि; N. vol. V. p. 157, ms. copied in संवत् 1785.
 
-( pr. by Ven. P.). निर्णयसिद्धान्त by महादेव ( probably | निर्णयामृत of गोपीनारायण, son of 
+प्रतिष्ठापद्धति by नीलकण्ठ.
 
-the same as author of कालनिर्णय 
+प्रतिष्ठापद्धति by महेश्वरभट्ट हर्षे.
 
-लक्ष्मण, under सूर्यसेन ( Calcutta सिद्धान्त ). 
+प्रतिष्ठापद्धति by राधाकृष्ण.
 
-Sanskrit Col. Mss. vol. II. निर्णयसिद्धान्त by रघुराम ( This 
+प्रतिष्ठापद्धति by शङ्करभट्ट.
 
-p. 78). Seems to be the same work is probably the same as 
+प्रतिष्ठाप्रकाश by हरिप्रसादशर्मन्.
 
-as निर्णयामृत of अल्लाड, though कालनिर्णयसिद्धान्त ). 
+प्रतिष्ठाप्रयोग of कमलाकर.
 
-गोपीनारायण causes some mis 
+प्रतिष्ठामयूख by नीलकण्ठ; vide sec. 112; (pr. by J. R. Gharpure). Styled प्रतिष्ठाप्रयोग also (vide Ulwar Cat. extract 330).
 
-giving. The Bik. Cat. p. 426 निर्णयसिन्धु of कमलाकरभट्ट, com- also refers to गोपीनारायण and 
+प्रतिष्ठारत्न.
 
-posed in संवत् 1668 ( 1612 सूर्यसेन. A. D. ). Vide sec. 111; pr. in | निर्णयामत by रामचन्द्र N. vol. XI Ch. S. Series and at Nir. P. I preface p. 4. C. रत्नमाला or दीपिका by कृष्णभट्ट | निर्णयामृत (पाश्चात्य ) m. in the आहे. 
+प्रतिष्ठार्कपद्धति by दिवाकर.
 
-। शुद्धितत्व of रघु०. 
+प्रतिष्ठाविवेक of उमापति.
 
-List of works on Dharmaśāstra 
+प्रतिष्ठाविवेक of शूलपाणि (sec. 98).
 
-1057 
+प्रतिष्ठासंग्रह.
 
-निर्णयार्णव by बालकृष्णदीक्षित. ing to the eight aṣtakas of the निर्णयार्थप्रदीप m. in अहल्याकामधेनुः 
+प्रतिष्ठासमुच्चय m. in देवप्रतिष्ठातत्त्व of रघुनन्दन.
 
-Byveda ) and 200 verses, 
+प्रतिष्ठासागर of बल्लालसेन m. in his दानसागर. Vide sec. 84.
 
-illustrating moral maxims by निर्णयोद्धार ( also styled तिथिनिर्णयो।। 
+प्रतिष्ठासार by रामचन्द्र m. in शान्तिमयूख.
 
-Vedic examples. Vide Ind. by राघवभट्ट. Mentions निर्णयसिन्धु 
+प्रतिष्ठासारदीपिका by पाण्डुरङ्ग टकले, son of चिन्तामणि, in पञ्चवटी; composed in śake 1702 (1780-81 A. D.); Baroda O. I. No. 333.
 
-Ant. vol. V. p. 116. Composed and स्मृतिदर्पण. So later than | 
+प्रतिष्ठासारसंग्रह m. by हेमाद्रि (दानखण्ड p. 134), कुण्डमण्डपसिद्धि and दानमयूख.
 
-in संवत् 1550 ( 1494 A. D.). He 1650 A. D.( Ulwar Cat. extract 
+प्रतिष्ठेन्दु by त्र्यम्बक, son of नारायण माटे. (Baroda O. I. 11089 b).
 
-was a young man when he 326 ). Vide तिथिनिर्णय of 
+प्रतिष्ठोद्योत (part of दिनकरोद्योत) by दिनकर and his son, विश्वेश्वर alias गागाभट्ट.
 
-composed the work and could राघवभट्ट. 
+प्रतिसरबन्धप्रयोग (rules for tying of a string as a charm on [[the the|the]] wrist at weddings and other festive occasions)
 
-repeat the Veda in eleven निर्णयोद्धारखण्डनमण्डन by यज्ञेश 
+प्रतीताक्षरा com. of नन्दपण्डित on the मिताक्षरा; sec. 110.
 
-wars. ('Baroda O. I. 5247). Dilates 
+प्रत्यवरोहणप्रयोग, part of प्रयोगरत्न of नारायणभट्ट
 
-C युवदीपिका by auto". upon certain doubts raised 
+प्रथिततिथिनिर्णय by नागदैवज्ञ.
 
-__C. वेदार्थप्रकाश by author. about the निर्णयोद्धार of राघवभट्टः C. by देवराज. नीतिकमलाकर by कमलाकर. नीतिमञ्जरी by शम्भुराज. A frag. नीतिकल्पतरु by क्षेमेन्द्र 
+प्रदीप occurs as the last part of the names of several works such as आचारप्रदीप, कृत्यप्रदीप, समयप्रदीप, संवत्सरप्रदीप.
 
-ment called दण्डनीतिप्रकरण नीतिगर्भितशास्त्र by लक्ष्मीपति. ( Burnell's Tanji re Cat. p. नीतिचिन्तामणि by वाचस्पतिमिश्र. 
+प्रदीप vide sec. 81.
 
-___141b). नीतिदीपिका. 
+प्रदीपदानपद्धति vide महाप्रदीप°.
 
-नीतिमयूख by नीलकण्ठ ( pr.at Pena नीतिप्रकाश b: कुलमुनि 
+प्रदीपिका m. in गणेश's दण्डविवेक and in सरस्वतीविलास. Earlier than 1450 A. D.
 
-res and hy J. R. Gharpure and नीतिप्रकाश by वैशम्पायन ( ed. at / 
+प्रदोषनिर्णय by विष्णुभट्ट (from [[पुरुषार्थचिन्तामणि.|पुरुषार्थचिन्तामणि).]]
 
-___ by Gujarati P. Bombay ). Madras hy Dr. Oppert, 1882 ). | नीतिमाला by नारायण. Also called नीतिप्रकाशिका. जनमे- नीतिरत्न attributed to वररुचि. जय was instructed by वैशम्पायन नीतिरत्नाकर of कृष्णबृहत्पण्डितमहा at तक्षशिला in eight charters पात्र, grandfather of गदाधर, on राजधर्मोपदेश, धनुर्वेद विवेक, author of कालसार. About 1450 खगोत्पत्ति, मुक्तायुपनिरूपण, सेना 
+प्रदोषपूजापद्धति by वल्लभेन्द्र, pupil of वासुदेवेन्द्र.
 
-A. D. नयन, सैन्ययोग And राजव्यापार नीतिरत्नाकर or राजनीतिरत्नाकर of Enumerates the founders of चण्डेश्वर. Vide sec. 91; pr. by राजशास्त्र. 
+प्रपञ्चसार m. by वर्षक्रियाकौमुदी, आह्निकतत्त्व of रघु° Seems to be a work of the तन्त्र class, earlier than 1450 A. D.  
+C. व्याख्यान, quoted by देवनाथ in तन्त्रकौमुदी. Earlier than 1550 A. D.  
+C. by गीर्वाणयोगीन्द्र.  
+C. by ज्ञानस्वरूप.
 
-___Mr. K. P. Jayasval. C. तत्त्वविवृति by सीताराम, sihn of | नीतिलता hy क्षमेन्द्र m. in औचित्य 
+प्रपञ्चसारविवेक or भवसारविवेक by गङ्गाधर महाडकर, son of सदाशिव. In 8 उल्लासs; ms. dated संवत् 1840 (1783-84 A. D.); vide N. vol. X. 162. On आह्निक, भगवत्पूजा, भागवतधर्म, moral maxims.
 
-नज्जुण्ड of कौण्डिन्यगोत्र. 
+[[P1069]] प्रपञ्चामृतसार by एकराज (or Ekoji) of Tanjore, who reigned from 1676 to 1684 A. D. Some fragments on नीति and पूजा are recovered (Burnell's Tanjore Cat. p. 141 b).
 
-विचारचर्चा of the author. 2nd 
+प्रपन्नगतिदीपिका by तातादास; mentions विज्ञानेश्वर, चन्द्रिका, हेमाद्रि, माधव, सार्वभौम, वैद्यनाथदीक्षित.
 
-and 3rd quarters of 1lth नीतिप्रदीप ascribed to वेताल भट्ट. 
+प्रपन्नादिनचर्या (according to रामानुज school).
 
-century. नीतिभाजनभाजन-dedicated to भोज- नीतिवाक्यामृत of सोमदेवसरि, pupil 
+प्रपन्नलक्षण.
 
-TIST ( Mitra's Notices vol. II. 
+प्रपन्नौर्ध्वदेहिकविधि.
 
-of नेमिदेव and younger brother of p. 33 ). 
+प्रभाकराह्निक by प्रभाकरभट्ट.
 
-महेन्द्रदेव. Printed with com. in नीतिमञ्जरी by द्याद्विवेदिन, son of Bombay in the Maneckchand 
+प्रमाणदर्पण.
 
-लक्ष्मीधर, son of अत्रि, son of Digambar Jaina Granthamālā. मुकुन्द द्विवेदिन् of आनन्दपुर. In In 32 sections on धर्म, अर्थ, काम, 312 FS ( Chapters corresp rid- अरिषड्वर्ग, विद्यावृद्ध, आन्वीक्षिकी 
+प्रमाणपल्लव of नृसिंह or नरसिंह ठक्कुर, divided into परिच्छेदs on आचार &c.
 
-II. D.-133 
+प्रमाणसंग्रह.
 
-Sin 
+प्रमाणसारप्रकाशिका.
 
-1058 
+प्रमेयमाला.
 
+प्रयागकृत्य (part of त्रिस्थलीसेतु).
 
+प्रयागप्रकरण or प्रयागप्रघट्टक (from त्रिस्थलीसेतु).
 
-त्रयी, वार्ता, दण्डनीति, मन्त्रिन्, पुरो- नृसिंहपरिचर्या m. in. नि. सि. and हित, सेनापति, दूत, चार, विचार, स्मृतिकोस्तुभ of अनन्त. व्यसन, सप्ताइराज्य ( स्वामि &c. ), 
+प्रयागसेतु m. in स्मृतिकौस्तुभ of अनन्तदेव (same as part of त्रिस्थलीसेतु).
 
-नृसिंहपरिचर्या by कृष्णदेव, son of राजरक्षा, दिवसानुष्ठान, सदाचार, | 
+प्रयोगकौस्तुभ by गणेशपाठक.
 
-रामाचार्य. Stein's Cat. p. 222. व्यवहार, विवाद, षाडूगुण्य, युद्ध. विवाह, प्रकीर्ण. Aufrecht notes | नृसिंहपूजापति by वृंदावन that he is quotes) hy मल्लिनाथ | नृसिंहप्रसाद of दलपतिराज, son of on किरातार्जुनीय. 
+प्रयोगचन्द्रिका by वीरराघव.
 
-__ वल्लभ Vide sec. 103. C. ( anonymous ). Very valu- | नृसिंहाब्धिमहोदधि m. in आचाररत्न. 
+प्रयोगचन्द्रिका by श्रीनिवासशिष्य, brother of सीताराम.
 
-alble as reyards quotat.ons | नृसिंहार्चनपद्धति by ब्रह्माण्डानन्दनाथ. from munervus Farias and नैमित्तिकप्रयोगरत्नाकर by प्रेमानिधिः works on politics. 
+प्रयोगचन्द्रिका in 18 खण्डs. From पुंसवन to श्राद्ध; follows आपस्तम्बगृह्य, mentions कण्ठभूषण, पञ्चाग्निकारिका, जयन्तकारिका, कपर्दिकारिका, दशनिर्णय, वामनकारिका, सुधीविलोचन, स्मृतिरत्नाकर (Madras Govt. Sanskrit Mss. Cat. vol. VII. p. 2798 No. 3713).
 
-नौकादान नीतिविलास by व्रजराजशुक्ल. 
+प्रयोगचिन्तामणि (part of रामकल्पद्रुम by अनन्तभट्ट).
 
-न्यायदीपिकाof अभिनवधर्मभूषणाचार्य. नीतिविवेक by करुणाशङ्कर. 
+प्रयोगचूडामणि (ms. in Bhadkamkar collection) on स्वस्तिक, पुण्याहवाचन, ग्रहयज्ञ, स्थालीपाक, दुष्टरजोदर्शनशान्ति, गर्भाधान, सीमन्तोन्नयन, षष्ठीपूजा नामकरण, चौल and other संस्कारs, उपनयन, विवाह.
 
-न्यायरत्नमालिका- or न्यायमातृका. 
+प्रयोगचूडामणि (Mitra's Notices, vol. IV. p. 22)
 
-Vide व्यवहारमातृका of जीमूत नीतिशास्त्रसमुच्चय. 
+प्रयोगचूडामणि m. by रघुनन्दन.
 
-वाहन. नीतिससुच्चय. 
+प्रयोगतत्त्व of रघुनाथ, son of भानुजि of शाण्डिल्यगोत्र, composed at Benares in 25 तत्त्वs on ordinary religious rites (संस्कारs, परिभाषा, स्वस्तिवाचन, ग्रहमख [[&c.;|&c.);]] composed in śake 1577 (1656 A. D.).
 
-न्यासपद्धति by त्रिविक्रमः नीतिसार attributed to घटकर्पर. पञ्चकविधान नीतिसार attributel to शुक्राचार्य | पञ्चकविधि ( rites performed for 
+प्रयोगतिलक by वीरराघव (Baroda O. I. 9806).
 
-(pr. by Jivana.da ). 
+प्रयोगदर्पण by नारायण, son of चाचम्भट्ट. Deals with domestic rites according to Ṛgveda ritual. Names उज्ज्वला of हरदत्त, हेमाद्रि, चण्डेश्वर, श्रीधर, स्मृतिरत्नावलि. Later than 1400 A. D.
 
-persons who died when the 
+प्रयोगदर्पण by पद्मनाभदीक्षित, son of गोपाल, son of नारायण; deals with देवप्रतिष्ठा, मण्डपपूजा, तोरणपूजा &c.
 
-moon was in any नक्षत्र from नीतिसारसंग्रह by मधुसूदन 
+प्रयोगदर्पण by रघुनाथसूरि.
 
-धनिष्ठा to रेवती). नीतिसुमाञ्जलि by अप्पा वाजपेयिन . 
+प्रयोगदर्पण by रमानाथविद्यावाचस्पति on daily religious duties of householders; quotes हेमाद्रि.
 
-| पञ्चकशान्तिविधि by मधुसूदनगोस्वामी. नीराजनप्रकाश by जयनारायण तर्क 
+प्रयोगदर्पण by वीरराघव.
 
-पञ्चकालक्रियादीप on वैष्णव daily पञ्चानन. 
+प्रयोगदर्पण by वैदिकसार्वभौम.
 
-___duties. नीलवृषोत्सर्ग by मनन्तभट्ट. 
+[[P1070]] प्रयोगदर्पण Ano. N. (New Series) vol. II. p. 190. On the last rites of a man, his cremation and श्राद्ध. Mentions श्रीधर (author of स्मृत्यर्थसार) as much removed from him.
 
-पञ्चकोशसंन्यासाचार नीलोत्सर्गपद्धतिः 
+प्रयोगदीप (to शाङ्खायनगृह्य) by दयाशङ्कर.
 
-पञ्चकोशयात्रा by शिवनारायणा. नीलोद्वाहपद्धति on the ceremony of नन्दतीर्थ. 
+प्रयोगदीपिका by मञ्चनाचार्य.
 
-वृषोत्सर्ग in श्राद्ध. I. O. Ms (Cat... 
+प्रयोगदीपिका by रामकृष्णभट्ट.
 
-पञ्चगव्यमेलनप्रकार p. 578) is dated संवत् 1648 (1591-92 A. D.). 
+प्रयोगदीपिकावृत्ति.
 
-पञ्चगौडब्राह्मण जाति. 
+प्रयोगपञ्चरत्न m. in चातुर्मास्यप्रयोग.
 
-पञ्चत्रिंशच्छूलोकी ( श्राद्धपद्धति ). नूतनप्रतिष्ठाप्रयोगः 
+प्रयोगपद्धति.  
+of गङ्गाधर (बौधायनीय),  
+of झिंगय्यकोविद, son of पेञ्झल्ल मञ्चनाचार्य (for आपस्तम्बीयs). This is called शिङ्गाभट्टीय.  
+of दामोदरगार्ग्य; based on कर्कोपाध्याय, गङ्गाधर, हरिहर and follows पारस्करगृह्य. Also styled संस्कारपद्धति.  
+of रघुनाथ, son of रुद्रभट्ट अयाचित (आश्वलायनीय).  
+of हरिहर (in 2 काण्डs on domestic religious rites); attached to com. on पारस्करगृह्य.
 
-पञ्चदशकर्मन् ( according to शौनक नूतनमूर्तिप्रतिष्ठा by नारायणभट्ट ____ कारिका ) on fifteen of the 
+प्रयोगपद्धति to कात्यायनश्राद्धसूत्र.
 
-( based on आश्वलायनगृह्यपरिशिष्ट). ___prit cipal संस्कार 
+प्रयोगपद्धतिसुबोधिनी by शिवराम.
 
-Baroda 0. I. 8876 A. 
+प्रयोगपारिजात by नरसिंह (vide I. O. Cat. p. 415 No. 1396). Mentions हेमाद्रि, विद्यारण्य, प्रसाद (which the editor of I. O. Cat. takes to be नृसिंहप्रसाद). This is most probably the same as the next below and प्रसाद means probably no more than the commentary प्रसाद of विट्ठल on the प्रक्रियाकौमुदी of रामचन्द्र. Vide I. O. Cat. p. 166 for प्रसाद com. and Bhandarkar Report 1883-84 p. 59 for pedigree.
 
-पञ्चद्राविडजाति. नृसिंहजयन्तीनिर्णय by गोपालदेशिक. पञ्चमहायज्ञप्रयोग 
+प्रयोगपारिजात by नृसिंह a native of कर्णाटक. of the कौण्डिन्यगोत्र. Has five काण्डs on संस्कार, पाकयज्ञ, आधान, आह्निक, गोत्रप्रवरनिर्णय. Portion on संस्कार printed at Nir. Press (1916). Speaks of 25 संस्कारs; mentions कालदीप and कालप्रदीप (on same page), कालदीपभाष्य, क्रियासार, फलप्रदीप, विश्वादर्श, विधिरत्न, श्रीधरीय, स्मृतिभास्कर; criticizes हेमाद्रि and माधव; composed between 1360 and 1435 A. D. It is this work probably that is mentioned in नृसिंहप्रसाद (दानसार), धर्मप्रवृत्ति (संस्कार portion) and प्रयोगरत्न of नारायणभट्ट; ms. (Bik. Cat. p. 439) is dated संवत् 1495 (1438-39 A. D.).
 
-LI 
+प्रयोगपारिजात by पुरुषोत्तमभट्ट, son of देवराजार्य.
 
-List of works on Dharmaśāstra 
+प्रयोगपारिजात by रघुनाथ वाजपेयिन्.
 
-1059 
+प्रयोगपारिजातसारावलि m. in धर्मप्रवृत्ति.
 
-पञ्चमाश्रमविधि attributed to शङ्करा- पण्डितसर्वस्व of हलायुध m. in ब्राह्मण 
+प्रयोगप्रदीप by शिवप्रसाद.
 
-api; treats of fifth stage called । सर्वस्व and in प्रायश्चित्ततत्त्व (Jiva. परमहंस where a संन्यासी gives nanda, vol. I. p. 531). up even his दण्ड and कमण्डलु and wanders about alone like 
+प्रयोगमञ्जरीसंहिता by श्रीकण्ठ (Baroda O. I. No. 12959).
 
-पतितत्यागविधि by दिवाकर. a. child or a lunatic. N. rol. | पतितसंसर्गप्रायश्रित by an assembly X. p. 329. 
+प्रयोगमणि by केशवभट्ट, son of अभयंकर नारायण.
 
-of pandits under king Sarfoji पञ्चमीव्रतोद्यापन. 
+प्रयोगमुक्तावलि by मिभिसूरि (?) तिर्पिलि; D. C. Ms. No. 102 of 1871-72. Quotes विज्ञानेश्वर, प्रयोगपारिजात, नृसिंह, आचारमयूख, Later than 1650 A. D.
 
-of Tanjore ( Hultzsch's Report 
+[[P1071]] प्रयोगमुक्तावलि by वीरराघव.
 
-III. pp. xII and ] 20 ). पञ्चलक्षणविधिः पञ्चविधान (i. e. संस्कार, अधिवास, 
+प्रयोगरत्न or स्मार्तानुष्ठानपद्धति by अनन्त, son of विश्वनाथ; deals with 25 संस्कारs according to आश्वलायन, and स्वस्तिवाचन, पुण्याहवाचन, स्थालीपाक, परिभाषा, प्रायश्चित्त. (I. O. Cat. vol. III p. 515).
 
-पतिसहगमननिषेधनिरासप्रकाश. उद्वासन, पञ्चाग्निसाधन, जलवास- पदचन्द्रिका by दयाराम. विधि ). 
+प्रयोगरत्न (हिरण्यकेशीय) by अनन्तदेव, son of विश्वनाथ; vide Peterson's 5th Report No 126. Probably the same as above
 
-पदार्थादर्श of रामेश्वरभट्ट m. in नि.सि. पञ्चसंस्कार in 8 अध्याय ( Baroda | ___and शूद्रकमलाकर 
+प्रयोगरत्न by काशीदीक्षित, son of सदाशिव.
 
-O. I. 12355 ). 
+प्रयोगरत्न by केशवदीक्षित, son of सदाशिव.
 
-पद्धतिरत्न by रूपनारायण ( Baroda पञ्चसंस्कारदीपिका by विजयीन्द्रभिक्षु, | 0. I. 2393). 
+प्रयोगरत्न by नारायणभट्ट, son of रामेश्वरभट्ट (pr. by Nir. P.) for आश्वलायनीयs. Vide sec. 108.
 
-pupil of सुरेन्द्र; a manual of 
+प्रयोगरत्न by प्रेमनिधि.
 
-पद्मनाभनिबन्ध वैष्णव rites in accordance with 
+प्रयोगरत्न by नृसिंहभट्ट, son of नारायणभट्ट, according to आश्वलायन and शौनक; quoted in चतुर्विंशतिमतव्याख्यान of भट्टोजि; between 1500-1600 A D.
 
-पद्यन्यास m. by कालविवेक of जीमूत. the doctrines of मध्वाचार्य (तापः 
+प्रयोगरत्न by भट्टोजि (C. P. Cat. No. 3131).
 
-परभूजातिनिर्णय. पुण्ड्रं तथा नाम मन्त्रो यागश्च पञ्चमः । अमी हि पञ्च संस्काराः परमैकान्य 
+प्रयोगरत्न or [[स्मार्तप्रयोरत्न|स्मार्तप्रयोगरत्न]] of महेश, son of महादेव वैशम्पायन; composed at [[Kāsī|Kāśī]] on संस्कार, शान्ति and श्राद्ध; pr. in śake 1798; eulogises मातृदत्त; ms. (Baroda O. I. No. 1626) dated 1844 संवत् i. e. 1787-88 A. D.
 
-परभूप्रकरण by नीलकण्ठसूरि. 
+प्रयोगरत्न by महादेव (हिरण्यकेशीय).
 
-हेतवः ॥). 
+प्रयोगरत्न by वासुदेवदीक्षित, son of आपदेव.
 
-परभूप्रकरण by बाबदेव आटले. पञ्चसंस्कारविधि for all श्रीवैष्णवs. 
+प्रयोगरत्न by हरिहर.
 
-परभूप्रकरण by गोविन्दराय ( Mitra's 
+प्रयोगरत्नभूषा by रघुनाथ नवहस्त [[BBRAS.|(BBRAS.]] Cat. vol II p. 185).
 
-Notices X. p. 296 ). A bout 1740 पञ्चसूत्रीविधान from जयसिंहकल्पद्रुम. 49 A. D. during the reign of पञ्चाग्निकारिका m. in प्रयोगचन्द्रिका. Shahu, grandson of Shivaji पञ्चायतनपद्धति by दिवाकर, son of | when Balaji Bajirao was 
+प्रयोगरत्नमाला by चौण्डप्पाचार्य.
 
-भारद्वाज महादेव ( on पञ्चायतन Peshwa. गोविन्दराय was राज of सूर्य,शिक गणेश, दुर्गा and विष्णु'; लेखक and a fovourite of vide सूर्यादिपञ्चायतनप्रतिष्ठापद्धति. 
+प्रयोगरत्नमाला by वासुदेव, son of आपदेवभट्ट, a चित्तपावन ब्राह्मण; on विष्ण्वादिसर्वदेवप्रतिष्ठा; mentions निर्णयसिन्धु. Between 1620 and 1760 A. D. Also called वासुदेवी and प्रतिष्ठारत्नमाला.
 
-Shahu, refers to बाबदेव आटले 
+प्रयोगरत्नमाला by पुरुषोत्तम विद्यावागीश.
 
-as a hypocrite and a Karhada पञ्चायतनपूजा. 
+प्रयोगरत्नसंस्कार by प्रेमनिधि.
 
-Brāhmaṇa. पञ्चायतनप्रतिष्ठापद्धति by दिवाकर, son 
+प्रयोगरत्नसंग्रह m. by संस्कारमयूख.
 
-परमहंसपरिव्राजकधर्मसंग्रह by विश्वेश्वर of महादेव. Probably the same 
+प्रयोगरत्नाकर—vide प्रयोगदीप of दयाशङ्कर above.
 
-सरस्वति-same as यतिधर्मसंग्रह as पञ्चायतनपद्धति 
+प्रयोगरत्नाकर by यशवन्तभट्ट (for मैत्रायणीयs) Baroda O. I. 8365.
 
-(pr. by मानन्दाश्रम Press ). पञ्चायतनसार m. in पूर्तदिनकरोयोत. 
+प्रयोगरत्नावली by परमानन्दघन, pupil of चिदानन्दब्रह्मेन्द्रसरस्वती [[probably|(probably]] on śrauta rites only).
 
-परमहंससंन्यासपद्धति. पण्डितपरितोष m. by हेमाद्रि in चतु चिन्तामणि as refuting गोविन्द 
+प्रयोगलाघव by विठ्ठल, son of महादेव.
 
-परमहंससंध्योपासन by शङ्कराचार्य; राज ( III. ?. 481 ). Vide p. 662 
+प्रयोगसंग्रह by रामनाथ.
 
-___BBRAS. Cat. vol. II. p. 246. abore. 
+प्रयोगसागर by नारायण आरड. Later than 1650 A. D.; also called गृह्याग्निसागर.
 
-। परमहंससंन्यासविधि 
+प्रयोगसार (W. and K. Cat. II. p. 97) in 8 काण्डs.
 
-पति 
+प्रयोगसार by कृष्णदेव स्मार्तवागीश, son of नारायण. This is also called कृत्यतत्त्व by संवत्सरप्रयोगसार.
 
-1060 
+प्रयोगसार by केशवस्वामिन् (बौधायनीय). On Vaidic sacrifices. Names नारायण and भवस्वामी and is m. by त्रिकाण्डमण्डन. About 1100 A. D.
 
+प्रयोगसार by गङ्गाभट्ट (आपस्तम्बीय).
 
+प्रयोगसार by देवभद्र पाठक, son of बलभद्र (कात्यायनीय). Refers to [[P1072]] गङ्गाधर पाठक, भर्तृयज्ञ, वासुदेव, रेणु, कर्क, हरिस्वामी, माधव, पद्मनाभ, गदाधर, हरिहर, रामपद्धति of अनन्त. Deals with श्रौत matters.
 
-परमेश्वरीदासाब्धि or स्मृतिसंग्रह by | the best ; pr, also in Jivananda 
+प्रयोगसार by नारायण, son of लक्ष्मीधर; same as गृह्याग्निसागर or प्रयोगसागर.
 
-होरिलमिश्र ( Bik. Cat. I. 431 ). | Sm part I pp. 1-52). परशुरामकारिका B. in रुद्रकल्पद्म of C. hy माधवाचार्य vide. sec. 93 
+प्रयोगसार by निजानन्द.
 
-अनन्तदेव. 
+प्रयोगसार by बालकृष्ण, a दाक्षिणात्य, residing in गोकुलग्राम.
 
-( pr. B. S. Series ). 
+प्रयोगसार by विश्वेश्वरभट्ट alias गागाभट्ट, son of दिनकर. On पुण्याहवाचन, गणपतिपूजन &c.
 
-C by गोविन्दभट्ट m. in मलमास परशुरामप्रकाश । निबन्धखण्डेराय, 
+प्रयोगसार by शिवप्रसाद.
 
-___ तत्व of रधु० (p. 787 of Jiva son of नारायणपण्डित. why was 
+प्रयोगसारावलि m. in धर्मप्रवृत्ति.
 
-manda). Earlier than 1500. धर्माधिकारी at वाराणसी. This is a | A. ID. digest in two उल्लास: 01 आचार | C. विद्वन्मनोहरा hy नन्दपण्डित. and श्राद्ध compiled at यमुनापुरी Title •ec. 110 { I. O. Cat. on the taal by order of 
+प्रयोगसारपीयूष of कुमारस्वामि विष्णु; on परिभाषा, संस्कार, आह्निक, प्रायश्चित्त.
 
-rol. HI p. 377 No. 1301 परशुराममिश्र (प्रभु ), son of 
+प्रयोगसारसमुच्चय.
 
-gives a summary); pr. in होरिलमिश्र ( or होलिलमिश्र ), whole 
+प्रयोगादर्श by कनकसभापति, son of वैद्यनाथ, of मौद्गलगोत्र. It is a com. on his own कारिकामञ्जरी.
 
-Benres in The Pandit' is styled शाकद्वीपीय कलायतम The 
+प्रवरकाण्ड (आश्वलायनीय) pr. by P. Chentsalrao in गोत्रप्रवरनिबन्धकदम्बक (Mysore, 1900).  
+C. by नारायण (pr. in the above)
 
-New Sesjes, vols 29-32. work is mentioneal in आचारक 
+प्रवरखण्ड (आपस्तम्बीय).  
+C. by कपर्दिस्वामिन् (pr. by Chentsalrao in गोत्रप्रवरनिबन्धकदम्बक, Mysore, 1900 pr. at Kumbhakonam 1914).
 
-Cly द्यनाथ पायगुण्ड, son of and स्मृत्यर्थसागर, ard mer.tion: 
+प्रवरखण्ड (वैखानस in one प्रश्न).
 
-महादेव and वेणी and pupil माधवीय and मदनपाल.. Between 1400-1600 A. D 
+प्रवरगण—a work on प्रवरs in शार्दूलविक्रीडित verses. Vide BBRAS Cat. p 225 No. 707; breaks off in verse 25.
 
-of नामोजि. 
+प्रवरदर्पण by कमलाकर; also called गोत्रप्रवरनिर्णय (pr. in गोत्रप्रवरनिबन्धकदम्बक edited by P. Chentsalrao, Mysore 1900).
 
-C हितधर्म कामेश्वरयज्वन् ; men. परशुरामप्रताप by साबाजी or :-म्बाजी 
+प्रवरदीप or प्रवरप्रदीप m. in प्रवरदीपिका.
 
-trons fratt; Palmleaf Ms. प्रतापराज, son of पण्डित पद्मनाभ 
+प्रवरदीपिका by कृष्णशैव; mentions प्रवरमञ्जरी, स्मृतिचन्द्रिका. Later than 1250 A. D.
 
-No. 6956 in Baroda O. I. of जामदग्न्यवरलगोत्र and pupil of भट्ट कूर्म and a protegre of 
+प्रवरनिर्णय—from the विश्वादर्श
 
-परिभाषाविवेक v वर्धमान, son of 
+प्रवरनिर्णय of भास्करत्रिकाण्डमण्डन. Calcutta S. College Mss. Cat. vol. II p. 69, No. 65.  
+C. रामनन्दिन्.
 
-भवेश, of बिल्वपञ्चक family. निजामसाह Seens to have 
+प्रवरनिर्णय by भट्टोजि. Also called गोत्रप्रवरनिर्णय.
 
-About 1460-1500 A. D. On containel at least आहिक, जानि 
+प्रवरनिर्णयवाक्सुधार्णव of विश्वनाथदेव.
 
-नित्य, नैमित्तिक, and काम्य कर्म, विवेक, दान, प्रायश्चित्त, संस्कार, 
+प्रवरमञ्जरी vide गोत्रप्रवरमञ्जरी m. in नृसिंहप्रसाद.
 
-कर्माधिकारी, प्रवृत्त and निवृत्त कर्म, राजनीति and श्राद्ध Vile Vi rim. bag collection ( n DeccLIU 
+प्रवरविवरण m. in the प्रवरदीपिका.
 
-आचमन स्नान, पूजा, श्राद्ध, मधुपर्क, College) II Sos. 243-316 and 
+प्रवराध्याय (there is a section on प्रवर in most of the श्रौतसूत्रs).
 
-दान, युग, &c. Burnell's Tanji,re Cat. p. 1313. | परिशिष्टदीपकलिका of शूलपाणि m. in A huye work. Bar da 0. I. शुद्धितत्व of रघु० This is proba 5887 is राजवल्लभकाण्ड which is biy a commentary on a गृह्य like मानसोल्लास in subject. परिशिष्ट { sutrh as छन्दोग). matter. 
+प्रवराध्याय of the मानवश्रौत BBRAS Cat. vol. II. p. 177.
 
-परिशिष्टप्रकाश m. in शुद्वितत्व and C. श्राद्धकाण्डपदीपिका श्रादीप 
+प्रवराध्याय ascribed to अगस्त्य. On गोत्रs and प्रवरs.
 
-एकादशीतत्त्व of रघुनन्दन. Proba कलिका of बोपदेवपण्डित. 
+प्रवराध्याय by पशुपति, minister of लक्ष्मणसेन; about 1170-1200 A. D.
 
-}ily the same as छन्दोगपरिशिष्ट Quotes हेमाद्रि, कालादर्ग. 
+प्रवराध्याय ascribed to भृगुदेव.
 
-प्रकाश ५ . पराशरपद्धति by भावि स ( itie . हरिराम 
+प्रवराध्याय ascribed to लौगाक्षि, the eleventh परिशिष्ट of कात्यायन.
 
-वर्णजातिसङ्करमाला). 
+प्रवराध्याय by विश्वनाथकवि.
 
-परिशिष्ट संग्रह. पराशरम्मृति-Vide sec. 35 { Mr.ited | परिदोरखण्ड Part of चतुर्वर्गचिन्तामणि. 
+प्रवराध्याय from विष्णुधर्मोत्तर.
 
-several tinues , B. S Ser:er el | परीक्षातत्व alme as दिव्यतत्त्व of रघु०. 
+प्रवराध्याय from स्मृतिदर्पण.
 
-T7. । 
+प्रवासकृत्य by गङ्गाधर, son of रामचन्द्र; composed at स्तम्भतीर्थ (modern Khambayat or Cambay) in संवत् [[P1073]] 1663 (1606-7 A.D.). Deals with duties of साग्निक ब्राह्मणs driven to foreign lands for livelihood.
 
-५. 
+प्रस्तावपारिजात.
 
-.1061 
+प्रस्तावरत्नाकर of हरिदास son of पुरुषोत्तम, under वीरसिंह, in गदापत्तन in संवत् 1614 (1557-58 A. D.). A work in verse on various subjects including नीति, ज्योतिःशास्त्र.
 
-List of works on Dhurmasastra 
+प्रह्लादसंहिता m. in आचाररत्न of लक्ष्मण (follows वल्लभमत).
 
-परीक्षापद्धति by वासदेव. On ordeals. | पल्लीपतनफल. 
+प्राचीनषडशीति (as opposed to अभिनवषडशीति) vide under षडशीति.
 
-Names विश्वरूप, यज्ञपार्श्व, मिनावरा, : पल्लोपतन विचार. शूलपाणि. Later than 1 450 A.D. 
+प्रातःकृत्य.
 
-पल्लोपतनशान्ति पर्णपुरुष or पर्णपुरुषविधि ( cremation of effigies of persons who died 
+प्रातःपूजाविधि by नरोत्तमदास (for the followers of चैतन्य).
 
-पल्ली सरटकाकभासादिशकुन abroad ). 
+प्रायश्चित्तकदम्ब or -निर्णय by गोपालन्यायपञ्चानन. Points out differences between रघुनाथ, नारायण, जगन्नाथतर्कपञ्चानन. N. vol. X. p. 119.
 
-पल्लीशरटयोः फलाफलविचार. पर्यङ्काशौचविधि ( albut resorting 
+प्रायश्चित्तकदम्बसारसंग्रह by काशीनाथतर्कालङ्कार. Mentions views of शूलपाणि, मदनपारिजात, नव्यद्वैतनिर्णयकृच्चन्द्रशेखर. N. (new series) I. pp. 233–35.
 
-पल्लाशरटयो शान्ति. to the order of संन्यास). 
+प्रायश्चित्तकमलाकर by कमलाकरभट्ट.
 
-पल्लीशरटविधान. पर्वकालनिर्णय. 
+प्रायश्चित्तकल्पतरु portion of कल्पतरु.
 
-पवित्ररोगपरिहारप्रयोग पर्वतदानपद्धति. 
+प्रायश्चित्तकाण्ड–2nd part of वैद्यनाथ's स्मृतिमुक्ताफल.
 
-पवित्रारोपणविधान-rite in श्रावण of पर्वनिर्णय by गणपति रावल, son of casting new threads around an 
+प्रायश्चित्तकारिका by गोपाल; based on the बौधायनसूत्र; flourished before सायण.
 
-हरिशङ्कर and grandson of राम 
+प्रायश्चित्तकुतूहल by कृष्णराम.
 
-imaye aud lence taking them दाप, who was औदीच गुर्जर And 
+प्रायश्चित्तकुतूहल by मुकुन्दलाल.
 
-tu wear. honoured by गोडाधीश मनोहर । पशुपतिदीपिका im in शुद्धिकौमुदी Discourses on the proper tirae (pr. 26, 210). Probably for new and full moon sacri | same as पशुपति' दशकर्मदीपिका. fices and erresponding thsequi 
+प्रायश्चित्तकुतूहल by रघुनाथ, son of गणेशभट्ट and pupil of अनन्तदेव. Stein's Cat. p. 96, Hultzsch's Report III p. 56. On both श्रौत and स्मार्त प्रायश्चित्त. About 1660–1700.
 
-पशुपतिनिबन्ध m. in श्राद्धक्रियाकौमुदी al offerings. Names कालविवचन, 
+प्रायश्चित्तकुतूहल by रामचन्द्र; modelled on प्रायश्चित्तविवेक of शूलपाणि. N. X. p. 197.
 
-( p. 503). Probably the same निर्णयसिन्धु, निर्णयभास्कर, मदन ; 
+प्रायश्चित्तकौमुदी alias प्रायश्चित्तविवेक of कृष्णदेव स्मार्तवागीश.
 
-as the श्राद्वपद्धति of पशुपति, composed in संवत् 1743 (नत्रा. 
+प्रायश्चित्तकौमुदी alias प्रायश्चित्तविवेकटिप्पनी of रामकृष्ण.
 
-Throther of हलायुध. About म्भोधिधराधरक्षिनिमित श्रीविक्रमार्के 
+प्रायश्चित्तचन्द्रिका by दिवाकर, son of महादेव, son of रामेश्वर surnamed काल.
 
-1170-1200 A. D. शके) i. e. 1605-86 A. D. 
+प्रायश्चित्तचन्द्रिका by मुकुन्दलाल.
 
-पाकयज्ञनिर्णय or पद्धति by चन्द्रशेखर पर्वनिर्णय by मुरारि. 
+प्रायश्चित्तचन्द्रिका by रमापति of the भैयाल race.
 
-alhas चन्द्रचूड, son of उमापति पर्वनिर्णय by रघुनाथ वाजपेथिन्, fon 
+प्रायश्चित्तचन्द्रिका by राधाकान्तदेव.
 
-allas उमाशङ्कर or उमणभट्ट, son of माधव. Between 1550-16:5 | of धर्मेर alias धर्माभट्ट. Between 
+प्रायश्चित्तचन्द्रिका by विश्वनाथभट्ट; m. by दिवाकर in his प्रायश्चित्तचन्द्रिका and in स्मार्तप्रायश्चित्तोद्धार.
 
-A. D. 
+प्रायश्चित्तचिन्तामणि by वाचस्पतिमिश्र. Vide sec. 101.
 
-15 1650 A. D. पर्वनिर्णय a portion of धर्मसिन्धु. वायजपद्धति, अनन्तमिश्र पर्वसंग्रह 
+प्रायश्चित्ततत्त्व of रघुनन्दन. Vide sec. 107; pr. by Jivananda.
 
-पाकयज्ञपति by पशुपति. पलपीयूषलता by मदनमनोहर, stup of पाकयज्ञप्रयोग by शम्भुभट्ट, son of 
+C. by काशीनाथ तर्कालङ्कार (pr. at Calcutta in 1900).
 
-मधुसूदन ; in 7 chapters on the 
+C. by राधामोहनगोस्वामी (pr. at Calcutta 1885 in Bengali characters). He was a friend of Colebrooke and a descendant of अद्वैत, an associate of चैतन्य.
 
-बालकृष्ण. Follws आपस्तम्बधर्म canopical use of various kinds 
+C. आदर्श by विष्णुराम सिद्धान्तवागीश.
 
-सूत्र. I. O. Cut. pp. 99-100 ( ms. of flesh. 
+[[P1074]] प्रायश्चित्तदीप m. in प्रतापनारसिंह of रुद्रदेव. Earlier than 1700 A. D.
 
-dated संवत् 1710 i. e. 1692-93 पल्लव-a work on politics m. in the A. D.). Flourished between 
+प्रायश्चित्तदीपिका by भास्कर.
 
-राजनीगिरत्नाकर of चण्डेश्वर. Far-! 1660-1710 A. D. lier than 1300 A. D. 
+प्रायश्चित्तदीपिका by राम.
 
-पाञ्चालजातिविवेक. पल्लीपतन prognostications deriven पाणिग्रहणादिकृत्यविवेक by मथुरानाथ. 
+प्रायश्चित्तदीपिका by लोकनाथ, son of वैद्यनाथ (from his सकलागमसंग्रह.)
 
-from the filling of a huu e ___ तर्कवागीश. ( N. vol IX. p. 244 lizard. 
+प्रायश्चित्तदीपिका by वाहिनीपति.
 
-gays that author is tary while 
+प्रायश्चित्तनिरूपण by भवदेवभट्ट. Vide [[sec. 74|sec. 74.]] Also called -प्रकरण.
 
-CO 
+प्रायश्चित्तनिरूपण by रिपुञ्जय (pr. in Bengali characters at Calcutta 1883).
 
-1062 
+प्रायश्चित्तनिर्णय by अनन्तदेव.
 
+प्रायश्चित्तनिर्णय by गोपालन्यायपञ्चानन. Summary of रघुनन्दन's work
 
+प्रायश्चित्तपटल.
 
-the colophon extracted has | 
+प्रायश्चित्तपद्धति by कामदेव. Ms. copied in 1669 A. D. (Aufrecht's Oxf. Cat. 293 a).
 
-मथुरानाथ ). पारस्करगृह्यकारिका alias कातीयगृह्य 
+प्रायश्चित्तपद्धति by जम्बूनाथसभाधीश, son of हेमाद्रि; in four पटलs.
 
-सूत्रप्रयोगविवृति by रेणुकाचार्य, son of महेशसूरि and grandson of सोमेश्वर of the शाण्डिल्यगोत्र. Composed in sake 1188 i e. 
+प्रायश्चित्तपद्धति by रामचन्द्र, son of सूर्यदास.
 
-1266 A. D. (I. O. Cut vol. __ I. p. 67). पारस्करगृह्यपरिशिष्टपद्धति by कामदेव. 
+प्रायश्चित्तपारिजात by गणेशमिश्र महामहोपाध्याय.
 
-दीक्षित on वाप्यादिप्रतिष्ठा ( pr. in Gujarati P.). पारस्करगृह्यसूत्र ( also called कातीय 
+प्रायश्चित्तपारिजात by रत्नपाणि. Mentions कामधेनु. (N. vol. VI. p. 300).
 
-गृह्यसूत्र) in 3 काण्ड ( pr. by Stenzler in 1876 at Leipzig and in Kashi S. Series with several commentaries and by the Guja rati Press, Bombay, with several commentaries and translated in S. B. E. vol. 29). C. अमृतच्याख्या m. by नन्दपण्डित 
+प्रायश्चित्तप्रकरण (Stein's Cat. pp. 96, 310).
 
-in his शुद्धिचीन्द्रका. Earlier ___ than 1550 A. D. C. अर्थभास्कर by भास्कर, pupil ___of राघवेन्द्रारण्य. 
+प्रायश्चित्तप्रकरण by भट्टोजि.
 
-C. प्रकाश by वेदमिश्र, Son of विश्व 
+प्रायश्चित्तप्रकरण by भवदेव बालवलभीभुजङ्ग. Sec. 74.
 
-रूप दीक्षित; used by his son 
+प्रायश्चित्तप्रकरण by रामकृष्ण.
 
-मुरारिमिश्र C. संस्कारगणपति by रामकृष्ण, Son 
+प्रायश्चित्तप्रकाश of प्रद्योतनभट्टाचार्य son of बलभद्र.
 
-of कोनेर, son of प्रयागभट्ट (खण्डs pr. in Ch. S. Series). He was of भारद्वाजगोत्र and was patronised by विजय सिंह; he compiled it in चिञ्चमण्डलपत्तन on the वशिष्ठा river; mentions कर्क, हरिहर, गदाधर, हलायुध, काशिका and दीपिका. He wrote श्राद्धगण. पति also. Vide I. O. Cat. p. 562 for his श्राद्धसंग्रह. 
+प्रायश्चित्तप्रदीप m. by स्मृतिकौस्तुभ (on तिथि).
 
-About 1750 A. D. 
+प्रायश्चित्तप्रदीप by केशवभट्ट.
 
-C. सज्जनवल्लभा by जयराम, son of 
+प्रायश्चित्तप्रदीप by गोपालसूरि. Bik. Cat. p. 137 says so, but it appears that गोपालसूरि is a भाष्यकार on बौधायनश्रौत, whom the author follows on श्रौत[[प्रायाश्चित्त|प्रायश्चित्त]].
 
-बलभद्र of भारद्वाजगोत्र, resid. ing in Mewad. Names उवट, कर्क, and स्मृत्यर्थसार and is m. by गदाधर. Ulwar Cat. extract 39 gives संवत् 1611 (1554-5 A. D.) as the date (probably of copying). Bet ween 1200-1400 A. D.; pr. at Gujarati Press and in 
+प्रायश्चित्तप्रदीप by प्रेमनिधि of पन्थवंश, composed in śake 1675 (Baroda O. I. 1490).
 
-Kashi S. Series. C. (भाष्य) by कर्क m. by त्रिकाण्ड 
+प्रायश्चित्तप्रदीप by राजचूडामणि, son of रत्नखेट श्रीनिवासदीक्षित.
 
-मण्डन, हेमाद्रि and हरिहर. Earlier than 1100 A. D. 
+प्रायश्चित्तप्रदीप by रामशर्मन्.
 
-(pr. in Gujarati P. ed.). C. ( भाष्य ) by कामदेव ( on परि 
+प्रायश्चित्तप्रदीप by वरदाधीशयज्वन्, pupil of वेङ्कटाधीश.
 
-शिष्टकण्डिका); pr. at Guja 
+प्रायश्चित्तप्रदीप by वाहिनीपति.
 
-rati P. C. by गदाधर, son of वामन. 
+प्रायश्चित्तप्रदीप by शङ्करमिश्र, son of भवनाथ. He was गुरु of वर्धमान; flourished in 2nd and 3rd quarters of the [[15th century).|15th century.]]
 
-Names कर्क, जयरामभाष्य, भर्तृयज्ञ, मदनपारिजात, हरिहर About 1500 A. D.; pr. in Kashi S. Series and in 
+प्रायश्चित्तप्रदीपिका by अनन्तदेव, son of [[आपदेव|आपदेव.]] Vide sec. 114.
 
-Gujarati P. edition. C. by भर्तृयज्ञ m. by जयराम in 
+प्रायश्चित्तप्रदीपिका by भास्कर (Same as प्रायश्चित्तशतद्वयी) on प्रायश्चित्तs in श्रौत rites.
 
-his भाष्य. C. ( on पारस्करगृह्यमन्त्र) by मुरारिमिश्र, son of वेदमिश्र; 
+प्रायश्चित्तप्रयोग by अनन्तदीक्षित.
 
-ms. ( in Stein's Cat. p. 252) dated संवत् 1430 (1373 
+प्रायश्चित्तप्रयोग by त्र्यम्बक (N. vol. X. 164), based on आश्वलायन.
 
-A. D.). C. by वागीश्वरीदत्त. C. by वासुदेवदीक्षित ; m. by हरिहर 
+प्रायश्चित्तप्रयोग by दिवाकर. Vide under स्मार्तप्रायश्चित्तप्रयोग.
 
-and रघुनन्दन in यजुर्वेदिश्राद्ध तत्त्व. Contains पद्धति of all 
+प्रायश्चित्तप्रयोग by बालशास्त्री कागलकर.
 
-rites. Earlier than 1250 A.D. C. by विश्वनाथ, son of नृसिंह, a 
+प्रायश्चित्तप्रयोगरत्नमाला– mentions स्मृत्यर्थसार, त्रिकाण्डमण्डन, प्रदीप, केशवीकार.
 
-नागरबाह्मण of the काश्यपगोत्र compiled at Bepares by लक्ष्मीधर, great-grandson of मनन्त, who was uncle of 
+[[P1075]] प्रायश्चित्तमञ्जरी of बापुभट्ट, son of महादेव केळकर. Stein's Cat. p. 96, gives विरचनकाल as śake 1736.
 
-List of works on Dharmaśāstra 
+प्रायश्चित्तमनोहर of मुरारिमिश्र, son of कृष्णमिश्र, and pupil of रामभद्र and केशवमिश्र.
 
-1063 
+प्रायश्चित्तमयूख of नीलकण्ठ; vide sec. 112. pr. by Mr. J. R. Gharpure.
 
-विश्वनाथ, in संवत् 1692 माघ | पार्थिवलिङ्गपूजा-founded of बौधायन (i. e. 1635 A. D.). Names | सूत्र, बृहद्वासिष्ठ, लिङ्गपुराण (I. O. कर्क, हरिहर, कालनिर्णयदीपिका Cut. p. 585 ). Therefore विश्वनाथ flouri- | पार्थिवलिङ्गपूजा विधि ( two different shed about 1550 A.D. Vide works in Stein's Cat. p. 95). Ulwar Cat. extract 43 ( pr. पार्वणचटश्राद्धप्रयोग by देवभद्र. in Gujarati P. ed. ). 
+प्रायश्चित्तमार्तण्ड of मार्तण्डमिश्र (Mitra's Notices vol. VII, p. 7, No. 2252 dated śake 1544 i. e. 1622–23 A. D.).
 
-पार्वणचन्द्रिका by रत्नपाणिशर्मा, son C. by हरिशर्मन m, in प्रायश्चित्त 
+प्रायश्चित्तमुक्तावली by दिवाकर, son of महादेव (part of his धर्मशास्त्रसुधानिधि).
 
-of गंगोली सजीवेश्वरशर्मा. On तत्त्व ( Jivananda vol. I. p. 
+अनुक्रमणी to above by वैद्यनाथ, son of author.
 
-various kinds of and 531 ). 
+प्रायश्चित्तमुक्तावली by रामचन्द्रभट्ट.
 
-particularly पार्वणश्राद्ध, accord C. (भाष्य and पद्धति ) by हरिहर (pr. in Gujarati P. and 
+प्रायश्चित्तरत्न by कमलाकरभट्ट m. in शूद्रकमलाकर.
 
-ing to the grain school, Kashi s. Series ). Names | पार्वगत्रयश्राद्ध विधि ( Stein's Cat, कर्क, कल्पतरुकार, रेणु, वासुदेव, | 
+प्रायश्चित्तरत्नमाला by रामचन्द्रदीक्षित.
 
-p. 95). विज्ञानेश्वर and is m in श्राद्ध पार्वणप्रयोग-part of श्राद्धनृसिंह क्रियाकौमुदी of गोविन्दानन्द ( P. पार्वणश्राद्ध ( आश्वलायनीय ). 
+प्रायश्चित्तरत्नाकर by रत्नाकरमिश्र.
 
-418 ). Between 1275-1400 
+प्रायश्चित्तरहस्य by दिनकर m. in स्मृतिरत्नावली.
 
-____C. प्रदीपभाष्य by नारायण A. D. Vide sec. 85. रघुनन्दन in his यजुर्वेदिश्राद्ध तत्त्व ( Jivar 
+प्रायश्चित्तवारिधि by भवानन्द.
 
-पार्वणश्राद्धपद्धतिः nanda vol. II. p. 488 ) wen. 
+प्रायश्चित्तविधि by भास्कर.
 
-पार्वणश्राद्धप्रयोग for छन्दोग. tions both हरिशर्मन् and हरि 
+प्रायश्चित्तविधि by मायूर अप्पयदीक्षित; mentions हेमाद्रि and माधव.
 
-| पार्वणश्राद्धप्रयोग for वाजसनेयिन्s by हर in the same sentence as देवभद्र explaining a passage of कात्या- पार्वणस्थालीपाकप्रयोग ( part of प्रयोग यनगृह्य. 
+प्रायश्चित्तविधि from वसिष्ठस्मृति.
 
-रत्न of नारायणभट्ट ). पारस्करगृह्यसूत्रपद्धति by कामदेव. 
+प्रायश्चित्तविधि attributed to शौनक.
 
-. पार्वगादिश्राद्धतत्व vide श्राद्धतत्व of पारस्करगृह्यसूत्रपद्धति by भास्कर | 
+प्रायश्चित्तविनिर्णय by अनन्तदेव.
 
-Vide above. 
+प्रायश्चित्तविनिर्णय by भट्टोजि.
 
-रघु० पारस्करगृह्यसूत्रपद्धति hy वासुदेव 
+प्रायश्चित्तविनिर्णय by यशोधरभट्ट.
 
-पिण्डपितृयज्ञप्रयोग (हिरण्यकेशीय ) by 
+प्रायश्चित्तविवेक of शूलपाणि. Vide sec. 98 (Baroda O. I. 10849 dated संवत् 1501 i. e. 1444–45 A. D.); pr. by Jivananda.
 
-Vide above. 
+C. तत्त्वार्थकौमुदी by गोविन्दानन्द, son of गणपतिभट्ट. Vide sec. 106 (pr. by Jivananda).
 
-चन्द्रचूडभट्ट, son of उमापति. पारस्करमन्त्रभाष्य by मुरारि Vide | पिण्डपितृयज्ञप्रयोग by विश्वेश्वरभट्ट 
+C. कौमुदी or टिप्पनी by रामकृष्ण.
 
-above under पारस्करगृह्यसूत्र. _alias गागाभट्टः vide Bik. Cat. पारस्करश्राद्धसूत्रवृत्यर्थसंग्रह by उदयं p. 136. 
+C. निगूढार्थप्रकाशिका. N. (new series) vol. II. p. 114.
 
-कर ( Stein's Cat. p. 17 ). पिण्डपितृयज्ञप्रयोग from the प्रयोग पारिजात-numerous works on dhar 
+प्रायश्चित्तविवेक of श्रीनाथ. About 1475–1525 A. D.
 
-रत्न of हरिहर. ma hare this ending e. g. मदन 
+प्रायश्चित्तविवेकोद्योत (part of मदनरत्न). Sec. 95.
 
-रितामहस्मृति ride sec 44. पारिजात, प्रयोगपारिजात, विधान पारिजात. 
+प्रायश्चित्तव्यवस्थासंक्षेप by चिन्तामणिन्यायालङ्कारभट्टाचार्य (N. vol. IV No. 1580). He wrote also व्यवस्थासंक्षेपs on तिथि, उद्वाह, श्राद्ध, दाय, शुद्धि. Ms. dated śake 1611.
 
-पितृदयिता of अनिरुद्ध. Vide sec. 83 पारिजात- vide see. 76 
+प्रायश्चित्तव्यवस्थासंग्रह by मोहनचन्द्र.
 
-| ( pr. in संस्कृतसाहित्यपरिषद् ser. पारिजात of भानुदत्त. B. O. Mss. Cat. ies, Calcutta ). 
+प्रायश्चित्तव्यवस्थासार by अमृतनाथ.
 
-vol. I. No. 257 and JBORS for | पितृपद्धति of गोपालाचार्य: Mentions 1927 parts III-IV p. VII. । शूलपाणि. Later than 1450 A. D 
+प्रायश्चित्तशतद्वयी by भास्कर in 4 प्रकरणs m. in नि. सि., प्रायश्चित्तकुतूहल of रघुनाथ, भाविप्रकाशितप्रायश्चित्तप्रकरण. Earlier than 1550 A. D.
 
-1064 
+C. by वेङ्कटेश वाजपेययाजी; ms. dated संवत् 1641 (1584–85 A. D.) in Stein's Cat. p. 311.
 
+प्रायश्चित्तशतद्वयीकारिका by गोपालस्वामिन् (बौधायनीय).
 
+प्रायश्चित्तश्लोकपद्धति by गोविन्द.
 
-Sons. 
+प्रायश्चित्तसंक्षेप by चिन्तामणिन्यायालङ्कार. Probably the same as प्रायश्चित्तव्यवस्थासंक्षेप above.
 
-पितृभक्ति by श्रीदत्त Vide sec 90. | पिष्टपशुमण्डन by टीकाकारशर्मन् of 
+प्रायश्चित्तसंग्रह by कृष्णदेव स्मार्तवागीश N. (new series) I. p. 239.
+[[P1076]] प्रायश्चित्तसंग्रह by देवराज (This is in Hindi, prepared for महाराज चेतसिंग of Benares). 1770–1781 A. D.
 
-p. 761 for students of यजुर्वेदः । गाय॑गोत्र ( Baroda O. I. No. C. by मरारि. About end of 15thi 2436). This is probably the 
+प्रायश्चित्तसंग्रह by नारायणभट्ट; mentions शूलपाणि, रघुनन्दन, स्मृतिसागरसार. So later than 1600 A. D. Defines प्रायश्चित्त as ‘पापक्षयमात्रकामनाजन्यकृतिविषयः पापक्षयसाधनं कर्म प्रायश्चित्तम्’.
 
-century. 
+प्रायश्चित्तसदोदय of सदाराम, son of देवेश्वर.
 
-same as पिष्टपशुखण्डन above. पितृभक्तितरङ्गिणी alias श्राद्धकल्प by | C. ( containd in Baroda Ms.). 
+प्रायश्चित्तसमुच्चय by त्रिलोचनशिव.
 
-वाचस्पतिमिश्र Vide see. 101 p. पिष्टपशमण्डनव्याख्यार्थदीपिका by रक्ष 844. 
+प्रायश्चित्तसमुच्चय by भास्कर.
 
-पाल. पितृमेधप्रयोग-by a follower of कपर्दि 
+प्रायश्चित्तसार by त्र्यम्बकभट्ट मोल्ह.
 
-पिष्टपशुमीमांसाकारिका by नारायण, कारिका ( N. vol x. p 271 ). पितृमेधभाष्य ( आपस्तम्बीय ) ly 
+प्रायश्चित्तसार by दलपति (part of नृसिंहप्रसाद pr. in Prince of Wales Series). Vide sec. 103.
 
-_Soil of विश्वनाथ. __ गार्ग्यगोपाल. 
+प्रायश्चित्तसार by (भट्टोजि ?) दीक्षित m. in जयसिंहकल्पद्रुम.
 
-पुंसवनादिकालनिर्णय. पितृमेधविवरण by रङ्गनाथ. 
+प्रायश्चित्तसार by श्रीमदाउचाशुक्लदीक्षित m. in प्रतापनारसिंह (vide BBRAS. Cat. p. 224).
 
-पुण्याहवाचनप्रयोग by पुरुषोत्तम. पितृमेधसार by गोपालयज्वन्. 
+प्रायश्चित्तसार by हरिराम.
 
-पुत्रक्रमदीपिका by रामभद्र on the पितृमेधसार hy वेङ्कटनाथ, son of 
+प्रायश्चित्तसार from स्मृतिसार of यादवेन्द्रविद्याभूषण. N. (new series) I. p. 240. Ms. dated śake 1613 (1691 A. D.).
 
-rights of partition and inheri रङ्गनाथ. 
+प्रायश्चित्तसारकौमुदी of वनमालिन् (N. vol. IX p. 58).
 
-tauce of the twelve kinds of पितृमेधसारसुधीविलोचन ( a com. ) 
+प्रायश्चित्तसारसंग्रह by आनन्दचन्द्र N. (new series) vol. III. p. 126.
 
-by a वैदिकसार्वभौम, probably | the same as वेङ्कटनाथ abore. 
+प्रायश्चित्तसारसंग्रह by नागोजिभट्ट. Vide sec. 115.
 
-पुत्रप्रतिग्रहप्रयोग ascribed to शौनक 
+प्रायश्चित्तसारसंग्रह by रत्नाकरमिश्र.
 
-(Peterson's 6th Report No. 122). पितृमेधसूत्र 
+प्रायश्चित्तसारावलि (portion of बृहन्नारदीयपुराण).
 
-by गौतम 
+प्रायश्चित्तसुधानिधि of सायण, son of मायण and brother of माधवाचार्य. Vide sec. 93.
 
-पुत्रपरिग्रहसंशयोद्भेदपरिच्छेद ( Stein's C. by अनन्तयज्वन्, son of कृष्ण. 
+प्रायश्चित्तसुबोधिनी by श्रीनिवासमखिन् (आपस्तम्बीय).
 
-___Cat. p. 95). by भरद्वाज. 
+प्रायश्चित्तसेतु by सदाशङ्कर.
 
-पुत्रस्वीकारनिरूपण. by हिरण्यकेशिन्. 
+प्रायश्चित्ताध्याय 3rd chap. of निबन्धसर्वस्व of महादेव, son of महाजसहस्रमल्लश्रीपति (I. O. Cat. vol. III p. 555).
 
-पुत्रस्वीकारनिर्णय of रामपण्डित, son आपस्तम्बीय ( प्रश्न 31-32 of कल्प) of विश्वेश्वर, of the वत्सगोत्र. Men. C. by कपर्दिस्वामिन (pr. at Kum- tions विज्ञानेश्वर, चन्द्रिका, कालादर्श, 
+प्रायश्चित्तानुक्रमणिका by वैद्यनाथदीक्षित.
 
-bhakonam, 1905). 
+प्रायश्चित्तेन्दुशेखर by काशीनाथ, son of अनन्त, (also called प्रायश्चित्तप्रयोगसारसंग्रह) composed for बालकृष्ण; pr. in Bombay in 1863 and 1882. Vide sec. 117.
 
-वरदराज. Later than 1400 A. D. पितृसांवत्सरिकश्राद्धप्रयोग 
+प्रायश्चित्तेन्दुशेखर by नागोजिभट्ट, son of शिवभट्ट and सती. Vide sec. 115; ms. (N. vol. V p. 23) is dated संवत् 1848 i. e. 1781–82 A. D.
 
-. पुत्रीकरणमीमांसा of नन्दपण्डित. Same पितृहितकरणी m. in पितृभनि of 
+प्रायश्चित्तेन्दुशेखरसारसंग्रह by नागोजि, son of शिवभट्ट and सती. (I. O. Cat. vol. III p. 555).
 
-_us दत्तकमीमांसा above. Vide sec. श्रीदत्त. About 1300 A. ) 
+प्रायश्चित्तोद्योत by दिनकर (part of दिनकरोद्योत).
 
-110. पिष्टपशुखण्डन by टीकाकारशर्मन् N. ( new series) vol. III. p 116 
+प्रायश्चित्तोद्योत by मदनसिंहदेव (part of मदनरत्न). Vide sec. 95.
 
-पुत्रोत्पत्तिपद्धति. पिष्टपशुखण्डनमीमांसा or पिष्टपशु 
+प्रायश्चित्तोद्धार by दिवाकर, son of महादेव, surnamed काल. Also called स्मार्तप्रायश्चित्त and स्मार्तनिष्कृतिपद्धति (vide Baroda O. I. 1334, 1543, 1663).
 
-पुनःसंधान ( on rekindling of the 
+प्रायश्चित्तौघसार by आनन्दचन्द्र. Offences classified under 4 heads, heinous, gross, venial and slight and their expiation.
 
-___ householder's fire). मीमांसा by नारायणपण्डित, Sun of विश्वनाथ and pupil of नीलकण्ठ. | पुनरुपनयन-Second initiation of a 
+[[P1077]] प्रासाददीपिका m. by जटमल्लविलास. Earlier than 1500 A. D.
 
-N. vol. x. p. 312. Recommends brahmana, when first vitiated पिष्टपशु in sacrifices instead of a hy partaking of forbidden food. goat ; ms. dated संवत् 1785 i. e. | पुनरुपनयनप्रयोग by दिवाकर, son of 1728 A. D. 
+प्रासादप्रतिष्ठा by नृहरि, surnamed पण्ढरपुर. Based on the प्रतिष्ठामयूख and मत्स्यपुराण; ms. in Bhadkamkar collection copied in śake 1714 (1792–93 A. D.); names नि. सि., रामवाजपेय.
 
-महादेव. 
+प्रासादप्रतिष्ठा by भागुणिमिश्र.
 
-List of works on Dharmaśāstra 
+प्रासादप्रतिष्ठादीधिति (part of राजधर्मकौस्तुभ) by अनन्तदेव. Vide sec. 114.
 
-1065 
+प्रासादशिवप्रतिष्ठाविधि by कमलाकर. Sec. 111.
 
-JOIL 
+प्रेतकृत्यनिर्णय.
 
-s 
+प्रेतकृत्यादिनिर्णय Ano.
 
-पुनर्विवाहमीमांसा by बालकृष्ण ( Baro- पुराणसार by prince रुद्रशर्मन् son of 
+प्रेतदीपिका by गोपीनाथ अग्निहोत्रिन्.
 
-da O. I. No. 9026 ). 
+प्रेतप्रदीप by कृष्णामित्राचार्य.
 
-राघवराय, of नवद्वीप. N. vol. X पुनर्विवाहविधिः 
+प्रेतमञ्जरी – vide Hp. Cat. XVII (ms. dated 1707 A. D.).
 
-pp. 62-65. पुरश्चरणकौमुदी by मुकुन्द, son of 
+प्रेतमञ्जरी or प्रेतपद्धति by द्यादुमिश्र. Ulwar Cat. No. 1403.
 
-पुरागसारसंग्रह. माधवाचार्य वज्र. 
+प्रेतमुक्तिदा by क्षेमराम.
 
-पुरुषार्थचिन्तामणि विष्णुभट्ट आठवले, 
+प्रेतश्राद्धव्यवस्थाकारिका by स्मार्तवागीश.
 
-son of TTAESTI A very large पुरश्चरणकौस्तुभ of अहोबल, disciple 
+प्रौढप्रतापमार्तण्ड or कालनिर्णयसंग्रह by प्रतापरुद्रदेव. Vide प्रतापमार्तण्ड.
 
-work on काल, संस्कार etc. Relies _of ईशानेन्द्र and नृसिंहेन्द्र. Com 
+फलप्रदीप m. in प्रयोगपारिजात of नृसिंह (probably a purely astrological work).
 
-upton हेमाद्रि and माधव prin posed in Benares 
+फलाभिषेक.
 
-cipally; pr. by Nir. P. and by पुरश्चरणचन्द्रिका n. in वर्षकृत्यकौमुदी Anau, P.; ms. ( Baroda 0.1. ___of गोविन्दानन्द and by रघुo in | No. 1606) dated sake 1706 
+बभ्रुस्मृति m. in परा. मा.
 
-तिथितत्त्व and आहिकतत्त्व. 
+बलदेवाह्निक compiled from the महाभारत.
 
-(1784-85 A. D.). पुरश्चरणचन्द्रिका by परमहंस देवेन्द्रा पुरुषार्थप्रबोध by ब्रह्मानन्दभारती, 
+बहिर्न्याससूत्र.
 
-श्रम disciple of विबुधेन्द्राश्रम, 
+बहिर्मातृका.
 
-punil of रामराजसरस्वती. Very ( N. vol. VII. p 163 ). D. C. 
+बहिर्यागपूजा.
 
-large work in three parts, each Ms. No. 33 of 1898-99 is dated 
+बह्वृचकारिका m. in नि. सि.
 
-having 4, 5 and 6 chapters re संवत् 1753. 
+बह्वृचकर्मप्रयोग (according to शाकल) N. vol. X. p. 5.
 
-spectively on religious efficacy पुरश्चरणचन्द्रिका by माधव पाठक. पुरश्चरणचन्द्रिका by विबुधेन्द्राश्रम. 
+बह्वृचगृह्यकारिका by शाकलाचार्य. Vide Burnell's Tanjore Cat. p. 14 b. This is the same as the above; m. in समयमयूख.
 
-of भस्म, रुद्राक्ष, derotion to रुद्र पुरश्चरणदीपिका by काशीनाथ, son of 
+बह्वृचगृह्यपरिशिष्ट m. in हेमाद्रि, रघु०, नि. सि.
 
-&c;composed in 1476 (probab जयरामभट्ट 
+बह्वृचश्राद्धप्रयोग.
 
-ly sake) at Malavli village on पुरश्चरणदीपिका by चन्द्रशेखर. 
+बह्वृचषोडशकर्ममन्त्रविवरण.
 
-the river Asanasi. Names विद्या पुरश्चरणदीपिका by रामचन्द्र. 
+बह्वृचसन्ध्यापद्धतिभाष्य.
 
-रण्य and is m. in शूद्रकमलाकर. पुरस्क्रियाचर्या m. in तिथितत्त्व by | 
+बह्वृचाह्निक by कमलाकर, son of रामकृष्ण. Refers to his प्रायश्चित्तरत्न.
 
-Vide BBRAS. Cat.. pp. 220 रघु०. 
+बादरायणस्मृति m. in प्रायश्चित्तमयूख and in com. on नीतिवाक्यामृत.
 
-22 No. 699. Pr. at Chidam पुराणसमुच्चय m. by हेमाद्रि, निर्णयामृत, baram, 1907. 
+बार्हस्पत्यमुहूर्तविधान.
 
-नि. सि., द्वैतनिर्णय. Earlier thin 
+बार्हस्पत्यस्मृति m. by हेमाद्रि.
 
-पुरुषार्थप्रबोधिनी. 1200 A. D. 
+बार्हस्पत्यसंहिता on मुहूर्तs for गर्भाधान, पुंसवन, उपनयन and other संस्कारs and on portentous phenomena. The वीरमित्रोदय (लक्षणप्रकाश p. 356) quotes बार्हस्पत्यसंहिता on elephants in prose and verse.
 
-पुरुषार्थरत्नाकर रङ्गनाथसूरि Pupil of पुराणसर्वस्व by गोवर्धनपाठक, com. 
+बार्हस्पत्यसूत्र (pr. in Punjab S. Series). Also called नीतिसर्वस्व.
 
-कृष्णानन्द सरस्वती ; in 15 तरङ्गs on piled under Benyal Zunindir श्रीसत्य in sike 1395 (1474-75 
+बालबोधक of आनन्दचन्द्र. In 46 श्लोकs on प्रायश्चित्त.
 
-पुराणप्रामाण्यविवेक,त्रिवर्गतत्त्वविवेक, A. D). 
+बालमरणविधिकर्तव्यता.
 
-मोक्षतत्त्वविवेक, वर्णादिधर्मविवेक, पुराणसर्वस्व by पुरुषोत्तम ( Mitra's | 
+बालम्भट्टी by लक्ष्मीदेवी; pr. (आचार, व्यवहार and प्रायश्चित्त) by J. R. Gharpure and vyavahāra por[[P1078]]tion is translated by him. Vide sec. 116.
 
-नामकीर्तनादि, प्रायश्चित्त, अधिकारि. Notices vol. I. p. 188 ). 
+बालार्कोदय m. in नृसिंहप्रसाद (दानसार).
 
-तत्त्वपदार्थपिवेक, मुक्तगतविवेक. पुराणसर्वस्व by हलायध, son of | पुरुषार्थसुधानिधि by सायणाचार्य, 
+बालावबोधपद्धति on शाङ्खायनगृह्यसूत्र.
 
-पुरुषोत्तम. On 730 interesting | (according to some mss. such as points ; composed in 147+ A.D. 
+बाष्कलस्मृति m. by मिताक्षरा (on या. III. 58).
 
-___Baroda O. I. No. 7101 and by (Vide Aufrecht's Oxf. Cat. pp. | विद्यारण्य according to others ). 84-87). 
+बुद्धिप्रकाश m. by रघुनन्दन.
 
-O: धर्म, अर्थ, काम and मोक्ष. पुराणसार m. in पराशरमाधवीय, | पुरुषोत्तमक्षेत्रतत्त्व of रघु०. On the 
+बुधभूषण by शम्भुराज (son of the great Shivaji). 1680–1689 A. D. On politics &c. pr. in Govt. Oriental Series, Poona, 1926.
 
-नृसिंहप्रसाद, आहिकतत्त्व. Earlier | famus shrine of जगनाथ in than 1300 A. D. 
+बुधस्मृति a small treatise of about one page in print in prose. D. C. Mss. No. 207 of A 1881–82 and 145 of 1895–1902. Defines धर्म as श्रेयोभ्युदयसाधन; and summarises rules on उपनयन, विवाह, गर्भाधान and other संस्कारs, पञ्चमहायज्ञ, पाकयज्ञ, हविर्यज्ञ, सोमयाग, rules common to all, duties of the four वर्णs, वानप्रस्थ and यति, राजधर्म, हेमाद्रि in चतुर्वर्ग० (III. 2. 746) quotes some sūtras on उपनयन and it is m. in प्रायश्चित्तमयूख. I. O. Cat. vol. III p. 386 (No. 1323) sets out the whole स्मृति. Vide sec. 25.
 
-| Orissa Vide sec. 107, H. D.-134 
+C. by हरिराम.
 
-1066 
+बुधाष्टमी.
 
+बुधाष्टमीव्रतकालनिर्णय.
 
+बुधाष्टमीव्रतोद्यापन Stein's Cat. p. 96.
 
-पुरुषोत्तमप्रतिष्ठाप्रकार- Vide Peter | पूर्तोद्योत by विश्वेश्वरभट्ट- part of 
+बृहज्जातिविवेक by गोपीनाथकवि (Baroda O. I. 9705).
 
-son's 6th Report No. 95. दिनकरोद्योत q. v. पुलस्त्यस्मृति Vide sec. 45 pp. 516 
+बृहत्पाराशरस्मृति (pr. Jivananda Sm. part II. pp. 53–309).
 
-पूर्वाह्यलीला-( daily duties from 17. 
+बृहत्संहिता by व्यास.
 
-स्नान to पूजा) for वैष्णवs. पुलहस्मृति m. in स्मृतिचान्द्रिका and पृथगुद्वाह. 
+बृहद्यम pr. in Ānan. Sm. pp. 99–107.
 
-माधवाचार्य. 
+बृहद्योगियाज्ञवल्क्य (pub. Kaivalyadham, Lonavla, in [[J|J.]] B. B. R. A. S. vol. 28).
 
-पृथ्वीचन्द्र probably the same as पुष्टिमार्गीयाहिक by व्रजराज ( for 
+बृहद्रत्नाकर of वामनभट्ट.
 
-पृथ्वीचन्द्रोदय ; m, in विधानपारिजात. aghari sect ). पुष्पचिन्तामणि. 
+बृहद्राजमार्तण्ड m. by रघु० in मलमासतत्त्व and संस्कारतत्त्व.
 
-पृथ्वीचन्द्रोदय m.by हेमाद्रि ( चतुर्वर्ग० 
+बृहद्वसिष्ठस्मृति m. by मिताक्षरा, हलायुध, मद. पा.
 
-III. 1 182, द्वैतनिर्णय of शङ्करभट्ट, पुष्पमाला by रुद्रधरः On the flowers 
+बृहद्विष्णुस्मृति.
 
-विधानपारिजात, नि. सि. Earlier and leaves appropriate to the 
+बृहद्व्यास m. by मिता०.
 
-than 1250 A. D. worship of deities. 
+बृहस्पतिशान्ति (from संस्कारकौस्तुभ of अनन्तदेव).
 
-पृथ्वीप्रेमोदय by प्रेमनिधिशर्मन, son of पुष्पसारसुधानिधि m. in the अहल्या 
+बृहस्पतिस्मृति–vide sec. 37; pr. Jivananda Sm. part I pp. 644–651 and Ānan. Sm. pp. 108–111. (G. O. Series).
 
-उमापति of भारद्वाजगोत्र and sur कामधेनुः 
+C. m. by हेमाद्रि (परिशेषखण्ड, काल० p. 309).
 
-named पन्त. D. C. Ms. No. 126 पूजनमालिका by भवानीप्रसाद. 
+बैजवाप (or -पि) गृह्य m. by कुमारिलभट्ट in तन्त्रवार्तिक on मीमांसासूत्र (I. 3. 11) in the words ‘आश्वलायनकं सूत्रं बैजवापिकृतं तथा’.
 
-of 1884-86 was composed in पूजापद्धति by आनन्दतीर्थ, son of | नन्दपञ्चनृपसंमितशाके (1659 i.e. 
+बैजवापस्मृति m. by अपरार्क (in verse about शुभमृत्तिका and सपिण्डन).
 
-जनार्दन. 
+बैजवापायन m. by हेमाद्रि.
 
-1737-38 ). It deals with srauto पूजापद्धति or पद्यमाला by जयतीर्थ 
+बोपणभट्टीय.
 
-कर्म, प्रायश्चित्त &c. pupil of आनन्दतीर्थ ( Baroda पृथ्वीरहस्य m. in अहल्यामधेनुः O. I. 8685). 
+C. by माधवमुनि.
 
-पैङ्गयस्मृति m. in. मिताक्षरा ( on या. पूजापद्धति by रामचन्द्रभट्ट, son of | III. 18). 
+बौधायनगृह्य Pr. in Mysore G. O. L. Series, ed. by Dr. Shamaśāstri; divided into 4 प्रश्नs of गृह्य, two प्रश्नs of गृह्यसूत्रपरिभाषा, 5 प्रश्नs of गृह्यशेष, 3 of पितृमेधशेषसूत्र and one of पितृमेधशेषसूत्र. It is the बौधायनगृह्यशेषसूत्र (II. 6) that contains a passage about पुत्रप्रतिग्रह (adoption) that resembles closely a passage of वसिष्ठधर्मसूत्र.
 
-विष्णुभट्ट छजवलकर; Baroda 0. I. No. 10471 copied in sake 1735 
+C. पूरणव्याख्या by अष्टावक्र.
 
-पैठीनसिस्मृति. vide sec. 24. i.e. 1813-14 A. D. 
+[[P1079]] C. भाष्य (called शिष्टिभाष्य). Hultzsch II. No. 668.
 
-पैतृकतिथिनिर्णय by चक्रधर. पूजापाल m in आह्निकचन्द्रिका. पैतृमेधिक by यल्लाजि, son of यल्लुभट्ट पूजाप्रकाश by मित्र मिश्र ( part of वीर- of the भरद्वाजगोत्र. According to 
+बौधायनगृह्यकारिका by कनकसभापति.
 
-मित्रोदय ). Vide sec. 113. भारद्वाजीयसूत्र and कपर्दिन्. पूजाप्रदीप by गोविन्द w. in दीक्षातत्व 
+बौधायनगृह्यपद्धति by केशवस्वामिन्.
 
-Hultzsch R. I. No. 58. by रघु० 
+बौधायनगृह्यपरिशिष्ट (ed. by Harting).
 
-पैतृमेधिकसूत्र by भारद्वाज in two प्रश्न पूजारत्नाकर by चन्डेश्वर. Vide sec. 91. | ( each in 13 कण्डिका). पूर्णचन्द्र by रिपुञ्जय. On प्रायश्चित्त प्रकाश-several works end in प्रकाश पर्तकमलाकर by कमलाकरभट्ट, Vide | e.g. सर्वधर्मप्रकाश of शङ्करभट्ट, पर 
+बौधायनगृह्यप्रयोगमाला by राम, son of चौण्ड or चाउण्ड. Ulwar Cat. extract 21; refers to प्रयोगसार.
 
-_sec. 111. 
+बौधायनगृह्यप्रायश्चित्तसूत्र.
 
-शुरामप्रकाश, परिशिष्टप्रकाश. पूर्तप्रकाश-a section of the प्रतापनार- प्रकाश-vide sec. 75. 
+बौधायनतति on गृह्य ritual.
 
-सिंह of रुद्रदेव. 
+बौधायनधर्मसूत्र–vide sec. 6: pr. Ānan. Sm. pp. 425–484 and Mysore G. O. L. Series.
 
-प्रक्रियाञ्जनटीका by वैद्यनाथदीक्षित. पूर्तमाला by रघुनाथ 
+C. by गोविन्दस्वामिन् (Mysore G. O. L. Series).
 
-प्रचेतःस्मृति- vide sec. 47. 
+C. अमल by परमेश्वरपरिव्राजक.
 
-List of works on Dharmaśāstra 
+बौधायनसंग्रह.
 
-1067 
+बौधायनस्मार्तप्रयोग by कनकसभापति. Hultzsch R. II. No. 672.
 
-प्रजापतिस्मृति-vide sec. 48 ; pr. N. vol x. pp 222-235; m. in 
+बौधायनस्मृति.
 
-Anan. Sm. pp. 90-98. 
+बौधायनाह्निक by विद्यापतिभट्ट.
 
-समयमयूख and श्राद्धमयूख. प्रजापद्धति on राजनीति. 
+बौधायनीयपरिशिष्ट m. in आह्निकतत्त्व by रघु०.
 
-प्रतापमार्तण्ड by रामकृष्ण, son of 
+ब्रह्मगर्भस्मृति m. in मिताक्षरा (on या. III. 268), अपरार्क, स्मृतिच०.
 
-माधव; composed at the bidding प्रजापालन. 
+ब्रह्मचारिव्रतलोपप्रायश्चित्तप्रयोग BBRAS. Cat. vol. II. p. 246.
 
-(of king प्रतापरुद्रगजपति (Stein's प्रवणकल्प ascribed to शौनक. On the | 
+ब्रह्मदत्तभाष्य m. in शुद्धितत्त्व by रघु० as quoted by कल्पतरु. So earlier than 1100 A. D. It appears to be a com. on शाङ्खायनगृह्य.
 
-Cat. p. 96 ). Probably the same nature and mystic import of as above. भोङ्कार. 
+ब्रह्मप्रकाशिका (com. on सन्ध्यामन्त्र) of वनमालिमिश्र, son of महेशमिश्र.
 
-प्रतापरुदनिबन्ध m. in द्वैतनिर्णय by C. by हेमाद्रिः 
+ब्रह्मयज्ञशिरोरत्न by नरसिंह.
 
-शङ्करभट्ट ( probably the same as प्रवणकल्प by भानन्दतीर्थः 
+ब्रह्मसंस्कारमञ्जरी by [[नारायणठकुर|नारायणठक्कुर]]. Refers to मुरारिभाष्य, उवटभाष्य, पारस्करगृह्यभाष्य. N. (new series) p. 250.
 
-प्रतापमार्तण्ड ). प्रवणकल्प ( from स्कन्दपुराण ). प्रतापार्क by विश्वेश्वर of the शाण्डिल्य. 
+ब्रह्मोदनप्रायश्चित्त by श्रीनिवासदीक्षित (Baroda O. I. 6789 d).
 
-C. प्रकाश by गङ्गाधरसरस्वती, | गोत्र and surnamed महाशब्द, son pupil of रामचन्द्रसरस्वती. 
+ब्राह्मणपद्धति.
 
-of रामेश्वर, son of गङ्गाराम, son of 
+ब्राह्मणसर्वस्व by हलायुध; (sec. 73). pr. at Calcutta in 1893 and 1960 and at Benares.
 
-रत्नाकर ; based on his ancestor's प्रणवदर्पण by चेङ्कटाचार्य: 
+ब्राह्मवधस्मृति m. in मिताक्षरा (या. III. 257).
 
-जयसिंहकल्पद्रुम and composed by प्रणवदर्पण by श्रीनिवासाचार्य 
+भक्तिजयार्णव by रघुनन्दन. Probably different from the famous रघुनन्दनभट्टाचार्य. N. (new series) I. p. 251.
 
-order of king प्रताप, grandson प्रणवपरिशिष्ट m. hy रघु in आह्निक | of जयसिंह ( Ulwar Cat. extract 
+भक्तिप्रकाश by वैद्यरघुनन्दन in 8 उद्योतs.
 
-तत्त्व. 
+भक्तिमार्गमर्यादा by विठ्ठलेश्वर.
 
-328). प्रणवार्चनचन्द्रिका by मुकुन्दलाल. 
+भक्तिमार्गसंग्रह (for वाल्लभs).
 
-प्रतिग्रहप्रायश्चित्तप्रकार 
+भक्तिरत्नाकर by a son of शिवदास.
 
-प्रतिमादान प्रणवोपासनविधि by गोपीनाथपाठक, 
+भक्तिरसामृतसिन्धु by सनातन; composed in śake 1463 (1541–42 A. D.); m. in भक्तिजयार्णव.
 
-प्रतिमाप्रतिष्ठा by नीलकण्ठ. _son of अग्निहोत्रिपाठक and grand- | 
+C. दुर्गसङ्गमनी by जीव.
 
-प्रतिमासंग्रह m. in दानरत्नाकर of son of काशीपाठक. 
+भक्तिरसार्णव by कृष्णदास.
 
-चण्डेश्वर. प्रतापनारसिंह of रुद्रदेव, son of तोरो 
+भक्तिरहस्य by सोमनाथ.
 
-प्रतिष्ठाकल्पलता by वृन्दावन शुक्ल नारायण of भारद्वाज गोत्र; comm 
+भक्तिवर्धिनी by वल्लभाचार्य.
 
-प्रतिष्ठाकौमुदी by शङ्कर posed at प्रतिष्ठान (modern Pai than on the Godavari ) in 
+भक्तिविवेक by श्रीनिवास (for रामानुजs).
 
-| प्रतिष्ठाकौस्तुभः Sake 1632 i. e. 1710-11 A. D. 
+भक्तिहंस by विठ्ठलेश.
 
-| प्रतिष्ठाचिन्तामणि by गङ्गाधर. An extensive divest d.vided | प्रतिष्ठातत्त्व or देवप्रतिष्ठातत्व by रख into प्रकाशs on संस्कार,पर्त अन्त्येधि, नन्दन; vide sec. 107 संन्यास, यति, वास्तुशान्ति, पाकयज्ञ, प्रतिष्ठादर्पण by पद्मनाभ, son of गोपाल, प्रायश्चित्त, कुण्ड, उत्सर्ग, जातिविवेकः | son of नारायण ( ms. in Bhad Vide BBRAS. Cat. p. 222 Nos. kamkar collection dated sake 700-703. 
+भक्तिहेतुनिर्णय by विठ्ठलेश.
 
-1706 i. e. 1784-5 A. D.). प्रतापमार्तण्ड of प्रौढप्रतापमाण्ड | प्रतिष्ठादीधिति from the स्मृतिकौस्तम 
+C. by रघुनाथ.
 
-attributed to प्रताप्ररुद्र गजपति, 
+[[P1080]] भगवत्स्मृति m. in स्मृतिचन्द्रिका and आचारमयूख.
 
-| of अनन्तदेव. king of उत्कल, son of पुरुषोत्तम, | प्रतिष्ठानिर्णय of गंगाधर. son of कपिलेश्वर of the solar race. | प्रतिष्ठापद्धति by अनन्तमट्ट alias In 5 प्रकाश Vide sec. 104 and | बापुमह. 
+भगवदर्चनविधि by रघुनाथ.
 
-1068 
+भगवद्भक्तिनिर्णय or भगवद्भक्तिविवेक by अनन्तदेव, son of आपदेव. Vide sec. 114.
 
-History of Dharmaśāsira 
+भगवद्भक्तिरत्नावली by विष्णुपुरी composed at Benares. The author was a मैथिल.
 
-CUTS 
+C. कान्तिमाला by author. Composed in śake 1555 Phālguna (1634 A. D.). Bhandarkar's Report for 1887–91 p. LXXX.
 
-11 
+भगवद्भक्तिरसायन by मधुसूदनसरस्वती.
 
-PV 
+भगवद्भक्तिविलास by गोपालभट्ट, pupil of प्रबोधानन्द, in 20 विलासs on religious ceremonies of वैष्णवs; m. in कालसार of गदाधर.
 
-4 
+C. (with text pr. at Calcutta in 1845).
 
-प्रतिष्ठापद्धति by त्रिविक्रमभट्ट, san of प्रतिमरबन्धप्रयोग ( rules for tying 
+भगवन्तभास्कर or स्मृतिभास्कर by नीलकण्ठ, divided into twelve मयूखs. Vide sec. 112 (the whole published at Benares in 1879–80).
 
-रघुसूरि ; N. Vol. V. p. 157, ms. ! of a string as a charin on the copied in संवत् 1785. 
+भट्टकारिका m. in निर्णयसिन्धु.
 
-the wrist at weddings and 
+भरद्वाजस्मृति–Vide sec. 27.
 
-viber festive vecazions ) प्रतिष्ठापद्धति by नीलकण्ठ. प्रतिष्ठापद्धति by महेश्वरभट्ट हर्षे 
+C. by बालम्भट्ट.
 
-प्रतीनाक्षरा Co. of नन्दपण्डिन on the प्रतिष्ठापद्धति by राधाकृष्ण. 
+भर्तृसहगमनविधि.
 
-मिनाक्षग; ser. 110. प्रतिष्ठापद्वति by शङ्करभट्ट 
+भल्लाटसंग्रह m. in नि. सि. (on जन्मनक्षत्रफल). Probably a purely astrological work.
 
-प्रत्यवरोहणप्रयोग, hurt of प्रयोगरत्न of प्रतिष्ठाप्रकाश by हरिप्रसादशमन् । नारायणभट्ट प्रतिष्टाप्रयोग of कमलाकर. 
+भवदेवनिबन्ध m. in प्रायश्चित्तमयूख. Probably the प्रायश्चित्तनिरूपण of भवदेवभट्ट. Vide pp. 641–42 above.
 
-प्रथिततिथिनिर्णय by नागदैवज्ञ. प्रतिष्ठाप्रमूख by नीलकण्ठ ; vide see. | प्रदीप cars as the last part of 
+भस्मकरोगप्रकाश.
 
-112;( pr. by J. R. Gharpure ). the 11.!?ues of several works Styled प्रतिष्ठाप्रयोग also ( vide ___ 2012 आवारप्रदीप, कृत्यप्रदीप, Ulwar Cat. extract 330 ). 
+भस्मवादावली.
 
-समयप्रदीप, संवत्सरप्रदीप प्रतिष्ठारत्न. 
+भागविवेक or धनभागविवेक by भट्टरामजित्, son of श्रीनाथ.
 
-9719 vide sec. $1. प्रतिष्ठापति by दिवाकर. 
+C. मितवादिनी by author. Relies on मिताक्षरा.
 
-प्रदीपदानपति vile महाप्रदीप०. प्रतिष्ठाविवेक of उमापति. 
+भारद्वाजगार्ग्यपरिणयप्रतिषेधवादार्थ on the prohibition of intermarriage between persons of the भारद्वाज and गार्ग्य gotras.
 
-| प्रदी पहा .: गोश' दण्डविवेक and प्रतिष्ठा विवेक of शूलपाणि ( sev. 30 ). . 
+भारद्वाजगृह्य ed. by Dr. J. W. Salomons at Leyden.
 
-____11. उरस्वतःपिलास. Earlier than प्रतिष्ठासंग्रह. 
+C. by कपर्दिस्वामिन्.
 
-14501. D. प्रतिष्ठासमुच्चय in. in देवप्रतिष्टातत्व of | प्रदोपनिर्णय by विष्णुभट्ट ( fron पुरु 
+C. गृह्यप्रयोगवृत्ति by भट्टरङ्ग.
 
-रघुनन्दनः 
+भारद्वाजश्राद्धकाण्डव्याख्या.
 
-पार्यचिन्तामणि. प्रतिष्ठासागर of बल्लालसेन u. in his प्रदोषपूजापद्धति by वल्लभेन्द्र, pupil of 
+भारद्वाजसंहिता vide भारद्वाजस्मृति.
 
-दानसागर. Vide sec. 81. 
+भारद्वाजस्मृति.
 
-वासुदेवेन्द्र प्रतिष्ठासार by रामचन्द्र m. in शान्ति प्रपञ्चमार mily वर्षक्रियाकौमुदी, 
+C. by वैद्यनाथ पायगुण्ड, son of महादेव and वेणी and pupil of नागोजि. Vide sec. 116.
 
-मयूख. 
+भारद्वाजीयभाष्य m. by भास्कर in त्रिकाण्डमण्डन (it is probably कपर्दिभाष्य on भारद्वाजगृह्य) and by हरिहर in पारस्करगृह्यसूत्रभाष्य.
 
-आलिकतत्त्व of रधु? Seems to be प्रतिष्ठासारदीपिका by पाण्डुरङ्ग टकले, a work of the art class, earlier 
+भार्गवार्चनचन्द्रिका m. by भट्टोजि in तिथिनिर्णय.
 
-Son of चिन्तामणि, in पञ्चवटी; ___thu 1450 A. D. composed in sake 1702 ( 1780 
+भार्गवार्चनदीपिका m. in नि. सि. and रामकल्पद्रुम.
 
-C. व्याख्यान, quoted by देवनाथ 81 A. D. ); Baroda U. I. No 
+भार्गवार्चनदीपिका by साबाजी (or -म्बा) alias प्रतापराज. Ulwar Cat. extract 648.
 
-___i तन्त्रकीमुदी. Earlier than 333. 
+भाविप्रायश्चित्त or भाविप्रकाशितप्रायश्चित्तप्रकरण. Ano.; mentions माधवाचार्य. BBRAS. Cat. vol. II. p. 197.
 
-1550 A. D. प्रतिष्ठासारसंग्रह m. by हेमाद्रि ( दान 
+भाष्यसंग्रह m. in निर्णयदीपक.
 
-C. by गीर्वाणयोगीन्द्र. खण्ड p. 134), कुण्डमण्डपसिद्धि 
+[[P1081]] भाष्यार्थसंग्रह m. by हेमाद्रि (III. 1. 1360, where a verse in उपजाति metre is quoted in which कपर्दिन् is named), स्मृतिचन्द्रिका (on आशौच), कालनिर्णय of माधव. Between 1000–1200 A. D.
 
-Chy ज्ञानस्वरूप. and दानमयूख. प्रतिष्टेन्दु by व्यम्बक, son of नारायण 
+भास्कराह्निक.
 
-प्रपञ्चसारविवेक or भवसारत्रिवेक lhy माटे. ( Baroda 0. I. 11039) ). 
+भिक्षुतत्त्व by श्रीकण्ठतीर्थ, pupil of महादेवतीर्थ, on the duties of ascetics and on those entitled to take to संन्यास. N. (new series) vol. I. p. 260.
 
-गङ्गावर महाडकर, son of सदाशिव. 
+भीमपराक्रम m. in शुद्धिकौमुदी of गोविन्दानन्द, in श्राद्धसौख्य (टोडरानन्द), in तिथितत्त्व (seems to be an astrological work).
 
-In 8 उल्लाम; ms. dated संवत् प्रतिष्ठोद्योत ( part of दिनकरोद्योत) | 1440 (17:3-8+ A. D.); vile N. 
+भुक्तिदीपिका (on the question, when food may be taken before an eclipse).
 
-by दिनकर and his som, विश्वेश्वर Vol. X.16 2. On आह्निक, भगवत्पूजा, alias गागाभट्ट 
+भुक्तिप्रकरण by कमलाकर.
 
-भागवतधर्म, moral maxims. 
+भुजबलभीम of भोजराज. Vide p. 588 above; m. in श्राद्धविवेक of शूलपाणि, टोडरानन्द. An astrological work.
 
-72 
+भूतशुद्धि Aufrecht's Leipzig Cat. No. 538.
 
-List of works on Dharmaśāstra 
+भूतशुद्ध्यादिप्राणप्रतिष्ठा Aufrecht's Leipzig Cat. 537.
 
-1069 
+भूपालकृत्यसमुच्चय m. in कृत्यरत्नाकर (p. 499) of चण्डेश्वर. Probably a work of भोज धारेश्वर.
 
-1 
+भूपालपद्धति m. in कुण्डाकृति.
 
-प्रपञ्चामृतसार by एकराज ( or Fkoji) सुधीविलोचन, स्मृतिरत्नाकर' (Mad of 'Tinjure, who reigned from ras (fort. Sanskrit Mss. Cat. 1676 to CSE A. D. Sthe fias- rol. VII. p. 2799 No. 3713). ments on नीनि and पूजा are प्रयोगांचन्तामणि (part of रामकल्पद्मा recovered ( Burneil's Talijoje 
+भूपालवल्लभ by परशुराम. An encyclopaedia of Dharma, astrology, poetics &c. m. in नि. सि., निर्णयदीपक, कालनिर्णयसिद्धान्तव्याख्या.
 
-अनन्तभट्ट Cat. p. 141 bl. 
+भूप्रतिमादान.
 
-प्रयोरचूडामणि ( ms. in Bhadkan. प्रपन्नगतिदीपिका । तातादाद : men tions विज्ञानश्वर, चन्द्रिका. हेमाद्रि, 
+भृगुस्मृति m. by विश्वरूप, कालविवेक of जीमूत०, मिताक्षरा, अपरार्क.
 
-kar collection ) on स्वस्तिक, 
+भैरवार्चापारिजात by जैत्रसिंह.
 
-पुण्याहवाचन, ग्रह्यज्ञ, स्थालीपाक, माधव, सार्वभोप, वैद्यनाथदाचित. 
+भैरवार्चापारिजात by श्रीनिवासभट्ट, pupil of सुन्दरराज, and son of श्रीनिकेतन.
 
-दुष्टरजोदर्शनशान्ति, गर्भाधान, सीम प्रपन्नादिनचर्या ( according to रामानुज । नोन्नयम. यष्ठीपूजा नामकरण, चौल 
+भ्रष्टवैष्णवखण्डन by श्रीधर.
 
-school ). 
+मकरन्दप्रकाश by हरिकृष्ण सिद्धान्त. On आह्निक, संस्कार; ms. (Bik. Cat. p. 416) is dated संवत् 1725 (1668–69 A. D.).
 
-and other संस्कार,उपनयन, विवाह प्रपन्जलक्षण. 
+मङ्गलनिर्णय by गणेश, son of केशव दैवज्ञ. On the rites to be performed at उपनयन, विवाह &c.
 
-प्रयोगचूडामणि ( Mitra's Notices, प्रपन्नौ देहिकविधि 
+मञ्जरी–Occurs as the last component of many works, e. g. गोत्रप्रवरमञ्जरी, स्मृतिमञ्जरी (of गोविन्दराज).
 
-___ vel. IV. p. 23) प्रभाकरालिक by प्रभाकरभट्ट 
+मठप्रतिष्ठातत्त्व of रघुनन्दन. Vide sec. 107.
 
-प्रयोगचूडामणि m. by रधुनन्दन. प्रमाणदर्पण. 
+मठाम्नायादिविचार (on religious practices in the seven principal maṭhas of the शंकराचार्य school). N. vol. X. 256 and Stein's Cat. p. 312.
 
-प्रयोगतत्व of रघुनाथ, son of भानुजि प्रमाणपल्लव of नृसिंह Or नरसिंह ठक्कर, of शाण्डिल्यगोत्र, composed at 
+मठोत्सर्ग of कमलाकर (C. P. Cat. Nos. 3771–72).
 
-divided into परिच्छेद ! अ.चार 
+मठोत्सर्ग of माग्निदेव (C. P. Cat. No. 3770).
 
-benares in 25 afgs on ordinary &c. 
+मणिमञ्जरीच्छेदिनी.
 
-religious rites (संस्कार, परिभाषा, प्रमाणसंग्रह. 
+मण्डपकर्तव्यतापूजापद्धति by शिवराम शुक्ल.
 
-स्वस्तिवाचन, ग्रहमख c.; compo. 
+मण्डपकुण्डमण्डन of नरहरिभट्ट सप्तर्षि.
 
-sed in falke 1577 ( 1656 A. D.). प्रमाणसारप्रकाशिका 
+C. प्रकाशिका (by author).
 
-प्रयोगतिलक by वीरराघव ( Baroda प्रमेयमाला. 
+मण्डपकुण्डसिद्धि by विठ्ठल दीक्षित, son of वरशर्मा; composed at काशी in śake 1541 (1619–20 A. D.).
 
-(0. I. 1806). प्रयागकृत्य ( part of निस्थलीमे 
+[[P1082]] C. विवृति by author; mentions कुण्डकौमुदी, कुण्डरत्नाकर, प्रतिष्ठासारसंग्रह, प्रयोगसार, रामवाजपेयी.
 
-गोगण नारायण, son of चाय प्रयागप्रकरण or प्रयागप्रवदृ । frem | 17. Deals with deinestic rites 
+मण्डपनिर्णय m. in उत्सर्गमयूख.
 
-त्रिस्थलीसेतु ). 
+मण्डपप्रकरण.
 
-according to Rigveda ritual. प्रयागसेतु m. in स्मृति कौस्तुभ of 
+मण्डपोद्वासनप्रयोग by a son of धरणीधर.
 
-Names उज्ज्वला of हरदत्त, हेमाद्रि, Harada (same as gredrt of 
+मण्डलकारिका (Aufrecht's Leipzig Cat. No. 647).
 
-चण्डेश्वर, श्रीधर, स्मृतिरत्नावलि. त्रिस्थलीसेतु). 
+[[मण्डलदेवतास्थापन) |मण्डलदेवतास्थापन (]]Aufrecht's Leipzig Cat. No. 648).
 
-Hater than 1400 A. D. प्रयोगकौस्तुभ by गणेजपाठक. 
+मतपरीक्षा.
 
-प्रयोगदर्पण पद्मनाभतीक्षित, son of 
+मतोद्धार by शङ्करपण्डित.
 
-गोपाल, son of नारायण; deals प्रयोगचन्द्रिका by वीरराघव. 
+मथुरासेतु by अनन्तदेव, son of आपदेव; m. in स्मृतिकौस्तुभ. Sec. 114.
 
-with देवप्रतिष्टा, मण्डपपूजा, तोरण. प्रयोगचन्द्रिका by श्रीनिवास शप्य, bro-i पूजा c. 
+मदनपारिजात attributed to मदनपाल (composed by विश्वेश्वरभट्ट). Vide sec. 94.
 
-ther of सीताराम 
+मदनमहार्णव Vide महार्णव.
 
-प्रयोगदर्पण by रघुनाथसूरि. प्रयोगचन्द्रिका in 18 खण्ड. From प्रयोगदर्पण. by रमानाथविद्यावाचस्पति 
+मदनरत्न or मदनरत्नप्रदीप attributed to मदनसिंहदेव. Vide sec. 95. Ulwar Cat. extract 336 for समयोद्योत; Baroda O. I. No. 4035 on शुद्धि is dated संवत् 1551 (1494–95 A. D.). This last refers to भट्टविश्वनाथ श्रीमालिगूर्जर as the author.
 
-पुंसवन to श्राद्ध ; flows आपस्तम्ब on daily religious duties of गृह्य, mentions कपटभूषण, पञ्चा- hiureholdiers; quotes हेमाद्रि. शिकारिका, जयन्नका रका, कपर्दिका- प्रयोगटपण । वीरराघव. रिका, दशनिर्णय, वामनकारिका, प्रयोगदर्पण ! वैदिकसार्वभौम. 
+मधुपर्कनिर्णय.
 
-IIIL 
+मधुपर्कपद्धति.
 
-1070 
+मध्यमाङ्गिरसस्मृति m. in मिताक्षरा (या. III. 243, 247, 257, 260).
 
+मध्वाह्निक.
 
+मनुस्मृति or मानवधर्मशास्त्र. Vide sec. 31 (vide pp. 346–48 for editions of commentaries).
 
-प्रयोगदर्पण Ano. N. ( New Series) the commentary प्रसाद of विठ्ठल 
+C. मन्वर्थमुक्तावली by कुल्लूकभट्ट. Vide sec. 89. He was a native of वारेन्द्री i. e. Rājśāhi in Bengal.
 
-vol. II. p. 190. On the last rites on the प्रक्रियाकौमुदी of रामचन्द्र. of a man, his cremation and Vide I. O. Cat. p. 166 for gare श्राद्ध. Mentions श्रीधर ( author 
+C. मन्वाशयानुसारिणी by गोविन्दराज (pr. by V. N. Mandlik). Vide sec. 77.
 
-com. aud Bhandarkar Report of स्मृत्यर्थसार ) as much removed 1883-84 p. 59 for pedigree. from him. 
+C. नन्दिनी by नन्दनाचार्य. A late writer (pr. by V. N. Mandlik).
 
-प्रयोगपारिजात by नृसिंह a native of प्रयोगदीप ( to शालायनगृह्य ) by दया 
+C. मन्वर्थविवृति by नारायणसर्वज्ञ. Between 1100–1300 A. D. (pr. by V. N. Mandlik).
 
-कर्णाटक. of the कौण्डिन्यगोत्र. Has 
+C. मन्वर्थचन्द्रिका by राघवानन्दसरस्वती. Later than 1400 (pr. by V. N. Mandlik).
 
-five काण्डs on संस्कार, पाकयज्ञ, शङ्कर. 
+C. सुखबोधिनी by मणिरामदीक्षित son of गङ्गाराम (vide Stein's Cat. p. 98).
 
-आधान, आह्निक, गोत्रप्रवरनिर्णय. प्रयोगदीपिका by मञ्चनाचार्य: 
+C. by असहाय. Vide sec. 59.
 
-Portion on FAT printed at प्रयोगदीपिका by रामकृष्णभट्ट. 
+C. by उदयकर m. in वि. र. Earlier than 1300 A. D.
 
-Nir. Press ( 1916). Speaks of 
+C. by उपाध्याय, m. in मेधातिथिभाष्य.
 
-25 संस्कारs; mentions कालदीप प्रयोगदीपिकावृत्ति. 
+C. by ऋजु m. in मेधातिथिभाष्य.
 
-and कालप्रदीप ( on same page), प्रयोगपञ्चरत्न m. in चातुर्मास्यप्रयोग. 
+C. by कृष्णनाथ.
 
-कालदीपभाष्य, क्रियासार, फलप्रदीप, प्रयोगपद्धति. 
+C. by धरणीधर m. by कुल्लूकभट्ट. Between 950–1200 A. D.
 
-विश्वादर्श, विधिरत्न, श्रीधरीय, स्मृति of गङ्गाधर (बौधायनीय ), भास्कर; criticizes हेमाद्रि and of झिंगय्यकोविद, son of पेञ्जल्ल 
+[[C|C.]] by भागुरि m. by वि. र.; vide p. 346.
 
-माधव ; composed between 1360 
+C. (भाष्य) by मेधातिथि; vide sec. 64 (pr. by V. N. Mandlik and by J. R. Gharpure).
 
-aud 1435 A. D. It is this work मञ्चनाचार्य ( for मापस्तम्बीयs). This is called शिङ्गाभट्टीय. 
+C. by यज्वन्, m. by मेधातिथि.
 
-probably that is mentioned in 
+C. by रामचन्द्र (pr. by V. N. Mandlik).
 
-नृसिंहप्रसाद (दानसार), धर्मप्रवृत्ति of दामोदरगार्य ; based on कर्को 
+C. by रुचिदत्त.
 
-(संस्कार Portion) and प्रयोगरत्न पाध्याय, गङ्गाधर, हरिहर and fol 
+C. by anonymous (Kashmirian); portions pr. by Dr. Jolly.
 
-of नारायणभट्ट; ms. ( Bik. Cat. p. lows पारस्करगृह्य. Also styled 
+मन्त्रकमलाकर by कमलाकर.
+[[P1083]] मन्त्रकोश m. in आचारमयूख.
 
-439) is dated संवत् 1495 संस्कारपद्धति. 
+मन्त्रकोश by आशादित्यत्रिपाठिन् in 20 परिच्छेदs. Ulwar Cat. extract 651.
 
-(1438-39 A. D.). of रघुनाथ, son of रुद्रभट्ट अया- प्रयोगपारिजात by पुरुषोत्तमभट्ट, Son of चित (आश्वलायनीय).. 
+मन्त्रकौमुदी by अनिरुद्धभट्ट [[महामोहपाध्याय|महामहोपाध्याय]], said to be a दाक्षिणात्य. In four काण्डs explains मन्त्रs of सामवेदगृह्यसूत्र; ms. (N. vol. X. p. 122) dated śake 1717 i. e. 1795 A. D.
 
-देवराजार्य. of हरिहर (in 2 काण्डs on do- | प्रयोगपारिजात by रघुनाथ वाजपेयिन् . mestic religious rites); at 
+मन्त्रतन्त्रप्रकाश m. by रघु० in एकादशीतत्त्व.
 
-प्रयोगपारिजातसारावलि m. in धर्म tached to com. on पारस्करगृह्य. प्रवृत्ति. प्रयोगपद्धति to कात्यायनश्राद्धसूत्र. प्रयोगप्रदीप by शिवप्रसाद प्रयोगपद्धतिसुबोधिनी by शिवराम 
+मन्त्रप्रकाश m. by रघु० in दीक्षातत्त्व.
 
-प्रयोगमञ्जरीसंहिता by श्रीकण्ठ ( Ba प्रयोगपारिजात by नरसिंह ( vide I.0. ___roda O. I. No. 12959). 
+मन्त्रप्रश्नभाष्य by हरदत्त. Vide under एकाग्निकाण्डमन्त्रव्याख्या.
 
-Cat. p. 415 No. 1396 ). Men- | प्रयोगमणि by केशवभट्ट, son of अभयं tions हेमाद्रि, विद्यारण्य, प्रसाद कर नारायण ( which the editor of I. O. Cat. 
+मन्त्रमुक्तावली m. in शुद्धितत्त्व and मलमासतत्त्व by रघु०.
 
-प्रयोगमुक्तावलि by मिभिसूरि (?) takes to be नृसिंहप्रसाद ). This is तिपिलि; D. C. Ms. No. 102 of most probably the same as 1871-72. Quotes विज्ञानेश्वर, the next below and प्रसाद प्रयोगपारिजात, नृसिंह, माचारमयूख, means probably no more than Later than 1650 A. D.List of works on Dharmasastra 
+मन्त्ररत्नदीपिका m. in अहल्याकामधेनु.
 
-1071 
+मन्त्रसारसंग्रह m. in सदाचारचन्द्रिका.
 
-प्रयोगमुक्तावलि by वीरराघवः | प्रयोगरत्नभूषा by रघुनाथ नवहस्त प्रयोगरत्न or स्मानिष्ठानपद्धति by | BBR AS. Cat. vol II p. 185). 
+मन्त्रसारसंग्रह of शिवराम.
 
-अनन्त, son of विश्वनाथ; deals | प्रयोगरत्नमाला by चौण्डप्पाचार्य. with 25 \#417s according to प्रयोगरत्नमाला by वासुदेव, son of आश्वलायन, and स्वस्तिवाचन, आपदेवभट्ट, व चित्तपावन ब्राह्मण; पुण्याहवाचन, स्थालीपाक, परिभाषा, on विष्ण्वादिसर्वदेवप्रतिष्ठा; men प्रायश्चित्त. ( I. O. Cat. vol. III ] tious निर्णयसिंधु. Between 1620 p. 515). 
+मयूरचित्रक or मेघमाला or रत्नमाला attributed to नारद. Deals with indications of prospective rain, famine etc. from the appearance of the atmosphere &c.; m. in अद्भुतसागर of बल्लालसेन.
 
-and 1760 A, D. Also called प्रयोगरत्न (हिरण्यकेशीय ) by अनन्त , 
+मयूरचित्रक by भट्टगुरु in 7 kāṇḍas. (Tri. Cat. Madras Govt. Mss. 1919–22 p. 4404).
 
-वासुदेवी and प्रतिष्टारत्नमाला. देव, son of विश्वनाथ ; vide Peter- | प्रयोगरत्नमाला by पुरुषोत्तम विद्या sion' s 5th Report. No 126. | वागीश. Probably the sune as above 
+मरणकर्मपद्धति (ascribed to the यजुर्वेदगृह्यसूत्र).
 
-प्रयोगरत्नसंस्कार by प्रेम निधि. प्रयोगरत्न by काशीदीक्षित, son of 
+मरणसामयिकनिर्णय on rites and expiations to be performed at time of death (Bik. Cat. p. 420).
 
-प्रयोगरत्नसंग्रह m. by संस्कारमयूख. 
+मरीचिस्मृति–vide sec. 49.
 
-प्रयोगरत्नाकर-vide प्रयोगदीप of दया. सदाशिव. 
+मर्यादासिन्धु m. in द्रव्यशुद्धिदीपिका of पुरुषोत्तम.
 
-शङ्कर above. प्रयोगरत्न by केशवदीक्षित, son of 
+मलमासकार्याकार्यनिर्णय.
 
-प्रयोगरत्नाकर by यशवन्तभट्ट ( for सदाशिव 
+मलमासतत्त्व or मलिम्लुचतत्त्व of रघुनन्दन pr. by Jivananda.
 
-मैत्रायणीयs ) Baroda O. I. 8365. प्रयोगरत्न by नारायणभट्ट, son of | प्रयोगरत्नावली by परमानन्दघन, 
+C. by काशीराम वाचस्पति, son of राधावल्लभ and grandson of रामकृष्ण.
 
-रामेश्वरभट्ट (pr. by Nir. P.) for | 
+C. by मथुरानाथ.
 
-pupil of चिदानन्दब्रोन्द्रसरस्वती आश्वलायनीय Vide sec. 108. 
+C. टिप्पनी by राधामोहन.
 
-probably on śrauta rites only ). प्रयोगरत्न by प्रेमनिधि. 
+C. by वृन्दावन.
 
-प्रयोगलाघव by विठ्ठल, son of महादेव. प्रयोगरत्न by नृसिंहभद्द, son of नारा 
+C. by हरिराम.
 
-| प्रयोगसंग्रह by रामनाथ. यणभट्ट, according to आश्वलायन and शौनक ;quoted in चतुर्विंशति 
+मलमासनिरूपण.
 
-| प्रयोगसागर by नारायण भारड. Later 
+मलमासनिर्णय by दशपुत्र.
 
-than 1650 A. D.; also called मतव्याख्यान of भट्टोजि; between 1500-1600 A D. 
+मलमासनिर्णय by बृहस्पति, son of भवदेव (Baroda O. I. No. 12851).
 
-गृह्याग्निसागर. प्रयोगरत्न by भट्टोजि ( C. P. Cat. 
+मलमासनिर्णय by वज्रेश्वर, son of नरसिंह.
 
-प्रयोगसार (W. and K. Cat. II. p. No. 3131). 
+मलमासनिर्णयतन्त्रसार by वासुदेव.
 
-97 ) in 8 कान्ड 
+मलमासरहस्य by बृहस्पति, son of भवदेव, composed in śake 1603 (1681–82 A. D.).
 
-प्रयोगरत्न or स्मार्तप्रयोरत्न of महेश, 
+मलमासविचार Ano.; composed in 1579 A. D. (Bik. Cat. p. 417). The date seems to be rather 1679 (1600 शके.)
 
-प्रयोगसार by कृष्णदेव स्मार्तवागीश, son of महादेव वैशम्पायन; com. 
+मलमासाघमर्षणी Ano.
 
-_son of नारायण. This is also called posed at Kasi on संस्कार, शान्ति 
+मलमासार्थसंग्रह by गुरुप्रसादशर्मन्; N. (new series) vol. I. p. 279.
 
-कृत्यतत्त्व by संवत्सरप्रयोगसार. and श्राद्ध ; pr. in sake 1798 ; 
+महागणपतिपूजापद्धति.
 
-प्रयोगसार by केशवस्वामिन् (बौधाय eulogises मातृदत्त ; ms. ( Baroda 
+महादाननिर्णय by king भैरवेन्द्र of मिथिला, with the help of वाचस्पतिमिश्र, ms. (Hp. Cat. pp. XII. 36 and 122) dated ल. सं. 392 (i. e. 1511 A. D.) The pedigree is given as भवेश, his son हरसिंहदेव, his son भैरवेन्द्र, [[P1084]] styled रूपनारायण here, though हरिनारायण elsewhere; vide also Ulwar Cat. No. 1413 where this work appears to be styled महादानप्रयोगपद्धति.
 
-नीय ). On Vaidic sacrifices. O. I. No. 1626 ) dated 1844 
+महादानपद्धति by रूपनारायण (I. O. Cat. p. 550. No. 1715 must be taken as dated śake 1452, i. e. 1530 A. D. as the cyclic year विकृति agrees). Also called महादानप्रयोगपद्धति; m. by वाचस्पति in द्वैतनिर्णय, by कमलाकर, in दानमयूख.
 
-Names नारायण and भवस्वामी संवत् i. e. 1787-88 A. D. 
+महादानपद्धति by विश्वेश्वर.
 
-and is m. by त्रिकाण्डमण्डन. प्रयोगरत्न by महादेव ( हिरण्यकेशीय ). 
+महादानवाक्यावली of रत्नपाणिमिश्र, son of गंगोलीसञ्जीवेश्वरमिश्र; mentions a work called इतिहाससमुच्चय.
 
-About 1100 A. D. प्रयोगरत्न by वासदेवदीक्षित, son of | प्रयोगसार by गङ्गाभट्ट ( आपस्तम्बीय). 
+महादानानुक्रमणिका.
 
-भापदेव. 
+महादानदीपविधि.
 
-प्रयोगसार by देवभद्र पाठक, son of प्रयोगरत्न by हरिहर 
+महादेवपरिचर्याप्रयोग (बौधायनीय) by सुरेश्वरस्वामिन्, pupil of रघुरामतीर्थ N. vol. X. p. 239.
 
-। बलभद्र ( कात्यायनीय), Refers to 
+महादेवीय m. by निर्णयामृत.
 
-1072 
+महाप्रदीपरत्नपद्धति N. (new series) I. p. 280.
 
+महाप्रयोगसार m. by रघु० in आह्निकतत्त्व.
 
+महाप्रवरनिर्णय.
 
-गङ्गाधर पाठक, भर्तृयज्ञ, वासुदेव, रेणु, प्रवरदर्पण by कमलाकर; also called कर्क, हरिस्वानी, माधव, पद्मनाभ, ___ गोत्रप्रवरनिर्णय ( pr. in गोत्रप्रवर गदाधर, हरिहर, रामपद्धति (f अनन्त. निबन्धकदम्बक edited by P. Deals 
+महाप्रवरभाष्य by पुरुषोत्तम, m. in his गोत्रप्रवरमञ्जरी.
 
-atlers. 
+महारुद्रकर्मकलापपद्धति.
 
-Chentsalrao, Mysore 1900). 
+महारुद्रजपहोमपूजापद्धति.
 
-प्रयोगसार by नारायण, Sil of लक्ष्मी 
+महारुद्रन्यासपद्धति by बलभद्र.
 
-प्रवरदीप or प्रवरप्रदीप m. in प्रवर धर; same as गृह्याग्निसागर or 
+महारुद्रपद्धति see रुद्रकल्पद्रुम.
 
-दीपिका. प्रयोगसागर. 
+महारुद्रपद्धति by अचलदेव द्विवेदिन्, son of वत्सराज ([[acc|acc.]] to शांखायन). About 1518 A. D.
 
-प्रवरदीपिका by कृष्णशैव ; mentions प्रयोगसार by निजानन्द. 
+महारुद्रपद्धति by अनन्तदीक्षित, son of विश्वनाथ, surnamed यज्ञोपवीत; quotes प्रयोगरत्न of नारायणभट्ट. So later than 1575 A. D. (also called महारुद्रप्रयोगपद्धति).
 
-प्रबरमञ्जरी, स्मृतिचन्द्रिका. Later 
+महारुद्रपद्धति by काशीदीक्षित m. in रुद्रकल्पद्रुम.
 
-tlan 12508. D. प्रयोगसार बालकृष्ण, दाक्षिणात्य, 
+महारुद्रपद्धति by नारायण (acc. to आश्वलायन).
 
-प्रवरनिर्णय-fi om the विश्वादर्श residing lin गोकुलनाम. 
+महारुद्रपद्धति by परशुराम, son of कर्ण (acc. to [[सामदेव|सामवेद]]); m. by शूद्रकमलाकर. Composed in 1459 A. D.
 
-प्रवरनिर्णय of भास्करत्रिकाण्डमण्डन. प्रयोगसार by विश्वेश्वरभट्ट alias गागा. 
+महारुद्रपद्धति by बलभद्र.
 
-Calcutta S. College Iss. Cat. भट्ट, son of दिनकर. On पुण्याह- | vol. II p. 69, No. 65. वाचन, गणपनि पूजन .c. 
+महारुद्रपद्धति by मालजित् (or मालजी) son of तिगलाभट्ट, son of रत्नभट्ट of श्रीस्थल in गुर्जरदेश. The work is also called रुद्रार्चनमञ्जरी and the author was also called वेदाङ्गराय. About 1627–1655 A. D. (Ulwar Cat. No. 1415).
 
-C. रामनन्दिन्. प्रयोगसार by शिवप्रसाद 
+महारुद्रपद्धति by रामचन्द्राचार्य (for गोभिलीयs) Baroda O. I. 1250.
 
-प्रवरनिर्णय by भट्टोजि. Also called प्रयोगसारावलि m. in धर्मप्रवृत्तिः ___ गोत्रप्रवरनिर्णय. प्रयोगसारपीयप of कमारस्वामि विष्ण: | प्रवनिर्णयवासुधार्णव of विश्वनाथदेव. 
+महारुद्रपद्धति by विष्णुशर्मन्.
 
-on परिभाषा, संस्कार, आहिक, प्राय. 
+महारुद्रपद्धति by वेदाङ्गराय, son of तिगलाभट्ट. Same as the work of मालजी.
 
-प्रवरनरी vide गोत्रप्रवरमञ्जरी m. in श्चित्त. 
+महारुद्रयज्ञपद्धति.
 
-नृसिंहप्रसाद प्रयोगसारसमुच्चयः 
+महार्णव or महार्णवप्रकाश m. by हेमाद्रि (vol. III. part 1, pp. 183, 1440) and by श्राद्धविवेक of शूलपाणि. This is also called स्मृतिमहार्णव or -प्रकाश Vide pp. 654–55 above.
 
-प्रवरविवरण m. in the प्रवरदीपिका. प्रयोगादर्श कनकसभापति. son of | प्रवराध्याय ( there is a section on 
+महार्णव (कर्मविपाक) attributed to मान्धातृ, a son of मदनपाल. Vide sec. 94 pp. 794–97.
 
-वैद्यनाथ, of मौद्गलगोत्र. It is a | प्रवर in most of the श्रौतसूत्रs). 
+[[P1085]] महार्णव by विश्वेश्वरभट्ट, son of पोङ्गभट्ट (? पेदिभट्ट). Vide sec. 94. (N. vol. VII. p. 121). same as महार्णव attributed to मान्धातृ.
 
-com. on his own कारिकामञ्जरी. प्रवराध्याय of the मानवश्रौत BBRAS प्रवरकाण्ड ( आश्वलायनीय ) pr. by 
+महार्णवव्रतार्क.
 
-___Cat. rol. II. p. 177. P. Chentsalral) in गोत्रप्रवर प्रवराध्याय ascribed to अगस्त्य. On निबन्धकदम्बक ( Nrsore, 1900 ). ! __ गोत्र and प्रवरs. 
+महालयप्रयोग.
 
-C. Jhy नारायण (pr. in the above) | प्रवराध्याय by पशुपति, minister of प्रवरखण्ड ( आपस्तम्बीय ). 
+महालयश्राद्धपद्धति.
 
-लक्ष्मण सेन; about 1170-1200 C. hy कपर्दिस्वामिन् ( Irr. by 
+महाविष्णुपूजापद्धति by अखण्डानन्द, disciple of अखण्डानुभूति.
 
-A. D. Chentsairao in गोत्रपती प्रवराध्याय ascribed to भूगदेव. निबन्धकदम्बक, Mysore, 19(0 
+महाविष्णुपूजापद्धति by चैतन्यगिरि.
 
-प्रवराध्याय ascribed to लोगाक्षि, the pr. at Kumbhitkotham 19141. 
+महाशान्ति in two अध्यायs (of 18 and 25 sections) on expiatory and propitiatory rites.
 
-_eleventh परिशिष्ट of कात्यायन. 
+महाशिवरात्रिनिर्णय.
 
-प्रवराध्याय by विश्वनाथकवि. प्रवरखण्ड (खानन्य in one प्रश्न ). 
+महाशिवरात्रिनिर्णय by कृष्णराम of काश्मीर.
 
-प्रवराध्याय from विष्णुधर्मोत्तर. प्रवरगण-a work on प्रवरs ID शादल 
+महाष्टमीनिर्णय.
 
-प्रवराध्याय from स्मृतिदर्पण. fafta verses. Vide BBIAS प्रवासकृत्य by गङ्गाधर, son of रामचन्द्र Cat. p 225 No. 707 ; breaks off 
+महिषीदान.
 
-composed at स्तम्भतीर्थ ( modern in verse 25. 
+महिषीदानमन्त्र.
 
-Khan bayat cr Cambay )in संवत् 
+महेश्वरधर्माधर्म.
 
-List of works on Dharmaśāstra 
+मांसनिर्णय by ढुण्ढि.
 
-1073 
+मांसपीयूषलता by रामभद्रशिष्य (C. P. Cat. No. 4143).
 
-1663( 1606-7 A.D.). Deals with | प्राय श्चित्तकुतूहल by रघुनाथ, son of duties of साग्निक ब्राह्मणs driven गणेशभट्ट and pupil of अनन्तदेव. 
+मांसभक्षणदीपिका by वेणीराम शाकद्वीपिन्.
 
-to foreign lands for livelihood. Stein's Cat. p. 96, Hultzsch's प्रस्तावपारिजात 
+मांसमीमांसा by नारायणभट्ट, son of रामेश्वरभट्ट m. in नि. सि.
 
-Report III p. 56. On both प्रस्तावरत्नाकर of हरिदास son of पुरु 
+मांसविवेक by भट्टदामोदर. Tries to prove that the directions about offering of flesh do not apply to the present age.
 
-श्रीत and स्मात प्रायश्चित्त- About षोत्तम, under वीरसिंह, in गदापत्तन 
+मांसविवेक or मांसतत्त्वविवेक by विश्वनाथन्यायपञ्चानन. Composed about 1634 A. D.; pr. in सरस्वतीभवन series. Styled also मांसतत्त्वविचार.
 
-1660--1700. in संवत् 1614 (1557-58 A. D.). प्रायश्चित्तकुतूहल by रामचन्द्र ; model A work in verse on various led on प्रायश्चित्तविवेक of शूलपाणि. subjects including नीति, ज्योतिः- __N. X. p. 197. 
+माघोद्यापन.
 
-शास्त्र. 
+माण्डव्यस्मृति m. in कालविवेक of जीमूत०, हेमाद्रि, दानमयूख.
 
-प्रायश्चित्तकौमुदी alias प्रायश्चित्तविवेक प्रह्लादसंहिता m. in भाचाररत्न of | of कृष्णदेव स्मार्तवागीश. 
+मातुलसुतापरिणय.
 
-लक्ष्मण ( follows वल्लभमत ). प्रायश्चित्तकौमदी alias प्रायश्चित्तविवेक प्राचीनषडशीति ( as opposed to अभि- टिप्पनी of रामकृष्ण. 
+मातृगोत्रनिर्णय by नारायण.
 
-नवषडशीति) vide under षडशीतिः । प्रायश्चितचन्द्रिका by दिवाकर, son of प्रातःकृत्य. 
+मातृगोत्रनिर्णय by लौगाक्षि भास्कर, son of मुद्गल, son of रुद्रकवीन्द्र. (Baroda O. I. No. 1463). On the question of मातृगोत्र being prohibited in marriage to माध्यन्दिनीय ब्राह्मणs.
 
-महादेव, son of रामेश्वर surnamed प्रातःपूजाविधि by नरोत्तमदास ( for | 
+मातृदत्तीय com. on हिरण्यकेशिसूत्र m. in नि. सि.
 
-काल. the followers of चैतन्य ). 
+मातृसांवत्सरिकश्राद्धप्रयोग.
 
-प्रायश्चित्तचन्द्रिका by मुकुन्दलाल. 
+मातृस्थापनाप्रयोग.
 
-प्रायश्चित्तचन्द्रिका by रमापति of the प्रायश्चित्तकदम्ब or-निर्णय by गोपाल. 
+मात्रादिश्राद्धनिर्णय by कोकिल.
 
-__ भैयाल race. न्यायपञ्चानन. Points out differ ences between रघुनाथ, नारायण, 
+माधवप्रकाश or सदाचारचन्द्रोदय. Vide आचारचन्द्रोदय above.
 
-प्रायश्चित्तचन्द्रिका by राधाकान्तदेव. जगनाथतर्कपञ्चानन. N. vol. X. प्रायश्चित्तचन्द्रिका by विश्वनाथभट्ट; m. p. 119. 
+माधवीयकालनिर्णय. Vide कालनिर्णय of माधव above.
 
-___by दिवाकर in his प्रायश्चित्तचन्द्रिका प्रायश्चित्तकदम्बसारसंग्रह by काशीनाथ 
+माधवीयसारोद्धार by रामकृष्णदीक्षित, son of नारायण. An abstract of पराशरमाधवीय for महाराजाधिराज लक्ष्मणचन्द्र. Vide Stein's Cat. p. 309 for extract. About 1575–1600 A. D.
 
-and in स्मार्तप्रायश्चित्तोद्धार. तर्कालङ्कार. Mentions views of प्रायश्चित्तचिन्तामणि by वाचस्पतिमिश्र. 
+माधवोल्लास m. by रघु० in देवप्रतिष्ठातत्त्व (p. 509).
 
-शूलपाणि, मदनपा रजात, नव्यद्वैत- 1 ___Vide sec 101. निर्णयकृञ्चन्द्रशेखर. N. ( new | प्रायश्चित्ततत्त्व of रघुनन्दन. Vide series ) I. pp. 233-35. 
+माध्यन्दिनीयाचारसंग्रहदीपिका by पद्मनाभ.
 
-sec. 107 ; pr. by Jivananda. प्रायश्चित्तकमलाकर by कमलाकरभट्ट 
+मानवगृह्यसूत्र (ed. by Knauer and in the G. O. Series with com.) in two parts called पुरुषs.
 
-C. by काशीनाथ तर्कालङ्कार ( pr. at प्रायश्चित्तकल्पतरु portion of कल्पतरु. 
+C. (भाष्य) by अष्टावक्र; mentions याज्ञवल्क्य, गौतम, पराशर, बैजवाप, शबरस्वामी, भट्टकुमार, [[P1086]] and भट्टअष्टावक्र himself. In the Intro. to 2nd पुरुष he says he composed when 100 years (of what era?) were completed.
 
-Calcutta in 1900 ). प्रायश्चित्तकाण्ड-2nd part of वैद्यनाथ's 
+मानवगृह्यपरिशिष्ट (BBRAS Cat. p. 206 No. 657).
 
-C. by राधामोहनगोस्वामी ( pr. at 
+मानवधर्मशास्त्र–vide under मनुस्मृति.
 
-Calcutta 1885 in Bengali स्मृतिमुक्ताफल. 
+मानवश्राद्धकल्प m. by हेमाद्रि.
 
-characters). He was a friend प्रायश्चित्तकारिका by गोपाल ; based 
+मानसागरीपद्धति of मानसिंह (C. P. Cat. No. 4116).
 
-of Colebrooke and a des on the बौधायनसूत्र; flourished 
+मानसोल्लास of सोमेश्वर, Vide अभिलषितार्थचिन्तामणि above.
 
-cendant of अद्वैत, an asso before सायण. 
+मार्कण्डेयस्मृति m. by मिताक्षरा (on या. III. 19) and स्मृतिचन्द्रिका.
 
-ciate of चैतन्य. प्रायश्चित्तकुतूहल by कृष्णराम. 
+मार्तण्डदीपिका m. in अहल्याकामधेनु.
 
-C. आदर्श by विष्णुराम सिद्धान्त प्रायश्चित्तकुतूहल by मुकुन्दलाल. 
+मार्तण्डार्चनचन्द्रिका by मुकुन्दलाल.
 
-वागीश. H. D.-135 
+मालवदर्शन m. in दानरत्नाकर of चण्डेश्वर. It is probably only a reference to some view of भोज and not to a work of that name.
 
-1074 
+मासकृत्य.
 
+मासतत्त्वविवेचन Ano. On the months and appropriate feasts, fasts and religious rites in each. (Bik. Cat. p. 421).
 
+मासदर्पण.
 
-प्रायश्चित्तदीप m. in प्रतापनारसिंह of | प्रायश्चित्तप्रदीप m. by स्मृतिकौस्तुभ 
+मासनिर्णय by भट्टोजि.
 
-arlier than 1700 A.D. (on तिथि). प्रायश्चित्तदीपिका by भास्कर 
+मासमीमांसा by गोकुलनाथ महामहोपाध्याय. On 4 kinds of months, चान्द्र, सौर, सावन and नाक्षत्र, and on the various religious rites and festivals of each of the twelve months of the year.
 
-प्रायश्चित्तप्रदीप by केशवभट्ट. प्रायश्चित्तदीपिका by रामः 
+मासादिनिर्णय by ढुण्ढि.
 
-प्रायश्चित्तप्रदीप by गोपालसरि. Bik. प्रायश्चित्तदीपिका by लोकनाथ, son of 
+मासिकश्राद्धनिर्णय by रामकृष्ण father of कमलाकर; m. in नि. सि.
 
-Cat. p. 137 says so, but it वैद्यनाथ ( from his सकलागमसंग्रह.) | 
+मासिकश्राद्धपद्धति by गोपीनाथभट्ट.
 
-appears that गोपालसूरि is a प्रायश्चित्तदीपिका by वाहिनीपति. 
+मासिकश्राद्धप्रयोग (आपस्तम्बीय) by रघुनाथभट्टसम्राट्स्थपति.
 
-भाष्यकार on बौधायनीत, whom प्रायश्चित्तनिरूपण by भवदेवभट्ट. Vide | ___the author follows on श्रोत 
+मासिकश्राद्धमानोपन्यास by मौनि मल्हारिदीक्षित.
 
-see. 74 Also called-प्रकरण. प्रायश्चित्त. 
+मिताक्षरा com. on गौतमधर्मसूत्र by हरदत्त. Vide sec. 87.
 
-रूपण by रिपुञ्जय 'pr.in | प्रायश्चित्तप्रदीप by प्रेमनिधि of पन्थवंश, Bengali characters at Calcutta composed in śake 1675 ( Baro 1883). 
+मिताक्षरा com. on याज्ञवल्क्यस्मृति by मथुरानाथ.
 
-dao. I. 1490). प्रायश्चित्तनिर्णय by अनन्तदेव. प्रायश्चित्तप्रदीप by राजचूडामणि, son प्रायश्चित्तनिर्णय by गोपालन्यायपञ्चानन ___ of रत्नखेट श्रीनिवासदीक्षित. 
+मिताक्षरा com. on याज्ञवल्क्यस्मृति by विज्ञानेश्वर; also called ऋजुमिताक्षरा. Vide sec. 71.
 
-Summary of रघुनन्दन's work 
+C. प्रमिताक्षरा or प्रतीताक्षरा by नन्दपण्डित Vide sec. 110.
 
-| प्रायश्चित्तप्रदीप by रामशर्मन प्रायश्चित्तपटल. 
+C. बालम्भट्टी alias लक्ष्मीव्याख्यान by लक्ष्मीदेवी. Vide sec. 116; pr. in Ch. S. Series (व्यवहार) and by J. R. Gharpure (आचार, प्रायश्चित्त and व्यवहार).
 
-प्रायश्चित्तप्रदीप by वरदाधीशयज्वन्, प्रायश्चित्तपद्धति by कामदेव. Ms. copi- _pupil of वेङ्कटाधीश. 
+C. सुबोधिनी by विश्वेश्वरभट्ट. Vide sec. 94 p. 799. (व्यवहार text pr. by Mr. Gharpure and tr. by him).
 
-ed in 1669 A. D. ( Aufrecht's | प्रायश्चित्तप्रदीप by वाहिनीपति. Oxf. Cat. 293 a). 
+C. मिताक्षरासार by मधुसूदन गोस्वामी.
 
-प्रायश्चित्तप्रदीप by शङ्करमिश्र, son of प्रायश्चित्तपद्धति by जम्बूनाथसभाधीश, 
+C. by मुकुन्दलाल.
 
-भवनाथ. He was गुरु of वर्धमान; son of हेमाद्रि; in four पटल. 
+C. by रघुनाथ वाजपेयी (vide Peterson's 6th Report p. 11.).
 
-flourished in 2nd and 3rd quar प्रायश्चित्तपद्धति by रामचन्द्र, son of ters of the 15 th century). 
+C. सिद्धान्तसंग्रह by राधामोहनशर्मा.
 
-सूर्यदास. 
+C. by हलायुधभट्ट.
 
-प्रायश्चित्तप्रदीपिका by अनन्तदेव, son प्रायश्चित्तपारिजात by गणेशमिश्र महा- | ____of आपदेव Vide sec. 114. 
+C. व्याख्यानदीपिका by निर्दूरिबसवोपाध्याय, son of देवराजभट्ट, on व्यवहार.
 
-महोपाध्याय. 
+[[P1087]] मिताक्षरासार (summary of विज्ञानेश्वर's work) by मयाराम.
 
-प्रायश्चित्तप्रदीपिका by भास्कर ( Same प्रायश्चित्तपारिजात by रत्नपाणि. Men- ___ as प्रायश्चित्तशतद्वयी) on प्रायश्चित्त 
+मिथिलेशाह्निक by रत्नपाणिशर्मा, son of गंगोलीसञ्जीवेश्वरशर्मा; composed under prince छत्रसिंह of मिथिला. Speaks of the daily religious duties according to सामवेद such as शौचविधि, दन्तधावन, स्नान, सन्ध्याविधि, तर्पण, जपयज्ञ, देवपूजा, भोजन, मांसभक्षण, द्रव्यशुद्धि, गार्हस्थ्य धर्म. N. vol. VI. pp. 30–32. He wrote also मिथिलेशचरित describing [[महेशठकुर|महेशठक्कुर]] and his nine descendants, महेश having got राज्य from Delhi king. N. vol. VI. p. 48.
 
-tions कामधेनुः ( N. vol. VI. P. in sija rites. 300). 
+मीमांसापल्लव by इन्द्रपति, son of रुचिपति and रुक्मिणी; applies rules of मीमांसा to धर्मशास्त्र matters such as एकादशीव्रत, श्राद्ध, उत्सर्ग. N. vol. V. pp. 281–82. His teacher was गोपालभट्ट.
 
-प्रायश्चित्तप्रयोग by अनन्तदीक्षित. प्रायश्चित्तप्रकरण (Stein's Cat. pp. 96, 
+मुक्तिक्षेत्रप्रकाश by भास्कर, son of आपाजिभट्ट; divided into प्रकाशs on seven holy places अयोध्या, मथुरा, माया &c. (Baroda O. I. 12386). He quotes vedic passages like सितासिते सरिते (for प्रयाग), अष्टचक्रा नवद्वारा देवानां पूरयोध्या (तैत्तिरीयारण्यक), वागक्षरं प्रथमजा (तै. ब्रा) for अवन्तिका and गोपालतापिनी, नृसिंहपूर्वतापनीय and रामतापनीय for मथुरा, माया and काशी respectively.
 
-प्रायश्चित्तप्रयोग by त्र्यम्बक ( N. vol. 310). 
+मुक्तिचिन्तामणि by गजपति पुरुषोत्तमदेव. On religious duties on a pilgrimage to जगन्नाथपुरी. About 1500 A. D.
 
-___X. 164 ), based on आश्वलायन. प्रायश्चित्तप्रकरण by भट्टोजि. प्रायश्चित्तप्रयोग by दिवाकर. Vide un प्रायश्चित्तप्रकरण by भवदेव बालवलभी- der स्मार्त प्रायश्चित्तप्रयोग. 
+मुद्गलस्मृति (Palm-leaf Ms. No. 11950 Baroda O. I.) on मौनादिविधि, दाय, अशौच, प्रायश्चित्त.
 
-भुजङ्ग. Sec. 74. 
+मुद्राविवरण.
 
-| प्रायश्चित्तप्रयोग by बालशास्त्री कागलकर. प्रायश्चित्तप्रकरण by रामकृष्ण 
+मुनिमतमणिमाला by वामदेव.
 
-प्रायश्चित्तप्रयोगरत्नमाला- mentions प्रायश्चित्तप्रकाश | of प्रद्योतनभट्टाचार्य | स्मृत्यर्थसार, त्रिकाण्डमण्डन, प्रदीप, 
+मुमूर्षुमृतकृत्यादिपद्धति by शङ्करशर्मन्. Quotes शुद्धितत्त्व. N. (new series) vol. III. p. 152.
 
-son of बलभद्र. 
+मुहूर्तकण्ठाभरण.
 
-केशवीकार. 
+मुहूर्तकलीन्द्र by शीतलदीक्षित.
 
-SOM 
+मुहूर्तकल्पद्रुम m. by महादेव in मुहूर्तदीपक (Earlier than 1650 A. D.).
 
-List of works on Dharmaśāstra 
+मुहूर्तकल्पद्रुम by केशव.
 
-1075 
+मुहूर्तकल्पद्रुम by विठ्ठलदीक्षित, son of बूबशर्मन् of कृष्णात्रिगोत्र; composed in 1628 [[A D.|A. D.]]
 
-प्रायश्चित्तमञ्जरी of बापुभट्ट, son of प्रायश्चित्तविवेक of शूलपाणि. Vide sec. 
+C. मञ्जरी by author.
 
-महादेव केळकर. Stein's Cat. p.96, 98 (Baroda O. I. 10849 dated gives विरचनकाल as sake 1736. संवत् 1501 i. e. 1444-45 A. D.); 
+मुहूर्तकल्पाकर by दुःखभञ्जन.
 
-pr. by Jivananda. प्रायश्चित्तमनोहर of मुरारिमिश्र, son | 
+मुहूर्तगणपति by गणपतिरावल, son of हरिशङ्कर, composed in 1685 A. D.
 
-C. तत्त्वार्थकौमुदी by गोविन्दानन्द, of कृष्णमिश्र, and pupil of रामभद्र and केशवमिश्र. 
+C. by परमसुख, son of सीताराम.
 
-___son of गणपतिभट्ट. Vide sec. 
+C. by परशुराममिश्र.
 
-___106 (pr. by Jivananda). प्रायश्चित्तमयूख of नीलकण्ठ; vide sec. | C. कौमदी or टिप्पनी by रामकृष्ण. 
+मुहूर्तचक्रावलि.
 
-112. pr. by Mr.J. R. Gharpure. 
+मुहूर्तचन्द्रकला by हरजीभट्ट. About 1610 A. D.
 
-| C. निगूढार्थप्रकाशिका. N. ( new प्रायश्चित्तमार्तण्ड of मार्तण्ड मिश्र (Mit- series) vol. II. p. 114. 
+मुहूर्तचिन्तामणि by रामदैवज्ञ, son of अनन्त and younger brother of नीलकण्ठ, composed at Benares in 1600–01 A. D.; m. in संस्कारमयूख of सिद्धेश्वर; pr. at Bombay in 1902; (vide Ulwar Cat. extract 543 which shows that नीलकण्ठ was a Pandit in Akbar's court). His ancestors came from विदर्भ.
 
-ra's Notices vol. VII, p. 7, No. प्रायश्चित्तविवेक of श्रीनाथ. About 2252 dated sake 1544 i. e. 1475-1525 A. D. 1622-23 A. D.). 
+[[P1088]] C. प्रमिताक्षरा by author; pr. at Benares 1848.
 
-प्रायश्चित्त विवकोद्योत ( part of मदन प्रायश्चित्तमुक्तावली by दिवाकर, son of | रत्न). Sec. 30. 
+C. कामधेनु.
 
-महादेव (part of his धर्मशास्त्रसधा- | प्रायश्चित्तव्यवस्थासंक्षेप by चिन्तामणि निधि). 
+C. by नीलकण्ठ.
 
-न्यायालङ्कारभट्टाचार्य (N. rol. IV अनुक्रमणी to above by वैद्यनाथ, 
+C. पीयूषकर्णिका.
 
-No. 1580). He wrote also son of author. 
+C. पीयूषधारा by गोविन्द, son of नीलकण्ठ, composed in 1603 A. D. Pr. at Bombay in 1873. गोविन्द was nephew [[by|of]] author.
 
-व्यवस्थासंक्षेपs on तिथि, उद्वाह, 
+CC. by रघुदैवज्ञ.
 
-श्राद्ध, दाय, शुद्धि. Ms. dated sake प्रायश्चित्तमुक्तावली by रामचन्द्रभट्टः 1611. प्रायश्चित्तरत्न by कमलाकरभट्ट m. in | प्रायश्चित्तव्यवस्थासंग्रह by मोहनचन्द्र. 
+C. षट्साहस्री.
 
-शूद्रकमलाकर. 
+मुहूर्तचिन्तामणि by वेङ्कटेशभट्ट.
 
-प्रायश्चित्तव्यवस्थासार by अमृतनाथ. प्रायश्चित्तरत्नमाला by रामचन्द्रदीक्षित. | प्रायश्चित्तशतद्वयी by भास्कर in 4 प्रक 
+मुहूर्तचिन्तामणिसार.
 
-रणs m. in नि. सि., प्रायश्चित्तकुतूहल प्रायश्चित्तरत्नाकर by रत्नाकरमिश्र. 
+मुहूर्तचिन्तामणिसारिणी.
 
-of रघुनाथ, भाविप्रकाशितप्रायश्चित्त प्रायश्चित्तरहस्य by दिनकर m. in 
+मुहूर्तचूडामणि by शिवदैवज्ञ, son of श्रीकृष्णदैवज्ञ of भारद्वाजगोत्र.
 
-प्रकरण. Earlier than 1550 A. D. स्मृतिरत्नावली. 
+मुहूर्ततत्त्व by केशव दैवज्ञ, son of कमलाकर; m. in संस्कारकौस्तुभ.
 
-C. by वेङ्कटेश वाजपेययाजी; ms. प्रायश्चित्तवारिधि by भवानन्द. 
+C. by author.
 
-dated संवत् 1641(1584-85A. प्रायश्चित्तविधि by भास्कर. 
+C. by कृपाराम.
 
-D.) in Stein's Cat. p. 311. प्रायश्चित्तविधि by मायर अप्पयदीक्षितः | प्रायश्चित्तशतद्वयीकारिका by गोपाल __mentions हेमाद्रि and माधव. 
+C. by गणेशदैवज्ञ, son of केशवदैवज्ञ; composed about 1540 A. D.
 
-। स्वामिन् (बौधायनीय). प्रायश्चित्तविधि from वसिष्ठस्मृति. 
+C. by महादेव m. in मुहूर्तदीपक.
 
-प्रायश्चित्तश्लोकपद्धति by गोविन्द. प्रायश्चित्तविधि attributed to शौनक. 
+मुहूर्तदर्पण m. in मार्तण्डवल्लभा.
 
-प्रायश्चित्तसंक्षेप by चिन्तामणिन्याया 
+C. दीपिका (Madras Govt. Mss. Cat. Nos. 1870, 1874).
 
-लङ्कार. Probably the same as प्रायश्चित्तविनिर्णय by अनन्तदेव. 
+मुहूर्तदर्पण by लालमणि, son of जगद्राम, son of गङ्गाराम of अलर्कपुर to the south of प्रयाग. Ulwar Cat. extract 544.
 
-प्रायश्चित्तव्यवस्थासंक्षेप above. प्रायश्चित्तविनिर्णय by भट्टोजि. 
+मुहूर्तदर्पण by विद्यामाधव.
 
-प्रायश्चित्तसंग्रह by कृष्णदेव स्मार्त वागीश प्रायश्चित्तविनिर्णय by यशोधरभट्ट. N. (new series) I. p. 239. 
+C. by माधवभट्ट.
 
-1076 
+मुहूर्तदीप by जयानन्द.
 
+मुहूर्तदीप by a son of शिवदैवज्ञ.
 
+मुहूर्तदीपक by नागदेव.
 
-. 
+मुहूर्तदीपक by महादेव, son of काहजि (कान्हजित् ?). Vide Aufrecht's Oxf. Cat. p. 336a.
 
-प्रायश्चित्तसंग्रह by देवराज (This is in | प्रायश्चित्तसुधानिधि of सायण, son of 
+C. by author composed in śake 1583 (1661 A. D.). Mentions टोडरानन्द.
 
-Hindi, prepared for महाराज | मायण and brother of माधवाचार्य. चेतसिंग of Benares). 1770-1781 Vide sec. 93. A. D. 
+मुहूर्तदीपक by रामसेवक, son of देवीदत्त.
 
-प्रायश्चित्तसुबोधिनी by श्रीनिवासमखिन् प्रायश्चित्तसंग्रह by नारायणभट्ट; men 
+मुहूर्तदीपिका m. in कालविधान acc. to नि. सि.
 
-___(मापस्तम्बीय). tions शूलपाणि, रघुनन्दन, स्मृति सागरसार. So later than 1600 A. 
+मुहूर्तदीपिका attributed to बादरायण.
 
-| प्रायश्चित्तसेतु by सदाशङ्कर. D. Defines प्रायश्चित्त as 'पापक्षय- प्रायश्चित्ताध्याय 3rd chap. of निबन्ध मात्रकामनाजन्यकृतिविषयः पापक्षय- । सर्वस्व of महादेव, son of महाज साधनं कर्म प्रायश्चित्तम्'. 
+मुहूर्तनिर्णय.
 
-सहस्रमल्लश्रीपति (I. O. Cat. vol. प्रायश्चित्तसदोदय of सदाराम, son of 
+मुहूर्तपदवी.
 
-III p. 555). देवेश्वर 
+मुहूर्तपरीक्षा by देवराज.
 
-प्रायश्चित्तानुक्रमणिका byवैद्यनाथदीक्षित. प्रायश्चित्तसमुच्चय by त्रिलोचनशिव. प्रायश्चित्तेन्दुशेखर by काशीनाथ, son of प्रायश्चित्तसमुच्चय by भास्कर 
+मुहूर्तभूषण or -मञ्जीर by रामसेवक त्रिवेदिन् (N. vol. XI preface p. 4).
 
-अनन्त (also called प्रायश्चित्तप्रयोग प्रायश्चित्तसार by व्यम्बकभट्ट मोल्ह. सारसंग्रह) composed for बालकृष्णः प्रायश्चित्तसार by दलपति (part of 
+मुहूर्तभूषणटीका by रामदत्त.
 
-_pr. in Bombay in 1863 and नृसिंहप्रसाद pr. in Prince of 
+मुहूर्तभैरव by गङ्गाधर; son of भैरवदैवज्ञ.
 
-1882. Vide see. 117. Wales Series). Vide sec. 103. प्रायश्चित्तन्दुशेखर by नागोजिभट्ट, son प्रायश्चित्तसार by (भट्टोजि? दीक्षित m. 
+मुहूर्तभैरव by दीनदयालु पाठक.
 
-of शिवभट्ट and सती. Vide sec. in जयसिंहकल्पद्रुम 
+मुहूर्तमञ्जरी by यदुनन्दनपण्डित in 4 गुच्छs and 101 verses. Vide Ulwar Cat. extract No. 545; composed in संवत् 1726 (1670 A. D.).
 
-115; ms. (N. vol. V p. 23) is 
+मुहूर्तमञ्जरी by हरिनारायण.
 
-dated संवत् 1848 i. e. 1781-82 प्रायश्चित्तसार by श्रीमदाउचाशुक्लदीक्षित 
+मुहूर्तमञ्जूषा.
 
-A. D. _m. in प्रतापनारासिंह (vide BBR AS. 
+मुहूर्तमणि by विश्वनाथ.
 
-Cat. p. 224). 
+मुहूर्तमाधवीय ascribed to सायण or माधवाचार्य.
 
-प्रायश्चित्तेन्दुशेखरसारसंग्रह by नागोजि, 
+मुहूर्तमार्तण्ड by केशव.
 
-_son of शिवभट्ट and सती. (I. 0. प्रायश्चित्तसार by हरिराम. 
+मुहूर्तमार्तण्ड by नारायणभट्ट, son of अनन्त. Composed in śake 1493 Phālguna (i. e. about March 1572 A. D.) near Devagiri in 160 verses.
+[[P1089]] C. मार्तण्डवल्लभा by author: pr. (with text) in Bombay, 1861.
 
-Cat. vol. III p. 555). प्रायश्चित्तसार from स्मृतिसार of याद. प्रायशिनोदद्योत by दिनकर (part of 
+मुहूर्तमाला by रघुनाथ, son of सरस of the शाण्डिल्यगोत्र and चितपावन subcaste; pr. at Ratnagiri in 1878.
 
-वेन्द्रविद्याभूषण. N. (new series) I. p. 240. Ms. dated sake 1613 
+मुहूर्तमुक्तामणि.
 
-दिनकरोद्योत). (1691 A, D.). 
+मुहूर्तमुक्तावली by काशीनाथ.
 
-प्रायश्चित्तोद्योत by मदनसिंहदेव (part प्रायश्चित्तसारकौमुदी of वनमालिन् (N. 
+मुहूर्तमुक्तावली by देवराम.
 
-___of मदनरत्न). Vide sec. 95. vol. IX p. b8). 
+मुहूर्तमुक्तावली by भास्कर.
 
-प्रायश्चित्तोद्धार by दिवाकर, son of प्रायश्चित्तसारसंग्रह by आनन्दचन्द्र N. 
+मुहूर्तमुक्तावली by योगीन्द्र (vide Ulwar Cat. extract 546).
 
-महादेव, surnamed काल. Also 
+मुहूर्तमुक्तावली by लक्ष्मीदास, son of गोपाल, composed in 1618 A. D.
 
-called स्मार्तप्रायश्चित्त and स्मात (new series) vol. III. p. 126. 
+मुहूर्तमुक्तावली by श्रीकण्ठ.
 
-falsafagafa (vide Baroda 0. I. प्रायश्चित्तसारसंग्रह by नागोजिभट्ट. 
+मुहूर्तमुक्तावली by हरिभट्ट.
 
-1334, 1543, 1663). ___Vide sec. 115. 
+मुहूर्तरचना by दुर्गासहाय.
 
-प्रायश्चित्तौघसार by आनन्दचन्द्र. Offen• प्रायश्चित्तसारसंग्रह by रत्नाकरमिश्र. 
+मुहूर्तरत्न by ईश्वरदास, son of ज्योतिषराय (also called मुहूर्तरत्नाकर).
 
-ces classified under 4 heads, प्रायश्चित्तसारावलि (portion of बृह heincus, gross, venjal and 
+मुहूर्तरत्न by गोविन्द.
 
-बारदीयपुराण). 
+मुहूर्तरत्न by रघुनाथ.
 
-slight and their expiation. 
+मुहूर्तरत्न by शिरोमणिभट्ट.
 
-List of works on Dharmaśāstra 
+मुहूर्तरत्नमाला by श्रीपति; m. by रघु०.
 
-1071 
+C. by author.
 
- 
+मुहूर्तरत्नाकर by हरिनन्दन.
 
-. 
+C. by author.
 
-.. 
+मुहूर्तराज by विश्वदास.
 
-प्रासाददीपिका m. by जटमल्लविलास. बहिर्मातृका. 
+मुहूर्तराजीय.
 
-Earlier than 1500 A. D. बहिर्यागपूजा प्रासादप्रतिष्ठा by नृहरि, surnaned 
+मुहूर्तलक्षणपटल.
 
-बढ्चकारिका m. in नि. सि. पण्ढरपुर. Based on the प्रतिष्ठा 
+मुहूर्तविधानसार m. in कालमाधव.
 
-बहुचकर्मप्रयोग ( according to शाकल) मयूख and मत्स्यपुरण ; ms. in Bhadkamkar collection copied 
+मुहूर्तविवरण.
 
-N. vol. X. p. 5. in sake 1714 (1792-93 A. D.); | बह्वचगृह्यकारिका by शाकलाचार्य. Vide 
+मुहूर्तवृत्तशत.
 
-names नि.सि., रामवाजपेय. Burnell's Tanjore Cat. p. 14 b. प्रासादप्रतिष्ठा by भागुणिमिश्र. 
+मुहूर्तशिरोमणि by धर्मेश्वर, son of रामचन्द्र.
 
-This is the same as the above; प्रासादप्रतिष्ठादीधिति ( part of राजधर्म 
+मुहूर्तसंग्रह m. in संस्कारमयूख of सिद्धेश्वर and सं. कौ. Earlier than 1650 A. D.
 
-m. in समयमयूख. कौस्तुभ ) by अनन्तदेव. Vide sec. | बढचगृहरिशिष्ट m. in हेमाद्रि, रघु, 114. 
+C. by लक्ष्मीपति.
 
-नि. सि. प्रासादशिवप्रतिष्ठाविधि by कमलाकर. | बह्वचश्राद्धप्रयोग 
+मुहूर्तसंचय by क्षेमराय.
 
-Sec. 111. 
+मुहूर्तसर्वस्व by रघुनाथाचार्य (?). Is it not the same as the next?
 
-बह्वचषोडशकर्ममन्त्रविवरण. प्रेतकृत्य निर्णय प्रेतकृत्यादिनिर्णय Ano. 
+मुहूर्तसर्वस्व by रघुवीर, son of विठ्ठलदीक्षित, son of बूब, at Benares; composed in śake 1557 i. e. 1635–36 (vide N. vol. I. p. 109).
 
-बहृचसन्ध्यापद्धतिभाष्य. प्रेतदीपिका by गोपीनाथ अग्निहोत्रिन्. 
+मुहूर्तसार (vide Burnell's Tanjore Cat. p. 79 a).
 
-बह्वचाह्निक by कमलाकर, son of राम प्रेतप्रदीप by कृष्णामित्राचार्य 
+मुहूर्तसार by भानुदत्त.
 
-कृष्ण. Refers to his प्रायश्चित्तरत्न. प्रेतमञ्जरी- vide Hp. Cat. XVII बादरायणस्मृति m. in प्रायश्चित्तमयूख 
+मुहूर्तसारिणी.
 
-(ms. dated 1707 A. D.). 
+मुहूर्तसिद्धि.
 
-___and in com. on नीतिवाक्यामृत. 
+मुहूर्तसिद्धि by नागदेव.
 
-प्रेतमञ्जरी or प्रेतपद्धति by द्यादुमिश्र. 
+मुहूर्तसिद्धि by महादेव.
 
-बार्हस्पत्यमुहूर्त विधान ___Ulwar Cat. No. 1403. 
+मुहूर्तसिन्धु by मधुसूदनमिश्र pr. at Lahore.
 
-बार्हस्पत्यस्मृति m. by हेमाद्रिः प्रेतमुक्तिदा by क्षेमराम 
+मुहूर्तस्कन्द by बृहस्पति.
 
-बार्हस्पत्यसंहिता on मुहूर्तs for गर्मा प्रेतश्राद्धव्यवस्थाकारिका by स्मात 
+मुहूर्तामृत m. in ज्योतिस्तत्त्व by रघु०.
 
-धान, पुंसवन, उपनयन and other वागीश. 
+मुहूर्तार्क by मृत्युञ्जय कोकिल.
 
-संस्कारs and on portentous phe 
+C. प्रभा by author.
 
-nomena. The वीरमित्रोदय (लक्षणः प्रौढप्रतापमार्तण्ड or कालनिर्णयसंग्रह by 
+मुहूर्तालङ्कार by गङ्गाधर, son of भैरव. Composed in śake 1554 माघ 15 (1633 A. D.). Vide Stein's Cat. p. 343 for extract.
 
-प्रकाश p. 356) quotes बार्हस्पत्य प्रतापरुद्रदेव. Vide प्रतापमार्तण्ड.. 
+मुहूर्तालङ्कार by जयराम.
 
-संहिता on elephants in prose फलप्रदीप m. in प्रयोगपारिजात of 
+मुहूर्तावलि.
 
-and verse. नृसिंह ( probably a purely astro. बार्हस्पत्यसुत्र । pr. in Punjab s. logical work). 
+मूर्खहा–a treatise on सङ्कल्पवाक्यs, नान्दीश्राद्ध, तिथिव्यवस्था, एकोद्दिष्टकालव्यवस्था, श्राद्धव्यवस्था, गोवधादिप्रायश्चित्त, व्यवहारदायादिव्यवस्था, विवाहनक्षत्रादि. Vide [[P1090]] N. vol. II p. 49 and N. (new series) vol. II pp. 146–7.
 
-Series ). Also called नीतिसर्वस्व. फलाभिषेक 
+मूर्तिप्रतिष्ठा–N. (new series) I. p. 293.
 
-बालबोधक of आनन्दचन्द्र. In 46 
+मूर्तिप्रतिष्ठापन.
 
-श्लोकs on प्रायश्चित्त. बभ्रुस्मृति m. in परा. मा. 
+मूलनक्षत्रशान्ति (rites for averting the evil effects of birth on a day when the moon is in the Mūla constellation).
 
-बालमरणविधिकर्तव्यता. बलदेवाहिक compiled from the महा- | बालम्भट्टी by लक्ष्मीदेवी: pr. (आचार, 
+मूलनक्षत्रशान्तिप्रयोग attributed to शौनक.
 
-भारत. 
+मूलभट्टप्रयोग by मूलभट्ट.
 
-व्यवहार and प्रायश्चित्त) by J. R. बहिाससूत्र 
+मूलशान्ति attributed to शौनक.
 
-Gbarpare and vyavahāra por 
+मूलशान्तिनिर्णय Vide Stein's Cat. p. 99.
 
-1078 
+मूलशान्तिविधान.
 
+मूलशान्तिविधि by मधुसूदन गोस्वामी.
 
+मूलादिशान्ति.
 
-tion is translated by him. Vide बृहद्यम pr. in Anan. Sm. pp. 99 sec. 116. 
+मूल्यनिरूपण of गोपाल (C. P. Cat. No. 4321).
 
-107. बालार्कोदय m. in नृसिंहप्रसाद 
+मूल्यसंग्रह or मूल्याध्याय by बापुभट्ट, contains summary of fines ordained in lieu of various gifts at various ceremonial rites, when one is unable to give the gifts. Names गोपालभाष्य. Ms. dated śake 1756 (N. vol. X. p. 238).
 
-बृहद्योगियाज्ञवल्क्य (pub. Kaivalya 
+मूल्याध्याय (in 5 1/2 verses) attributed to कात्यायन. Deals with substitution of money for gifts of cows and other property. Vide BBRAS. Cat. vol. II p. 171 for text.
 
-dham, Lonavla, in J B. B. R. (दानसार ). 
+C. by कामदेवदीक्षित. N. (new series) vol. III preface p. iv.
 
-A. S. vol. 28 ). बालावबोधपद्धति on शाङ्घायनगृह्यसूत्र. 
+C. by गोपालजी.
 
-बृहद्रत्नाकर of वामनभट्ट. बाष्कलस्मृति m. by मिताक्षरा (on या बृहद्राजमार्तण्ड m. by रघु० in मल 
+C. by विठ्ठल, son of बालकृष्ण, surnamed वैष्णव and resident of श्रीपुर. Mentions नीलकण्ठ and his son. Later than 1670 A. D.
 
-III. 58). 
+मृत्तिकास्नान.
 
-मासतत्त्व and संस्कारतत्त्व. बुद्धिप्रकाश m. by रघुनन्दन. बृहद्वसिष्ठस्मृति m. by मिताक्षरा, 
+मृत्युञ्जयस्मृति m. in हेमाद्रि दानखण्ड pp. 764–65, 784 and in दानमयूख.
 
-हलायुध, मद.पा. बुधभूषण by शम्भुराज ( son of the 
+मृत्युमहिषीदानविधि (gift of a she-buffalo at the time of death of a person).
 
-| वृहद्विष्णुस्मृतिः great Shivaji). 1680--1689 A. D. On politics &c. pr. in Govt. 
+मैत्रायणगृह्यपद्धति (on 16 संस्कारs according to मैत्रायण school). The chap. called प्रथमपुरुष
 
-| बृहव्यास m. by मिता०. Oriental Series, Poona, 1926. 
+मैत्रायणीयगृह्यपदार्थानुक्रम.
 
-बृहस्पतिशान्ति ( from संस्कारकौस्तुभ 
+मैत्रायणीयगृह्यपरिशिष्ट m. by हलायुध, हेमाद्रि, म. पा.
 
-___ of अनन्तदेव). बुधस्मृति a small treatise of about | बृहस्पतिस्मृति-vide sec. 373; pr. Ji one page in print in prose. D. ___vananda Sm. part I pp. 644 C. Mss. No. 207 of A 1881-82 651 and Anan. Sim. pp. 108-111. and 145 of 1895-1902. Defines (G.O. Series). धर्म as श्रेयोभ्युदयसाधन; and sum- C. m. by हेमाद्रि (परिशेषेखण्ड, marises rules on उपनयन, विवाह, 
+मैत्रायणीयौर्ध्वदेहिकपद्धति–Vide क्रियापद्धति.
 
-काल. p. 309). गर्भाधान and other संस्कारs, पञ्च 
+मोक्षकल्पतरु (a part of कृत्यकल्पतरु or कल्पतरु) by लक्ष्मीधर. Sec. 78.
 
-बैजवाप ( or-पि) गृह्य m. by कुमारिल. महायज्ञ, पाकयज्ञ, हविर्यज्ञ, सोमयाग, 
+मोक्षेश्वरनिबन्ध m. by गदाधर in com. on पारस्करगृह्यपरिशिष्ट. This is probably the same as the प्रश्नज्ञानदोषपृच्छाप्रकरण of ब्रह्मार्क, son of मोक्षेश्वर (Bik. Cat. pp. 325–326).
 
-भट्ट in तन्त्रवार्तिक on मीमांसासूत्र rules common to all, duties of 
+मोहचूडोत्तर [[of|or]] मोहचुल्लोत्तर; m. in हेमाद्रि (III. 2. 883 as मोहचौरोत्तर), नि. सि.
 
-(I. 3. 11) in the words 'आश्व the four वर्णs, वानप्रस्थ and यति, 
+यजुर्वल्लभा or कर्मसरणि by विठ्ठलदीक्षित or विठ्ठलेश, son of वल्लभाचार्य and younger brother of गोपीनाथ, in 3 काण्डs on आह्निक, संस्कार, आवसथ्याधान (consecration of गृह्य fire) according to यजुर्वेद. Vide Ulwar Cat. No. 1280.
 
-लायनकं सूत्रं बैजवापिकृतं तथा'. राजधर्म, हेमाद्रि in चतुर्वर्ग० (III. 
+[[P1091]] यजुर्विवाहपद्धति.
 
-बैजवापस्मृति m. by अपरार्क (in verse 2. 746 ) quotes some sūtras on 
+यजुर्वेदिवृषोत्सर्गतत्त्व of रघु०. Vide sec. 107.
 
-_about शुभमृत्तिका and सपिण्डन). उपनयन and it is m. in बैजवापायन m. by हेमाद्रि. प्रायश्चित्तमयूख. I. O. Cat. vol. III | बोपणभट्टीय. p. 386 ( No. 1323) sets out the | 
+यजुर्वेदिश्राद्धतत्त्व of रघु०. Vide sec. 107.
 
-___C. by माधवमुनि. whole स्मृति. Vide sec. 25. बौधायनगृह्य Pr. in Mysore G.O.L C. by हरिराम. 
+यजुर्वेदीयश्राद्धविधि of ढोण्ढ. Vide under श्राद्धविधि.
 
-Series, ed. by Dr. Shamaśāstri; divided into 4 प्रश्नs of गृह्य, two 
+यजुःशाखाभेदतत्त्वनिर्णय by पाण्डुरङ्ग टकले (Baroda O. I. 374). His सिद्धान्त is that wherever the word यजुर्वेद occurs by itself तैत्तिरीयशाखा is to be understood and not शुक्लयजु०.
 
-प्रश्नs of गृह्यसूत्रपरिभाषा, 5 प्रश्नs of बुधाष्टमीव्रतकालनिर्णय 
+यज्ञपार्श्वसंग्रहकारिका m. in गदाधरभाष्य on पारस्कर.
 
-गृह्यशेष, 3 of पितृमेधशेषसूत्र and बुधाष्टमीव्रतोद्यापन Stein's Cat. p. 96. one of पितृमेधशेषसूत्र. It is the बृहजातिविवेक by गोपीनाथकवि ( Ba- बौधायनगृह्यशेषसुत्र (II. 6 ) that ___roda o. I. 9705), 
+यज्ञसिद्धान्तविग्रह by रामसेवक.
 
-contains a passage about पुत्र 
+यज्ञसिद्धान्तसंग्रह by रामप्रसाद.
 
-प्रतिग्रह ( adoption) that resem. बृहत्पाराशरस्मृति (pr. Jivananda 
+यज्ञोपवीतनिर्णय.
 
-bles closely a passage of वसिष्ठ Sm. part II. pp. 53-309). 
+यज्ञोपवीतपद्धति by रामदत्त, son of गणेश्वर (for वाजसनेयिशाखा).
 
-धर्मसूत्र हत्संहिता by ध्यास. 
+यतिक्षौरविधि by मधुसूदनानन्द (Baroda O. I. 5015).
 
-C. पूरणव्याख्या by अष्टावक्र. 
+यतिखननादिप्रयोग by श्रीशैलवेदकोटीरलक्ष्मण; mentions यतिधर्मसमुच्चय.
 
-बुधाष्टमी. 
+यतिधर्म by पुरुषोत्तमानन्दसरस्वती, pupil of पूर्णानन्द.
 
-List of works on Dharmaśāstra 
+यतिधर्म Ano.
 
-1079 
+यतिधर्मप्रकाश by वासुदेवाश्रम (Baroda O. I. 12289).
 
-C. भाष्य ( called शिष्टिभाष्य ). | ब्रह्मसंस्कारमञ्जरी by नारायणठकुर. 
+यतिधर्मप्रकाश by विश्वेश्वर. Same as ०संग्रह below.
 
-___Hultzsch II. No. 668. Refers to मरारिभाष्य, उवटभाष्य, बौधायनगृह्यकारिका by कनकसभापति. पारस्करगृह्यभाष्य. N. (new series) बौधायनगृह्यपद्धति by केशवस्वामिन् । 
+यतिधर्मप्रबोधिनी by नीलकण्ठयतीन्द्र.
 
-p. 250. बौधायनगृह्यपरिशिष्ट (ed. by Hart- | ब्रह्मादनप्रायश्चित्त by श्रीनिवासदीक्षित 
+यतिधर्मसंग्रह Ano. (N. vol. IX. p. 278). First speaks of आचार्यपरम्परा from शङ्कराचार्य, of मठाम्नाय and then of यतिधर्म.
 
-ing). 
+यतिधर्मसंग्रह by विश्वेश्वरसरस्वती, pupil of सर्वज्ञ विश्वेश (pr. by आनन्दाश्रम, Poona).
 
-(Baroda O. I. 6789 d). बौधायनगृह्यप्रयोगमाला by राम, son 
+यतिधर्मसमुच्चय by यादवप्रकाश in [[II|11]] parvans for वैष्णवs.
 
-ब्राह्मणपद्धति. of चौण्ड or चाउण्ड. Ulwar Cat. 
+यतिधर्मसमुच्चय by रघुनाथभट्टाचार्य.
 
-extract 21; refers to प्रयोगसार. ब्राह्मणसर्वस्व by हलायुध; (sec. 73). बौधायनगृह्यप्रायश्चित्तसूत्र. 
+यतिधर्मसमुच्चय by विश्वेश्वरसरस्वती, pupil of सर्वज्ञ विश्वेश; ms. (N. vol. VIII. p. 293) dated संवत् 1668 (1611–12 A. D.). Also called यतिधर्मसंग्रह (same as above).
 
-pr.at Calcutta in 1893 and 1960 
+यतिनित्यपद्धति by आनन्दानन्द (Baroda O. I. 5017).
 
-and at Benares. बौधायनतति on गृह्य ritual. बौधायनधर्मसत्र-vide see. 6 : pr. | ब्राह्मवधस्मृति m. in मिताक्षरा (या. 
+यतिपत्नीधर्मनिरूपण by पुरुषोत्तमानन्दसरस्वती, pupil of पूर्णानन्द.
 
-Anan. Sm. pp. 425-484 and | III. 257). Mysore G. O. L. Series. 
+यतिलिङ्गसमर्थन in 3 स्कन्धs.
 
-| भक्तिजयार्णव by रघुनन्दन. Probably C. by गोविन्दस्वामिन् (Mysore different from the famous रघु 
+यतिवन्दननिषेध.
 
-G.O. L. Series). 
+यतिवन्दनशतदूषणी.
 
-नन्दनभट्टाचार्य. N. (new series) C. अमल by परमेश्वरपरिव्राजक. । I. p. 251. बौधायनसंग्रह. 
+यतिवन्दनसमर्थन.
 
-| भक्तिप्रकाश by वैद्यरघुनन्दन in 8 बौधायनस्मार्तप्रयोग by कनकसभापति. | उद्योत. 
+यतिवल्लभा or संन्यासपद्धति of विश्वकर्मन्. On संन्यास, the four kinds of यतिs, viz. कुटीचक, बहूदक, हंस, परमहंस and their duties. N. vol. X. 175. Mentions विधानमाला.
 
-Hultzsch R. II. No. 672. 
+यतिसंस्कार (a part of प्रतापनारसिंह).
 
-भक्तिमार्गमर्यादा by विठ्ठलेश्वर. बौधायनस्मृतिः 
+यतिसंस्कार (on the funeral rites and श्राद्धs for यति performed by his son). N. vol. X. p. 10.
 
-भक्तिमार्गसंग्रह (for वाल्लभs). बौधायनाहिक by विद्यापतिभट्ट. 
+यतिसंस्कारप्रयोग by रायम्भट्ट.
 
-भक्तिरत्नाकर by a son of शिवदास. बौधायनीयपरिशिष्ट m. in आह्निकतत्व 
+यतिसंस्कारप्रयोग by विश्वेश्वर. N. vol. I p. 173.
 
-भक्तिरसामृतसिन्धु by सनातन; com. by रघु. 
+यतिसंस्कारविधि (two different works). Vide Stein's Cat. p. 99.
 
-posed in sake 1463 (1541-42 ब्रह्मगर्भस्मृति m. in मिताक्षरा (on या A. D.); m. in भक्तिजयार्णव. 
+[[P1092]] यतिसंस्कारविधिनिर्णय (I. O. Cat. p. 523 No. 1647).
 
-III. 268), अपरार्क, स्मृतिचा 
+यतिसंस्कारोपयोगिनिर्णय.
 
-C दुर्गसङ्गमनी hy जीव. ब्रह्मचारिचतलोपप्रायश्चित्तप्रयोग BBR. 
+यतिसन्ध्यावार्तिक by सुरेश्वर, pupil of शङ्कर. N. vol. X. p. 9.
 
-भक्तिरसार्णव by कृष्णदास AS. Cat. vol. II. p. 246. 
+यतिसिद्धान्तनिर्णय by सच्चिदानन्दसरस्वती.
 
-भक्तिरहस्य by सोमनाथ ब्रह्मदत्तभाष्य m. in शुद्धितत्त्व by रघु० 
+यत्यनुष्ठान.
 
-भक्तिवर्धिनी by वल्लभाचार्य. as quoted by कल्पतरु. So earlier than 1100 A. D. It appears to | भक्तिविवेक by श्रीनिवास (for be a com. on शाडायनगृा. 
+यत्यनुष्ठानपद्धति by शङ्करानन्द.
 
-रामानुज) 
+यत्यन्तकर्मपद्धति by रघुनाथ.
 
-ब्रह्मप्रकाशिका (com. on सन्ध्यामन्त्र) 
+यत्याचारसंग्रहीययतिसंस्कारप्रयोग by विश्वेश्वरसरस्वती (N. vol. I. p. 174).
 
-भक्तिहंस by विठ्ठलेश. _of वनमालिमिश्र, son of महेशमिश्र. | भक्तिहेतुनिर्णय by विठ्ठलेश. ब्रह्मयज्ञाशरोरत्न by नरसिंह 
+यत्याचारसप्तर्षिपूजा.
 
-| C. by रघुनाथ. 
+यत्याराधनप्रयोग.
 
-1080 
+यत्याह्निक (Baroda O. I. 8563).
 
+यमस्मृति. Vide sec. 50; pr. Jivananda Sm. part I pp. 560–567 and Ānan. Sm. pp. 112–116.
 
+यल्लाजीय by यल्लाजि, son of यल्लभट्ट. On funeral rites, सपिण्डीकरण etc. Relies on आश्वलायनसूत्र, भारद्वाजसूत्र, भाष्यs thereon and on शौनक.
 
-भगवत्स्मृति m. in स्मृतिचन्द्रिका and | 
+यशवन्तभास्कर by भास्कर or हरिभास्कर, son of आपाजिभट्ट, son of हरिभट्ट, son of पुरुषोत्तम; patronised by यशवन्तदेव, son of इन्द्रमणि, king of Bundelkhand, Bik. Cat. p. 508 containing संवत्सरकृत्यप्रकाश out of this work. N. vol. IV p. 269 has same. हरिभट्ट hailed from त्र्यम्बकेश्वरपुरी and was of काश्यपगोत्र and आपाजिभट्ट dwelt in काशी. About 1676.
 
-| भस्मवादावली. आचारमयूख. 
+याज्ञवल्क्यस्मृति– Vide sec. 34.
 
-भागविवेक or धनभागविवेक by भट्ट भगवदर्चनविधि by रघुनाथ. 
+C. by अपरार्क; Vide sec. 80.
 
-रामजित् , son of श्रीनाथ. भगवद्भक्तिनिर्णय or भगवद्भक्तिविवेक 
+C. by कुलमणि शुक्ल.
 
-___C. मितवादिनी by author. Relies by अनन्तदेव, son of आपदेव. Vide 
+C. by देवबोध m. in शुद्धितत्त्व of रघु०.
 
-___ on मिताक्षरा. sec. 114. भगवद्भक्तिरत्नावली by विष्णुपुरी com 
+C. by धर्मेश्वर m. in शूलपाणि's प्रायश्चित्तविवेक (p. 529).
 
-भारद्वाजगाय॑परिणयप्रतिषेधवादार्थ on posed at Benares. The author 
+C. बालक्रीडा by विश्वरूप. Vide sec. 61.
 
-the prohibition of intermarriage was a मैथिल. 
+[[CC|CC.]] विभावना.
 
-between persons of the भारद्वाज 
+CC. अमृतस्यन्दिनी of सोमयाजिन्.
 
-aud Trey gotras. C. कान्तिमाला by author. Cou posed in sake 1555 Pbālguna 
+CC. वचनमाला by pupil's pupil of सोमयाजिन्.
 
-भारद्वाजगृह्य ed. by Dr. J. W. Salo (1634 A. D.). Bhandarkar's 
+CC. ano.
 
-mons at Leyden. Report for 1887-9] p. C. by कपर्दिस्वामिन् . Lxxx. 
+C. मिताक्षरा by मथुरानाथ.
 
-C. गृह्यप्रयोगवृत्ति by भट्टरङ्ग. भगवद्भक्तिरसायन by मधुसूदनसरस्वती. 
+C. मिताक्षरा by विज्ञानेश्वर. Vide sec. 71. For com. on मिताक्षरा, vide under मिताक्षरा above.
 
-भारद्वाजश्राद्धकाण्डव्याख्या. भगवद्भक्तिविलास by गोपालभट्ट, pupil of प्रबोधानन्द, in 20 विलासs on 
+C. by रघुनाथभट्ट.
 
-भारद्वाजसंहिता vide भारद्वाजस्मृति. religious ceremonies of a cocas; 
+C. दीपकालिका of शूलपाणि. Vide sec. 98.
 
-भारद्वाजस्मृतिः m. in कालसार of गदाधर. 
+C. वीरमित्रोदय by मित्रमिश्र. Sec. 113. (portion printed in Ch. S. series).
 
-C. by वैद्यनाथ पायगुण्ड, son of C. (with text pr. at Calcutta 
+याज्ञिककमलाकरी (C. P. Cat. No. 4414).
 
-महादेव and वेणी and pupil of in 1845). 
+यात्राप्रयोगतत्त्व by हरिशङ्कर.
 
-नागोजि. Vide sec. 116. भगवन्तभास्कर or स्मृतिभास्कर by 
+यात्राविवाहाद्युपाय (auspicious times for marriage, journey &c.) N. (new series) vol. II. p. 149.
 
-भारद्वाजीयभाष्य m. by भास्कर in नीलकण्ठ, divided into twelve 
+युक्तिकल्पतरु of भोजदेव. Deals with state administration and topics of राजनीति, such as दूत, कोष, कृषिकर्म, बल, यात्रा, सन्धि, विग्रह, नगरनिर्माण, वास्तुप्रवेश, छत्र, ध्वज, पद्मरागादिपरीक्षा, अस्त्र, शस्त्रपरीक्षा, [[P1093]] नौकालक्षण &c. Names भोज himself as authority and उशनस्, गर्ग, बृहस्पति, पराशर, वात्स्य, लोहप्रदीप, शार्ङ्गधर and several पुराणs. (pr. in Cal. O. Series No. 1).
 
-त्रिकाण्डमण्डन (it is probably Agras. Vide sec. 112 (the whole 
+युगार्णव (C. P. Cat. No. 4418).
 
-कपर्दिभाष्य on भारद्वाजगृह्य) and published at Benares in 1879 80). 
+युद्धकुतूहल.
 
-by हरिहर in पारस्करगृह्यसूत्रभाष्य. भट्टकारिका m. in निर्णयसिन्धु. 
+युद्धकौशल by रुद्र.
 
-भार्गवार्चनचन्द्रिका m. by भट्टोजि in भरद्वाजस्मृति-Vide sec. 27. 
+युद्धचिन्तामणि by रामसेवक त्रिपाठिन्.
 
-तिथिनिर्णय. _C. by बालम्भट्ट 
+युद्धजयप्रकाश by दुःखभञ्जन.
 
-भार्गवार्चनदीपिका m. in नि. सि. and 
+युद्धजयार्णव m. by रघु० in ज्योतिस्तत्त्व.
 
-भर्तृसहगमनविधि. 
+युद्धजयार्णव (from अग्निपुराण chap. 123–125).
 
-रामकल्पद्रुमः 
+युद्धजयोत्सव.
 
-भावार्चनदीपिका by साबाजी (or नक्षत्रफल). Probably a purely | 
+C. ano.
 
-म्बा) alias प्रतापराज. Ulwar Cat. 
+C. by मथुरानाथ शुक्ल.
 
-extract 648. astrological work. भवदेवनिबन्ध m. in प्रायश्चित्तमयूख. | भाविप्रायश्चित्त or भाविप्रकाशितप्राय: 
+C. by रामदत्त.
 
-Probably the प्रायश्चित्तनिरूपण of चित्तप्रकरण. Ano.; mentions भवदेवभट्टः Vide pp. 641-42 माधवाचार्य. BBRAS. Cst. vol. above. 
+युद्धजयोत्सव by गङ्गाराम in five प्रकाशs. Ulwar Cat. extract 551.
 
-II. p. 197. भसकरोगप्रकाश 
+युद्धयात्रा m. in ज्योतिस्तत्त्व by रघु०.
 
-भाव्यसंग्रह m. in निर्णयदीपक. 
+युद्धरत्नावली.
 
-in 
+रङ्गनाथदेशिकाह्निक by रङ्गनाथदेशिक.
 
-न्मList of works on Dharmaśāstra 
+रजतदानप्रयोग by कमलाकर.
 
-1081 
+रत्नकरण्डिका by द्रोण (Hp Cat. pp. x–xi ms. copied in संवत् 1189 i. e. 1132–33 A. D.); treats of rites for Vājasaneyins. D. C. Ms. No. 273 of 1886–92 is incomplete and contains the following topics, viz. प्रायश्चित्त, स्पृष्टास्पृष्टप्रकरण, शावाशौच, श्राद्ध, गृहस्थाश्रमधर्म, दाय, ऋण, व्यवहार, दिव्य, कृच्छ्र &c.
 
-भाज्यार्थसंग्रह m. by हेमाद्रि (III. 1. | भृगुस्मृति m. by विश्वरूप, कालविवेक 
+रत्नकोश m. by हेमाद्रि (III. 2. 750), in मलमासतत्त्व of रघु०, टोडरानन्द.
 
-1360, where a verse in उपजाति ___of जीमूत०, मिताक्षरा, अपरार्क. 
+रत्नदीपविश्वप्रकाश.
 
-metre is quoted in which कप 
+रत्नमाला by शतानन्द, m. in ज्योतिस्तत्त्व (vol. I. p. 596).
 
-भैरवाईपारिजात by जैत्रसिंह दिन् is named ), स्मृतिचन्द्रिका ( on आशौच), कालनिर्णय of माधव. 
+रत्नमाला m. in शुद्धितत्त्व of रघु०, गोविन्दार्णव, निर्णयदीपक; probably श्रीपति's work or शतानन्द's work.
 
-भैरवा पारिजात by श्रीनिवासभट्ट, Between 1000-1200 A. D. I pupil of सुन्दरराज, and son of 
+रत्नसंग्रह m. in नि. सि.
 
-श्रीनिकेतन. भास्कराहिक. भिक्षुतत्त्व by श्रीकण्ठतीर्थ, pupil of | भ्रष्टवैष्णवखण्डन by श्रीधर. 
+रत्नसागर m. in नि. सि.
 
-महादेवतीर्थ, on the duties of | मकरन्दप्रकाश by हरिकृष्ण सिद्धान्त. On ascetics and on those entitled आह्निक, संस्कार; ms. (Bik. Cat. p. to take to संन्यास. N. (new 416) is dated संवत् 1725 (1668 series) vol. I. p. 260. 
+रत्नाकर– Vide under चण्डेश्वर sec. 91.
 
-69 A. D.). भीमपराक्रम m, in शुद्धिकौमुदी of | मङ्गलनिर्णय by गणेश, son of केशव 
+रत्नाकर by गोपाल.
 
-गोविन्दानन्द, in श्राद्धसौख्य (टोडरा देवज्ञ. On the rites to be per नन्द), in तिथितत्त्व (seems to be formed at उपनयन, विवाह &c. an astrological work). 
+रत्नाकर by रामप्रसाद. Stein's Cat. p. 100 has the portion on प्रायश्चित्त.
 
-मञ्जरी-Occurs as the last compo भुक्तिदीपिका (on the question, when nent of many works, e. g. 
+रत्नार्णव m. by रघु०.
 
-food may be taken before an | गोत्रप्रवरमञ्जरी, स्मृतिमञ्जरी (of eclipse). 
+रत्नावलि m. in हेमाद्रि (III. 2. 857), by रघु० in मलमासतत्त्व.
 
-गोविन्दराज). भुक्तिप्रकरण by कमलाकर 
+रथसप्तमीकालनिर्णय.
 
-मठप्रतिष्ठातत्व of रघुनन्दन. Vide sec. भुजबलभीम of भोजराज. Vide p. | 107. 
+रविसंक्रान्तिनिर्णय by रघुनाथ, son of माधव.
 
-588 above; m. in श्राद्धविवेक | मठाम्नायादिविचार (on religious of शूलपाणि, टोडरानन्द. An practices in the seven principal astrological work. 
+रसामृतसिन्धु m. in सदाचारचन्द्रिका. (probably on भक्ति).
 
-mathas of the शंकराचार्य school). 
+राघवभट्टीय m. in नि. सि.
 
-N. vol. X. 256 and Stein's Cat. भूतशुद्धि Aukrecht's Leipzig Cat. 
+राजकौस्तुभ or राजधर्मकौस्तुभ (part of स्मृतिकौस्तुभ) by अनन्तदेव. Pr. in G. O. Series in 1935. Vide sec. 114.
 
-No. 538. 
+राजधर्मसारसंग्रह attributed to तुलाजिराज of Tanjore (1765–1788).
 
-p. 312. 
+राजनीति ano.
 
-मठोत्सर्ग of कमलाकर (C. P. Cat, AYRETTONI Aufrecht's 
+राजनीति by देवीदास.
 
-Nos. 3771-72). Leipzig Cat. 537. 
+राजनीति by भोज.
 
-मठोत्सर्ग of माग्निदेव (C. P. Cat. No. भूपालकृत्यसमुच्चय m. in कृत्यरत्नाकर ___3770). 
+राजनीति by वररुचि (?) Begins with the well-known verse about nine gems ‘धन्वन्तरिः etc.’ (vide Burnell's Tanj. Cat. p. 141b).
 
-(p. 499) of चण्डेश्वर. Probably a 
+[[P1094]] राजनीति by हरिसेन of Benares.
 
-मणिमञ्जरीच्छेदिनी. work of भोज धारेश्वर. 
+राजनीतिकामधेनु m. by राजनीतिरत्नाकर of चण्डेश्वर.
 
-मण्डपकर्तव्यतापूजापद्धति by शिवराम भूपालपद्धति m. in कुण्डाकृति. शुक्ल भूपालवल्लभ by परशुराम. An eney- | मण्डपकुण्डमण्डन of नरहरिभट्ट सप्तर्षि 
+राजनीतिप्रकाश by मित्रमिश्र (part of वीरमित्रोदय) pr. in Ch. S. Series.
 
-clopaedia of Dharma, astrology, ___C. प्रकाशिका (by author). poetics &c. m. in नि. सि, निर्णय-मण्डपकण्डसिद्धि by विठ्ठल दीक्षित, son दीपक, कालनिर्णयसिद्धान्तव्याख्या. 
+राजनीतिप्रकाश by रामचन्द्र अल्लडीवार.
 
-of वरशर्मा; composed at काशी in भूप्रतिमादान. 
+राजनीतिमयूख–same as नीतिमयूख of नीलकण्ठ.
 
-sake 1541 (1619-20 A. D.). H.D.-136 
+राजनीतिशास्त्र by चाणक्य in 8 chapters and about 566 verses. W. and K. Cat. II. p. 182.
 
-1082 
+राजभूषणी or नृपभूषणी (on politics) by रामानन्दतीर्थ. Names कुल्लूक's टीका on मनुस्मृति.
 
+राजमार्तण्ड of भोज. Vide p. 588 above. D. C. Ms. No. 342 of 1879–80 is a work called राजमार्तण्ड of भोज on astrology in relation to धर्मशास्त्र and contains such topics as व्रतबन्धकाल, विवाहशुभकाल, विवाहराशियोजनविधि, संक्रान्तिनिर्णय, दिनक्षय, पुरुषलक्षण, मेषादिलग्नफल. The Ms. is dated संवत् 1655 चैत्र (i. e. about April 1598).
 
+C. by गणपति.
 
-वाजपेयी. 
+राजलासक m. in सरस्वतीविलास (Mysore ed. p. 21).
 
-C. विवृति by author; mentions C. मन्वाशयानुसारिणी by गोविन्द. 
+राजवल्लभ (by सूत्रधारमण्डन ?) m. in मुहूर्तदीपक of महादेव.
 
-कुण्डकौमुदी, कुण्डरत्नाकर, TIF (pr. by V. N. Mandlik). प्रतिष्ठासारसंग्रह, प्रयोगसार, राम- Vide sec. 77. 
+राजाभिषेक by अनन्त.
 
-C. नन्दिनी by नन्दनाचार्य. A late मण्डपनिर्णय m. in उत्सर्गमयूख. ___writer (pr. by V. N. मण्डपप्रकरण. 
+राजाभिषेकप्रयोग (from नीतिमयूख of नीलकण्ठ).
 
-Mandlik). मण्डपोद्वासनप्रयोग by a son of 
+राज्याभिषेक (from टोडरानन्द).
 
-____C. मन्वर्थविवृति by नारायणसर्वज्ञ. धरणीधर. 
+राज्याभिषेकपद्धति (part of दिनकरोद्योत).
 
-___Between 1100-1300 A. D. मण्डलकारिका (Aufrecht's Leipzig 
+राज्याभिषेकपद्धति by अनन्तदेव.
 
-(pr. by V. N. Mandlik). Cat. No. 647). 
+राज्याभिषेकपद्धति by शिव, son of विश्वकर्मन्.
 
-C. मन्वर्थचन्द्रिका by राघवानन्द मण्डलदेवतास्थापन) Auirecht's Leip- | 
+राज्याभिषेकप्रयोग by कमलाकर, son of रामकृष्ण. Sec. 111.
 
-सरस्वती. Later than 1400 zig Cat. No. 648). 
+राज्याभिषेकप्रयोग by रघुनाथ सम्राट्स्थपति, son of माधवभट्ट.
 
-(pr. by V. N. Mandlik). मतपरीक्षा. मतोद्धार by शङ्करपण्डित. 
+रामकल्पद्रुम by अनन्तभट्ट, son of कमलाकरभट्ट. Divided into ten kāṇḍas, which were in order काल, श्राद्ध, व्रत, संस्कार, प्रायश्चित्त, शान्ति, दान, आचार, राजनीति and (gap, probably उत्सर्ग). Aufrecht says that there were seven काण्डs, but a ms. in Bhadkamkar collection gives ten and names them as above except the last. Flourished about 1640–1670 A. D. (Vide Bik. Cat. pp. 445–447 for some of these kāṇḍas).
 
-C. सुखबोधिनी by माणिरामदीक्षित मथुरासेतु by अनन्तदेव, son of आपदेव; 
+रामकौतुक m. in निर्णयामृत and नि. सि.
 
-son of गङ्गाराम (vide Stein's m. in स्मृतिकौस्तुभ. Sec. 114. 
+रामतत्त्वप्रकाश [[attributed|attributed to]] सायण.
 
-Cat. p. 98). मदनपारिजात attributed to मदनपाल C. by असहाय. Vide sec. 59. 
+रामदेवप्रसाद alias गोत्रप्रवरनिर्णय by विश्वनाथ or विश्वेश्वर, son of शम्भुदेव; composed in śake 1506 (1584 A. D.).
 
-(composed by विश्वेश्वरभट्ट). Vide C. by उदयकर m. in वि. र. Ear sec. 94. 
+रामनवमीनिर्णय by गोपालदेशिकार्य. Quotes नि. सि.
 
-___lier than 1300 A. D. मदनमहार्णव Vide महार्णव. 
+रामनवमीनिर्णय by विठ्ठलदीक्षित.
 
-C. by उपाध्याय, m. in मेधातिथि मदनरत्न or मदनरत्नप्रदीप attributed 
+रामनाथपद्धति by रामनाथ.
 
-भाष्य. to मदनसिंहदेव. Vide sec. 95. Ulwar Cat. extract 336 for सम 
+रामनित्यार्चनपद्धति by चतुर्भुज.
 
-C. by ऋजु m. in मेधातिथिभाष्य. योद्योत; Baroda O. I. No. 4035 C. by कृष्णनाथ. on शुद्धि is dated संवत् 1551 C. by धरणीधर m. by कुल्लुकभट्टः (1494-95 A.D.). This last refers ___Between 950-1200 A. D. to भट्टविश्वनाथ श्रीमालिगूर्जर as the 
+रामनिबन्ध by क्षेमराम, son of श्रीभवनन्द, son of दीक्षितबाबू. Composed in 1720 A. D. (Ulwar Cat. No. 1431).
+[[P1095]] रामपूजापद्धति by क्षेमराज. (Ulwar Cat. No. 1432 and extract 341.)
 
-C by भागुरि m. by वि. र., vide author. 
+रामपूजापद्धति by रामोपाध्याय. Stein's Cat. p. 101.
 
-p. 346. मधुपर्कनिर्णय. मधुपर्कपद्धति. 
+रामप्रकाश.
 
-C. (77764) by À fafa; vide sec. मध्यमाङ्गिरसस्मृति m. in मिताक्षरा ____64 (pr. by V. N. Mandlik 
+(1) com. on कालतत्त्वार्णव by रामदेव.
 
-(या. III. 243, 247, 257, 260). and by J. R. Gharpure). मध्वाहिक 
+(2) a digest of religious observances compiled in the name of कृपाराम (described as गौडक्षत्रकुलोद्भव), son of यादवराज and descendant of the royal family of माणिक्यचन्द्र. कृपाराम was himself a feudatory of Jehangir and Shah Jehan. The I. O. Cat. (vol. III. p. 502) says that the real author was राघवेन्द्र, son of काशीनाथ and father of रामदेव चिरञ्जीव. Relies [[of|on]] हेमाद्रि, माधव, and गौड writers. Latter half of 17th century. Peterson (in Ulwar Cat. No. 1433) says that this is a com. on the कालतत्त्वविवेचन. But from the description in the I. O. Cat. this does not appear likely.
 
-C. by यज्वन् , m. by मेधातिथि. मनुस्मृति or मानवधर्मशास्त्र. Vide 
+रामप्रसाद Vide तीर्थरत्नाकर.
 
-C. by रामचन्द्र (pr. by V. N. sec. 31 (vide pp. 346-48 for edi. tions of commentaries). 
+रामानुजनित्यकर्मपद्धति Vide Peterson's 6th Report p 107.
 
-Mandlik). C. मन्वर्थमुक्तावली by कुल्लुकभट्ट 
+रामार्चनचन्द्रिका m. in तिथितत्त्व and शुद्धितत्त्व of रघु०, नि. सि.
 
-C. by रुचिदत्त. Vide sec. 89. He was a C. by anonymous (Kashmirian); native of वारेन्द्री i. e. Rajsahi portions pr. by Dr. Jolly. in Bengal. 
+रामार्चनचन्द्रिका by अच्युताश्रम.
 
-| मन्त्रकमलाकर by कमलाकर. 
+रामार्चनचन्द्रिका by आनन्दवनयति, pupil of परमहंसपरिव्राजकाचार्यश्रीमन्मुकुन्दवन in 5 पटलs (D. C. Ms. 440 of 1891–95 is dated śake 1607 i. e. 1685 A. D.). Traces गुरुपरम्परा from वसिष्ठ to गौडपाद, गोविन्द, शङ्कराचार्य, विश्वरूप, सुरेश्वर, in four पटलs.
 
-List of works on Dharmaśāstra 
+C. लघुदीपिका by गदाधर.
 
-1083 
+रामार्चनचन्द्रिका by कुलमणिशुक्ल.
 
-मन्त्रकोश m. in माचारमयूख. मलमासकार्याकार्यनिर्णय. मन्त्रकोश by आशादित्यत्रिपाठिन् in | मलमासतत्त्व or मलिम्लुचतत्त्व of रघु 
+रामार्चनदर्पण (Ulwar Cat. No. 1435).
 
-20 परिच्छेदs. Ulwar Cat. extract नन्दन pr. by Jivananda. 651. 
+रामार्चनदीपिका.
 
-C. by काशीराम वाचस्पति, son of मन्त्रकौमुदी by अनिरुद्धभट्ट महामोह- राधावल्लभ and grandson of राम 
+रामार्चनपद्धति by रामानन्द.
 
-पाध्याय, said to be a दाक्षिणात्य. कृष्ण. In four काण्डs explains मन्त्रs of 
+रामार्चनरत्नाकर by केशवदास m. in अहल्याकामधेनु.
 
-C. by मथुरानाथ. सामवेदगृह्यसूत्र; ms. ( N. vol. X. 
+रामार्चापद्धति by रामानुज.
 
-C. टिप्पनी by राधामोहन. p. 122 ) dated sake 1717 i. e. 
+रायमुकुटपद्धति m. by रघुनन्दन in शुद्धितत्त्व, श्राद्धतत्त्व (p. 213).
 
-C. by वृन्दावन. 1795 A. D. 
+रायसिंहप्रकाश of गदाधर.
 
-C. by हरिरामः मन्त्रतन्त्रप्रकाश m. by रघु० in एका 
+रासयात्रापद्धति by रघु०. Vide p. 892 above.
 
-दशीतत्व. 
+रासयात्राविवेक of शूलपाणि. Vide sec. 98.
 
-मलमासनिरूपण. मन्त्रप्रकाश m. by रघु० in दीक्षातत्त्व. मलमासनिर्णय by दशपुत्र. मन्त्रप्रभभाष्य by हरदत्त. Vide under | मलमासनिर्णय by बृहस्पति, son of 
+रुद्रकलशस्थापनविधि by रामकृष्ण, son of नारायण.
 
-एकाग्निकाण्डमन्त्रव्याख्या. 
+रुद्रकल्प.
 
-भवदेव ( Baroda. 0. I. No. 
+रुद्रकल्पतरु.
 
-12851 ). मन्त्रमुक्तावली m. in शुद्धितत्व and 
+(1) ano. (Burnell's Tanj. Cat. p. 138 a); ms. dated संवत् 1714 (1657–58 A. D.).
 
-मलमासतत्त्व by रघु. 
+(2) by a son of विश्वेश्वर.
 
-मलमासनिर्णय by वञ्चेश्वर, son of मन्त्ररत्नदीपिका m. in अहल्याकामधेनु. नरसिंह. मन्त्रसारसंग्रह m. in सदाचारचन्द्रिका. | मलमासनिर्णयतन्त्रसार by वासुदेव मन्त्रसारसंग्रह of शिवराम. 
+रुद्रकल्पद्रुम or महारुद्रपद्धति by अनन्तदेव, son of उद्धव द्विवेदी, resident of Benares. Mentions हेमाद्रि, टोडरानन्द, प्रयोगपारिजात, रुद्रकारिका of परशुराम, नि. सि. Later than 1640 A. D.
 
-| मलमासरहस्य by बृहस्पति, son of मयूरचित्रक or मेघमाला or रत्नमाला 
+रुद्रचिन्तामणि or रुद्रपद्धति by शिवराम, son of विश्राम; for छन्दोगs (Baroda O. I. 8018).
 
-| भवदेव, composed in sake 1603 attributed to ata. Deals with 
+[[P1096]] रुद्रजपसिद्धान्तशिरोमणि by रामचन्द्रपाठक. A very large work. Baroda O. I. 10946 has 13 प्रकरणs and probably there were more.
 
-(1681-82 A. D.). indications of prospective rain, | मलमासविचार Ano.; composed in famine etc. from the appear- __1579 A. D. (Bik. Cat. p. 417), ance of the atmosphere &c.; m. The date seems to be rather in अद्भुतसागर of बल्लालसेन. 1679 ( 1600 शके.) मयूरचित्रक by भट्टगुरु in 7 kanilas. | मलमासाघमर्षणी Ano. 
+रुद्रपद्धति.
 
-( Tri. Cat. Madras Govt. Mss. | मलमासार्थसंग्रह by गुरुप्रसादशर्मनN. 1919-22 p. 4404). 
+(1) by परशुराम, son of कर्ण, an उदीच्यब्राह्मण. Describes the rites connected with Śiva worship in the form of महारुद्र. There are in all 1028 verses on रुद्रजपप्रशंसा, कुण्डमण्डपलक्षण, पीठपूजाविधि, न्यासविधि. Composed in संवत् 1515 (1458 A. D.). Also called रुद्रकारिका.
 
-( new series ) vol. I. p. 279. मरणकर्मपद्धति ( ascribed to the | 
+(2) another shorter treatise on same subject; introduction being partly identical. Composed between 1578–1643 A. D. (vide I. O. Cat. p. 584).
 
-| महागणपतिपूजापद्धति. यजुर्वेदगृह्यसूत्र). 
+(3) by अनन्तदीक्षित, son of विश्वनाथ. Baroda Ms. 8030 is dated संवत् 1809 (1752–53 A. D.).
 
-महादाननिर्णय by king भैरवेन्द्र of मरणसामयिकनिर्णय on rites and ex- | 
+(4) Describes रुद्रप्रयोग following तैत्तिरीयशाखा, though रुद्र is recited in all śākhās; says ‘स्मार्तरुद्रप्रयोगस्य बौधायनसूत्रमूलकत्वेन बह्वृचादीनां च तत्र बौधायनं ग्राह्यम् ॥ रुद्रः पञ्चधा रूपं रुद्री लघुरुद्रो महारुद्रोति रुद्रश्चेति एकादशगुणवृद्ध्या । सर्वश्च त्रेधा जपरुद्रो होमरूद्रोभिषेकरुद्रश्चेति [[।|।’]] I. O. Ms. dated संवत् 1587 i. e. 1530–31 A. D. (vide Cat. p. 580 No. 1783); quotes रूपनाथ often.
 
-मिथिला, with the help of piations to be performed at 
+रुद्रपद्धति (मैत्रायणीय) Baroda O. I. 2452.
 
-वाचस्पतिमिश्र, ms. ( Hp. Cat. time of death (Bik. Cat. p.420). 
+रुद्रपद्धति by आपदेव.
 
-pp. XII. 36 and 132) dated मरीचिस्मृति-vide sec. 49. 
+रुद्रपद्धति by काशीदीक्षित, son of सदाशिव. Also called रुद्रानुष्ठानपद्धति and महारुद्रपद्धति.
 
-ल. सं. 392 ( i. e. 1511 A, D.) मर्यादासिन्धु m. in द्रव्यशुद्धिदीपिका | The pedigree is given as भवेश, 
+रुद्रपद्धति by नारायणभट्ट, son of रामेश्वरभट्ट. ‘यद्यप्यनेकासु शाखासु रुद्रः पठ्यते तथापि तैत्तिरीयशाखानुसारेण रुद्रः पठ्यते.’
 
-of पुरुषोत्तम. 
+रुद्रपद्धति by भास्करदीक्षित, son of रामकृष्ण (according to शाङ्खायनगृह्य).
 
-_his son हरसिंहदेव, his son भैरवेन्द्र, 
+रुद्रपद्धति by रेणुक; ms. (Bik. Cat. p. 601) dated śake 1604 (1682 A. D.).
 
-1084 
+रुद्रपद्धति by विश्वनाथ, son of शम्भुदेव and younger brother of रामदेव (for माध्यन्दिनीयs).
 
+रुद्रपूजापद्धति– Peterson's 6th Report p. 109.
 
+रुद्रविधानपद्धति by काशीदीक्षित, son of सदाशिवदीक्षित.
 
-styled रूपनारायण here, though | महारुद्धपद्धति by अनन्तदीक्षित, son of 
+रुद्रविधानपद्धति by चन्द्रचूड.
 
-हरिनारायण elsewhere; vide also 
+रुद्रविलासनिबन्ध by नन्दनमिश्र.
 
-विश्वनाथ, surnamed यज्ञोपवीत; Ulwar Cat. No. 1413 where 
+रुद्रस्नानविधि or रुद्रस्नानपद्धति by रामकृष्ण, son of नारायणभट्ट; m. in शान्तिरत्न of कमलाकर. About 1570–1600.
 
-quotes प्रयोगरत्न of नारायणभट्ट. this work appears to be styled 
+रुद्रप्रतिष्ठा.
 
-So later than 1575 A, D. ( also महादानप्रयोगपद्धति. 
+रुद्रलघुन्यास– manual of formula intended for रुद्र worship.
 
-called महारुद्रप्रयोगपद्धति). महादानपद्धति by रूपनारायण ( I. O. 
+रुद्रसूत्र or -योग by अनन्तदेव, son of उद्धव, residing at Benares, also called त्रैविद्यमौढ for वाजसनेयशाखा; Peterson's 5th Report p. 175.
 
-महारुद्रपद्धति by काशीदीक्षित m. in Cat. p. 550. No. 17 15 must be 
+रुद्राक्षधारण.
 
-रुद्रकल्पद्रुमः taken as dated sake 1452, i. e, 1530 A. D, as the cyclic 
+रुद्राक्षपरीक्षा.
 
-| महारुद्रपद्धति by नारायण (acc. to 
+[[P1097]] रुद्रानुष्ठानपद्धति by नारायण, son of रामेश्वर (D. C. Ms. No. 283 of 1886–92). Seems to be same as रुद्रपद्धति (4) above.
 
-आश्वलायन). year fag, īa agrees). Also called 
+रुद्रानुष्ठानपद्धति by मेङ्गनाथ, of the family of सर्वज्ञ. Relies on महार्णव as the principal authority.
 
-महारुद्रपद्धति by परशुराम, son of महादानप्रयोगपद्धति; m.by वाचस्पति in द्वैतनिर्णय, by कमलाकर, in 
+रुद्रानुष्ठानपद्धति by शङ्कर; son of बल्लालसूरि m. in व्रतोद्यापनपद्धति; q. v. About 1750 A. D.
 
-कर्ण ( acc. to सामदेव ); m. by 
+रुद्रानुष्ठानपद्धति or -दीपिका. Vide रुद्रपद्धति above.
 
-दानमयूख. 
+रुद्रानुष्ठानप्रयोग by खण्डभट्ट, son of मयूरेश्वर, surnamed अयाचित.
 
-शूद्रकमलाकर. Composed in 1459 
+रुद्रार्चनचन्द्रिका of शिवराम.
 
-A. D. महादानपद्धति by विश्वेश्वर. महादानवाक्यावली of रत्नपाणिमिश्र, 
+रुद्रार्चनमञ्जरी by वेदाङ्गराय; vide महारुद्रपद्धति.
 
-महारुद्रपद्धति by बलभद्र. son or गंगोलीसवेिश्वरमिश्र ; | महारुद्धपद्धति by मालजित् (or meutions a work called इतिहास । मालजी) son of तिगलाभट्ट, son of समुच्चय. 
+रूपनारायणीय (पद्धति) by उदयसिंह रूपनारायण, son of शक्तिसिंह. In the D. C. Ms. No. 240 of A 1881–82 (428 folios) a pedigree is given, which starts with भास्करकेसरी, in whose family was born मुग्धसिंह who conquered भोगिराज; his son was मदनसिंह. उदयसिंह was 13th from मदनसिंह and king of उत्तरकोसल. The work deals with षोडशमहादानs such as तुलापुरुष (up to folio 210), and with कूपवापीतडागादिविधि, नवग्रहहोम, अयुतहोम, लक्षहोम, दुर्गोत्सव. Relies upon भोजराज, लक्ष्मीधर (कल्पतरु), हेमाद्रि, चण्डेश्वर, पारिजात, हरिहर, भीमपराक्रम, विद्याधर, चिन्तामणि, वर्षदीप, महादानपद्धति of रूपनारायण; described above seems to be a part of this; m. in जलाशयारामोत्सर्गपद्धति of नारायणभट्ट. Between 1450–1525 A. D.
 
-रत्नभट्ट of श्रीस्थल in गुर्जरदेश महादानानुक्रमणिका. 
+रेणुकारिका or रेणुककारिका– vide पारस्करगृह्यकारिका above. In 1266–67 A. D.
 
-The work is also called रुद्रार्चन महादानदीपविधि. 
+लक्षणप्रकाश by मित्रमिश्र; part of वीरमित्रोदय (on politics); pr. in Chowkhamba S. Series.
 
-मञ्जरी and the author was also महादेवपरिचर्याप्रयोग ( बौधायनीय )by 
+लक्षणरत्नमालिका by नारोजिपण्डित, son of विश्वनाथ: in five पद्धतिs on वर्णाश्रमाचार, दैव, राज, उद्योग, शरीर; seems to be a com. on his लक्षणशतक (in one hundred verses). Vide Burnell's Tanj. Cat. pp. 132 b and 164 b.
 
-called वेदाङ्गराय. About 1627 सुरेश्वरस्वामिन् , pupil of रघुरामतीर्थ 
+लक्षणशतक by नारोजिपण्डित.
 
-1655 A. D. ( Ulwar Cat. No. N. vol. X. p. 239. महादेवीय m. by निर्णयामृत. 
+लक्षणसंग्रह m. by हेमाद्रि in दानखण्ड p. 328, कुण्डमण्डपसिद्धि.
 
-महारुद्रपद्धति by रामचन्द्राचार्य ( for महाप्रदीपरत्न पद्धति N. ( new series) | ___ गोभिलीयः) Baroda O. I. 1250. 
+लक्षणसमुच्चय by हेमाद्रि. On the indications and predictions from bodily signs and on Prākrits. Vide Bik. Cat. p. 411.
 
-I. p. 280. 
+लक्षणसमुच्चय m. by हेमाद्रि in दानखण्ड p. 823, by नि. सि.
 
-महारुद्रपद्धति by विष्णुशर्मन्. महाप्रयोगसार m. by रघु० in आह्निक- महारुद्रपद्धति by वेदाङ्गराय, son of 
+लक्षणसारसमुच्चय– rules for the construction of शिवलिङ्गs in 32 sections.
 
-तत्व. 
+लक्षहोमपद्धति
 
-तिगलाभट्ट. Same as the work of महाप्रवरनिर्णय. 
+(1) by काशीदीक्षित, son of सदाशिवदीक्षित.
 
-मालजी. महाप्रवरभाष्य by पुरुषोत्तम, m. in. | महारुद्रयज्ञपद्धति. 
+(2) by गोविन्द, son of पुरुषोत्तम.
 
-his गोत्रप्रवरमञ्जरी. 
+(3) by नारायणभट्ट, son of रामेश्वर. Sec. 108.
 
-महार्णव or महार्णवप्रकाश m. by हेमाद्रि महारुद्रकर्मकलापपद्धति 
+लक्ष्मणसमुच्चय m. in मुहूर्तदीपक of महादेव.
 
-( vol. III. part l, pp. 183,1440) महारुद्रजपहोमपूजापद्धति. 
+[[P1098]] लक्ष्मीनारायणार्चाकौमुदी by शिवानन्दगोस्वामी in five प्रकाशs.
 
-and by श्राद्धविवेक of शूलपाणि. महारुद्रन्यासपद्धति by बलभद्र. This is also called स्मृतिमहार्णव or महारुद्रपद्धति see रुद्रकल्पद्रुम. 
+लक्ष्मीसपर्यासार by श्रीनिवास.
 
-5796137 Vide pp. 654-55 abore. महारुद्रपद्धति by अचलदेव द्विवेदिन्, | महार्णव (कर्मविपाक) attributed to 
+लघुकारिका by विष्णुशर्मन्, son of देवदत्त (for माध्यन्दिनशाखा) Baroda O. I. 12072 dated संवत् 1552 and No. 4055 dated 1507 संवत्.
 
-son of वत्सराज (acc to शांखायन). मान्धात, a son of मदनपाल. Vide 
+लघुकालनिर्णय by माधवाचार्य. The first verse is व्याख्याय माधवाचार्यो धर्मान्पाराशरानथ and the last verse is व्यतिपाते च वैधृत्यां तत्कालव्यापिनी तिथिः । (vide Bik. Cat. pp. 408–409).
 
-About 1518 A. D. 
+लघुचाणक्य.
 
-sec. 94 pp. 794-97. 
+लघुचिन्तामणि by वीरेश्वरभट्ट गोडबोले.
 
-1415). 
+लघुजातिविवेक m. in शूद्रकमलाकर.
 
-List of works on Dharmaśāstra 
+लघुनारदस्मृति m. by नि. सि., सं. कौ.
 
-1085 
+लघुनिर्णय by शिवनिधि (Baroda O. I. 12854).
 
-Ind 
+लघुपद्धति or कर्मतत्त्वप्रदीपिका by कृष्णभट्ट, son of पुरुषोत्तम, son of रघुनाथ; based on कारिका and वृत्ति, वामनभाष्य and जयन्त. Deals with leading topics of आचार, व्यवहार. N. vol. X. p. 248; Baroda O. I. No. 1422 is dated संवत् 1592 (1535–36 A. D.). It mentions चन्द्रिका, स्मृतिसार, स्मृत्यर्थसार. Between 1300–1500 A. D.
 
-महार्णव by विश्वेश्वरभट्ट, £on of पोङ्ग-] माघोद्यापन. 
+लघुपाराशरस्मृति.
 
-भट्ट ( ? पेदिभट्ट ). Vide see. 94. | 
+लघुबृहस्पतिस्मृति.
 
-| माण्डव्यस्मृति m. in कालविवेक of (N. vol. VII. p. 121). same as | 
+लघुयमस्मृति m. by अपरार्क (on या. I. 238) and by हलायुध in ब्राह्मणसर्वस्व.
 
-___ जीमूत०, हेमाद्रि, दानमयूख. महार्णव attributed to मान्धात. 
+लघुवसिष्ठस्मृति.
 
-मातुलसुतापरिणयः महार्णवव्रतार्क. 
+लघुविष्णुस्मृति m. in अपरार्क and ब्राह्मणसर्वस्व of हलायुध; pr. Ānan. Sm. pp. 117–123.
 
-मातृगोत्रनिर्णय by नारायण. महालयप्रयोग. 
+लघुव्यास (pr. Jivananda Sm. part II pp. 310–320) m. in संस्कारमयूख.
 
-मातृगोत्रनिर्णय by लौगाक्षि भास्कर, महालयश्राद्धपद्धति 
+लघुशङ्खस्मृति pr. in Ānan. Sm. pp. 124–127.
 
-son of सुद्गल, son of रुद्रकवीन्द्र. महाविष्णुपूजापद्धति by अखण्डानन्द, । ( Baroda o. I No. 1463). On 
+लघुशातातपस्मृति pr. Ānan. Sm. pp. 128–135.
 
-disciple of अखण्डानुभूति. the question of मातृगोत्र being महाविष्णुपूजापद्धति by चैतन्यगिरि prohibited in marriage to माध्य महाशान्ति in two अध्याय (of 18 न्दिनीय ब्राह्मण, 
+लघुशौनकस्मृति in 114 verses (Baroda O. I. 11863).
 
-and 25 sections ) on expiatory | मातृदत्तीय com. on हिरण्यकशिसूत्र m. and propitiatory rites. 
+लघुहारीतस्मृति m. in अपरार्क (pr. in Ānan. Sm. pp. 136–141 and Jivananda Sm. part I. pp. 177–193).
 
-in नि. सि. महाशिवरात्रिनिर्णय 
+लघ्वत्रिस्मृति (pr. Jivananda Sm. part I pp. 1–12) vide p. 263 above.
 
-मातृसांवत्सरिकश्राद्धप्रयोग. महाशिवरात्रिनिर्णय by कृष्णराम of मातृस्थापनाप्रयोग. 
+लघ्वाश्वलायनस्मृति pr. Ānan. Sm. (pp. 142–181).
 
-काश्मीर. 
+लघ्वाह्निक.
 
-मात्रादिश्राद्धनिर्णय by कोकिल. महाष्टमीनिर्णय 
+ललितार्चनचन्द्रिका by सच्चिदानन्दनाथ, guru of विद्यानन्दनाथ.
 
-माधवप्रकाश or सदाचारचन्द्रोदय. Vide महिषीदान. 
+ललितार्चनदीपिका.
 
-आचारचन्द्रोदय above. महिषीदानमन्त्र. 
+ललितार्चनपद्धति by चिदानन्दनाथ, pupil of स्वयंप्रकाशानन्दनाथ. Probably same as ललितार्चनचन्द्रिका.
 
-माधवीयकालनिर्णय. Vide कालनिर्णय महेश्वरधर्माधर्मः 
+लवणश्राद्ध (on offerings of salt cakes to the deceased on 4th day after death).
 
-of A199 above. 
+लिखितस्मृति–vide sec. 13, p. 138; Jivananda Sm. part II. pp. 375–382 and Ānan. Sm. pp. 182–186. D. C. Ms. 44 of 1866–68 contains a लिखितस्मृति in 6 अध्यायs where वसिष्ठ and other sages are represented as asking लिखित about चातुर्वर्ण्यधर्म and प्रायश्चित्तs.
 
-माधवीयसारोद्धार by रामकृष्णदीक्षित, मांसनिर्णय by दुण्ठिः 
+[[P1099]] लिङ्गतोभद्र.
 
-son of arraut. An abstract of मांसपीयूषलता by रामभद्रशिष्य (C. P. 
+लिङ्गतोभद्रकारिका.
 
-पराशरमाधवीय for महाराजाधिराज Cat. No. 4143). 
+लिङ्गधारणचन्द्रिका.
 
-लक्ष्मणचन्द्र. Vide Stein's Cat. p. मांसभक्षणदीपिका by वेणीराम शाकद्वी 309 for extract. About 1575 
+लिङ्गधारणदीपिका.
 
-पिन्. 
+लिङ्गप्रतिष्ठा by अनन्त.
 
-1600 A. D. मांसमीमांसा by नारायणभट्ट, son of माधवोल्लास m. by रघु० in देवप्रतिष्ठा 
+लिङ्गप्रतिष्ठापनविधि by अनन्त (according to बौधायन). I. O. Cat. vol. III. pp. 584–585.
 
-रामेश्वरभट्ट m. in नि. सि. 
+लिङ्गादिप्रतिष्ठाविधि by नारायणभट्ट, son of रामेश्वरभट्ट.
 
-तत्व (p. 509). मांसविवेक by भट्टदामोदर. Tries to | 
+लिङ्गार्चनचन्द्रिका by सदाशिवदशपुत्र, son of गदाधर, son of विष्णु, composed for pleasing king जयसिंह. He wrote आशौचस्मृतिचन्द्रिका also. First quarter of the 18th century.
 
-माध्यन्दिनीयाचारसंग्रहदीपिका by पद्म prove that the directions about 
+लेखपञ्चाशिका on fifty forms of deeds, bonds and letters, composed in 1232 A. D. Vide Bhandarkar's Report for 1882–83, No. 410; ms. dated संवत् 1536, i. e. 1479–80 A. D.
 
-नाभ. offering of flesh do not apply 
+लेखपद्धति contains forms of mortgage-deeds, sale-deeds, treaties, cited from actual documents in the royal secretariat from 9th to 16th century of Vikrama era, published in G. O. Series (1925).
 
-मानवगृह्यसूत्र (ed. by Knauer and to the present age. 
+लेखमुक्तामणि by हरिदास, son of वत्सराज in 464 verses and four सर्गs on उद्भव (origin of writing), गणित, लिखन (the art of the scribe) and नृपनीति; ms. copied in 1625 A. D. (Aufrecht's Oxf. Cat.).
 
-__in the G. O. Series with मांसविवेक or मांसतत्त्वविवेक by विश्व- com.) in two parts called 
+लोकपालाष्टदान.
 
-नाथन्यायपञ्चानन. Composed पुरुष, about 1634 A. D.; pr. in सर- C. (भाष्य) by अष्टावक्र ; mentions स्वतीभवन series. Styled also याज्ञवल्क्य, गौतम, पराशर, मांसतत्वविचार. 
+लोकप्रकाश by क्षेमेन्द्र. Latter half of 11th century; gives specimens of letters, bonds, deeds &c.
 
-बैजवाप, शबरस्वामी, भट्टकुमार, 
+लोकसागर m. in अहल्याकामधेनु.
 
-1086 
+लोहितस्मृति.
 
+लौगाक्षिस्मृति– sec. 51.
 
+वङ्गिपुरेश्वरकारिका by वङ्गिपुरेश्वर.
 
-and भट्टअष्टावक्र himself. In the | मासिकश्राद्धनिर्णय by रामकृष्ण father Intro. to 2nd पुरुष he says he | of कमलाकर ; m. in नि. सि. composed when 100 years ( of 
+वचनसंग्रह (Baroda O. I. No. 5507).
 
-मासिकश्राद्धपद्धति by गोपीनाथभट्ट what era ?) were completed. 
+वचनसमुच्चय (Bik. Cat. p. 489).
 
-मासिकश्राद्धप्रयोग (आपस्तम्बीय) by मानवगृह्यपरिशिष्ट ( BBRAS Cat. p. 
+वचनसारसंग्रह by श्रीशैलताताचार्य, son of सुन्दराचार्य; mentions मद. पा.
 
-रघुनाथभट्टसम्राट्स्थपति. 206 No. 657). 
+वटेश्वरसिद्धान्त m. in कालसार of गदाधर.
 
-मासिकश्राद्धमानोपन्यास by मौनि मानवधर्मशास्त्र-vide under मनुस्मृतिः। मल्लारिदीक्षित. मानवश्राद्धकल्प m. by हेमाद्रि. |मिताक्षरा com. on गौतमधर्मसूत्र by मानसागरीपद्धति of मानसिंह (C. P. 
+वत्सस्मृति m. in कालमाधव and by मस्करिन् on गौतमधर्मसूत्र.
 
-हरदत्त. Vide sec. 87. Cat. No. 4116). 
+वपननिर्णय.
 
-मिताक्षरा com. on याज्ञवल्क्यस्मृति by मानसोल्लास of सोमेश्वर, Vide अभिल 
+वरदराजीय (Hultzsch R. I. No. 448).
 
-मथुरानाथ. षितार्थचिन्तामणि above. मिताक्षरा com. on याज्ञवल्क्यस्मृति by 
+वर्ज्याहारविवेक by वेङ्कटनाथ.
 
-विज्ञानेश्वर; also called ऋजुमिता मार्कण्डेयस्मृति m. by मिताक्षरा ( on 
+वर्णकाचार.
 
-क्षरा. Vide sec. 71. या. III. 19 ) and स्मृतिचन्द्रिका. | 
+वर्णशासन.
 
-C. प्रमिताक्षरा or प्रतीताक्षरा by मार्तण्डदीपिका m. in अदल्याकामधेनु. नन्दपाण्डत Vide sec. 110. मार्तण्डार्चनचन्द्रिका by मुकुन्दलाल. C. बालम्भट्टी alias लक्ष्मीच्याख्यान मालवदर्शन m. in दानरत्नाकर of 
+वर्णसङ्करजातिमाला by भार्गवराम. On mixed castes. N. (new series) I. p. 332.
 
-by लक्ष्मीदेवी. Vide see. 116 ; चण्डेश्वर. It is probably only a 
+वर्णसारमणि by वैद्यनाथ दीक्षित.
 
-pr. in Ch. S. Series (व्यवहार) reference to some view of भोज 
+वर्णाश्रमधर्म by वैद्यनाथदीक्षित. Probably the same as above.
 
-and by J. R. Gharpure and not to a work of that pame, (आचार, प्रायश्चित्त and व्यवहार). 
+वर्णाश्रमधर्मदीप or -दीपिका by कृष्ण, son of गोविन्द, son of राघव of the भारद्वाजगोत्र; composed at Benares on संस्कारs, गोत्रप्रवरनिर्णय, स्थालीपाक, लक्षहोम, कोटिहोम, तुलापुरुष, वास्तुविधि, आह्निकविधि, सर्वप्रायश्चित्त, मूर्तिप्रतिष्ठा &c.
 
-C. सबोधिनी by विश्वेश्वरभट्ट. Vide मासकृत्य. 
+वर्णाश्रमधर्मदीप by king कृष्ण who ruled over महाराष्ट्र on the banks [[P1100]] of the गोदावरी (vide Bik. Cat. p. 489). This is a large work.
 
-see. 94 p. 799. ( व्यवहार text मासतत्त्वविवेचन Ano. On the 
+वर्धमानपद्धति m. in श्राद्धतत्त्व of रघु० (styled नव्यवर्धमान०).
 
-pr. by Mr. Gharpure and months and appropriate feasts, 
+वर्षकृत्य by रुद्रधर, son of लक्ष्मीधर; pr. at Benares in 1903; m. in दुर्गोत्सवविवेक of शूलपाणि.
 
-tr. by him ). fasts and religlous rites in 
+” of रावणशर्मन् of चम्पहट्टि family. Deals with संक्रान्ति and the festivals and व्रतs of the 12 months of the year.
 
-C. मिताक्षरासार by मधुसूदन गो each. ( Bik. Cat. p. 421 ). 
+” by विद्यापति. About first half of 15th century; m. in मलमासतत्त्व of रघु०.
 
-स्वामी. मासदर्पण. 
+” by शङ्कर. It is also styled स्मृतिसुधाकर or वर्षकृत्यनिबन्ध (Bik. Cat. p. 468).
 
-C. by मुकुन्दलाल. मासनिर्णय by भट्टोजि. 
+” by हरिनारायण (C. P. Cat. No. 5017).
 
-C. by रघुनाथ वाजपेयी (vide 
+वर्षकृत्यतरङ्ग from the कृत्यमहार्णव.
 
-Peterson's 6th Report p. मासमीमांसा by गोकुलनाथ महामहो. 1].). 
+वर्षकृत्यप्रयोगमत (माला) by मानेश्वरशर्मन्; ms. dated 1477 A. D. (B. O. Mss. Cat. vol. I. No. 312 and JBORS for 1927 parts III–IV p. iv).
 
-पाध्याय. On 4 kinds of months, 
+वर्षकौमुदी or वर्षकृत्यकौमुदी by गोविन्दानन्द, son of गणपतिभट्ट (pr. in B. I. Series). Vide sec. 106.
 
-C. सिद्धान्तसंग्रह by राधामोहन चान्द्र, सौर, सावन and नाक्षत्र, and 
+वर्षदर्पण m. in कालनिर्णयचन्द्रिका of दिवाकर, in समयमयूख. Earlier than 1600 A. D.
 
-शर्मा on the various religious rites 
+वर्षदीधिति part of स्मृतिकौस्तुभ of अनन्तदेव.
 
-C. by हलायुधभट्टः and festivals of each of the twelve months of the year. 
+वर्षदीप m. in रूपनारायणीय.
 
-C. व्याख्यानदीपिका by निरि 
+वर्षदीपिका m. in कृत्यरत्नाकर by चण्डेश्वर.
 
-बसवोपाध्याय, son of देवराज मासादिनिर्णय by दुण्ढि. 
+वर्षभास्कर by शम्भुनाथ सिद्धान्तवागीश, composed by order of king धर्मदेव.
 
-भट्ट, on व्यवहार 
+वसन्तराजीय alias शकुनार्णव by वसन्तराजभट्ट, son of शिवराज and younger brother of विजयराज; composed by order of चन्द्रदेव of मिथिला; m. in अद्भुतसागर by बल्लालसेन and in दुर्गोत्सवविवेक of शूलपाणि. Earlier than 1150 A. D.
 
-List of works on Dharmaśāstra 
+C. by भानुचन्द्रगणि in Akbar's reign.
 
-1087 
+वसिष्ठकल्प.
 
-मिताक्षरासार (summary of विज्ञाने- मुदलस्मृति (Palm-leaf Ms. No. 
+वसिष्ठधर्मसूत्र vide sec. 9; pr. in B. S. Series, Jivananda Sm. part II. pp. 456–496 and Ānan. Sm. pp. 187–231.
 
-श्वर's work) by मयाराम 
+C. by यज्ञस्वामिन् m. in [[गोविन्दस्वामिटिका|गोविन्दस्वामिटीका]] on बौधायनधर्मसूत्र.
 
-11950 Baroda O. I.) on मौनादि मिथिलेशाहिक by रत्नपाणिशर्मा, son of | 
+वसिष्ठसंहिता or महासंहिता in 45 अध्यायs on शान्ति, जप, होम, बलिदान, on certain astrological aspects of नक्षत्र, वार etc. (Ulwar Cat. extract 582).
 
-विधि, दाय, अशौच, प्रायश्चित्त. गंगोलीसञ्जीवेश्वरशर्मा, composed मुद्राविवरण. under prince छत्रासंह of मिथिला. 
+वसिष्ठस्मृति in ten अध्यायs and about 1100 verses. On the संस्कारs for वैष्णवब्राह्मणs, स्त्रीधर्म, विष्ण्वाराधन, श्राद्ध, आशौच, विष्णुमूर्तिप्रतिष्ठा (I. O. Cat. vol. III. p. 392 No. 1339). Baroda O. I. Ms. No. 1885 is dated śake 1564.
 
-मुनिमतमणिमाला by वामदेव. Speaks of the daily religious duties according to सामवेद such 
+वसिष्ठस्मृति or वासिष्ठी.
 
-मुसूर्युमृतकृत्यादिपद्धति by शङ्करशर्मन् as शौचविधि, दन्तधावन, स्नान, __Quotes शुद्धितत्व. N. (new series) सन्ध्याविधि, तर्पण, जपयज्ञ, देवपूजा, 
+C. वासिष्ठभाष्य by वेदमिश्र. राम is said to have asked वसिष्ठ why he was exiled. Deals with propitiatory rites for evil [[P1101]] aspects of planets, लक्षहोम, कोटिहोम. Says that it was based by वसिष्ठ on माध्यंदिनी शाखा. Vide D. C. Ms. No. 245 of 1879–80. Baroda O. I. 1412 is dated संवत् 1565 (1508–09 A. D.). The com. gives only the प्रतीकs of verses. It says that लक्षहोम was imparted to नारद and others by वसिष्ठ.
+वसिष्ठहोमपद्धति.
 
-___vol. III. p. 152. भोजन, मांसभक्षण, द्रव्यशुद्ध, गार्ह- मुहूर्तकण्ठाभरण. स्थ्य धर्म. N. vol. VI. pp. 30-32. He wrote also मिथिलेशचरित 
+वाक्यतत्त्व of सिद्धान्तपञ्चानन. On proper times for religious ceremonies. Part of द्वैततत्त्व.
 
-मुहूर्तकलीन्द्र by शीतलदीक्षितः describing महेशठक्कुर and his मुहूर्तकल्पद्रुम m. by महादेव in nine descendants, महेश having 
+वाक्यमीमांसा m. in नृसिंहप्रसाद.
 
-मुहूर्तदीपक (Earlier than 1650 got राज्य from Delhi king. N. 
+वाक्यरत्नावलि m. in कालसार of गदाधर.
 
-_A. D.). vol. VI. p. 48. 
+वाग्भटस्मृतिसंग्रह m. by अपरार्क.
 
-मुहूर्तकल्पद्रुम by केशव. 
+वाग्वतीतीर्थयात्राप्रकाश by गौरीदत्त, son of रामभद्र.
 
-मीमांसापल्बल by इन्द्रपति, son of 
+वातव्याधिकर्मप्रकाश.
 
-मुहूर्तकल्पद्रुम by विठ्ठलदीक्षित, son of रुचिपति and रुक्मिणी; applies 
+वादभयङ्कर– a work by a follower of विज्ञानेश्वर, according to वीरमित्रोदय. Mentioned by कल्पतरु. Between 1080–1125 A. D.
 
-बूबशर्मन् of कृष्णात्रिगोत्र; com 
+वाधूलवृत्तिरहस्य or वाधूलगृह्यागमवृत्तिरहस्य by सङ्गमग्रामवासिमिश्र. Deals with ऋणत्रयापाकरण, ब्रह्मचर्य, संस्कार, आह्निक, श्राद्ध, स्त्रीधर्म.
 
-posed in 1628 A D. rules of मीमांसा to धर्मशास्त्र mat- | 
+वापीकूपतडागादिपद्धति.
 
-C. मञ्जरी by author. ters such as एकादशीव्रत, श्राद्ध, उत्सर्ग. N. vol. V. pp. 281-82. | मुहूर्तकल्पाकर by दुःखभञ्जन. 
+वाप्युत्सर्ग.
 
-His teacher was गोपालभट्टः मुहूर्तगणपति by गणपतिरावल, son of 
+वामनकारिका–a large work in verse; follows खादिरगृह्य mainly.
 
-___ हरिशङ्कर, composed in 1685 A.D. मुक्तिक्षेत्रप्रकाश by भास्कर, son of 
+वामनपद्धति m. in श्राद्धसौख्य (टोडरानन्द).
 
-___C. by परमसुख, son of सीताराम. आपाजिभट्ट; divided into प्रकाश 
+वारव्रतनिर्णय.
 
-C. by परशुराममिश्र on seven holy places अयोध्या, मथुरा, माया &c. (Baroda O. 
+वाराणसीदर्पण by सुन्दर, son of राघव.
 
-मुहूर्तचक्रावलि. I. 12386). He quctes vedic | मुहूर्तचन्द्रकला by हरजीभट्ट. About passages like सितासिते सरिते (for ____1610 A. D. प्रयाग), भष्टचक्रा नवद्वारा देवानां 
+वाराहगृह्य– pr. in G. O. Series in 21 खण्डs on संस्कारs from जातकर्म, नामकरण to पुंसवन and on वैश्वदेव and पाकयज्ञ.
 
-मुहूर्तचिन्तामणि by रामदैवज्ञ, son of पूरयोध्या (तैत्तिरीयारण्यक), वागक्षरं 
+वार्तिकसार by यतीश, son of टेकचन्द्र; composed in 1785 A. D.
 
-अनन्त and younger brother of प्रथमजा (ते. ब्रा) for अवन्तिका and 
+वार्षिककृत्यनिर्णय.
 
-नीलकण्ठ, composed at Benares गोपालतापिनी, नृसिंहपूर्वतापनीय and 
+वासकर्मप्रकाश.
 
-in 1600-01 A. D.; m. in संस्कार रामतापनीय for मथुरा, माया and 
+वासन्तीविवेक by शूलपाणि. Sec. 98.
 
-मयूख of सिद्धेश्वर; Fr. at Bombay काशी respectively. 
+वासिष्ठलघुकारिका.
 
-in 1902; (vide Ulwar Cat. मुक्तिचिन्तामणि by गजपति पुरुषोत्तम extract 543 which shows that 
+वासिष्ठीशान्ति by महानन्द, son of विश्वनाथ (he rather revised or restored it). Vide Bik. Cat. p. 490 (खलैर्या दूषिता शान्तिर्वासिष्ठी सा प्रशोधिता).
 
-देव. On religious duties on a नीलकण्ठ was a Pandit in Ak pilgrimage to जगनाथपुरी. About bar's court). His ancestors came 1500 A. D. 
+वासुदेवी or प्रयोगरत्नमाला; pr. in Bombay 1884. Quotes हेमाद्रि, कृत्यरत्नाकर, त्रिविक्रम, रूपनारायण, नि. सि. So later than 1620 A. D. Speaks of मूर्तिनिर्माणप्रकार, मण्डपप्रकार, विष्णुप्रतिष्ठा, जलाधिवास, शान्तिहोमप्रयोग, नूतनपिण्डिकास्थापन, जीर्णपिण्डिकायां देवस्थापनप्रयोग.
 
-from विदर्भ 
+वास्तुचन्द्रिका by करुणाशङ्कर.
 
-1088 
+वास्तुचन्द्रिका by कृपाराम.
 
+वास्तुतत्त्व by गणपतिशिष्य; pr. at Lahore (1853).
 
+वास्तुपद्धति or वास्तूद्यापन (Baroda O. I. No. 1672).
 
-: 
+वास्तुपूजनपद्धति by परमाचार्य.
 
-. 
+वास्तुपूजनपद्धति by याज्ञिकदेव.
 
-C. प्रमिताक्षरा by author; pr. at | मुहर्नदीपक by नागदेव. 
+वास्तुप्रदीप by वासुदेव m. in नि. सि.
 
-Benares 1848. 
+वास्तुयागतत्त्व by रघुनन्दन. Sec. 107.
 
-मुहर्तदीपक by महादेव, son of काहजि C. कामधेनु. 
+[[P1102]] वास्तुरत्नावलि by जीवनाथदैवज्ञ, pr. at Benares, 1883 and Calcutta, 1885.
 
-(कान्ह जित् ). Vide Aufrecht's C. by नीलकण्ठ. 
+वास्तुशान्ति by रामकृष्ण, son of नारायणभट्ट. According to आश्वलायनगृह्य; m. in शान्तिरत्न of कमलाकरभट्ट.
 
-Oxf. Cat. p. 336a. C. पीयूषकर्णिका. 
+वास्तुशान्तिप्रयोग– शाकलोक्त.
 
-C. by author composed in sake C. पीयूषधारा by गोविन्द, son of 1583 (1661 A. D.). Mentions 
+वास्तुशान्तिप्रयोग– extracted from शान्तिसार of दिनकर.
 
-नीलकण्ठ, composed in 1603 टोडरानन्द. A. D. Pr. at Bombay in 
+वास्तुशास्त्र by मय; m. in नि. सि.
 
-मुहूर्तदीपक hy रामसेवक, son of 1873. गोविन्द was nephew 
+वास्तुशिरोमणि by शङ्कर at the bidding of स्यामसाह, son of माननरेन्द्र. Ulwar Cat. extract 576.
 
-देवीदत्त. by author. 
+वास्तुसर्वस्वसंग्रह pr. at Bangalore, 1884.
 
-मुहूर्तदीपिका m. in कालविधान acc. CC. by रघुदैवज्ञ. 
+विचारनिर्णय by गोपालन्यायपञ्चाननभट्टाचार्य.
 
-___ to नि. सि. C. षट्साहस्री. 
+विजयदशमीनिर्णय.
 
-मुहूर्तदीपिका attributed to बादरायण. मुहूर्तचिन्तामणि by वेङ्कटेशभट्ट मुहूर्तनिर्णय. मुहूर्तचिन्तामणिसार. 
+विजयदशमीपद्धति (Ulwar Cat. No. 1444 and extract 344).
 
-मुहूर्तपदवी. मुहूर्तचिन्तामणिसारिणी. 
+विजयविलास by रामकृष्ण on शौच, स्नान, सन्ध्या, ब्रह्मयज्ञ, तिथिनिर्णय. Relies upon भाष्यs of कर्क, हरिहर, and गदाधर.
 
-मुहूर्तपरीक्षा by देवराज. मुहूर्तचूडामणि by शिवदैवज्ञ, son of | मुहूर्तभूषण or -मञ्जीर by रामसेवक 
+विज्ञानमार्कण्ड m. in नृसिंहप्रसाद.
 
-श्रीकृष्णदैवज्ञ of भारद्वाजगोत्र. 
+विज्ञानललिन m. by हेमाद्रि (दानखण्ड p. 109), in दानसार (part of नृसिंहप्रसाद).
 
-त्रिवेदिन (N.vol. XI preface p. 4). मुहूर्ततत्त्व by केशव दैवज्ञ, son of | 
+विठ्ठलीय m. in श्राद्धसंग्रह of रामकृष्ण.
 
-| मुहूर्तभूषणटीका by रामदत्त. कमलाकर; m. in संस्कारकौस्तुभ. 
+विदुरनीति– (from the उद्योगपर्व of महाभारत chapters 33–40 of the Bombay edition); pr. at Gujarati Press, Bombay.
 
-मुहुर्तभैरव by गङ्गाधर; son of भैरव C. by author. 
+विद्याकरपद्धति m. in नित्याचारप्रदीप pp. 566, 571.
 
-दैवज्ञ. 
+विद्याधरीविलास m. in ज्योतिस्तत्त्व by रघु०.
 
-मुहूर्तभैरव by दीनदयालु पाठक C. by कृपाराम. 
+विद्यारण्यसंग्रह– vide स्मृतिसंग्रह.
 
-मुहूर्तमञ्जरी by यदुनन्दनपण्डित in 4 C. by गणेशदैवज्ञ, son of केशव 
+विद्याविनोद m. in नि. सि. (may also be the name of an author).
 
-Tags and 101 versés. Vide दैवज्ञ; composed about 1540 
+विद्वन्मनोहरा– com. on पराशरस्मृति by नन्दपण्डित. Vide sec. 110.
 
-Ulwar Cat, extract No. 545; ___A. D. 
+विधवाधर्म.
 
-composed in संवत् 1726 (1670 C. by महादेव m. in मुहूर्तदीपक. A. D.). मुहूर्तदर्पण m. in मार्तण्डवल्लभा. मुहूर्तमञ्जरी by हरिनारायण. __C. दीपिका (Madras Govt. Mss. | मुहर्तमाषा. 
+विधवाविवाहखण्डन.
 
-Cat. Nos. 1870, 1874). मुहर्तदर्पण by लालमणि, son of जग 
+विधवाविवाहविचार by हरिमिश्र.
 
-मुहूर्तमणि by विश्वनाथ. दाम, son of गङ्गाराम of अलर्कपुर | मुक्त 
+विधानखण्ड m. in नि. सि.
 
-मुहूर्तमाधवीय ascribed to सायण or to the south of प्रयाग. Ulwar माधवाचार्य: Cat. extract 544. 
+विधानगुम्फ m. in विधानपारिजात of अनन्त.
 
-मुहूर्तमार्तण्ड by केशव. मुहूर्तदर्पण by विद्यामाधव. 
+विधानपारिजात of अनन्तभट्ट, son of नागदेव. Composed at Benares in 1625 A. D. He styles himself काण्वशाखाविदां प्रियः. In five स्तबकs on स्वस्तिवाचन, शान्तिकर्म, आह्निक, संस्कार, तीर्थ, दान, प्रकीर्णविधान, and funeral ceremonies, the third dealing with आह्निक, संस्कार and काल, the fifth with श्राद्ध, आशौच, व्यवहार and प्राय०. Mentions देवजानीय, दिवोदासीय, त्रिस्थलीसेतु (pr. B. I. Series).
 
-मुहर्तमार्तण्ड by नारायणभट्ट, son of C. by माधवभट्ट 
+विधानमाला or शुद्धार्थविधानमाला by नृसिंहभट्ट of आत्रिगोत्र. Resided on the वसुमती near चन्दनगिरि in वैराटदेश; m. in संस्कारकौस्तुभ and विधानपारिजात. Earlier than 1550 A. D. There are 240 प्रकरणs in the I. O. Ms. (Cat. p. 575 No. 1769) which was copied in संवत् 1732; pr. in Ānan. P. Series, 1920 (1765–66 A. D.). Baroda O. I. No. 10449 copied in संवत् 1622 (1565–66 A. D.).
 
-3779. Composed in śake 1493 
+[[P1103]] C. by विश्वनाथ, son of हरि.
 
-Phālguna (i. e. about March मुहूर्तदीप by जयानन्द. 
+विधानमाला by लल्ल.
 
-1572 A. D.) near Devagiri in Hedetu by a son of fatadat. 160 verses. 
+विधानमाला by विश्वकर्मन्.
 
-List of works on Dharmaśāstra 
+विधानरत्न by नारायणभट्ट.
 
-1089 
+विधानरहस्य m. in अहल्याकामधेनु.
 
-मुहूर्तसिद्धि. 
+विधानसारसंग्रह Ano. Vide Bik. Cat. p. 494.
 
-C. मार्तण्डवल्लभा by author: pr. मुहर्तसंग्रह m. in संस्कारमयूख of 
+विधिपुष्पमाला (पद्धति) m. in पितृभक्ति of श्रीदत्त. Earlier than 1300 A. D.
 
-( with text) in Bominay, सिद्धेश्वर and सं. कौ. Earlier than 1861. 
+विधिरत्न by गङ्गाधर.
 
-1650 A. D. मुहूर्तमाला by रघुनाथ, son of सरस C. by लक्ष्मीपति. 
+विधिरत्न m. in त्रिकाण्डमण्डन, हेमाद्रि, प्रयोगपारिजात.
 
-of theशाण्डिल्यगोत्र and चितपावन महतसंचय मराय. subcaste; pr, at Ratnagiri in 1878. 
+विनायकपूजा by रामकृष्ण, son of योगीश्वर, surnamed शौचे (शौच ?). Composed in 1702 A. D.
 
-मुहर्तसर्वस्व by रघुनाथाचार्य (?). Is 
+विनायकशान्तिपद्धति.
 
-it not the same as the next? मुहूर्तमुक्तामणि 
+C. by श्रीधराचार्य. Baroda O. I. No. 5491 dated संवत् 1607 (1550–51 A. D.).
 
-मुहर्त सर्वस्व by रघुवीर, son of विठ्ठल मुहूर्तमुक्तावली by काशीनाथ. 
+विबुधकण्ठभूषण com. on गृह्यरत्न by वेङ्कटनाथ.
 
-दीक्षित, son of बूब, at Benares ; मुहूर्तमुक्तावली by देवरामः 
+विभक्ताविभक्तनिर्णय.
 
-composed in śake 1557 i, e. मुहूर्तमुक्तावली by भास्कर. 
+विभागतत्त्व or -तत्त्वविचार by रामकृष्ण, son of नारायणभट्ट. Relies on मिताक्षरा. About 1575–1600 A. D. Deals with अप्रतिबन्ध and सप्रतिबन्धदायमुख्यगौणपुत्राः, विभागकाल, अपुत्रदायादक्रम, माता preferred to पिता as heir. The Bhadkamkar collection ms. comes up to only भ्रातरः ।
 
-1635-36 ( vide N. vol. I. p. मुहूर्तमुक्तावली by योगीन्द्र ( vide ___109). ___Ulwar Cat, extract 546 ). 
+विभागनिर्णय.
 
-महर्तसार ( vide Burnell's Tanjore मुहूर्तमुक्तावली by लक्ष्मीदास, son of | Cat. p. 79 a). 
+विभागसार of विद्यापति; composed under orders of दर्पनारायण, son of हरिसिंह, son of भवेश. On दायलक्षण, विभागस्वरूप, दायानर्ह, अविभाज्य, स्त्रीधन, द्वादशविधपुत्र, अपुत्रधनाधिकार, संसृष्टविभाग. N. vol. VI. p. 67.
 
-गोपाल, composed in 1618 A. D. 
+विभूतिधारण.
 
-मुहूर्तसार by भानुदत्त मुहूर्तमुक्तावली by श्रीकण्ठः मुहूर्तमुक्तावली by हरिभट्टः 
+विमलोदयमाला or विमलोदयजयन्तमाला – a com. on आश्वलायनगृह्यसूत्र.
 
-मुहूर्तसारिणी. 
+विरुद्धविधिविध्वंस by लक्ष्मीधर, son of मल्लदेव and श्रीदेवी and pupil of भगवद्बोधभारती. His gotra was काश्यप and his grandfather was वामन and grand-uncle स्कन्द and great-grandfather was सोढ, who was a minister of सोमेश्वर of शाकम्भरी (Sambhar). स्कन्द was commander-in-chief and वामन was सान्धिविग्रहिक of पृथ्वीराज, who was killed by तुरुष्कs. स्कन्द crowned हरिराज in शाकम्भरी and वामन went to अणहिल्लपाटक. The family originally came from आनन्दनगर. Work is divided into seven अधिकरणs; ms. (I. O. Cat. p. 489 No. 1577) is dated संवत् 1582 चैत्र (1526 A. D.). Deals with disputed points of sacred law, such as the persons entitled to offer श्राद्ध to the deceased शूद्रप्रायश्चित्त etc.
 
-मुहूर्तरचना by दुर्गासहाय. 
+विलक्षणजन्मप्रकाशिका.
 
-मुहूर्तसिद्धि by नागदेव. मुहूर्तरत्न by ईश्वरदास, son of | 
+विलाससंग्रहकारिका m. by कालसार of गदाधर.
 
-ज्योतिषराय ( also called महत | मुहूर्तसिद्धि by महादेव रत्नाकर ). 
+विवस्वत्स्मृति m. by स्मृतिचन्द्रिका, हेमाद्रि.
 
-मुहर्तसिन्धु by मधुसूदन मिश्र pr. at मुहूर्तरत्न by गोविन्द. 
+विवादकल्पतरु (a portion of the कल्पतरु of लक्ष्मीधर) vide sec. 78.
 
-_Lahore. मुहूर्तरत्न by रघुनाथ. 
+विवादकौमुदी by पीताम्बर सिद्धान्तवागीश composed in śake 1529 [[P1104]] (1604 A. D.). He was patronised by the Rājā of Assam.
 
-मुहूर्तस्कन्द by बृहस्पतिः मुहूर्तरत्न by शिरोमणिभट्टः 
+विवादचन्द्र by मिसरुमिश्र. Vide sec. 100.
 
-मुहूर्तामृत m. in ज्योतिस्तत्त्व by रघु०. मुहूर्तरत्नमाला by श्रीपति ; m. by रघु०. मुहूर्ताक by मृत्युञ्जय कोकिल. 
+विवादचन्द्रिका by अनन्तराम; quotes शूलपाणि and स्मार्तभट्टाचार्य. Later than 1600 A. D.
 
-C. by author. 
+विवादचन्द्रिका by रुद्रधर महामहोपाध्याय, pupil of चण्डेश्वर. In his श्राद्धचन्द्रिका quotes वर्धमान. On the 18 titles of law. About 1450 A. D.
 
-C. प्रभा by author. मुहूर्तरत्नाकर by हरिनन्दन. 
+विवादचिन्तामणि by वाचस्पतिमिश्र. Sec. 101; pr. at Bombay. English tr. by Dr. Ganganath Jha, pr. in G. O. Series.
 
-मुहर्तालङ्कार by गङ्गाधर, son of भैरव C. by author. 
+विवादताण्डव by कमलाकरभट्ट. Sec. 111.
 
-Composed in sake 1554 माघ 15 
+विवादनिर्णय by गोपाल.
 
-( 1633 A. D.). Vide Stein's मुहूर्तराज by विश्वदास. 
+विवादनिर्णय by श्रीकर.
 
-Cat. p. 343 for extract. मुहूर्तराजीय. 
+विवादभङ्गार्णव by जगन्नाथतर्कपञ्चानन. Colebrooke translated two out of the several principal topics of this work. Vide N. (new series) vol. I. preface pp. XIII–XIV.
 
-मुहूर्तालङ्कार by जयराम. मुहूर्तलक्षणपटल. मुहूर्तविधानसार m. in कालमाधव. 
+विवादरत्नाकर by चण्डेश्वर. Vide sec. 91.
 
-मूर्खहा-a treatise on सङ्कल्पवाक्यs, मुहूर्त विवरण. 
+विवादवारिधि by रमापतिउपाध्याय सन्मिश्र, on the 18 titles of law.
 
-नान्दीश्राद्ध, तिथिव्यवस्था, एकोद्दिष्ट मुहूर्तवृत्तशत. 
+विवादव्यवहार by गोपालसिद्धान्तवागीश.
 
-कालव्यवस्था, श्राद्धव्यवस्था, गोव मुहूर्तशिरोमणि by धर्मेश्वर, son of धादिप्रायश्चित्त, व्यवहारदायादि 
+विवादसार of कुल्लूक, m. in his श्राद्धसागर. Vide sec. 89.
 
-रामचन्द्र 
+विवादसारार्णव compiled by सर्वोरुशर्मा त्रिवेदी at the instance of Sir William Jones in 1789 in nine तरङ्गs. The colophon has the rather picturesque words ‘सर्विल्यं मिस्तरश्रीजोन्समहीपा[[ज्ञप्त|ज्ञप्त’]] etc. (Cat. of Madras Govt. Mss. vol. VI. p. 2407, No. 3203).
 
-व्यवस्था, विवाहनक्षत्रादि. Vide H. D.-137 
+विवादसिन्धु.
 
-मुहूर्तावलि. 
+विवादार्णवभञ्जन or -भङ्ग compiled by गौरीकान्त and several other Pandits. (D. C. Ms. No. 364 of 1875–76, N. vol. IX p. 244 No 3165).
 
-1090 
+विवादार्णवसेतु compiled in 1773 for Warren Hastings by बाणेश्वर and several other Pandits and translated into English by Halhed (which translation was published in 1774 A. D.). Divided into 21 ऊर्मिs (waves, sections) on ऋणादान and the other titles of law (व्यवहारपदs). Pr. by the Venk. Press, Bombay. This edition shows that the work was composed at the court of Ranjit Singh of Lahore. Towards the end the names of the Pandits who compiled it are given. Vide N. vol. X. pp. 115–116 and N. (new series) I. pp. 339–341 where the verses about the names of the collaborating Pandits are given, but the reference to Ranjit Singh does not occur.
 
+विवादार्थसंग्रह.
 
+विवाहकर्म by अग्निहोत्रि विष्णु of मथुरा.
 
-N. vol. II p. 49 and N. ( new C. by गोपालजी. series ) vol. II pp. 146-7. C. by विठ्ठल, son of बालकृष्ण, मूर्तिप्रतिष्ठा- N. ( new series) I. p. surnamed वैष्णव and resi 
+विवाहकर्मपद्धति Vide विवाहपद्धति.
 
-293. 
+विवाहकर्ममन्त्रव्याख्या सुबोधिनी (Ulwar Cat. No. 1452 and extract). Relies on हरिहर.
 
-dent of श्रीपुर. Mentions 
+[[P1105]] विवाहकर्मसमुच्चय Ms. copied in 1113 A. D. (Hp. Cat. p. XI).
 
-नीलकण्ठ and his son. Later मूर्तिप्रतिष्ठापन. 
+विवाहकौमुदी C. P. Cat. No. 5140–41.
 
-than 1670A. D. मलनक्षत्रशान्ति ( rites for averting | मनिकास्नान. 
+विवाहचतुर्थीकर्म.
 
-the evil effects of birth on a 
+विवाहतत्त्व or उद्वाहतत्त्व by रघुनन्दन. Sec. 107.
 
-| मृत्युञ्जयस्मृति m. in हेमाद्रि दानखण्ड day when the mooi, is in the 
+C. by काशीराम.
 
-pp. 764-65, 784 and in दान Mila constellation ). 
+विवाहतत्त्वार्णव m. in उद्वाहतत्त्व (vol. II. p. 117) of रघु०.
 
-मयूख. मूलनक्षत्रशान्तिप्रयोग attributed to | मृत्युमहिषीदानविधि ( gift of a she 
+विवाहद्विरागमनपद्धति.
 
-शौनक. 
+विवाहनिरूपण by नन्दभट्ट.
 
-buffalo at the time of death of 
+विवाहनिरूपण by वैद्यनाथ.
 
-a person ). मूलभट्टप्रयोग by मूलभट्ट. 
+विवाहपटल m. in ज्योतिस्तत्त्व of रघु० Probably an astrological work of वराहमिहिर or of साधर.
 
-मैत्रायणगृह्यपद्धति ( on 16 संस्कार मूलशान्ति attributed to शौनक. 
+विवाहपटल by सारङ्गपाणि (शार्ङ्गपाणि ?) son of मुकुन्द.
 
-according to मैत्रायण school). मूलशान्तिनिर्णय Vide Stein's Cat. ___ The chap. called प्रथमपुरुष 
+विवाहपटल by हरिदेवसूरि.
 
-p. 99. 
+विवाहपटलस्तबक by सोमसुन्दरशिष्य. Baroda O. I. No. 133.
 
-| मैत्रायणीयगृह्यपदार्थानुक्रमः मूलशान्तिविधान. 
+विवाहपद्धति or विवाहादिपद्धति गोभिलीय.
 
-| मैत्रायणीय गृह्यपरिशिष्ट m. by हलायुध, 
+विवाहपद्धति by गौरीशङ्कर.
 
-हेमाद्रि, म. पा. मूलशान्तिविधि by मधुसूदन गोस्वामी. 
+विवाहपद्धति by चतुर्भुज.
 
-| मैत्रायणीयौलदेहिकपद्धति-Vide क्रिया मूलादिशान्ति. 
+विवाहपद्धति by जगन्नाथ.
 
-पद्धनि. मूल्यनिरूपण of गोपाल (C. P. Cat. मोक्षकल्पतरु ( a part of कृत्यकल्पतरु 
+विवाहपद्धति by नरहरि.
 
-No. 43:1). 
+विवाहपद्धति by नारायणभट्ट.
 
-or कल्पतरु ) by लक्ष्मीधर. Sec.78. मूल्यसंग्रह or मूल्याध्याय by बापुभट्ट, मोक्षेश्वरनिबन्ध m. by गदाधर in com. contains summary of fines ordai- on पारस्करगृह्यपरिशिष्ट. This is ned in lieu of various gifts at probably the same as the प्रश्न various ceremonial sites, when ज्ञानदोषपृच्छाप्रकरण of ब्रह्मार्क, one is unable to give the gifts. son of मोक्षेश्वर ( Bik. Cat. pp. 
+विवाहपद्धति by रामचन्द्र.
 
-Names गोपालभाष्य. JMs. dated 325-325). take 1756 ( N. vol. X. p. 238). | मोहचूडोत्तर of मोहचल्लोत्तर : m. in मूल्याध्याय ( in 5 1/2 verses ) 
+विवाहपद्धति or विवाहादिकर्मपद्धति by रामदत्त राजपण्डित, son of गणेश्वर, son of देवादित्य. He was paternal first cousin of चण्डेश्वर and so flourished about 1310–1360 A. D. On आभ्युदयिकश्राद्ध, विवाह, चतुर्थीकर्म, पुंसवन and the other संस्कारs up to समावर्तन. He wrote for वाजसनेय students.
 
-हेमाद्रि ( III. 2. 883 as मोह attributed to कात्यायन. Deals 
+विवाहपद्धति from the अनूपविलास.
 
-चौरोत्तर), नि.सि. with substitutiou of money for 
+विवाहपद्धतिव्याख्या by गूदडमल्ल.
 
-यजुर्वल्लभा or कर्मसरणि by विठ्ठल gifts of cows and viber 
+विवाहप्रकरण– from the लघुकारिका of कर्क.
 
-दीक्षित or विठ्ठलेश, son of वल्लभा property. Vide BBRAS. Cat. 
+विवाहरत्न by हरिभट्ट. An elaborate treatise on marriage in 122 chapters.
 
-चार्य and younger brother of vol. II p. 171 for text. 
+विवाहरत्नसंक्षेप by क्षेमंकर.
 
-गोपीनाथ, in 3 काण्डs on आद्धिक, 
+विवाहवृन्दावन by केशवाचार्य, son of राणिग or रागण, in 17 chapters on auspicious times for marriage. One ms. is dated śake 1326 i. e. 1398–99 A. D. (BBRAS. Cat. part I. p. 109 No. 322); m. in मुहूर्तदीपक of महादेव, in टोडरानन्द.
 
-संस्कार, आवसथ्याधान : consecra C. by कामदेवदीक्षित. N. ( new 
+C. दीपिका by गणेशदैवज्ञ, son of केशव, in śake 1476 i. e. 1554–55 A. D. (BBRAS. Cat. part I. p 110 No. 334.). See Bhandarkar's Report for 1883–84 pp. 372–373, where we read that गणेश first composed ग्रहलाघव, then श्राद्धविधि, then a com. on लीलावती, a com. on मुहूर्ततत्त्व.
 
-__tion of गृह्य fire) according to series ) vol. III preface यजुर्वेद. Vide Ulwar Cat. No. p. iv. 
+C. by कल्याणवर्मन्.
 
-1280. 
+विवाहसौख्य by नीलकण्ठ (seems to be a portion of टोडरानन्द).
 
+विवाहाग्निनष्टिप्रायश्चित्त.
 
+विवाहादिकर्मानुष्ठानपद्धति by भवदेव.
 
-List of works on Dharmaśāstra 
+विवाहादिप्रयोगतत्त्व ascribed to रघुनन्दन (N. vol. XI preface p 14).
 
-1091 
+विवाह्यकन्यास्वरूपनिर्णय by अनन्तरामशास्त्रिन्.
 
-above). 
+[[P1106]] विविधविद्याविचारचतुरा of भोज on propitiation of angry deities and consecration of tanks and wells &c. Ms. (Hp. Cat. pp. XIII and 65) dated ल. सं. 372 i. e. 1490–91. This is different from धारेश्वरभोज.
 
-यजुर्विवाहपद्धति. 
+विवेककौमुदी by रामकृष्ण. Discussion about wearing the शिखा and यज्ञोपवीत, विधि, नियम, परिसंख्या, स्नान, तिलकधारण, तर्पण, शिवपूजा, त्रिपुण्ड्र, प्रतिष्ठोत्सर्गभेद. N. vol X. pp. 105–107.
 
-यतिधर्मसंग्रह by विश्वेश्वरसरस्वती, यजर्वेदिवषोत्सर्गतत्त्व of रघ०. Videl pupil of सर्वज्ञ विश्वेश (pr. by 
+विवेकदीप by दामोदर. Treats of महादानs; compiled under auspices of संग्रामसाह; Ms. (I. O. Cat. p. 551 No. 1617) copied in संवत् 1638 (1582 A. D.).
 
-sec. 107. 
+विवेकमञ्जरी.
 
-मानन्दाश्रम, Poona ). यजुर्वेदिश्राद्धतत्त्व of रघु०. Vide sec. | यतिधर्मसमुच्चय by यादवप्रकाश in II 
+विवेकसारवर्णन.
 
-107. 
+विवेकार्णव by श्रीनाथ m. in his कृत्यतत्त्वार्णव. 1475–1525 A. D.
 
-parvans for वैष्णवs. यजुर्वेदीयश्राद्धविधि of ढोण्द. Vide यतिधर्मसमुच्चय by रघुनाथभट्टाचार्य. 
+विशुद्धिदर्पण by रघुनन्दन. On आशौच of two kinds, जननाशौच and शावाशौच.
 
-under श्राद्धविधि. 
+विश्वदीप m. in आचारार्क.
 
-यतिधर्मसमुच्चय by विश्वेश्वरसरस्वती, यजुःशाखाभेदतत्त्वनिर्णय by पाण्डुरङ्ग | 
+विश्वदेवदीक्षितीय.
 
-___ pupil of सर्वज्ञ विश्वेश; ms. ( N. टकले ( Baroda O. I. 374). His vol. VIII. p. 293 ) dated संवत् सिद्धान्त is that wherever the 
+विश्वनाथभट्टी (C. P. Cat. No. [[5197|5197).]]
 
-1668 ( 1611-12 A. D.). Also word यजुर्वेद occurs by itself called यतिधर्मसंग्रह ( same as तैत्तिरीयशाखा is to be understood and not शुक्लयजु०. 
+विश्वप्रकाश D. C. Ms. No. 144 of 1884–86. For वाजसनेय followers on daily duties like सन्ध्यावन्दन, कृष्णजन्माष्टमीनिर्णय, ग्रहणनिर्णय, and श्राद्ध.
 
-यतिनित्यपद्धति by आनन्दानन्द यज्ञपार्श्वसंग्रहकारिका m. in गदाधर 
+विश्वप्रकाशिकापद्धति of विश्वनाथ of the पराशरगोत्र, son of पुरुषोत्तम, son of त्रिविक्रम, son of नारायणाचार्य. On various ceremonies and expiations based on आपस्तम्ब. Composed in 1544 A. D. Vide N. vol. X. pp. 233–235.
 
-( Baroda 0. I. 5017 ). भाष्य on पारस्कर. 
+विश्वम्भरशास्त्र m. in शूद्रकमलाकर.
 
-यतिपत्नीधर्मनिरूपण by पुरुषोत्तमानन्द यज्ञसिद्धान्तविग्रह by रामसेवक. 
+विश्वरूपनिबन्ध m. in कृत्यचिन्तामणि, नि. सि. Vide pp. 564–65 above. Bik. Cat. p. 497 No. 1967 is विश्वरूपनिबन्ध which deals with सपिण्ड relationship in marriage, particularly about the girl being beyond the fifth and the seventh from the mother and father respectively.
 
-__ सरस्वती, pupil of पूर्णानन्द. यज्ञ सिद्धान्तसंग्रह by रामप्रसाद. यज्ञोपवीतनिर्णय 
+विश्वरूपसमुच्चय m. in उद्वाहतत्त्व by रघु० (vol. II p. 116).
 
-यतिलिङ्गसमर्थन in 3 स्कन्धs. यज्ञोपवीतपद्धति by रामदत्त, son of | यतिवन्दननिषध. 
+विश्वादर्श by कविकान्तसरस्वती, son of आचार्यादित्य, who styles himself गीतार्थप्रवीण. Author was devotee of विश्वेश्वर in Benares. Divided into 4 काण्डs on आचार, व्यवहार, प्रायश्चित्त and ज्ञान. 1st काण्ड has 42 स्रग्धरा verses and one अनुष्टुभ् on daily religious duties such as शौच, दन्तधावन, कुशविधि, स्नान, सन्ध्या, होम, देवतार्चन, दान; 2nd काण्ड (on व्यवहार) has 44 verses in various metres (मालिनी, अनुष्टुभ्, मन्दाक्रान्ता, &c); 3rd (प्रायश्चित्त) has 53 verses (all स्रग्धरा except last which is मालिनी) 4th ज्ञानकाण्ड has 53 verses in शार्दूलविक्रीडित, शिखरिणी, अनुष्टुभ्, and other metres on वानप्रस्थ, संन्यास, त्वंपदार्थ, काशीमाहात्म्य. Author's patron seems to have been धन्य or धन्यराज, son of नागार्जुन, at [[P1107]] काशी. Refers to मुञ्ज, धारेश्वर, मेधातिथि and विज्ञानेश्वर. M. by हेमाद्रि (III. 2. p. 102, which occurs in com. on विश्वादर्श III. 37) and by स्मृतिचन्द्रिका (आशौच, Mysore ed. p. 164 ‘पतिव्रता त्वन्यदिनेनुगच्छेद्या स्त्री पतिं चित्यधिरोहणेन। दशाहतो भर्तुरघस्य शुद्धिः श्राद्धद्वयं स्यात्पृथगेककाले [[॥|॥’]]). Later than 1100 A. D. and earlier than 1300 A. D. (This information is based on two mss. in the Bhadkamkar collection).
 
-गणेश्वर ( for वाजसनेयिशाखा). । यतिवन्दनशतदूषणी. यतिक्षौरविधि by मधुसूदनानन्द | यतिवन्दनसमर्थन. 
+C. by author (Vide BBRAS. Cat. part 2 pp. 229–231 for fuller details).
+विश्वामित्रकल्प – on the daily ceremonies performed by ब्राह्मणs.
 
-( Baroda O. I. 5015). 
+विश्वामित्रकल्पतरु.
 
-यतिवल्लभा or संन्यासपद्धति of विश्व यतिखननादिप्रयोग by श्रीशैलबेदकोटीर 
+विश्वामित्रसंहिता by श्रीधर.
 
-कर्मन् . On संन्यास, the four kinds लक्ष्मण ; mentions यतिधर्मसमुच्चय. of यतिs, viz. कुटीचक, वहूदक, हंस, यतिधर्म by पुरुषोत्तमानन्दसरस्वती, परमहंस and their duties. N. vol. 
+विश्वामित्रस्मृति– vide Sec. 52 p. 529.
 
-pupil of पूर्णानन्द. 
+विश्वेश्वरनिबन्ध m. in संस्कारमयूख. Probably the मदनपारिजात or सुबोधिनीटीका of विश्वेश्वर.
 
-X. 175. Mentions विधानमाला. यतिधर्म Ano. 
+विश्वेश्वरपद्धति by विश्वेश्वर on संन्यास; m. in संस्कारमयूख.
 
-यतिसंस्कार ( a part of प्रतापनारसिंह). यतिधर्मप्रकाश by वासुदेवाश्रम यतिसंस्कार ( on the funeral rites 
+विश्वेश्वरस्मृति (Hultzsch R. I. No. 69).
 
-( Baroda O. I. 12289 ). 
+विश्वेश्वरस्मृतिभास्कर (Hultzsch R. I. No 144).
 
-and stras for ufā performed by यतिधर्मप्रकाश by विश्वेश्वर. Same as | his son ). N. vol. X. p. 10. 
+[[विश्वेश्वरीपयद्धति|विश्वेश्वरीपद्धति]] (or यतिधर्मसंग्रह) by अच्युताश्रम, pupil of चिदानन्दाश्रम. Mentions ज्ञानार्णव.
 
-संग्रह below. 
+विश्वेश्वरीस्मृति by अच्युताश्रम.
 
-| यतिसंस्कारप्रयोग by रायम्भट्ट. यतिधर्मप्रबोधिनी by नीलकण्ठयतीन्द्र 
+विषघटिकाजननशान्ति or विषनाडीजननशान्ति (from वृद्धगार्ग्यसंहिता) on rites for averting evil consequences of being born at one of the four periods called विषघटिका.
 
-| यतिसंस्कारप्रयोग by विश्वेश्वर. N. vol. यतिधर्मसंग्रह Ano. ( N. vol. IX. p. 
+विष्णुतत्त्वप्रकाश by वनमालिन्. Digest of स्मार्त rites for माध्व followers.
 
-____Ip. 173. 278). First speaks of आचार्यपर म्परा from शङ्कराचार्य, of मठाम्नाय | यतिसंस्कारविधि (two different and then of यतिधर्मः | works ). Vide Stein's Cat. p. 99. 
+विष्णुतत्त्वविनिर्णय by आनन्दतीर्थ.
 
-1092 
+विष्णुतीर्थीयव्याख्यान by सुरोत्तमाचार्य.
 
+विष्णुधर्ममीमांसा by नृसिंहभट्ट, son of सोमभट्ट. Ulwar Cat. 1457.
 
+विष्णुधर्मसूत्र. Vide sec. 10. Pr. Jivananda Sm. part I. pp. 60–176.
 
-यत्यनुष्ठान. 
+C. वैजयन्ती by नन्दपण्डित. Vide sec. 110.
 
-174). 
+विष्णुधर्मामृत m. in जटमल्लविलास.
 
-यतिसंस्कारविधिनिर्णय (I. O. Cat. C. by अपरार्क; Vide see. 80. 
+विष्णुधर्मोत्तरामृत m. in कालविवेक of जीमूतवाहन.
 
-p. 523 No. 1647). 
+विष्णुपूजाक्रमदीपिका by शिवशङ्कर.
 
-C. by कुलमणि शुक्ल. यतिसंस्कारोपयोगिनिर्णय. 
+C. by सदानन्द.
 
-C. by देवबोध m. in शुद्धितत्त्व of यतिसन्ध्यावार्तिक by सुरेश्वर, Pupil of | 
+विष्णुपूजापद्धति.
 
-रघु०. शङ्कर. N. vol. X. p. 9. 
+विष्णुपूजाविधि by शुकदेव (Baroda O. I. No. 5487 said to be author's copy is dated संवत् 1692 i. e. 1635–36 A. D.)
 
-C by धर्मेश्वर m. in शूलपाणि 
+विष्णुप्रतिष्ठापद्धति.
 
-प्रायश्चित्तविवेक (p. 529 ). यतिसिद्धान्तनिर्णय by सच्चिदानन्द 
+विष्णुप्रतिष्ठाविधिदर्पण of नरसिंहसोमयाजी, son of माधवाचार्य.
 
-C. बालक्रीडा by विश्वरूप. Vide सरस्वती. 
+विष्णुभक्तिचन्द्र m. in निर्णयदीपक.
 
-sec. 61. 
+विष्णुभक्तिचन्द्रोदय by नृसिंहारण्य or नृसिंहाचार्य in 19 kalās; m. by पुरुषोत्तम in द्रव्यशुद्धिदीपिका. Deals with principal वैष्णव fasts, festivals and ceremonies; Ms. dated संवत् 1496 (1440 A. D.). Bhandarkar's Report 1883–84, p. 76.
 
-CC विभावना. यत्यनुष्ठानपद्धति by शङ्करानन्द. 
+[[P1108]] विष्णुभक्तिरहस्य m. by रामानन्द.
 
-CC. अमृतस्यन्दिनी of सोमया यत्यन्तकर्मपद्वति by रघुनाथ. 
+विष्णुमूर्तिप्रतिष्ठाविधि by कृष्णदेव, son of रामाचार्य (part of a larger work called वैष्णवधर्मानुष्ठानपद्धति or नृसिंहपरिचर्यापद्धति). Ms. copied in संवत् 1675.
 
-जिन्. यत्याचारसंग्रहीययतिसंस्कारप्रयोग by CC. वचनमाला by pupil's pu. 
+विष्णुयागपद्धति by अनन्तदेव, son of आपदेव. Sec. 114. Deals with rites in honour of Viṣṇu to be performed by one who desires a son. Ulwar Cat. No 1458: Baroda [[I. O.|O. I.]] 2264 dated संवत् 1604 which seems to be śake.
 
-विश्वेश्वरसरस्वती ( N. vel. I. p. 
+विष्णुरहस्य m. by अपरार्क, दानसागर, कालविवेक of जीमूत०.
 
-pil of सोमयाजिन्. 
+विष्णुश्राद्ध (part of नारायणबलि in गोभिलगृह्य).
 
-CC. ano. यत्याचारसप्तर्षिपूजा. 
+विष्णुश्राद्धपद्धति alias वीरपूजापद्धति.
 
-C. मिताक्षरा by मथुरानाथ. यत्याराधनप्रयोग. 
+विष्णुश्राद्धपद्धति by नारायण, son of रामेश्वर (Baroda O. I. 8171).
 
-C. मिताक्षरा by विज्ञानेश्वर. Vide यत्याहिक ( Baroda O. I. 8563). 
+विष्णुसमुच्चय m. in अपरार्क, मद. पा. (p. 291).
 
-sec. 71. For com. on मिता 
+विष्णुस्मृति– Vide विष्णुधर्मसूत्र above.
 
-क्षरा, vide under मिताक्षरा यमस्मृति. Vide sec. 50; pr. Jiva 
+वीरनारसिंहावलोकन Vide वीरसिंहावलोकन.
 
-above. __nanda Sm. part I pp. 560-567 | 
+वीरमित्रोदय, com. on याज्ञवल्क्यस्मृति by मित्रमिश्र (4 parts on आचार pr. in Chowkhamba S. Series). Vide sec. 113.
 
-and Anan. Sm. pp. 112-116. 
+वीरमित्रोदय by मित्रमिश्र. A digest divided into प्रकाशs on व्यवहार (pr. by Jivananda), परिभाषा, आह्निक, तीर्थ, पूजा, राजनीति, लक्षण, शुद्धि, समय (the [[frist|first]] six pr. in Ch. S. Series). Vide sec. 113.
 
-C. by रघुनाथभट्ट 
+वीरशैवधर्मनिर्णय.
 
-C. दीपकालिका of शूलपाणि- Vide यल्लाजीय by यल्ला जि, son of यल्लभट्ट. _sec. 98. 
+वीरसिंहमित्रोदय (संस्कारप्रकरण) by रामज्योतिर्विद्.
 
-On funeral rites, सपिण्डीकरण 
+वीरसिंहावलोकन or -विलोकन by king वीरसिंह, son of देववर्मन्, son of कमलसिंह of तोमरवंश. On expiations for lapses committed in this life; composed in संवत् 1439 (1383 A.D.). Stein's Cat. p. 189. D. C. Ms. No. 85 of 1869–70 is dated संवत् 1572. It says that the work (which is over 400 folios) is a compendium of आयुर्वेद, ज्योतिःशास्त्र and धर्मशास्त्र. It borrows from गर्ग, गौतम, शालिहोत्र, मनु, व्यास, पुराण. The work is also styled सूर्यारुण.
 
-C. वीरमित्रोदय by मित्र मिश्र. Sec. etc. Relies on आश्वलायनसूत्र, 
+वृक्षोद्यापन.
 
-___113. ( portion printed in भारद्वाजसूत्र, भाग्यs thereon and 
+वृत्तरत्नप्रदीपिका by वात्स्यवेदान्तदास on proper time for breaking fast on द्वादशी.
 
-Ch. S. series ). on शौनक. 
+वृत्तशतसंग्रह or वृत्तशतक by महेश्वर, son of मनोरथ and father of भास्कराचार्य; m. in नि. सि., गोविन्दार्णव. An astrological work. About 1100–1150 A. D. In 11 प्रकरणs on यागविधि, नक्षत्रविधि, संस्कार, विवाह, अग्न्याधान, भूपविधि, भूपाभिषेक, यात्रा, गोचरविधि, संक्रान्ति, देवप्रतिष्ठा. Baroda O. I. No. 8173.
 
-याज्ञिककमलाकरी (C. P. Cat. No. यशवन्तभास्कर by भास्कर or हरि- 4414) 
+वृद्धगौतमसंहिता pr. in Jivananda Sm. part II pp. 497–638.
 
-भास्कर, son of आपाजिभट्ट, son of | हरिभट्ट, son of पुरुषोत्तम; patron- | यात्राप्रयोगतत्त्व by हरिशङ्कर. ised by यशवन्तदेव, son of इन्द्र | यात्राविवाहाद्युपाय (auspicious times मणि, king of Bundelkhand, Bik. | for marriage, journey &c. ) N. Cat. p. 508 containing मंवत्सर। ( new series) vol. II. p. 149. कृत्यप्रकाश out of this work. N. 
+वृद्धपाराशरीसंहिता (in 12 chapters.) Vide [[बृहत्पराशरसंहिता|बृहत्पाराशरसंहिता]] pp. 465–66 above.
 
-युक्तिकल्पतरु of भोजदेव. Deals with vol. IV p. 269 has same. हरिभट्ट 
+वृद्धशातातपस्मृति– pr in Ānan. Sm. pp. 232–235.
 
-state administration and topics hailed from ग्यम्बकेश्वरपुरी and 
+[[P1109]] वृद्धहारीतस्मृति (pr. Jivananda Sm. part I. pp. 194–409 and Ānan. Sm. pp. 236–356).
 
-___of राजनीति, such as दूत, कोष, कृषि was of काश्यपगोत्र and आपाजिभट्ट 
+वृद्धात्रिस्मृति pr. in Jivananda Sm. part I. pp. 47–59.
 
-कर्म, बल, यात्रा, सन्धि, विग्रह, नगर dwelt in काशी. About 1676. 
+वृद्धिश्राद्ध.
 
-निर्माण, वास्तुप्रवेश, छत्र, ध्वज, याज्ञवल्क्यस्मृति- Vide sec. 34. 
+वृद्धिश्राद्धदीपिका by अनन्तदेव, son of उद्धव.
 
-पद्मरागादिपरीक्षा, अस्त्र, शस्त्रपरीक्षा, 
+वृद्धिश्राद्धपद्धति by अनन्तदेव son of उद्धवद्विवेदिन् at Benares.
 
-List of works on Dhar maśāstra 
+वृद्धिश्राद्धप्रयोग by नारायणभट्ट (part of प्रयोगरत्न).
 
-1093 
+वृद्धिश्राद्धविधि by करुणाशङ्कर.
 
-नौकालक्षण &c. Names भोज him- ] रत्नमाला by शतानन्द, m. in ज्योति self as authority and उशनस्, स्तत्व (vol. I. p. 596). गर्ग, बृहस्पति, पराशर, वात्स्य, लोह रत्नमाला m. in शुद्धितत्त्व of रघु०, प्रदीप, शार्ङ्गधर and several पुराण. | 
+वृद्धिश्राद्धविनिर्णय (माध्यान्दिनीय) by अनन्तदेव, son of उद्धव (Baroda O. I. 10464).
 
-गोविन्दार्णव, निर्णयदीपक; probably (pr. in Cal. O. Series No. 1). 
+वृन्दावनपद्धति for followers of the वल्लभाचार्य sect.
 
-श्रीपति's work or शतानन्द's work. युमार्णव (C. P. Cat. No. 4418). 
+वृषभदान.
 
-रत्नसंग्रह m. in नि. सि. युद्धकुतूहल. 
+वृषभोत्सर्ग.
 
-रत्नसागर m. in नि सि. युद्धकौशल by रुद्र. 
+वृषोत्सर्गकौमुदी by रामकृष्ण.
 
-रत्नाकर- Vide under चण्डेश्वर sec. युद्धचिन्तामणि by रामसेवक त्रिपाठिन् . 
+वृषोत्सर्गतत्त्व by रघु०. He wrote one for each of ऋग्वेद, यजुर्वेद, सामवेद.
 
-91. युद्ध जयप्रकाश by दुःखभञ्जन. 
+वृषोत्सर्गपद्धति ascribed to शौनक with reference to कातीयशाखा.
 
-रत्नाकर by गोपाल. युद्धजयार्णव m, by रघु० in ज्योतिस्तत्त्व. युद्धजयार्णव (from अग्निपुराण chap. 
+वृषोत्सर्गपद्धति by नारायण, son of रामेश्वर.
 
-| रत्नाकर by रामप्रसाद. Stein's Cat. 
+वृषोत्सर्गपरिशिष्ट.
 
-p. 100 has the portion on 123-125). 
+वृषोत्सर्गप्रयोग (वाचस्पतिसंमत) for यजुर्वेद students (बौधायनीय).
 
-प्रायश्चित्त. युद्धजयोत्सव. 
+वृषोत्सर्गप्रयोग by अनन्तभट्ट, son of नागदेव. Also called नीलवृ०.
 
-रत्नार्णव . by रघु०. C. sno. 
+वृषोत्सर्गप्रयोग (छन्दोग) attributed to रघु०.
 
-रत्नावलि m. in हेमाद्रि (III. 2. 857), C. by मथुरानाथ शुक्ल 
+वृषोत्सर्गभाष्य Stein's Cat. p. 104.
 
-____ by रघु° in मलमासतत्त्व. C. by रामदत्त. 
+वृषोत्सर्गविधि by मधुसूदन गोस्वामी.
 
-रथसप्तमीकालनिर्णय युद्धजयोत्सव by गङ्गाराम in five | रविसंक्रान्तिनिर्णय by रघनाथ, son of 
+वृषोत्सर्गादिपद्धति of कात्यायन in 307 verses. Baroda O. I. Ms. 9470 is dated संवत् 1592.
 
-प्रकाशs. Ulwar Cat. extract 551. ! 
+वेगराजसंहिता by वेगराज in 1559 संवत् (रन्ध्रेषुबाणशशि) i. e. 1503 A. D.
 
-माधव. युद्धयात्रा m. in ज्योतिस्तत्त्व by रघु०. रसामृतासन्धु m. in सदाचारचन्द्रिका. युद्धरत्नावली. 
+वेणी Directions for worshipping वरुण before starting on a journey. Bik. Cat. p. 492.
 
-(probably on भक्ति). रङ्गनाथदेशिकाह्निक by रङ्गनाथदेशिक. | राघवभट्टीय m. in नि.सि. रजतदानप्रयोग by कमलाकर. | राजकौस्तुभ or राजधर्मकौस्तुभ (part of रत्नकरण्डिका by द्रोण (Hp Cat. pp. स्मृतिकौस्तुभ) by अनन्तदेव. Pr. in 
+वेणुगोपालप्रतिष्ठा.
 
-XI ms. copied in संवत 1189 G. O. Series in 1935. Vide sec. i. e. 1132–33 A. D.); treats of 
+वेदव्यासस्मृति– pr. Ānan. Sm. pp. 357–371.
 
-114. rites for Vijasaneyins. D. C. | राजधर्मसारसंग्रह attributed to Ms. No. 273 of 1886-92 is | तुलाजिराज of Tanjore (1765 incomplete and contains the | 1788). following topics, viz. प्रायश्चित्त, | राजनीति ano. स्पृष्टास्पृष्टप्रकरण, शावाशौच, श्राद्ध, | राजनीति by देवीदास. गृहस्थाश्रमधर्म, दाय, ऋण, व्यवहार, राजनीति by भोज. दिव्य, कृच्छ्र &c. 
+वेदव्रत.
 
-| राजनीति by वररुचि (?) Begins with रस्नकोश m. by हेमाद्रि (III. 2. 750), 
+वेदानध्याय On the holidays as to Vedic studies.
 
-the well-known verse about in मलमासतव of रघु०, टोडरानन्द. nine gens 'धन्वतरिः etc.' (vide रत्नदीपविश्वप्रकाश 
+वैखानसधर्मप्रश्न Vide sec. 15.
 
-Buruell's Tanj. Cat. p. 141b). 
+C. by नृसिंहवाजपेयी, son of माधवाचार्य (on 2 out of 3 प्रश्नs only found yet).
 
-1094 
+वैखानसमन्त्रप्रश्न (containing the मन्त्रs required in the वैखानसस्मार्तसूत्र); in 8 प्रश्नs (4 प्रश्नs pr. at Kumbhakonam in 1910).
 
+वैखानससंहिता m. by कालमाधवीय, नि. सि., समयमयूख.
 
+वैखानससूत्रदर्पण by नृसिंह, son of माधवाचार्य वाजपेययाजिन्. Handbook of domestic rites according to वैखानसगृह्य, pr. at Ellore 1915.
 
-राजनीति by हरिसेन of Benares. | राज्याभिषेकपद्धति by अनन्तदेव. राजनीतिकामधेन m. by राजनीतिरत्ना- | राज्याभिषेकपद्धति by शिव, son of 
+वैखानससूत्रानुक्रमदीपिका of वेङ्कटयोगिन्, son of कोण्डपाचार्य.
 
-कर of चण्डेश्वर. 
+वैखानसस्मार्तसूत्र in 10 प्रश्नs (7 of गृह्य and 3 of धर्म) pr. at Kumbhakonam 1914 and by Dr. Caland in B. I. Series with English translation (1927 text, 1929).
 
-विश्वकर्मन् । राजनीतिप्रकाश by मित्रमिश्र (part of | राज्याभिषेकप्रयोग by कमलाकर, son of 
+[[P1110]] C. by नृसिंह वाजपेयी, son of माधवाचार्य.
 
-वीरमित्रोदय) pr. in Ch. S. Series. ___ रामकृष्ण. Sec. 111. राजनीतिप्रकाश by रामचन्द्र अल्लडीवार. | राज्याभिषेकप्रयोग by रघुनाथ सम्राट्स्थ राजनीतिमयूख-same as नीतिमयूख of | पति, son of माधवभट्ट. 
+वैजयन्ती, com. on विष्णुधर्मसूत्र by नन्दपण्डित composed in 1623 A. D. (pub. Adyar Library Series in 1960). Vide sec. 110.
 
-नीलकण्ठ. 
+वैतरणीदान (on gift of a black cow to secure for the soul of a deceased person a safe passage over the Vaitaraṇī river in hell).
 
-रामकल्पद्रुम by अनन्तभट्ट, son of राजनीतिशास्त्र by चाणक्य in 8 chap 
+वैतरणीदानप्रयोग– Stein's Cat. p. 104.
 
-कमलाकरभट्ट. Divided into ten ters and about 566 verses. W. kāṇlas, which were in order and K. Cat. II. p. 182. 
+वैदिकप्रक्रिया.
 
-काल, श्राद्ध, व्रत, संस्कार, प्रायश्चित्त, राजभूषणी or नृपभूषणी (on politics) शान्ति, दान, आचार, राजनीति and 
+वैदिकविजयध्वज.
 
-by रामानन्दतीर्थ. Names कुल्लक's 
+वैदिकाचारनिर्णय by सच्चिदानन्द.
 
-(gap, probably उत्सर्ग). Aufrecht 
+वैद्यनाथसंग्रह.
 
-says that there were seven टीका on मनुस्मृति. 
+वैद्यनाथीय. Vide स्मृतिमुक्ताफल.
 
-काण्ड, but a ms. in Bhadkam राजमार्तण्ड of भोज. Vide p. 588 | 
+वैशम्पायननीतिसंग्रह– Vide under नीतिप्रकाश or -प्रकाशिका.
 
-kar collection gives ten and above. D. C. Ms. No. 342 of 
+वैशम्पायनस्मृति m. by मिताक्षरा (या. III. 326), अपरार्क.
 
-names them as above except 1879-80 is a work called राज- the last. Flourished about 1640– मार्तण्ड of भोज on astrology in ___1670 A. D. (Vide Bik. Cat. pp. relation to HT1€ and contains 445-447 for some of these such topies as व्रतबन्धकाल, विवाह- kāṇıIas). शुभकाल, विवाहराशियोजनविधि, संक्रान्तिनिर्णय, दिनक्षय, पुरुषलक्षण, 
+वैष्णवचन्द्रिका by रामानन्द न्यायवागीश.
 
-रामकौतुक m. in निर्णयामृत and मेषादिलग्नफल. The Ms. is dated 
+वैष्णवदीक्षापद्धति.
 
-नि. सि. संवत् 165 चैत्र (i. e. about April | रामतत्त्वप्रकाश attributed सायण. 1598). 
+वैष्णवधर्मखण्डन (Baroda O. I. 1741) against पुण्ड्रधारण &c.
 
-रामदेवप्रसाद alias गोत्रप्रवरनिर्णय by C. by गणपति. 
+वैष्णवधर्मपद्धति of कृष्णदेव.
 
-विश्वनाथ or विश्वेश्वर, son of शम्भु 
+वैष्णवधर्ममीमांसा by अनन्तराम.
 
-देव; composed in sake 1506 राजलासक m. in सरस्वतीविलास 
+वैष्णवधर्मशास्त्र in 109 verses divided into five chapters on संस्कार, गृहिधर्म, आश्रमs, पारिव्राज्य, राजधर्म.
 
-(1584 A. D). (Mysore ed. p. 21). 
+वैष्णवधर्मसुरद्रुममञ्जरी by सङ्कर्षणशरण, a follower of केशवकाश्मीरी, who was a follower of निम्बार्क.
 
-रामनवमीनिर्णय by गोपालदेशिकार्य: राजवल्लभ (by सूत्रधारमण्डन?) m. in | 
+वैष्णवधर्मानुष्ठानपद्धति by कृष्णदेव, son of रामाचार्य.
 
-Quotes नि. सि. मुहूर्तदीपक of महादेव. 
+वैष्णवनिर्णय Ulwar Cat. No. 1466.
 
-रामनवमीनिर्णय by विठ्ठलदीक्षित. राजाभिषेक by अनन्त 
+वैष्णवप्रक्रिया by वेदचूडालक्ष्मण. Mentions विज्ञानेश्वर, नि. सि., सुधीविलोचन.
 
-रामनाथपद्धति by रामनाथ. राजाभिषेकप्रयोग (from नीतिमयूख of 
+वैष्णवलक्षण by कृष्णताताचार्य.
 
-रामनित्यार्चनपद्धति by चतुर्भुज. नीलकण्ठ). 
+वैष्णववर्षकृत्य (Baroda O. I. 8133).
 
-रामनिबन्ध by क्षेमराम, son of श्रीभव राज्याभिषेक (from टोडरानन्द) 
+वैष्णवसदाचारनिर्णय.
 
-नन्द, son of दीक्षितबाबू . Compos राज्याभिषेकपद्धति (part of दिनकरो. | ed in 1720 A. D. (Ulwar Cat. 
+वैष्णवसर्वस्व of हलायुध m. in his ब्राह्मणसर्वस्व.
 
-द्योत). 
+वैष्णवसिद्धान्तदीपिका by रामचन्द्र, son of कृष्ण, son of नृहरि.
 
-No. 1431). 
+C. by विठ्ठल, son of नृसिंह, son of रामचन्द्र (the author).
 
-List of works on Dharmaśāstra 
+वैष्णवाचारसंग्रह.
 
-1095 
+वैष्णवामृत m. in आह्निकतत्त्व by रघु० and in नि. सि.
 
-रामपूजापद्धति by क्षेमराज. ( Ulwar | sake 1607 i. e. 1685 A. D.). 
+वैष्णवामृत by भोलानाथ. N. vol. VI. pp. 185–86.
 
-Cat. No. 1432 and extract 311.) Traces गुरुपरम्परा from वसिष्ठ to रामपूजापद्धति by रामोपाध्याय. गौडपाद, गोविन्द, शङ्कराचार्य, विश्व. 
+वैष्णवाह्निक (Baroda O. I. 10543).
 
-Stein's Cat. p. 101. 
+वैष्णवोपयोगिनिर्णय. D. C. Ms. No. 160 of 1884–86 is dated संवत् 1732 (1675–76 A. D.). It mentions प्रह्लादसंहिता, रामार्चनचन्द्रिका. It supports the marking of the body with चक्र by citing verses from कठशाखा and अथर्ववेद (एभिर्वयमुरुतमस्य चिह्नैरङ्किता लोके सुभगा भवेम ।).
 
-रूप, सुरेश्वर, in four पटलs. रामप्रकाश. 
+व्यतिषङ्गनिर्णय by रघुनाथभट्ट.
 
-C. लघुदीपिका by गदाधर. (1) com. on कालतत्त्वार्णव by राम-रामानचन्द्रिका by कुलमाणिशुक्ल. 
+व्यतीपातजननशान्ति by कमलाकरभट्ट.
 
-देव. 
+व्यतीपातप्रकरण.
 
-रामार्चनदर्पण (Ulwar Cat. No.1435). (2) a digest of religious obser. 
+व्यतीपातव्रतकल्प.
 
-| रामार्चनदीपिका. vances compiled in the name of कृपाराम ( described | रामाच 
+व्यवस्थादर्पण by आनन्दशर्मा, son of रामशर्मा. On points of स्मृति rites and rules, such as तिथिस्वरूप, मलमास, संक्रान्ति, आशौच, श्राद्ध, दायानधिकारि, दायविभाग. N. vol. VIII. p. 211.
 
-| रामार्चनपद्धति by रामानन्द. as गौडक्षत्रकुलोद्भव ), son of 
+[[P1111]] व्यवस्थादीपिका by राधानाथशर्मा. N. vol. X. p. 84 is confined only to आशौच.
 
-| रामार्चनरत्नाकर by केशवदास m. in यादवराज and descendant of 
+व्यवस्थानिर्णय. Ano. on तिथि, संक्रान्ति, आशौच, द्रव्यशुद्धि, प्रायश्चित्त, विवाह, दाय.
 
-अहल्याकामधेनुः the royal family of माणिक्य- रामार्चापद्धति by रामानुज. चन्द्र. कृपाराम was himself a रायमुकुटपद्धति m. by रघुनन्दन in feudatory of Jebanyir and 
+व्यवस्थाप्रकाश.
 
-शुद्धितत्व, श्राद्धतत्व ( P. 213). Shah Jehan. The I. O. Cat. 
+व्यवस्थारत्नमाला by लक्ष्मीनारायणन्यायालङ्कार, son of गदाधर. In ten गुच्छs on दायभाग, स्त्रीधन, दत्तकव्यवस्था; mentions मिताक्षरा and विधानमाला.
 
-रायसिंहप्रकाश of गदाधर. ( vol. III. p. 502 ) says that the real author was 
+व्यवस्थार्णव Ano.
 
-रासयात्रापद्धति by रघु०. Vide p. 892 
+व्यवस्थार्णव of रघुनन्दन (on pre-emption).
 
-above, राघवेन्द्र, son of काशीनाथ and father of रामदेव चिरञ्जीव. 
+व्यवस्थार्णव of रघुनाथ, at order of king रायराघव.
 
-रासयात्राविवेक of शूलपाणि. Vide sec. Relies of हेमाद्रि, माधव, and गौड writers. Latter balf of 
+व्यवस्थार्णव of रामभद्र. Vide under स्मृतितत्त्वविनिर्णय.
 
-रुद्रकलशस्थापनविधि by रामकृष्ण, son 17th century. Peterson ( in of नारायण Ulwar Cat. No 1433) says | रुद्रकल्प. that this is a com. on the 
+व्यवस्थासंक्षेप by गणेशभट्ट.
 
-रुद्रकल्पतरुः कालतत्त्वविवेचन. But from the description in the I. O. 
+व्यवस्थासंग्रह by गणेशभट्ट. Gives decisions on प्रायश्चित्त, inheritance etc.
 
-(I) ano. ( Burnell's Tanj. Cat. 
+व्यवस्थासंग्रह by महेश. On definite conclusions about आशौच, सपिण्डीकरण, संक्रान्तिविधि, दुर्गोत्सव, जन्माष्टमी, आह्निक, देवप्रतिष्ठा, दिव्य, दायभाग, प्रायश्चित्त. Based on रघु०.
 
-Cat, this does not appear 
+व्यवस्थासार by नारायणशर्मन् (I. O. Cat. p. 452) on आह्निक, आशौच, तिथि, दत्तपुत्र, विवाह, श्राद्ध. Different from next.
 
-p. 138 a): ms. dated संवत् 
+व्यवस्थासारसंग्रह by नारायणशर्मन्. On law of inheritance. This is also called व्यवस्थासारसञ्चय. Vide N. vol. III. pp. 126–127 and I. O. Cat. p. 453 which shows that the work embraced आशौच, दायभाग and श्राद्ध.
 
-1714 ( 1657-58 A. D.). likely. रामप्रसाद Vide तीर्थरत्नाकर. 
+व्यवस्थासारसंग्रह by महेश. Probably same as व्यवस्थासंग्रह.
 
-(2) by a son of विश्वेश्वर. रामानुजनित्यकर्मपद्धति Vide Peter. 
+व्यवस्थासारसंग्रह by रामगोविन्दचक्रवर्ती, son of मुकुन्द, on तिथि, संक्रान्ति, अन्त्येष्टि, आशौच etc. Vide N. vol. IV. pp. 289–291; N. (new series) I. p. 349 describes him as the son of रामगोपाल of चट्टवंश.
 
-रुद्रकल्पद्रुम or महारुद्रपद्धति by son's 6th Report p 107. 
+व्यवस्थासेतु by ईश्वरचन्द्रशर्मन्; Ms. copied in śake 1741 (1819–20 A. D.).
 
-अनन्तदेव, son of उद्धव द्विवेदी, रामार्चनचन्द्रिका m. ia तिथितत्त्व and resident of Benares. Mentions 
+व्यवहारकमलाकर, by कमलाकर son of रामकृष्ण (7th section of धर्मतत्त्व).
 
-शुद्धितत्त्व "f रघु०, नि. सि. 
+व्यवहारकल्पतरु by लक्ष्मीधर (portion of कल्पतरु). Vide sec. 78.
 
-हेमाद्रि, टोडरानन्द, प्रयोगपारिजात, रामार्चनचन्द्रिका by अच्युताश्रम रुद्रकारिका of परशुराम, नि. सि. रामार्चनचन्द्रिका by मानन्दवनयति, Later than 1640 A. D. 
+व्यवहारकाण्ड.
 
-pupil of परमहंसपरिव्राजकाचार्य- रुद्धचिन्तामणि or रुद्धपद्धति by श्रीमन्मुकुन्दवन in 5 पटलs ( D. C. शिवराम, son of विश्राम; for Ms. 440 of 1891-95 is dated | छन्दोगs ( Baroda O. I. 8018). 
+व्यवहारकोश by वर्धमान. A part of his तत्त्वामृतसारोद्धार on judicial procedure and civil and criminal law composed under राम, king of मिथिला. Latter half of 15th century.
 
-98. 
+व्यवहारकौमुदी by सिद्धान्तवागीशभट्टाचार्य. (Baroda O. I. 10105 dated śake 1535).
 
-1096 
+व्यवहारचण्डेश्वर m. in संस्कारमयूख.
 
-History of Dharmaśāsira 
+व्यवहारचन्द्रोदय (part of कीर्तिचन्द्रोदय, on judicial procedure and the विवादपदs).
 
-रुद्रजपसिद्धान्तशिरोमणि by रामचन्द्र- | रुद्रपद्धति (मैत्रायणीय) Baroda. O. I. 
+व्यवहारचमत्कार by रूपनारायण, son of भवानीदास, son of नायमल्ल; composed in संवत् 1637 (1580–81) in 13 प्रकरणs (in D. C. Ms. No 199 of A 1883–84 and 14 in Mitra's Notices vol. V. p. 91, which splits विवाह into two); on astrology in connection with गर्भाधान, पुंसवन, सीमन्तोन्नयन and [[P1112]] the other संस्कारs, विवाह, यात्रा, मलमासनिर्णय.
 
-पाठक. A very large work. Ba 
+व्यवहारचिन्तामणि by वाचस्पति. Vide above p. 846; on भाषा, उत्तर, क्रिया and निर्णय. N. III. p. 34.
 
-2452. roda O. I. 10946 has 13 प्रकरण | रुद्रपद्धति by आपदेव. 
+व्यवहारतत्त्व by नीलकण्ठ, son of शङ्करभट्ट. Sec. 112.
 
-and probably there were more. रुद्रपद्धति by काशीदीक्षित, son of सदा रुद्रपद्धति. 
+व्यवहारतत्त्व by रघुनन्दन. Vide sec. 107.
 
-शिव. Also called रुद्रानुष्ठानपद्धति (1) by परशुराम, son of कर्ण, an | 
+व्यवहारतत्त्वालोक–vide व्यवहारालोक.
 
-and महारुद्रपद्धति. उदीच्यब्राह्मण. Describes the | रुद्रपद्धति by नारायणभट्ट, son of रामे. rites connected with siva श्वरभट्ट. 'यद्यप्यनेकासु शाखासु रुद्रः worship in the form of पठ्यते तथापि तैत्तिरीयशाखानुसारेण महारुद्र. There are in all रुद्रः पठ्यते.' 1028 verses on रुद्रजपप्रशंसा, 
+व्यवहारतिलक by भवदेवभट्ट. Vide sec. 74 pp. 639–40.
 
-रुद्रपद्धति by भास्करदीक्षित, son of कुण्डमण्डपलक्षण, पीठपूजाविधि, 
+व्यवहारदर्पण by अनन्तदेव याज्ञिक. On meaning of व्यवहार, plaint, reply, means of proof, witnesses, documents, possession, judgment.
 
-रामकृष्ण (according to शाङ्खायन न्यासावधि. Composed in संवत् 
+व्यवहारदर्पण by रामकृष्णभट्ट. On राजधर्म, भाषा, उत्तर, प्रत्यवस्कन्दन, प्राङ्न्याय, साक्षि, लिखित, भुक्ति, जयपत्र.
 
-गृह्य ). 1515 ( 1458 A. D. ). Also रुद्रपद्धति by रेणुक; ms. ( Bik. Cat. called रुद्रकारिकाः 
+व्यवहारदशश्लोकी or दायदशक by श्रीधरभट्ट.
 
-p. 601 ) dated sake 1604 (1682 
+व्यवहारदीधिति (part of राजधर्मकौस्तुभ).
 
-A. D.). (2) another shorter treatise on same subject; introduction 
+व्यवहारदीपिका m. by रघु० in दिव्यतत्त्व on ordeals.
 
-रुद्रपद्धति by विश्वनाथ, son of शम्भुदेव being partly identical. Com. 
+व्यवहारनिर्णय (गौड) m. in शूद्रकमलाकर.
 
-and younger brother of रामदेव posed between 1578-1643 ( for माध्यन्दिनीयs).. 
+व्यवहारनिर्णय by मयाराममिश्रगौड residing at Benares by order of जयसिंह. On judicial procedure and the व्यवहारपदs. D. C. Ms. 140 of 1892–95 copied in संवत् 1885 (1798–99 A. D.).
 
-A. D. ( vide I. O. Cat. p. | रुद्रपूजापद्धति. Peterson's 6th Re 584). 
+व्यवहारनिर्णय by वरदराज; m. in स. वि., नि. सि.; composed about 1500 (tr. into English by Burnell).
 
-___port p. 109. (3) by अनन्तदीक्षित, son of विश्व 
+व्यवहारनिर्णय by श्रीपति m. in ज्योतिस्तत्त्व and तिथितत्त्व of रघु०. Probably astrological as bearing on धर्मशास्त्र.
 
-रुदविधानपद्धति by काशीदीक्षित, son नाथ. Baroda Ms. 8030 is 
+व्यवहारपदन्यास. (Vide Tri. Cat. of Madras Govt. Mss. for 1919–22 vol. IV p. 4836). Breaks off in the midst of 8th topic (भाषानिरूपण), the other seven being व्यवहारावलोकनधर्म, प्राड्विवाकधर्म, सभालक्षण, सभ्यलक्षण, सभ्योपदेश, व्यवहारस्वरूप, विचारविधि.
 
-___of सदाशिवदीक्षित dated संवत् 1809 ( 1752-53 
+व्यवहारपरिभाषा by हरिदत्तमिश्र.
 
-रुद्राविधानपद्धति by चन्द्रचूड. A. D.). 
+व्यवहारपरिशिष्ट.
 
-रुद्रविलासनिबन्ध by नन्दनमिश्र. (4) Describes रुद्रप्रयोग fo:]ow 
+व्यवहारप्रकाश by पृथ्वीचन्द्र (part of धर्मतत्त्वकलानिधि, pr. in Bhāratīya Vidyā Series). Vide sec. 102.
 
-रुद्रस्नानविधि or रुद्रस्नानपद्धति by ing तैत्तिरीयशाखा, though 
+व्यवहारप्रकाश by मित्रमिश्र (part of वीरमित्रोदय). pr. Ch. S. Series. Vide sec. 113.
 
-रामकृष्ण, son of नारायणभट्ट ; m. 
+व्यवहारप्रकाश by शरभोजी (king of Tanjore 1798–1833 A. D.).
 
-in शान्तिरत्न of कमलाकर. About रुद्र is recited in all sikhas : 
+व्यवहारप्रकाश by हरिराम.
 
-1070-1600. says 'स्मार्तरुद्रप्रयोगस्य बौधा यनसूत्रमूलकत्वेन बह्वचादीनां च | रुद्रप्रतिष्टा. तत्र बौधायनं ग्राह्यम् ।।रुद्रः पञ्चधा | रुद्रलघुन्यास- manual of formula रूपं रुद्री लघुरुद्रो महारुद्रोति | intended for रुद्र worship. रुद्धति एकादशगुणवृद्ध्या ।। रुद्रसूत्र or योग by अनन्तदेव, son of सर्वश्च त्रेधा जपरुद्रो होमरुद्रो- उद्धव, residing at Benares, also भिषेकरुद्रश्चेति।I. O.Ms. date.] _called त्रैविद्यमौढ for वाजसनेय संवत् 1587 i. e. 1530-31 
+व्यवहारप्रदीप by कल्याणवर्मा.
 
-TET; Peterson's 5th Report A. D. ( vide Cat. p. 580 p. 175, No. 1783); quotes रूपनाथ | रुद्राक्षधारण. often. 
+व्यवहारप्रदीप by कृष्ण. On astrology applied to धर्मशास्त्र. (Hp. Cat. pp. xx and 253) m. in दिव्यतत्त्व by रघु०.
 
-| रुद्राक्षपरीक्षा. 
+व्यवहारप्रदीप by पद्मनाभमिश्र. On judicial procedure.
 
-List of works on Dharmaśāstra 
+व्यवहारप्रदीपिका m. by वर्धमान.
 
-1097 
+व्यवहारमयूख by नीलकण्ठ. Vide sec. 112 (pr. by the Bhandarkar O. R. Institute, Poona, by J. R. Gharpure, Bombay and by V. N. Mandlik).
 
-2 
+व्यवहारमातृका or न्यायमातृका of जीमूतवाहन. Vide sec. 79 p. 702.
 
-रुद्रानुष्ठानपद्धति by नारायण, son of | जलाशयारामोत्सर्गपद्धति of नारायण 
+व्यवहारमाधव– (the third part of पराशरमाधवीय).
 
-रामेश्वर (D. C. Ms. No. 283 of! भट्ट. Between 1450-1525 A. D. 1886–92). Seems to be same 
+व्यवहारमाला by वरदराज. 18th century. Much used in Malabar.
+[[P1113]] व्यवहारमालिका (Baroda O. I. 6373).
 
-रेणुकारिका or रेणुककारिका- vide पार as रुद्रपद्धति (4) above. 
+व्यवहाररत्न by भानुनाथदैवज्ञ, son of चन्दनानन्द of the भौआलवंश.
 
-स्करगृह्यकारिका above. In 1266 रुद्रानुष्ठानपद्धति by मेङ्गनाथ, of the | 
+व्यवहाररत्नाकर by चण्डेश्वर. Sec. 91 p. 766.
 
-67 A. D. family of सर्वज्ञ. Relies on महा. णव as the principal authority. | लक्षणप्रकाश by मित्रमिश्र; part of 
+व्यवहाररत्नावली.
 
-वीमित्रोदय (on politics); pr. in रुद्रानुष्ठानपद्धति by शङ्कर; son of 
+व्यवहारशिरोमणि of नारायण, pupil of विज्ञानेश्वर; vide pp. 615–16. Vide Tri. Cat. of Madras Govt. Mss. vol. III. part I C. p. 3938 No. 2750.
 
-Chowkhamba s. Series. बल्लालसूरि m. in व्रतोद्यापनपद्धति; 
+व्यवहारसमुच्चय by हरिगण.
 
-q. v. About 1750 A. D. लक्षणरत्नमालिका by नारोजिपण्डित, रुद्धानुष्ठानपद्धति or -दीपिका. Vide | son of विश्वनाथ : in five पद्धति 
+व्यवहारसमुच्चय m. in देवप्रतिष्ठातत्त्व by रघु०, and in नि. सि.
 
-00 वर्णाश्रमाचार, दैव, राज, उद्योग, रुद्रपद्धति above. 
+व्यवहारसर्वस्व by सर्वेश्वर, son of विश्वेश्वरदीक्षित, on व्यवहार i. e. judicial procedure etc.
 
-शरीर ; seems to be a com. on his रुद्रानुष्ठानप्रयोग by खण्डभट्ट, son of 
+व्यवहारसार by मयाराममिश्र.
 
-लक्षणशतक ( in one hundred मयूरेश्वर, surnamed अयाचित. 
+व्यवहारसार m. in नि. सि. and निर्णयदीपक.
 
-verses). Vide Burnell's Tanj. रुद्रार्चनचन्द्रिका of शिवराम 
+व्यवहारसारसंग्रह by नारायणशर्मा.
 
-Cat. pp. 132 b and 164 b. रुद्धार्चनमञ्जरी by वेदाङ्गरायः; vide | लक्षणशतक by नारोजिपण्डित. 
+व्यवहारसारसंग्रह by रामनाथ. N. (new series) vol. III. p. 192.
 
-महारुद्रपद्धति 
+व्यवहारसारोद्धार by मधुसूदन गोस्वामी composed under Ranjit Singh of Lahore (1799 A. D.).
 
-लक्षणसंग्रह m. by हेमाद्रि in दानखण्ड रूपनारायणीय (पद्धति ) by उदयसिंह 
+व्यवहारसिद्धान्तपीयूष by चित्रपति, son of नन्दीपति, at the request of Colebrooke, in śake 1725 (1803–04 A. D.).
 
-| p. 328, कुण्डमण्डपसिद्धिः रूपनारायण, son of शक्तिसिंह. In | लक्षणसमञ्चय by हेमाद्रि. On the in the D. C. Ms. No. 240 of A | 
+C. by author.
 
-dications and predictions from 1881-82 ( 428 folios ) a pedi- bodily signs and on Prākrits. gree is given, which starts with Vide Bik. Cat. p. 411. भास्करकेसरी, in whese family was born मुग्धसिंह who conquer 
+व्यवहारसौख्य (part of टोडरानन्द).
 
-लक्षणसमुच्चय m. by हेमाद्रि in दान. ed भोगिराज; his son was मदन 
+व्यवहाराङ्गस्मृतिसर्वस्व by गौडमयाराममिश्र of Benares at the order of जयसिंह. Deals with judicial procedure and व्यवहारपदs (titles of law).
 
-खण्ड p. 823, by नि. सि. सिंह. उदयसिंह was 13th from लक्षणसारसमुच्चय- rules for the con. मदनसिंह and king of उत्तरकोसल. | ___struction of शिवलिङ्गs in 32 The work deals with षोडशमहा- sections. दानs such as तुलापुरुष (upto 
+व्यवहारादर्श by चक्रपाणिमिश्र; D. C. Ms. No. 247 of 1887–91 deals with भोजनविधि, अभोज्यान्न (Ms. is incomplete)
 
-लक्षहोमपद्धति folio 210 ), and with कूपवापीत 
+व्यवहारार्थसार by मधुसूदन. Same as व्यवहारसारोद्धार.
 
-(1) by काशीदीक्षित, son of सदा. डागादिविधि, नवग्रहहोम, अयुतहोम, लक्षहोम, दुर्गोत्सव. Relies upon 
+व्यवहारार्थस्मृतिसारसमुच्चय by शरभोजी (king of Tanjore 1798–1833 A. D.). Probably same as व्यवहारप्रकाश above.
 
-शिवदीक्षित भोजराज, लक्ष्मीधर (कल्पतरु ), (2) by गोविन्द, son of पुरुषोत्तम हेमाद्रि, चण्डेश्वर, पारिजात, हरिहर, | 
+व्यवहारालोक by गोपालसिद्धान्तवागीश.
 
-(3) by नारायणभट्ट, son of रामे भीमपराक्रम, विद्याधर, चिन्तामणि, 
+व्यवहारोच्चय by सुरेश्वर उपाध्याय; m. by टोडरानन्द, नि. सि., गोविन्दार्णव, स्मृतिकौस्तुभ. Earlier than 1500 A. D.
 
-श्वर. Sec. 108. वर्षदीप, महादानपद्धति of रूप नारायण; described above seems | लक्ष्मणसमुच्चय m. in मुहूर्तदीपक of to be a part of this m. in | महादेव. 
+व्याघ्रस्मृति or व्याघ्रपादस्मृति m. in मिताक्षरा (on या. 3. 30), अपरार्क, हरदत्त.
 
-H, D.-138 
+व्यासस्मृति Vide sec. 53; pr. in Jivananda Sm. II. pp. 321–342 and Ānan. Sm. pp. 357–371 (about 248 verses).
 
-1098 
+C. by कृष्णनाथ.
 
+व्रजतत्त्व.
 
+व्रजपद्धति.
 
-124-127. 
+व्रतकमलाकर by कमलाकरभट्ट. Sec. 111.
 
-लक्ष्मीनारायणार्चाकौमुदी by शिवानन्द | लघुविष्णुस्मृति m. in अपरार्क and __ गोस्वामी in five प्रकाशs. 
+व्रतकल्प m. by निर्णयदीपक.
 
-ब्राह्मणसर्वस्व of हलायुध; pr. लक्ष्मीसपर्यासार by श्रीनिवास. 
+व्रतकालनिर्णय by आदित्यभट्ट.
 
-A nan. Sm. pp. 117-123. 
+व्रतकालनिर्णय by भारतीतीर्थ.
 
-लघुव्यास (pr. Jivananda Sm. part लघुकारिका by विष्णुशर्मन्, son of देवः | 
+व्रतकालनिष्कर्ष by मधुसूदनवाचस्पति.
 
-___ II pp. 310-320 ) m. in संस्कार दत्त (for माध्यन्दिनशाखा) Ba roda O. I. 12072 dated संवत् 
+व्रतकालविवेक of शूलपाणि. Vide sec. 98.
 
-मयूख. 1552 and No. 4055 dated 1507 
+व्रतकौमुदी of रामकृष्णभट्ट.
 
-लघुशङ्खस्मृति pr. in Anan. Sm. pp. संवत्. 
+व्रतकौमुदी of शङ्करभट्ट.
 
-लघुशातातपस्मृति pr. Anan. Sm. pp. लघुकालनिर्णय by माधवाचार्य: The 128--135. 
+व्रतकौस्तुभ.
 
-first verse is व्याख्याय माधवा 
+[[P1114]] व्रतखण्ड (the first part of the चतुर्वर्गचिन्तामणि).
 
-| लघुशौनकस्मृति in 114 verses चार्यों धर्मान्पाराशरानथ and the 
+व्रतचूडामणि.
 
-( Baroda O. I. 11863). last verse is व्यतिपाते च वैधत्यां 
+व्रततत्त्व of रघु०. Sec. 107.
 
-लघुहारीतस्मृति m. in अपरार्क (pr. in तत्कालव्यापिनी तिथिः । ( vide Bik. 
+व्रतनिर्णय by औदुम्बरर्षि.
 
-___Anan. Sm. pp. 136-14l and Cat. pp. 408-409). 
+व्रतपञ्जी by नवराज of द्रोण family; son of देवसिंह.
 
-Jivananda Sm. part I. pp. लघुचाणक्य 
+व्रतपद्धति of रुद्रधर महामहोपाध्याय. Vide sec. 99 p. 841. One ms. dated लक्ष्मणसेनसंवत् 344 i. e. 1463 A. D. Hp. Cat. XIII and [[73).|73.]]
 
-177-193). लघुचिन्तामणि by वीरेश्वरभट्ट गोडबोले. लध्वत्रिस्मृति (pr. Jivananda Sm. 
+व्रतप्रकाश (a part of the वीरमित्रोदय).
 
-part I pp. 1-12 ) vide p. 263 लघुजातिविवेक m. in शूद्रकमलाकर. above. लघुनारदस्मृति m. by नि.सि., सं. कौः | लध्याश्वलायनस्मृति pr. Anan. Sm. लघुनिर्णय by शिवनिधि (Baroda 0. (pp. 142-181). 
+व्रतप्रकाश– vide व्रतराज.
 
-I. 12854). 
+व्रतप्रकाश by अनन्तदेव.
 
-लवाहिक. 
+व्रतप्रतिष्ठातत्त्व by रघु०. Vide व्रततत्त्व.
 
-ललितार्चनचन्द्रिका by सच्चिदानन्द लघुपद्धति or कर्मतत्त्वप्रदीपिका by कृष्ण 
+व्रतप्रतिष्ठाप्रयोग or साधारणव्रतप्रतिष्ठाप्रयोग.
 
-नाथ, guru of विद्यानन्दनाथ. भट्ट, son of पुरुषोत्तम, son of रघु. 
+व्रतबन्धपद्धति by रामदत्तमन्त्रिन्, son of गणेश्वर (for वाजसनेयशाखा).
 
-ललितार्चनदीपिका. नाथ; based on कारिका and वृत्ति, 
+व्रतबोधविवृति or व्रतबोधनीसंग्रह in five परिच्छेदs for वैष्णवs on तिथिनिरूपण, व्रतमहाद्वादशी, रामनवम्यादिव्रत, मासनिरूपण, वैशाखादिचैत्रान्तमासकृत्यनिरूपण. N. (new series) vol. II. p. 182.
 
-ललिताचनपद्धति by चिदानन्दनाथ, वामनभाष्य and जयन्त. Deals 
+व्रतरत्नाकर by सामराज; pr. at Sholapur in 1871.
 
-pupil of स्वयंप्रकाशानन्दनाथ. with leading topics of आचार, Probably same as ललितार्चन व्यवहार. N. vel. x. p. 248; 
+व्रतराज by कोण्डभट्ट.
 
-चन्द्रिका Baroda o. I. No. 1422 is dated | लवणश्राद्ध ( on offerings of salt संवत् 1592 ( 1535 -36 A. D.). It cakes to the deceased on 4th mentions चन्द्रिका, स्मृतिसार, day after death). स्मृत्यर्थसार. Between 1300. 1500 लिखितस्मृति-vide see. 13, p. 138; 
+व्रतराज or व्रतप्रकाश by विश्वनाथ, son of गोपाल. Compiled at Benares in śake 1658 (1736 A. D.); was a Cittapāvana Brāhmaṇa of Śāṇḍilya gotra and came from Saṅgameśvara in the Ratnagiri District. Pr. several times at Bombay, Ven. Press, ed. being the latest.
 
-A. D. 
+व्रतवल्ली.
 
-Jivananda Sm. part II. pp. 
+व्रतविवेकभास्कर by कृष्णचन्द्र.
 
-375-382 and Anan. Sm. pp. लघुपाराशरस्मृति. 
+व्रतसंग्रह composed by order of हरिसिंह, king of कर्णाटवंश. First quarter of 14th century.
 
-182-186. D. C. Ms. 44 of 1866 लघुबृहस्पतिमृतिः 
+व्रतसमुच्चय m. by निर्णयदीपक.
 
-68 contains a लिखितस्मृति in 6 लघुयमस्मृति m. by अपरार्क ( on य. 
+व्रतसंपात.
 
-अध्यायs where वसिष्ठ and other I. 238) and by हलायुध in ब्राह्मण- sayes are represented as asking सर्वस्व. 
+व्रतसागर m. by चण्डेश्वर.
 
-लिखित about चातुर्वर्ण्यधर्म and लघुवसिष्ठस्मृतिः 
+व्रतसार by गदाधर.
 
-प्रायश्चित्त, 
+व्रतसार by दलपति (part of नृसिंहप्रसाद).
 
-List of works on Dharmaśāstra 
+व्रतसार by श्रीदत्त. Vide sec. 90.
 
-1009 
+व्रताचार by रत्नपाणिशर्मा, son of गङ्गोलीसञ्जीवेश्वरशर्मा at the order of महेश्वरसिंह, king of मिथिला, son of रुद्रसिंह, son of छत्रसिंह of खण्डबल family; mentions श्रीदत्त as one of his authorities and also ज्योतिर्निबन्ध.
 
-the 18th century. 
+व्रतार्क by गदाधरदीक्षित.
 
-लिङ्गतोभद्र. 
+व्रतार्क by शङ्कर, son of नीलकण्ठ; a huge work; flourished between 1620–1675; wrote his कुण्डभास्कर in 1671 A. D.; pr. at Lucknow in 1877, 1881.
 
-लोकप्रकाश by क्षेमेन्द्र. Latter half of लिङ्गतोभद्रकारिका. 
+व्रतोद्योत (part of दिनकरोद्योत).
 
-Ilth century; gives specimens 
+व्रतोद्यापन.
 
-of letters, bonds, deeds &c. लिङ्गधारणचन्द्रिका. लिङ्गधारणदीपिका. 
+व्रतोद्यापनकौमुदी by रामकृष्ण based on हेमाद्रि, as he expressly says; dilates upon those व्रतs that are observed among गौडs.
 
-लोकसागर m, in अहल्याकामधेनुः लिङ्गप्रतिष्टा by अनन्त 
+व्रतोद्यापनकौमुदी by शङ्कर, son of बल्लालसूरि, surnamed घारे of the चित्तपावन subcaste. He wrote तीर्थोद्यापनकौमुदी and refers to [[P1115]] his रुद्रानुष्ठानकौमुदी. Composed in śake 1625 (शाके शरद्व्यङ्गचन्द्रे i. e. 1703–4 A. D.); pr. in Bombay at ज्ञानदर्पण press (1863 A. D.). Peterson (in Ulwar Cat. extract 352) wrongly reads वित्तथावनसंज्ञिना for चित्तपावन०.
 
-लोहितस्मृति. लिङ्गप्रतिष्ठापनविधि by अनन्त (accord. 
+व्रतोपवाससंग्रह by निर्भयरामभट्ट.
 
-लौगाक्षिस्मृति- see. 51. ___ing to बौधायन). I. O. Cat. vol. वङ्गिपुरेश्वरकारिका by वङ्गिपुरेश्वर 
+व्रात्यताप्रायश्चित्तनिर्णय (extracted from the प्रायश्चित्तेन्दुशेखर of नागोजिभट्ट); decides that modern princes are not entitled to have उपनयन performed (pr. in Ch. S. Series, two recensions, बृहत् and लघु).
 
-III. pp. 584-585. 
+व्रात्यताशुद्धि Stein's Cat. p. 105.
 
-वचनसंग्रह (Baroda O. I. No. 5507). लिङ्गादिप्रतिष्ठाविधि by नारायणभट्ट, son 
+व्रात्यताशुद्धिसंग्रह (pr. in Ch. S. Series).
 
-वचनसमुच्चय (Bik. Cat. p. 489). of रामेश्वरभट्ट. 
+व्रात्यस्तोमपद्धति by माधवाचार्य. N. (new series) vol. III. p. 194 (व्रात्य means पतितसावित्रीक).
 
-वचनसारसंग्रह by श्रीशैलताताचार्य, son लिङ्गार्चनचन्द्रिका by सदाशिवदशपुत्र, | of सुन्दराचार्य; mentions मद. पा. 
+शकुनार्णव or शकुनशास्त्र or शाकुन by वसन्तराज. Vide under वसन्तराजीय.
 
-son of गदाधर, son of विष्णु, 
+C. by भानुचन्द्रगणि.
 
-| वटेश्वरसिद्धान्त m. in कालसार of composed for pleasing king 
+शङ्करगीता m. by कालविवेक of जीमूत०, हेमाद्रि. Earlier than 1000 A. D.
 
-| गदाधर. जयसिंह. He wrote आशौचस्मृति चन्द्रिका also. First quarter of 
+शङ्कुप्रतिष्ठा (on ceremonies at the time of laying the foundation of a house).
 
-वत्सस्मृति m. in कालमाधव and by 
+शङ्करभट्टी.
 
-मस्करिन् on गौतमधर्मसूत्र. 
+शङ्खचक्रधारणवाद by पुरुषोत्तम, son of पीताम्बर (Baroda O. I. 736).
 
-वपन निर्णय लेखपज्ञाशिका on fifty forms of deeds, bonds and letters, com 
+शङ्खधरसमुच्चय m. by कालविवेक of जीमूत०.
 
-वरदराजीय (Hultzsch R.I. No. 448). posed in 1232 A. D. Vide 
+शङ्खलिखितधर्मसूत्र. Vide sec. 12.
 
-वाहारविवेक by वेङ्कटनाथ. Bhandarkar's Report for 1882- | वर्णकाचार. 83, No. 410; ms. dated संवत् | वर्णशासन 1536, i. e. 1479-80 A. D. 
+C. m. by कल्पतरु and वि. र.
 
-वर्णसङ्करजातिमाला by भार्गवराम. On लेखपद्धति contains forms of mort- | 
+शङ्खलिखितस्मृति. Vide sec. 12; pr. Ānan. Sm. pp. 372–373.
 
-| mixed castes. N. (new series) gage deeds, sale-deeds, treaties, | I. p. 332. cited from actual decumeuts in 
+शङ्खस्मृति– Vide sec. 12; pr. Jivananda Sm. part II pp. 343–374 and Ānan. Sm. pp. 374–395.
 
-वर्णसारमणि by वैद्यनाथ दीक्षित. the royal secretariat from 9th to 16th century of Vikrawa era, 
+शतक्रतुस्मृति m. in मद. पा.
 
-| वर्णाश्रमधर्म by वैद्यनाथदीक्षित. Pro published in G. 0. Series 
+शतचण्डीपद्धति by गोविन्द.
 
-| bably the same as above. (1925), 
+शतचण्डीप्रयोग by कृष्णभट्ट, son of नारायणभट्ट.
 
-वर्णाश्रमधर्मदीप or दीपिका by कृष्ण, लेखमुक्तामणि by हरिदास, son of 
+शतचण्डीविधानपद्धति by जयरामभट्ट.
 
-son of गोविन्द, son of राघव of वत्सराज in 464 verses and four the भारद्वाजगोत्र; composed at सर्गs on उद्भव (origin of writing), 
+शतचण्डीविधानपूजापद्धति vide Stein's Cat. p. 237.
 
-Benares on संस्कारs, गोत्रप्रवर गणित, लिखन (the art of the | 
+शतचण्डीसहस्रचण्डीप्रयोग by कमलाकर (from his शान्तिरत्न).
 
-निर्णय, स्थालीपाक, लक्षहोम, कोटि scribe) and qualfa; ms. copied 
+शतद्वयी on प्रायश्चित्त. Vide प्रायश्चित्तशतद्वयी.
 
-होम, तुलापुरुष, वास्तुविधि, भाहिक in 1625 A. D. (Aufrecht's 
+C. प्रायश्चित्तप्रदीपिका.
 
-विधि, सर्वप्रायश्चित्त, मूर्तिप्रतिष्ठा &c. Oxf. Cat.). 
+शतश्लोकी by यल्लभट्ट.
 
-वर्णाश्रमधर्मदीप by king कृष्ण who लोकपालाष्टदान. 
+शतश्लोकी by वेङ्कटेश.
 
-| ruled over महाराष्ट्र on the banks 
+शतानन्दसंग्रह m. by कालसार of गदाधर.
 
-CF 
+शत्रुघ्नी.
 
-1100 
+शत्रुमित्रोपशान्ति.
 
+शय्यादान.
 
+शरदक्षस्मृति m. in व्रतप्रकाश or व्रतराज.
 
-of the गोदावरी (vide Bik. Cat. | वर्षभास्कर by शम्भुनाथ सिद्धान्तवागीश, p. 489). This is a large work. composed by order of king 
+शाकटायनस्मृति m. in अपरार्क, श्राद्धमयूख.
 
-धर्मदेव. वर्धमानपद्धति m, in श्राद्धतत्त्व of रघु० 
+शाकलस्मृति m. in व्यवहारमयूख, दत्तकमीमांसा.
 
-(styled नव्यवर्धमान०). 
+शाङ्खायनगृह्यकारिका.
 
-वसन्तराजीय alias शकुनार्णव by 
+शाङ्खायनगृह्यनिर्णय.
 
-वसन्तराजभट्ट, son of शिवराज and वर्षकृत्य by रुद्रधर, son of लक्ष्मीधर 
+शाङ्खायनगृह्यपरिशिष्ट m. in नि. सि. and संस्कारकौस्तुभ.
 
-younger brother of विजयराज pr. at Benares in 1903; m. 
+शाङ्खायनगृह्यसंस्कारपद्धति of विश्वनाथ.
 
-composed by order of चन्द्रदेव in दुर्गोत्सवविवेक of शूलपाणि. 
+शाङ्खायनगृह्यसंग्रह by वासुदेव, son of ईजट (pr. in Ben. S. Series); [[P1116]] Stein's Cat. p. 19 gives संवत् 1428 as the date.
 
-of मिथिला; m. in अद्भुतसागर by " of रावणशर्मन् of चम्पहट्टि fami 
+शाङ्खायनगृह्यसूत्र (edited by Oldenberg in Indische Studien, vol. 15 pp. 1–166 and translated in S. B. E. vol. 29).
 
-बल्लालसेन and in दुर्गोत्सवविवेक of ly. Deals with संक्रान्ति and शूलपाणि. Earlier than 1150 A.D. 
+C. (भाष्य) by ब्रह्मदत्त quoted in कल्पतरु according to शुद्धितत्त्व (vol. II. p. 312). Earlier than 1100 A. D.
 
-the festivals and ans of the 
+C. (on four अध्यायs only). N. vol. I pp. 2–4.
 
-C. by भानुचन्द्रगणि in Akbar's 12 months of the year. 
+C. प्रयोगदीप by दयाशङ्कर, son of धरणीधर.
 
-reign. " by विद्यापति. A bout first half 
+C. अर्थदर्पण by रघुनाथ.
 
-वसिष्ठकल्प. of 15th century; m. in मल मासतत्त्व of रघु०. 
+C. गृह्यसूत्रपद्धति or आधानपद्धति by रामचन्द्र, son of सूर्यदास, son of शिवदास, son of श्रीधरमालव.
 
-वसिष्ठधर्मसूत्र vide see. 9; pr. in 
+C. गृहप्रदीपक by नारायण, son of कृष्णजी द्विवेदी, son of श्रीपति; gives pedigree of family which was नागर from श्रीपाटलापुरी in Gujerat. श्रीपति was 8th from चण्डांशु of that family. Work composed in 1629 (वर्षे नन्दकरर्तुचन्द्रसंमिते माघे &c.) probably of विक्रम era (i. e. in 1573 A. D.); Ms. in Bombay University Library. He wrote गृह्यसूत्रपद्धति also. Vide Ulwar Cat. for a long extract and D. C. Ms. No. 6 of 1879–80.
 
-B. S. Series, Jivananda Sm. " by शङ्कर. It is also styled 
+C. बालावबोधपद्धति.
 
-___part II. pp. 456-496 and स्मृतिसुधाकर or वर्षकृत्यनिबन्ध 
+शाङ्खायनाह्निक or -ह्निकदीपिका by अचल, son of वत्सराज. About 1518 A. D.
 
-_Anan. Sm. pp. 187-231. (Bik. Cat. p. 468). 
+शाङ्खायन or -निस्मृति m. in कालविवेक of जीमूत०, अपरार्क.
 
-C. by यज्ञस्वामिन् m. in गोविन्द " by हरिनारायण (C. P. Cat. | 
+शाण्डिल्यगृह्य m. by रुद्रदत्त on आपस्तम्बश्रौतसूत्र 9. 11. 21.
 
-स्वामिटिका on बौधायनधर्मसूत्र. No.5017). वर्षकृत्यतरङ्ग from the कृत्यमहार्णव. वसिष्ठसंहिता or महासंहिता in 45 
+शाण्डिल्यधर्मशास्त्र [[.(|(]]in verse) on गर्भाधानादिसंस्कार, ब्रह्मचारिधर्म, गृहस्थविहितधर्म, गृहस्थनिषिद्धधर्म, वर्णधर्म, देहशोधन, सावित्रीजपादि, चतुर्वर्णदोष. (Vide Tri. Cat. of Madras Govt. Mss. for 1919–22 vol. IV p. 5153).
 
-अध्यायs on शान्ति, जप, होम, वर्षकृत्यप्रयोगमत (माला) by मानेश्वर- बलिदान, on certain astrological 
+शाण्डिल्यस्मृति m. in मिता० (या. III. 280); स्मृतिच०, मस्करिभाष्य on गौतमधर्मसूत्र; in five अध्यायs on भागवताचार (Cat. of Madras Govt. Mss. vol. V. p. 1991; Baroda O. I. No. 7966).
 
-शर्मन्; ms. dated 1477 A. D. (B. aspects of नक्षत्र, वार etc. (Ulwar 0. Mss. Cat. vol. I. No. 312 and Cat. extract 582). JBORS for 1927 parts III-IV 
+शातातपस्मृति—Vide sec. 28; pr. Jivananda Sm. part II. pp. 435–455 and Ānan. Sm. pp. 396–410.
 
-वसिष्ठस्मृति in ten अध्यायs and p. Iv). 
+शातातपस्मृति in mixed prose and verse on expiation and आचार (I. O. Cat. p. 398).
 
-about 1100 verses. On the वर्षकौमुदी or वर्षकृत्यकौमुदी by गोवि- संस्कारs for वैष्णवब्राह्मण, स्त्रीधर्म, 
+शातातपस्मृति in 12 अध्यायs (I. O. Cat. p. 399).
 
-न्दानन्द, son of गणपतिभट्ट (pr. in विष्ण्वाराधन, श्राद्ध, आशौच, विष्णु 
+शातातपस्मृति in 87 अध्यायs and 2376 verses (N. vol. II. p. 4).
 
-B. I. Series). Vide sec. 106. मूर्तिप्रतिष्ठा (I. O. Cat. vol. III. वर्षदर्पण m. in कालनिर्णयचन्द्रिका of | ___p. 392 No. 1339). Baroda O. 
+शान्तिकमलाकर or शान्तिरत्न of कमलाकरभट्ट on the propitiatory rites in case of portents. Vide Sec. 111; pr. at Bombay.
 
-I. Ms. No. 1885 is dated sake दिवाकर, in समयमयूख. Earlier | 
+शान्तिकल्पदीपिका on propitiatory rites for several happenings such as the following, viz. of a frog in domestic fire, पल्लीपतन, birth of a child on मूल or आश्लेषा नक्षत्र etc.
 
-1564. than 1600 A. D. वर्षदीधिति part of स्मृतिकास्तुभ of | वसिष्ठस्मृति or वासिष्ठी. 
+[[P1117]] शान्तिकल्पप्रदीप or कृत्यापल्लवदीपिका by श्रीकृष्णविद्यावागीश. On incantations for killing, subjugating or bewitching rivals. N. vol. II. p. 107 and vol. V. p. 275 (Ms. dated संवत् 1851).
 
-अनन्तदेव. 
+शान्तिकल्पलता Ano.
 
-C. वासिष्ठभाष्य by वेदमिश्र. राम is वर्षदीप m. in रूपनारायणीय. 
+शान्तिकल्याणी.
 
-said to have asked the why वर्षदीपिका m. in कृत्यरत्नाकर by he was exiled, Deals with 
+शान्तिकविधि of वसिष्ठ in 213 verses. See वासिष्ठीभाष्य above. वसिष्ठ tells राम why the latter and others like रावण, पाण्डवs, कंस suffered from unfavourable stars and dilates upon अयुतहोम, लक्षहोम, कोटिहोम, नवग्रहहोम. Employs मन्त्रs from माध्यन्दिनीय शाखा (vide D. C. Ms. No. 104 of 1871–72).
 
-चण्डेश्वर. 
+शान्तिकौमुदी of कमलाकर, son of रामकृष्ण. Probably the same as शान्तिकमलाकर.
 
-propitiatory rites for evilList of works on Dharmaśāstra 
+शान्तिकौस्तुभ (C. P. Cat. No. 5595).
 
-1101 
+शान्तिगणपति by गणपति रावल. About 1685 A. D.
 
-aspects of planets, लक्षहोम, | वारव्रतनिर्णय. कोटिहोम. Says that it was 
+शान्तिचन्द्रिका by कवीन्द्र; m. in his काव्यचन्द्रिका (vide Aufrecht's Oxf. Cat. p. 211b).
 
-वाराणसीदर्पण by सुन्दर, son of राघव. based by वसिष्ठ on माध्यंदिनी 
+शान्तिचरित्र.
 
-वाराहगृह्य-pr. in G. O. Series in 21 TEL. Vide D. C. Ms. No. 245 of 1879-80. Baroda 0. 
+शान्तिचिन्तामणि by कुलमुनि m. in his नीतिप्रकाश.
 
-खण्डs on संस्कारs from जातकर्म, ]. 1412 is dated संवत् 1565 | 
+शान्तिचिन्तामणि by शिवराम, son of विश्राम of मोढ caste.
 
-नामकरण to पुंसवन and on वैश्वदेव (1508-09 A. D.). The com. 
+शान्तितत्त्वामृत or शान्तिकतत्त्वामृत by नारायणचक्रवर्ती. Names अद्भुतसागर. Defines शान्ति as 'यथा शस्त्रोपघातानां कवचं विनिवारणम् । तथा दैवोपघातानां शान्तिर्भवति वारणम् ॥ एतेन अदृष्टद्वारा ऐहिकमात्रानिष्टनिवारणं शान्तिः ॥'.
 
-and पाकयज्ञ. gives only the प्रतीकs of | | वार्तिकसार by यतीश, son of टेकचन्द्र verses. It says that लक्षहोम | composed in 1785 A. D. was imparted to नारद and | वार्षिककृत्यनिर्णयः others by वसिष्ठः 
+शान्तिदीपिका m. by रघु० in शुद्धितत्त्व, संस्कारतत्त्व, एकादशीतत्त्व, श्राद्धतत्त्व (p. 195).
 
-वासकर्मप्रकाश. वसिष्ठहोमपद्धति. 
+शान्तिनिर्णय.
 
-वासन्तीविवेक by शूलपाणि. Sec. 98. वाक्यतत्व of सिद्धान्तपञ्चानन. On | वासिष्ठलघुकारिका. 
+शान्तिपद्धति by शिवराम, son of विश्राम. It deals with rites propitiating the nine *grahas* (planets) according to Sāmaveda. The author wrote also छन्दोगानीयाह्निक. Ms. (I. O. Cat. p. 570 No. 1762) dated संवत् 1806 (1749–50 A. D.).
 
-proper times for religious 
+शान्तिपारिजात by अनन्तभट्ट.
 
-वासिष्ठीशान्ति by महानन्द, son of ceremonies. Part of द्वैततत्त्व. 
+शान्तिपुस्तक.
 
-| विश्वनाथ (he rather revised or वाक्यमीमांसा m. in नृसिंहप्रसाद. restored it). Vide Bik. Cat. वाक्यरत्नावलि m. in कालसार of | p. 490 (खलैर्या दूषिता शान्तिर्वासिष्ठी 
+शान्तिपौष्टिक of वर्धमान.
 
-गदाधर 
+शान्तिप्रकरण (बौधायनीय).
 
-सा प्रशोधिता). वाग्भटस्मृतिसंग्रह m. by अपरार्क | वासुदेवी or प्रयोगरत्नमाला; pr. in वाग्वतीतीर्थयात्राप्रकाश by गौरीदत्तः | 
+शान्तिप्रकार by गोभिल (same as the first 7 chapters of the कर्मप्रदीप).
 
-Pombay 1884. Quotes FATIG, 
+शान्तिप्रकाश (from the वीरमित्रोदय).
 
-son of रामभद्र 
+शान्तिभाष्य by वेदमिश्र. Same as वासिष्ठीभाष्य.
 
-कृत्यरत्नाकर, त्रिविक्रम, रूपनारायण, 
+शान्तिमयूख of नीलकण्ठ. Vide sec. 112; pr. in Bombay by J. R. Gharpure.
 
-नि. सि. So later than 1620 A. D. वातव्याधिर्मप्रकाश 
+शान्तिरत्न or शान्तिरत्नाकर of कमलाकरभट्ट. Sec. 111 (BBRAS Cat. p. 234 No. 729). Vide शान्तिकमलाकर above.
 
-Speaks of मूर्तिनिर्माणप्रकार, मण्डप वादभयङ्कर- a work by a follower प्रकार, विष्णुप्रतिष्टा, जलाधिवास, 
+शान्तिविवेक by विश्वनाथ on rites for propitiating planets etc. (part of मदनरत्न). Vide Ulwar Cat. extract 353 for table of contents.
 
-of विज्ञानेश्वर, according to वीर- शान्तिहोमप्रयोग, नूतनपिण्डिका मित्रोदय. Mentioned by कल्पतरु. स्थापन, जीर्णपिण्डिकायां देवस्थापन 
+[[P1118]] शान्तिसर्वस्व m. in नि. सि., संस्कारकौस्तुभ.
 
-Retween 1080--1125 A. D. वाधूलवृत्तिरहस्य or वाधूलगृह्यागमवृत्ति- | वास्तुचन्द्रिका by करुणाशङ्कर. 
+शान्तिसार by दलपतिराज (part of नृसिंहप्रसाद).
 
-रहस्य by सङ्गमग्रामवासिमिश्र. Deals 
+शान्तिसार by दिनकरभट्ट, son of रामकृष्ण. A very big work on propitiatory rites like अयुतहोम, लक्षहोम, कोटिहोम, ग्रहशान्ति, वैनायकीशान्ति, विवाहादौ गुरुशान्ति; pr. in Bombay several times, the most recent edition being that of Ven. Press.
 
-| वास्तुचन्द्रिका by कृपारामः with ऋणत्रयापाकरण, ब्रह्मचर्य, 
+शान्तिहोम by माधव.
 
-| वास्तुतत्त्व by गणपतिशिष्य; pr. at संस्कार, आह्निक, श्राद्ध, स्त्रीधर्म. 
+शान्त्युद्योत part of मदनरत्न. Vide Sec. 95.
 
-___Lahore (1853). वापीकूपतडागादिपद्धति 
+शापविमोचन.
 
-वास्तुपद्धति or वास्तूद्यापन (Baroda वाप्युत्सर्ग. 
+शाम्बव्यगृह्यसूत्र.
 
-O. I. No. 1672). वामनकारिका-a large work in verse; | वास्तुपूजनपद्धति by परमाचार्य 
+शारदाक्रमदीपिका m. in दुर्गोत्सवविवेक and by रघु०.
 
-follows खादिरगृह्य mainly. वास्तुपूजनपद्धति hy याज्ञिकदेव. वामनपद्धति m. in श्राद्ध सौख्य वास्तुप्रदीप by वासुदेव m. in नि. सि. 
+शारदातिलक by लक्ष्मणदेशिकेन्द्र, son of श्रीकृष्ण, son of विजयाचार्य of वारेन्द्रकुल. Rather a Tantric work very frequently quoted in धर्मशास्त्र works; m. by सर्वदर्शनसंग्रह, by रघु० in दिव्यतत्त्व. Earlier than 1300 A. D.
 
-(टोडरानन्द). 
+C. m. in कुण्डमण्डपलक्षण by रामवाजपयी in 1449–50 A. D.
 
-वास्तुयागतव by रघुनन्दन. Sec. 107. 
+C. गूढार्थदीपिका by त्रिविक्रमज्ञ, pupil of श्रीरामभारती.
 
-प्रयोग. 
+C. गूढार्थप्रकाशिका by कामरूपपति.
 
-1102 
+C. गूढार्थसार by विक्रमभट्ट.
 
+C. by काशीनाथ.
 
+C. तन्त्रप्रदीप by लक्ष्मणदेशिक (Is there some confusion of the author with the com.?).
 
-वास्तुरत्नावलि by जीवनाथदैवज्ञ, Pr. at | विद्याधरीविलास m. in ज्योतिस्तत्त्व by 
+C. तन्त्रप्रदीप by गदाधर, son of राघवेन्द्र; composed when रामभद्र, son of भैरवेन्द्र, ruled over मिथिला. About 1450 A. D. Vide N. vol. VI p. 233.
 
-Benares, 1883 and Calcutta, ___ रघु०. 1885. 
+C. by नारायण.
 
-विद्यारण्यसंग्रह- vide स्मृतिसंग्रह. वास्तुशान्ति by रामकृष्ण, son of | विद्याविनोद m. in नि.लि. (may also नारायणभट्ट. According to आश्व be the name of an author). लायनगृह्य; m. in शान्तिरत्न of विद्वान्मनोहरा com. on पराशरस्पति कमलाकरभट्ट 
+C. प्रकाश by मथुरानाथशुक्ल.
 
-____ by नन्दपण्डित. Vide sec. 110. वास्तुशान्तिप्रयोग-शाकलोक्त. 
+C. by माधव.
 
-विधवाधर्मः वास्तुशान्तिप्रयोग- extracted from | 
+C. पदार्थादर्श by राघवभट्ट, son of पृथ्वीधर, son of रामेश्वर; m. in व्रतराज. Author's family migrated from जनस्थान (Nasik) on गोदावरी to Benares. Composed in 1550 रौद्रपौषसित 12 (probably of the विक्रम era). Vide Ulwar Cat. extract 669.
 
-विधवाविवाहखण्डन. शान्तिसार of दिनकर. । 
+C. by रामदीक्षित.
 
-विधवाविवाहविचार by हरिमिश्र. वास्तुशास्त्र by मय; m. in नि. सि. वास्तुशिरोमणि by शङ्कर at the bid. 
+C. शब्दार्थचिन्तामणि by प्रेमनिधिपन्थ.
 
-विधानखण्ड m. in नि. सि. 
+C. हर्षकौमुदी by श्रीहर्षदीक्षित.
 
-या ding of स्यामसाह, son of माननरेन्द्र विधानगुम्फ m. in विधानपारिजात of 
+शारदार्चाप्रयोग by रामचन्द्र.
 
-Ulwar Cat. extract 576. | अनन्त. वास्तुसर्वस्व संग्रह pr. at Bangalore, विधानपारिजात of अनन्तभट्ट, son of 
+शालग्रामदानकल्प.
 
-1884. 
+शालग्रामदानपद्धति by बाबादेव. Vide I. O. Cat. p. 593 No. 1805 (Ms. dated संवत् 1858 i. e. 1801–02).
 
-नागदेव. Composed at Benares in विचारनिर्णय by गोपालन्यायपञ्चानन 
+शालग्रामनिर्णय.
 
-162.5 A. D. He styles himself भट्टाचार्य 
+शालग्रामपरीक्षा by शङ्करदैवज्ञ (I. O. Cat. p. 592).
 
-कावशाखाविदां प्रियः. In five विजयदशमीनिर्णय. 
+शालग्रामपरीक्षा (Bik. Cat. p. 450). A different work.
 
-स्तबकs on स्वस्तिवाचन, शान्तिकर्म, 
+शालग्रामलक्षण Ano. N. (new series) II. p. 187.
 
-मालिक, संस्कार, तीर्थ, दान, प्रकीर्ण विजयदशमीपद्धति (Ulwar Cat. No. 
+शालग्रामलक्षण by तुरगवदनपण्डित.
 
-विधान, and funeral ceremonies, 1444 and extract 344). 
+शालग्रामलक्षण by सदाशिवद्विवेदी.
 
-the third dealing with आहिक, विजयविलास by रामकृष्ण on शौच, 
+शालङ्कायनस्मृति m. by स्मृतिच०, हेमाद्रि, मद. पा., नि. सि.
 
-संस्कार and काल, the fifth with स्नान, सन्ध्या, ब्रह्मयज्ञ, तिथिनिर्णय. 
+शालाकर्मपद्धति (a part of दशकर्मदीपिका of पशुपति).
 
-श्राद्ध, आशौच, व्यवहार and प्राय०. Relies upon भाष्यs of कर्क, हरिहर, 
+[[P1119]] शास्त्रदीप by अग्निहोत्रि नृहरि; Ms. (Baroda O. I. 8132) dated संवत् 1664 (1607–8 A. D.) deals with प्रायश्चित्त and refers to portion of the work on व्यवहार.
 
-Mentions देवजानीय, दिवोदासीय, and गदाधर. 
+शास्त्रदीपार्थसार.
 
-त्रिस्थलीसेतु (pr. B. I. Series). विज्ञानमार्कण्ड m. in नृसिंहप्रसाद. विधानमाला or शुद्धार्थविधानमाला by विज्ञानललिन m. by हेमाद्रि (दानखण्ड नृसिंहभट्ट of आत्रेगोत्र. Resided on 
+शास्त्रसारावलि by हरिभानुशुक्ल.
 
-p. 109), in दानसार (part of the वसुमती near चन्दनगिरि in नृसिंहप्रसाद). 
+शास्त्रसारोद्धार by कृष्ण of the होसिङ्ग family by order of द्यानन्त राव (?) (Vide Burnell's Tanj. Cat. p. 133a). Mentions हेमाद्रि, माधव, मदनरत्न. Later than 1450 A. D.
 
-वैराटदेश; m. in संस्कारकौस्तुभ and विठ्ठलीय m. in श्राद्धसंग्रह of रामकृष्ण. विधानपारिजात. Earlier than l550 विदुरनीति- (from the उद्योगपर्व of 
+शास्त्रोपदेशक्रम.
 
-A. D. There are 240 प्रकरणs in 
+शिङ्गाभट्टीय or सिङ्गाभट्टीय m. in नि. सि. Vide C. P. Cat. 5670–71.
 
-the I. O. Ms. (Cat. p. 575 No. महाभारत chapters 33-40 of the 
+शिबिकादान.
 
-1769) which was copied in संवत् Bombay edition'; pr. at (Guja 
+शिवतत्त्वप्रकाशिका by भोजदेव.
 
-1732; pr. in Anan. P. Series, rati Press, Bombay. 
+शिवतत्त्वरत्नाकर by king बसप्पनायक I of the Keladi dynasty; contains a chapter on polity. Divided into कल्लोलs, each कल्लोल being divided into तरङ्गs. Published by B. M. Nath and Co. at Madras.
 
-1920 (1765-66 A. D.). Baroda विद्याकरपद्धति m. in नित्याचारप्रदीप O. I. No. 10449 copied in संवत् 
+शिवदमनार्चनपद्धति composed for विनयसिंह a former Maharaja of Ulwar. (Ulwar Cat. No. 1485).
 
-pp. 566,57l. 
+शिवद्युमणिदीपिका—the same as दिनकरोद्योत.
 
-1622 (1565-66 A. D.). 
+शिवपूजनपद्धति by हरिराय.
 
-List of works on Dharmaśāstra 
+शिवपूजा (अघोरपद्धति Vide Bik. Cat. p. 611).
 
-1103 
+शिवपूजातरङ्गिणी by काशीनाथ, son of जयराम, surnamed जडे.
 
-C. by विश्वनाथ, son of हरि. लक्षण, विभागस्वरूप, दायानह, अवि विधानमाला by लल्ल. 
+शिवपूजापद्धति Ano. (N. vol. II p. 225).
 
-भाज्य, स्त्रीधन, द्वादशविधपुत्र, अपुत्र विधानमाला by विश्वकर्मन् . 
+शिवपूजापद्धति by राघवानन्दनाथ.
 
-धनाधिकार, संसृष्टविभाग. N. vol. 
+शिवपूजाप्रकार.
 
-VI. p. 67. विधानरत्न by नारायणभट्ट. 
+शिवपूजासंग्रह by वल्लभेन्द्रसरस्वती.
 
-विभूतिधारण. विधानरहस्य m. in अहल्याकामधेनुः | 
+शिवपूजासूत्रव्याख्यान by रामचन्द्र, son of पाण्डुरङ्ग of the अत्रिगोत्र. Explains बौधायन (गृह्य) सूत्र on शिवपूजा beginning with अथातो महादेवस्याहरहः परिचर्याविधिं व्याख्यास्यामः । N. vol. X p. 347.
 
-| विमलोदयमाला or विमलोदयजयन्त विधानसारसंग्रह Ano. Vide Bik. | माला -acom. on आश्वलायनगृह्यसूत्र. 
+शिवप्रतिष्ठा by कमलाकर.
 
-Cat. p. 494. 
+शिवरात्रिकल्प.
 
-विरुद्ध विधिविध्वंस by लक्ष्मीधर, son विधिपुष्पमाला (पद्धति) u. in पितृ of मल्लदेव and श्रीदेवी and pupil 
+शिवरात्रिनिर्णय by शिवोपाध्याय Vide महाशिवरात्रिनिर्णय.
 
-भक्ति of श्रीदत्त. Earlier than of भगवद्बोधभारती. His gotra 1300 A. D. 
+शिवलिङ्गपरीक्षा.
 
-was काश्यप and his grandfather विधिरत्न by गङ्गाधर 
+शिवलिङ्गप्रतिष्ठाक्रम.
 
-was at and grand-uncle विधिरत्न m. in त्रिकाण्डमण्डन, हेमाद्रि, 
+शिवलिङ्गप्रतिष्ठाप्रयोग.
 
-स्कन्द and great-grand-father 
+शिवलिङ्गप्रतिष्ठाविधि by अनन्त.
 
-was सोढ, who was a minister of प्रयोगपारिजात. 
+शिवलिङ्गप्रतिष्ठाविधि by रामकृष्णभट्ट, son of नारायणभट्ट.
 
-सोमेश्वर of शाकम्भरी ( Sambhar). विनायकपूजा by रामकृष्ण, son of 
+शिववाक्यावली by चण्डेश्वर, son of वीरेश्वर. Sec. 91.
 
-स्कन्द was commander-in-chief योगीश्वर, surnamed शौचे (शौच!). 
+शिवसर्वस्व m. in नि. सि. and by रघु०.
 
-and वामन was सान्धिविग्रहिक of Composed in 1702 A. D. 
+शिवाराधनदीपिका by हरि.
 
-पृथ्वीराज, who was killed by विनायकशान्तिपद्धति. 
+शिवार्चनचन्द्रिका m. in नि. सि.
 
-तुरुष्क. स्कन्द crowned हरिराज in C. by श्रीधराचार्य. Baroda O. I. 
+शिवार्चनचन्द्रिका by अप्पय्यदीक्षित.
 
-शाकम्भरी and वामन went to No. 5491 dated संवत् 1607 
+शिवार्चनचन्द्रिका by श्रीनिवासभट्ट, son of श्रीनिकेतन in 16 प्रकाशs.
 
-अणहिल्लपाटक. The family origin 
+शिवार्चनपद्धति by अमरेश्वर.
 
-ally came from (1550-5! A. D.). 
+शिवार्चनशिरोमणि by नारायणानन्दनाथ.
 
-आनन्दनगर. 
+शिवार्चनशिरोमणि by ब्रह्मानन्दनाथ, pupil of लोकानन्दनाथ, in 20 उल्लासs.
 
-Werk is divided into seven विबुधकण्ठभूषण com. on गृह्यरत्न by अधिकरण; ms. ( I. O. Cat. p. 
+शिवालयप्रतिष्ठा by राधाकृष्ण.
+[[P1120]] शिवाष्टमूर्तितत्त्वप्रकाश by रामेश्वर, pupil of सदाशिवेन्द्रसरस्वती.
 
-वेङ्कटनाथ. 
+शिष्टिभाष्य—vide बौधायनगृह्यभाष्य.
 
-489 No. 1577 ) is dated संवत् विभक्ताविभक्तनिर्णय 
+शुक्रनीतिसार (pr. by Oppert at Madras in 1892 and by Jivananda in 1892 and tr. by Prof. Benoy Kumar Sarkar in S. B. H. Series) in four chapters in about 2500 verses. Speaks of राजधर्म, missiles, gunpowder &c.
 
-1582 चैत्र ( 1526 A. D.). Deals 
+शुक्लाष्टमी.
 
-with disputed points of sacred विभागतत्त्व or-तत्त्वविचार by रामकृष्ण, 
+शुद्धदीपिका of दुर्गदत्त (Hp. Cat. pp. xxi and 255). Compiled from प्रयोगसार.
 
-law, such as the persons entitl son of नारायणभट्ट. Relies on 
+शुद्धसौख्य.
 
-ed to offer is to the de. मिताक्षरा. A bout 1575-1600 A. 
+शुद्धिकारिका.
 
-ceased शूद्रप्रायश्चित्त etc. D. Deals with अप्रतिबन्ध and 
+(1) based on रघुनन्दन's शुद्धितत्त्व by रामभद्रन्यायालङ्कार.
 
-विलक्षणजन्मप्रकाशिका. सप्रतिबन्धदायमुख्यगौणपुत्राः, विभा गकाल, अपुत्रदायादक्रम, माता 
+(2) by नारायणवन्द्योपाध्याय. N. (new series) II. p. 196.
 
-विलाससंग्रहकारिका m. by कालसार preferred to far as heir. The 
+[[शुद्धिकारीकाली|शुद्धिकारिकावली]] by मोहनचन्द्रवाचस्पति. N. (new series) I. pp. 367–369; mentions शुद्धिरत्नाकर.
 
-_of गदाधर. Bhadkamkar collection us. | विवस्वत्स्मृति m. by स्मृतिचन्द्रिका, 
+शुद्धिकौमुदी by गोविन्दानन्द; pr. in B. I. Series Vide sec. 106.
 
-comes up to only भ्रातरः। हेमाद्रिः विभागनिर्णय. 
+शुद्धिकौमुदी by महेश्वर on सहगमन, आशौच, सपिण्डतानिरूपण, गर्भस्रावाशौच, सद्यःशौच, शवानुगमनाशौच, अन्त्येष्टिविधि, मुमूर्षुकृत्य, अस्थिसंचयन, उदकादिदान, पिण्डोदकदान, वृषोत्सर्ग, प्रेतक्रियाधिकारि, द्रव्यशुद्धि.
 
-विवादकल्पतरु (a portion of the विभागसार of विद्यापति: composed | कल्पतरु f लक्ष्मीधर ) vide sec. 78. 
+शुद्धिकौमुदी by सिद्धान्तवागीशभट्टाचार्य (Baroda O. I. 10183).
 
-under orders of दर्पनारायण, son | विवादकौमुदी by पीताम्बर सिद्धान्त of हरिसिंह, sen of भवेश. On दाय, वागीश composed in sake 1529 
+शुद्धिगुच्छ m. in कालसार of गदाधर.
 
-1104 
+शुद्धिचन्द्रिका by कालिदास (Hultzsch R. I. No. 93).
 
+शुद्धिचन्द्रिका com. on षडशीति or आशौचनिर्णय of कौशिकादित्य by नन्दपण्डित Vide sec. 110.
 
+शुद्धिचिन्तामणि by वाचस्पतिमिश्र Vide sec. 101.
 
-> 
+शुद्धितत्त्व of रघु०. Vide sec. 107; pr. by Jivananda.
 
-( 1604 A. D.). He was patron- __etc. (Cat. of Madras Govt. Mss. __ised by the Raja of Assam. vol. VI. p. 2407, No. 3203). विवादचन्द्र by मिसरुमिश्र. Vide sec. | विवादसिन्ध. 
+C. by काशीराम वाचस्पति, son of राधावल्लभ, residing at विष्णुपुर in Bankura; pr. at Calcutta 1884, 1907.
 
-100. विवादचन्द्रिका hy अनन्तराम; quotes 
+C. by गुरुप्रसादन्यायभूषणभट्टाचार्य. N. (new series) vol. I. p. 371.
 
-विवादार्णवमान or -भङ्ग compiled शूलपाणि and स्मातभट्टाचार्य. Later ___by गोरीकान्त and several other than 1600 A. D. 
+C. by राधामोहनशर्मा; pr. at Calcutta, 1884, 1907.
 
-Pandits. ( D. C. Ms. No. 364 of 
+शुद्धितत्त्वकारिका by रामभद्रन्यायालङ्कार. Same as शुद्धिकारिका above.
 
-1875-76, N. vol. IX p. 244 विवादचन्द्रिका by रुद्रधर महामहो । 
+शुद्धितत्त्वकारिका of हरिनारायण. Based on शुद्धितत्त्व of रघु०
 
-No 3165 ). पाध्याय, pupil of चण्डेश्वर. In his श्राद्धचन्द्रिका quotes वर्धमान. On | विवादार्णवसेतु compiled in 1773 for the 18 titles of law. About Warren Hastings by बाणेश्वर __1450 A. D. 
+शुद्धितत्त्वार्णव of श्रीनाथ m. in शुद्धितत्त्व (vol. II. p. 257) of रघु०. About 1475–1525.
 
-and several other Pandits and विवादचिन्तामणि by वाचस्पतिमिश्र. translated into English by 
+शुद्धिदर्पण of अनन्तदेव याज्ञिक. Defines शुद्धि as विहितकर्मार्हत्वप्रयोजको धर्मविशेषः शुद्धिः । Contains almost same topics as in शुद्धिकौमुदी of गोविन्दानन्द.
 
-See. 101 ; pr. at Boin bay. Eng. Halhed (which translation was lish tr. by Dr. Ganganath Jha, published in 1774 A. D.). 
+शुद्धिदीप or -प्रदीप by केशवभट्ट. same subjects treated as in शुद्धिकौमुदी of गोविन्दानन्द.
 
-pr. in G. O. Series. 
+शुद्धिदीप m. in नि. सि. and विधानपारिजात and शुद्धिविवेक of रुद्रधर.
 
-Divided into 21 gifts (waves, विवादताण्डव by कमलाकरभट्ट. Sec. seetions ) on ऋणादान and the 
+शुद्धिदीपिका.
 
-111. 
+(1) of श्रीनिवास महीन्तापनीय in eight अध्यायs on ज्योतिःशास्त्रप्रशंसा and राशिनिर्णय, ग्रहनिर्णय, ताराशुद्धिनिर्णय, वारा[[P1121]]निर्णय, विवाहनिर्णय जातकनिर्णय, नामादिनिर्णय, यात्रानिर्णय. Composed about 1159–60 A. D. (vide Ind. Ant., vol. 51 for 1922 pp. 146–47); m. in ब्राह्मणसर्वस्व of हलायुध. Mentions वराहमिहिर by name and quotes largely from his works.
 
-other titles of law (व्यवहारपदs). विवादनिर्णय by गोपाल. 
+C. प्रभा by कृष्णाचार्य.
 
-Pr. by the Venk. Press, Bom विवादनिर्णय by श्रीकर. 
+C. प्रकाश by राघवाचार्य (pr. at Calcutta in 1901).
 
-bay. This edition shows that विवादभङ्गार्णव by जगन्नाथतर्कपञ्चानन. the work was composed at the 
+C. अर्थकौमुदी by गोविन्दानन्द कविकङ्कणाचार्य, son of गणपतिभट्ट. Vide sec. 106 p. 882; pr. at Calcutta in 1901.
 
-Colebrooke translated two court of Ranjit Singh of out of the several principal 
+by दुर्गदत्त. Based on प्रपञ्चसार. (Hp. Cat. pp. xxi and 255).
 
-Lahore. Towards the end the topics of this work. Vide N. names of the Pandits who ( new series) rol. I. preface compiled it are given. Vide N. 
+by नारायणसर्वज्ञ.
 
-pp. XIII-XIV. 
+by केशवभट्ट. Same as शुद्धिप्रदीप.
 
-vol. X. pp. 115-116 and N. विवादरत्नाकर by चण्डेश्वर. Vide sec. 
+शुद्धिदीपिकावृत्ति by मथुरानाथशर्मन्.
 
-( new series) I. pp. 333-341 91. 
+शुद्धिनिबन्ध of मुरारि, son of रुद्रशर्मन्. His grandfather हरिहर was chief judge of देवसिंह, eldest son of भवेश of मिथिला and his greatgrand-father जयधर लाढ was chief judge of भवेश. About 1450 A. D.
 
-where the verses about the विवादवारिधि by रमापतिउपाध्याय । names of the collaborating 
+शुद्धिनिर्णय by उमापति.
 
-सन्मिश्र, on the 18 titles of lar. Paudits are given, but the विवादव्यवहार by गोपालसिद्धान्त- reference to Ranjit Singh does 
+शुद्धिनिर्णय by गोपाल.
 
-वागीशः 
+शुद्धिनिर्णय by वाचस्पति महामहोपाध्याय सन्मिश्र. Vide sec. 101 p. 853.
 
-not occur. विवादसार of कुल्लक, m. in his श्राद्ध 
+शुद्धिपञ्जी m. in शुद्धितत्त्व of रघु०.
 
-विवादार्थसंग्रह. सागर. Vide see. 89. विवादसारार्णव complied by सर्वोरु 
+शुद्धिप्रकाश by (हरि) भास्कर of Benares, son of आपाजिभट्ट, son of हरिभट्ट, son of पुरुषोत्तम who was a resident of त्र्यम्बकेश्वरपुरी. Composed in संवत् 1752 (द्वीषुसप्तेन्दुवत्सरे) i. e. 1695–96 A. D. Vide N. vol. II. p. 126 for the same author's com. (सेतु) on वृत्तरत्नाकर (composed in 1732 संवत्).
 
-विवाहकर्म by अग्निहोत्रि विष्णु of शर्मा त्रिवेदी at the instance of 
+शुद्धिप्रकाश m. by रघु० in शुद्धितत्त्व.
 
-मथुरा. Sir William Jories in 1789 in | विवाहकर्मपद्धति Vide विवाहपद्धति. nine तरङ्ग, The color-hon lies | विवाहकर्ममन्त्र व्याख्या सुबोधिनी ( Ul the rather picturesque words __war Cat. No. 1452 and extract). 'सविल्यं मिस्तरश्रीजोन्समहीपाज्ञप्त! Relies on हरिहर. 
+शुद्धिप्रकाश by कृष्णशर्मन्, son of नरसिंह at the bidding of छोटराय.
 
-[H 
+शुद्धिप्रदीप of केशवभट्ट. Vide शुद्धिदीप above.
 
-List of works on Dharmasastra 
+शुद्धिप्रदीपिका by कृष्णदेवस्मार्तवागीश.
 
-1105 
+शुद्धिप्रभा by वाचस्पति.
 
-41. 
+शुद्धिबिम्ब m. in शुद्धिविवेक of रुद्रधर. Earlier than 1425 A. D.
 
-विवाहकर्मसमुच्चय Ms. copied in | संस्कारs up to समावर्तन. He 
+शुद्धिमकरन्द by सिद्धान्तवाचस्पति.
 
-1113 A. D. ( Hp. Cat. p. XI ). | wrote for atnay students. विवाहकौमुदी C. P. Cat. No. 5140. विवाहपद्धति from the अनूपविलास. 
+शुद्धिमयूख by नीलकण्ठ. Vide sec. 112 (pr. by J. R. Gharpure in Bombay).
 
-विवाहपद्धातव्याख्या by गूदडमल्ल. विवाहचतुर्थीकर्मः 
+शुद्धिमुक्तावली by महामहोपाध्याय भीम of काञ्जिविल्लीयकुल (in Bengal). On आशौच. N. (new series) II p. 201.
 
-विवाहप्रकरण- from the लघुकारिका of विवाहतत्त्व or उद्वाहतत्त्व by रघुनन्दनः 
+शुद्धिरत्न from the अनूपविलास.
 
-कर्कः Sec. 107. 
+शुद्धिरत्न by दयाशङ्कर.
 
-विवाहरन by हरिभट्ट. An elaborate 
+शुद्धिरत्न by मणिराम, son of गङ्गाराम.
 
-treatise on marriage in 122 C. by काशीराम 
+शुद्धिरत्नाकर by चण्डेश्वर. Vide sec. 91 p. 766.
 
-chapters. विवाहतत्त्वार्णव m. in उद्वाहतत्त्व (vol. 
+शुद्धिरत्नाङ्कुर by मथुरानाथचक्रवर्ती.
 
-विवाहरत्नसंक्षेप by क्षेमंकर. ___II. p. 117) of रघु0. 
+शुद्धिलोचन.
 
-विवाहवृन्दावन by केशवाचार्य, son of विवाहद्विरागमनपद्धति 
+शुद्धिवचोमुक्तागुच्छक by माणिक्यदेव (styled अग्निचित् and पण्डिताचार्य) on आशौच, आपद्धर्म, प्रायश्चित्त &c. (Tri. Cat. of Madras Govt. Mss. for 1919–22 p. 5474).
+[[P1122]] शुद्धिविवेक.
 
-राणिग or रागण, in 17 chapters on विवाहनिरूपण by नन्दभट्ट 
+(1) by रुद्रधर, son of लक्ष्मीधर and youngest brother of हलधर. Vide sec. 99 p. 840.
 
-auspicious times for marriage. विवाहनिरूपण by वैद्यनाथ. 
+(2) by श्रीनाथ, son of श्रीकराचार्य. Mentions शूलपाणि at end. 1475–1525 A. D.
 
-One mos, is dated sake 1326 i.e. विवाहपटल m. in ज्योतिस्तत्व of रघु० । 
+(3) a portion of the हारलता by अनिरुद्ध.
 
-1398-99 A. D.( BBRAS. Cat. Probably an astrological work 
+(4) by शूलपाणि. Vide sec. 98.
 
-part I. p. 109 No. 322); m. in of वराहमिहिर or of साधर. 
+शुद्धिविवेकोद्योत—part of मदनरत्न.
 
-मुहूर्तदीपक of महादेव, in टोडरानन्द. विवाहपटल by सारङ्गपाणि ( शार्ङ्गपाणि ?) 
+शुद्धिव्यवस्थासङ्क्षेप of चिन्तामणिन्यायवागीश, a native of गौड. A part of स्मृतिव्यवस्थासंक्षेप; Ms. copied in *śake* 1610 (1688–89 A. D.). Vide N. vol. IV p. 130. He wrote similar works on तिथि, प्रायश्चित्त, उद्वाह, श्राद्ध and दाय.
 
-C. दीपिका by गणेशदैवज्ञ, son of ___son of मुकुन्द. 
+शुद्धिव्यवस्थासंग्रह.
 
-केशव, in sake 1476 i. e. विवाहपटल by हरिदेवरि. 
+शुद्धिसार.
 
-1554-55 A. D. ( BBRAS. 
+(1) by कृष्णदेव स्मार्तवागीश, a वन्द्यघटीयब्राह्मण.
 
-Cat. part I. p 110 No. 334.). विवाहपटलस्तबक by सोमसुन्दरशिष्य. 
+(2) by गदाधर.
 
-See Bhandarkar's Report Baroda 0. I. No. 133. 
+(3) by श्रीकण्ठशर्मन्. N. (new series) vol. I. p. 372.
 
-for 1883-84 pp. 372-373, विवाहपद्धति or विवाहादिपट्टति where we read that गणेश __गोभिलीय. 
+शुद्धिसेतु by उमाशङ्कर.
 
-first composed ग्रहलाघव, विवाहपद्धति by गौरीशङ्कर. 
+शुनःपुच्छस्मृति m. in मिता० (या. III. 16), अपरार्क.
 
-then श्राद्धविधि, then a com. विवाहपद्धति by चतुर्भुज. . 
+शुभकर्मनिर्णय by मुरारिमिश्र. Treats of domestic rites according to गोभिल. Gives pedigree of patron as king लक्ष्मीनारायण of वङ्गदेश his son रूपनारायण-वीरनारायण-नरनारायण-जगन्नारायण-त्रिविक्रमनारायण, who is said to have written the work with the help of मुरारि, whose *gurus* were रामभद्र and केशवमिश्र. About end of 15th century. (N. vol. VI p. 7).
 
-on लीलावती, a com. on विवाहपद्धति by जगन्नाथ. 
+शूद्रकमलाकर or शूद्रधर्मतत्त्व of कमलाकरभट्ट. Vide sec. 111.
 
-मुहूर्ततत्व. विवाहपद्धति by नरहरि. 
+शूद्रकर्मवृत्ति m. in शूद्राचारशिरोमणि of शेषकृष्ण.
 
-C. by कल्याणवर्मन् विवाहपद्धति by नारायणभट्ट. 
+शूद्रकुलदीपिका by रामानन्दशर्मा. Deals with genealogy and history of the कायस्थs of Bengal (N. vol. II p. 55).
 
-विवाहसौख्य by नीलकण्ठ (seems to 
+शूद्रकृत्य by लालबहादुर.
 
-be a portion of टोडरानन्द). विवाहपद्धति hy रामचन्द्र. 
+शूद्रकृत्यविचारतत्त्व of रघु०. Vide sec. 107.
 
-विवाहाग्निनाष्टिप्रायश्चित्त विवाहपद्धति or विवाहादिकर्मपद्धति by | 
+शूद्रजपविधान.
 
-विवाहादिकर्मानुष्ठानपद्धति by भवदेव. रामदत्त राजपण्डित, son of गणेश्वर, son of देवादित्य. He was paternal 
+शूद्रधर्मतत्त्व of कमलाकरभट्ट. The same as शूद्रकमलाकर.
 
-विवाहादिप्रयोगतत्व ascribed to रघु. first cousin of चण्डेश्वर and so 
+शूद्रधर्मबोधिनी by मदनपाल; the same as the स्मृतिकौमुदी of मदनपाल. Sec. 94 p. 798.
 
-___ नन्दन (N. vol. XI preface flourished about 1310--1360 | IT. 
+शूद्रधर्मोद्योत—part of दिनकरोद्योत, completed by गागाभट्ट.
 
-A. D. On आभ्युदयिकश्राद्ध, विवाह, | विवाह्यकन्यास्वरूपनिर्णय by अनन्तराम चतुर्थीकर्म, पुंसवन and the other | शास्त्रिन्. 
+शूद्रपञ्चसंस्कारविधि by कश्यप.
 
-H, D..-139 
+शूद्रपद्धति by अपिपाल, son of देहणपाल, son of त्रिविक्रम, son of मकरन्दपाल. One Ms. copied in शके 1442 i. e. 1520 A. D. (N. vol. V. p. 302) in गौडदेश; m. in श्राद्धक्रियाकौमुदी and in श्राद्धतत्त्व. Expressly says that it was based on सोममिश्र's work. The English note in N. is wrong. The verse at the end says distinctly that it was copied in शाके युग्मसरोजसम्भवमुखाम्भोराशिचन्द्रान्विते i. e. *śake* 1442 (1520 A. D.).
 
-1106 
+[[P1123]] शूद्रपद्धति by गोपाल, son of कृष्ण, son of गोपाल surnamed उदास. A very large work on 10 संस्कारs of शूद्रs viz. गर्भाधान, पुंसवन, अनवलोभन, सीमन्तोन्नयन, जातकर्म, नामकरण, निष्क्रमण, अन्नप्राशन, चूडाकर्म, विवाह and also on पञ्चमहायज्ञs. Refers to मयूख and शुद्धितत्त्व. Later than 1640 A. D. Portion on संस्कार is styled also संस्कारदीपिका.
 
+शूद्रपद्धति published by कृष्णराज as a part of स्मृतिमहाराज. Mentions मदनरत्न. Begins with गोदान. Baroda O. I. No. 8023.
 
+शूद्रविवेक by रामशङ्कर.
 
-1 
+शूद्रश्राद्धपद्धति by रामदत्तठक्कुर.
 
-विविधविद्याविचारचतुरा of भोज on | विश्वम्भरशास्त्र m. in शूद्रकमलाकर. 
+शूद्रषट्कर्मचन्द्रिका.
 
-propitiation of angry deities 
+शूद्रसंस्कारदीपिका by गोपालभट्ट, son of कृष्णभट्ट (Baroda O. I. 8975).
 
-विश्वरूपनिबन्ध m. in कृत्यचिन्तामणि, and consecration of tanks and 
+शूद्रसंकर (Ulwar Cat. No. 1492).
 
-नि. सि. Vide pp. 564-65 wells &c. Ms. (Hp. Cat. pp. XIII 
+शूद्रस्मृति.
 
-above. Bik. Cat. p. 497 No. and 65 ) dated ल. सं. 372 i.e. 1490-91. This is different from 
+शूद्राचार. Appears to contain only extracts from पुराणs.
 
-1967 is विश्वरूपनिबन्ध which 
+शूद्राचारचिन्तामणि by वाचस्पतिमिश्र, written at the court of हरिनारायण of मिथिला. Vide sec. 101.
 
-धारेश्वरभोज. 
+शूद्राचारपद्धति of रामदत्तठक्कुर. It is doubtful whether he is the same as रामदत्त, cousin of चण्डेश्वर.
 
-deals with सपिण्ड relationship विवेककौमुदी by रामकृष्ण. Discussion 
+शूद्राचारविवेकपद्धति by गोण्डिमिश्र.
 
-in marriage, particularly about wearing the शिखा and 
+शूद्राचारशिरोमणि by कृष्णशेष, son of नृसिंहशेष who wrote गोविन्दार्णव. Work composed at request of पिलाजीनृप, son of केशवदास, who showed his prowess in the south and is styled परमवैष्णव. D. C. Ms. No. 55 of 1872–73 was copied at स्तम्भतीर्थ (modern Cambay) in संवत् 1647 फाल्गुन वदि ४ गुरौ (4th March 1591). Names गोविन्दार्णव, मिताक्षरा, शङ्खधर, शूद्रकर्मवृत्ति, शूद्रोत्पत्ति, स्मृतिकौमुदी and is mentioned in आचाररत्न of लक्ष्मण (on भूतयज्ञ). Between 1520–1590 A. D. For the शेष family, vide Ind. Ant. vol. 41 p. 245 ff.
 
-about the girl being beyond यज्ञोपवीत, विधि, नियम, परिसंख्या, the fifth and the seventh from स्नान, तिलकधारण, तर्पण, शिवपूजा, 
+शूद्राचारसंग्रह or सच्छूद्राचार by नवरसौन्दर्यभट्ट.
 
-the mother and father त्रिपुण्ड्र, प्रतिष्ठोत्सर्गभेद. N. vol X. respectively. pp. 105-107. 
+शूद्राहःकृत्यतत्त्व or -प्रयोग of रघु०. N. (new series) vol. II. p. 200.
 
-विश्वरूपसमुच्चय m. in उद्वाहतत्व by विवेकदीप by दामोदर. Treats of 
+शूद्राह्निक.
 
-| रघु० ( vol. II p. 116 ). महादानs, compiled under au spices of संग्रामसाह; Ms. ( I. O.| विश्वादर्श by कविकान्तसरस्वती, son Cat. p. 551 No. 1617 ) copied of आचार्यादित्य, who styles in संवत् 1638 ( 1582 A.D.). himself गीतार्थप्रवीण. Author विवेकमारी. 
+शूद्राह्निकाचार of श्रीगर्भ. Palm-leaf Ms. dated *śake* 1462 i. e. 1540–41 A. D.
 
-was devotee of विश्वेश्वर in विवेकसारवर्णन 
+शूद्राह्निकाचारसार by यादवेन्द्रशर्मन्, under order of रघुदेव, prince of गौड, son of वासुदेव. N. (new series) I. p. 373.
 
-Benares. Divided into 4 काण्ड विवेकार्णव by श्रीनाथ m. in his 
+शूद्रीपद्धति.
 
-on आचार, व्यवहार, प्रायश्चित्त कृत्यतत्त्वार्णव. 1475-1525 A. D. विशुद्धिदर्पण by रघुनन्दन. On आशौच 
+शूद्रोत्पत्ति m. in शूद्राचारशिरोमणि of शेषकृष्ण.
 
-and ज्ञान. Ist काण्ड has 42 ___of two kinds, जननाशौच and 
+शूद्रोद्योत—vide शूद्रधर्मोद्योत above.
 
-स्त्रग्धरा verses and one अनुष्टुम् शावाशौच. 
+शैवकल्पद्रुम by अप्पय्यदीक्षित.
 
-on daily religious duties such विश्वदीप m. in आचारार्क 
+शैवकल्पद्रुम by लक्ष्मीचन्द्रमिश्र.
 
-as शौच, दन्तधावन, कुशविधि, विश्वदेवदीक्षितीय. 
+शैवतत्त्वप्रकाश.
 
-स्नान, सन्ध्या , होम, देवतार्चन, दान, विश्वनाथभट्टी ( C.P. Cat. No. 5197 
+शैवतत्त्वामृत.
 
-2nd काण्ड (on व्यवहार ) has 44 विश्वप्रकाश D. C. Ms. No. 144 of 
+शैवतात्पर्यसंग्रह.
 
-verses in various metres 1884-86. For वाजसनेय followers 
+[[P1124]] शैवधर्मखण्डन.
 
-(मालिनी, अनुष्टभ, मन्दाक्रान्ता,kc); on daily duties like सन्ध्यावन्दन, कृष्णजन्माष्टमीनिर्णय, ग्रहणनिर्णय, 
+शैवरत्नाकर by ज्योतिर्नाथ. Hultzsch R. I. No. 76.
 
-3rd ( ARTIST ) has 53 verses and श्राद्ध. 
+शैववैष्णवप्रतिष्ठाप्रयोग.
 
-( all स्रग्धरा except last which विश्वप्रकाशिकापद्धति of विश्वनाथ of is मालिनी) 4th ज्ञानकान्ड has 53 the पराशरगोत्र, son of पुरुषोत्तम, verses in शार्दूलविक्रीडित, शिख son of त्रिविक्रम, son of नारायणा- रिणी, अनुष्टुभ् , and other metres चार्य. On various ceremonies and expiations based on 
+शैववैष्णवमतखण्डन.
 
-on वानप्रस्थ, संन्यास, त्वंपदार्थ, 19fara. Composed in 1544 काशीमाहात्म्य. Author's patron A. D. Vide N. vol. x. pp. seems to have been try or 233-235. 
+शैवसर्वस्व of हलायुध m. in his ब्राह्मणसर्वस्व.
 
-धन्यराज, son of नागार्जुन, at 
+शैवसर्वस्वसार by विद्यापति, composed at the bidding of queen विश्वासदेवी, wife of पद्मसिंह of मिथिला, son of शिवसिंह, son of देवसिंह, son of भवेश. Between 1400–1450 A. D. (N. vol. VI. pp. 1–5).
 
-List of works on Dharmaśāstra 
+शैवसिद्धान्तदीपिका.
 
-1107 
+शैवसिद्धान्तशेखर or सिद्धान्तशेखर m. in नि. सि.
 
-काशी. Refers to मुञ्ज, धारेश्वर, rites for averting evil conse मेधातिथि and विज्ञानेश्वर. M. by | quences of being born at one हेमाद्रि ( III. 2. p. 102, which of the four periods called faq occurs in com. on विश्वादर्श III. | घटिका. 37) and by स्मृतिचन्द्रिका (भाशौच, विष्णुतत्त्वप्रकाश by वनमालिन्। Mysore ed. p. 164 ‘पतिव्रता | Digest of स्मार्त ·rites for माध्व त्वन्यदिनेनुगच्छेद्या स्त्री पतिं चित्य | followers. धिरोहणेन।दशाहतो भर्तृरघस्य शुद्धिः | विष्णुतत्त्वविनिर्णय by आनन्दतीर्थ. 
+शैवसिद्धान्तसंग्रह.
 
-श्राद्धद्वयं स्यात्पृथगेककाले ॥). Later | विष्णुतीर्थीयव्याख्यान by सुरोत्तमाचार्य: than 1100ʻ-A. D. and earlier 
+शैवसिद्धान्तसार.
 
-विष्णुधर्ममीमांसा by नृसिंहभट्ट, son of than 1300 A. D.( This informa- | 
+शैवसिद्धान्तसारावलि or सिद्धान्तसारावलि.
 
-सोमभट्ट.Ulwar Cat. 1457. tion is based on two mss. in the Bhadkamkar collection ) 
+शैवाह्निक.
 
-विष्णुधर्मसूत्र Vide sec. 10. Pr. Jiva c. by author ( Vide BBRAS. I 
+शौचलक्षण
 
-nanda Sm. part I. pp. 60-176. Cat. part 2 pp. 229-231 
+शौचसंग्रहविवृति by भट्टाचार्य.
 
-C. वैजयन्ती by नन्दपण्डित. Vide for fuller details ). 
+शौचाचमनविधि.
 
-sec. 110. विश्वामित्रकल्प. on the daily cere. | विष्णुधर्मामृत m. in जटमल्लविलास. __monies performed by ब्राह्मण विष्णुधर्मोत्तरामृत m. in कालविवेक of विश्वामित्रकल्पतरु. 
+शौचाचारपद्धति m. by हेमाद्रि in व्रतखण्ड I. 59.
 
-जीमूतवाहन. विश्वामित्रसंहिता by श्रीधर. 
+शौनककारिका or शौनकोक्तवृद्धकारिका (D. C. Ms. 97 of 1869–70). An extensive work in 20 अध्यायs in verse on domestic rites. Mentions आश्वलायनाचार्य, five शाखाs of the ऋग्वेद, सर्वानुक्रमणी; Ms. written in संवत् 1653 ([[1566–67|1596–97]] A. D.). Vide Bik. Cat. p. 152 for शौनककारिकाs and Baroda O. I. No. 8637.
 
-विष्णुपूजाक्रमदीपिका by शिवशङ्कर. 
+शौनककारिकावली (C. P. Cat. 5898).
 
-C. by सदानन्द. विश्वामित्रस्मृति-vide Sec. 52 p. 529. 
+शौनकगृह्य m. by विश्वरूप, अपरार्क, हेमाद्रि.
 
-विष्णुपूजापद्धति विश्वेश्वरनिबन्ध m. in संस्कारमयूख. 
+शौनकगृह्यपरिशिष्ट m. by अपरार्क (two verses) on p. 525.
 
-विष्णुपूजाविधि by शुकदेव ( Baroda Probably the मदनपारिजात cr | 
+शौनकपञ्चसूत्र.
 
-0. I. No. 5487 said to be सुबोधिनीटीका of विश्वेश्वर. 
+शौनकस्मृति. Vide BBRAS Cat. p. 208 for a large work in verse on पुण्याहवाचन, नान्दीश्राद्ध, स्थालीपाक, ग्रहशान्ति, गर्भाधान and other संस्कारs, उत्सर्जनोपाकर्म, बृहस्पतिशान्ति, मधुपर्क, पिण्डपितृयज्ञ, पार्वणश्राद्ध, आग्रयण, प्रायश्चित्त &c. Mentions आचारस्मृति, प्रयोगपारिजात, बृहस्पति, मनु.
 
-author's copy is dated संवत् विश्वेश्वरपद्धति by विधेश्वर on संन्यासः | 1692 i. e. 1635-36 A. D. ) 
+शौनकी—on the worship of the 9 ग्रहs.
 
-m. in संस्कारमयूख. 
+श्रवणद्वादशीनिर्णय by गोपालदेशिक.
 
-विष्णुप्रतिष्ठापद्धति विश्वेश्वरस्मृति ( Hultzsch R. I. No. विष्णुप्रतिष्ठाविधिदर्पण of नरसिंहसोम 
+श्राद्धकमल m. in श्राद्धकल्पलता of नन्दपण्डित.
 
-69). 
+श्राद्धकला the 5th part of the स्मृतिचन्द्र of भवदेवशर्मन्. Mentions कल्पतरु's definition of श्राद्ध 'पितॄनुद्दिश्य द्रव्यत्यागो ब्राह्मणस्वीकारपर्यन्तम्'. N. vol. I. p. 299.
 
-याजी, son of माधवाचार्य. विश्वेश्वरस्मृतिभास्कर ( Hultzsch R.I. | विष्णुभक्तिचन्द्र m. in निर्णयदीपक. 
+श्राद्धकलिका alias श्राद्धपद्धति of रघुनाथ. He bows to भट्टनारायण. Quotes कालादर्श, धर्मप्रवृत्ति, निर्णयामृत, नारायणवृत्तिकृत्, जयन्तस्वामी, हेमाद्रि, हरदत्त, स्मृतिरत्नावलि. (D. C. Ms. No. 421 of 1891–95).
 
-No 144). 
+श्राद्धकलिकाविवरण of विश्वरूपाचार्य m. in षण्णवतिश्राद्धनिर्णय of शिवभट्ट.
 
-विष्णुभानचन्द्रोदय by नृसिंहारण्य or विश्वेश्वरीपयद्धति ( or यतिधर्मसंग्रह)by | नृसिंहाचार्य in 19 kalas; m. by 
 
-अच्युताश्रम, pupil of चिदानन्दाश्रमः । पुरुषोत्तम in द्रव्यशुद्धिदीपिका. Mentions ज्ञानार्णव. 
+[[P1125]] श्राद्धकल्प (मानव) BBRAS Cat. vol. II p. 177.
 
-Deals with principal वैष्णव 
+(1) (कात्यायनीय also called श्राद्धकल्पसूत्र or नवकण्डिकाश्राद्धसूत्र in 9 chapters followed by 9 श्लोकs on श्राद्ध ceremonies; pr. at Gujarati P. with several com.
 
-fasts, festivals and ceremonies; विश्वेश्वरीस्मृति by अच्युताश्रम. 
+C. प्रयोगपद्धति (N. vol. II p. 174).
 
-Ms. dated संवत् 1496 ( 1440 विषघटिकाजननशान्तिor विषनाडीजनन- | A. D.). Bhandarkar's Report 
+C. (श्राद्धविधिभाष्य) by कर्क (pr. Gujarati P.).
 
-शान्ति ( from वृद्धगाय॑संहिता) on 1 1883-84, p. 76. 
+C. श्राद्धकाशिका of कृष्णमिश्र, son of विष्णुमिश्र, son of अतिसुख, son of नित्यानंद; m. in नि. सि. Refers to कर्क's and हलायुध's com. (pr. by Gujarati P.).
 
-1108 
+C. by गदाधर, son of वामन (Ulwar Cat. 1509 and extract 358); pr. Gujarati P.
 
+C. श्राद्धसूत्रार्थमञ्जरी by गदाधर.
 
+C. by नीलासुर, son of सङ्कर्षण (Ulwar Cat. extract 44).
 
-।। 
+C. by समुद्रकर (m. in तिथितत्त्व p. 174).
 
-विष्णुभक्तिरहस्य m. by रामानन्द. वीरसिंहमित्रोदय (संस्कारप्रकरण ) by विष्णुमूर्तिप्रतिष्ठाविधि by कृष्णदेव, son | रामज्योतिर्विद. 
+C. by हलायुध, son of सङ्कर्षण. Mentions गोविन्दराज and शङ्खधर and is m. by श्राद्धकाशिका. Vide p. 636 above. It appears from the introductory and final verses that the Ms. (BBRAS. Cat. vol. II. p. 170) is the same as the Ulwar Ms. and that नीलासुर is a wrong reading of the original नीलाम्बर which means हलायुध. यजुर्वेदिश्राद्धतत्त्व (Jivananda vol. II. p. 496) expressly mentions the भाष्य of नीलाम्बर on कात्यायन.
 
-of रामाचार्य ( part of a larger | दीसिंहावलोकन or -विलोकन by work called वैष्णवधर्मानुष्ठानपद्धति king वीरसिंह, son of देववर्मन्, or नृसिंहपरिचर्यापद्धति). Ms. 
+(2) a परिशिष्ट of the मानवगृह्य.
 
-son of कमलसिंह of तोमरवंश. _copied in संवत् 1675. 
+(3) गोभिलीय.
 
-On expiations for lapses विष्णुयागपद्धति by अनन्तदेव, son of committed in this life; com. 
+C. by महायशस् (Baroda O. I. 12895).
 
-आपदेव. Sec. 114. Deals with ___posed in संवत् 1439 (1383 A.D.). rites in bonour of Viṣṇu to be Stein's Cat. p. 189. D. C. Ms. performed by one who desires No.85 of 1869-70 is dated संवत् a son. Ulwar Cat. No 1458 : 1572. It says that the work Baroda I. O. 2264 dated संवत् ( which is over 400 folios ) is 1604 which seems to be take. a compendium of आयुर्वेद, ज्योति: 
+(4) मैत्रायणीय.
 
-शास्त्र and धर्मशास्त्र, It borrows विष्णुरहस्य m. by अपरार्क, दानसागर, 
+(5) 44th परिशिष्ट of अथर्ववेद.
 
-from गर्ग, गौतम, शालिहोत्र, मनु, __ कालविवेक of जीमूत. 
+(6) वासिष्ठ.
 
-व्यास, पुराण. The work is also विष्णुश्राद्ध ( part of नारायणबलि in | 
+श्राद्धकल्प.
 
-styled सूर्यारुण. गोभिलगृह्य ). 
+by काशीनाथ.
 
-वृक्षोद्यापन. विष्णुश्राद्धपद्धति alias वीरपूजापद्धति. 
+by भर्तृयज्ञ.
 
-वृत्तरत्नप्रदीपिका by वात्स्यवेदान्तदास विष्णुश्राद्धपद्धति by नारायण, son of on proper time for breaking 
+by वाचस्पति. Also styled पितृभक्तितरङ्गिणी. Vide sec. 101.
 
-रामेश्वर ( Baroda.O. I. 8171). 
+by श्रीदत्त. Also styled छन्दोगश्राद्ध. Vide sec. 90 p. 761. Based on स्मृति, गृह्य, पुराणs and गोपाल and भूप (N. vol. III. p. 34 and II. p. 364).
 
-fast on द्वादशी. विष्णुसमुच्चय m. in अपरार्क, मद. पा. वृत्तशतसंग्रह or वृत्तशतक by महेश्वर, 
+by हेमाद्रि (Peterson's 6th Report p. 11). Refers to चतुर्वर्गचिन्तामणि as his work.
 
-(p. 291). 
+श्राद्धकल्पदीप of होरिलत्रिपाठी.
 
-son of Fire and father of विष्णुस्मृति-Vide विष्णुधर्मसूत्र above. भास्कराचार्य ; m. in नि. सि., 
+श्राद्धकल्पद्रुम.
 
-गोविन्दार्णव.An astrological work. वीरनारसिंहावलोकन Vide वीरसिंहा 
+श्राद्धकल्पना vide (I. O. Cat. p. 558.)
 
-About 1100-1150 A. D. In 11 वलोकन. 
+श्राद्धकल्पभाष्य—vide under गोभिलीयश्राद्धकल्प.
 
-प्रकरणs on यागविधि, नक्षत्रविधि, वीरमित्रोदय, com. on याज्ञवल्क्यस्मृति संस्कार, विवाह, अग्न्याधान, भूप 
+श्राद्धकल्पलता of गोविन्दपण्डित; m. by नन्दपण्डित in his श्राद्धकल्पलता.
 
-by मित्रमिश्र ( 4 parts on आचार 
+श्राद्धकल्पलता by नन्दपण्डित. Vide sec. 110.
 
-विधि, भूपाभिषेक, यात्रा, गोचरविधि, pr. in Chowkhamba S. Series ). 
+श्राद्धकल्पसार by शङ्करभट्ट, son of नारायणभट्ट.
 
-संक्रान्ति, देवप्रतिष्ठा. Baroda o. I. Vide sec. 113. 
+C. by author. Vide Stein's Cat. pp. 105, 316.
 
-No. 8173. वीरमित्रोदय by मित्रमिश्र- A digest | वृद्धगौतमसंहिता pr. in Jivananda 
+श्राद्धकल्पसूत्र—vide श्राद्धकल्प (कात्यायनीय) above.
+[[P1126]] श्राद्धकल्पसूत्र or नवकण्डिकासूत्र 6th परिशिष्ट of कात्यायन; vide नवकण्डिकासूत्र.
 
-divided into प्रकाश •n व्यवहार | Sm. part II pp. 497-638. ( pr. by Jivananda), परिभाषा, 
+श्राद्धकाण्ड from the प्रयोगपारिजात of नृसिंह.
 
-वृद्धपाराशरीसंहिता ( in 12 chapters.) आह्निक, तीर्थ, पूजा, राजनीति, लक्षण, 
+श्राद्धकाण्ड by भट्टोजि.
 
-___Vide बृहत्पराशरसंहिता pp. 465-66 शुद्धि, समय ( the frist six pr... 
+श्राद्धकाण्ड by वैद्यनाथ दीक्षित, part of स्मृतिमुक्ताफल.
 
-above. in Ch. S. Series). Vide sec. 113. 
+श्राद्धकाण्डसंग्रह by वैद्यनाथ probably the same as श्राद्धकाण्ड above.
 
-वृद्धशातातपस्मृति- pr in Anan. Sm. वीरशैवधर्मनिर्णय. 
+श्राद्धकारिका Ulwar Cat. No. 1496 and extract 354.
 
-pp. 232-235. 
+श्राद्धकारिका by केशवजीवानन्दशर्मा.
 
-List of works on Dharmaśāstra 
+श्राद्धकार्यनिर्णयसंक्षेप.
 
-1109 
+श्राद्धकालनिरूपण by मधुसूदन वाचस्पति.
 
-वृद्धहारीतस्मृति (pr. Jivananda Sm. | वृषोत्सर्गविधि by मधुसूदन गोस्वामी. 
+श्राद्धकालनिर्णय.
 
-part I. pp. 194-409 and Anan. 2 वषोत्सर्गादिपद्धति of कात्यायन in 307 Sm. pp. 236-356). 
+श्राद्धकाशिका by कृष्ण, son of विष्णुमिश्र, son of अतिसुख, son of नित्यानन्द (pr. in Gujarati Press ed. of पारस्करगृह्य). Mentions कर्क, धर्मप्रदीप, हलायुध and is m. by नन्दपण्डित in श्राद्धकल्पलता and श्राद्धमयूख. Between 1300–1500 A. D.
 
-verses. Baroda O I. Ms. 9470 वृद्धात्रिस्मृति pr. in Jivananda Sm. 
+श्राद्धकृत्यप्रदीप by होलिल. Ulwar Cat. extract 355 gives summary of contents.
 
-___is dated संवत् 1592. part I. pp. 47–59. 
+श्राद्धकौमुदी or श्राद्धक्रियाकौमुदी of गोविन्दानन्द. Vide sec. 106; pr. in B. I. Series.
 
-वेगराजसंहिता by वेगराज in 1559 
+श्राद्धक्रम by याज्ञिकदेव, son of महादेव.
 
-संवत् (रन्ध्रेषुबाणशशि) i. e. 1503 वृद्धिश्राद्ध. 
+श्राद्धखण्ड—from प्रयोगपारिजात of नृसिंह.
 
-A. D. वृद्धिश्राद्धदीपिका by अनन्तदेव, son of | वेणी Directions for worshipping 
+श्राद्धगणपति or श्राद्धसंग्रह of रामकृष्ण, son of कोण्डभट्ट (C. P. Cat. No. 5921). Vide श्राद्धसंग्रह below.
 
-उद्धव. 
+श्राद्धचन्द्रिका.
 
-वरुण before starting on a jour वृद्धिश्राद्धपद्धति by अनन्तदेव son of ___ney. Bik. Cat. p. 492. 
+(1) by दिवाकर, son of महादेव, son of बालकृष्ण of the भारद्वाजगोत्र. Part of his धर्मशास्त्रसुधानिधि. An अनुक्रमणी to it was prepared by his son वैद्यनाथ. Vide under आचारार्क. About 1680 A. D.
 
-उद्धवद्विवेदिन् at Benares. वेणुगोपालप्रतिष्ठा. वृद्धिश्राद्धप्रयोग by नारायणभट्ट (part | | वेदव्यासस्मृति- pr. Anan, Sm. pp. 
+(2) by नन्दन.
 
-of प्रयोगरत्न). 
+(3) by रामचन्द्रभट्ट.
 
-357-371. वृद्धिश्राद्ध विधि by करुणाशङ्कर. 
+(4) by रुद्रधर, pupil of चण्डेश्वर. Quotes वर्धमान's definition of श्राद्ध 'संबन्धपदोपनीतान् पितॄनुद्दिश्य द्रव्यत्यागः श्राद्धम्.' [[No.|N.]] vol. VIII p. 270.
 
-वेदव्रत. वृद्धिश्राद्धविनिर्णय (माध्यान्दिनीय) by | 
+(5) by श्रीनाथ आचार्यचूडामणि, son of श्रीकराचार्य; m. in यजुर्वेदिश्राद्धतत्त्व p. 493 as his teacher's work, which criticizes श्रीदत्त. 1475–1525 A. D.
 
-| वेदानध्याय On the holidays as to 
+श्राद्धचन्द्रिकाप्रकाश—same as श्राद्धचन्द्रिका by दिवाकर.
 
-___Vedic studies. अनन्तदेव, son of उद्धव (Baroda | 0. I. 10464). 
+श्राद्धचिन्तामणि by वाचस्पतिमिश्र; pr. at Benares in *śake* 1814. Vide sec. 101.
 
-वैखानसधर्मप्रश्न Vide sec. 15. वृन्दावनपद्धति for followers of the 
+C. भावदीपिका by महामहोपाध्याय वामदेव (N. vol. V. 165.)
 
-___C. by नृसिंहवाजपेयी, son of वल्लभाचार्य sect. 
+श्राद्धचिन्तामणि by शिवराम, son of श्रीविश्राम शुक्ल. Styled प्रयोगपद्धति or सुबोधिनी; summarises section on श्राद्ध in his कृत्यचिन्तामणि (vide I. O. Cat. p. 538).
 
-माधवाचार्य (on 2 out of 3 प्रश्न 
+श्राद्धतत्त्व by रघु०. Vide sec. 107; pr. by Jivananda.
 
-only found yet). वृषभदान. 
+[[P1127]] C. विवृति by काशीराम वाचस्पति, son of राधावल्लभ (pr. in Bengali characters at Calcutta).
 
-वैखानसमन्त्रप्रश्न (containing the वृषभोत्सर्गः 
+C. भावार्थदीपिका by गङ्गाधरचक्रवर्ती.
 
-मन्त्रs required in the वैखानस वृषोत्सर्गकौमुदी by रामकृष्ण. 
+C. श्राद्धतत्त्वादर्श by विष्णुरामसिद्धान्तवागीश, son of जयदेवविद्यावागीश. He commented on प्रायश्चित्ततत्त्व also.
 
-स्मार्तसूत्र); in 8 प्रश्नs (4 प्रश्नs pr. वृषोत्सर्गतत्व by रघु०. He wrote one | 
+श्राद्धतिलक m. in विधानपारिजात.
 
-at Kumbhakonam in 1910). for each of ऋग्वेद, यजुर्वेद, सामवेदः | वैखानससंहिता m. by कालमाधवीय, वृषोत्सर्गपद्धति ascribed to शौनक नि.सि., समयमयूख. 
+श्राद्धदर्पण of जयकृष्णतर्कवागीश; criticizes कल्पतरु. Also styled श्राद्धदीप or -प्रदीप.
 
-with reference to कातीयशाखा. वैखानससूत्र दर्पण by नृसिंह, son of वृषोत्सर्गपद्धति by नारायण, son of __ माधवाचार्य वाजपेययाजिन्. Hand 
+श्राद्धदर्पण of मधुसूदन.
 
-रामेश्वर. 
+श्राद्धदीधिति of कृष्णभट्ट.
 
-book of domestic rites according वृषोत्सर्गपरिशिष्ट 
+श्राद्धदीप m. by विधानपारिजात.
 
-to वैखानसगृह्य, pr. at Ellore1915. वृषोत्सर्गप्रयोग (वाचस्पतिसंमत) for 
+श्राद्धदीप by जयकृष्णभट्टाचार्य (also called ०प्रदीप). N. vol. X 107. Refutes कल्पतरु.
 
-वैखानससूत्रानुक्रमदीपिका of वेङ्कट 
+श्राद्धदीप by दिव्यसिंह महापात्र.
 
-| योगिन्, son of कोण्डपाचार्य. यजुर्वेद students (बौधायनीय). वृषोत्सर्गप्रयोग by अनन्तभट्ट, son of 
+श्राद्धदीपकलिका of शूलपाणि; m. in नि. सि., विधानपारिजात.
 
-वैखानसस्मार्तसूत्र in 10 प्रभा (7 of 
+श्राद्धदीपिका by काशीदीक्षित याज्ञिक, son of सदाशिवदीक्षित; based on कात्यायनसूत्र and कर्कभाष्य.
 
-गृह्य and 3 of धर्म) pr. at Kum नागदेव. Also called नीलवृ०. 
+श्राद्धदीपिका of गोविन्दपण्डित; m. in श्राद्धकल्पलता of नन्दपण्डित.
 
-bhakonam 1914 and by Dr. वृषोत्सर्गप्रयोग (छन्दोग) attributed to | 
+श्राद्धदीपिका by वेदाङ्गराय, formerly मालजित्, son of तिगुलाभट्ट, son of रत्नभट्ट of श्रीस्थल in Gujerat. He wrote पारसीप्रकाश in 1643 A. D. for Emperor Shah Jehan.
 
-Caland in B. I. Series with 
+श्राद्धदीपिका by श्रीनाथआचार्यचूडामणि, son of श्रीकराचार्य. For सामवेद followers; m. by रघु० in यजुर्वेदिश्राद्धतत्त्व. 1475–1525 A. D.
 
-English translation (1927 text, वृषोत्सर्गभाष्य Stein's Cat. p. 104. | 1929). 
+श्राद्धदीपिका by श्रीभीम who is described as काञ्जिविल्लीय (a राढीय ब्राह्मण) for सामवेद followers. N. (new series) vol. I. p. 379.
 
-रघु. 
+श्राद्धदीपिकानिर्णय.
 
-1110 
+श्राद्धदेवतानिर्णय.
 
+श्राद्धद्वासप्ततिकलाः.
 
+श्राद्धनवकण्डिकासूत्र—Vide श्राद्धकल्प (कात्यायनीय) above.
 
-C. by नृसिंह वाजपयी, son of | वैष्णवप्रक्रिया by वेदचूडालक्ष्मण. Men 
+श्राद्धनिरूपण (Ulwar Cat. 1501).
 
-माधवाचार्य 
+श्राद्धनिर्णय of उमापति m. in श्राद्धकल्पलता of नन्दपण्डित.
 
-tions विज्ञानेश्वर, नि. सि, सुधीवि वैजयन्ती, com. on विष्णुधर्मसूत्र by | लोचन. 
+श्राद्धनिर्णय of चन्द्रचूड.
 
-नन्दपण्डित composed in 1623 A. 
+श्राद्धनिर्णय of शिवभट्ट.
 
-वैष्णवलक्षण by कृष्णताताचार्यः D. (pub. Adyar Library Series 
+श्राद्धनिर्णय of सुदर्शन.
 
-वैष्णववर्षकृत्य (Baroda O. I. 8133). in 1960). Vide sec. 110. 
+श्राद्धनिर्णयदीपिका by तिरुमलकवि of पराशरगोत्र. Mentions कालादर्श.
 
-वैष्णवसदाचारनिर्णय. वैतरणीदान (on gift of a black cow to secure for the soul of a 
+श्राद्धनृसिंह of नृसिंह (Cal. S. Col. Mss. Cat. vol. II p. 392).
 
-वैष्णवसर्वस्व of हलायुध m. in his deceased person a safe passage 
+श्राद्धपङ्क्ति m. by वाचस्पतिमिश्र's द्वैतनिर्णय (Oxf. Cat. p. 273 b).
 
-ब्राह्मणसर्वस्व. over the Vaitaraṇi river in वैष्णवसिद्धान्तदीपिका by रामचन्द्र, son hell). 
+श्राद्धपञ्जी m. in श्राद्धविवेक of रुद्रधर. Earlier than 1400 A. D.
 
-of कृष्ण, son of नृहरि. वैतरणीदानप्रयोग-Stein's Cat. p. 104. 
+श्राद्धपद्धति आश्वलायनीय.
 
-C. by विठ्ठल, son of नृसिंह, son of वैदिकप्रक्रिया 
+श्राद्धपद्धति-पञ्चत्रिंशच्छ्लोकी.
 
-रामचन्द्र (the author). वैदिकविजयध्वज. 
+श्राद्धपद्धति by अग्निहोत्रिराम (Ulwar Cat. No. 1503).
 
-वैष्णवाचारसंग्रह. वैदिकाचारनिर्णय by सच्चिदानन्द. 
+श्राद्धपद्धति by क्षेमराज, son of कुलमणि, son of लोकमणि, son of बाबूलक्ष्मीकान्त of Kanoj; Ms. (I. O. Cat. p. 559) copied in संवत् 1805 (1748–49 A. D.).
 
-वैष्णवामृत m. in आह्निकतत्त्व by रघु० वैद्यनाथसंग्रह. 
+श्राद्धपद्धति by गोविन्दपण्डित, son of रामपण्डित.
 
-_and in नि.सि. वैद्यनाथीय. Vide स्मृतिमुक्ताफल. 
+श्राद्धपद्धति by दयाशङ्कर.
 
-वैष्णवामृत by भोलानाथ. N. vol. VI. 
+[[P1128]] श्राद्धपद्धति by दामोदर.
 
-_pp. 185-86. वैशम्पायननीतिसंग्रह- Vide under 
+श्राद्धपद्धति by नारायणभट्ट आरडे (Baroda O. I. 338).
 
-नीतिप्रकाश or :प्रकाशिका. 
+श्राद्धपद्धति by नीलकण्ठ mentioned in श्राद्धमयूख.
 
-वैष्णवाहिक (Baroda O. I. 10543). वैशम्पायनस्मृति m. by मिताक्षरा (या. 
+श्राद्धपद्धति by पशुपति, elder brother of हलायुध, who mentions it in ब्राह्मणसर्वस्व.
 
-वैष्णवोपयोगिनिर्णय. D. C. Ms. No. ___ III. 326), अपरार्कः 
+C. by हलायुध.
 
-160 of 1884-86 is dated संवत् वैष्णवचन्द्रिका by रामानन्द न्याय 
+श्राद्धपद्धति by रघुनाथ, son of माधव. Also called दर्शश्राद्धपद्धति. Based on हेमाद्रि's work. He was a *nephew* of नारायणभट्ट.
 
-1732 (1675-76 A. D.). It men 
+श्राद्धपद्धति by विश्वनाथभट्ट.
 
-tions प्रह्लादसंहिता, रामार्चनचन्द्रिका, वागीश. 
+श्राद्धपद्धति of शङ्कर, son of रत्नाकर of the शाण्डिल्यगोत्र.
 
-It supports the marking of the वैष्णवदीक्षापद्धति. 
+श्राद्धपद्धति by हेमाद्रि. Refers to his चतुर्वर्गचिन्तामणि. Stein's Cat. pp. 316–17.
 
-body with 4 by citing verses वैष्णवधर्मखण्डन (Baroda O. I. 1741) 
+श्राद्धपल्लव m. in श्राद्धविवेक of रुद्रधर and टोडरानन्द (श्राद्धसौख्य).
 
-from कठशाखा and अथर्ववेद against पुण्ड्धारण &c.. 
+श्राद्धपारिजात m. by केशव in द्वैतपरिशिष्ट (द्वैतनिर्णयपरिशिष्ट).
 
-(एभिर्वयमुरुतमस्य चिरैरकिता लोके वैष्णवधर्मपद्धति of कृष्णदेव. 
+श्राद्धप्रकरण by नरोत्तमदेव.
 
-सुभगा भवेम।) वैष्णवधर्ममीमांसा by अनन्तराम. 
+श्राद्धप्रकरण by लोल्लट (Ms. in Ānandāśrama collection at Poona). Quotes मेधातिथि. Between 900–1100 A. D. as लोल्लट is mentioned in स्मृत्यर्थसार.
 
-व्यतिषङ्गनिर्णय by रघुनाथभट्टः वैष्णवधर्मशास्त्र in 109 verses divided into five chapters on संस्कार, 
+श्राद्धप्रकाश m. in नि. सि.
 
-व्यतीपातजननशान्ति by कमलाकरभट्ट गृहिधर्म, आश्रम, पारिवाज्य, राज 
+श्राद्धप्रकीर्णकारिका.
 
-| व्यतीपातप्रकरण. धर्मः 
+श्राद्धप्रदीप.
 
-व्यतीपातव्रतकल्प. वैष्णवधर्मसुरगममञ्जरी by सङ्कर्षण- | व्यवस्थादर्पण by मानन्दशर्मा, son of 
+श्राद्धप्रदीप by कृष्णमित्राचार्य.
 
-शरण, a follower of केशवकाश्मीरी, 
+श्राद्धप्रदीप by धनराम, son of गोवर्धन (Baroda O. I. 9971); not later than 1750 A. D.
 
-रामशर्मा. On points of स्मृति rites who was a follower of निम्बार्क. 
+श्राद्धप्रदीप by प्रद्युम्नशर्मा, son of श्रीधरशर्मन्; Ms. dated शके 1448 (1526 A. D.). The author is described as having jurisdiction over श्रीहट्टदेशीयहाकादिही (probably as धर्माधिकारि). Vide N. (new series) vol. I. pp. 380–81.
 
-and rules, such as fafueray, वैष्णवधर्मानुष्ठानपद्धति by कृष्णदेव, son मलमास, संक्रान्ति, आशौच, श्राद्ध, 
+श्राद्धप्रदीप by मदनमनोहर महामहोपाध्याय, son of मधुसूदन. For students of यजुर्वेद (N. vol. VI. p. 299).
 
-of रामाचार्य 
+श्राद्धप्रदीप by रुद्रधर (C. P. Cat. 5939). Probably the same as श्राद्धचन्द्रिका or श्राद्धविवेक.
 
-दायानधिकारि, दायविभाग. N. vol. वैष्णवनिर्णय Ulwar Cat. No. 1466. | VIII. p. 211,List of works on Dharmaśāstra 
+श्राद्धप्रदीप by वर्धमान m. in श्राद्धतत्त्व of रघु०.
 
+श्राद्धप्रदीप by शङ्करमिश्र, son of भवनाथसन्मिश्र; m. in श्राद्धविवेक of रुद्रधर, श्राद्धक्रियाकौमुदी, श्राद्धतत्त्व of रघु० (N. vol. VII. p. 191). He was *guru* of वर्धमान.
 
+श्राद्धप्रभा by रामकृष्ण.
 
-व्यवस्थादीपिका by राधानाथशर्मा. N. व्यवस्थासारसंग्रह by महेश. Probably 
+C.
 
-vol. X. p. 84 is confined only | same as व्यवस्थासंग्रह. to माशौच. 
+श्राद्धप्रयोग.
 
-व्यवस्थासारसंग्रह by रामगोविन्दचक्र व्यवस्थानिर्णय. Ano. on तिथि, | 
+,, आपस्तम्बीय.
 
-वर्ती, son of मुकुन्द, on तिथि, संक्रान्ति, आशौच, द्रव्यशुद्धि, प्राय 
+,, बौधायनीय.
 
-संक्रान्ति, अन्त्येष्टि, आशौच etc. श्चित्त, विवाह, दाय. 
+,, भारद्वाजीय.
 
-Vide N. vol. IV. pp. 289-291; 
+,, मैत्रायणीय.
 
-व्यवस्थाप्रकाश. 
+,, सत्याषाढ.
 
-N. ( new series) I. p. 349 व्यवस्थारत्नमाला by लक्ष्मीनारायण- | 
+,, आश्वलायनीय by कमलाकर.
 
-describes him as the son of न्यायालङ्कार, son of गदाधर. In | 
+श्राद्धप्रयोग ,, by रामभट्ट, son of विश्वनाथ.
 
-रामगोपाल of चट्टवंश ten गुच्छs on दायभाग, स्त्रीधन, 
+श्राद्धप्रयोग by गोपालसूरि. Mentions प्रयोगदर्पण, वैद्यनाथीयनिबन्ध, सुधीविलोचन.
+[[P1129]] श्राद्धप्रयोग by दयाशङ्कर.
 
-व्यवस्थासेतु by ईश्वरचन्द्रशमन्; Ms. दत्तकव्यवस्था; mentions मिताक्षरा 
+श्राद्धप्रयोग by नारायणभट्ट. A part of his प्रयोगरत्न.
 
-copied in take 1741 ( 1819-20 and विधानमाला. 
+श्राद्धप्रयोगचिन्तामणि of अनूपसिंह.
 
-A. D.). व्यवस्थार्णव Ano. 
+श्राद्धप्रयोगपद्धति (कात्यायनीया) by काशीदीक्षित.
 
-व्यवहारकमलाकर, by कमलाकर son व्यवस्थार्णव of रघुनन्दन (on pre- | of रामकृष्ण (7th section of धर्म 
+श्राद्धप्रशंसा.
 
-emption). 
+श्राद्धब्राह्मण.
 
-तत्त्व). व्यवस्थार्णव of रघुनाथ, at order of 
+श्राद्धभास्करप्रयोगपद्धति.
 
-व्यवहारकल्पतरु by लक्ष्मीधर (portion 
+श्राद्धमञ्जरी m. in नि. सि. and शुद्धिविवेक of रुद्रधर.
 
-of कल्पतरु). Vide sec. 78. king रायराघवः 
+श्राद्धमञ्जरी by बापूभट्ट केळकर, residing at फणशी in Rajapur Taluka of Ratnagiri District *śake* 1732 (1810 A. D.); pr. in Ānan. P.
 
-व्यवहारकाण्ड व्यवस्थार्णव of रामभद्र. Vide under 
+श्राद्धमञ्जरी by मुकुन्दलाल.
 
-व्यवहारकोश by वर्धमान. A part ok स्मृतितत्वविनिर्णय. 
+श्राद्धमन्त्रव्याख्या from the ब्राह्मणसर्वस्व of हलायुध. Ulwar Cat. extract 356.
 
-his तत्त्वामृतसारोद्धार on judicial व्यवस्थासंक्षेप by गणेशभट्ट. 
+श्राद्धमयूख of नीलकण्ठ. Vide sec. 112. pr. by J. R. Gharpure.
 
-procedure and civil and crimi व्यवस्थासंग्रह by गणेशभट्ट. Gives nal law composed under राम, 
+श्राद्धमीमांसा by नन्दपण्डित.
 
-decisions on प्रायश्चित्त, inheri- king of Aftat. Latter half of tance etc. 
+श्राद्धरत्न by लक्ष्मीपति, pupil of इन्द्रपति, for followers of सामवेद and शुक्लयजुर्वेद. Relies upon श्रीदत्त.
 
-15th century. व्यवस्थासंग्रह by महेश. On definite | व्यवहारकौमुदी by सिद्धान्तवागीशमहा 
+श्राद्धरत्नमहोदधि by विष्णुशर्मन्, son of यज्ञदत्त. Mentioned in his श्राद्धाङ्गभास्कर.
 
-conclusions about आशौच, सपि- चार्य. (Baroda 0. I. 10105 dated ण्डीकरण, संक्रान्तिविधि, दुर्गोत्सव, sake 1535). जन्माष्टमी, आहिक, देवप्रतिष्ठा, दिव्य, | व्यवहारचण्डेश्वर m. in संस्कारमयूख. दायभाग, प्रायश्चित्त. Based on रघु०. 
+श्राद्धरहस्य m. by रामनाथ in स्मृतिरत्नावलि.
 
-व्यवहारचन्द्रोदय ( part of कीर्तिचन्द्रो व्यवस्थासार by नारायणशर्मन् ( I. O. दय, on judicial procedure and 
+श्राद्धवचनसंग्रह.
 
-Cat. p. 452 ) on आह्निक, आशौच, the विवादपद). तिथि, दत्तपुत्र, विवाह, श्राद्ध. Differ 
+श्राद्धवमनप्रायश्चित्त.
 
-| व्यवहारचमत्कार by रूपनारायण, son ent from next. 
+श्राद्धवर्णन by हरिराम.
 
-of भवानीदास, son of नायमल्ल, न्यवस्थासारसंग्रह by नारायणशर्मन् । composed in संवत् 1637 ( 1580 
+श्राद्धवसिष्ठ m. in सं. कौ. Same as वसिष्ठश्राद्धकल्प.
 
-On law of inheritance. This is 81) in 13 प्रकरणs (in D.C. Ms. also called व्यवस्थासारसञ्चय. __No 199 of A 1883-84 and 14 Vide N. vol. III. pp. 126-127 in Mitra's Notices vol. V. p. 91, and I. O. Cat. p. 453 which which splits are into two ); shows that the work embraced on astrology in connection with भाशौच, दायभाग and श्राद्ध. गर्भाधान, पुंसवन, सीमन्तोनयन and 
+श्राद्धविधि.
 
+कोकिलोक्त; Vide D. C. Ms. No. 223 of 1879–80; mentions स्कन्दपुराण, कात्यायन, आपस्तम्ब, सुमन्तु, शातातप, याज्ञवल्क्य, on वृद्धिश्राद्ध, गणाधिपपूजा, मातृपूजा, other श्राद्धs.
 
+छन्दोग (माध्यन्दिन) by ढोण्ढु. Vide BBRAS. Cat. p. 236 No. 236; refers to कर्क, कल्पतरु, श्रीकण्ठउपाध्याय, हलायुधीय, श्राद्धभाष्य. Between 1200–1500 A. D.
 
-the other संस्कार, विवाह, यात्रा, स्तत्त्व and तिथितत्त्व of रघु०. Pro 
+श्राद्धविधिसंक्षेप.
 
-मलमासनिर्णय. 
+श्राद्धविभक्ति on the point when the genitive, objective, dative and vocative are to be used in श्राद्ध. N. vol. X. p. 347.
 
-bably astrological as bearing व्यवहारचिन्तामणि by वाचस्पति. Vide | on धर्मशास्त्र. 
+श्राद्धविवेक by ढोढ्ढमिश्र, son of प्राणकृष्ण. Peterson's 2nd Report p. 188.
 
-above p. 846; on भाषा, उत्तर, व्यवहारपदन्यास. ( Vide Tri. Cat. of 
+श्राद्धविवेक by रुद्रधर, son of लक्ष्मीधर. Vide sec. 99; pr. at Benares.
 
-fast and fautz. N. III. p. 34. Madras Govt. Mss. for 1919-22 व्यवहारतत्त्व by नीलकण्ठ, son of ! vol. IV p. 4836). Breaks off 
+श्राद्धविवेक by शूलपाणि sec. 98; pr. in Calcutta by M. M. Madhusudan Smṛtiratna.
 
-शङ्करभट्ट. Sec. 112. 
+C. टिप्पणी by अच्युतचक्रवर्तिन्; m. in his दायभागटीका.
 
-in the midst of 8th topic (भाषा व्यवहारतत्त्व by रघुनन्दन. Vide sec. निरूपण), the other seven being 
+C. अर्थकौमुदी by गोविन्दानन्द; sec. 106.
 
-107. 
+C. भावार्थदीप by जगदीश.
 
-व्यवहारावलोकनधर्म, प्राविवाकधर्म, व्यवहारतत्वालोक-vide व्यवहारालोक. सभालक्षण, सभ्यलक्षण, सभ्योपदेश, व्यवहारतिलक by भवदेवभट्ट. Vide | व्यवहारस्वरूप, विचारविधि. 
+C. by श्रीकृष्ण; pr. at Calcutta in Bengali characters 1800 A. D.
 
-sec. 74 pp. 639 -40. 
+C. by नीलकण्ठ.
 
-व्यवहारपरिभाषा by हरिदत्तमिश्र. व्यवहारदर्पण by अनन्तदेव याज्ञिक. On | व्यवहारपरिशिष्ट. 
+C. by श्रीनाथ आचार्यचूडामणि, son [[on|of]] श्रीकर. N. (new series) vol. I pp. 381–382; shows that श्रीनाथ only elaborated what his father said.
+[[P1130]] C. श्राद्धादिविवेककौमुदी by महामहोपाध्याय रामकृष्णन्यायालङ्कार N. vol. X. p. 119.
 
-meaning of व्यवहार, plaint, | व्यवहारप्रकाश by पृथ्वीचन्द्र ( part of reply, means of proof, witness. धर्मतत्त्वकलानिधि, pr. in Bharatiya es, documents, possession, Vidyā Series ). Vide sec. 102. judgment. 
+श्राद्धविवेकसंग्रह.
 
-ब्यवहारप्रकाश by मित्र मिश्र (part of व्यवहारदर्पण by रामकृष्णभट्ट. On राज वीरमित्रोदय ). pr. Ch. S. Series. 
+श्राद्धवृत्तिप्रकरण.
 
-धर्म, भाषा, उत्तर, प्रत्यवस्कन्दन, । 
+श्राद्धव्यवस्था.
 
-___ Vide sec. 113. प्राइन्याय, साक्षि, लिखित, भुक्ति, व्यवहारप्रकाश by शरभोजी (king of 
+श्राद्धव्यवस्थासंक्षेप of चिन्तामणि. Vide शुद्धिव्यवस्थासंक्षेप.
 
-जयपत्र. 
+श्राद्धषोडशविधि—Ulwar Cat. No. 1508 and extract 357.
 
-Tanjore 1798-1833 A. D.). व्यवहारदशश्लोकी or दायदशक by व्यवहारप्रकाश by हरिराम. 
+श्राद्धसंकलन.
 
-श्रीधरभट्ट. 
+श्राद्धसंकल्प—from प्रयोगपारिजात of रघुनाथ.
 
-व्यवहारप्रदीप by कल्याणवर्मा व्यवहारदीधिति (part of राजधर्मः । व्यवहारप्रदीप by कृष्ण. On astrology 
+श्राद्धसंकल्पविधि.
 
-कौस्तुभ). 
+श्राद्धसंग्रह.
 
-applied to धर्मशास्त्र. ( Hp. Cat. 
+(1) m. in the स्मृतिचन्द्रिका. Earlier than 1200 A. D.
 
-pp. xx and 253) m. in दिव्य व्यवहारदीपिका m. by रघु० in दिव्य 
+(2) of रामकृष्ण, son of कोण्डभट्ट, son of प्रयागभट्ट. Based upon कात्यायन's श्राद्धकल्पसूत्र. He wrote संस्कारगणपति on कातीयगृह्यसूत्र. Composed at Benares in *śake* 1673 (त्रिनगभूपाख्ये) i. e. 1751 A. D. Vide I. O. Cat. pp. 560–61, No. 1738. I. O. Cat. p. 562 gives the date as शके गगनाङ्गा (ङ्का?) ङ्गभूमिते (1670–1690) and 1826 of विक्रम (i. e. 1770 A. D.) which is probably the date of copying. Mentions कर्क, हलायुध, गदाधर's भाष्य on कातीयगृहकृत्यसूत्र, काशिका and दीपिका.
 
-तत्त्व by रघु०. ___ तत्त्व on ordeals. 
+श्राद्धसमुच्चय.
 
-व्यवहारप्रदीप by पद्मनाभमिश्र. On व्यवहारनिर्णय (गौड) m. in शूद 
+श्राद्धसागर.
 
-judicial procedure. कमलाकर. 
+(1) by कुम्भकभट्ट (?). [[is|Is]] it a misreading for कुल्लक or कुल्लूकभट्ट?
 
-व्यवहारप्रदीपिका m. by वर्धमान. व्यवहारनिर्णय by मयाराममिश्रगोड 
+(2) by कुल्लूकभट्ट. Vide sec. 89 p. 758.
 
-व्यवहारमयूख by नीलकण्ठ. Vide see. residing at Benares by order 
+(3) नारायण आरड m. in his गृहाग्निसागर q. v. Later than 1650 A. D.
 
-112 (pr. by the Bhandarkar of जयसिंह. On judicial proce- 0. R. Institute, Poona, by J. R. dure and the व्यवहारपदs. D. C. 
+श्राद्धसार.
 
-Gharpure, Bombay and by V. Ms. 140 of 1892-95 copied in N. Mandlik). 
+(1) part of नृसिंहप्रसाद; m. in विधानपारिजात; ed. by Pandit Vidyadhara Misra in Prince of Wales Series.
 
-संवत् 1885 ( 1798-99 A. D.). | व्यवहारमातृका or न्यायमातृका of व्यवहारनिर्णय by वरदराज; m. in स. जीमूतवाहन Vide sec. 79 p. 702. वि., नि. सि.; composed about व्यवहारमाधव- (the third part of 1500 (tr. into English by | पराशरमाधवीय). Burnell). 
+(2) by कमलाकर.
 
-व्यवहारमाला by वरदराज. 18th cen ग्यवहारनिर्णय by श्रीपति m. in ज्योति-I tury. Much used in Malabar. 
+श्राद्धसौख्य—part of टोडरानन्द. Vide sec. 109.
 
-List of works on Dharmaśāstra 
+श्राद्धहेमाद्रि—the श्राद्ध section of the चतुर्वर्गचिन्तामणि.
 
-1113 
+श्राद्धाङ्गतर्पणनिर्णय by रामकृष्ण (Baroda O. I. 303).
 
-व्यवहारमालिका (Baroda 0. I. 6373). / व्यवहारादर्श by चक्रपाणिमिश्र; D. C. व्यवहाररत्न by भानुनाथदैवज्ञ, son of | Ms. No. 247 of 1887-91 deals 
+श्राद्धाङ्गभास्कर by विष्णुशर्मन्, son of यज्ञदत्त, who became a संन्यासिन् and was styled अनुभूतिस्वरूप; based on कर्क; for माध्यान्दिनशाखा (Ulwar Cat. extract 359.)
 
-चन्दनानन्द of the भौमालवंश. with भोजनविधि, अभोज्यान (Ms. व्यवहाररत्नाकर by चण्डेश्वर. Sec. 91 is incomplete) 
+श्राद्धादर्श by महेश्वरमिश्र.
 
-p. 766. 
+श्राद्धादिविधि.
 
-व्यवहारार्थसार by मधुसूदन. Same as व्यवहाररत्नावली. 
+श्राद्धादिविवेककौमुदी by रामकृष्ण.
 
-व्यवहारसारोद्धार. व्यवहारशिरोमणि of नारायण, pupil of 
+श्राद्धाधिकार by विष्णुदत्त.
 
-व्यवहारार्थस्मृतिसारसमुच्चय by शर विज्ञानेश्वर; vide pp. 615-16. 
+श्राद्धाधिकारिनिर्णय by गोपालन्यायपञ्चानन (N. vol. III p. 60).
 
-भोजी (king of Tanjore 1798 Vide Tri. Cat. of Madras Govt, 
+श्राद्धानुक्रमणिका.
 
-1833 A. D.). Probably same as Mss. vol. III. part I C. p. 3938 
+श्राद्धापरार्क.
 
-व्यवहारप्रकाश above. No. 2750. 
+श्राद्धालोक m. in आचाररत्न of लक्ष्मण. Earlier than 1600 A. D.
 
-व्यवहारालोक by गोपालसिद्धान्तवागीश. व्यवहारसमुच्चय by हरिगण. 
+श्राद्धाशौचीयदर्पण by देवराज.
+[[P1131]] श्राद्धेन्दु. Ano. (N. vol. V. p. 96.)
 
-| व्यवहारोच्चय by सुरेश्वर उपाध्याय; m. व्यवहारसमुच्चय m. in देवप्रतिष्ठातत्त्व by टोडरानन्द, नि.सि., गोविन्दार्णव, 
+श्राद्धेन्दुशेखर by नागोजिभट्ट surnamed Kāla. Sec. 115.
 
-by रघु०, and in नि. सि. 
+श्राद्धोद्योत m. in वर्धमान's गङ्गाकृत्यविवेक. It is probably a portion of मदनरत्न.
 
-स्मृतिकौस्तुभ. Earlier than 1500 
+श्राद्धोपयोगिवचन by अनन्तभट्ट.
 
-A. D. व्यवहारसर्वस्व by सर्वेश्वर, son of 
+श्रावणकर्मसर्पबलिप्रयोग—a गृह्य rite.
 
-विश्वेश्वरदीक्षित, on व्यवहार i. e. | 
+श्रावणद्वादशी.
 
-व्याघ्रस्मृति or व्याघ्रपादस्मृति m. in judicial procedure etc. 
+श्रावणी (आश्वलायनीय).
 
-मिताक्षरा (on या. 3. 30), अपरार्क, 
+,, (काण्वशाखीय).
 
-हरदत्त. व्यवहारसार by मयाराममिश्र. 
+श्रावणीकर्म (वाजसनेय).
 
-व्यासस्मृति Vide sec. 53; pr. in व्यवहारसार m. in नि. सि. and | 
+,, (हिरण्यकेशि) by गोपीनाथ दीक्षित.
 
-Jivananda Sm. II. pp. 321-342 निर्णयदीपक. 
+श्रावणीप्रयोग by कमलाकर.
 
-and Anan. Sm. pp. 357-371 व्यवहारसारसंग्रह by नारायणशर्मा. (about 248 verses). व्यवहारसारसंग्रह by रामनाथ. N. 
+श्रावणीहोमपद्धति (आश्वलायनीय).
 
-C. by कृष्णनाथ. (new series) vol. III. p. 192. 
+श्रावणोत्सर्गकर्म.
 
-व्रजतत्त्व. व्यवहारसारोद्धार by मधुसूदन गोस्वामी 
+श्रीआह्निक.
 
-composed under Ranjit Singh व्रजपद्धति. 
+श्रीकरनिबन्ध m. in स्मृतिसार of हरिनाथ.
 
-of Lahore (1799 A. D.). व्रतकमलाकर by कमलाकरभट्ट. Sec. व्यवहारसिद्धान्तपीयूष by चित्रपति, son 
+श्रीधरसमुच्चय m. in मलमासतत्त्व by रघु०.
 
-111. of नन्दीपति, at the request of | व्रतकल्प m. by निर्णयदीपक. Colebrooke, in sake 1725 (1803-04 A. D.). 
+श्रीधरीय m. in नि. सि., प्रयोगपारिजात. Vide sec. 82 p. 726.
 
-व्रतकालनिर्णय by भादित्यभट्ट C. by author. 
+श्रीनिवासदीक्षितीय by श्रीनिवास, son of गोविन्दार्य of कौशिकगोत्र. On वैखानससूत्र (Tri. Cat. of Madras Govt. Mss. 1919–22 p. 5179).
 
-व्रतकालनिर्णय by भारतीतीर्थ. व्यवहारसौख्य (part of टोडरानन्द). 
+श्रीपतिरत्नमाला m. in समयमयूख.
 
-व्रतकालनिष्कर्ष by मधुसूदनवाचस्पति. 
+श्रीपतिव्यवहारनिर्णय m. in तिथितत्त्व of रघु० (Jivananda vol. I. p. 21).
 
-व्रतकालविवेक of शूलपाणि. Vide sec. व्यवहाराङ्गस्मृतिसर्वस्व by गौडमयाराम मिश्र of Benares at the order of 
+श्रीपतिव्यवहारसमुच्चय m. in संस्कारतत्त्व of रघु०. Probably the same as above.
 
-व्रतकौमुदी of रामकृष्णभट्ट जयसिंह. Deals with judicial procedure and व्यवहारपदा (titles 
+श्रीपतिसमुच्चय m. in ज्योतिस्तत्त्व of रघु० (vol. I. p. 582).
 
-व्रतकौमुदी of शङ्करभट्ट of law). 
+श्रीस्थलप्रकाश by तिगलाभट्ट. Peterson's 5th Report No. 154.
 
-व्रतकौस्तुभ. H.D.-140 
+श्रुतिचन्द्रिका.
 
-98. 
+श्रुतिमीमांसा by नृसिंहवाजपेयी.
 
-1114 
+श्रुतिमुक्ताफल.
 
+श्रौतस्मार्तकर्मप्रयोग by नृसिंह.
 
+श्रौतस्मार्तक्रियापद्धति.
 
-व्रतखण्ड (the first part of the | व्रतवल्ली. 
+श्रौतस्मार्तविधि by बालकृष्ण.
 
-चतुर्वर्गचिन्तामणि). 
+श्लोककात्यायन m. in अपरार्क.
 
-व्रतविवेकभास्कर by कृष्णचन्द्र व्रतचूडामणि. 
+श्लोककालनिर्णय.
 
-व्रतसंग्रह composed by order of व्रततत्त्व of रघु०. Sec. 107. 
+श्लोकगौतम m. in कालविवेक of जीमूत०, अपरार्क, कालमाधव.
 
-हरिसिंह, king of कर्णाटवंश. First व्रतनिर्णय by औदुम्बरर्षिः 
+श्लोकचतुर्दशी (धर्मानुबन्धि) by कृष्णशेष.
 
-quarter of 14th century. व्रतपञ्जी by नवराज of द्रोण family; | व्रतसमुच्चय m. by निर्णयदीपक. 
+C. by रामपण्डित शेष; pr. in सरस्वतीभवन series (No. 22).
 
-son of देवसिंह 
+श्लोकतर्पण by लौगाक्षि.
 
-व्रतसंपात. व्रतपद्धति of रुद्रधर महामहोपाध्याय. | व्रतसागर m. by चण्डेश्वर. 
+श्लोकसंग्रह on 96 श्राद्धs.
 
-Vide sec. 99 p. 841. One ms. 
+श्लोकापस्तम्ब m. in आचारमयूख.
 
-| व्रतसार by गदाधर. dated लक्ष्मणसेनसंवत् 344 i. e. 1463 A. D. Hp. Cat. XIII and | व्रतसार by दलपति (part of नृसिंह 73). 
+श्वश्रूस्नुषाधनसंवाद (Burnell's Tanj. Cat. p. 143a) decides that if a man dies childless, leaving a widow and mother, each takes half of his estate.
 
-प्रसाद). व्रतप्रकाश (a part of theवीरमित्रोदय). | 
+श्वासकर्मप्रकाश.
 
-वरिमित्रोदय) व्रतसार by श्रीदत्त. Vide sec. 90. व्रतप्रकाश- vide व्रतराज. व्रतप्रकाश by अनन्तदेव. 
+श्वेताश्वदानविधि by कमलाकर.
 
-व्रताचार by रत्नपाणिशर्मा, son of व्रतप्रतिष्ठातत्त्व by रघु०. Vide व्रततत्त्व. गङ्गोलीसञ्जीवेश्वरशर्मा at the order व्रतप्रतिष्ठाप्रयोग or साधारणवतप्रतिष्ठा 
+षट्कर्मचन्द्रिका by चरुकूरितिम्मयज्वन्, son of लक्ष्मणभट्ट. He was called रामचन्द्राश्रम on becoming a संन्यासिन्.
 
-of महेश्वरसिंह, king of मिथिला, प्रयोग 
+षट्कर्मचन्द्रिका m. in सन्ध्याभाष्य of कृष्णपण्डित.
+[[P1132]] षट्कर्मदीपिका Ano. Collection of rituals for the worship of त्र्यम्बक, पार्थिवशिवलिङ्ग, and connected matters (N. vol. IX p. 273).
 
-son of रुद्रसिंह, son of छत्रसिंह of 
+षट्कर्मदीपिका by मुकुन्दलाल.
 
-खण्डबल family; mentions श्रीदत्त व्रतबन्धपद्धति by रामदत्तमन्त्रिन् , son 
+षट्कर्मविचार (part of स्मृतिरत्नमहोदधि).
 
-as one of his authorities and of गणेश्वर (for वाजसनेयशाखा). 
+षट्कर्मविवेक by हरिराम.
 
-also ज्योतिनिर्बन्धः व्रतबोधविवृति or व्रतबोधनीसंग्रह in five परिच्छेदs for वैष्णवs on तिथि 
+षट्कर्मव्याख्यानचिन्तामणि by नित्यानन्द. Discourse on the sentences used at wedding and five other sacraments, for students of यजुर्वेद. Based upon गुणविष्णु. N. vol. III. p. 27.
 
-व्रता by गदाधरदीक्षित. निरूपण, व्रतमहाद्वादशी, रामनवम्या: व्रता by शङ्कर, son of नीलकण्ठ; . दिव्रत, मासनिरूपण, वैशाखादिचैत्रा- huye work; flourished between न्तमासकृत्य निरूपण. N. ( new 1620-1675; wrote his कुण्डभास्कर series) vol. II. p. 182. 
+षट्त्रिंशन्मत. Vide sec. 54.
 
-in 1671 A. D.; pr. at Lucknow व्रतरत्नाकर by सामराज; pr. at in 1877, 1881. 
+षट्पदी of विठ्ठलदीक्षित (C. P. Cat. No. 6029).
 
-Sholapur in 1871. 
+षट्पारायणविधि.
 
-व्रतोद्योत (part of दिनकरोद्योत). व्रतराज by कोण्डभट्ट. 
+षडशीति or आशौचनिर्णय by कौशिकादित्य (i. e. आदित्य of the कौशिकगोत्र). The first verse is 'अथानेकर्षिवाक्यानि संगत्यादाय केवलम् । संग्रथ्य कौशिकादित्यो लिखत्याशौचनिर्णयम् ॥.' It is in 86 verses on impurities on birth and death and in five प्रकरणs on सूतक, सगोत्राशौच, असगोत्राशौच, संस्काराशौच and आशौचापवाद. Aufrecht (II. p. 82) is wrong in identifying it with अभिनवषडशीति.
 
-व्रतोद्यापन. व्रतराज or व्रतप्रकाश by विश्वनाथ, son of गोपाल. Compiled at Benares 
+C. अघशोधिनी by लक्ष्मीनृसिंह.
 
-व्रतोद्यापनकौमुदी by रामकृष्ण based in sake 1658 (1736 A. D.); was 
+C. शुद्धिचन्द्रिका by नन्दपण्डित (pr. in Ch. S. Series with text).
 
-___on हेमाद्रि, as he expressly says; a Cittapāvana Brāhmaṇa of 
+षडशीति by यल्लभट्ट.
 
-dilates upon those gas that are Śāṇdilya gotra and came from 
+षड्विंशन्मत m. by स्मृतिच० and परा. मा.
 
-observed among sites. Saigamesvara in the Rutnagiri | व्रतोद्यापनकौमुदी by शङ्कर, son ok District. Pr. several times at ! बल्लालसरि, surnamed घारे of the Bombay, Ven. Press, ed. being चित्तपावन subcaste. He wrote the latest. 
+षण्णवतिश्राद्धनिर्णय by शिवभट्ट, son of गोविन्दसूरि. The 96 श्राद्धs are briefly set out in one verse 'अमायुगमनुक्रान्तिधृतिपातमहालयाः । आन्वष्टक्यं च पूर्वेद्युः षण्णवत्यः प्रकीर्तिताः ॥'. Mentions कमलाकरभट्ट, नीलकण्ठभट्ट, दीपिकाविवरण, प्रयोगरत्न, श्राद्धकलिका, कलिकाविवरण of विश्वरूपाचार्य; (Ms. in Bhadkamkar collection). Later than 1650 A. D.
 
-तीर्थोद्यापनकौमुदी and refers to 
+षण्णवतिश्राद्धपद्धति by रघुनाथ, son of माधव, son of रामेश्वर. Refers to नारायणभट्ट as his uncle. About 1550–1625 A. D.
 
-List of works on Dharmaśāstra 
+षण्णवतिश्राद्धप्रयोग.
 
-1115 
+षष्टिपूर्तिशान्ति (ceremonies on attaining 60 years). Vide Burnell's Tanj. Cat. pp. 138b, 151b.
 
-his रुद्रानुष्ठानकौमुदी. Composed | शङ्कलिखितस्मृति Vide sec. 12; pr. in sake 1625 ( शाके शरद्वयङ्गचन्द्रे | Anan. Sm. pp. 372-373. i. e. 1703-4 A. D.); pr. in 
+षोडशकर्मकलापनिर्णय.
 
-शङ्कस्मृति- Vide sec. 12; pr. Jiva Bombay at ज्ञानदर्पण press 
+षोडशकर्मपद्धति by ऋषिभट्ट.
 
-___nanda Sm. part II pp. 343-374 ( 1863 A. D.). Peterson (in 
+षोडशकर्मपद्धति by गङ्गाधर.
 
-_and Anan. Sm. pp. 374-395. Ulwar Cat. extract 352) wrong. ly reads वितथावनसंज्ञिना for | 
+षोडशकर्मप्रयोग on the sixteen संस्कारs, स्थालीपाक, पुंसवन, अनवलोभन, सीमन्तोन्नयन, जातकर्म, षष्ठीपूजा, पञ्चगव्य, नामकरण, निष्क्रमण, कर्णवेध, अन्नप्राशन, चौलकर्म, उपनयन, गोदान, समावर्तन, विवाह. Mentions प्रयोगसार, प्रयोगपारिजात, दीपिका; Ms. (in Bhadkamkar collection) dated *śake* 1695. After 1500 A. D.
 
-शतक्रतुस्मृति m. in मद. पा. चित्तपावन०. 
+षोडशपिण्डदानप्रयोग Ano.; mentions संवत्सरप्रदीप. (N. vol. II. pp. 310–311).
 
-शतचण्डीपद्धति by गोविन्द. व्रतोपवाससंग्रह by निर्भयरामभट्ट शतचण्डीप्रयोग by कृष्णभट्ट, son of वात्यताप्रायश्चित्तनिर्णय (extracted 
+षोडशमहादानपद्धति or दानपद्धति by रामदत्त of the खौपालवंश minister of king नृसिंह of मिथिला of [[P1133]] the कार्णाटवंश, with the help of भवशर्मन्, his family priest. He was a paternal first cousin of चण्डेश्वर and so flourished in first half of 14th century.
 
-नारायणभट्ट from the प्रायश्चित्तेन्दुशेखर of | शतचण 
+षोडशमहादानविधि by कमलाकर, son of रामकृष्ण. Sec. 111.
 
-| शतचण्डीविधानपद्धति by जयरामभट्ट. नागोजिभट): decides that mode. | शतचण्डीविधानपूजापद्धति vide Ste rn princes are not entitled to | in's Cat. p. 237. have उपनयन performed (pr. in | शतचण्डीसहस्रचण्डीप्रयोग by कमला. Ch. S. Series, two recensions, कर ( from his शान्तिरत्न). बृहत् and लघु). 
+षोडशयात्रा.
 
-शतद्वयी on प्रायश्चित्त. Vide प्रायश्चित्त व्रात्यताशुद्धि Stein's Cat. p. 105. 
+षोडशसंस्काराः (according to आश्वलायनगृह्य).
 
-शतद्वयी. व्रात्यताशुद्धिसंग्रह (pr. in Ch. S. C. प्रायश्चित्तप्रदीपिका. 
+षोडशसंस्काराः by कमलाकर.
 
-Series). 
+षोडशसंस्काराः by चन्द्रचूड. An abridgement of his संस्कारनिर्णय.
 
-शतश्लोकी by यल्लभट्ट व्रात्यस्तोमपद्धति by माधवाचार्य. N. | शतश्लोकी by वेङ्कटेश. 
+षोडशसंस्कारपद्धति or संस्कारपद्धति (Bik. Cat. p. 463) by आनन्दरामदीक्षित.
 
-( new series) rol. III. P. 194 | शतानन्दसंग्रह m. by कालसार of (व्रात्य means पतितसावित्रीक ). | गदाधर. शकुनार्णव or शकुनशास्त्र or शाकुन by वसन्तराज. Vide under वसन्त 
+षोडशसंस्कारप्रयोग.
 
-शत्रुमित्रोपशान्ति. राजीय. 
+षोडशसंस्कारसेतु by रामेश्वर.
 
-शय्यादान. c. by भानुचन्द्रगणि. 
+षोडशोपचारपूजापद्धति (for worship of विष्णु).
 
-शरदक्षस्मृति m. in व्रतप्रकाश or शङ्करगीता m. by कालविवेक of जीमूत, व्रतराज. 
+संवत्सरकल्पलता of व्रजराज, a devotee of विठ्ठलेश, son of वल्लभाचार्य; in 12 दलs in verse. Begins with कृष्णजन्माष्टमी festival in भाद्रपद and then describes festivals in other months. D. C. Ms. No. 201 of A 1882–83.
 
-हेमाद्वि. Earlier than 1000 A. D. | शाकटायनस्मृति m. in अपरार्क, श्राद्ध शङ्कप्रतिष्ठा ( on ceremonies at the __ मयूख. 
+संवत्सरकृत्य or संवत्सरकौस्तुभ or संवत्सरदीधिति—part of स्मृतिकौस्तुभ of अनन्तदेव. Vide sec. 114.
 
-time of laying the foundation शाकलस्मृति m. in व्यवहारमयूख, of a house ). 
+संवत्सरकृत्यप्रकाश—a part of the यशवन्तभास्कर by भास्करशर्मा.
 
-दत्तकमीमांसा. शङ्करभट्टी. 
+संवत्सरकौमुदी by गोविन्दानन्द. Sec. 106.
 
-शाङ्खायनगृह्यकारिकाः शङ्खचक्रधारणवाद by पुरुषोत्तम, son | शाङ्खायनगृह्यनिर्णय. 
+संवत्सरदीधिति—part of the स्मृतिकौस्तुभ of अनन्तदेव.
 
-of पीताम्बर ( Baroda 0. I. 736 ). शाङ्खायनगृह्यपरिशिष्ट m. in नि. सि. शङ्खधरसमुच्चय m. by कालविवेक of _and संस्कारकौस्तुभ. 
+संवत्सरनिर्णयप्रतान by पुरुषोत्तम.
 
-जीमूत. 
+संवत्सरप्रकाश.
 
-| शाङ्खायनगृह्यसंस्कारपद्धति of विश्वनाथ शनलिखितधर्मसूत्र. Vide sec. 12. शासायनगृह्यसंग्रह by वासुदेव, son of 
+संवत्सरप्रदीप m. by शूलपाणि in दुर्गोत्सवविवेक, श्राद्धक्रियाकौमुदी, निर्णयामृत and in एकादशीतत्त्व (II. p. 51) and शुद्धितत्त्व (II. 327) as हलायुध's. Aufrecht (Cat. I. p. 681) wrongly ascribes it to शूलपाणि. Vide p. 826 above. Vide N. (new series) I. p. 390 for a संवत्सरप्रदीप.
 
-C. m. by कल्पतरु and वि. र. । ईजट (pr. in Ben. S. Series); 
+संवत्सरप्रयोगसार of श्रीकृष्णभट्टाचार्य, son of नारायण of the वन्द्यघटीय clan.
 
-शत्रुघ्नी. 
+संवत्सरोत्सवकालनिर्णय by निर्भयराम.
 
-1116 
+संवत्सरोत्सवकालनिर्णय of पुरुषोत्तम on the same subject as preceding. Expressly says that it was composed to clear up the पद्धति of व्रजराज. In prose. D. C. Ms. No. 177 of 1884–86. Earlier than 1750 A. D.
 
+संवर्तस्मृति Vide sec. 56; pr. Jivananda Sm. part I pp. 584–603 and Ānan. Sm. pp. 411–424.
 
+संस्कर्तृक्रम by वैद्यनाथ. Probably a portion of the स्मृतिमुक्ताफल.
 
-. 
+संस्कारकमलाकर or संस्कारपद्धति by कमलाकर. Vide sec. 111 (vide BBRAS Cat. p. 236 and I. O. Cat. p. 514).
 
-Stein's Cat. p. 19 gives संवत् विवेक of जीमूत, अपरार्क. 1428 as the date. 
+संस्कारकल्पद्रुम by जगन्नाथयाज्ञिक, son of सुखशङ्करशुक्ल. In three काण्डs on गणेशपूजन, संस्कार and स्मार्ताधान; names वासुदेव's भाष्य on (पारस्कर) गृह्य. Speaks of 25 संस्कारs. Ulwar Cat. extract 364
+[[P1134]] संस्कारकौमुदी by गिरिभट्ट, son of यल्लम्भट्ट.
 
-| शाण्डिल्यगृह्य m. by रुद्रदत्त on आप शाङ्कायनगृह्यसूत्र ( edited by Olden- | 
+संस्कारकौस्तुभ or संस्कारदीधिति—part of स्मृतिकौस्तुभ of अनन्तदेव. Vide sec. 114 (pr. by Nir. P. and at Baroda with Marathi translation).
 
-स्तम्बश्रौतसूत्र 9. 11. 21. berg in Indische Studien, vol. 15 pp. 1-166 and translated in | शाण्डिल्यधर्मशास्त्र .( in verse) on S. B. E. vol. 29). 
+संस्कारगङ्गाधर or -धरी by गङ्गाधरदीक्षित. On संस्कारs of गर्भाधान, चौल, व्रतबन्ध, वेदव्रतचतुष्टय, केशान्त, व्रतविसर्ग, विवाह. (D. C. Ms. No. 610 of 1882–83).
 
-गर्भाधानादिसंस्कार, ब्रह्मचारिधर्म, C. (भाष्य) by ब्रह्मदत्त quoted in | गृहस्थविहितधर्म, गृहस्थनिषिद्धधर्म, 
+संस्कारगणपति—com. on पारस्करगृह्यसूत्र by रामकृष्ण. Vide under पारस्करगृह्य above.
 
-कल्पतरु according to शुद्धि- | वर्णधर्म, देहशोधन, सावित्रीजपादि, तत्त्व ( vol. II. p. 312 ). | चतुर्वर्णदोष. ( Vide Tri. Cat. of 
+संस्कारचन्द्रचूडी of चन्द्रचूड. Vide संस्कारनिर्णय below.
 
-Earlier than 1100 A. D. | Madras Govt. Mss. for 1919-22 C. (on four अध्यायs only). N. vol. IV p. 5153 ). 
+संस्कारचिन्तामणि by रामकृष्ण of Benares (C. P. Cat. No. 6073). Probably the same as संस्कारगणपति.
 
-vol. I pp. 2-4. 
+संस्कारतत्त्व of रघुनन्दन. Vide sec. 107.
 
-शाण्डिल्यस्मृति m. in मिता० (या. II. C. प्रयोगदीप by दयाशङ्कर, son of 
+C. by कृष्णनाथ.
 
-280); स्मृतिच०, मस्करिभाष्य on धरणीधर 
+संस्कारदीधिति—vide संस्कारकौस्तुभ.
 
-गौतमधर्मसूत्र ; in five अध्यायs on C. अर्थदर्पण by रघुनाथ. 
+संस्कारदीधिति (pr. at Benares).
 
-भागवताचार (Cat. of Madras C. गृह्यसूत्रपद्धति or आधानपद्धति 
+संस्कारनिर्णय.
 
-Govt. Mss. vol. V. p. 1991; by रामचन्द्र, son of सूर्यदास, baroda O. I. No. 7966). son of fragia, son of site मालव. 
+(1) by चन्द्रचूडभट्ट, son of उमण्णभट्ट, son of धर्मभट्ट. Based on आपस्तम्बगृह्य. Treats of संस्कारs from गर्भाधान. Names ज्योतिर्निबन्ध, माधवीय, हरदत्त and सुदर्शन on आपस्तम्ब, प्रयोगरत्न. One Ms. (I. O. Cat. p. 98 No. 467) is dated *śake* 1607 (1685). Between 1575–1650 A. D.
 
-शातातपस्माते-Vide sec. 28; pr. Ji. C. गृहप्रदीपक by नारायण, son of | 
+(2) by तिप्याभट्ट, son of रामभट्ट, surnamed गह्वर; for आश्वलायनs. In 1776 A. D. he composed his संग्रहदीपिका on आश्वलायनश्रौतसूत्र.
 
-___vananda Sm. part II. pp. 435 
+(3) by नन्दपण्डित—a part of स्मृतिसिन्धु. Vide sec. 110.
 
-455 and Anan. Sm. pp. 396 कृष्णजी द्विवेदी, son of श्रीपति 
+संस्कारनृसिंह by नरहरि (C. P. Cat. No. 6076). Pr. at Benares in 1894.
 
-410. gives pedigree of family which was नागर from श्रीपाट- | शातातपस्मृति in mixed prose and लापुरी in Gujerat. श्रीपति ___verse on expiation and आचार was 8th from चण्डांशु of (I. O. Cat. p. 398). that family. Work com 
+संस्कारपद्धति by अमृतपाठक, son of सखाराम (for माध्यन्दिनीयs). Mentions हेमाद्रि, धर्माब्धिसार, प्रयोगदर्पण, प्रयोगरत्न, कौस्तुभ, कृष्णभट्टी, गदाधर.
 
-शातातपस्मृति in 12 अध्याय (I. 0. posed in 1629 (वर्षे नन्दकरतु 
+संस्कारपद्धति by आनन्दराम याज्ञिक.
 
-Cat. p. 399. चन्द्रसमिते माघे &c.) probably 
+संस्कारपद्धति by कमलाकर. Vide संस्कारकमलाकर above.
 
-शातातपस्मृति in 87 अध्यायs and of विक्रम era ( i. e. in 1573 
+संस्कारपद्धति by गङ्गाधरभट्ट, son of राम. Vide संस्कारगङ्गाधरी.
 
-2376 verses ( N. vol. II. p. 4 ). A. D.); Ms. in Bombay University Library. He | शान्तिकमलाकर or शान्तिरत्न of कम wrote गृह्यसूत्रपद्धति also. i लाकरभट्ट on the propitiatory Vide Ulwar Cat. for a long 
+संस्कारपद्धति by नारायणभट्ट.
 
-rites in case of portents. Vide extract and D. C. Ms. No. Sec. 111; pr. at Bombay. 6 of 1879-80. 
+संस्कारपद्धति by भवदेव. The same as छन्दोगकर्मानुष्ठानपद्धति. Vide sec. 74.
 
-शान्तिकल्पदीपिका on propitiatory C. बालावबोधपद्धति 
+C. रहस्य by रामनाथ. Composed in *śake* 1544 (1622–23 A. D.). N. VI. pp. 237–38.
 
-rites for several happenings शासायनाहिक or -हिकदीपिका by | such as the following, viz. of a 
+संस्कारपद्धति by शिङ्गय.
 
-अचल, son of वत्सराज. About | frog in domestic fire, पल्लीपतन, 1518 A. D. 
+संस्कारप्रकाश.
 
-birth of a child on or शाव्यायन or -निस्मृति m. in काल- भाशेषा नक्षत्र etc. 
+(1) a part of प्रतापनारसिंह.
 
-List of works on Dharmaśāstra 
+(2) a part of वीरमित्रोदय by मित्रमिश्र.
 
-1117 
+संस्कारप्रदीप.
 
-शान्तिकल्पप्रदीप or कृत्यापल्लवदीपिका, तथा दैवोपघातानां शान्तिर्भवति by ste cura dlaritat. On inca- वारणम् ॥ एतेन अदृष्टद्वारा ऐहिक ntations for killing, subjugating | मात्रानिष्टनिवारणं शान्तिः ॥'. or bewitching rivals. N. vol. | शान्तिदीपिका m. by रघु० in शुद्धि II. p. 107 and vol. V. p. 275 तत्त्व, संस्कारतत्व, एकादशीतत्त्व, (Ms. dated संवत् 1851). 
+संस्कारप्रदीपिका by विष्णुशर्मदीक्षित.
 
-श्राद्धतत्त्व (p. 195). शान्तिकल्पलता Ano. 
+संस्कारप्रयोग.
 
-शान्तिनिर्णय. शान्तिकल्याणी. 
+संस्कारभास्कर.
 
-शान्तिपद्धति by शिवराम, son of शान्तिकविधि of वसिष्ठ in 213 verses. | विश्राम. It deals with rites 
+(1) by खण्डभट्ट, son of मयूरेश्वर अयाचित. Based on कर्क and [[P1135]] गङ्गाधर. Divides संस्कारs into ब्राह्म (गर्भाधान and others) and दैव (पाकयज्ञ and others). D. C. Ms. No. 611 of 1882–83.
 
-See वासिष्ठीभाष्य above. वसिष्ठ propitiating the pine grahas tells राम why the latter and (planets) according to Sama others like रावण, पाण्डवs, कंस | veda. The author wrote also suffered from unfavourable छन्दोगानीयाह्निक. Ms. (I.O. Cat. stars and dilates upon अयुतहोम, p. 570 No. 1762) dated संवत् लक्षहोम, कोटिहोम, नवग्रहहोमः 1806 (1749-50 A. D.). Employs मन्त्रs from माध्यन्दिनीय शाखा (vide D. C. Ms. No. 104 
+(2) by ऋषिबुध. or -भट्ट, son of गङ्गाधर, son of विश्वनाथ. surnamed शौच (शौचे); pr. by Venk. P.; follows कर्क, वासुदेव and हरिहर on पारस्करगृह्य and mentions प्रयोगदर्पण Vide BBRAS. Cat. vol. II p. 236 No. 739.
 
-शान्तिपारिजात by अनन्तभट्ट. of 1871-72). 
+संस्कारमञ्जरी by नारायण same as ब्रह्मसंस्कारमञ्जरी.
 
-शान्तिपुस्तक शान्तिकौमुदी of कमलाकर, son of | शान्तिपोष्टिक of वर्धमान. 
+संस्कारमयूख.
 
-रामकृष्ण. Probably the same as 
+(1) by नीलकण्ठ Vide sec. 112 In many Mss. [[ascrided|ascribed]] to his son शङ्कर. pr. at Gujrati P. and by Mr. J. R. Gharpure.
 
-शान्तिप्रकरण (बौधायनीय). शान्तिकमलाकर. 
+(2) ,, or संस्कारभास्कर by सिद्धेश्वर, son of दामोदर, son of शङ्कर. He was a nephew of नीलकण्ठ. Flourished between 1630–1670 A. D. Treats of 25 संस्कारs and gives at the end of the work a complete list of गोत्रs and प्रवरs.
 
-शान्तिप्रकार by गोभिल (same as the शान्तिकौस्तुभ (C. P. Cat. No. 5595). 
+संस्कारमार्तण्ड by मार्तण्डसोमयाजी; contains two chapters on स्थालीपाक and नवग्रह. Pr. at Madras.
 
-_first 7 chapters of the कर्मप्रदीप). शान्तिगणपति by गणपति रावल. 
+संस्कारमुक्तावली of तानपाठक.
 
-| शान्तिप्रकाश (from the वीरामित्रोदय). About 1685 A. D. 
+संस्काररत्न by खण्डेराय, son of हरिभट्ट, son of नारायण; m. in his कृत्यरत्न. Later than 1400 A. D. His family was patronised by विदर्भ king.
 
-शान्तिभाव्य by वेदमिश्र. Same as शान्तिचन्द्रिका by कवीन्द्रः m. in his 
+संस्काररत्न from the अनूपविलास or धर्माम्बोधि of मणिराम.
 
-वासिष्ठीभाष्य. काव्यचन्द्रिका (vide Aufrecht's 
+संस्काररत्नमाला.
 
-शान्तिमयूख of नीलकण्ठ. Vide sec. Oxf. Cat. p. 211b). 
+(1) by गोपीनाथभट्ट (pr. at Ānan. P. and in Ch. S. Series).
 
-___112; pr. in Bombay by J. R. शान्तिचरित्र. 
+(2) by नागेशभट्ट.
 
-Gharpure. शान्तिचिन्तामणि by कुलमनि m. in | शान्तिरत्न or शान्तिरत्नाकर of _his नीतिप्रकाश 
+संस्काररत्नाकर (पारस्करीय).
 
-कमलाकरभट्ट. Sec. 111 (BBRAS 
+संस्काररत्नावलि of नृसिंहभट्ट, son of सिद्धभट्ट, of कण्वशाखा and resident of प्रतिष्ठान.
 
-Cat. p. 234 No. 729). Vide शान्तिचिन्तामणि by शिवराम, son of 
+संस्कारवादार्थ (deals with the proper times for such संस्कारs as जातकर्म &c.). N. vol. I. p. 150.
 
-शान्तिकमलाकर above. विश्राम of मोढ caste. 
+संस्कारविधि or गृह्यकारिका by रेणुक.
 
-शान्तिविवेक by विश्वनाथ on rites for शान्तितत्त्वामृत or शान्तिकतत्त्वामृत by | 
+संस्कारवीचि a portion of the गोविन्दार्णव compiled by शेषनृसिंह.
 
-propitiating planets etc. (part नारायणचक्रवर्ती Names अद्भुत- of मदनरत्न). Vide Ulwar Cat. सागर. Defines शान्ति as 'यथा extract 353 for table of शस्त्रोपघातानां कवचं विनिवारणम् । । contents. 
+संस्कारसागर by नारायणभट्ट (on स्थालीपाक).
 
-SOL 
+संस्कारसार—part of the नृसिंहप्रसाद. Vide sec. 103.
 
-m 
+संस्कारसौख्य.
 
-1118 
+संस्कारामृत of सिद्धेश्वर, son of दामोदर; vide संस्कारमयूख above. Refers to द्वैतनिर्णयपरिशिष्ट of his father.
 
-1 
+संस्कारोद्योत—a portion of the दिनकरोद्योत.
 
+संस्थापद्धति or संस्थावैद्यनाथ by वैद्यनाथ, son of रत्नेश्वर, son of केशव; in 4 मानs. Ulwar Cat. extract 63. On the rites performed in आवसथ्य fire according to कात्यायनगृह्य.
 
+संहितादीप—m. in संस्कारमयूख of सिद्धेश्वर.
+[[P1136]] संहिताप्रदीप m. in नि. सि. An astrological work.
 
-शान्तिसर्वस्व m. in नि. सि., संस्कार- रामभद्र, son of भैरवेन्द्र, ruled 
+संहितासारावलि m. in संस्कारमयूख.
 
-कौस्तुभ. 
+संहिताहोमपद्धति by भैरवभट्ट (Baroda O. I. 335).
 
-___over मिथिला. About 1450 A. शान्तिसार by दलपतिराज (part of D. Vide N. vol. VI p. 233. 
+सकलकर्मचिन्तामणि.
 
-नृसिंहप्रसाद). 
+सकलदानफलाधिकार.
 
-C. by नारायण. शान्तिसार by दिनकरभट्ट, son of C. प्रकाश by मथुरानाथशुक्ल 
+सकलदेवताप्रतिष्ठा.
 
-रामकृष्ण. A very big work on 
+सकलपुराणसमुच्चय m. by अल्लाडनाथ.
 
-C. by माधव. propitiatory rites like अयुतहोम, C. पदार्थादर्श by राघवभट्ट, son of लक्षहोम, कोटिहोम, ग्रहशान्ति, वैना. 
+सकलप्रमाणसंग्रह.
 
-पृथ्वीधर, son of रामेश्वर; m. in यकीशान्ति, विवाहादौ गुरुशान्ति; pr. व्रतराज. Author's family in Bombay several times, the migrated from जनस्थान most recent edition being that 
+सकलशान्तिसंग्रह.
 
-(Nasik) on गोदावरी to Bena of Ven. Press. 
+सङ्करमृततिथिनिर्णय.
 
-res. Composed in 1550 शान्तिहोम by माधव. 
+संकल्पकौमुदी of रामकृष्ण (N. IV. pp. 222–23).
 
-रौद्रपौषसित 12 (probably of शान्त्यु योत part of मदनरत्न. Vide 
+संकल्पचन्द्रिका by रघुनन्दन (N. I. p. 166).
 
-the विक्रम era). Vide Ulwar Sec. 95. 
+संकल्पश्राद्धप्रयोग.
 
-Cat. extract 669. 
+संकल्पस्मृतिदुर्गभञ्जन by चन्द्रशेखर शर्मा of नवद्वीप (about the सङ्कल्पs to be made in the beginning of all काम्य rites). Divided into four parts on तिथि, मास, काम्यकर्मणिसङ्कल्प, व्रत. N. vol. II. pp. 329–330.
 
-C. by रामदीक्षित. शापविमोचन 
+संकष्टहरचतुर्थीव्रतकालनिर्णय.
 
-C. शब्दार्थीचन्तामणि by प्रेमनिधि शाम्बव्यगृह्यसूत्र. 
+संकेतकौमुदी (probably a purely astrological work) by शम्भुनाथाचार्य.
 
-पन्थ. शारदाक्रमदीपिका m. in दुर्गोत्सवविवेक 
+संकेतकौमुदी by शिव.
 
-and by रघु०. 
+संकेतकौमुदी by हरिनाथाचार्य m. by रघु० in ज्योतिस्तत्त्व.
 
-C. हर्षकौमुदी by श्रीहर्षदीक्षित. शारदातिलक by लक्ष्मणदोशिकेन्द्र, son 
+संक्रान्तिकौमुदी by सिद्धान्तवागीशभट्टाचार्य; Ms. (N. vol. VIII. p. 198) dated *śake* 1540 (1618 A. D.)
 
-शारदा प्रयोग by रामचन्द्र of श्रीकृष्ण, son of विजयाचार्य of शालग्रामदानकल्प. वारेन्द्रकुल. Rather a Tantric शालग्रामदानपद्धति by बाबादेव. Vide work very frequently quoted _I. O. Cat. p. 593 No. 1805 (Ms. in धर्मशास्त्र works; m. by सर्व- ___dated संवत् 1858 i. e. 1801-02). दर्शनसंग्रह, by रघु० in दिव्यतत्त्व. 
+संक्रान्तिनिर्णय by गोपालशर्मन्यायपञ्चानन in 3 parts.
 
-शालग्रामनिर्णय Earlier than 1300 A. D. 
+संक्रान्तिनिर्णय by बालकृष्ण.
 
-शालग्रामपरीक्षा by शङ्करदैवज्ञ (I. O. C. m. in कुण्डमण्डपलक्षण by 
+संक्रान्तिनिर्णय—a portion of the स्मृतिमुक्ताफल.
 
-_Cat. p. 592). रामवाजपयी in 1449-50 A.D. C. गूढार्थदीपिका by त्रिविक्रमज्ञ, 
+संक्रान्तिनिर्णय. Ano.; mentions भीमपराक्रम, दीपिका, कृत्यचिन्तामणि.
 
-शालग्रामपरीक्षा (Bik. Cat. p. 450). 
+संक्रान्तिविवेक by शूलपाणि. Vide sec. 98 at p. 825. N. VI. p. 205.
 
-A different work. pupil of श्रीरामभारती. C. गूढार्थप्रकाशिका by कामरूपपति. 
+संक्रान्तिव्यवस्थानिर्णय Ano. (N. II. 313).
 
-शालग्रामलक्षण Ano. N.(new series) 
+संक्रान्तिशान्ति.
 
-___II. p. 187. C. गूढार्थसार by विक्रमभट्ट. C. by काशीनाथ. 
+संक्रान्त्युद्यापन.
 
-शालग्रामलक्षण by तुरगवदनपण्डित. C. तन्त्रप्रदीप by लक्षमणदेशिक (Is | शालग्रामलक्षण by सदाशिवद्विवेदी. 
+संक्षिप्तनिर्णयसिन्धु. Briefly describes religious rites from चैत्र to फाल्गुन. Expressly says that it is based on निर्णयसिन्धु; Ms. in Bik. Cat. p. 454 is dated *śake* 1514 (1592 A. D.), which is a misreading if निर्णयसिन्धु of कमलाकर is meant.
 
-there some confusion of the | शालङ्कायनस्मृति m. by स्मृतिच, 
+संक्षिप्तशास्त्रार्थपद्धति.
 
-author with the com. ?). हेमाद्रि, मद. पा., नि. सि. C. तन्त्रप्रदीप by गदाधर, son of | शालाकर्मपद्धति (a part of दशकर्म 
+संक्षिप्तसार m. in एकादशीतत्त्व of रघु०
 
-राघवेन्द्र; composed when | दीपिका of पशुपति). 
+संक्षिप्तहोमप्रकार by रामभट्ट.
 
-List of works on Dharmaśāstra 
+संक्षिप्ताह्निकपद्धति by चण्डीदास, son of दुर्गादत्त, written at the desire of रणवीरसिंह of काश्मीर.
 
-व्यवहार. 
+संक्षेपतिथिनिर्णयसार by गोकुलजित्, son of हरिजित् in 1633 A. D.
 
-शास्त्रदीप by अग्निहोत्रि नृहरि; Ms. शिवपूजापद्धति by राघवानन्दनाथ. 
+संक्षेपपूजापद्धति (Ulwar Cat. 2412) by रघुनन्दनठक्कुर.
 
-( Baroda O. I. 8132) dated | शिवपूजाप्रकार. संवत् 1664 ( 1607-8 A. D.) | 
+संक्षेपरुद्रपद्धति (Ulwar Cat. 1513).
 
-शिवपूजासंग्रह by वल्लभेन्द्रसरस्वती. deals with प्रायश्चित्त and refers | to portion of the work on 
+संक्षेपसिद्धिव्यवस्था.
 
-शिवपूजासूत्रव्याख्यान by रामचन्द्र, 
+संक्षेपाह्निकचन्द्रिका by दिवाकरभट्ट. Same as आह्निकचन्द्रिका of दिवाकर above.
+[[P1137]] संख्यापरिमाणसंग्रह of केशवकवीन्द्र, who wrote in Benares and was the principal pandit in the pariṣad of the king of तीरभुक्ति (modern Tirhut). Dilates upon the weights, numbers and measures required in स्मृति rules (such as size of tooth brush, number of sacred threads for ब्राह्मण's यज्ञोपवीत). N. vol. V. pp. 161–162.
 
-son of पाण्डुरङ्ग of the अत्रिगोत्र. शास्त्रदीपार्थसार. 
+संग्रह or स्मृतिसंग्रह. Vide sec. 55.
 
-Explains बौधायन (गृह्य) सूत्र शास्त्रसारावलि by हरिभानुशुक्ल. 
+संग्रहचिन्तामणि (C. P. Cat. No. 6153).
 
-on शिवपूजा beginning with 
+संग्रहवैद्यनाथीय by वैद्यनाथ.
 
-अथातो महादेवस्याहरहः परिचर्या शास्त्रसारोद्धार by कृष्ण of the होसिङ्ग 
+संग्रामसाहीय. Vide विवेकदीपक above.
 
-विधि व्याख्यास्यामः । N. vol. Xp. family by order of द्यानन्त 
+सच्चरितपरित्राण by वीरराघव of वाधूलगोत्र on the duties of वैष्णवs. Mentions स्मृतिरत्नाकर.
 
-347. राव (?) ( Vide Burnell's Tanj. Cat. p. 133a ). Mentions HIRE, 
+सच्चरितरक्षा by वेङ्कटनाथ on शङ्खचक्रधारण, ऊर्ध्वपुण्ड्रधारण and भगवन्निवेदितोपयोग (३ प्रकरणs).
 
-| शिवप्रतिष्ठा by कमलाकर. माधव, मदनरत्न. Later than 1450 
+सच्चरितरक्षा by रामानुजाचार्य.
 
-horthan 1450| शिवरात्रिकल्प. A. D. 
+C. सच्चरित्रसारदीपिका by himself.
 
-शिवरात्रिनिर्णय by शिवोपाध्याय Vide शास्त्रोपदेशक्रम 
+सच्चरितसुधानिधि by वीरराघव (नैध्रुव), who bows to several teachers of the विशिष्टाद्वैत system, *viz.* नाथ, राममिश्र, यामुनमुनि, रामानुज, रङ्गराज, वेदान्तदेशिक, पराङ्कुश, श्रीनिवास &c.
 
-___ महाशिवरात्रिनिर्णय शिङ्गाभट्टीय or सिङ्गाभट्टीय m. in नि. | शिवलिङ्गपरीक्षा. 
+सच्छूद्राह्निक.
 
-सि. Vide C. P. Cat. 5670-71. 
+सज्जनवल्लभा by जयराम—a com. on पारस्करगृह्यसूत्र; m. in मुहूर्तदीपक of महादेव.
 
-शिवलिङ्गप्रतिष्ठाक्रम शिबिकादान. 
+सत्कर्मकल्पद्रुम.
 
-शिवलिङ्गप्रतिष्ठाप्रयोग. शिवतत्त्वप्रकाशिका by भोजदेव. 
+सत्कर्मचन्द्रिका.
 
-शिवलिङ्गप्रतिष्ठाविधि by अनन्त. शिवतत्त्वरत्नाकर by king बसप्पनायक 
+सत्कर्मचिन्तामणि.
 
-शिवलिङ्गप्रतिष्ठाविधि by रामकृष्णभट्ट, I of the Keladi dynasty; contains a chapter on polity. 
+सत्कर्मदर्पण.
 
-___son of नारायणभट्ट. Divided into कलोल each | शिववाक्यावली by चण्डेश्वर, son of कल्लोल being divided into तरङ्ग. | वीरेश्वर. Sec. 91. Published by B. M. Nath and शिवसर्वस्व m. in नि. सि. and by Co. at Madras. 
+सत्क्रियाकल्पमञ्जरी Madras Govt. Mss. Cat. vol. V. p. 2212, vol. VI. p. 2308.
 
-रघु०. शिवदमनार्चनपद्धति composed for 
+सत्क्रियासारदीपिका by गोपालभट्ट for वैष्णवs. He wrote हरिभक्तिविलास also. Flourished about 1500–1565 A. D. Names भवदेव, अनिरुद्ध, भीम, गोविन्दानन्द and नारायण.
 
-शिवाराधनदीपिका by हरि. विनयसिंह a former Maharaja of Ulwar. (Ulwar Cat. No. 
+सत्यव्रतस्मृति m. in कालविवेक of जीमूत०, अपरार्क, स्मृतिच०, श्राद्धतत्त्व.
 
-शिवार्चनचन्द्रिका m. in नि.सि. 1485). 
+सत्संप्रदायप्रदीपिका or संप्रदायप्रदीप—an account of the principal वैष्णव teachers.
 
-शिवार्चनचन्द्रिका by अप्पय्यदीक्षित. शिवधुमणिदीपिका- the same as दिन- | शिवार्चनचन्द्रिका by श्रीनिवासमट्ट, 
+सत्संप्रदायप्रदीपिका by गदाधर.
 
-करोयोत. 
+सत्स्मृतिसार by जानकीराम सार्वभौम on तिथि, प्रायश्चित्त &c. N. (new series) vol. II. p. 210.
 
-___son of श्रीनिकेतन in 16 प्रकाशs. शिवपूजनपद्धति by हरिराय. शिवार्चनपद्धति by अमरेश्वर. शिवपूजा (अघोरपद्धति Vide Bik. | शिवार्चनशिरोमणि by नारायणानन्द 
+सदाचार.
 
-Cat. p. 611). 
+सदाचारक्रम by रामपति.
 
-नाथ. शिवपूजातरङ्गिणी by काशीनाथ, son of शिवार्चनशिरोमणि by ब्रह्मानन्दनाथ. 
+सदाचारक्रम attributed to वसिष्ठ.
 
-जयराम, surnamed जडे. 
+सदाचारचन्द्रिका (D. C. Ms. No. 108 of 1869–70 copied in संवत् 1787 माघ, i. e. February 1731 A. D.). Inculcates कृष्णभक्ति. Mentions रूपगोस्वामी, सनातनगोस्वामी, रामार्चनचन्द्रिका, हरिभक्तिविलासटीका, हरिभक्तिसुधोदय and its टीका.
 
-pupil of लोकानन्दनाथ, in 20 शिवपूजापद्धति Ano. ( N. vol. II p. उल्लासs. 
+सदाचारचन्द्रोदय—Vide आचारचन्द्रोदय alias माधवप्रकाश.
 
-225). 
+सदाचारनिर्णय by अनन्तभट्ट.
 
-| शिवालयप्रतिष्ठा by राधाकृष्ण. 
+सदाचारप्रकरण by शङ्कराचार्य (for योगिन्).
+[[P1138]] सदाचाररहस्य by अनन्तभट्ट, son of दाईभट्ट, composed at Benares at the desire of संग्रामसिंह, son of अमरेश, son of जयसिंह. About 1715 A. D. (vide Stein's Cat. pp. 317–318).
 
-द. 
+सदाचारविवरण by शङ्कर.
 
-1120 
+सदाचारसंग्रह by गोपालन्यायपञ्चानन.
 
+सदाचारसंग्रह by वेङ्कटनाथ Vide under स्मृतिरत्नावलि.
 
+सदाचारसंग्रह by शङ्करभट्ट, son of नीलकण्ठभट्ट, (I. O. Cat. p. 590 No. 1800). Probably a spurious work. In N. vol. I. p. 103 author's name is wanting though the first verse is same as in I O. Cat. p 590.
 
-शिवाष्टमूर्तितत्त्वप्रकाश by रामेश्वर, | शुद्धिचन्द्रिका com. on षडशीति or 
+सदाचारसंग्रह by श्रीनिवासपण्डित in three काण्डs on आचार, व्यवहार and प्रायश्चित्त.
 
-pupil of सदाशिवेन्द्रसरस्वती. ! आशौचनिर्णय of कौशिकादित्य by शिष्टिभाष्य- vide बौधायनगृह्यभाष्य. 
+सदाचारसमृद्धि.
 
-नन्दपण्डित Vide sec. 110. 
+सदाचारस्मृति by आनन्दतीर्थ in 40 verses.
 
-| शुद्धिचिन्तामणि by वाचस्पतिमिश्र शुक्रनीतिसार (pr. by Oppert at 
+C. by नृहरि, pupil of मध्व. Baroda O. I. 1884.
 
-Vide sec. 101. Madras in 1892 and by Jiva nanda in 1892 and tr. by Prof. 
+C. by रामाचार्य. Baroda O. I. No. 2619.
 
-शुद्धितत्त्व of रघु०. Vide sec. 107; 
+सदाचारस्मृति by नारायणपण्डित, son of विश्वनाथ. In Bik. Cat. p. 449 the work is styled ०स्मृतिटीका. So also in Stein's Cat p. 107.
 
-pr. by Jivananda. Benoy Kumar Sarkar in S. B. H. Series ) in four chapters in 
+सदाचारस्मृति by राघवेन्द्रयति on आह्निक (C. P. Cat. 6193).
 
-C. by patria arazgia, son of about 2500 verses. Speaks of 
+सदाचारस्मृति by श्रीनिवास (C. P. Cat. 6192).
 
-राधावल्लभ, residing at विष्णुपुर राजधर्म, missiles, gunpowder &c. 
+[[सदारस्मृतिव्याख्या|सदाचारस्मृतिव्याख्या]] क्षीरसिन्धु (Baroda Oriental Institute No. 1880). Mentions प्रयोगपारिजात.
 
-in Bankura; pr, at Calcutta 
+सद्धर्मचन्द्रोदय m. in अहल्याकामधेनु.
 
-1884, 1907. शुक्लाष्टमी 
+सद्धर्मचिन्तामणि m. in आचारमयूख.
 
-C. by गुरुप्रसादन्यायभूषणभट्टाचार्य: शुद्धदीपिका of दुर्गदत्त ( Hp. Cat. 
+सद्धर्मतत्त्वाख्याह्निक by हरिप्रसाद, son of गङ्गेश of मथुरा. In 62 verses. He wrote आचारतत्त्व also.
 
-N. ( new series ) vol. I. p. pp. xxI and 255 ). Compiled 
+सद्वृत्तरत्नमाला.
 
-371. from प्रयोगसार. 
+सनत्कुमारसंहिता m. in त्रिस्थलीसेतु and नि. सि.
 
-C. by राधामोहनशर्मा; pr. at Cal शुद्धसौख्य. 
+संतानदीपिका—gives astrological reasons for a man's being issueless.
 
-cutta, 1884, 1907. शुद्धिकारिका. 
+संतानदीपिका by केशव.
 
-शुद्धितत्त्वकारिका by रामभद्रन्याया (1) based on रघुनन्दन's शुद्धितत्त्व 
+संतानदीपिका by महादेव.
 
-| लङ्कार. Same as शुद्धिकारिका 
+संतानदीपिका by हरिनाथाचार्य.
 
-above, by रामभद्रन्यायालङ्कार. (2) by नारायणवन्द्योपाध्याय. N. | 
+[[संदर्भसूतिका|संदर्भसूचिका]] com. on हारलता q. v.
 
-| शुद्धि तत्त्वकारिका of हरिनारायण. Based 
+संध्याकारिका by सर्वेश्वर, son of लीलाधर.
 
-___ on शुद्धितत्त्व of रघु. ( new series ) II. p. 196. 
+संध्यात्रयभाष्य by परशुराम (Baroda O. I. 6463). Also called द्विजकल्पलता.
 
-| शुद्धितत्त्वार्णव of श्रीनाथ m. in शुद्धि शुद्धिकारीकाली by मोहनचन्द्रवाचस्पति. 
+संध्यादिब्रह्मकर्मन्.
 
-| तत्व ( vol. II. p. 257 ) of रघु०. N. ( new series) I. pp. 367 
+संध्यानिर्णय.
 
-Allout 1475-1525. 369; mentions शुद्धिरत्नाकर 
+संध्यानिर्णयकल्पवल्ली by कृष्णपण्डित, son of रामपण्डित and लक्ष्मी in four गुच्छs. Hultzsch R. I. No. 442 extract p. 80.
 
-शुद्धिदर्पण of अनन्तदेव याज्ञिक. De शद्धिकौमुदी by गोविन्दानन्द; pr. in | fines शुद्धि as विहितकर्माहत्वप्रयो. ___B. I. Series Vide sec. 106. जको धर्मविशेषः शुद्धिः । Contains 
+संध्यापद्धति. m. in आह्निकतत्त्व of रघु०
 
-शुद्धिकौमुदी by महेश्वर on सहगमन, 
+संध्याप्रयोग N. vol. X. p. 343.
 
-almost same topics as in शुद्धि भाशौच, सपिण्डतानिरूपण, गर्भ कौमुदी of गोविन्दानन्द. स्रावाशौच, सद्य:शौच, शवानुगमना- | शुद्धिदीप or प्रदीप by केशवभट्ट. same शौच, अन्त्येष्टिविधि, मुमूर्युकृत्य,अस्थि- subjects theated as in शुद्धिकौमुदी संचयन, उदकादिदान, पिण्डोदकदान, of गोविन्दानन्द. 
+संध्यारत्नप्रदीप by आशाधरभट्ट in 3 किरणs Baroda O. I. No. 29.
 
-वृषोत्सर्ग, प्रेतक्रियाधिकारिद्रव्यशुद्धि. शुद्धिदीप m. in नि. सि. and विधान शुद्धिकौमुदी by सिद्धान्तवागीशभट्टा 
+संध्यावन्दनभाष्य or संध्याभाष्य by आनन्दतीर्थ.
+[[P1139]] संध्यावन्दनभाष्य by कृष्णपण्डित, son of राघवदैवज्ञ, in four chapters (BBRAS Cat. p. 237).
 
-पारिजात and शुद्धिविवेक of रुद्रधर चार्य ( Baroda O. I. 10183). शुद्धिदीपिका. 
+संध्यावन्दनभाष्य by कृष्णपण्डित, son of रामभट्ट and लक्ष्मी, and pupil of मुकुन्दाश्रम and कृष्ण. Hultzsch's R. I. p. 58. This is also called संध्यावन्दनपद्धति. Pr. in Ānan. P.
 
-(1) of श्रीनिवास महीन्तापनीय in शुद्धिगुच्छ m. in कालसार of गदाधर. 
+संध्यावन्दनभाष्य by चौण्डपार्य, son of चिन्नयार्य and कामाम्बा (for आश्वलायनीयs); composed at request of चामुण्डि, son of भानु.
 
-eight years on sulfa:EN शुद्धिचन्द्रिका by कालिदास (Hultzsch शंसा and राशिनिर्णय, ग्रह 
+संध्यावन्दनभाष्य by तिर्मलयज्वन् or तिरुमल०.
 
-R. I. No. 93). 
+संध्यावन्दनभाष्य by नारायणपण्डित, who composed 60 works.
 
-निर्णय, ताराशुद्धिनिर्णय, वाराList of works on Dharmaśāstra 
+संध्यावन्दनभाष्य by रामाश्रमयति, pupil of महादेव; composed at Benares in शके 1574 (1652–53 A. D.).
 
-1121 
+संध्यावन्दनभाष्य by विद्यारण्य (on ऋग्वेदिसंध्या and तैत्तिरीयसंध्या).
 
-निर्णय विवाहनिर्णय जातकनिर्णय, _a resident of त्र्यम्बकेश्वरपुरी. नामादिनिर्णय, यात्रानिर्णय. Composed in संवत् 1752 (द्वीषु Composed about 1159-60 A. सप्तेन्दुवत्सरे) i. e. 1695-96 A. D. D. (vide Ind. Ant., rol. 51 | ___Vide N. vol. II. p. 126 for the for 1922 pp. 146-47); m. in same author's com. (सेतु) on वृत्त ब्राह्मणसर्वस्व of हलायुध. Men- रत्नाकर (composed in 1732 संवत्). tions वराहमिहिर by name | शुद्धिप्रकाश m. by रघु. in शुद्धितत्त्व. and quotes largely from 
+संध्यावन्दनभाष्य by वेङ्कटाचार्य (on ऋक्संध्या.)
 
-| शुद्धिप्रकाश by कृष्णशर्मन, son of his works. 
+संध्यावन्दनभाष्य by व्यास, pupil of नृसिंह. Stein's Cat. p. 256.
 
-नरसिंह at the bidding of छोटराय. C. प्रभा by कृष्णाचार्य 
+संध्यावन्दनभाष्य by शङ्कराचार्य ?
 
-| शुद्धिप्रदीप of केशवभट्टः Vide शुद्धिदीप C. प्रकाश by राघवाचार्य (pr. at / 3 
+संध्यावन्दनभाष्य by शत्रुघ्न (Ulwar Cat. No. 1514).
 
-_above. Calcutta in 1901). C. अर्थकौमुदी by गोविन्दानन्द 
+संध्यावन्दनभाष्य by श्रीनिवासतीर्थ.
 
-शुद्धिप्रदीपिका by कृष्णदेवस्मार्तवागीश. कविकङ्कणाचार्य, son of गणपति- शुद्धिप्रभा by वाचस्पति. भट्ट. Vide ses. 106 p. 882; pr. 
+संध्यावन्दनमन्त्र—there are several works with this title for the followers of the different Vedas.
 
-शुद्विबिम्ब m. in शुद्विविवेक of रुद्रधर. at Calcutta in 1901. 
+संध्यामन्त्रव्याख्या ब्रह्मप्रकाशिका by वनमालिमिश्र, pupil of भट्टोजि. Stein's Cat. p. 256. About 1650 A. D.
 
-___Earlier than 1425 A. D. by दुर्गदत्त. Based on प्रपञ्चसार. (Hp. Cat. pp. xxi and 2.):). शुद्विमकरन्द by सिद्धान्तवाचस्पति. by नारायणसर्वज्ञ. 
+संध्यारत्नप्रदीप by आशाधरभट्ट (Baroda O. I. No. 29).
 
-शुद्धिमयूख by नीलकण्ठ. Vide sec. by केशवभट्ट. Same as शुद्धि- 112 (pr. by J. R. Gharpure in प्रदीप. 
+संध्यावन्दनविवरण—from the द्विजकल्पलता.
 
-Bombay). शुद्धिदीपिकावृत्ति by मथुरानाथशर्मन् . | शुद्धिमुक्तावली by महामहोपाध्याय भीम शुद्धि निबन्ध of मुरारि, son of रुद्र- of काञ्जिविल्लीयकुल (in Bengal ). शर्मन् . His grandfather हरिहर | On आशौच. N. (new series) II was chief judge of देवसिंह, eldest ___p. 201. son of भवेश of मिथिला and his 
+संध्याविधिमन्त्रसमूहटीका by रामानन्दतीर्थ.
 
-शुद्धिरत्न from the अनूपविलास. greatgrand-father जयधर लाढ was chief judge of भवेश. About 
+संध्यासूत्रप्रवचन by हलायुध.
 
-शुद्धिरत्न by दयाशङ्कर. 1450 A. D. 
+संन्यासकर्मकारिका.
 
-शुद्धिरत्न by मणिराम, son of गङ्गाराम शुद्धिनिर्णय by उमापतिः 
+संन्यासग्रहणपद्धति by आनन्दतीर्थ, son of जनार्दनभट्ट.
 
-शुद्धिरत्नाकर by चण्डेश्वर. Vide see. शुद्धिनिर्णय by गोपाल. 
+संन्यासग्रहणपद्धति by शङ्कराचार्य.
 
-___9l p. 766. शुद्धिनिर्णय by वाचस्पति महामहो- | शुद्धिरत्नाङ्कुर by मथुरानाथचक्रवर्ती. 
+संन्यासग्रहणपद्धति attributed to शौनक.
 
-पाध्याय सन्मिश्र. Vide see. 101 | शुद्धिलोचन. p. 853. 
+संन्यासग्रहणरत्नमाला by भीमाशङ्करशर्मन् (Baroda O. I. 12305).
 
-शुद्धिवचोमुक्तागुच्छक by माणिक्यदेव शुद्धिपक्षी m. in शुद्धितत्व of रघु०. । (styled अग्निचित् and पण्डिताचार्य) शुद्धिप्रकाश by (हरि) भास्कर of Bena- I on माशौच, आपद्धर्म, प्रायश्चित्त &c. res, son of मापाजिभट्ट, son of | (Tri. Cat. of Madras Govt. Mss. हरिभट्ट, son of पुरुषोत्तम who was | for 1919-22 p. 5474). 
+संन्यासग्राह्यपद्धति alias संन्यासप्रयोग alias सप्तसूत्री ascribed to शंकराचार्य (on rites when a person enters order of संन्यास).
 
-H. D.-141 
+संन्यासदीपिका by अग्निहोत्रिगोपीनाथ (Baroda O. I. 10057).
 
-1122 
+संन्यासदीपिका by सच्चिदानन्दाश्रम pupil of नृसिंहाश्रम (Ulwar Cat. extract 363).
 
+संन्यासधर्मसंग्रह by अच्युताश्रम.
 
+संन्यासनिर्णय by पुरुषोत्तम.
 
-सुद्धिविवेक. 
+संन्यासनिर्णय by वल्लभाचार्य, in verse.
 
-and केशवमिश्र. About end ot (1) by रुद्रधर, son of लक्ष्मीधर and | 15th century. (N. vol. VI p. 7). youngest brother of हलधर | शूद्रकमलाकर or शूद्रधर्मतत्त्व of Vide sec. 99 p. 840. 
+C by same.
 
-कमलाकरभट्ट. Vide sec. Ill. (2) by श्रीनाथ, son of श्रीकराचार्य: 
+C. विवरण by पुरुषोत्तम son of पीताम्बर. D. C. Ms. No. 175 of 1884–86.
 
-शूद्रकर्मवृत्ति m. in शूद्राचारशिरोमणि Mentions शूलपाणि at end. 1475- | ___of शेषकृष्ण 1525 A. D. 
+C. by रघुनाथ, pupil of विट्ठलदीक्षित, BBRAS Cat. vol. II p. 327.
 
-शूद्रकुलदीपिका by रामानन्दशर्माः (3) a portion of the great by 
+C. by विठ्ठलेश.
 
-Deals with genealogy and अनिरुद्ध. 
+संन्यासपदमञ्जरी by वरदराजभट्ट.
+[[P1140]] संन्यासपद्धति m. in नि. सि., श्राद्धमयूख.
 
-history of the riffs of Bengal (4) by शूलपाणि. Vide sec. 98. 
+संन्यासपद्धति by अच्युताश्रम.
 
-(N. vol. II p. 55). शुद्धि विवेकोद्योत-part of मदनरत्न. 
+संन्यासपद्धति by आनन्दतीर्थ, the founder of the माध्वमत (1119–1199 A. D.). Stein's Cat. p. 318 for extract.
 
-शूद्रकृत्य by लालबहादुर. शुद्धिव्यवस्थासङ्केप of चिन्तामणिन्यायः 
+संन्यासपद्धति by निम्बार्कशिष्य.
 
-शूद्रकृत्यविचारतत्त्व of रघु०. Vide sec. वागीश, a native of गौड. A part 
+संन्यासपद्धति by ब्रह्मानन्दिन् Baroda O. I. No. 1676 is a संन्यासपद्धति following ब्रह्मानन्दीयपद्धति.
 
-107. of स्मृतिव्यवस्थासंक्षेप; Ms. copied in sake 1610 (1688-89 A. D.). 
+संन्यासपद्धति by रुद्रदेव (extracted from प्रतापनारसिंह).
 
-शूद्रजपविधान. Vide N. vol. IV p. 130. He शूद्वधर्मतत्त्व of कमलाकरभट्ट. The wrote similar works ou falet, 
+संन्यासपद्धति ascribed to शङ्कराचार्य (I. O. Cat. p. 521 No. 1642).
 
-___same as शूदकमलाकर. प्रायश्चित्त, उद्वाह, श्राद्ध and दाय. 
+संन्यासपद्धति ascribed to शौनक (N. vol. II. p. 101).
 
-शूद्रधर्मबोधिनी by मदनपाल ; the शुद्धिव्यवस्थासंग्रह 
+संन्यासभेदनिर्णय.
 
-same as the स्मृतिकौमुदी of शुद्धिसार. 
+संन्यासरत्नावलि by पद्मनाभभट्टारक (according to माध्व tenets).
 
-मदनपाल. Sec. 94 p. 798. (1) by कृष्णदेव स्मार्तवागीश, a| शुद्रधर्मोदद्योत- part of दिनकरोदा 
+संन्यासरीति.
 
-वन्द्यघटीयब्राहाण. 
+संन्यासवरण by वल्लभाचार्य. N. vol. X. p. 178.
 
-द्योत, completed by गागाभट्ट. (2) by गदाधर. 
+संन्यासविधि by विष्णुतीर्थ (Baroda O. I. 8512).
 
-शूद्रपञ्चसंस्कारविधि by कश्यप. (3) by श्रीकण्ठशर्मन् . N. (new 
+संन्यासाह्निक.
 
-series) vol. I. p. 372. 
+संन्यासिपद्धति (for वैष्णवs) I. O. Cat. p. 523.
 
-शूद्रपद्धति by अपिपाल, son of देहण 
+संन्यासिमरणोत्तरविधि Stein's Cat. p. 107.
 
-पाल, son of त्रिविक्रम, son of शुद्धिसेतु by उमाशङ्कर. 
+संन्यासिसन्ध्या.
 
-मकरन्दपाल. One Ms. copied in शुनःपुच्छस्मृति m. in मिता (या. III. 
+संन्यासिसमाराधन.
 
-शके 1442 i. e. 1520 A, D. (N. ___16), अपराके. 
+संन्यासिसापिण्ड्याविधि by वेदान्तरामानुज तातदास, on the ascetic's son performing सपिण्डीकरण for his father.
 
-vol. V. p. 302) in गौडदेश; m. in शुभकर्मनिर्णय by मुरारिमिश्र. Treats श्राद्धक्रियाकौमुदी and in श्राद्धतत्व. of domestic rites according to Expressly says that it was गोमिल. Gives pedigree of patron based on सोममिश्र's work. The as king लक्ष्मीनारायण of वङ्गदेश English note in N. is wrong. his son रूपनारायण-वीरनारायण- The verse at the end says नरनारायण जगनारायण त्रिविक्रमना- distinctly that it was copied in रायण, who is said to have writ- शाके युग्मसरोजसम्भवमुखाम्भोराशि ten the work with the help of चन्द्रान्विते i. e. sake 1442 (1520 मुरारि, whose gurus were रामभद्र । ___A. D.). 
+सन्मार्गकण्टकोद्धार by कृष्णतात (on the necessity of सपिण्डीकरण for प्रपन्न).
 
-List of works on Dharmaśāstra 
+सन्मार्गकण्टकोद्धारखण्डन (Madras Govt. Mss. Cat. vol VI p. 2314 No. 3093).
 
-1123 
+सपिण्डनिर्णय.
 
-शूद्रपद्धति by गोपाल, son of कृष्ण, पिलाजीनृप, son of केशवदास, who son of गोपाल surnamed उदास. showed bis prowess in the A very large work on 10 south and is styled परमवैष्णव. संस्कारs of शूद्रs viz. गर्भाधान, पुंस- D. C. Ms. No. 55 of 1872-73 वन, अनवलोभन, सीमन्तोन्नयन, was copied at स्तम्भतीर्थ (modern जातकर्म, नामकरण, निष्क्रमण, अब Cambay) in संवत् 1647 फाल्गुन प्राशन, चूडाकर्म, विवाह and also वदि ४ गुरौ ( 4th March 1591). on पञ्चमहायज्ञs. Refers to मयूख Names गोविन्दार्णव, मिताक्षरा, and Nicara. Later than 1640 शङ्खधर, शूद्रकर्मवृत्ति, शूद्रोत्पत्ति, A. D. Portion on संस्कार is स्मृतिकौमुदी and is mentioned styled also संस्कारदीपिका. in आचाररत्न of लक्ष्मण (on भूत शूद्रपद्धति published by कृष्णराज as 
+सपिण्डीकरण.
 
-यज्ञ ). Between 1520-1590 A. 
+सपिण्डीकरणखण्डन.
 
-D. For the Te family, vide a part of स्मृतिमहाराज. Men tions मदनरत्न. Begins 
+सपिण्डीकरणविधि.
 
-Ind. Ant. vol. 41 p. 245 ff. 
+सपिण्डीकरणश्राद्ध.
 
-with गोदान. Baroda O. I. No. 8023. शूद्राचारसंग्रह or सच्छूद्राचार by नवर शूद्रविवेक by रामशङ्कर. 
+सपिण्डीकरणान्तकर्म.
 
-सौन्दर्यभट्टः शूद्रश्राद्धपद्धति by रामदत्तठक्कुर 
+सपिण्डीकरणान्वष्टका.
 
-| शूद्राहःकृत्यतत्व or -प्रयोग of रघु०. N. 
+सपिण्डीश्राद्ध by रघुवर (C. P. Cat. No. 6221).
 
-(new series ) vol. II. p. 200. शूद्रषट्कर्मचन्द्रिका. 
+सप्तपाकयज्ञभाष्य.
 
-शूद्रालिका शूद्भसंस्कारदीपिका by गोपालभट्ट, son 
+सप्तपाकयज्ञशेष Divided into four प्रश्नs, each प्रश्न being divided into अध्यायs. N. vol. II. pp. 122–125.
 
-of कृष्णभट्ट (Baroda O. I. 8975). शूद्राह्निकाचार of श्रीगर्भ. Palm-leaf 
+सप्तपाकसंस्थाविधि by दिवाकर, son of महादेव; on श्रवणाकर्म, सर्पबलि, आश्वयुजी, आग्रयण, अष्टका and पार्वणश्राद्ध. Names हेमाद्रि and कौस्तुभ.
 
-Ms. dated śake 1462 i. e. 1540 IGHT ( Ulwar Cat. No. 1492 ). 41 A. D. शूद्रस्मृति. 
+सप्तमठाम्नायिक—vide मठाम्नायादिविचार.
 
-शूद्राहिकाचारसार by यादवेन्द्रशर्मन्, शुद्धाचार. Appears to contain only | 
+सप्तर्षिमत or -स्मृति m. in नि. सि.
 
-under order of रघुदेव, prince of extracts from gamms. 
+[[सप्तर्षिंमतस्मृति|सप्तर्षिमतस्मृति]] in 36 verses (I. O. Cat. p. 402). The seven sages are नारद, वसिष्ठ, कौशिक, पैङ्गल, गर्ग, कश्यप, कण्व.
 
-गौड, son of वासुदेव. N. ( new 
+सप्तर्षिस्मृतिसंग्रह.
 
-series) I. p. 373. शूद्राचारचिन्तामणि by वाचस्पतिमिश्र, | 
+सप्तव्यसनकथासमुच्चय by सोमकीर्ति आचार्य (N. vol. VIII. p. 144).
 
-written at the court of हरिनारा- | शूद्रीपद्धति यण of मिथिला. Vide sec. 101. | शूद्रोत्पत्ति m. in शुदचारशिरोमणि of शूद्राचारपद्धति of रामदत्तठक्कर. It is शेषकृष्ण. 
+सप्तसंस्थाप्रयोग by अनन्तदीक्षित, son of विश्वनाथ, surnamed यज्ञोपवीत.
 
-doubtful whether he is the | शूद्रोद्योत- ride शूद्रधर्मोद्योत same as रामदत्त, cousin of | above. चण्डेश्वर 
+सप्तसंस्थाप्रयोग by बालकृष्ण, son of महादेव.
+[[P1141]] सप्तसंस्थाप्रयोग from the राजधर्मकौस्तुभ of अनन्तदेव.
 
-शैवकल्पद्रुम by अप्पय्यदीक्षित. शूद्राचारविवेकपद्धति by गोण्डिमिश्र. शैवकल्पद्रुम by लक्ष्मीचन्द्र मिश्र. शूद्राचारशिरोमणि by कृष्णशेष, son of | शैवतत्त्वप्रकाश. नृसिंहशेष who wrote गोविन्दाणव. शैवतत्त्वामृत. Work composed at request of | शैवतात्पर्यसंग्रह. 
+सप्तसंस्थाप्रयोग from the प्रयोगरत्न of नारायणभट्ट.
 
-1124 
+सप्तसूत्रसंन्यासपद्धति. Rules for ordination of saṁnyāsins and for the ten orders (तीर्थ, आश्रम, अरण्य, गिरि, पर्वत, सागर, सरस्वती, भारती and पुरी) and account of the ten great teachers from ब्रह्मा to शंकराचार्य and the latter's disciples. N. vol. VI. p. 295.
 
+सभापतिलक्षण.
 
+समयकमलाकर by कमलाकर.
 
-शैवधर्मखण्डन. 
+समयकल्पतरु by पन्तोनीभट्ट, son of लक्ष्मणभट्ट. Vide Bik. Cat. p. 451 (which gives only एकादशीनिर्णय out of it).
 
-कारिकाs and Baroda 0. I. No. वरत्नाकर by ज्योतिर्नाथ. Hultzsch | ___8637. ___R. I. No. 76. 
+समयनय by विश्वेश्वर, son of दिनकर, for शम्भुराज (the Maratha king Sambhaji) in 1681.
 
-शौनककारिकावली (C. P. Cat. 5898). शैववैष्णवप्रतिष्ठाप्रयोग. 
+समयनिर्णय by अनन्तभट्ट on times proper for religious rites; Ms. (N. vol. VIII. p. 205) dated *śake* 1602 (1680–81 A. D.).
 
-शौनकगृह्य m. by विश्वरूप, अपरार्क, शैववैष्णवमतखण्डन. 
+समयनिर्णय—the 5th part of the प्रतापमार्तण्ड by रामकृष्ण, son of माधव, son of नारायण of the पराशरगोत्र. Composed at the order of king प्रताप (रुद्रदेव). About 1500–1525 A. D.
 
-हेमाद्रि. शैवसर्वस्व of हलायुध m. in his | शौनकगृह्यपरिशिष्ट m. by अपरार्क 
+समयप्रकाश by मुकुन्दलाल.
 
-ब्राह्मणसर्वस्व. 
+समयप्रकाश by रामचन्द्रयज्वन्. Vide N. vol. VIII. p. 213.
 
-(two verses ) on p. 525. शैवसर्वस्वसार by विद्यापति, composed | शौनकपञ्चसूत्र. 
+समयप्रकाश by विष्णुशर्मा described as स्वराट्सम्राडग्निचित्स्थपतिमहायाज्ञिक. It is a part of a digest called कीर्तिप्रकाश; composed by order of कीर्तिसिंह, son of कनकसिंह, born in गौर family. His बिरुदs are 'कोदण्डपरशुराममानोन्नत' which are the same as those of मदनसिंहदेव under whom मदनरत्न was compiled. It is probably this work that is mentioned by श्राद्धक्रियाकौमुदी, मलमासतत्त्व of रघु० as समयप्रकाश.
 
-at the bidding of queen fasta 
+समयप्रदीप by विट्ठलदीक्षित (C. P. Cat. 6284).
 
-शौनकस्मृति. Vide BBRAS Cat. देवी, wife of पद्मसिंह of मिथिला, 
+समयप्रदीप by श्रीदत्त. Vide sec. 90.
 
-___p. 208 for a large work in verse son of शिवसिंह, son of देवसिंह, 
+C. जीर्णोद्धार by मधुसूदनठक्कुर.
 
-on पुण्याहवाचन, नान्दीश्राद्ध,स्थाली. son of भवेश. Between 1400-- 
+समयप्रदीप by हरिहरभट्टाचार्य, composed in *śake* 1481 (शाके महीमङ्गलवेदचन्द्रसंख्यागते) i. e. 1559–60 A. D. Doubtful whether he was father of रघु०. N. vol. III. pp. 55–56 and Baroda O. I. No. 10120. It deals with astrological मुहूर्तs for religious rites.
 
-पाक, ग्रहशान्ति, गर्भाधान and 1450 A. D. ( N. vol. VI. 
+समयमनोरमा (C. P. Cat. 6286).
 
-other संस्कार, उत्सर्जनोपाकर्म, बृह pp. 1-5). 
+समयमयूख or कालमयूख by नीलकण्ठ. Vide sec. 112. Pr. by Mr. Gharpure.
 
-स्पतिशान्ति, मधुपर्क, पिण्डपितृयज्ञ, शैवसिद्धान्तदीपिका. 
+समयमयूख by कृष्णभट्ट.
 
-पार्वणश्राद्ध, आग्रयण, प्रायश्चित्त &c. शैवसिद्धान्तशेखर or सिद्धान्तशखर m. 
+समयरत्न by मणिराम.
 
-Mentiors आचारस्मृति, प्रयोगपारि _in नि. सि. 
+समयालोक by पद्मनाभभट्ट. Vide दुर्गावतीप्रकाश.
 
-जात, बृहस्पति, मनु. शैवसिद्धान्तसंग्रह. 
+समयोद्योत—part of मदनरत्न.
 
-शौनकी- on the worship of they शैवसिद्धान्तसार. शैवसिद्धान्तसारावलि or सिद्धान्तसारा- श्रवणद्वादशीनिर्णय by गोपालदेशिक. 
+समरसार by रामचन्द्र, son of सूर्यदास. Deals with astrological calculations from names of belligerents &c.
 
-श्राद्धकमल m. in श्राद्धकल्पलता of शैवाहिक 
+[[P1142]] C. by भरत younger brother of author. Stein's Cat. p. 174.
 
-नन्दपण्डित. शौचलक्षण 
+C. by शिवदास, son of सूर्यदास and विशालाक्षा. He calls the author his गुरु. N. II. pp. 204–206.
 
-श्राद्धकला the 5th part of the स्मृति 
+समस्तकालनिर्णयाधिकार.
 
-चन्द्र of भवदेवशर्मन् . Mentions शौचसंग्रहविवृति by भट्टाचार्यः 
+समानप्रवरग्रन्थ—Stein's Cat. p. 107.
 
-कल्पतरु's definition of श्राद्ध 'पित् शौचाचमनविधिः 
+समावर्तनकालप्रायश्चित्त.
 
-नुद्दिश्य द्रव्यत्यागो ब्राह्मणस्वीकारपये शौचाचारपद्धति m. by हेमाद्रि in व्रत- न्तम्'. N. vol. I. p. 299. 
+समावर्तनप्रयोग by श्यामसुन्दर.
 
-खण्ड I. 59. 
+समुदायप्रकरण by जगन्नाथसूरि.
 
-श्राद्धकलिका alias श्राद्धपद्धति of शौनककारिका or शौनकोक्तवृद्धकारिका 
+समुद्रकरभाष्य on श्राद्धसूत्र m. in आह्निकतत्त्व, श्राद्धतत्त्व of रघु०.
 
-रघुनाथ. He bows to भट्टनारायण. 
+समुद्रयानमीमांसा.
 
-Quotes कालादर्श, धर्मप्रवृत्ति, निर्ण (D. C. Ms. 97 of 1869-70 ). An extensive work in 20 
+संप्रदायप्रदीप by गदद्विवेदिन्; composed at वृन्दावन in संवत् 1610 (1553–54 A. D.); in five प्रकरणs; gives परम्परा of विष्णुभक्तिमार्ग from पुरुषोत्तम, ब्रह्मा, नारद, कृष्णद्वैपायन, शुक; speaks of the तिरोधान of the path and then of वल्लभ, his son विठ्ठल, his sons गिरिधर and others who were living when work was composed; mentions the five things (वस्तुपञ्चक) on which वल्लभ dwelt (viz. गुरुसेवा, भागवतार्थ, भगवत्स्वरूपनिर्णय, भगवत्सेवा, नैरपेक्ष्य); narrates stories of कुमारपाल and हेमचन्द्र, शङ्कराचार्य and सुरेश्वर, मध्वाचार्य, रामानुज and निम्बादित्य and of birth of वल्लभ while his parents were running away from [[Kāśi|Kāśī]]. [[D. C|D. C.]] Ms. No. 176 of 1884–86.
 
-यामृत, नारायणवृत्तिकृत्, जयन्त 
+संबन्धगणपति by गणपति रावल, son of हरिशङ्करसूरि, on auspicious times for marriage, forms of marriage etc. About 1685 A. D.
 
-स्वामी, हेमाद्रि, हरदत्त, स्मृतिरत्ना. अध्यायs in verse on domestic 
+संबन्धचूडामणि Ano.; on prohibited degrees of relationship in marriage.
 
-वलि. ( D. C. Ms. No. 421 of rites. Mentions आश्वलायनाचार्य, | 
+संबन्धतत्त्व m. in नि. सि.
 
-_1891-95). five शाखाs of the ऋग्वेद, सर्वा नुक्रमणी; Ms. written in संवत् । श्राद्ध कलिकाविवरण of विश्वरूपाचार्य 1653 (1566-67 A. D.). Vide | m. in षण्णवतिश्राद्धनिर्णय of शिवः 
+संबन्धनिर्णय by गोपालन्यायपञ्चाननभट्टाचार्य on relationship that allowed or disallowed marriage between the parties (such as सपिण्ड, समानोदक, सगोत्र, समानप्रवर, बान्धव).
 
-Bik. Cat. p. 152 for शौनक- । 
+संबन्धप्रदीपिका by विद्यानिधि (Baroda O. I. 10106).
 
-ग्रह. 
+संबन्धरहस्य m. in स्मृतिरत्नावली.
 
-वलि. 
+संबन्धविवेक by भवदेवभट्ट m. in उद्वाहतत्त्व and संस्कारतत्त्व. Vide sec. 74.
 
-THEHORE 
+संबन्धविवेक by शूलपाणि; m. by रघु० in शुद्धितत्त्व, who mentions a परिशिष्ट thereto in संस्कारतत्त्व. Vide sec. 98 and N. (new series) vol. I preface p. x.
 
-भट्ट 
+संबन्धविवेकपरिशिष्ट of धनञ्जय m. in उद्वाहतत्त्व and संस्कारतत्त्व (p. 891 of रघु०). This is probably a परिशिष्ट to भवदेव's work.
 
-List of works on Dharmaśāstra 
+संबन्धव्यवस्थाविकाश or उद्वाहव्यवस्था (N. II. p. 334, different from उद्वाहव्यवस्था above).
 
-1125 
+सरटपतनशान्ति.
 
-श्राद्धकल्प (मानव ) BBR AS Cat. | 
+सरला (seems to be a भाष्य on गोभिलगृह्य) m. by रघु० in उद्वाहतत्त्व, एकादशीतत्त्व and छन्दोगवृषोत्सर्गतत्त्व.
 
-expressly mentions the vol. II p. 17. 
+सरस्वतीदशश्लोकी.
 
-भाष्य of नीलाम्बर on कात्यायन. (1) ( कात्यायनीय also called 
+सरस्वतीविलास by प्रतापरुद्रदेव of the गजपति dynasty of Orissa. Vide sec. 104.
 
-(2) a परिशिष्ट of the मानवगृह्य. श्राद्धकल्पसूत्र or नवकण्डिका- (3) गोभिलीय. श्राद्धसूत्र in 9 chapters 
+[[P1143]] सरोजकलिका by भास्वत्कविरत्न. Contains dissertations on topics of धर्म such as श्राद्ध, आशौच, शुद्धि, गोत्र for purposes of marriage. Mitra regards it as ancient, as it names no work (N. vol. VI. p. 39).
 
-C. by महायशस् ( Baroda O. I. followed by 9 श्लोकs on श्राद्ध 
+सरोजसुन्दर or स्मृतिसार by कृष्णभट्ट. Ulwar Cat. extract No. 370. Peterson seems to be wrong in saying that सरोजसुन्दर is the author (Ulwar Cat. No. 1537).
 
-12895). ceremonies; pr. at Gujarati 
+सर्पबलि.
 
-P. with several com. 
+सर्वतीर्थयात्राविधि by कमलाकर.
 
-(4) मैत्रायणीय. C.प्रयोगपद्धति ( N. vol. II p. 
+सर्वदेवताप्रतिष्ठासारसंग्रह.
 
-(5) 44th परिशिष्ट of अथर्ववेद. 174). 
+सर्वदेवप्रतिष्ठाकर्म.
 
-(6) वासिष्ठ. C. (श्राद्धविधिभाष्य ) by कर्क ( pr. श्राद्धकल्प. 
+सर्वदेवप्रतिष्ठाप्रयोग by माधवाचार्य. N. (new series) vol. III p. 219.
 
-Gujarati P. ). 
+सर्वदेवप्रतिष्ठाविधि by a son of रामचन्द्रदीक्षित.
 
-by काशीनाथ. C. श्राद्धकाशिका of कृष्णमिश्र, son 
+सर्वदेवमूर्तिप्रतिष्ठाविधि.
 
-by भर्तृयज्ञ. of विष्णुमिश्र, son of अतिसुख, 
+सर्वधर्मप्रकाश by शङ्करभट्ट, son of नारायणभट्ट. Vide धर्मप्रकाश.
 
-by वाचस्पति. Also styled पित son of नित्यानंद ; m. in नि. 
+सर्वधर्मप्रकाशिका of वल्लभ in 426 verses on रामभक्ति in various months and तिथिs and connected festivals and rites such as मदनोत्सव on चैत्रद्वादशी, क्षीराब्धिशयनोत्सव on आषाढशुक्लद्वादशी, मुद्राधारणविधि, चातुर्मास्यव्रतविधि (D. C. Ms. 331 of 1887–91).
 
-___ भक्तितरङ्गिणी. Vide sec. 101. सि. Refers to कर्क's and 
+सर्वपुराणसार by शङ्करानन्द.
 
-by श्रीदत्त. Also styled छन्दोग हलायुध's com. ( pr. by Guja. 
+सर्वपुराणार्थसंग्रह by वेङ्कटराय.
 
-श्राद्ध. Vide see. 90 p. 761. rati P.). 
+सर्वप्रायश्चित्तप्रयोग by अनन्तदेव.
 
-Based on स्मृति, गृह्य, पुराण C. by गदाधर, son of वामन 
+सर्वप्रायश्चित्तप्रयोग by बालशास्त्रिन् or बालसूरि, son of शेषभट्ट, son of नारायणभट्ट कागलकर. Wrote under Tanjore king, Śarabha, son of Tulaja.
 
-and गोपाल and भूप ( N. vol. ( Ulwar Cat. 1509 and 
+सर्वप्रायश्चित्तलक्षण.
 
-IIT. p. 34 and II. p. 364 ). extract 358 ); pr. Gujarati P. 
+सर्वव्रतोद्यापन by अनन्तदेव.
 
-by हेमाद्रि ( Peterson's 6th Re C. श्राद्धसूत्रार्थमञ्जरी by गदाधर. 
+सर्वव्रतोद्यापनप्रयोग.
 
-port p. 11 ). Refers to चतु C. by नीलासुर, son of सङ्कर्षण 
+सर्वशान्ति.
 
-aliifarata fū as his work. (Ulwar Cat. extract 44 ). C. by समुद्रकर (m. in तिथितत्त्व 
+सर्वशान्तिप्रयोग– quotes हेमाद्रि (Bik. Cat. p. 459).
 
-श्राद्धकल्पदीप of होरिलत्रिपाठी. p. 174). 
+सर्वशास्त्रार्थनिर्णय by कमलाकर. Vide BBRAS, Cat. p. 238 No. 744 (Ms. dated śake 1637) and Bik. Cat. p. 459.
 
-श्राद्धकल्पदुमः C. by हलायुध, son of सङ्कर्षण. 
+सर्वसंस्कारसंग्रह m. in नि. सि.
 
-श्राद्धकल्पना vide ( I. O. Cat. p.558.) Mentions गोविन्दराज and | श्राद्धकल्पभाष्य. vide under गोभि शङ्खधर and is m. by श्राद्ध लीयश्राद्धकल्प. काशिका. Vide p. 636 above. 
+सर्वसारसंग्रह by भट्टोजि. Between 1600–1650.
 
-श्राद्ध कल्पलता of गोविन्दपण्डित; m. It appears from the intro 
+सर्वस्मृतिसंग्रह by सर्वक्रतुवाजपेययाजिन्.
 
-___by नन्दपण्डित in his श्राद्धकल्पलता. ductory and final verses 
+सर्वाग्रयणकालनिर्णय.
 
-श्राद्ध कल्पलता by नन्दपण्डित. Vide that the Ms. (BBRAS. 
+सर्वाद्भुतशान्ति.
 
-___sec. 110. Cat. vol, II. p. 170) is the | same as the Ulwar Ms. and 
+सर्वारिष्टशान्ति.
 
-श्राद्धकल्पसार by शङ्करभट्ट, son of that नीलासुर is a wrong 
+[[सर्वोपयुक्कारिका|सर्वोपयुक्तकारिका]]– Ano.; in 14 verses on श्राद्ध.  
+C. Ano. (by one familiar with Marathi as he translates कोद्रव as पाकड, यावनाल as जोंधळा, राजमाष as अलसंदा). Ms. in Bhadkamkar collection. The colophon at end says that कारिकाs follow भट्टोजि's work. The first verse on तिलतर्पणनिषिद्धदिन is भौमेर्के 'भृगुजे मघागृहनिशासप्तम्यनङ्गाह्वया नन्दाजन्मदिनेषु संधियुगुले नो तर्पणं स्यात्तिलैः । नोद्वाहव्रतचौलवृद्धिषु समाधार्धैकमासं क्रमान्नो दुष्येत्तु मृतौ महालयगयापुण्याहतीर्थादिषु ॥'.
 
-नारायणमह. 
+[[P1144]] सहगमनविधि or सतीविधान ascribed to गोविन्दराज (I. O. Cat. p. 578 No. 774). In 66 verses.
 
-C. by author. of the original reading 
+सहगमनश्राद्ध.
 
-Vide Stein's नीलाम्बर which means हला 
+सहचारविधि on ceremonies performed when a wife burnt herself on her husband's pyre.
 
-Cat. pp. 105, 316. युध. यजुर्वेदिश्राद्धतत्त्व (Jiva- | श्राद्धकल्पसूत्र- vide श्राद्ध कल्प (कात्या. nanda vol. II. p. 496)| यनीय) above. 
+सहचारविधि or सहगमनविधि– D. C. Ms. No. 183 of 1884–86 is dated संवत् 1686.
 
-1126 
+सहस्रचण्डीविधान by कमलाकर.
 
+सहस्रचण्डीविधि (Ulwar Cat. 1528, extract 365).
 
+सहस्रचण्डीशतचण्डीविधान.
 
-श्राद्धकल्पसूत्र or नवकण्डिकासूत्र 6th | No. 5921 ). Vide श्राद्धसंग्रह 
+सहस्रचण्ड्यादिविधि by कमलाकर, son of रामकृष्ण. Refers to निर्णयसिन्धु as his own work (N. IX. [[pp|pp.]] 203–204[[)|).]] About 1612 A. D.
 
-परिशिष्ट of कात्यायन; vide नवक- below. ण्डिकासूत्र. 
+सहस्रभोजनविधि. Stein's Cat. p. 107.
 
-श्राद्धचन्द्रिका श्राद्धकाण्ड from the प्रयोगपारिजात 
+सहस्रभोजनसूत्रव्याख्या by भास्करराय, son of गम्भीररायदीक्षित (Ulwar Cat. extract 28). The original sūtras are बौधायन's.
 
-(1) by दिवाकर, son of महादेव, of नृसिंह. 
+सहानुमरणविवेक by अनन्तराम विद्यावागीश, son of रामचरण न्यायालङ्कार. Mentions शुद्धितत्त्व, विवादभङ्गार्णव. About 1800 A. D. (N. vol. VII. p. 223).
 
-son of बालकृष्ण of the भार. श्राद्धकाण्ड by भट्टोजि. 
+सहृदय by हरि on आचार. N. vol. VII. p. 281.
 
-द्वाजगोत्र. Part of his धर्म: श्राद्धकाण्ड by वैद्यनाथ दीक्षित, part शास्त्रसुधानिधि An अनुक्रमणी 
+सांवत्सरिकश्राद्ध.
 
-of स्मृतिमुक्ताफल. 
+सांवत्सरिकैकोद्दिष्टश्राद्धप्रयोग according to यजुर्वेद. N. II. p. 66.
 
-to it was prepared by his श्राद्धकाण्डसंग्रह by वैद्यनाथ probably 
+सागर– several works are so called viz. अद्भुतसागर, दानसागर, स्मृतिसागर.
 
-son वैद्यनाथ. Vide under the same as श्राद्धकाण्ड above. 
+सागरधर्मामृत.
 
-आचारार्क. About 1680 A. D. श्राद्धकारिका Ulwar Cat. No. 1496 | (2) by नन्दनः 
+सागरसंहिता m. by हेमाद्रि II. p. 852.
 
-and extract 354. 
+साग्निकविधि rules for funeral ceremonies of agnihotrins.
 
-(3) by रामचन्द्रभट्ट श्राद्धकारिका by केशवजीवानन्दशर्मा. (4) by रुद्रधर, pupil of चण्डेश्वर. श्राद्धकार्यनिर्णयसंक्षेप. 
+सांख्यायनगृह्यसूत्र– vide शाङ्खायनगृह्यसूत्र.
 
-Quotes वर्धमान's definition 
+सांख्यायनगृह्यसंग्रह by वासुदेव. Vide शाङ्खायन०; (pr. in Ben. S. Series).
 
-of श्राद्ध 'संबन्धपदोपनीतान् श्राद्धकालनिरूपण by मधुसूदन वाच 
+साधनचन्द्रिका by केशवेन्द्रस्वामी on observances of वैष्णवs.
 
-स्पति. 
+साधनीद्वादशी (Burnell's Tanj. Cat. p. 110 b.).
 
-पितनुद्दिश्य द्रव्यत्यागः श्राद्धम्।' 
+साधारणप्रायश्चित्तसंग्रह.
 
-No. vol. VIII p. 270. श्राद्धकालनिर्णय श्राद्धकाशिका by कृष्ण, son of विष्णु- (5) by श्रीनाथ आचार्यचूडामणि, मिश्र, son of अतिसुख, son of son of श्रीकराचार्य; m. in यजु नित्यानन्द (pr. in Gujarati वैदिश्राद्धतत्त्व p. 493 as his 
+साधारणव्रतप्रतिष्ठाप्रयोग– according to यजुर्वेद (N. II. p. 632).
 
-Press ed. of पारस्करगृह्य ). Men 
+सापिण्डीमञ्जरी by नागेश.
 
-teacher's work, which criti tions कर्क, धर्मप्रदीप, हलायुध and cizes श्रीदत्त. 1475-1525 A.D. is m. by नन्दपण्डित in श्राहकल्प- श्राद्धचन्द्रिकाप्रकाश- same as श्राद्ध लता and श्राद्धमयूख. Between चन्द्रिका by दिवाकर. 1300-1500 A. D. 
+सापिण्ड्यकल्पलता or –लतिका by सदाशिवदेव alias आपदेव, son of श्रीपति, son of नीलकण्ठ, in 24 verses (or 25 in some mss.), on सापिण्ड्य for marriage. He was a resident of देवालयपुर (D. C. Ms. 613 of 1882–83 copied in śake 1760). The author was pupil of विठ्ठल. The work takes सपिण्ड to mean connected by particles of the same body. Vide N. (new series) vol. III Preface pp. VIII–IX and p. 222 where the verses are said to be 36.  
+C. by नारायणदेव, son of रामकृष्ण, son of सदाशिवदेव (pr. in सरस्वतीभवन series, 1927, with text). He was the author's grandson and pupil of नागेश. Mentions नरहरिसप्तर्षि, वीरमित्रोदय, सापिण्ड्यप्रदीप of his teacher नागेश, द्वैतनिर्णय.
 
-| श्राद्धचिन्तामणि by वाचस्पतिमिश्र ; pr. श्राद्धकृत्यप्रदीप by होलिल. Ulwar at Benares in śake 1814. Vide 
+[[P1145]] सापिण्ड्यतत्त्वप्रकाश of धरणीधर, son of रेवाधर (Baroda O. I. 12783).
 
-Cat. extract 355 gives sec. 101. summary of contents. 
+सापिण्ड्यदीपिका by नागेश, same as सापिण्ड्यमञ्जरी or सापिण्ड्यनिर्णय.
 
-__C. भावदीपिका by महामहोपाध्याय श्राद्धकौमुदी or श्राद्धक्रियाकौमुदी of | __वामदेव (N. vol. V. 165.) 
+सापिण्ड्यदीपिका or सापिण्ड्यनिर्णय by श्रीधरभट्ट (Bhadkamkar collection). Mentions प्रवरनिर्णय. Probably it is this that is mentioned in नि. सि. He was the grand-uncle of कमलाकर and so flourished about 1520–1580 A. D.; D. C. Ms. 208 of A 1882–83 is called अनुकल्प सापिण्ड्यनिर्णय and discusses certain views of श्रीधर about तृतीयकन्यापरिणयन. D. C. Ms. 129 of 1895–98 is dated संवत् 1647 (1590 A. D.).
 
-गोविन्दानन्द. Vide sec. 106 ; pr. 
+सापिण्ड्यनिर्णय by नागोजिभट्ट. Names नन्दपण्डित, अनन्तदेव, गोविन्दार्णव, वासुदेवभट्ट (Ms. in Bhadkamkar collection dated śake 1725).
 
-श्राद्धचिन्तामणि by शिवराम, son of in B. I. Series. 
+सापिण्ड्यनिर्णय of भट्टोजि. D. C. Ms. No. 622 of 1883–84 begins 'अथ सप्तमीपञ्चमीनिर्णयः'.
 
-श्रीविश्राम शुक्. Styled प्रयोग श्राद्धक्रम by याज्ञिकदेव, son of महा- पद्धति or सुबोधिनी; summarises 
+सापिण्ड्यनिर्णय by रामकृष्ण (C. P. Cat. Nos. 6378–80).
 
-देव. 
+सापिण्ड्यनिर्णय by रामभट्ट (Baroda O. I. 5032).
 
-section on श्राद्ध in his कृत्य श्राद्धखण्ड-from प्रयोगपारिजात of | चिन्तामणि ( vide I. O. Cat. p. 
+सापिण्ड्यनिर्णय by श्रीधरभट्ट; m. by व्य. म. The same as सापिण्ड्यदीपिका (D. C. Ms. No. 128 of 1895–98).
 
-नृसिंह. 
+सापिण्ड्यप्रदीप of नागेश; m. in com. on सापिण्ड्यकल्पलतिका. Pr. by Mr. J. R. Gharpure.
 
-538 ). श्राद्धगणपति or श्राद्धसंग्रह of रामकृष्ण, | श्राद्धतत्त्व by रघु०. Vide sec. 1073; 
+सापिण्ड्यमीमांसा m. in नि. सि. probably the same as सापिण्ड्यदीपिका of श्रीधर.
 
-son of कोण्डभट्ट ( C. P. Cat. I pr. by Jivananda. 
+सापिण्ड्यविचार by विश्वेश्वर alias गागाभट्ट (Baroda O. I. 1947).
 
-List of works on Dharmaśāstra 
+सापिण्ड्यविषय by गोपीनाथभट्ट.
 
-1127 
+सापिण्ड्यसार by धरणीधर, son of रेवाधर (Baroda O. I. 12784).
 
-C. विवृति by काशीराम वाचस्पति, श्राद्धदीपिका by श्रीभीम who is de 
+सापिण्ड्यश्राद्धविधि.
 
-son of राधावल्लभ (pr. in ! scribed as काञ्चिविल्लीय (राठीय Bengali characters at Cal- ब्राह्मण) for सामवेद followers. cutta). 
+सामगव्रतप्रतिष्ठा by रघुनन्दन.
 
-N. ( new series ) vol. I. p. 379. C. भावार्थदीपिका by गङ्गाधरचक्र-1 
+सामगवृषोत्सर्गतत्त्व by रघु०. Vide वृषोत्सर्गतत्त्व above.
 
-श्राद्धदीपिकानिर्णय. वर्ती 
+सामगाह्निक– vide छन्दोगाह्निक.
 
-श्राद्धदेवतानिर्णय. C. श्राद्धतत्त्वादर्श by विष्णुरामसि. 
+सामगृह्यपरिशिष्ट– vide गोभिलगृह्यपरिशिष्ट.
 
-| श्राद्धद्वासप्ततिकला. दान्तवागीश, son of जयदेव faurarftat. He commented | श्राद्धनवकण्डिकासूत्र- Vide श्राद्रकल्प 
+सामगृह्यवृत्ति by रुद्रस्कन्द.
 
-on प्रायश्चित्ततत्त्व also. __ (कात्यायनीय) above. श्राद्धतिलक m. in विधानपारिजात. श्राद्धनिरूपण (Ulwar Cat. 1501). श्राद्धदर्पण of जयकृष्णतर्कवागीश; cri- | श्राद्धनिर्णय of उमापति m. in श्राद्ध 
+सामवेदीयदशकर्म of भवदेव. vide कर्मानुष्ठानपद्धति of भवदेव Sec. 74.
 
-ticizes कल्पतरु. Also styled श्राद्ध- कल्पलता of नन्दपण्डित. दीप or -प्रदीप. 
+सामवेदीयसंस्कारपद्धति by वीरेश्वर, son of देवादित्य. N. (new series) vol III. p 221. About 1300 A. D.
 
-श्राद्धनिर्णय of चन्द्रचूर श्राद्धदर्पण of मधुसूदनः 
+सामान्यक्रमवृत्ति.
 
-श्राद्धानिर्णय of शिवभट्ट श्राद्धदीधिति of कृष्णभट्टः 
+सामान्यप्रघट्टक (part of त्रिस्थलीसेतु).
 
-| श्राद्धनिर्णय of सुदर्शन श्राद्धदीप m. by विधानपारिजात 
+सामान्यहोमपद्धति.
 
-श्राद्धनिर्णयदीपिका by विस्मलकवि of श्राद्धदीप by जयकृष्णभट्टाचार्य (also 
+सायणीय– m. in नि. सि. This is probably the प्रायश्चित्तसुधानिधि of सायण.
 
-पराशरगोत्र. Mentions कालादर्श. called oggeto). N. vol. X 107. Refutes कल्पतरु 
+सायंप्रातरौपासन.
 
-श्राद्धनृसिंह of नृसिंह (Cal. S. Col. श्राद्धदीप by दिव्यसिंह महापात्र. 
+सारग्राहकर्मविपाक. Composed by the eldest son of काह्नडदेव, son of पद्मनाभ, a नागरब्राह्मण and compiled in संवत् 1440 (1384 A.D.) at नन्दपद्रनगर under the patronage of कर्णसिंह, minister of king दुर्गसिंह, son of मङ्गलभूपाल. Author says he bases his work on कर्मविपाक of मौलगिनृप or [[P1146]] मौलिगि०, from which he borrowed matter of the extent of 1200 श्लोकs, while his own work extends to 4900 श्लोक units, the author borrowed 276 श्लोक units from विज्ञानेश and 500 from बौधायन. There are 55 प्रकरणs and 45 अधिकारs. Vide I. [[O|O.]] Cat. p. 572 No. 1767, Baroda O. I. No. 9459 and 9082 and Bhandarkar's Report for 1882–83 p. 63 There are quotations from दानखण्ड and आचारदीपक. The Baroda Ms. 9082 was copied in संवत् 1496 (1439 A. D.).
 
-Mss. Cat. vol. II p. 392). श्राद्धदीपकलिका of शूलपाणि: m. in | श्राद्धपति m. by वाचस्पतिमिश्र' द्वैत 
+सारमञ्जरी– [[com on.|com. on]] छन्दोगपरिशिष्टप्रकाश by श्रीनाथ.
 
-नि.सि., विधानपारिजात. 
+सारसंग्रह vide under चाणक्यनीति.
 
-निर्णय (Oxf. Cat. p. 273 b). श्राद्धदीपिका by काशीदीक्षित याज्ञिक, | श्राद्धपक्षी m. in श्राद्धविवेक of रुद्रधर. 
+सारसंग्रह m. in मद. पा., तिथितत्त्व, दीक्षातत्त्व, मलमासतत्त्व of रघु०, सं. कौ.
 
-son of सदाशिवदीक्षित; based on Earlier than 1400 A. D. 
+सारसंग्रह. Ano. on auspicious and inauspicious days for religious rites in 881 verses. Ms. (I. O. Cat. p. 535 No. 1679) dated संवत् 1774 (1717–18 A. [[D|D.]]).
 
-कात्यायनसूत्र and कर्कभाष्य. श्राद्धपद्धति आश्वलायनीय. श्राद्धदीपिका of गोविन्दपण्डित; m. in | श्राद्धपद्धति-पञ्चत्रिंशच्छोकी. 
+सारसंग्रह by मुरारिभट्ट.
 
-श्राद्धकल्पलता of नन्दपण्डित. 
+सारसंग्रह by राघवभट्ट [[m in|m. in]] मलमासतत्त्व of रघु०.
 
-श्राद्धपद्धति by अग्निहोत्रिराम ( Ulwar श्राद्धदीपिका by वेदाङ्गराय, formerly Cat. No. 1503). 
+सारसंग्रहदीपिका by रामप्रसाददेवशर्मन्.
 
-मालजित्, son of तिगुलामट्ट, son of 
+सारसंग्रह by शम्भुदास.
 
-श्राद्धपद्धति by क्षेमराज, son of कुल. रत्नभट्ट of श्रीस्थल in Gujerat. He 
+सारसमुच्चय m. in हेमाद्रिदानखण्ड and शूलपाणि's दुर्गोत्सवविवेक.
 
-मणि, son of लोकमणि, son of wrote पारसीप्रकाश in 1643 A. D. for Emperor Shah Jehan. 
+सारसागर.
 
-बाबूलक्ष्मीकान्त of Kanoj; Ms. (I. 
+सारार्थचतुष्टय by वरदाचार्य.
 
-O. Cat. p. 559) copied in संवत् श्राद्धदीपिका by श्रीनाथमाचार्यचूडा- 1805 (1748-49 A. D.). 
+सारावलि m. by अपरार्क p. 872 (on त्रिपुष्करयोग). Probably an astrological work, such as that of कल्याणवर्मन्, which is mentioned even by Alberuni and so was earlier than 1000 A. D.
 
-मणि, son of श्रीकराचार्य. For सामवेद followers ; m. by रघु. in 
+सारावलि– vide स्मृतिसारावलि.
 
-श्राद्धपद्धति by गोविन्दपण्डित, son of यजुर्वेदिश्राद्धतत्त्व. 1475-1525 A. रामपण्डित. 
+सारासारविवेक.
 
-| श्राद्धपद्धति by दयाशङ्करः 
+सारोद्धार (com. on त्रिंशच्छ्लोकीविवरण) by शम्भुभट्ट.
 
-D. 
+सिंहस्थपद्धति– (on merit by bathing in गोदावरी when Jupiter is in Leo). N. vol. X. p. 348. Based on हेमाद्रि.
 
-1128 
+सिद्धान्तचिन्तामणि m. by रघु० in मलमासतत्त्व.
 
+सिद्धान्तज्योत्स्ना by धनिराम (C. P. Cat. 6521).
 
+सिद्धान्ततत्त्वविवेक by कमलाकर Vide तत्त्वविवेक.
 
-श्राद्धपद्धति by दामोदर. 
+सिद्धान्ततिथिनिर्णय by शिवनन्दन (C. P. Cat. 6522).
 
-श्राद्धप्रदीप by प्रद्युम्नशर्मा, son of श्री. श्राद्धपद्धति by नारायणभट्ट मारडे । 
+सिद्धान्तनिर्णय by रघुराम.
 
-धरशमन्; Ms. dated शके 1448 ( Baroda 0. I. 338 ). 
+सिद्धान्तपीयूष by चित्रपति written for [[Colebrocke|Colebrooke]].
 
-(1526 A. D.). The author is 
+सिद्धान्तबिन्दु on श्राद्ध (Burnell's Tanj. Cat. 143 b.).
 
-described as having jurisdic श्राद्धपद्धति by नीलकण्ठ mentioned 
+सिद्धान्तमञ्जरी vide [[दत्तासिद्धान्तमञ्जरी|दत्तसिद्धान्तमञ्जरी]].
 
-tion over श्रीहदेशीयहाकादिद्दी in श्राद्धमयूख. 
+सिद्धान्तशिरोमणि by मोहनमिश्र.
 
-(probably as धर्माधिकारि). Vide श्राद्धपद्धति by पशुपति, elder brother N. ( new series) vol. I. pp. 
+सिद्धान्तशेखर m. in the प्रयोगरत्न of नारायणभट्ट and मठप्रतिष्ठातत्त्व of रघु०. Probably a तान्त्रिक work. Earlier than 1500 A. D.
 
-of हलायुध, who mentions it in | 380-81. ब्राह्मणसर्वस्व. 
+सिद्धान्तशेखर by विश्वनाथ, son of भास्कर.
 
-श्राद्धप्रदीप by मदनमनोहर महामहो C. by हलायुध. 
+सिद्धान्तसन्दर्भ m. by रघुनन्दन in मलमासतत्त्व.
 
-पाध्याय, son of मधुसूदन. For श्राद्धपद्धति by रघुनाथ, son of माधव. students of यजुर्वेद ( N. vol. VI. 
+[[P1147]] सिद्धान्तसुधोद्धार m. in स्मृतिसारोद्धार of विश्वम्भर.
 
-Also called दर्शश्राद्धपद्धति. Based p. 299). on हेमाद्रि's work. He was a nephew of नारायणभट्ट 
+सीमन्तकर्मपद्धति.
 
-श्राद्ध प्रदीप by रुद्रधर (C. P. Cat. 
+सीमन्तनिर्णय.
 
-5939 ). Probably the same as श्राद्धपद्धति by विश्वनाथभट्ट 
+सुकृत्यप्रकाश by ज्वालानाथमिश्र on आचार, आशौच, श्राद्ध and असत्परिग्रह (acceptance of gifts from improper persons). N. vol. II. p. 136.
 
-श्राद्धचन्द्रिका or श्राद्धविवेक. श्राद्धपद्धति of शङ्कर, Sun of रत्नाकर 
+सुगतिसोपान by गणेश्वरमन्त्रिन्, son of देवादित्य. He was uncle of चण्डेश्वर. Vide p. 773 above. Author styles himself महाराजाधिराज and says he was assisted by देवादित्यसांधिविग्रहिक (his father); m. by रघु० in शुद्धितत्त्व and by रुद्रधर. About 1st half of 14th century.
 
-of the शाण्डिल्यगोत्र. 
+सुज्ञानदुर्गोदय by विश्वेश्वर alias गागाभट्ट, son of दिनकरभट्ट, on 16 संस्कारs. Composed about 1675 A. D. (Bik. Cat. p. 475).
 
-श्राद्धप्रदीप by वर्धमान m. in श्राद्धतत्त्व 
+सुदर्शनकालप्रभा by रामेश्वरशास्त्री.
 
-of रघु०. श्राद्धपद्धति by हेमाद्रि. Refers to his 
+सुदर्शनभाष्य– com. of सुदर्शनाचार्य on आपस्तम्बगृह्यसूत्र; m. by भट्टोजि in चतुर्विंशतिमतव्याख्यान, नि. सि. Earlier than 1550 A. D.  
+C. अण्डबिला by ब्रह्मविद्यातीर्थ; m. in नि. सि.
 
-चतुर्वर्गचिन्तामणि. Stein's Cat. | श्राद्धप्रदीप by शङ्करमिश्र, son of भव pp. 316-17. 
+सुदर्शनमीमांसाविवेक (Baroda O. I. 4085). Justifies तप्तचक्रादिपञ्चायुधधारण by वैष्णवs; Ms. copied in संवत् 1834.
 
-नाथसन्मिश्र; m. in श्राद्धविवेक of श्राद्धपल्लव m. in श्राद्धविवेक of रुद्रधर 
+सुधीचन्द्रिका.
 
-रुद्रधर, श्राद्धक्रियाकौमुदी, श्राद्धतत्त्व _and टोडरानन्द (श्राद्धसौख्य). 
+सुधीमयूख.
 
-of रघु०. ( N. vol. VII. p. 191). 
+सुधीविलोचन m. in श्राद्धप्रयोग of गोपालसूरि and in प्रयोगचन्द्रिका, in वैष्णवप्रक्रिया.
 
-He was guru of वर्धमान. श्राद्धपारिजात m. by केशव in द्वैतपरि. 
+सुधीविलोचन by वैदिकसार्वभौम.
 
-शिष्ट (द्वैतनिर्णयपरिशिष्ट ). 
+सुधीविलोचनसार.
 
-श्राद्धप्रभा by रामकृष्ण. श्राद्धप्रकरण by नरोत्तमदेव. श्राद्धप्रकरण by लोल्लट (Ms. i Anan- श्राद्धप्रयोग. 
+सुन्दरराजीय m. in प्रयोगचन्द्रिका.
 
-dāśrama collection at Poona 
+सुप्रभा– com. by अनन्त, son of सिद्धेश्वर, on the कुण्डमार्तण्ड of गोविन्द; composed in 1692 A. D.
 
-, आपस्तम्बीय. Quotes मेधातिथि. Between 900 
+सुबोधिनी प्रयोगपद्धति– pr. in Kāśī S. Series (कृष्णयजुर्वेदीया and सामवेदीया).
 
-, बौधायनीय. 1100 A. D as लोल्लट is mention- , भारद्वाजीय. ed in स्मृत्यर्थसार. 
+सुबोधिनी (होमपद्धति) by अनन्तभट्ट on the pacification of the नवग्रहs.
 
-,, मैत्रायणीय. श्राद्धप्रकाश m. in नि. सि. 
+सुबोधिनी (com. on त्रिंशच्छ्लोकी) by अनन्त, son of कमलाकर. 1610–1660 A. D.
 
-" सत्याषाढ. श्राद्धप्रकीर्णकारिका. 
+सुबोधिनी by महादेव.
 
-" आश्वलायनीय by कमलाकर. श्राद्धप्रदीप. 
+सुबोधिनी by रत्नपाणिशर्मन्, son of सञ्जीवेश्वर. Compiled under orders of रुद्रसिंह of मिथिला. A स्मृति digest on ten संस्कारs, श्राद्ध, daily religious duties. (N. VI. p. 47).
 
-श्राद्धप्रयोग , by रामभट्ट, son श्राद्धप्रदीप by कृष्णमित्राचार्य. 
+सुबोधिनी com. on the मिताक्षरा by विश्वेश्वरभट्ट. Vide sec. 94. Text on व्यवहार and translation pr. by Mr. J. R. Gharpure.
 
-of विश्वनाथ श्राद्धप्रदीप by धनराम, son of गोवर्धन श्राद्धप्रयोग by गोपालसरि. Mentions ( Baroda O. I. 9971 ); not later | प्रयोगदर्पण, वैद्यनाथीयनिबन्ध, सुधी than 1750 A. D. 
+सुबोधिनी (प्रयोगपद्धति) by शिवराम, son of विश्राम, for students of सामवेद. Mentions his own कृत्यचिन्तामणि. About 1640 A. D.
 
-विलोचन. 
+सुमन्तुधर्मसूत्र– Vide sec. 29 and Tri. Cat. of Madras Govt. Mss. [[P1148]] for 1919–22 pp. 5160–62 for a prose सुमन्तुधर्मसूत्र.
 
-C. 
+सुमन्तुस्मृति m. by मिताक्षरा, अपरार्क.
 
-List of works on Dharmaśāstra 
+सूतकदीपिका– vide under त्रिंशच्छ्लोकी.
 
-1129 
+सूतकनिर्णय (also called अष्टकाशौचभाष्य on the margin). The first verse is नाम्नःप्राग्दन्तजातेरुपनयनविधेराप्लवोहस्त्रिरात्रं &c.'; Ms. in Stein's Cat. (p. 319) is dated संवत् 1466 (1409–10 A. D.).
 
-श्राद्धप्रयोग by दयाशङ्कर. 
+सूतकनिर्णय of भट्टोजि, son of लक्ष्मीधर (in Bhadkamkar collection). Mentions माधव, हरदत्त, त्रिंशच्छ्लोकी.
 
-कोकिलोक्त; Vide D. C. Ms. No. श्राद्धप्रयोग by नारायणभट्टः A part ! 223 of 1879-80%; mentions ___ of his प्रयोगरत्न. 
+सूतकसार.
 
-स्कन्दपुराण, कात्यायन, आपस्तम्ब, श्राद्धप्रयोगचिन्तामणि of अनूपसिंह. 
+सूतकसिद्धान्त by देवयाज्ञिक.
 
-सुमन्तु, शातातप, याज्ञवल्क्य, on 
+सूरसंक्रान्तिदीपिका by जयनारायणतर्कपञ्चानन.
 
-वृद्धिश्राद्ध, गणाधिपपूजा, मातृपूजा, श्राद्धप्रयोगपद्धति (कात्यायनीया) by | 
+सूरिसंतोष m. by रघु० in एकादशीतत्त्व and तिथितत्त्व.
 
-other श्राद्धs. काशीदीक्षित. 
+सूर्यनमस्कारविधि.
 
-छन्दोग श्राद्धप्रशंसा. 
+सूर्यप्रकाश by हरिसामन्तराज, son of कृष्ण. A comprehensive digest on धर्मशास्त्र. Bik. Cat. p. 475 contains only व्रतखण्ड.
 
-(माध्यन्दिन) by ढोण्द. Vide श्राद्धब्राह्मण. 
+सूर्यादिपञ्चायतनप्रतिष्ठापद्धति by दिवाकर, son of भारद्वाज महादेव, on the installation of सूर्य, शिव, गणेश, दुर्गा and विष्णु in a temple.
 
-BBR AS. Cat. p. 236 No. 236; श्राद्धभास्करप्रयोगपद्धति. 
+सूर्यार्घ्यदानपद्धति by महादेवभट्ट.
 
-refers to कर्क, कल्पतरु, श्रीकण्ठ श्राद्धमञ्जरी m. in नि. सि. and शुद्धिः । उपाध्याय, हलायुधीय, श्राद्धभाष्य. 
+सूर्यार्घ्यदानपद्धति by माधव, son of रामेश्वर. About 1520–1580.
 
-विवेक of रुद्रधर. 
+सूर्यार्णवकर्मविपाक (Ulwar Cat. extract No. 293) pr. in Bombay.
 
-Between 1200-1500 A. D. श्राद्धमारी by बापूभट्ट केळकर, re- श्राद्धविधिसंक्षेप. 
+सूर्योदयनिबन्ध m. in धर्मप्रवृत्ति of नारायण.
 
-siding at फणशी in Rajapur | श्राद्धविभक्ति on the point when Taluka of Ratnagiri District ___ the genitive, objective, dative sake 1732 ( 1810 A. D.); pr. in and vocative are to be used in 
+सेतुयात्राविधि.
 
-Anan. P. 
+सोदकुम्भश्राद्ध.
 
-श्राद्ध. N. vol. X. p. 347. श्राद्धमञ्जरी by मुकुन्दलाल. 
+सोमनाथीय by सोमनाथभट्ट, son of सूरभट्ट and younger brother of वेङ्कटाद्रियज्वन्, of the नित्तल family.
 
-श्राद्धविवेक by ढोदमिश्र, son of प्राण श्राद्धमन्त्रव्याख्या from the ब्राह्मण 
+सोमवारव्रतोद्यापन.
 
-कृष्ण. Peterson's 2nd Report p. सर्वस्व of हलायुध. Ulwar Cat. 
+सोमवारामावास्यव्रतकालनिर्णय.
 
-188. extract 356. 
+सोमशेखर (निबन्ध) m. in मलमासतत्त्व of रघु०. सरस्वतीविलास p. 422 (Mysore ed.) quotes सोमशेखर on दायभाग.
 
-श्राद्धविवेक by रुद्रधर, son of लक्ष्मी 
+सौभाग्यकल्पद्रुम by अच्युत (Baroda O. I. 1903.).
 
-धर. Vide sec. 99; pr. at श्राद्धमयूख of नीलकण्ठ. Vide sec. 
+स्त्रीधननिर्णय.
 
-Benares. 112. pr. hy J. R. Gharpure. 
+स्त्रीधनप्रकरण.
 
-श्राद्धविवेक by शूलपाणि sec. 98; pr. श्राद्धमीमांसा by नन्दपण्डित. 
+स्त्रीधर्मकमलाकर of कमलाकरभट्ट, m. in विवादताण्डव.
 
-in Calcutta by M. M. Madhu. श्राद्धरत्न by लक्ष्मीपति, pupil of इन्द्र 
+स्त्रीधर्मपद्धति by त्र्यम्बक.
 
-sudan Smrtiratna. पति, for followers of सामवेद 
+स्त्रीपुनरुद्वाहखण्डनमालिका by राघवेन्द्र.
 
-C. टिप्पनी by अच्युतचक्रवर्तिन् ; and शुक्लयजुर्वेद. Relies upon 
+स्त्रीशूद्रदिनचर्या.
 
-_m. in his दायभागटीका. श्रीदत्त. 
+स्थालीपाक (आपस्तम्बीय).  
+,, (आश्वलायनीय).
 
-C. अर्थकौमुदी by गोविन्दानन्द ; श्राद्धरत्नमहोदधि by विष्णुशर्मन् , son sec. 106. 
+स्थालीपाकनिर्णय.
 
-of यज्ञदत्त. Mentioned in his | 
+स्थालीपाकप्रयोग (आश्वलायनीय).
 
-C. भावार्थदीप by जगर्दाश. श्राद्धाङ्गभास्कर. 
+स्थालीपाकप्रयोग by कमलाकर. N. (new series) vol. III. p. 236.
 
-C. by श्रीकृष्ण ; pr.at Calcutta in श्राद्धरहस्य m. by रामनाथ in स्मृति- ___Bengali characters 1800 
+स्थालीपाकप्रयोग by नारायण.
 
-रत्नावलि. 
+स्थावरप्राणप्रतिष्ठा.
 
-A. D. श्राद्धवचनसंग्रह 
+स्थिरलिङ्गप्रतिष्ठा.
 
-C. by नीलकण्ठ. श्राद्धवमनप्रायश्चित्त. 
+स्नानविधिसूत्रपरिशिष्ट or स्नानसूत्र or त्रिकण्डिकासूत्र by कात्यायन.  
+C. स्नानसूत्रपद्धति by कर्क.  
+[[P1149]] C. स्नानसूत्रदीपिका by गोपीनाथ, son of महादेव.  
+CC. by कृष्णनाथ.  
+C. by छाग याज्ञिकचक्रचूडाचिन्तामणि.  
+C. by त्रिमल्लतनय (केशव?).  
+C. by महादेवद्विवेदिन् (N. vol. VII. p. 304).  
+C. स्नानपद्धति or स्नानविधिपद्धति by याज्ञिकदेव.  
+C. स्नानसूत्रपद्धति by हरिजीवनमिश्र. Says that he follows in this work his भाष्य.  
+C. स्नानव्याख्या and पद्धति by अग्निहोत्रिहरिहर.
 
-C. by श्रीनाथ आचार्यचूडामणि, son श्राद्धवर्णन by हरिराम. 
+स्मार्तकर्मानुष्ठानक्रमविवरण by चण्डूक. (Baroda O. I. 296 dated संवत् 1593).
 
-on श्रीकर. N. ( new series) श्राद्धवसिष्ठ m. in. सं. कौ. Same as vol. I pp. 381-3823; shows 
+स्मार्तकुतूहल.
 
-वसिष्ठश्राद्धकल्प 
+स्मार्तगङ्गाधरी by गङ्गाधर (C. P. Cat. No. 6710).
 
-that श्रीनाथ only elaborated श्राद्धविधि. 
+स्मार्तदिनमणि (Mysore Govt. Mss. Cat. p. 75).
 
-what his father said. 
+स्मार्तदीपिका Ano.; follows आश्वलायन. Burnell's Tanj. Cat 139a
 
-B. D,-142 
+स्मार्तपदार्थसंग्रह from प्रयोगपद्धति of गङ्गाधर.
 
-1130 
+स्मार्तपदार्थानुक्रमणिका by द्वैपायनाचार्य (Baroda O. I. 6986).
 
+स्मार्तपरिभाषा m. in सन्ध्याभाष्य of कृष्णपण्डित.
 
+स्मार्तप्रदीपिका (Mysore Govt. Mss. Cat. p. 75).
 
-रघुनाथ. 
+स्मार्तप्रयोग by बोपण्णभट्ट.  
+,, (हिरण्यकेशीय).  
+C. वैजयन्ती.
 
-C. श्राद्धादिविवेककौमुदी by महा- | श्राद्धसागर 
+स्मार्तप्रयोगकारिका.
 
-महोपाध्याय रामकृष्णन्याया- | (1) by कुम्भकभट्ट (8). is it a mis लङ्कार N. vol. X. p. 119. 
+स्मार्तप्रायश्चित्त by तिप्पाभट्ट, son of रामभट्ट, son of बालम्भट्ट, surnamed गह्वर.
 
-reading for कुल्लक or कुल्लुक श्राद्धविवेकसंग्रह 
+स्मार्तप्रायश्चित्तप्रयोग or प्रायश्चित्तोद्धार by दिवाकर, son of महादेव, son of रामेश्वर, surnamed काल (काळे in Marathi). He was daughter's son of रामकृष्ण, father of कमलाकरभट्ट. About 1660–1680 A. D. (BBRAS. Cat. p. 238 No. 745).
 
-भट्ट? श्राद्धवृत्तिप्रकरण. 
+स्मार्तप्रायश्चित्तविनिर्णय by वेङ्कटाचार्य.
 
-(2) by कुल्लकमद्व. Vide seo. 89 श्राद्धव्यवस्था 
+स्मार्तप्रायश्चित्तोद्धार– same as स्मार्त प्रायश्चित्तप्रयोग and प्रायश्चित्तोद्धार of दिवाकर.
 
-p. 758. श्राद्धव्यवस्थासंक्षेप of चिन्तामणि. Vide (3) नारायण आरड m. in his गृमा 
+स्मार्तमार्तण्डप्रयोग by मार्तण्डसोमयाजिन्.
 
-शुद्धिव्यवस्थासंक्षेप. 
+स्मार्तव्यवस्थार्णव of रघुनाथसार्वभौम, son of मथुरेश, composed at the order of king रत्नेश्वरराय, in śake 1583 (i. e. 1661–62 A. D.). Divided into sections on तिथि, संक्रान्ति, आशौच, द्रव्यशुद्धि, अधिकारि, प्रायश्चित्त, उद्वाह, दाय. (D. C. Ms. No. 305 of 1886–92 on तिथि, N. II. p. 76 on उद्वाह, N. I. p. 284 on दाय).
 
-ग्निसागर q. . Later than श्राद्धषोडशविधि-Ulwar Cat. No. | 1650 A. D. 
+स्मार्तसमुच्चय of नन्दपण्डित, son of देवशर्मन्. Vide sec. 110 p. 924 Refers to दत्तकमीमांसा as his.
 
-1508 and extract 357. 
+स्मार्तस्फुटपद्धति of नारायणदीक्षित. (C. P. Cat. No. 6717).
 
-श्राद्धसार. 
+स्मार्ताण्डबिला.
 
-श्राधसंकलन. 
+[[P1150]] स्मार्ताधानपद्धति by गोविन्द.
 
-(1) part of नृसिंहप्रसाद; m. in 
+स्मार्ताधानप्रयोग of पीताम्बर, son of काश्यपाचार्य. (BBRAS. Cat. p. 239 No. 747). Mentions मदनरत्न. Vide under [[धर्माणव|धर्मार्णव]]. Between 1500 and 1675 A. D.
 
-विधानपारिजात ; ed.by Pandit श्राद्धसंकल्प-from प्रयोगपारिजात of | 
+स्मार्तानुष्ठानपद्धति of अनन्तभट्ट, son of विश्वनाथ. Also styled अनन्तभट्टी. A manual of [[intiatory|initiatory]] rites with the prayers required therein. Vide under प्रयोगरत्न. According to आश्वलायन. (I. O. Cat. p. 515).
 
-Vidyadhara Misra in Prin 
+स्मार्तोपासनपद्धति from the प्रयोगरत्न.
 
-ce of Wales Series. श्राद्धसंकल्पविधि. 
+स्मार्तोल्लास by शिवप्रसाद, son of श्रीनिवास of पुष्करपुर (Baroda O. I. 11958). Ms. dated शके 1610. Mentions मदनरत्न, टोडरानन्द. Between 1580–1680 A. D. On आधानकाल, मुहूर्तविचार, duties of अग्निहोत्रि, on difficult points about रजस्वला &c.
 
-(2) by कमलाकर. श्राद्धसंग्रह 
+स्मृतिकदम्ब by कञ्चं येल्लुभट्ट Hultzsch R. I. No. 657.
 
-श्राद्धसौख्य- part of टोडरानन्द. Vide (1) m. in the स्मृतिचन्द्रिका. Ear-| sec. 109. 
+स्मृतिकल्पद्रुम by शुक्ल ईश्वरनाथ.  
+C. by author. Stein's Cat. p. 108.
 
-lier than 1200 A. D. श्राद्धहेमाद्रि- the श्राद्ध section of the (2) of रामकृष्ण, son of कोण्डभट्ट, | चतुर्वर्गचिन्तामणि. 
+स्मृतिकोशदीपिका by तिम्मणभट्ट (Baroda O. I. 2008 on आह्निक only)
 
-son of प्रयागभट्ट. Based upon | श्राद्धाङ्गतर्पणनिर्णय by रामकृष्ण (Baro कात्यायन's श्राद्धकल्पसूत्र. He ____da O. I. 303). wrote संस्कारगणपति on काती- श्राद्धाङ्गभास्कर by विष्णुशर्मन् , son of यगृह्यसूत्र. Composed at यज्ञदत्त, who became a संन्यासिन् Benares in sake 1673 and was styled अनुभूतिस्वरूप: (त्रिनगभूपाख्ये) i. e. 1751 based on कर्क; for माध्यान्दिन A. D. Vide I. O. Cat. pp. TIEN (Ulwar Cat. extract 359.) 560-61, No. 1738. I. O. | श्राद्धादर्श by महेश्वरमिश्र. Cat. p. 562 gives the date | | श्राद्धादिविधिः as शके गगनाङ्गा (का)ङ्गभूमिते 
+स्मृतिकौमुदी by देवनाथठक्कुर. A digest on चातुर्वर्ण्य, आचार, आह्निक, संस्कार, श्राद्ध, आशौच, दायभाग, व्रत, दान, उत्सर्ग. (N. vol. V. p. 237).
 
-आ भमिते | श्राद्धादिविवेककौमुदी by रामकृष्ण. ( 1670-1690) and 1826 of | श्राद्धाधिकार by विष्णुदत्त. विक्रम (i.e. 1770 A. D.) | श्राद्धाधिकारिनिर्णय by गोपालन्याय which is probably the date | पञ्चानन (N. vol. III p.60). _of copying. Mentions कर्क, | श्राद्धानुक्रमणिका. हलायुध, गदाधर भाष्य on श्राद्धापरार्क. कातीयगृहकृत्यसूत्र, काशिका and श्राद्धालोक m. in आचाररत्न of लक्ष्मण. दीपिका 
+स्मृतिकौमुदी by मदनपाल. Sec. 94 pp. 798–99. Also styled शूद्रधर्मोत्पलद्योतिनी.
 
-Earlier than 1600 A. D. 
+स्मृतिकोमुदी by रामकृष्णभट्टाचार्य (N. VI. p. 140).
 
-भादसमुञ्चय. 
+स्मृतिकौमुदीटीका by कृष्णनाथ.
 
-| श्राद्धाशौचीयदर्पण by देवराज.List of works on Dharmaśāstra 
+स्मृतिकौस्तुभ of अनन्तदेव. Sec. 114. Divided into 12 दीधितिs.
 
-1131 
+स्मृतिकौस्तुभ by वेङ्कटाद्रि. Vide आशौचनिर्णय.
 
-श्राद्धेन्दु. Ano. ( N. vol. V. p. 96.) | श्रीपतिसमञ्चय m. in ज्योतिस्तत्त्व of श्राद्धन्दुशखर by नागाजिभट्ट sur. | रधु० ( vol. I. p. 582). 
+स्मृतिग्रन्थराज by सार्वभौम.
 
-named Kāla. Sec. 115. 
+स्मृतिचन्द्र m. in संस्कारमयूख of सिद्धेश्वर.
 
-श्रीस्थलप्रकाश by तिगलाभट्ट. Peter श्राद्धोद्योत m. in वर्धमान's गङ्गाकृत्य-| son's 5th Report No. 154. 
+स्मृतिचन्द्र by भवदेवन्यायालङ्कार, son of हरिहर, composed in 1720–22 A. [[D|D.]] and divided into 16 कलाs on तिथि, व्रत, संस्कार, आह्निक, श्राद्ध, आचार, प्रतिष्ठा, वृषोत्सर्ग, परीक्षा, प्रायश्चित्त, व्यवहार, गृहयज्ञ, वेश्मभू, मलिम्लुच, दान, शुद्धि. Mentions श्रीदत्त and संवत्सरप्रदीप. Imitates रघु०.
 
-विवेक. It is probably a portion 
+स्मृतिचन्द्रिका by आपदेवमीमांसक. On काल, मलमास, व्रत, आह्निक, विवाह and other संस्कारs, स्त्रीधर्म, आश्रमधर्म, अन्त्येष्टि, आशौच, श्राद्ध. (N. VI. p. 301).
 
-श्रुतिचन्द्रिका. of मदनरत्न 
+स्मृतिचन्द्रिका by कुबेर (m. in दत्तकचन्द्रिका).
 
-श्रुतिमीमांसा by नृसिंहवाजपेयी. श्राद्धोपयोगिवचन by अनन्तभट्ट 
+स्मृतिचन्द्रिका by केशवादित्यभट्ट (Bik. Cat. 465). This entry is wrong, as the [[intruductory|introductory]] verses and the verses at the end show that this is the same as देवण्णभट्ट's work.
 
-श्रुतिमुक्ताफल. श्रावणकर्मसर्पबलिप्रयोग & गृह rite. श्रावणद्वादशी. 
+स्मृतिचन्द्रिका by देवण्णभट्ट, son of केशवादित्यभट्ट. Sec. 86 (pr. by Mr. Gharpure and in Mysore G. O. L. Series).
 
-श्रौतस्मातकर्मप्रयोग by नृसिंह. 
+[[P1151]] स्मृतिचन्द्रिका by वामदेवभट्टाचार्य (N. IX. p. 137).
 
-श्रौतस्मातक्रियापद्धति. श्रावणी (भाश्वलायनीय). " (काण्वशाखीय). 
+स्मृतिचन्द्रिका by वैदिकसार्वभौम.
 
-श्रौतस्मातविधि by बालकृष्ण श्रावणीकर्म ( वाजसनेय). 
+स्मृतिचन्द्रिका by शुकदेवमिश्र, son of विठ्ठलमिश्र. On तिथिनिर्णय, शुद्धि, आशौच, व्यवहार. (I. O. Cat. p. 471).  
+,, Ano. (N. vol. VIII. p. 153).
 
-श्लोककात्यायन m. in अपरार्क. , (हिरण्यकेशि) by गोपीनाथ | श्लोककालनिर्णय. दीक्षित 
+स्मृतिचन्द्रोदय by गणेशभट्ट (C P. Cat. Nos. 6723–24).
 
-श्लोकगौतम m. in कालविवेक of श्रावणीप्रयोग by कमलाकर. । जीमूत०, अपरार्क, कालमाधव. श्रावणीहोमपद्धति (आश्वलायनीय ). लोकचतुर्दशी (धर्मानबन्धि ) by कृष्ण श्रावणोत्सर्गकर्म 
+स्मृतिचरण by भवानीशङ्कर.
 
-शेष. श्रीमालिक. 
+स्मृतिचिन्तामणि by गङ्गादित्य or गङ्गाधर, son of गोपीनाथमिश्र. Mentions कल्पतरु, कामधेनु, हेमाद्रि, मदनरत्न, and is mentioned in नृसिंहप्रसाद (I. O. Cat. p. 444 on व्यवहार, which is 2nd परिच्छेद). About 1450–1500.
 
-C. by रामपण्डित शेष; pr. in श्रीकरनिबन्ध m. in स्मृतिसार of हरिः | __ सरस्वतीभवन series ( No. 22). 
+स्मृतिचिन्तामणिसंग्रह (Tri. Cat. of Madras Govt. Mss. for 1919–22 p. 4978 on आह्निक).
 
-नाथ. 
+स्मृतिचूडामणि or –मणिसंग्रह of वरदाचार्य, of the वात्स्यगोत्र.
 
-श्लोकतर्पण by लौगाक्षि. श्रीधरसमुच्चय m. in मलमासतत्त्व by | श्लोकसंग्रह on 96 श्राद्ध. 
+स्मृतितत्त्व of [[रघुननन्दन|रघुनन्दन]]. It is the name of his digest containing 28 तत्त्वs. Sec. 107.
 
-रघु०. 
+स्मृतितत्त्वप्रकाश by श्रीदेव.
 
-श्लोकापस्तम्ब m. in माचारमयूख. श्रीधरीय m. in नि. सि., प्रयोगपारि 
+स्मृतितत्त्वविनिर्णय or व्यवस्थार्णव by रामभद्र, son of श्रीनाथ आचार्यचूडामणि. Mentions शूलपाणि 1500–1550 A. D. N. (new series) I. p. 413.
 
-श्वश्रूस्नुषाधनसंवाद ( Burnell's Tanj. जात. Vide sec. 82 p. 726. 
+स्मृतितत्त्वविवेक by वर्धमानमहामहोपाध्याय, son of भवेश and गौरी and judge at the court of भैरवेन्द्र of मिथिला. About 1450–1500 A. D. On आचार, श्राद्ध, शुद्धि and व्यवहार. N. vol. V. p. 184.
 
-Cat. p. 143a) decides that if . श्रीनिवासदीक्षितीर्य by श्रीनिवास, son 
+स्मृतितत्त्वसार (B. O. Cat. vol. I No. 440).
 
-man dies childless, leaving a of गोविन्दार्य of कौशिकगोत्र. On 
+स्मृतितत्त्वामृत of वर्धमान, son of भवेश and गौरी. N. vol. VI. p. 12 contains शान्तिकपौष्टिकाञ्जलि. Dealing with rites for propitiating adverse deities and portents and for consecrating works of public utility. N. vol. VI. p. 57 is styled तत्त्वामृतसारोद्धार (व्यवहाराञ्जलि) and in the concluding verses वर्धमान says that he composed four कुसुमs on आचार, श्राद्ध, शुद्धि and व्यवहार. So स्मृतितत्त्वविवेक and ०तत्त्वामृ० are the same. It was completed under राम, son of भैरवेन्द्र.
 
-widow and mother, each takes 
+स्मृतिदर्पण m. in श्राद्धकल्पलता नृसिंहप्रसाद, शूद्रकमलाकर, विधानपारिजात. Earlier than 1500 A.D.
 
-half of bis estate, वैखानससूत्र (Tri. Cat. of Madras 
+स्मृतिदर्पण (Baroda O. I. No. 10916 is an incomplete Ms. in 598 verses). Names 36 स्मृतिकारs, कलिवर्ज्य (such as पुनर्विवाह).
 
-Govt. Mss. 1919--22 p. 5179). श्वासकर्मप्रकाश. श्रीपतिरत्नमाला m. in समयमयूख. श्वेताश्वदानविधि by कमलाकर. श्रीपतिव्यवहारनिर्णय m. in तिथितत्त्व | षट्कर्मचन्द्रिका by चरुकूरितिम्मयज्वन्, of रघु० (Jivananda vol. I. p. son of JERUHE. He was called 21). 
+स्मृतिदीपिका m. in सं. कौ., संस्कारमयूख of सिद्धेश्वर. Earlier than 1650 A. D.
 
-रामचन्द्राश्रम on becoming . श्रीपतिन्यवहारसमुच्चय m. in संस्कार 
+स्मृतिदीपिका of वामदेव उपाध्याय on times for श्राद्ध and other rites (N. vol. V. p. 157 and vol. VII. p. 125).
 
-संन्यासिन्. तत्व of रघु०, Probably the same | षट्कर्मचन्द्रिका m. in सन्ध्याभाष्य of as above, 
+स्मृतिदुर्गभञ्जन by चन्द्रशेखर – vide दुर्गभञ्जन.
 
-कृष्णपण्डित. 
+स्मृतिनवनीत of वृषभाद्रिनाथ, son of नारसिंह, pupil of रामचन्द्र and श्रीनिवास.
 
-1132 
+[[P1152]] स्मृतिनिबन्ध by नृसिंहभट्ट. An extensive digest on धर्मलक्षण, वर्णाश्रमधर्म, विवाहादिसंस्कार, सापिण्ड्य, आह्निक, आशौच, श्राद्ध, दायभाग, प्रायश्चित्त (N. vol. VIII p. 174).
 
+स्मृतिपरिभाषा by वर्धमानमहामहोपाध्याय; contains general rules regarding ceremonial observances and proper seasons for them and on स्नान, ग्रहण, तिथिद्वैध, दान &c. Names स्मृतिमहार्णव, हरिहरमिश्र; m. in एकादशीतत्त्व of रघु०. About 1450–1500 A. D.
 
+स्मृतिप्रकाश by भास्करभट्ट or हरिभास्करभट्ट, son of आयाजिभट्ट (or आपाजि–), son of हरिभट्ट (Bik. Cat. p. 467 deals with portion on श्राद्ध).
 
-षट्कर्मदीपिका Ano. Collection of | षण्णवतिश्राद्धनिर्णय by शिवभट्ट, son 
+स्मृतिप्रकाश by वासुदेव रथ (one [[facsicule|fascicule]] pr. in B. I. Series) on कालनिरूपण, संवत्सर, संक्रान्ति. Mentions माधवाचार्य and विद्याकरवाजपेयी. Later than 1500 A. D.
 
-rituals for the worship of ___of गोविन्दसूरि. The 96 श्राद्धs are ज्यम्बक, पार्थिव शिवलिङ्ग, and con- briefly set out in one verse nected matters ( N. vol. IX p. . 'अमायुगमनुक्रान्तितिपातमहालयाः। 273). 
+स्मृतिप्रदीप m. by हेमाद्रि (काल० p. 355).
 
-आन्वष्टक्यं च पूर्वेधुः षण्णवत्यः प्रकी. षट्कर्मदीपिका by मुकुन्दलाल. 
+स्मृतिप्रदीप by [[चन्द्रशेखरमहोमहोपाध्याय|चन्द्रशेखरमहामहोपाध्याय]] on तिथि, आशौच, श्राद्ध.
 
-तिताः॥'. Mentions कमलाकरभट्ट, 
+स्मृतिप्रदीपिका– vide धर्मदीपिका of चन्द्रशेखरवाचस्पति.
 
-नीलकण्ठभट्ट, दीपिकाविवरण, प्रयोग षट्कर्म विचार ( part of स्मृतिरत्न 
+स्मृतिप्रदीपिका m. by भट्टोजि in his com. on चतुर्विंशतिमत.
 
-रत्न, श्राद्धकलिका, कलिकाविवरण of महोदधि). 
+स्मृतिप्रामाण्यवाद.
 
-विश्वरूपाचार्य; ( Ms. in Bhadkam षट्कर्मविवेक by हरिराम.. 
+स्मृतिभास्कर m. by स्मृतिच०, प्रयोगपारिजात of नृसिंह, धर्मप्रवृत्ति, नृसिंहप्रसाद. Madras Govt. Mss. Cat. vol. V. p. 2043 Nos. 2786–87 contains portions on यतिधर्म and शूद्रधर्म from a स्मृतिभास्कर.
 
-kar collection ). Later than 
+स्मृतिभास्कर by नीलकण्ठ (N. vol. V. p. 108). From the introductory verses it appears to be the शान्तिमयूख of नीलकण्ठ.
 
-__1650 A. D. षट्कर्मव्याख्यानचिन्तामणि by नित्या 
+स्मृतिभूषण by कोनेरिभट्ट, son of केशव. A digest of rituals for माध्व followers.
 
-नन्द. Discourse on the sentences | षण्णव निश्राद्धपद्धति by रघुनाथ, son of used at wedding and five other माधव, son of रामेश्वर. Refers to sacraments, for. students of नारायणभट्ट as his uncle. About यजुर्वेद. Based upon गुणविष्णु. N. ! 1550-1625A. D. vol. III. p. 27. 
+स्मृतिमञ्जरी by कालीचरणन्यायालङ्कार.
 
-षण्णवतिश्राद्धप्रयोग. पत्रिंशन्मत. Vide sec. 54. 
+स्मृतिमञ्जरी by गोविन्दराज. Sec. 77 pp. 659–61.
 
-remonies on atta षट्पदी of विठ्ठलदीक्षित (C. P. Cat. 
+स्मृतिमञ्जरी by रत्नधरमिश्र.
 
-___ining 60 years ). Vide Burnell's No. 6029). 
+स्मृतिमञ्जरी Ano. (D. C. Ms. No. 184 of 1884–86 on श्राद्ध).
 
-___Tanj. Cat. pp. 138b, 151b. षट्पारायणविधिः 
+स्मृतिमञ्जूषा m. in कालादर्श, स्मृतिसार of हरिनाथ, छन्दोगाह्निक of श्रीदत्त. Earlier than 1300 A. D.
 
-षोडशकर्मकलापनिर्णय. षडशीति or आशौचनिर्णय by कौशिका- षोडशकर्मपद्धति by ऋषिभट्ट. दित्य (i. e आदित्य of the कौशिक- | षोडशकर्मपद्धति by गङ्गाधर. 
+स्मृतिमहाराज by कृष्णराज (Baroda O. I. No. 8023). It mentions मदनरत्न. Begins with गोदान and ends with मूर्तिप्रतिष्ठापन. It is styled शूद्रपद्धति also.
 
-गोत्र). The first verse is 'अथा। 
+स्मृतिमहार्णव or स्मृतिमहार्णवप्रकाश m. by हेमाद्रि. Vide महार्णव and pp. 654–55 above.
 
-षोडशकर्मप्रयोग on the sixteen नेकर्षिवाक्यानि संगत्यादाय केवलम् । 
+स्मृतिमहोदधि by परमानन्दघन, pupil of चिदानन्दब्रह्मेन्द्रसरस्वती.
 
-संस्कार, स्थालीपाक, पुंसवन, अनव संग्रथ्य कौशिकादित्यो लिखत्याशौच 
+स्मृतिमीमांसा by जैमिनि, m. by अपरार्क p. 206. A स्मृतिमीमांसा is m. in कालविवेक of जीमूतवाहन, in the स्मृतिरत्नाकर of वेदाचार्य, by हेमाद्रि in व्रतखण्ड and परिशेषखण्ड and by नृसिंहप्रसाद.
 
-लोभन, सीमन्तोनयन, जातकर्म, षष्ठी निर्णयम् ॥.' It is in 86 verses on 
+स्मृतिमुक्ताफल of वैद्यनाथदीक्षित. A very popular स्मृति digest in southern India. Printed several times in Southern India at [[P1153]] Chidambaram, 1908, Kumbhakonam &c. On वर्णाश्रमधर्म, आह्निक, आशौच, श्राद्ध, द्रव्यशुद्धि, प्रायश्चित्त, व्यवहार, काल. About 1600 A. D.
 
-पूजा, पञ्चगव्य, नामकरण, निष्क्रमण, impurities on birth and death and in five प्रकरणs on सूतक, 
+स्मृतिमुक्ताफलसंग्रह by चिदम्बरेश्वर.
 
-कर्णवेध, अन्नप्राशन, चौलकर्म, उप 
+स्मृतिमुक्तावली of कृष्णाचार्य, son of कुमारनृसिंहभट्ट, son of विजयीन्द्रभट्ट; in 10 प्रकरणs.
 
-नयन, गोदान, समावर्तन, विवाह. सगोत्राशौच, असगोत्राशौच, संस्कारा-1 
+स्मृतिरत्न m. by कालादर्श, सं. कौ., संस्कारमयूख of सिद्धेश्वर.
 
-Mentions प्रयोगसार, प्रयोगपारि शौच and आशौचापवाद. Aufrecht 
+स्मृतिरत्न of रघुनाथभट्ट. Ms. (N. VII. p. 253) is dated शके 1699.
 
-जात, दीपिका; Ms. ( in Bhadkam (II. p. 82 ) is wrong in iden 
+स्मृतिरत्नकोश.
 
-kar collection) dated sake 1695. tifying it with अभिनवषडशीति. 
+स्मृतिरत्नमहोदधि by श्रीपरमानन्दघन, pupil of चिदानन्दब्रह्मेन्द्रसरस्वती. Contains षट्कर्मविचार, आचार, आशौच &c. Quotes माधवीय. (Vide Madras Govt. Mss. Cat. pp. 2055–57 Nos. 2302–4).
 
-After 1500 A. D. C. अघशोधिनी by लक्ष्मीनृसिंह. C. शुद्धिचन्द्रिका by नन्दपण्डित (pr. 
+स्मृतिरत्नविवेक m. by चण्डेश्वर and by रुद्रधर in his श्राद्धविवेक. Earlier than 1300 A. D.
 
-षोडशपिण्डदानप्रयोग Ano.; men in Ch. S. Series with text). 
+स्मृतिरत्नाकर by तातयार्य (Baroda O. I. 9919).
 
-_tions संवत्सरप्रदीप. (N. vol. II. 
+स्मृतिरत्नाकर by ताम्रपर्णाचार्य.
 
-_pp. 310-311 ). षडशीति by यल्लभट्ट 
+स्मृतिरत्नाकर by भट्टोजि (on प्रायश्चित्त and आशौच). Vide Mad. Govt. Mss. Cat. vol. V. p. 2059 No. 2806.
 
-षोडशमहादानपद्धति or दानपद्धति by पइविंशन्मत m. by स्मृतिच० and रामदत्त of the खौपालवंश mini 
+स्मृतिरत्नाकर by विठ्ठल, son of केशव, a resident of विदुरपुर. Burnell's Tanj. Cat. p. 135a. From the place of residence and contents, it appears that this is the same as the preceding.
 
-परा. मा. 
+स्मृतिरत्नाकर by विष्णुभट्ट, son of केशव, residing at विदुरपुर; on आह्निक, 16 संस्कारs, संक्रान्ति, ग्रहण, दान, तिथिनिर्णय, प्रायश्चित्त, आशौच, नित्यनैमित्तिक (vide D. C. Ms. No. 52 of 1866–68). Bik. Cat. p. 467 gives शिवभट्ट as father's name.
 
-ster of king नृसिंह of मिथिला of 
+स्मृतिरत्नाकर by वेङ्कटनाथ, son of श्रीरङ्गनाथाचार्य, son of सरस्वतीवल्लभ, surnamed वैदिकसार्वभौम. आह्निक portion pr. Lakṣmīveṅkaṭeśvara Press at Kalyan. Mentions विज्ञानेश्वर, स्मृतिच०, अखण्डादर्श, माधवीय, स्मृतिसारसमुच्चय and इतिहाससमुच्चय. Also called सदाचारसंग्रह.
 
-List of works on Dharmaśāstra 
+स्मृतिरत्नाकर by वेदाचार्य in 15 chapters on नित्यनैमित्तिकाचार, गर्भाधानादिसंस्कार, तिथिनिरूपण, श्राद्ध, शान्ति, तीर्थयात्रा, भक्ष्याभक्ष्य, व्रत, प्रायश्चित्त, आशौच, अन्त्येष्टिकर्म; written under patronage of कामरूप king. Quotes भवदेव (On प्रायश्चित्त), जीमूतवाहन, स्मृतिमीमांसा, स्मृतिसमुच्चय, आचारसागर, दानसागर, महार्णव. It is this that is probably m. in यजुर्वेदिश्राद्धतत्त्व of रघु०. Between 1250–1500 A. D. I. O. Cat. pp. 473–474, N. VII. 45 (the colophon says that the प्रायश्चित्त section is the 18th परिच्छेद).
 
-1133 
+स्मृतिरत्नावलि m. in नृसिंहप्रसाद, अन्त्येष्टिपद्धति of नारायणभट्ट, नि. सि., शुद्धिचन्द्रिका of नन्दपण्डित.
 
-the कार्णाटवंश, with the help of | संवत्सरप्रकाश. भवशर्मन्, his family priest. He 
+स्मृतिरत्नावलि by मधुसूदनदीक्षित, son of महेश्वर. (Bik. Cat. p. 467 contains श्राद्ध portion only).
 
-| संवत्सरप्रदीप m. by शूलपाणि in was a paternal first cousin of 
+[[P1154]] स्मृतिरत्नावलि by रामनाथविद्यावाचस्पति. Composed in 1657 A.D.; vide under दायभागविवेक. Stein's Cat. p. 109.
 
-| दुर्गोत्सवविवेक, श्राद्धक्रियाकौमुदी, चण्डेश्वर and so flourished in 
+स्मृतिरत्नावलि by वेचुराम. N. VII. p. 228.
 
-निर्णयामृत and in एकादशीतत्त्व first half of 14th century. 
+स्मृतिरहस्य.
 
-(II. p. 51) and शुद्धितत्त्व (II. 327) षोडशमहादानविधि by कमलाकर, son as हलायुध's. Anfrecht (Cat. I. 
+स्मृतिविवरण by आनन्दतीर्थ Same as सदाचारस्मृति.
 
-of TTHEUT. Sec. 111. 
+स्मृतिविवेक by मेधातिथि Sec. 64 pp. 582–83.
 
-p. 681) wrongly ascribes it to षोडशयात्रा. 
+स्मृतिविवेक by शूलपाणि. Sec. 98.
 
-शूलपाणि. Vide p. 826 above. षोडशसंस्काराः (according to आश्व. 
+स्मृतिव्यवस्था by चिन्तामणि न्यायवागीशभट्टाचार्य of गौडदेश; Ms. of शुद्ध्यादिव्यवस्था (N. IV. 130) dated śake 1610 (1688–89 A. D.).
 
-Vide N. (new series) I. p. 390 लायनगृह्य). 
+स्मृतिव्यवस्थार्णव (B. O. Mss. Cat. vol. I. No. 433).
 
-for a संवत्सरप्रदीप. षोडशसंस्काराः by कमलाकर. 
+स्मृतिशेखर or कस्तूरिस्मृति by कस्तूरि, son of नागय, on आचार. (Burnell's Tanj. Cat. [[136a.|136a).]]
 
-संवत्सरप्रयोगसार of श्रीकृष्णभट्टाचार्य, षोडशसंस्कारा: by चन्द्रचड. An abri son of नारायण of the वन्द्यघटीय 
+स्मृतिसंस्कारकौस्तुभ. Probably the same as संस्कारकौस्तुभ of अनन्तदेव.
 
-clan, dgement of his संस्कारनिर्णय. षोडशसंस्कारपद्धति or संस्कारपद्धति | संवत्सरोत्सवकालनिर्णय by निर्भयराम. 
+स्मृतिसंक्षेप by नरोत्तम on आशौच, सहमरण, षोडशदान. N. (new series) vol. II p. 225 and vol. I. p. 414.
 
-(Bik. Cat. p. 463) by आनन्द 
+स्मृतिसंक्षेपसार by रमाकान्तचक्रवर्तिन्, son of मधुसूदनतर्कवागीश. On उद्वाह, उद्वाहकाल, गोत्र, प्रवर, सपिण्ड, समानोदक &c. N. (new series) vol. II. p. 225.
 
-निन्द | संवत्सरोत्सवकालनिर्णय of पुरुषोत्तम on रामदीक्षित. 
+स्मृतिसंग्रह or संग्रह. Vide sec. 55
 
-the same subject as preceding. षोडशसंस्कारप्रयोग. 
+स्मृतिसंग्रह.  
+(1) by छलारि नारायण, m. by his son in स्मृत्यर्थसागर.  
+(2) by दयाराम.  
+(3) by नीलकण्ठ (D. C. Ms. No. 373 of 1875–76).  
+(4) by रामभद्रन्यायालङ्कारमहाचार्य of नवद्वीप on अनध्याय, तिथि, प्रायश्चित्त, शुद्धि, उद्वाह, सापिण्ड्य. Also called व्यवस्थाविवेचन or व्यवस्थासंक्षेप.  
+(5) attributed to सायण and माधव.
 
-Expressly says that it was षोडशसंस्कारसेतु by रामेश्वर. 
+स्मृतिसंग्रह by वाचस्पति.
 
-composed to clear up the पद्धति षोडशोपचारपूजापद्धति (for worship | of ब्रजराज. In prose. D. C. Ms. 
+स्मृतिसंग्रह by विद्यारण्य (Hultzsch R. I. No. 591.).
 
-of विष्णु). 
+स्मृतिसंग्रह alias विद्यारण्यसंग्रह (in margin)– a large work in 7000 ग्रन्थ (Baroda O. I. 11248).
 
-No. 177 of 1884-86. Earlier 
+स्मृतिसंग्रह by वेङ्कटेश. Is it same as स्मृतिरत्नाकर of वेङ्कटनाथ?
 
-than 1750 A. D. संवत्सरकल्पलता of व्रजराज, a devotee 
+स्मृतिसंग्रह by हरदत्त.
 
-of विठ्ठलेश, son of वल्लभाचार्य; in | संवर्तस्मृति Vide sec. 56; pr. Jiva 12 दलs in verse. Begins with ____nanda Sm. part I pp. 584-603 कृष्णजन्माष्टमी festival in भाद्रपद | and Anan. Sm. pp. 411-424. and then describes festivals in other months. D. C. Ms. No. | संस्कर्तृक्रम by वैद्यनाथ. Probably a 201 of A 1882-83. 
+स्मृतिसंग्रह– same as परमेश्वरीदासाब्धि.
 
-portion of the स्मृतिमुक्ताफल. संवत्सरकृत्य or संवत्सरकौस्तुभ or संव-संस्कारकमलाकर or संस्कारपद्धति by 
+स्मृतिसंग्रह on व्यवहार (Cal. S. College Ms. Cat. vol. II. p. 137 No. 141).
 
-सरदीधिति- part of स्मृतिकौस्तुभ | 
+स्मृतिसंग्रहरत्नव्याख्यान– a com. on चतुर्विंशतिमत by रामचन्द्र, son of नारायणभट्ट (I. O. Cat. p. 475). Seems to be the same as भट्टोजि's com. on चतुर्विंशतिमत.
 
-कमलाकर. Vide sec. 111 (vide of अनन्तदेव. Vide sec. 114. 
+स्मृतिसंग्रहसार of महेशपञ्चानन, founded on रघुनन्दन's स्मृतितत्त्व. N. VI. p. 235.
 
-BERAS Cat. p. 236 and I. 0. संवत्सरकृत्यप्रकाश- a part of the Cat. p. 514). 
+स्मृतिसमुच्चय (Ms. in Bombay University Library) in about 500 [[P1155]] verses on आह्निक, शौच, स्नान, एकादशी &c. Quotes गरुडपुराण.
 
-यशवन्तभास्कर by भास्करशर्मा. 
+स्मृतिसमुच्चय (from आचारतिलक or लघ्वाचारतिलक) in 321 verses on दन्तधावन, स्नान, संध्या, daily duties श्राद्ध, एकादशी &c. (Baroda O. I. No. 7331).
 
-संस्कारकल्पद्रुम by जगन्नाथयाज्ञिक, संवत्सरकौमुदी by गोविन्दानन्द. See. 
+स्मृतिसमुच्चय of विश्वेश्वर. It is said in JBORS for 1927 parts III–IV p. VII that it is this work that is m. in कालविवेक of जीमूत०, हेमाद्रि (कालनिर्णय) III. 2. 686, दिव्यतत्त्व of रघु०, तिथिविवेक of शूलपाणि.
 
-106. 
+स्मृतिसरोजकलिका by विष्णुशर्मन् in 8 sections (खण्डs) on स्नान, पूजा, तिथि, श्राद्ध, सूतक, दान, यज्ञ, प्रायश्चित्त. Enumerates 28 स्मृतिकारs by name (vide Tri. Cat. Madras Govt. Mss. for 1919–22 p. 4360 No. 2997).
 
-son of सुखशङ्करशुक्ल. In three 
+स्मृतिसरोजसुन्दर or स्मृतिसार. Vide [[सरोजन्दर|सरोजसुन्दर]].
 
-काण्डs on गणेशपूजन, संस्कार and संवत्सरदीधिति- part of the स्मृतिः । 
+स्मृतिसर्वस्व by नारायण of कृष्णनगर in the Hughli District (I. O. Cat. p. 448). Earlier than 1675 A. D. He speaks of a क्षयमास as yet to occur in śake 1603 (1681 A. D.).
 
-स्मार्ताधान; names वासुदेव's भाष्य कौस्तुभ of अनन्तदेव. 
+स्मृतिसागर by कुल्लूकभट्ट; vide गोविन्दार्णव; m. in शूलपाणि's दुर्गोत्सवविवेक, शुद्धिकौमुदी of गोविन्दानन्द, प्रायश्चित्ततत्त्व of रघु०.
 
-on (पारस्कर) गृह्य. Speaks of 25 संवत्सरनिर्णयप्रतान by पुरुषोत्तमः | संस्कारs. Ulwar Cat. extract 364 
+स्मृतिसागरसार m. in प्रायश्चित्तसंग्रह of नारायणभट्ट and in मलमासतत्त्व of रघु०.
 
-1134 
+स्मृतिसार by केशवशर्मन् in 1359 verses on rites to be performed on several तिथिs.
 
+स्मृतिसार by नारायण.
 
+स्मृतिसार by महेश On impurity due to birth and death. N. vol. III. p. 48.
 
-T 
+स्मृतिसार by मुकुन्दलाल.
 
-संस्कारकौमुदी by गिरिभट्ट, son of In 1776 A. D. he composed 
+स्मृतिसार by याज्ञिकदेव in 311 verses culled from स्मृतिs on दायभाग, श्राद्ध, यज्ञोपवीत, मलमास, आचार, स्नान, शुद्धि, सापिण्ड्य, आशौच D. C. Ms. No. 181 of 1895–1902 is dated संवत् 1652 (1595–96 A. D.).
 
-यल्लम्भट्ट 
+स्मृतिसार by यादवेन्द्रभट्ट on the performance of festivals and rites on certain तिथिs such as कृष्णजन्माष्टमी रामनवमी, and on दुर्गोत्सव, श्राद्ध, आशौच, प्रायश्चित्त; m. in धर्मप्रवृत्ति. [[I O.|I. O.]] Cat. p. 477; N. vol. IV. p. 213 (Ms. dated śake 1619).
 
-_his संग्रहदीपिका on माश्वलायन संस्कारकौस्तुभ or संस्कारदीधिति-part श्रौतसूत्र. 
+स्मृतिसार by श्रीकृष्ण.
 
-of स्मृतिकौस्तुभ of अनन्तदेव. Vide | (3) by नन्दपण्डित- a part of seo. 114 (pr. by Nir. P. and at 
+स्मृतिसार by हरिनाथ. Sec. 92. The work is also called स्मृतिसारसमुच्चय.
 
-स्मृतिसिन्धु. Vide see. 110. Baroda with Marathi trans 
+स्मृतिसार or आशौचनिर्णय– a com. on a work by वेङ्कटेश
 
-| संस्कारनृसिंह by नरहरि (C. P. Cat. lation). 
+स्मृतिसारटीका by कृष्णनाथ.
 
-No. 6076). Pr. at Benares in संस्कारगङ्गाधर or-धरी by गङ्गाधर 
+[[स्मृतिमारप्रदीप|स्मृतिसारप्रदीप]] m. by रघुनन्दन.
 
-1894. दीक्षित. On संस्कारs of गर्भाधान, चौल, व्रतबन्ध, वेदव्रतचतुष्टय, 
+स्मृतिसारव्यवस्था by विद्यारत्नस्मार्तभट्टाचार्य.
 
-संस्कारपद्धति by अमृतपाठक, son of केशान्त, व्रतविसर्ग, विवाह. (D. C. 
+स्मृतिसारसंग्रह by [[कृष्णभट्ट,|कृष्णभट्ट.]]
 
-सखाराम (for माध्यन्दिनीयs). Men Ms. No. 610 of 1882-83). 
+स्मृतिसारसंग्रह by चन्द्रशेखरवाचस्पति.
 
-tions हेमाद्रि, धर्माब्धिसार, प्रयोग संस्कारगणपति- com. on पारस्करगृह्य 
+स्मृतिसारसंग्रह by पुरुषोत्तमानन्द, pupil of परमहंसपूर्णानन्द on [[P1156]] आह्निक, शौच, स्नान, त्रिपुण्ड्र, क्रमसंन्यास, श्राद्ध, विरजाहोम, स्त्रीसंन्यासविधि, क्षौरपर्वनिर्णय, यतिपार्वणश्राद्ध.
 
-दर्पण, प्रयोगरत्न, कौस्तुभ, कृष्णभट्टी, सूत्र by रामकृष्ण. Vide under गदाधर. पारस्करगृह्य above. 
+स्मृतिसारसंग्रह by महेश. Vide व्यवस्थासारसंग्रह.
 
-संस्कारपद्धति by आनन्दराम याज्ञिक. संस्कारचन्द्रचूडी of चन्द्रचूड. Vide | संस्कारपद्धति by कमलाकर. Vide 
+स्मृतिसारसंग्रह by याज्ञिकदेव. Seems to be same as स्मृतिसार with additions. Here the verses are 459. Vide D. C. Ms. 344 of 1886–92.
 
-संस्कारनिर्णय below. 
+स्मृतिसारसंग्रह by वाचस्पति; mentions रघु० (I. O. Cat. p. 450).
 
-संस्कारकमलाकर above. संस्कारचिन्तामणि by रामकृष्ण of 
+स्मृतिसारसंग्रह by विद्यानन्दनाथ.
 
-संस्कारपद्धति by गङ्गाधरभट्ट, son of Benares (C. P. Cat. No. 6073). 
+स्मृतिसारसंग्रह by विश्वनाथ. Mentions विज्ञानेश्वर, कल्पतरु, विद्याकरपद्धति. (Tri. Cat. of Madras Govt. Mss. for 1919–22 p. 4264 No. 2944).
 
-राम. Vide संस्कारगङ्गाधरी. Probably the same as संस्कार गणपति. 
+स्मृतिसारसंग्रह by वेङ्कटेश.
 
-संस्कारपद्धति by नारायणभट्ट संस्कारतत्त्व of रघुनन्दन. Vide sec. | संस्कारपद्धति by भवदेव. The same 
+स्मृतिसारसंग्रह by वैद्यनाथ.
 
-107. 
+स्मृतिसारसमुच्चय on domestic observances; gives extracts from 28 sages on शौच, ब्रह्मचारि, आचार, दान, द्रव्यशुद्धि, प्रायश्चित्त. Vide I. O. Cat. p. 477 No. 1556 and Ulwar Cat. extract 372. where it is said to have been compiled by धर्मशास्त्ररुचि (a lover of धर्मशास्त्र).
 
-as छन्दोगकर्मानुष्ठानपद्धति. Vide C. by कृष्णनाथ. 
+स्मृतिसारसमुच्चय by हरिनाथ. Same as स्मृतिसार above
 
-sec. 14. संस्कारदीधिति-vide संस्कारकौस्तुभ. C. रहस्य by रामनाथ. Composed संस्कारदीधिति (pr. at Benares). _in sake 1544 (1622-23 A. D). संस्कारनिर्णय. 
+स्मृतिसारसर्वस्व by वेङ्कटेश. Same as आशौचनिर्णय by वेङ्कटेश.
 
-N. VI. pp. 237-38. (1) by चन्द्रचूडभट्ट, son of उमण्ण- | संस्कारपद्धति by शिङ्गय. 
+स्मृतिसारसागर m. in तिथितत्त्व of रघु०.
 
-भट्ट, son of धर्मभट्ट. Based on | संस्कारप्रकाश. मापस्तम्बगृह. Treats of संस्कारs ___ (1) a part of प्रतापनारसिंह. from गर्भाधान. Names ज्योति- (2) a part of वीरमित्रोदय by निबन्ध, माधवीय, हरदत्त and | 
+स्मृतिसारावलि m. in नि. सि.
 
-मित्रमिश्र सुदर्शन on आपस्तम्ब, प्रयोगरत्न. | 
+स्मृतिसारोद्धार vide चक्रनारायणीयनिबन्ध. Pr. at Benares.
 
-संस्कारप्रदीप. One Ms. (I. O. Cat. p. 98 No. 467) is dated sake 1607 
+स्मृतिसिद्धान्तसंग्रह by इन्द्रदत्त उपाध्याय.
 
-संस्कारप्रदीपिका by विष्णुशमंदीक्षित. (1685). Between 1975-1650 संस्कारप्रयोग. 
+स्मृतिसिद्धान्तसुधा by रामचन्द्रबुध, a com. on अघपञ्चषष्टि.
 
-A. D. 
+स्मृतिसिन्धु by नन्दपण्डित. Vide sec. 110.
 
-संस्कारभास्कर. (2) by तिप्याभट्ट, son of रामभट्ट, (1) by खण्डभट्ट, son of मयूरेश्वर 
+स्मृतिसिन्धु by श्रीनिवास, pupil of कृष्ण (Burnell's Tanj. Cat. p. 135a) for वैष्णवs.
 
-surnamed गह्वर; for आश्वलायन. । अयाचित. Based on कर्क and 
+स्मृतिसुधाकर of वर्षकृत्यनिबन्ध by ओझाशङ्कर, son of सुधाकर. N. vol IV p. 271.
 
-List of works on Dharmasastra 
+स्मृतिसुधाकर of शङ्करमिश्र. About 1600 A. D. (JBORS for 1927 parts III. IV p. X).
 
-1135 
+स्मृत्यधिकरण.
 
-गङ्गाधर. Divides संस्कारs into | संस्काररत्न from the अनूपविलास or ब्राह्म (गर्भाधान and others)| धर्माम्बोधि of मणिराम. and देव (पाकयज्ञ and others). | 
+स्मृत्यर्थनिर्णय (on व्यवहार).
 
-| संस्काररत्नमाला. D.C. Ms. No.611 of 1882-83. 
+स्मृत्यर्थरत्नाकर alias स्मृत्यर्थसार.
 
-(1) by गोपीनाथभट्ट ( pr. at Anan. (2) by ऋषिबुध. or-भट्ट, son of | 
+स्मृत्यर्थसागर by छल्लारि नृसिंहाचार्य, son of नारायण. Based on मध्वाचार्य's सदाचारस्मृति; divided into four तरङ्गs on आह्निक, काल, आशौच and शुद्धि (Vide Bhandarkar's Report for 1883–84 p. 52 and BBRAS Cat. p. 239 No. 748 and Aufrecht's Oxf. Cat. 285 b.). He says मध्वाचार्य was born in śake 1120. Mentions कमलाकर and स्मृतिकौस्तुभ, Later than 1675 A. D.
 
-____P. and in Ch. S. Series). गङ्गाधर, son of विश्वनाथ. sur named शौच (शौचे); pr. by | (2) by नागेशभट्ट. Venk. P.: follows कर्क, वासु- | संस्काररत्नाकर ( पारस्करीय). दव and हरिहर on पारस्करगृह्य | संस्काररत्नावलि of नसिंहभद्र, son of and mentions प्रयोगदर्पण 
+स्मृत्यर्थसार by नीलकण्ठाचार्य (C. P. Cat. No 6733.)
 
-Vide BBRAS. Cat. vol. II | 
+स्मृत्यर्थसार by मुकुन्दलाल.
 
-सिद्धभ3, of कण्वशाखा and resi p. 236 No. 739. 
+स्मृत्यर्थसार by श्रीधर. Sec. 82.
 
-dent of प्रतिष्ठान संस्कारमञ्जरी by नारायण same as 
+स्मृत्यर्थसारसमुच्चय (Baroda O. I. 4088) summaries of the [[P1157]] views of 28 sages are given on शौच, आचमन, दन्तधावन, &c.; Ms. dated संवत् 1743. The 28 sages are मनु, याज्ञवल्क्य, विश्वामित्र, अत्रि, कात्यायन, वसिष्ठ, व्यास, उशनस्, बौधायन, दक्ष, शङ्ख, लिखित, आपस्तम्ब, अगस्त्य, हारीत, विष्णु, गोभिल, सुमन्तु, मनुस्वायम्भुव, गुरु, नारद, पराशर, गर्ग, गौतम, यम, शातातप, अङ्गिरस, संवर्त.
 
-| संस्कारवादार्थ ( deals with the pro ब्रह्मसंस्कारमारी. 
+स्मृत्यालोक (B. O. Mss. Cat. vol. I. No. 449).
 
-per tiines for such संस्कारs as संस्कारमयूख. 
+स्वत्वरहस्य or स्वत्वविचार by अनन्तराम. On ownership of property.
 
-जातकर्म &c. ). N. vol. I. p. 150. (1) by नीलकण्ठ Vide sec. 112 | संस्कारविधि or गृयकारिका by रेणुक. 
+स्वत्ववाद (Tri. Cat. Madras Govt. Mss. for 1919–22 p. 4782).
 
-In many Mss. ascrided to his son शङ्कर. pr. at Gujrati | 
+स्वत्वविचार N. (new series) vol. II. p. 226.
 
-संस्कारवीचि a portion of the P. and by Mr. J. R. | 
+स्वत्वव्यवस्थार्णवसेतुबन्ध by रघुनाथसार्वभौम, in 6 परिच्छेदs on विभागनिरूपण, स्त्रीधन, स्त्रीधनाधिकारि, अपुत्रधनाधिकार.
 
-गोविन्दार्णव compiled by शेष Gharpure. 
+स्वर्गवाद on स्वर्गवाद, प्रतिष्ठावाद, सपिण्डीकरणवाद. N. (new series) vol. II, p. 229.
 
-नृसिंह (3),, or संस्कारभास्कर by सिद्धेश्वर, 
+स्वर्गसाधन by रघुनन्दनभट्टाचार्य. Appears to be different from the great रघुनन्दन. On श्राद्धाधिकारि, अन्त्येष्टिपद्धति, आशौचनिर्णय, वृषोत्सर्ग, षोडशश्राद्ध, पार्वणश्राद्ध &c. N. (new series) vol. I. p. 417.
 
-संस्कारसागर by नारायणभट्ट ( on son of दामोदर, son of शकर. । स्थालापाक) 
+स्वस्तिवाचनपद्धति by जीवराम.
 
-He was a nephew of | संस्कारसार- part of the नृसिंहप्रसाद. नीलकण्ठ. Flourished betw-| Vide sec. 103. een 1630-1670 A. D. Treats | संस्कारसौख्य. of 25 संस्कारs and gives at | संस्कारामृत of सिद्धेश्वर, son of दामो the .end of the work a! दर: vide संस्कारमयख above. Re complete list of गोत्रs and | fers to दैतनिर्णयपरिशिष्ट of his प्रवर. 
+हनुमत्प्रतिष्ठा.
 
-father. संस्कारमार्तण्ड by मार्तण्डसोमयाजी; | संस्कारोद्योत-a portion of the दिन 
+हयशीर्षपञ्चरात्र a वैष्णव work concerned with the consecration of images of gods and building temples; m. by रघु०, नि. सि. and हलायुध in पुराणसर्वस्व.
 
-contains two chapters on करोद्योत. स्थालीपाक and नवग्रह. Pr. at | संस्थापद्धति or संस्थावैद्यनाथ by वैद्य Madras. 
+हरितालिकाव्रतनिर्णय.
 
-नाथ, son of रत्नेश्वर, son of केशव संस्कारमुक्तावली of तानपाठक. in 4 aras. Ulwar Cat. extract संस्काररत्न by खण्डेराय, son of हरि 
+हरितोषण by वेदान्तवागीशभट्टाचार्य.
 
-63. On the rites performed in 
+हरिदिनतिलक (on एकादशी fast) by चण्डमारुतस्वामिन्.
 
-भावसथ्य fire according भट्ट, son of नारायण ; m. in his 
+हरिदिनतिलक by वेदान्तदेशिक.  
+C. (vide Cat. of Madras Govt. Mss vol. VI. p. 2368 No. 3153). According to it the author वेदान्तदेशिक flourished after स्मृतिच०, हेमाद्रि, कालादर्श and कालनिर्णय and held that the views of all these were अशास्त्र and आसुर.
 
-to कृत्यरत्न. Later than 1400 A. D. | कात्यायनगृहा. 
+हरिपूजापद्धति by आनन्दतीर्थ भार्गव. Stein's Cat. p. 109.
 
-His family was patronised by संहितादीप- m. in संस्कारमयूख of विदर्भ king. 
+हरिभक्ति m. by रघु० in आह्निकतत्त्व and एकादशीतत्त्व.
 
-सिद्धेश्वर. 
+हरिभक्तिकल्पलता by विष्णुपुरी m. in कृष्णभक्तिकल्पवल्ली.
 
-1136 
+हरिभक्तिकल्पलतिका by कृष्णसरस्वती divided into 14 स्तबकs.
 
+हरिभक्तिदीपिका by गणेश. N. vol. V. pp. 189–190.
 
+हरिभक्तिभास्कर (सद्वैष्णवसारसर्वस्व) by भुवनेश्वर, son of भीमानन्द, in 12 प्रकाशs; composed in संवत् 1884.
 
-संहिताप्रदीप m. in नि.सि. An astro- | संक्रान्तिनिर्णय by गोपालशर्मन्याय. _logical work. 
+हरिभक्तिरसायन.
 
-। पञ्चानन in 3 parts. संहितासारावलि m. in संस्कारमयूख. । 
+हरिभक्तिरसायनसिन्धु.
 
-| संक्रान्तिनिर्णय by बालकृष्ण. 
+हरिभक्तिरहस्य.
 
-संक्रान्ति निर्णय- . portion of the संहिताहोमपद्धति by भैरवभट्ट (Baroda 
+हरिभक्तिलता.
 
-स्मृतिमुक्ताफल. 0. I. 335 ). 
+हरिभक्तिविलास by गोपालभट्ट, pupil of प्रबोधानन्द. He was ordered to write this work by चैतन्य; vide under भगवद्भक्तिविलास. Composed about 1562 A. D.; m. by रघुनन्दन.
 
-lafadiz. Ano.; mentions सकलकर्मचिन्तामणि. 
+हरिभक्तिविलास (लघु) by रूपगोस्वामिन्.  
+C. by सनातनगोस्वामिन्, m. in [[P1158]] वैष्णवतोषिणी. Vide N. vol. VI. pp. 190–93 for an account of his family.
 
-भीमपराक्रम, दीपिका, कृत्यचिन्ता सकलदानफलाधिकार 
+हरिभक्तिसार.
 
-मणि. सकलदेवताप्रतिष्ठा 
+हरिभक्तिसुधोदय. C. m. by सदाचारचन्द्रिका.
 
-संक्रान्तिविवेक by शूलपाणि. Vide sec. सकलपुराणसमुच्चय m. by अल्लाडनाथ. 
+हरिवंशविलास by नन्दपण्डित, divided into कौतुकs on आह्निक, कालनिर्णय, दान, संस्कार. Vide sec. 110.
 
-_98 at p. 825. N. VI. p. 205. 
+हरिवासरनिर्णय by व्यङ्कटेश (Baroda O. I. 8793).
 
-संक्रान्तिव्यवस्थानिर्णय Ano. ( N. II. सकलप्रमाणसंग्रहः 
+हरिहरदीक्षितीय.
 
-313). सकलशान्तिसंग्रह. 
+हरिहरपद्धति by हरिहर. The same as is appended to his भाष्य on पारस्करगृह्यसूत्र; m. by हेमाद्रि श्राद्धसौख्य of टोडरानन्द, उद्वाहतत्त्व and other तत्त्वs of रघु०. Vide sec. 85.
 
-संक्रान्तिशान्ति. सङ्करमृततिथिनिर्णय 
+हरिहरभाष्य on पारस्करगृह्य by हरिहर.
 
-संक्रान्त्युद्यापन संकल्पकौमुदी of रामकृष्ण (N. IV. 
+हलायुधनिबन्ध m. in आचारादर्श of श्रीदत्त.
 
-संक्षिप्तनिर्णयसिन्धु. Briefly describes _pp. 222-23 ). 
+हलायुधीय m. in आचारमयूख. Probably the ब्राह्मणसर्वस्व of हलायुध.
 
-religious rites from चैत्र to संकल्पचन्द्रिका by रघुनन्दन ( N. I. | फाल्गुन. Expressly says that it 
+हारलता by अनिरुद्ध. Sec 83.  
+C. संदर्भसूतिका by अच्युतचक्रवर्तिन्, son of हरिदासतर्काचार्य.  
+C. विवरण m. by नन्दपण्डित in श्राद्धकल्पलता.
 
-p. 166 ). 
+हारीतस्मृति. Vide sec. 11.  
+C. m. by हेमाद्रि; vide p. 129 above.  
+C. by तकनलाल.
 
-is based on निर्णयसिन्धु; Ms. in संकल्पश्राद्ध प्रयोग. 
+हारीतस्मृति (Baroda O. I. 8185) in four अध्यायs on नित्य and नैमित्तिक rites of वर्णs and आश्रमs, eight नारीधर्मs, नृपधर्म, जीवपरमेश्वरस्वरूप, मोक्षसाधन, ऊर्ध्वपुण्ड्र, There is व्यवहाराध्याय also.
 
-Bik. Cat. p. 454 is dated sake 
+हिरण्यकामधेनुदान.
 
-1514 ( 1592 A. D. ), which is a संकल्पस्मृतिदुर्गभञ्जन by चन्द्रशेखर 
+हिरण्यकेशाह्निक.
 
-misreading if निर्णयसिन्धु of शर्मा of नवद्वीप (about the सङ्कल्प 
+हिरण्यकेशि (सत्याषाढ) गृह्यसूत्र in two प्रश्नs, each divided into पटलs (ed. by Dr. Kirste at Vienna, 1889 and tr. in SBE vol. 30). Vide p. 17 above.  
+C. प्रयोगवैजयन्ती by महादेव.  
+C. by मातृदत्त (extracts in [[Kriste's|Kirste's]] edition).
 
-कमलाकर is meant. to be made in the beginn ing of all wifi rites ). L'ivided 
+हिरण्यकेशिधर्मसूत्र. Vide sec. 8 p. 91 above.  
+C. उज्ज्वला by महादेव (p. 93 above).
 
-संक्षिप्तशास्त्रार्थपद्धति into four Farts on तिथि, मास, | संक्षिप्तसार m. in एकादशीतत्त्व of रघु० काम्यकर्मणिसङ्कल्प, व्रत. N. rol. | संक्षिप्तहोमप्रकार by रामभट्टः II. pp. 329-330. 
+हिरण्यश्राद्ध.
 
-संक्षिप्ताहिकपद्धति by चण्डीदास, son संकष्टहरचतुर्थीवतकालनिर्णय. 
+हेमाद्रिकालनिर्णयसंक्षेप or –संग्रह by भट्टोजिदीक्षित, son of लक्ष्मीधर. Vide Baroda O. I. No. 5480.
 
-of दुर्गादत्त, written at the desire संकेतकौमुदी ( probably a purely / 
+हेमाद्रिनिबन्ध– the same as चतुर्वर्गचिन्तामणि.
 
-___of रणवीरसिंह of काश्मीर. astrological work ) by शम्भुनाथा 
+हेमाद्रिप्रयोग by विद्याधर.
 
-| संक्षेपतिथिनिर्णयसार by गोकुलजित् , चार्यः 
+हेमाद्रिसंक्षेप by भजीभट्ट (Stein's Cat. p. 110).
 
-_son of हरिजित् in 1633 A.D. 
+हेमाद्रिसर्वप्रायश्चित्त by बालसूरि.
 
-संक्षेपपूजापद्धति ( Ulwar Cat. 2412 ) संकेतकौमुदी by शिवः 
+होमकालातिक्रमप्रायश्चित्त.
 
-_by रघुनन्दनठक्कुर. संकेतकीमुदी by हरिनाथाचार्य m. by | संपरुद्धपद्धति ( Ulwar Cat. 1513). 
+होमनिर्णय by भानुभट्ट, son of नीलकण्ठ, son of शङ्कर. About 1620–1680 A. D.
 
-रघु० in ज्योतिस्तत्त्व. 
+होमपद्धति by माधव (part of his मखतिलक). Mentions रूपनारायण; Ulwar Cat. extract 375.
 
-संक्षेपसिद्धिव्यवस्था. संक्रान्तिकौमुदी by सिद्धान्तवागीशभट्टासंपाहिकचन्द्रिका by दिवाकरभट्ट 
+होमपद्धति by लम्बोदर.
 
-चार्य; Ms. (N. vol. VIII. p. 198) Same as आह्निकचन्द्रिकाof दिवाकर dated sake 1540 ( 1618 A. D.) { above. 
+[[होनप्रायश्चित्त|होमप्रायश्चित्त]].
 
-List of works on Dharmaśāstra 
+होमलोपप्रायश्चित्तप्रयोग.
 
-1137 
+होमविधान by बालकृष्ण (ऋग्वेदीय). Baroda O. I. No. 8354.
 
-संख्यापरिमाणसंग्रह of केशवकवीन्द्र, सत्कर्मचिन्तामणि. 
+होमसिद्धान्त ano.
 
-who wrote in Benares and was 
-
-| सत्कर्मदर्पण. the principal pandit in the parisad of the king of तीरभुक्ति । 
-
-सस्क्रियाकल्पमञ्जरी Madras Govt. ( modern Tirhut ). Dilates upon | 
-
-DI ss. Cat. vol. V. p. 2212, vol. 
-
-VI. p. 2308. the weights, now bers and 
-
-measures required in स्मृति / सत्कियासारदीपिका by गोपालभट्ट for rules ( such as size of tooth वैष्णवs. He wrote हरिभक्तिविलास brush, number of sacred __ also. Flourished about 1500 threads for ब्राह्मण यज्ञोपवीत ). | 1565 A. D. Names भवदेव, अनि. N. vol. V. pp. 161-162. 
-
-रुद्ध, भीम, गोविन्दानन्द and संग्रह or स्मृतिसंग्रह. Vide sec. 55. नारायण. संग्रहचिन्तामणि ( C. P. Cat. No. | सत्यव्रतस्मृति m. in कालविवेक of ___6153 ). 
-
-जीमूत०, अपरार्क, स्मृतिच०, श्राद्धतत्त्व. संग्रहवैद्यनाधीय by वैद्यनाथ. सत्संप्रदायप्रदीपिका or संप्रदायप्रदीप संग्रामसाहीयः Vide विवेकदीपक 
-
-an account of the principal above. 
-
-वैष्णव teachers. सच्चरितपरित्राण by वीरराघव of | सत्संप्रदायप्रदीपिका by गदाधर. 
-
-वाधूलगोत्र in the duties of वैष्णवs. Mentions स्मृतिरत्नाकर 
-
-सत्स्मृतिसार by जानकीराम सार्वभौम 
-
-on तिथि, प्रायश्चित्त &c. N. ( new सच्चरितरक्षा by वेङ्कटनाथ on शङ्खचक्र 
-
-series ) rol. II. p. 210. धारण, ऊर्ध्वपुण्डधारण and भगवन्नि 
-
-सदाचार. वेदितोपयोग (३ प्रकरणs). 
-
-सदाचारक्रम by रामपतिः सच्चरितरक्षा by रामानुजाचार्य 
-
-सदाचारक्रम attributed to वसिष्ठ. C. सच्चरित्रसारदीपिका by himself. 
-
-सदाचारचन्द्रिका ( D. C. Ms. No. सच्चरितसुधानिधि by वीरराघव ___108 of 1869-70 copied in संवत् (नैध्रुव), who bows to several 1787 माघ, i. e. February 1731 teachers of the विशिष्टाद्वैत A. D. ). Inculcates कृष्णभक्तिः system, riz. नाथ, राममिश्र, यामुन- Mentions रूपगोस्वामी, सनातन मुनि, रामानुज रङ्गराज, वेदान्तदेशिक, 
-
-गोस्वामी, रामार्चनचन्द्रिका, हरि पराङ्कुश, श्रीनिवास &c. 
-
-भक्तिविलासटीका, हरिभक्तिसुधोदय सच्छूद्राहिक. 
-
-and its टीका. सजनवल्लभा by जयराम- a com. on | सदाचारचन्द्रोदय- Vide आचारचन्द्रो. 
-
-पारस्करगृह्यसूत्र ; m. in मुहूर्तदीपक दय alias माधवप्रकाश of महादेव. 
-
-सदाचारनिर्णय by अनन्तभट्ट. सत्कर्मकल्पद्रुमः 
-
-सदाचारप्रकरण by शङ्कराचार्य (for सत्कर्मचन्द्रिका 
-
-योगिन् ). H. D.-143 
-
-1138 
-
-
-
-सदाचाररहस्य by अनन्तभट्ट, son of | सदारस्मृतिव्याख्या क्षीरसिन्धु ( Baroda 
-
-दाईभट्ट, composed at Benares! Oriental Institute No. 1880). at the desire of संग्रामसिंह, son | Mentions प्रयोगपारिजात. of भमरेश, son of जयसिंह. About | सद्धर्मचन्द्रोदय m. in अहल्याकामधेनु. 1715 A. D. ( ride Stein's Cat. | 
-
-सद्धर्मचिन्तामणि m. in आचारमयूख. pp. 317-318). 
-
-सद्धर्मतत्वाख्याहिक by हरिप्रसाद, son सदाचारविवरण by शङ्कर. 
-
-of गङ्गेश of मथुरा. In 62 verses. सदाचारसंग्रह by गोपालन्यायपञ्चानन. 
-
-___He wrote आचारतत्त्व also. सदाचारसंग्रह by वेङ्कटनाथ Vide | सद्वृत्तरत्नमाला. 
-
-under स्मृतिरत्नावलि. 
-
-| सनत्कुमारसंहिता m. in त्रिस्थलीसेतु सदाचारसंग्रह by शङ्करभट्ट, son of | and नि. सि. 
-
-नीलकण्ठभट्ट, ( I. O. Cat. p. 590 संतानदीपिका- gives astrological No. 1800). Prohalily a spurious reasons for a man's being work. In N. vol. 1. p. 103 
-
-issueless. author's name is wanting 
-
-| संतानदीपिका by केशव though the first verse is same 
-
-संतानदीपिका by महादेव. as in IO. Cat. p 590. 
-
-संतानदीपिका by हरिनाथाचार्य. सदाचारसंग्रह by श्रीनिवासपण्डित in | 
-
-संदर्भसूतिका com. on हारलता १.v. three काण्ड Un आचार, व्यवहार and प्रायश्चित्त. 
-
-संध्याकारिका by सर्वेश्वर, son of 
-
-लीलाधर. सदाचारसमृद्धि 
-
-संध्यात्रयभाष्य by परशुराम ( Baroda सदाचारस्मृति by आनन्दतीर्थ in 40 O. I. 6463). Also called द्विज. 
-
-verses, 
-
-कल्पलता. C. by नृहरि, Pupil of मध्व. Ba- | संध्यादिब्रह्मकर्मन्. 
-
-roda O. I. No. 1884. । संध्यानिर्णय. C. by रामाचार्य: Baroda O. I. | संध्यानिर्णयकल्पवली by कृष्णपण्डित, 
-
-No. 2619. 
-
-son of रामपण्डित and लक्ष्मी in सदाचारस्मृति by नारायणपण्डित, son | four गुच्छs. Hultzsch R. I. No. 
-
-of विश्वनाथ. In Bik. Cat. p. 449 | ___442 extract p. 80. the work is styled स्मृतिटीका. | संध्यापद्धति. m. in आह्निकतत्त्व of रघु. So also in Stein's Cut p. 107. 
-
-संध्याप्रयोग N. rol. x. p. 343. सदाचारस्मृति by राघवेन्द्रयति on | 
-
-संध्यारत्नप्रदीप by आशाधरभट्ट in 3 माहिक ( C. P. Cat. 6193 ). 
-
-किरणs Baroda O. I. No. 29. सदाचारस्मृति by श्रीनिवास (C. P. संध्यावन्दनभाष्य or संध्याभाष्य by 
-
-Cat. 6192). 
-
-आनन्दतीर्थ 
-
-List of works on Dharmaśāstra 
-
-1139 
-
-संध्यावन्दनभाष्य by कृष्णपण्डित, son | Stein's Cat. p. 256. About 
-
-of राघवदैवज्ञ, in four chapters | ____1650 A. D. ( BBRAS Cat. p. 237). संध्यारत्नप्रदीप by !भाशाधरभट्ट संध्यावन्दनभाष्य by कृष्णपण्डित, son | ( Baroda O. I. No. 29 ). 
-
-of रामभट्ट and लक्ष्मी, and pupil | संध्यावन्दनाववरण-from the द्विज. of मुकुन्दाश्रम and कृष्ण. Hultz- कल्पलता. seh's R. I. p. 58. This is also | संध्या विधिमन्त्रसमूहटीका by रामानन्द called संध्यावन्दनपद्धति. Pr. in तीर्थ. Anan. P. 
-
-संध्यासूत्रप्रवचन by हलायुध. संध्यावन्दनभाष्य by चौण्डपार्य, son 
-
-सन्यासकर्मकारिका. of चिन्वयार्य and कामाम्बा ( for 
-
-संन्यासग्रहणपद्धति by आनन्दतीर्थ, son आश्वलायनीयs); composed at 
-
-____of जनार्दनभट्ट. request of Tigfos, son of HIT. 
-
-संन्यासग्रहणपद्धति by शङ्कराचार्य 
-
-संन्यासग्रहणपद्धति attributed to संध्यावन्दनभाष्य by तिर्मलयज्वन् or 
-
-__शौनक. तिरुमल०. 
-
-सन्यासग्रहणरत्नमाला by भीमाशङ्कर संध्यावन्दनभाष्य by नारायणपण्डित, शर्मन् ( Baroda O. I. 12305). 
-
-who composed 60 works. सन्यासग्राह्यपद्धति alias संन्यासप्रयोग संध्यावन्दनभाष्य by रामाश्रमयति, Pu- _altas सप्तसूत्री ascribed to शंकरा pil of महादेव; comprised at चार्य ( on rites when a person Benares in शके 1574 ( 1652-53 enters order of संन्यास). A. D.). 
-
-संन्यासदीपिका by अग्निहोत्रिगोपीनाथ संध्यावन्दनभाष्य by विद्यारण्य ( on 
-
-(Baroda. O. I. 10057 ). ऋग्वेदिसन्ध्या and तैत्तिरीयसंध्या). 
-
-संन्यासदीपिका by सच्चिदानन्दाश्रम संध्यावन्दनभाष्य by वेङ्कटाचार्य (on 
-
-___ pupil of नृसिंहाश्रम ( Ulwar Cat. 
-
-extract 363 ). ऋक्संध्या.) 
-
-संन्यासधर्मसंग्रह by अच्युताश्रम. संध्यावन्दनभाष्य by व्यास, pupil of 
-
-संन्यासनिर्णय by पुरुषोत्तम. नृसिंह. Stein's Cat. p. 256. 
-
-संन्यासनिर्णय by वल्लभाचार्य, in संध्यावन्दनभाष्य by शङ्कराचार्य ___verse. संध्यावन्दनभाष्य by शत्रुघ्न ( Ulwar | C by same. __Cat. No. 1514 ). 
-
-C. विवरण by पुरुषोत्तम son of संध्यावन्दनभाष्य by श्रीनिवासतीर्थ. 
-
-पीताम्बर. D. C. Ms. No. 175 
-
-of 1884-86. संध्यावन्दनमन्त्र-there are several works with this title for the 
-
-C. hy रघुनाथ, pupil of विठ्ठल followers of the differeut 
-
-दीक्षित, BBRAS Cat. vol. Vedas. 
-
-II p. 327. संध्यामन्त्रव्याख्या ब्रह्मप्रकाशिका by 
-
-___C. by विठ्ठलेश. 
-
-.." वनमालिमिश्र, pupil of भट्टोजि । संन्यासपदमारी by वरदराजभट्ट. 
-
-LA 
-
-1140 
-
-
-
-संन्यासपद्धति m. in नि. सि., श्राद्धः | सन्मार्गकण्टकोद्धार by कृष्णतात (on 
-
-मयूख. 
-
-___the necessity of सपिण्डीकरण संन्यासपद्धति by अच्युताश्रमः 
-
-for प्रपन ). संन्यासपद्धति by मानन्दतीर्थ, the | सन्मार्गकण्टकोद्धारखण्डन (Madras 
-
-founder of the माधवमत ( 1119- | Govt. Miss. Cat. vol VI p. 2314 1199 A. D ). Stein's Cat. p. 318 
-
-No. 3093). for extract. 
-
-सपिण्डनिर्णय. संन्यासपद्धति by निम्बार्क शिष्य. 
-
-सपिण्डीकरण. 
-
-सपिण्डीकरणखण्डन संन्यासपद्धति by ब्रह्मानन्दिन् Baroda 0. I. No. 1676 is a संन्यासपद्धति 
-
-सपिण्डीकरणविधिः 
-
-सपिण्डीकरणश्राद्ध. following ब्रह्मानन्दीयपद्धति. 
-
-सपिण्डीकरणान्तकर्म. सन्यासपद्धति by रुद्रदेव ( extracted 
-
-सपिण्डीकरणान्वष्टका. from प्रतापनारसिंह). 
-
-सपिण्डीश्राद्ध by रघुवर (C. P. Cat. संन्यासपद्धति ascribed to शङ्कराचार्य No. 6221). 
-
-(I.O.Cat. p. 521 No. 1642). | सप्तपाकयज्ञभाष्य. संन्यासपद्धति ascribed to शौनक (N 
-
-सप्तपाकयज्ञशेष Divided into four vol. II. p. 101). 
-
-प्रश्न:, each प्रश्न being divided in. 
-
-to segras. N. vol. II. pp. 122-- संन्यासभेदनिर्णय. 
-
-125. संन्यासरत्नावलि by पद्मनाभभट्टारक | 
-
-निती by नाक son ( according to Al tenets ). 
-
-of महादेव ; on श्रवणाकर्म, सर्पबलि, संन्यासरीति. 
-
-आश्वयुजी, आग्रयण, अष्टका and संन्यासवरण by वल्लभाचार्य. N.vol. X. 
-
-पार्वणश्राद्ध. Names हेमाद्रि and p. 178. 
-
-कौस्तुभ. संन्यासविधि by विष्णुतीर्थ ( Baroda 
-
-| सप्तमठाम्नायिक. vide मठाम्नायादि 0. I. 8612). 
-
-विचार. संन्यासाहिक. 
-
-सप्तर्षिमत or-स्मृति m. in नि.सि. संन्यासिपद्धति ( for वैष्णव) I. O. | सप्तर्षिसमतस्मृति in 36 verses ( I.O. 
-
-Cat. p. 523. 
-
-Cat. p. 402). The seven sages संन्यासिमरणोत्तरविधि Stein's Cat. ___are नारद, वसिष्ठ, कौशिक, पैङ्गल, ___p. 107. 
-
-गर्ग, कश्यप, कण्व. संन्यासिसन्ध्या 
-
-सप्तर्षिस्मृतिसंग्रह. 
-
-सप्तव्यसनकथासमुच्चय by सोमकीर्ति सन्यासिसमाराधन. 
-
-आचार्य ( N. vol. VIII. p. 144) सन्यासिसापिण्ड्याविधि by वेदान्तरामा- | सप्तसंस्थाप्रयोग by अनन्तदीक्षित, son 
-
-नुज तातदास, on the ascetic's / of विश्वनाथ, surnamed यज्ञोपवीत. son performing सपिण्डीकरण for | सप्तसंस्थाप्रयोग by बालकृष्ण, son of 
-
-his father. 
-
-__ महादेवList of works on Dharmaśāstra 
-
-114i 
-
-सप्तसंस्थाप्रयोग from the राजधर्म- called कीर्तिप्रकाश ; composed by 
-
-कौस्तुभ of अनन्तदेव. 
-
-order of कीर्तिसिंह, son of कनक सप्तसंस्थाप्रयोग from the प्रयोगरत्न of सिंह, born in गौर family. His 
-
-नारायणभट्ट. 
-
-बिरुदs are 'कोदण्डपरशुराममानोवत' 
-
-which are the same as those of सप्तसूत्रसंन्यासपद्धति. Rules for ordi 
-
-मदनसिंहदेव under whom मदनरत्न pation of sampyāsins and for the ten orders (तीर्थ, आश्रम, 
-
-was compiled. It is probably अरण्य, गिरि, पर्वत, सागर, सरस्वती, 
-
-this work that is mentioned by भारती and पुरी) and account of 
-
-श्राद्ध क्रियाकौमुदी, मलमासतत्त्व of the ten great teachers from 
-
-रघु० as समयप्रकाश. ब्रह्मा to शंकराचार्य and the lat- समयप्रदीप by विठ्ठलदीक्षित (C. P. ter's disciples. N. vol. VI. p. 295. | Cat. 6284). सभापतिलक्षण. 
-
-समयप्रदीप by श्रीदत्त. Vide sec. 90. समयकमलाकर by कमलाकर. 
-
-C. जीर्णोद्धार by मधुसूदनठक्कुर. समयकल्पतरु by पन्तोनीभट्ट, son of 
-
-समयप्रदीप by हरिहरभट्टाचार्य, com लक्ष्मणभट्ट. Vide Bik. Cat. p. 451 
-
-posed in sake 1481 (शाके मही. (which gives only एकादशीनिर्णय 
-
-मङ्गलवेदचन्द्रसंख्यागते) i. e. 1559 out of it). 
-
-60 A. D. Doubtful whether he समयनय by विश्वेश्वर, son of दिनकर, 
-
-was father of रघु०. N. vol. III. for शम्भुराज (the Maratha king 
-
-pp. 55-56 and BarodaO. I. No. Sambhaji) in 1681. 
-
-10120. It deals with astrological समयनिर्णय by अनन्तभट्ट on times मुहूर्त for religious rites. 
-
-proper for religious rites; Ms. (N. vol. VIII. p. 205) dated 
-
-समयमनोरमा (C. P. Cat. 6286). sake 1602 (1680-81 A. D.). समयमयूख or कालमयूख by नीलकण्ठ. समयनिर्णय- the 5th part of the Vide sec. 112. Pr. by Mr. 
-
-प्रतापमार्तण्ड by रामकृष्ण, son of ___Gharpure. माधव, son of नारायण of the 
-
-समयमयूख by कृष्णभट्ट पराशरगोत्र. Composed at the order of king प्रताप (रुद्रदेव). | समयरत्न by मणिराम. About 1500-1525 A. D. 
-
-समयालोक by पद्मनाभभट्ट. Vide दुर्गा समयप्रकाश by मुकुन्दलाल. 
-
-वतीप्रकाश. समयप्रकाश by रामचन्द्रयज्वन् . Vide | समयोद्योत- part of मदनरस्न. 
-
-N. vol. VIII. p. 213. 
-
-समरसार by रामचन्द्र, son of सूर्यदास. समयप्रकाश by विष्णुशर्मा described | Deals with astrological calcu 
-
-as स्वराट्सम्राडग्निचित्स्थपतिमहाया lations from panes of bellige. ज्ञिक. It is a part of a digest I rents &c. 
-
-1142 
-
-
-
-C. by भरत younger brother of संबन्धचूडामणि Ano.; on prohibited 
-
-author. Stein's Cat. p. 174. degrees of relationship in C. by शिवदास, son of सूर्यदास | __marriage. 
-
-and विशालाक्षा. He calls the 
-
-संबन्धतत्व m. in नि. सि. author his गुरु. N. II. pp. | 
-
-204-206. 
-
-संबन्धनिर्णय by गोपालन्यायपञ्चानन· 
-
-भट्टाचार्य on relationship that समस्तकालनिर्णयाधिकार. 
-
-allowed or disallowed marriage समानप्रवरग्रन्थ- Stein's Cat. p. 107. 
-
-between the parties (such as समावर्तनकालप्रायश्चित्त. 
-
-सपिण्ड, समानोदक, सगोत्र, समान समावर्तनप्रयोग by श्यामसुन्दर. 
-
-प्रवर, बान्धव). समुदायप्रकरण by जगन्नाथसूरि. समुद्रकरभाष्य on श्राद्धसूत्र m. in | संबन्धप्रदीपिका by विद्यानिधि (Baroda __ आह्निकतत्त्व, श्राद्धतत्त्व of रघु०. । 
-
-___O. I. 101(6). 
-
-समुद्रयानमीमांसा. 
-
-संबन्धरहस्य m. in स्मृतिरत्नावली. संप्रदायप्रदीप by गदद्विवेदिन; com. 
-
-संबन्धविवेक by भवदेवभट्ट m. in posed at वृन्दावन in संवत् 1610 
-
-उद्वाहतत्व and संस्कारतत्त्व. Vide 
-
-sec. 74. (1553-54 A. D.); in five प्रकरणs; gives परम्परा of विष्णुभलिमार्ग संबन्धविवेक by शूलपाणि; m. by रघु. from पुरुषोत्तम, ब्रह्मा, नारद, कृष्ण 
-
-in शुद्धितत्त्व, who mentions a द्वैपायन, शुक; speaks of the परिशिष्ट thereto in संस्कारतत्व. faztera of the path and then 
-
-Vide sec. 98 and N. ( new of वल्लभ, his son विठ्ठल, his sons 
-
-series) vol. I preface p. x. गिरिधर and others who were 
-
-संबन्धविवेकपरिशिष्ट of धनञ्जय m. in living when work was compris. 
-
-उद्वाहतत्त्व and संस्कारतत्त्व (p. 891 ed; mentions the five things 
-
-of रघु०). This is probably a (वस्तुपञ्चक) on which वल्लभ dwelt 
-
-परिशिष्ट to भवदेव's work. (viz. गुरुसेवा, भागवतार्थ, भगवत्स्व रूपनिर्णय, भगवत्सेवा, नरपेक्ष्य); 
-
-संबन्धव्यवस्थाविकाश or उद्वाहव्यवस्था narrates stories of कुमारपाल and 
-
-(N. II. p. 334, different from हेमचन्द्र, शङ्कराचार्य and सुरेश्वर, 
-
-उद्वाहव्यवस्था above). मध्वाचार्य, रामानुज and निम्बादित्य | सरटपतनशान्ति. and of birth of agh while bis सरला (seems to be a भाष्य on गो. parents were running away भिलगृह्य) m. by रघु० in उद्वाह from Kasi. D. C_s. No. 176 तत्त्व, एकादशीतत्त्व and छन्दोग of 1884-86. 
-
-वृषोत्सर्गतत्त्व. संबन्धगणपति by गणपति रावल, son | सरस्वतीदशश्लोकी. 
-
-of हरिशङ्करसूरि, on auspicious | सरस्वतीविलास by प्रतापरुद्रदेव of the times for marriage, forms of गजपति dynasty of Orissa. Vide 
-
-marriage etc. About 1685 A. D. I sec. 104. 
-
-List of works on Dharmaśāstra 
-
-1143 
-
-सरोजकलिका by भास्वत्कविरत्न. Con- नारायणभट्ट कागलकर. Wrote 
-
-tains dissertations on topics of under Tanjote king, Sarabha, धर्म such as श्राद्ध, आशौच, शुद्धि, son of Tulaja. गोत्र for purposes of marriage. 
-
-सर्वप्रायश्चित्तलक्षण. Mitra regards it as ancient, as 
-
-सर्वव्रतोद्यापन by अनन्तदेव. it names no work (N. vol. VI. 
-
-सर्वव्रतोद्यापनप्रयोग. p. 39). 
-
-सर्वशान्ति. सरोजसुन्दर or स्मृतिसार by कृष्णभट्ट. ! सर्वशान्तिप्रयोग-quotes हेमाद्रि ( Bik. 
-
-Ulwar Cat. extract No. 370. ___Cat. p. 459 ). Peterson seems to be wrong in 
-
-सर्वशास्त्रार्थनिर्णय by कमलाकर. Vide saying that सरोजसुन्दर is the 
-
-BBRAS, Cat. p. 238 No. 744 author (Ulwar Cat, No. 1537). 
-
-(Ms. dated sake 1637) and Bik. सर्पबलि. 
-
-Cat. p. 459. सर्वतीर्थयात्राविधि by कमलाकर. 
-
-सर्वसंस्कारसंग्रह m. in नि. सि. सर्वदेवताप्रतिष्ठासारसंग्रह. 
-
-सर्वसारसंग्रह by भट्टोजि. Between सर्वदेवप्रतिष्ठाकर्मः 
-
-___1600-1650. सर्वदेवप्रतिष्ठाप्रयोग by माधवाचार्य. N. 
-
-सर्वस्मृतिसंग्रह by सर्वक्रतुवाजपेययाजिन्. ( new series) vol. III p. 219. 
-
-सर्वाप्रयणकालनिर्णय सर्वदेवप्रतिष्ठाविधि by a son of राम 
-
-सर्वाद्भुतशान्तिः चन्द्रदीक्षित. 
-
-सर्वारिष्टशान्ति. सर्वदेवमूर्तिप्रतिष्ठाविधिः 
-
-| सर्वोपयुक्कारिका- Ano. ; in 14 verses सर्वधर्मप्रकाश by शङ्करभट्ट, son of | 
-
-on श्राद्ध. नारायणभट्ट. Vide धर्मप्रकाश 
-
-C. Ano. ( by one familiar with सर्वधर्मप्रकाशिका of वल्लभ in 426 | 
-
-Marathi as he translates Verses on रामभक्ति in various | 
-
-कोद्रव as पाकड, यावनाल as months and fafes and connect जोंधळा, राजमाप as अलसंदा). ed festivals and rites such as Ms. in Bhadkamkar collec मदनोत्सव on चैत्रद्वादशी, क्षीराब्धि- tion. The colyphon at end शयनोत्सव on आषाढशुक्लद्वादशी, says that कारिकाs follow मुद्राधारणविधि, चातुर्मास्यव्रतविधि 
-
-भट्टोजि's work. The first verse (D. C. Is. 331 of 1857-91). 
-
-on तिलतर्पणनिषिद्धदिन is भौमेर्के सर्वपुराणसार by शङ्करानन्द 
-
-'भृगुजे मघागृहनिशासप्तम्यनना 
-
-हया नन्दाजन्मदिनेषु संधियुगुले सर्वपुराणार्थसंग्रह by वेङ्कटरायः 
-
-नो तर्पणं स्यात्तिलैः । नोद्वाह सर्वप्रायश्चित्तप्रयोग by अनन्तदेव. 
-
-व्रतचौलवृद्धिषु समाधिकमासं सर्वप्रायश्चित्तप्रयोग by बालशास्त्रिन् or | क्रमानो दुष्येत्तु मृतौ महालय. 
-
-बालसरि, son of शेषभट्ट, son of I गयापुण्याहतीर्थादिषु ॥'. 
-
-. 
-
-1144 
-
-
-
-सहगमनविधि or सतीविधान ascribed | सागरधर्मामृत. 
-
-to गोविन्दराज ( I. O. Cat. p. 578 | सागरसंहिता m. by हेमाद्रि II. p. 852. No. 774). In 66 verses. साग्निक विधि rules for funeral cere. 
-
-monies of agpihotrins. सहगमनश्राद्ध 
-
-सांख्यायनगृह्यसूत्र: vide शाखायनगृह्य सहचारविधि on ceremonies per- | मन. 
-
-formed when a wife burnt her 
-
-सांख्यायनगृह्यसंग्रह by वासुदेव. Vide self on her husband's pyre. 
-
-| शाङ्खायन० (pr. in Ben. S.Series). सहचारविधि or सहगमनविधि- D. C. साधनचन्द्रिका by केशवेन्द्रस्वामी on 
-
-Ms. No. 183 of 1884-86 is ____observalices of धैष्णवs. dated संवत् 1686. 
-
-साधनीद्वादशी (Burnell's Tanj. Cat. सहस्रचण्डविधान by कमलाकर. 
-
-p. 110 b.). सहस्त्रचण्डीविधि (Ulwar Cat. 1528, | साधारणप्रायश्चित्तसंग्रह. 
-
-extract 365 ). 
-
-साधारणवतप्रतिष्ठाप्रयोग- according सहस्त्रचण्डीशतचण्डीविधान 
-
-___ to यजुर्वेद (N. II. p. 632 ). 
-
-सहस्त्रचण्डयादिविधि by कमलाकर, son 
-
-सापिण्डीमारी by नागेश. of रामकृष्ण. Refers to निर्णयसिन्धु सापिण्डयकल्पलता or-लतिका by सदा as his own work ( N. IX. शिवदेव alias पदेव, son of 
-
-pp 203-204) About 1612 A.D. श्रीपति, son of नीलकण्ठ, in 24 सहस्रभोजनविधि. Stein's Cat. p. 107. 
-
-verses (or 25 in some mss.), on 
-
-सापिण्डय for marriage. He was सहस्रभोजनसूत्रव्याख्या by भास्करराय, 
-
-a resident of देवालयपुर (D.C. son of गम्भीररायदीक्षित (Ulwar 
-
-Ms. 613 of 1882-83 copied in Cat. extract 28 ). The criginal 
-
-śake 1760). The author was sātras are बौधायन's. 
-
-pupil of विठ्ठल. The work takes सहानुमरणविवेक by अनन्तराम विद्या 
-
-सपिण्ड to mean connected by वागीश, son of रामचरण न्याया 
-
-particles of the same body. लङ्कार. Mentions शुद्धितत्व, विवाद: 
-
-Vide N. ( new series ) vol. III भङ्गार्णव. About 1800 A. D. ( N. 
-
-Freface pp. VIII-IX and p. vol. VII. p. 223). 
-
-222 where the verses are said सहृदय by हरि on आचार. N. vol. to be 36. 
-
-VII. p. 281. 
-
-C. by नारायणदेव, son of रामकृष्ण, सांवत्सरिकश्राद्ध. 
-
-son of सदाशिवदेव (pr. in 
-
-सरस्वतीभवन series, 1927, सांवत्सरिकैकोद्दिष्टश्राद्धप्रयोग accord. 
-
-with text). He was the au _ing to यजुर्वद. N. II. p. 66. 
-
-thor's grandson and pupil of सागर- several works are so called नागेश. Mentions नरहरिसप्तर्षि, viz. अद्भुतसागर, दानसागर, स्मृति- वीरमित्रोदय, सापिण्डयप्रदीप of सागर. 
-
-his teacher नागेश, द्वैतनिर्णय. 
-
-AT 
-
-List of works on Dharmaśāstra 
-
-1145 
-
-सापिण्डयतत्त्वप्रकाश of धरणीधर, son | 
-
-सापिण्डयमीमांसा m. in नि. सि. pro of रेवाधर ( Baroda O. I. 12783). | 
-
-| bably the same as सापिण्डय सापिण्ड्यदीपिका by नागेश, same as दीपिका of श्रीधर 
-
-सापिण्ड्यमञ्जरी or सापिण्ड्यनिर्णय | सापिण्डयविचार by विश्वेश्वर alias सापिण्डयदीपिका or सापिण्डय निर्णय by 
-
-नागाभट्ट । Baroda O. I. 1947 ). श्रीधरभट्ट ( Bhadkamkar collec 
-
-सापिण्डयविषय by गोपीनाथभट्ट. tion ). Mentions प्रवरनिर्णय. 
-
-सापिण्ड्यसार by धरणीधर, son of 
-
-रेवाधर ( Baroda O. I. 12784 ). Probably it is this that is mentioned in नि. सि. He was 
-
-सापिण्डयश्राविधिः the grand-uncle uf 2017 and 
-
-सामगवतप्रतिष्ठा by रघुनन्दन. so flourisbed about 1520-1580 | 
-
-सामगवृषोत्सर्गतत्व by रघु०. Vide A. D.; D. C. Ms. 208 of A 
-
-वृषोत्सर्गतत्त्व above. 1882-83 is called अनुकल्प 
-
-सामगाह्निक- vide छन्दोगाह्निक. सापिण्डयनिर्णय and discusses cer 
-
-सामगृह्यपरिशिष्ट- vide गोभिलगृह्य tain views of श्रीधर about तृतीय 
-
-___ परिशिष्ट. कन्यापरिणयन. D. C. Ms. 129 of | सामगृह्यवृत्ति by रुद्रस्कन्द. 1895-98 is dated संवत् 1647 | सामवेदीयदशकर्म of भवदेव. vide ( 1590 A. D.). 
-
-कर्मानुष्ठानपद्धति of भवदेव Sec. 74. सापिण्डयनिर्णय by नागोजिभट्ट. 
-
-सामवेदीयसंस्कारपद्धति by वीरेश्वर, Names नन्दपण्डित, अनन्तदेव, 
-
-son of देवादित्य. N. ( new series) गोविन्दार्णव, वासुदेवभट्ट ( Ms. in | 
-
-vol III. p 221. About 1300 
-
-A.]). Bhadkamkar collection dated sake 1725 ). 
-
-सामान्यक्रमवृत्ति. 
-
-सापिण्डयनिर्णय of भट्टोजि. D. C. Ms. 
-
-सामान्यप्रघट्टक ( part of त्रिस्थलीसेतु). No. 622 of 1883-84 begins 'अथ | 
-
-सामान्यहोमपद्धति. सप्तमीपञ्चमीनिर्णयः'. 
-
-सायणीय- m. in नि.सि. This is 
-
-probably the प्रायश्चित्तसुधानिधि सापिण्ड्यनिर्णय by रामकृष्ण (C. P. 
-
-Cat. Nos. 6378-80 ). 
-
-of सायण. 
-
-सापिण्ड्यनिर्णय by रामभट्ट ( Baroda 
-
-सायंप्रातरौपामन. 
-
-0. I. 5032). 
-
-सारग्राहकर्मविपाक. Composed by the 
-
-eldest son of 41857a, son of सापिण्डयनिर्णय by श्रीधरभट्ट ; m. by 
-
-पद्मनाभ, नागरब्राह्मण and com. व्य. म. The same as सापिण्ड्य 
-
-piled in संवत् 1440 (1384 A,D.) दीपिका ( D. C. Ms. No. 128 of 
-
-at नन्दपद्रनगर under the 1895-98). 
-
-patronage of कर्णसिंह,minister of सापिण्डयप्रदीप of नागेश; m. in com. kiny दुर्गसिंह, son of मङ्गलभूपाल. on सापिण्डयकल्पलतिका. Pr. by Author says he bases his work 
-
-Mr. J. R. Gharpure. 
-
-on कर्मविपाक of मौलगिनृप or H.D.-144 
-
-1146 
-
-
-
-Hitlesiiro, from which he astrological work, such as that borrowed matter of the extent ___of कल्याणवर्मन, which is men. of 1200 श्लोकs, while his own tined even by Alberuoi and work extends to 4900 श्लोक so was earlier than 1000 A. D. units, the author borrowed 276 | सारावलि- vide स्मतिसारावलि. श्लोक units from विज्ञानेश and 500 
-
-सारासार विवेक from बौधायन. There are 55 प्रकरणs and 45 अधिकारs. Vide 
-
-सारोद्धार ( com. on त्रिंशच्छोकीविवरण) I. O Cat. p. 572 No. 1767, ____ by शम्भुभट्ट. Baroda O.I.No. £453 and 9082 
-
-सिंहस्थपद्धति- ( on merit by bath. and Bhandarkar's Report for 
-
-ing in गोदावरी when Jupiter is 1882-83 p. 63 There are 
-
-in Leo). N. vol. X. p. 348. quotations from gratare and 
-
-Based on हेमाद्रि. आचारदीपक. The Baroda Ms. 9082 was copied in संवत् 1496 | सिद्धान्तचिन्तामणि m. by रघु० in (1439 A. D. ). 
-
-मलमासतत्त्व. सारमञ्जरी- com on. छन्दोगपरिशिष्ट | सिद्धान्तज्योत्स्ना by धनिराम ( C. P. 
-
-प्रकाश by श्रीनाथ. 
-
-___Cat. 6521 ). सारसंग्रह vide under चाणक्यनीति. 
-
-सिद्धान्ततत्त्वविवेक by कमलाकर Vide सारसंग्रह m. in मद. पा., तिथितत्त्व, | तत्त्वविवेक 
-
-दीक्षातत्त्व, मलमासतत्त्व of रघु०, सिद्धान्ततिथिनिर्णय by शिवनन्दन (C. सं. को. 
-
-_P. Cat. 6522). सारसंग्रह. Ano. on auspicious and | inauspicious days for religious 
-
-| सिद्धान्तनिर्णय by रघुराम. rites in 881 verses. Ms. ( I. O.. 
-
-e. Ma To.. सिद्धान्तपीयूष by चित्रपति written Cat. p. 535 No. 1679) dated | for Colebrocke. संवत् 1774 ( 1717-18 A. D). | 
-
-| सिद्धान्तबिन्दु on श्राद्ध ( Burnell's सारसंग्रह by मुरारिभट्ट. 
-
-___ Tanj. Cat. 143 b.). सारसंग्रह by राघवभट्ट m in मलमास | सिद्धान्तमञ्जरी vide दत्तासिद्धान्तमञ्जरी. 
-
-तत्त्व of रघु०. 
-
-सिद्धान्तशिरोमणि by मोहनमिश्र. सारसंग्रहदीपिका by रामप्रसाददेवशर्मन्. । 
-
-सिदान्तशेखर m. in the प्रयोगरत्न of सारसंग्रह by शम्भुदास. 
-
-नारायणभट्ट and मठप्रतिष्ठातत्त्व of सारसमुच्चय m. in हेमाद्रिदानखण्ड and रघु०. Probably a तान्त्रिक work. 
-
-शूलपाणि' दुगोत्सवविवेक. 
-
-Earlier than 1500 A. D. सारसागर 
-
-सिद्धान्तशेखर by विश्वनाथ, son of सारार्थचतुष्टय by वरदाचार्यः 
-
-भास्कर. सारावलि m. by अपरार्क p. 872 ( on | सिद्धान्तसन्दर्भ m. by रघुनन्दन in 
-
-त्रिपुष्करयोग). Probably an | मलमासतत्त्व. 
-
-4 
-
-List of works on Dharmaśāstra 
-
-1147 
-
-सिद्धान्तसुधोद्धार m. in स्मृतिसारोद्धार | सुधीविलोचन m. in श्राद्धप्रयोग of गो 
-
-of विश्वम्भर. 
-
-पालसूरि and in प्रयोगचन्द्रिका, in सीमन्तकर्मपद्धति. 
-
-वैष्णवप्रक्रिया. 
-
-सुधीविलोचन by वैदिकसार्वभौम सीमन्तनिर्णय. 
-
-सुधीविलोचनसार. सुकृत्यप्रकाश by ज्वालानाथमिश्र on | 
-
-सुन्दरराजीय m. in प्रयोगचन्द्रिका. माचार, भाशौच, श्राद्ध and असत्परि ग्रह ( acceptance of gifts from | सुप्रभा- com. by अनन्त, son of सिद्धे improper persons ). N. vol. II. श्वर, on the कुण्डमार्तण्ड of गोविन्दः 
-
-p. 136. 
-
-composed in 1692 A. D. सुगतिसोपान by गणेश्वरमन्त्रिन् , son of | सुबोधिनी प्रयोगपद्धति- pr. in Kasi 
-
-देवादित्य. He was uncle of चण्डे- S. Series (कृष्णयजुर्वेदीया and श्वर. Vide p. 773 abore. 
-
-सामवेदीया). Author styles himself महाराजा धिराज and says he was assisted 
-
-सुबोधिनी (होमपद्धति) by अनन्तभट्ट by देवादित्यसांधिविग्रहिक ( his/ 
-
-on the pacification of the 79458. father ); m. by रघु० in शुद्धितत्त्व सुबोधिनी (com. on त्रिंशच्छोकी) by and by रुद्रधर. About 1st half of 
-
-अनन्त, son of कमलाकर. 1610 14th century. 
-
-1660 A. D. सुज्ञानदुर्गोदय by विश्वेश्वर alias गागा- | 
-
-भट्ट, son of दिनकरभट्ट, on 16 संस्कारs. Composed about 1675 | सुबोधिनी by रत्नपाणिशर्मन, son of A. D. (Bik. Cat. p. 475). __ सभीवेश्वर. Compiled under 
-
-orders of रुद्रसिंह of मिथिला. A सुदर्शनकालप्रभा by रामेश्वरशास्त्री. 
-
-स्मृति digest on ten संस्कार, सुदर्शनभाष्य- com. of सुदर्शनाचार्य on श्राद्ध, daily religious duties. (N. 
-
-आपस्तम्बगृह्यसूत्र; m. by भट्टोजि in चतुर्विशतिमतव्याख्यान, नि. सि. Earlier than 1550 A. D. 
-
-सबोधिनी com. on the मिताक्षरा by 
-
-विश्वेश्वरभट्ट. Vide sec. 94. Text C. भण्डबिला by ब्रह्मविद्यातीर्थ ; on व्यवहार and translation pr. 
-
-m. in नि. सि. 
-
-by Mr. J. R. Gharpure. सुदर्शनमीमांसाविवेक ( Baroda 0. I. 
-
-सुबोधिनी (प्रयोगपद्धति) by शिवराम. 4085 ). Justifies तप्तचक्रादिपञ्चा 
-
-son of विश्राम, for students of युधधारण by वैष्णवs; Ms. copied 
-
-सामवेद. Mentions his own कृत्य in संवत् 1834. 
-
-चिन्तामणि. About 1640 A. D. सुधीचन्द्रिका. 
-
-सुमन्तुधर्मसूत्र- Vide sec. 29 and सुधीमयूख. 
-
-Tri. Cat, of Madras Govt. Mss. 
-
-___VI. p. 47 ). 
-
-1148 
-
-
-
-for 1919-22 pp. 5160-62 for a | सेतुयात्राविधि. 
-
-prose सुमन्तुधर्मसूत्र. 
-
-सोदकुम्भश्राद्ध. सुमन्तुस्मृति m. by मिताक्षरा, अपरार्क 
-
-सोमनाथीय by सोमनाथभट्ट, son of सूतकदीपिका- vide under त्रिंशच्छाकी. 
-
-सूरभट्ट and younger brother of सूतकनिर्णय ( also called अष्टकाशौ. 
-
-वेङ्कटाद्रियज्वन्, of the मित्तल चभाष्य on the margin). The 
-
-family. first verse is नाम्नःप्राग्दन्तजातरुप सोमवारव्रतोद्यापन. 
-
-नयनविधेराप्लवोहस्त्रिरात्रं &c.'; Ms. in Stein's Cat. (p. 319) is सोमवारामावास्यव्रतकालनिर्णय. dated संवत 1466 (1409-10 | सोमशेखर (निबन्ध) m. in मलमास. 
-
-A. D.). 
-
-तत्त्व of रघु०. सरस्वतीविलास P. सुतकनिर्णय of भट्टोजि, son of लक्ष्मी 
-
-___422 ( Mysore ed.) quotes सोम 
-
-शेखर on दायभाग. धर (in Bhadkankar collection). | Mentions माधव, हरदत्त, त्रिंश- | सौभाग्यकल्पद्रुम by अच्युत ( Baroda च्छोकी. 
-
-O. I. 1903.). 
-
-सूतकसार 
-
-स्त्रीधननिर्णय. सूतकसिद्धान्त by देवयाज्ञिक. स्त्रीधनप्रकरण. सूरसंक्रान्तिदीपिका by जयनारायणतर्क 
-
-स्त्रीधर्मकमलाकर of कमलाकरभट्ट, m. पञ्चानन. 
-
-_in विवादताण्डव. सूरिसंतोष m. by रघु० in एकादशीतत्त्व 
-
-and तिथितत्व 
-
-स्त्रीधर्मपद्धति by त्र्यम्बक. सूर्यनमस्काराविधिः 
-
-स्त्रीपुनरुद्वाहखण्डनमालिका by राघवेन्द्र. सूर्यप्रकाश by हरिसामन्तराज, son of स्त्रीशूद्रदिनचर्या 
-
-कृष्ण. A comprehensive digest 
-
-स्थालीपाक ( आपस्तम्बीय). on धर्मशास्त्र. Bik, Cat. p. 475 | 
-
-" (आश्वलायनीय). contains only व्रतखण्ड. सूर्यादिपज्ञायतनप्रतिष्ठापद्धति by दिवा. | स्थालीपाकनिर्णयः 
-
-कर, son of भारद्वाज महादेव, on | स्थालीपाकप्रयोग (आश्वलायनीय ). the installation of सूर्य, शिव, 
-
-स्थालीपाकप्रयोग by कमलाकर. N. गणेश, दुर्गा and विष्णु in a temple. | 
-
-( new series) vol. III. p. 236. सूर्यायदानपद्धति by महादेवभट्ट 
-
-| स्थालीपाकप्रयोग by नारायण. सूर्यार्थ्यदानपद्धति by माधव, son of 
-
-रामेश्वर. About 1520-1580. 
-
-स्थावरप्राणप्रतिष्ठा. सूर्याणवकर्मविपाक (Ulwar Cat. ex- | स्थिरलिङ्गप्रतिष्ठा. 
-
-tract No. 203) pr. in Bombay. | स्नानविधिसूत्रपरिशिष्ट or स्नानसूत्र or सर्योदयनिबन्ध m. in धर्मप्रवृत्ति of त्रिकण्डिकासूत्र by कात्यायन. 
-
-नारायण 
-
-C. स्नानसूत्रपद्धति by कर्क. 
-
-List of works on Dharmaśāstra 
-
-1149 
-
-C. स्नानसूत्रदीपिका by गोपीनाथ, | स्मार्तप्रयोग by बोपण्णभट्ट 
-
-son of महादेव 
-
-, (हिरण्यकेशीय). CC. by कृष्णनाथ. 
-
-___C. वैजयन्ती . C. by छाग याज्ञिकचक्रचूडाचिन्ता- स्मार्तप्रयोगकारिका. 
-
-मणि. 
-
-स्मार्तप्रायश्चित्त by तिप्पाभट्ट, son of c. by त्रिमल्लतनय (केशव?). रामभट्ट, son of बालम्भट्ट, sur C. by महादेवद्विवेदिन् (N. vol. . named गह्वरः 
-
-VII. p. 304). 
-
-स्मार्तप्रायाश्चत्तप्रयोग or प्रायश्चित्तोद्धार C. स्नानपद्धति or स्नानविधिपद्धति | 
-
-by दिवाकर, Son of महादेव, son of 
-
-रामेश्वर, surnamed काल (काळे in by याज्ञिकदेव. 
-
-Marathi). He was daughter's C. स्नानसूत्रपद्धति by हरिजीवन | son of रामकृष्ण, father of कमला 
-
-मिश्र. Says that he follows 
-
-करभट्ट. About 1660-1680 A. D. in this work his भाष्य. (BBRAS. Cat. p. 238 No. 745). C. स्नानव्याख्या and पद्धति by | 
-
-| स्मार्तप्रायश्चित्तविनिर्णय by वेङ्कटाचार्य आग्निहोत्रिहरिहर 
-
-स्मार्तप्रायश्चित्तोद्धार- same as स्मात स्मार्तकर्मानुष्ठानक्रमविवरण by चण्डूकः | 
-
-प्रायश्चित्तप्रयोग and प्रायश्चित्तोद्धार (Baroda O. I. 296 dated संवत् 
-
-of दिवाकर. 1593). 
-
-स्मार्तमार्तण्डप्रयोग by मार्तण्डसोम स्मातकुतूहल. 
-
-याजिन् स्मार्तगङ्गाधरी by गङ्गाधर (C. P. Cat. | स्मार्तव्यवस्थार्णव of रघुनाथसार्वभौम, 
-
-No. 6710). 
-
-son of मथुरेश, composed at the 
-
-order of king रत्नेश्वरराय, in sake स्मातदिनमणि (Mysore Govt. Mss. 
-
-1583 (i. e. 1661-62 A. D.). __Cat. p. 75). 
-
-Divided into sections on fare, स्मार्तदीपिका Ano.; follows आश्वला- संक्रान्ति, आशौच, द्रव्यशुद्धि, अधि यन. Burnell's Tanj. Cat 139a कारि, प्रायश्चित्त, उद्वाह, दाय. (D. 
-
-C. Ms. No. 305 of 1886-92 on स्मार्तपदार्थसंग्रह from प्रयोगपद्धति of 
-
-तिथि, N. II. p. 76 on उद्वाह, N. गङ्गाधर. 
-
-I. p. 284 on दाय). स्मार्तपदार्थानुक्रमणिका by द्वैपायनाचार्य स्मार्तसमञ्चय of नन्दपण्डित, son of 
-
-(Baroda O. I. 6986). 
-
-देवशर्मन्. Vide sec. 110 p. 924 स्मार्तपरिभाषा m. in सन्ध्याभाष्य of Refers to दत्तकमीमांसा as his. 
-
-कृष्णपण्डित. 
-
-स्मातस्फुटपद्धति of नारायणदीक्षित. स्मार्तप्रदीपिका (Mysore Govt. Mss. 
-
-(C. P. Cat. No. 6717). 
-
-Cat. p. 75). 
-
-। स्मार्ताण्डबिला. 
-
-1150 
-
-
-
-स्मार्ताधानपद्धति by गोविन्द | स्मृतिकोमुदी by रामकृष्णभट्टाचार्य (N. स्मार्ताधानप्रयोग of पीताम्बर, son of | VT. p. 140). 
-
-काश्यपाचार्य. (BBR AS. Cat. 
-
-स्मृतिकौमुदीटीका by कृष्णनाथ. p. 239 No. 747). Mentions मदनरत्न. Vide under धर्माणव. स्मृतिकौस्तुभ of अनन्तदेव. Sec. 114. 
-
-Between 1500 and 1675 A. D. ___Divided into 12 दीधितिs. स्मार्तानुष्ठानपद्धति of अनन्तभट्ट, son of स्मृतिकौस्तुभ by वेङ्कटादि. Vide 
-
-विश्वनाथ. Also styled अनन्तभट्टी. 
-
-| आशौचनिर्णय. A manual of intiatory rites 
-
-स्मृतिग्रन्थराज by सार्वभौम with the prayers required therein. Vide under प्रयोगरत्न. 
-
-स्मृतिचन्द्र m. in संस्कारमयूख of According to आश्वलायन. (I. O. ___ सिद्धेश्वर. Cat. p. 515). 
-
-स्मृतिचन्द्र by भवदेवन्यायालङ्कार, son स्मार्तोपासनपद्धति from the प्रयोगरत्न. of हरिहर, composed in 1720-22 स्मार्तोल्लास by शिवप्रसाद, son of | A. D and divided into 16 कला 
-
-श्रीनिवास of पुष्करपुर (Baroda 0. on तिथि, व्रत, संस्कार, मालिक, I. 11958). Ms. dated शके 1610. श्राद्ध, आचार, प्रतिष्ठा, वृषोत्सर्ग, Mentions मदनरत्न, टोडरानन्द. परीक्षा, प्रायश्चित्त, व्यवहार, गृहयज्ञ, Between 1580-1680 A, ID. On वेश्मभू, मलिम्लुच, दान, शुद्धि. माधानकाल, मुहूर्नविचार, duties of Mentions श्रीदत्त and संवत्सरप्रदीप. अग्निहोत्रि, on difficult points | Imitates रघु०. about रजस्वला &c. 
-
-स्मृतिचन्द्रिका hy आपदेवमीमांसक. स्मृतिकदम्ब by कञ्चं येल्लभट्ट Hultzsch 
-
-On काल, मलमास, व्रत, आह्निक, ___R. I. No. 657. 
-
-विवाह and other संस्कारs, स्त्रीधर्म, स्मृतिकल्पद्रुम by शुक्ल ईश्वरनाथ. आश्रमधर्म, अन्त्येष्टि, आशौच, श्राद्ध. 
-
-C. by author. Stein's Cat. p. / (N. VI. p. 301). 
-
-__108. 
-
-स्मृतिचन्द्रिका by कुबेर (m. in स्मृतिकोशदीपिका by तिम्मणभट्ट __ दत्तकचन्द्रिका). 
-
-(Baroda O. I. 2008 on आह्निक | 
-
-स्मृतिचन्द्रिका by केशवादित्यभट्ट (Bik. only) 
-
-Cat. 465). This entry is wrong, स्मृतिकौमुदी by देवनाथठक्कुर. A as the intruductory verses and 
-
-digest on चातुर्वर्ण्य, आचार, मालिक, 
-
-the verses at the end show that संस्कार, श्राद्ध, आशौच, दायभाग, 
-
-this is the same as देवण्णभट्ट' व्रत, दान, उत्सर्ग. (N. vol. V. work. p. 237). 
-
-स्मृतिचन्द्रिका by देवण्णभट्ट, son of स्मृतिकौमुदी y मदनपाल. Sec. 94 | केशवादित्यभट्ट. Sec. 86 (pr. by pp. 798–99. Also styled | Mr. Gharpure and in Mysore शूद्रधर्मोत्पलद्योतिनी. 
-
-G. O. L. Series ).List of works on Dharmaśāstra 
-
-1151 
-
-स्मृतिचन्द्रिका by वामदेवभट्टाचार्य (N. स्मृतितत्त्वसार (B. O. Cat, vol. I 
-
-IX. p. 137). 
-
-No. 440). स्मृतिचन्द्रिका by वैदिकसार्वभौम. 
-
-स्मृतितत्त्वामृत of वर्धमान, son of भवेश स्मृतिचन्द्रिका by शुकदेवमिश्र, son of विठ्ठल मिश्र. On तिथिनिर्णय, शुद्धि, 
-
-and गौरी. N. vol. VI. p. 12 
-
-contains शान्तिकपौष्टिकाञ्जलि. आशोच, व्यवहार. (I. O. Cat. p. 471). 
-
-Dealing with rites for propitiat ,, Ano. (N. vol. VIII. p. 153). 
-
-iug adverse deities and potents स्मृतिचन्द्रोदय by गणेशभट्ट (C_P. 
-
-and for consecrating works of 
-
-public utility. N. vol. VI. p. 57 Cat. Nos. 6723-24). स्मृतिचरण by भवानीशङ्कर. 
-
-is styled तत्त्वामृतसारोद्धार (व्यव 
-
-हाराञ्जलि) and in the conclud. स्मृतिचिन्तामणि by गङ्गादित्य or 
-
-ing verses वर्धमान says that he गङ्गाधर, son of गोपीनाथमिश्र. 
-
-Mentions कल्पतरु, 
-
-composed four कुसुमs on भाचार, कामधेनु, 
-
-श्राद्ध, शुट्टि and व्यवहार. So स्मृति हेमाद्रि, मदनरत्न, and is men 
-
-तत्त्वविवेक and 'तत्त्वामृ० are the tioned in नृसिंहप्रसाद (I. O. Cat. 
-
-same. It was completed under p. 444 on व्यवहार, which is 2nd 
-
-राम, soll of भैरवेन्द्र परिच्छेद). A bout 1450-1500. स्मृतिचिन्तामणिसंग्रह (Tri. Cat. of | स्मृतिदर्पण m. in श्राद्धकल्पलता 
-
-Madras Govt. Mss. for 1919-22 | नृसिंहप्रसाद, शूद्रकमलाकर, विधान p. 4978 on आहिक). 
-
-पारिजात. Earlier than 1500 A.D. स्मृतिचूडामणि or- मणिसंग्रह of वरदा. स्मृतिदर्पण (Baroda o. 1. No. 10916 
-
-चार्य, of the वात्स्यगोत्र. 
-
-is an incomplete Ms. in 598 स्मृतितत्त्व of रघुननन्दन. It is the verses). Names 36 स्मृतिकार, 
-
-name of bis digest containing | कलिवयं (such as पुनर्विवाह). 
-
-28 तत्त्वs. Sec. 107. स्मृतितत्त्वप्रकाश by श्रीदेव. 
-
-स्मृतिदीपिका m. in सं. कौः, संस्कार 
-
-मयूख of सिद्धेश्वर. Earlier than स्मृतितत्त्वविनिर्णय or व्यवस्थार्णव by | 
-
-1650 A. D. रामभद्र, son of श्रीनाथ आचार्य चूडामणि. Mentions शूलपाणि स्मृतिदीपिका of वामदेव उपाध्याय on 1500-1550 A.D. N.(new series) times for sure and other rites 
-
-(N. vol. V. p. 157 and vol. VII. 
-
-p. 125). स्मृतितत्त्वविवेक by वर्धमानमहामहो 
-
-पाध्याय, son of भवेश and गौरी | 
-
-स्मृतिदुर्गभञ्जन by चन्द्रशेखर - vide and judge at the court of भैर 
-
-दुर्गभञ्जन. वेन्द्र of मिथिला. About 1450 1500 A. D. On भाचार, श्राद्ध, | स्मृतिनवनीत of वृषभाद्रिनाथ, son of शुद्धि and व्यवहार. N. rol. V. | नारसिंह, pupil of रामचन्द्र and p. 184. 
-
-श्रीनिवास 
-
-I. p. 413. 
-
-1152 
-
-
-
-1 
-
-| 
-
-।। 
-
-स्मृतिनिबन्ध by नृसिंहभट्ट. An exten- स्मृतिभास्कर by नीलकण्ठ (N. vol. V. sive digest on धर्मलक्षण, वर्णाश्रम- ___p. 108). From the introduc धर्म, विवाहादिसंस्कार, सापिण्ड्य, tory verses it appears to be the आह्निक, भाशौच, श्राद्ध, दायभाग, | शान्तिमयूख of नीलकण्ठ. प्रायश्चित्त (N. vol. VIII p. 174). स्मृतिपरिभाषा by वर्धमानमहामहो 
-
-| स्मृतिभूषण by कोनेरिभट्ट, son of 
-
-केशव. A digest of rituals for पाध्याय; contains general rules 
-
-माध्व followers. regarding ceremonial observan ces and proper seasons for them | स्मृतिमञ्जरी by कालीचरणन्यायालङ्कार. and on स्नान, ग्रहण, तिथिद्वेध, दान | स्मतिमनरी by गोविन्दराज. Sec. 77 &c. Names स्मृतिमहार्णव, हरिहर 
-
-___pp. 659-61. मिश्र; m. in एकादशीतत्व of रघु०.. 
-
-About 1450-1500 A. D. स्मृतिमञ्जरी by रत्नधरमिश्र. स्मृतिप्रकाश by भास्करभट्ट or हरि- स्मृतिमञ्जरी Ano. (D. C. Ms. No. 
-
-भास्करभट्ट, son of आयाजिभट्ट (or ___184 of 1884-86 on श्राद्ध). 
-
-197151-), son of a The (Bik. Cat. p. 467 deals with portion on 
-
-स्मृतिमाषा m. in कालादर्श, स्मृतिसार श्राद्ध). 
-
-of हरिनाथ, छन्दोगाहिक of श्रीदत्त. स्मृतिप्रकाश by वासुदेव रथ (one 
-
-Earlier than 1300 A. D. facsicule pr. in B. I. Series) on | स्मृतिमहाराज by कृष्णराज (Baroda कालनिरूपण, संवत्सर, संक्रान्ति | O. I. No. 8023). It mentions Mentions माधवाचार्य and विद्या- मदनरत्न. Begins with गोदान and करवाजपेयी. Later than 1500 A. I ends with मूर्तिप्रतिष्ठापन. It is 
-
-styled शूदपद्धति also. स्मृतिप्रदीप m. by हेमाद्रि (काल स्मृतिमहार्णव or स्मृतिमहार्णवप्रकाश 
-
-p. 355). 
-
-__m. by हेमाद्रिः Vide महार्णव and स्मृतिप्रदीप by चन्द्रशेखरमहोमहोपा 
-
-pp. 654-55 above. ध्याय on तिथि, आशौच, श्राद्ध. स्मृतिमहोदधि by परमानन्दघन, pupil स्मृतिप्रदीपिका- vide धर्मदीपिका of | of चिदानन्दब्रह्मेन्द्रसरस्वती 
-
-चन्द्रशेखरवाचस्पति. 
-
-स्मृतिमीमांसा by जैमिनि, m. by अप स्मृतिप्रदीपिका m. lhy भट्टोजि in h.s! 
-
-रार्क p. 206. A स्मृतिमीमांसा 1 m. com. on चतुर्विंशतिमत. 
-
-in कालविवेक of जीमूतवाहन, in स्मृतिप्रामाण्यवाद. 
-
-the स्मृतिरत्नाकर of वेदाचार्य, by स्मृतिभास्कर m. by स्मृतिचा, प्रयोग- | 
-
-हेमाद्रि in व्रतखण्ड and परिशेषखण्ड पारिजात of नृसिंह, धर्मप्रवृत्ति, । and by नृसिंहप्रसाद. नृसिंहप्रसाद. Madras Govt. Mss. | स्मृतिमुक्ताफल of वैद्यनाथदीक्षित. A Cat. vol. V. p. 2043 No. 2766- | 
-
-very popular para digest in 87 contains portions on यतिधर्म । southern India. Printed several and शुदधर्म from a स्मृतिभास्कर. | times in Southern India at 
-
-List of works on Dharmaśāstra 
-
-1153 
-
-Chidambaram, 1908, Kunbha. | स्मृतिरत्नाकर by विष्णुभट्ट, son of konam &c. On वर्णाश्रमधर्म, केशव, residing at विदुरपुर; on माह्निक, आशौच, श्राद्ध, द्रव्यशुद्धि, आह्निक, 16 संस्कार, संक्रान्ति, ग्रहण, प्रायश्चित्त, व्यवहार, काल. Alout | दान, तिथिनिर्णय, प्रायश्चित्त, आशौच, 1600 A. D. 
-
-नित्यनैमित्तिक (vide D. C. Ms. No. 
-
-52 of 1866-68). Bik. Cat. p. स्मृतिमुक्ताफलसंग्रह by चिदम्बरेश्वरः । 
-
-467 gives शिवभट्ट as father's स्मृतिमुक्तावली of कृष्णाचार्य, son of name. 
-
-कुमारनृसिंहभट्ट, son of विजयीन्द्र 
-
-स्मृतिरत्नाकर by वेङ्कटनाथ, son of श्री. भट्ट; in 10 प्रकरण. 
-
-रङ्गनाथाचार्थ, son of सरस्वतीवल्लभ, स्मृतिरत्न m. by कालादर्श, सं. कौ., 
-
-surnamed वैदिकसार्वभौम आधिक संस्कारमयूख of सिद्धेश्वरः 
-
-portion pr. Lakṣmiverkateśvara स्मृतिरस्न of रघुनाथभट्ट. Ms. (N. Press at Kalyan. Mentions __VII. p. 253) is dated शके 1699. विज्ञानेश्वर, स्मृतिच०, अखण्डादर्श, स्मृतिरत्नकोश. 
-
-माधवीय, स्मृतिसारसमुच्चय and 
-
-इतिहाससमुच्चय. Also called सदा स्मृतिरत्नमहोदधि by श्रीपरमानन्दघन, 
-
-चारसंग्रह pupil of चिदानन्दब्रह्मेन्द्रसरस्वती. Contains षट्कर्मविचार, भाचार, 
-
-स्मृतिरत्नाकर by वेदाचार्य in 15 chap माशौच &c. Quotes माधवीय. 
-
-ters on नित्यनैमित्तिकाचार, गर्भाधा (Vide Madras Govt. Msg. Cat. 
-
-नादिसंस्कार, तिथिनिरूपण, श्राद्ध, 
-
-शान्ति, तीर्थयात्रा, भक्ष्याभक्ष्य, व्रत, pp. 2055-57 Nos. 2302-4). 
-
-प्रायश्चित्त, आशौच, अन्त्येष्टिकर्म ; स्मृतिरत्नविवेक m. hy चण्डेश्वर and | written under patronage of __by रुद्रधर in his श्राद्धविवेक. कामरूप king. Quotes भवदेव (On 
-
-Earlier than 1300 A. D. 
-
-प्रायश्चित्त), जीमूतवाहन, स्मृतिमी. स्मृतिरत्नाकर by तात्यार्य (Barcdao. 
-
-मांसा, स्मृतिसमुच्चय, आचारसागर, I. 9919 ). 
-
-दानसागर, महार्णव. It is this that 
-
-is probably m. in यजुर्वेदिश्रादः स्मृतिरत्नाकर by ताम्रपर्णाचार्यः 
-
-तत्त्व of रघु०. Between 1250-1500 स्मृतिरत्नाकर by भट्टोजि ( on प्रायश्चित्त । A. D. I. O. Cat. pp. 473-474, and आशौच ). Vide Mad. Govt. N. VII. 45 (the colophon says Mss. Cat. vol. V. p. :059 No. ___ that the प्रायश्चित्त section is the 2806. 
-
-18th परिच्छेद). स्मृतिरत्नाकर by विठ्ठल, son of केशव, स्मृतिरत्नावलि m. in नृसिंहप्रसाद, 
-
-a resident of विदुरपुर. Burnell's | 
-
-___ अन्त्यष्टिपद्धति of नारायणभट्ट, नि. Tanj. Cat. p. 135a. From the | सि., शुद्धिचन्द्रिका of नन्दपण्डित. place of residence and contents, | स्मृतिरत्नावलि by मधुसूदनदीक्षित, it appears that this is the same | son of महेश्वर. ( Bik. Cat. p. 467 as the preceding. 
-
-contains stie portion only ). H. D..--145 
-
-TT T T 
-
-1154 
-
-
-
-स्मृतिरत्नावलि by रामनाथविद्यावाच (1) by छलारि नारायण, m. by 
-
-स्पति. Composed in 1657 A.D.; his son in स्मृत्यर्थसागर. vide under दायभागविवेक. Stein's | 
-
-(2) by दयाराम Cat. p. 109. 
-
-(3) by नीलकण्ठ (D. C. Ms. No. स्मृतिरत्नावलि by वेचुराम- N. VII. | 
-
-373 of 1875-76). p. 228. 
-
-(4) by रामभदन्यायालङ्कारभट्टाचार्य स्मृतिरहस्य. 
-
-___of नवद्वीप on अनध्याय, तिथि, स्मृतिविवरण by आनन्दतीर्थ Same as प्रायश्चित्त, शुद्धि, उद्वाह. सा. 
-
-सदाचारस्मृतिः 
-
-पिण्ड्य. Also called व्यवस्था 
-
-विवेचन or व्यवस्थासंक्षेप. स्मृतिविवेक by मेधातिथि Sec. 64 | 
-
-(5) attributed to सायण and pp. 582-83. 
-
-माधव. स्मृतिविवेक by शूलपाणि. Sec. 98. | 
-
-| स्मृतिसंग्रह by वाचस्पति. स्मृतिव्यवस्था by चिन्तामणि न्याय | 
-
-वागीशभट्टाचार्य of गौडदेश; Ms. of | स्मृतिसंग्रह by विद्यारण्य ( Hultzsch 
-
-____R. I. No. 591.). शुद्ध्यादिव्यवस्था ( N. IV. 130) | dated sake 1610 ( 1688-89 | 
-
-स्मृतिसंग्रह alias विद्यारण्यसंग्रह (in A. D.). 
-
-__margin )- a large work in 7000 स्मृतिव्यवस्थार्णव ( B. O. Mss. Cat. | 
-
-ग्रन्थ ( Baroda O. I. 11248). vol. I. No. 433 ). 
-
-| स्मृतिसंग्रह by वेङ्कटेश. Is it same as स्मृतिशेखर or कस्तूरिस्मृति by कस्तूरि, 
-
-___ स्मृतिरत्नाकर of वेङ्कटनाथ ! son of नागय, on भाचार. (Bur nell's Tanj. Cat. 1368 . 
-
-स्मृतिसंग्रह by हरदत्तः स्मृतिसंस्कारकौस्तुभ. Prohably the | स्मृतिसंग्रह- same as परमेश्वरीदासाब्धि. same as संस्कारकोस्तुभ of अनन्त- स्मृतिसंग्रह on व्यवहार (Cal. S. 
-
-___College Ms. Cat. vol. II. स्मृतिसंक्षेप by नरोत्तम on माशौच, | ___p. 137 No. 141). 
-
-सहमरण, षोडशदान. N. ( new 
-
-स्मृतिसंग्रहरत्नव्याख्यान- a com. on series) vol. II p. 225 and vol. 
-
-चतुर्विशतिमत by रामचन्द्र, son of I. p. 414. 
-
-नारायणभट्ट ( I. O. Cat. p. 475). स्मृतिसंक्षेपसार by रमाकान्तचक्रवर्तिन् । 
-
-Srems to be the same as भट्टोजि's son of मधुसूदनतर्कवागीश. On | 
-
-com. on चतुर्विंशतिमत. उदाह, उद्वाहकाल, गोत्र, प्रवर, | स्मृतिसंग्रहसार of महेशपश्चानन, found सपिण्ड, समानोदक &c. N. ( new 
-
-ed on रघुनन्दन' स्मृतितत्व. N. series) vol. II. p. 225. 
-
-VI. p. 235. स्मृतिसंग्रह or संग्रह. Vide sec. 55 
-
-स्मृतिसमुचय (Ms. in Bombay Uni स्मृतिसंग्रह. 
-
-___versity Library) in about 500 
-
-देव. 
-
-List of works on Dharmaśāstra 
-
-1155 
-
-verses on माह्निक, शौच, म्नान, स्मृतिसार by केशवशर्मन् in 1359 एकादशी &c. Quotes गरुडपुराण. verses on rites to be performed 
-
-on several तिथिs. स्मृतिसमुच्चय ( from आचारतिलक or 
-
-लध्वाचारतिलक) in 321 verses स्मृतिसार by नारायण on दन्तधावन, स्नान, संध्या, daily | स्मृतिसार by महेश On impurity duties श्राद्ध, एकादशी c. ( Ba- ____due to birth and death. N. vol. roda o. I. No. 7331). 
-
-III. p. 48. स्मृतिसमुच्चय of विश्वेश्वर. It is said | स्मृतिसार by मुकुन्दलाल. 
-
-in J BORS for 1927 parts III. स्मृतिसार by याज्ञिकदेव in 311 IV p. VII that it is this work verses culled from varers on that is m. in कालविवेक of दायभाग, श्राद्ध, यज्ञोपवीत, मलमास, जीमूत०, हेमाद्रि ( कालनिर्णय) III. आचार, स्नान, शुद्धि, सापिण्डय, 2. 686, दिव्यतत्त्व of र७०, तिथि- आशौच D. C. Ms. No. 181 of विवेक of शूलपाणि. 
-
-1895-1902 is dated संवत् 1652 
-
-( 1595-96 A. D.). स्मृतिसरोजकलिका by विष्णुशर्मन् in 8 sections (खण्ड ) on स्नान, पूजा, 
-
-स्मृतिसार by यादवेन्द्रभट्ट on the 
-
-performance of festivals and तिथि, श्राद्ध, सूतक, दान, यज्ञ, प्रायश्चित्त Enumerates 28 स्मृति 
-
-rites on certain fafors such as 
-
-कृष्णजन्माष्टमी रामनवमी, and on कारs by name ( vide Tri. Cat. Madras Govt. Mss. for 1919-22 
-
-दुर्गोत्सव, श्राद्ध, आशौच, प्रायश्चित्त; p. 4360 No. 2997). 
-
-m. in धर्मप्रवृत्ति. [ 0. Cat. p. 
-
-477; N. vol. IV. p. 213 ( Ms. स्मृतिसरोजसुन्दर or स्मृतिसार. Vide dated sake 1619). 
-
-सरोजन्दर 
-
-स्मृतिसार by श्रीकृष्ण स्मृतिसर्वस्व by नारायण of कृष्णनगर | स्मृतिसार by हरिनाथ. Sec. 92. The in the Hughli l'istrict (I. O. work is also called स्मृतिसार Cat. p. 448). Earlier than 
-
-| समुञ्चय. 1675 A. D. He speaks of a 
-
-स्मृतिसार or आशौचनिर्णय a com.op क्षयमास as yet to occur in sake 
-
-___ a work by वेङ्कटेश 1603 ( 1681 A. D.). 
-
-स्मृतिसारटीका by कृष्णनाथ. स्मृतिसागर by कुल्लकभट्ट; ride स्मृतिमारप्रदीप m. by रघुनन्दन 
-
-गोविन्दार्णव; m. in शूलपाणि's | स्मृतिसारव्यवस्था by विद्यारत्नस्मात दुर्गोत्सवविवेक, शुद्धि कौमुदी of __भट्टाचार्य 
-
-गोविन्दानन्द, प्रायश्चित्ततत्त्व of रघु० . | स्मृतिसारसंग्रह by कृष्णभट्ट, स्मृतिसागरसार m. in प्रायश्चित्तसंग्रह ! स्मृतिसारसंग्रह by चन्द्रशेखरवाचस्पति. of नारायणभट्ट and in मलमासतत्व | स्मृतिसारसंग्रह by पुरुषोत्तमानन्द, 
-
-| pupil of परमहंसपूर्णानन्द on 
-
-of रघु. 
-
-1156 
-
-
-
-माहिक, शौच, स्नान, त्रिपुण्ड, क्रम- | स्मृतिसिद्धान्तसंग्रह by इन्द्रदत्त उपा संन्यास, श्राद्ध, विरजाहोम, स्त्री-| ध्यायः संन्यासविधि, क्षौरपर्वनिर्णय, यति. स्मृतिसिद्धान्तसुधा by रामचन्द्रबुध, . पार्वणश्राद. 
-
-com. on अघपञ्चषष्टिः स्मृतिसारसंग्रह by महेश. Vide स्मृतिसिन्धु by नन्दपण्डित. Vide sec. 
-
-न्यवस्थासारसंग्रह 
-
-110. स्मृतिसारसंग्रह by याज्ञिकदेव. Seems 
-
-to be same as स्मृतिसार with ! स्मृातार 
-
-| स्मृतिसिन्धु by श्रीनिवास, pupil of additions. Here the verses are 
-
-कृष्ण ( Burnell's Tanj. Cat. p. 459. Vide D. C. Ms. 344 of 
-
-135a ) for वैष्णवs. 1886-92. 
-
-स्मृतिसुधाकर of वर्षकृत्य निबन्ध by स्मृतिसारसंग्रह by वाचस्पति ; men | ओझाशङ्कर, son of सुधाकर. N. 
-
-tions रघु० ( I. O. Cat. p. 450 ). 
-
-vol IV p. 271. स्मृतिसारसंग्रह by विद्यानन्दनाथ. स्मृनिसुधाकर of शङ्करमिश्र. About स्मृतिसारसंग्रह by विश्वनाथ. Men- ___ 1600 A. D. ( JBORS for 1927 
-
-tions विज्ञानेश्वर, कल्पतरु, विद्याकर- parts III.IV p. X ). पदति. ( Tri. Cat. of Madrasi 
-
-स्मृत्यधिकरण. Govt. Mss. for 1919-22 p. 4264 
-
-स्मृत्यर्थनिर्णय (on व्यवहार ). No. 2944 ). स्मृतिसारसंग्रह by वेटेश. 
-
-स्मृत्यर्थरत्नाकर alias स्मृत्यर्थसार. स्मृतिसारसंग्रह by वैद्यनाथ. स्मृत्यर्थसागर by छल्लारि नृसिंहाचार्ग, स्मृतिसारसमुच्चय on domestic obser- _son of नारायण. Based on मध्या Vances; gives extracts from 28 चार्य'सदाचारस्मृति; divided into sages on शौच, ब्रह्मचारि, आचार, 
-
-four तरङ्गs on भाहिक, काल, दान, द्रव्यशुद्धि, प्रायश्चित्त. Vide 
-
-माशौच and शुद्धि ( Vide Bhand. 1.0. Cat. p. 477_No. 1556 and 
-
-arkar's Report for 1883-84 R. Ulwar Cat. extract 372. where 
-
-52 and BBRAS Cat. p. 239 it is said to have been com 
-
-No. 748 and Aufrecht's Ouf. piled by धर्मशास्त्ररुचि (a lover of 
-
-Cat. 265 b.). He says मध्वाचार्य धर्मशास). 
-
-was born in take 1120. स्मृतिसारसमुच्चय by हरिनाथ. Same 
-
-Mentions कमलाकर and स्मृति _as स्मृतिसार alore 
-
-कौस्तुभ, Iater than 1675 A. D. स्मृतिसारसर्वस्व by वेङ्कटेश. Same | स्मृत्यर्थसार 1 नीलकण्ठाचार्य (C. P. ___as माशौच निर्णय b वेङ्कटेश. ___Cat. No 67 33.) स्मृतिसारसागर m. in तिथितत्व of | स्मृत्यर्थमार by मकन्दलाल. 
-
-रघु०. स्मृतिसारावलि m. in नि. सि. 
-
-स्मृत्यर्थसार by श्रीधर. Sec. 82. स्मृतिसारोद्धार vide चक्रनारायणीय- स्मृत्यर्थसारसमुच्चय ( Baroda o. I. 
-
-faupy. Pr. at Benares. | 1088) summaries of the 
-
-. 
-
-W 
-
-List of works on Dharmaśāstra 
-
-1157 
-
-views of 28 sages are given on | हरितालिकामत निर्णय. सोच, भाचमन, दन्तधावन, &c.; Ms. | हरितोषण by वेदान्तवागीशभट्टाचार्य. dated संवत् 1743. The 28 sages | हरिदिनतिलक (on एकादशी fast) by are मनु, याज्ञवल्क्य, विश्वामित्र, __चण्डमारुतस्वामिन् . 
-
-भत्रि, कात्यायन, वसिष्ठ, व्यास, उश-| हरिदिनतिलक by वेदान्तदेशिक. नस, बौधायन, दक्ष, शङ्ख, लिखित, | | C. (vide Cat. of Madras Govt. भापस्तम्ब, अगस्त्य, हारीत, विष्णु, 
-
-Mss vol. VI. p. 2368 No. गोभिल, सुमन्तु, मनुस्वायंभुव, गुरु, 
-
-3153). According to it the मारद, पराशर, गर्ग, गौतम, यम, author वेदान्तदेशिक flourished सातातप, अभिरस, संवते. 
-
-after स्मृतिच०, हेमाद्रि, काला स्मृस्यालोक (B. O. Mss. Cat. rol. I. दर्श and कालनिर्णय and held 
-
-No. 449). 
-
-that the views of all these सत्वरहस्य or स्वत्वविचार by अनन्तरामः | 
-
-were मशाल and मासुर. On ownership of property. 
-
-हरिपूजापद्धति by भानन्दतीर्थ भार्गव. 
-
-Stein's Cat. p. 109. सत्ववाद (Tri. Cat. Madras Govt. | हरिभक्ति m. by रघु० in नाहिकतत्त्व 
-
-Mss. for 1919-22 p. 4782). 
-
-___and एकादशीतत्त्व. स्वत्वविचार N. (new series) vol. II. | हरिभक्तिकल्पलता by विष्णुपुरी m. in 
-
-p. 226. 
-
-___ कृष्णभक्तिकल्पवल्ली. स्वत्वव्यवस्थार्णवसेतुबन्ध by रघुनाथ- | 
-
-हरिभक्तिकल्पलतिका by कृष्णसरस्वती सार्वभौम, in 6 परिच्छेदs on विभाग 
-
-| divided into 14 स्तबका. निरूपण, स्त्रीधन, स्त्रीधनाधिकारि | 
-
-हरिभक्तिदीपिका by गणेश. N. vol. V. भपुत्रधनाधिकार. 
-
-____pp. 189-190. 
-
-| हरिभक्तिभास्कर (सद्वैष्णवसारसर्वस्व) स्वर्गवाद on स्वर्गवाद, प्रतिष्ठावाद, | 
-
-| सपिण्डीकरणवाद. N. (new series) | 
-
-by भुवनेश्वर, son of भीमानन्द, in 
-
-12 प्रकाशs; composed in संवत् vol. II, p. 229. 
-
-1884. स्वर्गसाधन by रघुनन्दनभट्टाचार्य. Ap• | हरिभक्तिरसायन. 
-
-pears to be different from the | हरिभक्तिरसायनसिन्ध. great रघुनन्दन. 0 श्राद्धाधिकारि, | हरिभक्तिरहस्य. अन्त्येष्टिपद्धति, आशौचनिर्णय, वृषो- | हरिभनिलता. त्सर्ग, षोडशश्राद्ध, पार्वणश्राद्ध &c. | 
-
-हरिभक्तिविलास by गोपालभह, pupil N. (new series) vol. I. p. 417. 
-
-of प्रबोधनानन्द. He was ordered स्वस्तिवाचनपद्धति by जीवराम. to write this work by चैतन्य हनुमत्प्रतिष्ठा. 
-
-vide under भगवद्भक्तिविलास. इयशीर्षपञ्चरात्र a वैष्णव work con- | 
-
-Composed about 1562 A. D.; cerned with the consecration | m. by रघुनन्दन. of images of gods and building | हरिभक्तिविलास (लघु) by रूपगोस्वा. temples; m. by रघु०, नि. सि. and | मिन् . हलायुध in पुराणसर्वस्व. | C. by सनातनगोस्वामिन्, m. in 
-
-1158 
-
-
-
-a curaatferuit. Vide N. vol. 
-
-हिरण्यकामधेनुदान VI. pp. 190-93 for an 
-
-हिरण्यकेशाहिक account of his family. 
-
-हिरण्यकेशि ( सत्याषाढ ) गृह्यसूत्र in हरिभक्तिसार. 
-
-two प्रश्नs, each divided into हरिभक्तिसुधोदय. C. m. by सदाचार- पटलs (ed. by Dr. Kirste at 
-
-चन्द्रिका 
-
-Vienna, 1889 and tr. in SBE 
-
-vol. 30). Vide p. 17 above. हरिवंशविलास by नन्दपण्डित, divided 
-
-C. प्रयोगवैजयन्ती by महादेव. into कौतुकs on आह्निक, कालनिर्णय, दान, संस्कार Vide sec. 110. 
-
-C. by मातृदत्त (extracts in 
-
-___Kriste's edition). हरिवासरनिर्णय by व्यङ्कटेश (Baroda 
-
-O. I. 8793). 
-
-हिरण्यकेशिधर्मसूत्र. Vide sec. 8 p. 
-
-91 above. हरिहरदीक्षितीय. 
-
-C. उज्ज्वला by महादेव (p. 93 हरिहरपद्धति by हरिहर. The same as | 
-
-above). is appended to his भाष्य on 
-
-हिरण्यश्राद्ध पारस्करगृह्यसूत्र; m. by हेमाद्रि | 
-
-हेमाद्रिकालनिर्णयसंक्षेप or - संग्रह by श्राद्धसौख्य of टोडरानन्द, उद्वाहतत्त्व 
-
-भट्टोजिदीक्षित, son of लक्ष्मीधर. and other तत्वs of रघु०. Vide 
-
-___ Vide Baroda O. I. No. 5480. see. 85. 
-
-हेमाद्रिनिबन्ध-the same as चतुर्वर्ग हरिहरभाष्य on पारस्करगृह्य by हरिहर चिन्तामणि. हलायुधनिबन्ध m. in ाचारादर्श of | हेमाद्रिप्रयोग by विद्याधर. 
-
-श्रीदत्त. 
-
-हेमाद्रिसंक्षेप by भजीभट्ट (Stein's Cat. हलायुधीय m. in आचारमयूख. Pro- | p. 110). 
-
-bably the ब्राह्मणसर्वस्व of हलायुधः | हेमाद्रिसर्वप्रायश्चित्त by बालसूरि. हारलता by अनिरुद्ध. Sec 83. होमकालातिक्रमप्रायश्चित्त. 
-
-C. संदर्भसूतिका by अच्युतचक्र 
-
-होमनिर्णय by भानुभट्ट, son of नील वर्तिन् , son of हरिदास्ताचार्य. 
-
-कण्ठ, son of शङ्कर. About 1620 
-
-1680 A. D. C. विवरण m. by नन्दपण्डित in 
-
-। होमपद्धति by माधव (part of his श्राद्धकल्पलता. 
-
-मखतिलक). Mentions रूपनारायण, हारीतस्मृति. Vide sec. 11. 
-
-Ulwar Cat, extract 375. C. m. by हेमाद्रि; vide p. 129 | होमपद्धति by लम्बोदर. ___above. 
-
-होनप्रायश्चित्त. C. by तकनलाल. 
-
-होमलोपप्रायश्चित्तप्रयोग. हारीतस्मृति (Baroda O. I. 8185) in ! 
-
-होमविधान by बालकृष्ण (ऋग्वेदीय). four अध्यायs on नित्य and नेमि- । 
-
-___Paroda O. I. No. 8354. त्तिक rites of वर्णs and आश्रमs, । eight नारीधर्मs, नृपधर्म, जीवपरमे- होमसिद्धान्त ano. श्वरस्वरूप, मोक्षसाधन, ऊर्ध्वपुण्ड, | होरिलस्मृति m. in स्मृतिसारोद्धार of There is व्यवहाराध्याय also. 
-
-विश्वम्भर. 
+होरिलस्मृति m. in स्मृतिसारोद्धार of विश्वम्भर.

@@ -1385,7 +1385,7 @@ _Putraprāptivrata_-(a) on 6th of [[Vai, śu.|Vai. śu.]] worship of Skanda afte
 
 _Putravrata_-(1) same as 'Putra-kāmavrata' (1); HV II. 171–72; (2) after bath in the morning twilight, touch a _pippala_ tree and donate a vessel full of sesame; destroys all sins; [[HV II.883|HV II. 883]] (from Bhav. U.)
 
-_[[Putrasaptami|Putrasaptamī]]_-~(1) on 7th of M. śu. and [[kr̥.;|kṛ.;]] worship of the Sun on both [[saptamis|saptamīs]] after fast on 6th and homa; one year; secures son, wealth, fame and health; KKV 166-67, [[HVI.|HV I.]] 738–739 (both quote Ādityapurāṇa), VR 255; (2) on Bh. śu. and [[kr.|kṛ.]] 7; _saṅkalpa_ on 6th and fast on 7th; worship of Viṣṇu with mantras containing name of Viṣṇu; on 8th worship of Viṣṇu with Gopāla mantras and homa with sesame; one year; at year's end donate a pair of dark cows; secures son and freedom from all sins; KKV 224-225, HV I. 724–25 (same verses from Var. 63, 1-7).
+_[[Putrasaptami|Putrasaptamī]]_-(1) on 7th of M. śu. and [[kr̥.;|kṛ.;]] worship of the Sun on both [[saptamis|saptamīs]] after fast on 6th and homa; one year; secures son, wealth, fame and health; KKV 166-67, [[HVI.|HV I.]] 738–739 (both quote Ādityapurāṇa), VR 255; (2) on Bh. śu. and [[kr.|kṛ.]] 7; _saṅkalpa_ on 6th and fast on 7th; worship of Viṣṇu with mantras containing name of Viṣṇu; on 8th worship of Viṣṇu with Gopāla mantras and homa with sesame; one year; at year's end donate a pair of dark cows; secures son and freedom from all sins; KKV 224-225, HV I. 724–25 (same verses from Var. 63, 1-7).
 
 _[[Putriyavrata|Putrīyavrata]]_- on 8th tithi of [[kr̥.|kṛ.]] after Bh. Full Moon; fast on that day; bathe image of Govinda in one _prastha_ of ghee, then with honey, curds, milk one after another and bathe it with water mixed with _sarvauṣadhi_ ; then apply to the image unguents such as sandalwood paste, saffron, camphor; worship image with flowers and other _upacāras_; homa with Puruṣasūkta ([[R̥g.|Ṛg.]] X. 90); then one who wants a son or a daughter should make a meal of fruits denoted by words in the masculine or feminine gender respectively; for one year; performer secures all objects; HV I. 844-45 (from [[Vi.Dh.|Vi. Dh.]] II. 55. 1-12).
 
@@ -1413,7 +1413,7 @@ _[[Puṣycasnāna|Puṣyasnāna]]_—is a śānti described in [[HV II,|HV II.]]
 
 _[[Puṣyadvādaśi|Puṣyadvādaśī]]_-When Puṣya nakṣatra occurs on Dvādaśī, the moon and Jupiter are in conjunction and the Sun is in the sign of Kumbha ([[ Aquarius|Aquarius]]), one should offer worship to Brahmā, Hari and Śiva or Vāsudeva alone. RM verses 1375–1377, folio 80b ([[ vide|vide]] ABORI vol. 36 p. 333 for these).
 
-_[[Puṣyābhiseka|Puṣyābhiṣeka]]_-~is one of the twelve yātrās of Puruṣottama performed every year when in P. the Full Moon tithi has Puṣya nakṣatra; GK 189.
+_[[Puṣyābhiseka|Puṣyābhiṣeka]]_-is one of the twelve yātrās of Puruṣottama performed every year when in P. the Full Moon tithi has Puṣya nakṣatra; GK 189.
 
 _[[Puṣyārkadvādaśi|Puṣyārkadvādaśī]]_-when the Sun is in Puṣya-nakṣatra on a [[dvādaśi,|dvādaśī,]] worship Janārdana; this removes all sins; even if Puṣya-nakṣatra is not there on 12th tithi, the procedure should be followed; fast on 11th and donate a vessel full [[P347]]of ghee on 12th; KKV 351, [[HV ), 1176–77,|HV I. 1176-77,]] S. Pr folio 22a ( all quote [[Devipurāṇa|Devīpurāṇa]]).
 
