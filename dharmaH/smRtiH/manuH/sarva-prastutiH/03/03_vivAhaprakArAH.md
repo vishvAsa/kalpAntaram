@@ -1,7 +1,7 @@
 +++
 title = "०३ विवाहप्रकाराः"
 +++
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.२० चतुर्णाम् अपि</summary>
 
 चतुर्णाम् अपि वर्णानं  
 प्रेत्य चेह हिताहितान् ।  
@@ -79,6 +79,16 @@ purchased with money, or being oppressed with hunger or thirst, gives herself up
 elders, in accordance with the custom of her country, becomes forcibly united with another man, she is called the fourth *Svairiṇī*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चतुर्णामपि वर्णानां ब्राह्मणादीनां परलोके इहलोके च कांश्चिद्धिता कांश्चिदहितानिमानभिधास्यमानानष्टौसंक्षेपेण भार्याप्राप्तिहेतून्विवाहानू शृणुत ॥२०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चतुर्णाम्** इति । **चतुर्णाम् अपि **ब्राह्मणादि**वर्णानां** परलोकेहलोकयोः कांश्चिद् **धिताहितान् इमान् **वक्ष्यमाणान् भार्याप्राप्तिहेतून् **विवाहान् **सङ्क्षेपेण शृणुत ॥ ३.२० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 020	Now listen to (the) brief (description of) the following eight marriage-rites used by the four castes (varna) which partly secure benefits and partly produce evil both in this life and after death.
@@ -91,7 +101,7 @@ elders, in accordance with the custom of her country, becomes forcibly united wi
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.२१ ब्राह्मो दैवस्</summary>
 
 ब्राह्मो दैवस् तथैवार्षः  
 प्राजापत्यस् तथासुरः ।  
@@ -109,6 +119,7 @@ elders, in accordance with the custom of her country, becomes forcibly united wi
 <details><summary>मेधातिथिः</summary>
 
 संख्ययाष्टव् इत्य् उद्दिष्टानां[^७३] नामधेयानीमानि । अधमग्रहणं पैशाचस्य निन्दार्थम् ॥ ३.२१ ॥
+
 
 [^७३]:
      M G 1st ed.: vyuddiṣṭānāṃ
@@ -134,6 +145,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 846) as enumerating th
 See Comparative notes for [Verse 3.20].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ते एते नामतो निर्दिश्यन्ते । ब्राह्मराक्षसादिसंज्ञा चेयं शास्त्रसंव्यवहारार्था स्तुतिनिन्दाप्रदर्शनार्था च । ब्रह्मण इवायं ब्राह्मः । रक्षस इवायं राक्षसः । न तु ब्रह्मादिदेवतात्वं विवाहानां सम्भवति । पैशाचस्याधमत्वाभिधानं निन्दाऽतिशयार्यम् ॥२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्म** इति । स्तुतिनिन्दाप्रतिपादनो ऽयम् एषां ब्राह्मादिव्यपदेशः । न त्व् असाधारण्येन ब्रह्मादिदेवतासम्बन्ध एषां विद्यते ॥ ३.२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 021	(They are) the rite of Brahman (Brahma), that of the gods (Daiva), that of the Rishis (Arsha), that of Pragapati (Pragapatya), that of the Asuras (Asura), that of the Gandharvas (Gandharva), that of the Rhashasas (Rakshasa), and that of the Pisakas (Paisaka).
@@ -146,7 +167,7 @@ See Comparative notes for [Verse 3.20].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.२२ यो यस्य</summary>
 
 यो यस्य धर्म्यो वर्णस्य  
 गुण-दोषौ च यस्य यौ ।  
@@ -164,6 +185,7 @@ Which (of these) is lawful for which caste, what are the good and bad points of 
 <details><summary>मेधातिथिः</summary>
 
 धर्माद् अनपेतो **धर्म्यः** शास्त्रविहित इत्य् अर्थः । **यस्य** च विवाहस्य **यौ गुणदोषौ** इष्टानिष्टफलहेतुत्वाद् गुणदोषौ । **प्रसवे** ऽपत्यजन्मनि । **गुणा** गुणाह् **अगुणाः** दोषाः[^७४] । वोडुर् एव स्वर्गनरकादिलक्षणौ गुणदोषौ, तत्प्रयोजनम् अर्थात् स्वर्गादिकम् । या ईदृशा एव भवन्ति । गतार्थम् अपि भूयः प्रतिपत्तये कथयन्ति ॥ ३.२२ ॥
+
 
 [^७४]:
      M G 1st ed. : aguṇo doṣaḥ
@@ -195,6 +217,16 @@ This verse is quoted in *Madanapārijāta* (p. 155) as introducing the enumerati
 keeping with the form of marriage.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+धर्मादनपेतो धर्म्यः, यो विवाहो धर्म्यो, यस्य विवाहस्य यौ गुणदोषौ इष्टानिष्टफले तत्त-द्विवाहोत्पन्नापत्येषु ये गुणागुणास्तत्सर्वं युष्माकं प्रकर्षणाभिधास्यामि । वक्ष्यमाणानुकीर्तनमिदं शिष्याणां सुखग्रहणार्थम् ॥२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ये यस्य धर्मा** इति । **ये **विवाहा **यस्य वर्णस्य **धर्मानपेता **यस्य च **विवाहस्य **यौ गुणदोषौ **वोढुर् इष्टानिष्टफलदातारौ प्रतिनियतविवाहोत्पन्नायत्तेषु च ये **गुणदोषौ तत् सर्वं** युष्माकं **प्रवक्ष्यामि **॥ ३.२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 022	Which is lawful for each caste (varna) and which are the virtues or faults of each (rite), all this I will declare to you, as well as their good and evil results with respect to the offspring.
@@ -207,7 +239,7 @@ keeping with the form of marriage.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.२३ षड् आनुपूर्व्या</summary>
 
 षड् आनुपूर्व्या विप्रस्य  
 क्षत्रस्य चतुरो ऽवरान् ।  
@@ -226,8 +258,10 @@ One should know the first six in the order stated as lawful for the Brāhmaṇa,
 
 षड् विवाहा ब्राह्मणस्यानुपूर्व्या । आनुपूर्वी क्रमः[^७५], नामोद्देशः क्रेमेण[^७६] । **क्षत्रस्य** । क्षत्रियवचनः क्षत्रशब्दः । तस्य **चतुरो ऽवरान्** उपरितनान् आसुरगान्धर्वराक्षसपैशाचान् **विद्यात्** । वैश्यशूद्रयोस् तान् एवाराक्षसान् राक्षसं वर्जयित्वा ॥ ३.२३ ॥
 
+
 [^७६]:
      M G: kramam
+
 
 [^७५]:
      M G 1st ed.: kramaṃ
@@ -306,6 +340,16 @@ any means, than she may be married even by theft, while she may be alone.’
 as authorised by the Father; the remaining (which are unrighteous) may be authorised by the Father and the Mother (who accept the fees).’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणस्य ब्राह्मादिक्रमेण षट् । क्षत्रियस्यावरानुपरितनानासुरादींश्चतुरः ।विट्शूद्रयोस्तु तानेव राक्षसवर्जितानासुरगान्धर्वपैशाचान्धर्म्यान्धर्मादनपेताञ्जनीयात् ॥२३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**षड् **इति । **षड् **आदितः क्रमावस्थितान् **विप्रस्य क्षत्रियस्य **चोपरितनान् **चतुरः** (चत्वारो), **विट्शूद्रयोः **पुनः **राक्षस**वर्जितान् **तान् एव **धर्माद् अनपेतान् जानीयात् ॥ ३.२३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 023	One may know that the first six according to the order (followed above) are lawful for a Brahmana, the four last for a Kshatriya, and the same four, excepting the Rakshasa rite, for a Vaisya and a Sudra.
@@ -318,7 +362,7 @@ as authorised by the Father; the remaining (which are unrighteous) may be author
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.२४ चतुरो</summary>
 
 चतुरो ब्राह्मणस्याद्यान्  
 प्रशस्तान् कवयो विदुः ।  
@@ -336,6 +380,7 @@ The wise ones have regarded the first four as commended for the Brāhmaṇa, the
 <details><summary>मेधातिथिः</summary>
 
 आसुरगान्धर्वयोर् अयं निषेधो **ब्राह्मणस्य** पुनर् ब्राह्मादिविधानेन । एवं **क्षत्रियस्य राक्षसम्** एवैको न गान्दर्वासुरौ । **आसुर** एव **वैश्यशूद्रयोः** । विहितप्रतिषिद्धानां विकल्पः । ततश् च नित्यवद् विहिताभावे विकल्पितेषु प्रवृत्तिः । यस्य च यो विहितः स तद्विवाहाभावम् अनपेक्ष्य प्रथमत एव यदि विहितप्रतिषिद्धेषु प्रवर्तेत, तत्र पुरुषो दुष्येद् अपत्यं चानभिप्रेतम् उत्पद्येतेति शास्त्रकारेण दर्शितं "प्रसवे च गुणागुणान्" (म्ध् ३.२२) इत्यादिना न तु सपिण्डादिपरिणयनवत्[^७७] विवाहस्वरूपानिवृत्तिः ॥ ३.२४ ॥
+
 
 [^७७]:
      M G 1st ed.: sapiṇḍādipariṇayana
@@ -378,6 +423,16 @@ It is quoted in *Smṛticandrikā* (Saṃskāra, pp. 190 and 231), which adds th
 See Comparative notes for [Verse 3.23].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणस्य प्रथमं पठितान्ब्राह्मादीश्चतुरः । क्षत्रियस्य राक्षसमेकमेव ।वैश्यशूद्रयोरासुरम् । एताच्छ्रेष्टान् ज्ञातारौ जानन्ति । अत एव ब्राह्मणादिष्वासुरादीनां पूर्वविहितानामप्यत्रानुपादानं जघन्यत्वज्ञापनार्थम् ।तेन प्रशस्तविवाहासम्भवे जवन्यस्यापि परिग्रह इति दर्शितम् । एवमुतन्त्रापि विगर्हितपरित्यागो बोद्धव्यः ॥२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चतुर** इति । **ब्राह्मणस्याद्यांश् चतुरः** । **क्षत्रियस्य राक्षसम् एकं वैश्यशूद्रयोश् चासुरं** स्मृत्यर्थोपनिबन्धनकाराः **प्रशस्तान्** मन्यन्ते । अत्र चारुरादीनां ब्राह्मणादिषु पूर्ववाक्यविहितानाम् इह निराकरणात् विकल्पतो नित्यासम्भवे वैकल्पिकेषु प्रवृत्तिः । एवम् उत्तरत्रापि वेदितव्यम् ॥ ३.२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 024	The sages state that the first four are approved (in the case) of a Brahmana, one, the Rakshasa (rite in the case) of a Kshatriya, and the Asura (marriage in that) of a Vaisya and of a Sudra.
@@ -390,7 +445,7 @@ See Comparative notes for [Verse 3.23].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.२५ पञ्चानां तु</summary>
 
 पञ्चानां तु त्रयो धर्म्या  
 द्वाव् अधर्म्यौ स्मृताव् इह ।  
@@ -411,6 +466,7 @@ Of the five, three have been declared to be lawful and two unlawful, in this tre
 
 - **पञ्चानां तु** विवाहानां प्राजापत्यात् प्रभृति त्रयो विवाहा धर्म्याः[^७८] । द्वौ न कर्तव्यौ पैशाचश् चासुरश् च । प्राजापत्यः क्षत्रियादीनाम् अप्राप्तो ऽपि विधीयते, राक्षसो ऽपि वैश्यशूद्रयोः । आसुरपैशाचयोः प्रतिषेधः ।
 
+
 [^७८]:
      M G 1st ed.: tayor vivāhau dharmyau
 
@@ -418,10 +474,12 @@ Of the five, three have been declared to be lawful and two unlawful, in this tre
 
 - येषाम् अयं श्लोको ब्राह्मणविषयो ऽपि तेषां राक्षसो ऽपि ब्राह्मणस्य क्षत्रियवृत्ताव् अवस्थितस्य भवति । विकर्मस्थस्यापि वधभेदनाभ्यां प्रायश्चित्तियतो न तु[^७९] राक्षसो न विवाह इति ते मन्यन्ते । 
 
+
 [^७९]:
      M G omit: na tu
 
 - तत्र[^८०] ब्राह्मस्य श्रैष्ठ्यं फलेनैव दर्शितम् । निषेधाभावेन चेतरेषां त्रयाणां न्यूनता फलापचयवचनाद् एव । आसुरस्य पुनर् वैश्यशूद्रयोर् विधानेन परिसंख्या ब्राह्मणक्षत्रिययोः प्रतीयते । षड् इति च विधानम् । अतो विकल्पः । स च व्यवस्थया । इतरासंभवेन तस्याश्रयणं तुल्यम् । विकल्पो हि व्रीहियवद् अनेकविवाहविधानेन च समुच्च्यासंभवाद् एव सिद्धः । सति वा संभवे क्रियेत चेत् तथापि धर्मापत्ययोर् न्यूनफलो ऽसौ । 
+
 
 [^८०]:
      M G 1st ed.: tad
@@ -490,6 +548,16 @@ called *Patnī*; she is not fit to participate in rites either to gods or to Pit
 conducive to spiritual merit and help also in the water-offerings; that is, those in which no price is paid, and which alone are fit for the Brāhmaṇa; these save both families.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इह पैशाचप्रतिषेधादुपरितनानां पञ्चानां प्राजापत्यादीनां ग्रहणं, तेषु मध्ये प्राजापत्यगा-न्धर्वराक्षसास्त्रयो धर्मादनपेतास्तत्र प्राजापत्यः क्षत्रियादीनामप्राप्तो विधीयते । ब्राह्मणस्य विहितत्वादनुद्यते । गान्धर्वस्य च चतुर्णामेव प्राप्तत्वादनुवादः । राक्षसोऽपि वैश्यशूद्रोयोर्विधीयते । ब्राह्मणस्य क्षत्रियवृत्त्यवस्थितस्याप्यासुरपैशाचौ न कर्तव्यौ । कदाचनेत्यविशेषा च्चतुर्णामेव निषिध्यते । अत्र यं वर्णं प्रति यस्य विवाहस्य विधिनिषेधौ तस्य तं प्रति विकल्पः स च विहितासम्भवे बोद्धव्यः ॥२५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पञ्चानाम्** इति । इह पैशाचनिषेधात् प्राजापत्यादयः पञ्च गृह्यन्ते । **पञ्चानां **प्राजापत्यादीनां मद्यात् **त्रयो **धर्माद् अनपेताः, **द्वौ **त्व् **अधर्म्याव् इह **शास्त्रे स्मृतौ **पैशाचासुरौ** । ताव् आपद्य् अपि न कर्तव्यौ ॥ ३.२५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 025	But in these (Institutes of the sacred law) three of the five (last) are declared to be lawful and two unlawful; the Paisaka and the Asura (rites) must never be used.
@@ -502,7 +570,7 @@ conducive to spiritual merit and help also in the water-offerings; that is, thos
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.२६ पृथक् पृथग्</summary>
 
 पृथक् पृथग् वा मिश्रौ वा  
 विवाहौ पूर्वचोदितौ ।  
@@ -535,8 +603,6 @@ The two forms of marriage mentioned before—i.e., the Gāndharva and the Rāk�
 - ताव् एतौ विवाहौ क्षत्रियसैव भवतः । **धर्म्यौ क्षत्रियस्य तौ पूर्वचोदिताव्** इत्य् अनुवादः । 
 
 - <u>अन्ये</u> त्व् आहुः- यः क्षत्रियो बहुविवाहान् कुरुते स कांचिद् गान्धर्वेन विवाहे परिणयते कांचिद् राक्षसेणेत्य् एष मिश्रपक्षः । अथ वा सर्वा एवान्यतरेणेति **पृथक् पृथक्** । अनेन चैतज् ज्ञायते । क्षत्रियस्यानयोर् एवानियमेन प्रवृत्तिः, प्राजापत्यादीनां तु य एव प्रथमं कृतस् तेनैवान्यापि विवाह्या ॥ ३.२६ ॥
-
-_इदानीं स्वरूपम् एतेषाम् आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -573,6 +639,16 @@ lawful for the Kṣatriya: the two may be performed either separately or jointly
 all,—since it is accompanied by love.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पृथक्पृथगिति प्राप्तत्वादनूद्यते ।मिश्राविति विधीयते । पृथक्पृथग्विमिश्रौ वा पूर्वविहितौ गान्धर्वराक्षसौ क्षत्रस्य धर्म्यौमन्वादिभिः स्मृतौ । यदा स्त्रीपुंसयोरन्योन्यानुरागपूर्वकसंवादेन परिणेता युद्धादिना विजित्य तामुद्वहेत्तदा गान्धर्वराक्षसौ मिश्रौ भवतः ॥२६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पृथग्** इति । **गान्धर्वराक्षसाख्यौ विवाहौ पूर्वोक्तौ तौ पृथक् पृथक् मिश्रौ वा क्षत्रस्याधर्माव्** इति पूर्वं सिद्धम् । **मिश्रौ धर्म्यौ यस्य तौ स्मृतौ **इत्य् अनेनोच्यते । तत्रेतरेतरानुरागपूर्वं यदा कन्या वरेणात्मानं संविदा युद्धादिनापहारयति तदा गान्धर्वराक्षसौ मिश्रौ भवतः ॥ ३.२६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 026	For Kshatriyas those before-mentioned two rites, the Gandharva and the Rakshasa, whether separate or mixed, are permitted by the sacred tradition.
@@ -585,7 +661,15 @@ all,—since it is accompanied by love.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_इदानीं स्वरूपम् एतेषाम् आह ।_
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.२७ आच्छाद्य</summary>
 
 आच्छाद्य चाऽर्चयित्वा च  
 श्रुत-शीलवते स्वयम् ।  
@@ -604,6 +688,7 @@ When one himself invites a man endowed with learning and character and gives to 
 
 **आच्छाद्येति** । आच्छादनविशेषो ऽभिप्रेतः, अन्यस्यौचित्येनैव प्राप्तत्वात् । उत्कृष्टेनाच्छादनेन यथादेशं यथासंभवं यथायोग्येन वाससा परिधाप्य । **अर्हयित्वा** । अनेनालंकरणकटककणिकादिना प्रीतिविशेषसत्कारविशेषैर् अर्चनं कृत्वा । एतेनाच्छादनार्हणेन कन्याया वरस्य चान्यतरसंबन्धे प्रमाणाभावाद् उभयोपयोगः कार्यः । **श्रुतशीलवते** । अन्ये ऽपि स्मृत्यन्तरोक्ता वरगुणा द्रष्टव्याः "युवा धीमाञ् जनप्रियः । यत्नात् परीक्षितः पुंस्त्वे" इति (य्ध् १.५५) । **स्वयं** प्रागयाचितः । स्वपुरुषप्रेषणैर् **आहूय** अन्तिकदेशम् आनाय्य वरम् । यद् **दानं** स **ब्राह्मो धर्मो** विवाहः । अविशेषवचनो ऽपि **धर्म**शब्दः पूर्वापेक्षितत्वात्[^८४] तत्पर एव द्रष्टव्यः । अयाचितलाभो ऽभ्यर्हणापूर्वको ब्राह्मो विवाह इति लक्षणार्थः ।
 
+
 [^८४]:
      M G add: asya
 
@@ -611,8 +696,10 @@ When one himself invites a man endowed with learning and character and gives to 
 
 - <u>यावद्</u> विवाहपर्यन्तं चैतद् दानम् । नाकृते विवाहे दानार्थनिवृत्तिः । स हि तस्याः प्रतिग्रहकालः । न चासति परिग्रहे दानं परिसमाप्यते । न स्वत्वनिवृत्तिमात्रं दानम् । परस्वत्वापत्तिपर्यन्तं हि तत् । तथा च वक्ष्यति "तेषां तु निष्ठा विज्ञेया विद्वद्भिः सप्तमे पदे" इति (म्ध् ८.२२७) । एवं विवाहकाल एव कन्या दातव्या । तथा च गृह्यकारस् तस्मिन्न् एव काले ब्राह्मविवाहे काण्डिकधर्मं दर्शयति ।यत् तु प्राग् विवाहाद् दानं तदुपसंवादनवचनमात्रम्[^८५] । न हि तस्मिन्न् अक्रियमाणे ऽभिप्रेतकाले ऽवश्यं विवाहनिर्वृत्तिः । कश्चित् प्राग्निरूपिते न दद्याद् अपि, इतरो वा कदाचिन् न प्रतिगृह्णीयात् । तस्मात् प्राग्विवाहाद् उपसंवादः कर्तव्यः- तदा त्वयेयं देया मया चेयं वोढव्येति । यथैवान्तःक्रतुः सोपक्रियो[^८६] ऽचोदिततत्सिद्धार्थो ऽर्थाद् बहिष्क्रियते ।
 
+
 [^८६]:
      M G 1st ed.: so 'pakriyo; G 2nd ed.: sapariṣkaryaḥ
+
 
 [^८५]:
      M G 1st ed.: -vācanamātram
@@ -726,6 +813,16 @@ girl adorned with gold, before she has reached puberty.’
 bridegroom, you give the girl, with proper faith and confidence, after having adorned her to the best of your power and endowed her with wealth.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आच्छादनमात्रस्यैवौचित्यप्राप्तत्वात्सविशेषवाससा कन्यावरावाच्छाद्य अलङ्कारादिना च पूजयित्वा विद्याचारवन्तमप्रार्थकवरमानीय तस्मै कन्यादानं ब्राह्मो विवाहो मन्त्रादिभिरुक्तः ॥२७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आच्छाद्य चार्चयैत्वेति **। वासोविशेषैः कन्याम् **आच्छाद्या**लङ्कारादिभिश् **चार्हयित्वा श्रुता**चारवन्तं वरं याच्ञारहितं **स्वयम्** आनीय यत् तस्मै **कन्यादानं** स **ब्राह्मो** विवाहो मन्वादिभिः **स्मृतः** ॥ ३.२७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 027	The gift of a daughter, after decking her (with costly garments) and honouring (her by presents of jewels), to a man learned in the Veda and of good conduct, whom (the father) himself invites, is called the Brahma rite.
@@ -733,7 +830,7 @@ bridegroom, you give the girl, with proper faith and confidence, after having ad
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.२८ यज्ञे तु</summary>
 
 यज्ञे तु वितते सम्यग्  
 ऋत्विजे कर्म कुर्वते ।  
@@ -751,6 +848,7 @@ While a sacrifice is being performed, if one gives away his daughter, after havi
 <details><summary>मेधातिथिः</summary>
 
 **वितते** प्रारब्धतन्त्रे[^८७] ज्योतिष्टोमादौ **यज्ञे** तत्कर्मकारिण **ऋत्विजे** ऽध्वर्यवे **सुताय** दुहितुर् **दानम्** । **अलंकृत्येत्य्** अनुवादः, कन्यादानस्य सर्वस्यैवंरूपत्वात् । "आच्छाद्यालंकृतां विवाहयेत्" इति सामान्यो ऽयं विधिः । 
+
 
 [^८७]:
      M G 1st ed.: prārabdhe tantre
@@ -808,6 +906,16 @@ called *Daiva*.’
 the altar, to the bridegroom after having presented to him a pair (of cow and bull), this is the *Daiva* marriage.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ज्योतिष्टोमादियज्ञे प्रारब्धे यथाविधि ऋत्विजे कर्मकत्रे अलंकृत्य कन्यादानं दैव विवाह मुनयो ब्रुवते ॥२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यज्ञ** इति । ज्योतिष्टोमादियागे प्रारब्धे अर्थवहर्त्विज प्रचरति यद् **अलङ्कृत्य** कन्यादानं क्रियते तं **दैवं** विवाहं मन्वादय आचक्षते ॥ ३.२८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 028	The gift of a daughter who has been decked with ornaments, to a priest who duly officiates at a sacrifice, during the course of its performance, they call the Daiva rite.
@@ -820,7 +928,7 @@ the altar, to the bridegroom after having presented to him a pair (of cow and bu
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.२९ एकं गोमिथुनम्</summary>
 
 एकं गोमिथुनं द्वे वा  
 वराद् आदाय धर्मतः ।  
@@ -887,6 +995,16 @@ away of the girl, along with a pair of cow and bull, to a bridegroom, praisewort
 cow and bull, or of a pair of clothes; but in every case ornaments and dowry should be given.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्त्रीगवी पुङ्गौश्चगोमिथुनं । तदेकं द्वे वा वराद्धर्मतो धर्मार्थ यागादिसिद्धये कन्यायै वा दातुं न तु शुल्कबुद्ध्यागृहीत्वा यद्यथाशास्त्रंकन्यादानं स आर्षो विवाहो विधीयते ॥२९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकम्** इति । गोबलीवर्दम् एकं द्वे वा **वरात् धर्मतः** यागाद्यावशककर्तव्यधर्मनिमित्तं गृहीत्वा यत् कन्याया यथाशास्त्रं **प्रदानं** विधीयते **स आर्षो** विवाह **उच्यते** ॥ ३.२९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 029	When (the father) gives away his daughter according to the rule, after receiving from the bridegroom, for (the fulfilment of) the sacred law, a cow and a bull or two pairs, that is named the Arsha rite.
@@ -894,7 +1012,7 @@ cow and bull, or of a pair of clothes; but in every case ornaments and dowry sho
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.३० सहोभौ चरताम्</summary>
 
 सहोभौ चरतां धर्मम्  
 इति वाचानुभाष्य च ।  
@@ -956,6 +1074,16 @@ the exhortation—*may you both co-operate in the performance of duty*; this pur
 given away on the clearly expressed understanding that the couple is to co-operate in the performance of duty,—this is the Prājāpatya marriage.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सह युवां धर्मं कुरुतमिति सुताप्रदानकाले वचसा पूर्वं नियस्यार्चयित्वा यत्कन्यादान स प्राजापत्यो विवाहः स्मृतः ॥३०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सहेति ।** **सह **युवां **धर्मं **कुरुत इति प्रदानकाले **वाचो**क्त्वा यद् अर्चापूर्वं **कन्यादानं स प्राजापत्यो विधिः स्मृतः **॥ ३.३० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 030	The gift of a daughter (by her father) after he has addressed (the couple) with the text, 'May both of you perform together your duties,' and has shown honour (to the bridegroom), is called in the Smriti the Pragapatya rite.
@@ -963,7 +1091,7 @@ given away on the clearly expressed understanding that the couple is to co-opera
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.३१ ज्ञातिभ्यो</summary>
 
 ज्ञातिभ्यो द्रविणं दत्त्वा  
 कन्यायै चैव शक्तितः ।  
@@ -1034,6 +1162,16 @@ away the girl, selling her for a fee, it is ṭhe Āsura form.’
 by other people, of hypocrisy and deceit,—it is the Āsura form.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कन्याया ज्ञातिभ्यः पित्रादिभ्यः कन्यायै यद्यथाशक्ति धनं दत्त्वा कन्याया आप्रदानमादानं स्वीकारः स्वाच्छन्द्यात्स्वेच्छया न त्वार्ष इव शास्त्रीयधनजातिपरिमाणनियमेन, स आसुरो विवाह उच्यते ॥३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ज्ञातिभ्य** इति । **कन्यायै **कन्या**ज्ञातिभ्यः **यथाशक्ति धनं **दत्वा **यत् **कन्यायाश् चाप्रदानं** आदानं स्वीकारं स्वेच्छातो नार्षवद् धनजातिपरिमाणानियमेन **आसुरो **विवाह **उच्यते **॥ ३.३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 031	When (the bridegroom) receives a maiden, after having given as much wealth as he can afford, to the kinsmen and to the bride herself, according to his own will, that is called the Asura rite.
@@ -1041,7 +1179,7 @@ by other people, of hypocrisy and deceit,—it is the Āsura form.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.३२ इच्छयान्योन्यसंयोगः</summary>
 
 इच्छयान्योन्यसंयोगः  
 कन्यायाश् च वरस्य च ।  
@@ -1105,6 +1243,24 @@ man and the woman become united by mutual agreement, through love, it is the fif
 it is Gāndharva.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कन्याया वरस्य चान्योन्यानुरागेण यः परस्परसंयोग आलिङ्गनादिरूपः स गान्धर्वो ज्ञातव्यः । संभवत्यस्मादिति संभवः, यस्मात्कन्यावरयोरभिलाषादसौ संभवति । अत एव
+
+मैथुन्यो मैथुनायहितः । सर्वविवाहानामेव मैथुन्यत्वेन यदस्य मैथुन्यत्वाभिधानं तत्सत्मैथुने न विरोध इति प्रदर्शनार्थम् ॥३२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**इच्छयेति** । कन्यावरयोः परस्परानुरागात् यः संयोगः मैथुनाचरणं स मैथुनाय हितः कामनिमित्तको **गान्धर्वो **विवाहो बोद्धव्यः । इह गान्धर्वादौ मुख्यम् एवोपगमनम् । **तु**शब्दस् तथा प्रतीते । न च “पाणिग्रहणका मन्त्राः कन्यात्वे च प्रतिष्ठिताः” इति वचनात् संस्करपरिलोपः । “या गर्भिणी संस्क्रियते,” “वोढुः कन्यासमुद्भवः,” “अक्षता च क्षता चैव पुनर्भू संस्कृता पुनः” इत्यादिमनु-याज्ञवल्क्योक्तसहोढकानीन-पौनर्भवकक्षणेषु संस्कारदर्शनात् । गान्धर्वादिविवाहेषु पुनर् वैवाहिको विधिः, “कर्तव्यश् च त्रिभिर् वर्णैः समयेनाग्निसाक्षिकः” इति च देवलस्मरणात् । तथा, 
+
+> गान्धर्वासुरपैशाचा विवाहा राक्षसाश् च याः (ये) ।
+
+> पूर्वं परिणयस् तेषां पश्चाद् धोमो विधीयते ॥
+
+इति बह्वृचगृह्यपरिशिष्टदर्शनात् । भारतादौ च मुख्योपगमनवत् । एवं च “पाणिग्रहणका मन्त्राः” इत्यादि नरान्तरोपभुक्तकन्याविषये ऽवतिष्ठते, “पुनर् वैवाहिको विधिः कर्तव्यः” इत्यादिवचनात् गमनोत्तरकालम् अकृतसंस्कारा द्विजातीनां भार्या न भवति, शूद्रस्य भवत्य् एव, “त्रिभिर् वर्णैः” इत्य् उपादानात् तथाविधस्य पुत्रस्य रिक्थभाग् (-भाग्क्त्व-) दर्शनात् ॥ ३.३२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 032	The voluntary union of a maiden and her lover one must know (to be) the Gandharva rite, which springs from desire and has sexual intercourse for its purpose.
@@ -1112,7 +1268,7 @@ it is Gāndharva.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.३३ हत्वा छित्त्वा</summary>
 
 हत्वा छित्त्वा च भित्त्वा च  
 क्रोशन्तीं रुदन्तीं गृहात् ।  
@@ -1132,6 +1288,7 @@ The forcible abduction of the maiden from her home, while she is crying out and 
 **प्रसह्य** अभिभूय कन्यापक्षाद् बलात्कारेण **कन्याया हरणं राक्षसो** विवाह इत्य् एतावद् अत्र विवक्षितम् । **हत्वे**त्याद्य् अनुवादः । प्रसह्यापजिहीर्षतो यदि कश्चित् प्रतिबन्धो वर्तते तदा प्राप्तम् एव हननादि । हन्तुः शक्त्यतिशयं ज्ञात्वा स्वात्मभयाद् उपेक्षेरंस् तदा भवत्य् एव राक्षसो न वधाद्यवश्यं कर्तव्यम् । 
 
 - **हत्वा** दण्डकाष्ठादिना ताडयित्वा । **छित्त्वा** खड्गादिप्रहारेणाङ्गानि खण्डशः कृत्वा । **भित्त्वा** प्राकारदुर्गादि[^८८] । **क्रोशन्तीं रुदन्तीं** कन्याम् अनिच्छाम् । अयं गान्धर्वाद् विशेषः । "अनाथापह्रिये परित्रायद्वम्" इत्याद्य् उच्चैः शब्दकरणं क्रोशनम् । रोदनम् अश्रुकणमोक्षः । उद्विजितायाः स्त्रिया धर्मो ऽयम् ॥ ३.३३ ॥
+
 
 [^८८]:
      M G 1st ed.: prākārapuradurgādi
@@ -1190,6 +1347,17 @@ when the decked girl is won in battle.’
 force, it is Rākṣasa, the seventh form of marriage, based upon bravery.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रसह्य बलात्कारेण कन्याया हरणं राक्षसो विवाह इत्येव लक्षणम् । यदा
+तु हर्तुः शक्त्यतिशयं ज्ञात्वा पित्रादिभिरुपेक्ष्यते तदा नावश्यकं हननादि । यदि कन्यापक्षः प्रतिपक्षतां या ति वदा हननादिकमपि कर्तव्यमित्यर्थप्राप्तमनूद्यते । कन्यापक्षान्विनाश्य तेषामङ्गच्छेदं कृत्वा प्राकारादीन्भित्वा " हा पितर्भ्रातरनाथाहं ह्रिये” इति वदन्तीमश्रूणि मुञ्चन्तीं यः कन्या गृहादुपहरति । अनेन कन्यायामनिच्छोक्ता गान्धर्वाद्विवेकार्थम् ॥३३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**हत्वेति** । **हत्वा **कन्यापर्क्षीयान् प्रमाथ्य **छित्त्वा **अप्रमाथ्य अङ्गच्छेदादीन् कृत्वा **भित्त्वा **प्राकारादीन् “हा मातः हा पितः अनाथा अपह्रिये” इत्य् एवम् आह्वयन्तीम् अश्रुजलाविलनयनां यः कन्यां **गृहाद् आहरति **तद् अपि भूयः **कन्याहरणं राक्षसो **विवाहः ॥ ३.३३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 033	The forcible abduction of a maiden from her home, while she cries out and weeps, after (her kinsmen) have been slain or wounded and (their houses) broken open, is called the Rakshasa rite.
@@ -1197,7 +1365,7 @@ force, it is Rākṣasa, the seventh form of marriage, based upon bravery.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.३४ सुप्तां मत्ताम्</summary>
 
 सुप्तां मत्तां प्रमत्तां वा  
 रहो यत्रोपगच्छति ।  
@@ -1222,13 +1390,16 @@ When the man approaches the girl by stealth, while she is asleep, or intoxicated
 
 - गान्धर्वे तु भगवता कृष्णद्वैपायनेन दुष्यन्तशकुन्तलासंगमने वर्णितम्- "अनग्निकम् अमन्त्रकम्" इति, तद्दर्शनेन पाणिग्रहणसंस्कारो ऽस्ति, मन्त्रादि वर्जितस् तु[^८९] ।
 
+
 [^८९]:
      M G: varjitas tu paiśāce for mantrādi varjitas tu
 
 - पैशाचे[^९०] पुनर् विवदन्ते- मुख्यं चोपगमनं । न[^९१] च कन्यात्वम् अपैति, संस्कारैस् तद्विनिवर्तनात् । अतश् च "पाणिग्रहणिका मन्त्राः कन्यास्व् एव प्रतिष्ठिताः" (म्ध् ८.२२६) इति प्रतिषेधस्याप्रवृत्तेर् अस्त्य् एव मन्त्रवत् संस्कारसंबन्धः । स च प्रतिषेधः कृतः संस्कारप्रतिषेधार्थः । सा हि मन्त्रैः संकृतत्वाद् व्यपगतकन्याभावा । अत एव भवतु प्रथमम् उपगमस् ततो ऽकन्यादोषो नास्ति । तथा च कानीनः कर्ण इति दर्शनम् । यदि तु पुरुषप्रयोगेण कन्यात्वम् अपेयात् कथम् इयं वाचोयुक्तिः "कन्यायाः पुत्रः कानीनः" इति । अथ त्व् असंस्कृता कन्योच्यते ततो युक्तम् "कर्णादयो ह्य् अनूढायाः पुत्राः" इति । मुख्ये ऽभ्युपगमने कन्याया अपत्योत्पत्तेः संभवः । वर्ण्यते चेतिहासादिषु तथाभूताया विवाहः ।अथ मद्यमदादिना निर्वृत्ते रतिसंबन्धे किमर्थः संस्कार इति ।
 
+
 [^९१]:
      M G omit: na
+
 
 [^९०]:
      M G 1st ed. omit: paiśāce
@@ -1239,16 +1410,20 @@ When the man approaches the girl by stealth, while she is asleep, or intoxicated
 
 - संस्कारपरिलोपश् च स्यात् । गर्भाधानं हि मन्त्रवत् कर्तव्यम् "विष्णुर् योनिं कल्पयतु" (र्व् १०.१८४.१) इति कॢप्तायाश् च कल्पनम् अशक्यम् । तत्रायथार्थो मन्त्रप्रयोगः स्यात् । न चानूढायाः पैशाचधर्मे मन्त्रप्रयोगः, ऊढायास् तच्छ्रवणात् । न च[^९२] पैशाचवर्जम् अन्येषु विवाहेषु तत्कल्पयितुं उक्तं युक्तम् अविशेषश्रवणात् । 
 
+
 [^९२]:
      M G omit: na ca
 
 - तस्मान् मुख्योपगमपक्ष एवमादयो बहवो दोषाः प्राप्नुवन्ति । अत आलिङ्गनोपगूहनपरिचुम्बनादिषूपगमनार्थेषु व्यापारेषु साहचर्यात् तादर्थ्याच् चोपपूर्वो गमिर् द्रष्टव्यः । यत् तु "कानीनः पुत्रः" इति तत्र मुख्यार्थासंभवाल् लक्षणया संस्काराभावप्रतिपत्तिः[^९३] । यत् तु संस्कारदर्शनं तत् तु क्वचिद् एव । यद्य् अपि "या गर्भिणी संस्क्रियते ज्ञाताज्ञतापि वा सती" (म्ध् ९.१७३) इति तत्र य एवोपगन्ता स एव न[^९४] संस्कर्ता । न त्व् असौ पैशाचो विवाहः । पैशाचे हि येनैव समुपभुक्ता तस्मा[^९५] एव दीयते, स एवैनां संस्करोतीति । गर्भिण्यास् तु संस्कारो वाचनिकः । एतच् च सर्वं निपुणतरं पुनर् नवमे वक्ष्यते ।
 
+
 [^९५]:
      M G 1st ed.: yasmā
 
+
 [^९४]:
      M G 1st ed. omit: na
+
 
 [^९३]:
      M G: saṃskārabhāva-
@@ -1257,11 +1432,14 @@ When the man approaches the girl by stealth, while she is asleep, or intoxicated
 
 - <u>यदि हि</u> मुख्यम् उपगमस् तदा स एव विवाहो ऽन्यस्यानन्तरोक्तेन न्यायेनाभावात् । ततश् च नास्ति तस्य प्रतिषेधस्य विषयः, यतः इच्छया गान्धर्वो हठाद् राक्षसो ऽन्यथा पैशाचः । न चान्यः प्रकारो ऽस्ति येन स विषयः प्रतिषेधः[^९६] स्यात् । अस्ति त्व् अस्य विषयः- यत्र हठाद् रहसि गमनम्, या वा पितृभ्यां दीयते न चोपसंस्क्रियते । न[^९७] चासौ[^९८] गान्धर्वः, कन्येच्छाया अभावात् । अत एव भर्तुर् अपि न कन्यागामित्वम्, विषयान्तरस्य संभवात् । 
 
+
 [^९८]:
      M G 1st ed. add: teṣām api
 
+
 [^९७]:
      M G: nā
+
 
 [^९६]:
      M G: sarvaviṣayapratiṣedhaḥ
@@ -1354,6 +1532,16 @@ who is asleep, unconscious or mad, or in distress,—is the Paiśāca, the eight
 the girl is won by the employment of women, drinks, wine, and presents.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+निद्राऽभिभूतां मद्यमदविह्वलां शीलसंरक्षणेन रहितां विजनदेशे यत्र विवाहो मैथुनधर्मेण प्रवर्तते स पापहेतुर्विवाहानां मध्येऽधमः पैशाचः ख्यातः ॥३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सुप्ताम् **इति । **सुप्तां **निद्रोपेतां **क्षीबां** शीलरक्षणानिबर्हणां निर्जने प्रदेशे यस्मिन् विवाहे उपगच्छति स पापहेतुः **विवाहानां** मध्ये **पैशाचो** ऽष्टमः ख्यातः ॥ ३.३४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 034	When (a man) by stealth seduces a girl who is sleeping, intoxicated, or disordered in intellect, that is the eighth, the most base and sinful rite of the Pisakas.
@@ -1371,7 +1559,7 @@ the girl is won by the employment of women, drinks, wine, and presents.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.३५ अद्भिर् एव</summary>
 
 अद्भिर् एव द्विजाग्र्याणां  
 कन्यादानं विशिष्यते ।  
@@ -1390,15 +1578,18 @@ the girl is won by the employment of women, drinks, wine, and presents.’
 
 **द्विजाग्र्याणां** ब्राह्मणानां **कन्यादानं** कन्यां ददताम् **अद्भिर् एव** दानं शस्यते । ब्राह्मणाय यदा कन्यां ददाति तदाद्भिर् एव दद्यात् । कथं पुनर् आपोदानकरणम् । न हि ताभिर् विना दानम् अस्ति "अद्भिर् वाच्यं नमःपूर्वं[^९९] भिक्षा दानं ददाति वै । एवं धर्मेषु" इति नियमात् । अथ वा अद्भिर् एवेत्य् अवधारणेनार्षासुरप्राजापत्यान् अपवदति । तत्र हि न केवला आपः कारणम्, गोमिथुनादिद्रव्यग्रहणम् अपि संविद्व्यवस्था च । तेनैतद् उक्तं भवति । यथा गोहिरण्यादि द्रव्यं दीयते, न किंचित् परिभाष्यते- "इयं गौस् त्वयैव संवाहनीयेदृशानि तृणान्य् अपि देयानि," एवं कन्यापि देया, न दुहितृस्नेहेन जामात परिभाषणं कारयितव्यः । न च तस्माद् धनं ग्रहीतव्यम् इति ।
 
+
 [^९९]:
      M G 1st ed.: na me pūrvaṃ
 
 - क्षत्रियादीनां तु इतरेतरकाम्यया परस्परेच्छया[^१००] यदि कन्यावरयोः परस्परम् अभिलाषो भवति तदा दानं कर्तव्य, नेतरथा ब्राह्मविवाहवत् । 
 
+
 [^१००]:
      M G 1st ed. omit: itaretarakāmyayā parasparecchayā
 
 - <u>अन्ये</u> तु व्याचक्षते । धनं वा गृहीत्वाद्भिर् एव वेत्य्[^१०१] एष इतरेतरकाम्यार्थः । अस्मिन् पक्षे ब्राह्मणस्य सर्वविषयता ज्ञापिता भवति ॥ ३.३५ ॥
+
 
 [^१०१]:
      M G: evety (omit vā)
@@ -1430,6 +1621,16 @@ According to this explanation, it becomes indicated that the ‘Brahma’ form o
 This verse is quoted in *Smṛtitattva* (II, p. 138), where it is explained as meaning that in the case of Brāhmaṇas, that marriage is considered most commendable in which water is the only substance used as the instrument; while in that of the Kṣatriya and others, it may bo accomplished, even without the pouring of water, simply by mutual consent, the father of the bride agreeing to give, and the bridegroom to receive, the girl. This does not mean, however, that in the latter case water should never be used.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उदकदानपूर्वकमेव ब्राह्मणानां कन्यादानं प्रशस्तम् । क्षत्रियादीनां पुनर्विनाऽप्युदकं परस्परेच्छया वाङ्मात्रेणापि कन्यादानं भवति । उदकपूर्वकमपीत्यनियमः ॥३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अद्भिर् एव द्विजातीनां कन्यादानं प्रशस्यते **इति ब्राह्मणानां उदकदानपूर्वम् एव कन्यादानं प्रशस्तम् इत्य् उच्यते । क्षत्रियादीनां पुनः परस्परेच्छया विनाप्य् उदकं वाङ्मात्रेणापि दानम् इष्यते ॥ ३.३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 035	The gift of daughters among Brahmanas is most approved, (if it is preceded) by (a libation of) water; but in the case of other castes (it may be performed) by (the expression of) mutual consent.
@@ -1439,5 +1640,678 @@ This verse is quoted in *Smṛtitattva* (II, p. 138), where it is explained as m
 
 एवं च प्राग् विवाहात् स्त्रीवाग्दानं सोदकं ब्राह्मणानाम् । इतरेषां निरुदकम् । तथा च वक्ष्यति "यस्या म्रियेत कन्याया वाचा सत्ये कृते पतिः" (म्ध् ९.६९) इति ।
 </details>
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.३६ यो यस्यैषाम्</summary>
+
+यो यस्यैषां विवाहानां  
+मनुना कीर्तितो गुणः ।  
+सर्वं शृणुत तं विप्राः  
+सर्वं कीर्तयतो मम [मेधातिथिपाठः - सम्यक् कीर्तयतो]  ॥ ३.३६ ॥
+</details>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/036_yo_yasyaiShAm.md">
+<details><summary>गङ्गानथ-मूलानुवादः</summary>
+
+The quality that has been ascribed by Manu to each of these forms of marriage—listen to all that, O Brāhmaṇas, from me, as I proceed to describe them correctly.—(36)
+</details>
+
+<details><summary>मेधातिथिः</summary>
+
+यद् उक्तम् "गुणदोषौ च यस्य यौ" (म्ध् ३.२२) इति तत् स्मारयति । बहवो वक्तव्यतया प्रतिज्ञातास् तत्र वक्ष्यमाणैः श्लोकैर् अयम् अर्थ उच्यत इति विशेषज्ञानार्थं युक्तः पुनर् उपन्यासः । 
+
+- **एषाम् विवाहानाम्** इति निर्धारणे षष्ठी । एवं विवाहानां यस्य विवाहस्य **यो गुणः कीर्तित** आचार्येण मनुना **सर्वं शृणुत तं** गुणं **विप्राः** । भृगुर् महर्षीन् आमन्त्रयते । **सम्यग्** अवैपरीत्येनानाकुलं **कीर्तयतः** कथयतः ॥ ३.३६ ॥
+</details>
+
+<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
+
+The author is reminding his audience of what he had said before (Verse 22) regarding the ‘good and bad points of each form of marriage.’ Many things have been promised as to be described; and what he means to do by this verse is to point out that by means of the forthcoming verses he is going to explain such and such a subject. The reiteration contained iu this verse therefore is quite proper.
+
+‘*Of these forms of marriage*’.— The genitive has- the sense of
+*selection*. The meaning being that from among these marriage-forms, to
+each has been ascribed a quality by the teacher, Munu;—‘*To all this listen, O Brāhmaṇas*.’ This is addressed by Bhṛgu to the great sages.
+
+‘*Correctly*’’—without altering anything.
+
+‘*proceed to describe*’—expound.—(36)
+</details>
+
+<details><summary>गङ्गानथ-टिप्पन्यः</summary>
+
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 862);—and in
+*Hemādri* (Dāna, p. 603).
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+यद्यपि 'गुणदोषौ च यस्य यौ” ( म. स्मृ. ३ /२२ ) इति गुणाभिधानमपि प्रतिज्ञातमेव तथापि बहूनामर्थानां तत्र वक्तव्यतया प्रतिज्ञातत्वाद्विशेषज्ञापनार्थः पुनरुपन्यासः । एषां विचाहानामिति निर्धारणे षष्ठी । एषां मध्ये यस्य विवाहस्य यो गुणो मनुना कथितस्तत्सर्वं हे विप्राः ! मम कथयतः शृणुत ॥३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । **एषां** विवाहादीनां मध्यात् यस्य विवाहस्य यत् फलं मनुना कथितं तत् सर्वं **मम **यथावत् कथयतो **विप्राः शृणुत** ॥ ३.३६ ॥
+</details>
+
+<details><summary>Bühler</summary>
+
+036	Listen now to me, ye Brahmanas, while I fully declare what quality has been ascribed by Manu to each of these marriage-rites.
+</details>
+
+<details><summary>भारुचिः</summary>
+
+विवाहार्थवादोपन्यासार्थः श्लोकः ।
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.३७ दश पूर्वान्</summary>
+
+दश पूर्वान् परान् वंश्यान्  
+आत्मानं चैकविंशकम् ।  
+ब्राह्मीपुत्रः सुकृतकृन्  
+मोचयत्य् एनसः पितॄन्  ॥ ३.३७ ॥
+</details>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/037_dasha_pUrvAn.md">
+<details><summary>गङ्गानथ-मूलानुवादः</summary>
+
+The son born of the wife married by the Brāhma form is a performer of righteous acts, absolves from sins ten Pitṛs on the ascending side and ten on the descending side of his family, as also himself as the twenty-first.—(37)
+</details>
+
+<details><summary>मेधातिथिः</summary>
+
+**पूर्वे वंश्या** पितृपितामहादयः । **अपरे** पुत्रपौत्रादयः । तान् **मोचयत्य् एनसो** नरकादियातनाभ्य उद्धरति । ब्राह्मेन विवाहेन ऊढा तस्यां यो जातः पुत्रः स **सुकृतकृत्** पुण्यकृद् यदि भवति । **पितॄन्** परलोकगतान् । पितृशब्दो ऽयं प्रेतपर्यायः न हि पुत्रादिसंततेर् अन्यथा पितृव्यपदेशसंभवः । **दश**शब्दः प्रत्येकम् अभिसंबध्यते **पूर्वापर**शब्दाभ्याम्, **एकविंशकम्** इति निर्देशात् । 
+
+- अर्थवादश् चायम् । तेनागतान् अनुत्पन्नान् कथं मोचयतीति न वाच्यम् । पूर्वेषां त्व् अपत्यकृतेन शुभेन श्राद्धादिना भवत्य् एव पापान् मोक्ष इति श्राद्धाधिकारे कथयिष्यते । अतो दशापरान् एनसो मोचयतीत्य् एतद् उक्तं भवति- दशपुरुषा यस्मिन् कुले ऽपापा जायन्त इत्य् आलम्बनम् ॥ ३.३७ ॥
+</details>
+
+<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
+
+‘*Pitṛs on the ascending side*,’ *i.e*., father, grandfather, and so forth.
+
+‘*Pitṛs on the descending side*,’ *i.e*., son, grandson, and so forth.
+
+These he ‘*absolves from sins i.e*., saves them from the sufferings of hell, etc.
+
+Tbe son that is born of the girl married by the Brāhma form ‘*is a performer* *of* *righteous acts*,’—*i.e*., his deeds are virtuous.
+
+‘*Pitṛs*’—those that have gone over to the other world. The term ‘*pitṛ*’ here stands for *dead persons*; in no other sense could the son and other descendants be spoken of as one’s ‘*pitṛs*.’
+
+‘*Ten*’— this is construed with both ‘ascendants’ and ‘descendants;’ as is clear from the man himself being spoken of as ‘the twenty-first.’
+
+This verse is a purely laudatory exaggeration. Hence the question need not be raised how the man can save from sin his descendants, who are not yet born. For *ancestors*, freedom from sin is actually brought about by the proper performance, by the son, of *Śrāddha* and other rites; this we shall explain under the section on ‘*Śrāddha*.’ All that the assertion that ‘he absolves from sins ten descendants’ means is that in his family ten lines of descendants are born sinless.—(37)
+</details>
+
+<details><summary>गङ्गानथ-टिप्पन्यः</summary>
+
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 863), where it explains ‘*Brāhmaṇī*’ as ‘the girl married in the Brāhma form;’ and adds that the term ‘*pitṛn*’ includes the son and other descendants also;—also in *Parāśaramādhava* (Ācāra, p. 487);—in *Aparārka* (p. 88), which explains ‘*Sukṛta*’ as ‘doing what is enjoined and avoiding what is forbidden’;—in *Hemādri* (Dāna, p. 683); and in *Smṛticandrikā* (Saṃskāra, p. 227).
+</details>
+
+<details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
+
+*Gautama* (4.29.33).—‘The good sons purify; the son born of a wife
+married by the Brāhma form purifies ten past and ten future generations, along with oneself.’
+
+*Viṣṇu* (24.29).—‘The son of a wife married by the Brāhma form purifies
+twenty-one generations.’
+
+*Yājñavalkya* (1.58).—‘The son horn of this marriage purifies twenty-one
+generations.’
+
+*Āśvalāyana-Gṛhyasūtra* (16.1.1).—‘The son born thereof purifies twelve
+past and twelve future venerations on both sides.’
+
+*Śaunaka* (Vīramitrodaya-Saṃskāra, p. 863).—‘When a girl has been given
+away in the Brāhma form of marriage, the son born of her purifies twelve past and twelve future generations both on his maternal and his paternal sides.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+दश पूर्वान्पित्रादीन्वंश्यान्, परान्पुत्रादीन्दश, आत्मानं चैकविंशकं ब्राह्मविवाहोढापुत्रो यदि सुकृतद्भवति तदा पापान्मोचयति पित्रादीन्नरकादुद्धरति । पुत्रादयश्च तस्य कुले निष्पापा जायन्त इति विमोचनार्थः, तेषामनुत्पत्तेः पापप्रध्वंसस्याशक्यत्वात् ॥३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दश पूर्वान् परान् **इति ब्राह्मविवाहोढ**पुत्रः** यदि **सुकृतकृद्** भवति तदा **दश् पूर्वान् **पित्रादीन् अन्वयिनो मृतान् **दश् चापरान् **पुत्रादीन् **आत्मानं चैकविंशकं** पापान् मोचयति । न चाकृताभ्याम् अकृतविप्रणाशाव् अत्र नोदनीयौ । श्राद्धादिवत् वचनगम्यत्वाद् अमुष्यार्थस्य पुत्रादीनां चापापाचाराणाम् उत्पत्तिमात्रेणैवैषां विमोक्षस् तदानीम् अनुत्पन्नत्वात् ॥ ३.३७ ॥
+</details>
+
+<details><summary>Bühler</summary>
+
+037	The son of a wife wedded according to the Brahma rite, if he performs meritorious acts, liberates from sin ten ancestors, ten descendants and himself as the twenty-first.
+</details>
+
+<details><summary>भारुचिः</summary>
+
+**सुकृतकृद्** अत्र जातो **मोचयत्य् एनसः पितॄन्** । पूर्वापरान् । कथं पुनर् उत्पन्नान् सतः मोचयति यथैवातीतान् । सर्वथा मोचयतु मा वा मूमुचत् । ब्राह्मीपुत्रस्य प्रशंसैषोच्यते । अन्यथा हि यथाश्रुतग्राहिणो ऽकृताभ्यागमकृतविप्रणाशौ वेदस्मृतिशास्त्रविरोधिनौ प्रसज्येयाताम् ।
+
+**दैवोढाजः सुतश् चैव सप्त सप्त परावरान् ।  
+आर्षोढाजः सुतस् त्रींस् त्रीन् **
+
+एवम् एषः –
+
+> **षट् षट् कायोढजः सुतः ॥ ३.३८ ॥**
+
+इतीदम् अयुक्तम् । आर्षाद् गुणवत्तरस्यैव सतः पश्चाद् अभिधानम् । एवं दैवाद् अनन्तरं प्राजाप्त्यो वक्तव्यः । तथा च षट्त्वं मनुगृहीतं भवति । सत्यम् एवम् । एतद् एव वक्तव्यम् आसीत् । **[११५]** उत्तरार्थस् एव्म् अस्योपदेशः "पञ्चानां तु त्रयो धर्म्याः" (म्ध् ३.२५) इत्यादिः । क्षत्रियादीनां तदपेकया अस्य प्राजापत्यस्यार्षात् पश्चाद् अभिधानम् । एवम् एतत् प्रत्येकं स्तुत्वापत्यतः समुदायेन पुनः स्तौति –
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.३८ दैवोढाजः सुतश्</summary>
+
+दैवोढाजः सुतश् चैव  
+सप्त सप्त परावरान् ।  
+आर्षोढाजः सुतस् त्रींस् त्रीन्  
+षट् षट् कायोढजः सुतः  ॥ ३.३८ ॥
+</details>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/038_daivoDhAjaH_sutash.md">
+<details><summary>गङ्गानथ-मूलानुवादः</summary>
+
+The son born of the wife married by the Daiva form (absolves from sin) seven ancestors and seven des cendants; the son born of the wife married by the Ārṣa form three of each; and the son born of the wife married by the Prājāpatya form six of each.—(38)
+</details>
+
+<details><summary>मेधातिथिः</summary>
+
+दैवेन विधिनोढा **दैवोढा** । तस्यां जातो **दैवोढाजः** । **सुतः** पुत्रः । **कः** प्रजापतिः । स देवता यस्य विवाहस्य स **कायः** । संस्कारकर्मणि ग्रहणलक्षणे ऽसत्य् एव देवतासंबन्धे प्रजापतेर् देवतात्वम् अध्यारोप्यते भक्त्या । यद् अपि तत्र प्राजापत्यो यागो ऽस्ति स तु विवाहसाधारणः न कायव्यपदेशे कारणम् । आसुरादिषु च न काचिद् गतिः स्यात् । न ह्य् आसुरेभ्यो विवाहेभ्यो यागो ऽस्ति । **कायोढज** इति ह्रस्वत्वं "ङ्यापोः संज्ञाछन्दसोर् बहुलम्" इति (पाण् ६.३.६३) ।
+
+- <u>ननु</u> च यद् यन् न्यूनफलं तत् तत् पश्चान् निर्दिष्टम् । तत्रार्षस्य प्राजापत्यात् पश्चाद् अभिधानं युक्तम् । 
+
+- <u>अस्त्य्</u> अत्र कारणं येनाधिकफलस्य प्राजापत्यस्य पश्चान् निर्देशः । "पञ्चानां तु त्रयो धर्म्याः" (म्ध् ३.२५) इत्य् अत्र प्राजापत्यस्य ग्रहणम् इष्यते, इतरथार्षस्य स्यात् ॥ ३.३८ ॥
+</details>
+
+<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
+
+The girl wedded by the *Daiva* form of marriage is called ‘*the wife married by the Daiva* *form*:’ and the son born of her.
+
+\[In the term ‘*Kāya*’\] ‘*ka*’ stands for Prajāpati; and that marriage of which he is the presiding deity is ‘*Kāya*.’ In reality, marriage is a sacramental rite consisting in the ‘taking’ (of the girl’s hand), and there is no connection with any deity; still Prajāpati is called its ‘deity’ only figuratively. Though it is true that there are offerings made to Prajāpati during the marriage-rites, yet, since such offerings are common to all the preceding forms of marriage also, -they cannot form the ground for the name ‘*Prājāpatya*’ being given to any particular form. Further, such an explanation (of the name being based upon the presiding deity) would not be available at all in the case of the names ‘*Āsura*’ and the rest: as at no marriage-rite are any offerings made to the *Āsura* and others.
+
+The short vowel in ‘*ḍha*,’ in the term ‘*Kāyoḍhaja*,’ is in accordance with Pāṇini 6. 3.63 (where much latitude is allowed in the case of the final vowels of feminine endings).
+
+“In the Text it is found that the marriage-form with inferior results has been mentioned after that with superior results; so that the ‘*Ārṣa*’ should have been mentioned after the ‘*Prājāpatya*’ (in verse 25).”
+
+There is a special reason why the ‘*Prājāpatya* though with superior results, has been mentioned last. In verse 25 above, it has been declared that ‘of the five three are lawful, etc., etc.,’ when the ‘*Prājāpatya*’ is meant to be included (among those permitted for the
+*Kṣatriya*); while if the ‘*Ārṣa*’ were mentioned after the
+‘*Prājāpatya*’ (on the ground of the inferior results of the former), then it would be the ‘*Ārṣa*’ that would become included (among those sanctioned for the ‘*Kṣatriya*’).—(38)
+</details>
+
+<details><summary>गङ्गानथ-टिप्पन्यः</summary>
+
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 487);—the first half is quoted in *Vīramitrodaya* (Saṃskāra, p. 863), where the term ‘*daivoḍhāja*’ is explained as ‘one born of a wife married in the Daiva form’; and it is added that the phrase ‘*ātmānañca*’ of the preceding verse has to be construed here also;—in *Hemādri* (Dāna, p. 683);—and in
+*Smṛticandrikā* (Saṃskāra, p. 228), which explains ‘*Kāya*’ as the
+Prājāpatya.’
+</details>
+
+<details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
+
+*Gautama* (4.29-32).—‘Three generations are purified by the *Ārṣa*, ten
+by the *Daiva*, and ten by the Prājāpatya.’
+
+*Viṣṇu* (24.30-32).—‘The son of the wife married in the *Daiva* form
+purifies fourteen generations; that of one married in the Ārṣa form, seven; that of one married in the Prājāpatya form, four.’
+
+*Yājñavalkya* (1.59-60).—‘The son born of the first (*i.e*., Daiva) form
+of marriage purifies fourteen generations, and that born of the second, Ārṣa form, six; that born of the Prājāpatya purifies six generations, along with oneself.’
+
+*Āśvalāyana-Gṛhyasūtra* (16.1).—‘The Daiva purifies ten past and ten
+future generations on both sides; the Prājāpatya purifies eight past and eight future generations on both sides; the Ārṣa purifies seven past and seven future generations on both sides.’
+
+*Shannaka* (Vīramitrodaya-Saṃskāra, pp. 863 and 864).—‘The son born of a
+girl married by the Daiva form purifies ten past and ten future generations on the father’s and on the mother’s side. The son born of the girl married by the Ārṣa form purifies seven past and seven future generations on the father’s and on the mother’s side. The son born of the girl married by the Prājāpatya form purifies eight past and eight future generations on both sides.’
+
+*Śaṅkha-Likhita* (Vīramitrodaya-Saṃskāra, p. 865).—‘The Prājāpatya-born
+purifies seven generations below and seven above, and also oneself; the Ārṣa-born, five; and the Daiva-born, three.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+दैवविवाहोढायाः पुत्रः सप्त परान्पित्रादीन्सप्तावरान्पुत्रादींश्च, आर्षविवाहोढायाः पुत्रस्त्री-न्पित्रादीस्त्रीश्च पुत्रादीन्, प्राजापत्यविवाहोढायाः पुत्रः षट् पित्रादीन्षट् पुत्रादीन आत्मानं चैनसो मोचयतीति पूर्वस्यैव सर्वत्रानुषङ्गः ।कायोढज इति “ङ्यापोः संज्ञाछन्दसोर्बहुलम्" ( पा. सू. ६ / ३ / ६३ ) इति ह्रस्वत्वम् । ब्राह्माद्यष्टविवाहोद्देशक्रमानुसारेण मन्दफलस्यार्षस्येह बहुफलप्राजापत्यात्पूर्वाभिधानम् । ब्राह्मादिविवाहोद्देशश्लोक एव कथमयं क्रम इति चेत् ? “पञ्चानां तु त्रयो धर्म्याः” ( म. स्मृ. ३ / २५ ) इत्यत्र प्राजापत्यग्रहणार्थम् । अन्यथा त्वार्षस्वच ग्रहणं स्यात् ॥३८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दैवोढाज **इति । दैवविवाहोत्पन्नः पुत्रः **सप्त परान् **पित्रादीन् **सप्त अवरान्** पुत्रादीन् पापान् मोचयति । आर्षविवाहोत्पन्नश् च **त्रीन् **पुत्रादीन् **त्रींश् **च पुत्रादीन् । तथा प्राजापत्यविवाहोढाजोत्पन्नश् च **षट् **पुत्रादीन् **षट्** पित्रादींश् च ॥ ३.३८ ॥
+</details>
+
+<details><summary>Bühler</summary>
+
+038	The son born of a wife, wedded according to the Daiva rite, likewise (saves) seven ancestors and seven descendants, the son of a wife married by the Arsha rite three (in the ascending and descending lines), and the son of a wife married by the rite of Ka (Pragapati) six (in either line).
+</details>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+“प्रसवे च गुणागुणान्” ( म. स्मृ. ३ / २२ ) इति यदुक्तं तदुच्यते—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.३९ ब्राह्मादिषु</summary>
+
+ब्राह्मादिषु विवाहेषु  
+चतुर्ष्व् एवाऽनुपूर्वशः ।  
+ब्रह्मवर्चस्विनः पुत्रा  
+जायन्ते शिष्टसम्मताः [मेधातिथिपाठः - ब्रह्मवर्चसिनः]  ॥ ३.३९ ॥
+</details>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/039_brAhmAdiShu_vivAheShu.md">
+<details><summary>गङ्गानथ-मूलानुवादः</summary>
+
+Only from the four marriages mentioned successively, beginning with the Brāhma, are born sons endowed with Brahmic glory and respected by cultured persons.—(39)
+</details>
+
+<details><summary>मेधातिथिः</summary>
+
+"प्रसवे च गुणागुणान्" (म्ध् ३.२२) इत्य् उक्तम्, तद् इदम् । **अनुपूर्वशः-** आनुपूर्व्येणेत्य् अस्मिन्न् अर्थे स्मृतिकारैः प्रयुज्यते । श्रुताध्ययनविज्ञानसंपत्तिनिमित्ते च पूजाख्याती[^१०२] ब्रह्मवर्चसम् । तद्वन्तो **ब्रह्मवर्चसिनः** । इन्नन्तो ऽयम् । **शिष्टानां संमता** अनुमता अगर्ह्या अद्विष्टाः प्रिया इति यावत् । अतश्[^१०३] चामत्यर्थत्वान् मतिभुद्धीत्य् (च्ड़्। पाण् ३.२.१८८) अस्याविषयत्वेन, "क्तेन च पूजायाम्" (पाण् २.२.१२) इत्य् एतेन नास्ति समासप्रतिषेधः । संबन्धसामान्यविवक्षायां च षष्ठी ॥ ३.३९ ॥
+
+
+[^१०३]:
+     M G 1st ed.: yataś
+
+
+[^१०२]:
+     M G 1st ed.: pūjākhyāti
+</details>
+
+<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
+
+In verse 22, it has been asserted that the author was going to describe ‘the good and bad points of offsprings;’ this is what is being done now.
+
+‘*Anupūrvaśaḥ*’ (successively) is an expression that authors of *Smṛtis* use in the sense of ‘*ānupurvyeṇa*.’
+
+The honour and fame that one receives by virtue of his learning, knowledge and superior wisdom, are called ‘Brahmic glory;’ those possessed of this are called ‘endowed with Brahmic glory,’ The term ends in the Possessive affix ‘*in*.’
+
+‘*Respected by cultured persons*’—favoured, not hated, not ill-treated;
+*i.e*, liked. Inasmuch as the root in ‘*sammata*’ does not signify
+*thinking*, it does not fall under Pāṇini’s Sūtṛa.3. 2. 188; and hence
+the compounding does not become precluded by Pāṇiṇi 2. 2. 12; and the genitive ending in ‘*śiṣṭa*’ denotes mere relationship in general.—(39)
+</details>
+
+<details><summary>गङ्गानथ-टिप्पन्यः</summary>
+
+‘*Śiṣṭa*’—defined under 12. 109.
+
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 487); and in
+*Vīramitrodaya* (Saṃskāra, p. 865), which says that this describes the
+results accruing from the different forms of marriage.
+
+It is quoted in *Aparārka* (p. 117) along with verses 40 and 41, which adds that all this pertains to the Brāhmaṇa;—in *Hemādri* (Dāna, p. 683);—in *Smṛticandrikā*, (Saṃskāra, p. 230);—and in *Saṃskāramayūkha* (p. 99).
+</details>
+
+<details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
+
+**(verses 3.39-42)  
+**
+
+*Viṣṇu* (24.34-37).—‘He who gives his girl in marriage by the Brāhma
+form goes to the regions of Brahman; by the Daiva, to Heaven; by the Ārṣa, to the regions of Viṣṇu; by the Prājāpatya, to the regions of the gods; and by the *Gāndharva* form, one goes to the region of the Gandharvas.’
+
+*Baudhāyana* (1.11.17).—‘It is well known that as the marriage-forms, so
+the offspring.’
+
+*Āpastamba-Dharmasūtra* (2.12.4).—‘To the extent that the form of
+marriage is the right one, to that same extent is the offspring born thereof of the right kind.’
+
+*Yama* (Vīramitrodaya-Saṃskāra, p. 865).—\[Reproduces the words of
+Manu.\]
+
+*Dakṣa* (Vīramitrodaya-Saṃskāra, p. 866).—‘The reward accruing from the
+marrying of a girl by the right form is double in the case of her being given to a Brāhmaṇa; a hundred-thousandfold in that of her being given to a learned Brāhmaṇa; and endless in that of her being given to a thoroughly learned Brāhmaṇa.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मादिषु चतुर्षु विवाहेषु क्रमावस्थतेषु श्रुताध्ययनसंच त्तिक तेजोयुक्ताः पुत्राः शिष्टप्रिया जायन्ते । प्रियार्थत्वाच्च संमतशब्दस्य “क्तेन च पूजायाम्” (पा. सु. २ / २२ / १२ ) इति न षष्ठीसमासप्रतिषेधः । सम्बन्धसामान्यविषया षष्टीयं समस्यते ॥३९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मादिष्व्** इति । **रूपसत्त्वगुणोपेता** इति । **ब्राह्मादिषु विवाहेषु चतुर्षु** क्रमावस्थितेषु अध्ययनादिसम्पत्तेजोयुक्ताः साधुप्रियालावण्येन द्वादशाध्यायवक्ष्यमाणलक्षणेन सत्त्वेन दयादिभिः श्रीगुणैर् युक्ताः धनिनः ख्यातिमन्तः सम्पन्नस्रगनुलेपनादि-भोगानुष्ठातारः पुत्रा जायन्ते शतं वर्षाणां जीवन्ति ॥ ३.३९–४० ॥
+</details>
+
+<details><summary>Bühler</summary>
+
+039	From the four marriages, (enumerated) successively, which begin with the Brahma rite spring sons, radiant with knowledge of the Veda and honoured by the Sishtas (good men).
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.४० रूपसत्त्वगुणोपेता</summary>
+
+रूप-सत्त्व-गुणोपेता  
+धनवन्तो यशस्विनः ।  
+पर्याप्त-भोगा धर्मिष्ठा  
+जीवन्ति च शतं समाः  ॥ ३.४० ॥
+</details>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/040_rUpa-sattva-guNopetA_dhanavanto.md">
+<details><summary>गङ्गानथ-मूलानुवादः</summary>
+
+Endowed with beauty and the quality of goodness, possessing wealth, and fame, with full enjoyment and righteous, they live for a hundred years.—(40)
+</details>
+
+<details><summary>मेधातिथिः</summary>
+
+**रूपं** मनोहराकृतिः । **सत्त्वं** नाम **गुणो** द्वादशे वक्ष्यते । ताभ्याम् **उपेता** युक्ताः । आढ्या **धनवन्तः** । श्रुतशौर्यादिगुणयुक्ततया ख्याताः **यशस्विनः** । **पर्याप्तभोगाः** स्रगनुलेपनगीतवाद्यादिभिः सुखसाधनैर् अविकलैर् नित्ययुक्ताः । सुखसाधनैः पूर्वोक्तैर् अवियोगो भोगः, स पर्याप्तो ऽक्षतः समग्रो येषां ते **पर्याप्तभोगाः** । धर्मानुष्ठानतत्परा **धर्मिष्ठाः** । धर्मशब्दः केषांचिद् गुणवचनः । अतो गुणवचनाद् इत्य् आतिशायिकः । **शतं** वर्षाणि **जीवन्ति** ॥ ३.४० ॥
+</details>
+
+<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
+
+‘*Beauty*’—pleasing form.
+
+‘*Qualify of Goodness*’—which is going to be described in Discourse XII.
+
+‘*Endowed with*’ these—*i.e*., possessing these two.
+
+‘*Possessing wealth*’—Wealthy.
+
+‘*Possessing fame*’—Well-known as possessing the qualities of learning, bravery, and so forth.
+
+‘*With full enjoyment*’—*i.e*., supplied with sufficient quantities of such means of enjoyment as garlands, sandal-paint, music, vocal and instrumental, and so forth.
+
+‘*Enjoyment*’ stands for non-separation from the above-mentioned means of enjoyment; and those for whom this is ‘full’—not deficient, complete—are said to be ‘with full enjoyment.’
+
+‘*Righteous*,’ ‘*dharmiṣṭha*’—*i.e*., engaged in the performance of righteous acts. The term ‘*dharma*,’ according to Some, is an adjective; and hence it has taken the superlative affix (‘*iṣṭha*’).
+
+‘*They live for a hundred years*’—(40)
+</details>
+
+<details><summary>गङ्गानथ-टिप्पन्यः</summary>
+
+‘*Rūpasattvaguṇopetāḥ*’—‘Endowed with beauty and the quality of goodness’ (Medhātithi);—‘Endowed with beauty, goodness and other qualities’ (Govindarāja and Kullūka).
+
+This is quoted in *Vīramitrodaya* (Saṃskāra, p. 865);—in
+*Parāśaramādhava* (Ācāra, p. 488);—in *Aparārka* (p. 115);—in *Hemādri*
+(Dāna, p. 683);—and in *Smṛticandrikā* (Saṃskāra, p. 230).
+</details>
+
+<details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
+
+**(verses 3.39-42)  
+**
+
+See Comparative notes for [Verse 3.39].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+रूपं मनोहराऽऽकृतिः, सत्त्वं द्वादशाध्याये वक्ष्यमाणं, गुणा दयादयः, तैर्युक्ता धनितः ख्यातिमन्तो यथेप्सितवस्त्रस्त्रग्गन्धलेपनादिभोगशालिनो धार्मिकाश्च पुत्रा जायन्त इति पूर्वमनुवर्तते । शतं च वर्षाणि जीवन्ति ॥४०॥
+</details>
+
+<details><summary>Bühler</summary>
+
+040	Endowded with the qualities of beauty and goodness, possessing wealth and fame, obtaining as many enjoyments as they desire and being most righteous, they will live a hundred years.
+</details>
+
+<details><summary>भारुचिः</summary>
+
+पदार्थस्वाभाव्यम् एतद् विवाहस्तुतये ऽनूद्यते तच् च शास्त्रं प्रत्यक्षं धर्म्याधर्म्यव्यवस्थाम् अनुवदतो नातिशङ्क्यम् ।
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.४१ इतरेषु तु</summary>
+
+इतरेषु तु शिष्टेषु  
+नृशंसानृतवादिनः ।  
+जायन्ते दुर्विवाहेषु  
+ब्रह्म-धर्म-द्विषः सुताः  ॥ ३.४१ ॥
+</details>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/041_itareShu_tu.md">
+<details><summary>गङ्गानथ-मूलानुवादः</summary>
+
+From the other remaining inferior marriages are born sons, addicted to saying harsh and untrue words, and despisers of the Vedic Dharma.—(41)
+</details>
+
+<details><summary>मेधातिथिः</summary>
+
+ब्राह्मादिव्यतिरिक्तेषु गान्धर्वादिविवाहेषु नृशंसम् अनृतं च वदन्ति **नृशंसानृतवादिनः** । **नृशंसं** मातृभगिन्यादाव् अश्लीलाक्रोशवचनम् । **अनृतं** प्रसिद्धम् । नृशंसं चानृतं च **नृशंसानृते** । ते वदितुं शीलम् एषाम् इति शब्दव्युत्पत्तिः । **ब्रह्मधर्मो** वेदधर्मो वेदार्थस् तं द्विषन्ति निन्दति वा न श्रद्दधते वा । अत एव **दुर्विवाहेष्व्** इति निन्दा ॥ ३.४१ ॥
+</details>
+
+<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
+
+From marriages other than the ‘*Brahma*’ and the rest—*i.e*., from the ‘*Gāndharva*,’ and the rest.
+
+‘*Those who say harsh and untrue words*.’— Angry and indecent words addressed to one’s mother and sisters, etc., are what are meant by ‘*harsh words*.’ The meaning of the term ‘*untrue*’ is well-known. ‘*Nṛśaṃsa-anṛta*,’ compounded copulatively, give the form ‘*nṛśaṃsānṛte*,’ ‘harsh and untrue.’ He who is in the habit of Saying such words is called ‘*nṛśaṃsānṛtavādin*,’ ‘*addicted to saying harsh and untrue words*.’ Such is the explanation of the compound term.
+
+‘*Brahmadharma*’ is ‘*Vedic Dharma*,’—*i*. *e*., the *Dharma*, Duty, laid down in the Veda; those who *despise* it, *i.e*., have no faith in it.
+
+It is for this reason that these marriages have been deprecatingly called ‘inferior marriages.’—(41)
+</details>
+
+<details><summary>गङ्गानथ-टिप्पन्यः</summary>
+
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 865);—in
+*Parāśaramadhava* (Ācāra, p. 488);—in *Aparārka* (p. 115);—in *Hemādri*
+(Dāna, p. 683);—in *Smṛticandrikā* (Saṃskāra, p. 230), which explains ‘*Nṛśaṃsaḥ*’ as ‘cruel,’ ‘*brahmadviṣaḥ*’ as ‘inimical to the Veda’;—and in *Saṃskāramayūkha* (p. 99), which adds the same notes.
+</details>
+
+<details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
+
+**(verses 3.39-42)  
+**
+
+See Comparative notes for [Verse 3.39].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मादिभ्यश्चतुभ्योऽज्येष्वासुरादिषु चतुर्षुविवाहेषु क्रूरकर्माणोमृषावादिनो वेदद्वेषिणो यागादिधर्मद्वेषिणः पुत्रा जायन्ते ॥४१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**इतरेष्व्** इति । ब्राह्मादिभ्यश् चतुर्भ्यो ऽन्येषु आसुरादिषु दुष्ट**विवाहेषु** क्रूरकर्माणो ऽ**नृतवादिनो **वेदयागादिद्वेषिणश् च **सुता जायन्ते **॥ ३.४१ ॥
+</details>
+
+<details><summary>Bühler</summary>
+
+041	But from the remaining (four) blamable marriages spring sons who are cruel and speakers of untruth, who hate the Veda and the sacred law.
+</details>
+
+<details><summary>भारुचिः</summary>
+
+**ब्रह्मद्विषो** वेदाध्ययनद्विषः ब्राह्मणद्विषो वा ब्रह्मब्राह्मणयोर् एकार्थत्वात् । **धर्मस्** तु विहितार्थानुष्ठानदिषः ब्राह्मादिषु स्तुत्यपेक्षम् इदम् औपरिष्टेषु विवाहेषु निन्दावचनम् । इतरथा हि क्षत्रियादिधर्मापेक्षया तद्विधानम् अनर्थकं स्याद् आसुरगान्धर्वयोस् तु ब्राह्मणस्य विकल्पः । उभयशास्त्रानुग्रहाय क्षत्रादीनां च विवाहप्रशंसैषा । एवम् एव शास्त्रचोदना सामर्याद् विज्ञेया । यतश् चैतद् एवम् अतः –
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.४२ अनिन्दितैः</summary>
+
+अनिन्दितैः स्त्रीविवाहैर्  
+अनिन्द्या भवति प्रजा ।  
+निन्दितैर् निन्दिता नॄणां  
+तस्मान् निन्द्यान् विवर्जयेत्  ॥ ३.४२ ॥
+</details>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/042_aninditaiH_strIvivAhair.md">
+<details><summary>गङ्गानथ-मूलानुवादः</summary>
+
+From unblamable marriages unblamable offspring is born to men; and from blameworthy marriages blameworthy child. One should therefore avoid the blamable marriages.—(42)
+</details>
+
+<details><summary>मेधातिथिः</summary>
+
+समासतो विवाहानां फलप्रदर्शनम् एतत् । ये यस्य विवाहा विहितास् ते **ऽनिन्दितास्** तैर् ऊढानां या प्रजा पुत्रादिलक्षणा सानिन्द्या भवति प्रशस्येत्य् अर्थः । **निन्दितैः** प्रतिषिद्धैः **निन्दिता** गर्हिता । **तस्माद्** दुःखभागिनी प्रजा मा भूद् इति **निन्द्यान् विवर्जयेत्** ॥ ३.४२ ॥
+</details>
+
+<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
+
+This verse sums up the results of marriages briefly. Those marriages are called ‘unblamable’ which have been sanctioned by the scriptures: and the offspring—in the shape of son, etc.—born from wives wedded by those forms of marriage is ‘*unblamable*,’—*i.e*., praiseworthy.
+
+‘*From blameworthy*’—*i.e*., prohibited—‘*marriages*’ is born ‘*blameworthy*,’ defective, child.
+
+‘*Therefore*’—with the view that such children may not be born as become a source of pain, ‘*one should avoid the blamable marriages*’—(42)
+</details>
+
+<details><summary>गङ्गानथ-टिप्पन्यः</summary>
+
+This verse also is quoted in *Vīramitrodaya* (Saṃskāra, p. 865);—in
+*Parāśaramādhava* (Ācāra, p. 865);—in *Aparārka* (p. 117);—and in
+*Hemādri* (Dāna, p. 684).
+</details>
+
+<details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
+
+**(verses 3.39-42)  
+**
+
+See Comparative notes for [Verse 3.39].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+सङ्क्षेपेण विवाहानां फलकथनमिदम् \।
+अगर्हितैर्भार्याप्राप्तिहेतुभिर्विवाहैरगर्हिता मनुष्याणां सन्ततिर्भवति, गर्हितैस्तु गर्हिता । तस्माद् गर्हितविवाहान्न कुर्यात् ॥४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनिन्दितैर्** इति । अगर्हितैः भार्याप्राप्तिहेतुभिः विवाहैः अगर्हितानि मनुष्याणाम् अपत्यानि भवन्ति । गर्हितैश् च गर्हितानि भवन्ति । **तस्मात् **गर्ह्यान्** विवर्जयेत्** न कुर्यात् ॥ ३.४२ ॥
+</details>
+
+<details><summary>Bühler</summary>
+
+042	In the blameless marriages blameless children are born to men, in blamable (marriages) blamable (offspring); one should therefore avoid the blamable (forms of marriage).
+</details>
+
+<details><summary>भारुचिः</summary>
+
+विहितस्तुतिपरम् एतत् सर्ववर्णानाम् । इदानीम् अधिकारशास्त्रं प्रैषिध्यते ।
+
+**पाणिग्रहणसंस्कारः सवर्णासूपदिश्यते ।  
+असवर्णास्व् अयं ज्ञेयो विधिर् उद्वाहकर्मणि ॥ ३.४३ ॥  
+शरः क्षत्रियया ग्राह्यः प्रतोदो वैश्यकन्यया ।**
+
+ब्राह्मणीपाणिपरिगृहीतः पाणिग्रहणस्थाने । एवं प्रतोदो वैश्यकन्या । ब्राह्मणक्षत्रियपाणिपरिगृहीतः पाणिग्रहणस्थाने ग्राह्य इति वर्तते ।
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.४३ पाणिग्रहणसंस्कारः</summary>
+
+पाणिग्रहणसंस्कारः  
+स-वर्णासूपदिश्यते ।  
+असवर्णास्व् अयं ज्ञेयो  
+विधिर् उद्वाहकर्मणि  ॥ ३.४३ ॥
+</details>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/043_pANigrahaNasaMskAraH_sa-varNAsUpadishyate.md">
+<details><summary>गङ्गानथ-मूलानुवादः</summary>
+
+In the case of girls of the same caste (as the bridegroom) the sacramental rite of “taking the hand” has been prescribed; and in that of the marriage of girls of different castes, this (following) should be known as the right procedure.—(43)
+</details>
+
+<details><summary>मेधातिथिः</summary>
+
+**पाणिग्रहणं** नाम गृह्यकारोक्तः **संस्कारः सवर्णासु** समानजातीयासूह्यमानासु **उपदिश्यते **शास्त्रेण विधीयते, कर्तव्यतया प्रतिपाद्यते । **असवर्णासु** यद् उद्वाहकर्म तत्रायं वक्ष्यमाणो **विधिर् ज्ञेयः** ॥ ३.४३ ॥
+</details>
+
+<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
+
+The rite called ‘taking the hand,’ as described by the authors of
+*Gṛhyasutras*, has been ‘*prescribed*’—laid down, mentioned by the
+scriptures as to be performed—‘*in the case of girls of the same caste*,’ being married.
+
+‘*In the case of girls of different castes*’ being married, the following is ‘*to be known as the right procedure*.’—(43)
+</details>
+
+<details><summary>गङ्गानथ-टिप्पन्यः</summary>
+
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 835);—and in
+*Smṛtitattva* (II, p. 107), which latter adds that this verse makes it
+clear that ‘marriage’ is something distinct from the ‘holding of the hand’ (*Pāṇigrahaṇa*).
+</details>
+
+<details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
+
+*Viṣṇu* (24.4).—‘In the marriage of a girl of the same caste as himself,
+the hand has to be held.’
+
+*Yājñavalkya* (1.62).—‘In the case of girls of the same caste as the
+bridegroom, the hand is to be held.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+समानजातीयासु गृह्यमाणासु हस्तग्रहणलक्षणः संस्कारो गृह्यादिशास्त्रेण विधीयते । विजातीयासु पुनरुह्यमानासु विवाहकर्माण पाणिग्रहणस्थानेऽयमनरलके वक्ष्यमाणो विधिज्ञेयः ॥४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पाणिग्रहणसंस्कार** इति । हस्तग्रहणात्मकसंस्कारः गृह्योक्तः समानजातिषु गृह्यमाणासु शास्त्रेणोच्यते असजातिषु पुनः उह्यमानासु विवाहकर्मणि अयं वक्ष्यमाणो विधिः पाणिग्रहणस्थाने विज्ञेयः ॥ ३.४३ ॥
+</details>
+
+<details><summary>Bühler</summary>
+
+043	The ceremony of joining the hands is prescribed for (marriages with) women of equal caste (varna); know that the following rule (applies) to weddings with females of a different caste (varna).
+</details>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.४४ शरः क्षत्रियया</summary>
+
+शरः क्षत्रियया ग्राह्यः  
+प्रतोदो वैश्यकन्यया ।  
+वसनस्य दशा ग्राह्या  
+शूद्रयोत्कृष्टवेदने  ॥ ३.४४ ॥
+</details>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/044_sharaH_xatriyayA.md">
+<details><summary>गङ्गानथ-मूलानुवादः</summary>
+
+When being married to a man of higher caste, the Kṣatriya girl should take hold of the arrow, the Vaiśya girl of the goad and the Śūdra girl of the hem of the garment.—(44)
+</details>
+
+<details><summary>मेधातिथिः</summary>
+
+ब्राह्मणेनोह्यमानया **क्षत्रियया शरो** ब्राह्मणपाणिपरिगृहीतो **ग्राह्यः**, पाणिग्रहणस्थाने शरस्य विधानात् । **प्रतोदो** बलीवर्दानाम् आयासः क्रियते, येन वाह्यमानाः पीड्यन्ते हस्तिनाम् इवाङ्कुशः । **वसनस्य** वस्त्रस्य **दशा ग्राह्या शूद्रया** । **उत्कृष्ट**जातीयैर् ब्राह्मणादिवर्णैर् **वेदने** विवाहे ॥ ३.४४ ॥
+</details>
+
+<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
+
+When being wedded by a *Brāhmaṇa*, ‘*the Kṣatriya girl should take hold of*’ the arrow held in the hand of the Brāhmaṇa bridegroom; the arrow having been prescribed in place of the ‘taking of the hand.’
+
+‘*Goad*’—of oxen; it is made of iron, on being driven by which they suffer pain; just like the ‘*aṅkuśa*’ in the case of. elephants.
+
+‘*Of* *the garment*’—of the cloth,—‘the hem should be taken hold of by the *Śūdra* girl, when being married to men of the *Brāhmaṇa* and other higher castes. (44)
+</details>
+
+<details><summary>गङ्गानथ-टिप्पन्यः</summary>
+
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 835), which adds that what is meant by the phrase ‘*Kṣatriyayā grāhyaḥ*’ is that ‘the Kṣatriya girl should catch hold of the arrow already held by the bridegroom,’ and so on with the rest also.
+
+It is quoted also in *Parāśaramādhava* (Ācāra, p. 496);—and in
+*Smṛtitattva* (II, page 107).
+</details>
+
+<details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
+
+*Viṣṇu* (24.6-8).—‘In the marriage of girls of different castes, the
+Kṣatriya maiden should hold an arrow; the Vaiśya maiden, a goad; and the Śūdra maiden, the hem of the garment.’
+
+*Yājñavalkya* (1.62).—‘The Kṣatriya maiden should hold the arrow; and
+Vaiśya maiden the goad, when they are being married to the Brāhmaṇa.’
+
+*Śaṅkha* (Parāśaramādhava, p. 496).—‘The Kṣatriya girl holds an arrow;
+the Vaiśya girl holds a goad; the Śūdra girl, the hem of the garment; the Brāhmaṇa should hold the hand of the girl of the same caste as himself.’
+
+*Paiṭhīnasi* (Parāśaramādhava, p. 490).—‘The Brāhmaṇa should hold the
+hand including the thumb; the Kṣatriya girl should hold an arrow, the Vaiśya girl, a goad; and the Śūdra girl, the hem of the garment.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+क्षत्रियया पाणिग्रहणस्थाने ब्राह्मणविवाहे ब्राह्मणहस्तपरिगृहीतकाण्डैकदेशो ग्राह्यः । वैश्यया ब्राह्मणक्षत्रियविवाहे ब्राह्मणक्षत्रियावतधृतप्रतोदेकदेशो ग्राह्यः । शूद्रया पुनर्द्विजातित्रयविवाहे प्रावृतवसनदशा ग्राह्या ॥४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शर** इति । **क्षरियया **पाणिग्रहणस्थाने ब्राह्मणपाणिगृहीतशरप्रान्तो ब्राह्मणोद्वाहे **ग्राह्यः । वैश्यया** च ब्राह्मण[क्षत्रिय]पाणिपरिगृहीतदात्रादितोदनमयःप्रान्तं ब्राह्मणक्षत्रियोद्वाहे **ग्राह्यम् । शूद्रया **पुनर् द्विजात्युद्वाहे तत्तत्प्रावृतवस्त्रदशा ग्राह्याः ॥ ३.४४ ॥
+</details>
+
+<details><summary>Bühler</summary>
+
+044	On marrying a man of a higher caste a Kshatriya bride must take hold of an arrow, a Vaisya bride of a goad, and a Sudra female of the hem of the (bridegroom's) garment.
+</details>
+
+<details><summary>भारुचिः</summary>
+
+कस्यचिद् द्विजातेर् उद्वोढुः पूर्ववद् **उत्कृष्टवेदन** इति चेदं सर्वविवाहशेषः । कृतोद्वाहस्येदानीम् अर्थप्राप्त उपगमे तन्नियमार्थम् आरभ्यते –
 </details>
 </div>

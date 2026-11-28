@@ -2,7 +2,7 @@
 title = "०८ अनध्यायः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१०५ वेदोपकरणे चैव</summary>
 
 वेदोपकरणे चैव  
 स्वाध्याये चैव नैत्यके ।  
@@ -21,10 +21,12 @@ There is no regard for (observance of) days forbidden for study in connection wi
 
 **उपकरणम्** उपकारकं वेदाङ्गं कल्पसूत्रनिरुकाद्य् उच्यते । तस्मिन् पठ्यमाने **ऽनध्याये** ऽप्य् **अनुरोध** आदरो **नास्ति** । **अनध्याये होममन्त्रेषु चैव ह्य्** अनध्याया नादरणीयाः[^३२७] । अनध्यायेष्व् अध्येतव्यम् । न निरोध इति वा पाठः । निवृत्तिर् अनध्यायेष्व् अध्ययनस्य नास्ति । 
 
+
 [^३२७]:
      M G: nādaraṇīyā
 
 - यद्य् अप्य् अध्ययनविधिधर्मो ऽनध्यायेष्व् अनध्ययनम्, अध्ययनविधिश् च स्वाध्यायविषयः, स्वाध्यायश् च वेदो, न च वेदशब्दवाच्यान्य् अङ्गानि, तथापि वेदवाक्यमिश्रत्वात् तद्बुद्धिः[^३२८] स्याद् इति स्पष्टार्थम् उच्यते । 
+
 
 [^३२८]:
      M G 1st ed.: -miśratvabuddhiḥ; G 2nd ed.: -miśratvāt buddhiḥ
@@ -87,6 +89,16 @@ forbidden for the Obligatory Rites, nor in the offering of Twilight Prayers, nor
 for the study of the Subsidiary Sciences, or of Itihāsas and Purāṇas, or of the Dharmaśāstras. But these should be avoided on the *Parva* days.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदोपकरणे वेदाङ्गे शिक्षादौ नैत्यके नित्यानुष्ठेये च स्वाध्याये ब्रह्मयज्ञरूपे होममन्त्रेषु चानध्यायादरो नास्ति ॥१०५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+स्वाध्यायविधिवत् प्रकरणान्तरेणानध्यायाम्नानात् वेदवेदाङ्गोच्चारणधर्मत्वात् (शङ्कायां) ब्रह्मयज्ञादाव् अप्य् अनध्यायप्राप्ताव् आह **वेदोपकरण** इति । वेदोपकारके निरुक्तादाव् अङ्गे, नित्यभवे च **स्वाध्याये** ब्रह्मयज्ञाख्ये होमार्थं मन्त्रोच्चारणे वानध्यायानुरोधो नास्ति । वेदोपकरणादीनां प्रसङ्गाच् च लाघवार्थम्(अन्)अभिधानम् । **हि**शब्दः आगमप्रसूचकः ॥ २.१०५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 105	Both when (one studies) the supplementary treatises of the Veda, and when (one recites) the daily portion of the Veda, no regard need be paid to forbidden days, likewise when (one repeats) the sacred texts required for a burnt oblation.
@@ -135,7 +147,7 @@ for the study of the Subsidiary Sciences, or of Itihāsas and Purāṇas, or of 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१०६ नैत्यके</summary>
 
 नैत्यके नाऽस्त्य् अनध्यायो  
 ब्रह्मसत्त्रं हि तत् स्मृतम् ।  
@@ -191,6 +203,16 @@ This verse is quoted in *Madanapārijāta* (p. 282) along with 105, as setting f
 See Comparative notes for [Verse 2.105 (Non-observance of Holidays)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वोक्तनैत्यकस्वाध्यायस्यायमनुवादः । नैत्यके जपयज्ञेऽनध्यायो नास्ति, यतः सततभवत्वात् । ब्रह्मसत्रं तन्मन्वादिभिः स्मृतम् । ब्रह्मैवाहुतिर्ब्रह्माहुतिर्हविस्तस्यां द्रुतमनध्यायाध्ययनमध्ययनरूपमनध्या-यवषट्कृतमपि पुण्यमेव भवति ॥१०६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अत्रार्थवादम् आह **नैत्यक** इति । **नैत्यके** एकस्मिन् ब्रह्मयज्ञे **अनध्यायो नास्ति **। यस्मात् **ब्रह्मसत्रं** **तत्** मन्वादिभिः **स्मृतम्** । अतः सततप्रवृत्तगवामयनादिसत्रतुल्यत्वात् सर्वदैव तद् अनुष्ठेयम् । किम् अस्य सत्त्रसादृश्यम् इत्य् अत आह **ब्रह्माहुतितुअम्** इत्यादि । सत्त्रं सोमाहुत्याहुतं भवति । इदम् अपि वेदोच्चारणाहुत्याहुतं ब्रह्म, आहुतिर् इव आहुत्यर्थत्वात् पुण्यहेतुत्वाच् च सत्त्रतुल्यम् । सत्त्रं च प्रदानार्थेन वषट्कारेण युक्तं भवति । इदम् अपि अनध्यायाध्ययनात् **अनध्यायवषट्कृतम्** ॥ २.१०६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 106	There are no forbidden days for the daily recitation, since that is declared to be a Brahmasattra (an everlasting sacrifice offered to Brahman); at that the Veda takes the place of the burnt oblations, and it is meritorious (even), when (natural phenomena, requiring) a cessation of the Veda-study, take the place of the exclamation Vashat.
@@ -198,7 +220,7 @@ See Comparative notes for [Verse 2.105 (Non-observance of Holidays)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१०७ यः स्वाध्यायम्</summary>
 
 यः स्वाध्यायम् अधीते ऽब्दं  
 विधिना नियतः शुचिः ।  
@@ -258,6 +280,32 @@ satisfies the gods and the Pitṛs with honey and clarified butter;—he who rea
 
 *Āpastamba-Gṛhyasūtra* (3. 3. 2-3).—‘When one reads the Ṛk verses he
 satisfies the gods with offerings of milk;—when he reads the Yajuṣ verses, with offerings of clarified butter;—when he reads the Sāma verses, with offerings of honey;—when he reads the Atharvāñgiras verses, with offerings of Soma;—when he reads the Brāhmaṇas, the Kalpas, the Nārāśamsī hymns, the Itihāsas and the Purāṇas,—with offerings of nectar. When he reads the Ṛk verses, streams of milk reach his Pitṛs;—when he reads the Yajuṣ verses, streams of clarified butter;—when he reads the Sāma verses, streams of honey;—when he reads the tharvāúgiras verses, streams of Soma;—when he reads the Brāhmaṇas, the Kalpas, the Nārāśamsī hymns, the Itihāsas and Purāṇas, streams of nectar.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+अब्दमित्यन्तसंयोगे द्वितीया ।यो वर्षमप्येक स्वाध्यायसहरहविहिताङ्गयुक्तं नियत-
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+क्षेत्रसन्ध्याविधी समानकालावपि शक्यावनुष्ठातुम् । सदाशब्दो नित्यतामाह । उभयसन्ध्याशेषः आसीत् भासनमनूर्ध्वतावस्थानमुपविष्टो भवेत्, ऋक्षं नक्षत्रम्' आतद्विभावनात् आर्कदर्शनादिति य आकारः स शानुषक्तव्यः । सम्यक्शब्दो दर्शनविभावनयो विशेषणं सम्यग्यदा परिपूर्णमण्डल आदित्यो भवति नक्षत्राणि च भास्वन्ति स्वभासा युक्तानि नादित्यतजीभिभूतानि इति ॥
+
+न्द्रियः प्रयतो जपति, तस्यैव स्वाध्यायो जपयज्ञः क्षीरादीनि क्षरति क्षीरादिभिर्देवान्पितॄन्श्च प्रीणाति । ते च प्रीताः सर्वकामजपयज्ञकारिणस्तर्पयन्तीत्यथः । अत एव याज्ञवल्क्यः—
+
+**मधुना पयसा चव स देवांस्तर्पयेद् द्विजः ।**
+
+**पितॄन्मधुघृताभ्यां च ऋचोऽधीते हि योऽन्वहम् ॥ ( या० स्मृ० १-४१ )**
+
+इत्युपक्रम्य चतुर्णामेव वेदानां पुराणानां जपस्य च देवपितृतृप्तिफलमुक्त्वा शेषे
+
+**ते तृप्तास्तर्पयन्त्येनं सर्वकामफलैः शुभैः ।** ( या० स्मृ० १-४७ )
+
+इत्युक्तवान् ॥१०७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । एवं ब्रह्मयज्ञाख्यं **स्वाध्यायम्** अरण्ये गमनाद्युक्तविधानेन संयतमनाः **शुचिः **सन् **यः **संवत्सरम् **अधीते **तस्यैष **पयोदधिघृतमधूनि नित्यं** ददातीति । एवं च नित्यत्वे ऽपि फलकामनया फलम् अप्य् अतो भवति दर्शपौर्णमास्वत् ॥ २.१०७ ॥
 </details>
 
 <details><summary>Bühler</summary>

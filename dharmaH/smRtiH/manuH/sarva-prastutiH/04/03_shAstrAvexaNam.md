@@ -2,7 +2,7 @@
 title = "०३ शास्त्रावेक्षणम्"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१९ बुद्धिवृद्धिकराण्य्</summary>
 
 बुद्धि-वृद्धि-कराण्य् आशु  
 धन्यानि च हितानि च ।  
@@ -21,11 +21,14 @@ He shall always pore over such treatises as quickly enliven the intelligence, ar
 
 **बुद्धिवृद्धिकराणि** इतिहासपुराणानि तर्कशास्त्राणि बार्हस्पत्यौशनसादीनि[^६०] । **हितानि** उपकारकाणि दृष्टार्थानि वैद्यकज्यौतिषादीनि,[^६१] अर्थशास्त्रस्य पृथगुपदेशात् । **वैदिका निगमा** वेदार्थज्ञानहेतवो निगमनिरुक्तव्याकरणमीमांसाः । ऋचो[^६२] रुढिग्रहणे त्व् अदृष्टार्थता स्यात् ॥ ४.१९ ॥
 
+
 [^६२]:
      M G 1st ed. omit: ṛco
 
+
 [^६१]:
      M G: vaidyakajyotiṣādīni
+
 
 [^६०]:
      M G: bārhaspatyośanasādīni
@@ -72,6 +75,16 @@ which he does not shine, that he should acquire by going to the teacher again.�
 even after settling down in the house, the man shall reside for two months in the year with the Teacher, seeking for further knowledge. This however is forbidden by the scriptures.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदाविरुद्धानि शीघ्रं बुद्धिवृद्धिजनकानि व्याकरणमीमांसास्मृतिपुराणन्यायादीनि शास्त्राणि, तथा धन्यानि धनाय हितान्यर्थशास्त्राणि बार्हस्पत्योशनसादीनि, तथा हितानि दृष्टापकारकाणि वैद्यकज्योतिषादीनि, तथा पर्यायकथनेन वेदार्थावबोधकान्निगमाख्यांच ग्रन्थान्नित्यं पर्यालोचयेत् ॥१९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**बुद्धिवृद्धिकराणीति** । वेदाविरुद्धन्यायशास्त्रादीनि क्षिप्रं बुद्धिपाटवजनकानि धनार्थानि च औशनस्यादीनि **हितानि च **दृष्टोपकारकादीनि आयुर्वेदानीनि अनवगतशब्दार्थपर्यायकथनेन वेदार्थबोधकान् वेदार्थबोधकान् निगमाख्यान् ग्रन्थान् **नित्यं** पर्यालोचयेत् ॥ ४.१९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 019	Let him daily pore over those Institutes of science which soon give increase of wisdom, those which teach the acquisition of wealth, those which are beneficial (for other worldly concerns), and likewise over the Nigamas which explain the Veda.
@@ -84,7 +97,7 @@ even after settling down in the house, the man shall reside for two months in th
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२० यथा यथा</summary>
 
 यथा यथा हि पुरुषः  
 शास्त्रं समधिगच्छति ।  
@@ -126,6 +139,20 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 155), which explains ‘*r
 **
 
 See Comparative notes for [Verse 4.19].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+**\[ शास्त्रस्य पारं गत्वा तु भूयो भूयस्तदभ्यसेत् ।**
+
+**तच्छास्त्रं शबलं कुर्यान्न चाधीत्य त्यजेत्पुनः ॥२॥ \]**
+
+यस्माद्यथा यथा पुरुषः शास्त्रं सम्यगभ्यस्यति तथा तथा विशेषेण जानाति । शास्त्रान्तरविषयमपि चास्य विज्ञानं रोचत उज्ज्वलं भवति । दीप्त्यर्थत्वाद्रुचेरभिलाषार्थत्वाभावात् “रुच्यर्थानां प्रीयमाणः” (पा. सू. १ ।४ ।३३) इति न सम्प्रदानसंज्ञा ॥२०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथेति** । यस्मात् यावत् पुरुषः **शास्त्रं **सम्यक् विविनक्ति तावत् तत् तद् विशेषेण **जानाति **शास्त्रान्तरविषयम् अपि चास्य **विज्ञानम्** उज्ज्वलं भवति ॥ ४.२० ॥
 </details>
 
 <details><summary>Bühler</summary>

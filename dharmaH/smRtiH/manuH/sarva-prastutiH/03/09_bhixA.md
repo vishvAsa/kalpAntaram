@@ -1,7 +1,7 @@
 +++
 title = "०९ भिक्षा"
 +++
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.९४ कृत्वैतद्</summary>
 
 कृत्वैतद् बलिकर्मैवम्  
 अतिथिं पूर्वम् आशयेत् ।  
@@ -21,6 +21,7 @@ Having performed this rite of offerings, he should first feed his guest and then
 अतिथिलक्षणं वक्ष्यति । तम् अभ्यागतं सन्तं **पूर्वम् आशयेद्** भोजयेत्, सर्वभोक्तृभ्यो गृहसंनिहितेभ्यः । **भिक्षां भिक्षवे च** याचमानाय दद्यात् । **भिक्षा**शब्देन स्वल्पपरिमाणम् अन्नदानम् उच्यते । उक्तं हि "प्रसृतिर् भिक्षा" । अन्तःपुरप्रसिद्धं चैतत् । **ब्रह्मचारिणे विधिवत्** । अन्यस्मा अपि पाखण्डादिरूपाय भिक्षवे न विधिवद् दातव्या । ब्रह्मचारिणे तु विधिवत् स्वस्तिवाचनपूर्वं भिक्षादानम् इत्य् एष विधिः ।
 
 - <u>अथ वा</u> **भिक्षुः** परिव्राड्, **ब्रह्मचारी** प्रथमाश्रमी । चशब्दश् चास्थाने वृत्तानुरोधात् । **ब्रह्मचारिणे च** इति पठितव्यम् । एवं तु वानप्रस्थाय न दानं स्यात् । तस्माद् भिक्षते[^१७४] इति भिक्षुः, तस्यैव विशेषणं ब्रह्मचारिग्रहणम् । तेन त्रिभ्यो ऽप्य् आश्रमिभ्यो भिक्षादानं नियमतो ऽनुज्ञातं भवति । पाखण्डादीनां तु पतितादिवत् । सर्वग्रहणेन भिक्षोपकारो यथाशक्ति विहित एव ॥ ३.८४ ॥
+
 
 [^१७४]:
      M G 1st ed: bhikṣa
@@ -83,6 +84,16 @@ offerings have been made to the Viśvedevas, the Householder shall keep aside fo
 *Bhikṣuka*, seeker for Alms.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एवमुक्तप्रकारेणैतद्वलिकर्म कृत्वा गृहभोक्तृभ्यः पूर्वमतिथिं भोजयेत् । भिक्षवे परिव्राजे ब्रह्मचारिणे प्रथमाश्रमिणे च विधिवत्स्वस्तिवाच्य भिक्षादानमपूर्वमिति गौतमाद्युक्तविधिना भिक्षां दद्याव। ग्रासप्रमाणा च भिक्षा भवति । “ग्रासमात्रा भवैद्भिशा" इति शातातपवचनात् । सम्भवे त्वधिकमपि देयम् ॥९४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कृत्वेति** । **एवम् **उक्तस्वरूपेण **एतद् बलिकर्म **कृत्वा सर्वगृहभोक्तृभ्यः पूर्वं **अतिथिं **पूजयेत् । भिक्षणशीलाय ब्रह्मचारिणे समकालम् एव “स्वस्तिवाच्य भिक्षादानं अप्पूर्वम्” इति गौतमोक्तविधानेन भिक्षां दद्यात् ॥ ३.९४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 094	Having performed this Bali offering, he shall first feed his guest and, according to the rule, give alms to an ascetic (and) to a student.
@@ -90,7 +101,7 @@ offerings have been made to the Viśvedevas, the Householder shall keep aside fo
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.९५ यत् पुण्यफलम्</summary>
 
 यत् पुण्यफलम् आप्नोति  
 गां दत्त्वा विधिवद् गुरोः ।  
@@ -109,8 +120,10 @@ The twice-born householder, giving alms, obtains the same reward for merit which
 
 नित्यं भक्तदानम् अर्थिने शक्तितो दातव्यम् । इदं त्व् अधिकारान्तरम् । यद् गुरवे गा दत्त्वा फलम् आप्नोति तद् भिक्षां दत्त्वा, गोव्रतस्याविशिष्टम् इति । स्मृत्यन्तरे सर्वफलता पापप्रमोचनार्थतापि गोदानस्य श्रुता । यावताम् अल्पोपकाराणां महोपकारैः फलसाम्यम् उच्यते, तेषां लोकवत् परिमाणतः फलविशेषो ऽवगन्तव्यः । प्राप्यते तद् एव फलम्, न तु चिरकालम् । आवाच्यो[^१७५] ह्य् अयं न्यायः- "पणलभ्यं हि कः[^१७६] प्राज्ञः क्रीणाति दशभिः पणैः" इति । समानफलत्वे महाप्रयासानर्थक्यं प्राप्नोति । "अगुर् यथाविधि" इति केचित् पठन्ति । तत्र नञल्पवचनो द्रष्टव्यो ऽल्पगुर् इति । । **पुण्यं** धर्मस् तस्य **फलम्** ॥ ३.८५ ॥
 
+
 [^१७६]:
      M G: tat
+
 
 [^१७५]:
      M G 1st ed.: āvacyo
@@ -141,6 +154,16 @@ gives food to one who is seeking for alms.’
 highest reward: by worshipping him, he attains heaven; neither by Vedic Study, nor by Agnihotra, nor by sacrifices and Purāṇas does the Householder attain those regions which he attains by the honouring of the guest; shelter, bed, oiling of the feet and light, by giving to the guest each one of these, one obtains the same reward that one does by giving a cow.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गुरवे गां दत्त्वा विधिवत्स्वर्णवङ्गिकादिविधानेन यत्फलं प्राप्नोति तद् गृहस्थो विधिना मिक्षादानात्प्राप्नोति ॥९५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यत् पुण्यफलम्** इति । “अल्पगुर् हेमश्ट्ङ्गी” इत्य् आदियाज्ञवल्क्योक्तविधिना गां दत्वा यत् पुण्यफलं “गोदो ब्रध्नस्य विष्टपम्” इति प्राप्नोति तद् एव द्विजगृहस्थः भिक्षां दत्वा प्राप्नोति ॥ ३.९५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 095	A twice-born householder gains, by giving alms, the same reward for his meritorious act which (a student) obtains for presenting, in accordance with the rule, a cow to his teacher.
@@ -153,7 +176,7 @@ highest reward: by worshipping him, he attains heaven; neither by Vedic Study, n
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.९६ भिक्षाम् अप्य्</summary>
 
 भिक्षाम् अप्य् उदपात्रं वा  
 सत्कृत्य विधिपूर्वकम् ।  
@@ -177,8 +200,6 @@ In accordance with scriptural injunctions, one should make over to the Brāhma�
 
 [^१७७]:
      M G 1st ed. omit: satkṛtya pūjayitvā
-
-_प्राप्ते दाने दोषः ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -237,6 +258,16 @@ then only a pot of water.’
 pronounce the syllable *svasti*,—it is excellent.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रचुरान्नाभावेग्रासप्रमाणां भिक्षामपि व्यञ्जनादिना सत्कृत्य तदभावे जलपूर्णपात्रमपि फलपुष्पादिना सत्कृत्य तत्त्वतो वेदतदर्थज्ञानवते ब्राह्मणाय स्वस्तिवाच्येत्यादि विधिपूर्वकं दद्यात् ॥९६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भिक्षाम्** इति । फलपुष्पादिना सत्कृत्य पारमार्थिकवेदार्थज्ञाय ब्राह्मणाय स्वस्तिवाच्येत्यादिविधिपूर्वकं प्रतिपादयेत् इति ब्रह्मचारिभिक्षादानाद् विध्यन्तरम् इदम् । तथा च वसिष्ठः- “श्रोत्रियाय अन्नं दत्वा ब्रह्मचारिणे” इत्य् आह ॥ ३.९६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 096	Let him give, in accordance with the rule, to a Brahmana who knows the true meaning of the Veda, even (a small portion of food as) alms, or a pot full of water, having garnished (the food with seasoning, or the pot with flowers and fruit).
@@ -244,7 +275,15 @@ pronounce the syllable *svasti*,—it is excellent.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_प्राप्ते दाने दोषः ।_
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.९७ नश्यन्ति</summary>
 
 नश्यन्ति हव्य-कव्यानि  
 नराणाम् अविजानताम् ।  
@@ -265,8 +304,6 @@ Rites in honour of the gods and those in honour of the Pitṛs performed by igno
      M G: bhasmībhūteṣu
 
 पूर्वेण यादृश्ē देयं तत् पत्रम् उक्तम् । अनेनापत्रे ददतः प्रतिषेधः । **नश्यन्ति** निष्फलानि भवन्ति । **हव्यानि** देवतोद्देशेन यानि ब्राह्मणभोजनादीनि क्रियन्ते । पित्र्यकर्माङ्गभूतान्य् अन्यानि **कव्यानि** श्राद्धानि । **भस्मभूतेषु** । भस्मतां प्राप्ता भस्मभूता । उपमाने वा भूतशब्दः, भस्मानीव, यथा काष्ठभूत इति । किं पुनर् भस्मना साम्यम् । यथा तन् न क्वचिद् उपयुज्यते ऽवकररूपम् अपोह्यम् एवम् ईदृशो ब्राह्मणः क्रियाभ्यो ऽपोहितव्य इति तात्पर्यार्थः । **नराणाम् अविजानतां नश्यन्तीति** संबन्धः । **मोहाद् दत्तानि दातृभिः** । अविजानतां मोहाद् इति चानुवादः । यच् छास्त्रेणापोहितं तन् मोहाद् एव क्रियते ॥ ३.८७ ॥
-
-_कीदृशाः पुनर् अभस्मभूताः । तान् आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -315,6 +352,16 @@ near him, when offering food and gifts, he damages his merit extending over thre
 man learned in the Veda, he becomes freed from heinous sins, and attains union with Brahman.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मोहाद्यत्पात्रानभिज्ञतया देवपित्रुद्दशेनान्नानि वेदाध्ययनतदर्थज्ञानानुष्ठानतेजःशून्यतया भस्मरूपेषु पात्रेषु दत्तानि दातृभिनिष्फलानि भवन्ति ॥९७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नश्यन्तीति** । यानि पितृदैवोद्देशेन अन्नानि **मोहात्** दानशास्त्रानभिज्ञतया **दातृभिः** अध्ययनविधियज्ञानुष्ठानतेजःशून्यत्वात् **भस्म**रूपेषु **विप्रेषु** **दत्तानि** तानि तेषां दानशास्त्रानभिज्ञानां मनुष्याणां निष्फलीभवन्ति ॥ ३.९७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 097	The oblations to gods and manes, made by men ignorant (of the law of gifts), are lost, if the givers in their folly present (shares of them) to Brahmanas who are mere ashes.
@@ -322,7 +369,15 @@ man learned in the Veda, he becomes freed from heinous sins, and attains union w
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_कीदृशाः पुनर् अभस्मभूताः । तान् आह ।_
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.९८ विद्यातपःसमृद्धेषु</summary>
 
 विद्या-तपः-समृद्धेषु  
 हुतं विप्रमुखाग्निषु ।  
@@ -370,6 +425,28 @@ This verse is quoted without comment in *Vīramitrodaya* (Āhnika, p. 434).
 See Comparative notes for [Verse 3.97].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ अनर्हते यद्ददाति न ददाति यदर्हते ।**
+
+**अर्हानर्हापरिज्ञानाद्धनी धर्मान्न हीयते ॥३॥**
+
+**काले न्यायागतं पात्रे विधिवत्प्रतिपादितम् ।**
+
+**ददाति परमं सौख्यमिह लोके परत्र च ॥४॥**
+
+**प्रतिग्रहेण शुद्धेन शस्त्रेण क्रयविक्रयात् ।**
+
+**यथाक्रमं द्विजातीनां धनं न्यायादुपागतम् ॥५॥ \]**
+
+विद्यातपस्तेजःसम्पन्नविप्राणां मुखानि होमाधिकरणत्वेनाग्नितया निरूपितानि । तेषु हव्यकन्यादि प्रक्षिप्तमिह लोके दुस्तराद्व्याधिशत्रुराजपीडादिभयान्महतश्च पापादमुत्र नरकात्त्रायते ॥९८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विद्यातपःसमृद्देष्व् **इति । ज्ञानानुष्ठानतेजःसम्पन्नेषु **विप्रमुखेषु **अग्नितुल्येषु हव्यकव्यादि यत् प्रक्षिप्तं तद् इह दुस्तरात् शत्रुव्याध्याद्यभिभवात् अमुत्र च महतः पापात् त्रायते ॥ ३.९८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 098	An offering made in the mouth-fire of Brahmanas rich in sacred learning and austerities, saves from misfortune and from great guilt.
@@ -382,7 +459,7 @@ See Comparative notes for [Verse 3.97].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.९९ सम्प्राप्ताय</summary>
 
 सम्प्राप्ताय त्व् अतिथये  
 प्रदद्याद् आसनोदके ।  
@@ -395,6 +472,7 @@ See Comparative notes for [Verse 3.97].
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 To the guest that has happened to come, he should offer; according to rule, water and seat, and also food prepared to the best of his abilitv.—(99)
+
 
 annaṃ hutvā vidhānena yatpuṇyaphalamaśanūte | 
 tena tus?yaṃ viśiṣṭaṃ vā brāhmaṇe tarpite phalam || 
@@ -458,6 +536,16 @@ the guest both seat and water, as also food to the best of his power, after havi
 best of one’s capacity; and in the evening the guest is not to be deprived of sweet words, place and water.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वयमागताय त्वतिथये आसनं पादप्रक्षालनादुकं यथासम्भवं व्यञ्जनादिभिः सत्कृतं वान्नम् “आसनावसथौ” ( म. स्मृ. ३ /१०७ ) इत्यादिवक्ष्यमाणविधिपूर्वकं दद्यात् ॥९९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सम्प्राप्तायेति** । स्वयम् उपस्थितायातिथये आसनाचमनादि उदकान्नं च व्यजनविशेषैः यथासम्भवं सत्कृत्य “आसनावसथौ” इत्यादिवक्ष्यमाणविधिपूर्वकं दद्यात् ॥ ३.९९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 099	But let him offer, in accordance with the rule, to a guest who has come (of his own accord) a seat and water, as well as food, garnished (with seasoning), according to his ability.
@@ -465,7 +553,7 @@ best of one’s capacity; and in the evening the guest is not to be deprived of 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१०० शिलान् अप्य्</summary>
 
 शिलान् अप्य् उञ्छतो नित्यं  
 पञ्चाग्नीन् अपि जुह्वतः ।  
@@ -487,6 +575,7 @@ A Brāhmaṇa staying unhonoured (in one’s house) takes away all his merit, ev
 - <u>अथ</u> को ऽयं सभ्यो नामाग्निः । 
 
 - <u>एवं</u> ह स्माहुः । ग्रामान्तरे प्रोषितस्य यत्र लौकिकपाकः क्रियते महासाधनस्य बहुवेश्मसु यो गृह्यागाराद्[^१८१] एव शीतापनोदार्थं विह्रियते स सभ्यः । 
+
 
 [^१८१]:
      M G: gṛhāgārād
@@ -555,6 +644,16 @@ disappointed, his Pitṛs do not partake of anything in that house for fifteen y
 day after day, the Vedas and the subsidiaries, if he honours not his guest, all study becomes futile. He who honours not the guest arrived after the Viśvadeva offering, immediately becomes a Caṇḍāla. If a man turns out a guest from his house, arrived at the right time and place, he becomes an outcast at that very moment.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+लूनकेदारशेषधान्यानि शिलास्तानप्युच्चिन्वतो वृत्तिसंयमान्वितस्य, त्रेता, आवसथ्यः, सभ्यश्चेति पञ्चाग्नयः । सभ्यो नामाग्निः शीतापनोदाद्यर्थं यस्तत्र प्रगीयते । पञ्चस्त्रनिषु होमं कुर्वाणस्यापि सर्ववृत्तिसङ्कोचेन पञ्चाग्निहोमार्जितपुण्यमनर्चितोऽतिथिर्वसन्गृह्णाति । अनया च निन्दयाऽतिथ्यर्चनस्य नित्यताऽवगम्यते ॥१००॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शिलान् अप्य् उञ्छतो नित्यम्** इति । अतिदौर्गत्या वृत्तिसंयमातिशयार्थितया शिलान् क्षेत्रफलदोषान् अप्य् उच्चिन्वतः सभ्यावसथ्याभ्यां सह त्रेतया पञ्चस्व् अप्य् अग्निषु होमं वा कुर्वाणस्य सर्ववृत्तिसङ्कोचाग्निहोमार्जितं पुण्यं अनर्चितो ऽतिथिर् वसन् स्वीकरोति । अदानदोषकथनेन नियमान् आह सभ्यो नामाग्निः महासाधन इति । सीताद्यपनुत्त्यर्थं यस् तत्र तत्र विहीयते ॥ ३.१०० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 100	A Brahmana who stays unhonoured (in the house), takes away (with him) all the spiritual merit even of a man who subsists by gleaning ears of corn, or offers oblations in five fires.
@@ -562,7 +661,7 @@ day after day, the Vedas and the subsidiaries, if he honours not his guest, all 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१०१ तृणानि भूमिर्</summary>
 
 तृणानि भूमिर् उदकं  
 वाक् चतुर्थी च सूनृता ।  
@@ -645,6 +744,16 @@ a patricide, if he has arrived at the proper time and place, he should be fed.�
 
 *Hārīta* (Do., p. 449).—‘If a guest arrives,—be he a recluse or a
 householder or an accomplished student,—to him he shall offer welcome, water for washing the feet and rinsing the mouth, and seat; as also all the vegetables that may be available; when he departs, he should go with him; thus do his forefathers become pleased; and he should turn hack only when permitted to do so by the guest; if he however stays at the house, he should be duly attended upon.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+अन्नासंभवे पुनस्तृणविश्रामभूमिपादप्रक्षालनाद्यर्थजलप्रियवचनान्यपि धार्मिकगृहेष्वतिव्यर्थ न कदाचिदुच्छिद्यन्ते अवश्यदेयानीति विधीयते । तृणग्रहणं शयनीयोपलक्ष गार्थम् ॥१०१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अन्नासम्भवे पुनः **तृणानीति** । **तृणानि **विश्रामभूम्याचमनाद्युदकप्रियसत्यवचनानि साधुगृहेषु अतिथ्यर्थं न कदाचिद् अप्य् **उच्छिद्यन्ते** । अतो ऽन्नाभावे एतान्य् अवश्यं देयानि॥ ३.१०१ ॥
 </details>
 
 <details><summary>Bühler</summary>

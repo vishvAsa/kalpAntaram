@@ -2,7 +2,7 @@
 title = "१९ परवस्तुप्रयोगः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२०१ परकीयनिपानेषु न</summary>
 
 परकीयनिपानेषु  
 न स्नायाद् +धि कदा चन [क्:स्नायाच् च कदा चन] ।  
@@ -59,6 +59,28 @@ others.’
 and wells built by others; the builder becomes a partaker in the merit: one should bathe there after throwing in three handfuls of earth (and three jarfuls of water).’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ सप्तोद्धृत्य ततः पिण्डान्कामं स्नायाच्च पञ्चधा ।**
+
+**उदपानात्स्वयं ग्राहाद्वहिः स्नात्वा न दुष्यति ॥६॥ \]**
+
+निपानं जलाधारः ।परकृतपुष्करिण्यादिषु न कदाचित्स्नायात् । तत्र स्नात्वा पुष्करिप्यादिकर्तुर्यत्पापं तस्यांशेन वक्ष्यमाणचतुर्थ भागरूपेण सम्बध्यते । अकृन्निमनद्याद्यसम्भवे परकृतेऽपि पुष्करिण्यादौ प्राकप्रदानात्पञ्च पिण्डानुदूद्धृत्य स्नातव्यम् । तदाह याज्ञवल्क्यः—
+
+**पञ्च पिण्डाननुद्धृत्य न स्नायात्परवारिषु ।**
+
+**उद्धृत्य चतुरः पिण्डान्पारक्ये स्नानमाचरेत् ।**
+
+**स्नात्वा च तर्पयेद्देवान्पितॄंश्चैव विशेषतः ॥**
+
+( या. स्मृ. १-१५९ ) ॥२०१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**परकीयनिपानेष्व्** इति । परकीयपुष्करिण्यादिषु **न** कदाचिद् अपि **स्नायात्** । तत्र स्नात्वा तत् पुष्करिण्यादिषु यत् पापं कतुः तच्चतुर्थांशेन वक्ष्यमाणेन सम्बध्यते । धार्मिकाणाम् अपि सञ्चितकृतं जन्मान्तरकृतं दुष्कृतं भवत्य् एव । अतो न धार्मिकनिपानस्नानेन पापाभावप्रसङ्गः ॥ ४.२०१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 201	Let him never bathe in tanks belonging to other men; if he bathes (in such a one), he is tainted by a portion of the guilt of him who made the tank.
@@ -71,7 +93,7 @@ and wells built by others; the builder becomes a partaker in the merit: one shou
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२०२ यानशय्यासनान्य्</summary>
 
 यान-शय्यासनान्य् अस्य  
 कूपोद्यान-गृहाणि च ।  
@@ -117,6 +139,16 @@ This verse is quoted in *Aparārka* (p. 237).
 
 *Yājñavalkya* (l.160).—‘He shall avoid beds, seats, gardens, horses and
 conveyances belonging to others, unless they are offered to him.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+अस्येति प्रकृतः पुनः परामृश्यते । परस्य यानादीन्यदत्तान्युपयुञ्जानस्तदीयपापचतुर्थभागभागो भवति । अदत्तानीति परस्यानुमत्यभावश्च विवक्षितः । तेन सर्वार्थोत्सृष्टमठकूपादा बुपयोगार्थात्मस्नानादौ न विरोधः ॥२०२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यानशय्यासनानीति **। **यानशय्यासनानि **रथखट्वामञ्चकादीनि कूपारामगृहाणि च परस्य सम्बन्धीनि **अदत्तान्य् उपयुञ्जानः **तत्पापस्य चुतुर्भागं प्राप्नोति । अत्र च परकीयग्रहणात् अदत्तग्रहणाच् च सर्वार्थोत्सृष्टानुज्ञातस्नाने नास्ति दोषः ॥ ४.२०२ ॥
 </details>
 
 <details><summary>Bühler</summary>

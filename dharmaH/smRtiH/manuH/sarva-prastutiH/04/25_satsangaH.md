@@ -2,7 +2,7 @@
 title = "२५ सत्सङ्गः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२४४ उत्तमैर्</summary>
 
 उत्तमैर् उत्तमैर् नित्यं  
 सम्बन्धान् आचरेत् सह [मेधातिथिपाठः - सम्भन्धान्] ।  
@@ -16,6 +16,7 @@ title = "२५ सत्सङ्गः"
 
 Being desirous of raising his family to eminence, he shall always form connections with superior kinds of people; he shalt, avoid all inferior ones.—(244) 
 
+
 viśuddhāḥ karmami(bhi?)ścaiva śrutismṛtinidarśitaiḥ | 
 aviplutabrahmacaryā mahākulasamanvitāḥ | 
 mahākule ye manbaddhā mahattve ca vyavasthitāḥ ||
@@ -27,6 +28,7 @@ a??odhanāḥ suprasādāḥ kārthāssambandhinaḥ sadā ||
 <details><summary>मेधातिथिः</summary>
 
 बहुप्रकारत्वाद् उत्तमस्य तदपेक्षा वीप्सा । कश्चिज् जात्योत्कृष्टः कश्चिद् विद्यया कश्चिच् छीलेन । अथ वा संबन्धिभेदाद् यः कश्चित् संबन्धो येन[^२९३] केनचिद् उत्तमेन योग्यः । 
+
 
 [^२९३]:
      M G omit: yena
@@ -67,6 +69,16 @@ and as description of ‘*adharma*’ they quote Manu 3.150-152.
 It is quoted in *Saṃskāramayūkha* (p. 75);—and in *Smṛticandrikā* (Saṃskāra, p. 205).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कुलमुत्कर्षं नेतुमिच्छन्विद्याचारजन्मादिभिरुत्कृष्टैःसह सर्वदा कन्यादानादिसम्बन्धानाचरेत् ।अपकृष्टांस्तु सम्बन्धांसत्यजेत् ।उत्तमविधानादेवाधनपरित्यागे सिद्धे यत्पुनरधमांस्त्यजेदित्यभिधानांतदुत्तमासम्भवे स्वतुल्याद्यनुज्ञानार्थम् ॥२४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उत्तमर् उत्तमैर् सार्धम्** इति । कुलम् उत्कृष्टतां नेतुम् इच्छन् श्रुताभिजनाद्युत्कृष्टैः सह अनवरतं कन्यादानादिसम्बन्धान् आचरेत् । अपकृष्टान् तत्सम्बन्धेषु परिहरेत् । उत्तमविधानाद् एवाधर्मव्यावृत्तिसिद्धये पृथग्वचनम् उत्तमाभावे समाभ्यनुज्ञानार्थम् ॥ ४.२४४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 244	Let him, who desires to raise his race, ever form connexions with the most excellent (men), and shun all low ones.
@@ -79,7 +91,7 @@ It is quoted in *Saṃskāramayūkha* (p. 75);—and in *Smṛticandrikā* (Sa�
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२४५ उत्तमान्</summary>
 
 उत्तमान् उत्तमान् एव  
 गच्छन् हीनांस् तु वर्जयन् ।  
@@ -98,8 +110,10 @@ Having recourse to superior kinds of people, and avoiding the inferior kinds, th
 
 **उत्तमान् गच्छंस्** तैः सह संबन्धं कुर्वन् **ब्राह्मणः श्रेष्ठताम् एति** । ब्राह्मणग्रहणं क्षत्रियवैश्ययोर् अपि प्रदर्शनार्थम् । **प्रत्यवायेन** विपरीताचरणेन हीनैः सह संबन्धेन[^२९४] प्रातिलोम्येन **शूद्रतां** गच्छति । जातेर् अनपायात् तत्तुल्यतां[^२९५] प्राप्नोतीत्य् उक्तं भवति ॥ ४.२४५ ॥
 
+
 [^२९५]:
      M G 1st ed.: anapāyas tāṃ tulyatāṃ
+
 
 [^२९४]:
      M G: saṃbandhinaḥ
@@ -110,6 +124,16 @@ Having recourse to superior kinds of people, and avoiding the inferior kinds, th
 ‘*Having recourse to superior people*;’—*i.e*., forming connections with them,—‘*the Brāhmaṇa attains eminence*.’ The term, ‘*brāhmaṇa*,’ standing for the *Kṣatriya* and the *Vaiśya* also.
 
 ‘*By the contrary procedure*,’—by adopting the opposite process—*i.e*., by forming connections with inferior people—the man becomes a *Śūdra*. Since it is not possible for the caste of a man to disappear, what is meant is that he becomes *equal to the Śūdra*.—(245)
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+उत्तमान्गच्छंस्तैः सह सम्बन्धं कुर्वन्ब्राह्मणः श्रेष्ठ गच्छति । प्रत्यवायेन विपरीताचारेण हीनैः सह सम्बन्धे जातेरपकर्षतया शूनतुल्यतामेति ॥२४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उत्तमान् उत्तमान् एव गच्छन् हीनांश् च वर्जयन्न्** इति । उत्तमसम्बन्धेषू उत्तमाननुसरन् निकृष्टांश् च **वर्जयन् ब्राह्मणः श्रेष्ठत्वं **प्राप्नोति । विपर्ययन् पुनः जातेर् अनपायात् शूद्रतुल्यतां** **प्राप्नोति ॥ ४.२४५ ॥
 </details>
 
 <details><summary>Bühler</summary>
@@ -124,7 +148,7 @@ Having recourse to superior kinds of people, and avoiding the inferior kinds, th
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२४६ दृढकारी मृदुर्</summary>
 
 दृढकारी मृदुर् दान्तः  
 क्रूराचारैर् असंवसन् ।  
@@ -143,6 +167,7 @@ He who acts resolutely, is gentle and tolerant, who does not associate with pers
 
 कर्तव्येषु दृढनिश्चयो **दृढकारी** । यत् करोति तद् अवश्यं समापयति न पुनः कार्यम् आरभ्यासमाप्य निवर्तते । नानवस्थित इत्य् अर्थः । तद् उक्तम् "प्रारब्धस्यान्तगमनम्" (श्सूक्ता ७९) । **मृदुर्** अनिष्ठुरः । **क्रूराचारैः** स्तेनादिभिर् न संबन्धः । तैः सह संबन्धम् अकुर्वन् । तथा[^२९६] **दमदानाभ्यां स्वर्गं जयेत्** प्राप्नुयात् । **तथाव्रतः** । एतद् व्रतं नियमं धारयन् । दमस्य पृथग् उपादानाद् दान्तो द्वन्द्वसहिष्णुर् द्रष्टव्यः ॥ ४.२४६ ॥
 
+
 [^२९६]:
      M G: yathā
 </details>
@@ -158,6 +183,16 @@ He who acts resolutely, is gentle and tolerant, who does not associate with pers
 ‘*By means o f self-control and liberality*, *he wins heaven*’— ‘*if he sticks to this practice*;’—*i.e*., observing the said rules.
 
 ‘*Self-control*’ being mentioned separately, the term, ‘*dāntaḥ*,’ should he taken to mean ‘tolerant of opposition.’—(246)
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+प्रारब्धसम्पादयितादृढकारी मृदुरनिष्ठरः, दमस्य पृथगुपादानाद्इति शीतातपादिद्वन्द्वसहिष्णुग्रहीतव्यः । क्रूराचारैः पुरुषैः संसर्गंपरिहरन् परहिंसानिवृत्तः, तथाव्रत एव नियमदमेन्द्रियसंयमाख्येन च दानेन स्वर्गं प्राप्नोति ॥२४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दृढकारीति** । आरब्धसम्पादनशक्तिः अक्रूरः शीतातपादि, द्वन्द्वसहिष्णुः निर्दयाचारैः सहावसन् अहिंसको यः स एवं नियमः सदमेनोपशमेन इन्द्रियसंयमाख्येन दानेन च स्वर्गं प्राप्नुयात् ॥ ४.२४६ ॥
 </details>
 
 <details><summary>Bühler</summary>

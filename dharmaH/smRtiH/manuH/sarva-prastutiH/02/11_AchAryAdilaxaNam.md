@@ -2,7 +2,7 @@
 title = "११ आचार्यादिलक्षणम्"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१४० उपनीय तु</summary>
 
 उपनीय तु यः शिष्यं  
 वेदम् अध्यापयेद् द्विजः ।  
@@ -25,22 +25,28 @@ The Brāhmana who, having initiated a pupil, teaches him the Veda along with the
 
 - <u>अन्ये</u> तु **रहस्यं** वेदार्थं वर्णयन्ति । तेन न स्वरूपग्रहणमात्राद् आचार्यकनिष्पत्तिः,[^३८९] अपि तु तद्व्याख्यानसहितात् । तथा चाभिधानकोशे ऽभिहितम्- "विवृणोति च मन्त्रार्थान् आचार्यः सो ऽभिधीयते" (म्भ् १४. अप्प्। ४- २५२८) इति । मन्त्रग्रहणं वेदवाक्योपलक्षणार्थम् । 
 
+
 [^३८९]:
      M G 1st ed.: ācāryakaniṣpattiḥ
 
 - अस्मिंश् च व्याख्याने ऽर्थावबोधो ऽप्य् आचार्यकरणविधिप्रयुक्तः स्यान् न केवलं संपाठमात्रम् । ततश् च सर्वस्य सर्वः[^३९०] स्वाध्यायविधेर्[^३९१] अनुष्ठापकः स्यात् । अस्तु परप्रयुक्ते ऽप्य् अनुष्ठाने स्वाध्यायविधेर् ब्रह्मचारिणः स्वार्थसिद्धिः । यदा तर्हि काम्यत्वाद् आचार्यकरणविधेर् आचार्यो न प्रवर्तते, तदा स्वाध्यायविध्यर्थानुष्ठानं न प्राप्नोति । ततश् च नित्यः[^३९२] स्वाधायविधिः स्यात् । न च रहस्यशब्दो वेदार्थवचनतया प्रसिद्धः । तस्मात् पूर्वम् एव रहस्यग्रहणस्य प्रयोजनम् । प्राधान्याद् वा पृथग् उपादानम् । यत् तु "विवृणोति च मन्त्रार्थान्" इत्य् अस्मृतिर् एवैषा, मन्त्रशब्दस्योपलक्षणत्वे प्रमाणाभावात् । तस्मात् पाठाभिप्रायम् अस्य विधेः प्रयोजकत्वम्[^३९३] । अतो वेदस्वरूपग्रहणे माणवकस्य जाते आचार्यकरणविधिनिर्वृत्तिः[^३९४] ॥ २.१४० ॥
 
+
 [^३९४]:
      M G: -nivṛttiḥ
+
 
 [^३९३]:
      M G: aprayojakatvam
 
+
 [^३९२]:
      M G: nitya
 
+
 [^३९१]:
      M G 1st ed.: -vidhir
+
 
 [^३९०]:
      M G 1st ed.: sarveṇa sarva-
@@ -117,6 +123,16 @@ is called the *Ācārya*.’
 truthful in speech, steady, expert, kind to all beings, orthodox, devoted to the Veda and pure.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो ब्राह्मणः शिष्यमुपनीय कल्परहस्यसहितां वेदशाखां सर्वामध्यापयति तमाचार्यं पूर्वं मुनयो वदन्ति । कल्पो यज्ञविद्या, रहस्यमुपनिषत् । वेदत्वेऽप्युपनिषदां प्राधान्यविव क्षया पृथङ् निर्देशः ॥१४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+सोपचारत्वाद् आचार्यादिलक्षणं पूर्ववैचित्र्यार्थम् आह **उपनीयेति** । **यः शिष्यं** उपनयनपूर्वकं कल्पसूत्रोपनिषत्सहितं **वेदम् अध्यापयति तम् आचार्यं** मन्वादय आहुः । **रहस्यस्य **वेदशब्देन ग्रहणे सति प्राधान्यात् पृथग् उपदेशः ॥ १.१४० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 140	They call that Brahmana who initiates a pupil and teaches him the Veda together with the Kalpa and the Rahasyas, the teacher (akarya, of the latter).
@@ -145,7 +161,7 @@ truthful in speech, steady, expert, kind to all beings, orthodox, devoted to the
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१४१ एकदेशं तु</summary>
 
 एकदेशं तु वेदस्य  
 वेदाङ्गान्य् अपि वा पुनः ।  
@@ -163,6 +179,7 @@ He is called “Upādhyāya,” “Sub-teacher,” who teaches, for a living, on
 <details><summary>मेधातिथिः</summary>
 
 **वेदस्यैकदेशो**[^३९५] मन्त्रः ब्राह्मणं वा । वेदवर्जितानि वा केवलान्य् **अङ्गान्य्** एव **यो ऽध्यापयति** तथा सर्वम् अपि वेदम् । **वृत्थ्यर्थं** जीविकार्थम्, नाचार्यकरणविधिवशेन, **स उपाध्यायो** नाचार्यः । अन्येनोपनीतं यः कृत्स्नम् अपि वेदम् अध्यापयति नासाव् आचार्यः । उपनीयापि यः कृत्स्नं वेदं नाध्यापयति सो ऽपि नाचार्यः । 
+
 
 [^३९५]:
      G J: vaidasyaika-
@@ -209,6 +226,16 @@ the Veda.’
 teaches a portion of the Veda, is the *Upādhyāya*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदस्यैकदेशं मन्त्रं ब्राह्मणं च वेदरहितानि व्याकरणादीन्यङ्गानि यो वृत्यर्थमंध्यापयति स उपाध्याय उच्यते ॥१४१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकदेशम्** इति । वेदभागं वेदाङ्गानि वा शिक्षाकल्पनिरुक्तव्याकरणज्योतिषछन्दांसि यो जीविकार्थम् अर्पणपूर्वम् **अध्यापयति स उपाध्याय उच्यते **॥ १.१४१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 141	But he who for his livelihood teaches a portion only of the Veda, or also the Angas of the Veda, is called the sub-teacher (upadhyaya).
@@ -216,7 +243,7 @@ teaches a portion of the Veda, is the *Upādhyāya*.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१४२ निषेकादीनि</summary>
 
 निषेकादीनि कर्माणि  
 यः करोति यथाविधि ।  
@@ -236,6 +263,7 @@ That Brāhmaṇa, who performs, in the prescribed manner, one’s sacramental ri
 निषेकग्रहणात् पितुर् अयं गुरुत्वोपदेशः । **निषेको** रेतःसेकः, स आदिर् येषां कर्मणाम् । **आदि**ग्रहणात् सर्वे संस्कारा गृह्यन्ते । तानि **यः करोत्य् अन्नेन च यः संभावयति** संवर्धयति । "चैवेनम्" इति वा पाठः । अर्थस् तु स एव, अन्नेनैव संभावनोपपत्तेः । अर्थान्तरनिर्देशः एनं कुमारम् ।
 
 - <u>ननु</u> चान्वादेशः । न चेह कुमारस्य पूर्वम् उपदेशः । <u>नैवम्</u> । कस्यान्यस्य **निषेकादीनि** क्रियन्ते ।[^३९६] सामर्थ्याद् अपि निर्देशो न निर्देशत एव । तानि **यः करोति** । एवम् आभ्यां गुणाभ्यां हीनः केवलजनकत्वे पितैव भवति न गुरुः । न चैवं मन्तव्यम् असति गुरुत्वे नासौ मान्यः । सर्वप्रथमम् असाव् एव मान्यः । तथा च भगवान् व्यासः- 
+
 
 [^३९६]:
      M G place here: tāni yaḥ karoti (M = yat)
@@ -298,6 +326,16 @@ equipped with knowledge of the Veda, has excellent character, with senses under 
 paternal uncle, father-in-law are *gurus*; the elder brother, the Accomplished Student and the Ṛtvik are to be inspected like the *guru*. The mother’s sister, the maternal aunt, the mother-in-law, the nurse, the father’s sister, the paternal grandmother, the paternal aunt and the teacher’s wife are to be treated as the mother.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+निषेको गर्भाधानं तेन पितुरयं गुरुत्वोपदेशः । गर्भाधानादीनि संस्कारकर्माणि पितुरुपदिष्टानि यथाशास्त्रंयः करोति, अन्नेन च संवर्धयति स विप्रो गुरुरुच्यते ॥१४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**निषेकादीनीति** । गर्भाधानादिकर्माणि यथाशास्त्रं **यः करोति अन्नेन च सम्भावयति** वर्धयति **स विप्रो गुरुर् उच्यते** । एवं च पितायं गुरुः निषेकग्रहणात् ॥ १.१४२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 142	That Brahmana, who performs in accordance with the rules (of the Veda) the rites, the Garbhadhana (conception-rite), and so forth, and gives food (to the child), is called the Guru (the venerable one).
@@ -315,7 +353,7 @@ paternal uncle, father-in-law are *gurus*; the elder brother, the Accomplished S
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१४३ अग्न्याधेयम्</summary>
 
 अग्न्याधेयं पाकयज्ञान्  
 अग्निष्टोमादिकान् मखान् ।  
@@ -373,6 +411,16 @@ him he should know as the *Ṛtvik*.’
 purposes of the obligatory rites, (3) the *Viśesavṛta, i.e*., one who is appointed at the subsequent sacrifices.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आहवनीयाद्यन्युत्पादकं कर्माग्न्याथेयं, अष्टकादीन्पाकयज्ञान्, अग्निष्टोमादीन्यज्ञान्कृतवरणो यस्य करोति स तस्यत्विगिह शास्त्रेऽभिधीयते । ब्रह्मचारिधर्मेष्वनुपयुक्तमप्यृत्वि ग्लक्षणमाचार्याविहत्विजोऽपि मान्यत्वं दर्शयितुं प्रसङ्गादुक्तम् ॥१४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अग्न्याधेयम्** इति । आधानदर्शपूर्णमासाग्निष्टोमादिसोमयागान् यस्य कृतशास्त्रीयाचरणः सन् **यः करोति स तस्येह **शास्त्रे** ऋत्विग् उच्यते ** । तस्यापि मान्यत्वाद् इहोपदेशः, तद् उक्तं श्वशुरादि ऋत्विजो गुरून् इति ॥ १.१४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 143	He who, being (duly) chosen (for the purpose), performs the Agnyadheya, the Pakayagnas, (and) the (Srauta) sacrifices, such as the Agnishtoma (for another man), is called (his) officiating priest.
@@ -385,7 +433,7 @@ purposes of the obligatory rites, (3) the *Viśesavṛta, i.e*., one who is appo
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१४४ य आवृणोत्य्</summary>
 
 य आवृणोत्य् अवितथं  
 ब्रह्मणा श्रवणाव् उभौ ।  
@@ -404,8 +452,10 @@ He who rightly fills one’s both ears with the Veda should be regarded as his F
 
 य **उभौ श्रवणौ ब्रह्मणा** वेदाध्यापनेन **आवृणोति स माता स पिता ज्ञेयः** । नेदम् अध्यापकस्य मतापितृशब्दवाच्यताविधानम् । आचार्यादिशब्दवत् प्रसिद्धार्थौ हि पितृमातृशब्दौ । जनकः पिता । जननी माता । उपचारेणाध्यापकस्तुत्यर्थं प्रयुज्येते । यथा गौर् वाहीक इति । लोके ह्य् अन्त्यन्तोपकारकौ मातापितरौ प्रथितौ, तौ हितं जनयतो भक्तादिना पुष्णीतः, स्वशरीरानपेक्षम् अपि पुत्रहिते प्रवर्तेते । अतो महोपकारकत्वात् ताभ्याम् उपाध्यायः स्तूयते । यो विद्यायां उपकरोति स सर्वोपकारकेभ्यः श्रेयान् । **अवितथं** क्रियाविशेषणम् एतत् । अवितथेन सत्येन ब्रह्मणानक्षरविस्वरवर्णितेन तन् **न द्रुह्येत**[^३९७] । अपकारो द्रोहस् तद् उपरि अवज्ञानं च । **कदाचन** निष्पन्नग्रन्थग्रहणे[^३९८] तदुत्तरकालम् अपि **न द्रुह्येत** । तथा च निरुक्तकारः- 
 
+
 [^३९८]:
      M G 1st ed.: niṣpannam api granthagrahaṇe; G 2nd ed.: niṣpannaṃ granthagrahaṇe
+
 
 [^३९७]:
      M G 1st ed. J: duṣyeta
@@ -425,6 +475,7 @@ He who rightly fills one’s both ears with the Veda should be regarded as his F
 - तथैव तान् न भुनक्ति श्रुतं तत् । (निर् २.४)
 
 पाठान्तरम् "आतृणत्ति" इति । अर्थात् कर्णौ[^३९९] भिनत्ति विध्यतीत्य् उपमयाध्यापनम् एवोच्यते । 
+
 
 [^३९९]:
      M G 1st ed.: arthakarṇau
@@ -475,6 +526,16 @@ him.’
 regarded as similar to Viṣṇu.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+य उभौ कर्णौअवितथमिति वर्णस्वरबैगुण्यरहितेन सत्यरूपेण वेदेनापूरयति स माता पिता च ज्ञेयः ।महोपकारकत्वगुणयोगादयमध्यापको माताप्रितृशब्दवाच्यस्तं नापकुर्यात् । कदाचनेति गृहीते वेदे ॥१४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य आवृणोतीति **। आपूरयत्य् **अवितथं** विस्वरादिरहितं कृत्वा वेदेनोभौ कर्णौ **स मातापितृवत् ज्ञेयः** । तस्मै चाध्ययनोत्तरकाले ऽपि द्रोहं न कुर्यात् ॥ २.१४४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 144	That (man) who truthfully fills both his ears with the Veda, (the pupil) shall consider as his father and mother; he must never offend him.
@@ -487,7 +548,7 @@ regarded as similar to Viṣṇu.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१४५ उपाध्यायान्</summary>
 
 उपाध्यायान् दशाचार्य  
 आचार्याणां शतं पिता ।  
@@ -511,11 +572,6 @@ In veneration, the Preceptor excels ten Sub-teachers; the Father a hundred prece
 - <u>ननु</u> चानन्तरम् एव वक्ष्यति "गरीयान् ब्रह्मदः पिता" इति, इह चाचार्यात् पितुर् आधिक्यम् उच्यते तद् इतरेतरव्याहतम् । <u>नैष दोषः</u> । इहाचार्यो नैरुक्तदर्शनेनाध्यापकः, संस्कारमात्रेणाचारोपदेशमात्रेण चाभिप्रेतः- आचार्य आचारं ग्राहयतीति । न चैष नियमः स्वशास्त्रसिद्धाभिर् एव संज्ञाभिर् व्यवहारः । गुरुशब्दो ह्य् अत्र पितरि परिभाषितः, आचार्ये च तत्र तत्र प्रयुज्यते । तेन स्वल्पोपकाराद् उपनयनमात्रकराद् आचारग्राहकाद् अध्यापनरहिताद् इदं पितुर् ज्यायस्त्वम् । 
 
 - अस्मिंश् च क्रमे विवक्षिते समवाय एतेषां माता प्रथमं वन्द्या ततः पिता तत आचार्यस् तत उपाध्यायः ॥ २.१४५ ॥
-
-_मुख्याचार्यसंनिधौ पितरि च संस्कर्तरि संनिहिते कः_[^४००]_ क्रमः । अत आह । _
-
-[^४००]:
-     M G: tatra
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -581,6 +637,16 @@ man: the Father and the Mother; between these two, the Father is superior, then 
 suffering from shooting pains, then she gives him birth, being rendered unconscious in the process; devoted to her son, she regards him as superior even to her very life; who can recompense her even in a hundred years?’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दशोपाध्यायानपेक्ष्य आचार्यः, आचार्यशतमपेक्ष्य पिता, सहस्रं पितृृनपेक्ष्य माता गौरबेणातिरिक्ता भवति । अत्रोपनयनपूर्वकसावित्रीमात्राध्यापयिता आचार्योऽभिप्रेतस्तमपेक्ष्य पेतुरुत्कर्षः । “उत्पादकब्रह्मदात्रोः" ( अ० २ श्लो० १४६ ) इत्यनेन मुख्याचार्यस्य पितरमक्ष्योत्कर्षं वक्ष्यतीत्यविरोधः ॥१४५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उपाध्यायान्** इति । दशभ्य उपाध्यायेभ्य आचार्यो **गौरवेण** हेतुभूतेनाधिकी भवति । उपाध्यायपूजातः दशगुणा आचार्यस्य पूजा कार्येत्य् अर्थः । एवम् **आचार्याणां शतं पिता गौरवेण्**आधिको भवति यः सकलसंस्कारादिकर्ता । जनकमात्रपितृसहस्रात् सकलसंस्कारादिकारयित्री **माता गौरवेणा**धिकी भवति ॥ २.१४५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 145	The teacher (akarya) is ten times more venerable than a sub-teacher (upadhyaya), the father a hundred times more than the teacher, but the mother a thousand times more than the father.
@@ -597,7 +663,17 @@ suffering from shooting pains, then she gives him birth, being rendered unconsci
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_मुख्याचार्यसंनिधौ पितरि च संस्कर्तरि संनिहिते कः_[^४००]_ क्रमः । अत आह । _
+
+[^४००]: M G: tatra
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.१४६ उत्पादकब्रह्मदात्रोर्</summary>
 
 उत्पादक-ब्रह्मदात्रोर्  
 गरीयान् ब्रह्मदः पिता ।  
@@ -657,6 +733,16 @@ imparting the Veda.’
 the physical body.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+जनकाचार्यौद्वावपि पितरौ, जन्मदातृत्वात् । तयोराचार्यः पिता गुरुतरः । यस्माद्विप्रस्य ब्रह्मग्रहणार्थं जन्मोपनयनजन्मसंस्काररूपं परलोके इहलोके च शाश्वतं नित्य-इ, ब्रह्मप्राप्तिफलकत्वात् ॥१४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उत्पादकेति **। संस्कारादिकरणरहितोत्पादकाचार्ययोः पित्रोः आचार्याख्यः **पिता** प्रशस्ततरः । यस्माद् ब्रह्मग्रहणार्थं यज् जन्म उपनयनाख्यं विप्रस्य तद् **इह** लोके **शाश्वतं** नित्यं पारम्पर्येण मुक्तिनिमित्तत्वात् । अतश् च जनकमातृपित्राचार्यसन्निधाव् आचार्य एवादौ पूजनीयः । विप्रग्रहणं द्विजप्रदर्शनाच् च त्रयाणां प्रकृतत्वाच् च ॥ २.१४६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 146	Of him who gives natural birth and him who gives (the knowledge of) the Veda, the giver of the Veda is the more venerable father; for the birth for the sake of the Veda (ensures) eternal (rewards) both in this (life) and after death.
@@ -669,7 +755,7 @@ the physical body.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१४७ कामान् माता</summary>
 
 कामान् माता पिता चैनं  
 यद् उत्पादयतो मिथः ।  
@@ -713,6 +799,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 480).
 his imparting the Veda.’—‘Therefore the learned expounder of the Veda is never regarded as *childless*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मातापितरौ यद् एनं बालकं कामवशेनान्योन्यमुत्पादयतः संभवमात्रंतत्तस्य पश्चादिसावारणम् । यद्योनौ मातृकुक्षावभिजायतेऽङ्गप्रत्यङ्गानि लभते ॥१४७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अत्रार्थवादः **कामाद्** इति । **आचार्यस् त्व्** इति । पितराव् एनं **मिथः** परस्परं **कामाद् उत्पादयतो** न तदुपकारचिकीर्षया । पुनः सम्भवमात्रं **तस्य **जानीयाद् **यद् योनाव्** असाव् उत्पद्यते । **आचार्यः** पुनः समस्तवेदाध्यापयिता यथाशास्त्रम् उपनयनाङ्गबूतया **सावित्र्या यां जातिं **यज् जन्म **अस्य **करोति **सा सत्या **स्यात् सत्यात्मका श्रौतादिकर्मनिमित्तत्वात् । सा **अजरा** अबाधका पुनस् तूद्भवे तस्यानपचयात्, **अमरा **अमरात्मकज्ञानाधिकारोत्पादनद्वारेणामरहेतुत्वात्॥ २.१४७–४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 147	Let him consider that (he received) a (mere animal) existence, when his parents begat him through mutual affection, and when he was born from the womb (of his mother).
@@ -725,7 +821,7 @@ his imparting the Veda.’—‘Therefore the learned expounder of the Veda is n
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१४८ आचार्यस् त्व्</summary>
 
 आचार्यस् त्व् अस्य यां जातिं  
 विधिवद् वेदपारगः ।  
@@ -773,6 +869,11 @@ gives him birth in knowledge.’
 *Gautama Dharmasūtra*, 1.10.—‘That is the second birth.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचार्यःपुनर्वेदज्ञोऽस्य माणवकस्य यां जाति यज्जन्म विधिवत्सावित्र्येति साङ्गोपनयनपूर्व कसावित्र्यनुवचनेनोत्पादयति, सा जातिःसत्या अजराऽमरा च, ब्रह्मप्राप्तिफलत्वात् । उपनयनपूर्वकस्य वेदाध्ययनतदर्थज्ञानानुष्ठानैनिष्कामस्य मोक्षलाभात् ॥१४८॥
+</details>
+
 <details><summary>Bühler</summary>
 
 148	But that birth which a teacher acquainted with the whole Veda, in accordance with the law, procures for him through the Savitri, is real, exempt from age and death.
@@ -785,7 +886,7 @@ gives him birth in knowledge.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१४९ अल्पं वा</summary>
 
 अल्पं वा बहु वा यस्य  
 श्रुतस्योपकरोति यः ।  
@@ -851,6 +952,16 @@ a *Guru* who, having performed the rite, imparts to him the Veda.’
 *Hārīta* (see under 142).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+श्रुतस्य श्रुतेनेत्यर्थः । उपाध्यायो यस्य शिष्यस्याल्पं वा बहु वा कृत्वा श्रुतेनोपकरोते तमपीह शास्त्रे तस्य गुरुं जानीयात् । श्रुतमेवोपक्रिया तया श्रुतोपक्रियया ॥१४९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अपरं गुरुलक्षणम् आह पूजार्थम् **अल्पम्** इति । **यस्य **कस्यचित् **श्रुतस्याल्पं बहु वा **यो बोधयति **तम् अपीह **पूजाप्रकरणे तेन श्रुतोपकारेण जानीयात् ॥ २.१४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 149	(The pupil) must know that that man also who benefits him by (instruction in) the Veda, be it little or much, is called in these (Institutes) his Guru, in consequence of that benefit (conferred by instruction in) the Veda.
@@ -863,7 +974,7 @@ a *Guru* who, having performed the rite, imparts to him the Veda.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१५० ब्राह्मस्य</summary>
 
 ब्राह्मस्य जन्मनः कर्ता  
 स्वधर्मस्य च शासिता ।  
@@ -882,13 +993,16 @@ The Brāhmaṇa, who brings about his Vedic birth, and teaches him his duty,—e
 
 ब्रह्मग्रहणार्थं जन्म **ब्राह्मम्** उपनयनं तस्य **कर्ता** । **स्वधर्मस्य शासिता** उपदेष्टा, वेदार्थव्याख्यानेन । स तादृशो **बालो ऽपि** ब्राह्मणो **वृद्धस्य** ज्येष्टस्य[^४०१] **पिता भवति** । पितृतुल्या तत्र वृत्तिः कर्तव्या ज्येष्ठेनापि । 
 
+
 [^४०१]:
      M G 1st ed. add: tarkakalāśastrasya vā yad alpaṃ vā bahu vā tena
 
 - <u>कथं</u> पुनः कनीयाञ् ज्येष्ठम् उपनयते । अष्टमे ह्य् उपनयनम् । यावच् च नाधीतश्रुतवेदस् तावन् नाचार्यकरणविधाव् अधिक्रियते । <u>एवं तर्हि</u> नोपनयनम् अत्र[^४०२] **ब्राह्म**[^४०३] जन्म, किं तर्हि स्वाध्यायग्रहणम् एव । तस्य **कर्ता** अध्यापयिता । **स्वधर्मस्य** वेदार्थस्य **शासिता** व्याख्याता **पिता भवति** । **धर्मतः** पितृधर्मास् तत्र कर्तव्याः । धर्मत इति धर्मनिमित्तं तत्र पितृत्वम् । न च ते धर्मा अध्यापकव्याख्यात्रोः पितृसंबन्धिनः सिद्धाः सन्ति । अतो विधीयते ब्राह्मणवत् क्षत्रिये वर्तितव्यम् इति ॥ २.१५० ॥
 
+
 [^४०३]:
      M G 1st ed.: brahma
+
 
 [^४०२]:
      M G 1st ed.: -yanamantraṃ
@@ -930,6 +1044,16 @@ forms the very basis of Dharma.’
 Teacher,—be he a child or of the same age as oneself,—as towards the Guru.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्रह्मश्रवणार्थं जन्म ब्राह्ममुपनयनं तस्य कर्ता, स्वधर्मस्य शासिता वेदार्थव्याख्याता, तादृशोऽपि बालो वृद्धस्य ज्येष्ठस्य पिता भवति । धर्मत इति पितृधर्मास्तस्मिन्ननुष्ठातव्याः ॥१५०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+न च वयोज्यैष्ठ्यं विद्यागुरोः पूजार्थम् अपेक्ष्यम्, यस्मात् **ब्राह्मस्येति** । उपनयनस्य कनीयः कर्तृत्वासम्भवात् तदुपलक्षिताध्यापनादि **कर्ता स्वधर्मस्य च **अयं धर्मम् इत्य् एवं बोधयिता **बालो ऽपि वृद्धस्यापि **धर्मार्थकर्मनिमित्तत्वेन पितृतुल्यो भवति ॥ २.१५० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 150	That Brahmana who is the giver of the birth for the sake of the Veda and the teacher of the prescribed duties becomes by law the father of an aged man, even though he himself be a child.
@@ -942,7 +1066,15 @@ Teacher,—be he a child or of the same age as oneself,—as towards the Guru.�
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+प्रकृतानुरूपार्थवादमाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.१५१ अध्यापयाम् आस</summary>
 
 अध्यापयाम् आस पितॄन्  
 शिशुर् आङ्गिरसः कविः ।  
@@ -1002,6 +1134,11 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra, p.93).
 See Comparative notes for [Verse 2.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अङ्गिरसः पुत्रो बालःकविर्विद्वान् पितृृन्गौणान पितृव्यतत्पुत्रादीनधिकवयसोऽध्यापितवान् । ताञ्ज्ञानेन परिगृह्य शिष्यान्कृत्वा पुत्रका इति आजुहाव । 'इति ह' इत्यव्ययं दुरावृत्तसूचनार्थम् ॥१५१॥
+</details>
+
 <details><summary>Bühler</summary>
 
 151	Young Kavi, the son of Angiras, taught his (relatives who were old enough to be) fathers, and, as he excelled them in (sacred) knowledge, he called them 'Little sons.'
@@ -1009,7 +1146,7 @@ See Comparative notes for [Verse 2.150].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१५२ ते तम्</summary>
 
 ते तम् अर्थम् अपृच्छन्त  
 देवान् आगत-मन्यवः ।  
@@ -1051,6 +1188,16 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 305)—in
 See Comparative notes for [Verse 2.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ते पितृतुल्याः पुत्र का इत्युक्ता अनेन जातक्रोधाः पुत्रकशब्दार्थं देवान्पृष्टवन्तः । देवाश्च पृष्टा मिलित्वा एतानवोचन्—युष्मान्यच्छिशुः पुत्रशब्देनोक्तवांस्तद्युक्तम् ॥१५२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अत्रार्थवादः परः प्रकृतिरूपः **अध्यापयामासेति ।** **त** इति । **अज्ञ** इति **। अङ्गिरसः **पुत्रः **कविर्** नाम बालः सन् पितृपितृव्यादीन् अध्यापितवान् । तांश् च वेदादि**ज्ञानेन **हेतुभूतेन शिष्यत्वेन स्वीकृत्य कार्यार्थेन आह्वानादिकालेषु **पुत्रका** इत्य् उक्तवान् । ततस् ते पितरः तथाह्वानोत्पन्नक्रोधाः तम् अर्थं समागत्य पुत्रकशब्दाह्वानाख्यं किम् एतत् साधु इत्य् एवं देवान् पृष्टवन्तः । **देवाश् **चैतद्विचारार्थं समागत्य “युक्तं शिशुः युष्मान् उक्तवान्” इत्य् एवम् एतांस् तान् पितॄन् उक्तवन्तः । यतो ऽ**ज्ञो** मूर्खः स **बालो भवति **वृद्धो ऽपि सन् । यश् चाध्यापयिता स **बालो** ऽपि सन् पितृतुल्यो **भवति** । यतो ऽसमदन्ये **अज्ञं बालम् इत्य् आहुः** अध्यापयितारं च **पितेत्य्** एवं ब्रुवते ॥ २.१५१–५३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 152	They, moved with resentment, asked the gods concerning that matter, and the gods, having assembled, answered, 'The child has addressed you properly.'
@@ -1063,7 +1210,7 @@ See Comparative notes for [Verse 2.150].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१५३ अज्ञो भवति</summary>
 
 अज्ञो भवति वै बालः  
 पिता भवति मन्त्रदः ।  
@@ -1081,6 +1228,7 @@ The ignorant person is verily a “child,” while the imparted of mantras is th
 <details><summary>मेधातिथिः</summary>
 
 यस्मान्[^४०४] न च वयसा स्वल्पेन **बालो भवति** किं तर्ह्य् **अज्ञो** मूखो वृद्धो ऽपि यः । **मन्त्रद** उपलक्षणम् । मन्त्रान् वेदान् यो ददात्य् अध्यापयति विवृणोति च स **पिता भवति** । **वै**शब्द आगमान्तरसूचकः । देवानाम् अप्य् एष आगमः पुराण एव । तथा चैतिह्यसूचकः परोपदेश **आहुर्** इति । **अज्ञं** मूर्खं **बालम् इत्य् आहुर्** अस्मत्पूर्वे ऽपि । **पितेति मन्त्रदम्** । इतिकरणं स्वरूपपरताम् बोधयति । यतः परतः श्रूयते । बाल इत्य् एतेन शब्देनाज्ञमात्रः । अतश् च बालशब्दाद् द्वितीयाया अभावः । छान्दोग्ये शैशवं ब्राह्मणम् एतद् वस्तुतः स्मृतिकारेण वर्णितम् ॥ २.१५३ ॥
+
 
 [^४०४]:
      G 1st ed. omits: yasmān
@@ -1114,6 +1262,11 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 305)—in
 See Comparative notes for [Verse 2.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वैशब्दोऽवधारणे । अज्ञ एव बालो भवति, न त्वल्पवयाः । मन्त्रदः पिताभवति । मन्त्रग्रहणं वेदोपलक्षणार्थम् - यो वेदमध्यापयति । व्याचष्टे स पिता । अत्रैव हेतुमाह -यस्मात्पूर्वेऽपि मुनयोऽज्ञं बालमित्यूचुः मन्दं च पितेत्येवाब्रुवन्नित्याह ॥१५३॥
+</details>
+
 <details><summary>Bühler</summary>
 
 153	'For (a man) destitute of (sacred) knowledge is indeed a child, and he who teaches him the Veda is his father; for (the sages) have always said "child" to an ignorant man, and "father" to a teacher of the Veda.'
@@ -1126,7 +1279,7 @@ See Comparative notes for [Verse 2.150].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१५४ न हायनैर्</summary>
 
 न हायनैर् न पलितैर्  
 न वित्तेन न बन्धुभिः ।  
@@ -1144,6 +1297,7 @@ Neither by years, nor by grey hair, nor by wealth, nor by relatives (is greatnes
 <details><summary>मेधातिथिः</summary>
 
 इयम् अपराध्यापकप्रशंसा । **हायन**शब्दः संवत्सरपर्यायः । **न** बहुभिर् वर्षैः परिणतवया महान् पूज्यो भवति, **न पलितैः** केशश्मश्रुरोमभिः शुक्लैः, **न वित्तेन** बहुना, **न बन्धुभिः** । प्रागुक्तानि मान्यस्थानान्य् आपद्यन्ते । समुदितैर् न महान् भवति, किं तर्हि एकयैव विद्यया । यस्माद् **ऋषयश् चक्रिरे** । ऋषिर् दर्शनात् । निःशेषवेदार्थदर्शिनो निश्चित्येमं **धर्मं** व्यवस्थापितवन्तः । **यो ऽनूचानः,** अनुवचनम् अध्यापनं कृत्स्नाङ्गस्य वेदस्य, **स नो** ऽस्माकं **महाञ्** छ्रेष्ठः । करोतिर्[^४०५] व्यवस्थापने वर्तते, नाभूतजनने ॥ २.१५४ ॥
+
 
 [^४०५]:
      M G: karoti
@@ -1177,6 +1331,16 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 305);—in
 See Comparative notes for [Verse 2.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+न बहुभिर्वर्यैः न केशलोमभिः शुक्लैःन बहुना धनेन, न पितृव्यत्वादिभिर्बन्धुभावैः । समुदितैरप्येतैर्न महत्त्वं भवति, किंतु ऋषय इमं धर्मं कृतवन्तः – यः साङ्गवेदाध्येता सोऽस्माकंमहान् संमतः ॥१५४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अतश् च **न हायनैर् **इति । न वयो भूयः शिरः पाण्दुर्यधनबन्धुभिः ज्यायस्त्वम् । अपि तु यो ऽध्यापनसमर्थः स श्रेष्ठ इत्य् अस्माकं मतम् इत्य् एवम् **ऋषयो धर्मं** व्यवस्थापितवन्तः ॥ २.१५४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 154	Neither through years, nor through white (hairs), nor through wealth, nor through (powerful) kinsmen (comes greatness). The sages have made this law, 'He who has learnt the Veda together with the Angas (Anukana) is (considered) great by us.'
@@ -1189,7 +1353,7 @@ See Comparative notes for [Verse 2.150].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१५५ विप्राणाम्</summary>
 
 विप्राणां ज्ञानतो ज्यैष्ठ्यं  
 क्षत्रियाणां तु वीर्यतः ।  
@@ -1244,6 +1408,16 @@ sense that where one uses the term ‘*Brāhmaṇaparivrājaka*’, the Brāhma�
 *Viṣṇu*, 32-18.—(Reproduces Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणानां विद्यया, क्षत्रियाणां पुनर्वीर्येण, वैश्यानां धान्यवस्त्रादिधनेन, शूद्राणामेव पुनर्जन्मना श्रेष्ठत्वम् । सर्वत्र तृतीयार्थे तसिः ॥१५५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं च सति **विप्राणाम् **इति । **विप्राणां **ज्ञानेन श्रैष्ठ्यम्, **क्षत्रियाणां** पुनः पौरुषेण, **वैश्यानां** धान्यहिरण्यादेः, **शूद्राणां** वयस्तः ॥ २.१५५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 155	The seniority of Brahmanas is from (sacred) knowledge, that of Kshatriyas from valour, that of Vaisyas from wealth in grain (and other goods), but that of Sudras alone from age.
@@ -1256,7 +1430,7 @@ sense that where one uses the term ‘*Brāhmaṇaparivrājaka*’, the Brāhma�
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१५६ न तेन</summary>
 
 न तेन वृद्धो भवति  
 येनाऽस्य पलितं शिरः ।  
@@ -1288,6 +1462,16 @@ He who, ‘*though young*’—is of young age—and yet carries on his study,�
 *Gautama* (see under 154).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+न तेन वृद्धो भवति येनास्य शुक्नुकेशं शिरः, किंतु युवाऽपि सन्विद्वांस्त देवाः स्थविरं जानन्ति ॥१५६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**येन **कारणेन वयोभूयिष्ठ्याख्येन **अस्य पलित**युक्तं **शिरः न तेन वृद्धो भवति **। यस् तरुणो ऽपि सन् अधीतवेदो भवति **तं देवाः **वृद्धं मन्यन्ते इत्य् अभिधानं प्रकृतदार्ढ्यार्थम् ॥ २.१५६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 156	A man is not therefore (considered) venerable because his head is gray; him who, though young, has learned the Veda, the gods consider to be venerable.
@@ -1300,7 +1484,7 @@ He who, ‘*though young*’—is of young age—and yet carries on his study,�
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१५७ यथा काष्ठमयो</summary>
 
 यथा काष्ठमयो हस्ती  
 यथा चर्ममयो मृगः ।  
@@ -1318,6 +1502,7 @@ As the elephant made of wood, as the deer made of leather, so the non-learning B
 <details><summary>मेधातिथिः</summary>
 
 इयम् अध्ययनाध्येतृस्तुतिः। काष्ठमयो दारुणा[^४०६] यः क्रियते क्रकचादिना हस्त्याकृतिः, स यथा निष्फलः, न हस्तिकार्यं राज्ञां शत्रुवधादि करोति, एवं यो ब्राह्मणो नाधीते स काष्ठतुल्यः, न क्वचिद् अधिकारी । **चर्ममयो मृगः** चर्मविकारो ऽन्यो ऽपि यो मृगः स निष्फलो नाखेटकादिकार्यं करोति । **त्रय एते** नाममात्रं **बिभ्रति**, न तस्यार्थम् ॥ २.१५७ ॥
+
 
 [^४०६]:
      M G: vāraṇo
@@ -1352,6 +1537,16 @@ is expressed in slightly different words (12. 30. 40 ff.) and with added similes
 ‘*dhāraka*.’)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा काष्टघटितो हस्ती, यथा चर्मनिर्मितो मृगः, यश्च विप्रो नाधीते, त्रय एते नाममात्रं दधति न तु हस्त्यादिकार्यं शत्रुवधादिकं कर्तुं क्षमन्ते ॥१५७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथेति** । दारुमयो **यथा हस्ती **न युद्धादिसमर्थः **यथा चर्ममयो मृगः** आखेटकादाव् अकिञ्चित्करः, एवम् **अनधीयानो **ब्राह्मणः** **ब्राह्मणसम्पाद्यासु प्रतिग्रहादिक्रियासु । एवं च त्रयो ऽप्य् एते नाममात्रं धारयति । न तु हस्त्यादिसम्पाद्याः क्रियाः कुर्वन्ति ॥ २.१५७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 157	As an elephant made of wood, as an antelope made of leather, such is an unlearned Brahmana; those three have nothing but the names (of their kind).
@@ -1364,7 +1559,7 @@ is expressed in slightly different words (12. 30. 40 ff.) and with added similes
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१५८ यथा षण्ढो</summary>
 
 यथा षण्ढो ऽफलः स्त्रीषु  
 यथा गौर् गवि चाऽफला ।  
@@ -1385,8 +1580,6 @@ As the eunuch is useless among women, as the cow is useless among cows, as a gif
 
 [^४०७]:
      M G: strīgavyā
-
-_सप्ताष्टश्लोकाः अध्येतृवेदित्रोः प्रशंसार्था अतिक्रान्ताः। इदानीम् अश्रद्धस्य शिष्यस्याधीयानस्येतस् ततश् चित्तं व्याक्षिप्यते ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -1416,12 +1609,23 @@ Brāhmaṇa.’
 without wings, so is the Brāhmaṇa devoid of *Mantras*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा नपुंसकः स्त्रीषु निष्फलः, यथा च स्त्रीगवी गव्यामेव निष्फला, यथा चाज्ञे दानमफलं, तथा ब्राह्मणोऽप्यनधीयानो निष्फलः श्रौतस्मार्तकर्मानर्हतया तत्फलरहितः ॥१५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथा षण्ढ** इति । यथा नपुंसकं **स्त्रीषु **गच्छन्न् अपि (गच्छद् अपि) अपत्यशून्यं यथा च स्त्रीगौः स्त्रीगवि गमनाभावाद् अपत्यफलशून्या यथा **चाज्ञे निष्फलं दानं तथा **वेदरहितो ब्राह्मणः अफलः परमात्मनो दृष्टादृष्टानुपकारित्वात् ॥ २.१५८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 158	As a eunuch is unproductive with women, as a cow with a cow is unprolific, and as a gift made to an ignorant man yields no reward, even so is a Brahmana useless, who (does) not (know) the Rikas.
 </details>
 
 <details><summary>भारुचिः</summary>
+
 <u>** अप्पेअर्स् थत् थिस् चोम्मेन्तर्य् स्होउल्द् गो wइथ् २.१४९ — ओर् इस् इत् १४५?.</u>
 
 प्रकरणसामर्थाद् अन्याध्यर्थं (?) श्रुतयो ऽपि सन्तः आचार्यप्रशंसार्थकाः । उपकारातिशयाप्य् (?) आचार्या गौरवं मातापितृभ्याम् उदाहरणं च भूत्वाभिधानसामर्थ्यस्तुत्यतिशयरूपाद् वेदितव्यम् । उभयस्योपदेशस्यार्थवत्वाद् यज्ञाचार्यपितृमातृसमवाये श्चार्यं पित्रा मात्रा च सह विकल्प्यते ऽभिवादनपूजासु (?) । 

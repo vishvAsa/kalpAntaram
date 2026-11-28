@@ -3,7 +3,15 @@ title = "२२ भोजननिषेधाः"
 +++
 ## भोजयितारो निषिद्धाः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_पूर्वेण श्लोकेन व्रताधिकारो विच्छिन्नः । इदानीं प्रतिषेधप्रकरणम् आरभ्यते ।_
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२०५ नाऽश्रोत्रियतते</summary>
 
 नाऽश्रोत्रिय-तते यज्ञे  
 ग्रामयाजि-कृते तथा ।  
@@ -60,6 +68,16 @@ unequals.’
 one who serves as the priest of many persons, or by one who initiates many persons.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनधीतवेदेनोपक्रान्ते यज्ञेऽग्नीषोमीयादूर्ध्वमपि भोजनयोग्यसमये ब्राह्मणो न भुञ्जीत । तथा बहूनां याजकेन ऋत्विजा स्त्रिया नपुंसकेन च यत्र यज्ञे हूयते तत्र कदाचिन्न भुञ्जीत ॥२०५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नाश्रोत्रियतत** इति । अनधीतवेदेन प्रारब्धे यज्ञे अग्नीषोमीयाद् ऊर्ध्वम् अपि **ब्राह्मणो न भुञ्जीत **। अर्थात् (पुनः) [पूर्वम्] अग्नीषोमीयात् “दीक्षितस्य कदर्यस्य” [४.२१०] इत्य् अनेनैव प्रतिषेधसिद्धेः । सूत्रकारेण अग्नीषोमीयावधिकं दीक्षितस्याभोज्यान्नत्वम् उक्तम् । अतो “दीक्षितस्य कदर्यस्य” इत्य् अयं प्रतिषेधस् तदवधिक एव । सदा बहूनां याजकेन ऋत्विजा **स्त्रिया **वा नपुंसकेन वा यत्र गृहे वैश्वदेवादिहोमः कृतः **न** तत्र कदाचिद् अपि **ब्राःमणो भुञ्जीत** ॥ ४.२०५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 205	A Brahmana must never eat (a dinner given) at a sacrifice that is offered by one who is not a Srotriya, by one who sacrifices for a multitude of men, by a woman, or by a eunuch.
@@ -72,7 +90,7 @@ one who serves as the priest of many persons, or by one who initiates many perso
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२०६ अश्लीकम् एतत्</summary>
 
 अश्लीकम्+++(=अश्लीलम्)+++ एतत् साधूनां  
 यत्र जुह्वत्य् अमी हविः [मेधातिथिपाठः - अ-श्लीलम्] ।  
@@ -118,6 +136,16 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 494), which explains ‘*a
 is suffering from white leprosy, or of one who has married a girl after puberty, or of one who is under the subjection of his wife, or of one who permits his wife’s paramour to live in the house.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वोक्ता बहुयाजकादयो यत्र हामं कुर्वन्ति तत्कर्म शिष्टानामलीकमश्रीकं श्रीब्नम् । रेफख्य स्थाने लकारः । देवानां प्रतिकूलम् । तस्मादेतद्धोमं न कारयेत् ॥२०६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अश्लीलम्** इति । यत्र पूर्वोक्ता होमं कुर्वन्ति तत् शिष्टानां तदश्लीकम् अयुक्तं **देवानां** च प्रतिकूलम् । तस्माद् एतान् होमं न कारयेत् ॥ ४.२०६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 206	When those persons offer sacrificial viands in the fire, it is unlucky for holy (men) it displeases the gods; let him therefore avoid it.
@@ -130,7 +158,7 @@ is suffering from white leprosy, or of one who has married a girl after puberty,
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२०७ मत्तक्रुद्धातुराणाम्</summary>
 
 मत्त-क्रुद्धातुराणां च  
 न भुञ्जीत कदा चन ।  
@@ -194,6 +222,16 @@ sneezed upon;—also that belonging to the intoxicated, the enraged and the dise
 diseased, the enraged, the loose woman, the intoxicated, the enemy, of one who is cruel or of the ‘Ugra,’ the outcast, the apostate, the hypocrite or persons feeding upon leavings;—flesh needlessly prepared and not offered to gods or Pitṛs, what contains hair or insects, food turned sour or kept overnight, touched by the dog or seen by the outcast; or touched by the woman in her courses, or what has been offered publicly or by mistake; what has been smelt by the cow, or partaken of by the dog, or touched by the foot intentionally.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+क्षीबक्रुद्धव्याधितानामन्नं तथा केशकीटसंसर्गंदुष्टं पादेन चेच्छातः संस्पृष्टमन्नं न भुञ्जीत ॥२०७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मत्तक्रुद्धातुराणाम्** इति । क्लीबक्रुद्धव्याधितान्नं केशादिसकलद्वादशकृमिसंसर्गदुष्टं पादेन चेच्छातः **स्पृषाअं न भुञ्जीत** ॥ ४.२०७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 207	Let him never eat (food given) by intoxicated, angry, or sick (men), nor that in which hair or insects are found, nor what has been touched intentionally with the foot,
@@ -206,7 +244,7 @@ diseased, the enraged, the loose woman, the intoxicated, the enemy, of one who i
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२०८ भ्रूणघ्नावेक्षितम्</summary>
 
 भ्रूणघ्नावेक्षितं चैव  
 संस्पृष्टं चाऽप्य् उदक्यया+++(=रजस्वलया)+++ ।  
@@ -225,11 +263,14 @@ Nor that which has been looked at by the Brāhmaṇa-slayer, or what has been to
 
 भ्रूणहा **ब्रह्मघ्नस्** तेनावेक्षितं निपुणतो दृष्टम् । प्रदर्शनं चैतद् अन्येषाम् अपि पातकिनाम् । पातकिभिः स्पृष्टस्य[^२६०] तु प्रतिषेधः[^२६१] । तैः स्पृष्टस्य तु प्रतिषेधः[^२६२] स्नानविधानाद् एव सिद्धः । **उदक्या** रजस्वला, तया **स्पृष्टस्य** प्रतिषेधः, नावेक्षितस्य ।
 
+
 [^२६२]:
      M G 1st ed. omit: taiḥ spṛṣṭasya tu pratiṣedhaḥ; G 2nd ed. omits: taiḥ
 
+
 [^२६१]:
      G 2nd ed: taiḥ pātakibhiḥ avekṣitasya niṣedhaḥ
+
 
 [^२६०]:
      M G 1st ed.: anyeṣām api pātakinā spṛṣṭasya
@@ -287,6 +328,16 @@ courses, pecked by birds, touched by the dog, smelt by the cow.’
 the paramour living in the house of his ladylove, or one who permits his wife’s paramour to live in the house—(the food of these should he avoided).’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भ्रूणघ्नेत्युपलक्षणाद् गोघ्नेत्यादिपतिताबेक्षितं, रजस्वलया च स्पृष्टं, पक्षिणा च काकादिना स्वादितं, कुक्कुरेण च स्पृष्टमन्नं न भुञ्जीत ॥२०८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भ्रूणघ्नावेक्षितम् **इति । ब्रह्महादिपतितावेक्षितं रजस्वलाद्यस्पृश्यस्पृष्टं पक्षिणा काकादिना आस्वादितं **शुना स्पृष्टं **न भुञ्जीत ॥ ४.२०८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 208	Nor that at which the slayer of a learned Brahmana has looked, nor that which has been touched by a menstruating woman, nor that which has been pecked at by birds or touched by a dog,
@@ -299,7 +350,7 @@ the paramour living in the house of his ladylove, or one who permits his wife’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२०९ गवा चाऽन्नम्</summary>
 
 गवा चाऽन्नम् उपघ्रातं  
 +++(सार्वजनिकेभ्यो)+++ घुष्टान्नं च विशेषतः ।  
@@ -319,6 +370,7 @@ Nor the food that has been smelt by the cow, nor particularly that food which ha
 **घुष्टान्नं** यद् उद्घुष्य दीयते ऽनामन्त्रिताय कस्मैचिद् अर्थिने मठसत्रभक्तादिविशेषानुद्देशेन । यद् वान्यस्मै प्रतिश्रुत्यान्यस्मै दीयते । प्रतिपत्तिज्ञाने ह्य् अयं धतुः पठ्यते । तदभावे बाधितं स्मरन्ति यज्ञविवाहादिष्व् अनामन्त्रितभोजनम् । 
 
 - अयं च गणः संघातस्[^२६३] तस्माद् भ्रातॄणां त्व् अविभक्तानां न गणव्यपदेशः । "भ्रातॄणाम् अविभक्तानाम् एको धर्मः प्रवर्तते" (च्ड़्। म्ध् ९.२१५) इति वचनाद् एकश् च धर्मस् तेषाम् आतिथ्यादिक्रियैवेति नवमे दर्शितम्- "ज्येष्ठ एव तु गृह्णीयात् पित्र्यं धनम् अशेषतः" (म्ध् ९.१०५) इति । तस्य च ग्रहणम् अवश्यकर्तव्येष्व् अधिकार इति दर्सयति । साधारणस्यापि अन्यस्यातन्मध्यगतस्य प्रतिषेधः । **गणिका** वेश्या । **जुगुप्सितं** निन्दितम् । **विदुषा** वेदार्थविदा । भक्ष्यम् अपि बिसखल्यादि ॥ ४.२०९ ॥
+
 
 [^२६३]:
      M G: gaṇasaṃghātas
@@ -374,6 +426,16 @@ or to a thief or to a singer—if one eats this he should live for seven days on
 (Do.) (1.161.).—‘Food belonging to a miser, a prisoner, a thief, a eunuch, an actor, a dealer in bamboos, one accused of a crime, an usurer, a harlot, a multitude, or the person initiated for a sacrifice.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदन्नं गवाघ्रातं, घुष्टान्नं को भोक्तेत्युपोष्टान्नं सत्रादौ यद्दीयते, विशेषत इति भूरिदोषतया प्रायश्चित्तगौरवार्थम् । गणान्नं शठब्राह्मणसङ्घान्नम्, गणिका वेश्या तस्या अन्नम्, शास्त्रविदा च यद् दुष्टमिति निन्दितं, तच्च न भुञ्जीत ॥२०९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गवेति **। **गवाघ्रातं **“को भुङ्क्ते” इति यदाघुष्य दीयते मठब्राह्मणादिसङ्घान्नं च तथा वेश्यान्नं शास्त्रविदा चैतत् कुत्सितम् इति यद् उक्तं तन् नाश्नीयात् **विशेषत** इति प्रायश्चित्तविशेषार्थम् ॥ ४.२०९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 209	Nor food at which a cow has smelt, nor particularly that which has been offered by an invitation to all comers, nor that (given) by a multitude or by harlots, nor that which is declared to be had by a learned (man),
@@ -386,7 +448,7 @@ or to a thief or to a singer—if one eats this he should live for seven days on
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२१० स्तेनगायनयोश्</summary>
 
 स्तेन-गायनयोश् चाऽन्नं  
 तक्ष्णो वार्धुषिकस्य च ।  
@@ -450,6 +512,16 @@ eaten—the physician, the fowler, the loose woman, the thief, the accused, the 
 sacrifice-seller, of the carpenter, of the leather-dealer, of the loose’woman and of the dyer (the food should not be eaten).’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चौरगायनजीविनोस्तथा तक्षवृत्तिजीवनस्य वृद्ध्युपजीविनश्चान्नं न भुञ्जीत । तथायज्ञे दीक्षितस्य प्रागग्नीषोमीयात् । कदर्यस्य कृपणस्य ।निगडस्येति तृतीयायें षष्टी । निगद्वेन बद्धस्य ।गोविन्दराजस्तु बद्धशब्दस्य बन्धनैर्विनाऽध्ययोनिगडैर्निगडितस्य दत्तायोनिगडस्येति व्याख्यातवान् ॥२१०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्तेनगायनयोर् **इति । चोरगेयजीवितक्षकवृद्ध्युपजीव्यन्नं न भुञ्जीत । यज्ञार्थे **दीक्षितस्य **प्राग् अग्नीषोमीयात् **बद्धस्य, **बन्दनेन विनाप्य् अयोनिगडैर् निगडितस्य दत्तायोनिगडस्य अबन्धने ऽपि च ॥ ४.२१० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 210	Nor the food (given) by a thief, a musician, a carpenter, a usurer, one who has been initiated (for the performance of a Srauta sacrifice), a miser, one bound with fetters,
@@ -462,7 +534,7 @@ sacrifice-seller, of the carpenter, of the leather-dealer, of the loose’woman 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२११ अभिशस्तस्य</summary>
 
 +++(दोषीत्य्)+++ अभिशस्तस्य षण्ढस्य  
 पुंश्चल्या दाम्भिकस्य च ।  
@@ -486,6 +558,7 @@ Nor the food of an accused person, or of the hermaphrodite, or the unchaste woma
 - <u>नैतद्</u> एवम् । अन्या गणिका, अन्या पुंश्चली । गणिका वेश्यावेशेन जीवति । पुंश्चली त्व् इन्द्रियचपला । 
 
 - **दाम्भिको** बैडालव्रतिकादिः सोपधो धर्मचरणः । प्रायश्चित्तविशेषार्थं **शूद्रोच्छिष्टं** प्रतिषिध्यते, सर्वस्यैवोच्छिष्टभोजनप्रतिषेधात् । <u>अन्ये</u> तु **शूद्रोच्छिष्टं** स्थालीस्थं भोज्यान्नं शूद्रभुक्तशिष्टम् उच्छिष्टम् उच्यत इत्य् आहुः । पाठान्तरं तु "उच्छिष्टम् अगुरोस् तथा" इति । उच्छिष्टम् उच्यते यत् परस्य स्पर्शनाद् अशुद्धं भुक्तोज्झितं च । आत्मीये ह्य् अभुक्तो ऽज्झित एकग्रासाशनम् एव स्यात् । न चैष शिष्टानां समाचारो यत् सकृदन्नं दत्तं भुक्त्वा पुनर् आचम्य पात्रान्तरे गृहीतं भुज्यते । तथा नाद्याद् अन्नम् । तथान्तरे ऽभ्युत्थानादिक्रियान्तरस्य प्रतिषेधः । अत आ तृप्तेः प्राग् आचमनात् पश्चात् स्पर्शे न दोषः । सहभोजनं तु सत्य् अपि परस्य स्पर्शे पदार्थान्तरत्वान् नोच्छिष्टभोजनम् । अत्र पित्रा पुत्रादिभिः शिष्टं सह भुज्यते । तथा चापस्तम्बादयो देशग्रहणात् प्रसङ्गेन "अनुपनीतेन सह भोजनम्"[^२६४] (च्ड़्। ब्ध् १.२.३) निन्दन्ति, नोपनीतेन । अस्मिंस् तु पक्षे विजातीयैः सह भोजनप्रतिषेधः । व्यवधानान्तरम् आश्रयणीयम् । भुक्तोज्झितं तु धात्वर्थयोगाद् उच्छिष्टम् अन्यदीयम् अपि ॥ ४.२११ ॥
+
 
 [^२६४]:
      The ascription of this passage to Āpastamba is curious. It is from the well-known passage of Baudhāyana on the unique practices of the north and the south. Either Medh has made a mistake here, or the medieval editor for King Madana made a mistake here.
@@ -547,6 +620,16 @@ accused, the eunuch, the loose woman, the hypocrite, the physician, the fowler, 
 vegetables, meat and preparations of barley-flour.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+महापातकित्वेन सञ्जातलोकविक्रोशस्य, नपुंसकस्य, पुंश्चल्या व्यभिचारिण्या अगणिकाया अपि, दाम्भिकस्य छद्मना धर्मचारिणो बैडालव्रतिकादेरन्नं न भुञ्जीत । शुक्तं यत्स्वभावतो मधुरं दध्यादिसम्पर्कवशेनोदकादिना चाम्लादिभावं गतम्, पर्युषितं रात्र्यन्तरितम्, शुद्रस्यान्नं न भुञ्जीतेति सम्बन्धः । उच्छिष्टं च भुक्तावशिष्टान्नमविशेषात्कस्यापि न भुञ्जीत ।गुरुच्छिष्टं च विहितत्वायोज्यम् । गोविन्दराजस्तुशुद्रस्योच्छिष्टं तद्भुक्तावशिष्टं च स्थालीस्थमपि न भुञ्जीतेत्याह ॥२११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अभिशस्तस्येति **। महापातकित्वेन उत्पन्नाभिशापस्य, अनिश्चितपापस्यापि नपुंसकस्य **पुंश्चल्या** व्यभिचारिण्याः अगणिकाया अपि, **दाम्भिकस्य **व्याजधर्मचारिणः** **अन्नं न भुञ्जीत । तथा **शुक्तं **यत् प्रातः स्वरसं कालान्तरेण उदकादिसंसर्गकालान्तराभ्यां चाम्लीभवति, **पर्युषितं** च रात्र्यन्तरितं **शूद्रस्य चोच्छिष्टं** नाश्नीयात् । शुक्तपर्युषितयोः अभक्षणं पञ्चमे वक्ष्यति । इह तु स्नातकव्रतत्वार्थम् अभिधानम् ॥ ४.२११ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 211	By one accused of a mortal sin (Abhisasta), a hermaphrodite, an unchaste woman, or a hypocrite, nor (any sweet thing) that has turned sour, nor what has been kept a whole night, nor (the food) of a Sudra, nor the leavings (of another man),
@@ -559,7 +642,7 @@ vegetables, meat and preparations of barley-flour.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२१२ चिकित्सकस्य</summary>
 
 चिकित्सकस्य मृगयोः  
 क्रूरस्योच्छिष्ट-भोजिनः ।  
@@ -577,6 +660,7 @@ Nor the food of this physician, or of the hunter, or of a cruel person, or of on
 <details><summary>मेधातिथिः</summary>
 
 स्मृत्यन्तरे विशेषः श्रूयते- "शल्या नर्तकजीविनः"[^२६५] । **मृगयुर्** मृगव्याधः । आखेटकार्थं मांसविक्रयार्थं वा यो मृगान् हन्ति । **क्रूर** अनृजुप्रकृतिः दुष्प्रसादः । **उच्छिष्टभोजी** निषिद्धोच्छिष्टभोजी । **उग्रो** जातिविशेषः । राजेत्य् एतस्य वेदे प्रयोगो दृश्यते । "उग्रो मध्यमशीरिव" (र्व् १०.९७.१२) इति । न च तस्यान्यः प्रतिषेधो ऽस्ति, दोषप्रदर्शनप्रकारेण च न श्रूयते "राजान्नं तेज आदत्ते" (म्ध् ४.२१८) इत्य् अर्थवादाच् च प्रतिषेधः ।
+
 
 [^२६५]:
      This sentence is omitted in Jha's translation. This abrupt beginning of the commentary is curious; possibly there is a missing passage here that dealt with cikitsaka, prior to the citation of this smṛtyantara.
@@ -641,6 +725,26 @@ physician, the fowler, the cruel man, and those who live upon leavings.’
 of the multitude, of people accused of crimes, and of those who make a living by acting or by women.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चिकित्साजीविनः, मृगयोर्मांसविक्रयार्थं मृगादिपशुहन्तुः क्रूरस्यानृजप्रकृतेः निषिद्धोच्छिष्टभोक्तुरन्नं न भुञ्जीत । उग्रो दारुणकर्मा तस्यान्नम् ।
+
+**गोविन्दराजो मञ्जर्यामुग्रं राजानमुक्तवान् ।**
+
+**मनुवृत्तौ च शूद्रायां क्षत्रियोत्पन्नमभ्यधात् ॥**
+
+**भेदाक्तेर्याज्ञवल्कीयेनाग्रोराजेति वावदत् ।**
+
+**आश्चर्यमिदमेतस्य स्वकीयहृदि भूषणम् ॥**
+
+सूतिकान्नं सूतिकामुद्दिश्य यत्क्रियते तदन्नं तत्कुलजैरपि न भोक्तव्यम् । एकपङ्क्तिस्थानन्यानवमन्य यत्रान्ने भुज्यमाने केनचदाचमनं क्रियते तत्पर्याचान्तम् ।अनिर्देशं सूतकान्नं वक्ष्यमाणत्वान्न भुञ्जीत ॥२१२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चिकित्सकस्येति । **वैद्यस्य चिकित्साजीविनः । तथा लुभकानार्जवप्रकृत्युच्छिष्टादीनाम् उग्रस्य क्षत्रियेण शूद्रायाम् उत्पन्नस्य सूतिकोद्देशेन अनाशौचिभिर् अपि यत् कृतं कृतान्तराचमनं च तथा अनिर्गतदशाहिकं **सूतिकान्नं** प्रेतान्नस्य वक्ष्यमाणत्वात् न भुञ्जीत । _अन्ये_ तु उग्रं राजानम् आहुः । _तद् असत्_, याज्ञवल्क्येनोभयपाठात् ॥ ४.२१२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 212	Nor (the food given) by a physician, a hunter, a cruel man, one who eats the fragments (of another's meal), nor the food of an Ugra, nor that prepared for a woman in childbed, nor that (given at a dinner) where (a guest rises) prematurely (and) sips water, nor that (given by a woman) whose ten days of impurity have not elapsed,
@@ -653,7 +757,7 @@ of the multitude, of people accused of crimes, and of those who make a living by
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२१३ अनर्चितम्</summary>
 
 अनर्चितं वृथा-मांसम्  
 अवीरायाश्+++(→पुंरहितायाश्)+++ च योषितः ।  
@@ -717,6 +821,16 @@ of the enemy, of the outcast;—food intentionally touched with the feet, or sne
 outcast......;—of the maleless woman, of the goldsmith, of the man who is controlled by his wife, of the village-sacrificer, of the man selling weapons, of the carpenter, of the weaver and of one who makes a living by dogs;—of the cruel king, of the dyer, of the ungrateful man, of the man who lives by slaughtering animals, of the clothes-washer, of the wine-seller, and of the man who permits his wife’s paramour to live in the house.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अर्चार्हस्य यदवज्ञया दीयते, वृथामांसं देवतादिमुद्दिश्य यन्न कृतं, अवीरायाः पतिपुत्ररहितायाः, शत्रुनगरपतितानां च, उपरि कृतक्षुतं चान्नं न भुञ्जीत ॥२१३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनर्चितम्** इति । अर्चार्हस्य यद् अकृतारं दीयते अकृतदेवताद्यर्चनं यन् मासम् अतिथ्यादेर् दीयते कल्पयितुं “देवान् पितॄंश् चार्चयित्वा” इत्य् एवमादेर् वक्ष्यमाणत्वात् न भूज्ञीत ॥ ४.२१३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 213	Nor (food) given without due respect, nor (that which contains) meat eaten for no sacred purpose, nor (that given) by a female who has no male (relatives), nor the food of an enemy, nor that (given) by the lord of a town, nor that (given) by outcasts, nor that on which anybody has sneezed;
@@ -729,7 +843,7 @@ outcast......;—of the maleless woman, of the goldsmith, of the man who is cont
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२१४ पिशुनानृतिनोश्</summary>
 
 पिशुनानृतिनोश् चाऽन्नं  
 क्रतु-विक्रयिणस् तथा [मेधातिथिपाठः - क्रतुविक्रयकस्य च] ।  
@@ -788,6 +902,16 @@ invalid, the Soma-seller and the carpenter.’
 sacrifice-seller.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पिशुनः परोक्षे परापवादभाषणपरः, अनृतीत्यतिशयेनानृतवादी कूटसाक्ष्यादिः, क्रतुविक्रयिकः मदीययागस्य फलं तव भवत्वित्यभिधाय यो धनं गृह्णाति, शैलूषो नटः, तुन्नवायः सौचिकः, कृतघ्नो यः कृतोपकारस्यापकारे प्रवर्तते तस्यान भुञ्जीत ॥२१४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पिशुनानृतिनोश् चेति** । भषकासत्यवादिक्रतुपुण्यविक्रयिनटसौचिकानां उपकृतापकारिणाम् अन्नं नाश्नीयात् ॥ ४.२१४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 214	Nor the food (given) by an informer, by one who habitually tells falsehoods, or by one who sells (the rewards for) sacrifices, nor the food (given) by an actor, a tailor, or an ungrateful (man),
@@ -805,7 +929,7 @@ sacrifice-seller.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२१५ कर्मारस्य</summary>
 
 कर्मारस्य+++(=लोहकारस्य)+++ निषादस्य  
 रङ्गावतारकस्य च ।  
@@ -823,6 +947,7 @@ sacrifice-seller.’
 <details><summary>मेधातिथिः</summary>
 
 **कर्मारो** ऽयस्करः । **निषादो** दशमे वक्ष्यते । **रङ्गावतरको** नटगायनकेभ्यो ऽन्यो मल्लादिः । अथ वा प्रतिरङ्गम् उपतिष्ठते कुतूहली । **वेणः** वादित्रजीवितः[^२६६] । **शस्त्रविक्रयी** कृतस्य खड्गादेरकृतस्य वायसो विक्रेता ॥ ४.२१५ ॥
+
 
 [^२६६]:
      M G 1st ed: veṇuvāditrajīvitaḥ; J: veṇuḥ vāditrajīvitaḥ
@@ -863,6 +988,16 @@ dealers in bamboos and weapons.’
 the maleless woman;—of multitudes, of villages, of the accused and of those who make a living by the stage or by women.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कर्मारस्य लोहकारस्य, निषादस्य दशमाध्यायोक्तस्य नटगायनव्यतिरिकस्य, रङ्गावतरणजीविनः, सुवर्णकारस्य, वेणोर्भेदनेन यो जीवति, बुरुड इति विश्वरूपः । शस्त्र लोहः तद्विक्रयश्चान्नं न भुञ्जीत ॥२१५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कर्मारस्येति** । **कर्मारस्य **निषादवेणयोश् च दशमाध्यायवक्ष्यमाणयोः नटगायनव्यतिरिक्तस्यापि च **रङ्गावतरणजीविनः **सुवर्णकारशस्त्रविक्रयिणोश् चान्नं नाश्नीयात् ॥ ४.२१५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 215	By a blacksmith, a Nishada, a stage-player, a goldsmith, a basket-maker, or a dealer in weapons,
@@ -870,7 +1005,7 @@ the maleless woman;—of multitudes, of villages, of the accused and of those wh
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२१६ श्ववताम्</summary>
 
 श्व-वतां शौण्डिकानां च  
 चैल+++(=वस्त्र)+++-निर्णेजकस्य च ।  
@@ -888,6 +1023,7 @@ Nor of dog-keepers, or of wine-sellers or of the clothes-washer, or of the dyer,
 <details><summary>मेधातिथिः</summary>
 
 आखेटकाद्यर्थं ये शुनो बिभ्रति ते **श्ववन्तः** । **शौण्डिका** मद्यव्यसनिनस् तत्पण्यजीविनो वा । **चैलं** वस्त्रं तन् **निर्णेनक्ति** प्रक्षालयति । कारुकनामधेयम् एतत् । **रजको** वाससां नीलादिरागकारकः । **नृशंसो** नॄण् मनुष्याञ् छंसति स्तौति यो लोके बन्दीति प्रसिद्धः । अथ वा निर्दयो **नृशंसः** । **उपपतिर्** जारो भार्याया गृहे जारो यस्य[^२६७] वर्तते ॥ ४.२१६ ॥
+
 
 [^२६७]:
      M G 1st ed. omit: yasya
@@ -933,6 +1069,16 @@ the oilsman, the clothes-washer, the woman in her courses, and of the man who ha
 *Yājñavalkya* (1.163, 164).—(See above.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आखेटकाद्यर्थं शुनः पोषकाणां, मद्यविक्रयिणां, वस्त्रधावकस्य, कुसुम्भादिना वस्त्ररागकृतः, निर्देयस्य, यस्य चोपपतिर्गृहे जारश्च यस्याज्ञानतो गृहे स्थितस्तस्य गेहे नाद्यात् ॥२१६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+श्वक्रीडिमद्यविक्रयिवस्त्रधावनपटरागकृन्निष्ठुराणां जायाजारश् च यस्याविज्ञातो गृहे ऽस्ति तेषाम् अन्नं न भक्षयेत् ॥ ४.२१६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 216	By trainers of hunting dogs, publicans, a washerman, a dyer, a pitiless (man), and a man in whose house (lives) a paramour (of his wife),
@@ -945,7 +1091,7 @@ the oilsman, the clothes-washer, the woman in her courses, and of the man who ha
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२१७ मृष्यन्ति ये</summary>
 
 मृष्यन्ति ये चोपपतिं  
 स्त्रीजितानां च सर्वशः ।+++(5)+++  
@@ -964,11 +1110,14 @@ Nor of thos e who bear the presence of the paramour, or of those who are entirel
 
 पूर्वो ऽविदितभार्याजारः । अयं तु विदित्वा क्षमते न भार्याया निग्रहं करोति । नापि तस्य अविदुषो ऽन्यत्र गृहाज् जारिणो भोज्यान्नं नैव[^२६८] । स्त्रीजिताः येषां भार्यैव गृहे कर्त्री हर्त्री च स्वयं परिजनस्य[^२६९] च नेशस् तेन सर्वत्र तद्वशवर्तिनः । **प्रेतान्नं** मरणाशौचे तत्कुलीना अभोज्यान्नाः । **अनिर्दश**ग्रहणं कालोपलक्षणार्थम् । यदानिर्दशग्रहणं पूर्वत्र स्वतन्त्रम् आशौचसंबन्धिनाम् अविशेषेणान्नं प्रतिषेधति तद् इह प्रेतान्नकृतं[^२७०] यस्याप्य् आशौचं नास्ति सुहृद्बान्धवादेः । कारुण्याच् चतुर्थीश्राद्धादिप्रवृत्तस्य यद् अन्नं तन् न भोज्यम् । "दशाहिकं नावमिकं चतुर्थीश्राद्दम् अष्टमी" इत्यादि रामायणे वर्णितम् अन्यैर् अपि गृह्यकारैः । **अतुष्टिकरं** यस्मिन् भुज्यमाने चित्ततुष्टिर् न भवेत् ॥ ४.२१७ ॥
 
+
 [^२७०]:
      M G 1st ed.: pretānnaṃ kṛtaṃ
 
+
 [^२६९]:
      M G 1st ed.: parijanyasya
+
 
 [^२६८]:
      M G: naivaṃ
@@ -1018,6 +1167,16 @@ food should not be eaten:—Actor, dancer, carpenter, cobbler, goldsmith, a brot
 embryo-killer, harlot, weapon-maker, oil-presser, wine-seller, goldsmith, writer, eunuch, loose woman, astrologer, prostitute,—the food of these should not be eaten. The hog-dealer, fowler, vagabond, dyer, stage-maker, bamboo-dealer, cobbler,—of these, the food should not bo eaten, nor gifts accepted.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गृह इत्यनुषज्यते । गेहे ज्ञातं भार्याजारं ये सहन्ते तेषामन्नं न भुञ्जीत ।तेन गृहान्निः - सारिताया जारसहने नैष दोषः । तथा सर्वकर्मसु स्त्रीपरतन्त्राणाम्, अनिर्गताशौचं च सूतकान्नम् अतुष्टिकरमेव च न भुञ्जीत ॥२१७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मृष्यन्तीति** । भार्याजारं ये सहन्ते तदन्नम् अभोज्यम् एवं (च) गृहाद् गतायां जारिण्याम् उपेक्षितायाम् अपि प्रतिषेधः । सर्वकर्मसु स्त्र्यायत्तानां अनिर्गताशौचं च मृतकान्नम् अप्रीतिकरं च न भूज्ञीत ॥ ४.२१७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 217	Nor (the food given) by those who knowingly bear with paramours (of their wives), and by those who in all matters are ruled by women, nor food (given by men) whose ten days of impurity on account of a death have not passed, nor that which is unpalatable.
@@ -1030,7 +1189,7 @@ embryo-killer, harlot, weapon-maker, oil-presser, wine-seller, goldsmith, writer
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२१८ राजान्नं तेज</summary>
 
 राजान्नं तेज आदत्ते  
 शूद्रान्नं ब्रह्मवर्चसम् ।  
@@ -1048,6 +1207,7 @@ The king’s food takes off one’s vigour and the Śūdra’s food his Brahmic 
 <details><summary>मेधातिथिः</summary>
 
 अथेदानीम् अतिक्रमफलं दर्शयति । **राजान्न**भोजिनस् **तेजो**नाशः । एवं सर्वत्र द्रष्टव्यम् । **सुवर्णकारा**दयः शब्दाः शिल्पिविशेषजीविनां वाचकाः । ये सुवर्णं जीविकार्थं घटयन्ति **सुवर्णकारा** उच्यन्ते । एवं रजकादिष्व् अपि द्रष्टव्यम् । चर्मावक्र्न्तति[^२७१] छिन्दति **चर्मावकर्तिनः** । तेन कर्मणा ये जीवन्ति तेषाम् एषा रूढिः । इह येषां पूर्वत्र प्रतिषेधो नास्ति केवलं दोषः श्रूयते तेषां तत एव प्रतिषेधो ऽनुमेयः ॥ ४.२१८ ॥
+
 
 [^२७१]:
      M G 1st ed.: carmāvakṛttaṃ
@@ -1087,6 +1247,16 @@ involves a heavy penance;—in *Hemādri* (Śrāddha, p. 782);—and in
 Śūdra’s food one’s Brāhmic glory; he who cats unpurified food, eats the dirt of the earth.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+राजान्नं तेजो नाशयति । इत एव दोषदर्शनात्तन्नभक्षणनिषेधः कल्प्यते । एवमुत्तरत्रापि पूर्वमनिषिद्धस्य दोषदर्शनादेव निषेधकल्पम् ।“नाद्याच्छूद्रस्य पक्वान्नम” ( म. स्तृ. ४–२२३ ) इति निषेधिष्यति तदतिक्रमणफलकथनमिदम्— शुद्रस्य पक्वान्नमध्ययनादिनिमित्तं तेजो नाशयति । सुवर्णकारस्यान्नमायुः, चर्मकारान्नं ख्याति नाशयति ॥२१८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**राजान्नम्** इति । **राजान्नं तेजो **नाशयति अत एव च राजान्नप्रतिषेधो बोद्धव्यः । “नाद्याच् छूद्रस्य पक्वान्नम्” (४.२२३) अधिकुलमित्रं वेति शूद्रान्नप्रतिषेधं वक्ष्यति, अतस् तदन्नं अध्ययनादिनिमित्तं तेजो ऽपहन्ति **सुवर्णकार**चर्मछेद्यन्ने आयुःख्याती हरत इति व्यतिक्रमफलकथनम् ॥ ४.२१८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 218	The food of a king impairs his vigour, the food of a Sudra his excellence in sacred learning, the food of a goldsmith his longevity, that of a leather-cutter his fame;
@@ -1094,7 +1264,7 @@ involves a heavy penance;—in *Hemādri* (Śrāddha, p. 782);—and in
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२१९ कारुकान्नम्</summary>
 
 कारुकान्नं+++(=शिल्प्यन्नं)+++ प्रजां हन्ति  
 बलं निर्णेजकस्य च ।  
@@ -1136,6 +1306,16 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 507);—and in
 food is semen,’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कारुकस्य सूपकारादेरत्नं प्रजासपत्यं निहन्ति । चर्मकारादेः कारुकत्वेऽपि गोबलीवर्दन्यायेन पृथङ् निर्देशः । निर्णोजकस्यान्नं बलं हन्ति । गणगणिकयोरत्नंच कर्मान्तराजितेभ्यः स्वर्गादिलोकेभ्य आच्छिनत्ति ॥२१९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कारुकान्नम्** इति । सूपकाराद्यन्नम् अपत्यानि हन्ति । अस्याप्य् अत एव निषेधः । चर्मकारादीनां चान्नं गोबलीवर्दन्यायेन निर्देशो द्रष्टव्यः । एवम् इह शास्त्रे सर्वत्र विज्ञेयम् । निर्णेजकान्नं च कर्मान्तरार्जितेभ्यः स्वर्गादिलोकेभ्यः आच्छिनत्ति ॥ ४.२१९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 219	The food of an artisan destroys his offspring, that of a washerman his (bodily) strength; the food of a multitude and of harlots excludes him from (the higher) worlds.
@@ -1143,7 +1323,7 @@ food is semen,’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२२० पूयम्</summary>
 
 पूयं चिकित्सकस्याऽन्नं  
 पुंश्चल्यास् त्व् अन्नम् इन्द्रियम् ।  
@@ -1188,6 +1368,16 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 507);—and in
 See Comparative notes for [Verse 4.219].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चिकित्सकस्यान्नं पूयंपूयभक्षणसमदोषम् । एवं पुंश्चल्या अन्नमिन्द्रियं शुक्रम् । वार्धुषिकस्यान्नं पुरीषम् ।लोहविक्रयिणोऽन्नंविष्टाव्यतिरिक्तश्लेष्मादि । गोविन्दराजस्तु चिकित्स कान्नभक्षणेन तथाविधायां जातौ जायते, यत्र पूयभुग्भवतीत्याह ॥२२०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पूयम्** इति । चिकित्सकान्नादनेन तथाविधायां जाताव् उत्पद्यते यत्र पूयभुक् भवति । एवं पुंश्चल्यन्नं शुक्रं वार्धुषिकान्नं पुरीषं **शस्त्रविक्रयिणः **शुक्रविष्ठादिव्यतिरिक्तं मूत्रादिमलम् ॥ ४.२२० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 220	The food of a physician (is as vile as) pus, that of an unchaste woman (equal to) semen, that of a usurer (as vile as) ordure, and that of a dealer in weapons (as bad as) dirt.
@@ -1195,7 +1385,7 @@ See Comparative notes for [Verse 4.219].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२२१ य एते</summary>
 
 य एते ऽन्ये त्व् अभोज्यान्नाः  
 क्रमशः परि-कीर्तिताः ।  
@@ -1226,6 +1416,20 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 507);—and in
 *Hemādri* (Śrāddha p. 782).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ अमृतं ब्राह्मणस्यान्नं क्षत्रियान्नं पयः स्मृतम् ।**
+
+**वैश्यान्नमन्नमित्याहुः शूद्रस्य रुधिरं स्मृतम् ॥१४॥ \]**
+
+प्रतिपदनिर्दिष्टेभ्यो येऽन्ये क्रमेणाभोज्यान्ना अस्मिन्प्रकरणे पठितास्तेषां यदन्नं तत् त्वगस्थिरोमाणि, यास्तदीयास्त्वचः तासां कीकसस्य रोम्णां च भुक्तानां यो दोषः स एव तदन्नस्यापि भुक्तस्य बोद्धव्यः ॥२२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । साक्षादुक्तफलेभ्यो **ये अन्ये **क्रमेण **भोज्यान्नाः **कथिताः तत्सम्बन्ध्यन्नं चर्मास्थिरोमाणि प्रशस्तबुद्धयो वदन्ति ॥ ४.२२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 221	The food of those other persons who have been successively enumerated as such whose food must not be eaten, the wise declare (to be as impure as) skin, bones, and hair.
@@ -1250,7 +1454,7 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 507);—and in
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२२२ भुक्त्वातो</summary>
 
 भुक्त्वातो ऽन्यतमस्याऽन्नम्  
 अमत्या +++(भोजन)+++क्षपणं त्र्यहम् ।  
@@ -1272,10 +1476,12 @@ After unknowingly eating the food of any one of these, there should be a three d
 
 **त्र्यहं क्षपणम्** अभोजनम् । **अमत्या** अबुद्धिपूर्वम् । बुद्धिपूर्वे तु **कृच्छ्रं चरेत्** । तच् च कृच्छ्रं स्मृत्यन्तरैकवाक्यत्वात् तप्तकृच्छ्रम् । तत्र **रेतोविण्मूत्र**प्राशने तप्तकृच्छ्रम् आम्नातम्- "अमत्या[^२७३] पाने पयो घृतम् उदकं वायुः प्रतित्र्यहं तप्तातिकृच्छ्रः । ततो ऽस्य संस्कारः" (ग्ध् २३.२) इति । अप्रकरणे च प्रायश्चित्तवचनं दोषातिशयदर्शनार्थम् । 
 
+
 [^२७३]:
      M G 1st ed.: matyā
 
 अन्यतमस्ये**ति षष्ठीनिर्देशात् परिग्रहदुष्ट एवेदं प्रायश्चित्तं मन्यन्ते न कालस्वभावसंसर्गदुष्टे । शुक्तपर्युषितादौ चतुर्विधं ह्य् अभोज्यम् । कालदुष्टं शुक्तपर्युषितादि । संसर्गदुष्टं मद्यानुगतादि । स्वभावदुष्टं लशुनादि । परिग्रहदुष्टं प्रकृताभोज्यान्नानां यत् ।
+
 
 - <u>अत्रोच्यते</u> । सत्यं । चतुर्विधम् अभोज्यं भवति । षष्टीनिर्देशो ऽप्य् अस्ति । किं तु यदि शुक्तादेर् नेदं प्रायश्चित्तं स्यात् तद् इह प्रकरणे तेषाम् उपादानम् अनर्थकम् एवापद्येत । पञ्चमे हि तयोः प्रतिषेधो नास्ति । तस्माद् इह प्रायश्चित्तार्थम् एवैवमादीनाम् उपादानम् । 
 
@@ -1318,6 +1524,30 @@ be eaten, he should reduce himself to a condition when there is nothing in his b
 one should give to the Brāhmaṇa the price of that food; he should remain with wet clothes throughout the day, or he should give a cow.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषां मध्येऽन्यतमसम्बधान्नमज्ञानतो भुक्त्वा त्र्यहमुपवासः, ज्ञानतस्तु कृच्छ्रम् । एवं रेतोविण्मूत्रभोजनेऽपि । एतच्चान्यतमस्येति षष्ठीनिर्देशान्मत्तादिसम्बन्धिनः परिग्रहदुष्टान्नस्यैव प्रायश्चित्तं न संसर्गदुष्टस्य केशकीटावपन्नादेः । नापि कालदुष्टस्य पर्युषितान्नादेः । नापि निमित्तदुष्टस्य घुष्टादेः ।एकप्रकरणोपदेशश्चैषां स्नातकत्वज्ञापनार्थम् । प्रायश्चित्तं चैतेष्वेकादशे वक्ष्यति । यदि तु सर्वेष्वेवं प्रायश्चित्तं स्यात्तदा भुक्त्वाऽतोऽन्यतमस्यान्नं दुष्टम् इत्यभ्यधास्यत्, न त्वन्यतमस्य तु भुक्त्वेति ।
+
+**तस्मादेकप्रकरणाद्यन्मे (१)[^81] धातिथिरभ्यधात् ।**
+
+[^81]: "अप्रकरणे च प्रायश्चित्तवचनं दोषातिशय दर्शनार्थम् । 'अन्यतमस्य' इति षष्ठोनिदशात्परिग्रहदुष्ट एवेदं प्रायश्चित्तं मन्यते, न कालस्वभावसंसर्गदुष्टे । शुक्तायुषितादौ चतुर्विधं 'ह्यमोज्यम्—कालदुष्टं शुक्त्यर्युषितादि, संसर्गदुष्टं मद्यानुगतादि, स्वभावदुष्टं लशुनादि, परिग्रदुष्टं प्रकृतामोज्याजानां यत् । अत्रोच्यते- सत्यं चतुर्विधं ह्यभोज्यं भवति, षष्ठोनिर्देशोऽप्यस्ति, किन्तु यदि शुक्तादैनंदं प्रायश्चित्तं स्यात्तदिह प्रकरणे तेषामुपादानमनर्थकमेवापद्येत । पञ्चमे हि तयोः प्रतिषेधो नास्ति । तस्मादिह प्रायश्चित्तार्थमेवैवमादीनामुपादानम् ।"
+
+**प्रायश्चित्तमिदं युक्तं शुक्तादौ तदसुन्दरम् ॥**
+
+अप्रकरणे च प्रायश्चित्तस्याभिधानं लाववार्थम् । तत्र क्रियमाणे मत्तादिग्रहणमाप कतव्यं स्यात् ॥२२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भुक्त्वेति** । एषां मध्याद् अन्यतमसम्बन्ध्यन्नम् अज्ञानात् **भुक्त्वा त्र्यहम्** अभोजनं कुर्यात् । इच्छातस् तु भुक्त्वा चरेत् प्राजापत्यं **कृच्छ्रम् । रेतोविण्मूत्रं चामत्या भुक्त्वा **गौतमसमरणात् तप्तकृच्छ्रम् आचरेत् । तथा चाह – “सुराया अमत्या पाने पयो घृतम् उदकं वायुं प्रतित्र्यहं तप्तानि स तप्तकृच्छ्रः, ततो ऽस्य संस्कारः । मूत्रपुरीषरेतसां प्राशने चैवम्” इति । अत्र चान्यतमस्येति यद्य् अपि श्रुतं तथापि,
+
+> स्वभावकालसंसर्गनिमित्तपरिणामतः ।
+
+> भावाश्रयप्रदुष्टं च नित्यम् अन्नं विवर्जयेत् ॥
+
+इति सप्तविधस्यात्रपठितस्यापि दुष्टस्येदम् एव प्रायश्चित्तम् एकप्रकरणोपदेशात् । अस्मिंश् च प्रकरणे एषां प्रायश्चित्तान्तरानाम्नानात् । शुक्तपर्युषितयोश् च पञ्चमाध्यायवक्ष्यमाणनिषेधयोर् अपि इह प्रायश्चित्तविशेषार्थम् एवोपादानम् इत्य् आहुः । _तद् असत्_, “एवम् अभिप्रेतम् उक्त्वा” अतो ऽन्यतमदुष्टम् इत्य् एवम् अवक्ष्यत् । अपौरुषेयेषु हि ग्रन्थेषु लिङ्गमात्रम् अपि व्यवस्थाहेतुर् भवति । तावतैव वक्त्राशयानुमानात् । एकप्रकरणोपदेशश् च स्नातकव्रतत्वख्यापनार्थः । इह प्रायश्चित्तान् आम्नाने ऽपि च एषाम् एकादशाध्यायोक्तानि प्रायश्चित्तानि भविष्यन्ति । शुक्तपर्युषितयोश् चेह स्नातकव्रतत्वार्थम् एवाभिधानम् । तस्माद् यथाश्रुतम् एव त्याज्यम्, तत्र स्वभावदुष्टं मूत्रादि, कालदुष्टं पर्युषितादि, संसर्गदुष्टं दुष्टान्नादि, परिणामदुष्टं शुक्तादि, भावदुष्टं सद्यःपीडितद्राक्षारसादि, आश्रयदुष्टं मत्तादिसम्बन्धि । अप्रकरणे च प्रायश्चित्तोपदेशो लाघवाद्यर्थम्, तत्र हिस् किर्यमाणे मन्त्रादिग्रहणं कर्तव्यं स्यात् ॥ ४.२२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 222	If he has unwittingly eaten the food of one of those, (he must) fast for three days; if he has eaten it intentionally, or (has swallowed) semen, ordure, or urine, he must perform a Krikkhra penance.
@@ -1325,7 +1555,7 @@ one should give to the Brāhmaṇa the price of that food; he should remain with
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२२३ नाऽद्याच्</summary>
 
 नाऽद्याच् छूद्रस्य पक्वान्नं  
 विद्वान् अश्राद्धिनो द्विजः ।  
@@ -1426,6 +1656,20 @@ food loses his soul, his Veda and his three Fires.’
 strength and vigour.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ चन्द्रसूर्यग्रहे नाद्यादद्यात्स्नात्वा तु मुक्तयोः ।**
+
+**अमुक्तयोरगतयोरद्याञ्चैव परेऽहनि ॥१५॥ \]**
+
+अविशेषेण शूद्रान्नं प्रतिषिद्धं तस्येदानीं विशिष्टविषयतोच्यते । अश्रादिनः श्राद्धादिपञ्चयज्ञशून्यस्य शूद्रस्य शास्त्रविद् द्विजः पक्वान्नं न भुञ्जीत, किन्त्वन्नान्तराभावे सत्येकरात्रनिर्वाहोचितमाममेवान्नमस्माद् गृह्णीयान्न तु पक्कान्नम् ॥२२३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नाद्याद् **इति । श्राद्धादिक्रियाशून्यस्य सच्**छूद्रस्य** शास्त्रवित् द्विजः **पक्वान्नं **न भुञ्जीत । अपि त्व् अन्नान्तराभावे **आमम् **एव न पक्वम् एकाहोरात्रपर्याप्तं नाधिकम् अस्मात् प्रतिगृह्णीयात् ॥ ४.२२३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 223	A Brahmana who knows (the law) must not eat cooked food (given) by a Sudra who performs no Sraddhas; but, on failure of (other) means of subsistence, he may accept raw (grain), sufficient for one night (and day).
@@ -1440,7 +1684,7 @@ strength and vigour.’
 
 ## श्रद्धा
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२२४ श्रोत्रियस्य</summary>
 
 श्रोत्रियस्य कदर्यस्य  
 वदान्यस्य च वार्धुषेः ।  
@@ -1501,6 +1745,16 @@ if he is endowed with faith; but never of that man who sacrifices for, or initia
 teacher should not be eaten, if it is not offered with respect.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एकोऽधीतवेदः कृपणश्च, परो दाता वृद्धिजीवी च तयोरुभयोरपि गुणदोषवत्त्वं विचाय देवास्तुल्यमन्नमनयोरिति निरूपितवन्तः, उभयोरपि गुणदोषसाम्यात् ॥२२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्रोत्रियस्येति **। एको ऽधीतवेदः कृपणः पर उदारो वृद्धिजीवी वा तयोर् गुणम् उभयं विचार्य देवास् तुल्यम् अन्नम् अनयोर् इति कल्पितवन्तः, उभयोर् अपि गुणयोगात् ॥ ४.२२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 224	The gods, having considered (the respective merits) of a niggardly Srotriya and of a liberal usurer, declared the food of both to be equal (in quality).
@@ -1508,7 +1762,7 @@ teacher should not be eaten, if it is not offered with respect.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२२५ तान् प्रजापतिर्</summary>
 
 तान् प्रजापतिर् आहैत्य  
 मा कृध्वं विषमं समम् ।  
@@ -1552,6 +1806,16 @@ See Explanatory notes for [Verse 4.224].
 **
 
 See Comparative notes for [Verse 4.224].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+तान्देवानागत्य ब्रह्मा प्रोवा व, विषममन्नं मा समं कुरुत ।विषमसमीकरणमनुचितम् । कः पुनरनयोर्विशेष इत्यपेक्षायां स एवावोचत्—दानशीलवाधुषिकस्यापि । श्रद्धयाऽन्नं पवित्रं भवति । कृपणान्तं पुनरश्रद्धया हतं दूषितमवसम् । प्रागुभयप्रतिषेधेऽपि श्रद्धादत्तविद्वद्वार्धुषिकान्नविशुद्धिबोधनपरमिदम् ॥२२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तान्** इति । **तान्** देवान् ब्रह्मा आगत्य **विषमं** यत् तत् **मा समम्** इति व्याचष्ट । यस्माद् वदान्यान्नं श्रद्धया पविर्तीकृतं भवति । कदर्यान्नं पुनः अश्रद्धया दूषितम् इत्य् उभयप्रतिषेधे ऽपि श्रद्धावद् वार्धुषिकान्नप्रतिप्रसवार्थम् इदम् ॥ ४.२२५ ॥
 </details>
 
 <details><summary>Bühler</summary>

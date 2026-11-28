@@ -2,7 +2,7 @@
 title = "१५ धर्मप्रशंसा"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१७० अधार्मिको नरो</summary>
 
 अधार्मिको नरो यो हि  
 यस्य चाऽप्य् अनृतं धनम् ।  
@@ -35,6 +35,18 @@ This is supplementry to the prohibition of Injury in general.
 Such a man does not obtain happiness in this world.—(170).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अधर्मेण व्यवहरतीत्यधार्मिकः शास्त्रप्रतिषिद्धागम्यागमनाद्यनुष्ठाता यो मानुषो, यस्य च साक्ष्ये व्यवहारनिर्णयादौ च मिथ्याऽभिधानसेव धनोपायोऽसत्यमभिधायोत्कोचधनं गृह्णाति,
+
+यश्च परहिंसाऽभिरतः, नासाविह लोके सुखयुक्तो वर्तते । तस्मादेतन कर्तव्यमिति निन्दया निषेधः कल्प्यते ॥१७०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अधार्मिक** इति । यस्माद् **यो नरः **अधर्माचरणशीलो **यस्य **वा असत्यम् एव धनं तत् प्राधान्येन व्यवहाराख्यं सर्वदा हिंसानिरतः स इह लोके ऽपि न सुखं वर्धते । तस्माद् एतन् न कार्यम् ॥ ४.१७० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 170	Neither a man who (lives) unrighteously, nor he who (acquires) wealth (by telling) falsehoods, nor he who always delights in doing injury, ever attain happiness in this world.
@@ -55,7 +67,7 @@ Such a man does not obtain happiness in this world.—(170).
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१७१ न सीदन्न्</summary>
 
 न सीदन्न् अपि धर्मेण  
 मनो ऽधर्मे निवेशयेत् ।  
@@ -73,8 +85,6 @@ Perceiving the quick overthrow of unrighteous sinners, he shall not turn his min
 <details><summary>मेधातिथिः</summary>
 
 **धर्मः** शास्त्रमर्यादा । तेन वर्तमानः **सीदन्न् अप्य्** अवसादम् अपि प्राप्नुवन् **नाधर्मे मनो निवेशयेत्** । यत **अधार्मिका** यद्य् अपि चौर्योत्कोचदम्भादिभिर् धनसमृद्धा दृश्यन्ते, तथापि तेषाम् **आशु विपर्ययो** दृश्यते धननाशादिः । अतो न धर्माद् विचलेत् ॥ ४.१७१ ॥
-
-_सुहृद् भूत्वा दृष्टम् अर्थं दर्शितवान् । इदानीं शास्त्रार्थम् आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -87,6 +97,16 @@ The Author has, in a friendly spirit, shown us a visible instance.—(171)
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 68), which adds the following explanation:—‘*Sīdan*’, even though one may be in difficulties regarding necessary expenses,—‘*adharmeṇa*’, by improper appropriation of what belongs to others,—‘*adharmikāṇām*’, of those who do not perform the prescribed duties,—‘*pāpānām*,’ of those who do what is forbidden,—‘*viparyayam*,’ loss of wealth and other things,—‘*āśu*’ lias been added only with a view to emphasise, as calamity is actually found to overtake sinners *after the lapse of some time also*.
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+शास्त्रविहितधर्ममनुतिष्ठन्धनाद्यभावेनावसीदन्नपि कदाचिन्नाधर्मं बुद्धिं कुर्यात् । यस्मादधर्मव्यवहा-रिणो यद्यप्यापाततो धनादिसम्पद्भागिनोऽपि दृश्यन्ते तथापि तेषामधार्मिकाणामधर्मचौरादिव्यवहारियां पापिनां तज्जनितदुरितशालिनां शीघ्रं धनादिविपर्ययोऽपि दृश्यते । तं पश्यन्नाधर्मे धियं दद्यादिति शिष्यहिताय दृष्टमर्थं दर्शितवान् ॥१७१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नाधर्म** इति । यथा **गौः **वाहनदोहनादिना **सद्यो लोके फलति** तथ्**आधर्मश् चरितः सदो न फलति** । किं तर्हि । **शनैः शनैः **कालान्तरेण फलदानोन्मुखी भवन् **कर्तुर् मूलानी**व **कृन्तति **। कृत्तमूलापादपवत् कर्तारं निअरन्वयं नाशयति ॥ ४.१७२ ॥
 </details>
 
 <details><summary>Bühler</summary>
@@ -113,7 +133,15 @@ This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 68), which adds the 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_सुहृद् भूत्वा दृष्टम् अर्थं दर्शितवान् । इदानीं शास्त्रार्थम् आह ।_
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१७२ नाऽधर्मश् चरितो</summary>
 
 नाऽधर्मश् चरितो लोके  
 सद्यः फलति गौर् इव ।  
@@ -134,6 +162,7 @@ Unrighteousness, practised in this world, does not, like the Earth (or the Cow) 
      DK (5: 616): āvartamānas
 
 अनियतकालत्वाद् वैदिकानां शुभाशुभफलानां कर्मणाम् एवम् उच्यते । **नाधर्मश् चरितः** अनुष्ठितः **सद्यः फलति** फलं ददाति । वेदे हि केवलं कर्मणां विहितप्रतिषिद्धानां सुखदुःखपलत्वं श्रुतम् । कालविशेषस् तु नावगमितः । वाक्यव्यापारो हि कर्तव्यतावगमपरत्वे ऽपि कर्मफलसंबन्धबोधमात्रे पर्यवस्यति, न कालविशेषम् आक्षिपति फलवतां कर्मणाम् । नित्यानां तु न फलतः कर्तव्यता । प्रतिषिद्धपरिहारे[^२३२] ऽपि नैव नरकादिदुःखनिवृत्तिकामस्याधिकारः, किं तु शास्त्रप्रतिषेधसामर्थ्यात् । स तु प्रतिषेधो दुःखफलत्वं प्रतिषिद्धानुष्ठानस्य बोधयति । निपुनत एतद् उच्यमानम् अतिग्रन्थविस्तरम् आक्षिपतीत्य् उपरम्यते ।
+
 
 [^२३२]:
      M G J: tu phalataḥ kartavyatāpratiṣiddhaparihāre; I follow DK 5: 616.
@@ -170,6 +199,11 @@ The *cutting off of the root* indicates total annihilation. Just as when the roo
 taken as an example *per* similarity, then it means ‘earth’,—the earth does not produce the harvest immediately after sowing of seeds; if it is taken as ‘cow’, then it is an example *per* dissimilarity, the meaning being ‘the cow gives its products, in the shape of milk &c. immediately, not so *sin*, which takes time to fructify.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शास्त्रेणानियमितकालपरिपाकत्वाच्छुभाशुभकर्मणां नाधर्मोऽनुतिष्ठतः तत्काल एवं फलति । गौरिवेह भूमिपक्षे साधर्म्यदृष्टान्तः । यथा भूमिरुप्तबीजमात्रा तदैव प्रचुरपचेलिमफलव्रीहिस्तबकसंव-लिता न भवति किंतु नियमफलपाकसमयमासाद्य ।पशुपक्षे वैधर्म्यदृष्टान्तः । यथा गौः पशुर्वाहदोह्नाभ्यां सद्यः फलति नैवमधर्मः, किंतु क्रमेणावर्तमानः फलोन्मुखीभवन्नधर्मकर्तुर्मूलानि छिनत्ति ।मूलच्छेदेन सर्वनाशो लक्ष्यते । देहधनाद्यन्वितो नश्यति ॥१७२॥
+</details>
+
 <details><summary>Bühler</summary>
 
 172	Unrighteousness, practised in this world, does not at once produce its fruit, like a cow; but, advancing slowly, it cuts off the roots of him who committed it.
@@ -177,7 +211,7 @@ taken as an example *per* similarity, then it means ‘earth’,—the earth doe
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१७३ यदि नात्मनि</summary>
 
 यदि नात्मनि पुत्रेषु  
 न चेत् पुत्रेषु नप्तृषु ।  
@@ -221,6 +255,18 @@ accrue to the Son.
 This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 68)—which adds ‘*Kṛtodharmaḥ*’ should be construed as ‘*Kṛtaḥ adharma*’, as the context deals with *Adharma*,—‘*na* *niṣphalaḥ*,’ *i.e*., unless it is expiated.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि स्वयं कर्तृर्देहधनादिनाशं फलं न जनयति, तदा तत्पुत्रेषु, नोचेत्पौत्रेषु जनयति, न तु निष्फल एव भवति ।
+
+ननु अन्यकृतस्य कर्मणः कथमन्यत्र फलजनकत्वम् ? उच्यते, पुत्रादिनाशस्य पितुः क्लेशहेतुत्वा-च्छास्त्रीयत्वाच्चास्यार्थस्य नाविश्वासः ॥१७३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यदीति । यदि **स्वशरीरव्याध्युत्पादनद्वारेणाधर्मो न फलति तदा पुत्रपौत्ररोगाद्युद्भवमुखेन फलति । न त्व् असौ कृतः कदाचित् **कर्तुर् निष्फलो भवति** यैश् च दुष्कृतवशेन व्याध्याद्युपेतैर् भवितव्यं तथाविधाः तस्यात्मदुष्कृतबलात् तद्विपत्त्यादिदर्शनपीडानुभवार्थं पुत्रपौत्रा इह जन्मनि जन्मान्तरे वा जायन्ते ॥ ४.१७३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 173	If (the punishment falls) not on (the offender) himself, (it falls) on his sons, if not on the sons, (at least) on his grandsons; but an iniquity (once) committed, never fails to produce fruit to him who wrought it.
@@ -245,7 +291,7 @@ This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 68)—which adds ‘
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१७४ अधर्मेणैधते</summary>
 
 अधर्मेणैधते तावत्  
 ततो भद्राणि पश्यति ।  
@@ -286,6 +332,16 @@ For these reasons, righteousness should not be forsaken.—(1 74).
 ‘*Vardhatyadharmeṇa naraḥ*’ for ‘*adharmeṇaidhate tāvat*.’)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अधर्मेण परद्रोहादिना तावदापाततो ग्रामधनादिना वर्धते । ततो भद्राणि बहुभृत्यगवाश्वादीनि लभते । ततः शत्रून्स्वस्मादपकृष्टाञ्जयति । पश्चात्कियता कालेनाधर्मपरिपाकवशाद्देहधनतनयादिसहितो विनश्यति ॥१७४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अधर्मेनेति । अधर्मेण **परस्वहरणादिना सम्प्रति धनवृद्ध्यादियुक्तो भवति । तदनन्तरं तद्धनाद्युपभोगद्वारेण सुखान्य् अनुभवति, तदनुभावाच् च सुखित्वादिना शत्रून् अभिभवति, ततो ऽस्मिन्न् एव जन्मनि सर्वनाशं नश्यति मृतो वा अपुनर्भवं नरकम् उपैति ॥ ४.१७४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 174	He prospers for a while through unrighteousness, then he gains great good fortune, next he conquers his enemies, but (at last) he perishes (branch and) root.
@@ -293,7 +349,7 @@ For these reasons, righteousness should not be forsaken.—(1 74).
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१७५ सत्यधर्मार्यवृत्तेषु</summary>
 
 सत्य-धर्मार्यवृत्तेषु  
 शौचे चैवारमेत् सदा ।  
@@ -312,8 +368,10 @@ He shall always delight in truthfulness, Law and right conduct, as also in ceanl
 
 **सत्यं** यथादृष्टार्थवादिता । **धर्मः** श्रुतिविषयौ विधिप्रतिषेधौ । सत्यस्य ताद्रूप्ये ऽपि बेदेन निर्देशो ऽतिशयार्थः । अनृतं पुरुषाणां स्वभावभूतम् । अतो यत्नेन पुनः पुनः प्रतिषिध्यते । **आर्यवृत्तं** सदाचारः । **आर्याः** शिष्टास् तेषां **वृत्तम्** आचरितम् । तत्र **आरमेत्** । रतिः परितोषः । एतेष्व् अर्थेषु परितोषो ऽनेन विधीयते । अन्यान् अप्य् एवम् आचारान् दृष्ट्वा मनःप्रसादं कुर्यात् । **शिष्याश्** चैव[^२३३] भार्यापुत्रदासच्छात्रा धर्मेणानुशासनीयाः । "पृष्ठतस् तु शरीरस्य" (म्ध् ८.३००) इत्यादिधर्माः । **वाग्बाहूदरसंयतः** । सत्य् असति च प्रयोजने अबहुभाषिता **वाक्संसमः** । **बाह्वोः संयमो** बाहुबलाश्रयणेन कस्यचिद् अपि अपीडनम्[^२३४] । **उदरस्य संयमो** ऽनौदरिकता अबहुभोजित्वम् । औदरिकता बहुभोजित्वं भोज्यविशेषे गर्धया परगृहे बाहुल्येन भोजनम् । 
 
+
 [^२३४]:
      M G: pīḍanam
+
 
 [^२३३]:
      M G: ca
@@ -353,6 +411,16 @@ What has been already said before, is repeated over and over again, because whol
 generative organ, the stomach, the hands, the feet, speech and eyes. He shall be devoted to Truthfulness and Rightful Conduct. He shall be the instructor of well-disciplined pupils; practised in cleanliness, and devoted to the Veda;—ever harmless, mild, firmly active, self-controlled and charitable.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सत्यधर्मसदाचारशौचेषु सर्वदा रतिं कुर्यात् । शिष्यांश्चानुशासनीयान्भार्यापुत्रदासच्छात्रान् "रज्ज्वा वेणुदलेन वा” ( म. स्मू. ८-२९९ ) इति प्रकारेण शासयेत् । उक्तानामष्यभिधानादादरार्थं वाग्बाहूदरसंयतश्च स्यात् । वाक्संयमः सत्यभाषिता । बाहुसंयमो बाहुबलेन कस्याप्यपीडनम् ।उदरसंयमो यथालब्धाल्पभोजनम् ॥१७५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यत एवम् अतः **सत्यधर्मार्यवृत्तेष्व्** इति । **सत्यधर्म**साध्वाचारशौचेषु, सर्वदा रतिं भावयेत् । शासनीयांश् च भार्यादीन् “पृष्ठतस् तु शरीरस्य” इत्यादिशास्त्रमर्यादया **वाग्बाहूदर**सयमयुक्तो नियमयेद् इत्य् उक्तम् । पुनर्वचन अशिष्टानाम् अभिनिवेशदार्ढ्यार्थम् ॥ ४.१७५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 175	Let him always delight in truthfulness, (obedience to) the sacred law, conduct worthy of an Aryan, and purity; let him chastise his pupils according to the sacred law; let him keep his speech, his arms, and his belly under control.
@@ -365,7 +433,7 @@ generative organ, the stomach, the hands, the feet, speech and eyes. He shall be
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१७६ परित्यजेद्</summary>
 
 परित्यजेद् अर्थ-कामौ  
 यौ स्यातां धर्मवर्जितौ ।  
@@ -386,14 +454,18 @@ He shall, avoid such wealth and pleasures as are opposed to righteousness, as al
 
 - **परित्यजेत्** परिहरेत् तादृशार्थकामौ यत्र धर्मविरोधः । एवं सर्वतो धर्मस्य बलीयस्त्वम् उक्त्वा कस्मिंश्चिद् विषये तस्यापि परिहर्तव्यताम् आह- **धर्मं चाप्य् असुखोदर्कम्** । उदर्कः उत्तरकालः, सो ऽसुखो यस्य — यथा सर्वस्वदानं वा ददाति "धार्मिको ऽयं[^२३५] महापुण्यः" इति, यथा नदीतीरेष्व् एकान्तेष्व् अपि प्राकृतजना बहवः पश्यन्ति तत्र स्नानम् । भवतीत्य् अर्थस्नानं धर्मार्जनसमक्षापेक्षा[^२३६] तु साधुवादाय । यथा च तीर्थकाकेभ्यो दानम् । भवति दानं धर्मः, दातृत्वप्रसिद्ध्युत्पादनार्थत्वात् — तेभ्यो भिद्यते[^२३७] । अथ वा यद् गर्ह्यतया लोकः संक्रोशति — यथा गोर् अवध्यस्य वधः, मांसस्य भक्षणं च — तद् विगर्हिततरं पश्वन्तरेभ्यो लोके । दृष्टमूलश् चायम् अहिस्पर्शवत् प्रतिषेधः । विहितो ऽयम् अर्थ इत्य् अवैद्यतया प्राकृतजना अजानाना अधार्मिकत्वं यष्टुः प्रख्यापयेयुस् तेषां च बहुत्वतः प्रसिद्ध्या शिष्टा अप्य् एवं प्रसिद्धमूलम्[^२३८] अनवगच्छन्तः परिवर्जयेयुः । तद् उक्तम् "धार्मिके सति राजनि" (म्ध् ११.१०) इति । 
 
+
 [^२३८]:
      DK (5: 618) suggests: prasiddhaṃ mūlam
+
 
 [^२३७]:
      M G: nindyate; DK (5: 618) suggests: vidyate
 
+
 [^२३६]:
      DK (5: 618) suggests: tīrthasnānaṃ dharmārjanaṃ samakṣāpekṣā
+
 
 [^२३५]:
      M G: dharmakoyaṃ
@@ -439,6 +511,16 @@ accosting and saluting.’
 trying to attain the other three purposes, and he shall follow the path of liberation without disregarding the other three. This is the golden mean.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यावयकामौ धर्मविरोधिनौ भवेतां तौ परिहरेत् । यथा चौर्यादिनाऽर्थोपपादनं, दीक्षादिने यजमानस्य पत्न्युपगमः । उदर्क उत्तरकालस्तत्रासुखं यत्र धर्मे तं धर्ममपि परित्यजेत् । यथा पुत्रादिवर्गपोष्ययुक्तस्य सर्वस्वदानम् ।लोकविक्रुष्टं यत्र लोकानां विक्रोशः, यथा कलौ मध्यमाष्टकादिषु गोवधादिः ॥१७६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**परित्यजेद्** इति । सत्य् अपि च त्रिवर्गस्य पुरुषार्थत्वाभिधाने **पर्तित्यजेद्** इति । **धर्मम् अप्य् असुखोदर्कं लोकसङ्क्रुष्टम् एव च **। धर्मविरुद्धाव् अर्थकामौ असुखोत्तरकालं चाशक्तस्य तीव्रतपश्चरणादिरूपं धर्मं लोकाभिशापजनकं च मधुपर्कगोवधादिरूपं नाचरेत् ॥ ४.१७६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 176	Let him avoid (the acquisition of) wealth and (the gratification of his) desires, if they are opposed to the sacred law, and even lawful acts which may cause pain in the future or are offensive to men.
@@ -451,7 +533,7 @@ trying to attain the other three purposes, and he shall follow the path of liber
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१७७ न पाणिपादचपलो</summary>
 
 न पाणि-पाद-चपलो  
 न नेत्र-चपलो ऽनृजुः ।  
@@ -495,6 +577,16 @@ p. 9) to the effect that family-custom is to be regarded as a guide in cases whe
 with his eyes, nor with his limbs; such should be the conduct of the cultured.’
 
 *Gautama* (1.50).—(See under 175, above.)
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+पाण्यादिचापलं त्यजेत् । अनुपयुक्तवस्तूपादानादि पाणिचापलम् ।निष्प्रयोजनं भ्रमणादि पादचापलम् ।परस्त्री प्रेक्षणादि नेत्रचापलम्। बहुगाह्यँवादिता वाक्चापलम् ।अनृजुः कुटिलो न स्यात् । परद्रोहो हिंसा तदर्थं चेष्टां धियं च न कुर्यात् ॥१७७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न पाणिपादचपल** इति । हस्तपादचक्षुर्वाग्व्यापारान् निष्प्रयोजनान् न कुर्यात् अनृजुश् च क्रूरकृत् परोपघातकम् अयुक्तबुद्धिश् च न स्याद् इति । पुनर् वचनम् उक्तप्रयोजनम् ॥ ४.१७७ ॥
 </details>
 
 <details><summary>Bühler</summary>

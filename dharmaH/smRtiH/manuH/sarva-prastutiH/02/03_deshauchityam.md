@@ -2,7 +2,15 @@
 title = "०३ देशौचित्यम्"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+धर्मस्य स्वरूपं प्रमाणं परिभाषां चोक्त्वा इदानीं धर्मानुष्ठानयोग्यदेशानाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.१७ सरस्वतीदृशद्वत्योर्</summary>
 
 सरस्वती-दृशद्वत्योर्  
 देवनद्योर् यद् अन्तरम् ।  
@@ -41,6 +49,16 @@ This verse is quoted in *Hemādri* (Vrata, p. 27),—in the *Vīramitrodaya* (Pa
 *Dānamayūkha* (p. 7),—and in the *Saṃskāramayūkha* (p. 4).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सरस्वतीदृषद्वत्योर्नद्योरुभयोर्मध्यं ब्रह्मावर्तंदेशमाहुः । देवनदीदेवनिर्मितशब्दौ नदीदेशशाशस्त्याथा ॥१७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अधुना सदाचारनिरूपणार्थं धर्मानुष्ठानयोग्यस्थानकथनार्थं च देशान् आह – **सरस्वतीदृषद्वत्योर्** इति । **सरस्वतीदृषद्वत्य्**आख्यनदीमध्यं **ब्रह्माव्र्ता**ख्यं **देशम्** आहुः । देवनदीदेवनिर्मितशब्दौ देशस्तुत्यर्थौ ॥ २.१७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 017	That land, created by the gods, which lies between the two divine rivers Sarasvati and Drishadvati, the (sages) call Brahmavarta.
@@ -53,7 +71,7 @@ This verse is quoted in *Hemādri* (Vrata, p. 27),—in the *Vīramitrodaya* (Pa
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१८ तस्मिन् देशे</summary>
 
 तस्मिन् देशे य आचारः  
 पारम्पर्यक्रमागतः ।  
@@ -81,10 +99,12 @@ That practice, which has comb down through an unbroken line op tradition among t
 
 स च विरुद्धः "ऊर्ध्वं सप्तमात् पितृबन्धुभ्यः । । । मातृबन्धुभ्यश् च पञ्चमात्" (ग्ध् ४.३, ५) इत्य् एतेन । अस्मिन्न् अपि देशे ऽनुपनीतेन सह भोजनादिर् आचारो नैव धर्मत्वेनेष्यते । न च स्मृतिविरुद्धस्याचारस्य प्रामाण्यसंभवः, श्रुतिविप्रकर्षात् । आचारात् स्मृतिर् अनुमातव्या, स्मृतेः श्रुतिः । स्मृतिस् त्व् अव्यवहिताम् एव श्रुतिम् अनुमापयति । किं च कारणग्रहाच् चैवमादेर् आचारस्य । रूपवतीं मातुलकन्यां कामयमाना राजभयाद् ऊढवन्तः, कन्यागमनं[^१००] दण्डो मा भूद् इति । 
 
+
 [^१००]:
      DK (5: 117) suggests: kanyāgamane
 
 - <u>अन्ये</u> त्व् अविद्वांसः "येनास्य पितरो याताः" (म्ध् ४.१७८) इत्य् अस्य यथाश्रुतम् अर्थं गृहीत्वा धर्मो ऽयम् इति प्रतिपन्नाः । अपि च[^१०१] "एतास् तिस्रस् तु भार्यार्थे नोपयच्छेत" (म्ध् ११.१७३) इति प्रायश्चित्तं श्रुतम् अपि, भ्रान्तिहेतुः "आभ्यस् तिसृभ्यो ऽन्या न प्रतिषिद्धा" इति । यथा चास्य नायम् अर्थस् तथा वक्ष्यामः ।
+
 
 [^१०१]:
      DK (5: 117) suggests: yathā ca
@@ -162,6 +182,20 @@ the Sindhu and the Vaitariṇī and to the place where the sun rises, or where t
 four castes should be known as the *mleccha deśa*; other than this is Āryāvarta.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ विरुद्धा च विगीता च दृष्टार्थादिष्टकारणे ।**
+
+**स्मृतिर्न श्रुतिमूला स्याद्या चैषा संभवश्रुतिः ॥५॥ \]**
+
+तस्मिन्देशे प्रायेण शिष्टानां सम्भवात्तेषां ब्राह्मणादिवर्णानां संकीर्णजातिपर्यन्तानां आचारः पारंपर्यक्रमागतो न त्विदानींतनः, स सदाचारोऽभिधीयते ॥१८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तस्मिन्न्** इति । **तस्मिन् देशे** प्रायेण सदाचारस्य सम्भवात् यो ब्राह्मणादीनाम् अन्तरप्रभावानां **पारम्पर्यक्रमागतः **प्रबन्धतो ऽविच्छेदेनागतः न साम्प्रतीको य आचारः **स सदाचार** उच्यते ॥ २.१८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 018	The custom handed down in regular succession (since time immemorial) among the (four chief) castes (varna) and the mixed (races) of that country, is called the conduct of virtuous men.
@@ -174,7 +208,7 @@ four castes should be known as the *mleccha deśa*; other than this is Āryāvar
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१९ कुरुक्षेत्रं च</summary>
 
 कुरुक्षेत्रं च मत्स्याश् च  
 पञ्चालाः शूरसेनकाः ।  
@@ -198,11 +232,14 @@ The realm of the kurus, the matsyas, pa~nchAla, and shurasenakas, indeed form th
 
 देशनामधेयान्य् एतानि । कुरुक्षेत्रं[^१०३] समन्तपञ्चकं प्रसिद्धम् । कुरवस् तत्र क्षयं गताः । "कुरु[^१०४] वा सुकृतं क्षिप्रम् अत्र त्राणं भविष्यति"[^१०५] इत्य् व्युत्पत्तिः । मत्स्यादयः शब्दा बहुवचनान्ता एव देशवचनाः । **ब्रह्मर्षिदेश** इति समुदायसंज्ञा । देवनिर्मितो देशो ब्रह्मावर्तः । देवेभ्यः किंचिन् न्यूना ब्रह्मर्षय इत्य् अतो ऽयं देशो ब्रह्मर्षिसंबन्धाद् ब्रह्मावर्तान् न्यूनः । तथा चाह- **ब्रह्मावर्ताद् अनन्त्रः** ईषद्भिन्नः । नञ् ईषदर्थः । यथा "अनुष्णां यवागूं पिबेद् आमयावी" इतीषदुष्णाम् उपदिशन्ति । अन्तरशब्दो भेदवचनः, "नारीपुरुषतोयानाम् अनतरं महद् अन्तरम्" इति यथा ॥ २.१९ ॥
 
+
 [^१०५]:
      M G: bhavati
 
+
 [^१०४]:
      M G: kuruta
+
 
 [^१०३]:
      M G: kurukṣetre
@@ -237,6 +274,16 @@ notes:—‘*Matsya*, *Virātdeśa*,—*Pāñchāla*’ the *Kānyakubja* and ad
 See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मत्स्यादिशब्दाः बहुवचनान्ता एव देशविशेषवाचकाः । पञ्चालाः कान्यकुब्जदेशाः । शूरसेनकामथुरादेशाः । एष ब्रह्मर्षिदेशो ब्रह्मावर्तात्किञ्चिदूनः ॥१९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कुरुक्षेत्रम्** इति । **मत्स्या**दिः विराटदेशाः **पाञ्चालाः **कान्यकुब्जा आहिच्छत्रः **शूरसेनकाः **माधुराः एष **ब्रह्मर्षिदेशा**ख्यो देशः **ब्रह्मावर्ताद् **ईषन्न्यूनः ॥ २.१९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 019	The plain of the Kurus, the (country of the) Matsyas, Pankalas, and Surasenakas, these (form), indeed, the country of the Brahmarshis (Brahmanical sages, which ranks) immediately after Brahmavarta.
@@ -249,7 +296,7 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.२० एतद्</summary>
 
 एतद् देशप्रसूतस्य  
 सकाशाद् अग्रजन्मनः ।  
@@ -291,6 +338,16 @@ This is quoted in the *Vīramitrodaya*, *Paribhāṣā* (p. 56) which says that 
 See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कुरुक्षेत्रादिदेशजातस्य ब्राह्मणस्य सकाशात्सर्वमनुष्या आत्मीयमात्मीयमाचारं शिक्षेरन् ॥२०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतद्देशप्रसूतस्येति** । कुरुक्षेत्रादिदेशजातस्य **ब्राह्मणस्य सकाशात् स्वं स्वम् **आचारं **पृथिव्यां **सर्वे मनुष्याः **शिक्षेरन् **॥ २.२० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 020	From a Brahmana, born in that country, let all men on earth learn their several usages.
@@ -303,7 +360,7 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.२१ हिमवद्विन्ध्ययोर्</summary>
 
 हिमवद्-विन्ध्ययोर् मध्यं  
 यत् प्राग् विनशनाद् अपि ।  
@@ -326,6 +383,7 @@ This land, that lies between the Himalayas and the Vindhyas mountains, with pray
 <details><summary>मेधातिथिः</summary>
 
 उत्तरस्यां दिशि हिमवान् पर्वतः, दक्षिणस्यां विन्ध्यः । **विनशनं** सरस्वत्या अन्तर्धानदेशः । **प्रयागः** गङ्गायमुनयोः संगमः । एतान् देशान् अवधीकृत्य[^१०६] मध्यं **मध्यदेश**नामानं देशं विद्यात् । नात्युत्कृष्टो नातिनिकृष्ट इत्य् अतो ऽयं मध्यदेशः, न तु पृथिवीमध्यभवत्वात् ॥ २.२१ ॥
+
 
 [^१०६]:
      M G: avadhīn kṛtvā
@@ -361,6 +419,16 @@ This verse is quoted in the *Smṛticandrikā* (p. 18), which explains ‘*vina�
 See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उत्तरदक्षिणदिगवस्थितौ हिमवद्विन्ध्यौ पर्वतौ, तयोर्यन्मध्यं विनशनात्सरस्वत्यन्तर्धानदेशाद्यत्पूर्वं प्रयागाच्च यत्पश्चिमं स मध्यदेशनामा देशः कथितः ॥२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**हिमवद्विन्ध्ययोर्** इति । **हिमवद्विन्ध्या**ख्योत्तरदक्षिणदिगवस्थितपर्वतयोर् **मध्यं विनशनाच् च **सरस्वत्यन्तर्धानदेशात् **प्रत्यग्**दिग्वर्तिनः प्राक् पूर्वदिङ्मार्गे । **प्रयागाच् च **गङ्गायमुनासङ्गमात् **प्रत्यक्** पश्चिमदिङ्मार्गे स **मध्यदेशा**ख्यो देशः ॥ २.२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 021	That (country) which (lies) between the Himavat and the Vindhya (mountains) to the east of Prayaga and to the west of Vinasana (the place where the river Sarasvati disappears) is called Madhyadesa (the central region).
@@ -373,7 +441,7 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.२२ आ समुद्रात्</summary>
 
 आ समुद्रात् तु वै पूर्वाद्  
 आ समुद्राच् च पश्चिमात् ।  
@@ -425,6 +493,16 @@ Himāvat and the Vindhya;—and in the *Vīramitrodaya* (Paribhāṣā, p. 56).
 See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आ पूर्वसमुद्रात् आपश्चिमसमुद्राद्धिमवद्विन्ध्ययोश्च यन्मध्यं तमार्यावर्तदेशं पण्डिता जानन्ति । मर्यादायामयमाङ्, नाभिविधौ । तेन समुद्रमध्यद्वीपानां नार्यावर्तता । आर्या अत्रावर्तन्ते पुनःपुनरुद्भवन्तीत्यार्यावर्तः ॥२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आ समुद्राद्** इति । **पूर्वपश्चिमसमुद्रयोः **पुनर् अर्वाग्वर्ति यन् मध्यं **तयोश् च **हिमवद्विन्ध्ययोश् चोत्तरदक्षिणादिगवलम्बिनोः पर्वतयोः यन् मध्यं **आर्यावर्ता**ख्यं देशं विद्वांसो मन्यन्ते ॥ २.२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 022	But (the tract) between those two mountains (just mentioned), which (extends) as far as the eastern and the western oceans, the wise call Aryavarta (the country of the Aryans).
@@ -437,7 +515,7 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.२३ कृष्णसारस् तु</summary>
 
 कृष्णसारस् तु चरति  
 मृगो यत्र स्वभावतः ।  
@@ -461,8 +539,10 @@ It is that land where the blackbuck naturally roams, a land fit for the performa
 
 कृष्णश्वेतः कृष्णपीतो वा कृष्णसारङ्गो[^१०७] **मृगो यत्र चरति** निवसति । संभव उत्पत्तिर् यत्र देशे तस्य **स्व्भावतः,** न पुनर् देशान्तरात् प्राशस्त्योपायनादिना निमित्तेनानीतस्य कियन्तम् अपि कालं निवासः । **स देशो यज्ञियो** यागार्हो बोद्धव्यः । अतः कृष्णमृगचरणात् परो ऽन्यो **म्लेच्छदेशः** । म्लेच्छाः प्रसिद्धाः । चातुर्वर्ण्यजात्यपेताः प्रतिलोमजातीया अनधिकृता[^१०८] मेदान्ध्रशबरपुलिन्दादयः । 
 
+
 [^१०८]:
      M G J: pratilomajātīyānadhikṛtā
+
 
 [^१०७]:
      J: kṛṣṇasārākhyo
@@ -473,16 +553,20 @@ It is that land where the blackbuck naturally roams, a land fit for the performa
 
 - <u>उच्यते</u> । नैवात्र यष्टव्यम् इति विधिर् अस्ति । जानातेः परो विधायकः[^१०९] श्रुतः, न यजेः । यागस्य तत्रार्हता श्रुता, यागार्हो ऽसौ देश इति । सा च यागार्हतासत्य्[^११०] अपि विधौ घटते । एतेषु देशेषु यागाङ्गानि दर्भपलाशखदिरादीनि प्रायेण च भवन्ति । अधिकारिणश् च त्रैवर्णिका त्रैविद्याश्[^१११] च तेष्व् एव देशेषु दृश्यन्ते । अत एतदवलम्बनो यागार्हतानुवादः । कृत्यो ऽपि "ज्ञेयः" इत्य् अध्यारोपितविध्यर्थः "जर्तिलयवाग्वा जुहुयाद्" (सेए मुरोय) इतिवद् विधिवन् निगदार्थवाद एव ।
 
+
 [^१११]:
      M G 1st ed.: vaidyāś; G 2nd ed.: traividyavaidyāś
 
+
 [^११०]:
      M G: yāgārhatā saty
+
 
 [^१०९]:
      M G 1st ed.: -vidhāyaka
 
 - यच् चोक्तम् **म्लेच्छदेशस् त्व् अतः परः** इत्य् एषो ऽपि प्रायिको ऽनुवाद एव । प्रायेण ह्य् एषु देशेषु म्लेच्छा भवन्ति । न त्व् अनेन देशसंबन्धेन म्लेच्छा लक्ष्यन्ते,[^११२] स्वतस् तेषां प्रसिद्धेर् ब्राह्मणादिजातिवत् । अथार्थद्वारेणायं शब्दः प्रवृत्तो म्लेच्छानां देश इति । तत्र यदि कथंचिद् ब्रह्मावर्तादिदेशम् अपि म्लेच्छा आक्रमेयुः, तत्रैवावस्थानं कुर्युः, भवेद् एवासौ म्लेच्छदेशः । तथा यदि कश्चित् क्षत्रियादिजातीयो राजा साध्वाचरणो म्लेच्छान् पराजयेत्, चातुर्वर्ण्यं वासयेत्, म्लेच्छांश् चार्यावर्त इव चाण्डालान् व्यवस्थापयेत्, सो ऽपि स्याद् यज्ञियः । यतो न भूमिः स्वतो दुष्टा, संसर्गाद् धि सा दुष्यत्य् अमेध्योपहतेव । अत उक्तदेशव्यतिरेकेणापि सति सामग्र्ये त्रैवर्णिकेनाकृष्णमृगचरणे ऽपि देशे यष्टव्यम् एव । तस्माद् अनुवादो ऽयम् **स ज्ञेयो यज्ञियो देशो म्लेच्छदेशस् त्व् अतः परः** इत्य् उत्तरविधिशेषः ॥ २.२३ ॥
+
 
 [^११२]:
      M G: vakṣyante
@@ -536,6 +620,16 @@ This verse is quoted in the *Smṛticandrikā* (Saṃskāra, p. 18), which adds 
 See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कृष्णसारो मृगो यत्र स्वभावतो वसति न तु बलादानीतः, स यज्ञार्हो देशो ज्ञातव्यः । अन्यो म्लेच्छदेशो न यज्ञार्ह इत्यर्थः ॥२३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कृष्णसार** इति । कृष्णः शवलो **मृगो** यस्मिन् देशे **स्वभावतो **निवसति स्वच्छन्दं विहरति, न हठाद् आनीतः, **स **यागार्हो **देशो विज्ञेयः **अतो ऽन्यो अनधिकृतान्ध्रादिम्लेच्छदेशो न यागार्हर्ः । अध्ययन एतद् एव ॥ २.३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 023	That land where the black antelope naturally roams, one must know to be fit for the performance of sacrifices; (the tract) different from that (is) the country of the Mlekkhas (barbarians).
@@ -548,7 +642,7 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.२४ एताण् द्विजातयो</summary>
 
 एताण् द्विजातयो देशान्  
 **संश्रयेरन्** प्रयत्नतः ।  
@@ -594,8 +688,10 @@ The twice-born people should seek to resort to these countries; the Śūdra may 
 > यदि वा  
 > संश्रयणाद् एव स्वतन्त्रात् स्वर्गो विश्वजिद्वत् ।
 
+
 [^११५]:
      M G: kalpādhikāratve
+
 
 [^११४]:
      M G: deśāntare 'py adhi-
@@ -617,6 +713,7 @@ The twice-born people should seek to resort to these countries; the Śūdra may 
 "प्राग् वोदग् वा ग्रामाद् उपनिष्क्रम्य" इति ।  
 न हि हेमन्त-शिशिरयोर् अहर् अहर् नदी-स्नानादि-संभवः ।
 
+
 [^११६]:
      M G: tv anityakāmyānām
 
@@ -626,6 +723,7 @@ The twice-born people should seek to resort to these countries; the Śūdra may 
 स्वत एव म्लेच्छदेशः ।  
 अन्यथा तद्-देश-संबन्धान् म्लेच्छत्वे  
 कथं द्विजातित्वम् ।+++(5)+++
+
 
 [^११७]:
      M G: vacanaṃ liṅgam
@@ -668,8 +766,10 @@ The twice-born people should seek to resort to these countries; the Śūdra may 
 न देशसंबन्धेन पुरुषा म्लेच्छाः,  
 किं तर्हि, पुरुषसंबन्धेन म्लेच्छदेशता ।+++(5)+++
 
+
 [^११९]:
      M G 1st ed.: liṅgād
+
 
 [^११८]:
      M G: arthahānir; J: atha hānir 
@@ -687,8 +787,10 @@ The twice-born people should seek to resort to these countries; the Śūdra may 
 म्लेच्छावृते यानासनाशनादि-क्रिया-निमित्तस्य संसर्गस्यापरिहार्यत्वात्  
 तद्-भावापत्ति-प्रसङ्गात् ।+++(4)+++
 
+
 [^१२१]:
      DK (5: 762) suggests: enaṃ na
+
 
 [^१२०]:
      M G 1st ed.: vā dvijātiyam
@@ -703,11 +805,14 @@ The twice-born people should seek to resort to these countries; the Śūdra may 
 वर्षाभावकृतं दुर्भिक्षं वर्षाकृतत्वेन[^१२२] व्यपदिश्यते ।  
 **यस्मिंस् तस्मिन्न्** इति अनियमम्[^१२३] आह[^१२४] ॥ २.२४ ॥
 
+
 [^१२४]:
      M G: place this sentence as an introduction to verse 25.
 
+
 [^१२३]:
      G: atiniyamam
+
 
 [^१२२]:
      M G 1st ed.: varṣakṛtatvena
@@ -789,6 +894,16 @@ Upāvṛt, Sindhu, Sauvīra, these countries are of *mixed origin*.’
 *Vyāsa* (Do., p. 61).—‘Those places, those countries, those mountains and those hermitages are sacred through which the best of rivers, the Gaṅgā, flows.’
 
 *Viṣṇudharmottara* (Do.).—‘The righteous man should reside at Prabhāsa, at Puṣkara, at Kāśī, at Naimiṣa, at Amarakaṇṭaka, on the Gaṅgā or on the Sarayū.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+अन्यदेशोद्भवा अपि द्विजातयो यज्ञार्यत्वाददृष्टार्थत्वाच्चैतान्देशान्प्रयत्नादाश्रयेरन् । शुद्रस्तु वृत्तिपीडितो वृत्त्यर्थमन्यदेशमप्याश्रयेत् ॥२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अतः **एतान्** इति । साध्वाचारयागार्हत्वसम्भवात् अदृष्टार्थत्वाच् च्**ऐतान् **एव **देशान् **देशान्तरोद्भूता अपि **द्विजातयो **यत्नतः **आश्रयेरन्** । **शुद्रः **पुनः यदा जीविकाभावपीडितो भवति तदैतद्व्यतिरिक्तदेशे ऽपि **निवसेत् **॥ २.२४ ॥
 </details>
 
 <details><summary>Bühler</summary>

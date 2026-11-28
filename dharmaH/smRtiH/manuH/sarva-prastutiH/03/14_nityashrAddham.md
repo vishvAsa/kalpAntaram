@@ -1,7 +1,7 @@
 +++
 title = "१४ नित्यश्राद्धम्"
 +++
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.२८३ यद् एव</summary>
 
 यद् एव तर्पयत्य् अद्भिः  
 पितॄन् स्नात्वा द्विजोत्तमः ।  
@@ -43,6 +43,16 @@ the water-vessel; even so is the Pitṛyajña accomplished.’
 
 *Āpastamba-Dharmasūtra* (1.13.1).—‘By the wateroffering is accomplished
 the offering to gods, the offering to Pitṛs and also Vedic Study.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+पाञ्चयज्ञिकश्राद्धासम्भवे विधिरयम् । यत्र स्नानानन्तरमुदकतर्पणं द्विजः करोति तेनैव सर्वं नित्यश्राद्धफलं प्राप्नोति । द्विजोत्तमपदं द्विजपरम् ॥२८३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+पूर्वोक्तपाञ्चयज्ञिकश्राद्धासम्भवे **यद् **इति । **स्नात्वा **उदकतर्पणं यत् पितॄणां ब्राह्मणः करोति **तेनैव** सर्वं **पितृयज्ञा**नुष्ठानफलं **प्राप्नोति** । द्विजोत्तमग्रहणं प्रदर्शनार्थम्, त्रयाणां प्रकृतत्वात् ॥ ३.२८३ ॥
 </details>
 
 <details><summary>Bühler</summary>

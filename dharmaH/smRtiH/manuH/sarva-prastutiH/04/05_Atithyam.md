@@ -2,7 +2,7 @@
 title = "०५ आतिथ्यम्"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२९ आसनाशनशय्याभिर्</summary>
 
 आसनाशन-शय्याभिर्  
 अद्भिर् मूल-फलेन वा ।  
@@ -21,8 +21,10 @@ No guest shall dwell in his house without being honoured, to the best of his abi
 
 उक्तम् इदम् उत्तरार्थम् अनूद्यते । **न कश्चिद् अतिथिर् अनर्चितो गृहे वसेत्** । सर्वो ऽतिथिर् अर्चितो गृहे वसनीयः । **शक्तितः** । एको द्वौ बहवो यावन्तः शक्यन्ते ऽर्चयितुं सर्वे आसनादिभिर् अर्चनीयाः । अर्चापूर्वकम् एतद् एभ्यो वसतां प्रकल्पयितुम्,[^८१] न तु सर्वेण सर्वम् आसनाशनशय्यानां स्वत्वनिर्वृत्तिर्[^८२] उच्यते । भक्तयूषमांसान्नाज्याशनासंभवे पृथग् उपादानात् मूलफलं दातव्यम् ॥ ४.२९ ॥
 
+
 [^८२]:
      M G: satva-
+
 
 [^८१]:
      M G: prakalpanāya
@@ -58,6 +60,16 @@ Do. (67.32-33).—‘Never without having given; never without pouring the oblat
 himself alone; one shall not needlessly kill animals;—no Brāhmaṇa should reside in his house, without being honoured and fed. He shall always feed upon *Vighasa* and upon *Amṛta—Amṛta* being the remnant of sacrifices; and the eating of it is like the eating of sacrificial food. He who eats what has been left after all dependents have been fed is said to *feed on Vighasa*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथाशक्त्यासनभोजनादिभिरनर्चितोऽतिथिरस्य गृहस्थस्य गृहे न वसेत् । अनेन शक्तितोऽतिथिंपूजयेदित्युक्तमप्युत्तरार्धमनूद्यते ॥२९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आसनाशनशय्याभिर्** इति । आसनादनादिभिर् यथाशक्ति अतिथिं पूजयेत् इत्य् उक्त्वा अतिथ्यनुवादो महायज्ञप्रसङ्गेन वक्ष्यमाणः पाखण्ड्यादिनिषेधार्थः ॥ ४.२९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 029	No guest must stay in his house without being honoured, according to his ability, with a seat, food, a couch, water, or roots and fruits.
@@ -70,7 +82,7 @@ himself alone; one shall not needlessly kill animals;—no Brāhmaṇa should re
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.३० पाषाण्डिनो</summary>
 
 पाषाण्डिनो विकर्मस्थान्  
 बैडाल-व्रतिकाञ् शठान् ।  
@@ -84,11 +96,13 @@ himself alone; one shall not needlessly kill animals;—no Brāhmaṇa should re
 
 He shall not honour, even with speech, impostors, those who follow improper occupations, those who are cat-like in their behaviour, hypocrites, logicians, and those who behave like herons.—(30)
 
+
 NOTE: Pages 336 and 337 are missing from the book. Please email me if you have a copy of the text.
 </details>
 
 <details><summary>मेधातिथिः</summary>
 <u>अत्र</u> "वसेत्" इति लिङ्गात् सायम् आतिथ्यप्रतिषेधो ऽयं पाषण्ड्यादीनाम्[^८३] इत्य् आहुः । 
+
 
 [^८३]:
      M G: pākhaṇḍyādīnām
@@ -97,8 +111,10 @@ NOTE: Pages 336 and 337 are missing from the book. Please email me if you have a
 
 - तत्र **पाषण्डिनो**[^८४] बाह्यलिङ्गिनो रक्तपटनग्नचरकादयः । **विकर्मस्था** अत्रानापदि ये वर्णान्तरवृत्त्या जीवन्ति । यथा ब्राह्मणः क्षत्रवृत्त्या, क्षत्रियो वैश्यवृत्त्या इत्यादि[^८५] । **बैडालव्रतिका** दाम्भिकाः । ये च लोकावर्जनार्थम् अग्निहोत्राद्य् अनुतिष्ठन्ति, इति गृहादि लिप्सामह इति, न शास्त्रचोदितत्वेन स्वधर्मतया । **शठा** येषाम् अन्यत् हृदये ऽन्यद् वाचि । उपकारं कस्यचित् प्रतिज्ञाय कर्तव्यतया अवधीरयन्ति, न कुर्वन्ति । **हैतुका** नास्तिकाः । नास्ति परलोकः, नास्ति दत्तम्, नास्ति हुतम् इत्य् एवं स्थितप्रज्ञाः । **बकवृत्तयः** दाम्भिका एव, ईषद्भेदभिन्नः । भेदः परस्परं दर्शयिष्यते । **वाङ्मात्रेणापि** । तिष्ठतु तावद् आसनादिदानम्, पूजापूर्वकं "स्वागतम् आस्यताम् अत्र" इत्य् एवमाद्य् अपि न वक्तव्याः । अन्नदानं तु श्वपचादिवद् इष्यते । तथा च भगवान् कृष्णद्वैपायनो ऽन्नदानम् एवाधिकृत्य स्मरति स्म- "न पृच्छेज् जन्म न श्रुतम्" इति । नात्र पात्रगवेषणा कर्तव्येत्य् अर्थः ॥ ४.३० ॥
 
+
 [^८५]:
      G 1st ed.: vaiśyavṛttyādi
+
 
 [^८४]:
      M G: pākhaṇḍino
@@ -135,6 +151,16 @@ laws laid down in the Śruti and the Smṛti, relating to the division of castes
 *Viṣṇupurāṇa* (Do.).—\[Same as Manu.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पाषण्डिनो वेदबाह्यव्रतलिङ्गधारिणः शाक्यभिक्षुकक्षपणकादयः, विकर्मस्थाः प्रतिषिदवृत्तिजीविनः, बैडालव्रतिकबकवृत्ती वक्ष्यमाणलक्षणौ, शठा वेदेष्वश्रद्दधानाः, हैतुका वेदविरोधितर्कव्यवहारिणः, एतानतिथिकालोपस्थितान्वाङ्मात्रेणापि न पूजयेत् । पुजारहितेऽन्नदानमात्रं तु **“शक्तितोऽपचमानेभ्यः”** ( म. स्मृ. ४-३२ ) इत्यनुज्ञातमेव ॥३०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तथा चाह **पाखण्डिन** इति । रक्ताम्बरादिलिङ्गधारिणः परवृत्तिजीवनरतान् बिडालवृत्तिकान् बकवृत्तिकान् वक्ष्यमाणलक्षणान् शठान् अश्र्द्दधानान् वेदबाह्यतर्कव्यवहारिणो **वाङ्मात्रेणापि न **पूजयेत् इति पूजापूर्वकान्नदानादिनिषेधो दानमात्रं तु शक्तितो ऽपचमानेभ्यो दातव्यम् इति वक्ष्यति ॥ ४.३० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 030	Let him not honour, even by a greeting, heretics, men who follow forbidden occupations, men who live like cats, rogues, logicians, (arguing against the Veda,) and those who live like herons.
@@ -147,7 +173,7 @@ laws laid down in the Śruti and the Smṛti, relating to the division of castes
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.३१ वेदविद्याव्रतस्नाताञ्</summary>
 
 वेदविद्या-व्रत-स्नाताञ्  
 श्रोत्रियान् गृहमेधिनः ।  
@@ -161,7 +187,12 @@ laws laid down in the Śruti and the Smṛti, relating to the division of castes
 
 Those who have become Snatakas after studying the Veda, or after completing their vows, (and) householders, who are Srotriyas, one must worship by (gifts of food) sacred to gods and manes, but one must avoid those who are different.—(31)
 
+
 Note: The above is an alternate translation by George Bühler.
+
+
+
+
 
 NOTE: Pages 336 and 337 are missing from the book. Please email me if you have a copy of the text.
 </details>
@@ -169,6 +200,7 @@ NOTE: Pages 336 and 337 are missing from the book. Please email me if you have a
 <details><summary>मेधातिथिः</summary>
 
 वेदश् च विद्या च व्रतानि च, तैः स्नाताः, तत्र परिसमाप्तिं गताः । विविधा स्नातका गृह्यन्ते । तत्र वेदस्नातका अधीतवेदाः । विद्यास्नातका विद्यार्थजिज्ञासानिवृत्ताः[^८६] । विद्यासंनिधानाद् वेदविषयैव गृह्यते । तस्या एव वस्तुतो विद्यात्वम् । व्रतानि "षट्त्रिंशदाब्दिकम्" (म्ध् ३.१) इत्यादीनि । सत्याम् अपि वेदतदर्थजिज्ञासासमाप्तौ न तावत्य् एव स्नानम्, किं तर्हि षट्त्रिंशदब्दादिकालः पूरयितव्यः इति पक्षो ऽप्य् अस्ति ।
+
 
 [^८६]:
      M G 1st ed.: vidyārthaṃ jijñāsitavantaḥ; G 2nd ed: vidyārthajijñāsādivṛttāḥ
@@ -189,6 +221,8 @@ NOTE: Pages 336 and 337 are missing from the book. Please email me if you have a
 > 
 >
 > NOTE: Pages 336 and 337 are missing from the book. [Please email > me](mailto:info@wisdomlib.org?subject=Manusmriti%20missing%20pages%20336%20and%20337%20of%20discourse%204) > if you have a copy of the text.
+
+
 
 ... *Answer*:—The term has been added for the purpose of laying stress upon the fact that those persons are meant who still keep up their study of the Veda.
 
@@ -211,6 +245,17 @@ ignores a Brāhmaṇa Student who may happen to be at hand, he destroys his fami
 
 *Bṛhad-Yama* (42, 43).—‘The man who is free from jealousies, who is of
 good character, a Vedic Scholar cognisant of Brahman, young and endowed with learning and modesty is the proper recipient, the best of the twice-born. He who is conversant with the Vedanta, who is Jyeṣṭhasāman, free from avarice, devoted to the Veda, is the person who should be employed with special effort in the rites offered to gods and Pitṛs.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+वेदविद्याव्रतस्नातानिति विद्यास्नातकव्रतस्नातकोभयस्नातकास्त्रयोऽपि गृह्यन्ते । यथाऽऽह  
+हारीतः —“यः समाप्य वेदानसमाप्य व्रतानि समावर्तते स विद्यास्नातकः । यः समाप्य व्रतान्यसमाप्य वेदान्समावर्तते स व्रतस्नातकः ।उभयं समाप्य यः समावर्तते स विद्यावतस्नातकः ।” यद्यपि स्नातकधर्मत्वेनैव स्नातकमात्रप्राप्तिस्तथापि श्रोत्रियत्वं विवक्षितन् ।तान्स्नातकाञ्श्रोत्रियान्हव्यकव्येन पूजयेत्, विपरीतान्पुनर्वर्जयेत् ॥३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वेदविद्याव्रतस्नातान् **इति । **वेदविद्याव्रतस्नाताण्** इत्य् अनेन वेदस्नातकव्रस्नातक-विद्याव्रतस्नातकत्वेन त्रिप्रकारा अपि स्नातका गृह्यन्ते । यथा हारीतः**: **“समाप्य वेदं असमाप्य व्रतानि यः स्नाति स वेदस्नातकः, असमाप्य वेदं समाप्य व्रतानि यः स्नाति स व्रतस्नातः । उभयं समाप्य यः स्नाति स विद्याव्रतस्नातकः” इति । तांस् तथा स्नतकग्रहनेन गृहीतान् अप्य् अतिशयार्थित्वेन पृथङ्निर्दिष्टान् **श्रोत्रियान्** गृहस्थान् **हव्यकव्येन पूजयेत्** । एतद्**विपरीतांस्** **तु वर्जयेत्** इतीदं पाखण्ड्यादिनिषेधदार्ढ्यम्, श्रोत्रियादीनां पुनर् अभिधानम्, पूजादिपूर्वकम् अन्तं पाखण्ड्याधिभ्यो न देयम् ॥ ४.३१ ॥
 </details>
 
 <details><summary>Bühler</summary>

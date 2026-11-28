@@ -1,7 +1,16 @@
 +++
 title = "१० आतिथ्यम्"
 +++
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+अप्रसिद्धत्वादतिथिलक्षणमाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१०२ एकरात्रं तु</summary>
 
 एकरात्रं तु निवसन्न्  
 अतिथिर् ब्राह्मणः स्मृतः ।  
@@ -79,6 +88,16 @@ Vaiśvadeva offering, is to be honoured like a god; brought up by the sun, he is
 that person who comes to one’s house, whose family or name is not known,—who is not an inhabitant of the same village; he should be one who is not related to the householder; he should be one who has nothing with him, and has come from another country.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एकरात्रमेव परगृहे निवसन्ब्राह्मणोऽतिथिर्भवति । अनित्यावस्थानान्न विद्यते द्वितीया ति थिरस्येत्यतिथिरुच्यते ॥१०२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अप्रसिद्धत्वाद् अतिथिलक्षणम् आह **एकरात्रम्** इति । **ब्राह्मण एकरात्रं **परगृहे **वसन् अतितिः **यतिः स्मृतः यद् अस्याहनित्यावस्थानेन न विद्यते द्वितीया तिथिर् अस्येत्य् एवम् अतिथिर् उच्यते ॥ ३.१०२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 102	But a Brahmana who stays one night only is declared to be a guest (atithi); for because he stays (sthita) not long (anityam), he is called atithi (a guest).
@@ -91,7 +110,7 @@ that person who comes to one’s house, whose family or name is not known,—who
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१०३ नैकग्रामीणम्</summary>
 
 नैकग्रामीणम् अतिथिं  
 विप्रं साङ्गतिकं तथा ।  
@@ -109,6 +128,7 @@ One should not regard as “guest” a Brāhmaṇa who lives in the same village
 <details><summary>मेधातिथिः</summary>
 
 एकस्मिन् ग्रामे यो वसति वैश्वदेवकलोपस्थितो ऽपि नातिथिः । **सांगतिकः** सहाध्यायी[^१८२] सख्युर् अन्यः । तस्य ह्य् उत्तरत्र विधिर् भविष्यति "वैशशूद्रौ सखा च" इति (म्ध् ३.१००) । यो ऽपि सर्वेण संगच्छते विचित्रपरिहासकथादिभिः, सांगतिकशब्देन युक्तः प्रतिषेद्धुं प्राग् अदृष्टपूर्वो ऽपि ।
+
 
 [^१८२]:
      G 1st ed. adds: saṃśliṣṭaḥ
@@ -150,6 +170,16 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 353), which adds the f
 See Comparative notes for [Verse 3.102].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एकग्रामनिवासिनं लोकेषु विचित्रपरिहासकथादिभिः संगत्या वृत्त्यर्थिनं भार्याग्नियुक्तो गृहे देशकालोपस्थितमपि नातिथिं विद्यात् । एतेन भार्याग्निरहितस्य प्रवासिनो नातिथिरिति बोधितम् ॥१०३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नैकग्रामीणम्** इति । समानग्रामनिवासिनं यं च सङ्गत्या लोकयात्रया चरितं विचित्रपरिहासकथाजीवनं यस्य स **भार्याग्नयः **तस्मिन्न् एव ग्रामे सम्प्राप्तः तं वैश्वदेवकाले ऽपि सम्प्राप्तम् अतिथिं न विद्यात् ॥ ३.१०३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 103	One must not consider as a guest a Brahmana who dwells in the same village, nor one who seeks his livelihood by social intercourse, even though he has come to a house where (there is) a wife, and where sacred fires (are kept).
@@ -162,7 +192,7 @@ See Comparative notes for [Verse 3.102].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१०४ उपासते ये</summary>
 
 उपासते ये गृहस्थाः  
 परपाकम् अबुद्धयः ।  
@@ -203,6 +233,20 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 769) and in
 the house of others, except when one has been invited; he should avoid fickleness of hands, feet and speech, and also over-eating.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ परपाकान्नपुष्टस्य सततं गृहमेधिनः ।**
+
+**दत्तमिष्टं तपोऽधीतं यस्यान्नं तस्य तद्भवेत् ॥६॥ \]**
+
+अतिथिप्रकरणादातिथ्यलोभेन ये गृहस्थाः ग्रामान्तराणि गत्वा परान्नं सेवन्ते ते निषिद्ध-परान्नदोषानभिज्ञाः तेन परान्नभोजनेन जन्मान्तरे अन्नादिदायिनां पशुतां व्रजन्ति । तस्मादिदं न कुर्यादिति निषेधः कल्प्यते ॥१०४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उपासत** इति । आतिथेयोद्देशत एव ग्रामान्तराणि गत्वा **ये** **गृहस्थाः **दुर्मेधसः औदरिकतया परान्नं सेवन्ते तेन परान्नभोजनेन ते जन्मान्तरे **अन्नाद्यदायिनां** गृहे **पशुतां व्रजन्ति** इति फलप्रतिपादनपरम् एतत् । अतः परपाकोपसेवनं न कार्यम् ॥ ३.१०४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 104	Those foolish householders who constantly seek (to live on) the food of others, become, in consequence of that (baseness), after death the cattle of those who give them food.
@@ -215,7 +259,7 @@ the house of others, except when one has been invited; he should avoid ficklenes
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१०५ अप्रणोद्यो</summary>
 
 अप्रणोद्यो ऽतिथिः सायं  
 सूर्योढो गृहमेधिना ।  
@@ -233,6 +277,7 @@ The guest brought by the sun in the evening should not be driven away by the hou
 <details><summary>मेधातिथिः</summary>
 
 **सायं**कालो ऽस्तमयादिः प्रदोषान्तः । तस्यां वेलायाम् **अतिथिर्** आगतो **ऽप्रणोद्यः** अप्रत्याख्येयः, भोजनशयनासनादिभिः प्रतिपूज्यः । केन । **गृहमेधिना** । मेधो यज्ञः । गृहमेधो महायज्ञानाम् इयम् आख्या । तत्राधिकारी **गृहमेधी** । गृहस्थ इति यावत् । **सूर्योढ** इत्य् अर्थवादः, सूर्येणोढः प्रापितः । दैवोपनीतत्वाद् अवश्यं पूनार्हः । **काले** द्वितीये वैश्वदेवकाले प्राप्तः, **अकाले वा** सायं भोजने निवृत्ते ऽपि । **नास्य** गृहस्थस्य **अनश्नन् गृहे वसेत्** । यदि शेषम् अस्ति तन् निवेदनीयम् । न चेद् द्विः[^१८३] पाकः कर्तव्यः ॥ ३.९५ ॥
+
 
 [^१८३]:
      M G: dhi
@@ -278,6 +323,22 @@ Vaiśvadeva offerings, or in the evening, should be honoured as a god,—he bein
 master and mistress of the house shall not refuse him; if there is no food, they should offer place, water, grasses and sweet words.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सूर्येऽस्तमिते गृहस्थेनातिथिनं प्रत्याख्येयः, सूर्येणोढः प्रापितो रात्रौ स्वगृहगमनाशक्तेः ।द्वितीयवैश्वदेवकाले प्राप्तः । अकाले वा सायंभोजने निवृत्तेऽपि । नास्य गृहेऽतिथिरनश्नन्वसेदवश्यमस्मै भोजनं देयम् । प्रत्याख्याने प्रायश्चित्तगौरवार्थोऽयमारम्भः । अत एव विष्णुपुराणे-
+
+**दिवाऽतिथौ तु विमुखे गते यत्पातकं नृप ।**
+
+**तदेवाष्टगुणं प्रोक्तंसूर्योढे विमुखे गते ॥**
+
+गोविन्दराजस्तु प्रतिषिद्धातिथिप्रतिप्रसवार्थत्वमस्याह ॥१०५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अप्रणोद्य** इति । यस्माद् अयम् आदित्येनास्तं गच्छता प्रापितो ऽतिथिः, तदानीं स्वगृहगमनाशक्तेः, स **गृहमेधिना** गृहानुष्ठेयपञ्चयज्ञवता गृहस्थेन न प्रत्याख्येयः । स च चैश्वदेवकाले प्राप्तः तदुत्तरकाले वा नास्य गृहस्थस्य अन्नम् **अनश्नन् गृहे वसेत्** । अवश्यम् अस्याशनं देयम्, अयं च प्रतिषिद्धातिथिप्रतिप्रसवार्थम् आरम्भः, अन्यथा “वैश्वदेवं हि नामैतत् सायं प्रातर् विधीयते” (म्ध् ३.१२१) इति वक्षमाणेनैव सायम् अतिथिदानसिद्धौ अनारम्भः स्यात् ॥ ३.१०५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 105	A guest who is sent by the (setting) sun in the evening, must not be driven away by a householder; whether he have come at (supper-) time or at an inopportune moment, he must not stay in the house without entertainment.
@@ -294,7 +355,7 @@ master and mistress of the house shall not refuse him; if there is no food, they
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१०६ न वै</summary>
 
 न वै स्वयं तद् अश्नीयाद्  
 अतिथिं यन् न भोजयेत् ।  
@@ -314,6 +375,7 @@ He himself should not eat what he does not offer to his guest. The honouring of 
 सूपघृतदधिशर्करादि यद् उत्कृष्टम् अन्नं तत् **स्वयं नाश्नीयाद्** अतिथौ संनिहिते यावत् तस्मै न दत्तम् । यत् तु आतुरस्य यवागूरसकटुकादि तद् अनिच्छते न देयम् । तादृशम् अदत्तम् अश्नतो न दोषः । सर्वथा न संस्कृतम् अन्नं स्वयं भोक्तव्यम्, कदन्नम् अतिथिर् न भोजनीय इत्य् एवंपरम् एतत् । धनाय हितं धनस्य निमित्तं वेति **धन्यम्** । एवं **यशस्या**दयः शब्दाः । 
 
 - अर्थवादो ऽयं नित्यत्वाद् अतिथिभोजनस्य, सति संनिधाने ऽतिथेः, पूर्वसेषत्वाच् च । स्तुतित्वेनान्वये संभवति नाधिकारान्तरकल्पना[^१८४] युक्ता ॥ ३.९६ ॥
+
 
 [^१८४]:
      M G: nādhikaraṇāntarakalpanā
@@ -347,6 +409,16 @@ guests; of the highly flavoured foods, he shall not eat any except what has been
 vegetables,—these he shall not eat if they have not been offered to the guest.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यद् घृतदध्याद्युत्कृष्टमतिथिर्न प्रत्याचष्टे तत्तस्मै अदत्त्वा न स्वयं भोक्तव्यम् ।धनाय हितं धनस्य निमित्तं वा धन्यम् । एवं यशस्यादयोऽपि शब्दाः । अतिथिभोजनफलकथनमिदम् । न चानावश्यकतापत्तिः, "सर्वं सुकृतमादत्ते" ( म. स्मृ. ३ / १०० ) इत्यादिदोषश्रवणात् ॥१०६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति **। यद् अतिथये रोचते तत् तस्मा अदत्वा आत्मना नाश्नीयात् । अतिथिभोजनं च धनख्यात्या दुःस्वर्गनिमित्तम् इत्य् आतिथेयफलकथनं न त्व् अनित्यतापत्तिः “सर्वं सुकृतम् आदत्ते” इत्याद्युक्तत्वात् ॥ ३.१०६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 106	Let him not eat any (dainty) food which he does not offer to his guest; the hospitable reception of guests procures wealth, fame, long life, and heavenly bliss.
@@ -359,7 +431,7 @@ vegetables,—these he shall not eat if they have not been offered to the guest.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१०७ आसनावसथौ</summary>
 
 आसनावसथौ शय्याम्  
 अनुव्रज्याम् उपासनाम् ।  
@@ -429,6 +501,16 @@ retire to sleep on being permitted by him, rise before him, and follow him when 
 warm welcome and honour him with the offering of water and seat and also with washing of feet, shall offer food with respect and sweet-worded enquiries, and shall follow him when he leaves; by these he shall win his good will.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आसन पीठं चर्म वा, आवसथो विश्रामस्थानम्, शय्या खट्वादि, अनुव्रज्या गच्छतोऽनुगमनम्, उपासना परिचर्या । एतत्सर्वं बहुष्वतिथिषु युगपदुपस्थितेष्वितरेतरापेक्षयोत्कृष्टशप-कृष्टमध्यभं कुर्यान पुनः सर्वेषां समम् ॥१०७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आसनावसथाव्** इति । युगपदनेकातिथ्यवस्थाने सति ह्य् आसनस्थानविश्रामस्थानश्रद्धादि-शयनानुगमनपरिचरणं इतरेतरापेक्षयोत्कृष्टमध्यमेषु उत्कृष्टापकृष्टम् अमध्यमं कुर्यात् । अन्नं पुनस् तुल्यम् एव, तत्र विशेषाश्रवणात् ॥ ३.१०७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 107	Let him offer (to his guests) seats, rooms, beds, attendance on departure and honour (while they stay), to the most distinguished in the best form, to the lower ones in a lower form, to equals in an equal manner.
@@ -441,7 +523,7 @@ warm welcome and honour him with the offering of water and seat and also with wa
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१०८ वैश्वदेवे तु</summary>
 
 वैश्वदेवे तु निर्वृत्ते  
 यद्य् अन्यो ऽतिथिर् आव्रजेत् ।  
@@ -489,6 +571,16 @@ the Vaiśvadeva offering has been made and the Honouring of the guest also done,
 either *Vrīhi* or *Yava* cooked for him.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अन्यशब्दनिर्देशादतिथिभोजनपर्यन्तं वैश्वदेवे कृते यद्यपरोऽतिथिरागच्छेत्तदा तदर्थं पुनः पार्कं कृत्वा तस्यान्नं दद्यात् । बलिहरणं ततो नात्रकुर्यात् । बलिनिषेधादन्नसंस्काराभावो वैश्वदेवस्यावगम्यते । अन्नसंस्कारपक्षे कथमसंस्कृतान्न भोजनमानुजानीयात् ॥१०८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वैश्वदेव** इति । कृते ऽतिथिभोजनपर्यन्ते **वैश्वदेवे यद्य् **अपरो **ऽतिथिर् आव्रजेत्** तस्मै तदा च्**आन्नं यथाशक्ति **पुनः पक्त्वा **प्रदद्यात्** । बलिहरणं च ततो ऽन्नान् न कुर्यात् । बलिहरणनिषेधाद् आत्मसंस्कारार्थता वैश्वदेवस्याभिप्रेतेत्य् अवसीयते । अन्नसंस्कारपक्षे कथम् असंस्कृतान्नभोजनम् अनुजानीयात् ॥ ३.१०८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 108	But if another guest comes after the Vaisvadeva offering has been finished, (the householder) must give him food according to his ability, (but) not repeat the Bali offering.
@@ -501,7 +593,7 @@ either *Vrīhi* or *Yava* cooked for him.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१०९ न भोजनार्थम्</summary>
 
 न भोजनार्थं स्वे विप्रः  
 कुल-गोत्रे निवेदयेत् ।  
@@ -555,6 +647,16 @@ Vedic text, or country or family or name or learning—when a Brāhmaṇa travel
 Hiraṇyagarbha, not asking him about his study, *gotra*, Vedic text or family.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भोजनलाभार्थे ब्राह्मणः स्वकुलगोत्रे न निवेदयेत् । यस्माद्भोजनार्थं ते कथयन्नुकीर्णाशी ति पण्डितैः कथ्यते ॥१०९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+प्रसङ्गात् भोक्तृधर्मम् आह **न भोजनार्थम्** इति । **भोजन**लाभ्**आर्थं विरः स्वे कुलगोत्रे** न कथयेत् यस्मात् **भोजनार्थं ते** कथयन् उद्गीर्णाशीति विद्वद्भिः कथ्यते ॥ ३.११० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 109	A Brahmana shall not name his family and (Vedic) gotra in order to obtain a meal; for he who boasts of them for the sake of a meal, is called by the wise a foul feeder (vantasin).
@@ -567,7 +669,7 @@ Hiraṇyagarbha, not asking him about his study, *gotra*, Vedic text or family.�
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.११० न ब्राह्मणस्य</summary>
 
 न ब्राह्मणस्य त्व् अतिथिर्  
 गृहे राजन्य उच्यते ।  
@@ -626,6 +728,18 @@ be fed); if a Śūdra happen to arrive, he should be directed to do some work, a
 be, out of that he shall make the Vaiśvadeva offerings, and then entertain, to the best of his power, the Brāhmaṇa, the Kṣatriya, the Vaiśya and the Śūdra that may happen to arrive; but when the Śūdra arrives, he should be directed to do some work.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणस्य क्षत्रियादयोऽतिथयो न भवन्ति, क्षत्रियादीनां ब्राह्मणस्योत्कृष्टजातित्वात् ।मित्रज्ञातीनामात्मसम्बन्धाद् गुरोः प्रभुत्वात् । अनेनैव न्यायेन क्षत्रियस्य उत्कृष्टो ब्राह्मणः
+
+सजातीयश्च क्षत्रियोऽतिथिःस्यान्नापकृष्टौ वैश्यशूद्र । एवं वैश्यस्यापि द्विजातयोऽतिथयो नशुद्धः ॥११०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न ब्राह्मणस्य त्व् अतिथिर्** इति । ब्राह्मणगृहे गुरुमित्रबन्धुक्षत्रियवैश्यशूद्रा नातिथयो भवन्ति । गुरोः प्रभुत्वात् मित्रबन्धूनाम् आत्मसमत्वात् क्षत्रियादेश् च हीनजातित्वात् क्षत्रियस्योत्कृष्टः ब्राह्मणः स्यात् । ब्राह्मणक्षत्रियाव् उत्कृष्टजातीयौ स्याताम् एवं वैश्यस्यापि ॥ ३.११० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 110	But a Kshatriya (who comes) to the house of a Brahmana is not called a guest (atithi), nor a Vaisya, nor a Sudra, nor a personal friend, nor a relative, nor the teacher.
@@ -638,7 +752,7 @@ be, out of that he shall make the Vaiśvadeva offerings, and then entertain, to 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१११ यदि त्व्</summary>
 
 यदि त्व् अतिथिधर्मेण  
 क्षत्रियो गृहम् आव्रजेत् ।  
@@ -683,6 +797,16 @@ This verse is quoted in *Parāśaramādhava*, (Ācāra, p. 354) as laying down w
 See Comparative notes for [Verse 3.110].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि ग्रामान्तरागतत्वादतिथिकालोपस्थितत्वादतिथिधर्मेण क्षत्रियो विप्रगृहमागच्छत्तदा विप्रगृहोपस्थितविप्रेषु कृतभोजनेषु स्थितेष्विच्छातस्तमपि भोजयेत् ॥१११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यदीति** । क्षीणपाथेयो ग्रामान्तरवासित्वात् अतिथिधर्मेण **यदि क्षत्रियो** विप्रगृहे आगच्छेत् तदा गृहावस्थित**विप्रेषु** कृतभोजनेषु **तम् अपि** **भोजयेत् **॥ ३.११ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 111	But if a Kshatriya comes to the house of a Brahmana in the manner of a guest, (the house-holder) may feed him according to his desire, after the above-mentioned Brahmanas have eaten.
@@ -695,7 +819,7 @@ See Comparative notes for [Verse 3.110].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.११२ वैश्यशूद्राव्</summary>
 
 वैश्य-शूद्राव् अपि प्राप्तौ  
 कुटुम्बे ऽतिथि-धर्मिणौ ।  
@@ -748,6 +872,16 @@ house’.
 **
 
 See Comparative notes for [Verse 3.110].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+यदि वैश्यशूद्रावपि ब्राह्मणस्य कुटुम्बे गृहे प्राप्तौ ग्रामान्तरादागतत्वादतिथिधर्मशालिनौ तदा तावपि क्षत्रियभोजनकालात्परतो दम्पतोभोजनात्पूर्वं दासभोजनकाले अनुकम्पामाश्रयन्भोजयेत् ॥११२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वैश्यशूद्राव्** इति । **वैश्यशूद्राव्** अपाथेयाव् अतिथिरूपौ गृहे प्राप्तौ तदा कारुण्यात् सहभोजनीयौ ॥ ३.११२ ॥
 </details>
 
 <details><summary>Bühler</summary>

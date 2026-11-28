@@ -2,7 +2,15 @@
 title = "२७ आत्मनिवेदनम्"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+यथाऽऽत्मनिवेदनं शुद्रेण कर्तव्यं तदाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२५४ यादृशो ऽस्य</summary>
 
 यादृशो ऽस्य भवेद् आत्मा  
 यादृशं च चिकीर्षितम् ।  
@@ -51,6 +59,16 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 492), which explains ‘*�
 *Hemādri* (Śrāddha, p. 785).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अस्य शूद्रस्य कुलशीलादिभिर्यादृश आत्मा स्वरूपं, यच्चास्य कर्म कतुरीप्सितं यथा चानेन सेवा कर्तव्या तेन प्रकारेणात्मानं कथयेत् ॥२५४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यथा आत्मनिवेदनं तेन कार्यं तथाह **यादृश **इति । **यादृशो ऽस्य भवेद् आत्मा **कुलशीलादिभिर् **यादृशं **दृष्टार्थम् अदृष्टातिशयार्थं चोपचरणं कर्तुम् इष्टं येन वा प्रकारेण मृदुदकाद्याहरणादिनिमित्तं ब्राह्मणं सेवेत अनेन प्रकारेण्**आत्मानं** **निवेदयेत्** ॥ ४.२५४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 254	As his character is, as the work is which he desires to perform, and as the manner is in which he means to serve, even so (a voluntary slave) must offer himself.
@@ -63,7 +81,7 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 492), which explains ‘*�
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२५५ यो ऽन्यथा</summary>
 
 यो ऽन्यथा सन्तम् आत्मानम्  
 अन्यथा सत्सु भाषते ।  
@@ -92,6 +110,16 @@ it to be something else,—such a person is the worst of all sinners.
 ‘*Thief*’— stealer;—‘*stealing himself*.’ Other thieves steal things, while this person steals himself. This shows the despicable character of the man.—(255)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+य इति सामान्यनिर्देशात्प्रकृतशूद्वादन्योऽपि यः कश्चित्कुलादिभिरन्यथाभूतमात्मानमन्यथा साधुषु कथयति स लोकेऽतिशयेन पापकारी चौरः यस्मादात्मापहारकः । अन्यः स्तेनो द्रव्यान्तरमपहरति अयं तु सर्वप्रधानमात्मानमेवापहरेत् ॥२५५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यस्मात् **य** इति । यः कश्चित् प्रकृताच् छूद्राद् अन्यो ऽपि कुलादिभिः **अन्यथा **भूतम् **आत्मानं **इत्थम्भूतो ऽहम् इत्य् **अन्यथा **साधु कथयति स आतमरूपापलापत एव चोरो लोके अतिशयेन पापकृत् सर्ववस्तुप्रधानात्मापहारित्वात् ॥ ४.२५५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 255	He who describes himself to virtuous (men), in a manner contrary to truth, is the most sinful (wretch) in this world; he is a thief who makes away with his own self.
@@ -104,7 +132,7 @@ it to be something else,—such a person is the worst of all sinners.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२५६ वाच्य् अर्था</summary>
 
 वाच्य् अर्था नियताः सर्वे  
 वाङ्-मूला वाग्-विनिःसृताः ।  
@@ -144,6 +172,16 @@ It is not necessary to suspect, or attempt an explanation of, the repetition her
 He who ‘*steals such speech*’—misrepresents, having said one thing, does something else; he says something in one sense, and represents it in another sense;—‘*is the stealer of all things*;’—there is no substance, gold or anything else, which such a man has not stolen.
 
 This is an *imaginary* statement, deprecatory of *telling a lie*.—(*256*)
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+सर्वेऽर्थाः शब्देषु नियता वाच्यत्वेन नियताः वाङ्मूलाश्च शब्दास्तेषां प्रतिपत्तौ शब्देभ्य एव प्रतायन्ते प्रतीतिद्वारेण शब्दमुलत्वं शब्देभ्य एवावगम्य चानुष्ठीयन्त इति वाग्विनिर्गता इत्युच्यन्ते । अत एव "वेदशब्देभ्य एवादौ " ( म. स्मृ. १-२१ ) इति ब्रह्मणोऽपि सृष्टिर्वेदशब्दमूलवोक्ता। अतो यस्तां वाचं स्तेनयेत्स्वाथव्यभिचारिणीं वाचयति स नरः सर्वार्थस्तेयकृद्भवति ॥२५६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वाच्य् अर्था **इति । **सर्वे ऽर्थाः **शब्देषु सम्बद्धाः शब्दार्थसम्बन्धस्य नियतत्वात् शब्दमूलकाश् च यतः शब्देभ्यः प्रतीयन्ते शब्दप्रतीतिपुरःसरं चार्थसंव्यवहारप्रतीतेः शब्दविनियता एव । अतस् तां वाचं यास् चोरयेत्, अन्यद् उक्त्वा अन्यद् अनुतिष्ठेत् **स सर्व**वस्तु**स्तेयकृन् नरो **भवति ॥ ४.२५६ ॥
 </details>
 
 <details><summary>Bühler</summary>

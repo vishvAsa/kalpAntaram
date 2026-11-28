@@ -2,7 +2,7 @@
 title = "०४ यज्ञाः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२१ ऋषियज्ञम्</summary>
 
 ऋषियज्ञं देवयज्ञं  
 भूतयज्ञं च सर्वदा ।  
@@ -25,11 +25,14 @@ To the rest of his power, he shall never omit the sacrifice to the sages, the sa
 
 - <u>न त्व् इयम्</u> आशङ्का कर्तव्या "द्विर्वचनं द्विर्विधानार्थम्" । न ह्य् अत्र विधिः श्रूयते । केवलं **न हापयेद्** इत्य् उच्यते । नित्यत्वाच् च हानिः प्राप्तैव । न[^६३] विहितप्रत्यभिज्ञानतः कश्चित् कर्मभेदे हेतुर्[^६४] अस्ति । **यथाशक्ति** पक्वान्नेन आमेन[^६५] वा मूलफलैर् वा ॥ ४.२१ ॥
 
+
 [^६५]:
      M G: grāsena
 
+
 [^६४]:
      M G: karmabhedahetur
+
 
 [^६३]:
      M G: ato
@@ -61,6 +64,16 @@ five great *Sattras*—the sacrifice to Gods, the sacrifice to Pitṛs, the sacr
 perform the five sacrifices.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वाध्यायादीन्पञ्चयज्ञान्यथाशक्ति न त्यजेत् । तृतीयाध्यायविहितानामपि पचयज्ञानामिह निर्देश उत्तरत्र विशेषविधानार्थः स्नातकव्रतत्वबोधनार्थश्च ॥२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ऋषियज्ञम्** इति । स्वाध्यायादीन् **यथाशक्ति **न परित्यजेद् इति उक्तपञ्चयज्ञाभिधानं वक्ष्यमाणेन्दिर्यसम्पाद्यत्वकथनार्थम् ॥ ४.२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 021	Let him never, if he is able (to perform them), neglect the sacrifices to the sages, to the gods, to the Bhutas, to men, and to the manes.
@@ -73,7 +86,7 @@ perform the five sacrifices.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२२ एतान् एके</summary>
 
 एतान् एके महायज्ञान्  
 यज्ञशास्त्रविदो जनाः ।  
@@ -92,6 +105,7 @@ Some persons, conversant with the ordinances relating to sacrifices, who do not 
 
 **एतान् महायज्ञान् एके यज्ञशास्त्राविदो** गृहस्था **इन्द्रियेष्व् एव जुह्वति** संपादयन्ति । कतमे पुनस् ते । **अनीहमाना** । ये नेच्छन्ति[^६६] धनं त्यक्तगृहव्यापारा देहसांन्यासिकादयः । 
 
+
 [^६६]:
      M G: na cecchanti
 
@@ -101,10 +115,12 @@ Some persons, conversant with the ordinances relating to sacrifices, who do not 
 
 - <u>एवं</u> च होमं केचिद् इन्द्रियेषु तत्संयमम्[^६७] एव व्याचक्षते । 
 
+
 [^६७]:
      M G: tatsaṅgamam
 
 - <u>अपरेषां</u> प्राणसंवादोपनिषदि "यद् यद् भक्तं प्रथमम् आगच्छेत् तद् धोमीयं स यां[^६८] प्रथमाहुतिं जुहुयात् प्राणाय स्वाहा" इत्यादिना (छु ५.१९) । 
+
 
 [^६८]:
      M G 1st ed. J: sāyaṃ
@@ -147,6 +163,16 @@ There is no force in the objection. The mention of the ‘sense-organs’ simply
 Prāṇas, to be made by the Śālīna, the Yāyāvara and the Ātmayājin.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एके गृहस्था बाह्यान्तरयज्ञानुष्ठानशास्त्रज्ञाएतान्पञ्चमहायज्ञान् ब्रह्मज्ञानप्रकर्षाद्वहिरचेष्टमानाः पञ्चसु बुद्धीन्द्रियेष्वेव पञ्चरूपज्ञानादिसंयमं कुर्वन्तः सम्पादयन्ति । यज्ञानां होमत्वानुपपत्तेः सम्पादनार्थो जुहोतिः ॥२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतान्** इति । बाह्याभ्यन्तरयज्ञोपदेशकशास्त्रज्ञाः केचिन् मनुष्याः ज्ञानबलान् नित्यानुष्ठानार्थम् उपरतधनचेष्टा एतान् महायज्ञान् **इन्द्रियेष्व् एव **सर्वकालं सम्पादयन्ति । इन्द्रियाणि अग्न्यातिथ्यादिरूपतया तत्संयमं वाग्बाहुल्यादिरूपत्वेन भावयन्ति । एतान् सम्पादयन्ति ॥ ४.२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 022	Some men who know the ordinances for sacrificial rites, always offer these great sacrifices in their organs (of sensation), without any (external) effort.
@@ -159,7 +185,7 @@ Prāṇas, to be made by the Śālīna, the Yāyāvara and the Ātmayājin.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२३ वाच्य् एके</summary>
 
 वाच्य् एके जुह्वति प्राणं  
 प्राणे वाचं च सर्वदा ।  
@@ -204,6 +230,18 @@ that time he offers speech unto breath; while he speaks, he does not breathe; th
 different sacrifice, the Daiva sacrifice; other Yogins have recourse to another sacrifice offered into the fire of Brahman. Others again offer the auditory and other organs into the fire of Restraint; others offer sound and the other objects into the fire of the sense-organs. Others offer all sense-functions and breath-functions into the fire of the Yoga of self-restraint, enkindled by wisdom. Sages fixed in their observances offer the sacrifice of substances, the sacrifice of austerities, the sacrifice of Yoga, the sacrifice of Vedic Study and the sacrifice of Knowledge. They offer the Prāṇa unto the Apāṇa, and the Apāṇa unto Prāṇa; and restraining the function of Prāṇa and Apāṇa, devoted to breath-control, restrained in their food, they offer Prāṇa unto the Prāṇas. All these are persons well-versed in sacrifices and have their sins destroyed by sacrifices. O Suppressor of enemies, the sacrifice of knowledge is superior to the sacrifice of substances; all action, O Pārtha, culminates in knowledge.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एके गृहस्था ब्रह्मविदो वाचि प्राणवायौ च यज्ञनिर्वृत्तिमक्षयफलां जानन्तः सततं वाचि प्राणं च जुह्वति, वाचं च प्राणे ।भाषमाणेन च वाचि प्राणं जुहोतीति, अभाषमाणेनोच्छ्वसता प्राणे वाचं जुहोतीति व्याख्यातव्यमित्यनेन विधीयते । यथा कौषीतकिरहस्यब्राह्मणम्– “यावद्वै पुरुषो भाषते न तावत्प्राणितुं शक्नोति प्राणं तदा वाचि जुहोति यावद्धि पुरुषः प्रा-
+
+णिति न तावद्भाषितुं शक्नोति वाचं तदा प्राणे जुहोति एतेऽनन्ते अमृते आहुती जाग्रत्स्वपंश्च सततंजुहोति । अथवा अन्या आहुतयोऽनन्तरन्यस्ताः कर्ममय्योहि भवन्त्येवं हि तस्यैतत्पूर्वे।विद्वांसोऽग्निहोत्रं जुहवांचक्रुः”इति ॥२३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वाचीति** । अन्ये पुनः **वाचि** प्राणाख्ये च वायौ अक्षयफलां यज्ञसम्पत्तिं मन्यमाना अभिधानकामे वागग्नौ तूष्णीम्भावकाद् एव च प्राणाग्नौ वागाहुतिं जुह्वति प्राणाहुतिं जुह्वति । एवम् अनवरतं भावयत्न आसते । तथा च कौषीतकिरहस्यब्राह्मणम्- “यावद् वै पुरुषो भाषते न तावत् प्राणितुं शक्नोति प्राणं तदा वाचि जुहोति । यावद् वै पुरुषः पाणिति न तावद् भाषितुं शक्नोति वाचं तदा प्राणे जुहोति । एते अनन्ते अमृते आहुती जागत् स्वपंश् च सततं जुहोति अथ या अन्या आहुतयो ऽन्नवत्यस् ताः कर्ममय्यो हि भवन्ति, एवं तद्वस्मै तत्पूर्वे विद्वांसो ऽग्निहोत्रं जुहवां चक्रुः” इति ॥ ४.२३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 023	Knowing that the (performance of the) sacrifice in their speech and their breath yields imperishable (rewards), some always offer their breath in their speech, and their speech in their breath.
@@ -237,7 +275,7 @@ different sacrifice, the Daiva sacrifice; other Yogins have recourse to another 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२४ ज्ञानेनैवाऽपरे</summary>
 
 ज्ञानेनैवाऽपरे विप्रा  
 यजन्त्य् एतैर् मखैः सदा [मेधातिथिपाठः - यजन्ते तैर् मखैः सदा] ।  
@@ -262,8 +300,10 @@ Other Brāhmaṇas, looking, with the eye of knowledge, upon this act as having 
 
 - <u>यदि</u> ज्ञानात् कार्यनिर्वृत्तिः किमर्थं तर्हि कर्मणाम् अनुष्ठानम् । न ह्य् अविषयः कर्मानुष्ठानसंभवः । <u>अथेयं</u> बुद्धिः "य उ चैनम् एवं वेद" (त्ब् ३.११.८.६) इति ज्ञानस्यापि फलसाधनत्वेन श्रवणात्[^७०] कृतं[^७१] कर्मानुष्ठानेनेति । <u>तद् असत्,</u> अन्यशेषतया तस्यार्थवादत्वात् । 
 
+
 [^७१]:
      M G 1st ed.: tulyaṃ
+
 
 [^७०]:
      M G: āśravaṇāt
@@ -304,6 +344,16 @@ The text adds a commendatory declaration, by way of pointing out the reason for 
 See Comparative notes for [Verse 4.23].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अपरे विप्रा ब्रह्मनिष्ठाः सर्वथा ब्रह्मज्ञानेनैवैतर्मखैर्यजन्ति एतांश्च यज्ञाननुतिष्ठन्ति । कथमेतदित्याह —ज्ञानं ब्रह्म **“सत्यं ज्ञानमनन्तम्”**( तैत्ति० उ० २।१।१ ) इत्यादिश्रुतिषु प्रसिद्धम् ।ज्ञानमूलामेषां यज्ञानां क्रियामुत्पत्तिं जानन्तः ज्ञायतेऽनेनेति ज्ञानं चक्षुरिव चक्षुः ज्ञानचक्षुषोपनिषदा **“सर्वं खल्विदं ब्रह्म तज्जलान्”**इत्यादिकया पञ्चयज्ञानपि ब्रह्मोत्पत्तिकाले ब्रह्मात्मकान्ध्यायन्तः सम्पादयन्ति । पञ्चयज्ञफलमश्नुवत इत्यर्थः । लोकत्रयेण ब्रह्मनिष्ठानां वेदसंन्यासिनां गृहस्थानाममी विधयः ॥२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ज्ञानेनेति** । **अपरे **पुनर् **विप्राः एषां** यज्ञानां विद्वान् यजते विद्वान् याजयतीत्य् एवं अवबोधंउलम् अनुष्ठानं **ज्ञानचक्षुषा ** शास्त्रेण **पश्यन्तः** विज्ञानबलाद् एतान् यज्ञान् एतद्विषयसम्यगवबोधेनैव यावज्जीवं सम्पादयन्ति । तथा च “यो ह्य् एवं द्विजान् एतत् कर्म कुरुते यो वै तद् एवं वेद” इति ब्राह्मणम् ॥ ४.२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 024	Other Brahmanas, seeing with the eye of knowledge that the performance of those rites has knowledge for its root, always perform them through knowledge alone.
@@ -311,7 +361,7 @@ See Comparative notes for [Verse 4.23].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२५ अग्निहोत्रं च</summary>
 
 अग्निहोत्रं च जुहुयाद्  
 आद्य्-अन्ते द्यु-निशोः सदा ।  
@@ -334,13 +384,16 @@ He shall always offer the Agnihotra, either at the beginning, or, at the end, of
 
 - <u>वेदसंन्यासिकायां</u> प्रकृतोपासनासंवादनार्थम् । यथैव "वाच्य् एके जुह्वति प्राणम्" (म्ध् ४.२३) ज्ञानेनैवेति च पञ्चमहायज्ञाः संपाद्यन्ते । तद्वद् एतद् अपीति । कश् चायम् उपालम्भः "किम् अर्थं पुनर्वचनम्" इति, सर्वश्रुतीनां स्मृतीनाम् च यद् एकदेशे ऽभिहितं तस्यैवान्यत्र पुनर्वचनस्य चोद्यापत्तेः । उक्तश् च सामान्यतः परिहारः प्रतिपत्तृभेदान्[^७२] न पौनरुक्त्यम् इति । यथा प्रतिपत्तृभेदाद्[^७३] इन्द्रियभेदो, नैकेन चक्षुषा सर्वे द्रष्टुं शक्नुवन्ति बहूनीन्द्रियाणि प्रयोजनवन्ति, एवं शाखाभेदः स्मृतिभेदश् च ।
 
+
 [^७३]:
      M G: pratipattibhedād
+
 
 [^७२]:
      M G: pratipattibhedād
 
 - <u>अथोच्यते</u>- कस्माद् रुपावचनम्[^७४] इति ।
+
 
 [^७४]:
      M G: rupād vacanam
@@ -353,8 +406,10 @@ He shall always offer the Agnihotra, either at the beginning, or, at the end, of
 
 - **आद्यन्ते द्युनिशोः** । नात्र यथासंख्यम्, किं तर्हि दिव आदौ निशायाश् चादौ, एवं दिवो ऽन्ते निशायाश् चान्त इति । सायंप्रातः कालाव् एतेन परिगृह्येते । तत्रोदितहोमिनाम् अहरादौ अनुदितहोमिनां निशान्ते । द्युशब्दो[^७५] दिवसपर्यायः । **सदा** । यावज्जीवं सायंप्रातर् होमः कर्तव्यः । **दर्शेन** यजेतेत्य् अत्राध्याहर्तव्यम् ।[^७६] न हि तत्रोत्पत्तौ जुहुयाद् इत्य् अस्ति, किं तर्हि दर्शेन यजेतेति । तदनुवादश् चायम् । अत एवाध्याहारः क्रियते । अत एव अविशेषश्रवणे ऽपि **अर्धमासान्त** इति कृष्णपक्षान्ते दर्शः शुक्लान्ते पौर्णमासः । तथा च स्रुतिः- "दर्शे च दर्शेन यजेत पूर्णमास्यां पूर्णमासेन यजेत" इति ॥ ४.२५ ॥
 
+
 [^७६]:
      M G add: darśena yajet
+
 
 [^७५]:
      M G 1st ed.: dviśabdo
@@ -406,6 +461,16 @@ three years shall drink *Soma*; and he who has enough for the year shall perform
 evening;—oblations should be poured to the gods;—one shall offer sacrifices on the moonless and full-moon days, by reason of the proximity and remoteness of the moon and the sun.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उदितहोमपक्षे दिनस्यादौ निशायाश्चादौ । अनुदितहोमपक्षे दिनस्यान्ते निशायाश्चान्ते । यद्वा उदितहोमपक्षे दिनस्यादौ दिनान्ते च । अनुदितहोपक्षे निशादौ निशान्ते च अग्निहोत्रं कुर्यात् । कृष्णपक्षार्धमासान्ते दर्शाख्येन कर्मणा शुक्लपक्षार्धेच पोर्णमासाख्येन यजेत् ॥२५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अग्निहोत्रं चेति** । उदितहोमपक्षे दिनादौ दिनान्ते होमं कुर्यात् । तथा अनुदितहोमपक्षे रात्र्यादौ रात्र्यन्ते च होमं कुर्यात् । तथा कृष्णपक्षान्ते दर्शाख्येन कर्मणा, शुक्लपक्षान्ते पौर्णमासाख्येन यजेत ॥ ४.२५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 025	A Brahmana shall always offer the Agnihotra at the beginning or at the end of the day and of the night, and the Darsa and Paurnamasa (Ishtis) at the end of each half-month,
@@ -415,7 +480,7 @@ evening;—oblations should be poured to the gods;—one shall offer sacrifices 
 
 ## अग्रेष्टिः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२६ सस्यान्ते</summary>
 
 सस्यान्ते नवसस्येष्ट्या  
 तथार्त्व्-अन्ते द्विजो ऽध्वरैः ।  
@@ -494,6 +559,16 @@ shall perform the sacrifices of Darśa-Pūrṇamāsa, Āgrayaṇeṣṭi, Cātur
 Paśu,—and the Āgrayaṇeṣṭi and the Cāturmāsya also shall be performed.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वार्जितधान्यादिसस्ये समाप्ते “शरदि नवानाम्”इति सूत्रकारवचनादसमाप्तेऽपि पूर्वसस्ये नवसस्योत्पत्तावाग्रयणेन यजेत, सत्यक्षयस्यानियतत्वात् धनिनां बहुहायनजीवनोचितधान्यसम्भवाच्च । सस्यान्तग्रहणाच्च नवसस्योत्पत्तिरेवाभिप्रेता, नियतत्वात्तस्याः प्रत्यब्दं निमित्तत्वोत्पत्तेः। ऋतुसम्वत्सर इत्येतन्मताश्रयणेन चत्वारश्चत्वारो मासा ऋतवस्तदन्तेऽध्वरैश्चातुर्मासाख्यैर्यागैर्यजेत। अयनयोरुत्तरदक्षिणयोरादौ पशुना यजेत पशुबन्धाख्यं यागमनुतिष्ठेत् । ज्योतिःशास्त्रे चैत्रशुक्ल प्रतिपदादिवर्षगणनाच्छिशिरेण समाप्ते वर्षे वसन्ते सोमरससाध्यैरग्निष्टोमादियागैर्यजेत ॥२६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सस्यान्त** इति । प्राक्सञ्चितधान्यादिक्षये यदा वर्षस्य तृप्तः स्यात् “अथाग्रयणेन यजेत शरदि नवान्नम्” इति सूत्रकारवचनात् । विद्यमानधान्यो ऽपि चाग्रयणेन यजेत । ऋतुः संवत्सरम् इत्य् अस्मिन् दर्शनेन चतुर्षु चतुर्षु मासेष्व् ऋत्वन्ते ऽध्वरैः चातुर्मास्याख्यैः कर्मभिर् यजेत । पशुबन्धाख्येन कर्मणा उत्तरायणदक्षिणायनादौ यजेत । वर्षान्ते च ज्योतिष्टोमादिना सोमयागेनेति ॥ ४.२६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 026	When the old grain has been consumed the (Agrayana) Ishti with new grain, at the end of the (three) seasons the (Katurmasya-) sacrifices, at the solstices an animal (sacrifice), at the end of the year Soma-offerings.
@@ -506,7 +581,7 @@ Paśu,—and the Āgrayaṇeṣṭi and the Cāturmāsya also shall be performed
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२७ नाऽनिष्ट्वा</summary>
 
 नाऽनिष्ट्वा नवसस्येष्ट्या  
 पशुना चाऽग्निमान् द्विजः ।  
@@ -527,6 +602,7 @@ Without having performed the New-Harvest sacrifice, and the animal Sacrifice, th
 
 - नियमानुपालने फलम् आह । **दीर्घम् आयुर् जिजीविषुः** । आयुःशब्देन प्रबन्धवत्यः प्राणापानवृत्तय उच्यन्ते । द्वितीया च सत्य् अपि जीवतेर् अकर्मकत्वे ऽपि इषिक्रियापेक्षया । सन्नन्तो ऽपि धातुर् इच्छायां वर्तते । अत्रापि[^७८] दर्शने इषेः कर्म प्रकृत्यर्थो न बाह्यम्, इच्छा वेक्ष्यमाणं प्रति गुणभूता, प्रकृतिप्रत्ययौ प्रययार्थं सह ब्रुवत इति सन्नन्ताद् अन्यत्रापि । अस्मिन्न् अपि दर्शने आयुःशब्देन कालो लक्षयिष्यते, दीर्घकालं जीवनम् इच्छन् । तत्र "कालता वावगन्तव्या कर्मसंज्ञा ह्य् अकर्मणाम्" इति कर्मत्वम् । 
 
+
 [^७८]:
      M G 1st ed.: yady api
 
@@ -534,10 +610,12 @@ Without having performed the New-Harvest sacrifice, and the animal Sacrifice, th
 
 - यच् चेदं "शरदि नवन्नम्" इति, तत् व्रीहिश्यामाकयोर्[^७९] न यवानाम् । न च सस्यमात्रेण सस्येष्टियागः, न च माषम् उद्गादिना । यत इदं शास्त्रान्तरसापेक्षम्, न स्वतो विधायकम् इत्य् उक्तम् । शास्त्रान्तरेषु च व्रीहिश्यामाकयवैर् आग्रयणेष्टिर् विहिता । 
 
+
 [^७९]:
      M G: -śyāmakayor
 
 - किं त्व् अन्यद् अपि सस्यं नाशितव्यम् अकृतायाम् आग्रयणेष्टौ । यद् उक्तम् अविशेषेण "सस्यं नाश्नीयात्" इति । तन्निषेधे ह्य् अभिप्रेते इयद् एवावक्ष्यत्- "आग्रयणं व्रीहिश्यामाकयवानाम्, सस्यं[^८०] नाश्नीयाद् अग्निहोत्रम् अहुत्वा" इति । एवं सूत्रकारेण पठितम्- "आग्रयणं व्रीहिस्यामाकयवानाम्, सस्यं नाश्नीयाद् अग्निहोत्रम् अहुत्वा" इति । अतो ऽयं सस्यशब्दो न प्रतिनियतविषय एव ॥ ४.२७ ॥
+
 
 [^८०]:
      M G 1st ed.: etaṃ; G 2nd ed. omits: sasyaṃ
@@ -569,6 +647,16 @@ the author of the *Sūtra* has said is—‘The Āgrayaṇa is to be performed w
 offered it in sacrifice, for him the expiation consists in making the Vaiśvānara offering.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आहिताग्निर्द्विजो दीर्घमायुर्जीवितुमिच्छन्नाग्रयणमकृत्वा नवान्नं न भक्षयेत् । न च पशुयागमकृत्वा मांसमश्नीयात् ॥२७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति** । आहिताग्निर् द्विजो दीर्घायुर् जीवितुम् इच्छुः आग्रयणम् अकृत्वा **नवान्नं **पशुयागं वाकृत्वा **मांसं **नाश्नीयत् ॥ ४.२७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 027	A Brahmana, who keeps sacred fires, shall, if he desires to live long, not eat new grain or meat, without having offered the (Agrayana) Ishti with new grain and an animal-(sacrifice).
@@ -576,7 +664,15 @@ offered it in sacrifice, for him the expiation consists in making the Vaiśvāna
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+दोषं कथयन्ननित्यतामनयोराह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२८ नवेनाऽनर्चिता</summary>
 
 नवेनाऽनर्चिता ह्य् अस्य  
 पशुहव्येन चाऽग्नयः ।  
@@ -603,6 +699,17 @@ By pointing out the evils arising from the omission of the said rites, the text 
 ‘*Not worshipped with new grains*’—not having the oblations offered into them,—‘*the fires*’—of the man who has set up the fire,—‘*seek to devour*’—eat—‘*his very life*.’
 
 ‘*Greed*.’— ‘Greed’ is excessive *longing*; and one who has this, is called ‘greedy.’ The affix ‘*ini*’ has the force of the possessive.—(28)
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+यस्मान्नवेन हव्येन पशुवदामेनानर्चिता अकृतयागा अग्नयो नवान्नमांसाभिलाषिणोऽस्याहिताग्नेः  
+   प्राणानेवाग्निहोत्रिणः     खादितुमिच्छन्ति । गर्भोऽभिलाषातिशयः, गृधेर्घञन्तस्य रूपं, सोऽस्यास्तीति गर्धी, मत्वर्थीय इनिः ॥२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नवेनेति** । यस्मान् नवसस्येन पशुयागेन (दानेन) चानिष्ट्वा **अग्नयो **नवान्नमांसानि काङ्क्षिणो ऽस्याग्न्याहितस्य **प्राणान् एव** भक्षयितुम् **इच्छन्ति **। तस्माद् आग्रयणपशुयागौ कर्तव्यौ ॥ ४.२८ ॥
 </details>
 
 <details><summary>Bühler</summary>

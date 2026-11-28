@@ -1,7 +1,7 @@
 +++
 title = "०५ स्त्रीधनम्"
 +++
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.५१ न कन्यायाः</summary>
 
 न कन्यायाः पिता विद्वान्  
 गृह्णीयाच् छुल्कम् अण्व् अपि ।  
@@ -50,6 +50,16 @@ their daughters for a consideration, are soul-sellers, sinful and grave sinners,
 to the girl’s guardian has been prescribed with a view to securing a special end, and for a righteous purpose; therefore one should present to the girl’s guardian a chariot and a hundred cows; which present joins the couple in wedlock; the applying of the name *selling* to such giving of the girl is a mere declamation; because the acceptance of the present is for a righteous purpose.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कन्यायाः पिता धनग्रहणशेषज्ञोपमपि धनं कन्यादाननिमित्तकं न गृह्णीयात् । यस्माल्लोभेन तद् गृह्णन्नपत्यविक्रयी भवति ॥११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति** । **कन्यायाः पिता** धनग्रहणदोषज्ञः स्वल्पम् अपि कन्यादानविनिमयरूपधनं **न गृह्णीयात्** । यस्माल् **लोभेन **तद् **गृह्णन् अपत्यविक्रयी **भवेत् ॥ ३.५१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 051	No father who knows (the law) must take even the smallest gratuity for his daughter; for a man who, through avarice, takes a gratuity, is a seller of his offspring.
@@ -62,7 +72,7 @@ to the girl’s guardian has been prescribed with a view to securing a special e
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.५२ स्त्रीधनानि तु</summary>
 
 स्त्रीधनानि तु ये मोहाद्  
 उपजीवन्ति बान्धवाः ।  
@@ -80,6 +90,7 @@ Those relations who, through folly, live upon the bride’s properties—even th
 <details><summary>मेधातिथिः</summary>
 
 पूर्वस्यैव शेषः[^११९] । स्त्रीनिमित्तानि धनानि, कन्यादाने वराद् यानि गृह्यन्ते । **ये बान्धवाः** पित्रादयः **मोहाद् उपजीवन्ति** । यथोक्तं "ज्ञातिभ्यो द्रविणं दत्वा" (म्ध् ३.३१) इति । सुवर्णरजतादि धनम् । **नारीयानानि** । यानम् अश्वादि । **वस्त्रं वा** । एतावन्मात्रम् अपि न जातूपजीवनीयं वासो यानादि, किं पुनर् बहु । उपजीवतां फलम् आचष्टे । ते **पापाः** शास्त्रप्रतिषिद्धसमाचरणाद् **अधोगतिं** नरकं **यान्ति** । अथ वा **स्त्रीधनानीति** नवमे दर्शयिष्यति । तानि ये मोहाद् उपजीवन्ति बान्धवाः, पिता तत्पक्षाश् च भर्ता भर्तृपक्षाश् च । एवं यानादि । एवं वस्त्रम् । स्त्रीणाम् बुद्धौ संनिधानाच् छाब्दः संनिधिः कल्प्यते यथा "राजपुरुषः कस्य । राज्ञः" इति ॥ ३.५२ ॥
+
 
 [^११९]:
      M G 1st ed. place pūrvasyaiva śeṣaḥ after gṛhyante
@@ -113,6 +124,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 851), which deduces fr
 ‘*svarṇam yānāni*’ for ‘*nārīyānāni*.’\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कन्यादाननिमित्तकशुल्कग्रहणनिषेधप्रसङ्गान्नवमाध्यायाभित्रेयस्त्रीधनग्रहणनिषेधोऽयम् । ये बान्धवाः पतिपित्रादयः कलत्रदुहिनादिधनानि गृहन्ति । नारी स्त्रो, यानान्यवाहीनि, वस्त्रं चेति प्रदर्शनार्थम् । सर्वमेव धनं ग्राह्यम् । ते गृह्णानाः पापकारिणो नरकं गच्छन्ति ॥२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्त्रीधनानीति** । दुहितृभगिन्¥आसिसम्बन्धीनि हिरण्यानि दासीवाहनवस्त्राणि वा पित्रादय उपभुञ्जते । अतस् ते **पापाः** पाककर्माणो नरकं व्रजन्ति । प्रसङ्गात् स्त्रीधनोपजीवनप्रतिषेधः ॥ ३.५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 052	But those (male) relations who, in their folly, live on the separate property of women, (e.g. appropriate) the beasts of burden, carriages, and clothes of women, commit sin and will sink into hell.
@@ -125,7 +146,7 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 851), which deduces fr
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.५३ आर्षे गोमिथुनम्</summary>
 
 आर्षे गोमिथुनं शुल्कं  
 के चिद् आहुर् मृषैव तत् ।  
@@ -185,6 +206,31 @@ hundred cows is made, it is known as *selling*.’ *Apastamba-Dharmasūtra* (2.1
 *Mahābhārata* (13.45.20).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आर्षेविवाहे गोमिथुनं शुल्कं वराद्ग्राह्यमिति के चिहाचार्या वदन्ति तत्पुनरसत्यम् । यस्मादल्पमुल्यसाध्यत्वादल्पो वा भवतु, बहु मूल्यसाध्यत्वान्महान्वा भवतु, सतावविक्रयो भवत्येव । यत्पुनः “एकं गोमिथुनम्” (म. स्मृ. ३ / २९) इति पूर्वमुक्तं तत्परमतमिति गोविन्दुराजः, तद्युक्तम् । मनुमते लक्षगमार्षस्य न स्यादेव, वरागोमिथुनग्रहणपूर्व ककन्यादानस्यैवार्षविवाहलक्षणत्वात् । मन्वभिमतमन्यदेवार्षलक्षणम्, एकं गोमिथुनमिति परमत मिति चेत् ?
+
+**एकं गोमिथुनं द्वे चेत्येतत्परमतं यदि ।**
+
+**तदा मनुमतेनार्षलक्षणं किं तदुच्यताम् ॥**
+
+**अष्टौ विवाहान्कथयन्नार्षोढासन्ततेर्गुणान् ।**
+
+**मनुः किं स्वमतेनार्षलक्षणं वक्तुमक्षमः ॥**
+
+(२)[^65] मेधातिथिस्तु पूर्वापरविरोधोपन्यासनिरासमेव न कृतवान् \।
+तस्मादस्माभिरित्थं व्याख्यायते - आर्षे विवाहे गोमिथुनं शुल्कमुत्कोवरूपमिति केचिदाचार्या वइन्ति \। मनोस्तु मतं नेदम्, शास्त्रनियमितजातिसंख्याकं ग्रहणं न शुल्करूपम् । शुल्कत्वे मुल्याल्पत्वमहत्त्वे अनुपयोगिनी, विक्रय एव तदा स्यात् । किन्त्वार्षविवाहसम्पत्त्यै अवश्यकर्तव्ययागादिसिद्वये कन्यायै वा दातुं शास्त्रीयं धर्मार्थमेव गृह्यते । अत एवार्षलक्षणश्लोके "वरादादाय धर्मतः" (म. स्मृ. ३ / २९) इति । धर्मतो धर्मार्थमिति तस्यार्थः । भोगलोभेन तु धनग्रहणं शुल्करूपमशास्त्रीयम् । अत एव “गृह्णन् शुल्कं हि लोभेन" (म.स्मृ. ३ / ५१) इति निन्दामुक्तवान् । तस्मात्पौर्वा-
+
+[^65]: "स्त्रीगवी च पुंगवश्च गोमिथुनम् । केचिदाहुरेतदादेयमिति । मनोस्तु मतं मृषैव तत्, मिथ्या-ऽनादेयमित्यर्थः । अल्पोऽप्येवम् अल्पसाधनोऽल्पः एवं महान्भवति तावानेत्र विक्रयः ।"
+
+पर्यपर्यालोचनादाप धर्मार्थं गोमिथुनं ग्राह्यं न तु भोगार्थमिति मनुना स्वमतमनुवर्णितम् ॥५३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आर्षे **इति । **आर्षे **विवाहे **गोमिथुनं शुल्कं** वराद् ग्राह्यम् इति केचिद् आचार्याः प्राहुः तत् पुनर् असत्यम्, यस्माद् अल्पार्थं साध्यत्वाद् अल्पो वा भवतु बहुमूल्यसाध्यत्वान् महान् वा भवतु सर्वथा विक्रयस् तावद् असौ भवति । “एवम् एकं गोमिथुनम्” इत्य् एतत् परमतम् इत्य् अवसीयते ॥ ३.५३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 053	Some call the cow and the bull (given) at an Arsha wedding 'a gratuity;' (but) that is wrong, since (the acceptance of) a fee, be it small or great, is a sale (of the daughter).
@@ -197,7 +243,15 @@ hundred cows is made, it is known as *selling*.’ *Apastamba-Dharmasūtra* (2.1
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+आर्षे गोमिथुनं शुल्कमित्युक्तं, इदानीं कन्यार्थमपि धनस्य दानं न शुल्कमित्याह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.५४ यासां नाददते</summary>
 
 यासां नाददते शुल्कं  
 ज्ञातयो न स विक्रयः ।  
@@ -244,6 +298,16 @@ It is quoted in *Saṃskāramayūkha* (p. 100), which explains ‘*ānṛśaṃs
 ancient lore quote the words of Prācetasa to the effect that in cases where the relations do not appropriate anything for themselves, it is not *selling*, it is only a method of honouring the girls, and as such, entirely harmless and righteous; the whole of the present received should he made over to the girl.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यासां कन्यानां प्रीत्या वरेण दीयमानं धनं पित्रादयो न गृह्णन्ति किन्तु कन्यायै समपर्थन्ति, सोऽपि न विक्रयः यस्मात्कुमारीणां पूजनं तदानृशंस्यमहिंसकत्वं केवलं तदनुकम्पारूपम् ॥४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यासाम्** इति । **यासां** कन्यानां पुनः पित्रादयः आत्मार्थं दानं दत्तं वरान् न गृह्णन्ति अपि तु प्रसन्नैः भर्त्रादिभिर् अर्पणपूर्वकं कन्यार्थं दत्तं गृह्यते, नासौ विक्रयः । किं तर्हि । पूजनं तत्, कन्यानां **केवलं** विक्रयस्पर्शशून्यम् अनुकम्पारूपं अनुकम्पारूपं तत् ॥ ३.५४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 054	When the relatives do not appropriate (for their use) the gratuity (given), it is not a sale; (in that case) the (gift) is only a token of respect and of kindness towards the maidens.
@@ -262,7 +326,7 @@ ancient lore quote the words of Prācetasa to the effect that in cases where the
 </div>
 
 ## नारीपूजा
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.५५ पितृभिर्</summary>
 
 पितृभिर् भ्रातृभिश् चैताः  
 पतिभिर् देवरैस् तथा ।  
@@ -280,6 +344,7 @@ These shall be honoured and adorned by their fathers and brothers, husbands and 
 <details><summary>मेधातिथिः</summary>
 
 न केवलं वराद् आदाय दातव्यं[^१२०] कन्याबन्धुभिर् अपि तु तैर् अपि दात्व्यम् । **पितृभिः** साहचर्यात् पितृशब्दः पितामहपितृव्यादिषु वर्तते । ततो बहुवचनं । व्यक्त्यपेक्षं वा बहुवचनम् । एवं **पतिभिः** श्वशुरादिभिर् व्यक्त्यपेक्षं वा । **देवराह्** पत्युर् भ्रातरः । **पूज्याह्** । पुत्रजन्माद्युत्सवेषु निमन्त्रणपूर्वकमानाश्रयबहुमानम् आदरेण भोजनादिना पूज्याः । **भूषयितव्याः** । वस्त्राद्यलंकारेणाङ्गलेपनादिभिर् मण्डयितव्याः । अत्र फलं **बहुकल्याणम् ईप्सुभिः** । कल्याणं कमनीयं पुत्रधनादिसंपदरोगतापरिभव इत्यादि बहुशब्दात् सर्वम् **ईप्सुभिर्** आप्तुम् इच्छुभिः प्राप्तुकामैः । फलार्थी विधिर् अयम् ॥ ३.५५ ॥
+
 
 [^१२०]:
      M G: varād ādātavyaṃ
@@ -320,6 +385,16 @@ and food, by their husbands, brothers, fathers, parental relations, mothers-in-l
 fondled by their fathers, brothers, fathers-in-law and brothers-in-law—if these are desirous of their own welfare.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+न केवलं विवाहकाले वरेण दत्तं धनं समर्पणीयं, किन्तु तदुत्तरकालमपि पित्रादिभिरध्येत भोजनादिना पूजयितव्या वस्त्रालङ्कारादिना भूषयितव्याश्च बहुधनादिसम्पदंप्राप्तका भैः॥५५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पितृभिर्** इति । पितृभ्रातृभर्तृभिः बह्वीं सम्पदम् आप्तुकामैः स्त्रियः **पूज्याः **अलङ्कर्तव्याश् च ॥ ३.५५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 055	Women must be honoured and adorned by their fathers, brothers, husbands, and brothers-in-law, who desire (their own) welfare.
@@ -327,7 +402,7 @@ fondled by their fathers, brothers, fathers-in-law and brothers-in-law—if thes
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.५६ यत्र नार्यस्</summary>
 
 यत्र नार्यस् तु पूज्यन्ते  
 रमन्ते तत्र देवताः ।  
@@ -369,6 +444,16 @@ honoured;—and in *Aparārka* (p. 17).
 and fondled; where women are honoured, there the gods rejoice; where they are not honoured, there all rites are fruitless.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यत्र कुले पित्रादिभिः स्त्रियः पूज्यन्ते तत्र देवताः प्रसीदन्ति । यत्र पुनरेता न पूज्यन्ते तत्र देवताप्रसादाभावाद्यागादिक्रियाः सर्वा निष्फला भवन्तीति निन्दार्थवादः ॥४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यत्रेति **। यस्मिन् कुले पित्रादिभिः स्त्रियः पूज्यन्ते **तत्र देवताः **प्रसीदन्ति । **यत्र** पुनर् **एता न पूज्यन्ते तत्र **देवताप्रसादाभावात् यागादि**क्रियाः सर्वा निष्फला **भवन्तीति ॥ ३.५६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 056	Where women are honoured, there the gods are pleased; but where they are not honoured, no sacred rite yields rewards.
@@ -392,7 +477,7 @@ and fondled; where women are honoured, there the gods rejoice; where they are no
 
 [१० श्लोका न विधद्यन्ते मेधातिथिपाठे।  “These are very probably a later addition. The corresponding section in the Mahābhārata, 13.46 stops right here also.”—Hopkins. They are all quoted in Vivādaratnākara and in Parāśaramādhava.]
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.५७ शोचन्ति जामयो</summary>
 
 शोचन्ति जामयो यत्र  
 विनश्यत्य् आशु तत् कुलम् ।  
@@ -406,7 +491,9 @@ and fondled; where women are honoured, there the gods rejoice; where they are no
 
 Where the female relations live in grief, the family soon wholly perishes; but that family where they are not unhappy ever prospers.—(57)
 
+
 (Note: the above is an alternate translation by George Bühler)
+
 
 Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] “These are very probably a later addition. The corresponding section in the Mahābhārata, 13.46 stops right here also.”—Hopkins. They are all quoted in Vivādaratnākara and in Parāśaramādhava.
 </details>
@@ -430,6 +517,16 @@ family; sisters, daughters-in-law, and so forth’.
 family becomes doomed.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+“जामिः स्वस्कुलस्त्रियोः" इत्याभिधानिकाः (अमरकोशे नानार्थः, श्लो. १४२) । यस्मिन्कुले भगिनीगृहपतिसंवर्धनीय सन्निहितसपिण्डस्त्रियश्च पत्नीदुहितृस्नुषाद्याः परितापादिना दुःखिन्यो भवन्ति तत्कुलं शीघ्रं निर्धनीभवति दैवराजादिना च पीड्यते । यत्रैता न शोचन्ति सद्धनादिना नित्यं वृद्धिमेति । मेधातिथिगोविन्दराजौ तु “नवोढादुहितृस्नुषाद्या जामयः" इत्याहतुः ॥५७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शोचन्तीति** । यस्मिन् कुले नवोढा दुहितृस्तुषाद्याः सशोका भवन्ति तत् कुलं क्षिप्रम् एव **विनश्यति **। **यत्र **पुनर्** एता **शोकार्ता न भवन्ति तत् सर्वकालं वृद्धिम् एति ॥ ३.५७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 057	Where the female relations live in grief, the family soon wholly perishes; but that family where they are not unhappy ever prospers.
@@ -437,7 +534,7 @@ family becomes doomed.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.५८ जामयो यानि</summary>
 
 जामयो यानि गेहानि  
 शपन्त्य् अप्रतिपूजिताः ।  
@@ -451,7 +548,9 @@ family becomes doomed.’
 
 The houses on which female relations, not being duly honoured, pronounce a curse, perish completely, as if destroyed by magic.—(58)
 
+
 (Note: the above is an alternate translation by George Bühler)
+
 
 Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] “These are very probably a later addition. The corresponding section in the Mahābhārata, 13.46 stops right here also.”—Hopkins. They are all quoted in Vivādaratnākara and in Parāśaramādhava.
 </details>
@@ -476,6 +575,16 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 506); in
 down by malignant spirits; such houses neither shine nor prosper; and they are devoid of all prosperity—O king.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यानि गेहानि भगिनीपत्नीहितृस्नुषाद्या अपूजिताः सत्योऽभिशपन्ति "इदमनिष्टमेषामस्तु" इति, तान्यभिचारहतानि धनपश्वादिसहितानि नश्यन्ति ॥५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**जामय** इति । यानि गृहाणि न नवोढादुहित्राद्याश् च **अपूजिताः **सद्यो ऽभिशपन्ति **तानि **अभिचारविशेषहा=अतानीव सर्वनाशं नश्यन्ति ॥ ३.५८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 058	The houses on which female relations, not being duly honoured, pronounce a curse, perish completely, as if destroyed by magic.
@@ -488,7 +597,7 @@ down by malignant spirits; such houses neither shine nor prosper; and they are d
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.५९ तस्माद् एताः</summary>
 
 तस्माद् एताः सदा पूज्या  
 भूषणाच्छादनाशनैः ।  
@@ -502,7 +611,9 @@ down by malignant spirits; such houses neither shine nor prosper; and they are d
 
 Hence men who seek (their own) welfare, should always honour women on holidays and festivals with (gifts of) ornaments, clothes, and (dainty) food.—(59)
 
+
 (Note: the above is an alternate translation by George Bühler)
+
 
 Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] “These are very probably a later addition. The corresponding section in the Mahābhārata, 13.46 stops right here also.”—Hopkins. They are all quoted in Vivādaratnākara and in Parāśaramādhava.
 </details>
@@ -528,6 +639,16 @@ This verse is quoted in *Vivādaratnākara* (p. 418);—and in
 they should be respected by the man desiring his own welfare; when loved and fondled, woman becomes the veritable Goddess of Prosperity.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मादेवं तस्मात्कारणादेता भूषणाच्छादनाशनैर्नित्यं सत्कारेषु कौमुद्यादिषु, उत्सत्रेषुपनयनादिषु आभ्युदयिकेषु समृद्धिका मैर्नृभिः सदा पूजनीयाः ॥५९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यस्माद् एवं **तस्माद् एताः सदा**ब्यर्च्याः इति । **भूतिकामैर् नरैर् नित्यं सङ्करेषूत्सवेषु च** । तस्मात् कारणात् एताः सङ्करेषु कौमिदीमहानवम्यादिषु उपनयनादिषु च सर्वकामैः मनुष्यैः आभरणवस्त्रभोजनैः नित्यम् अभिपूजनीयाः ॥ ३.५९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 059	Hence men who seek (their own) welfare, should always honour women on holidays and festivals with (gifts of) ornaments, clothes, and (dainty) food.
@@ -544,7 +665,7 @@ they should be respected by the man desiring his own welfare; when loved and fon
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.६० सन्तुष्टो</summary>
 
 सन्तुष्टो भार्यया भर्ता  
 भर्त्रा भार्या तथैव च ।  
@@ -558,7 +679,9 @@ they should be respected by the man desiring his own welfare; when loved and fon
 
 In that family, where the husband is pleased with his wife and the wife with her husband, happiness will assuredly be lasting.—(60)
 
+
 (Note: the above is an alternate translation by George Bühler)
+
 
 Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] “These are very probably a later addition. The corresponding section in the Mahābhārata, 13.46 stops right here also.”—Hopkins. They are all quoted in Vivādaratnākara and in Parāśaramādhava.
 </details>
@@ -576,6 +699,16 @@ This verse is quoted in *Vivādaratnākara* (p. 421);—and in
 *Parāśaramādhava* (Ācāra, p, 506).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भार्यया भर्त्रा इति हेतौ तृतीया । यत्र कुले भार्यया भर्ता प्रीतो भवति स्त्र्यन्तराभिलामादिकं न करोति, भार्या च स्वामिना प्रीता भवति, तस्मिन्कुले चिरं श्रेयो भवति । कुलग्रहणान्न केवलं भार्वापती एव पुत्रपौत्रादिसन्ततिरपि श्रेयोभागिनी भवति ॥६०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सन्तुष्ट** इति । **यस्मिन् कुले **स्वभार्यया हेतुभूतया नित्यं **भर्ता** निवृत्ताभिलाषः **भार्या**पि च यत्र **नित्यं **स्व**भर्त्रा **हेतुभूतेन अनुपजातनरान्तराभिलाषा तत्राविचलं मङ्गलं भवति ॥ ३.६० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 060	In that family, where the husband is pleased with his wife and the wife with her husband, happiness will assuredly be lasting.
@@ -588,7 +721,7 @@ This verse is quoted in *Vivādaratnākara* (p. 421);—and in
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.६१ यदि हि</summary>
 
 यदि हि स्त्री न रोचेत  
 पुमांसं न प्रमोदयेत् ।  
@@ -602,7 +735,9 @@ This verse is quoted in *Vivādaratnākara* (p. 421);—and in
 
 For if the wife is not radiant with beauty, she will not attract her husband; but if she has no attractions for him, no children will be born.—(61)
 
+
 (Note: the above is an alternate translation by George Bühler)
+
 
 Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] “These are very probably a later addition. The corresponding section in the Mahābhārata, 13.46 stops right here also.”—Hopkins. They are all quoted in Vivādaratnākara and in Parāśaramādhava.
 </details>
@@ -627,6 +762,20 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 Parva.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[यदा भर्ता च भार्या च परस्परवशानुगौ।**
+
+**तदा धर्मार्थकामानां त्रयाणामपि सङ्गतम्॥२॥ \]**
+
+दीप्त्यर्थोऽत्र रुचिः। यदि स्त्री वस्त्राभरणादिना शोभाजनकेन दीप्तिमती न स्यात्तदा स्वामिनं पुनर्न हर्षयेदेव ।हिशब्दोऽवधारणे ।अप्रहर्षात्पुनः स्वामिनः प्रजनं गर्भधारणेन सम्पद्यते ॥६१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यदीति** । **यदि स्त्री** सुगन्धलेपनादि कान्तिमती न भवेत् तदा भर्तारं न प्रहर्षयेत् । भर्तुः अप्रहर्षाच् च गर्भग्रहणं न भवति ॥ ३.६१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 061	For if the wife is not radiant with beauty, she will not attract her husband; but if she has no attractions for him, no children will be born.
@@ -639,7 +788,7 @@ Parva.\]
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.६२ स्त्रियां तु</summary>
 
 स्त्रियां तु रोचमानायां  
 सर्वं तद् रोचते कुलं ।  
@@ -653,7 +802,9 @@ Parva.\]
 
 If the wife is radiant with beauty, the whole house is bright; but if she is destitute of beauty, all will appear dismal.—(62)
 
+
 (Note: the above is an alternate translation by George Bühler)
+
 
 Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] “These are very probably a later addition. The corresponding section in the Mahābhārata, 13.46 stops right here also.”—Hopkins. They are all quoted in Vivādaratnākara and in Parāśaramādhava.
 </details>
@@ -670,6 +821,16 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 (verse 3.61-62).—These verses are quoted in *Vivādaratnākara* (p. 421).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्त्रियां मण्डनादिना कान्तिमत्यां भर्तृस्नेहविषयतया परपुरुषसंपर्कविरहात्तत्कुलं दीप्तं भवति । तस्यां पुनररोचमानायां भर्तृविद्विष्टतया जरान्तरसंपर्कात्सकलमेव कुलं सलिन भवति ॥६२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+किं च **स्त्रियां तु रोचमानायाम्** इति । **स्त्रियां** वेषादिना कान्तिमत्यां भर्तृमनोहरतया परपुरुषसम्पर्काभावात् तत्कुलम् उज्ज्वलं भवति । तस्यां पुनर् अरोचमानायां भर्तृद्विष्टतया नरान्तरसङ्कल्पतः सकलम् एव कुलं मनिनी भवति ॥ ३.६२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 062	If the wife is radiant with beauty, the whole house is bright; but if she is destitute of beauty, all will appear dismal.
@@ -678,7 +839,7 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 </div>
 
 ## कुलपात-मार्गान्तराणि
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.६३ कुविवाहैः</summary>
 
 कु-विवाहैः क्रिया-लोपैर्  
 वेदानध्ययनेन च ।  
@@ -692,7 +853,9 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 
 By low marriages, by omitting (the performance of) sacred rites, by neglecting the study of the Veda, and by irreverence towards Brahmanas, (great) families sink low.—(63)
 
+
 (Note: the above is an alternate translation by George Bühler)
+
 
 Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] “These are very probably a later addition. The corresponding section in the Mahābhārata, 13.46 stops right here also.”—Hopkins. They are all quoted in Vivādaratnākara and in Parāśaramādhava.
 </details>
@@ -716,6 +879,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 589) as enumerating th
 and by the rejection of Veda, the family ceases to be a family; also by the ill-treating of the Brāhmaṇa.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आसुरादिविवाहैर्यथावर्णनिषिद्धैर्जातकर्मादिक्रियालोपैवंदापाठेन ब्राह्मणापूजनेन प्रख्यात कुलान्यपकर्षं गच्छन्ति ॥६३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कुविवाहैर्** इति । आसुरादिविवाहसंस्काराभाववेदानध्ययनब्राह्मणापूजनैः प्रख्यातकुलान्य् अपकर्षं यान्ति । तस्माद् एतत् परिहरणीयम् ॥ ३.६३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 063	By low marriages, by omitting (the performance of) sacred rites, by neglecting the study of the Veda, and by irreverence towards Brahmanas, (great) families sink low.
@@ -723,7 +896,7 @@ and by the rejection of Veda, the family ceases to be a family; also by the ill-
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.६४ शिल्पेन</summary>
 
 शिल्पेन व्यवहारेण  
 शूद्रापत्यैश् च केवलैः ।  
@@ -737,7 +910,9 @@ and by the rejection of Veda, the family ceases to be a family; also by the ill-
 
 By (practising) handicrafts, by pecuniary transactions, by (begetting) children on Sudra females only, by (trading in) cows, horses, and carriages, by (the pursuit of) agriculture and by taking service under a king.—(64)
 
+
 (Note: the above is an alternate translation by George Bühler)
+
 
 Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] “These are very probably a later addition. The corresponding section in the Mahābhārata, 13.46 stops right here also.”—Hopkins. They are all quoted in Vivādaratnākara and in Parāśaramādhava.
 </details>
@@ -765,6 +940,11 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 589) as setting forth 
 agriculture and through serving the king, families cease to be families; as also those that are devoid of the Veda; those families on the other hand that are rich in the Veda,—even though possessed of little wealth, come to be numbered among families and acquire great fame.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चित्रकर्मादिशिल्पेन कलया धनप्रयोगात्मकव्यवहारेण केवलशूद्वापत्येन गवाश्वरथक्रयविक्रयादिना कृषिराजसेवाभ्यां कुलानि विनश्यन्तीत्युत्तरेण सम्बन्धः ॥६४॥
+</details>
+
 <details><summary>Bühler</summary>
 
 064	By (practising) handicrafts, by pecuniary transactions, by (begetting) children on Sudra females only, by (trading in) cows, horses, and carriages, by (the pursuit of) agriculture and by taking service under a king,
@@ -772,7 +952,7 @@ agriculture and through serving the king, families cease to be families; as also
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.६५ अयाज्ययाजनैश्</summary>
 
 अयाज्ययाजनैश् चैव  
 नास्तिक्येन च कर्मणाम् ।  
@@ -786,7 +966,9 @@ agriculture and through serving the king, families cease to be families; as also
 
 By sacrificing for men unworthy to offer sacrifices and by denying (the future rewards for good) works, families, deficient in the (knowledge of the) Veda, quickly perish.—(65)
 
+
 (Note: the above is an alternate translation by George Bühler)
+
 
 Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] “These are very probably a later addition. The corresponding section in the Mahābhārata, 13.46 stops right here also.”—Hopkins. They are all quoted in Vivādaratnākara and in Parāśaramādhava.
 </details>
@@ -811,6 +993,16 @@ This verse is quoted in *Vidhānapārijāta* (p. 676) as setting forth the cause
 See Comparative notes for [Verse 3.64].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अयाज्यव्रात्यादियाजनैः कर्मणां श्रौतस्मार्तादीनां नास्तिक्येन "शास्त्रीयफलवत्कर्मसु फलाभावबुद्धिर्नास्तिक्यम्” ।वेदाध्ययनशून्यानि कुलानि क्षिप्रमपकर्षं गच्छन्ति । अत्र च विवाहप्रकरणे विवाहनिन्दाप्रसङ्गेन क्रियालोपादयो निन्दिताः । निन्दया चैतन्न कर्तव्यमिति सर्वत्र निषेधः कल्प्यते ॥६५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शिल्पेन व्यवहारेणेति । अयाज्ययाजनैश् चेति **। चित्रकर्मादिशिल्पधनप्रयोगकेवलशूदापत्य-गवाश्वरथक्रयविक्रयादिकृषिराजसेवाव्रात्यादियाजनयागादिकर्माभावशुद्धि-मनानध्ययनैः क्षिप्रम् एव कुलान्य् अपकर्षं यान्ति ॥ ३.६४–६५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 065	By sacrificing for men unworthy to offer sacrifices and by denying (the future rewards for good) works, families, deficient in the (knowledge of the) Veda, quickly perish.
@@ -818,7 +1010,15 @@ See Comparative notes for [Verse 3.64].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+इदानीं क्रियालोपादिगतप्रासङ्किककुलनिन्दानुप्रसक्त्या कुलोत्कर्षमाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.६६ मन्त्रतस् तु</summary>
 
 मन्त्रतस् तु समृद्धानि  
 कुलान्य् अल्प-धनान्य् अपि ।  
@@ -832,7 +1032,9 @@ See Comparative notes for [Verse 3.64].
 
 (Note: the following is an alternate translation by George Bühler)
 
+
 But families that are rich in the knowledge of the Veda, though possessing little wealth, are numbered among the great, and acquire great fame.—(66)
+
 
 Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] “These are very probably a later addition. The corresponding section in the Mahābhārata, 13.46 stops right here also.”—Hopkins. They are all quoted in Vivādaratnākara and in Parāśaramādhava.
 </details>
@@ -855,6 +1057,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 590), as describing th
 **
 
 See Comparative notes for [Verse 3.64].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+यद्यपि “धनेन कुलम्” इति लोके प्रसिद्धं तथाप्यल्पधनान्यपि कुलानि वेदाध्ययनतदर्थज्ञा-नानुष्ठानप्रसक्तान्युत्कृष्टकुलगणनायां गण्यन्ते महतीं च ख्यातिमर्जयन्ति ॥६६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मन्त्रत** इति । यद्य् अपि धनेन कुलम् इति प्रवादः । तथापि वेदाध्ययनावबोध-तदर्थानुष्ठानयुक्तानि पुनः कुलानि अल्पधनान्य् अपि उत्कृष्टकुलमध्ये गुण्यतां प्राप्नुवन्ति महतीं ख्यातिम् अर्जयन्ति । विवाहप्रसङ्गेन प्रसक्तानुप्रसक्तिकयैतत् सर्वम् उक्तम् ॥ ३.६६ ॥
 </details>
 
 <details><summary>Bühler</summary>

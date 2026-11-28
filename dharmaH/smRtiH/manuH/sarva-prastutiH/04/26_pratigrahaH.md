@@ -2,7 +2,7 @@
 title = "२६ प्रतिग्रहः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२४७ एध+उदकं मूलफलम्</summary>
 
 एध+++(=इन्धन)++++उदकं मूल-फलम्  
 अन्नम् अभ्युद्यतं च यत् ।  
@@ -20,6 +20,7 @@ He may accept from all persons fuel, water, roots, and fruits, and food that is 
 <details><summary>मेधातिथिः</summary>
 
 **एधः** इन्धनं काष्ठादि । **अन्नं** पक्वम् आमं वा । **अभ्युद्यतम्** अभिमुखम् उपनीतम् । एतत् **सर्वतः प्रतिग्रहीतव्यम्** । पतिताभिशस्तचण्डालादिप्रतिलोमवर्जं शूद्राद् अन्यस्माद् वा ईषत्पापकर्मणः । **मधु** माक्षिकम् । **अभयं दक्षिणे**व । दृष्टान्तार्थम् एतत् । प्रतिग्रहो हि परकीयस्य द्रव्यस्य तदिच्छया स्वीकारः, न चान्नरूपता[^२९७] । न ह्य् अत्र कस्यचित् स्वाम्यं निवर्तते, न च कस्यचिद् उपजायते । अतः स्तुत्या दक्षिणाशब्दप्रयोगः । यथा चण्डालादिभ्यो ऽप्य् अरण्ये कान्तारे वा रक्षा चौरादिभ्यो ऽङ्गीक्रियमाणा न दोषाय, एवम् एतद् एधादि गृह्यमाणं न दोषाय । अनापदि चायं विधिः । आपदि तु चण्डालादिभ्यो ऽपि वक्ष्यति । **अभ्युद्यत**शब्दश् चान्नेनैव सह संबध्यते प्रत्यासत्त्या, नैधादिभिः । अत एधादिषु यच्ञाविरुद्धा । "धार्मिकेभ्यो द्विजातिभ्यः कर्तव्यस् तु परिग्रहः" इत्य् अधार्मिकेभ्यो द्विजेभ्यः शूद्राच् चाप्राप्तः । इष्यते च द्रव्यविशेषोपयाच्ञा । तदर्थम् इदम् ॥ ४.२४७ ॥
+
 
 [^२९७]:
      This reading makes little sense. Jha's translation presupposes "abhaya" — abhayadakṣiṇā is really not a gift, because there is no transfer of ownership. DK (5: 1179) suggests: anyarūpatā
@@ -79,6 +80,20 @@ flowers, curds, land, flesh, couch, fried barley, and water—these should not b
 tanks and wells, milk in the cow-pen,—these may he accepted even from one whose food is not to be eaten.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+काष्ठजलफलमूलमधूनि अन्नं चाभ्युद्यतमयाचितोपनीतम् ।
+
+अन्यत्र कुलटाषण्ढपतितेभ्यस्तथा द्विषः । ( या. स्मृ. १-२१५ ) ॥
+
+इति याज्ञवल्क्यवचनात्कुलटाऽऽदिवर्जंसर्वतः शूद्रादिभ्योऽपि प्रतिगृह्णीयात् । “आममेवाददीतास्मात्" इत्युक्तत्वादामान्नमेव शूद्वात्प्रतिग्राह्यम् ।अभयं चात्मत्राणात्मकं प्रीतिहेतुत्वाद्दक्षिणातुल्यं चण्डालादिभ्योऽपि स्वीकुर्यात् ॥२४७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकोदकम् **इति । काष्ठोदकफलमूलाक्षिकम् अन्नं च अयाचितोपनतम् अनापत्प्रकरणात् पतिताद्यत्यन्तकुत्सितवर्जं **सर्वतः प्रतिगृह्णीयात् **। तथा अभयं चात्मपरित्राणम् अत्यन्तप्रीतिकरं मत्वा दक्षिणातुल्यम् आत्मभयरक्षणसमर्थम् इति सर्वतश् चण्डालादेर् अप्य् अङ्गीकुर्यात् ॥ ४.२४७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 247	He may accept from any (man), fuel, water, roots, fruit, food offered without asking, and honey, likewise a gift (which consists in) a promise of protection.
@@ -91,7 +106,7 @@ tanks and wells, milk in the cow-pen,—these may he accepted even from one whos
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२४८ आहृताभ्युद्यताम्</summary>
 
 आहृताभ्युद्यतां भिक्षां  
 पुरस्ताद् अप्रचोदिताम् ।  
@@ -110,6 +125,7 @@ Alms brougt forward and offered, and not previously begged, Prajāpati has decla
 
 एधाद् अतिरेकेण[^२९८] यद् अन्यद् द्रव्यं तस्याप्य् अनेन विशेषेण ग्राह्यतोच्यते । **भिक्षा**शब्दश् च प्रशंसायां प्रयुक्तः, न भिक्षैव विवक्षिता, यद्य् अप्य् अयं सिद्धान्नाल्पतावचनः । भिक्षा किल स्वल्पत्वान् नातीव दोषावहा, ब्रह्मचारिणश् च सार्ववर्णिकी विहिता । एवम् अन्यद् अप्य् अनेन विशेषेण तत्तुल्यं दृष्टम् । भिक्षाशब्दस्यैवंविधार्थविवक्षया प्रयोगः । तथा हि महाभारते-
 
+
 [^२९८]:
      DK (5: 1180) suggests: edhādyatirekeṇa
 
@@ -122,6 +138,7 @@ Alms brougt forward and offered, and not previously begged, Prajāpati has decla
 - भिक्षेत्य् अथावेदयतां नराग्र्यौ ॥ (म्भ् १.१८२.१) इति ।
 
 **आहृतो**पहृता तं देशमानीता यत्र प्रतिग्रहीता स्थितः । **अभ्युद्यता **अग्रे स्थापिता,[^२९९] वचनेनेङ्गितेन वा "गृह्यताम्" इति निवेदिता । **पुरस्तात्** पूर्वम् अप्रचोदिता अयाचिता प्रतिग्रहीत्रा स्वयं परमुखेन वा, दात्रा पूर्वं नोक्तम् "इदं मे द्रव्यम् अस्ति, तत् प्रसादम् आश्रित्य गृह्यताम्" इति केवलम् अतर्कितोपपादिता तत्काल एव दर्शिताभिप्राया । तादृशीं **भिक्षां प्रजापतिर्** हिरण्यगर्भो **मेने** मन्यते स्म । किम् इति, दुष्कृतकर्मणो ऽपि सकाशाद् ग्राह्येति । दुष्कृतं पापं कर्म यस्यासौ **दुष्कृतकर्मा** ॥ ४.२४८ ॥
+
 
 [^२९९]:
      M G: sthāpita
@@ -165,6 +182,16 @@ accepted, even though it come from a sinner,—except from a loose woman, a eunu
 prostitute, the eunuch, the dancer—gifts of these should be refused, even when presented without asking.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आहृतां संप्रदानदेशमानीताम् । अभ्युद्यतामाभिमुख्येन स्थापिताम् ।अप्रचोदितां प्रतिग्रहीत्रास्वयमन्यमुखेन वा पूर्वमयाचितां दात्रा च तुभ्यसिदं ददानीति पूर्वमकथितां हिरण्यादिभिक्षां न तु सिद्धान्नरूपाम् “अन्नमभ्युद्यतं च" इत्युक्तत्वात्पापकारिणोऽपि पतितादिवर्जं ग्राह्या इति विरिञ्चिरमन्यत ॥२४८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आहृताभ्युद्यताम्** इति । प्रतिग्रहीतृदेशमानीतां दतुः चोद्यमितां “इदं तुभ्यं दास्यामि” इत्य् एवं पूर्वम् अकथितां गोहिरण्यादिभिक्षां दुष्टकर्मकारिणो ऽपि अनापत्प्रकरणात् पतिताद्यत्यन्तकुत्सितवर्जं हिरण्यगर्भो ग्राह्यं मन्यते स्म ॥ ४.२४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 248	The Lord of created beings (Pragapati) has declared that alms freely offered and brought (by the giver himself) may be accepted even from a sinful man, provided (the gift) had not been (asked for or) promised beforehand.
@@ -177,7 +204,7 @@ prostitute, the eunuch, the dancer—gifts of these should be refused, even when
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२४९ नाऽश्नन्ति</summary>
 
 नाऽश्नन्ति पितरस् तस्य  
 दशवर्षाणि पञ्च च ।  
@@ -226,6 +253,24 @@ This verse is quoted in *Aparārka* (p. 407);—and in *Hemādri* (Dāna, p. 56)
 *Viṣṇu* (57.12).—(Do.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ चिकित्सककृतघ्नानां शिल्पकर्तुश्च वार्धुषेः ।**
+
+**षण्ढस्य कुलटायाश्च उद्यतामपि वर्जयेत् ॥१८॥**
+
+**न विद्यमानमेवं वै प्रतिग्राह्यं विजानता ।**
+
+**विकल्प्याविद्यमाने तु धर्महीनः प्रकीर्तितः ॥१९॥ \]**
+
+तनापकल्पितं श्राद्धेषु कव्यं पञ्चदश वर्षाणि पितरो न भुञ्जते । न च यज्ञेषु तेन दत्तं पुरोडाशादि हव्यमग्निर्वहति देवान्प्रापयति, यस्तां भिक्षां न स्वीकरोति ॥२४९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नाश्नन्तीति **। तदीयं कव्यं **पञ्चदशवर्षाणि पितरो **नादन्ति **हव्यं च **पुरोडाशादि देवान् प्रति **अग्निः **न प्रापयति **यस् तां **भिक्षां प्रत्याचष्टे ॥ ४.२४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 249	During fifteen years the manes do not eat (the food) of that man who disdains a (freely-offered gift), nor does the fire carry his offerings (to the gods).
@@ -238,7 +283,7 @@ This verse is quoted in *Aparārka* (p. 407);—and in *Hemādri* (Dāna, p. 56)
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२५० शय्यां गृहान्</summary>
 
 शय्यां गृहान् कुशान् गन्धान्  
 अपः पुष्पं मणीन् दधि ।  
@@ -256,6 +301,7 @@ He shall not refuse a couch, a house, kuśa grass, perfumes, water, flowers, jew
 <details><summary>मेधातिथिः</summary>
 
 **शय्या**दीन्य् अनाहृतान्य् अपि **न निर्णुदेन्** न प्रत्याचक्षीत । यदि गृहे ऽवस्थितानि द्रव्याणि, कश्चिद् उच्यते च "इदम् इदम् आहरामि, एतत् पर्तीक्ष्यताम्"[^३००] तदा न प्रत्याख्येयानि ॥ ४.२५० ॥
+
 
 [^३००]:
      DK (5: 1181) suggests: partīṣyatām
@@ -285,6 +331,18 @@ is presented without asking, conveyances, house, fish, Priyaṅgu corn, garlands
 *Yājñavalkya* (1.214).—(See under 247.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गन्धोन्गन्धवन्ति कर्पूरादीदि, धानाः भृष्टयवतण्डुलान्, पयः क्षीरं, पूर्वमाहरणोपाय-
+
+निबन्वेन गवादीनामप्रत्याख्यानमुकं, शय्यादीनि त्वयाचिताहृतान्यपि दात्रा स्वगृहास्य तान्ययाचितोपकल्पितानि न प्रत्याचक्षीत ॥२५०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शय्यां गृहम्** इति । शयनगृहदर्भोदकपुष्परत्नदधिधानामत्स्यक्षीरमांसशाकानि गन्धवन्ति च कर्पूरादीनि अयाचितोपस्थितानि न प्रत्याचक्षीत । एधोदकादिवाक्यपठितस्योदकस्येह पुनः पाठः श्लोकद्वयस्य पठितयोः प्रत्याख्याने तुल्यत्वज्ञापनार्थः । तथा च गौतमः- “एदादीनि शय्यादिभिः सह” एकस्मिन् सूत्रे सह पठितवान् ॥ ४.२५० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 250	A couch, a house, Kusa grass, perfumes, water, flowers, jewels, sour milk, grain, fish, sweet milk, meat, and vegetables let him not reject, (if they are voluntarily offered.)
@@ -297,7 +355,7 @@ is presented without asking, conveyances, house, fish, Priyaṅgu corn, garlands
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२५१ गुरून्</summary>
 
 गुरून् भृत्यांश् चोज्जिहीर्षन्न्  
 अर्चिष्यन् देवतातिथीन् ।  
@@ -319,8 +377,6 @@ For the purpose of bringing relief to his teachers and dependents, and for the p
 - वृद्धौ तु मातापितरौ भार्या साध्वी सुतः शिशुः । (म्ध् ११.५ अद्देद् वेर्से)[^३०१]
 
 तान् उद्धर्तुम् इच्छुः क्षुधावसन्नान् । **देवतातिथींश् चार्चिष्यन्** नित्यकर्मसंपत्यर्थम् इत्यर्थः । **सर्वतः प्रतिगृह्णीयात्** साधुभ्यो ऽसाधुभ्यश् च । **न तु तृप्येत् स्वयं ततः** । तृप्तिः क्षुन्निवृत्तिर् उपभोगश् च, तन् न कुर्यात् । गुर्वादिप्रयोजनम् एव तद् ग्रहीतव्यं न त्व् आत्मार्थम् ॥ ४.२५१ ॥
-
-_कथं तर्ह्य् आत्मा यापयितव्यः । अत आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -358,6 +414,16 @@ the sake of one’s teacher and dependants, and for one’s own livelihood, one 
 dependants one may accept food from the Śūdra; but he himself shall not partake of it.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मातापित्रादीन्गुरूभृत्यांश्च भार्यादीन् क्षुवावसन्नानुद्धर्तुमिच्छत्पतितादिवर्जं सर्वतः शुद्रादेरसाधुभ्यश्च प्रतिगृह्णीयात्, न तु तेन धनेन स्वयं वर्तेत ॥२५१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गुरून् भृत्यान्** इति । मातापित्रादीन् **गुरून्** **भृत्यान्** भार्यापुत्रादीन् अवश्यम्भरणीयान् क्षुधावसन्नान् उद्धर्तुम् इच्छन् **देवतातिथींश्** च पूजयिष्यन् अनापत्प्रकरणात् पतिताद्यत्यन्तकुत्सितवर्जं **सर्वतः प्रतिगृह्णीयात् ** न रूपान्तरसद्भावे सति तेन धनेन आत्मनस् तृप्तिं कुर्यात् । मुख्योपायपरिक्षये हि अवृत्तिकर्शितः संसीदन्न् इत्य् आपद्धमं वक्ष्यति ॥ ४.२५१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 251	He who desires to relieve his Gurus and those whom he is bound to maintain, or wishes to honour the gods and guests, may accept (gifts) from anybody; but he must not satisfy his (own hunger) with such (presents).
@@ -370,7 +436,15 @@ dependants one may accept food from the Śūdra; but he himself shall not partak
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_कथं तर्ह्य् आत्मा यापयितव्यः । अत आह ।_
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२५२ गुरुषु त्व्</summary>
 
 गुरुषु त्व् अभ्यतीतेषु  
 विना वा तैर् गृहे वसन् ।  
@@ -404,6 +478,16 @@ The term, ‘*Teachers*, ‘here includes all *dependants* also.
 *Viṣṇu* (57. 15).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मातापित्रादिषु मृतेषु तैर्वा जीवद्भिरपि स्वयोगावस्थितैर्विता गृहान्तरे ।वसन्नात्मनो वृत्तिमन्विच्छन्सर्वदा साधुभ्यो गृह्णीयादेव ॥२५२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गुरुष्व्** इति । मात्रादिष्व् **अतीतेषु तैर् वा विना गृहे वसन् **आत्मजीवम् अन्विच्छन् अनापदि सर्वदा साधुभ्य एव प्रतिगृह्णीयात् ॥ ४.२५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 252	But if his Gurus are dead, or if he lives separate from them in (another) house, let him, when he seeks a subsistence, accept (presents) from good men alone.
@@ -416,7 +500,7 @@ The term, ‘*Teachers*, ‘here includes all *dependants* also.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२५३ आर्धिकः,</summary>
 
 +++(क्षेत्रोत्पन्नस्य)+++ आर्धिकः, कुलमित्रं च  
 गोपालो दास-नापितौ ।  
@@ -468,6 +552,16 @@ ploughman,—these five Śūdras are those whose food may be eaten even by Brāh
 
 *Aṅgiras* (p. 493).—‘Milk, saktu, oil, cakes, ground sesamum and things
 made with milk may be eaten even from a Śūdra.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+आर्धिकःकार्षिकः।संबन्धिशब्दाश्चैते ।यस्य कृषिं करोति स तस्य भोज्यान्नः ॥ एवं स्वकुलस्य मित्रं, यो यस्य गोपालो, यो यस्य दासः, यो यस्य नापितः कर्म करोति, यो यस्मिन्नात्मानं निषेदयति दुर्गतिरहं त्वदीयसेवां कुर्वन्निति च त्वत्समीपे वसामीति यः शूद्रस्तस्य भोज्यान्नः ॥२५३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आर्धिक **इति । **शूद्रेषु **मध्यात् कर्षककुलमित्रगोपालदासनापिता **भोज्यान्नाः । यश् च **त्वदाश्रितो ऽहम् इत्य् एवम् **आत्मानं **समर्पयेत् । शूद्रश् च नापितादिकर्मणा जीवेत् कारुककर्मभिः इति वक्ष्यति ॥ ४.२५३ ॥
 </details>
 
 <details><summary>Bühler</summary>

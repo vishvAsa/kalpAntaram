@@ -2,7 +2,7 @@
 title = "१७ प्रतिग्रहः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१८६ प्रतिग्रहसमर्थो</summary>
 
 प्रतिग्रह-समर्थो ऽपि  
 प्रसङ्गं तत्र वर्जयेत् ।  
@@ -23,8 +23,6 @@ Though entitled to accept presents, he shall avoid addiction to it; because, by 
 
 [^२४१]:
      M G J: avidvān na bibhīyāt
-
-_तद् दर्शयति_ ।
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -48,6 +46,16 @@ from persons whose gifts should not be accepted; by the acceptance of such gifts
 not accept them, he obtains those spacious regions which are meant for the extremely charitable persons.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विद्यातपोवृत्तसंपन्नतया प्रतिग्रहेऽधिकार्यपि तत्र पुनः पुनः प्रवृत्तिं त्यजेत् । यस्मात्प्रतिग्रहणास्य वेदाध्ययनादिनिमित्तप्रभावः शीघ्रमेव विनश्यति । यात्रामात्रप्रसिद्ध्यर्थमित्युक्तेऽपि सामान्येनार्जनसङ्कोचे विशेषेण प्रतिग्रहस्य ब्राह्मप्रभावप्रशमनफलत्वकथनार्थं वचनम् ॥१८६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्रतिग्रहसमर्थम्** इति । श्रुताध्ययनादिना **प्रतिग्रहेण समर्थो ऽपि **तत्र पुनःप्रवृत्तिं वर्जयेत् । यस्मात् **प्रतिग्रहेणास्या**ध्ययनादिनिमित्तप्रभावः क्षिप्रम् एव प्रलीयते “यात्रामात्रप्रसिद्ध्यर्थम्” इत्यादिनोक्तम् अप्य् एतत् **तेजः **प्रशमफलकथनार्थं पुनर् उच्यते ॥ ४.१८६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 186	Though (by his learning and sanctity) he may be entitled to accept presents, let him not attach himself (too much) to that (habit); for through his accepting (many) presents the divine light in him is soon extinguished.
@@ -60,7 +68,15 @@ not accept them, he obtains those spacious regions which are meant for the extre
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_तद् दर्शयति_ ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१८७ न द्रव्याणाम्</summary>
 
 न द्रव्याणाम् अविज्ञाय  
 विधिं धर्म्यं प्रतिग्रहे ।  
@@ -85,8 +101,6 @@ Withuot knowing the lawful method of receiving gifts, the wise man shall not acc
 
 [^२४२]:
      M G J: pratigrahamantradravyāṇāṃ (I follow DK 5: 1176)
-
-_अविदुषो द्रव्यविशेषं प्रति प्रतिग्रहे दोषातिशयम् आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -106,6 +120,16 @@ given in honour of Agni, the cow in honour of Rudra,’ and so forth.—(187)
 method of receiving them, he falls along with the giver.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+द्रव्याणां प्रतिग्रहं धर्माय हितं विधानं ग्राह्यदेवताप्रतिग्रहमन्त्रादिकमज्ञात्वा क्षुधावसादं गच्छन्नपि प्राज्ञो न प्रतिगृह्णीयात्कि पुनरनापदि ॥१८७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न द्रव्याणाम्** इति । प्रतिग्रहमन्त्रद्रव्यदेवतादिकं धर्माद् अनपेतं प्रतिग्रहविधानम् अबुद्ध्वा । **क्षुधा**वसादं गच्छन्न् अपि न **प्राज्ञः प्रतिग्रहं कुर्यात् **किं पुनर् अनापदि ॥ ४.१८७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 187	Without a full knowledge of the rules, prescribed by the sacred law for the acceptance of presents, a wise man should not take anything, even though he may pine with hunger.
@@ -118,7 +142,15 @@ method of receiving them, he falls along with the giver.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_अविदुषो द्रव्यविशेषं प्रति प्रतिग्रहे दोषातिशयम् आह ।_
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१८८ हिरण्यं भूमिम्</summary>
 
 हिरण्यं भूमिम् अश्वं गाम्  
 अन्नं वासस् तिलान् घृतम् ।  
@@ -161,6 +193,16 @@ respectfully offered by the wise man who desires his own welfare to a proper rec
 an unbaked vessel becomes destroyed through the weakness of the vessel, and the vessel also becomes destroyed, in the same manner, when an illiterate person accepts the gift of cows or gold or clothes or food or land or sesamum, he becomes reduced to ashes like wood.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वर्णादीञ्श्रुतस्वाध्यायहीनः प्रतिगृह्णन्न ग्निसंयोगेन दारुवद्भस्मीभूतो भवति पुनरुत्पत्तिं न लभते ॥१८८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**हिरण्यम्** इति । श्रुताध्ययनशून्यः सुवर्णादीन् **प्रतिगृह्णन् **अग्निसंयोगेन **दारुवत् भस्मीभवति **॥ ४.१८८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 188	But an ignorant (man) who accepts gold, land, a horse, a cow, food, a dress, sesamum-grains, (or) clarified butter, is reduced to ashes like (a piece of) wood.
@@ -173,7 +215,7 @@ an unbaked vessel becomes destroyed through the weakness of the vessel, and the 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१८९ हिरण्यम् आयुर्</summary>
 
 हिरण्यम् आयुर् अन्नं च  
 भूर् गौश् चाऽप्य् ओषतस्+++(→ओषति = दहति)+++ तनुम् ।  
@@ -205,6 +247,16 @@ In the case of the expression, ‘*hiraṇyam āyuḥ*,’ the form of the verb 
 This verse is quoted in *Prāyaścittaviveka* (p. 405), which has the same note as on the preceding verse.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अविदुषः प्रतिग्रहीतुर्भूर्गौश्च शरीरम् ओषतो दहतः । उष दाहे भौवादिकः, तस्येदं रूपम् । भूगवोद्वि-त्वविवक्षायां द्विवचनम् । एवं हिरण्यमन्नं चायुरोषतः । अश्वश्चक्षुरित्यादिषु विभक्तिविपरिणामादोषतीत्ये-कवचनान्तस्यानुषङ्गः ॥१८९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तथा चाह **हिरण्यम् आयुर् अन्नं च भूर् गौश् चाप्य् ओषतस् तनुम्** इति । हिरण्यान्ने प्रतिगृहीते अविदुषश् चायुर् दहतः गोभूमी च शरीरम् । अश्ववस्त्रघृततिलाः यथाक्रमं चक्षुश्चर्मतेजोऽपत्यानि दहन्ति । न केवलम् अविद्वान् प्रतिग्रहेण सर्वदा तं दह्यते यावत्॥ ४.१८९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 189	Gold and food destroy his longevity, land and a cow his body, a horse his eye (sight), a garment his skin, clarified butter his energy, sesamum-grains his offspring.
@@ -217,7 +269,7 @@ This verse is quoted in *Prāyaścittaviveka* (p. 405), which has the same note 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१९० अतपास् त्व्</summary>
 
 अतपास् त्व् अनधीयानः  
 प्रतिग्रह-रुचिर् द्विजः ।  
@@ -236,11 +288,14 @@ If the twice-born person,who is without austerities and does not study the Veda,
 
 यस्य तपो नास्ति । **अनधीयानो** न चादीते । अध्ययनेन प्रकृता विद्वत्ता लक्ष्यते । समुदिते चैते विद्यातपसी प्रतिग्रहाधिकारनिमित्तम् । उभयगुणभ्रष्टः प्रतिग्रहे चाभिलाषी **स तेन सह मज्जत्य्** अधो गच्छति । केन सह । अन्यस्यानिर्देशाद् दातुश् च संनिधानात् तेन सहेति गम्यते । प्रतिग्रहीता तं[^२४३] प्लवम् इवात्मोत्तारणायाश्रयते । यस् त्व् ईदृशो ऽपात्रभूतः स दातारम् आत्मानम् उभाव् अप्य् अधो नयति, **यथाम्भस्य् अश्मप्लवः** । अश्ममयः प्लवः अश्मप्लवः । पारं तरति येन स प्लवो नावादिः । तत्र यथाश्मन्य् आरूढो नदीतरणार्थम् अम्भसि मज्जत्य् अश्मप्लवेन सह गम्यते । [^२४४]दाता हि ब्राह्मणाय, आददानश्[^२४५] च तादृशो ब्राह्मणः, उभाव् अपि नरकं गच्छतः ॥ ४.१९० ॥
 
+
 [^२४५]:
      M G J: dadānaś (I follow the suggestion of DK 5: 1176)
 
+
 [^२४४]:
      DK (5: 1176) suggests deleting gamyate and adding tathā
+
 
 [^२४३]:
      M G J: pratigrahītāraṃ (I follow the suggestion of DK 5: 1176)
@@ -267,6 +322,16 @@ This verse is quoted in *Hemādri* (Dāna, p. 60).
 learning and austerities; if he does accept it, he drags down himself as well as the giver.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्तपोविद्याशून्यः प्रतिग्रहेच्छुः ब्राह्मणो भवति स प्रतिग्रहाविनाभावाद् बुद्धिस्थेन तेन इति परामृष्टेनैव दात्रैवानर्हप्रतिग्रहादानपापयुक्तेन सह नरके मज्जति । यथा पाषाणमयेनोडुपेनाम्भस्तरस्तेनैव सहाम्भसिमनो भवति ॥१९०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अतपास् त्व् अनधीयान** इति । यस् तपःस्वाध्यायशून्यः प्रतिग्रहे ऽभिलाषुको भवति तदात्रैवानर्हप्रतिग्रहदानपापयुक्तेन सह पाषाणमयेन नावादिन तरन् उदक इव नरके ऽन्तर्धीयते । दाता ह्य् अत्र प्रतिग्रहसम्बन्धाद् अज्ञौ दातृप्रतीच्छकाव् इति वक्ष्यमाणदर्शनात् तेनेति परामृश्यते ॥ ४.१९० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 190	A Brahmana who neither performs austerities nor studies the Veda, yet delights in accepting gifts, sinks with the (donor into hell), just as (he who attempts to cross over in) a boat made of stone (is submerged) in the water.
@@ -279,7 +344,7 @@ learning and austerities; if he does accept it, he drags down himself as well as
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१९१ तस्माद्</summary>
 
 तस्माद् अविद्वान् बिभियाद्  
 यस्मात् तस्मात् प्रतिग्रहात् ।  
@@ -297,6 +362,7 @@ For these reasons, the illiterate man should fight shy of accepting each and eve
 <details><summary>मेधातिथिः</summary>
 
 अतो नरकभयाद् **अविद्वान्** मूर्खः **प्रतिग्रहात् बिभियात्** त्रस्येत,[^२४६] न प्रतिगृह्णीयाद् इति यावत् । तिष्ठतु तावद् धिरण्यादीनि द्रव्याणि, **स्वल्पकेनापि** त्रपुसीसादिना असारेण स्वल्पया मात्रया प्रतिगृहीतेन्**आविद्वान् पङ्के** कर्दमे **गौर् इव सीदति** ॥ ४.१९१ ॥
+
 
 [^२४६]:
      M G 1st ed.: naśyen
@@ -322,6 +388,16 @@ This verse is quoted in *Hemādri* (Dāna, p. 60).
 See Comparative notes for [Verse 4.190].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मादसावल्पद्रव्यप्रतिग्रहेणापि मुर्खः पङ्के गौरिव नरके समर्थो भवति । तस्माद्यतः कुतश्चित्सुवर्णा-दिव्यतिरिक्तसीसकाद्यसारप्रतिग्रहादपि त्रस्येत् ॥१९१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तस्माद्** इति । यस्माद् असारद्रव्यप्र्तिग्रहे ऽपि अज्ञः कर्दमे **गौर् इव **नरके मज्जति, **तस्माद् अविद्वान् **यतः कुतश्चित् हिरण्यादिव्यतिरिक्तप्रतिग्रहाद् अपि त्रस्येत् ॥ ४.१९१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 191	Hence an ignorant (man) should be afraid of accepting any presents; for by reason of a very small (gift) even a fool sinks (into hell) as a cow into a morass.
@@ -334,7 +410,15 @@ See Comparative notes for [Verse 4.190].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+प्रतिग्रहीतुर्धर्ममभिधायाधुना दातुराह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१९२ न वार्य्</summary>
 
 न वार्य् अपि प्रयच्छेत् तु  
 बैडाल-व्रतिके द्विजे ।  
@@ -359,10 +443,12 @@ The man knowing the Law, shall not offer even water to the Brāhmaṇa who behav
 
 - <u>अत्र कश्चिद्</u> आह- यद्य् **अवेदविदि** इति श्रुतं तथाप्य् अनधीयान इत्य् अपि द्रष्तव्यम् । तथाहि केवलवेदाध्यायिभ्यो दानम् उक्तम् । न च दाम्भिकेभ्यः काम्यं युक्तम्[^२४७] । 
 
+
 [^२४७]:
      M G 1st ed.: kāmyayuktam
 
 - <u>स इदं</u> प्रष्टव्यः । क्व[^२४८] पुनर् वेदाध्यायिमात्राय विद्यारहिताय दानम् उक्तम् ।
+
 
 [^२४८]:
      M G 1st ed. omit: kva
@@ -371,18 +457,22 @@ The man knowing the Law, shall not offer even water to the Brāhmaṇa who behav
 
 - <u>न त्व्</u> "अर्हत्तमाय" (म्ध् ३.११८) इत्य् अप्राप्तिकत्वाद् अत्र विद्याया विना । वाक्यान्तराणि च "विदुषे दक्षिणा" (म्ध् ३.१३३) इत्यादीन्य् एकप्रकरणगतानि[^२४९] सन्त्य् एव । अतस् तत्पर्यालोचनयोभयविशेषणचेष्टया देयम् इति गम्यते । अतः श्रुतार्थपरित्यागे[^२५०] न किंचित् कारणं पश्यामः । 
 
+
 [^२५०]:
      M G 1st ed.: śrautārtha-
+
 
 [^२४९]:
      M G: ekaprakāragatāni
 
 - यत्[^२५१] तु साम्यम् अयुक्तम् इति । वचनगम्ये ऽर्थे का नामायुक्तता । 
 
+
 [^२५१]:
      M G: yasya
 
 - बिडालव्रतेन चरति **बैडालव्रतिकः** । बकानां व्रतं तद् अस्यास्तीति **बकव्रतिकः** । अधिकरणाविवक्षायां सप्तमी[^२५२] । संप्रदानविवक्षायां चतुर्थी युक्ता ॥ ४.१९२ ॥
+
 
 [^२५२]:
      J: baiḍālavratike (but Jha's translation presupposes the reading "saptamī")
@@ -433,6 +523,16 @@ is neither here nor there.’
 *Dakṣa* (Do.).—‘What is given to a rogue... is absolutely futile.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वायसादिभ्यो यहीयते तदपि बैडालवतिकेभ्यो धर्मज्ञो न दयादित्यतिशयोक्त्या द्रव्यान्तरदानं निषिध्यते न तु वारिदानमेव ।"पाषण्डिनो विकर्मस्थानू” ( म. स्मृ. ४-३० ) इत्यनेन बैडालव्रतिकायातिथित्वेन सत्कृतार्थदानादि निषिद्धमिह तु धनदानं निषिध्यते । अत एव "विधिनाप्यजितं धनम्"( म. स्मृ. ४ - १९३ ) इति वक्ष्यति । नावेदविदीति वेदार्थानभिज्ञे । एतच्च विद्वत्सम्भवे नावेदविदीति निषिध्यते ॥१९२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न नारीति** । उदकं किल सर्वदेयं तद् अपि बैडालव्रतिकादिभ्यो धर्मज्ञो न दद्यात् इति अतिशयोक्त्या द्रव्यान्तरदानं निषिध्यते, न तु दारिदानम्, पाखण्ड्यादि लोकविद्धो ऽपि बैडालव्रतिके दाननिषेधः तल्लक्षणविवक्षयेह पुनर् उच्यते । अविद्वद्दाननिषेधः पुनः विद्वत्सम्भवे सति अविद्वद्दानप्रतिषेधार्थः । एवं च “श्रोत्रियायैव देयानि” इत्य् एतत् विद्वच्छ्रोत्रियासम्भवे सति द्रष्टव्यम् ॥ ४.१९२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 192	(A man) who knows the law should not offer even water to a Brahmana who acts like a cat, nor to a Brahmana who acts like a heron, nor to one who is unacquainted with the Veda.
@@ -445,7 +545,7 @@ is neither here nor there.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१९३ त्रिष्व् अप्य्</summary>
 
 +++(वक्ष्यमाणानि तयोर् लक्षणानि।)+++ 
 
@@ -481,6 +581,16 @@ Such giving becomes a source of trouble to both the giver and the receiver in th
 This verse is quoted in *Aparārka*, (p. 285), which explains ‘*anarthe*’ as ‘sin’;—and in *Parāśaramādhava* (Ācāra p. 174).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतषु त्रिष्वपि बैडालव्रतिकादिषु न्यायार्जितमपि धनं दत्तं दातुः प्रतिग्रहीतुश्च परलोके नरकहेतुत्वादनर्थाय भवति ॥१९३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**त्रिष्व्** इति । न्याय्पार्जितं **धनं **बैडालव्रतिकादिषु **त्रिष्व् अपि दत्तं **दातृप्रतिग्रहीत्रोः परलोके नरकपातहेतुत्वात् **अनर्थाय **सम्पद्यते ॥ ४.१९३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 193	For property, though earned in accordance with prescribed rules, which is given to these three (persons), causes in the next world misery both to the giver and to the recipient.
@@ -493,7 +603,7 @@ This verse is quoted in *Aparārka*, (p. 285), which explains ‘*anarthe*’ as
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१९४ यथा</summary>
 
 यथा प्लवेन+उपलेन  
 निमज्जत्य् उदके तरन् ।  
@@ -526,6 +636,16 @@ The term, ‘*pratīcchaka*’ is to be explained as ‘*pratīcchām karoti*’
 ‘*Pratīpsakaḥ*’ is another reading; this would be derived from the root ‘*āp,’ to obtain*, with the derivative affix, and then the nominal ‘*ṇvul*’ added to it. The meaning of both would be the same.—(194)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा पाषाणमयेनोडुपादिना जले तरंस्तेनैव सहाधो गच्छति । एवं दानप्रतिग्रहशास्त्रानभिज्ञौ दातृग्राहको नरकं गच्छतः । “अतपास्त्वनधीयानः" ( म.स्मृ. ४-१९० ) इति प्रतिग्रहीतृप्राधान्येन निन्दोक्ता। इह तु दातृप्राधान्येनेत्यपुनरुक्तिः॥१९४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथेति** । **तथा निमज्जतो विप्राव् अग्ञौ दातृप्रतीच्छकौ** । यथाश्ममयेन नावादिन तरन् तेनैव सह (नरके) उदके ऽन्तर्धीयते एवं दातृप्रतिग्रहीतारौ प्रतिग्रहशास्त्रानभिज्ञौ अनर्हदानप्रतिग्रहकर्तारौ नरकं यातः । दाता किल प्रतिग्रहीतृपोतावतरणमार्गेण संसारार्णवपारम् उत्तितीर्षुः यदि बालिशतया उपप्लवप्रख्यप्रतिग्रहीतृसमवलम्बनम् उररीकरोति तदा प्रत्युत तेनैव समम् अगाधोदध्यन्तर्धानवेदनासन्निहितम् अधिकतराम् अर्थान्तरतयानर्थान्तरम् अधिकम् अपि मज्जत इत्य् उपमार्थः । “अतपास् त्व् अनधीयानः” इति प्रतिग्रहीतृप्राधान्येनोक्तम्, इदं तु दातृप्राधान्येनेति अपौनरुक्त्यं (अप्रसिद्धात्) प्रतिषिद्धाद् यत्नतः परिहारार्थम् ॥ ४.१९४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 194	As he who (attempts to) cross water in a boat of stone sinks (to the bottom), even so an ignorant donor and an ignorant donee sink low.
@@ -538,7 +658,7 @@ The term, ‘*pratīcchaka*’ is to be explained as ‘*pratīcchām karoti*’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१९५ धर्मध्वजी सदा</summary>
 
 धर्मध्वजी सदा लुब्धश्  
 छाद्मिको लोकदम्भकः ।  
@@ -559,10 +679,12 @@ He who displays his flag of virtue, is ever covetous, a cheat and a hypocrite, i
 
 - धर्मो ध्वजम् इव । व्याघ्रादेर् आकृतिगणत्वात् समासः (पाण् २.१.५६) । कदाचित् कर्मधारयः सर्वधनाद्यर्थ इति । ततः सो ऽस्यास्तीति मत्वर्थीयः । यः[^२५३] ख्यात्यर्थम् एव धर्मं करोति न शास्त्रपरतया स एवम् उच्यते । यस् तत्रैव धर्मं करोति यत्र जनाह् पश्यन्ति स्वपुरुषैश् च ख्यापयन्ति "धार्मिकत्वप्रसिद्ध्या प्रतिग्रहादि लप्स्ये" इति । 
 
+
 [^२५३]:
      M G 1st ed. omit: yaḥ
 
 - **लुब्धो** मत्सरी कृपणश् च । लोकं दभ्नोति वञ्चयति **लोकदम्भकः** । छद्मना चरति **छाद्मिकः** । छद्म व्याजः । प्रकाशं धार्मिको रहसि निक्षिप्तम् अपहरत्य् अप्रकाश्यं प्रकाशयति । धार्मिको ऽयम् एतस्य यत् समक्षं कथितं तन् नान्यत्र यातीति केनचिद् विश्वस्य कथितं दृश्यते यावद् यत एव गोप्यं तस्यैवाभिमुखे कथितम् इति[^२५४] परद्रोहः । सर्वेषां चाभिसंधाताक्षेपकः परगुणान् न सहते । ईदृशो **बैडालव्रतिको** ज्ञेयः । **अभिसंधकः** अभिसंधत्त इति । "आतश् चोपसर्गः" (पाण् ३.१.१३६) इति कः । ततः स्वार्थे कः । सर्वेषाम् अभिसंधक इति षष्ठीसमासः । 
+
 
 [^२५४]:
      M G: tasyaiva mukhāj jātam iti
@@ -614,6 +736,20 @@ This verse is quoted in *Aparārka* (p. 170);—in *Mitākṣarā* (on 1.130);�
 *Viṣṇu* (93.8-12).—\[Same as Manu.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ यस्य धर्मध्वजो नित्यं सुरध्वज इवोछ्रितः ।**
+
+**प्रच्छन्नानि च पापानि बैडालं नाम तद्व्रतम् ॥८॥ \]**
+
+यो बहुजनसमक्षं धर्ममाचरति स्वतः परतश्च लोके ख्यापयति तस्य धर्मो ध्वजं चिह्नमिवेति धर्मध्वजी ।लुब्धः परधनाभिलाषुकः । छद्मना व्याजेन चरतीति छाद्मिकः । लोकदम्भको निक्षेपापहारादिना जनवञ्चकः । हिंस्रः परहिंसाशीलः । सर्वाभिसन्धकः परगुणासहनतया सर्वाक्षेपकः । बिडालव्रतेन चरतीति बैडालव्रतिकः । बिडालो हि प्रायेण मुषिकादिहिंसारुचितया ध्याननिष्ठ इव विनीतः सन्नवतिष्ठत इत्युपचाराद्विडालव्रतशब्दः ॥१९५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+बैडालव्रतिकादिलक्षणम् आह **धर्मध्वजीति** । धर्मः चिह्नम् इति लोकख्यापनार्थं प्रकाशदेशावरणात् यस्य स **धर्मध्वजी** । **लुब्धः** कृपणः **छाद्मिकः** गूढपापो **लोकदम्भको **वञ्चकः **हिंस्रः **हिंसाशीलः **सर्वाभिसन्धकः** परगुणासहनतया सर्वाक्षेपकः स बिडालव्रतेन चरतीति **बैडालव्रतिको **ब्राह्मणो ज्ञेयः ॥ ४.१९५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 195	(A man) who, ever covetous, displays the flag of virtue, (who is) a hypocrite, a deceiver of the people, intent on doing injury, (and) a detractor (from the merits) of all men, one must know to be one who acts like a cat.
@@ -631,7 +767,7 @@ This verse is quoted in *Aparārka* (p. 170);—in *Mitākṣarā* (on 1.130);�
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१९६ अधोदृष्टिर्</summary>
 
 अधो-दृष्टिर् नैष्कृतिकः  
 स्वार्थसाधन-तत्परः ।  
@@ -689,6 +825,16 @@ This verse is quoted in Mitākṣarā (on 1.130);—in *Aparārka* (p. 170), whi
 See Comparative notes for [Verse 4.195].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अधोदृष्टिर्निजविनयख्यापनाय सतततमध एव निरीक्षते । निष्कृतिष्ठुिरता तया चरतीति नैष्कृतिकः ।स्वार्थसाधनतत्परः परार्थखण्डनेन । शठो वक्रः ।मिथ्याविनीतः कपटविनयवान् ।बकव्रतं चरतीति बकव्रतचरः ।बको हि प्रायेण मीनहननरुचितया मिथ्याविनीतः सन्नवंशीलो भवतीति गौणो बकव्रतशब्दः ॥१९६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अधोदृष्टिर् नैष्कृतिक** इति । **अधोदृष्टिर्** विनीतत्वख्यापनार्थम् । अध एव निरीक्षते । **नैष्कृतिकः **नैष्ठुर्यव्यवहारी **स्वार्थसाधनतत्परः **स्वार्थसाधननिष्ठः** शठः** परान्नस्योपेक्षकः** मिथ्याविनीतः **कपटे प्रश्रयवान् यः स बकवृत्तेन चरति इति **बकव्रतधरो** ब्राह्मणः ॥ ४.१९६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 196	That Brahmana, who with downcast look, of a cruel disposition, is solely intent on attaining his own ends, dishonest and falsely gentle, is one who acts like a heron.
@@ -701,7 +847,7 @@ See Comparative notes for [Verse 4.195].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१९७ ये बकव्रतिनो</summary>
 
 ये बकव्रतिनो विप्रा  
 ये च मार्जारलिङ्गिनः ।  
@@ -732,6 +878,16 @@ This verse is explained by its own words.—(197).
 **
 
 See Comparative notes for [Verse 4.195].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+ये बकव्रतं बिडालव्रतं चरन्ति ते ब्राह्मणास्तेन पापहेतुना कर्मणान्धतामिलनान्नि नरके पतन्ति ॥१९७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । **ये **ब्राह्मणाः **बकव्रत**बिडालचिह्नयुक्ताः **तेन **पापहेतुना **कर्मणा अन्धतामिस्रा**ख्ये नरके **पतन्ति **॥ ४.१९७ ॥
 </details>
 
 <details><summary>Bühler</summary>

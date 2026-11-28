@@ -2,7 +2,7 @@
 title = "०३ लयः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.५२ यदा स</summary>
 
 यदा स देवो जागर्ति  
 तद् एवं चेष्टते जगत् ।  
@@ -34,6 +34,11 @@ When that divine being is awake, then this world is active; when he slumbers, wi
 ‘*With his mind in calm repose*’—means that he has withdrawn from his state of diversity.—(52)
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**यदा स देव** इति । **यदा स **प्रजापतिर् इच्छति **तद् एवं जगत् **उत्पत्त्यवस्थिती करोति । **यदा** तु नेच्छति **शान्तात्मा** उपसंहृतव्यापारमनाः **तद् एवं प्रलीयते **। अन्तरालप्रलयस् तदा भवति । यथा शरीरे यदा क्षेत्रज्ञो जागर्ति तदा पशुपक्षिसरीसृपात्मकं जगत् चेष्टते चेष्टायुक्तं भवति । यदा स्वपिति तदा निश्चेष्टम् इति जाग्रत्स्वप्नसुषुप्त्याख्या आत्मवृत्तयो ऽत्र प्रजापतिकृतानां जाग्रत्स्वपसुषुप्तवृत्तीनां स्थित्यन्तरालप्रलयम् आह, प्रलयकारणभूतानां दृष्टान्तत्वेनोपपत्तेः ॥ १.५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 052	When that divine one wakes, then this world stirs; when he slumbers tranquilly, then the universe sinks to sleep.
@@ -48,7 +53,7 @@ When that divine being is awake, then this world is active; when he slumbers, wi
 
 +++(5)+++  
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.५३ तस्मिन् स्वपिति</summary>
 
 तस्मिन् स्वपिति तु स्वस्थे  
 कर्मात्मानः शरीरिणः [मेधातिथिपाठः - स्वपति] ।  
@@ -66,6 +71,7 @@ When he slumbers, having retired within himself, all active embodied beings desi
 <details><summary>मेधातिथिः</summary>
 
 पूर्वव्याख्यानश्लोको ऽयं विस्पष्टार्थः । **स्वस्थे** सुस्थिरे । शान्तात्मवच् छुद्धरूपे । स्वात्मन्य् अवस्थानम् औपाधिकभेदनिवृत्तिः । **कर्मात्मानः** कर्मप्रधानाः संसारिणः क्षेत्रज्ञाः । **शरीरिणः** । कर्मसंबन्धेन शरीरसंबन्धानुभावाद् एवम् उच्यन्ते । **तस्मिन् स्वपति** शयाने **स्वकर्मभ्यो निवर्तन्ते** । शरीरचेष्टानिवृत्तिर् एतेनोच्यते । **मनश् च ग्लानिम् ऋच्छति** । एतेनान्तरव्यापारनिवृत्तिः । अतो बाह्यान्तरव्यापारनिवृत्त्या प्रलयः प्रतिपादितो भवति । ग्लानिर् निरुत्साहः स्वव्यापारे ऽशक्तताम्[^९४] **ऋच्छति** प्राप्नोति ॥ १.५३ ॥
+
 
 [^९४]:
      G: svavyāpārān niḥśaktatām
@@ -87,6 +93,11 @@ The meaning of this verse is quite clear, its meaning having been already explai
 ‘*Karmāṭmānaḥ*’—It is not correct to say, as Buhler does, that this term according to Medhātithi, means ‘who, in consequence of their actions, become incorporate because as a matter of fact, this latter explanation is supplied. by Medhātithi in reference to the term ‘*śarīriṇaḥ*’; what he means is that th e Beings are called ‘*śarīriṇaḥ*’ not because the Body is their natural accompaniment, but because they become equipped with, them in consequence of their acts,
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+पूर्वोक्तम् एव स्पष्टयितुम् आह – **तस्मिन् स्वपति तु स्वस्थे** इति । **तस्मिन् **निवृत्तिस्थे **स्वस्थे** उपसंहृतव्यापारमनस्के कर्माक्षिप्तशरीराः शरीरिणः क्षेत्रज्ञाः **स्वकर्मभ्यः** शरीरग्रहणादिभ्यो **निवर्तन्ते **। मनश् च सर्वेन्द्रियरहितं निर्व्यापारं भवति ॥ १.५३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 053	But when he reposes in calm sleep, the corporeal beings whose nature is action, desist from their actions and mind becomes inert.
@@ -99,7 +110,7 @@ The meaning of this verse is quite clear, its meaning having been already explai
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.५४ युगपत् तु</summary>
 
 युगपत् तु प्रलीयन्ते  
 यदा तस्मिन् महात्मनि ।  
@@ -121,6 +132,7 @@ When this Soul of all things sleeps happy and contented, then all things become 
 **सुखं स्वपिति निर्वृतः** । सुखस्वरूपम् एव परं ब्रह्म, न तस्य स्वापावस्थायां सुखम् अन्यदा दुःखम् । स्वापश् च तस्य यादृशः स प्राग् उक्त एव । निर्वृतिश् च तस्य सर्वकालम् । न ह्य् असौ परमात्माविद्योपप्लवतरङ्गैर् आमृश्यते, केवलसुखमयः । तस्य सर्वस्य कर्तृत्वं उपपद्यते । यथायं पुरुष उपरतो गृहकृत्येभ्यः कृतकृत्यतयार्जितं मया धनं गृहोपयोगि निरुपद्रवश् चास्मि संवृत्त इत्य् एवं सुखं स्वपिति निर्वृत्तो निराशङ्कात्मबाध एवम् उपमीयते ऽसाव् अपि । तस्यापीदं जगत् कुटुम्बभूतम् इति प्रशंसा ।
 
 - प्रधानविषयो वायं श्लोको वर्णनीयः । तदा प्रधानं स्वपिति यदा युगपत् सर्वाणि भूतानि तत्र प्रलीयन्ते तदात्मतां कारणरूपताम् आपद्यन्ते विकारावस्थाम् उद्गच्छन्ति[^९५] युगपद् यावन्ति त्रैलोक्योदरवर्तीनि । स्वापश् च परिणामनिवृत्तिर् न पुनर् ज्ञानोपसंहतिः अचेतनस्य प्रधानस्य । सुखं चोपचारतो ऽचेतनत्वाद् एव ॥ १.५४ ॥
+
 
 [^९५]:
 J: ujjhanti
@@ -145,6 +157,11 @@ Intermediate—*Khaṇḍa*—*pralaya*.
 
 *Sarvabhūtātmā*—stands for the Sāṅkhya ‘*Pradhāna*’;—according to the
 second explanation put forward by Medhātithi;—according to the other explanation, accepted by Govindarāja and Kullūka, the term stands for the Supreme Self of the Vedānta.
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+इदानीं महाप्रलयम् आह – **युगपद्** इति । तुल्यकालम् एव पुनः यस्मिन् काले **तस्मिन्** परमेश्वरे सर्वभूतानि **प्रलीयन्ते **तस्मिन्न् एव काले अयं **सर्वभूतात्म**भूतो **निर्वृतः** निवृत्तजाग्रत्स्वप्न(सुषुप्ति)व्यापारः **सुखं स्वपिति** सुषुप्तिम् अनुभवति । तत्र सुषुप्तावस्था महाप्रलयश् च युगपद् एव भवत इत्य् अर्थः ॥ १.५४ ॥
 </details>
 
 <details><summary>Bühler</summary>

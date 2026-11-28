@@ -2,7 +2,7 @@
 title = "०४ संस्काराः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.२५ एषा धर्मस्य</summary>
 
 एषा धर्मस्य वो योनिः  
 समासेन प्रकीर्तिता ।  
@@ -23,19 +23,24 @@ Thus has the source of Dharma been briefly explained to you, as also the origin 
 
 - इह पञ्चप्रकारो धर्म इति स्मृतिविवरणकाराः प्रपञ्चयन्ति- वर्णधर्म आश्रमधर्मो वर्णाश्रमधर्मो नैमित्तिको[^१२५] गुणधर्मश् चेति । तत्र यो जातिमात्रम् अपेक्ष्य प्रवृत्तो न वयोविभागाश्रमादिकम् आश्रयति स वर्णधर्मः । यथा "ब्राह्मणो न हन्तव्यः," ब्राह्मणेन सुरा न पेया" इति । जातिमात्रस्यान्त्याद् उच्छ्वासाद् एष धर्मः । आश्रमधर्मो यत्र जातिर् नापेक्ष्यते केवला, तदाश्रमप्रतिपत्तिर्[^१२६] आश्रीयते । यथा "ब्रह्मचारिणो ऽग्नीन्धनभिक्षाचरणे" (ग्ध् २.८) । वर्णाश्रमधर्म उभ्यापेक्षः । यथा "मौर्वी ज्या क्षत्रियस्य" (म्ध् २.४२) इत्यादिः । नाश्रमान्तरे न च जात्यन्तरस्य धारणम् अस्या उदाहरणम् । प्रथमोपादानं तूपनयनधर्मो[^१२७] नाश्रमधर्मः । उपनयनं चाश्रमार्थं[^१२८] नाश्रमधर्मः । नैमित्तिको द्रवशुद्ध्यादिः । गुणम् आश्रितो गुणधर्मः, "षड्भिः परिहार्यश् च" (ग्ध् ८.१२) इत्यादिः । बाहुश्रुत्येन गुणेनैते धर्माः । एवम् अभिषिक्तस्य क्षत्रियस्य ये धर्माः । 
 
+
 [^१२८]:
      M G: vāśramārthaṃ
+
 
 [^१२७]:
      G: tūpanayanaṃ dharmo
 
+
 [^१२६]:
      J: yadāśrama-
+
 
 [^१२५]:
      J adds: dharmo
 
 - तद् एतद् वर्णग्रहणेन सर्वं गृहीतम् इति दर्शितम् । अवान्तरभेदस् तु तत[^१२९] एवावतिष्ठते । पुरुषत्वमात्राश्रिता अवर्णधर्मा अपि सन्ति । ते ऽपि भेदेन वाच्याः स्युः । एवम् अन्यो ऽपि भेदो ऽभ्यूह्यः । वर्णग्रहणं चात्र प्रदर्शनार्थम्, नान्तरप्रभवव्युदासार्थम् । पूर्वं प्रतिज्ञातत्वात् तदनुवादिनी ह्य् एषा प्रतिज्ञा ॥ २.२५ ॥
+
 
 [^१२९]:
      M G 1st ed.: -bhedas tu nety
@@ -85,6 +90,38 @@ attributed to the author of the *Smṛtivivaraṇa*. Kullūka quotes the
 Modern writers and lecturers on what they call ‘*Varṇā-śramadharma*’ should note the exact connotation of this name, as here explained by Medhātithi.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषा युष्माकं धर्मस्य योनिः संक्षेपेणोक्ता।योनिर्ज्ञप्तिकारणं "वेदोऽखिलो धर्ममूलम्" ( म० स्मृ० २-६ ) इत्यादिनोक्तमित्यर्थः । गोविन्दराजस्त्विह धर्मशब्दोऽपुर्वाख्यात्मकधर्मे वर्तत इति “विद्वद्भिः सेवितः” ( म० स्मृ० २ / १ ) इत्यत्र तत्कारणेऽष्टकादौ वाऽपूर्वाख्यस्य धर्मस्य योनिरिति व्याख्यातवान् । सम्भवश्चो-त्पत्तिर्जगत उक्ता । इदानीं वर्णधर्माञ्छृणुत । वर्णधर्मशब्दश्च वर्णधर्माश्रमधर्मवर्णाश्रमधर्मगुणधर्मनैमित्तिकधर्माणामुपलक्षकः । ते च भवि
+
+भविष्यपुराणोक्ताः—
+
+**वर्णधर्मः स्मृतस्त्वेक आश्रमाणामतः परम् ।**
+
+**वर्णाश्रमस्तृतीयस्तु गौणो नैमित्तिकस्तथा ।**
+
+**वर्णत्वमेकमाश्रित्य यो धर्मः संप्रवर्तते ।**
+
+**वर्णधर्मः स उक्तस्तु यथोपनयनं नृप ॥**
+
+**यस्त्वाश्रमं समाश्रित्य अधिकारः प्रवर्त्तते ।**
+
+**स खल्वाश्रमधर्मस्तु भिक्षादण्डादिको यथा ॥**
+
+**वर्णत्वमाश्रमत्वं च योऽधिकृत्य प्रवर्तते ।**
+
+**स वर्णाश्रमधर्मस्तु मौञ्जीया मेखला यथा ॥**
+
+**यो गुणेन प्रवर्तेत गुणधर्मः स उच्यते ।**
+
+**यथा मूर्धाभिषिक्तस्य प्रजानां परिपालनम् ॥**
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एषा धर्मस्य योनिः **कारणम् । यो विद्वद्भिःसेवितः तस्य आफलदानावस्थायिनः, कारणम् इति सङ्क्षेपतो युष्माकम् उक्ता । इह **धर्म**शब्दः अपूर्वाख्यात्मसंस्कारे वर्तते । “विद्वद्भिः सेवितः” इत्य् अत्र तु तत्कारणेषु कदाचित् इत्य् उभयत्रापि चायं दृष्टप्रोयोगः । **सम्भवश्** चोत्त्पत्तिर् जगतः उक्ता ।साम्प्रतं वर्णैः ब्राह्मणादिभिर् ये अनुष्ठेया धर्माः **वर्णधर्माः** आश्रमधर्माः वर्णाश्रमधर्माः नैमित्तिकाख्याः पञ्चप्रकाराः तान् शृणुत । वर्णधर्मा यथा ब्राह्मणस्य मद्यपाननिषेधः, आश्रमधर्मो यथा ब्रह्मचारिणो भैक्षचरणं ब्राह्मणो (ब्राह्मणस्य) बैल्वदण्डधारणम् । वर्णाश्रमधर्मो यथा पालाशदण्डो ब्राह्मणस्येति । गुणधर्मो यथा अभिषेकादिगुणयुक्तस्य राज्ञः प्रजापालनम् । नैमित्तिका यथा प्रायश्चित्तम् इति ॥ २.२५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 025	Thus has the origin of the sacred law been succinctly described to you and the origin of this universe; learn (now) the duties of the castes (varna).
@@ -97,7 +134,7 @@ Modern writers and lecturers on what they call ‘*Varṇā-śramadharma*’ sho
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.२६ वैदिकैः कर्मभिः</summary>
 
 वैदिकैः कर्मभिः पुण्यैर्  
 निषेकादिर् द्विजन्मनाम् ।  
@@ -170,6 +207,16 @@ been ordained—Niṣeka, Puṃsavana, Sīmantonnayana, Jātakarma, Nāmakaraṇ
 the Final (Death) Rites.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदमूलत्वाद्वैदिकैः पुण्यैः शुभैर्मन्त्रप्रयोगादिकर्मभिर्द्विजातीनां गर्भाधानादिशरीरसंस्कारः कर्तव्यः । पावनः पापक्षयहेतुः । प्रेत्य परलोके संस्कृतस्य यागादिफलसम्बन्धात्, इह लोके च वेदाध्ययनाद्यधिकारात् ॥२६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वैदिकैर् **इति । वैदिकमन्त्रसाध्यत्वात् वेदमूलसाध्यत्वाच् च **वैदिकैः **स्मार्तैः **कर्मभिः** “विष्णुर् योनिं कल्पयतु” इत्येवमादिमन्त्रप्रयोगादिबिः **पुण्यैः **पारम्पर्येण धर्महेतुभिः गर्भाधानादिः द्विजातीनां **शरीरसंस्कारः **कर्तव्यः । **पावनः **पवित्रीकारकः **प्रेत्य **परलोके संस्कृतस्य यागादिकर्मफलसम्बन्धात् । **इह **लोके च संस्कृतस्याध्ययनाद्यधिकारात् । निषेकगुणात् (-ग्रहणात्) पितुर् अधिकारः । निषेकवर्जिते तु कदाचित् तत्स्थानापन्नस्य तत्प्रयुक्तस्य वा अन्यस्यापि (न) स्यात् ॥ २.२६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 026	With holy rites, prescribed by the Veda, must the ceremony on conception and other sacraments be performed for twice-born men, which sanctify the body and purify (from sin) in this (life) and after death.
@@ -182,7 +229,15 @@ the Final (Death) Rites.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+कुतः पापसम्भवो येनैषां पापक्षयहेतुत्वमत आह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.२७ गार्भैर् होमैर्</summary>
 
 गार्भैर् होमैर् जातकर्म-  
 चौड-मौञ्जी-निबन्धनैः ।  
@@ -196,7 +251,9 @@ the Final (Death) Rites.’
 
 Of twice-born men the taint of seed and womb is removed by the ‘Libations in connection with Pregnancy’ and by ‘Jātakarman’ (Rites attendant upon birth), ‘Chauḍa’ (Tonsure) and ‘Mauñjībandhana’ (Tying of the grass-girdle). (27)
 
+
 “How can these sacraments be regarded as subserving the purposes of actions? As regards the ‘sprinkling of butter,’ it is only natural that through the butter it should subserve the purposes of the sacrificial act, in Connection with which it has been prescribed. These sacraments however lie entirely, outside the pale of any action;—their injunction not occurring in the context of any sacrificial act. So it is difficult to say that they help in the sacrifice through the man (in the way in which the does through the butter). And unless it subserves the purposes of an act, consecration cannot be performed for its own sake; as in that case it should cease to be a ‘consecration’ (which is always subsidiary to something else), and become a primary act itself, and (when it ceases to be a consecration) this would mean the nullification of the statement ‘corporeal consecration should be performed’ (verse 26), and also of the Accusative ending in the statement ‘when, the boy is born, before he is touched by any other person, the father should etc.’ (which refers to the Birth-rites); and in that case, the sense of the injunction will have to be altered, as is done in the case of the injunction ‘Saktūñjuhoti’ [where the incompatibility of the Accusative ending leads us to alter it into the Instrumental ],—a particular result (as arising out of the consecration, as a primary act by itself) will have to be assumed; and so forth, a number of absurd assumptions will have to be made.”
+
 
 (1) Ādhāna, 
 (2) Puṃsavana, 
@@ -211,6 +268,7 @@ Of twice-born men the taint of seed and womb is removed by the ‘Libations in c
 (14) Samāvartana, 
 (15) Vivāha, 
 and (16) Antya.’
+
 
 (1) Garbhādhāna, 
 (2) Puṃsavana, 
@@ -234,6 +292,7 @@ and (16) Antya.’
 (23) Utsarga, 
 (24) Upākaraṇa, 
 (25) Mahāyajñas;
+
 
 (1) Garbhādhāna, 
 (2) Puṃsavana, 
@@ -279,8 +338,6 @@ and (16) Antya.’
      M G: -āpekṣyaṃ
 
 - निषेकग्रहाच् च सर्वत्रापि पितुर् अधिकारः । तथा च जातकर्मणि मन्त्रः "आत्मा वै पुत्रनामासि" (श्ब् १४.९.४.२६) इति । तस्य ह्य् अपत्योत्पादनम् अपत्यानुशासनं च विहितम् । "ऋणानि त्रीण्य् अपाकृत्य" (म्ध् ६.३५) इति । "तस्माद् अनुशिष्टं पुत्रं लोक्यम् आहुः" (बाउ १.५.१७) इति । अनुशासनं च स्वाधिकारप्रतिपादनम्, तच् च वेदाध्यापनेनार्थावबोधपर्यन्तेन भवतीति वक्ष्यामः । अत एवोभयोपकारकाः संस्काराः, अपत्योत्पत्तिविधौ पितुर् माणवकस्य च संस्कृतसाध्यासु क्रियासु । तस्मात् पितुर् अधिकारस् तदभावे तत्स्थानापन्नस्य । तथा चाह "असंस्कृतास् तु संस्कार्या भ्रातृभिः पूर्वसंस्कृतैः" (य्ध् २.१२८) इति ॥ २.२७ ॥
-
-_येषु कर्मसु माणवकस्य संस्कारा उपकारकास् तान् इदानीम् उदाहरणमात्रेण दर्शयति ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -438,6 +495,16 @@ two sets of sacraments and is equipped with the eight qualities (of the soul) at
 through the gradual appearance of the several limbs, in the same manner Brāhmaṇahood becomes manifested through the lawful performance of the sacraments.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ये गर्भशुद्धये क्रियन्ते ते गार्भाः । होमग्रहणमुपलक्षणम्, गर्भाधानादेरहोमरूपत्वात् । जातस्य यत्कर्म मन्त्रवत्सर्पिःप्राशनादिरूपं तज्जातकर्म । चौडंचूडाकरणकर्म । मौञ्जीनिबन्धनमुपनयनम् । एतैर्वैजिकं प्रतिषिद्धमैथुनसंकल्पादिना च पैतृकरेतोदोपायद्यत्पापं गार्भिकं चाशुचिमातृगर्भवासजं तद् द्विजातीनामपमृज्यते ॥२७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+कुतः पुनर् एषाम् अशुचित्वम्, येन पावनं क्रियते इत्य् अत् आह – **गार्भैर् **इति । गर्भनिमित्तं ये क्रियन्ते ते **गार्भाः**, होमग्रहणं यथासम्भवं गार्भे विशेषणम्, गर्भाधानादेर् अहोमात्मकत्वात्, सीमन्तोन्नयनादेश् च सहोमकत्वात् । जातस्य यत् क्रियते तत् **जातकर्म** । एते सर्वे गृह्याभिधेयस्वरूपाः इहैव तेषां सामान्यमात्राभिधानात् सामान्यस्मृतित्वाद् अस्य । **चौलं **चूडाकर्म **मौञ्जीनिबन्धनम् **उपनयनम् । एतैः **बैजिकं** प्रतिषिद्दमैथुनसङ्कल्पात् पितृरेतसो द्ष्टत्वं, **गार्भिकं** गर्भवासनिवासित्वाद् दुष्टत्वं **द्विजानाम्** अपनुद्यते ॥ २.२७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 027	By burnt oblations during (the mother's) pregnancy, by the Gatakarman (the ceremony after birth), the Kauda (tonsure), and the Maungibandhana (the tying of the sacred girdle of Munga grass) is the taint, derived from both parents, removed from twice-born men.
@@ -450,7 +517,15 @@ through the gradual appearance of the several limbs, in the same manner Brāhma�
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_येषु कर्मसु माणवकस्य संस्कारा उपकारकास् तान् इदानीम् उदाहरणमात्रेण दर्शयति ।_
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.२८ स्वाध्यायेन</summary>
 
 स्वाध्यायेन व्रतैर् होमैस्  
 त्रैविद्येनेज्यया सुतैः ।  
@@ -464,7 +539,9 @@ through the gradual appearance of the several limbs, in the same manner Brāhma�
 
 This body is made godly,—by a thorough study of the three Vedas, by Observances, by libations, by offerings, by children, by the Great Sacrifices and by the Sacrifices. (28)
 
+
 “Nowhere in the Veda is the attaining of Brahman declared to be the reward of the actions here enumerated. For instance, (A) as for the compulsory acts, they are prescribed as being without rewards. If we.were to assume rewards, such an assumption would be purely human in its source (and as such not authoritative). And since the Veda has declared them to be compulsory by means of such phrases ‘throughout one’s life’ and the like, there can be no justification for applying the principle.of the V sacrifice (and assume the reward to consist in the attaining of heaven). If it were argued that—‘from the present verse of Manu itself we learn that the said Acts bring the mentioned rewards,’—then it would come to this that only such persons are entitled to these acts as long for Final Release; which would deprive them of their compulsory character; and this would be contrary to what has been declared in the Veda. It may be argued that—‘inasmuch as no one ever undertakes a fruitless act, (if no rewards were mentioned) the laying down of the acts would be futile.’ ‘But there may be no performance at all; that does not matter; the use of a ‘source of knowledge’ lies in making things known; if it has succeeded in doing this, its purpose has been served; and the present verse does clearly indicate some acts as to be done; and if this indication is accomplished (the purpose of the scriptural injunction has been served); if people do not perform those acts, they transgress the behests of the scripture, and thereby incur sin. All old writers have explained the sense of the Injunctive etc., on these lines. If a servant does not perform his duty, as he is ordered to doby his master, cither he does not obtain his wages, or he incurs sin. Now as regards the compulsory acts, since no rewards are mentioned (in the form of wages), the evil that follows is not in the form of losing the reward, but in the form of suffering pain. It is only in this manner that we can explain the fact of, all men being required to perform the compulsory acts. From all this it follows that in the case of compulsory acts there is no reward. (B) As regards the optional acts, other results have boen declared as following from them, and not Fin l Release (the one mentioned here). How then could this Final Release be such an end of man as is accomplished by the mere performance of acts?”
+
 
 “How is it then that Gautama (8. 8) has spoken of ‘forty sacraments’? There the Soma-sacrifice also has been mentioned as a sacrament; and certainly a primary sacrifice (as the Soma-sacrifice undoubtedly is) can never have the character of a mere consecratory sacrament. Nor is it possible to take this part of Gautama’s Sutra as an arthavāda; as all the forty sacraments are spoken of as being on the same footing.”
 </details>
@@ -473,8 +550,10 @@ This body is made godly,—by a thorough study of the three Vedas, by Observance
 
 अध्ययनक्रिया **स्वाध्याय**शब्देनात्राभिप्रेता । तस्या एष विषयनिर्देशस् **त्रैविद्येनेति** । व्यवधाने ऽप्य् अर्थलक्षणः संबन्धो "यस्य येनार्थसंबन्धः" इति न्यायेन । अत एव सामानाधिकरण्ये ऽपि श्रुतेर्[^१३५] विषयविषयिभावो विभक्तिविपरिणामेन, त्रयाणां वेदानाम् अध्ययनेनेत्य् अर्थः । त्रय एव वेदाः त्रैविद्यं । चातुर्वर्ण्यादिवद् रूपसिद्धिः । अथ वा **स्वाध्यायेन** इति वेदाध्ययनम्, **त्रैविद्येन** इति तदर्थावबोधः । **व्रतैः** सावित्रादिभिर् ब्रह्मचारिकर्तृकैः[^१३६] । **होमैर्** व्रतादेशनकाले ये क्रियन्ते । यदि वा सायंप्रतः समिद्भिर् अगीन्धनं ब्रह्मचारिणो होमशब्देनाग्न्याधारसंबन्धसामान्याद् उच्यते । <u>अथ किं</u> समिदाधानं न होमो येनैवम् उच्यते संबन्धसामान्याद् इति । न भवतीति ब्रुवन्ति अदनीयद्रव्यसाध्यत्वाद् यागहोमयोः । कथं तर्हि,
 
+
 [^१३६]:
      M G: brahmacārī-
+
 
 [^१३५]:
      M G: śrute
@@ -494,6 +573,7 @@ This body is made godly,—by a thorough study of the three Vedas, by Observance
 - <u>अन्ये</u> त्व् आहुर् ब्रह्मत्त्वप्राप्तौ योग्या क्रियते । न हि कर्मभिर् एव केवलैर् ब्रह्मत्वप्राप्तिः, प्रज्ञानकर्मसमुच्चयात् किल मोक्षः । एतैस् तु संस्कृत आत्मोपासनास्व् अधिक्रियते । तथा च श्रुतिः- "य एतद् अक्षरं गार्ग्य् अविदित्वा यजते जुहोति तपस् तप्यते अधीते ददात्य् अन्तवद् एवास्य तद् भवति" (बाउ ३.८.१०) इति ।
 
 - <u>ननु</u> च नैतेषां कर्मणां ब्रह्मप्राप्तिः फलं श्रुतम् । तथा हि नित्यानि तावद् अश्रुतफलान्य् एव । कल्पनायां च पौरुषेयत्वम् । यावज्जीवादिपदैश् च नित्यताया अवगमितत्वाद् विश्वजिन्न्यायो ऽपि नास्ति । अथास्माद् एव वचनाद् एतत्पलत्वम् इति यद् उच्येत, मोक्षार्थिनः तदाधिकारः स्यात् तथा च नित्यत्वहानिस् ततश् च श्रुतिविरोधः । निष्फलं न काश्चिद् अनुतिष्ठति तत्रानर्थक्यम् इति चेत् कामम् अनानुष्ठानम्[^१३७] ।
+
 
 [^१३७]:
      M G 1st ed.: kāmanānuṣṭhānāt; G 2nd ed.: kāmamanuṣṭhānāt
@@ -608,6 +688,17 @@ This verse is quoted in the *Vīramitrodaya* (Saṃskāra, p. 140), where the wo
 See Comparative notes for [Verse 2.27].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदाध्ययनेन । व्रतैर्मधुमांसवर्जनादिनियमैः । होमैः सावित्रचरुहोमादिभिः सायंप्रातर्होमैश्च । त्रैविद्याख्येन च । व्रतेष्वप्राधान्यादस्य पृथगुपन्यासः । इज्यया ब्रह्मचर्यावस्थायां देवर्षिपितृतर्पणरूपया ।गृहस्थावस्थायां पुत्रोत्पादनेन । महायज्ञैः पञ्चभिर्ब्रह्मयज्ञादिभिः । यज्ञैज्योतिष्टोमादिभिः । ब्राह्मी ब्रह्मप्राप्तियोग्येयं तनुः तन्ववच्छिन्न आत्मा क्रियते । कर्मसहकृतब्रह्मज्ञानेन मोक्षावाप्तेः ॥२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+_येषु कर्मसु माणवकस्य संस्कारा उपकारकास् तान् इदानीम् उदाहरणमात्रेण दर्शयति ।_
+**स्वाध्यायेनेति** । वेदाध्ययनेन **व्रतैः** सावित्र्यादिभिः **मोमैः **सायम्प्रातरग्निकार्यैः **त्रैविद्य्**आख्येन व्रतेन, प्राधान्यात् पृथगुपदिष्टेन । **इज्यया **ब्रह्मचर्यावस्थायां देवर्षिपितृतर्पणरूपया, पुत्रैः, **महायज्ञैः** वैश्वदेवादिभिः **यज्ञैः** अग्निष्टोमादिभिः ब्रह्मप्राप्तियोग्या **तनुः** तत्स्थ आत्मा **क्रियते** जानकर्मसमुच्चयान् मोक्षावाप्तेः ॥ २.२८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 028	By the study of the Veda, by vows, by burnt oblations, by (the recitation of) sacred texts, by the (acquisition of the) threefold sacred science, by offering (to the gods, Rishis, and manes), by (the procreation of) sons, by the great sacrifices, and by (Srauta) rites this (human) body is made fit for (union with) Brahman.
@@ -625,7 +716,7 @@ See Comparative notes for [Verse 2.27].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.२९ प्राङ्</summary>
 
 प्राङ् नाभिवर्धनात् पुंसो  
 जातकर्म विधीयते ।  
@@ -644,32 +735,40 @@ For the male child, before the cutting of the umbilical cord the performance of 
 
 **वर्धनं** छेदनम् । **जातकर्मेति** कर्मनामधेयम् एतत् । रूपं चास्य गृह्यस्मृतिभ्यो ज्ञातव्यम् । कस्य पुनः कर्मणो जातकर्मेति नाम । तदर्थम् उक्तं **प्राशनं हिरण्यमधुसर्पिषाम्** । **अस्य** इति दारकं व्यपदिशन्ति, कर्म वा- **अस्य** जातकर्मण इदं प्रधानं यन् मन्त्रवत् **प्राशनम्** इति । समन्त्रकं मन्त्रेण कर्तव्यम् इत्य् अर्थः । मन्त्रस्य चेहानुक्तत्वात्, स्मृतीनां चैकार्थ्याद् यद् अन्यत्रोक्तं तद् अत्रापि प्रतीयते । तेन गृह्यस्मृतिषु ये मन्त्रा उपात्तास्[^१३८] तैर् **मन्त्रवद्** इति द्रष्टव्यम् ।
 
+
 [^१३८]:
      G 1st ed.: upāyās
 
 - <u>यदि</u> गृह्यस्मृतयो ऽपेक्षन्ते द्रव्यनिर्देशो[^१३९] ऽपि न कर्तव्यः । एवं हि तत्र पठ्यते- "सर्पिर्मधुनी हिरण्यनिकाषं हिरण्येन प्राशयेत्, प्र ते ददामि मधुनो घृतस्य" इति (आश्ग् १.१३.१) । किं च बह्व्यो गृह्यस्मृतयः, भिन्नाश् च प्रतिगृह्यमन्त्राः, अन्यापि भिन्नेतिकर्तव्यता, तत्र काश्रीयताम् इति न विद्मः । अथ चरणसमाख्या नियामिका भविष्यति, व्यर्थस् तर्हि जातकर्माद्युपदेशस् तत एव सिद्धेः । कठानां गृह्यं बह्वृचां आश्वलायनानां च गृह्यम् इति यद् येन समाख्यायते स तद् उक्तम् अनुष्ठास्यतीति । 
+
 
 [^१३९]:
      M G: draṣṭavyanirdeśo
 
 - <u>उच्यते</u> । द्रव्यादिनिर्देशेन[^१४०] सुस्पष्टं कर्मैकत्वम् इति प्रतीयते । तथा हि प्रत्यबिज्ञासिद्धिः । तद् द्रव्यम् एवेदं[^१४१] तन्नामधेयकं[^१४२] चेदं कर्मातस् तद् एवेदम् इति, भूयसा दृष्टं तद्गुणयोगेन प्रत्यभिज्ञायते । सति चैकत्वे यद् अङ्गजातं क्वचिन् नोक्तं तद् अविरुद्धम्[^१४३] अन्यत आनेतव्यम् । यथा सर्वशाखाप्रत्ययम् एकं कर्म, एवं सर्वस्मृतिप्रत्ययम् अपि । यत् तु बहुत्वाद् गृह्यस्मृतीनां[^१४४] काश्रीयताम् इत्य् अनध्यवसायः । सर्वासां प्रामाण्याविशेषाद् एकार्थानां च विकल्पः भिन्नार्थानां समुच्चयः । चरणसमाख्या तु नैव नियामिका । यतो न समाख्यया पुरुषस्य नियतः संबन्धः गोत्रप्रवरवत् । यैव शाखा येनाधीता स एव तथा समाख्यायते "कठो बह्वृचः" इति । न चाध्ययने नियमो ऽस्त्य् अनेनेयं शखाध्येतव्येति । अनेकशाखाध्ययनम् अप्य् अस्ति, "वेदान् अधीत्य" (म्ध् ३.२) इति । तत्र त्रिवेदाध्यायिनः सर्वे व्यपदेशाः प्रवर्तन्ते ।
 
+
 [^१४४]:
      M G: gṛhye smṛtīnāṃ
+
 
 [^१४३]:
      M G 1st ed.: anibaddam
 
+
 [^१४२]:
      M: tadevetannāmadheyakaṃ
 
+
 [^१४१]:
      G 1st ed.: tad evedaṃ
+
 
 [^१४०]:
      M G: dṛṣṭādinirdeśena
 
 - <u>के ऽप्य्</u> ऊचुः कौथुमाः कठा[^१४५] बह्वृच इति तत्रावश्यं विकल्प आस्थेयः । एकशाखाध्यायिनस् तु यद् गृह्यं यया शाखया समाख्यायते तदुक्तम् एव तस्य युक्तं कर्तुम् । एष हि तदुक्तम् एव शक्नोति कर्तुं तच्छाकामन्त्रा एव तेनाधीताः, शक्नोति तान् प्रयोक्तुम् । तम् एव वा वृतं वेद । वेदने च कर्मानुष्ठानार्थं वेदाध्ययनं येन तावतो मन्त्रान् कर्मोपयोगिनो ऽध्येष्यत इति । 
+
 
 [^१४५]:
      M G: ūcuḥ kaṭho
@@ -678,14 +777,18 @@ For the male child, before the cutting of the umbilical cord the performance of 
 
 - एष एवार्थः[^१४६] "स्वसूत्रं यः परित्यज्य परसूत्रेण वर्तते" इति । तद् एव स यद् अधीते तदर्थः शक्यो ऽनुष्ठातुम्[^१४७] । तेन यः[^१४८] स्वाधीतां शाखाम् अतिक्रम्य पित्राद्यधीतशाखया कर्माणि कुर्यात्, तद्गृह्यं च समाश्रयेत्, तस्य[^१४९] शाखात्यागदोषः । पित्रादीनां वा शाखात्यागः यैर् माणवकः क्रमाधीतां शाखां नाध्यापितः । मानवकस्यात्र दोषो नास्ति । यदा मृतपितृको जाबालवद् अयं बालः स्वयम् आचार्यम् आश्रयेत्, तदा "येनास्य पितरो याताः" (म्ध् ४.७८) इत्य् अनेन शास्त्रेण सैवाध्यतुं युक्ता स्यात् । अथात्मशाखाध्ययनं न संभवति, तदा स्वशाखात्यागः । 
 
+
 [^१४९]:
      M G: na tasya
+
 
 [^१४८]:
      M G omit: yaḥ
 
+
 [^१४७]:
      M G here have a very different reading: yady etad asti tad eva kva tarhi | svakaṃ yad adhītaṃ tadarthaḥ śakyo 'nuṣṭhātum |
+
 
 [^१४६]:
      M G connection this with the previous: asamāna evārthaḥ
@@ -702,10 +805,12 @@ For the male child, before the cutting of the umbilical cord the performance of 
 
 - <u>तत्रोच्यते</u> । नायं पुंशब्दो मनुष्यजातिवचनो नरशब्दवद् येन विभक्तिवाच्यं लिङ्गं न विवक्ष्येत । एष हि सर्वत्र[^१५०] स्थावरमूर्तामूर्तगतं लिङ्गविशेषं प्रसवरूपम् आचष्टे । प्रातिपदिकार्थो ह्य् अत्र लिङ्गम् । विभक्तिवाच्यस्य ह्य् अर्थस्य विवक्षाविवक्षे युज्येते । यतो न विभक्तेर् वचनम् एवैकं प्रयोजनम्, कर्माद्यर्थान्तराभिधानेनाप्य् अर्थवत्त्वात् । इह त्व् अविवक्षायाम् आनर्थक्यम् एव प्राप्नोति पुंश्पदस्य । यथा तत्रैव ग्रहप्रातिपदिकार्थो विवक्ष्यते वाक्यानर्थक्यपरिहाराय । 
 
+
 [^१५०]:
      M G 1st ed.: sarvasva
 
 - <u>अथोच्येत</u>- न प्रत्ययार्थमात्रस्य विवक्षा । कृत्स्नो ऽपि पदार्थ उद्दिश्यमानविशेषणं[^१५१] न विवक्ष्यते । यथा "यस्योभयं हविः" इति सत्य् अप्य् उभयपदश्रवणे दधिपयसोर् अन्यतरावृत्ताव् अपि तद् एव प्रायश्चित्तं । न विवक्षित उभयशब्दः । 
+
 
 [^१५१]:
      M G: upadiśya-
@@ -717,6 +822,7 @@ For the male child, before the cutting of the umbilical cord the performance of 
 - यद्य् एवं शूद्रस्यापि प्राप्तिं जतिविशेषानिर्देशात् । न प्राप्स्यति, मन्त्रसाध्यत्वात् । अथ वा द्विजन्मनाम् इति वाक्यशेषको भविष्यति । न च तदानीं विधेयार्थविषयत्वेन निर्दिष्टो येन तत एव संस्कार्यावगतौ पुंस इत्य् एतद् उभयपदवद् अविवक्षितम् आशङ्क्येत ।
 
 - स्त्रीणां त्व् अप्राप्ते ऽपि विधानम् उपपद्यते । क्लीबस्यापि दारदर्शनम् । वातरेता यः कॢइब उभयव्यञ्जनो ऽप्रवृत्तेन्द्रियो वा । बहुप्रकारव्यावृत्तिकरं जातकर्मादिसंस्कारकाले ऽपरिच्छेद्यत्वाच् छक्यप्रतीकारत्वाच् च । न च यो न नियतो धर्मः सो ऽधिकारं व्यावर्तयति, यथाद्रव्यत्वम्, न ह्य् अद्रव्यत्वं[^१५२] नियतं जातिवत् । य एवाद्रव्यः सो ऽपि द्रव्यवान् भवति । चिरम् अधनो भूत्वा भवत्य् अह्ना महाधनः । ईदृशस्यैव षण्ढस्य वधे पलालभारकशुद्धिः । स ह्य् असंस्कृतो ऽनुपनीतः शान्त्यै न कस्यचित् तिष्ठति । 
+
 
 [^१५२]:
      M: adravya; G: adravyatva
@@ -881,6 +987,16 @@ p. 440).—‘Gods and Pitṛs come to the house of the twice-born whenever a so
 hence that day is sacred; hence one should give away vessels full of sesamum, along with gold; and having invited Brāhmaṇas, one should make offerings to the Pitṛs; and prior to the cutting of the umbilical cord, they make
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नाभिच्छेदनात्प्राक् पुरुषस्य जातकर्माख्यः संस्कारः क्रियते । तदा चास्य स्वगृह्योक्तमन्त्रैः स्वर्णमधुघृतानां प्राशनम् ॥२९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्राङ्नाभीति **। नाभिछेदनात् पूर्वं **पुंसो जातकर्म्**आख्यः संस्कारो विधीयते । अस्य च शिशोः तदानीम् “प्रतिददामि (प्र ते ददामि) मधुनो घृतस्य” इत्य् एवमादिमन्त्रयुक्तं **हिरण्य**माक्षिकघृतानां **प्राशनं **कार्यम् । **पुंसो** ग्रहणं नपुंसकव्यावृत्त्यर्थम् । यद्य् अर्थिता तु दारैः स्यात् क्लीबादीनाम् इति नपुंसकस्य दारदर्शनात् । ये स्तेनाः पतिताः क्लीबा इति च श्रोत्रियत्वे सति श्राद्धभोजनप्राप्तेः प्रतिषेधदर्शनात् । स्त्र्यर्थत्वे तस्य प्रमाणं नास्ति । तथा च “अमन्तर्कासु” इति स्त्रीणाम् अप्राप्तिं वक्ष्यति ॥ २.२९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 029	Before the navel-string is cut, the Gatakarman (birth-rite) must be performed for a male (child); and while sacred formulas are being recited, he must be fed with gold, honey, and butter.
@@ -893,7 +1009,7 @@ hence that day is sacred; hence one should give away vessels full of sesamum, al
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.३० नामधेयं दशम्याम्</summary>
 
 नामधेयं दशम्यां तु  
 द्वादश्यां वास्य कारयेत् ।  
@@ -921,8 +1037,6 @@ One should have his ‘naming’ (Nāmadheya) done on the tenth or the twelfth (
 
 [^१५३]:
      G: tad uktaṃ
-
-_इदानीं यादृशं नाम कर्तव्यं तन् नियमयति स्वरूपतो ऽर्थतश् च ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -1023,6 +1137,20 @@ according to others, on the expiry of one month, or, according to others, on the
 As regards the ‘*puṇya tithi, muhūrta* and *nakṣatra*’ the reader is referred to the Vīramitrodaya-Saṃskāra, pp. 234-237.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+जातकमति पूर्वश्लोके जन्मनः प्रस्तुतत्वाज्जन्मापेक्षयैव दशमे द्वादशे वाऽहनि अस्य शिशोनांमधेयं स्वयमसम्भवे कारयेत् । अथवा—
+
+**आशौचे तु व्यतिक्रान्ते नामकर्म विधीयते ।**
+
+इति शङ्खवचनाद्दशमेऽहन्यतीते एकादशाह इति व्याख्येयम् । तत्राप्यकरणे प्रशस्ते तिथौ प्रशस्त एव मुहूर्ते नक्षत्रे च गुणवत्येव ज्योतिषावगते कर्तव्यम् । वाशब्दोऽवधारणे ॥३०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नामधेयम्** इति । जातकर्मेति प्रतुतत्वात् जन्मप्रभृति दशमे ऽहनि द्वादशे वा प्रशस्ते वान्यस्मिन् नवम्यादिरिक्ताहोवर्जिते **मुहूर्ते **ऽभिजिदादौ लग्ने पुण्य**नक्षत्रे** च ज्योतिःशास्त्रगुणयुक्ते **अस्य **शिशोर् नाम **कारयेत्** असामर्थ्ये सति । शक्तौ तु आत्मनैव कुर्यात्, “पिता नाम करोति” इति गृह्यश्रवणात् । पूर्वकालासम्भवे उत्तरोत्तरकालाश्रयणं कर्तव्यम् इति, क्रमप्रयोजनाभावात्, एवम् उत्तरत्रापि कालविकल्पेषु विज्ञेयम् ॥ २.३० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 030	But let (the father perform or) cause to be performed the Namadheya (the rite of naming the child), on the tenth or twelfth (day after birth), or on a lucky lunar day, in a lucky muhurta, under an auspicious constellation.
@@ -1035,7 +1163,15 @@ As regards the ‘*puṇya tithi, muhūrta* and *nakṣatra*’ the reader is re
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_इदानीं यादृशं नाम कर्तव्यं तन् नियमयति स्वरूपतो ऽर्थतश् च ।_
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.३१ मङ्गल्यम्</summary>
 
 मङ्गल्यं ब्राह्मणस्य स्यात्  
 क्षत्रियस्य बलान्वितम् ।  
@@ -1054,8 +1190,10 @@ The name of the Brāhmaṇa should be auspicious, that of the Kṣatriya connect
 
 तत्र स्वरूपम् अवधारयिष्यन्न् आह । मङ्गलाय हितं तत्र वा साधु **माङ्गल्यम्** इति व्युत्पत्तिः । "अभिमतस्यार्थस्य चिरजीवित्वबहुधनादेर् दृष्टादृष्टसुखफलस्य सिद्धिः" मङ्गलम् । तदभिधानम् एव शब्दस्य हितत्वं साधुत्वं चेति तद्धितसिद्धिः । साधुत्वं नाभिप्रेतार्थसिद्धिप्रतिपादनम् एव विवक्षितम् । किं तर्हि, य आशास्यते तद्वचनेनैव सिद्धिः । समासाद् आयुःसिद्धिः धनसिद्धिः पुत्रलाभ इत्यादेः प्रतीयते । तद्धिताद् वा हितनिमित्तप्रयोजनार्थीयात् । तत्र गृह्ये तद्धितान्तं प्रतिषिद्धम्- "कृतं कुर्यान् न तद्धितम्" (पार्ग् १.१७.२) इति । समासे ऽपि पदद्वयैकार्थीभावस् तत्र बह्वक्षरप्रयोगप्रसङ्गाः[^१५५] । यतो वक्ष्यति "शर्मवद् ब्राह्मणस्य" (म्ध् २.३२) इत्य् उपपदनियमम् । तत्र चतुरक्षरे त्र्यक्षरे वा नाम्नि शर्मशब्दे चोपपदे पञ्चाक्षरं षडक्षरं नाम भवति । तच् च प्रतिषिद्धम् "द्व्यक्षरं चतुरक्षरं वा कुर्यात्" (पार्ग् १.१७.२) इति । तेन यद् यत् किंचित् प्रायेण सर्वस्याभिलषणीयम् अगर्हितं पुत्रपशुग्रामकन्याधनादि तद्वचनाः शब्दा नामधेयत्वेन[^१५६] विनियोक्त्व्याः शर्मान्ताः । तेन गोशर्मा धनशर्मा हिरण्यशर्मा कल्याणशर्मा मङ्गल्यशर्मेत्यादिशब्दपरिग्रहः सिद्धो भवति ।
 
+
 [^१५६]:
      G adds: matyā
+
 
 [^१५५]:
      M G: -prasaṅgo
@@ -1070,18 +1208,22 @@ The name of the Brāhmaṇa should be auspicious, that of the Kṣatriya connect
 
 - **क्षत्रियस्य बलान्वितम्** । बलसंयुक्तं बलवाचि । अन्वयः संबन्धह् । शब्दस्यार्थेन संबन्धः प्रतिपादकभाव एव । सामर्थ्यं बलं तद् येन येन[^१५७] प्रतिपाद्यते तादृशं नाम क्षत्रियस्य कर्तव्यम् । शत्रुंतपः दुर्योधनः प्रजापाल इत्यादि । येन[^१५८] विभागेन च नामनिर्देशो जातिचिह्नम् । 
 
+
 [^१५८]:
      M G 1st ed. omit: yena
+
 
 [^१५७]:
      J omits one yena
 
 - एवं **वैश्यस्य धनसंयुक्तम्** । न चात्र पर्याया एव गृह्यन्ते "धनं वित्तं स्वापतेयम्" (अम्क् २.९.९०) इति । किं तर्हि, येन प्रकारेण प्रतिपत्तिः । यदि वा धनादिशब्दप्रयोगाद् अर्थसंबन्धाद्[^१५९] वा, धनकर्मा महाधनः गोमान् धान्यग्रह इति । 
 
+
 [^१५९]:
      M G: -prayogādarśasaṃbandhād
 
 - एवं सर्वत्र द्रष्टव्यम् । तथा चान्वितादिशब्दप्रयोगो बलान्वितं धनसंयुक्तम् इति । इतरथा एवम् एवावक्ष्यद् "बलनामानि कुर्यात्" इति । स्वल्पत्वाद् बलाद्यर्थवाचिनाम्[^१६०]  आनन्त्याच् च पुरुषव्यक्तीनां दुरवधाने भेदे व्यवहारोच्छेद एव स्यात् । 
+
 
 [^१६०]:
      M G: balārthavācinām
@@ -1185,6 +1327,20 @@ Kapila-Saṃhitā—‘On the eleventh day, in due form, the name should be give
 letter or two letters or three letters or four letters, or of letters without limit; it should be one formed with a verbal, never with a nominal, affix.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणादीनां यथाक्रमं मङ्गलबलधननिन्दावाचकानि शुभबलवसुदीनादीनि नामानि कर्तव्यानि ॥३१॥
+
+इदानीमुपपदनियमार्थमाह—'
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+_इदानीं यादृशं नाम कर्तव्यं तन् नियमयति स्वरूपतो ऽर्थतश् च ।_
+
+तच् च **माङ्गल्यं ब्राह्मणस्येति** । मङ्गलबलधननिन्दाप्रतिपादकानि एषां यथाक्रमं भद्रशक्तिधनदीनकादीनि नामानि स्युः ॥ २.३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 031	Let (the first part of) a Brahmana's name (denote something) auspicious, a Kshatriya's be connected with power, and a Vaisya's with wealth, but a Sudra's (express something) contemptible.
@@ -1225,7 +1381,7 @@ letter or two letters or three letters or four letters, or of letters without li
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.३२ शर्मवद्</summary>
 
 शर्मवद् ब्राह्मणस्य स्याद्  
 राज्ञो रक्षासमन्वितम् [मेधातिथिपाठः - राज्ञा ?] ।  
@@ -1244,11 +1400,14 @@ The name of the Brāhmaṇa should be expressive of ‘peace,’ that of the K�
 
 अत्र स्वरूपग्रहणं पाठानुक्रमश् चादौ मङ्गल्यम् अन्ते शर्मशब्दः[^१६१] । तथा चोदाहृतम् । क्षत्रियादिनाम्नां तु नैतत् संभवति, रक्षाशब्दस्य स्त्रीलिङ्गस्य श्रवणात् पुंसां सामानाधिकरण्यानुपपत्तेः । तस्माद् एकोपक्रमत्वात् समाचाराच् च सर्वत्रार्थग्रहणं । वाक्यभेदाच् च समुच्चयः । यन् मङ्गल्यं तच् छर्मार्थवत् । शर्म[^१६२] शरणम् आश्रयः सुखं च । अर्थग्रहणात् स्वामिदत्तभभूत्यादिशब्दपरिग्रहः । इन्द्रस्वामीन्द्राश्रयः इन्द्रदत्तः[^१६३] । तदाश्रयता प्रतीयते । एवं सर्वत्रोन्नेयम् ।
 
+
 [^१६३]:
      M G: indrāvato 'pi
 
+
 [^१६२]:
      G omits: śarma
+
 
 [^१६१]:
      M G: ete śarmaśabdāḥ
@@ -1310,6 +1469,26 @@ Kṣatriya, *Gupta* and *Datta* for the Vaiśya and *Dāsa* for the Śūdra.
 These titles have been thus explained by Āśvalāyanāchārya:—‘The name of the Brāhmaṇa should end with *Śarma* because he imparts *Śarma* (happiness) to the world through his religious character, calmness and self-control; that of the Kṣatriya should end with *Varmā*, because like the *Varma* (armour), he protects the world from the three kinds of pain; that of the Vaiśya should end with *Gupta*, because he fosters (*gopāyati*) the people by giving them money at certain times; that of the Śūdra should end with *Dāsa*, because he keeps the twice-born people satisfied by constant service.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषां यथाक्रमं शर्मरक्षापुष्टिप्रैष्यवाचकानि कर्तव्यानि, शर्मवर्मभूतिदासादीनि \। उपपदानि कार्याणि । उदाहरणानि तु- शुभशर्मा, बलवर्मा, वसुभूतिः, दीनदास इति । तथा च यमः—
+
+**'शर्म देवश्च विप्रस्य वर्म त्राता च भूभुजः ।**
+
+**भूतिदत्तश्च वैश्यस्य दासः शूद्रस्य कारयेत्' ॥**
+
+विष्णुपुराणेऽप्युक्तम्—
+
+**शर्मवद्ब्राह्मणस्योक्तं वर्मेति क्षत्रसंयुतम् ।**
+
+**गुप्तदासात्मकं नाम प्रशस्तं वैश्यशूद्रयोः ॥३२॥**
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+उपपदनियमार्थम् आह – **शर्मवद् ब्राह्मणस्येति** । शर्मरक्षापुष्टिप्रेष्यवाचकान्य् एषां यथाक्रमं शर्मपालपुष्टिदासान्य् उपपदानि स्युः । उदाहरणानि भद्रशर्मा शक्तिपालो धनपुष्टो दीनदास इति ॥ २.३२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 032	(The second part of) a Brahmana's (name) shall be (a word) implying happiness, of a Kshatriya's (a word) implying protection, of a Vaisya's (a term) expressive of thriving, and of a Sudra's (an expression) denoting service.
@@ -1317,7 +1496,7 @@ These titles have been thus explained by Āśvalāyanāchārya:—‘The name of
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.३३ स्त्रीणाम्</summary>
 
 स्त्रीणां सुखोद्यम् अक्रूरं  
 विस्पष्टार्थं मनोहरम् ।  
@@ -1336,8 +1515,10 @@ That of women should be easily pronouncible, not harsh, of plain meaning, heart-
 
 पुंस इत्य् अधिकृतत्वात् स्त्रीणाम् अप्राप्तौ नियम्यते । सुखेनोद्यते **सुखोद्यम्** । स्त्रीबालैर् अपि यत् सुखेनोच्चारयितुं शक्यते तत् स्त्रीणां नाम कर्तव्यम् । बाहुल्येन स्त्रीणां स्त्रीभिर् बालैश् च व्यवहारस् तेषां च स्वकरणसौष्टवाभावान्[^१६४] न सर्वं संस्कृतं शब्दम् उच्चारयितुं शक्तिर् अस्ति । अतो विशेषेणोपदिश्यते । न तु[^१६५] पुंसाम् असुखोद्यम् अभ्यनुज्ञायते । उदाहरणं मङ्गलदेवी चारुदती सुवनदेत्यादि । प्रत्युदाहरणं शर्मिष्ठा सुश्लिष्टाङ्गीति । **अक्रूरम्** अक्रूरार्थवाचि । क्रूरार्थवाचि क्रूरार्थं डाकिनी परुषेति । **विस्पष्टार्थं** यस्यार्थो व्याख्यानगम्यो न भवति, श्रुत एव विदुषाम् अविदुषां वार्थप्रतीतिं करोति । अविस्पष्टार्थं यथा- कामनिधा कारीषगन्ध्येति । कामस्य निधेव निधा तया कामस् तत्रैव तिष्ठतीति । एवं यावन् न व्याख्यातं तावन् नावगम्यते । एवं कारीषगन्धेर् दुहिता कारीषगन्ध्येति व्याख्यानम् अपक्ष्यते । **मनोहरं** चित्ताह्लादकरम्- आश्रेयसी । विपरीतं तु- कालाक्षी । शर्मवती रुद्रवतीति **मङ्गल्यम्** । विपरीतम्- अभागा मदभागेति । **दीर्घो वर्णो ऽन्ते** यस्य । विपरीतम्- शरत् । आशिषं वदतीत्य् **आशीर्वादम्** । **अभिधानं** शब्दः । तयोर् विशेषणसमासः । तद् यस्मिन्न् अस्ति विद्यते तद् **आशीर्वादाभिधानवत्**- सपुत्रा बहुपुत्रा कुलवाहिकेति । एते ह्य् अर्था आशीर्विषया । वपरीता- अप्रशस्ता अलक्षणेति । अथ मङ्गल्यस्याशीर्वादस्य च को विशेषः । न कश्चित् । वृत्तपूर्णार्थं तु भेदेनोपादानम् ॥ २.३३ ॥
 
+
 [^१६५]:
      M G 1st ed.: tat tu
+
 
 [^१६४]:
      M G: svakāraṇa-
@@ -1403,6 +1584,16 @@ should consist of three letters and should end in the long *ī*.’
 contain an even number of letters, and of females odd number of letters.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सुखोच्चार्यमक्रूरार्थवाचि व्यक्ताभिधेयं मनःप्रीतिजननं मङ्गलवाचि दीर्घस्वरान्तं आशीर्वाचक्रेनाभि-धानेन शब्देनोपेतं स्त्रीणां नाम कर्तव्यम् । यथा यशोदादेवीति ॥३३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्त्रीणाम्** इति । सुसुखोच्चारणम् अक्रूरार्थवाचि विस्पष्टार्थं मनःप्रीतिकरं मङ्गलवाचि दीर्घाक्षरान्तम् आशीर्वाचकेनाभिधानेन शब्देन संसक्तं नाम् स्त्रीणां कार्यम् । यथा अमरदेवी इति ॥ २.३३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 033	The names of women should be easy to pronounce, not imply anything dreadful, possess a plain meaning, be pleasing and auspicious, end in long vowels, and contain a word of benediction.
@@ -1417,7 +1608,7 @@ contain an even number of letters, and of females odd number of letters.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.३४ चतुर्थे मासि</summary>
 
 चतुर्थे मासि कर्तव्यं  
 शिशोर् निष्क्रमणं गृहात् ।  
@@ -1542,6 +1733,20 @@ shown the moon; O King, the taking out of the house should be done on the twelft
 during the third fortnight.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चतुर्थे मासे बालस्य जन्मगृहान्निष्क्रमणमादित्यदर्शनार्थं कार्यम् । अन्नप्राशनं च षष्ठे मासे । अथवा कुलधर्मत्वेन यन्मङ्गलमिष्टं तत्कर्तव्यं तेनोक्तकालादन्यकालेऽपि निष्क्रमणम् । तया च यमः—
+
+**ततस्तृतीये कर्तव्यं मासि सूर्यस्य दर्शनम् ।**
+
+सकलसंस्कारशेषश्चायम् । तेन नाम्नां शर्मादिकमप्युपपदं कुलाचारेण कर्तव्यम् ॥३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चतुर्थ** इति । **चतुर्थे मासि **बालस्य **गृहान् निष्क्रमणं** कर्तव्यम् । **षष्ठे चान्नप्राशनम्** । यथाकुलधर्मत्वेन **मङ्गलम् इष्टम्**, यया नाम्या स्वाम्याद्युपपदपरिग्रहः तथा कर्तव्यं पूर्वोक्तं च ॥ २.३४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 034	In the fourth month the Nishkramana (the first leaving of the house) of the child should be performed, in the sixth month the Annaprasana (first feeding with rice), and optionally (any other) auspicious ceremony required by (the custom of) the family.
@@ -1554,7 +1759,7 @@ during the third fortnight.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.३५ चूडाकर्म</summary>
 
 चूडाकर्म द्विजातीनां  
 सर्वेषाम् एव धर्मतः ।  
@@ -1573,8 +1778,10 @@ In view or the injunctions or the Veda, the Tonsure-ceremony of all twice-born c
 
 **चूडा** शिखा । तदर्थं कर्म **चूडाकर्म** । केषुचिन् मूर्द्धदेशेषु केशानां स्थापनां रचनाविशेषश् चैतच् चूडाकर्मोच्यते । **प्रथमवर्षे तृतीये वा** । ग्रहसौस्थित्या[^१६६] विकल्पः । **श्रुतिनोदनाद्** इत्य् अनुवादस् तन्मूलतयैव प्रामाण्यस्योक्तत्वात् । अथ वा श्रुतिशब्देन न विधायकान्य् एव वाक्यान्य् उच्यन्ते । किं तर्हि, मन्त्राः । ते च चूडाकर्म "याञ् जनाः"[^१६७] (पार्ग् ३.२.२) इतिवद् अदृष्टं प्रकाशयन्ति- "यत् क्षुरेण मार्जयेत" (पार्ग् २.१.१९) इत्यादि तेन समन्त्रकम् एतत् कर्मेत्य् उक्तं भवति । विशेषापेक्षायां गार्ह्यो विधिर् अङ्गीक्रियते । अतः शूद्रस्य नायं संस्कारः, द्विजातिग्रहणाच् च । अनियतकालं तु केशवपनं शूद्रस्यार्थप्राप्तं न निवार्यते ॥ २.३५ ॥
 
+
 [^१६७]:
      M G: cūḍākarmavyañjanā
+
 
 [^१६६]:
      J: -sausthiyāpekṣā
@@ -1675,6 +1882,16 @@ fifth year.’
 *Vyāsa* (Do.).—\[Lays down the auspicious days, etc.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चूडाकरण प्रथमे वर्षे तृतीये वा द्विजातीनां धमतो धर्मार्थं कार्यम्, श्रुतिचोदनात् । “यत्रबाणाः सम्पतन्ति कुमारा विशिखा इव" इति मन्त्रलिङ्गात्कुलधर्मानुसारेणायंव्यवस्थितविकल्पः । अत एवाश्वलायनगृह्यम्–"तृतीये वर्षे चौलं यथाकुलधर्मं वा” ( अ. १ खं. १७ ) ॥३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चूडाकर्मेति** । **द्विजातीनां प्रथमे **वर्षे **तृतीये वा **चूडाकरणम् । **धर्मतो** धर्मेणादृष्टार्थं कार्यम्, “ॐ यत्र बाणाः सम्पतन्ति कुमारा विशिखा इव” इति श्रुतिलिङ्गात् । अनेनैतद् दर्शयति – यद् एवं प्रायाः वेदलिङ्गमूलाः स्मृतय इति ॥ २.३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 035	According to the teaching of the revealed texts, the Kudakarman (tonsure) must be performed, for the sake of spiritual merit, by all twice-born men in the first or third year.
@@ -1687,7 +1904,7 @@ fifth year.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.३६ गर्भाष्टमे</summary>
 
 **गर्भाष्टमे** ऽब्दे कुर्वीत  
 ब्राह्मणस्योपनायनम् ।  
@@ -1705,6 +1922,7 @@ In the eighth year from conception one should perform the initiation of the Brā
 <details><summary>मेधातिथिः</summary>
 
 गर्भस्थस्य यः संवत्सरस् तत आरभ्यते यो ऽष्टमो ऽब्दः । गर्भशब्देन[^१६८] साहचर्यात् संवत्सरो लक्ष्यते । न हि मुख्यया वृत्त्या गर्भस्य संवत्सरो ऽष्टम इति व्यपदेशं लभते । तस्मिन्न् **औपनायनं ब्राह्मणस्य कुर्वीत** । उपनयनम् एवौपनायनं स्वार्थिको ऽण् । "अन्येषाम् अपि दृश्यते" (पाण् ६.३.१८७) इत्य् उत्तर्पदस्य दीर्घः । छान्दसत्वाद् वोभयपदवृद्धिः । उपनयनम् इति हि एष संस्कारो वेदविदां गृह्यस्मृतिषु प्रसिद्धो माउज्ञीबन्धनापरपर्यायः । उपनीयते समीपं प्राप्यते येनाचार्यस्य स्वाध्यायाध्ययनार्थं कुड्यं कटं वा कर्तुं तद् उपनयनम् । विशिष्टस्य संस्कारकर्मणो नामधेयम् एतत् । 
+
 
 [^१६८]:
      M G: garbhaśabde
@@ -1796,6 +2014,16 @@ his eighth year from conception, during the spring.'
 or in his eighth year from conception; the Kṣattnya in the eleventh and the Vaiśya in the twelfth year.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गर्भवर्षादष्टमे वर्ष ब्राह्मणस्योपनायनं कर्तव्यम् । उपनयनमेवोपनायनम् । “अन्येषामपि दृश्यते ( पा० सू०.६ / ३ / १३७ ) इति दीर्घः । गभकादशे क्षत्रियस्थ गर्भद्वादशे वैश्यस्य ॥३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गर्भाष्टम** इति । गर्भग्रहणसंवत्सरद् **अष्टमे **संवत्सरे **ब्राह्मणस्य,** उपनयनम् एव्**ओपनायनं** मौञ्जीबन्धनं कर्तव्यम् । एवं गर्भैकादशे क्षत्रियस्य गर्भद्वादशे वैश्यस्य ॥ २.३६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 036	In the eighth year after conception, one should perform the initiation (upanayana) of a Brahmana, in the eleventh after conception (that) of a Kshatriya, but in the twelfth that of a Vaisya.
@@ -1811,7 +2039,7 @@ or in his eighth year from conception; the Kṣattnya in the eleventh and the Va
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.३७ ब्रह्मवर्चसकामस्य</summary>
 
 ब्रह्मवर्चस-कामस्य  
 कार्यो विप्रस्य **पञ्चमे** ।  
@@ -1834,10 +2062,12 @@ For the Brāhmaṇa desirous of Brahmic glory, it should be done in the fifth ye
 
 - <u>नैष दोषः</u> । स्येनवद् एतद् भविष्यति । श्येनम् अभिचरन् करोत्य् अभिचर्यमाणश् च म्रियते । अथोच्यते कामिन एवैतत् फलम् । शत्रुमरणं हि यजमानः कामयते । तद् एव प्राप्नोतीति नाकर्तृगामिता फलस्य । अत्रापि विशिष्टपुत्रवत्तालक्षणम् उपनेतुर् एव फलम् । यथा पुत्रस्यारोग्येण पितुः प्रीतिः, एवं ब्रह्मवर्चसेनाप्य् अतो ऽधिकृतस्य कर्तुश् च तत्फलम् अन्वयानुसारी हि शास्त्रार्थावसायः । इह च पुत्रस्य फलकामेनैवं कर्तव्यम् इत्य् अन्वयः प्रतीयते । न च यथाश्रुतान्वयत्यागे[^१६९] किंचन प्रमाणम् अस्ति । एतेन पितुर् और्धव्देहिकः पुत्रकृत उपकारो व्याख्यातः । तत्रापि हि पुत्रः कर्ता पितृतृप्तिश् च फलम् । तथा च लिङ्गं "अत्मा वै पुत्रनामासि" (पार्ग् १.१६.१८) इति । पित्रैव हि तावच् छ्राद्धम् आत्मसंप्रदानकं वस्तुतः कृतम् एव येनापत्योत्पादनम् एवमर्थम् एव कृतम् । यथा सर्वस्वारे मृतस्यार्भकावमानात् ये पराञ्चः पदार्थास् तेष्व् अपि यजमानस्यैव कर्तृत्वम् । "ब्राह्मणाह् संस्थापयत यज्ञम्" इत् प्रैषेण, दक्षिणाभिर् वरणेन वा प्रयोगसमाप्ताव् ऋत्विजां विनियोक्तृत्वात्, एवम् इहापि तादर्थ्येन पुत्रस्योत्पादनात्, यच् छ्राद्धादिकं पित्रर्थं क्रियते पित्रैव तत्कृतं भवति । अध्ययनविज्ञानसंपन्नं **ब्रह्मवर्चसम्** ।
 
+
 [^१६९]:
      M G 1st ed.: yathāśrutānavāparo
 
 - **बलं** सामर्थ्यम् आभ्यन्तरं ब्राह्मं च । उत्साहशक्तिर् महाप्राणता चेत्य् एतद्[^१७०] आभ्यन्तरम्, बाह्यं च हस्त्यश्वरथपदातिकोशसंपत् । तद् उक्तम्- "स्वाङ्गाभ्युच्चयं सांयौगिकानां चार्थानाम्" (निर् १.२) इति । 
+
 
 [^१७०]:
      M G: -prāṇatā cetad
@@ -1845,6 +2075,7 @@ For the Brāhmaṇa desirous of Brahmic glory, it should be done in the fifth ye
 - **ईहा** चेष्टा । बहुना धनेन कृषिवाणिज्यादिव्यवहारः । 
 
 - सर्वत्र गर्भादिसंख्या च[^१७१] वर्षाणाम्, **गर्भाद्** इति ह्य् अनुवर्तते ॥ २.३७ ॥
+
 
 [^१७१]:
      J omits: ca
@@ -1902,6 +2133,16 @@ strength, it should be performed during the sixth or the twelfth year, respectiv
 is desired; during the eighth, if longevity is desired; during the ninth, if brilliance is desired; during the tenth, if food is desired; during the eleventh, if efficient sense-organs are desired; during the twelfth, if cattle is desired; during the thirteenth, if intelligence is desired; during the fourteenth, if stoutness is desired; during the fifteenth, if the birth of a brother’s son is desired; and during the sixteenth, if all desirable things are desired.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदाध्ययनतदर्थज्ञानादिप्रकर्षकृतं तेजो ब्रह्मवर्चसंतत्कामस्य ब्राह्मणस्य गर्भपञ्चमे वर्षे उपनयनं कार्यम् । क्षत्रियस्य हस्त्यश्वादिराज्यबलार्थिनो गर्भषष्ठे । वैश्यस्य बहुकृष्यादिचेष्टार्थिनो गर्भाष्टमे, गर्भवर्षाणामेव प्रकृतत्वात् । यद्यपि बालस्य कामना न सम्भवति तथापि तत्पितुरेव तद्गतफलकामना तस्मिन्नुपचर्यते ॥३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्रह्मवर्चसकामस्येति** । अध्ययनविज्ञानाद्यतिशयकृतं तेजो **ब्रह्मवर्चसं **बालस्य विशेषविज्ञानाभावात् तद् युक्तः पुत्रो मे भवेद् इत्य् एवंविधपितृकामना फलास्पदत्वात् पुत्रो ऽप्य् उपदिश्यते ब्रह्मवर्चसकाम इति । तस्य ब्राह्मणस्य** **गर्भपञ्चमे ऽब्दे उपनयनं कार्यम् । एवं क्षत्रियस्य हस्त्यश्वबाहुवीर्यादि ब्राह्माभ्यन्तरबलार्थिनो गर्भषष्ठे, **वैश्यस्य** बहुकृष्यादिचेष्टार्थिनो गर्भाष्टमे, गर्भसंवत्सराणाम् एव प्रकृतत्वात् ॥ २.३७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 037	(The initiation) of a Brahmana who desires proficiency in sacred learning should take place in the fifth (year after conception), (that) of a Kshatriya who wishes to become powerful in the sixth, (and that) of a Vaisya who longs for (success in his) business in the eighth.
@@ -1914,7 +2155,7 @@ is desired; during the eighth, if longevity is desired; during the ninth, if bri
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.३८ आ षोदशाद्</summary>
 
 आ षोदशाद् ब्राह्मणस्य  
 सावित्री नाऽतिवर्तते ।  
@@ -1933,13 +2174,16 @@ For the Brāhmaṇa the Sāvitrī does not lapse till the sixteenth year; for th
 
 एवं तावन् मुख्यकाम्याव् उपनयनकालाव् उक्तौ । इदानीं पितुर् अभावे व्याध्यादिना वा कथंचिद् अनुपनीते माणवके कालातिपत्ताव् अनुपनेयता प्राप्ता, सत्य् अपि कालस्याङ्गत्वे तदभावे ऽधिकारनिवृत्तेः,[^१७२] यथा सायंप्रातःकालातिपत्ताव् अग्निहोत्रस्याकरणे । अतो विहितकालव्यतिरेकेण प्रतिप्रसवार्थम् इदम् आरभ्यते । **यावत् ष्ōडशं** वर्षं गर्भाद् आरभ्य तावद् ब्राह्मणस्योपनयनर्हता न निवर्तते । सावित्रीशब्देन तदनुवचनसाधनम् उपनयनाख्यं कर्म लक्ष्यते । **नातिवर्तते** नातिक्रान्तकालं भवतीत्य् अर्थः । 
 
+
 [^१७२]:
      M G: -nivṛtte
 
 - एवम् **आ द्वाविंशात् क्षत्रबन्धोः** क्षत्रियजातीयस्येत्य् अर्थः । बन्धुशब्दो ऽयं क्वचित् कुत्सायां प्रवर्तते । यत् स्वं कथं वेत्स[^१७३] ब्रह्मबन्ध[^१७४] इति । ज्ञातिवचनः यथा,
 
+
 [^१७४]:
      M G: -bandhāv; J: -bandhav; this is probably a vocative: brahmabandho
+
 
 [^१७३]:
      M G: ceccha
@@ -2067,6 +2311,24 @@ the ‘Apostate’ as Yājñavalkya.)
 *Yama* (Vīramitrodaya-Saṃskāra, p. 347).—(Same as Manu, 39.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अभिविधावाङ् । ब्राह्मणक्षत्रियविशामुक्ताष्टमैकादशद्वादशवर्षद्वैगुण्यस्य विवक्षितत्वात्षोडशवर्षपर्यन्तं, ब्राह्मणस्य सावित्र्यथ वचनमुपनयनं नातिक्रान्तकालं भवति । क्षत्रियस्य द्वाविंशतिवर्षपर्यन्तम् । वैश्यस्य चतुर्विंशतिवर्षपर्यन्तम् । अत्र मर्यादायामाङ् केचिद्व्याख्यापयन्ति, यमवचनदर्शनात् । तथा च यमः—
+
+**पतिता यस्य सावित्री दश वर्षाणि पञ्च च ।**
+
+**ब्राह्मणस्य विशेषेण तथा राजन्यवैश्ययोः ॥**
+
+**प्रायश्चित्तं भवेदेषां प्रोवाच वदतां वरः ।**
+
+**विवस्वतः सुतः श्रीमान्यमो धर्मार्थतत्त्ववित् ॥**
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अनुकल्पम् आह – **आ षोडशाद्** इति । “छन्दः पादाक्षरवद् अब्दसमवाये उपनयनम्” इति हारीतस्मरणात् । आङो ऽभिविध्यर्थत्वेन षडशवर्षं यावत् **ब्राह्मणस्य सावित्र्य्**अनुवचनसाधनम् उपनयनं नातिक्रान्तकालं भवति । **द्वाविंशं** यावत् क्षत्रियजातीयस्य । **चतुर्विंशं **यावत् वैश्यस्य । उपनयनं च पुरुषस्य संस्कारः कार्यः शरीरसंस्कार इति आम्नानात् न तु तदनन्तरं वेदाध्ययनदर्शनात् ब्रह्मसंस्कारस्य (त्व) भ्रान्तिः कार्याः । तत्रानुमानिकत्वात् ॥ २.३८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 038	The (time for the) Savitri (initiation) of a Brahmana does not pass until the completion of the sixteenth year (after conception), of a Kshatriya until the completion of the twenty-second, and of a Vaisya until the completion of the twenty-fourth.
@@ -2079,7 +2341,7 @@ the ‘Apostate’ as Yājñavalkya.)
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.३९ अत ऊर्ध्वम्</summary>
 
 अत ऊर्ध्वं त्रयो ऽप्य् एते  
 यथाकालम् असंस्कृताः ।  
@@ -2100,8 +2362,6 @@ Beyond this, all these three, not having received the sacrament at the proper ti
 
 [^१७५]:
      M G: pūrveṇa ca
-
-_उक्तम् "आर्यैर् निन्दितः" इति ।_ _का पुनर् एषां निन्देत्य् आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -2136,6 +2396,16 @@ Yama both.
 See Comparative notes for [Verse 2.38].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एते ब्राह्मणादयो यथाकालं यो यस्यानुकल्पिकोऽप्युपनयनकाल उक्तः षोडशवर्षादिपर्यन्तं तन्नासंस्कृतास्तदूर्ध्वे सावित्रीपतिता उपनयनहीनाः शिष्टगर्हिता व्रात्यसंज्ञाभवन्ति । संज्ञाप्रयोजनं च "व्रात्यानां याजनं कृत्वा " ( म० स्मृ० ११-१९७ )इत्यादिना व्यवहारासद्धिः ३
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अत ऊर्ध्वम्** इति । **एते** **यथाकालं** यो यस्योपनयनकालः तत्रोपकल्पिते ऽपि **असंस्क्र्ताः **सन्तः अस्मात् कालात् **ऊर्वं सावित्रीपतिताः** उपनयनभ्रष्टाः शिष्ट**विगर्हिताः **सन्तो **व्रात्य**सञ्ज्ञा भवन्ति । सञ्ज्ञाविधानं “व्रात्यानां याजनं कृत्वा” इत्य् एवमादिव्यवहारार्थम् ॥ २.३९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 039	After those (periods men of) these three (castes) who have not received the sacrament at the proper time, become Vratyas (outcasts), excluded from the Savitri (initiation) and despised by the Aryans.
@@ -2148,7 +2418,15 @@ See Comparative notes for [Verse 2.38].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_उक्तम् "आर्यैर् निन्दितः" इति ।_ _का पुनर् एषां निन्देत्य् आह ।_
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.४० नैतैर् अपूतैर्</summary>
 
 नैतैर् अपूतैर् विधिवद्  
 आपद्य् अपि हि कर्हि चित् ।  
@@ -2167,16 +2445,20 @@ The Brāhmaṇa should not in ant case, even in times of distress, establish spi
 
 **एतैर्** व्रात्यैर् **अपूतैर्** अकृतप्रायश्चित्तैर् **विधिवद्** यादृशो विधिः प्रायश्चित्ते[^१७६] शास्त्रेणोपदिष्टः तांश् चारयित्वा "त्रीन् कृच्छान्" इत्य् **आपद्य् अपि हि कर्हिचित्** कस्यांचिद् अप्य् आपदि न **संबन्धान् आचरेत्** कुर्यात् तैः **सह** । 
 
+
 [^१७६]:
      G 1st ed.: prāyaścitta
 
 - किं सर्वसंबन्धनिषेधः । नेत्य् आह- **ब्राह्मान् यौनांश् च** । ब्रह्म वेदः । तन्निमित्ताः संबन्धा याजनाध्यापनप्रतिग्रहाः[^१७७] । न ते याज्याः न याजकाः कर्तव्याः । एवं नाध्याप्या नैतेभ्यो ऽध्येतव्यम् । वेदार्थं विदुषः प्रतिग्रहाधिकाराद् एषो ऽपि ब्राह्मसंबन्धो भवति । यौनः संबन्धः कन्याया दानादाने । ब्राह्मणग्रहणं प्रदर्शनार्थम् । अस्माच् च दोषदर्शनाद् व्रात्यतापरिहारार्थे पितुर् अभावे ऽपि व्युत्पन्नबुद्धिना माणवकेनाप्य् आत्मनात्मोपनाययितव्य इति प्रतीयते । काम्यो ह्य् अयम् आचार्यस्य विधिः । तत्राचार्यत्वम् अकामयमानो यदि कश्चिन् न पर्वर्तते तदा माणवकेन प्रार्थयितव्यो दक्षिणादिना[^१७८] । तथा च श्रुतिः- "सत्यकामो जाबालः हारिद्रुमतं[^१७९] गौतमम् इयाय ब्रह्मचर्यं भवति वक्ष्यामि" (छु ४.४.३) इति, स्वयम् आचार्यम् अभ्यर्थितवान् उपनयनार्थम् ॥ २.४० ॥
 
+
 [^१७९]:
      M G 1st ed.: sahahāridrumaṃtaṃ; G 2nd ed.: hāridrumaṃtaṃ
 
+
 [^१७८]:
      M G 1st ed. omit: kāmyo hy ayam . . . dakṣiṇādinā |
+
 
 [^१७७]:
      M G give accusative plurals: -mittān saṃbandhān ...-pratigrahān
@@ -2233,6 +2515,16 @@ for the apostate until he passes through the Upanayana; so long as he is not bor
 Vedic (tutorial), or marital or commercial,—should he ever held with them by any cultured person who is true to his *dharma*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतैरपूतैर्व्रात्यैर्यथाविधिप्रायश्चित्तमकृतवाद्भः सह आपत्कालेऽपि कदाचिदध्यापनकन्यादानादीन् सम्बन्धान्ब्राह्मणो नानुतिष्ठेत् ॥४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यावद् **विधिवत्** यथाशास्त्रं एते अपूताः कृतप्रायश्चित्ता न भवन्ति तावद् **एतैः सहापद्य् अपि **कदाचित् अध्ययनकन्यादानादीन् **सम्बन्धान् **ब्रह्मणो **नाचरेत् **॥ २.४० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 040	With such men, if they have not been purified according to the rule, let no Brahmana ever, even in times of distress, form a connexion either through the Veda or by marriage.
@@ -2247,7 +2539,7 @@ Vedic (tutorial), or marital or commercial,—should he ever held with them by a
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.४१ कार्ष्णरौरवबास्तानि</summary>
 
 कार्ष्ण-रौरव-बास्तानि  
 चर्माणि ब्रह्मचारिणः ।  
@@ -2268,8 +2560,10 @@ Brahmacāris should wear the skin of the black (deer), of the Ruru deer and of t
 
 - <u>ननु</u> चान्तरेणापि वचनं लोकत एवैतत् सिद्धम् "चूर्णिताक्षिप्तदग्धानां वज्रानिलहुताशनैः" (म्भ् ७.६६.१८) इति यथाक्रमं संबन्धप्रतिपत्तिः, चूर्णिता वज्रेणाक्षिप्ताः अनिलेन दग्धा अग्निनेति । <u>उच्यते</u> । भवेद् एतद् एवं यदि भेदेन निर्देशः स्यात् समसंख्यात्वं च । इह तु ब्रह्मचारिण इत्य् एकशब्दोपादानान् न क्रमो ऽवगम्यते । त्रयश् च ब्रह्मचारिणः । षड् अनुदेशिनः त्रीणि चर्माणि त्रीणि[^१८०] वस्त्राणि । आनुपूर्व्यग्रहणे[^१८१] तु सति वाक्यान्तरोपात्तः क्रम आश्रीयते । तथा च चर्मभिः संबध्य पुनर् ब्रह्मचारिपदम् आवर्त्य वासोभिः संबध्यते । ततः संख्यासाम्यसिद्धिः । ईदृश एव विषये भगवता पाणिनिना यत्नः कृतः "यथासंख्यम् अनुदेशः समानाम्" इति (पाण् १.३.१०) ॥ २.४१ ॥
 
+
 [^१८१]:
      M G: ānupūrvagrahaṇe
+
 
 [^१८०]:
      M G 1st ed. omit: trīṇi
@@ -2415,6 +2709,16 @@ black deer; for the Kṣatriya, of the spotted deer; for the Vaiśya of the goat
 The size of the ‘skin’ to be worn has been prescribed by Śākala (Vīramitrodaya-Saṃskāra, p. 414)—as ‘48 *aṅgulas* long and 4 *aṅgulas* broad.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कार्ष्ण इति विशेषानभिधानेऽपि मृगविशेषरुरुसाहचर्यात् "हारिणसैणेयं वा कार्ष्णं वा ब्राह्मणस्य" इत्यापस्तम्बवचनाच्च कृष्णमृगो गृह्यते । कृष्णमृगरुरुच्छागचर्माणि ब्रह्मचारिण उत्तरीयाणि वसीरन् । “चर्माण्युत्तरीयाणि” इति वचनात् । तथा शणक्षुमामेषलोमभवान्यधोवसनानि ब्राह्मणादयः क्रमेण परिधीरन्॥४१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कार्ष्णरौरवबास्तानीति **। **कार्ष्ण** इति सामान्याभिधाने ऽपि रुर्वाख्यमृगसम्बन्धात् कृष्णमृगरुरुछागचर्माणि **ब्रह्मचारिणः** उत्तरीयाणि **वसीरन् **। “चर्माणि उत्तरीयानि” इति गृह्यवचनाच् च । शाणक्षुमोर्णामयानि अर्थात् परिधानीयानि वासांशि **वसीरन्** । आनुपूर्व्यग्रहणं क्रमार्थम् । “शाणं क्षौमं चाब्राह्मणस्य” इति गृह्यदर्शनात् एतयोर् ब्राह्मणगतत्वाभ्रान्त्या विषमसङ्ख्यत्वे सति यथाक्रमसम्बन्धात् ॥ २.४१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 041	Let students, according to the order (of their castes), wear (as upper dresses) the skins of black antelopes, spotted deer, and he-goats, and (lower garments) made of hemp, flax or wool.
@@ -2427,7 +2731,7 @@ The size of the ‘skin’ to be worn has been prescribed by Śākala (Vīramitr
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.४२ मौञ्जी त्रिवृत्</summary>
 
 मौञ्जी त्रिवृत् समा श्लक्ष्णा  
 कार्या विप्रस्य मेखला ।  
@@ -2498,6 +2802,30 @@ of Muñja grass; of the Kṣatriya of the bowstring made of Murvā grass; and th
 grass.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मञ्जमयी त्रिगुणा समगुणत्रयनिर्मिता सुखस्पर्शाब्राह्मणस्यमेखला कर्तव्या । क्षात्रयस्य
+
+इत्यनुवृत्तौ—
+
+**प्राणार्थं मां सदा ध्यायेत्स मां सम्पूजयेत्सदा ।**
+
+**अनिन्दंश्चैतदद्यात्तु दृष्ट्वा हृष्येत्प्रसीदेच्च ॥ इति ।**
+
+हेत्वन्तरमपि खेदमन्नदर्शनेन त्यजेत् । प्रतिनन्देत् नित्यमस्माकमेतदस्त्वित्यभिधाय वन्दनं प्रतिनन्दनम् । तदुक्तमादित्यपुराणे—
+
+**अन्नं दृष्ट्वा प्रणम्यादौ प्राञ्जलिः कथयेत्ततः ।**
+
+**अस्माकं नित्यमस्त्वेतदिति भक्त्या स्तुवन्नमेत् ॥**
+
+सशः सर्वर्वमन्नम् ॥१४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मौञ्जीति** । मुञ्जाख्या कक्षम्यी त्रिगुणा समगुणा अपरुषा ब्राह्मणस्य **मेखला **कार्या । **क्षत्रियस्य **तु मूर्वामयी **ज्या** धनुर्गुणः मेखला कार्या । अत्र च ज्यात्वविनाशापत्तेः त्रिवृत्वं नास्ति पूर्वासां (पूर्वेषां) गान्धिषु (ग्रन्थेषु) तथा प्रसिद्धेः । **वैश्यस्य शाण**सूत्रमयी । अत्र च त्रैगुण्यम् अनुवर्तते गुणानाम् अपेक्षणात्, गृह्यस्मृतौ च गुणाम्नानात् ॥ २.४२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 042	The girdle of a Brahmana shall consist of a of a triple cord of Munga grass, smooth and soft; (that) of a Kshatriya, of a bowstring, made of Murva fibres; (that) of a Vaisya, of hempen threads.
@@ -2510,7 +2838,7 @@ grass.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.४३ मुञ्जालाभे तु</summary>
 
 मुञ्जालाभे तु कर्तव्याः  
 कुशाश्मन्तक-बल्वजैः ।  
@@ -2582,6 +2910,11 @@ consist of Kuśa, Ashman taka and Balvaja.’
 be made triplicated; turned round three times; its knots should he three or five or seven.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**मुञ्जालाभ** इति । त्रयाणां ब्रह्मचारिणां प्रकृतत्वाद् अभावस्य तुल्यत्वात् कौशादीनां बह्वीनाम् उपादानं **मुञ्जालाभे **मुञ्जाद्यलाभ इति व्याचक्षते । मुञ्जाद्यभावे कुशादिभिः यथाक्रमं ब्राह्मणादिभिः कर्तव्याः कुशादयस् तृणविशेषाः । एताश् च त्रिगुणेन **ग्रन्थिनैकेन त्रिभिर् वा पञ्चभिर् वा** कार्याः । **वा**शब्दात् ग्रन्थीनां विप्रादिभिः क्रमसम्बन्धाभावः, ग्रन्थिभेदश् चायं मुख्यास्व् अपि भवति, “वित्तस्य समो ऽसि दैव्यो ग्रन्थिर् असि मा विश्रंस” इति ग्रन्थिं कृत्वा इति लौगाक्षिणा मुख्यासु ग्रन्थ्याम्नानात् । ग्रन्थिसङ्ख्याभेदं च त्रैविद्यविदः स्मरन्ति ॥ २.४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 043	If Munga grass (and so forth) be not procurable, (the girdles) may be made of Kusa, Asmantaka, and Balbaga (fibres), with a single threefold knot, or with three or five (knots according to the custom of the family).
@@ -2594,7 +2927,7 @@ be made triplicated; turned round three times; its knots should he three or five
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.४४ कार्पासम्</summary>
 
 कार्पासम् उपवीतं स्याद्  
 विप्रस्योर्ध्ववृतं त्रिवृत् ।  
@@ -2615,11 +2948,14 @@ The Sacrificial Thread worn over the shoulder,—which is triple and twisted upw
 
 - **ऊर्ध्ववृत्तम्** ऊर्ध्वां दिशं दिशं प्रतिवर्त्यते वेष्ट्यते । **त्रिवृत्** त्रिगुणम् । कर्तनिकाभ्यो लब्धसूत्रभावस्य त्रिगुणीकृतस्येदम् ऊर्ध्वनिवर्तनं[^१८३] विधीयते । संहत्य तन्तुत्रयम् ऊर्ध्ववेष्टनेन रज्ज्वाकारं कृत्वा तेनोपवीतं कुर्यात् । सा च रज्जुर् एकैव धारयितव्या, तिस्रः पञ्च सप्त वा । यज्ञसंबन्धाद् धि तद् यज्ञोपवीताख्यां[^१८४] लभते । यज्ञार्थो ऽयम् उद्यते इति भक्त्योपचर्यते । तत्रेष्टिपशुसोमानां यज्ञरूपतयैकत्वाद् एकतन्तुकं क्रियते । अग्नित्रयसाध्यत्वाद् अहीनैकाहसत्रभेदाद् वा त्रितन्तुकम् । सोमसंस्थानां सप्तसङ्ख्यत्वात् सप्त वा तन्तवः । "त्रीणि सवनानि त्रिसंध्येन" इति पञ्च । सूत्राभावे[^१८५] पटादिनापि कर्तव्यम् । स्मृत्यन्तर एवम् उक्तम् । 
 
+
 [^१८५]:
      M G: pañcasūtrābhāve
 
+
 [^१८४]:
      G: -ākhyaṃ
+
 
 [^१८३]:
      M G 1st ed.: triguṇīkṛtavedamūrdhani vartanaṃ
@@ -2729,6 +3065,11 @@ should be worn on the left shoulder (technically called *Upavīta*); during thos
 men, *Prachīnāvīta* for Pitṛs and *Upavīta* for Gods.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**कार्पासम्** इति । भाविन्य् **उपवीत**सञ्ज्ञा यस्य विशिष्टन्यासस्य तद् **विप्रा**दीनां कार्पासशणोर्णामयं यथाक्रमं कार्यम् । **त्रिवृत् **त्रिगुणं सत् **ऊर्ध्ववृतं **दक्षिणावर्तचलितम् ॥ २.४४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 044	The sacrificial string of a Brahmana shall be made of cotton, (shall be) twisted to the right, (and consist) of three threads, that of a Kshatriya of hempen threads, (and) that of a Vaisya of woollen threads.
@@ -2741,7 +3082,7 @@ men, *Prachīnāvīta* for Pitṛs and *Upavīta* for Gods.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.४५ ब्राह्मणो</summary>
 
 ब्राह्मणो बैल्व-पालाशौ  
 क्षत्रियो वाट-खादिरौ ।  
@@ -2759,6 +3100,7 @@ The Brāhmaṇa should, by law, have staves of Bilva and Palāśa wood; the Kṣ
 <details><summary>मेधातिथिः</summary>
 
 सत्य् अपि द्वन्द्वनिर्देशे गुणविधिष्व् एकत्वश्रवणात् "केशान्तकः" (म्ध् २.४६) इति "प्रतिगृह्येप्सितं दण्डम्" (म्ध् २.४८) इति च विकल्पितम् एकदण्डधारं प्रतीयते । "बैल्वः पालाशो ब्राह्मणस्य दण्डः" (च्ड़्। पार्ग् २.५.२५) इति गृह्ये । गौतमीये चैकदण्डग्रहणम् एवोक्तम् (च्ड़्। ग्ध् १.२२) । इह केवला दण्डसत्ता श्रूयते- **दण्डान् अर्हन्ति** । दण्डा एते ब्रह्मचारिणां योज्याः । कस्यां क्रियायाम् इत्य् एतद् अत्र चोक्तम् उत्तरत्र भविष्यति "प्रतिगृह्येप्सितम्" (म्ध् २.४८) इति । तस्मिंश् च ग्रहणे दण्डस्योपायत्वाद् विवक्षितम् एकत्वम् अत इह द्विवचननिर्देशः । देवश् चेद् वर्षेद् बहवः कृषिं कुर्युर् इति यथा प्राप्तानुवादः । बिल्वपलाशवटखदिरपीलूदुम्बरा[^१८६] वृक्षजातिविशेषनामधेयानि । बिल्वस्य विकारो ऽवयवो वा बैल्वः । एवं सर्वत्र । प्रदर्शनार्थाश् चैते । "यज्ञिया वा सर्वेषाम्" (ग्ध् १.२४) इति वचनात् । एतान् दण्डान् वक्ष्यमाणे कार्ये **अर्हन्ति** । **धर्मतः** शास्त्रतः ॥ २.४५ ॥
+
 
 [^१८६]:
      M G: -ūdumbara
@@ -2839,6 +3181,11 @@ sacrificial wood may be used by any caste.’
 The ‘sacrificial trees have been enumerated in Brahma-purāṇa, as follows:—‘Śamī, Palāśa, Nyagrodha, Plakṣa, Vikaṅkata, Aśvattha, Udumbara, Bilva, Chandana, Sarala, Sālva, Devadāru and Khadira.’ (Vīramitrodaya-Saṃskara, p. 435).
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मण** इति । ब्राह्मणस्य बैल्वः “पालाशो वा दण्डः” इत्यादि वसिष्ठस्मरणात्, “प्रतिगृह्येप्सितं दण्डम्” इति चेहैव दर्शनात्, विकल्पेन द्वौ द्वौ दण्डौ बैल्वपालाशवटखदिरपीलूदुम्बराख्यवृक्षाणां **ब्राह्मणा**दयो **ऽर्हन्ति** ॥ २.४५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 045	A Brahmana shall (carry), according to the sacred law, a staff of Bilva or Palasa; a Kshatriya, of Vata or Khadira; (and) a Vaisya, of Pilu or Udumbara.
@@ -2851,7 +3198,7 @@ The ‘sacrificial trees have been enumerated in Brahma-purāṇa, as follows:�
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.४६ केशान्तिको</summary>
 
 केशान्तिको ब्राह्मणस्य  
 दण्डः कार्यः प्रमाणतः ।  
@@ -2869,6 +3216,7 @@ For the Brāhmaṇa the staff should be made in size reaching up to the end of h
 <details><summary>मेधातिथिः</summary>
 
 आकारविशेषवचनो दण्डशब्दः । दीर्घं काष्ठं[^१८७] संमितायामं दण्ड इत्य् उच्यते । कियत् तस्य दैर्घ्यम् इत्य् अपेक्षायाम् आह । केशान्तं गच्छति प्राप्नोति **केशान्तगो** मूर्द्धप्रमाणः । पादाग्राद् आरभ्य मूर्द्धावधिः **केशान्तगः** । केशा वान्तो ऽस्येति **केशान्तकः** । समासान्तः ककारः । **प्रमाणतः** प्रमाणेनानेन युक्तो **दण्डः कार्यः** कारयितव्यः **ब्राह्मणस्या**चार्येण । **ललाटसंमितः** ललाटान्तम् इतः ललाटन्तप्रमाणः । ललाटमात्रे चतुरङ्गुलेन मीयमानस्य दण्डशब्दवाच्यत्वाभावाद् एवं व्याख्यायते- पादाग्राद् आरभ्य यावल् ललाटान्तं प्राप्तः । एवं **विशो** वैश्यस्य **नासान्तग** इति ॥ २.४६ ॥
+
 
 [^१८७]:
      M G: kāṇḍa
@@ -2924,6 +3272,11 @@ Forehead and the Nose.’
 the Mouth.
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**केशान्तक** इति । केशललाटनासिकासमीपप्रमाणा यथाक्रमं ब्राह्मणादीनां दण्डाः कार्याः ॥ २.४६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 046	The staff of a Brahmana shall be made of such length as to reach the end of his hair; that of a Kshatriya, to reach his forehead; (and) that of a Vaisya, to reach (the tip of his) nose.
@@ -2936,7 +3289,7 @@ the Mouth.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.४७ ऋजवस् ते</summary>
 
 ऋजवस् ते तु सर्वे स्युर्  
 अव्रणाः सौम्य-दर्शनाः ।  
@@ -2954,6 +3307,7 @@ All these should be straight, unimpaired, handsome-looking, not frightening to m
 <details><summary>मेधातिथिः</summary>
 
 **ऋजवः** अवक्राः । **सर्वे** इत्य् अनुवादः, प्रकृतत्वाविशेषात् । **अव्रणा** अच्छिद्राः । **सौम्यं** प्रियकरं[^१८८] दर्शनम् एषां ते **सौम्यदर्शनाः** वर्णपरिशुद्धाः, अकण्टकिताश् च । **अनुद्वेगकराः** । नैतैः कश्चिद् उद्वेजयितव्यः स्वा वा मनुष्यो वा । **नृणाम्** इति प्रदर्शनार्थम् । **सत्वच** अतष्टाः । **अनग्निदूषिताः** वैद्युतेन दावोत्थेन वास्पृष्टाः ॥ २.४७ ॥
+
 
 [^१८८]:
      M G: priyaṃkaraṃ
@@ -2998,6 +3352,11 @@ the sacrificial post.’
 *Paiṭhīnasi* (Do.).—(The same words as Gautama’s.)
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**ऋजव** इति । **ते** दण्डाः मृष्टनिच्छ्रिद्राः भीषणीयाकाररहिताः **सत्वचः **अग्निदोषशून्याः स्युः । न च तैः किञ्चिद् भूतजातम् उद्वेजनीयम् ॥ २.४७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 047	Let all the staves be straight, without a blemish, handsome to look at, not likely to terrify men, with their bark perfect, unhurt by fire.
@@ -3010,7 +3369,7 @@ the sacrificial post.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.४८ प्रतिगृह्येप्सितम्</summary>
 
 प्रतिगृह्येप्सितं दण्डम्  
 उपस्थाय च भास्करम् ।  
@@ -3029,8 +3388,10 @@ Taking up the staff of his liking, having worshipped the sun and walked round th
 
 प्रावृतेषु चर्मसु मेखलाबन्धनं कर्तव्यम् । आबध्य मेखलाम् उपनयनं कर्तव्यम् । कृते चोपवीते दण्डग्रहणम् । दण्डं गृहीत्वा **भास्कर** आदित्य उपस्थेयः । अभिमुखं स्थित्वादित्यदैवतैर् मन्त्रैर्[^१८९] उपस्थानम्[^१९०] आदित्यस्य कर्तव्यम् । गृह्यान् मन्त्रावगमः । अन्या चेतिकर्तव्यता तत एव । यत् सर्वसाधारणं तद् इहोच्यते ।
 
+
 [^१९०]:
      M G: abhidhānam
+
 
 [^१८९]:
      M G 1st ed. omit: mantrair
@@ -3082,6 +3443,11 @@ evening.’
 *Gobhila-Gṛhyasūtra*, 2.10.42.—‘After this he goes about begging alms.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**प्रतिगृह्येति** । आप्तुम् इष्टं संस्कृतं **दण्डं** गृहीत्वा आदित्यं चाभिध्याय अग्निं प्रदक्षिणीकृत्य **भक्षं** यथाशस्त्रं **चरेत् **॥ २.४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 048	Having taken a staff according to his choice, having worshipped the sun and walked round the fire, turning his right hand towards it, (the student) should beg alms according to the prescribed rule.
@@ -3094,7 +3460,7 @@ evening.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.४९ भवत्पूर्वम्</summary>
 
 भवत्-पूर्वं चरेद् भैक्षम्  
 उपनीतो द्विजोत्तमः ।  
@@ -3115,10 +3481,12 @@ The Brāhmaṇa, having undergone Initiation, should beg for food with words of 
 
 - <u>कुतः</u> पुनः संस्कृतशब्दार्थलाभः यावता स्त्रियः संबोध्यन्ते । ताश् च संस्कृतं नावबुद्ध्यन्ते । <u>नित्यम्</u> उपनयनम् । तस्य च शब्दोच्चारणम् अङ्गत्वेनोक्तम् इति । अनित्याश् चापभ्रंशाः । न तैर् नित्यस्य संयोग उपपद्यते । तथैव च शिष्टा असाधून् उपश्रुत्यैकदेशसादृश्येन साधून् संस्मृत्यार्थं प्रतियन्त्य् असाधुर् अनुमानेन वाचक इति दर्शनेन गाशब्दो हि सादृश्याद् गोशब्दम् अनुमापयति । ततो ऽर्थप्रतिपत्तेः, एवं स्त्रियः सादृश्यात् साधुभ्यः असाधून् उत्पन्नसंबन्धात् स्मृत्वा तेभ्यो ऽर्थं प्रत्येष्यन्ति । स्वल्पाक्षरं चैतत् पदत्रयं सर्वत्र प्रसिद्धं स्त्रीभिर् अपि सुज्ञानम् । एवं **भवन्मध्यं** क्षत्रियः "भिक्षां भवति देहि" इति । तथा **वैश्यो** भवच्छब्द उत्तरम् अस्येति, **भवदुत्तरं** वाक्यं समासार्थः[^१९१] ।
 
+
 [^१९१]:
      J: samārtham
 
 - **उपनीत** इति भूतप्रत्ययनिर्देशाद् आन्वहिके ऽपि वृत्त्यर्थे भैक्ष्यचरणे ऽयम् एव विधिर् इति दर्शयति । "एष प्रोक्तो हि द्विजातीनाम् औपनायनिकः" (म्ध् २.६८) इत्य् अत्रोपनयनप्रकरणम् उपसंहरन्न् उपनयनाङ्गस्यापि भैक्ष्यस्यायम् एव विधिर् इत्य् आह । अन्यथाकरणाद् उपनयनाङ्गम् एवैतत् स्याद् यदि वा भूतप्रत्ययसामर्थ्यात्[^१९२] प्रकरणं बाधित्वा वृत्त्यर्थ एव भैक्ष्ये । उपनीयमानस्य तदङ्गं यद्भैक्षं यच् चाहर् अहर् वृत्त्यर्थं तत्र सर्वत्रायं धर्मः ॥ २.४९ ॥
+
 
 [^१९२]:
      M G 1st ed. : yadi vā na pratyaya-
@@ -3186,6 +3554,11 @@ term *bhavat* in the beginning; the Kṣatriya, with the term *bhavat* in the mi
 should say *bhikṣām bhavat dadātu*, and in begging from females *bhikṣām bhavatī dadātu*.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+कथम् इत्य् आह – **भवत्पूर्वम्** इति । “भवति देहि” इत्य् एवं **भवच्**छब्द**पूर्वं** भिक्षाप्रार्थनावाक्यं ब्राह्मण उच्चारयेत् । एवं “भिक्षां भवति देहि” इति **भवन्मध्यं** क्षत्रियः, “भिक्षां देहि भवति” इति **भवदुत्तरं** वैश्यः ॥ २.४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 049	An initiated Brahmana should beg, beginning (his request with the word) lady (bhavati); a Kshatriya, placing (the word) lady in the middle, but a Vaisya, placing it at the end (of the formula).
@@ -3198,7 +3571,7 @@ should say *bhikṣām bhavat dadātu*, and in begging from females *bhikṣām 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.५० मातरं वा</summary>
 
 मातरं वा स्वसारं वा  
 मातुर् वा भगिनीं निजाम् ।  
@@ -3269,6 +3642,11 @@ feeding of Brāhmaṇas, the Student should beg the materials from his relations
 throw into his begging vessel, gold, silver and gems.’\]
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**मातरम्** इति । **मातुर् भगिनी** मातृष्वसा प्रथमम् उपनयनाङ्गभूतं भैक्षम् एतां याचेत् नान्यां या च प्रत्याख्यानेन ब्रह्मचारिणं **नावमानयेत्** । **निजा **सोदरा ॥ २.५० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 050	Let him first beg food of his mother, or of his sister, or of his own maternal aunt, or of (some other) female who will not disgrace him (by a refusal).
@@ -3281,7 +3659,7 @@ throw into his begging vessel, gold, silver and gems.’\]
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.५१ समाहृत्य तु</summary>
 
 समाहृत्य तु तद् भैक्षं  
 यावदन्नम् अमायया [मेधातिथिपाठः - यावदर्थम्] ।  
@@ -3301,6 +3679,7 @@ Having collected as much food as may be needed, and having offered it, without g
 **समाहृत्य्**एति शब्दो बह्वीभ्य आहरणं दर्शयति । नैकस्याः सकाशात् बह्व्यो ग्रहीतव्याः । **तद्** इति यस्यानन्तरं शब्दसंनिधिर् वृत्त्यर्थस्य, न प्राकरणिकस्योपनयनाङ्गस्य । तस्य हि गृह्यकारैः- "अनुप्रवचनीयं श्रपयेत्" (आश्ग् १.२२.१२) इति विहितम्, न भोजनम् । "तिष्ठेद् अहःशेषम्" (आश्ग् १.२२.१) इति च कृतप्रातराशस्य चोपनयनम् । अतो नोपनयनाङ्गं भैक्षभोजनम् । 
 
 - **यावदर्थं** यावता बैक्ष्येण तृप्ताख्यप्रयोजननिर्वृत्तिः । न बहु भिक्षितव्यम् । **अमायया निवेद गुरवे** न कदन्नेन संस्कृतम् अन्नं प्रच्छाद्य कदन्नं गुरोः प्रकाशयेत् । कदन्नं[^१९३] किल एष न ग्रहीष्यतीत्य् अनया बुद्ध्या । निवेदनम् "इदं प्राप्तम्" इति प्रकटीकरणम् । अगृहीते गुरुणा अनुज्ञातो **अश्नीयात्** । कथं पुनर् निवेदनम् अदृष्टसंस्कारार्थम् एव न भवति, इतिहासप्रामाण्यात् । तथा च भगवान् व्यासः त्रितकूपाख्याने "गुरुणा गृहीतम्" इति दर्शितवान् । "अनुज्ञातो भुञ्जीत" (ग्ध् २.३९) इति यत् क्वचिच् छ्रूयते । **आचम्य प्राङ्मुखः** । आचमने प्राङ्मुखतेयम् आनन्तर्याद् इति केचित् । तद् अयुक्तम् । "प्रागुदङ्मुखः" (म्ध् २.६१) इत्य् आचमने दिङ्नियमो भविष्यति । तस्माद् भोजनेनैव संबन्धः । **शुचिः** । चाण्डालादिदर्शनम् अशुचि देशाक्रमनिष्ठीवनादि कृताचमनस्य भोजनकाले ऽनेन निषिध्यते ॥ २.५१ ॥
+
 
 [^१९३]:
      M G 1st ed.: tadannaṃ
@@ -3377,6 +3756,11 @@ permission (to eat) from the Teacher’s wife, or his son, or from his fellow-st
 sun, offered to the Teacher and granted by him, is called *Nectar*.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**समाहृत्येति** । **तद् भैक्षं यावदर्थं** तृप्तिपरिमाणम्, **अमायया** कदन्नपरिहारेण बहुभ्य **आहृत्य गुरवे निवेद्य **तेनानुगृहीतं सदा**चम्य शुचिः **सन्** प्राङ्मुखो ऽश्नीयाद्** इति दिङ्नियमः । **आचम्य** उपस्पृश्य द्विजो नित्यम् इति वक्ष्यमाणविध्यनुवादः । तत्र “खानि च” इत्यादिना अस्य सविशेषस्य चोदिष्यमाणत्वात् ॥ २.५१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 051	Having collected as much food as is required (from several persons), and having announced it without guile to his teacher, let him eat, turning his face towards the east, and having purified himself by sipping water.
@@ -3389,7 +3773,7 @@ sun, offered to the Teacher and granted by him, is called *Nectar*.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.५२ आयुष्यम्</summary>
 
 आयुष्यं प्राङ्-मुखो भुङ्क्ते  
 यशस्यं दक्षिणा-मुखः ।  
@@ -3408,11 +3792,14 @@ Eating with face to the East, he does what is conducive to longevity; eating wit
 
 निष्कामस्य प्राङ्मुखस्य भोजनं विहितं नित्यतया । इदानीं काम्या विधय उच्यन्ते । आयुषे हितं **आयुष्यं प्राङ्मुखो भुङ्क्त** इति । यदि तद्भोजनाद् आयुः प्राप्यते तत आयुष्यं तद् भवति, तेनायम् अर्थः संपद्यते- आयुष्कामः प्राङ्मुखो भुञ्जीत[^१९४] । अधिकारद्वयं प्राच्याम्, नित्यं काम्यं च । आयुष्कामः फलम् अभिसंदधीत । इतरस् तु न तथेति । यथा नित्यम् अग्निहोत्रम्, स्वर्गकामस्य चासकृत्प्रयोगात् तन्त्रेण फलकामस्य नित्यो ऽप्य् अधिकारो निर्वर्तते । एवं यशःकामो **दक्षिणामुखः** । इमे काम्या एव विधयः । **श्रियम्** इच्छन् । श्रियन् क्यजन्ताच्छता कृतः । श्रियै हितं वा श्रियम् इति मकारान्तः पाठः, आयुष्यादिवत् । प्राण्यङ्गत्वात् स्वार्थे भुजिर् वर्तते । तथा[^१९५] **ऋतं**[^१९६]** भुङ्क्त** इति । श्रियं भोजनात् प्राप्नोतीति । तथा च द्वितीयान्तः पाठः श्रियम् इति । तादर्थ्ये वा चतुर्थी "श्रियै प्रत्यग्" इति । **ऋतं** सत्यं यज्ञश् च, तत्फलं वा स्वर्गः । स्वर्गकाम उदङ्मुखो भुञ्जीत । अन्तरेणापि विधिप्रत्ययम् अप्राप्तत्वाद् विध्यर्थावगतिः पञ्चमलकारादिकल्पनया । एवम् एतद् दिग्विभागेन भोजनं फलविशेषार्थम् ।
 
+
 [^१९६]:
      G 1st ed.: kṛtaṃ
 
+
 [^१९५]:
      M: yathā
+
 
 [^१९४]:
      G: bhuṅkte
@@ -3476,6 +3863,11 @@ wet feet, facing the East, with his two feet or even one touching the ground.’
 the east, with speech in check, not decrying the food, nor scattering it, with mind concentrated on it: and having eaten he shall sip water.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+काम्यम् इदानीम् आह – **आयुष्यम्** इति । आयुषे हितम् अन्नं प्राङ्मुखो **भ्य्ङ्क्ते** इति लिङर्थो ऽयं द्रष्टव्यः, अन्यथा आनर्थ्यक्यात् । एवं च्**आयुष्य**कामः **प्राङ्मुखो भुङ्क्ते** [इति] उक्तं भवति । एवं यशसे हितं **दक्षिणामुखः**, **श्रियम्** इच्छन् **प्रत्यङ्मुखः** । **ऋतं** सत्यं तत्फलहेतुत्वात् अन्नम् अमृतं **उदङ्मुखो भुङ्क्ते** ॥ २.५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 052	(His meal will procure) long life, if he eats facing the east; fame, if he turns to the south; prosperity, if he turns to the west; truthfulness, if he faces the east.
@@ -3488,7 +3880,7 @@ the east, with speech in check, not decrying the food, nor scattering it, with m
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.५३ उपस्पृश्य</summary>
 
 उपस्पृश्य द्विजो नित्यम्  
 अन्नम् अद्यात् समाहितः ।  
@@ -3507,6 +3899,7 @@ The twice-b orn person should always take his food after having sipped water and
 
 आचमनोपस्पृशतिशब्दौ समानार्थौ शुद्ध्यर्थसंस्कारविशेषवचनौ शिष्टव्यवहाराद् अवगम्येते । यद्य् उपस्पृशतिर् अर्थान्तरे पठितश् चमुर् अप्य् अदनमात्रे तथापि विशेष एव सोपसर्गयोः प्रयोगदर्शनात् तदर्थतैव प्रतीयते । स्पृशेः सामान्यविषयत्वे ऽपि प्रयोगो नियामकः । गडिर् वदनैकदेशे पठ्यते । स च कपोल एव गण्ड इति प्रयुज्यते, नैकदेशान्तरे । "पुष्यसिद्ध्यौ" (पाण् ३.१.११६) नक्षत्रमात्रे पठ्येते, विशेषे च वर्तेते । धाय्याशब्दः सामिधेनीमात्रे पठ्यते, आवापिकीषु च वर्तते । अतो ऽप एवाचम्येत्य् अर्थः । स एवोपस्पृश्येत्य् अस्यापि[^१९७] । स च परस्ताद् विधायिष्यते । सामानाधिकरण्यं चानयोर् दृश्यते नित्यकालम् उपस्पृशेद् इत्य् अभिधाय त्रिर् आचामेद् इत्य् आह । अतः समारार्थः । 
 
+
 [^१९७]:
      M G omit: asyāpi
 
@@ -3516,8 +3909,10 @@ The twice-b orn person should always take his food after having sipped water and
 
 श्रीः किलैवम् आह । द्वौ हस्तौ द्वौ च पादाव् आस्यं च एषा पञ्चार्द्रता । सा[^१९८] चोपस्पर्शनान्तरं भुञ्जानस्य भवति, न विलम्बमानस्य । इहापि वक्ष्यत्य् "आर्द्रपादस् तु भुञ्जीत" (म्ध् ४.७६) इति स्नातकव्रतेषु । तस्यापौनरुक्त्यं च वक्ष्यामः । **नित्य**ग्रहणं प्रकरणाद् ब्रह्मचारीभोजनधर्मो[^१९९] मा विज्ञायि, भोजनमात्रधर्मो यथा स्याद् उपदेशत एव । 
 
+
 [^१९९]:
      M G: brahmacārīdharmabhojanatā
+
 
 [^१९८]:
      M G: yā
@@ -3526,12 +3921,14 @@ The twice-b orn person should always take his food after having sipped water and
 
 - **समाहितः** । भुज्यमानं द्रव्यं स्वात्मशक्तिं चावेक्षमाणः । अन्यचेतस्कस्य हि गुरुविरुद्धविदाहिवर्जनं[^२००] सात्म्यभोजनं च न स्यात् । **भुक्त्वा चोपस्पृशेत्** । स्नेहादिलेपापनयनं द्रव्यशुद्धाव् उक्तम् । कृते तस्मिन् भुक्तवत इदम् आचमनं विधीयते ।
 
+
 [^२००]:
      M G 1st ed.: -viruddhavādivarjanaṃ
 
 - <u>अत्र केचिन्</u> मन्यन्ते शुद्ध्यर्थम् एकम् आचमनम्, "सुप्त्वा क्षुत्वा च भुक्त्वा च" (म्ध् ५.१४५) इति अनेनादृष्टार्थं द्वितीयं कर्तव्यम् । एवं च पठ्यते " आचान्तः पुनर् आचामेत्" (य्ध् १.१९६) इति । एतत् पञ्चमे स्थापयिष्यामः । 
 
 - **सम्यग्** इति वैधताम् आचमनपदार्थस्यानुवदति । "यादृशो विधिर् उक्तस् तं सर्वम् अनुतिष्ठेत्" । **अद्भिः खानि च संस्पृशेत्** । खानि छिद्राणि शीर्षण्यानि । <u>ननु</u> चैतद् उक्तम् एव "खानि चैव स्पृशेद् अद्भिः" (म्ध् २.६०) इति । आत्मशिरसोर् व्यावृत्त्यर्थम् इति <u>केचित्</u> । यदा शुचिः सन्न् अभोजनार्थतयैवाचामति । येषां च भोजनोत्तरकालम् एकं शुद्ध्यर्थम् आचमनम् अपरम् अदृष्टार्थं तत्रादृष्टार्थ आत्मशिरसी न स्पृश्येते, शुद्ध्यर्थं तु तादृशम् उत्पन्नम् । तस्य संपूर्णाङ्गस्य प्रयोगो वक्ष्यते "शौचेप्सुः सर्वदाचामेत्" इति (म्ध् २.६१) । यद्[^२०१] वा विधिप्रत्यभिज्ञानार्थं शास्त्रीयम् एतद् आचमनं न लौकिकम् इति । ज्ञाताङ्गविशेषसंबन्धस्य तदङ्गिनिर्देशे तद् एवेदम् इति प्रत्यभिज्ञानसिद्धिः । अतश् च यत्राचामेद् इति श्रुतं तत्र न यस्य कस्यचिद् द्रव्यस्य भक्षणमात्रं प्रतीयते, किं तर्हि शास्त्रीयस्य संस्कारस्य सपरिकरस्येति यद् उक्तं तद् दर्शितं भवति ॥ २.५३ ॥
+
 
 [^२०१]:
      M G: yadi
@@ -3614,6 +4011,11 @@ mantra *amṛtāpidhānamasi*; having sipped water, he shall wash again, with th
 without any mantra.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**उपस्पृश्येति** । सर्वदा ब्रह्मचर्याद् ऊर्ध्वम् अपि द्विजः आचम्य **अन्नं समाहितो **अनन्यमना भुञ्जीत । **भुक्त्वा च** यथाशास्त्रम् **उपस्पृशेत्** । **अद्भिश् च खानि** इन्द्रियछिद्राणि “खानि चोपस्पृशेच् छीर्ष्ण्यानि” इति गौतमस्मरणात् शिरस्थानि** स्पृशेत्** । **उपस्पृशेद् **इत्य् उक्त्वा **खानि च संस्पृशेद्** इति यत् पृथग् आह अतो ऽवसीयते यद् उपस्पर्शनाचमनशब्दाभ्यां त्रिर् अभ्युक्षणमात्रं प्रधानम् उच्यते खस्पर्शनादिका तु इतिकर्तव्यतयेति । तथा च आचमनम् इति भक्षणार्थेनैव धातुसमाख्यानात् ॥ २.५३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 053	Let a twice-born man always eat his food with concentrated mind, after performing an ablution; and after he has eaten, let him duly cleanse himself with water and sprinkle the cavities (of his head).
@@ -3626,7 +4028,7 @@ without any mantra.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.५४ पूजयेद् अशनम्</summary>
 
 पूजयेद् अशनं नित्यम्  
 अद्याच् चैतद् अकुत्सयन् ।  
@@ -3645,8 +4047,10 @@ He should always worship the food and eat it without disparaging it. When he see
 
 अश्यत इत्य् **अशनं** भक्तसक्त्वपूपाद्य्[^२०२] उच्यते । तद् अशनार्थम् आनीतं देवतारूपेण पश्येत्- "एषा वै परमा देवता यद् अन्नम्" । तस्य सर्वेषां भूतानां स्रष्टृत्वेन स्थितिहेतुतया च यद्दर्शनं सास्य पूजा । अथ वा प्राणार्थत्वेन भावनं ध्यायन्-[^२०३] "यजन् मम यद् अर्थत्वं संपूजयति मां सदा" इति । नमस्कारादिना वा प्रणम्य ग्रहणं पूजा । 
 
+
 [^२०३]:
      M G 1st ed.: dhyānaṃ
+
 
 [^२०२]:
      M G 1st ed.: -saktupūpādy
@@ -3712,6 +4116,11 @@ food while eating it, with speech in check, not decrying the food.’
 silent, he shall be happy while eating.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**पूजयेद्** इति । सर्वदा अन्नं **पूजयेद्** देवतात्वेन प्राणार्थत्वेन च ध्यायेत् अनिन्दयंश् **चैतद्** अन्नम् **अद्यात्** । **दृष्ट्वा **च तुष्येत् **प्रसीदेच् च **। हेत्वन्तरजम् अपि खेदं जह्यात् । **प्रतिनन्देत्** श्रद्दध्यात् नित्यम् एतन् मे स्याद् इत्य् एवं सर्वशः **सर्वशः** सर्वपर्कारम् ॥ २.५४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 054	Let him always worship his food, and eat it without contempt; when he sees it, let him rejoice, show a pleased face, and pray that he may always obtain it.
@@ -3729,7 +4138,7 @@ silent, he shall be happy while eating.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.५५ पूजितं ह्य्</summary>
 
 पूजितं ह्य् अशनं नित्यं  
 बलम् ऊर्जं च यच्छति ।  
@@ -3747,6 +4156,7 @@ The food, thus worshipped always, imparts strength and vigour. If eaten irrevere
 <details><summary>मेधातिथिः</summary>
 
 पूर्वविधिशेषो ऽयम् अर्थवादः, न तु फलविधिः । फलविधौ[^२०४] हि काम्यो ऽयं विधिः स्याद् ऊर्जकामस्य बलकामस्य च । ततश् च नित्यशब्दो नोपपद्येत **पूजितं ह्य् अशनं नित्यम्** इति । अतो ऽयं यावज्जीविकः प्राङ्मुखता नियमः । **अपूजितं भुक्तं ह्य् उभयं नाशयेद्** बलम् ऊर्जं च । बलं सामर्थ्यम् अनायासेन भारोद्यमनादिशक्तता । कृशस्याप्य् ऊर्जं महाप्राणता । अङ्गोपचयः महाकायो महाबलश् च भवति ॥ २.५५ ॥
+
 
 [^२०४]:
      M G 1st ed.: phalavidho
@@ -3776,6 +4186,16 @@ This verse has been quoted in *Vīramitrodaya* (Saṃskāra, p. 486) where ‘*p
 See Comparative notes for [Verse 2.54].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मात्पूजितमन्न सामर्थ्यंवीर्यं च ददाति । अपूजितं पुनरेतदुभयं नाशयति । तस्मात्सर्वदाऽन्नं पूजयेदिति पूर्वेणैकवाक्यतापन्नमिदं फलश्रवणम् ।स्तुत्यर्थसंध्यावन्दनादावुपात्तदुरितक्षयवन्नित्यं कामनाविषयत्वेनापि नित्यश्रुतिरविता । नित्यश्रुतिविरोधात् फलश्रवणं स्तुत्यर्थमिति तु मेधातिथि-गोविन्दराजौ ॥५५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पूजितम्** इति । यामात् **पूजितम् **अन्नं सामर्थ्यं वीर्यं च ददाति, **अपूजितं च तद् भुक्तं उभयं **नाशयति तस्मात् पूजितम् अद्याद् इति प्रकृतस्तुतिः फलार्थत्वे (न नि) नित्यतापत्तेः ॥ २.५५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 055	Food, that is always worshipped, gives strength and manly vigour; but eaten irreverently, it destroys them both.
@@ -3788,7 +4208,7 @@ See Comparative notes for [Verse 2.54].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.५६ नोच्छिष्टं कस्य</summary>
 
 नोच्छिष्टं कस्य चिद् दद्यान्  
 नाऽद्याद् एतत् तथान्तरा ।  
@@ -3807,14 +4227,18 @@ He should not give the leavings to anyone; he should not eat in between; he shou
 
 पात्रीस्थम् अन्नम् आस्यस्पर्शदूषितम् **उच्छिष्टम्** उच्यते । तन् **न कस्यचिद् दद्याद्** अनेनैव सिद्धे स्नातकव्रतेषु यः शूद्रविषयः प्रतिषेधः स तत्रैव निरूपयिष्यते । चतुर्थ्यां प्राप्तायां षष्ठी संबन्धमात्रनिषेधार्था । ये ऽपि दत्तम् इदम् अस्मभ्यम् इति न विदुस् तेषाम् अपि भोजनाय न[^२०५] प्रकल्प्यं[^२०६] श्वबिडालादीनाम् । न ह्य् अत्र ददात्यर्थः परिपूर्णः[^२०७] स्वत्वनिवृत्तिमात्रं दातुः, परस्य स्वत्वापत्तिर्[^२०८] नास्ति । 
 
+
 [^२०८]:
      M G J: satvāpattir; my reading is conjectural, and based also on Jha's translation of this sentence.
+
 
 [^२०७]:
      M G: paripūrṇa
 
+
 [^२०६]:
      M G 1st ed.: prakalpaṃ
+
 
 [^२०५]:
      M G 1st ed. omit: na
@@ -3896,6 +4320,16 @@ greedily.’
 he shall eat food, which has been worshipped, without decrying it.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भुक्तावशेषं कस्यचिन्न दद्यात् । चतुर्थ्यां प्राप्तायां सम्बन्धमात्रविवक्षया षष्ठी । अनेनैव सामान्य-निषेधेन शूद्रस्याप्युच्छिष्टदाननिषेधे सिद्धे “नोच्छिष्टं न हविष्कृतम्” इति शूद्रगोचरनिषेधश्चातुर्थः स्नातकव्रतस्वार्थः । दिवासायंभोजनयोश्च मध्ये न भुञ्जीत वारद्वयेऽप्यतिभोजनं न कुर्यात् । नातिसौहित्यमाचरेदिति चातुर्थं स्नातकव्रतार्थम् । उच्छिष्टः सन् क्वचित्नगच्छेत् ॥५६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नोच्छिष्टम्** इति । **उच्छिष्टं कस्यचिद्** अपि **न दद्यात् । तथा अन्तरा** सायम्प्रातः कलयोर् मध्ये **नाद्यात्** सायं प्रातर् भोजनस्यौचित्यप्राप्तत्वात् अन्तराशब्दस्य वा मध्यवाचित्वाद् एवं लभ्यते । अतिमात्रभोजनं **न कुर्यात् । उच्छिष्टश् च न क्वचिद् **गच्छएत् ॥ २.५६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 056	Let him not give to any man what he leaves, and beware of eating between (the two meal-times); let him not over-eat himself, nor go anywhere without having purified himself (after his meal).
@@ -3908,7 +4342,15 @@ he shall eat food, which has been worshipped, without decrying it.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+अतिभोजने दोषमाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.५७ अनारोग्यम्</summary>
 
 अनारोग्यम् अनायुष्यम्  
 अस्वर्ग्यं चाऽतिभोजनम् ।  
@@ -3926,6 +4368,7 @@ Over-eating destroys health, cuts off life and bars heaven; it is unrighteous an
 <details><summary>मेधातिथिः</summary>
 
 दृष्टमूलताम् अत्यशनप्रतिषेधस्याचष्टे[^२०९] । **अनारोग्यं** व्याध्युत्पत्तिर् ज्वरोदरादिपीडा । विषूचिकादिना जीवितनाश **अनायुष्यम्** । "सर्वत एवात्मानं गोपायेत्" (ग्ध् ९.३४) इति शरीरपरिरक्षादिव्यतिक्रमाद् **अस्वर्ग्यम्** । नरकप्राप्तिः स्वर्गाभावेन प्रतिपद्यते । **अपुण्यं** दौर्भाग्यकरम् । **लोकविद्विष्टं** बहुभोजितया निन्द्यते । तस्मात् कारणाद् अत्यशनं **परिवर्जयेत्**, न कुर्यात् ॥ २.५७ ॥
+
 
 [^२०९]:
      M G 1st ed.: -mūlatānatyśana-
@@ -3962,6 +4405,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 488); in
 See Comparative notes for [Verse 2.56].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अरोगो रोगाभावस्तस्मै हितमारोग्यम्, आयुषे हितमायुष्यम् । यस्मादतिभोजनमनारोग्यमनायुष्यं च भवति अजीर्णजनकत्वेन रोगमरणहेतुत्वात् । अस्वर्ग्यंच स्वर्गहेतुयागादिविरोधित्वात् । अपुण्यमितरपुण्यप्रतिपक्षत्वा । लोकविद्विष्टं बहुभोजितया लोकैर्निन्दनात् । तस्मात्तन्न कुर्यात् ॥१७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनारोग्यम्** इति । यस्माद् रोगहेतुत्वात् **अनारोग्य**कृद् इति च प्राणहरं विष्ठादिकाद्युत्पादाद् अप्य् नायुष्यं च, **अस्वर्ग्यं** च [अ]दृष्टार्थजनकत्वेनापि शास्त्रनोदनासामर्थ्यात् अतिक्रमेण कर्मान्तरार्जितस्वर्गोपभोगप्रतिबन्धत्वात् । **अपुण्यं** च तद्धेतुत्वात्, **लोकविद्विष्टं** च बहुभोजिनम् अवलोक्य गर्हणं तत् परिवर्जयेद् इति सम्भूतदोषकथनेन प्रकृति[त]निन्दार्थवादो विद्वेषणर्थः ॥ २.५७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 057	Excessive eating is prejudicial to health, to fame, and to (bliss in) heaven; it prevents (the acquisition of) spiritual merit, and is odious among men; one ought, for these reasons, to avoid it carefully.
@@ -3974,7 +4427,7 @@ See Comparative notes for [Verse 2.56].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.५८ ब्राह्मेण</summary>
 
 ब्राह्मेण विप्रस् तीर्थेन  
 नित्यकालम् उपस्पृशेत् ।  
@@ -3995,11 +4448,14 @@ Every time, the Brāhmana should sip water, either though the receptacle dedicat
 
 - <u>ननु</u> चाविधानाद्[^२१०] एव पित्र्यस्याप्राप्तिः । <u>अस्त्य्</u> अत्राशङ्का । पितृतीर्थज्ञापनार्थं तावत् पित्र्यं तयोर् अध[^२११] इत्य् अवश्यं वक्तव्यम् । न च तस्येह कार्यं निर्दिश्यते । कार्याकाङ्क्षायां[^२१२] प्रकृतत्वात् तेन कार्येण संबन्ध आशङ्क्येत । अद्य पुनः प्रतिषेधे सति पित्र्यम् इति समाख्ययैव कार्यावगतिः, उदकतर्पणादि पितृकर्म एतेन तीर्थेन कर्तव्यम् । एवं स्तुतिर् अन्वयिनी भवति । श्रुतिनोदितत्वाच् च ब्राह्मादीनां तदभावे प्राप्ताशङ्कानिवृत्त्यर्थं युक्तम् अस्याभिधानम् ॥ २.५८ ॥
 
+
 [^२१२]:
      M G: -kāṅkṣāya
 
+
 [^२११]:
      M G omit: adha
+
 
 [^२१०]:
      M G 1st ed.: cāvidhānavad
@@ -4093,6 +4549,16 @@ situated to the left of the thumb, on the line pointing upwards; the
 between the palm and the little index: on the top of the finger tips, the *Daiva*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मादिसंज्ञेयं शास्त्रे संव्यवहारार्था स्तुत्यर्था च । न तु मुख्यं ब्रह्मदेवताकत्वं संभवति, अयागरूप-त्वात् । तीर्थशब्दोऽपि पावनगुणयोगाद् । ब्राह्मेण तीर्थेन सर्वदा विप्रादिराचामेत् । कः प्रजापतिस्तदीयः, “तस्येदम्” ( पा० सू० ४ / ३ / १२०) इत्यण् इकारश्चान्तादेशः । त्रैदशिको देवस्ताभ्यां वा । पित्र्येण तु तीर्थेन न कदाचिदाचामेत्, अप्रसिद्धत्वात् ॥५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मणेति** । **ब्राह्मेण तीर्थेन** प्राजापत्यदैवाभ्यां **वा विप्रो **यावज्जीतम् **उपस्पृशेत् । पित्र्येण** पुनः कदाचिद् इति नित्यानुवादः इतरस्तुत्यर्थः । अविधानाद् एव पित्र्यस्याप्रप्तेः विप्रग्रहणं क्षत्रियादिप्रदर्शनार्थम्, “उपस्पृश्य द्विजो नित्यम्” इति एतयोर् अपि प्रकृतत्वात्॥ २.५८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 058	Let a Brahmana always sip water out of the part of the hand (tirtha) sacred to Brahman, or out of that sacred to Ka (Pragapati), or out of (that) sacred to the gods, never out of that sacred to the manes.
@@ -4105,7 +4571,15 @@ between the palm and the little index: on the top of the finger tips, the *Daiva
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+ब्राह्मादितोर्थान्याह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.५९ अङ्गुष्ठमूलस्य</summary>
 
 अङ्गुष्ठमूलस्य तले  
 ब्राह्मं तीर्थं प्रचक्षते ।  
@@ -4119,6 +4593,7 @@ between the palm and the little index: on the top of the finger tips, the *Daiva
 
 The part of the palm at the root of the thumb they call ‘the receptacle dedicated to Brahmā’; that which is at the root of the finger ‘Sacred to Prajāpati’; that on the finger-tops ‘dedicated to the Gods’; and that which is below these two ‘dedicated to the Pitṛs.’—(59)
 
+
 kāyaṃ kaviṣṭakāmūle tīrthamūktammanīṣibhiḥ 
 aṅguṣṭhamūle ca tathā prājāpatyaṃ vica?ṇai | 
 aṅgus?yagre sthitaṃ daivaṃ piś?yaṃ tarjanimūlake |
@@ -4128,14 +4603,18 @@ aṅgus?yagre sthitaṃ daivaṃ piś?yaṃ tarjanimūlake |
 
 **अङ्गुष्ठस्य मूलम्** अधोभागः । तस्य **तल**प्रदेशो **ब्राह्मं तीर्थम्** । हस्ताभ्यन्तरं तलम् आह । महारेखान्तम् अभिमुखम् आत्मनो ब्राह्मं हस्तमध्ये । अङ्गुलीनां मूले दण्डरेखाया ऊर्ध्वं **कायम्** । अग्रे अङ्गुलीनां **दैवम्**[^२१३] । उपसर्जनीभूतो ऽपि मूले अङ्गुलिशब्दः सापेक्षत्वाद् अग्रशब्दस्य[^२१४] संबध्यते । **पित्र्यं तयोर् अधः** । अत्रापि गुणीभूतस्याङ्गुलीशब्दस्याङ्गुष्टस्य च संबन्धः । प्रदेशिनी चात्राङ्गुलिर् विवक्षिता । तयोर् अध अन्तरं पित्र्यम् । स्मृत्यन्तरशिष्टप्रसिद्धिसामर्थ्याद् एवं व्याख्यायते, यथाश्रुतान्वयासंभवात् । यथा च शङ्खः- "अङ्गुष्ठस्याधरतः प्राग् अग्रायाश् च रेखाया ब्राह्मं तीर्थम्, प्रदेशिन्यङ्गुष्ठयोर् अन्तरा पित्र्यम्, कनिष्ठातलयोः[^२१५] पूर्वेणा पर्वण् कायम्, अग्रम्[^२१६] अङ्गुलीनां दैविकम्" इति ॥ २.५९ ॥
 
+
 [^२१६]:
      M G: -layoḥ kāyaṃ pūrveṇāgram 
+
 
 [^२१५]:
      M G: kaṇiṣṭhāntaralayoḥ
 
+
 [^२१४]:
      J: agraśabde
+
 
 [^२१३]:
      G: evaṃ; J adds: evaṃ after daivaṃ; G misread daivaṃ as evaṃ, and J added this misreading to the original daivam
@@ -4178,6 +4657,24 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 77), which offers the foll
 See Comparative notes for [Verse 2.58].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अङ्गुष्ठमूलस्याधोभागे ब्राह्मं, कनिष्ठाङ्गुलिमूलेकायंअङ्गुलीनामग्नेदैवं, अङ्गुष्ठप्रदेशिन्योमध्ये पित्र्यंतीर्थं मन्वादयं आहुः । यद्यपि—
+
+**कायमङ्गुलिमूलेऽग्रेदैवं पित्र्यं तयोरधः ।**
+
+इत्यत्र चाङ्गुलिमात्रं श्रुतं तथापि स्मृत्यन्तराद्विशेषपरिग्रहः । तथा च याज्ञवल्क्यः—
+
+**कनिष्ठादेशिन्यङ्गुष्ठमूलान्यग्रं करस्य च ।**
+
+**प्रजापतिपितृब्रह्मदेवतीर्थान्यनुक्रमात् ॥ ( या० स्मृ० १ / १९ ) ॥५९॥**
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अर्थसिद्धत्वाल् लक्षणम् आह – **अङ्गुष्ठमूलस्येति **। “ब्राह्मणस्य दक्षिणहस्ते पञ्चतीर्थानि भवन्ति” इति प्रचेतसः स्मरणात् । दक्षिणहस्ताङ्गुष्ठमूलस्याधोभागे **ब्राह्मं तीर्थं प्रचक्षते । कायम् **अङ्गुलीनां** मूले । अग्रे दैवम्, **अङ्गुलीनाम् एवाग्रशब्दस्य साकाङ्क्षत्वात् । **पित्र्यं तयोर् अधः । **अधस्तयोर् इत्य् अस्यापि साकाङ्क्षत्वात् प्रकृतेनाङ्गुष्ठाङ्गुलिना सम्बन्धः॥ २.५९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 059	They call (the part) at the root of the thumb the tirtha sacred to Brahman, that at the root of the (little) finger (the tirtha) sacred to Ka (Pragapati), (that) at the tips (of the fingers, the tirtha) sacred to the gods, and that below (between the index and the thumb, the tirtha) sacred to the manes.
@@ -4190,7 +4687,15 @@ See Comparative notes for [Verse 2.58].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+सामान्येनोपदिष्टस्याचमनस्यानुष्ठानक्रममाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.६० त्रिर् आचामेद्</summary>
 
 त्रिर् आचामेद् अपः पूर्वं  
 द्विः प्रमृज्यात् ततो मुखम् ।  
@@ -4271,6 +4776,20 @@ his hands, seated, he should sip water thrice, and wash twice; having sprinkled 
 should touch the holes with water in its natural condition.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वं ब्राह्मादितीर्थेन जलगण्डूषत्रयं पिबेत् । अनन्तरं संवृत्यौष्ठाधरौवारद्वयमङ्गुष्टमूलेन संमृज्यात् ।
+
+**संवृत्याङ्गुष्ठमूलेन द्विः प्रमृज्यात्ततो मुखम् ।**
+
+इति दक्षेण विशेषाभिधानात् । खानि चेन्द्रियाणि जलेन स्पृशेत् । मुखस्य सन्निधानान्मुखखान्येव । गोतमोऽप्याह- "खानि चोपस्पृशेच्छीर्षण्यानि" ।"हृद्यन्तर्ज्योतिः पुरुषः" ( बृह० ४ / ३ / ७ ) इत्युपनिषत्सु हृदयदेशत्वेनात्मनः श्रवणादात्मानं हृदयं शिरश्चाद्भिरेव स्पृशेत् ॥६०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+आचमनस्यालौकिकत्वात् स्वरूपम् आह **त्रिर्** इति । प्रथमं त्रीन् वारान् अपः तीर्थेनाचामेत् । ततः आस्यं द्वौ वारौ अपि शोधयेत् । तद् अनु च **खानि** इन्द्रियच्छिद्राणि **अद्भिः स्पृशेत् **। ततः आत्मस्थानं हृदयम्, अथो **शिर** इति ॥ २.६० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 060	Let him first sip water thrice; next twice wipe his mouth; and, lastly, touch with water the cavities (of the head), (the seat of) the soul and the head.
@@ -4283,7 +4802,7 @@ should touch the holes with water in its natural condition.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.६१ अनुष्णाभिर्</summary>
 
 अनुष्णाभिर् अफेनाभिर्  
 अद्भिस् तीर्थेन धर्मवित् ।  
@@ -4309,8 +4828,6 @@ One who knows his duties, when desiring cleanliness, should always sip, through 
 
 [^२१८]:
      M G: aharahaḥsu
-
-_उक्तम् आचमनं तीर्थेनापां भक्षणम् । परिमाणं तु नोक्तम् । अतस् तद् अवधारणार्थम् आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -4408,6 +4925,16 @@ by a Śūdra, or with one hand, or by one who has not kept the observances, or b
 the wise men may be purified by even such water as has not been looked into; as also for sick men.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनुष्णीकृताभिः फेनवर्जिताभिर्ब्राह्मादितीर्थेन शौचमिच्छन्नेकान्ते जनैरनाकीर्णे शुचिदेश इत्यर्थः । प्राङ्मुख उदङ्मुखो वा सर्वदाऽऽचामेत् । आपस्तम्वेन “तप्ताभिश्च कारणात्" इत्यभिधानाद्व्याध्या-दिकारणव्यतिरेकेण नाचामेत् । व्याध्यादौ तु उष्णकृताभिरण्याचमने दोषाभावः । तीर्थव्यतिरेकेणाचमने शौचाभाव इति दर्शयितुमुक्तस्यापि तीर्थस्य पुनर्वचनम् ॥६१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनुष्णाभिर्** इति । “अशृताभिः” इति शङ्खस्मरणात् अग्निसम्पर्करहिताभिः, फेनशून्याभिः **अद्भिः** उक्तेन **तीर्थेन **विद्वान् शुद्धिकामः **एकान्ते **शुचौ देशे **प्राङ्मुखः उदङ्मुखो **वा **आचामेत् **॥ २.६१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 061	He who knows the sacred law and seeks purity shall always perform the rite of sipping with water neither hot nor frothy, with the (prescribed) tirtha, in a lonely place, and turning to the east or to the north.
@@ -4420,7 +4947,20 @@ the wise men may be purified by even such water as has not been looked into; as 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_उक्तम् आचमनं तीर्थेनापां भक्षणम् । परिमाणं तु नोक्तम् । अतस् तद् अवधारणार्थम् आह ।_
+</details>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+आचमनजलपरिमाणमाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.६२ हृद्गाभिः पूयते</summary>
 
 हृद्गाभिः पूयते विप्रः  
 कण्ठगाभिस् तु भूमिपः ।  
@@ -4439,8 +4979,10 @@ The Brāhmaṇa is purified by the water reaching the heart; the Kṣatriya by t
 
 हृदयं गच्छन्ति प्राप्नुवन्ति **हृद्गाः** । "अन्येष्व् अपि दृश्यते" (पाण् ३.२.१०१) इति गभेर् डः । "हृदयस्य हृद्" (पाण् ६.३.५०) इति योगविभागाद् धृदादेशः । **पूयते** पवित्रतां प्राप्नोत्य् अशुचित्वं व्यावर्तते । आप[^२१९] ईषदूनचुलुकमात्रप्रमाणः, **कण्ठगाभिस्** ताभिः कण्ठमात्रव्यापिनीभिः **भूमिपः** क्षत्रियः । भूमेर् आधिपत्यं क्षत्रियस्य विहितम् । तेन प्रसिद्धेन कर्मणा क्षत्रियजातिर् लक्ष्यते । आधिपत्यविवक्षायां राजधर्मेष्व् एवावक्ष्यत् । **वैश्यः प्राशिताभिर्** अन्तरास्यप्रवेशिताभिः । कण्ठम् अप्राप्ता अपि शुद्धिहेतवो वैश्यस्य । **शूद्रः स्पृष्टाभिर् अन्तत** अन्तेनेति । आद्यादित्वात् तृतीयार्थे तसिः । अन्तशब्दो ऽयं समीपवचनो ऽस्ति । उदकान्तं गत उदकसमीपम् इति गम्यते । अस्त्य् अवयववचनः । वस्त्रान्तो वसनान्त इत्य् उभयत्रापि वर्तमानः संबन्ध्यन्तरम् अपेक्ष्यते, कस्य[^२२०] समीपं कस्य वावयव इति । तत्रेह येन स्थानेन वर्णान्तराणाम् आचमनं विहितम्, तीर्थैर् जिह्वोष्ठेन च तदन्तेनेति प्रतीयते । समीपवचनस् तु न संभाव्यः विधीयमानस्याचमनस्य तत्साध्यत्वासंभवात् । स्पर्शे ऽपि प्राशनम् अस्ति । जिह्वौष्ठेन हि स्पृश्यमानस्य रसास्वादनम् अवश्यंभावि । तत्र वैश्यपरिमाणात् किंचिन्न्यूनतात्र विवक्षिता । जिह्वामूलं यावद् वैश्यस्य, जिह्वाग्रं शूद्रस्य । द्रवत्वाद् उदकस्यापरिहार्यो ऽवध्यतिक्रमः, अवश्यप्राप्तौ त्व् अशुद्धिः । सर्वश् चायं तीर्थविभागो दक्षिणहस्तस्योपस्पर्शने हस्तस्यौचित्याद् दक्षिणाचारतायाश् च पुरुषधर्मतया विहितत्वात् । एवमर्थम् एव चास्मिन्न् अवधाव् इदम् उच्यते ॥ २.६२ ॥
 
+
 [^२२०]:
      M G 1st ed.: asya
+
 
 [^२१९]:
      M G: sparśa
@@ -4509,6 +5051,16 @@ teeth*.’
 *Pracetas*—(See above.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणो हृदयगामिनीभिः, क्षत्रियः कण्ठगामिनीभिः, वैश्योऽन्तरास्यप्रविष्टाभिः कण्ठमप्राप्ताभिरपि, शूद्रो जिद्दौष्ठान्सेनापि स्पृष्टाभिरद्भिः पूतो भवति । अन्तत इति तृतीयार्थे तसिः ॥६२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+किम्प्रमाणा आपः आचामेद् इत्य् आह **हृद्गाभिर्** इति । हृदयप्राप्ताभिर् अद्भिर् **विप्रः **शुध्यति । कण्ठप्राप्ताभिः **क्षत्रियः, वैश्यः प्राशिताभिः **तालुगताभिः, “हृत्कण्ठतालुगाभिः” इति याज्ञवल्क्यस्मरणात् । **शुद्रो ऽन्ततः,** आचमनस्य प्रकृतत्वात् जिह्वौष्ठास्यान्ते स्पृष्टाभिः॥ २.६२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 062	A Brahmana is purified by water that reaches his heart, a Kshatriya by water reaching his throat, a Vaisya by water taken into his mouth, (and) a Sudra by water touched with the extremity (of his lips).
@@ -4521,7 +5073,15 @@ teeth*.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+आचमनाङ्गतामुपवीतस्य दर्शयितुमुपवीतलक्षणं ततः प्रसङ्गेन प्राचीनादीतीत्यादिलक्षणमाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.६३ उद्धृते दक्षिणे</summary>
 
 उद्धृते दक्षिणे पाणाव्  
 उपवीत्य् उच्यते द्विजः ।  
@@ -4539,16 +5099,20 @@ When the right hand is held above (the sacred thread etc.), the twice-born perso
 <details><summary>मेधातिथिः</summary>
 <u>ननु</u> च लोकतः सिद्धाः पदार्था धर्मशास्त्रे ऽप्य् आश्रीयन्ते । न पदार्थसंविज्ञानार्थानि मन्वादिवाक्यानि, व्याकरणाभिधानकाण्डस्मृतिवत् । <u>उक्तम्</u> अस्माभिर् यो नातिप्रसिद्धो ऽर्थस् तं चेल् लक्षयन्ति किम् उपालम्भम् अर्हन्ति । अस्ति चात्र किंचित् प्रयोजनम् अन्यद् अपि । आचमनक्रमम् उच्यमानम् उपसंव्यानादिकम् आचमनाङ्गं यथा विज्ञायते । यद्य् अप्य् उपवीतधारणं व्रतार्थतया पुरुषार्थतया वा सर्वदा प्राप्तं तथापि तेन विनाचमनं कृतम् अप्य्[^२२१] अपरिपूर्णम्[^२२२] एव स्यात्[^२२३] । असत्य् अस्मिन् वचने व्रते वैगुण्यं पुरुषदोषश् च स्यात् । अथ पुनर् अन्तरेणोपवीतम् आचमनं कृतम् अप्य् अकृतसमम्, दोषश् च स्याद् अप्य् अशुचिना कृतम् अपां भक्षणम् इति । 
 
+
 [^२२३]:
      G 1st ed.: eva (na) syāt; G 2nd ed.: eva na syāt 
 
+
 [^२२२]:
      M G: paripūrṇam
+
 
 [^२२१]:
      M G 1st ed. omit: kṛtam apy
 
 - <u>कथं</u> पुनः केवलस्योपवीतस्यैवाचमनाङ्गता यावतान्यद् अप्य् अत्र निर्दिष्टं प्राचीनावीति च । <u>उच्यते</u> । प्राचीनावीतं स्वशब्देनैव पित्र्ये कर्मणि विहितम्, तत्रार्थवत्तायाम् उपयातायां नाकृतार्थेनोपवीतेन विकल्पितुम् अर्हति । निवीतम् अप्य् अभिचारे ऽर्थवत् । यद्य् अप्य् अत्र निवीतस्य विनियोगो नास्ति, तथापि स्मृतीनां चैकार्थ्याद् अन्यत्र यो विनियोगस् तेनेहाप्य् अर्थवत्ता भवत्य् एव । पाणिग्रहणं बाहूपलक्षणार्थम् उद्धृतबाहुर् यतो लोक उपवीतीत्य् उच्यते । सार्वकालिकं चोपवीतं वक्ष्यामः । न च केवलपाणाव् उद्धृत उपवीती । **सव्ये** उद्धृते **प्राचीनावीती** । समासपदान् नामधेयम् । असमासस् तु वृत्तानुरोधितया । **कण्ठसज्जने** । कण्ठे सज्जनं सङ्गः[^२२४] स्थापनम् । यदा वस्त्रस्य सूत्रस्य वान्यतरो ऽपि बाहुर् उद्ध्रियते तदा **निवीती** भवति ॥ २.६३ ॥
+
 
 [^२२४]:
      G 1st ed.: saṅga
@@ -4595,6 +5159,16 @@ over the head, resting the thread on the left shoulder, hanging down the right a
 *wearer of* *the* *Prāchīnāvīta*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दक्षिणे पाणावुद्धते वामस्कन्धस्थिते दक्षिणस्कन्धावलम्बे यज्ञसूत्रे वस्त्रे वोपनीती द्विजः कथ्यते । वामपाणावुद्धते दक्षिणस्कन्धस्थिते ग्रामस्कन्धावलम्बे प्राचीनावीती भण्यते । सव्ये प्राचीनआवीतीति छन्दोनुरोधादुक्तम् । तथा च गोभिलः -“दक्षिणबाहुमृद्धृत्यशिरोऽवधाय सव्येंऽसे प्रतिष्ठापयति दक्षिणस्कन्धमवलम्बनं भवत्येवं यज्ञोपत्रीती भवति, सव्यं बाहुमुद्धृत्य शिरोऽवधाय दक्षिणेंऽसे प्रतिष्ठापयति सव्यं कक्षमवलम्बनं भवत्येवं प्राचीनावीती भवति” । निवीती कण्ठसज्जन इति शिरोवधाय दक्षिणपाण्यादावप्यनुद्धृते कण्ठादेव सज्जन ऋजुप्रालम्बे यज्ञसूत्रे वस्त्रे च निवीती भवति ॥६३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+उपवीत्यादीनाम् अप्रसिद्धत्वात् लक्षणम् आह आचमनावसरे च उपवीतस्याचमनाङ्गत्वार्थम् **उद्धृत** इति । कार्पासम् उपवीतं स्याद् उक्तलक्षणम् । उपवीते **कण्ठसज्जने** कण्ठप्रक्षिप्ते सति **निवीती भवति **। एवं स्थिते सति **उद्धृते दक्षिणे **बाहौ **उपवीती** भवति । वाम उद्धृते** प्राचीनावीती**त्य् एवं लक्षण्द्वयप्रसिद्ध्यर्थम् इह । एवं निवीतलक्षणं मनुष्यकार्यार्थं च “निवीतं मनुष्याणाम्” इति श्रुतेः । प्राचीनावीतीति सञ्ज्ञा । वृत्तानुरोधात् तु **प्राचीन आवीती**त्य् उक्तम् । एतच् च पित्र्ये कर्मणि ॥ २.६३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 063	A twice-born man is called upavitin when his right arm is raised (and the sacrificial string or the dress, passed under it, rests on the left shoulder); (when his) left (arm) is raised (and the string, or the dress, passed under it, rests on the right shoulder, he is called) prakinavitin; and nivitin when it hangs down (straight) from the neck.
@@ -4607,7 +5181,7 @@ over the head, resting the thread on the left shoulder, hanging down the right a
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.६४ मेखलाम् अजिनम्</summary>
 
 मेखलाम् अजिनं दण्डम्  
 उपवीतं कमण्डलुम् ।  
@@ -4630,8 +5204,10 @@ When the girdle, the skin, the staff, the sacred thread or the water-pot becomes
 
 - <u>उच्यते</u> । ग्रहणं तावद् दण्डस्य चोदितम्, मेखलाया बन्धनम् । तत्र सूत्रस्य[^२२५] विन्यासस् तावद् उपनयनाङ्गत्वेनावश्यं कर्तव्यम् । कृते तस्मिन् कृतः शास्त्रार्थः । उत्तरकालं किं तैर् नष्टैर् अनष्टैर् वा । अङ्गनाशे च प्रतिपत्तिविशेषः कर्मोपकारको भवति । न च तेषां किंचन कार्यम् आम्नातं येन तत्सिद्ध्यर्थं विशिष्टे काले वाचनिकम् उपादानम् । अकृतत्वाच् च कार्यस्य तत्प्रयुक्तं पुनरुपादानम् अर्थसिद्धम् उच्यते । तस्मात् प्रतिपत्तिविधानाद् उपादानवचनाच् च धारणम् अङ्गम्, न च प्रयोगापवर्गि । यतः कमण्डलुनोपनयनोत्तरकालानुवर्तिना तुल्यवन् निर्देशात् तेषाम् अप्य् उत्तरत्रानुवृत्तिः प्रतीयते । सा च व्रताङ्गम् । अत उभयार्था मेखलादयः- प्रकरणाद् उपनयनार्थाः, निवृत्ते चोपनयने दर्शनाद् यावद् ब्रह्मचर्यभाविनः । कमण्डलुश्[^२२६] चोदकार्थः कर्तव्यो ऽस्माद् एव प्रतिपत्तिविधानात् । अन्यथा यदा कमण्डलुस् तदेयं प्रतिपत्तिर् इति पाक्षिकत्वं स्यात् । 
 
+
 [^२२६]:
      M G 1st ed.: kamaṇḍalunā
+
 
 [^२२५]:
      G: sūtrakasya
@@ -4684,6 +5260,16 @@ urine, excreta, blood or semen, they should be thrown away; when the water-pot b
 broken, the Brāhmaṇa should bathe and then wear a new one.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मेखलादीनि विनष्टानि भिन्नानि छिन्नानि च जले प्रक्षिप्यान्यानि नवानि स्वस्वगृह्योक्तमन्त्रैर्गृह्णीयात् ॥६४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मेखलाम्** इति । **विनष्टानि** मेखलादीनि **अप्सु** प्रक्षिप्य्**आन्यानि **समन्त्रकाणि गृह्णीयात् तानि । तथा च बौधायनेन सर्वेषां मन्त्र आम्नातः मेखलादिभिश् च शास्त्रवद्ग्रहणैः सह प्रतिपत्तिनियमात् “गृह्णीतान्यानि मन्त्रवत्” इति च कमण्डलोर् अप्य् उक्तत्वात् कमण्डलोर् अप्य् उदकार्थं शास्त्रवद्ग्रहणम् इत्य् अवसीयते । पुनर्ग्रहणाच् चोपनयनोत्तरकालम् अप्य् एषाम् अनुवृत्तिर् अनुमीयते नोपनयनगतैव ॥ २.६४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 064	His girdle, the skin (which serves as his upper garment), his staff, his sacrificial thread, (and) his water-pot he must throw into water, when they have been damaged, and take others, reciting sacred formulas.
@@ -4698,7 +5284,7 @@ broken, the Brāhmaṇa should bathe and then wear a new one.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.६५ केशान्तः षोडशे</summary>
 
 केशान्तः षोडशे वर्षे  
 ब्राह्मणस्य विधीयते ।  
@@ -4754,6 +5340,16 @@ the *keśānta*.’
 *keśānta* ceremony is described by the description of the *Cūḍākaraṇa*
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+केशान्ताख्यो गृह्योक्तसंस्कारो "गर्भादिसंख्या वर्षाणाम्” इति बौधायनवचनाद्गर्भ षोडशे ब्राह्मणस्य, क्षत्रियस्य गर्भद्वाविंशे, वैश्यस्य ततो द्व्यधिके गर्भचतुर्विंशे कर्तव्यः ॥६५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**केशान्त** इति । केशान्ताख्यः संस्कारः ब्राह्मणादीनां यथाक्रमं षोडशद्वाविंशचतुर्विंशेषु वर्षेषु विधीयते ॥ २.६५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 065	(The ceremony called) Kesanta (clipping the hair) is ordained for a Brahmana in the sixteenth year (from conception); for a Kshatriya, in the twenty-second; and for a Vaisya, two (years) later than that.
@@ -4770,7 +5366,7 @@ the *keśānta*.’
 
 ## स्त्रीषु
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.६६ अमन्त्रिका तु</summary>
 
 अमन्त्रिका तु कार्येयं  
 स्त्रीणाम् आवृद् अशेषतः ।  
@@ -4794,11 +5390,6 @@ For females, this whole series should be performed at the right time and in the 
 
 [^२२७]:
      M G 1st ed.: pauṃsnam eva
-
-_पूर्वेणावृद्वचनेन जातकर्मादिवद् उपनयने ऽप्य् अमन्त्रके प्राप्ते_[^२२९]_ तन्निवृत्त्यर्त्यम् आरभ्यते ।_
-
-[^२२९]:
-     M G 1st ed. add: tadāpattivacanaṃ vivāhasya; this is included in the third sentence of the commentary.
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -4859,6 +5450,16 @@ without mantras.’
 Jātakarma and ending with Tonsure are to be done for women, without mantras; but even in Tonsure, the Homa is to be done with mantras.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इयमावृदयं जातकर्मादिक्रियाकलापः समग्र उक्तकालक्रमेण शरीरसंस्कारार्थं स्त्रीणाममन्त्रकः कार्यः ॥६६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+“प्राङ्नाभिवर्धनात् पुंसः” इति पुङ्ग्रहणस्य स्त्र्यर्थत्वे प्रमाणाभावात् स्त्रीणाम् अप्राप्त इत्य् अत आह **अमन्त्रिकेति ।** एषा सकलसंस्कारपद्धतिः कालक्रमानतिक्रमेण **स्त्रीणां संस्कारार्थं **मन्त्रवर्जिता **कार्या **॥ २.६६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 066	This whole series (of ceremonies) must be performed for females (also), in order to sanctify the body, at the proper time and in the proper order, but without (the recitation of) sacred texts.
@@ -4871,7 +5472,22 @@ Jātakarma and ending with Tonsure are to be done for women, without mantras; bu
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_पूर्वेणावृद्वचनेन जातकर्मादिवद् उपनयने ऽप्य् अमन्त्रके प्राप्ते_[^२२९]_ तन्निवृत्त्यर्त्यम् आरभ्यते ।_
+
+[^२२९]: M G 1st ed. add: tadāpattivacanaṃ vivāhasya; this is included in the third sentence of the commentary.
+</details>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+अनेनोपनयनेऽपि प्राप्ते विशेषमाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.६७ वैवाहिको विधिः</summary>
 
 वैवाहिको विधिः स्त्रीणां  
 संस्कारो वैदिकः स्मृतः ।  
@@ -4937,6 +5553,20 @@ This verse is quoted also in *Madanapārijāta* (p. 37), which also adopts the r
 
 *Yama* (Vīramitrodaya-Saṃskāra, p. 402).—‘In former times, for girls
 also there was Upanayana, also the teaching of the Veda and the pronouncing of the Sāvitrī. But she should be taught by her father, uncle or brother, none else. For the girl, alms-begging is to be done in her own home; and she should avoid the skin, the rags and also matted locks.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+**\[ अग्निहोत्रस्य शुश्रूषा सायमुद्वासमेव च ।**
+
+**कार्यं पत्न्या प्रतिदिनमिति कर्म च वैदिकम् ॥७॥ \]**
+
+विवाहविधिरेव स्त्रीणां वैदिकः संस्कार उपनयनाख्यो मन्वादिभिः स्मृतः । पतिसेवैव गुरुकुले वासो वेदाध्ययनरूपः ।गृहकृत्यमेव सायम्प्रातः समिद्धोमरूपोऽग्निपरिचर्या ।तस्माद्विवाहादेरुपनयनस्थाने विधानादुपनयनादेर्निवृत्तिरिति ॥६७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवम् उपनयने ऽप्य् अमन्त्रके प्राप्ते आह **वैवाहिक** इति । यद् विवाहविधानं तद् एवासां वैदिकसंस्कारः उपनयनस्थाने । **पतिसेवा** च गुरुशुश्रूषास्थाने, **गृहकृत्यं **चाग्निपरिचरणस्थाने ॥ २.६८ ॥
 </details>
 
 <details><summary>Bühler</summary>

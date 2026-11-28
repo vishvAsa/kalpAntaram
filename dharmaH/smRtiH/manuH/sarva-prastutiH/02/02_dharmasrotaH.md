@@ -2,7 +2,15 @@
 title = "०२ धर्मस्रोतः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+इदानीं धर्मप्रमाणान्याह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.६ वेदो ऽखिलो</summary>
 
 वेदो ऽखिलो धर्ममूलं  
 स्मृति-शीले च तद्विदाम् ।  
@@ -16,106 +24,150 @@ title = "०२ धर्मस्रोतः"
 
 The entire Veda is the root-source of Dharma; also the Conscientious Recollection of righteous persons versed in the Veda, the Practice of Good (and learned) Men, and their self-satisfaction.—(6)
 
+
 “What is the relevanoy of what is stated in this verse? It is Dharma that has been declared as the subject to be described; and Dharma can be described only by means of Injunctions and Prohibitions. Now as regards the fact of the Veda being the source of Dharma, this cannot form the subject of any injunction such as ‘the Veda should be known as the source of Dharma, as the authoritative means of ascertaining Dharma because this fact can be known without its being enjoined in so many words; certainly the fact of the Veda being the source of Dharma does not stand in need of being notified by any injunctions of such writers as Manu and others; in fact the authoritativeness of the Veda regarding matters relating, to Dharma is as self-evident as that of Direct Perception,—being based upon the facts that (1) it brings about cognitions that are never sublated, (2) that it is not the work of any person, and as such it is entirely free of any suspicion of falsity that might be due to the defects of such authors, and (3) that the words of the Veda itself are free from all defects.
+
 
 “It might be argued that—‘what the text does is to refer to the well-established fact of the Veda being authoritative, with a view to indicate that the Smṛtis of Manu and others are based upon the Veda.’
 
+
 “But this explanation cannot be accepted. For this fact also does not need to be stated; as (l) every Smṛti, by its very nature, must, be dependent upon a previous cognition, (2) the chances of mistake in the Smṛtis are precluded by the fact of their being accepted by great men, (3) the super-sensuous things spoken of in the Smṛtis could not be known to M anu and others (by any ordinary means of knowledge), and (4) every man knows it from his own experience that there is “recollection” of things taught in the Veda; so that the only possible view that could be entertained regarding the Smṛtis is that they are based upon the Veda [which, therefore, need not have been re-iterated in the Text]. Further, persons who know the Veda cannot stand in need of any Smṛti for learning what they should do; and lastly, when the Veda itself is the source of Dharma, there can be no need for postulating any other sources (in the shape of Smṛti, etc.).
+
 
 “Nor is it right to assert that ‘the conscientious recollection of persons versed in the Veda is also merely referred to for the purpose of pointing out the unauthoritative character of the heterodox Smṛtis’; because the unauthoritative character of these latter is already well established by reasoning. For such heterodox people as the Śākya, the Bhojaka, the Kṣapaṇaka and the rest, there is no possibility of any knowledge of the Veda, by virtue of which they might be regarded as authoritative on matters treated of in their Smṛtis; because in the first place they do not admit any connection with the Veda; secondly, they openly declare that the Veda is hot authoritative; thirdly, they contain teachings directly opposed to the Veda; and lastly, these Smṛtis clearly prohibit the study of the Veda. If Buddha and others had been students of the Veda, then alone could there be any question as to whether or not their Smṛtis are based upon the Veda. When however, as a matter of fact, any connection with the Veda is not even remotely possible, how could there be any possibility of these being based upon the Veda? On the contrary, these writers themselves put forward an entirely different basis for their codes,—in the form of tradition (handed down through a series of several Buddhas); as for example, in the following words: ‘with my divine eyes I perceive the good and bad conditions of Bhikṣus.’ Exactly in the same manner, all such heterodox people as the Bhojaka, the Pañcarātra, the Nirgrantha, the Anarthavāda, the Pāśupata and the rest hold that their scriptures are the works of gifted personalities, particular deities, capable of directly perceiving the subjects dealt with by them; and they do not admit that Dharma has its source in the Veda; in fact their scriptures contain teachings directly opposed to the Veda; e.g., some of these people, holding that death frees the living being from the troubles of living, hold all Killing to be meritorious; and this (reckless) killing is distinctly prohibited in the Veda; similarly, others hold Bathing at sacred places to be sinful, while the Veda directly enjoins daily bathing and living at sacred places; so again, according to some people, the killing of animals at the Agniṣṭoma sacrifice is sinful; and this is against the Vedic injunction laying down the performing of that sacrifice;—lastly, some people hold that all such acts as the offering of libations and sacrifices are entirely selfish, while according to the Veda, which prescribes various deities in connection with the said acts, they are performed for the sake of these several deities. So that there is distinct disagreement between the Veda and the said heterodox scriptures.
 
+
 “Some people have argued as follows:—
+
 
 ‘In the Veda also we find contradictory assertions e.g., one passage lays down the holding (of the Śodaśī-vessel, at the Atirātra sacrifice), while another says it should not be held; similarly one passage prescribes the time after Sunrise as best suited to the pouring of libations, while another lays down the time before Sunrise; so that it is quite possible that in the Veda itself—either in its lost Rescensions or even in such Rescensions as are not completely lost—there may be found injunctions contrary to a certain Vedic injunction [and these contrary Vedic passages would form the basis for the non-Vedic teachings of the heterodox Smṛtis ]. The number of Vedic Rescensions is endless; how could all of them be known to any one person? And it is quite possible that some of them might have become lost. So that it is quite possible that there may be some such Vedic Rescensional text as contains direct injunctions of such acts as Eating in a vessel made of human bones, remaining naked-skinned and so forth (which have been prescribed in some heterodox scriptures).’
 
+
 “Our answer to the above is as follows:—We do not deny the possibility of mutually contradictory teachings being found in the Veda; what we mean is that in all such cases (where both the injunctions are equally directly perceived), both injunctions stand upon the same footing, and consequently the two acts are regarded as optional alternatives. In the case in question however (i.e., when the teaching of a heterodox scripture is found to contradict the direct teaching of the Veda), the Vedic text (in support of the heterodox teaching) could only be assumed; but there can be no occasion for the assumption of a text directly contradictory to one that is directly perceived. The mere possibility of a Vedic text (in support of the heterodox teaching) cannot lead to any certainty regarding its actual existence; while the Vedic injunction to the contrary is directly perceptible and certain; and certainly a certain text can never be sublated by an uncertain one. As for the theory of ‘lost Rescensions,’ we shall deal with it in detail later on, in our comments on this same verse. As regards the (orthodox) Smṛtis of Manu and others, their relationship to directly perceptible Vedic texts is quite patent; in some cases they are related to the Vedic mantras, in others to the Vedic deities, and in others again with substances and other details. No such relationship is possible in the case of the heterodox Smṛtis; hence no authority can ever belong to them (for the purpose of re-iterating which fact there could be a reference to the ‘Recollection of persons versed in the Veda.’)
+
 
 “As regards Practice,—that which consists in what is actually done, with a view to invisible results, by persons learned iu the Veda,—its authoritative character is exactly like that of Recollection (Smṛti); because that also has its basis in the Veda. On the other hand, wrong Practice is generally based upon visible causes (of greed, &c.), and unlearned persons are apt to commit mistakes; hence it can not have any authority at all.
 
+
 “Similarly with Self-satisfaction.
+
 
 “If again the authority of the Veda, of Recollection and of Practice were dependent upon the teachings of Manu and others (in the shape of the present verse), on what would the authority of these latter rest? If on other teachings—such as ‘the Smārta Dharma has been expounded by Manu,’—then, whence the authority of these latter? In fact, the ultimate criterion as to what is authoritative and what is not authoritative, would be a purely logical one, and it would not consist in any teaching at all. So that the present verse is absolutely useless; and so also other similar verses that follow.”
 
+
 “No one regards the Atharva as a Veda: (a) ‘The science is three-fold, consisting of the Ṛk, the Yajuṣ and the Sāman,’ (b) ‘The Sun moves forward, endowed with the three Vedas’ (Taittirīya Brāhmaṇa, 3.12.91), (c) ‘One should keep up the observance of studying the three Vedas’; [all these speak of only three Vedas]. In fact we also find a prohibition regarding the Atharva—‘One should not recite the Atharvaṇas.’ It is in view of all these that people regard the followers of the Atharvaṇa as heretics, beyond the pale of the Vedic Triad.”
+
 
 “It has been asserted that the Veda consists of injunctions, descriptions, mantras and names, and Dharma is of the nature of what should be done. Now it is only right that the Injunctive passages should be the means of knowing Dharm a; as it is from these that we learn that sacrifice and other acts should he done,—e.g., ‘the Agnihotra should be offered,’ ‘an offering of curds should be made,’ ‘offerings should he made in the morning and in the evening, to Agni and Prajāpati,’ ‘one desirous of attaining Heaven should pour libations into the fire.’ The whole set of these passages points to the particular action of ‘Agnihotra’ as one that should he done; ‘curds’ are the substance to be offered at the same sacrifice, Agni and Prajāpati are the deities to whom the offerings are to be made,—and the ‘desire for heaven’ is the qualifying condition for the performer.
 
+
 “But in the Veda there are many such passages as—(a) ‘Agni is all the deities, Agni is the divine power of oblations, he invites the Gods and makes offerings to them,’ &c., and again (b) ‘Prajāpati cut out his own fat’ and so forth; and certainly such passages do not lay down anything to be done; all that they do is either to relate some past event or to describe some entirely irrelevant thing. If his own fat was cut out by Prajāpati, let him cut it; what is that to us? Similarly the fact of Agni being all deities does not help in the offerings to Agni; that Agni is the deity to whom the offering should be made having been declared by the word ‘Agni’ itself; if Agni is some other deity, then the mere fact of his being another deity would rule him out as a recipient of that offering. As for inviting, that also is laid down by another passage ‘we invite Agni, O Agni!’ Ac. And lastly, as for the mention of Agni inviting and making offerings to the Gods, this is absolutely meaningless.
+
 
 “As regards mantras again, there are some,—e.g., (a) ‘There was neither death nor immortality, &.,’ (Ṛgveda, 10.129.2), (b) ‘Sudeva might fall to-day never to return, &c.,’ (Ṛgveda, 10.95.14) and so forth—which either describe some past event or contain a wailing; and what Dharma could such mantras expound? At that time there was neither death, nor immortality, nor life—certainly no living being having been born before creation, there, was no life or death of any one; during the universal dissolution also, there may come about the death of all things, or it may not come about,—it does not teach us anything as to anything to be done. Similarly, Sudeva, a certain highly meritorious godlike man, might to-day fall, i.e.,—might throw himself into a pit—never to return—i.e., after which fall he cannot come back to life;—this is how Purūravas, separated from Urvaśī, bewailed.
 
+
 Similarly as regards Names,—e.g, as ‘one should sacrifice with the Udbhid,’ ‘one should sacrifice with the Balabhid,’ &c., &c.,—they do not enjoin any act or substance; the enjoining of the action being done by the verb (‘should sacrifice’), and the word ‘Balabhid’ and ‘Udbhid, &c., not being expressive of any substance; specially as the substance for the sacrifice iu question in the form of Soma—is got at from its archetype by virtue of the direct injunction. [that ‘the ectypal sacrifices are to be performed in the manner of their archetypes,’ and the archetype of the Udbhid sacrifice is the Jyotiṣṭoma at which soma-juice is the substance offered]; and hence there is no necessity for twisting the words ‘udbhid,’ &c., to yield the name of some sacrificial material [such as tree or spade, which may be indicated by the etymology of the word ‘udbhid,’ which means ‘that which shoots out’ or ‘that with which digging is done’]. Thus it is clear that no dharma is indicated by the names. How then can it be said that ‘the entire Veda is the root of dharma?’”
+
 
 “The Śyena and other sacrifices of the kind are in the form of malevolent spells; and partaking of the character of murder, they are distinctly of the nature of ‘Himsā’ (Injury); and since all form of injury is cruel, and all evil spells have been prohibited, these sacrifices must be ‘Adharma,’ the opposite of ‘Dharma’ (sinful). [And since the Veda lays down such sacrifices] the ‘entir’ Veda cannot be the ‘root of Dharma.’ Por ‘Dharma’ has been explained as ‘what should be done,’ and certainly the killing of the Brāhmaṇa is not ‘what should be done.’ How then can the passages laying down such acts be the ‘root of Dharma’? Further, even the animal-sacrifices—Agniṣomīya and the rest,—involve the killing of animals, and as such are very far removed from the character of ‘Dharma.’ That killing is sinful is admitted by all enquiries. To this end it has been said ‘where the killing of living beings is Dharma, what can be Adharma?’”
 
+
 “It has been held that Recollection is not a reliable means of knowledge; and the reason for this that is given is that Recollection only serves to recall what has been apprehended by other means of knowledge, and does not lead to the apprehension of anything new.”
+
 
 “It is quite possible that Manu and others have compiled their ‘Recollections’ from imagination, without having actually apprehended what they speak of; in the same manner as certain poets compose a story after having created the whole plot from imagination.”
 
+
 “But people might he led to perform it by mistake.”
+
 
 “Who has laid down the law that in the said passage the Injunction is conveyed, not directly by the Arthavāda itself, but by the fact of its being connected with another Injunctive passage? As a matter of fact, the passage itself contains an independent finite verb of its own—‘these four fall’ [and this would serve as the direct prohibition). It might be argued that the verb does not contain the Injunctive affix: But the passage ‘they obtain a standing who per form the Rātrisatra’ also contains no verb ending with the Injunctive affix. It might he argued that—‘in the case of the Rātrisatra, the need for a qualifying condition being distinctly felt, the two sentences (they obtain a standing and they perform the Rātrisatra) come to be taken as syntactically connected, and the necessary injunction is got at by assuming the verb to contain the Let ending.’—But the same may be said in regard to the passage in question also. In fact, there are several injunctions of substances and deities that are obtained from Arthavādas. In a case where the Arthavāda is distinctly subservient to an Injunctive passage,—since this latter injunction would be in need of the mention of a substance or a deity (for the act enjoined) [that may be found mentioned in the corresponding Arthavāda], it may not be improper to take the Arthavāda as simply serving to supply the needs of the corresponding Injunction (and not as enjoining anything independently by itself). In the present instance however (of the Arthavāda passage ‘the theft of gold, etc., etc.’), if we are to seek for an injunction that has no connection with the Arthavāda (and this injunction were sought to be derived from the words of the Arthavāda itself), then this would give rise to a syntactical split; hence it cannot be taken as subservient to the main subject-matter of the context (i.e., the science of the Five Fires); and in the absence of such subserviency, the Arthavāda could not provide any idea of the Prohibition. This is the point on which the case of the Arthavāda in question is not analogous to that of the sentences—‘One should put in wet pebbles’ and ‘Butter is glory’ [where the connection between the two is quite clear].”
 
+
 ‘The view that some Vedic texts have become lost is not accepted by me; as this view necessitates several unwarrantable assumptions. It is far more reasonable to accept the view that the Smṛtis have brought together the injunctions of actions scattered about here and there. In fact even at the present day we find that a person who is surrounded by several Vedic scholars and teachers is capable of composing works after having heard from those persons the several Vedic texts. It is only natural that persons who have actually seen the writer at the time, basing his statements upon direct Vedic texts should accept them as trustworthy; and we also come to have due confidence in them as far as possible. As a matter of fact, the details of performance are indicated by Mantras; and there is indication of them also by Names; there can be no performance, unless there is some sort of indication regarding the nature of the action and the qualifying conditions. For instance, the connection of a particular deity with the Āghāra -offering is indicated by the words of a Mantra; and the reason for this lies in the indicative character of Mantras, which character becomes possible only if the Deity is taken to be indicated by them. When one action enters into the constitution of another well-accomplished one, it does not interfere with the form of this latter [so that when a Deity indicated by the Mantra is introduced into an action enjoined by a distinct Injunctive passage, it does not interfere with the nature of this action]. For instance, in connection with the Viśvajit sacrifice, we find that the desirable result proceeding from it is got at from sources other than its originative Injunction. Thus it is quite reasonable to assume details in connection even with a well-established injunction, specially when the needs of the Injunction are not supplied even by Mantras and Arthavādas.
+
 
 ‘[An objection is raised]—
 
+
 “The revered Pāṇini has laid down that Injunction is expressed only by the Injunctive and other cognate affixes. So that Mantras and Arthavādas, describing as they do only accomplished entities, can never express an injunction. If then, from theArthavāda, which is not directly injunctive, some sort of Injunction were deduced by means of an indirect interpretation put upon the Arthavāda,—how could any reliance be placed upon such an Injunction? In fact such an interpretation would lead to a syntactical split; specially as (in such arthavādas as they obtain a standing who perform the Rātrisatra) the Rātris tra offerings do not necessarily stand in need of the ‘standing.’ In fact it is only a detail of the direct Injunction (and not that of the vāda) which can be accepted as indicated by supplementary sentences. As regards the prohibition of Theft, etc. (which has been sought to be deduced from the Arthavāda passage ‘the theft of gold, etc., etc.’), this will certainly be amenable to a direct Injunction; and as in the event of the arthavāda being made to yield the necessary injunction, syntactical split would be inevitable. Nor is there any analogy between the Vācastoma and the Aṣṭakā; for in the sacrifice all the details are performed in accordance with injunctions deduced from mantras; while in the case of the Aṣṭakā there are no grounds for regarding the mantra as indicative of any details of performance. Further, no indicative power of the mantra can prompt one to any course of action, unless there is some sort of a general connection; and in the case in question there is no such connection either of context or of any such factor.”
+
 
 ‘To the above objection the following reply is given by those who hold the view that also are the source of Dharma:—(a) In the case of the passage “they obtain a standing, etc.,” even though there is no directly injunctive agency in the form of the Injunctive affix and the rest, yet the idea of injunction is held to be supplied by the conjugational affix let (in the verb “upayanti,” “offer”). (b) Similarly in the case of the verb “patanti” “they fall” (occurring in the passage “Theft of gold, etc.”), or in that of the verb “use corrupt words” (occurring in another arthavāda passage), (c) In connection with the Vācastoma, we have the distinct injunction beginning with the expression ‘sarvadāśa ṭayīḥ anubrūyāt,’—this name “dāśatayī” being applied to the ten Ṛk. verses selected each out of the ten maṇḍalas of the Ṛgveda. (d) As regards the general connection (of the mantra) with the action, this is said to be brought about by the force of the Name,—the Gṛhyamantras being named after the acts (with which they are connected). (e) As regards the arthavāda passage “Theft of gold, etc., etc.,” that this is subservient to the Science of the Five Fires is indicated by the fact that it contains a deprecation of the said Theft, etc.; and this cannot be possible except when the Prohibition (of the Theft, etc.) is also implied. That the passage is subservient to the Science of Five Fires is indicated by the trend of the whole context; and the idea that the Theft, etc., should not be done serves to emphasise the said subserviency; and there is no incompatibility between these two [the idea of subserviency and that the acts should not be done ]. Lastly, as regards the view that the Vedic texts in corroboration of the Smṛti rules h ave always been inferred (and never actually found by any one in the Veda),—it stands on the same footing as the notion of long-standing tradition; both would be of the nature of the “blind following the blind”; and we do not perceive any difference between these two views.’
 
+
 “As a matter of fact, everything that is enjoined in the Veda and in the Smṛtis is the source of Dharma; and since ‘Śīla’ also is included among the acts thus enjoined, there is no point in mentioning it separately. In fact Manu himself is going to enjoin it in the following verse—‘Day and night one should take care to subdue the senses’ (7.41),—and again—‘When the mind has been subdued, the two groups of five become subdued.’ And it is this ‘subjugation of the mind’ which constitutes the ‘abandoning of love and hate,’ as we shall explain later on.”
+
 
 “If this is what is meant, it should be stated dearly, in the form ‘the words of Manu and others, are the sources of Dharma’; what is the use of setting forth the characteristics (of the writers)?”
 
+
 “But it may happen that a man’s mind is satisfied with a prohibited (sinful) act; and this would have to be regarded as Dharma. Again, a man may have hesitation (and doubt) regarding what is enjoined in the Veda; and this latter would h ave to be regarded as n ot‘ Dharma.’”
 
+
 [ādhāre] māntravarṇako devatāvidhiḥ | ita indra ūrdhvo'dhvaro divi...indravāna svāhesyādhāramādhārayati—ityevamasāvādhāro yadyasyendro devatā
+
 
 kalpe kalpe kṣayotyattau brahmaviṣṇumaheśvarāḥ | 
 śrutismṛtisadācāranirṇetāraśva sarvadā ||
 
+
 vido'khilo dharmamūlaṃ smṛtiśīle ca tadvidām | 
 ācāraśvaica sādhūnāmātmanastuṣṭireva ca ||
+
 
 dharmamūlaṃ vedamāhuḥ grantharāśimakṛtrimam | 
 tadvidāṃ smṛtiśīle ca sādhvācāraṃ manaḥpriyam ||
 
+
 vedaḥ smṛtiḥ sadācāraḥ svasya ca priyamātmanaḥ | 
 etaccaturvidhaṃ prāhuḥ sākṣāddharmasya lakṣaṇam ||
+
 
 śrutiḥ smṛtiḥ sadācāraḥ svasya ca priyamātmanaḥ | 
 samyaksaṅkalpajaḥ kāmo dharmamūlamidaṃ smṛtam ||
 
+
 dharmeṇādhigato yaistu vedaḥ saparibṛṃhaṇaḥ | 
 te śiṣṭā brāhmaṇā jñeyāḥ śrutipratyakṣahetavaḥ ||
 
+
 itihāsapurāṇābhyāṃ vedaṃ samupabṛṃhayet |
+
 
 amāmnāteṣu dharmeṣu kathaṃ syāditi ced bhavet | 
 yaṃ śiṣṭā brāhmaṇā brūyuḥ sa dharmaḥ syādaśaṅkitaḥ ||
 
+
 anāmnāte daśāvaraiḥ śiṣṭairūhavadbhiḥ alubdhaiḥ praśastaṃ kāryam |
 
+
 daśāvarā pariṣat |
+
 
 catvāro vedadharmajñāḥ parṣat traividyameva vā | 
 sā brūte yaṃ sa dharmaḥ syādeko vā'dhyātmavittamaḥ ||
 
+
 yenāsya pitaro yātā yena yātāḥ pitāmahāḥ | 
 tena yāyāt satāṃ mārgaṃ tena gacchanna riṣyati ||
+
 
 yatra śāstragatirbhinnā sarvakarmasu bhārat | 
 tasmin kulakramāyātmācāraṃ tvācared brudhaḥ ||
 
+
 yat pūrvaṃ manunā proktaṃ dharmaśāstramanuttamam | 
 na hi tat samatikrasya vacanaṃ hitamātmanaḥ ||
+
 
 vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 </details>
 
 <details><summary>मेधातिथिः</summary>
 <u>को ऽस्याभिसंबन्धः</u> । यावता धर्मो ऽत्र वक्तव्यतया प्रतिज्ञातः । स च विधिप्रतिषेधलक्षणः । तत्र न वेदस्य धर्ममूलता विधेया- "वेदो धर्ममूलत्वेन ज्ञातव्यो धर्मप्रामाण्य आश्रयणीयः" इति,[^१९] अन्तरेणैवोपदेशं तत्सिद्धेः । न हि मन्वाद्युपदेशसमधिगम्यं वेदस्य धर्ममूलत्वम्, अपि तु अबाधितविषयप्रतीतिजनकत्वेन अपौरुषेयतया च पुरुषसंसर्गदोषैर् अपि मिथ्याभिधानाशङ्काभावात्, स्वतश् च शब्दस्यादुष्टत्वात्, प्रत्यक्षवत् स्वतःप्रामाण्यसिद्धिः । 
+
 
 [^१९]:
      M G J omit: iti (I follow DK 5: 90)
@@ -124,10 +176,12 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - <u>तद् अपि न</u> । तत्रापि पूर्वज्ञानसापेक्षत्वात्, स्मरणस्य भ्रान्तिविप्रलम्भादीनां महाजनपरिग्रहादिना निरस्तत्वात्, अतीन्द्रियार्थदर्शनस्याशक्यभावाच् च पुरुषस्य च स्वानुभवसिद्धेर् वेदार्थस्मरणस्य वेदमूलतैवावैष्यते । न हि वेदविदां कार्यार्थविषयं स्मरणं[^२०] संभवति । वेदस्य च मूलत्वेन मूलान्तरकल्पनाया अनवसरः ।
 
+
 [^२०]:
      DK (5: 90) suggests adding: na (causing a double negative).
 
 - नाप्य् एतद् युज्यते वक्तुम्- "**स्मृतिशीले च तद्विदाम्**" इत्य् एतद् अप्य् अनूद्यते, बाह्यस्मृतीनाम् अप्रामाण्याय, यतस् तासां न्यायत एव सिद्धम् अप्रामाण्यम् । न हि शाक्यभोजकक्षपणकादीनां वेदसंयोगसंभवः, येन तन्मूलतया स्वविषये प्रमाणं स्युः, स्वयम् अनभ्युपगमात्, तैश् च वेदस्याप्रामाण्याभिधानात्, प्रत्यक्षवेदविरुद्धार्थोपदेशाच् च । तत्रासंभवस् तासु स्मृतिषु वेदाध्ययननिषेधात् । सति हि वेदाध्येतृत्वे बुद्धादीनां तन्मूलता स्यान् न वेति जायते विचारणा । यत्र तु तत्संबन्धो दूरापेतस् तत्र का तन्मूलताशङ्का । स्वयं च मूलान्तरं परंपरायातम् अभ्युपगच्छन्ति- "पश्याम्य् अहं भिक्षुकानां दिव्येन चक्षुषा सुगतिं दुर्गतिं च" ।[^२१] एवं सर्व एव बाह्या भोजकपाञ्चरात्रिकनिर्ग्रन्थानार्थवादपाशुपतप्रभृतयः स्वसिद्धान्तानां प्रणेतॄन् पुरुषातिशयान् देवताविशेषांश् च प्रत्यक्षतदर्थदर्शिनो ऽभ्युपयन्ति, न वेदमूलम् अपि धर्मम् अभिमन्यन्ते । प्रत्यक्षेण च वेदेन विरुद्धास् तत्रार्था उपदिश्यन्ते । तथा हि, हिंसा चेद् धर्म उच्यते संसारमोचकादिभिः, सा चात्र प्रत्यक्षतः प्रतिषिद्धा । तथान्यत्र तीर्थस्नानम् अधर्मो ऽभ्युपेयते, इह तु "अहर् अहः स्नायत्," "तीर्थानि सेवेत" इति च विधिः । तथाग्निष्टोमीयवधः क्वचित् पापहेतुर् इष्यते, स च ज्योतिष्टोमविधिना विरुद्धः । तथान्ये सर्वान् एव यागहोमान् आत्मार्थान् संमन्यन्ते, देवताभेदविधिभिर् नानादैवत्यास् ते ऽवगमिताः । अतो विरोधः ।
+
 
 [^२१]:
      M G J DK (5: 90) read _bhikṣūṇām_ in the genitive, and Jha translates: "good and bad conditions of Bhikṣus." A variant in five manuscripts recorded by Gharpure reads: _bhikṣāva_. I think this is probably a wrong transcription of _bhikṣave_, written in the old Nāgari pṛṣṭhamātrā. Now, this is not standard Sanskrit, but the form is found in Pāli and even more significantly in Gāndhāri Buddhist manuscripts from north-western India. Perhaps, Medhātithi living in Kashmir, had access to these kinds of Buddhist texts. We do find texts similar to the one cited by Medhātithi in several Buddhist texts: _paśyāmy ahaṃ bhikṣavaḥ divyena cakṣuṣā viśuddhenātikrāntamānuṣyakena satvāṃ cyavantāṃ upapadyantāṃ suvarṇāṃ durvavarṇāṃ sugatāṃ durgatāṃ . . ._ (_Mahāvastu, _ed. Senart, III: 448).
@@ -136,8 +190,10 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - <u>उच्यते</u> । न वयं ब्रूमः वेदे[^२२] विरुद्धार्थोपदेशासंभव[^२३] इति । किं तु समकक्षत्वात् तयोर् विकल्पितप्रयोगयोर् अव्याघातः । इह तु कल्प्यो वेदः । न च प्रत्यक्षविरोधिकल्पनाया अवसरः । न च संभवमात्रेण तावता निश्चयः । निश्चितस् तु तद्विरुद्धप्रत्यक्षविधिः, अनिश्चितेन न वा निश्चितं बाध्यते । शाखोत्सादपक्षं चात्रैव श्लोके परस्तात् प्रपञ्चयिष्यामः । सर्वत्र च प्रत्यक्षश्रुतिभिर् मन्वादिस्मृतिनां व्यतिषङ्गः, क्वचिन् मन्त्रेण क्वचिद् देवतया क्वचिद् द्रव्यविधिभिः । न च बाह्यासु तत्संभवतीति तासाम् अप्रामाण्यम् ।
 
+
 [^२३]:
      M G 1st ed.: -deśāt saṃbhava
+
 
 [^२२]:
      M G 1st ed.: veda
@@ -154,15 +210,18 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - व्युत्पाद्यते च वेदशब्दः । विदन्त्य् अनन्यप्रमाणवेद्यं धर्मलक्षणम् अर्थम् अस्माद् इति वेदः । तच् च वेदनम् एकैकस्माद् वाक्याद् भवति, न यावान् ऋग्वेदादिशब्दवाच्यो ऽध्यायानुवाकस्मूहः । एवं च "उदाहरणे जिह्वाच्छेदः" (ग्ध् १२.५) इत्य् एकवाक्यविषयो ऽप्य् अयं दण्डः । "कृत्स्नो ऽधिगन्तव्यः" (म्ध् २.१६५) इति कृत्स्नग्रहणं सकलवेदवाक्याध्ययनप्राप्त्यर्थम् । अन्यथा कतिचिद्वाक्यान्य् अधीत्य कृती स्यात्, न पुनः कृत्स्नं वेदम् इति[^२४] । अत्रैतन् निरूपयिष्यामः । 
 
+
 [^२४]:
      G: syāt | punaś ca vedaḥ kṛtsna iti
 
 - स च वेदो बहुधा भिन्नः । सहस्रवर्त्मा सामवेदः सात्यमुग्रिराणायनीयादिभेदेन, एकशतम् अध्वर्यूणां काठकवाजसनेयकादिभेदेन, एकविंशति बाह्वृच्या आश्वलायनैतरेयादिभेदेन, नवधा आथर्वणं मौदकपैप्पलादकादिभेदेन[^२५] । 
 
+
 [^२५]:
      J: modaka-
 
 - <u>ननु</u> नैव केचिद् आथर्वणं वेदं मन्यन्ते, यतः "त्रयी विद्या ऋचः सामानि यजूंषि" इति, "वेदैर् अशून्यस् त्रिभिर् एति सूर्यः" (त्ब् ३.१२.९.१), तथा "त्रैवेदिकं व्रतं चरेत्" (च्ड़्। म्ध् ३.१) इत्यादौ न क्वचिद् आथर्वणनामाप्य्[^२६] अस्ति । प्रतिषेधश् च श्रूयते- "तस्माद् आथर्वणेन न शंसेत्" इति । अतस् त्रयीबाह्यान् आथर्वणिकान् पाषण्डिनः प्रतिजानते । 
+
 
 [^२६]:
      M G: ātharvaṇānāmapy
@@ -173,16 +232,20 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - स **वेदो** विशिष्टः शब्दराशिर् अपौरुषेयो मन्त्रब्राह्मणाख्यो ऽनेकशाखाभेदभिन्नः, **धर्मस्य मूलं** प्रामाणं[^२७] परिज्ञाने हेतुः । कारणं मूलम् । तच् च वेदस्मृत्योर् धर्मं प्रति ज्ञापकतयैव,[^२८] न निर्वर्तकतया, न च स्थितिहेतुतया, वृक्षस्येव । 
 
+
 [^२८]:
      M G J: dharmapratijñāpakatayaiva (I follow DK 5: 92)
+
 
 [^२७]:
      M G: prāmāṇya
 
 - धर्मशब्दश् च प्राग् व्याख्यातः । यत् पुरुषस्य कर्तव्यं प्रत्यक्षाद्यवगम्यविलक्षणेन[^२९] स्वभावेन श्रेयःसाधनम् । कृषिसेवादि भवति पुरुषस्य कर्तव्यम्,[^३०] तस्य च तत्साधनत्वस्वभावो ऽन्वयव्यतिरेकाभ्याम् अवगम्यते । यादृशेन व्यापारेण कृष्यादेर् व्रीह्यादिसिद्धिः सापि प्रत्यक्षाद्यवगम्यैव । यागादेस् तु साधनत्वं येन च रूपेणापूर्वोत्पत्तिव्यवधानादिना, तन् न प्रत्यक्षाद्यवगम्यम् । श्रेयश् चाभिलषितस्वर्गग्रामादिफलप्राप्तिः सामान्यतः सुखशब्दवाच्या, व्याधिनिर्धनत्वासौख्यनरकादिफलप्राप्तिः सामान्यतो दुःखशब्दवाच्या, तत्परिहारश् च । 
 
+
 [^३०]:
      G omits: puruṣasya kartavyam
+
 
 [^२९]:
      G: -avagamyaṃ
@@ -193,6 +256,7 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - अन्यानि यावज्जीवादिपदैर् नित्यतया समर्पितानि, तानि न फलहेतोर् अनुष्ठीयन्ते, फलस्याश्रुतत्वात्[^३१] । न च "विश्वजिता यजेत" इत्यादिवद् अश्रुतफलत्वे ऽपि फलकल्पना, यतो यावज्जीवादिपदैर् विनैव फलेन कर्तव्यतयावगम्यन्ते । तत्राकरणे शास्त्रार्थातिक्रमदोषः । तत्र तत्परिहारार्थं तानि क्रियन्ते ।
 
+
 [^३१]:
      M G: phalasyāsyāśrutatvāt
 
@@ -202,6 +266,7 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - <u>अत्र चोदयन्ति</u> । <u>ननु</u> च विध्यर्थवादमन्त्रनामधेयात्मको वेदः, धर्मश् च कर्तव्यतास्वभावः, इत्य् उक्तम् । तत्र युक्तं यद् विधिवाक्यानि धर्म प्रमाणं स्युः । तेभ्यो हि यागादिविषया कर्तव्यता प्रतीयते । "अग्निहोत्रं जुहोति", "दध्ना जुहोति", "यद् अग्नये च प्रजापतये च सायं जुहोति", "स्वर्गकामो जुहोति" इति । अत्र ह्य् अग्निहोत्राख्यं कर्म कर्तव्यतया प्रतीयते । "दध्ना" इति तत्रैव द्रव्यम् । "यद् अग्नये च" इति देवता । "स्वर्गकामः" इत्य् अधिकारः । यत् तु "अग्निर् वै सर्वा देवता" (ऐत्ब् १.१.४), "अग्निर् एव दैव्यो होता", "स देवान् आह्वयति च जुहोति च" इत्यादयः, तथा "प्रजापतिर् वपाम् आत्मन उदक्खिदत्" इत्यादय, न तैः किंचित् कर्तव्यम् उपदिश्यते । केवलं पुरावृत्तम् अन्यद् वासांप्रतिकं भूतम् अनुवदन्ति । प्रजापतिना पुरा आत्मनो वपोत्खाता । उत्खिदतु, किम् अस्माकम् एतेन । तथाग्नेर् अपि सर्वदेवतात्मत्वं नाग्नेयकर्मण्य् उपयुज्यते, अग्निशब्देनोद्देशार्थनिवृत्तेः । अन्यदेवत्वे ऽन्यत्वाद् अग्नेर् उद्देश एव नास्ति । आवाहनस्यापि वचनान्तरेण "अग्निम् अग्न आवहे" (त्स् २.५.९.४) इत्यादिना विहितत्वात्, "स देवान् आह्वयति च जुहोति च" इत्यादिर् अनर्थकः । मन्त्रा अपि "न मृत्युर् आसीद् अमृतं न तर्हि" (र्व् १०.१२९.२) "सुदेवो अद्य पतेद् अनावृत्" (र्व् १०.९५.१४) इत्यादयो भाववृत्तपरिदेवनादिरूपार्थाभिधायिनः कं धर्मं प्रमिमते । तस्मिन् काले न मृत्युर् जातो नाप्य् अमृतं जीवितम् । प्राक् सृष्टेर् भूतानाम् अनुत्पन्नत्वान् न कस्यचिज् जीवितम् आसीन् नापि मृत्युः, प्रलये सर्वेषां मृतत्वात् । भवतु वा मृत्युर् मा वा, न किंचिद् एतेन कर्तय्वम् उपदिष्टं भवति । एवं सुदेवो ऽसौ महापुण्यो देवतुल्यो मनुष्यो यो ऽद्य प्रपतेच् छ्वब्र आत्मानं क्षिपेद् अनावृद् आवृत्तिः प्रत्युज्जीवनं यस्मात् प्रपातान् न भवति । उर्वश्या विप्रलब्धः पुरूरवाः परिदेव्यां चक्रे । तथा नामधेयम् । "उद्भिदा यजेत", "बलभिदा यजेत" इत्यादि न कस्यचिद् अर्थस्य क्रियाया द्रव्यस्य वा विधायकम्, आख्यातेन क्रियाया विधानाद् अद्रव्यवचनत्वाच् च बलभिदादेः । सोमस्य चाव्यक्तचोदनत्वेन प्रकृतितः प्राप्तत्वान् न क्लेशेन द्रव्यवचनता कल्प्यते । तस्मान् नाम्ना न[^३२] धर्म उपदिश्यते । अतः कथम् उच्यते कृत्स्नो वेदो धर्ममूलम् इति ।
 
+
 [^३२]:
      M G: nāmnāyena
 
@@ -209,10 +274,12 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - मन्त्रास् तु केचिद् विधायका एव । यथा "वसन्ताय कपिञ्जलान्" (म्स् ३.१४.१) इति । आधारे देवताविधिर् मान्त्रवर्णिक एव । न हि तत्र देवता कर्मोत्पत्तिवाक्ये श्रुता, नापि वाक्यान्तरेण विहिता । मन्त्रस् तु विहितो नियुक्तः "इत[^३३] इन्द्रः" (त्स् १.१.१२.१) इत्यादिः । अतो ऽस्मान् मन्त्रवर्णाद् देवताप्रतिपत्तिः । सहस्रशश् च मान्त्रवार्णिका देवताविधयः सन्ति । ये ऽप्य् अन्ये क्रियमाणानुवादिनस् ते ऽपि स्मृतिलक्षणं धर्मम् एव बुद्धं कुर्वन्तीति भवति धर्ममूलम् अनुष्ठेयार्थप्रकाशनेन । 
 
+
 [^३३]:
      DK (5: 93): yata (= RV 8.61.13)
 
 - नाम त्व् आख्यातार्थाद् अभिन्नार्थम् आख्यातार्थवत् सुप्रसिद्धधर्ममूलभावम् । गुणविधयश् च प्रायशो नामाश्रया[^३४] एव । "शरदि वाजपेयेन यजेत" (आप्श् १८.१.१) "स्वाराज्यकामो वाजपेयेन" (त्ब् १.३.२.३) इति । 
+
 
 [^३४]:
      M G J: nāmāśraya
@@ -224,6 +291,7 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 - कथं पुनर् इयम् आशङ्कापनुद्यते । अखिलग्रहणात् । न ह्य् अस्यान्यत् प्रयोजनम् अस्ति । हेतुर् नोक्त इति चेत्, आगमग्रन्थो ऽयं सिद्धम् अर्थम् आह । हेत्वर्थिनो मीमांसातो विनीयन्ते । अस्माभिर् उक्तं य आगममात्रेण प्रतियन्ति तान् प्रत्य् एतद् उच्यते ।
 
 - विवरणकारास् तु युक्तिलेशमात्रं दर्शयन्ति । यद् उक्तम्, स्येनादयः प्रतिषिद्धत्वाद् अधर्म इति, तत् सत्यम् । तथापि प्रतिषिद्धेष्व् अपि तेषु यो ऽत्यन्तप्रवृद्धद्वेषः "न हिंस्याद् भूतानि" इत्य् अतिक्रान्तनिषेधाधिकारस् तस्य ते शत्रुवधलक्षणां प्रीतिम् अनुष्ठीयमानां निर्वर्तयन्तीत्य् एतावतांशेन वेदस्य धर्ममूलत्वं श्येनादिवाक्येष्व् अपि न विहन्यते । निषेधेष्व् अपि यो रागतः प्रवृत्तो हनने स निषेधे नियुज्यते । एतद् एव निषेधस्यानुष्ठानं यन्निषिध्यमानस्याननुष्ठानम् । अग्नीषोमीयादौ तु नैव हिंसाप्रतिषेधो ऽस्ति, द्वेषलक्षणाया लौकिक्या हिंसाया निषेधेन निषिद्धत्वात् । शास्त्रीया तु विधिलक्षणा न निषेधेन विषयीक्रियते, लौकिक्यां चरितार्थत्वान् निषेधस्य । न च सामान्यतो दृष्टेन हिंसात्वाल् लौकिकहिंसावद्[^३५] वैदिक्याः पापहेतुत्वम् आपादयितुं शक्यते । यतो न हिंसात्वं पापहेतुत्वे कारणम्, अपि तु प्रतिषेधेन विषयीकरणम् । न चात्र प्रतिषेधो ऽस्तीत्य् उक्तम् ।
+
 
 [^३५]:
      DK (5: 94): laukikavad
@@ -238,10 +306,12 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - <u>ननु</u> कल्पयित्वा ग्रन्थम् उपनिबध्नीयुर् अननुभूयैव केनचित् प्रमाणेन,[^३६] यथोत्पाद्य वस्तु कथानकं केचन कवयः कथयेयुः ।
 
+
 [^३६]:
      G: -badhnīyur ananubhūtakena pramāṇena (this may be due to Gharpure's attempt to "correct" the readings; both M and J have the same reading)
 
 - <u>अत्रोच्यते</u> । भवेद् एवं यद्य् अत्र कर्तव्यतोपदेशो न स्यात् । कर्तव्यतोपदेशो ह्य् अनुष्ठानार्थः । न च केचित्[^३७] स्वेच्छया कल्पिते बुद्धिपूर्वव्यवहारिणो ऽनुष्ठातुम् अर्हन्ति । भ्रान्त्याप्य् अनुष्ठानसिद्धिर् इति चेत्, स्याद् अप्य् एकस्य भ्रान्तिः, सर्वस्य जगतो भ्रान्तिर् यावत् संसारभाविनी चेत्य् अलौकिकी कल्पना । न च संभवति मन्वादीनां वेदमूलत्वे भ्रान्त्यादेर् अवसरः । 
+
 
 [^३७]:
      DK (5: 94): kenacit
@@ -266,6 +336,7 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - कर्तृतः[^३८] कर्मतो वापि वियुज्येते न जातु तौ ॥
 
+
 [^३८]:
      G: karmataḥ (clearly a mistake perpetuated in G 2nd ed. also)
 
@@ -287,6 +358,7 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - अस्मिंस् तु पक्षे विरोधद्वयस्यापि प्रत्यक्षश्रौतत्वाद् विकल्पे न[^३९] स्मृतेर् बाधः । स च विशिष्टानां नाभिप्रेतः । स्मृतिकाराश् च बाधम् अनुमेयश्रुतिमूलत्वं च प्रतिपन्नाः । एवम् अप्य् आह गौतमः- "ऐकाश्रम्यं त्व् आचार्याः प्रत्यक्षविधानाद् गार्हस्त्यस्य" इति (ग्ध् ३.३५) । यदि हि मन्वादीनं प्रत्यक्षास् ताह् शाखा अभवन्, केयं वाचोयुक्तिर् "गर्हस्थ्यस्य प्रत्यक्षविधानात्" इति । <u>ननु</u> सर्व एवाश्रमाः प्रत्यक्षविधानाः । स्वमतम् एव चैतद् गौतमेनाचार्यापदेशेनोपदिष्टम् "तस्याश्रमविकल्पम्" (ग्ध् ३.१) इत्याद्य् उपक्रम्यानेनोपसंहृतत्वात् 
 
+
 [^३९]:
      DK (5: 95): vikalpena (as instrumental)
 
@@ -294,8 +366,10 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - <u>अथ</u> "विध्युद्देशो विधेः प्रतिपादकः, नार्थवादः" इति केनैषा परिभाषा कृता । "एते पतन्ति चत्वारः" (छु ५.१०.९) इत्य् अत्राप्य् आख्यातश्रवणम् अस्ति । लिङादयो[^४०] न सन्तीति चेत्, "प्रतितिष्ठन्ति" (च्ड़्। ताण्ब् २३.२.४) इति रात्रिष्व् अपि नैव लिङ्श्रुतिर्[^४१] अस्ति । अथ तत्राधिकाराकांक्षायाम् एकवाक्यतायां सत्यां पञ्चमलकारादिकल्पनया विध्यवसायः, एवम् अत्रापि भविष्यति । बहवश् च द्रव्यदेवताविधयो ऽर्थवादावगम्याः सन्ति । तत्र यस्य विधेः शेषा अर्थवादास् तद्विधिनैव द्रव्यदेवतादेर् अपेक्षितत्वाद् विशेषसमर्पणमात्रे व्यापारान्तर्गतविशेषावगतिर् अर्थवादाधीना न दोषाय । इह तु तदसंबद्धस्य विध्यन्तरस्येष्यमाणत्वाद् वाक्यभेदापत्तिर् अतश् च न प्रकृतिशेषता । तदभावे च तन्मूला प्रतिषेधावगतिर् न स्यात् । अतश् च "अक्ताः शर्करा उपदधाति" (त्ब् ३.१२.५.१२), "तेजो वै घृतम्" (ऐत्ब् ८.२०) इत्य् अनेन वैषम्यम् इत्य् आहुः । 
 
+
 [^४१]:
      G 1st ed.: liṅgaśrutir
+
 
 [^४०]:
      G 1st ed.: liṅgādayo
@@ -304,8 +378,10 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - मनुर् बहुभिर् बहुशाखाध्यायिभिः शिष्यैर् अन्यैश् च श्रोत्रियैः संगतस् तेभ्यः शाखाः श्रुत्वा ग्रन्थं चकार । ताश् च मूलत्वेन[^४२] प्रदर्श्य ग्रन्थं[^४३] प्रमाणीकृतवान् । एवम् अन्ये तत्प्रत्ययाद् अनुष्ठानम् आदृतवन्तो न मूलोपलम्भे यत्नं कुर्वन्ति । अस्माकं चैतद् अनुमानम् । 
 
+
 [^४३]:
      DK (5: 96) omits: granthaṃ
+
 
 [^४२]:
      G: mūlatve
@@ -314,12 +390,14 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 (४)	यत्र संप्रदायाविच्छेदस्[^४४] तत्र च परंपरापत्तिः । न हि तत्र कस्यचित् प्रमाणं प्रवृत्तम् । 
 
+
 [^४४]:
      J DK (5: 96): saṃpradāyavicchedas (this could be a typo)
 
 (५)	नित्यानुमेयपक्षो ऽपि संप्रदायपक्षान् नातीव भिद्यते । मन्वादिस्मरणस्य वयं मूलं परीक्षितुं प्रवृत्ताः । यदि च तेषाम् अप्य् असाव् अनुमेयो वेदो वयम् इव, न ते स्मर्तारः । न च यः पदार्थो न कस्यचित् प्रत्यक्षस् तस्यानुमेयता संभवति, अन्वयासंभवात् । क्रियादिषु सामान्यतो ऽस्त्य् एव संबन्धदर्शनम् । यदि वार्थापत्त्यवसेयाः क्रियादयो न चेहान्यथानुपपत्तिर् अस्ति । 
 
 - तस्माद् अस्ति मन्वादीनाम् अस्मिन्न् अर्थे वेदसंबन्धः, न पुनर् अयम् एव प्रकार इति निर्धारयितुं शक्यम् । द्रढीयसी कर्तव्यतावगतिर् वेदविदां वेदमूलैव युक्ता कल्पयितुं न भ्रान्त्यादिमूलेत्य् अवगत्यनुरूपकारणकल्पना कृता भवति । तत्रोत्सादविप्रकीर्णे[^४५] मन्त्रार्थवादे प्रत्यक्षवेदानां कारणानां संभवात् कल्प्यत्वम् उपशेते । प्रत्यक्षो ऽपि विधिः क्वचिन् मूलत्वेन दृश्यते "न मलवद्वाससा सह संवसेत्" इति (च्ड़्। वध् १२.५) । स चाध्ययने चोपनयने च पठ्यते । तद् एतल् लेशतो ऽस्माभिर् उक्तम् । विस्तरस् तु स्मृतिविवकाज् ज्ञातव्यः । 
+
 
 [^४५]:
      G: -viprakīrṇa
@@ -350,6 +428,7 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - या सिद्धरूप एकस्मिन् रूपान्तरगतिर्[^४६] भवेत् ।
 
+
 [^४६]:
      G: kriyāntaragatir
 
@@ -361,6 +440,7 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - लिङादिगम्यं[^४७] भगवान् विधिं स्मरति पाणिनिः ।
 
+
 [^४७]:
      G: liṅgādigamyaṃ
 
@@ -371,6 +451,7 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 - अर्थो ऽधिगन्तुम् इष्येत कथं स्यात् तस्य सत्यता ॥
 
 - भिन्द्याद् वाक्यं न प्रतिष्ठा[^४८] साकाङ्क्षा रात्रयो यतः ।
+
 
 [^४८]:
      M G: pratiṣṭhāḥ
@@ -389,6 +470,7 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - न च नास्त्य् अस्य[^४९] संबन्धो विना प्रकरणादिभिः ॥
 
+
 [^४९]:
      G: nāstasya
 
@@ -401,6 +483,7 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 - पतन्ति न म्लेछितवा इत्यादिषु तथा भवेत् ॥
 
 - ऋचां विधिर् वाचःस्तोमे[^५०] सर्वदाशतयीर् इति ।
+
 
 [^५०]:
      M G J: vācistome 
@@ -445,10 +528,12 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - <u>केचिद्</u> आहुः- आदरार्थः पृथग् उपदेशः । एतद् धि सर्वकर्मणाम् अनुष्ठान उपयुज्यते, स्वप्रधानं च अग्निहोत्रादिकर्मवत् । सर्ववर्णधर्मश् चायं सर्वाश्रमधर्मश् च । अतः[^५१] सामान्यधर्मलक्षणावसरे ऽस्मिन्न् उच्यते ।
 
+
 [^५१]:
      M G: taiḥ
 
 - <u>वयं</u> <u>तु ब्रूमः</u> । समाधिः शीलम् उच्यते । तथा हि "शिल समाधौ" (ध्प् ५२३) इति धतुषु पठ्यते । समाधानं च मानसो धर्मः । यच् चेतसो ऽन्यविषयव्याक्षेपपरिहारेण शास्त्रार्थनिरूपणप्रवणता तच् छीलम् उच्यते । द्वन्द्वश् चायम् इतरेतरयोगे । तेन परस्परसापेक्षयोः स्मृतिशीलयोः धर्मं प्रति प्रामाण्यम् एवाभिप्रेतम्, न पूर्ववन् निर्वर्तकत्वम् । एतद् उक्तं भवति । समाधानवती या स्मृतिः सा प्रमाणम्, न स्मृतिमात्रम् । तेन सत्य् अपि वेदार्थवित्त्वे यद् अतत्पराणां[^५२] स्मरणं न तद् धर्ममूलम्, भ्रान्त्यादिसंभवाच् छास्त्रार्थावधानशून्यानाम् । **च**शब्द इह पठ्यते । स **तद्विदाम्** इत्य् अस्माद् अनन्तरं द्रष्टव्यः । वृत्तानुरोधात् त्व् एवं पठितः । समुच्चयार्थश् चासौ पूर्वप्रकृतस्य च समुच्चेतव्यस्याभावात् तृतीये पादे यत् **साधूनाम्** इत्य् उक्तं तत् समुच्चिनोति । 
+
 
 [^५२]:
      M G: etatparāṇāṃ
@@ -463,6 +548,7 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 अत एव स्मर्तृपरिगणना "मनुर् विष्णुर् यमो ऽङ्गिराः" (य्ध् १.४) इति निर्मूला । तथा हि पैठीनसिबौधायनप्रचेतःप्रभृतयः शिष्टैर् एवंरूपाः स्मर्यन्ते, न च परिगणनायाम् अन्तर्भाविताः । सर्वथा यम्[^५३] अविगानेन शिष्टाः स्मरन्ति वदन्ति वा एवंविधैर् गुणैर् युक्तम्, तेन चैतत्प्रणीतम् इति, तस्य वाक्यं सत्य् अपि पौरुषेयत्वे धर्मे प्रमाणं स्यात् । इति **स्मृतिशीले च तद्विदाम्** इत्य् अस्यार्थः ।
 
+
 [^५३]:
      M G: yām
 
@@ -470,16 +556,20 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 - **आचारश् चैव साधूनाम्** । **च**शब्देन वेदविदाम् इति संबध्यते । पदद्वयेन शिष्टत्वं लक्ष्यते । शिष्टानां य आचारः सो ऽपि धर्मे मूलम् । आचारो व्यवहारः अनुष्ठानम् । यत्र श्रुतिस्मृतिवाक्यानि न सन्ति, शिष्टाश् च धर्मबुद्ध्यानुतिष्ठन्ति, तद् अपि वैदिकम् एव पूर्ववत् प्रतिपत्तव्यम् । यथा विवाहादौ कङ्कणबन्धनादि माङ्गलिकत्वेन यत् क्रियते, या च कन्यायास् तदहर् विवाहयिष्यमाणायाः प्रख्यातवृक्षयक्षचतुष्पथादिपूजा देशभेदेन, तथा चूडासंख्या देशभेदश् च, या चातिथ्यादीनाम् गुर्वादीनां चानुवृत्तिः प्रियहितवचनाभिवादनाभ्युत्थानादिरूपा, तथा पृश्निसूक्तं तृणपाणयो ऽधीयते, अश्वमेधं अश्वस्य घासम् अर्पयन्तः[^५४] । ईदृश आचारः । एषो ऽपि हि स्वभावभेदेन पुरुषाणां मनःस्वास्थ्यदौःस्थ्यादिभेदेनानेकरूपः प्रतिविशेषम् आनन्त्याद् अशक्यो ग्रन्थेनोपनिबद्धुम् । यद् एव बहुशः प्रिय्म् अस्येत्य्[^५५] उपलक्षितम्, तद् एवावसरान्तरे विपरीतं संपद्यते । तथा पर्युपासनं गृहस्थेनातिथेः क्रियमाणं कस्यचित् प्रीतिकरं "ममायं भृत्यवत् तिष्ठति", अन्यस् त्व् अन्यथा "निर्यन्त्रणया न लभ्यत आसितुम्[^५६] अस्मिन् संनिहिते" इति पर्युपासनयैव विरज्यति । न तत्र सामान्यतः शक्यं वेदानुमानम्, न विशेषतः । अष्टकादीनां तु नियतैकरूपसमस्तप्रयोगस्मरणम् इत्य् एष स्मृत्याचाराणां भेदः ।
 
+
 [^५६]:
      G 1st ed.: āsitam
 
+
 [^५५]:
      M G 1st ed.: priyety
+
 
 [^५४]:
      The reading here is confused and corrupt. M G 1st ed. J: aśvamedham aśvaṃ yathā samarpayantaḥ; PK (5: 98): thinks yathā samarpayantaḥ should be changed to yavasam arpayantaḥ;  G 2nd ed. emends the texts based on Śabara 2.4.2.8: aśvamedhamātraṃ ghāsaṃ samarpayantaḥ. What I have given is a conjectural emendation; in the reading: yathāsamarpayanti, Mandlik (whom everyone follows) probably read wrongly "thāsam" for "ghāsam".
 
 - **आत्मनस् तुष्टिर् एव च** । धर्ममूलम् इत्य् अनुषज्यते, वेदविदां साधूनाम् इति च । अस्याश् च धर्ममूलत्वं प्रामाण्येनैवेत्य्[^५७] आहुः । यत्र ह्य् एवंविधानाम् अनुष्ठेये ऽर्थे मनः प्रसीदति, द्वेषो न भवति, स धर्मः ।
+
 
 [^५७]:
      M G: -mūlatva-
@@ -487,6 +577,7 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 - <u>ननु</u> च यस्य प्रतिषिद्ध एवार्थे मनः प्रसीदेत्, स धर्मः प्राप्नोति । विहिते च किंकथिका स्यात्, स न धर्म इति । 
 
 - <u>एवम् एतत्</u> । ईदृशानां महात्मनां मतिमतां महाप्रभावो मनःप्रसादः, येनाधर्मो ऽपि धर्मताम् एति, धर्मश् चाधर्मताम्, न रागद्वेषादिदोषवताम्[^५८] । यथा रुमायां यत्किंचिद् द्रव्यं प्रविशति तत् सर्वं लवणसात् संपद्यते, एवं वेदविदा सहसोत्पन्नेन मनःपरितोषेण सर्वं निर्मलीक्रियते । अतो यथा प्रतिषिद्धाम् अपि ग्रहणं षोडशिनि विधिनानुष्ठीयमानं न दोषाय । न चात्र ग्रहणवद् विकल्पः । प्रतिषेधा ह्य् आत्मतुष्टिव्यतिरेकेणान्यत्र विषये व्यवस्थाप्यन्ते । 
+
 
 [^५८]:
      M G J all read: roga-. I think this is an error, especially because the absence of rāga, along with dveṣa, has been a constant theme in the commentary on verse 6. DK (5: 98) has the correct reading.
@@ -886,6 +977,8 @@ Thus the sources of Law are: (1) ‘*Śruti*,’ (2) ‘*Smrti*’ (3) ‘*Sadā
 
 We shall see now what these terms mean according to the Commentators and the more important Digest-writers.
 
+
+
 ###### (A) Śruti
 
 *Medhātithi on Manu*, 2.6.—The word ‘Veda’ stands for the Ṛgveda,
@@ -953,6 +1046,8 @@ Dharma. Any inconsistencies that may be found in it can be easily explained away
 
 *Smṛticandrikā*, p. 3.—The Veda is authoritative as it is independent of
 human authorship.
+
+
 
 ###### (B) Smṛti
 
@@ -1075,6 +1170,8 @@ There is a diversity of opinion regarding the lists of recognised ‘Purāṇas�
 *Smṛticandrikā*, p. 5.—‘Purāṇa’—the Brahma and the
 rest;—‘Nyāya’—Reasoning; ‘Mīmāṃsā,’ discussion relating to the exact meaning of Vedic passages;—‘*Dharmaśāstra*,’ the Smṛtis of Manu and others; and the four Vedas with the six ‘subsidiary sciences’ are the ‘means’ of *knowing* Dharma; and also of *Dharma* itself, through that knowledge.
 
+
+
 ###### (C) Sadācāra
 
 *Medhātithi on Manu*, 2-6.—‘*Sādhūnām āchāraḥ*,’ ‘Practice of good men’
@@ -1173,6 +1270,8 @@ But this can be a guide only in matters where the scriptures are found to he at 
 *Saṃskāramayūkha*, p. 1.—That ‘*Sadāchāra*’ is authoritative which is
 not repugnant to *Veda* and *Smṛti* texts.
 
+
+
 ###### (D) Śīla—Samyak-Saṅkalpaja-Kāma (Mentioned in Manu 2-6.)
 
 *Medhātithi on Manu*, 2.6.—Medhātithi takes the two terms ‘*Śīla*’ and
@@ -1220,6 +1319,8 @@ On Yājña. 1.7 the Vīramitrodaya identifies the *Śīla* of Manu with the ‘S
 *Smṛticandrikā*, p. 5.—‘*Śīla*’ connotes freedom from love, hatred and
 so forth.
 
+
+
 ###### (E) Ātmanastuṣṭi—Svasya Priyam
 
 *Medhātithi on Manu*, 2.6.—This ‘self-satisfaction’ is meant to be of
@@ -1257,6 +1358,8 @@ authoritative. What is meant is that when a cultured and learned man feels *sati
 
 *Smṛticandrikā*, p. 5.—This is authority only in determining one of
 several optional alternatives.
+
+
 
 ###### Comparative Authority
 
@@ -1339,9 +1442,21 @@ There is variation, according to Parāśara (1.24), not only in Law, but also in
 *Dvāpara*, those ordained by *Śaṅkha-Likhita*,—and during the *Kali*,
 those ordained by *Parāśara*.’ This distinction however has never been observed in actual practice, as even up to the present time, the work of Manu holds the highest position among the Smṛtis.
 
+
+
 ###### Conclusion
 
 From the above we conclude that all the authorities are agreed on the following points—(*a*) The Veda is the first and paramount authority, (*b*) The Smṛti is authoritative only in so far as it is not repugnant to the Veda, to which it owes its authority; but only on matters on which we have no paramount authority, (*c*) Practices or Customs are trustworthy guides, only as they are current among the ‘cultured,’ and then too only those that are not repugnant to Vedic or Smṛti texts. (*d*) The same with regard to Tribal or Family Customs. (*e*) The judgment of the ‘Assembly’ of the learned is to be accepted as authoritative only when it is not repugnant to the Veda, and only when tho judgment is ‘unbiased’ by improper feelings. There is not a single text, or ‘explanation,’ which favours the opinion that Custom is to override original texts,—an opinion that has been upheld by the Privy Council, and endorsed by eminent writers on Anglo-Hindu Law. Neither Vijñāneśvara (*Mitākṣarā*) nor Jīmūtavāhana (*Dharmaratna*) nor Nīlakaṇṭha (*Mayūkha*) countenances any such view; and these three are regarded by our lawyers as the founders of the principal ‘Schools of Law.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+वेद ऋग्यजुःसामाथर्वलक्षणः, स सर्वो विध्यर्थवादमन्त्रात्मा धर्मे मूलं प्रमाणम् । अर्थवादानामपि विध्येकवाक्यतया स्तावकत्वेन धर्मे प्रामाण्यात् । यदाह जैमिनिः -"विधिनात्वेकवाक्यत्वात्स्तुत्यर्थेन विधीनां स्युः” । मन्त्रार्थवादानामपि विधिवाक्यैकवाक्यतयैव धर्मे प्रामाण्यं, प्रयोगकाले चानुष्टेयस्मार-कत्वं, वेदस्य च धर्मे प्रामाण्यं यथार्थानुभवकरणत्वरूपं न्यायसिद्धम् । स्मृत्यादीनामपि तन्मुलत्वेनैव प्रामाण्यप्रतिपादनार्थमनूद्यते । मन्वादीनां च वेदविदां स्मृति प्रमाणम् । वेदविदामिति विशेषणोपादाना-द्वेदमूलत्वेनैव स्मृत्यादीनां प्रामाण्यमभिमतम् । शीलं ब्रह्मण्यतादिरूपम् । तदाह हारीतः - "ब्रह्मण्यता देवपितृभक्तता सौम्यता अपरोपतापिता अनसूयता मृदुता अपारुष्यं मैत्रता प्रियवादित्वं कृतज्ञता शरण्यता कारुण्यं प्रशान्तिश्चेति त्रयोदशविधं शीलम्" ।गोविन्दराजस्तु शीलं रागद्वेषपरित्याग इत्याह । आचारः कम्बलवल्कलाद्याचरणरूपः, साधूनां धार्मिकाणाम् आत्मतुष्टिश्च वैकल्पिकपदार्थविषया धर्मे प्रमाणम् । तदाह गर्गः – “वैकल्पिके आत्मतुष्टिः प्रमाणम्” ॥६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+इदानीं धर्मप्रमाणपरिगणनार्थम् आह – **वेद** इति । **वेदः **ऋग्यजुःसामलक्षणः** अखिलः** समग्रः । अर्थवादादीनाम् अपि विध्येकवाक्यत्वेन श्रवणात् **धर्मस्य मूलं **प्रमाणं मिथाज्ञानसंशयाभावात् निसर्गप्रामाण्याच् च । एतन् न्यायसिद्धम् । एतद् अस्यानूद्यते **स्मृत्य्**आदीनां तन्मूलत्वेन प्रामाण्यप्रतिपादनाय । तथा च मानवादिशास्त्रोपनिबन्धनं वेदविदां कर्तव्याकर्तव्यस्मरणम् **शीलं च** रागद्वेषपरित्यागात्मकम्, **आचारश् च** विवाहादौ कङ्कणबन्धनाद्याचरणरूपः, **साधूनां** धर्मिकाणां **आत्मनस् तुष्टिश् च** अदृष्टार्थाचर्यमाणपदार्थचेतः परितोषरूपा वैकल्पिकपदार्थविषया च धर्मं प्रति प्रमाणम् । एषां सर्वेषां वेदमूलकत्वात् ॥ २.६ ॥
 </details>
 
 <details><summary>Bühler</summary>
@@ -1365,7 +1480,15 @@ From the above we conclude that all the authorities are agreed on the following 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+वेदादन्येषां वेदमूलत्वेन प्रामाण्येऽभिहितेऽपि मनुस्मृतेः सर्वोत्कर्षज्ञापनाय विशेषेण वेदमूलतामाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.७ यः कश्</summary>
 
 यः कश् चित् कस्य चिद् धर्मो  
 मनुना परिकीर्तितः ।  
@@ -1384,8 +1507,10 @@ Whatever Dharma for whatever person has been described by Manu,—all this is de
 
 यद् उक्तं वेदवित्संबन्धेन स्मृतेः प्रामाण्यम्, तद् अनेन प्रकटयति । **यः कश्चिद् धर्मो** वर्णधर्म आश्रमधर्मः संस्कारधर्मः सामान्यरूपो विशेषरूपश् च, **कस्यचिद्** ब्राह्मणादेर् वर्णस्य, **मनुना परिकीर्तितः** । **स सर्वो** ऽपि **वेदे ऽभिहितः** प्रतिपादितः । यथा चैतत् तथा पूर्वश्लोक उक्तम् । **सर्वज्ञानमयो हि सः** । सर्वेषां ज्ञानानाम् अदृष्टविषयाणां हेतुर् निमित्तं वेदः । सर्वैर् ज्ञानैर् निर्मित इवेति ज्ञाने[^५९] तद्विकारत्वम् अध्यारोप्य मयट् कृतः । यो हि यद्विकारः स तन्मयस् तत्स्वभाव इत्य् उच्यते । वेदश् च ज्ञानहेतुत्वात् तन्मय इति । सत्कार्यदर्शने[^६०] कारणं कार्यस्वभावम् इति । अथ वा सर्वज्ञानाद् धेतोः, आगतः "हेतुम् अनुष्येभ्यः" (पान् ४.३.८१) इति मयट् क्रियते ॥ २.७ ॥
 
+
 [^६०]:
      M G: yatkāryadarśane
+
 
 [^५९]:
      DK (5: 100) suggests: vede
@@ -1416,6 +1541,16 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 20.7.)
 *Parāśara-Smṛti*, 1.21.—‘During each Kalpa Manu declares the Dharmas.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यः कश्चित्कस्यचिद् ब्राह्मणादेर्मनुना धर्म उक्तः स सर्वो वेदे प्रतिपादितः । यस्मात्सर्वज्ञोऽसौ मनुः सर्वज्ञतया चोत्सन्नविप्रकीर्णपठ्यमानवेदार्थं सम्यग्ज्ञात्वा लोकहितायोपनिबद्धवान् । गोविन्दराजस्तु सर्वज्ञानमय इत्यस्य सर्वज्ञानारब्ध इव वेद इति वेदविशेषणतामाह ॥७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तथा च वेदमूलत्वम् एषां दर्शयति – **य **इति । **कस्यचित् **श्रुतिशीलाचारात्मतुष्टिप्रमाणको धर्मः कस्यचित् ब्राह्मणादेः **मनुना **कथितः **स **सर्वैर् वेदैर् उक्तः उच्छिन्नविप्रकीर्णमन्त्रार्थवादलिङ्गमूलत्वात् तत्स्मरणस्य, अतीन्द्रियार्थप्रतिपादने हि वेदविदाम् अगृह्यमाणकारणानां वेदस्यैव मूलत्वसम्भवात् । यस्मात् सर्वदृष्टार्थज्ञानहेतुत्वात् **सर्वज्ञानमयः **सर्वज्ञानारब्ध इव वेदः । अत्र च अष्टकादीनां महाप्रत्यवायादीनां ग्रन्थेनोपनिबन्धः । शीलाचारात्मतुष्टीनां पुनर् अल्पप्रत्यवायत्वात् [न] उपनिबन्धः ॥ २.७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 007	Whatever law has been ordained for any (person) by Manu, that has been fully declared in the Veda: for that (sage was) omniscient.
@@ -1431,7 +1566,7 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 20.7.)
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.८ सर्वं तु</summary>
 
 सर्वं तु समवेक्ष्येदं  
 निखिलं ज्ञानचक्षुषा ।  
@@ -1450,8 +1585,10 @@ Having fully perceived all this with the eye of knowledge, the learned man shoul
 
 **सर्वं**[^६१] ज्ञेयं कृतकाकृतकम्, शास्त्रगोचरं प्रत्यक्षादिगोचरम् अप्रत्यक्षादिगोचरम्,[^६२] स्**अमवेक्ष्य**इतज् **ज्ञानचक्षुषा** तर्कव्याकरणनिरुक्तमीमांसादिविद्यास्थानश्रवणचिन्तनात्मकेन । चक्षुर् इव चक्षुः शास्त्राभ्यासः, ज्ञानस्य कारणत्वसामान्यात् । यथा चक्षुषा रूपं ज्ञायते, एवं शास्त्रेण धर्म इति सामान्यम् । **समवेक्ष्य** सम्यग् विचारपूर्वकं निरूप्य, **श्रुतिप्रामान्यतो** वेदप्रामाण्येन **धर्मे निविशेत**, धर्मम् अनुतिष्ठेत् ।
 
+
 [^६२]:
      DK (5: 101) omits: apratyakṣādigocaram (probably a typo)
+
 
 [^६१]:
      M G 1st ed.: sarva
@@ -1517,6 +1654,16 @@ attains Heaven.
 remain firm in their own duties.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वं शास्त्रजातं वेदार्थावगमोचितं ज्ञानं मीमांसाव्याकरणादिकज्ञानमेव चक्षुस्तेननिखिलं तद्विशेषेण पर्यालोच्य वेदप्रामाण्येनानुष्ठेयमवगम्य स्वधर्मेऽवतिष्ठेत ॥८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सर्वम्** इति । यावत् किञ्चिच् छास्त्रजातं तत् **सर्वं विज्ञाना**ख्येन **चक्षुषा निखिलं **निःशेषं कृत्वा पर्यालोच्य वेदप्रामाण्येनैव शास्त्रज्ञः **स्वधर्मे** ऽवतिष्ठेत । वेदस्यैव धर्मं प्रति प्रामाण्यात् न वेदब्राह्मणशास्त्रप्रामाण्येन, ज्ञानं चक्षुर् इव प्रमेयपरिच्छेदात् ॥ २.८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 008	But a learned man after fully scrutinising all this with the eye of knowledge, should, in accordance with the authority of the revealed texts, be intent on (the performance of) his duties.
@@ -1531,7 +1678,7 @@ remain firm in their own duties.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.९ श्रुतिस्मृत्य्उदितम्</summary>
 
 श्रुति-स्मृत्य्-उदितं धर्मम्  
 अनुतिष्ठन् हि मानवः ।  
@@ -1549,6 +1696,7 @@ For the man performing the duty laid down by the revealed word and the recollect
 <details><summary>मेधातिथिः</summary>
 
 यो नास्तिकतया वैदिकानि निष्फलानि कर्माणीति व्यामुह्य न तदनुष्ठाने प्रवर्तेत, तस्य प्रवृत्त्यर्थं सुहृद् भूत्वा दृष्टफलप्रदर्शनं करोति । तिष्ठतु तावद् अन्यत् फलम् । श्रुतौ स्मृतिषु च यद् **उदितम्** उक्तं धर्माख्यं कर्म तद् **अनुतिष्ठन्न् इह **अश्मिंल् लोके यावज् जीवति तावत् **कीर्तिं** प्रशस्यतां पूज्यतां सौभाग्यं लभते । न्याय्ये पथि स्थितो महापुण्यो ऽयम् इति सर्वेण पूज्यते । प्रियश् च सर्वस्य भवति । **प्रेत्य** देहान्तरे यस्माद् अन्यद् उत्तमं नास्ति तत् सुखं प्राप्नोति । प्रायेण स्वर्गकामस्याधिकारः, निरतिशया च प्रीतिः स्वर्गः, तत उच्यते **अनुत्तमम्** इति । तस्मान् नास्ति कस्यापि दृष्टफलार्थिनो ऽत्रैव प्रवृत्तिः प्रयुक्तेत्य्[^६४] एवंपरम् एतत् ॥ २.९ ॥
+
 
 [^६४]:
      DK (5: 611): pravṛttir yuktety
@@ -1592,18 +1740,29 @@ partakes of Heaven.’
 and in the Smṛti,—all this should be done by the Housoholder; otherwise, he becomes open to censure.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+श्रुतिस्मृत्युदितं धर्ममनुतिष्ठन्मानव इहलोके धार्मिकत्वेनानुषङ्गिकींकीर्तिं परलोके च धर्मफलमुत्कृष्टं स्वर्गापवर्गादिसुखरूपं प्राप्नोति । अनेन वास्तवगुणकथनेन श्रुतिस्मृत्युदितं धर्ममनुतिष्ठेदिति विधिः कल्प्यते ॥९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्रुतिस्मृत्युदितम्** इति । **श्रुतिस्मृत्य्**उक्तं **धर्मम् **आचरन् पुरुषः **इह** लोके ख्यातिं परलोके चोत्कृष्टं **सुखं** प्राप्नोतीति सद्भूतगुणाखानेनानुष्ठानस्तुतिः प्ररोचनार्था । न ह्य् अकस्मान् निष्प्रयोजना स्तुतिः प्रवर्तेत इत्य् एवं सर्वत्रेह स्तुतिषु विज्ञेयम् ॥ २.९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 009	For that man who obeys the law prescribed in the revealed texts and in the sacred tradition, gains fame in this (world) and after death unsurpassable bliss.
 </details>
 
 <details><summary>भारुचिः</summary>
+
 <u>ग्रहम् अत्राधिकृता स्मृत्ये</u> (?) स्तुत्यर्थम् । कथम् । यथैव श्रुत्युदितधर्मम् अनुतिष्ठन् कीर्त्या युज्यते एवं स्मृत्युदितम् अपीति भूतार्थवादेन प्रकृतार्थस्तुतिप्रकरणसामर्थात् द्रष्टव्या । एवं च न श्रुतेः स्वार्थ उपदेशः । किं तर्हि । स्मृतिस्तुत्यर्थः ।
 </details>
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१० श्रुतिस् तु</summary>
 
 श्रुतिस् तु वेदो विज्ञेयो  
 धर्मशास्त्रं तु वै स्मृतिः ।  
@@ -1617,11 +1776,15 @@ and in the Smṛti,—all this should be done by the Housoholder; otherwise, he 
 
 The Veda should be known as the ‘revealed word,’ and the Dharmaśāstra as the ‘recollections’; in all matters, these two do not deserve to be criticised, as it is out op these that Dharma shone forth.—(10)
 
+
 “Scripture is not authoritative; why then should contrariness to it be regarded as undesirable? That the scripture (Veda) is unauthoritative is proved by such discrepancies as (a) untruthfulness, (b) inconsistency and (c) repetition. 
+
 
 (a) Such sacrifices as the Kārīrī (which is laid down as to be performed for obtaining rain) are performed by men desiring min, but as a matter of fact no rain comes after the performance. As regards the rain that might come at some future time, it has been well said—‘The Kārīrī having been performed during the autumn, when the cornfields were drying up, if the rain falls during the spring, this only leads to cattle-disease!’ Further, as regards the Jyotiṣṭoma and such other sacrifices, which are spoken of as bringing their rewards at some future time, since the acts will have completely disappeared after performance, the assertion that their reward would come after a hundred years would be exactly like the confident assertion of the Vampirist. From this it is clear that the Veda is untruthful, 
 
+
 (b) There is ‘inconsistency’ also: when it is said ‘libations should be offered after sunrise,’ if it were offered before sunrise, it would be clearly wrong; as it is said—‘those who perform the Agnihotra before sunrise utter falsehood morning after morning.’ Then again, it is said ‘that the libations should be offered before the sun has risen,’ for (it is said) ‘the offering made after sunrise would be like the offering of reception to the guest after he had gone.’ Now in the former we have the injunction of offering after sunrise, and a deprecation of offering before sunrise, while in the latter we have the reverse. So that people are always in doubt as to which alternative they should adopt. 
+
 
 (c) The same Agnihotra that is enjoined in one Vedic Rescension is found to be enjoined in another Rescension also; and it has been held (by the Mīmāmsakas) that the act, mentioned in the various texts, is one and the same (Agnihotra) And this is a clear Repetition.”
 </details>
@@ -1630,6 +1793,7 @@ The Veda should be known as the ‘revealed word,’ and the Dharmaśāstra as t
 <u>किम् इदं</u> शब्दार्थसंबन्धस्मरणम् अभिधानकोशशास्त्रम् "आत्मभूः परमेष्ठी" इत्यादिवत्, न धर्मशास्त्रम्, येनेदम् उच्यते- "श्रुतिस् तु वेदो विज्ञेयो धर्मशास्त्रं तु वै स्मृतिह्" इति । 
 
 - <u>उच्यते</u> । इह सदाचारो न श्रुतिः, न स्मृतिः, निबन्धाभावात् । निबद्धाक्षरा हि स्मृतयः प्रसिद्धाः । अतस् तस्य स्मृतित्वम् उपपादयति । यत् कार्यं धर्मं शास्त्य् अर्थं[^६५] तद् **धर्मशास्त्रम्** । यत्र धर्मः शिष्यते कर्तव्यतया प्रतीयते सा **स्मृतिः** । निबन्धानिबन्धाव् अप्रयोजकौ । शिष्टसमाचाराद् अपि धर्मस्य कर्तव्यतावगतिः । सो ऽपि **स्मृतिर्** एव । ततश् च यत्र कस्मैचित् कार्याय स्मृतेर् उपादानं तत्र सदाचारो ऽपि ग्रहीतव्यः ।
+
 
 [^६५]:
      Reading corrupt here. M G 1st ed.: kāryaṃ dharmaprāptyarthaṃ; G 2nd ed.: kāryaṃ dharmaśāstrārthaṃ; J: kāryadharmaśāstyarthaṃ; I follow DK (5: 102); DK places artham within parentheses to indicate doubt about its authenticiy. The reading is clearly doubtful.
@@ -1640,13 +1804,16 @@ The Veda should be known as the ‘revealed word,’ and the Dharmaśāstra as t
 
 - <u>किं पुनः</u> श्रुतिस्मृतयोः समानं कार्यं यत् समाचारे[^६६] ऽप्य् अन्येन प्राप्यते । 
 
+
 [^६६]:
      DK (5: 103): sadācāre (but see samācāre three sentences before)
 
 - <u>उच्यते</u> । **ते सर्वार्थेष्व् अमीमांस्ये** । **ते** श्रुतिस्मृती । **सर्वेष्व् अर्थेष्व्** अत्यन्तासंभाव्येष्व् अपि दृष्टविषयैः प्रमाणैः, यथा तस्माद् एव हिंसालक्षणात् पदार्थात् क्वचिद् अभ्युदयः क्वचित् प्रत्यवायः, "सुरापानान् नरकः सोमपानात् पापशुद्धिः" इत्यादौ पक्षप्रतिपक्षगमनेन विचारो न कर्तव्यः । आशङ्कापक्षान्तरसंभावनं मीमांसनम् । यथा- "हिंसा चेत् पापहेतुः स्वरूपाविशेषाद् वैदिक्य् अपि तथा भवितुम् अर्हति; अथ वैदिक्य् अभ्युदयहेतुः, लौकिक्य् अपि तथा स्यात्, तद्रूपसमानत्वात्" । यस्य यद् रूपं वेदाद् अवगतं तस्य तद् विपरीतरूपसंभावनम् असत्तर्काश्रयैर् असम्यग्घेतुभिर् यद् विचारणं तत् सिद्धान्ताभिनिवेशः स इह प्रतिषिध्यते । न पुनर् अयम् अर्थो वेदस्याद्यः[^६७] पूर्वपक्षः, उत स्विद् यः[^६८] सिद्धान्त इत्य् एषा मीमांसा निषिध्यते । यतो वक्ष्यति- 
 
+
 [^६८]:
      DK (5: 103) suggests: svid ayaṃ
+
 
 [^६७]:
      G: vedasyāsyādyaḥ; DK (5: 103) suggests deleting ādyaḥ
@@ -1657,6 +1824,7 @@ The Veda should be known as the ‘revealed word,’ and the Dharmaśāstra as t
 
 - <u>नेति</u> ब्रूमः । **ताभ्यां धर्मो हि निर्बभौ** । अनेन तार्किकप्रमाणानां वेदार्थविपरीतसाधनानाम् आभासताम् आह । ईदृशा हि तेषां हेतवः- "वैदिकी हिंसा पापहेतुः, हिंसात्वात्, लौकिकहिंसावत्" । तत्र हिंसायां पापहेतुत्वं न कुतश्चिद् अन्यतः प्रमाणात् सिद्धम् अन्तरेणागमम् । एवं चेन् नास्ति हिंसायाः पापसाधनसिद्धौ हेतुः यावद् आगमः प्रामाण्येन नाभ्युपगतः । अभ्युपगते चागमप्रामाण्ये तद्विरुद्धो हेतुर् न युज्यते, अप्रामाण्यापत्तेर् आगमस्य । ततश् चेतरेतरव्याघातः । पूर्वं प्रामाण्येन परिग्रहः पश्चाद् अप्रामाण्यम् इति । सो ऽयं स्ववचनविरुद्धः पक्षः । नैनं तार्किका अन्य्मन्यन्ते, "मम माता वन्ध्या" इतिवत्, आगमविरुद्धश्[^६९] च ।
 
+
 [^६९]:
      G 1st ed.: -viruddhādiś; G 2nd ed,: -viruddhā
 
@@ -1666,23 +1834,28 @@ The Veda should be known as the ‘revealed word,’ and the Dharmaśāstra as t
 
 - वसन्ते जायते वृष्टिस् तस्या गोमरकः फलम्[^७०] ॥ इति ।
 
+
 [^७०]:
      M G: tasyādau na bhavet phalam; DK (5: 103): tasyedaṃ na bhavet phalam
 
 यान्य् अप्य् अन्यत्रभाविफलानि ज्योतिष्टोमादीनि तत्रापि निरन्वयविनाशात् कर्मणो वर्षशते फलं भविष्यतीति निःसंदिग्धवैतालिकव्यवहारोपमम् एतत् । तस्माद् अनृतम् । व्याघातः- उदिते होतव्यम्, अनुदिते जुह्वतो दोषः- "प्रातः प्रातर् अनृतं ते वदन्ति पुरोदयाज् जुह्वति ये ऽग्निहोत्रम्" (ऐत्ब् ५.३१) । तथानुदिते होतव्यम्- "यथा अतिथये प्रद्रुताय दद्यात् तादृग् एतद् यज् जुहुयात्" (त्ब् २.१.२.१२) इत्य् एकत्रोदितहोमो विधीयते ऽनुदितहोमनिन्दया, तद् एव विपरीतम् अन्यत् । तत्र कः[^७१] पक्ष आश्रीयताम् इत्य् अनध्यवसायः । यद् एवाग्निहोत्राद्य् एकस्यां शाखायां विद्यते तद् एव शाखान्तरे ऽपि । सर्वशाखाप्रत्ययम् एकं कर्मेत्य् अभ्युपगमः । ततश् च पुनरुक्तम् ।
+
 
 [^७१]:
      M G J: tatraikaḥ (I follow DK)
 
 - <u>तत्रानृतम्</u> एव तन् न भवतीत्य् एतेनैव पादेन प्रतिपाद्यते । यतो वेदाद् धर्म एव कर्तव्यतामात्रं यागादिविषयं निर्बभौ विभाति गम्यते, न पुनः कालविशेषः फलस्योत्पत्तौ, अधिकारवाक्येषु कालविशेषाश्रवणात् । विधितो हि फलं भवतीत्य् एतावद् गम्यते । कालावच्छेदो न विधिः । धात्वर्थसंबन्धिनो हि कालविभागा भूतभविष्यद्वर्तमानाः । न चैतद् धात्वर्थफलं[^७२] किं तु वैधम् । धत्वर्थफलं हि तदानीम् एव निर्वर्तते देवतोद्देशेन द्रव्यत्यागो हविर्विकारादि । यदि कश्चित् कस्यचिद् आज्ञाकरो भवति, तेन प्रेष्यते "गच्छ, याहि ग्रामम्" इति । स आज्ञासंपादने प्रवृत्तः कदाचित् प्रारम्भ एव वेतनफलं लभते, कदाचिन् मध्ये, कदाचित् कृत आज्ञाविषये समन्तरम् अन्येदुर् वा कालान्तरे ऽथ वा । एवम् एतच् छास्त्रफलम् अनियतकालम् । दिव्यवृष्ट्यादेस् तु स्वाभाव्येन प्रत्यासत्तिमात्रं गम्यते, न तु तदहर् एवोत्पत्तिः ।
 
+
 [^७२]:
      J: dhātvarthaḥ phalaṃ
 
 - प्रतिबन्धकानि च यथा फलस्यैवंविधस्य लोके भवन्ति, तथा वेदे ऽपि पुराकृतं दुष्कृतादि । तथा च वेद एवैतद् दर्शयति- "यदि न वर्षेत् तथैव वसेत्" इति । सर्वस्वारे तु विवदन्ते- "नैतत् क्रतुफलम् । अङ्गम् एतत् स्मरणम्[^७३] । क्रतुफलं यः कामयेतानामयः स्वर्गलोकम् इयाम्"[^७४] इति । 
 
+
 [^७४]:
      DK: iyāt
+
 
 [^७३]:
      DK (5: 104): etan maraṇam
@@ -1764,6 +1937,16 @@ Bauddhas, Cārväkas
 See Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+लोकप्रसिद्धसंज्ञासंज्ञिसंबन्धानुवादोऽयं श्रुतिस्मृत्योः प्रतिकूलतकणामीमांस्यत्वविधानार्थं, स्मृतेः श्रुतितुल्यत्वबोधनेनाचारादिभ्यो बलवत्त्व प्रतिपादनार्थं च । तेन स्मृतिविरुद्वाचारो हेय इत्यस्य फलम् । श्रुतिर्वेदः, मन्वादिशास्त्रंस्मृतिः, ते उभे प्रतिकूलतर्कैर्न विचारयितव्ये । यतस्ताभ्यां निःशेषेण धर्मो बभौ प्रकाशतां गतः ॥१०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्रुतिर्** इति । मन्दबुद्धिव्युत्पादनार्थं मीमांसाप्रतिषेधादिव्यवहारफलं लोकसिद्धपदार्थकथनम् । श्रुतिर् वेदो धर्मशास्त्रं स्मृतिर् इति । स्मृतिग्रहणं शीलादेर् अपि समरणप्रभेदत्वात् प्रदर्शनार्थम् । ते श्रुतिस्मृती **सर्वार्थेषु **आशुनरकफलसुरापानाद्यात्मकेषु कुतर्कविकल्पैः न विचारयितव्ये । कथम् एतत् स्याद् इति यतः प्रमाणान्तरागोचरो **धर्मः ताभ्यां निर्बभौ **प्रकाशतां गतः ॥ २.१० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 010	But by Sruti (revelation) is meant the Veda, and by Smriti (tradition) the Institutes of the sacred law: those two must not be called into question in any matter, since from those two the sacred law shone forth.
@@ -1776,7 +1959,7 @@ See Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.११ यो ऽवमन्येत</summary>
 
 यो ऽवमन्येत ते मूले  
 हेतुशास्त्राश्रयाद् द्विजः ।  
@@ -1812,11 +1995,6 @@ If a twice-born person, relying upon the science of dialectics, should disregard
 
 [^७५]:
      M G 1st ed.: asatyaprāmāṇyahetor; J G 2nd ed.: asatyāprāmāṇyahetor (I follow DK 5: 105)
-
-_यस् त्व् एतम् अर्थम् अविदित्वा, वेदशब्दस्य विवक्षितार्थत्वम् एव मत्वा, स्मृतिनिन्दकस्य न बहिष्कारः, अनेन वेदनिन्दकस्यैव विहित_[^८१]_ इति प्रतिपद्येत, तं प्रत्याह ।_
-
-[^८१]:
-     G: vihitaṃ
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -1855,6 +2033,24 @@ said in the Veda, who does not discriminate between virtue and vice and who does
 Veda, the killing of a friend, all this should be regarded as equal to the killing of the Brāhmaṇa.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पुनस्ते द्वे श्रुतिस्मृती द्विजोऽवमन्येत स शिटैर्द्विजानुष्ठेयाध्ययनादिकर्मणो निःसार्थः। पूर्वश्लोके सामान्येनामीमांस्ये इति सामान्यतो मीमांसानिषेधादनुकूलमीमांसाऽपि न प्रवर्तनीयेति भ्रमो माभूदिति विशेषयति, हेतुशास्त्राश्रयात् वेदवाक्यमप्रमाणं वाक्यत्वात् विप्रलम्भकवाक्यवदित्यादिप्रतिकूलतर्का-वष्टम्भेन चार्वाकादिनास्तिक इव नास्तिकः, यतो वेदनिन्दकः ॥११॥
+
+इदानीं शीलस्याचार एवान्तर्भावसम्भवाद्वेदमूलतैव तन्त्रं न स्मृतिशीलादिप्रकारनियम९ इति दर्शयितुं चतुर्धा धर्मप्रमाणमाह—
+
+**वेदः स्मृतिः सदाचारः स्वस्य च प्रियमात्मनः ।**
+
+**एतच्चतुर्विधं प्राहुः साक्षाद्धर्मस्य लक्षणम् ॥१२॥**
+
+वेदो धर्मप्रमाणं स क्वचित्प्रत्यक्षः क्वचित्स्मृत्याद्यनुमित इत्येवं ।तात्पर्यं न तु । प्रमाणपरिगणने । अत एव “श्रुतिस्मृत्युदितं धर्मम्” ( म० स्मृ० २ / ९ ) इत्यत्राद्वयमेवाभिहितवान् । सदाचारः शिष्टाचारः स्वस्य चात्मनः प्रियमात्मतुष्टिः ॥१२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं कर्तुः बहिःकरणम् आह – **यो ऽवमन्येत ते उभे** इति । यः श्रुतिस्मृतिभ्याम् एवोपात्तद्विजभावः सन् तत एवासत्तर्कशास्त्रावलम्बनेन निन्देत् । नास्ति परलोकादिर् इत्य् एवं स्थितपज्ञः **वेदनिन्दको** द्विजसम्पाद्यात् कर्मणो ऽध्ययनादेः शिष्टैः परिहार्यः ॥ २.११ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 011	Every twice-born man, who, relying on the Institutes of dialectics, treats with contempt those two sources (of the law), must be cast out by the virtuous, as an atheist and a scorner of the Veda.
@@ -1867,7 +2063,17 @@ Veda, the killing of a friend, all this should be regarded as equal to the killi
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_यस् त्व् एतम् अर्थम् अविदित्वा, वेदशब्दस्य विवक्षितार्थत्वम् एव मत्वा, स्मृतिनिन्दकस्य न बहिष्कारः, अनेन वेदनिन्दकस्यैव विहित_[^८१]_ इति प्रतिपद्येत, तं प्रत्याह ।_
+
+[^८१]: G: vihitaṃ
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.१२ वेदः स्मृतिः</summary>
 
 वेदः स्मृतिः सदाचारः  
 स्वस्य च प्रियम् आत्मनः ।  
@@ -1940,6 +2146,11 @@ The first half of this verse is precisley the same as that of Yājñavalkya 1.7.
 See Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+इदानीं स्मृतिशीलाचारात्मतुष्ट्यात्मकप्रकारभेदस्यातन्त्रतां दर्शयितुं शीलापातेन चतुर्धा धर्मलक्षणम् आह – **वेदः स्मृतीति** । श्रुत्यादीनां प्रकारमात्रभेदो न तु वस्तुतः, सर्वेषां शिष्टानुस्मरणरूपत्वाच् च । तथा च “श्रुतिस् तु वेदो विज्ञेयो धर्मशास्त्रं तु वै स्मृतिः” स्वयम् एवावोचत् । **सदाचारः **साध्वाचारः । स्वात्मनश् च प्रियं आत्मतुष्टिः ॥ २.१२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 012	The Veda, the sacred tradition, the customs of virtuous men, and one's own pleasure, they declare to be visibly the fourfold means of defining the sacred law.
@@ -1952,7 +2163,7 @@ See Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१३ अर्थकामेष्व्</summary>
 
 अर्थ-कामेष्व् असक्तानां  
 धर्मज्ञानं विधीयते ।  
@@ -1966,6 +2177,7 @@ See Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 
 The knowledge of Dharma is ordained for those who are not addicted to the pursuit of wealth and pleasures; and for those seeking for the knowledge of Dharma, the Revealed Word is the highest authority.—(13)
 
+
 “When the act is endowed with a certain faculty, it does not lose that faculty, even though it may be performed with some other end in view; it must always bring about its natural effects; e.g., even though one may drink poison, with the idea that it is an efficacious medicine, yet it does not fail to kill him. Similarly even though the act may be done with a view to some visible reward, yet it cannot fail to bring about the invisible results mentioned in ' the scriptures. Why then should you have this aversion, which makes you assert that an act should not be undertaken with a view to worldly advancement?”
 </details>
 
@@ -1973,13 +2185,16 @@ The knowledge of Dharma is ordained for those who are not addicted to the pursui
 
 गोभूमिहिरण्यादिधनम् **अर्थः** । तत्र सक्तिस् तात्पर्येण तदर्जनरक्षणार्थं कृषिसेवादिव्यापारकरणम् । **कामः** स्त्रीसंभोगः । तत्र सक्तिः, नित्यं तदासेवनं तदङ्गानां च गीतवादित्रादीनाम् । तद्वर्जितानां पुरुषाणां **धर्मज्ञानं** धर्मावबोधो **विधीयते** विशेषेण धीयते, व्यवस्थितं भवति । "धीङ् आधाने"[^८२] (ध्प् ११३६) इत्य् अस्यैतद् रूपम् ।
 
+
 [^८२]:
      M G: dhā ādhāre. Madhav Deshpande notes in private communication: "The Dhatupatha as given in the NSP edition of the Siddhanta-Kaumudi with Tattvabodhini, 7th edn 1933, p. 734, lists two different roots, 1) डुधाञ् धारणपोषणयो: (जुहोत्यादि), 2) धीङ् आधारे (दिवादि). While धीयते can be a passive form of धा-दधाति, it can be a simple middle form of धी-धीयते from the 4th conjugation. It appears that Medhatithi prefers the latter interpretation."
 
 - <u>किम्</u> अर्थं पुनस् तत्र सक्तानां न[^८३] भवति धर्मज्ञानम्, यावता ते ऽपि यथाक्षणं[^८४] तदविरोधिन्य् अवसरे भोजनादाव् इतिहासश्रवणाद् अन्योपदेशात् समाचाराद् वा शक्नुवन्ति ज्ञातुम् । इत्य् अत आह- **धर्मं जिज्ञासमानानाम्** इति । मुख्यं प्रमाणं धर्मे वेदः, स च तैर् न शक्यो ज्ञातुम् । अत्यन्तदुर्विज्ञानो ह्य् असौ निगमनिरुक्तव्याकरणतर्कपुराणमीमांसाशास्त्रश्रवणम् अपेक्षते स्वार्थबोधे ।
 
+
 [^८४]:
      M G: yathālakṣaṇaṃ
+
 
 [^८३]:
      M G omit: na
@@ -1992,13 +2207,16 @@ The knowledge of Dharma is ordained for those who are not addicted to the pursui
 
 - <u>अपरे</u> त्व् **अर्थकामा**[^८५] दृष्टफलैषिण उच्यन्ते । तत्र **सक्तानां** पूजाख्यात्यादिकामानां दृष्टफलार्थितया लोकपक्तिमात्रप्रयोजनानां न **धर्मज्ञानं** धर्मानुष्ठानं **विधीयते** उपदिश्यते ।
 
+
 [^८५]:
      M G 1st ed.: arthakāma
 
 - ज्ञायते ऽस्मिन्न् इति ज्ञानम् अनुष्ठानम् इत्य् उच्यते । अनुष्ठीयमानो हि धर्मो व्यक्ततरो भवति, शास्त्रावगमकालतो ऽपि । अतो ऽनुष्ठानं धर्मज्ञानम् उच्यते । अत एतद् उक्तं भवति । यद्य् अपि धर्मानुष्ठानाल् लोकपक्त्यादि दृष्टं प्रयोजनम् उपलभ्यते,[^८६] तथापि न तत्सिद्धिपरतया तत्र प्रवर्तितव्यम्, किं तर्हि, शास्त्रेण तच् चोदितम् इति कृत्वा । तथा च प्रवृत्तौ यदि दृष्टम् अपि भवति, भवतु, न विचार्यते । तथा च श्रुतिः स्वाध्यायस्य दृष्टं फलम् अनुवदति- "यशो लोकपक्तिः" इति, "लोकः पच्यमानश् चतुर्भिर् एनं भुनक्ति, अर्चया दानेनाज्येयतया[^८७] चावध्यतया" इत्यादि (श्ब् ११.५.७.१) । श्लोकश् चात्र भवति ।
 
+
 [^८७]:
      M G J: dānenājeyatayā
+
 
 [^८६]:
      M G: upalakṣyate
@@ -2028,6 +2246,8 @@ persons referred to. It is extremely difficult to comprehend and for its due com
 (Grammar), *Tarka* (Logic) *Purāṇa* (History) and *Mīnāmsā* (Exigetics). And this entire mass of literature can never be acquired by a man unless he renounces all other activities. What can be learnt from stories and examples are only a few stray *Dharmas*, and not the entire body of Dharma, in the shape of the performance of the *Jyotiṣṭoma* and other sacrifices, along with all its accessory details, which can be learnt only from the Veda and the other sources of Dharma. It is in view of all this that the text says—‘*the Revealed Word is the highest authority*.’ This how ever is not meant to take away the force of ‘Example’ as a source of knowledge.
 
 What is stated in the text is corroborated by the following well-known saying—‘He alone acquires learning who shuns wealth like snake, sweetmeats like poison, and women like evil spirits?
+
+
 
 \[ *Another explanation of the verse*.\]
 
@@ -2072,6 +2292,32 @@ has no authority; where it does not conflict, there is presumption of corroborat
 Also see the Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अर्थकामेष्वसक्तानां अर्थकामलिप्साशून्यानां धर्मोपदेशोऽयम् । ये त्वर्थकामसमीहया अनेकप्रतिपत्त्यर्थं धर्ममनुतिष्ठन्ति न तेषां कर्मफलमित्यर्थः । धर्मं च ज्ञातुमिच्छतां प्रकृष्टं प्रमाणं क्षतिः ।प्रकर्षबोधनेन च श्रुतिस्मृतिविरोधे स्मृत्यर्थो नादरणीय इति भावः । अत एव
+
+जाबालः—
+
+**"श्रुतिस्मृतिविरोधे तु श्रुतिरेव गरीयसी ।**
+
+**अविरोधे सदा कार्यं स्मार्तं वैदिकवत् सता ॥"**
+
+भविष्यपुराणेऽप्युक्तम्—
+
+**श्रुत्या सह विरोधे तु बाध्यते विषयं विना ।**
+
+जैमिनिरप्याह—
+
+**"विरोधे त्वनपेक्षं स्यादसति ह्यनुमानकम्" ॥**
+
+श्रुतिविरोधे स्मृतिवाक्यमनपेक्ष्यमप्रमाणमनादरणीयम् । असति विरोधे मूलवेदानुमानमित्यर्थः ॥१३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अर्थकामेष्व्** इति । **अर्थकामा**ख्यदृष्टपुरुषार्थेषु **असक्तानां **तल्लिप्साशून्यानां तत्त्वावबोधनं शास्त्रेण विधीयते । तल्लिप्सया लोकव्यक्त्यर्थं धर्मानुष्ठाने सति अदृष्टफलाभावात् किं धर्मज्ञानेनेत्य् अभिप्रायः । तथा च श्रुतिस्मृत्यादिविरोधे सति तत्त्वं ज्ञातुम् इच्छतां श्रुत्यादीनां मध्यात् **श्रुतिः** प्रकृष्टं **प्रमाणम्** । अतश् च श्रुतिविरोधे स्मृत्यवबाधः, प्रत्यक्षविरोधे ऽनुमानस्य दुर्बलत्वात् ॥ २.१३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 013	The knowledge of the sacred law is prescribed for those who are not given to the acquisition of wealth and to the gratification of their desires; to those who seek the knowledge of the sacred law the supreme authority is the revelation (Sruti).
@@ -2099,7 +2345,7 @@ Also see the Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१४ श्रुतिद्वैधं तु</summary>
 
 श्रुतिद्वैधं तु यत्र स्यात्  
 तत्र धर्माव् उभौ स्मृतौ ।  
@@ -2113,6 +2359,7 @@ Also see the Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 
 Where there is conflict between two Vedic texts, both are held to be Dharma; both have been rightly pronounced by the wise to be Dharma.—(14)
 
+
 “The text speaks of both being Dharma, which means that there should be combination (and not option); as it is only when there is combination that both could be Dharma; otherwise (), only one of them could be Dharma. (at a time).”
 </details>
 
@@ -2123,6 +2370,7 @@ Where there is conflict between two Vedic texts, both are held to be Dharma; bot
 - <u>तुल्यबले</u> हि ते श्रुती । तत्रेयं प्रमाणम् इयं नेत्य् अशक्यो विवेकः । अत "एकार्थतुल्यबलविरोधे विकल्पः" (च्ड़्। ग्ध् १.४) इत्य् **उभाव् अपि तौ धर्माव्** इत्य् उक्तम् । तत्र समुच्चयः प्राप्नोति । एवम् उभौ धर्मौ भवतः । अन्यथा एकः स्यात् । 
 
 - <u>नेति</u> ब्रूमः । पर्यायेणापि प्रयोगे नोभयशब्दस्य प्रवृत्तिविरोधः । न ह्य् अयं सापेक्ष्यद्वयविषय एव । न्याय्यश् च विकल्पः । यथाग्निहोत्राख्यम् एकं कर्म, तस्य कालत्रयम् उपदिष्टं । तत्र कर्म प्रधानम्, कालो गुणः । न चैकस्मिन् प्रयोगे कालत्रयसंभवः । न च कालानुरोधेन प्रोयोगावृत्तिर् युक्ता । नाङ्गानुरोधेन प्रधानम् आवर्तनीयम् । तस्मान् न्याय्यो ऽयम्, "तुल्यबलविरोधे विकल्पः" (ग्ध् १.४) इति वचनात्[^८८] ।
+
 
 [^८८]:
      M G: na vacanāt
@@ -2166,6 +2414,16 @@ equally authoritative texts, there is option.’
 Also see the Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यत्रपुनः श्रुत्योरेव द्वैधं परस्परविरुद्धार्थप्रतिपादनं तत्र द्वावपि धर्मो मनुना स्मृतौ । तुल्यबलतया विकल्पानुष्ठामविधानेन च विरोधाभावः । यस्मान्मन्वादिभ्यः पूर्वतरैरपि विद्वद्भिः सम्यक् समीचीनौ द्वावपि तौ धर्मापवूक्तौ। समानन्यायतया स्मृत्योरपि विरोधे विकल्प इति प्रकृतोपयोगस्तुल्य-बलत्वाविशेषात् । तदाह गौतमः—"तुल्यबलविरोधे विकल्पः"॥१४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्रुतिद्वैधम्** इति । **यत्र **पुनः श्रुत्योर् एव द्विविध्यं परस्परं विद्धाभिधानं तत्र तत्प्रतिपाद्यौ द्वाव् अपि विकल्पानुष्ठेयत्वेन मन्वादिभिः पूर्वतरैर् अपि विद्वद्भिः द्वाव् **अपि** **तौ धर्मौ** सम्यक् समीचीनाव् इत्य् उक्तम् । नात्र कस्यचिद् अपि हानं युज्यते तुल्यप्रमाणशिष्टत्वात् । एवं च समानन्यायत्वात् स्मृत्योर् अपि विरोधे एतद् एव विज्ञेयम् इति प्रकृतोपयोगः ॥ २.१४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 014	But when two sacred texts (Sruti) are conflicting, both are held to be law; for both are pronounced by the wise (to be) valid law.
@@ -2178,7 +2436,15 @@ Also see the Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+अत्र दृष्टान्तमाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.१५ उदिते ऽनुदिते</summary>
 
 उदिते ऽनुदिते चैव  
 समयाध्युषिते तथा ।  
@@ -2197,13 +2463,16 @@ At sunrise, or before sunrise, or at early dawn,—the sacrificial act may be pe
 
 उदाहरणम् इदं समनन्तरप्रदर्शिते[^८९] विरोधे । य एते त्रयः काला इतरेतरनिन्दया होमस्य विहिताः, तत्रायम् अर्थः श्रुतिवाक्यानाम्- **सर्वथा वर्तते यज्ञः** । सर्वप्रकारो होमः प्रवर्तते, प्रवर्तनीय इत्य् अर्थः । या उदितहोमनिन्दा सा न तत्प्रतिषेधार्था, किं तर्ह्य् अनुदितहोमविध्यर्था । एवम् इतरत्रापि । तेनायम् अर्थ उक्तो भवति । **सर्वथा** कर्तव्य एतेषां कालानाम् अन्यतमस्मिन् काले । तत्र यस्मिन् कृतस् तत्र संपूर्णः शास्त्रार्थो भवति । इतीयं **वैदिकी श्रुतिर्** एवंपरा । अस्मिन्न् अर्थे ऽस्यास् तात्पर्यम्, न पुनर् निन्द्यमानप्रतिषेधे । 
 
+
 [^८९]:
      M G: idam anantara-
 
 - **यज्ञः** होमः, अत्राग्निहोत्राख्यो ऽभिप्रेतः, यागहोमयोर् यतो नात्यन्तं भेदः । देवताम् उद्दिश्य द्रव्यस्य स्वत्वत्यागः "नेदं मम, देवताया इदम्" इति यागः । एतच् च स्वरूपं होमे ऽप्य् अस्ति । अयं तु विशेषः- द्रव्यस्य[^९०] होमे प्रक्षेपः अधिकः, आरोपणविशेषो[^९१] ऽग्न्यादौ । अतो यज्ञशब्देनात्र होमस्याभिधानम् । होमे ह्य् एते कालाः श्रुताव् आम्नाताः, न यागमात्रे । 
 
+
 [^९१]:
      DK (5: 115): prakṣepaḥ adhikaraṇaviśeṣe
+
 
 [^९०]:
      M G 1st ed.: yaṣṭavyasya; G 2nd ed.: yad dravyasya; DK (5: 115) places dravyasya after home
@@ -2212,6 +2481,7 @@ At sunrise, or before sunrise, or at early dawn,—the sacrificial act may be pe
 
 - **समयाध्युषित**शब्देन समुदायेनैवोषसः[^९२] काल उच्यते ।
 
+
 [^९२]:
      M G: -auṣasaḥ
 
@@ -2219,8 +2489,10 @@ At sunrise, or before sunrise, or at early dawn,—the sacrificial act may be pe
 
 - अतो विकल्पेनैकं होमाख्यं कर्म प्रति कालत्रयविधानान्[^९३] नास्ति विरोधः । सिद्धरूपे हि वस्तुनीतरेतरविरुद्धरूपसमावेशासंभवात् स्याद् विरोधः, न साध्ये[^९४] । साध्यं ह्य् अनेनापि सिध्यत्य् अनेनापित्य् अवगम्यते । तत्र कुतो विरोधः ।
 
+
 [^९४]:
      M G 1st ed.: saṃbhavaḥ | tasmād virodho na sādhya |
+
 
 [^९३]:
      M G 1st ed.: -traye 'pi śrutividhānān
@@ -2288,6 +2560,24 @@ along doing his duties.’
 death.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ श्रुतिं पश्यन्ति मुनयः स्मरन्ति तु यथास्मृति ।**
+
+**तस्मात्प्रमाणं मुनयः प्रमाणं प्रथितं भुवि ॥३॥**
+
+**धर्मव्यतिक्रमो दृष्टः श्रेष्ठानां साहसं तथा ।**
+
+**तदन्वीक्ष्य प्रयुञ्जानाः सीदन्त्यपरधर्मजाः ॥४॥ \]**
+
+सूर्यनक्षत्रवर्जितः कालः समयाध्युषितशब्देनोच्यते । उदयात्पूर्वमरुणकिरणवान्प्रविरलतारको-ऽनुदितकालः । परस्परविरुद्धकालश्रवणेऽपि सर्वथा विकल्पेनाग्निहोत्रहोमः प्रवर्तते । देवतोद्देशेनाद्रव्यत्यागगुणयोगाद्यज्ञशब्दोऽत्र होमे गौणः । “उदिते होतव्यम्" इत्यादिका वैदिकी श्रुतिः ॥१५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अत्रोदाहरणम् आह – **उदित** इति । **उदिते** होतव्यम् **अनुदिते** होतव्यं **समयाध्युषिते** रात्रिविवासकाले होतव्यम् इति इतरेतरविरुद्धहोमकालश्रवणे ऽपि **सर्वथा **सर्वं प्राप्नोति । अन्यस्मिन्न् अपि काले होमे कृते सम्पद्यते होमः । न हि कालाभ्याङ्गानुरोधेन होमाख्यं प्रधानम् आवर्तयितुं युक्तम् इत्य् एवम् उदिते होतव्यम् इत्य् एवमादिकं वैदिकं वाक्यम् इति ॥ २.१५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 015	(Thus) the (Agnihotra) sacrifice may be (optionally) performed, at any time after the sun has risen, before he has risen, or when neither sun nor stars are visible; that (is declared) by Vedic texts.
@@ -2310,7 +2600,7 @@ death.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१६ निषेकादिश्मशानान्तो</summary>
 
 निषेकादि-श्मशानान्तो  
 मन्त्रैर् यस्योदितो विधिः ।  
@@ -2324,6 +2614,7 @@ death.’
 
 That person alone, and none other, should be regarded as entitled to the scripture, for whom the sacraments beginning with conception and ending with the crematorium, are prescribed as to be done with mantras.—(16)
 
+
 “When the Śūdra is not entitled to study the scripture and learn its meaning, how can he be entitled to the performance of the acts therein prescribed? Unless the man knows the exact form of the act, he cannot do it; unless he studies the scriptures, he cannot know what is contained in them; and no unlearned person is entitled to the performance of any (religious) act.”
 </details>
 
@@ -2333,21 +2624,26 @@ That person alone, and none other, should be regarded as entitled to the scriptu
 
 - **शास्त्र**शब्दो ऽयं मानवग्रन्थवचनः । **अधिकारो** मयैतद् अनुष्ठेयम् इत्य् अवगमः । न च शब्दराशेः सिद्धस्वभावस्यानुष्ठेयत्वावगतिः संभवति । न हि द्रव्यम् अनाश्रित्य क्रियाविशेषं साध्यतयावगम्यते । अतः शास्त्रविषयायां कस्यांचित् क्रियायाम् अधिकार इत्य् अवगम्यते । तत्र "कृभ्वस्तयस्" तावन् न विषयतया प्रतीयन्ते । भ्वस्त्योर् भवत्यर्थत्वात् । भ्वस्तिसंबन्धे ह्य् अयम् अर्थः प्रतीयते- "शास्त्रस्य यद् भवनं या च सत्ता ताम् अनुतिष्ठेत्" इति । न चान्यदीयायां सत्तायाम् अन्यस्यानुष्ठातृत्वसंभवः । करोत्यर्थे ऽपि न संभवति, पदानां नित्यत्वाद् वाक्यानां चान्येन कृतत्वात् । अतः शास्त्रसहचारिण्य् अध्ययनक्रिया प्रतीयते । अतो ऽयम् अर्थ उक्तो भवति । शास्त्राध्ययने तस्याधिकारः । यथैवाध्ययने तथैव तदर्थश्रवणे ऽपि[^९५] । 
 
+
 [^९५]:
      J omit: tadartha-
 
 - <u>ननु</u> आदिमत्त्वान्[^९६] मानवस्य ग्रन्थस्य कथं तद्विषयो विधिर् अनादिवेदमूल इति शक्यते वक्तुम् । <u>उच्यते</u> । यानि कानिचन शास्त्रप्रतिपादकानि वाक्यानि न तानि शूद्रेणाध्येयानीति शक्यते सामान्यतो ऽनुमानम् । यानि वेदवाक्यानि यानि तदर्थव्याख्यानवाक्यानि व्याख्यातॄणां तत्प्रतिरूपकाणि तान्य् अपि प्रवाहनित्यतया नित्यान्य् एव । अनुष्ठानं तु शास्त्रविषयः । तत्र चातुर्वर्णस्याधिकारः । <u>ननु</u> एवं सत्य् अनुपात्तकर्तृविशेषेषु सामान्यधर्मेषु शूद्रस्याधिकारप्रसङ्गः । <u>यथा</u> च[^९७] न भवति तथा च[^९८] तत्र तत्र कथयिष्यामः ।
 
+
 [^९८]:
      J omit: ca
 
+
 [^९७]:
      J omit: ca
+
 
 [^९६]:
      M G 1st ed.: na cādi-
 
 - <u>ननु</u> कथम् अध्ययनावबोधाधिकारनिषेधे कर्माधिकारः । न ह्य् अविदितकर्मरूपस्य तदनुष्ठानसंभवः, न चाध्ययनम् अन्तरेण तदर्थावबोधसंभवः, न चावैद्यो ऽधिक्रियते । <u>सत्यम्</u> । परोपदेशाद् अपि यावत् तावत् सिद्ध्यति परिज्ञानम् । यं ब्राह्मणम् आश्रितः शूद्रो यो वार्थतः प्रवृत्तः स एनं शिक्षयिष्यतीदं कृत्वेदं कुर्व् इति । अतो न कर्मानुष्ठानप्रयुक्ते शूद्रस्याध्ययनवेदने, स्त्रीवत् परप्रत्ययाद् अप्य् अनुष्ठानसिद्धेः । यथा स्त्रीणां भर्तृविद्यैव प्रसङ्गाद् उपकरोति न कर्मश्रुतयो विद्यां प्रयुञ्जते । तेषाम् एव स्वप्रत्ययो ऽनुष्ठानहेतुर् येषां "स्वाध्यायो ऽध्येतव्यः" इति विधिर् अस्ति पुंसाम् । स च पुंसां त्रैवर्णिकानाम् । तेषाम् अपि नार्थज्ञानप्रयुक्ते ऽध्ययनवेदने, अपि तु विधिद्वयप्रयुक्ते आचार्यकरणविधिना स्वाध्यायाध्ययनविधिना[^९९] च ।
+
 
 [^९९]:
      M G: -dhyayanaṃ vidhinā
@@ -2416,6 +2712,16 @@ It is quoted also in the *Vīramitrodaya* (Saṃskāra, p. 512) to the same effe
 
 *Medhātithi* (p. 73, 1. 26)—*Ācāryakoraṇavidhinā
 svādyāyādhyayanavidhināca*.’ Here both the *Bhāṭṭa* and the *Prābhākara* views of *Śāstrārambha* are accepted by the writer.
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+गर्भाधाना दिरन्त्येष्टिपर्यन्तो यस्य वर्णस्य मन्त्रैरनुष्ठानकलाप उक्तो द्विजातेरित्यर्थः । तस्यास्मिन्मान-वधर्मशास्त्रेऽध्ययने श्रवणेऽधिकारः न त्वन्यस्य कस्यचिच्छूद्रादेः । एतच्छास्वानुष्ठानां च यथाधिकारं सर्वैरेव कर्तव्यं, प्रवचनं त्वख्याध्यापर्ने व्याख्यानरूपं ब्राह्मणकर्तृकमेवेति विदुषा ब्राह्मणेनेत्यत्र व्याख्यातम् ॥१६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**निषेकादीति **। गर्भाधानाद्यन्त्येष्टिपर्यन्तो **यस्य** **मन्त्रैर् **युक्तो ऽनुष्ठानकल्पः उक्तः स च द्विजातेर् उक्तः । अतस् **तस्य अस्मिन् **स्मृति**शास्त्रे **अध्ययनश्रवण्**आधिकारो **बोद्धव्यः न तु शूद्रादेः अर्थानुष्ठानं पुनः प्रतिलोमपर्यन्तान् प्रत्य् अपि चोदितत्वान् नानेन निषेध्यते । प्रवचनं त्व् अत्र ब्राह्मणस्येत्य् उक्तम् । विदिषेत्य् अत्र धर्मप्रमाणानि परिभाषाश् चोक्ताः ॥ २.१६ ॥
 </details>
 
 <details><summary>Bühler</summary>

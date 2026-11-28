@@ -2,7 +2,7 @@
 title = "२९ उपसंहारः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२५९ एषोदिता</summary>
 
 एषोदिता गृहस्थस्य  
 वृत्तिर् विप्रस्य शाश्वती ।  
@@ -35,6 +35,16 @@ The addition of the term, ‘*Brāhmaṇa*,’ indicates that the observances la
 ‘*Praiseworthy*’—excellent. All this is mere praise.—(259)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अयमध्मायार्थोपसंहारः । एषा ऋतादिवृत्तिर्गृहस्थस्य ब्राह्मगस्योक्ताशञ्चितानित्या। आपदि त्वनित्या वक्ष्यते । स्नातकव्रतविधिश्व सत्त्वगुगस्य वृद्धिकरणे प्रशस्त उक्तः॥२५९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एषेति** । एषा ऋतादिका जीविका नित्या अनित्याया आपदि विधानात् **गृहस्थस्य **ब्राह्मणस्योक्ता । तथा **स्नातकव्रत**विधिश् च **सत्त्वा**ख्यगुण**वृद्धिकरः** प्रशस्तस्यैवोक्तः ॥ ४.२५९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 259	Thus have been declared the means by which a Brahmana householder must always subsist, and the summary of the ordinances for a Snataka, which cause an increase of holiness and are praiseworthy.
@@ -47,7 +57,7 @@ The addition of the term, ‘*Brāhmaṇa*,’ indicates that the observances la
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२६० अनेन विप्रो</summary>
 
 अनेन विप्रो वृत्तेन  
 वर्तयन् वेद-शास्त्रवित् ।  
@@ -65,6 +75,7 @@ The Brāhmaṇa, learned in the Vedic soriptures, who conducts himself by this c
 <details><summary>मेधातिथिः</summary>
 
 सर्वस्यास्य फलकथनम् एतत् । **अनेन विप्रो वर्तयन्** वर्तमानो **वेदशास्त्रविद् व्यपेतकल्मषः** प्रतिषेधापराधजं पापं कल्मषं[^३०४] तद्व्यपेतं व्यपनीतं प्रायश्चित्तैः । तेनैतद् उक्तं भवति । विहितकरणात् प्रतिषिद्धस्यानासेवनात् कथंचित् कृतस्य प्रायश्चित्तैर् निष्क्रीतत्वात् । **ब्रह्मलोके महीयते** ब्रह्मलोके स्थानविशेषे महिमानं प्राप्नोति । दर्शनान्तरं ब्रह्मरूपः सम्पद्यत इति सिद्धम् ॥ ४.२६० ॥
+
 
 [^३०४]:
      M G: pāpakalmaṣaṃ
@@ -105,7 +116,27 @@ studying the Veda, avoiding the food of outcasts, approaching his wife only duri
 *Baudhāyana* (2.4.24).—‘The Brāhmaṇa who every day, during the day and
 the night and the twilights offers prayers, becomes purified by Brahman and becomes Brahman Itself; and following the scriptures, he wins the regions of Brahman.’
 
+
+
 *End of Adhyāya IV*.
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+सर्वस्योकस्य फलकथनमिदम् । अनेन शोस्त्रोक्ताचारेण वेदविद् ब्राह्मणो वर्तमानो नित्यकर्मानुष्ठानात्क्षीणपापः सन्ब्रह्मज्ञानप्रकर्षेण ब्रह्मैव लोकस्तस्मिन्लीनोमहिमानं सर्वोत्कर्षं प्राप्नोति ॥२६०॥ क्षे. श्लो. १९॥
+
+इति श्रीकुल्लूकभट्टकृतायां मन्वर्थमुक्तावल्यां मनुवृत्तोचतुर्थोऽध्यायः ॥४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनेनेति** । **अनेन **उक्तशास्त्राचारेण वेदार्थवित् ब्राह्मणः नित्यकर्मानुष्ठानेनोपक्षीणपापः सन् **ब्रह्मलोके **महिमानम अश्नुते ॥ ४.२६० ॥
+
+
+इति श्रीभट्टमाधवात्मजगोविन्दराजविरचितायां   
+मन्वाशयसारिण्यां टीकायां गार्हस्थसदाचारश्   
+चतुर्थो ऽध्यायः  
+पञ्चमो ऽध्यायः
 </details>
 
 <details><summary>Bühler</summary>

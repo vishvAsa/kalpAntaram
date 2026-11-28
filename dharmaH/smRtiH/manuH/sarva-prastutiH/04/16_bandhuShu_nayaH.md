@@ -2,7 +2,7 @@
 title = "१६ बन्धुषु नयः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१७८ येनाऽस्य पितरो</summary>
 
 येनाऽस्य पितरो याता  
 येन याताः पितामहाः ।  
@@ -61,6 +61,16 @@ It may be that what is meant is that, in the matter of optional alternatives, on
 its ways; all we do is that we follow the footsteps of our forefathers.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+बहुविधशास्त्रार्थसम्भवे पितृपितामहाधनुष्ठित एव शास्त्रार्थोऽनुरातव्यः । तेन गच्छन् न रिष्यते नाधर्मेण हिंस्यते ॥१७८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+द्विधावाक्यार्थप्रतिभाने वैकल्पिकपदार्थेषु वा य एव पितृपितामहादिभिः तस्यानुसृतो मार्गः यद् एव तैर् अनुष्ठितं तेनैव (तम् एव) साधुमार्गम् अनुसरेत् तद् एवाचरेत्, तद् आचरन् धर्मेण न हिंस्यते ॥ ४.१७८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 178	Let him walk in that path of holy men which his fathers and his grandfathers followed; while he walks in that, he will not suffer harm.
@@ -73,7 +83,7 @@ its ways; all we do is that we follow the footsteps of our forefathers.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१७९ ऋत्विक्पुरोहिताचार्यैर्</summary>
 
 ऋत्विक्-पुरोहिताचार्यैर्  
 मातुलातिथि-संश्रितैः ।  
@@ -88,6 +98,11 @@ its ways; all we do is that we follow the footsteps of our forefathers.’
 (अग्रे व्याख्यानम्।)
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**ऋत्विग्** इति । **मातापितृभ्याम्** इति । ऋत्विगादिभिः सह वाक्कलहं न कुर्यात् । **पुरोहितः** शान्त्यादिकर्ता । **संश्रिता उपजीविनः । आतुरो **रोगी । **ज्ञातयः **पितृपक्षसम्बन्धिनः वैवाह्याः **बान्धवाः** मातृपक्षा जामिभगिनीस्नुषाद्याः । **दासवर्गो **दासगणः ॥ ४.१७९–१८० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 179	With an officiating or a domestic priest, with a teacher, with a maternal uncle, a guest and a dependant, with infants, aged and sick men, with learned men, with his paternal relatives, connexions by marriage and maternal relatives,
@@ -95,7 +110,7 @@ its ways; all we do is that we follow the footsteps of our forefathers.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१८० मातापितृभ्याम्</summary>
 
 माता-पितृभ्यां जामीभिर्  
 भ्रात्रा पुत्रेण भार्यया ।  
@@ -155,6 +170,11 @@ vīmucya saṃvādān*’ for ‘*etairvivādān santyajya* and ‘*jitaḥ*.’
 quarrels with his mother, father, brother, female relations, relations by marriage, maternal uncle, aged persons, boys, sick persons, his teacher, doctors, dependants and relations, his priest, the officiating priest, his own children, wife, slaves and paternal relations.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ऋत्विगादिभिर्वाक्कलहं न कुर्यात् । शान्त्यादिकर्ता पुरोहितः । संश्रिता अनुजीविनः । ज्ञातयः पितृपक्षाः । सम्बन्धिनो जामातृश्यालकादयः । बान्धवा मातृपक्षाः ।जामयो भगिनीस्नुषाद्या॥१७९॥१८०॥
+</details>
+
 <details><summary>Bühler</summary>
 
 180	With his father and his mother, with female relatives, with a brother, with his son and his wife, with his daughter and with his slaves, let him not have quarrels.
@@ -162,7 +182,7 @@ quarrels with his mother, father, brother, female relations, relations by marria
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१८१ एतैर् विवादान्</summary>
 
 एतैर् विवादान् सन्त्यज्य  
 सर्व-पापैः प्रमुच्यते ।  
@@ -204,6 +224,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 573).
 See Comparative notes for [Verse 4.179].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतैर्ऋत्विादिभिः सह विवादान्परित्यज्याज्ञातपापैः प्रमुच्यते । तथैतैर्विवादस्पेक्षितेरिमान्वक्ष्यमाणा-न्सर्वलोकान्गृहस्थो जयति ॥१८१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतैर् **इति । एभिः सह **विवादान्** परित्यज्यासौ अतिकृतप्रतनुभिः (?) **सर्वपापैः प्रमुच्यते **। तथैतैर् विवादैः न्यक्कृतैः **इमान् **वक्ष्यमानान्** सर्वान् लोकान् **गृहस्थः स्वीकरोति ॥ ४.१८१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 181	If he avoids quarrels with these persons, he will be freed from all sins, and by suppressing (all) such (quarrels) a householder conquers all the following worlds.
@@ -216,7 +246,7 @@ See Comparative notes for [Verse 4.179].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१८२ आचार्यो</summary>
 
 आचार्यो ब्रह्मलोकेशः  
 प्राजापत्ये पिता प्रभुः ।  
@@ -259,6 +289,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574), as setting forth
 ‘*indralokesya*’ for ‘*indralokeśaḥ*’—‘*vaiśvadeve tu jñātayaḥ*’ for ‘*vaiśvadeve tu bāndhavāḥ*,’—‘*bāndharā dikṣu*’ for ‘*no yapām loke*,’—‘*bṛddhabālāturakṛśāstvākāśe prabhaviṣṇavaḥ*’ for ‘*ākāśeśāstu vijñeyā bālabṛddhakṛśāturāḥ*,’—and ‘*sahenni-tyamasañjvaraḥ*’ for ‘*sahetāsañjvaraḥ sadā*.’)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचार्यो ब्रह्मलोकस्य प्रभुः तेन सह विवादपरित्यागेन तत्संतुष्टया तु ब्रह्मलोकप्राप्तेर्गौणं ब्रह्मलोकेशत्वम् । एवं प्राजापत्यलोकेशः प्राजापत्ये पिता चप्रभुः । अतिथिरिन्द्रलोकेशः देवलोकस्य च ऋत्विजः । एवमुत्तस्त्रापि तत्तल्लोकेशत्वं बोद्धव्यम् ॥१८२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आचार्य** इति । यत आचार्यादयो दृष्ट्या शक्त्या ब्रह्मप्रजापतीन्द्रदेवलोकानां प्रभवः अतः परिहृततद्विवादस्य गृहस्थस्यैतान् लोकान् वदन्ति । तद्विवादपरित्यागेन ब्रह्मलोकादि प्राप्यत इत्य् एतद् अनया भङ्ग्या उक्तम् एव (एवं) उत्तरत्रापि विज्ञेयम् ॥ ४.१८२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 182	The teacher is the lord of the world of Brahman, the father has power over the world of the Lord of created beings (Pragapati), a guest rules over the world of Indra, and the priests over the world of the gods.
@@ -266,7 +306,7 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574), as setting forth
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१८३ जामयो ऽप्सरसाम्</summary>
 
 जामयो ऽप्सरसां लोके  
 वैश्वदेवस्य बान्धवाः ।  
@@ -276,6 +316,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574), as setting forth
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/183_jAmayo.apsarasAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>कुल्लूकः</summary>
+
+अप्सरसां लोके जामयः प्रभवन्ति, वैश्वदेवलोके बान्धवाः, वरुणलोके सम्बन्धिनः, भूर्लोके मातृमातुलौ ॥१८३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**जामय** इति । **जामयो ऽप्सरसां लोके **प्रभवन्ति **बान्धवा वैश्वदेवलोके, मातृमाउलौ **भूलोके ॥ ४.१८३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 183	The female relatives (have power) over the world of the Apsarases, the maternal relatives over that of the Visve Devas, the connexions by marriage over that of the waters, the mother and the maternal uncle over the earth.
@@ -283,7 +333,7 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574), as setting forth
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१८४ आकाशेशास् तु</summary>
 
 आकाशेशास् तु विज्ञेया  
 बाल-वृद्ध-कृशातुराः ।  
@@ -329,6 +379,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574).
 See Comparative notes for [Verse 4.182].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कृशः कृशधनः । संश्रितो विवक्षितः । बालवृद्धसंश्रितातुरा अन्तरिक्षे प्रभवन्ति । भ्राता चज्येष्टः पितृतुल्यः तस्मात्सोऽपि प्रजापतिलोकप्रभुः, भार्यापुत्रौ च स्वशरीरमेव, अतः कथमात्मन्वै सह विवादः सम्भवति ॥१८४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आकाशेशा **इति । **बालवृद्ध**संश्रित्**आतुराः **अन्तरिक्षलोके प्रभवन्ति । **ज्येष्ठो भ्राता **पितृतुल्यः । अतो ऽसाव् अपि प्रजापतिलोके प्रभुः । **भार्यापुत्रौ **“अर्धो ह वा एष आत्मनः यज् जाया आत्मा वैपुत्रनामासि” (कौशुप् २.५१) इति श्रुतेः स्वम् एव शरीरम् अतः आत्मना सह कथं विवदेत् ॥ ४.१८४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 184	Infants, aged, poor and sick men must be considered as rulers of the middle sphere, the eldest brother as equal to one's father, one's wife and one's son as one's own body,
@@ -336,7 +396,7 @@ See Comparative notes for [Verse 4.182].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१८५ छाया स्वो</summary>
 
 छाया स्वो दासवर्गश् च  
 दुहिता कृपणं परम् ।  
@@ -357,6 +417,7 @@ Slaves are one’s own shadow; the daughter is the highest object of tenderness.
      M G 1st ed.: sahetāṃ sajvaraḥ
 
 यो भृत्यवर्गः स आत्मीया **छाया** । यथा छाया नित्यानुगता न क्रोधविषय, एवं भृत्यवर्गो ऽपि । **दुहिता कृपणम्** अनुकम्प्या दयनीया[^२४०] । **एतैः** पूर्वोक्तैर् **अधिक्षिप्तः** परुषवचनैर् आकृष्टः कोपितः **सहेत** क्षमेत । **असज्वरो** ऽविद्यमानज्वरः ज्वराभावेन च चित्तस्यासंक्षोभो लक्ष्यते । ज्वरितस्य हि चित्तसंक्षोभो भवति तद्वत् क्रुद्धस्य । अथ वा पाठान्तरम्- "असंज्वरः" । संतापः संज्वरः (अम्क् १.१.६०) । स नञा प्रतिषिध्यते ॥ ४.१८५ ॥
+
 
 [^२४०]:
      M G: anukampā dayā
@@ -385,6 +446,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574);—and in
 **
 
 See Comparative notes for [Verse 4.182].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+स्वदासवर्गश्च नित्यानुगतत्वादात्मच्छायेव न विवादार्हः। दुाहता च परं कृपापात्रं तस्मादेतैरधिक्षिप्तः सन् असन्तापः सहेत, न तु विवदेत् ॥१८५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**छायेति । स्वो दासवर्गः **नीचैर् गामित्वात् आत्मछायेव । अतो नासौ विवादास्पदम्, **दुहिता** च **कृपणं** कृपापात्रम् अत **एतैर् **आक्रुष्टो ऽसम्तप्तः सर्वदा क्षमेत् ॥ ४.१८५ ॥
 </details>
 
 <details><summary>Bühler</summary>

@@ -2,7 +2,7 @@
 title = "०९ शिष्यलक्षणम्"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१०८ अग्नीन्धनम्</summary>
 
 अग्नीन्धनं भैक्षचर्याम्  
 अधःशय्यां गुरोर् हितम् ।  
@@ -23,13 +23,16 @@ The twice-born person, whose Initiation has been performed, should continue to d
 
 - अग्नीन्धनादीनां पुनर्वचनं तद्व्यतिरिक्तस्यातिक्रान्तस्य धर्मकलापस्योत्तरेषाम् अप्य् आश्रमिणाम् अनुष्ठानार्थम् । तथा च गौतमः- "उत्तरेषां चैतद् अविरोधि[^३३०]" इति (ग्ध् ३.९) । 
 
+
 [^३३०]:
      M G 1st ed.: avirodhāt
 
 - <u>अथैवं</u> कस्मान् न भवति एते यावद् ब्रह्मचर्यभाविनः, अन्ये पुनर् अर्वाग् अपि निवर्तन्त इति । स्मृत्यन्तरम् अत्रदर्शितम्[^३३१] । प्रधानकानानुवर्तिनश् च नियमा इत्य् एष न्यायः सत्यां गतौ[^३३२] स्यात् । 
 
+
 [^३३२]:
      M G 1st ed. add: bādhitaḥ
+
 
 [^३३१]:
      M G: smṛtyantaramātradarśita-
@@ -126,6 +129,16 @@ Teacher, except upon rafts and boats.’
 fire-tending during the twilights, Vedic study, service of the Teacher, these the Religious Student shall observe.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सायंप्रातः समिद्धोमं भिक्षासमुहाहरणमखट्वाशयनरूपामधःशय्यां न तु स्थाण्डिलशायित्वमेव ।गुरोरुदककुम्भाद्याहरणरूपं हितं कृतोपनयनो ब्रह्मचारी समावर्तनपर्यन्तं कुर्यात् ॥१०८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अग्नीन्धनम्** इति । अग्निसमिदाधानभैक्षचरणखट्वाद्यशनगुरुगृहोपलेपनाद्यात्मक-गुरुहितानि समावर्तनाख्यव्रतकालं यावत् उपनयनकालोत्तरकालं **द्विजः कुर्यात् **। प्रधानानुपयायित्वेनाङ्गानां यावद् ब्रह्मचर्यम् एषाम् अनुवृत्तिसिद्ध्यर्थं पुनर्वचनं नियमाय भवन्तीत्य् एतावन्त्य् एव समावर्तने निवर्तन्ते । अन्यानि पुनः सन्ध्योपासनादीनि आश्रमान्तराविरुद्धानि यावज्जीवं भवन्तीति । यथा च गौतमः- “उत्तरेषां चैतद् अविरोधि” [ग्ध् ३.१०] इति । अत एव चैतानि आ समावर्तनात् कुर्यात् । यानि पुनर् अर्वाग् अपि निवर्तन्ते इत्य् एवं विधिविपरीतनियमो न भवति प्रधानानुवर्तिन्यायावाधप्रसङ्गाच् च ॥ २.१०८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 108	Let an Aryan who has been initiated, (daily) offer fuel in the sacred fire, beg food, sleep on the ground and do what is beneficial to this teacher, until (he performs the ceremony of) Samavartana (on returning home).
@@ -142,7 +155,15 @@ fire-tending during the twilights, Vedic study, service of the Teacher, these th
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+कीदृशः शिष्योऽध्याप्य इत्याह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.१०९ आचार्यपुत्रः</summary>
 
 आचार्यपुत्रः शुश्रूषुर्  
 ज्ञानदो धार्मिकः शुचिः ।  
@@ -161,18 +182,22 @@ The teacher’s son, one who is eager to do service, one who imparts knowledge, 
 
 वक्ष्यति[^३३३] "सर्वेषाम् एव दानानां ब्रह्मदानं विशिष्यते" (म्ध् ४.२३३) इति । तत्र कीदृशाय विद्या दातव्या इति पात्रलक्षणार्थः श्लोकः । ब्रह्मचारिधर्मप्रसङ्गेनाध्यापनविधिर् अयम् उच्यते । 
 
+
 [^३३३]:
      M omits: vakṣyati; G: tad vakṣyati
 
 - **आचार्यस्य पुत्रः** । **शुश्रूषा** परिचर्या गृहोपयोगि शक्तितः कर्म करणं शरीरसंवाहनं च । **ज्ञानादः** यः कश्चिद् ग्रन्थ आचार्यस्य न विदितः, शिष्येण कथंचिच् छिक्षितो ऽर्थकामकलाविषयो धर्मविषयो वा । विद्याविनियमेनेदम् अध्यापनम् । **धार्मिकः** अग्निहोत्रादिकर्मानुष्ठानप्रधानः । **शुचिर्** मृद्वारिशुद्धः अर्थशुद्धश् च । गोबलीवर्दवत् पदत्रयस्य पुनर् उक्तम्- **धार्मिकः शुचिः साधुर्** इति । **आप्तः** सुहृद्बान्धवादिः पर्त्यासन्नः । **शक्तः** ग्रहणधारणसमर्थः । **अर्थदः**[^३३४] । **स्वः** पुत्रः उपनीतश् च । पूर्वे[^३३५] अन्योपनीता अप्य् **अध्याप्याः** । 
 
+
 [^३३५]:
      M G 1st ed.: pūrvaḥ 
+
 
 [^३३४]:
      M G omit: arthadaḥ
 
 - <u>ननु</u> च **धर्मत** इत्य् उच्यते, एतैर् अध्यापितैर् धर्मो भवति । **अर्थदश्** च दृष्टेनोपकरोति । तत्र कुतो ऽदृष्टकल्पना । <u>केनोक्तं</u> कल्पनेति[^३३६] । श्रुते का कल्पना । साक्षाद् एव हि श्रुतम् **अध्याप्या दश धर्मत** इति ।
+
 
 [^३३६]:
      M G: kalpam iti
@@ -229,6 +254,16 @@ referred to several times. He is either Medhātithi’s teacher, or an older com
 (3) who is exceptionally intelligent, (4) who is clean, (5) who is not jealous, (6) who is gentle, (7) who is competent, (8) a near relative, (9) who imparts knowledge and (10) who gives money;—these should be taught for the sake of merit.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचार्यपुत्रः, परिचारकः, ज्ञानान्तरदाता, धर्मवित्, मृद्वार्यादिषुशुविः, बान्धवः, ग्रहणधारणसमर्थः, धनदाता, हितेच्छुः, ज्ञातिः, दशैते धमणाध्यायाः ॥१०९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आचार्यपुत्र** इति । **आचार्यपुत्रः **परिचर्यापरः विद्याप्रदः धर्मानुष्ठानशीलः मृद्वार्यादिशौचयुक्तः बन्धुः ग्रहणधारणसमर्थः पणपूर्वम् अप्य् अर्थदाता आर्जवोपेतः आत्मना उपनीतः एते **दश **धर्मार्थम् **अध्याप्याः** । **अर्थदः शुश्रूषुः **“ज्ञानाद् अध्यापनाद् अपि धर्मो ऽस्ति नियमादृष्टरूपेण” इति वचनात् ॥ २.१०९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 109	According to the sacred law the (following) ten (persons, viz.) the teacher's son, one who desires to do service, one who imparts knowledge, one who is intent on fulfilling the law, one who is pure, a person connected by marriage or friendship, one who possesses (mental) ability, one who makes presents of money, one who is honest, and a relative, may be instructed (in the Veda).
@@ -241,7 +276,7 @@ referred to several times. He is either Medhātithi’s teacher, or an older com
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.११० नाऽपृष्टः कस्य</summary>
 
 नाऽपृष्टः कस्य चिद् ब्रूयान्  
 न चाऽन्यायेन पृच्छतः ।  
@@ -286,6 +321,16 @@ not prepared to render such respect as lies within his power.’
 asked without due respect, it destroys the questioner, as fire burns straw; therefore the Veda should not be expounded to those who do not render proper respect.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदन्येनाल्पाक्षरं विस्वरं चाधीतं तस्य तत्त्वं न वदेत् ।शिष्यस्य त्वपृच्छतोऽपि वक्तव्यम् । भक्तिश्रद्धादिप्रश्नधर्मोल्लङ्घनमन्यायस्तेन पृच्छतो न ब्रूयात् ।जानन्नपि हि प्राज्ञो लोके मूक इव व्यवहरेत् ॥११०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नापृष्ट** इति । पूर्वोक्तव्यतिरेकेणान्यस्य **कस्यचिद्** अधीयानस्य विस्वरादिकृतवतः **अपृष्टो न **कथयेत् । नापि वितण्डया **पृच्छतः** । किं तर्हि । तत्र **जानन्न् अपि **प्राज्ञः बधिर इव **लोके **व्यवहरेत् । अत्रार्थवादो निषेधार्थः ॥ २.११० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 110	Unless one be asked, one must not explain (anything) to anybody, nor (must one answer) a person who asks improperly; let a wise man, though he knows (the answer), behave among men as (if he were) an idiot.
@@ -298,7 +343,15 @@ asked without due respect, it destroys the questioner, as fire burns straw; ther
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+उक्तप्रतिषेधद्वयातिक्रमे दोषमाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.१११ अधर्मेण च</summary>
 
 अधर्मेण च यः प्राह  
 यश् चाऽधर्मेण पृच्छति ।  
@@ -340,6 +393,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 516), as laying down t
 (Vīramitrodaya-Saṃskāra, p. 516).—‘One should not teach, or sacrifice for, a person who has not been duly tested.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अधर्मेण पृष्टोऽपि यो यस्य वदति यश्चान्यायेन यं पृच्छति तयोरन्यतरो व्यतिक्रमकारी म्रियते, विद्वेषं वा तेन सह गच्छति ॥१११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अधर्मेणेति** । उक्तमर्यादातिक्रमेण **यः प्राह यो** वा **पृच्छति तयोर् अन्यतरः **यो ऽतिक्रमकृत् स म्रियते **द्वेषं **वा लोके भजते ॥ २.१११ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 111	Of the two persons, him who illegally explains (anything), and him who illegally asks (a question), one (or both) will die or incur (the other's) enmity.
@@ -347,7 +410,7 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 516), as laying down t
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.११२ धर्मार्थौ यत्र</summary>
 
 धर्मार्थौ यत्र न स्यातां  
 शुश्रूषा वापि तद्विधा ।  
@@ -414,6 +477,16 @@ possible, nor is there an adequate desire to serve, there one may rather perish 
 wealth, nor desire to serve nor clxance of riches,—there one may perish along with his learning; he should never sow it on barren soil.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मिन् शिष्येऽध्यापिते धर्मार्थौन भवतः परिचर्या वाऽध्ययनानुरूपा तित्र विद्या नापणीया । सुष्ठु ब्रीह्यादिबीजमिवोषरे । यन्त्र बीजमुप्तं न प्ररोहति स ऊषरः । न चार्थग्रहणे, भृतकाध्यापकत्वमाशङ्कनीयम्, यद्येतावन्मह्यं दीयते तदैतावदध्यापयामीति नियमाभावात् ॥११२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+पूर्वोक्तनिमित्तानां मध्याद् धर्मादिनिमित्तत्रयस्य उपायत्वं दर्शयितुम् आह **धर्मार्थाव्** इति । यद् अध्यापने **धर्मः** पणपूर्वो वा **अर्थो** न भवेत् पणपूर्वकस्य भृतकाध्यापकत्वेन निषिद्धत्वात् । परिचर्या अध्यापनानुरूपा परिपुष्टं बीजम् इव अङ्कुरजननासमर्थे भूप्रदेशे ॥ २.११२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 112	Where merit and wealth are not (obtained by teaching) nor (at least) due obedience, in such (soil) sacred knowledge must not be sown, just as good seed (must) not (be thrown) on barren land.
@@ -430,7 +503,7 @@ wealth, nor desire to serve nor clxance of riches,—there one may perish along 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.११३ विद्ययैव समम्</summary>
 
 विद्ययैव समं कामं  
 मर्तव्यं ब्रह्मवादिना ।  
@@ -449,23 +522,28 @@ The expounder of the Veda may rather perish along with his knowledge; hut he sho
 
 **समं**शब्दः सहार्थे । अप्रतिपादितया स्वदेह एव जर्जरितया[^३३९] युक्तं ब्रह्मवादिनो वेदाध्यायिनो मरणम्, न पुनर् अपात्रे प्रतिपादनम् ।
 
+
 [^३३९]:
      M G 1st ed.: jaritatayā
 
 - अनेन च ज्ञायते- अध्यापनम् अप्य् अधीतवेदेनावश्यं कर्तव्यम्, न केवलं वृत्त्यर्थम् । नापि वार्यादिदानवत् फलकामस्यैवाधिकारः । तथा च श्रुतिः- "यो हि विद्याम् अधीत्यार्थिने न ब्रूयात् स कार्यहा स्यात् । श्रेयसो द्वारम् अपावृणुयात् । अध्यापयेन् महद् एतद् यशस्यं वाचो ऽधिकारं कवयो वदन्ति । अस्मिन् योगे सर्वम् इदं प्रतिष्ठितम् । य एवं विदुर् अमृता ते भवन्ति" । "स कार्यहा स्यात्" इत्य् अनेनानध्यापने दोषम् अनुवदन्ती[^३४०] श्रुतिर् एवावश्यकर्तव्यतां ज्ञापयति । 
+
 
 [^३४०]:
      M G: anuvadantīti
 
 - **इरिणे**, पूर्वोक्तप्रयोजनत्रयाभावो यत्र । **आपद्य् अपि हि घोरायां** कष्टायाम् अपि । कष्टा आपदुक्तशिष्याभावः । एतच् चावश्यकर्तव्ये सत्य् उपपद्यते । नित्यत्वे हि मुख्याभावे प्रतिनिधिशिष्योपादानेनाध्यपननिवृत्तिः[^३४१] प्राप्ता । व्रीह्यभाववन् नीवारैः । अतो ऽस्याम् अवस्थायाम् अध्यापनाधिकारनिवृत्तिर् एव । यथोक्तलक्षणातिथ्यभावे ऽतिथिपूजानिवृत्तिः । **वपेद्** इति लक्षणया बीजधर्मेणाध्यपनम् उच्यते । बीजं किल क्षेत्रोप्तं बहुफलं भवत्य् एवं विद्यापि ।
 
+
 [^३४१]:
      J: -nirvṛttiḥ
 
 - <u>अन्ये</u>[^३४२] तु धनाभावनिमित्ताम् आपदम् आचक्षते । अत्यन्तदुर्गतेनापि नेरिणे वप्तव्येति वरं म्रियताम्[^३४३] । "सर्वत एवात्मानं गोपायेत्" (ग्ध् ९.३४) इति नैष विधिर् अतिक्रान्तो भवति सत्य् अपि तथाविधाध्यापने वृत्त्युपाये । 
 
+
 [^३४३]:
      M G 1st ed.: mriyatā
+
 
 [^३४२]:
      M G: ye
@@ -514,6 +592,16 @@ This also is quoted along with 112 in *Madanapārijāta* (p. 103);—also in
 See Comparative notes for [Verse 2.112].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विद्ययैव सह वेदाध्यापकेन वरं मर्तव्यं न तु सवथाऽध्यापनयोग्यशिष्याभावे चापात्रायैव तां प्रतिपादयेत् । तथा छान्दोग्यब्राह्मणम्-“विद्यया सार्धं म्रियेत न विद्यामूषरे वपेत्" ॥११३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं च **विद्ययेति** । वरम् अदत्तविद्येनैव विद्याध्यापन्शीलेन मर्तव्यं न पुनः कष्टायाम् अप्य् **आपदि** उक्ताध्याप्याभावे ऽपि **एनां **विद्यां** इरिणे** ऊषर इव धर्मादिफलोत्पादन्शून्ये वपेत् । अनेन चैतद् दर्शयति यद् अवश्यं दातव्या विद्येति । अन्यथा कामं विद्ययैव सह मर्तव्यम् इत्य् एतद् अभावसंसुचनम् आचार्यसम्बन्धेनोपपद्यते । तथा च श्रुतिः- “यो ह वै विद्याम् अधीत्यार्थिने न ब्रूयात् स कार्यहा स्यात्” इति । अस्य प्रतिषेधस्य पुराकल्परूपो ऽयम् अर्थवादः ॥ २.११३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 113	Even in times of dire distress a teacher of the Veda should rather die with his knowledge than sow it in barren soil.
@@ -521,7 +609,15 @@ See Comparative notes for [Verse 2.112].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+अस्यानुवादमाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.११४ विद्या</summary>
 
 विद्या ब्राह्मणम् एत्याह  
 शेवधिस् ते ऽस्मि रक्ष माम् [मेधातिथिपाठः - शेवधिष् टे] ।  
@@ -535,6 +631,7 @@ See Comparative notes for [Verse 2.112].
 
 Learning having approached the Brāhmaṇa said to him—“I am thy wealth, guard me; impart me not unto a scorner; thus may I become extremely powerful.”—(114)
 
+
 vidyā ha vai brāhmaṇamājagām 
 gopāya māṃ śevadhiṣṭe'hamasmi | 
 asūyakāyānṛjave apatāya 
@@ -544,6 +641,7 @@ nā mām brūyāt avīryavatī tathā syām ||
 <details><summary>मेधातिथिः</summary>
 
 अयम् अप्य् अर्थवाद एव । **विद्या** मूर्तिमती कंचिद् उपाध्यायम् आगत्य **आह** प्रोक्तवती । **शेवधिर्** निधिस् तव **अस्मि रक्ष माम्** । का पुनस् ते रक्षा । **असूयकाय** कुत्साकराय निन्दकाय **मां मादाः** । निन्दकं माध्यापय । **तथा** चैवम् अहं **वीर्यवत्तमा** अतिशयेन तव कार्यकारिणी[^३४४] भवामि । वीर्यं कार्यनिवृत्तौ सामर्थ्यातिशयः । "शेवधिष्टे ऽस्मि" इति कृतषत्वं पठितं तच्छान्दसप्रयोगानुकरणम् ॥ २.११४ ॥
+
 
 [^३४४]:
      M G 1st ed,: kārakarī
@@ -592,6 +690,16 @@ These authorities, along with Manu, paraphrase the text which is found in Nirukt
 the Vedas, the Dharma, the Purāṇas and the subsidiary sciences to one who is endowed with character and is self-controlled and is ever attentive.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विद्याधिष्ठात्री देवता कञ्चिदध्यापकं ब्राह्मणमागत्यैवमवदत् — तवाहं निधिरस्मि । मां रक्ष ।असूयक्रादिदोषवते न मां वदेः । तथा सत्यतिशयेन वीर्यवती भूयासम् । तथा च च्छान्दोग्यब्राह्मणम् - "विद्या ह वै ब्राह्मणमाजगाम, तवाहमस्मि, त्वं मां पालयानर्हते मानिने चैव मादा, गोपाय मां, श्रेयसी तथाहमस्मि" इति ॥११४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विद्या ब्राह्मणम् एत्याहेति** । **यम् एव त्व् **इति । **विद्या **किल विग्रहवती किञ्चिद् **ब्राह्मणम्** आगत्य निधिर् इव तवाहम्, अतो **रक्ष मां** इत्य् आह । रक्षा च असूयकम् अपात्रं मां माध्यापय । **तथा **सत्य् अहम् अतिशयेन तव दृष्टादृष्टकार्यकरणसमर्था भवामि । **यं **पुनः मृद्वार्यादिशौचयुक्तं **नियतं** संयतेन्द्रियं **ब्रह्मचारिणं **अस्त्रीसम्प्रयोगं जानीयात् प्राधान्याद् अस्य पृथग् उपदेशः । तं **विप्रं **विद्यानिधिपालनसमर्थम् अविस्मरणशीलं **अपर्मादिनम्** अनभ्यासशून्यम् अध्यापयेति ॥ २.११४–१५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 114	Sacred Learning approached a Brahmana and said to him: 'I am thy treasure, preserve me, deliver me not to a scorner; so (preserved) I shall become supremely strong.'
@@ -604,7 +712,7 @@ the Vedas, the Dharma, the Purāṇas and the subsidiary sciences to one who is 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.११५ यम् एव</summary>
 
 यम् एव तु शुचिं विद्यान्  
 नियत-ब्रह्मचारिणम् [मेधातिथिपाठः - विद्या नियतं ब्रह्मचारिणम्] ।  
@@ -618,6 +726,7 @@ the Vedas, the Dharma, the Purāṇas and the subsidiary sciences to one who is 
 
 “Expound me unto the Brāhmaṇa who guards his treasures and is never careless,—and whom thou knowest to be pure, self-controlled and a duly qualified student.”—(115)
 
+
 yameva vidyā śucimapramattaṃ 
 medhāvinaṃ brahmacaryopapannam | 
 yaste na duhyet katamañca nāhaṃ 
@@ -627,6 +736,7 @@ tasmai māṃ vrūyā nidhidāya brahman ||
 <details><summary>मेधातिथिः</summary>
 
 **यं** शिष्यं **शुचिं** जानीयाः[^३४६] **नियतं** संयतेन्द्रियं यत्नपरं **ब्रह्मचारिणं तस्मै मां ब्रूहि** । यो हि निधिं पाति रक्षति । यतो ऽसाव् **अप्रमादी** न प्रमाद्यति न स्खलति, तत्परत्वात् । शक्ताप्तार्थदादीनां सर्वशिष्याणाम् एतद्गुणसंयोगे देयेत्य् अस्माद् अर्थवादाद् गम्यते ॥ २.११५ ॥
+
 
 [^३४६]:
      M G: jānīyān
@@ -661,6 +771,11 @@ This verse is quoted in *Madanapārijāta* (p. 103) also in
 See Comparative notes for [Verse 2.114].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यमेव पुनः शिष्यं शुचिं नियतेन्द्रियं ब्रह्मचारिणं जानासि तस्मै विद्यारूपनिधिरक्षकाय प्रमादरहिताय मां वद ॥११५॥
+</details>
+
 <details><summary>Bühler</summary>
 
 115	'But deliver me, as to the keeper of thy treasure, to a Brahmana whom thou shalt know to be pure, of subdued senses, chaste and attentive.'
@@ -673,7 +788,7 @@ See Comparative notes for [Verse 2.114].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.११६ ब्रह्म यस्</summary>
 
 ब्रह्म यस् त्व् अननुज्ञातम्  
 अधीयानाद् अवाप्नुयात् ।  
@@ -706,6 +821,16 @@ The ablative ending in ‘*adhīyānāt*,’ ‘*from* *one who is, reciting it*
 
 *Viṣṇu-Smṛti* (30.42-43).—‘Until permitted by the Teacher, one should
 not acquire knowledge from another person who may be reading with the Teacher;—such acquisition of knowledge constitutes Veda-stealing and leads one to hell.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+यः पुनरभ्यासार्थमधीयानादन्यं वा कञ्चिदध्यापयतस्तदनुमतिरहितं वेदं गृह्णाति स वेदस्तेययुक्तो नरकं गच्छति । तस्मादेतन्न कर्तव्यम् ॥११६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्रह्मेति** । अन्यान् अव्यापयतः अविस्मरणार्थं चाभ्यस्यतः **अननुज्ञातं ब्रह्म** (यः) शिक्षेत् **स **ब्रह्मचौर्ययुक्ताः **नरकं **व्रजति ॥ २.११६ ॥
 </details>
 
 <details><summary>Bühler</summary>

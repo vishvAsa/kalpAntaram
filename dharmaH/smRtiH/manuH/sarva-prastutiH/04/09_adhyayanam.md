@@ -2,7 +2,7 @@
 title = "०९ अध्ययनम्"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.९५ श्रावण्याम्</summary>
 
 श्रावण्यां प्रौष्ठपद्यां वाप्य्  
 उपाकृत्य यथाविधि ।  
@@ -103,6 +103,11 @@ under the asterism of Śravaṇā, he performs the Upākarma of the Veda.’
 the fullmoon day of Bhādra, under the asterism of Hastā.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**श्रावण्याम्** इति । श्रावणस्य भाद्रपदस्य वा पौर्णमास्याम् उपाकर्माख्यं (कर्म) गृह्योक्तविधानेन कृत्वा ततः सार्धाश् चतुरो मासान् ब्राह्मणो यत्नवान् वेदान्** अधीयीत** ॥ ४.९५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 095	Having performed the Upakarman according to the prescribed rule on (the full moon of the month) Sravana, or on that of Praushthapada (Bhadrapada), a Brahmana shall diligently study the Vedas during four months and a half.
@@ -115,7 +120,7 @@ the fullmoon day of Bhādra, under the asterism of Hastā.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.९६ पुष्ये तु</summary>
 
 पुष्ये तु छन्दसां कुर्याद्  
 बहिर् उत्सर्जनं द्विजः ।  
@@ -176,6 +181,11 @@ Rohiṇī, or on the middlemost Aṣtakā day, he shall perform the suspension (
 *Gobhila* (3.3.14).—‘They suspend (study) on the fullmoon day of Pauṣa.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+येन श्रावण्याम् उपाकर्म कृतं स द्विजो ऽर्धपञ्चमेषु मासेषु पौषमासे तु पुष्यनक्षत्रे ग्रामाद् बहिर् निष्क्रम्य **छन्दसाम्** उत्सर्गाख्यं गृह्योक्तं कर्म कुर्यात् । येन पौष्ठपद्यां कृतं स माघशुक्लपक्षस्य **प्रथमे ऽहनि** **प्राप्ते पूर्वाह्णे** वा कुर्यात् ॥ ४.९६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 096	When the Pushya-day (of the month Pausha), or the first day of the bright half of Magha has come, a Brahmana shall perform in the forenoon the Utsargana of the Vedas.
@@ -188,7 +198,7 @@ Rohiṇī, or on the middlemost Aṣtakā day, he shall perform the suspension (
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.९७ यथाशास्त्रं तु</summary>
 
 यथाशास्त्रं तु कृत्वैवम्  
 उत्सर्गं छन्दसां बहिः ।  
@@ -237,6 +247,11 @@ shall not read during the whole day and night.’
 fullmoon day of Śrāvaṇa, one should not read at night, for one month.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**यथाशास्त्रम्** इति । एवम् उक्तशास्त्रानतिक्रमेण **छन्दसाम् उत्सर्गा**ख्यं कर्म ग्रामाद् **बहिः** कृत्वा ततः उभयतोहनी पक्षाव् इव यस्या मध्यवर्तुन्या रात्याः तां **रात्रिं** तम् **एवैकम्** अहोरात्रम् अनध्यायं कुर्यात् ॥ ४.९७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 097	Having performed the Utsarga outside (the village), as the Institutes (of the sacred law) prescribe, he shall stop reading during two days and the intervening night, or during that day (of the Utsarga) and (the following) night.
@@ -249,7 +264,7 @@ fullmoon day of Śrāvaṇa, one should not read at night, for one month.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.९८ अत ऊर्ध्वम्</summary>
 
 अत ऊर्ध्वं तु छन्दांसि  
 शुक्लेषु नियतः पठेत् ।  
@@ -290,6 +305,11 @@ the *Utsarjana* ceremony does not mean that its study should be totally abandone
 carry on the study of the Subsidiary Sciences.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**अत** इति । उत्सर्गानध्यायाद् **ऊर्ध्वं** शुक्लपक्षेषु संयमवान् वेदान् अधीयीत । **कृष्णपक्षे** तु **वेदाङ्गानि **व्याकरणादीनि नियमितः **पठेत् **॥ ४.९८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 098	Afterwards he shall diligently recite the Vedas during the bright (halves of the months), and duly study all the Angas of the Vedas during the dark fortnights.
@@ -302,7 +322,7 @@ carry on the study of the Subsidiary Sciences.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.९९ नाऽविस्पष्टम्</summary>
 
 नाऽविस्पष्टम् अधीयीत  
 न शूद्र-जन-सन्निधौ ।  
@@ -361,6 +381,11 @@ defective in accent and syllable, he becomes scorched by Ṛk, Yajuṣ and Sāma
 obtaining gifts, leads one to hell.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**नाविस्पष्टम्** इति । सर्वदा **अविस्पष्टम् **अव्यक्तं न पठेत् । तथा **शूद्रजनसन्निधौ नाधीयीत** । तथा सुप्तोत्थितः न रात्रेः पश्चिमे भागे वेदान् अधीत्य **श्रान्तः** सन् **पुनः** सुप्यात् ॥ ४.९८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 099	Let him not recite (the texts) indistinctly, nor in the presence of Sudras; nor let him, if in the latter part of the night he is tired with reciting the Veda, go again to sleep.
@@ -373,7 +398,7 @@ obtaining gifts, leads one to hell.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१०० यथोदितेन विधिना</summary>
 
 यथोदितेन विधिना नित्यं  
 छन्दस्कृतं+++(→पद्यं)+++ पठेत् ।  
@@ -392,22 +417,28 @@ According to the prescribed rule, the Brāhmaṇa shall, every day, during norma
 
 **छन्दांसि** गायत्र्यादीन्य् अभिप्रेतानि तैः **कृतं** युक्तं **ब्रह्म** ऋक्साम । अनेकार्थत्वात् करोतेर् अयम् अत्रार्थो व्याख्यायते । यथा गोमयान् कुर्विति संहरे, पृष्ठं कुर्वित्य् उन्मर्दने, एवम् अत्र युजेर् अर्थे वर्तते । ब्रह्म च छन्दश् च ब्रह्मच्छन्दसी, ताभ्यां **कृतं**[^१८१] युक्तं **ब्रह्मच्छन्दस्कृतम्** । ब्रह्म ब्राह्मणम्, यजुर्वेदे ब्रह्म[^१८२] यजूंषि गायत्र्यादियुक्तांश् च मन्त्रान्[^१८३] । एकस्मिन्न् एवावस्थानके पठन्ति । न यथा बाह्वृच्ये छान्दोग्ये च विभागेनैकस्मिन् ग्रन्थे मन्त्रा[^१८४] अन्यत्र ब्राह्मणम् । एवं प्रकारभेदाद् वेदानाम् एवं युक्तम् इति पूर्वे व्याख्यातवन्तः ।
 
+
 [^१८४]:
      M G omit: mantrā
+
 
 [^१८३]:
      M G: gāyatryādiyuktāś ca mantrāḥ
 
+
 [^१८२]:
      M G 1st ed. omit: brahma brāhmaṇam, yajurvede brahma
+
 
 [^१८१]:
      M G omit: kṛtaṃ
 
 - **यथोदितेन** । पूर्वो विधिर् अनापद्य् उपसंह्रियते । आपदि अध्यापकस्यासंनिधानं बहुदेवताविभागम् अपेक्षमाणस्य तत्रागुणवतः[^१८५] विस्मृत्य स्यात् । तस्माद् आपद्य्[^१८६] अयं विभागो नादरणीयः ॥ ४.१०० ॥
 
+
 [^१८६]:
      M G 1st ed.: tasmān nāpady
+
 
 [^१८५]:
      M G add: saha
@@ -430,6 +461,11 @@ same chapter. It is not so in the Ṛgveda or in the Sāma Veda; in both of whic
 stopping of reading for that reading which has been laid down as to be done every day.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**यथोदितेनेति** । अध्यापकस्य कर्मान्तरव्यग्रत्वं आत्मनश् च बहुवेदने ह्य् आपत् तदभावे पूर्वोक्तविधिना द्विजो यत्नवान् सर्वदा गायत्र्यादिछन्दोयुक्तं ऋक्सामाख्यं **ब्रह्म **पठेत् । तथा **ब्रह्म** ब्राह्मणं गायत्र्यादिछन्दोयुक्तमन्त्रमिश्रं यजुर्वेदाख्यम् । मन्त्रब्राह्मणयोर् मिश्रपाठात् वैलक्षण्ये सत्य् अयं पृथङ्निर्देशः ॥ ४.१०० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 100	According to the rule declared above, let him recite the daily (portion of the) Mantras, and a zealous Brahmana, (who is) not in distress, (shall study) the Brahmana and the Mantrasamhita.
@@ -444,7 +480,7 @@ stopping of reading for that reading which has been laid down as to be done ever
 
 ## अनध्यायः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१०१ इमान् नित्यम्</summary>
 
 इमान् नित्यम् अनध्यायान्  
 अधीयानो विवर्जयेत् ।  
@@ -488,6 +524,11 @@ on his study, should avoid the days unfit for study; and the teacher, carrying o
 knowledge in the fertile soil of the true pupil, except on the days unfit for study.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**इमान्** इति । पूर्वोक्तेन विधानेन्**आधीयानः **शिष्यांश् चाध्यापयन् वक्ष्यमाणान् अनध्यायान् सर्वदा वर्जयेत् ॥ ४.१०१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 101	Let him who studies always avoid (reading) on the following occasions when the Veda-study is forbidden, and (let) him who teaches pupils according to the prescribed rule (do it likewise).
@@ -500,7 +541,7 @@ knowledge in the fertile soil of the true pupil, except on the days unfit for st
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१०२ कर्णश्रवे ऽनिले</summary>
 
 कर्णश्रवे ऽनिले रात्रौ  
 दिवा पांसुसमूहने ।  
@@ -553,6 +594,11 @@ when there is fog, or when there are sounds of dancing, singing, weeping, or Sā
 are fiery, during the twilights, during fogs, and when there is danger.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**कर्णश्रव** इति । कर्णाभ्याम् एव श्रवणोपपत्तेः अतिशयविवक्षया **कर्णश्रव** इत्य् उक्तम् । तेन रात्राव् अतिशब्दवति वायौ, दिवा च रजःसमाहरणसमर्थे वाति, एतौ वएषाकाले तावत्कालिकाव् **अनध्यायौ** अध्ययनविधिज्ञाः कथयन्ति** **॥ ४.१०२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 102	Those who know the (rules of) recitation declare that in the rainy season the Veda-study must be stopped on these two (occasions), when the wind is audible at night, and when it whirls up the dust in the day-time.
@@ -565,7 +611,7 @@ are fiery, during the twilights, during fogs, and when there is danger.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१०३ विद्युत्स्तनितवर्षेषु</summary>
 
 विद्युत्-स्तनित-वर्षेषु +++(युगपत्सु)+++  
 महोल्कानां च सम्प्लवे ।  
@@ -631,6 +677,11 @@ till the same time next day; also when there is fall of meteors, earthquake or c
 appearance of lightning, thunder and rain, out of season, three days shall he regarded as unfit for study; only till such time as rain-water remains on the ground, say some; if there are untimely clouds, if there are halos round the sun or the moon, if the rainbow appears, or when there is a rotting smell in the wind,—so long as these last, it will be unfit for study.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**विद्युत्स्तनितवर्षेष्व् **इति । विद्युद्गर्जितवर्षेषु युगपदुपस्थितेषु महतां च दिव्यज्योतिर्विशेषेण पुनः स्थानतश् च पाते सति एतेषु निमित्तकालाद् आरब्यापरेद्युयावत् स एव कालः तावत् प्रकृतासु वर्षासु **अनध्यायं मनुर्** आह ॥ ४.१०३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 103	Manu has stated, that when lightning, thunder, and rain (are observed together), or when large fiery meteors fall on all sides, the recitation must be interrupted until the same hour (on the next day, counting from the occurrence of the event).
@@ -643,7 +694,7 @@ appearance of lightning, thunder and rain, out of season, three days shall he re
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१०४ एतांस् त्व्</summary>
 
 एतांस् त्व् अभ्युदितान् विद्याद्  
 यदा प्रादुष्कृताग्निषु+++(=प्रज्वालिताग्निषु)+++ ।  
@@ -694,6 +745,11 @@ the effect that on the appearance of each of the phenomena individually, only th
 See Comparative notes for [Verse 4.103].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**एतान्** इति । **एतान् **विद्युदादीन् जुहूषया प्रकटी**कृताग्निषु** सन्ध्यालक्षणेषु कालेषु यतोपजातान् जानीयात् तदानध्यायं कुर्यात् । न सर्वदा वर्षासु एतदुत्पाते तथा वर्षाभ्यो ऽन्यत्र्**आभ्रदर्शने** सत्य् **अनध्यायः** ॥ ४.१०४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 104	When one perceives these (phenomena) all together (in the twilight), after the sacred fires have been made to blaze (for the performance of the Agnihotra), then one must know the recitation of the Veda to be forbidden, and also when clouds appear out of season.
@@ -706,7 +762,7 @@ See Comparative notes for [Verse 4.103].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१०५ निर्घाते</summary>
 
 निर्घाते भूमिचलने  
 ज्योतिषां चोपसर्जने ।  
@@ -777,6 +833,11 @@ quarters.’
 fall of meteors and earthquake, there shall be no study for three days.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**निर्घात** इति । अन्तरिक्षे उत्पातध्वनौ भूकम्पे आदितादीनां परिवेषणे सति अनृताव् अपि वर्षास्व् अपि । **अपि**शब्दात् अन्यदापि **आकालिकान् अनध्यायान्** जानीयात् ॥ ४.१०५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 105	On (the occasion of) a preternatural sound from the sky, (of) an earthquake, and when the lights of heaven are surrounded by a halo, let him know that (the Veda-study must be) stopped until the same hour (on the next day), even if (these phenomena happen) in the (rainy) season.
@@ -789,7 +850,7 @@ fall of meteors and earthquake, there shall be no study for three days.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१०६ प्रादुष्कृतेष्व्</summary>
 
 प्रादुष्कृतेष्व्+++(=प्रज्वालितेषु)+++ अग्निषु तु  
 विद्युत्-स्तनित-निःस्वने ।  
@@ -810,11 +871,14 @@ When lightning and the roar of thunder appear after the Fires have been lighted,
 
 - विद्युत्स्तनितवर्षाणां त्रयाणां प्रकृतानां विद्युत्स्तनितयोर् विभज्य निर्देशो भवति । वर्षाः शेषः, तस्मिंस् तृतीये दृश्यमाने पूर्वोत्क आकालिको ऽनध्यायः । तदपेक्षयोक्तं **यथा दिवा** तथा **रात्राव् अपि**[^१८७] । ज्योतिः[^१८८] प्रसिद्धतरं ज्योतिष्टोमादि । शेषम् इति[^१८९] पाठः । शेषं हूयमानम् अहर् अनध्यायहेतुर् भवतीति । 
 
+
 [^१८९]:
      M G 1st ed.: api
 
+
 [^१८८]:
      M G 1st ed. omit: jyotiḥ
+
 
 [^१८७]:
      M G place this phrase after jyotiṣṭomādi
@@ -868,6 +932,11 @@ simultaneously, then for three days.’
 not study during the night: if it thunders in the morning they shall not study during the day and night.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**प्रादुष्कृतेष्व्** इति । अग्नीनां पुनर् अपासितभस्मतया प्रकटीकरणवेलायां सन्ध्याकाले विद्युद्गर्जितशब्दाव् एव यदा भवतो न वर्षं तदा यावज् ज्योतिः तावद् एवानध्यायः नाकालिकम्, दिवादित्यज्योतिः रात्रौ तारकाः । अतः पूर्वं सन्ध्यायाम् एतद् उत्पाते दिवैवानध्यायः पश्चिमायां चोत्पाते रात्राव् एव । शेषेषु च पुनर् वर्षाख्ये तृतीय उपजाते **यथा दिवा** तथा **रात्राव्** अप्य् अनध्यायः इत्य् उक्तानुवादः ॥ ४.१०६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 106	But when lightning and the roar of thunder (are observed) after the sacred fires have been made to blaze, the stoppage shall last as long as the light (of the sun or of the stars is visible); if the remaining (above-named phenomenon, rain, occurs, the reading shall cease), both in the day-time and at night.
@@ -880,7 +949,7 @@ not study during the night: if it thunders in the morning they shall not study d
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१०७ नित्यानध्याय एव</summary>
 
 नित्यानध्याय एव स्याद्  
 ग्रामेषु नगरेषु च ।  
@@ -898,6 +967,7 @@ In villages and cities, it is always unfit for study, for those who seek for per
 <details><summary>मेधातिथिः</summary>
 
 निपुणं धर्मं ये कामयन्ते ते **ग्रामनगयोर्** नाधीयीरन् । **धर्म**शब्दश् च स्वर्गादौ धर्मफले वर्तते । यदि वाधर्मेणाननुवेधो[^१९०] **धर्मस्य नैपुण्यम्**, तेन सुपरिपूर्णो विध्यर्थो ऽनुष्ठितो भवति । अतश् चाशक्तस्यानुज्ञानं भवति । **पूतिगन्धः** कुत्सितगन्धः, तस्मिन् नासिकापथं गच्छत्य् **अनध्यायः** । **सर्वशः** सर्वस्मिन् शवगन्धे ऽपि ॥ ४.१०७ ॥
+
 
 [^१९०]:
      J: -vedhā
@@ -949,6 +1019,11 @@ fire-portents or dust-storm there should be no reading in the village.’
 should he cessation of the study of all subjects till they last.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**नित्यानध्याय** इति । धर्मातिशयार्थिनां ग्रामनगरयोः सर्वदानध्यायः स्यात् । कुत्सितगन्धेन च सर्वस्मिन्न् उपलभ्यमाने ऽनध्यायः अस्मिन्न् अनध्यायप्रकरणे नित्यशब्दादीनां क्वचित् क्वचिद् अभावात् तत्र तत्र नित्यत्वं अन्यत्र विकल्पः । स च धर्मनैप्पुणविद्यानैपुणकामभेदेन व्यवस्थितो ज्ञेयः । द्विविधा ह्य् अध्येतारः, धर्मनैपुणकामा विद्यानैपुणकामाश् च । तत्र ये स्वीकृतप्रायवेदाः केवलं नियमानुष्थानजन्यम् अदृष्टातिशयम् अर्थयन्ते ते धर्मनैपुणकामाः तेषाम् अशेषानध्यायादरणम् । पुनः प्रथमाध्येतारः ते विद्यातिशयार्थिनः एषां नित्यत्वलिङ्गव्यतिरिक्तानध्यायादरणं नास्ति ॥ ४.१०७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 107	For those who wish to acquire exceedingiy great merit, a continual interruption of the Veda-study (is prescribed) in villages and in towns, and (the Veda-study must) always (cease) when any kind of foul smell (is perceptible).
@@ -956,7 +1031,7 @@ should he cessation of the study of all subjects till they last.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१०८ अन्तर्गतशवे</summary>
 
 अन्तर्गत-शवे ग्रामे  
 वृषलस्य च सन्निधौ ।  
@@ -1029,6 +1104,11 @@ instruments, or cries of pain, on the outskirts of the village, in the cremation
 instruments, or of weeping,—and when there is high wind;—during that time it will be unfit for study.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**अन्तर्गतशव** इति । विद्यमानशवे **वृषलस्य च** अधार्मिकस्य च **सन्निधौ** “न शूद्रजनसन्निधौ” इत् शूद्रस्योक्तत्वात् रोदने च, जनानां कार्यार्थम् एकत्र सन्निधाने सत्य् **अनध्यायः** ॥ ४.१०८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 108	In a village where a corpse lies, in the presence of a (man who lives as unrighteously as a) Sudra, while (the sound of) weeping (is heard), and in a crowd of men the (recitation of the Veda must be) stopped.
@@ -1038,7 +1118,7 @@ instruments, or of weeping,—and when there is high wind;—during that time it
 
 ### श्राद्धनिमित्तम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१०९ उदके मध्यरात्रे</summary>
 
 उदके मध्यरात्रे च  
 विण्-मूत्रस्य विसर्जने ।  
@@ -1057,8 +1137,10 @@ In water, at midnight, during the evacuation of the bladder and the bowels, whil
 
 चतुर्मुहूर्तो ऽर्धरात्रः । सैव महानिशा । प्रथमाद् अर्धरात्राद् द्वौ मुहूर्ताव् उत्तराद् द्वौ । **उदके** नदीतडागादिस्थः । अन्तर्जले जपस् त्व् अनध्यायरूपत्वाद् अघमर्षणादिर् न निषिध्यते । "उदये" इत्य् अन्ये पठन्ति । प्रथमोदयकाले सूर्यस्यानध्यायः । **उच्छिष्टो** भुजिसंबन्धेनाकृताचमनो यावत् । कृतमूत्रपुरीषो ऽपि प्राग् आचमनाद् उच्छिष्ट उच्यत एव । आचमनार्हाप्रात्ययमात्रवचन[^१९१] इत्य् <u>अन्ये</u> । तेन कृतनिष्ठीवनादिर् अपि गृह्यते । **मनसापि** । नान्यत्रानध्याये[^१९२] मनसा चिन्तनम् अभ्यनुज्ञायते । किं तर्हि, दोषगौरवार्थम् एतेषां निमित्तानाम् ॥ ४.१०९ ॥
 
+
 [^१९२]:
      M G 1st ed.: nānyatrādhyāye
+
 
 [^१९१]:
      M G 1st ed.: ācamanārhapratyayamātra-
@@ -1112,6 +1194,11 @@ during lightning and thunder, after eating while the hands are still wet, in wat
 meteors, on earthquake, at fiery portents, at the junction of two seasons,—there should be no study till the next day; after meals while the hands are wet, in water, or midnight, during the two twilights, while a dead body is lying in the village, and while a Caṇḍāla is in the village.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**उदक** इति । जलमध्ये मधमे च प्रहरद्वये महानिशाख्ये “महानिशा च विज्ञेया मध्यस्थं प्रहरद्वयम्” इति देवलस्मरणात् । मूत्रपुरीषकाले प्राग् आचमनाद् **उच्छिष्टः** **श्राद्धभुक्** निमन्त्रणात् प्रभृति श्राद्धभोजनाद् अहोरात्रं यावत् मनसापि वेदस्य न स्मरेत् ॥ ४.१०९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 109	In water, during the middle part of the night, while he voids excrements, or is impure, and after he has partaken of a funeral dinner, a man must not even think in his heart (of the sacred texts).
@@ -1124,7 +1211,7 @@ meteors, on earthquake, at fiery portents, at the junction of two seasons,—the
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.११० प्रतिगृह्य</summary>
 
 प्रतिगृह्य द्विजो विद्वान्  
 एकोद्दिष्टस्य केतनम् [मेधातिथिपाठः - एकोद्दिष्ट-निकेतनम्] ।  
@@ -1184,6 +1271,11 @@ things connected with Śrāddhas,—on accepting the gift of these, it is unfit 
 *Gobhila* (3.3.25).—‘When one’s own king (is dead).’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**प्रतिगृह्येति** । शास्त्रविद् ब्राह्मणः नवश्राद्धे च निमन्त्रणम् उररीकृत्य नृपस्य च पुत्रजन्मादौ राहुणा वा अर्केन्दुग्रामे सति **त्र्यहं** वेदं नाधीयीत ॥ ४.११० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 110	A learned Brahmana shall not recite the Veda during three days, when he has accepted an invitation to a (funeral rite) in honour of one ancestor (ekoddishta), or when the king has become impure through a birth or death in his family (sutaka), or when Rahu by an eclipse makes the moon impure.
@@ -1196,7 +1288,7 @@ things connected with Śrāddhas,—on accepting the gift of these, it is unfit 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१११ यावद्</summary>
 
 यावद् एकानुदिष्टस्य  
 गन्धो लेपश् च तिष्ठति ।  
@@ -1214,6 +1306,7 @@ While the odour and stain of a funeral rite not offered to his own ancestor rema
 <details><summary>मेधातिथिः</summary>
 
 एकम् अनुदिश्य आमश्राद्धम्, तस्य यावच् छ्राद्धकृतौ[^१९४] गन्धलेपौ तिष्ठतस् तावद् अनध्यायः । पूर्वस्माद् विधौ विध्यन्तरम् । द्वितीयस्मिन्न् अहनि कृतस्नानो ऽपनीततद्गन्धो ऽध्ययनार्हः । उपलक्षणं चैतद् असतोर् अपि गन्धलेपयोर् यावद् भुक्तम् अन्नं न जीर्णं तावन् नाधीयीत । **विदुष** इति तस्यैव श्राद्धभोजनाधिकारम् अनुवदति ॥ ४.१११ ॥
+
 
 [^१९४]:
      M G: chrāddhakṛto
@@ -1242,6 +1335,11 @@ to the dead, the day along with the night becomes unfit for study.’
 etc. (see under 109). According to some only on eating at Śrāddha.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+त्र्यहाद् ऊर्ध्वम् अपि वा । **यावद्** इति । **यावद्** एकोद्देशेन निमन्त्रितस्य शास्त्रविदो ब्राह्मणस्य श्राद्धगतस्रक्चन्दनादिगन्धलेपो गात्रे भवतः तावव् वेदम् नाधीयीत ॥ ४.१११ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 111	As long as the smell and the stains of the (food given) in honour of one ancestor remain on the body of a learned Brahmana, so long he must not recite the Veda.
@@ -1256,7 +1354,7 @@ etc. (see under 109). According to some only on eating at Śrāddha.’
 
 ### कारणान्तरम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.११२ शयानः</summary>
 
 शयानः प्रौढ-पादश् च  
 कृत्वा चैवाऽवसक्थिकाम् +++(→जानुमेलनम्)+++ ।  
@@ -1309,6 +1407,11 @@ and other such things spreading, seated on a tree, on the boat, in the army, aft
 *Viṣṇu* (30.17).—‘Nor with his feet placed on a seat.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**शयान **इति । शय्योत्सृष्टाङ्गप्रसारितपादः पादारोपितपादो वा पर्यस्तिकां च कृत्वा मांसम् आशौचान्नं च भुक्त्वा **नाधीयीत **॥ ४.११२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 112	While lying on a bed, while his feet are raised (on a bench), while he sits on his hams with a cloth tied round his knees, let him not study, nor when he has eaten meat or food given by a person impure on account of a birth or a death,
@@ -1321,7 +1424,7 @@ and other such things spreading, seated on a tree, on the boat, in the army, aft
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.११३ नीहारे बाणशब्दे</summary>
 
 नीहारे बाणशब्दे च  
 सन्ध्ययोर् एव चोभयोः ।  
@@ -1393,6 +1496,11 @@ whole day is unfit for study; after meals while his hands are wet, in water, dur
 days of the months of Kārtika, Phālguna and Āṣāḍha.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+धूमिकायां **वाणशब्दे सन्ध्ययोः अमावास्याचतुर्दशीपौर्णमास्यष्टमीषु च न अधीयीत **। अष्टकानाम् उत्तरत्राभिधानाद् इहामावास्यादिसाहचर्याद् अष्टकाग्रहणम् अष्टम्यर्थम् ॥ ४.११३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 113	Nor during a fog, nor while the sound of arrows is audible, nor during both the twilights, nor on the new-moon day, nor on the fourteenth and the eighth (days of each half-month), nor on the full-moon day.
@@ -1405,7 +1513,7 @@ days of the months of Kārtika, Phālguna and Āṣāḍha.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.११४ अमावास्या गुरुम्</summary>
 
 अमावास्या गुरुं हन्ति  
 शिष्यं हन्ति चतुर्दशी ।  
@@ -1448,6 +1556,11 @@ month destroys the Teacher, the fourteenth destroys the pupil, the fifteenth des
 reward either in this world or in the other; by study on those days, I here is diminution of the life-span of the teacher and also of the pupil.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+यस्मात् **अमावास्येति** । **अमावास्या गुरुं हन्ति शिष्यं **च **चतुर्दशी** हन्ति वेदं चाष्टमीपौर्णमास्यौ विस्मार्यतः । **तस्माद्** एतासु नित्यम् अध्ययनं परिहरेत् ॥ ४.११४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 114	The new-moon day destroys the teacher, the fourteenth (day) the pupil, the eighth and the full-moon days (destroy all remembrance of) the Veda; let him therefore avoid (reading on) those (days).
@@ -1460,7 +1573,7 @@ reward either in this world or in the other; by study on those days, I here is d
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.११५ पांसुवर्षे</summary>
 
 पांसुवर्षे दिशां दाहे  
 गोमायु-विरुते तथा ।  
@@ -1517,6 +1630,11 @@ jackal, the owl, the Sāma, the arrows (or flute?) or of some one in distress; o
 instruments, or cry of distress,—in the outskirts of the village, or in the cremation-ground, or when there are sounds of the dog, the ass, the owl, the jackal or the Sāma,—it is unfit for study while all this lasts.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**पांसुवर्ष** इति । रजोवर्षे दिग्दाहे च यत्र ज्वलिता इव दिशो लक्ष्यन्ते । शृगालश्वखरविरुते पङ्क्त्याकारेण चोपविश्य **द्विजो न पठेत्** ॥ ४.११५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 115	A Brahmana shall not recite (the Veda) during a dust-storm, nor while the sky is preternaturally red, nor while jackals howl, nor while the barking of dogs, the braying of donkeys, or the grunting of camels (is heard), nor while (he is seated) in a company.
@@ -1524,7 +1642,7 @@ instruments, or cry of distress,—in the outskirts of the village, or in the cr
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.११६ नाऽधीयीत</summary>
 
 नाऽधीयीत श्मशानान्ते  
 ग्रामान्ते गोव्रजे ऽपि वा ।  
@@ -1587,6 +1705,11 @@ road-crossings.’
 *Pāraskara* (2.11.16).—\[See above.\]
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**नाधीयीतेति** । “श्मश्ने सर्वतः शम्याप्रासान् नाधीयीत” इत्य् आपस्तम्बस्मरणात् तथाविधश्मशानसमीपगोष्ठयोश् च स्त्रीसम्प्रयोगप्रावृतं च **वासः **प्रावृत्य श्राद्धार्थं (चा) कृतान्नाद्यर्थं प्रतिगृह्य **नाधीयीत** ॥ ४.११६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 116	Let him not study near a burial-ground, nor near a village, nor in a cow-pen, nor dressed in a garment which he wore during conjugal intercourse, nor after receiving a present at a funeral sacrifice.
@@ -1594,7 +1717,7 @@ road-crossings.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.११७ प्राणि वा</summary>
 
 प्राणि वा यदि वाप्राणि  
 यत् किं चिच् छ्राद्धिकं भवेत् ।  
@@ -1639,6 +1762,11 @@ connected with the Śrāddha,—on the acceptance of all this, it becomes unfit 
 Śrāddha, the rest of the day becomes unfit for study;—after eating, till digestion; the Brāhmaṇa has his hands for his mouth. In this connection they cite the following:—There is no difference between what is eaten and what is received in gift.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+गोहिरण्यादि **यत् किञ्चित्** श्राद्धार्थं तत् स्पृष्ट्वाप्य् अनध्यायः । किम् उत प्रतिगृह्य । यस्मात् पाणिर् एवास्यम् अस्येति **पाण्यास्यो **ब्राह्मणः ॥ ४.११७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 117	Be it an animal or a thing inanimate, whatever be the (gift) at a Sraddha, let him not, having just accepted it, recite the Veda; for the hand of a Brahmana is his mouth.
@@ -1646,7 +1774,7 @@ connected with the Śrāddha,—on the acceptance of all this, it becomes unfit 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.११८ चोरैर् उपद्रुते</summary>
 
 चोरैर् उपद्रुते ग्रामे  
 सम्भ्रमे चाऽग्निकारिते [मेधातिथिपाठः - चौरैर् उपप्लुते, सम्भ्रमे] ।  
@@ -1701,6 +1829,11 @@ fire-portents, there shall be no reading in the village.’
 meteor-shower, or earthquake, or fire-calamity till the same time next day;—during running, while the accused or the outcast is looking on, and during a wonderful phenomenon, it is unfit for study during the time.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**चौरैर्** इति । **चौरैर् उपप्लुते ग्रामे **अग्निदाहकृते च भये दिव्यान्तरिक्षभौमेषु चाश्वर्यरूपेषु उत्पातेषु रुधिरवर्षणादिषु **आकालिकम् अनध्यायं** जानीयात् ॥ ४.११८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 118	When the village has been beset by robbers, and when an alarm has been raised by fire, let him know that (the Veda-study must be) interrupted until the same hour (on the next day), and on (the occurrence of) all portents.
@@ -1713,7 +1846,7 @@ meteor-shower, or earthquake, or fire-calamity till the same time next day;—du
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.११९ उपाकर्मणि</summary>
 
 उपाकर्मणि चोत्सर्गे  
 त्रिरात्रं क्षेपणं स्मृतम् ।  
@@ -1774,6 +1907,11 @@ Do. (2.11.2).—‘On eating at a Śrāddha...... at the juncture of the seasons
 and Āṣāḍha.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**उपाकर्मणीति** । उपाकर्मोत्सर्गाख्ययोः गृह्योक्तकर्मणोः कृतयोः **त्रिरात्रम् स्मृतम्** । तत्रोत्सर्गे पक्षिण्य् अहोरात्राभ्याम् उक्ताभ्यां सह अनेन विकल्पः । ऊर्ध्वम् आग्रहायण्याः कृष्णपक्षाष्टमीषु तिसृषु चतसृषु वा अहोरात्रम् अनध्यायः । अष्टमीषु पुनः यावद् अष्टमीत्य् एवम् अर्थम् । तथा च तत्र “अष्टकासु नाधीयीत” इत्य् उक्तम् । इह पुनः “अष्टकासु त्व् अहोरात्रम्” इति यत् तु पुनर्वचनं नित्यार्थम् इत्य् आहुस् तद् असत् । तत्रापि “अमावास्या गुरुं हन्ति” इत्य् अर्थवादेन नित्यत्वस्य समर्थितत्वात् ऋत्वन्तरेषु चाहोरात्रम् अनध्यायः ॥ ४.११९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 119	On (the occasion of) the Upakarman and (of) the Vedotsarga an omission (of the Veda-study) for three days has been prescribed, but on the Ashtakas and on the last nights of the seasons for a day and a night.
@@ -1786,7 +1924,7 @@ and Āṣāḍha.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१२० नाऽधीयीताऽश्वम्</summary>
 
 नाऽधीयीताऽश्वम् आरूढो  
 न वृक्षं न च हस्तिनम् ।  
@@ -1804,6 +1942,7 @@ He shall not recite the Veda while seated on a horse, or a tree, or an elephant,
 <details><summary>मेधातिथिः</summary>
 
 **ईरिणं**[^१९५] बहिर् ग्रामं जलतृणवर्जितो देश ऊषरापरपर्यायः । **यानं** गन्त्रीशकटशिबिकादि । तेन गच्छतो निषेधः ॥ ४.१२० ॥
+
 
 [^१९५]:
      M G: iriṇaṃ
@@ -1843,6 +1982,11 @@ horse or on a camel or on a boat or on any conveyance.’
 boat,—while seated on these, or on a barren plot of land,...... these are occasions that are unfit for study while they last.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**नाधीयीतेति **। अश्ववृक्षहस्तिनौखरोष्ट्रारूढः तथोषरप्रदेशस्थः गन्त्र्यादिभिर् यानेन च गच्छन् **नाधीयीत **॥ ४.१२० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 120	Let him not recite the Veda on horseback, nor on a tree, nor on an elephant, nor in a boat (or ship), nor on a donkey, nor on camel, nor standing on barren ground, nor riding in a carriage,
@@ -1855,7 +1999,7 @@ boat,—while seated on these, or on a barren plot of land,...... these are occa
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१२१ न विवादे</summary>
 
 न विवादे न कलहे  
 न सेनायां न सङ्गरे ।  
@@ -1944,6 +2088,11 @@ there is sound of dancing or of musical instruments or of weeping or of high win
 arrive, he shall not proceed with his study; but he may go on, on being permitted by him.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**न विवाद** इति । व्याक्रोशायां प्रवृत्तायां दण्डादण्डि वा यदोत्पन्नं भवति अप्रवृत्तयुद्धायां वा **सेनायां** प्रवृत्तयुद्धे वा स्थितः भोजनसमनन्तरं च “यावद् आर्द्रपाणिः” इति वसिष्ठस्मरणात् । अपरेद्युश् **चाजीर्णे वमित्वा** चान्नानि **शुक्तके **वोद्गारे नाधीयीत॥ ४.१२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 121	Nor during a verbal altercation, nor during a mutual assault, nor in a camp, nor during a battle, nor when he has just eaten, nor during an indigestion, nor after vomiting, nor with sour eructations,
@@ -1956,7 +2105,7 @@ arrive, he shall not proceed with his study; but he may go on, on being permitte
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१२२ अतिथिम्</summary>
 
 अतिथिं चाऽननुज्ञाप्य  
 मारुते वाति वा भृशम् ।  
@@ -1975,8 +2124,10 @@ Not without having obtained the permission of his guest, nor while the wind blow
 
 **अतिथि**ग्रहणं शिष्टोपलक्षणार्थम् । अनित्यागमनः शिष्टश् चातिथिस् तस्मिन् गृह आगते ऽसाव् अध्येषितव्यः[^१९६] "अधिमहे" इति तेनानुज्ञातो[^१९७] ऽधीयीत । तथा च स्मृत्यन्तरम्- "शिष्टे च गृहम् आगते" इति (य्ध् १.१५०) । **मारुते** वायौ **वाति** वेगेन ।
 
+
 [^१९७]:
      M G 1st ed.: nānujñāto
+
 
 [^१९६]:
      M G 1st ed.: adhyetavyam
@@ -1987,8 +2138,10 @@ Not without having obtained the permission of his guest, nor while the wind blow
 
 - अथ वा[^१९८] **वाति** परिशुष्यति, वानः[^१९९] शोषणार्थत्वात् । **मारुत**ग्रहणं च वातमात्रोपलक्षणार्थम् । अध्ययनश्रमेण धतुषु क्षीयमाणेष्व् अप्य् अनध्यायः । **मारुते** वर्धमाने विधायिन्य् अध्येतरीति भिन्नसंबन्धे व्यधिकरणसप्तम्यौ । **रुधिरे** जलौकादिना परिस्रुते, अथ वा **शस्त्रेण च परिक्षते** शरीरे **रुधिरे स्रुते** । गात्रादिवाक्येनैकवाक्यता ॥ ४.१२२ ॥
 
+
 [^१९९]:
      M G: vātasya
+
 
 [^१९८]:
      M G omit: vā
@@ -2017,6 +2170,11 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 536);—in
 Brāhmaṇa arrives, the reader should offer him water etc., and then having obtained his permission, he should proceed with his study’;—and in *Gadādharapaddhati* (Kāla, p. 196).
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**अतिथिम्** इति । **अतिथिः** अधीष्वेत्य् एवं यावद् अननुज्ञापितः, वायौ चाध्ययनश्रमेणातिकुप्यति **रुधिरे च **श्रीरात् **स्रुते, शस्त्रेण** चारुधिरोत्पादितापि **क्ष्ते** उत्पन्ने नाधीयीत ॥ ४.१२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 122	Nor without receiving permission from a guest (who stays in his house), nor while the wind blows vehemently, nor while blood flows from his body, nor when he is wounded by a weapon.
@@ -2024,7 +2182,7 @@ Brāhmaṇa arrives, the reader should offer him water etc., and then having obt
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१२३ सामध्वनाव्</summary>
 
 सामध्वनाव् ऋग्-यजुषी  
 नाऽधीयीत कदा चन ।  
@@ -2090,6 +2248,11 @@ as sacrifices to the deities of the cremation-ground are offered with the Sāmav
 shall not be read while there is sound of Sāma-singing; or when there is very high wind.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**सामध्वनाव्** इति । **सामध्वनौ** शूयमाणे ऋग्यजुषोर् न कदाचिद् अप्य् अध्ययनं कुर्यात् । तथा वेदं समाप्य आरण्याख्यं च वेदैकदेशं **अधीत्य **तस्मिन्न् अहोरात्रे अन्यत् **नाधीयीत** ॥ ४.१२३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 123	Let him never recite the Rig-veda or the Yagur-veda while the Saman (melodies) are heard; (let him stop all Veda-study for a day and a night) after finishing a Veda or after reciting an Aranyaka.
@@ -2102,7 +2265,7 @@ shall not be read while there is sound of Sāma-singing; or when there is very h
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१२४ ऋग्वेदो</summary>
 
 ऋग्वेदो देव-दैवत्यो  
 यजुर्वेदस् तु मानुषः ।  
@@ -2120,6 +2283,7 @@ The Ṛgveda is sacred to the gods and the Yajurveda is human; the Sāmaveda has
 <details><summary>मेधातिथिः</summary>
 
 सामगीतध्वनाव् ऋग्यजुषस्यानध्याय उक्तः । तत्रायम् अर्थवादः । देवा देवता अस्य **देवदैवत्यो** देवतास्तुतिपर इत्य् अर्थः । ऋचः प्रायेण स्तुतिप्रधानाः । अत उक्तं **देवदैवत्य** इति । मनुष्याणां कर्मप्रधानत्वाद् यजुर्वेदे च कर्मणां बाहुल्योपदेशाद् एतेन साम्येन **यजुर्वेदो मानुष** इत्य् उच्यते । **मानुष**शब्दो मनुष्यजातिवचनः । अभेदाध्यासाद् **यजुर्वेदो मानुष** इत्य् उक्तम् । **पित्र्यः** पितृभ्यो हितः । पितरो वा देवता अस्येति यथा कथंचित् पितृशब्दसंबन्धेन श्रूयते । त्रयो लोकास् तेषां त्रय एवाधिष्ठातारः । दिवो देवता भूमेर् मनुष्या अन्तरिक्षस्य पितरः । एवं त्रयो वेदाः । द्वयोर् देवमनुष्यसंबन्धोक्तत्वात् पारिशेष्यात् पित्र्यः सामवेदः । **तस्याशुचिर् ध्वनिः** । नात्र तदीयस्य ध्वनेर् अशुचित्वं परमार्थतो विज्ञेयम् । किं तर्हि, यथाशुचिसंनिधाने नाध्येतव्यम् एवं तत्संनिधान इति सामान्यम् अशुचित्वालम्बनम् । अयं चाध्ययनविधौ प्रकरणात् साम्नि गीयमाने ऋग्यजुषः[^२००] प्रतिषेधः, न यज्ञप्रयोगे ॥ ४.१२४ ॥
+
 
 [^२००]:
      G 2nd ed.: -yajuṣayoḥ
@@ -2149,6 +2313,11 @@ From the context it is clear that this prohibition during Sāma-chant, pertains 
 This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 534), which adds that according to a declaration by Āpastamba, the time, during which the Ṛk and other Vedas are recited, is unfit for the chanting of the Sāman;—in *Smṛticandrikā* (Saṃskāra, p. 160), as stating the reason for what has been declared in the preceding verse;—in *Puruṣārthacintāmaṇi* (p. 443);—and in *Hemādri* (Kāla, p. 768),—in all these to the same effect.
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**ऋग्वेद** इति । देवा देवता यस्यासौ **देवदैवत्य ऋग्वेदः **। मनुष्यदेवताकत्वात् **यजुर्वेदो मानुषः । सामवेदः **पितृदेवताकः **स्मृतः । **पित्र्यं कर्म कृत्वा आचम्यते । तस्मात् **तस्याशुचिर्** इति **ध्वनिः **। अतस् तस्मिन् श्रूयमाणे ऋग्यजुषी नाध्येये इति पूर्वविध्यर्थवादः ॥ ४.१२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 124	The Rig-veda is declared to be sacred to the gods, the Yagur-veda sacred to men, and the Sama-veda sacred to the manes; hence the sound of the latter is impure (as it were).
@@ -2161,7 +2330,7 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 534), which adds that 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१२५ एतद् विद्वन्तो</summary>
 
 एतद् विद्वन्तो विद्वांसस्  
 त्रयीनिष्कर्षम्+++(→ॐ)+++ अन्वहम् ।  
@@ -2182,6 +2351,7 @@ Knowing this, the learned dally recite first the essence of the three Vedas, in 
 
 - उक्तो ऽप्य् अयम् अर्थो द्वितीये ऽध्याये पुनर् उच्यते । यथानध्यायेषु न[^२०१] पठ्यते, तथा त्रयीनिष्कर्षे प्राग् अनधीते ॥ ४.१२५ ॥
 
+
 [^२०१]:
      M G omit: na
 </details>
@@ -2193,6 +2363,11 @@ Knowing this, the learned dally recite first the essence of the three Vedas, in 
 verse—in this ‘*order*;’—and ‘*after this they recite the Veda*.’ By the reciting of the said three ‘essences,’ all the three regions and the three presiding beings become comprehended.
 
 Though this matter has already been asserted in Discourse II, yet it is repeated here; and this with a view to emphasise the fact, that—‘just as one does not recite the Veda at a time that is unfit for study, so also should he not recite it until he has previously recited *the essence of the three Vedas*.’—(125).
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतद्** देवपितृमनुष्यादौ देवत्वं (-त्वात् कथं) वेदत्रयस्य (जानन्तः) नानाशस्त्रज्ञा ऋग्यजुःसामात्मिकायास् त्रय्याः सारभूतं प्रणवव्याहृतिसावित्र्याख्यं प्रत्यहं प्रणवव्याहृतिसावित्र्यात्मकेन द्वितीयाध्यायोक्तक्रमेण प्रथमं **अभ्यस्य पश्चाद् वेदम् अधीयीयते ।** यथानध्यायेषु नाध्ययनं एवं प्रणवाद्यभ्यासं विना नाध्येयम् इत्य् एतद् अस्येह पुनर्वचनम् ॥ ४.१२५ ॥
 </details>
 
 <details><summary>Bühler</summary>
@@ -2207,7 +2382,7 @@ Though this matter has already been asserted in Discourse II, yet it is repeated
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१२६ पशुमण्डूकमार्जार</summary>
 
 पशु-मण्डूक-मार्जार-  
 श्व-सर्प-नकुलाखुभिः ।  
@@ -2257,6 +2432,11 @@ or a mongoose or a dog or a serpent or a cat or a rat,—it will be unfit for st
 *rise* of Indra.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**पशुमण्डूकमार्जारश्वसर्पनकुलाखुभिर्** इति । शिष्योपाध्याययोर् अधीयानयोः गवादिपशुमण्डूकबिडालश्वसर्पनकुलमूषकैः मध्यगमने कृते अहोरात्रम् अनध्यायं जानीयत् ॥ ४.१२६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 126	Know that (the Veda-study must be) interrupted for a day and a night, when cattle, a frog, a cat, a dog, a snake, an ichneumon, or a rat pass between (the teacher and his pupil).
@@ -2273,7 +2453,7 @@ or a mongoose or a dog or a serpent or a cat or a rat,—it will be unfit for st
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१२७ द्वाव् एव</summary>
 
 द्वाव् एव वर्जयेन् नित्यम्  
 अनध्यायौ प्रयत्नतः ।  
@@ -2332,6 +2512,11 @@ note;—and in *Gadādharapaddhati* (Kāla, p. 196).
 *Pāraskara* (1.11.7-9).— ‘On the death of the teacher, one shall enter the water and desist from study for ten days—for three days, on the death of a fellow-student;—for one day on the death of one who is not a fellow-student.’
 
 *Gobhila* (3.3.24.27).—‘On the death of a fellow-student,—on the death of one’s own king,—on the death of the teacher, for three days; for a day and night, on the death of the pupil.’
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+विद्यानैपुणकामं प्रति पूर्वोक्तानध्यायविकल्पार्थम् आह **द्वाव्** इति । अध्ययनभूमिम् **अशुद्धां आत्मानं चाशुचिम्** अपेक्ष्य **द्वौ वानध्यायौ । **ताव् एव प्रयत्नेन **नित्यं द्विजो वर्जयेत् । **ताभ्यां (मन्त्रो ऽपि) अन्यत्रापि यत्र नित्यग्रहणम् अर्थवादादि वा नित्यत्वे लिङ्गम् अस्ति तथापि नित्यम् एव वर्जयेत् । अन्यत्र तु विकल्पः ॥ ४.१२७ ॥
 </details>
 
 <details><summary>Bühler</summary>

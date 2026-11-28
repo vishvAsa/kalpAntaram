@@ -2,7 +2,7 @@
 title = "०४ जीवयात्रा"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.५५ तमो ऽयम्</summary>
 
 तमो ऽयं तु समाश्रित्य  
 चिरं तिष्ठति सेन्द्रियः ।  
@@ -31,8 +31,10 @@ This (individual Soul), on entering into ‘Darkness,’ remains, for a long tim
 
 <u>सांख्या</u> अपि केचिन् नान्तराभवम् इच्छन्ति विन्ध्यवासिप्रभृतयः । को ऽयम् अन्तराभवो नाम । अस्मिञ् छरीरे नष्टे मातृकुक्ष्यादिस्थानं द्वितीयशरीरग्रहणार्थं यावन् न प्राप्तं तावद् अन्तरा निरुपभोगं[^९६] शरीरम् उपजायते सूक्ष्मं यस्य न क्वचित् संयोगो नाग्न्यादिदाहो न महाभूतैः प्रतिबन्धः । <u>अन्ये</u> तु मूर्तिं परमात्मानम् आहुः । सर्वात्मरूपः परमात्मा समुद्रस्थानीयस् ततः प्रादुर् भवन्ति जीवा अविद्यावशाद् भेदम् उपयन्ति, महोदधेर् इवोर्मयः । तस्य च ततो निष्क्रामतः पुर्यष्टाकाख्यं लिङ्गम् अभ्युपगम्यते । धर्माधर्मपूर्वकृतवशात्[^९७] प्रत्येकस्य जीवस्य वासःस्थानीयं सूक्ष्मं शरीरम् । यथा पुराण उक्तम् । 
 
+
 [^९७]:
      J: pūrvakṛtadharmādharmavaśāt
+
 
 [^९६]:
      M G 1st ed.: nirupayogi; G 2nd ed.: nirupabhogayogi
@@ -42,6 +44,7 @@ This (individual Soul), on entering into ‘Darkness,’ remains, for a long tim
 - तेन बद्धस्य वै बन्धो मोक्षो मुक्तस्य तेन तु ॥
 
 ते च प्राणापानव्यानोदानसमानाः पञ्च बुद्धीन्द्रियवर्ग एवं कर्मेन्द्रियवर्गो ऽष्टमं मन इत्य् एतत् पुर्यष्टकम् । तच्छरीरं न नश्यति आमोक्षावस्थायाः । तद् उक्तम् "संसरति निरूपभोगभावैर्[^९८] अधिवासितं लिङ्गम्" ॥ १.५५ ॥
+
 
 [^९८]:
      J: nirūpabhogaṃ
@@ -75,6 +78,11 @@ Under this verse Hopkins translates a passage from Medhātithi, which, as will b
 Verses 55 and 56 have been variously interpreted. (1) According to Medhātithi, Govindarāja and Kullūka, it describes the process of transmigration. When an individual is dying, his individual Soul enters darkness,—*i.e*. becomes unconscious; and even though It continues to be connected with the dying body, the physical functions gradually cease;—then It leaves the body,—and enveloped in a subtle body—formed of the eight constituents (variously enumerated), It enters the embryo determined for It by its own past acts, and there becomes clothed with a new physical body which accompanies It through Its next life on Earth. (2) Nārāyaṇa holds that verse 55 provides the description of the soul during a swoon, and the second alone refers to the method of transmigration. (3) The explanation given by Nandana is entirely different. He; takes the verses as referring to what is done by the Supreme Being, the Creator;—verse 55 describing His action during Dissolution and 56 referring to a fresh creation following it. The Supreme Lord ‘enters darkness—*i.e*. the *Pradhāna*,—and having remained therein during the entire period of the Dissolution, becomes endowed with organs and a visible shape,—*i*. *e*., the shape of the Created Universe.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+प्रलयप्रसङ्गेन च क्षेत्रज्ञोत्क्रमणम् आह – **तमो यद्** इति । स आत्मा अत्यन्तव्यामोहव्याप्तः सन् यदा **सेन्द्रियो** ऽप्य् अनल्पम् कालम् आस्ते इन्द्रियाणां शरीरविनाशे ऽप्य् अविनाशेन च श्वासप्रश्वासादिकं **कर्म कुरुते तदा** शरीरं जहाति ॥ १.५५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 055	When this (soul) has entered darkness, it remains for a long time united with the organs (of sensation), but performs not its functions; it then leaves the corporeal frame.
@@ -82,7 +90,7 @@ Verses 55 and 56 have been variously interpreted. (1) According to Medhātithi, 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.५६ यदाणुमात्रिको</summary>
 
 यदाणुमात्रिको भूत्वा  
 बीजं स्थास्नु चरिष्णु च ।  
@@ -111,6 +119,11 @@ When, invested with minute particles, the Individual enters the moveable or immo
 ‘*Seed*’—The source of the physical body;—‘*Immoveable*,’ that which is the cause of the birth of trees, &c.—‘*Moveable*,’ animate.—‘*Enters into*,’ becomes enclosed in;—then ‘*united with the aforesaid*,’—*i.e*., with Prāṇa and other constituents of the subtile body)—then ‘*it assumes*,’ attaches to itself, the body; *i.e*., takes up the new corporeal frame.—(56)
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+किं शरीरान्तरनिरपेक्ष एव मूर्तिं परित्य्जतीत्य् आह – **यदेति ।** **यदा** सूक्ष्मप्रमाणः सन् स्थावरबीजं जङ्गमबीजं वा अन्यद् अधितिष्ठति **तदा** इदं शरीरं त्यजति । **संसृष्टः** प्राणादिसंयुक्तः, यथोक्तं बृहदारण्यके- “तम् उत्क्रामन्तं प्राणो ऽनूत्क्रामति प्राणम् अनूत्क्रामन्तं सर्वे प्राणा अनूत्क्रामन्ति” इति ॥ १.५६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 056	When, being clothed with minute particles (only), it enters into vegetable or animal seed, it then assumes, united (with the fine body), a (new) corporeal frame.
@@ -118,7 +131,7 @@ When, invested with minute particles, the Individual enters the moveable or immo
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.५७ एवं स</summary>
 
 एवं स जाग्रत्-स्वप्नाभ्याम्  
 इदं सर्वं चराचरम् ।  
@@ -143,6 +156,11 @@ Thus by waking and sleeping, the Imperishable One incessantly brings to like and
 This verse recapitulates what has been said before.
 
 By means of his own ‘*waking and sleeping*,’ he produces and destroys the world consisting of *moveable and immoveable* beings, *i.e*., vegetables and animals. ‘*Imperishable*’—Indestructible.—(57).
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एवम्** इति । **स** ब्रह्मा अनेन प्रकारेण आत्मीयाभ्यां **जाग्रत्स्वप्नाभ्यां** जङ्गमस्थावरम् **अजस्रं **अनवरतं **जीवयति** मारयति चानश्वरः ॥ १.५७ ॥
 </details>
 
 <details><summary>Bühler</summary>

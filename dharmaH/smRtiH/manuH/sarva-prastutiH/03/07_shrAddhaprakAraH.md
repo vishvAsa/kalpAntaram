@@ -1,7 +1,16 @@
 +++
 title = "०७ श्राद्धप्रकारः"
 +++
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+तत्र पितृयज्ञं तावदाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.८२ कुर्याद्</summary>
 
 कुर्याद् अहर्-अहः श्राद्धम्  
 अन्नाद्येनोदकेन वा [मेधातिथिपाठः - दद्याद् अहर्-अहः] ।  
@@ -42,6 +51,16 @@ offered;—in *Smrtisāroddhāra* (p. 283);—in *Hemādri* (Śrāddha, pp. 208 
 *Varṣakriyākaumudī* (p. 353);—and in *Godādharapoddhati* (Kāla, p. 372).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रत्यहं यथासम्भवं श्राद्धं कुर्यात्। श्राद्धशब्दोऽयं कर्मविधिवाक्यवर्ती कौण्डपापिनामयनीयाग्निहोत्रशब्दवद्वक्ष्यमाणपार्वणश्राद्धधर्मातिदेशार्थः। अन्नाद्येनेति तिलैत्रीर्व्रीहिभिर्यवैरित्यादेरुपादानम्। पयः क्षीरम्॥८२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तेषु पितृयज्ञनिरूपणार्थं तावद् आह **दद्याद् अहर् अहर्** इति । **पितृभ्यः प्रीतिम्** उत्पादयन् **अन्नोदक**क्षीर**मूलफलैः **यथासम्भवं प्रत्यहं श्राद्धं कुर्यात् ॥ ३.८२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 082	Let him daily perform a funeral sacrifice with food, or with water, or also with milk, roots, and fruits, and (thus) please the manes.
@@ -54,7 +73,7 @@ offered;—in *Smrtisāroddhāra* (p. 283);—in *Hemādri* (Śrāddha, pp. 208 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.८३ एकम् अप्य्</summary>
 
 एकम् अप्य् आशयेद् विप्रं  
 पित्र्-अर्थे पाञ्चयज्ञिके [मेधातिथिपाठः - पित्र्-अर्थं] ।  
@@ -148,6 +167,16 @@ into fire; there is to he no invocation, nor dismissal.’
 
 *Nārāyaṇa* (Aparārka, p. 146).—‘Having invited one or several śrotriyas,
 making them sit facing the east......... he shall offer him water and seat; and also water for washing, after he has eaten the food offered to him to the best of one’s capacity.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+पितृप्रयोजने पञ्चयज्ञान्तर्गते एकमपि ब्राह्मण भोजयेत् । अपिशब्दात्सम्भवे बहूनपि । पार्वणधर्मग्रहणाच्च वैश्वदेवब्राह्मणभोजनप्राप्तावाह-न कञ्चिद्वैश्वदेवार्थं ब्राह्मणमत्र भोजयेत् ॥८३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकम्** इति । पञ्चयज्ञान्तर्गते पितृप्रयोजने **एकम् अपि** शक्त्या सति सम्भवे बहून् अपि विप्रान् भोजयेत् । श्राद्धशब्देनोदनात् वैश्वदेवब्राह्मणभोजने प्राप्ते आह **न चैवेति** । विश्वान् देवान् उद्दिश्य अन्यं ब्राःमणं न किञ्चिद् भोजयेत् ॥ ३.८३ ॥
 </details>
 
 <details><summary>Bühler</summary>

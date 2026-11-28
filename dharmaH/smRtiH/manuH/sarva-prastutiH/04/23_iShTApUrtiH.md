@@ -2,7 +2,7 @@
 title = "२३ इष्टापूर्तिः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२२६ श्रद्धयेष्टं च</summary>
 
 श्रद्धयेष्टं च पूर्तं च  
 नित्यं कुर्याद् अतन्द्रितः ।  
@@ -16,9 +16,12 @@ title = "२३ इष्टापूर्तिः"
 
 He shall always diliqenty perform, with faith, sacrifices and other religious acts; done with faith, and with well-begotten wealth, they become imperishable.—(226)
 
+
 Of these, learning and austerities are the sources that bring presents. Though ‘present’ constitutes only one kind of wealth, yet it has been mentioned as two, on account of its twofold source. The qualifications of the persons making the gifts have also to be borne in mind. If the giver does not happen to be absolutely objectionable, the wealth derived from him is also pure.—The terms ‘person sacrificed for’ and ‘pupil’ indicate the work of officiating at sacrifices and teaching.—‘inherited,’ from one’s forefathers.—‘Bride,’ what is obtained from the Father-in-law, at the time of marriage.—‘Bravery’— for the Kṣatriya; while the ‘bride’ and ‘inheritance,’ are common to all men.
 
+
 ‘Service’ consists of running on errands and obeying orders; while ‘attendance’ is agreeable behaviour. Of these, ‘usury,’ ‘agriculture’ and ‘trade’ are mixed only for the non - Vaiśya; for the Vaiśya, these are commendable. Similarly, ‘service,’ consisting of attending upon twice-born men, is commendable for the Śūdra; the others are not commended for him. What is meant by these being ‘mixed’ is, that the results obtained from acts, performed with wealth derived from those sources, are transitory; these results lasting only during the present life.
+
 
 ‘Pārśvika,’—the man at one’s side, obtains wealth by means of bribery, etc. For instance, having come to know that a person is going to obtain some wealth, one goes over to him and says, ‘I shall get yon so much wealth, you should give me something out of it,’ and then receives it from him; the man not having done anything himself, nor having anything done by others, but simply looking on, and yet receiving money; or when one receives some consideration for standing surety for a borrower.—‘Pratirūpaka’ is pretence, hypocrisy .—‘Fraud’—when one sells the kusumbha flower, in place of saffron.—‘Ārti’ is causing pain to others.—‘Stealing’ is taking away things by stealth; and ‘robbery’ is taking away by force.
 </details>
@@ -26,6 +29,7 @@ Of these, learning and austerities are the sources that bring presents. Though �
 <details><summary>मेधातिथिः</summary>
 
 **इष्टम्** अन्तर्वेदि यत् क्रियते यज्ञादि कर्म । **पूर्तं** ततो ऽन्यत्र संमानाद्य् अदृष्टार्थम् । **ते श्रद्धया** कर्तव्ये । तथा **स्वागतैश्** च **धनैः** शोभनेनागच्छन्ति यानि धनानि श्रुतशौर्यतपःकन्यादिना । एवम् **अक्षये** ऽक्षयफले **भवतः** । यानि तु न स्वागतानि नाक्षयफलानि न पुनर् निष्फलानि । तथा हि तैर् अपि स्वाम्यम् उत्पद्यते । तेन च यागादयः कर्तव्याः । न च यागदानादिप्रकरणे कुसीदादिप्रतिषेधः श्रुतो येन तदङ्गं स्यात् । तस्माद् यावन्तः[^२७४] स्वर्गोत्पत्तिहेतवः तैर् अर्जितेन धनेन यागादयः कर्तव्याः । फलस्य तु प्रकर्षापकर्षौ भवतः ॥
+
 
 [^२७४]:
      M G 1st ed.: yāvan na
@@ -38,6 +42,7 @@ Of these, learning and austerities are the sources that bring presents. Though �
 
 तत्र श्रुततपसी प्रतिग्रहनिमित्तम् । एको ऽपि प्रतिग्रहो निमित्तभेदाद् भेदेनोकतः । प्रतिग्राह्यगुणा अपि सामर्थ्यात् तत्र द्रष्टव्याः । यदि नात्यन्तदुष्टो दाता भवति तदा तस्माद् आगतं[^२७६] शुद्धं भवति । याज्यशिष्यशब्दाभ्यां याजनाध्यापने गृह्येते । अन्वयागतं पितृपैतामहादि । कन्यादानकाले श्वशुरगृहाल् लब्धम् । शौर्येण क्षत्रियस्य । कन्यान्वयौ सर्वसाधारणौ ।
 
+
 [^२७६]:
      M G 1st ed.: bhavati dāyāgataṃ
 
@@ -46,6 +51,7 @@ Of these, learning and austerities are the sources that bring presents. Though �
 - कृतोपकाराद् आप्तं च शबलं समुदाहृतम् ॥ (न्स्म् १.४२)
 
 सेवा प्रेष्यकरत्वं यथेच्छविनियोज्यता । अनुवृत्तिः प्रियतानुकूला । तत्र कुसीदकृषिवाणिज्यान्य् अवैश्यस्य, वैश्यस्य प्रशस्तान्य् एव । सेवा द्विजातिशुश्रूषा शूद्रस्य प्रशस्तैव । अन्या तु तस्य निन्दिता । शबलग्रहणेनाचिरस्थायिता फलस्योच्यते ।[^२७७] यावज्जीवं तत् फलं भवति ।
+
 
 [^२७७]:
      DK (5: 1168) suggests adding: na
@@ -58,13 +64,16 @@ Of these, learning and austerities are the sources that bring presents. Though �
 
 - <u>ननु</u> चौर्यसाहसाभ्यां स्वाम्यम् एव नास्ति, तन्निमित्तेष्व् अपठितत्वात्- "स्वामी रिक्थक्रयसंविभागपरिग्रहाधिगमेषु" (ग्ध् १०.३९) इति, तथा "विद्याशिल्पं भृतिः सेवा"[^२७८] (म्ध् १०.११६) इत्यादि, तथा "सप्त वित्तागमा धर्म्याः" (म्ध् १०.११५) इति च । अथास्माद् एव वचनात् स्वाम्यकारणत्वम् अन्योर् इति । कथं तर्हि "बलाद् भुक्तं न जीर्यति" इति ।
 
+
 [^२७८]:
      M G J: bhṛtim eva (I follow DK 5: 1179)
 
 - <u>केचित्</u> तावद् आहुः । नैवायं पाठो ऽस्ति "द्यूतचौर्यार्ति" इति, अपि तु[^२७९] "वैर्यार्ति"[^२८०] इति । वैरिणः सकाशाद् यद् गृह्यते संधानकाले "यद्य् एतावद् ददासि तदा त्वया संधिं करोमि," शक्तिविहीनतया ददाति । साहसम् अपि न प्रसह्य हरणम्, किं तर्हि, यत् प्राणसंदेहेनार्ज्यते पोतयात्रतया रहसि राजप्रतिषिद्धप्रतिक्रयेण च । 
 
+
 [^२८०]:
      M G: śauryārti
+
 
 [^२७९]:
      M G 1st ed.palce api tu after śauryārtīti.
@@ -72,6 +81,7 @@ Of these, learning and austerities are the sources that bring presents. Though �
 - <u>अन्ये</u> तु मन्यन्ते । नैव बलाद् अपहरणेन स्वाम्यं भोगेन वा जरणं विरुध्यते यतो बलं प्रथमम् अपहारकाले त्व् असत्य् अपि बल उपेक्षया भोगस् तत्र स्वाम्यम् । यत्र त्व् आरम्भात् प्रभृति सर्वकालिको बलोपभोगस् तत्र जीर्यतीति कथ्यते । तस्माद् उभयम् अविरुद्धम् । 
 
 - इदं युक्तं यच् चौर्यसाहसाभ्यां स्वत्वानुत्पत्तिः, पाठविभागकृतत्वात्,[^२८१] अन्यैश् च स्मृतिकारैः स्वत्वहेतुष्व् अपरिगणनात् ॥ ४.२२६ ॥
+
 
 [^२८१]:
      M G 1st ed.: svatvānutpattipāṭhavibhāgakṛtāṃ
@@ -142,6 +152,16 @@ building of these is called *Pūrta*.’
 Iṣṭa. Tanks, ponds, temples, food-stalls, gardens, gifts made during eclipses, and on the day of the sun passing from one sign into another, and on the twelfth day of the fortnight,—these constitute *Pūrta*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इष्टमन्तर्वेदि यज्ञादिकर्म, पूर्वं ततोऽन्यत्पुष्करिणीकूपप्रपारामादि, तदेवमनलसःसन्नित्यं काम्यस्वर्गादिफलाहितं श्रद्धयाकुर्यात् । यस्मात्ते इष्टापूर्ते न्यायार्जितवतेन श्रद्धया कृतेऽक्षये मोक्षफले भवतः ॥२२६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यत एवम् अतः **श्रद्दयेति** ॥ ४.२२६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 226	Let him, without tiring, always offer sacrifices and perform works of charity with faith; for offerings and charitable works made with faith and with lawfully-earned money, (procure) endless rewards.
@@ -154,7 +174,7 @@ Iṣṭa. Tanks, ponds, temples, food-stalls, gardens, gifts made during eclipse
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२२७ दानधर्मम्</summary>
 
 दानधर्मं निषेवेत  
 नित्यम् ऐष्टिक-पौर्तिकम् ।  
@@ -202,6 +222,24 @@ not used either in charity, or in enjoyment, or in acquiring fame, or in acquiri
 is held superior to charity.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ पात्रभूतो हि यो विप्रः प्रतिगृह्य प्रतिग्रहम् ।**
+
+**असत्सु विनियुञ्जीत तस्मै देयं न किञ्चन ॥१६॥**
+
+**संचयं कुरुते यस्तु प्रतिगृह्य समन्ततः ।**
+
+**धर्मार्थं नोपयुङ्क्तेच न तं तस्करमर्चयेत् ॥१७॥ \]**
+
+दानाख्यं धर्ममैष्टिकं पौर्तिकमन्तर्वेदिकं बहिवदिकं च सर्वदा विद्यातपोयुक्तं ब्राह्मणनासाद्य परितुष्टान्तःकरणयुक्तः यथाशक्ति कुर्यात् ॥२२७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दानधर्मम्** इति । आन्तर्वेदिको बहिर्वेदिकश् च यो दानाख्यो धर्मः तं श्रुताध्ययनादिसर्वगुणोपेतं ब्राह्मणं प्राप्य परितोषाख्येन चित्तधर्मेण यथाशक्ति नित्यं कुर्यात् ॥ ४.२२७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 227	Let him always practise, according to his ability, with a cheerful heart, the duty of liberality, both by sacrifices and by charitable works, if he finds a worthy recipient (for his gifts.)
@@ -214,7 +252,7 @@ is held superior to charity.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२२८ यत् किम्</summary>
 
 यत् किं चिद् अपि दातव्यं  
 याचितेनाऽनसूयया [मेधातिथिपाठः - अनसूयता?] ।  
@@ -256,6 +294,16 @@ This verse is quoted in *Aparārka* (p. 385);—and in *Hemādri* (Dāna, p. 7).
 some trouble or for the maintenance of his family,—he shall give what is asked for, after due investigation. Such is the law relating to all gifts.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रार्थितेन परगुणामत्सरेणान्नमपि यथाशक्ति दातव्यम् ।यस्मात्सर्वदा दानशीलस्य कदाचित्तादृशं पात्रमागमिष्यति तत्सर्वस्मान्नरकहेतोर्माचयिष्यति ॥२२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यत् किञ्चिद्** इति । प्रार्थितेन अकृतदोषविचारेण स्वल्पम् अपि यथासम्भवं दातव्यम् । यस्माद् अनवरतं दानप्रवृत्तस्य कदाचिद् अवश्यं तथाविधं पात्रम् आगमिष्यति यत् दृष्टादृष्टदोषेभ्यो मोचयति ॥ ४.२२८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 228	If he is asked, let him always give something, be it ever so little, without grudging; for a worthy recipient will (perhaps) be found who saves him from all (guilt).
@@ -268,7 +316,7 @@ some trouble or for the maintenance of his family,—he shall give what is asked
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२२९ वारिदस्</summary>
 
 वारिदस् तृप्तिम् आप्नोति  
 सुखम् अक्षय्यम् अन्नदः [मेधातिथिपाठः - अक्षयम्] ।  
@@ -328,6 +376,16 @@ water, clarified butter, shelter, household-necessaries, gold and beasts of burd
 clothes becomes endowed with beauty, and the man who gives land is always a king.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+जलदः क्षुत्पिपासाविगमात्तृप्तिम्, अन्नदोऽत्यन्तसुखं, तिलव्रदं ईप्सितान्यवत्यादीनि दोपदो विप्रवेश्मादौ निर्दोषं चक्षुः प्राप्नोति ॥२२९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वारिद** इति । उदकप्रदः सौहित्यम्, **अन्नदः **अनन्तसुखम्, **तिलप्रदः **ईप्सितान्य् अपत्यानि, **दीपदः **तिमिराद्यनुपहतं **चक्षुः** प्राप्नोति ॥ ४.२२९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 229	A giver of water obtains the satisfaction (of his hunger and thirst), a giver of food imperishable happiness, a giver of sesamum desirable offspring, a giver of a lamp a most excellent eyesight.
@@ -335,7 +393,7 @@ clothes becomes endowed with beauty, and the man who gives land is always a king
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२३० भूमिदो भूमिम्</summary>
 
 भूमिदो भूमिम् आप्नोति  
 दीर्घम् आयुर् हिरण्यदः ।  
@@ -377,6 +435,16 @@ as Agni;—and by the giving of silver, he obtains beauty.’
 *Yājñavalkya* (1.210).—(See above.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भूमिदो भूमेराधिपत्यं, सुवर्णदश्विरजीवित्वं, गृहदः श्रेष्ठानि वेश्मानि, रूप्यदः सकलजननयनमनोहरं रूपं लभते ॥२३०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भूमिद** इति । **भूमिदो** भूम्याधिपत्यं च सुवर्णदो **दीर्घम् आयुः, गृहदः** श्रेष्ठानि गृहाणि, **रूप्यदः **उत्कृष्टं **रूपं** लभते ॥ ४.२३० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 230	A giver of land obtains land, a giver of gold long life, a giver of a house most excellent mansions, a giver of silver (rupya) exquisite beauty (rupa),
@@ -384,7 +452,7 @@ as Agni;—and by the giving of silver, he obtains beauty.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२३१ वासोदश्</summary>
 
 वासोदश् चन्द्रसालोक्यम्  
 अश्विसालोक्यम् अश्वदः ।  
@@ -409,8 +477,10 @@ The giver of cloth obtains resemblance to the Moon, the giver of horse resemblan
 
 "सुदक्षिणा" इति पाठे ऽन्यद् अपि सुवर्णादि तत्र दातव्यम् । शोभनार्थे वा सुशब्दः पठितव्यः । सा गौः शोभना दक्षिणादानम्[^२८२] । "कांस्योपदोहा" इति पाठान्तरम् । कांस्यं नाम परिमाणविशेषः । तत्रोपदुह्यते बहुक्षीरेत्यर्थः । "मुक्तालाङ्गलभूषितां[^२८३] भूमिं तु रूपसंच्छन्नां कृत्वा" इत्यादिस्मृत्यन्तरदृष्टो विधिः फलविशेषार्थिनाश्रयणीयः । तथा-
 
+
 [^२८३]:
      M G 1st ed.: muktvā lāṅgala-
+
 
 [^२८२]:
      M G 1st ed.: dakṣiṇādīnām' G 2nd ed.: dakṣiṇādānīyāt
@@ -421,8 +491,10 @@ The giver of cloth obtains resemblance to the Moon, the giver of horse resemblan
 
 वत्सवत्याः कपिलाया दान एतत् फलम् । उभयतोमुखी दीयमाना रोमतुल्यानि वर्षसहस्राणि स्वर्गं प्रापयति[^२८४] तारयति[^२८५] पापान् मोचयति । भारते सर्वफलं गोदानम् उक्तम् । वार्यादीन्य् अपि स्वर्गफलानि श्रूयन्ते । 
 
+
 [^२८५]:
      J: tārayatī
+
 
 [^२८४]:
      M G: svargaḥ prāpyate
@@ -430,6 +502,7 @@ The giver of cloth obtains resemblance to the Moon, the giver of horse resemblan
 - भूमिपश्वन्नवस्त्राम्भस्तिलसर्पिष्प्रतिश्रयान् ।
 
 - नैवेशिकम् अथ स्वर्णं[^२८६] दत्वा स्वर्गे महीयते ॥ (य्ध् १.२०८)
+
 
 [^२८६]:
      M G 1st ed.: naiveśikasvarṇapuryāṃ
@@ -476,6 +549,16 @@ milch cow, which has golden horns and silvered hoofs, and is quiet and adorned w
 (Do.) (1.210).—(See above.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वस्त्रदश्चन्द्रसमानलोकान्प्राप्नोति चन्द्रलोके चन्द्रसमविभूतिर्वसति,एवमेवाश्विलोक घोटकदः, बलीवर्दस्य दाता प्रचुरां श्रियं, स्त्रीगवीप्रदः सूर्यलोकं प्राप्नोति ॥२३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वासोद** इति । वस्तरदश् चन्द्रेण सह समानलोकतां छन्द्र्लोकं **अश्वदः **अश्विभ्यां समानलोकतां वृषप्रदः महतीं श्रियं गोप्रदः आदित्यलोकं प्राप्नोति ॥ ४.२३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 231	A giver of a garment a place in the world of the moon, a giver of a horse (asva) a place in the world of the Asvins, a giver of a draught-ox great good fortune, a giver of a cow the world of the sun;
@@ -483,7 +566,7 @@ milch cow, which has golden horns and silvered hoofs, and is quiet and adorned w
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२३२ यानशय्याप्रदो</summary>
 
 यान-शय्या-प्रदो भार्याम्  
 ऐश्वर्यम् अभयप्रदः ।  
@@ -531,6 +614,16 @@ shoes, umbrellas, garlands, unguents, conveyances, trees, highly desirable objec
 sovereignty over his inner apartments.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+रथादियानस्य शय्यायाश्च दाता भार्याम्, अभयप्रदः प्राणिनामहिंसकः प्रभुत्वं, धान्यदो व्रीहियवमाषमुद्गादिसस्यानां दाता चिरस्थायि सुखित्वं ब्रह्म वेदस्तादो वेदाध्यापको व्याख्याता च ब्रह्मणः सार्ष्टितां समानगतितांतत्तुल्यतां प्राप्नोति ॥२३२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यानशय्याप्रद** इति । खट्वादिप्रदो **भार्याम् **आर्तत्राणकृत् प्रभुत्वम्, धान्यप्रदः सार्वकालिकं सुखं वेदप्रदः परं ब्रह्मसमानगतित्वं प्राप्नोति । सर्वत्र चात्र देयद्रव्यसाराल्पत्वभूयस्त्वाद्यपेक्षया दृष्टवत्यल्प(दृष्टफलाल्प)स्याल्पबहुत्वकालादितातम्यं विज्ञेयम् ॥ ४.२३२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 232	A giver of a carriage or of a bed a wife, a giver of protection supreme dominion, a giver of grain eternal bliss, a giver of the Veda (brahman) union with Brahman;
@@ -538,7 +631,7 @@ sovereignty over his inner apartments.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२३३ सर्वेषाम् एव</summary>
 
 सर्वेषाम् एव दानानां  
 ब्रह्म-दानं विशिष्यते ।  
@@ -588,6 +681,16 @@ Dharma, its gift is superior to all gifts; he who makes a gift of it obtains the
 gifts*;—*viz*., of cows, land and Veda; these three bring about the salvation of the giver through recitation, sowing and milking.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उदकान्नधेनुभूमिवस्त्रतिलसुवर्णघृतादीनां सर्वेषामेव यानि दानानि तेषां मध्यात् वेददान विशिष्यते प्रकृष्टफलदं भवति ॥२३३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सर्वेषाम् **इति । जलान्नगोभूवस्त्रतिलसुवर्णघृतादीनां सर्वेषां यानि दानानि तेषां मध्याद् वेददानं फलाधिक्यात् **विशिष्यते** ॥ ४.२३३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 233	The gift of the Veda surpasses all other gifts, water, food, cows, land, clothes, sesamum, gold, and clarified butter.
@@ -600,7 +703,7 @@ gifts*;—*viz*., of cows, land and Veda; these three bring about the salvation 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२३४ येन येन</summary>
 
 येन येन तु भावेन  
 यद् यद् दानं प्रयच्छति ।  
@@ -622,6 +725,7 @@ In whatever spirit a man bestows a gift, in that same spirit he himself receives
 - **यद् यद्** अपि न द्रव्यजात्यभिप्रायम् । <u>किं</u> तर्हि फलम् । <u>एतद्</u> उच्यते । तां तां प्रीतिं तत् तद् द्रव्यसाध्यं प्राप्नोति । जात्यभिप्राये ह्य् आतुरायौषधदाने औषध एवं लभ्येत । तच् चाव्याधितस्यानुपयोगीति सो ऽप्य् आक्षिप्येत । तस्मात् यादृश्य् उल्लासाद्य् अस्य प्रीतिस् तादृशीं चैव प्राप्नोति । अतश् च सर्वदैवौषधदान अरोगित्वम् उक्तं भवति । 
 
 - <u>अथ वा</u> इदं मे स्याद् इति या फलकामना स भावः । यत् फलम् अभिसंधाय यद् यद् द्रव्यं ददाति तत् तत् प्राप्नोति । तेनैव भावेन तयैवेच्छया यद् एवेच्छति तद् एव[^२८७] लभत इत्य् उक्तं भवति । सर्वफलत्वं सर्वद्रव्याणां प्रदर्शितं भवति ॥ ४.२३४ ॥
+
 
 [^२८७]:
      M G 1st ed.: yadaivecchati tadaiva
@@ -662,6 +766,16 @@ qualified men, he obtains great wealth and sons and grandsons.’
 best to do his duty.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अवधारणे तु शब्दः । येन येनैव भावेनाभिप्रायेण फलाभिसन्धिकः स्वर्गो मे स्यादिति, मुमुक्षु-र्मोक्षाभिप्रायेण निष्कामो यद्यद्दानं ददाति, तेनैव भावेनोपलक्षितस्तत् तद्वानफलद्वारेण जन्मान्तरे पूजितः सन्प्राप्नोति ॥२३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**येनेति** । यादृशेन राजसेन सात्विकेन तामसेन वा शुद्धेन वा मध्यमेनाशुद्धेन वा चित्तधर्मेण च **यद् यद्** एव द्रव्यं ददाति **तत् तद्** द्रव्यं फलद्वारेण तु **तेनैव** दान्ग्गतभावेन भावानुरूपेणैव सुखं मध्यमदुःखवता चित्तेन (न) च जन्मान्तरे पूजितः सन् प्राप्नोति ॥ ४.२३४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 234	For whatever purpose (a man) bestows any gift, for that same purpose he receives (in his next birth) with due honour its (reward).
@@ -674,7 +788,7 @@ best to do his duty.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२३५ यो ऽर्चितम्</summary>
 
 यो ऽर्चितं प्रति-गृह्णाति  
 ददात्य् अर्चितम् एव वा ।  
@@ -715,6 +829,16 @@ This verse is quoted in *Aparārka* (p. 290);—and in *Smṛtitattva* (p. 894),
 See Comparative notes for [Verse 4.234].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+योऽर्चापूर्वकमेव दाता ददाति, यत्र प्रतिप्रहीताऽर्वापूर्वकमेव दत्तंप्रतिगृह्णाति, तावुभौ स्वर्गं गच्छतोऽनर्चितदानप्रतिग्रहणे नरकम् । पुरुषार्थे तु प्रतिग्रहेऽनर्चितमेव मया ग्रहीतव्यं मान्यथेति नियमात्फललाभो न विरुद्धः ॥२३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तस्माद् यत्नतः [अर्चित]करेण देयम्, **य **इति । यावद् अर्चापूर्वकं दानप्रतिग्रहौ कुरुतः तौ द्वाव् अपि दातृप्र्तिग्रहीतारौ स्वर्गं गच्छतः । अनर्चितेन करेण पुनः नरकं व्रजतः । प्रतिग्रहीतुः सत्य् अपि वृत्त्यर्थत्वेन दृष्टार्थत्वे प्रतिग्र्हस्य “अर्चितम् एव मया ग्राह्यं नान्यथा” इत्य् एवं नियमादृष्टद्वारेण वचनान् नायुक्तः स्वर्गलाभः ॥ ४.२३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 235	Both he who respectfully receives (a gift), and he who respectfully bestows it, go to heaven; in the contrary case (they both fall) into hell.
@@ -727,7 +851,7 @@ See Comparative notes for [Verse 4.234].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२३६ न विस्मयेत</summary>
 
 न विस्मयेत तपसा  
 वदेद् इष्ट्वा च नाऽनृतम् ।  
@@ -774,6 +898,16 @@ This verse is quoted in *Hemādri* (Dāna, p. 90).
 See Comparative notes for [Verse 4.234].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चान्द्रायणादितपसा कृतेन कथं ममेदं दुष्करमनुष्ठितमिति विस्मयं न कुर्यात् । यागं व कृत्वा नासत्यं वदेत् । कृतेऽपि पुरुषार्थतयाऽनृतवदननिषेधे क्रत्वर्थोऽयं पुनर्निषेधः । ब्राह्मणैः पीडितोऽपि न तान्निन्दयेत् । गवादिकं च दत्त्वा मयेदं दत्तमिति परस्य न कथयेत् ॥२३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न विस्मयेतेति** । महतापि कृच्छ्रचान्द्रायणादितपसा कृतेन “मया कियत् तपः कृतम्” इत्य् एवम् आश्चर्यं न भजेत । यागं च कृत्वा असत्यं न वदेत् । सत्य् अपि पुरुषार्थत्वेनानृतनिषेधे यागाङ्गत्वार्थः पुनर् उपदेशः । तथा पीडितो ऽपि ब्राह्मणान् न निन्देत् । दानं कृत्वा “इदं मयआ दत्तम्” इति न कथयेत् ॥ ४.२३६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 236	Let him not be proud of his austerities; let him not utter a falsehood after he has offered a sacrifice; let him not speak ill of Brahmanas, though he be tormented (by them); when he has bestowed (a gift), let him not boast of it.
@@ -786,7 +920,7 @@ See Comparative notes for [Verse 4.234].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२३७ यज्ञो ऽनृतेन</summary>
 
 यज्ञो ऽनृतेन क्षरति  
 तपः क्षरति विस्मयात् ।  
@@ -804,6 +938,7 @@ The sacrifice trickles away by falsehood, the austerity trickles away by vanity,
 <details><summary>मेधातिथिः</summary>
 
 पूर्वस्य प्रतिषेधस्यार्थवादो ऽयम् । **अनृतेन** हेतुना **यज्ञः क्षरति** स्रवति निष्फलो भवति । यद् अर्थं कृतं[^२८८] तन् न संपद्यते । एवं सर्वत्र ॥ ४.२३७ ॥
+
 
 [^२८८]:
      M G: arthakṛtaṃ
@@ -825,6 +960,16 @@ This verse is quoted in *Hemādri* (Dāna, p. 90).
 **
 
 See Comparative notes for [Verse 4.234].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+अनृतेन हेतुना यज्ञः क्षरति । सत्येनैव स फलं साधयति । एवं तपसि दाने च योज्यम् । विप्रनिन्दया चायुः क्षीयते ॥२३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यस्माद् **यज्ञ** इति । यस्मात् यज्ञादीन्य् अनृतादिभिः कृतैर् अकृतसमानि भवन्ति तस्माद् एतन् न कर्तव्यम् ॥ ४.२३७ ॥
 </details>
 
 <details><summary>Bühler</summary>

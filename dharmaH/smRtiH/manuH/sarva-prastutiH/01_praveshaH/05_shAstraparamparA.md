@@ -2,7 +2,7 @@
 title = "०५ शास्त्रपरम्परा"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.५८ इदं शास्त्रम्</summary>
 
 इदं शास्त्रं तु कृत्वासौ  
 माम् एव स्वयम् आदितः ।  
@@ -26,6 +26,7 @@ Having prounded this Law, he himself, first of all, taught it to me with due car
 - **माम् एव ग्राहयामास,** अहं तेनाध्यापित इत्य् अर्थः । **स्वयम् आदितो विधिवद्** इत्य् एभिः पदैर् आगमस्याविभ्रंश उच्यते । ग्रन्थकारेण हि स्वकृतो ग्रन्थो यः स्वयम् अध्याप्यते प्रथमं तत्र मात्रापि न परिहीयते । अन्यस्य हि तस्माद् अधिगतवतो ऽन्यम् अध्यापयतो न तद्ग्रन्थाविनाशे यत्नो भवति । कर्तुर् अप्य् अध्यापितपूर्वस्य "प्रतिष्ठापितो मया पूर्वम् अयं ग्रन्थः" इति द्वितीयवारं प्रमादालस्यादिना भ्रंशः संभाव्यते । अत **आदित** इत्य् उक्तम् । विधिवच् छिष्योपाध्याययोर् अनन्यमनस्कतादिगुणो ऽवहितचित्तता विधिः । अर्हे वतिः (च्ड़्। पाण् ५.१.११७) ।
 
 - **मरीच्यादींस् त्व् अहं मुनीन्** । मरीच्यादयः प्रसिद्धप्रभावाः, तैर् अप्य् एतन् मत्सकाशाद् अधितम् इत्य् आत्मनो विशिष्टशिष्यसंबन्धेन सिद्धम् औपाध्यायिकं[^९९] दर्शयन् महर्षीणां शास्त्रमाहात्म्येन च श्रद्धातिशयं जनयत्य् अध्ययनाविरामाय । एवंविधम् एतन् महच् छास्त्रं यन् मरीच्यादिभिर् अप्य् अधीतम् । एष चेदृशो महात्मा मनुस् तेषाम् उपाध्याय इति युक्तम् एतस्य सकाशाद् एतद्ग्रन्थाध्ययनम् इत्य् आ शास्त्रपरिसमाप्तेर् नोपरमन्ते श्रोतार इत्य् उभयथापि शास्त्रप्रशंसा ॥ १.५८ ॥
+
 
 [^९९]:
      DK (5: 89) suggests: aupādhyāyakaṃ
@@ -52,6 +53,11 @@ Parāśara-mādhava (Ācāra—p. 106) quotes this verse in support of the view 
 *Dharma*.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**इदम्** इति । स ब्रह्मा **इदं शास्त्रं** इमं ग्रन्थं **कृत्वा **शास्त्रस्य “इदं कर्तव्यम् इदं न” इत्य् एवं स्वरूपनित्यत्वान् **माम् एव **आत्मनादौ यत्नतो ऽध्यापितवान् । ततो **मरीच्यादीन् मुनीन्** **अहम् **अध्यापितवान् ॥ १.५८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 058	But he having composed these Institutes (of the sacred law), himself taught them, according to the rule, to me alone in the beginning; next I (taught them) to Mariki and the other sages.
@@ -70,7 +76,7 @@ Parāśara-mādhava (Ācāra—p. 106) quotes this verse in support of the view 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.५९ एतद् वो</summary>
 
 एतद् वो ऽयं भृगुः शास्त्रं  
 श्रावयिष्यत्य् अशेसतः ।  
@@ -103,6 +109,16 @@ that by directing him to explain the Law, Manu shows that the Law has come down 
 This Verse is quoted by the Aparārka (p. 4) with a view to show that the writer of a work often quotes himself,—and wherever *manurabravīt* occurs, it is Manu’s own words that are quoted, not those of Bhṛgu, the compiler.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतच्छास्त्रमयं भृगुः युष्माकमखिलं कथयिष्यति। यस्मादेषोऽशेषमेतन्मत्तोऽधीतवान्॥५९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतद्** इति । **अयं भृगुः एतच् छास्त्रं** युष्माकम् **अशेषं श्रावयिष्यति** यस्माद् **एतत् सर्वं** मत्सकाशाद् **एषो ऽखिलं** कृत्वा अधिगतवान् ॥ १.५९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 059	Bhrigu, here, will fully recite to you these Institutes; for that sage learned the whole in its entirety from me.
@@ -112,7 +128,7 @@ This Verse is quoted by the Aparārka (p. 4) with a view to show that the writer
 
 +++(5)+++  
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.६० ततस् तथा</summary>
 
 ततस् तथा स तेनोक्तो  
 महर्षि-मनुना भृगुः ।  
@@ -138,6 +154,8 @@ That great sage ‘*Bhṛgu*,’ ‘*bring thus directed*’—prompted, by mean
 
 ‘*With a gladdened heart*’;—his gladness being due to the idea of respectability implied by the fact that from among the several pupils (of Manu) he had been directed to teach; Bhṛgu’s idea of his own respectability was based upon this idea—‘I, who am an obedient pupil of Manu, have been thus honoured by him, by reason of my special aptitude to expound the Law.’—(60)
 
+
+
 \[*Here ends the introductory Section—describing the true origin  
 of the Law and the authorship of the present Treatise*.\]
 
@@ -148,6 +166,16 @@ Bhṛgu, to the sages who had questioned Manu*.\]
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 With this verse ends the *Introductory Section* of the work, describing the Origin of the Law and the authorship of the ordinances.
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+स भृगुर्मनुना तथोक्तोऽयं श्रावयिष्यतीति यस्मादेषोऽधिजग इत्युक्तस्ततोऽनन्तरमनेकमुनिसन्निधौ गुरुसम्भावनया प्रीतमनास्तानृषीन् प्रत्युवाच श्रूयतामिति॥६०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तत** इति । **स भृगुः मनुना तथोक्तः **अयं श्रावयिष्यतीत्य् अनेन प्रकारेणार्थाद् उक्तो न तु त्वं श्रावयेति । **ततो** ऽनन्तरं **स** (गुरुः) **भृगुः** सम्भावनया **प्रीतात्मा तान् ऋषीन् श्रूयताम् इत्य् **उवाच ॥ १.६० ॥
 </details>
 
 <details><summary>Bühler</summary>

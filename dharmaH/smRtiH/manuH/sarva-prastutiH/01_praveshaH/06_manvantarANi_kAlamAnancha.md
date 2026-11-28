@@ -2,7 +2,7 @@
 title = "०६ मन्वन्तराणि कालमानञ्च"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.६१ स्वायम्भुवस्याऽस्य</summary>
 
 स्वायम्भुवस्याऽस्य मनोः  
 षड्वंश्या मनवो ऽपरे ।  
@@ -21,6 +21,7 @@ There are Six other Manus, high-souled and mighty, who belong to the same race a
 
 उपाध्यायो धर्मान् पृष्टो जगदुत्पत्त्यादि वर्णितवान् । तथैव शिष्यो ऽपि तन्नियुक्तस् तच्छेषम् एव वर्णयितुम् आरब्धः ।** अस्येति** साक्षात्कारेण मनुं प्रत्यवमृश्यति । अस्मदुपाध्यायस्य **स्वायंभुव** इत् ख्यातस्य **षड्** अन्ये **ऽपरे मनवो वंश्या** एकस्मिन् वंशे कुले जाताः सर्वे वंश्याः । सर्वे हि साक्षाद् ब्रह्मणा सृष्टा इत्य् एककुलसंभवाद् वंश्या उच्यन्ते । अथ वा एकस्मिन् कार्ये ऽधिकृता वंश्या एककर्मान्वयेन प्राणिनां वंशव्यवहारो भवति । "द्वौ मुनी व्याकरणस्य वंश्यौ" । तं[^१००] चैकं धर्मं दर्शयति **सृष्टवन्तः प्रजाः स्वाः स्वाः** इति । मन्वन्तरे मन्वन्तरे यस्य मनोर् अधिकारः स एव पजानां पूर्वमन्वन्तरविनष्टानां स्रष्टा पालयिता च । अतो येन याः प्रजाः सृज्यन्ते तास् तस्य स्वा भवन्ति ॥ १.६१ ॥
 
+
 [^१००]:
      J: teṣāṃ
 </details>
@@ -36,6 +37,16 @@ The text proceeds to point out one such work common to the Manus:—“*They hav
 ‘his own.’—(61)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्रह्मपुत्रस्यास्य मनोः षड्वंशप्रभवा अन्ये मनवः। एककार्यकारिणः स्वस्वकाले सृष्टिपालनादावधिकृताः स्वाः स्वाः प्रजा उत्पादितवन्तः॥६१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्वायम्भुवस्येति** । अस्योक्तप्रकारेण स्वयम्भूनप्तुर् **मनोः षड् अन्ये मनवः** काले काले सृष्ट्यादौ अधिकृता वंश्याः तत्कुलोद्भूताः तदेककार्याः **स्वाह् स्वाः **प्रजा उत्पादितवन्तः ॥ १.६१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 061	Six other high-minded, very powerful Manus, who belong to the race of this Manu, the descendant of the Self-existent (Svayambhu), and who have severally produced created beings,
@@ -48,7 +59,7 @@ The text proceeds to point out one such work common to the Manus:—“*They hav
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.६२ स्वारोचिषश्</summary>
 
 स्वारोचिषश् चोत्तमश् च  
 तामसो रैवतस् तथा ।  
@@ -75,6 +86,16 @@ The aforesaid Manus are now mentioned by name.
 ‘*Glorious'* is a qualifying epithet.—The other words are names; some being merely conventional, and others based upon relationship; the last name ‘*Vivasvat-suta*,’ ‘*Son of Vivasvat*,’ is a different kind of word; it is a name bearing the form of a compound; just like the names ‘Black-serpent,’ ‘*Narasiṃha*’ (Man-Lion) and the like.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एते भेदेन मनवः षट् नामतो निर्दिष्टाः॥६२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+ते च – **स्वारोचिष** इति ॥ १.६२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 062	(Are) Svarokisha, Auttami, Tamasa, Raivata, Kakshusha, possessing great lustre, and the son of Vivasvat.
@@ -87,7 +108,7 @@ The aforesaid Manus are now mentioned by name.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.६३ स्वायम्भुवाद्याः</summary>
 
 स्वायम्भुवाद्याः सप्तैते  
 मनवो भूरितेजसः ।  
@@ -116,6 +137,26 @@ Here *seven Manus* have been mentioned by me; elsewhere they are spoken of as *f
 Others explain the term ‘*antara*’ as denoting a particular time-period, just like the words ‘month’ &c.
 
 But this is not right; it is only when the term ‘*antara*’ occurs along with the term ‘Manu’ (*i.e*., in the compound ‘*Manvantara*’) that it becomes expressive of a time-period,—*i.e*., the time-period known ns ‘*Manvantara*,’—and not when it stands by itself (as it does in the text).
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+स्वायंभुवप्रमुखाः सप्तामी मनवः स्वीयस्वीयाधिकारकाले इदं स्थावरजङ्गममुत्पाद्य पालितवन्तः॥६३॥
+
+इदानीमुक्तमन्वन्तरसृष्टिप्रलयादिकालपरिमाणपरिज्ञानायाह—
+
+**\[ कालप्रमाणं वक्ष्यामि यथावत्तन्निबोधत। \]**
+
+**निमेषा दश चाष्टौ च काष्ठा त्रिंशत्तु ताः कला।**
+
+**त्रिंशत्कला मुहूर्तः स्यादहोरात्रं तु तावतः॥६४॥**
+
+अक्षिपक्ष्मणोः स्वाभाविकस्य कम्पस्य उन्मेषस्य सहकारी निमेषः। तेऽष्टादश काष्ठ नाम कालः।त्रिंशच्चकाष्ठाः कलासंज्ञकः कालः। त्रिंशत्कलाः मुहूर्ताख्यः कालः। ताव त्रिंशन्मुहुर्तान् अहोरात्रं कालं विद्यात्। तावत इति द्वितीया- निर्देशाद्विद्यादित्यध्याहारः॥६४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्वायम्भुवाद् या** इति । अनन्तरोक्ताः षट् स्वायम्भुवश् च एवं **सप्त** । **एते **स्वायम्भुवप्रमुखाः **मनवो **बहुतेजसः । आत्मीयात्मीयाधिकारकाले **इदं** जङ्गमस्थावरम् **उत्पाद्य आपुः **प्रजाः पालितवन्तः ॥ १.६३ ॥
 </details>
 
 <details><summary>Bühler</summary>
@@ -153,7 +194,7 @@ But this is not right; it is only when the term ‘*antara*’ occurs along with
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.६४ निमेषा दश</summary>
 
 निमेषा दश चाऽष्टौ च  
 काष्ठा त्रिंशत् तु ताः कला ।  
@@ -172,8 +213,10 @@ Ten and eight ‘nimeṣas’ (should be known as) one ‘Kāṣṭhā’; thirt
 
 स्थितिप्रलयकालपरिमाणनिरूपणार्थं ज्योतिःशास्त्रगोचरं कालविभागं वक्तुम् उपक्रमते । **अष्टादश निमेषाः काष्ठा** नाम कालो भवति । त्रिंशत्काष्ठाः **कलाः** । **त्रिंशत्कला** एको **मुहूर्तः** स्यात् । **तावतः** त्रिंशद् इत्य् अर्थः । त्रिंशन् मुहूर्तः **अहोरात्रम्** । विद्याद् इति क्रियापदम् आहृत्य तावद् इति द्वितीयाबहुवचनम् । अथ[^१०१] को ऽयं निमेषो नाम । अक्षिपक्ष्मणोर् नैसर्गिककम्प उन्मेषसहचारी । अन्यैस् तु पठितं यावता कालेनाविकृतम्[^१०२] अक्षरम् उच्चार्यते स निमेषः ॥ १.६४ ॥
 
+
 [^१०२]:
      J: kānena vyaktam
+
 
 [^१०१]:
      M G 1st ed.: atha . . . nimeṣaḥ, placed in commentary on 1.65.
@@ -211,6 +254,7 @@ Eighteen ‘*nimeṣas*’ go to make that measure of time which is known as ‘
 
 *Mahābhārata*, 12.231.12-31.—
 
+
 - 15 Nimeṣas	make one Kāṣṭhā,
 - 30 Kāṣṭhās	make one Kalā,
 - 30 Kalās	make 1 Muhūrta,
@@ -235,6 +279,11 @@ Lava, Nimeṣa, Kāṣṭhā, Kalā, Nāḍīkā, Muhūrta, Divasa, Rātri, Pak�
 |                  |                     | |------------------|---------------------| | 15 Divasa-Rātris | make one Pakṣa      | | 2 Pakṣas         | make make one Māsas | | 2 Māsas          | make one Ṛtu        | | 3 Ṛtus           | make one Ayana      | | 2 Ayanas         | make one Saṃvatsara | | 5 Saṃvatsaras    | make one Yuga       |
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+कियान् पुनः कालः प्रत्येकं मनूनाम् अधिकारः इत्य् अत् आह – **निमेषा** इति । **निमेषः **अक्षिपक्ष्मणोः स्वाभाविकः कल्पः उन्मेषसहचारी । ते **अष्टादश काष्ठा** । **तिंसत्यः **काष्ठाः **कलानाम **कालः **त्रिंशत्कलाः मुहूर्त**सञ्ज्ञः । **अहोरात्रं तु तावतः त्रिंषत्** । मुहूर्तास् तावन्तः इति । द्वितीयानिर्देशात् विद्यादित्य् अध्याहार्यम् ॥ १.६४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 064	Eighteen nimeshas (twinklings of the eye, are one kashtha), thirty kashthas one kala, thirty kalas one muhurta, and as many (muhurtas) one day and night.
@@ -242,7 +291,7 @@ Lava, Nimeṣa, Kāṣṭhā, Kalā, Nāḍīkā, Muhūrta, Divasa, Rātri, Pak�
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.६५ अहोरात्रे</summary>
 
 अहोरात्रे विभजते  
 सूर्यो मानुष-दैविके ।  
@@ -281,6 +330,16 @@ The answer to this is given in the second line—‘*what is conducive* &c.’ F
 See the comparative notes for [Verse 1.64 (Measures of Time)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मानुषदेवसम्बन्धिनौ दिनरात्रिकालावादित्यः पृथक्करोति। तयोर्मध्ये भूतानां स्वप्नारात्रिर्भवति, कर्म्मदुहार्थे च दिनम्॥६५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अहोरात्रे **इति । देवमानुषसम्बन्धिनी **अहोरात्रे सूर्यो** **विभजते** आदित्यो विभागीकरोति । ततश् च **भूतानां रात्रिः **स्वप्नार्थं भवति । कर्मोद्यमार्थं त्व् **अहः** ॥ १.६५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 065	The sun divides days and nights, both human and divine, the night (being intended) for the repose of created beings and the day for exertion.
@@ -288,7 +347,7 @@ See the comparative notes for [Verse 1.64 (Measures of Time)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.६६ पित्र्ये</summary>
 
 पित्र्ये रात्र्य्-अहनी मासः  
 प्रविभागस् तु पक्षयोः ।  
@@ -330,6 +389,16 @@ The same work quotes it again on p. 308, in support of the view that ‘from *Pr
 See the comparative notes for [Verse 1.64 (Measures of Time)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मानुषाणां मासः पितॄणामहोरात्रे भवतः। तत्र पक्षद्वयेन विभागः—कर्मानुष्ठानाय पूर्वपक्षोऽहः, स्वापार्थं शुक्लपक्षो रात्रिः॥६६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पित्र्ये** इति । मानुष्यो **मासः **पितॄणाम् अहोरात्रम् । तत्र च पक्षाभ्यां विभागः कृष्णः पक्षो ऽहः कर्मोद्यमार्थं शुक्लः पक्षः पुनः स्वापार्थं रात्रिः ॥ १.६६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 066	A month is a day and a night of the manes, but the division is according to fortnights. The dark (fortnight) is their day for active exertion, the bright (fortnight) their night for sleep.
@@ -337,7 +406,7 @@ See the comparative notes for [Verse 1.64 (Measures of Time)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.६७ दैवे</summary>
 
 दैवे रात्र्य्-अहनी वर्षं  
 प्रविभागस् तयोः पुनः ।  
@@ -362,6 +431,16 @@ One ‘year’ (of men) forms the ‘Day and Night’ of the Gods; and the divis
 ‘*One year*,’ of men,—*i.e*., twelve months,—‘*forms* *the Day and Night of the Gode*.’—The division of these is by means of the ‘Northern Course’ and the ‘Southern Course’; the six months during which the Sun moves towards the North is the ‘Northern Course,’ ‘*Udagayanam*’; the term ‘*ayana*’ standing for *moving* or *occupying*; the meaning being that during the six months the Sun rises towards that particular quarter. Turning hack from that, there comes the ‘Southern course’; during these six months the Sun abandons the Northern quarters and rises towards the South.—(67)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मानुषाणां वर्षं देवानां शत्रिदिने भवतः। तयोरप्ययं विभागः-नराणामुदगयनं देवानामहः, तत्र प्रायेण दैवकर्मणामनुष्ठानम्। दक्षिणायनं तु रात्रिः॥६७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दैवे** इति । मानुष्यं **वर्षं **देवानाम् अहोरात्रम् । तत्र चोत्तरायणम् **अहो** **दक्षिणायनं रात्रिर्** इति विभागः ॥ १.६७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 067	A year is a day and a night of the gods; their division is (as follows): the half year during which the sun progresses to the north will be the day, that during which it goes southwards the night.
@@ -369,7 +448,7 @@ One ‘year’ (of men) forms the ‘Day and Night’ of the Gods; and the divis
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.६८ ब्राह्मस्य तु</summary>
 
 ब्राह्मस्य तु क्षपाहस्य  
 यत् प्रमाणं समासतः ।  
@@ -390,6 +469,7 @@ Learn in brief, in due order, the measure of the Brahmic ‘day and night,’ as
 
 - वक्ष्यमाणस्य प्रकरणस्य पिण्डार्थकथनार्थो ऽयं श्लोकः श्रोतॄणाम् अवधानार्थः । तथा च संबुध्यन्ते **निबोधतेति** । प्रकृते कालविभागे पुनः प्रतिज्ञानं प्रकरणान्तरत्वज्ञापनार्थम्[^१०३] । तेन वक्ष्यमाणो ऽर्थो न शास्त्रारम्भशेष एव, अपि तु धर्मायापि । तथा च वक्ष्यति "ब्राह्मं पुण्यम् अहर् विदुः" (म्ध् १.७३) इति । तद्विज्ञानाच् च पुण्यं भवतीत्य् अर्थः ॥ १.६८ ॥
 
+
 [^१०३]:
      Textual confusion here. M G 1st ed.: pratijñākaraṇaṃ tattvajñāpanārtham (G taratva-); G 2nd ed.: pratijñānaṃ karaṇāṃtaratvajñāpanārtham
 </details>
@@ -403,6 +483,16 @@ each time-cycle separately.
 The present verse serves as the summary of what is going to be described, intended to draw the attention of the audience; it is with this view that they are exhorted to ‘*learn*.’—The ‘division of time’ having been already mentioned as the subject-matter of the context, the reiterated promise (implied in the exhortation to ‘learn’) is meant to indicate that a fresh subject is going to be introduced; the idea being that what is going to be described now is not merely what remains of the afore-mentioned ‘division of time,’ but it is also conducive to *merit*; as will be directly stated in verse 73, where it is stated that ‘Brahma’s day is known to be sacred’; which means that the knowledge of it brings merit.—(68)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्रह्मणोऽहोरात्रस्य यत्परिमाणं प्रत्येकयुगानां च कृतादीनां तत्क्रमेण समासतः संक्षेपतः शृणुत।प्रकृतेऽपि कालविभागे यद्ब्रह्मणोऽहोरात्रस्य पृथक् प्रतिज्ञानं तत्तदीयज्ञानस्य पुण्यफलज्ञानार्थम्। वक्ष्यति च “ब्राह्मं पुण्यमहर्विदुः” ( म. स्मृ. १-७३ ) इति। तद्वेदनात्पुण्यं भवतीत्यर्थः॥६८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मस्येति **। प्राजापत्यस्याहोरात्रस्य **यत् प्रमाणं** युगानां च प्रत्येकं तत् क्रमेण सङ्क्षेपतः श्रृणुत ॥ १.६८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 068	But hear now the brief (description of) the duration of a night and a day of Brahman and of the several ages (of the world, yuga) according to their order.
@@ -410,7 +500,7 @@ The present verse serves as the summary of what is going to be described, intend
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.६९ चत्वार्य् आहुः</summary>
 
 चत्वार्य् आहुः सहस्राणि  
 वर्साणां तत् कृतं युगम् ।  
@@ -435,6 +525,7 @@ They say that four thousnd ‘years’ are what is the ‘Kṛta-cycle’; as ma
 
 तानि **चत्वारि सहस्राणि कृतयुगं** नाम कालः । **तस्य** कृतयुगस्य तावन्त्यैव शतानि चत्वारि **संध्या** । **संध्यांशस् तस्य तथाविधस्** तत्परिमाणश् चत्वारिवर्षशतानीत्य् अर्थः । यत्रातीतस्य[^१०४] कालस्यागामिनश् च स्वभावानुवृत्तिः सा संध्या । उभयकालधर्मानुविधानं संध्यांसः, यत्रेषत्पूर्वधर्मानुवृत्तिर् भूयसी भाविनो युगस्य ॥ १.६९ ॥
 
+
 [^१०४]:
      M G 1st ed.: yatrātītasya
 </details>
@@ -456,6 +547,32 @@ The text contains the word ‘*tāvacchatī*’; and it is necessary to And out 
 read ‘*Svabhāvānanuvṛttiḥ*’—the meaning being that the preceding Twilight has the character of neither Day nor Night?
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चत्वारि वर्षसहस्राणि कृतयुगकालं मन्वादयो वदन्ति। तस्य तावद्वर्षशतानि संध्या संध्यांशश्च भवति। युगस्य पूर्वा संध्या उत्तरश्च संध्यांशः। तदुक्तं विष्णुपुराणे—
+
+**तत्प्रमाणैः शतैः संध्या पूर्वा तन्नाभिधीयते।**
+
+**संध्यांशकश्च तत्तुल्यो युगस्यानन्तरो हि यः॥**
+
+**संध्यासंध्यांशयोरन्तर्यः कालो मुनिसत्तम।**
+
+**युगाख्यः स तु विज्ञेयः कृतत्रेतादिसंज्ञकः॥**
+
+वर्षसंख्या चेयं दिव्यमानेन तस्यैवानन्तरप्रकृतत्वात्।
+
+**दिव्यैर्वर्षसहस्रैस्तु कृतत्रेतादिसंज्ञितम्।**
+
+**चतुर्युगं द्वादशभिस्तद्विभागं निबोध मे॥**
+
+इति विष्णुपुराणवचनाच॥६९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चत्वारीति **। दैविकानाम् अनन्तरप्रस्तुतत्वात्, पुराणे च दिव्येनैव प्रमाणेन युगसङ्ख्या प्रकीर्तितेति दर्शनात्, दैविकानि **चत्वारि **वर्षसहस्राणि **कृतयुगं नाम कालम् आहुर् **मन्वादय्ः । तस्य च तावन्त्य् एव **वर्षशतानि सन्ध्या **अतीतागामियुग्धर्मानुवर्तनं सन्ध्यांशे ऽतीतयुगधर्माणां ईषदनुवृत्तिः आगामियुगधर्मबाहुल्यं चत्वार्य् एव शतानि च ॥ १.६९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 069	They declare that the Krita age (consists of) four thousand years (of the gods); the twilight preceding it consists of as many hundreds, and the twilight following it of the same number.
@@ -463,7 +580,7 @@ read ‘*Svabhāvānanuvṛttiḥ*’—the meaning being that the preceding Twi
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.७० इतरेषु</summary>
 
 इतरेषु स-सन्ध्येषु  
 स-सन्ध्यांशेषु च त्रिषु ।  
@@ -484,8 +601,10 @@ In each of the other time-cycles, along with their ‘junctures’ and ‘junctu
 
 - "**तावच् छती**" इति ईकारः स्मर्तव्यः । इह स्मृतिः । तावतां शतानां समारारः । तावच् छब्दस्य "बहुगणवतुडति" (पाण् १.१.२३) इति वत्वन्तत्वात् संख्यासंज्ञायां सत्यां "संख्यापूर्वो द्विगुः" (पाण् २.१.५२) इति द्विगुसंज्ञायां सत्याम् टापो ऽपवादो "द्विगोः" (पाण् ४.१.२१) इति ङीप् । शतं[^१०५] परिमाणम् अस्य इति । "यत्तदेतेभ्यः"[^१०६] (पाण् ५.२.३९) इति वतुप् । "आ सर्वनाम्नः" (पाण् ६.३.९१) इत्य् आकारः । अन्यथा बहुव्रीहौ तावन्ति शतानि यस्याः, शतशब्दस्याकारान्तत्वात् "अजाद्यतष्टाप्" (पाण् ४.१.४) इति टापा भवितव्यम् । तस्मिन् कृते तावच्छता इति स्याद् इत्य् अभिप्रायः ॥ १.७० ॥
 
+
 [^१०६]:
      J G: yattadebhyaḥ
+
 
 [^१०५]:
      J: tat
@@ -503,6 +622,16 @@ diminishing in the ‘junctures’ and ‘juncture-ends’ of the Cycles.
 ‘Time-cycle’, ‘*yuga*’, is the name given to a particular aggregate of days; and ‘*Kṛtā*’ and the rest are particular names of the said ‘Time-cycle’.—(70)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अन्येषु त्रेताद्वापरकलियुगेषु संध्यासंध्यांशसहितेषु एकहान्या सहस्राणि शतानि च भवन्ति। तेनैवं सम्पद्यते– त्रीणि वर्षसहस्राणि त्रेतायुगम् तस्य त्रीणि वर्षशतानि सन्ध्या सन्ध्यांशश्च। एवं द्वेवर्षसहस्रेद्वापरः, तस्य द्वे वर्षशते सन्ध्या सन्ध्यांशश्च। एवं वर्षसहस्रं कलिः, तस्यैकवर्षशतं सन्ध्या सन्ध्यांशश्च॥७०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**इतरेष्व्** इति । त्रेतादिषु पुनस् त्रिषु युगेषु सन्ध्यासन्ध्यांशसहितेषु एकैकहान्या **सहस्राणि शतानि च **भवन्ति** **। त्रेता त्रीणि सहस्राणि, तत् सन्ध्यासन्ध्यांशैश् च त्रीणि त्रीणि शतानि । एवं द्वापरकलियुगयोः सम्ध्यासन्ध्यांशसहितयोः पूर्वस्माद् पूर्वस्माद् एकैकसहस्र्शतापायो द्रष्टव्यः ॥ १.७० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 070	In the other three ages with their twilights preceding and following, the thousands and hundreds are diminished by one (in each).
@@ -510,7 +639,7 @@ diminishing in the ‘junctures’ and ‘juncture-ends’ of the Cycles.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.७१ यद् एतत्</summary>
 
 यद् एतत् परिसङ्ख्यातम्  
 आदाव् एव चतुर्युगम् ।  
@@ -528,6 +657,7 @@ This period of the four time-cycles that have been just computed,—twelve thous
 <details><summary>मेधातिथिः</summary>
 
 **यद् एतद्** इति लौकिकी वाचो युक्तिः । समुदायेन प्रक्रान्तो ऽर्थः परामृश्यते । यद् एतच् **चतुर्युगं परिसंख्यातं** चत्वारि सहस्राणीत्यादिना निश्चितसंख्यम् **आदौ** प्राग् अस्माच् छ्लोकात्- एतस्य[^१०७] चतुर्युगस्य द्वादशभिः सहस्रैर् **देवानां युगम् उच्यते** । द्वादशचतुर्युगसहस्राणि देवयुगं नाम काल इत्य् अर्थः । सहस्रशब्दात् स्वार्थे ऽण् । द्वादशचतुर्युगसहस्राणि परिमाणं यस्मिन्न् इति विग्रहः ॥ १.७१ ॥
+
 
 [^१०७]:
      M: chlokākasya; G: ekasya
@@ -551,6 +681,24 @@ In face of the fact that the words of the text themselves convey this meaning—
 words of the text.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतस्य श्लोकस्यादौ यदेतन्मानुषं चतुर्युगं परिगणितं एतद्देवानामेकं युगमुच्यते। चतुर्युगशब्देन सन्ध्यासन्ध्यांशयो-रप्राप्तिशङ्कायामाह—एतद् द्वादशसाहस्रमिति।स्वार्थेऽण्। चतुयुगैरेव द्वादशसंख्यैर्दिव्यं युगमिति तु (१)[^60] मेधातिथेर्भ्रमो नादर्तव्यः मनुनाऽनन्तरं दिव्य-
+
+[^60]: "यदेत्तच्चतुर्युगं परिसंख्यातं चत्वारि संहस्राणीत्यादिना निश्चितसंख्यमादौ प्रागे तच्छ्लोकस्य चतुर्युगस्य द्वादशभिः सहस्त्रैर्देवानां युगमुच्यते । द्वादशचतुर्युगसहस्राणि दैवयुगं नाम कालइत्यर्थ इति ।"
+
+युगसहस्रेण ब्रह्माहस्याप्यभिधानात्। विष्णुपुराणे च मानुषचतुर्युगसहस्रेण ब्रह्माहकीर्तनात्मानुपचतुर्युगेनैव दिव्ययुगावगमनात्।तथा च विष्णुपुराणम्—
+
+**कृतं त्रेता द्वापरं च कलिश्चेति चतुर्युगम् ।**
+
+**प्रोच्यते तत्सहस्रं तु ब्रह्मणो दिवसो मुने॥७१॥**
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यद् **इति । **यद् एतत्** परिगणित्म् आदाव् अस्मात् श्लोकात् प्राक् चतुर्युगम् एतद् द्वादश्सहस्रगुणं देवयुगं वेदयुगं नाम कालः ॥ १.७१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 071	These twelve thousand (years) which thus have been just mentioned as the total of four (human) ages, are called one age of the gods.
@@ -558,7 +706,7 @@ words of the text.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.७२ दैविकानाम्</summary>
 
 दैविकानां युगानां तु  
 सहस्रं परिसङ्ख्यया ।  
@@ -585,6 +733,16 @@ Thousand ‘Time-cycles’ of the Gods make one ‘day’ of Brahmā.—Brahmā�
 The instrumental ending (in ‘*Sāṅkhyayā*’) denotes *causality*.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+देवयुगानां सहस्रं ब्राह्मं दिनं ज्ञातव्यम्। सहस्रमेव रात्रिः। परिसंख्ययेति श्लोकपुरणार्थोऽनुवादः॥७२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दैविकानाम्** इति । एषां देव**युगानां** **सहस्रं ब्राह्मम् अहर्** विज्ञेयम् । सहस्रम् एव रात्रिसङ्ख्ययेत्य् अनुवादः ॥ १.७२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 072	But know that the sum of one thousand ages of the gods (makes) one day of Brahman, and that his night has the same length.
@@ -592,7 +750,7 @@ The instrumental ending (in ‘*Sāṅkhyayā*’) denotes *causality*.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.७३ तद् वै</summary>
 
 तद् वै युगसहस्रान्तं  
 ब्राह्मं पुण्यम् अहर् विदुः ।  
@@ -611,6 +769,7 @@ Those who know the ‘Day of Brahmā’ as ending with the (said) thousand ‘ti
 
 युगसहस्रम् अन्तो यस्याह्नस् **तद् युगसहस्रान्तम्** । ये मनुष्या[^१०८] एतज् जानते **ते ऽहोरात्रविदः** । किं तेषाम् इत्य् अपेक्षायां पुण्यं भवतीति संबन्धः । ब्राह्मस्याह्नः परिमाणवेदनं पुण्यम् अतस् तद् वेदितव्यम् इति स्तुत्या विधिप्रतिपत्तिः ॥ १.७३ ॥
 
+
 [^१०८]:
      J: mānuṣyāḥ
 </details>
@@ -625,6 +784,16 @@ If it be asked—what happens to the people who know this?—it is added that �
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 ‘*Puṇyam*’—Medhātithi takes this not merely as an epithet of ‘*ahaḥ*,’ but as constituting a distinct sentence by itself.
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+युगसहस्रेणान्तः समाप्तिर्यस्य तद् ब्राह्ममहस्तत्परिमाणां च रात्रिं ये जानन्ति तेऽहोरात्रज्ञा इति स्तुतिरियम्। स्तुत्या च ब्राह्ममहोरात्रं ज्ञातव्यमिति विधिः परिकल्प्यते। अत एव पुण्यहेतुत्वापुण्यमिति विशेषणं कृतम्॥७३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तद्** इति । युगसहस्रेणान्तो यस्य तत् प्राजापत्यम् अहः तद्वेदनस्य पुण्यहेतुत्वात् **पुण्यं रात्रिं** च तत् परिमाणतो ये विजानन्ति ते **अहोरात्र**ज्ञनिनः, न तु मनुष्याद्यहोरात्रवेदनेनेति । ब्रह्माहर्विज्ञानप्रशंसा तद्वेदनाप्ररोचनार्थम् ॥ १.७३ ॥
 </details>
 
 <details><summary>Bühler</summary>

@@ -2,7 +2,7 @@
 title = "१० ब्राह्मणज्येष्ठता"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.९२ ऊर्ध्वं नाभेर्</summary>
 
 ऊर्ध्वं नाभेर् मेध्यतरः  
 पुरुषः परिकीर्तितः ।  
@@ -20,8 +20,6 @@ Man is described as purer above his naval; hence the Self-existent One has decla
 <details><summary>मेधातिथिः</summary>
 
 आ पादान्तान् मेध्यः पुरुषः । तस्य **नाभेर् ऊर्ध्वम्** अतिशयेन मेध्यम् । ततो ऽपि **मुखम्** । एतच् च स्वयम् एव जगत्कारणपुरुषेणोक्तम् ॥ १.९२ ॥
-
-_ततः किम् । अत आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -32,6 +30,11 @@ Down to the very sole of his feet, Man is *pure*; that part of his body which is
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 See 5.132.
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+इदानीं ब्राह्मणादिकर्मविवेकार्थत्वमुखेन शास्त्रस्य स्तुतिम् अध्ययनश्रवणानुष्ठानफलां कर्तुं ब्राह्मणस्तुतिम् आह – **ऊर्ध्वम्** इति । पुंसः सर्वतो ऽपि [मेध्यत्वस्य] सिद्धत्वे सति **नाभेर् ऊर्ध्वं मेध्यतरत्वं **ततो ऽपि मुखस्य **मेध्यतमत्वं** स्वयम्भुवोक्तम् ॥ १.९२ ॥
 </details>
 
 <details><summary>Bühler</summary>
@@ -46,7 +49,15 @@ See 5.132.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_ततः किम् । अत आह ।_
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - १.९३ उत्तमाङ्गोद्भवाज्</summary>
 
 उत्तमाङ्गोद्भवाज् ज्येष्ठ्याद्  
 ब्रह्मणश् चैव धारणात् [मेधातिथिपाठः - ज्यैष्ठ्याद्] ।  
@@ -78,6 +89,11 @@ regarding *Dharma*,’—the affix ‘*tasi*’ (in ‘*dharmataḥ*’) being a
 ‘*Dharmataḥ prabhuḥ*’—‘The lord, by law’—according to Nārāyaṇa and Nandana. But Medhātithi takes it to mean that ‘*he is the lord, in matters relating to Dharma*’; *i.e*., he is the person entitled to prescribe the duties of men and as such, is like the lord;—Govindarāja, Kullūka and Rāghavānanda accept the latter explanation.
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+ततः किम् अत आह – **उत्तमाङ्गोद्भवाद्** इति । मूर्धोद्भवत्वात् पूर्वोत्पन्नत्वात् प्रवचनादियुक्तत्वात् सातिशयवेदधारणात् **सर्वस्य **जगतो धर्मानुशासने **ब्राह्मणः प्रभुः **॥ १.९३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 093	As the Brahmana sprang from (Brahman's) mouth, as he was the first-born, and as he possesses the Veda, he is by right the lord of this whole creation.
@@ -95,7 +111,7 @@ regarding *Dharma*,’—the affix ‘*tasi*’ (in ‘*dharmataḥ*’) being a
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.९४ तं हि</summary>
 
 तं हि स्वयम्भूः स्वाद्  
 आस्यात् तपस् तप्त्वादितो ऽसृजत् ।  
@@ -139,6 +155,11 @@ By the said act (of conveying the oblations and offerings) is accomplished ‘*t
 the Brāhmaṇas, for the guarding of the Vedas, for the satisfaction of Pitṛs and Gods and for the protection of Dharma. Those Brāhmaṇas who are devoted to learning and study, are the source of everything, superior to these are those who are devoted to religious acts; and superior even to these are those who are the best knowers of the science of the self.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+कस्य पुनर् अयम् उत्तमाङ्गाद् उद्भूत इत्य् अत आह – **तम्** इति । **तं **ब्राह्मणं **स्वयम्भूः **आत्ममुखात् **तपः **कृत्वा देवपित्रन्नवहनार्थं जगद्रक्षार्थं च प्रथमसृष्टौ सृष्टवान् ॥ १.९४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 094	For the Self-existent (Svayambhu), having performed austerities, produced him first from his own mouth, in order that the offerings might be conveyed to the gods and manes and that this universe might be preserved.
@@ -151,7 +172,7 @@ the Brāhmaṇas, for the guarding of the Vedas, for the satisfaction of Pitṛs
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.९५ यस्यास्येन</summary>
 
 यस्यास्येन सदाश्नन्ति  
 हव्यानि त्रिदिवौकसः ।  
@@ -187,6 +208,11 @@ The Gods, occupying the highest regions, and the *Pitṛs* occupying the interme
 See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+एवं च **यस्येति** । **यस्य **ब्राह्मणाख्यस्य महात्मनो मुखेन महाप्रभावाः **त्रिदिवौकसः** स्वर्गवासिनो देवाः **हव्यानि **अनवरतम् **अश्नन्ति पितरश्** **च कव्यानि ततो **ऽन्यत् प्रकृष्टं **किं भूतं **स्यात् ॥ १.९५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 095	What created being can surpass him, through whose mouth the gods continually consume the sacrificial viands and the manes the offerings to the dead?
@@ -199,7 +225,7 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.९६ भूतानाम्</summary>
 
 भूतानां प्राणिनः श्रेष्ठाः  
 प्राणिनां बुद्धिजीविनः ।  
@@ -213,6 +239,7 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 
 Among beings, aminated ones are regarded as foremost; among aminated ones, those that subsist by reason: among rational beings men are foremost; and among men, Brāhmaṇas. (96).
 
+
 devān bhāvayatānena te devā bhāvayantu vaḥ | 
 parasparaṃ bhāvayantaḥ śreyaḥ param avāpsyatha || 3.11 ||
 </details>
@@ -221,8 +248,10 @@ parasparaṃ bhāvayantaḥ śreyaḥ param avāpsyatha || 3.11 ||
 
 पृथिव्यां ये भावाः स्थावरा वृक्षादयो जङ्गमाः कृमिकीटादयस् ते **भूत**शब्देनोच्यन्ते । तेषां ये **प्राणिन** आहारविहारादिचेष्टासमर्थास् ते **श्रेष्ठाः**[^१४३] । ते हि पटुतरं सुखम् अनुभवन्ति । तेषां ये **बुद्ध्या जीवन्ति** हिताहिते विचिन्वन्ति श्वशृगालादयः, ते हि घर्मेणोपतप्ताः छायाम् उपसर्पन्ति, शीतेनार्दिता आतपम्[^१४४], निराहारं स्थानं त्यजन्ति । तेषाम् अधिकतरा मनुष्याः, तेषां च **ब्राह्मणाः** । ते हि लोके पूज्यतमाः, न च सर्वेण परिभूयन्ते । जातिमात्राश्रयं हि तद्वधे महत् प्रायश्चित्तम् ॥ १.९६ ॥
 
+
 [^१४४]:
      G 1st ed.: ātāpe
+
 
 [^१४३]:
      M G add: prāṇinas
@@ -249,6 +278,11 @@ things as insects, beetles and the like.—Among these, the ‘*animated ones*�
 See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+अधुना विद्वत्तादिगुणयोगेन ब्राह्मणं स्तोतुम् आह – **भूतानाम्** इति । **भूतानां **स्थावरजङ्गमानां मध्यात् प्राणिनां सर्वेषां गुणवत्त्वे ऽपि ये तूद्रिक्तचैतन्या वृश्चिकादयः । ते स्थावरेभ्यः तदुत्तरसुखानुभवात् **श्रेष्ठाः **। तेभ्यो ऽपि श्वादयो **बुद्धिजीविनः **निरन्नसान्नदेशगमागमकारणात् । तेभ्यो ऽपि मनुष्याः विशिष्ठविज्ञानात् । तेभ्यो ऽपि **ब्राह्मणाः **अपवर्गाधिकारयोग्यत्वात् ॥ १.९६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 096	Of created beings the most excellent are said to be those which are animated; of the animated, those which subsist by intelligence; of the intelligent, mankind; and of men, the Brahmanas;
@@ -256,7 +290,7 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.९७ ब्राह्मणेषु च</summary>
 
 ब्राह्मणेषु च विद्वांसो  
 विद्वत्सु कृत-बुद्धयः ।  
@@ -277,8 +311,6 @@ Among Brāhmaṇas, the learned are the best, among the learned, those with firm
 
 [^१४५]:
      M G 1st ed. omit; J brahmavādinaḥ
-
-_विद्वत्तादिगुणसंबन्धिनो ब्राह्मणस्य विशेषे दर्शिते, जातिमात्रं ब्राह्मणं कश्चिद् अवमन्येत । तन्निवृत्त्यर्थम् इदम् उच्यते ।_[^१४६]
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -294,6 +326,11 @@ The superiority of the learned rests on the fact that it is they alone that are 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मणेष्व्** इति । तेभ्यो ऽपि **विद्वांसः** महाफलकर्माधिकारात् तेभ्यो ऽपि **कृतबुद्धयः** शास्त्रार्थानुष्ठानेषूत्पन्नसङ्कल्पाः । तेभ्यो ऽय् अनुष्ठातारः इष्टानिष्टप्राप्तिपरिहारयुक्तत्वात् । तेभ्यो ऽपि ज्ञातात्मानः अपवर्गफलत्वात् ॥ १.९७ ॥
 </details>
 
 <details><summary>Bühler</summary>
@@ -317,7 +354,15 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_विद्वत्तादिगुणसंबन्धिनो ब्राह्मणस्य विशेषे दर्शिते, जातिमात्रं ब्राह्मणं कश्चिद् अवमन्येत । तन्निवृत्त्यर्थम् इदम् उच्यते ।_[^१४६]
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - १.९८ उत्पत्तिर् एव</summary>
 
 उत्पत्तिर् एव विप्रस्य  
 मूर्तिर् धर्मस्य शाश्वती ।  
@@ -335,6 +380,7 @@ The very genesis of the Brāhmaṇa is the eternal incarnation of Virtue; for he
 <details><summary>मेधातिथिः</summary>
 
 **उत्पत्तिर् एव** गुणान् अपहाय जन्मैव, ब्राह्मणस्य जातिर् एव, **शाश्वती धर्मस्य मूर्तिः** शरीरम् । **धर्मार्थम् उत्पन्नो** द्वितीयेन जन्मनोपनयनेन संस्कृतः । सा हि तस्य धर्मार्थोत्पत्तिर् ब्रह्मत्वाय **कल्पते** संपद्यते । धर्मशरीरम् उज्झित्वा परानन्दभाग् भवतीति स्तुतिः[^१४७] ॥ १.९८ ॥
+
 
 [^१४७]:
      M G: śrutiḥ
@@ -362,6 +408,16 @@ doubts on the matter. All the commentators agree in explaining the phrase ‘*br
 See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणदेहजन्ममात्रमेव धर्मस्य शरीरमविनाशि। यस्मादसौ धर्मार्थं जातः धर्मानुगृहीतात्मज्ञानेन मोक्षाय संपद्यते॥९८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+किं च **उत्पत्तिर्** इति । जन्ममात्रम् एव ब्राह्मणस्य अविनश्वरं धर्मस्य शरीरम्, यस्माद् असौ धर्मार्थम् उत्पन्नः उपनीतः सन् आत्मज्ञानेन ब्रह्मत्वाय सम्पद्यते ॥ १.९८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 098	The very birth of a Brahmana is an eternal incarnation of the sacred law; for he is born to (fulfil) the sacred law, and becomes one with Brahman.
@@ -369,7 +425,7 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.९९ ब्राह्मणो</summary>
 
 ब्राह्मणो जायमानो हि  
 पृथिव्याम् अधिजायते ।  
@@ -406,6 +462,16 @@ The *Aparārka* (p. 281) quotes this verse in support of the view that the learn
 See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्माद् ब्राह्मणो जायमानः पृथिव्यामधि उपरि भवति श्रेष्ठ इत्यर्थः। सर्वभूतानां धर्मसमूहरक्षायै प्रभुः, ब्राह्मणोपदिष्टत्वात्सर्वधर्माणाम्॥९९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मण् **इति । यस्माद् **ब्राह्मण **उत्पद्यमानः धर्मसञ्चयरक्षणार्थं **सर्वभूतानाम् ईश्वरः **प्रभुः सन् **पृथिव्याम् अध्**इकः एकः श्रेष्ठः शुक्लैः गुणैः **जायते **तस्माद् असौ मूर्तिः धर्मस्य शास्वती पूर्वोक्तहेतुर् अयम् । **कोशो** धनसञ्चयः (न) इहोपचारात् कोशश्ब्दः । तद्गोप्तृत्वं च ब्राह्मणोपदेशकत्वात् सर्वधर्माणाम् ॥ १.९९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 099	A Brahmana, coming into existence, is born as the highest on earth, the lord of all created beings, for the protection of the treasury of the law.
@@ -423,7 +489,7 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.१०० सर्वं स्वम्</summary>
 
 सर्वं स्वं ब्राह्मणस्येदं  
 यत् किं चिज् जगतीगतं ।  
@@ -459,6 +525,16 @@ This is mere praise, not an injunction; hence we have the word ‘*deserves*’.
 This verse is quoted in the *Aparārka* (p. 282) as indicating that the learned Brāhmaṇa is the owner of all things.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यत्किंचिज्जगद्वर्ति धनं तद् ब्राह्मणस्य स्वमिति स्तुत्योच्यते। स्वमिव स्वं न तु स्वमेव, ब्राह्मणस्यापि मनुनाऽस्ते यस्य वक्ष्यमाणत्वात्। तस्माद् ब्रह्ममुखोद्भवत्वेनाभिजनेन श्रेष्ठतया सर्वं ब्राह्मणोऽर्हति सर्वग्रहणयोग्यो भवत्येव। वै अवधारणे॥१००॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सर्वं स्वम्** इति । वक्ष्यमाणस्तेयादिशास्त्रविरोधात् अस्य च श्रुतिप्रधानत्वात् **सर्वं** जगद्गतं द्रव्यजातं **ब्राह्मणस्वम्** इव स्तुत्योच्यते । तत्र स्वयम् एव यस्मात् **श्रैष्ठेनाभिजनेन** मुखोद्भवत्वेन **सर्वं ब्राह्मणो **योग्यो भवति स्वीकर्तुं तस्मात् तस्येयं सर्वं स्वम् एव ॥ १.१०० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 100	Whatever exists in the world is, the property of the Brahmana; on account of the excellence of his origin The Brahmana is, indeed, entitled to all.
@@ -471,7 +547,7 @@ This verse is quoted in the *Aparārka* (p. 282) as indicating that the learned 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.१०१ स्वम् एव</summary>
 
 स्वम् एव ब्राह्मणो भुङ्क्ते  
 स्वं वस्ते स्वं ददाति च ।  
@@ -490,8 +566,10 @@ What the Brāhmana eats is his own; his own what he wears and his own also what 
 
 यत् परगृह आतिथ्यादिरूपेण **भुङ्क्ते** तद् आत्मीयम् एव । नैवं मन्तव्यं परपाकेनेति । **स्वं वस्ते** । याचित्वायाचित्वा वा वस्त्रं लभते नासौ तस्य लाभाय, अपि तु स्वकस्याच्छादने[^१४८] विनियोगः । तिष्ठतु तावद् आत्मोपयोगि यद्[^१४९] गृह्णाति तत्र प्रभूतम्, यद् अन्येभ्यो ददाति परकीयम् तद् अपि तस्य नानुचितम् । **आनृशंस्यं** कारुण्यम् । तदीयया महासत्त्वतया पृथिव्यां राजानः स्वानि धनान्य् उपयुञ्जते । अन्यथा यद्य् असाव् इच्छेत् "अहम् एतद् आदाय स्वकार्ये विनियुञ्जीय" इति, तदा सर्वे निर्धनाः निरुपयोगाः स्युः ॥ १.१०१ ॥
 
+
 [^१४९]:
      M G 1st ed. omit: yad
+
 
 [^१४८]:
      M G: svakṛtyācchādane
@@ -500,6 +578,16 @@ What the Brāhmana eats is his own; his own what he wears and his own also what 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
 What the Brāhmaṇa eats as a guest in the house of others is really his own; it should not be thought that he is receiving food from another person’s kitchen.—Similarly ‘*what he wears is his own*’;—*i.e*., when he obtains clothing, either by begging or otherwise, it does not mean that he has acquired it from others; what it means is that he is employing what is *his own* in the covering of his body.—What he obtains for his own use, in that he may lie exercising his own right of possession; hut when he gives away to people what belongs to others, this also is nothing wrong for him; it is only his *good will*, benevolence. It is by reason of the large-heartedness of the Brāhmaṇa that Kings on earth enjoy their possessions; otherwise, if the Brāhmaṇa were to wish—‘I should take all this and apply it to my own use,’—then all others would become penniless, having nothing that they could use for their own benefit.—(101)
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+यत्परस्याप्यन्नं ब्राह्मणो भुङ्क्ते, परस्य च वस्त्रं परिधत्ते, परस्य गृहीत्वाऽन्यस्मै ददाति, तदपि ब्राह्मणस्य स्वमिव। पूर्ववत्स्तुतिः। एवं सति ब्राह्मणस्यकारुण्यादन्ये भोजनादि कुर्वन्ति॥१०१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एवं च स्वम्** इति । यत् परकीयस्यापि भोजनाच्छादनादि असौ करोति तत् तस्य स्वम् एवेति पूर्ववत् स्तुतिः । एवं **चानृशंस्यात् **तद्गतकारुण्याद् अन्ये **जना** भोजनाच्छादनादि कुर्वते ॥ १.१०१ ॥
 </details>
 
 <details><summary>Bühler</summary>
@@ -514,7 +602,15 @@ What the Brāhmaṇa eats as a guest in the house of others is really his own; i
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+इदानीं प्रकृष्टब्राह्मणकर्माभिधायकतया शास्त्रप्रशंसां प्रक्रमते—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - १.१०२ तस्य</summary>
 
 तस्य कर्मविवेकार्थं  
 शेषाणाम् अनुपूर्वशः ।  
@@ -533,6 +629,7 @@ It was for the purpose of regulating the actions of the Brāhmaṇa,—and incid
 
 सर्वस्याः ब्राह्मणस्तुतेः[^१५०] फलप्रदर्शनार्थं श्लोको ऽयम् । एवंविधम् **इदं** महार्थं **शास्त्रं** यत् **तस्य**, स्वमहिम्नात्यन्तिकेन महत्तमस्य ब्राह्मणस्य, **कर्मविवेकार्थं,** इमानि कर्माणि कर्तव्यानि इमानि वर्ज्याणि, एष विवेकस् तदर्थम्  । **शेषाणां** च क्षत्रियादीनाम् **अनुपूर्वशः** प्राधान्याद् ब्राह्मणस्यानुषङ्गात् क्षत्रियादीनाम् इदं शास्त्रम् **अकल्पयत्** कृतवान् ॥ १.१०२ ॥
 
+
 [^१५०]:
      M G 1st ed.: brāhmaṇaśruteḥ
 </details>
@@ -547,6 +644,16 @@ This verse serves the purpose of indicating the upshot of the entire eulogium pr
 ‘*Svāyambhuvo manuḥ*’—This does not mean ‘Manu, who sprang from the self-existent’; it means only ‘Manu, Svāyambhuva *by name*’;—‘*Svāyambhuva*’ being the proper name of one of the Manus.
 
 *Anupūrvaśaḥ*;—‘Incidentally’ (Medhātithi);—‘in due order’ (Rāmacandra).
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणस्य कर्मज्ञानार्थं शेषाणां क्षत्रियादीनां च स्वायंभुवो ब्रह्मपौत्रो धीमान्सर्वविषयज्ञानवान्मनुरिदं शास्त्रं विरचितवान्॥१०२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अधुनोक्तब्राह्मणस्तुतेः फलम् आह – **तस्येति** । ईदृग् एतन् महच्छास्त्रं यद् उक्तलक्षणस्य **ब्राह्मणस्य **प्रधानतः कार्याकार्यविवेकार्थं **शेषाणां** क्षत्रियादिसङ्करपर्यन्तानाम् अनुषङ्गतः तद्**विवेदार्थम् **एतत् प्रजापतिनप्ता प्रशस्तबुद्धिमान् **मनुः** कल्पितवान् ॥ १.१०२ ॥
 </details>
 
 <details><summary>Bühler</summary>

@@ -2,7 +2,7 @@
 title = "१४ ब्राह्मणहिंसा"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१६५ ब्राह्मणायाऽवगुर्य</summary>
 
 **ब्राह्मणायाऽवगुर्य**+++(=ताडनाभिनयं कृत्वा)+++ +एव  
 द्विजातिर् वध-काम्यया ।  
@@ -44,6 +44,16 @@ This verse is quoted in *Aparārka* (p. 223.)
 unfit for heaven for a hundred years.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+द्विजातिरपि ब्राह्मणस्य हननार्थं दण्डादिकमुद्यम्यव न तु निपात्य वर्षशतं तामिस्रादिनरके परिश्रमति ॥१६५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मणायेति । द्विजातिर् **अपि हननेच्छया ब्राह्मणस्य दण्डाद्युद्यम्यैव वर्षशतं तामिस्राख्ये नरके परिभ्राम्यति ॥ ४.१६५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 165	A twice-born man who has merely threatened a Brahmana with the intention of (doing him) a corporal injury, will wander about for a hundred years in the Tamisra hell.
@@ -51,7 +61,7 @@ unfit for heaven for a hundred years.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१६६ ताडयित्वा</summary>
 
 **ताडयित्वा** तृणेनाऽपि  
 संरम्भान्+++(त्)+++ मति-पूर्वकम् ।  
@@ -69,6 +79,7 @@ Having, in anger, struck him intentionally, even with a straw, he is born, durin
 <details><summary>मेधातिथिः</summary>
 
 **संरम्भः** क्रोधावेशः, न तु नर्मणा । बुद्धिपूर्वम् । **एकविंशतिम् आजातीः** । जातिर् जन्म । **आ**कारो ऽनर्थकः, प्रलम्बत इतिवत् । पापानां योनय इति तिर्यग्जन्तवो दुःखबहुलाः । तिष्ठतु तावद् दण्डादिः पीडाकरः पदार्थः[^२२८] । तृणेनापि ताडने दीर्घकालो नरकानुभवः ॥ ४.१६६ ॥
+
 
 [^२२८]:
      M G 1st ed.: duḥkhabalātipattāv daṇḍādipīḍākarapadārthaḥ; J G 2nd ed.: pīḍākarapadārthaḥ (I follow DK 5: 1174)
@@ -98,6 +109,16 @@ This verse is quoted in *Aparārka* (p. 223).
 heaven), for a thousand years.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तृणेनापि क्रोधाद् बुद्धिपूर्वकं ब्राह्मणं ताडयित्वा एकविंशतिजन्मानि पापयोनिषु कुक्कुरादियोनिषु जायते ॥१६६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ताडयित्वेति** । क्रोधेन बुद्धिपूर्वं तृणेनापि प्रहृत्य एकविंशतिजन्मानि पापनिमित्तासु श्वादियोनिषु जायते । आजातीर् इत्य् आङ् पादपूरणः ॥ ४.१६६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 166	Having intentionally struck him in anger, even with a blade of grass, he will be born during twenty-one existences in the wombs (of such beings where men are born in punishment of their) sins.
@@ -105,7 +126,7 @@ heaven), for a thousand years.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१६७ अयुध्यमानस्योत्पाद्य</summary>
 
 **अयुध्यमानस्योत्पाद्य**  
 ब्राह्मणस्याऽसृग् अङ्गतः ।  
@@ -123,6 +144,7 @@ The man, who, through folly, causes blood to flow from the body or a Brāhmaṇa
 <details><summary>मेधातिथिः</summary>
 
 **असृग्** लोहितम् । तद् **अङ्गतः** अङ्गाद् यत्रोत्पादयति **ब्राह्मणस्य** खड्गप्रहारादिना । **अयुध्यमानस्य,** न तु द्रोणाचार्यवत् क्षात्रेण धर्मेण युयुत्सोः । **सुमहद् दुःखं** नरकादि **प्रेत्य** मृतो जन्मान्तरे । **अप्राज्ञतये**त्य् अनुवादः । प्राज्ञो हि शास्त्रार्थज्ञानान् न कथम् अप्य्[^२२९] एवं कुर्यात् ॥ ४.१६७ ॥
+
 
 [^२२९]:
      M G 1st ed. omit: apy
@@ -157,6 +179,16 @@ becomes defiled under the law; for this unintentional striking, the sages have p
 *Kṛccra* as well as the *Cāndrāyaṇa*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अयुध्यमानस्य ब्राह्मणस्याङ्गे शास्त्रानभिज्ञतया शोणितमुत्पाद्य परलोके महद् दुःखमाप्नोति ॥१६७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अयुध्यमानस्येति** । युद्धं विना ब्राह्मणशरीरतो मौर्ख्यात् रुधिरं नर उत्पाद्य परलोके महद् दुःखं प्राप्नोति ॥ ४.१६७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 167	A man who in his folly caused blood to flow from the body of a Brahmana who does not attack him, will suffer after death exceedingly great pain.
@@ -164,7 +196,7 @@ becomes defiled under the law; for this unintentional striking, the sages have p
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१६८ शोणितं यावतः</summary>
 
 शोणितं यावतः पांसून्  
 **सङ्गृह्णाति** महीतलात् ।  
@@ -204,6 +236,16 @@ This verse is quoted in *Aparārka* (p. 223).
 See Comparative notes for [Verse 4.167].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+खङ्गादिहतब्राह्मणाङ्गनिर्गतं रुधिरं भूमिपतितं यावतो धूलिद्व्यणुकान्पिण्डीकरोति तावत्संख्यानि वर्षाणि परलोके शोणितोत्पादकः प्रहर्ता अन्यैः श्वसृगालादिमिर्भक्ष्यते ॥१६८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शोणितम्** इति । प्रहृतब्राह्मणोत्पन्नं रुधिरं क्षितिपृष्ठान् यत्सङ्ख्याकान् रजःकणान् पिण्डीकरोति तत्सङ्ख्याकानि वर्षाणि रुधिरस्योत्पादकः परलोके श्वादिभिः भक्ष्यते ॥ ४.१६८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 168	As many particles of dust as the blood takes up from the ground, during so many years the spiller of the blood will be devoured by other (animals) in the next world.
@@ -216,7 +258,7 @@ See Comparative notes for [Verse 4.167].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१६९ न कदा</summary>
 
 **न** कदा चिद् द्विजे तस्माद्  
 विद्वान् **अवगुरेद्** अपि ।  
@@ -234,6 +276,7 @@ For these reasons, the learned man shall never even threaten a twice-born person
 <details><summary>मेधातिथिः</summary>
 
 पूर्वस्य क्रियात्रयप्रतिषेधविधेर् उद्यमननिपातनविषयस्योपसंहारः । **न कदाचिद्** आपद्य् अपीत्य् अर्थः[^२३०] ॥ ४.१६९ ॥
+
 
 [^२३०]:
      G 1st ed. J: atītyarthaḥ
@@ -255,6 +298,16 @@ This verse is quoted in *Aparārka* (p. 223).
 
 *Baudhāyana* (1.3.8).—‘Therefore one shall not threaten the Brāhmaṇa,
 nor spill his blood.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+तस्मादवगोरणादिदोषाभिज्ञो ब्राह्मणे दण्डाद्युद्यमननिपातरुधिरस्त्रवणानि नापद्यपि कुर्यादिति पूर्वोक्कक्रियात्रयस्योपसंहारः ॥१६९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न कदाचिद्** इति । यत् एवं ब्राह्मणावगोरणादिना भवति तस्मात् शास्त्रविन् न कदाचिद् अपि ब्राह्मणस्य दण्डादि उद्यच्छेत् । नापि तं **तृणेनापि** हन्यात् । न च शरीराद् रुधिरम् उत्पादयेत् ॥ ४.१६९ ॥
 </details>
 
 <details><summary>Bühler</summary>

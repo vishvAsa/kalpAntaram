@@ -2,7 +2,7 @@
 title = "११ अध्ययनचोदनम्"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.१०३ विदुषा</summary>
 
 विदुषा ब्राह्मणेनेदम्  
 अध्येतव्यं प्रयत्नतः ।  
@@ -39,6 +39,22 @@ From all this it follows that all three castes are entitled to the study of the 
 This verse is quoted in the *Mitākṣarā* (on I, 3)—along with another verse from Manu (2-16)—in support of the view that, though all the three twice-born castes are entitled to *study* the *Dharmaśāstra*, the Brāhmaṇa alone is entitled to teach it. In support of this it also quotes a text from *Śaṅkha* to the effect that the Brāhmaṇa alone is entitled to these, and it is he that explains their duties to the other castes. To this same view we find the verse quoted in the Vīramitrodaya (Saṃskāra, p. 512);—also in the *Smṛticandrikā* (Saṃskāra, p. 10) which reads *vidvadbhiḥ* for ‘*śisyebhyaḥ*’ and explains it as meant simply to exclude the Śūdra only.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतच्छास्त्राध्ययनफलज्ञेन ब्राह्मणेन एतस्य शास्त्रस्य व्याख्यानाध्यापनोचितं प्रयत्नतोऽध्ययनंकर्तव्यं, शिष्येभ्यश्चेदं व्याख्यातव्यं, नान्येन क्षत्रियादिना। अध्ययनमात्रं तु व्याख्यानाध्यापनरहितं क्षत्रियवैश्ययोरपि “निषेकादिश्मशानान्तैः” ( म. स्मृ. २-१६ ) इत्यादिना विधास्यते। अनुवादमात्रमेतदिति (१) मेधातिथिमतम्। तन्न मनोहरम्, द्विजैरध्ययनं, ब्राह्म-
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(१) अध्येतव्यं प्रवक्तव्यमित्यर्हे कृत्यः न विधौ। द्वितीयादध्यायात्प्रभृति शास्त्रं प्रवर्तिष्यते। अयंअध्यायोऽसंवाद एवनात्र कश्चिद्विधिरस्ति। तेन यथा—'राजभोजनाः शालयः' इति शालिस्तुतिनं रायोऽन्यस्य तद्भोवननिषेधः। एवमत्रापि 'नान्येन केनचित्' इति नायं निषेधः, केवलं शास्त्रस्तुतिः।सर्वस्मज्जगति श्रेष्ठो ब्राह्मणः, सर्वशास्त्राणां शास्त्रञ्चेदम्, अतस्तादृशस्य विदुषो ब्राह्मणस्याऽध्ययन-
+
+णेनैवाध्यापनव्याख्याने इत्यस्यालाभात्। यत्तु "अवीयीरंस्त्रयो वर्णाः” ( अ.१० श्लो. १ ) इत्यादि तद्वेदविषयमिति वक्ष्यति। विप्रेणैवाध्यापनमितिविधानेन संभवत्यप्यनुवादत्वमस्येति वृथा मेधातिथेग्रहः॥१०३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विदुषेति** । हिताहितानीच्छता तज्ज्ञेन **ब्राह्मणेनेदं** शास्त्रं **प्रयत्नेनाध्येतव्यम्** इति ब्राह्मणस्य प्रयत्नाध्ययनार्थो ऽयम् आरम्भः । प्रयत्नग्रहणात् क्षत्रियवैश्ययोर् अप्य् अत्राध्ययनाधिकारः । तथा च “निषेकादिश्मशानान्त” इत्यादि वक्ष्यति । न तु ब्राह्मणवद् यत्नातिशयः । न च तेनैतत् ब्राह्मणस्यापि विद्ध्यति, तत्र ब्राह्मणविशेषणस्य् प्रयत्नशब्दस्यानुपादानात्, न च क्षत्रियवैश्ययोर् अप्य् अनेनैव सिद्ध्यति । निषेकादीत्य् एतदनारम्भे प्रयत्नशब्दस्यैवंविधविशेषप्रतिपादनासामर्थात् । न हीह क्षत्रियवैश्यग्रहणम अस्ति । सति निषेकादिशास्त्रे ऽस्मिंश् च एतल् लभ्यते द्विजातिमात्रस्याध्ययनाधिकारो ब्राह्मणस्य तु प्रयत्नवान् । इति । **शिष्येभ्यश् च **ब्राह्मणेनैतत् **प्रवक्तव्यं** न क्षत्रियादिनेति । ब्राह्मणस्यैतच्छास्राध्यापनाधिकारर्थो ऽयम् आरम्भः अन्यस्याध्यापननिषेधर्थश् च । यथा [यत् तु] अर्थवादत्वम् अस्य श्लोकस्य कैश्चिद् उक्तम् । तद् असिद्धम् अर्थप्रतीतेः । अर्थस्य चार्थवादत्वे सति प्रयत्नकृतो विशेषो न भवति । तन् मा नामात्र भूत् ब्राह्मणस्यैतच्छास्त्राध्यापनाधिकारो ऽन्यस्य निषेध इत्य् अयं पुनर् विशेषो ऽस्यार्थवादत्वे सति दुर्लभः । यत् तु अधीयीरंस् त्रयो वर्णा इत्यादि स वेदविषयो ऽनुवाद इति व्याख्यास्यामः ॥ १.१०३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 103	A learned Brahmana must carefully study them, and he must duly instruct his pupils in them, but nobody else (shall do it).
@@ -68,7 +84,7 @@ This verse is quoted in the *Mitākṣarā* (on I, 3)—along with another verse
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.१०४ इदं शास्त्रम्</summary>
 
 इदं शास्त्रम् अधीयानो  
 ब्राह्मणः शंसित-व्रतः ।  
@@ -87,6 +103,7 @@ The Brāhmaṇa studying these institutes, and (thence) discharging all prescrib
 
 एवं संबन्धिद्वारेण ब्राह्मणार्थतया शास्त्रं स्तुत्वाधुना साक्षात् स्तौति । **इदं शास्त्रं** जानानः शंसितव्रतो[^१५२] भवतीति परिपूर्णयमनियमानुष्ठायी भवति । शास्त्राद् अननुष्ठाने प्रत्यवायं ज्ञात्वा तद्भयाद् अनुतिष्ठति सर्वान् यमनियमान् यथाशास्त्रं सर्वम् अनुतिष्ठति । अनुतिष्ठन् विहितातिक्रमप्रतिषिद्ध**कर्म**जनितैर् **दोषैर् न लिप्यते** न संबध्यते ॥ १.१०४ ॥
 
+
 [^१५२]:
      G 1st ed.: saṃśitavrato
 </details>
@@ -103,6 +120,16 @@ Knowing these Institutes, the Brāhmaṇa, comes to ‘*discharge all prescribed
 This verse is quoted in the *Smṛticandrikā* (Saṃskāra, p. 10) which reads ‘*saṃśita*’ for ‘*śaṃsita*’ and adds that the term here stands for ‘twice-born’ persons.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इदं शास्त्रं पठन्नेतदीयमर्थं ज्ञात्वा शंसितव्रतोऽनुष्ठितव्रतः मनोवाक्कायसंभवैः पापैर्न संबध्यते॥१०४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**इदम्** इति । **इदं शास्त्रं **पठन् **ब्राह्मणः **एतदर्थावबोधेन **शंसितव्रतः **अविकलयमनियमः सन् **मनोवाक्कायजैर्** विहिताकरणप्रतिषेधसेवनजनितैः पापैः न सम्बध्यते ॥ १.१०४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 104	A Brahmana who studies these Institutes (and) faithfully fulfils the duties (prescribed therein), is never tainted by sins, arising from thoughts, words, or deeds.
@@ -115,7 +142,7 @@ This verse is quoted in the *Smṛticandrikā* (Saṃskāra, p. 10) which reads 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.१०५ पुनाति पङ्क्तिम्</summary>
 
 पुनाति पङ्क्तिं वंश्यांश् च  
 सप्त-सप्त परावरान् ।  
@@ -144,6 +171,20 @@ He becomes the sanctifier of his company; ‘*company*’ stands here for a numb
 He alone is entitled to receive the gift of this earth extending to the oceans; ‘knowledge of Dharma’ establishes a claim to become the recipient; hence it is that a full knowledge of Dharma is sought to be acquired.—(105)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ यथा त्रिवेदाध्ययनं धर्मशास्त्रमिदं तथा।**
+
+**अध्येतव्यं ब्राह्मणेन नियतं स्वर्गमिच्छता॥११॥ \]**
+
+इदं शास्त्रमधीयान इत्यनुवर्तते। अपाङ्क्तेयोपहतां पङ्क्तिमानुपूर्व्या निविष्टजनसमूहं पवित्रीकरोति। वंशभवांश्च सप्त परान्पित्रादीन्, अवरांश्च पुत्रादीन्। पृथिवीमपि सर्वो सकलधर्मज्ञतया पात्रत्वेन ग्रहीतुं योग्यो भवति॥१०५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+किं च **पुनातीति** । भोजनादानपङ्क्तिसम्बन्धाद् अपवित्रीभूतां **पङ्क्तिं** शास्त्रस्थत्वात् पङ्क्तिपावनत्वे सति पवित्रीकरोति । तथैवान्वयात् **सप्त परान् **अतीतान् पित्रादीन् **सप्तावरान्** आगामिनः **पुनाति । **समग्रां चेमां **प्र्थिवीं **प्रतिग्रहीतुम् अर्हति । विदुषः प्रतिग्रहदोषापाकरणसामर्थात् ॥ १.१०५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 105	He sanctifies any company (which he may enter), seven ancestors and seven descendants, and he alone deserves (to possess) this whole earth.
@@ -156,7 +197,7 @@ He alone is entitled to receive the gift of this earth extending to the oceans; 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.१०६ इदं स्वस्त्ययनम्</summary>
 
 इदं स्वस्त्ययनं श्रेष्ठम्  
 इदं बुद्धिविवर्धनम् ।  
@@ -194,6 +235,16 @@ are spoken of as ‘*most excellent*.’
 ‘*The highest good*’—It brings about the due knowledge of Actions and Wisdom, which lead to the attainment of bliss unalloyed with pain, such bliss appearing in the form of ‘Heaven’ and ‘Final Release’; and for this reason this treatise constitutes the ‘*highest*,’ most excellent, ‘*good*’—(106).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अभिप्रेतार्थस्याविनाशः स्वस्ति तस्यायनं प्रापकम् एतच्छास्त्रस्याध्ययनं स्वस्त्ययनं,जपहोमादिबोधकत्वाच्च श्रेष्ठं स्वस्त्ययनान्तरात्प्रकृष्टं, बुद्धिविवर्धनम् एतच्छास्त्राभ्यासेनाशेषविधिनिषेधपरिज्ञानात्।यशसे हितं यशस्यं, विद्वत्तया ख्यातिलाभात्परं प्रकृष्टम्। निःश्रेयसं निःश्रेयसस्य मोक्षस्योपायोपदेशकत्वात्॥१०६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+इदानीं शास्त्रं साक्षात् स्तौति – **इदम्** इति । **इदम्** अन्यस्मात् स्वस्त्ययनकर्मणः **श्रेष्टं **अतिशयेन प्रशस्यम्, **स्वत्ययनं** अविनाशप्रापकम् । विनाशोपशमकर्मावबोधेन, **बुद्धिविवर्धनं** च शास्त्रार्थपरिगणनात्, बुद्धिविकासेन यशोनिमित्तं च सततं सर्वकालं ख्यातिकरत्वात्, परं प्रकृष्टं **निःश्रेयसं **निःश्रेयसस्य मोक्षस्य साधकत्वात् ॥ १.१०६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 106	(To study) this (work) is the best means of securing welfare, it increases understanding, it procures fame and long life, it (leads to) supreme bliss.
@@ -206,7 +257,7 @@ are spoken of as ‘*most excellent*.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.१०७ अस्मिन् धर्मो</summary>
 
 अस्मिन् धर्मो ऽखिलेनोक्तो  
 गुण-दोषौ च कर्मणाम् ।  
@@ -225,11 +276,14 @@ Herein has been expounded Dharma in its entirety: the good and bad features of a
 
 इदानीं स्वशास्त्रस्य स्वविषये साकल्येन वृत्तेर् अन्यनिरपेक्षताम् आह । कश्चिद् यो नाम **धर्मः** स सर्वः शास्त्रे **ऽस्मिन्** कार्त्स्न्येनाभिहितः । न तस्माद् धर्मज्ञानाय शास्त्रान्तरापेक्षा कर्तव्येत्य् अतिशयोक्तिः स्तुतिः । **अस्मिञ्** छस्त्रे **धर्मः** स्मार्तो **ऽखिलेन** निःशेषेणोक्तः[^१५४] । **गुणदोषौ च कर्मणाम्** । इष्टानिष्टे फले **गुणदोषौ कर्मणां** यागादिब्रह्महत्यादीनाम् । एवं हि साकल्यं भवति यत्[^१५५] कर्मस्वरूपम् इतिकर्तव्यताफलविशेषः कर्तृविशेषसंबन्धो नित्यकाम्यताविवेकः । एतत् सर्वं गुणदोषपदेन[^१५६] प्रतिज्ञातम् । धर्म इत्य् उक्ते कर्मग्रहणं वृत्तपूरणार्थम् । **चतुर्णाम् अपि वर्णानाम्** । एतद् अपि साकल्यार्थम् । यो नाम कश्चिद् धर्मे ऽधिकृतस् तस्य सर्वस्येतो धर्मलाभः । **आचारश् चैव शाश्वतः** । आचारप्रमाणको धर्म **आचार** इत्य् उक्तः । द्वितीये चैनं विवेक्ष्यामः । **शाश्वतो** वृद्धपरंपरया नेदानींतनैः प्रवर्तितः ॥ १.१०७ ॥
 
+
 [^१५६]:
      M G: guṇapadena
 
+
 [^१५५]:
      M G: yadi
+
 
 [^१५४]:
      M G: niḥśeṣeṇoktau (connecting with the following dual)
@@ -255,6 +309,24 @@ hyperbolic eulogium; what is meant is only that *such Dharma as is adumbrated in
 ‘*Guṇadoṣau ca karmaṇām*’—‘The desirable and undesirable results of actions’ (Medhātithi, Govindarāja, Kullūka and Nandana);—‘the prescribed acts’ (Rāghavānanda and Nārāyaṇa).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अस्मिन्शास्त्रे कार्त्स्न्येन धर्मोऽभिहित इति शास्त्रप्रशंसा। कर्मणां च विहितनिषिद्धानामिष्टानिष्टफले।वर्णचतुष्टयस्यैव पुरुषधर्मरूप आचारः शाश्वतः पारम्पर्यागतः। धर्मत्वेऽप्याचारस्य प्राधान्यख्यापनाय पृथङ्निर्देशः॥१०७॥
+
+प्राधान्यमेव स्पष्टयति—
+
+**आचारः परमो धर्मः श्रुत्युक्तः स्मार्त एव च।**
+
+**तस्मादस्मिन्सदा युक्तो नित्यं स्यादात्मवान्द्विजः॥१०८॥**
+
+युक्तो यत्नवान् आत्महितेच्छुः। सर्वस्यात्मास्तीति आत्मशब्देन आत्महितेच्छा लक्ष्यते॥१०८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अस्मिन्न्** इति । **अस्मिन्** स्मार्तो **धर्मः** कार्त्स्न्येनोक्तः **कर्मणां च **विहितप्रतिषिद्धानाम्, **गुणदोषौ** इष्टानिष्टफले **वर्णानाम्** **आचारः **पुरुषघर्माख्यः साधारणप्राधान्यख्यापनार्थं चास्य पृथग् ग्रहणम् । एवं चैव तत्सन्निधौ धर्मशब्दो ऽत्र साधारणः सन्ध्योपासनादिप्रतिवचनः ॥ १.१०७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 107	In this (work) the sacred law has been fully stated as well as the good and bad qualities of (human) actions and the immemorial rule of conduct, (to be followed) by all the four castes (varna).
@@ -271,7 +343,7 @@ hyperbolic eulogium; what is meant is only that *such Dharma as is adumbrated in
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.१०८ आचारः परमो</summary>
 
 आचारः परमो धर्मः  
 श्रुत्य्-उक्तः स्मार्त एव च ।  
@@ -305,6 +377,11 @@ Morality [Right Behaviour] is highest Dharma; that which is prescribed in the ś
 *Vaśiṣṭha*, 6.1-5.—(Same as Manu.)
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**आचार** इति । यः **श्रुत्युक्तः आचारः **पुरुषसाधारणप्राधान्यख्यापनार्थं स धर्माख्यः, यश् च **स्मार्तः** स **परमः **पर्क्ēष्ट्तो **धर्मः **परमो ज्योतिष्टोमाष्टकादिभ्यः श्रौतस्मार्तधर्मेभ्यः यतः तस्मात् यो **नित्यं** प्रशस्तात्मा आचारे सर्वकाले **युक्तो** यत्नवान् स्यात् ॥ १.१०८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 108	The rule of conduct is transcendent law, whether it be taught in the revealed texts or in the sacred tradition; hence a twice-born man who possesses regard for himself, should be always careful to (follow) it.
@@ -326,7 +403,7 @@ Morality [Right Behaviour] is highest Dharma; that which is prescribed in the ś
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.१०९ आचाराद्</summary>
 
 आचाराद् विच्युतो विप्रो  
 न वेदफलम् अश्नुते ।  
@@ -344,6 +421,7 @@ The Brāhmaṇa who departs from Right Behaviour, does not obtain the fruit of t
 <details><summary>मेधातिथिः</summary>
 
 प्रकारान्तरेणेयम् आचारस्तुतिः । **आचारात्** प्रच्युत आचारहीनो **न वेदफलं** प्राप्नोति । वेदविहितकर्मानुष्ठानफलं **वेदफलम्** इत्य् उक्तम् । समग्रान्य् अविकलानि वैदिकानि कर्माण्य् अनुतिष्ठन् यद्य् आचारभ्रष्टो न ततः पुत्रकामादिफलम् अश्नुत इति निन्दा । एष एवार्थो विपर्ययेणोच्यते- **आचारेण तु संयुक्तः** सकलं फलं प्राप्नोति काम्यानाम्[^१५७] । अत्र यद् वदन्ति, "संपूर्णवचनाद् आचारहीनस्याप्य् अस्ति काम्येभ्यः फलसंबन्धः, न कृत्स्नफललाभः" इति, तन् न किंचित्, अर्थवादत्वाद् अस्य ॥ १.१०९ ॥
+
 
 [^१५७]:
      M G add: ca (see DK 5: 602)
@@ -372,6 +450,19 @@ This is not right; because the term ‘full’ is purely commendatory \[and henc
 **
 
 See Comparative notes for [Verse 1.108 (On morality \[right behaviour\])].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+प्रवचनार्हं, न सामान्येन शक्यते अध्येतुं प्रवक्तुं वा। अत एवाह प्रयत्नत इति। यावन्न महान्प्रयत्ल आस्थितः यावन्न शास्त्रान्तरैस्तर्कव्याकरणमीमांसादिभिः संस्कृत आत्मा तावदेतत्प्रवक्तुं न शक्यत। अत एव अध्ययनेन श्रवणं लक्ष्यते। तत्र हि विद्वत्तोपयोगिनी न संपाठे। विधौ ह्यध्ययने विद्वत्ताऽदृष्टायैव स्यान्न च विधौ श्रवणमध्ययनेन लक्ष्यतइति युक्तं वक्तुं न विधेये लक्षणार्थता युक्ता। अर्थवादे तु प्रमाणान्तरानुसारेण गुणवादो न दोषाय। तस्मात्त्रवणिकाधिकारं शास्त्रम्।
+
+आचाराद्विच्युतो विप्रोनवैदिकं फलं लभेत्। आचारयुक्तःपुनः समप्रफलभाग्भवति ॥१०९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आचारद्** इति । **आचाराद् विच्युतः **श्रौतस्मार्ताधिकारात् भ्रष्टाचारो ब्राह्मणो न वैदिकं कर्मफलं लभते । आचारवान् पुनः समग्रफलभाग् भवति ॥ १.१०९ ॥
 </details>
 
 <details><summary>Bühler</summary>

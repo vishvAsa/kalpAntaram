@@ -2,7 +2,7 @@
 title = "०६ इन्द्रियनिग्रहः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.८८ इन्द्रियाणाम्</summary>
 
 इन्द्रियाणां विचरतां  
 विषयेष्व् अपहारिषु ।  
@@ -21,13 +21,16 @@ The wise man should put forth an effort to restrain his organs roaming among all
 
 **इन्द्रियाणां संयमे यत्नम् आतिष्ठेद्** इत्य् एतावाञ् छास्त्रार्थः । परिशिष्टो ऽर्थवादः, आ संध्योपासनविधेः (म्ध् २.१०१) । संयमः प्रतिषिद्धेषु **विषयेषु** प्रवृत्तिपरिहारो[^२७६] ऽप्रतिषिद्धेष्व् अप्य् अतिसक्तिवर्जनम् । तत्र प्रतिषिद्धपरिहारस् तैर् एव प्रतिषेधैः सिद्धः । अप्रतिसिद्धेष्व् अप्य् अतिसक्तिनिषेधार्थो ऽयं श्लोकसंघातः । एतद् एवाह । **विचरतां विषयेषु** स्वातन्त्र्येण वस्तुशक्त्या प्रवर्तमानानाम् । **अपहारिषु** विषयेष्व् अपहरन्त्य् आकर्षन्त्य् आत्मसात्कुर्वन्ति पारतन्त्र्यम् आपादयन्ति पुरुषं त अपहारिणो[^२७७] विषया मनोहरा य उच्यन्ते । तत्र **विचरतां** विविधं विशेषेण चरताम् । यदीन्द्रियाणि विशेषेण न चरेयुर् अपरिहारिणो ऽपि तदा विषयाः किं कुर्युः । भवन्तु वा निरङ्कुशानीन्द्रियाणि, यदि विषयाः प्रत्याख्यायिकास् तथापि सुसंयमः पुरुषेणात्मा । यतस् तूभयं सापराधम् अतो यत्न आस्थेयः, दुर्नियमानि ह्य् एतानि । 
 
+
 [^२७७]:
      M: puruṣānapahāriṇo; G 1st ed.: puruṣāpahāriṇo; G 2nd ed.: puruṣaapahāriṇo
+
 
 [^२७६]:
      G 1st ed.: apravṛttiḥ parihāro
 
 - **नियन्तेव वाजिनाम्** । यन्ता सारथिर् अश्वानां यथा रथयुक्तानां स्वभावतो विचलनशीलानां **संयमे** नियमे **यत्नं** करोति, ते[^२७८] न तदानिच्छया उन्मार्गेण वहन्ति, विधेयतां तस्य भजन्त, एवम् इन्द्रियाणि विधेयीकर्तव्यानि ॥ २.८८ ॥
+
 
 [^२७८]:
      M G omit: te
@@ -74,6 +77,11 @@ composed, has his senses under control; just as good horses are under ṭhe cont
 roaming sense-organs, it deprives him of his wisdom; just as the storm destroys the boat in water. Therefore that man whose sense-organs have been withdrawn from the objects of sense, has his wisdom firmly established.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**इन्द्रियाणाम्** इति । **इन्द्रियाणां** चक्षुरादीनां **विषयेषु **रूपादिषु **अपहारिषु **च उपभोगार्थम् आकर्षनशीलेषु यथेच्छं प्रवर्तमानानां नियमने प्रयत्नं कुर्यात्, यथा शिक्षितः सारथिः रथ्यारब्धानाम् अश्वानां नियमने यत्नं करोति ॥ २.८८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 088	A wise man should strive to restrain his organs which run wild among alluring sensual objects, like a charioteer his horses.
@@ -86,7 +94,7 @@ roaming sense-organs, it deprives him of his wisdom; just as the storm destroys 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.८९ एकादशेन्द्रियाण्य्</summary>
 
 एकादशेन्द्रियाण्य् आहुर्  
 यानि पूर्वे मनीषिणः ।  
@@ -105,14 +113,18 @@ Those eleven organs which the ancient sages have named I shall now fully describ
 
 संख्यानिर्देशो ऽयं प्रमाणान्तरगम्यो न शास्त्रार्थः,[^२७९] सौहार्देन तु व्युत्पाद्यते । तानि **पूर्वे मनीषिण** आहुः । परस्तान् नामतः कर्मतश् च वक्ष्यामि । **आनुपूर्व्यम्** अनाकुलता । **पूर्व**ग्रहणान् नेयं तार्किकैर् एव व्यवस्था कल्पिता, किं तु पूर्वेषाम् अप्य् आचार्याणां स्थितैव । एताम् अजानन्तो नागमिका[^२८०] इति लोकैर् उपहस्यन्ते,[^२८१] इत्य् अतो ऽयं वेदितव्यः[^२८२] । प्रसिद्धाः पदार्था व्याख्याताश् च प्राक् ॥ २.८९ ॥
 
+
 [^२८२]:
      M G: ye veditavyāḥ
+
 
 [^२८१]:
      M G 1st ed.: api hasyate
 
+
 [^२८०]:
      M G 1st ed.: ajānato nāgamika
+
 
 [^२७९]:
      M G: padārthaḥ
@@ -149,6 +161,16 @@ Gustatory and the Olfactory organs,—these five and the arms, the penis, the ar
 engendered.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वपण्डिता यान्येकादशेन्द्रियाण्याहस्तान्यर्वाचां शिक्षार्थं सर्वाणि कर्मतो नामतश्च क्रमाद्वक्ष्यामि ॥८९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकादशेति **। यानि पूर्वे मन्वादयो विद्वांसः **इन्द्रियाण्य् **उक्तवन्तः **तानि यथावत् **कार्त्स्न्येन्**आनुपूर्वशः **कर्मेण **सम्यङ्** यथारूपं बुद्ध्यथ तथा **वक्ष्यामि **॥ २.८९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 089	Those eleven organs which former sages have named, I will properly (and) precisely enumerate in due order,
@@ -161,7 +183,7 @@ engendered.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.९० श्रोत्रं त्वक्</summary>
 
 श्रोत्रं त्वक् चक्षुषी जिह्वा  
 नासिका चैव पञ्चमी ।  
@@ -180,8 +202,10 @@ engendered.
 
 श्रोत्रादीनि प्रसिद्धानि । अधिष्ठानभेदाच् **चक्षुषी** इति द्विवचनम् । अन्यत्र तदाधारायाः शक्तेर् एकत्वाद् एकवचनम् । **उपस्थः** शुक्रोत्सर्जनः पुंसो रजस्[^२८३] तदाधारश् च स्त्रियाः । द्वन्द्वनिर्दिष्टयोः प्राण्यङ्गत्वाद् एकवद्भावः (पाण् २.४.२) । **वाक्** ताल्वादिः[^२८४] शब्दाभिव्यञ्जकः शरीरावयववचनः । नामनिर्देशो ऽयम् ॥ २.९० ॥
 
+
 [^२८४]:
      M G: tālvādi
+
 
 [^२८३]:
      M G 1st ed.: javas
@@ -214,6 +238,16 @@ This verse is quoted (along with 92) in *Aparārka* (p. 982) as enumerating the 
 See Comparative notes for [Verse 2.89].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तेष्वेकादशसु श्रोत्रादीनि दशैतानि बहिरिन्द्रियाणि नामतो निर्दिष्टानि । पायूपस्थं हस्तपादमिति "द्वन्द्रश्च प्राणितूयसेनाङ्गानाम्" ( पा० सू० २-४-२ ) इति प्राण्यङ्गहन्दूत्वादेकवद्भावः ॥९०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तानि च **श्रोत्रम्** इति । **त्वक् **चर्म तात्स्थ्यात् । अत्र स्पर्शनेन्द्रियं **त्वक्** उच्यते । **चक्षुषी **इति अधिष्ठानभेदात् द्विवचनम् । **श्रोत्रा**दौ च तदादारशक्त्यैक्यालम्बनम् एकवचनम् । **पायुः** अपानम् **उपस्थः** लिङ्गम् । **वाक्** शब्दाभिव्यञ्जकशरीरैकदेशः ॥ २.९० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 090	(Viz.) the ear, the skin, the eyes, the tongue, and the nose as the fifth, the anus, the organ of generation, hands and feet, and the (organ of) speech, named as the tenth.
@@ -226,7 +260,7 @@ See Comparative notes for [Verse 2.89].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.९१ बुद्धीन्द्रियाणि</summary>
 
 बुद्धीन्द्रियाणि पञ्चैषां  
 श्रोत्रादीन्य् अनुपूर्वशः ।  
@@ -245,8 +279,10 @@ Of these the five beginning with the Ear in due order they call “Organs of Sen
 
 कार्यम् इदानीम् एषाम् आह स्वरूपावधारणार्थम् । न हि तानि प्रयक्षानि । बुद्धीन्द्रियाणि[^२८५] बुद्धेर् इन्द्रियाणि[^२८६] जनकानि कार्यकरणानि । कार्यकरणसंबन्धे षष्ठी । **श्रोत्रादीन्य् अनुपूर्वशः** । आदिशब्दस्य प्रकारार्थता मा विज्ञायीति । **अनुपूर्वशः** क्रमेणेत्य् अर्थः । क्रमश् च संनिवेशापेक्षो भवत्य् अतः पूर्वश्लोकोक्ता व्यवस्थाश्रीयते । **कर्मेन्द्रियाणि** । परिस्पन्दात्मकम् अत्र कर्म विवक्षितम् ॥ २.९१ ॥
 
+
 [^२८६]:
      M omits: buddher indriyāṇi
+
 
 [^२८५]:
      G omits: buddhīndriyāṇi
@@ -271,6 +307,16 @@ The author now proceeds to describe the functions of the organs, with a view to 
 See Comparative notes for [Verse 2.89].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषां दशानां मध्ये श्रोत्रादीनि पञ्च क्रमोक्तानि बुद्धः करणत्वाद् बुद्धीन्द्रियाणि, पाय्वादीनि चोत्सर्गादिकर्मकरणत्वात्कर्मेन्द्रियाणि तद्विदोवदन्ति ॥९१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**बुद्धीन्द्र्याणीति** । **एषां **मध्यात् **श्रोत्रा**दीनि क्रमेन **पञ्च** बुद्धेः शब्दादिविषयविज्ञानस्य जनकानि, **पण्च पाय्वा**दीनि विसर्गादिकर्मार्थानि मन्वादयः कथयन्तीति कार्यभेदात् वर्गद्वयविभागः ॥ २.९१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 091	Five of them, the ear and the rest according to their order, they call organs of sense, and five of them, the anus and the rest, organs of action.
@@ -283,7 +329,7 @@ See Comparative notes for [Verse 2.89].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.९२ एकादशं मनो</summary>
 
 एकादशं मनो ज्ञेयं  
 स्वगुणेनोभयात्मकम् ।  
@@ -301,6 +347,7 @@ The Mind is to be regarded as the eleventh, which, by its own quality, is of two
 <details><summary>मेधातिथिः</summary>
 
 एकादशसंख्यापूरकं **मन** इन्द्रियाणाम् । स्वो गुणो मनसः संकल्पः । तेनोभयं शुभम् अशुभं वा संकल्प्यते । अथ वा बुद्धीन्द्रियेषु कर्मेन्द्रियेषु स्वविषयप्रवृत्तौ संकल्पमूलत्वाद् **उभयात्मकम्** उच्यते । **यस्मिञ् जिते एतौ** बुद्धीन्द्रियवर्गः कर्मेन्द्रियवर्गश् च **पञ्चकौ** प्राक्प्रदर्शितपरिमाणौ **जितौ भतः** । तत्त्वाख्यानम् एतत्[^२८७] ॥ २.९२ ॥
+
 
 [^२८७]:
      M G omit: tattvākhyānam etat
@@ -325,6 +372,20 @@ This only describes a real fact.—(92)
 See Comparative notes for [Verse 2.89].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एकादशसंख्यापूरकं च मनोरूपमन्तरिन्द्रियै ज्ञातव्यम् । स्वगुणेन सँकल्परूपेणोभयरूपेन्द्रियगण-प्रवर्तकस्वरूपम् । अत एव यस्मिन्मनसिजिते उभावपि पञ्चकौ बुद्धीन्द्रियकमन्द्रियगणौ जितौ भवतः । पञ्चकाविति "तदस्य परिमाणम्” ( पा० सू० ५ /१ /५७ ) इत्यनुवृत्तौ
+
+“संख्यायाः संज्ञासङ्घसूत्राध्ययनेषु” ( पा०सू०५ / १ / ५८ ) इति पञ्चसंख्यापरिमितसङ्घार्थे कः॥१२॥
+
+मनोधर्मसंकल्पमुलत्वादिन्द्रियाणां प्रायेण प्रवृत्तेः किमर्थमिन्द्रियनिग्रहः कर्तव्यः ?
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकादशम्** इति । **मनः स्वगुणेन** सङ्कल्पाख्येन शुभाशुभस्वभावेन्**ओभरूपम्** अत्र्**ऐकादशं विज्ञेयम् । यस्मिन्** वशीकृते स्ति **एतौ **पञ्चपरिमाणौ वर्गौ वशीकृतौ **हवतः **मनोव्यापारमूलत्वाद् इन्द्रियप्रवृत्तेः ॥ २.९२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 092	Know that the internal organ (manas) is the eleventh, which by its quality belongs to both (sets); when that has been subdued, both those sets of five have been conquered.
@@ -337,7 +398,15 @@ See Comparative notes for [Verse 2.89].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+इत्यत आह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.९३ इन्द्रियाणाम्</summary>
 
 इन्द्रियाणां प्रसङ्गेन  
 दोषम् ऋच्छत्य् असंशयम् ।  
@@ -358,6 +427,7 @@ By attachment to the organs one incurs evil, without doubt; while by subjugating
      M G 1st ed.: niyacchati
 
 **प्रसङ्गस्** तत्परता । तेन हेतुभूतेन **दोषं**[^२८९] दृष्टम् अदृष्टं च **ऋच्छति** प्राप्नोति । नात्र संशयो निश्चितम् एतत् । **संनियम्य तानि** इन्द्रियाणि **ततः सिद्धिम्** अभिप्रेतार्थावाप्तिं श्रौतस्मार्तकर्मणाम् अनुष्ठानफलं निःशेषं **गच्छति** प्राप्नोति ॥ २.९३ ॥
+
 
 [^२८९]:
      M G omit: doṣaṃ
@@ -389,6 +459,34 @@ never attains Yoga; therefore the Yogin should make an effort to avoid addiction
 his teeth; but longing for life and longing for wealth never fade, even while the man is fading away. That which cannot be avoided by foolish-minded persons, that which does not fade even while the man is fading away, that which is a mortal disease,—such Desire when one renounces, then alone does he attain happiness.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मादिन्द्रियाणां विषयेषु प्रसक्त्या दृष्टादृष्टं च दोषं निःसंदेहं प्राप्नोति । तान्येव पुनरिन्द्रियाणि सम्यङ् नियम्य सिद्धिं मोक्षादिपुरुषार्थयोग्यतारूपां लभते । तस्मादिन्द्रियसंयमं कुर्यादिति शेषः ॥९३॥
+
+किमिन्द्रियसंयमेन विषयोपभोगादेरलब्धकामो निवत्स्यतीत्याशङ्क्याह—
+
+**न जातु कामः कामानामुपभोगेन शाम्यति ।**
+
+**हविषा कृष्णवर्त्मेवभूय एवाभिवर्धते ॥९४॥**
+
+न कदाचित्कामोऽभिलाषः काम्यन्त इति कामा विषयास्तेषामुपभोगेन निवर्तते, किंतु घृतेनाग्निरिवाधिकाधिकतममेव वर्धते, प्राप्तभोगस्यापि प्रतिदिनं तदधिकभोगवाञ्छादर्शनात् । अत एव विष्णुपुराणे ययातिवाक्यम्—
+
+**यत्पृथिव्यां व्रीहियवं हिरण्यं पशवः स्त्रियः ।**
+
+**एकस्यापि न पर्याप्तं तदित्यतितृषं त्यजेत् ॥**
+
+तथा—
+
+**पूर्णं वर्षसहस्रं मे विषयासक्तचेतसः ।**
+
+**तथाप्यनुदिनं तृष्णा ममैतेष्वेव जायते ॥९४॥**
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अधुना इन्द्रियसंयमप्रयोजनम् आह **इन्द्र्याणाम्** इति । **इन्द्रियाणां **विषयासक्त्या दृष्टादृष्टदोषं निश्चितं पुरुषः प्राप्नोति । **तान्य् एव संयम्य** पुनः दृष्टादृष्टार्थ**सिद्धिं **निश्चयेन प्राप्नोति ॥ २.९३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 093	Through the attachment of his organs (to sensual pleasure) a man doubtlessly will incur guilt; but if he keep them under complete control, he will obtain success (in gaining all his aims).
@@ -401,7 +499,7 @@ his teeth; but longing for life and longing for wealth never fade, even while th
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.९४ न जातु</summary>
 
 न जातु कामः कामानाम्  
 उपभोगेन शाम्यति ।  
@@ -458,6 +556,11 @@ This verso only describes the true state of things. It has been thus described�
 See Comparative notes for [Verse 2.93].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+अथोपभोगतृष्णया किम् इन्द्रियाणां विषयनिवृत्तिर् नोच्यते, किं सक्तिनिषेधेनोच्यते इत्य् अत आह **न जात्व्** इति । न कदाचिद् अभिलाषः काम्यमानानाम् अर्थानाम् **उपसेवनेन निवर्तते **। प्रत्य् उत आज्यादिनाग्निर् इवाधिकतरं वृद्धिम् एति ॥ २.९४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 094	Desire is never extinguished by the enjoyment of desired objects; it only grows stronger like a fire (fed) with clarified butter.
@@ -470,7 +573,7 @@ See Comparative notes for [Verse 2.93].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.९५ यश् चैतान्</summary>
 
 यश् चैतान् प्राप्नुयात् सर्वान्  
 यश् चैतान् केवलांस् त्यजेत् ।  
@@ -512,6 +615,32 @@ This verse is quoted in *Bālambhaṭṭi* (Vyāvahāra, p. 606).
 See Comparative notes for [Verse 2.93].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+य एतान्सर्वान्विषयान्प्राप्नुयाद्यश्चैतान्कामानुपेक्षते तयोर्विषयोपेक्षकः श्रेयान् । तस्मात्सर्वकामप्राप्तेस्तदुपेक्षा प्रशस्या ।तथा हि विषयलोलुपस्थ तत्साधनासुत्पादने कष्टसंभवो विपत्तौच कुशातिशयो, न तु विषयविरसस्य ॥९५॥
+
+इदानीमिन्द्रियसंयमोपायमाह—
+
+**न तथैतानि शक्यन्ते संनियन्तुमसेवया ।**
+
+**विषयेषु प्रजुष्टानि यथा ज्ञानेन नित्यशः ॥१६॥**
+
+एतानीन्द्रियाणि विषयेषु प्रसक्तानि तथा नासेवया विषयसन्निधिवर्जनरूपया नियन्तुं न शक्यन्ते, दुर्निवारत्वात् । यथा सर्वदा विषयाणां क्षयित्वादिदोषज्ञानेन शरीरस्य चास्थिस्थूलमित्यादिवक्ष्यमाणदोषचिन्तनेन । तस्माद्विषयदोषज्ञानादिना बहिरिन्द्रियाणि मनश्च नियच्छेत् ॥९६॥
+
+यस्मादनियमितं मनो विकारस्य हेतुः स्यादत आह—
+
+**वेदास्त्यागश्च यज्ञाश्च नियमाश्च तपांसि च ।**
+
+**न विप्रदुष्टभावस्य सिद्धिं गच्छन्ति कर्हिचित् ॥९७॥**
+
+वेदाध्ययनदानयज्ञनियमतपांसि, भोगादिविषयसेवासंकल्पशीलिनो न कदाचित्फलसिद्धये प्रभवन्ति ॥९७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं च **य** इति । **यः **कामान् सकलान् सेवेत **यो **वा **केवलान्** अनुपभुक्त्वैव **त्यजेत्** तयोः सर्वकामोपभोगाद् अपि **परित्यागो विशिष्यते **। यस्माद् उपभुक्तपूर्वेष्व् अपि असति चित्तसंयमे पुनर् उपभोगेच्छा जायते । तदसम्पत्तौ चावश्यम्भावि दुःखम्, तस्मान् मूलत एव तृष्णात्यागो वरः ॥ २.९५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 095	If one man should obtain all those (sensual enjoyments) and another should renounce them all, the renunciation of all pleasure is far better than the attainment of them.
@@ -524,7 +653,7 @@ See Comparative notes for [Verse 2.93].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.९६ न तथैतानि</summary>
 
 न तथैतानि शक्यन्ते  
 सन्नियन्तुम् असेवया ।  
@@ -546,26 +675,34 @@ These (organs), being contaminated with objects, are not capable of being subjug
 
 यद्य् एवम् अरण्यवास एव तर्हि प्राप्ते,[^२९१] न हि तत्र विषया संनिधीयन्ते । असंनिहिताश् च न सेविष्यन्ते । तदर्थम् आह- नासेवया इन्द्रियाणि नियन्तव्यानीति । निःसुखः स्यात् । अथ च स्मरन्ति- "न[^२९२] पूर्वाह्णमधंदिनापराह्णान् अफलान् कुर्याद् यथाशक्तिधर्मार्थकामेभ्यः" (ग्ध् ९.४६) । न च शरीरधारणम् असेवया भवति । किं तु गर्द्धनिषेधो ऽयम् उच्यते । स च गर्द्धः सत्याम् अपि सेवयां[^२९३] **ज्ञानेन** विषयगतदोषज्ञानेन "अस्थिस्थूणं स्नायुयुतम्"[^२९४] (म्ध् ६.७६) इत्यादिशास्त्रोक्तेन, स्वसंविदा च विपाकविरसतया । किं विपाकफलम् एवादिदोषभावनया वैराग्याभ्यासेन[^२९५] क्रमेण स्पृहा निवर्तते । न तु सहसैव त्यक्तुं शक्यते । किं तु **नित्यशः** नित्यकालम् । ज्ञानविशेषणम् एतत् । **प्रदुष्टानि** प्रवृत्तानि । दोषत्वात् प्रवृत्तान्य् एव प्रदुष्टान्य्[^२९६] उच्यन्ते[^२९७] । अयं शस्[^२९८] तत्र तत्र, नित्यशः अनुपूर्वशः सर्वशः पूर्वश इति, व्यासमनुप्रभृतिभिर् महामुनिभिः प्रयुज्यते । तस्य साधुत्वे यत्नः कर्तव्यः । तत्र शस्विधौ "एकवचनाच् च वीप्सायाम्" (पाण् ५.४.४३) इति पठ्यते । तत्र वीप्सार्थः कथंचित् द्योतयितव्यः । अन्ये तु शसस् तिष्ठत्यर्थस्य क्विपि रूपं वर्णयन्ति । क्रियाविशेषणं चैतत् नपुंसकम् । नित्यस्थितेन ज्ञानेनेत्य् अर्थः ॥ २.९६ ॥
 
+
 [^२९८]:
      M G: ayam aṃśas
+
 
 [^२९७]:
      M G: ucyate
 
+
 [^२९६]:
      M G: praduṣṭāny eva pravṛttāny
+
 
 [^२९५]:
      G 2nd ed. adds: satāpi
 
+
 [^२९४]:
      M G: asthisthūṇāsnāyuyutam
+
 
 [^२९३]:
      M G 1st ed.: satyāpi sevayā
 
+
 [^२९२]:
      The readings here are quite confused. I follow Jha. M G 1st ed.: tadartham āha: na sevayā indriyāṇi niyantavyānīti | athocyate | niḥsukhaḥ syād iti hi smaranti | asaṃnihitāś ca na seviṣyante | tadartham āha | nāsevayā indriyāṇi niyantavyānīti; G 2nd ed.: tadartham āha: nāsevayā indriyāṇi niyantavyānīti | athocyate | niḥsukhaḥ syād iti hi smaranti |
+
 
 [^२९१]:
      J: prāptam |
@@ -597,6 +734,11 @@ This verse is quoted in *Bālambhaṭṭi* (Vyāvahāra, p. 606).
 is disgusted with birth, with death and with mental and physical ailments. The impurity of the body, the reversal of pleasure and pain, residence in the womb,—from all this one becomes freed.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+एवं तर्हि विषयशून्यदेहावस्थानमात्र उपाय इत्य् अत आह **नेति **। **एतानी**न्दिर्याणि विषयासक्त्या प्रक्ष्टदोषजनकानि **न तथा** रूपादिविषयानुपभोगेन **सम्यक् नियन्तुं शक्यन्ते यथा** विषयगतदोषभावना**विज्ञानेन **नित्यकालं नियन्तुं पार्यते ॥ २.९६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 096	Those (organs) which are strongly attached to sensual pleasures, cannot so effectually be restrained by abstinence (from enjoyments) as by a constant (pursuit of true) knowledge.
@@ -609,7 +751,7 @@ is disgusted with birth, with death and with mental and physical ailments. The i
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.९७ वेदास् त्यागश्</summary>
 
 वेदास् त्यागश् च यज्ञाश् च  
 नियमाश् च तपांसि च ।  
@@ -622,6 +764,11 @@ is disgusted with birth, with death and with mental and physical ailments. The i
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Vedas, Renunciation, Sacrifices, Restraints and Austerities never attain fulfilment for one whose disposition is vitiated.—(97)
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वेदा** इति । जपदानस्नानयागादिकृच्छ्रादीनि दुष्टचित्तस्य न कदाचित् सम्पन्नानि भवन्तीति ॥ २.९७ ॥
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -687,7 +834,15 @@ observances;—transgression thereof leads to the trickling away of Knowledge an
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+जितेन्द्रियस्य स्वरूपमाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.९८ श्रुत्वा</summary>
 
 श्रुत्वा स्पृष्ट्वा च दृष्ट्वा च  
 भुक्त्वा घ्रात्वा च यो नरः ।  
@@ -711,8 +866,6 @@ That man is to be known as having subjugated his sense-organs, who, on having he
 
 [^२९९]:
      M G 1st ed.: bhajati
-
-_<u>ननु</u> च ब्रह्मचारिणा स्त्रीसंबन्धो यत्नेन वर्ज्यः, संस्कृतभिक्षालाभस् तु किम् इति निषिध्यते । अत आह_ ।[^३०१]
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -748,6 +901,32 @@ meeting with happiness, neither rejoices nbr‘is grieved, his wisdom is firm.�
 nor should he become ruffled on coming by unhappiness; he whose mind is firm, never deluded, he knows Brahman, and rests in Brahman.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्तुतिवाक्यं निन्दावाक्यं च श्रुत्वा, सुखस्पर्शं दुकूलादि दुःखस्पर्श मेषकम्बलादि स्पृष्ट्वा, सुरूपं कुरूपं च दृष्ट्वा, स्वादु अस्वादु च भुक्त्वा, सुरभिमसुरभिं च घ्रात्वा यस्य न हर्षविषादौ, स जितेन्द्रियो ज्ञातव्यः ॥९८॥
+
+एकेन्द्रियासंयमोऽपि निवार्यत इत्याह—
+
+**इन्द्रियाणां तु सर्वेषां यद्येकं क्षरतीन्द्रियम् ।**
+
+**तेनास्य क्षरति प्रज्ञा दृतेः पादादिवोदकम् ॥९९॥**
+
+सर्वेषामिन्द्रियाणां मध्ये यद्येकमपीन्द्रियं विषयप्रवणंभवति, ततोऽस्य विषयपरस्य इन्द्रियान्तरैरपि तत्त्वज्ञानं क्षरति न व्यवतिष्ठते । चर्मनिर्मितोदकपात्रादिव केनापि च्छिद्रेण सर्वस्थानस्थमेवोदकं न व्यवतिष्ठते ॥९९॥
+
+इन्द्रियसंयमस्य सर्वपुरुषार्थहेतुतां दर्शयति—
+
+**वशे कृत्वेन्द्रियग्रामं संयम्य च मनस्तथा ।**
+
+**सर्वान्संसाधयेदर्थानक्षिण्वन्योगतस्तनुम् ॥१००॥**
+
+बहिरिन्द्रियगणमायत्तं कृत्वा मनश्च संयम्य सर्वान् पुरुषार्थान्सम्यक्साधयेत् ।योगत उपायेन स्वदेहमपीडयन् यः सहजसुखी संस्कृतान्नादिकं भुङ्क्तेस क्रमेण तं त्यजेत् ॥१००॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्रुत्वेति** । यश् श्रोत्रत्वक्चक्षुर्नासिकेनेष्टान् शब्दस्पर्शरसरूपगन्धान् उपलभ्य न हर्षम् उपैति, कुत्सितांश् चोपलभ्य न ग्लानिम् एति, **स जितेन्द्रियो **बोद्धव्यः ॥ २.९८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 098	That man may be considered to have (really) subdued his organs, who on hearing and touching and seeing, on tasting and smelling (anything) neither rejoices nor repines.
@@ -760,7 +939,15 @@ nor should he become ruffled on coming by unhappiness; he whose mind is firm, ne
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_<u>ननु</u> च ब्रह्मचारिणा स्त्रीसंबन्धो यत्नेन वर्ज्यः, संस्कृतभिक्षालाभस् तु किम् इति निषिध्यते । अत आह_ ।[^३०१]
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - २.९९ इन्द्रियाणां तु</summary>
 
 इन्द्रियाणां तु सर्वेषां  
 यद्य् एकं क्षरतीन्द्रियम् ।  
@@ -809,6 +996,11 @@ organs get beyond control,—like vicious horses under the charioteer.’
 roaming senses, it deprives him of his wisdom, and it is lost like the boat at sea.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+सकलेन्द्रियविषयस्य संयमे यत्नः कार्यः यस्मात् **इन्द्रियाणाम्** इति । **इन्द्रियाणां** मध्यात् यदि पुनः **एकम् अपीन्द्रियं** यथेच्छं स्वविषये प्रवर्तते तदा स्वेन्द्रियान्तरसंयमविज्ञानम् अपि नश्यति यथा उदकपरिपूर्णाच् चर्मणः एकपादानावरणात् सर्वम् अम्भो निस्ःसरति ॥ २.९९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 099	But when one among all the organs slips away (from control), thereby (man's) wisdom slips away from him, even as the water (flows) through the one (open) foot of a (water-carrier's) skin.
@@ -821,7 +1013,7 @@ roaming senses, it deprives him of his wisdom, and it is lost like the boat at s
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २.१०० वशे</summary>
 
 वशे कृत्वेन्द्रियग्रामं  
 संयम्य च मनस् तथा ।  
@@ -840,17 +1032,22 @@ Having brought the host of organs under control, and having also subdued the min
 
 उपसंहरति । सत्य् अपीन्द्रियत्वे मनसः प्राधान्यात् पृथग् उपादानम् । **ग्रामः** संघातः । विधेयीकृत्येन्द्रियाणि[^३०२] तथा मनः । **सर्वान् अर्थाञ्** श्रौतस्मार्तकर्मसाध्यान् **संसाधयेन्** निष्पादयेत् । **तनुं** शरीरम् **अक्षिण्वन्न्** अपीडयन् । **योगतः** युक्त्या । सहसा कस्यचित् कठिनासनकृष्णाजिनादिप्रावरणात्[^३०३] पीडा भवति सुकुमारप्रकृतेः[^३०४] । तदर्थम् इदम् उच्यते । येषां सुशीलितं सुसंस्कृतं भोजनं मृदुशय्यादि, न तैः सहसा तत् त्यक्तव्यम् अपि तु क्रमेण सात्म्यताम् आनेतव्यं तद्विपरीतम् । योगः क्रमेण प्रवृत्तिर् उच्यते । तत्र च योगतो **वशे कृत्वेति**[^३०५] संबन्धः । यथास्थानम् एव वा **योगत** इति योजनीयम् । युक्त्या औचित्यतः शरीरं नापनयेत् । यद् उचितं शरीरस्य न तज् झट् इति निवर्तयेत् । तात्पर्यं वा योगः[^३०६] । तृतीयर्थे तसिः । तात्पर्येण शरीरं रक्षेत् ॥ २.१०० ॥
 
+
 [^३०६]:
      M G 1st ed. add: tṛtīyāyogaḥ
+
 
 [^३०५]:
      M G: vaśīkṛtveti
 
+
 [^३०४]:
      M G: sukumāratvāt prakṛtes
 
+
 [^३०३]:
      M G: -prāvaraṇa
+
 
 [^३०२]:
      M G 1st ed.: vidhehi kṛtyendriyāṇi
@@ -899,6 +1096,11 @@ characteristic of Dharma; Yoga is ever the highest penance; therefore one should
 
 *Bhagavadgītā* (5. 28).—‘The wise man, having his senses, Manas and
 Buddhi under control, having his heart fixed upon Liberation, with all his desires, fear and auger gone,—is ever free.’
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवम् असञ्जितेन्द्रियस्य मनस्कस्य न वेदादिसिद्धिः तस्मात् **वश** इति । शक्त्या शरीरम् अपीडयन् इन्द्रियसमूहं विजित्य **मनश् च **नियम्य **सर्वान् **वेदाधिगमादीन्** अर्थान्** सम्पादयेत् ॥ २.११० ॥
 </details>
 
 <details><summary>Bühler</summary>

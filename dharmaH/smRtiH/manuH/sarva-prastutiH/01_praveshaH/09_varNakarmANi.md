@@ -2,7 +2,7 @@
 title = "०९ वर्णकर्माणि"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.८७ सर्वस्याऽस्य तु</summary>
 
 सर्वस्याऽस्य तु सर्गस्य  
 गुप्त्य्-अर्थं स महा-द्युतिः ।  
@@ -31,6 +31,11 @@ The divisions of time have been described. The qualifications of the Brāhmaṇa
 ‘*Of this entire creation*,’—*i.e*., of all beings,—‘*with a view to the protection*’—for the purpose of their safety;—the Resplendent One, Prajāpati,—‘*ordained*,’—distributed—‘*the functions*,’—*i.e*., actions, leading to perceptible as well as imperceptible results,—of the Brāhmaṇa and other castes, that sprang from his mouth and other limbs. (87).
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**सर्वस्येति **। स महादीप्तिर् ब्रह्मा **अस्य सर्वस्य** जगतः “अग्नौ प्रास्ताहुतिः” इत्यादिन्यायेन रक्षार्थं **मुखा**दिजातानां ब्राह्मणादीनां **पृथक्** पृथक् **कर्माणि **अदृष्टार्थानि वृत्त्यर्थानि च कल्पितवान् । एतानि सृष्टिशेषत्वेनेहाभिधीयन्ते । तथा च **सर्वस्यास्य तु सर्गस्य गुप्त्यर्थम्** इत्य् उक्तम् । विधिस् त्व् एषाम् अस्यार्थवादप्रकरणत्वाद् उत्तरत्र भविष्यति ॥ १.८७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 087	But in order to protect this universe He, the most resplendent one, assigned separate (duties and) occupations to those who sprang from his mouth, arms, thighs, and feet.
@@ -43,7 +48,7 @@ The divisions of time have been described. The qualifications of the Brāhmaṇa
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.८८ अध्यापनम्</summary>
 
 अध्यापनम् अध्ययनं  
 यजनं याजनं तथा ।  
@@ -68,6 +73,11 @@ For the Brāhmaṇas he ordained teaching, studying, sacrificing and officiating
 The said ‘functions’ are now described. (88).
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+तत्र **अध्यापनम् **इति । **अध्ययनाध्यापने **साङ्गवेदस्मृतीनां पठनप्रवचने । **यजनयाजने **यागार्त्विज्ये । अन्नोदकानि [दत्वा] यथाशक्त्या प्राणिनाम् अर्त्यपहरणं दानम् । साधुतः प्रतिग्रहं **ब्राह्मणानां **कल्पितवान् ॥ १.८८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 088	To Brahmanas he assigned teaching and studying (the Veda), sacrificing for their own benefit and for others, giving and accepting (of alms).
@@ -75,7 +85,7 @@ The said ‘functions’ are now described. (88).
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.८९ प्रजानां रक्षणम्</summary>
 
 प्रजानां रक्षणं दानम्  
 इज्याध्ययनम् एव च ।  
@@ -97,6 +107,7 @@ For the Kṣatriya he ordained protecting of the people, giving of gifts, sacrif
 
 विषया अभिलाषजनका[^१४२] गीतशब्दादयो भावा उच्यन्ते । तत्राप्रसङ्गः पुनः पुनर् असेवनम् ॥ १.८९ ॥
 
+
 [^१४२]:
      M G J: viṣayābhilāṣajanakā (I follow DK 5: 1154)
 </details>
@@ -111,6 +122,11 @@ What are referred to here are such things as Musical Sounds and the like which t
 This verse is quoted in the Vīramitrodaya—Paribhāṣā, p. 45, which reads ‘*saktim*’, and explains ‘*viṣayeṣu aprasaktim*’ as ‘control, of the senses;’ and in the *Nṛsiṃhaprasāda*, *Saṃskāra*, p. 73*b*.
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**प्रजानाम्** इति । **इज्या** यागः । **विषयेषु **स्त्र्यादिगतरूपादिषु । अत्यन्तम् एव परिहारः । **समासतः **सङ्क्षेपेण ॥ १.८९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 089	The Kshatriya he commanded to protect the people, to bestow gifts, to offer sacrifices, to study (the Veda), and to abstain from attaching himself to sensual pleasures;
@@ -118,7 +134,7 @@ This verse is quoted in the Vīramitrodaya—Paribhāṣā, p. 45, which reads �
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.९० पशूनां रक्षणम्</summary>
 
 पशूनां रक्षणं दानम्  
 इज्याध्ययनम् एव च ।  
@@ -150,6 +166,11 @@ For the Vaiśya, tending of cattle, giving of gifts, sacrificing and studying; a
 This verse is quoted in *Parāśara-mādhava* (Ācāra, p. 416), in support of *Parāśara*, verse 63;—and in the *Vīramitrodaya*—*Paribhāṣā* (p. 45), which explains ‘*Vaṇikpatham*’ as ‘trade’ and ‘*Kusīdam*’ as ‘lending money on interest’.
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**वणिक्पथं** स्थपथवारिपथादिना वाणिज्यायै गमनम् । **कुसीदं **वृद्ध्यर्थं धनप्रयोगः ॥ १.९० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 090	The Vaisya to tend cattle, to bestow gifts, to offer sacrifices, to study (the Veda), to trade, to lend money, and to cultivate land.
@@ -157,7 +178,7 @@ This verse is quoted in *Parāśara-mādhava* (Ācāra, p. 416), in support of *
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १.९१ एकम् एव</summary>
 
 एकम् एव तु शूद्रस्य  
 प्रभुः कर्म समादिशत् ।  
@@ -191,6 +212,11 @@ the classification of sacrifices and other acts (as to which of these should be 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 This verse is quoted in the *Vīramitrodaya* — *Paribhāṣā*, p. 45;—and in the *Varṣakriyākaumudī* (p. 568), which explains ‘*Prabhuḥ*,’ ‘as Brahmā,’ and ‘*Anasūyayā*’ as ‘without dishonesty.’
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकम्** इति । स **प्रभुः **अनिन्दया ब्राह्मणादिपरिचरणं **कर्मा**दिष्टवान् ॥ १.९१ ॥
 </details>
 
 <details><summary>Bühler</summary>

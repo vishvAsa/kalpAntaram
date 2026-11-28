@@ -2,7 +2,7 @@
 title = "१२ स्वातन्त्र्यम्"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१५९ यद् यत्</summary>
 
 यद् यत् **पर-वशं** कर्म  
 तत् तद् यत्नेन **वर्जयेत्** ।  
@@ -21,8 +21,10 @@ He shall carefully avoid every such act as is dependent upon others; such acts a
 
 यत् परप्रार्थनया स्वपरहितादि क्रियते तत् **परवशं** वर्ज्यते, न तु यद् वृत्तिसाध्यम् आर्त्विज्यादि । तद् धि **स्ववशम्** एव । तद्विषयकम् एव भृत्यादि स्वीक्रियते । न चानेन परवशम् अपि दीक्षितस्य निषिध्यते, स्मृत्या श्रुतिं बाधितुम् अन्याय्यत्वात्, उक्ते च विषये सावकाशत्वात् स्मृतेः । यत् त्व् आत्मनो वश्यम्, स्वल्पया धनमात्रया परोपकारः स्वल्पो ऽपि, स्वयं तत् कर्म कुर्यत्[^२२२] । नित्यकर्मासंपत्तौ कुटुम्बोपयोगिनि धने ऽसति कर्तव्यैव याच्ञा, उपायान्तराभावे । किं तु[^२२३] "विशेषतो यक्ष्ये", "विशेषतो दास्ये" इति । सत्यां कस्यांचिद् धनमात्रायां संतोषपरेण भवितव्यम् इत्य् एवम् अस्य तात्पर्यम् ॥ ४.१५९ ॥
 
+
 [^२२३]:
      DK (5: 614) suggests: na tu
+
 
 [^२२२]:
      M G 1st ed. places the phrase yat tv ātmano . . . karma kuryāt after bhṛtyādi svīkriyate; DK (5: 614): svalpo 'pi taṃ svayam eva kuryāt
@@ -44,6 +46,17 @@ In the event of one’s inability to perfom (perform?) one’s obligatory duties
 This verse is quoted in *Aparārka* (p. 224);—and in *Madanapārijāta* (p. 14).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यद्यत्कर्म पराधीनं परप्रार्थनाऽऽदिसाध्यं तत्तद्यत्नतो वर्जयेत् । यद्यत्स्वाधीनदेहव्यापारसाध्यं परमात्मग्रहादि तत्तद्यत्नतोऽनुतिष्ठेत्
+॥१५९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यद् यत् परवशम्** इति । **यद् यत् **परायत्तम् अयाचितलाभादिना विशेषदानादि **कर्म तत् तद् **यत्नतो **वर्जयेत् । यद् यत्** पुनर् आत्माधीनं स्वधनलेशेनापि केनचित् स्वलाभपरोपकारादिना **तत् तत् **यत्नेन अभ्यसेत् ॥ ४.१५९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 159	Let him carefully avoid all undertakings (the success of) which depends on others; but let him eagerly pursue that (the accomplishment of) which depends on himself.
@@ -56,7 +69,15 @@ This verse is quoted in *Aparārka* (p. 224);—and in *Madanapārijāta* (p. 14
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+अत्र हेतुमाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१६० सर्वं परवशम्</summary>
 
 सर्वं पर-वशं दुःखं  
 सर्वम् आत्म-वशं सुखम् ।  
@@ -96,6 +117,16 @@ This verse deprecates begging.
 This verse is quoted in *Madanapārijāta* (p. 14);—and in *Aparārka* (p. 224).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वं पर प्रार्थनाऽऽदिसाध्यं दुःखहेतुः । सर्वमात्माधीनं सुखहेतुः । एतत्सुखदुःखयोः कारण जानीयात् ॥१६०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यस्मात् **सर्वम्** इति । यत् परप्रार्थनादिसंसाध्यं तत् सर्वं दुःखहेतु । यच् चात्मैकसाधनं तत् सर्वं सुखनिमित्तम् इत्य् एतत् सङ्क्षेपतः **सुखदुःखलक्षणं **जानीयात् ॥ ४.१६० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 160	Everything that depends on others (gives) pain, everything that depends on oneself (gives) pleasure; know that this is the short definition of pleasure and pain.
@@ -108,7 +139,7 @@ This verse is quoted in *Madanapārijāta* (p. 14);—and in *Aparārka* (p. 224
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१६१ यत् कर्म</summary>
 
 यत् कर्म **कुर्वतो** ऽस्य स्यात्  
 **परितोषो** ऽन्तर्-आत्मनः ।  
@@ -138,6 +169,16 @@ While an act is being performed, if there arises in the mind no sort of doubt or
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 This verse is quoted in *Aparārka* (p. 224), which explains ‘*Karma*’ as ‘*Dharma*’;—in *Parāśaramādhava* (Ācāra, p. 524);—in *Madanapārijāta* (p. 14), which adds that the ‘act’ here mentioned must be such as is not incompatible with the teachings of scriptures; though even in regard to such acts, there are exceptions; *e.g*., even though an act may have been enjoined by the scriptures, it should not be done if it is against popular opinion;—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 71b).
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+यत्कर्म कुर्वतोऽस्यानुष्ठांतुः पुरुषस्यान्तरात्मनस्तुष्टिः स्यात्तत्प्रयत्नतोऽनुष्ठेयम् । अतुष्टिकरं वर्जयेत् । एतच्चाविहितानिषिद्धगोचरं वैकल्पिकविषयं च ॥१६१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अशिष्टाप्रतिषिद्धं वैकल्पिकं वा । **यत् कर्मेति । यत् कर्म** अनुतिष्ठतः पुंसो ऽ**न्तरामनः** **परितोषो **भवति **तत् **यत्नतः **कुर्वीत** । आत्मतुष्टिकरं पुनर् **वर्जयेत् **॥ ४.१६१ ॥
 </details>
 
 <details><summary>Bühler</summary>

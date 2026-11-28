@@ -1,7 +1,7 @@
 +++
 title = "११ भोजनक्रमः"
 +++
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.११३ इतरान् अपि</summary>
 
 इतरान् अपि सख्य्-आदीन्  
 सम्प्रीत्या गृहम् आगतान् ।  
@@ -19,6 +19,7 @@ Others also, friends and the rest, that may come to his house out of affection, 
 <details><summary>मेधातिथिः</summary>
 
 **सखा** मित्रं स **आदिर्** येषाम् । **आदि**शब्दः प्रकारे ज्ञातिबन्धुसंगतसहाध्यायिप्रभृतीन् गृह्णाति, गुरुवर्जम् । **संप्रीत्यागतान्** । अतिथेर् धर्मस्य प्रकृतत्वान् निषेधार्थं संप्रीतिग्रहणम् । तान् **भोजयेत्** । **प्रकृत्य** प्रकर्षेणान्नं कृत्वा संस्कृत्य । **यथाशक्तीति** उपलक्षणार्थः शक्तिशब्दः । यावती शक्तिर् यादृशं च यो ऽर्हति तम् उद्दिश्य तादृश एव संस्कारः कर्तव्यः । **भार्यया सह** । यो भर्तुर् भोजनकालः स एव भार्याया अपि, पृथक् तस्या भोजनकालस्याभावात् । एवं ह्य् उक्तम् "अवशिष्टं तु दम्पती" इति (म्ध् ३.१०६) । महाभारते पत्युर् ऊर्ध्वं भार्याया भोजनं दर्शितम् । द्रौपदीसत्यभामासंवादे (म्भ् ३.२२२) द्रौपद्या स्त्रीधर्मान् कथयन्त्योक्तम्- "सर्वेषु पतिषु भुक्तवत्सु शेषान्नम् अश्नामि" । पतिशेषान्नभोजनं स्त्रीणां धर्मः । तस्मान् न भार्याभोजनकाले सख्यादीनां भोजनं विधीयते । नाप्य् एकपात्राशनं **सहा**र्थः । किं तर्हि नैकाकिनस् ते भोजयितव्याः । अपि तु भार्यापि तत्र भुञ्जीत । ततश् च "अवशिष्टं तु दम्पती" (म्ध् ३.१०६) इति तद् अत्र बाध्यते । यदि पत्युः कश्चिद् अभ्यर्हितः प्रतीक्ष्यः स्याद् अरुच्या वा[^१८५] न भुञ्जीत, तदा भार्या तद्देशे भुञ्जीत । एवं सौहार्दं प्रकाशितं भविष्यति ॥ ३.१०३ ॥
+
 
 [^१८५]:
      M G: anyo vā
@@ -55,6 +56,16 @@ This verse is quoted without comment in *Parāśaramādhava* (Ācāra, p. 394);�
 may arrive at the time.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उक्तभोजनकाले क्षत्रियादिव्यतिरिक्तान्सखिसहाध्यायिप्रभृतोन्सम्प्रोत्या गृहमागतान् न त्वतिथिभावेन, तस्य प्रतिषेधात् । यथाशक्ति प्रकृष्टमन्नं कृत्वा भार्याया भोजनकाले भोजयेत् । गृहस्थस्यापि स एव भोजनकालः, “अवशिष्टं तु दम्पती" ( म. स्मृ. ३ / ११६ ) इति चक्ष्यमाणत्वात् । आत्मना सहेति वक्तव्ये वचनत्रैवित्रीयमाचार्यस्य ।गुरोस्तु भोजनकालानभिधानं प्रभुत्वेन स्वाधीनकालत्वात् ॥११३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**इतरान्** इति । उक्तक्षत्रियादिव्यतिरिक्तान् सखिबन्धुसहाध्यायिप्रभृतीन् **प्रीत्या** हेतुभूतया **गृहम् आगतान् अन्नं यथाशक्ति **संस्कृत्य भार्या भोजनकाले **भोजयेत् **। आत्मनो ऽपि कालः “अवशिष्टं तु दम्पती” इति वक्ष्यमाणत्वात् । गुरोस् तु कालान्वभिधानप्रभुत्वेन स्वायत्तकालत्वात् ॥ ३.११३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 113	Even to others, personal friends and so forth, who have come to his house out of affection, he may give food, garnished (with seasoning) according to his ability, (at the same time) with his wife.
@@ -67,7 +78,7 @@ may arrive at the time.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.११४ सुवासिनीः</summary>
 
 सुवासिनीः कुमारीश् च  
 रोगिणो गर्भिणीः स्त्रियः ।  
@@ -89,8 +100,10 @@ Newly married girls, maidens, sick persons and pregnant women,—these he should
 
 सुवासिन्यो[^१८८] वध्वो नवोढा स्त्रियः स्नुषा दुहितरश् च । <u>अन्ये</u> तु "जीवच्छ्वशुरा जीवत्पितृकाश् च प्रसूता अपि सुवासिन्य[^१८९] उच्यन्ते" इत्य् आहुः । **अतिथिभ्यो ऽन्वग् एवैतान्** अनुगतान् एव भोजयेत् । प्रारब्धभोजनेष्व् एवातिथिषु तत्समकालं भोजयेत् । <u>अन्ये</u> त्व् "अग्र" इति पठन्ति । **अविचारयन्** । कथम् अतिथिष्व् अभोजितेषु बाला भुञ्जत इत्य् एवं विचिक्त्सा न कर्तव्या ॥ ३.१०४ ॥
 
+
 [^१८९]:
      G: svavāsinya
+
 
 [^१८८]:
      G: svavāsinyo
@@ -143,6 +156,16 @@ shall feed the newly married girls, the sick, the pregnant women, the old and th
 relations, paternal and maternal, and also persons seeking for food, he shall feed the young and old and the sick.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सुवासिन्यो नवोढाः स्त्रियः स्नुषा दुहितरश्च ताः, कुमारी रोगिणो गर्भिणीश्चातिथिभ्योऽग्रे पूर्वमेवातिथिभ्यो भोजयेत् । कथमतिथिष्वभोजितेषु भोजनमेषामिति विचारमकुर्वन् । (१) मेधातिथिस्त्वन्वगेवेति पठित्वाऽनुगतानेवैतान्भोजयेदतिथिसमकालमिति व्याख्याय अन्ये तु अग्र इति पठन्तीत्युक्तवान् ॥११४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सुवासिनीर्** इति । जीवच्छ्वशुरपितृकाः स्त्रियः **कुमार्य्**आतुर**गर्भिणीश् च **अतिथ्यनुगतान् एवाविलम्बमानो **भोजयेत् **अग्रत एव (इति) पाठे अतिथिभ्यः पूर्वम् एव ॥ ३.११४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 114	Without hesitation he may give food, even before his guests, to the following persons, (viz.) to newly-married women, to infants, to the sick, and to pregnant women.
@@ -159,7 +182,7 @@ relations, paternal and maternal, and also persons seeking for food, he shall fe
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.११५ अदत्त्वा तु</summary>
 
 अदत्त्वा तु य एतेभ्यः  
 पूर्वं भुङ्क्ते ऽविचक्षणः ।  
@@ -207,6 +230,17 @@ the Food:—If one eats rice without offering rice to the Pitṛs, the gods, dep
 been fed, he eats sin, and after death, he goes to hell and is born as a feeder on phlegm.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतेभ्योऽतिथ्यादिभृत्यपर्यन्तेभ्योऽन्नमदत्त्वा व्यतिक्रमभोजनदोषमजानन् यः पूर्वं भुङ्क्ते स मरणानन्तरं वगृतध्रैरात्मनो भक्षणं न जानाति । व्यतिक्रमस्येदं फलमिति वचनवै-  
+दध्येनोक्तम् ॥११५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अदत्वेति** । **एतेभ्यो** भृत्यपर्यन्तेभ्य अतिथिभ्यो **ऽदत्वा **यो व्यतिक्रमदोषानभिज्ञः **पूर्वं भुङ्क्ते स भुञ्जानः** एतत् फलभूतं मरणसमन्तरप्राप्तम् आत्मनः **श्वगृध्र**खादनं **न जानाति** ॥ ३.११५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 115	But the foolish man who eats first without having given food to these (persons) does, while he crams, not know that (after death) he himself will be devoured by dogs and vultures.
@@ -219,7 +253,7 @@ been fed, he eats sin, and after death, he goes to hell and is born as a feeder 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.११६ भुक्तवत्स्व् अथ</summary>
 
 भुक्तवत्स्व् अथ विप्रेषु  
 स्वेषु भृत्येषु चैव हि ।  
@@ -238,11 +272,14 @@ After the Brāhmaṇas, his own people and servants have dined,—the husband an
 
 **विप्रा** अतिथयः, **स्वा** ज्ञात्यादयः[^१९०] । तेषु कृतभोजनेषु तद्**अवशिष्टं दम्पती** जायापती अश्नीयाताम् । **पश्चात्** कदाचित् तेभ्यः कल्पयित्वा शिष्टव्यपदेशे सत्य् आदौ भोजनं स्यात् तदर्थम् उक्तं पश्चाद् इति । दम्पत्योर् भोजनकालविधानर्थम् इदम्[^१९१] । आद्यो ऽर्धश्लोको[^१९२] ऽनुवादः ॥ ३.१०६ ॥
 
+
 [^१९२]:
      M: ardhaśloko; G 1st ed: asyārdhaśloko — for ādyo 'rdhaśloko
 
+
 [^१९१]:
      M G 1st ed. omit: idam
+
 
 [^१९०]:
      M G: jātyādayaḥ
@@ -278,6 +315,16 @@ after the guests and dependents have been fed.’
 rest.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विप्रेष्वतिथिषु, स्त्रेषु ज्ञातिषु, भृत्येषु दासादिषु कृतभोजनेषु ततोऽन्नादवशिष्टं भार्यापती पश्चादश्नीयाताम् ॥११६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भुक्तवत्स्व्** इति । अतिथ्यादिज्ञातिसम्बन्धेषु दासेषु कृतभोजनेषु ततो ऽन्नावशिष्टं जायापती पश्चाद् अश्नीयाताम् ॥ ३.११६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 116	After the Brahmanas, the kinsmen, and the servants have dined, the householder and his wife may afterwards eat what remains.
@@ -290,7 +337,7 @@ rest.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.११७ देवान् ऋषीन्</summary>
 
 देवान् ऋषीन् मनुष्यांश् च  
 पितॄन् गृह्याश् च देवताः ।  
@@ -311,8 +358,10 @@ Having worshipped the gods, sages, men, the Pitṛs and the household deities, t
 
 - <u>अन्ये</u> त्व् अर्थान्तरविधानम् अपि वर्णयन्ति । पूर्वत्र जायापत्योर् एककालम् अवशिष्टभोजनं विहितम् । अनेन स्त्रिया अपोह्य पुंस एव विधीयते । ततश् च पूर्वं[^१९३] भृत्येभ्यः प्राक् पत्युर् भार्या भुञ्जीत । एवं वा कृत्वा भोजयेत् । एतद् अप्य् उपपन्नं भविष्यति । इतरथा तैः सह भार्या न भुज्ञीतेत्य् अर्थकल्पनायां तथाश्रुतपदान्वयभङ्गः स्यात् । यत् तु महाभारते दर्शनं तद्दर्शनम् एव न[^१९४] विधानम्, विधौ विकल्पयिष्यते ।
 
+
 [^१९४]:
      M G 1st ed. omit: na
+
 
 [^१९३]:
      M G omit: pūrvaṃ
@@ -358,6 +407,23 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 456) without comment;—al
 gods, the dependents, the parents and the teacher; such is the prescribed law.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गृह्याश्च देवता इत्यनेन भूतयज्ञ उक्तः, पञ्चयज्ञानुष्ठानस्य "अवशिष्टं तु दम्पती” ( म. स्मृ. ३ / ११६ ) इत्यनेन शेषमोजनस्य च विहितत्वात् । वक्ष्यमाणदोषकथनार्थोऽयमनुवादः ।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+( १ ) अतिथिभ्योऽन्वगेवैताननुगतानेव भोजयेत् प्रारब्धभोजनेष्वेवातिथिषु तत्समकालं भोजयेत्  
+रवि इति पठन्ति।
+
+अथवा देवानित्यनेनैव भूतयज्ञस्यापि संग्रहः ।गृहे भवा गृह्या देवताः पूजयित्वेति वासुदेवादिप्रतिकृतिपूजाविधानार्थत्वमस्य ॥११७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**देवान्** इति । गृहे भवा **गृह्या **इत्यन्तेन भूतयज्ञ उक्त इति । वक्ष्यमाणप्रत्यवायकथनार्थो ऽयम् अनुवादः ॥ ३.११७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 117	Having honoured the gods, the sages, men, the manes, and the guardian deities of the house, the householder shall eat afterwards what remains.
@@ -370,7 +436,7 @@ gods, the dependents, the parents and the teacher; such is the prescribed law.�
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.११८ अघं स</summary>
 
 अघं स केवलं भुङ्क्ते  
 यः पचत्य् आत्मकारणात् ।  
@@ -389,11 +455,14 @@ He who cooks for himself eats only sin; for the eating of good mem has been desc
 
 पापं **केवलं स भुङ्क्ते,** हृदये निधत्ते गृह्णाति, नान्नस्य मात्राम् अपि, **यः पचेत्** पाकं कारयेद् **आत्मकारणाद्** आत्मानम् उद्दिश्य- "क्षुधितो ऽहम् इदं वा मह्यं रोचत इति तद् एव पच्यताम्" । तस्माद् अनातुरेण नात्मार्थम् अन्नं[^१९५] पाचनीयम्[^१९६] । आतुरस्य तु शरीरधारणं येनोपायेन भवति विध्यन्तरातिक्रमेणापि[^१९७] तस्याश्रयणं युक्तम्, "सर्वत एवात्मानं गोपायेत्" (ग्ध् ९.३४) इति वचनात् । एवं केचिद् अस्यार्थम् आहुः । 
 
+
 [^१९७]:
      M G: vidhyantareṇātikrameṇāpi
 
+
 [^१९६]:
      M G: pacanīyam
+
 
 [^१९५]:
      M G 1st ed. add: mṛṣā
@@ -409,6 +478,7 @@ He who cooks for himself eats only sin; for the eating of good mem has been desc
 - तस्माद् अयम् अस्यार्थः । तदुद्देशस् तावन् नित्यस्य पाकस्य नैव विद्यते । सुहृत्स्वजनादिष्व् आगतेषु तदुद्देशः । अन्यथा त्व् अनुद्दिष्टविशेषपाके अतिथ्यादिभ्यो दानं विधीयते । तेनैतद् उक्तं भवति । य तेभ्यो ऽदत्त्वा भुङ्क्ते तस्यायं दोषः । अथ वा सर्वस्मिन्न् अतिथ्यादिभिर् भुक्ते नात्मार्थं पुनः पाकः कर्तव्यः । तथा च वसिष्ठः- "शेषं दम्पती भुञ्जीयाताम् । सर्वोपयोगे न पुनः पाकः ।" (वध् ११.११)
 
 - **यज्ञशिष्टाशनम्** । पूर्वस्य शेषभोजनस्य प्रशंसैव । यज्ञो ज्योतिष्टोमादिः, शिष्टम् उपयुक्तशेषम्, तस्य चैतद् अशनम् । तत्तुल्यफलम्, यत् **सतां** शास्त्रानुष्ठानपराणां गृहस्थानाम् अतिथ्यादिभुक्तशिष्टं **विधीयते**[^१९८] ॥ ३.१०८ ॥
+
 
 [^१९८]:
      M G omit the section: evaṃ hy āhuḥ . . . atithyādibhuktaśiṣṭaṃ vidhīyate (G 2nd ed. includes just evaṃ hy āhuḥ and the verse that follows.
@@ -451,6 +521,20 @@ nor shall he kill animals for himself; one who cooks for the sake of gods and fo
 
 *Jābāla* (Do.)—‘He who eats without bathing, eats dirt; he who eats
 without having repeated mantras, eats pus and blood; he who eats without having offered Homa, eats insects; and he who eats food without offering it to others, eats poison.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+**\[ यद्यदिष्टतमं लोके यच्चास्य दयितं गृहे ।**
+
+**तत्तद् गुणवते देयं तदेवाक्षयमिच्छता ॥७॥ \]**
+
+यस्त्वात्मार्थमेवान्नं पक्त्वा भुङ्क्ते देवादिभ्यो न ददाति स पापहेतुत्वात्पापमेव केवलं भुङ्क्ते नान्नम् । तथा च श्रुतिः —"केवलाघोभवति केवलादी” ।यस्माद्यदेव पाकयज्ञावशिष्टमशनमन्नमन्यत् एतदेव साधूनामन्नमुपदिश्यते इति ॥११८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अघम्** इति । **य** आत्मार्थम् एव **पचति** न देवादिभ्यो ददाति **स **पापहेतुतात् पापम् एव **केवलं भुङ्क्ते** नान्नलेशम् अपि यस्मात् यद् **एतत्** पाकयज्ञशिष्टाशनं साधूनाम् **अन्नम्** उपदिश्यते ॥ ३.११८ ॥
 </details>
 
 <details><summary>Bühler</summary>

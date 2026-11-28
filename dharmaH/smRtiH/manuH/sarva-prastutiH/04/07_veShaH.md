@@ -2,7 +2,7 @@
 title = "०७ वेषः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.३४ न सीदेत्</summary>
 
 न सीदेत् स्नातको विप्रः  
 क्षुधा शक्तः कथं चन ।  
@@ -20,6 +20,7 @@ The Accomplished Brāhmaṇa shall not, if he can, suffer from hunger; nor shall
 <details><summary>मेधातिथिः</summary>
 
 यदि च कुतश्चिद् धनार्थाद् व्यापाराद् व्याहन्येत न तदैवापद्धर्मान् आश्रयेत् । किं तर्हि पुनर् उत्पद्यते । तद् उक्तम् "आ मृत्योः श्रियम् अन्विच्छेत्" इति (म्ध् ४.१३७) । अतश् च यदि कथंचित् कृषतो वर्षाद्यभावेन सस्यनाशो भवेन् नेयता त्यागेन सहसैव परपिण्डोपजीवना याच्ञापरेण भवितव्यम् । सत्यां युक्तौ जीर्णमलिने च वाससी धनविभवे सति नेष्येते[^९५] ॥ ४.३४ ॥
+
 
 [^९५]:
      M G: neṣyate
@@ -51,6 +52,16 @@ nor with a woman in her courses.’
 *Viṣṇu* (72.9).—\[Same as Gautama.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विद्यादियोगात्प्रतिग्रहशक्तोऽपि स्नातको ब्राह्मण उक्तराजप्रतिग्रहादिलाभे सति न क्षुधावसन्नोभवेत् । न च धने सम्भवति जीर्णे मलिने च वाससी बिभृयात् ॥३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति** । स्नातको ब्राह्मणो विद्वत्त्वात् प्रतिग्रहसमर्थो राजादिधनसम्भवे सति क्षुधावसादं न कदाचिद् गच्छेत् । न च सम्भवे जीर्णमलिनवसनः स्यात् ॥ ४.३४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 034	A Snataka who is able (to procure food) shall never waste himself with hunger, nor shall he wear old or dirty clothes, if he possesses property.
@@ -63,7 +74,7 @@ nor with a woman in her courses.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.३५ कॢप्तकेशनखश्मश्रुर्</summary>
 
 कॢप्तकेश-नख-श्मश्रुर्  
 दान्तः शुक्लाम्बरः शुचिः ।  
@@ -117,6 +128,16 @@ nails clipped,—he shall not eat in the presence of his wife, nor with only one
 colouring; also what is naturally black. He shall wear only such cloth as may not be obtrusive.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कल्पनं छेदनं लूनकेशनखश्मश्रुः तपःक्लेशसहो दान्तः शुक्लवासा बाह्याभ्यन्तरशौचसम्पन्नो वेदाभ्यासयुक्त औषधोपयोगादिना चात्महितपरः स्यात् ॥३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कृतकेशनखश्मश्रुर्** इति । लूनकेशनखश्मश्रुः शमवान् शुक्लवासाः बाह्याभ्यन्तरशौचोपेतः वेदाभ्यासशीलः औषधोपयोगादिरतः स्यात् ॥ ४.३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 035	Keeping his hair, nails, and beard clipped, subduing his passions by austerities, wearing white garments and (keeping himself) pure, he shall be always engaged in studying the Veda and (such acts as are) conducive to his welfare.
@@ -129,7 +150,7 @@ colouring; also what is naturally black. He shall wear only such cloth as may no
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.३६ वैणवीं धारयेद्</summary>
 
 वैणवीं धारयेद् यष्टिं  
 सोदकं च कमण्डलुम् ।  
@@ -148,6 +169,7 @@ He shall hold a stick of bamboo, and also a water-pot full of water, the sacred 
 
 यज्ञोपवीतकुण्डलयोर् धारणं शरीरसंयोगः । यस्य[^९६] च यस्मिन्न् अङ्गे समुचितः संनिवेशः स तत्रैव विनियोजनीयः । यथा कुण्डलं कर्णयोर् उपवीतं काय इति, कर्णाभरणस्य कुण्डालाख्यत्वात् । कण्ठसक्तस्य च सूत्रस्य दक्षिणबाहूद्धारणेनोपवीतत्वात् । 
 
+
 [^९६]:
      M G: asya
 
@@ -155,11 +177,14 @@ He shall hold a stick of bamboo, and also a water-pot full of water, the sacred 
 
 - उद्धृतोदकेन शौचस्य विहितत्वात्, आधारापेक्षया कमण्डलुर् नियम्यते । स च तुल्यकार्यत्वात् कलशादीन् निवर्तयति, न कुण्डलकटकादीन् । अतश् च पुरीषनिमित्तस्योदकशोध्याशुचित्वापनोदार्थं सोदकत्वं कमण्डलोः । उक्तं च- "मुहूर्तम् अपि शक्तिविषये नाशुचि तिष्ठेत्" (च्ड़्। आप्ध् १.१५.८) इति । "शक्तिविषये" इति- यदि पूर्वगृहीतम् उदकम् उपयुक्तम् अन्यथाप्राप्तम् अशुचित्वनिमित्तं च श्लेष्मनिष्ठीवनाद्युत्पन्नं तत्रोदकालाभाद् अशुचित्वं[^९७] न दोषः । तथापि मूत्रपुरीषविस्रंसने स्नानं वक्ष्यति- "विनाद्भिर् अप्सु वाप्यार्तः[^९८] शारीरं संनिवेश्य[^९९] तु । सचैलो बहिर् आप्लुत्य" इति (म्ध् ११.२०२) । शुचिश् च स्मृत्यन्तरे प्रतिपदम् आम्नातः । एवं ह स्माह भगवान् वसिष्ठः-
 
+
 [^९९]:
      M G 1st ed.: saṃniṣedhya
 
+
 [^९८]:
      M G 1st ed.: apsu tarpeta
+
 
 [^९७]:
      M G: aśucir avasthāne
@@ -245,6 +270,16 @@ clothes, he shall tie the garland with the mantra *Śrīrasi mayi ramasva*; then
 water, wearing unworn clothes,...he shall apply collyrium to the eyes; then he wears the ear-rings; besmearing his hands with sandal-paste, the Brāhmaṇa shall besmear his face; the Kṣatriya, his arms and the Vaiśya, his belly;......then he shall tie the garland; but it should not be called by the name of *mālā*...... then ho takes up the umbrella......then the bamboo-stick...tying the jewel on his neck, he ties the turban; and then proceeds to collect fuel.’
 
 *Laugākṣi* (Aparārka, p. 176).—‘He shall wear untarnished gold.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+वेणुदण्डमुदकसहितं च कमण्डलुं यज्ञोपवीतं कुशमुष्टिं शोभने च सौवर्णकुण्डले धारयेत् ॥३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वैणवीम्** इति । वेणुदण्डम् उदक्सहितं **कमण्डलुं यज्ञोपवीतं **दर्भमुष्टिं रुचिरसौवर्णकुण्डले धारयेत् । यज्ञोपवीतकमण्डल्वोः “अग्नीन्धनं भैक्षचर्यां” (२.१०८) इत्य् अनेन च गृहस्थादीनाम् अनुवृत्तिसिद्धौ स्नातकव्रतार्थं पुनर्ग्रहणम् । एवम् अन्येषाम् अपि “न चोच्छिष्टः क्वचिद् व्रजेत्” इत्येवमादीनां पुनर्ग्रहणं विज्ञेयम् ॥ ४.३६ ॥
 </details>
 
 <details><summary>Bühler</summary>

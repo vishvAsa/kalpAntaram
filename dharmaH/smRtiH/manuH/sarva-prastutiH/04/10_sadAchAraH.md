@@ -2,7 +2,7 @@
 title = "१० सदाचारः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१२८ अमावास्याम्</summary>
 
 अमावास्याम् अष्टमीं च  
 पौर्णमासीं चतुर्दशीम् ।  
@@ -28,6 +28,7 @@ On the Moonless Day, on the eighth, on the Full Moon Day, and on the Fourteenth,
 - वर्जयेत् पौर्णमासीं च तैले मांसे भगे क्षुरे ॥
 
 - <u>अन्ये त्व्</u> आहुर् ब्रह्मचारीति विशिष्टाश्रमिणो नामधेयम् एतत् । अत आश्रमान्तरवर्तिनि गृहस्थादौ प्रयुज्यमानो[^२०२] वेदग्रहणार्थधर्मलक्षणयातिदेशार्थो भवति । **ब्रह्मचारी भवेत्** । परशब्दो हि परत्र प्रयुज्यमानो वत्यर्थं गमयति । सर्वेषु ब्रह्मचारिधर्मेषु प्राप्तेष्व् अग्नीन्धनभैक्ष्यचरणादयः "आ समावर्तनात् कुर्यात्" (म्ध् २.१०८) इति वचनात्, "गृहस्थः शेषभुक्" (म्ध् ३.१०७) इति च प्रत्यक्षे विनिवर्तन्ते । केवलं मधुमांसमैथुनप्रतिशेधमात्रम् अतिदिश्यत इति । 
+
 
 [^२०२]:
      M G: prayujyamāne
@@ -82,6 +83,11 @@ his wife.’
 moonless day, full moon day, the day on which the sun passes from one sign to the other, are the *Parvas*; one who has recourse to his wife on these days goes to hell.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**अमावास्याम्** इति । अमावास्यादिषु **स्नातको द्विजः ऋताव् अपि **नित्यं स्त्रियं नोपेयात् । “पर्ववर्जं व्रजेच् चैनाम्” इत्य् अनेन पौनरुक्थ्यं तत्रैव परिहृतम् । स्नातकव्रतप्रायश्चित्ताङ्गत्वेनास्येहाभिधानम् ॥ ४.१२८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 128	A twice-born man who is a Snataka shall remain chaste on the new-moon day, on the eighth (lunar day of each half-month), on the full-moon day, and on the fourteenth, even (if they fall) in the period (proper for conjugal intercourse).
@@ -94,7 +100,7 @@ moonless day, full moon day, the day on which the sun passes from one sign to th
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१२९ न स्नानम्</summary>
 
 न स्नानम् आचरेद् भुक्त्वा  
 नातुरो न महानिशि ।  
@@ -117,8 +123,10 @@ He shall not bathe after a meal, nor when he is ill, nor at midnight, nor along 
 
 - **महानिशा** चतुर्मुहूर्त[^२०३] उभय्तो ऽर्धरात्रितः[^२०४] । <u>ये तु</u> "महती निशा यस्मिन् काले हेमन्तादौ" इति व्याचक्षते, <u>तेषां</u> माघफाल्गुनयोः प्रातःस्नानविधिविरोधाद् अपव्याख्यानम् । नापि हैमन्तिकीषु रात्रिषु निषेध इति प्रमाणम् अस्ति द्वितीयस्य निशाशब्दस्याभावात् । 
 
+
 [^२०४]:
      M G: 'rdharātrikaḥ
+
 
 [^२०३]:
      M G: munyukta
@@ -185,6 +193,34 @@ Do. (Do., p. 160).—‘The middlemost quarters of the night are called Mahāni�
 taking food, nor at midnight.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नित्यस्नानस्य भोजनानन्तरमप्रसक्तेश्चाण्डालादिस्पर्शनिमित्तकस्य "मुहूर्तमपि शक्ति विषये नाप्रयतः स्यात्”–इत्यापस्तम्बस्मरणान्निषेद्धुमयोग्यत्वाद्यदृच्छास्नानमिदं भोजनानन्तरं निषिध्यते । तथा रोगी नैमित्तिकमपि स्नानं न कुर्यात् किन्तु यथासामर्थ्यम् ।
+
+**“अशिरस्कं भवेत्स्नानं स्नानाशक्तौतु कर्मिणाम् ।**
+
+**आर्द्रेण वाससा वा स्यान्मार्जनं दैहिकं विदुः ॥**
+
+इत्यादिजाबालाद्युक्तमनुसंधेयम् । तथा—
+
+**महानिशाऽत्र विज्ञेया मध्यस्थं प्रहरद्वयम् ।**
+
+**तस्मिन्स्नानं न कुवींत काम्यनैमित्तिकादृते ॥**
+
+विवचनात्तत्र न सजायात् । बहुवासाश्च नित्यं न स्नायात् । नैमित्तिकचाण्डालादिस्पर्शे सति तु स्नानं बहुवाससोऽप्यनिषिद्धम् । ग्राहाद्याक्रान्तागाधरूपतया च विशेषेणाज्ञाते जलाशये च ॥१२९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न स्नानम्** इति । **भुक्त्वा** नित्यं यादृच्छिकं **स्नानं न **कुर्यात् । नैमित्तिकं पुनः “मुहूर्तम् अपि शक्तिविषये नाप्रमत्तः स्यात्” इत्य् आपस्तम्बस्मरणान् न निषिध्यते । तथा व्याधितो नैमित्तिकम् अपि स्नानं न कुर्यात्, अपि यथासम्भवं मन्त्रवन् मार्जनहिरण्योदकाभ्युक्षणगोस्पर्शनादीन् स्नानप्रतिनिधीन् पटपरिवर्तनं च कुर्यात् । 
+
+> महानिशा तु विज्ञेया मध्यस्थं प्रहरद्वयम् ।
+
+> तस्यां स्नानं न कुर्वीत काम्यनैमित्तिकाद् ऋते ॥
+
+इति देवलस्मरणात् तत्र न स्नायात् । बहुवासस्कश् च सततं न स्नायात् । नैमित्तिके त्व् अनिषेधः । गाधागाधग्राहाद्याकीर्णतया वा अज्ञाते जलाधारे न स्नायात् ॥ ४.१२९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 129	Let him not bathe (immediately) after a meal, nor when he is sick, nor in the middle of the night, nor frequently dressed in all his garments, nor in a pool which he does not perfectly know.
@@ -197,7 +233,7 @@ taking food, nor at midnight.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१३० देवतानां गुरो</summary>
 
 देवतानां गुरो राज्ञः  
 स्नातकाचार्ययोस् तथा ।  
@@ -259,6 +295,16 @@ priest, an accomplished student, the teacher, the king, and another man’s wife
 shadow of a deity, the twice-born, the teacher, the wise man, the accomplished student, the preceptor and the minister; also of the tawny cow;—nor should he allow his own shadow to be stepped over by a eunuch or an outcast or a Caṇḍāla, or his enemies, or by a diseased person.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+देवतानां पाषाणादिमयीनां गुरोः पित्रादेः, नृपतेः, स्नातकस्याचार्यस्य च ।गुरुत्वेऽप्याचार्यस्य प्राधान्यविवक्षया पृथङ्निर्देशः । बभ्रुणः कपिलस्य, यज्ञे दीक्षितस्यावभृथस्नानात्पूर्वमिच्छया छायां नाक्रामेत् । चशब्दाचाण्डालादीनामपि ।कामत इत्यभिधानादबुद्धिपूर्वके न दोषः ॥१३०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**देवतानाम्** इति । **देवतानां **चित्रपुस्तकादिकृतानां **गुरोः** पित्रादेः नृपतेः **स्नातकाचार्यस्य **च प्राधान्याद् गुरुतः पृथगुपदिष्टस्य कपिलस्य यज्ञार्थं कृतदीक्षस्येच्छातः **छायां नाक्रामेत् **॥ ४.१३० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 130	Let him not intentionally step on the shadow of (images of) the gods, of a Guru, of a king, of a Snataka, of his teacher, of a reddish-brown animal, or of one who has been initiated to the performance of a Srauta sacrifice (Dikshita).
@@ -271,7 +317,7 @@ shadow of a deity, the twice-born, the teacher, the wise man, the accomplished s
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१३१ मध्यन्दिने</summary>
 
 मध्यन्दिने ऽर्धरात्रे च  
 श्राद्धं भुक्त्वा च सामिषम् ।  
@@ -315,6 +361,16 @@ This verse is quoted in *Aparārka* (p. 193);—in *Madanapārijāta* (p. 121);�
 road-crossings at midday, or at midnight, or late at night, or during the two twilights.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दिवाराने च सम्पूर्णे प्रहरद्वये समांसं च श्राद्धं भुक्त्वा प्रातःसायंसन्ध्ययोश्च चिरं चतुष्पथं नाधितिष्ठेत् ॥१३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मधन्दिन** इति । मध्याह्नार्धरात्रसन्ध्यासु समांसं च **श्राद्धं भुक्त्वा **चतुष्पथे चिरं न तिष्ठेत् ॥ ४.१३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 131	At midday and at midnight, after partaking of meat at a funeral dinner, and in the two twilights let him not stay long on a cross-road.
@@ -322,7 +378,7 @@ road-crossings at midday, or at midnight, or late at night, or during the two tw
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१३२ उद्वर्तनम्</summary>
 
 उद्वर्तनम्+++(=फेनकचूर्णम्)+++ अपस्नानं  
 विण्-मूत्रे रक्तम् एव च ।  
@@ -373,6 +429,16 @@ blood, or excreta or wine or bath-water.’
 or spittings or unguent-powder.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उद्वर्तनमभ्यङ्गमलापकर्षणपिष्टकादि, अपस्नानं स्नानोदकं, मूत्रपुरीषे, रुधिरं च श्लेष्माणं, निष्ठ्यूतमश्लेष्मरूपमपि चर्वितपरित्यक्तरूपताम्बूलादि, वान्तं भुक्त्वोद्वार्णभक्तादि एतानि कामतो नाधितिष्ठेत् । अधिष्ठानं तदुपर्यवस्थानम् ॥१३२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उद्वर्तनम्** इति । **उद्वर्तनं** स्नानोदकमूत्रपुरीषरुधिर**श्लेष्मवान्तानि **इच्छातो नाक्रामेत् **तिष्ठ्यूतं **च ताम्बूलाद्यं श्लेष्मरूपम् अपि ॥ ४.१३२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 132	Let him not step intentionally on things used for cleansing the body, on water used for a bath, on urine or ordure, on blood, on mucus, and on anything spat out or vomited.
@@ -380,7 +446,7 @@ or spittings or unguent-powder.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१३३ वैरिणं नोपसेवेत</summary>
 
 वैरिणं नोपसेवेत  
 सहायं चैव वैरिणः ।  
@@ -399,10 +465,12 @@ He shall not pay attention to his enemy, or to his enemy’s friend, or to an un
 
 **वैरी** शत्रुस् तस्य सदैव उपायनप्रेषणान्य् एकत्र स्थानासने गृहमानादिकथाप्रवृत्तिर् इत्येवमादि न कार्यम् । **अधार्मिकः** पातकी, यश् च कुसृत्या वर्तते । **तस्करश्** चौरः । अस्माद् एव च भेदोपादानाद् अधार्मिको न सर्वः, किं तर्हि यथा व्याख्यातम् । **परस्य योषितम्** स्त्रियम्[^२०५] । योषिद्ग्रहणान् न पत्न्य् एव किं तर्ह्य् अवरुद्धापि , वैरकरणत्वाद् उभयोर् दृष्टदोषनिमित्तैश् च प्रतिषेधः साहचर्यात् । उत्तरत्र च दारग्रहणम् अदृष्टदोषातिशयदर्शनार्थम् । 
 
+
 [^२०५]:
      M G 1st ed. omit: striyam
 
 - <u>न</u>[^२०६]<u> पुनर्</u> एवं वक्तव्यम् "योषितम् इति सामान्यनिर्देशे दारशब्दार्थवादाद् विशेषावगतिः" । 
+
 
 [^२०६]:
      M G 1st ed. omit: na
@@ -434,6 +502,16 @@ reason, place themselves under the influence of their enemies...... He shall not
 Do. (139.75).—‘Having done harm to a certain person, he shall not trust him......... By reposing trust upon a person after having injured him, one always falls into trouble.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शत्रुं तन्मन्त्रिणमधर्मशीलं चौरं परदारांश्च न सेवेत ।चौरस्याधार्मिकत्वेऽप्यत्यन्तगर्हितत्वात्पृथनिदेशः ॥१३३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वैरिणम्** इति । शत्रुतन्मित्राधर्मशीलवौरपरदानान् **नोपसेवेत** । चौरस्यात्यन्तकुत्सितत्वात् अधार्मिकात् पृथक्ग्रहणम् । शत्रुसेवनादौ च यद्य् अपि दृष्ट एव दोषः तथापि शास्त्रनिषेधसामर्थ्याद् अदृष्टो ऽपि भवतीत्य् अवसीयते । एवम् अन्यत्रापि विज्ञेयम् ॥ ४.१३३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 133	Let him not show particular attention to an enemy, to the friend of an enemy, to a wicked man, to a thief, or to the wife of another man.
@@ -441,7 +519,7 @@ Do. (139.75).—‘Having done harm to a certain person, he shall not trust him.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१३४ न हीदृशम्</summary>
 
 न हीदृशम् अनायुष्यं  
 लोके किं चन विद्यते ।  
@@ -460,11 +538,14 @@ In this world, there is nothing so detrimental to a man’s longevity as paying 
 
 अजीर्णकारकभोजनादि[^२०७] सुवर्णापहरणादि न[^२०८] हीदृशम्[^२०९] **अनायुष्यम्** आयुष्यक्षयकरं **यादृशं परदार**गमनम् । अदृष्टेन दृष्टेन च दोषः ॥ ४.१३४ ॥
 
+
 [^२०९]:
      M G: cedṛśam
 
+
 [^२०८]:
      M G omit: na
+
 
 [^२०७]:
      M G: ajīrṇakārabhojanādi
@@ -480,6 +561,16 @@ Any such thing as the eating of indigestible food, the stealing of gold, etc., �
 *Mahābhārata* (13.104.21).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मादीदृशमनायुष्यमिह लोके पुरुषस्य न किञ्चिदस्ति, यादृशं परदारगमनम् । तस्मादेतन्न कर्तव्यम् ॥१३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न हीदृशम्** इति । यस्मात् पुंस एवंविधम् आयुःक्षयकरं लोके अन्यन् न किञ्चिद् अस्ति यादृक् लोके परदारगमनम्, तस्माद् एतन् न कार्यम् ॥ ४.१३४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 134	For in this world there is nothing so detrimental to long life as criminal conversation with another man's wife.
@@ -492,7 +583,7 @@ Any such thing as the eating of indigestible food, the stealing of gold, etc., �
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१३५ क्षत्रियं चैव</summary>
 
 क्षत्रियं चैव सर्पं च  
 ब्राह्मणं च बहु-श्रुतम् ।  
@@ -539,6 +630,16 @@ self,—these should never be despised.’
 shall never despise the following three, even though they be very much reduced—the Brāhmaṇa, the Kṣatriya, the serpent and other poisonous animals.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वृद्ध्यथेभूधातुः । भूष्णुर्वर्धिष्णुः धनगवादिना वर्धनशीलः क्षत्रियं सर्पं बहुश्रुतं च ब्राह्मणं नावजानीयात् । कृशानपि तत्काले प्रतीकाराक्षमान् ॥१३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**क्षत्रियं चैवेति** । यो भवनशीलः क्षत्रियसर्पविद्वद्ब्राह्मणान् तदानीं दुर्बलान् अपि कदाचिन् नावजानीयात् ॥ ४.१३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 135	Let him who desires prosperity, indeed, never despise a Kshatriya, a snake, and a learned Brahmana, be they ever so feeble.
@@ -555,7 +656,7 @@ shall never despise the following three, even though they be very much reduced�
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१३६ एतत् त्रयम्</summary>
 
 एतत् त्रयं हि पुरुषं  
 निर्दहेद् अवमानितम् ।  
@@ -574,8 +675,10 @@ Because these three, when despised, may destroy the man,—therefore, the intell
 
 **निर्दहेत्**[^२१०] अवमन्तारं **पुरुषम्** । **त्रयम् अवमानितम्** । क्षत्रियः सर्पो दृष्ट्या[^२११] शक्त्या, ब्राह्मणो जपहोमैर् अदृष्टेन च दोषेण । **तस्माद् एतत् त्रयं नित्यम्** इत्य् उपसंहारः । विधाय दोषदर्शनं पुनर् उपसंहारो यत्नेन परिहारार्थः । यत्नातिशयाच् च प्रायश्चित्ते गौरवम् अप्य् अनुमीयते ॥ ४.१३६ ॥
 
+
 [^२११]:
      M G 1st ed.: sarpo 'dṛṣṭyā
+
 
 [^२१०]:
      M G 1st ed. omit: nirdahet
@@ -603,18 +706,29 @@ This verse is quoted in *Aparārka* (p. 194).
 See Comparative notes for [Verse 4.135].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतत्रयमवमानितं सदवमन्तारं विनाशयति । क्षत्रियसर्पौ दृष्टशक्त्या ब्राह्मणश्चाभिचारादिनाऽदृष्टेन ।तस्मात्कल्याणबुद्धिरेतन्यं सर्वदा नावजानीयात् ॥१३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतत् त्रयम्** इति । यस्माद् **एतत् त्रयम् **अवज्ञातं **पुरुषं **विनाशयति । क्षत्रियसर्पौ दृष्टशक्त्या ब्राह्मणस् त्व् अभिचारादिना । तस्मात् प्रशस्तबुद्धिः **एतत् त्रयं **सर्वदा न तिरस्कुर्यात् ॥ ४.१३६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 136	Because these three, when treated with disrespect, may utterly destroy him; hence a wise man must never despise them.
 </details>
 
 <details><summary>भारुचिः</summary>
+
 <u>अन्ये</u> ऽप्य् आहुः । त्रयाणाम् अप्य् अदृष्टार्थं सति क्षत्रियसर्पयोः सामर्थ्याद् व्यवस्थितानाम् अबहुश्रुतानाम् अप्य् अयं प्रतिषेधो गम्यते । हीनाङ्गादीनाम् आक्षेपप्रतिषेधाद् उत्तरत्र दण्डापूपिकया क्षत्रियादीनाम् अनाक्षेपः सिद्धः । उत्कृष्टत्वात् तु विशेषप्रतिषेधो ऽयं प्रायश्चित्तविशेषनार्थो वा क्षत्रियादीनां प्रतिषेधः ।
 </details>
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१३७ नात्मानम्</summary>
 
 नात्मानम् अवमन्येत  
 पुर्वाभिर् असमृद्धिभिः ।  
@@ -633,10 +747,12 @@ He shall not despise himself by reason of former failures. Until death, he shoul
 
 **असमृद्धिर्** धनाद्यसम्पत्तिः, कृष्यादिना धनार्जनावसरे । तत्र नात्मावमन्तव्यः "दुर्भगो ऽहम् अकृतपुण्यो नास्मिन्न् अवसरे धनं मया लब्धम्, कुतो ऽन्यदा प्राप्स्यामि" इति नावसादो भावनीयः । **आ मृत्योः श्रियम् अन्विच्छेत्** । आन्त्याद् उच्छ्वासाद् धनार्जनकामो न त्यक्तव्यः । **न चैनाम् श्रियं दुर्लभां मन्येत** । "अवश्यं मम संपद्यते मद्व्यवसायः" इति ग्रहदौःस्थित्याद्य्[^२१२] अपरिगणय्य तदर्जने पर्वर्तितव्यम् । अस्ति कस्यचित् सुभाषितम्-
 
+
 [^२१२]:
      M G J: gṛha- (my reading conjectural; see the subhāṣita cited below)
 
 - हीनाः पुरुषकारेण गणयन्ति ग्रहस्थितिम्[^२१३] ।
+
 
 [^२१३]:
      M G: gṛhasthitim
@@ -675,6 +791,18 @@ long life.’
 not touch any one in his vitals.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रथमं धनार्थमुद्यमे कृते तत्र धनानामसम्पत्तिभिर्मन्दभाग्योऽहमिति नात्मानमवजानी-
+
+यात् । किन्तु मरणपर्यन्तं श्रीसिद्ध्यर्थमुद्यमं कुर्यात् । न त्विमां दुर्लभां बुध्येत् ॥१३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नात्मानम्** इति । प्रथमोत्पन्नाभिर् असम्पद्धिः **आत्मानं **नावजानीयात् । अपि तु **आ मृत्योः **श्र्यर्थम् उद्यमं कुर्यात्, **न दुर्लभा** श्रीर् इति बुध्येत ॥ ४.१३७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 137	Let him not despise himself on account of former failures; until death let him seek fortune, nor despair of gaining it.
@@ -687,7 +815,7 @@ not touch any one in his vitals.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१३८ सत्यं ब्रूयात्</summary>
 
 सत्यं ब्रूयात् प्रियं ब्रूयान्  
 न ब्रूयात् सत्यम् अप्रियम् ।  
@@ -707,6 +835,7 @@ He shall say what is true; and he shall say what is agreeable; he shall not say 
 अर्थप्रयुक्तवचनं सत्ये नियम्यते । यथादृष्टं श्रुतं च **सत्यं** । **प्रियं ब्रूयात्** । द्वितीयो ऽयं विधिः । औदार्यादिगुणानुकथनं परस्यादृष्टेनापि केनचिद् अवसरेण । तथा पुत्रजन्मादि "ब्राह्मण पुत्रस् ते जातः" इत्य् असत्य् अपि स्वप्रयोजने यदि सत्यं तद् वक्तव्यम् । यदि तस्य तन् न विदितम् । सत्यं प्रियम् अप्रियं वास्ति । प्रियं दर्शितम् "ब्राह्मण पुत्रः" इत्यादि । अप्रियं यथा "ब्राह्मण कन्या ते गर्भिणी" । तद् असत्यं न ब्रूयात्, सत्यम् अपि कन्यागर्भग्रहणम् अप्रियत्वाद् अप्रकाश्यम् । सत्यां गतौ तूष्णीम् आसितव्यम् ।
 
 - <u>ननु</u> गर्भिण्याम् अगर्भिणीति[^२१४] वक्तव्यं प्रियत्वात्, अत आह- **प्रियं च नानृतं ब्रूयाद्** इति । एवं च यस्य प्रथमः साक्षात्कारस् तेन तत्र तूष्णीम् आसितुं न लब्यते । **एष सनातनो धर्मः** । सनातनो नित्यो वेदस् तेन विहितत्वाद् धर्मो ऽपि सनातनः ॥ ४.१३८ ॥
+
 
 [^२१४]:
      M G 1st ed.: garbhiṇyā garbhiṇīti
@@ -752,6 +881,16 @@ etc.’
 words, specially in regard to Brāhmaṇas.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथादृष्टश्रुतं तत्त्वं ब्रूयात् । तथा प्रीतिसाधनं ब्रूयात्पुत्रस्ते जात इति । यथा दृष्टश्रुतमप्यप्रियं पुत्रस्ते मृत इत्यादि न वदेत् । प्रियमपि मिथ्या न वदेत् । एष वेदमूलतया नित्यो धर्मः ॥१३८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सत्यम्** इति । केनचित् पृष्टः सन् **सत्यम्** एव **ब्रूयात् । सत्यं प्रियं **चाप्य् अपृष्टो ऽपि पुत्रजन्मादि कथयेत् । **अप्रियं **पुनः **सत्यं **बन्धुवियोगादि न वदेत्, अपि तु सत्यां गतौ तूष्णीम् आसीत । **प्रियम्** अपि चासत्यं नापि(भि) **ब्रूयात्** इत्य् **एष** नित्यो **धर्मः** ॥ ४.१३८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 138	Let him say what is true, let him say what is pleasing, let him utter no disagreeable truth, and let him utter no agreeable falsehood; that is the eternal law.
@@ -764,7 +903,7 @@ words, specially in regard to Brāhmaṇas.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१३९ भद्रं भद्रम्</summary>
 
 भद्रं भद्रम् इति ब्रूयाद्  
 भद्रम् इत्य् एव वा वदेत् ।  
@@ -829,6 +968,16 @@ untrue; nor what is disagreeable.’
 not needed. He shall say *well*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रथमं भद्रपदमभद्रपदपरं, द्वितीयं भद्रशब्दपर्यायपरम् ।अभद्रं यत्तद्भवशब्दपर्यायपरप्रशस्तादि-शब्देन प्रब्रुयात् । तथा चापस्तम्बः – “नाभद्रमभङ्गं ब्रूयात्पुण्यं प्रशस्तमिति ब्रूयाद्भद्रमित्येव" इति । भद्रपदमेव वा तत्र योज्यम् । शुष्कं निष्प्रयोजनं वैरं विवाद न किनचित्सह कुर्यात् ॥१३९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भद्रम्** इति । “अभद्रं भद्रम्” इति गौतमस्मरणाद् इह वृत्तवशात् प्रयुक्तम् । तत्राध्याहारेण व्याख्येयम् अकल्यानरूपं यत् तत् **भद्रं** कल्याणं श्रेय इत्य् एवमादिभिः शब्दैः इतिकरणस्य प्रकारार्थत्वात् **ब्रूयात् । भद्रम्** इत्य् अनेनैवं वाशब्देन तत् । वादानिमित्तौ वैरकलहौ चासमर्थेनापि सह नैव **कुर्यात्** ॥ ४.१३९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 139	(What is) well, let him call well, or let him say 'well' only; let him not engage in a useless enmity or dispute with anybody.
@@ -841,7 +990,7 @@ not needed. He shall say *well*.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१४० नाऽतिकल्यम्</summary>
 
 नाऽतिकल्यं+++(=अतिप्रातः)+++ नाऽतिसायं  
 नाऽतिमध्यन्दिने स्थिते ।  
@@ -898,6 +1047,16 @@ evening; nor alone; nor with Śūdras.’
 wicked conveyance; nor shall he go under the shadow cast by a river-bank; one shall not go alone into a desolate forest; nor shall he enter an empty house.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उषःसमये प्रदोषे च दिवा सम्पूर्णप्रहरद्वये च अज्ञातकुलशीलेन पुरुषेण शूद्रैश्च सह न गच्छेत् । "नैकः प्रपद्येताध्वानम्” ( म. समृ. ४-६० ) इत्युके प्रतिषेवेऽपि पुननेक ।इति प्रतिषेधः स्नातकव्रतलोपप्रायश्चित्तगौरवार्थः ॥१४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नातिकल्यम्** इति । उषःप्रदोषयोः मध्याह्ने च जाते **अविज्ञातेन **पुरुषेण शूद्रैश् चाध्वानं न **गच्छेत्** । “नैकः प्रपद्येताध्वानम्” इत्य् उक्ते ऽपीह एक इत् पुनर्वचनं प्रायश्चित्तविशेषार्थम् ॥ ४.१४० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 140	Let him not journey too early in the morning, nor too late in the evening, nor just during the midday (heat), nor with an unknown (companion), nor alone, nor with Sudras.
@@ -905,7 +1064,7 @@ wicked conveyance; nor shall he go under the shadow cast by a river-bank; one sh
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१४१ हीनाङ्गान्</summary>
 
 हीनाङ्गान् अतिरिक्ताङ्गान्  
 विद्या-हीनान् वयो-ऽधिकान् [मेधातिथिपाठः - वयोऽअतिगान्] ।  
@@ -964,6 +1123,16 @@ person.’
 calling the blind *one with excellent eyes*, the Caṇḍāla a *Brāhmaṇa*; nor should one call the Śūdra a *Śūdra* or the outcast an *outcast*; such words, though truthful are twice as bad as untruthful words.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+हीनाङ्गाधिकाङ्गमूर्खवृद्धकुरूपार्थहीनहीनजातीन्काणशब्दाह्वानादिना न निन्देत्॥१४१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**हीनाङ्गान्** इति । हीनाङ्गाधिकाङ्गमूर्खातिवृद्धविरूपदरिद्रवैधवेयादीन् काणादिशब्दाह्वानादिना नोपहसेत् ॥ ४.१४१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 141	Let him not insult those who have redundant limbs or are deficient in limbs, nor those destitute of knowledge, nor very aged men, nor those who have no beauty or wealth, nor those who are of low birth.
@@ -971,7 +1140,7 @@ calling the blind *one with excellent eyes*, the Caṇḍāla a *Brāhmaṇa*; n
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१४२ न स्पृशेत्</summary>
 
 न स्पृशेत् पाणिनोच्छिष्टो  
 विप्रो गो-ब्राह्मणानलाण् ।  
@@ -989,6 +1158,7 @@ A Brāhmaṇa, while unclean, shall hot touch, with his hand, a cow, a Brāhma�
 <details><summary>मेधातिथिः</summary>
 
 **उच्छिष्टो** भुक्तवान् अनाचान्तः कृतमूत्रपुरीषश् च । अशुचिमात्रम् इहोच्छिष्टशब्देनोच्यते । तथा चोच्छिष्टस्य गवादिस्पर्शः प्रतिषिध्यते । अशुचिशब्देन प्रायश्चित्तं वक्ष्यति । **प्राणि**ग्रहणम् अतन्त्रम् । अन्येनाप्य् अङ्गेन स्पर्शो नेष्यते । वस्त्राद्यन्तरिते न निषेधः । **दिवि ज्योतिर्गणं** न पस्येत् । **स्वस्थो** ऽनातुरः । दिवीतिवचनाद् भूमौ ज्योतिषो ऽग्नेर् अप्रतिषेधः[^२१५] ॥ ४.१४२ ॥
+
 
 [^२१५]:
      M G: 'gre cāpratiṣedhaḥ
@@ -1019,6 +1189,16 @@ due care.’
 impure, a cow, a Brāhmaṇa, fire or food.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कृतभोजनः कृतमूत्रपुरीषादिश्चाकृतशौचाचमनो ब्राह्मणो हस्तादिना गोब्राह्मणाग्नीन्न स्पृशेत् । न चाशुचिः सन्ननातुरो दिविस्थान्सूर्यचन्द्रग्रहादिज्योतिर्गणान् पश्येत् ॥१४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न स्पृशेद्** इति । आचमनाद्यर्हो ब्राह्मणः गोब्राह्मणाग्नीन् न स्पृशेत् । तथ्**आशुचिः** सन् अनातुरो द्युलोकगतम् आदित्यादिज्योतिःसमूहम् अपि **न पश्येत्** ॥ ४.१४२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 142	A Brahmana who is impure must not touch with his hand a cow, a Brahmana, or fire; nor, being in good health, let him look at the luminaries in the sky, while he is impure.
@@ -1026,7 +1206,7 @@ impure, a cow, a Brāhmaṇa, fire or food.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१४३ स्पृष्ट्वैतान्</summary>
 
 स्पृष्ट्वैतान् अशुचिर् नित्यम्  
 अद्भिः प्राणान् +++(→इन्द्रियाणि)+++ उपस्पृशेत् ।  
@@ -1070,6 +1250,16 @@ chance at the things mentioned.
 touching a horse, or blood or hairs, or fire or cows or Brāhmaṇas or a woman; or on going over a long journey, or on touching an unclean thing, or a man unawares, or on wearing the loin-cloth,—he shall touch water.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतान्गवादीनशुचिः सन्स्पृष्ट्वा कृताचमनः पाणिना गृहीताभिरद्भिः प्राणांश्चक्षुरादीनीन्द्रियाणि शिरः स्कन्धजानुपादान्नाभिं च स्पृशेत् । अप्रकरणे चेदं प्रायश्चित्ताभिधानं लाघवार्थं तत्र प्रकरणे गवादिग्रहणमपि कर्तव्यं स्यात् ॥१४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्पृट्वेति । अशुचिः** सन् गवादीन् **स्पृष्ट्वा अद्भिः** प्राणायतनानि चक्षुरादीन्य् अङ्गानि च **सर्वाणि स्पृशेत्** “नाभिम् अद्भिर् हस्तमध्येन स्पृशेत्” इति प्रकरणपठितं प्रायश्चित्तं लाघवार्थम् । तत्र हि क्रियमाणे गवादिस्पर्शे कर्तव्यं स्यात् ॥ ४.१४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 143	If he has touched these, while impure, let him always sprinkle with his hand water on the organs of sensation, all his limbs, and the navel.
@@ -1082,7 +1272,7 @@ touching a horse, or blood or hairs, or fire or cows or Brāhmaṇas or a woman;
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१४४ अनातुरः स्वानि</summary>
 
 अनातुरः स्वानि खानि+++(=नेत्रादिगर्तानि)+++  
 न स्पृशेद् अनिमित्ततः ।  
@@ -1120,6 +1310,16 @@ Unless he be in trouble, he shall not, without cause, touch his cavities. He sha
 *Viṣṇu* (71.79).—‘He should not touch his cavities, without cause.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनातुरः सन् स्वानि खानीन्द्रियच्छिद्राणि रोप्राणि च गोप्यान्युपस्थकक्षादिगतानि निर्निमित्तं न स्पृशेत् ॥१४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनातुर **इति । स्वस्थः सन् **स्वानि **छिद्राणि **रोमाणि च **पायूपस्थगतानि **अनिमित्तं न स्पृशेत् **॥ ४.१४४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 144	Except when sick he must not touch the cavities (of the body) without a reason, and he must avoid (to touch) the hair on the secret (parts).
@@ -1132,7 +1332,7 @@ Unless he be in trouble, he shall not, without cause, touch his cavities. He sha
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१४५ मङ्गलाचारयुक्तः</summary>
 
 मङ्गलाचारयुक्तः स्यात्  
 प्रयतात्मा जितेन्द्रियः ।  
@@ -1204,6 +1404,16 @@ has acquired property rightfully, has been devoted to truth and fond of guests, 
 Do. (3. 220).—‘By omitting what has been enjoined, by doing what has been forbidden, and by omitting to control the sense-organs, the man falls.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अभिप्रेतार्थसिद्धिर्मङ्गलं तद्धेतुत्वेन गोरोचनादिधारणमपि मङ्गलम् ।गुरुसेवादिक्रमाचारस्तत्रोद्युक्तः स्यात् । बाह्याभ्यन्तरशौचोपेतो जितेन्द्रियश्च भवेत् । गायत्र्यादिजपं विहितहोमं च नित्यं कुर्यात् । अत्तन्द्रितोऽनलसः ।अन्नाचारादीनामुक्तानामपि विनिपातनिवृत्यर्थत्वात्पुभिधानम् ॥१४५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मङ्गलाचारयुक्त** इति । अभिप्रेतसिद्धिरूपमङ्गलहेतुत्वात् गोरोचनाचन्दनादौ मङ्गले प्रत्युत्थानादौ आचारे यत्नवान् शुद्धात्मा वशीकृतजिह्वादीन्द्रियः स्यात्, अनलसश् च सन् जपहोमौ **नित्यं** कुर्यात् । अत्र आचारादीनाम् उक्तानाम् अपि विनिपातविनिवृत्त्यर्थं विवक्षया पुनर् अभिधानम् ॥ ४.१४५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 145	Let him eagerly follow the (customs which are) auspicious and the rule of good conduct, be careful of purity, and control all his organs, let him mutter (prayers) and, untired, daily offer oblations in the fire.
@@ -1216,7 +1426,15 @@ Do. (3. 220).—‘By omitting what has been enjoined, by doing what has been fo
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+अतआह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१४६ मङ्गलाचारयुक्तानाम्</summary>
 
 मङ्गलाचारयुक्तानां  
 नित्यं च प्रयतात्मनाम् ।  
@@ -1254,6 +1472,16 @@ This verse is quoted in *Nityācārapradīpa* (p. 492).
 ‘*maṅgalācārayuktānām*.’\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मङ्गलाचाराभ्यां युक्तानां नित्यं शुचीनां जपहोमरतानां दैवमानुषोपद्रवो न जायते॥१४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यथा चाह **मङ्गलाचारयुक्तानाम्** इति । मङ्गलाद्यनुष्ठानशीलानां शुद्धानां जपहोमपरायणानां दैवपुरुषकृत उपद्रवो **न विद्यते** ॥ ४.१४६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 146	No calamity happens to those who eagerly follow auspicious customs and the rule of good conduct, to those who are always careful of purity, and to those who mutter (sacred texts) and offer burnt-oblations.
@@ -1266,7 +1494,7 @@ This verse is quoted in *Nityācārapradīpa* (p. 492).
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१४७ वेदम्</summary>
 
 वेदम् एवाऽभ्यसेन् नित्यं  
 यथाकालम् अतन्द्रितः [मेधातिथिपाठः - वेदम् एव जपेन्] ।  
@@ -1322,6 +1550,16 @@ elder superior to the mother; there is no friend superior to charity,—either h
 *Āpastamba Dharmasūtra* (1.14.12).—‘There is no refuge beyond the Veda.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नित्यकृत्यावसरे श्रेयोहेतुतया प्रणवगायत्र्यादिकं वेदमेवानलसो जपेत् । यस्मात्तं ब्राह्मणस्य श्रेष्ठं धर्मं मन्वादयो वदन्ति । अन्यः पुनस्ततोऽपकृष्टोधर्मो मुनिभिरुच्यते । उक्तस्यैव वेदाभ्यासादेः पूर्वजाविस्मरणद्वारेण मोक्षहेतुत्वं वदितुं पुनरभिधानम् ॥१४७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वेदम् एव जपेन् नित्यम्** इति । यस्मिन् यस्मिन् काले दृष्टार्थकर्मोपरोधो भवति तत्र नित्यं **वेदम् एवा**नलसः सन् **जपएत् **। यस्मात् तं ब्रह्मणस्य **परं धर्मं **मन्वादय **आहुः** । तदन्यस् त्व् अमुख्यो धर्मस् तैर् **उच्यते **॥ ४.१४७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 147	Let him, without tiring, daily mutter the Veda at the proper time; for they declare that to be one's highest duty; (all) other (observances) are called secondary duties.
@@ -1334,7 +1572,7 @@ elder superior to the mother; there is no friend superior to charity,—either h
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१४८ वेदाभ्यासेन</summary>
 
 वेदाभ्यासेन सततं  
 शौचेन तपसैव च ।  
@@ -1372,6 +1610,16 @@ The four acts mentioned bring about their result in the form of the remembrance 
 This verse is quoted in *Aparārka* (p. 229), where ‘*jātī*’ is explained as ‘birth’;—and in *Vīramitrodaya* (Āhnika, p. 320).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सततवेदाभ्यासशौचतपोऽहिंसाभिः पूर्वभवस्य जातिं स्मरति ॥१४८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+उक्तस्यापि वेदाभ्यासस्य यद् अर्थं पुनर् अभिधानं तद् आह **वेदाभ्यासेनेति** । नित्यं वेदाभ्यासशौचतपोऽहिंसाभिः** **पूर्वभवस्य जन्म **स्मरति** ॥ ४.१४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 148	By daily reciting the Veda, by (the observance of the rules of) purification, by (practising) austerities, and by doing no injury to created beings, one (obtains the faculty of) remembering former births.
@@ -1379,7 +1627,15 @@ This verse is quoted in *Aparārka* (p. 229), where ‘*jātī*’ is explained 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+ततः किमत आह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१४९ पौर्विकीम्</summary>
 
 पौर्विकीं संस्मरन् जातिं  
 ब्रह्मैवाऽभ्यस्यते पुनः [मेधातिथिपाठः - द्विजः] ।  
@@ -1401,8 +1657,10 @@ Recollecting his former births, the twice-born person continues to study the Ved
 
 <u>ननु</u> चेष्टफलकामः सर्वं समीहते । न च[^२१८] जन्मान्तरानुस्मरणम् एकान्तसुखं[^२१९] येन फलत्वेन वेदाभ्यासादिचतुष्टयस्य वर्ण्यते । तत आह **पौर्विकीं जातिं स्मरन् ब्रह्म** वेद **अभ्यस्यते** तत्र श्रद्धावान् भवति । "ईदृशो **ब्रह्माभ्यासो** येन जन्मान्तरं स्मर्यते" इति । स्मरन् पुनस् तदभ्यासे वर्तते । तस्माच् चानेकजन्माभ्यस्ताद् अनन्तरं ब्रह्मप्राप्तिलक्षणं सुखम् । **अजस्रम्** अपुनरावृत्तिम् **अश्नुते** प्राप्नोति । **अनन्त**शब्देन सुखविशेष उपलक्ष्यते, असाधना परितृप्तिर् आत्मनः । तस्याजस्रपदेन शाश्वतं प्रतिपाद्यते । तादृशं सुखं प्राप्यते, न चैतत् क्षीयते । 
 
+
 [^२१९]:
      M G: ekatarasukhaṃ
+
 
 [^२१८]:
      M G 1st ed. omit: na ca
@@ -1423,6 +1681,16 @@ In view of this question, the Author says—‘*Recollecting his former births, 
 This verse is quoted in *Aparārka* (p. 229);—and in *Vīramitrodaya* (Āhnika, p. 320), which explains ‘*Brahma*’ as ‘Veda,’—and ‘*anantam*’ as ‘to be enjoyed for a long time.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वजातिं स्मरन् । जातिमित्येकत्वमनाकाङ्क्षितत्वादविवक्षितम् । बहूनि जन्मानि स्मरंस्तेषु च गर्भजन्मजरामरणदुःखान्यपि स्मरन्संसारे विरज्यन्ब्रह्मैवाजस्त्रमभ्यस्यति श्रवणमननध्यानैः साक्षात्क-रोति, तेन चानन्तमविनाशि परमानन्दाविर्भावलक्षणं मोक्षसुखं प्राप्नोति ॥१४९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+ततः किम् अत आह **पौर्विकीम्** इति । पूर्वजातिं स्वां **संस्मरन् **ईदृग् अयं वेदाभ्यासः येन जन्मान्तरं स्मर्यत इति मत्वा अभीक्ष्णं वेदाभ्यासम् एव करोति तेन चानवरतम् आचर्यमाणे वेदार्थावबोधजाते सति ब्रह्मप्राप्तौ परमात्मरूपम् **अक्षयं सुखं **प्राप्नोति ॥ ४.१४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 149	He who, recollecting his former existences, again recites the Veda, gains endless bliss by the continual study of the Veda.
@@ -1435,7 +1703,7 @@ This verse is quoted in *Aparārka* (p. 229);—and in *Vīramitrodaya* (Āhnika
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१५० सावित्राञ्</summary>
 
 सावित्राञ् शान्तिहोमांश् च  
 कुर्यात् पर्वसु नित्यशः [मेधातिथिपाठः - सावित्रान् शान्तिहोमांश्] ।  
@@ -1499,6 +1767,16 @@ darker fortnight, the two solstices, materials, excellent Brāhmaṇas, and the 
 should offer balls of food, which is conducive to endless satisfaction.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सावित्रीदेवताकान्होमाननिष्टनिवृत्यर्थं च शान्ति होमान्पौर्णमास्यमावास्ययोः सर्वदा कुर्यात् । तथा आग्रहायण्या ऊर्ध्वं कृष्णाष्टमीषु तिसृषु चाष्टकाख्येन कर्मणा श्रद्धेन च तदन्तरितकृष्णनवमीषु चान्वष्टकाख्येन परलोकगतान् पितॄन्यजेत् ॥१५०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सावित्रान्** इति । सवितृदेवताकान् अनिष्टनिवृत्त्यर्थांश् च होमान् पक्षसन्धिषु अमावास्यादिषु च “आज्यं हविर् अनादेयम्” इति सूत्रकारस्मरणात् आज्येन नित्यं कुर्यात् । तथा अष्टकाख्येन कर्मणा अष्टकापश्चाद्भाविनीषु च नवमीषु **अन्वष्टकाख्येन** कर्मणा प्रमीतान् पित्रादीन् तर्पयेत् ॥ ४.१५० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 150	Let him always offer on the Parva-days oblations to Savitri and such as avert evil omens, and on the Ashtakas and Anvashtakas let him constantly worship the manes.
@@ -1513,7 +1791,7 @@ should offer balls of food, which is conducive to endless satisfaction.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१५१ दूराद् आवसथान्</summary>
 
 दूराद् आवसथान् मूत्रं  
 दूरात् पादावसेचनम् ।  
@@ -1569,6 +1847,18 @@ the house, to a distance marked by the throw of an arrow, he shall perform the e
 second line as ‘*Ucchiṣṭotsarjanañ caivadūre kāryam hitaiṣiṇā*.’\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नैर्ऋत्यामिषुविक्षेपमतीत्याभ्यधिकं भुवः ।
+
+इति विष्णुपुराणवचनादेवंविधादग्निगृहस्य दूरान्मूत्रपुरीषपादप्रक्षालनसकलोच्छिष्टान्नानि निषिच्यत इति निषेकं रेतश्चोत्सृजेत् ॥१११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दूराद्** इति । “क्षिप्रं गत्वा क्षेपमात्रं शरस्य” इति पुराणस्मरणद् एवंविधात् गृहस्य दूरात् मूत्रपुरीषपादधावनोदकोच्छिष्टपरिषेकोदकाद्य् उत्सृजेत् ॥ ४.१५१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 151	Far from his dwelling let him remove urine (and ordure), far (let him remove) the water used for washing his feet, and far the remnants of food and the water from his bath.
@@ -1581,7 +1871,7 @@ second line as ‘*Ucchiṣṭotsarjanañ caivadūre kāryam hitaiṣiṇā*.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१५२ मैत्रं प्रसाधनम्</summary>
 
 मैत्रं+++(=गुदादि-सम्बद्धं/मित्रसम्बद्धं‌‌)+++ प्रसाधनं स्नानं  
 दन्तधावनम् अञ्जनम् ।  
@@ -1644,6 +1934,16 @@ duly purified and with due care, he shall perform the duty towards gods in the f
 Do. (Do., 161.25).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मित्रदेवताकत्वान्मैत्रः पायुस्तद्भवत्वान्मैत्रं पुरीषोत्सर्गम् । तथा देहप्रसाधनं प्रातःस्नानदन्तधावनाञ्जन-देवार्चनादि पूर्वाह्णएव कुर्यात् । पूर्वाह्णशब्देन रात्रिशेषदिनपूर्वभागाविह विवक्षितौ । पदार्थमात्रविधिपर-त्वाच्चास्य पाठक्रमोऽपि नादरणीयः । नहि स्नानानन्तरं दन्तधावनम् ॥१५२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मैत्रम्** इति । **मैत्रं** पायुर् इति पश्वङ्गसंस्तवे पायौ मित्रदेवताकथनश्रवणाद् इहाप्य् अभेदोपचारेण **मैत्रः **पायुः । तत्र भवः उत्सर्गे सति शौचं तथानुलेपनादिशरीरसंस्कारनित्यस्नानदन्तधावनाञ्जनदेवार्चनानि **पूर्वाह्ण एव कुर्वीत **॥ ४.१५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 152	Early in the morning only let him void faeces, decorate (his body), bathe, clean his teeth, apply collyrium to his eyes, and worship the gods.
@@ -1656,7 +1956,7 @@ Do. (Do., 161.25).—(Same as Manu.)
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१५३ दैवतान्य्</summary>
 
 दैवतान्य् अभिगच्छेत् तु  
 धार्मिकांश् च द्विजोत्तमान् ।  
@@ -1666,6 +1966,16 @@ Do. (Do., 161.25).—(Same as Manu.)
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/153_daivatAny_abhigachChet.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>कुल्लूकः</summary>
+
+पाषाणादिमयानि धर्मप्रधानांश्च ब्राह्मणान्रक्षार्थं राजादिकं गुरूंश्च पित्रादीनमावास्यादिपर्वसु द्रष्टुर्माभिमुखो गच्छेत् ॥१५३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दैवतान्य् अभिगच्छेद्** इति । **दैवतानि **सुवर्णमण्यादिकृतानि धर्मप्रधानांश् च ब्राह्मणान् पालनसमर्थं च राजादिकं **रक्षार्थं गुरूंश् **चापि पित्रादीन् अमावास्यादिषु पक्षसन्धिषु च द्रष्टुं गच्छेत् ॥ ४.१५३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 153	But on the Parva-days let him go to visit the (images of the) gods, and virtuous Brahmanas, and the ruler (of the country), for the sake of protection, as well as his Gurus.
@@ -1673,7 +1983,7 @@ Do. (Do., 161.25).—(Same as Manu.)
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१५४ अभिवादयेद्</summary>
 
 अभिवादयेद् वृद्धांश् च  
 दद्याच् चैवासनं स्वकम् ।  
@@ -1683,6 +1993,16 @@ Do. (Do., 161.25).—(Same as Manu.)
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/154_abhivAdayed_vRddhAMsh.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>कुल्लूकः</summary>
+
+गृहागतान्गुरूनभिवादयेत्तेषां च स्वीयमासनमुपवेष्टुं च दद्यात् । बद्धाञ्जलिश्च गुरुसमीपे आसीत् ।गच्छतश्च पृष्ठदेशेऽनुगच्छेत् । उक्तोऽव्ययमभिवादनाद्याचारः फलाभिधानाय पुनरुच्यते ॥१५४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अभिवादयेद्** इति । गृहागतान् (गता) ज्यायसो (ज्यायांसो) ऽ**भिवादयेत्** तेषां चात्मीयम् **आसनम्** उपवेशनार्थं **दद्यात् । **बद्धाञ्जलिंश् च तत्समीपम् आसीत । **गच्छतश्च्ब् **च पश्चाद् अनुव्रजेत् ।** **उक्तम् अपीदम् अभिवादनादि वक्ष्यमाणफलाभिधित्सया पुनर् उच्यते ॥ ४.१५४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 154	Let him reverentially salute venerable men (who visit him), give them his own seat, let him sit near them with joined hands and, when they leave, (accompany them), walking behind them.

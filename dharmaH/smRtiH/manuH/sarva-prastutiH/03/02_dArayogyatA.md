@@ -1,7 +1,16 @@
 +++
 title = "०२ दारयोग्यता"
 +++
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_यादृशी कन्या वोढव्या ताम् इदानीं दर्शयति ।_
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.५ असपिण्डा च</summary>
 
 असपिण्डा च या मातुर्  
 +++(असपिण्डा)+++ असगोत्रा च या पितुः ।  
@@ -15,11 +24,15 @@ title = "०२ दारयोग्यता"
 
 She who is not a “sapiṇḍa” of one’s mother, not of the same “Gotra” as his Father, and who is not born of (unlawful) intercourse—has been recommended for marriage.—(5)
 
+
 “Three kinds of sapiṇḍā have got to be excluded—
+
 
 To the first category belongs the girl who is one’s own sapiṇḍā as being the sapiṇḍā of his father, who is the married husband of his mother;—to the second category belongs the girl who is not the sapiṇḍā of that ‘father’ who is only the supporter (not the progenitor), and is one’s own and his natural father’s (progenitor’s) sapiṇḍā,—and who thus is his own sapiṇḍā, but not that of his supporter-‘father’;—and to the third class belongs that girl who is the sapiṇḍā of the supporter-‘father’, but not one’s own sapiṇḍā. All this diversity is based upon the fact that in the case of the ‘adopted’ son (in whose case the supporter-father and the progenitor-father are different), the son’s body (piṇḍa) does not contain the constituent elements of the body of the father.
 
+
 For the same reasons there are four kinds of ‘father’ also—
+
 
 Of these the ‘progenitor’, husband of the mother, and the ‘seed-owner’ both transmit the constituents of their body to the child; and on that ground the sāpiṇḍya ‘consanguinity’; of these two Fathers to the Aurasa and Kṣetraja sons would be direct; while that of the ‘field-owner’ (the second kind of ‘father’) would be only indirect, through the field (i.e., the body of his wife); the bodies of the husband and wife having been declared to bo one.—Now the girls that fall within these three kinds of ‘consanguinity would become excluded by the test that ‘one should marry a girl younger than himself, who is not his sapiṇḍā’ (Yājñavalkya 1. 52). But the Sapiṇḍā of the Supporter (adoptive) father would not be the Sapiṇḍā of the adopted son, and as such she would not he excluded by the said text. Hence it becomes necessary to find out a text excluding the ‘father’s Sapiṇḍā;’ and such a text is found in Manu 3. 5 (the present verse). This text clearly implies that the girl who falls within seven degrees of the ‘Sāpiṇḍya’ of the Secondary Father (not the progenitor) is to be avoided; in this sense the term pituḥ, being taken in its etymological sense of one who supports, pāti iti pitā, includes the adoptive, father also.”
 </details>
@@ -28,11 +41,14 @@ Of these the ‘progenitor’, husband of the mother, and the ‘seed-owner’ b
 
 **मातुर् यासपिण्डा पितुश् च यासगोत्रा सा दारकर्मणि प्रशस्ता** । सपिण्डग्रहणं मातृबन्धूपलक्षणार्थम् । मातुर् हि सापिण्ड्यं स्त्रीणां स्मृत्यन्तरे तृतीयपुरुषावधि । न तु त्रिभ्य ऊर्ध्वं मातृबन्धुभ्यो विवाह इष्यते, किं तर्हि, पञ्चमाद् ऊर्ध्वम् । एवं हि गौतमः पठति- "ऊर्ध्वं सप्तमात् पितृबन्धुभ्यो मातृबन्धुभ्यः पञ्चमात्" इति (ग्ध् ४.३–५) । तेन यथाश्रुतिसमन्वयाभावात् सापिण्ड्याभावः स्मृत्यन्तरवशेन मातृसंबन्धितया व्याकरणीयः । तेनैवम् उक्तं स्यात् मातुर् अन्वयजा जाया[^४२] न भवति । अवधिश् च गौतमीय एव । तेन मातामहमातामहयोर्[^४३] ऽन्वये जाता सा पुत्रसंततेर् बान्धवसामीप्यात् पञ्चमीं यावन् न विवाहयितव्या । अतो मातृष्वसृतद्दुहितॄणां प्रमातामहसंततिजानां[^४४] च सर्वासां प्रतिषेधः, बन्धुत्वाविशेषात् ।
 
+
 [^४४]:
      M G 1st ed.: pramātāmahī-
 
+
 [^४३]:
      M G 1st ed.: mātāmahī=
+
 
 [^४२]:
      M G 1st ed.: yā
@@ -47,10 +63,12 @@ Of these the ‘progenitor’, husband of the mother, and the ‘seed-owner’ b
 
 गौतमेन तु पठ्यते- "असमानप्रवरैर् विवाहः" इति (ग्ध् ४.२) । तत्र गोत्रसमत्वे सत्य् अपि प्रवरभेदश् चेद् युज्यते विवाहः । तद् अयुक्तम्, यतः स्मृत्यन्तरे ह्य् उभयं निषिध्यते- "असमानार्षगोत्रजाम्" (य्ध् १.५३) इति । आर्षं प्रवर इत्य् एको ऽर्थः । कथं पुनर् गोत्रभेदे समानार्षेयत्वम् । किम् इति न भवति यदि स्मर्यते । श्रुतिस्मृतिप्रमाणको ऽयम् अर्थो न प्रत्यक्षगोचरो येन विरोधः स्यात् । के पुनर् अमी प्रवरा नाम । अत्यल्पम् इदम् उच्यते । इदम् अपि वक्तव्यम्- किं पुनर् एतद् ब्राह्मणत्वं नाम, तथा कतरद् एतद् गोत्रं नाम । यथैव समाने पुरुषत्वे ब्राह्मणत्वादिविशेषः, एवं समाने ब्राह्मणत्वे वसिष्ठादिगोत्रभेदः, प्रतिगोत्रं च समानार्षेयाणि । यस्यैतद् गोत्रं तस्य तैः शब्दैः प्रवराश्रयणं कर्तव्यम् । एवं विवाहनिषेधे ऽपि । स्मरन्ति च सूत्रकाराः गोत्रभेदसंबन्धेन प्रवरान्- "यस्यैतद् गोत्रं तस्येमे प्रवराः" इति । गोत्रभेदस् तु तद्गोत्रजैर् एव । स्मर्यते- "वयं पराशरा वयम् उपमन्यवः" इति । यद्य् अपि गोत्रवत् प्रवरान् अपि स्मरन्ति, तथापि बहुत्वात् कदाचिद् विस्मरेयुर् इति गोत्रम् उपलक्षणीकृत्य प्रवरस्मृतिर् उपनिबद्धा । गोत्रं तु स्मरन्ति । न च तस्य किंचिद् उपलक्षणम् अस्ति- य एवंरूपस् तस्येदं गोत्रम् इति । एतावत् तत्र स्मरणम् । यावद्गोत्रं संततिसमानजातीयत्वम्[^४५] । 
 
+
 [^४५]:
      M G: saṃtatiḥ
 
 - एष च गोत्रप्रवरभेदः ब्राह्मणानां न राजन्यविषाम्[^४६] । तथा हि कल्पसूत्रकारः- "पौरोहित्याद् राजन्यवैशयोः" इति । यद्य् अपि गोत्रविशेषव्यपदेशे सति प्राप्तप्रतिषेधेनापि प्रवराधिकारे वचनम् इदम् उपपद्यते, किं तु न तेषां गोत्रस्मरणम् अस्ति । <u>कस् तर्हि</u> क्षत्रियवैश्ययोर् विवाहे ऽपि बन्धूनाम् अवधेर् नियमः ।
+
 
 [^४६]:
      M G 1st ed.: brāhmaṇarājanyaviṣām
@@ -66,6 +84,7 @@ Of these the ‘progenitor’, husband of the mother, and the ‘seed-owner’ b
 - किं पुनर् अत्र युक्तम् । एकैकस्य प्रवरत्वम् । तथा हि सामानाधिकरण्यं दृश्यते । एकं वृणीते द्वौ वृणीते त्रीन् वृणीत इति प्रतिपन्न एकः । तत्साम्ये ऽप्य् आहैषाम् अविवाह इति ।
 
 - **द्विजाति**ग्रहणम् उपलक्षणार्थम् । शूद्रस्यापि आ सप्तमात् पितृतः पञ्चमान् मातृत[^४७] इत्य् अस्ति । दारकरणं दारक्रिया **दारकर्म** । तत्र **प्रशस्ता** प्रशंसया विहितेत्य् अर्थः । **मैथुनी** । मिथुने भवा **मैथुनी**, न मैथुनी अमैथुनी । पितुर् इति संबध्यते, पितृबीजाद् एवोत्पन्ना जातमात्रा । नियोगो विहितस् तत उत्पन्नाया नास्ति पूर्वोक्तविशेषणैर् निषेधः । अतः पृथङ् निषिध्यते **अमैथुनीति** । ततो नियोगोत्पन्ना कामतो न विवाह्या, मैथुनीत्वात् । 
+
 
 [^४७]:
      M G 1st ed. omit: pañcamān mātṛta
@@ -306,6 +325,36 @@ should marry the girl in the third and the fourth grades.’
 one may marry the girl who is in the third grade on the mother’s side and in the third grade on the father’s side.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मातुर्या सपिण्डा न भवति । सप्तमपुरुषपर्यन्तं सपिण्डतां वक्ष्यति
+
+“सपिण्डतातु पुरुषे सप्तमे विनिवर्तते" ( म. स्मृ. ४ / ६० ) इति ।
+
+तेन मातामहादिवंशजा जाया न भवतीत्यर्थः। चशब्दान्मातृसगोत्रापि मातृवंशपरम्परा -
+
+जन्मनान्नोः प्रत्यभिज्ञाने सति न विवाह्या । तदितरा तु मातृसगोत्रा विवाह्येति संगृहीतम् । तथा च व्यासः—
+
+**सगोत्रां मातुरप्येके नेच्छन्त्युद्वाहकर्मणि।**
+
+**जन्मनाम्नोरविज्ञान उद्वहेदविशङ्कितः॥**
+
+यत्तु मेधातिथिना वसिष्ठनाम्ना मातृसगोत्रानिषेधवचनं लिखितम्—
+
+**“परिणीय सगोत्रां तु समानप्रवरां तथा।**
+
+**तस्यां कृत्वा समुत्सर्गं द्विजश्चान्द्रायणं चरेत्।**
+
+**मातुलस्य सुतां चैव मातृगोत्रां तथैव च ॥इति॥**
+
+तदपि मातृवंशजन्मनामपरिज्ञानविषयमेव । असगोत्रा च या पितुरिति । पितुर्या सगोत्रा न भवति । चकारात्पितृसपिण्डाऽपि, पितृष्वस्त्रादिसन्ततिभवा या न भवतीत्यर्थः । सा द्विजातीनां दारकर्मणि दारत्वसम्पादके विवाहे प्रशस्ता मैथुनसाध्ये अग्न्याधानकर्मपुत्रोत्पादनादौ चेति ॥५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**असपिण्डेति **। “सपिण्डता तु पुरुषे सप्तमे विनिवर्तते” (म्ध् ५.६०) इत्य् अपि वक्ष्यति । अतो **मातुर् असपिण्डा** मातामहप्रमातामहान्वयजाता या न भवति या च मातामहीप्रमातामह्याद्यन्वयजाता च भवति, **पितुश् च या **समानगोत्रा **न भवति,** चशब्दात् सपिण्डाच् च पितृष्व्स्रादिसन्ततिजाता या **न भवति सा द्विजातीनां मैथुनादौ दारकर्मणि **योज्या ॥ ३.५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 005	A damsel who is neither a Sapinda on the mother's side, nor belongs to the same family on the father's side, is recommended to twice-born men for wedlock and conjugal union.
@@ -318,7 +367,7 @@ one may marry the girl who is in the third grade on the mother’s side and in t
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.६ महान्त्य् अपि</summary>
 
 +++(अस्य विस्तारो [ऽत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199777.html)। )+++
 
@@ -388,6 +437,16 @@ unknown or one which has the same *Ṛṣis*. The first six are to ho avoided be
 for sacrificial performances; and one in which the Veda is unknown is to be avoided, because it would he unfit, for divine rites; one having the same *Ṛṣis* as the man himself is to he avoided because it is the same family. For these reasons one should examine seven generations on the father’s side and live on the mother’s side and then select as his wife a girl who has not attained puberty, is endowed with superior qualities and has a brother. He shall always select one who is fully qualified as regards family, the asterism under which she has been born, and learning and wisdom.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उत्कृष्टान्यपि गवादिभिः समुद्धान्यपि इमानि दश कुलानि विवाहे त्यजेत् ॥६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**महान्तीति ।** इमानि **दश** वक्ष्यमाणानि **कुलानि **उत्कृष्टान्य् अपि **वर्जयेत् **। तथा गोछागाविमहिषीधान्यैः **समृद्धान्य् अपि** तच्छीलप्रजोत्पत्तिव्याधिसङ्क्रान्तिपरिहारार्थं शास्त्रनोदनासामर्थाद् अदृष्टदोषपरिहारार्थं च दारसम्बन्धीति **वर्जयेत्** ॥ ३.६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 006	In connecting himself with a wife, let him carefully avoid the ten following families, be they ever so great, or rich in kine, horses, sheep, grain, or (other) property,
@@ -400,7 +459,15 @@ for sacrificial performances; and one in which the Veda is unknown is to be avoi
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+तानि कानीत्याह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.७ हीनक्रियम्</summary>
 
 हीन-क्रियं निष्-पुरुषं  
 निश्-छन्दो रोमशार्शसम् ।  
@@ -467,6 +534,24 @@ notes;—‘*Hīnakriyam*’, not performing the prescribed duties, *i.e*., not 
 See Comparative notes for [Verse 3.6].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+जातकर्मादिक्रियारहितं, स्त्रीजनकं, वेदाध्यापनशुन्यंबहुदीर्घरोमान्वितं अर्शोनामव्याधियुक्तः, क्षयो राजयक्ष्मा, मन्दानलापस्मारश्चित्रकुष्ठयुक्तानां च कुलानि वर्जयेदिति पूर्वक्रियासंबन्धः। दृष्टमूलता चास्य प्रतिषेधस्य मातुलवदुत्पन्ना अनुवहन्ते । तेन हीनक्रियादिकुलात्परिणीतायां सन्ततिरपि तादृशी स्यात् । "व्याध्यः सञ्चारिणः” इति वैद्यकाः पठन्ति—
+
+**सर्वे संक्रामिणो रोगा वर्जयित्वा प्रवाहिकाम् । इति ।**
+
+अवेदमूला कथमियं प्रमाणमिति चेत् ? न, दृष्टार्थतयैव प्रामाण्यसंभवात् । तदुक्तं भविष्यपुराणे—
+
+**सर्वा एता वेदमूला दृष्टार्थाःपरिहृत्य तु।**
+
+मीमांसाभाष्यकारेणापि स्मृत्यधिकरणेऽभिहितम् "ये दृष्टार्थास्ते तत्प्रमाणं, ये त्वदृष्टार्थास्तेषु वैदिकशब्दानुमानम्” इति ॥७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**हीनक्रियम्** इति । यागादिरहितं कुलं स्त्रीजनकं वेदशून्यं प्रचुरतरदीर्घतोमाञ्चितम् आर्शाद्याख्यव्याध्युपेतं राजयक्ष्मिमन्दाग्न्यपस्मारिश्वित्रिकुष्ठीनां च सम्बन्धीनि **कुलानि वर्जयेत् **॥ ३.७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 007	(Viz.) one which neglects the sacred rites, one in which no male children (are born), one in which the Veda is not studied, one (the members of) which have thick hair on the body, those which are subject to hemorrhoids, phthisis, weakness of digestion, epilepsy, or white or black leprosy.
@@ -479,7 +564,15 @@ See Comparative notes for [Verse 3.6].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+कुलाश्रयं प्रतिषेधमभिधाय कन्यास्वरूपाश्रयप्रतिषेधमाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.८ नोद्वहेत्</summary>
 
 नोद्वहेत् कपिलां कन्यां  
 नाऽधिकाङ्गीं न रोगिणीम् ।  
@@ -498,8 +591,10 @@ He should hot marry a maiden with tawny hair, nor one with superfluous limbs, no
 
 पूर्वः कुलाश्रयः प्रतिषेधः । अयं तु स्वरूपाश्रयः । यस्या कद्रुवर्णाः[^४८] कनकवर्णा वा केशाः सा **कपिला** । **अधिकाङ्गी** षडङ्गुलिः । **रोगिणी** बहुरोगा दुष्प्रतिकारव्याधिगृहीता च । भूम्नीनिः[^४९] मत्वर्थीयो नित्ययोगे वा । **अलोमिका** अकेशा । लोमानि केशा अप्य् उच्यन्ते । बाहुमध्ये जङ्घाद्वये वा सर्वलोम्नाम् अभावः । **वाचाला** स्वल्प एव वक्तव्ये बहुलं परुषं च भाषते । **पिङ्गला** अक्षिरोगेण मण्डलाक्षी कपिलपिङ्गलाक्षी वा ॥ ३.८ ॥
 
+
 [^४९]:
      M G: bhūmnīni
+
 
 [^४८]:
      M G 1st ed.: asuvarṇāḥ
@@ -562,6 +657,16 @@ asterism, or after a river, or after a tree is not commended; one should avoid o
 one named after a Veda, or a river, or a mountain or a Gandharva, or an asterism, or a tree, or a creeper.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कपिलकेशां षडङ्गुल्यादिकां नित्यव्याधितामविद्यमानलोमां प्रचुरलोमां बहुपरुषभाषिणीं पिङ्गलाक्षीं कन्यां नोपयच्छेत् ॥८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नोद्वहेद्** इति । **कपिलां** षडङ्गुल्या **अधिकां** व्याधिताधिष्ठितां अविद्यमानलोमां बहुभाषिणीं पिङ्गलां वर्णां कन्यां नोपयच्छेत् ॥ ३.८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 008	Let him not marry a maiden (with) reddish (hair), nor one who has a redundant member, nor one who is sickly, nor one either with no hair (on the body) or too much, nor one who is garrulous or has red (eyes),
@@ -574,7 +679,7 @@ one named after a Veda, or a river, or a mountain or a Gandharva, or an asterism
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.९ नर्क्षवृक्षनदीनाम्नीम्</summary>
 
 नर्क्ष-वृक्ष-नदी-नाम्नीं  
 नाऽन्त्य-पर्वत-नामिकाम् ।  
@@ -592,6 +697,7 @@ Nor one bearing the name of an asterism, or a tree, or a river; nob one having h
 <details><summary>मेधातिथिः</summary>
 
 **ऋक्षं** नक्षत्रम्, तन्नामिका, आर्द्रा ज्येष्ठा इत्यादि । **वृक्षनाम्नीं** शिंशपा आमलकीति । **नदी** गङ्गा यमुना, तन्नाम्नी । ऋक्षाणि च वृक्षाश् च नद्यश् चेति द्वन्द्वः तासां नामानीति षष्ठीसमासः । ततो द्वितीयेन नामशब्देनोत्तरपदलोपी समासः । **अन्त्यनामिका** बर्बरीशबरीत्यादि । **पर्वता** विन्ध्यमलयादयः । पूर्ववत् समासात्मकप्रत्ययः । **पक्षिनाम्नी** शुकी सारिका । **अहिः** सर्पस् तन्नाम्नी- व्याली भुजङ्गी । **प्रेष्या** दासी चेटी दरनी[^५०] । **बिभिषणं** नाम भयजनकम्, डाकिनी राक्षसी ॥ ३.९ ॥
+
 
 [^५०]:
      M G: vālī
@@ -640,6 +746,20 @@ verse;’—in *Vīramitrodaya* (Lakṣaṇa, p. 120), where ‘*antya*’ is ex
 See Comparative notes for [Verse 3.8].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ नातिस्थूलां नातिकृशां न दीर्घांनातिवामनाम्।**
+
+**वयोऽधिकां नाङ्गहीनां न सेवेत्कलहप्रियाम्॥१॥ \]**
+
+ऋक्षं नक्षत्रं तन्नामिकाम् आर्द्रारेवतीत्यादिकाम् । एवं तरुनदीम्लेच्छपर्वतपक्षिसर्पदासभ-यानकनामिकां कन्यां नोहेत् ॥९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति** । नक्षत्रवृक्षनदीम्लेच्छपर्वतपक्षिसर्पदासभ्यानकनामिकां कन्यां नोद्वहेत्॥ ३.९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 009	Nor one named after a constellation, a tree, or a river, nor one bearing the name of a low caste, or of a mountain, nor one named after a bird, a snake, or a slave, nor one whose name inspires terror.
@@ -652,7 +772,7 @@ See Comparative notes for [Verse 3.8].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१० अव्यङ्गाङ्गीम्</summary>
 
 अव्यङ्गाङ्गीं सौम्य-नाम्नीं  
 हंस-वारण-गामिनीम् ।  
@@ -671,14 +791,18 @@ One should marry a female with a faultless body, bearing an agreeable name, havi
 
 **अव्यङ्गाङ्गीं**[^५१] । अव्यङ्गान्य् अङ्गानि यस्या सैवम् उच्यते । अव्यङ्गशब्दो ऽवैकल्यवचनः, प्रवीणोदारादिशब्दवद् यद्य् अपि[^५२] व्युत्पाद्यते ऽविकलान्य् अङ्गानि यस्येति, अतश् चाङ्गशब्दस्य द्वितीयस्यावयविनि शक्तौचित्येन, संस्थानस्य परिपूर्णता साव्यङ्गशब्देनोच्यते । **सौम्यं** मधुरं **नाम** । "स्त्रीणां सुखोद्यम्" (म्ध् २.३३) अत्र दर्शितम् । **हंस** इव **वारण** इव गच्छति । यादृशी हंसानां हस्तिनां च विलासवती मन्थरा गतिर् यस्याः । **तनु**शब्दो नाल्पवचनः किं तर्ह्य् आनुपरिमाणे[^५३] वर्तते । तन्वङ्गी सोच्यते या[^५४] नातिस्थूला नातिकृशेति । **मृदूनि** सुस्पर्षाकठिनापरुषाण्य् अङ्गानि यस्याः सा । ताम् **उद्वहेत् स्त्रियं** कन्याधिकारात् कन्याम् । 
 
+
 [^५४]:
      M G 1st ed omit: yā; G 2nd ed.: sā
+
 
 [^५३]:
      M G 1st ed.: ānuparibhāve
 
+
 [^५२]:
      M G: yady api
+
 
 [^५१]:
      M G omit: avyaṅgāṅgīṃ
@@ -748,6 +872,18 @@ who has the voice of the swan, complexion like the clouds and eyes of the tawny 
 relations, good character, and auspicious marks, and who is free from disease.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अविकलाङ्गी मधुरसुखोद्यनाम्नी हंसगजरुचिरगमनां अनतिस्थूललोमकेशदशनां कोमलाङ्गीं कन्यामुद्द्हेत् ॥१०॥
+
+अत्र विधिनिषेधयोरभिधानमनिषिद्धविंहितकन्यापरिणयनमभ्युदयार्थमिति दर्शयितुमाह
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अव्यङ्गाङ्गीम्** इति । अविकलाङ्गीम् अप्रसन्ननाम्नीं राजहंसगजरुचिरगमनाम् अनतिस्थूलरोमकेशदन्तां कोमलाङ्गीं कन्यां परिणयेत् । विधिनिषेधभयाभिधानं निर्दोषसगुणकन्योपयमने ऽभ्युदयार्थम् ॥ ३.१० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 010	Let him wed a female free from bodily defects, who has an agreeable name, the (graceful) gait of a Hamsa or of an elephant, a moderate (quantity of) hair on the body and on the head, small teeth, and soft limbs.
@@ -760,7 +896,7 @@ relations, good character, and auspicious marks, and who is free from disease.�
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.११ यस्यास् तु</summary>
 
 यस्यास् तु न भवेद् भ्राता  
 न विज्ञायेत वा पिता [मेधातिथिपाठः - वै(वा पिता] ।  
@@ -785,22 +921,28 @@ The wise man shall not mabry one who has no brother, or whose father is not know
 
 - <u>अन्ये</u> तु स्वतन्त्रम् एतत् प्रतिषेधद्वयम् आचक्षते । यदि[^५५] **पिता न विज्ञायेत,**[^५६] अननेयं जातेति, गूढोत्पन्नायाः प्रतिषेधः । एवं च संबन्धः । **यस्या भ्राता नास्ति** तां पुत्रिकात्वशङ्कया **नोपयच्छेत** । **न विज्ञायेत**[^५७] इत्य् अत्र पुत्रिकाशङ्कयेत्य् एतन् न संबध्यते । 
 
+
 [^५७]:
      M G: vijñāyata
 
+
 [^५६]:
      M G: vijñāyate
+
 
 [^५५]:
      M G: yady api
 
 - अस्मिन् प्रकरणे यत्र नास्ति दृष्टगतः प्रतिषेधः यथा "असपिण्डा च" (म्ध् ३.५) इत्य् अत्र श्लोके, तदतिक्रमे विवाहस्वरूपानिर्वृत्तिर् एव । अतः सगोत्रादिविवाहः कृतो ऽप्य् अकृत एव । विध्यवगमरूपत्वाद् आधानवद् विवाहस्य विध्यतिक्रमरूपाद् अपगमात्[^५८] । यथाधानविधौ यत् किंचिद् अङ्गं न ज्ञातं तदभावे नाहवनीयादिनिवृत्तिः, एवं सगोत्रादिकाया[^५९] न भार्यात्वम् । तस्मात् त्याज्यैव कृततादृशसंस्कारप्रतिरूपिकापि[^६०] । तत्रभवन्तो वसिष्ठादयः प्रायश्चित्तम् अपि स्मरन्ति तादृशविवाहे । यद्य् अपि कर्मण एव तदङ्गप्रतिषेधातिक्रमे वैगुण्यम्, न साक्षात् पुरुषस्य दोषः, तथापि वाचनिकं प्रायश्चित्तम् । अथ वा सगोत्रागमनं निषिद्धम् । तदर्थे व्यापारे प्रवर्तमाने यद् उक्तं तत् प्रायश्चित्तं भवेत् । 
 
+
 [^६०]:
      M G 1st ed.: kṛtā tādṛśa-
 
+
 [^५९]:
      M G: asagotrādikāyā
+
 
 [^५८]:
      M G: avagamāt
@@ -841,6 +983,27 @@ etc.’
 who has her father, mother and brother and is endowed with all suitable qualities, etc., etc.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**यस्याः पुनर्भ्राता नास्ति तां पत्रिकाशङ्कया नोद्वहेत् ।**
+
+**यदपत्यं भवेदस्यां तन्मम स्यात्स्वधाकरम् ॥ ( म० ९ स्मृ० १२/ ७ )**
+
+इत्यभिसन्धानमात्रादपि पुत्रिका भवति, "अभिसन्धिमात्रात्पुत्रिकेत्येके” इति गोतमस्मरणात् । यस्यावा विशेषेण पिता न ज्ञायतेऽनेनेयमुत्पन्नति, तामपि नोहेत् । अत्र च पुत्रिकाधर्मशङ्कयेति न योजनीयमिति केचित् । गोविन्दराजस्त्वाह - “भिन्नपितृकयोरप्येकमातृकयोर्भ्रातृकत्वासः सभ्रातृकत्वेऽपि यस्या विशेषेण पिता न ज्ञायते तामपि पुत्रिका शङ्क्यैव -इति । (१)[^62] मेधातिथिस्त्वेकमेवेमं पक्षमाह ।यस्यास्तु भ्राता नास्ति तां पुत्रिकाशङ्कयानोपयच्छेत्, पिता चेन्न ज्ञायते प्रोषितो मृतो वा । वाशब्दश्चेदर्थे।पितरितु विद्यमाने सदीयवाक्यादेव पुत्रिकात्वाभावमवगम्याभ्रातृकापि वोढव्येति । अस्माकं तु वाशब्दविकस्यस्वरसादिदं प्रतिभाति यस्या विशेषेण पिता न ज्ञायते तामपि जारजत्वेनाधर्मशङ्कया नोद्वहेत् । अन्न च पक्षे पुत्रिकाधर्मशङ्कयेति पुत्रिका चाधर्मश्च तयोः शङ्का पुत्रिकाऽधमशङ्का तयेति यथासंख्यं योजनीयम् । अत्र च प्रकरणे सगोत्रापरिणयने “सगोत्रां चेदमत्योपयच्छेन्मातृवदेनां बिभयात्" इति परित्यागश्रवणात् "परिणीय सगोत्रां च " इति प्रायश्चित्तश्रवणाञ्च तत्र, तत्समभिव्याहृते च मातृसपिण्डापरिणयनादौ भार्यात्वमेव न भवति, भा  
+र्याशब्दस्याहवनीयादिवत्संस्कारवचनत्वात् । येषां पुनरदृष्टगुणदोषमूलके विधिनिषेधाभिधाने, यथा हीनक्रियमिति, न तदतिक्रमे भार्यात्वाभावः । अत एव मनुना "महान्त्यपि समृद्धानि"( म० स्मृ० ३ / ६ ) इत्यादि पृथक्करणं कृतम् । एतन्मध्यपतितश्च "नर्क्षवृक्षनदीनाम्नीम्" ( म० स्मृ० २ / ९ ) इत्यादिप्रतिषेधोऽपि न भार्यात्वाभावफलकः, किंत्वत्र शास्त्रातिक्रमात्प्रायश्चित्तमात्रम् ॥११॥
+
+[^62]: "यस्वा भ्राता नास्ति तां न विवहेत् ।पुत्रिकाधर्मशङ्कया पुत्रिकात्वशङ्कया, पुत्रिकाधर्मः कदाचिदस्याः कृतो भवेत् पित्रेत्यनया शङ्कया अनेन सन्देहेन । कथं चेयं शङ्काभवति यदि न विज्ञायेत पिता देशान्तरे प्रोषितेमृतो वा सा मात्रा पितृसपिण्डैर्वा दीयते । प्राप्तकालापि पितयंसंनिहित ऐतैरपि दातव्येति स्मर्यते । स्मृतिज्ञोत्तरतो दर्शयिष्यामः । पितरि तु संविज्ञायमाने नास्ति पुत्रिकात्वशङ्का सहि स्वयमेवाह—कृता वान कृता वेति । वा शब्दश्चेच्छब्दार्थे द्रष्टव्यः । यदि पिता न विज्ञायेत तदा कन्यका"
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यस्या** इति । **यस्या भ्राता नास्ति** तां “यद् अपत्यं भवेद् अस्याः तन् मम स्यात् स्वधाकरम्” “इत्यभिसन्धिमात्रात् पुत्रिकेत्य् एके” इत्य् एवं मनु-गौतमोक्तपुत्रिकाविधिभ्रान्त्या **नोवहेत्** । भ्रात्रभावे हि पितरि विज्ञायमाने ऽपि पुत्राभावात् कदाचिद् असौ पित्रा पित्रिका कृता स्यात् । सत्याम् अपि वा सभ्रातृकप्रसिद्धौ “अनेनैवम् उत्पन्नेयं न” इति **यस्या **जनको विशेषेण **न ज्ञायते **ताम् अपि पुत्रिकात्वभ्रान्त्या **नोद्वहेत् **। जनके हि सम्यक् ज्ञायमाने भिन्नपितृकयोर् अप्य् एकमातृकाया भातृत्वप्रसिद्धेः अस्ति जनककृते पुत्रिकात्वाशङ्का एतद् उक्तम् उभयोर् विशेषणम् । पुत्रिकायाश् च न परिपूर्णं भार्यात्वम्, अत एव निषेधात् । “अभ्रातेव पुंस स एति प्रतीचि” इति व्याख्यातं चैतन् **निरुक्तकृता **– “अभ्रातृकेव पुंसः पितॄन् एति अभिमुखी सन्तानकर्मणे पिण्डदानाय भवति” इति । 
+
+> अत्र च प्रकरणे येषां विधिनिषेधानां दृष्टगुणदोषानुषङ्गो नास्ति यथा “असपिण्डा च या मातुः” इति तदतिक्रमे भार्या न भवति, भार्याशब्दस्याहवनीयादिवत् संस्कारशब्दत्वात् । येषां पुनः दृष्टगुणदोषदर्शनेन विधिनिषेधाभिधानं यथा हीनक्रियम् इति न भवति, तदतिक्रमे भार्यात्वाभावः केवलनियमातिक्रमात् प्रायश्चित्तमात्रं भवति ।
+
+> यच् चैतत् “नर्क्षवृक्षनदीनाम्नीम्” (म्ध् ३.९) इत्यादि तद् अपि दृष्टगुणदोशानुविधायि विधिनिषेधप्रकरणमध्यपाठात् तदेकयोगक्षेमम् एव । तथा च मनुना सपिण्डादिप्रतिषेधम् अभिधायानन्तरं “महान्त्य् अपि समृद्धानि” (म्ध् ३.६) इत्यादिपृथक्करणम् उपक्रम्य हीनक्रियम् इत्यादि नर्क्षवृक्षेत्यादि चैत्प्रकरणे ऽभिहितम्॥ ३.११ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 011	But a prudent man should not marry (a maiden) who has no brother, nor one whose father is not known, through fear lest (in the former case she be made) an appointed daughter (and in the latter) lest (he should commit) sin.
@@ -853,7 +1016,7 @@ who has her father, mother and brother and is endowed with all suitable qualitie
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१२ सवर्णाग्रे</summary>
 
 सवर्णाग्रे द्विजातीनां  
 प्रशस्ता दारकर्मणि ।  
@@ -872,6 +1035,7 @@ For ‘twice-born men’ a girl of equal caste has been recommended for the firs
 
 "उद्वहेत द्विजो भार्याम्" (म्ध् ३.४) इति सत्य् अपि द्वितीयानिर्देशे भार्यायाः प्रधानत्वे गुणकर्मत्वे च[^६१] विवाहस्य विवक्षितम् एकत्वम्, अनुवादगतोद्देश्यत्वात्, यथा यूपं छिनत्तीति । यस्यान्यतः स्वरूपम् अवगतं तस्यान्यत्र कार्यान्तरविधानार्थम् अनूद्यमानस्य यथावगतस्वरूपस्यैवानुवादो भवति, यथा गृहं संमार्ष्टीति, पूर्वावगतिसापेक्षत्वाद् अनुवादस्य । निर्ज्ञातसंख्याका हि ग्रहा, "दश एतान् अध्वर्युः प्रातःसवने ग्रहान् गृह्णाति" इत्यादिवाक्यैः, कार्यं चवगतं ग्रहैर् जुहोतीति । अतो ऽवगत्यन्तरापेक्षत्वाद् ग्रहशब्दस्य न विवक्ष्यते संख्या । इह तु भार्यालक्षणो ऽर्थो नान्यतः सिद्धो ऽस्माद् एव वाक्याद् अवगन्तव्यो ऽतो यथाश्रुति प्रतीयते, प्रातिपदिकार्थवत् संख्यापि विवक्षितेति । पञ्चमे चैतद् विस्तरतस् तर्केण वक्ष्यते । 
 
+
 [^६१]:
      M G 1st ed.: ca guṇakarmatve
 
@@ -879,8 +1043,10 @@ For ‘twice-born men’ a girl of equal caste has been recommended for the firs
 
 - **सवर्णा** समानजातीया । सा तावद् **अग्रे** प्रथमतो ऽकृतविजातीयदारपरिग्रहस्य[^६२] **प्रशस्ता** । कृते सवर्णाविवाहे यदि तस्यां कथंचित् प्रीतिर् न भवति, अथ वापत्त्यार्थो[^६३] व्यापारो न निष्पद्यते तदा कामहेतुकायां प्रवृत्ताव् इमा वक्ष्यमाणाः सवर्णावराः श्रेष्ठाः शास्त्रात् तु ज्ञातव्याः । अत एकत्वस्य सवर्णानियमस्य चायम् अपवादः ।
 
+
 [^६३]:
      M G 1st ed.: kṛtāvapattyārtho
+
 
 [^६२]:
      M G 1st ed.: prathamataḥ kṛta-
@@ -961,6 +1127,16 @@ obtaining a girl of the same caste as himself, the Brāhmaṇa may beget, a son 
 wife, there are three wives, in the descending order of the castes; for the Śūdra girl, there are (apart from the Śūdra husband), three husbands in the ascending order of the castes; for the Kṣatriya there are two wives, in addition to the one of his own caste; for the Vaiśya only one; for the Vaiśya girl there are two husbands and for the Kṣatriya, one only—in addition to that of her own caste.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणक्षत्रियवैश्यानां प्रथमे विवाहे कर्तव्ये सवर्णा श्रेष्ठा भवति । कामतः पुनर्विवाहे प्रवृत्तानामेता वक्ष्यमाणा आनुलोम्येन श्रेष्ठा भवेयुः ॥१२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सवर्णेति । द्विजातीनाम्** आदौ पाणिग्रहणे समानजातीया युक्तेत्य् उक्तम् । **कामात् **पुनर् दारकर्मणि **प्रवृत्तानां इमाः **वक्ष्यमाणवर्णक्रमेण श्रेष्ठाः **स्युः** ॥ ३.१२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 012	For the first marriage of twice-born men (wives) of equal caste are recommended; but for those who through desire proceed (to marry again) the following females, (chosen) according to the (direct) order (of the castes), are most approved.
@@ -973,7 +1149,7 @@ wife, there are three wives, in the descending order of the castes; for the Śū
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१३ शूद्रैव भार्या</summary>
 
 शूद्रैव भार्या शूद्रस्य  
 सा च स्वा च विशः स्मृते ।  
@@ -993,6 +1169,7 @@ For the Śūdra, the Śūdra girl. alone has been ordained to be the wife; for t
 वर्णभेदे सति सवर्णानियमः । यथैव ब्राह्मणस्य क्षत्रियादिस् त्रयो भवन्ति एवं **शूद्रस्य** जातिन्यूना रजकतक्षकादिस्त्रियः प्राप्ताः । अतः सवर्णेयम् उच्यते । उत्कृष्टजातीया तु पूर्वत्र क्रमग्रहणाद् अप्राप्ता । 
 
 - **सा च** शूद्रा **स्वा च** वईश्या **वैश्यस्य** । **ते च** वैश्याशुद्रे **स्वा च राजन्यस्य** । एवम् **अग्रजन्मनो** ब्राह्मणस्य । ब्राह्मणक्रमेण[^६४] निर्देशे कर्तव्ये शूद्रप्रक्रमेण निर्देशः पूर्वोक्तम् एवार्थम् उपोद्बलयति । यद् उक्तम् "विकल्प आनुपूर्व्येण नावश्यं समुच्चयः" ॥ ३.१३ ॥
+
 
 [^६४]:
      M G omit: brāhmaṇa-
@@ -1029,6 +1206,16 @@ order;—*i.e*., where the bridegroom’s caste is lower than that of the bride;
 See Comparative notes for [Verse 3.12].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शूद्रस्य शूद्रैव भार्या भवति न तूत्कृष्टा वैश्यादयस्तिस्रः।वैश्यस्य च शूद्रा वैश्या व भार्या मन्वादिभिः स्मृता । क्षत्रियस्य वैश्याशूद्वे क्षत्रिया च । ब्राह्मणस्य क्षत्रिया वैश्या शूद्रा ब्राह्मणी च । वसिष्ठोऽपि “शूद्रामप्येके मन्त्रवर्जम्” इति द्विजातीनां मन्त्रवर्जितं शूद्राविवाहमाह ॥१३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शूद्रेति **। **शूद्रय्स् शूद्रैव भार्या **भवति, नोत्कृष्टापकृष्टे शूद्रा वैश्या च वैश्यस्य मन्वादिभिः स्मृता । वैश्या शूद्रा क्षत्रिया च क्षत्रियस्य, क्षत्रिया वैश्या ब्राह्मणी च ब्राह्मणस्य । “शूद्राम् प्य् एके मन्त्रवर्जम्” इति **वसिष्ठ**स्मरणात् मन्त्रवर्जिता एषां द्विजातीनां भवति ॥ ३.१३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 013	It is declared that a Sudra woman alone (can be) the wife of a Sudra, she and one of his own caste (the wives) of a Vaisya, those two and one of his own caste (the wives) of a Kshatriya, those three and one of his own caste (the wives) of a Brahmana.
@@ -1041,7 +1228,7 @@ See Comparative notes for [Verse 3.12].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१४ न</summary>
 
 न ब्राह्मण-क्षत्रिययोर्  
 आपद्य् अपि हि तिष्ठतोः ।  
@@ -1096,6 +1283,7 @@ Under no circumstance whatsoever has a Śūdra wife been ordained for the Brāhm
 प्रतिषेधश् च  
 स्वं स्वं विरुध्यमाने विकल्प्येते[^६५] ।
 
+
 [^६५]:
      M G 1st ed.: cāsvavirudhyamāne vikalpate
 
@@ -1103,11 +1291,13 @@ Under no circumstance whatsoever has a Śūdra wife been ordained for the Brāhm
 तस्य च प्रतिप्रसवत एव सिद्धेः[^६६]  
 प्रतिषेधो वक्तव्यो नैव । 
 
+
 [^६६]:
      M G 1st ed.: siddhaḥ
 
 न यथा-कामतः क्षत्रिय-वैश्ययोर् विवाह, एवं शूद्रायाः,  
 अन्यत्रापदो गरीयाः[^६७] । 
+
 
 [^६७]:
      M G 1st ed.: garīyaḥ syāt
@@ -1164,6 +1354,17 @@ It is quoted in *Aparārka* (p. 87), which adds that though the verse mentions o
 See Comparative notes for [Verse 3.13].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणक्षत्रिययोर्गार्हस्थ्यमिच्छतोः सर्वथा सवर्णालाभे कस्मिंश्चिदपि वृत्तान्ते इतिहासाख्यानेऽपि शूद्रा भार्या नाभिधीयते । पूर्वसवर्णानुक्रमेणानुलोम्येन विवाहाद्यनुज्ञानादयं निषेधः प्रातिलोम्येन विवाहविषयो बोद्धव्यः । ब्राह्मणक्षत्रियग्रहणं चेदं दोषभूयस्त्वार्थम्
+अनन्तरं 'द्विजातय' इति बहुवचनात् वैश्यगोचरनिषेधस्यापि वक्ष्यमाणत्वात् ॥१४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति** । **ब्राह्मणक्षत्रिययोः **गार्हस्थ्यप्रतिपत्तये सवर्णाम् अलभमानयोः **कस्मिंश्चिद् **अपीतिहासाख्याने **शूद्रा भार्या **नोपवर्ण्यते । एवं च शूद्रानिषेधात् ब्राह्मणक्षत्रिययोः सवर्णालाभे अस्ति क्षत्रियवैश्योद्वाह इति गम्यते । तत्रापि च धनपद्यादौ क्षत्रप्रवृत्तिदर्श्नात् प्रथमं ब्राह्मणस्य क्षत्रियोद्वाहः । तदलाभे वैश्योद्वाहः ॥ ३.१४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 014	A Sudra woman is not mentioned even in any (ancient) story as the (first) wife of a Brahmana or of a Kshatriya, though they lived in the (greatest) distress.
@@ -1176,7 +1377,7 @@ See Comparative notes for [Verse 3.13].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१५ हीनजातिस्त्रियम्</summary>
 
 हीनजाति-स्त्रियं मोहाद्  
 उद्वहन्तो द्विजातयः ।  
@@ -1218,6 +1419,16 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 495) its prohibiting t
 See Comparative notes for [Verse 3.13].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सवर्णामपि परिणीय हीनजाति शूद्रां शास्त्रार्थाविवेकात्परिणयन्तो ब्रह्मक्षत्रियवैश्यास्त-त्रोत्पन्नपुत्रपौत्रादिक्रमेण कुलान्येव ससन्ततिकानि शुद्धतां गमयन्ति । अत्र 'द्विजातय' इति बहुवचननिर्देशान्निन्दया वैश्यस्यापि निषेधः कल्प्यते । ब्राह्मणक्षत्रिययोस्तु पूर्वत्रैव निषेधकल्पनात्तन्निन्दामात्रार्थतैव ॥१५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अत्रार्थवादः **हीनजतिस्त्रियम्** इति । **शूद्रताम्** इत्य् उपादानात् **हीनजातिं **शूद्रां शास्त्रार्थापरिज्ञानात् उपयच्छमाना **द्विजातयः कुलानि **पुत्रपौत्रादिप्रबन्धात् चिरन्तनकालभाविसन्तानानि **शूद्रतां **गमयन्ति तथाविधानाम् एव तत्रोत्पादात् । अत्र द्विजातय इति वचनात् वैश्यस्याप्य् अकृतसवर्णाविवाहस्य शूद्रानिषेध इति गम्यते । ब्राह्मणक्षत्रिययोः पुनः प्रत्यवायातिशयः पूर्वं प्रतिषेधारम्भसामर्थ्यात् ॥ ३.१५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 015	Twice-born men who, in their folly, wed wives of the low (Sudra) caste, soon degrade their families and their children to the state of Sudras.
@@ -1230,7 +1441,7 @@ See Comparative notes for [Verse 3.13].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१६ शूद्रावेदी</summary>
 
 शूद्रावेदी +++(विवाहेन)+++ पतत्य् अत्रेर्  
 उतथ्यतनयस्य च +++(मते)+++।  
@@ -1287,6 +1498,18 @@ Brāhmaṇa marrying a Śūdra girl becomes degraded,—this is the opinion of A
 See Comparative notes for [Verse 3.13].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शूद्रां विन्दति परिणयतीति शूद्रावेदो स पतति पतित इव भवति । इदमत्रेर्मतमुतथ्यसन्यस्य गौतमस्य च । अत्र्यादिग्रहणमादरार्थम् । एतद् ब्राह्मणविषयम् ।“शूद्रायां सुतोत्पत्या पतति" इति शौनकस्य मतमेतत्क्षत्रियविषयम् । “शूद्रासुतोत्पत्त्या पतति" इति भृगोमैतम् एतद्वैश्यविषयम् । एतस्य महर्षिमतन्त्रयस्य व्यवस्थासंभवे विसदृशफतनविकल्पायोगात् । (१)[^63]मेधातिथिगोविन्दराजयोस्तु मतं शूद्रावेदी पततीति पूर्वोत्तशुद्वाविवाह निषेधविशेषः सुतोत्पत्त्या पततीति दैवाजातशूद्राविवाहे ऋतौ नोपेयादिति विधानार्थम् । ऋतुकालगमने सुतोत्पत्तेः । तदपत्यतयेति तु तान्येव शूद्रोत्पन्नान्यपत्यानि यस्य स तद्पत्यस्तस्य भावस्तदपत्यता तया पतति । एतेनेदमुक्तं भवति ऋतावुपयन्त्रितरासु जातापत्य उपेयात् ॥१६॥
+
+[^63]: "शूद्रां विन्दति परिणयति शूद्रावेदी स पतति पतित इव । अत्रिरुतथ्यस्य तनयः पुत्रस्तयो-रेतन्मतमित्युपस्करः। अयं तावदर्धश्लोकः पूर्वप्रतिषेधशेषः । 'शौनकस्य सुतोत्पत्या' शास्त्रान्तरमिदम् अभ्यनुज्ञाय शूद्रायामृताबुपगमनं निषेधति । सुतोत्पत्तिर्ह्यृतौ युग्मासु रात्रिषु भवति ऋतौ शूद्रां न गच्छेदित्यर्थः। ‘तदपत्यतया भृगोः इदमपि स्मृत्यन्तरम् । तान्येव शूद्रोत्पन्नान्यपत्यानि यस्य स तदपत्यः तद्भावस्तदपत्यता । भृगोरेतन्मतं ऋतावप्युपयन्नितरासु जातापत्य उपेयात् ।"
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+मतन्तराण्य् आहुः **शूद्रावेदीति **। अत्रेर् उतथ्यपुत्रस्य च गौतमस्यैतन् मतं यत् शूद्रोद्वोढा पतितो भवतीति । निन्दया प्रतिषेधानुमानम् । न ह्य् अकस्मात् निन्दा प्रवर्तत इति । तन्मतेनायं शूद्राया अत्यन्तप्रतिषेधः । शौनकस्य पुनर् मतं यत् शूद्रासुतोत्पत्त्या पततीति । अतश् च तन्मते ऽनर्तौ नाम् उपेयात् । भृगोः पुनर् मतं यत् केवलशूद्रापत्यतया पततीति । एवं च तत्पक्षे इतरासु जातापत्यः शूद्राम् ऋतौ व्रजेत् ॥ ३.१६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 016	According to Atri and to (Gautama) the son of Utathya, he who weds a Sudra woman becomes an outcast, according to Saunaka on the birth of a son, and according to Bhrigu he who has (male) offspring from a (Sudra female, alone).
@@ -1303,7 +1526,7 @@ See Comparative notes for [Verse 3.13].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१७ शूद्रां शयनम्</summary>
 
 शूद्रां शयनम् आरोप्य  
 ब्राह्मणो यात्य् अधोगतिम् ।  
@@ -1349,6 +1572,16 @@ which notes that what this forbids is the marrying and begetting of child on a �
 See Comparative notes for [Verse 3.13].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सवर्णामपरिणीय दैवात्स्नेहाद्वा शूद्रापरिणेतुर्ब्राह्मणस्य गमननिषेधोऽयं निन्दया निषेधस्मृत्यनुमानात् शूद्रां गत्वा ब्राह्मणो नरकं गच्छति । जनयित्वा सुतं तस्यामिति ऋतुकालगमननिषेधपरम् । ब्राह्मण्यादेव हीयत इति दोषभूयस्त्वार्थम् ॥१७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शूद्राम्** इति । **शूद्रां **गत्वा **ब्राह्मणो **नरकं व्रजति, इत्य् अत्यन्तप्रतिषेधः । शेषो ऽर्थवादः । **सुतं **शूद्रायाम् उत्पाद्य **ब्राह्मण्याद् एव **भ्रश्यतीत्य् अयं सुतोत्पत्तिनिषेधार्थवादः । एवं चेहार्थवादो यो ब्राह्मणग्रहणाद् अत्यन्तप्रतिषेधः सुतोत्पत्तिनिषेधो ब्रह्मणनविषयाद् एव ॥ ३.१७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 017	A Brahmana who takes a Sudra wife to his bed, will (after death) sink into hell; if he begets a child by her, he will lose the rank of a Brahmana.
@@ -1361,7 +1594,7 @@ See Comparative notes for [Verse 3.13].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१८ दैवपित्र्यातिथेयानि</summary>
 
 दैव-पित्र्यातिथेयानि  
 तत्-प्रधानानि यस्य तु ।  
@@ -1383,6 +1616,7 @@ If the rites performed by one in honour of deities, Pitṛs and Guests are domin
 - तत्र **दैवं** कर्म दर्शपूर्णमासादि, देवतोद्देशेन च ब्राह्मणभोजनम्, "व्रतवत्" इत्य् (म्ध् २.१८९) अत्र यथा व्याख्यातम् । **पित्र्यं** श्राद्धोदकतर्पणादि । **आतिथेयम्** अतिथेर् आराधनं भोजनपाद्यादि ।
 
 - <u>ननु</u> च "सजात्या स्थितयान्यया" (म्ध् ९.८७) इत्य् अस्त्य् एव[^६८] प्रतिषेधः । 
+
 
 [^६८]:
      M G 1st ed.: sthitayātyaye nāsty eva
@@ -1435,6 +1669,20 @@ This verse is quoted in *Aparārka* (p. 88), which explains it to mean that ‘s
 See Comparative notes for [Verse 3.13].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि कथंचित्सवर्णानुक्रमेणाक्रमेण वा शूद्राऽपि परिणीयते तदा भार्यात्वेन प्रसतानि त त्कर्तृकानि दैवेत्यनेन निषिध्यन्ते । दैवं होमादि, पित्र्यं श्रद्धादि, आतिथेयमतिथिभोजनादि, एतानि यस्य शूद्रासंपाद्यानि तद्धव्यं कव्यं पितृदेवा नाश्नन्ति । न च तेनातिथ्येन स गृही स्वर्गं याति ।
+
+यस्तु तत्कारयेन्मोहात्सजात्या स्थितयान्यया ॥ ( म. स्मृ. ९ / ८७ )
+
+इति सवर्णायां सन्निहितायां निषेधं वक्ष्यति । अयं त्वसन्निहितायामपीत्यपुनरुक्तिः ॥१८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दैवपित्र्यतिथेयानि** इति । “यस् तु तत्कारयेन् मोहात् सजात्या स्थितयान्यया” (म्ध् ९.८७) इति निषेधं वक्ष्यति । अतो ऽसन्निहितायाम् अपि सजात्यायां यागश्राद्धातिथिदानानि यस्य शूद्रया दत्तानि तद् धव्यकव्यं **पितृदेवा **नोपजीवन्ति । **न च **तेनातिथेयेन **स** गृहस्थः **स्वरं गच्छति **॥ ३.१८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 018	The manes and the gods will not eat the (offerings) of that man who performs the rites in honour of the gods, of the manes, and of guests chiefly with a (Sudra wife's) assistance, and such (a man) will not go to heaven.
@@ -1447,7 +1695,7 @@ See Comparative notes for [Verse 3.13].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.१९ वृषलीफेनपीतस्य</summary>
 
 वृषलीफेन-पीतस्य  
 निःश्वासोपहतस्य च ।  
@@ -1466,16 +1714,20 @@ There is ho expiation for him who has drunk the moisture of the mouth of a Śūd
 
 अर्थवादो ऽयम् । वृषल्याः फेनो **वृषलीफेनो** वक्त्रासवः, स पीतो येन । पलाण्डुभिक्षितादिवत् परनिपातः । पाठान्तरम्[^६९]- वृषलीपीतफेनस्य । पीतः फेनो यस्येति विग्रहः वृषल्या पीतफेनः । "तृतीया" (पाण् २.१.३०) इति योगविभागात् समासः । पीतः फेनो वानेनेति विग्रहे वृषल्या इति षष्ठीसमासः (पाण् २.२.८) । अर्थस् तु सर्ववृत्तिष्व् एक एव । संप्रयुज्यमानयोर् अधरपरिचुम्बनाद्य् अवश्यंभावि तेन च सहचारिणा धर्मेण मैथुनसंबन्धो लक्ष्यते । प्रकरणाच् च विवाहप्रतिषेधशेषो ऽयं न पृथग्वाक्यम् । तत्त्वे हि चुम्बनादिवर्जं नियोगधर्मो बहुमतः स्यात् । तस्माद् गच्छञ् छूद्रां चुम्बनादिपरिवर्जनेन[^७०] न किंचिच् छास्त्रार्थम् अनुलङ्घते[^७१] ।
 
+
 [^७१]:
      M G 1st ed.: anutiṣṭhati
 
+
 [^७०]:
      M G 1st ed.: cumbanādipariphenena
+
 
 [^६९]:
      M G: pāṭhāntare
 
 - **तस्यां चैव प्रसूतस्य** ऋतौ तु गच्छत इत्य् अर्थः । **निष्कृतिः** शुद्धिर् नास्ति इति निन्दातिशयो ऽयम्[^७२] ॥ ३.१९ ॥
+
 
 [^७२]:
      M G add here: yataḥ saṃbhava evātra kaiścit saptamīpañcamyau nānujñāte "saptamī pañcamī caiva mātṛtaḥ pitṛtas tathā" iti anyais tu "ūrdhvaṃ saptamāt pañcamāc ca" tatra vikalpalabhyamānā pañcamī na vivāhyā asaṃbhave tu na doṣaḥ |
@@ -1510,6 +1762,16 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 495) along with the pr
 **(verses 3.13-19)**
 
 See Comparative notes for [Verse 3.13].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+वृषलीफेनोऽधररसः स पीतो येन स वृषलीफेनपीतः । “वाहिताग्न्यादिषु" ( पा० सू० २ / २ / ३७ ) इत्यनेन परनिपातः । अनेन शूद्राया अधररसपानं निषिध्यते । निःश्वासोपहतस्य चति तया सदैकशय्यादौ शयननिषेधः । तस्यां जातापत्यस्य शुद्धिर्नोपदिश्यत इत्युतुकालगमननिषेधानुवादः ॥१९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वृषलीफेनपीतस्येति** । शूद्रया कृतपरिचुम्बनस्य तयैव च एकपर्यङ्कादौ मुखश्वासापवित्रीकृतस्य तस्याम् एव चोत्पन्नापत्यस्य संशुद्धिः नोप्दिश्यत इति पूर्वोत्तराव् अर्धश्लोकौ अत्यन्तनिषेधात् भृगुमतार्थवादौ ॥ ३.१९ ॥
 </details>
 
 <details><summary>Bühler</summary>

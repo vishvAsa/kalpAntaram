@@ -2,7 +2,7 @@
 title = "१३ सदाचारान्तरम्"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१६२ आचार्यं च</summary>
 
 आचार्यं च प्रवक्तारं  
 पितरं मातरं गुरुम् ।  
@@ -25,11 +25,14 @@ He shall not injure his Preceptor, or Teacher or Father, or mother, or another e
 
 - <u>उपाध्यायस्</u> त्व् आह । नायं प्रतिषेधः । पर्युदासो ऽयम् । संकल्पविधानार्थो "नोद्यन्तम् आदित्यम् ईक्षेत" (म्ध् ४.३७) इतिवत् । अतः प्रयत्ने ऽतिक्रान्ते[^२२४] भवत्य् अयं[^२२५] संकल्पप्रतिषेध इति[^२२६] । 
 
+
 [^२२६]:
      M G: -pratiṣedhaś ceti
 
+
 [^२२५]:
      M G omit: ayam
+
 
 [^२२४]:
      M G: prayatnenātikrāntaṃ
@@ -84,6 +87,16 @@ parents.’
 from whom he acquires any knowledge, temporal or scriptural or spiritual...... one who fills the ears with truth...... him one shall regard as Father and as Mother, and shall never bear ill-will towards him.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचार्यमुपनयनपूर्वकवेदाध्यापकं, प्रवक्तारं वेदार्थव्याख्यातारं, गुरुम् “अल्पं वा बहु वा यस्य” ( म. स्मृ**.**२-१४९ ) इत्युक्तम् ।आचार्यादींस्तु न हिंस्यात् । प्रतिकूलाचरणेऽत्र हिंसाशब्दः । गोविन्दराजस्तु सामान्येन हिंसानिषेधादाततायिनोऽप्येतान्न हिंस्यादिति व्याज्यातवांस्तदयुक्तम्, “गुरुं वा बालवृद्धौ वा” ( म. स्मृ. ८-३५० ) इत्यनेन विरोधात् ॥१६२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आचार्यं चेति** । **आचार्यम्** अध्यापयितारं चोपनयनमात्रकारिणं लोकवत् **पितरं मातरं गुरुम्** “अल्पं वा बहु वा यस्य” (२.१४९) इत्य् उक्तम् गोब्राह्मणतपोनिष्ठांश् च आततायिनो ऽपि **न हिंस्यात्** । अन्यथा सामान्यहिंसानिषेधे सति इदं पृथग्वचनम् अनर्थकं स्यात् ॥ ४.१६२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 162	Let him never offend the teacher who initiated him, nor him who explained the Veda, nor his father and mother, nor (any other) Guru, nor cows, nor Brahmanas, nor any men performing austerities.
@@ -96,7 +109,7 @@ from whom he acquires any knowledge, temporal or scriptural or spiritual...... o
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१६३ नास्तिक्यम्</summary>
 
 नास्तिक्यं वेद-निन्दां च  
 देवतानां च कुत्सनम् ।  
@@ -157,6 +170,16 @@ scriptures and great men.’
 ‘*paranindāñca*’ for ‘*devatānāñca*.’)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नास्ति परलोक इति बुद्धिं, वेदस्य देवतानां च निन्दां, मात्सर्यं, धर्मानुत्साहाभिमानकोपक्रौर्याणि त्यजेत् ॥१६३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नास्तिक्यम्** इति । **द्वेषं स्तम्भं च मानं च क्रोधं तैक्ष्ण्यं च वर्जयेत् ।** नास्त्य् अदृष्टम् इत्य् एव बुद्धित्वम्, वेददेवतागर्हणं मात्सर्यानम्रत्वादाव् अभिमानक्रोधक्रौर्याणि **वर्जयेत् **॥ ४.१६३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 163	Let him avoid atheism, cavilling at the Vedas, contempt of the gods, hatred, want of modesty, pride, anger, and harshness.
@@ -169,7 +192,7 @@ scriptures and great men.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१६४ परस्य दण्डम्</summary>
 
 परस्य दण्डं **नोद्यच्छेत्**  
 क्रुद्धो **नैनं निपातयेत्** ।  
@@ -187,6 +210,7 @@ He shall not, when angry, raise the rod against another person, nor shall he let
 <details><summary>मेधातिथिः</summary>
 
 येन दम्यते स **दण्डः** करलगुडशिफारज्जुविदलादि । तं **परस्य क्रुद्धः** सन् **नोद्यच्छेन्** नोत्क्षिपेत् । प्रहारार्थं तिर्यग् अपि **न निपातयेत्** । निपातणं वेगेन तदङ्गसंयोगः । पुत्रशिष्याव् अनुताडयेच् छिफावेणुदलचपेटाभिर् यथाष्टमे वक्ष्यति, न दण्डेन । तौ च न क्रोधेन, किं[^२२७] तर्हि **शिष्ट्यर्थम्** अनुशासनार्थम्, बाल्याद् यदि चापलम् आचरतः । यथा "पृष्टतस् तु शरीरस्य" (म्ध् ८.३००) इतीषत् ताड्यौ । शिष्यग्रहणं दासीदासस्यापि प्रदर्शनार्थम्, समानकार्यत्वात् ॥ ४.१६४ ॥
+
 
 [^२२७]:
      M G omit: kiṃ
@@ -219,6 +243,16 @@ smṛtam*’ for ‘*tāḍayettu tam*’).
 person;—for disciplinary purposes, he shall beat his pupil, on the back, either with a rope or a bamboo-piece.’
 
 *Yājñavalkya* (1.155).—‘He shall beat his son and his pupil.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+परस्य हननार्थं क्रुद्धः सन्दण्डादि नोत्क्षिपेत् । न च परमात्रे निपातयेत्पुत्रशिष्यभार्यादासादेरन्यत्र । कृतापराधानेताननुशासनार्थं"रज्ज्वा वेणुदुलेन वा” ( म. स्मृ. ८-२९९ ) इत्यादिवक्ष्यमाणप्रकारेण ताडयेत् ॥१६४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**परस्येति । परस्य **दण्डादि नोद्गुर्येत् **क्रुद्धश्** च सन् आत्मनः पुत्रशिष्यभार्याकनीयान्सोदर्यभ्रातृदासान् वक्ष्यमानान् वर्जयित्वा न प्रहारेण । तान् पुनर् अनुशासनार्थं “रज्ज्वा वेणुदलेन वा” इत्यादिप्रकारेण **ताडयेत्** ॥ ४.१६४ ॥
 </details>
 
 <details><summary>Bühler</summary>

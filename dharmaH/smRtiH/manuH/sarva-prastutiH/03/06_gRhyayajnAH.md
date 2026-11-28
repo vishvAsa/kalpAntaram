@@ -1,7 +1,16 @@
 +++
 title = "०६ गृह्ययज्ञाः"
 +++
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+विवाहप्रकरणमतिक्रान्तम् । इदानीं वैवाहिकानौ सम्पाद्यं महायज्ञविधानं चेति वक्तव्यतया प्रतिज्ञातं महायज्ञानुष्ठानमाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.६७ वैवाहिके ऽग्नौ</summary>
 
 वैवाहिके ऽग्नौ कुर्वीत  
 गृह्यं कर्म यथाविधि ।  
@@ -26,10 +35,12 @@ In the marriage-fire the householder should perform the ‘gṛhya’ rites; as 
 
 - <u>अथ वा</u> **पञ्चयज्ञविधानम्** इत्य् अत्र **अग्नाउ** इति न संबध्यते, वैश्वदेवहोमस्य पूर्वेणैवाग्न्यधिकरणस्य सिद्धत्वात् । एवं संबन्धः क्रियते- गृही तु **पञ्चयज्ञविधानं** कुर्यात् । **अग्नौ** तु **वैवाहिके** गृह्यकर्मपक्तिं[^१२२] **चान्वाहिकीम्** अग्नाव् इत्य् अपेक्ष्यते । 
 
+
 [^१२२]:
      M G: gṛhadharmapaktiṃ
 
 - गृहशब्दो दारवचनः । **गृही** तु स कृतदारपरिग्रहो[^१२३] भार्याद्वितीय इदम् इदं कुर्याद् इति । विवाहे चाग्निः कैश्चिद् गृह्यकारैर् अरणिनिर्मन्थनाद् आधातव्य इत्य् उक्तम् । अपरैर् यतः कुतश्चिद् दीप्यमानम् आनीय होतव्यम् इति । अनेन तस्मिन् **गृह्यम्** इति वचनेन धारणम् अग्नेर् अर्थाद् उक्तं भवति । 
+
 
 [^१२३]:
      M G 1st ed.: satkṛtadāra-
@@ -41,6 +52,7 @@ In the marriage-fire the householder should perform the ‘gṛhya’ rites; as 
 - <u>अत्रोच्यते</u> । **गृह्यं कर्म वैवाहिके ऽग्नाव्** इति श्रुतम् । न च गृह्यं नाम किंचित् कर्मास्ति । तत्र गृह्यस्मृतिकारोक्तं गृह्यम् इति लक्षणया मन्तव्यम् । गृह्यकारैश् च त्रैवर्णिकानां एव कर्माम्नातम्, न शूद्रस्य- "उक्तानि वैतानिकानि गृह्याणि वक्ष्यामः" (आश्ग् १.१.१) इति । उक्तानुकीर्तनस्य एतद् एव प्रयोजनं येषाम् एव वैतानिकेष्व् अधिकारस् तेषाम् एव गृह्येष्व् इति, न पुनर् यथान्यैर् व्याख्यातं तद् धर्मप्रात्यर्थम् । तादर्थ्ये हि विवक्षिते "तस्याग्निहोत्रेण प्रादुष्करणहोमकालौ व्याख्यातौ" (आश्ग् १.९.४) इति नावक्ष्यत् । न च गृहे भवं गृह्यम् इति युक्तम् । शालावचनो गृहशब्दो दारवचनो वा । न तावत् कस्यचित् कर्मणः शालाधिकरणत्वेन विशेषतः समाम्नाता यद् गृहम् इत्य् अनूद्य गृहिणो विधीयते । यद् अपि गृहसंस्कारकं वास्तुपरीक्षादि तद् अपि त्रैवर्णिकानाम् एव, न शूद्रस्य । अथ दारवचनस् तत्रापि गृहीत्य् अनेनैव गतत्वान् न किंचित् । 
 
 - यद् अपि[^१२४] स्मृत्यन्तरम्-
+
 
 [^१२४]:
      M G: yady api
@@ -130,6 +142,16 @@ offered in the Marriage Fire.’
 Agnihotra, to live by the prescribed professions and to avoid sexual intercourse on the Parvas. The duties of those who have married and settled down are—to worship gods, pitṛs and guests, to show mercy to the poor and the distressed and to live according to *Śruti* and *Smṛti*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विवाहे भवो वैवाहिकः, अध्यात्मादित्वाट्ठञ् । तस्मिन्नग्नौगृह्योक्तं कर्म सायंप्रातर्होमाष्टकादि यथाशास्त्रमग्निसम्पाद्यं च पञ्चमहायज्ञान्तर्गतवैश्वदेवाद्यनुष्ठानं प्रतिदिनसम्पाद्यं च पाकंगृहस्थः कुर्यात् ॥६७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वैवाहिक** इति । अष्टकादि गृह्योक्तं **कर्म** यथाशास्त्रं वक्ष्यमाण**पञ्चयज्ञा**नुष्ठानं चाग्निसम्पाद्यं प्रात्यहिकं पाकं विवाहभवे **ऽग्नौ** गृहस्थः **कुर्वीत** ॥ ३.६७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 067	With the sacred fire, kindled at the wedding, a householder shall perform according to the law the domestic ceremonies and the five (great) sacrifices, and (with that) he shall daily cook his food.
@@ -142,7 +164,7 @@ Agnihotra, to live by the prescribed professions and to avoid sexual intercourse
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.६८ पञ्च सूना</summary>
 
 पञ्च सूना गृहस्थस्य  
 चुल्ली पेषण्य् उपस्करः ।  
@@ -161,13 +183,16 @@ For the householder there are five slaughter-houses: the hearth, the grinding-st
 
 पञ्चयज्ञविधेर् अधिकारनिर्देशो ऽयम् । सूना इव **सूनाः** । मांसविक्रयार्थपशुवधस्थानम् आपणदयो वा मांसस्योत्पादकतयानुष्ठीयमानाः पापहेतवः । एवं **चुल्ल्या**दयो ऽपि पापहेतुत्वाद् अध्यारोपेण सूनासमाः । न हि तेषां शास्त्रप्रतिषेधः साक्षात् । नापि सामान्यः कश्चित् प्रतिषेधो ऽस्ति । न हि तापघाताय कस्यचिन् न स्पृहा स्यात् । न काचित् तत्साध्यक्रिया दृश्यते या वचनान्तरेण निषिद्धा । न चास्माद् एव वचनात् प्रतिषेधानुमानम्, उत्तरेणैकवाक्यतावगमात् । प्रतिषेधपरत्वे वाक्यभेदः स्यात् । किं चैतत्पदार्थसाध्याम् अर्थक्रियां पदार्थान्तरेण साधयेत् तस्याः प्राप्तिं पञ्चयज्ञानाम् । न च लक्षणान्य् उक्तानि । येन तत्समानकार्यस्यान्यस्यापि प्रतिषेध उच्यते । यो वा परकीयम् अन्नम् अध्यान् नद्यादाव् उदकार्थं कुर्यात्[^१२५] तस्यैते यज्ञाः स्युः । यदि च चुल्ल्यादीनां निषेधो ऽभिप्रेतः स्यात् तदा प्रतिषेधार्थीयम् एव पदम् अधीयीत, किम् अनुमानेन । स्वशब्दाद् बलीयसी प्रतिपत्तिः । प्रायश्चित्तार्थत्वे त्व् एकादशे ऽभिधानं युक्तम्[^१२६] । निषेधैर् एवाननुष्ठानम् एव स्यात् । अपरिहार्यत्वाच् च चुल्ल्यादीनाम् अशक्यो निषेधः । असति च निषेधे कुतः प्रायश्चित्तम् । 
 
+
 [^१२६]:
      M G: na yuktaṃ
+
 
 [^१२५]:
      M G: kuryān na
 
 - तस्मान् न दोषविघातार्थं पञ्चमहायज्ञाः । किं तर्हि नित्यसंबन्धेषु चुल्ल्यादिष्व् आरोपितासद्दोषनिष्कृत्यर्थतया[^१२७] नित्यार्थतया नित्यत्वं यज्ञानाम् आह । 
+
 
 [^१२७]:
      M G: cullyādidhāraṇe 'pi taddoṣaḥ tanniṣkṛtyarthatayā
@@ -227,6 +252,16 @@ beings*; these are of five kinds: The first *slaughtering* is done by people hur
 *slaughterings*, t he source of sin, which people do day by day.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पशुवधस्थानं सूना। सूना इव सूना हिंसास्थानगुणयोगाच्चुल्ल्यादयः पञ्च गृहस्थस्य हिंसाबीजानि हिंसास्थानानि । चुल्ली उद्वाहनी, पेषणी दृषदुपलात्मिका, उपस्करो गृहोपकरणकुण्डसंमार्जन्यादिः, कण्डनी उलूखलमुसले, उदकुम्भो जलाधारकलशः । याः स्वकार्ये योज- यन्यापेन सम्बध्यते ॥६८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पञ्च सूनेति** । पचनदृषत्शूर्पोलूखलाद्याः **पञ्च गृहस्थस्य सूना** इव घातनस्थानानि यानि स्वकार्ये योजयन् पापेन सम्बध्यते । एवं चास्मात् सूनावचनात् तासां निष्कृत्यर्थम् इति च निष्कृतिवचनात् सूनादोषैर् न लिप्यत इति तद्दोषाभिधानात् अधर्महेतुत्वम् आसां तन्निष्कृत्यर्थत्वं महायज्ञानाम् इत्य् अवसीयते, शास्त्रैकगोचरत्वात् धर्माधर्मयोः । न चैवं सति महायज्ञानाम् अनित्यतापत्तिः देवतातिथिभृत्यानां ऋषयः पितरो देवता इत्य् एवमादिभिर् एषां नित्यत्वप्रतिपादनात् सन्ध्योपासनवद् उभयार्थत्वम् एषाम् ॥ ३.६८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 068	A householder has five slaughter-houses (as it were, viz.) the hearth, the grinding-stone, the broom, the pestle and mortar, the water-vessel, by using which he is bound (with the fetters of sin).
@@ -239,7 +274,7 @@ beings*; these are of five kinds: The first *slaughtering* is done by people hur
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.६९ तासां क्रमेण</summary>
 
 तासां क्रमेण सर्वासां  
 निष्कृत्यर्थं महर्षिभिः ।  
@@ -304,6 +339,16 @@ worshipping of Gods and Pitṛs, and offerings should be made to Men also.’
 shall honour Gods, Pitṛs, Sages, Guests and other strangers who come to him.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तासां चुल्लयादिस्थानानां यथाक्रमं निष्कृत्यर्थमुत्पन्नपापनाशार्थं गृहस्थानां पञ्चमहायज्ञाः प्रतिदिनं मन्वादिभिरनुष्ठेयतया स्मृताः । एवं च निष्कृत्यर्थमित्यभिधानाद्धिसास्थानत्वेन च कीर्तनात् “सूनादोषैर्न लिप्यते” ( म. स्मृ. ३ /७१ ) इति वक्ष्यमाणत्वात्पञ्चसूनानां पापहेतुकत्वं, पञ्चयज्ञानां च तत्पापनाशकत्वमवगम्यते । प्रत्यहमित्यभिधानात्प्रतिदिनं तत्पापक्षयस्यापेक्षितत्वात्संध्यावन्दना दिवन्नित्यत्वमपि न विरुष्यते ॥६९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तासाम्** इति । **तासां **चुल्ल्यादीनां सूनानां यथाक्रमं **निष्कृत्यर्थं **तदुत्पन्नपापनिर्हरणार्थं **प्रत्यहं पञ्च महायज्ञाः **गृहस्थानां मन्वादिभिः स्मृताः ॥ ३.६९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 069	In order to successively expiate (the offences committed by means) of all these (five) the great sages have prescribed for householders the daily (performance of the five) great sacrifices.
@@ -316,7 +361,7 @@ shall honour Gods, Pitṛs, Sages, Guests and other strangers who come to him.�
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.७० अध्यापनम्</summary>
 
 अध्यापनं ब्रह्मयज्ञः  
 पितृयज्ञस् तु तर्पणम् ।  
@@ -335,6 +380,7 @@ Teaching is the ‘offering to Brahma;’ the Tarpaṇa is the ‘offering to Pi
 
 एषाम् अयं स्वरूपविधिः । **अध्यापन**शब्देनाध्ययनम् अपि गृह्यते येन "जपो ऽहुतः" (म्ध् ३.६४) इत्य् अत्र वक्ष्यति । न च जपो ऽपि शिष्यान् अपेक्षते । सामान्येन च[^१२८] श्रुतं "स्वाध्यायेनर्षिभ्यः" इत्य् ऋणावेदनश्रुतौ (त्स् ६.३.१०.५) । अत उभे अध्यापनाध्ययने यथासंभवं **ब्रह्मयज्ञः** । **तर्पणम्** अन्नाद्येनोदकेन वेति वक्ष्यति (म्ध् ३.७२) । **होमो** वक्ष्यमाणाभ्यो देवताभ्यो ऽग्नौ । **बलिः** शिष्ट उलूखलादौ च । स **भौतः** । भूतादिदेवतास्येति **भौतः** । नामधेयम् एतत् कर्मविशेषस्य । दिवाचारिभ्यो भूतेभ्य इति हि तत्र बलिहरणं भूतशब्देन विहितम् । साहचर्यात् सर्व एष कर्मगणो भूतयज्ञशब्देनोच्यते । यथा चातुर्मास्येष्व् एकं हविर् वैश्वदेवम् आमिक्षा- कृत्स्नम् एव च पर्व वैश्वदेवेन यजेतेति । बलिशब्दो ऽनग्निहोमे वर्तते । देवेज्याबलिर् इति स्मरन्ति । **अतिथीनां पूजनम्** आराधनां **नृयज्ञः** ।
 
+
 [^१२८]:
      M G omit: ca
 
@@ -342,8 +388,10 @@ Teaching is the ‘offering to Brahma;’ the Tarpaṇa is the ‘offering to Pi
 
 - <u>सत्यम्</u> । स्तुत्यां यज्ञसब्दो भाक्तः महच्छब्दश् च । अतिथिपूजायाम् अपि भाक्तो[^१२९] यज्ञशब्दः । यद्य् अप्य् अतिथेर् देवतात्वं संभवति, तथाप्य् उत्पत्तौ भोजयेत् पूजयेद् इति च श्रुतं नातिथिभ्यो यजेतेति । यथा "पुरुषराजाय[^१३०] यत् कर्म वा" इति ।
 
+
 [^१३०]:
      M G 1st ed.: puruṣarājaḥ
+
 
 [^१२९]:
      M G: iti cokto
@@ -356,8 +404,10 @@ Teaching is the ‘offering to Brahma;’ the Tarpaṇa is the ‘offering to Pi
 
 - <u>भवति</u> ह्य् एतद् एवं यद्य् आधानविधिः[^१३१] स्वार्थः स्यात् । अग्न्यर्थं त्व् आधानम् । अग्निश् च कर्मार्थः । कर्माणि च भार्याद्वितीयस्य, न केवलस्य, श्रुतानि । यद् अपि[^१३२] कैश्चिद् गृह्यकारैः परमेष्ठिप्राणाग्निम् आधाय श्राद्धं कुर्याद् इत्य् उक्तं भवति, तद् अपि सभार्यस्यैव । स एवास्य दायकालः । न चानग्निकस्य श्राद्धं नास्ति । अनुपनीतस्यापि ह्य् एतद् विहितम् "अन्यत्र स्वधानिनयनात्" (ग्ध् २.५) इति । न च तस्याधानम् अस्ति, विदुषो ऽधिकाराद् इदानीं चाविद्यत्वात् । श्राद्धं तु वचनान् निषादस्थपतिवद् यथाशक्ति कार्यम् इति । पितृव्यादिनाग्निपरिग्रहे तु विदुषां संभवान् नावैद्यस्याधिकारः । अथ श्राद्धप्रकरण एवाग्न्याधानं विहितं तदा तदङ्गत्वेनाधाय निष्पन्ने श्राद्धे परित्यागो भविष्यति ।
 
+
 [^१३२]:
      M G: yady api
+
 
 [^१३१]:
      M G: yathādhānavidhiḥ
@@ -446,6 +496,16 @@ order, the Sacrifice to Elementals, the daily Śrāddha and the honouring of gue
 first is accomplished by the water-libation; the Sacrifice to Gods is accomplished by making offerings into Fire with the Sāvitrī-mantra, and the Sacrifice to Elementals, by the Bali-offering; the Sacrifice to Veda, by repeating Vedic texts; and the Sacrifice to Men, by the honouring of guests.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अध्यापनशब्देनाध्ययनमपि गृह्यते "जपोऽहुतः” (म. स्मृ. ३ / ७४) इति वक्ष्यमाणत्वात् । अ- तोऽध्यापनमध्ययनं च ब्रह्मयज्ञः । “अन्नाद्येनोदकेन वा " ( म.स्मृ. ३ / ८२) इति तर्पणं वक्ष्यति, स पितृयज्ञः । अग्नौ होमो वक्ष्यमाणो देवयज्ञः। भूतबलिर्भूतयज्ञः। अतिथिपूजनं मनुष्ययज्ञः ।अध्यापनादिषु यज्ञशब्दो महच्छब्दश्च स्तुत्यर्थं गौणः ॥७०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+ते च **अध्यापनम्** इति । ऽजपो ऽहुतऽ इति वक्ष्यमाणः । अध्यापनशब्देनाध्ययनम् अपि गृह्यते । स **ब्रह्मयज्ञः । **पितृ**तर्पणं पितृयज्ञः **। अग्नौ होमो **दैवयज्ञः **। भूत**बलिर्** **भूतयज्ञः** । अतिथिपूजनं मनुष्ययज्ञः । एते वक्ष्यमाणाः कर्तव्यताविशेषा इह स्वरूपमात्रेण निर्दिष्टाः ॥ ३.७० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 070	Teaching (and studying) is the sacrifice (offered) to Brahman, the (offerings of water and food called) Tarpana the sacrifice to the manes, the burnt oblation the sacrifice offered to the gods, the Bali offering that offered to the Bhutas, and the hospitable reception of guests the offering to men.
@@ -458,7 +518,7 @@ first is accomplished by the water-libation; the Sacrifice to Gods is accomplish
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.७१ पञ्चैतान् यो</summary>
 
 पञ्चैतान् यो महाअयज्ञान्  
 न हापयति शक्तितः ।  
@@ -511,6 +571,16 @@ Purposes, constant giving of food, worship of the Gods and the Bāhmaṇas, stud
 feeding of children, young girls, old persons, the pregnant woman, the sick and the maidens, as also the guests and dependants.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शक्तित इत्येतद्विधानार्थोऽयमनुवादः । अनुकल्पेनापि यथासम्भवमेते कर्तव्याः ।हापयतीति प्रकृत्यर्थ एव छान्दसत्वाणिणच् । जहातीत्यर्थः ॥७१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पञ्चेति । एतान् पञ्च महायज्ञान् यो** यथाशक्ति न जहाति स सर्वकालम् **अपि गृहे वसन्** चुल्ल्यादिसूनाजनितैः पापैर् न सम्बध्यते ॥ ३.७१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 071	He who neglects not these five great sacrifices, while he is able (to perform them), is not tainted by the sins (committed) in the five places of slaughter, though he constantly lives in the (order of) house (-holders).
@@ -523,7 +593,7 @@ feeding of children, young girls, old persons, the pregnant woman, the sick and 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.७२ देवतातिथिभृत्यानाम्</summary>
 
 देवतातिथि-भृत्यानां  
 पितॄणाम् आत्मनश् च यः ।  
@@ -548,8 +618,10 @@ He who does not make offerings to the five—viz., gods, guests, dependents, Pit
 
 निर्वापो ह्य् अत्र दानम्, न तादर्थ्योपकल्पनमात्रम् । तत्संबन्धेन प्रधानत्वाच् चतुर्थी युक्ता । एतेभ्यो यः प्रत्यहं न ददात्य् **उच्छ्वसन्न्** अपि प्राणन्न् अपि श्वासप्रश्वासवान् अपि **न जीवति** मृत एव, जीवितफलाभावात् । भृत्याश् चात्र "वृद्धौ तु मातापितरौ" (म्ध् ११.५ अद्देद् वेर्से) इति श्लोकनिर्दिष्टा वेदितव्याः, न दासाः, कर्मनिमित्तत्वात् तेभ्यो दानस्य । अथ वा गर्भदासादयो वार्द्धके कर्मस्व् अशक्ता अपि नियमतो लक्ष्यन्ते । भरणं जीर्णगवादीनाम् अवश्यम् इति विभागे वक्ष्यामः । उक्तं च गौतमेन "भर्तव्यस् तेन क्षीणवृत्तिः" (ग्ध् ६१) । देवताभ्यश् च निर्वापो ऽग्नौ होमः, स्थण्डिले च बलिहरणं तु वैश्वदेवेभ्यो दर्शपूर्णमासदेवताभ्य इति वा[^१३३] "अग्नये त्वा जुष्टं निर्वपामि" इति संबन्धाद् अन्यः को वास्ति निर्वापः । अतो देवताग्रहणेन गृहीतत्वाद् भूतानां[^१३४] पृथग् उपादानम् । आत्मग्रहणं दृष्टान्तः । यथात्मनो भोजनेन विना नास्ति जीवितं तदर्थम् अन्नोपयोगो ऽवश्यंभावी जीवितस्येष्टविषयत्वात् "सर्वत एवात्मानं गोपायेत्" (ग्ध् ९.३४) इति विधेश् च, एवं देवतादिभ्यो ऽपीति ॥ ३.६२ ॥
 
+
 [^१३४]:
      M G 1st ed.: bhṛtyānāṃ
+
 
 [^१३३]:
      M G: ca vā
@@ -588,6 +660,22 @@ This verse is quoted in *Viramītrodaya* (Āhnika, p. 392), which reads ‘*bhū
 See Comparative notes for [Verse 3.71].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+देवताशब्देन भूतानामपि ग्रहणम्, तेषामपि बलिहरणे देवतारूपत्वात् । भृत्या वृद्धमा- तापित्रादयोऽवश्यं संवर्धनीयाः । “सर्वत एवात्मानं गोपायेत्” इति श्रुत्या आत्मपोषणमण्य- वश्यं कर्तव्यम् \। देवताऽऽदीनां पञ्चानां योऽन्नं न ददाति स उच्छवसन्नपि जीवितकार्याकर- णान्न जोवतीति निन्दयाऽवश्यकर्तव्यता बोच्यते ॥७२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**देवतातिथिभृत्यानाम्** इति । देवताशब्देन भूतानाम् अपि ग्रहणं तेषाम् अपि देवतात्वात् । तथा ऋषीणाम् अपि देवतानाम् अपि ग्रहणं तेषाम् अपि देवतात्वस्मरणात् । भृत्याः । “
+
+> वृद्धौ च मातापितरौ साध्वी भार्या सुतः शिशुः ।
+
+> अप्य् अकार्यशतं कृत्वा भर्तव्या मनुर् अब्रवीत् ॥
+
+इत्य् उक्त्वा एषां देवतादीनां **पञ्चानां** यो न ददाति सः प्राणान् धारयन्न् अपि **न जीवति** जीवितकार्याभावात् ॥ ३.७२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 072	But he who does not feed these five, the gods, his guests, those whom he is bound to maintain, the manes, and himself, lives not, though he breathes.
@@ -600,7 +688,7 @@ See Comparative notes for [Verse 3.71].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.७३ अहुतं च</summary>
 
 अहुतं च हुतं चैव  
 तथा प्रहुतम् एव च ।  
@@ -648,6 +736,16 @@ Prahuta, and Prāśita.’
 fire; those not offered into the fire are the*Prahuta*; and the feeding of Brāhmaṇas constitutes the *Brahmaṇi-huta*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नामभेदेऽपि वाक्यभेद इति दर्शयितुं पञ्चमहायज्ञानां मुन्यन्तरकृतान्यहुतादीनि संज्ञान्त- राज्यभिधेयानि ॥७३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं चाकरणनिन्दया एषां नित्यताम् आह **अहुतं च हुतं चेति** । उत्तरश्लोके एषां व्याख्यार्थो भविष्यति । एतान् एव पञ्चमहायज्ञान् एभिर् नामान्तरैः मुनय आचक्षते । नाममात्रभेदो न वस्तुभेद इत्य् एतत् प्रतिपादयितुं सञ्ज्ञान्तरप्रदर्शनम् एतत् ॥ ३.७३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 073	They call (these) five sacrifices also, Ahuta, Huta, Prahuta, Brahmya-huta, and Prasita.
@@ -660,7 +758,15 @@ fire; those not offered into the fire are the*Prahuta*; and the feeding of Brāh
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+तानि स्वयं व्याचष्टे—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.७४ जपो ऽहुतो</summary>
 
 जपो ऽहुतो हुतो होमः  
 प्रहुतो भौतिको बलिः ।  
@@ -678,6 +784,7 @@ fire; those not offered into the fire are the*Prahuta*; and the feeding of Brāh
 <details><summary>मेधातिथिः</summary>
 
 यो ऽयम् **अहुतो** नाम यज्ञ उक्तः स **जपो** वेदितव्यः । "स्वाध्यायेनार्चयेद् ऋषीन्" (म्ध् ३.७१) इति श्रवणाद् वेदाध्ययनं जपार्थः । यद् वा मानसे व्यापारे स्मरणम् । उभयत्रापि जपतिः पठ्यते- व्यक्तायां वाचि मानसे चेति । अग्नौ **होमो हुतम्** । भूत**बलिः प्रहुतम्** । यद्य् अप्य् अयं[^१३५] होमस् तथाप्य् अग्नौ बाहुल्येन होमानां प्रसिद्धेर् भूतयज्ञो न होम इत्य् आशङ्कायां **प्रहुत** इत्य् उक्तम् । प्रकर्षेणासौ होम इति स्तुत्या । **द्विजाग्र्यानां** ब्राह्मणानाम् **अर्चा ब्राह्म्यं हुतम्** । आतिथ्यकर्म **द्विजाग्र्यार्चा** ॥ ३.६४ ॥
+
 
 [^१३५]:
      M G 1st ed.: yady ayaṃ
@@ -708,6 +815,16 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 392);—and in
 See Comparative notes for [Verse 3.73].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अहुतशब्देन ब्रह्मयज्ञाख्यो जप उच्यते । हुतशब्देन देवयज्ञाख्यो होमः । प्रहुतशब्देन भूतयज्ञाख्यो भूतबलिः । ब्राह्मयहुतशब्देन मनुष्ययज्ञाख्या ब्राह्मण श्रेष्टस्यार्चा \। प्राशितश- ब्देन पितृयज्ञाख्यं नित्यश्राद्धम् ॥७४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**जप** इति । **अहुत**शब्देन **जपो** ब्रह्मयज्ञाख्यः स्मृतः । **हुतश्** च **होमो** देवयज्ञः **प्रहुतश्** च **भौतिको बलिः **भूतयज्ञः **ब्राह्मं हुतं द्विजाग्र्यस्य **ब्राह्मणस्य्**आर्चा **अतिथियज्ञः **प्राशितं **च **पितृतर्पणम्** पितृयज्ञः । यदि कथञ्चित् सकलमहायज्ञमहानुष्ठानासम्पत्तिस् तदा ॥ ३.७४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 074	Ahuta (not offered in the fire) is the muttering (of Vedic texts), Huta the burnt oblation (offered to the gods), Prahuta (offered by scattering it on the ground) the Bali offering given to the Bhutas, Brahmya-huta (offered in the digestive fire of Brahmanas), the respectful reception of Brahmana (guests), and Prasita (eaten) the (daily oblation to the manes, called) Tarpana.
@@ -724,7 +841,7 @@ See Comparative notes for [Verse 3.73].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.७५ स्वाध्याये</summary>
 
 स्वाध्याये नित्ययुक्तः स्याद्  
 दैवे चैवेह कर्मणि ।  
@@ -745,8 +862,6 @@ One should be constantly engaged in Vedic Study, as also in acts in honour of th
 
 [^१३६]:
      M G 1st ed.: daivakarmaṇi
-
-_कथं पुनर् अग्न्याहुत्या सर्वस्य जगतः स्थितिर् भवतीत्य् अत आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -766,6 +881,16 @@ A commendatory exaggeration is added—‘*He who is engaged in*’—*i.e*., bu
 towards the east or the north............ one should study the Veda.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि दारिद्र्यादिदोषेणातिथिभोजनादिकं कर्तुं न क्षमते तदा ब्रह्मयज्ञे नित्ययुक्तो भवेत्। दैवे कर्मण्यग्नौ होमे च। होमस्य स्तुतिमाह-यतो दैवकर्मपर इदं स्थावरजङ्गसं धारयति॥७५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+“स्वाध्याये नित्ययुक्तः स्यात् दैवे पित्र्ये च कर्मणि । उभयत्रापि युक्तो हि” (३.७५) इति । ब्रह्मयज्ञदेवयज्ञानुष्ठाने नित्यं यत्नवान् स्यात् । तस्माद् एवं यज्ञानुष्ठानपर इदं स्थावरजङ्गमरूपं जगत् धारयति ॥ ३.७५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 075	Let (every man) in this (second order, at least) daily apply himself to the private recitation of the Veda, and also to the performance of the offering to the gods; for he who is diligent in the performance of sacrifices, supports both the movable and the immovable creation.
@@ -779,7 +904,21 @@ towards the east or the north............ one should study the Veda.’
 </div>
 
 ## तेन गृहस्थोत्कर्षः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_कथं पुनर् अग्न्याहुत्या सर्वस्य जगतः स्थितिर् भवतीत्य् अत आह ।_
+</details>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+कुत एतदित्याह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.७६ अग्नौ</summary>
 
 अग्नौ प्रास्ताहुतिः सम्यग्  
 आदित्यम् उपतिष्ठते ।  
@@ -797,6 +936,7 @@ An oblation duly thrown into the fire reaches the sun; from the sun proceeds rai
 <details><summary>मेधातिथिः</summary>
 
 **अग्नौ** यजमानेन **प्रास्ता** क्षिप्ता **आहुतिर्** हूयमानं चरुपुरोडाशाद्य् उच्यते । **आदित्यम्** अदृश्येन रूपेण प्राप्नोति । सर्वरसानाम् आहर्तादित्यो ऽत आहुतिरसस्यादित्यप्राप्तिर् उच्यते । अतः स रस आदित्यरश्मिषु कालेन परिपक्वो वृष्टिरूपेण जायते । ततो** ऽन्नं** व्रीह्यादि । **ततः प्रजाः** सर्वप्राणिनः । एवम् अग्नौ जुह्वत् सर्वजगदनुग्रहे वर्तते यजमानः । पूर्वस्य विधेः शेषो ऽयम्, न पुनर् यथाश्रुतार्थनिष्ठः । तत्त्वे हि वृष्टिकामस्याधिकारः स्यात् । न च तच्छ्रुतम्[^१३७] । प्रकृतशेषतयान्वयसंभवे न कल्पनाया अवसरः ॥ ३.६६ ॥
+
 
 [^१३७]:
      M G 1st ed.: tacchrutasya
@@ -820,6 +960,16 @@ What is stated here is only a commendatory supplement to the foregoing injunctio
 This verse is quoted in *Aparārka* (p. 994).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यजमानेनाग्नावाहुतिः सम्यक क्षिप्ता रसाहरणकारित्वादादित्यस्य आदित्यं प्राप्नोति। स चाहुतिरस आदित्याद् वृष्टिरूपेण जायते। ततोऽन्नम्। तदुपभोगेन जायन्ते प्रजाः॥७६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तथा च **अग्नौ प्रास्ताहुतिर्** इति । अग्नाव् आहुतिः **सम्यग्** यथाविधि प्रक्षिप्ता हुता रसाहरणरूपत्वाद् अदित्यस्य आदित्यं प्राप्नोति स आहुतिरसः कालेन परिपक्वः आदित्याद् **वृष्टि**रूपेण **जायते **। ततो ऽ**न्नम्,** तदुपभोगेन च **प्रजा जायन्ते **॥ ३.७६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 076	An oblation duly thrown into the fire, reaches the sun; from the sun comes rain, from rain food, therefrom the living creatures (derive their subsistence).
@@ -832,7 +982,7 @@ This verse is quoted in *Aparārka* (p. 994).
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.७७ यथा वायुम्</summary>
 
 यथा वायुं समाश्रित्य  
 वर्तन्ते सर्वजन्तवः [मेधातिथिपाठः - सर्वे जीवन्ति जन्तवः] ।  
@@ -871,6 +1021,18 @@ states are on the same footing as the state of the Householder. Nor has it been 
 The compound ‘*itarāśramāḥ*’ is to be expounded as a *Karmadhāraya* compound.—(77)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा प्राणाख्यवाय्वाश्रयेग सर्वप्राणितो जीवन्ति तथा गृहस्थाश्रमेण सर्वाश्रमिणो निर्वहन्ति॥७७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अपि च –
+
+यथा प्राणवाय्ववलम्बनेन सर्वप्राणिनो जीवन्ति, एवं **गृहस्थाश्रमम् आश्रित्य **अवलम्ब्याश्रमान्तराणि ध्रियन्ते ॥ ३.७७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 077	As all living creatures subsist by receiving support from air, even so (the members of) all orders subsist by receiving support from the householder.
@@ -886,7 +1048,15 @@ The compound ‘*itarāśramāḥ*’ is to be expounded as a *Karmadhāraya* co
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+गृहस्थः प्राणतुल्यः सर्वाश्रमिणामित्युक्तं तदेवोपपादयति—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.७८ यस्मात् त्रयो</summary>
 
 यस्मात् त्रयो ऽप्य् आश्रमिणो  
 ज्ञानेनाऽन्नेन चाऽन्वहम् ।  
@@ -907,11 +1077,14 @@ samo bhūteṣu hiṃsānugrahayoḥ | anārambhī |
 
 **यस्मात् त्रयो ऽप्य् आश्रमिणो ज्ञानेन** वेदार्थव्याख्यानजन्येन **अन्नेन** च **धार्यन्त** उपक्रियन्ते[^१३८] **गृहस्थेन तस्माज् ज्येष्ठः** श्रेष्ठ **आश्रमो गृहम्** । गृहीति पाठे बहुव्रीहिः, गृहम् इति पाठे विशेषणसमासो ज्येष्ठाश्रम इति । अत्रापि गृहस्थैर् एवेत्य् औचित्यानुवादः, न वानप्रस्थादीनाम् अध्यापनादिप्रतिषेधः । वानप्रस्थस्य तावद् विहितम् एतत् "एतान्[^१३९] एव महायज्ञान् निर्वपेत्" (म्ध् ६.५) इति । प्रव्रजितस्य यद्य् अपि "समो भूतेषु हिंसानुग्रहयोः अनारम्भी" (ग्ध् ३.२४–२५) इत्य् अनुग्रहः प्रतिषिद्धस् तथापि वेदार्थव्याख्यानं भिक्षुशात्रे विहितम् । ज्ञानवैराग्यभावनाभ्यासातिशयविधानाच् च तयोर् नातिप्रयत्नो वेदार्थव्याख्याने । ब्रह्मचारिणस् स्वार्थलोपान्[^१४०] नाध्यापकत्वम्, भैक्षवृत्त्युपदेशाच् च कुतो ऽन्नदानम् । अतो गृहस्थानाम् एव प्रायेण तत्संभवाद् एवम् उक्तं गृहस्थैर् एव ॥ ३.६८ ॥
 
+
 [^१४०]:
      M G: tvārthalopān
 
+
 [^१३९]:
      M G 1st ed.: tān
+
 
 [^१३८]:
      M G: upari kriyante
@@ -960,6 +1133,16 @@ being unproductive.’
 the others being unproductive.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्माद् गृहस्थव्यतिरिक्तास्त्रयोऽप्याश्रमिणो वेदार्थव्याख्यानान्नदानाभ्यां नित्यं गृहस्थैरेवोपक्रियन्ते तस्मात् ज्येष्ठाश्रमो गृहस्थः। ज्येष्ठ आश्रमो यस्य स तथेति बहुव्रीहिः॥७९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं च **यस्माद्** इति । **यस्मात्** गृहस्थव्यतिरिक्ताः **त्रयो ऽप्य् आश्रमिणो **वेदार्थोपदेशान्नदानाभ्यां गृहस्थैर् एवोपक्रियन्ते तस्मात् **श्रेष्टाश्रमो **गृहस्थः । गृहा पत्नी मेधो यज्ञः । गृहाधीनो मेधो यस्य गृहमेधी । गृहायां तिष्ठन्तीति गृहस्थाः । गृहा अस्यास्तीति **गृही** ॥ ३.७८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 078	Because men of the three (other) orders are daily supported by the householder with (gifts of) sacred knowledge and food, therefore (the order of) householders is the most excellent order.
@@ -972,7 +1155,7 @@ the others being unproductive.’
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३.७९ स सन्धार्यः</summary>
 
 स सन्धार्यः प्रयत्नेन  
 स्वर्गम् अक्षयम् इच्छता ।  
@@ -1009,8 +1192,6 @@ That state, which cannot be maintained by men with weak organs, should be kept u
 
 [^१४५]:
      M G: sukhakāmenetarac
-
-_तत्तुल्यतयायम् अप्य् अनुवाद एव ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -1038,6 +1219,16 @@ present text be taken as stating the desire for a definite result as constitutin
 Buhler and Burnell).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यत एवमतः स गृहस्थाश्रमः स्वर्गसुखमिच्छता अनन्तमिव चिरस्थायित्वात्, इह लोके च स्त्रीसम्भोगस्वाद्वन्नादिभोजनसुखंसन्ततमिच्छता प्रयत्नेनानुष्ठेयः। योऽसंयतेन्द्रियैर्धारयितुं न शक्यते॥७९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यत् एवम् अतः **स सन्धार्यो **गृहस्थेनेति । **स** गृहस्थाश्रमः स्वर्गसम्बन्धम् अनन्तम् इहलोके सुरतसम्भोगस्वाद्वन्नातिसुखम् अन्तम् **इच्छता **प्रयत्नेनानुष्ठेयो ऽसंयतेन्द्रियैः धारयितुं न शक्य इति गृहस्थाश्रमफलकथनम् ॥ ३.७९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 079	(The duties of) this order, which cannot be practised by men with weak organs, must be carefully observed by him who desires imperishable (bliss in) heaven, and constant happiness in this (life).
@@ -1051,7 +1242,16 @@ Buhler and Burnell).
 </div>
 
 ## यज्ञविधानानि
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मेधातिथिः - अवतारिका</summary>
+
+_तत्तुल्यतयायम् अप्य् अनुवाद एव ।_
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.८० ऋषयः पितरो</summary>
 
 ऋषयः पितरो देवा  
 भूतान्य् अतिथयस् तथा ।  
@@ -1069,6 +1269,7 @@ Sages, Pitṛs, gods, elementals and guests have expectations from family-men; o
 <details><summary>मेधातिथिः</summary>
 
 एते **कुटुम्बिभ्यो** गृहिभ्यः सकाशाद् अर्थयन्ते आदित्सन्ति[^१४६] । आत्मोपकारलिप्साशासनम् आकाङ्क्षा । अतस् तेभ्यो देवादिभ्यः **कार्यं** कर्तव्यं विहितहोमादि **विजानता** शास्त्रस्थितम् । कुटुम्बं दाराः । प्राकृतपुरुषेणापि या महायासोपनिबद्धा सा न युक्ता विफलीकर्तुं किं पुनर् देवतास्तुतिः ॥ ३.७० ॥
+
 
 [^१४६]:
      M G: āditsata
@@ -1098,6 +1299,16 @@ three debts; he repays that to the sages, by means of religious studentship, tha
 *Viṣṇu* (59.29).—\[Reproduces Manu.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एते गृहस्थेभ्यः सकाशात्प्रार्थयन्ते। अतः शास्त्रज्ञेन तेभ्यः कर्तव्यम्॥८०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+न चानित्यतापत्तिः, यत आह **ऋषय** इति । ऋषिप्रभृतयो गृहस्थेभ्यः सकाशात् यतो ऽर्थयन्ते यतः शास्त्रज्ञेन एभ्यः कर्तव्यम् ॥ ३.८० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 080	The sages, the manes, the gods, the Bhutas, and guests ask the householders (for offerings and gifts); hence he who knows (the law), must give to them (what is due to each).
@@ -1110,7 +1321,15 @@ three debts; he repays that to the sages, by means of religious studentship, tha
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>कुल्लूकः - अवतारिका</summary>
+
+कि तत्तदाह—
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ३.८१ स्वाध्यायेनाऽर्चयेतर्षीन्</summary>
 
 स्वाध्यायेनाऽर्चयेतर्षीन्  
 होमैर् देवान् यथाविधि ।  
@@ -1129,30 +1348,38 @@ One should worship, according to law, the Sages by Vedic Study, the Gods by Homa
 
 "स्वाध्यायम् अधीयीत" (आश्ग् १.१.४) इति य एवार्थः स एव स्वाध्यायेनार्चयेद् ऋषीन् इति । यद्[^१४७] भवति श्राद्धादरेण पाद्यार्घमाल्यानुलेपनेन तद् अर्चोच्यते[^१४८] । स्तुतिवचनं चेदम् । न चोभयोर् अपि स्वाध्यायऋषिपूजयोः करणम् । अग्न्यादिदेवतास् तावका मन्त्रा ऋषीन् अभिष्टुवन्ति । तस्मात् प्रशंसामात्रम् **ऋषीन् स्वाध्यायेनार्चयेद्** इति ।
 
+
 [^१४८]:
      M G 1st ed.: -lepanena | atrocyate
+
 
 [^१४७]:
      M G 1st ed. omit: yad
 
 - अथ वा नेह मरीच्यादय ऋषयो ऽभिप्रेताः, किं तर्हि वेदा एव । स्वाध्यायशब्दश् च क्रियाशब्दो नात्र वेदवचनो यथा "स्वाध्याहो ऽध्येतव्यः" (ता २.१५) इति । तेनैतद्[^१४९] उक्तं भवति "अध्ययनेन वेदान् पूजयेत्" यथाविध्य् अभ्यसेत्,[^१५०] अन्यथा पूजाया असंभवात् । अत्राप्य् अर्चा भाक्त[^१५१] एव[^१५२] । न हि होमे[^१५३] देवता प्रधाना, कारकं हि देवतेति । 
 
+
 [^१५३]:
      M G 1st ed.: homo
+
 
 [^१५२]:
      M G 1st ed.: aprāṇyarcākārata eva
 
+
 [^१५१]:
      G 2nd ed.: bhaktiḥ
 
+
 [^१५०]:
      M G 1st ed.: tathā vidyābhyāsāt
+
 
 [^१४९]:
      M G 1st ed.: naitad
 
 - **पितिॠन्** श्राद्धेन । अत्र यथाश्रुत एव नियोगः । स च श्राद्धविधौ निर्णेष्यते । **नॄन्** अतिथिभिक्षुप्रभृतीन् अर्चयेत्[^१५४] । अर्चापूर्वकम् अन्नं तेभ्यो दद्याद् इत्य् अर्थः ॥ ३.७१ ॥
+
 
 [^१५४]:
      M G 1st ed.L nārcayet
@@ -1185,6 +1412,16 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 392);—in
 
 *Yājñavalkya* (1.103).—‘Out of the remnant of what has been offered to
 the gods, one should make offerings to the Elementals, and also offer food on the ground for Caṇḍālas and birds.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+नानाप्रकारत्वादर्चनस्य स्वाध्यायादेरर्चनार्थत्वमुचितम्। महायज्ञान्तर्गतैः स्वाध्यायादिभिः ऋषिदेवपित्रतिथिभूतानि यथाशास्त्रं पूजयेत्॥८१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+किं तद् इत्य् आह **स्वाध्यायेनेति** । नानाप्रकारत्वाद् अर्चनस्य स्वाध्यायादेर् अर्चनार्थत्वम् अविरुद्धं पूर्वोक्तमहायज्ञार्थैः स्वाध्यायादिभिः ऋषिदेवपित्रतिथिभूतानि यथाशास्त्रम् अर्चयेत् ॥ ३.८१ ॥
 </details>
 
 <details><summary>Bühler</summary>

@@ -2,7 +2,7 @@
 title = "१८ छद्मव्रतानि"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१९८ न</summary>
 
 न धर्मस्याऽपदेशेन  
 पापं कृत्वा व्रतं चरेत् ।  
@@ -44,6 +44,16 @@ This verse is quoted in *Aparārka*, (p. 1229).
 See Comparative notes for [Verse 4.195].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पापं कृत्वा प्रायश्चित्तरूपं प्राजापत्यादिव्रतं पापमपनयति तन्नेदं प्रायश्चित्तं किंतु धर्मार्थमहमनुतिष्ठामीति स्त्रीशूद्रमूर्खादिजनमोहनं कुर्वन्नानुतिष्ठेत् ॥१९८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न धर्मस्येति** । **पापं कृत्वा **धर्मार्थव्रतख्यापनव्याजेन धार्मिको ऽयम् इति शूद्रादिमूर्खलोकमोहनं कुर्वन् तेन धर्मव्रतव्याजेन **पापम्** अवच्छाद्य प्रायश्चित्तं न कुर्यात् ॥ ४.१९८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 198	When he has committed a sin, let him not perform a penance under the pretence (that the act is intended to gain) spiritual merit, (thus) hiding his sin under (the pretext of) a vow and deceiving women and Sudras.
@@ -56,7 +66,7 @@ See Comparative notes for [Verse 4.195].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.१९९ प्रेत्येह</summary>
 
 प्रेत्येह चेदृशा विप्रा  
 गर्ह्यन्ते ब्रह्मवादिभिः ।  
@@ -74,6 +84,7 @@ Such Brāhmaṇas are condemned after death, and also here (in this life) by the
 <details><summary>मेधातिथिः</summary>
 
 इह पदार्थस्वाभाव्येनान्योद्देशेनापि कृतं यत् फलं ततो भवत्य् एव । तथा हि गुरुनियोगे प्रवृत्तो धर्मोद्देशेन गुरुवचनं करोमीति न कामहेतोः । अर्थस्वाभाव्यात्[^२५५] तु कामं प्रतिजनयति । 
+
 
 [^२५५]:
      M G 1st ed.: arthaḥ svābhāvyāt
@@ -104,6 +115,11 @@ It is not only that his purpose is not accomplished, in fact, such Brāhmaṇas�
 See Comparative notes for [Verse 4.195].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**अलिङ्गीति** । अब्रह्मचारी ब्रह्मचार्यादिवेषेण यस् तद्वृत्त्या जीवति स ब्रह्मचार्यादीनां यत् पापं तद् आत्मन्य् आहरति । श्वादियोनौ च **जायते **। तस्माद् एतन् न कर्तव्यम् ॥ ४.२०० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 199	Such Brahmanas are reprehended after death and in this (life) by those who expound the Veda, and a vow, performed under a false pretence, goes to the Rakshasas.
@@ -116,7 +132,7 @@ See Comparative notes for [Verse 4.195].
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४.२०० अलिङ्गी</summary>
 
 अलिङ्गी लिङ्गिवेषेण  
 यो वृत्तिम् उपजीवति ।  
@@ -137,6 +153,7 @@ One who, though not entitled to the wearing of a certain badge, gains one’s li
 
 - न चात्रैतद् आशङ्कनीयं लिङ्गिनां यत् पापं तत् तेभ्यो ऽपसृत्य तस्मिन् संचरतीत्य् असंभाव्यम् । अकर्तव्यता परलिङ्गधारणस्य[^२५६] प्रतीयते । अश्रुते ऽपि प्रतिषेधे निन्दार्थवादाद् एव तदवगतिः ॥ ४.२०० ॥
 
+
 [^२५६]:
      M G: paraliṅgadhāraṇāt
 </details>
@@ -156,6 +173,11 @@ Because all that is meant by the text is that one should not wear the badge of o
 
 *Viṣṇu* (93.13).—\[Same as Manu, but reading ‘*prajāyate*’ for ‘*ca
 jāyate*.’\]
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+प्रेत्येहेति श्लोकद्वयम् । प्रथमं सुबोधम् ।अब्रह्मचारी यो ब्राह्मणो ब्रह्मचार्यादिलिङ्ग मेखलाजिनदण्डादिवेषोपलक्षितस्तद्वृत्त्या भिक्षाभ्रमणादिना जीवति स ब्रह्मचार्यादीनां यत्पापं तदात्मन्याहरति । कुक्कुरादितिर्यग्योनौ चोत्पद्यते । तस्मादेतन्न कर्तव्यमिति निषेधः कल्प्यते ॥१९९॥२००॥
 </details>
 
 <details><summary>Bühler</summary>
