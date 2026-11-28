@@ -1,0 +1,58 @@
++++
+title = "074 यजेत वाश्वमेधेन"
+
++++
+
+<details><summary>Bühler</summary>
+
+075	Or he may offer a horse-sacrifice, a Svargit, a Gosava, an Abhigit, a Visvagit, a Trivrit, or an Agnishtut;
+</details>
+
+<details><summary>गङ्गानथ-मूलानुवादः</summary>
+
+Or, he may offer the Aśvamedha, or the Svajit—the Gosava, or the Abhijit—Viśvajit, or the triple Agniṣṭut.—(74)
+</details>
+
+<details><summary>मेधातिथिः</summary>
+
+जनपदेश्वरस्याश्वमेधे ऽधिकारः । तत्र हिरणादिप्राच्यादिगम्यः आहृतं द्रव्यं दक्षिणा विहिता । ये चानाहिताग्नयस् ते न यागेष्व् अधिक्रियन्ते । न पुनस् तदर्थम् एवाधानं कर्तव्यम् । कर्माणि हि प्रयश्चित्तार्थानि साङ्गानि । न चाङ्गम् आधानम् ॥ ११.७४ ॥
+</details>
+
+<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
+
+It is only the lord of a kingdom that is entitled to the performance of a Horse-sacrifice; as the sacrificial fee prescribed in that connection is such gold and other metals as have been won from the Eastern and other quarters.
+
+Those persons who have not performed the Fire-laying rite are not entitled to the performance of any sacrifice. Nor would they he justified in laying the Fires for the purpose of these sacrifices only; because the rites for the purposes of expiation are to be done only along with their own accessory details, and ‘Fire-laying’ does not form the accessory of any of these sacrifices.—(74)
+</details>
+
+<details><summary>गङ्गानथ-टिप्पन्यः</summary>
+
+‘*Svarjitā*.’—‘*Svarjit*’ is the name of a sacrifice, according to Nārāyaṇa and Kullūka;—according to others the term is only an epithet of ‘*gosavena*.’
+
+‘*Trivṛtā*’.—Qualifies the ‘Agniṣṭut’, according to Medhātithi;—but stands for a distinct sacrifice, the *Trivṛtstoma*, according to Govindarāja and Nārāyaṇa.
+
+For the *Gosava* see Kātyāyana-śrautasūtra 22.11.3 for the *Ābhijit*, Āśvalāyana-śrautasūtra 8.5.13;—for the *Agniṣṭut*, Ibid 9.7.22—25.
+
+This verse is quoted in *Mitākṣarā* (3.248);—and in *Parāśaramādhava* (Prāyaścitta, p. 405).
+</details>
+
+<details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
+
+**(verses 11.72-86)**
+
+See Comparative notes for [Verse 11.72].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+“यजेत वाऽश्वमेधेन" इत्यनन्तरं व्याख्यातम्। स्वर्जिता यागविशेषेण वा गोसवेन  
+अभिजिता विश्वजिता वा त्रिवृताग्निष्टुता वा याजयेत। एतानि चाज्ञानतो ब्रह्मवधेप्रायश्चित्तानि त्रैवर्णिकस्यविकल्पितानि। तदुक्तं भविष्यपुराणे—
+
+**स्वर्जितादेश्चयद्वीर कर्मणा पृतनापते।  
+अनुष्ठानं द्विजातीनां वधे ह्यमतिपूर्वके॥ ७४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यजेतेति । **अश्वमेधाख्यं वा ऋतं कुर्याद् अत्र च सार्वभौमस्य राज्ञ आहितो ऽग्निर् अधिकारो न तु** **प्रायश्चित्तार्थम् आधानं कार्यम् अभिजिद्विश्वजितौ प्रायश्चित्तद्वयं त्रिवृता त्रिवृत्स्तोमेनाग्निष्टुता त्रिवृद् इति न चोच्यन्ते स्तोमः स्तोत्रसमूहः ॥ ११.७३ ॥
+</details>

@@ -1,0 +1,35 @@
++++
+title = "043 स तु"
++++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who chants the Sāmaveda chants daily libates the gods with soma and clarified butter,  
+and satisfies the ancestors with honey and clarified butter.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स तु सोम-घृतैर् देवांस्  
+तर्पयेद् यो ऽन्वहं पठेत्।  
+सामानि तृप्तिं कुर्याच् च  
+पितॄणां मधु-सर्पिषा  ॥ १.४३ ॥
+</details>
+
+<details><summary>अपरार्कः</summary>
+
+> **स तु सोमघृतैर् देवांस् तर्पयेद् यो ऽन्वहं पठेत् ।**  
+> **सामानि तृप्तिं कुर्याच् च पितॄणां मधुसर्पिषा ॥ १.४३ ॥**
+
+**यो ऽन्वहं सामानि पठेत् स सोमघृतैर् देवान्** मधुसर्पिर्भ्यां **च पितॄंस् तर्पयेत्** ॥ १.४३ ॥
+</details>
+
+<details><summary>विश्वरूपः</summary>
+
+> **स तु सोमघृतैर् देवांस् तर्पयेद् यो ऽन्वहं पठेत् ।**  
+> **सामानि तृप्तिं कुर्याच् च पितॄणां मधुसर्पिषा ॥ १.४३ ॥**
+
+ 
+
+चशब्दस्योत्कृष्य पितॄणां चेति योजना ॥ ४३ ॥
+</details>

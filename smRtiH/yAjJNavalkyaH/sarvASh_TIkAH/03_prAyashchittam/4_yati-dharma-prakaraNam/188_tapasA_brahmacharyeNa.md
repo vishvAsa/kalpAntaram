@@ -1,0 +1,23 @@
++++
+title = "188 तपसा ब्रह्मचर्येण"
++++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through austerity, celibate studenthood, abandonment of attachment, and wisdom,  
+having gone there, they remain until the dissolution of the elements.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तपसा ब्रह्म-चर्येण  
+सङ्ग-त्यागेन मेधया।  
+तत्र गत्वा ऽवतिष्ठन्ते  
+यावद् आ-भूत-सम्प्लवम्  ॥ ३.१८८ ॥
+</details>
+
+<details><summary>विश्वरूपः</summary>
+
+> **तपसा ब्रह्मचर्येण सङ्गत्यागेन मेधया ।**  
+> **यातास् तत्रावतिष्ठन्ति यावद् आभूतसंप्लवम् ॥ ३.१८९ ॥**
+</details>

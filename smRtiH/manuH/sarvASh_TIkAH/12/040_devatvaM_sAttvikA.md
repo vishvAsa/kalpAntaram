@@ -1,0 +1,52 @@
++++
+title = "040 देवत्वं सात्त्विका"
+
++++
+
+<details><summary>Bühler</summary>
+
+040	Those endowed with Goodness reach the state of gods, those endowed with Activity the state of men, and those endowed with Darkness ever sink to the condition of beasts; that is the threefold course of transmigrations.
+</details>
+
+<details><summary>गङ्गानथ-मूलानुवादः</summary>
+
+Those partaking of ‘Sattva’ reach the state of the gods, those endowed with ‘Rajas,’ the state of men, and those characterised by ‘Tamas,’ the state of beasts; such is the threefold migratory state.—(40)
+</details>
+
+<details><summary>मेधातिथिः</summary>
+
+सामान्येन **गति**निर्देशो गुणनिमित्तो ऽयम् ॥ १२.४० ॥
+</details>
+
+<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
+
+This verse indicates in general the states of existence brought about by the three qualities.—(40)
+</details>
+
+<details><summary>गङ्गानथ-टिप्पन्यः</summary>
+
+This verse is quoted in *Madanapārijāta* (p. 698);—in *Parāśaramādhava* (Prayaścitta, p. 488);—and in *Nṛsiṃhaprasāda* (Prāyaścitta 41a.)
+</details>
+
+<details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
+
+**(verses 12.32-51)  
+**
+
+See Comparative notes for [Verse 12.32].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+ये सत्त्ववृत्ताववस्थितास्ते देवत्वं यान्ति। ये तु रजोवृत्त्यवस्थितास्ते मनुष्यत्वम्।ये तमोवृत्तिस्थास्ते तिर्यक्त्वं चेत्येषा त्रिविधा जन्मप्राप्तिः॥४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**देवत्वम् **इति । ये सत्त्ववृत्त्यवस्थितास् ते देवत्वं प्राप्नुवन्ति । ये पुना रजोवृत्तिस्थास् ते मनुष्यत्वं ये तमोवृत्तिस्थास् ते नित्यं तिर्यक्त्वम् इति ॥ १२.४० ॥
+</details>
+
+<details><summary>भारुचिः</summary>
+
+समासनिर्देशो गतेर् गुणनिमित्तायाः ॥ १२.४० ॥
+</details>

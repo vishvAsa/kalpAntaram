@@ -1,0 +1,27 @@
++++
+title = "190 वेदानुवचनं यज्ञो"
++++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the recitation of the Veda, sacrifice, celibate studenthood, austerity, self-control,  
+faith, fasting, and mastery over oneself are the means of knowing the self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वेदानुवचनं यज्ञो  
+ब्रह्म-चर्यं तपो दमः।  
+श्रद्धोपवासः स्वातन्त्र्यम्  
+आत्मनो ज्ञान-हेतवः  ॥ ३.१९० ॥
+</details>
+
+<details><summary>विज्ञानेश्वरः</summary>
+
+_ततः किम्, इत्य् अत आह ।_
+
+> **वेदानुवचनं यज्ञो ब्रह्मचर्यं तपो दमः । ३.१९०अब्**  
+> **श्रद्धोपवासः स्वातन्त्र्यम् आत्मनो ज्ञानहेतवः ॥ ३.१९०च्द्**
+
+वेदस्य नित्यत्वे सति तत्प्रामाण्यबलाद् वेदानुवचनादयः सत्त्वशुद्ध्यापादनद्वारेणात्मज्ञानस्य हेतव इत्य् उपपन्नं भवति ॥ ३.१९० ॥
+</details>

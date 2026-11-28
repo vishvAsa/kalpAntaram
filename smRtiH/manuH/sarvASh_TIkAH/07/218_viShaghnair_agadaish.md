@@ -1,0 +1,55 @@
++++
+title = "218 विषघ्नैर् अगदैश्"
+
++++
+
+<details><summary>Bühler</summary>
+
+218	Let him mix all his food with medicines (that are) antidotes against poison, and let him always be careful to wear gems which destroy poison.
+</details>
+
+<details><summary>गङ्गानथ-मूलानुवादः</summary>
+
+He shall purify all his things by means of liquids destructive of poisons; and he shall be careful to wear always such gems as are antidotes against poison.—(218)
+</details>
+
+<details><summary>मेधातिथिः</summary>
+
+**विषघ्नैर् उदकैश् चास्य सर्वद्रव्याणि** राजौपयिकानि वस्त्रादीनि विशोधयेत् । **विषघ्णानि रत्नानि** गरुडोदीर्णनागदमणिप्रभृतीनि[^३३९] । **नियतः** प्रत्यये नित्यं भोजनकालाद् अन्यदापि **धारयेत्** ॥ ७.२१८ ॥
+
+
+[^३३९]:
+     DK (4:979) suggests nāgamaṇi in place of nāgadamaṇi.
+</details>
+
+<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
+
+‘*All his things*’— all such things as clothes and the like that are to be used by the king,—‘*he shall purify by means of liquids destructive of poisons*’
+
+‘*Such gems as are antidotes against poison*’—*e.g*. the gem on the snake’s hood, which may have been thrown ont of the month of the Garuḍa-bird.
+
+‘*Careful*’—he should never miss it.
+
+‘*Always*’— at times other than that of eating also.—(218)
+</details>
+
+<details><summary>गङ्गानथ-टिप्पन्यः</summary>
+
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 161), which explains ‘*nejayet*’ (which is its reading for ‘shodhayet’) as ‘should wash’
+</details>
+
+<details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
+
+*Viṣṇu* (3.87).—‘He shall be conversant with incantations dispelling the
+effects of poison and of sickness.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+विषनाशिभिरौषधैः सर्वाणि भोज्यद्रव्याणि योजयेत् । विषहरणानि च रत्नानि यत्नवान्सर्वदा धारयेत् ॥२१८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विषघ्नैर्** इति । **विषघ्नैर् **औषधप्रयोगैः सर्वद्रव्यानि भोगभोज्यादीनि लक्षयेत् । विषघ्नानि च रत्नानि गरुडोद्गीर्णनागमणिप्रभृतीनि यत्नवान् सर्वदा धारयेत् ॥ ७.२१८ ॥
+</details>

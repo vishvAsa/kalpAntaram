@@ -1,0 +1,53 @@
++++
+title = "037 यक्ष-रक्षः-पिशाचांश् च"
++++
+
+<details><summary>Bühler</summary>
+
+037	Yakshas (the servants of Kubera, the demons called) Rakshasas and Pisakas, Gandharvas (or musicians of the gods), Apsarases (the dancers of the gods), Asuras, (the snake-deities called) Nagas and Sarpas, (the bird-deities called) Suparnas and the several classes of the manes,
+</details>
+
+<details><summary>गङ्गानथ-मूलानुवादः</summary>
+
+[They called into being] also Yakṣas, Rakṣasas, Piśācas, Gandharvas, Apsarases, Asuras, Nāgas, Sarpas, Suparṇas, and the several orders of Pitṛs.—(37)
+</details>
+
+<details><summary>मेधातिथिः</summary>
+
+यक्षादीनां स्वरूपभेदश् चेतिहासादिप्रमाणक एव, न प्रत्यक्षादीनाम् अन्यतमेन प्रमाणेन परिच्छिद्यते । तत्र वैश्रवणानुचरा **यक्षाः** । **रक्षांसि** विभीषणादयः । तेभ्यः क्रूरतराः **पिशाचाः**, अशुचिमरुदेशादिवासिनो निकृष्टा यक्षराक्षसेभ्यः । हिंस्रास् तु सर्व एव । छद्मकरणेन[^८३] केचित् प्राणिनां जीवम् आकर्षन्त्य् अदृष्टया शक्त्या व्याधींश् च जनयन्तीत्य् ऐतिहासिका मन्त्रवादिनश् च । **गन्धर्वा** देवानुचरा गीतनृत्तप्रधानाः । **अप्सरसो** देवगणिका उर्वश्याद्याः । **असुरा** देवशत्रवो वृत्रविरोचनहिरण्याक्षप्रभृतयः । **नागा** वासुकितक्षादयः । **सर्पाः** प्रसिद्धाः । **सुपर्णाः** पक्षिविशेषा गरुत्मत्प्रभृतयः । **पितरः** सोमपाज्यपादिनामानः स्वस्थाने देववद् वर्तन्ते । तेषां गणम् असृजन् ॥ १.३७ ॥
+
+
+[^८३]:
+     J: chadmanā
+</details>
+
+<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
+
+The various forms of the Yakṣa and other beings here mentioned can be known only from the *Itihāsas* and such other sources; they cannot be known by any of the ordinary means of cognition, perception and the rest.—The ‘*Yakṣas*’ are the followers of Kuvera;—‘*Rākṣasas*,’ Bivīṣaṇa and others;—beings more cruel than these last are ‘*Piśācas*,’ who live in unclean places and in deserts, &c., and are inferior to *Yakṣas* and
+*Rākṣasas*; though all three are mischievous; by trickery they draw out
+the life of living beings, and by some invisible power they bring about diseases: so say persons knowing the *Itihāsas* (stories) and *Mantra* (Incantations).—‘*Gandharvas*,’ are those followers of the Gods whose chief work consists of singing and dancing;—‘*Apsarases*,’ the courtezans of the Gods, Urvaśī and the rest;—‘*Asuras*,’ the Gods’ enemies, Vṛttra, Virocana, Hiraṇyāksa and so forth;—‘*Nāgas*’ (the Great Serpents), Vāsuki, Takṣaka and the rest;—‘*Sarpas*’ ** (Serpents) are well known;—‘*Suparnas*,’ the great Birds, Garuḍa and the rest;—‘*Pitṛs*,’ named ‘*Somapa*,’ ‘*Ayyapa*’ and so forth, who reside, like Gods, in their own regions; the ‘*several orders*’ of these also;—all these (the mighty sages) called into being.—(37)
+</details>
+
+<details><summary>गङ्गानथ-टिप्पन्यः</summary>
+
+‘*Pitṛṇām gaṇān*’—The ‘*pitṛs*’ are not actually the ‘fathers,’ as is clear from the present text; they are a particular class of divine beings, though it is from these that human beings are descended. See III, 194—199.
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+एतेऽसृजन्निति पूर्वस्यवात्रानुषङ्गः उत्तरत्र (१)[^58] श्लोकत्रये च। (२)[^59] यक्षा वैश्रवणादयस्तदनुचराश्चरक्षांसि रावणादीनि। पिशाचास्तेभ्योऽपकृष्टा अशुचिमरुदेशनिवासिनः। गन्धर्वाश्चित्ररयादयः। अप्सरस उर्वश्याद्याः। असुरा विरोचनादयः। नागा वासुक्यादयः। सर्पास्ततोऽपकृष्टा अलगर्दादयः।सुपर्णा गरुडादयः। पितॄणामाज्यपादीनां गणः समूहः। एषां च भेद इति-हासादिप्रसिद्धो नाध्यक्षादिगोचरः॥३७॥
+
+[^58]: " 'श्लोकद्वये' ख०।"
+
+[^59]: "यक्षेवैश्रवणः ख.।"
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यक्षरक्षःपिशाचांश् चेति** । **यक्षाः **वैश्रवणामात्याः ।** रक्षांसि **रावणादीनि । **पिशाचाः **मरुभूम्यादिवासिनः प्राणिविशेषाः । **गन्दर्वाः **चित्रसेनादयः । **अप्सरसः **मेनकाद्याः, **असुरा **विरोचनादयः । **नागाः **तक्षकाद्याः **सर्पा **अहयः **सुपर्णा **गरुत्मन्तः **पितॄणां **सोमपादीनां स्वस्थानसमूहान् असृजन् इति वर्तते । एवम् उत्तरत्रापि ॥ १.३७ ॥
+</details>
+
+<details><summary>भारुचिः</summary>
+
+कर्मार्थम् आत्मभोगसिद्ध्यर्थं च एतान् असृजत् । मरीच्यादीनां च प्रजापतिसम्बन्धे नैतद् एषां पुनः सृष्ट्याभिधानम् अनुक्तं च किञ्चित् । (?)
+</details>

@@ -1,0 +1,26 @@
++++
+title = "282 भगन् ते"
++++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘May King Varuṇa give you fortune; fortune may the Sun [and] Bṛhaspati [give];  
+fortune may Indra and Vāyu, fortune may the Seven Sages give!’
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगं ते वरुणो राजा  
+भगं सूर्यो बृहस्पतिः।  
+भगम् इन्द्रश् च वायुश् च  
+भगं सप्तर्षयो ददुः  ॥ १.२८२ ॥
+</details>
+
+<details><summary>विज्ञानेश्वरः</summary>
+
+> **भगं ते वरुणो राजा भगं सूर्यो बृहस्पतिः । १.२८२अब्**  
+> **भगम् इन्द्रश् च वायुश् च भगं सप्तर्षयो ददुः ॥ १.२८२च्द् ॥**  
+> 
+
+तद् अनन्तरं दक्षिणदेशावस्थितं द्वितीयं कलशम् आदायानेन मन्त्रेणाभिषिञ्चेत् । भगं कल्याणं ते तुभ्यं वरुणो राजा भगं सूर्यो भगं बृहस्पतिः भगम् इन्द्रश् च वायुश् च भगं सप्तर्षयश् च ददुर् इति ॥ १.२८२ ॥
+</details>

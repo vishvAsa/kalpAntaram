@@ -1,0 +1,57 @@
++++
+title = "147 कामान् माता"
++++
+
+<details><summary>Bühler</summary>
+
+147	Let him consider that (he received) a (mere animal) existence, when his parents begat him through mutual affection, and when he was born from the womb (of his mother).
+</details>
+
+<details><summary>गङ्गानथ-मूलानुवादः</summary>
+
+When the Father and Mother beget one through mutual desire,—this that he is born in the womb is to be regarded as his “production.”—(147)
+</details>
+
+<details><summary>मेधातिथिः</summary>
+
+श्लोकद्वयम् अर्थवादः । मातापितरौ **यद् एनं** दारकम् **उत्पादयतो** जनयतो **मिथो** रहसि परस्परं तत् **कामाद्** धेतोर् मन्मथपरवशौ । **संभूतिं तस्य तां विद्यात्** । **तस्य** दारकस्य संभवोत्पत्तिर् **यद् योनौ** मातृकुक्षाव् **अभिजायते** ऽङ्गप्रत्यङ्गानि लभते । संभवश् च येषां भावानां ते तथैव विनश्यन्ति । अतः किं तेन संभवेन यस्यानन्तरभावी विनाशः ॥ २.१४७ ॥
+</details>
+
+<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
+
+These two verses are purely valedictory.
+
+‘*When the Father and. Mother beget him*’—the child—‘*through mutual desire*’—in secret, under the influence of desire.
+
+‘*Should be regarded as his production*;’—that the child is born in the womb of the Mother—*i.e*., b ecomes endowed with his several limbs—this is mere *production*. And those entities that have their *production* are sure to be destroyed; so that what is the use of that ‘production’ which is doomed to immediate destruction?—(117)
+</details>
+
+<details><summary>गङ्गानथ-टिप्पन्यः</summary>
+
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 480).
+</details>
+
+<details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
+
+*Viṣṇu-smṛti*, 30.44.—(Reproduces Manu.)
+
+*Āpastamba-Dharmasūtra*, 1.2-2.—‘The parents produce body.’
+
+*Vaśiṣṭha-Dharmasūtra*, 2.5.9.—‘They call the Teacher Father because of
+his imparting the Veda.’—‘Therefore the learned expounder of the Veda is never regarded as *childless*.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+मातापितरौ यद् एनं बालकं कामवशेनान्योन्यमुत्पादयतः संभवमात्रंतत्तस्य पश्चादिसावारणम् । यद्योनौ मातृकुक्षावभिजायतेऽङ्गप्रत्यङ्गानि लभते ॥१४७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अत्रार्थवादः **कामाद्** इति । **आचार्यस् त्व्** इति । पितराव् एनं **मिथः** परस्परं **कामाद् उत्पादयतो** न तदुपकारचिकीर्षया । पुनः सम्भवमात्रं **तस्य **जानीयाद् **यद् योनाव्** असाव् उत्पद्यते । **आचार्यः** पुनः समस्तवेदाध्यापयिता यथाशास्त्रम् उपनयनाङ्गबूतया **सावित्र्या यां जातिं **यज् जन्म **अस्य **करोति **सा सत्या **स्यात् सत्यात्मका श्रौतादिकर्मनिमित्तत्वात् । सा **अजरा** अबाधका पुनस् तूद्भवे तस्यानपचयात्, **अमरा **अमरात्मकज्ञानाधिकारोत्पादनद्वारेणामरहेतुत्वात्॥ २.१४७–४८ ॥
+</details>
+
+<details><summary>भारुचिः</summary>
+
+इयं यया (?) मातापितृनिन्दयाचार्यस्तुतिः प्रकरणसामर्थ्याद् वेदितव्या इयं चा [१ अक्ष् उन्च्लेअर्] अव्यवहिता (?) ।
+</details>
