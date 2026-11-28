@@ -11,6 +11,11 @@ title = "०३ विवाहप्रकाराः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/020_chaturNAm_api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+020	Now listen to (the) brief (description of) the following eight marriage-rites used by the four castes (varna) which partly secure benefits and partly produce evil both in this life and after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Understand briefly these (following) eight forms of marriage of girls, among the four castes,—which are beneficial and not-beneficial here (in this life) and also after death.—(20)
@@ -89,11 +94,6 @@ elders, in accordance with the custom of her country, becomes forcibly united wi
 **चतुर्णाम्** इति । **चतुर्णाम् अपि **ब्राह्मणादि**वर्णानां** परलोकेहलोकयोः कांश्चिद् **धिताहितान् इमान् **वक्ष्यमाणान् भार्याप्राप्तिहेतून् **विवाहान् **सङ्क्षेपेण शृणुत ॥ ३.२० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-020	Now listen to (the) brief (description of) the following eight marriage-rites used by the four castes (varna) which partly secure benefits and partly produce evil both in this life and after death.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सङ्ख्ययोपदिश्यैतान् स्वरूपत इदानीम् आह ।
@@ -111,6 +111,11 @@ elders, in accordance with the custom of her country, becomes forcibly united wi
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/021_brAhmo_daivas.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+021	(They are) the rite of Brahman (Brahma), that of the gods (Daiva), that of the Rishis (Arsha), that of Pragapati (Pragapatya), that of the Asuras (Asura), that of the Gandharvas (Gandharva), that of the Rhashasas (Rakshasa), and that of the Pisakas (Paisaka).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (1) The Brāhma, (2) the Daiva, (3) the Ārṣa, (1) the Prājāpatya, (5) the Āsura, (6) the Gāndharva, (7) the Rākṣasa and (8) the Paiśāca, which is the eighth and the lowest.—(21)
@@ -155,11 +160,6 @@ See Comparative notes for [Verse 3.20].
 **ब्राह्म** इति । स्तुतिनिन्दाप्रतिपादनो ऽयम् एषां ब्राह्मादिव्यपदेशः । न त्व् असाधारण्येन ब्रह्मादिदेवतासम्बन्ध एषां विद्यते ॥ ३.२१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-021	(They are) the rite of Brahman (Brahma), that of the gods (Daiva), that of the Rishis (Arsha), that of Pragapati (Pragapatya), that of the Asuras (Asura), that of the Gandharvas (Gandharva), that of the Rhashasas (Rakshasa), and that of the Pisakas (Paisaka).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ब्राह्मादयो विवाहा देवतासम्बन्धेनैवम् उच्यन्ते, असत्य् अपि वा देवतासम्बन्धे स्तुत्यर्थम् एषाम् एतद् एवं ग्रहणम् । अधुना त्व् एतद् एवम् –
@@ -177,6 +177,11 @@ See Comparative notes for [Verse 3.20].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/022_yo_yasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+022	Which is lawful for each caste (varna) and which are the virtues or faults of each (rite), all this I will declare to you, as well as their good and evil results with respect to the offspring.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Which (of these) is lawful for which caste, what are the good and bad points of each, the good and bad effects of each upon the offspring,—all this I shall explain to you.—(22)
@@ -227,11 +232,6 @@ keeping with the form of marriage.’
 **ये यस्य धर्मा** इति । **ये **विवाहा **यस्य वर्णस्य **धर्मानपेता **यस्य च **विवाहस्य **यौ गुणदोषौ **वोढुर् इष्टानिष्टफलदातारौ प्रतिनियतविवाहोत्पन्नायत्तेषु च ये **गुणदोषौ तत् सर्वं** युष्माकं **प्रवक्ष्यामि **॥ ३.२२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-022	Which is lawful for each caste (varna) and which are the virtues or faults of each (rite), all this I will declare to you, as well as their good and evil results with respect to the offspring.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विवक्षितधर्मोपन्यासार्थः श्लोकः । **ये यस्य धर्मास्** ते उच्यन्ते ।
@@ -249,6 +249,11 @@ keeping with the form of marriage.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/023_ShaD_AnupUrvyA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+023	One may know that the first six according to the order (followed above) are lawful for a Brahmana, the four last for a Kshatriya, and the same four, excepting the Rakshasa rite, for a Vaisya and a Sudra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should know the first six in the order stated as lawful for the Brāhmaṇa, the last four for the Kṣatriya and those same, excepting the “Rākṣasa,” for the Vaiśya and the Śūdra.—(23).
@@ -350,11 +355,6 @@ as authorised by the Father; the remaining (which are unrighteous) may be author
 **षड् **इति । **षड् **आदितः क्रमावस्थितान् **विप्रस्य क्षत्रियस्य **चोपरितनान् **चतुरः** (चत्वारो), **विट्शूद्रयोः **पुनः **राक्षस**वर्जितान् **तान् एव **धर्माद् अनपेतान् जानीयात् ॥ ३.२३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-023	One may know that the first six according to the order (followed above) are lawful for a Brahmana, the four last for a Kshatriya, and the same four, excepting the Rakshasa rite, for a Vaisya and a Sudra.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इयं च ऋत्विका(ज्वर्था) स्मृतिः । तेषाम् अपि षण्णाम् ।
@@ -372,6 +372,11 @@ as authorised by the Father; the remaining (which are unrighteous) may be author
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/024_chaturo_brAhmaNasyAdyAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+024	The sages state that the first four are approved (in the case) of a Brahmana, one, the Rakshasa (rite in the case) of a Kshatriya, and the Asura (marriage in that) of a Vaisya and of a Sudra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wise ones have regarded the first four as commended for the Brāhmaṇa, the Rākṣasa alone for the Kṣatriya and the Āsura for the Vaiśva and the Śūdra.—(24).
@@ -433,11 +438,6 @@ See Comparative notes for [Verse 3.23].
 **चतुर** इति । **ब्राह्मणस्याद्यांश् चतुरः** । **क्षत्रियस्य राक्षसम् एकं वैश्यशूद्रयोश् चासुरं** स्मृत्यर्थोपनिबन्धनकाराः **प्रशस्तान्** मन्यन्ते । अत्र चारुरादीनां ब्राह्मणादिषु पूर्ववाक्यविहितानाम् इह निराकरणात् विकल्पतो नित्यासम्भवे वैकल्पिकेषु प्रवृत्तिः । एवम् उत्तरत्रापि वेदितव्यम् ॥ ३.२४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-024	The sages state that the first four are approved (in the case) of a Brahmana, one, the Rakshasa (rite in the case) of a Kshatriya, and the Asura (marriage in that) of a Vaisya and of a Sudra.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इयम् अपरा पुनर् अभ्युदयप्रदर्शनार्था ।
@@ -455,6 +455,11 @@ See Comparative notes for [Verse 3.23].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/025_panchAnAn_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+025	But in these (Institutes of the sacred law) three of the five (last) are declared to be lawful and two unlawful; the Paisaka and the Asura (rites) must never be used.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of the five, three have been declared to be lawful and two unlawful, in this treatise; the Paiśāca and the Āsura forms should never be adopted.’—(25)
@@ -558,11 +563,6 @@ conducive to spiritual merit and help also in the water-offerings; that is, thos
 **पञ्चानाम्** इति । इह पैशाचनिषेधात् प्राजापत्यादयः पञ्च गृह्यन्ते । **पञ्चानां **प्राजापत्यादीनां मद्यात् **त्रयो **धर्माद् अनपेताः, **द्वौ **त्व् **अधर्म्याव् इह **शास्त्रे स्मृतौ **पैशाचासुरौ** । ताव् आपद्य् अपि न कर्तव्यौ ॥ ३.२५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-025	But in these (Institutes of the sacred law) three of the five (last) are declared to be lawful and two unlawful; the Paisaka and the Asura (rites) must never be used.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 प्राजापत्यादयः पञ्च गृह्यन्ते । पैशाचग्रहणात् ज्ञपकात् तेषां प्राजापत्यगान्धर्वराक्षसा धर्म्या आसुरपैषाचाव् अधर्म्यौ । क्षत्रियादीनां चान्तराधिकाराद् एषा स्मृतिः क्षत्रियादीनां त्रयाणाम् इष्यते । न तु ब्राह्मणस्य । षड्भिर् एवेति च ब्राह्मणस्य नियमात् । तत्र "क्षत्रस्य चतुरो ऽवरान्" (म्ध् ३.२३) इत् क्षत्रस्य गान्धर्वराक्षसयोर् इह पुनर् विधिर् वैश्यशूद्रयोर् अपि तान्य् एव । वैश्यशुद्रभ्याम् इति प्राजापत्यराक्षसयोर् अपरो विधिर् गान्धर्वस्य पुनर् विधिर् उभे उच्येते स्मृती । वैश्यशूद्रयोः स्त्रीविषययोर् विशेषाभावात् नेमे वैश्यशूद्रविषये इत्य् एके मन्यन्ते । यद् इति विवाहेषु स्वगतो विशेषो ऽस्ति ततस् तन्निमित्तो ऽभ्युदयविशेषः कल्पयितव्यः । अस्ति च विशेषः । पूर्वे त्रयः आसुरगान्धर्वपैशाचाः । इमे त्रयः प्राजापत्यगान्धर्वराक्षसास् तेषां पैशाचाद् राक्षसो विशिष्यते । आसुरात् प्राजापत्यः । गान्धर्वस्योभयत्र विशेषः । अत एषा स्मृतिः पूर्वस्याः स्मृतेर् ज्यायसी अभ्युदयविशेषाद् द्रष्टव्या ।
@@ -580,6 +580,11 @@ conducive to spiritual merit and help also in the water-offerings; that is, thos
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/026_pRthak_pRthag.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+026	For Kshatriyas those before-mentioned two rites, the Gandharva and the Rakshasa, whether separate or mixed, are permitted by the sacred tradition.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The two forms of marriage mentioned before—i.e., the Gāndharva and the Rākṣasa—have been declared, whether separately or mixed, to be lawful for the Kṣatriya.—(26)
@@ -649,11 +654,6 @@ all,—since it is accompanied by love.’
 **पृथग्** इति । **गान्धर्वराक्षसाख्यौ विवाहौ पूर्वोक्तौ तौ पृथक् पृथक् मिश्रौ वा क्षत्रस्याधर्माव्** इति पूर्वं सिद्धम् । **मिश्रौ धर्म्यौ यस्य तौ स्मृतौ **इत्य् अनेनोच्यते । तत्रेतरेतरानुरागपूर्वं यदा कन्या वरेणात्मानं संविदा युद्धादिनापहारयति तदा गान्धर्वराक्षसौ मिश्रौ भवतः ॥ ३.२६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-026	For Kshatriyas those before-mentioned two rites, the Gandharva and the Rakshasa, whether separate or mixed, are permitted by the sacred tradition.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पुनः क्षत्रियस्य गन्धर्वराक्षसाव् उच्येते । तयोः **पृथग् वा** समस्त्योर् वा क्षत्रियस्य प्रवृत्तिर् यथा स्याद् इति राक्षसस्य चोक्तस्याप्य् एकाकिनो गान्धर्वविधित्सया पुनर् विधानम् । तत्र कल्पना । षट् चत्वारो वा ब्राह्मणस्य । चत्वारस् त्रयो द्वाव् एक इति वैश्यशूद्रयोः । त्रयस् त्रय एको वाथ् चतुर्थकल्पेषु क्षत्रियस्य । राक्षसाम्नाने को विशेषः । चतुर्थावस्थितस्य चतुरः करोति राक्षसे प्रवृत्तिस् तथेतरेष्व् अपि कल्पेषु द्रष्टव्यम् [४ अक्ष् लचुल] स्यानेन प्रपञ्चेन सर्वत्रार्थकल्पना योज्या । सर्वत्रापापविषयता (?) ज्यायस्यम् । यथा **पृथक् पृथग् वा मिश्रौ** **वा**न्याभ्यां सह, न तु गान्धर्वराक्षसयोः समुच्चितयोः **मिश्र**शब्देन ग्रहणम् । इदानीं तद्विधिर् अयं प्रदर्श्यते –
@@ -679,6 +679,11 @@ _इदानीं स्वरूपम् एतेषाम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/027_AchChAdya_chA-rchayitvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+027	The gift of a daughter, after decking her (with costly garments) and honouring (her by presents of jewels), to a man learned in the Veda and of good conduct, whom (the father) himself invites, is called the Brahma rite.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When one himself invites a man endowed with learning and character and gives to him his daughter, after having dressed and worshipped (them),—this is called the “Brāhma” form.—(27)
@@ -822,11 +827,6 @@ bridegroom, you give the girl, with proper faith and confidence, after having ad
 
 **आच्छाद्य चार्चयैत्वेति **। वासोविशेषैः कन्याम् **आच्छाद्या**लङ्कारादिभिश् **चार्हयित्वा श्रुता**चारवन्तं वरं याच्ञारहितं **स्वयम्** आनीय यत् तस्मै **कन्यादानं** स **ब्राह्मो** विवाहो मन्वादिभिः **स्मृतः** ॥ ३.२७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-027	The gift of a daughter, after decking her (with costly garments) and honouring (her by presents of jewels), to a man learned in the Veda and of good conduct, whom (the father) himself invites, is called the Brahma rite.
-</details>
 </details>
 </div>
 
@@ -840,6 +840,11 @@ bridegroom, you give the girl, with proper faith and confidence, after having ad
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/028_yajne_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+028	The gift of a daughter who has been decked with ornaments, to a priest who duly officiates at a sacrifice, during the course of its performance, they call the Daiva rite.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 While a sacrifice is being performed, if one gives away his daughter, after having decked her, to the priest who is officiating at it,—this they call the “Daiva” form.—(28).
@@ -916,11 +921,6 @@ the altar, to the bridegroom after having presented to him a pair (of cow and bu
 **यज्ञ** इति । ज्योतिष्टोमादियागे प्रारब्धे अर्थवहर्त्विज प्रचरति यद् **अलङ्कृत्य** कन्यादानं क्रियते तं **दैवं** विवाहं मन्वादय आचक्षते ॥ ३.२८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-028	The gift of a daughter who has been decked with ornaments, to a priest who duly officiates at a sacrifice, during the course of its performance, they call the Daiva rite.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **आच्छाद्येत्य्** एवम् अनुवर्तते सर्वविवाहेषु ।
@@ -938,6 +938,11 @@ the altar, to the bridegroom after having presented to him a pair (of cow and bu
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/029_eka~N_gomithunam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+029	When (the father) gives away his daughter according to the rule, after receiving from the bridegroom, for (the fulfilment of) the sacred law, a cow and a bull or two pairs, that is named the Arsha rite.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘When the maiden is given away in due accordance with rule, after taking, in odedience to law, from the bridegroom, one or two pairs of cow and bull,—this is called the “Ārṣa” form.’—(29).
@@ -1004,11 +1009,6 @@ cow and bull, or of a pair of clothes; but in every case ornaments and dowry sho
 
 **एकम्** इति । गोबलीवर्दम् एकं द्वे वा **वरात् धर्मतः** यागाद्यावशककर्तव्यधर्मनिमित्तं गृहीत्वा यत् कन्याया यथाशास्त्रं **प्रदानं** विधीयते **स आर्षो** विवाह **उच्यते** ॥ ३.२९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-029	When (the father) gives away his daughter according to the rule, after receiving from the bridegroom, for (the fulfilment of) the sacred law, a cow and a bull or two pairs, that is named the Arsha rite.
-</details>
 </details>
 </div>
 
@@ -1022,6 +1022,11 @@ cow and bull, or of a pair of clothes; but in every case ornaments and dowry sho
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/030_sahobhau_charatAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+030	The gift of a daughter (by her father) after he has addressed (the couple) with the text, 'May both of you perform together your duties,' and has shown honour (to the bridegroom), is called in the Smriti the Pragapatya rite.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the Father, having decked them, gives away the daughter with the words, “may you both together perform your duty,” making them also repeat them,—this is called the “Prājāpatya” form.—(30).
@@ -1083,11 +1088,6 @@ given away on the clearly expressed understanding that the couple is to co-opera
 
 **सहेति ।** **सह **युवां **धर्मं **कुरुत इति प्रदानकाले **वाचो**क्त्वा यद् अर्चापूर्वं **कन्यादानं स प्राजापत्यो विधिः स्मृतः **॥ ३.३० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-030	The gift of a daughter (by her father) after he has addressed (the couple) with the text, 'May both of you perform together your duties,' and has shown honour (to the bridegroom), is called in the Smriti the Pragapatya rite.
-</details>
 </details>
 </div>
 
@@ -1101,6 +1101,11 @@ given away on the clearly expressed understanding that the couple is to co-opera
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/031_jnAtibhyo_draviNam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+031	When (the bridegroom) receives a maiden, after having given as much wealth as he can afford, to the kinsmen and to the bride herself, according to his own will, that is called the Asura rite.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When one carries away the maiden, after having given, of his own will, as much wealth as the (he?) can to the kinsmen, as well as to the bride herself, this is called the “Āsura” form.—(31).
@@ -1171,11 +1176,6 @@ by other people, of hypocrisy and deceit,—it is the Āsura form.’
 
 **ज्ञातिभ्य** इति । **कन्यायै **कन्या**ज्ञातिभ्यः **यथाशक्ति धनं **दत्वा **यत् **कन्यायाश् चाप्रदानं** आदानं स्वीकारं स्वेच्छातो नार्षवद् धनजातिपरिमाणानियमेन **आसुरो **विवाह **उच्यते **॥ ३.३१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-031	When (the bridegroom) receives a maiden, after having given as much wealth as he can afford, to the kinsmen and to the bride herself, according to his own will, that is called the Asura rite.
-</details>
 </details>
 </div>
 
@@ -1189,6 +1189,11 @@ by other people, of hypocrisy and deceit,—it is the Āsura form.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/032_ichChayAnyonyasaMyogaH_kanyAyAsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+032	The voluntary union of a maiden and her lover one must know (to be) the Gandharva rite, which springs from desire and has sexual intercourse for its purpose.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The mutual union of the bride and bridegroom, through love is to be known as the “Gāndharva” form; it has sexual intercourse for its end and it has its source in lust.—(32).
@@ -1260,11 +1265,6 @@ it is Gāndharva.’
 
 इति बह्वृचगृह्यपरिशिष्टदर्शनात् । भारतादौ च मुख्योपगमनवत् । एवं च “पाणिग्रहणका मन्त्राः” इत्यादि नरान्तरोपभुक्तकन्याविषये ऽवतिष्ठते, “पुनर् वैवाहिको विधिः कर्तव्यः” इत्यादिवचनात् गमनोत्तरकालम् अकृतसंस्कारा द्विजातीनां भार्या न भवति, शूद्रस्य भवत्य् एव, “त्रिभिर् वर्णैः” इत्य् उपादानात् तथाविधस्य पुत्रस्य रिक्थभाग् (-भाग्क्त्व-) दर्शनात् ॥ ३.३२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-032	The voluntary union of a maiden and her lover one must know (to be) the Gandharva rite, which springs from desire and has sexual intercourse for its purpose.
-</details>
 </details>
 </div>
 
@@ -1278,6 +1278,11 @@ it is Gāndharva.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/033_hatvA_ChittvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+033	The forcible abduction of a maiden from her home, while she cries out and weeps, after (her kinsmen) have been slain or wounded and (their houses) broken open, is called the Rakshasa rite.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The forcible abduction of the maiden from her home, while she is crying out and weeping, after having beaten and wounded and pierced,—is called the “Rākṣasa” form.—(33).
@@ -1357,11 +1362,6 @@ force, it is Rākṣasa, the seventh form of marriage, based upon bravery.’
 
 **हत्वेति** । **हत्वा **कन्यापर्क्षीयान् प्रमाथ्य **छित्त्वा **अप्रमाथ्य अङ्गच्छेदादीन् कृत्वा **भित्त्वा **प्राकारादीन् “हा मातः हा पितः अनाथा अपह्रिये” इत्य् एवम् आह्वयन्तीम् अश्रुजलाविलनयनां यः कन्यां **गृहाद् आहरति **तद् अपि भूयः **कन्याहरणं राक्षसो **विवाहः ॥ ३.३३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-033	The forcible abduction of a maiden from her home, while she cries out and weeps, after (her kinsmen) have been slain or wounded and (their houses) broken open, is called the Rakshasa rite.
-</details>
 </details>
 </div>
 
@@ -1375,6 +1375,11 @@ force, it is Rākṣasa, the seventh form of marriage, based upon bravery.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/034_suptAm_mattAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+034	When (a man) by stealth seduces a girl who is sleeping, intoxicated, or disordered in intellect, that is the eighth, the most base and sinful rite of the Pisakas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the man approaches the girl by stealth, while she is asleep, or intoxicated or unconscious,—it is the “Paiśāca” form, the wickedest and the basest of marriages.—(34).
@@ -1542,11 +1547,6 @@ the girl is won by the employment of women, drinks, wine, and presents.’
 **सुप्ताम् **इति । **सुप्तां **निद्रोपेतां **क्षीबां** शीलरक्षणानिबर्हणां निर्जने प्रदेशे यस्मिन् विवाहे उपगच्छति स पापहेतुः **विवाहानां** मध्ये **पैशाचो** ऽष्टमः ख्यातः ॥ ३.३४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-034	When (a man) by stealth seduces a girl who is sleeping, intoxicated, or disordered in intellect, that is the eighth, the most base and sinful rite of the Pisakas.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अत्रोपगमनशब्दो यदि मुख्यार्थस् ततः संस्कारपरिलोपः । यतः क्षतयोन्याः पाणिग्रहणसंस्कारो नास्ति । वक्ष्यति हि }
@@ -1569,6 +1569,11 @@ the girl is won by the employment of women, drinks, wine, and presents.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/035_adbhir_eva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+035	The gift of daughters among Brahmanas is most approved, (if it is preceded) by (a libation of) water; but in the case of other castes (it may be performed) by (the expression of) mutual consent.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘For the chief of twice-born men the giving away of one’s daughter with water alone is commended; but for the other castes it is with mutual desire.’—(35)
@@ -1631,11 +1636,6 @@ This verse is quoted in *Smṛtitattva* (II, p. 138), where it is explained as m
 **अद्भिर् एव द्विजातीनां कन्यादानं प्रशस्यते **इति ब्राह्मणानां उदकदानपूर्वम् एव कन्यादानं प्रशस्तम् इत्य् उच्यते । क्षत्रियादीनां पुनः परस्परेच्छया विनाप्य् उदकं वाङ्मात्रेणापि दानम् इष्यते ॥ ३.३५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-035	The gift of daughters among Brahmanas is most approved, (if it is preceded) by (a libation of) water; but in the case of other castes (it may be performed) by (the expression of) mutual consent.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं च प्राग् विवाहात् स्त्रीवाग्दानं सोदकं ब्राह्मणानाम् । इतरेषां निरुदकम् । तथा च वक्ष्यति "यस्या म्रियेत कन्याया वाचा सत्ये कृते पतिः" (म्ध् ९.६९) इति ।
@@ -1652,6 +1652,11 @@ This verse is quoted in *Smṛtitattva* (II, p. 138), where it is explained as m
 </details>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/036_yo_yasyaiShAm.md">
+<details><summary>Bühler</summary>
+
+036	Listen now to me, ye Brahmanas, while I fully declare what quality has been ascribed by Manu to each of these marriage-rites.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The quality that has been ascribed by Manu to each of these forms of marriage—listen to all that, O Brāhmaṇas, from me, as I proceed to describe them correctly.—(36)
@@ -1693,11 +1698,6 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 862);—and in
 **य** इति । **एषां** विवाहादीनां मध्यात् यस्य विवाहस्य यत् फलं मनुना कथितं तत् सर्वं **मम **यथावत् कथयतो **विप्राः शृणुत** ॥ ३.३६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-036	Listen now to me, ye Brahmanas, while I fully declare what quality has been ascribed by Manu to each of these marriage-rites.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विवाहार्थवादोपन्यासार्थः श्लोकः ।
@@ -1713,6 +1713,11 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 862);—and in
 </details>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/037_dasha_pUrvAn.md">
+<details><summary>Bühler</summary>
+
+037	The son of a wife wedded according to the Brahma rite, if he performs meritorious acts, liberates from sin ten ancestors, ten descendants and himself as the twenty-first.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The son born of the wife married by the Brāhma form is a performer of righteous acts, absolves from sins ten Pitṛs on the ascending side and ten on the descending side of his family, as also himself as the twenty-first.—(37)
@@ -1775,11 +1780,6 @@ away in the Brāhma form of marriage, the son born of her purifies twelve past a
 **दश पूर्वान् परान् **इति ब्राह्मविवाहोढ**पुत्रः** यदि **सुकृतकृद्** भवति तदा **दश् पूर्वान् **पित्रादीन् अन्वयिनो मृतान् **दश् चापरान् **पुत्रादीन् **आत्मानं चैकविंशकं** पापान् मोचयति । न चाकृताभ्याम् अकृतविप्रणाशाव् अत्र नोदनीयौ । श्राद्धादिवत् वचनगम्यत्वाद् अमुष्यार्थस्य पुत्रादीनां चापापाचाराणाम् उत्पत्तिमात्रेणैवैषां विमोक्षस् तदानीम् अनुत्पन्नत्वात् ॥ ३.३७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-037	The son of a wife wedded according to the Brahma rite, if he performs meritorious acts, liberates from sin ten ancestors, ten descendants and himself as the twenty-first.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **सुकृतकृद्** अत्र जातो **मोचयत्य् एनसः पितॄन्** । पूर्वापरान् । कथं पुनर् उत्पन्नान् सतः मोचयति यथैवातीतान् । सर्वथा मोचयतु मा वा मूमुचत् । ब्राह्मीपुत्रस्य प्रशंसैषोच्यते । अन्यथा हि यथाश्रुतग्राहिणो ऽकृताभ्यागमकृतविप्रणाशौ वेदस्मृतिशास्त्रविरोधिनौ प्रसज्येयाताम् ।
@@ -1804,6 +1804,11 @@ away in the Brāhma form of marriage, the son born of her purifies twelve past a
 </details>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/038_daivoDhAjaH_sutash.md">
+<details><summary>Bühler</summary>
+
+038	The son born of a wife, wedded according to the Daiva rite, likewise (saves) seven ancestors and seven descendants, the son of a wife married by the Arsha rite three (in the ascending and descending lines), and the son of a wife married by the rite of Ka (Pragapati) six (in either line).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The son born of the wife married by the Daiva form (absolves from sin) seven ancestors and seven des cendants; the son born of the wife married by the Ārṣa form three of each; and the son born of the wife married by the Prājāpatya form six of each.—(38)
@@ -1870,11 +1875,6 @@ purifies seven generations below and seven above, and also oneself; the Ārṣa-
 
 **दैवोढाज **इति । दैवविवाहोत्पन्नः पुत्रः **सप्त परान् **पित्रादीन् **सप्त अवरान्** पुत्रादीन् पापान् मोचयति । आर्षविवाहोत्पन्नश् च **त्रीन् **पुत्रादीन् **त्रींश् **च पुत्रादीन् । तथा प्राजापत्यविवाहोढाजोत्पन्नश् च **षट् **पुत्रादीन् **षट्** पित्रादींश् च ॥ ३.३८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-038	The son born of a wife, wedded according to the Daiva rite, likewise (saves) seven ancestors and seven descendants, the son of a wife married by the Arsha rite three (in the ascending and descending lines), and the son of a wife married by the rite of Ka (Pragapati) six (in either line).
-</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1894,6 +1894,11 @@ purifies seven generations below and seven above, and also oneself; the Ārṣa-
 </details>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/039_brAhmAdiShu_vivAheShu.md">
+<details><summary>Bühler</summary>
+
+039	From the four marriages, (enumerated) successively, which begin with the Brahma rite spring sons, radiant with knowledge of the Veda and honoured by the Sishtas (good men).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Only from the four marriages mentioned successively, beginning with the Brāhma, are born sons endowed with Brahmic glory and respected by cultured persons.—(39)
@@ -1967,11 +1972,6 @@ marrying of a girl by the right form is double in the case of her being given to
 
 **ब्राह्मादिष्व्** इति । **रूपसत्त्वगुणोपेता** इति । **ब्राह्मादिषु विवाहेषु चतुर्षु** क्रमावस्थितेषु अध्ययनादिसम्पत्तेजोयुक्ताः साधुप्रियालावण्येन द्वादशाध्यायवक्ष्यमाणलक्षणेन सत्त्वेन दयादिभिः श्रीगुणैर् युक्ताः धनिनः ख्यातिमन्तः सम्पन्नस्रगनुलेपनादि-भोगानुष्ठातारः पुत्रा जायन्ते शतं वर्षाणां जीवन्ति ॥ ३.३९–४० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-039	From the four marriages, (enumerated) successively, which begin with the Brahma rite spring sons, radiant with knowledge of the Veda and honoured by the Sishtas (good men).
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३.४० रूपसत्त्वगुणोपेता</summary>
@@ -1983,6 +1983,11 @@ marrying of a girl by the right form is double in the case of her being given to
 </details>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/040_rUpa-sattva-guNopetA_dhanavanto.md">
+<details><summary>Bühler</summary>
+
+040	Endowded with the qualities of beauty and goodness, possessing wealth and fame, obtaining as many enjoyments as they desire and being most righteous, they will live a hundred years.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Endowed with beauty and the quality of goodness, possessing wealth, and fame, with full enjoyment and righteous, they live for a hundred years.—(40)
@@ -2036,11 +2041,6 @@ See Comparative notes for [Verse 3.39].
 रूपं मनोहराऽऽकृतिः, सत्त्वं द्वादशाध्याये वक्ष्यमाणं, गुणा दयादयः, तैर्युक्ता धनितः ख्यातिमन्तो यथेप्सितवस्त्रस्त्रग्गन्धलेपनादिभोगशालिनो धार्मिकाश्च पुत्रा जायन्त इति पूर्वमनुवर्तते । शतं च वर्षाणि जीवन्ति ॥४०॥
 </details>
 
-<details><summary>Bühler</summary>
-
-040	Endowded with the qualities of beauty and goodness, possessing wealth and fame, obtaining as many enjoyments as they desire and being most righteous, they will live a hundred years.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पदार्थस्वाभाव्यम् एतद् विवाहस्तुतये ऽनूद्यते तच् च शास्त्रं प्रत्यक्षं धर्म्याधर्म्यव्यवस्थाम् अनुवदतो नातिशङ्क्यम् ।
@@ -2056,6 +2056,11 @@ See Comparative notes for [Verse 3.39].
 </details>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/041_itareShu_tu.md">
+<details><summary>Bühler</summary>
+
+041	But from the remaining (four) blamable marriages spring sons who are cruel and speakers of untruth, who hate the Veda and the sacred law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From the other remaining inferior marriages are born sons, addicted to saying harsh and untrue words, and despisers of the Vedic Dharma.—(41)
@@ -2102,11 +2107,6 @@ See Comparative notes for [Verse 3.39].
 **इतरेष्व्** इति । ब्राह्मादिभ्यश् चतुर्भ्यो ऽन्येषु आसुरादिषु दुष्ट**विवाहेषु** क्रूरकर्माणो ऽ**नृतवादिनो **वेदयागादिद्वेषिणश् च **सुता जायन्ते **॥ ३.४१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-041	But from the remaining (four) blamable marriages spring sons who are cruel and speakers of untruth, who hate the Veda and the sacred law.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **ब्रह्मद्विषो** वेदाध्ययनद्विषः ब्राह्मणद्विषो वा ब्रह्मब्राह्मणयोर् एकार्थत्वात् । **धर्मस्** तु विहितार्थानुष्ठानदिषः ब्राह्मादिषु स्तुत्यपेक्षम् इदम् औपरिष्टेषु विवाहेषु निन्दावचनम् । इतरथा हि क्षत्रियादिधर्मापेक्षया तद्विधानम् अनर्थकं स्याद् आसुरगान्धर्वयोस् तु ब्राह्मणस्य विकल्पः । उभयशास्त्रानुग्रहाय क्षत्रादीनां च विवाहप्रशंसैषा । एवम् एव शास्त्रचोदना सामर्याद् विज्ञेया । यतश् चैतद् एवम् अतः –
@@ -2122,6 +2122,11 @@ See Comparative notes for [Verse 3.39].
 </details>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/042_aninditaiH_strIvivAhair.md">
+<details><summary>Bühler</summary>
+
+042	In the blameless marriages blameless children are born to men, in blamable (marriages) blamable (offspring); one should therefore avoid the blamable (forms of marriage).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From unblamable marriages unblamable offspring is born to men; and from blameworthy marriages blameworthy child. One should therefore avoid the blamable marriages.—(42)
@@ -2167,11 +2172,6 @@ See Comparative notes for [Verse 3.39].
 **अनिन्दितैर्** इति । अगर्हितैः भार्याप्राप्तिहेतुभिः विवाहैः अगर्हितानि मनुष्याणाम् अपत्यानि भवन्ति । गर्हितैश् च गर्हितानि भवन्ति । **तस्मात् **गर्ह्यान्** विवर्जयेत्** न कुर्यात् ॥ ३.४२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-042	In the blameless marriages blameless children are born to men, in blamable (marriages) blamable (offspring); one should therefore avoid the blamable (forms of marriage).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विहितस्तुतिपरम् एतत् सर्ववर्णानाम् । इदानीम् अधिकारशास्त्रं प्रैषिध्यते ।
@@ -2193,6 +2193,11 @@ See Comparative notes for [Verse 3.39].
 </details>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/043_pANigrahaNasaMskAraH_sa-varNAsUpadishyate.md">
+<details><summary>Bühler</summary>
+
+043	The ceremony of joining the hands is prescribed for (marriages with) women of equal caste (varna); know that the following rule (applies) to weddings with females of a different caste (varna).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of girls of the same caste (as the bridegroom) the sacramental rite of “taking the hand” has been prescribed; and in that of the marriage of girls of different castes, this (following) should be known as the right procedure.—(43)
@@ -2237,11 +2242,6 @@ bridegroom, the hand is to be held.’
 
 **पाणिग्रहणसंस्कार** इति । हस्तग्रहणात्मकसंस्कारः गृह्योक्तः समानजातिषु गृह्यमाणासु शास्त्रेणोच्यते असजातिषु पुनः उह्यमानासु विवाहकर्मणि अयं वक्ष्यमाणो विधिः पाणिग्रहणस्थाने विज्ञेयः ॥ ३.४३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-043	The ceremony of joining the hands is prescribed for (marriages with) women of equal caste (varna); know that the following rule (applies) to weddings with females of a different caste (varna).
-</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ३.४४ शरः क्षत्रियया</summary>
@@ -2253,6 +2253,11 @@ bridegroom, the hand is to be held.’
 </details>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/044_sharaH_xatriyayA.md">
+<details><summary>Bühler</summary>
+
+044	On marrying a man of a higher caste a Kshatriya bride must take hold of an arrow, a Vaisya bride of a goad, and a Sudra female of the hem of the (bridegroom's) garment.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When being married to a man of higher caste, the Kṣatriya girl should take hold of the arrow, the Vaiśya girl of the goad and the Śūdra girl of the hem of the garment.—(44)
@@ -2303,11 +2308,6 @@ hand including the thumb; the Kṣatriya girl should hold an arrow, the Vaiśya 
 <details><summary>गोविन्दराजः</summary>
 
 **शर** इति । **क्षरियया **पाणिग्रहणस्थाने ब्राह्मणपाणिगृहीतशरप्रान्तो ब्राह्मणोद्वाहे **ग्राह्यः । वैश्यया** च ब्राह्मण[क्षत्रिय]पाणिपरिगृहीतदात्रादितोदनमयःप्रान्तं ब्राह्मणक्षत्रियोद्वाहे **ग्राह्यम् । शूद्रया **पुनर् द्विजात्युद्वाहे तत्तत्प्रावृतवस्त्रदशा ग्राह्याः ॥ ३.४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-044	On marrying a man of a higher caste a Kshatriya bride must take hold of an arrow, a Vaisya bride of a goad, and a Sudra female of the hem of the (bridegroom's) garment.
 </details>
 
 <details><summary>भारुचिः</summary>

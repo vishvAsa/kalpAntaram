@@ -12,6 +12,11 @@ title = "०६ इन्द्रियनिग्रहः"
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/088_indriyANAM_vicharatAm.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+088	A wise man should strive to restrain his organs which run wild among alluring sensual objects, like a charioteer his horses.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wise man should put forth an effort to restrain his organs roaming among alluring objects; just as the driver restrains the horses.—(88)
@@ -82,11 +87,6 @@ roaming sense-organs, it deprives him of his wisdom; just as the storm destroys 
 **इन्द्रियाणाम्** इति । **इन्द्रियाणां** चक्षुरादीनां **विषयेषु **रूपादिषु **अपहारिषु **च उपभोगार्थम् आकर्षनशीलेषु यथेच्छं प्रवर्तमानानां नियमने प्रयत्नं कुर्यात्, यथा शिक्षितः सारथिः रथ्यारब्धानाम् अश्वानां नियमने यत्नं करोति ॥ २.८८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-088	A wise man should strive to restrain his organs which run wild among alluring sensual objects, like a charioteer his horses.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सर्वेन्द्रियसाम्यम् अभिधानार्थः । तस्यायम् अर्थवादः श्लोकः । **इन्द्रियाणां** चायम् अप्रकरणम् अपि सङ्ख्यास्वरूपनिर्देशस् तज्जयोपायप्रदर्शनार्थः प्रक्रियते ।
@@ -104,6 +104,11 @@ roaming sense-organs, it deprives him of his wisdom; just as the storm destroys 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/089_ekAdashendriyANy_Ahur.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+089	Those eleven organs which former sages have named, I will properly (and) precisely enumerate in due order,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those eleven organs which the ancient sages have named I shall now fully describe in due order.—(89)
@@ -171,11 +176,6 @@ engendered.
 **एकादशेति **। यानि पूर्वे मन्वादयो विद्वांसः **इन्द्रियाण्य् **उक्तवन्तः **तानि यथावत् **कार्त्स्न्येन्**आनुपूर्वशः **कर्मेण **सम्यङ्** यथारूपं बुद्ध्यथ तथा **वक्ष्यामि **॥ २.८९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-089	Those eleven organs which former sages have named, I will properly (and) precisely enumerate in due order,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उक्तसङ्ख्यानां चायं स्वरूपनिर्दर्शः ।
@@ -193,6 +193,11 @@ engendered.
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/090_shrotran_tvak.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+090	(Viz.) the ear, the skin, the eyes, the tongue, and the nose as the fifth, the anus, the organ of generation, hands and feet, and the (organ of) speech, named as the tenth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (They are) the Ear, the Skin, the Eyes, the Tongue and the Nose as the fifth; the Anus, the Generative Organ, the Hands and Feet, and Speech described as the tenth.—(90)
@@ -248,11 +253,6 @@ See Comparative notes for [Verse 2.89].
 तानि च **श्रोत्रम्** इति । **त्वक् **चर्म तात्स्थ्यात् । अत्र स्पर्शनेन्द्रियं **त्वक्** उच्यते । **चक्षुषी **इति अधिष्ठानभेदात् द्विवचनम् । **श्रोत्रा**दौ च तदादारशक्त्यैक्यालम्बनम् एकवचनम् । **पायुः** अपानम् **उपस्थः** लिङ्गम् । **वाक्** शब्दाभिव्यञ्जकशरीरैकदेशः ॥ २.९० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-090	(Viz.) the ear, the skin, the eyes, the tongue, and the nose as the fifth, the anus, the organ of generation, hands and feet, and the (organ of) speech, named as the tenth.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 कार्यभेदाच् च पुनस् तेषाम् अयं वर्गद्वयप्रविभागः शिष्यते ।
@@ -270,6 +270,11 @@ See Comparative notes for [Verse 2.89].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/091_buddhIndriyANi_panchaiShAm.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+091	Five of them, the ear and the rest according to their order, they call organs of sense, and five of them, the anus and the rest, organs of action.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of these the five beginning with the Ear in due order they call “Organs of Sensation’; and five of these, beginning with the Anus, “Organs of Action.”—(91)
@@ -317,11 +322,6 @@ See Comparative notes for [Verse 2.89].
 **बुद्धीन्द्र्याणीति** । **एषां **मध्यात् **श्रोत्रा**दीनि क्रमेन **पञ्च** बुद्धेः शब्दादिविषयविज्ञानस्य जनकानि, **पण्च पाय्वा**दीनि विसर्गादिकर्मार्थानि मन्वादयः कथयन्तीति कार्यभेदात् वर्गद्वयविभागः ॥ २.९१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-091	Five of them, the ear and the rest according to their order, they call organs of sense, and five of them, the anus and the rest, organs of action.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सर्वविषयं चैषाम् ।
@@ -339,6 +339,11 @@ See Comparative notes for [Verse 2.89].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/092_ekAdasham_mano.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+092	Know that the internal organ (manas) is the eleventh, which by its quality belongs to both (sets); when that has been subdued, both those sets of five have been conquered.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Mind is to be regarded as the eleventh, which, by its own quality, is of two-fold nature; and on this being subdued, both the aforesaid five-mentioned groups become subdued.—(92)
@@ -386,11 +391,6 @@ See Comparative notes for [Verse 2.89].
 **एकादशम्** इति । **मनः स्वगुणेन** सङ्कल्पाख्येन शुभाशुभस्वभावेन्**ओभरूपम्** अत्र्**ऐकादशं विज्ञेयम् । यस्मिन्** वशीकृते स्ति **एतौ **पञ्चपरिमाणौ वर्गौ वशीकृतौ **हवतः **मनोव्यापारमूलत्वाद् इन्द्रियप्रवृत्तेः ॥ २.९२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-092	Know that the internal organ (manas) is the eleventh, which by its quality belongs to both (sets); when that has been subdued, both those sets of five have been conquered.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 स्वगणो मनसः सङ्कल्पः । केन्**ओभयात्मकम्** । शुभाशुभसङ्कल्पस्य इन्द्रियप्रवृत्तिहेतोः कारणम्, अथ च, इन्द्रियप्रवृत्तिहेतोः सङ्कल्पद्वयस्य कारणम् **उभयात्मकम्** । एवं कृत्वेदम् आदरार्थम् उच्यते । **यस्मिन् जिते जिताव् एतौ भवतः पञ्चकौ गणौ** । इन्द्रियाणां संयमप्रयोजनम् उदितम् । अधुनार्थवादार्थम् उच्यते । तद् उभयथा यस्मात्,
@@ -416,6 +416,11 @@ See Comparative notes for [Verse 2.89].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/093_indriyANAm_prasangena.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+093	Through the attachment of his organs (to sensual pleasure) a man doubtlessly will incur guilt; but if he keep them under complete control, he will obtain success (in gaining all his aims).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By attachment to the organs one incurs evil, without doubt; while by subjugating those same he attains success.—(93)
@@ -487,11 +492,6 @@ his teeth; but longing for life and longing for wealth never fade, even while th
 अधुना इन्द्रियसंयमप्रयोजनम् आह **इन्द्र्याणाम्** इति । **इन्द्रियाणां **विषयासक्त्या दृष्टादृष्टदोषं निश्चितं पुरुषः प्राप्नोति । **तान्य् एव संयम्य** पुनः दृष्टादृष्टार्थ**सिद्धिं **निश्चयेन प्राप्नोति ॥ २.९३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-093	Through the attachment of his organs (to sensual pleasure) a man doubtlessly will incur guilt; but if he keep them under complete control, he will obtain success (in gaining all his aims).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 कस्मात् । अतिमहाप्रयोजनत्वाद् आदरणीय इन्द्रियसंयमः । कस्माद् । तेषां क्षुध एव प्रतीकारेण विषयोपभोगाख्याने (-स्वादे?) निवृत्तिर् नेष्यते, कर्मानुष्ठानसामार्थ्यार्थम् इति यस्मात् ।
@@ -509,6 +509,11 @@ his teeth; but longing for life and longing for wealth never fade, even while th
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/094_na_jAtu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+094	Desire is never extinguished by the enjoyment of desired objects; it only grows stronger like a fire (fed) with clarified butter.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Never is desire appeased by the enjoyment of desires; it only waxes stronger, like fire by clarified butter.—(94)
@@ -561,11 +566,6 @@ See Comparative notes for [Verse 2.93].
 अथोपभोगतृष्णया किम् इन्द्रियाणां विषयनिवृत्तिर् नोच्यते, किं सक्तिनिषेधेनोच्यते इत्य् अत आह **न जात्व्** इति । न कदाचिद् अभिलाषः काम्यमानानाम् अर्थानाम् **उपसेवनेन निवर्तते **। प्रत्य् उत आज्यादिनाग्निर् इवाधिकतरं वृद्धिम् एति ॥ २.९४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-094	Desire is never extinguished by the enjoyment of desired objects; it only grows stronger like a fire (fed) with clarified butter.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इदं चान्यत् प्रसङ्ख्यानं पूर्वविशेषरू (१ अक्ष् lacuna) तम् ।
@@ -583,6 +583,11 @@ See Comparative notes for [Verse 2.93].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/095_yash_chaitAn.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+095	If one man should obtain all those (sensual enjoyments) and another should renounce them all, the renunciation of all pleasure is far better than the attainment of them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As between one who would attain all these, and another who would renounce them all, the renunciation of desires surf asses the attainment of
@@ -641,11 +646,6 @@ See Comparative notes for [Verse 2.93].
 एवं च **य** इति । **यः **कामान् सकलान् सेवेत **यो **वा **केवलान्** अनुपभुक्त्वैव **त्यजेत्** तयोः सर्वकामोपभोगाद् अपि **परित्यागो विशिष्यते **। यस्माद् उपभुक्तपूर्वेष्व् अपि असति चित्तसंयमे पुनर् उपभोगेच्छा जायते । तदसम्पत्तौ चावश्यम्भावि दुःखम्, तस्मान् मूलत एव तृष्णात्यागो वरः ॥ २.९५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-095	If one man should obtain all those (sensual enjoyments) and another should renounce them all, the renunciation of all pleasure is far better than the attainment of them.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तस्माद् एवं शमसुखधर्मार्थी प्रसङ्ख्यानपरः स्यात् । विषयासन्निधानेनैव सङ्गलक्षणेन संयमोपदेशे ऽर्थसिद्धिः । एवं च किं प्रसङ्ख्यानेन कदर्थेनेति, यत इदम् आरभ्यते ।
@@ -663,6 +663,11 @@ See Comparative notes for [Verse 2.93].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/096_na_tathaitAni.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+096	Those (organs) which are strongly attached to sensual pleasures, cannot so effectually be restrained by abstinence (from enjoyments) as by a constant (pursuit of true) knowledge.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These (organs), being contaminated with objects, are not capable of being subjugated by mere abstinence, as they are by ever present knowledge.—(90)
@@ -739,11 +744,6 @@ is disgusted with birth, with death and with mental and physical ailments. The i
 एवं तर्हि विषयशून्यदेहावस्थानमात्र उपाय इत्य् अत आह **नेति **। **एतानी**न्दिर्याणि विषयासक्त्या प्रक्ष्टदोषजनकानि **न तथा** रूपादिविषयानुपभोगेन **सम्यक् नियन्तुं शक्यन्ते यथा** विषयगतदोषभावना**विज्ञानेन **नित्यकालं नियन्तुं पार्यते ॥ २.९६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-096	Those (organs) which are strongly attached to sensual pleasures, cannot so effectually be restrained by abstinence (from enjoyments) as by a constant (pursuit of true) knowledge.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यथोपदेशप्रसङ्ख्यानेनेत्य् अधिकृतप्रसङ्ख्यानस्तुतिः । तथा चार्थवत् प्रसङ्ख्यानम् अनया स्तुत्या गम्यते एवं च सतीन्द्रियसंयमोपदेशसहकारेण प्रसङ्ख्यानोपदेशस्याप्य् अर्थवत्त्वं विज्ञेयम् । **[६८]** कस्मात् पुनर् अत्रेवम् अतिमहान् प्रयत्नः क्रियते, यस्मान् न केवलम् इन्द्रियसंयमः साक्षाद् अदृष्टप्रयोजनं शास्त्रसामर्थ्याद् भवति । किं तर्हि । विहितकर्मानुष्ठानसमाधिप्रणाडिकया च पुरुषार्थकारी । तथा चैतद् दर्शयति ।
@@ -761,6 +761,11 @@ is disgusted with birth, with death and with mental and physical ailments. The i
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/097_vedAs_tyAgash.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+097	Neither (the study of) the Vedas, nor liberality, nor sacrifices, nor any (self-imposed) restraint, nor austerities, ever procure the attainment (of rewards) to a man whose heart is contaminated (by sensuality).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Vedas, Renunciation, Sacrifices, Restraints and Austerities never attain fulfilment for one whose disposition is vitiated.—(97)
@@ -822,11 +827,6 @@ not wicked—there is Upanayana, Vedic Study, Fire-laying and other acts leading
 observances;—transgression thereof leads to the trickling away of Knowledge and Religious Acts.’
 </details>
 
-<details><summary>Bühler</summary>
-
-097	Neither (the study of) the Vedas, nor liberality, nor sacrifices, nor any (self-imposed) restraint, nor austerities, ever procure the attainment (of rewards) to a man whose heart is contaminated (by sensuality).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 असमाधिग्रस्तव्येति यतस् तत्समाध्यर्थम् इदम् आदरणीयम् इति च । संयमः स्वार्थं चेति (??) । इन्द्रियम् अधुना प्ररूपयति ।
@@ -852,6 +852,11 @@ observances;—transgression thereof leads to the trickling away of Knowledge an
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/098_shrutvA_spRShTvA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+098	That man may be considered to have (really) subdued his organs, who on hearing and touching and seeing, on tasting and smelling (anything) neither rejoices nor repines.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That man is to be known as having subjugated his sense-organs, who, on having heard, or touched, or seen, or tasted, or smelt, anything, neither rejoices nor grieves.—(98)
@@ -927,11 +932,6 @@ nor should he become ruffled on coming by unhappiness; he whose mind is firm, ne
 **श्रुत्वेति** । यश् श्रोत्रत्वक्चक्षुर्नासिकेनेष्टान् शब्दस्पर्शरसरूपगन्धान् उपलभ्य न हर्षम् उपैति, कुत्सितांश् चोपलभ्य न ग्लानिम् एति, **स जितेन्द्रियो **बोद्धव्यः ॥ २.९८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-098	That man may be considered to have (really) subdued his organs, who on hearing and touching and seeing, on tasting and smelling (anything) neither rejoices nor repines.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तत्संयमपदार्थप्ररूपणं सर्वेन्द्रियं छवार्थं (?) विज्ञेयम् । न प्रसिद्धेन्द्रियविषयमात्रम् एवेति । तथा च कृत्वेदम् उच्यते ।
@@ -957,6 +957,11 @@ _<u>ननु</u> च ब्रह्मचारिणा स्त्रीस
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/099_indriyANAn_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+099	But when one among all the organs slips away (from control), thereby (man's) wisdom slips away from him, even as the water (flows) through the one (open) foot of a (water-carrier's) skin.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From among all the organs, if one happens to ooze out, then thereby his wisdom oozes out, just like water from one part of the leathern bag.—(99)
@@ -1001,11 +1006,6 @@ roaming senses, it deprives him of his wisdom, and it is lost like the boat at s
 सकलेन्द्रियविषयस्य संयमे यत्नः कार्यः यस्मात् **इन्द्रियाणाम्** इति । **इन्द्रियाणां** मध्यात् यदि पुनः **एकम् अपीन्द्रियं** यथेच्छं स्वविषये प्रवर्तते तदा स्वेन्द्रियान्तरसंयमविज्ञानम् अपि नश्यति यथा उदकपरिपूर्णाच् चर्मणः एकपादानावरणात् सर्वम् अम्भो निस्ःसरति ॥ २.९९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-099	But when one among all the organs slips away (from control), thereby (man's) wisdom slips away from him, even as the water (flows) through the one (open) foot of a (water-carrier's) skin.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सर्वेन्द्रियसंयमस्तुत्यर्थो ऽयम् अर्थवादः प्रकरणसामर्थाद् विज्ञेयः । तत्संयमश् चोक्तप्रयोजन उपसंह्रियते । एवम् इन्द्रियसंयमात् प्रतिलब्धसमाधिर् ब्रह्मचारी ।
@@ -1023,6 +1023,11 @@ roaming senses, it deprives him of his wisdom, and it is lost like the boat at s
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/100_vashe_kRtvendriyagrAmam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+100	If he keeps all the (ten) organs as well as the mind in subjection, he may gain all his aims, without reducing his body by (the practice) of Yoga.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having brought the host of organs under control, and having also subdued the mind, one should accomplish all his purposes, taking care not to injure his body.—(100)
@@ -1101,11 +1106,6 @@ Buddhi under control, having his heart fixed upon Liberation, with all his desir
 <details><summary>गोविन्दराजः</summary>
 
 एवम् असञ्जितेन्द्रियस्य मनस्कस्य न वेदादिसिद्धिः तस्मात् **वश** इति । शक्त्या शरीरम् अपीडयन् इन्द्रियसमूहं विजित्य **मनश् च **नियम्य **सर्वान् **वेदाधिगमादीन्** अर्थान्** सम्पादयेत् ॥ २.११० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-100	If he keeps all the (ten) organs as well as the mind in subjection, he may gain all his aims, without reducing his body by (the practice) of Yoga.
 </details>
 
 <details><summary>भारुचिः</summary>

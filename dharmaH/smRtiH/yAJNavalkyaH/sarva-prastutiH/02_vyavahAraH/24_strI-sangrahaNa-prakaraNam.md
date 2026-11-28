@@ -30,6 +30,12 @@ title = "२४ स्त्री-सङ्ग्रहण-प्रकरण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/283_pumAn_sangrahaNe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A man is caught in adultery hair-to-hair with another man's wife,  
+or immediately by marks born of lust, as well as upon confession by both.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुमान् सङ्ग्रहणे ग्राह्यः  
@@ -106,6 +112,12 @@ _राजपत्न्यभिगमनप्रसङ्गात् पर
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/284_nIvIstanaprAvaraNa_sakthikeshAvamarshanam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Touching the knot of the skirt, breasts, upper garment, thighs, or hair,  
+conversing at an improper place and time, and sitting together on a single seat—
+</details>
+
 <details><summary>मूलम्</summary>
 
 नीवी-स्तन-प्रावरण-  
@@ -213,6 +225,12 @@ _अन्यतरानिच्छायां तु पुमान् य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/285_strI_niShedhe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+a woman, when warned, shall pay a fine of one hundred [paṇas], but a man two hundred;  
+if forbidden by both sides, the fine is the same as for adultery.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्त्री निषेधे शतं दद्याद्  
@@ -275,6 +293,12 @@ _प्रतिषिद्धयोर् द्वयोः स्त्र�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/286_sajAtAv_uttamo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the same social class, the highest fine applies; but in direct order of classes, the middling fine;  
+in reverse order of classes, death for the man, and cutting off of the ears and other limbs for the woman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सजाताव् उत्तमो दण्ड  
@@ -412,6 +436,12 @@ _अनुमानकौशलात् प्रयक्षोपलम्भ
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/287_alankRtAM_haran.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Carrying off an adorned maiden [of the same class], he shall pay the highest [fine]; but if unadorned, the lowest  
+fine among women of equal social class; in reverse order of classes, death is prescribed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अलङ्कृतां हरन् कन्याम्  
@@ -469,6 +499,12 @@ _संग्रहणप्रायत्वात् कन्याहरण
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/288_sakAmAsv_anulomAsu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+With willing women in direct order of classes there is no fault, but otherwise there is a fine;  
+but for violating [an unwilling maiden], amputation of the hand; and with a woman of a higher class, death.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स-कामास्व् अनुलोमासु न  
@@ -591,6 +627,12 @@ _कन्यास्व् एव ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/289_shataM_strIdUShaNe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One shall pay one hundred for defaming a woman, but two hundred for a false accusation.  
+Having intercourse with beasts, one is made to pay one hundred; with a degraded woman and a cow, the middling fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शतं स्त्री-दूषणे दद्याद्  
@@ -650,6 +692,12 @@ _दूषयितुर् दण्ड उक्तः । दूष्या
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/290_avaruddhAsu_dAsIsu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+With kept female slaves and maidservants,  
+even if sexually approachable, a man shall be made to pay a fine of fifty paṇas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवरुद्धासु दासीसु  
@@ -755,6 +803,12 @@ _परिग्रहानुसारेणैव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/291_prasahya_dAsyabhigame.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For forcibly having intercourse with a female slave, a fine of ten paṇas is prescribed;  
+if by many men when she is unwilling, twenty-four [paṇas] each.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रसह्य दास्य्-अभिगमे  
@@ -812,6 +866,12 @@ _अदत्त्वैव शुल्कम् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/292_gRhItavetanA_veshyA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A courtesan who has received her fee and is unwilling shall pay double;  
+if the fee has not been received, equal. A man likewise, indeed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृहीत-वेतना वेश्या  
@@ -852,6 +912,12 @@ _अदत्त्वैव शुल्कम् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/293_ayonau_gachChato.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For having intercourse with a woman in an unnatural orifice, or discharging semen upon a man,  
+the fine is twenty-four [paṇas]; likewise for having intercourse with a female renunciant.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अयोनौ गच्छतो योषां  
@@ -906,6 +972,12 @@ _अविशेषेणैव तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/294_antyAbhigamane_tv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upon having intercourse with an outcaste woman, he should be branded with an ignominious mark and banished;  
+a Shudra would become an outcaste himself; for an outcaste having intercourse with an Aryan woman, death.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्त्याभिगमने त्व् अङ्क्यह्[अङ्क्य?]  

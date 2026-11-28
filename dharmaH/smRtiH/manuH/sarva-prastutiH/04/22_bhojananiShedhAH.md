@@ -21,6 +21,11 @@ _पूर्वेण श्लोकेन व्रताधिकारो �
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/205_nA-shrotriya-tate_yajne.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+205	A Brahmana must never eat (a dinner given) at a sacrifice that is offered by one who is not a Srotriya, by one who sacrifices for a multitude of men, by a woman, or by a eunuch.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa shall never eat at a sacrifice performed by one who has not learnt the Veda; or at one performed by a village-priest, or at one offered by a woman or a eunuch.—(205).
@@ -78,11 +83,6 @@ one who serves as the priest of many persons, or by one who initiates many perso
 **नाश्रोत्रियतत** इति । अनधीतवेदेन प्रारब्धे यज्ञे अग्नीषोमीयाद् ऊर्ध्वम् अपि **ब्राह्मणो न भुञ्जीत **। अर्थात् (पुनः) [पूर्वम्] अग्नीषोमीयात् “दीक्षितस्य कदर्यस्य” [४.२१०] इत्य् अनेनैव प्रतिषेधसिद्धेः । सूत्रकारेण अग्नीषोमीयावधिकं दीक्षितस्याभोज्यान्नत्वम् उक्तम् । अतो “दीक्षितस्य कदर्यस्य” इत्य् अयं प्रतिषेधस् तदवधिक एव । सदा बहूनां याजकेन ऋत्विजा **स्त्रिया **वा नपुंसकेन वा यत्र गृहे वैश्वदेवादिहोमः कृतः **न** तत्र कदाचिद् अपि **ब्राःमणो भुञ्जीत** ॥ ४.२०५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-205	A Brahmana must never eat (a dinner given) at a sacrifice that is offered by one who is not a Srotriya, by one who sacrifices for a multitude of men, by a woman, or by a eunuch.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अश्रोत्रियेणा**नधीतवेदेन **तते** प्रारब्धे यज्ञे । कुत एतत् । सामर्थ्यात् । कल्प्यमात्राध्ययनप्राप्ते च सत्य् अयं प्रतिषेधः । **न भुञ्जीत ब्राह्मणः** कदाचिद् इत्य् अभ्युदयश्राद्धे प्य् अत्र वा ग्रामयाजेन बहुयाजेन अश्रोत्रियेणाप्य् आरम्भसामर्थ्याद् विज्ञायते । **स्त्रियेति** च पत्न्या कुमार्या च । <u>केषां केषाञ्चिद् धोम उच्यते । स्त्रीसायम् इति वचनात्</u> (??) । पाकयज्ञेxउ छन्दोगानां यतस् तत् प्रतिषेधार्थम् **[२०१]** इदम् उच्यते । स्त्रिया हुत इति स्त्रीप्राधान्येन च यत्र यज्ञास् त्रायते यजमानेन प्रतिनिधिविषयम् एवैतत् स्त्रीग्रहणम् अश्रोत्रियत्वात् । एवं वा स्त्रीप्रतिनिषेधे सिद्धे तद्ग्रहणम् । दृष्टान्तार्थवादार्थम् । एतेन क्लीबग्रहणं व्याख्यातं श्रोत्रियत्वात् क्लीबस्य प्रतिषेधः । अश्रोत्रियत्वादिग्रहणं च सर्वदाचारप्रदर्शनार्थं विज्ञेयं असौ वाक्यशेषः ।
@@ -100,6 +100,11 @@ one who serves as the priest of many persons, or by one who initiates many perso
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/206_ashlIkam_etat.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+206	When those persons offer sacrificial viands in the fire, it is unlucky for holy (men) it displeases the gods; let him therefore avoid it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where such persons pour the oblations, it is considered indecent by all good men; it is disagreeable to the gods; hence, one should avoid it—(206)
@@ -146,11 +151,6 @@ is suffering from white leprosy, or of one who has married a girl after puberty,
 **अश्लीलम्** इति । यत्र पूर्वोक्ता होमं कुर्वन्ति तत् शिष्टानां तदश्लीकम् अयुक्तं **देवानां** च प्रतिकूलम् । तस्माद् एतान् होमं न कारयेत् ॥ ४.२०६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-206	When those persons offer sacrificial viands in the fire, it is unlucky for holy (men) it displeases the gods; let him therefore avoid it.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अश्रीकं** अश्रीघ्रम् (अश्लाघ्ज्यम्?) एतेषां भोजनम् । केन प्रकारेण । **साधूनां** शिष्टानां (?) मतेन । **यत्र** हि **जुह्वत्य् अमी हविः** । ग्रामयाजकाः पर्युदस्ताः मन्तस् तद्धोमे । अत्र ये त्व **अश्लीलं** पठन्ति तेषां जुगुप्सितम् अश्लीलम् । तथा चोच्यते । "अश्लीलं परुषवादिता शिष्टैः शिष्टानां **प्रतीपम् एतत्** प्रतीकूलम् अशिष्टम् इति अर्थः । कस्य । **देवानाम्** । अर्थवादः पूर्वस्य (?) । "**तस्मात् तत् परिवर्जयेत्**" इत्य् एतद् धि वाक्यारम्भफलप्रसङ्गाच् च धर्मम् एवाभोज्यप्रकरणे दर्शयति । तत् चतुर्विधं परिग्रहस्वभावसंसर्गकालक्र्तम् ।
@@ -168,6 +168,11 @@ is suffering from white leprosy, or of one who has married a girl after puberty,
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/207_matta-kruddhAturANA~n_cha.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+207	Let him never eat (food given) by intoxicated, angry, or sick (men), nor that in which hair or insects are found, nor what has been touched intentionally with the foot,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shalll never eat food offered by intoxicated or angry or sick persons; nor that which is contaminated by hair or insects, or that which has been intentionally touched with the foot.—(207)
@@ -232,11 +237,6 @@ diseased, the enraged, the loose woman, the intoxicated, the enemy, of one who i
 **मत्तक्रुद्धातुराणाम्** इति । क्लीबक्रुद्धव्याधितान्नं केशादिसकलद्वादशकृमिसंसर्गदुष्टं पादेन चेच्छातः **स्पृषाअं न भुञ्जीत** ॥ ४.२०७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-207	Let him never eat (food given) by intoxicated, angry, or sick (men), nor that in which hair or insects are found, nor what has been touched intentionally with the foot,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **मत्तक्रुद्धातुरानाम्** इत्य् अतस् तात्पर्यं गृह्यते । मत्तादयो वा यावत् । **केश**ग्रहणं चात्र रोमनखमालादिप्रदर्शनार्थम् । **कीट**ग्रहणं तु तत्सदृशानां क्षुद्रजन्तूनां समाचाराद् विज्ञेयम् । **कामत** इति चैतत् **पादस्पृष्ट**विशेषणम् अकामतो भोजनस्यानुज्ञानार्थम् ।
@@ -254,6 +254,11 @@ diseased, the enraged, the loose woman, the intoxicated, the enemy, of one who i
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/208_bhrUNaghnAvexita~n_chaiva.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+208	Nor that at which the slayer of a learned Brahmana has looked, nor that which has been touched by a menstruating woman, nor that which has been pecked at by birds or touched by a dog,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor that which has been looked at by the Brāhmaṇa-slayer, or what has been toughed by a woman in her courses, or what has been pecked by the birds, or what has been touched by a dog.—(208)
@@ -338,11 +343,6 @@ the paramour living in the house of his ladylove, or one who permits his wife’
 **भ्रूणघ्नावेक्षितम् **इति । ब्रह्महादिपतितावेक्षितं रजस्वलाद्यस्पृश्यस्पृष्टं पक्षिणा काकादिना आस्वादितं **शुना स्पृष्टं **न भुञ्जीत ॥ ४.२०८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-208	Nor that at which the slayer of a learned Brahmana has looked, nor that which has been touched by a menstruating woman, nor that which has been pecked at by birds or touched by a dog,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **ब्रह्मघ्नो**(भ्रूणघ?)ग्रहणं च तत्समप्रदर्शनार्थम् **ईक्षण**प्रतिषेधाच् च तत्स्पर्शनम् अप्य् अशुचिकरं सुतराम् इत्य् एतद् अर्थसिद्धम् । **उदक्या**ग्रहणं च सर्वदाशुचीनां सूतिकाद्यानां रजस्वलासंस्पृष्टप्रतिषेधाच् च तद्दृष्टस्य प्रतिषेधः । **पतत्रि**ग्रहणं च काकाद्यशुचिपक्षिग्राहकम् सन्निधानाद् विज्ञेयम् ।
@@ -360,6 +360,11 @@ the paramour living in the house of his ladylove, or one who permits his wife’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/209_gavA_chA-nnam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+209	Nor food at which a cow has smelt, nor particularly that which has been offered by an invitation to all comers, nor that (given) by a multitude or by harlots, nor that which is declared to be had by a learned (man),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor the food that has been smelt by the cow, nor particularly that food which has been publicly offered, nor the food that belongs to a multitude, nor the food of the harlot, nor that which has been censured by the learned.—(209)
@@ -436,11 +441,6 @@ or to a thief or to a singer—if one eats this he should live for seven days on
 **गवेति **। **गवाघ्रातं **“को भुङ्क्ते” इति यदाघुष्य दीयते मठब्राह्मणादिसङ्घान्नं च तथा वेश्यान्नं शास्त्रविदा चैतत् कुत्सितम् इति यद् उक्तं तन् नाश्नीयात् **विशेषत** इति प्रायश्चित्तविशेषार्थम् ॥ ४.२०९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-209	Nor food at which a cow has smelt, nor particularly that which has been offered by an invitation to all comers, nor that (given) by a multitude or by harlots, nor that which is declared to be had by a learned (man),
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विदुषा चोपघातकहेतुसम्बन्धज्ञेन इतरेण वा प्रसिद्धेन ।
@@ -458,6 +458,11 @@ or to a thief or to a singer—if one eats this he should live for seven days on
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/210_stena-gAyanayosh_chA-nnam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+210	Nor the food (given) by a thief, a musician, a carpenter, a usurer, one who has been initiated (for the performance of a Srauta sacrifice), a miser, one bound with fetters,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor the food of the thief or the singer, nor of the carpenter, the usurer, of the initiated person, of the miser, the prisoner and the fettered.—(210)
@@ -522,11 +527,6 @@ sacrifice-seller, of the carpenter, of the leather-dealer, of the loose’woman 
 **स्तेनगायनयोर् **इति । चोरगेयजीवितक्षकवृद्ध्युपजीव्यन्नं न भुञ्जीत । यज्ञार्थे **दीक्षितस्य **प्राग् अग्नीषोमीयात् **बद्धस्य, **बन्दनेन विनाप्य् अयोनिगडैर् निगडितस्य दत्तायोनिगडस्य अबन्धने ऽपि च ॥ ४.२१० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-210	Nor the food (given) by a thief, a musician, a carpenter, a usurer, one who has been initiated (for the performance of a Srauta sacrifice), a miser, one bound with fetters,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **स्तेनः** सुवर्णाद् अन्यद्रव्यापहारकः । पातकिनस् तूपरिषाद् वक्ष्यन्ते । **निगडो** वार्धुषिकः ।
@@ -544,6 +544,11 @@ sacrifice-seller, of the carpenter, of the leather-dealer, of the loose’woman 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/211_abhishastasya_ShaNDhasya.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+211	By one accused of a mortal sin (Abhisasta), a hermaphrodite, an unchaste woman, or a hypocrite, nor (any sweet thing) that has turned sour, nor what has been kept a whole night, nor (the food) of a Sudra, nor the leavings (of another man),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor the food of an accused person, or of the hermaphrodite, or the unchaste woman, or the hypocrite; nor the food turned sour, or that kept overnight, or what forms the leavings of the Śūdra.—(211)
@@ -630,11 +635,6 @@ vegetables, meat and preparations of barley-flour.’
 **अभिशस्तस्येति **। महापातकित्वेन उत्पन्नाभिशापस्य, अनिश्चितपापस्यापि नपुंसकस्य **पुंश्चल्या** व्यभिचारिण्याः अगणिकाया अपि, **दाम्भिकस्य **व्याजधर्मचारिणः** **अन्नं न भुञ्जीत । तथा **शुक्तं **यत् प्रातः स्वरसं कालान्तरेण उदकादिसंसर्गकालान्तराभ्यां चाम्लीभवति, **पर्युषितं** च रात्र्यन्तरितं **शूद्रस्य चोच्छिष्टं** नाश्नीयात् । शुक्तपर्युषितयोः अभक्षणं पञ्चमे वक्ष्यति । इह तु स्नातकव्रतत्वार्थम् अभिधानम् ॥ ४.२११ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-211	By one accused of a mortal sin (Abhisasta), a hermaphrodite, an unchaste woman, or a hypocrite, nor (any sweet thing) that has turned sour, nor what has been kept a whole night, nor (the food) of a Sudra, nor the leavings (of another man),
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **पुंश्चली** व्यभिचारिणी, न दासी । दास्याः पृथक् प्रतिषेधात् "गणिकान्नं च" [म्ध् ४.२०९] इति । **शुक्तपर्युषितयोः** प्रायश्चित्तार्थं पुनर् इह ग्रहणं विशेषार्थं वा । अभोज्यप्रकरणोक्तयोर् अपि सतोः पाकः शूद्रभुक्तशिष्टः **शूद्रोच्छिष्टः** । "**उच्छिष्टम् अगुरोस् तथाऽ** इत्य् <u>अपरे</u> पठन्ति ।
@@ -652,6 +652,11 @@ vegetables, meat and preparations of barley-flour.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/212_chikitsakasya_mRgayoH.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+212	Nor (the food given) by a physician, a hunter, a cruel man, one who eats the fragments (of another's meal), nor the food of an Ugra, nor that prepared for a woman in childbed, nor that (given at a dinner) where (a guest rises) prematurely (and) sips water, nor that (given by a woman) whose ten days of impurity have not elapsed,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor the food of this physician, or of the hunter, or of a cruel person, or of one who lives on leavings; nor the food of the “Ugra;” nor what has been cooked for the newly-delivered woman, until ten days have passed; nor that which has been interrupted by washing.—(212)
@@ -745,11 +750,6 @@ of the multitude, of people accused of crimes, and of those who make a living by
 **चिकित्सकस्येति । **वैद्यस्य चिकित्साजीविनः । तथा लुभकानार्जवप्रकृत्युच्छिष्टादीनाम् उग्रस्य क्षत्रियेण शूद्रायाम् उत्पन्नस्य सूतिकोद्देशेन अनाशौचिभिर् अपि यत् कृतं कृतान्तराचमनं च तथा अनिर्गतदशाहिकं **सूतिकान्नं** प्रेतान्नस्य वक्ष्यमाणत्वात् न भुञ्जीत । _अन्ये_ तु उग्रं राजानम् आहुः । _तद् असत्_, याज्ञवल्क्येनोभयपाठात् ॥ ४.२१२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-212	Nor (the food given) by a physician, a hunter, a cruel man, one who eats the fragments (of another's meal), nor the food of an Ugra, nor that prepared for a woman in childbed, nor that (given at a dinner) where (a guest rises) prematurely (and) sips water, nor that (given by a woman) whose ten days of impurity have not elapsed,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अ(आ)जीवसम्बन्धौ (?) **चिकित्सक**प्रतिषेधः । **मृगयो** राज्ञस् तस्य पृथग्वचनाद् उत्तरत्र । **क्रूर**स्वभावत्व उच्छिष्टभोजिनः शूद्रस्येवेत्य् अर्थः । शास्त्रसामर्थ्याद् **उग्रो** राजा । "उग्रो मध्यशरी वा" इति लिङ्गात् । तथा च वक्ष्यति- "राजानं तेज आदत्ते" (म्ध् ४.२१८) इत्य् अर्थवादः । न चास्मिन् प्रकरणे शक्यं राजानं निर्देष्टुम् अन्यतो ऽस्मां न शरी च तत् (?) । भृत्य इत्य् एवं वक्ष्यामः । "नगरे नगरे चैवं कुर्यात् सर्वार्थचिन्तनम्" [म्ध् ७.१२१] इति चोक्तम् । राजधर्मेषु <u>केचिद्</u> यजमानम् आहुर् उग्रम् । तद् अयुक्तं दीक्षितस्येति वचनात् । **सूतकान्नं** मातापित्रो त्स्वागौ (?) च पक्षे च । मृते पत्यौ प्रसूताया स्त्रीधनभोजनप्रतिषेधो वा । **पर्याचान्तम्** आचमनव्यापृतम् । **अनिर्दिशम्** गवादीनां पयः ।
@@ -767,6 +767,11 @@ of the multitude, of people accused of crimes, and of those who make a living by
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/213_anarchitaM_vRthA-mAMsam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+213	Nor (food) given without due respect, nor (that which contains) meat eaten for no sacred purpose, nor (that given) by a female who has no male (relatives), nor the food of an enemy, nor that (given) by the lord of a town, nor that (given) by outcasts, nor that on which anybody has sneezed;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor what is offered without respect, nor improper meat, nor food belonging to a male-less female, nor the food of an eneny, nor the food of the city-lord, nor the food of an outcast, nor that which has been sneezed at.—(213)
@@ -831,11 +836,6 @@ outcast......;—of the maleless woman, of the goldsmith, of the man who is cont
 **अनर्चितम्** इति । अर्चार्हस्य यद् अकृतारं दीयते अकृतदेवताद्यर्चनं यन् मासम् अतिथ्यादेर् दीयते कल्पयितुं “देवान् पितॄंश् चार्चयित्वा” इत्य् एवमादेर् वक्ष्यमाणत्वात् न भूज्ञीत ॥ ४.२१३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-213	Nor (food) given without due respect, nor (that which contains) meat eaten for no sacred purpose, nor (that given) by a female who has no male (relatives), nor the food of an enemy, nor that (given) by the lord of a town, nor that (given) by outcasts, nor that on which anybody has sneezed;
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अनर्चितं दातुरश्चद(नव?)धानतया शिष्टभोजनीयम् अपि तस्यातिथ्यादीनाम् अर्चनानर्हाणां (?) न तमिस्रादीनां (?) मितत्वादिभिर् एव कारणैर् वृथा मांसं च यद् आत्मप्रीत्यर्थं च तर्पितं च गृहस्थेन तच् चाभोज्यम् आतिथ्यादीनाम् एवानर्चितम् अपि सन् न कल्पयितुर् अनर्चिताभोज्यस्य सन्निधाव् अस्योपदेशात् । तथा चोत्तरत्र प्रदर्शयिष्यति । "वृथा कृसरसंयावम्" (म्ध् ५.७) इति श्लोके अनुपाकृतमांसशब्देन **वृथामांस**प्रतिषेधं कल्पयितुर् एवं चापुनरुक्तत्वम् उत्तरत्र सिद्धं भवति, "प्रोक्षितं भक्षयेत् [मांसम्]" (म्ध् ५.२७) इत्य् अत्र । **अविरयोषिद्** अपुत्रा अपतिका वा । **नगरी** वक्ष्यमाणा । राजभृत्यः । वक्ष्यति हि "नगरे नगरे चैकं" (म्ध् ७.१२१] इत्यादि । ऋज्व् अन्यत् ।
@@ -853,6 +853,11 @@ outcast......;—of the maleless woman, of the goldsmith, of the man who is cont
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/214_pishunAnRtinosh_chA-nnam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+214	Nor the food (given) by an informer, by one who habitually tells falsehoods, or by one who sells (the rewards for) sacrifices, nor the food (given) by an actor, a tailor, or an ungrateful (man),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor the food of the informer and the perjurer, or of the seller of sacrifices; nor the food of the actor or the tailor; nor the food of the ungrateful person.—(214)
@@ -912,11 +917,6 @@ sacrifice-seller.’
 **पिशुनानृतिनोश् चेति** । भषकासत्यवादिक्रतुपुण्यविक्रयिनटसौचिकानां उपकृतापकारिणाम् अन्नं नाश्नीयात् ॥ ४.२१४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-214	Nor the food (given) by an informer, by one who habitually tells falsehoods, or by one who sells (the rewards for) sacrifices, nor the food (given) by an actor, a tailor, or an ungrateful (man),
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **शैलूषो** ऽनर्थप्रयोगदर्शनाद् भारते- "शौलूष इव राजन्" इति । एवं च सति ब्राह्मणादयो ऽपि तत्कर्माणः तथोच्यन्ते गुणतः । भार्यापण्यम् <u>अपरे</u> **शैलूषम्** आचक्षते ।
@@ -939,6 +939,11 @@ sacrifice-seller.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/215_karmArasya_niShAdasya.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+215	By a blacksmith, a Nishada, a stage-player, a goldsmith, a basket-maker, or a dealer in weapons,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Nor or the blacksmith, of the Niṣāda, of the stage-player, of the goldsmith, of the plater of musical instruments, or of the dealer in weapons,—(215).’
@@ -997,11 +1002,6 @@ the maleless woman;—of multitudes, of villages, of the accused and of those wh
 
 **कर्मारस्येति** । **कर्मारस्य **निषादवेणयोश् च दशमाध्यायवक्ष्यमाणयोः नटगायनव्यतिरिक्तस्यापि च **रङ्गावतरणजीविनः **सुवर्णकारशस्त्रविक्रयिणोश् चान्नं नाश्नीयात् ॥ ४.२१५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-215	By a blacksmith, a Nishada, a stage-player, a goldsmith, a basket-maker, or a dealer in weapons,
-</details>
 </details>
 </div>
 
@@ -1015,6 +1015,11 @@ the maleless woman;—of multitudes, of villages, of the accused and of those wh
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/216_shva-vatAM_shauNDikAnAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+216	By trainers of hunting dogs, publicans, a washerman, a dyer, a pitiless (man), and a man in whose house (lives) a paramour (of his wife),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor of dog-keepers, or of wine-sellers or of the clothes-washer, or of the dyer, or of the bard, or of the man in whose house there is a paramour.—(210)
@@ -1079,11 +1084,6 @@ the oilsman, the clothes-washer, the woman in her courses, and of the man who ha
 श्वक्रीडिमद्यविक्रयिवस्त्रधावनपटरागकृन्निष्ठुराणां जायाजारश् च यस्याविज्ञातो गृहे ऽस्ति तेषाम् अन्नं न भक्षयेत् ॥ ४.२१६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-216	By trainers of hunting dogs, publicans, a washerman, a dyer, a pitiless (man), and a man in whose house (lives) a paramour (of his wife),
-</details>
-
 <details><summary>भारुचिः</summary>
 
 कृतव्याख्यान एष श्लोकः ।
@@ -1101,6 +1101,11 @@ the oilsman, the clothes-washer, the woman in her courses, and of the man who ha
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/217_mRShyanti_ye.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+217	Nor (the food given) by those who knowingly bear with paramours (of their wives), and by those who in all matters are ruled by women, nor food (given by men) whose ten days of impurity on account of a death have not passed, nor that which is unpalatable.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor of thos e who bear the presence of the paramour, or of those who are entirely ruled b y women; nor the food of those in whose house death has occurred and the ten days have not passed; nor that which is disagree able.—(217)
@@ -1177,11 +1182,6 @@ embryo-killer, harlot, weapon-maker, oil-presser, wine-seller, goldsmith, writer
 **मृष्यन्तीति** । भार्याजारं ये सहन्ते तदन्नम् अभोज्यम् एवं (च) गृहाद् गतायां जारिण्याम् उपेक्षितायाम् अपि प्रतिषेधः । सर्वकर्मसु स्त्र्यायत्तानां अनिर्गताशौचं च मृतकान्नम् अप्रीतिकरं च न भूज्ञीत ॥ ४.२१७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-217	Nor (the food given) by those who knowingly bear with paramours (of their wives), and by those who in all matters are ruled by women, nor food (given by men) whose ten days of impurity on account of a death have not passed, nor that which is unpalatable.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **मृष्यन्ति ये चोपपतिम्** इत्य् अस्य शौलूषस्य चायम् विशेषः । भार्यापण्यो हि लोभात् स्त्रियं प्रेषयति । इतरस् तु वक्ष्यते ऽथ वा शैलूषो नट इत्य् उक्तः । अस्मिंश् च पक्षे पुनरुक्तदोषो नास्ति ।
@@ -1199,6 +1199,11 @@ embryo-killer, harlot, weapon-maker, oil-presser, wine-seller, goldsmith, writer
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/218_rAjAnnan_teja.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+218	The food of a king impairs his vigour, the food of a Sudra his excellence in sacred learning, the food of a goldsmith his longevity, that of a leather-cutter his fame;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king’s food takes off one’s vigour and the Śūdra’s food his Brahmic glory; the goldsmith’s food his longevity, and the l eather-cutter’s food hi s fame.—(218)
@@ -1256,11 +1261,6 @@ involves a heavy penance;—in *Hemādri* (Śrāddha, p. 782);—and in
 
 **राजान्नम्** इति । **राजान्नं तेजो **नाशयति अत एव च राजान्नप्रतिषेधो बोद्धव्यः । “नाद्याच् छूद्रस्य पक्वान्नम्” (४.२२३) अधिकुलमित्रं वेति शूद्रान्नप्रतिषेधं वक्ष्यति, अतस् तदन्नं अध्ययनादिनिमित्तं तेजो ऽपहन्ति **सुवर्णकार**चर्मछेद्यन्ने आयुःख्याती हरत इति व्यतिक्रमफलकथनम् ॥ ४.२१८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-218	The food of a king impairs his vigour, the food of a Sudra his excellence in sacred learning, the food of a goldsmith his longevity, that of a leather-cutter his fame;
-</details>
 </details>
 </div>
 
@@ -1274,6 +1274,11 @@ involves a heavy penance;—in *Hemādri* (Śrāddha, p. 782);—and in
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/219_kArukAnnam_prajAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+219	The food of an artisan destroys his offspring, that of a washerman his (bodily) strength; the food of a multitude and of harlots excludes him from (the higher) worlds.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The food of artisans impairs the offspring, that of the clothes-washer impairs strength; the food of a multitude and the food of the harlot out off the max from the regions.—(219)
@@ -1315,11 +1320,6 @@ food is semen,’
 
 **कारुकान्नम्** इति । सूपकाराद्यन्नम् अपत्यानि हन्ति । अस्याप्य् अत एव निषेधः । चर्मकारादीनां चान्नं गोबलीवर्दन्यायेन निर्देशो द्रष्टव्यः । एवम् इह शास्त्रे सर्वत्र विज्ञेयम् । निर्णेजकान्नं च कर्मान्तरार्जितेभ्यः स्वर्गादिलोकेभ्यः आच्छिनत्ति ॥ ४.२१९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-219	The food of an artisan destroys his offspring, that of a washerman his (bodily) strength; the food of a multitude and of harlots excludes him from (the higher) worlds.
-</details>
 </details>
 </div>
 
@@ -1333,6 +1333,11 @@ food is semen,’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/220_pUya~n_chikitsakasyA-nnam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+220	The food of a physician (is as vile as) pus, that of an unchaste woman (equal to) semen, that of a usurer (as vile as) ordure, and that of a dealer in weapons (as bad as) dirt.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The food of the physician is pus; the food of the unchaste woman is semen; the food of the usurer is ordure, and that of the dealer in weapons is dirt.—(220.)
@@ -1377,11 +1382,6 @@ See Comparative notes for [Verse 4.219].
 
 **पूयम्** इति । चिकित्सकान्नादनेन तथाविधायां जाताव् उत्पद्यते यत्र पूयभुक् भवति । एवं पुंश्चल्यन्नं शुक्रं वार्धुषिकान्नं पुरीषं **शस्त्रविक्रयिणः **शुक्रविष्ठादिव्यतिरिक्तं मूत्रादिमलम् ॥ ४.२२० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-220	The food of a physician (is as vile as) pus, that of an unchaste woman (equal to) semen, that of a usurer (as vile as) ordure, and that of a dealer in weapons (as bad as) dirt.
-</details>
 </details>
 </div>
 
@@ -1395,6 +1395,11 @@ See Comparative notes for [Verse 4.219].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/221_ya_ete.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+221	The food of those other persons who have been successively enumerated as such whose food must not be eaten, the wise declare (to be as impure as) skin, bones, and hair.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The food of those other persons who have been successively mentioned as those whose food should not be eaten,—the wise men describe as skin, bones and hairs.—(221)
@@ -1430,11 +1435,6 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 507);—and in
 **य** इति । साक्षादुक्तफलेभ्यो **ये अन्ये **क्रमेण **भोज्यान्नाः **कथिताः तत्सम्बन्ध्यन्नं चर्मास्थिरोमाणि प्रशस्तबुद्धयो वदन्ति ॥ ४.२२१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-221	The food of those other persons who have been successively enumerated as such whose food must not be eaten, the wise declare (to be as impure as) skin, bones, and hair.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 धर्मव्यतिक्रमात् तिर्यक्षुत्वम् (?) । नानाफलार्थवादो ऽयं निवृत्त्यर्थः । "**राजान्नं तेज आदत्ते**" इत्य् एवमादि । कथं नामायम् "निन्दितं न समाचरेत्" इति **[२०४]** भोज्यान्नानाम् अपि चैषाम् एभिर् निमित्तर् अभोज्यान्नानाम् अपि चैषाम् एभिर् निमित्तैर् अभोज्यान्नतोच्यते । एवं च सत्य् एषां निमित्तानां क्रतुविक्र्यादीनाम् अकार्यतोच्यते । अप्रतिषिद्धानां विनिन्दया । ननु धर्माविक्रयासम्भवाद् अयम् उक्तो व्यतिक्रमः भवतु वा धर्मविक्रयो मा वा भूत्, तत्क्रान्त्यासम्भवाद् अमूर्तित्वे सति सर्वथैव न कर्तव्यम् इति शास्त्रार्थः । यच् चास्मिन् प्रदेशे सामान्यनिर्देशः गोबलीवर्दन्यायेन व्याख्येयः ।
@@ -1464,6 +1464,11 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 507);—and in
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/222_bhuktvAto.anyatamasyA-nnam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+222	If he has unwittingly eaten the food of one of those, (he must) fast for three days; if he has eaten it intentionally, or (has swallowed) semen, ordure, or urine, he must perform a Krikkhra penance.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After unknowingly eating the food of any one of these, there should be a three days’ fast. Having eaten it knowingly, as also on eating semen, ordure and urine, one should perform the “Kṛcchra” penance.—(222)
@@ -1547,11 +1552,6 @@ one should give to the Brāhmaṇa the price of that food; he should remain with
 
 इति सप्तविधस्यात्रपठितस्यापि दुष्टस्येदम् एव प्रायश्चित्तम् एकप्रकरणोपदेशात् । अस्मिंश् च प्रकरणे एषां प्रायश्चित्तान्तरानाम्नानात् । शुक्तपर्युषितयोश् च पञ्चमाध्यायवक्ष्यमाणनिषेधयोर् अपि इह प्रायश्चित्तविशेषार्थम् एवोपादानम् इत्य् आहुः । _तद् असत्_, “एवम् अभिप्रेतम् उक्त्वा” अतो ऽन्यतमदुष्टम् इत्य् एवम् अवक्ष्यत् । अपौरुषेयेषु हि ग्रन्थेषु लिङ्गमात्रम् अपि व्यवस्थाहेतुर् भवति । तावतैव वक्त्राशयानुमानात् । एकप्रकरणोपदेशश् च स्नातकव्रतत्वख्यापनार्थः । इह प्रायश्चित्तान् आम्नाने ऽपि च एषाम् एकादशाध्यायोक्तानि प्रायश्चित्तानि भविष्यन्ति । शुक्तपर्युषितयोश् चेह स्नातकव्रतत्वार्थम् एवाभिधानम् । तस्माद् यथाश्रुतम् एव त्याज्यम्, तत्र स्वभावदुष्टं मूत्रादि, कालदुष्टं पर्युषितादि, संसर्गदुष्टं दुष्टान्नादि, परिणामदुष्टं शुक्तादि, भावदुष्टं सद्यःपीडितद्राक्षारसादि, आश्रयदुष्टं मत्तादिसम्बन्धि । अप्रकरणे च प्रायश्चित्तोपदेशो लाघवाद्यर्थम्, तत्र हिस् किर्यमाणे मन्त्रादिग्रहणं कर्तव्यं स्यात् ॥ ४.२२२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-222	If he has unwittingly eaten the food of one of those, (he must) fast for three days; if he has eaten it intentionally, or (has swallowed) semen, ordure, or urine, he must perform a Krikkhra penance.
-</details>
 </details>
 </div>
 
@@ -1565,6 +1565,11 @@ one should give to the Brāhmaṇa the price of that food; he should remain with
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/223_nA-dyAch_ChUdrasya.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+223	A Brahmana who knows (the law) must not eat cooked food (given) by a Sudra who performs no Sraddhas; but, on failure of (other) means of subsistence, he may accept raw (grain), sufficient for one night (and day).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The learned Brāhmaṇa shall, not eat the cooked food of the Śūdra who performs no śrāddhas. In the absence of livelihood, he may receive from him raw grain sufficient for one day.—(223)
@@ -1670,11 +1675,6 @@ strength and vigour.’
 **नाद्याद् **इति । श्राद्धादिक्रियाशून्यस्य सच्**छूद्रस्य** शास्त्रवित् द्विजः **पक्वान्नं **न भुञ्जीत । अपि त्व् अन्नान्तराभावे **आमम् **एव न पक्वम् एकाहोरात्रपर्याप्तं नाधिकम् अस्मात् प्रतिगृह्णीयात् ॥ ४.२२३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-223	A Brahmana who knows (the law) must not eat cooked food (given) by a Sudra who performs no Sraddhas; but, on failure of (other) means of subsistence, he may accept raw (grain), sufficient for one night (and day).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 श्राद्धग्रहणम् अत्र सत्यवचनादीनां सर्वत्र शूद्रधर्माणां प्रदर्शनार्थं सामर्थ्यात् गम्यते । येन नान्यधर्मपरिवर्जितस्य शूद्रस्य श्राद्धम् एकभोज्यान्नतां कर्तुम् उत्सहते यतस् तद्ग्रहणं सच्छूद्रोपलक्षणार्थम् एवं विज्ञेयम् इतरस्माद् असच्छूद्राद् आगमम् एवाददीत न पक्वान्नम् एकरात्रिकम् एव च तन् न बाह्यवृतौ च न विद्यमानस्य बलाबलपरीक्षा प्रति केनाधुनेदं (?) श्रद्दास्तुत्यर्थम् आह –
@@ -1694,6 +1694,11 @@ strength and vigour.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/224_shrotriyasya_kadaryasya.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+224	The gods, having considered (the respective merits) of a niggardly Srotriya and of a liberal usurer, declared the food of both to be equal (in quality).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The gods having compared the food of the miserly Vedic Scholar and that of the liberal usurer, ordained the food of both to be equal.—(224)
@@ -1754,11 +1759,6 @@ teacher should not be eaten, if it is not offered with respect.’
 
 **श्रोत्रियस्येति **। एको ऽधीतवेदः कृपणः पर उदारो वृद्धिजीवी वा तयोर् गुणम् उभयं विचार्य देवास् तुल्यम् अन्नम् अनयोर् इति कल्पितवन्तः, उभयोर् अपि गुणयोगात् ॥ ४.२२४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-224	The gods, having considered (the respective merits) of a niggardly Srotriya and of a liberal usurer, declared the food of both to be equal (in quality).
-</details>
 </details>
 </div>
 
@@ -1772,6 +1772,11 @@ teacher should not be eaten, if it is not offered with respect.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/225_tAn_prajApatir.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+225	The Lord of created beings (Pragapati) came and spake to them, 'Do not make that equal, which is unequal. The food of that liberal (usurer) is purified by faith; (that of the) of the) other (man) is defiled by a want of faith.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thereupon Prajāpati came to them and said—“Do not make the unequal equal: what belongs to the liberal man is purified by faith, while the other is defiled by want of faith.—(225)
@@ -1816,11 +1821,6 @@ See Comparative notes for [Verse 4.224].
 <details><summary>गोविन्दराजः</summary>
 
 **तान्** इति । **तान्** देवान् ब्रह्मा आगत्य **विषमं** यत् तत् **मा समम्** इति व्याचष्ट । यस्माद् वदान्यान्नं श्रद्धया पविर्तीकृतं भवति । कदर्यान्नं पुनः अश्रद्धया दूषितम् इत्य् उभयप्रतिषेधे ऽपि श्रद्धावद् वार्धुषिकान्नप्रतिप्रसवार्थम् इदम् ॥ ४.२२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-225	The Lord of created beings (Pragapati) came and spake to them, 'Do not make that equal, which is unequal. The food of that liberal (usurer) is purified by faith; (that of the) of the) other (man) is defiled by a want of faith.'
 </details>
 
 <details><summary>भारुचिः</summary>

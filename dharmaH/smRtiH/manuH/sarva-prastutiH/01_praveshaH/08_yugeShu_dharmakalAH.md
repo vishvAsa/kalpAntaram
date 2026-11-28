@@ -12,6 +12,11 @@ title = "०८ युगेषु धर्मकलाः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/081_chatuShpAt_sakalo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+081	In the Krita age Dharma is four-footed and entire, and (so is) Truth; nor does any gain accrue to men by unrighteousness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the Kṛta Cycle Virtue exists in its perfect form, with all its four feet; and so does Truth;—No benefit accrues to men by vice—(81).
@@ -127,11 +132,6 @@ diverse character of the various cycles.—The verse is quoted in the Vīramitro
 **चतुष्पाद् **इति । यो ऽयं **चतुष्पाद्**आश्रयो धमः **सकल **एव । तथा **सत्यं च कृतयुगे **आसीत् । सत्यस्य प्राधान्यात् पृथक् ग्रहणम् । एवं च शस्त्रातिक्रमेण विद्यायाः धनस्य वा **आगमः कश्चिन् मनुष्यान् प्रति **न वर्तते ॥ १.८१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-081	In the Krita age Dharma is four-footed and entire, and (so is) Truth; nor does any gain accrue to men by unrighteousness.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यो ऽयं वर्ण**धर्मश्** चतुर्विधः **चतुष्पाद्** एष **सकलः** समग्र अपि गुणो यथोपदेशम् अनुष्ठीयते ऽधिकृतः पुरुषैः **कृतयुगे** कस्य हेतोः । येन "**सत्यं चैवे कृते युगे**" इति समानम् उभयोर् विशेषणम् । **च**शब्दः समुच्चयाभावात् पादपूरणार्थः श्रद्धासमुच्चयार्थो वा । **एव**शब्दो ऽवधारणार्थः । सत्यम् एव तदातिशयवतः श्रद्धासहितं न तद्विपर्ययेणातो भवत्य् एते तद् एवं तथा च त्रेतादिषु धर्मसङ्कोचावहे तु मनृतादिपदार्थं (त्व् अनृतादि?) वक्ष्यति "चोरिकानृतमायाभिर् धर्मश् चापैति पादशः" (१.८२) इति । यतश् चैतद् एवम् अतः श्रद्धासामर्थाद् अयं **चतुष्पाद्** वर्णधर्मस् तदानीम् असौ सत्क्[आ]लो (सकलो?) भवति एवं च कृत्वा युक्तम् असत्त्वस्य हेत्वर्थं पृथग्वचनम् । यतश् चैतद् एवम् अथः । नाधर्मेण व्यवस्था तानोवधिगमः (?) कश्चिद् वेदशास्त्रस्य स्मृतेर् वा **मनुष्यान् उपवर्तते** । कारणाभावाद् धेत्वर्थनिगमनार्थः उत्तरश्लोकार्धः । अथ वा सं चैवेत्य् एतद् अन्यथोच्यते (?) । कथम् । सत्त्वं हि यथाभ्युपगमनानुष्ठानम् अपि गुणत्वे ऽपि सति पदार्थान्तरार्थाद् वक्तव्यम् अस्य प्रदर्शनम् । यथा "मासम् इमं श्राद्धं करिष्ये" इत्य् अभ्युपगम्याविगुणं च तत् करोत्य् अथाभ्युपगतं कालम् । एवम् अन्यद् अपि (?) च कर्तव्यम् उदाहरणीयं च । तथा च युक्तोपदेशम् इदं पृथक् पृथक् पूर्वस्माद् इतरत्र सत्यवचनसाकाल्यान्तर्भावाद् अवचनीयम् अस्मिन्न् अर्थे । तथा च पदार्थभेदाद् उक्तसमुच्चयार्थश् च शब्दो युक्तो ऽस्मिन् पक्ष इत्य् एव शब्दश् चोभयावधारणार्थः । अन्यत् समानम् । पूर्वेणाथवा गुणशब्दो ऽयं **चतुष्पाद्** इव चतुष्पाद् अयं **धर्मस्** तस्मिन् काले यथा लोके शवादिपदार्थश् चतुष्पाद् एव धर्मो ऽपि तद्गुणयोगाच् चतुष्पाद् उपर्यते तद्गुणयोगश् च सकलत्वम् अवैगुण्यं च तदानीं धर्मस्य यतो ऽयम् अपि चेच् चतुष्पाद् उच्यते । गुणत्वे (?) । सत्स्व् अपि चतुष्पादेषु कृतयुगस्वाभाव्यात् । "**सत्यं चैव कृते युगे**" इत्येवमादि समानं पूर्वेण । अपरे तु चतुरः पादान् आचक्षते । तपोज्ञानयज्ञदानानि वक्ष्यमाणानि "तपः परं कृतयुगे" (१.८६) इत्येवमादीनि । तद् अयुक्तं प्रमाणाभावाद् अन्यपरत्वोच्य(?) तदभिधानस्याश्रमाच् च (?) तेषाम् अप्य् एतत् ब्राह्मणादिवर्णधर्मैकदेशोभिधानात् तद् अयुक्तश् चतुष्पाच्छब्दे ऽन्यकृत्सत्त्वाद् धेत्वभावाच् च ।
@@ -149,6 +149,11 @@ diverse character of the various cycles.—The verse is quoted in the Vīramitro
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/082_itareShv_AgamAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+082	In the other (three ages), by reason of (unjust) gains (agama), Dharma is deprived successively of one foot, and through (the prevalence of) theft, falsehood, and fraud the merit (gained by men) is diminished by one fourth (in each).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the other Cycles, virtue fell off from the scriptures, foot by foot; and on account of theft, falsehood and fraud, virtuous acts deteriorated foot by foot—(82).
@@ -211,11 +216,6 @@ See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 **इतरेष्व्** इति । त्रेतादिषु पुनर् **आगमात् **शास्त्राद् **धर्मो **यागाद्यनुष्ठानं यथाक्रमं प्रतियुगं पादं पादम् **अवरोपितं **हीनं कृतं चौर्यासत्यछद्मभिः नात्र युगैः यथासङ्ख्यं चौर्यादीनां सर्वेषां सर्वयुगेषु दर्शनात् । एवं च **पादशो **ऽनुष्ठाणापगमात् तत्साध्यो ऽप्य् अभ्युदयहेतुः मुख्यो धर्मः पादशो व्यपगच्छति ॥ १.८२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-082	In the other (three ages), by reason of (unjust) gains (agama), Dharma is deprived successively of one foot, and through (the prevalence of) theft, falsehood, and fraud the merit (gained by men) is diminished by one fourth (in each).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **इतरेषु** त्रेतादिषु **आगमाच्** छास्त्राद् धर्मव्यवस्थारूपो यः असौ **पादशो ऽवरोपितः** प्रतियुगं तस्य पादः पादशः । केन । **चौरिकानृतमायाभिः** । नात्र यथासङ्ख्यं चौरिकादीनां त्रेतादिषु दृष्टि(ष्ट?)विरोधात् । किं तर्हि । सर्वान्य् एवैतानि त्रेतादिषु विद्यमानानि धर्मसङ्कोचहेतुत्वेनोपदिश्यन्ते विकल्पितानि बह्वल्पतया तारतम्यम् आश्रित्य । एवं च सति "**धर्मश् चापैति पादशः**" इति यद् इदं द्वितीयं धर्मग्रहणम् एतन्मुख्यस्याभ्युदयहेतोर् व्यवस्थाकार्यस्य धर्मस्याभावं दर्शयति कारणाभावात् । यतश् चैतद् एवम् अतः,
@@ -233,6 +233,11 @@ See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/083_arogAH_sarvasiddhArthAsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+083	(Men are) free from disease, accomplish all their aims, and live four hundred years in the Krita age, but in the Treta and (in each of) the succeeding (ages) their life is lessened by one quarter.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 During the Kṛta Cycle, men are free from disease, they have all their aims fulfilled, and their life lasts trhough four hundred years;—During the Tretā and other Cycles, their life becomes shortened, quarter by quarter.—(83).
@@ -303,11 +308,6 @@ See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 **अरोगा **इति । **अरोगाः **रोगनिमित्तस्याधर्मस्याभावात्, **सर्वसिद्धार्थाः **सिद्धसकलपाम्यफलाः । प्रतिबन्धकस्याधर्मस्याभावात् **चतुर्वर्षशतायुषः **पुराणदृष्ट्या । तद् आह स्वाभाविकम् एतद् आयुः अत आयुः प्रापककर्मकरणेन अधिकायुषो ऽपि भवन्ति । तेन दशवर्षसहस्राणि रामो राज्यम् अकारयत्, इत्य् अविरोधः । “शतायुर् वाइ पुरुषः” इत्यादिश्रुतौ च शतशब्दो बह्वर्थः । शतसहस्रशब्दयोः बहुनामस्व् आम्नातत्वात् । एवंविधा मनुष्याः क्र्ते भवन्ति । **त्रेतादिषु ** पुनर् एषां पादं पादं **वयः** अल्पीभवति ॥ १.८३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-083	(Men are) free from disease, accomplish all their aims, and live four hundred years in the Krita age, but in the Treta and (in each of) the succeeding (ages) their life is lessened by one quarter.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अरोगा** रोगकरणाभावात् तदानीं काम्यकर्मसाफल्याच् च **सर्वसिद्धार्थास्** **चतुर्वर्षशतायुष** इत्य् अत्र **शत**शब्दो बह्वर्थो न गणनार्थशास्त्रविरोधाद् एतद् वक्ष्यामः । एवं द्राघिष्ठकालायुषश् चतुर्वर्णशतायुषो मनुष्याः कृतयुगस्वभावतो धर्मानुग्रहेण चेदानीन्तनेभ्यो दीर्घायुषस् **त्रेतादिष्व् एषां** यथा **वयो ह्रसति** **पादशः** एवं सिद्ध्यारोग्ये अपि ह्रसतः प्रदर्शनार्थत्वात् वयोग्रहणस्य । युक्तश् च तयोः प्रकृतत्वादिग्रहणं सतां नार्थत्वाद् युग्स्वभावानुविधानेन चैवं वा,
@@ -325,6 +325,11 @@ See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/084_vedoktam_Ayur.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+084	The life of mortals, mentioned in the Veda, the desired results of sacrificial rites and the (supernatural) power of embodied (spirits) are fruits proportioned among men according to (the character of) the age.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The full age of mortals spoken of in the Veda, the results of actions and the powers of embodied beings,—are obtained in accordance with the character of the Cycle.—(84)
@@ -397,11 +402,6 @@ See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 **वेदोक्तम्** इति । “शतायुर् वै पुरुषः” इति । एवं यदि **वेदोक्तम् आयुः कर्मणां** काम्यानां प्रधानानां **प्रभावश् च **समृद्ध्यति । शतयोगो मनुष्याणां युगानुरूपेण फलति ॥ १.८४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-084	The life of mortals, mentioned in the Veda, the desired results of sacrificial rites and the (supernatural) power of embodied (spirits) are fruits proportioned among men according to (the character of) the age.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तत्र **वेदोक्तं** नामायुषः सहस्रसंवत्सरादिषु तदनुष्ठतॄणां यदर्थं गृहीतं तन् न । "शतायुर् वै पुरुषः" इत्येवमादिशास्त्रविरोधाद् अयम् अप्य् [१ अक्ष् उन्च्लेअर्]अद् अह्नां वा तदशक्यत्वात्" (?) इति सूत्रकारैः कल्प्यान्त(कल्प्यते?) । तद् अपि प्रधानकल्पनायाम् असम्भवत्यां(न्त्यां) गुणाद्य् (?) आश्रयितुं युक्तं स्याद् यथा च प्रधानकल्पनोपरोधन्यायोन्त(?) न कल्प्यते । तथा च वक्ष्यामः । अथायुर्वेदे यद् उक्तं तत् परिभक्तं (?) सहस्रसंवत्सरप्रापकं कर्म तत्संविवक्षिते इदम् उच्यते । तथा च शिष्टमूर्तिः (शिष्टैर् उक्तम्?) "दशवर्ष्सहस्राणि रामो राज्यम् अकारयत्" । अस्मिन् सहस्रसंवत्सरादिषु प्रभावन्तस् तेन कर्मणाधिक्रियन्ते अश्वमेधाधिकारवत् । न चैकदा श्रुत्यर्थादर्शनाद् असामर्थ्यं वेदशास्त्राख्या(त्राण्य)नुमातुं शक्यम् अश्वमेधवद् अ(य)म् एव **आशिषः** श्रौत**कर्मणां** कार्याणां प्रवर्तिताः(तिकाः) पुत्रादिप्रयोजनाः **फलन्त्य् अनुयुगं लोके** कृतादियुगस्वभावानुविधानेन कर्मवैगुण्ये सति । सत्यं तस्य फलप्रधानप्रतिबन्धाभावात् । **प्रभावश् च शरीरिणाम्** । न श्रौतस्मार्तकर्माधिकारपुरुषाणाम् अन्तर्धानावेशाकाशम् अनभिचाराभिशापादि । "**फलन्त्य् अनुयुगं लोके**" इति वर्तते । एवं च सत्य् उक्तसम्बन्धार्थापेक्षयेदम् उच्यते ।
@@ -419,6 +419,11 @@ See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/085_anye_kRtayuge.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+085	One set of duties (is prescribed) for men in the Krita age, different ones in the Treta and in the Dvapara, and (again) another (set) in the Kali, in a proportion as (those) ages decrease in length.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 During the Kṛta-cycle, the characteristics of men are of one kind,—of different kinds during the Tretā and the dvāpara,—and of yet another kind during the Kali-cycle;—this being due to the deterioration of each suceeding Cycle.—(85)
@@ -471,11 +476,6 @@ See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 **अन्य** इति । कृतादिषु युगेषु युगानुरूपेण धर्मवैलक्षण्यं मनुष्याणां भवति ॥ १.८५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-085	One set of duties (is prescribed) for men in the Krita age, different ones in the Treta and in the Dvapara, and (again) another (set) in the Kali, in a proportion as (those) ages decrease in length.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 युगह्रासानुरू [२० अक्ष् मिस्सिन्ग्] र्थो ऽनुवदम् इदम् अन्यद् युगस्वभावानुविधानं प्रकरणे तद्धर्माणां तदनुविधानं वक्तव्यताम् अपं(?) न शिष्यते ।
@@ -493,6 +493,11 @@ See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/086_tapaH_param.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+086	In the Krita age the chief (virtue) is declared to be (the performance of) austerities, in the Treta (divine) knowledge, in the Dvapara (the performance of) sacrifices, in the Kali liberality alone.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the Kṛta Cycle, ‘Austerity’ is the highest; in the Tretā ‘knowledge’ is described as such; in the Dvāpara they call the ‘Sacrifice’ the highest, and ‘Charity’ alone in the Kali-Cycle—(86).
@@ -543,11 +548,6 @@ See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 <details><summary>गोविन्दराजः</summary>
 
 तथा च **तप **इति । **तपः **कृच्छ्रचान्द्रायणादि **कृतयुगे परं **प्रधानतो ऽनुष्ठीयते मनुष्यैः, युगस्वाभाव्यात् । आत्मज्ञानयज्ञदानानाम् अनुषङ्गतः । एवं **त्रेतायां ज्ञानं **परं तपःप्रभृतीनि तु आनुषङ्गिकानि । एवं **द्वापरे यज्ञम् आहुः दानम् कलाव् **इति ॥ १.८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-086	In the Krita age the chief (virtue) is declared to be (the performance of) austerities, in the Treta (divine) knowledge, in the Dvapara (the performance of) sacrifices, in the Kali liberality alone.
 </details>
 
 <details><summary>भारुचिः</summary>

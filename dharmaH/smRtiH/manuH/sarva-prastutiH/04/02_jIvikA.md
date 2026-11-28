@@ -12,6 +12,11 @@ title = "०२ जीविका"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/002_adroheNaiva_bhUtAnAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+002	A Brahmana must seek a means of subsistence which either causes no, or at least little pain (to others), and live (by that) except in times of distress.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [While living in the house], The Brāhmaṇa shall, in normal times, subsist by taking to that means of livelihood which involves no trouble—or very little trouble—to living beings.—(2)
@@ -94,11 +99,6 @@ prescribed for him, marrying in families not belonging to the same Ṛṣi-gotra
 **अद्रोहेणेति** । वक्ष्यमाणवृत्तीनां मध्यात् भूतान्पपीडनेन या जीविका शिलोञ्छादिना तदलाभे ऽल्पोपपीडनेन याचनादिना या ताम् आश्रित्य भार्यादिभरणनित्यानुष्ठानसम्पत्तौ सत्यां **विप्रो** **जीवेत् । **न चात्राल्पजिघांसाभ्यनुज्ञानं, हिंसाया निषिद्धत्वात् । विप्रग्रहणं क्षत्रियादिव्युदासार्थम् । तथापि जीवेत् ॥ ४.२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-002	A Brahmana must seek a means of subsistence which either causes no, or at least little pain (to others), and live (by that) except in times of distress.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 "मैत्रो ब्राह्मण उच्यते" (म्ध् ११.३५) इति एतस्माद् अल्पद्रोहाभ्यनुज्ञानम् अप्य् अयुक्तम् । यतो ऽस्मात् सामर्थाद् इयान् द्रोह उपरोधार्थं कल्पते च हिंसायाम् । एवं च सत्य् अनुपरोधेन भूतानां प्रथमं प्रवर्तितव्यं सर्ववृत्तिषु वक्ष्यमाणासु सर्वार्थत्वाद् अस्य विधेर् उदाहरणम् अयाचितलाभस् तदभावोल्पापराधेनायाचितलाभेनैव सर्ववृत्तिष्व् एतद् विज्ञेयम् । एवं च (?) पुत्रदाराच् च त्ययप्राप्तिः (??) धर्मसङ्ग्रहश् च । तद्विपर्ययस् त्व् अनापत्तिः स्याद् **अनापदीत्य्** एतद् विसेषणम् अस्मिन् वृत्तिप्रकरणे ऽधिकारार्थं जीवन्न् अपि चैवम् ।
@@ -116,6 +116,11 @@ prescribed for him, marrying in families not belonging to the same Ṛṣi-gotra
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/003_yAtrAmAtraprasiddhy-arthaM_svaiH.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+003	For the purpose of gaining bare subsistence, let him accumulate property by (following those) irreproachable occupations (which are prescribed for) his (caste), without (unduly) fatiguing his body.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the accomplishment of bare maintenance, one shall accumulate wealth by means of one’s own irreproachable occupations, without causing trouble to the body.—(3)
@@ -164,11 +169,6 @@ Or, what is meant is that, even though a certain means of accumulating wealth ma
 **यात्रामात्रप्रसिद्ध्यर्थम्** इति । शास्त्रोक्तैः **कर्मभिः** वक्ष्यमाणैः ऋतादिभिर् अनिन्दितैः शरीरक्लेशपरिहारेण भार्याभरणनित्यानुष्ठानपूर्वकं प्राणवृत्तिसमाप्तिपरिमाणम् अर्थसङ्ग्रहं **कुर्वीत**, नाधिकम् इति नियमः ॥ ४.३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-003	For the purpose of gaining bare subsistence, let him accumulate property by (following those) irreproachable occupations (which are prescribed for) his (caste), without (unduly) fatiguing his body.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अक्लेशेन शरीरस्य** यात्राप्रमाणो **धनसञ्चयः** कार्यो नाधिकृतनियम उच्यते । शास्त्रोक्तयात्राप्रमाणत्वं च कर्तव्यं यावान् नित्यकर्मावच्छित्यै पुत्रदारस्थित्यै धनसञ्चयः कल्प्यते, तावान् एवास्य स्यान् न ततो ऽधिकः । केन । **स्वैः कर्मभिर् अगर्हितैः** । स्वैः शास्त्रवद्भिर् (?) इत्य् अर्थः । यस्माद् उच्यते –
@@ -200,6 +200,11 @@ _तानीदानीं कर्माणि नामतस् ताव�
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/004_RtAmRtAbhyA~n_jIvet.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+004	He may subsist by Rita (truth), and Amrita (ambrosia), or by Mrita (death) and by Pramrita (what causes many deaths); or even by (the mode) called Satyanrita (a mixture of truth and falsehood), but never by Svavritti (a dog's mode of life).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall live in “Truth” and “Nectar,” or by “Death” and “Super-death;” or, even by “Truth and Falsehood;” but never by the “living of the dog.”—(4)
@@ -257,11 +262,6 @@ the only two means of livelihood.’
 कैस् तैः कर्मभिर् इत्य् अत आह **ऋतामृताभ्याम्** इति । ऋतादिभिर् अनापदि जीवेत्, न त्व् अनापदि कदाचिद् अपि सेवयेत् ॥ ४.४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-004	He may subsist by Rita (truth), and Amrita (ambrosia), or by Mrita (death) and by Pramrita (what causes many deaths); or even by (the mode) called Satyanrita (a mixture of truth and falsehood), but never by Svavritti (a dog's mode of life).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अनापदि वर्तते नानृतादीन् अप्रसिद्धाण् स्वयम् एव श्लोकद्वयेन व्याकरोति ।
@@ -294,6 +294,11 @@ _नामतो निर्दिश्य स्वरूपतो व्य�
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/005_Rtam_unCha-shilam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+005	By Rita shall be understood the gleaning of corn; by Amrita, what is given unasked; by Mrita, food obtained by begging and agriculture is declared to be Pramrita.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Gleaning and picking is to be known as “Truth;” and what is obtained unasked, “Nectar”; alms obtained by begging is “Death,” and cultivation is declared to be “Super- death.”—(5)
@@ -457,11 +462,6 @@ the Kṣatriya; in the absence of this latter also, the occupation of the Vaiśy
 
 अबाधितस्थानेषु पथि वा क्षेत्रेषु वाप्रतिहृतावकाशेषु **“यत्र यत्रौषधयो विद्यन्ते तत्र तत्राङ्गुलिभ्यामेकैकं कणं समुच्चयित्वा”** इति बौधायनदर्शनात् एकैकधान्यादिगुडकोच्चयनमुञ्छः। मञ्जर्यात्मकानेकधान्योच्चयनं शिलः, उञ्छश्च शिलश्चेत्येकवद्भावः । तत्सत्यसमानफलत्वादृतमित्युच्यते । अयाचितोपस्थितममृतमिव सुखहेतुत्वादमृतम् । प्रार्थिते पुनर्भैक्षं भिक्षासमूहरूपं मरणसमपीडाजननान्मृतम् । एतच्च साग्नेर्गृहस्थस्यभैक्षमपक्वतण्डुलादिरूपं न तु सिद्धान्नं, पराग्निपक्वेन स्वाग्नौ होमाभावात् । कर्षणं च भूमिगतप्रचुरप्राणिमरणनिमित्तत्वाद्बहुदुःखफलकं प्रकर्षेण मृतमिव प्रमृतम् ॥५॥
 </details>
-
-<details><summary>Bühler</summary>
-
-005	By Rita shall be understood the gleaning of corn; by Amrita, what is given unasked; by Mrita, food obtained by begging and agriculture is declared to be Pramrita.
-</details>
 </details>
 </div>
 
@@ -475,6 +475,11 @@ the Kṣatriya; in the absence of this latter also, the occupation of the Vaiśy
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/006_satyAnRtan_tu.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+006	But trade and (money-lending) are Satyanrita, even by that one may subsist. Service is called Svavritti; therefore one should avoid it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Trade is “Truth and Falsehood;” even by that one may live. Service has been declared, to be the “living of dogs;” hence one should avoid it.—(6)
@@ -517,11 +522,6 @@ See Comparative notes for [Verse 4.5].
 **ऋतम्** इति । **सत्यानृतम्** इति । धान्यादिकणोच्चयं शिलोच्चयनं च सत्यतुल्यफलत्वात् **ऋतं** वक्तव्यम् । अप्रार्थितोपनतं अमृतवत् सुखहेतुत्वाद् **अमृतम्** । प्रार्थितं पुनः **भैक्षं** मरणकल्पपीडानुभवात् **मृतम् । कर्षणं **च “भूमिं भूमिशयांश् चैव हन्ति काष्ठम् अयोमुखम्” इति बहूनां मरणनिमित्तत्वात् पर्कर्षेण मृतम् । वाणिज्यं च सत्यानृतव्यवहरणसाध्यत्वात् **सत्यानृतं तेनापि** “कृषिवाणिज्ये वास्वयङ्कृते कुसीदं च” इति गौतमस्मरणात् अस्वयङ्कृतेन जीव्यन्ते । सेवा च दीनदृष्टिसन्दर्शनादिरूपतया **श्ववृत्तिर्** इत्य् उक्ता, तस्मात् तां प्रकृतो ब्राह्मणः परित्यजेत् ॥ ४.५–६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-006	But trade and (money-lending) are Satyanrita, even by that one may subsist. Service is called Svavritti; therefore one should avoid it.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **उञ्छशिलम्** इति द्वन्द्वैकवद्भावः पदार्थद्वयविषयः । **अमृतादि**शब्दाश् **चायाचित**लाभादिष्व् अर्थेषु केनचित् सामान्येन व्याकरणीयाः । याचितप्रतिग्रहवचनात् तत्सहचरिते याजनाध्यापने ऽप्य् अत्र गृह्येते । तथा च वक्ष्यति "चतुर्थस् तु ब्रह्मसत्रेण जीवति" इति । "**सेवा श्ववृत्तिर् व्याख्याता**" इति ब्राह्मणापेक्षम् एतत् प्रकरणाद् विज्ञेयम् । उक्तम् हि "द्विजातिमुख्यवृत्तीनां विधानं श्रूयताम्" (म्ध् ३.२८६) इति । यतो नेतरवर्णविषयम् । तथा च गौतमः- "सर्वे चोत्तरोत्तरं परिचरेयुः" (ग्ध् १०.६५) इत्य् आह । प्रकृत्यपेक्षार्थश् चायं ब्राह्मणस्य सेवाप्रतिषेधः । अनापदीति । तथा च प्रकरणम् उक्तम् अनापदीति । एभिश् च वृत्तिपदार्थैर् यथा योगशास्त्रविहितस्य कर्मणः कर्तव्यापेक्षया ।
@@ -539,6 +539,11 @@ See Comparative notes for [Verse 4.5].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/007_kusUla-dhAnyako_vA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+007	He may either possess enough to fill a granary, or a store filling a grain-jar; or he may collect what suffices for three days, or make no provision for the morrow.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall be either one possessing a granary full of grains, or one possessing a jar full of grains; he may be one possessing what is wanted for three days, or one who does not possess enough for the morrow.—(7)
@@ -644,11 +649,6 @@ have been described by the wise—the first is the possessing of a granary-full 
 स च ब्राह्मणः शौचसङ्कोचतारतम्यापेक्षया **कुसूलधान्यक** इति । कोष्ठकप्रमाणधान्यादिसञ्चयो वा स्यात् द्वादशाहमात्रपर्याप्तधनः । उष्ट्रिकाप्रमाणधान्यादिसङ्ग्रहो वा षडहमात्रपर्याप्तधनः । त्र्यहमात्रपर्याप्तं ईहायां चेष्टायां भवं धान्यादि यस्य तथा वा स्यात् । श्वो भवं धान्यादि यस्य नाद्याह्निकश्वस्तनो वा स्यात् । एवं यात्रामात्रप्रसिद्ध्यर्थं नित्यस्य सञ्चयसङ्कोचधर्मतारतम्यापेक्षयायम् अपवादः ॥ ४.७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-007	He may either possess enough to fill a granary, or a store filling a grain-jar; or he may collect what suffices for three days, or make no provision for the morrow.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 आभिर् वृत्तिभिः सञ्चयविकल्पो ऽयम् उपदिश्यते । ज्ञानवैराग्यवतो हि गृहस्थस्य कृतार्थत्वापेक्षया **कुसूला**दिग्रहणं सञ्चयपरिमाणोपलक्षणपरं न नियमार्थं सञ्चयाधिकरणस्य । **त्र्यहैकिक**पदं तु व्युत्पाद्यते । इह भवम् ऐहिकम् । किं तत् । वृत्तिकर्म प्रकृतम् । त्र्यहैहिकं यस्य सो ऽयं **त्र्यहैहिको** गृहस्थः । **अश्वस्तनिकस्** तु सम्प्रक्षालनको विज्ञेयः । <u>अपरे</u> तूक्तश्लोकार्धम् एवं पठन्ति- "त्र्यहैहिको ह्य् अश्वस्तनिक एव वा" इति । तेषाम् उत्तरश्लोकविरोधः । येनास्मिन् पाठे पञ्च इत्य् एके पठन्ति न चत्वारः । "चतुर्णाम् अपि चैतेषाम्" (म्ध् ४.८) इति वक्ष्यति । यत्र मात्रा प्रसिद्ध्यर्थम् इत्य् अत्र । <u>नन्व्</u> इदम् उक्तम् एव यतो नारभ्यमात्रोक्तं परिहारः । ज्ञानवैराग्यतो गृहस्थस्य कृतार्थत्वापक्षायाः सञ्चयविकल्पो ऽयम् उपदिश्यत इति । अथ वा पूर्वस्थित्यपेक्षो धसञ्चय उक्तः । तथा च यात्राग्रहणम् । तत्र यात्राग्रहणात् तिथिर् (?) इति प्रसिद्धा । इह तु विहितः सुकर्मणः कृतकर्तव्यापेक्षयाथ वार्थवादार्था । पुनः श्रुत्युक्तम् (?) आह –
@@ -679,6 +679,11 @@ _अस्य विकल्पस्य व्यवस्थाम् आह 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/008_chaturNAm_api.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+008	Moreover, among these four Brahmana householders, each later-(named) must be considered more distinguished, and through his virtue to have conquered the world more completely.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among these four Brāhmaṇa-householders, each later should be regarded as superior, and a superior winner of worlds by virtue of his merit.—(8)
@@ -734,11 +739,6 @@ See Comparative notes for [Verse 4.7].
 
 **चतुर्णाम्** इति । एषां कुसूलधान्यकादीनां **चतुर्णाम् अपि **ब्राःमणानां गृहस्थानां मध्यात् यः पश्चात् पठितः स स प्रशस्ततरो बोद्धव्यः । यतो ऽसौ वृत्तिसङ्कोचसंयमधर्मातिशयेन स्वर्गादिलोकजिद् भवति ॥ ४.८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-008	Moreover, among these four Brahmana householders, each later-(named) must be considered more distinguished, and through his virtue to have conquered the world more completely.
-</details>
 </details>
 </div>
 
@@ -752,6 +752,11 @@ See Comparative notes for [Verse 4.7].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/009_ShaT-karmaiko_bhavaty.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+009	One of these follows six occupations, another subsists by three, one by two, but the fourth lives by the Brahmasattra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From among these one follows the six occupations; another lives by three; one again with two; while the fourth lives by “Brahmasattra.’—(9)
@@ -882,11 +887,6 @@ vartayatyeko tribhiranyaḥ pravartate dvābhyamekaścaturthastu brahmasattre vy
 **षट्कर्मेति** । **एषां **गृहस्थानां मध्यात् कश्चिद् गृहस्थः परिग्रहभूयस्त्वाद्यपेक्षया प्राकृतऋतादिकर्मा भवति । **अन्यः **पुनः याजनाध्यापनप्रतिग्रहाणां ब्राह्मणस्य नोदितत्वात् एतैस् **त्रिभिर्** जीवितुं **प्रवर्तते**, अपरः पुनः प्रतिग्रहः प्रत्यवर इति वक्ष्यमाणत्वात् । तत्त्यागेन **द्वाभ्यां **याजनाध्यापनाभ्यां जीवितुं प्रवर्तते । उक्तत्रयापेक्षया **चतुर्थः **पुनर् अध्यापनेन जीवति ॥ ४.९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-009	One of these follows six occupations, another subsists by three, one by two, but the fourth lives by the Brahmasattra.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 वृत्तिप्रकरणात् तावत् याजनादीनां षण्णाम् इह ग्रहणम् । ये ह्य् आहुर् याजनाध्यापनप्रतिग्रहात् त्रीणि कर्माण्य् आपद्विषयाणि, त्रीण्य् असप्तीति (?) ग्रहणं क्षत्रियवैश्यवृत्तय इति, तेषाम् अध्यापनाद् इति वचनात् प्रकृतार्थोपरोधः । सदसत्प्रतिग्रहैकत्वाच् च पश्चात् कुतदृषत्वं (?) । ये ऽपि च ऋतशब्दालाबेन कल्पना न(?) यावन् नयन्ति, तेषाम् अपीमानि पञ्च भवन्ति कुसीदगोरक्षाग्रहणे च सप्त । यत इदं कर्मणां षष्ठम् उच्यते । शिलोञ्छे द्वे कर्मणि या पिता याचते द्वे एव । तथा च कृषिवाणिज्ये एवं षट् कर्माणि भवन्ति, प्रकृतत्वाद् एतेषाम् । अथ वाच्यत्वाद् एकं शिलोञ्छम् अर्थप्रयासत्त्योच्यते । एवं याचितया चित्तप्रतिग्रहो निमित्तभेदे ह्य् एकः याजनाध्यापने तु प्रतिग्रहोदाहरणसामर्थाद् अर्थतो ऽधिकृतसाहचर्येणात्र कृषिवाणिज्ये च द्वे एव । यतो ऽनया कल्पनया षट्कर्माथ वोक्तन्यायोपचारेण शिलोञ्छैकत्वाद् याजनाध्यापनप्रतिग्रहकृषिवाणिज्यानां च पञ्चत्वात् षट्कर्म शिलोञ्छप्रतिग्रहयोर् वा द्विजैकत्वविपर्ययेण एतद् वाच्यं षट् कर्मत्वम् । अपरा तु व्याख्या । याजनाध्यापनप्रतिग्रहास् त्रयः कृषिवाणिज्यकुसीदानि च त्रीणि एवं वा षट्कर्माणि । तथा च गौतमो ऽनापद्य् एवाह "कृषिवाणिज्ये चास्वयङ्कृते, कुसीदं च" (ग्ध् १०.५–६) इति । "**त्रिभिर् अन्यः प्रवर्तते**" इति प्रसिद्धानि त्रीणि याजनाध्यापनप्रतिग्रहा वक्ष्यमाणाः ब्रह्मसत्रसाहचर्यात् गृह्यन्ते । तथा च "प्रतिग्रहः प्रत्यवरः" (म्ध् १०.१०९) इति प्रतिग्रहस्याचोदितत्वाद् द्वाभ्याम् एक इति । याजनाध्यापने गृह्येते । चतुर्थस् तु "**ब्रह्मसत्रेण जीवति**" (म्ध् ४.९) इत्य् अध्यापनं ब्रह्मसत्रं जीवतीति लिङ्गात् । तस्य च नुत्यर्थत्वात् । एतेषां च कर्मणां परस्य ज्यायस्त्वं शास्त्रन्यायसिद्धम् । "निवृत्तिस् तु महाफला" (म्ध् ५.५६) इत्यात्मसंयमः । सङ्कोचेनेति शिलोञ्छायाचितानां च ब्राह्मणवृत्तीनां दर्शनात् । सर्वो ऽयं कृषिवाणिज्यादिवृत्तिप्रपञ्चो ब्राह्मणविषय एवानापदि, प्रकरणात् स्वयङ्कृतो द्रष्टव्यः । तथा च कृत्वोक्तं "द्विजातिमुख्यवृत्तीनां विधानं श्रूयताम् इति" (म्ध् ३.२८६) ।
@@ -904,6 +904,11 @@ vartayatyeko tribhiranyaḥ pravartate dvābhyamekaścaturthastu brahmasattre vy
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/010_vartayaMsh_cha.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+010	He who maintains himself by picking up grains and ears of corn, must be always intent on (the performance of) the Agnihotra, and constantly offer those Ishtis only, which are prescribed for the days of the conjunction and opposition (of the moon), and for the solstices.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Living by gleanings and pickings, intent upon the performance of Agnihotra, one should constantly offer only those Iṣṭi-sacrificer that pertain to the moonless and full-moon days and to the solstices.—(10);
@@ -1001,11 +1006,6 @@ in the Śruti and in the Smṛti,—every one of these should be carried out in 
 **वर्तयन्न्** इति । **शिलोञ्छाभ्यां **जीवन् कर्मान्तरासम्भवे सायम्प्रातर्होमनिष्ठः सन् दर्शपूर्णमासान् पार्वणाख्यान् यागान् केवलान् सर्वकालं कुर्यात् ॥ ४.१० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-010	He who maintains himself by picking up grains and ears of corn, must be always intent on (the performance of) the Agnihotra, and constantly offer those Ishtis only, which are prescribed for the days of the conjunction and opposition (of the moon), and for the solstices.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अथ वा कृतार्थो विरक्तश् च सर्वा एवान्याय्यवृत्तीः परित्यज्य शिलोञ्छाभ्याम् **[१६३]** एव वर्तयेत् । यथा कथञ्चिद् यापयन् वृत्त्यात्मनाग्निहोत्रपरायण एव स्याद् इष्टीश् च कुर्यान् न काम्याः । किं तर्हि । **पार्वायणान्तीयाः** । पर्व चायनं च पर्वायणे । तयोर् अन्तः पर्वायणान्तः । तत्र भवाः **पार्वायणान्तीयाः** दर्शपूर्णमासनवयज्ञाग्रायणाः (?) । एवं च सति सर्वकाम्यप्रतिषेधो ऽस्याम् अवस्थायां (?) न केवलम् इष्टीनाम् एव । तथा च सत्य् अयम् ।
@@ -1023,6 +1023,11 @@ in the Śruti and in the Smṛti,—every one of these should be carried out in 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/011_na_lokavRttam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+011	Let him never, for the sake of subsistence, follow the ways of the world; let him live the pure, straightforward, honest life of a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall never follow the worldly way, for the sake of subsistence; he shall live the straightforward, sincere and pure life of the Brāhmaṇa.—(11)
@@ -1091,11 +1096,6 @@ life, in due accordance with his age, intelligence, wealth, dress, learning and 
 **न लोकवृत्तं वर्तेतेति **। जीविकार्थं च विचित्रपरिहासादि न कदाचिद् अपि कुर्यात् । अपि तु स्वनोदितत्वेन अपापां श्रद्धावतीं दम्भादिव्याजशून्यां ब्राह्मणवृत्तिम् अनुतिष्ठेत् ॥ ४.११ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-011	Let him never, for the sake of subsistence, follow the ways of the world; let him live the pure, straightforward, honest life of a Brahmana.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 लोकवृत्तं नाम विचित्रकथापरिहासादिभिः श्लोकावर्जनम् । तत् नानुतिष्ठेत् कदाचिद् अपि वृत्तिहेतोः । न तु परानुग्रहार्थं करुणया । कथं तर्हि । **अजिह्माम्** अकुटिलां केनचिद् व्याजेनाशठां श्रद्दधानस् तथा **शुद्धां** सर्वोपधापरित्यागेनाथ वा अजिह्मार्थविवरणम् इदम् । **अशठाम्** इत्य् एवं **शुद्धां जीवेद् ब्राह्मणजीविकाम्** । जीवनार्था वृत्तिर् जीविकाशब्देनोच्यते, गुणतस् तत्प्रकरणात् । एवं च सत्य् आङ्गम् **अशठां शुद्धाम्** । इत्य् एतानि तद्वेशेषणानि द्रष्टव्यानि । सर्वस्यैवास्य वृत्तिप्रकर्षस्य वैराग्यावस्थानस्य कारणम् अधुनोच्यते ।
@@ -1121,6 +1121,11 @@ _त्र्यहैहिकाश्वस्तनवृत्तिदा�
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/012_santoSham_param.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+012	He who desires happiness must strive after a perfectly contented disposition and control himself; for happiness has contentment for its root, the root of unhappiness is the contrary (disposition).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who wants happiness should adopt perfect contentment and remain self-controlled. Happiness has its root in contentment, and its opposite is the root of unhappiness.—(12)
@@ -1162,11 +1167,6 @@ This verse is quoted in *Aparārka* (p. 170), which remarks that in connection w
 **सन्तोषम्** इति । यः समः स्वर्गादिद्षृष्टादृष्ट**सुखार्थी** स्वोपगतविशेषस्पृहः सन् आत्मकुटुम्बनित्यानुष्ठानमात्रपर्याप्तसञ्चय एव धने प्रकृष्टा निवृत्तिम् आश्रित्य धनार्जनं सञ्चयं कुर्यात् यस्मात् **सन्तोष**प्रभवं समस्तस्वर्गादिदृष्टादृष्टसुखम् । असन्तोषः पुनर् दृष्टादृष्टदुःखस्य मूलम् ॥ ४.१२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-012	He who desires happiness must strive after a perfectly contented disposition and control himself; for happiness has contentment for its root, the root of unhappiness is the contrary (disposition).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 निरतिशयादृष्टसुखार्थी दृष्टशमसुखार्थी चैवं संयतो भवेत् यथावोचाम । यस्माद् इह लोके दृष्टं "**सन्तोषमूलं हि सुखं दुःखमूलं विपर्ययः**" इति । दृष्टाच् च दृष्टम् अपि अनुमेयम् एवं च न सुखार्थम् असत्प्रतिग्रहेष्टे प्रसज्येत सत्प्रतिग्रहादिषु यावतातिरेकेण ।
@@ -1184,6 +1184,11 @@ This verse is quoted in *Aparārka* (p. 170), which remarks that in connection w
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/013_ato.anyatamayA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+013	A Brahmana, who is a Snataka and subsists by one of the (above-mentioned) modes of life, must discharge the (following) duties which secure heavenly bliss, long life, and fame.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born Accomplished Student, living by any one of these means of livelihood, should keep these (following) observances, which are conducive to heaven, longevity and fame.—(13)
@@ -1245,11 +1250,6 @@ complaint, the functions of the householder, purifies ten ancestors and ten desc
 **अत** इति । आसां मृतादीनां मध्यात् **अन्यतमया वृत्त्या **केवलया “षट्कर्मैको भवत्य् एषाम्” इत्याद्युक्तत्वात्, वृत्त्यन्तरसहितया **जीवन् स्नातको **ब्राह्मणः स्वर्गायुःख्यातिनिमित्तानीमानि वक्ष्यमाणानि **व्रतानि **“इदं मया कर्तव्यम्, इदम् न” इत्य् एवं मनःसङ्कल्पविशेषात्मकानि सदा **धारयेत् **। न च फलश्रवणे ऽप्य् एषाम् अनित्यतापत्तिः, “एतावता हैनसा वियुक्तो भवति” इति श्रुतौ नित्यत्वेनाम्नानात् ॥ ४.१३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-013	A Brahmana, who is a Snataka and subsists by one of the (above-mentioned) modes of life, must discharge the (following) duties which secure heavenly bliss, long life, and fame.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पूर्वोक्तप्रकरणोपसंहारोपन्यासार्थः श्लोकः । <u>अत्र केचिद्</u> **अन्यतमयेति** वचनाद् वृत्तिसमुच्चयं नेच्छन्ति । तद् अयुक्तम् "षट्कर्मैको भवत्य् एषाम्" (म्ध् ४.९) इत्य् एवमादिनात्र साक्षाद् एव समुच्चयश्रवणात् । तस्माद् या एता वृत्तयो ऽभिहितास् ता सामन्यतमया लोके यथापदेशं समस्तया व्यस्तया वा जीवन् इत्य् उक्तानुवादमात्रम् एतत् । <u>अपरे</u> पुनः "**अन्यरया**" (?) इति पठन्ति । तद् अयुक्तम् । बहुत्वाद् वृत्तीनाम् असम्पदो हाल्पदोहापेषयैतद् युक्तम् । सर्ववृत्तिविशेषणत्वाद् एतयोस् तथा । कृतं तयोस् तद्विशेषणव्याख्यानम् अनेकवृत्त्युपदेशं च साक्षान् न श्रुतं त्वया (?) । नूनं षट्कर्मैको भवति इत्य् एवमादि । येनैवम् आचक्ष्वेति "**व्रतानीमानि धारयेत्**" इत्य् अस्य विधेः स्तुत्युपचयपक्षेणेदम् आरभ्यते ।
@@ -1267,6 +1267,11 @@ complaint, the functions of the householder, purifies ten ancestors and ten desc
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/014_vedoditaM_svakam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+014	Let him, untired, perform daily the rites prescribed for him in the Veda; for he who performs those according to his ability, attains to the highest state.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall, without sloth, always perform his own duty as prescribed in the Veda. Performing that, to the best of his ability, he attains the highest state.—(14)
@@ -1321,11 +1326,6 @@ The verse is quoted also in *Parāśaramādhava* (Ācāra, p. 52),—and in
 **वेदोदितम्** इति । श्रौतं **वेदोदितं **स्मार्तम् अपि च वेदमूलत्वाद् वेदोक्तम्, **स्वकं** यद् यस्य **चोदितं कर्म नित्यं न** काम्यं तद् अनलसः सन् **कुर्यात् **यस्माद् **यथाशक्ति कुर्वन् **नित्यकरणात् पापक्षयानुत्पत्तिभ्यां काम्याकरणाच् च फलहेतुधर्माभावे सति शुभाशुभकार्याभावान् मोक्षं **प्राप्नोति** ॥ ४.१४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-014	Let him, untired, perform daily the rites prescribed for him in the Veda; for he who performs those according to his ability, attains to the highest state.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 वेदोदितानि होत्रादेर् अनुवादो ऽयं दृष्टान्तो ऽर्थवादार्थः । यथैव हि वेदोदितम् अग्निहोत्राद्यत्यन्तोकृष्टसाधनानुष्ठानैर् एवं वक्ष्यमाणव्रतधारणम् इत्य् एव स्तुतिर् एवम् एव तत् । तथा च "**स्वर्ग्याणीमानि**"(म्ध् ४.१३) इत्य् उक्तम् अथ वोपलम्भप्रसङ्गात् स्मरणस्य लोकवद् वोदिदितम् एवेदं व्रतधारणम् । उत्सन्नस्मरणपक्षे वेदलिङ्गप्रभवत्वे ऽपि वा स्मरणस्यानुमानपक्षम् आश्रित्य पूर्ववद् अस्य स्तुत्यर्थता वचनीया । स्वातन्त्र्यपक्षे ऽपि स्मृतेर् वेदलिङ्गतायाः प्रामाण्याद्द्युक्तापूर्वा (?) (प्रामाण्यम् उक्तपूर्वम्?) । यद् अस्य स्तुतिर् अप्रयुक्तोपमा वैतत् । कथम् । वेदोदितम् इव वेदोदितम् । किं पुनस् तत् । इदं वक्ष्यमाणं व्रतधारणं स्वकं कर्म । कस्य । स्नातकस्य पुरुषधर्माख्यम् । यस्माद् अतो **नित्यं कुर्याद्** एतद् **अतन्द्रितः** । अस्य फलविधिस् **तद् धि कुर्वन् यथाशक्ति प्राप्नोति परमां गतिम्** इति यतश् चैतद् एवम् अतस् तानीमानीय् उच्यन्ते ।
@@ -1356,6 +1356,11 @@ The verse is quoted also in *Parāśaramādhava* (Ācāra, p. 52),—and in
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/015_nehetA-rthAn_prasangena.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+015	Whether he be rich or even in distress, let him not seek wealth through pursuits to which men cleave, nor by forbidden occupations, nor (let him accept presents) from any (giver whosoever he may be).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not seek wealth by clinging pursuits, or by contrary acts; nor when wealth is already there; nor from here and there, even in times of distress.—(15)
@@ -1405,11 +1410,6 @@ greatest importance to Dharma.’
 
 **न कल्पमानेष्व् अर्थेष्व्** इति । गीतादिना अर्थान् नार्जयेत् । नाप्य् अयाज्ययाजनादिना । न चावश्यकर्तव्यसमर्थेषु धनेषु सत्सु । नाप्य् आत्मकुटुम्बधर्मावसादे ऽपि उपायान्तरसम्भवे सति जातिकर्मदुष्टान् उपायान्तराभावे च आपद्य् असत्प्रतिग्रहं वक्ष्यति ॥ ४.१५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-015	Whether he be rich or even in distress, let him not seek wealth through pursuits to which men cleave, nor by forbidden occupations, nor (let him accept presents) from any (giver whosoever he may be).
-</details>
 </details>
 </div>
 
@@ -1423,6 +1423,11 @@ greatest importance to Dharma.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/016_indriyArtheShu_sarveShu.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+016	Let him not, out of desire (for enjoyments), attach himself to any sensual pleasures, and let him carefully obviate an excessive attachment to them, by (reflecting on their worthlessness in) his heart.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not, through desires, become addicted to any sensual objects; excessive addiction to these, he shall avoid by mental reflection.—(10)
@@ -1479,11 +1484,6 @@ conducive to the accomplishment of Dharma, for all men.’
 **इन्द्रियार्थेष्व्** इति । चक्षुरादिग्राह्येषु रूपादिषु **सर्वेषू**पभोगहेतोः सङ्गं न कुर्यात् । अप्रतिषिद्धानाम् अपि चैतेषां स्वदारगमनादीनां अतिशयप्रसङ्गम् अस्थिरत्वादिदोषसम्भावनया **मनसा **सम्यङ् **निवर्तयेत् **॥ ४.१६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-016	Let him not, out of desire (for enjoyments), attach himself to any sensual pleasures, and let him carefully obviate an excessive attachment to them, by (reflecting on their worthlessness in) his heart.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अप्रतिषिद्धेष्व् अपि स्वदारगमनादिषु सन्निवर्तयेद् इति परमार्थप्रसङ्ख्याने नाध्यात्मविद्यानुशासनाख्यो नेति । कस्मात् पुनर् एतत् । "एवं यत्नतः" इत्य् अत्रोच्यते । कथं नामायम् एवं तत् (?) ।
@@ -1505,6 +1505,11 @@ conducive to the accomplishment of Dharma, for all men.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/017_sarvAn_parityajed.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+017	Let him avoid all (means of acquiring) wealth which impede the study of the Veda; (let him maintain himself) anyhow, but study, because that (devotion to the Veda-study secures) the realisation of his aims.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall relinquish all things impeding study, maintaining himself somehow. This is what constitutes the accomplish ment of his aims.—(17)
@@ -1547,11 +1552,6 @@ Those things that are likely to obstruct Vedic study should all be relinquished;
 **सर्वान्** इति । **यथा तथा यापयंस् त्व्** इति । येन केनचिद् उपायेनात्मादीन् बिभ्रद् वेदाध्ययनविरुद्धान् अप्रतिषिद्धान् अपि विषयोपभोगादीन् अर्थान् **परित्यजेत्** यस्मात् सा ब्राह्मणस्य **कृतकृत्यता **यत् स्वाध्यायपरत्वम् ॥ ४.१७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-017	Let him avoid all (means of acquiring) wealth which impede the study of the Veda; (let him maintain himself) anyhow, but study, because that (devotion to the Veda-study secures) the realisation of his aims.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यं (?) नित्यस्वाध्यायत्वम् । तथा च ब्राह्मणम् "यं यं क्रतुम् अधीते तेन तेन हास्य क्रतुनेष्टं भवति" इति ।
@@ -1569,6 +1569,11 @@ Those things that are likely to obstruct Vedic study should all be relinquished;
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/018_vayasaH_karmaNo.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+018	Let him walk here (on earth), bringing his dress, speech, and thoughts to a conformity with his age, his occupation, his wealth, his sacred learning, and his race.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should wander about in this world, keeping his dress, speech and thoughts in conformity with his age, occupation, wealth, learning and family.—(18)
@@ -1641,11 +1646,6 @@ manner, in conformity with his age, intelligence, wealth, speech, dress, learnin
 <details><summary>गोविन्दराजः</summary>
 
 **वयस** इति । **वयसो **ऽनुष्ठानस्य धनस्य **श्रुतस्य** कुलस्य आनुरूप्येण वेषकथाबुद्धीर् आचरन् लोके व्यवहरेत् । तद् यथा स्नानस्रगनुलेपनादिकरणं त्रिवर्णानुसारिणी च वाङ्मनसीत्य् एवं कर्मादिष्व् अप् योज्यम् ॥ ४.१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-018	Let him walk here (on earth), bringing his dress, speech, and thoughts to a conformity with his age, his occupation, his wealth, his sacred learning, and his race.
 </details>
 
 <details><summary>भारुचिः</summary>

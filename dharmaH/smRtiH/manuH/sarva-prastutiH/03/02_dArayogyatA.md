@@ -20,6 +20,11 @@ _यादृशी कन्या वोढव्या ताम् इदा
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/005_asapiNDA_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+005	A damsel who is neither a Sapinda on the mother's side, nor belongs to the same family on the father's side, is recommended to twice-born men for wedlock and conjugal union.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 She who is not a “sapiṇḍa” of one’s mother, not of the same “Gotra” as his Father, and who is not born of (unlawful) intercourse—has been recommended for marriage.—(5)
@@ -355,11 +360,6 @@ one may marry the girl who is in the third grade on the mother’s side and in t
 **असपिण्डेति **। “सपिण्डता तु पुरुषे सप्तमे विनिवर्तते” (म्ध् ५.६०) इत्य् अपि वक्ष्यति । अतो **मातुर् असपिण्डा** मातामहप्रमातामहान्वयजाता या न भवति या च मातामहीप्रमातामह्याद्यन्वयजाता च भवति, **पितुश् च या **समानगोत्रा **न भवति,** चशब्दात् सपिण्डाच् च पितृष्व्स्रादिसन्ततिजाता या **न भवति सा द्विजातीनां मैथुनादौ दारकर्मणि **योज्या ॥ ३.५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-005	A damsel who is neither a Sapinda on the mother's side, nor belongs to the same family on the father's side, is recommended to twice-born men for wedlock and conjugal union.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 "सपिण्डता तु पुरुषे सप्तमे विनिवर्तते" (म्ध् ५.६०) इति वक्ष्यति । पुरुषग्रहणं च त्र्यर्थम् अपि विज्ञेयम् । ज्ञातिनिर्देशाच् छ्रुतौ च प्राप्तिप्रतिषेधात् । अग्निचित्यां हि पुरुषराशिर् उपदधातीत्य् उत्पदम् आह न वैश्यस्य न स्त्रियाः ।(?) मातुर् ग्रहणं चात्र मातृसम्बन्धमात्रग्राहकं विज्ञेयम् । एवं पितृग्रहणम् अपि । तथा च गौतमः- "ऊर्ध्वं सप्तमात् पितृबन्धुभ्यः, बीजिनश् च, मातृबन्धुभ्यः पञ्चमात्" (ग्ध् ४.३–५) इति । तद् एवं विज्ञायते यथावोचामेति सपिण्डता च मातृबन्धूनां भूतपूर्वगत्या विज्ञेयम् । असगोत्रायाः पितुः असपिण्डा चेत्य् एक इति वर्तते । असगोत्रग्रहणेन पितृव्यादिसगोत्रस्त्रीमात्र(तृ?)पर्युदासम् असिद्दा ? (पर्युदासो ऽसिद्धो) भवति । पितृष्वसुर् अग्नय[ः] <u>स्त्रीणास् तु (न्तु) यथोक्ताद् अवधेः परतः प्राप्तये च शब्दः</u> (??) प्रवर्तते (?) । **असगोत्रा या च पितुर् असपिण्डा या च मातुः** । भगिन्या इत्य् अर्थः । यद्य् अपि मातुर् अन्यस्त्रीणां यदा न समकालम् एव तद् असपिण्डत्वं भवति । तथा पिण्डग्रहणं तदन्वयस्त्रीणाम् उपलक्षणं भूतपूर्वगत्या विज्ञेयं सामर्थ्यात् । तथा च गौतमीयोदाहरणम् उक्तम् । एवं च सति येयम् ईदृशी सा हि **प्रशस्ता स्त्रीति** नियमस् तदन्तरीयकः (?) । पुनर् **दारकर्मणी** कीदृशे प्रजासङ्गत्व (सन्तति?) **[१०८]** कर्मोपलक्षणे एवं चासौ शास्वतो गृह्यमाणा **अमैथुनी** इव सम्पद्यते । नियमस्तुतिमात्रम् इदम् । ततश् च सर्वम् अपि गृह्यमाणा अमैथुनीति शक्यं वक्तुम् । मिथुनप्रयोजना तत्र भवा मैथुनी । अन्यस् त्व् आह विधवानियोगे जातिमात्रत्वा वेति वचनात् पित्रादिभिर् उत्पन्ना असपिण्डा अपि सती मातुर् असगोत्रा च पितुर् वर्ज्यैव, **अमैथुनीति** वचनात् । सा हि पित्रादीनां मिथुनसम्भवाम् अपरः दारकमण्य् **अमैथुने** विग्रहार्थौ च पूर्वच् च । अपरो दारकर्मणि मैथुने च श(ग?)वाध्याहारेणैवमर्थं दर्शयति । अन्ये पुनर् **दारकर्मणि मैथुनीत्य्** एवं मन्यन्ते । सर्वपारे त्व् अविरोधः स्मृत्यर्थस्य । इदानीं प्रतिषिद्धविषयो ऽयम् अपरो नियम आरभ्यते ।
@@ -379,6 +379,11 @@ one may marry the girl who is in the third grade on the mother’s side and in t
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/006_mahAnty_api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+006	In connecting himself with a wife, let him carefully avoid the ten following families, be they ever so great, or rich in kine, horses, sheep, grain, or (other) property,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In female connection one should avoid these (following) ten families,—even though they be great and rich in the possession of cattle, goat and sheep and grain.—(6).
@@ -447,11 +452,6 @@ for sacrificial performances; and one in which the Veda is unknown is to be avoi
 **महान्तीति ।** इमानि **दश** वक्ष्यमाणानि **कुलानि **उत्कृष्टान्य् अपि **वर्जयेत् **। तथा गोछागाविमहिषीधान्यैः **समृद्धान्य् अपि** तच्छीलप्रजोत्पत्तिव्याधिसङ्क्रान्तिपरिहारार्थं शास्त्रनोदनासामर्थाद् अदृष्टदोषपरिहारार्थं च दारसम्बन्धीति **वर्जयेत्** ॥ ३.६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-006	In connecting himself with a wife, let him carefully avoid the ten following families, be they ever so great, or rich in kine, horses, sheep, grain, or (other) property,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पर्युपसर्गपाठसामर्थ्याच् च न केवलं **स्त्रीसम्बन्धे**, भोजनादिष्व् अपि वर्जयेद् इति । तानि पुनः।
@@ -477,6 +477,11 @@ for sacrificial performances; and one in which the Veda is unknown is to be avoi
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/007_hIna-kriyan_niSh-puruSham.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+007	(Viz.) one which neglects the sacred rites, one in which no male children (are born), one in which the Veda is not studied, one (the members of) which have thick hair on the body, those which are subject to hemorrhoids, phthisis, weakness of digestion, epilepsy, or white or black leprosy.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Such families as—(1) that in which the sacred rites have been abandoned, (2) which is male-less, (3) which is devoid of the Veda, (4) members of which are woolly and subject to (5) piles, (6) phthisis, (7) dyspepsia, (8) epilepsy, (9) leucoderma, and (10) leprosy.—(7)
@@ -552,11 +557,6 @@ See Comparative notes for [Verse 3.6].
 **हीनक्रियम्** इति । यागादिरहितं कुलं स्त्रीजनकं वेदशून्यं प्रचुरतरदीर्घतोमाञ्चितम् आर्शाद्याख्यव्याध्युपेतं राजयक्ष्मिमन्दाग्न्यपस्मारिश्वित्रिकुष्ठीनां च सम्बन्धीनि **कुलानि वर्जयेत् **॥ ३.७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-007	(Viz.) one which neglects the sacred rites, one in which no male children (are born), one in which the Veda is not studied, one (the members of) which have thick hair on the body, those which are subject to hemorrhoids, phthisis, weakness of digestion, epilepsy, or white or black leprosy.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **हीनक्रिया**दीनां यद्य् अप्य् अदृष्टं प्रधानतः प्रयोजनं वर्जने । तथापि दृष्टम् उपवर्ण्यते । स्वभावानुषक्तं हीनक्रियकुलसम्पर्के मातुलप्रीत्या प्रजावतीच्छच्छिला (?) स्यात् । एतेन **निश्छन्दो** व्याख्यातः । **निष्पुरुषं** च सन्तत्यभावदोषाद् **रोमशं** ताकृशस्य दोषश्रवणात् । एवं हि श्रुतिः- "निरृतये विकृत देहं रोमशम् आलभेत । सा ह्य् अस्य स्वका तनुः" इति । अर्शसादिकुलानां तु सङ्क्रान्तिभयाद् वर्जनम् । एवं तु ह्य् आयुर्वेदकृत् "सर्वे सङ्क्रमिणो रोगा वर्जयित्वा प्रवाहिकाम्" इति । वक्ष्यति च । "एवं कर्मावशेषेण जायन्ते सद्विगर्हिताः" (म्ध् ११.५३) इति । ततः कर्मदोषशेषेणापि वर्ज्यः । अयं चान्यो नियमः । अप्रतिषिद्धकुलरोगाम् अपि च सकुलतया ।
@@ -582,6 +582,11 @@ See Comparative notes for [Verse 3.6].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/008_nodvahet_kapilAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+008	Let him not marry a maiden (with) reddish (hair), nor one who has a redundant member, nor one who is sickly, nor one either with no hair (on the body) or too much, nor one who is garrulous or has red (eyes),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should hot marry a maiden with tawny hair, nor one with superfluous limbs, nor one who has disease, nor one who has either no hair or too much hair, nor one who is garrulous, nor one with reddish eyes.—(8)
@@ -667,11 +672,6 @@ one named after a Veda, or a river, or a mountain or a Gandharva, or an asterism
 **नोद्वहेद्** इति । **कपिलां** षडङ्गुल्या **अधिकां** व्याधिताधिष्ठितां अविद्यमानलोमां बहुभाषिणीं पिङ्गलां वर्णां कन्यां नोपयच्छेत् ॥ ३.८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-008	Let him not marry a maiden (with) reddish (hair), nor one who has a redundant member, nor one who is sickly, nor one either with no hair (on the body) or too much, nor one who is garrulous or has red (eyes),
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **कपिलां** केशतः, **पिङ्गलाम्** अक्षितः । ऋज्व् अन्यत् ।
@@ -689,6 +689,11 @@ one named after a Veda, or a river, or a mountain or a Gandharva, or an asterism
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/009_narxa-vRxa-nadI-nAmnIn_nA-ntya-parvata-nAmikAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+009	Nor one named after a constellation, a tree, or a river, nor one bearing the name of a low caste, or of a mountain, nor one named after a bird, a snake, or a slave, nor one whose name inspires terror.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor one bearing the name of an asterism, or a tree, or a river; nob one having her hame after a low caste or a mountain; nor one named after a bird, a serpent or a slave; nor one with a hame inspiring terror.—(9)
@@ -760,11 +765,6 @@ See Comparative notes for [Verse 3.8].
 **नेति** । नक्षत्रवृक्षनदीम्लेच्छपर्वतपक्षिसर्पदासभ्यानकनामिकां कन्यां नोद्वहेत्॥ ३.९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-009	Nor one named after a constellation, a tree, or a river, nor one bearing the name of a low caste, or of a mountain, nor one named after a bird, a snake, or a slave, nor one whose name inspires terror.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **ऋक्षनाम्नी** कृत्तिकारोहिणी । **वृक्षनाम्नी** शिंशपा क्षीरिका । **नदिनाम्नी** यमुना नर्मदा । **अन्त्यनाम्नी** ह(श?)बरिका कैवर्तिका लुब्धका । **पर्वतनाम्नी** विन्ध्या मलया । **पक्षिनाम्नी** शेय्ना कोकिला शारिका । **अहिनाम्नी** व्याला सर्पिणी । **प्रेषनाम्नी** दासी चेटी **[१०९]** किङ्करी । **भीषणनाम्नी** राक्षसी पिशाची डाकिनी ।
@@ -782,6 +782,11 @@ See Comparative notes for [Verse 3.8].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/010_avyangAngIM_saumya-nAmnIm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+010	Let him wed a female free from bodily defects, who has an agreeable name, the (graceful) gait of a Hamsa or of an elephant, a moderate (quantity of) hair on the body and on the head, small teeth, and soft limbs.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should marry a female with a faultless body, bearing an agreeable name, having her gait like that of the swan or the elephant, having fine hair on the body and the head, and fine teeth, and with tender limbs.—(10)
@@ -884,11 +889,6 @@ relations, good character, and auspicious marks, and who is free from disease.�
 **अव्यङ्गाङ्गीम्** इति । अविकलाङ्गीम् अप्रसन्ननाम्नीं राजहंसगजरुचिरगमनाम् अनतिस्थूलरोमकेशदन्तां कोमलाङ्गीं कन्यां परिणयेत् । विधिनिषेधभयाभिधानं निर्दोषसगुणकन्योपयमने ऽभ्युदयार्थम् ॥ ३.१० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-010	Let him wed a female free from bodily defects, who has an agreeable name, the (graceful) gait of a Hamsa or of an elephant, a moderate (quantity of) hair on the body and on the head, small teeth, and soft limbs.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विधिप्रतिषेधयोर् विधानाद् उभयत्राभ्युदयः अनुवादो वान्यतरस्य विकल्पः । उभयवर्जितानाम् –
@@ -906,6 +906,11 @@ relations, good character, and auspicious marks, and who is free from disease.�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/011_yasyAs_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+011	But a prudent man should not marry (a maiden) who has no brother, nor one whose father is not known, through fear lest (in the former case she be made) an appointed daughter (and in the latter) lest (he should commit) sin.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wise man shall not mabry one who has no brother, or whose father is not known; for fear of her having the character of the “appointed daughter.”—(11)
@@ -1004,11 +1009,6 @@ who has her father, mother and brother and is endowed with all suitable qualitie
 > यच् चैतत् “नर्क्षवृक्षनदीनाम्नीम्” (म्ध् ३.९) इत्यादि तद् अपि दृष्टगुणदोशानुविधायि विधिनिषेधप्रकरणमध्यपाठात् तदेकयोगक्षेमम् एव । तथा च मनुना सपिण्डादिप्रतिषेधम् अभिधायानन्तरं “महान्त्य् अपि समृद्धानि” (म्ध् ३.६) इत्यादिपृथक्करणम् उपक्रम्य हीनक्रियम् इत्यादि नर्क्षवृक्षेत्यादि चैत्प्रकरणे ऽभिहितम्॥ ३.११ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-011	But a prudent man should not marry (a maiden) who has no brother, nor one whose father is not known, through fear lest (in the former case she be made) an appointed daughter (and in the latter) lest (he should commit) sin.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ययोर्जन्यजनकभावेन **पिता न ज्ञायते भ्राता वा** ताम् अपि लोकवचनात् केवलाद् उपेयात् । अथ वा पितृग्रहणं कुलसंविज्ञानार्थम् । **पुत्रिकाधर्मश्** च तदा नोभयशेषः । भार्योपसङ्ग्रहप्रकरणात् । इदानीम् अर्थप्राप्तस्य सवर्णाग्रहणस्य क्रमविधिर् अयं शिष्यत् –
@@ -1026,6 +1026,11 @@ who has her father, mother and brother and is endowed with all suitable qualitie
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/012_savarNAgre_dvijAtInAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+012	For the first marriage of twice-born men (wives) of equal caste are recommended; but for those who through desire proceed (to marry again) the following females, (chosen) according to the (direct) order (of the castes), are most approved.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For ‘twice-born men’ a girl of equal caste has been recommended for the first marriage-sacrament. For those, however, who take to it through mere desire, these (following) should be regarded as preferable in due order.—(12)
@@ -1137,11 +1142,6 @@ wife, there are three wives, in the descending order of the castes; for the Śū
 **सवर्णेति । द्विजातीनाम्** आदौ पाणिग्रहणे समानजातीया युक्तेत्य् उक्तम् । **कामात् **पुनर् दारकर्मणि **प्रवृत्तानां इमाः **वक्ष्यमाणवर्णक्रमेण श्रेष्ठाः **स्युः** ॥ ३.१२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-012	For the first marriage of twice-born men (wives) of equal caste are recommended; but for those who through desire proceed (to marry again) the following females, (chosen) according to the (direct) order (of the castes), are most approved.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सिद्धापि सती सवर्णेतरविप्रक्षय उच्यते । अर्थाच् च **सवर्णा**ग्रहणं शास्त्रात् । क विधिः (?) । एवं च द्वितीयैषा स्मृतिः । पूर्वस्या अस्य स्तुत्यर्थम् अर्थवादः प्रक्रियते ।
@@ -1159,6 +1159,11 @@ wife, there are three wives, in the descending order of the castes; for the Śū
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/013_shUdraiva_bhAryA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+013	It is declared that a Sudra woman alone (can be) the wife of a Sudra, she and one of his own caste (the wives) of a Vaisya, those two and one of his own caste (the wives) of a Kshatriya, those three and one of his own caste (the wives) of a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Śūdra, the Śūdra girl. alone has been ordained to be the wife; for the Vaiśya, she as also the girl of his own caste; for the Kṣatriya, those two as also the girl of his own caste; and for the Brāhmaṇa those three as also the girl of his own caste—(13).
@@ -1216,11 +1221,6 @@ See Comparative notes for [Verse 3.12].
 **शूद्रेति **। **शूद्रय्स् शूद्रैव भार्या **भवति, नोत्कृष्टापकृष्टे शूद्रा वैश्या च वैश्यस्य मन्वादिभिः स्मृता । वैश्या शूद्रा क्षत्रिया च क्षत्रियस्य, क्षत्रिया वैश्या ब्राह्मणी च ब्राह्मणस्य । “शूद्राम् प्य् एके मन्त्रवर्जम्” इति **वसिष्ठ**स्मरणात् मन्त्रवर्जिता एषां द्विजातीनां भवति ॥ ३.१३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-013	It is declared that a Sudra woman alone (can be) the wife of a Sudra, she and one of his own caste (the wives) of a Vaisya, those two and one of his own caste (the wives) of a Kshatriya, those three and one of his own caste (the wives) of a Brahmana.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 कथं पुनर् अयं श्लोकः क्रमविधिस्तुत्यै भवति येनासवर्णा सवर्णया समानी करोति तथा च सङ्ख्यानिर्देशः । "**ताश् च स्वा चाग्रजन्मनः**" इत्य् एवमाद्या एवं च दृष्टान्तार्थं शूद्रेपादानम् । **शूदैव भार्या शूद्रस्य** यथा तथा द्विजातीनाम् अप्य् एता यथोक्ता भवन्ति एवं सवर्णासामेनेतरास्तुता भवन्ति । एवं च स्वार्थं प्रवृत्ताव् अप्रत्यवायः निवृत्तौ वाभ्युदयः । "निवृत्तिस् तु महाफला" (म्ध् ५.५६) इति वचनात् । प्रथमकल्पासम्भवे चानुकल्प इदानीम्म् भार्याग्रहणस्योच्यते ।
@@ -1238,6 +1238,11 @@ See Comparative notes for [Verse 3.12].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/014_na_brAhmaNa-xatriyayor.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+014	A Sudra woman is not mentioned even in any (ancient) story as the (first) wife of a Brahmana or of a Kshatriya, though they lived in the (greatest) distress.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Under no circumstance whatsoever has a Śūdra wife been ordained for the Brāhmaṇa and the Kṣatriya,—even though these be placed in peril.—(14)
@@ -1365,11 +1370,6 @@ See Comparative notes for [Verse 3.13].
 **नेति** । **ब्राह्मणक्षत्रिययोः **गार्हस्थ्यप्रतिपत्तये सवर्णाम् अलभमानयोः **कस्मिंश्चिद् **अपीतिहासाख्याने **शूद्रा भार्या **नोपवर्ण्यते । एवं च शूद्रानिषेधात् ब्राह्मणक्षत्रिययोः सवर्णालाभे अस्ति क्षत्रियवैश्योद्वाह इति गम्यते । तत्रापि च धनपद्यादौ क्षत्रप्रवृत्तिदर्श्नात् प्रथमं ब्राह्मणस्य क्षत्रियोद्वाहः । तदलाभे वैश्योद्वाहः ॥ ३.१४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-014	A Sudra woman is not mentioned even in any (ancient) story as the (first) wife of a Brahmana or of a Kshatriya, though they lived in the (greatest) distress.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इयं तृतीया स्मृतिः । का पुनर् आपद् अनयोः । प्रकरणात् सवर्णासम्भवः । अस्याम् **आपदि** वर्तमानः यो **ब्राह्मणक्षत्रिययोः** **कस्मिंश् चिद् अपि वृत्तान्ते** अनुकल्पपक्षे ऽपीत्य् अर्थः । **शूद्रा भार्योपदिश्यत** इत्य् अस्य न ज्ञातिसम्बन्धः । एवं च सवर्णाभावे ब्राह्मणस्यानन्तर्यास् आपत्कल्पः क्षत्रियोद्वाहनं [१ अक्ष् उन्च्लेअर्] वैश्ययोस् तद्व्यवधानम् । तथा चानन्तर्यं कारणम् अन्यस्मिन्न् अपि आपत्कल्पे **[११०]** दृष्टम् । वक्ष्यति हि "क्षत्रवृत्त्या तु जीवेत सा ह्य् अस्य प्रत्यनन्तरा" (जीवेत् क्षत्रियधर्मण स ह्य् अस्य प्रत्यनन्तरः) (म्ध् १०.८१) इति । एवं क्षत्रियस्यापि वैश्योद्वाहः अस्याम् अवस्थायां वेदितव्यः, न तु शूद्रयोः । उक्तत्वात् । अयं जीवत्व(तः?) तस्याज्ञया अपि वैश्या ब्राह्मणस्य उक्तस्य तया सामर्थ्यात् प्रतिषिद्धास्मिन् पक्षे । तथा च शुद्राग्रहणम् इदं ब्राह्मणस्य वैश्याप्रतिशेषे निदर्शनार्थं द्रष्टव्यम् । एवं च यथा शूद्रा क्षत्रियस्य प्रतिषिद्धा, एवं वैश्या ब्राह्मणस्येति । ब्राह्मणस्य तर्हि शूद्राप्रतिषेध एवं न प्राप्नोति प्राप्नोत्य् एव (?) । कथम् । दण्डापूपिकया । यत्र क्षत्रियः शूद्रां न लभते तया सहाविकाराभावात् तत्र ब्राह्मणस्य सा कथं स्यात् । समानत्वाद् धेतोः । अथ वा यत्र वैश्यां न लभते ब्राह्मणीम् एकान्तरां यज्ञियां च सतीम् । तत्र कथम् । शूद्रां ह्य् एतदन्तरं (?) अयज्ञियां चेति । वैश्यग्रहणं चात्र न कृतं येनास्य नास्य् एवापत्कल्पः । आनन्तर्ये ऽपि शूद्रया अयज्ञियत्वाद् (?) अधिकाराभावे सत्य् अतस् त्रयाणाम् अपि ब्राह्मणादीनां शूद्राप्रतिषेधस् तथा चानन्तरश्लोके वक्ष्यति "हीनजातिं स्त्रियं मोहाद् उद्वहन्तो द्विजातयः" (म्ध् ३.१५) इति । अथ वास्तु ब्राह्मणस्य क्षत्रियाभावे वैश्या, अन्त्यजापि, सहाधिकाराद् उद्वाहाद् गृहस्थस्य । निदर्शनं च यथान्यस्मिन् आपत्कल्पे अब्राह्मणाद् विद्योपयोगे क्षत्रियाभावे वैश्याद् अपि भवति, एवम् इहापि बहव्ति । यथा ब्राहंअस्यापत्कल्पे क्षत्रियवृत्त्या ह्य् आजीवतो वैश्यवृत्तिर् अप्रतिषिद्धा, एवम् इहाप्य् आनन्तर्यस्याकरणत्वाद् ब्राह्मणो यज्ञार्हां वैश्यां क्षत्रियां [१ अक्ष् उन्च्लेअर्] व उद्वहेत् आपत्कल्पे(काले) ऽधिकारार्थम् । अथ वा "न ब्राह्मणक्षत्रिययोः" इत्य् अस्यान्यो ऽर्थ उच्यते । विद्यमान एतस्मिन् प्रतिषेध ऊढयोर् अपि सावर्ण्याभ्यतिक्रमेण क्षत्रियावैश्ययोः शूद्रानिवृत्ताव् अभ्युदयो ऽस्तीति गम्यते इति । अथ (?) ह्य् असत्य् अस्मिन् प्रतिषेध ऊढयोर् अपि क्षत्रियावैश्ययोः त्रया (?) सर्वा स्मृतिर् अतिक्रान्तेति । सत्याम् अपि शूद्रानिवृत्ताव् अभ्युदयो ऽस्तीति गम्यते । इतरथा ह्य् असत्य् अस्मिन् प्रतिषेधे यथातिक्रमेणो(च्छा)च्छायां क्षत्रियायां वैश्यानिवृत्तौ पुनः स्त्रियम् आह । आसां (?) नास्त्य् अभ्युदय एवम् इहापि स्यात् । एवं च कृत्वा वैश्यग्रहणं स करोति । ब्राह्मणक्षत्रिययोर् एव सवर्णास्मृत्यतिक्रमे शूद्रानिवृत्तौ स्मृतिः सम्भवति । न तु वैश्यस्य । सवर्णातिक्रमे शूद्रैश् चानन्तरा । सा च सवर्णाग्रहणम् इत्य् अनेनैव प्रतिषिद्धा न प्रतिषेध्याभावाद् वैश्यग्रहणं न करोति । अस्येदानीम् अर्थवादार्थम् प्रक्रियते ।
@@ -1387,6 +1387,11 @@ See Comparative notes for [Verse 3.13].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/015_hInajAti-striyam_mohAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+015	Twice-born men who, in their folly, wed wives of the low (Sudra) caste, soon degrade their families and their children to the state of Sudras.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Twice-born men, marrying, through infatuation, a girl of the low caste, quickly reduce their families, along with their offspring, to the position of the Śūdra.—(15).
@@ -1429,11 +1434,6 @@ See Comparative notes for [Verse 3.13].
 अत्रार्थवादः **हीनजतिस्त्रियम्** इति । **शूद्रताम्** इत्य् उपादानात् **हीनजातिं **शूद्रां शास्त्रार्थापरिज्ञानात् उपयच्छमाना **द्विजातयः कुलानि **पुत्रपौत्रादिप्रबन्धात् चिरन्तनकालभाविसन्तानानि **शूद्रतां **गमयन्ति तथाविधानाम् एव तत्रोत्पादात् । अत्र द्विजातय इति वचनात् वैश्यस्याप्य् अकृतसवर्णाविवाहस्य शूद्रानिषेध इति गम्यते । ब्राह्मणक्षत्रिययोः पुनः प्रत्यवायातिशयः पूर्वं प्रतिषेधारम्भसामर्थ्यात् ॥ ३.१५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-015	Twice-born men who, in their folly, wed wives of the low (Sudra) caste, soon degrade their families and their children to the state of Sudras.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अनन्तरप्रतिषेधशेषो (?) ऽयं निन्दार्थवादः । क्रमभेदशेषो वा । शूद्रायाम् अत्यन्तप्रतिषेधः । तथा च गृह्यकारः- "शूद्राम् एके मन्त्रवर्जम्" इत्य् उचाव । द्विजातिग्रहणसामर्थ्यात् **[१११]** सर्वेषाम् एव निवृत्तिर् इष्यते न ब्राह्मणक्षत्रिययोर् एव श्रुतत्वाद् धेतोः । तथा च व्याख्यातम् । एवं च –
@@ -1451,6 +1451,11 @@ See Comparative notes for [Verse 3.13].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/016_shUdrAvedI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+016	According to Atri and to (Gautama) the son of Utathya, he who weds a Sudra woman becomes an outcast, according to Saunaka on the birth of a son, and according to Bhrigu he who has (male) offspring from a (Sudra female, alone).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who marries a Śūdra girl becomes an outcastk,—according to atri and to the son of Utathya; according to Śaunaka, by the birth of a son; and according to Bhṛgu, by having children from her (alone).—(16).
@@ -1510,11 +1515,6 @@ See Comparative notes for [Verse 3.13].
 मतन्तराण्य् आहुः **शूद्रावेदीति **। अत्रेर् उतथ्यपुत्रस्य च गौतमस्यैतन् मतं यत् शूद्रोद्वोढा पतितो भवतीति । निन्दया प्रतिषेधानुमानम् । न ह्य् अकस्मात् निन्दा प्रवर्तत इति । तन्मतेनायं शूद्राया अत्यन्तप्रतिषेधः । शौनकस्य पुनर् मतं यत् शूद्रासुतोत्पत्त्या पततीति । अतश् च तन्मते ऽनर्तौ नाम् उपेयात् । भृगोः पुनर् मतं यत् केवलशूद्रापत्यतया पततीति । एवं च तत्पक्षे इतरासु जातापत्यः शूद्राम् ऋतौ व्रजेत् ॥ ३.१६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-016	According to Atri and to (Gautama) the son of Utathya, he who weds a Sudra woman becomes an outcast, according to Saunaka on the birth of a son, and according to Bhrigu he who has (male) offspring from a (Sudra female, alone).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अत्रेः** । गौतमस्य तावत् मतं शूद्राप्रतिषेधशेषतया व्याख्यातं पूर्वश्लोकवत् । **शौनकस्य सुतोत्पत्त्या** । इयम् अप्य् अपरस्मृतिः । को ऽस्यार्थः । "उपयन्न् अपि शूद्रवृत्तो नोपेयात् सुतोत्पत्तिभयात्" इति शौनकः । ऋताव् अप्य् उपयन्न् इतरासु जातापत्य उपेयाद् उद्वाहक्रमेणैव । अथ वा शूद्रापत्यस्यैवापत्येन । वक्ष्यति "शूद्रापत्यैश् च केवलैः" (म्ध् ३.६८) इति । इमे तु स्मृती शूद्रानुज्ञानस्मृतेर् (?) अविरोधिनी, यतो मन्वादिभिर् अनुज्ञायते शूद्रैवम् । किं चान्यत् ।
@@ -1536,6 +1536,11 @@ See Comparative notes for [Verse 3.13].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/017_shUdrAM_shayanam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+017	A Brahmana who takes a Sudra wife to his bed, will (after death) sink into hell; if he begets a child by her, he will lose the rank of a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having placed a Śūdrā woman on his bed, the Brāhmaṇa goes to perdition; and having begotten a son by her, he falls from Brāhmaṇahood itself.—(17).
@@ -1582,11 +1587,6 @@ See Comparative notes for [Verse 3.13].
 **शूद्राम्** इति । **शूद्रां **गत्वा **ब्राह्मणो **नरकं व्रजति, इत्य् अत्यन्तप्रतिषेधः । शेषो ऽर्थवादः । **सुतं **शूद्रायाम् उत्पाद्य **ब्राह्मण्याद् एव **भ्रश्यतीत्य् अयं सुतोत्पत्तिनिषेधार्थवादः । एवं चेहार्थवादो यो ब्राह्मणग्रहणाद् अत्यन्तप्रतिषेधः सुतोत्पत्तिनिषेधो ब्रह्मणनविषयाद् एव ॥ ३.१७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-017	A Brahmana who takes a Sudra wife to his bed, will (after death) sink into hell; if he begets a child by her, he will lose the rank of a Brahmana.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एष शौनकस्मृतिशेषो निन्दार्थवादः । ब्राह्मणग्रहणार्थव्त्त्वाय (?) च । सर्वा शौनकस्मृतिर् ब्राह्मणविषयैव कल्पनीया । क्रमोद्वाहे च सति –
@@ -1604,6 +1604,11 @@ See Comparative notes for [Verse 3.13].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/018_daiva-pitryAtitheyAni_tat-pradhAnAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+018	The manes and the gods will not eat the (offerings) of that man who performs the rites in honour of the gods, of the manes, and of guests chiefly with a (Sudra wife's) assistance, and such (a man) will not go to heaven.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the rites performed by one in honour of deities, Pitṛs and Guests are dominated by her (his Śūdra wife), then the Pitṛs and the Gods do not eat of them; and the man does not go to heaven.—(18)
@@ -1683,11 +1688,6 @@ See Comparative notes for [Verse 3.13].
 **दैवपित्र्यतिथेयानि** इति । “यस् तु तत्कारयेन् मोहात् सजात्या स्थितयान्यया” (म्ध् ९.८७) इति निषेधं वक्ष्यति । अतो ऽसन्निहितायाम् अपि सजात्यायां यागश्राद्धातिथिदानानि यस्य शूद्रया दत्तानि तद् धव्यकव्यं **पितृदेवा **नोपजीवन्ति । **न च **तेनातिथेयेन **स** गृहस्थः **स्वरं गच्छति **॥ ३.१८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-018	The manes and the gods will not eat the (offerings) of that man who performs the rites in honour of the gods, of the manes, and of guests chiefly with a (Sudra wife's) assistance, and such (a man) will not go to heaven.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अयम् अपि पूर्ववद् विभज्य वचनीयः । इदं चान्यत् प्रतिषिद्धसेवनात् ।
@@ -1705,6 +1705,11 @@ See Comparative notes for [Verse 3.13].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/019_vRShalIphena-pItasya_niHshvAsopahatasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+019	For him who drinks the moisture of a Sudra's lips, who is tainted by her breath, and who begets a son on her, no expiation is prescribed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There is ho expiation for him who has drunk the moisture of the mouth of a Śūdra woman, who has been tainted by her breath, and who has begotten children on her.—(19).
@@ -1772,11 +1777,6 @@ See Comparative notes for [Verse 3.13].
 <details><summary>गोविन्दराजः</summary>
 
 **वृषलीफेनपीतस्येति** । शूद्रया कृतपरिचुम्बनस्य तयैव च एकपर्यङ्कादौ मुखश्वासापवित्रीकृतस्य तस्याम् एव चोत्पन्नापत्यस्य संशुद्धिः नोप्दिश्यत इति पूर्वोत्तराव् अर्धश्लोकौ अत्यन्तनिषेधात् भृगुमतार्थवादौ ॥ ३.१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-019	For him who drinks the moisture of a Sudra's lips, who is tainted by her breath, and who begets a son on her, no expiation is prescribed.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -12,6 +12,11 @@ title = "०७ सन्ध्यावन्दनम्"
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/101_pUrvAM_sandhyAm.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+101	Let him stand during the morning twilight, muttering the Savitri until the sun appears, but (let him recite it), seated, in the evening until the constellations can be seen distinctly.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Everyday during the earlier twilight one should stand repeating the Sāvitrī, till the sun becomes distinctly visible; and during the later twilight he should sit till the stars ark clearly seen.—(101)
@@ -220,11 +225,6 @@ by stars, and the Evening one by the sun; both these one should observe.’
 “सज्योतिष्याज्योतिषो दर्शनाद् वाग्यतः” इति गौतमसमरणात् [ग्ध् २.११], सनक्षत्रकालाद् आरभ्य **पूर्वाम्** इति । यद्य् अप्य् अत्र तिष्ठत्याः परो विधिप्रत्ययः श्रूयते तथापि उपलभ्यमानश्रुतिमूलत्वात् यज्जपो ऽत्र प्रधानम् । स्थानासनयोस् त्व् अङ्गता । तथा च (यच् च) यजुर्वेदब्राह्मणे जपतेर् एव परो विधिप्रत्ययः श्रूयते । यद् आह “अथातः सन्ध्योपासनविधिं व्याख्यास्यामः” इत्य् उपक्रम्य “पूर्वां सन्ध्यां स्थितः सन् सावित्रीम् एतद् अक्षराम् एतां च जपन् व्याहृतिपूर्विकां सन्ध्ययोः” इति दर्शनात् । प्रणतव्याहृतिपूर्विकां जपेद् आदित्यदर्शनं यावत् इति वाक्यार्थः । **पश्चिमां** पुनर् आसीणः सावित्रीं जपेत् उक्तगौतमीयात् सदर्ककालाद् आरभ्य सम्यक् नक्षत्रदर्शनात् यावत् ॥ २.१०१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-101	Let him stand during the morning twilight, muttering the Savitri until the sun appears, but (let him recite it), seated, in the evening until the constellations can be seen distinctly.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **पूर्वां सन्ध्याम्** इत्य् एतद् विशेषणम् । **पश्चिमां तु जपंस् तिष्ठेद्** इति गुणप्रधानाज् जपकर्म ततो फलश्रौषं (?) वेदाध्ययनधर्मविध्यर्थवादः । श्लोके एतद् अक्षमेताश् चेत्य् एवं त्वत् (?) स तिष्ठति गुणसम्बन्धः सज्जन् जपकर्मात्र (??) फलायोपदिश्यते । न विपरीतम् । तथा (?) त्व् ईदृग्वाक्यरूपम् अत्र भवति । **तिष्ठञ् जपेद्** इति कस्मात् पुनर् इदम् एवं नोक्तम् । गद्यग्रन्थे एतद् एवोक्तं चोदयितृ । तद् अयुक्तम् । पद्यग्रन्थश् चायम् । तस्माच् छन्दोभङ्गभयान् नैवं पठितम् एतत् । **सावित्रीम्** इति कर्मनिर्देशो ऽयम् अन्यनिवृत्त्यर्थः । सवितृदेवत्या अपि च बह्व्यरूपः (?) तत्सदित्यृचो त्रिपादा चैव स्वावित्री इत्येतत् **[६९]** प्रतिपदैवेयं प्रकृता सावित्री गृह्यते । नान्यत्र तद्ग्रहणे च त्रिग्रहणम् अत्र विज्ञेयम् । तथा चोक्तम् "एतद् अक्षरम् एतां च" (म्ध् २.७८) इत्य् अत्र सन्ध्योपासनानुवादश्लोके । अधुना तज्जपस्य कालविधिर् अयम् उच्यते । **अर्कदर्शनाद्** इत्य् अर्कदर्शनम् अविधिस् तन्निवृत्त्यर्थम् एवं च सति प्राग् अर्कोदयात् तत्कर्मोपक्रमसिद्धिः । स चायम् अव्यक्तो ऽपीह स्मृत्यन्तराद् विशिष्टो बोद्धव्यः "सज्योतिष्याज्योतिषो दर्शनात्" इति । पश्चिमाम् अत्यर्थं प्राप्तानुवादो ऽयम् । सदा इत्य् एतद् आस्तां तावत् । इदं जपन्न् इति वर्तमाने "इदम् आसीत" इत्य् उच्यते । एवं च जपन्न् आसीत । तत्रापि पूर्ववत् वाक्यविपर्ययप्रपञ्चो बोद्धव्यः । आसीनो जपेत् । अस्यापि चायं जपकर्मणः कालगुणविधिः **सम्यगृक्षविधानात्** (**विभावनात्**?) सम्यक्शब्दः सदाशब्दप(व)दास्तां तावत् (?) । सदाशब्दः पूर्वश्लोकार्धे स्वीकृतो ऽनुवर्तते । एवं चार्कदर्शनाद् इत्य् अयं तन्निवृत्त्यवधिस् तदुपक्रमकासश् चास्मात् पूर्वम् इत्य् अर्थसिद्धम् एतत् । अव्यक्तश् चायं स्मृत्यन्तरात् विशेषणीय इत्य् उक्तः । सदासन्ध्याशब्दौ (?) चात्रोभयसन्ध्याशेषौ द्रष्टव्याव् इत्य् अस्य विधेर् अनुष्ठानप्रदर्शनं सामान्यं (?) न फलविधिः । फलविधौ हि प्रायश्चित्तम् एतत् प्रसज्येत । तच् चायुक्तम् अप्रकरणात् । प्रायश्चित्तशास्त्राभावप्रसङ्गाद् अनित्यताप्रसङ्गाच् च । एतेनोत्तरश्लोकार्धो व्याख्यातः । किं चान्यत् ।
@@ -242,6 +242,11 @@ by stars, and the Evening one by the sun; both these one should observe.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/102_pUrvAM_sandhyAm.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+102	He who stands during the morning twilight muttering (the Savitri), removes the guilt contracted during the (previous) night; but he who (recites it), seated, in the evening, destroys the sin he committed during the day.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who, during the morning-twilight, repeats (the Sāvitrī) standing, removes the sin of the (preceding) night; while he who, during the evening-Twilight, repeats it seated, destroys the sin committed during the day.—(102).
@@ -334,11 +339,6 @@ Twilight have their sins removed;... whatever sin is committed during the day, b
 
 **पूर्वाम्** इति । **पूर्वां सन्ध्यां तिष्ठन् **सावित्रीं **जपन्** सञ्चितं प्रतनु रात्र्युत्पन्नं पापम् अपनुदति सर्वापनोदने प्रायश्चित्तकाण्डानर्थक्यात् । एवं **पश्चिम**सन्ध्यायाम् उपविष्टो जपन् **दिवाकृत**पापम् **अपहन्ति** ॥ २.१०२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-102	He who stands during the morning twilight muttering (the Savitri), removes the guilt contracted during the (previous) night; but he who (recites it), seated, in the evening, destroys the sin he committed during the day.
-</details>
 </details>
 </div>
 
@@ -352,6 +352,11 @@ Twilight have their sins removed;... whatever sin is committed during the day, b
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/103_na_tiShThati.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+103	But he who does not (worship) standing in the morning, nor sitting in the evening, shall be excluded, just like a Sudra, from all the duties and rights of an Aryan.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But he who does not stand during the morning-twilight, and who does not sit through the evening-twilight, should be excluded, like the Sśūdra, from all that is due to twice-born persons.—(103)
@@ -417,11 +422,6 @@ observe not the Twilight Prayers,—are wicked and injure the sun.’
 एवं कथञ्चिद् अकृतैनसो ऽननुष्ठानप्राप्तौ नित्यताम् आह **नेति** । **यः** पुनः **पूर्वां** सन्ध्यां नानुतिष्ठति यो वा **पश्चिमां नोपास्ते** **सो **ऽध्ययनदानादि**द्विजकर्मणः **सर्वस्माच् **छूद्रवत् **परिहरणीयः । इत्य् एवं निन्देयम् अवश्यानुष्ठानार्था ॥ २.१०३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-103	But he who does not (worship) standing in the morning, nor sitting in the evening, shall be excluded, just like a Sudra, from all the duties and rights of an Aryan.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अयम् अपरो ऽननुष्ठाननिन्दाद्वारेण सन्ध्योपासनप्रशंसार्थो ऽर्थवादः । विहितार्थानुष्ठाने ऽभिनिवेशदार्ढ्यार्थो लोकवद् वेदितव्यः । ब्रह्मचारिप्रकरणे यच् चान्यस् तद्धर्मः ।
@@ -439,6 +439,11 @@ observe not the Twilight Prayers,—are wicked and injure the sun.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/104_apAM_samIpe.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+104	He who (desires to) perform the ceremony (of the) daily (recitation), may even recite the Savitri near water, retiring into the forest, controlling his organs and concentrating his mind.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Convinced of the necessary character of the injunction, and retiring to the forest on a spot near water, one may even recite the Sāvitrī only, with a clean body and a collected mind.—(104)
@@ -520,11 +525,6 @@ Study beginning with the Praṇava; thus does he fulfil the Brahmic Sacrifice;�
 <details><summary>गोविन्दराजः</summary>
 
 ब्रह्मयज्ञविध्यर्थं ब्रह्मचारिणाम् अनुदिनम् आह **अपाम्** इति । ग्रामाद् बहिर् विविक्तं प्रदेशं गत्वा **नियतः **शुचिः **समाहितः** संयतमनाः नित्यो ऽयं ब्रह्मयज्ञविधिर् इत्य् एवम् **आस्थितः** उत्पन्नास्थः **अपां समीपे** मन्त्रान्तरपाठात् **सावित्रीम् अपि **जपेत् ॥ २.१०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-104	He who (desires to) perform the ceremony (of the) daily (recitation), may even recite the Savitri near water, retiring into the forest, controlling his organs and concentrating his mind.
 </details>
 
 <details><summary>भारुचिः</summary>

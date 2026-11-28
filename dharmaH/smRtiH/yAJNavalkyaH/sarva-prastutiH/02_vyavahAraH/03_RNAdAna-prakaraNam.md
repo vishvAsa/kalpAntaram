@@ -31,6 +31,12 @@ title = "०३ ऋणादान-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/037_ashItibhAgo_vRddhiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+An eightieth part should be the interest month by month where there is a pledge;  
+otherwise, it is two, three, four, or five percent in order of the social classes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अशीति-भागो वृद्धिः स्यान्  
@@ -141,6 +147,12 @@ _एवं तावत् सामान्येन न्यायस्व�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/038_kAntAragAs_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those travelling through wildernesses should pay ten percent, and sea-voyagers twenty percent;  
+or all of every class may pay the interest agreed upon by themselves.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कान्तारगास् तु दशकं  
@@ -225,6 +237,12 @@ _चातुर्वर्ण्यातिरेकेण तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/039_santatis_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The maximum return on female animals is their offspring; on fluids, eightfold;  
+on garments, grains, and gold, the maximum is fourfold, threefold, and twofold respectively.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्ततिस् तु पशु-स्त्रीणां  
@@ -328,6 +346,12 @@ _अनयैव वृद्ध्या ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/040_prapannaM_sAdhayann.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A creditor recovering an admitted debt should not be censured by the king;  
+a debtor who complains to the king while being made to pay is to be fined and made to pay the debt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रपन्नं साधयन्न् अर्थं  
@@ -411,6 +435,12 @@ _अनया च वृद्ध्या ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/041_gRhItAnukramAd_dApyo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A debtor must be made to pay his creditors in the order the debts were contracted,  
+but only after paying a Brahmin, and immediately after that the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृहीतानुक्रमाद् दाप्यो  
@@ -475,6 +505,12 @@ _अथ यद्य् एकम् ऋणिनं युगपद् धन�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/042_rAjnA.adhamarNiko.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A debtor shall be made by the king to pay ten percent of the recovered debt,  
+and a creditor who has received his money shall be made to pay five percent.
+</details>
+
 <details><summary>मूलम्</summary>
 
 राज्ञा ऽधमर्णिको दाप्यः  
@@ -532,6 +568,12 @@ _विप्रतिपन्नस् त्व् ऋणिको राज�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/043_hInajAtim_parixINam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One of lower caste who is destitute may be made to do labour to pay off a debt;  
+a destitute Brahmin, however, should be made to pay gradually as he acquires means.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हीन-जातिं परिक्षीणम्  
@@ -606,6 +648,12 @@ _एवं तावत् समृद्धं दापयेत् । अ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/044_dIyamAnan_na.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If a creditor does not accept his lent money when offered,  
+and it is deposited with an impartial person, it ceases to bear interest from that time on.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दीयमानं न गृह्णाति  
@@ -660,6 +708,12 @@ _यथोत्पत्त्या च ददतः।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/045_avibhaktaiH_kuTumbArthe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever debt was contracted for the sake of the family by undivided members,  
+the heirs must pay upon the death or foreign absence of the head of the family.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अविभक्तैः कुटुम्बार्थे  
@@ -736,6 +790,12 @@ _एवं तावत् पैतृकम् ऋणं देयम् । �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/046_na_yoShitpatiputrAbhyAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A debt contracted by a woman should not be paid by her husband or son, nor one contracted by a son by the father,  
+except when contracted for the family's sake; nor should a husband pay one contracted by his wife.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न योषित्-पति-पुत्राभ्यां  
@@ -801,6 +861,12 @@ _अविभक्तत्वे ऽपि तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/047_surAkAmadyUtakRtaM_daNDashulkAvashiShTakam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A son need not pay any paternal debt here incurred for liquor, lust, or gambling,  
+or the unpaid balance of a fine or toll, or an idle promise of a gift.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सुरा-काम-द्यूत-कृतं  
@@ -890,6 +956,12 @@ _अस्यापवादः।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/048_gopashauNDikashailUSha_rajakavyAdhayoShitAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The husband must pay the debt of the wives of herdsmen, distillers, actors, washermen, and hunters,  
+because his livelihood depends on them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गोप-शौण्डिक-शैलूष-  
@@ -953,6 +1025,12 @@ _अस्यापवादः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/049_pratipannaM_striyA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A woman must pay what she agreed to pay, or what was incurred together with her husband,  
+or a debt contracted by herself; a woman is not obliged to pay any other.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिपन्नं स्त्रिया देयं  
@@ -1030,6 +1108,12 @@ _पुरुषमात्राविशेषेण तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/050_pitari_proShite.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the father has gone abroad, is dead, or is overwhelmed by misfortune,  
+the debt must be paid by the sons and grandsons; if denied, [it must be] proved by witnesses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितरि प्रोषिते प्रेते  
@@ -1166,6 +1250,12 @@ _अन्यत्रापि तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/051_rikthagrAha_RNan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The taker of the inheritance must be made to pay the debt, and likewise the taker of the wife,  
+[and] the son whose property has not passed to another, [or] the heir of a sonless man.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रिक्थ-ग्राह ऋणं दाप्यो  
@@ -1388,6 +1478,12 @@ _ऋणिके सत्य् अयं दानक्रमः । तद�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/052_bhrAtRRNAm_atha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Among brothers, between husband and wife, and between father and son,  
+suretyship, debt, and witnessing are not recognized while they are unpartitioned.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भ्रातॄणाम् अथ दम्पत्योः  
@@ -1457,6 +1553,12 @@ _ऋणस्य प्रतिनिर्यातनप्रकार उ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/053_darshane_pratyaye.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Suretyship is prescribed for appearance, for assurance, and for payment.  
+In the case of falsehood, the first two must be made to pay; of the other, even the sons [must pay].
+</details>
+
 <details><summary>मूलम्</summary>
 
 दर्शने प्रत्यये दाने  
@@ -1551,6 +1653,12 @@ _क्व पुनर् विषये प्रातिभाव्यम�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/054_darshanapratibhUr_yatra.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Where a surety for appearance or for assurance dies,  
+his sons need not pay the debt; but [the sons] of him who stood for payment must pay.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दर्शन-प्रतिभूर् यत्र  
@@ -1628,6 +1736,12 @@ _पूर्वश्लोकार्थम् एव स्पष्टय�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/055_bahavaH_syur.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If there are many sureties, they shall pay the money according to their shares;  
+when they are bound jointly and severally, [they pay] at the option of the creditor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बहवः स्युर् यदि स्वांशैर्  
@@ -1683,6 +1797,12 @@ _एकस्यैव तु यदा कार्यिणः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/056_pratibhUr_dApito.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever money of the creditor the surety was openly compelled to pay,  
+twice that amount must be repaid to him by the debtors.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिभूर् दापितो यत् तु  
@@ -1768,6 +1888,12 @@ _ _
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/057_santatiH_strIpashuShv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the case of female animals, [the increase is] offspring; grain is threefold;  
+cloth is stated to be fourfold, and liquids eightfold.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्ततिः स्त्री-पशुष्व् एव  
@@ -1861,6 +1987,12 @@ _पश्वादौ तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/058_AdhiH_praNashyed.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A pledge is lost when the money has doubled, if it is not redeemed.  
+A pledge for a fixed time is lost at that time; a pledge to be enjoyed through its produce is not lost.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आधिः प्रणश्येद् द्वि-गुणे  
@@ -1953,6 +2085,12 @@ _विस्रम्भहेतू द्वाव् आधिप्रत�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/059_gopyAdhibhoge_no.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+There is no interest if a pledge to be kept is used, or if a beneficial pledge is impaired;  
+if lost or ruined, it must be replaced, except [when caused] by an act of God or the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गोप्याधिभोगे नो वृद्धिः  
@@ -2039,6 +2177,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/060_AdheH_svIkaraNAt.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The validity of a pledge arises from its taking possession. If, even though protected,  
+it becomes useless, another must be pledged, or the creditor must receive his money.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आधेः स्वीकरणात् सिद्धी  
@@ -2128,6 +2272,12 @@ _यदा त्व् आधिर् अपुष्यमाण एव, स 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/061_charitrabandhakakRtaM_sa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should make [the debtor] pay the money secured by personal credit along with interest;  
+he should make him return double the property secured by earnest money.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चरित्र-बन्धक-कृतं  
@@ -2181,6 +2331,12 @@ _आधिः प्रणश्येद् द्विगुणम् इत�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/062_upasthitasya_moktavya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A pledge must be released when [the debtor] presents himself; otherwise [the creditor] becomes a thief.  
+If the creditor is absent, [the debtor] may recover the pledge after depositing the money with his family.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उपस्थितस्य मोक्तव्य  
@@ -2233,6 +2389,12 @@ _यदा त्व् ऋणिकः सोदयं द्रव्यम्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/063_tatkAlakRtamUlyo_vA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or it may remain there free of interest, valued at that time;  
+or [the creditor] may sell it in the presence of witnesses, even without the debtor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्-काल-कृत-मूल्यो वा  
@@ -2295,6 +2457,12 @@ _प्रकारान्तरम् आह_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/03_RNAdAna-prakaraNam/064_yadA_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the debt on a pledge has indeed doubled,  
+then the pledge is to be released once double the amount has entered [the creditor's hands] from its produce.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदा तु द्वि-गुणी-भूतम्  

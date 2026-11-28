@@ -38,6 +38,12 @@ title = "३ वानप्रस्थ-धर्म-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/045_sutavinyastapatnIkas_tayA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Entrusting his wife to his son or accompanied by her,  
+the forest-dweller, remaining chaste, should go to the forest with his sacred fire and his domestic ritual.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सुत-विन्यस्त-पत्नीकस्  
@@ -92,6 +98,12 @@ _उभयथापि च वनस्थाश्रमप्रवृत्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/046_aphAlakRShtenAgnIMsh_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+With food not grown by plowing, self-controlled, bearing a beard, matted hair, and body hair,  
+he should gratify the fires, the ancestors, the gods, guests, and dependants.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अफाल-कृष्तेनाग्नींश् च  
@@ -159,6 +171,12 @@ _अयं चास्य विशेषः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/047_ahno_mAsasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He may make a hoard of goods for a day, for a month, for six months,  
+or for a year; what has been gathered he should discard in the month of Āśvayuja.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अह्नो मासस्य षण्णां वा  
@@ -203,6 +221,12 @@ _अतिथिपूजाद्यर्थम् एव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/048_dAntas_triShavaNasnAyI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Self-restrained, bathing at the three junctures of the day, retired from accepting gifts,  
+devoted to Vedic study, disposed to give, intent on the welfare of all beings,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दान्तस् त्रिषवण-स्नायी  
@@ -252,6 +276,12 @@ _सर्वदैव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/049_dantolUkhalikaH_kAla.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+using his teeth as a mortar or eating what ripens in time or crushing with a stone,  
+he should perform Vedic and traditional rites and ceremonies with oils from fruits.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दन्तोलूखलिकः काल-  
@@ -300,6 +330,12 @@ _आत्मभरणाय तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/050_chAndrAyaNair_nayet.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should pass time with lunar penances or always live by penitential hardships;  
+or he may eat after a fortnight has passed, or after a month, or after a day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चान्द्रायणैर् नयेत् कालं  
@@ -349,6 +385,12 @@ _स्वशक्त्यनुसरिणैव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/051_svapyAd_bhUmau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should sleep on the bare ground, pure, by night, and by day spend time on the tips of his toes,  
+or by standing, sitting, walking, or by the practice of yoga.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वप्याद् भूमौ शुची रात्रौ  
@@ -401,6 +443,12 @@ _नित्यं चाप्रमादित्वेन ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/052_grIShme_panchAgnimadhyastho.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In summer standing in the midst of five fires, in the rainy season lying on the bare ground,  
+and in winter wearing wet clothes, or he may perform austerity according to his ability.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्रीष्मे पञ्चाग्नि-मध्यस्थो  
@@ -449,6 +497,12 @@ _यथासामर्थ्यं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/053_yaH_kaNTakair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Neither angry at the one who pierces him with thorns,  
+nor pleased with the one who smears him with sandalwood, he is equal to both this one and that.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यः कण्टकैर् वितुदति  
@@ -493,6 +547,12 @@ _सर्वप्रकारस्य वनस्थस्यायम् �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/054_agnIn_vA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or, having interiorized the fires, dwelling at the foot of trees, eating moderately,  
+he should beg alms for subsistence solely from the houses of forest-dwellers;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्नीन् वा ऽप्य् आत्मसात्-कृत्वा  
@@ -538,6 +598,12 @@ _अग्निपरिचर्याक्षमं प्रत्य् �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/055_grAmAd_AhRtya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+or, having brought eight mouthfuls from a village, he should eat them restrained in speech;  
+or, feeding on air, he should walk toward the northeast until the destruction of his body.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्रामाद् आहृत्य वा ग्रासान्  

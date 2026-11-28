@@ -25,6 +25,12 @@ title = "१५ संविद्-व्यतिक्रम-प्रकर�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/15_saMvid-vyatikrama-prakaraNam/185_rAjA_kRtvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having established a residence in the city and settled Brahmins there,  
+the king should grant an endowment to those learned in the three Vedas, saying, 'Maintain your own duty.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 राजा कृत्वा पुरे स्थानं  
@@ -107,6 +113,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/15_saMvid-vyatikrama-prakaraNam/186_nijadharmAvirodhena_yas.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Moreover, a convention that does not conflict with one's own duty  
+should also be preserved with diligence, as well as the duty enacted by the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निज-धर्माविरोधेन  
@@ -174,6 +186,12 @@ _ब्राह्मणाः स्थाने राज्ञा निव�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/15_saMvid-vyatikrama-prakaraNam/187_gaNadravyaM_hared.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever embezzles corporate property or breaches an agreement,  
+him the king should banish from the realm after confiscating all his property.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गण-द्रव्यं हरेद् यस् तु  
@@ -299,6 +317,12 @@ _पालनव्याजेन ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/15_saMvid-vyatikrama-prakaraNam/188_kartavyaM_vachanaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+All must carry out the instructions of those who speak for the welfare of the association;  
+whoever acts contrary therein should be made to pay the first fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कर्तव्यं वचनं सर्वैः  
@@ -368,6 +392,12 @@ _<u>ननु</u> अयं भिन्नाभिप्रायपुरु�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/15_saMvid-vyatikrama-prakaraNam/189_samUhakArya_AyAtAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When they have arrived on corporate business, the lord of the earth, having honoured them  
+with gifts, esteem, and hospitable welcome, should dismiss them once their business is accomplished.
+</details>
+
 <details><summary>मूलम्</summary>
 
 समूह-कार्य [?]आयातान्  
@@ -427,6 +457,12 @@ _यतश् चैत्द् एवम्, अतः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/15_saMvid-vyatikrama-prakaraNam/190_samUhakAryaprahito_yal.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever someone dispatched on corporate business receives, he must deliver;  
+if he does not deliver it of his own accord, he should be made to pay elevenfold.
+</details>
+
 <details><summary>मूलम्</summary>
 
 समूह-कार्य-प्रहितो  
@@ -489,6 +525,12 @@ _इमम् एव न्ययं मनसि कृत्वाह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/15_saMvid-vyatikrama-prakaraNam/191_dharmajnAH_shuchayo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The managers of affairs should be knowledgeable in duty, pure, and free from greed;  
+the instructions of those who speak for the welfare of the association must be obeyed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धर्मज्ञाः शुचयो ऽलुब्धा  
@@ -556,6 +598,12 @@ _यो ऽयं ब्राह्मणानां समूहविधि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/15_saMvid-vyatikrama-prakaraNam/192_shreNinaigamapAkhaNDa_gaNAnAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+This same rule applies to guilds, merchant bodies, sectarian groups, and corporate leagues;  
+and the king should preserve their distinct traditions and uphold their former modes of livelihood.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रेणि-नैगम-पाखण्ड-  

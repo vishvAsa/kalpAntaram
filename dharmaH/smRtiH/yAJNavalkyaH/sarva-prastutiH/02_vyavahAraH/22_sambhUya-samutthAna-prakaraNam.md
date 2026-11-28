@@ -12,6 +12,12 @@ title = "२२ सम्भूय-समुत्थान-प्रकरण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/22_sambhUya-samutthAna-prakaraNam/259_samavAyena_vaNijAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When merchants do business in partnership for the sake of profit,  
+their profit and loss are in proportion to their capital, or as agreed upon.
+</details>
+
 <details><summary>मूलम्</summary>
 
 समवायेन वणिजां  
@@ -128,6 +134,12 @@ _वाणिज्यप्रसङ्गात् संभूयोत्थ
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/22_sambhUya-samutthAna-prakaraNam/260_pratiShiddham_anAdiShTaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is lost through doing what was forbidden, or without instruction, or through negligence,  
+that he must pay; and if he saves [property] from a catastrophe, he receives a tenth share.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिषिद्धम् अनादिष्टं  
@@ -185,6 +197,12 @@ _एवं कृतसमयानां व्यवहारापेतं �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/22_sambhUya-samutthAna-prakaraNam/261_arghapraxepaNAd_viMshaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The king may take a twentieth part of the estimated price as customs duty;  
+goods prohibited or suitable for the king, when sold, go to the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अर्घ-प्रक्षेपणाद् विंशं  
@@ -250,6 +268,12 @@ _इदानीं राजभाव्यम् निरूपयति ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/22_sambhUya-samutthAna-prakaraNam/262_mithyA_vadan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who states a false measure, or slips away from the customs post,  
+and one who buys or sells fraudulently, is to be made to pay eight times [the duty].
+</details>
+
 <details><summary>मूलम्</summary>
 
 मिथ्या वदन् परीमाणं  
@@ -306,6 +330,12 @@ _राजभाव्यशुल्कनिमित्तं च पण्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/22_sambhUya-samutthAna-prakaraNam/263_tarikaH_sthalajaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A ferryman taking land-toll is to be made to pay ten paṇas;  
+this same [fine applies] in the case of not inviting Brahmin neighbours [to a feast].
+</details>
+
 <details><summary>मूलम्</summary>
 
 तरिकः स्थलजं शुल्कं  
@@ -397,6 +427,12 @@ _इदानीं दण्डपारुष्यसामान्यात
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/22_sambhUya-samutthAna-prakaraNam/264_deshAntaragate_prete.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When one dies abroad, heirs, relatives,  
+or kinsmen who have arrived may take the property; in their absence, the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशान्तर-गते प्रेते  
@@ -474,6 +510,12 @@ _<u>अथ किं</u> संभूय व्यवहरताम् अन�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/22_sambhUya-samutthAna-prakaraNam/265_jihman_tyajeyur.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+They may expel a dishonest [partner] without profit; one who is unable [to work] may have it done by another.  
+By this, the rule for sacrificial priests, cultivators, and artisans is declared.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जिह्मं त्यजेयुर् निर्लाभम्  

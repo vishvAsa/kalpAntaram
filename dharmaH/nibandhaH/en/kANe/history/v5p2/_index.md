@@ -1,8 +1,7 @@
 +++
 title = "+5.2"
-
+proofreader = [ "Gemini 4 Hydrogen",]
 +++
-
 
 HISTORY OF DHARMAŚĀSTRA 
 

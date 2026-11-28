@@ -48,6 +48,12 @@ title = "१७ द्यूत-समाह्वय-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/17_dyUta-samAhvaya-prakaraNam/199_glahe_shatikavRddhes.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In gambling, from an increment of a hundred, the keeper of the gaming-house  
+may take five per cent from an experienced gambler, and ten per cent from any other.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्लहे शतिक-वृद्धेस् तु  
@@ -102,6 +108,12 @@ _विसंवादप्रसङ्गेनाखिलविसंवा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/17_dyUta-samAhvaya-prakaraNam/200_sa_samyakpAlito.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Well protected, he shall pay the king the share as stipulated;  
+he must collect what was won for the winner, speak truthfully, and remain patient.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स सम्यक्-पालितो दद्याद्  
@@ -185,6 +197,12 @@ _स्वार्थहेतोर् एव च राज्ञा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/17_dyUta-samAhvaya-prakaraNam/201_prApte_nRpatinA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the share has been received by the king, in a recognized circle of gamblers,  
+he should cause what was won to be paid in a place overseen by the keeper, but not otherwise.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राप्ते नृपतिना भागे  
@@ -248,6 +266,12 @@ _यथाकृत एव ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/17_dyUta-samAhvaya-prakaraNam/202_draShTAro_vyavahArANAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those very people are the judges of disputes and the witnesses;  
+those who play with false dice or deceit should be branded and banished by the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्रष्टारो व्यवहाराणां  
@@ -345,6 +369,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/17_dyUta-samAhvaya-prakaraNam/203_dyUtam_ekamukha~N.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Gambling should be kept under unified supervision for the purpose of discovering thieves;  
+this very rule is to be understood for wagering on living creatures in prize contests.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्यूतम् एक-मुखं कार्यं  

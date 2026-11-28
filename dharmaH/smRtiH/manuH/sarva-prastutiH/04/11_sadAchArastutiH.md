@@ -12,6 +12,11 @@ title = "११ सदाचारस्तुतिः"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/155_shruti-smRty-uditaM_samya~N.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+155	Let him, untired, follow the conduct of virtuous men, connected with his occupations, which has been fully declared in the revealed texts and in the sacred tradition (Smriti) and is the root of the sacred law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the Parvas he should go to the gods, and to the righteous Brāhmaṇas, to the King for protection, and also to the superiors.—(153)
@@ -87,11 +92,6 @@ which has been ordained in the Śruti and the Smṛti.’
 **श्रुतिस्मृत्युदितम्** इति । श्रुतिस्मृतिभ्यां सम्यग् उक्तं स्वेषु चाध्ययनयागादिष्व् अङ्गत्वेन सम्बद्धं धर्मस्य मूलभूतं साध्वाचारम् अनलसः सन् अभीक्ष्णम् अनुतिष्ठेत्॥ ४.१५५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-155	Let him, untired, follow the conduct of virtuous men, connected with his occupations, which has been fully declared in the revealed texts and in the sacred tradition (Smriti) and is the root of the sacred law.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सर्वस्यास्य फलसिद्धिः ।
@@ -109,6 +109,11 @@ which has been ordained in the Śruti and the Smṛti.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/156_AchArAl_labhate.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+156	Through virtuous conduct he obtains long life, through virtuous conduct desirable offspring, through virtuous conduct imperishable wealth; virtuous conduct destroys (the effect of) inauspicious marks.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By Right Conduct he attains longevity; by Right Conduct he obtains desirable children; by Right Conduct he obtains inexhaustible wealth; and Right Conduct destroys everything inauspicious.—(156)
@@ -171,11 +176,6 @@ longevity; by right conduct he acquires prosperity; by right conduct he acquires
 
 यद् अर्थम् आचारस्य पुनर् वचनं तद् आह **आचाराद्** इति । **आयुर्**इष्टापत्य्**आक्षयधना**न्य् **आचारात्** तदनुष्ठानाल् **लभते **। दुष्टलक्षणं च प्रियभार्याविनाशसंसूचकं तिलकाद्य्**आचारो **निष्फलीकरोतीत्य् आचारफलकथनम् । न चानित्यताआपत्तिः, “सावित्रीमात्रसारो ऽपि” (२.११८) इत्यादिना नित्यत्वस्य समर्पितत्वात् ॥ ४.१५६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-156	Through virtuous conduct he obtains long life, through virtuous conduct desirable offspring, through virtuous conduct imperishable wealth; virtuous conduct destroys (the effect of) inauspicious marks.
-</details>
 </details>
 </div>
 
@@ -189,6 +189,11 @@ longevity; by right conduct he acquires prosperity; by right conduct he acquires
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/157_dur-AchAro_hi.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+157	For a man of bad conduct is blamed among people, constantly suffers misfortunes, is afflicted with diseases, and short-lived.
+</details>
+
 <details><summary>कुल्लूकः</summary>
 
 यस्माद् दुराचारः पुरुषो लोके गर्हितः स्यात्सर्वदा दुःखान्वितो रोगवानल्पायुश्च भवति तस्मात्सदा-चारयुक्तः स्यात् ॥१५७॥
@@ -197,11 +202,6 @@ longevity; by right conduct he acquires prosperity; by right conduct he acquires
 <details><summary>गोविन्दराजः</summary>
 
 **दुराचार** इति । यस्माद् **दुराचारः पुरुषो लोके **च गर्हितः सर्वदा च दुःखितो **व्याधितो ऽल्पायुर् **भवति, तस्मात् स्वाचारेण भाव्यम् ॥ ४.१५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-157	For a man of bad conduct is blamed among people, constantly suffers misfortunes, is afflicted with diseases, and short-lived.
 </details>
 </details>
 </div>
@@ -216,6 +216,11 @@ longevity; by right conduct he acquires prosperity; by right conduct he acquires
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/158_sarvalaxaNa-hIno.api.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+158	A man who follows the conduct of the virtuous, has faith and is free from envy, lives a hundred years, though he be entirely destitute of auspicious marks.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man of evil conduct becomes deprecated among men; he is constantly suffering pain, is sick and short-lived.—(157)
@@ -268,11 +273,6 @@ for ‘*Yaḥ sadācāravān*.’)
 <details><summary>गोविन्दराजः</summary>
 
 **सर्वलक्षणहीन** इति । यः सम्यग् आचारवान् **श्रद्दधानो **ऽकुत्सकः स आजानुबाहुत्वादिसर्व-प्रशस्तलक्षणशून्यो ऽपि वर्षशतं **जीवति **। प्रथमे ऽध्याये शास्त्रस्तुत्यर्था आचारस्तुतिः । इह त्व् आचारफलसमर्पणार्थम् एतत् ॥ ४.१५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-158	A man who follows the conduct of the virtuous, has faith and is free from envy, lives a hundred years, though he be entirely destitute of auspicious marks.
 </details>
 
 <details><summary>भारुचिः</summary>

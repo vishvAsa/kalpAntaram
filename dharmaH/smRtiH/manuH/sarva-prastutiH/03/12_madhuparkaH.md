@@ -20,6 +20,11 @@ title = "१२ मधुपर्कः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/119_rAjartvik-snAtaka-gurUn_priya-shvashura-mAtulAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+119	Let him honour with the honey-mixture a king, an officiating priest, a Snataka, the teacher, a son-in-law, a father-in-law, and a maternal uncle, (if they come) again after a full year (has elapsed since their last visit).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should receive, with the “honey-mixture,” the king, the priest, the accomplished Student, the Teacher, the Son-in-law, the Father-in-law and the Maternal uncle,—coming again after a year.—(119)
@@ -159,11 +164,6 @@ entertainment: the Teacher, the Priest, the Accomplished Student, the Bridegroom
 अतिथिपूजाप्रसङ्गेनायं राजादीनां पूजाविशेष उच्यते – **राजर्त्विक्स्नातकगुरुप्रियश्वशुर-मातुलान्** इति । जनपदाभिषक्तं क्षत्रियं गृहागतं यचकं **ऋत्विजं** यः कश्चिद् गृहस्थो द्विजातिः विद्याव्रतस्नातकं शिष्यो गुरुं श्वशुरो जामातरं जामाता श्वशुरं भागिनेयो मातुलं मधुपर्काख्येन गृह्योक्तरूपेण कर्मणा पूजयेत् । परिमितात् संवत्सरात् संवत्सरे ऽतीते पुनर् गृहागतान् एतान् पूजयेत् । ये तु स्नातकम् आचार्यः पूजयेत् तं प्रतीतम् इत्य् उक्तत्वाद् इत्य् आहुः, तेषां परिवर्सरान् इति स्नातकविशेषणं कथं स्यात् ॥ ३.११९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-119	Let him honour with the honey-mixture a king, an officiating priest, a Snataka, the teacher, a son-in-law, a father-in-law, and a maternal uncle, (if they come) again after a full year (has elapsed since their last visit).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **राज**शब्दः क्षत्रियमात्रे दृष्टः । "राज्ञो बलार्थिनः षष्ठे" (म्ध् २.३७) इति वचनात् । क्षत्रियस्य सतः अभिषेकरक्षाधिपत्यप्रभावगुणवतः "राजाश्वमेधेन यजेत, राजा राजसूयेअन् यजेत" इति वचनाद् अक्षत्रियो ऽपि क्रियागुणाभ्यां राजशब्दो दृष्टः । "न शूद्रराज्ये निवसेत्" (म्ध् ४.६१) । तत् कस्येदं ग्रहणम् । क्षत्रियस्याभिषेकादिगुणसम्बन्धिनः, प्रकरणसामर्थ्यात् । अतः क्रमागतम् "**अर्हयेन् मधुपर्केण**" प्रकृतो गृहीतस्य पुनर् हानकालं विदधाति **परिसंवत्सरात्** पुनः परिगतात् । संवत्सराद् ऊर्ध्वम् इत्य् अर्थः । <u>केचित्</u> तु "**परिसंवत्सरान्**" इति पठन्ति । तेषाम् अयं तावद् अर्थः । परिगतः संवत्सरो येषां ते इति परिवत्सरा जादयस् (?) तान् एवम् **ऋत्विजं** वक्ष्यमाणम् । "**अर्हयेन् मधुपर्केण**" इति समानं पूर्वेन । **स्नातकं** चाचार्यश् (?) शिष्यं समावृत्त्त्यनन्तरं "तं प्रतीतं स्वधर्मेण" (म्ध् ३.३)इत्येवमादि । अन्यथा तु सर्वेषाम् एवैतेषाम् ऋत्विगादीनां स्नातकत्वात् पुनर्वचनम् अयुक्तम् ऋत्विगादीनाम् । गुरुं च **शिश्यः प्रियं** च जामातरं **श्वशुरो** दुहितुर् उद्वाहागतम् । <u>अन्ये</u> **प्रिय**शब्दं श्वशुरमातुलविशेषणम् इच्छन्ति, श्वशुरमातुलान् प्रियान् इति । तेषाम् अत्र प्रमाणाभावः । **[१३०]** जामातुश् च नोक्ता स्यान् मधुपर्कपूजा सर्वस्मृतिशास्त्रप्रसिद्धा । गौतमस् तु प्रियं न पठति, पितृव्यं चाधिकम् अधीते- "ऋत्विगाचार्यश्वशुरपितृव्यमातुलानाम् उपस्थाने (?) मधुपर्कः" (ग्ध् ५.२७) इति । गृह्ये तु प्रियशब्देन जामातुर् एव ग्रहणम् । विवाह्यशब्देन च श्वशुरस्य । एवं च **श्वशुरं** जामातार्हयेत्, **मातुलं** भागिनेयः । पितृव्यस्य तु ग्रहणं अनुक्तस्यापि मातुलस्य ग्रहणात् सिद्धम्, सम्बन्धसामान्यात् प्रकरणाच् च । द्विजातीनाम् एवायं परस्परो मधुपर्कदानप्रतिग्रहसम्बन्धः । <u>अन्ये</u> तु सर्ववर्णाधिकारम् इच्छन्ति । व्यासवचनं चातोदाहरन्ति "तदर्हम् आसनं तस्मै यथा रापत् (?) प्रत्येतदयत् (पूजयत्?) । मधुपर्कं च गां चैव तस्मै भगवते स्वयम्" वासुदेवाय विदुर इत्य् अर्थः । तत् पुनर् अमन्त्रकम् । द्विजातिमधुपर्कम् आहुर् मन्त्रयुक्तम् अयुक्तं वेति भगवन्तो भूमिदेवा ज्ञातुम् अर्हन्ति । 
@@ -200,6 +200,11 @@ entertainment: the Teacher, the Priest, the Accomplished Student, the Bridegroom
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/120_rAjA_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+120	A king and a Srotriya, who come on the performance of a sacrifice, must be honoured with the honey-mixture, but not if no sacrifice is being performed; that is a settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king and the Learned Man should be honoured with the Honey-mixture, at the approach of a sacrificial performance,—not if there is no sacrifice (going to be performed).—(120)
@@ -294,11 +299,6 @@ See Comparative notes for [Verse 3.119].
 राजस्नातयकोः सङ्कोचायेदम् आह **राजेति** । राजस्नातकौ **यज्ञकर्मण्य् एव **सम्प्राप्तौ **मधुपर्केण **पूजनीयौ । **न त्व् अयज्ञे** संवत्सराद् ऊर्ध्वम् अपीति शास्त्रमर्यादा । संवत्सरात् पुनः अर्वाक् यज्ञे ऽपि न पूज्यौ पूर्ववाक्योपरि संवत्सराद् इत्य् उपादाने । अत्र च न तु यज्ञ इत्य् उपादानात् राजस्नातकपूजासङ्कोचार्थत्वम् अस्य प्रतीयते ॥ ३.१२० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-120	A king and a Srotriya, who come on the performance of a sacrifice, must be honoured with the honey-mixture, but not if no sacrifice is being performed; that is a settled rule.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ततो **यज्ञ** इत्य् अयम् अपरो (अपपाठो?) दीक्षितदानप्रतिषेधात् । तेन "**राजा च श्रोत्रियश् चैव यज्ञे प्राप्तौ विधानतअः**" इत्य् अयम् अपि पाठः प्रत्युक्तो वेदितव्यः । एवं "**यज्ञकर्मण्य् उपस्थितौ**" अयं च । कस् तर्ह्य् अत्र पाठः । "**राजा च श्रोत्रियश् चैव यज्ञकर्मण्य् उपस्थिते । मधुपर्केण सम्पूज्यौ न त्व अजज्ञ इति स्थितिः**" इति । ऋत्विग् अर्वाग् अपि संवत्सरस्यारम्भसामर्थ्याद् आरम्भे च सति । **श्रोत्रिय**शब्देन ऋत्विङ्मात्रं गृह्यते ऽतस् तदपवादो राज्ञश् च । तथा चोक्तम् – यद्य् अप्य् असकृत् संवत्सरस्य "सोमेन यजेत कृतार्घ्य एव, न (?) याजयेन् नाकृतार्घ्यः" इति श्रुतेः इत्य् अर्थः । श्रोत्रियशब्देन सर्व एवर्त्विगादयो गृह्यन्ते । ततो यज्ञो निमित्तेन सर्वेषाम् एवार्वाग् अपि संवत्सरस्य पुनर् मधुपर्कः स्याद् इत्य् एवं च सर्वापवादः स्यात् । तथा च गौतमः- "ऋत्विगादीनाम् उपस्थाने मधुपर्कः । संवत्सरे पुनः । यज्ञविवाहयोर् अर्वाक् (?)" इति । सायं प्रातर् बलिहरणम् अस्योक्तम् । इदानीं तद्विशेषार्थम् इदम् आरभ्यते (?) ।
@@ -316,6 +316,11 @@ See Comparative notes for [Verse 3.119].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/121_sAyan_tv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+121	But the wife shall offer in the evening (a portion) of the dressed food as a Bali-oblation, without (the recitation of) sacred formulas; for that (rite which is called the) Vaisvadeva is prescribed both for the morning and the evening.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Out of the food cooked in the evening the wife should offer the Bali-oblation, without sacred formulas. This is the “Vaiśvadeva” rite which has been enjoined for both Morning and evening.—(121)
@@ -436,11 +441,6 @@ Bali-offering should be made both morning and evening, even though the man himse
 <details><summary>गोविन्दराजः</summary>
 
 **सायम्** इति । दिनान्ते **ऽन्नस्य** **सिद्धस्य **“इन्द्राय नमः” इत्य् एवमादिमन्त्रवर्जं मनसोद्देशेन **पत्नी **बलिहरणं भूतयज्ञाख्यं कुर्यात् । यस्माद् एवं नाम यज्ञाद्यात्मभोजनपर्यन्तं एतत् **सायं प्रातः** गृहस्थस्योपदिश्यते ॥ ३.१२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-121	But the wife shall offer in the evening (a portion) of the dressed food as a Bali-oblation, without (the recitation of) sacred formulas; for that (rite which is called the) Vaisvadeva is prescribed both for the morning and the evening.
 </details>
 
 <details><summary>भारुचिः</summary>

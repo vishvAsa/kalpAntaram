@@ -12,6 +12,11 @@ title = "०६ भिक्षा"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/032_shaktito.apachamAnebhyo.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+032	A householder must give (as much food) as he is able (to spare) to those who do not cook for themselves, and to all beings one must distribute (food) without detriment (to one's own interest).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Householder shall give as much as he can to those who do not cook their own food; and, for the sake of all living beings, he shall make apportionment, without detriment (to himself).—(32)
@@ -87,11 +92,6 @@ Do. (2.10.10).—‘Distribution of food has been laid down for such seekers for
 अन्नमात्रं पुनः **शक्तत** इति । गृहस्थेन पाकरहितेभ्यः पाखण्ड्यादिभ्यो यथाशक्त्यान्नं देयम्, स्वकुटुम्बाद्नुपरोधेन वृक्षपर्यन्तेभ्यो दोह्यादिदानेन **संविभागः** कर्तव्यः ॥ ४.३२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-032	A householder must give (as much food) as he is able (to spare) to those who do not cook for themselves, and to all beings one must distribute (food) without detriment (to one's own interest).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तच् चैतद् (?) अत्यन्तप्रतिषेधे विरुध्येत यस्माद् इहापचमानाः पाषण्डिन एव प्रकृताः । भूतग्रहणं च सम्मानलिङ्गं तेन च विज्ञायते । वेदविद्याव्रतस्नातकेभ्यो ऽन्यत्रायं दानचोदनहव्यकव्याभ्यां चेतरथा ह्य् अनारम्भसमं प्रसज्येतोक्तत्वात् तदन्नदानस्येति । "**संविभागश् च भूतेभ्यः**" इत्य् एतच् चान्नदानव्यतिरेकेणान्यद् दिव्यदानं गम्यते । इतरथा ह्य् अनारम्भसमं प्रसज्येत । तत् पूर्वेणैव सिद्धत्वाद् इति ।
@@ -109,6 +109,11 @@ Do. (2.10.10).—‘Distribution of food has been laid down for such seekers for
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/033_rAjato_dhanam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+033	A Snataka who pines with hunger, may beg wealth of a king, of one for whom he sacrifices, and of a pupil, but not of others; that is a settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Suffering from hunger, the accomplished student should seek for wealth from the king, or from one at whose sacrificial rites he officiates, or from his pupil; and not from others; such is the rule.—(33)
@@ -204,11 +209,6 @@ approach the king.’
 <details><summary>गोविन्दराजः</summary>
 
 **राजत** इति । **स्नातकः क्षुधा**वसादं गच्छन् अन्यजातिप्रतिग्रहसम्भवे ऽपि राज्ञः शास्त्रानुवर्तिनो याज्यशिष्याभ्यां वा प्रथमं लिप्सेत । न त्व् अन्यस्माद् द्विजातेर् अपि । तदसम्भवे पुनः अन्यस्मात् द्विजातेर् गृह्णीयात् अनापद्विहितोपायासम्भवे पुनः सर्वतः प्रतिगृह्णीयाद् इत्य् आपधर्मं वक्ष्यति । राज्ञो महाधनत्वात् याज्यानेवासिनोः स्वसुकृतोपकारत्वात् इदं प्रथमधनग्रहणं नियम्यते । एवं चानापदि प्रथमराजयाज्यशिष्यव्यतिरिक्तधनग्रहणनिषेधार्थम् इदं वचनम् । अत एवोक्तम् **न त्व् अन्यत इति** । <span style="text-decoration:underline;">यत् तु</span**saṃsīdann** iti liṅgāt āpadviṣayatām asyāhuḥ – _तद् असत्_, अप्रकरणात् । न च धनाभावमात्रम् आपद् उच्यते । अपि तु धनाभावे इति विहितोपायपरिक्षयः । अन्यथा सद्यःप्रक्षालकस्य आपधर्मा आविर् भवेयुः । अपद्विषये (-विषयत्वे) चास्य “**न त्व् अन्यत”** इत्य् एतत् “सर्वतः प्रतिगृह्णीयात्” इत्य् अनेन विरुद्ध्येत । यत् तु सीदद्भिः कुप्यम् इच्छद्भिः धनं वा पृथिवीपतिर् याच्यः स्याद् इति तदा यत् प्रकरणात् क्षत्रियाद् राज्ञः प्रतिग्रहार्थम् । अत एव तत्र पृथिवीपतिग्रहणम्, इह तु राजग्रहणम् ॥ ४.३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-033	A Snataka who pines with hunger, may beg wealth of a king, of one for whom he sacrifices, and of a pupil, but not of others; that is a settled rule.
 </details>
 
 <details><summary>भारुचिः</summary>

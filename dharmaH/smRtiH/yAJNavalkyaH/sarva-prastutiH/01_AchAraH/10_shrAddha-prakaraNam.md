@@ -23,6 +23,12 @@ title = "१० श्राद्ध-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/217_amAvAsyA.aShTakA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The new-moon day, the Aṣṭakā days, the increase of prosperity, the dark fortnight, the two solstices,  
+[the availability of] material, the presence of [worthy] Brahmins, the equinox, the sun's transit,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अमावास्या ऽष्टका वृद्धिः  
@@ -782,6 +788,12 @@ _श्राद्धं स्वधनत्यागरूपत्वाद
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/218_vyatIpAto_gajachChAyA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Vyatīpāta conjunction, the shadow of an elephant, eclipses of the moon and the sun,  
+and the desire for an ancestral rite—these are proclaimed the times for an ancestral rite.
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्यतीपातो गज-च्छाया  
@@ -802,6 +814,12 @@ _श्राद्धं स्वधनत्यागरूपत्वाद
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/219_agryaH_sarveShu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Foremost in all the Vedas, a learned Brahmin, a knower of Brahman, a youth,  
+a knower of the meaning of the Veda, a singer of the Jyeṣṭhasāman, a Trimadhu, a Trisuparṇa,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्र्यः सर्वेषु वेदेषु  
@@ -1114,6 +1132,12 @@ _एवं तावत् कालसंपदम् उक्त्वा प
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/220_svasrIyartvijjAmAtR_yAjyashvashuramAtulAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+a sister's son, a sacrificial priest, a son-in-law, a patron of sacrifice, a father-in-law, a maternal uncle,  
+a Triṇāciketa, a daughter's son, a student, a relative by marriage, and a kinsman,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वस्रीयर्त्विज्-जामातृ-  
@@ -1147,6 +1171,12 @@ _एवं तावत् कालसंपदम् उक्त्वा प
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/221_karmaniShThAs_taponiShThAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+those steadfast in rites, those steadfast in austerity, those keeping the five fires, chaste students,  
+and those devoted to father and mother—such Brahmins are the assets of an ancestral rite.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कर्म-निष्ठास् तपो-निष्ठाः  
@@ -1175,6 +1205,12 @@ _एवं तावत् कालसंपदम् उक्त्वा प
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/222_rogI_hInAtiriktAngaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A diseased man, one with deficient or redundant limbs, a one-eyed man, the son of a remarried woman,  
+one who has broken his vow of chastity, a Kuṇḍa, a Gola, one with deformed nails, one with discoloured teeth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 रोगी हीनातिरिक्ताङ्गः  
@@ -1654,6 +1690,12 @@ _किम् अविशेषेणैवैते ब्राह्मण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/223_bhRtakAdhyApakaH_klIbaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+a paid teacher, a eunuch, a defiler of maidens, one accused of a crime,  
+a betrayer of friends, a slanderer, a seller of soma, a younger brother married before the elder,
+</details>
+
 <details><summary>मूलम्</summary>
 
 भृतकाध्यापकः क्लीबः  
@@ -1692,6 +1734,12 @@ _किम् अविशेषेणैवैते ब्राह्मण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/224_mAtApitRgurutyAgI_kuNDAshI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+one who has abandoned mother, father, or guru, an eater of food given by a Kuṇḍa, the son of a Shudra woman,  
+the husband of a woman married before, a thief, and those depraved in action are condemned.
+</details>
+
 <details><summary>मूलम्</summary>
 
 माता-पितृ-गुरु-त्यागी  
@@ -1729,6 +1777,12 @@ _किम् अविशेषेणैवैते ब्राह्मण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/225_nimantrayeta_pUrvedyur.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The self-restrained and pure [host] should invite Brahmins on the previous day;  
+and they too must be restrained in the actions of mind, speech, and body.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निमन्त्रयेत पूर्वे-द्युर्  
@@ -2107,6 +2161,12 @@ _एवम् अनिन्दितान् श्राद्धभोज�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/226_aparAhNe_samabhyarchya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the afternoon, having honoured them who have arrived with a welcome,  
+he, holding purificatory grass in hand, should seat them on seats after they have sipped water for purification,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपराह्णे समभ्यर्च्य  
@@ -2599,6 +2659,12 @@ _अथ श्राद्धाहनि ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/227_yugmAn_daive.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+an even number for the divine [ancestral rite] according to his capacity, and an odd number for that of the ancestors,  
+in an enclosed, pure place that slopes to the south.
+</details>
+
 <details><summary>मूलम्</summary>
 
 युग्मान् दैवे यथा-शक्ति  
@@ -2639,6 +2705,12 @@ _कः पुनर् उपवेशनप्रकारः । उच्य
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/228_dvau_daive.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Two [Brahmins] facing east for the divine, three facing north for the ancestors, or even one for each;  
+so too for the maternal grandfathers, or a combined rite for the All-gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वौ दैवे प्राक् त्रयः पित्र्य  
@@ -2846,6 +2918,12 @@ _मनोवाक्कायसंयतैः अवैगुण्यशक
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/229_pANipraxAlanan_dattvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having given water for washing the hands and kuśa grass for the purpose of a seat,  
+he should invoke [the deities], being permitted, with the verse: 'O All-gods...'
+</details>
+
 <details><summary>मूलम्</summary>
 
 पाणि-प्रक्षालनं दत्त्वा  
@@ -2944,6 +3022,12 @@ _एवं श्राद्धद्वये ऽपि तन्त्रे�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/230_yavair_anvavakIryAtha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then, having scattered barley grains over them, having poured water into a vessel containing a purifier with 'May the goddess be auspicious for us...',  
+and barley grains with 'You are barley...',
+</details>
+
 <details><summary>मूलम्</summary>
 
 यवैर् अन्ववकीर्याथ  
@@ -3057,6 +3141,12 @@ _ततः_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/231_yA_divyA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+he should pour the guest-water into their hands with the mantra: 'The divine waters...'.  
+Having given water, perfumes, a garland, and an offering of incense accompanied by a lamp,
+</details>
+
 <details><summary>मूलम्</summary>
 
 या दिव्या इति मन्त्रेण  
@@ -3143,6 +3233,12 @@ _एवम् अर्घ्यं प्रदाय_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/232_tatha_AchChAdanadAna~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+and likewise an offering of clothing and water for cleansing the hands,  
+he should then place the sacred thread over the right shoulder, moving counter-clockwise for the ancestors.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथ +आच्छादन-दानं च  
@@ -3269,6 +3365,12 @@ _एवम् अर्घ्यं प्रदाय_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/233_dviguNAMs_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having offered doubled kuśa grass, having invoked the ancestors with the verse 'uśantas tvā',  
+and permitted by them, he should then chant 'āyantu naḥ'.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वि-गुणांस् तु कुशान् दत्त्वा ह्य्  
@@ -3289,6 +3391,12 @@ _एवम् अर्घ्यं प्रदाय_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/234_apahatA_iti.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Scattering sesame seeds all around with the mantra 'apahatāḥ',  
+the purposes served by barley should be performed with sesame seeds; he should perform the guest-water and other rites as before.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपहता इति तिलान्  
@@ -3318,6 +3426,12 @@ _एवम् अर्घ्यं प्रदाय_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/235_dattvA_arghyaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having offered the guest-water and placed their washings into a vessel according to rule,  
+he turns the vessel upside down below, saying: 'You are a dwelling place for the ancestors.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 दत्त्वा अर्घ्यं संस्रवांस् तेषां  
@@ -3561,6 +3675,12 @@ _पितृभ्य एव तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/236_agnau_kariShyann.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Intending to make offerings into the fire, he takes up food drenched in clarified butter and asks [the Brahmins]: 'May I make the offering in the fire?'  
+Permitted with 'Perform it!', having offered into the fire as in the ancestral sacrifice,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्नौ करिष्यन्न् आदाय  
@@ -3742,6 +3862,12 @@ _ततः_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/237_hutasheSham_pradadyAt.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+collected in mind, he should distribute what remains of the oblation into vessels  
+obtained according to one's means, and especially into silver ones.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हुत-शेषं प्रदद्यात् तु  
@@ -3762,6 +3888,12 @@ _ततः_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/238_dattvA.annam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having served the food and consecrated the vessels with the verse 'pṛthivī te pātram',  
+he should insert the Brahmin's thumb into the food with the formula 'idaṃ viṣṇuḥ'.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दत्त्वा ऽन्नं पृथिवी-पात्रम्  
@@ -3958,6 +4090,12 @@ _दैवपूर्वकम् एव त्व् अन्यत् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/239_savyAhRtikA~N_gAyatrIM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having chanted the Gāyatrī with its sacred utterances and the three verses beginning with 'madhu vātāḥ',  
+he should say: 'Eat at your ease'; and they, too, restrained in speech, should eat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स-व्याहृतिकां गायत्रीं  
@@ -4192,6 +4330,12 @@ _एवम् अन्नं परिवेष्यापोशनं च प
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/240_annam_iShtaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Free from anger and without haste, he should serve food that is agreeable and fit for oblations,  
+chanting purifying texts until they are satisfied, as well as the previous chants.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्नम् इष्तं हविष्यं च  
@@ -4434,6 +4578,12 @@ _अथ किम् अन्नम् अनियतम् एव भोक�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/241_annam_AdAya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Taking some food and asking: 'Are you satisfied?', and having received their assent for the remainder,  
+he should scatter that food on the ground and offer water once to each.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्नम् आदाय तृप्ताः स्थ  
@@ -4476,6 +4626,12 @@ _एवं तृप्ताञ् ज्ञात्वा ततः पूर
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/242_sarvam_annam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Taking all kinds of food mixed with sesame seeds, facing south,  
+he should place the balls of rice near the leftover food, just as in the ancestral sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वम् अन्नम् उपादाय  
@@ -4670,6 +4826,12 @@ _एवम् एवोदकं दत्त्वा यत् प्रकृ
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/243_mAtAmahAnAm_apy.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the same manner for maternal grandfathers, he should then give water for sipping;  
+then he should have blessings pronounced and offer inexhaustible water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मातामहानाम् अप्य् एवं  
@@ -4737,6 +4899,12 @@ _यथा चैतत् पितृभ्यः पिण्डदानम�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/244_dattvA_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having given a sacrificial fee according to his means, he should utter the word svadhā;  
+permitted with the words 'Let it be pronounced!', he should say: 'May svadhā be spoken for those on whose behalf the rite is performed!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 दत्त्वा तु दक्षिणां शक्त्या  
@@ -4786,6 +4954,12 @@ _किं स्वस्तिवाच्यानन्तरम् एव�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/245_brUyur_astu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+They should say: 'Let there be svadhā.' When this is spoken, he should then sprinkle water on the ground;  
+and when the Brahmins say: 'May the Viśve Devas be pleased!', he should chant this:
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रूयुर् अस्तु स्वधेत्य् उक्ते  
@@ -4901,6 +5075,12 @@ _ततस् ते ऽपि ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/246_dAtAro_no.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+'May donors increase for us, as also the Vedas and progeny;  
+may faith not depart from us, and may we have much to give!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 दातारो नो ऽभिवर्धन्तां  
@@ -4971,6 +5151,12 @@ _इदं चान्यत् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/247_ity_uktvoktvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having said this, having spoken kind words and prostrated himself, he should dismiss them;  
+pleased, with the verse 'vāje vāje', dismissal is made beginning with the ancestors.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इत्य् उक्त्वोक्त्वा प्रिया वाचः  
@@ -5030,6 +5216,12 @@ _इदं चान्यत् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/248_yasmiMs_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Turning upright that vessel of the ancestors  
+in which the washings had previously been placed in the guest-water vessel, he should dismiss the Brahmins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्मिंस् तु संस्रवाः पूर्वम्  
@@ -5083,6 +5275,12 @@ _इदं च कुर्यात् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/249_pradaxiNam_anuvrajya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having walked around clockwise and escorted them, he should eat what was enjoyed by the ancestors;  
+and along with the Brahmins, he should remain a celibate student for that night.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रदक्षिणम् अनुव्रज्य  
@@ -5231,6 +5429,12 @@ _एवं ब्राह्मणान् उत्थाप्य ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/250_evam_pradaxiNAvRtko.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In this manner, turning clockwise at a joyful celebration, he should worship the Nāndīmukha ancestors,  
+performing the rites with barley and offering rice-balls mixed with curds and jujube fruit.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवं प्रदक्षिणावृत्को  
@@ -5515,6 +5719,12 @@ _सर्वप्रकृतिभूतं श्राद्धम् उ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/251_ekoddiShTan_devahInam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The rite for a single ancestor is devoid of the gods, has a single guest-water offering and a single strainer,  
+is without the invocation and the offering into the fire, and is performed with the sacred thread over the right shoulder.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एकोद्दिष्टं देव-हीनम्  
@@ -5865,6 +6075,12 @@ _अथान्यद् अपि विकारभूतं श्राद�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/252_upatiShThatAm_axayya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In place of 'May it be inexhaustible', he says 'May it attend [upon you]'; at the dismissal of the Brahmins,  
+he should say 'May you be pleased', and they should reply 'We are well pleased.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 उपतिष्ठताम् अक्षय्य-  
@@ -5926,6 +6142,12 @@ _अयं चान्यो विशेषः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/253_gandhodakatilair_yuktaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should prepare four vessels supplied with scented water and sesame seeds  
+for the guest-water; into the ancestors' vessels he should pour the vessel of the deceased,
+</details>
+
 <details><summary>मूलम्</summary>
 
 गन्धोदक-तिलैर् युक्तं  
@@ -6592,6 +6814,12 @@ _इदं चान्यद् वैकृतं श्राद्धं प
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/254_ye_samAnA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+with the two verses beginning with 'ye samānāḥ', and perform the rest as before.  
+This is the rite of union through ancestral cakes; a single-ancestor rite is also performed for a woman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये समाना इति द्वाभ्यां  
@@ -6626,6 +6854,12 @@ _किं तूष्णीम् एव सेचयेत् । नेत�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/255_arvAksapiNDIkaraNaM_yasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For someone whose rite of union through ancestral cakes occurs before a year has passed,  
+food accompanied by a water-jar should still be given to a Brahmin for a whole year.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अर्वाक्-सपिण्डी-करणं  
@@ -6735,6 +6969,12 @@ _स्मृत्यन्तरोक्तं सपिण्डीकरण
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/256_mRte.ahani.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+It should be performed on the day of death every month for a year,  
+and likewise every year; the first should be on the eleventh day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मृते ऽहनि प्रकर्तव्यं  
@@ -7216,6 +7456,12 @@ _किं पुनः सपिण्डीकृतस्य पृथग्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/257_piNDAMs_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should give the balls of rice to cows, goats, and Brahmins, or cast them into fire or water;  
+while the Brahmins are present, he must not clear away the Brahmins' leftover food.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पिण्डांस् तु गो-ज-विप्रेभ्यो  
@@ -7311,6 +7557,12 @@ _सर्वश्राद्धेषु प्रातिस्विको
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/258_haviShyAnnena_vai.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+With food fit for oblations, for a month; but with rice-milk, for a year;  
+with the meat of fish, deer, sheep, birds, goats, spotted deer,
+</details>
+
 <details><summary>मूलम्</summary>
 
 हविष्यान्नेन वै मासं  
@@ -7424,6 +7676,12 @@ _कानि पुनः पितृतुष्ट्यर्थान्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/259_aiNarauravavArAha_shAshair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+blackbuck, Ruru deer, wild boar, and hare in regular order,  
+with an increase of a month each time, the grandfathers are fully satisfied here by what is given.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऐण-रौरव-वाराह-  
@@ -7444,6 +7702,12 @@ _कानि पुनः पितृतुष्ट्यर्थान्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/260_khaDdAmiSham_mahAshalkaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rhinoceros meat, large-scaled fish, honey, hermit's food,  
+red-goat meat, the mahāśāka herb, or the meat of the old white-winged goat,
+</details>
+
 <details><summary>मूलम्</summary>
 
 खड्दामिषं महा-शल्कं  
@@ -7609,6 +7873,12 @@ _इमानि त्व् अतितुष्ट्यर्थानि �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/261_yad_dadAti.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+and whatever one gives while staying in Gayā, all that attains endless duration;  
+and likewise on the thirteenth day of the rainy season, especially under the Maghā asterism.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद् ददाति गयास्थश् च  
@@ -7712,6 +7982,12 @@ _तथा_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/262_kanyA~N_kanyAvedinash.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who gives the ancestral rite always obtains a maiden, and husbands for maidens, cattle and good sons,  
+gambling victory, agriculture, commerce, cloven-hoofed and single-hoofed beasts,
+</details>
+
 <details><summary>मूलम्</summary>
 
 कन्यां कन्या-वेदिनश् च  
@@ -7811,6 +8087,12 @@ _एवं तावद् देशकालाश्रयं नैयोग�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/263_brahmavarchasvinaH_putrAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+sons endowed with Vedic splendour, gold and silver along with base metals,  
+pre-eminence among kin, and all desires.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म-वर्चस्विनः पुत्रान्  
@@ -7831,6 +8113,12 @@ _एवं तावद् देशकालाश्रयं नैयोग�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/264_pratipatprabhRtiShv_ekAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the lunar days beginning with the first, with the exception of the fourteenth—  
+for on that day it is offered only to those who have been slain by weapons—
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिपत्-प्रभृतिष्व् एकां  
@@ -7851,6 +8139,12 @@ _एवं तावद् देशकालाश्रयं नैयोग�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/265_svargaM_hy.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+heaven, offspring, vigour, valour, land, strength,  
+a son, pre-eminence, good fortune, prosperity, leadership, good fortune,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वर्गं ह्य् अपत्यम् ओजश् च  
@@ -7919,6 +8213,12 @@ _तथेदम् अपि कामसंयोगेनैव ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/266_pravRttachakratA~n_chaiva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+unchallenged sovereignty, commerce and the like,  
+freedom from illness, fame, freedom from sorrow, the highest destination,
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रवृत्त-चक्रतां चैव  
@@ -7939,6 +8239,12 @@ _तथेदम् अपि कामसंयोगेनैव ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/267_dhanaM_vedAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+wealth, the Vedas, success in medicine, base metals, cattle, goats, sheep,  
+horses, and long life—whoever offers the ancestral rite according to rule,
+</details>
+
 <details><summary>मूलम्</summary>
 
 धनं वेदान् भिषक्-सिद्धिं  
@@ -7974,6 +8280,12 @@ _तथेदम् अपि कामसंयोगेनैव ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/268_kRttikAdibharaNyantaM_sa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+from the lunar mansion Kṛttikā to Bharaṇī, shall obtain these desires,  
+provided he is an astika, full of faith, and free from pride and envy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृत्तिकादि-भरण्य्-अन्तं  
@@ -7994,6 +8306,12 @@ _तथेदम् अपि कामसंयोगेनैव ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/269_vasurudrAditisutAH_pitaraH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The ancestors are the Vasus, the Rudras, and the sons of Aditi; they are the deities of the ancestral rite;  
+satisfied by the ancestral rite, they bring gratification to the ancestors of human beings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वसु-रुद्रादिति-सुताः  
@@ -8048,6 +8366,12 @@ _अथ किम् एतच् छ्राद्धं कर्तुर्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/10_shrAddha-prakaraNam/270_AyuH_prajAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Long life, offspring, wealth, sacred knowledge, heaven, liberation, and pleasures,  
+and likewise sovereignty—the grandfathers, when pleased, bestow upon mortals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आयुः प्रजां धनं विद्यां  

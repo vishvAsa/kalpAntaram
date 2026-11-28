@@ -35,6 +35,11 @@ title = "०१ धर्मकामसम्बन्धः"
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/001_vidvadbhiH_sevitaH.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+001	Learn that sacred law which is followed by men learned (in the Veda) and assented to in their hearts by the virtuous, who are ever exempt from hatred and inordinate affection.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Learn that Dharma, which has been ever followed by, and sanctioned by the heart of, the learned and the good, who are free from love and hate.—(1)
@@ -222,11 +227,6 @@ Nyāya view (quoted in Vīramitrodaya-Paribhāṣā, p.29).—‘Dharma is that 
 ॐ नमः सरस्वत्यै । एवम् अध्ययनश्रवणार्थं महाप्रयोजनतां शाश्त्रस्य प्रतिपाद्याधुना प्रकृताभिधानार्थम् उपक्रमते । तत्र तावद् अभिधास्यमानं धर्मसामान्यलक्षणं सकलशास्त्रव्यापकत्वेन परिभाषार्थम् आह **विद्वद्भिर् **इति । धर्मस्यानन्यप्रमाणत्वाद् विद्वद्भिर् वेदार्थज्ञैः **सद्भिः **धार्मिकैः सर्वदा **रागद्वेषशून्यैः **आचरितो **हृदयेनाभ्यनुज्ञातो **ऽन्तःकरण[वि]चिकित्साशून्यो **यो धर्मः** अदृष्टार्थकर्तव्यरूपस् तं शृणुत ॥ २.१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-001	Learn that sacred law which is followed by men learned (in the Veda) and assented to in their hearts by the virtuous, who are ever exempt from hatred and inordinate affection.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ((अस्य श्लोकस्य चतुर्थः पादः २.१ सङ्ख्याकस्य श्लोकस्य व्याख्यायाम् उद्धृतः । तत्र "वर्णधर्मान् निबोधत" इति पाठः))
@@ -246,6 +246,11 @@ Nyāya view (quoted in Vīramitrodaya-Paribhāṣā, p.29).—‘Dharma is that 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/002_kAmAtmatA_na.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+002	To act solely from a desire for rewards is not laudable, yet an exemption from that desire is not (to be found) in this (world): for on (that) desire is grounded the study of the Veda and the performance of the actions, prescribed by the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It is not right to be absorbed in desires—“But there is in this world, no absolute absence of desire; for the study of the Vedas itself is prompted by desire, as also every act prescribed in the Veda.”—(2)
@@ -377,11 +382,6 @@ should undertake that which he likes.’
 परिभाषान्तरम् आह – **कामात्मतेति** । **कामात्मता न प्रशस्ता,** फलाभिलाषशीलत्वम् अयुक्तम् । यतः शास्त्रचोदितकर्माणि फलाद्भिलाषत्यागेनाचर्यमाणान्य् आत्मज्ञानसाचिव्येन मोक्षाय कल्पन्ते । फलेच्छया त्व् अनुष्ठाने तेषां संसारहेतुत्वात् । अस्तु (परन् तु) कामात्मता न प्रशस्तेत्य् अनेनेच्छा निषिद्धा, एतन् मत्वाह – **न चैवेति** । इच्छाम् अन्तरेण **नेह** शास्त्रे प्रवृत्तिर् अस्ति यस्माद् वेदस्वीकरणं वैदिककर्मसम्बन्धश् चाभिलषणीय एव ॥ २.२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-002	To act solely from a desire for rewards is not laudable, yet an exemption from that desire is not (to be found) in this (world): for on (that) desire is grounded the study of the Veda and the performance of the actions, prescribed by the Veda.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यद् यच् छास्त्रेणोपदेक्ष्यते कर्म तत् तन् (?) निष्कामेनानुष्ठेयम् इति परिभाषार्थश्लोकारम्भः । **कामात्मता** फलभोगाभिप्रायेणानुष्ठा(ना)नां नित्यानां रसा(?) **न प्रशस्ता** । निन्दौषा तस्याः । एवं च निन्दिता न समाचरेद् इत्य् एतस्मात् सामर्थात् प्रतिषेधमात्रवाक्यानुमेयः कीदृशं फलं प्राप्ताभिप्रायेणानुष्ठेयम् इत्य् एतत् । कस्मात् । शास्त्रोपदेशसामर्थ्याद् अनित्यत्वप्रसङ्गाच् च । कर्मानुष्ठानस्य यस्यैव हि **[३६] **फलप्राप्त्यभिप्रायः, कर्तुस् तस्यैव तत्साधनक्रियानुष्ठानं क्रिया प्राप्नोति । लौकिकवन् नान्यस्य क्रियाप्रयौ (?) निष्कामस्य कर्मानुष्ठानस्य नित्यत्वं सिध्यति । यत एवमर्थेयं परिभाषा । तथा च स्मृत्यन्तरम् । 
@@ -412,6 +412,11 @@ should undertake that which he likes.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/003_sankalpa-mUlaH_kAmo.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+003	The desire (for rewards), indeed, has its root in the conception that an act can yield them, and in consequence of (that) conception sacrifices are performed; vows and the laws prescribing restraints are all stated to be kept through the idea that they will bear fruit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Desire has its root in Thought; Sacrifices proceed from Thought; Vows and Restraints—all these have been described as originating in Thought.—(3)
@@ -522,11 +527,6 @@ reflection is the source of Dharma.’
 अत्रैवोपपत्तिम् आह – **सङ्कल्पमूल** इति । अनेन वस्तुना इयम् अर्थक्रिया साध्यते इत्य् एवंविधो मनोव्यापारः **सङ्कल्पः **। स च मूलं कामस्य । तदनन्तरं हि तद्वस्तुसम्पादनेच्छोपजायते । तद् अनु चाध्यवसायो भौतिकव्यापारेण करणोद्योगो भवति । एवं च यज्ञादयः सङ्कल्पप्रभवाः । तेषां च सङ्कल्पोद्भवत्वए सति अवश्यम् अनत्रिच्छया भवितव्यम् । सङ्कल्पाभिमानव्यवसायेभ्यः क्रियाप्रवृत्तिः । **यमधर्माः **प्रतिषेधात्मकाः ॥ २.३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-003	The desire (for rewards), indeed, has its root in the conception that an act can yield them, and in consequence of (that) conception sacrifices are performed; vows and the laws prescribing restraints are all stated to be kept through the idea that they will bear fruit.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इन्द्रियार्थोपभोगेच्छालक्षणस्य कामस्य मूलं तत् सङ्कल्पः । कः पुनर् असौ (?) गुणवतो विषयस्याभिधा । न तस्येह ग्रहणम् । किं तर्हि । कर्तव्यपदार्थावधारणम् इह सङ्कल्पः । स मूलं कामस्य कर्तव्येच्छायाः । एवं **यज्ञाः** श्रौतस्मार्ता इज्यादिरूपाः **सङ्कल्पसम्भवास्** तत्कर्तव्येच्छाप्रयत्नद्वारेणोच्यन्त एवं यज्ञा एवंवृत्तादिका नियमानुष्ठानलक्षणाः नियमधर्माश् च निवृत्तिरूपा एवं च क्रियाफलं न सङ्कल्पिष्यते । किं सङ्कल्पाभावाच् च नित्यकर्मानुष्ठानतः कामात्मता न भविष्यति यज्ञादिसङ्कल्पाच् च तदनुष्ठानेच्छाप्रयत्नद्वारेण "काम्यो हि वेदाधिगमः कर्मयोगश् च वैदिकः" (२.२) इत्य् एतत् दृष्टान्तः ।
@@ -544,6 +544,11 @@ reflection is the source of Dharma.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/004_akAmasya_kriyA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+004	Not a single act here (below) appears ever to be done by a man free from desire; for whatever (man) does, it is (the result of) the impulse of desire.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 No action is ever found in this world to be done by a man entirely without desires; whatever a man does is. the outcome of desire.—(4)
@@ -582,11 +587,6 @@ actions, one should perform that which he wishes.’
 अत्रैव लौकिकं दृष्टान्तम् आह – **अकामस्येति** । बुद्धिपूर्वकारिभाव्या या **काचित् क्रिया** दृष्टार्था सा अनिच्छतो **न** कदाचिद् **दृश्यते** । तस्माद् **यत् किञ्चित् कुरुते **कर्म **तत्** सर्वं **कामस्य चेष्टितम्** इच्छाकार्यम् इत्य् अर्थः ॥ २.४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-004	Not a single act here (below) appears ever to be done by a man free from desire; for whatever (man) does, it is (the result of) the impulse of desire.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 कामार्थः सङ्कल्पः कामशब्देनोच्यते । तत्प्रकरणसामर्थाद् एवं चाकामस्य सङ्कपस्येच्छा कार्या क्रिया काचिन् न दृश्यते तद् उपपन्नम् । तदा देवो वाम (?) "यद् यद् धि कुरुते किञ्चित् तत् तत् कामस्य चेष्टितम्" इत्य् उपसंहारः प्रकृतस्य । एवं च ।
@@ -612,6 +612,11 @@ _हेतुत्वाच् चेष्टितं कामस्यै�
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/005_teShu_samyag.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+005	He who persists in discharging these (prescribed duties) in the right manner, reaches the deathless state and even in this (life) obtains (the fulfilment of) all the desires that he may have conceived.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Behaving in the right manner, in regard to these (desires), a man attains the position of Immortals; and even in this world he obtains all the desires that he may have thought of.—(5)
@@ -701,11 +706,6 @@ the highest position of Prajāpati.’
 <details><summary>गोविन्दराजः</summary>
 
 अत्र परिहारम् आह – **तेष्व् **इति । नात्रेच्छा निषिध्यते । अपि तु यथाश्रुतं तत् तथैवानुष्ठेयम् इतीयं **सम्यग्**वृत्तिः तत्र **तेषु** कर्मसु फलाभिलाषत्यागेन प्र**वर्तमानो** बन्धात्मकत्वाभावात् **अमरलोकतां **अमरधर्मत्वं मोक्षं प्राप्नोति । **इह** संसारे आत्मज्ञानाभ्यासेनाष्टगुणैश्वर्ययोगात् यथाभिलषितान् **सर्वान् **अर्थान् **समश्नुते **॥ २.५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-005	He who persists in discharging these (prescribed duties) in the right manner, reaches the deathless state and even in this (life) obtains (the fulfilment of) all the desires that he may have conceived.
 </details>
 
 <details><summary>भारुचिः</summary>

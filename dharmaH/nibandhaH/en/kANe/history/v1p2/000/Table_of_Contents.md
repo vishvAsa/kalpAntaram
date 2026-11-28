@@ -1,44 +1,21 @@
 +++
 title = "Table of Contents"
-
+proofreader = [ "Gemini 4 Hydrogen",]
 +++
 
-TABLE OF CONTENTS 
+TABLE OF CONTENTS
 
-| 
+Pages
 
-Epleinone 
+Synopsis of Contents (Parts I & II) i — xliv
 
-Synopsis of Contents (Parts I & II) Corrections and Additions 
+Corrections and Additions xlv
 
-Pages i - xliv 
+History of Dharmaśāstra
+(Sections 65 — 119 and a brief note on Dharmaśāstra writers from Kāmarūpa) 585-984
 
-xlv 
+Appendix A — List of Works on Dharmaśāstra 985-1158
 
+Appendix B — List of Authors on Dharmaśāstra 1159-1242
 
-
-( Sections 65 - 119 and a brief note on 
-
-Dharmasāstra writers from Kamarupa) 
-
-585-984 
-
-Appendix A- List of Works on 
-
-Dharmaśāstra 
-
-985-1158 
-
-Appendix B -- List of Authors on 
-
-Dharmaśāstra 
-
-1159-1242 
-
-Rachmandas Bill ala, m_ 2852 
-
-General Index 
-
-1243-1294 
-
-ecd. from Menarchand 
+General Index 1243-1294 

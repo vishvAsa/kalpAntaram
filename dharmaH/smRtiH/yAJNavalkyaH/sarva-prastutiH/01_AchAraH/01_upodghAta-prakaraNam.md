@@ -105,6 +105,12 @@ title = "०१ उपोद्घात-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/01_upodghAta-prakaraNam/001_yogIshvaraM_yAjnavalkyaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having worshipped Yājñavalkya, the lord of yogins, the sages said:  
+“Tell us in full the duties of the social classes, the stages of life, and the others.”
+</details>
+
 <details><summary>मूलम्</summary>
 
 योगीश्वरं याज्ञवल्क्यं  
@@ -199,6 +205,12 @@ _कस्मात् पुनर् वेदसिद्ध एवार्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/01_upodghAta-prakaraNam/002_mithilAsthaH_sa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Dwelling in Mithilā, that lord of yogins meditated for a moment and said to the sages:  
+“Learn the duties in that land where the black antelope [roams].”
+</details>
+
 <details><summary>मूलम्</summary>
 
 मिथिला-स्थः स योगीन्द्रः  
@@ -287,6 +299,12 @@ _किम् अनभिगम्यैव मुनिभिर् योग�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/01_upodghAta-prakaraNam/003_purANanyAyamImAMsA_dharmashAstrAngamishritAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The four Vedas, along with the Purāṇas, Nyāya, Mīmāṃsā,  
+the treatises on duty, and the auxiliary sciences, are the fourteen sources of knowledge and of duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुराण-न्याय-मीमांसा-  
@@ -359,6 +377,12 @@ _यद्य् अपि न मुनिभिर् वेदाद् ए�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/01_upodghAta-prakaraNam/004_manvatriviShNuhArIta_yAjnavalkyoshano.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Manu, Atri, Viṣṇu, Hārīta, Yājñavalkya, Uśanas, Aṅgiras,  
+Yama, Āpastamba, Saṃvarta, Kātyāyana, Bṛhaspati,
+</details>
+
 <details><summary>मूलम्</summary>
 
 मन्व्-अत्रि-विष्णु-हारीत-  
@@ -451,6 +475,12 @@ _अभेद एव सिद्ध इति चेत्, नेत्य् 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/01_upodghAta-prakaraNam/005_parAsharavyAsashankha_likhitA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Parāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, Gautama,  
+Śātātapa, and Vasiṣṭha are the promulgators of the treatises on duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पराशर-व्यास-शङ्ख-  
@@ -471,6 +501,12 @@ _अभेद एव सिद्ध इति चेत्, नेत्य् 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/01_upodghAta-prakaraNam/006_deshe_kAla.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever property is given in a proper place, at a proper time, by proper means,  
+with faith, to a worthy recipient—all that is the mark of duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशे काल उपायेन  
@@ -534,6 +570,12 @@ _उक्तं धर्मादयः शास्त्रस्य वि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/01_upodghAta-prakaraNam/007_shrutiH_smRtiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Revealed scripture, traditional law, the conduct of the virtuous, what is agreeable to oneself,  
+and desire born of proper resolve—this is traditionally held to be the root of duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रुतिः स्मृतिः सद्-आचारः  
@@ -1040,6 +1082,12 @@ _<u>ननु</u> इयं धर्मलक्षणावधृतिर् 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/01_upodghAta-prakaraNam/008_ijyAchAradamAhiMsA_dAnasvAdhyAyakarmaNAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Among sacrifices, conduct, self-restraint, non-violence,  
+gift-giving, and recitation of the Veda, the supreme duty is seeing the Self through yoga.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इज्याचार-दमाहिंसा-  
@@ -1119,6 +1167,12 @@ _<u>ननु</u> च श्रुतिस्मृत्योर् अबो
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/01_upodghAta-prakaraNam/009_chatvAro_vedadharmajnAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Four persons who know the Veda and duty, or an assembly of those learned in the three Vedas—  
+whatever they declare shall be duty, or what is declared by a single person most knowledgeable in the Self.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चत्वारो वेद-धर्मज्ञाः  

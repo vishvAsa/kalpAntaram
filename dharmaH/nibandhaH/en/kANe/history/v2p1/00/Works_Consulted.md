@@ -1,436 +1,614 @@
 +++
 title = "Works Consulted"
-
+proofreader = [ "Gemini 4 Hydrogen",]
 +++
 
-8. D. EWORKS CONSULTED 
+[[Pxxxiv]]
+WORKS CONSULTED
 
-(with references to editions &c.) 
+(with references to editions &c.)
 
-N. B. Works referred to only once or twice and most of those already set out on Pp. 19a, 1790, 195n, 3210, 624r. 713n have been omitted. 
+N. B. Works referred to only once or twice and most of those already set out on pp. [[19a,|19n,]] [[1790,|179n,]] 195n, [[3210,|321n,]] [[624r.|624n,]] 713n have been omitted.
 
-TEXTS 
+TEXTS
 
-Vedic Samhitās Atharvaveda-S. P. Pandit's edition. Kathaka Samhita.-edited by Dr. Sohroeder. Maitriyani Sambita-edited by Dr. Schroeder. Rgveda-Prof. Max Mūller's edition with the com. of Sāyaṇa 
+*Vedic Saṁhitās*
 
-in four volumes. Samaveda--Benfey's edition and Satyavrata Samagrami's edi 
+Atharvaveda—S. P. Pandit's edition.
 
-tion in five volumes, respectively indicated by the addition 
+Kāṭhaka Saṁhitā—edited by Dr. [[Sohroeder.|Schroeder.]]
 
-of 'Benfey' and 'B. I.'. Taittiriya Samhita-Anandāśrama edition with the com. of 
+[[Maitriyani|Maitrāyaṇī]] [[Sambita|Saṁhitā]]—edited by Dr. Schroeder.
 
-Sāyana, Vājasaneya Samhita-Weber's edition. 
+Ṛgveda—Prof. Max Müller's edition with the com. of Sāyaṇa in four volumes.
 
-Brāhmaṇas, Aranyakas and Upaniṣads Aitareya Brāhmaṇa with Sāyana's Commentary_Published by 
+Sāmaveda—Benfey's edition and Satyavrata Sāmaśrami's edition in five volumes, respectively indicated by the addition of 'Benfey' and 'B. I.'.
 
-the Anandāśrama Press. Gopatha Brāhmana-(B. I. edition) or the one edited by Dr. 
+Taittirīya Saṁhitā—Ānandāśrama edition with the com. of Sāyaṇa.
 
-Gaastra ( Leyden, 1919 ). Kausitaki Brāhmaṇam-edited by Lindner. Sāmavidbāna Brahmana--edited by A. C. Burnell (1873). Satapatha Brāhmaṇa-edited by Weber. Saṅkhyāyana Brāhmaṇa-Anandāsrama Pregs edition. Taittiriya Brāhmaṇa-Anandāśrama Press edition. Tāndya Mahā-Brāhmana with Sayapa's Commentary-B. I. edi. 
+Vājasaneya Saṁhitā—Weber's edition.
 
-tion (also called Pancavimśa Brāhmaṇa from the number 
+*Brāhmaṇas, Āraṇyakas and Upaniṣads*
 
-of chapters ). Aitareya Ārapyaka--Edited by Prof. Keith (in the Anecdota 
+Aitareya Brāhmaṇa with Sāyaṇa's Commentary—Published by the Ānandāśrama Press.
 
-Oxoniensia ). Taittiriya AranyakaĀnandāsrama edition. Upanigadg--The edition of the text of 28 Upaniṣads issued by 
+Gopatha Brāhmaṇa—(B. I. edition) or the one edited by Dr. Gaastra (Leyden, 1919).
 
-the Nirnayasāgara Press, Bombay. Maitri Upaniṣad_Edited by E, B, Cowell in B. I. *series. 
+[[Kausitaki Brāhmaṇam|Kauṣītaki Brāhmaṇa]]—edited by Lindner.
 
-Works Consulted 
+[[Sāmavidbāna|Sāmavidhāna]] Brāhmaṇa—edited by A. C. Burnell (1873).
 
-Srauta, Grhya and Dharma sutras and similar works 
+[[Satapatha|Śatapatha]] Brāhmaṇa—edited by Weber.
 
-connected with the Vedas, Apagtamba-srauta-sūtra in three volumes---Edited by Dr. Garbe 
+[[Saṅkhyāyana|Śāṅkhyāyana]] Brāhmaṇa—Ānandāśrama [[Pregs|Press]] edition.
 
-(B. I. Series ). Apastamba-grhya-sutra with the commentary of Sudarśanācāry& 
+Taittirīya Brāhmaṇa—Ānandāśrama Press edition.
 
-(Mysore Government Central Library series ). Apastamba-dharma-sūtra with the commentary of Haradatta 
+Tāṇḍya Mahā-Brāhmaṇa with [[Sayapa's|Sāyaṇa's]] Commentary—B. I. edition (also called Pañcaviṁśa Brāhmaṇa from the number of chapters).
 
-published at Kumbakonam by Halasyapātbaśāstri. Apastamblya-mantra-patha ( edited by Dr. Winternitz in Anec. 
+Aitareya [[Ārapyaka|Āraṇyaka]]—Edited by Prof. Keith (in the Anecdota Oxoniensia).
 
-dota Oxoniensia, 1897 ). Āývalāyana-srauta-sūtra with the commentary of Gārgya Nārā. 
+Taittirīya Āraṇyaka—Ānandāśrama edition.
 
-yaṇa (B. I. Series, 1879). Aśvalāyana-grbya-sūtra with the commentary of Nārāyana 
+[[Upanigadg|Upaniṣads]]—The edition of the text of 28 Upaniṣads issued by the Nirṇayasāgara Press, Bombay.
 
-(Nirnayasāgara Press edition, 1894). Āāvalāyana-gļhya-kārika of Kumārila ( in the above edition ). Asyalāyana-gphya-parisista (in the edition of Āśv.gļhya above). Baudhāyana-srauta-sutra in three volumes ( edited by Dr. Caland 
+[[Maitri|Maitrī]] Upaniṣad—Edited by E. B. Cowell in B. I. series.
 
-in B. I. Series). Baudhāyana-gshya-sutra edited by Dr. Sham Sastri in Mysore 
+[[Pxxxv]]
+*Śrauta, Gṛhya and Dharma sūtras and similar works connected with the Vedas.*
 
-University Oriental Library publications, 1920. Baudhāyana-gļhyaseṣa-sutra ( in the above edition). Baudbāyapa-gphya-paribhāṣā-sūtra (in the ed. of the gļhya 
+[[Apagtamba|Āpastamba]]-śrauta-sūtra in three volumes—Edited by Dr. Garbe (B. I. Series).
 
-sutra ), Baudhāyana-pits-medhasūtra ( in the ed. of the gļhya). Baudhayana-dharma-sutra-Anandāśrama Press, Bhāradyājagļhya-sūtra-edited by Dr. Salomons (Leyden, 1913). Brhad-devatā ( edited by Prof. Macdonell in the Harvard 
+Āpastamba-gṛhya-sūtra with the commentary of [[Sudarśanācāry&|Sudarśanācārya]] (Mysore Government Central Library series).
 
-Oriental series ). Drāhyāyaṇa-brautra-sūtra-Edited by Dr. Reuter (vol. I only ). Gautama-dharmasūtra with the commentary of Haradatta 
+Āpastamba-dharma-sūtra with the commentary of Haradatta—published at Kumbakonam by [[Halasyapātbaśāstri.|Halasyanāthaśāstri.]]
 
-(Anandāsrama Press). Gobhila-grhya-sutra--(B. I. Series ). Gșhyasamgraha-parisista (edited by Bloomfield in Z. D. M. G. 
+Āpastambīya-mantra-pāṭha (edited by Dr. Winternitz in Anecdota Oxoniensia, 1897).
 
-vol. 35 pp. 533 ff). The same is published in the B. I. series 
+[[Āývalāyana|Āśvalāyana]]-śrauta-sūtra with the commentary of Gārgya Nārāyaṇa (B. I. Series, 1879).
 
-with a commentary as Gphyasaṁgraba of Gobbilaputra. Hiranyakeớigṭhye, with extracts from the commentary of Mātr 
+Āśvalāyana-gṛhya-sūtra with the commentary of Nārāyaṇa (Nirṇayasāgara Press edition, 1894).
 
-datta, edited by Dr. J. Kirste ( Vienna, 1889). Hiranyakeśi-frauta-vide 'Satyāṣadha-srauta.' Kathaka-gļhya, with the commentaries of Adityadarsana, 
+[[Āāvalāyana|Āśvalāyana]]-gṛhya-kārikā of Kumārila (in the above edition).
 
-Devapala, Brābmanabala-edited by Dr. Caland (1925). Katyāyanasrauta-sūtra, with the commentary of Karka and 
+[[Asyalāyana-gphya-parisista|Āśvalāyana-gṛhya-pariśiṣṭa]] (in the edition of Āśv. gṛhya above).
 
-Yajāikadeve-edited by Weber, 1859. 
+Baudhāyana-śrauta-sūtra in three volumes (edited by Dr. Caland in B. I. Series).
 
-XXXVI 
+Baudhāyana-gṛhya-sūtra edited by Dr. Sham Sastri in Mysore University Oriental Library publications, 1920.
 
+Baudhāyana-gṛhyaśeṣa-sūtra (in the above edition).
 
+[[Baudbāyapa|Baudhāyana]]-gṛhya-paribhāṣā-sūtra (in the ed. of the gṛhya-sūtra).
 
-Katyāyana-snana-sutra (appendix to Paraskara-gļhya-sūtra, 
+Baudhāyana-pitṛ-medhasūtra (in the ed. of the gṛhya).
 
-which see ). Kausika-sūtra, with extracts from the commentary of Kesavam 
+Baudhāyana-dharma-sūtra—Ānandāśrama Press.
 
-edited by Prof. Bloomfield, 1890. Khadiragpbya, with the commentary of Rudraskanda (Mysore 
+[[Bhāradyājagļhya|Bhāradvājagṛhya]]-sūtra—edited by Dr. Salomons (Leyden, 1913).
 
-Government Oriental Library series ). Lātyāyana-srauta-sūtra, with the commentary of Agnisvāmin 
+Bṛhad-devatā (edited by Prof. Macdonell in the Harvard Oriental series).
 
-(B. I. series ). Laugākṣigphya-sūtra, with the commentary of Devapāla in two 
+Drāhyāyaṇa-[[brautra|śrauta]]-sūtra—Edited by Dr. Reuter (vol. I only).
 
-volumes ( in Kashmir series of texts, 1928). It is the same 
+Gautama-dharmasūtra with the commentary of Haradatta (Ānandāśrama Press).
 
-as Kāthakagṛhyasūtra. Manava grbya with the commentary of Aṣtavakra (Gaikwad's 
+Gobhila-gṛhya-sūtra—(B. I. Series).
 
-Oriental Series, Baroda, 1926). Paraskara.gphya-sūtra-edited by Mahamahopādhyāya Shridbar 
+Gṛhyasaṁgraha-pariśiṣṭa (edited by Bloomfield in Z. D. M. G. vol. 35 pp. 533 ff). The same is published in the B. I. series with a commentary as [[Gphyasaṁgraba|Gṛhyasaṁgraha]] of [[Gobbilaputra.|Gobhilaputra.]]
 
-gastri Pathak with a Marathi translation. Here and there the Gujarati Press edition (1917) which contains the com mentaries of Karka, Harihara, Jayarāma and two others 
+[[Hiranyakeớigṭhye,|Hiraṇyakeśigṛhya,]] with extracts from the commentary of Mātṛdatta, edited by Dr. J. Kirste (Vienna, 1889).
 
-has been referred to for the sake of the commentaries. Saṅkhyāyana-srauta-sūtra-edited by Dr, Hillebrandt in three 
+Hiraṇyakeśi-[[frauta|śrauta]]—vide '[[Satyāṣadha|Satyāṣāḍha]]-śrauta.'
 
-volunies (B. I. series ). Saṅkhyāyana-grhya-sūtra-game 88 Kausitaki-grhyd-sūtra 
+Kāṭhaka-gṛhya, with the commentaries of Ādityadarśana, Devapāla, [[Brābmanabala|Brāhmaṇabala]]—edited by Dr. Caland (1925).
 
-( Benares Sanskrit series ). Saṅkha-Likhita-dharmasūtra-reconstructed by P. V. Kane and 
+Kātyāyanaśrauta-sūtra, with the commentary of Karka and [[Yajāikadeve|Yājñikadeva]]—edited by Weber, 1859.
 
-published in the Annals of the Bhandarkar O. R. Institute, 
+[[Pxxxvi]]
+Kātyāyana-snāna-sūtra (appendix to Pāraskara-gṛhya-sūtra, which see).
 
-Poona. Satyāsādha-srauta-sutra-published with a commentary (Anan 
+Kauśika-sūtra, with extracts from the commentary of [[Kesavam|Keśava]]—edited by Prof. Bloomfield, 1890.
 
-dasrama Press ). Vaikhanase-smārta-sūtra-edited with English translation by 
+Khādiragṛhya, with the commentary of Rudraskanda (Mysore Government Oriental Library series).
 
-Dr. Caland, Calcutta, 1927. Vārabasrauta-sūtra--edited by Dr. Caland and Dr. Raghu Vira, 
+Lāṭyāyana-śrauta-sūtra, with the commentary of Agnisvāmin (B. I. series).
 
-Lahore 1933. Vāraha-gļhya-sūtra-Gaikwad Oriental Series, Baroda, 1921. Vasistha-dbarma-sūtramedited by Dr. Fūhrer in the Bombay 
+Laugākṣigṛhya-sūtra, with the commentary of Devapāla in two volumes (in Kashmir series of texts, 1928). It is the same as Kāṭhakagṛhyasūtra.
 
-Sanskrit series. Viṣṇu-dharma-sūtra-edited by Dr. Jolly, Caloutta, 1881. 
+Mānava gṛhya with the commentary of Aṣṭāvakra (Gaikwad's Oriental Series, Baroda, 1926).
 
-PURĀŅAS Agnipurāṇam-published by the Anandasrama Press, , Bhagavata-purāṇa with the commentary of Sridhara in two 
+Pāraskara-gṛhya-sūtra—edited by Mahāmahopādhyāya [[Shridhar gastri|Shridharśastri]] Pathak with a Marathi translation. Here and there the Gujarati Press edition (1917) which contains the commentaries of Karka, Harihara, Jayarāma and two others has been referred to for the sake of the commentaries.
 
-volumes (printed at Ganpat Krishnaji Pregs). Bhaviṣyapurana--published by the Venkateśvara Press, Bombay. 
+[[Saṅkhyāyana|Śāṅkhyāyana]]-śrauta-sūtra—edited by Dr. Hillebrandt in three [[volunies|volumes]] (B. I. series).
 
-Brahmapurana-Anandasrama Press. Brahmāṇdapurāṇa-Venkatesvara Press, Bombay. 
+[[Saṅkhyāyana|Śāṅkhyāyana]]-gṛhya-sūtra—[[game 88|same as]] [[Kausitaki-grhyd-sūtra|Kauṣītaki-gṛhya-sūtra]] (Benares Sanskrit series).
 
-Works Consulted 
+[[Saṅkha|Śaṅkha]]-Likhita-dharmasūtra—reconstructed by P. V. Kane and published in the Annals of the Bhandarkar O. R. Institute, Poona.
 
-Ixxvii 
+Satyāṣāḍha-śrauta-sūtra—published with a commentary (Ānandāśrama Press).
 
-Kūrmapuriṇa-B. I. series. Markandeyapurāṇa-B. I. series. Matsyapurāṇa--Anandasrama Press. Naradiya-purāṇa-Venkatesvara Press, Bombay. Sometimes 
+[[Vaikhanase|Vaikhānasa]]-smārta-sūtra—edited with English translation by Dr. Caland, Calcutta, 1927.
 
-cited as Bṛhan-Nāradiya. Nșsimbapurāṇa-(published by Messrs. Gopal Narayan & Co., 
+[[Vāraba|Vārāha]]śrauta-sūtra—edited by Dr. Caland and Dr. Raghu Vira, Lahore 1933.
 
-Bombay, 1911). Padmapurāṇa-Anandāśrama Press. Sabyādrikbanda & portion of the Skanda-purāpa, edited by 
+Vārāha-gṛhya-sūtra—Gaikwad Oriental Series, Baroda, 1921.
 
-Dr. Gerson Da Cunha in 1877, Bombay. Skandapurāṇa-Venkateśvara Press, Bombay. Vāmana-purāṇa-Venkatesvara Press, Bombay. Varāha-purāṇa--B. I. series. Vāyu-purāṇa-published by the Anandaśrama Press. Some 
+Vasiṣṭha-dharma-sūtra—edited by Dr. [[Fūhrer|Führer]] in the Bombay Sanskrit series.
 
-times the B. I. edition in two volumes has been referred 
+Viṣṇu-dharma-sūtra—edited by Dr. Jolly, Calcutta, 1881.
 
-to, but wherever that is so the volume is mentioned. Viṣṇudharmottara-Venkatesvara Press, Bombay. Viṣṇupurāṇa-published by Messrs. Gopal Narayan & Co., 
+PURĀṆAS
 
-Bombay 1902. 
+Agnipurāṇam—published by the Ānandāśrama Press.
 
-SMRTIS. 
+Bhāgavata-purāṇa with the commentary of Śrīdhara in two volumes (printed at Ganpat Krishnaji [[Pregs|Press]]).
 
-N. B. Pandit Jivanande published in two parts a collection of 26 gmṛtis and the Anandasrama Press, Poona, publiebed another in 1905. They are referred to as 'Jiv.' and 'Anan.' respectively below. 
+Bhaviṣyapurāṇa—published by the Veṅkaṭeśvara Press, Bombay.
 
-Angirasa-smrtial in both Jiv. and Anan, with a few variations). Āpastamba-smrti in verse (Anan). Atri (in both Jiv. and Anan.). 
+Brahmapurāṇa—Ānandāśrama Press.
 
-Ausanasa-smrti (Jiv.). Brhad-Yama ( Anan.). Bphaspati (Anan.). Bṛbat-Parāśara (Anan). Caturvimsati-mata-samgraha (Benares Sanskrit series ). Dakṣa-smrti ( Anan.). Gobhila-smști ( Anan, and Jiv.). Also called Karmapradipa 
+Brahmāṇḍapurāṇa—Veṅkaṭeśvara Press, Bombay.
 
-or Obāndogapariṭiṣta or Kātyāyana-smsti. Katyayana-smpti on Vyavahāra (reconstructed by P. V. Kane 
+[[Pxxxvii]]
+[[Kūrmapuriṇa|Kūrmapurāṇa]]—B. I. series.
 
-as Katyāyanasmṛti-sāroddhāra, with English translation 
+Mārkaṇḍeyapurāṇa—B. I. series.
 
-and notes ). Laghu-Atri (Jiv.). Laghu-Harita ( Jiv. and Anan.). Laghu-Saṅkha ( Anan.). Laghu-Satātapa ( Ānan.). 
+Matsyapurāṇa—Ānandāśrama Press.
 
-Ixviii 
+[[Naradiya|Nāradīya]]-purāṇa—Veṅkaṭeśvara Press, Bombay. Sometimes cited as Bṛhan-Nāradīya.
 
+[[Nșsimbapurāṇa|Nṛsiṁhapurāṇa]]—(published by Messrs. Gopal Narayan & Co., Bombay, 1911).
 
+Padmapurāṇa—Ānandāśrama Press.
 
-Laghu-Vispu ( Anan.). Laghu-Vyāga ( Jiv.). Lagbvāśvalāyana.- Anan.). Likhita-smrti-(Anan.). Manusmrti with the commentary of Kullūka (Nirnayasāgar ed.). Manusmṛti with the commentaries of Medbātithi, Govindarāja, 
+[[Sabyādrikbanda &|Sahyādrikhaṇḍa—a]] portion of the Skanda-purāṇa, edited by Dr. Gerson Da Cunha in 1877, Bombay.
 
-Sarvajña-Nārāyana and three others ( edited by Rao Saheb 
+Skandapurāṇa—Veṅkaṭeśvara Press, Bombay.
 
-V, N. Mandlik ). Nārada-smrti (edited by Dr. Jolly ). Parāśara-smrti-(Bombay Sanskrit series). Prajāpati-smrti-( Anan.). Samvarta-smrti. Jiv. and Anan.). Saṅkha-smrti- ( Anan.). Śatātapa-smpti- Anan. ). Saunaka-kārikā-Me. in the Bombay University Library ). Usanas-8mști, Veda-Vyāsa-smrti ( Anan). Vṛddha-Gautama (Jiv.). Vrddha-Harita- Anan. ). Yājñavalkya-smpti, with the commentary of Viśvarūpa (Trivan 
+Vāmana-purāṇa—Veṅkaṭeśvara Press, Bombay.
 
-drum Sanskrit series, 1922 and 1924), Yājñavalkya-smrti, with the commentary Mitāksarā of Vijñān 
+Varāha-purāṇa—B. I. series.
 
-eśvara ( Nirnaya-sāgara Press, 1926 ). Yama-smiti-(in Jiv. and Anan.). 
+Vāyu-purāṇa—published by the Ānandāśrama Press. Sometimes the B. I. edition in two volumes has been referred to, but wherever that is so the volume is mentioned.
 
-Commentaries and Digests on dharmaśāstra 
+Viṣṇudharmottara—Veṅkaṭeśvara Press, Bombay.
 
-Ācāramayūkba of Nilakantha-edited by Mr. J. R. Gharpure, 
+Viṣṇupurāṇa—published by Messrs. Gopal Narayan & Co., Bombay 1902.
 
-(1921 ). Ācāraratda-published by the Nirnaya-sāgara Press, Bombay 
+SMṚTIS.
 
-(Pothi size ). Āhnikaprakāśa (part of Viramitrodaya of Mitramisra_published 
+N. B. Pandit [[Jivanande|Jīvānanda]] [[publiebed|published]] in two parts a collection of 26 smṛtis and the Ānandāśrama Press, Poona, published another in 1905. They are referred to as 'Jiv.' and '[[Anan.|Ānan.]]' respectively below.
 
-in the Chowkhamba Sanskrit series ). Āhnikatattva of Raghunandana (published by Pandit Jivānanda). Aparārka's Commentary on Yajñavalkya-smrti (Anandāśrama 
+[[Angirasa-smrtial|Āṅgirasa-smṛti]]—(in both Jiv. and Ānan. with a few variations).
 
-press). Astāvakra-Vide Mānavagļhya. Bālambhatti of Balambhatta Pāyagunde-Com. on the Mitak 
+Āpastamba-smṛti in verse (Ānan).
 
-ṣarā-medited by Mr. J. R. Gharpure, Bombay. Caturvarga-cintamani of Hemādri--published in the B. I. 
+Atri (in both Jiv. and Ānan.).
 
-series, Dānacandrika with Marathi translation--edited by Bhikācārya 
+Auśanasa-smṛti (Jiv.).
 
-Aināpure and published at Baroda, 1908. 
+Bṛhad-Yama (Ānan.).
 
-Works Consulted 
+Bṛhaspati (Ānan.).
 
-Xxxir 
+[[Bṛbat|Bṛhat]]-Parāśara (Ānan).
 
-Dana-mayūkha of Nilakantha-Chowkhamba Sanskrit series, 
+Caturviṁśati-mata-saṁgraha (Benares Sanskrit series).
 
-1909. Dānakriya-kaumudi of Govindananda (B. I. Series, 1903 ). Dāna vākyavali of Vidyapati (D. O. Ms. No. 368 of 1891-95), Dattakamımāṁsā of Naṇdapaṇdita with Bengali translation, 
+Dakṣa-smṛti (Ānan.).
 
-Calcutta, Dayabbāga of Jimītavāhanam-edited by Pandit Jivānanda, 1893. Devapāla_Vide Kāthakagļhya. Dharmasindhu with Marathi Translation--published by the 
+Gobhila-smṛti (Ānan. and Jiv.). Also called Karmapradīpa or [[Obāndogapariṭiṣta|Chāndogapariśiṣṭa]] or Kātyāyana-smṛti.
 
-Nirṇayasagara Press, Bombay (1926). Dipakalikā of Śūlapāṇi (edited by Mr. J. R. Gharpure, 1939). GopinathaVide Samskāra-ratna-māla. Grhastharatnākara of Caṇdesvara-published in the B. I. series. Haradatta -Vide Gautamadharmasūtra, Harihara-Vide Pāraskaragļhya. Hemādri-Vide Caturvarga-cintamani. 
+Kātyāyana-smṛti on Vyavahāra (reconstructed by P. V. Kane as Kātyāyanasmṛti-sāroddhāra, with English translation and notes).
 
-Jātiviveka--Deccan College Ms. No 347 of 1887-1891. Jayarama-Vide Pāraskaragphya. Karka-Vide Paraskaragshya. Kr̥tyakalpataru-Ms. in the possession of Rao Bahadur Ranga 
+Laghu-Atri (Jiv.).
 
-swami Ayyangar. Kṛtyaratnākara by Candeśvara-(B. I. series, 1925). Madanapārijāta of Madanapāla and Visvesvarabhatta (B. I. 
+Laghu-Hārīta (Jiv. and Ānan.).
 
-series), Malamāsatattva of Ragbunandana (published by Pandit 
+Laghu-Śaṅkha (Ānan.).
 
-Jivānanda). Medhātithi--Vide Manusmrti. Mitākṣarā of Vijñānesvara-published by the Nirnayasāgara 
+Laghu-Śātātapa (Ānan.).
 
-Press, Bombay, 1926. Nirnayasindhu of Kamalākarabhatta, with Marathi Transla 
+[[Pxxxviii]]
+Laghu-Viṣṇu (Ānan.).
 
-tion--Published by the Nirnayasāgara Press, Bombay, 
+Laghu-[[Vyāga|Vyāsa]] (Jiv.).
 
-1935. Nityācārapaddhati of Vidyakara Vajapeyi (B. I. series ). Nityācārapradips of Narasimha Vājapeyi, two volumes (B. I. 
+Laghvāśvalāyana—(Ānan.).
 
-series). Parāśara-Madhaviya of Mādhavācārya-edited by Vāmana 
+Likhita-smṛti—(Ānan.).
 
-gastri Islampurkar in the Bombay Sanskrit series. Paribhāṣāprakāsa (part of Vira-mitrodaya ) by Mitramiśra 
+Manusmṛti with the commentary of Kullūka (Nirṇayasāgar ed.).
 
-(Chowkhamba Sanskrit series ). Pratiṣthāmayūkba of Nilakantha-edited by Mr. J. R, Ghar. 
+Manusmṛti with the commentaries of Medhātithi, Govindarāja, Sarvajña-Nārāyaṇa and three others (edited by Rao Saheb V. N. Mandlik).
 
-pure, Bombay. Pravaramañjart of Purusottama--Edited by Chentsalrao, 
+Nārada-smṛti (edited by Dr. Jolly).
 
-Mysore, 1900. 
+Parāśara-smṛti—(Bombay Sanskrit series).
 
+Prajāpati-smṛti—(Ānan.).
 
+Saṁvarta-smṛti—(Jiv. and Ānan.).
 
-Prayasoittaviveka of Sūlapāṇi-edited by Pandit Jivananda. Pūjāprakāśa (part of Viramitrodaya) of Mitramiśra ( Chow. 
+Śaṅkha-smṛti—(Ānan.).
 
-khamba Sanskrit series ). Rajadharmakaustubha of Anantadeva-published in Gaikwad's 
+Śātātapa-smṛti—(Ānan.).
 
-Oriental series, 1935. Samskāra-kaustubha of Anantadeva with Marathi translation 
+Śaunaka-kārikā—([[Me.|Ms.]] in the Bombay University Library).
 
-published by Vyankatācārya Upādhye at Baroda. Samskāramayūkba of Nilakantha-published by the Gujarati 
+Uśanas-smṛti.
 
-Prese, Bombay. Samskāraprakasa (part of Viramitrodays ) - Chowkhamba 
+Veda-Vyāsa-smṛti (Ānan.).
 
-Sanskrit series. Samskāra-ratnamala of Gopinātha-published by the Ananda 
+Vṛddha-Gautama (Jiv.).
 
-srama Press. Samskāratattva of Raghunandana-published by Pandit Jiva 
+Vṛddha-Hārīta—(Ānan.).
 
-nanda. Sarasvativilāsa-published in the Oriental Library Publications . of the Mysore University, 1927. Smsticandrika of Devappa-bhatta-dited by Mr. J. R. Gbar 
+Yājñavalkya-smṛti, with the commentary of Viśvarūpa (Trivandrum Sanskrit series, 1922 and 1924).
 
-• pure, Bombay, Smrtimukta phala by Vaidyanātha (the Samskāra and Ahnika 
+Yājñavalkya-smṛti, with the commentary Mitākṣarā of Vijñāneśvara (Nirṇaya-sāgara Press, 1926).
 
-portions edited by Mr. J. R. Gharpure. Bombay). Smftyarthasāgare of Obalārl(printed at Nirnayasagara Press, 
+Yama-smṛti—(in Jiv. and Ānan.).
 
-Bombay ). Smṛtyarthasāra of Sridhara--published by the Anandāśrams 
+*Commentaries and Digests on dharmaśāstra*
 
-Press, Poona. Subhodhinī of Visvesvara-bhatta-edited by Mr. J. R. Gharpure. Suddhitattvā of Raghunandana-published by Pandit Jivānanda. Sūdrakamalakara of Kamalakarabhatta with Marathi Trang 
+Ācāramayūkha of Nīlakaṇṭha—edited by Mr. J. R. Gharpure, (1921).
 
-lation-published by the Nirnayasāgara Press, Bombay, 1880. Śūdrakrtyatattva of Raghunandang-published by Pandit Jiva 
+[[Ācāraratda|Ācāraratna]]—published by the Nirṇaya-sāgara Press, Bombay (Pothi size).
 
-nanda. Udvāhatattva of Raghunandana-edited by Pandit Jivananda. Utsargs-mayukha of Nilakaṇthe-edited by Mr. J. R. Gharpure 
+Āhnikaprakāśa (part of Vīramitrodaya of Mitramiśra—published in the Chowkhamba Sanskrit series).
 
-Bombay. Varsa kriya-kaumudi of Govindananda-published in B. I. Series. Viramitrodaya (vyavahāra portion) edited by Pandit Jivānanda, Viśvarūpa's commentary on Yājñavalkya-smrti published in 
+Āhnikatattva of Raghunandana (published by Pandit Jīvānanda).
 
-the Trivandrum Sanskrit series. Vivada-ratnakara of Candesvara--published in the B. I. series. Vrātyatāprāyascitta-nirṇaya-by Nāgesabhatta (Chowkhamba 
+Aparārka's Commentary on Yājñavalkya-smṛti (Ānandāśrama press).
 
-Sanskrit aeries, 1927). Vyavahāramayūkba of Nilakantha-edited by P. V. Kane in 
+Aṣṭāvakra—Vide Mānavagṛhya.
 
-the Bombay Sanskrit series, Poona. 
+Bālambhaṭṭī of Bālambhaṭṭa Pāyaguṇḍe—Com. on the Mitākṣarā—[[medited|edited]] by Mr. J. R. Gharpure, Bombay.
 
-Works Consulted 
+Caturvarga-cintāmaṇi of Hemādri—published in the B. I. series.
 
-Yatidbarmagamgraba of Visveśvara Sarasvati (published by 
+Dānacandrikā with Marathi translation—edited by Bhikācārya Aināpure and published at Baroda, 1908.
 
-the Anandāśrama Press, Poona, 1909 ). 
+[[Pxxxix]]
+Dāna-mayūkha of Nīlakaṇṭha—Chowkhamba Sanskrit series, 1909.
 
-Other Miscellaneous Texts Arthasāgtra-gee Kautilya. Aṣtāngasamgrabs of Vāgbhata - published by the Nirnayasi 
+Dānakriyā-kaumudī of Govindānanda (B. I. Series, 1903).
 
-gara Press. Br̥hati of Prabhākara ( Tarkapāda )- edited in the Madras Uni. 
+Dāna-vākyāvalī of Vidyāpati ([[D. O.|D. C.]] Ms. No. 368 of 1891–95).
 
-versity Sanskrit series, 1936. Bșhat-samhitā of Varāhamihira--edited by Dr. Kern in the 
+Dattakamīmāṁsā of [[Naṇdapaṇdita|Nandapaṇḍita]] with Bengali translation, Calcutta.
 
-B. I. series. Gāthāgaptaśati of Hāla-published by the Nirnayasāgara Press, 
+Dāyabhāga of [[Jimītavāhanam|Jīmūtavāhana]]—edited by Pandit Jīvānanda, 1893.
 
-Bombay. Harivamsa with the commentary of Nilakantha--published by 
+Devapāla—Vide Kāṭhakagṛhya.
 
-Messrs. Gopal Narayan & Co. Bombay, 1895. Harṣacarita of Banamedited by P. V. Kane with notes. Jaimini's Pūrvamlıāmsā-sūtra with the bhāsya of Sabara and 
+Dharmasindhu with Marathi Translation—published by the Nirṇayasāgara Press, Bombay (1926).
 
-the Tantravārtika and Tup-tikā of Kumārijabhatta ( Anan 
+Dīpakalikā of Śūlapāṇi (edited by Mr. J. R. Gharpure, 1939).
 
-dāśrama Press, Poona ). Jivanmuktiviveka of Vidyāranya (Adyar Library edition). Kādambart of Bāṇa-edited with notes by P. V. Kane. Kāmasūtra of Vātsyāyana-Chowkhamba Sanskrit series, 
+Gopīnātha—Vide Saṁskāra-ratna-mālā.
 
-1912. Karpūramañjarl of Rājasekhara (published in the Harvard 
+Gṛhastharatnākara of Caṇḍeśvara—published in the B. I. series.
 
-Oriental series ). Kāsika, commentary on Pānini's Astādhyāyi (published at 
+Haradatta—Vide Gautamadharmasūtra.
 
-Benares ). Kautilya's Arthaśāstra (Dr. Shama Sastri's edition in the 
+Harihara—Vide Pāraskaragṛhya.
 
-Mysore University Oriental Library Publications 1919). Kṣırasvāmin's commentary on the Amarakośa, edited by K, G. 
+Hemādri—Vide Caturvarga-cintāmaṇi.
 
-Oka, Poona, 1913. Kumũrilabhattaovide under Trantravārtika. Mabābhārata with the commentary of Nilakantha (oblong 
+Jātiviveka—Deccan College Ms. No 347 of 1887–1891.
 
-Bombay edition). Mahabhāsya of Patanjali ( ed. by Dr. Kielhorn in three volumes 
+Jayarāma—Vide Pāraskaragṛhya.
 
-in Bombay Sanskrit series ). Mālatimādhava of Bhavabbūti ( ed. by Sir R. G. Bhandarkar in 
+Karka—Vide Pāraskaragṛhya.
 
-the Bombay Sanskrit series ). Mșcchakatika of Sūdraka-Nirnayasagara Pregs edition, 1900, Nāradiya-sikṣa from the Sikṣāsaṁgraha (published in the Bepares 
+Kṛtyakalpataru—Ms. in the possession of Rao Bahadur Rangaswami Ayyangar.
 
-Sanskrit series ). 
+Kṛtyaratnākara by Caṇḍeśvara—(B. I. series, 1925).
 
-H. D. F 
+Madanapārijāta of Madanapāla and Viśveśvarabhaṭṭa (B. I. series).
 
-xlii 
+Malamāsatattva of Raghunandana (published by Pandit Jīvānanda).
 
+Medhātithi—Vide Manusmṛti.
 
+Mitākṣarā of Vijñāneśvara—published by the Nirṇayasāgara Press, Bombay, 1926.
 
-Nirukta of Yaska-edited by Roth. The edition of Prof. 
+Nirṇayasindhu of Kamalākarabhaṭṭa, with Marathi Translation—Published by the Nirṇayasāgara Press, Bombay, 1935.
 
-Rajvade with a Marathi translation and learned notes in 
+Nityācārapaddhati of Vidyākara [[Vajapeyi|Vājapeyī]] (B. I. series).
 
-Marathi has sometimes been referred to. Panini's Aṣtādhyāyi with Siddhantakaumudi of Bhattoji 
+Nityācārapradīpa of Narasiṁha Vājapeyī, two volumes (B. I. series).
 
-Dikṣita ( Nirnayasagara Press, Bombay 1929 ). Pārvamımāmsāsūtra of Jaimini-vide above 'Jaimini.' Raghuvanga of Kalidasa (published in the Bombay Sanskrit 
+Parāśara-Mādhavīya of Mādhavācārya—edited by [[Vāmana gastri|Vāmanaśāstri]] Islampurkar in the Bombay Sanskrit series.
 
-series ). Rajatarangipi-edited by Dr. Stein, vol. I (text and translation), 
+Paribhāṣāprakāśa (part of Vīra-mitrodaya) by Mitramiśra (Chowkhamba Sanskrit series).
 
-vol. II translation and notes (1900). Rāmāyaṇa of Valmiki. Edition published by R. Nārāyang 
+Pratiṣṭhāmayūkha of Nīlakaṇṭha—edited by Mr. J. R. Gharpure, Bombay.
 
-swami Aiyar at the Madras Law Journal Office (1933), 
+[[Pravaramañjart|Pravaramañjarī]] of Puruṣottama—Edited by Chentsalrao, Mysore, 1900.
 
-except where some other edition is specially referred to. Rgveda-prātisakhy&medited by Dr. Mangaldev Shastri in the 
+[[Pxl]]
+[[Prayasoittaviveka|Prāyaścittaviveka]] of Śūlapāṇi—edited by Pandit Jīvānanda.
 
-Panjab Oriental series ( 1937 ). Rgvidhāna-edited by Dr. Meyor ( transliterated). Sabara's Bhāṣya on the Pārvamimāmsā-sutra ( vide Jaimini). Sakuntala of Kalidasa ( edited by Prof. Monier Williams). Samkarāoārya's bhāsya on the Vedāntasūtra (Nirnayasāgara 
+Pūjāprakāśa (part of Vīramitrodaya) of Mitramiśra (Chowkhamba Sanskrit series).
 
-press, 1927). Sāradātilaka with the commentary of Raghavabhatta (Kashi 
+Rājadharmakaustubha of Anantadeva—published in Gaikwad's Oriental series, 1935.
 
-Sanskrit Series, 1934). Sarvadarśanasamgraba of Mādhavacarya ( Anandasrama Press, 
+Saṁskāra-kaustubha of Anantadeva with Marathi translation—published by Vyankatācārya Upādhye at Baroda.
 
-1906 ). Sarvajña-nārāyaṇa-in Mandlik's edition of Manusmrti. Srautapadārtha-nirvacana ( published in the Benares 'Pandit' 
+Saṁskāramayūkha of Nīlakaṇṭha—published by the Gujarati [[Prese,|Press,]] Bombay.
 
-1887). Sūryasiddhanta (B. I. Series, 1859 ). Sūtasambitā, with the commentary of Madhavācārya-(Anandā. 
+Saṁskāraprakāśa (part of Vīramitrodaya)—Chowkhamba Sanskrit series.
 
-srama Press). Tantravārtika of Kumārilabhatta (vide above 'Jaimini'). Trikānda-mandana of Bhaskara (B. I. series 1903). Tristhallsetu of Nārāyaṇabhatta ( Anandasrama Press, 1915). Uttararımacarita of Bhavabbūti-editod by P. V, Kane. Vedānga Jyotiṣa. Vedāntasūtra with the commentary of Samkarācārya (published 
+Saṁskāra-ratnamālā of Gopīnātha—published by the Ānandāśrama Press.
 
-by the Nirnayasagara Press). Vedāntakalpataru-parimala of Appayadikṣita ( Vizianagram 
+Saṁskāratattva of Raghunandana—published by Pandit Jīvānanda.
 
-Sanskrit series, 1895). Vikramāöka devacarita of Bilhana-edited by Dr. Būhler in 
+Sarasvatīvilāsa—published in the Oriental Library Publications of the Mysore University, 1927.
 
-the Bombay Sanskrit Series, 1875. Yogasutra of Patanjali with Vyasabhasya-(Bombay Sanskrit 
+Smṛticandrikā of [[Devappa-bhatta-dited|Devaṇṇa-bhaṭṭa—edited]] by Mr. J. R. Gharpure, Bombay.
 
-series, 1892). 
+Smṛtimuktāphala by Vaidyanātha (the Saṁskāra and Āhnika portions edited by Mr. J. R. [[Gharpure.|Gharpure,]] Bombay).
 
-Works Consulted 
+Smṛtyarthasāgara of [[Ohalārl|Chalāri]]—(printed at Nirṇayasāgara Press, Bombay).
 
-Modern Works Sir Śivaswainy Aiyar's 'Evolution of Hindu Moral Ideals', 
+Smṛtyarthasāra of Śrīdhara—published by the Ānandāśrama Press, Poona.
 
-1935. Alberuni's 'India' translated by Dr. Sachau in two volumes 
+[[Subhodhinī|Subodhinī]] of Viśveśvara-bhaṭṭa—edited by Mr. J. R. Gharpure.
 
-(London 1888 ). Dr. A. S. Altekar's Education in Ancient India' (1934), The 
+[[Suddhitattvā|Śuddhitattva]] of Raghunandana—published by Pandit Jīvānanda.
 
-position of women in Hindu civilization' (Benares, 1938). Arrian's 'Indika' translated by Mc Crindle, 1877. Arthaśāstra of Kautilya-translation by Dr. Sham Sastry. 
+Śūdrakamalākara of Kamalākarabhaṭṭa with Marathi Translation—published by the Nirṇayasāgara Press, Bombay, 1880.
 
-Mysore 1915. Sir Gooroodas Banerjee's 'Marriage and Stridhana' (5th 
+Śūdrakṛtyatattva of [[Raghunandang|Raghunandana]]—published by Pandit Jīvānanda.
 
-edition, 1923). M. Barth's Religions of India'-translated by Rev. J. Wood 
+Udvāhatattva of Raghunandana—edited by Pandit Jīvānanda.
 
-(Trubner & Co. 1882 ). Sir Dr. R. G. Bhandarkar's 'Vaiṣṇavism and Saivism'( in the 
+Utsarga-mayūkha of Nīlakaṇṭha—edited by Mr. J. R. [[Gharpure|Gharpure,]] Bombay.
 
-German Grundriss ), 1913. Caland and Henry-'L'Agniṣtoma'( Paris 1906 ). Colebrooke's 'Miscellaneous Essays' vol. I and II (1837, 
+Varṣakriyā-kaumudī of Govindānanda—published in B. I. Series.
 
-London) and 'Digest of Hindu Law' (3rd edition 1864-65). Deussen's 'Pbilosophy of the Upaniṣads' translated by Rev. 
+Vīramitrodaya (vyavahāra portion) edited by Pandit Jīvānanda.
 
-A. S. Geden (1906) and 'Das system des Vedānta' 
+Viśvarūpa's commentary on Yājñavalkya-smṛti—published in the Trivandrum Sanskrit series.
 
-(Leipzig, 1883 ). Edicts of Asoka in the Corpus Inscriptionum Indicarum, Vol. I. Eggeling's translation of the Satapatha Brābmana in the 
+Vivāda-ratnākara of Caṇḍeśvara—published in the B. I. series.
 
-Saored Books of the East series, Vol. XII, XXVI, XLI, 
+Vrātyatāprāyaścitta-nirṇaya—by Nāgeśabhaṭṭa (Chowkhamba Sanskrit [[aeries,|series,]] 1927).
 
-XLIII, XLIV. Encyclopaedia of Social Sciences- edited by Seligman and 
+Vyavahāramayūkha of Nīlakaṇṭha—edited by P. V. Kane in the Bombay Sanskrit series, Poona.
 
-Johnson, New York). Enoyclopaedia Britanica ( 14th edition). Enthoven's 'The tribes and castes of Bombay' in three volumes 
+[[Pxli]]
+[[Yatidbarmagamgraba|Yatidharmasaṁgraha]] of Viśveśvara Sarasvatī (published by the Ānandāśrama Press, Poona, 1909).
 
-(Bombay, 1920-22). Epigraphia Carnatica, edited by B. Lewis Rice. . Epigraphia Indica. Fa Hion's 'Record of Buddhist Kingdoms' translated by James 
+*Other Miscellaneous Texts*
 
-Legge ( 1886 ). Dr. J. N. Farquhar's 'Outlines of the Religious Literature of 
+Arthaśāstra—see Kauṭilya.
 
-India' ( Oxford 1920 ). Fick's 'Social Organization of North-East India in Buddha's 
+[[Aṣtāngasamgrabs|Aṣṭāṅgasaṁgraha]] of Vāgbhaṭa—published by the Nirṇayasāgara Press.
 
-time' translated in English by Dr. S. K, Maitra ( Calcutta, 
+Bṛhatī of Prabhākara (Tarkapāda)—edited in the Madras University Sanskrit series, 1936.
 
-1928 ). Fleet's Gupta Insoriptions (Calcutta, 1888). Dr. Ghuryo's 'Caste and Race in India'( London, 1932).ativ 
+Bṛhat-saṁhitā of Varāhamihira—edited by Dr. Kern in the B. I. series.
 
+[[Gāthāgaptaśati|Gāthāsaptaśatī]] of Hāla—published by the Nirṇayasāgara Press, Bombay.
 
+Harivaṁśa with the commentary of Nīlakaṇṭha—published by Messrs. Gopal Narayan & Co. Bombay, 1895.
 
-Grant-Duff's History of the Marathas in three volumes ( Bonabay 
+Harṣacarita of Bāṇa—edited by P. V. Kane with notes.
 
-Reprint, 1863 ). Halsbury' a 'Laws of England' (Hailsham edition). Haug's translation of the Aitareya Brāhmaṇa (Bombay, 1863). Hillebrandt's Ritual-Litteratur Vedische Opfer und Zauber' 
+Jaimini's [[Pūrvamlıāmsā|Pūrvamīmāṁsā]]-sūtra with the bhāṣya of Śabara and the Tantravārtika and Ṭup-ṭīkā of [[Kumārijabhatta|Kumārilabhaṭṭa]] (Ānandāśrama Press, Poona).
 
-(1897); Das Altindische Neu-und vollmonds-opfer.' Holdsworth's History of English Law ( 5th edition, 1931). Hopkins' 'Ethics of India' (New Haven, 1924), 'Epic 
+Jīvanmuktiviveka of Vidyāraṇya (Adyar Library edition).
 
-Mythology' (1915, Strassburg), 'Great Epic of India' 
+[[Kādambart|Kādambarī]] of Bāṇa—edited with notes by P. V. Kane.
 
-( 1901 ). Dr. Hultzsch's 'South Indian Inscriptions' in three volumes 
+Kāmasūtra of Vātsyāyana—Chowkhamba Sanskrit series, 1912.
 
-(Madras). Dean Inge's Christian Ethics' (1930). Itsing's 'Records of the Buddhist Religion ' translated by Dr. 
+[[Karpūramañjarl|Karpūramañjarī]] of Rājaśekhara (published in the Harvard Oriental series).
 
-Takakusu ( Oxford, 1896 ). Prof. Jolly's Recht und Sitte, translated by Mr, Batakrishna 
+Kāśikā, commentary on Pāṇini's Aṣṭādhyāyī (published at Benares).
 
-Ghose, Calcutta, 1928, Kesy's 'Anoient Indian Education' (London 1918). Prof. A. B. Keith's ' Religion and Philosophy of the Veda and 
+Kauṭilya's Arthaśāstra (Dr. Shama Sastri's edition in the Mysore University Oriental Library Publications 1919).
 
-the Upaniṣads' in two parts; Translations of the Taittiriya Samhita, and of the Rgveda Brāhmaṇas (in the Harward 
+Kṣīrasvāmin's commentary on the Amarakośa, edited by K. G. Oka, Poona, 1913.
 
-Oriental Series). Dr. S. V. Ketkar's 'Jñanakośa' ( in Marathi), vol. 2 and 5. M.M. Kunte's Vicissitudes of Aryan Civilization in India,' 
+Kumārilabhaṭṭa—Vide under [[Trantravārtika.|Tantravārtika.]]
 
-1880. Prof. Maodonell and Prof. Keith-Vedic Index in two volumes. Dr. John MacKenzie's 'Hindu Ethics' ( in Religious Quest of 
+Mahābhārata with the commentary of Nīlakaṇṭha (oblong Bombay edition).
 
-India series ), London 192%. Rao Saheb V. N. Mandlik's. Hindu Law' ( 1880, Bombay ). Sir John Marshall-Mohenjo-daro and the Indus Civilization, 
+Mahābhāṣya of Patañjali (ed. by Dr. Kielhorn in three volumes in Bombay Sanskrit series).
 
-in three volumes, 1931, MaxMūller's History of Ancient Sanskrit Literature (1859). Megasthenes-India ( as described by ) translated by MoCrindle 
+Mālatīmādhava of Bhavabhūti (ed. by Sir R. G. Bhandarkar in the Bombay Sanskrit series).
 
-(1877 ). Pollock and Maitland-History of English Law (Cambridge, 
+Mṛcchakaṭika of Śūdraka—Nirṇayasāgara [[Pregs|Press]] edition, 1900.
 
-1895 ). Prof. V. K. Rajvade's edition of the 'Nirukta' (with translation 
+Nāradīya-śikṣā from the Śikṣāsaṁgraha (published in the [[Bepares|Benares]] Sanskrit series).
 
-and learned notes in Marathi), Poona. M. G. Ranade's Rise of the Maratha power.' Rhys Davids Buddbist India' ( 1903 ). Rice's Mysore and Coorg from Inscriptions'( London 1909). Risley's 'Tribes and castes of Bengal' (1891, Calcutta ). G. C. Sarkar's * Hindu Law (7th Edition, 1936 ). 
+[[Pxlii]]
+Nirukta of Yāska—edited by Roth. The edition of Prof. Rajvade with a Marathi translation and learned notes in Marathi has sometimes been referred to.
 
-Works Consulted 
+Pāṇini's Aṣṭādhyāyī with Siddhāntakaumudī of Bhaṭṭoji Dīkṣita (Nirṇayasāgara Press, Bombay 1929).
 
-xly 
+[[Pārvamımāmsāsūtra|Pūrvamīmāṁsāsūtra]] of Jaimini—vide above 'Jaimini.'
 
-Senart's 'Caste in India' (translated from French by Sir Denison 
+[[Raghuvanga|Raghuvaṁśa]] of Kālidāsa (published in the Bombay Sanskrit series).
 
-Ross, 1930). Sherring's' Hindu Tribes and castes,' 3 volumes (1872, 1879). Steele's Law and custom of Hindu castes' (London, 1868 ). Strabo's Geograpby-translated by A. C. Hamilton and W. 
+[[Rājatarangipi|Rājataraṅgiṇī]]—edited by Dr. Stein, vol. I (text and translation), vol. II translation and notes (1900).
 
-Falconer, London, 1866-67. Dr. Tarn's 'Greeks in Bactria and India' ( 1939 ). Mr. Edward Thomson's 'Suttee' (1928). Tilak's 'Orion'(Poona, 1893 ) and 'Arctic Home in the Vedas'. Tod's' Annals and Antiquities of Rajasthan' in two volumes 
+Rāmāyaṇa of Vālmīki. Edition published by R. [[Nārāyang swami|Nārāyaṇaswāmi]] Aiyar at the Madras Law Journal Office (1933), except where some other edition is specially referred to.
 
-(Madras edition of 1873 and 1880). Westermarck's 'Origin and development of moral ideas' in 
+Ṛgveda-prātiśākhya—edited by Dr. Mangaldev Shastri in the Panjab Oriental series (1937).
 
-two volumes (1906 and 1908 ); History of human 
+[[Rgvidhāna|Ṛgvidhāna]]—edited by Dr. [[Meyor|Meyer]] (transliterated).
 
-marriage' (1921). Dr. John Wilson's 'Indian oastes', two volumes (Bombay, 1877). Prof. H. H, Wilson's' Religious festivals of the Hindus' and 
+Śabara's Bhāṣya on the [[Pārvamimāmsā|Pūrvamīmāṁsā]]-sūtra (vide Jaimini).
 
-other Papers in Works edited by Dr. R. Rost, vol. II 
+[[Śakuntala|Śakuntalā]] of Kālidāsa (edited by Prof. Monier Williams).
 
-(London, 1862). Dr. Winternitz's 'Die Frau im Brahmanismus' (1920, Leipzig). Yuan Chwang's Travels in India,' two volumes, translated by 
+[[Samkarāoārya's|Śaṁkarācārya's]] bhāṣya on the Vedāntasūtra (Nirṇayasāgara press, 1927).
 
-Watters ( 1904-5). 
+Śāradātilaka with the commentary of Rāghavabhaṭṭa (Kashi Sanskrit Series, 1934).
+
+Sarvadarśanasaṁgraha of Mādhavācārya (Ānandāśrama Press, 1906).
+
+Sarvajña-nārāyaṇa—in Mandlik's edition of Manusmṛti.
+
+Śrautapadārtha-nirvacana (published in the Benares 'Pandit' 1887).
+
+Sūryasiddhānta (B. I. Series, 1859).
+
+Sūtasaṁhitā, with the commentary of Mādhavācārya—(Ānandāśrama Press).
+
+Tantravārtika of Kumārilabhaṭṭa (vide above 'Jaimini').
+
+Trikāṇḍa-maṇḍana of Bhāskara (B. I. series 1903).
+
+[[Tristhallsetu|Tristhalīsetu]] of Nārāyaṇabhaṭṭa (Ānandāśrama Press, 1915).
+
+[[Uttararımacarita|Uttararāmacarita]] of Bhavabhūti—[[editod|edited]] by P. V. Kane.
+
+Vedāṅga Jyotiṣa.
+
+Vedāntasūtra with the commentary of Śaṁkarācārya (published by the Nirṇayasāgara Press).
+
+Vedāntakalpataru-parimala of Appayadīkṣita (Vizianagram Sanskrit series, 1895).
+
+[[Vikramāöka devacarita|Vikramāṅkadevacarita]] of Bilhaṇa—edited by Dr. Bühler in the Bombay Sanskrit Series, 1875.
+
+Yogasūtra of Patañjali with Vyāsabhāṣya—(Bombay Sanskrit series, 1892).
+
+[[Pxliii]]
+*Modern Works*
+
+Sir [[Śivaswainy|Śivaswamy]] Aiyar's 'Evolution of Hindu Moral Ideals', 1935.
+
+Alberuni's 'India' translated by Dr. Sachau in two volumes (London 1888).
+
+Dr. A. S. Altekar's 'Education in Ancient India' (1934), 'The position of women in Hindu civilization' (Benares, 1938).
+
+Arrian's 'Indika' translated by Mc Crindle, 1877.
+
+Arthaśāstra of Kauṭilya—translation by Dr. Sham Sastry. Mysore 1915.
+
+Sir Gooroodas Banerjee's 'Marriage and Stridhana' (5th edition, 1923).
+
+M. Barth's 'Religions of India'—translated by Rev. J. Wood (Trubner & Co. 1882).
+
+Sir Dr. R. G. Bhandarkar's 'Vaiṣṇavism and Śaivism' (in the German Grundriss), 1913.
+
+Caland and Henry—'L' Agniṣṭoma' (Paris 1906).
+
+Colebrooke's 'Miscellaneous Essays' vol. I and II (1837, London) and 'Digest of Hindu Law' (3rd edition 1864–65).
+
+Deussen's '[[Pbilosophy|Philosophy]] of the Upaniṣads' translated by Rev. A. S. Geden (1906) and 'Das system des Vedānta' (Leipzig, 1883).
+
+Edicts of Aśoka in the Corpus Inscriptionum Indicarum, Vol. I.
+
+Eggeling's translation of the Śatapatha Brāhmaṇa in the [[Saored|Sacred]] Books of the East series, Vol. XII, XXVI, XLI, XLIII, XLIV.
+
+Encyclopaedia of Social Sciences—(edited by Seligman and Johnson, New York).
+
+Encyclopaedia [[Britanica|Britannica]] (14th edition).
+
+Enthoven's 'The tribes and castes of Bombay' in three volumes (Bombay, 1920–22).
+
+Epigraphia Carnatica, edited by B. Lewis Rice.
+
+Epigraphia Indica.
+
+Fa [[Hion's|Hien's]] 'Record of Buddhist Kingdoms' translated by James Legge (1886).
+
+Dr. J. N. Farquhar's 'Outlines of the Religious Literature of India' (Oxford 1920).
+
+Fick's 'Social Organization of North-East India in Buddha's time' translated in English by Dr. S. K. Maitra (Calcutta, 1928).
+
+Fleet's Gupta [[Insoriptions|Inscriptions]] (Calcutta, 1888).
+
+Dr. [[Ghuryo's|Ghurye's]] 'Caste and Race in India' (London, 1932).
+
+[[Pxliv]]
+Grant-Duff's History of the Marathas in three volumes ([[Bonabay|Bombay]] Reprint, 1863).
+
+[[Halsbury' a|Halsbury's]] 'Laws of England' (Hailsham edition).
+
+Haug's translation of the Aitareya Brāhmaṇa (Bombay, 1863).
+
+Hillebrandt's 'Ritual-Litteratur Vedische Opfer und Zauber' (1897); 'Das Altindische Neu-und vollmonds-opfer.'
+
+Holdsworth's History of English Law (5th edition, 1931).
+
+Hopkins' 'Ethics of India' (New Haven, 1924), 'Epic Mythology' (1915, Strassburg), 'Great Epic of India' (1901).
+
+Dr. Hultzsch's 'South Indian Inscriptions' in three volumes (Madras).
+
+Dean Inge's 'Christian Ethics' (1930).
+
+Itsing's 'Records of the Buddhist Religion' translated by Dr. Takakusu (Oxford, 1896).
+
+Prof. Jolly's 'Recht und Sitte,' translated by Mr. Batakrishna Ghose, Calcutta, 1928.
+
+[[Kesy's|Keay's]] '[[Anoient|Ancient]] Indian Education' (London 1918).
+
+Prof. A. B. Keith's 'Religion and Philosophy of the Veda and the Upaniṣads' in two parts; Translations of the Taittirīya Saṁhitā, and of the Ṛgveda Brāhmaṇas (in the [[Harward|Harvard]] Oriental Series).
+
+Dr. S. V. Ketkar's 'Jñānakośa' (in Marathi), vol. 2 and 5.
+
+M. M. Kunte's 'Vicissitudes of Aryan Civilization in India,' 1880.
+
+Prof. [[Maodonell|Macdonell]] and Prof. Keith—Vedic Index in two volumes.
+
+Dr. John MacKenzie's 'Hindu Ethics' (in Religious Quest of India series), London [[192%.|1922.]]
+
+Rao Saheb V. N. Mandlik's 'Hindu Law' (1880, Bombay).
+
+Sir John Marshall—'Mohenjo-daro and the Indus Civilization,' in three volumes, 1931.
+
+[[MaxMüller's|Max Müller's]] History of Ancient Sanskrit Literature (1859).
+
+Megasthenes—India (as described by)—translated by McCrindle (1877).
+
+Pollock and Maitland—History of English Law (Cambridge, 1895).
+
+Prof. V. K. Rajvade's edition of the 'Nirukta' (with translation and learned notes in Marathi), Poona.
+
+M. G. Ranade's 'Rise of the Maratha power.'
+
+Rhys [[Davids|Davids']] '[[Buddbist|Buddhist]] India' (1903).
+
+Rice's 'Mysore and Coorg from Inscriptions' (London 1909).
+
+Risley's 'Tribes and castes of Bengal' (1891, Calcutta).
+
+G. C. Sarkar's 'Hindu Law' (7th Edition, 1936).
+
+[[Pxlv]]
+Senart's 'Caste in India' (translated from French by Sir Denison Ross, 1930).
+
+Sherring's 'Hindu Tribes and castes,' 3 volumes (1872, 1879).
+
+Steele's 'Law and custom of Hindu castes' (London, 1868).
+
+Strabo's [[Geograpby|Geography]]—translated by A. C. Hamilton and W. Falconer, London, 1866–67.
+
+Dr. Tarn's 'Greeks in Bactria and India' (1939).
+
+Mr. Edward Thomson's 'Suttee' (1928).
+
+Tilak's 'Orion' (Poona, 1893) and 'Arctic Home in the Vedas'.
+
+Tod's 'Annals and Antiquities of Rajasthan' in two volumes (Madras edition of 1873 and 1880).
+
+Westermarck's 'Origin and development of moral ideas' in two volumes (1906 and 1908); 'History of human marriage' (1921).
+
+Dr. John Wilson's 'Indian [[oastes',|castes',]] two volumes (Bombay, 1877).
+
+Prof. H. H. Wilson's 'Religious festivals of the Hindus' and other Papers in Works edited by Dr. R. Rost, vol. II (London, 1862).
+
+Dr. Winternitz's 'Die Frau im Brahmanismus' (1920, Leipzig).
+
+Yuan Chwang's 'Travels in India,' two volumes, translated by Watters (1904–5).

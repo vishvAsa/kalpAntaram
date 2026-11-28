@@ -12,6 +12,11 @@ title = "०३ शास्त्रावेक्षणम्"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/019_buddhi-vRddhi-karANy_Ashu.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+019	Let him daily pore over those Institutes of science which soon give increase of wisdom, those which teach the acquisition of wealth, those which are beneficial (for other worldly concerns), and likewise over the Nigamas which explain the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall always pore over such treatises as quickly enliven the intelligence, are conducive to wealth and are beneficial,—as also over the Vedic Scriptures.—(19)
@@ -85,11 +90,6 @@ even after settling down in the house, the man shall reside for two months in th
 **बुद्धिवृद्धिकराणीति** । वेदाविरुद्धन्यायशास्त्रादीनि क्षिप्रं बुद्धिपाटवजनकानि धनार्थानि च औशनस्यादीनि **हितानि च **दृष्टोपकारकादीनि आयुर्वेदानीनि अनवगतशब्दार्थपर्यायकथनेन वेदार्थबोधकान् वेदार्थबोधकान् निगमाख्यान् ग्रन्थान् **नित्यं** पर्यालोचयेत् ॥ ४.१९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-019	Let him daily pore over those Institutes of science which soon give increase of wisdom, those which teach the acquisition of wealth, those which are beneficial (for other worldly concerns), and likewise over the Nigamas which explain the Veda.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **शास्त्राण्य्** अङ्गानि गृह्यन्ते । वेदशास्त्राविरोधीनि च । तदुपसर्जनानि न्यायशास्त्राणि । **निगमास्** तु प्रसिद्धा एवानवगतशब्दार्थपर्यायोपदेशार्थाः । अथ वा निगम्यत एभिर् वेदार्थ इति निगमाः तदङ्गानि शास्त्राणि न त्व् अङ्गव्यतिरिक्तानि वेदशेषाण्य् एव गृह्यन्ते न्यायशास्त्रादीनि ।
@@ -107,6 +107,11 @@ even after settling down in the house, the man shall reside for two months in th
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/020_yathA_yathA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+020	For the more a man completely studies the Institutes of science, the more he fully understands (them), and his great learning shines brightly.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For, as the man goes on studying a science, so does he go on understanding, and then his knowledge shines forth.—(20)
@@ -153,11 +158,6 @@ See Comparative notes for [Verse 4.19].
 <details><summary>गोविन्दराजः</summary>
 
 **यथेति** । यस्मात् यावत् पुरुषः **शास्त्रं **सम्यक् विविनक्ति तावत् तत् तद् विशेषेण **जानाति **शास्त्रान्तरविषयम् अपि चास्य **विज्ञानम्** उज्ज्वलं भवति ॥ ४.२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-020	For the more a man completely studies the Institutes of science, the more he fully understands (them), and his great learning shines brightly.
 </details>
 
 <details><summary>भारुचिः</summary>

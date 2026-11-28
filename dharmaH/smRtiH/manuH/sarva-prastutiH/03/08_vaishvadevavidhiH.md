@@ -11,6 +11,11 @@ title = "०८ वैश्वदेवविधिः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/084_vaishvadevasya_siddhasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+084	A Brahmana shall offer according to the rule (of his Grihya-sutra a portion) of the cooked food destined for the Vaisvadeva in the sacred domestic fire to the following deities:
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Out of the food cooked in the domestic fire, for the Viśvedevas, the Brāhmaṇa shall every day offer, according to rule, Homa to these deities,’—(84)
@@ -109,11 +114,6 @@ outcasts, as also for birds, one shall offer food outside, on the ground.’
 **वैश्वदेवस्येति **। वैश्वदेवार्थस्यान्नस्य सतो वैवाहिके ऽग्नौ कालान्तराहिते वा परिसमूहनादि गृह्योक्तेतिकर्तव्यतापूर्वकम् **आभ्यो** वक्ष्यमाणाभ्यो **देवताभ्यः** प्रत्यहं **ब्राह्मणो होमं कुर्यात्,** ब्राह्मणग्रहणं द्विजप्रदर्शनार्थम्, त्रयाणां प्रकृतत्वात् ॥ ३.८४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-084	A Brahmana shall offer according to the rule (of his Grihya-sutra a portion) of the cooked food destined for the Vaisvadeva in the sacred domestic fire to the following deities:
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **वैश्वदेव**शब्देनात्र पाक उपदिश्यते । **सिद्धस्येति** वचनात् विश्वेदेवा देवता यस्य सो ऽयं वैश्वदेवः सर्वदेवार्थात् पाक उच्यते ।
@@ -131,6 +131,11 @@ outcasts, as also for birds, one shall offer food outside, on the ground.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/085_agneH_somasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+085	First to Agni, and (next) to Soma, then to both these gods conjointly, further to all the gods (Visve Devah), and (then) to Dhanvantari,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 First to Agni and to Soma, then to both these together, then to the Viśve-devas and to Dhanvantari.—(85)
@@ -163,11 +168,6 @@ See Comparative notes for [Verse 3.84].
 
 वचनद्वयम् “स्वाहाकारप्रदानहोमः" इति कात्यायनस्मरणादादावग्नये स्वाहा सोमाय स्वाहेति निरपेक्षदेवताकं होमद्वयं कृत्वा अग्नीषोमाभ्यां स्वाहेति समस्तदेवताकंहोमं कुर्यात् । ततो विश्वेभ्यो देवेभ्यो, धन्वन्तरये ॥८५॥
 </details>
-
-<details><summary>Bühler</summary>
-
-085	First to Agni, and (next) to Soma, then to both these gods conjointly, further to all the gods (Visve Devah), and (then) to Dhanvantari,
-</details>
 </details>
 </div>
 
@@ -181,6 +181,11 @@ See Comparative notes for [Verse 3.84].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/086_kuhvai_chaivA-numatyai.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+086	Further to Kuhu (the goddess of the new-moon day), to Anumati (the goddess of the full-moon day), to Pragapati (the lord of creatures), to heaven and earth conjointly, and finally to Agni Svishtakrit (the fire which performs the sacrifice well).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 To Kuhū, to Anumati, and to Prajāpati; then to Dyauḥ—Pṛthivī jointly, and finally to Sviṣṭakṛt,’—(86)
@@ -238,11 +243,6 @@ See Comparative notes for [Verse 3.84].
 
 **कुह्वै चैवेति **। “स्वाहाकारप्रदा(धा)ना होमा” इति स्मरणात् अग्नये स्वाहा सोमाय स्वाहा इत्येवमादौ कृत्वा ततो ऽग्नीषोमाभ्यां स्वाहेत्य् अग्नीषोमयोः समस्तहोर् होमं कुर्यात् । तद् अनु विश्वेभ्यो देवेभ्यो हुत्वा धन्वन्तरये **कुह्वै** अनुमत्यै प्रजापतये द्यावापृथिवीभ्यां अन्ते अग्नये स्विष्टकृत इत्य् एवं गृह्ये ऽग्निविशेषणत्वात् स्विष्टकृत एते स्वाहाकारान्तहोमाः कार्याः ॥ ३.८५–८६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-086	Further to Kuhu (the goddess of the new-moon day), to Anumati (the goddess of the full-moon day), to Pragapati (the lord of creatures), to heaven and earth conjointly, and finally to Agni Svishtakrit (the fire which performs the sacrifice well).
-</details>
 </details>
 </div>
 
@@ -256,6 +256,11 @@ See Comparative notes for [Verse 3.84].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/087_evaM_samyag.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+087	After having thus duly offered the sacrificial food, let him throw Bali offerings in all directions of the compass, proceeding (from the east) to the south, to Indra, Yama, Varuna, and Soma, as well as to the servants (of these deities).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having thus duly offered the oblation into fire, he should place Bali-offerings in all directions, proceeding towards his right to Indra, Antaka, Ap-pati and Indu, along with their followers.—(87)
@@ -317,11 +322,6 @@ See Comparative notes for [Verse 3.84].
 
 **एवम् **इति । **एवम् **उक्तप्रक्रियया सम्यक् प्रतिदैवतं **हविर् हुत्वा** प्राच्याद्यासु सर्वासु दिक्षु प्राच्याम् इन्द्राय नमः इन्द्रपुरुषेभ्यो दक्षिणस्या यमाय यमपुरुषेभ्यः पश्चिमायां वर्य्णाय वरुणपुरुषेभ्यः उत्तरस्यां सोमाय सोमपुरुषेभ्य इत्य् एव प्रदक्षिणावर्तं इन्द्रादिभ्यः सागुचरेभ्यो बलिं दद्यात्, गृह्य एवं दर्शनात् इन्द्रान्तकादिशब्दाभिधानं छन्दोभङ्गभयात् ॥ ३.८७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-087	After having thus duly offered the sacrificial food, let him throw Bali offerings in all directions of the compass, proceeding (from the east) to the south, to Indra, Yama, Varuna, and Soma, as well as to the servants (of these deities).
-</details>
 </details>
 </div>
 
@@ -335,6 +335,11 @@ See Comparative notes for [Verse 3.84].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/088_marudbhya_iti.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+088	Saying, '(Adoration) to the Maruts,' he shall scatter (some food) near the door, and (some) in water, saying, '(Adoration to the waters;' he shall throw (some) on the pestle and the mortar, speaking thus, '(Adoration) to the trees.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Saying “this to the Maruts,” he should make an offering at the door; also one in water, saying, “this to the Apas;” and he should hake an offering on the pestle and mortar, saying, “this to the Vanaspatis.”—(88)
@@ -376,11 +381,6 @@ See Comparative notes for [Verse 3.84].
 
 **मरुद्भ्य इति द्वारि हरेद्** इति । **मरुद्भ्य** इत्य् एवं द्वारप्रदेशे **अद्भ्य** इत्य् एतद् अपां मध्ये **वनस्पतिभ्य इत्य् एवं मुसलोलूखले **द्वन्द्वैकवद्भावात् विकल्पेनान्यत्र बलिं दद्यात् ॥ ३.८८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-088	Saying, '(Adoration) to the Maruts,' he shall scatter (some food) near the door, and (some) in water, saying, '(Adoration to the waters;' he shall throw (some) on the pestle and the mortar, speaking thus, '(Adoration) to the trees.'
-</details>
 </details>
 </div>
 
@@ -394,6 +394,11 @@ See Comparative notes for [Verse 3.84].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/089_uchChIrShake_shriyai.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+089	Near the head (of the bed) he shall make an offering to Sri (fortune), and near the foot (of his bed) to Bhadrakali; in the centre of the house let him place a Bali for Brahman and for Vastoshpati (the lord of the dwelling) conjointly.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should hake an offering to Śrī on the “head” and to Bhadrakālī on the “feet;” for Brahman and Vāstoṣpati, he should place an offering in the centre of the homestead.—(89)
@@ -449,11 +454,6 @@ See Comparative notes for [Verse 3.84].
 
 **उच्छीर्षक** इति । वास्तुपुरुषस्य शिरःप्रदेशे उत्तरपूर्वस्यां दिशि श्रियं तस्यैव पादप्रदेशे दक्षिणपश्चिमायां **भद्रकाल्यै ब्रह्मणे वास्तोष्पतये **चेति गृहमध्ये द्वन्द्वनिर्देशे ऽपि आङ्निर्देशाभावात् देवताद्वयम् ॥ ३.८९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-089	Near the head (of the bed) he shall make an offering to Sri (fortune), and near the foot (of his bed) to Bhadrakali; in the centre of the house let him place a Bali for Brahman and for Vastoshpati (the lord of the dwelling) conjointly.
-</details>
 </details>
 </div>
 
@@ -467,6 +467,11 @@ See Comparative notes for [Verse 3.84].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/090_vishvebhyash_chaiva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+090	Let him throw up into the air a Bali for all the gods, and (in the day-time one) for the goblins roaming about by day, (and in the evening one) for the goblins that walk at night.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The offering to the Viśvedevas he should throw into the sky; as also to the Elementals roaming in the day and to those roaming at night.—(90)
@@ -530,11 +535,6 @@ See Comparative notes for [Verse 3.84].
 
 **विश्वेभ्य **इति । **विश्वेभ्यः वैश्वदेवेभ्यः **इति चशब्दाद् एकेयम् आहुतिः । **विश्वेभ्यो देवेभ्य **इति नाम्नाकारः (नामाकाशे) प्रक्षिपेत् । **दिवाचरेभ्यो भूतेभ्य** इति दिवानक्तञ्चरेभ्यो भूतेभ्ज्य इति नक्तम् इति गृह्यदर्शनात् एतादाधारान्तरस्यावचनात् आकाशस्य च प्रस्तुतत्वात् आकाश एव ॥ ३.९० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-090	Let him throw up into the air a Bali for all the gods, and (in the day-time one) for the goblins roaming about by day, (and in the evening one) for the goblins that walk at night.
-</details>
 </details>
 </div>
 
@@ -548,6 +548,11 @@ See Comparative notes for [Verse 3.84].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/091_pRShThavAstuni_kurvIta.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+091	In the upper story let him offer a Bali to Sarvatmabhuti; but let him throw what remains (from these offerings) in a southerly direction for the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These offerings one should make in the upper dwelling, for the purpose of acquiring all kinds of food. The entire remnant of the offerings he should offer towards the South, to the pitṛs.—(91)
@@ -609,11 +614,6 @@ See Comparative notes for [Verse 3.84].
 
 **पृष्ठे वास्तुनि कुर्वीतेति **। वेश्मन उपरि वेश्मनः पृष्ठे वासुप्रदेशे वा तत्र **सर्वान्नभूतये **नम इत्य् एवं बलिं कुर्यात् । बल्यर्थं घृतान्नशेषं सर्वं दक्षिणस्यां दिशि “स्वधा पितृभ्य इति प्राचीनावीती” इत्य् एवं गृह्यदर्शनात् **पितृभ्यो हरेत्** ॥ ३.९१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-091	In the upper story let him offer a Bali to Sarvatmabhuti; but let him throw what remains (from these offerings) in a southerly direction for the manes.
-</details>
 </details>
 </div>
 
@@ -627,6 +627,11 @@ See Comparative notes for [Verse 3.84].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/092_shUnA~n_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+092	Let him gently place on the ground (some food) for dogs, outcasts, Kandalas (Svapak), those afflicted with diseases that are punishments of former sins, crows, and insects.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should gently place on the ground food for dogs, outcasts, Cāṇḍālas, persons afflicted with filthy diseases, birds and insects.—(92)
@@ -693,11 +698,6 @@ See Comparative notes for [Verse 3.84].
 
 **शुनां चेति** । तद् अनु अन्यद् अन्नम् उद्धृत्य **श्वपतितश्वपाककुष्ठ्यादिकाककृमीणां शनकै **रजोवगूण्ठनपरिहारेण **भुवि** निक्षिपेत् ॥ ३.९२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-092	Let him gently place on the ground (some food) for dogs, outcasts, Kandalas (Svapak), those afflicted with diseases that are punishments of former sins, crows, and insects.
-</details>
 </details>
 </div>
 
@@ -711,6 +711,11 @@ See Comparative notes for [Verse 3.84].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/093_evaM_yaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+093	That Brahmana who thus daily honours all beings, goes, endowed with a resplendent body, by a straight road to the highest dwelling-place (i.e. Brahman).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa who thus daily honours all beings, becomes endowed with a body of light, and goes to the highest place, by the straight path.—(93)
@@ -782,11 +787,6 @@ See Comparative notes for [Verse 3.84].
 <details><summary>गोविन्दराजः</summary>
 
 **एवम्** इति । **एवम्** उक्तनीत्या अभिहितसर्वभूतानि नित्यम् अन्नादिना यः पूजयति सः तेजःशरीरो भूत्वा स्पष्टेन मार्गेण येनाशुप्राप्येन शरीरपातसमनन्तरम् एव तेन ब्रह्मलोकं गच्छति इति पञ्चयज्ञफलकथनम्, न चानित्यतापत्तिर् इत्य् उक्तम् ॥ ३.९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-093	That Brahmana who thus daily honours all beings, goes, endowed with a resplendent body, by a straight road to the highest dwelling-place (i.e. Brahman).
 </details>
 
 <details><summary>भारुचिः</summary>

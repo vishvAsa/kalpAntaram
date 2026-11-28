@@ -12,6 +12,11 @@ title = "२५ सत्सङ्गः"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/244_uttamair_uttamair.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+244	Let him, who desires to raise his race, ever form connexions with the most excellent (men), and shun all low ones.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Being desirous of raising his family to eminence, he shall always form connections with superior kinds of people; he shalt, avoid all inferior ones.—(244) 
@@ -79,11 +84,6 @@ It is quoted in *Saṃskāramayūkha* (p. 75);—and in *Smṛticandrikā* (Sa�
 **उत्तमर् उत्तमैर् सार्धम्** इति । कुलम् उत्कृष्टतां नेतुम् इच्छन् श्रुताभिजनाद्युत्कृष्टैः सह अनवरतं कन्यादानादिसम्बन्धान् आचरेत् । अपकृष्टान् तत्सम्बन्धेषु परिहरेत् । उत्तमविधानाद् एवाधर्मव्यावृत्तिसिद्धये पृथग्वचनम् उत्तमाभावे समाभ्यनुज्ञानार्थम् ॥ ४.२४४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-244	Let him, who desires to raise his race, ever form connexions with the most excellent (men), and shun all low ones.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 न केवलं विशिष्टप्रतिग्रहीतृभिर् एव पुरुषैः स्नातकस्य सम्बन्धो ऽपेक्षितव्यः । किं तर्हि । सर्वसम्बन्धा यौनादयः सर्वेषाम् एवैतेषाम् उत्कर्षानिमित्तत्वाद् अविशेषवचनेष्व् एह (?) एकजातेन चैतद् अभिजनादिगुणसम्पदोत्तमार्थं विज्ञेयम् । तदभावे तु समैर् अपि स्यान् न त्व् आपद्य् अपि हीनैः । तथा च सतीदं युक्तम् अत्र प्रशंसावचनम् ।
@@ -101,6 +101,11 @@ It is quoted in *Saṃskāramayūkha* (p. 75);—and in *Smṛticandrikā* (Sa�
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/245_uttamAn_uttamAn.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+245	A Brahmana who always connects himself with the most excellent (ones), and shuns all inferior ones, (himself) becomes most distinguished; by an opposite conduct he becomes a Sudra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having recourse to superior kinds of people, and avoiding the inferior kinds, the Brāhmaṇa attains eminence; by the contrary procedure, he becomes a Śūdra.—(245)
@@ -136,11 +141,6 @@ Having recourse to superior kinds of people, and avoiding the inferior kinds, th
 **उत्तमान् उत्तमान् एव गच्छन् हीनांश् च वर्जयन्न्** इति । उत्तमसम्बन्धेषू उत्तमाननुसरन् निकृष्टांश् च **वर्जयन् ब्राह्मणः श्रेष्ठत्वं **प्राप्नोति । विपर्ययन् पुनः जातेर् अनपायात् शूद्रतुल्यतां** **प्राप्नोति ॥ ४.२४५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-245	A Brahmana who always connects himself with the most excellent (ones), and shuns all inferior ones, (himself) becomes most distinguished; by an opposite conduct he becomes a Sudra.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं च संसर्गाश्रिततया –
@@ -158,6 +158,11 @@ Having recourse to superior kinds of people, and avoiding the inferior kinds, th
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/246_dRDhakArI_mRdur.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+246	He who is persevering, gentle, (and) patient, shuns the company of men of cruel conduct, and does no injury (to living creatures), gains, if he constantly lives in that manner, by controlling his organs and by liberality, heavenly bliss.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who acts resolutely, is gentle and tolerant, who does not associate with persons of cruel disposition, and who does no injury to others, shall win heaven by his self-control and liberality, if he sticks to this practice.—(246)
@@ -193,11 +198,6 @@ He who acts resolutely, is gentle and tolerant, who does not associate with pers
 <details><summary>गोविन्दराजः</summary>
 
 **दृढकारीति** । आरब्धसम्पादनशक्तिः अक्रूरः शीतातपादि, द्वन्द्वसहिष्णुः निर्दयाचारैः सहावसन् अहिंसको यः स एवं नियमः सदमेनोपशमेन इन्द्रियसंयमाख्येन दानेन च स्वर्गं प्राप्नुयात् ॥ ४.२४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-246	He who is persevering, gentle, (and) patient, shuns the company of men of cruel conduct, and does no injury (to living creatures), gains, if he constantly lives in that manner, by controlling his organs and by liberality, heavenly bliss.
 </details>
 
 <details><summary>भारुचिः</summary>

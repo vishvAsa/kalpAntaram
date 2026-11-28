@@ -20,6 +20,11 @@ title = "०७ श्राद्धप्रकारः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/082_kuryAd_ahar-ahaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+082	Let him daily perform a funeral sacrifice with food, or with water, or also with milk, roots, and fruits, and (thus) please the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should daily offer Śrāddha with food, or with water, or with milk, roots and fruits,—(thereby) bringing pleasure to the Pitṛs.—(82)
@@ -61,11 +66,6 @@ offered;—in *Smrtisāroddhāra* (p. 283);—in *Hemādri* (Śrāddha, pp. 208 
 तेषु पितृयज्ञनिरूपणार्थं तावद् आह **दद्याद् अहर् अहर्** इति । **पितृभ्यः प्रीतिम्** उत्पादयन् **अन्नोदक**क्षीर**मूलफलैः **यथासम्भवं प्रत्यहं श्राद्धं कुर्यात् ॥ ३.८२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-082	Let him daily perform a funeral sacrifice with food, or with water, or also with milk, roots, and fruits, and (thus) please the manes.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तद् एवं कृतवैश्वदेवो गृहस्थः –
@@ -83,6 +83,11 @@ offered;—in *Smrtisāroddhāra* (p. 283);—in *Hemādri* (Śrāddha, pp. 208 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/083_ekam_apy.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+083	Let him feed even one Brahmana in honour of the manes at (the Sraddha), which belongs to the five great sacrifices; but let him not feed on that (occasion) any Brahmana on account of the Vaisvadeva offering.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At that (Śrāddha) which forms part of the Five Sacrifices, one should feed even one Brāhmaṇa in honour of the pitṛs; and on this occasion he shall not feed any Brāhmaṇa in honour of the Viśve-devas.—(83)
@@ -177,11 +182,6 @@ making them sit facing the east......... he shall offer him water and seat; and 
 <details><summary>गोविन्दराजः</summary>
 
 **एकम्** इति । पञ्चयज्ञान्तर्गते पितृप्रयोजने **एकम् अपि** शक्त्या सति सम्भवे बहून् अपि विप्रान् भोजयेत् । श्राद्धशब्देनोदनात् वैश्वदेवब्राह्मणभोजने प्राप्ते आह **न चैवेति** । विश्वान् देवान् उद्दिश्य अन्यं ब्राःमणं न किञ्चिद् भोजयेत् ॥ ३.८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-083	Let him feed even one Brahmana in honour of the manes at (the Sraddha), which belongs to the five great sacrifices; but let him not feed on that (occasion) any Brahmana on account of the Vaisvadeva offering.
 </details>
 
 <details><summary>भारुचिः</summary>

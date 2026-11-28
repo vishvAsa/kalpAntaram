@@ -1,10 +1,11 @@
 +++
 title = "+1.1"
-
 +++
+<details><summary>LLM proofreading state</summary>
 
-
-
+- **Source PDF**: `/media/vvasuki/vData/text/granthasangrahaH/kalpaH/kANe/v1p1.pdf` (591 pp, 2nd rev. ed. 1968). Note: `indike.org` `v1` follows the 1930 1st ed. chapter layout.
+- **Remaining work**: Verify `00/preface.md` (clean prose, 0 `[[P]]` markers), clean odd asterisks (`07,14,19,32,34,50`) and stray raw pockets (`50_yama.md` pp. 526-528, `61_vishvarUpa.md` L49-61), and spot-check unbracketed (`edits==0`) chapters (`02,13,19,20,22,53-60`). (`00/list_of_abbreviations.md` pp. `i–iv` fixed; 0 duplicate pages or unclosed/nested brackets remain per `audit_proofread_dir`.)
+</details>
 
 Government Oriental Series --Class B, No. 6
 

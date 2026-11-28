@@ -12,6 +12,11 @@ title = "०४ संस्काराः"
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/025_eShA_dharmasya.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+025	Thus has the origin of the sacred law been succinctly described to you and the origin of this universe; learn (now) the duties of the castes (varna).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has the source of Dharma been briefly explained to you, as also the origin of all this (world). Learn now the duties of the several castes.—(25).
@@ -122,11 +127,6 @@ Modern writers and lecturers on what they call ‘*Varṇā-śramadharma*’ sho
 **एषा धर्मस्य योनिः **कारणम् । यो विद्वद्भिःसेवितः तस्य आफलदानावस्थायिनः, कारणम् इति सङ्क्षेपतो युष्माकम् उक्ता । इह **धर्म**शब्दः अपूर्वाख्यात्मसंस्कारे वर्तते । “विद्वद्भिः सेवितः” इत्य् अत्र तु तत्कारणेषु कदाचित् इत्य् उभयत्रापि चायं दृष्टप्रोयोगः । **सम्भवश्** चोत्त्पत्तिर् जगतः उक्ता ।साम्प्रतं वर्णैः ब्राह्मणादिभिर् ये अनुष्ठेया धर्माः **वर्णधर्माः** आश्रमधर्माः वर्णाश्रमधर्माः नैमित्तिकाख्याः पञ्चप्रकाराः तान् शृणुत । वर्णधर्मा यथा ब्राह्मणस्य मद्यपाननिषेधः, आश्रमधर्मो यथा ब्रह्मचारिणो भैक्षचरणं ब्राह्मणो (ब्राह्मणस्य) बैल्वदण्डधारणम् । वर्णाश्रमधर्मो यथा पालाशदण्डो ब्राह्मणस्येति । गुणधर्मो यथा अभिषेकादिगुणयुक्तस्य राज्ञः प्रजापालनम् । नैमित्तिका यथा प्रायश्चित्तम् इति ॥ २.२५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-025	Thus has the origin of the sacred law been succinctly described to you and the origin of this universe; learn (now) the duties of the castes (varna).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एषा वर्णाश्रमव्यवस्था धर्मस्याभ्युदयहेतोर् आफलप्रदाता(त्र?)वस्थायिनो मुख्यस्य योनिः कारण एव भवतां समासेनाभिहिता मया "विद्वद्भिः सेवितः सद्भिः" (म्ध् २.१) इत्य् अत्र श्लोके तत्प्रसङ्गे । न च शास्त्रपरिभाषा "कामात्मता न प्रशस्ता" (म्ध् २.२) इत्येवमाद्या । यावद् अयं श्लोकम् "**सम्भवश् चास्य सर्वस्य**" जगतः स्थितिप्रलयाभ्यां सह तत्समानार्थानि चान्यान्य् अपि ब्राह्मणस्तुतिप्रकरणादीनि प्रथमे ऽध्याये शास्त्रारम्भसामर्थ्यदर्शनार्थान्य् उक्तानि सन्ति । पुनर् इहानुक्तानि तेषाम् अप्य् उपसंहारार्थम् । उपसंहारश् च वक्ष्यमाणप्रकरणोपन्यासार्थः । तस्य चासम्मोहः प्रयोजनं श्रोतुः । स च पुरुषार्थः यथैतत्समुपसंहृत्य प्रतिज्ञातार्थाभिधित्सयाचार्य इदम् आह- "**वर्णधर्मान् निबोधत**" । किमर्थम् आश्रमधर्मा नोक्ता यस्मात् ते ऽपि वर्णधर्मा एवं च तत् सर्वं नियोगशिष्टत्वात् तेषाम् । एवं च ये वर्णधर्माः केचित् सर्वावस्था आचमनादयः अवस्थाधर्माश् चाश्रमधर्मा अवस्थान्तरधर्मेभ्यो विशिष्टाः । एवं च सति यावन्तो ऽत्र धर्मा उच्यन्ते सर्वे ते वर्णधर्मा यावद् वर्णभावि (?) येन जातेर् अनपायाद् इति ।
@@ -144,6 +144,11 @@ Modern writers and lecturers on what they call ‘*Varṇā-śramadharma*’ sho
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/026_vaidikaiH_karmabhiH.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+026	With holy rites, prescribed by the Veda, must the ceremony on conception and other sacraments be performed for twice-born men, which sanctify the body and purify (from sin) in this (life) and after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the twice-born persons corporeal consecration, beginning with ‘Conception,’ should be performed with auspicious Vedic rites; it purifies in this world and also after death.—(26)
@@ -217,11 +222,6 @@ the Final (Death) Rites.’
 **वैदिकैर् **इति । वैदिकमन्त्रसाध्यत्वात् वेदमूलसाध्यत्वाच् च **वैदिकैः **स्मार्तैः **कर्मभिः** “विष्णुर् योनिं कल्पयतु” इत्येवमादिमन्त्रप्रयोगादिबिः **पुण्यैः **पारम्पर्येण धर्महेतुभिः गर्भाधानादिः द्विजातीनां **शरीरसंस्कारः **कर्तव्यः । **पावनः **पवित्रीकारकः **प्रेत्य **परलोके संस्कृतस्य यागादिकर्मफलसम्बन्धात् । **इह **लोके च संस्कृतस्याध्ययनाद्यधिकारात् । निषेकगुणात् (-ग्रहणात्) पितुर् अधिकारः । निषेकवर्जिते तु कदाचित् तत्स्थानापन्नस्य तत्प्रयुक्तस्य वा अन्यस्यापि (न) स्यात् ॥ २.२६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-026	With holy rites, prescribed by the Veda, must the ceremony on conception and other sacraments be performed for twice-born men, which sanctify the body and purify (from sin) in this (life) and after death.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एतावद् उपसम्पन्नः श्रुतिपूर्विकाम् अष्टकादिश्रुतिं मन्यन्ते (?) । तत्पक्षेणेदं युक्तम् एव वैदिकत्वं गर्भाधानादीनां संस्कारकर्मणां येषाम् अपि प्रमाणान्तरं स्मृतिस् तेषाम् अपि वैदिकमन्त्रसाध्यत्वान् नैषां वैदिकत्वम् उपचर्यते । वैदिककर्मशेषत्वाद् वा वैदिकत्वम् । स्तुतिपरं चेदं वैदिकत्वम् । वैदिकैर् इव **वैदिकैः कर्मभिः** गर्भाधानादिभिः । **पुण्यैर्** इत्य् अर्थवादः । ते तं (?) **निषेकाद्**इभावि**द्विजन्मनां** **कार्यः शरीरसंस्कार** इति पितुर् अयम् उपदेशः । कस्य पुनर् हेतोः । येनासौ (?) **पावनः** **प्रेत्य** **[४८]** चोत्कर्षहेतोः । दर्मस्याप्रतिबन्धेनेह च कुष्ठादिशरीरोपघातहेतुप्रबन्धेन । सो ऽयम् उभयार्थवादः । पुण्यसम्बन्धेन पावनत्वेन च **कार्यः** (?) **शरीरसंस्कार** इति अयं विधिः । सामान्यसर्वसंस्कारकर्मणां स्मार्तानाम् अनुष्ठेयकर्मणाम् इत्य् अयं चान्यस् तच्छेष् एव ।
@@ -247,6 +247,11 @@ the Final (Death) Rites.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/027_gArbhair_homair.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+027	By burnt oblations during (the mother's) pregnancy, by the Gatakarman (the ceremony after birth), the Kauda (tonsure), and the Maungibandhana (the tying of the sacred girdle of Munga grass) is the taint, derived from both parents, removed from twice-born men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of twice-born men the taint of seed and womb is removed by the ‘Libations in connection with Pregnancy’ and by ‘Jātakarman’ (Rites attendant upon birth), ‘Chauḍa’ (Tonsure) and ‘Mauñjībandhana’ (Tying of the grass-girdle). (27)
@@ -505,11 +510,6 @@ through the gradual appearance of the several limbs, in the same manner Brāhma�
 कुतः पुनर् एषाम् अशुचित्वम्, येन पावनं क्रियते इत्य् अत् आह – **गार्भैर् **इति । गर्भनिमित्तं ये क्रियन्ते ते **गार्भाः**, होमग्रहणं यथासम्भवं गार्भे विशेषणम्, गर्भाधानादेर् अहोमात्मकत्वात्, सीमन्तोन्नयनादेश् च सहोमकत्वात् । जातस्य यत् क्रियते तत् **जातकर्म** । एते सर्वे गृह्याभिधेयस्वरूपाः इहैव तेषां सामान्यमात्राभिधानात् सामान्यस्मृतित्वाद् अस्य । **चौलं **चूडाकर्म **मौञ्जीनिबन्धनम् **उपनयनम् । एतैः **बैजिकं** प्रतिषिद्दमैथुनसङ्कल्पात् पितृरेतसो द्ष्टत्वं, **गार्भिकं** गर्भवासनिवासित्वाद् दुष्टत्वं **द्विजानाम्** अपनुद्यते ॥ २.२७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-027	By burnt oblations during (the mother's) pregnancy, by the Gatakarman (the ceremony after birth), the Kauda (tonsure), and the Maungibandhana (the tying of the sacred girdle of Munga grass) is the taint, derived from both parents, removed from twice-born men.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 गर्भसंस्कारप्रयोजनास् तत्रभवा वा गार्भैश् तैः **गार्भैर् होमैर्** इति । होमग्रहणं प्रदर्शनार्थम् । कस्य । मन्त्रक्रियौषधप्रयोगाणां गृह्योक्तानाम् । एवं च कृत्वेदम् (मं) वादं वाक्यम् ईदृशं भवति । होममन्त्रक्रियौषधप्रयोगैर् होमैः । कस्मात् । एतद् धोमग्रहणं प्रदर्शनार्थम् एवं कल्पत इति चेद् येन त्रयाणां गर्भाधानपुंसवनसीमन्तोन्नयनानां द्वाव् आद्यौ संस्कारौ मन्त्रौषधप्रयोगमासे द्वाव् होमकौ प्रतिगर्भं च भवतः । तृतीयस् तु सहोमकः । सीमन्तोन्नयनं प्रथमगर्भविषय एवात्र संस्कारो न प्रतिगर्भं पूर्वसंस्कारवद् अतो निदर्शनार्थं होमग्रहणं कल्पितम् । आदिशब्दलोपो वात्र द्रष्टव्यः । होमादिभिः होमैर् उपलक्षणार्थं च होमग्रहणम् । सकर्मकस्य गर्भसंस्कारकर्मणः **जातकर्मचौलमौञ्जीनिबन्धनास्** तु संस्कारा अभिहिता एवं साक्षाद् उपदिश्यन्ते समासतद्धिताभ्याम् । अथ वा होमग्रहणं प्रतिपदः स्थाने (?) ऽपि द्रष्टव्यम्, न पूर्वविषयम् एव । अतश् च गार्भैर् होमैर् जातकर्महोमैश् चौलैः होमैर् मौञ्जीनिबन्धनैश् च होमैस् तेषां मौञ्जी । (?) कामातुर् (?) अस्य पुरुषचिन्तनेन शोणितं दुष्यति । तथा च वक्ष्यति "यन् मे माता प्रलुलुभे" (म्ध् ९.२०) इति । पितुश् च प्रतिषिद्धमैथुनसङ्कल्पाभ्यासौ शुक्लम् एवं तन्निमित्तं गर्भस्य यद् **एनस्** तद् **बैजिकम्** । अथ वा विनैवाशुभचिन्तनेन मातापित्रोर् लोहितरेतसी अशुचिनी स्वभावत एव । यतस् तत्सम्बन्धनिमित्तम् एनो गर्भस्य बैजिकं गार्भिकम् अप्य् (?) अशिचिस्थानाभाभ्यां तद् (?) एनस् तद्बीज्नाम् अपमृज्यते गर्भाधानादिसंस्कारैः । इत्य् एवं च कृत्वैषो ऽर्थवादो यथाकथञ्चित् प्रकृतविधिस्तुत्यर्थः न कारणोपदेशः प्रमाणशास्त्रविरोधाद् इत्य् एवं चापरस् तच्छेष एवार्थवादः ।
@@ -535,6 +535,11 @@ _येषु कर्मसु माणवकस्य संस्कार�
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/028_svAdhyAyena_vratair.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+028	By the study of the Veda, by vows, by burnt oblations, by (the recitation of) sacred texts, by the (acquisition of the) threefold sacred science, by offering (to the gods, Rishis, and manes), by (the procreation of) sons, by the great sacrifices, and by (Srauta) rites this (human) body is made fit for (union with) Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This body is made godly,—by a thorough study of the three Vedas, by Observances, by libations, by offerings, by children, by the Great Sacrifices and by the Sacrifices. (28)
@@ -699,11 +704,6 @@ _येषु कर्मसु माणवकस्य संस्कार�
 **स्वाध्यायेनेति** । वेदाध्ययनेन **व्रतैः** सावित्र्यादिभिः **मोमैः **सायम्प्रातरग्निकार्यैः **त्रैविद्य्**आख्येन व्रतेन, प्राधान्यात् पृथगुपदिष्टेन । **इज्यया **ब्रह्मचर्यावस्थायां देवर्षिपितृतर्पणरूपया, पुत्रैः, **महायज्ञैः** वैश्वदेवादिभिः **यज्ञैः** अग्निष्टोमादिभिः ब्रह्मप्राप्तियोग्या **तनुः** तत्स्थ आत्मा **क्रियते** जानकर्मसमुच्चयान् मोक्षावाप्तेः ॥ २.२८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-028	By the study of the Veda, by vows, by burnt oblations, by (the recitation of) sacred texts, by the (acquisition of the) threefold sacred science, by offering (to the gods, Rishis, and manes), by (the procreation of) sons, by the great sacrifices, and by (Srauta) rites this (human) body is made fit for (union with) Brahman.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **स्वाध्यायेनेति** प्रणवव्याहृतिसावित्र्यध्यय्नेनोपनयनशेषेण । कस्मात् । पुनर् वेदाध्ययनेन चेत्य् (?) अनादिष्टवेदव्रतस्य वेदाध्ययनानधिकारात् । तथा च वक्ष्यति ।
@@ -726,6 +726,11 @@ _येषु कर्मसु माणवकस्य संस्कार�
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/029_prA~N_nAbhivardhanAt.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+029	Before the navel-string is cut, the Gatakarman (birth-rite) must be performed for a male (child); and while sacred formulas are being recited, he must be fed with gold, honey, and butter.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the male child, before the cutting of the umbilical cord the performance of the Jāta-karma (Birth-rite) has been ordained: (it consists of) the feeding of him with gold, honey and butter, to the accompaniment of Mantras.—(29).
@@ -997,11 +1002,6 @@ hence that day is sacred; hence one should give away vessels full of sesamum, al
 **प्राङ्नाभीति **। नाभिछेदनात् पूर्वं **पुंसो जातकर्म्**आख्यः संस्कारो विधीयते । अस्य च शिशोः तदानीम् “प्रतिददामि (प्र ते ददामि) मधुनो घृतस्य” इत्य् एवमादिमन्त्रयुक्तं **हिरण्य**माक्षिकघृतानां **प्राशनं **कार्यम् । **पुंसो** ग्रहणं नपुंसकव्यावृत्त्यर्थम् । यद्य् अर्थिता तु दारैः स्यात् क्लीबादीनाम् इति नपुंसकस्य दारदर्शनात् । ये स्तेनाः पतिताः क्लीबा इति च श्रोत्रियत्वे सति श्राद्धभोजनप्राप्तेः प्रतिषेधदर्शनात् । स्त्र्यर्थत्वे तस्य प्रमाणं नास्ति । तथा च “अमन्तर्कासु” इति स्त्रीणाम् अप्राप्तिं वक्ष्यति ॥ २.२९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-029	Before the navel-string is cut, the Gatakarman (birth-rite) must be performed for a male (child); and while sacred formulas are being recited, he must be fed with gold, honey, and butter.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **प्राङ्नाभिवर्धनाद्** इति उक्तजातकर्मकालोपलक्षणम् एतत् । पुङ्ग्रहणं तु नपुंसकनिवृत्त्यर्थम् । स्त्रीणाम् अमन्त्रकम् अवभृतं (??) वक्ष्यति । अथ वा पुङ्ग्रहणम् अविवक्षितम् । जातेर् अधिकारात् ज्वरितं ज्वरम् उक्तं वा (?) । दिनान्ते भोजयेन् नरम् इति । यद् वा मन्त्रम् अर्हतीति **मन्त्रवत्** । किं तत् । **प्राशनम्** । कस्य । कुमारस्य । केषाम् । **हिरण्यमधुसर्पिषाम्** । घृतस्यैकस्यैवेत्य् एके । इतः प्रभृति (?) गृह्योक्तानां विधीनां सामान्यानुक्रमणं प्रामाण्यार्थम् आम्नातानां (?) च प्राप्त्यर्थम् इष्यते ऽभ्यधिकविध्युपसङ्ग्रहः शाखान्तराविरुद्धः श्रुतिवद् अत्र ।
@@ -1019,6 +1019,11 @@ hence that day is sacred; hence one should give away vessels full of sesamum, al
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/030_nAmadheyan_dashamyAm.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+030	But let (the father perform or) cause to be performed the Namadheya (the rite of naming the child), on the tenth or twelfth (day after birth), or on a lucky lunar day, in a lucky muhurta, under an auspicious constellation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should have his ‘naming’ (Nāmadheya) done on the tenth or the twelfth (day), on an auspicious lunar date and at an auspicious moment. and under a propitious lunar asterism.—(30)
@@ -1151,11 +1156,6 @@ As regards the ‘*puṇya tithi, muhūrta* and *nakṣatra*’ the reader is re
 **नामधेयम्** इति । जातकर्मेति प्रतुतत्वात् जन्मप्रभृति दशमे ऽहनि द्वादशे वा प्रशस्ते वान्यस्मिन् नवम्यादिरिक्ताहोवर्जिते **मुहूर्ते **ऽभिजिदादौ लग्ने पुण्य**नक्षत्रे** च ज्योतिःशास्त्रगुणयुक्ते **अस्य **शिशोर् नाम **कारयेत्** असामर्थ्ये सति । शक्तौ तु आत्मनैव कुर्यात्, “पिता नाम करोति” इति गृह्यश्रवणात् । पूर्वकालासम्भवे उत्तरोत्तरकालाश्रयणं कर्तव्यम् इति, क्रमप्रयोजनाभावात्, एवम् उत्तरत्रापि कालविकल्पेषु विज्ञेयम् ॥ २.३० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-030	But let (the father perform or) cause to be performed the Namadheya (the rite of naming the child), on the tenth or twelfth (day after birth), or on a lucky lunar day, in a lucky muhurta, under an auspicious constellation.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 स्वार्थे **धेय**प्रत्ययः । एवं च नामैव **नामधेयम्** । प्रकृतस्य कुमारस्य **कारयेत्** । पितुर् अयम् उपदेशः । यो वा यत्रेष्टे । कस्मिन् काले । **दशम्याम्** । जन्माधिकार उच्यते । त(त) ? एव प्रभृति दशमी द्रष्टव्या । न चन्द्रतिथिः, सामर्थ्यात् । एतेन **द्वादशी** व्याख्याता । प्**उण्य**शब्द उभयविशेषणः । पुण्ययोस् तिथिमुहूर्तयोः समुच्चयश् चात्र, न विकल्पः । नक्षत्रगुणान्वयस्तुतचन्द्रताराबलं च गृह्यते । एवं च सति **दशम्यां तिथौ** ग्रहविष्कम्भव्यतीपातवैधृततारचन्द्रदोषोपहतायां **द्वादश्यां** च दोषवर्जितायाम् असम्भव**नामधेयं** तिथ्यादिगुणापेक्षयोत्तरस्मिन् स्वकाले वैकल्पिकम्, सामर्थ्यात् तद् भवेत् । पुनः,
@@ -1181,6 +1181,11 @@ _इदानीं यादृशं नाम कर्तव्यं तन
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/031_mangalyam_brAhmaNasya.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+031	Let (the first part of) a Brahmana's name (denote something) auspicious, a Kshatriya's be connected with power, and a Vaisya's with wealth, but a Sudra's (express something) contemptible.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The name of the Brāhmaṇa should be auspicious, that of the Kṣatriya connected with power, that of the Vaiśya associated with wealth; while that of the Śūdra contemptible.—(31)
@@ -1341,11 +1346,6 @@ _इदानीं यादृशं नाम कर्तव्यं तन
 तच् च **माङ्गल्यं ब्राह्मणस्येति** । मङ्गलबलधननिन्दाप्रतिपादकानि एषां यथाक्रमं भद्रशक्तिधनदीनकादीनि नामानि स्युः ॥ २.३१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-031	Let (the first part of) a Brahmana's name (denote something) auspicious, a Kshatriya's be connected with power, and a Vaisya's with wealth, but a Sudra's (express something) contemptible.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 मङ्गलं धर्मस् तत्प्रयोजनं **मङ्गल्यं** नाम **ब्राह्मणस्य स्यात्** । रूपो(नामो?)दाहरणं तु शतायुः, नन्दनो, धर्मः देवो, यज्ञः सत्यः, शान्तिः इत्येवमादि । **क्षत्रियस्य बलान्वितम्** । शत्रुन्तपः, द्विषन्तपः, परन्तपः, भीष्मो, युधिष्ठिरो, विजयो, दुर्योधन इत्येवमादि । **विश्यस्य धनसंयुक्तम्** – अश्वपतिः, धनपतिः, गोपतिः, पशुपतिः इत्येवमादि । **शूद्रस्य तु जुगुप्सितम्** । कर्मकारः, शबरको, लुब्धको, धीवरकः, निषादः, कैवर्तिकः इत्येवमादीनि । प्रतिलोमवर्णनामानि । तच् चाप्य् अमङ्गल्यं नाम ।
@@ -1391,6 +1391,11 @@ _इदानीं यादृशं नाम कर्तव्यं तन
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/032_sharmavad_brAhmaNasya.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+032	(The second part of) a Brahmana's (name) shall be (a word) implying happiness, of a Kshatriya's (a word) implying protection, of a Vaisya's (a term) expressive of thriving, and of a Sudra's (an expression) denoting service.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The name of the Brāhmaṇa should be expressive of ‘peace,’ that of the Kṣatriya, of ‘protection’; that ot the Vaiśya, of ‘prosperity,’ and that of the Śūdra, of ‘submissiveness.’—(32)
@@ -1488,11 +1493,6 @@ These titles have been thus explained by Āśvalāyanāchārya:—‘The name of
 
 उपपदनियमार्थम् आह – **शर्मवद् ब्राह्मणस्येति** । शर्मरक्षापुष्टिप्रेष्यवाचकान्य् एषां यथाक्रमं शर्मपालपुष्टिदासान्य् उपपदानि स्युः । उदाहरणानि भद्रशर्मा शक्तिपालो धनपुष्टो दीनदास इति ॥ २.३२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-032	(The second part of) a Brahmana's (name) shall be (a word) implying happiness, of a Kshatriya's (a word) implying protection, of a Vaisya's (a term) expressive of thriving, and of a Sudra's (an expression) denoting service.
-</details>
 </details>
 </div>
 
@@ -1506,6 +1506,11 @@ These titles have been thus explained by Āśvalāyanāchārya:—‘The name of
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/033_strINAM_sukhodyam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+033	The names of women should be easy to pronounce, not imply anything dreadful, possess a plain meaning, be pleasing and auspicious, end in long vowels, and contain a word of benediction.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That of women should be easily pronouncible, not harsh, of plain meaning, heart-captivating and auspicious; it should end in a long vowel and contain a benedictory term.—(33)
@@ -1594,11 +1599,6 @@ contain an even number of letters, and of females odd number of letters.’
 **स्त्रीणाम्** इति । सुसुखोच्चारणम् अक्रूरार्थवाचि विस्पष्टार्थं मनःप्रीतिकरं मङ्गलवाचि दीर्घाक्षरान्तम् आशीर्वाचकेनाभिधानेन शब्देन संसक्तं नाम् स्त्रीणां कार्यम् । यथा अमरदेवी इति ॥ २.३३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-033	The names of women should be easy to pronounce, not imply anything dreadful, possess a plain meaning, be pleasing and auspicious, end in long vowels, and contain a word of benediction.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सुखोच्चारणार्हं **सुखोद्यम्** । यथा सुनाथा, वसुनाथा, वसुदा, वसुमती, यशोदा, इत्येवमाद्यम् **सुखोद्यम्** । क्ष्मा, क्षोणी, वृषाकपायी । अक्रूरार्थम् **अक्रूरम्** । यथोदाहृतं क्रूरत्वम् । सुमालिनी, **[५१]** गन्धमालिनी, पपभयङ्करी । **विस्पष्टार्थम्** अव्याख्यानगम्यम् । राका, सिनीवाली, कुहूः । **मनोहरं** श्रुतिसुखम् । चारुमती, चन्द्रलेखा इत्येवमाद्यम् । **मनोहरं** तु श[१ अक्ष् उन्च्लेअर्]वेति । **मङ्गल्यं** मङ्गलार्थवाचि । यथा विशव्दिनी, स्वस्तिमती, पुण्योदया । विपरीतं शास्त्रप्रसिद्धं वक्ष्यति- "नक्षत्रवृक्षनदीनाम्नी" (म्ध् ३.९) इति । अथ वा दासी गणिका वा । दीर्घो वर्णो ऽन्तो यस्य नाम्नस् तद् इदं **दीर्घवर्णान्तम्** । उक्तम् उदाहरणम् । विपरीतं तु मेद्यं यथाचार (यथा चारुः?) प्रकृतिशान्तिर् इत्याद्याः । <u>शिष्टो वादः</u> (?) । येन यस्मिन् वाभिधाने तद् इदम् आशीर्वादाभिधान तद् यस्मिन् [वास्त्वि??] नाम्नि विद्यते तद् इदम् **आशीर्वादाभिधानवत्** । उदाहरणं धनदा यशोदा धर्मदा इति । विपरीतं तु कृष्णा ह्रस्वा दीर्घेत्य् एवम् इदं सप्त विशेषणं यथा सम्भवति वेशेषणं वा स्त्रीणां नामोक्तम् । 
@@ -1618,6 +1618,11 @@ contain an even number of letters, and of females odd number of letters.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/034_chaturthe_mAsi.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+034	In the fourth month the Nishkramana (the first leaving of the house) of the child should be performed, in the sixth month the Annaprasana (first feeding with rice), and optionally (any other) auspicious ceremony required by (the custom of) the family.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the fourth month should be performed the ceremony of the child’s ‘Egress’ from the room; and in the sixth month the ceremony of ‘Feeding’; or, whatever might be regarded as auspicious in the family.—(34)
@@ -1747,11 +1752,6 @@ during the third fortnight.’
 **चतुर्थ** इति । **चतुर्थे मासि **बालस्य **गृहान् निष्क्रमणं** कर्तव्यम् । **षष्ठे चान्नप्राशनम्** । यथाकुलधर्मत्वेन **मङ्गलम् इष्टम्**, यया नाम्या स्वाम्याद्युपपदपरिग्रहः तथा कर्तव्यं पूर्वोक्तं च ॥ २.३४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-034	In the fourth month the Nishkramana (the first leaving of the house) of the child should be performed, in the sixth month the Annaprasana (first feeding with rice), and optionally (any other) auspicious ceremony required by (the custom of) the family.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 निष्क्रामणान्नप्राशनयोः कृत्स्नस्य विधेर् विशेषशास्त्रे गृह्यस्मृत्या वादिष्टत्वाद् इहाभिधानं सामान्यस्मृतित्वाद् अस्येष्टं मङ्गलम् इत्य् एतत् सर्वस्मिन् संस्कारप्रकरणे ऽधस् चोर्ध्वं च शेषभूतं द्रष्टव्यम् । न केवलम् अत एव हि नामसु दत्तादयः परिग्राह्या (?) अन्यच् च कुलधर्मा हि शास्त्राविरुद्धा सिद्धा भवन्ति ।
@@ -1769,6 +1769,11 @@ during the third fortnight.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/035_chUDAkarma_dvijAtInAm.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+035	According to the teaching of the revealed texts, the Kudakarman (tonsure) must be performed, for the sake of spiritual merit, by all twice-born men in the first or third year.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In view or the injunctions or the Veda, the Tonsure-ceremony of all twice-born children should be performed, according to law, in the first year or the third.—(35)
@@ -1892,11 +1897,6 @@ fifth year.’
 **चूडाकर्मेति** । **द्विजातीनां प्रथमे **वर्षे **तृतीये वा **चूडाकरणम् । **धर्मतो** धर्मेणादृष्टार्थं कार्यम्, “ॐ यत्र बाणाः सम्पतन्ति कुमारा विशिखा इव” इति श्रुतिलिङ्गात् । अनेनैतद् दर्शयति – यद् एवं प्रायाः वेदलिङ्गमूलाः स्मृतय इति ॥ २.३५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-035	According to the teaching of the revealed texts, the Kudakarman (tonsure) must be performed, for the sake of spiritual merit, by all twice-born men in the first or third year.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अस्यादिपूर्ववद् अर्थप्राप्तस्य नियमार्थम् (?) आह । चूडार्थसंस्कारश् **चूडाकर्म्** च (?) सधर्मकं गृह्यशास्त्रोक्तम् । तद् इह न व्याख्यायते ग्रन्थगौरवभयात् । एकद् (तद्?) एव च प्रयोजनं सर्वसंस्काराणां कृत्स्नस्य गुणविधेर् अव्याख्याने । उक्तं चात्र सामान्यस्मृतित्वाद् अस्येति । मृ(२ अक्ष् lacuna) देशभेदश् च गोत्रविशेषेण स्मर्यते । दक्षिणतश् चूडावशिष्टानाम्, वामतो (?) भरद्वाजानाम्, उभयतो ऽत्र काश्यपानाम्, ऊर्ध्वतो (?) गालवानां पञ्चचूडा अङ्गिरसाम् । ऋद्धा भृगवच्च (वृद्धा भृगूनां च?) । तद् **द्विजाति**ग्रहणं च शूद्रपर्युदासार्थम् । एवं च तस्य तद् अनियतकालं विज्ञेयम् । "**प्रथमे ऽब्दे तृतीये वा**" इति दारकसामर्थ्यापेक्षस् तस्य विकल्पः । नक्षत्रग्रहसौस्थित्यापेक्षः कुलधर्मापेक्षो वा । **कर्तव्यम्** इति विधिः **श्रुतिचोदनाच्** छ्रुतिलिङ्गाद् इत्य् अर्थः । तच् च लिङ्गम् "कुमारान् विशिखा इव" (र्व् ६.७५.१७) इत्य् अनेन च ज्ञायते सर्वस्मृतिधर्मा मन्त्रब्राह्मणलिङ्गप्रभवा इति ।
@@ -1914,6 +1914,11 @@ fifth year.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/036_garbhAShTame.abde.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+036	In the eighth year after conception, one should perform the initiation (upanayana) of a Brahmana, in the eleventh after conception (that) of a Kshatriya, but in the twelfth that of a Vaisya.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the eighth year from conception one should perform the initiation of the Brāhmaṇa; of the king in the eleventh year from conception; and of the Vaiśya in the twelfth.—(36)
@@ -2024,11 +2029,6 @@ or in his eighth year from conception; the Kṣattnya in the eleventh and the Va
 **गर्भाष्टम** इति । गर्भग्रहणसंवत्सरद् **अष्टमे **संवत्सरे **ब्राह्मणस्य,** उपनयनम् एव्**ओपनायनं** मौञ्जीबन्धनं कर्तव्यम् । एवं गर्भैकादशे क्षत्रियस्य गर्भद्वादशे वैश्यस्य ॥ २.३६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-036	In the eighth year after conception, one should perform the initiation (upanayana) of a Brahmana, in the eleventh after conception (that) of a Kshatriya, but in the twelfth that of a Vaisya.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 किमर्थम् इदम् । गर्भसंवत्सरात् प्रभृति द्विजातीनाम् उपनयनसंवत्सरसङ्ख्या यथा स्याज् जन्मप्रभृति लोकं (?) मा भूद् इत्य् एवमर्थम् इदम् आरभ्यते । 
@@ -2049,6 +2049,11 @@ or in his eighth year from conception; the Kṣattnya in the eleventh and the Va
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/037_brahmavarchasa-kAmasya_kAryo.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+037	(The initiation) of a Brahmana who desires proficiency in sacred learning should take place in the fifth (year after conception), (that) of a Kshatriya who wishes to become powerful in the sixth, (and that) of a Vaisya who longs for (success in his) business in the eighth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Brāhmaṇa desirous of Brahmic glory, it should be done in the fifth year; for the ‘King’ desirous of power, in the sixth; and for the Vaiśya desirous of business, in the eighth.—(37)
@@ -2143,11 +2148,6 @@ is desired; during the eighth, if longevity is desired; during the ninth, if bri
 **ब्रह्मवर्चसकामस्येति** । अध्ययनविज्ञानाद्यतिशयकृतं तेजो **ब्रह्मवर्चसं **बालस्य विशेषविज्ञानाभावात् तद् युक्तः पुत्रो मे भवेद् इत्य् एवंविधपितृकामना फलास्पदत्वात् पुत्रो ऽप्य् उपदिश्यते ब्रह्मवर्चसकाम इति । तस्य ब्राह्मणस्य** **गर्भपञ्चमे ऽब्दे उपनयनं कार्यम् । एवं क्षत्रियस्य हस्त्यश्वबाहुवीर्यादि ब्राह्माभ्यन्तरबलार्थिनो गर्भषष्ठे, **वैश्यस्य** बहुकृष्यादिचेष्टार्थिनो गर्भाष्टमे, गर्भसंवत्सराणाम् एव प्रकृतत्वात् ॥ २.३७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-037	(The initiation) of a Brahmana who desires proficiency in sacred learning should take place in the fifth (year after conception), (that) of a Kshatriya who wishes to become powerful in the sixth, (and that) of a Vaisya who longs for (success in his) business in the eighth.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 गर्भादिसङ्ख्या वर्षाणाम् अनुवर्तते । अध्ययनविज्ञानाचारकम् अनुष्ठानसम्पद्भिर् यत् तेजो ब्राह्मणस्य तद् ब्रह्मवर्चसा (?) । तस्मिन् कामो यस्य सो ऽयं **ब्रह्मवर्चसकामः** । बलवर्चस्य (बालवर्षस्य?) विशेषविज्ञानाभावात् पितुर् अयम् उपदेशः । विशिष्टकाले वसज्जने (?) च प्रधानकर्माभ्युपयो(ये)न (योगेन?) दृष्टं बिलम् (बलम्?) अनुबध्यते (?) । **ब्रह्मवर्चसं** गुणसम्बन्धिनिमित्तम् । तच् च शास्त्रसामार्थ्यात् प्रतीयते । "यवाग्वा ग्रामकामः," "तण्डुलैर् बलकामः," "गुद्घेनेन्द्रियकामः," "मादिराच् छबलं (?) तु शस्त्रास्त्रप्रयत्नप्रकर्षागतं शरीरं कोशदण्डो बाह्यम् अमात्यादिप्रकृतिसम्बन्धात् । तस्मिन् कामो यस्येति समानं पूर्वेण" । **वैश्यसेहार्थिनः** ईहापलार्थिनः इति यावत् । तच् च कृष्यादिसम्पदुपचयः (?) तस्मिन् काम इति व्याख्यानम् । तच् चैतद् उपनयनं केचिद् ब्राह्मणाः संस्कारम् इच्छन्ति । तत्प्राप्त्यनन्तरं प्रणवव्याहृतिसावित्र्यादिब्रह्माध्ययनात् प्रति ब्रह्मचर्यव्रतान्यत्वात् व्रतवद् उपशयनम् अपि ब्रह्मसंस्कारायैव स्यात् । परे तु पुरुषसंस्कारायैव स्यार्थम् (?) इदम् आहुः । व्रतादीनीति । नामधेयादि । इदम् अर्थं विज्ञाध्ययते (यज्ञाध्ययने?) तथा पुरुषसंस्कारमध्ये गौतमः पुर[स्करो]त्य् एनम् । पक्षद्वये न्यायेनोभयपरः । वयं त ब्रूमः । सर्वथा **[५३]** पुरुषसंस्कारायैवैतत् । एवं च संस्कृतम् अनेन ब्रह्म पुरुषं संस्करोति । पुरुषार्थत्वाद् अध्ययनस्यैवं व्यवधाने ऽपि (?) तदर्थं तद् उच्यते । तथा च संस्कृतः तेन पुरुषो वेदाध्ययनसमर्थो भवति । यथाग्निसंयोगेन घट उदाहरणादिभिर् अधिकृते उभयसंस्कारपक्षे ऽपि न कश्चिद् दोषः । व्यवधानाव्यवधानाभ्याम् इत्य् उक्तम् ।
@@ -2165,6 +2165,11 @@ is desired; during the eighth, if longevity is desired; during the ninth, if bri
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/038_A_ShodashAd.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+038	The (time for the) Savitri (initiation) of a Brahmana does not pass until the completion of the sixteenth year (after conception), of a Kshatriya until the completion of the twenty-second, and of a Vaisya until the completion of the twenty-fourth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Brāhmaṇa the Sāvitrī does not lapse till the sixteenth year; for the Kṣatriya till the twenty-second year; and for the Vaiśya till the twenty-fourth year.—(38)
@@ -2329,11 +2334,6 @@ the ‘Apostate’ as Yājñavalkya.)
 अनुकल्पम् आह – **आ षोडशाद्** इति । “छन्दः पादाक्षरवद् अब्दसमवाये उपनयनम्” इति हारीतस्मरणात् । आङो ऽभिविध्यर्थत्वेन षडशवर्षं यावत् **ब्राह्मणस्य सावित्र्य्**अनुवचनसाधनम् उपनयनं नातिक्रान्तकालं भवति । **द्वाविंशं** यावत् क्षत्रियजातीयस्य । **चतुर्विंशं **यावत् वैश्यस्य । उपनयनं च पुरुषस्य संस्कारः कार्यः शरीरसंस्कार इति आम्नानात् न तु तदनन्तरं वेदाध्ययनदर्शनात् ब्रह्मसंस्कारस्य (त्व) भ्रान्तिः कार्याः । तत्रानुमानिकत्वात् ॥ २.३८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-038	The (time for the) Savitri (initiation) of a Brahmana does not pass until the completion of the sixteenth year (after conception), of a Kshatriya until the completion of the twenty-second, and of a Vaisya until the completion of the twenty-fourth.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 किमर्थम् इदं प्राथमकल्पकोपनयनकालव्यतिरेकेणैषाम् एतद् अन्यत्र न प्राप्नोतीतीष्यते । स्याद् इत्य् आरम्भः । किम् अयम् आङ् (?) अभिविधाव् अथ मर्यादायाम् । कश् चात्र विशेषः । यद्य् अभिविधौ सह गर्भषोडशेन । अथ मर्यादायाम्, तद् वर्जयित्वाभिविधेन तर्हि गायत्रछन्दो ऽनुगमाद् ब्राह्मणस्य तस्याश् च द्वैगुण्यसम्पादनं षोडशाब्दे [१ अक्ष् उन्च्लेअर्]नैकत्र **सावित्री** **नातिवर्तते** । सावित्र्यनुवचनसाधनम् उपनयनं सावित्रीत्य् उच्यते । गणतः सा इयं तं कालं न जहाति । अधिकारयोग्याम् आचष्टे । एवं द्वाविंशतेः क्षत्रबन्धोर् आगतं(?) न पठ्यते पादाधिक्यभयात् । तदर्थस् तु प्रतीयते प्रकरणसामर्थ्यात् । **आ चतुर्विंशतेर् विश** (?) इत्य् अधिकृ(?)स्याप्य् आङः पुनराम्नानं पादपूरणार्थम् ।
@@ -2351,6 +2351,11 @@ the ‘Apostate’ as Yājñavalkya.)
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/039_ata_Urdhvam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+039	After those (periods men of) these three (castes) who have not received the sacrament at the proper time, become Vratyas (outcasts), excluded from the Savitri (initiation) and despised by the Aryans.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Beyond this, all these three, not having received the sacrament at the proper time, become excluded from Sāvitrī (initiation), and thereby come to be known as ‘Vrātyas’ (apostates), despised by all good men.—(39)
@@ -2406,11 +2411,6 @@ See Comparative notes for [Verse 2.38].
 **अत ऊर्ध्वम्** इति । **एते** **यथाकालं** यो यस्योपनयनकालः तत्रोपकल्पिते ऽपि **असंस्क्र्ताः **सन्तः अस्मात् कालात् **ऊर्वं सावित्रीपतिताः** उपनयनभ्रष्टाः शिष्ट**विगर्हिताः **सन्तो **व्रात्य**सञ्ज्ञा भवन्ति । सञ्ज्ञाविधानं “व्रात्यानां याजनं कृत्वा” इत्य् एवमादिव्यवहारार्थम् ॥ २.३९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-039	After those (periods men of) these three (castes) who have not received the sacrament at the proper time, become Vratyas (outcasts), excluded from the Savitri (initiation) and despised by the Aryans.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अत ऊर्ध्वम्,** **अतो** ऽस्मात् प्राथमिककल्पाद् आनुकल्पिकाच् च कालाद् **ऊर्ध्वं** **त्रयो ऽप्य् एते यथाकालम् असङ्कृताः** सन्तः **सावित्रीपतिताः** सावित्र्यनुपसाधनाद् उपनयनात् पतितास् ते सम्बन्धा न भावप्रत्यया (?) नामतो **भवन्ति** । सञ्ज्ञानिर्देशो ऽयम् । व्यवहारार्थशास्त्र एवं च सन्तो भवन्त्य् **आर्त्यविगर्हिता** यतश् चैतद् एवम् अतः ।
@@ -2436,6 +2436,11 @@ _उक्तम् "आर्यैर् निन्दितः" इति �
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/040_naitair_apUtair.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+040	With such men, if they have not been purified according to the rule, let no Brahmana ever, even in times of distress, form a connexion either through the Veda or by marriage.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa should not in ant case, even in times of distress, establish spiritual or uterine relationship with these persons, until they have been duly purified.—(40)
@@ -2525,11 +2530,6 @@ Vedic (tutorial), or marital or commercial,—should he ever held with them by a
 यावद् **विधिवत्** यथाशास्त्रं एते अपूताः कृतप्रायश्चित्ता न भवन्ति तावद् **एतैः सहापद्य् अपि **कदाचित् अध्ययनकन्यादानादीन् **सम्बन्धान् **ब्रह्मणो **नाचरेत् **॥ २.४० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-040	With such men, if they have not been purified according to the rule, let no Brahmana ever, even in times of distress, form a connexion either through the Veda or by marriage.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 श्रौतेन स्मार्तेन वा प्रायश्चित्तेन वापि ब्राह्मणानां च **सम्बन्धेनाचरेद् ब्राह्मणैः सह** । समाचरन् (?) । ब्राह्मणपदेन (?) सम्बन्धग्रहणम् । प्रतिग्रहो जननादि(?)सम्बन्धप्रदर्शनार्थम् अपि स्यात् । 
@@ -2549,6 +2549,11 @@ Vedic (tutorial), or marital or commercial,—should he ever held with them by a
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/041_kArShNa-raurava-bAstAni_charmANi.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+041	Let students, according to the order (of their castes), wear (as upper dresses) the skins of black antelopes, spotted deer, and he-goats, and (lower garments) made of hemp, flax or wool.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Brahmacāris should wear the skin of the black (deer), of the Ruru deer and of the goat respectively; and also the cloth of hemp, flax and wool.’—(41)
@@ -2719,11 +2724,6 @@ The size of the ‘skin’ to be worn has been prescribed by Śākala (Vīramitr
 **कार्ष्णरौरवबास्तानीति **। **कार्ष्ण** इति सामान्याभिधाने ऽपि रुर्वाख्यमृगसम्बन्धात् कृष्णमृगरुरुछागचर्माणि **ब्रह्मचारिणः** उत्तरीयाणि **वसीरन् **। “चर्माणि उत्तरीयानि” इति गृह्यवचनाच् च । शाणक्षुमोर्णामयानि अर्थात् परिधानीयानि वासांशि **वसीरन्** । आनुपूर्व्यग्रहणं क्रमार्थम् । “शाणं क्षौमं चाब्राह्मणस्य” इति गृह्यदर्शनात् एतयोर् ब्राह्मणगतत्वाभ्रान्त्या विषमसङ्ख्यत्वे सति यथाक्रमसम्बन्धात् ॥ २.४१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-041	Let students, according to the order (of their castes), wear (as upper dresses) the skins of black antelopes, spotted deer, and he-goats, and (lower garments) made of hemp, flax or wool.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **चर्माण्य्** उत्तरीयाणि ब्रह्मचारिणाम् अविशेषवचने ऽपि गृह्यशास्त्रात् प्रतीयते । एवं च **शाणक्षौमाविकान्य्** अर्थात् परिधानानुपूर्वग्रहणं चोत्तरार्थं विज्ञेयम् । <u>ननु</u> चैतच् चर्मसङ्ख्यत्वाद् अर्थसिद्धम्, गृह्यस्मृतौ "शाणं क्षौमं वा वसनं ब्राह्मणस्य" इत्य् उक्तम् एवं च सङ्ख्याभेदे सति सर्वाणि सर्वेषां मा भूवन् नित्यतस् तदाशङ्कानिवृत्त्यर्थम् **आनुपूर्व्य**ग्रहणम् । कथम् इति ।
@@ -2741,6 +2741,11 @@ The size of the ‘skin’ to be worn has been prescribed by Śākala (Vīramitr
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/042_maunjI_trivRt.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+042	The girdle of a Brahmana shall consist of a of a triple cord of Munga grass, smooth and soft; (that) of a Kshatriya, of a bowstring, made of Murva fibres; (that) of a Vaisya, of hempen threads.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For, the Brāhmaṇa the girdle should be threefold, of even thickness, soft and smooth, made of muñja grass; for the Kṣatriya it should be the bow-string made of murvā grass; and for the Vaiśya the cord made of hempen fibres.”—(42)
@@ -2826,11 +2831,6 @@ grass.’
 **मौञ्जीति** । मुञ्जाख्या कक्षम्यी त्रिगुणा समगुणा अपरुषा ब्राह्मणस्य **मेखला **कार्या । **क्षत्रियस्य **तु मूर्वामयी **ज्या** धनुर्गुणः मेखला कार्या । अत्र च ज्यात्वविनाशापत्तेः त्रिवृत्वं नास्ति पूर्वासां (पूर्वेषां) गान्धिषु (ग्रन्थेषु) तथा प्रसिद्धेः । **वैश्यस्य शाण**सूत्रमयी । अत्र च त्रैगुण्यम् अनुवर्तते गुणानाम् अपेक्षणात्, गृह्यस्मृतौ च गुणाम्नानात् ॥ २.४२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-042	The girdle of a Brahmana shall consist of a of a triple cord of Munga grass, smooth and soft; (that) of a Kshatriya, of a bowstring, made of Murva fibres; (that) of a Vaisya, of hempen threads.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **मौञ्ज्या** इत्य् एतद् विशेषणं **त्रिवृत्** त्रिगुणा **समा** समगुणा । **श्लक्ष्णा** परिघर्षणतनुत्वगुणा । क्षत्रियमेखलाविशेषणार्थं **ज्या**ग्रहनम् । एवं च ब्राह्मणमेखलागुणत्रिवृत्त्वं नास्त्य् अत्र विरोधाद् वैश्यम् एव बलागुणानाम् अविरोधात् सम्भवस् त्रिवृदादीनाम् (?) ।
@@ -2848,6 +2848,11 @@ grass.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/043_munjAlAbhe_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+043	If Munga grass (and so forth) be not procurable, (the girdles) may be made of Kusa, Asmantaka, and Balbaga (fibres), with a single threefold knot, or with three or five (knots according to the custom of the family).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the event of Muñja (and thb rest) being not available, they should be made of Kuśa, Ashmantaka and Balvaja,—triplicated with one, three or four knots.—(43)
@@ -2915,11 +2920,6 @@ be made triplicated; turned round three times; its knots should he three or five
 **मुञ्जालाभ** इति । त्रयाणां ब्रह्मचारिणां प्रकृतत्वाद् अभावस्य तुल्यत्वात् कौशादीनां बह्वीनाम् उपादानं **मुञ्जालाभे **मुञ्जाद्यलाभ इति व्याचक्षते । मुञ्जाद्यभावे कुशादिभिः यथाक्रमं ब्राह्मणादिभिः कर्तव्याः कुशादयस् तृणविशेषाः । एताश् च त्रिगुणेन **ग्रन्थिनैकेन त्रिभिर् वा पञ्चभिर् वा** कार्याः । **वा**शब्दात् ग्रन्थीनां विप्रादिभिः क्रमसम्बन्धाभावः, ग्रन्थिभेदश् चायं मुख्यास्व् अपि भवति, “वित्तस्य समो ऽसि दैव्यो ग्रन्थिर् असि मा विश्रंस” इति ग्रन्थिं कृत्वा इति लौगाक्षिणा मुख्यासु ग्रन्थ्याम्नानात् । ग्रन्थिसङ्ख्याभेदं च त्रैविद्यविदः स्मरन्ति ॥ २.४३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-043	If Munga grass (and so forth) be not procurable, (the girdles) may be made of Kusa, Asmantaka, and Balbaga (fibres), with a single threefold knot, or with three or five (knots according to the custom of the family).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **मुञ्जाभाव**ग्रहणसाहचर्याद् इतरयोर् अपि ग्राहकं प्रदर्शनार्थं वा, आदिशब्दलोपो वा । मुञ्जादीनाम् अभावे "**मुञ्जाभावे तु कर्तव्या कुशाश्मन्तक्बल्वजैः**" इति यथासख्येनैषाम् अभावविकल्पः । "**त्रिवृता ग्रन्थिनैकेन**" इत्य् अत्र त्रिवृत्त्वं ग्रन्थिविशेषणम् । केवलायास् तु पूर्वोक्तं "**त्रिभिः पञ्चभिर् एव वा**" इति न ग्रन्थीनां वर्णमेखलासु यथासङ्ख्यं वचनसामर्थ्यात् । किं तर्हि । (?) सर्वासु विकल्पेन । स्यस्त्र (?) चैतद् अभाववैकल्पिकेषु केवलसूच्यमानं विशेषणं पूर्वास्व् अपि द्रष्टव्यम् ।
@@ -2937,6 +2937,11 @@ be made triplicated; turned round three times; its knots should he three or five
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/044_kArpAsam_upavItam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+044	The sacrificial string of a Brahmana shall be made of cotton, (shall be) twisted to the right, (and consist) of three threads, that of a Kshatriya of hempen threads, (and) that of a Vaisya of woollen threads.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Sacrificial Thread worn over the shoulder,—which is triple and twisted upwards,—should be hade op cotton for the Brāhmaṇa, of hempen fibres for the Kṣatriya, and op woolen fibres for the Vaiśya.—(44)
@@ -3070,11 +3075,6 @@ men, *Prachīnāvīta* for Pitṛs and *Upavīta* for Gods.’
 **कार्पासम्** इति । भाविन्य् **उपवीत**सञ्ज्ञा यस्य विशिष्टन्यासस्य तद् **विप्रा**दीनां कार्पासशणोर्णामयं यथाक्रमं कार्यम् । **त्रिवृत् **त्रिगुणं सत् **ऊर्ध्ववृतं **दक्षिणावर्तचलितम् ॥ २.४४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-044	The sacrificial string of a Brahmana shall be made of cotton, (shall be) twisted to the right, (and consist) of three threads, that of a Kshatriya of hempen threads, (and) that of a Vaisya of woollen threads.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उपनी(वी?)तवद् उपन्(वि?)ईतम् । तथा च वक्ष्यति- "उद्धृते दक्षिणे पाणौ" (म्ध् २.६३) इति । **ऊर्ध्ववृतं त्रिवृद्** दक्षिणावृतां(?) त्रिवृद्ध्यास्यूतम् (??) एवं ब्राह्मणोपवीतविशेषणम् इतरवर्णोपवीतयोर् अप्य् अविरोधाद् द्रष्टव्यम् ।
@@ -3092,6 +3092,11 @@ men, *Prachīnāvīta* for Pitṛs and *Upavīta* for Gods.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/045_brAhmaNo_bailva-pAlAshau.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+045	A Brahmana shall (carry), according to the sacred law, a staff of Bilva or Palasa; a Kshatriya, of Vata or Khadira; (and) a Vaisya, of Pilu or Udumbara.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa should, by law, have staves of Bilva and Palāśa wood; the Kṣatriya those of Vaṭa and Khadira; and the Vaiśya those of Pīlu and Udumbara.—(45).
@@ -3186,11 +3191,6 @@ The ‘sacrificial trees have been enumerated in Brahma-purāṇa, as follows:�
 **ब्राह्मण** इति । ब्राह्मणस्य बैल्वः “पालाशो वा दण्डः” इत्यादि वसिष्ठस्मरणात्, “प्रतिगृह्येप्सितं दण्डम्” इति चेहैव दर्शनात्, विकल्पेन द्वौ द्वौ दण्डौ बैल्वपालाशवटखदिरपीलूदुम्बराख्यवृक्षाणां **ब्राह्मणा**दयो **ऽर्हन्ति** ॥ २.४५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-045	A Brahmana shall (carry), according to the sacred law, a staff of Bilva or Palasa; a Kshatriya, of Vata or Khadira; (and) a Vaisya, of Pilu or Udumbara.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 शास्त्रत इत्य् अर्थः । समुदाये च बहुवचनम् । प्रतिवर्णं तु दण्डद्वयं तद्धितोपविष्टं विकल्पेन । न चोभयपदप्राधान्यद्वन्द्वस्य दृष्टार्थत्वाच् । दण्डधारणस्य द्रव्यनियमवद् दण्डयोर् **[५५]** यथाश्रुतः (?) स्यात् प्रतिवर्णम् इति । द्वन्द्वोपदेशाभिछन्दो ऽनुविधानेनात्र । कथं गम्यते । गृह्यस्मृतिसदा(?)चाराभ्यां सामर्थाच् च । विकल्पः स्याच् छास्त्रान्तरात् । तथा च तेन तमः तदभाव ऋत्विगाचार्याव् इति द्रष्टव्या नियमवच् चादृष्टत्वम् । एकदण्डधारणे ऽप्य् अविरुद्धत्वम् । उपरिष्टाच् च दण्डगुणविधिष्व् एकवचननिर्देशो(शे?) विकल्पः ।
@@ -3208,6 +3208,11 @@ The ‘sacrificial trees have been enumerated in Brahma-purāṇa, as follows:�
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/046_keshAntiko_brAhmaNasya.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+046	The staff of a Brahmana shall be made of such length as to reach the end of his hair; that of a Kshatriya, to reach his forehead; (and) that of a Vaisya, to reach (the tip of his) nose.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Brāhmaṇa the staff should be made in size reaching up to the end of his hair, for the Kṣatriya it should reach up to the forehead, and for the Vaiśya to the nose;—(46)
@@ -3277,11 +3282,6 @@ the Mouth.
 **केशान्तक** इति । केशललाटनासिकासमीपप्रमाणा यथाक्रमं ब्राह्मणादीनां दण्डाः कार्याः ॥ २.४६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-046	The staff of a Brahmana shall be made of such length as to reach the end of his hair; that of a Kshatriya, to reach his forehead; (and) that of a Vaisya, to reach (the tip of his) nose.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 दण्डप्रमाणनियमविधिर् अर्थप्राप्तस्य प्रमाणस्यान्तानुपदेशे (?) च क्षत्रियस्य ललाटान्तसम्मितो दण्डः सामर्थाद् द्रष्टव्यः ।
@@ -3299,6 +3299,11 @@ the Mouth.
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/047_Rjavas_te.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+047	Let all the staves be straight, without a blemish, handsome to look at, not likely to terrify men, with their bark perfect, unhurt by fire.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All these should be straight, unimpaired, handsome-looking, not frightening to men, with dark and unspoilt by fire—(47)
@@ -3357,11 +3362,6 @@ the sacrificial post.’
 **ऋजव** इति । **ते** दण्डाः मृष्टनिच्छ्रिद्राः भीषणीयाकाररहिताः **सत्वचः **अग्निदोषशून्याः स्युः । न च तैः किञ्चिद् भूतजातम् उद्वेजनीयम् ॥ २.४७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-047	Let all the staves be straight, without a blemish, handsome to look at, not likely to terrify men, with their bark perfect, unhurt by fire.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ऋजुत्वानुगतो ऽपि सर्वशब्दो ऽव्रणादिदण्डगुणविशेषणार्थो द्रष्टव्यः सामर्थात् ।
@@ -3379,6 +3379,11 @@ the sacrificial post.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/048_pratigRhyepsitan_daNDam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+048	Having taken a staff according to his choice, having worshipped the sun and walked round the fire, turning his right hand towards it, (the student) should beg alms according to the prescribed rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Taking up the staff of his liking, having worshipped the sun and walked round the fire to his right, he should beg for alms according to the prescribed rule.—(48)
@@ -3448,11 +3453,6 @@ evening.’
 **प्रतिगृह्येति** । आप्तुम् इष्टं संस्कृतं **दण्डं** गृहीत्वा आदित्यं चाभिध्याय अग्निं प्रदक्षिणीकृत्य **भक्षं** यथाशस्त्रं **चरेत् **॥ २.४८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-048	Having taken a staff according to his choice, having worshipped the sun and walked round the fire, turning his right hand towards it, (the student) should beg alms according to the prescribed rule.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इदं भैक्षकरणम् उपनयनाङ्गं तत्प्रकरणात् भुक्तवतश् चोपनेयत्वान् न वृत्त्यर्थम् । अतः पक्वम् आमं वादायाचार्याय निवेदयेत् यथाविधि । एतद् उक्तं यतस् तद्विधिर् अय्म उच्यते ।
@@ -3470,6 +3470,11 @@ evening.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/049_bhavat-pUrva~n_chared.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+049	An initiated Brahmana should beg, beginning (his request with the word) lady (bhavati); a Kshatriya, placing (the word) lady in the middle, but a Vaisya, placing it at the end (of the formula).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa, having undergone Initiation, should beg for food with words of which ‘bhavat’ (‘Lady’) forms the beginning; the Kṣatriya with words of which ‘bhavat’ forms the middle; and the Vaiśya with words of which ‘bhavat’ forms the end.—(49)
@@ -3559,11 +3564,6 @@ should say *bhikṣām bhavat dadātu*, and in begging from females *bhikṣām 
 कथम् इत्य् आह – **भवत्पूर्वम्** इति । “भवति देहि” इत्य् एवं **भवच्**छब्द**पूर्वं** भिक्षाप्रार्थनावाक्यं ब्राह्मण उच्चारयेत् । एवं “भिक्षां भवति देहि” इति **भवन्मध्यं** क्षत्रियः, “भिक्षां देहि भवति” इति **भवदुत्तरं** वैश्यः ॥ २.४९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-049	An initiated Brahmana should beg, beginning (his request with the word) lady (bhavati); a Kshatriya, placing (the word) lady in the middle, but a Vaisya, placing it at the end (of the formula).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 भवतिशब्दः पूर्वो यस्य तद् इदं भवत्पूर्वं बहुव्रीहिः समासार्थः । चरणं किम् । तत् भिक्षाप्रार्थना वाज्यम् (वान्नम्?) अर्थगृहीतं भवति । कथं लक्षणम् । देहीतीदम् । भवतिशब्दपूर्वस्य (?) प्रयोगकाले ह्रस्वत्वं च "अम्बार्थनद्योर् ह्रस्वः" (पाणिनि ७.३.१०७) इत्य् अनेन द्रष्टव्यम् । प्रकृतिग्रहणेन च प्रत्ययग्रहणम् । अप्रत्ययकस्य भवच्छब्दस्योच्चारणम् अनुष्टुप्छन्दोऽनुविधानेन । (**?) च भवत्पूर्वं चरेद् यावत् । किञ्चिद् भैक्षं भिक्षार्थं भिक्षणं भिक्षाशब्देनोच्यते । तादर्थ्यात् भिक्षाप्रार्थनावाक्यं च भैक्षम् उच्यते । येन तद्भिक्षायां भवं गुणतो भिक्षार्थं वा । तथा च गृह्यशास्त्रे (?) "भवत्पूर्वं ब्राह्मणो भिक्षेतेति पठेत्" इति वास्य प्रयोजनोपदेशः । "उपनीतो द्विजोत्तमः" इति चोपनयनाङ्गभिक्षाचरणविधिर् उच्यमानः सामर्थात् सार्वत्रिकः प्रत्येतव्यः । एतेन क्षत्रियवैश्ययोर् "भिक्षां देहि" इत्य् एतस्मिन् प्रार्थनावाक्ये मध्यान्तयोर् भवच्छब्दस्य प्रयोगो व्याख्यातः । सत्य् अपि च पुंसः (?) प्राधान्ये देशसामर्थ्यं सन्निहिताम् असन्निहितां च स्त्रियम् एवामन्त्र्य भवतिशब्देन भिक्षेत न पुमांसम् । तथा च तासाम् एवायम् उपदेशः ॥
@@ -3581,6 +3581,11 @@ should say *bhikṣām bhavat dadātu*, and in begging from females *bhikṣām 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/050_mAtaraM_vA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+050	Let him first beg food of his mother, or of his sister, or of his own maternal aunt, or of (some other) female who will not disgrace him (by a refusal).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 First of all he should beg food of his mother, or of his sister, or of his mother’s own sister, or of such another lady as may not insult him.—(50)
@@ -3647,11 +3652,6 @@ throw into his begging vessel, gold, silver and gems.’\]
 **मातरम्** इति । **मातुर् भगिनी** मातृष्वसा प्रथमम् उपनयनाङ्गभूतं भैक्षम् एतां याचेत् नान्यां या च प्रत्याख्यानेन ब्रह्मचारिणं **नावमानयेत्** । **निजा **सोदरा ॥ २.५० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-050	Let him first beg food of his mother, or of his sister, or of his own maternal aunt, or of (some other) female who will not disgrace him (by a refusal).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 प्रत्याख्यानावमानभिया च ब्रह्मचारिण्ō मात्रादि सकाशात् **प्रथमं** भिक्षनोपदेशो ऽभ्युदयाय वेदलिङ्गात् तां भिक्षेतेत्य् आहुः तल्लौक्यम् (?) इत्य् एतस्माद् एव (एवं?) च प्रथमभिक्षणे प्रत्याख्यातव्यः प्रत्यवायो ऽनुमीयते ।
@@ -3669,6 +3669,11 @@ throw into his begging vessel, gold, silver and gems.’\]
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/051_samAhRtya_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+051	Having collected as much food as is required (from several persons), and having announced it without guile to his teacher, let him eat, turning his face towards the east, and having purified himself by sipping water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having collected as much food as may be needed, and having offered it, without guile, to his Teacher, he should eat it, with his face to the east, after having sipped water and become pure.—(51)
@@ -3761,11 +3766,6 @@ sun, offered to the Teacher and granted by him, is called *Nectar*.’
 **समाहृत्येति** । **तद् भैक्षं यावदर्थं** तृप्तिपरिमाणम्, **अमायया** कदन्नपरिहारेण बहुभ्य **आहृत्य गुरवे निवेद्य **तेनानुगृहीतं सदा**चम्य शुचिः **सन्** प्राङ्मुखो ऽश्नीयाद्** इति दिङ्नियमः । **आचम्य** उपस्पृश्य द्विजो नित्यम् इति वक्ष्यमाणविध्यनुवादः । तत्र “खानि च” इत्यादिना अस्य सविशेषस्य चोदिष्यमाणत्वात् ॥ २.५१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-051	Having collected as much food as is required (from several persons), and having announced it without guile to his teacher, let him eat, turning his face towards the east, and having purified himself by sipping water.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **यावदर्थम्** इति तृप्तिपरिमाणेन ततो ऽधिकं माययेत्य् उपधापरित्यागेन कदन्नं दीयमानं (?) सा (?) रोग्य् अहम् (?) इत्य् एवमादिना व्याजेन प्रत्याचक्षीत । उत्तरार्थं चेदम् । **अमायया** **निवेद्य गुरवे ऽश्नीयाद् आचम्य** प्राङ्मुखग्रहणभयाद् भिक्षां प्रच्छाद्याचार्यनिवेदनं तु (?) संस्कारार्थं न दानाय वृत्त्यर्थत्वात् तस्य । तथा च तद् दर्शयति "**निवेद्य गुरवे ऽश्नीयात्**" इत्य् **आचम्येति** वक्ष्यमाणविध्यनुवादः । "प्राङ्मुखतानियमो धर्मायापरः पुनराभानुज्ञातो (?) भुञ्जीत" इति वचनात् । स्मृत्यन्तरतो ऽस्ति गुर्विच्छया भिक्षदानम् एकदा गुरुग्रहणपक्षे च भिक्षितव्यं पुनस् तेन "यावदर्थम्" इति वचनात् । सत्यम् एवम् एतद् यद् अनुज्ञातभोजनं दृष्टार्थं कल्प्येतातत्त्वे तद् अदृष्टार्थम् अतो न किञ्चिद् इत्य् एतद् कामोपसंहितः प्राङ्मुखतानियमो धर्मायोक्तः । काम्यं तत् ।
@@ -3783,6 +3783,11 @@ sun, offered to the Teacher and granted by him, is called *Nectar*.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/052_AyuShyam_prA~N-mukho.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+052	(His meal will procure) long life, if he eats facing the east; fame, if he turns to the south; prosperity, if he turns to the west; truthfulness, if he faces the east.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Eating with face to the East, he does what is conducive to longevity; eating with face to the South, he does what brings fame; eating with face to the West, he does what brings prosperity; and eating with face to the North, he does what leads to the true.—(52)
@@ -3868,11 +3873,6 @@ the east, with speech in check, not decrying the food, nor scattering it, with m
 काम्यम् इदानीम् आह – **आयुष्यम्** इति । आयुषे हितम् अन्नं प्राङ्मुखो **भ्य्ङ्क्ते** इति लिङर्थो ऽयं द्रष्टव्यः, अन्यथा आनर्थ्यक्यात् । एवं च्**आयुष्य**कामः **प्राङ्मुखो भुङ्क्ते** [इति] उक्तं भवति । एवं यशसे हितं **दक्षिणामुखः**, **श्रियम्** इच्छन् **प्रत्यङ्मुखः** । **ऋतं** सत्यं तत्फलहेतुत्वात् अन्नम् अमृतं **उदङ्मुखो भुङ्क्ते** ॥ २.५२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-052	(His meal will procure) long life, if he eats facing the east; fame, if he turns to the south; prosperity, if he turns to the west; truthfulness, if he faces the east.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 स्त(स्न)पनमात्रम् अनर्थकम् इति यत् काम्यो ऽयं विधिर् इत्य् <u>एके</u> । अनुपदेशरूपैस् तु विधानाद् दिङ्मात्रस्तुतिर् अन्तरालप्रतिषेधार्थम् इत्य् <u>अपरे</u> । न च "इदं भैक्षाशनं भुङ्क्ते" इत्य् आख्यातान्तरेण निर्देशात् भैक्षाशनाङ्गत्वे ह्य् आयुष्यं प्राङ्मुखो नाश्नीयात् (?) इति ब्रूयात् । न त्व् एवम् अवोचद् यतस् तद् अजिज्ञापेयं (?) न भिक्षाशनाङ्गम् इदम् । अतश् च सार्वत्रिको ऽयं विधिर् इत्य् अवगम्यते । "निवेद्य गुरवे ऽश्नीयात्" (म्ध् २.५१) इत्य् उक्तम् । यतस् तद्विधिर् उपदिश्यत् ।
@@ -3890,6 +3890,11 @@ the east, with speech in check, not decrying the food, nor scattering it, with m
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/053_upaspRshya_dvijo.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+053	Let a twice-born man always eat his food with concentrated mind, after performing an ablution; and after he has eaten, let him duly cleanse himself with water and sprinkle the cavities (of his head).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-b orn person should always take his food after having sipped water and with due care; and after having eaten, he should rinse his mouth in the proper manner and touch the cavities with water.—(53).
@@ -4016,11 +4021,6 @@ without any mantra.’
 **उपस्पृश्येति** । सर्वदा ब्रह्मचर्याद् ऊर्ध्वम् अपि द्विजः आचम्य **अन्नं समाहितो **अनन्यमना भुञ्जीत । **भुक्त्वा च** यथाशास्त्रम् **उपस्पृशेत्** । **अद्भिश् च खानि** इन्द्रियछिद्राणि “खानि चोपस्पृशेच् छीर्ष्ण्यानि” इति गौतमस्मरणात् शिरस्थानि** स्पृशेत्** । **उपस्पृशेद् **इत्य् उक्त्वा **खानि च संस्पृशेद्** इति यत् पृथग् आह अतो ऽवसीयते यद् उपस्पर्शनाचमनशब्दाभ्यां त्रिर् अभ्युक्षणमात्रं प्रधानम् उच्यते खस्पर्शनादिका तु इतिकर्तव्यतयेति । तथा च आचमनम् इति भक्षणार्थेनैव धातुसमाख्यानात् ॥ २.५३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-053	Let a twice-born man always eat his food with concentrated mind, after performing an ablution; and after he has eaten, let him duly cleanse himself with water and sprinkle the cavities (of his head).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **द्विज**ग्रहणं प्रकृतत्वात् तेषाम् अनुवादः पादपूरणार्थः । **नित्य**ग्रहणं सर्वावस्थानुगतजातिधर्मं दर्शयति । <u>अपरे</u> पुनर् **द्विज**ग्रहणस्येदं प्रयोजनम् आहुर् **नित्य**ग्रहणं चादरार्थं कल्पयन्ति । <u>अन्ये</u> पुनर् इदम् अनर्थकं समाहितग्रहणम्, भुञ्जानस्य चेन्द्रियसंयमं (?) दर्शयति । क्रोधाद्यसत्पुरुषधर्मत्यागं (?) वा । तथा चास्याश्नतः प्रसादो ऽयं विधीयते ।
@@ -4038,6 +4038,11 @@ without any mantra.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/054_pUjayed_ashanam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+054	Let him always worship his food, and eat it without contempt; when he sees it, let him rejoice, show a pleased face, and pray that he may always obtain it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should always worship the food and eat it without disparaging it. When he sees it, he should rejoice and peel gratified, and he should always welcome it.—(54)
@@ -4121,11 +4126,6 @@ silent, he shall be happy while eating.’
 **पूजयेद्** इति । सर्वदा अन्नं **पूजयेद्** देवतात्वेन प्राणार्थत्वेन च ध्यायेत् अनिन्दयंश् **चैतद्** अन्नम् **अद्यात्** । **दृष्ट्वा **च तुष्येत् **प्रसीदेच् च **। हेत्वन्तरजम् अपि खेदं जह्यात् । **प्रतिनन्देत्** श्रद्दध्यात् नित्यम् एतन् मे स्याद् इत्य् एवं सर्वशः **सर्वशः** सर्वपर्कारम् ॥ २.५४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-054	Let him always worship his food, and eat it without contempt; when he sees it, let him rejoice, show a pleased face, and pray that he may always obtain it.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अन्नस्य विशिष्टदेवतात्वेन संसर्शने ऽन्नं पूजाप्राणार्थतो न । तथा चागमः- 
@@ -4148,6 +4148,11 @@ silent, he shall be happy while eating.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/055_pUjitaM_hy.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+055	Food, that is always worshipped, gives strength and manly vigour; but eaten irreverently, it destroys them both.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The food, thus worshipped always, imparts strength and vigour. If eaten irreverently, it destroys them both.—(55)
@@ -4196,11 +4201,6 @@ See Comparative notes for [Verse 2.54].
 **पूजितम्** इति । यामात् **पूजितम् **अन्नं सामर्थ्यं वीर्यं च ददाति, **अपूजितं च तद् भुक्तं उभयं **नाशयति तस्मात् पूजितम् अद्याद् इति प्रकृतस्तुतिः फलार्थत्वे (न नि) नित्यतापत्तेः ॥ २.५५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-055	Food, that is always worshipped, gives strength and manly vigour; but eaten irreverently, it destroys them both.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **पूजित**शब्दः साहचर्याद् इतरेषाम् अप्य् अकुत्सादीनां प्रदर्शनार्थम् । एवं चा(सा?)धितानां तेषां फलेन स्तुतिम् अविशेषेणोभयथा वाक्यस्वभावात् भुञ्जानस्याधना(?) ब्रह्मचारिणो ऽर्थात् प्राप्तं प्रतिषिद्यते )?) ।
@@ -4218,6 +4218,11 @@ See Comparative notes for [Verse 2.54].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/056_nochChiShTa~N_kasya.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+056	Let him not give to any man what he leaves, and beware of eating between (the two meal-times); let him not over-eat himself, nor go anywhere without having purified himself (after his meal).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should not give the leavings to anyone; he should not eat in between; he should not do over-rating; and he should not go any-where with particles of food still on him.—(56)
@@ -4330,11 +4335,6 @@ he shall eat food, which has been worshipped, without decrying it.’
 **नोच्छिष्टम्** इति । **उच्छिष्टं कस्यचिद्** अपि **न दद्यात् । तथा अन्तरा** सायम्प्रातः कलयोर् मध्ये **नाद्यात्** सायं प्रातर् भोजनस्यौचित्यप्राप्तत्वात् अन्तराशब्दस्य वा मध्यवाचित्वाद् एवं लभ्यते । अतिमात्रभोजनं **न कुर्यात् । उच्छिष्टश् च न क्वचिद् **गच्छएत् ॥ २.५६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-056	Let him not give to any man what he leaves, and beware of eating between (the two meal-times); let him not over-eat himself, nor go anywhere without having purified himself (after his meal).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **नोच्छिष्टं कश्च्यचिद् दद्याद्** इति निषिद्धेर् विधिर् आरभ्यमाणो ऽयं विशेषार्थः सम्पद्यते । एवं च श्रुतेर् अप्रतिषेधार्थं यं यत्न(?) शूद्रस्यानुच्छिष्टदानप्रतिषेधं वक्ष्यति- "**नाद्याद् एतत् तथान्तरा**" इति । अर्थाकृष्टत्वात् पदार्थस्यातृप्तः सन् कदाचिद् अयम् अन्तरापि प्रवर्तते । यतस् तत्प्रतिषेधाय तद् आरभ्यत इति य एवम् आह तेन सायं प्रातर् अशननियमाद् अर्थवचनीयम् (?) एतत् । कस् तर्ह्य् अस्य विषयतो न च मानप्यपेतम् (?) उच्छिष्टम् अभोज्यम् अथ वान्तरप्रतिषेधेन सायम् अपि भैक्षाशनं ब्रह्मचारिणः प्रापयति किम् अप्राप्तं तच् छास्त्राभावाद् अप्राप्तम् इत्य् अशनस्यादृष्टार्थस्यापि सतः शास्त्रार्थवत्वाद् (?) या च दृष्टार्थता "**न चोच्छिष्टः क्वचिद् व्रजेत्**" इति वर्णधर्मप्रतिषिद्धस्य निन्दार्थवादो ऽयं विद्वेषणार्थः ।
@@ -4360,6 +4360,11 @@ he shall eat food, which has been worshipped, without decrying it.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/057_anArogyam_anAyuShyam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+057	Excessive eating is prejudicial to health, to fame, and to (bliss in) heaven; it prevents (the acquisition of) spiritual merit, and is odious among men; one ought, for these reasons, to avoid it carefully.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Over-eating destroys health, cuts off life and bars heaven; it is unrighteous and detested by people; for these reasons one should avoid it.—(57)
@@ -4415,11 +4420,6 @@ See Comparative notes for [Verse 2.56].
 **अनारोग्यम्** इति । यस्माद् रोगहेतुत्वात् **अनारोग्य**कृद् इति च प्राणहरं विष्ठादिकाद्युत्पादाद् अप्य् नायुष्यं च, **अस्वर्ग्यं** च [अ]दृष्टार्थजनकत्वेनापि शास्त्रनोदनासामर्थ्यात् अतिक्रमेण कर्मान्तरार्जितस्वर्गोपभोगप्रतिबन्धत्वात् । **अपुण्यं** च तद्धेतुत्वात्, **लोकविद्विष्टं** च बहुभोजिनम् अवलोक्य गर्हणं तत् परिवर्जयेद् इति सम्भूतदोषकथनेन प्रकृति[त]निन्दार्थवादो विद्वेषणर्थः ॥ २.५७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-057	Excessive eating is prejudicial to health, to fame, and to (bliss in) heaven; it prevents (the acquisition of) spiritual merit, and is odious among men; one ought, for these reasons, to avoid it carefully.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 भूर्न्ना(?) प्रतिषेधे सत्य् अशनस्य निन्दार्थवादेन गुरुत्वं प्रतीयते । **अनारोग्य**कारणत्वाद् अत्यशनम् **[५८]** **अनायुष्यम् अस्वर्ग्यं** **चापुण्य**तया । कथम् । पुण्यतानियमातिक्रमाच् छौचादिष्व् असामर्थाच् चास्य नियमत्यागेन । एवं चात्यशनसहोपदिष्टानाम् अपि प्रतिषेध्यानां निन्दार्थवादः उत्प्रेक्ष्यो ऽतिदर्शनार्थत्वाद् अस्य । इदानीं ब्रह्मचारिणां वर्णाश्रयस् तीर्थोपदेशः क्रियते ऽर्थप्राप्तेर् निवृत्त्यर्थे ।
@@ -4437,6 +4437,11 @@ See Comparative notes for [Verse 2.56].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/058_brAhmeNa_vipras.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+058	Let a Brahmana always sip water out of the part of the hand (tirtha) sacred to Brahman, or out of that sacred to Ka (Pragapati), or out of (that) sacred to the gods, never out of that sacred to the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Every time, the Brāhmana should sip water, either though the receptacle dedicated to Brahmā, or through that dedicated to Prajāpati, or through that dedicated to the ‘Thrice-ten’ (Gods); but never through that dedicated to the Pitṛs.—(58)
@@ -4559,11 +4564,6 @@ between the palm and the little index: on the top of the finger tips, the *Daiva
 **ब्राह्मणेति** । **ब्राह्मेण तीर्थेन** प्राजापत्यदैवाभ्यां **वा विप्रो **यावज्जीतम् **उपस्पृशेत् । पित्र्येण** पुनः कदाचिद् इति नित्यानुवादः इतरस्तुत्यर्थः । अविधानाद् एव पित्र्यस्याप्रप्तेः विप्रग्रहणं क्षत्रियादिप्रदर्शनार्थम्, “उपस्पृश्य द्विजो नित्यम्” इति एतयोर् अपि प्रकृतत्वात्॥ २.५८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-058	Let a Brahmana always sip water out of the part of the hand (tirtha) sacred to Brahman, or out of that sacred to Ka (Pragapati), or out of (that) sacred to the gods, never out of that sacred to the manes.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **ब्राह्मेणेति** विशिष्टदेवतासम्बन्धेन तीर्थस्तुतिः । परोपनार्थान् इति (?) प्रग्र(प्रकर)नाच् च तस्यैवायं तीर्थनियमात् नित्यग्रहणेन तद्वत् क्षत्रियवैश्ययोर् अपि कल्पो ऽनुमीयते । अपरे ऽपि पर्करणाद् द्विजातिप्रदर्शनार्थं वर्णयन्ति । नित्यग्रहणं च नर्णधर्मार्थः कार्यः प्राजापत्यः । त्रैदशिकं दैवम् । ब्रह्माभाववैकल्पिके चैते विज्ञेये । पित्र्यप्रतिषेधो नित्यानुवादस् तेषां लक्षणम् ।
@@ -4589,6 +4589,11 @@ between the palm and the little index: on the top of the finger tips, the *Daiva
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/059_anguShThamUlasya_tale.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+059	They call (the part) at the root of the thumb the tirtha sacred to Brahman, that at the root of the (little) finger (the tirtha) sacred to Ka (Pragapati), (that) at the tips (of the fingers, the tirtha) sacred to the gods, and that below (between the index and the thumb, the tirtha) sacred to the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The part of the palm at the root of the thumb they call ‘the receptacle dedicated to Brahmā’; that which is at the root of the finger ‘Sacred to Prajāpati’; that on the finger-tops ‘dedicated to the Gods’; and that which is below these two ‘dedicated to the Pitṛs.’—(59)
@@ -4675,11 +4680,6 @@ See Comparative notes for [Verse 2.58].
 अर्थसिद्धत्वाल् लक्षणम् आह – **अङ्गुष्ठमूलस्येति **। “ब्राह्मणस्य दक्षिणहस्ते पञ्चतीर्थानि भवन्ति” इति प्रचेतसः स्मरणात् । दक्षिणहस्ताङ्गुष्ठमूलस्याधोभागे **ब्राह्मं तीर्थं प्रचक्षते । कायम् **अङ्गुलीनां** मूले । अग्रे दैवम्, **अङ्गुलीनाम् एवाग्रशब्दस्य साकाङ्क्षत्वात् । **पित्र्यं तयोर् अधः । **अधस्तयोर् इत्य् अस्यापि साकाङ्क्षत्वात् प्रकृतेनाङ्गुष्ठाङ्गुलिना सम्बन्धः॥ २.५९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-059	They call (the part) at the root of the thumb the tirtha sacred to Brahman, that at the root of the (little) finger (the tirtha) sacred to Ka (Pragapati), (that) at the tips (of the fingers, the tirtha) sacred to the gods, and that below (between the index and the thumb, the tirtha) sacred to the manes.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 आचमनार्थं तीर्थलक्षणोपदेशो ऽयम् । एवं चानेन निमित्ते सति ।
@@ -4705,6 +4705,11 @@ See Comparative notes for [Verse 2.58].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/060_trir_AchAmed.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+060	Let him first sip water thrice; next twice wipe his mouth; and, lastly, touch with water the cavities (of the head), (the seat of) the soul and the head.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 First of all he should sip water thrice; then he should wipe his mouth twice, and touch with water the cavities, the soul and also the head.—(60)
@@ -4790,11 +4795,6 @@ should touch the holes with water in its natural condition.’
 आचमनस्यालौकिकत्वात् स्वरूपम् आह **त्रिर्** इति । प्रथमं त्रीन् वारान् अपः तीर्थेनाचामेत् । ततः आस्यं द्वौ वारौ अपि शोधयेत् । तद् अनु च **खानि** इन्द्रियच्छिद्राणि **अद्भिः स्पृशेत् **। ततः आत्मस्थानं हृदयम्, अथो **शिर** इति ॥ २.६० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-060	Let him first sip water thrice; next twice wipe his mouth; and, lastly, touch with water the cavities (of the head), (the seat of) the soul and the head.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 आचमनविध्यर्थः श्लोकः । आत्मग्रहणसिद्ध्या (?) हृदयार्थस् तर्ह्य् आत्मोपचारो ब्राह्मणवादेषु तद्गुणसिद्ध्यर्थं त्व् इदम् उपदिश्यते ।
@@ -4812,6 +4812,11 @@ should touch the holes with water in its natural condition.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/061_anuShNAbhir_aphenAbhir.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+061	He who knows the sacred law and seeks purity shall always perform the rite of sipping with water neither hot nor frothy, with the (prescribed) tirtha, in a lonely place, and turning to the east or to the north.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who knows his duties, when desiring cleanliness, should always sip, through the proper receptacle, water which is neither hot nor frothy,—in solitude, with his face towards the North or the East.—(61)
@@ -4935,11 +4940,6 @@ the wise men may be purified by even such water as has not been looked into; as 
 **अनुष्णाभिर्** इति । “अशृताभिः” इति शङ्खस्मरणात् अग्निसम्पर्करहिताभिः, फेनशून्याभिः **अद्भिः** उक्तेन **तीर्थेन **विद्वान् शुद्धिकामः **एकान्ते **शुचौ देशे **प्राङ्मुखः उदङ्मुखो **वा **आचामेत् **॥ २.६१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-061	He who knows the sacred law and seeks purity shall always perform the rite of sipping with water neither hot nor frothy, with the (prescribed) tirtha, in a lonely place, and turning to the east or to the north.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अनुष्णाभिर्** उष्णा नेत्य् अनुष्णा (?) अक्वथिताः उच्यन्ते नादित्यतप्ताः स्वभावोष्णवातपोदादिषु (?) स्मृत्यन्तरतः । "तच् चेद् अमिश्रिताभिर् अनुष्णाभिर् (?) अफेनाभिः" इति शङ्खलिखिताव् ऊचतुः । उपदेशसामर्थाच् चैवम् उपपद्यते । अन्यथाभिसरत्खीष्वयोस् (?) तपोदादिषु (?) चायम् असमर्थः । प्रतिषेधः स्याद् अर्थि (?) **तीर्थेनेत्य्** एतयोर् अनुवादो गणार्थः । **शौचेप्सुर्** आत्मसंस्कारे संस्कारेप्सुर् एवं च नोपस्पर्शनाद् धर्म इत्य् उक्तं भवति । किं तर्हि । आत्मसंस्कारमात्रम् अदृष्टं यथान्येषु । क्रियागणेष्व् आज्यादिषु संस्कृतात्मनस्तुति (?) क्रियान्तरानुष्ठानाद् धर्मो ऽवश्यभावी तत्सामर्थ्यात् **सर्वदेति** वर्णधर्म **आचामेद्** इत्य् अयं पूर्वविध्यनुवादो गुणविधिसम्बन्धे यथा "दध्ना जुहोति, पयसा जुहोति" इत्य् एकान्तग्रहणं (?) शुचिदेशसम्परिग्रहार्थम् । **प्रागुदङ्मुख** इति विकल्पार्थम् । त्रिर् आचमेद् इत्य् अप **[५९]** इत्य् एतस्माद् अपि शेषगास् तादाचमनोदकम् (?) अविकल्पतः ? प्रमाणादीनां शुद्धिहेतुं प्राप्तम् इष्यते । एतत् प्रमाणं भेदेन तेषां शुद्धिहेतुः । तच् चान्तरेण शुद्धिशास्त्रं सिध्यति । एवम् अर्थम् इदम् आरभ्यते ।
@@ -4970,6 +4970,11 @@ _उक्तम् आचमनं तीर्थेनापां भक्�
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/062_hRdgAbhiH_pUyate.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+062	A Brahmana is purified by water that reaches his heart, a Kshatriya by water reaching his throat, a Vaisya by water taken into his mouth, (and) a Sudra by water touched with the extremity (of his lips).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa is purified by the water reaching the heart; the Kṣatriya by that reaching the throat; the Vaiśya by water that is just sipped, and the Śūdra by what is touched with the end.—(62)
@@ -5061,11 +5066,6 @@ teeth*.’
 किम्प्रमाणा आपः आचामेद् इत्य् आह **हृद्गाभिर्** इति । हृदयप्राप्ताभिर् अद्भिर् **विप्रः **शुध्यति । कण्ठप्राप्ताभिः **क्षत्रियः, वैश्यः प्राशिताभिः **तालुगताभिः, “हृत्कण्ठतालुगाभिः” इति याज्ञवल्क्यस्मरणात् । **शुद्रो ऽन्ततः,** आचमनस्य प्रकृतत्वात् जिह्वौष्ठास्यान्ते स्पृष्टाभिः॥ २.६२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-062	A Brahmana is purified by water that reaches his heart, a Kshatriya by water reaching his throat, a Vaisya by water taken into his mouth, (and) a Sudra by water touched with the extremity (of his lips).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **हृदयादीनाम्** अवधित्वेन निर्देशः आचमनोदकस्य परिमाणोपलक्षणार्थः । एवं चाप्राप्ताव् उदकस्य दोषान् आबध्यते (?) क्रमेण सामर्थाद् द्रष्टव्यः । **शूद्र(ः) स्पृष्टाभिर् अन्तत** इति न हस्तेन । केन तर्हि । जिह्वोष्ठेन । यस्मात् तेनैव ब्राह्मणादीनाम् आचमनोदकस्यान्तर्हृदयादिप्रवेशोक्तिसामर्थ्यात् स्वहस्तेनैवं (?) च **स्पृष्टाभिर् अन्तत** इति । वचनात् तस्यापि प्राशनम् अनुमीयते । वर्णविभागेन विहितलक्षणानां द्विजातिसामान्यो ऽयं सन्निवेशैर् अनुक्तो यतस् तदर्थम् इदम् आरभते (?) ।
@@ -5091,6 +5091,11 @@ teeth*.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/063_uddhRte_daxiNe.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+063	A twice-born man is called upavitin when his right arm is raised (and the sacrificial string or the dress, passed under it, rests on the left shoulder); (when his) left (arm) is raised (and the string, or the dress, passed under it, rests on the right shoulder, he is called) prakinavitin; and nivitin when it hangs down (straight) from the neck.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the right hand is held above (the sacred thread etc.), the twice-born person is described as ‘Upavītin’; when the left hand is held above, ‘Prāchīnāvītin,’ and on its hanging by the neck, ‘Nivītin.’—(63)
@@ -5169,11 +5174,6 @@ over the head, resting the thread on the left shoulder, hanging down the right a
 उपवीत्यादीनाम् अप्रसिद्धत्वात् लक्षणम् आह आचमनावसरे च उपवीतस्याचमनाङ्गत्वार्थम् **उद्धृत** इति । कार्पासम् उपवीतं स्याद् उक्तलक्षणम् । उपवीते **कण्ठसज्जने** कण्ठप्रक्षिप्ते सति **निवीती भवति **। एवं स्थिते सति **उद्धृते दक्षिणे **बाहौ **उपवीती** भवति । वाम उद्धृते** प्राचीनावीती**त्य् एवं लक्षण्द्वयप्रसिद्ध्यर्थम् इह । एवं निवीतलक्षणं मनुष्यकार्यार्थं च “निवीतं मनुष्याणाम्” इति श्रुतेः । प्राचीनावीतीति सञ्ज्ञा । वृत्तानुरोधात् तु **प्राचीन आवीती**त्य् उक्तम् । एतच् च पित्र्ये कर्मणि ॥ २.६३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-063	A twice-born man is called upavitin when his right arm is raised (and the sacrificial string or the dress, passed under it, rests on the left shoulder); (when his) left (arm) is raised (and the string, or the dress, passed under it, rests on the right shoulder, he is called) prakinavitin; and nivitin when it hangs down (straight) from the neck.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 निवीतस्य प्रासङ्गिको ऽनुवादः इतरसन्निवेशद्वयोपलक्षणार्थः । कथं कण्ठासक्तसूत्रस्य मध्येन्**ओद्धृते** **दक्षिणे पाणौ** पाणिग्रहणं बाहूपलक्षणार्थम् उपवीतनामा तत्सन्निवेशो भवति । सो ऽस्यास्तीत्य् **उपवीती** । यदा सूत्रम् उपवीतशब्देनोच्यते न सन्निवेशः "उपवीतं कमण्डलुम्" (म्ध् २.६४) इत्य् अत्र, तदानेन न्यायेनाकारो मत्वर्थीयो (?) ऽत्र मतुब्लोपात् साहचर्याद् वा । गुणस् ताच्छाब्दन्तता तवञ्चो(?)पवीतसन्निवेशवद् उपवीतं गुणतः सूत्रमात्रम् उच्यते । तद् एव यज्ञशेषत्वे सति शब्दान्तरं लभ्यते । यज्ञार्थम् उपवीतं यज्ञोपवीतम् । दैवे कर्मण्य् एते । तेन च प्राचीनावीती व्याख्यातः । पितृकर्मणि निवीती चाभिचार इति मेखलादीनां धारणम् उपदिष्टम् । एवं च विनष्टानाम् अपि ते ऽप्य् अप्राप्तं(?) न चेष्यते यतस् तत्प्रतिषेधायेदम् आरभ्यते, तत्प्रतिप(त्?)तिनियमार्थं च ।
@@ -5191,6 +5191,11 @@ over the head, resting the thread on the left shoulder, hanging down the right a
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/064_mekhalAm_ajinam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+064	His girdle, the skin (which serves as his upper garment), his staff, his sacrificial thread, (and) his water-pot he must throw into water, when they have been damaged, and take others, reciting sacred formulas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the girdle, the skin, the staff, the sacred thread or the water-pot becomes damaged, he should throw it into the water and take up another with the proper formulas.—(64)
@@ -5270,11 +5275,6 @@ broken, the Brāhmaṇa should bathe and then wear a new one.’
 **मेखलाम्** इति । **विनष्टानि** मेखलादीनि **अप्सु** प्रक्षिप्य्**आन्यानि **समन्त्रकाणि गृह्णीयात् तानि । तथा च बौधायनेन सर्वेषां मन्त्र आम्नातः मेखलादिभिश् च शास्त्रवद्ग्रहणैः सह प्रतिपत्तिनियमात् “गृह्णीतान्यानि मन्त्रवत्” इति च कमण्डलोर् अप्य् उक्तत्वात् कमण्डलोर् अप्य् उदकार्थं शास्त्रवद्ग्रहणम् इत्य् अवसीयते । पुनर्ग्रहणाच् चोपनयनोत्तरकालम् अप्य् एषाम् अनुवृत्तिर् अनुमीयते नोपनयनगतैव ॥ २.६४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-064	His girdle, the skin (which serves as his upper garment), his staff, his sacrificial thread, (and) his water-pot he must throw into water, when they have been damaged, and take others, reciting sacred formulas.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **मन्त्रवद्** ग्रहणम् एषां यथासम्भवं वक्ष्ये यत् तयोर् (?) एव ग्रहणे मन्त्रजात्मानः गृह्येनाजिनोपवीतयोः सत्य् अपि वा विशेषाभिधाने (?) मेखलादीनां सान्वय एव विनाश एतद् उपदिश्यते । निरन्वयविनाशे ऽर्थलोपाद् उभयो ये देशानर्थक्यं मेखलाजिनदण्डोपवीतैश् च शास्त्रवत् ग्रहणैः सह प्रतिपत्तिनियमोपदेशात् कमण्डलोर् ग्रहणधारणविनियोगाद् अपि शास्त्रत एव विज्ञेया । नार्थतो विशेषहेत्वभावात् तथा च व्यासस्मरणम् । **** उन्च्लेअर् सेच्तिओन्
@@ -5294,6 +5294,11 @@ broken, the Brāhmaṇa should bathe and then wear a new one.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/065_keshAntaH_ShoDashe.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+065	(The ceremony called) Kesanta (clipping the hair) is ordained for a Brahmana in the sixteenth year (from conception); for a Kshatriya, in the twenty-second; and for a Vaisya, two (years) later than that.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The sacrament of Keśānta is ordained for the Brāhmaṇa in his sixteenth year; for the Kṣatriya in his twenty-second year, and for the Vaiśya two years later.—(65)
@@ -5350,11 +5355,6 @@ the *keśānta*.’
 **केशान्त** इति । केशान्ताख्यः संस्कारः ब्राह्मणादीनां यथाक्रमं षोडशद्वाविंशचतुर्विंशेषु वर्षेषु विधीयते ॥ २.६५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-065	(The ceremony called) Kesanta (clipping the hair) is ordained for a Brahmana in the sixteenth year (from conception); for a Kshatriya, in the twenty-second; and for a Vaisya, two (years) later than that.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **केशान्तो** नाम स्मार्तस् तस्य संस्कारश् चूडाकरणादीषद् भेदो गृह्यकारैर् उपदिष्टः स चास्मिन् काल एकवेदब्रह्मचारिणो व्रतस्नातस्य युज्यते । यावद् ग्रहणं ब्रह्मचारिणश् च मेधाविन एवान्येषां न चैतच् छक्यते वक्तुम् इतरेषाम् अयं नास्तीति नित्यत्वात् संस्कारान्तो ऽनेन न्याये नैतेषाम् अपि ब्रह्मचारिणां केशान्तः समावृत्त्यनन्तरम् अवश्यं भावी प्रकल्प्यकालो विज्ञेय इति । येषां तु नास्त्य् एवायम्, (?) तेषां स्मृत्यन्तरविरोध इत्य् एते चत्वारिंशत् संस्कारा इति । "प्राङ् नाभिवर्धनात् पुंसः" (म्ध् २.२९) इत्य् एतत् पुङ्ग्रहणं स्त्रीनपुंसकनिवृत्त्यर्थम् उक्तम् । एवं च जातकर्मादिभिः संस्कारैः स्त्रीणाम् अनधिकारे प्रप्त इदं तदधिकारार्थम् आरभ्यते ।}
@@ -5376,6 +5376,11 @@ the *keśānta*.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/066_amantrikA_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+066	This whole series (of ceremonies) must be performed for females (also), in order to sanctify the body, at the proper time and in the proper order, but without (the recitation of) sacred texts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For females, this whole series should be performed at the right time and in the proper order, for the purpose of sanctifying the body; but without the Vedic formulas—(66)
@@ -5460,11 +5465,6 @@ Jātakarma and ending with Tonsure are to be done for women, without mantras; bu
 “प्राङ्नाभिवर्धनात् पुंसः” इति पुङ्ग्रहणस्य स्त्र्यर्थत्वे प्रमाणाभावात् स्त्रीणाम् अप्राप्त इत्य् अत आह **अमन्त्रिकेति ।** एषा सकलसंस्कारपद्धतिः कालक्रमानतिक्रमेण **स्त्रीणां संस्कारार्थं **मन्त्रवर्जिता **कार्या **॥ २.६६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-066	This whole series (of ceremonies) must be performed for females (also), in order to sanctify the body, at the proper time and in the proper order, but without (the recitation of) sacred texts.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 य एवं जातकर्मादीनां पुरुषस्य कालक्रमत्वाद् एष एव स्त्रीणाम् अपि द्रष्टव्यो मन्त्रहीनः । एवं चैतद् दर्शितं भवति । न समस्ते एव मन्त्रकर्मणी संस्कारसमर्थे । किं तर्हि । उपदेशसामर्थाद् आवृन्मात्रम् अपि (?) स्त्रीविषयम् (?) अमन्त्रकम् इति । नपुंसकस्य त्व् अनधिकार एव । "**अमन्त्रिका तु कार्येयं स्त्रीणाम् आवृद् अशेतषतः**" इति वचनाज् जातकर्मादिवत् ऊनवयसाम् (?) अमन्त्रकं प्राप्तं यतस् तत् प्रतिषिध्यते ।
@@ -5497,6 +5497,11 @@ _पूर्वेणावृद्वचनेन जातकर्माद
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/067_vaivAhiko_vidhiH.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+067	The nuptial ceremony is stated to be the Vedic sacrament for women (and to be equal to the initiation), serving the husband (equivalent to) the residence in (the house of the) teacher, and the household duties (the same) as the (daily) worship of the sacred fire.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For females the Rites of marriage have been ordained to be their ‘Vedic Sacrament,’ the serving of the husbands their ‘residence with the Teacher,’ and the household-duties their ‘tending of fire.’—(67)
@@ -5567,11 +5572,6 @@ also there was Upanayana, also the teaching of the Veda and the pronouncing of t
 <details><summary>गोविन्दराजः</summary>
 
 एवम् उपनयने ऽप्य् अमन्त्रके प्राप्ते आह **वैवाहिक** इति । यद् विवाहविधानं तद् एवासां वैदिकसंस्कारः उपनयनस्थाने । **पतिसेवा** च गुरुशुश्रूषास्थाने, **गृहकृत्यं **चाग्निपरिचरणस्थाने ॥ २.६८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-067	The nuptial ceremony is stated to be the Vedic sacrament for women (and to be equal to the initiation), serving the husband (equivalent to) the residence in (the house of the) teacher, and the household duties (the same) as the (daily) worship of the sacred fire.
 </details>
 
 <details><summary>भारुचिः</summary>

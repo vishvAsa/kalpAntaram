@@ -12,6 +12,11 @@ title = "२९ उपसंहारः"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/259_eShoditA_gRhasthasya.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+259	Thus have been declared the means by which a Brahmana householder must always subsist, and the summary of the ordinances for a Snataka, which cause an increase of holiness and are praiseworthy.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has been described the eternal course of life of the Brāhmaṇa-Householder, as also the series of observances for the Accomplished Student, which is conducive to the increase of the quality of goodness, and is praiseworthy.—(259)
@@ -45,11 +50,6 @@ The addition of the term, ‘*Brāhmaṇa*,’ indicates that the observances la
 **एषेति** । एषा ऋतादिका जीविका नित्या अनित्याया आपदि विधानात् **गृहस्थस्य **ब्राह्मणस्योक्ता । तथा **स्नातकव्रत**विधिश् च **सत्त्वा**ख्यगुण**वृद्धिकरः** प्रशस्तस्यैवोक्तः ॥ ४.२५९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-259	Thus have been declared the means by which a Brahmana householder must always subsist, and the summary of the ordinances for a Snataka, which cause an increase of holiness and are praiseworthy.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विप्रग्रहणाच् च वृत्तिवत् स्नातकधर्मो ऽपि तस्यैव स्याद् विशेषेण वा तस्य । न तथा क्षत्रियवैश्ययोः ।
@@ -67,6 +67,11 @@ The addition of the term, ‘*Brāhmaṇa*,’ indicates that the observances la
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/260_anena_vipro.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+260	A Brahmana who, being learned in the lore of the Vedas, conducts himself in this manner and daily destroys his sins, will be exalted in Brahman's world.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa, learned in the Vedic soriptures, who conducts himself by this course of life, has his sins removed, and remains for ever exalted in the region of Brahman.—(260)
@@ -137,11 +142,6 @@ the night and the twilights offers prayers, becomes purified by Brahman and beco
 मन्वाशयसारिण्यां टीकायां गार्हस्थसदाचारश्   
 चतुर्थो ऽध्यायः  
 पञ्चमो ऽध्यायः
-</details>
-
-<details><summary>Bühler</summary>
-
-260	A Brahmana who, being learned in the lore of the Vedas, conducts himself in this manner and daily destroys his sins, will be exalted in Brahman's world.
 </details>
 
 <details><summary>भारुचिः</summary>

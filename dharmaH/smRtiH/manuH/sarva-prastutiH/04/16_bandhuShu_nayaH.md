@@ -12,6 +12,11 @@ title = "१६ बन्धुषु नयः"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/178_yenA-sya_pitaro.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+178	Let him walk in that path of holy men which his fathers and his grandfathers followed; while he walks in that, he will not suffer harm.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall tread the path of the righteous by the same way in which his fathers and grandfathers have trodden; going by that way, he shall not suffer.—(178)
@@ -71,11 +76,6 @@ its ways; all we do is that we follow the footsteps of our forefathers.’
 द्विधावाक्यार्थप्रतिभाने वैकल्पिकपदार्थेषु वा य एव पितृपितामहादिभिः तस्यानुसृतो मार्गः यद् एव तैर् अनुष्ठितं तेनैव (तम् एव) साधुमार्गम् अनुसरेत् तद् एवाचरेत्, तद् आचरन् धर्मेण न हिंस्यते ॥ ४.१७८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-178	Let him walk in that path of holy men which his fathers and his grandfathers followed; while he walks in that, he will not suffer harm.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **सतां मार्गम्** इति लिङ्गात् सन्तो वेदस्मृतिशास्त्रविदः पितृपितामहा उच्यन्ते । तैर् यज्ञाचार आचरितस् तम् अनुतिष्ठेत् । कथम् । यद्य् अपि स्वधर्मप्रतिपत्तये स्वयं विवेचनायाम् असमर्थस् तथापि तैर् आचरित इत् कृत्वा तद्भक्त्यापि तावत् प्रतिपद्यते । उपदेशम् अन्तरेण पूर्वप्रयोगानुशिष्ट इत्य् अपरेण द्वारेण सद्धर्मप्रतिपत्तिकारणम् उच्यते ।
@@ -93,6 +93,11 @@ its ways; all we do is that we follow the footsteps of our forefathers.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/179_Rtvik-purohitAchAryair_mAtulAtithi-saMshritaiH.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+179	With an officiating or a domestic priest, with a teacher, with a maternal uncle, a guest and a dependant, with infants, aged and sick men, with learned men, with his paternal relatives, connexions by marriage and maternal relatives,
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 (अग्रे व्याख्यानम्।)
@@ -101,11 +106,6 @@ its ways; all we do is that we follow the footsteps of our forefathers.’
 <details><summary>गोविन्दराजः</summary>
 
 **ऋत्विग्** इति । **मातापितृभ्याम्** इति । ऋत्विगादिभिः सह वाक्कलहं न कुर्यात् । **पुरोहितः** शान्त्यादिकर्ता । **संश्रिता उपजीविनः । आतुरो **रोगी । **ज्ञातयः **पितृपक्षसम्बन्धिनः वैवाह्याः **बान्धवाः** मातृपक्षा जामिभगिनीस्नुषाद्याः । **दासवर्गो **दासगणः ॥ ४.१७९–१८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-179	With an officiating or a domestic priest, with a teacher, with a maternal uncle, a guest and a dependant, with infants, aged and sick men, with learned men, with his paternal relatives, connexions by marriage and maternal relatives,
 </details>
 </details>
 </div>
@@ -120,6 +120,11 @@ its ways; all we do is that we follow the footsteps of our forefathers.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/180_mAtA-pitRbhyA~n_jAmIbhir.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+180	With his father and his mother, with female relatives, with a brother, with his son and his wife, with his daughter and with his slaves, let him not have quarrels.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not have a quarrel with the officiating priest, the priest, or his Teacher, or with his maternal uncle, or his guests or dependants, with children, or with old or sick persons, or with doctors, with his paternal relations or marriage relations, with his parents, or female relations, or brother or son, or wife, or daughter, or with his slaves.—(179-180).
@@ -174,11 +179,6 @@ quarrels with his mother, father, brother, female relations, relations by marria
 
 ऋत्विगादिभिर्वाक्कलहं न कुर्यात् । शान्त्यादिकर्ता पुरोहितः । संश्रिता अनुजीविनः । ज्ञातयः पितृपक्षाः । सम्बन्धिनो जामातृश्यालकादयः । बान्धवा मातृपक्षाः ।जामयो भगिनीस्नुषाद्या॥१७९॥१८०॥
 </details>
-
-<details><summary>Bühler</summary>
-
-180	With his father and his mother, with female relatives, with a brother, with his son and his wife, with his daughter and with his slaves, let him not have quarrels.
-</details>
 </details>
 </div>
 
@@ -192,6 +192,11 @@ quarrels with his mother, father, brother, female relations, relations by marria
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/181_etair_vivAdAn.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+181	If he avoids quarrels with these persons, he will be freed from all sins, and by suppressing (all) such (quarrels) a householder conquers all the following worlds.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having renounced quarrel with these, the householder becomes freed from all sins; and, by ignoring them, he wins all these worlds.—(181)
@@ -234,11 +239,6 @@ See Comparative notes for [Verse 4.179].
 **एतैर् **इति । एभिः सह **विवादान्** परित्यज्यासौ अतिकृतप्रतनुभिः (?) **सर्वपापैः प्रमुच्यते **। तथैतैर् विवादैः न्यक्कृतैः **इमान् **वक्ष्यमानान्** सर्वान् लोकान् **गृहस्थः स्वीकरोति ॥ ४.१८१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-181	If he avoids quarrels with these persons, he will be freed from all sins, and by suppressing (all) such (quarrels) a householder conquers all the following worlds.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यतस् तत इमे उच्यते ।
@@ -256,6 +256,11 @@ See Comparative notes for [Verse 4.179].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/182_AchAryo_brahmalokeshaH.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+182	The teacher is the lord of the world of Brahman, the father has power over the world of the Lord of created beings (Pragapati), a guest rules over the world of Indra, and the priests over the world of the gods.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The teacher is the lord of the world of Brahmā; the Father is sovereign of the world of Prajāpati; the Guest is the master of the world of Indra; and the Priests are the lords of the world of gods.—(182)
@@ -298,11 +303,6 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574), as setting forth
 
 **आचार्य** इति । यत आचार्यादयो दृष्ट्या शक्त्या ब्रह्मप्रजापतीन्द्रदेवलोकानां प्रभवः अतः परिहृततद्विवादस्य गृहस्थस्यैतान् लोकान् वदन्ति । तद्विवादपरित्यागेन ब्रह्मलोकादि प्राप्यत इत्य् एतद् अनया भङ्ग्या उक्तम् एव (एवं) उत्तरत्रापि विज्ञेयम् ॥ ४.१८२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-182	The teacher is the lord of the world of Brahman, the father has power over the world of the Lord of created beings (Pragapati), a guest rules over the world of Indra, and the priests over the world of the gods.
-</details>
 </details>
 </div>
 
@@ -316,6 +316,11 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574), as setting forth
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/183_jAmayo.apsarasAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+183	The female relatives (have power) over the world of the Apsarases, the maternal relatives over that of the Visve Devas, the connexions by marriage over that of the waters, the mother and the maternal uncle over the earth.
+</details>
+
 <details><summary>कुल्लूकः</summary>
 
 अप्सरसां लोके जामयः प्रभवन्ति, वैश्वदेवलोके बान्धवाः, वरुणलोके सम्बन्धिनः, भूर्लोके मातृमातुलौ ॥१८३॥
@@ -324,11 +329,6 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574), as setting forth
 <details><summary>गोविन्दराजः</summary>
 
 **जामय** इति । **जामयो ऽप्सरसां लोके **प्रभवन्ति **बान्धवा वैश्वदेवलोके, मातृमाउलौ **भूलोके ॥ ४.१८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-183	The female relatives (have power) over the world of the Apsarases, the maternal relatives over that of the Visve Devas, the connexions by marriage over that of the waters, the mother and the maternal uncle over the earth.
 </details>
 </details>
 </div>
@@ -343,6 +343,11 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574), as setting forth
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/184_AkAsheshAs_tu.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+184	Infants, aged, poor and sick men must be considered as rulers of the middle sphere, the eldest brother as equal to one's father, one's wife and one's son as one's own body,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Female relatives (have power) over the region of the Heavenly nymphs; maternal relations, over that of the Viśvedevas; marriage-relations, over the region of the Waters; the mother and maternal uncle, over the Earth; the children, the aged, the emaciated and the sick should be regarded as the lords of Ākāśa; the elder brother is equal to the Father; the wife and the son are one’s own body.—(183-184).
@@ -388,11 +393,6 @@ See Comparative notes for [Verse 4.182].
 
 **आकाशेशा **इति । **बालवृद्ध**संश्रित्**आतुराः **अन्तरिक्षलोके प्रभवन्ति । **ज्येष्ठो भ्राता **पितृतुल्यः । अतो ऽसाव् अपि प्रजापतिलोके प्रभुः । **भार्यापुत्रौ **“अर्धो ह वा एष आत्मनः यज् जाया आत्मा वैपुत्रनामासि” (कौशुप् २.५१) इति श्रुतेः स्वम् एव शरीरम् अतः आत्मना सह कथं विवदेत् ॥ ४.१८४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-184	Infants, aged, poor and sick men must be considered as rulers of the middle sphere, the eldest brother as equal to one's father, one's wife and one's son as one's own body,
-</details>
 </details>
 </div>
 
@@ -406,6 +406,11 @@ See Comparative notes for [Verse 4.182].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/185_ChAyA_svo.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+185	One's slaves as one's shadow, one's daughter as the highest object of tenderness; hence if one is offended by (any one of) these, one must bear it without resentment.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Slaves are one’s own shadow; the daughter is the highest object of tenderness. For these reasons, when offended by these, he shall always bear it without heat.—(185)
@@ -456,11 +461,6 @@ See Comparative notes for [Verse 4.182].
 <details><summary>गोविन्दराजः</summary>
 
 **छायेति । स्वो दासवर्गः **नीचैर् गामित्वात् आत्मछायेव । अतो नासौ विवादास्पदम्, **दुहिता** च **कृपणं** कृपापात्रम् अत **एतैर् **आक्रुष्टो ऽसम्तप्तः सर्वदा क्षमेत् ॥ ४.१८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-185	One's slaves as one's shadow, one's daughter as the highest object of tenderness; hence if one is offended by (any one of) these, one must bear it without resentment.
 </details>
 
 <details><summary>भारुचिः</summary>

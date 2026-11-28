@@ -12,6 +12,12 @@ title = "०९ दान-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/198_tapas_taptvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having performed austerity, Brahmā created Brahmins for the preservation of the Veda,  
+for the satisfaction of ancestors and gods, and for the protection of duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तपस् तप्त्वा ऽसृजद् ब्रह्मा  
@@ -66,6 +72,12 @@ _<u>ननु</u> इयं कतिपयद्रव्याश्रित�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/199_sarvasya_prabhavo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Brahmins devoted to learning the revealed scripture are the source of all;  
+higher than them are those dedicated to rites; and higher even than them are those who know the supreme Self best.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वस्य प्रभवो विप्राः  
@@ -135,6 +147,12 @@ _<u>ननु</u> एवम् अपि ज्ञातैव ब्राह�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/200_na_vidyayA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Fitness [to receive gifts] does not come through learning alone, nor even through austerity;  
+where there is both of these alongside conduct, that indeed is proclaimed a fit recipient.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न विद्यया केवलया  
@@ -311,6 +329,12 @@ _कस्माच् चैवम् उत्तरोत्तरश्र�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/201_gobhUtilahiraNyAdi_pAtre.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Cows, land, sesame seeds, gold, and the like should be given to a worthy recipient after honouring [him];  
+nothing should be given to an unworthy recipient by a wise person desiring his own welfare.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गो-भू-तिल-हिरण्यादि  
@@ -617,6 +641,12 @@ _यस्माच् चैवंरूपो ब्राह्मणः प�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/202_vidyAtapobhyAM_hInena.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A gift should not be accepted by one devoid of learning and austerity;  
+by accepting it, he drags the giver downwards and himself as well.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विद्या-तपोभ्यां हीनेन  
@@ -676,6 +706,12 @@ _यस्मात् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/203_dAtavyam_pratyaham.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A gift should be given daily to a worthy recipient, especially on [auspicious] occasions;  
+it should be given according to one's ability, purified by faith, even to one who asks.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दातव्यं प्रत्यहं पात्रे  
@@ -850,6 +886,12 @@ _यस्माच् चैवैं, तस्मात् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/204_hemashRngI_shaphai.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A milch-cow having horns of gold, hooves of silver, of good disposition, draped with cloth,  
+accompanied by a bell-metal vessel and a sacrificial fee, should be given.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हेम-शृङ्गी शफै रौप्यैः  
@@ -975,6 +1017,12 @@ _गवादीनां देयत्वम् उक्तम् । तत
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/205_dAtA.asyAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The giver of this [cow] attains heaven for as many years as there are hairs [on her];  
+if she is a tawny cow, she delivers her family even up to the seventh generation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दाता ऽस्याः स्वर्गम् आप्नोति  
@@ -1085,6 +1133,12 @@ _न चायं नित्यदानप्रकार एव । कि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/206_savatsAromatulyAni_yugAny.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Giving a cow facing both ways according to the aforesaid rule,  
+her giver attains heaven for as many ages as there are hairs on her and the calf.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सवत्सा-रोम-तुल्यानि  
@@ -1139,6 +1193,12 @@ _अकपिला वा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/207_yAvad_vatsasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+As long as the two feet and the face of the calf are seen in the womb,  
+so long is the cow to be recognized as the earth, until she releases the embryo.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यावद् वत्सस्य पादौ द्वौ  
@@ -1273,6 +1333,12 @@ _का पुनर् उभयतोमुखी कथं तावत् �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/208_yathAkathanchid_dattvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having given a cow in any manner whatsoever, whether a milch-cow or not a milch-cow,  
+provided she is free from disease and not distressed, the giver is magnified in heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा-कथञ्चिद् दत्त्वा गां  
@@ -3403,6 +3469,12 @@ _एवं तावद् उक्तः प्रकारः । तद् �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/209_shrAntasaMvAhanaM_rogi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Massaging the weary, attendance on the sick, worship of the gods,  
+washing the feet [of guests], and clearing the food-remnants of twice-born men are equal to the gift of a cow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रान्त-संवाहनं रोगि-  
@@ -3491,6 +3563,12 @@ _यस्य तु गोमात्रम् अपि नास्ति �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/210_bhUdIpAMsh_chAnnavastrAmbhas.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having given land, lamps, food, clothing, water, sesame, clarified butter, shelters,  
+marriage expenses, gold, and a draft-ox, one is magnified in heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भू-दीपांश् चान्न-वस्त्राम्भस्-  
@@ -4042,6 +4120,12 @@ _यथासम्भवम् एव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/211_gRhadhAnyAbhayopAnach_ChatramAlyAnulepanam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having given a house, grain, safety, shoes, an umbrella, garlands, ointment,  
+a conveyance, a tree, a desirable object, or a bed, one will become exceedingly happy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृह-धान्याभयोपानच्-  
@@ -4432,6 +4516,12 @@ _वित्तानुसाराद् एव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/212_sarvadharmamayam_brahma.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because the Veda comprises all duties and is superior to gifts,  
+one who imparts it completely attains the imperishable world of Brahmā.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्व-धर्म-मयं ब्रह्म  
@@ -5091,6 +5181,12 @@ _एवं तावद् विभववतः सर्वसाधारण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/213_pratigrahasamartho.api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who, though capable of accepting gifts, does not take a gift,  
+attains those abundant worlds belonging to those of generous nature.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिग्रह-समर्थो ऽपि  
@@ -5149,6 +5245,12 @@ _एवं च सति ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/214_kushAH_shAkam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Kuśa grass, vegetables, milk, fish, perfumes, flowers, curd, land,  
+meat, a bed, a seat, roasted grains, and water must not be refused.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कुशाः शाकं पयो मत्स्या  
@@ -5244,6 +5346,12 @@ _निवृत्तेनापि च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/215_ayAchitAhRta~N_grAhyam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is brought unasked should be accepted, even from an evildoer,  
+except from an unchaste woman, a eunuch, outcastes, and an enemy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अयाचिताहृतं ग्राह्यम्  
@@ -5312,6 +5420,12 @@ _एवं तावच् छाकाद्यप्रणोद्यम् �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/09_dAna-prakaraNam/216_devAtithiarchanakRte_gurubhRtyArtham.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For the sake of worshipping gods and guests, or for a guru and servants,  
+or for the sake of one's own livelihood, one may accept [gifts] from anyone.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवातिथि-अर्चन-कृते  

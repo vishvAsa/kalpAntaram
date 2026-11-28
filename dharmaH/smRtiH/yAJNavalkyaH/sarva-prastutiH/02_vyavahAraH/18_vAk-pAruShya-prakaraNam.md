@@ -69,6 +69,12 @@ title = "१८ वाक्-पारुष्य-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/204_satyAsatyAnyathAstotrair_nyUnAngendriyarogiNAm83.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If someone reviles those with missing limbs or sense-organs, or the diseased,  
+through true, false, or ironic praise, he is to be fined twelve and a half paṇas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सत्यासत्यान्यथा-स्तोत्रैर्  
@@ -148,6 +154,12 @@ _प्रायेण द्यूतप्रभवत्वाद् वा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/205_abhigantA.asmi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To one who swears, 'I will have intercourse with your sister or your mother,'  
+the king should assign a fine of twenty-five [paṇas].
+</details>
+
 <details><summary>मूलम्</summary>
 
 अभिगन्ता ऽस्मि भगिनीं  
@@ -202,6 +214,12 @@ _राजावेदन एव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/206_ardho.adharmeShu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The fine is halved in unrighteous actions, and doubled in cases involving other men's wives and social superiors;  
+the levying of fines is to be carried out according to the superior and inferior order of social class and caste.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अर्धो ऽधर्मेषु द्वि-गुणः  
@@ -269,6 +287,12 @@ _गुणवर्णवैषम्ये पुनः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/207_prAtilomyApavAdeShu_dviguNatriguNA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In insults against the grain of social classes, fines are doubled and tripled;  
+with the grain of social classes, [they are reduced] from that by successive halves.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रातिलोम्यापवादेषु  
@@ -365,6 +389,12 @@ _एतद् एवोदाहरणेन स्पष्टयति ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/208_bAhugrIvAnetrasakthi_vinAshe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In a verbal threat to destroy an arm, neck, eye, or thigh, the fine  
+is truthful [full]; half that in the case of a foot, nose, ear, hand, and the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बाहु-ग्रीवा-नेत्र-सक्थि-  
@@ -417,6 +447,12 @@ _वधप्रतिज्ञया  तु वाक्पारुष्य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/209_ashaktas_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One incapable [of harm] who speaks thus should be fined ten paṇas;  
+likewise, one who is capable must be made to furnish a surety for the other's safety.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अशक्तस् तु वदन्न् एवं  
@@ -473,6 +509,12 @@ _प्रागुक्तं शक्तसंबन्धितया ब�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/210_patanIyakRte_xepe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In an insult involving an offence causing loss of caste, the fine is the middling heinous offence [fine];  
+but in one connected with a secondary sin, he should be made to pay the first heinous offence [fine].
+</details>
+
 <details><summary>मूलम्</summary>
 
 पतनीय-कृते क्षेपे  
@@ -525,6 +567,12 @@ _ब्रह्महा गोघ्नो वा त्वम् इत्य
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/211_traividyanRpadevAnAM_xepa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+An insult to those learned in the three Vedas, the king, or deities is the highest heinous offence [fine];  
+the middling for castes and guilds; the first for a village or a country.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रैविद्य-नृप-देवानां  

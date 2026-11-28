@@ -12,6 +12,11 @@ title = "१२ विषयकीर्तनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/110_evam_AchArato.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+110	The sages who saw that the sacred law is thus grounded on the rule of conduct, have taken good conduct to be the most excellent root of all austerity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having thus seen that virtue is got at from Right Behaviour, the sages regarded Right Behaviour as the very root of all Austerity.—(110)
@@ -52,11 +57,6 @@ results.—‘*Having seen that virtue is got at*,’—acquired—‘*from Righ
 **एवम्** इति । **एवम् आचारद् धर्मस्य **प्राप्तिम् ऋषयो बुद्ध्या कृच्छ्रचान्द्रायणादेस् तपसः सफलात् **परं **प्रकृष्टं मूलकारणं तस्मिन् सति तपसः साफल्याद् **आचारम्** अनुष्ठेयत्वेन गृहीतवन्त इति । एवम् इहाचारास्तुतिः शास्त्रस्तुत्यर्था । उत्तरत्र तु आचारानुष्ठानार्थम् ॥ १.११० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-110	The sages who saw that the sacred law is thus grounded on the rule of conduct, have taken good conduct to be the most excellent root of all austerity.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उत्तरत्राचारस्तुतिस् तद्विध्यनुष्ठान् (?) प्ररोचनार्था । इह तु शास्त्रस्तुत्यर्थत्वेन उक्तानुवादः प्रकरणसामर्थाद् विज्ञेयम्(यः) । एवम् इमां ब्राह्मणस्तुतिद्वारेण व्यवहितां शास्त्रस्तुतिम् उक्त्वा साक्षाच् चेदानीम् अनुक्रमणीस् तत्स्तु(त्य)र्थम् एवारभते —
@@ -74,6 +74,11 @@ results.—‘*Having seen that virtue is got at*,’—acquired—‘*from Righ
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/111_jagatash_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+111	The creation of the universe, the rule of the sacraments, the ordinances of studentship, and the respectful behaviour (towards Gurus), the most excellent rule of bathing (on return from the teacher's house),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The coming into existence of the world,—the rule relating to the sacramental Rites,—the method of keeping observances,—as also the excellent rules bearing upon the Final Ablution.—(111).
@@ -103,11 +108,6 @@ The ‘Virtues’ expounded in the Treatise are here specified in detail. With a
 
 इदानीं शास्त्रस्य महावृत्तान्तोपेतत्वप्रदर्शनार्थम् अनुक्रमणीम् आह – **जगत** इति ॥ १.१११ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-111	The creation of the universe, the rule of the sacraments, the ordinances of studentship, and the respectful behaviour (towards Gurus), the most excellent rule of bathing (on return from the teacher's house),
-</details>
 </details>
 </div>
 
@@ -121,6 +121,11 @@ The ‘Virtues’ expounded in the Treatise are here specified in detail. With a
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/112_dArAdhigamana~n_chaiva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+112	(The law of) marriage and the description of the (various) marriage-rites, the regulations for the great sacrifices and the eternal rule of the funeral sacrifices,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The taking of wife,—the definition of the several forms of Marriage,—the method of the Great Sacrifices,—the eternal regulations relating to the offering to Pitṛs. — (112)
@@ -149,11 +154,6 @@ All this forms the subject-matter of discourse III.—(112)
 
 **दाराधिगमनम्** इति ॥ १.११२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-112	(The law of) marriage and the description of the (various) marriage-rites, the regulations for the great sacrifices and the eternal rule of the funeral sacrifices,
-</details>
 </details>
 </div>
 
@@ -167,6 +167,11 @@ All this forms the subject-matter of discourse III.—(112)
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/113_vRttInAM_laxaNam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+113	The description of the modes of (gaining) subsistence and the duties of a Snataka, (the rules regarding) lawful and forbidden food, the purification of men and of things,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The description of the means of livelihood,—the observances of the initiated Householder,—lawful and forbidden food,—Purification,—the cleansing of things.—(113)
@@ -191,11 +196,6 @@ The description of the means of livelihood,—the observances of the initiated H
 
 **वृत्तीनाम् **इति ॥ १.११३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-113	The description of the modes of (gaining) subsistence and the duties of a Snataka, (the rules regarding) lawful and forbidden food, the purification of men and of things,
-</details>
 </details>
 </div>
 
@@ -209,6 +209,11 @@ The description of the means of livelihood,—the observances of the initiated H
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/114_strIdharma-yogan_tApasyam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+114	The laws concerning women, (the law) of hermits, (the manner of gaining) final emancipation and (of) renouncing the world, the whole duty of a king and the manner of deciding lawsuits,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The conditions of Women,—the Duties of the Recluse,—Final Release,—Renunciation,—the entire duty of the King,—and the decision of law-suits.—(114)
@@ -233,11 +238,6 @@ The conditions of Women,—the Duties of the Recluse,—Final Release,—Renunci
 
 **स्त्रीधर्मयोगम्** इति ॥ १.११४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-114	The laws concerning women, (the law) of hermits, (the manner of gaining) final emancipation and (of) renouncing the world, the whole duty of a king and the manner of deciding lawsuits,
-</details>
 </details>
 </div>
 
@@ -251,6 +251,11 @@ The conditions of Women,—the Duties of the Recluse,—Final Release,—Renunci
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/115_sAxiprashna-vidhAna~n_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+115	The rules for the examination of witnesses, the laws concerning husband and wife, the law of (inheritance and) division, (the law concerning) gambling and the removal of (men nocuous like) thorns,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Rules regarding the examination of witnesses,—the Duties of Husband and wife,—Law relating to the Division of Property,—Gambling,—the exterminating of bad characters.—(115)
@@ -276,11 +281,6 @@ The Rules regarding the examination of witnesses,—the Duties of Husband and wi
 
 **साक्षिप्रश्नविधानम्** इति ॥ १.११५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-115	The rules for the examination of witnesses, the laws concerning husband and wife, the law of (inheritance and) division, (the law concerning) gambling and the removal of (men nocuous like) thorns,
-</details>
 </details>
 </div>
 
@@ -294,6 +294,11 @@ The Rules regarding the examination of witnesses,—the Duties of Husband and wi
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/116_vaishya-shUdropachAra~n_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+116	(The law concerning) the behaviour of Vaisyas and Sudras, the origin of the mixed castes, the law for all castes in times of distress and the law of penances,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The duty of the Vaiśya and the Śūdra,—the birth of the mixed castes—the duties of all castes during times of distress—the method of expiation.—(116)
@@ -356,11 +361,6 @@ their respective duties. All this is dealt with in Discourse IX.
 
 **वैश्यशूद्रोपचारम् **इति ॥ १.११६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-116	(The law concerning) the behaviour of Vaisyas and Sudras, the origin of the mixed castes, the law for all castes in times of distress and the law of penances,
-</details>
 </details>
 </div>
 
@@ -374,6 +374,11 @@ their respective duties. All this is dealt with in Discourse IX.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/117_saMsAragamana~n_chaiva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+117	The threefold course of transmigrations, the result of (good or bad) actions, (the manner of attaining) supreme bliss and the examination of the good and bad qualities of actions,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The threefold transmigration of the Soul, arising from actions,—the highest good,—and the examination of the good and bad features of actions.—(117)
@@ -407,11 +412,6 @@ See 12. 51 *et seq*.
 
 **संसारगमनम्** इति ॥ १.११७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-117	The threefold course of transmigrations, the result of (good or bad) actions, (the manner of attaining) supreme bliss and the examination of the good and bad qualities of actions,
-</details>
 </details>
 </div>
 
@@ -425,6 +425,11 @@ See 12. 51 *et seq*.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/118_deshadharmA~n_jAtidharmAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+118	The primeval laws of countries, of castes (gati), of families, and the rules concerning heretics and companies (of traders and the like)- (all that) Manu has declared in these Institutes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The eternal laws op countries, duties op castes and laws of dynasties,—also the laws relating to heretics and to guilds,—all this manu has expounded in these Institutes.—(118)
@@ -480,11 +485,6 @@ One fails to see the logic of the argument that, because the first lecture conta
 **देशधर्मान्** इति । जगतुत्पत्तिर् यथोक्ता । ब्रह्मणः स्तुत्यादेश् च शास्त्रधर्मस्तुत्यर्थत्वेनैकार्थत्वाद् अत्रैवान्तर्भावः । [१.१११फ़्] **सङ्काराणां** जातकर्मादीनां **विधिर् **अनुष्ठानम् । **व्रतचर्या **व्रतचरणं व्रतं ब्रह्मचारिणः । **उपचारो **गुर्वादीनाम् अभिवादनाद्यनुवृत्तिः । **व्रतचर्योपचारम्** इति द्वन्द्वैकवद्भावः । **स्नानं** गुरुकुलान् निवर्तमानस्य संस्कारविशेषः तस्य **परो विधिः** प्रकृष्टं विधानम् । **दाराधिगमनं **विवाहः । **विवाहादीनां **ब्राह्मादीनां च लक्षणम् । **महायज्ञाश् च **वैश्वदेवादयः । **श्राद्धकल्पः** श्राद्धविधिः । **शाश्वतः **अनादिप्रवाहप्रवृत्त्या नित्यः वृत्तीनां जीवनोपायानाम् **ऋतादीनां लक्षणम्** । **स्नातकस्य **गृहस्थस्य **व्रतानि **। **भक्ष्यं** दध्यादि **अभक्ष्यं **लशुनादि । **शौचं** जननादौ दशाहादिना । **द्रव्याणां **तैजसादीनां क्षारादिना **शुद्धिः **। **स्त्रिया धर्मयोगो** धर्मानुष्ठानम् । **तापस्यं** तापसस्य वानप्रस्थस्य कर्म । भिक्षोः संसारहेतुत्वान् **मोक्षः सन्न्यासश् च **भिक्षुधर्मप्रकार एव । **राज्ञो** ऽभिषिक्तस्य **धर्मः कार्याणां** व्यवहाराणाम् अर्थिप्रत्यर्थिसमर्पितानां निश्चयः । **साक्षिप्रश्नविधानं च । स्त्रीपुंसयोः **दम्पत्योः** धर्मः** परस्परवर्तनम् । पैतृकऋक्थ**विभागधर्मः** । द्यूतम् अक्षादिः तद्व्यवस्था **कण्टकानां **चौरादीनां **शोधनम् **उद्धरणं **वैश्यशूद्रयोर् उपचारो **वार्ता शुश्रूषाद्यनुष्ठानम् । **सङ्कीर्णानाम्** अनुलोमप्रतिलोमानाम् उत्पत्तिः । आपदि जीविकोपदेशः **आपद्धर्मः** । विहिताकरणादिना **प्रायश्चित्तानुष्ठानम् **। उत्तममध्यमाधमभेदेन त्रिविधकर्महेतुना **संसारोत्पत्तिः **। यस्मात् परम् अन्यच् छ्रेयो नास्ति **तन् निःश्रेयसम्** आत्मज्ञानं नैश्रेयसहेतुत्वात् । **कर्मणां च **विहितप्रतिषिद्धानां **गुणदोषपरीक्षणम्** । प्रतिनियतदेशजातिकुलाश्रिता **धर्माः **बाह्यदर्शनसमाश्रयेण लिङ्गधारणं** पाखण्डम् **। वणिक्कार्वादीनां गणः सङ्घः ॥ १.१११–११८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-118	The primeval laws of countries, of castes (gati), of families, and the rules concerning heretics and companies (of traders and the like)- (all that) Manu has declared in these Institutes.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **जगतश् च** समुत्पत्तिम् इत्य् अत आरभ्यानुक्रमणीश् श्लोकाः । शास्त्रसामर्थ्यप्रदर्शनार्थम् । कथम् एवम् इदं बहुवृत्तान्तत्वाद् अध्येतव्यम् इत्य् अथ वा प्रदर्शितशाआस्त्रात्मनः श्रोतुः **[३३] **पूर्वं सङ्क्षेपाभिधानेनानुक्रमण्याख्येन पश्चाद् विस्तराभिधानाद् असम्मोहेन प्रतिपत्तिर् यथा स्यात् स च पुरुषार्थ इति । अतस् तदर्थम् एवास्य सङ्क्षेपविस्तराभ्याम् उपदेशो युक्तः । तथा च व्यासश्लोकः ।
@@ -505,6 +505,11 @@ One fails to see the logic of the argument that, because the first lecture conta
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/119_yathedam_uktavA~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+119	As Manu, in reply to my questions, formerly promulgated these Institutes, even so learn ye also the (whole work) from me.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 You also learn from me to-day, these teachings,—just as they were, in the past promulgated by Manu, on being questioned by me.—(119)
@@ -550,11 +555,6 @@ In the *Bhāṣya* by Bhatta Medhātithi.
 **इति श्रीभट्टमाधवात्मजगोविन्दराजविरचितायां मन्वाशयानसारिण्यां  
 प्रथमो ऽध्यायः समाप्तः   
 अथ द्वितीयो ऽध्यायः
-</details>
-
-<details><summary>Bühler</summary>
-
-119	As Manu, in reply to my questions, formerly promulgated these Institutes, even so learn ye also the (whole work) from me.
 </details>
 
 <details><summary>भारुचिः</summary>

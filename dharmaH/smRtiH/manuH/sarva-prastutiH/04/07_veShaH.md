@@ -12,6 +12,11 @@ title = "०७ वेषः"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/034_na_sIdet.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+034	A Snataka who is able (to procure food) shall never waste himself with hunger, nor shall he wear old or dirty clothes, if he possesses property.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Accomplished Brāhmaṇa shall not, if he can, suffer from hunger; nor shall he wear torn or dirty clothes, so long as he has any property.—(34).
@@ -62,11 +67,6 @@ nor with a woman in her courses.’
 **नेति** । स्नातको ब्राह्मणो विद्वत्त्वात् प्रतिग्रहसमर्थो राजादिधनसम्भवे सति क्षुधावसादं न कदाचिद् गच्छेत् । न च सम्भवे जीर्णमलिनवसनः स्यात् ॥ ४.३४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-034	A Snataka who is able (to procure food) shall never waste himself with hunger, nor shall he wear old or dirty clothes, if he possesses property.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अनेनात्मादीनां (?) क्षुदवसादः प्रतिषिद्धो न पूर्वेण यस् तत्प्रतिकारार्थम् इमाम् अवस्थाम् आपन्नस्य स्नातकस्यापद्धर्मान् वक्ष्यति ।
@@ -84,6 +84,11 @@ nor with a woman in her courses.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/035_kLLiptakesha-nakha-shmashrur_dAntaH.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+035	Keeping his hair, nails, and beard clipped, subduing his passions by austerities, wearing white garments and (keeping himself) pure, he shall be always engaged in studying the Veda and (such acts as are) conducive to his welfare.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Keeping his hair, nails and beard clipped, subdued, wearing white clothes, pure,—he shall always remain engaged in Vedic study, also in what may be conducive to his welfare.—(35)
@@ -138,11 +143,6 @@ colouring; also what is naturally black. He shall wear only such cloth as may no
 **कृतकेशनखश्मश्रुर्** इति । लूनकेशनखश्मश्रुः शमवान् शुक्लवासाः बाह्याभ्यन्तरशौचोपेतः वेदाभ्यासशीलः औषधोपयोगादिरतः स्यात् ॥ ४.३५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-035	Keeping his hair, nails, and beard clipped, subduing his passions by austerities, wearing white garments and (keeping himself) pure, he shall be always engaged in studying the Veda and (such acts as are) conducive to his welfare.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **नखश्मश्रु**प्रभृतीनां कल्पनेन शुचिस्नानाद् एवं च नाकस्मात् श्मश्रुप्रभृतीनि धारयेद् अशुद्धित्वात् तद्धारणस्य लिङ्गोपदेशो वायम् । तथा चेदम् अपरलिङ्गधारणम् आह स्नातकस्य ।
@@ -160,6 +160,11 @@ colouring; also what is naturally black. He shall wear only such cloth as may no
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/036_vaiNavIn_dhArayed.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+036	He shall carry a staff of bamboo, a pot full of water, a sacred string, a bundle of Kusa grass, and (wear) two bright golden ear-rings.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall hold a stick of bamboo, and also a water-pot full of water, the sacred thread, a handful of kuśa-grass and a pair of bright golden ear-rings.—(36).
@@ -280,11 +285,6 @@ water, wearing unworn clothes,...he shall apply collyrium to the eyes; then he w
 <details><summary>गोविन्दराजः</summary>
 
 **वैणवीम्** इति । वेणुदण्डम् उदक्सहितं **कमण्डलुं यज्ञोपवीतं **दर्भमुष्टिं रुचिरसौवर्णकुण्डले धारयेत् । यज्ञोपवीतकमण्डल्वोः “अग्नीन्धनं भैक्षचर्यां” (२.१०८) इत्य् अनेन च गृहस्थादीनाम् अनुवृत्तिसिद्धौ स्नातकव्रतार्थं पुनर्ग्रहणम् । एवम् अन्येषाम् अपि “न चोच्छिष्टः क्वचिद् व्रजेत्” इत्येवमादीनां पुनर्ग्रहणं विज्ञेयम् ॥ ४.३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-036	He shall carry a staff of bamboo, a pot full of water, a sacred string, a bundle of Kusa grass, and (wear) two bright golden ear-rings.
 </details>
 
 <details><summary>भारुचिः</summary>

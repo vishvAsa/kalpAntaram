@@ -12,6 +12,12 @@ title = "०४ उपनिधि-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/04_upanidhi-prakaraNam/065_vAsanastham_anAkhyAya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When property placed in a container is handed over into the custody of another without being described,  
+that is an aupanidhika deposit; it must be returned just as it was.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वासनस्थम् अनाख्याय  
@@ -109,6 +115,12 @@ _आध्यनन्तरं विश्वासार्पितत्व
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/04_upanidhi-prakaraNam/066_na_dApyo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He shall not be made to pay if it is carried off by the king, an act of God, or thieves.  
+If loss occurs after it has been demanded and not given, he must be made to pay, and a fine equal to it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न दाप्यो ऽपहृतं तं तु  
@@ -197,6 +209,12 @@ _यत् तु द्रव्यम् उपनिहितम् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/04_upanidhi-prakaraNam/067_AjIvan_svechChayA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he lives off it by his own will, he must be fined and made to pay it back with interest.  
+This rule applies to borrowed articles, re-entrusted goods, trusts, open deposits, and the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आजीवन् स्वेच्छया दण्ड्यो  

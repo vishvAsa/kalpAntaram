@@ -68,6 +68,12 @@ title = "०५ साक्षि-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/068_tapasvino_dAnashIlAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Ascetics, generous men, those of noble birth, truth-tellers,  
+those devoted to duty, upright, having sons, and endowed with wealth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तपस्विनो दान-शीलाः  
@@ -246,6 +252,12 @@ _सर्वत्र चर्णादानादौ व्यक्ति�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/069_tryavarAH_sAxiNo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+at least three, dedicated to rites of revealed scripture and traditional law, should be known as witnesses;  
+according to caste and social class, or all [may serve] for all.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्र्य्-अवराः साक्षिणो ज्ञेयाः  
@@ -266,6 +278,12 @@ _सर्वत्र चर्णादानादौ व्यक्ति�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/070_strIbAlavRddhakitava_mattonmattAbhishastakAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Women, minors, the aged, gamblers, intoxicated persons, the insane, the accused,  
+actors, heretics, forgers, those with defective senses,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्त्री-बाल-वृद्ध-कितव-  
@@ -416,6 +434,12 @@ _उक्तन्यायविरोधे तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/071_patitAptArthasambandhi_sahAyariputaskarAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+outcastes, intimate friends, interested parties, companions, enemies, thieves,  
+violent men, those of proven guilt, and those cast out—these are not witnesses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पतिताप्तार्थ-सम्बन्धि-  
@@ -436,6 +460,12 @@ _उक्तन्यायविरोधे तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/072_ubhayAnumataH_sAxI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Even a single person, knowing duty, may be a witness if agreed to by both parties.  
+Anyone may be a witness in adultery, theft, verbal and physical assault, and heinous offences.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उभयानुमतः साक्षी  
@@ -616,6 +646,12 @@ _देशकालाद्यपेक्षया पुनः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/073_sAxiNaH_shrAvayed.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should cause the witnesses, standing near the plaintiff and defendant, to hear:  
+'Whatever worlds belong to sinners and to those who commit great sins,
+</details>
+
 <details><summary>मूलम्</summary>
 
 साक्षिणः श्रावयेद् वादि-  
@@ -848,6 +884,12 @@ _कूटसाक्षिणो मिथ्यावादिनः । त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/074_agnidAnA~n_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+and whatever worlds belong to incendiaries and to the slayers of women and children,  
+all those he attains who gives false testimony.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्नि-दानां च ये लोका  
@@ -868,6 +910,12 @@ _कूटसाक्षिणो मिथ्यावादिनः । त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/075_sukRtaM_yat.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever merit has been earned by you over hundreds of other lifetimes,  
+know that all that belongs to him whom you falsely cause to be defeated.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 सुकृतं यत् त्वया किञ्चिज्  
@@ -898,6 +946,12 @@ _एवं श्रावयित्वा तत्स्वरूपाप�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/076_abruvan_hi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A man who does not give testimony should be made by the king  
+to pay the entire debt together with a tenth part on the forty-sixth day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अब्रुवन् हि नरः साक्ष्यम्  
@@ -970,6 +1024,12 @@ _<u>ननु</u> एवम् अपि सङ्कटे साक्ष्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/077_na_dadAti.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The lowest of men who does not give testimony even though knowing [the truth]  
+is equal in sin to false witnesses, and [equal] in fine as well.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न ददाति हि यः साक्ष्यं  
@@ -1047,6 +1107,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/078_dvaidhe_bahUnAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In case of a conflict, the word of the majority [prevails]; among equals, that of the virtuous;  
+and in a conflict among the virtuous, the statement of those who are most virtuous is to be accepted.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वैधे बहूनां वचनं  
@@ -1116,6 +1182,12 @@ _एवम् उक्ते यथानुभवं वदताम् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/079_yasyochuH_sAxiNaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He whose claim the witnesses declare to be true shall be the winner;  
+for that litigant whose [claim] is otherwise, defeat is certain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्योचुः साक्षिणः सत्यां  
@@ -1197,6 +1269,12 @@ _एवं च परीक्षितवचनाः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/080_ukte.api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Even after testimony has been given by witnesses, if other, more virtuous [witnesses],  
+or twice as many, state otherwise, the former witnesses are false.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उक्ते ऽपि साक्षिभिः साक्ष्ये  
@@ -1336,6 +1414,12 @@ _साक्षिवचनप्रामान्यभेदहेतुम�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/081_pRthak_pRthag.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+False witnesses and the suborner of perjury should be fined separately,  
+a fine double the dispute; a Brahmin is declared to be banished.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृथक् पृथग् दण्डनीयाः  
@@ -1457,6 +1541,12 @@ _एवं च कौटसाक्ष्ये साक्षिणां व
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/082_yaH_sAxyaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who, having been made to hear testimony, conceals it from others, enveloped in darkness,  
+shall be made to pay an eightfold fine; but a Brahmin he should banish.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यः साक्ष्यं श्रावितो ऽन्येभ्यो  
@@ -1523,6 +1613,12 @@ _उत्तरसाक्षी तु प्रवत्स्यता म�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/05_sAxi-prakaraNam/083_varNinAM_hi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Where the execution of members of any class is involved, there a witness may speak an untruth.  
+For purification from that, an oblation to Sarasvatī must be offered by twice-born men.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वर्णिनां हि वधो यत्र  

@@ -12,6 +12,11 @@ title = "०७ सृष्टिचक्रम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/074_tasya_so.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+074	At the end of that day and night he who was asleep, awakes and, after awaking, creates mind, which is both real and unreal.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the end of the said ‘Day and Night,’ Brahmā, who was asleep, wakes up, and ha vino woken up, he creates mind, which partakes op the nature op the existent and the non-existent.—(74)
@@ -69,11 +74,6 @@ Of the second half of the verse, two explanations have been mentioned by Medhāt
 **तस्येति** । **स** ब्रह्मा **तस्या**होरात्रस्यान्ते **सुप्तः **सन् **प्रतिबुध्यते** । ततो मन आत्मीयं सृजति । लोकपिण्डसृष्ट्यर्थं नियुङ्क्ते । न तूत्पदयति । अस्मिन् अन्तरालप्रलयापगमे, तस्य महाप्रलयान्तरम् उत्पन्नत्वात् । तथा च “मनः सिसृक्षया युक्तः सर्गाय निदधे पुनः” इति पुराणे उक्तम् ॥ १.७४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-074	At the end of that day and night he who was asleep, awakes and, after awaking, creates mind, which is both real and unreal.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अन्तरालप्रलयानन्तरं प्रतिबुद्धस्य हिरण्यगर्भस्यायं पिण्डसृष्ट्यर्थो निर्देशः । अथ वा महाप्रलयकालपरिसमाप्त्यनन्तरं परमात्मनः । तथा च वक्ष्यति- "इत्य् एषां सृष्टिर् आदितः" (१.७८) इति ।
@@ -102,6 +102,11 @@ Of the second half of the verse, two explanations have been mentioned by Medhāt
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/075_manaH_sRShTim.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+075	Mind, impelled by (Brahman's) desire to create, performs the work of creation by modifying itself, thence ether is produced; they declare that sound is the quality of the latter.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘Mind’ impelled by (Brahmā’s) desire to create, evolves creation;—from out of that (Mind) is produced Ākāśa; of this they know sound to be the quality.—(75)
@@ -147,11 +152,6 @@ about creation in a particular manner;—from out of the ‘Mind’ (*i.e*., the
 
 **मन** इति । तन् **मनः** प्रजापतिसम्बन्धि तदैव स्रष्टुम् इच्छया प्रेर्यमाणं **सृष्टिं कुरुते** ॥ १.७५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-075	Mind, impelled by (Brahman's) desire to create, performs the work of creation by modifying itself, thence ether is produced; they declare that sound is the quality of the latter.
-</details>
 </details>
 </div>
 
@@ -165,6 +165,11 @@ about creation in a particular manner;—from out of the ‘Mind’ (*i.e*., the
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/076_AkAshAt_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+076	But from ether, modifying itself, springs the pure, powerful wind, the vehicle of all perfumes; that is held to possess the quality of touch.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After Ākāśa, from out of the same evolvent [‘Mind’], there comes into existence the pure and potent Wind, the vehicle of all odours; and it is held to be endowed with the quality of Touch.—(76)
@@ -212,11 +217,6 @@ See Comparative notes for [Verse 1.75 (Ākāśa produced out of ‘Mind’)].
 
 **आकाशात् त्व्** इति । **आकाशात् **स्व(स)विकारजननोन्मुखीभूतात् **वायुः **सुरभ्यसुरभि**गन्धवहः शुचिः** पवित्रो **बलवांश् **च **जायते । स** च **स्पर्शगुण**युक्तः ऋषीणां **मतः** ॥ १.७६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-076	But from ether, modifying itself, springs the pure, powerful wind, the vehicle of all perfumes; that is held to possess the quality of touch.
-</details>
 </details>
 </div>
 
@@ -230,6 +230,11 @@ See Comparative notes for [Verse 1.75 (Ākāśa produced out of ‘Mind’)].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/077_vAyor_api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+077	Next from wind modifying itself, proceeds the brilliant light, which illuminates and dispels darkness; that is declared to possess the quality of colour;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After wind, from out of the same Evolvent, emanates the bright and radiant light, the dispeller of darkness; it is said to be endowed with the quality of colour.—(77)
@@ -259,11 +264,6 @@ See Comparative notes for [Verse 1.75 (Ākāśa produced out of ‘Mind’)].
 
 **वायोर्** इति । **वायोः **पूर्ववत् तेजः **विरोचिष्णु **परप्रकाशकं तमोनाशनं **भास्वत् **प्रकाशकम् उत्पद्यते । तच् च स्वरूपाख्यगुणयुक्तं कथ्यते ॥ १.७७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-077	Next from wind modifying itself, proceeds the brilliant light, which illuminates and dispels darkness; that is declared to possess the quality of colour;
-</details>
 </details>
 </div>
 
@@ -277,6 +277,11 @@ See Comparative notes for [Verse 1.75 (Ākāśa produced out of ‘Mind’)].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/078_jyotiShash_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+078	And from light, modifying itself, (is produced) water, possessing the quality of taste, from water earth which has the quality of smell; such is the creation in the beginning.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After light, from out of the same Evolvent, emanates water, which has been declared to be endowed with the quality of taste. and after water, comes earth, endowed with the quality of odour.—Such is creation at the outset.—(78)
@@ -336,11 +341,6 @@ See Comparative notes for [Verse 1.75 (Ākāśa produced out of ‘Mind’)].
 **ज्योतिष** इति । तेजसः पूर्ववत् । **आपः **रसाख्यगुणयुक्ता जायन्त इति **स्मृताः **मन्वादिभिः । **अद्भ्यश् **च गन्धाख्यगुणयुक्ता **भूमिर्** जायते । इत्य् एषा अन्तरालप्रलयानन्तरं प्रथमतः **सृष्टिः** ॥ १.७८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-078	And from light, modifying itself, (is produced) water, possessing the quality of taste, from water earth which has the quality of smell; such is the creation in the beginning.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एभिः श्लोकैर् इमां महाभूतसृष्टिं सामान्यत उक्त्वा विशेषतो व्याचष्टे । एकप्रकरणार्थं च त्वन्यन् (?)महदादि तत् सर्वं पुनस् तथैवोत्पद्यत इति द्रष्टव्यम् एवमाद्यं न त्व् असृष्टिप्रक्रियाशेषम् अभिधायेदं प्रक्रिय्[आ]म् अधिकृत्योच्यते ।
@@ -358,6 +358,11 @@ See Comparative notes for [Verse 1.75 (Ākāśa produced out of ‘Mind’)].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/079_yad_prAg.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+079	The before-mentioned age of the gods, (or) twelve thousand (of their years), being multiplied by seventy-one, (constitutes what) is here named the period of a Manu (Manvantara).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘Time-cycle of the Gods’ which has been described above as consisting of ‘twelve thousand periods,’—this multiplied by ‘seventy-one’ forms what is known here as ‘Manvantara’ (Regime of a Manu).—(79)
@@ -383,11 +388,6 @@ The period of time named ‘*manvantara*’ consists of seventy-one ‘Time-cycl
 **यद्** इति । **यद्** एतत्च् चतुर्**युगं** द्वापरपरिमाणं दैवयुगम् उक्तं **तद्** **एकसप्ततिगुणं** मन्वन्तराख्यः कालः **इह** शास्त्रे **उच्यते** । एतावान् कालः एकस्य सतोः सर्गाद्यधिकारः ॥ १.७९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-079	The before-mentioned age of the gods, (or) twelve thousand (of their years), being multiplied by seventy-one, (constitutes what) is here named the period of a Manu (Manvantara).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 मन्वन्त्रकालपरिणामावधारणार्थः श्लोकः । एवम्,
@@ -405,6 +405,11 @@ The period of time named ‘*manvantara*’ consists of seventy-one ‘Time-cycl
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/080_manvantarANy_asankhyAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+080	The Manvantaras, the creations and destructions (of the world, are) numberless; sporting, as it were, Brahman repeats this again and again.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Innumerable Manvantaras, as also Creation and Dissolution—all this the supreme lord calls into being again and again, as if in amusement—(80).
@@ -452,11 +457,6 @@ It is in view of this fact that the author has added the qualifying term ‘*as 
 <details><summary>गोविन्दराजः</summary>
 
 यद्य् अपि पुराणे चतुर्दश मन्वन्तराणि सङ्ख्यायन्ते तथापि आवृत्त्या असङ्ख्यानि यदा भवन्ति तदा सृष्टिसंहारौ भवतः । **एतच् **च सृष्टिसंहाराख्यं वस्तु परमे अनावृत्तिलक्षणे स्थाने स्थितत्वात् **परमेष्ठी **प्रजापतिः **क्रीडन्न् इवैतत् पुनः पुनः कुरुते** । न केवलं तदिच्छैवात्र कारणं यावत् प्राणिकर्माण्य् अपीत्य् अतः **एव**शब्दः ॥ १.८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-080	The Manvantaras, the creations and destructions (of the world, are) numberless; sporting, as it were, Brahman repeats this again and again.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -1487,11 +1487,7 @@ Karatoyā (r. flowing through the districts of Rangpur, Dinajpur and Bogra in Be
 
 Kāravatī (a place fit for śrāddha) Br. III. 13.92
 
-Karavīra—A (modern Kolhapur) M. 13.41 ((Karavīre Mahālakṣmīḥ)=P. V. 17.205, M. 22.76, Anu 25.44, P. VI. 108.3 ; E. I. vol. III p. 207, 210, a grant of Śilāditya Vyayāditya of śake 1065 mentions Kṣullakapura which appears to be meant for Kolha- pura. It occurs as Kollāpura in Miraj plates of Jayasiṃha II (a Cālukya) in 1024 A. D. (E. I. vol. XII p. 303, 306). Vide I. A. vol. 29 p. 280 for the spelling of the name ; B (capital of Brahmāvarta on [[Drsa
-
-dvati)|Dṛṣa-
-
-dvatī)]] Kālikāpurāṇa 49.71, NM 147 ; [[CC|C]] (city in Sahya near Gomanta hill) Harivaṃśa (Viṣṇuparva) 39. 50-64
+Karavīra—A (modern Kolhapur) M. 13.41 ((Karavīre Mahālakṣmīḥ)=P. V. 17.205, M. 22.76, Anu 25.44, P. VI. 108.3 ; E. I. vol. III p. 207, 210, a grant of Śilāditya Vyayāditya of śake 1065 mentions Kṣullakapura which appears to be meant for Kolha- pura. It occurs as Kollāpura in Miraj plates of Jayasiṃha II (a Cālukya) in 1024 A. D. (E. I. vol. XII p. 303, 306). Vide I. A. vol. 29 p. 280 for the spelling of the name ; B (capital of Brahmāvarta on [[Drsa dvati)|Dṛṣa-dvatī)]] Kālikāpurāṇa 49.71, NM 147 ; [[CC|C]] (city in Sahya near Gomanta hill) Harivaṃśa (Viṣṇuparva) 39. 50-64
 
 Karavīraka-tīrtha—A (under VS) L. q. by T.K p. 70 ; B (under Kubjāmraka) Var. 126.48-51
 
@@ -1509,17 +1505,9 @@ Karmāvarohaṇa—(under Mathurā) Var. q. by TK p. 190
 
 Karmeśvara—(under Śrīparvata ) L. I. 92. 152
 
-Karṇahrada—(near [[Gangasarasvati
+Karṇahrada—(near [[Gangasarasvati sangama)|Gaṅgāsarasvatī-saṅgama)]] P. I. 32. 4
 
-sangama)|Gaṅgāsarasvatī-
-
-saṅgama)]] P. I. 32. 4
-
-Karṇaprayāga—Vide under [[Alaka
-
-nanda|Alaka-
-
-nandā]] and U. P. Gazetteer, vol. 36 (for Garhwal) p. 172
+Karṇaprayāga—Vide under [[Alaka nanda|Alaka-nandā]] and U. P. Gazetteer, vol. 36 (for Garhwal) p. 172
 
 Kārtikeya—A (Devī is called Yaśaskarī here) M. 13.45 ; B (under Go.) B 81. 1, G. I. 81. 9.
 
@@ -1529,17 +1517,11 @@ Kārtikeyapada—(in Gayā) Vā 109. 19, 111. 54
 
 Kāśī—Vide pp. 618-642 above. It is probably the Kassida of Ptolemy (p. 228). AC (p. 182) notes that Kāśī Vārāṇasī, Varāṇasī and Śivapurī are synonyms (verse 974 )
 
-Kaśmīra-maṇḍala—The ancient name seems to have been Kaśmīra. The Mbh (vol. II. p. 119) on Pāṇ. III. 2. 114 employs this form [[(abhijādasi Devadatta Kasmiran gamiyyamah )|(abhijānāsi Devadatta Kaśmīrān gamiṣyāmaḥ)]]. Kaśmīra as the name of a country occurs in the [[Sindhvadigana.
-
-(Pan.|Siṃdhvādigaṇa
-
-(Pāṇ.]] IV. 3. 93). In NM the country is called Kaśmīra in many verses such as 5, 11, 43, 50, but sometimes Kāśmīra also. Later works also like H. C. 14.45 employ the form Kaśmīra ; the Vik (18. 1 and 18) uses the form Kāśmīra. NM (292-93) derives the name from ka meaning water [[( kam vāri Harina yasmād-desad-asmad-apākrtam | Kas mirākhyam tato hyasya nama loke bhavisyati)|(kaṃ vāri Hariṇā yasmād-deśād-asmād-apākṛtam । Kaś- mīrākhyaṃ tato hyasya nāma loke bhaviṣyati ॥)]]. Ptolemy speaks of it as Kaspeiria and states that the country was situated below the sources of Bidaspes (Vitastā), Sandabal (Can- drabhāgā) and Adris (Irāvatī). Vide Ptolemy pp. 108-109 and NM 43. The Vanaparva speaks of the whole country of [[Kasmira as boly|Kāśmīra as holy]] (130. 10). Ain. A. (vol. II p. 354 notes that the whole of Kaśmīra is regarded as holy ground. Vide also V 82. 90, S. 27. 17, Anu 25. 8. According to a treaty in 1846 with the Maharaja of Kashmir and Jammu the territories of the Mahā- raja are 'situated to the eastward of the river Indus and westward of the river Rāvī' I. G. I. vol. XV p. 72. The Kashmir [[yalley|valley]] is approximately [[84 miles.comin length|84 miles in length]] and 20 to 25 [[mill-inbreadth (I. G. I. vol. XV PFOA y|miles in breadth (I. G. I. vol. XV p. 100).]] Stein (SM p. 63 ) says that [[it extent is confined to the greathamallexendrained|its extent is confined to the great valley drained]]
+Kaśmīra-maṇḍala—The ancient name seems to have been Kaśmīra. The Mbh (vol. II. p. 119) on Pāṇ. III. 2. 114 employs this form [[(abhijādasi Devadatta Kasmiran gamiyyamah )|(abhijānāsi Devadatta Kaśmīrān gamiṣyāmaḥ)]]. Kaśmīra as the name of a country occurs in the [[Sindhvadigana. (Pan.|Siṃdhvādigaṇa (Pāṇ.]] IV. 3. 93). In NM the country is called Kaśmīra in many verses such as 5, 11, 43, 50, but sometimes Kāśmīra also. Later works also like H. C. 14.45 employ the form Kaśmīra ; the Vik (18. 1 and 18) uses the form Kāśmīra. NM (292-93) derives the name from ka meaning water [[( kam vāri Harina yasmād-desad-asmad-apākrtam | Kas mirākhyam tato hyasya nama loke bhavisyati)|(kaṃ vāri Hariṇā yasmād-deśād-asmād-apākṛtam । Kaś- mīrākhyaṃ tato hyasya nāma loke bhaviṣyati ॥)]]. Ptolemy speaks of it as Kaspeiria and states that the country was situated below the sources of Bidaspes (Vitastā), Sandabal (Can- drabhāgā) and Adris (Irāvatī). Vide Ptolemy pp. 108-109 and NM 43. The Vanaparva speaks of the whole country of [[Kasmira as boly|Kāśmīra as holy]] (130. 10). Ain. A. (vol. II p. 354 notes that the whole of Kaśmīra is regarded as holy ground. Vide also V 82. 90, S. 27. 17, Anu 25. 8. According to a treaty in 1846 with the Maharaja of Kashmir and Jammu the territories of the Mahā- raja are 'situated to the eastward of the river Indus and westward of the river Rāvī' I. G. I. vol. XV p. 72. The Kashmir [[yalley|valley]] is approximately [[84 miles.comin length|84 miles in length]] and 20 to 25 [[mill-inbreadth (I. G. I. vol. XV PFOA y|miles in breadth (I. G. I. vol. XV p. 100).]] Stein (SM p. 63 ) says that [[it extent is confined to the greathamallexendrained|its extent is confined to the great valley drained]]
 
 [[P766]]by the head waters of the Vitastā and to the minor slopes of moun- tains that surround it. Hiouen Thsang (Beal's B R W W vol. 1. p. 148) states that 'Kaśmīra kingdom is about 7000 li (one li being equal to about [[5 miles),|5 1/2 miles),]] that as the country is protected by a dragon it has always assumed superiority among neighbouring people, that they love learning and are well instructed and that (p. 149) the country was once a dragon lake and that afterwards it became dry'. The words of Hiouen Thsang refer to an ancient legend according to which Kashmir was originally a lake (called Satīsaras) 6 yojanas long and 3 yojanas wide and later became Satīdeśa (NM 64-66), that Umā herself is the country of Kaśmīra (NM 31), that the divine Vitastā rising in the Himālayas is like the sīmanta (line parting the hair) of this holy land (NM 45). The legend runs that Viṣṇu conferred a boon on Vāsuki-nāga who prayed to Viṣṇu when Garuḍa began to devour all nāgas that he should stay in the Satīdeśa along with the other nāgas, that no enemy would kill any nāga (NM 105-107) and that Nīla was made king of nāgas in the Satīdeśa (NM 110). The residence of Nīla is the famous fountain near the village of [[Verrāg|Vērnāg]] in the [[Shababad|Shahabad]] pargana. A certain demon called Jalodbhava grew in the Satī lake and killed men (NM 111-123 and Vām. 81. 30-33). Nīla approached the sage Kaśyapa the father of all Nāgas, at whose intercession Viṣṇu asked Anantanāga to pierce the hills and make the lake dry and then killed the demon Jalodbhava (R. I. 25). Then Viṣṇu asked the Nāgas to live in peace and harmony with men. Satī became the river Vitastā. Vide Kūrma II. 43. 4. Nāga in Kashmir means the tutelary deity presiding over the several holy springs, pools and lakes in which Kaśmīra abounds. Both NM (1130- 31) and R (I. 38) state that there is not a spot in Kaśmīra even as small as a grain of sesamum which is not a tīrtha and has not a nāga as its presiding deity. In Ain. A (vol. II. p. 354) Abul Fazl notes that there were in his day 45 shrines of Mahādeva, 64 of Viṣṇu, 3 of Brahmā and 22 of Durgā and that in 700 places there were graven images of snakes which were worshipped and about which wonderful stories were told. R [[(1.72)|(I. 72)]] and NM (313-314) say that the country of Kaśmīra is Pārvatī, that the king thereof should be deemed to be a part of Śiva and that none who desires prosperity should disobey (or disre- spect) the king. R (I. 42) summarises in one verse the peculiar features of Kaśmīra viz. 'learning, lofty dwellings, saffron, water containing ice and grapes; these are common here, although rare in the three worlds'.
 
-Kaśyapapada—(under Gayā) [[Vā. 109,
-
-18,|Vā. 109. 18,]] 111. 49 and 58
+Kaśyapapada—(under Gayā) [[Vā. 109, 18,|Vā. 109. 18,]] 111. 49 and 58
 
 Kāśyapatīrtha—A (called Kālasarpiḥ) Vā. 77. 87, Br. III 13. 98 ; B (under Sābhramatī) P. VI. 157. 1
 
@@ -1551,13 +1533,9 @@ Kātyāyaneśvara—(under VS) L. q. by T. K. p. 120
 
 Kaubera—one of the Sārasvatatīrthas, Devala q. by T. K. p. 250
 
-Kauberatīrtha—Śal. 47. 25 (where Kubera secured the [[lordship ofitum
+Kauberatīrtha—Śal. 47. 25 (where Kubera secured the [[lordship ofitum wealth)|lordship of wealth)]]
 
-wealth)|lordship of wealth)]]
-
-[[Kaumaratirtha-(a lake) Br, II .
-
-86|Kaumāratīrtha—(a lake) Br. III. 13. 86]]
+[[Kaumaratirtha-(a lake) Br, II . 86|Kaumāratīrtha—(a lake) Br. III. 13. 86]]
 
 Kauṇaṭa—Vām. 51. 53
 
@@ -1589,15 +1567,7 @@ Kāyāśodhana—V. 83. 42-43
 
 [[Kāyāvarobana-A|Kāyāvarohaṇa—A]] (modern Kārvān, 15 miles south of Baroda and in the Dabhoi Taluka) [[Va 23.221-222 (bere Nakuli or Lakuli,|Vā 23. 221-222 (here Nakulī or Lakulī,]] the founder of Pāśupata doctrines, flourished), M. 22.30, K. II. 44. 7-8 (state that this was a shrine of Mahādeva and the doctrines of Maheśvara were promulgated here). E. I. vol. XXI pp. 1-7 (Mathurā Inscription of Candragupta II dated in Gupta year 61 i. e. 380 A. D. shows that Lakulī, the founder of the [[Prowata Sect.|Pāśupata sect,]] flourished in the 2nd [[century :|century A. D.) ;]] B (a [[Sivatirtba|Śivatīrtha]] in Benares) M 181. 26. In M. 13.48 Devī is said to be styled Mātā in Kāyāvarohaṇa)
 
-[[P768]]Kedāra—A (one of the eight [[Siva-
-
-tirthas|Śiva-
-
-tīrthas]] in Benares) V. 87. 25, M 181. 29, K. I. 35. 12 and II. 20. 34 (a very fit place for śrāddha), Ag. 112. 5, L. I. 92. 7 and 134 ; B (in Tehri Gadhval and called Kedāra- nātha) VDh.S.85. 17; it is 11750 ft. above sea level; there are five Kedāras, viz. [[Kedaranātha, Tunga-
-
-nātha,|Kedāranātha, Tuṅga-
-
-nātha,]] Rudranātha, Madhyameśvara and Kalpeśvara. Vide U. P. Gazetteer, vol. 36 p. 173 [[Garhwal); C|(for Garhwal) ; C]] (in Kāśmīra) HC 8. 69 (one krośa below Vijayeśvara) ; D (under Gayā) N. II. 46. 46 ; E (of Kapiṣṭhala) P. I. 26. 69.
+[[P768]]Kedāra—A (one of the eight [[Siva-tirthas|Śiva-tīrthas]] in Benares) V. 87. 25, M 181. 29, K. I. 35. 12 and II. 20. 34 (a very fit place for śrāddha), Ag. 112. 5, L. I. 92. 7 and 134 ; B (in Tehri Gadhval and called Kedāra- nātha) VDh.S.85. 17; it is 11750 ft. above sea level; there are five Kedāras, viz. [[Kedaranātha, Tunga-nātha,|Kedāranātha, Tuṅga-nātha,]] Rudranātha, Madhyameśvara and Kalpeśvara. Vide U. P. Gazetteer, vol. 36 p. 173 [[Garhwal); C|(for Garhwal) ; C]] (in Kāśmīra) HC 8. 69 (one krośa below Vijayeśvara) ; D (under Gayā) N. II. 46. 46 ; E (of Kapiṣṭhala) P. I. 26. 69.
 
 Keśava—A (in Benares) M. 185. 68 ; B (under Mathurā) Var. 163. 63
 
@@ -1609,55 +1579,19 @@ Ketakīvana—Vide under Vaidyanātha.
 
 [[Ketumala-(1. in the west)|Ketumālā—(r. in the west)]] V. 89. 15
 
-[[Khadgadhārātirtha or Khadgadhāre
+[[Khadgadhārātirtha or Khadgadhāre śvara-P|Khaḍgadhārātīrtha or Khaḍgadhāre-śvara—P]] VI. 147. 1 and 67. Vide Bom. G. vol. IV p. 6 for description
 
-śvara-P|Khaḍgadhārātīrtha or Khaḍgadhāre-
+[[Khadgapuccbanāga-(in Kāśmira) HC. X. 251 (about 1) krosa above Vijayesvaraksetra, now called Khan bal in Anantanāg pargana )|Khaḍgapucchanāga—(in Kāśmīra) HC. X. 251 (about 1½ krośa above Vijayeśvarakṣetra, now called Khan-bal in Anantanāg pargana)]]
 
-śvara—P]] VI. 147. 1 and 67. Vide Bom. G. vol. IV p. 6 for description
-
-[[Khadgapuccbanāga-(in Kāśmira)
-
-HC. X. 251 (about 1) krosa above Vijayesvaraksetra, now called Khan
-
-bal in Anantanāg pargana )|Khaḍgapucchanāga—(in Kāśmīra)
-
-HC. X. 251 (about 1½ krośa above Vijayeśvarakṣetra, now called Khan-
-
-bal in Anantanāg pargana)]]
-
-[[Khadgatirtha-A (under Sabhramati)
-
-P VI. 140. 1; B (under Go.) B
-
-139.1|Khaḍgatīrtha—A (under Sābhramatī)
-
-P VI. 140. 1 ; B (under Go.) B
-
-139. 1]] (on the northern bank)
+[[Khadgatirtha-A (under Sabhramati) P VI. 140. 1; B (under Go.) B 139.1|Khaḍgatīrtha—A (under Sābhramatī) P VI. 140. 1 ; B (under Go.) B 139. 1]] (on the northern bank)
 
 Khadiravana—(under Mathurā) Var. 153. 39 (7th vana out of 12)
 
-[[Khandatirtha--(under Sabhramati)
+[[Khandatirtha--(under Sabhramati) P. VI. 137. 12 (also called Vrsa -tīrtha )|Khaṇḍatīrtha—(under Sābhramatī) P. VI. 137. 12 (also called Vṛṣa-tīrtha)]]
 
-P. VI. 137. 12 (also called Vrsa -
+[[Khandava (vana)-boundary of Kuru ksetra|Khāṇḍava (vana)—boundary of Kuru-kṣetra]] in Tai. Ā. V. 1. 1. Vide above p. 681. The name occurs in Tāṇḍya Brāhmaṇa 25. 3. 6, Ādi 223-225, Bh. I. 15. 8, X. 58. 25-27, X. 71. 45-46, P. VI. 200. 5
 
-tīrtha )|Khaṇḍatīrtha—(under Sābhramatī)
-
-P. VI. 137. 12 (also called Vṛṣa-
-
-tīrtha)]]
-
-[[Khandava (vana)-boundary of Kuru
-
-ksetra|Khāṇḍava (vana)—boundary of Kuru-
-
-kṣetra]] in Tai. Ā. V. 1. 1. Vide above p. 681. The name occurs in Tāṇḍya Brāhmaṇa 25. 3. 6, Ādi 223-225, Bh. I. 15. 8, X. 58. 25-27, X. 71. 45-46, P. VI. 200. 5
-
-[[Khandavaprastha--(a city) Adi 61.35,
-
-221. 15,|Khāṇḍavaprastha—(a city) Ādi 61. 35,
-
-221. 15,]] Bh. X. 73. 32 (where Kṛṣṇa, Bhīma and Arjuna returned after destroying Jarāsandha)
+[[Khandavaprastha--(a city) Adi 61.35, 221. 15,|Khāṇḍavaprastha—(a city) Ādi 61. 35, 221. 15,]] Bh. X. 73. 32 (where Kṛṣṇa, Bhīma and Arjuna returned after destroying Jarāsandha)
 
 Khaṭvāṅgeśvara—(under VS) L. q. by T. K 56
 
@@ -1669,11 +1603,7 @@ Kimdatta-kūpa—V 83. 98
 
 Kiṃśukavana—Vā 38. 27-32 (between Vasudhāra and Ratnadhāra)
 
-Kiṃśuluka—name of a m. acc. to [[Pān.
-
-VI.3. 117|Pāṇ.
-
-VI. 3. 117]] (vanagiryoḥ sañjñāyāṃ koṭara-kiṃśulukādīnām). The Kāśikā mentions five forests (including Koṭaravana) and six giris (including Kiṃśuluka), which cannot be identified with certainty.
+Kiṃśuluka—name of a m. acc. to [[Pān. VI.3. 117|Pāṇ. VI. 3. 117]] (vanagiryoḥ sañjñāyāṃ koṭara-kiṃśulukādīnām). The Kāśikā mentions five forests (including Koṭaravana) and six giris (including Kiṃśuluka), which cannot be identified with certainty.
 
 Kiṃyajña—P. I. 26. 74.
 
@@ -1733,11 +1663,7 @@ Krauñcapadī—Anu. 25. 42
 
 Krauñcaparvata—(part of Kailāsa on which Mānasa lake is situated) Tai. Ā. I. 31. 2 mentions this m. [[(Sudarsane ca Krauñce ca Maināge ca mabagirau),|(Sudarśane ca Krauñce ca Maināge ca mahāgirau),]] Rām. IV. 43. 26-31, Bhī. 111. 47 (pierced by the missile of Skanda), Śal. 17. 51 and 46.83-84.
 
-Krauñcāraṇya—(three krośas from [[Jana
-
-sthāna)|Jana-
-
-sthāna)]] Rām. III. 69. 5-8
+Krauñcāraṇya—(three krośas from [[Jana sthāna)|Jana-sthāna)]] Rām. III. 69. 5-8
 
 Kriyā (r. rising from Ṛkṣavat) Br. II. 16. 29
 
@@ -1749,29 +1675,13 @@ Krośodaka—Var. 215. 87-88
 
 Kṛpā—(r. rising in m. Śuktimat) M. 114. 32, Br. II. 16. 38
 
-[[Krpānitirtha--(on hill Mundaprstha in
+[[Krpānitirtha--(on hill Mundaprstha in Kaśmira)|Kṛpāṇītīrtha—(on hill Muṇḍapṛṣṭha in Kāśmīra)]] NM. 1253, 1460
 
-Kaśmira)|Kṛpāṇītīrtha—(on hill Muṇḍapṛṣṭha in
-
-Kāśmīra)]] NM. 1253, 1460
-
-Kṛṣṇā—A (r. rising in Sahya at [[Maha
-
-balesvara)|Mahā-
-
-baleśvara)]] B. 77.5, P. VI. 113. 25, Vām. 13. 30 ; B Vām. 78. 7, 90. 2 (Viṣṇu as Hayaśīrṣa on the river) ; compared to its length and modern importance the river Kṛṣṇā is rarely mentioned as Kṛṣṇā, but generally as Kṛṣṇa-Veṇyā or -Veṇā. It is the third largest river of the Deccan and southern India, the other two being the Godāvarī and the Kāverī. In the Mahābaleśvara māhātmya (JBBRAS vol. X. at p. 16 five rivers called Gaṅgā are said to rise from the top of Sahya near Mahābaleśvara viz. Kṛṣṇā, Veṇī, Kakudmatī (Koynā), Sāvitrī (that falls into the Arabian sea near Bāṅkoṭ) and [[Gayatri
-
-(supposed to combine with Savitri).|Gāyatrī
-
-(supposed to combine with Sāvitrī).]]
+Kṛṣṇā—A (r. rising in Sahya at [[Maha balesvara)|Mahā-baleśvara)]] B. 77.5, P. VI. 113. 25, Vām. 13. 30 ; B Vām. 78. 7, 90. 2 (Viṣṇu as Hayaśīrṣa on the river) ; compared to its length and modern importance the river Kṛṣṇā is rarely mentioned as Kṛṣṇā, but generally as Kṛṣṇa-Veṇyā or -Veṇā. It is the third largest river of the Deccan and southern India, the other two being the Godāvarī and the Kāverī. In the Mahābaleśvara māhātmya (JBBRAS vol. X. at p. 16 five rivers called Gaṅgā are said to rise from the top of Sahya near Mahābaleśvara viz. Kṛṣṇā, Veṇī, Kakudmatī (Koynā), Sāvitrī (that falls into the Arabian sea near Bāṅkoṭ) and [[Gayatri (supposed to combine with Savitri).|Gāyatrī (supposed to combine with Sāvitrī).]]
 
 Kṛṣṇa-gaṅgā—(under Mathurā) Var. 175. 3
 
-[[Krsnagangod bhavatirtha--( under Ma
-
-thurā )|Kṛṣṇagaṅgodbhavatīrtha—(under Ma-
-
-thurā)]] Var. 176.43 (the whole chap. deals with its māhātmya).
+[[Krsnagangod bhavatirtha--( under Ma thurā )|Kṛṣṇagaṅgodbhavatīrtha—(under Ma-thurā)]] Var. 176.43 (the whole chap. deals with its māhātmya).
 
 [[Kịṣnagiri-(m.) Va|Kṛṣṇagiri—(m.) Vā]] 45.91, Br. II. 16. 22
 

@@ -11,6 +11,11 @@ title = "१५ उपसंहारः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/284_vasUn_vadanti.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+284	They call (the manes of) fathers Vasus, (those of) grandfathers Rudras, and (those of) great-grandfathers Adityas; thus (speaks) the eternal Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They call the Fathers “Vasus;” the grandfathers they call “Rudras,” and the great-grandfathers they call “ādityas” such is the ancient text.—(284)
@@ -72,11 +77,6 @@ grand-father and the year the great-grandfather of the people.’
 **वसून्** इति । य एते पितृपितामहप्रपितामहाः तान् वसुरुद्रादित्याख्यान् देवान् इति मन्वादयो वदन्ति । यस्मात् “पित्रादयो वस्वादय” इत्य् एषा अनादिभूता **श्रुतिः** । पितृद्वेषान् नास्तिक्याद्यः पितृकर्मणि न प्रवर्तेत तं प्रति प्रवर्तनार्थं देवतात्वाध्यारोपेण पितॄणां स्तुतिवचनम् ॥ ३.२८४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-284	They call (the manes of) fathers Vasus, (those of) grandfathers Rudras, and (those of) great-grandfathers Adityas; thus (speaks) the eternal Veda.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यस्माद् वस्वादयः पित्रादयः स्मर्यन्ते । तस्मात् पित्रादीन् अनुपेक्ष्यैव श्राद्धं देयं नित्यार्थम् इदम् । न पितृद्वेषिभिर् न वर्तयितव्यम् । यस्माद् "देवा ह्य् एते पितृनामानः" इति स्मर्यन्ते । अथ वा अविज्ञातपित्रादीनाम् अभिष्यजमानैर् (अभिधीयमानैर्?) वस्वादिशब्देन पित्र्यम् अनुष्ठेयम् उदकदानादि ।
@@ -95,6 +95,11 @@ grand-father and the year the great-grandfather of the people.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/285_vighasAshI_bhaven.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+285	Let him daily partake of the vighasa and daily eat amrita (ambrosia); but vighasa is what remains from the meal (of Brahmana guests) and the remainder of a sacrifice (is called) amrita.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should daily live upon “vighasa,” and daily he should eat “amṛta.” “Vighasa” is that which is left by those who must be fed; and “amṛta” is the remnant of sacrific es.—(285)
@@ -173,11 +178,6 @@ Manu\].—‘The remnant of sacrifices is *amṛta*; and the eating of this is e
 **विघसाशीति** । सर्वदा विधसभोजनः स्यात् इत्य् एतत् यज्ञशेषभुक् तुल्यत्वापादनेन स्तुत्यर्थम् अस्य पुनर्वचनम् । सर्वदा च अमृतभोजनः स्यात् । अप्रसिद्धत्वात् विघसामृते निरूपयति अतिथ्यादि**भुक्तशेषं विघसम्** उच्यते । यज्ञावशिष्टं पुरोडाशादि **अमृतम्** इति ॥ ३.२८५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-285	Let him daily partake of the vighasa and daily eat amrita (ambrosia); but vighasa is what remains from the meal (of Brahmana guests) and the remainder of a sacrifice (is called) amrita.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अधिकृतकर्मानुष्ठानस्तुतिपरम् एतन् नापूर्वविध्यर्थम् ।
@@ -195,6 +195,11 @@ Manu\].—‘The remnant of sacrifices is *amṛta*; and the eating of this is e
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/286_etad_vo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+286	Thus all the ordinances relating to the five (daily great) sacrifices have been declared to you; hear now the law for the manner of living fit for Brahmanas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has been described to you the procedure of the “Five Sacrifices;” listen now to the means of livelihood for the best of twice-born persons.—(286)
@@ -259,11 +264,6 @@ End of Discourse III.
 इति श्रीभट्टमाधवात्मजगोविन्दराजविरचितायां मनुटीकायां  
 मन्वनुसारिण्यां श्राद्धविधिर् नाम तृतीयो ऽध्यायः  
 अथ चतुर्थो ऽध्यायः
-</details>
-
-<details><summary>Bühler</summary>
-
-286	Thus all the ordinances relating to the five (daily great) sacrifices have been declared to you; hear now the law for the manner of living fit for Brahmanas.
 </details>
 
 <details><summary>भारुचिः</summary>

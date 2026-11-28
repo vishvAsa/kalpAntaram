@@ -1,5 +1,6 @@
 +++
 title = "50 Yama"
+proofreader = [ "Gemini 4 Hydrogen",]
 +++
 
 [[P522]]
@@ -36,33 +37,7 @@ Viśvarūpa, Vijñāneśvara, Aparārka, the Smṛticandrikā and other later wo
 
 [[P525]]
 
-I, 187), on śrāddha (on Yāj. I 225 and 252) and on prāyaścitta for killing a cow (on Yāj. III. 262). The identical verses are not found in the printed texts. Some of the verses quoted from Yama in Aparārka and the Smṛticandrikā can be traced in the printed text. For example, Aparārka (p. 42) quotes a verse of Yama in which Yama himself is referred to as an authority.[^627] It occurs in Jivananda's text (verse 65). The two verses in Jivananda's text (verses 26, 28) that are identical with Manu are cited in the Smṛticandrikā [[88|as]] Yama's. Aparārka p. 1135 quotes a prose passage of Yama, यमः- वृक्षलतागुल्मछेदने वृद्धकृच्छ्रकः फलवतां प्राजापत्यम् :- Two verses of Bṛhad-Yama (III. 20-21) about the proper age of marriage in the case of girls are quoted as Yama's in the Smṛticandrikā.[^628] In some of the verses quoted by Aparārka from Yama, the opinions of Manu are cited which can be identified with the views of the Manusmṛti. For example, according to Yama food polluted by the touch of hair, moths and insects, or seen by sinners and women in their courses is purified by water, holy ashes etc.[^629] This refers to Manu V, 125. Similarly, the Smṛticandrikā quotes a verse of Yama which says that according to Manu those who administer poison, who are incendiaries and robbers and those guilty of homicide and abetment thereof should pay the extreme penalty of death.[^630] Aparārka (p. 988 on Yāj. III. 109) quotes five verses of Yama which refer to the 26 tattvas well-known in the Sāṅkhya system, regard Puruṣottama as a 26th [[tuttva|tattva]] and propound that he who correctly understands the 25 tattvas, in whatever āśrama he may be, reaches the highest abode of [[Viṇṇu|Viṣṇu]]. Aparārka quotes a few prose passages from Yama on the garments to be worn by brahmacārins,[^631] on prāyaścitta 
-
-, 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-. . 
-
-.--- 
-
- 
-
-
-
-
+I, 187), on śrāddha (on Yāj. I 225 and 252) and on prāyaścitta for killing a cow (on Yāj. III. 262). The identical verses are not found in the printed texts. Some of the verses quoted from Yama in Aparārka and the Smṛticandrikā can be traced in the printed text. For example, Aparārka (p. 42) quotes a verse of Yama in which Yama himself is referred to as an authority.[^627] It occurs in Jivananda's text (verse 65). The two verses in Jivananda's text (verses 26, 28) that are identical with Manu are cited in the Smṛticandrikā [[88|as]] Yama's. Aparārka p. 1135 quotes a prose passage of Yama, यमः- वृक्षलतागुल्मछेदने वृद्धकृच्छ्रकः फलवतां प्राजापत्यम् :- Two verses of Bṛhad-Yama (III. 20-21) about the proper age of marriage in the case of girls are quoted as Yama's in the Smṛticandrikā.[^628] In some of the verses quoted by Aparārka from Yama, the opinions of Manu are cited which can be identified with the views of the Manusmṛti. For example, according to Yama food polluted by the touch of hair, moths and insects, or seen by sinners and women in their courses is purified by water, holy ashes etc.[^629] This refers to Manu V, 125. Similarly, the Smṛticandrikā quotes a verse of Yama which says that according to Manu those who administer poison, who are incendiaries and robbers and those guilty of homicide and abetment thereof should pay the extreme penalty of death.[^630] Aparārka (p. 988 on Yāj. III. 109) quotes five verses of Yama which refer to the 26 tattvas well-known in the Sāṅkhya system, regard Puruṣottama as a 26th [[tuttva|tattva]] and propound that he who correctly understands the 25 tattvas, in whatever āśrama he may be, reaches the highest abode of [[Viṇṇu|Viṣṇu]]. Aparārka quotes a few prose passages from Yama on the garments to be worn by brahmacārins,[^631] on prāyaścitta
 
 [^627]: अपः करनखस्पृष्टा य आचामति वै द्विजः । सुरां पिबति स व्यक्तं यमस्य वचनं यथा ॥ This is attributed to यम in the स्मृतिच० also.
 
@@ -74,58 +49,40 @@ I, 187), on śrāddha (on Yāj. I 225 and 252) and on prāyaścitta for killing 
 
 [^631]: सर्वेषां रौरवशाणक्षौमाविकानि सामर्थ्यादधोवस्त्राणीतराणि न । अपरार्क p. 58.
 
-526 
+[[P526]]
 
+for killing various kind of birds and insects, for cutting trees and bushes, for drinking wine, for stealing gold and for the other deadly sins etc.[^632]
 
+The [[Anulisanaparva|Anuśāsanaparva]] of the Mahābhārata (Chap. 104 verse 72 ) states that those who are conversant with ancient times recited verses ([[gūthūs|gāthās]] ) of Yama and then follow 84 verses which are more or less like verses found in several [[smrtis|smṛtis]] e. g. the verse '[[ūrdhyam|ūrdhvaṃ]] [[prānā... pratipadyate'|prāṇā...pratipadyate']] occurs as Anuśāsana 104. 64-65 (and is Manu II. 120 ); so also [[Dūrādāvasathān|'Dūrādāvasathān]] ..dūre [[kāryam|kāryaṃ]] [[hitaisinā'.|hitaiṣiṇā'.]] This is [[Apuśāsana|Anuśāsana]] 104.82 (Manu IV. 151). The [[verge|verse]] [[Acārāllabhate|Ācārāllabhate]] hyāyur-ācāro [[hantyalaksanam'|hantyalakṣaṇam']] ( Anu. 104. 155 ) occurs in Manu IV. 156. It is possible that the final redactor of the [[Mahabhārata|Mahābhārata]] had before him a [[Smrti|Smṛti]] ascribed to Yama or it is likely that a few verses ascribed to Yama were first cited and the author of the Epic added a few more from other sources. [[Yams|Yama]] is [[pro fusely|profusely]] quoted in the various [[Kāndas|Kāṇḍas]] of Kalpataru.
 
-for killing various kind of birds and insects, for cutting trees and bushes, for drinking wine, for stealing gold and for the other deadly sins etc. 632 
+The Smṛticandrikā quotes a verse of Yama which speaks of the Sun being in the zodiacal sign Virgo.[^633]
 
-The Anulisanaparva of the Mahābhārata (Chap. 104 verse 72 ) states that those who are conversant with ancient times recited verses (gūthūs ) of Yama and then follow 84 verses which are more or less like verses found in several smrtis e. g. the verse 'ūrdhyam prānā... pratipadyate' occurs as Anuśāsana 104. 64-65 (and is Manu II. 120 ); so also 
+Yama required the king to look into the disputes of [[liti gants|litigants]] carefully and impartially.[^634] Yama cites the authority of Manu for the proposition that everything brought about by coercion such as a gift or a deed was liable to be set aside.[^635] This is almost identical with Manu 8. 168. Yama lays down that a [[Brāhmana|Brāhmaṇa]] was never to be awarded corporal [[punish ment|punishment]], but that a [[Brāhmana|Brāhmaṇa]] guilty of crimes was to be [[impri soned|imprisoned]] and made[^636] to work. Yama like [[Yaj.|Yāj.]] (II. 145 ), [[pre scribed|prescribed]] that the [[stridhana|strīdhana]] of a woman married in the [[Asura|Āsura]]
 
-Dūrādāvasathān ..dūre kāryam hitaisinā'. This is Apuśāsana 104.82 (Manu IV. 151). The verge Acārāllabhate hyāyur-ācāro hantyalaksanam' ( Anu. 104. 155 ) occurs in Manu IV. 156. It is possible that the final redactor of the Mahabhārata had before him a Smrti ascribed to Yama or it is likely that a few verses ascribed to Yama were first cited and the author of the Epic added a few more from other sources. Yams is pro fusely quoted in the various Kāndas of Kalpataru. 
+[^632]: Vide pp. 1130, 1135, 1218, 1222.
 
-The Smṛticandrikā quotes a verse of Yama which speaks of the Sun being in the zodiacal sign Virgo.638 
+[^633]: हंसे वर्षासु कन्यास्थे &c. स्मृतिच० ( p. 366 Gharpure ).
 
-Yama required the king to look into the disputes of liti gants carefully and impartially.834 Yama cites the authority of Manu for the proposition that everything brought about by coercion such as a gift or a deed was liable to be set aside.685 This is almost identical with Manu 8. 168. Yama lays down that a Brāhmana was never to be awarded corporal punish ment, but that a Brāhmana guilty of crimes was to be impri soned and made638 to work. Yama like Yaj. (II. 145 ), pre scribed that the stridhana of a woman married in the Asura 
+[^634]: राजा मन्त्रिसहायस्तु द्वयोर्विवदमानयोः । सम्यक्कार्याण्यवेक्षेत रागद्वेषविवर्जितः ॥ अपरार्क p. 596.
 
-632 Vide pp. 1130, 1135, 1218, 1224. 633 e anty Freret &c. retrato (p. 366 Gharpure ). 834 राजा मन्त्रिसहायस्तु द्वयोर्विवदमानयोः । सम्यक्कार्याण्यवेक्षेत रागद्वेषविवर्जितः॥ 
+[^635]: बलाद्दत्तं बलाद्भुक्तं बलाद्यच्चापि लेखितम् । सर्वान् बलकृतानर्थान् निवर्त्यानाह वै मनुः ॥ स्मृतिच० ( व्य. p. 130 ).
 
-31121* p. 596. 635 बलादत्तं बलाद्भुक्तं बलाद्यच्चापि लेखितम् । सर्वान् बलकृतानर्थान् निवांनाह 
+[^636]: न शारीरो ब्राह्मणस्य दण्डो भवति कर्हिचित् । गुप्ते तु बन्धने बद्ध्वा राजा भक्तं प्रदापयेत् ॥ ... यथापराधं विप्रं तु विकर्माण्यपि कारयेत् । अवध्या ब्राह्मणा गावो लोकेस्मिन् वैदिकी श्रुतिः ॥ स्मृतिच० ( व्य. p. 316 ).
 
-ā 19: 11 636 egiazo ( 24. p. 130 ). 838 TRITT STETTU Cugt stara affat I JÀ I ara aquesta 
+[[P527]]
 
-भक्तं प्रदापयेत् ।। ... यथापराधं विप्रं तु विकर्माण्यपि कारयेत् । अवमा 
+form went to her father[^637] if she [[dierl|died]] childless. Aparārka (p. 822 ) quotes two verses of Yama that prescribed the first ammercement for him who, though forbidden, wrongfully takes the water of a lake or disturbs a [[water-courge|water-course]] and the highest [[ommercement|ammercement]] for him who breaks a lake. Aparārka (p. 860 ) also cites Yama for the fine of five [[krsnalas|kṛṣṇalas]] in the case of adultery with another's wife of the same caste as that of the paramour and twelve [[panjas|paṇas]] in case the wife is of a lower caste. The [[Smrticandrika|Smṛticandrikā]] and the [[Vyavaharamayūkba|Vyavahāramayūkha]] on the other hand direct that the king should punish the [[Brāhmana|Brāhmaṇa]] woman guilty of adultery with a [[Sūdra|Śūdra]] by throwing her to dogs and by forcible tonsure and riding on an ass in case of adultery with a [[Kiatriya|Kṣatriya]] or [[Vaibya|Vaiśya]]. The [[Smrticandrikā|Smṛticandrikā]], [[Parāsara-Mādhaviya|Parāśara-Mādhavīya]] and [[Vyavahāramayukha|Vyavahāramayūkha]] quote a verse of [[Yome|Yama]] about a debtor, who, being able to pay, does not [[want only|wantonly]] pay, being punished by taking twice the amount. Yama remarks that the order of Saṁnyāsa is not allowed to women in the Vedas or in the śāstra[^638] ([[dharmadāstra|dharmaśāstra]] ) and that her real dharma is to be the mother of children from one of her own caste.
 
-ETT TÊThen afcat sa: u trazo ( 24. p. 3161 
+Verses of [[Bșhadyama|Bṛhadyama]] are cited[^639] by the Mit. on Yāj. III. 255, 260, 289 and by Aparārka, who, on p. 496, quotes also from Laghuyama a verse and a half.
 
-वन 
+Yama is cited 46 times in the Kalpataru ([[Brahmacāri Kānda|Brahmacāri-Kāṇḍa]] ) and 13 times in the [[Moksakānda|Mokṣakāṇḍa]] (in which it quotes 70 verses ). [[Iu|In]] [[Brahmacārio|Brahmacāri°]] (pp. 23-24 ) it cites two verses of Yama in [[wbich|which]] the names of twenty Dharmaśāstrakāras are given including the name of Yama himself and it is added that they are extremely authoritative and should not be nullified
 
-STITU 
+[^637]: आसुरादिषु यद् द्रव्यं विवाहेषु प्रदीयते । अप्रजायामतीतायां पितैव तु धनं हरेत् ॥ स्मृतिच० ( व्य. p. 286 ). Note अप्रजायामतीतायां which is the reading in विश्वरूप ( p. 172 above ).
 
-50. Yama 
+[^638]: स्त्रियाः श्रुतौ वा शास्त्रे वा प्रवज्या न विधीयते । प्रजा हि तस्याः स्वो धर्मः सवर्णादिति धारणा ॥ स्मृतिच० ( व्य. p. 254 ).
 
-527 
+[^639]: मद्यभाण्डस्थितं तोयं यदि कश्चित् पिबेद् द्विजः । कुशमूलविपक्वेन त्र्यहं क्षीरेण वर्तयेत् ॥ बृहद्यम q. by मिता. on III. 255 ; vide अपरार्क p. 1074 who quotes बृहद्यम as सुराभाण्डस्थितं तोयं यदि कश्चित्पिबेद् द्विजः । स द्वाहशाहं क्षीरेण पिबेद् ब्राह्मीं सुवर्चलाम् ॥
 
-form went to her father637 if she dierl childless. Aparārka (p. 822 ) quotes two verses of Yama that prescribed the first ammercement for him who, though forbidden, wrongfully takes the water of a lake or disturbs a water-courge and the highest ommercement for him who breaks a lake. Aparārka (p. 860 ) also cites Yama for the fine of five krsnalas in the case of adultery with another's wife of the same caste as that of the paramour and twelve panjas in case the wife is of a lower caste. The Smrticandrika and the Vyavaharamayūkba on the other hand direct that the king should punish the Brāhmana woman guilty of adultery with a Sūdra by throwing her to dogs and by forcible tonsure and riding on an ass in case of adultery with a Kiatriya or Vaibya. The Smrticandrikā, Parāsara-Mādhaviya and Vyavahāramayukha quote a verse of Yome about a debtor, who, being able to pay, does not want only pay, being punished by taking twice the amount. Yama remarks that the order of Saṁnyāsa is not allowed to women in the Vedas or in the sāstra 38 (dharmadāstra ) and that her real dharma is to be the mother of children from one of her own caste. 
+[[P528]]
 
-Verses of Bșhadyama are cited 098 by the Mit. on Yāj. III. 255, 260, 289 and by Aparārka, who, on p. 496, quotes also from Laghuyama a verse and a half. 
-
-Yama is cited 46 times in the Kalpataru (Brahmacāri Kānda ) and 13 times in the Moksakānda (in which it quotes 70 verses ). Iu Brahmacārio (pp. 23-24 ) it cites two verses of Yama in wbich the names of twenty Dharmaśāstrakāras are given including the name of Yama himself and it is added that they are extremely authoritative and should not be nullified 
-
-637 आसुरादिषु यद् द्रव्यं विवाहेषु प्रदीयते । अप्रजायामतीतायां पितैव तु धनं 
-
-eta li fyraso ( 24. p. 288 ). Note 3743Tathatari which is the 
-
-reading in fa59 (p. 172 above ). 638 स्त्रियाः श्रुतौ वा शास्त्रे वा प्रवज्या न विधीयते । प्रजा हि तस्याः स्वो धर्मः 
-
-Hoffer IT | giad ( a. p. 254 ). 839 मद्यभाण्डस्थितं तोयं यदि कश्चित् पिवेद् द्विजः । कुशमूलविपक्केन व्यहं क्षीरेण , 
-
-adeta Il TTH q. by fat. op III. 255; vide 34727* p. 1075 who quotes बृहद्यम as सुराभाण्डस्थितं तोयं यदि कश्चित्पिबेद् द्विजः । द्वाहशाहं क्षीरेण पिबेद् ब्राह्मीं सुवर्चलाम् ॥ 
-
-VO 
-
-528 
-
-
-
-(lit. killed ) by mere ratiocination (tānyevātipranītāni pa hantavyāni hetubhiḥ ) we should read atipramāṇādi for atipranītāni). Ou pp. 243, 270 there are prose passages. On p. 24, it quotes two Upajāti verses. In the Moksakānda Laksmīdhara quotes on pp. 101, 102 five verses of Yama wbich set out the eight prakṛtis of the Sārkhya system and the 16 vikstis thereof, the 25th tattva viz. 'a vyakta' and adds Purusottama or Viṣṇu as the 26th (pancavimsakam avyaktam sadviṇśaḥ purusottamaḥ 1 Pañcavimśatitattva jño, Yāti Visnoh param padam || In Srāddhakānda Laksmi dhara quotes about 150 verses of Yama ( 17 on pp. 64-65 and 19 on pp. 82-83). Vyavahārakānda quotes about 47 verses of Yama. 
+(lit. killed ) by mere ratiocination ([[tānyevātipranītāni|tānyevātipraṇītāni]] [[pa|na]] hantavyāni hetubhiḥ ) we should read [[atipramāṇādi|‘atipramāṇāni]] for [[atipranītāni|atipraṇītāni]]). [[Ou|On]] pp. 243, 270 there are prose passages. On p. 24, it quotes two Upajāti verses. In the [[Moksakānda|Mokṣakāṇḍa]] [[Laksmīdhara|Lakṣmīdhara]] quotes on pp. 101, 102 five verses of Yama [[wbich|which]] set out the eight prakṛtis of the [[Sārkhya|Sāṅkhya]] system and the 16 [[vikstis|vikṛtis]] thereof, the 25th tattva viz. '[[a vyakta|avyakta]]' and adds [[Purusottama|Puruṣottama]] or Viṣṇu as the 26th ([[pancavimsakam avyaktam|pañcaviṃśakam-avyaktaṃ]] [[sadviṇśaḥ|ṣaḍviṃśaḥ]] [[purusottamaḥ|puruṣottamaḥ]] [[1|।]] [[Pañcavimśatitattva jño,|Pañcaviṃśatitattvajño,]] [[Yāti|yāti]] [[Visnoh|Viṣṇoḥ]] [[param|paraṃ]] padam ॥ In [[Srāddhakānda|Śrāddhakāṇḍa]] [[Laksmi dhara|Lakṣmīdhara]] quotes about 150 verses of Yama ( 17 on pp. 64-65 and 19 on pp. 82-83). [[Vyavahārakānda|Vyavahārakāṇḍa]] quotes about 47 verses of Yama. 

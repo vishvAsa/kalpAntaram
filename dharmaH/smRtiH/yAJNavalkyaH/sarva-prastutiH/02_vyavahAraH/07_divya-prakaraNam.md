@@ -12,6 +12,12 @@ title = "०७ दिव्य-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/095_tulAgnyApo_viSha~N.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The balance, fire, water, poison, and consecrated water are the ordeals here for clearance  
+in cases of grave accusation, when the accuser submits to the penalty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तुलाग्न्य्-आपो विषं कोशो  
@@ -161,6 +167,12 @@ _लिखिताद्यभावे वा परितुष्ट्य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/096_ruchyA_vA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or either of the two may perform it by agreement, while the other undertakes the penalty.  
+Even without a penalty, one should administer it in treason against the king or in a major sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रुच्या वा ऽन्यतरः कुर्याद्  
@@ -283,6 +295,12 @@ _किम् अभियोक्त्रावश्यं शिरो व�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/097_sachailaM_snAtam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having summoned him who has bathed with his clothes on and fasted until sunrise,  
+he should cause all ordeals to be performed in the presence of the king and Brahmins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स-चैलं स्नातम् आहूय  
@@ -416,6 +434,12 @@ _किं सद्य एव दिव्यक्रिया । नेत�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/098_tulA_strIbAlavRddhAndha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The balance is for women, children, the aged, the blind, the lame, Brahmins, and the sick;  
+fire or water for a Shudra, or seven barley-grains of poison.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तुला स्त्री-बाल-वृद्धान्ध-  
@@ -553,6 +577,12 @@ _न चाविशेषेण सर्वेषां सर्वदिव�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/099_nAsahasrAd_dharet.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should not carry the plowshare, nor take poison, nor the balance for less than a thousand [paṇas];  
+but in matters concerning the king or in false charges, the pure should always undergo them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नासहस्राद् धरेत् फालं  
@@ -700,6 +730,12 @@ _एवं च सति ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/100_tulAdhAraNavidvadbhir_abhiyuktas.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Placed on the balance by those skilled in holding the balance,  
+balanced with a counterweight and a mark made, the accused is taken down.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तुला-धारण-विद्वद्भिर्  
@@ -922,6 +958,12 @@ _अधिकृतश् च पागुक्तनियमवान् क�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/101_tvan_tule.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+“You, O balance, are the abode of truth, fashioned of old by the gods;  
+therefore speak the truth, auspicious one, and deliver me from doubt!
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वं तुले सत्य-धामा ऽसि  
@@ -1102,6 +1144,12 @@ _अवतीर्य चोदङ्मुखः स्थित्वा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/102_yady_asmi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If I am an evildoer, mother, then lead me down;  
+if I am pure, take me upward!”—thus he should address the balance with a mantra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्य् अस्मि पाप-कृन् मातस्  
@@ -1122,6 +1170,12 @@ _अवतीर्य चोदङ्मुखः स्थित्वा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/103_karau_vimRditavrIher.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having inspected his two hands rubbed with rice grains, he should then place on them  
+seven leaves of the sacred fig tree and wrap them with as many turns of thread.
+</details>
+
 <details><summary>मूलम्</summary>
 
 करौ विमृदित-व्रीहेर्  
@@ -1241,6 +1295,12 @@ _तप्तायःपिण्डधारणशास्त्रम् ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/104_tvam_agne.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+“You, O fire, wander within all beings, O purifier;  
+speak the truth regarding merits and sins like a witness, O wise one, to me!”
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वम् अग्ने सर्व-भूतानाम्  
@@ -1310,6 +1370,12 @@ _इतरो ऽपि प्रागुक्तनियमवान् उ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/105_tasyety_uktavato.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he has said this, [the judge] should place an iron ball, smooth, weighing fifty palas,  
+glowing like fire, in both his hands.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्येत्य् उक्तवतो लौहं  
@@ -1410,6 +1476,12 @@ _लोहकारो ऽपि ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/106_sa_tam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Taking it, he should walk slowly through seven circles;  
+a circle should be known as sixteen finger-breadths, and the interval between them the same.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स तम् आदाय सप्तैव  
@@ -1525,6 +1597,12 @@ _सप्तैव मण्डलानि शनैर् व्रजेद�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/107_muktvA.agnim.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having dropped the fire, he rubs rice grains; if unburnt, he attains clearance.  
+If the ball falls between, or in case of doubt, he must carry it again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मुक्त्वा ऽग्निं मृदित-व्रीहिर्  
@@ -1600,6 +1678,12 @@ _सप्त मण्डलानि गत्वा किं कर्तव
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/108_satyena_mA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having invoked the water with: “Protect me with truth, O Varuṇa!”,  
+holding the thighs of one standing in navel-deep water, he should submerge into the water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सत्येन मा ऽभिरक्ष त्वं  
@@ -1778,6 +1862,12 @@ _प्रागुक्तनियमवान् एव नृपब्र�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/109_samakAlam_iShum.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+At the same moment, another swift man having fetched an arrow discharged [at that time],  
+when he returns, if he sees his limbs submerged, he attains clearance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम-कालम् इषुं मुक्तम्  
@@ -1893,6 +1983,12 @@ _ _
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/110_tvaM_viSha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+“You, O poison, are the son of Brahmā, established in truth and duty;  
+protect me from this false accusation; by truth become nectar to me!”
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वं विष ब्रह्मणः पुत्रः  
@@ -2126,6 +2222,12 @@ _प्रागुक्तनियमवान् एव शूद्रा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/111_evam_uktvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having spoken thus, he should swallow the śārṅga poison born of the snowy mountain;  
+if it digests without violent fits, one should declare his clearance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवम् उक्त्वा विषं शार्ङ्गं  
@@ -2146,6 +2248,12 @@ _प्रागुक्तनियमवान् एव शूद्रा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/112_devAn_ugrAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having worshipped fierce deities, one should take the water of their bathing;  
+having consecrated it, one should make him drink three palmfuls of that water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवान् उग्रान् समभ्यर्च्य  
@@ -2266,6 +2374,12 @@ _प्रयोजनाल्पत्वे रुच्या वा पू�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/07_divya-prakaraNam/113_arvAk_chaturdashAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He to whom within fourteen days no terrible disaster occurs,  
+caused by the king or the gods, is pure without doubt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अर्वाक् चतुर्दशाद् अह्नो  

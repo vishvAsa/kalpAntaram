@@ -19,13 +19,20 @@ Although Vedavyāsa's verse is generally used with regards to the dissemination 
 
 There are many such scholars who do not consider such prohibitive statements for a blanket application. Do note that non-Śāstrīya or Laukika methods were already open to all. This is for those persons who may have feared incurring pāpa due to the aforesaid reason.
 
-## शङ्करः
+## विश्वरूपः
+
+<div class="js_include" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/045_vAkovAkyam_purANa~n.md" unfilled newLevelForH1="5" includeTitle="false" title="" detailsPattern="मूलम्.*|विश्वरूपः" quote="1"> </div>  
+
+
+## विष्णु-सहस्र-नाम-शङ्करः
 
 (From Ādi Śaṅkarācārya's commentary on Viṣṇusahasranāma)
 
 If 'तस्माच्छूद्रो यज्ञेऽनवक्लृप्तः' holds such a wide application, it may even counter the injunction of performance of Brahmayajña (& other Mahāyajñas) for Śūdras. 
 
-In this way of interpretation, 'श्रावयेच्चतुरो वर्णान् कृत्वा ब्राह्मणमग्रतः' may also be taken to imply that even Kṣatriya & Vaiśya are only to do Śravaṇa (that too by having a Brāhmaṇa sitting in front of them) and not Pāṭha. When the text and the specific verse itself does not specify any such restriction, why add it? Should we believe that the one who spoke the mūla text and verse, missed such an important point? If yes, then this kalpanā could be extended as far as one can argue.
+In this way of interpretation, 'श्रावयेच्चतुरो वर्णान् कृत्वा ब्राह्मणमग्रतः' may also be taken to imply that even Kṣatriya & Vaiśya are only to do Śravaṇa (that too by having a Brāhmaṇa sitting in front of them) and not Pāṭha. 
+
+When the text and the specific verse itself does not specify any such restriction, why add it? Should we believe that the one who spoke the mūla text and verse, missed such an important point? If yes, then this kalpanā could be extended as far as one can argue.
 
 Vipramiśra in his Śrāddhapradīpa clarifies that Ādi Śaṅkarācārya's statement regarding Śūdras' adhikāra in śravaṇa of Viṣṇusahasranāma is only regarding Brahmayajña and not regarding other cases like Prāyaścittaprayoga, etc. Hence in those cases, they can recite it.
 
@@ -72,7 +79,9 @@ Hence, it seems that the verses which have been cited as contradictory to the di
 ## गोविन्दराजः
 Maharṣi Vālmīki : If Śūdras read/recite Rāmāyaṇa, they shall attain superiority/greatness.
 
-Commentator Govindarāja : But Śūdras are only allowed to hear Itihāsa etc. due to 'śrāvayeccaturo varṇān...', so  only a brief reading is allowed, or 'read' here means 'hear'. Mahaṛsi says: 
+Commentator Govindarāja : But Śūdras are only allowed to hear Itihāsa etc. due to 'śrāvayeccaturo varṇān...', so  only a brief reading is allowed, or 'read' here means 'hear'. 
+
+Mahaṛsi says: 
 
 > 'पठन् द्विजो वागृषभत्वमीयात्  
 स्यात्क्षत्रियो भूमिपतित्वमीयात्।

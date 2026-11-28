@@ -13,6 +13,11 @@ title = "१३ अवराद् अपि विद्या"
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/238_shraddadhAnaH_shubhAm.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+238	He who possesses faith may receive pure learning even from a man of lower caste, the highest law even from the lowest, and an excellent wife even from a base family.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One imbued with faith may acquire excellent learning even from a lowly person, special law even from the lowest, and the gem of a wife even from a base family.—(238)
@@ -108,11 +113,6 @@ and Śūdras.’
 **श्रद्दधान** इति । श्रद्धोपेतः प्रकृष्टां **विद्याम्** उक्तक्रमात्मज्ञानाद्युपदेशं क्षत्रियादेर् निकृष्टजातीयाद् अपि गृह्णीयात्, शूद्राद् अपि प्रकृष्टं **धर्मं** शास्त्राविरुद्धं तेन कुतो ऽपि ज्ञातं शिष्येत् । यत् “यदि स्त्री यद्य् अवरजः” इत्य् उक्तम्, तन् न, ततः शिक्xअयन्त्य् अपि (तु) तदनुष्ठानदर्शनेनानुष्ठानम् । उत्कृष्टां च अवैधव्यादिलक्षणोपेतां क्षत्रियकुम्भकारादि**कुलाद् अप्य् आददीत **॥ २.२३८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-238	He who possesses faith may receive pure learning even from a man of lower caste, the highest law even from the lowest, and an excellent wife even from a base family.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **श्रद्दधानो** ऽभिवादादेः श्रेय इत्य् एवं स्थितः प्राज्ञः (?) । शोभते ऽनया आत्मेति **शुभा वेदविद्या** । ताम् **आददीतापराद् अपि** । क्षत्रियाद् वैश्याद् वा । न तु शूद्राद् इति वक्ष्यामः । अस्य दृष्टान्तार्थवादः । उक्तं हि पुरस्ताद् "**अन्त्याद् अपि परं धर्मम्**" आददीत स्मार्तम् आददीत "**स्त्रीरत्नं दुष्कुलाद् अपि**" । यस्माद् आददीत इति । "यदि स्त्री यद्य् अवरजः" (म्ध् २.२२३) इत्य् अत्र चोक्तम् एवैतत् । यथा स्त्री शूद्राद् अपि हीना स्मार्तधर्मोपादानम् एवं "**श्रद्दधानः शुभां विद्याम् आददीतावराद् अपि**" । क्षत्रियाद् वैश्याद् वेति वक्ष्यामः । अथ वा दृष्टार्थसम्बन्धेनेदं दृष्टान्तद्वयं पूर्वविधेर् अर्थवादीक्रियते । कुशतः (?) **अन्त्याद् अपि** शूद्रात् **परं धर्मं** दृष्टार्थपुरुषार्थहेतुं व्यवस्थारूपं लौकिकं **स्त्रीरत्नं** चावैधव्यादिगुणहेतुलक्षणसम्पदा दृष्टान्तार्थवादकं हीनक्रियाद् एवाददीत न तु पातकिकुलादिभ्यो यथैवं ब्रह्मचार्य् अपि **श्रद्दधानः** प्रतिविशिष्टम् अदृष्टपुरुषार्थसाधनभूतां **वेदविद्यां** हीनाद् अप्य् (?) **आददीतेति** वाक्यार्थः । तद् वै स्पष्टार्थम् इदम् । अधुनोच्यते लोकप्रवादः ।
@@ -130,6 +130,11 @@ and Śūdras.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/239_viShAd_apy.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+239	Even from poison nectar may be taken, even from a child good advice, even from a foe (a lesson in) good conduct, and even from an impure (substance) gold.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nectar mat be taken even from poison, good advice even prom a child; good conduct (may be learnt) even from a foe; and gold (mat be taken) even from an impure source.—(239)
@@ -199,11 +204,6 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 514) along with the pr
 **विषाद्** इति । **विषाद् अपि** तत्साधनकरसायनादिकरणेन **अमृतं ग्राह्यम्** । ग्रामादिप्रस्थितेन प्रशस्तवाक्यं **बालो**दीरितम् अपि अभीष्टार्थसंसिद्धेः सूचकत्वेन ग्राह्यम् । **अमेध्य**पतितम् अपि अकृतसंस्कारम् अपि **काञ्चनं ग्राह्यम् **॥ २.२३९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-239	Even from poison nectar may be taken, even from a child good advice, even from a foe (a lesson in) good conduct, and even from an impure (substance) gold.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यथावोचाम एवं लोकप्रवादो ऽप्य् अयं दृष्टः । तद् अपि प्रायस् त्व् एवम्- "असतः सद् उपादेयम्" इति । एवं च सति ।
@@ -221,6 +221,11 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 514) along with the pr
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/240_striyo_ratnAny.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+240	Excellent wives, learning, (the knowledge of) the law, (the rules of) purity, good advice, and various arts may be acquired from anybody.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Wives, gems, learning, virtue, purity, wise saying and the various arts may be obtained from all sources.—(240)
@@ -268,11 +273,6 @@ This verse occurs in *Devalasmṛti* also (quoted in
 **स्त्रियो रत्नानीति** । **शिल्पानि चाप्य् अदुष्टानीति** । अत्र **स्त्रीरत्नशौचचित्रकर्माद्य्**अदुष्ट-शिल्पाभिधानार्थः, तथैतानि सदाश्रयाण्य् उपादेयान्य् एवम् ॥ २.२४० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-240	Excellent wives, learning, (the knowledge of) the law, (the rules of) purity, good advice, and various arts may be acquired from anybody.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं प्रकरणार्थोपसंहारः प्रकृतार्थशेषतया । यथेमे प्रत्यक्षफलत्वाद् असदाश्रया अपि सन्त उपादीयन्ते, एवं विद्याप्य् अदृष्टार्थतयार्थवादो ऽयम् (?) । न हेतुः । अत्र च विषादिः न वृत्तिप्रयोजनाद् दृष्टार्थो गृह्यते । धर्मे स्त्र्यादिभिर् दृष्टार्थैर् अनयोः समानाधिकरण्यात् । रत्नशब्दः च **स्त्रीविद्याधर्मशौचसुभाषितशिल्पानां** पुरुषार्थसाधनविद्यापेक्षया स्तुत्यर्थो लोकवद् विज्ञेयः । अधुना ब्राह्मणाभ्याम् आत्मेच्छया ब्रह्मचारिणो विद्याध्ययने प्राप्ते इदं नियमार्थम् आपत्कालगुणविधानं (?) प्रदृश्यते (प्रस्तूयत्?) ।
@@ -290,6 +290,11 @@ This verse occurs in *Devalasmṛti* also (quoted in
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/241_abrAhmaNAd_adhyAyanam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+241	It is prescribed that in times of distress (a student) may learn (the Veda) from one who is not a Brahmana; and that he shall walk behind and serve (such a) teacher, as long as the instruction lasts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In abnormal times of difficulty learning from a non-Brāhmaṇa has been enjoined, as also the serving of such a teacher, in the shape of following him, during the course of study.—(241)
@@ -404,11 +409,6 @@ Dharma, Purity, Literary Sayings, and the various Arts,—these may be acquired 
 इति प्रत्यवायस्य वक्ष्यमाणत्वात् ॥ २.२४१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-241	It is prescribed that in times of distress (a student) may learn (the Veda) from one who is not a Brahmana; and that he shall walk behind and serve (such a) teacher, as long as the instruction lasts.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अब्राह्मणाद्** इत्य् अयम् अनुवादः आपत्कालगुणविधिसम्बन्धेन । को ऽयम् अब्राह्मणो नाम (१ अक्ष् lacuna) र्न्नादेयम् । तथा च चूर्णिकाकारः- "न यवयुक्तम् अन्याधिकरणे तथा व्यर्थ" इति । शूद्रस्याप्य् अध्ययनाधिकाराद् वा स्वीकरणसम्भवे (?) कथम् अस्माद् अध्ययनम् अस्य न्यायात् । अथासम्भवे सति तदध्ययनम् अविश्यं शूद्राद् भविष्यति । एवं तर्हि, लिङ्गान् नाम शूद्राद् अब्राह्मणाद् अध्ययनम् अनुजानाति । वक्ष्यति श्राद्धप्रकरणे "शूद्रशिष्यो गुरुश् च" (म्ध् ३.१५६) इति । पारिशेष्याद् अब्राह्मणाभ्यां क्षत्रियवैश्याभ्याम् **अध्ययनम् आपत्काले विधीयते** । अवशयकरणीयस्य अतिक्रम आपत्कालः । तत्रायं विधिर् अभाववैकल्पिको द्रष्टव्यः नात्मेच्छयाप्य् आपदि । क्षेपं पठन्ति । तेषाम् इयं व्याख्या- "आपदि कल्प्यते समर्थो भवति नान्यदा यः स आपत्कल्पः । अथ वापद्विधिर् आपत्कल्पः । अनुवृद्ध्या तुं (?) शुश्रूषा अन्यशुश्रूषाप्रतिषेधो ऽयं प्रसिद्ध्यपुनर्वचनात् । न चेदं प्रवार(पाठ?)काध्ययनकाले ऽनुव्रज्याज्ञानं तथार्थसिद्धत्वाद् अवचनीयं (?) स्याद् यतस् तदुत्तरकालम् इदर्थवद् (?) वेदितव्यम् । तथा च "**यावद् अध्ययनं गुरोः**" इत्य् एतत् स्नानोत्तरकालं तन्निवृत्तिसमर्थं भवति । न प्रपाठाध्ययनकाले । प्रत्यहमध्ययनशब्देन चाध्ययनकार्यं ग्रहणम् उच्यते । एवं च यद् वेदग्रहणं यावद् अध्ययनम् इदं विज्ञेयम् । अथ वा "श्रद्दधानः शुभां विद्याम्" (म्ध् २.२३८) इति नेदं वेदविद्याग्रहणम् अत्र शिष्यते । किं तर्हि । विषयम् अहुताशनिव्यावृत्तिमन्त्रो (?) दृष्टार्थ उच्यते । एवं च नेदं ब्राह्मणाध्ययनविध्यर्थम् । किं तर्हि । विक्ष्यमाणयोर् विधिशेषो ऽयर्थवादः (?) । एवम् उत्तराव् अपि दृष्टान्तौ विज्ञेयौ । दृष्टार्थसम्बन्धेनैव "अन्त्याद् अपि परं धर्मं स्त्रीरत्नं दुष्कुलाद् अपि" (म्ध् २.२३८) इति कृतव्याख्यानौ दृष्टान्तौ । तथा च लोकवादः- "विषाद् अप्य् अमृतं ग्राह्यम्" (म्ध् २.२३९) इति । अयं च श्लोकोक्तेर् असम्बन्धार्थः (??) । स्त्र्योदयान्यर्थो (?) विद्येति चार्थवादप्रकरणार्थम् । अधुना तु निस्पष्टीकरोति । यथा चैते एवम् अब्राह्मणाद् अध्ययनं विधीयते । एवं च (न?) पूर्वोक्तार्थवादम् अनुवाधः । किं तर्हि । विधिः । तथा चोक्तम् । तच् च पुनर् अध्ययनम् अस्य स्याद् आपत्कालेनान्यत्रैवम् इदम् उभयविधानम् अध्ययनक्रियायाः कालस्य च वाक्यभेदे सत्य् अब्राह्मणाद् अध्ययनान् नैष्ठिकस्य (?) यावज्जीवम् । तत्रापत्स्थितौ (?) प्राप्तायाम् इदम् । न शास्त्रे अस्य प्रत्यभिवादलक्षणस्येदं रूपोदाहरणम् । आयुष्मान् भव (?) सौम्य देवदत्त इति । स्तुत्यर्थम् इदम् अधुनाद्योच्यते ॥
@@ -434,6 +434,11 @@ Dharma, Purity, Literary Sayings, and the various Arts,—these may be acquired 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/242_nA-brAhmaNe_gurau.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+242	He who desires incomparable bliss (in heaven) shall not dwell during his whole life in (the house of) a non-Brahmanical teacher, nor with a Brahmana who does not know the whole Veda and the Angas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A pupil, desiring an unsurpassable state, shall not be in life-long residence with a non-Brāhhaṇa teacher; or with a Brāhmaṇa-teacher who is not an expounder.—(242)
@@ -498,11 +503,6 @@ See Comparative notes for [Verse 2.241].
 एवं वक्ष्यमाणस्य नैष्ठिकस्यापि अब्राह्मणाद् अध्ययनाद् यावज्जीवं तद् अगृहवासप्राप्तौ इदं तन्निषेधार्थम् आह **नेति **। नैष्ठिकः **शिष्यो ऽब्राह्मण**गुरुगृहे अध्यपनाचाराभिजनशून्यब्राह्मणगृहे वा सर्वोत्कृष्टां गतिम् इच्छन् यावज्जीविकं **वासं **न कुर्यात् ॥ २.२४२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-242	He who desires incomparable bliss (in heaven) shall not dwell during his whole life in (the house of) a non-Brahmanical teacher, nor with a Brahmana who does not know the whole Veda and the Angas.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 शास्त्राद् अर्थाच् (?) चाप्राप्तस्य विधेर् अयं (?) प्रतिषेधः । य एवं च नैष्ठिकस्य एव दुश्शुश्रूषुगुरुर् (?) ब्राह्मण एव स्यान् न जातिमात्र एवं तर्हि अभिजन्मादिगुणवान् इति ।
@@ -528,6 +528,11 @@ See Comparative notes for [Verse 2.241].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/243_yadi_tv.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+243	But if (a student) desires to pass his whole life in the teacher's house, he must diligently serve him, until he is freed from this body.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one likes to live in life-long residence in the teacher’s house, he should, intently serve him till he becomes freed from his body.—(243)
@@ -609,11 +614,6 @@ dwarf, the humpbacked, one born blind, the sexless, the lame, the diseased and t
 इदानीं नैष्ठिकब्रह्मचर्यविध्यर्थम् आह **यदीति** । **यदि **पुनर् ब्रह्मचारी यावज्जीविकवासं **गुरुगृहे** इच्छेत् तदा यत्नवा भूत्वा **आ** **शरीर**पतनात् गुरुम् आराधयेत् इत्य् एष एव नैष्ठिक उच्यते । तथा च हारीतः**:** “निष्ठां चेद् गच्छति” इति । इतरस् तूपकुर्वाणक उच्यते । अध्यापनार्थं शुश्रूषाकरणं प्रवृत्तत्वात् । न चात्र “यावज्जीवम् अग्निहोत्रं जुहुयाद्” इत्य् एवमादिश्रुत्या बाध आशङ्कनीयः “ब्रह्मचार्य् आचार्यकुलावासी तृतीयो ऽत्यन्तम् आत्मानम् आचार्यकुले ऽवसादयन्” इत्य् अस्याप्य् एतच् छ्रुतिमूलत्वात् ॥ २.२४३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-243	But if (a student) desires to pass his whole life in the teacher's house, he must diligently serve him, until he is freed from this body.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यदि त्व् आत्यन्तिकम् इति विकल्पेन निर्देशात् नैष्ठिकब्रह्मचर्यम् अविकल्पेनोक्तं भवति । तच् चोत्तरत्र प्रदर्शयिष्यामः । वेदशास्त्रं न्यायविरोधेन ।
@@ -631,6 +631,11 @@ dwarf, the humpbacked, one born blind, the sexless, the lame, the diseased and t
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/244_A_samApteH.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+244	A Brahmana who serves his teacher till the dissolution of his body, reaches forthwith the eternal mansion of Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa who, till the dissolution of his body, serves his teacher, goes forthwith to the eternal abode of brahman.—(244)
@@ -684,11 +689,6 @@ See Comparative notes for [Verse 2.243].
 अस्य फलम् आह **आ समाप्तेर्** इति । यावच् छरीरं **यो गुरुं** परिचरति **स **ब्रह्मलोकं आ महाप्रलयाद् अनश्वरं** अञ्जसा **स्पष्टेन मार्गेण गत्यन्तराव्यवहितेन **गच्छति **। **विप्र**ग्रहणं प्रदर्शनार्थम्, त्रयाणां प्रकृतत्वात् ॥ २.२४४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-244	A Brahmana who serves his teacher till the dissolution of his body, reaches forthwith the eternal mansion of Brahman.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 नैष्ठिकस्तुतिर् इयं फलविधिना ।
@@ -706,6 +706,11 @@ See Comparative notes for [Verse 2.243].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/245_na_pUrvam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+245	He who knows the sacred law must not present any gift to his teacher before (the Samavartana); but when, with the permission of his teacher, he is about to take the (final) bath, let him procure (a present) for the venerable man according to his ability,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At first the pupil, knowing his duties, should not give anything to his teacher; but when going to take the final bath, he should, on being ordered by the teacher, present something for him, to the best of his capacity;—(245)
@@ -792,11 +797,6 @@ syllable,—there is nothing on earth by giving which he would be free from the 
 **न पूर्वम्** इति । स्नानपूर्वम् अगृहीतवेदः शिष्यो धनम् आहरन् यथा (यदा) न (धनं विना) अध्यापयामीत्य् एवं गुरुणादिष्टः न किञ्चिद् अपि गुरवे दद्यात्, भृतकाध्यापकत्वप्रसङ्गात् । अत एवाह **धर्मवित्** । अपणपूर्वत्वे ऽनिषेधः “धर्मार्थौ यत्र न स्याताम्” इत्य् उक्तत्वात् । तथा च आपस्तम्बः- “यदाचार्यं भोजयित्वा शेषम् अन्नम् अश्नाति हविर् उत्कृष्टम् एव तत् यद् अन्यानि द्रव्याणि यथालाभम् उपहरति दक्षिणा एव वा स एष ब्रह्मचारिणो यज्ञो नित्यप्रयतः” इति । स्नानं पुनः कर्तुम् इच्छन् समावर्तनकाले इमम् अर्थम् आहरेत्य् एवं गुरुणादिष्टः यथाशक्ति अवश्यं गुर्वर्थम् आहरेत् तदानीं भृतकाध्यापितत्वासम्भवात् ॥ २.२४५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-245	He who knows the sacred law must not present any gift to his teacher before (the Samavartana); but when, with the permission of his teacher, he is about to take the (final) bath, let him procure (a present) for the venerable man according to his ability,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **न पूर्वं गुरवे किञ्चिद् उपकुर्वीत** । दुःखम् उत्पाद्य इति वाक्यशेषः । एवं दुःखम् (?) उत्पाद्याध्ययनप्रतिषेधो ऽयं न [सर्वप्रतिषेधः?] । सर्वप्रतिषेधे तूक्तशास्त्रविरोधाह् स्यात् । अर्थदाध्याप्यो "धर्मार्थौ यत्र न स्याताम्" [म्ध् २.११२] इति च । प्रकरणाच् च शिष्योपदेशो ऽप्य् अयम् विरोधे (?) ऽपि यो ऽप्य् अयम् उपदेशो (?) मन्तव्यः । अथ वापि तद्दानप्रतिषेधो ऽयं गुर्वर्थस्तुत्यर्थः । उक्तसामर्थात् । इदानीं गुर्वर्थं दर्शयति ।
@@ -823,6 +823,11 @@ syllable,—there is nothing on earth by giving which he would be free from the 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/246_xetraM_hiraNyam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+246	(Viz.) a field, gold, a cow, a horse, a parasol and shoes, a seat, grain, (even) vegetables, (and thus) give pleasure to his teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Joyfully bringing to the teacher, a field, or gold, or a cow, or a horse, or at least an umbrella and a fair of shoes, grain, vegetables or clothes.—(246)
@@ -910,11 +915,6 @@ the pupil should with bis permission take the Bath, after having offered to him 
 **क्षेत्रम्** इति । अतश् च प्रीत्युत्पादनपरत्वात् प्रदर्शनार्थं भूम्यादिग्रहणम् । अन्ततो यद्य् उत्पन्नं किञ्चित् स्यात् तदा छत्रोपानहम् ॥ २.२४६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-246	(Viz.) a field, gold, a cow, a horse, a parasol and shoes, a seat, grain, (even) vegetables, (and thus) give pleasure to his teacher.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 गुर्वर्थविध्यर्थश्लोकः । क्षेत्रादीनां ग्रहणं सर्वद्रव्यप्रदर्शनार्थम् । सपरिसङ्ख्यैषा ।
@@ -932,6 +932,11 @@ the pupil should with bis permission take the Bath, after having offered to him 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/247_AchArye_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+247	(A perpetual student) must, if his teacher dies, serve his son (provided he be) endowed with good qualities, or his widow, or his Sapinda, in the same manner as the teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Preceptor having died, he should serve, in the same manner as the Preceptor, the qualified son of the Preceptor, or the Preceptor’s wife, or his Sapiṇḍa.—(247)
@@ -983,11 +988,6 @@ either with his son, or with his wife or with his fire.’
 
 नैष्ठिकधर्मविध्यर्थम् आह **आचार्य **इति । **आचार्ये **प्रमीते **गुरुवत् गुरुपुत्रदारसपिण्डानां** पूर्वस्य पूर्वस्याभावे उत्तरोत्तरस्य शुश्रूषा कुर्यात् ॥ २.२४८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-247	(A perpetual student) must, if his teacher dies, serve his son (provided he be) endowed with good qualities, or his widow, or his Sapinda, in the same manner as the teacher.
-</details>
 </details>
 </div>
 
@@ -1001,6 +1001,11 @@ either with his son, or with his wife or with his fire.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/248_eteShv_avidyamAneShu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+248	Should none of these be alive, he must serve the sacred fire, standing (by day) and sitting (during the night), and thus finish his life.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When all these are non-existent, he should perfect his body, while he carries on the tending of the Fire, with only such diversions as standing and sitting.—(248)
@@ -1096,11 +1101,6 @@ upon the Fire.
 **एतेष्व् अविद्यमानेष्व्** इति । गुरुपुत्रादिष्व् असत्सु कालनियमावलम्बनेन उत्थानोपवेशनाटनवान् भक्त्या अग्निकार्यम् अनितिष्ठन् आत्मसम्बन्धि शरीरं क्षपयेत् ॥ २.२४८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-248	Should none of these be alive, he must serve the sacred fire, standing (by day) and sitting (during the night), and thus finish his life.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 नैष्ठिकब्रह्मचर्यविध्यर्थाव् इमौ श्लोकौ ।
@@ -1118,6 +1118,11 @@ upon the Fire.
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/249_eva~n_charati.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+249	A Brahmana who thus passes his life as a student without breaking his vow, reaches (after death) the highest abode and will not be born again in this world.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa who thus keeps his studentship unflinchingly, goes to the highest place and is never born again into this world.—(249)
@@ -1177,11 +1182,6 @@ the Brahmic Region.’
 श्रीमन्वाशयानुसारिण्यां ब्रह्मचर्याश्रमविधानं नाम  
 द्वितीयो ऽध्यायः  
 तृतीयो ऽध्यायः
-</details>
-
-<details><summary>Bühler</summary>
-
-249	A Brahmana who thus passes his life as a student without breaking his vow, reaches (after death) the highest abode and will not be born again in this world.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -12,6 +12,11 @@ title = "१५ धर्मप्रशंसा"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/170_adhArmiko_naro.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+170	Neither a man who (lives) unrighteously, nor he who (acquires) wealth (by telling) falsehoods, nor he who always delights in doing injury, ever attain happiness in this world.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man who is unrighteous, he whose wealth is mis-begotten, and he who is always addicted to injuring, never obtains happiness in this world.—(170)
@@ -47,11 +52,6 @@ Such a man does not obtain happiness in this world.—(170).
 **अधार्मिक** इति । यस्माद् **यो नरः **अधर्माचरणशीलो **यस्य **वा असत्यम् एव धनं तत् प्राधान्येन व्यवहाराख्यं सर्वदा हिंसानिरतः स इह लोके ऽपि न सुखं वर्धते । तस्माद् एतन् न कार्यम् ॥ ४.१७० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-170	Neither a man who (lives) unrighteously, nor he who (acquires) wealth (by telling) falsehoods, nor he who always delights in doing injury, ever attain happiness in this world.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं च सति –
@@ -77,6 +77,11 @@ Such a man does not obtain happiness in this world.—(170).
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/171_na_sIdann.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+171	Let him, though suffering in consequence of his righteousness, never turn his heart to unrighteousness; for he will see the speedy overthrow of unrighteous, wicked men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Perceiving the quick overthrow of unrighteous sinners, he shall not turn his mind towards unrighteousness, even though suffering in consequence of righteonsness.—(171)
@@ -107,11 +112,6 @@ This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 68), which adds the 
 <details><summary>गोविन्दराजः</summary>
 
 **नाधर्म** इति । यथा **गौः **वाहनदोहनादिना **सद्यो लोके फलति** तथ्**आधर्मश् चरितः सदो न फलति** । किं तर्हि । **शनैः शनैः **कालान्तरेण फलदानोन्मुखी भवन् **कर्तुर् मूलानी**व **कृन्तति **। कृत्तमूलापादपवत् कर्तारं निअरन्वयं नाशयति ॥ ४.१७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-171	Let him, though suffering in consequence of his righteousness, never turn his heart to unrighteousness; for he will see the speedy overthrow of unrighteous, wicked men.
 </details>
 
 <details><summary>भारुचिः</summary>
@@ -151,6 +151,11 @@ _सुहृद् भूत्वा दृष्टम् अर्थं द
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/172_nA-dharmash_charito.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+172	Unrighteousness, practised in this world, does not at once produce its fruit, like a cow; but, advancing slowly, it cuts off the roots of him who committed it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Unrighteousness, practised in this world, does not, like the Earth (or the Cow) bring its fruit immediately; but, accumulating gradually, it outs off the roots of the perpetrator.—(172)
@@ -203,11 +208,6 @@ taken as an example *per* similarity, then it means ‘earth’,—the earth doe
 
 शास्त्रेणानियमितकालपरिपाकत्वाच्छुभाशुभकर्मणां नाधर्मोऽनुतिष्ठतः तत्काल एवं फलति । गौरिवेह भूमिपक्षे साधर्म्यदृष्टान्तः । यथा भूमिरुप्तबीजमात्रा तदैव प्रचुरपचेलिमफलव्रीहिस्तबकसंव-लिता न भवति किंतु नियमफलपाकसमयमासाद्य ।पशुपक्षे वैधर्म्यदृष्टान्तः । यथा गौः पशुर्वाहदोह्नाभ्यां सद्यः फलति नैवमधर्मः, किंतु क्रमेणावर्तमानः फलोन्मुखीभवन्नधर्मकर्तुर्मूलानि छिनत्ति ।मूलच्छेदेन सर्वनाशो लक्ष्यते । देहधनाद्यन्वितो नश्यति ॥१७२॥
 </details>
-
-<details><summary>Bühler</summary>
-
-172	Unrighteousness, practised in this world, does not at once produce its fruit, like a cow; but, advancing slowly, it cuts off the roots of him who committed it.
-</details>
 </details>
 </div>
 
@@ -221,6 +221,11 @@ taken as an example *per* similarity, then it means ‘earth’,—the earth doe
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/173_yadi_nAtmani.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+173	If (the punishment falls) not on (the offender) himself, (it falls) on his sons, if not on the sons, (at least) on his grandsons; but an iniquity (once) committed, never fails to produce fruit to him who wrought it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If not on himself, then on his sons,—if not on his sons, then on his grandsons (falls the punishment); an unrighteousness, once committed, never fails to bring its consequences to the perpetrator.—(173)
@@ -267,11 +272,6 @@ This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 68)—which adds ‘
 **यदीति । यदि **स्वशरीरव्याध्युत्पादनद्वारेणाधर्मो न फलति तदा पुत्रपौत्ररोगाद्युद्भवमुखेन फलति । न त्व् असौ कृतः कदाचित् **कर्तुर् निष्फलो भवति** यैश् च दुष्कृतवशेन व्याध्याद्युपेतैर् भवितव्यं तथाविधाः तस्यात्मदुष्कृतबलात् तद्विपत्त्यादिदर्शनपीडानुभवार्थं पुत्रपौत्रा इह जन्मनि जन्मान्तरे वा जायन्ते ॥ ४.१७३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-173	If (the punishment falls) not on (the offender) himself, (it falls) on his sons, if not on the sons, (at least) on his grandsons; but an iniquity (once) committed, never fails to produce fruit to him who wrought it.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इह फलदर्शनान् नानर्थकम् (?) अनिष्टकर्म प्रत्येतव्यम् । किं तर्हि । एवं पुत्रपौत्रान् इष्टफलभोगेन शनैर् विपच्यते ऽनिष्टं कर्मार्थवादश् चायम् अकृताभ्यागमतः विप्रणाशदोषप्रसङ्गाच् छास्त्रविरोधाच् चैव पुत्रादीनाम् अनिष्टफलसम्बन्धप्रदर्शनेन विभीषिकैषा अकार्यनिवृत्त्यर्था । तथा च न चेह (?) शास्त्रम् अपरिगणय्यैवं व्यवस्थाभङ्गेन वर्तितव्यं येन धर्मेण धृते तावच् छास्त्रव्यवस्थाभ्ङ्गाख्येन (?) त्व् आत्मसमवायिना मुख्येन कृतं तन्मुखस्य वृद्धिकार्यासम्भवात् । तावाच्छब्दश् चाकाङ्क्षया शिरःकम्पोपगृहीतया व्याख्यानीयः ।
@@ -301,6 +301,11 @@ This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 68)—which adds ‘
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/174_adharmeNaidhate_tAvat.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+174	He prospers for a while through unrighteousness, then he gains great good fortune, next he conquers his enemies, but (at last) he perishes (branch and) root.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For a time one prospers through unrighteousness, for a while he experiences good things, and for a time he conquers his enemies; but, after all, he perishes root and branch.—(174)
@@ -341,11 +346,6 @@ For these reasons, righteousness should not be forsaken.—(1 74).
 
 **अधर्मेनेति । अधर्मेण **परस्वहरणादिना सम्प्रति धनवृद्ध्यादियुक्तो भवति । तदनन्तरं तद्धनाद्युपभोगद्वारेण सुखान्य् अनुभवति, तदनुभावाच् च सुखित्वादिना शत्रून् अभिभवति, ततो ऽस्मिन्न् एव जन्मनि सर्वनाशं नश्यति मृतो वा अपुनर्भवं नरकम् उपैति ॥ ४.१७४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-174	He prospers for a while through unrighteousness, then he gains great good fortune, next he conquers his enemies, but (at last) he perishes (branch and) root.
-</details>
 </details>
 </div>
 
@@ -359,6 +359,11 @@ For these reasons, righteousness should not be forsaken.—(1 74).
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/175_satya-dharmAryavRtteShu_shauche.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+175	Let him always delight in truthfulness, (obedience to) the sacred law, conduct worthy of an Aryan, and purity; let him chastise his pupils according to the sacred law; let him keep his speech, his arms, and his belly under control.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall always delight in truthfulness, Law and right conduct, as also in ceanliness (cleanliness?); he shall govern his pupils in accordance with law,—with his speech arms, and belly duly controlled.—(175)
@@ -421,11 +426,6 @@ generative organ, the stomach, the hands, the feet, speech and eyes. He shall be
 यत एवम् अतः **सत्यधर्मार्यवृत्तेष्व्** इति । **सत्यधर्म**साध्वाचारशौचेषु, सर्वदा रतिं भावयेत् । शासनीयांश् च भार्यादीन् “पृष्ठतस् तु शरीरस्य” इत्यादिशास्त्रमर्यादया **वाग्बाहूदर**सयमयुक्तो नियमयेद् इत्य् उक्तम् । पुनर्वचन अशिष्टानाम् अभिनिवेशदार्ढ्यार्थम् ॥ ४.१७५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-175	Let him always delight in truthfulness, (obedience to) the sacred law, conduct worthy of an Aryan, and purity; let him chastise his pupils according to the sacred law; let him keep his speech, his arms, and his belly under control.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सर्वस्नातककर्मणाम् उपहारार्थ उक्तानुवादः । "न सीदन्न् अपि धर्मेण मनो ऽधर्मे निवेशयेत्" (म्ध् ४.१७१) इत्य् अत्र श्लोकोपदिष्टः "त्रिवर्ग इति तु स्थित्ः" (म्ध् २.२२४) इति यतस् तदपेक्षय्येदम् उच्यते ।
@@ -443,6 +443,11 @@ generative organ, the stomach, the hands, the feet, speech and eyes. He shall be
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/176_parityajed_artha-kAmau.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+176	Let him avoid (the acquisition of) wealth and (the gratification of his) desires, if they are opposed to the sacred law, and even lawful acts which may cause pain in the future or are offensive to men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall, avoid such wealth and pleasures as are opposed to righteousness, as also righteousness if it be conducive to unhappiness, or disapproved by the people.—(176)
@@ -521,11 +526,6 @@ trying to attain the other three purposes, and he shall follow the path of liber
 **परित्यजेद्** इति । सत्य् अपि च त्रिवर्गस्य पुरुषार्थत्वाभिधाने **पर्तित्यजेद्** इति । **धर्मम् अप्य् असुखोदर्कं लोकसङ्क्रुष्टम् एव च **। धर्मविरुद्धाव् अर्थकामौ असुखोत्तरकालं चाशक्तस्य तीव्रतपश्चरणादिरूपं धर्मं लोकाभिशापजनकं च मधुपर्कगोवधादिरूपं नाचरेत् ॥ ४.१७६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-176	Let him avoid (the acquisition of) wealth and (the gratification of his) desires, if they are opposed to the sacred law, and even lawful acts which may cause pain in the future or are offensive to men.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अर्थकामौ** धर्मानुबन्धिनौ स्याताम् । तेन (तौ?) सत्य् अपि त्रिवर्गपरिग्रहधर्मं चाप्य् असुखोदर्कं वर्जयेद् असुखोदर्कम् असमर्थस्य स्वशरीरोपरोधिनी नेष्यते येन **[१९५]** त्रियात्मयोग्यस्य धनम् अपेक्ष्यते । दृष्टार्थवद् अदृष्टार्थे ऽपि शास्त्रशिष्टत्वाच् च आत्मसंरक्षणस्य लोकसङ्क्रुष्टो धर्मस् तत्सादृश्यवादार्थं यज्ञ[आ]चर्यते ऽथ वा सर्वम् अप्य् एतत् सिद्धम् । लोकसङ्क्रुष्टार्थं तु पुनर् आरभ्यते । स चेद् ज्यायान् गोवधो यथा यज्ञाङ्गप्रतिरोधे वा सोमविक्रयिणं ब्रह्मचर्यपुंश्चल्याक्रोशस् तु प्रतिषिध्यते । विधानसामर्थ्यात् तस्य शुक्ल(?)वचनप्रतिषेधाद् वा न कर्तव्यः । अपरे तु परदारम् उदाहरन्ति सत्यवचने वा प्राणिविनाशं प्रायश्चित्तोपदेशाद् "वाग्देवत्यैस् तु चरुभिः" (म्ध् ८.१०५) इत्येवमादि । एवं च सति –
@@ -543,6 +543,11 @@ trying to attain the other three purposes, and he shall follow the path of liber
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/177_na_pANi-pAda-chapalo.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+177	Let him not be uselessly active with his hands and feet, or with his eyes, nor crooked (in his ways), nor talk idly, nor injure others by deeds or even think of it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not be fickle with his hands and feet, nor fickle with his eyes, nor crooked, nor fickle with his speech, nor harm others by deed or thought.—(177)
@@ -587,11 +592,6 @@ with his eyes, nor with his limbs; such should be the conduct of the cultured.�
 <details><summary>गोविन्दराजः</summary>
 
 **न पाणिपादचपल** इति । हस्तपादचक्षुर्वाग्व्यापारान् निष्प्रयोजनान् न कुर्यात् अनृजुश् च क्रूरकृत् परोपघातकम् अयुक्तबुद्धिश् च न स्याद् इति । पुनर् वचनम् उक्तप्रयोजनम् ॥ ४.१७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-177	Let him not be uselessly active with his hands and feet, or with his eyes, nor crooked (in his ways), nor talk idly, nor injure others by deeds or even think of it.
 </details>
 
 <details><summary>भारुचिः</summary>

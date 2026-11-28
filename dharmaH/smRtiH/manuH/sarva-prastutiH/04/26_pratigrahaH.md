@@ -12,6 +12,11 @@ title = "२६ प्रतिग्रहः"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/247_edhaudakam_mUla-phalam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+247	He may accept from any (man), fuel, water, roots, fruit, food offered without asking, and honey, likewise a gift (which consists in) a promise of protection.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He may accept from all persons fuel, water, roots, and fruits, and food that is offered, as also honey and the gift of fearlessness.’—(247)
@@ -94,11 +99,6 @@ tanks and wells, milk in the cow-pen,—these may he accepted even from one whos
 **एकोदकम् **इति । काष्ठोदकफलमूलाक्षिकम् अन्नं च अयाचितोपनतम् अनापत्प्रकरणात् पतिताद्यत्यन्तकुत्सितवर्जं **सर्वतः प्रतिगृह्णीयात् **। तथा अभयं चात्मपरित्राणम् अत्यन्तप्रीतिकरं मत्वा दक्षिणातुल्यम् आत्मभयरक्षणसमर्थम् इति सर्वतश् चण्डालादेर् अप्य् अङ्गीकुर्यात् ॥ ४.२४७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-247	He may accept from any (man), fuel, water, roots, fruit, food offered without asking, and honey, likewise a gift (which consists in) a promise of protection.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अजीवतः प्रतिग्रहो येभ्यो ऽसत्कारिभ्यः शूद्रश् (?) चेष्यते तेभ्य एवम् **एधोदकादीन्य्** अनापद्य् अप्य् अभ्यनुज्ञायान्त अनापत्प्रकरणोपदेशसामर्थ्याद् अस्य कृतान्नस्य चाभ्युद्यतस्य नियमाद् **एधोदकानि** याचित्वा विप्रतिगृह्णीयाद् इत्य् एतद् अर्थाद् आपद्यते । अन्यथा ह्य् अन्नसम्बन्धो ऽभ्युदितशब्दः प्रयोजनाभावाद् अवक्तव्यः स्यात् । दण्डœउपिकया चैधोदकादीनाम् अयाचितोपपन्नानाम् अप्रणोदः (?) सिद्धः । अयाचितलाभस्य लघुतरसामर्थात् । अथ वायम् **अभ्युद्यत**शब्दः सर्वेषाम् एवैधोदकादीनां विशेषणमात्रः स्यात् । ततो ऽयम् अयाचितलाभः सर्वद्रव्यविषय एव, नान्नमात्रस्य । तथा च गौतमः प्रशस्तं द्विजातिभ्यः प्रतिग्रहम् उक्त्वा "एधोदकादीन्य् अप्राणोद्यानि सर्वेभ्यः" (ग्ध् १७.२–३) इत्य् आह । अस्यार्थवादः ।
@@ -116,6 +116,11 @@ tanks and wells, milk in the cow-pen,—these may he accepted even from one whos
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/248_AhRtAbhyudyatAm_bhixAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+248	The Lord of created beings (Pragapati) has declared that alms freely offered and brought (by the giver himself) may be accepted even from a sinful man, provided (the gift) had not been (asked for or) promised beforehand.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Alms brougt forward and offered, and not previously begged, Prajāpati has declared to be acceptable, even from a sinful person.—(248).
@@ -192,11 +197,6 @@ prostitute, the eunuch, the dancer—gifts of these should be refused, even when
 **आहृताभ्युद्यताम्** इति । प्रतिग्रहीतृदेशमानीतां दतुः चोद्यमितां “इदं तुभ्यं दास्यामि” इत्य् एवं पूर्वम् अकथितां गोहिरण्यादिभिक्षां दुष्टकर्मकारिणो ऽपि अनापत्प्रकरणात् पतिताद्यत्यन्तकुत्सितवर्जं हिरण्यगर्भो ग्राह्यं मन्यते स्म ॥ ४.२४८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-248	The Lord of created beings (Pragapati) has declared that alms freely offered and brought (by the giver himself) may be accepted even from a sinful man, provided (the gift) had not been (asked for or) promised beforehand.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 आहृता चासौ तं देशम् आनीता यत्र प्रतिग्रहीताभ्युदिता च तद्देयत्वेन कल्पिता । **आहृताभ्युदिता**थ वा हृता गवादिप्राणिभिक्षां महार्हाभ्युद्यतां हिरण्याद्यपराणिभिक्षां एवं चैतद् देहवतः पूर्वम् अप्रचोदितां स्वयं तत्प्रयुक्तेन चान्येन चान्येन विद्यान्ना (?) लिङ्गेन ग्राह्यम् । एताम् एवं विशिष्टां भिक्षां **प्रजापतिर् मेने** (?) । प्रजापतिग्रहणं चायाचितलाभस्तुत्यर्थम् । "**अपि दुष्कृतकर्मणः**" वर्णापशदात् । किं पुनः प्रशस्तद्विजातिशूद्रेभ्यः (?) **अपिस्** तत्र सम्भावनायां न समुच्चये । असत्त्वाद् दारूणाम् अप्रतिग्राह्या शङ्कयेयम् अयाचितलाभस्तुतिप्ररोचना याच्यते । निर्दोषतया अयाचितलाभस्याल्पदोषतया न ह्य् अस्मात् स्तुतिः प्रवर्तत इति कृत्वा स्तुत्यायम् अर्थो ऽपि ज्ञातुं शक्यः । आत्मार्थः तावद् अयाचितं न नियमतो ग्राह्यकतयैवम् उद्दिश्यते । गुर्वादिप्रयोजने त्व् एतस्मिन् नियमयिष्यते ग्रहणस्य । येन तत्प्रत्याख्यानम् आह –
@@ -214,6 +214,11 @@ prostitute, the eunuch, the dancer—gifts of these should be refused, even when
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/249_nA-shnanti_pitaras.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+249	During fifteen years the manes do not eat (the food) of that man who disdains a (freely-offered gift), nor does the fire carry his offerings (to the gods).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of the man that disdains it, the Pitṛs do no eat any food for ten and five years; nor does fire convey his offering to the gods.—(249)
@@ -271,11 +276,6 @@ This verse is quoted in *Aparārka* (p. 407);—and in *Hemādri* (Dāna, p. 56)
 **नाश्नन्तीति **। तदीयं कव्यं **पञ्चदशवर्षाणि पितरो **नादन्ति **हव्यं च **पुरोडाशादि देवान् प्रति **अग्निः **न प्रापयति **यस् तां **भिक्षां प्रत्याचष्टे ॥ ४.२४९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-249	During fifteen years the manes do not eat (the food) of that man who disdains a (freely-offered gift), nor does the fire carry his offerings (to the gods).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अत्रापि न ह्य् अकस्माद् अग्रहणनिन्दा युक्तेत्य् अतो ऽस्याग्रहणनियमो विज्ञायते । उक्तश् चात्र नियमो गुरुभृत्यातिथिदेवनिमित्तस्यायाचितग्रहणस्य सदुपयोगेन महाप्रयोजनत्वाद् असाधनस्य । इतरथा हि तदग्रहणे तस्य धर्मस् तत्सङ्ग्रहप्रत्यवायाय स्यात् । एवं च सतीदं तदर्थग्रहणनिन्दावचनम् **[२१०]** अर्थवद् भवतीत्य् आत्मसंयमश् चात्र श्रूयते । इत्य् उक्तेस् त्व् अयं तत्र इति उदूर्ध्वश् चायम् आत्मा सन्निहितद्रव्योपभोगात् । अतो यथोक्त एवार्थो युक्तः । यतश् चैतद् एवम् अतः –
@@ -293,6 +293,11 @@ This verse is quoted in *Aparārka* (p. 407);—and in *Hemādri* (Dāna, p. 56)
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/250_shayyA~N_gRhAn.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+250	A couch, a house, Kusa grass, perfumes, water, flowers, jewels, sour milk, grain, fish, sweet milk, meat, and vegetables let him not reject, (if they are voluntarily offered.)
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not refuse a couch, a house, kuśa grass, perfumes, water, flowers, jewels, curd, grain, fish, milk, meat and vegetables.—(250)
@@ -343,11 +348,6 @@ is presented without asking, conveyances, house, fish, Priyaṅgu corn, garlands
 **शय्यां गृहम्** इति । शयनगृहदर्भोदकपुष्परत्नदधिधानामत्स्यक्षीरमांसशाकानि गन्धवन्ति च कर्पूरादीनि अयाचितोपस्थितानि न प्रत्याचक्षीत । एधोदकादिवाक्यपठितस्योदकस्येह पुनः पाठः श्लोकद्वयस्य पठितयोः प्रत्याख्याने तुल्यत्वज्ञापनार्थः । तथा च गौतमः- “एदादीनि शय्यादिभिः सह” एकस्मिन् सूत्रे सह पठितवान् ॥ ४.२५० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-250	A couch, a house, Kusa grass, perfumes, water, flowers, jewels, sour milk, grain, fish, sweet milk, meat, and vegetables let him not reject, (if they are voluntarily offered.)
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उदकग्रहणाद् अत्र सर्वद्रव्योपसंहार एवायं न वाख्यान्तरम् इदम् अन्यथा ह्य् एधोदकादिश्लोकपठितस्योदकस्य पुनः **शय्यादिषु** पाठो ऽनर्थकः स्यात् । तथा च गौतमः एधोदकानि शय्यादिभिर् एकसूत्र एव पठति- "एधोदकयवसमूलफले"(?) (ग्ध् १७.३) इत्येवमादि । पयोग्रहणाच् च गृतादि प्रणुद्यते । **धाना**ग्रहणाच् चान्यात् कृतान्नं **मत्स्यमांसयोस्** तु नानाश्रयत्वात् पृथग्ग्रहनम् । शाकुनिकादिभ्यो मांसं कैवर्तिकेभ्यो मत्स्याः । श्लोकवच् छब्दवृत्त्या वा लोके ऽपि किं मांसम् उत मत्या इति पृथङ्मत्स्यग्रहणं गोबलीवर्दवच् च अयं तु वाक्यभेदम् आश्रित्येदम् आह । उभयेषाम् अपि त्व् एधोदकादीनां शय्यादीनां च सत्य् अर्थित्वे प्रतिग्रहः । अतश् चायम् अप्रणोदः शय्यादीनाम् अयाचितप्रतिग्रह एव प्रणोदशब्देनाभिधीयते । न त्व् अनेन नियमेनैषां प्रतिग्रह उच्यते । येन तद् अगृह्णन् प्रत्यवयाद् एवं च सति तस्य दृष्टार्थत्वे ऽपि सति अशासनीयत्वं तत् त्व् एतन् (?) न्याय्यम् अन्याय्यं वेति विचारणीयम् । यतश् चैतद् एवम् अतः –
@@ -365,6 +365,11 @@ is presented without asking, conveyances, house, fish, Priyaṅgu corn, garlands
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/251_gurUn_bhRtyAMsh.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+251	He who desires to relieve his Gurus and those whom he is bound to maintain, or wishes to honour the gods and guests, may accept (gifts) from anybody; but he must not satisfy his (own hunger) with such (presents).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the purpose of bringing relief to his teachers and dependents, and for the purpose of honoring the gods and guests, he may accept gifts from all persons; but he shall not derive from them satisfaction for himself.—(251)
@@ -424,11 +429,6 @@ dependants one may accept food from the Śūdra; but he himself shall not partak
 **गुरून् भृत्यान्** इति । मातापित्रादीन् **गुरून्** **भृत्यान्** भार्यापुत्रादीन् अवश्यम्भरणीयान् क्षुधावसन्नान् उद्धर्तुम् इच्छन् **देवतातिथींश्** च पूजयिष्यन् अनापत्प्रकरणात् पतिताद्यत्यन्तकुत्सितवर्जं **सर्वतः प्रतिगृह्णीयात् ** न रूपान्तरसद्भावे सति तेन धनेन आत्मनस् तृप्तिं कुर्यात् । मुख्योपायपरिक्षये हि अवृत्तिकर्शितः संसीदन्न् इत्य् आपद्धमं वक्ष्यति ॥ ४.२५१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-251	He who desires to relieve his Gurus and those whom he is bound to maintain, or wishes to honour the gods and guests, may accept (gifts) from anybody; but he must not satisfy his (own hunger) with such (presents).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 गुरवः पित्रादयः पुत्रदारप्रभृतयो भृत्याः तान् क्षुद्योगपङ्कलग्नान् उद्धर्तुम् इच्छन्न् अर्चिष्यंश् च देवताः तद् अप्य् असाधनयेच्छया देवतानां च क्षुद्योगासम्भवाद् अत्राव्यना(?)शब्दः प्रयुक्तः । येन गुरुवत् कर्ता सम्भरणं नास्त्य् एवम् अतिथिष्व् अपि वक्तव्यम् । यत एते तत्पूजायै सर्वतः प्रतिगृह्णीयाद् अपशस्तद्विजातिशूद्र्भ्यो ऽपीतीत्य् उक्तम् । न त्व् आपत्कल्पविहितेभ्यो ऽत्यन्तासद्भिः प्रकरणभेदाद् गुर्वादिप्रयोजनत्वाच् चास्यावृत्तिकर्शितस्यापत्कल्पोपदेशः । तथा च वक्ष्यति – "अवृत्तिकर्शितः सीदन्न् इमं धर्मं समाचरेत्" (म्ध् १०.१०१) इति । गुर्वाद्यर्थस् तु प्रतिग्रहाच्छादनवृत्तेनावृत्तिकर्शितस्य । "**न तु तृप्येत् स्वयं ततः**" इत्य् एतत् कृतव्याख्यानम् ।
@@ -454,6 +454,11 @@ _कथं तर्ह्य् आत्मा यापयितव्यः 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/252_guruShu_tv.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+252	But if his Gurus are dead, or if he lives separate from them in (another) house, let him, when he seeks a subsistence, accept (presents) from good men alone.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When, however, the Teachers are dead, or when one lives in his house without them,—then, seeking for his own subsistence, he may always accept gifts from good persons.—(252)
@@ -488,11 +493,6 @@ The term, ‘*Teachers*, ‘here includes all *dependants* also.
 **गुरुष्व्** इति । मात्रादिष्व् **अतीतेषु तैर् वा विना गृहे वसन् **आत्मजीवम् अन्विच्छन् अनापदि सर्वदा साधुभ्य एव प्रतिगृह्णीयात् ॥ ४.२५२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-252	But if his Gurus are dead, or if he lives separate from them in (another) house, let him, when he seeks a subsistence, accept (presents) from good men alone.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एतस्माच् च गम्यते नायम् आपत्कल्पप्रतिग्रहो ऽत्यन्तासद्भ्यो ऽपि गुर्वादिपूजाप्रयोजन इति । कर्मणा शूद्रस्याभोज्यान्नत्वम् इत्य् उक्तम्, नेतरस्य । "नाद्याच् छूद्रस्य पक्वान्नम्" (म्ध् ४.२२३) इत्य् अत्र श्लोके । इष्यते चानन्यस्यापि भोज्यान्नत्वम्, यत इदम् आरभ्यते अप्राप्तप्रापणार्थम् –
@@ -510,6 +510,11 @@ The term, ‘*Teachers*, ‘here includes all *dependants* also.
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/253_ArdhikaH_kulamitram.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+253	His labourer in tillage, a friend of his family, his cow-herd, his slave, and his barber are, among Sudras, those whose food he may eat, likewise (a poor man) who offers himself (to be his slave).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 His own ploughman, hereditary friend, cowherd, slave and barder,—among Śūdras; these are persons whose food may be eaten; as also one who offers himself.—(253)
@@ -562,11 +567,6 @@ made with milk may be eaten even from a Śūdra.’
 <details><summary>गोविन्दराजः</summary>
 
 **आर्धिक **इति । **शूद्रेषु **मध्यात् कर्षककुलमित्रगोपालदासनापिता **भोज्यान्नाः । यश् च **त्वदाश्रितो ऽहम् इत्य् एवम् **आत्मानं **समर्पयेत् । शूद्रश् च नापितादिकर्मणा जीवेत् कारुककर्मभिः इति वक्ष्यति ॥ ४.२५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-253	His labourer in tillage, a friend of his family, his cow-herd, his slave, and his barber are, among Sudras, those whose food he may eat, likewise (a poor man) who offers himself (to be his slave).
 </details>
 
 <details><summary>भारुचिः</summary>

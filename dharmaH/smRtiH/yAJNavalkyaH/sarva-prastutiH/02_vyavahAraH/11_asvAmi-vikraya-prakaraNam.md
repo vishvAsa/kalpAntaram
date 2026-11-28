@@ -23,6 +23,12 @@ title = "११ अस्वामि-विक्रय-प्रकरणम�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/11_asvAmi-vikraya-prakaraNam/168_svaM_labhetAnyavikrItaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A man may recover his own property sold by another; there is fault on the buyer if purchased in secret;  
+from a disreputable person, in secret, at a reduced price, and at an untimely hour, he is a thief.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वं लभेतान्य-विक्रीतं  
@@ -127,6 +133,12 @@ _उक्तो द्रव्याणां स्वत्वसंबन�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/11_asvAmi-vikraya-prakaraNam/169_naShTApahRtam_AsAdya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Finding his lost or stolen property, a man should cause the taker to be arrested;  
+and when time and place have passed, he may seize him and deliver him himself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नष्टापहृतम् आसाद्य  
@@ -183,6 +195,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/11_asvAmi-vikraya-prakaraNam/170_vikretur_darshanAch.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+By producing the seller there is exoneration; the owner receives the property, the king the fine,  
+and the buyer obtains the purchase price from the one who was the seller to him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विक्रेतुर् दर्शनाच् छुद्धिः  
@@ -276,6 +294,12 @@ _हर्तृतया च राजन्य् आवेदितस्य 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/11_asvAmi-vikraya-prakaraNam/171_Agamenopabhogena_naShTam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Lost property must be proved by title and by possession; otherwise,  
+a fine of one-fifth belongs to the king for him who fails to prove it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आगमेनोपभोगेन  
@@ -376,6 +400,12 @@ _कथं पुनः स्वाम्यवगतिः । उच्यत
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/11_asvAmi-vikraya-prakaraNam/172_hRtam_pranaShTaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who recovers stolen or lost property from the hand of another  
+without informing the king shall be fined ninety-six paṇas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हृतं प्रनष्टं यो द्रव्यं  
@@ -430,6 +460,12 @@ _यतश् चैतद् एवम्, अतः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/11_asvAmi-vikraya-prakaraNam/173_shaulkikaiH_sthAnapAlair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When lost or stolen property is brought by customs officials or guards of royal stations,  
+the owner may claim it within a year; after that, the king takes it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शौल्किकैः स्थान-पालैर् वा  
@@ -504,6 +540,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/11_asvAmi-vikraya-prakaraNam/174_paNAn_ekashaphe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should give four paṇas for a single-hoofed animal, five for a human,  
+two each for buffaloes, camels, and cattle, and a quarter-paṇa for a goat or sheep.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पणान् एकशफे दद्याच्  

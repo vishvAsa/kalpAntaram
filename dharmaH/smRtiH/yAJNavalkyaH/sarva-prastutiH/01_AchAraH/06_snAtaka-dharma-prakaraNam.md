@@ -12,6 +12,12 @@ title = "०६ स्नातक-धर्म-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/129_na_svAdhyAyavirodhyartham.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not pursue wealth that conflicts with the recitation of the Veda, nor from any source whatsoever,  
+nor through illicit attachment; and he should always be content.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न स्वाध्याय-विरोध्य्-अर्थम्  
@@ -113,6 +119,12 @@ _निसर्गजननानुसारिणो याजनाद्य
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/130_rAjAntevAsiyAjyebhyaH_sIdann.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When distressed by hunger, he may desire wealth from the king, from pupils, or from sacrifice patrons;  
+and he should avoid hypocrites, dialecticians, heretics, and those acting like herons.
+</details>
+
 <details><summary>मूलम्</summary>
 
 राजान्तेवासि-याज्येभ्यः  
@@ -250,6 +262,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/131_shuklAmbaradharo_nIcha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Wearing white garments, with his hair, beard, and nails trimmed, pure,  
+he should not eat in sight of his wife, nor wearing a single garment, nor standing up.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शुक्लाम्बर-धरो नीच-  
@@ -336,6 +354,12 @@ _अधुनान्यान् अप्य् अस्यैव विस�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/132_na_saMshayam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not enter into danger; he should not utter an unpleasant word without cause;  
+nor what is harmful, nor what is untrue; he should not be a thief, nor a usurer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न संशयं प्रपद्येत  
@@ -476,6 +500,12 @@ _किं च _।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/133_dAxAyaNI_brahmasUtrI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Wearing gold earrings, wearing the sacred thread, carrying a bamboo staff and a water pot,  
+he should circumambulate a deity, a mound of earth, a cow, a Brahmin, and sacred trees.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दाक्षायणी ब्रह्म-सूत्री  
@@ -638,6 +668,12 @@ _अपि च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/134_na_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not urinate into a river, in shade, on a path, in a cowshed, in water, or in ashes;  
+nor facing fire, the sun, a cow, the moon, the twilight, water, a woman, or a twice-born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न तु मेहेन् नदी-छाया-  
@@ -722,6 +758,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/135_nexetArkan_na.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not look at the [eclipsed] sun, nor at a naked woman, nor at one engaged in sexual intercourse,  
+nor at urine or feces, nor, being impure, at Rāhu or the stars.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नेक्षेतार्कं न नग्नां स्त्रीं  
@@ -807,6 +849,12 @@ _इदं चान्यत् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/136_ayam_me.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should recite the entire mantra beginning 'This is my thunderbolt';  
+he should not walk uncovered when it rains, nor sleep with his head to the west.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अयं मे वज्र इत्य् एवं  
@@ -853,6 +901,12 @@ _इदं चान्यत् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/137_ShThIvanAsRkshakRnmUtra_retAMsy.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not cast spittle, blood, feces, urine, or semen into water;  
+he should not warm his feet in fire, nor should he step over it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ष्ठीवनासृक्-शकृन्-मूत्र-  
@@ -936,6 +990,12 @@ _इदं चान्यत् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/138_jalam_piben.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not drink water with cupped hands; he should not wake a sleeping person;  
+he should not play with dice, nor associate with violators of duty or the diseased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जलं पिबेन् नाञ्जलिना  
@@ -1005,6 +1065,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/139_viruddhaM_varjayet.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should avoid improper acts, the smoke of a corpse, swimming across a river,  
+and standing on hair, ashes, chaff, hot cinders, or potsherds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विरुद्धं वर्जयेत् कर्म  
@@ -1088,6 +1154,12 @@ _इदं चान्यत् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/140_naAchaxIta_dhayantI~N.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not point out a suckling cow; he should never enter except through a door;  
+he should not accept gifts from a greedy king who acts contrary to scripture.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न+आचक्षीत धयन्तीं गां  
@@ -1144,6 +1216,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/141_pratigrahe_sUnichakri.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In receiving gifts, a slaughterhouse-keeper, an oil-presser, a tavern-keeper, a courtesan, and a king—  
+these are each ten times more corrupt than the one preceding, in that order.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिग्रहे सूनि-चक्रि-  
@@ -1212,6 +1290,12 @@ _इदानीं तम् एव निन्दातिशयम् आह
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/142_adhyAyAnAm_upAkarma.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The opening rite for Vedic study occurs on the full moon of Śrāvaṇa, or with the asterism Śravaṇa,  
+or with Hasta when herbs appear, or else on the fifth day of the bright half of Śrāvaṇa.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अध्यायानाम् उपाकर्म  
@@ -1281,6 +1365,12 @@ _एवं तावद् अर्थप्रवृत्त्याश्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/143_pauShamAsasya_rohiNyAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the Rohiṇī day of the month of Pauṣa, or on the Aṣṭakā day,  
+he should properly perform outside, by the water's edge, the concluding suspension rite of the Vedic texts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पौष-मासस्य रोहिण्याम्  
@@ -1355,6 +1445,12 @@ _एवं छन्दांस्य् उपाकृत्यार्ध�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/144_tryaham_preteShv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Recitation is suspended for three days on the death of students, sacrificial priests, gurus, or relatives,  
+and likewise at the opening and concluding rites, and upon the death of a Vedic scholar of one's own Vedic branch.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्र्यहं प्रेतेष्व् अनध्यायः  
@@ -1421,6 +1517,12 @@ _उपाकर्मण्य् उत्सर्गे च कृते ऽ
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/145_sandhyAgarjitanirghAta_bhUkampolkAnipAtane.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When twilight brings thunder, meteoric thunderclaps, earthquakes, or falling meteors,  
+[recitation is suspended for a day and night,] and having completed a Veda for a day and a night, or upon studying an Āraṇyaka;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्ध्या-गर्जित-निर्घात-  
@@ -1490,6 +1592,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/146_panchadashyA~n_chaturdashyAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the fifteenth, the fourteenth, and the eighth days, during an eclipse,  
+at the junction of the seasons, after eating at an ancestral rite, or having accepted [a gift related to] an ancestral rite;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्चदश्यां चतुर्दश्याम्  
@@ -1579,6 +1687,12 @@ _तथा च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/147_pashumaNDUkanakula_shvAhimArjAramUShakaiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a beast, frog, mongoose, dog, snake, cat, or rat  
+runs between [the teacher and pupil], the suspension lasts for a day and a night, as also when Indra's banner falls or is raised;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पशु-मण्डूक-नकुल-  
@@ -1637,6 +1751,12 @@ _किं च_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/148_shvakroShTRgardabholUka_sAmabANArtaniHsvane.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When there is the sound of a dog, jackal, donkey, or owl, or of a Sāman, an arrow, or cries of distress,  
+in the vicinity of impure matter, a corpse, a Shudra, an outcaste, a cremation ground, or a degraded person;
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्व-क्रोष्टृ-गर्दभोलूक-  
@@ -1733,6 +1853,12 @@ _किं च_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/149_deshe.ashuchAv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In an unpurified place and when oneself is unpurified, during an interplay of lightning and thunder,  
+after eating while the hands are still wet, while inside water, at midnight, or in a violent wind;
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशे ऽशुचाव् आत्मनि च  
@@ -1777,6 +1903,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/150_pAMsupravarShe_digdAhe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+During a dust storm, an unnatural glow on the horizon, at twilight, in fog, or in times of fear,  
+while running, when there is a foul odour, and when a distinguished guest has arrived at the house;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पांसु-प्रवर्षे दिग्-दाहे  
@@ -1805,6 +1937,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/151_kharoShTrayAnahastyashva_nauvRxeriNarohaNe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+While mounting a donkey, camel, carriage, elephant, horse, boat, tree, or barren soil—  
+these thirty-seven suspensions of Vedic study are known to last for the duration of the cause.
+</details>
+
 <details><summary>मूलम्</summary>
 
 खरोष्ट्र-यान-हस्त्य्-अश्व-  
@@ -1848,6 +1986,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/152_devartviksnAtakAchArya_rAjnA~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not step upon the shadow of gods, sacrificial priests, initiated students, preceptors, kings, or another's wife,  
+nor upon blood, feces, urine, spittle, cleansing pastes, and the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवर्त्विक्-स्नातकाचार्य-  
@@ -1932,6 +2076,12 @@ _शिष्टागमने ऽनध्याय उक्तः । तत
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/153_viprAhixatriyAtmAno_nAvajneyAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A Brahmin, a serpent, a Kshatriya, and oneself should never be treated with contempt;  
+he should strive for prosperity until death; he should not strike anyone in a vulnerable spot.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विप्राहि-क्षत्रियात्मानो  
@@ -2017,6 +2167,12 @@ _<u>ननु</u> एवं सत्य् अप्रकृष्टे ऽ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/154_dUrAd_uchChiShTaviNmUtra.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should cast off at a distance food remnants, feces, urine, and foot-washing water;  
+he should properly and constantly practice the conduct prescribed by revealed scripture and traditional law.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दूराद् उच्छिष्ट-विण्-मूत्र-  
@@ -3205,6 +3361,12 @@ _इदानीं मानप्रसङ्गाद् गृहदेव�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/155_gobrAhmaNAnalAnnAni_nochchChiShTo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not touch cows, Brahmins, fire, or food when he is contaminated by food remnants, nor with his foot;  
+he should not revile or strike [anyone], but he may discipline a son or a student.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गो-ब्राह्मणानलान्नानि  
@@ -3316,6 +3478,12 @@ _अस्यापवादः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/156_karmaNA_manasA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should diligently practice duty in deed, mind, and speech;  
+yet he should not perform what is unheavenly and hated by the world, even if it conforms to duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कर्मणा मनसा वाचा  
@@ -3411,6 +3579,12 @@ _अस्यापवादः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/157_mAtRpitratithibhrAtR_jAmisambandhimAtulaiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+With mother, father, guests, brothers, sisters, relations, maternal uncles,  
+the elderly, children, the sick, preceptors, physicians, dependents, kinsmen,
+</details>
+
 <details><summary>मूलम्</summary>
 
 मातृ-पित्र्-अतिथि-भ्रातृ-  
@@ -3487,6 +3661,12 @@ _मान्यप्रसङ्गाद् अन्यद् अप्य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/158_RtvikpurohitApatya_bhAryAdAsasanAbhibhiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sacrificial priests, domestic chaplains, offspring, wife, servants, and siblings—  
+by avoiding disputes with these, a householder conquers all the worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋत्विक्-पुरोहितापत्य-  
@@ -3507,6 +3687,12 @@ _मान्यप्रसङ्गाद् अन्यद् अप्य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/159_pancha_piNDAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Without lifting out five balls of earth, he should not bathe in waters belonging to another;  
+he may bathe in rivers, natural reservoirs made by gods, lakes, and springs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्च पिण्डान् अनुद्धृत्य  
@@ -3681,6 +3867,12 @@ _इदं चान्यत् परिभवाकरणप्रसङ्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/160_parashayyAsanodyAna_gRhayAnAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should avoid another's bed, seat, garden, house, and carriage  
+that are not given to him; except in distress, he should not eat the food of one who maintains no sacred fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पर-शय्यासनोद्यान-  
@@ -3759,6 +3951,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/161_kadaryabaddhachaurANAM_klIbarangAvatAriNAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of a miser, a prisoner, a thief, a eunuch, an actor,  
+a cane-worker, an accused sinner, a usurer, a courtesan, one initiated by a group;
+</details>
+
 <details><summary>मूलम्</summary>
 
 कदर्य-बद्ध-चौराणां  
@@ -3880,6 +4078,12 @@ _इदानीम् अन्यान् अपि प्रसङ्गा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/162_chikitsakAturakruddha_puMshchalImattavidviShAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of a physician, an invalid, an angry man, an unchaste woman, an intoxicated man, an enemy,  
+a cruel man, a ferocious man, a degraded person, an outcaste, a hypocrite, one who eats remnants;
+</details>
+
 <details><summary>मूलम्</summary>
 
 चिकित्सकातुर-क्रुद्ध-  
@@ -3926,6 +4130,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/163_avIrAstrIsvarNakAra_strIjitagrAmayAjinAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of a woman without a protector, a goldsmith, a henpecked man, a village priest,  
+a dealer in weapons, a blacksmith, a weaver, one who lives by dogs;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवीरा-स्त्री-स्वर्ण-कार-  
@@ -3964,6 +4174,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/164_nRshaMsarAjarajaka_kRtaghnavadhajIvinAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of a pitiless man, a king, a washerman, an ingrate, one living by slaughter,  
+a clothes-dyer, one who sells liquor, and a house with a paramour;
+</details>
+
 <details><summary>मूलम्</summary>
 
 नृशंस-राज-रजक-  
@@ -4004,6 +4220,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/165_pishunAnRtinosh_chaiva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of a slanderer, a liar, an oilman, and a bard—  
+the food of these must not be eaten, nor of a seller of Soma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पिशुनानृतिनोश् चैव  
@@ -4133,6 +4355,12 @@ _य एते उक्ताः कदर्यादयः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/06_snAtaka-dharma-prakaraNam/166_shUdreShu_dAsagopAla.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Among Shudras, a servant, a cowherd, a family friend, a sharecropper,  
+and a barber are those whose food may be eaten, as well as one who surrenders himself [as a dependent].
+</details>
+
 <details><summary>मूलम्</summary>
 
 शूद्रेषु दास-गो-पाल-  

@@ -1,236 +1,220 @@
 +++
 title = "Table Of Cases Cited"
-
+proofreader = [ "Gemini 4 Hydrogen",]
 +++
 
-TABLE OF CASES CITED 
+[[Pxlvi]]
+TABLE OF CASES CITED
 
-502 
+Amrit v. Hari 865n.
 
-Amrit v. Hari 
+[[Angaji|Annaji]] v. Narayan 914
 
-8658. | Hirabbarthi v. Bai Javer 952 Angaji u. Narayan 
+Asita Mohan v. Nirode [[Moban|Mohan]] 75
 
-914 Honama v. Timannabbat 586n. Asita Mohan v. Nirode Moban 75 
+Aunjona Dasi v. Prahlada Chandra 538
 
-Iadi v, Gbania 
+Bai Diwali v. Moti 503
 
-502 Aunjona Dasi v. Prahlada 
+Bai Gulab v. Jivanlal 452n.
 
-In Re Pyro 
+Bai Jivi v. Narsingh 570
 
-888n. Cbandra 
+Bai Kashi v. [[Jannades|Jamnadas]] 452n.
 
-538 
+Bai Lakshmi v. Kaliangsing 452n.
 
-In the matter of Ram Kumari 6210. Bai Diwali v, Moti 
+Bai [[Nagabai|Nagubai]] v. Bai [[Mongbibai|Monghibai]] 639
 
-603 Ishwari Prasad v. Rai Hari Bai Gulab v. Jivanlal 
+Bai Premkunwar v. Bhika 570
 
-452n. 
+Bai [[Ramkoro|Ramkore]] v. [[Jampadas|Jamnadas]] [[50%|502]]
 
-Prasad 
+[[Bulgir|Balgir]] v. Dhondgir 952
 
-75 Bai Jivi v. Narsingh 
+[[Bbikubai|Bhikubai]] v. Hariba 586n.
 
-570 
+[[Bholapath|Bholanath]] v. [[Einperor|Emperor]] 75
 
-Jiwani v. Mula Ram Bai Kashi v. Jannades 
+[[Bhupationth|Bhupatinath]] v. Ram Lal 911
 
-4620. Bai Lakshmi v. Kaliangsing 
+[[Bioda|Binda]] v. Kaunsilya 570
 
-908 Kailasan Pillai v. Nataraja 45%n. 
+Budansa v. Fatma 621n.
 
-Kailaspath v. Parasakthi Bai Nagabai v. Bai Mongbibai 639 
+[[Chintamıp|Chintaman]] v. Dhondo 913–914
 
-525n. Bai Premkunwar v. Bhika 570 
+Chunilal v. Surajram 525n.
 
-Kali Kanta Chatterji v. Bai Ramkoro v. Jampadas 
+[[Callootor|Collector]] of [[Thapa|Thana]] v. Hari 860n.
 
-Surondra 
+[[Doosaran|Deosaran]] [[Bhartbi|Bharthi]] v. Deoki Bharthi 892
 
-916 50% 
+Dular [[Koor|Koer]] v. Dwarka[[path|nath]] 570
 
-Kesbar v. Bai Gandhi Bulgir v. Dhondgir 
+Emperor v. Narayan 164
 
-616n. 952 
+Fanindra Deb v. Rajeshwar 389
 
-Khushaloband v, Bai Mani 
+[[Gholabbai|Ghelabhai]] v. Hargovan 860n.
 
-503 Bbikubai v. Hariba 
+[[Girijapund|Girijanund]] Datta Jha v. [[Bailaja pund|Sailajanund]] Datta 910
 
-5868. Bholapath v. Einperor 
+Gitabai v. [[Sbivbakas|Shivbakas]] 952
 
-75 Lakshmibai v. Ramchandra 686 Bhupationth v. Ram Lal 
+Giyana Sambandha v. Kandasami Tambiran 908
 
-911 Madhusudan l'arvat . Shroo Bioda v. Kaunsilya 
+[[Godain|Gosain]] Ram Bharti v. [[Mabant|Mahant]] Surajbharti 962
 
-570 
+Government of Bombay v. Ganga 621n.
 
-Madhava Teertha 950 Budansa v. Fatma 
+Guru Govind Shaha Mandal v. Anand Lal [[Ghoso|Ghose]] [[467|474]]
 
-621a. 
+Hari [[Ragbunath|Raghunath]] v. Anant 916
 
-Maharaja of Kolhapur v. Chintamıp v. Dhondo 913-914 Sundaram Ayyar 
+Harischandra v. Atir Muhmud 952
 
-382 Chunilal v. Surajram 
+Hira v. Hansji [[Pom.|Pema]] 525n.
 
-525n. Morice v. The Bishop of Durbain 888 Callootor of Thapa v. Hari 860n. Motilal v. Chenohal 
+Hirabharthi v. Bai Javer 952
 
-553 Doosaran Bhartbi v. Deoki 
+Honama v. Timannabhat 586n.
 
-Muloband v. Budhi. 
+[[Iadi|Indi]] v. [[Gbania|Ghania]] 502
 
-538 Bharthi 
+In Re [[Pyro|Pyne]] 888n.
 
-892 
+*In the matter* of Ram Kumari 621n.
 
-Munpilal v. Shiama 
+Ishwari Prasad v. Rai Hari Prasad 75
 
-252u. Dular Koor v. Dwarka path 
+Jiwani v. Mula Ram 502
 
-Muthusami v. Masilamani 179 Emperor v. Narayan 
+Kailasan Pillai v. Nataraja 908
 
-164 
+[[Kailaspath|Kailasnath]] v. Parasakthi 525n.
 
-Nalipaksba v. Rajanikanto 452n. Fanindra Deb v. Rajeshwar 389 
+Kali Kanta Chatterji v. [[Surondra|Surendra]] 916
 
-Natha v, Mehta Chotalal 452u. 
+[[Kesbar|Keshav]] v. Bai Gandhi 616n.
 
-Gholabbai v. Hargovan 
+[[Khushaloband|Khushalchand]] v. Bai Mani 503
 
-Padraa Kumari v. Suraj Kumari 452n. 860n. 
+Lakshmibai v. Ramchandra [[686|586]]
 
-Paigi v. Sheo Narain Girijapund Datta Jha W. 
+Madhusudan [[l'arvat|Parvat]] v. [[Shroo|Shree]] Madhava Teertha 950
 
-570 Parami v. Mahadevi 
+Maharaja of Kolhapur v. Sundaram Ayyar 382
 
-573n. Bailaja pund Datta 
+Morice v. The Bishop of [[Durbain|Durham]] 888
 
-Pramatba Nath Mullick v. Gitabai v. Sbivbakas 
+Motilal v. [[Chenohal|Chanchal]] 553
 
-Pradyumna Kumar Mullick 735, Giyana Sambandha v. 
+[[Muloband|Mulchand]] v. Budhia 538
 
-9110., 916 Kandasami Tambiran 908 
+[[Munpilal|Munnilal]] v. Shiama 252n.
 
-Proguano Kumari v. Godain Ram Bharti v. Mabant 
+Muthusami v. Masilamani 179
 
-Surajbharti 
+[[Nalipaksba|Nalinaksha]] v. Rajanikanto 452n.
 
-Golabchand 9110., 9160. 
+Natha v. Mehta Chotalal 452n.
 
-962 Government of Bombay u. 
+[[Padraa|Padma]] Kumari v. Suraj Kumari 452n.
 
-Queen Ernpress v. Tippa 9040, Ganga 
+Paigi v. Sheo Narain 570
 
-6210. 
+Parami v. Mahadevi 573n.
 
-Rajah Mutbu Ramlinga v. Guru Govind Shaba Mandal u. 
+[[Pramatba|Pramatha]] Nath Mullick v. Pradyumna Kumar Mullick 735, 911n., 916
 
-Periyapayagum Pillai 914 Anand Lal Ghoso 
+[[Proguano|Prosunno]] Kumari v. Golabchand 911n., [[9160.|915n.]]
 
-Ramangavda v. Shivaji 467 Hari Ragbunath v. Anant 916 Rambrahma Chatterji o. Kodar Harischandra v. Atir Muhmud 952 Nath 
+Queen [[Ernpress|Empress]] v. Tippa 904n.
 
-735 Hira v. Hansji Pom. 
+Rajah [[Mutbu|Muthu]] Ramlinga v. [[Periyapayagum|Periyanayagum]] Pillai 914
 
-525a, Ramchandra v. Gopal 469 
+Ramangavda v. Shivaji 467
 
-570 
+Rambrahma Chatterji v. [[Kodar|Kedar]] Nath 735
 
-910 
+Ramchandra v. Gopal 469
 
-952 
+[[Pxlvii]]
+[[Rangangiki|Ranganaiki]] v. Ramanuja 502
 
-962 
+Ravji v. [[Dodaji|Dadaji]] 865n.
 
-Table of Cases Cited 
+Reg. v. Jaili Bhavin 904n.
 
-xlvii 
+[[Rog.|Reg.]] v. Karsan Goja 616n.
 
-888 
+[[Rog.|Reg.]] v. Sambhu 616n.
 
-Rangangiki v. Ramanuja 502 | Vidyasbankara v Vidya Ravji v. Dodaji 
+Sammantha Pandara v. [[Bellappa|Sellappa]] Chetti [[903|908]]
 
-865n. Narginha 
+Sardar Singh v. Kunj Behari 889n.
 
-950 Reg. v. Jaili Bhavin 
+[[Shamobaran|Shamcharan]] Nandi v. [[Abbiram|Abhiram]] Goswami 914
 
-9040, 
+[[Boban|Sohan]] Sing v. [[Kabla Siago|Kabla Singh]] 179
 
-Viragami v. Appagami 653 Rog. v. Karsan Goja 
+Somasundaram v. Vaithilinga 952
 
-616n. | Vyakunta Bapujiv. Goveromont Rog. v. Sambhu 
+Subrao v. Radha 75, 382
 
-6160. 
+Thakur Indraj Bux v. Thakur [[Sbeo Narosh|Sheo Naresh]] 889n.
 
-of Bombay 
+[[Talshiram|Tulshiram]] v. [[Biberi|Bihari]] Lal 75
 
-869a. Sammantha Pandara v. Bellappa 
+[[Vamaa|Vaman]] v. Collector of Thana 865n.
 
-Yamunabai v. Narayan 570 
+Vellanki Ramakrishna v. Kotagiri [[Subbamm.|Subbamma]] 468
 
-A. I. R. 1930 Oudh 426 5260. Chotti 
+[[Vonkatacharyulu|Venkatacharyulu]] v. Rangacharyulu 538
 
-908 
+Vidyapurna Tirtha v. Vidyanidhi Tirtha 908
 
-6 Bom. 24 
+Vidyashankara v. Vidya [[Narginha|Narsinha]] 950
 
-888 Sardar Singh v. Kunj Behari 8898. 
+[[Viragami|Virasami]] v. [[Appagami|Appasami]] 553
 
-14 Bom. 482 
+Vyakunta Bapuji v. [[Goveromont|Government]] of Bombay 869n.
 
-888 Shamobaran Nandi v, Abbiram 
+Yamunabai v. Narayan 570
 
-216n. 
+A. I. R. 1930 Oudh 426 [[5260.|525n.]]
 
-16 Bom. 612 Goswami 
+6 Bom. 24 888
 
-914 Boban Sing v. Kabla Siago 
+14 Bom. 482 888
 
-888 17 Bom. 351 179 
+[[16|15]] Bom. 612 216n.
 
-23 Bom. 715 Somasundaram v. Vaithilinga 952 
+17 Bom. 351 [[179|888]]
 
-12 Cal. 140 Subrao v. Radha 
+23 Bom. [[715|725]] 888
 
-75, 382 
+12 Cal. 140 539
 
-1 Mad. 164 Thakur Indraj Bux v. Thakur 
+1 Mad. 164 904n.
 
-7 Mad. 648 Sbeo Narosh 
+7 Mad. [[648|548]] 462
 
-12 Mad. 72 
+12 Mad. 72 525n.
 
-5250. Talshiram v. Biberi Lal 75 
+[[16|15]] Mad. 41 904n.
 
-16 Mad. 41 
+15 Mad. 75 904n.
 
-904a. Vamaa v. Collector of Thana 8650. 15 Mad. 75 
+20 Mad. 283 469
 
-904n. Vellanki Ramakrishna v. 
+30 [[Med.|Mad.]] 340 888
 
-20 Mad, 283 
+43 Mad. 830 469
 
-469 Kotagiri Subbamm. 468 30 Med. 340 Vonkatacharyulu v. 
+42 Madras Law Journal [[021|621]]
 
-43 Mad, 830 
+3 Moo. I. A. 198 950
 
-469 Rangacharyulu 
-
-538 42 Madras Law Journal 021 Vidyapurna Tirtha v. 
-
-3 Moo. I. A. 198 
-
-950 Vidyanidhi Tirtha 908 17 Patda 134 
-
-625a, 
-
-539 
-
-9040. 
-
-462 
-
-889n. 
-
-888 
+17 [[Patda|Patna]] 134 525n.

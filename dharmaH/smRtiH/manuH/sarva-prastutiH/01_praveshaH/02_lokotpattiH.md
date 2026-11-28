@@ -20,6 +20,11 @@ title = "०२ लोकोत्पत्तिः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/005_AsId_idam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+005	This (universe) existed in the shape of Darkness, unperceived, destitute of distinctive marks, unattainable by reasoning, unknowable, wholly immersed, as it were, in deep sleep.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This (World) was in existence in the form, as it were, of dense Darkness,—unperceived, undifferentiated, incogitable, (hence) incognizable; as it was wholly merged in deep sleep.—(5).
@@ -201,11 +206,6 @@ As a Vedāntin, Sāyaṇa identifies *tamas* with *māyā* \|
 **आसीद्** इति । जगदुत्पत्तिस्थितिप्रलयानां धर्माधर्मनिमित्तत्वात् तत्प्रतिपादनार्थत्वेनेदं शास्त्रं महाप्रयोजनतया यत्नतो ऽधिगन्तव्यम् इत्य् एतदर्थं जगदुत्पदकं प्रकरणम् आरभते । तत्र प्राग्भाविनीं तावदवस्थाम् अनेन श्लोकेनाह । **इदं** जगत् सृष्टेः प्राक् **तम** इवाभूत् । यतः कार्यात्मना सर्वस्य तदानीं विनष्टत्वात् प्रत्यक्षेण न ज्ञातम् । **अलक्षणम्** अविद्यमानलिङ्गतयाननुमेयं प्रत्यक्षपूर्वकत्वाद् अनुमानादीनां तदसम्भवे तेषाम् अप्य् अभावात् । **अप्रतर्क्यम्** अनौपम्यतयापि “गौर् इव गवयः” इति च तर्कयितुम् अशक्यम् । **अविज्ञेयम्** अर्थापत्त्यापि जीवतो देवदत्तस्य गृहादर्शनेन बहिर्भाववत् । एवं तर्हि अभाव एव प्राप्त इत्य् अत आह – **प्रसुप्तम् इवेति **। आगमाद् एवंरूपतास्य ज्ञायत इति । यथा सुषुप्तावस्थायाम् उपरतेन्द्रियमनोव्यापारः आत्मा भवति एवं सकलकार्यप्रत्यस्तमये तदानीं समन्तात् जगद् आसीद् इति । स्वप्नदर्शनरहिता हि निद्रावस्था सुषुप्तिः ॥ १.५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-005	This (universe) existed in the shape of Darkness, unperceived, destitute of distinctive marks, unattainable by reasoning, unknowable, wholly immersed, as it were, in deep sleep.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इदम् अयुक्तं वर्तते धर्मान् पृष्टेनाव्यक्तत्वाम् जगतः प्रदर्श्य तदुत्पत्तिस्थितिप्रलया अपृष्टाः कथ्यन्त इत्य् एवं च सनिःशोकमात्रम् (?) अनारभ्यम् उत्पत्त्यादि । यतत्वा (यद् वा?) न् (न) व्याख्यानं वा जगतः । किं तर्हि । कृत्स्न एवाध्यायस् तथा च पृष्टप्रतिवनार्थम् अर्थसम्बन्धं द्वितीयात् प्रभृति शास्त्रं वक्तव्यम् । अन्यथा प्रतिजाप्रमाददोष आचार्यस्य यद् भवति यत् पृष्टं च धर्मं यथोक्तविशेषणं न प्रतिवक्ति । प्रश्नानन्तरम् अप्र्ष्टं च पुराणशास्त्रविषयम् अनेनासम्बन्ध (सम्बद्धं) जगदुत्पत्त्यादिपदार्थं व्याकरोति । स एष दोषो मा भूद् इति यत इदम् अनन्तरम् अर्थसम्बन्धं (-बद्धं) तत्प्रतिवचनं वक्तव्यम् । "विद्वद्भिः सेवितः सद्भिः" (२.१) इत्येवमादि । अत्र ब्रूमः । शास्त्रस्य साधुत्वात् व्याख्यानार्थो ऽयम् अर्थवादः जगदुत्पत्तिप्रलयसतत्त्वव्याकरणप्रपञ्चम् । कथं कृत्वा । देहेन्द्रियमनोबुद्ध्यादिव्यतिरिक्तस्यात्मनो नित्यस्य सतः कर्तुर् भोक्तुश् चेष्टानिष्टैः शरीरेन्द्रियविषयैः संयोगवियोगरूपो ऽनुक्रान्तः संसार जगदुत्पत्त्यादिप्रतीते 
@@ -248,6 +248,11 @@ As a Vedāntin, Sāyaṇa identifies *tamas* with *māyā* \|
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/006_tataH_svayambhUr.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+006	Then the divine Self-existent (Svayambhu, himself) indiscernible, (but) making (all) this, the great elements and the rest, discernible, appeared with irresistible (creative) power, dispelling the darkness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thereafter, the supreme being Hiraṇyagarbha, self-born, unmanifest and bringing into view this (universe), appeared,—dispelling darkness and having his (creative) power operating upon the Elemental Substances and other things.—(6)
@@ -311,11 +316,6 @@ The reader should refer to the latter portion of the *Bhāṣya* on verse 11, wh
 <details><summary>गोविन्दराजः</summary>
 
 **तत** इति पूर्वोक्तावस्थानन्तरम् । स्वेच्छाचिकीर्षितशरीरपरिग्रहः आत्मा, **अव्यक्तः **प्रत्यक्षाद्यगोचरः ध्यानैकगम्यत्वात् उत्पादयन् जगत् । **महाभूतानि** पृथिव्यादीनि **आदि**ग्रहणात् अन्यान्य् अपि महदादीनि तत्त्वानि । **वृत्तं **प्राप्तं **ओजः** सृष्टिसामर्थ्यं येनासौ प्रकाशो बभूव शरीरग्रहणं कृतवान् **तमोनुदः** प्रलयस्य ध्वंसकः ॥ १.६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-006	Then the divine Self-existent (Svayambhu, himself) indiscernible, (but) making (all) this, the great elements and the rest, discernible, appeared with irresistible (creative) power, dispelling the darkness.
 </details>
 
 <details><summary>भारुचिः</summary>
@@ -392,6 +392,11 @@ The reader should refer to the latter portion of the *Bhāṣya* on verse 11, wh
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/007_yo.asAv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+007	He who can be perceived by the internal organ (alone), who is subtile, indiscernible, and eternal, who contains all created beings and is inconceivable, shone forth of his own (will).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He,—who is apprehended beyond the senses, who is subtile, unmanifest and eternal, absorbed in all created things and inconceivable,—appeared by himself. (7)
@@ -491,11 +496,6 @@ Gautama’s *Nyāya-sūtra*, 1.1.10. It seems that even so early as Medhātithi�
 **यो ऽसाव्** इति । **यो ऽसाव्** आत्मा **अतीन्द्रियेण** मनसा ग्रहीतुम् अश्क्यः **सूक्ष्मः** सूक्ष्मबुद्धिग्राह्यत्वात् । **सनातनः **नित्यः । **सर्वभूतमयः **सर्वस्य तत्प्रभवत्वात् । **अचिन्त्यः** विलक्षणशक्तित्वात् **स एव स्वयं **शरीरं जग्राह ॥ १.७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-007	He who can be perceived by the internal organ (alone), who is subtile, indiscernible, and eternal, who contains all created beings and is inconceivable, shone forth of his own (will).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अतीन्द्रियं मनः ।  
@@ -549,6 +549,11 @@ Gautama’s *Nyāya-sūtra*, 1.1.10. It seems that even so early as Medhātithi�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/008_so.abhidhyAya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+008	He, desiring to produce beings of many kinds from his own body, first with a thought created the waters, and placed his seed in them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Desiring to create the several kinds of created things, he, in the beginning, by mere willing, produced, out op his own body, Water; and in that he threw the seed.—(8)
@@ -620,11 +625,6 @@ expression used in the sense—‘This that is urged is spoken, as it were, to o
 **स इति** । **स** आत्मा नानाप्रकाराः **प्रजाः **स्रष्टुम् इच्छन् आत्मगृहीतशरीरात् ध्यानमात्रेणैव **अप एव **सृष्टेः प्राक् सृष्टवान् । **तासु वीर्यं **स्वशक्तिं निषिक्तवान् ॥ १.८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-008	He, desiring to produce beings of many kinds from his own body, first with a thought created the waters, and placed his seed in them.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **सो ऽभिद्याय** किम् आत्माहुः शरीरोत्पत्तिः कथम् अण्डोत्पत्तिक्रमेण किम् अर्थं येन ततः **शरीरात् स्वात् सिसृक्षुः** **विविधा प्रजाः**  
@@ -650,6 +650,11 @@ expression used in the sense—‘This that is urged is spoken, as it were, to o
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/009_tad_aNDam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+009	That (seed) became a golden egg, in brilliancy equal to the sun; in that (egg) he himself was born as Brahman, the progenitor of the whole world.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That became the golden egg, resplendent like the Sun; in that (egg) he (Hiraṇyagarbha) himself was born as Brahmā, the ‘Grand-father’ of the whole world.—(9)
@@ -727,11 +732,6 @@ said in the Bhāṣya on verse 5, to the effect that ‘the process of creation 
 **तद्** इति । **तद् **वीर्यं काञ्चनम् **अण्डं** सम्पन्नम् अत एव आदित्यसमदीप्ति । **तस्मिंश्** च जातवान् आत्मेच्छया हिरण्यगर्भः । **सर्वलोको**त्पादयिता **पितामह** इति वा सञ्ज्ञा तस्य ॥ १.९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-009	That (seed) became a golden egg, in brilliancy equal to the sun; in that (egg) he himself was born as Brahman, the progenitor of the whole world.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **तद्** वीर्यम् अपां परिणामात् प्रजापतीच्छया **तत्क्रमेणाण्डम्** **अभवद् धैमम्** हैमम् इव हैमम् उपमनोन् (उपमानार्थस्?) तद्गुणशब्दः अन्तरेणापि तद्धितार्थः । तद् यथा हारिद्रौ कुक्कुटस्य पादौ काषायौ गर्दभस्य कर्णाव् इति तत् पुनर् उपमानार्थः । अद्भिर् हि संशो(श्ले)षात् असङ्कोचाच् च हैमम् इवोच्यते तत्त्वशुद्धेर् वा । येन तत् **सहस्रांशुसमप्रभम्** । अतो वा **तद् धैमम्** उपचयपक्षेण वा इदम् उच्यते । **यस्मिन्** जातवान् **स्वयं ब्रह्मा** आत्माभिप्रायेण न परेच्छया इतरात्मवत् न त्व् अस्य प्राक् शरीरोत्पत्तेर् एव । तद् अयुक्तम् (?) । यत आह **सर्वलोकपितामहः** ।  
@@ -760,6 +760,11 @@ said in the Bhāṣya on verse 5, to the effect that ‘the process of creation 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/010_Apo_narA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+010	The waters are called narah, (for) the waters are, indeed, the offspring of Nara; as they were his first residence (ayana), he thence is named Narayana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Water is called ‘nara,’—water being the offspring of nara; since water was the first thing created by (or, the original residence of) that being, he is, on that account, described as ‘nārāyaṇa.’—(10)
@@ -848,11 +853,6 @@ of Nārāyaṇa himself, the second half is put in the First Person.\]—“*Tha
 **आपो नारा**शब्देन कथिता यस्मात् तास् तस्य पुरुषस्यात्माख्यस्योक्तेन प्रकारेणापत्यानि । ता आपो यस्माद् आत्मनः **पूर्वम् अयनम्** आद्य आश्रयः । एत्य् अस्मिन्न् इत्य् अयनम् इति कृत्वा **तेनासौ नारायणः स्मृतः** । इत्य् एवं पूर्वोक्तदार्ढ्याय एतत् स्वनामनिर्वचनम्, नरायण एव नारायणः इति अन्येषाम् अपि दृश्यत इति दीर्घेण ॥ १.१० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-010	The waters are called narah, (for) the waters are, indeed, the offspring of Nara; as they were his first residence (ayana), he thence is named Narayana.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **आपो नारा इत्य्** उच्यते (-अन्ते) ।  
@@ -881,6 +881,11 @@ of Nārāyaṇa himself, the second half is put in the First Person.\]—“*Tha
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/011_yat_tat.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+011	From that (first) cause, which is indiscernible, eternal, and both real and unreal, was produced that male (Purusha), who is famed in this world (under the appellation of) Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That which is the cause—unmanifest, eternal and partaking of the nature of the existent and the non-existent,—the being produced by that (cause) is described among people as ‘brahmā.’—(11)
@@ -989,11 +994,6 @@ different interpretation of verses 3-1l.
 **यत् तद्** आत्माख्यम् उक्तं वक्ष्यमाणनीत्या सर्वस्य **कारणं **वेदान्तोक्तयुक्त्यागमगम्यत्वात् सत्स्व् अभावं प्रत्यक्षाद्यगोचरत्वाद् असत्स्वभावम् इव तेनोत्पादितः **स पुरुषस् **तत्र तत्र **ब्रह्म**शब्देन सं**कीर्त्यते **॥ १.११ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-011	From that (first) cause, which is indiscernible, eternal, and both real and unreal, was produced that male (Purusha), who is famed in this world (under the appellation of) Brahman.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **यत् तद्** इति सार्वनामिकाव् उद्देशनिर्देश-शब्दौ सामान्यतः  
@@ -1024,6 +1024,11 @@ different interpretation of verses 3-1l.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/012_tasminn_aNDe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+012	The divine one resided in that egg during a whole year, then he himself by his thought (alone) divided it into two halves;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That supreme lord, having dwelt in that egg for a y ear, himself, by his own thought, broke that egg into two parts.—(12)
@@ -1067,11 +1072,6 @@ broke, not because the indwelling Brahmā willed it, hut because of its full *de
 **तस्मिन्न्** इति । पूर्वोक्ते **अण्डे स **ब्रह्मा यदृच्छया **संवत्सरम् **आसित्वा, **आत्मनः** आत्मगतेन **ध्यायेन्**ऐव **तद् अण्डं **द्विखण्डं कृतवान् ॥ १.१२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-012	The divine one resided in that egg during a whole year, then he himself by his thought (alone) divided it into two halves;
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **तस्मिन्न् अण्डे स भगवान् उषित्वा** [२ अक्ष् मिस्सिन्ग्] यकं कालं **परिवत्सरम्** । परिवत्सरशब्दो गर्भवृष्टिकालप्रदर्शनार्थः । नेतरपुरुषवत् पराधीनः । किं तर्हि । **स्वयम् एव** स्वेच्छयेत्य् अर्थः । ततो ऽनन्तरं गर्भवासकाले परिसमाप्ते **तद् अण्डम् अकरोद् द्विधा** । कथम् । **आत्मनो ध्यानात्** । आत्मनस् तत्रावस्थानकालपरिसमाप्तिम् अर्थलक्षणाद् बुद्ध्वा तद् अण्डम् औतराधर्येण द्विशकलम् अकरोत् ।
@@ -1089,6 +1089,11 @@ broke, not because the indwelling Brahmā willed it, hut because of its full *de
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/013_tAbhyAM_sa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+013	And out of those two halves he formed heaven and earth, between them the middle sphere, the eight points of the horizon, and the eternal abode of the waters.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Out of those two pieces (of the egg) he formed Heaven and Earth, and, between them, the Ākāśa, the eight quarters and the eternal receptacle of water.—(13)
@@ -1125,11 +1130,6 @@ Out of those two pieces (of the egg) he formed Heaven and Earth, and, between th
 **ताभ्याम्** इति । **ताभ्याम् **अण्डकपालाभ्यां **स** ब्रह्मा एकेन **दिवं **अपरेण **च भूमिं** निर्मितवान् । तयोश् च **मध्ये **आकाशं दिशश् चान्तरालदिग्भिः सह्**आष्टौ अपां स्थानं च **स्थिरं समुद्राख्यं **निर्ममे **। एतच् च तत्त्वैर् महदादिभिर् निर्मितवान् ॥ १.१३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-013	And out of those two halves he formed heaven and earth, between them the middle sphere, the eight points of the horizon, and the eternal abode of the waters.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 जगदाधारसमुद्रं पृथिव्याभूतं वा सप्तधा निविष्टं महदादिस् तत्त्वसृष्टौ च सत्यां महाभूताण्डसृष्टिर् न च महदादितत्त्वसर्ग उक्तो यतस् तद्विवक्षयेदम् आरभ्यते । पूर्वम् एव च महाभूताण्डस्वशरीरसर्गात् ।
@@ -1157,6 +1157,11 @@ Out of those two pieces (of the egg) he formed Heaven and Earth, and, between th
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/014_udbabarhAtmanash_chaiva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+014	From himself (atmanah) he also drew forth the mind, which is both real and unreal, likewise from the mind egoism, which possesses the function of self-consciousness (and is) lordly;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From out of himself he brought forth the mind, which partakes of the nature of the existent and non-existent; and before the mind, he brought up the all-powerful principle of egoism, whose function consists in self-consciousness.—(14)
@@ -1211,11 +1216,6 @@ The creation of the Elemental Principles is now described. What forms the consti
 इत्येवमादिना उपनिषत्सु परिकल्पितभेदावस्थानाद् आत्मनः इदं सर्वं कल्पितरूपं जायत इत्य् उक्तम् । स ब्रह्मा उद्धृतवान् आत्मन एव शरीरात् मनः नित्यानुमेयत्वाद् असदात्मकम् इव युगपज् ज्ञानानुत्पत्तिलिङ्गेन तत्सत्तावगतेः **सदसदातमकं मनः** पूर्वम् अहङ्काराख्यं तत्त्वं **अभिमन्तारम्** अहम् इति अभिमानाख्यं तत्कार्ययुक्तं स्वकार्यकरणसमर्थम् उद्धतवान् ॥ १.१४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-014	From himself (atmanah) he also drew forth the mind, which is both real and unreal, likewise from the mind egoism, which possesses the function of self-consciousness (and is) lordly;
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **उद्बबर्ह** उद्धृतवान् । कुतः । **आत्मनः** कारणात् प्रधानात् क्रमेण किं तन् **मनः** कीदृशं **सदसदात्मकम्** इत्य् एतद् व्याख्यातं **मनसश् चे**ति । तञ् च भूतेन्द्रियसर्गं दर्शयति । **मनसश् चापि** **[११]** पूर्वम् **अहङ्कारं** तत्कारण्ं च । एवं तर्हीति वर्तते । कस् तस्य धर्मो यत आह । **अभिमन्तारम्** अस्मिन् प्रत्ययमात्रं तस्य वृत्तिर् **ईश्वरम्** । कस्य । स्वविकारस्य भूतेन्द्रियलक्षणस्य । उत्पन्नग्रहाभ्याम् अहङ्कारं च पूर्वतरम् ।
@@ -1251,6 +1251,11 @@ The creation of the Elemental Principles is now described. What forms the consti
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/015_mahAntam_eva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+015	Moreover, the great one, the soul, and all (products) affected by the three qualities, and, in their order, the five organs which perceive the objects of sensation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Also the all-pervading ‘mahat’ (the ‘great’ principle of intelligence); as also all those things that consist of the three constituent attributes, and in due course, also the five organs of sensation which apprehend objects.—(15)
@@ -1328,11 +1333,6 @@ Not satisfied with all this, Nandana remarks that the two verses are not meant t
 
 **मनाह्तम्** इति । अहङ्कारात् पूर्वं महदाख्यं तत्त्वं आत्मन उत्पन्नत्वाद् उद्धृतवान् । यान्य् उक्तानि तानि च सत्त्वरजस्तमआख्यगुणत्रययुक्तानि । तथा शब्दस्पर्शरसरूपगन्धानां विज्ञानजनकानि **शनैः **वेदान्तोक्तक्रमेण श्रोत्रत्वक्चक्षुर्जिह्वानासिकाख्यानि बुद्धीन्दियाणि । **च**शब्दात् पायूपस्थहस्तपादवागाख्यानि च कर्मेन्द्रियाणि इन्द्रियत्वाद् **विषयाणां ग्रहीतॄणि **इत्य् उक्तेः विषयसृष्टिर् अप्य् अर्थाद् उक्तैव ॥ १.१५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-015	Moreover, the great one, the soul, and all (products) affected by the three qualities, and, in their order, the five organs which perceive the objects of sensation.
-</details>
 </details>
 </div>
 
@@ -1346,6 +1346,11 @@ Not satisfied with all this, Nandana remarks that the two verses are not meant t
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/016_teShAn_tv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+016	But, joining minute particles even of those six, which possess measureless power, with particles of himself, he created all beings.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having combined the subtile components of the said six principles of illimitable potency with their own evolutes, he created even all beings.—(16)
@@ -1413,11 +1418,6 @@ Hopkins remarks that ‘*ātmamātrā*’ stands for ‘the *spiritual* atom as 
 **तेषाम् **इति । **तेषां षण्णां **पूर्वप्रयुक्तानां महतः शब्दादितन्मात्राणां च **अमितौजसां** अनन्तकार्यनिर्वर्तनेन अतिवीर्यतां ये **सूक्ष्मा** **अवयवाः** तान् **आत्ममात्रासु **अधिकारभागेषु योजयित्वा सर्वाणि भूतानि मनुष्यादीनि निर्मितवान् ॥ १.१६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-016	But, joining minute particles even of those six, which possess measureless power, with particles of himself, he created all beings.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **षण्णाम्** इति षड्विशेषा उच्यन्ते । पञ्चतन्मात्राण्य् अहङ्कारश् चेति । एभिः सर्वम् इदं सृज्यते क्रमेण । कथम् । तन्मात्राभ्यो भूतानि, अहङ्काराद् इन्दिर्याणि । अन्ये [तु] **षण्णाम्** इत्य् अनेन मनःषष्ठानीन्द्रियाण्य् आचक्षते ।
@@ -1435,6 +1435,11 @@ Hopkins remarks that ‘*ātmamātrā*’ stands for ‘the *spiritual* atom as 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/017_yan_mUrty-avayavAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+017	Because those six (kinds of) minute particles, which form the (creator's) frame, enter (a-sri) these (creatures), therefore the wise call his frame sarira, (the body.)
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Because the six subtile components of the frame (of primordial matter) enter into (produce) these, therefore the wise ones have described the frame of that (primordial matter) as ‘body.’—(17)
@@ -1488,11 +1493,6 @@ forward *another* construction by which *sūkṣmāḥ* is the nominative and
 **यत् मूर्त्यवयवा **इति । यस्मान् मूर्तिसम्पादकाः आकारनिर्वर्तकाः **सूक्ष्माः** तन्मात्राहङ्काराख्याः **अवयवाः** तस्यात्मनो विकल्पन्ते । यस्य सम्बन्धेन **इमानि **वक्ष्यमाणानि भूतान्य् **आश्रयन्ति **कर्यत्वेन । **तस्मात् तस्या**त्मनो या **मूर्तिः** स्वभावः ताम् एव परिणतां **शरीरम्** इति लौकिका ब्रुवन्तीत्य् एवं शरीरनिर्वचनम् उक्तक्रमोत्पत्तिदार्ढ्यार्थम् ॥ १.१७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-017	Because those six (kinds of) minute particles, which form the (creator's) frame, enter (a-sri) these (creatures), therefore the wise call his frame sarira, (the body.)
-</details>
-
 <details><summary>भारुचिः</summary>
 
 भूतसूक्ष्माश्रयणाच् **छरीरम्** इति शरीरनिर्वचनं पूर्वप्रक्रियासिद्ध्यर्थम् ।
@@ -1510,6 +1510,11 @@ forward *another* construction by which *sūkṣmāḥ* is the nominative and
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/018_tad_Avishanti.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+018	That the great elements enter, together with their functions and the mind, through its minute parts the framer of all beings, the imperishable one.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The great elemental substances, along with their functions, as also the mind, along with its subtile components, enter into that which (on that account) is the generator of all things and imperishable.—(18)
@@ -1596,11 +1601,6 @@ Medhātithi himself offers a second explanation.
 **तद्** इति । **तद् **ब्रह्म तन्मात्राहङ्कारावस्थम् अनन्तरं महा**भूतान्य् **आकाशादीनि **आविशन्ति **तन्मात्रेभ्यः उत्पद्यन्ते । **सह कर्मभिः** यथाक्रमं धारणसङ्ग्रहपाकव्यूहनावकाशदानाख्यैः तत्कार्यैः **मनश् चावयवैः** शुभाशुभसङ्कल्पैः **सूक्ष्मैः **बहिर्दृश्यत्वाभावात् । **सर्वभूतकृत्** शुभाशुभसङ्कल्पप्रभवकर्मनिमित्तत्वात् जगतः **अव्ययं **अविनाशि आविशन्ति अहङ्कारात् तस्योत्पत्तेः ॥ १.१८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-018	That the great elements enter, together with their functions and the mind, through its minute parts the framer of all beings, the imperishable one.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 भूतसूक्ष्मपरिवेष्टितं लिङ्गं तद् **आविशति भूतानि महान्ति** स्थूलानि **सह कर्मभिः** सह कर्मेन्द्रियैः स्मृतिसङ्ग्रह वक्ति (?) भु(म)हावकाशदा[ने]नैव स्वधर्मैर् **मनश् चावयवैः सूक्ष्मैर्** मनसः सङ्कल्पाभि (?) मनो ऽध्यवसायैर् अवयवाः शुभाशुभसङ्कल्पा वा अनन्ताः **सर्वभूतकृच्** च मनो येन तच् छुभाशुभसङ्कल्पप्रभवं कर्म सर्वजगद्बीजम् ।
@@ -1618,6 +1618,11 @@ Medhātithi himself offers a second explanation.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/019_teShAm_idam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+019	But from minute body (-framing) particles of these seven very powerful Purushas springs this (world), the perishable from the imperishable.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From out of the Subtile constituents of the frames of the said exceedingly potent principles is produced this (Gross Body)—the perishable proceeding from the imperishable.—(19)
@@ -1691,11 +1696,6 @@ The name ‘*puruṣa*’ has been applied to the Tattvas, Principles,—because
 **तेषाम्** इति । पूर्वप्रकृतत्वात् तन्मात्राहङ्काराणां पूर्वतरप्रस्तुतत्वाच् च महतः एवं **तेषां सप्तानां** पुरुषोत्पन्नत्वात् **पुरुषाणां** **सूक्ष्माभ्यो मूरिमात्राभ्यः** शरीरसम्पादकेभ्यो भागेभ्यः इदं जगत् नश्वरं सम्भवति **अव्ययात्** अनश्वरात् यद् यत् कार्यं तत् तद् अस्थिरं यद् यद् उत्पत्तिकारणं तत् तत् कार्यापक्षया स्थिरम् इत्य् एतत् प्रतिपादनार्थः शेषो ऽनुवादः ॥ १.१९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-019	But from minute body (-framing) particles of these seven very powerful Purushas springs this (world), the perishable from the imperishable.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **सप्तानाम्** इति । महान् अत्र सप्तमः परिगृह्यते । तदर्थं च तन्मात्राहङ्काराणाम् अपि पुनर् ग्रहण** *** तत्त्वानां सूक्ष्माभ्यां(भ्यो) मात्राभ्यः सामान्यानवस्थिताभ्यः सर्वम् इदं व्यक्तं सम्भवत्य् अव्ययाद् व्यययं (?) नित्याद् अनित्यं सम्भवति पुरुषशब्दः चैषां पुरुषार्थत्वाद् वेदितव्यः । अथ वा मनः षष्ठानाम् इन्द्रियाणां भूतसप्तनाम् अनिर्देशः पुरुषशब्दश् च पुरुषार्थत्वाद् इत्य् उक्तम् ।
@@ -1713,6 +1713,11 @@ The name ‘*puruṣa*’ has been applied to the Tattvas, Principles,—because
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/020_AdyAdyasya_guNam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+020	Among them each succeeding (element) acquires the quality of the preceding one, and whatever place (in the sequence) each of them occupies, even so many qualities it is declared to possess.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among these (Elementary Substances), each succeeding one acquires the quality of what precedes it; and each elemental substance is endowed with as many qualities as the place it occupies (in the order in which the said substances are set forth).—(20)
@@ -1784,11 +1789,6 @@ succeeding and whatever it is and in whatever form and place, so many qualities 
 **आद्याद् यस्येति** । **एषां **पूर्वतरश्लोकप्रस्तुतानां भूतानां मध्यात् **आद्यस्याद्यस्य **आकाशादेः सम्बन्धिनं शब्दादिकं **परः परो **वाय्वादिः गृह्णाति । आकाशादिगुणत्वं शब्दादीनां वक्ष्यते । तथा आकाशादिश् च क्रमशः । एवम् आकाशादिवर्जं अन्येषां द्वैगुण्यप्राप्ताव् आह **यो य** इति । **एषां यो यो यावतिथः** यो यावतां पूरणो द्वितीयादिः **स तावद्गुणः **द्विगुणस् त्रिगुण इत्येवमादिः मन्वादिभिः **स्मृतः **॥ १.२० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-020	Among them each succeeding (element) acquires the quality of the preceding one, and whatever place (in the sequence) each of them occupies, even so many qualities it is declared to possess.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 नेह पृथिव्याद्भूतानां क्रमो ऽभिप्रेतः । किं तर्हि । आकाशादि । वक्ष्यति हि "आकाशाज् (आकाशं) जायते तस्मात्" (१.७५) इत्य् एवम् । आकाशम् आद्यं तस्य शब्दो गुणः तस्मात् परो वायुः स्पर्शगुणस् तस्यापि शब्दः साम्सर्गिकस् तथा च द्विगुणो वायुर् एवं **यो यो** यावताः(तां) पूरणो **यावतिथः** द्वितीयस् तृतीयो वा भूतविशेषः भूतात्मा वा स **तावद्गुणः** द्विगुणस् त्रिगुणश् चतुर्गुणः पञ्चगुणो वा । एवं च भूतानाम् एकैकगुणत्वे सति संसर्गादिकम् अनेकगुणग्रहणं विज्ञेयम् । 
@@ -1808,6 +1808,11 @@ succeeding and whatever it is and in whatever form and place, so many qualities 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/021_sarveShAn_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+021	But in the beginning he assigned their several names, actions, and conditions to all (created beings), even according to the words of the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the outset he designated distinct names for add things; and devised acts and Laws, on the basis of the words of the veda.—(21)
@@ -1890,11 +1895,6 @@ in the beginning, create the names of the sages, as also of all those creations 
 **सर्वेषाम्** इति । **स **ब्रह्मा **सर्वेषां नामानि **ब्राह्मण इत्येवमादीनि **कर्माणि **चाध्ययनादीनि **पृथक् पृथक्** यस्य यान्य् एव पूर्वकल्पे ऽभूवन् तानि सुप्तप्रबुद्धवत् प्राक्कल्पाधीतप्रतिभात**वेदशब्देभ्य **एव सृष्ट्यादौ निर्मितवान् लौकिकीश् च व्यवस्थाः **पृथग्** इति ॥ १.२१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-021	But in the beginning he assigned their several names, actions, and conditions to all (created beings), even according to the words of the Veda.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **सर्वेषां तु नामानीति** ब्राह्मणः क्षत्रियो वैश्य इत्य् एवमादीनि शास्त्रवति(वन्ति?) नेतराणि यान्य् अनार्यैर् भाष्यन्ते शक्तिजानि च नाभ्यादीनि आर्योक्तान्य् अपि सन्ति । **कर्माणि च** यजनादीनि **पृथक् पृथक्** विशिष्टानि च सा(का)म्यानि च **वेदशब्देभ्यः** एव मन्त्रार्थवादरूपेभ्यः सृष्ट्यादौ निर्मितवान् कर्मानुरूप्येण । तथा च पौराणिकाः ।
@@ -1923,6 +1923,11 @@ in the beginning, create the names of the sages, as also of all those creations 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/022_karmAtmanA~n_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+022	He, the Lord, also created the class of the gods, who are endowed with life, and whose nature is action; and the subtile class of the Sadhyas, and the eternal sacrifice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the sake of living beings intent upon action, he created the eternal sacrifice; as also the host of Gods and the subtile multitude of the lesser divinities, the Sādhyas.—(22)
@@ -1983,11 +1988,6 @@ The meaning of this verse, which Buhler attributes to Medhātithi, is one that t
 
 **कर्मात्मनाम्** इति । कर्माङ्गभूतानां देवानां प्राणवताम् इन्द्रादीनां यतः अप्राणा अपि यक्षादयो देवाः सन्ति, साध्यानां देवगणानां देवविशेषाणां समूहं ज्योतिष्टोमादिकं च कल्पान्तरे ऽप्य् अनुष्ठानान् नित्यं सृष्टवान् । साध्यगणस्य सूक्षमत्वात्** **पृथङ्निर्देशः ॥ १.२२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-022	He, the Lord, also created the class of the gods, who are endowed with life, and whose nature is action; and the subtile class of the Sadhyas, and the eternal sacrifice.
-</details>
 </details>
 </div>
 
@@ -2001,6 +2001,11 @@ The meaning of this verse, which Buhler attributes to Medhātithi, is one that t
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/023_agni-vAyu-ravibhyas_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+023	But from fire, wind, and the sun he drew forth the threefold eternal Veda, called Rik, Yagus, and Saman, for the due performance of the sacrifice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From out of (the three deities) Agni, Vāyu and Ravi, he extracted, for the due fulfilment of sacrifices, the eternal Brahman, threefold, in the forms of ‘Ṛk,’ ‘Yajuṣ’ and ‘Sāman.’—(23)
@@ -2096,11 +2101,6 @@ Do. (p. 19, l. 11) ‘*Dohanañchādhyāpanam*’—In this case *ravibhyaḥ* w
 **अग्निवायुरविभ्य** इति । **ऋग्यजुःसामा**ख्यं ब्रह्म**त्रयं** **सनातनं** नित्यम् अपि सूक्ष्मं आदौ दैव्या शक्त्या **अग्निवायुरविभ्यः **आकृष्टवान् । **यज्ञसिद्ध्यर्थम्**, आगमिकत्वाच् च नातिशङ्क्यम् एतत् । तथा च “ऋग्वेद एवाग्नेर् अजायत” इत्यादि ब्राह्मणम् ॥ १.२३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-023	But from fire, wind, and the sun he drew forth the threefold eternal Veda, called Rik, Yagus, and Saman, for the due performance of the sacrifice.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ब्राह्मवादे आग्नेयः ऋग्वेदो, वायव्ये यजुर्वेदः, सौरः सामवेदः इति । केनचिद् वृत्तिसामान्येन एष्व् अवस्थितानां वेदानां तेभ्यो दोहनम् इत्य् उच्यते ।
@@ -2118,6 +2118,11 @@ Do. (p. 19, l. 11) ‘*Dohanañchādhyāpanam*’—In this case *ravibhyaḥ* w
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/024_kAla~N_kAlavibhaktIsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+024	Time and the divisions of time, the lunar mansions and the planets, the rivers, the oceans, the mountains, plains, and uneven ground.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [He created] also Time, the Divisions of Time, the Lunar Mansions, the Planets, the Rivers, the Oceans, the Mountains and the tracts of land, plain and rugged.—(24)
@@ -2167,11 +2172,6 @@ reads ‘*vibhaktim*’ for ‘*vibhaktiḥ*.’
 **कालम्** इति । आदित्यादिगतिप्रतिबन्धप्रवृत्तिमान् **कालः **। **कालविभक्तयो** मासाद्याः । **नक्षत्राणि** अश्वयुक्प्रभृतीनि । **ग्रहाः** अर्कादयः । नदीसमुद्रपर्वतसमविषमस्थानानि च । अत्र ससर्जेत्य् वक्ष्यमाणक्रिया ॥ १.२४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-024	Time and the divisions of time, the lunar mansions and the planets, the rivers, the oceans, the mountains, plains, and uneven ground.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 कालादिषु कानिचिद् यज्ञसिद्ध्यर्थानि कानिचित् । सुखानुभवप्रयोजनानि कानिचिद् उभयार्थानि वेदितव्यानि ।
@@ -2189,6 +2189,11 @@ reads ‘*vibhaktim*’ for ‘*vibhaktiḥ*.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/025_tapo_vAcham.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+025	Austerity, speech, pleasure, desire, and anger, this whole creation he likewise produced, as he desired to call these beings into existence.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Being desirous of bringing into existence these creatures, he created this entire creation (comprising) austerity, speech, happiness, desire and anger.—(25)
@@ -2226,11 +2231,6 @@ to the expression ‘*svapoṣam puṣṭaḥ*,’ ‘reared the rearing by ones
 **तप **इति । **रतिः **चेतोनिर्वृत्तिः । **इमा **वक्ष्यमाना दैवादिकाः **प्रजाः **एतच्छ्लोकओक्तां पूर्वपठितां च **सृष्टिं** कृतवान् ॥ १.२५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-025	Austerity, speech, pleasure, desire, and anger, this whole creation he likewise produced, as he desired to call these beings into existence.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **तपश्** चान्नयणादि (चान्द्रायणादि?) प्रसिद्धं कर्मेन्द्रियकार्यः (कार्यम्) । **शब्दः** प्रियहितरूपः । नेन्द्रियम् उक्तत्वात् । **रति**(र्) तपसि प्रीतिर् न कामः । तथा च पुनर् वक्ति — **कामं च क्रोधं एव** (च) । एतत् प्रत्यनीकः संसार्यात्मा दर्मसृज्यमानानां स कर्माश्रयनिमित्तो ऽयं सृष्टौ द्रष्टव्यः । **सृष्टिं ससर्ज च** । एवमादिरूपां **सृष्टिम्** **इच्छन् इमाः प्रजाः** ।
@@ -2248,6 +2248,11 @@ to the expression ‘*svapoṣam puṣṭaḥ*,’ ‘reared the rearing by ones
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/026_karmaNA~n_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+026	Moreover, in order to distinguish actions, he separated merit from demerit, and he caused the creatures to be affected by the pairs (of opposites), such as pain and pleasure.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the due discrimination of actions, he differentiated Virtue and Vice; and he connected these creatures with such pairs of opposites as Pleasure-Pain and the like.—(26)
@@ -2334,11 +2339,6 @@ The other ‘*Dvandvas*’ are *Kāma* (Desire)—*Krodha* (Anger)—*Rāga* (At
 **कर्मणाम्** इति । अयं **धर्मः** अतस् तत्साधकं दानादिकर्म कर्तव्यम्, अयं पुनर् **अधर्मः** अतस् तत्सम्पादकं चौर्यादि न कार्यम् इत्य् एवं दानचौर्यादिकर्मणां विभागाय **धर्माधर्मौ **पृथक् पृथक् कृतवान् । धर्माधर्मफलभूतैश् च **द्वन्द्वैः** परस्परविरुद्धैः पुत्रोत्पत्तिविनाशादिभिः **सुखदुःखैः**, **आदि**शब्दात् क्षुत्सौहित्यादिभिश् **चेमाः प्रजा** योजितवान् ॥ १.२६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-026	Moreover, in order to distinguish actions, he separated merit from demerit, and he caused the creatures to be affected by the pairs (of opposites), such as pain and pleasure.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **कर्मणां** चात्मसमवायिनाम् अभ्युदयप्रत्युत्थायहेतूनां पृथक् करणाय **धर्माधर्मौ** तदर्थौ प्रयोगौ तच्चब्दे नोच्ययेते । सामर्थात् तौ **व्यवेचयत्** । कथम् । अयं प्रयोगो धर्मायायं च पुनस् तद्विपरीतो ऽधर्माय । ताभ्यां चायं **सुखदुःखादिभिः अयोजयद् इमाः प्रजाः** । महदादि तत्र प्रसङ्गेनेदं बह्वभिधाय ताम् एवोपसंहरति भूतविशेषन्ताम् ।
@@ -2356,6 +2356,11 @@ The other ‘*Dvandvas*’ are *Kāma* (Desire)—*Krodha* (Anger)—*Rāga* (At
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/027_aNvyo_mAtrA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+027	But with the minute perishable particles of the five (elements) which have been mentioned, this whole (world) is framed in due order.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The evanescent subtile constituents of the half-ten (Elemental Substances) that have been described,—along with those, this whole (world) comes forth, in due order.—(27)
@@ -2394,11 +2399,6 @@ The commentators are at some pains to explain the incongruity of the inter-posit
 **अन्व्य** इति । पञ्चानां तन्मात्राणां याः सूक्ष्ममात्राः भागाः **विनाशिन्यः** विपरिणामित्वात् । **ताभिः** सहोक्तवक्ष्यमाणम् इदम् उत्पद्यते । क्रमेण सर्वत्र तासाम् अनुसृतत्वात् । तत्त्वैर् विनैव समनन्तरोक्तवक्ष्यमाणा सृष्टिर् इत्य् एतद् भ्रान्तिनिराकरणाय पुनस् तत्त्वोद्भवत्वं सृष्टिमध्ये स्मारयति ॥ १.२७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-027	But with the minute perishable particles of the five (elements) which have been mentioned, this whole (world) is framed in due order.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इदानीं कर्मत्वे निमित्तत्वे सत्य् एवं संसारस्यानादित्वाद् यत्र कुत्रचिद् उत्पन्नस्यात्मनः सर्वप्राणभृज् जातिधर्मं (मः) पूर्वाभ्यासात् प्रातः स प्रतिषिध्यते ।
@@ -2416,6 +2416,11 @@ The commentators are at some pains to explain the incongruity of the inter-posit
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/028_yan_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+028	But to whatever course of action the Lord at first appointed each (kind of beings), that alone it has spontaneously adopted in each succeeding creation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 अस्यायम् अर्थः । यद्य् अपि प्रजापतिर् ईश्वरो भूतसृष्टौ शक्नोति यथेच्छं प्राणिनः स्रष्टुं तथापि न पूर्वकल्पकृतानि कर्माण्य् अनपेक्ष्य प्राणिनः सृजति । येन यादृशं पुराकल्पे कर्म कृतं तत्कर्माक्षिप्तायां जातौ तं जनयति, न जात्यन्तरे । शुभेन कर्मणा तत्फलोपभोग्यायां देवमनुष्यादिजातौ जनयति, विपरीतेन तिर्यक्प्रेतादिषु । यथैव भूतेन्द्रियगुणाः कल्पादौ प्रकृतिस्था उद्भवन्ति एवं कर्माण्य् अपि प्रलये स्वप्रकृतिस्थानि पुनर् उद्भवन्ति सर्गादौ । "ततः शेषेण" इत्य् एष न्यायस् तत्राप्य् अस्त्य् एव ।
@@ -2510,11 +2515,6 @@ The idea contained in this verse is further expanded in the following verse.—(
 **यम्** इति । **यं** जातिविशेषं सिंहादिकं **यस्मिन् कर्मणि** द्विरदमारणादौ प्रजापतिः सृष्ट्यादौ नियुक्तवान् । **स** जातिविशेषः प्रथमसृष्ट्युत्तरकालम् अपि स्वार्जितकर्मवशेन यदा यदा सृज्यमानो भवति तदा तदा तद् एव द्विरदमारणादि स्वयम् एव भजते न भूयः प्रजापतिनियोगम् अपेक्षते जातिधर्मत्वेन प्रजापतिना तस्य कृतत्वात् ॥ १.२८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-028	But to whatever course of action the Lord at first appointed each (kind of beings), that alone it has spontaneously adopted in each succeeding creation.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पूर्वाभ्यासप्रतिबन्धे सत्य् अयं पुरुषः कर्मजातिसामर्थ्याद् वर्तमानजातिधर्मम् एव प्रतिपद्यते, **[१४]** तत्प्रतिपत्तिकर्मोपभोगवशेन वा केवलेन । यथा मत्स्यो जलतरणशयनप्रसूत्यनिमेषादीन्य् एव जात्यन्तरधर्मम् अभ्यस्तम् अप्य् एवं गवादयो ऽपि द्रष्टव्याः । किं पुनस् तत् कर्म यतो यस्य प्रदर्शनार्थम् अयं तेषां कर्म प्रतिपत्तिप्रपञ्चः प्रक्रियते ।
@@ -2545,6 +2545,11 @@ _एतद् एव विस्तारयति ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/029_hiMsrAhiMsre_mRdu-krUre.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+029	Whatever he assigned to each at the (first) creation, noxiousness or harmlessness, gentleness or ferocity, virtue or sin, truth or falsehood, that clung (afterwards) spontaneously to it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Each being, when created again and again, naturally conformed to that same act to which the lord had, at first, directed him.—(28)
@@ -2628,11 +2633,6 @@ became assigned to whichever thing at the beginning of creation, that thing take
 एतत् प्रपञ्चार्थम् आह **हिंस्राहिंस्रे** इति । **हिंसं कर्म व्याघ्रादेः, अहिंस्रं **रुरुप्रभृतेः, **मृदु** दयोपेतं ब्राह्मणादेः, **क्रूरं **क्षत्रियादेः । **धर्मो** यथा काकादेः परापत्यपोषणादिः । यद्य् अपि न ततस् तस्य धर्मो भवति परोपकारत्वात् धर्मत्वम् उपचर्यते । **अधर्मो **यथा बकादेः । एतद् अपि पूर्ववद् उपचारतो वञ्चनापरत्वाद् उच्यते । **ऋतं** देवानाम् **अनृतं **मनुष्याणाम्, तद् उक्तम् – सत्यवाचो देवाः अनृतं वै मनुष्या इति । यद्य् अपि **धर्माधर्म**ग्रहणेन एतत् सर्वं गतं तथापि स्वरूपभेदावलम्बनं पृथक् पृथक् द्वन्द्वतो ऽभिधानम् । तेषाम् अन्यत् **यद्** एव कर्म **यस्य** प्रजापतिर् **अददात्** दत्तवान् सृष्ट्यादौ तत् तद् एव सृष्ट्युत्तरकाले ऽप्य् असौ जायमानः **स्वयम्** एव भजते । यथाकर्म सृष्टं स्थावरजङ्गमम् इति वक्ष्यति । अतः प्राक्कल्पार्जितकर्मवशेन **यद् यस्य सो ऽददात्** इति द्रष्टव्यम् ॥ १.२९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-029	Whatever he assigned to each at the (first) creation, noxiousness or harmlessness, gentleness or ferocity, virtue or sin, truth or falsehood, that clung (afterwards) spontaneously to it.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **हिम्स्राहिंस्रे मृदुक्रूरे ऋतानृते** चेत्येवमादि यत् कर्म द्वन्द्वशः प्रसिद्धं समानार्थं प्राणिनिकायभेदाश्रयं तत् तेषां **धर्माधर्माव्** उपादाय भवति, नाकस्मिकम् । तथा च – निर्बीजः कर्म प्रतिपत्तिप्रपञ्चः प्राणिनाम् । एवम् अयं श्लोको व्यत्यस्तपदार्थसम्बन्धाच् च प्रगुणीकृत्याध्याहारेण व्याघातः प्रकृतार्थानुग्रहाय । किं पुनर् अत्रोदाहरणम् इदम् [इतीदम्] उच्यते ।
@@ -2658,6 +2658,11 @@ became assigned to whichever thing at the beginning of creation, that thing take
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/030_yathA_rtu-lingAny.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+030	As at the change of the seasons each season of its own accord assumes its distinctive marks, even so corporeal beings (resume in new births) their (appointed) course of action.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as on the approach of the turn of the Seasons, each season, by itself, acquires its own seasonal characteristics,—so in the same manner living beings take up their respective lines of action.—(30)
@@ -2705,11 +2710,6 @@ The frequent repetition of the term ‘*ṛtu*’ season,’ is due to the exige
 तत्रैव दृष्टान्तम् आह **यथेति** । यथा वसन्तादयः स्वावसरे **स्वयम् एव स्वानि कर्माणि** चिह्नभूतानि कुर्वन्ति तद्वत् **कर्माणि **हिंस्रादीनि प्राणिनः ॥ १.३० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-030	As at the change of the seasons each season of its own accord assumes its distinctive marks, even so corporeal beings (resume in new births) their (appointed) course of action.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **यथर्तुलिङ्गानि** चूतमञ्जर्यादि(दी)नि । ऋतवो वसन्तादयः । स्वयम् एव परिवर्तमानाः क्रमेण **स्वानि स्वान्य् अभिपद्यन्ते** कर्तुं चूतमञ्जर्यादीनि लिङ्गानि कार्याणीत्य् अर्थः । एवं तत्र तत्र प्राणि(नि)कायेभ्यः उत्पद्यमानाः कर्मवशात् प्राणिनो ऽपि हिंस्राहिम्स्रादि कार्यकारणभूतान् स्वयम् एव प्रतिपद्यत इति तत्त्वसृष्ट्युपसंहारानन्तरम् इदानीम् अनेकप्रयोजनात्मा सृष्टिं प्रदर्शयिष्यन्न् इमां वर्णसृष्टिं तावद् आह – उत्तरार्थम् ।
@@ -2727,6 +2727,11 @@ The frequent repetition of the term ‘*ṛtu*’ season,’ is due to the exige
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/031_lokAnAn_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+031	But for the sake of the prosperity of the worlds he caused the Brahmana, the Kshatriya, the Vaisya, and the Sudra to proceed from his mouth, his arms, his thighs, and his feet.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 With a view to the development of the (three) regions, He brought into existence the Brāhmaṇa, the Kṣatriya, the Vaiśya and the Śūdra, from out of His mouth, arms, thighs and feet (respectively).—(31)
@@ -2794,11 +2799,6 @@ It is refreshing to find Medhātithi regarding this account of the castes issuin
 **लोकानाम्** इति । अग्नौ प्रास्तेति वक्ष्यमाणन्यायेन पृथिव्यादिलोकबाहुल्यार्थं सुखादिभ्यो यथाक्रमं ब्राह्मणाद्यान् दैव्या शक्त्या निर्मितवान् । तथा च ब्राह्मणो ऽस्य मुखम् आसीद् इत्यादि लिङ्गम् ॥ १.३१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-031	But for the sake of the prosperity of the worlds he caused the Brahmana, the Kshatriya, the Vaisya, and the Sudra to proceed from his mouth, his arms, his thighs, and his feet.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **विवृद्धिं** वृष्टिबाहुल्यं वा । एतच् चोभयं कर्मतः । कर्म च दृष्टादृष्टं ब्राह्मणादिसंश्रितम् । यतो ऽयमोतराधर्य्य(मुत्तराधर्य?)विवक्षयोपकारविशेषप्रदर्शनसम्बन्धेन वा मुखादिष्व् अग्न्यादिसम्बन्धापेक्षया वा मुखादिकर्मयोगाद् वा तत्प्रभावो गुणप्रवृत्त्योच्यते । वर्णानां तथा च कृत्वा मिथुनसम्प्रयोगद्वारेणेमां सृष्टिम् आचक्षते ।
@@ -2816,6 +2816,11 @@ It is refreshing to find Medhātithi regarding this account of the castes issuin
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/032_dvidhA_kRtvAtmano.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+032	Dividing his own body, the Lord became half male and half female; with that (female) he produced Virag.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having divided his body into two halves, with the one half, the Lord became Male, and with the other half, Female; from her he produced Virāj.—(32)
@@ -2853,11 +2858,6 @@ The ‘Virāṭ’ whose birth is here described is, according to some, the same
 **द्विधेति** । स ब्रह्मा शरीरं द्विभागं **कृत्वा **एकेन्**आर्धेन **पुमान् सम्पन्नः । अपरेण स्त्री **स** तस्याश् च सकाशात् विराजाख्यं पुरुषं सृष्टवान् ॥ १.३२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-032	Dividing his own body, the Lord became half male and half female; with that (female) he produced Virag.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 बहूपकारसम्बन्धा धर्मापत्यधनेषु चा (वा) । विभागं नार्या स्वदेहार्धवादो गुणवाद् इति वृत्तानुकथनं वेदं यद्य् आगमोपपत्तिभ्याम् अविरुद्धवंसोपरं(?) नार्या सह विराजं दीप्तिमन्तम् आत्मविधम् एवासृजत् ।
@@ -2875,6 +2875,11 @@ The ‘Virāṭ’ whose birth is here described is, according to some, the same
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/033_tapas_taptvAsRjad.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+033	But know me, O most holy among the twice-born, to be the creator of this whole (world), whom that male, Virag, himself produced, having performed austerities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 O best of Brāhmaṇas, know me, the creator, of this whole (would), to be that whom the said Being Virāj himself, after having performed austerities, produced.—(33)
@@ -2910,11 +2915,6 @@ Poets are not ashamed of describing the nobility of their own birth, even though
 **तप **इति । **स **अनन्तरोक्तो **विराट् तपः **कृत्वा **यं स्वयं **सृष्ट्वान् **तं मां **जानीत । एतस्य सर्वस्योत्पादयितारम् । हे द्विजश्रेष्ठतमाः ॥ १.३३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-033	But know me, O most holy among the twice-born, to be the creator of this whole (world), whom that male, Virag, himself produced, having performed austerities.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तेषां महर्षीणां **मनुर्** भगवान् सर्वस्य जगतः सम्भवन्त्य् आख्याय भूयः सुखप्रतिपत्तये दृष्टान्तत्वेन तं **ऽमा(ं) वित्त**" इत्यात्मानम् एव प्रदर्शयति । तथा च पौराणिकाः ।
@@ -2935,6 +2935,11 @@ Poets are not ashamed of describing the nobility of their own birth, even though
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/034_aham_prajAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+034	Then I, desiring to produce created beings, performed very difficult austerities, and (thereby) called into existence ten great sages, lords of created beings,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (अग्रे व्याख्यानम्।)
@@ -2958,11 +2963,6 @@ Poets are not ashamed of describing the nobility of their own birth, even though
 <details><summary>गोविन्दराजः</summary>
 
 **अहं प्रजाः **स्रष्टुम् इच्छन् **सुदुश्चरं तपः **क्ट्त्वा प्रजापतीन् **महर्षीन् दश **प्रथमतः सृष्टवान् ॥ १.३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-034	Then I, desiring to produce created beings, performed very difficult austerities, and (thereby) called into existence ten great sages, lords of created beings,
 </details>
 
 <details><summary>भारुचिः</summary>
@@ -2992,6 +2992,11 @@ _तान् महर्षीन् नामतो निर्दिशत�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/035_marIchim_atry-angirasau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+035	Mariki, Atri, Angiras, Pulastya, Pulaha, Kratu, Praketas, Vasishtha, Bhrigu, and Narada.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Being desirous of bringing into existence the (various kinds of) created beings, I, at the very outset, performed most arduous austerities and called into being the ten great sages, the directors of all created things; (34)—viz: Marīci, Atri, Aṅgiras, Pulastya, Pulaha, Kratu, Pracetas, Vaśiṣṭha, Bhṛgu and also Nārada.—(35)
@@ -3024,11 +3029,6 @@ These are quoted in Hemādri-Dāna, p. 242, as describing the ‘munis’, sages
 आह तांश् च – **मरीचिम्** इति ॥ १.३५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-035	Mariki, Atri, Angiras, Pulastya, Pulaha, Kratu, Praketas, Vasishtha, Bhrigu, and Narada.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एते महर्षयो विशेषनामभिर् अभिधीयन्ते । वेशेषप्रक्रियार्थम् ऋषिपूजायाम् एता तन्नामभिर् एते यथो(था) पूज्येरन् । तथा चोक्तं देवर्षिपितृतर्पणम् ।
@@ -3046,6 +3046,11 @@ These are quoted in Hemādri-Dāna, p. 242, as describing the ‘munis’, sages
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/036_ete_manUMs.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+036	They created seven other Manus possessing great brilliancy, gods and classes of gods and great sages of measureless power,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These mighty (Sages) called into being the seven Manus, gods and gods’ habitations, as also Great Sages,—all possessed of illimitable power.—(36)
@@ -3090,11 +3095,6 @@ described in Verse 22).”
 **एते** इति । **एते** दश बहुतेजस्काः **सप्तान्यान् मनून् **सृष्टवन्तः । तथा **देवान् देवनिकायान् महर्षींश् च **अपरिमिततेजस्कान् । तेषां सर्वेषां मनूनां मन्वन्तरे एकैकस्य सर्गाद्यधिकारः ॥ १.३६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-036	They created seven other Manus possessing great brilliancy, gods and classes of gods and great sages of measureless power,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 मन्वन्तराणां नामभिः सप्तानां स्मरणात् मन्त्राणां सप्ततोच्यते । मन्त्राणां देवनिन्दादीन्, ये च गणशः आख्यायन्ते वस्वादयः । एतांस् तु कर्मसिद्ध्यर्थम् असृजत् । तथोदकदानादिकर्मसिद्ध्यर्थम् ऋषि(ष्य)भिधानान् देवान् असृजत् ।
@@ -3112,6 +3112,11 @@ described in Verse 22).”
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/037_yaxa-raxaH-pishAchAMsh_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+037	Yakshas (the servants of Kubera, the demons called) Rakshasas and Pisakas, Gandharvas (or musicians of the gods), Apsarases (the dancers of the gods), Asuras, (the snake-deities called) Nagas and Sarpas, (the bird-deities called) Suparnas and the several classes of the manes,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [They called into being] also Yakṣas, Rakṣasas, Piśācas, Gandharvas, Apsarases, Asuras, Nāgas, Sarpas, Suparṇas, and the several orders of Pitṛs.—(37)
@@ -3152,11 +3157,6 @@ the life of living beings, and by some invisible power they bring about diseases
 **यक्षरक्षःपिशाचांश् चेति** । **यक्षाः **वैश्रवणामात्याः ।** रक्षांसि **रावणादीनि । **पिशाचाः **मरुभूम्यादिवासिनः प्राणिविशेषाः । **गन्दर्वाः **चित्रसेनादयः । **अप्सरसः **मेनकाद्याः, **असुरा **विरोचनादयः । **नागाः **तक्षकाद्याः **सर्पा **अहयः **सुपर्णा **गरुत्मन्तः **पितॄणां **सोमपादीनां स्वस्थानसमूहान् असृजन् इति वर्तते । एवम् उत्तरत्रापि ॥ १.३७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-037	Yakshas (the servants of Kubera, the demons called) Rakshasas and Pisakas, Gandharvas (or musicians of the gods), Apsarases (the dancers of the gods), Asuras, (the snake-deities called) Nagas and Sarpas, (the bird-deities called) Suparnas and the several classes of the manes,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 कर्मार्थम् आत्मभोगसिद्ध्यर्थं च एतान् असृजत् । मरीच्यादीनां च प्रजापतिसम्बन्धे नैतद् एषां पुनः सृष्ट्याभिधानम् अनुक्तं च किञ्चित् । (?)
@@ -3174,6 +3174,11 @@ the life of living beings, and by some invisible power they bring about diseases
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/038_vidyuto.ashani-meghAMsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+038	Lightnings, thunderbolts and clouds, imperfect (rohita) and perfect rainbows, falling meteors, supernatural noises, comets, and heavenly lights of many kinds,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [They called into being] Lightnings, Hails, Clouds, Vertical Phosphorescence, Rainbows, Meteors, Portentous Sounds, Comets, and Stars of varying magnitudes.—(38)
@@ -3212,11 +3217,6 @@ differs from the former in being curved in the form of a bow;—‘*Meteors*,’
 **विद्युत **इति । रोहितं शस्त्रोत्पात इत् प्रसिद्धम् । नानावर्ण धनूरूपं इन्द्रधनुः । **उल्का **रेखाकारम् अन्तरिक्षात् पतत् ज्योतिः कदाचिद् रात्रौ दृश्यते । **निर्घातः** क्षित्यर्तर्गतः उत्पातध्वनिः । **केतवो **दण्डाद्याकाराणि ज्योतींषि । अन्यान्य् अपि **ज्योतींषि **उत्कृष्टापकृष्टानि ॥ १.३८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-038	Lightnings, thunderbolts and clouds, imperfect (rohita) and perfect rainbows, falling meteors, supernatural noises, comets, and heavenly lights of many kinds,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विद्युदादीन्य् औत्पातिकस्य कर्मणः प्रदर्शनार्थानि । किं चान्यत् ।
@@ -3234,6 +3234,11 @@ differs from the former in being curved in the form of a bow;—‘*Meteors*,’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/039_kinnarAn_vAnarAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+039	(Horse-faced) Kinnaras, monkeys, fishes, birds of many kinds, cattle, deer, men, and carnivorous beasts with two rows of teeth,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [They called into being] Kinnaras, Apes, Fishes, Birds of various kinds, Cattle, Deer, Men and wild beasts with two rows of teeth.—(39)
@@ -3258,11 +3263,6 @@ differs from the former in being curved in the form of a bow;—‘*Meteors*,’
 
 **किन्नरान्** इति । **किन्नराः **किन्नरशरीराः अश्वमुखाः अन्ये तु विपरीताः । **विहङ्गमाः ** पक्षिणः **पशवो **गवाद्याः । मनुष्याणां पशुत्वे ऽपि प्राधान्यात् पृथक् ग्रहणम् । **व्यालाः **सिंहाद्याः उत्तराधरदन्तयुक्ताः ॥ १.३९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-039	(Horse-faced) Kinnaras, monkeys, fishes, birds of many kinds, cattle, deer, men, and carnivorous beasts with two rows of teeth,
-</details>
 </details>
 </div>
 
@@ -3276,6 +3276,11 @@ differs from the former in being curved in the form of a bow;—‘*Meteors*,’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/040_kRmi-kITa-patangAMsh_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+040	Small and large worms and beetles, moths, lice, flies, bugs, all stinging and biting insects and the several kinds of immovable things.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [They called into being] Worms, Beetles and Moths; Lice, Flies and Bugs; Gadflies and Gnats; and also the entire host of the several kinds of immovable things.—(40)
@@ -3311,11 +3316,6 @@ The copulative compounds in the singular are in accordance with Pāṇini’s Su
 **कृमिकीटपतङ्गान्** इति । **कृमयो **भूमिशरणाः । **कीटाः** कृमिभ्यः किञ्चित्स्थूलाः । **पतङ्गाः **शलभाः । **स्थावरं **वृक्षवनस्पत्यादिभेदेन नानाप्रकारम् ॥ १.४० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-040	Small and large worms and beetles, moths, lice, flies, bugs, all stinging and biting insects and the several kinds of immovable things.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उक्तप्रयोजनैषा सृष्टिः ।
@@ -3333,6 +3333,11 @@ The copulative compounds in the singular are in accordance with Pāṇini’s Su
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/041_evam_etair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+041	Thus was this whole (creation), both the immovable and the movable, produced by those high-minded ones by means of austerities and at my command, (each being) according to (the results of) its actions.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In this manner was all this, movable and immovable, called into being, through the force of austerities, by these high-souled sages, under my direction,—in accordance with their actions.—(11)
@@ -3367,11 +3372,6 @@ In this manner was all this, movable and immovable, called into being, through t
 **एवम् **इति । अनेन प्रकारेण तैः मुनिभिः मदाज्ञया सृज्यमानप्राणिकर्मगतकर्मानुरूपेण इदं तपोबलात् सृष्टम् ॥ १.४१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-041	Thus was this whole (creation), both the immovable and the movable, produced by those high-minded ones by means of austerities and at my command, (each being) according to (the results of) its actions.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं च कर्मनिमित्तः संसारो त्रासितो(दर्शितो?) भवति । मरीच्यादिप्रजापतिसृष्टेर् अयम् उपसंहारार्थः श्लोकः ।
@@ -3389,6 +3389,11 @@ In this manner was all this, movable and immovable, called into being, through t
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/042_yeShAn_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+042	But whatever act is stated (to belong) to (each of) those creatures here below, that I will truly declare to you, as well as their order in respect to birth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That kind of action which belongs to the several beings has been described here. I am now going to explain the manner of their birth.—(42) 
@@ -3439,11 +3444,6 @@ called because of the act of *destroying in secret* (‘*rahasi kṣaṇana*’)
 
 **येषाम्** इति । **येषां **भूतानां यथारूपं **कर्म तत् तहैवेह** शास्त्रे **कीर्तितम् **एव । युष्माकं यतो नामनिर्देशाद् एव, देवताद्योतनात् द्युतिस्थानाद् वा देवताः, यक्षणाद् यक्षाः इत्य् एवमादिकर्मप्रतिपत्तिः । इदानीं येन कर्मसम्बन्धेन जायन्ते तं वक्ष्यामीति _केचित्_ । अथ वा **येषां यादृशं कर्म इह **संसारे पूर्वैर् अपि कथितं यथा ओषध्यः फलपाकान्ता इत्य् एवमादि **तत् तथा अभिधास्यामि **यथा **क्रमयोगं चेति** ॥ १.४२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-042	But whatever act is stated (to belong) to (each of) those creatures here below, that I will truly declare to you, as well as their order in respect to birth.
-</details>
 </details>
 </div>
 
@@ -3457,6 +3457,11 @@ called because of the act of *destroying in secret* (‘*rahasi kṣaṇana*’)
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/043_pashavash_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+043	Cattle, deer, carnivorous beasts with two rows of teeth, Rakshasas, Pisakas, and men are born from the womb.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Cattle, Deer, Wild Beasts with two rows of teeth, Rākṣasas, Piśācas and Men are viviparous.—(43)
@@ -3493,11 +3498,6 @@ The term ‘*dat*’ is synonymous with ‘*danta*,’ and is totally different 
 
 **पशव** इति । **जरायु**गर्भसम्पातः तत्रादौ सम्भवन्ति । ततस् तन्मुक्ता जायन्ते ॥ १.४३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-043	Cattle, deer, carnivorous beasts with two rows of teeth, Rakshasas, Pisakas, and men are born from the womb.
-</details>
 </details>
 </div>
 
@@ -3511,6 +3511,11 @@ The term ‘*dat*’ is synonymous with ‘*danta*,’ and is totally different 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/044_aNDAjAH_paxiNaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+044	From eggs are born birds, snakes, crocodiles, fishes, tortoises, as well as similar terrestrial and aquatic (animals).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Birds, Serpents, Crocodiles, Fishes, Tortoises, and other animals of similar kinds, terrestrial as well as aquatic,—are oviparous.—(44)
@@ -3540,11 +3545,6 @@ Birds, snakes, crocodiles and tortoises form another group and born from eggs, j
 
 **अण्डजा** इति । अण्डे आदौ सम्भवन्ति । ततो जायन्ते **नक्रः **शिशुमाराख्यः प्राणी । **कच्छपः **कूर्मः । **स्थलजानि **कृकलासादीनि । **औदकानि च** शङ्खादीनि ॥ १.४४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-044	From eggs are born birds, snakes, crocodiles, fishes, tortoises, as well as similar terrestrial and aquatic (animals).
-</details>
 </details>
 </div>
 
@@ -3558,6 +3558,11 @@ Birds, snakes, crocodiles and tortoises form another group and born from eggs, j
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/045_svedajan_daMsha-mashakam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+045	From hot moisture spring stinging and biting insects, lice, flies, bugs, and all other (creatures) of that kind which are produced by heat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Gadflies and Gnats, Lice, Flies and Bugs, are sweat- born; whatever else is of similar character is born from heat—(45)
@@ -3592,11 +3597,6 @@ The two halves form two distinct sentences. So Burnell; but Buhler takes the who
 
 **स्वेदजम्** इति । **स्वेदः **पार्तिवद्रव्याणां अन्तःक्लेदः । **अन्यद् **अपि च यदृशमशकादिसदृशं पिपीलिकादि तत् । **यूका मत्कुणाः **स्वेदाद् एव जायन्ते ॥ १.४५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-045	From hot moisture spring stinging and biting insects, lice, flies, bugs, and all other (creatures) of that kind which are produced by heat.
-</details>
 </details>
 </div>
 
@@ -3610,6 +3610,11 @@ The two halves form two distinct sentences. So Burnell; but Buhler takes the who
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/046_udbhijjAH_sthAvarAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+046	All plants, propagated by seed or by slips, grow from shoots; annual plants (are those) which, bearing many flowers and fruits, perish after the ripening of their fruit;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All those immovable brings that are produced by splitting (i.e., Plants) grow out of seeds and slips. those that, abounding in flowers, perish with the ripening of their fruit, are called ‘oṣadhis’ (‘Annuals’).—(46)
@@ -3659,11 +3664,6 @@ Medhātithi takes ‘*udbhijjāḥ sthāvarāḥ*’ as the subject, and ‘*bī
 **उद्भिज्जास्तरव** इति । ऊर्ध्वं भुवं भित्त्वा वृक्षा जायन्ते । ते तु केचिद् बीजाद् एव जायन्ते । अन्ये तु बीजात् काण्डाच् च । शाखाः (शाखैः) बहिर्भूमौ रोपिता वृक्षीभवन्ति । अधुना येषां तु यादृशं कर्मेति यद् उक्तं तद् दर्शयति – **ओषध्य **इति । ओषधीनां व्रीह्यादिकानां फलपाकेनैवान्तः तेन ताः शुष्यन्ति । **बहुपुष्पफलम् **उपगच्छन्ति बहुना संयुक्ता भवन्ति ॥ १.४६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-046	All plants, propagated by seed or by slips, grow from shoots; annual plants (are those) which, bearing many flowers and fruits, perish after the ripening of their fruit;
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उक्तानां पूर्वम् अत्र च प्रकरणे "**येषां तु यादृशं कर्म भूतानाम् इह कीर्तितम्**" इति नामधेयनिर्देशाद् एवैतत् । **कर्म कीर्तितं** कर्म तेषां कर्मजत्वान् नाम्नस् तद् यथा देवनाद् द्योतनाद् द्युस्थानाद् वा देवा, ऋषयो दर्शनाद्, यक्षणाद् यक्षाः, पिशिताशनात् पिशाचाः, गं(?) गमनात् गन्धर्वाः, अप इव सुरसः अप्सरसः अमृताख्यायः(?) सुरा वा, अलाभाद् असुराः, नास्त्य् एषाम् अगम् इति नागाः, सर्पणात् सर्पाः, शोभनपतनात् सुपर्णाः, पात्रत्वात् पितरः, नानाद्योतनाद् विद्युतः, अत्यर्थशातादशनिः, सेकात् मेघाः, रोहितत्वाद् रोहितः, इन्द्रजालपदयथात्थदर्शनाद् इन्द्रधनुः, ऊर्ध्वकृतत्वाद् उल्काः, मिश्रीभावाद् यूकाः, शरीरभक्षणान् मत्कुणः, इत्येवमादि ।
@@ -3681,6 +3681,11 @@ Medhātithi takes ‘*udbhijjāḥ sthāvarāḥ*’ as the subject, and ‘*bī
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/047_apuShpAH_phalavanto.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+047	(Those trees) which bear fruit without flowers are called vanaspati (lords of the forest); but those which bear both flowers and fruit are called vriksha.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those trees that are called ‘vanaspati’ bear fruits without flowers; and those called ‘vṛkṣa’ bear both flowers and fruits.—(47)
@@ -3716,11 +3721,6 @@ Though what is stated in the present verse is a well known fact (and as such did
 **अपुष्पा **इति । वनस्पतीनां पुष्पम् अन्तरेणैव फलानि भवन्ति । वृक्षाः पुनः पुष्पफलेनोभयेनापि युक्ता भवन्ति ॥ १.४७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-047	(Those trees) which bear fruit without flowers are called vanaspati (lords of the forest); but those which bear both flowers and fruit are called vriksha.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **वृक्षा वनस्पतय** इति नेदं व्यवस्थार्थम् उच्यते । किं तर्हि । उभयम् उभयत्र । वृक्षा वनस्पतयो वनस्पतयो वृक्षाः । एवं च सति वृक्षग्रहणेन वनस्पतिग्रहणं सर्ववनस्पतीनाम् इष्टो (?) यथार्थ इति वृक्षे वनस्पतिशब्दो दृष्टः । अयं च वक्ष्यति । "वनस्पतीनां सर्वेषाम् उपभोगो यथा यथा" (८.२८५) इति । न च तत्राम्रादिवृक्षपर्युदासः शक्यो विज्ञातुं शास्त्रान्तराभावात् समानकार्यत्वाच् च ।
@@ -3738,6 +3738,11 @@ Though what is stated in the present verse is a well known fact (and as such did
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/048_guchCha-gulman_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+048	But the various plants with many stalks, growing from one or several roots, the different kinds of grasses, the climbing plants and the creepers spring all from seed or from slips.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The various kinds op clumps and thickets, and the other species of grass, as also low-spreading tendrils and creepers—all these grow out of seeds and slips.—(48)
@@ -3768,11 +3773,6 @@ Burnell represents Medhātithi to explain ‘*guccha-gulma*’ as ‘one root an
 **गुच्छगुल्मम्** इति । मूलत एव येषां लतावृन्दं भवति । न तु प्रकाण्डानि ते **गुच्छाः **मल्लिकाद्याः । **गुल्मास्** तु अस्पष्टह्रस्वप्रायलतात्मकाः अप्रकाण्डाः पुष्पकाद्याः । **तृणजातयो** दूर्वाद्याः **प्रताना **तन्तुरूपाः त्रपुषालाबुप्रभृतयः **वल्ल्यः** व्रतत्यो गूडुच्यादयः ॥ १.४८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-048	But the various plants with many stalks, growing from one or several roots, the different kinds of grasses, the climbing plants and the creepers spring all from seed or from slips.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 वृक्षादिस्थावरात्मानो हि सर्व एवैते ।
@@ -3790,6 +3790,11 @@ Burnell represents Medhātithi to explain ‘*guccha-gulma*’ as ‘one root an
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/049_tamasA_bahu-rUpeNa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+049	These (plants) which are surrounded by multiform Darkness, the result of their acts (in former existences), possess internal consciousness and experience pleasure and pain.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All these (vegetable beings) are invested by manifold ‘darkness’ (inertia), the result of their acts; and possessing inner consciousness, they are affected by pleasure and pain.—(49)
@@ -3831,11 +3836,6 @@ animate beings in the state of sleep, intoxication or swoon. \[Which shows that 
 **तमसेति** । सत्त्वरजस्तम आख्या गुणाः । तत्रैते वृक्षादयः पदर्था विविधदुःखोत्पादनरूपेण प्राग्जन्मार्जितदुष्टकर्महेतुना **तमसा **व्याप्ता भवन्ति । यद्य् अपि सर्व एव क्वचिद् अन्तर् एव चेतयन्ते तथाप्य् एते सञ्ज्ञाकार्यस्य व्यवहारादेः बहिरभावाद् **अन्तःसञ्ज्ञा **उच्यते । सत्त्वरजोलेशस्यापि सद्भावान् **सुखदुःखान्विता **अपि भवन्ति ॥ १.४९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-049	These (plants) which are surrounded by multiform Darkness, the result of their acts (in former existences), possess internal consciousness and experience pleasure and pain.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **तमसा** धर्मेण **बहुरूपेणा**नेकप्रकारेण **वेष्टिताः** सम्बन्धाः शिष्टाकरणप्रतिषिद्धसेवनारूपेनासत्**कर्महेतुना** **अन्तःसञ्ज्ञा भवन्त्य् एते** सर्व एव स्थावरात्मानः यथा जले बालेव (?) पुरुषे विद्यमानाव् इन्द्रियवृत्तिदोषप्रसङ्गाद् अन्यतो वा कारणान् नाविर्भवति एवं वृक्षादिषु विद्यमानापीन्द्रियवृत्तिः प्राणादिवृत्तिश् च जातिप्रबन्धान् नाविर्भवति । कर्मतः उभाभ्यां सुखदुःकाभ्यां श[१ अक्ष् उन्च्लेअर्]नितास् तु चैतन्यावभवति (?) । तथा च श्रुतिः "स यां शाखो(खां) जीवो जहाति अथ सा सुष्यति" इति । न्यायश् च तद्विरुद्धो न प्रमाणम् इत्य् उक्तम् । एवं च सति,
@@ -3853,6 +3853,11 @@ animate beings in the state of sleep, intoxication or swoon. \[Which shows that 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/050_etad-antAs_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+050	The (various) conditions in this always terrible and constantly changing circle of births and deaths to which created beings are subject, are stated to begin with (that of) Brahman, and to end with (that of) these (just mentioned immovable creatures).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus have been described the conditions of life, beginning with brahmā and ending with those just mentioned, which occur in this ever frightful and constantly fluctuating cycle of births and deaths of created beings.—(50)
@@ -3896,11 +3901,6 @@ This description of the cycle of births and deaths as being due to Virtue and Vi
 **एतदन्ता **इति । स्थावरावसानाः ब्रह्मप्रधानाः संसारोत्पत्तयो नित्यं **घोरे** भीषणे ऽस्मिन् **भूत्नानां **क्षेत्रज्ञानां **संसारे **बहुशः शरीरादानत्यागलक्षणाः सर्वा नश्वरा उक्ताः ॥ १.५० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-050	The (various) conditions in this always terrible and constantly changing circle of births and deaths to which created beings are subject, are stated to begin with (that of) Brahman, and to end with (that of) these (just mentioned immovable creatures).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तथा । धर्माधर्मनिमित्तत्वं संसारस्याश्रितत्वं भवत्य् उत एवं च व्यासः ।
@@ -3923,6 +3923,11 @@ This description of the cycle of births and deaths as being due to Virtue and Vi
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/051_evaM_sarvam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+051	When he whose power is incomprehensible, had thus produced the universe and men, he disappeared in himself, repeatedly suppressing one period by means of the other.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus repeatedly suppressing time (of dissolution) by time (of creation and maintenance), he, of inconceivable power, created all this and also myself; [he directed me to maintain it] and then disappeared within himself.—(51)
@@ -3947,11 +3952,6 @@ Thus repeatedly suppressing time (of dissolution) by time (of creation and maint
 <details><summary>गोविन्दराजः</summary>
 
 एवं सृष्टिं प्रदर्श्य इदानीं प्रलयं दर्शयितुम् आह – **सर्वम् एवम्** इति । अनेन प्रकारेण इदं **मां च सृष्ट्वा स** प्रजापतिः अचिन्त्यशक्तिः पुनः **आत्मन्य् **एवान्तर्धानं कृतवान् । शरीरत्यागेन सृष्टि**कालं **प्रलय**कालेन** विनाशयन् प्राणिनां कर्मवशतः स्वेच्छया च पुनः पुनः सर्गसंहारौ करोतीत्य् अर्थः ॥ १.५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-051	When he whose power is incomprehensible, had thus produced the universe and men, he disappeared in himself, repeatedly suppressing one period by means of the other.
 </details>
 
 <details><summary>भारुचिः</summary>

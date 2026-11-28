@@ -11,6 +11,11 @@ title = "०४ ऋतुसङ्गमनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/045_RtukAlAbhigAmI_syAt.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+045	Let (the husband) approach his wife in due season, being constantly satisfied with her (alone); he may also, being intent on pleasing her, approach her with a desire for conjugal union (on any day) excepting the Parvans.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should observe the rule of approaching (one’s wife) during the period of her season,—ever attached to his own wife. In consideration of her he may approach her with a desire for sexual intercourse, except on the sacred days.—(45)
@@ -279,11 +284,6 @@ progeny female, excess of man’s seed makes the progeny male; therefore for inc
 > एवं चेह ऋताव् अनृतौ चार्हित्वात् प्राप्तौ सत्यां अनृतौ न गच्छेद् इत्य् एवं यद्य् अपि परिसङ्ख्या तु (न) मापद्यते (न) नियमरूपता पाक्षिक्त्वाभावात् तथाप्य् अगमने दोषश्रवणात् नियमार्थतैव न्याय्या । स्वदारसन्तुष्टश् च नित्यं स्यात् न स्त्र्यन्तरम् उपागच्छेद् इति ऋतौ उपगच्छेद् इति भार्यागमनप्राप्ता च भार्यागमनपरिसङ्ख्यैषा अमावास्यादिपर्ववर्जम् ऋताव् अपि भायां तत्संरक्षणवतः सन्ततिकाम्यया विनाप्य् अपत्योत्पत्तिं तत्सुरतसम्भोगेच्छया नियमत उपेयात् । यत् तु “अमावास्याम् अष्टमीं च” (४.१२८) इत्यादि वक्ष्यति तत् “ऋतुकालाभिगामी स्याद्” इत्य् अनेनार्तौ पर्वस्व् अपि गमनप्राप्तौ निषेधार्थम् । “तथा चानृतौ” इति तत्र च वक्ष्यति ॥ ३.४५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-045	Let (the husband) approach his wife in due season, being constantly satisfied with her (alone); he may also, being intent on pleasing her, approach her with a desire for conjugal union (on any day) excepting the Parvans.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **ऋतुर्** वक्ष्यमाणो गर्भग्रहणसमर्थः कालः कृतापवादो (?) दश रात्राख्यः । ऋतुकालाभिगमनं प्रक्रमो ऽस्य (?) सो ऽयम् **ऋउकालाभिगामी** यथा स्थण्डिलवर्तिवतेन्नि (?) निवेदितव्यः । **स्याद्** एवं भवेद् इत्य् अर्थः । किम् इयं परिसङ्ख्या ऋतुकाले प्रतिषेधार्था नेत्य् आह । किं तर्हि । नियमः । कः पुनर् अनयोर् विशेषः । परिसङ्ख्यान्यनिवृत्त्यर्था । विधिश् चाप्राप्तप्रापणार्थः । नियमस् त्व् अर्थप्राप्तस्य प्राप्तिवचनम् । अनुषङ्गतश् चान्यनिवृत्तिं क्र्त्वानुगमे दोषः प्रायश्चित्तस्मरणाद् यथाविधि नियोगवत् । वक्ष्यति हि "नियुक्तस् तु यथान्यायम्" (म्ध् ५.३५) इत्य् एवमाद्यं च । "**पर्ववर्जं व्रजेच् चैनाम्**" इत्य् एतद् युक्तारम्भं वाक्यान्तरं भवति, अर्थभेएदात् । तथा हि "**पर्ववर्जं व्रजेत्**" इति यद् एकवाक्यं स्याद् अर्थभेदाभावात् । तस्माद् अर्थप्राप्तस्य नियम इत्य् उपपन्नम् । निऋत्तिश् चात्र गम्यमाना । अथान्यत्र "**स्वदारनिरतश् च स्यात्**" इति वर्तते । अयम् अर्थप्राप्तस्य परदारोपगमनस्य प्रतिषेधः । एवं च सति वाक्यान्तरम् इदम् अर्थभेदाद् भवति । **सदेति** तदुभयशेषः । कथम् । यद्य् अपि जातपुत्रस्य द्वितीयादिषु पुत्रजन्मनिन्दा अर्थवादः "कामजान् इतरान् विदुः" (म्ध् ९.१०७) । तथापि **स्वदारनिरतः स्याज्** जातपुत्रो ऽपीत्य् अर्थः । तथा च मन्त्रवर्णः- "दशास्यां पुत्रान् आधेहि पतिम् एकादशं कृधि" इति । परदारवर्जी सदेति विधवानियोगपक्षे ऽपि जातिमात्राद् वा इत्य् अनेन । अपरस् त्व् आह सजातीय (?) सवर्णायाम् एवर्तुकालाभिगामित्वं युक्तत्वार्थतासम्भवाच् च । इतरासु पुनर् याथात्म्यम् । तत् पुनर् न्याय्य्ं वेति विचारणीयम् । इदानीं दशरात्रस्यर्तोर् अभ्यन्तरे पूर्वशास्त्रेण प्राप्तसप्तकालोपगमं वारयति पर्ववर्जम् इति । तथा च वक्ष्यति । 
@@ -312,6 +312,11 @@ progeny female, excess of man’s seed makes the progeny male; therefore for inc
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/046_RtuH_svAbhAvikaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+046	Sixteen (days and) nights (in each month), including four days which differ from the rest and are censured by the virtuous, (are called) the natural season of women.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Sixteen days, including the four days that are censured by good men, have been declared to be the normal “season” for women.—(46)
@@ -367,11 +372,6 @@ See Comparative notes for [Verse 3.45].
 **ऋतुर्** इति । **चतुर्भिर्** दिवसैः उत्तमजननिन्दितैः सह षोडशाहोरात्राणि स्त्रीणां रोग्याद्यजनितऋतुक्रमः ॥ ३.४६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-046	Sixteen (days and) nights (in each month), including four days which differ from the rest and are censured by the virtuous, (are called) the natural season of women.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **स्वाभाविको** नाम **ऋतुः स्त्रीणां** यो न द्रव्यरागरोगैः (?) प्रवर्तते चतुर्भिर् इतरैः प्रथमैर् अशुचिभिः सार्धं सद्विगर्हितैर् इति निन्दार्थवादो निवृत्त्यर्थः ।
@@ -389,6 +389,11 @@ See Comparative notes for [Verse 3.45].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/047_tAsAm_AdyAsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+047	But among these the first four, the eleventh and the thirteenth are (declared to be) forbidden; the remaining nights are recommended.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of these the first four days have been deprecated, as also the eleventh and the thirteenth, the remaining ten days have been recommended.—(47)
@@ -443,11 +448,6 @@ See Comparative notes for [Verse 3.45].
 **तासाम् **इति । **तासां** पुनः षोडशानां रात्रीणां **आद्याश् चतस्रः** ऋतुदर्शनात् प्रभृति **चैकादशीत्रयोदश्यौ च **निन्दिताः । अतस् तासु न गन्तव्यम् । **शिष्टा दश् रात्रयो **गमने **प्रशस्ता स्युः** ॥ ३.४७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-047	But among these the first four, the eleventh and the thirteenth are (declared to be) forbidden; the remaining nights are recommended.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तासां <u>षण्णितद</u> (?) षोषश प्रशस्ताः ऋतुदर्शनात् प्रभृति । एकादशीत्रयोदश्यौ विज्ञेयौ । न चन्द्रतिथयस् तु **दश प्रशस्तास्** **तासाम्** ।
@@ -465,6 +465,11 @@ See Comparative notes for [Verse 3.45].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/048_yugmAsu_putrA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+048	On the even nights sons are conceived and daughters on the uneven ones; hence a man who desires to have sons should approach his wife in due season on the even (nights).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the even days male children are conceived, and female ones on the uneven days; therefore one who desires a son should have recourse to ones wife on the even days of her “season.”—(48)
@@ -519,11 +524,6 @@ See Comparative notes for [Verse 3.45].
 **युग्मास्व्** इति । **युग्मासु** षष्ट्यष्टम्याद्यासु गच्छतः **पुत्रा जायन्ते** । **अयुग्मासु **सप्तमीनवम्याद्यासु स्त्रियः । अतः **पुत्रार्थी युग्मासु** ऋतुकाले भार्यां व्रजेत्, यास्व् अल्पीभावाद् आर्तवस्य । तथा चायुर्वेदः “युग्मास्व् अल्पी भवत्य् आर्तवम् अयुग्मासु तस्मात् पुत्रस्य दुहितुर् जन्मोत्पद्यते” ॥ ३.४८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-048	On the even nights sons are conceived and daughters on the uneven ones; hence a man who desires to have sons should approach his wife in due season on the even (nights).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 जातपुत्रः श्रौतधर्माधिकारार्थम् आत्मसंस्कारार्थं चायं तावत् सर्गः (?) । परस्य त्व् अपवादार्थः ।
@@ -541,6 +541,11 @@ See Comparative notes for [Verse 3.45].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/049_pumAn_puMso.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+049	A male child is produced by a greater quantity of male seed, a female child by the prevalence of the female; if (both are) equal, a hermaphrodite or a boy and a girl; if (both are) weak or deficient in quantity, a failure of conception (results).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A male child is born when the man’s seed is in excess, and a female child when the woman’s (is in excess); when the two are equal, there is born either a non-male or a boy and a girl; when it is weak and small in quantity, there is failure.—(49)
@@ -616,11 +621,6 @@ See Comparative notes for [Verse 3.45].
 **पुमान्** इति । पुंसो ऽधिकबीजे अयुग्मास्व् अपि रात्रिषु पुमान् स्त्र्याकृतिः दुर्बलो हीनाङ्गो जायते, आयुर्वेदे एवाभिधानात् । स्त्रीबीजे त्व् अधिके युग्मास्व् अपि स्त्री पुरुषाक्र्तिः दुर्बला हीनाङ्गी वा जायते आयुर्वेददर्शनात् । समे स्त्रीपुरुषबीजे युग्मास्व् अयुग्मास्व् अपि नपुंसकं जायते ॥ ३.४९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-049	A male child is produced by a greater quantity of male seed, a female child by the prevalence of the female; if (both are) equal, a hermaphrodite or a boy and a girl; if (both are) weak or deficient in quantity, a failure of conception (results).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **पुमान् भवति** कदाचित् स्त्री काले ऽपि यदा पुंसः शुक्लं पुंसः स्त्रीबीजात् । एवं **स्त्री** कदाचित् **भवति** पुरुषकाले ऽपि युग्माच् **चाधिके** स्त्रीबीजं पुरुषबीजात् । कथम् एतद् गम्यते । स्त्रीपुरुषजन्मकालो वायम् आरम्भसामर्थ्ये स्याद् अस्य **समे** **ऽपुमान्**, भिन्ने स्त्रीपुरुषबीजे **[११८]** वायुना यदि युग्मा यद्य् अयुग्मा तिथिः पुंस्त्रियो[र्] वा विषमभेदे युगपत् समबीजभेदे वा स्त्रियौ पुरुषौ वा भवतो दैवनिपातसामर्थ्यात् । **क्षीणे ऽल्प** इत्य् उभयस्मिन् अल्प इत्यर्थः । अयं चेद् ऋशो (?) निर्देशो ऽनुष्टुप्छन्दोऽनुविधानेन **विपर्ययो** नपुंसकजन्मोक्तानुवादः अभावो वा । गर्भस्य विपर्यायो ऽथ वा क्षीणे परिमाणतो ऽल्पसारत इति । इदानीं द्वितीयस्मृत्युपन्यासः "प्रशस्ता दश रात्रयः" (म्ध् ३.४७) इत्य् अस्याः क्रियते ।
@@ -639,6 +639,11 @@ See Comparative notes for [Verse 3.45].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/050_nindyAsv_aShTAsu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+050	He who avoids women on the six forbidden nights and on eight others, is (equal in chastity to) a student, in whichever order he may live.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘By avoiding women on the forbidden days and also on the eight other days, one remains a “religious student” (observing the vow of continence), in whatever stage of life he may happen to be.”—(50)
@@ -695,11 +700,6 @@ See Comparative notes for [Verse 3.45].
 <details><summary>गोविन्दराजः</summary>
 
 निन्द्यासु षट्सु **अन्यासु** चाष्टासु रात्रिषु यासु कासुचिन् न क्रमेणैव स्त्रियं परिहरन् रात्रिद्वये ऽवशिष्टे गच्छन् गार्हपथ्याद् आश्रमान्तरे ऽपि वसन् **ब्रह्मचार्य् एव भवति ।** न ब्रह्मचर्यखण्डनदोषो ऽस्य भवतीत्य् उत्पन्नविनष्टपुत्रस्य आश्रमान्तरस्थस्यापि इच्छया पुत्रार्थं रात्रिद्वयगमनं यत्र तत्राश्रमे वसन्न् अपि पुत्रार्थी संविशेद् इति प्रस्तुतत्वात् पुत्रस्य च महोपकारकत्वेन श्रवणाद् यत् आश्रमान्तरे ऽत्यन्तब्रह्मचर्योपदेशाद् अयुक्तम् एतद् इत्य् आहुः । तद् असत्, अस्यापि शास्त्रगोचरत्वात् ॥ ३.५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-050	He who avoids women on the six forbidden nights and on eight others, is (equal in chastity to) a student, in whichever order he may live.
 </details>
 
 <details><summary>भारुचिः</summary>

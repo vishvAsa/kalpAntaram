@@ -12,6 +12,12 @@ title = "११ गणपति-कल्प-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/271_vinAyakaH_karmavighna.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vināyaka was appointed by Rudra and Brahmā  
+to bring about obstacles to actions, and to hold leadership over the gaṇas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विनायकः कर्म-विघ्न-  
@@ -69,6 +75,12 @@ _एवं तावच् छ्राद्धम् उपदिष्टम�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/272_tenopasRShTo_yas.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Learn the marks of one who is possessed by him:  
+he plunges deeply into water in dreams, and sees shaven-headed men;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेनोपसृष्टो यस् तस्य  
@@ -133,6 +145,12 @@ _कथं पुनः प्राक्तनाशुभसंयोगः �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/273_kAShAyavAsasash_chaiva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+he sees people wearing ochre robes, and mounts carnivorous animals;  
+he stands together in one place with outcasts, donkeys, and camels;
+</details>
+
 <details><summary>मूलम्</summary>
 
 काषाय-वाससश् चैव  
@@ -153,6 +171,12 @@ _कथं पुनः प्राक्तनाशुभसंयोगः �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/274_vrajann_api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+even when walking, he imagines himself pursued by enemies;  
+he is despondent, his undertakings fail, and he falls into despair without cause.
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्रजन्न् अपि तथ +आत्मानं  
@@ -195,6 +219,12 @@ _अथ जागरणे_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/275_tenopasRShTo_labhate.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Possessed by him, a prince does not gain the kingdom,  
+a maiden does not obtain a husband, nor a woman offspring or conception;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेनोपसृष्टो लभते  
@@ -229,6 +259,12 @@ _इदं त्व् अत्रातिस्पष्टं प्रा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/276_AchAryatvaM_shrotriyash.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+a learned Brahmin does not attain the preceptor's status, nor a disciple his Vedic study;  
+a merchant does not gain profit, nor a ploughman agriculture.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आचार्यत्वं श्रोत्रियश् च  
@@ -273,6 +309,12 @@ _इदं त्व् अत्रातिस्पष्टं प्रा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/277_snapanan_tasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For him a bath should be performed on an auspicious day according to rule,  
+after he has been rubbed with white mustard paste mixed with clarified butter,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्नपनं तस्य कर्तव्यं  
@@ -372,6 +414,12 @@ _अयं त्व् अत्र प्रतिसमाधिः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/278_sarvAuShadhaiH_sarvagandhair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+and his head anointed with all medicinal herbs and all perfumes;  
+while he is seated on an auspicious seat, auspicious Brahmins should be made to pronounce blessings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वाउषधैः सर्व-गन्धैर्  
@@ -392,6 +440,12 @@ _अयं त्व् अत्र प्रतिसमाधिः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/279_ashvasthAnAd_gajasthAnAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should cast into the water earth from a stable, an elephant-stable, an anthill, a confluence, and a lake,  
+and [also] rocanā, perfumes, and bdellium.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अश्व-स्थानाद् गज-स्थानाद्  
@@ -451,6 +505,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/280_yA_AhRtA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then, onto a red ox-hide, [water] brought from a lake  
+with four monochromatic jars should be poured, and the auspicious seat placed thereon.
+</details>
+
 <details><summary>मूलम्</summary>
 
 या आहृता ह्य् एक-वर्णैश्  
@@ -478,6 +538,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/281_sahasrAxaM_shatadhAram.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘[The water] thousand-eyed, hundred-streamed, made purifying by the sages—  
+with that I sprinkle you; may the purifying verses purify you!’
+</details>
+
 <details><summary>मूलम्</summary>
 
 सहस्राक्षं शत-धारम्  
@@ -538,6 +604,12 @@ _अमी तु स्नपनमन्त्राः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/282_bhagan_te.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘May King Varuṇa give you fortune; fortune may the Sun [and] Bṛhaspati [give];  
+fortune may Indra and Vāyu, fortune may the Seven Sages give!’
+</details>
+
 <details><summary>मूलम्</summary>
 
 भगं ते वरुणो राजा  
@@ -567,6 +639,12 @@ _अमी तु स्नपनमन्त्राः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/283_yat_te.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘Whatever misfortune is in your hair, in the parting of your hair, and on your head,  
+on your forehead, your two ears, [and] your two eyes—may the waters always destroy that!’
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत् ते केशेषु दौर्भाग्यं  
@@ -595,6 +673,12 @@ _अमी तु स्नपनमन्त्राः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/284_snAtasya_sArShapan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For him who has bathed, holding kuśa grass with the left [hand],  
+one should offer mustard oil upon his head with an udumbara ladle,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्नातस्य सार्षपं तैलं  
@@ -656,6 +740,12 @@ _एवं तावत् कलशचतुष्टयेनापि ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/285_mitash_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the names ‘Mita’, ‘Sammita’, and likewise ‘Śālakaṭaṅkaṭa’,  
+and ‘Kūśmāṇḍarājaputra’, accompanied at the end by ‘svāhā’.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मितश् च सम्मितश् चैव  
@@ -699,6 +789,12 @@ _अमी तु होममन्त्राः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/286_nAmabhir_balimantraish.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having scattered kuśa grass all around in a winnowing basket at a crossroads,  
+one should offer [the oblations] with the names and the offering mantras accompanied by obeisance:
+</details>
+
 <details><summary>मूलम्</summary>
 
 नामभिर् बलि-मन्त्रैश् च  
@@ -771,6 +867,12 @@ _एवं तावद् गृह एव कर्म । अतः परं
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/287_kRtAkRtAMs_taNDulAMsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Cooked and uncooked rice grains, and sesame-seed rice,  
+fish cooked and raw, and only just that much meat,
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृताकृतांस् तण्डुलांश् च  
@@ -805,6 +907,12 @@ _किं पुनस् तच् छूर्पे देयम् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/288_puShpa~n_chitraM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Variegated and fragrant flowers, and liquor of three kinds as well,  
+radish, pūrikā cakes, and likewise garlands of oṇḍeraka cakes,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुष्पं चित्रं सु-गन्धं च  
@@ -839,6 +947,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/289_dadhy_annam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Curd, boiled rice, rice-milk pudding, and jaggery-dough with water—  
+having brought together all these, and then placing his head on the ground,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दध्य् अन्नं पायसं चैव  
@@ -859,6 +973,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/290_vinAyakasya_jananIm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should then revere Ambikā, the mother of Vināyaka,  
+having offered a full palmful of dūrvā grass, mustard, and flowers as an arghya offering:
+</details>
+
 <details><summary>मूलम्</summary>
 
 विनायकस्य जननीम्  
@@ -919,6 +1039,12 @@ _अनन्तरम् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/291_rUpan_dehi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘Give [me] beauty, give renown, give me fortune, O Lady!  
+Give sons, give wealth, and give me all desires!’
+</details>
+
 <details><summary>मूलम्</summary>
 
 रूपं देहि यशो देहि  
@@ -963,6 +1089,12 @@ _अयं तूपस्थानमन्त्रः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/292_tataH_shuklAmbaradharaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then, wearing white garments, with white garlands and ointments,  
+he should feed Brahmins and give a pair of garments even to his guru.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततः शुक्लाम्बर-धरः  
@@ -1005,6 +1137,12 @@ _एवम् उपस्थाय ततः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/293_evaM_vinAyakam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having thus worshipped Vināyaka and the planets according to the rule,  
+he attains the fruit of his undertakings and attains unsurpassed prosperity.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवं विनायकं पूज्य  
@@ -1053,6 +1191,12 @@ _अस्यैव विनायकस्नपनस्योक्तोप
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/11_gaNapati-kalpa-prakaraNam/294_Adityasya_sadA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Always performing worship of the Sun, and an auspicious forehead-mark, and [worship] of the Lord,  
+and of Mahāgaṇapati, one would attain success.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आदित्यस्य सदा पूजां  

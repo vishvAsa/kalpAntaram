@@ -23,6 +23,12 @@ title = "०६ लेख्य-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/06_lekhya-prakaraNam/084_yaH_kashchid.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever transaction has been agreed upon mutually by their own consent,  
+a document attested by witnesses should be made regarding it, beginning with the creditor's [name],
+</details>
+
 <details><summary>मूलम्</summary>
 
 यः कश्चिद् अर्थो निष्णातः  
@@ -152,6 +158,12 @@ _साक्ष्यनन्तरं व्यक्तिप्रमाण
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/06_lekhya-prakaraNam/085_samAmAsatadardhAhar_nAmajAtisvagotrakaiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+marked with the year, month, fortnight, day, name, caste, own lineage,  
+fellow-student status, and the names of oneself and one's father, and so forth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 समा-मास-तद्-अर्धाहर्-  
@@ -223,6 +235,12 @@ _ततश् चायं क्रमः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/06_lekhya-prakaraNam/086_samApte.arthe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the matter is completed, the debtor should write his name with his own hand:  
+'Approved by me, son of so-and-so, whatever is written above.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 समाप्ते ऽर्थे ऋणी नाम  
@@ -264,6 +282,12 @@ _अपि च_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/06_lekhya-prakaraNam/087_sAxiNash_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+And the witnesses, being equal, should write in their own hands, preceded by their fathers' names:  
+'Here I, so-and-so, am a witness.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 साक्षिणश् च स्व-हस्तेन  
@@ -313,6 +337,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/06_lekhya-prakaraNam/088_ubhayAbhyarthitenaitan_mayA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then the scribe should write at the end:  
+'Requested by both parties, this has been written by me, so-and-so, son of so-and-so.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 उभयाभ्यर्थितेनैतन्  
@@ -368,6 +398,12 @@ _ततः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/06_lekhya-prakaraNam/089_vinA.api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A document written in one's own hand, even without witnesses,  
+is traditionally regarded as valid evidence, except when made by force or fraud.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विना ऽपि साक्षिभिर् लेख्यं  
@@ -474,6 +510,12 @@ _किं पुनः स्वहस्तारोपणे प्रयो�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/06_lekhya-prakaraNam/090_RNaM_lekhyakRtan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A debt contracted by a written document must be paid by three generations only;  
+but a pledge is enjoyed for as long as it is not repaid.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋणं लेख्य-कृतं देयं  
@@ -558,6 +600,12 @@ _निर्व्याजप्रमाणशुद्धं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/06_lekhya-prakaraNam/091_deshAntarasthe_durlekhye.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a document is in another country, illegibly written, lost, effaced, stolen,  
+split, burned, or torn, another document should be made.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशान्तरस्थे दुर्लेख्ये  
@@ -663,6 +711,12 @@ _यदा त्व् ऋणिकदेशाद् देशान्तर�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/06_lekhya-prakaraNam/092_sandigdhalekhyashuddhiH_syAt.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Authentication of a doubtful document is achieved by means of one's own handwriting and the like,  
+by reason, possession, proof, circumstantial marks, relationship, and title.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्दिग्ध-लेख्य-शुद्धिः स्यात्  
@@ -892,6 +946,12 @@ _लेख्यस्वरूपे चेद् व्यभिचराश�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/06_lekhya-prakaraNam/093_lekhyasya_pRShThe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the back of the document the debtor should write each payment after paying the money;  
+or the creditor should give a receipt marked with his own hand.
+</details>
+
 <details><summary>मूलम्</summary>
 
 लेख्यस्य पृष्ठे ऽभिलिखेद्  
@@ -953,6 +1013,12 @@ _एवं च न्यायागमपरिनिष्ठितप्र�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/06_lekhya-prakaraNam/094_dattvA_rNam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having paid the debt, he should tear up the document, or have another made for clearance;  
+or whatever was done with witnesses should be repaid before witnesses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दत्त्वा र्णं पाटयेल् लेख्यं  

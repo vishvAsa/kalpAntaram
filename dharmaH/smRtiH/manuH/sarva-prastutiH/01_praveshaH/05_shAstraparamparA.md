@@ -12,6 +12,11 @@ title = "०५ शास्त्रपरम्परा"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/058_idaM_shAstram.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+058	But he having composed these Institutes (of the sacred law), himself taught them, according to the rule, to me alone in the beginning; next I (taught them) to Mariki and the other sages.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having prounded this Law, he himself, first of all, taught it to me with due care; I then taught it to Marīci and other Sages.—(58)
@@ -58,11 +63,6 @@ Parāśara-mādhava (Ācāra—p. 106) quotes this verse in support of the view 
 **इदम्** इति । स ब्रह्मा **इदं शास्त्रं** इमं ग्रन्थं **कृत्वा **शास्त्रस्य “इदं कर्तव्यम् इदं न” इत्य् एवं स्वरूपनित्यत्वान् **माम् एव **आत्मनादौ यत्नतो ऽध्यापितवान् । ततो **मरीच्यादीन् मुनीन्** **अहम् **अध्यापितवान् ॥ १.५८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-058	But he having composed these Institutes (of the sacred law), himself taught them, according to the rule, to me alone in the beginning; next I (taught them) to Mariki and the other sages.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 शास्त्रकरणाल् लिङ्गाच् छास्त्रं कुर्वन् । न तु धर्मं येन मनोर् अपि ह्य् अन्यत एवागमधर्मावगमं स्यात् (?) तथा चानादिताम् अस्य धर्मस्य व्याकरोति शास्त्रस्य साधुत्वाख्यापनाय **मरीच्यादींश्** चोदाहरति । तद् एवम् **इदं** स्वायम्भुवं **शास्त्रं** दर्शयित्वान्तरशेषतया भगवान् मनुर् इदम् आह ।
@@ -86,6 +86,11 @@ Parāśara-mādhava (Ācāra—p. 106) quotes this verse in support of the view 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/059_etad_vo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+059	Bhrigu, here, will fully recite to you these Institutes; for that sage learned the whole in its entirety from me.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This Bhṛgu will fully describe to you this (Law); this sage has learnt the whole of this in its entirety, from me.—(59)
@@ -118,11 +123,6 @@ This Verse is quoted by the Aparārka (p. 4) with a view to show that the writer
 
 **एतद्** इति । **अयं भृगुः एतच् छास्त्रं** युष्माकम् **अशेषं श्रावयिष्यति** यस्माद् **एतत् सर्वं** मत्सकाशाद् **एषो ऽखिलं** कृत्वा अधिगतवान् ॥ १.५९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-059	Bhrigu, here, will fully recite to you these Institutes; for that sage learned the whole in its entirety from me.
-</details>
 </details>
 </div>
 
@@ -138,6 +138,11 @@ This Verse is quoted by the Aparārka (p. 4) with a view to show that the writer
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/060_tatas_tathA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+060	Then that great sage Bhrigu, being thus addressed by Manu, spoke, pleased in his heart, to all the sages, 'Listen!'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thereupon, being thus directed by Manu, the great sage Bhṛgu, with a gladdened heart, said to the sages—‘Listen.’—(60)
@@ -176,11 +181,6 @@ With this verse ends the *Introductory Section* of the work, describing the Orig
 <details><summary>गोविन्दराजः</summary>
 
 **तत** इति । **स भृगुः मनुना तथोक्तः **अयं श्रावयिष्यतीत्य् अनेन प्रकारेणार्थाद् उक्तो न तु त्वं श्रावयेति । **ततो** ऽनन्तरं **स** (गुरुः) **भृगुः** सम्भावनया **प्रीतात्मा तान् ऋषीन् श्रूयताम् इत्य् **उवाच ॥ १.६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-060	Then that great sage Bhrigu, being thus addressed by Manu, spoke, pleased in his heart, to all the sages, 'Listen!'
 </details>
 
 <details><summary>भारुचिः</summary>

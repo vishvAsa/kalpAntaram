@@ -12,6 +12,11 @@ title = "०९ शिष्यलक्षणम्"
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/108_agnIndhanam_bhaixacharyAm.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+108	Let an Aryan who has been initiated, (daily) offer fuel in the sacred fire, beg food, sleep on the ground and do what is beneficial to this teacher, until (he performs the ceremony of) Samavartana (on returning home).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born person, whose Initiation has been performed, should continue to do, till the final Bath of “Return” (Samāvartana), tub kindling of fire, the begging of food, the sleeping on the ground and the acting for the teacher’s well- being.—(108)
@@ -139,11 +144,6 @@ fire-tending during the twilights, Vedic study, service of the Teacher, these th
 **अग्नीन्धनम्** इति । अग्निसमिदाधानभैक्षचरणखट्वाद्यशनगुरुगृहोपलेपनाद्यात्मक-गुरुहितानि समावर्तनाख्यव्रतकालं यावत् उपनयनकालोत्तरकालं **द्विजः कुर्यात् **। प्रधानानुपयायित्वेनाङ्गानां यावद् ब्रह्मचर्यम् एषाम् अनुवृत्तिसिद्ध्यर्थं पुनर्वचनं नियमाय भवन्तीत्य् एतावन्त्य् एव समावर्तने निवर्तन्ते । अन्यानि पुनः सन्ध्योपासनादीनि आश्रमान्तराविरुद्धानि यावज्जीवं भवन्तीति । यथा च गौतमः- “उत्तरेषां चैतद् अविरोधि” [ग्ध् ३.१०] इति । अत एव चैतानि आ समावर्तनात् कुर्यात् । यानि पुनर् अर्वाग् अपि निवर्तन्ते इत्य् एवं विधिविपरीतनियमो न भवति प्रधानानुवर्तिन्यायावाधप्रसङ्गाच् च ॥ २.१०८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-108	Let an Aryan who has been initiated, (daily) offer fuel in the sacred fire, beg food, sleep on the ground and do what is beneficial to this teacher, until (he performs the ceremony of) Samavartana (on returning home).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अपञ्चाशदेवैतवेद्वम् (?) अग्नीन्धनादीनां यावद् ब्रह्मचर्यभावित्वप्रधानवशवर्तित्वात् गुणभावतः (?) सिद्धे सत्य् आरम्भः । तेभ्यो ऽग्नीन्धनादिभ्यो ऽन्येषाम् उपस्पर्शनादीनां तद्धर्माणाम् अनुवृत्त्यर्थः । कस्य स्नानोत्तरकालावसथास्व् (?) अपि गुरोस् तु यद् धितं समित्कुशकाष्ठोदकुम्भाहरणादि (?), तदर्थान्तदानसमावर्तनात् (?) ब्रह्मचारी कुर्याद् इत्य् अत्र तु यावज्जीवम् एवेति वक्ष्यति चैतम् अर्थम् । 
@@ -173,6 +173,11 @@ fire-tending during the twilights, Vedic study, service of the Teacher, these th
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/109_AchAryaputraH_shushrUShur.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+109	According to the sacred law the (following) ten (persons, viz.) the teacher's son, one who desires to do service, one who imparts knowledge, one who is intent on fulfilling the law, one who is pure, a person connected by marriage or friendship, one who possesses (mental) ability, one who makes presents of money, one who is honest, and a relative, may be instructed (in the Veda).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The teacher’s son, one who is eager to do service, one who imparts knowledge, one who is righteous, one who is clean, a near relative, one who is competent, one who gives monet, one who is gentle, and one’s own (son)—these ten should be taught for the sake of merit.—(109)
@@ -264,11 +269,6 @@ referred to several times. He is either Medhātithi’s teacher, or an older com
 **आचार्यपुत्र** इति । **आचार्यपुत्रः **परिचर्यापरः विद्याप्रदः धर्मानुष्ठानशीलः मृद्वार्यादिशौचयुक्तः बन्धुः ग्रहणधारणसमर्थः पणपूर्वम् अप्य् अर्थदाता आर्जवोपेतः आत्मना उपनीतः एते **दश **धर्मार्थम् **अध्याप्याः** । **अर्थदः शुश्रूषुः **“ज्ञानाद् अध्यापनाद् अपि धर्मो ऽस्ति नियमादृष्टरूपेण” इति वचनात् ॥ २.१०९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-109	According to the sacred law the (following) ten (persons, viz.) the teacher's son, one who desires to do service, one who imparts knowledge, one who is intent on fulfilling the law, one who is pure, a person connected by marriage or friendship, one who possesses (mental) ability, one who makes presents of money, one who is honest, and a relative, may be instructed (in the Veda).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विनियतम् अर्थशास्त्रा [१ अक्ष् उन्च्लेअर्] । एतेषाम् अर्थदस्य शुश्रूषोश् चाध्यापनं धर्माय कारणग्रहणाद् एकवाक्यरूढत्वात् **धर्मत** इति निर्देशः । "शक्तो ऽर्थदातास्वः साधुर् इत्य् अस्मिन् **[७२]** वारे(पाठे)न ज्ञायमाने स्वतन्त्रम् आचार्यग्रहणं पूर्वस्मिन् पा[१ अक्ष् उन्च्लेअर्] ठे(?) पुनर् आचार्यग्रहणं पुत्रविशेषणार्थं विज्ञेयम् । दशत्वानुग्रहो (?) वायं (?) चैषाम् अध्यापनधर्म उच्यते ।
@@ -286,6 +286,11 @@ referred to several times. He is either Medhātithi’s teacher, or an older com
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/110_nA-pRShTaH_kasya.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+110	Unless one be asked, one must not explain (anything) to anybody, nor (must one answer) a person who asks improperly; let a wise man, though he knows (the answer), behave among men as (if he were) an idiot.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should not instruct any one unless he is asked; nor any one who asks in an improper manner. even though knowing (the truth), the wise man should behave, among men, as if ignorant.—(110)
@@ -331,11 +336,6 @@ asked without due respect, it destroys the questioner, as fire burns straw; ther
 **नापृष्ट** इति । पूर्वोक्तव्यतिरेकेणान्यस्य **कस्यचिद्** अधीयानस्य विस्वरादिकृतवतः **अपृष्टो न **कथयेत् । नापि वितण्डया **पृच्छतः** । किं तर्हि । तत्र **जानन्न् अपि **प्राज्ञः बधिर इव **लोके **व्यवहरेत् । अत्रार्थवादो निषेधार्थः ॥ २.११० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-110	Unless one be asked, one must not explain (anything) to anybody, nor (must one answer) a person who asks improperly; let a wise man, though he knows (the answer), behave among men as (if he were) an idiot.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एतेषाम् अपि पृष्टेन वक्तव्यं नापृष्टेन (?) । **पृच्छतो** ऽपि **नान्यायेने**ति नियमार्थः शास्त्रारम्भः । (अधर्मेण?) माम् अयं प्रायश् चाधर्मेण पृच्छति । तयोर् अन्यतरः प्रीतिं (?) विद्वेषं वा निगच्छति । विहितान्यायाध्ययनाध्यापनस्य व्यतिक्रमनिन्दास्तुत्यर्था । एवं च यथाधिकारम् अधिकृतस्तुतिः ।
@@ -361,6 +361,11 @@ asked without due respect, it destroys the questioner, as fire burns straw; ther
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/111_adharmeNa_cha.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+111	Of the two persons, him who illegally explains (anything), and him who illegally asks (a question), one (or both) will die or incur (the other's) enmity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who instructs in an unlawful manner, and he who asks in an unlawful manner,—of those two one or the other either dies (untimely), or incurs the ill-will (of the people).—(111)
@@ -402,11 +407,6 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 516), as laying down t
 
 **अधर्मेणेति** । उक्तमर्यादातिक्रमेण **यः प्राह यो** वा **पृच्छति तयोर् अन्यतरः **यो ऽतिक्रमकृत् स म्रियते **द्वेषं **वा लोके भजते ॥ २.१११ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-111	Of the two persons, him who illegally explains (anything), and him who illegally asks (a question), one (or both) will die or incur (the other's) enmity.
-</details>
 </details>
 </div>
 
@@ -420,6 +420,11 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 516), as laying down t
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/112_dharmArthau_yatra.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+112	Where merit and wealth are not (obtained by teaching) nor (at least) due obedience, in such (soil) sacred knowledge must not be sown, just as good seed (must) not (be thrown) on barren land.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where merit and wealth are not possible, nor is there an adequate desire to serve, there knowledge should not be imparted; just as healthy seed (is not sown) on barren land.—(112)
@@ -487,11 +492,6 @@ wealth, nor desire to serve nor clxance of riches,—there one may perish along 
 पूर्वोक्तनिमित्तानां मध्याद् धर्मादिनिमित्तत्रयस्य उपायत्वं दर्शयितुम् आह **धर्मार्थाव्** इति । यद् अध्यापने **धर्मः** पणपूर्वो वा **अर्थो** न भवेत् पणपूर्वकस्य भृतकाध्यापकत्वेन निषिद्धत्वात् । परिचर्या अध्यापनानुरूपा परिपुष्टं बीजम् इव अङ्कुरजननासमर्थे भूप्रदेशे ॥ २.११२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-112	Where merit and wealth are not (obtained by teaching) nor (at least) due obedience, in such (soil) sacred knowledge must not be sown, just as good seed (must) not (be thrown) on barren land.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 न चायं भृतकाध्यापकः इयद् इयतेति भृतेः प्रसिद्धश्लोके (३.१५६?) । एवं च सत्य् उत्पाद्याध्यापको भृतकाध्यापको विज्ञेयः उपदेशसामर्थ्यात् । अन्यथा हि शुश्रूषोर् अर्थदस्य चाध्यापनेनैवोपदिशेत् विप्रतिषेधभयात् । तथा च नास्यतः (?) गुर्वर्थं वक्ष्यति । विध्यर्थं चाध्यापनम् । 
@@ -513,6 +513,11 @@ wealth, nor desire to serve nor clxance of riches,—there one may perish along 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/113_vidyayaiva_samam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+113	Even in times of dire distress a teacher of the Veda should rather die with his knowledge than sow it in barren soil.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The expounder of the Veda may rather perish along with his knowledge; hut he should never sow it on barren soil, even in dike distress.—(113)
@@ -601,11 +606,6 @@ See Comparative notes for [Verse 2.112].
 
 एवं च **विद्ययेति** । वरम् अदत्तविद्येनैव विद्याध्यापन्शीलेन मर्तव्यं न पुनः कष्टायाम् अप्य् **आपदि** उक्ताध्याप्याभावे ऽपि **एनां **विद्यां** इरिणे** ऊषर इव धर्मादिफलोत्पादन्शून्ये वपेत् । अनेन चैतद् दर्शयति यद् अवश्यं दातव्या विद्येति । अन्यथा कामं विद्ययैव सह मर्तव्यम् इत्य् एतद् अभावसंसुचनम् आचार्यसम्बन्धेनोपपद्यते । तथा च श्रुतिः- “यो ह वै विद्याम् अधीत्यार्थिने न ब्रूयात् स कार्यहा स्यात्” इति । अस्य प्रतिषेधस्य पुराकल्परूपो ऽयम् अर्थवादः ॥ २.११३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-113	Even in times of dire distress a teacher of the Veda should rather die with his knowledge than sow it in barren soil.
-</details>
 </details>
 </div>
 
@@ -627,6 +627,11 @@ See Comparative notes for [Verse 2.112].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/114_vidyA_brAhmaNam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+114	Sacred Learning approached a Brahmana and said to him: 'I am thy treasure, preserve me, deliver me not to a scorner; so (preserved) I shall become supremely strong.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Learning having approached the Brāhmaṇa said to him—“I am thy wealth, guard me; impart me not unto a scorner; thus may I become extremely powerful.”—(114)
@@ -700,11 +705,6 @@ the Vedas, the Dharma, the Purāṇas and the subsidiary sciences to one who is 
 **विद्या ब्राह्मणम् एत्याहेति** । **यम् एव त्व् **इति । **विद्या **किल विग्रहवती किञ्चिद् **ब्राह्मणम्** आगत्य निधिर् इव तवाहम्, अतो **रक्ष मां** इत्य् आह । रक्षा च असूयकम् अपात्रं मां माध्यापय । **तथा **सत्य् अहम् अतिशयेन तव दृष्टादृष्टकार्यकरणसमर्था भवामि । **यं **पुनः मृद्वार्यादिशौचयुक्तं **नियतं** संयतेन्द्रियं **ब्रह्मचारिणं **अस्त्रीसम्प्रयोगं जानीयात् प्राधान्याद् अस्य पृथग् उपदेशः । तं **विप्रं **विद्यानिधिपालनसमर्थम् अविस्मरणशीलं **अपर्मादिनम्** अनभ्यासशून्यम् अध्यापयेति ॥ २.११४–१५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-114	Sacred Learning approached a Brahmana and said to him: 'I am thy treasure, preserve me, deliver me not to a scorner; so (preserved) I shall become supremely strong.'
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **असूयक**ग्रहणं सर्वेषाम् अपात्रीकरणे हेतूनां प्रदर्शनार्थम् । क्व तर्हि देयेयम् ।
@@ -722,6 +722,11 @@ the Vedas, the Dharma, the Purāṇas and the subsidiary sciences to one who is 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/115_yam_eva.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+115	'But deliver me, as to the keeper of thy treasure, to a Brahmana whom thou shalt know to be pure, of subdued senses, chaste and attentive.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 “Expound me unto the Brāhmaṇa who guards his treasures and is never careless,—and whom thou knowest to be pure, self-controlled and a duly qualified student.”—(115)
@@ -776,11 +781,6 @@ See Comparative notes for [Verse 2.114].
 यमेव पुनः शिष्यं शुचिं नियतेन्द्रियं ब्रह्मचारिणं जानासि तस्मै विद्यारूपनिधिरक्षकाय प्रमादरहिताय मां वद ॥११५॥
 </details>
 
-<details><summary>Bühler</summary>
-
-115	'But deliver me, as to the keeper of thy treasure, to a Brahmana whom thou shalt know to be pure, of subdued senses, chaste and attentive.'
-</details>
-
 <details><summary>भारुचिः</summary>
 
 न केवलं यथोक्तदोषाभावे (?) देयेयम् (?) । किं तर्हि । शौचादिषु नयो येषां व्यपेक्षितव्यः इत्य् एवमर्थम् इदम् अन्तरेणापि चोपसदनप्रश्नपरिग्रहणं गुणवान् अप्य् अधीतवेदश् च सन्दिग्धम् अनागच्छन् वा ।
@@ -798,6 +798,11 @@ See Comparative notes for [Verse 2.114].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/116_brahma_yas.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+116	But he who acquires without permission the Veda from one who recites it, incurs the guilt of stealing the Veda, and shall sink into hell.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He, who may acquire Veda, without his permission, from one who is reciting it, becomes corrupted with the sin of stealing the Veda, and falls into hell.—(116)
@@ -831,11 +836,6 @@ not acquire knowledge from another person who may be reading with the Teacher;�
 <details><summary>गोविन्दराजः</summary>
 
 **ब्रह्मेति** । अन्यान् अव्यापयतः अविस्मरणार्थं चाभ्यस्यतः **अननुज्ञातं ब्रह्म** (यः) शिक्षेत् **स **ब्रह्मचौर्ययुक्ताः **नरकं **व्रजति ॥ २.११६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-116	But he who acquires without permission the Veda from one who recites it, incurs the guilt of stealing the Veda, and shall sink into hell.
 </details>
 
 <details><summary>भारुचिः</summary>

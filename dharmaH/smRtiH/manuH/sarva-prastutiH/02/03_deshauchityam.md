@@ -20,6 +20,11 @@ title = "०३ देशौचित्यम्"
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/017_sarasvatI-dRshadvatyor_devanadyor.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+017	That land, created by the gods, which lies between the two divine rivers Sarasvati and Drishadvati, the (sages) call Brahmavarta.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The region lying between the divine rivers Sarasvati and Dṛṣasvatī which has been created by the gods,—they call ‘Brahmāvarta’—(17)
@@ -59,11 +64,6 @@ This verse is quoted in *Hemādri* (Vrata, p. 27),—in the *Vīramitrodaya* (Pa
 अधुना सदाचारनिरूपणार्थं धर्मानुष्ठानयोग्यस्थानकथनार्थं च देशान् आह – **सरस्वतीदृषद्वत्योर्** इति । **सरस्वतीदृषद्वत्य्**आख्यनदीमध्यं **ब्रह्माव्र्ता**ख्यं **देशम्** आहुः । देवनदीदेवनिर्मितशब्दौ देशस्तुत्यर्थौ ॥ २.१७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-017	That land, created by the gods, which lies between the two divine rivers Sarasvati and Drishadvati, the (sages) call Brahmavarta.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 देवसम्परिग्रहाद् देवनिर्मितत्वं च देशस्तुत्यर्थं ब्रह्म चोत्पन्नं (?) महर्षीणाम् अत्र किल प्रतिभातम् इति ब्रह्मावर्तो देशः अर्थसञ्ज्ञया स्तूयते ।
@@ -81,6 +81,11 @@ This verse is quoted in *Hemādri* (Vrata, p. 27),—in the *Vīramitrodaya* (Pa
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/018_tasmin_deshe.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+018	The custom handed down in regular succession (since time immemorial) among the (four chief) castes (varna) and the mixed (races) of that country, is called the conduct of virtuous men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That practice, which has comb down through an unbroken line op tradition among the several castes and subcastes in that country, is called the ‘Practice of Good Men.’—(18)
@@ -196,11 +201,6 @@ four castes should be known as the *mleccha deśa*; other than this is Āryāvar
 **तस्मिन्न्** इति । **तस्मिन् देशे** प्रायेण सदाचारस्य सम्भवात् यो ब्राह्मणादीनाम् अन्तरप्रभावानां **पारम्पर्यक्रमागतः **प्रबन्धतो ऽविच्छेदेनागतः न साम्प्रतीको य आचारः **स सदाचार** उच्यते ॥ २.१८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-018	The custom handed down in regular succession (since time immemorial) among the (four chief) castes (varna) and the mixed (races) of that country, is called the conduct of virtuous men.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अयम् अपि देशस्तुत्यर्थः श्लोकः । <u>एवं च नान्यत्र देशे असदाचारतोक्ता न भवति</u> (?) ।
@@ -218,6 +218,11 @@ four castes should be known as the *mleccha deśa*; other than this is Āryāvar
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/019_kuruxetra~n_cha.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+019	The plain of the Kurus, the (country of the) Matsyas, Pankalas, and Surasenakas, these (form), indeed, the country of the Brahmarshis (Brahmanical sages, which ranks) immediately after Brahmavarta.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Next to Brahmāvarta is the ‘Brahmarṣideśa,’ comprising the regions op Kurukṣetra, Matsyas, Pañchālas and Śukasenakas. (19).
@@ -284,11 +289,6 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 **कुरुक्षेत्रम्** इति । **मत्स्या**दिः विराटदेशाः **पाञ्चालाः **कान्यकुब्जा आहिच्छत्रः **शूरसेनकाः **माधुराः एष **ब्रह्मर्षिदेशा**ख्यो देशः **ब्रह्मावर्ताद् **ईषन्न्यूनः ॥ २.१९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-019	The plain of the Kurus, the (country of the) Matsyas, Pankalas, and Surasenakas, these (form), indeed, the country of the Brahmarshis (Brahmanical sages, which ranks) immediately after Brahmavarta.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **ब्रह्मावर्ताद् अनन्तरो ब्रह्मर्षिदेश** इतीयम् अपि देशसञ्ज्ञा देशस्तुत्यर्थैव । **ब्रह्मावर्ताद् अनन्तरः** ईषदूनस्तुत्यर्थः । एतच् चानन्तरग्रहणं सर्वस्मिन् देशे ऽनुवर्तते । पूर्वस्मात् पूर्वस्माद् देशाद् अनन्तर उत्तरोत्तर ईषदूनो भवति । एवं च देशक्रमाभिधानम् अनुगृहीतं भवति ।
@@ -306,6 +306,11 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/020_etad_deshaprasUtasya.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+020	From a Brahmana, born in that country, let all men on earth learn their several usages.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All men on the earth may learn their respective duties from the Brāhmaṇa born in these countries. (20)
@@ -348,11 +353,6 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 **एतद्देशप्रसूतस्येति** । कुरुक्षेत्रादिदेशजातस्य **ब्राह्मणस्य सकाशात् स्वं स्वम् **आचारं **पृथिव्यां **सर्वे मनुष्याः **शिक्षेरन् **॥ २.२० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-020	From a Brahmana, born in that country, let all men on earth learn their several usages.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अयम् अपि ब्रह्मर्षिदेशार्थवादः । एवं च नान्यत्राग्रजन्मनः **सकाशाच्** चरित्रशिक्षणप्रतिषेधः ।
@@ -370,6 +370,11 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/021_himavad-vindhyayor_madhyam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+021	That (country) which (lies) between the Himavat and the Vindhya (mountains) to the east of Prayaga and to the west of Vinasana (the place where the river Sarasvati disappears) is called Madhyadesa (the central region).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The country lying between the Himālaya and the Vindhya, to the east of Vinaśana and to the west of Prayāga, is called the ‘Madhyadeśa,’ the ‘Middle Country.’ (21)
@@ -429,11 +434,6 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 **हिमवद्विन्ध्ययोर्** इति । **हिमवद्विन्ध्या**ख्योत्तरदक्षिणदिगवस्थितपर्वतयोर् **मध्यं विनशनाच् च **सरस्वत्यन्तर्धानदेशात् **प्रत्यग्**दिग्वर्तिनः प्राक् पूर्वदिङ्मार्गे । **प्रयागाच् च **गङ्गायमुनासङ्गमात् **प्रत्यक्** पश्चिमदिङ्मार्गे स **मध्यदेशा**ख्यो देशः ॥ २.२१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-021	That (country) which (lies) between the Himavat and the Vindhya (mountains) to the east of Prayaga and to the west of Vinasana (the place where the river Sarasvati disappears) is called Madhyadesa (the central region).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अत्र देशस्तुत्यर्थवादेनोक्तः प्रकरणात् तु द्रष्टव्यः । एवम् उत्तरेष्व् अपि श्लोकेष्व् एतद् बोद्धव्यम् उत्कृष्टदेशोपवर्णनप्रकरणमध्याभिधानाच् चास्य मध्यदेशं द्रष्टव्यम् अन्वर्थम् ।
@@ -451,6 +451,11 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/022_A_samudrAt.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+022	But (the tract) between those two mountains (just mentioned), which (extends) as far as the eastern and the western oceans, the wise call Aryavarta (the country of the Aryans).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The country extending as far as the Eastern Ocean and as far as the Western Ocean, and lying between the same two mountains,—the learned know as ‘Āryāvarta.’ (22).
@@ -503,11 +508,6 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 **आ समुद्राद्** इति । **पूर्वपश्चिमसमुद्रयोः **पुनर् अर्वाग्वर्ति यन् मध्यं **तयोश् च **हिमवद्विन्ध्ययोश् चोत्तरदक्षिणादिगवलम्बिनोः पर्वतयोः यन् मध्यं **आर्यावर्ता**ख्यं देशं विद्वांसो मन्यन्ते ॥ २.२२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-022	But (the tract) between those two mountains (just mentioned), which (extends) as far as the eastern and the western oceans, the wise call Aryavarta (the country of the Aryans).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 आर्या वर्तन्ते ऽस्मिन्न् इत्य् आर्यसञ्ज्ञयैवं देशस्तुतिः ।
@@ -525,6 +525,11 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/023_kRShNasAras_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+023	That land where the black antelope naturally roams, one must know to be fit for the performance of sacrifices; (the tract) different from that (is) the country of the Mlekkhas (barbarians).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But the region where the spotted deer roams by nature is to be known as the ‘land fit for sacrificial acts’; beyond that is the ‘land op the Mlecchas.’ (23)
@@ -630,11 +635,6 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 **कृष्णसार** इति । कृष्णः शवलो **मृगो** यस्मिन् देशे **स्वभावतो **निवसति स्वच्छन्दं विहरति, न हठाद् आनीतः, **स **यागार्हो **देशो विज्ञेयः **अतो ऽन्यो अनधिकृतान्ध्रादिम्लेच्छदेशो न यागार्हर्ः । अध्ययन एतद् एव ॥ २.३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-023	That land where the black antelope naturally roams, one must know to be fit for the performance of sacrifices; (the tract) different from that (is) the country of the Mlekkhas (barbarians).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **म्लेच्छदेश** इत्य् अनधिकृतपुरुषदेशो न यज्ञानाम् अधिकरणत्वम् अर्हतीत्य् अर्थः । एवं च तत्र निवासप्रतिषेधो ऽव्यर्थम् उक्त एव द्रष्टव्यः ।
@@ -652,6 +652,11 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/024_etAN_dvijAtayo.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+024	Let twice-born men seek to dwell in those (above-mentioned countries); but a Sudra, distressed for subsistence, may reside anywhere.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born people should seek to resort to these countries; the Śūdra may however, when distressed for a living, reside in any land.—(24).
@@ -904,11 +909,6 @@ Upāvṛt, Sindhu, Sauvīra, these countries are of *mixed origin*.’
 <details><summary>गोविन्दराजः</summary>
 
 अतः **एतान्** इति । साध्वाचारयागार्हत्वसम्भवात् अदृष्टार्थत्वाच् च्**ऐतान् **एव **देशान् **देशान्तरोद्भूता अपि **द्विजातयो **यत्नतः **आश्रयेरन्** । **शुद्रः **पुनः यदा जीविकाभावपीडितो भवति तदैतद्व्यतिरिक्तदेशे ऽपि **निवसेत् **॥ २.२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-024	Let twice-born men seek to dwell in those (above-mentioned countries); but a Sudra, distressed for subsistence, may reside anywhere.
 </details>
 
 <details><summary>भारुचिः</summary>

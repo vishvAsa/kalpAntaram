@@ -26,6 +26,12 @@ _> ब्राह्मं प्राप्तेन संस्कारं
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/309_mahotsAhaH_sthUlalaxaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having great energy, munificent, grateful, serving the aged,  
+modest, endowed with goodness, of noble family, truthful, pure,
+</details>
+
 <details><summary>मूलम्</summary>
 
 महोत्साहः स्थूल-लक्षः  
@@ -117,6 +123,12 @@ _अयं तु विशेषः । अभिषेकादिगुणय
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/310_adIrghasUtraH_smRtimAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Not procrastinating, possessing memory, not mean, nor harsh,  
+observant of duty, free from vices, wise, valorous, knowing secrets,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदीर्घ-सूत्रः स्मृतिमान्  
@@ -137,6 +149,12 @@ _अयं तु विशेषः । अभिषेकादिगुणय
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/311_svarandhragoptA.anvIxikyAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Guarding his weaknesses, trained in philosophy, and likewise in the science of government,  
+as well as in economics and in the threefold Veda—such a ruler of men
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्व-रन्ध्र-गोप्ता ऽन्वीक्षिक्यां  
@@ -157,6 +175,12 @@ _अयं तु विशेषः । अभिषेकादिगुणय
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/312_sa_mantriNaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Should appoint ministers who are wise, hereditary, steadfast, and pure;  
+with them he should deliberate on the kingdom, then with a Brahmin, and then by himself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स मन्त्रिणः प्रकुर्वीत  
@@ -230,6 +254,12 @@ _एवंगुणो ऽपि किम् अमात्येनेति 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/313_purohitam_prakurvIta.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should appoint a family priest who is an astrologer, exalted by ancestry and character,  
+skilled in the science of government and likewise in the Atharvaveda.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुरोहितं प्रकुर्वीत  
@@ -283,6 +313,12 @@ _पूर्वोक्तन्यायेनैव ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/314_shrautasmArtakriyAhetor_vRNuyAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For the sake of revealed and traditional rites, he should select sacrificial priests,  
+and he should perform sacrifices according to rule, with abundant sacrificial gifts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रौत-स्मार्त-क्रिया-हेतोर्  
@@ -333,6 +369,12 @@ _अयं च राज्ञो ऽअभ्यधिको वैशेषि
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/315_bhogAMsh_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+And he should give enjoyments and various treasures to Brahmins;  
+this is an inexhaustible treasure of kings—that which is bestowed upon Brahmins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भोगांश् च दद्याद् विप्रेभ्यो  
@@ -392,6 +434,12 @@ _कस्मात् । यस्मात् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/316_askannam_avyatha~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unharmed, without distress, and undefiled by penances,  
+what is offered into the fire of the Brahmin is said here to be superior to [an offering in] fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अस्कन्नम् अव्यथं चैव  
@@ -437,6 +485,12 @@ _यस्मात्, तस्मात् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/317_alabdham_Ihed.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is unacquired he should seek through duty; what is acquired he should protect with effort;  
+what is protected he should increase through policy; what is increased he should bestow on worthy recipients.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अलब्धम् ईहेद् धर्मेण  
@@ -491,6 +545,12 @@ _किं पूर्वार्जितम् आपदर्थं स्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/318_dattvA_bhUmin.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having given land or established an endowment, the king should have a written document made,  
+for the information of future auspicious kings,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दत्त्वा भूमिं निबन्धं वा  
@@ -550,6 +610,12 @@ _कस्मात् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/319_paTe_vA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+On cloth or on a copper plate, marked above with his own seal;  
+having inscribed his ancestors and himself, the lord of the earth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पटे वा ताम्र-पट्टे वा  
@@ -649,6 +715,12 @@ _किं पुनर् वक्ष्यमाणलेख्यलक्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/320_pratigrahaparImANaM_dAnachChedopavarNanam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The measurement of the acceptance, a description of the boundaries of the grant,  
+endowed with his own signature and the date, he should make an enduring edict.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिग्रह-परीमाणं  
@@ -669,6 +741,12 @@ _किं पुनर् वक्ष्यमाणलेख्यलक्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/321_ramyam_pashavyam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should dwell in a delightful country, good for cattle, offering livelihood, [and] arid;  
+there he should build fortresses for the protection of his subjects, the treasury, and himself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रम्यं पशव्यम् आजीव्यं  
@@ -733,6 +811,12 @@ _<u>ननु</u> च राष्ट्रसंकोचप्रसङ्ग�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/322_tatra_tatra.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+And in respective matters he should appoint superintendents who are experienced, skilled, pure,  
+and attentive to revenue, workshops, and expenditure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्र तत्र च निष्णातान्  
@@ -812,6 +896,12 @@ _एवं दुर्गाणि कृत्वा तं देशम् �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/323_nAtaH_parataro.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+There is no higher duty for kings than this: that wealth acquired in battle  
+is given to Brahmins, and freedom from fear is always [granted] to subjects.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नातः परतरो धर्मो  
@@ -862,6 +952,12 @@ _एवं तावत् स्वराष्ट्र एवार्जन�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/324_ya_AhaveShu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who are slain in battle for the sake of land, not turning their backs,  
+go to heaven by means of uncrooked weapons, just like yogins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य आहवेषु वध्यन्ते  
@@ -916,6 +1012,12 @@ _इदानीं "न संशयं प्रपद्येत" _(य्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/325_padAni_kratutulyAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The steps of those who do not turn back when others are broken are equal to sacrifices.  
+The king takes the merit of those who flee and are slain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पदानि क्रतु-तुल्यानि  
@@ -970,6 +1072,12 @@ _भूयश् च संग्रामविधिप्ररोचना�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/326_tavAhaMvAdina~N_klIbaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not strike one who says 'I am yours', a eunuch, one disarmed, one engaged with another,  
+one who has turned back, a spectator of the battle, and the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तवाहं-वादिनं क्लीबं  
@@ -1022,6 +1130,12 @@ _एवं च सति सर्वथा संग्रामे हिं�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/327_kRtaraxaH_samutthAya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having ensured his security and arisen, he should inspect revenue and expenditure himself.  
+Then, having looked into legal affairs and bathed, he may eat at his pleasure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृत-रक्षः समुत्थाय  
@@ -1072,6 +1186,12 @@ _एवाम् तावत् सामासिको राजनयः ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/328_hiraNyaM_vyApRtAnItaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should deposit in the treasuries the gold brought by officials.  
+He should inspect spies, and then dispatch envoys in consultation with his ministers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हिरण्यं व्यापृतानीतं  
@@ -1122,6 +1242,12 @@ _एवं स्वपरराष्ट्रव्यवस्थया द�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/329_tataH_svairavihArI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then he may take recreation at will or meet with his ministers.  
+Having held an inspection of the forces, he should deliberate with the commander of the army.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततः स्वैर-विहारी स्यान्  
@@ -1179,6 +1305,12 @@ _यतश् च गूढमन्त्रत्वम् आभ्युद�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/330_sandhyAm_upAsya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having performed twilight devotion, he should hear the secret reports of spies.  
+He should dine with music and dance, and also recite the recitation of the Veda.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्ध्याम् उपास्य शृणुयाच्  
@@ -1239,6 +1371,12 @@ _न चैकान्ततो ऽर्थनिष्ठतयैवेत�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/331_saMvishet_tUryaghoSheNa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should go to rest to the sound of trumpets and awake likewise.  
+He should reflect in his mind upon the treatises and all duties.
+</details>
+
 <details><summary>मूलम्</summary>
 
 संविशेत् तूर्य-घोषेण  
@@ -1292,6 +1430,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/332_preShayech_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then he should dispatch attentive spies among his own people and among others.  
+Having been greeted with blessings by the sacrificial priests, the chaplain, and preceptors,
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रेषयेच् च ततश् चारान्  
@@ -1349,6 +1493,12 @@ _एवं च निपुणतश् चित्रोदयां नीत
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/333_dRShTvA_jyotirvido.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+having received astrologers and physicians, he should give a cow, gold, land,  
+and marriage gifts, and houses to Vedic scholars.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दृष्ट्वा ज्योतिर्विदो वैद्यान्  
@@ -1383,6 +1533,12 @@ _एवं चारान् प्रेष्याग्नीन् हु�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/334_brAhmaNeShu_xamI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Patient toward Brahmins, straight toward friends, wrathful toward enemies,  
+the king should be like a father toward his servants and subjects.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्राह्मणेषु क्षमी स्निग्धेष्व्  
@@ -1435,6 +1591,12 @@ _अयं चान्यो राज्यप्राप्तिस्थ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/335_puNyAt_ShaDbhAgam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Protecting righteously, he takes a sixth part of the religious merit;  
+for protecting the subjects is greater than all gifts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुण्यात् षड्-भागम् आदत्ते  
@@ -1492,6 +1654,12 @@ _कस्मात् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/336_chATataskaradurvRtta_mahAsAhasikAdibhiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should protect his subjects when they are oppressed by flatterers, thieves, scoundrels,  
+perpetrators of heinous offences, and especially by scribes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चाट-तस्कर-दुर्वृत्त-  
@@ -1544,6 +1712,12 @@ _केन पुनः प्रजाः पीड्यन्ते, ये�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/337_araxyamANAH_kurvanti.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever sin the subjects commit when left unprotected,  
+half of that belongs to the king, since he collects taxes from them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अरक्ष्यमाणाः कुर्वन्ति  
@@ -1606,6 +1780,12 @@ _कस्मात् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/338_ye_rAShTrAdhikRtAs.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having learned through spies the conduct of those appointed over the kingdom,  
+the king should honour the good and have the opposite slain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये राष्ट्राधिकृतास् तेषां  
@@ -1658,6 +1838,12 @@ _कथं पुनः पीडाः प्रजाभ्यो विजा
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/339_utkochajIvino_dravya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should strip of their wealth and banish those who live on bribes;  
+he should always settle Vedic scholars, honouring them with true gifts and respect.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उत्कोच-जीविनो द्रव्य-  
@@ -1697,6 +1883,12 @@ _ये तु साधवस् तान् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/340_anyAyena_nRpo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The king who unlawfully increases his own treasury from the realm,  
+he soon loses his prosperity and meets with destruction together with his kinsmen.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्यायेन नृपो राष्ट्रात्  
@@ -1743,6 +1935,12 @@ _यतश् चैतद् एवम्, अतः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/341_prajApIDanasantApAt_samudbhUto.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The fire arisen from the torment of the oppression of the subjects  
+does not turn back without burning the king's family, prosperity, and life.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रजा-पीडन-सन्तापात्  
@@ -1793,6 +1991,12 @@ _कस्मात् पुनर् एतद् एव, यस्मात�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/342_ya_eva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever is the king's duty in protecting his own realm,  
+he incurs that entirely when bringing another realm under control.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य एव नृपतेर् धर्मः  
@@ -1843,6 +2047,12 @@ _<u>ननु</u> एवं परराष्ट्रे ऽपि पीड�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/343_yasmin_deshe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever is the custom, legal practice, and family rule in a country,  
+that very [rule] must be preserved when it is brought under control.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्मिन् देशे य आचारो  
@@ -1900,6 +2110,12 @@ _किं तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/344_mantramUlaM_yato.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Since counsel is the root of the kingdom, he should keep counsel well guarded,  
+so that they do not know of his undertakings until the fruition of the result.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मन्त्र-मूलं यतो राज्यं  
@@ -1950,6 +2166,12 @@ _कथं पुनः परराष्ट्रसिद्धिः । म
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/345_arir_mitram.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The enemy, the friend, the neutral, the immediate neighbor, the one beyond him, and the further one:  
+the circle [of states] should be contemplated in succession with policies beginning with conciliation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अरिर् मित्रम् उदासीनो  
@@ -2007,6 +2229,12 @@ _किं पुनस् तन् मन्त्रणीयम् । उ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/346_upAyAH_sAma.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Conciliation, gift, division, and force are the expedients;  
+properly applied, they succeed, but force is the recourse when there is no recourse.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उपायाः साम दानं च  
@@ -2067,6 +2295,12 @@ _उपायत्वाद् एव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/347_sandhi~n_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Peace, war, marching, holding ground, seeking refuge,  
+and dual policy: he should properly apply these six measures of statecraft.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्धिं च विग्रहं यानम्  
@@ -2129,6 +2363,12 @@ _याश् चैता राज्यप्रकृतयः स्वा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/348_yadA_sasyaguNopetaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the enemy's kingdom is endowed with rich crops, then he should march,  
+and when the enemy is weakened while he himself has spirited conveyances and men.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदा सस्य-गुणोपेतं  
@@ -2185,6 +2425,12 @@ _मित्रानुरोधेन स्वेच्छया वा ग�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/349_daive_puruShakAre.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The success of action rests on fate and human effort.  
+There, fate is human effort from a previous body made manifest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दैवे पुरुष-कारे च  
@@ -2248,6 +2494,12 @@ _किं च, दैवस्वरूपम् अप्य् अनिर�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/350_kechid_daivAt.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Some wish for the fruit from fate, or from nature, from time, or from human effort;  
+some of skilled intellect [wish for it] from their combination.
+</details>
+
 <details><summary>मूलम्</summary>
 
 केचिद् दैवात् स्वभावाद् वा  
@@ -2314,6 +2566,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/351_yathA_hy.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For just as there can be no movement of a chariot with one wheel,  
+so without human effort, fate does not succeed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा ह्य् एकेन चक्रेण  
@@ -2370,6 +2628,12 @@ _<u>ननु</u> एवम् अप्य् अपरिहृतम् ए�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/352_hiraNyabhUmilAbhebhyo_mitralabdhir.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Since gaining an ally is superior to gaining gold and land,  
+therefore he should strive for that attainment, and attentively preserve truthfulness.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हिरण्य-भूमि-लाभेभ्यो  
@@ -2428,6 +2692,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/353_svAmy_amAtyA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The king, the ministers, the people, the fortress, the treasury, and force,  
+and allies: these are the constituent elements; the kingdom is said to have seven limbs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वाम्य् अमात्या जनो दुर्गं  
@@ -2478,6 +2748,12 @@ _राज्याङ्गान्य् आह_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/354_tad_avApya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having obtained that, the king should strike the wicked with punishment;  
+for duty was created in ancient times by Brahmā in the form of punishment.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद् अवाप्य नृपो दण्डं  
@@ -2535,6 +2811,12 @@ _कस्मात् । यस्मात् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/355_sa_netun.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+It cannot be administered righteously by one who is greedy and untrained in intellect,  
+[but only] by one true to his promise, pure, having good aides, and wise.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स नेतुं न्यायतो ऽशक्यो  
@@ -2586,6 +2868,12 @@ _केन तर्हि शक्यः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/356_yathAshAstram_prayuktaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When applied according to the treatises, it gladdens the entire world  
+with its gods, demons, and humans; otherwise, it enrages it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा-शास्त्रं प्रयुक्तः सन्  
@@ -2638,6 +2926,12 @@ _कस्मात् पुनर् अयं प्रयत्नः । �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/357_adharmadaNDanaM_svarga.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unjust punishment ruins heaven, fame, and the worlds;  
+but the proper punishment brings the king heaven, fame, and victory.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अधर्म-दण्डनं स्वर्ग-  
@@ -2694,6 +2988,12 @@ _यतश् चैतद् एवम्, अतः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/358_api_bhrAtA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Be he a brother, a son, an object of reverence, a father-in-law, or a maternal uncle,  
+none who has deviated from his duty is immune from punishment by the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपि भ्राता सुतो ऽर्घ्यो वा  
@@ -2745,6 +3045,12 @@ _यस्माच् च सम्यग् दण्डनात् स्व
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/359_yo_daNDyAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The king who punishes those deserving of punishment and rightly has those deserving of death slain,  
+by him sacrifice is offered with rituals completed with excellent sacrificial fees.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो दण्ड्यान् दण्डयेद् राजा  
@@ -2802,6 +3108,12 @@ _एवं चालोच्य ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/360_iti_sanchintya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Reflecting thus that the individual fruit is equal to a sacrifice,  
+the king should inspect legal disputes himself daily, surrounded by council members.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इति सञ्चिन्त्य नृपतिः  
@@ -2856,6 +3168,12 @@ _दण्ड्यादण्ड्यवध्यावध्यविवे�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/361_kulAni_jAtIH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Families, castes, guilds, corporations, and inhabitants of the realm:  
+the king, having disciplined those who have strayed from their duty, should establish them on the path.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कुलानि जातीः श्रेणीश् च  
@@ -2916,6 +3234,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/362_jAlasUryamarIchisthaM_trasareNU.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The floating speck of dust seen in a ray of sunlight coming through a lattice is considered a dust-particle;  
+eight of them are a louse-egg; three of those are said to be a black mustard seed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जाल-सूर्य-मरीचिस्थं  
@@ -2971,6 +3295,12 @@ _एवं दण्डपातनविधिर् उक्तः । अध
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/363_gauras_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Three of those are a white [mustard seed]; six of those are a barleycorn; three of those are a medium  
+kṛṣṇala; five of those are a māṣa; sixteen of those are a suvarṇa.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गौरस् तु ते त्रयः षट् ते  
@@ -3010,6 +3340,12 @@ _एवं दण्डपातनविधिर् उक्तः । अध
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/364_palaM_suvarNAsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A pala is declared to be four or five suvarṇas.  
+Two kṛṣṇalas are a silver māṣa; sixteen of those are a dharaṇa.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पलं सुवर्णाश् चत्वारः  
@@ -3071,6 +3407,12 @@ _एवं तावत् सुवर्णस्य पलपर्यन्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/365_shatamAnan_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A śatamāna, however, is ten dharaṇas, and a pala as well;  
+four suvarṇas are a niṣka; a copper kārṣika is a paṇa.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शत-मानं तु दशभिर्  
@@ -3138,6 +3480,12 @@ _एवं रौप्यपरिमाणम् उक्तम् । सु
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/366_sAshItipaNasAhasro_daNDa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A fine of one thousand and eighty paṇas is the highest fine for heinous offences;  
+half of that is stated to be the middle, and half of that is considered the lowest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 साशीति-पण-साहस्रो  
@@ -3186,6 +3534,12 @@ _स्वशास्त्रपरिभाषाम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/367_dhigdaNDas_tv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Reprimand, verbal censure, monetary fine, and capital punishment:  
+these are to be employed separately or together according to the offence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धिग्-दण्डस् त्व् अथ वाग्-दण्डो  
@@ -3241,6 +3595,12 @@ _अथ किं सर्वापराधेषूत्तमसाहस�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/13_rAjadharma-prakaraNam/368_jnAtvA.aparAdhan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having ascertained the offence, the place, the time, the strength,  
+the age, the action, and the wealth, he should inflict punishment on those deserving of punishment.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्ञात्वा ऽपराधं देशं च  

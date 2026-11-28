@@ -122,6 +122,12 @@ title = "०८ दाय-विभाग-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/114_vibhAga~n_chet.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If a father makes a partition of inheritance, he may divide the sons at his pleasure:  
+either the eldest with the best share, or all may have equal shares.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विभागं चेत् पिता कुर्याद्  
@@ -256,6 +262,12 @@ _एवं प्रागुक्तानेकप्रकारार्ज
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/115_yadi_kuryAt.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he makes equal shares, wives must be made equal sharers  
+to whom woman's separate property has not been given by the husband or the father-in-law.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदि कुर्यात् समान् अंशान्  
@@ -311,6 +323,12 @@ _स्नेहगुणाद्यनपेक्षं माध्यस्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/116_shaktasyAnIhamAnasya_kinchid.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For an able [son] who desires nothing, separation is made after giving him a small portion.  
+A partition of inheritance made by a father into lesser and greater shares is declared lawful according to duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शक्तस्यानीहमानस्य  
@@ -395,6 +413,12 @@ _पितृद्रव्यानपेक्षस्यैव स्वक
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/117_vibhajeran_sutAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+After the parents' death, the sons should divide the heritage and the debt equally;  
+after [paying] the debt, daughters take the remainder of the mother's [estate], and failing them, the male lineage.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विभजेरन् सुताः पित्रोर्  
@@ -577,6 +601,12 @@ _स्वातन्त्र्येण तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/118_pitRdravyAvirodhena_yad.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever else is acquired by oneself without detriment to the ancestral property,  
+as well as gifts from friends and through marriage, does not belong to the co-heirs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितृ-द्रव्याविरोधेन  
@@ -714,6 +744,12 @@ _सहस्थितानां चैकेन ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/119_kramAd_abhyAgatan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If one recovers property that came down in succession but was lost,  
+he need not give it to the co-heirs; and likewise what is acquired by learning.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रमाद् अभ्यागतं द्रव्यं  
@@ -855,6 +891,12 @@ _एतद् एव स्पष्टयति ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/120_sAmAnyArthasamutthAne_vibhAgas.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the case of recovery through common wealth, however, partition of inheritance is declared equal.  
+But for sons of different fathers, the apportionment of shares is according to the father.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सामान्यार्थ-समुत्थाने  
@@ -946,6 +988,12 @@ _मैत्रादिव्यतिरेकेण तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/121_bhUr_yA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Land, a periodic grant, or movable property acquired by the grandfather—  
+in that, indeed, ownership is equal between the father and the son.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भूर् या पितामहोपात्ता  
@@ -1041,6 +1089,12 @@ _अथ किं विभागत् स्वत्वम्, उत स्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/122_vibhakteShu_suto.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A son born of an equal-class wife after the partition of inheritance is a sharer in the division;  
+or his partition of inheritance may be from the visible estate cleared of receipts and expenses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विभक्तेषु सुतो जातः  
@@ -1130,6 +1184,12 @@ _यस्माच् च स्वत्वे सति विभागः, �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/123_pitRbhyAM_yasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever was given to one by his parents shall be that person's property alone.  
+When they divide after the father's death, the mother too shall take an equal share.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितृभ्यां यस्य तद् दत्तं  
@@ -1221,6 +1281,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/124_asaMskRtAs_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Uninitiated brothers must be initiated by brothers previously initiated;  
+and sisters, having given a fourth part from their own share.
+</details>
+
 <details><summary>मूलम्</summary>
 
 असंस्कृतास् तु संस्कार्या  
@@ -1302,6 +1368,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/125_chatustridvyekabhAgAH_syur.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sons of a Brahmin take four, three, two, or one share according to social class;  
+sons of a Kshatriya take three, two, or one share; and sons of a Vaishya take two or one share.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चतुस्-त्रि-द्व्य्-एक-भागाः स्युर्  
@@ -1385,6 +1457,12 @@ _एवं सवर्णानां समो विभागः । ना�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/126_anyonyApahRtan_dravyaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Property concealed from one another that is discovered after partition of inheritance,  
+they should divide again into equal shares; such is the established rule.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्योन्यापहृतं द्रव्यं  
@@ -1466,6 +1544,12 @@ _असमांशभाक्त्वे ऽपि तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/127_aputreNa_paraxetre.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A son begotten by authorization on another's wife by a sonless man  
+is an heir and an offerer of the funeral cake to both according to duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपुत्रेण पर-क्षेत्रे  
@@ -1599,6 +1683,12 @@ _औरसानाम् अयं विभागधर्मः । तदभ
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/128_auraso_dharmapatnIjas.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The body-born son is born of the lawful wife; equal to him is the son of an appointed daughter.  
+The soil-born son is born of the wife by a person of the same gotra or another.
+</details>
+
 <details><summary>मूलम्</summary>
 
 औरसो धर्म-पत्नीजस्  
@@ -1777,6 +1867,12 @@ _किंलक्षण औरसः पुत्रः । उच्यते
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/129_gRhe_prachChanna.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The secretly born son is known as one born secretly in the house.  
+The maiden-born son is born of an unmarried girl and is regarded as the son of the maternal grandfather.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृहे प्रच्छन्न उत्पन्नो  
@@ -1822,6 +1918,12 @@ _नियोगाभावे ऽपि ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/130_axatAyA~N_xatAyAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The son of a remarried woman is born of a woman whether deflowered or undeflowered.  
+The son whom the mother or the father gives is the adopted son.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अक्षतायां क्षतायां वा  
@@ -1873,6 +1975,12 @@ _एवम् एव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/131_krItash_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The bought son is sold by them; the made son is one made by oneself;  
+the self-given son is one who gave himself; and the son taken with the bride is one conceived in the womb.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रीतश् च ताभ्यां विक्रीतः  
@@ -1916,6 +2024,12 @@ _एवम् एव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/132_utsRShTo_gRhyate.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who is abandoned and taken is the cast-off son.  
+Of these, each subsequent one offers the funeral cake and takes the share in the absence of the preceding.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उत्सृष्टो गृह्यते यस् तु  
@@ -2061,6 +2175,12 @@ _मातापितृभ्याम् एव कथंचित् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/133_sajAtIyeShv_ayam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+This rule has been declared by me regarding sons of the same social class.  
+A son born of a female slave to a Shudra may take a share at his choice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स-जातीयेष्व् अयं प्रोक्तस्  
@@ -2138,6 +2258,12 @@ _सर्वे चैते दत्तकादयः सजातीया 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/134_mRte_pitari.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the father has died, the brothers should make him a half-sharer;  
+if he has no brothers, he takes the whole, except if there is a son of daughters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मृते पितरि कुर्युस् तं  
@@ -2172,6 +2298,12 @@ _इच्छयैव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/135_patnI_duhitarash.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The wife, the daughters also, the parents, and the brothers,  
+their sons, those born of the gotra, relatives, disciples, and fellow students—
+</details>
+
 <details><summary>मूलम्</summary>
 
 पत्नी दुहितरश् चैव  
@@ -2617,6 +2749,12 @@ _एवं तावद् वैशेषिकः शूद्रस्य व
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/136_eShAm_abhAve.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+in the absence of the preceding of these, the succeeding one inherits the property  
+of a sonless man who has gone to heaven. This rule applies to all social classes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एषाम् अभावे पूर्वस्य  
@@ -2637,6 +2775,12 @@ _एवं तावद् वैशेषिकः शूद्रस्य व
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/137_vAnaprasthayatibrahma_chAriNAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The heirs to the heritage of a forest hermit, an ascetic, and a celibate student  
+are, in order, the preceptor, the virtuous pupil, and a spiritual brother belonging to the same hermitage.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वानप्रस्थ-यति-ब्रह्म-  
@@ -2705,6 +2849,12 @@ _एवं तावद् वर्णाश्रयो विभागवि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/138_saMsRShTinas_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A reunited partner takes the share of a reunited partner, and a uterine brother of a uterine brother;  
+he should give the share of one who is born and take the share of one who has died.
+</details>
+
 <details><summary>मूलम्</summary>
 
 संसृष्टिनस् तु संसृष्टी  
@@ -2804,6 +2954,12 @@ _अपुत्रस्य भ्रातुः पत्नीदुहि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/139_anyodaryas_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A reunited half-brother takes [the estate], but a separated half-brother may not take the property.  
+Or even a non-reunited [full brother] may take it, but not a reunited son born of another mother.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्योदर्यस् तु संसृष्टी  
@@ -2857,6 +3013,12 @@ _अत्रापरे पूर्वश्लोकविवरणस्थ
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/140_klIbo.atha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+An impotent man, an outcaste and his son, a lame man, a madman, an idiot,  
+a blind man, and those afflicted with an incurable disease and the like, are without a share and must be maintained.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्लीबो ऽथ पतितस् तज्जः  
@@ -2958,6 +3120,12 @@ _य एव तु धनभाक् स्यात्, तेनैव भ्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/141_aurasAH_xetrajAs.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Their legitimate sons and sons of the wife, however, if free from defects, take a share;  
+and their daughters must be maintained until they are given away to husbands.
+</details>
+
 <details><summary>मूलम्</summary>
 
 औरसाः क्षेत्रजास् त्व् एषां  
@@ -3017,6 +3185,12 @@ _क्लीबादीनाम् अनंशत्वेन तत्प�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/142_aputrA_yoShitash.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+And their childless wives must be maintained if they conduct themselves virtuously;  
+those who are unchaste or hostile must be expelled.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपुत्रा योषितश् चैषां  
@@ -3061,6 +3235,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/143_pitRmAtRpatibhrAtR_dattam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is given by father, mother, husband, or brother, what is received before the nuptial fire,  
+and compensation for a superseded wife and the like, are declared to be a woman's separate property.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितृ-मातृ-पति-भ्रातृ-  
@@ -3196,6 +3376,12 @@ _किं पुनः स्त्रीधनम् । उच्यते �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/144_bandhudattan_tathA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is given by kinsmen, as well as the bride-price and the subsequent gift:  
+if she dies childless, her relatives shall obtain that.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बन्धु-दत्तं तथा शुल्कम्  
@@ -3260,6 +3446,12 @@ _अत्र प्रविभागः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/145_aprajastrIdhanam_bhartur.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The separate property of a childless woman goes to the husband in the four [forms of marriage] beginning with the Brāhma;  
+if she has daughters, [it goes to them]; in the remaining [forms], it goes to her parents.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप्रज-स्त्री-धनं भर्तुर्  
@@ -3370,6 +3562,12 @@ _शुल्कादिव्यतिरेकेण तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/146_dattvA_kanyAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who takes back a maiden after having given her shall be fined, and must repay the expenditure with interest;  
+if she dies, he may take back what was given, deducting the expenditure on both sides.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दत्त्वा कन्यां हरन् दण्ड्यो  
@@ -3429,6 +3627,12 @@ _आसुरादिविवाहप्रसङ्गाद् इदम्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/147_durbhixe_dharmakArye.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In a famine, for a religious duty, in illness, or when imprisoned,  
+the husband who has taken his wife's separate property does not have to restore it to the woman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दुर्भिक्षे धर्म-कार्ये च  
@@ -3529,6 +3733,12 @@ _एवं प्रासङ्गिकम् उक्त्वा प्र�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/148_adhivinnastriyai_dadyAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He must give an equal compensation for a superseded wife to the superseded woman,  
+if no woman's separate property has been given to her; but if it has been given, he should assign half.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अधिविन्न-स्त्रियै दद्याद्  
@@ -3583,6 +3793,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/08_dAya-vibhAga-prakaraNam/149_vibhAganihnave_jnAti.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When partition of inheritance is denied, the demonstration of partition is to be known  
+by means of agnates, cognates, witnesses, written documents, and separate houses and fields.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विभाग-निह्नवे ज्ञाति-  

@@ -20,6 +20,11 @@ title = "०२ धर्मस्रोतः"
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/006_vedo.akhilo.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+006	The whole Veda is the (first) source of the sacred law, next the tradition and the virtuous conduct of those who know the (Veda further), also the customs of holy men, and (finally) self-satisfaction.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The entire Veda is the root-source of Dharma; also the Conscientious Recollection of righteous persons versed in the Veda, the Practice of Good (and learned) Men, and their self-satisfaction.—(6)
@@ -1459,11 +1464,6 @@ From the above we conclude that all the authorities are agreed on the following 
 इदानीं धर्मप्रमाणपरिगणनार्थम् आह – **वेद** इति । **वेदः **ऋग्यजुःसामलक्षणः** अखिलः** समग्रः । अर्थवादादीनाम् अपि विध्येकवाक्यत्वेन श्रवणात् **धर्मस्य मूलं **प्रमाणं मिथाज्ञानसंशयाभावात् निसर्गप्रामाण्याच् च । एतन् न्यायसिद्धम् । एतद् अस्यानूद्यते **स्मृत्य्**आदीनां तन्मूलत्वेन प्रामाण्यप्रतिपादनाय । तथा च मानवादिशास्त्रोपनिबन्धनं वेदविदां कर्तव्याकर्तव्यस्मरणम् **शीलं च** रागद्वेषपरित्यागात्मकम्, **आचारश् च** विवाहादौ कङ्कणबन्धनाद्याचरणरूपः, **साधूनां** धर्मिकाणां **आत्मनस् तुष्टिश् च** अदृष्टार्थाचर्यमाणपदार्थचेतः परितोषरूपा वैकल्पिकपदार्थविषया च धर्मं प्रति प्रमाणम् । एषां सर्वेषां वेदमूलकत्वात् ॥ २.६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-006	The whole Veda is the (first) source of the sacred law, next the tradition and the virtuous conduct of those who know the (Veda further), also the customs of holy men, and (finally) self-satisfaction.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 प्रामाण्याय कथं कृत्वा । वेदशास्त्रमूलत्वाद् स्मृतिप्रामान्यस्य । तथा च वक्ष्यति "श्रुतिप्रामाण्यतो विद्वान् स्वधर्मे निविशेत वै" (२.८) । व्यवहारार्थैवेयं (?) शास्त्रे । वक्ष्यति "एको ऽपि (?) वेदविद् धर्मम्" (१२.११३) इत्य् एवमादिस्मृत्युपलक्षणार्था च परिभाषा । वक्ष्यति हि "**स्मृतिशीले च तद्विदाम्**" इति । अथेदानीं विव्रियते (?) । विद ज्ञाने । ज्ञायते ऽनेन करणभूते नास्मिन् वाधिकारभुक्तानि तानि क्रियाधर्मश्रेयांसीति **वेदः** । अथ वा विदुर् (विद्तृ?) लाभे लभ्यते नास्मिन् पूर्वोक्तानि क्रियानिवेदाद्यथ(अर्थ?)वादसत्तायार्मन्वन्त्यने(?) नास्मिन् पूर्वोक्तानीति **वेदः** । कथम् अनेकानि सन्ति न शब्दार्थस्य सत्त्वं युक्तं शब्दप्रमाणत्वात् तेषां क्रियादीनाम् । ततस् तानि सन्तीत्य् उच्यते । गुण विद विचारणे विचार्यन्ते ऽनेनार्थाद्यङ्गैर् अस्मिन् वा नि वायुन्त[१ अक्ष् उन्च्लेअर्] इति **वेदः** । मन्त्रब्राह्मणाख्यम् एतावता पुर्भा(म?)र्थोपसिद्धेः । स पुनस् त्रिप्रकारः । ऋगयजुःसामलक्षणा । किं नाथर्ववेदः । ॐ इत्य् उच्यते । तेषु क्रियासमाप्तेस् तथा च ब्राह्मणम् "भूर् इत्य् ऋग्वेदाद् भुव इति यजुर्वेदात् स्वर् इति सामवेदात् तथा तद् ऋग्वेदेनैव होत्रं कुर्वते यजुर्वेदेनाध्वर्यवं सामवेदेनोद्गीथं यद्य् एवं तयैव विद्यायै शुक्रं तेन ब्राह्मणत्वम्" इति च । तथा "इयम् अपरा त्रयी वै ह्य् अर्चः सामानि यजूंषि च" इति । त्रिवेदसंयोगाच् च ब्रह्मत्वश्रुतेस् तथा "यद् ऋचा होत्रं क्रियते यजुषाध्वर्यवं साम्ना वोद्गीथम्" । अथ केन ब्रह्मत्वम् इति प्रश्ने "त्रय्या विद्यया" इति प्रतिवचनोपपत्तेर् ब्रह्मत्वे ऽप्य् अथर्ववेदे व्यापारान् न (?) तस्य ग्रहणम् । वेदशब्दो नेति । तथा च सूत्रकारः "त्रिवेदसंयोगाच् च" इति ब्रह्मत्वप्रकरणे ति(त्रि) श्रुतेः (?) प्रतिषेधं करोति । तस्माद् आथर्वणेन सम्प्रश्यात् इति । किं तद् वैदिकं कर्मेति प्रकरणाद् ज्ञायते कथं तर्ह्य् आथर्वणे वेदशब्दः इतिहासपुराणायुर्वेदवद् इति ऋङ्मात्रसमूहत्वाच् च (?) तस्य स्वस्त्ययनादिप्रयोगस्य वेदाविशेषात् वेदशब्द एकवचनम् । समुदायैकत्वापेक्षं वचनवत् (?) त्रयी चेत् क्रियाप्रयोजनेति कृत्वा तदेकत्वापेक्षम् एकवचनम् । तदुपदेशशास्त्रबहुत्वे ऽपीत्य् एवं च नैकवेदापेक्षं भूतपूर्वत्वाज् (?) जात्यपेक्षत्वात् **[३८]** तत्रैकवचनम् उभयभावाद् इति वेदवद् अर्थं च साकाङ्क्षम् । यतः समासपदेन निराकाङ्क्षीकरिष्यति । कथं **वेदः** किं **धर्ममूलम्** इति वक्ष्यमानेनास्य सम्बन्ध एवं दर्शयिष्यति । किं तु वेदपदविशेषणार्थम् इदं तावद् आरभ्यते । **अखिलः** कृत्स्नः **धर्ममूलं** चोद्यते । ननु च विधिमात्रवाक्यस्य फलधर्मक्रियोपदेशत्वाद् युक्तं च धर्ममूलत्वान् नार्थवादनामधेयमन्त्राणाम् अनुपदेशरूपत्वाद् इत्य् अस्य परिहारो यद्य् अप्य् अविधायकार्थवादास् तथा विधिविहितम् अर्थं विशेषणं केचित् वदन्ति । केचित् विहितानुष्ठानाभिमुख्यकरणायार्थं वदन्तीत्य् अर्थवादास् तद् एवं विधिवाक्यशेषतादर्थवादनां (?) विधिशब्देनैकवाक्यत्वे सति युक्तं धर्ममूलत्वं च नामधेयम् । "शरदि वाजपेयेन यजेत्" इयं(इदं?) नामधेयाश्रयं शरत्कालगुणविधानं तथा "अन्नाद्यकामो वाजपेयेन यजेत" अयम् अपि क्रियाफलोपदेशो नामधेयाश्रय एव । तथा च विशेषत्वाद् अस्या(अन्या)? प्रनाडिकया धर्ममूलत्वम् । मन्त्राणां तु कर्माङ्गत्वाद् अयत्नसिद्धं धर्ममूलत्वम् । एवं च चोद्यानवकाशः । 
@@ -1498,6 +1498,11 @@ From the above we conclude that all the authorities are agreed on the following 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/007_yaH_kash.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+007	Whatever law has been ordained for any (person) by Manu, that has been fully declared in the Veda: for that (sage was) omniscient.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whatever Dharma for whatever person has been described by Manu,—all this is declared in the Veda; since the Veda embodies all knowledge.—(7)
@@ -1551,11 +1556,6 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 20.7.)
 तथा च वेदमूलत्वम् एषां दर्शयति – **य **इति । **कस्यचित् **श्रुतिशीलाचारात्मतुष्टिप्रमाणको धर्मः कस्यचित् ब्राह्मणादेः **मनुना **कथितः **स **सर्वैर् वेदैर् उक्तः उच्छिन्नविप्रकीर्णमन्त्रार्थवादलिङ्गमूलत्वात् तत्स्मरणस्य, अतीन्द्रियार्थप्रतिपादने हि वेदविदाम् अगृह्यमाणकारणानां वेदस्यैव मूलत्वसम्भवात् । यस्मात् सर्वदृष्टार्थज्ञानहेतुत्वात् **सर्वज्ञानमयः **सर्वज्ञानारब्ध इव वेदः । अत्र च अष्टकादीनां महाप्रत्यवायादीनां ग्रन्थेनोपनिबन्धः । शीलाचारात्मतुष्टीनां पुनर् अल्पप्रत्यवायत्वात् [न] उपनिबन्धः ॥ २.७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-007	Whatever law has been ordained for any (person) by Manu, that has been fully declared in the Veda: for that (sage was) omniscient.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यस्माद् अतो ऽस्याः पौरुषेयाद् युक्तं वेदवित्सम्बन्धेन प्रामाण्यम् । एवं तर्हि न वेदस्मृतिः प्रमाणान्तरं भवतु, को दोषः । न, वेदवित्सम्भन्धे नास्याः प्रामाण्यं वचनीयम्, वेदप्रामाण्येनैव । 
@@ -1576,6 +1576,11 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 20.7.)
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/008_sarvan_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+008	But a learned man after fully scrutinising all this with the eye of knowledge, should, in accordance with the authority of the revealed texts, be intent on (the performance of) his duties.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having fully perceived all this with the eye of knowledge, the learned man should enter upon his own duties, resting upon the authority of the Revealed Word.—(8)
@@ -1664,11 +1669,6 @@ remain firm in their own duties.’
 **सर्वम्** इति । यावत् किञ्चिच् छास्त्रजातं तत् **सर्वं विज्ञाना**ख्येन **चक्षुषा निखिलं **निःशेषं कृत्वा पर्यालोच्य वेदप्रामाण्येनैव शास्त्रज्ञः **स्वधर्मे** ऽवतिष्ठेत । वेदस्यैव धर्मं प्रति प्रामाण्यात् न वेदब्राह्मणशास्त्रप्रामाण्येन, ज्ञानं चक्षुर् इव प्रमेयपरिच्छेदात् ॥ २.८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-008	But a learned man after fully scrutinising all this with the eye of knowledge, should, in accordance with the authority of the revealed texts, be intent on (the performance of) his duties.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **सर्वं समवेक्ष्येदं** **निखिल**(ं) ? कर्म स्मार्तम् । **निखिल**शब्दः सर्वशब्दस्य मुख्यार्थवादित्वं दर्शयत्य् उभयथा तत्प्रयोजनदर्शनात् (?) । श्लोके (-दर्शनाऌ लोके) तत् समवेक्ष्यम् (क्ष्य?) काल (?) ज्ञानचक्षुषा वेदेन । कथम् । यथावोचाम पूर्वश्लोके । एवं सति **श्रुतिप्रामाण्यतो विद्वान्** जानानो (?) वेदशास्त्रवित् **स्वे स्वे धर्मे** **निविशेत** न पुरुषप्रामाण्यतः । न हि तस्य वेदसम्बन्धम् उक्त्वान्यतः प्रामाण्यं भवितुम् अर्हति । तथा चोक्तम् "विद्वद्भिः सेवितः सद्भिः" (म्ध् २.१) इति । 
@@ -1688,6 +1688,11 @@ remain firm in their own duties.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/009_shruti-smRty-uditan_dharmam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+009	For that man who obeys the law prescribed in the revealed texts and in the sacred tradition, gains fame in this (world) and after death unsurpassable bliss.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the man performing the duty laid down by the revealed word and the recollections obtains fame here, and after death, unsurpassed happiness.—(9)
@@ -1750,11 +1755,6 @@ and in the Smṛti,—all this should be done by the Housoholder; otherwise, he 
 **श्रुतिस्मृत्युदितम्** इति । **श्रुतिस्मृत्य्**उक्तं **धर्मम् **आचरन् पुरुषः **इह** लोके ख्यातिं परलोके चोत्कृष्टं **सुखं** प्राप्नोतीति सद्भूतगुणाखानेनानुष्ठानस्तुतिः प्ररोचनार्था । न ह्य् अकस्मान् निष्प्रयोजना स्तुतिः प्रवर्तेत इत्य् एवं सर्वत्रेह स्तुतिषु विज्ञेयम् ॥ २.९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-009	For that man who obeys the law prescribed in the revealed texts and in the sacred tradition, gains fame in this (world) and after death unsurpassable bliss.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 <u>ग्रहम् अत्राधिकृता स्मृत्ये</u> (?) स्तुत्यर्थम् । कथम् । यथैव श्रुत्युदितधर्मम् अनुतिष्ठन् कीर्त्या युज्यते एवं स्मृत्युदितम् अपीति भूतार्थवादेन प्रकृतार्थस्तुतिप्रकरणसामर्थात् द्रष्टव्या । एवं च न श्रुतेः स्वार्थ उपदेशः । किं तर्हि । स्मृतिस्तुत्यर्थः ।
@@ -1772,6 +1772,11 @@ and in the Smṛti,—all this should be done by the Housoholder; otherwise, he 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/010_shrutis_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+010	But by Sruti (revelation) is meant the Veda, and by Smriti (tradition) the Institutes of the sacred law: those two must not be called into question in any matter, since from those two the sacred law shone forth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Veda should be known as the ‘revealed word,’ and the Dharmaśāstra as the ‘recollections’; in all matters, these two do not deserve to be criticised, as it is out op these that Dharma shone forth.—(10)
@@ -1947,11 +1952,6 @@ See Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 **श्रुतिर्** इति । मन्दबुद्धिव्युत्पादनार्थं मीमांसाप्रतिषेधादिव्यवहारफलं लोकसिद्धपदार्थकथनम् । श्रुतिर् वेदो धर्मशास्त्रं स्मृतिर् इति । स्मृतिग्रहणं शीलादेर् अपि समरणप्रभेदत्वात् प्रदर्शनार्थम् । ते श्रुतिस्मृती **सर्वार्थेषु **आशुनरकफलसुरापानाद्यात्मकेषु कुतर्कविकल्पैः न विचारयितव्ये । कथम् एतत् स्याद् इति यतः प्रमाणान्तरागोचरो **धर्मः ताभ्यां निर्बभौ **प्रकाशतां गतः ॥ २.१० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-010	But by Sruti (revelation) is meant the Veda, and by Smriti (tradition) the Institutes of the sacred law: those two must not be called into question in any matter, since from those two the sacred law shone forth.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अग्निञ्छद्धा (?) शङ्कापरिहारार्थो ऽयम् आरभ्यते स्तुत्यर्थं चेति वर्तते । यद् यद् धर्मसाधनं शिष्टसमाचरणे न निबद्धाक्षरया स्मृत्या प्रतीयते (?), तत् सर्वम् अविशेषेण स्मृतिर्, नानयोर् विशेषो ऽस्ति । निबद्धानिबद्धयोर् उभयोर् अपि हि प्रामाण्ये शिष्टस्मरणम् एव्ं चावल्म्ब्य (?) वेदानुग्रह्थसन्दर्भश् चापि स्मरणार्थ उक्तम् (?) । **ते सर्वार्थेष्व्** एवामीमांस्ये न प्रतिषेद्ध्ये । यथैव वेदस्मृतिशास्त्रसिद्धो मेध्यामेध्यादिविभागो न विचार्यते दर्शणान्तरस्थैः(?), एवं विहितकर्मविषयो ऽपि पश्वादिवधो ऽत्र न विचारणीयः । येन "**ताभ्यां धर्मो हि निर्बभौ**" । कथम् । यथैव प्रमाणान्तरेणाप्राप्तौ धर्मो वेदात्मानं प्रतिलेभे ऽग्निहोत्रादि (?) एवं स्मृतितो ऽप्य् अष्टकादिर् इति श्रुतिवद् वा स्मृतिर् अप्य् अष्टकाप्रतिषेध्येत्य् अयं चान्यो वाक्यार्थो ऽपि । सैषोभयथा स्मृतिस्तुतिप्रकरणाद् इयं च दृष्टा परा ।
@@ -1969,6 +1969,11 @@ See Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/011_yo.avamanyeta.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+011	Every twice-born man, who, relying on the Institutes of dialectics, treats with contempt those two sources (of the law), must be cast out by the virtuous, as an atheist and a scorner of the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a twice-born person, relying upon the science of dialectics, should disregard these two sources, he should be cast out by good men,—the detractor of the Veda being an infidel.—(11)
@@ -2051,11 +2056,6 @@ Veda, the killing of a friend, all this should be regarded as equal to the killi
 एवं कर्तुः बहिःकरणम् आह – **यो ऽवमन्येत ते उभे** इति । यः श्रुतिस्मृतिभ्याम् एवोपात्तद्विजभावः सन् तत एवासत्तर्कशास्त्रावलम्बनेन निन्देत् । नास्ति परलोकादिर् इत्य् एवं स्थितपज्ञः **वेदनिन्दको** द्विजसम्पाद्यात् कर्मणो ऽध्ययनादेः शिष्टैः परिहार्यः ॥ २.११ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-011	Every twice-born man, who, relying on the Institutes of dialectics, treats with contempt those two sources (of the law), must be cast out by the virtuous, as an atheist and a scorner of the Veda.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अशब्दत्वाद् अप्रामाण्यशङ्कया श्रुत्या समानीकरोति या च मन्ये क्रयस् (?) **ते** प्रतिषेधयन् (?) **उभे** **द्विजस्** सन् वेदशास्त्रानुशिष्टः **हेतुशास्त्राश्रयाद्** इति वेदस्मृत्यागमविरोधिनस् तर्कशास्त्रस्यावष्टब्धह (-धस्य?) न तस्य न्यायाभासशास्त्रव्यवहारिणो वेदस्मृत्यागमप्रतिषेधः । पुरुषस्येयं निन्दा । **स साधुभिर् बहिष्कार्यः** आतिथ्यादिक्रियाभ्यः । येन **नास्तिको** ऽसौ **वेदनिन्दक**त्वात् । त्रयीशास्त्रप्रमाणं हि द्विजत्वम् । तत्रस्थस्य न च युक्ता निन्दा । यत एवं त्रय्यर्थविरोधाभिधाने प्रवृत्तो निन्द्यते द्विजः । वेदग्रहणं चात्र स्मृत्यर्थम् अपि द्रष्टव्यम् उक्तन्यायसामर्थ्यात् । एवं च कृत्वा यथा हेतुशास्त्राश्रयाद् अप्रतिषेध्यो वेदो धर्ममूलत्वात्, एवं स्मृतिर् अपीति स्मृतिपरम् एतत् प्रकरणसामर्थ्याद्दियुक्तम् (-मर्थाद् इत्य् उक्तम्?) ।
@@ -2083,6 +2083,11 @@ _यस् त्व् एतम् अर्थम् अविदित्व
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/012_vedaH_smRtiH.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+012	The Veda, the sacred tradition, the customs of virtuous men, and one's own pleasure, they declare to be visibly the fourfold means of defining the sacred law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Veda, the Smṛti, the Practice of cultured Men, and what is agreeable to oneself—these directly constitute the fourfold means of knowing Dharma.—(12)
@@ -2151,11 +2156,6 @@ See Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 इदानीं स्मृतिशीलाचारात्मतुष्ट्यात्मकप्रकारभेदस्यातन्त्रतां दर्शयितुं शीलापातेन चतुर्धा धर्मलक्षणम् आह – **वेदः स्मृतीति** । श्रुत्यादीनां प्रकारमात्रभेदो न तु वस्तुतः, सर्वेषां शिष्टानुस्मरणरूपत्वाच् च । तथा च “श्रुतिस् तु वेदो विज्ञेयो धर्मशास्त्रं तु वै स्मृतिः” स्वयम् एवावोचत् । **सदाचारः **साध्वाचारः । स्वात्मनश् च प्रियं आत्मतुष्टिः ॥ २.१२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-012	The Veda, the sacred tradition, the customs of virtuous men, and one's own pleasure, they declare to be visibly the fourfold means of defining the sacred law.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अयम् अपि प्रपञ्चार्थम् एवापरेण प्रकारेण श्लोकः । कथम् । यथैव हि वेदः साक्षाद् अप्य् अवहितो धर्ममुलम् एवं चोदनवाक्यस्वरूपा स्मृतिर् अपि धर्मस्यानुष्ठातव्यस्य साक्षान् मूलं न पुनर् अधिकं (?) या वेदसम्भवा (द्) । अथ वा (?) स्मृतिस्तुत्युपसंहारार्थः श्लोकः । तदुपसंहारश् च पूर्वप्रकारव्यवच्छेदेन परिभाषान्तरोपन्यासाभिप्रायः मतान्तरप्रदर्शनार्थः । वेदं वाक्यं केचित् तच्छीलस्यापाठेनैव त्रेधा स्मृतिं मन्यन्ते वेदम् (?) । चि(त)त्पाठेन (?) सह चतुर्धा । यथोक्तम् "स्मृतिशीले च तद्विदाम् । आचारश् चैव साधूनाम्" (२.६) इति । गौतमस् तु द्वेधा- "तद्विदां च स्मृतिशीले" (ग्ध् १.२) इति । तद् एवं स्मृतिभेदाभिधानम् एतद् (?) गौतमाचार्यस्य मनोर् अपि विवक्षितम् । स्मृतिपदार्थभेदस्यैकैव स्मृतिः । तथा चोक्तम् अनेनान्यत्र (?) "धर्मशास्त्रं तु वै स्मृतिः" (म्ध् २.१०) इति, "श्रुतिस्मृत्युदितं धर्मम्" (म्ध् २.९) इति च । एकम् (एवम्?) एव स्मृतिम् अवोचद् येनातस् तद् विज्ञापयति । नायं स्मृतिभेदो मुख्यः । किं तर्हि । कारणान्तरतो गौणः । इदानीं वेदस्मृत्योर् धर्ममूलत्वात् तदर्थानुष्ठातुः पुरुषस्योपधस्यानुपधस्य वानुष्ठानक्रिया पदार्थसम्बन्धः स्वाभाव्याद् (?) आतुरचिकित्साद् अभ्युदयोत्पत्तौ प्रयुक्तायाम् (?) इदं तत्प्रतिषेधादयः प्रत्यक्ष उपलभ्यते । तथा [च?] वक्ष्यति- "स्वानि कर्माणि कुर्वाणाः" (म्ध् ८.४२] योग्न(?)नियमार्थं (?) शास्त्रम् आरभ्यते ।
@@ -2173,6 +2173,11 @@ See Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/013_artha-kAmeShv_asaktAnAm.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+013	The knowledge of the sacred law is prescribed for those who are not given to the acquisition of wealth and to the gratification of their desires; to those who seek the knowledge of the sacred law the supreme authority is the revelation (Sruti).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The knowledge of Dharma is ordained for those who are not addicted to the pursuit of wealth and pleasures; and for those seeking for the knowledge of Dharma, the Revealed Word is the highest authority.—(13)
@@ -2318,11 +2323,6 @@ Also see the Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 **अर्थकामेष्व्** इति । **अर्थकामा**ख्यदृष्टपुरुषार्थेषु **असक्तानां **तल्लिप्साशून्यानां तत्त्वावबोधनं शास्त्रेण विधीयते । तल्लिप्सया लोकव्यक्त्यर्थं धर्मानुष्ठाने सति अदृष्टफलाभावात् किं धर्मज्ञानेनेत्य् अभिप्रायः । तथा च श्रुतिस्मृत्यादिविरोधे सति तत्त्वं ज्ञातुम् इच्छतां श्रुत्यादीनां मध्यात् **श्रुतिः** प्रकृष्टं **प्रमाणम्** । अतश् च श्रुतिविरोधे स्मृत्यवबाधः, प्रत्यक्षविरोधे ऽनुमानस्य दुर्बलत्वात् ॥ २.१३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-013	The knowledge of the sacred law is prescribed for those who are not given to the acquisition of wealth and to the gratification of their desires; to those who seek the knowledge of the sacred law the supreme authority is the revelation (Sruti).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पुरुषस्य शास्त्रानुष्ठातुर् अनुष्ठानक्रियायां स्वभावानुषक्ताव् अर्थक्रमो दृष्टपुरुषार्थः प्रत्यक्षत् उपलभ्यते । तथा [च?] वक्ष्यति- "स्वानि कर्माणि कुर्वाणा दूरे सन्तो ऽपि मानवाः" [म्ध् ८.४२] इति । एवं च वजसनेयि(क)ब्राह्मणं लोकवर्ती स्वाध्यायाभ्यासस्य दृष्टं प्रयोजनम् उक्त्वाह "लोकः पच्यमानश् चतुर्भिर् धर्मैर् ब्राह्मणं भुनक्त्य् अर्चया दानेन ज्ञानेन तथा चावध्यतया च" इति । **[४३]** तथा च स्मृत्यन्तरम्- 
@@ -2355,6 +2355,11 @@ Also see the Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/014_shrutidvaidhan_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+014	But when two sacred texts (Sruti) are conflicting, both are held to be law; for both are pronounced by the wise (to be) valid law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where there is conflict between two Vedic texts, both are held to be Dharma; both have been rightly pronounced by the wise to be Dharma.—(14)
@@ -2424,11 +2429,6 @@ Also see the Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 **श्रुतिद्वैधम्** इति । **यत्र **पुनः श्रुत्योर् एव द्विविध्यं परस्परं विद्धाभिधानं तत्र तत्प्रतिपाद्यौ द्वाव् अपि विकल्पानुष्ठेयत्वेन मन्वादिभिः पूर्वतरैर् अपि विद्वद्भिः द्वाव् **अपि** **तौ धर्मौ** सम्यक् समीचीनाव् इत्य् उक्तम् । नात्र कस्यचिद् अपि हानं युज्यते तुल्यप्रमाणशिष्टत्वात् । एवं च समानन्यायत्वात् स्मृत्योर् अपि विरोधे एतद् एव विज्ञेयम् इति प्रकृतोपयोगः ॥ २.१४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-014	But when two sacred texts (Sruti) are conflicting, both are held to be law; for both are pronounced by the wise (to be) valid law.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 श्रुतिग्रहणम् अत्राधिकृतायाः स्मृतेः (?) विरोधे सति विकल्पप्रसिद्ध्यर्था । न स्वार्थम्, अप्रकरणात् । अत्र रूपो (?) दाहरणस्यार्थं श्लोको भवति ।
@@ -2454,6 +2454,11 @@ Also see the Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/015_udite.anudite.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+015	(Thus) the (Agnihotra) sacrifice may be (optionally) performed, at any time after the sun has risen, before he has risen, or when neither sun nor stars are visible; that (is declared) by Vedic texts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At sunrise, or before sunrise, or at early dawn,—the sacrificial act may be performed at any time,—such is the pronouncement of the Veda.—(15)
@@ -2578,11 +2583,6 @@ death.’
 अत्रोदाहरणम् आह – **उदित** इति । **उदिते** होतव्यम् **अनुदिते** होतव्यं **समयाध्युषिते** रात्रिविवासकाले होतव्यम् इति इतरेतरविरुद्धहोमकालश्रवणे ऽपि **सर्वथा **सर्वं प्राप्नोति । अन्यस्मिन्न् अपि काले होमे कृते सम्पद्यते होमः । न हि कालाभ्याङ्गानुरोधेन होमाख्यं प्रधानम् आवर्तयितुं युक्तम् इत्य् एवम् उदिते होतव्यम् इत्य् एवमादिकं वैदिकं वाक्यम् इति ॥ २.१५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-015	(Thus) the (Agnihotra) sacrifice may be (optionally) performed, at any time after the sun has risen, before he has risen, or when neither sun nor stars are visible; that (is declared) by Vedic texts.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 य एवं च यथा श्रौतेषु पदर्थेष्व् अन्योन्यविरुद्धेषु शक्यसमुच्चयेष्व् अपि सत्स्व् अन्यतरशास्त्रानुष्ठानेनापि कृतः शास्त्रार्थः सम्पद्यते । यथाध्ययनम् अविरोधे (?) यः कृतो भवति । एवं स्ंराव् अपि द्रष्टव्यम् उदाहरणम् । "नित्यम् अभोज्यं केशकीटावपन्नम्" इति गौतमः । "मृत्प्रक्षेपाख्यसंस्कारेण भोज्यम्" इति मनुः । एवं तुल्यबलानां स्मृतिप्रमाणानां परस्परविरोधे विकल्पः । अन्यतरानुष्ठानं वेदितव्यम् । यथा श्रौते जुहोतीत्य् अनुमानम् इति ।
@@ -2610,6 +2610,11 @@ death.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/016_niShekAdi-shmashAnAnto_mantrair.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+016	Know that he for whom (the performance of) the ceremonies beginning with the rite of impregnation (Garbhadhana) and ending with the funeral rite (Antyeshti) is prescribed, while sacred formulas are being recited, is entitled (to study) these Institutes, but no other man whatsoever.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That person alone, and none other, should be regarded as entitled to the scripture, for whom the sacraments beginning with conception and ending with the crematorium, are prescribed as to be done with mantras.—(16)
@@ -2722,11 +2727,6 @@ svādyāyādhyayanavidhināca*.’ Here both the *Bhāṭṭa* and the *Prābhā
 <details><summary>गोविन्दराजः</summary>
 
 **निषेकादीति **। गर्भाधानाद्यन्त्येष्टिपर्यन्तो **यस्य** **मन्त्रैर् **युक्तो ऽनुष्ठानकल्पः उक्तः स च द्विजातेर् उक्तः । अतस् **तस्य अस्मिन् **स्मृति**शास्त्रे **अध्ययनश्रवण्**आधिकारो **बोद्धव्यः न तु शूद्रादेः अर्थानुष्ठानं पुनः प्रतिलोमपर्यन्तान् प्रत्य् अपि चोदितत्वान् नानेन निषेध्यते । प्रवचनं त्व् अत्र ब्राह्मणस्येत्य् उक्तम् । विदिषेत्य् अत्र धर्मप्रमाणानि परिभाषाश् चोक्ताः ॥ २.१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-016	Know that he for whom (the performance of) the ceremonies beginning with the rite of impregnation (Garbhadhana) and ending with the funeral rite (Antyeshti) is prescribed, while sacred formulas are being recited, is entitled (to study) these Institutes, but no other man whatsoever.
 </details>
 </details>
 </div>

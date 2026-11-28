@@ -12,6 +12,11 @@ title = "१३ सदाचारान्तरम्"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/162_AchArya~n_cha.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+162	Let him never offend the teacher who initiated him, nor him who explained the Veda, nor his father and mother, nor (any other) Guru, nor cows, nor Brahmanas, nor any men performing austerities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not injure his Preceptor, or Teacher or Father, or mother, or another elder, or Brāhmaṇas, or Cows, or any persons performing austerities.—(162)
@@ -97,11 +102,6 @@ from whom he acquires any knowledge, temporal or scriptural or spiritual...... o
 **आचार्यं चेति** । **आचार्यम्** अध्यापयितारं चोपनयनमात्रकारिणं लोकवत् **पितरं मातरं गुरुम्** “अल्पं वा बहु वा यस्य” (२.१४९) इत्य् उक्तम् गोब्राह्मणतपोनिष्ठांश् च आततायिनो ऽपि **न हिंस्यात्** । अन्यथा सामान्यहिंसानिषेधे सति इदं पृथग्वचनम् अनर्थकं स्यात् ॥ ४.१६२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-162	Let him never offend the teacher who initiated him, nor him who explained the Veda, nor his father and mother, nor (any other) Guru, nor cows, nor Brahmanas, nor any men performing austerities.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सर्वत्रानपकारिषु हिंसा नेष्यते । आचार्यादीन् ह्य् अन्यापकारिणो ऽपि सतो न हिंस्यात् । प्रतिकूलाचरणं चाचार्यादीनां हिंसेत्य् उच्यते न वधः । तथा चोक्तम् "प्रतिरोद्धा गुरोश् चैव" (म्ध् ३.१५३) इत्यर्थः (इत्यादिना?) प्राप्तस्य प्रतिषेधः । तथा च भारते- प्रतिकूलाचरणम् एवार्जुनेन युधिष्ठिरस्य हन्ति (??) ।
@@ -119,6 +119,11 @@ from whom he acquires any knowledge, temporal or scriptural or spiritual...... o
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/163_nAstikyaM_vedanindAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+163	Let him avoid atheism, cavilling at the Vedas, contempt of the gods, hatred, want of modesty, pride, anger, and harshness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall, avoid atheism, cavilling at the Vedas, abusing of the gods, hatred, haughtiness, pride, anger and hastiness.—(103)
@@ -180,11 +185,6 @@ scriptures and great men.’
 **नास्तिक्यम्** इति । **द्वेषं स्तम्भं च मानं च क्रोधं तैक्ष्ण्यं च वर्जयेत् ।** नास्त्य् अदृष्टम् इत्य् एव बुद्धित्वम्, वेददेवतागर्हणं मात्सर्यानम्रत्वादाव् अभिमानक्रोधक्रौर्याणि **वर्जयेत् **॥ ४.१६३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-163	Let him avoid atheism, cavilling at the Vedas, contempt of the gods, hatred, want of modesty, pride, anger, and harshness.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **द्वेष**विशेषप्रदर्शनार्थं तत् । परिवर्जनार्थम् आचार्यादिभ्यश् चान्यत्रापि ।
@@ -202,6 +202,11 @@ scriptures and great men.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/164_parasya_daNDam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+164	Let him, when angry, not raise a stick against another man, nor strike (anybody) except a son or a pupil; those two he may beat in order to correct them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not, when angry, raise the rod against another person, nor shall he let it fall; except in the case of the son or the pupil; these two he may beat with a view to correction.—(164)
@@ -253,11 +258,6 @@ person;—for disciplinary purposes, he shall beat his pupil, on the back, eithe
 <details><summary>गोविन्दराजः</summary>
 
 **परस्येति । परस्य **दण्डादि नोद्गुर्येत् **क्रुद्धश्** च सन् आत्मनः पुत्रशिष्यभार्याकनीयान्सोदर्यभ्रातृदासान् वक्ष्यमानान् वर्जयित्वा न प्रहारेण । तान् पुनर् अनुशासनार्थं “रज्ज्वा वेणुदलेन वा” इत्यादिप्रकारेण **ताडयेत्** ॥ ४.१६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-164	Let him, when angry, not raise a stick against another man, nor strike (anybody) except a son or a pupil; those two he may beat in order to correct them.
 </details>
 </details>
 </div>

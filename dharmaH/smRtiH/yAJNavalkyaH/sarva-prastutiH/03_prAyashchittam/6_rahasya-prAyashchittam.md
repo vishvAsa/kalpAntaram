@@ -16,6 +16,12 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/300_vikhyAtadoShaH_kurvIta.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One whose fault is widely known should perform a vow approved by the assembly;  
+but one whose fault is unknown should observe a secret vow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विख्यात-दोषः कुर्वीत  
@@ -159,6 +165,12 @@ _एवं तावत् प्रख्यातपापानां प्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/301_trirAtropoShito_japtvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having fasted for three nights and muttered the Aghamarṣaṇa hymn  
+under water, the slayer of a Brahmin becomes purified, and by giving a milch cow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि-रात्रोपोषितो जप्त्वा  
@@ -223,6 +235,12 @@ _एवं रहस्यप्रायश्चित्तानां व�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/302_lomabhyaH_svAhety.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or else, subsisting on air for a day, standing in water,  
+he should offer forty oblations of clarified butter with the words: 'To the bodily hairs, svāhā.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 लोमभ्यः स्वाहेत्य् अथ वा  
@@ -267,6 +285,12 @@ _साग्निकस्य तु ब्राह्मणवधे पू�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/303_trirAtropoShito_hutvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having fasted for three nights, offering clarified butter with the Kūṣmāṇḍa hymns, purified,  
+a stealer of a Brahmin's gold, muttering the Rudra hymns while standing in water, [becomes purified].
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि-रात्रोपोषितो हुत्वा  
@@ -348,6 +372,12 @@ _सुरापस्वर्णहारिनोस् तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/304_sahasrashIrShAjApI_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who has violated his guru's bed is freed by muttering the hymn beginning with 'A thousand heads' [Puruṣasūkta];  
+at the end of this rite, a milch cow should be given separately by each of these.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सहस्र-शीर्षा-जापी तु  
@@ -420,6 +450,12 @@ _त्रिरात्रोपोषित एव पूर्ववत् �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/305_prANAyAmashata~N_kAryaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A hundred breath controls are to be performed for the removal of all sins,  
+of classes of minor sins, and also of any unspecified sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राणायाम-शतं कार्यं  
@@ -474,6 +510,12 @@ _एवं चतुर्णां महापातकानाम् उक�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/306_OMkArAbhiShTutaM_soma.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having ingested semen, feces, or urine,  
+a supreme twice-born should drink purifying Soma water consecrated with the sacred syllable Om.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ॐ-काराभिष्टुतं सोम-  
@@ -521,6 +563,12 @@ _उपपातकसामान्यप्राप्तस्य प्र
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/307_nishAyAM_vA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever may have been done in ignorance, whether at night or by day,  
+all of that is entirely destroyed by performing the twilight devotion at the three times of day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निशायां वा दिवा वा ऽपि  
@@ -573,6 +621,12 @@ _यत् तु कर्त्रा स्वयम् अप्य् अ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/308_shukriyAraNyakajapo_gAyatryAsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The muttering of the Śukriya hymns, the Āraṇyaka, and especially the Gāyatrī,  
+and likewise the eleven Rudras—for these remove all sins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शुक्रियारण्यक-जपो  
@@ -649,6 +703,12 @@ _अथ सकलमहापातकादिसाधारणान् प�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/309_yatra_yatra.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+And wherever a twice-born considers himself defiled,  
+there an oblation with sesame seeds and recitation of the Gāyatrī [should be performed].
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्र यत्र च सङ्कीर्णम्  
@@ -732,6 +792,12 @@ _सर्वत्र च रहस्ये प्रायश्चित्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/310_vedAbhyAsarata~N_xAntaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sins, even those arising from mortal sins,  
+do not touch in this world one devoted to the study of the Veda, patient, and intent on the rites of the five great sacrifices.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वेदाभ्यास-रतं क्षान्तं  
@@ -786,6 +852,12 @@ _रहस्यानि वा प्रकाशानि वा यान्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/311_vAyubhaxo_divA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Subsisting on air, standing by day, spending the night in water, gazing at the sun,  
+having muttered a thousand Gāyatrīs, one is purified, except from the slaying of a Brahmin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वायु-भक्षो दिवा तिष्ठन्  
@@ -840,6 +912,12 @@ _यश् चैवं वेदाभ्यासरतः, स रहस्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/312_brahmacharyan_dayA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Celibate studenthood, compassion, patience, generosity, truthfulness, integrity,  
+non-violence, non-stealing, gentleness, and self-restraint are recorded as the restraints.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्मचर्यं दया क्षान्तिर्  
@@ -890,6 +968,12 @@ _रहस्याद्यधिकृतानां सर्वप्रा
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/313_snAnam_maunopavAsejyA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bathing, silence, fasting, worship, recitation of the Veda, restraint of the sexual organs,  
+service to the guru, purification, absence of anger, and vigilance are the observances.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्नानं मौनोपवासेज्या-  
@@ -924,6 +1008,12 @@ _पूर्ववद् एव ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/314_gomUtra~N_gomaya~N.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having consumed cow's urine, cow dung, milk, curd, clarified butter, and water with kuśa grass,  
+one should fast on the next day; one should perform the Sāntapana kṛcchra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गो-मूत्रं गो-मयं क्षीरं  
@@ -1004,6 +1094,12 @@ _अधुना सर्वपापक्षपणार्थान्य्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/315_pRthaksAntapanadravyaiH_ShaDahaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+[Subsisting] on the individual substances of the Sāntapana for six days, accompanied by a fast [on the seventh],  
+this kṛcchra of seven days is recorded as the Mahāsāntapana.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृथक्-सान्तपन-द्रव्यैः  
@@ -1066,6 +1162,12 @@ _एतैर् एव क्षीरादिभिः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/316_parNodumbararAjIva_bilvapatrakushodakaiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+By drinking [the decoction of] leaves, udumbara, lotus, bilva leaves, and kuśa water,  
+each individually on each day, it is declared to be the Parṇakṛcchra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पर्णोदुम्बर-राजीव-  
@@ -1119,6 +1221,12 @@ _पर्णकृच्छ्राख्यं व्रतम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/317_taptaxIraghRtAmbUnAm_ekaikam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should drink hot milk, hot clarified butter, and hot water, each on one day,  
+and fast for one night; it is declared to be the Taptakṛcchra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तप्त-क्षीर-घृताम्बूनाम्  
@@ -1176,6 +1284,12 @@ _तप्तकृच्छ्रम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/318_ekabhaktena_naktena.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+With one meal by day, [one] by night, [one meal] unasked for,  
+and a fast [on the fourth day], this is proclaimed to be the Pādakṛcchra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एक-भक्तेन नक्तेन  
@@ -1246,6 +1360,12 @@ _पादकृच्छ्रम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/319_yathAkathanchit_triguNaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Repeated three times in any manner, this is called the Prājāpatya penance;  
+this very [penance], when eating food filling [only] the hand, would be the severe kṛcchra penance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा-कथञ्चित् त्रि-गुणः  
@@ -1317,6 +1437,12 @@ _अतिकृच्छ्रम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/320_kRchChrAtikRchChraH_payasA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The most severe kṛcchra penance is [performed] with milk for twenty-one days;  
+the Parāka fast is proclaimed to be a fast of twelve days.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृच्छ्राति-कृच्छ्रः पयसा  
@@ -1362,6 +1488,12 @@ _पराकम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/321_piNyAkAchAmatakrAmbu_saktUnAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+[Subsisting on] oil-cake, scum of boiled rice, buttermilk, water, and barley-meal, each on a day,  
+and a fast for one night, this is called the Saumya kṛcchra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पिण्याकाचाम-तक्राम्बु-  
@@ -1405,6 +1537,12 @@ _सौम्यकृच्छ्रम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/322_eShAn_trirAtram.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the repetition of each of these for three nights in due order,  
+this balance-ordeal penance of fifteen days is to be known.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एषां त्रि-रात्रम् अभ्यासाद्  
@@ -1455,6 +1593,12 @@ _य एते पिण्याकादयः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/323_tithivRddhyA_charet.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Performing the lunar penance, one should consume morsels sized like a peahen's egg with the increase of lunar days in the bright [fortnight],  
+and decrease the morsel by one each day in the dark [fortnight].
+</details>
+
 <details><summary>मूलम्</summary>
 
 तिथि-वृद्ध्या चरेत् पिण्डान्  
@@ -1509,6 +1653,12 @@ _चान्द्रायणम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/324_yathAkathanchit_piNDAnAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Alternatively, one should consume two hundred and forty morsels in any manner whatsoever  
+in the course of a month; [this is] another lunar penance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा-कथञ्चित् पिण्डानां  
@@ -1570,6 +1720,12 @@ _चान्द्रायणान्तरम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/325_kuryAt_triShavaNasnAyI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bathing at the three daily junctures, one should perform the kṛcchra and likewise the lunar penance;  
+one should mutter purifying texts and consecrate the morsels with the Gāyatrī.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कुर्यात् त्रिषवण-स्नायी  
@@ -1707,6 +1863,12 @@ _यान्य् एतानि सान्तपनादीनि कृ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/326_anAdiShTeShu_pApeShu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+And in the case of unspecified sins, purification is by the lunar penance;  
+whoever performs this for the sake of duty attains the same world as the Moon.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनादिष्टेषु पापेषु  
@@ -1856,6 +2018,12 @@ _इत्थम् उक्तविनियोगस्य चान्द�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/327_kRchChrakRd_dharmakAmas.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who performs a kṛcchra desiring duty obtains great prosperity;  
+well-concentrated, he attains the fruit like that of a great sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृच्छ्र-कृद् धर्म-कामस् तु  
@@ -1900,6 +2068,12 @@ _यस् त्व् अनभिसंधाय फलम् आत्मस
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/328_shrutvaitAn_RShayo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having heard these duties spoken by Yājñavalkya,  
+the seers addressed this to that great soul, the lord of yogins of boundless splendour:
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रुत्वैतान् ऋषयो धर्मान्  
@@ -1942,6 +2116,12 @@ _य एते "यस्मिन् देशे मृगः कृष्ण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/329_ya_idan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Those who will maintain this treatise on duty without negligence,  
+having attained fame in this world, shall go to heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य इदं धारयिष्यन्ति  
@@ -1976,6 +2156,12 @@ _य एते "यस्मिन् देशे मृगः कृष्ण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/330_vidyArthI_prApnuyAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One desiring knowledge would attain knowledge, one desiring wealth likewise wealth,  
+one desiring long life likewise long life, and one desiring prosperity great prosperity.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विद्यार्थी प्राप्नुयाद् विद्यां  
@@ -2004,6 +2190,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/331_shlokatrayam_api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever recites even three verses from this during an ancestral rite,  
+of his ancestors there will be imperishable satisfaction; there is no doubt here.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्लोक-त्रयम् अपि ह्य् अस्माद्  
@@ -2032,6 +2224,12 @@ _तथा _।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/332_brAhmaNaH_pAtratAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A Brahmin attains worthy standing, a Kshatriya becomes victorious,  
+and a Vaishya becomes rich in grain and wealth through maintaining this treatise.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्राह्मणः पात्रतां याति  
@@ -2064,6 +2262,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/333_ya_idaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever wise man would recite this to twice-borns on every lunar juncture,  
+his is the fruit of a horse sacrifice; may your honour assent to that!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 य इदं श्रावयेद् विद्वान्  
@@ -2108,6 +2312,12 @@ _इदं चान्यत् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/6_rahasya-prAyashchittam/334_shrutvaitad_yAjnavaklyo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having heard this spoken by the sages, Yājñavalkya too, pleased in spirit,  
+having bowed to the Self-existent [Brahmā], said: 'Let it be so!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रुत्वैतद् याज्ञवक्ल्यो ऽपि  

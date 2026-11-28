@@ -48,6 +48,12 @@ title = "२१ विक्रीयासम्प्रदान-प्रक
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/21_vikrIyAsampradAna-prakaraNam/254_gRhItamUlyaM_yaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever, having received the price, does not deliver the commodity to the buyer,  
+is to be made to give it to him with interest, or with foreign profit if he has arrived from a foreign land.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृहीत-मूल्यं यः पण्यं  
@@ -127,6 +133,12 @@ _क्रयविक्रयप्रसङ्गाद् विक्री
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/21_vikrIyAsampradAna-prakaraNam/255_vikrItam_api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Even though sold, it may be sold [to another] if the first buyer does not take it;  
+if there is a loss through the fault of the buyer, it shall fall only upon the buyer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विक्रीतम् अपि विक्रेयं  
@@ -170,6 +182,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/21_vikrIyAsampradAna-prakaraNam/256_rAjadaivopaghAtena_paNye.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a commodity is damaged through an act of the king or an act of god,  
+that loss falls only on the seller who does not deliver it when demanded.
+</details>
+
 <details><summary>मूलम्</summary>
 
 राज-दैवोपघातेन  
@@ -224,6 +242,12 @@ _गृहितमूल्ये तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/21_vikrIyAsampradAna-prakaraNam/257_anyahaste_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If one sells it to another person, or sells a defective good  
+as if it were non-defective, the fine in that case shall be double the price.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्य-हस्ते च विक्रीय  
@@ -296,6 +320,12 @@ _क्रेत्रा तूत्सङ्कलितम् एव हि 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/21_vikrIyAsampradAna-prakaraNam/258_xayaM_vRddhi~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A merchant who does not know the decrease and increase of commodities  
+must not rescind after buying; doing so, he incurs a fine of a sixth part.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षयं वृद्धिं च वणिजा  

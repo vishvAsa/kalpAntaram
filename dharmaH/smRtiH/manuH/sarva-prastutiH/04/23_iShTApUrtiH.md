@@ -12,6 +12,11 @@ title = "२३ इष्टापूर्तिः"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/226_shraddhayeShTa~n_cha.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+226	Let him, without tiring, always offer sacrifices and perform works of charity with faith; for offerings and charitable works made with faith and with lawfully-earned money, (procure) endless rewards.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall always diliqenty perform, with faith, sacrifices and other religious acts; done with faith, and with well-begotten wealth, they become imperishable.—(226)
@@ -162,11 +167,6 @@ Iṣṭa. Tanks, ponds, temples, food-stalls, gardens, gifts made during eclipse
 यत एवम् अतः **श्रद्दयेति** ॥ ४.२२६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-226	Let him, without tiring, always offer sacrifices and perform works of charity with faith; for offerings and charitable works made with faith and with lawfully-earned money, (procure) endless rewards.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यतश् चैतद् एवम् अतः ।
@@ -184,6 +184,11 @@ Iṣṭa. Tanks, ponds, temples, food-stalls, gardens, gifts made during eclipse
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/227_dAnadharman_niSheveta.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+227	Let him always practise, according to his ability, with a cheerful heart, the duty of liberality, both by sacrifices and by charitable works, if he finds a worthy recipient (for his gifts.)
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall practise, to the best of his ability, charity and righteousness in connection with sacrifices and acts of piety with a cheerful heart, if he finds a suitable recipient.—(227)
@@ -240,11 +245,6 @@ is held superior to charity.’
 **दानधर्मम्** इति । आन्तर्वेदिको बहिर्वेदिकश् च यो दानाख्यो धर्मः तं श्रुताध्ययनादिसर्वगुणोपेतं ब्राह्मणं प्राप्य परितोषाख्येन चित्तधर्मेण यथाशक्ति नित्यं कुर्यात् ॥ ४.२२७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-227	Let him always practise, according to his ability, with a cheerful heart, the duty of liberality, both by sacrifices and by charitable works, if he finds a worthy recipient (for his gifts.)
-</details>
-
 <details><summary>भारुचिः</summary>
 
 नित्यम् आभ्युदयिकं वा दानं श्रद्धया दातव्यम् तिय् आरम्भार्थं एतत् स्यात् च श्राद्धार्थकल्पनायाम् ।
@@ -262,6 +262,11 @@ is held superior to charity.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/228_yat_kim.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+228	If he is asked, let him always give something, be it ever so little, without grudging; for a worthy recipient will (perhaps) be found who saves him from all (guilt).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When asked, he should give something, without showing any displeasure. Because he may turn out to be a worthy recipient who will save him from everything.—(228)
@@ -304,11 +309,6 @@ some trouble or for the maintenance of his family,—he shall give what is asked
 **यत् किञ्चिद्** इति । प्रार्थितेन अकृतदोषविचारेण स्वल्पम् अपि यथासम्भवं दातव्यम् । यस्माद् अनवरतं दानप्रवृत्तस्य कदाचिद् अवश्यं तथाविधं पात्रम् आगमिष्यति यत् दृष्टादृष्टदोषेभ्यो मोचयति ॥ ४.२२८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-228	If he is asked, let him always give something, be it ever so little, without grudging; for a worthy recipient will (perhaps) be found who saves him from all (guilt).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **याचितेना**नपेक्ष्य (?) पात्रतां स्वल्पम् अपि दातव्यम् । **उत्पत्स्यते हि तत् पात्रम्** इति लिङ्गाद् अपात्रदानम् अप्य् अस्तीति स्त्रयति (?) ददाति साधनदेयद्रव्यस्वरूपम् इदानीं दर्शयति शार्थवादकम् ।
@@ -326,6 +326,11 @@ some trouble or for the maintenance of his family,—he shall give what is asked
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/229_vAridas_tRptim.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+229	A giver of water obtains the satisfaction (of his hunger and thirst), a giver of food imperishable happiness, a giver of sesamum desirable offspring, a giver of a lamp a most excellent eyesight.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The giver of water obtains satisfaction, the giver of food imperishable happiness, the giver of sesamum desirable offspring, and this giver of lamp most excellent eyesight.—(229)
@@ -385,11 +390,6 @@ clothes becomes endowed with beauty, and the man who gives land is always a king
 
 **वारिद** इति । उदकप्रदः सौहित्यम्, **अन्नदः **अनन्तसुखम्, **तिलप्रदः **ईप्सितान्य् अपत्यानि, **दीपदः **तिमिराद्यनुपहतं **चक्षुः** प्राप्नोति ॥ ४.२२९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-229	A giver of water obtains the satisfaction (of his hunger and thirst), a giver of food imperishable happiness, a giver of sesamum desirable offspring, a giver of a lamp a most excellent eyesight.
-</details>
 </details>
 </div>
 
@@ -403,6 +403,11 @@ clothes becomes endowed with beauty, and the man who gives land is always a king
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/230_bhUmido_bhUmim.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+230	A giver of land obtains land, a giver of gold long life, a giver of a house most excellent mansions, a giver of silver (rupya) exquisite beauty (rupa),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The giver of land obtains land, the giver of gold long life, the giver of house excellent mansions, and the giver of silver exquisite beauty.—(230)
@@ -444,11 +449,6 @@ as Agni;—and by the giving of silver, he obtains beauty.’
 
 **भूमिद** इति । **भूमिदो** भूम्याधिपत्यं च सुवर्णदो **दीर्घम् आयुः, गृहदः** श्रेष्ठानि गृहाणि, **रूप्यदः **उत्कृष्टं **रूपं** लभते ॥ ४.२३० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-230	A giver of land obtains land, a giver of gold long life, a giver of a house most excellent mansions, a giver of silver (rupya) exquisite beauty (rupa),
-</details>
 </details>
 </div>
 
@@ -462,6 +462,11 @@ as Agni;—and by the giving of silver, he obtains beauty.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/231_vAsodash_chandrasAlokyam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+231	A giver of a garment a place in the world of the moon, a giver of a horse (asva) a place in the world of the Asvins, a giver of a draught-ox great good fortune, a giver of a cow the world of the sun;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The giver of cloth obtains resemblance to the Moon, the giver of horse resemblance to horse-owners, the giver of the ox great good fortune, and the giver of the cow toe region of the Sun.—(231)
@@ -558,11 +563,6 @@ milch cow, which has golden horns and silvered hoofs, and is quiet and adorned w
 
 **वासोद** इति । वस्तरदश् चन्द्रेण सह समानलोकतां छन्द्र्लोकं **अश्वदः **अश्विभ्यां समानलोकतां वृषप्रदः महतीं श्रियं गोप्रदः आदित्यलोकं प्राप्नोति ॥ ४.२३१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-231	A giver of a garment a place in the world of the moon, a giver of a horse (asva) a place in the world of the Asvins, a giver of a draught-ox great good fortune, a giver of a cow the world of the sun;
-</details>
 </details>
 </div>
 
@@ -576,6 +576,11 @@ milch cow, which has golden horns and silvered hoofs, and is quiet and adorned w
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/232_yAna-shayyA-prado_bhAryAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+232	A giver of a carriage or of a bed a wife, a giver of protection supreme dominion, a giver of grain eternal bliss, a giver of the Veda (brahman) union with Brahman;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The giver or carriage and couch obtains a wife, the giver of fearlessness sovereignty, the giver of grains eternal happiness, and the giver of the Veda equality with Brahman.—(232)
@@ -623,11 +628,6 @@ sovereignty over his inner apartments.’
 
 **यानशय्याप्रद** इति । खट्वादिप्रदो **भार्याम् **आर्तत्राणकृत् प्रभुत्वम्, धान्यप्रदः सार्वकालिकं सुखं वेदप्रदः परं ब्रह्मसमानगतित्वं प्राप्नोति । सर्वत्र चात्र देयद्रव्यसाराल्पत्वभूयस्त्वाद्यपेक्षया दृष्टवत्यल्प(दृष्टफलाल्प)स्याल्पबहुत्वकालादितातम्यं विज्ञेयम् ॥ ४.२३२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-232	A giver of a carriage or of a bed a wife, a giver of protection supreme dominion, a giver of grain eternal bliss, a giver of the Veda (brahman) union with Brahman;
-</details>
 </details>
 </div>
 
@@ -641,6 +641,11 @@ sovereignty over his inner apartments.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/233_sarveShAm_eva.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+233	The gift of the Veda surpasses all other gifts, water, food, cows, land, clothes, sesamum, gold, and clarified butter.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The giving or Veda surpasses all gifts or water, food, cows, buffaloes, clothes, sesamum, gold and clarified butter.—(233)
@@ -691,11 +696,6 @@ gifts*;—*viz*., of cows, land and Veda; these three bring about the salvation 
 **सर्वेषाम् **इति । जलान्नगोभूवस्त्रतिलसुवर्णघृतादीनां सर्वेषां यानि दानानि तेषां मध्याद् वेददानं फलाधिक्यात् **विशिष्यते** ॥ ४.२३३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-233	The gift of the Veda surpasses all other gifts, water, food, cows, land, clothes, sesamum, gold, and clarified butter.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पञ्चभिः श्लोकैः सर्व एते फलार्थवादाः । फलोपदेशो वा अनुमेयत्वात् स्वर्गस्य न्यायशास्त्रविरोधिनो दृष्टवाददृष्टार्थता वेदितव्या । **वार्या**दयश् च सर्वदेयद्रव्याणां श्रद्धाप्रकारार्चितदानप्रदर्शनार्थाः । एवं चोक्तेभ्यो ऽनुक्तानि न परिसङ्ख्यायन्ते । तथा च सति –
@@ -713,6 +713,11 @@ gifts*;—*viz*., of cows, land and Veda; these three bring about the salvation 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/234_yena_yena.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+234	For whatever purpose (a man) bestows any gift, for that same purpose he receives (in his next birth) with due honour its (reward).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In whatever spirit a man bestows a gift, in that same spirit he himself receives it with due honour.—(234)
@@ -776,11 +781,6 @@ best to do his duty.’
 **येनेति** । यादृशेन राजसेन सात्विकेन तामसेन वा शुद्धेन वा मध्यमेनाशुद्धेन वा चित्तधर्मेण च **यद् यद्** एव द्रव्यं ददाति **तत् तद्** द्रव्यं फलद्वारेण तु **तेनैव** दान्ग्गतभावेन भावानुरूपेणैव सुखं मध्यमदुःखवता चित्तेन (न) च जन्मान्तरे पूजितः सन् प्राप्नोति ॥ ४.२३४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-234	For whatever purpose (a man) bestows any gift, for that same purpose he receives (in his next birth) with due honour its (reward).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 श्रद्धास्तुतिप्रकरणे हीमम् अपि दृष्टं "दानधर्मं निषेवेत नित्यम् ऐष्टिकपौर्तिकम् परितुष्टेन भावेन" (म्ध् ४.२२७) इति यतो अस्य प्रभावप्रसादस्य श्रद्धाकार्यस्य श्राद्धाख्यस्य वा स्तुत्यर्थम् इदं प्रक्रियते । तद् अनुष्ठाय दानकाले **येन भावेनेत्य्** एवमादिभावं श्रद्धापूर्वं प्रतिगहीतृपूजार्थः चित्तप्रसादो न तु श्रद्धैव वा प्रतिग्रहीतृपूजार्थाभावः । तस्याश् चाधममध्यमोत्तमत्वात् तदनुरूपफलसम्बन्धेनेयं स्तुतिः । <u>अपरे</u> तु सत्त्वरजस्तमःसम्बन्धेनेदं सन्नयन्ति । एवं च सति अन्तःकरणसाधनं कर्मप्रधानकर्मबाह्यादेर् द्रव्योपसर्जनम् इत्य् उक्तं भवति । तथा च सत्य् अयं वाक्यार्थः । परया श्रद्धया चित्तं देयं येन ।
@@ -798,6 +798,11 @@ best to do his duty.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/235_yo.architam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+235	Both he who respectfully receives (a gift), and he who respectfully bestows it, go to heaven; in the contrary case (they both fall) into hell.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who receives respectfully, as well as he who gives respectfully,—both these go to heaven; but to hell, in the contrary case.—(235)
@@ -839,11 +844,6 @@ See Comparative notes for [Verse 4.234].
 तस्माद् यत्नतः [अर्चित]करेण देयम्, **य **इति । यावद् अर्चापूर्वकं दानप्रतिग्रहौ कुरुतः तौ द्वाव् अपि दातृप्र्तिग्रहीतारौ स्वर्गं गच्छतः । अनर्चितेन करेण पुनः नरकं व्रजतः । प्रतिग्रहीतुः सत्य् अपि वृत्त्यर्थत्वेन दृष्टार्थत्वे प्रतिग्र्हस्य “अर्चितम् एव मया ग्राह्यं नान्यथा” इत्य् एवं नियमादृष्टद्वारेण वचनान् नायुक्तः स्वर्गलाभः ॥ ४.२३५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-235	Both he who respectfully receives (a gift), and he who respectfully bestows it, go to heaven; in the contrary case (they both fall) into hell.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अर्चितं प्रतिगृह्णतः** स्वर्गः नमनः (?) युक्तम्, "षण्णां तु कर्मणाम् अस्य त्रीणि कर्माणि जीविका" (म्ध् १०.७६) इति वचनात् प्रतिग्रहस्य दृष्टार्थत्वम् । एवं च "**नरकं तु विपर्यये**" इत्य् एतद् अपि नान्यत्र ब्रुवे ऽर्चितदानप्रशंसार्थो ऽयम् अर्थवादः । कथम् एवं नामेदं श्रद्धामात्रप्रसादोपगृहीतम् अर्चितदानं विशिष्टं येनात्र शक्यम् एवं वक्तुम् अर्चितप्रतिग्रहीतुर् अपि स्वर्गः किं पुनर् दातुर् इत्य् एवम् आदानस्य प्रतिषेधार्थम् इदम् – एवं च विज्ञातुं शक्यम् । "**नरकं तु विपर्यये**" इति यदा चास्वार्थनिरपेङणप्रतिगृहीतदातुर् अनुग्रहायैव तदध्येषणया प्रतिग्रहः क्रियते । श्राद्धभोजनाद् इतरस् त्व् अयं तपस्वीमां प्रति पात्राविशेषं प्राप्य तद् एवं युक्तम् अगस्थ्यादिवद् अगृह्यमाणकारणत्वात् प्रतिग्रहस्याथ वा सविशेषात् प्रतिग्रहाद् यो नियमधर्मद् तदपेक्षम् अत्र स्तुतिवचनं प्रकरणाच् च दानसङ्कीर्तनप्रतिषेधसम्बन्धेनान्यद् अपि प्रतिषेध्यं दर्शयति ।
@@ -861,6 +861,11 @@ See Comparative notes for [Verse 4.234].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/236_na_vismayeta.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+236	Let him not be proud of his austerities; let him not utter a falsehood after he has offered a sacrifice; let him not speak ill of Brahmanas, though he be tormented (by them); when he has bestowed (a gift), let him not boast of it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not be proud of his austerities; having offered a sacrifice, he shall not utter a lie; even when tormented, he shall not revile the brāhmaṇas; having bestowed a gift, he shall not advertise it.—(236)
@@ -908,11 +913,6 @@ See Comparative notes for [Verse 4.234].
 **न विस्मयेतेति** । महतापि कृच्छ्रचान्द्रायणादितपसा कृतेन “मया कियत् तपः कृतम्” इत्य् एवम् आश्चर्यं न भजेत । यागं च कृत्वा असत्यं न वदेत् । सत्य् अपि पुरुषार्थत्वेनानृतनिषेधे यागाङ्गत्वार्थः पुनर् उपदेशः । तथा पीडितो ऽपि ब्राह्मणान् न निन्देत् । दानं कृत्वा “इदं मयआ दत्तम्” इति न कथयेत् ॥ ४.२३६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-236	Let him not be proud of his austerities; let him not utter a falsehood after he has offered a sacrifice; let him not speak ill of Brahmanas, though he be tormented (by them); when he has bestowed (a gift), let him not boast of it.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **वदेद् इष्ट्वा च** ज्योतिष्टोमादिभिर् यज्ञैर् **नानृतम्** इत्य् अस्य विशेषार्थः पुनर् आरम्भः । तथा च प्रायश्चित्तान्यत्वसिद्धिर् अत्र विज्ञेया । स्नातकव्रतलोपस्य प्रायश्चित्तासिद्धिः । अस्य व्यतिक्रमे निन्दार्थवादः ।
@@ -930,6 +930,11 @@ See Comparative notes for [Verse 4.234].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/237_yajno.anRtena.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+237	By falsehood a sacrifice becomes vain, by self-complacency (the reward for) austerities is lost, longevity by speaking evil of Brahmanas, and (the reward of) a gift by boasting.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The sacrifice trickles away by falsehood, the austerity trickles away by vanity, longevity by the reviling of Brāhmaṇas, and gifts by advertisement.—(237)
@@ -970,11 +975,6 @@ See Comparative notes for [Verse 4.234].
 <details><summary>गोविन्दराजः</summary>
 
 यस्माद् **यज्ञ** इति । यस्मात् यज्ञादीन्य् अनृतादिभिः कृतैर् अकृतसमानि भवन्ति तस्माद् एतन् न कर्तव्यम् ॥ ४.२३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-237	By falsehood a sacrifice becomes vain, by self-complacency (the reward for) austerities is lost, longevity by speaking evil of Brahmanas, and (the reward of) a gift by boasting.
 </details>
 
 <details><summary>भारुचिः</summary>

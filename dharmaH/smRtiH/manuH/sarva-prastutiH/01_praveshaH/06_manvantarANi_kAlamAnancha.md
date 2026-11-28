@@ -12,6 +12,11 @@ title = "०६ मन्वन्तराणि कालमानञ्च"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/061_svAyambhuvasyA-sya_manoH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+061	Six other high-minded, very powerful Manus, who belong to the race of this Manu, the descendant of the Self-existent (Svayambhu), and who have severally produced created beings,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There are Six other Manus, high-souled and mighty, who belong to the same race as this Svāyambhuva Manu, and have called into being, each his own offsprings.—(61)
@@ -47,11 +52,6 @@ The text proceeds to point out one such work common to the Manus:—“*They hav
 **स्वायम्भुवस्येति** । अस्योक्तप्रकारेण स्वयम्भूनप्तुर् **मनोः षड् अन्ये मनवः** काले काले सृष्ट्यादौ अधिकृता वंश्याः तत्कुलोद्भूताः तदेककार्याः **स्वाह् स्वाः **प्रजा उत्पादितवन्तः ॥ १.६१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-061	Six other high-minded, very powerful Manus, who belong to the race of this Manu, the descendant of the Self-existent (Svayambhu), and who have severally produced created beings,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तान् मनुपुत्रान् (?) विशेषनामभिः प्रदर्शयति व्यवहार्थम् ।
@@ -69,6 +69,11 @@ The text proceeds to point out one such work common to the Manus:—“*They hav
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/062_svArochiShash_chottamash.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+062	(Are) Svarokisha, Auttami, Tamasa, Raivata, Kakshusha, possessing great lustre, and the son of Vivasvat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [These six Manus are]—Svārociṣa, Uttama, Tāmasa, Raivata, Cākṣuṣa, and the glorious Vivasvat-suta (the Son of Vivasvat).—(62)
@@ -96,11 +101,6 @@ The aforesaid Manus are now mentioned by name.
 ते च – **स्वारोचिष** इति ॥ १.६२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-062	(Are) Svarokisha, Auttami, Tamasa, Raivata, Kakshusha, possessing great lustre, and the son of Vivasvat.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तुल्यशक्तिप्रभावत्वम् एषां दर्शयति ।
@@ -118,6 +118,11 @@ The aforesaid Manus are now mentioned by name.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/063_svAyambhuvAdyAH_saptaite.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+063	These seven very glorious Manus, the first among whom is Svayambhuva, produced and protected this whole movable and immovable (creation), each during the period (allotted to him).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These seven almighty Manus, of whom Svāyambhuva is the first, having called into existence the whole of this world, consisting of movable and immovable beings, sustained it, each during his own regime.—(63)
@@ -157,11 +162,6 @@ But this is not right; it is only when the term ‘*antara*’ occurs along with
 <details><summary>गोविन्दराजः</summary>
 
 **स्वायम्भुवाद् या** इति । अनन्तरोक्ताः षट् स्वायम्भुवश् च एवं **सप्त** । **एते **स्वायम्भुवप्रमुखाः **मनवो **बहुतेजसः । आत्मीयात्मीयाधिकारकाले **इदं** जङ्गमस्थावरम् **उत्पाद्य आपुः **प्रजाः पालितवन्तः ॥ १.६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-063	These seven very glorious Manus, the first among whom is Svayambhuva, produced and protected this whole movable and immovable (creation), each during the period (allotted to him).
 </details>
 
 <details><summary>भारुचिः</summary>
@@ -204,6 +204,11 @@ But this is not right; it is only when the term ‘*antara*’ occurs along with
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/064_nimeShA_dasha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+064	Eighteen nimeshas (twinklings of the eye, are one kashtha), thirty kashthas one kala, thirty kalas one muhurta, and as many (muhurtas) one day and night.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Ten and eight ‘nimeṣas’ (should be known as) one ‘Kāṣṭhā’; thirty such (Kāṣṭhās) one ‘Kalā’; thirty ‘Kalās’ one ‘muhūrta’; and as many ‘muhūrtas’ one ‘Ahorātra’ (Day and Night).—(64)
@@ -283,11 +288,6 @@ Lava, Nimeṣa, Kāṣṭhā, Kalā, Nāḍīkā, Muhūrta, Divasa, Rātri, Pak�
 
 कियान् पुनः कालः प्रत्येकं मनूनाम् अधिकारः इत्य् अत् आह – **निमेषा** इति । **निमेषः **अक्षिपक्ष्मणोः स्वाभाविकः कल्पः उन्मेषसहचारी । ते **अष्टादश काष्ठा** । **तिंसत्यः **काष्ठाः **कलानाम **कालः **त्रिंशत्कलाः मुहूर्त**सञ्ज्ञः । **अहोरात्रं तु तावतः त्रिंषत्** । मुहूर्तास् तावन्तः इति । द्वितीयानिर्देशात् विद्यादित्य् अध्याहार्यम् ॥ १.६४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-064	Eighteen nimeshas (twinklings of the eye, are one kashtha), thirty kashthas one kala, thirty kalas one muhurta, and as many (muhurtas) one day and night.
-</details>
 </details>
 </div>
 
@@ -301,6 +301,11 @@ Lava, Nimeṣa, Kāṣṭhā, Kalā, Nāḍīkā, Muhūrta, Divasa, Rātri, Pak�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/065_ahorAtre_vibhajate.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+065	The sun divides days and nights, both human and divine, the night (being intended) for the repose of created beings and the day for exertion.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Sun divides the ‘Day’ and ‘Night’ of Men and Gods; [of others] what is conducive to the repose of beings is ‘Night,’ and what is conducive to activity is ‘Day.’—(65)
@@ -339,11 +344,6 @@ See the comparative notes for [Verse 1.64 (Measures of Time)].
 
 **अहोरात्रे **इति । देवमानुषसम्बन्धिनी **अहोरात्रे सूर्यो** **विभजते** आदित्यो विभागीकरोति । ततश् च **भूतानां रात्रिः **स्वप्नार्थं भवति । कर्मोद्यमार्थं त्व् **अहः** ॥ १.६५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-065	The sun divides days and nights, both human and divine, the night (being intended) for the repose of created beings and the day for exertion.
-</details>
 </details>
 </div>
 
@@ -357,6 +357,11 @@ See the comparative notes for [Verse 1.64 (Measures of Time)].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/066_pitrye_rAtry-ahanI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+066	A month is a day and a night of the manes, but the division is according to fortnights. The dark (fortnight) is their day for active exertion, the bright (fortnight) their night for sleep.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One month (of men) forms the ‘day and night’ of the ‘Pitṛs’; and their division is by fortnights: the darker fortnight, conducive to activity, is ‘Day,’ and the lighter fortnight, conducive to repose, is ‘Night.’—(66)
@@ -398,11 +403,6 @@ See the comparative notes for [Verse 1.64 (Measures of Time)].
 
 **पित्र्ये** इति । मानुष्यो **मासः **पितॄणाम् अहोरात्रम् । तत्र च पक्षाभ्यां विभागः कृष्णः पक्षो ऽहः कर्मोद्यमार्थं शुक्लः पक्षः पुनः स्वापार्थं रात्रिः ॥ १.६६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-066	A month is a day and a night of the manes, but the division is according to fortnights. The dark (fortnight) is their day for active exertion, the bright (fortnight) their night for sleep.
-</details>
 </details>
 </div>
 
@@ -416,6 +416,11 @@ See the comparative notes for [Verse 1.64 (Measures of Time)].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/067_daive_rAtry-ahanI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+067	A year is a day and a night of the gods; their division is (as follows): the half year during which the sun progresses to the north will be the day, that during which it goes southwards the night.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One ‘year’ (of men) forms the ‘Day and Night’ of the Gods; and the division of these is that the ‘Northern course’ is the ‘Day,’ and the ‘Southern Course’ the ‘Night.’—(67)
@@ -440,11 +445,6 @@ One ‘year’ (of men) forms the ‘Day and Night’ of the Gods; and the divis
 
 **दैवे** इति । मानुष्यं **वर्षं **देवानाम् अहोरात्रम् । तत्र चोत्तरायणम् **अहो** **दक्षिणायनं रात्रिर्** इति विभागः ॥ १.६७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-067	A year is a day and a night of the gods; their division is (as follows): the half year during which the sun progresses to the north will be the day, that during which it goes southwards the night.
-</details>
 </details>
 </div>
 
@@ -458,6 +458,11 @@ One ‘year’ (of men) forms the ‘Day and Night’ of the Gods; and the divis
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/068_brAhmasya_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+068	But hear now the brief (description of) the duration of a night and a day of Brahman and of the several ages (of the world, yuga) according to their order.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Learn in brief, in due order, the measure of the Brahmic ‘day and night,’ as also that of the ‘Time-cycles’ (Yugas) one by one.—(68)
@@ -492,11 +497,6 @@ The present verse serves as the summary of what is going to be described, intend
 
 **ब्राह्मस्येति **। प्राजापत्यस्याहोरात्रस्य **यत् प्रमाणं** युगानां च प्रत्येकं तत् क्रमेण सङ्क्षेपतः श्रृणुत ॥ १.६८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-068	But hear now the brief (description of) the duration of a night and a day of Brahman and of the several ages (of the world, yuga) according to their order.
-</details>
 </details>
 </div>
 
@@ -510,6 +510,11 @@ The present verse serves as the summary of what is going to be described, intend
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/069_chatvAry_AhuH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+069	They declare that the Krita age (consists of) four thousand years (of the gods); the twilight preceding it consists of as many hundreds, and the twilight following it of the same number.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They say that four thousnd ‘years’ are what is the ‘Kṛta-cycle’; as many hundred ‘years’ form the ‘Juncture’ (Morning); and of equal measure is the ‘Juncture-end’ (Evening).—(69)
@@ -572,11 +577,6 @@ read ‘*Svabhāvānanuvṛttiḥ*’—the meaning being that the preceding Twi
 
 **चत्वारीति **। दैविकानाम् अनन्तरप्रस्तुतत्वात्, पुराणे च दिव्येनैव प्रमाणेन युगसङ्ख्या प्रकीर्तितेति दर्शनात्, दैविकानि **चत्वारि **वर्षसहस्राणि **कृतयुगं नाम कालम् आहुर् **मन्वादय्ः । तस्य च तावन्त्य् एव **वर्षशतानि सन्ध्या **अतीतागामियुग्धर्मानुवर्तनं सन्ध्यांशे ऽतीतयुगधर्माणां ईषदनुवृत्तिः आगामियुगधर्मबाहुल्यं चत्वार्य् एव शतानि च ॥ १.६९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-069	They declare that the Krita age (consists of) four thousand years (of the gods); the twilight preceding it consists of as many hundreds, and the twilight following it of the same number.
-</details>
 </details>
 </div>
 
@@ -590,6 +590,11 @@ read ‘*Svabhāvānanuvṛttiḥ*’—the meaning being that the preceding Twi
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/070_itareShu_sa-sandhyeShu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+070	In the other three ages with their twilights preceding and following, the thousands and hundreds are diminished by one (in each).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In each of the other time-cycles, along with their ‘junctures’ and ‘juncture-ends’, the ‘thousands’ and ‘hundreds’ are reduced by one.—(70)
@@ -631,11 +636,6 @@ diminishing in the ‘junctures’ and ‘juncture-ends’ of the Cycles.
 
 **इतरेष्व्** इति । त्रेतादिषु पुनस् त्रिषु युगेषु सन्ध्यासन्ध्यांशसहितेषु एकैकहान्या **सहस्राणि शतानि च **भवन्ति** **। त्रेता त्रीणि सहस्राणि, तत् सन्ध्यासन्ध्यांशैश् च त्रीणि त्रीणि शतानि । एवं द्वापरकलियुगयोः सम्ध्यासन्ध्यांशसहितयोः पूर्वस्माद् पूर्वस्माद् एकैकसहस्र्शतापायो द्रष्टव्यः ॥ १.७० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-070	In the other three ages with their twilights preceding and following, the thousands and hundreds are diminished by one (in each).
-</details>
 </details>
 </div>
 
@@ -649,6 +649,11 @@ diminishing in the ‘junctures’ and ‘juncture-ends’ of the Cycles.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/071_yad_etat.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+071	These twelve thousand (years) which thus have been just mentioned as the total of four (human) ages, are called one age of the gods.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This period of the four time-cycles that have been just computed,—twelve thousand such periods are called the ‘time-cycle of the gods.’—(71)
@@ -698,11 +703,6 @@ words of the text.
 
 **यद् **इति । **यद् एतत्** परिगणित्म् आदाव् अस्मात् श्लोकात् प्राक् चतुर्युगम् एतद् द्वादश्सहस्रगुणं देवयुगं वेदयुगं नाम कालः ॥ १.७१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-071	These twelve thousand (years) which thus have been just mentioned as the total of four (human) ages, are called one age of the gods.
-</details>
 </details>
 </div>
 
@@ -716,6 +716,11 @@ words of the text.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/072_daivikAnAM_yugAnAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+072	But know that the sum of one thousand ages of the gods (makes) one day of Brahman, and that his night has the same length.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘Time-cycles’ of the Gods, one thousand in number, should be regarded as one ‘day’ of brahmā; and (his) ‘night’ also is of the same extent.—(72)
@@ -742,11 +747,6 @@ The instrumental ending (in ‘*Sāṅkhyayā*’) denotes *causality*.
 
 **दैविकानाम्** इति । एषां देव**युगानां** **सहस्रं ब्राह्मम् अहर्** विज्ञेयम् । सहस्रम् एव रात्रिसङ्ख्ययेत्य् अनुवादः ॥ १.७२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-072	But know that the sum of one thousand ages of the gods (makes) one day of Brahman, and that his night has the same length.
-</details>
 </details>
 </div>
 
@@ -760,6 +760,11 @@ The instrumental ending (in ‘*Sāṅkhyayā*’) denotes *causality*.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/073_tad_vai.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+073	Those (only, who) know that the holy day of Brahman, indeed, ends after (the completion of) one thousand ages (of the gods) and that his night lasts as long, (are really) men acquainted with (the length of) days and nights.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those who know the ‘Day of Brahmā’ as ending with the (said) thousand ‘time-cycles,’ and the ‘night’ also as of the same extent,—are people who alone know what is ‘day and night’, and acquire merit.—(73)
@@ -794,11 +799,6 @@ If it be asked—what happens to the people who know this?—it is added that �
 <details><summary>गोविन्दराजः</summary>
 
 **तद्** इति । युगसहस्रेणान्तो यस्य तत् प्राजापत्यम् अहः तद्वेदनस्य पुण्यहेतुत्वात् **पुण्यं रात्रिं** च तत् परिमाणतो ये विजानन्ति ते **अहोरात्र**ज्ञनिनः, न तु मनुष्याद्यहोरात्रवेदनेनेति । ब्रह्माहर्विज्ञानप्रशंसा तद्वेदनाप्ररोचनार्थम् ॥ १.७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-073	Those (only, who) know that the holy day of Brahman, indeed, ends after (the completion of) one thousand ages (of the gods) and that his night lasts as long, (are really) men acquainted with (the length of) days and nights.
 </details>
 </details>
 </div>

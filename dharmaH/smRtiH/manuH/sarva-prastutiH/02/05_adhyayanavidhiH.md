@@ -12,6 +12,11 @@ title = "०५ अध्ययनविधिः"
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/068_eSha_prokto.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+068	Thus has been described the rule for the initiation of the twice-born, which indicates a (new) birth, and sanctifies; learn (now) to what duties they must afterwards apply themselves.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has been described the Initiatory Ceremony of twice-born men,—that which sanctifies them and marks their (real) birth. Learn now the duties to which they should apply themselves.—(68)
@@ -70,11 +75,6 @@ Brāhmaṇa.’
 **एष** इति । **एष द्विजातीनाम्** उपनयनभवो **विधिर्** उक्तः **उत्पत्तेर् व्यञ्जकः** प्रकाशकः जातस्याप्य् अनुपनीतस्याजा(ज्ञा)तसमत्वात् पुण्यहेतुत्वात् **पुण्यः** । इदानीम् उपनीतस्योपनयनकर्मणि सम्बन्धः तच् छृणुत ॥ २.६८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-068	Thus has been described the rule for the initiation of the twice-born, which indicates a (new) birth, and sanctifies; learn (now) to what duties they must afterwards apply themselves.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **औपनायिक**ग्रहणं निदर्शनार्थम् । आदिशब्दलोपो वात्र । औपनायनिकादिर् **औपनायनिकः** । आदिशब्दस् तत्प्रकाशार्थः । निगृहीतार्थं चैतत् पदं तस्य विशेषणम् । **उत्पत्तिव्यञ्जकः** मातृजनः सामर्थ्याधायकः ब्रह्मजन्मनो वा । अतश् च **पुण्य** इत्य् उच्यते । **कर्मयोगस्** तु गुरोर् ब्रह्मचारिण उभयोर् वा **नोबोधतेति** "कृतोपनयनस्यास्य व्रतादेशनम् इष्यते" (म्ध् २.१७३) इति वक्ष्यति । 
@@ -102,6 +102,11 @@ Brāhmaṇa.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/069_upanIya_guruH.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+069	Having performed the (rite of) initiation, the teacher must first instruct the (pupil) in (the rules of) personal purification, of conduct, of the fire-worship, and of the twilight devotions.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having initiated the pupil, the Teacher should, first of all, teach him cleanliness, right behaviour, firetending and also the twilight-devotions.—(69)
@@ -172,11 +177,6 @@ Bathing, Living on alms, Attending on the Teacher till death, and in his absence
 **उपनीयेति** । **गुरुः **शिष्योपनयनं क्र्त्वा **आदौ **प्रथमत एव **शौचं शिक्षयेत्** । अशुद्धस्य सर्वत्रानधिकारात् । तत् **आचारं **प्रत्युत्थानादि, **अग्निकार्यं च **सायम्प्रातरग्निप्रक्षेपादि सान्ध्यकर्मानुष्ठानं च शिक्षयेत् ॥ २.६९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-069	Having performed the (rite of) initiation, the teacher must first instruct the (pupil) in (the rules of) personal purification, of conduct, of the fire-worship, and of the twilight devotions.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 परिज्ञात**शौचाचाराग्निकार्यसन्ध्योपसनो** हि वेदाध्ययनसमर्थः । तदर्थेन व्रतदर्शने ऽधिकरिष्यते, नोपनयनानन्तरम् एवोदित (?) इत्य् आदरार्थं वचनं युक्तं चैतच् छौचस्य नित्यानुगतत्वाद् आदरानुवचनम् । अग्निकार्यादीनि हि स्वकाल एव भवन्ति (?) । न च सम्भवन्त्यां प्रकृतार्थस्तुताव् अपूर्वस्य (?) कल्पना न्याय्या । प्रकृतार्थदानं हि तथा स्याद् इति गुरोर् अयम् उपदेशः । एवं च गुरुणा नियमेन शिक्षयितव्यो (?) नान्येनेति गृहीतशौचाराग्निकार्यसन्ध्योपासनश् च ब्रह्मचारी यथासमादिष्टवेदव्रतत्वाद् अधिकृतवेदाध्ययनः सन्,
@@ -202,6 +202,11 @@ _अध्ययनधर्मान् इदानीम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/070_adhyeShyamANas_tv.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+070	But (a student) who is about to begin the Study (of the Veda), shall receive instruction, after he has sipped water in accordance with the Institutes (of the sacred law), has made the Brahmangali, (has put on) a clean dress, and has brought his organs under due control.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When about to study, he shall be taught with his face to the north, when he has sipped water according to law, has formed the Brahmāñjali (with his hands), wears light clothing and has the organs under full control.—(70)
@@ -269,11 +274,6 @@ or a half or a quarter of it, without the teacher’s permission, is a
 **अध्येष्यमाण **इति । प्रत्यासन्नाध्ययनः शिष्यः कृतशास्त्रचोदितेतिकर्तव्यतायुक्ताचमनः **कृत**वक्ष्यमाण**ब्रह्माञ्जलिः** स्थूलवसनः सन् **जितेन्द्रियः उदङ्मुखो ऽध्याप्यः **॥२.७० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-070	But (a student) who is about to begin the Study (of the Veda), shall receive instruction, after he has sipped water in accordance with the Institutes (of the sacred law), has made the Brahmangali, (has put on) a clean dress, and has brought his organs under due control.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 न अनानादिष्टवेदव्रतः । वक्ष्यति हि "कृतोपनयनस्यास्य व्रतादेशनम् इष्यते" (म्ध् २.१७३) "**आचान्तो यथाशास्त्रम्**" इत्य् अयम् अनुवादः । प्रधानार्थत्वात् । (?)गुरूपदेशस्योदङ्मुखत्वब्रह्माञ्जलिकरणलघुवासत्वजितेन्द्रियत्वादीनि स्वाध्यायाङ्गानि । अयम् अपरः वे(उप?)सदनब्रह्मग्रहणविधिः ।
@@ -291,6 +291,11 @@ or a half or a quarter of it, without the teacher’s permission, is a
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/071_brahmArambhe.avasAne.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+071	At the beginning and at the end of (a lesson in the) Veda he must always clasp both the feet of his teacher, (and) he must study, joining his hands; that is called the Brahmangali (joining the palms for the sake of the Veda).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the beginning and at the end op the (study of) the Veda, the feet of the Teacher should always be clasped; and the veda should me studied with joined palms; this is what has been called the ‘Brahmāñjali.’—(71)
@@ -396,11 +401,6 @@ Veda, looking at the teacher’s face, keeping the hands in control, placed over
 **ब्रह्मारम्भ** इति । अन्वाहिकवेदपाठारम्भान्तयोः **सदा **अहर् अहः **गुरोः **पादोपसङ्ग्रणकं कर्तव्यम् । संहतौ च कच्छपके इति प्रसिद्धसन्निवेशेन हस्तौ कृत्वाध्येतव्यम् । यस्मात् **स ब्रह्माञ्जलि**शब्देनोच्यत इत्य् ऋषिभिः **स्मृतः** इत्य् अलौकिकत्वात् ब्रह्माञ्जलिस्वरूपनिरूपणम् ॥ २.७१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-071	At the beginning and at the end of (a lesson in the) Veda he must always clasp both the feet of his teacher, (and) he must study, joining his hands; that is called the Brahmangali (joining the palms for the sake of the Veda).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उत्तरश्लोकार्थः पूर्वश्लोकाभिहितस्य **ब्रह्माञ्जलेः** प्ररूपणार्थः । अलौकिकत्वाद् अस्य युक्तं शास्त्रलक्षणत्वम् । ब्रह्मारम्भावसानयोः पादोपसङ्ग्रहणम् उक्तम् । गुरोस् तद्विशेषणार्थो ऽयं विधिर् उच्यते ।
@@ -418,6 +418,11 @@ Veda, looking at the teacher’s face, keeping the hands in control, placed over
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/072_vyatyasta-pANinA_kAryam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+072	With crossed hands he must clasp (the feet) of the teacher, and touch the left (foot) with his left (hand), the right (foot) with his right (hand).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The clasping op the teacher’s feet should be done with crossed hands: the left should be touched with the left and the right with the right.—(72)
@@ -496,11 +501,6 @@ right band; hands should be joined in saluting a Vedic scholar; in the case of t
 कथं पुनः पदोपसङ्ग्रहणं कर्तव्यम् इत्य् अत आह **व्यत्यस्तपाणिनेति** । इतरेतरदिगर्पितहस्तेन **गुरोः **पादोपसर्पणं कर्तव्यम् । वामेन च हस्तेन वामपादः स्पर्शनीयः **दक्षिणेन तु दक्षिणः **॥ २.७२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-072	With crossed hands he must clasp (the feet) of the teacher, and touch the left (foot) with his left (hand), the right (foot) with his right (hand).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अत्र सदाग्रहणं वर्णधर्मार्थम् अध्ययनाभिमुखीभूतस्य च गुरुसन्निधौ नियमपरं गुरुत्वाभ्यन्ज्ञा स्वाध्यायाङ्गतयोच्यते ।
@@ -527,6 +527,11 @@ right band; hands should be joined in saluting a Vedic scholar; in the case of t
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/073_adhyeShyamANan_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+073	But to him who is about to begin studying, the teacher always unwearied, must say: Ho, recite! He shall leave off (when the teacher says): Let a stoppage take place!
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the pupil is going to study, the Teacher, ever free from indolence, should say—‘ho, read!’ and he should cease when he says ‘let there be a stop!’—(73).
@@ -603,11 +608,6 @@ bed; he should never teach on the bed whereupon he sleeps.’
 
 **अध्येष्यमाणम्** इति । प्रत्यासन्नाध्ययनं शिष्यम् अनलसो **गुरुः **सर्वकालम् **अधीष्व भो इति ब्रूयत् । विरामो ऽस्त्व् इति** चोक्त्वा अनन्तरम् अध्यापनान् निवर्तेत ॥ २.७३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-073	But to him who is about to begin studying, the teacher always unwearied, must say: Ho, recite! He shall leave off (when the teacher says): Let a stoppage take place!
-</details>
 </details>
 </div>
 
@@ -621,6 +621,11 @@ bed; he should never teach on the bed whereupon he sleeps.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/074_brahmaNaH_praNavam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+074	Let him always pronounce the syllable Om at the beginning and at the end of (a lesson in) the Veda; (for) unless the syllable Om precede (the lesson) will slip away (from him), and unless it follow it will fade away.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should always pronounce the Praṇava in the beginning and at the end of the Veda. if it is not accompanied by the syllable ‘oṃ’ in the beginning, it trickles away; and (if it is not accompanied by it) at the end, it becomes shattered.—(74)
@@ -687,11 +692,6 @@ Heaven; therefore when going to read the Veda, one should begin with it.’
 **ब्रह्मण** इति । वेदपाठस्यारम्भान्तयोः ओङ्कारं **सर्वदा **ग्रहणार्थाध्यापनकालात् कालान्तरे ऽपि कुर्यात् । यस्माद् यस्य ब्रह्मणः **पूर्वम् अनोङ्कृतः **तत् **स्रवति **गृहीतम् अपि विस्मृत्य गच्छति । **परस्ताच् च विशीर्यते **। यस्य न कृतः तद् विशीर्यते नैव गृह्यते ॥ २.७४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-074	Let him always pronounce the syllable Om at the beginning and at the end of (a lesson in) the Veda; (for) unless the syllable Om precede (the lesson) will slip away (from him), and unless it follow it will fade away.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ब्रह्मचर्योत्तरकालम् अपीति **सर्वदा**ग्रहणम् अपि विहितस्याध्यायधर्मविधानाय । ओङ्कारस्य कालविधानार्थम् इदम् आरभ्यते ।
@@ -709,6 +709,11 @@ Heaven; therefore when going to read the Veda, one should begin with it.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/075_prAk-kUlAn_paryupAsInaH.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+075	Seated on (blades of Kusa grass) with their points to the east, purified by Pavitras (blades of Kusa grass), and sanctified by three suppressions of the breath (Pranayama), he is worthy (to pronounce) the syllable Om.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Seated upon Kuśa-blades pointing eastwards and sanctified by Kuśa-blades, when one has purified himself by means of three ‘breath-suspensions,’—then alone he becomes entitled to the syllable ‘oṃ.’—(76)
@@ -810,11 +815,6 @@ pointing eastwards, with mind collected, he should perform throe Breath-suspensi
 **प्राक्कूलान्** इति । “प्राणोपस्पर्शनं दर्भैः प्राक्कूलेष्व् आसनं च” इति गौतमस्मरणात् प्रागग्रेषु च दर्भेष्व् आसीनः, अत एव च **पवित्रैर् **दर्भैर् एव प्राणस्थानाद् हृदयस्पृष्टैः पवित्रीकृतः प्राणायामैश् च श्वासनिरोधरूपैः “त्रिभिः प्राणायामः त्रिपञ्चदशमात्रा” इति गौतमोक्तप्राणायामैः पवित्रीकृतः ततः ओङ्कारं पूर्वोक्तं कर्तुं योग्यो भवति ॥ २.७५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-075	Seated on (blades of Kusa grass) with their points to the east, purified by Pavitras (blades of Kusa grass), and sanctified by three suppressions of the breath (Pranayama), he is worthy (to pronounce) the syllable Om.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **कूल**शब्दो ग्रहपर्यायः । प्राक्कूलानि एषां त इमे **प्राक्कूलाः** प्रागग्राः । के पुनस् ते । दर्भाः । कृत (कुत?) एतत् । स्मृत्यन्तरात् । अत्रैव हि प्रकरणे गौतमः- "प्राणोपस्पर्शनं दर्भैः" (ग्ध् १.५४) इत्य् उक्त्वा "प्राक्कूलेष्व् आसनं च" (ग्द्ज् १.५६) इति । प्रकरणाद् दर्भा एव ते भवन्ति । एवं च शिष्टसमाचारः तस्मात् तेषूपविष्टः **पवित्रैश्** **च** दर्भैर् **एव** **पावितः** बहिर्हृदयस्पृग्भिः । तथा च गौतमः- "प्राणोपस्पर्शनं दर्भैः(?)" इति । अभ्युक्षणादीनां चात्र सामर्थासम्भव एव **प्राणायामैस् त्रिभिः पूतस्** त्रिग्रहणं (?) द्व्येकयोः प्रतिषेधर्थं नोर्ध्वं सामर्थात् । **ततो** अनन्तरं विहितोच्चारणम् **ओङ्कारम् अर्हति** अस्मिन् काले कर्तुं पाठाद् एवैषां धर्माणाम् अनुष्ठानक्रमसिद्धिः । "ब्रह्मणः प्रणवं कुर्यात्" (म्ध् २.७४) इत्य् अस्य विधेर् अर्थवादः ।
@@ -832,6 +832,11 @@ pointing eastwards, with mind collected, he should perform throe Breath-suspensi
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/076_akAra~n_chA-py.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+076	Pragapati (the lord of creatures) milked out (as it were) from the three Vedas the sounds A, U, and M, and (the Vyahritis) Bhuh, Bhuvah, Svah.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Out of the three Vedas, Prajāpati milked the letter ‘a,’ the letter ‘u’ and the letter ‘m’; as also the syllables ‘bhūḥ-bhuvaḥ-svaḥ.’—(76)
@@ -873,11 +878,6 @@ Veda.’
 "एतदक्षरमेतां च" ( म० स्मृ० २-७८ ) इति वक्ष्यति तस्यायं शेषः । अकारमुकारं मकारं च प्रणवावयवभूतं ब्रह्मा वेदनयादृग्यजुःसामलक्षणाद्भूर्भुवः स्वरिति व्याहृतित्रयं च क्रमेण निरदुहृदुद्धतवान् ॥७६॥
 </details>
 
-<details><summary>Bühler</summary>
-
-076	Pragapati (the lord of creatures) milked out (as it were) from the three Vedas the sounds A, U, and M, and (the Vyahritis) Bhuh, Bhuvah, Svah.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 न चोङ्कारव्याहृतिमात्रम् एव । किं चान्यत् ।
@@ -895,6 +895,11 @@ Veda.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/077_tribhya_eva.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+077	Moreover from the three Vedas Pragapati, who dwells in the highest heaven (Parameshthin), milked out (as it were) that Rik-verse, sacred to Savitri (Savitri), which begins with the word tad, one foot from each.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Out of the three Vedas again, the Supreme Prajāpati milked each foot of the Sāvitrī verse beginning with ‘tat.’—(77)
@@ -955,11 +960,6 @@ expounded,—so says the Brāhmaṇa-text.’
 “ब्रह्मणः प्रणवं कुर्यात्” इत्य् अस्यार्थवादम् आह **अकारम्** इति । त्रिभ्य इति अकारोकारमकारात्मकः किलोङ्कारः । एतच् चाक्षरत्रयं **वेदत्रयात्** सारभूतं **प्रजापतिर्** उद्धृतवान् । तथा **भूर् भुवः स्वर् इत्य्** एतच् च महाव्याहृतित्रयम् उद्धृतवान् इदं (इत्थं) चेयं व्याहृतिस्तुतिः । अध्ययनकाले तद्विधानार्था अत्राकस्मात् स्तुतिर् वर्तत इति प्रयोजनात् “तत् सवितुर् वरेण्यम्” इत्य् अस्याः सवितृदेवताकाया ऋचः पादं पादं यथाक्रमं त्रिभ्य एव वेदेभ्यः परमेष्ठी हिरण्यगर्भः प्रजापतिः उद्धृतवान् इत्य् अयम् अपि अध्ययनकाल(ः) विध्यर्थः सावित्र्यर्थवादः ॥ २.७६–७७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-077	Moreover from the three Vedas Pragapati, who dwells in the highest heaven (Parameshthin), milked out (as it were) that Rik-verse, sacred to Savitri (Savitri), which begins with the word tad, one foot from each.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यस्माद् एवं वेदितव्यं निष्कर्षरूपम् एतत् प्रणवव्याहृतिसावित्र्याख्यं त्रिकं ह्य् अस्मात् ब्राह्मणः अध्ययनादौ प्रणवव्याहृतिसावित्रीर् उच्चारयेद् अन्ते सर्वस्मिन् काले । तथा च प्रणवग्रहणं निदर्शनार्थम् । आदिशब्दलोपो वा । पूर्वश्लोक (?) एवाम् च सति ।
@@ -977,6 +977,11 @@ expounded,—so says the Brāhmaṇa-text.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/078_etad_axaram.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+078	A Brahmana, learned in the Veda, who recites during both twilights that syllable and that (verse), preceded by the Vyahritis, gains the (whole) merit which (the recitation of) the Vedas confers.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Reciting, at the two twilights, this syllable and this verse, preceded by the Vyāhṛtis, the Brāhmaṇa, learned in the Veda, becomes endowed with Vedic merit.—(78)
@@ -1142,11 +1147,6 @@ Evening Prayers, while the sun is still visible, he should go on repeating the G
 **एतत् **ओङ्काराख्यम् **अक्षरं एतां च सावित्रीं **भूर्भुवःस्वरित्येतद् **व्याहृतिपूर्विकां** वेदार्थज्ञो **विप्रः सन्ध्ययोर् जपन्** समस्तवेदपुण्येन सम्बध्यते इति विद्वान् ब्राह्मणः सन्ध्याजपसम्भूतफलमाहात्म्यकथनेन प्रकृतविधित्रयस्तुतिः ॥ २.७८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-078	A Brahmana, learned in the Veda, who recites during both twilights that syllable and that (verse), preceded by the Vyahritis, gains the (whole) merit which (the recitation of) the Vedas confers.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 वक्ष्यमाणसन्ध्योपासनानुवादः प्राक्कृतविधिस्तुत्यर्थः । तद् उक्तम् "**वेदविद् विप्रो वेदपुण्येन युज्यते**" इति । वेदत्रयनिष्कर्षम् (?) । इदम् एव यो वेद स **वेदविद्** अत्रोच्यते, प्रकरणसामर्थ्यात् । "**वेदपुण्येन युज्यते**" इति वेदत्रयाध्ययनेन वेदं पुण्येनेति एतत्(?) । एवं च नायं सन्ध्योपासनविधिः । तथा हि । प्रकृतार्थोपरोधः स्यात् । अप्रकरणप्रक्रिया च न युक्ता, प्रकरणोपरोधात् (?) तत्सधर्मकं तदुपरिष्टाद् वक्ष्यते । पुनश् च तत्स्मृतेर् एवोच्यते ।
@@ -1164,6 +1164,11 @@ Evening Prayers, while the sun is still visible, he should go on repeating the G
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/079_sahasrakRtvas_tv.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+079	A twice-born man who (daily) repeats those three one thousand times outside (the village), will be freed after a month even from great guilt, as a snake from its slough.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Repeating this Triad a thousand times in open air, the twice-born person becomes freed, in a month, from even great sin, as the snake from its slough.—(79)
@@ -1285,11 +1290,6 @@ See Comparative notes for [Verse 2.78].
 **सहस्रकृत्व्** इति । **एतत् **त्रयं सहस्रवारान् अहर् मासं यावत् **बहिर् **ग्रामाद् **द्विजो ऽभ्यस्य **महत् ब्रह्महत्याद्य् अपि पापम् अपनुदति । जीर्णचर्मेव सर्प इति रहस्यप्रायश्चित्तगतमाहात्म्यकथनेन प्रकृतविधित्रयस्तुतिः ॥ २.७९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-079	A twice-born man who (daily) repeats those three one thousand times outside (the village), will be freed after a month even from great guilt, as a snake from its slough.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 प्रकृताद् अभ्यासकालात् **बहिः** प्रायश्चित्तानुवादो ऽयम् अधिकृतविधिस्तुत्यर्थ एव । तद् उक्तत्वाच् च न बहिस्सन्ध्योपासनस्तुतिर् इयं प्रायश्चित्तविधिर् वा, अप्रकरणात् तस्य । इयम् अपरा स्तुतिः ।
@@ -1307,6 +1307,11 @@ See Comparative notes for [Verse 2.78].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/080_etayArchA_visaMyuktaH.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+080	The Brahmana, the Kshatriya, and the Vaisya who neglect (the recitation of) that Rik-verse and the timely (performance of the) rites (prescribed for) them, will be blamed among virtuous men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Bereft of this verse, and of the timely performance of his own duty, a person of Brāhmaṇa, Kṣatriya or Vaiśya birth incurs the odium of good men.—(80)
@@ -1376,11 +1381,6 @@ Morning-prayer before the advent of Dawn, nor the Evening-prayer before the laps
 **एतयेति **। **एतया ऋचा **सावित्र्या वियुक्तः वेदाध्ययनाभावात् उपनयनकाले चात्मीययोपनयनाख्यक्रियया वियुक्तः **ब्राह्मनक्षत्रियवैश्य**जातीयः निन्द्यतां शिष्टविषये प्राप्नोतीत्य् अनुष्ठाननिन्दाद्वारेण विधित्रयोपनयन्योः स्तुतिः ॥ २.८० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-080	The Brahmana, the Kshatriya, and the Vaisya who neglect (the recitation of) that Rik-verse and the timely (performance of the) rites (prescribed for) them, will be blamed among virtuous men.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सावित्र्या **विसंयुक्तः** यो ऽनुपनीतः व्रतादेशन**क्रियया** च **स्वकाले** ऽविहितया द्विजातिः सन् **गर्हणां याति साधुषु** । अथ वाध्ययनाङ्गत्वात् सावित्र्याः सपरिष्कारो ऽयम् (?) तद्विहीनो ऽध्ययनहीन उच्यते, प्रकरणात् । अन्यत् समानम् । सैषा त्रिकस्तुतिर् अपरेण प्रकारेणेति । इयं च पूर्ववत् । अन्या —
@@ -1398,6 +1398,11 @@ Morning-prayer before the advent of Dawn, nor the Evening-prayer before the laps
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/081_OM-kAra-pUrvikAs_tisro.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+081	Know that the three imperishable Mahavyahritis, preceded by the syllable Om, and (followed) by the three-footed Savitri are the portal of the Veda and the gate leading (to union with) Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The three imperishable Mahāvyāhṛtis preceded by the syllable ‘oṃ,’ and the three-footed Sāvitrī,—these should be regarded as the ‘Mouth of Brahman.’—(81)
@@ -1489,11 +1494,6 @@ Sāvitrī verse,—these constitute the *Sāvitra*, whereby one becomes absolved
 **ओङ्कारपूर्विका** इति । **ओङ्कारपूर्विकास् तिस्र** एताः भूराद्या **महाव्याहृतयः अव्ययाः **अविनाशिन्यः तत्फल्स्य दीर्घकालत्वात् पादत्रयम् उक्ता चैषा “तत् सवितुर् वरण्यम्” इति **सावित्री ब्रह्मणो मुखं** वेदप्राप्तिद्वारं **विज्ञेयम् **। अतः स्वाध्यायादाव् एतद् अध्येयम् इति प्रकृतार्थस्तुतिः ॥ २.८१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-081	Know that the three imperishable Mahavyahritis, preceded by the syllable Om, and (followed) by the three-footed Savitri are the portal of the Veda and the gate leading (to union with) Brahman.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 प्रकारान्तरेणायम् अपि पूर्वशेष एव न वा प्रकृतस्य सन्ध्योपासनस्येति ब्रह्मणो मुखं वेदाधिगमद्वारम् । तथा च वक्ष्यति- 
@@ -1524,6 +1524,11 @@ Sāvitrī verse,—these constitute the *Sāvitra*, whereby one becomes absolved
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/082_yo.adhIte.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+082	He who daily recites that (verse), untired, during three years, will enter (after death) the highest Brahman, move as free as air, and assume an ethereal form.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who, untired, recites this, day after day, for three years, turns into air, and becoming transfigured into Ākāśa, reaches the supreme brahman.—(82)
@@ -1579,11 +1584,6 @@ See Comparative notes for [Verse 2.81].
 **य** इति । **य तां **सावित्रीं प्रत्यहं **त्रीणि वर्षाणि **अनलसो ऽ**धीते स **वायुर् इव सर्वत्राप्रतिहतगतिः **खमूर्तिमान्** आकाशरूपः सन् सर्वव्याप्तित्वात् **परं ब्रह्म** परमात्मलक्षणम् आभिमुख्येन प्राप्नोतीति जपमाहात्म्यकथनेन प्रकृतविधिस्तुतिः॥ २.८२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-082	He who daily recites that (verse), untired, during three years, will enter (after death) the highest Brahman, move as free as air, and assume an ethereal form.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **वायुभूत** इति भूतार्थवादेन प्रकल्प्य वादौ काम्यविध्यनुवादेन वा प्रकृतार्थस्तुतिर् एताम् इति सव्याहृतिप्रणवां सावित्रीम् आह **त्रीण्य्** अपि तावद् **वर्षाणि** प्राग् एव महान्तं कालं सैषा जपस्तुतिफलविधानेन फलार्थवादेन "**स ब्रह्म परम् अभ्येति**" इत्य् एतेन परस्मिन् ब्रह्मण्य् अप्यय(?) तद्रूपत्वाद् अभिहितं परमात्मवत् सर्वशक्तिसम्पदा यथापूर्वाभिप्रायं (?) शरीरोपभोगो भवति । युक्तश् चायं प्रणवादिजपकर्मणा प्रियं (?) तव महिमा यस्माद् एतत् ।
@@ -1601,6 +1601,11 @@ See Comparative notes for [Verse 2.81].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/083_ekAxaram_param.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+083	The monosyllable (Om) is the highest Brahman, (three) suppressions of the breath are the best (form of) austerity, but nothing surpasses the Savitri truthfulness is better than silence.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The mono-syllable is the highest Brahman; Breath-suspensions are the highest austerity; nothing is higher than the Sāvitrī verse; truth is better than Silence.—(83)
@@ -1696,11 +1701,6 @@ to be the best purifier; there is nothing superior to the Gāyatri; Truth is sup
 **एकाक्षरम् **इति । ओङ्काराख्यम् एतद् **एकाक्षरं परं ब्रह्म** शब्दपरब्रह्मणोर् वेदान्तदृष्टतोः, **प्राणायामः** कृच्छ्रादितपोभ्यः प्रकृष्टं **तपः** **सावित्र्याः **(प्र)सकाशाद् अन्यत् प्रकृष्टं जपनीयं नास्तीत्य् एवं प्रकृतोङ्कारप्राणायामसावित्रीविधीनां स्तुतिः । **मौनात् सत्यं विशिष्यते **। मौनं अनृतदोषपरिहारातिरेकेण सत्यवचनेनाभ्युदयोत्पादाद् इति स्तुतिप्रसङ्गेन सत्याभिधानस्तुतिः ॥ २.८३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-083	The monosyllable (Om) is the highest Brahman, (three) suppressions of the breath are the best (form of) austerity, but nothing surpasses the Savitri truthfulness is better than silence.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 स्वरः केवलो ऽक्षरं व्यञ्जनवृत्तं च । यस्माद् एतत् स्वरव्यञ्जनसमुदाय एकाक्षरं प्रणवो ऽधिकृत उच्यते । स परं ब्रह्म कर्तृसमानजातीयाद् ऋग्यजुःसामलक्षणात् ब्रह्मणस् तन्निष्कर्षत्वात् परब्रह्मत्वात् सिद्धान्तत्वाच् च । तथा च ब्रह्मनन्दिवाक्यम्- "ॐ इत्य् आत्मेति प्रतिदुष्कर्मणां तादर्थ्यात्" इति । एतत् प्राणायामात् अपरं तं तपश् चान्द्रायणादेस् तपसः अधिकृतप्राणायामत्रयकरणस्तुतिर् ओङ्कारस्तुतिर् वा । <u>रं दृशोनम्</u> (?) । अयम् ओङ्कारः येन प्राणायमैस् त्रिभिः कर्तव्य (?) एवं कर्तुम् अर्हतीत्य् उक्तम् । "**सावित्र्यास् तु परं नास्ति**" जपनीयात् ब्रह्मणो ऽघमर्षणादेस् तथा च श्रुतिः- "यातयामान्यथा निच्छन्दा(?)ख्यया तया मा गायत्री वेदत्रयनिष्कर्षात्"(?) सर्वेषां दृष्टान्तो ऽर्थवादार्थम् इदम् उच्यते । यथा "**मौनात् सत्यं विशिष्यते**" इत्य् एवम् । प्रणवादयो ऽपि स्वजातीयेभ्यः । कथं पुनर् मौनात् सत्यं विशिष्यते । मौनवान् उत प्रत्यवायो नास्ति सत्यवचनाद् अभ्युदयानुपपत्तिश् च । सत्ये पुनः स चानुत (?) प्रत्यवायो नाश्त्य् अभ्युदयश् च शास्त्रचोदनसामर्थाद् अवश्यम्भावी । यद्य् एवम् अज्योयसेतरस्तुतिः (?) न तु (?) दृष्टविरोधाद् अयुक्तेति । एवं तर्हि मौने सर्वथा(?) संयमः । सत्यत्वे त्व् एकदेशसंयमः । एकदेशसंयमाच् च सर्वसंयमेन भवितव्यं महतः (?) शास्त्रयत्नस्यार्थवत्त्वाय । तथा च दृष्टविरोधासम्भवे स्तुतित्वोत्पत्तिर् युक्तस्याद् (?) इति । अथ वैतस्माद् एव मौनेन सत्यवचनस्य स्तुतिः शास्त्रान् मौनस्य सत्यवचनात् गौरवमिर्यते (?), अथेति तस्याधिकृतत्वात्(?) । ओङ्कारसावित्रीग्रहणे सति व्याहृतिग्रहणं विज्ञेयम्, साहचर्यात् । यथान्यत्र "यो ऽधीते ऽहन्य् अहन्य् एताम्" (म्ध् २.८२] इति सावित्रीग्रहणे प्रणव्याहृतिग्रहणम् । एवम् इहापीति । अथ वा नैवेदं दृष्टान्तवचनम् । किं तर्हि । व्याहृतिस्तुतिः प्रणवादिवत् । कथं कृत्वा । स्मृत्यन्तरे सत्यव्याहृतिसहिता भूराद्या व्याहृतय उपदिष्टः । एवं सति तत्साहचर्याद् इति तासाम् अधिकृतानां तच्छब्देन ग्रहणं गुणतो ऽपि ज्ञेयं लोकवत् । तथा च गौतमीयम्- "ओम्पूर्वा व्याहृतयः पञ्च सत्यान्ताः" । तद् अयुक्तं **[६५]** चैतद् एव कल्पयित्य्ं प्रणवादिस्तुतिसाहचर्यकरणसामर्थ्यात् । इतश् च युक्तो ऽस्य जपकर्मणः इयान् फलमहिमा येन —
@@ -1718,6 +1718,11 @@ to be the best purifier; there is nothing superior to the Gāyatri; Truth is sup
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/084_xaranti_sarvA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+084	All rites ordained in the Veda, burnt oblations and (other) sacrifices, pass away; but know that the syllable (Om) is imperishable, and (it is) Brahman, (and) the Lord of creatures (Pragapati).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All vedic acts of oblation and sacrifice pass away; while this syllable (om) is to be regarded as imperishable; and it is Brahman, and also Prajāpati—(84)
@@ -1785,11 +1790,6 @@ syllable.’
 **क्षरन्तीति **। सर्वाणि वेदचोदितानि होमयागानुष्ठानानि नश्वराणि तत्फलक्षयत्वात् । **अक्षरं** पुनः एतद् ओङ्काराख्यं **अक्षयं ज्ञेयं **तदर्थभावनाद्वारेण ब्रह्मावाप्त्याख्यस्य फलस्याक्षयत्वात् । ब्रह्म च प्रजापत्याख्यं एतद् एव ॥ २.८४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-084	All rites ordained in the Veda, burnt oblations and (other) sacrifices, pass away; but know that the syllable (Om) is imperishable, and (it is) Brahman, (and) the Lord of creatures (Pragapati).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 दुर्लभत्वात् तदधिकारस्य ताः **क्षरन्तीत्य्** उच्यते । तथा चाधिकारशास्त्रम् "<u>यजमानर्त्विजां भवति । ऋत्विग्भ्योर्षयो ऽन्तमानः । साधुचरणो वाग् यं तु नागो (?) नातिरिक्ताङ्गो नातिश्वेतो याज्यो(?) ऽश्वरथर्मैर् (?) गुणैस् त्रिभिर् व्याख्यातम्</u> (??) ॥ विद्वान् यजते विद्वान् यजतीति पलक्षयत्(यात्?) **क्षरन्त्य्** एताः । अत्र च प्रमाणम् उपादानक्षये तत्साध्यस्य प्रथमो लोकवत् । तथा च ब्राह्मणं "सकृद् इष्टिर् एष पततिर्, द्विरिष्टिर् एष पतति" इति । <u>ननु</u> चैतन्यम् अप्य् अस्ति तत्र "स तस्माल् लोकाच् च्यवते यः स्त्रीपरिजनः" इत्य् अत्र स्तुतिपरम् इदं विज्ञेयं कर्मफलप्रकषपिषया (?) । कथं गम्यते । सकृद् इष्टेर् द्विरिष्टेश् च पातवचनात् कृतानां च क्षयः, दर्शनात् । यतश् च दर्शयतिसुकृतीनि ह वा एतानि ज्योतींषि यास् तारकास् ताः पुण्यक्षये ऽप्य् आपाद्यन्त इति न चैवं केवलकर्मकृत एव । किं तर्हि । ज्ञानकर्मसमुच्चयकारिणो ऽपि तुल्यप्रमाणत्वात् समानं क्षय एकाक्षराद् इति । त्रिकम् अक्षरं ज्ञेयम् आत्मैकसाधत्वात् । तस्याविदुषो ऽपि चाधिकाराञ् जपेन ब्रह्मा चैव परमार्थलक्षणं प्रजापतिर् इति तदभिधानो यस्माद् अतश् च तं नित्यत्वात् तज्जपः स्यात् (?) क्षणं फलतो विधीयते । न चायं हेतुत्वे समानदोषत्वाद् (?) अवचनीयम् एतत् स्यात् । अतः श्रुतिकर्मनिन्दयाधिकृतपदार्थत्रयसाधनजपकर्म स्तूयते वाक्यस्वाभाव्यात् लोकवत् । अन्यथा हि यथाश्रुतप्रमाणग्राहिणां शास्त्रोपपत्तिविरोधौ स्याताम् । तौ च नेष्टौ । तस्माद् अयम् अर्थः । यतश् चैतद् एवम् अतः ।
@@ -1807,6 +1807,11 @@ syllable.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/085_vidhiyajnAj_japayajno.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+085	An offering, consisting of muttered prayers, is ten times more efficacious than a sacrifice performed according to the rules (of the Veda); a (prayer) which is inaudible (to others) surpasses it a hundred times, and the mental (recitation of sacred texts) a thousand times.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The offering that consists in the repeating of mantras excels the enjoined (ritualistic) offering ten times; the inaudible (repeating) excels this latter a hundred times; and the Mental (repeating) excels it a thousandfold.—(85)
@@ -1877,11 +1882,6 @@ _शब्दार्थयोर् वेदान्तदृष्ट्य
 **विधियज्ञाद्** इति । बाह्यव्यापारसम्पाद्याद् अग्निष्टोमादेः **जपयज्ञः विशिष्टो दशभिर् गुणैः** दशगुणफलत्वात् । स एव **चोपांशुः **यं परो न शृणोति **स शतगुणः । **मनोव्यापारसम्पाद्यश् च **सहस्रगुण** इति अभ्यासातिशयापेक्षया द्रव्यत्यागाद् अपि चान्तःसंयमस्य दुःसहत्वात् वैदिककर्मफलाधिक्येन जपमाहात्म्यकथनं प्रकृतविधिस्तुत्यर्थम् ॥ २.८५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-085	An offering, consisting of muttered prayers, is ten times more efficacious than a sacrifice performed according to the rules (of the Veda); a (prayer) which is inaudible (to others) surpasses it a hundred times, and the mental (recitation of sacred texts) a thousand times.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **विधियज्ञः** कर्मयज्ञो ऽधिकृतः पूरश्लोके ज्योतिष्टोमादिस् तस्माद् ओङ्कारादि**जपयज्ञो** ऽधिको **दशभिर् गुणैः** । यस्मान् न ह्य् अत्र हिंसाशस्त्रलक्षणा विधियज्ञवचनार्थलक्षणा काचिद् अस्ति नापि साधनवैउण्यादिपूर्वश्लोकोत्को दोषो यतस् तस्माद् आधिक्यम् । तस्माद् अपि श्राव्याद् **उपांशु**जपो ऽधिकः । स च कीदृशः । यमपरो न शृणोति । जपः स एव सन् धर्मः पूर्वः स्याद् आत्मनिग्रहणम् । अस्माद् अपि **मानसः सहस्रः** मनःसंयमातिशयात् तद्गुणान्तर्योगेनेष्यते (?) प्रयत्नविशेषाच् च फलविशेषः । शास्त्रसामर्थाद् अनुमेयो लोकवेदवत् । एवं च सति यथैव सामर्थात् प्रकरणातिक्रमेण सर्व (४ अक्ष् lacuna) पकर्म (२ अक्ष् lacuna) कल्प्यते एवम् उपांशुमानसगुणाव् अपि (?) सर्वजपधर्मौ विज्ञेयौ । तद्विधानं तु **[६६]** स्तुतिप्रकरणोपजिजीविषया । नास्यार्थम् अथ वा प्रकृतार्थस्तुतिदृष्टान्तार्थविपर्ययतो वास्यार्थम् एवोपांशुमानसगुणद्वयविधानप्रकरणाच् च तत्सं (६ अक्ष् lacuna) जपकर्मन इयम् अतिस्तुतिः ।
@@ -1899,6 +1899,11 @@ _शब्दार्थयोर् वेदान्तदृष्ट्य
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/086_ye_pAkayajnAs.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+086	The four Pakayagnas and those sacrifices which are enjoined by the rules (of the Veda) are all together not equal in value to a sixteenth part of the sacrifice consisting of muttered prayers.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The four cooked offerings, along with the enjoined sacrifices,—all these are not worth the sixteenth part of the offering that consists in the repeating of mantras.—(86)
@@ -1967,11 +1972,6 @@ Manu\].
 **ये पाकयज्ञा**दयश् **चत्वारो **ज्योतिष्टोमादि**विधियज्ञसहिताः ते सर्वे जपयज्ञस्य **षडशभागं मूल्यार्थं न लभन्ते इति श्रौतस्मार्तकर्मनिन्दया इदं आत्मज्ञानवान् (-वतां) प्रकृष्टफलदर्शनेन जपमाहात्म्यकथनं प्रकृतविधिस्तुत्यर्थम् ॥ २.८६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-086	The four Pakayagnas and those sacrifices which are enjoined by the rules (of the Veda) are all together not equal in value to a sixteenth part of the sacrifice consisting of muttered prayers.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 श्रौतस्मार्तकर्मनिन्दया समस्तेयम् अपि स्तुतिर् वेदाध्ययनानुष्ठानप्ररोचनार्थत्व अतिस्तुतिश् च वाक्यस्वाभाव्यात् । (३ अक्ष् lacuna) अर्थत्वे (?) सति लोकवेदवद् इहाविरुद्धे स्मृतिशास्त्रे । एवं च सत्यम् उपांशुमानसगुणद्वयसम्बन्धिना —
@@ -1989,6 +1989,11 @@ Manu\].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/087_japyenaiva_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+087	But, undoubtedly, a Brahmana reaches the highest goal by muttering prayers only; (whether) he perform other (rites) or neglect them, he who befriends (all creatures) is declared (to be) a (true) Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It is by means of repeating mantras that the Brāhmaṇa succeeds;—there is no doubt in this. He may, or may not, do anything else, one comes to be called a Brāhmaṇa if he is of a friendly disposition.—(87)
@@ -2070,11 +2075,6 @@ Manu\].
 <details><summary>गोविन्दराजः</summary>
 
 **जप्येनैव त्व्** इति । **जप्येनैव ब्राह्मणो **मोक्षं प्राप्नुयात् अत्र संशय एव नास्ति कथम् अल्पप्रयासेन महत्फलं प्राप्यत इति । द्रव्यत्यागाद् अप्य् अन्तःसंयमस्य दुष्करत्वात् । एवं च **कुर्याद् अन्यत्** तादर्थ्येन ज्योतिष्टोमादिकम् असौ कर्म **यदि वा न कुर्यात्** यतः सर्वभूतोपकाररतो **ब्राह्मणः **स्याद् इति शास्त्रेणोच्यते । अग्निष्टोमीयादि (अग्नीषोमीयादि) वधेन कुतो **मैत्रः **इति । एवं श्रौतस्मार्तकर्मानुष्ठानाशक्तो जप्यपरः पुरुषः संसिद्ध्यनुवादो (संसिद्ध्य्तीत्य् अनुवादो) ऽयं प्रकृतविधिस्तुत्यर्थः ॥ २.८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-087	But, undoubtedly, a Brahmana reaches the highest goal by muttering prayers only; (whether) he perform other (rites) or neglect them, he who befriends (all creatures) is declared (to be) a (true) Brahmana.
 </details>
 
 <details><summary>भारुचिः</summary>

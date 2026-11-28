@@ -11,6 +11,11 @@ title = "०५ स्त्रीधनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/051_na_kanyAyAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+051	No father who knows (the law) must take even the smallest gratuity for his daughter; for a man who, through avarice, takes a gratuity, is a seller of his offspring.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The girl’s father, if wise, should not accept even a small consideration; by accepting a consideration, through greed, the man becomes a child-seller.—(51).
@@ -60,11 +65,6 @@ to the girl’s guardian has been prescribed with a view to securing a special e
 **नेति** । **कन्यायाः पिता** धनग्रहणदोषज्ञः स्वल्पम् अपि कन्यादानविनिमयरूपधनं **न गृह्णीयात्** । यस्माल् **लोभेन **तद् **गृह्णन् अपत्यविक्रयी **भवेत् ॥ ३.५१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-051	No father who knows (the law) must take even the smallest gratuity for his daughter; for a man who, through avarice, takes a gratuity, is a seller of his offspring.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 आसुरस्य् वैकल्पिकशुल्कग्रहणप्रतिषेधो ऽयम् ।
@@ -82,6 +82,11 @@ to the girl’s guardian has been prescribed with a view to securing a special e
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/052_strIdhanAni_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+052	But those (male) relations who, in their folly, live on the separate property of women, (e.g. appropriate) the beasts of burden, carriages, and clothes of women, commit sin and will sink into hell.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those relations who, through folly, live upon the bride’s properties—even the bride’s conveyances and clothes—are sinners and fall into the lowest state.—(52)
@@ -134,11 +139,6 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 851), which deduces fr
 **स्त्रीधनानीति** । दुहितृभगिन्¥आसिसम्बन्धीनि हिरण्यानि दासीवाहनवस्त्राणि वा पित्रादय उपभुञ्जते । अतस् ते **पापाः** पाककर्माणो नरकं व्रजन्ति । प्रसङ्गात् स्त्रीधनोपजीवनप्रतिषेधः ॥ ३.५२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-052	But those (male) relations who, in their folly, live on the separate property of women, (e.g. appropriate) the beasts of burden, carriages, and clothes of women, commit sin and will sink into hell.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तत्सम्बन्धा(द्धा?)नाम् पै दोषः स्यात् किं पुनः पितुर् इति शुल्कस्याग्रहणस्तुतिर् इयं ग्रहणनिदायै । तस्माच् च स्तुत्यर्थाद् अपि बन्धुग्रहणाद् इदं विज्ञायते बन्धिभिर् अपि न किञ्चिद् उपजीव्यम् ।
@@ -156,6 +156,11 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 851), which deduces fr
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/053_ArShe_gomithunam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+053	Some call the cow and the bull (given) at an Arsha wedding 'a gratuity;' (but) that is wrong, since (the acceptance of) a fee, be it small or great, is a sale (of the daughter).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Some people declare that the bovine pair are the “consideration” (to be accepted) in the Ārṣa form of marriage. This is not true; for small or large, the act becomes a ‘selling’ all the same.—(53)
@@ -231,11 +236,6 @@ hundred cows is made, it is known as *selling*.’ *Apastamba-Dharmasūtra* (2.1
 **आर्षे **इति । **आर्षे **विवाहे **गोमिथुनं शुल्कं** वराद् ग्राह्यम् इति केचिद् आचार्याः प्राहुः तत् पुनर् असत्यम्, यस्माद् अल्पार्थं साध्यत्वाद् अल्पो वा भवतु बहुमूल्यसाध्यत्वान् महान् वा भवतु सर्वथा विक्रयस् तावद् असौ भवति । “एवम् एकं गोमिथुनम्” इत्य् एतत् परमतम् इत्य् अवसीयते ॥ ३.५३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-053	Some call the cow and the bull (given) at an Arsha wedding 'a gratuity;' (but) that is wrong, since (the acceptance of) a fee, be it small or great, is a sale (of the daughter).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इयम् अपरा ग्रहणे स्तुत्यर्था । ग्रहणनिदायाम् ।
@@ -261,6 +261,11 @@ hundred cows is made, it is known as *selling*.’ *Apastamba-Dharmasūtra* (2.1
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/054_yAsAn_nAdadate.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+054	When the relatives do not appropriate (for their use) the gratuity (given), it is not a sale; (in that case) the (gift) is only a token of respect and of kindness towards the maidens.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of girls whose relations do not appropriate the bride’s gift, it is not “selling;” It is only a means of honouring the maidens and is entirely harmless.—(54)
@@ -308,11 +313,6 @@ ancient lore quote the words of Prācetasa to the effect that in cases where the
 **यासाम्** इति । **यासां** कन्यानां पुनः पित्रादयः आत्मार्थं दानं दत्तं वरान् न गृह्णन्ति अपि तु प्रसन्नैः भर्त्रादिभिर् अर्पणपूर्वकं कन्यार्थं दत्तं गृह्यते, नासौ विक्रयः । किं तर्हि । पूजनं तत्, कन्यानां **केवलं** विक्रयस्पर्शशून्यम् अनुकम्पारूपं अनुकम्पारूपं तत् ॥ ३.५४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-054	When the relatives do not appropriate (for their use) the gratuity (given), it is not a sale; (in that case) the (gift) is only a token of respect and of kindness towards the maidens.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अनेकत्वात् यत् केवलं कन्यार्थं ग्रहणे शुल्कस्य दोषो ऽस्ति ऊर्ध्वदानात् (?) ।
@@ -336,6 +336,11 @@ ancient lore quote the words of Prācetasa to the effect that in cases where the
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/055_pitRbhir_bhrAtRbhish.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+055	Women must be honoured and adorned by their fathers, brothers, husbands, and brothers-in-law, who desire (their own) welfare.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These shall be honoured and adorned by their fathers and brothers, husbands and brothers-in-law, who are desirous of their own welfare.—(55)
@@ -394,11 +399,6 @@ fondled by their fathers, brothers, fathers-in-law and brothers-in-law—if thes
 
 **पितृभिर्** इति । पितृभ्रातृभर्तृभिः बह्वीं सम्पदम् आप्तुकामैः स्त्रियः **पूज्याः **अलङ्कर्तव्याश् च ॥ ३.५५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-055	Women must be honoured and adorned by their fathers, brothers, husbands, and brothers-in-law, who desire (their own) welfare.
-</details>
 </details>
 </div>
 
@@ -412,6 +412,11 @@ fondled by their fathers, brothers, fathers-in-law and brothers-in-law—if thes
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/056_yatra_nAryas.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+056	Where women are honoured, there the gods are pleased; but where they are not honoured, no sacred rite yields rewards.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where women are honoured, there the gods rejoice; where, on the other hand, they are not honoured, there all rites are fruitless.—(56)
@@ -454,11 +459,6 @@ and fondled; where women are honoured, there the gods rejoice; where they are no
 **यत्रेति **। यस्मिन् कुले पित्रादिभिः स्त्रियः पूज्यन्ते **तत्र देवताः **प्रसीदन्ति । **यत्र** पुनर् **एता न पूज्यन्ते तत्र **देवताप्रसादाभावात् यागादि**क्रियाः सर्वा निष्फला **भवन्तीति ॥ ३.५६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-056	Where women are honoured, there the gods are pleased; but where they are not honoured, no sacred rite yields rewards.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विहितोपायस्य व्यतिक्रमनिन्देयं चान्या ।
@@ -487,6 +487,11 @@ and fondled; where women are honoured, there the gods rejoice; where they are no
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/057_shochanti_jAmayo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+057	Where the female relations live in grief, the family soon wholly perishes; but that family where they are not unhappy ever prospers.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where the female relations live in grief, the family soon wholly perishes; but that family where they are not unhappy ever prospers.—(57)
@@ -526,11 +531,6 @@ family becomes doomed.’
 
 **शोचन्तीति** । यस्मिन् कुले नवोढा दुहितृस्तुषाद्याः सशोका भवन्ति तत् कुलं क्षिप्रम् एव **विनश्यति **। **यत्र **पुनर्** एता **शोकार्ता न भवन्ति तत् सर्वकालं वृद्धिम् एति ॥ ३.५७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-057	Where the female relations live in grief, the family soon wholly perishes; but that family where they are not unhappy ever prospers.
-</details>
 </details>
 </div>
 
@@ -544,6 +544,11 @@ family becomes doomed.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/058_jAmayo_yAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+058	The houses on which female relations, not being duly honoured, pronounce a curse, perish completely, as if destroyed by magic.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The houses on which female relations, not being duly honoured, pronounce a curse, perish completely, as if destroyed by magic.—(58)
@@ -585,11 +590,6 @@ down by malignant spirits; such houses neither shine nor prosper; and they are d
 **जामय** इति । यानि गृहाणि न नवोढादुहित्राद्याश् च **अपूजिताः **सद्यो ऽभिशपन्ति **तानि **अभिचारविशेषहा=अतानीव सर्वनाशं नश्यन्ति ॥ ३.५८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-058	The houses on which female relations, not being duly honoured, pronounce a curse, perish completely, as if destroyed by magic.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तद् असंस्कारवर्धनेन ।
@@ -607,6 +607,11 @@ down by malignant spirits; such houses neither shine nor prosper; and they are d
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/059_tasmAd_etAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+059	Hence men who seek (their own) welfare, should always honour women on holidays and festivals with (gifts of) ornaments, clothes, and (dainty) food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Hence men who seek (their own) welfare, should always honour women on holidays and festivals with (gifts of) ornaments, clothes, and (dainty) food.—(59)
@@ -649,11 +654,6 @@ they should be respected by the man desiring his own welfare; when loved and fon
 यस्माद् एवं **तस्माद् एताः सदा**ब्यर्च्याः इति । **भूतिकामैर् नरैर् नित्यं सङ्करेषूत्सवेषु च** । तस्मात् कारणात् एताः सङ्करेषु कौमिदीमहानवम्यादिषु उपनयनादिषु च सर्वकामैः मनुष्यैः आभरणवस्त्रभोजनैः नित्यम् अभिपूजनीयाः ॥ ३.५९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-059	Hence men who seek (their own) welfare, should always honour women on holidays and festivals with (gifts of) ornaments, clothes, and (dainty) food.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 चशब्दाद् विवाहेषु च विशेषत इदं कर्तव्यम् । कथं नामायं भवेत् । 
@@ -675,6 +675,11 @@ they should be respected by the man desiring his own welfare; when loved and fon
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/060_santuShTo_bhAryayA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+060	In that family, where the husband is pleased with his wife and the wife with her husband, happiness will assuredly be lasting.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In that family, where the husband is pleased with his wife and the wife with her husband, happiness will assuredly be lasting.—(60)
@@ -709,11 +714,6 @@ This verse is quoted in *Vivādaratnākara* (p. 421);—and in
 **सन्तुष्ट** इति । **यस्मिन् कुले **स्वभार्यया हेतुभूतया नित्यं **भर्ता** निवृत्ताभिलाषः **भार्या**पि च यत्र **नित्यं **स्व**भर्त्रा **हेतुभूतेन अनुपजातनरान्तराभिलाषा तत्राविचलं मङ्गलं भवति ॥ ३.६० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-060	In that family, where the husband is pleased with his wife and the wife with her husband, happiness will assuredly be lasting.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 परस्परचिन्तानुप्रवेशेन जायापत्योर् यथा –
@@ -731,6 +731,11 @@ This verse is quoted in *Vivādaratnākara* (p. 421);—and in
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/061_yadi_hi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+061	For if the wife is not radiant with beauty, she will not attract her husband; but if she has no attractions for him, no children will be born.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For if the wife is not radiant with beauty, she will not attract her husband; but if she has no attractions for him, no children will be born.—(61)
@@ -776,11 +781,6 @@ Parva.\]
 **यदीति** । **यदि स्त्री** सुगन्धलेपनादि कान्तिमती न भवेत् तदा भर्तारं न प्रहर्षयेत् । भर्तुः अप्रहर्षाच् च गर्भग्रहणं न भवति ॥ ३.६१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-061	For if the wife is not radiant with beauty, she will not attract her husband; but if she has no attractions for him, no children will be born.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 या **स्त्री न रोचेत** सालङ्कारतया नियतम् असौ भर्तारं न प्रमोदयति । **अप्रमोदाच्** च **प्रजनन**हानिः । अतो ऽपरस्य मनश्चक्षुर्निबन्धनी । कन्यालङ्कारस्तुतिर् एवं दानालङ्कारादिभिर् भवत्य् अपरिहार्योपमार्थः । अनुपकारिष्व् अरुचिर् जायत इति । तस्मात् प्रयत्न आस्थेयस् तया सहाग्निहोत्रादिष्व् अरुचिर् मा भूद् इति । अभिमत(?)विवाहसुतिर् इयं तत्सम्बन्धेनेदम् अधुनोच्यत् ।
@@ -798,6 +798,11 @@ Parva.\]
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/062_striyAn_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+062	If the wife is radiant with beauty, the whole house is bright; but if she is destitute of beauty, all will appear dismal.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the wife is radiant with beauty, the whole house is bright; but if she is destitute of beauty, all will appear dismal.—(62)
@@ -830,11 +835,6 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 
 किं च **स्त्रियां तु रोचमानायाम्** इति । **स्त्रियां** वेषादिना कान्तिमत्यां भर्तृमनोहरतया परपुरुषसम्पर्काभावात् तत्कुलम् उज्ज्वलं भवति । तस्यां पुनर् अरोचमानायां भर्तृद्विष्टतया नरान्तरसङ्कल्पतः सकलम् एव कुलं मनिनी भवति ॥ ३.६२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-062	If the wife is radiant with beauty, the whole house is bright; but if she is destitute of beauty, all will appear dismal.
-</details>
 </details>
 </div>
 
@@ -849,6 +849,11 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/063_ku-vivAhaiH_kriyA-lopair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+063	By low marriages, by omitting (the performance of) sacred rites, by neglecting the study of the Veda, and by irreverence towards Brahmanas, (great) families sink low.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By low marriages, by omitting (the performance of) sacred rites, by neglecting the study of the Veda, and by irreverence towards Brahmanas, (great) families sink low.—(63)
@@ -888,11 +893,6 @@ and by the rejection of Veda, the family ceases to be a family; also by the ill-
 
 **कुविवाहैर्** इति । आसुरादिविवाहसंस्काराभाववेदानध्ययनब्राह्मणापूजनैः प्रख्यातकुलान्य् अपकर्षं यान्ति । तस्माद् एतत् परिहरणीयम् ॥ ३.६३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-063	By low marriages, by omitting (the performance of) sacred rites, by neglecting the study of the Veda, and by irreverence towards Brahmanas, (great) families sink low.
-</details>
 </details>
 </div>
 
@@ -906,6 +906,11 @@ and by the rejection of Veda, the family ceases to be a family; also by the ill-
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/064_shilpena_vyavahAreNa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+064	By (practising) handicrafts, by pecuniary transactions, by (begetting) children on Sudra females only, by (trading in) cows, horses, and carriages, by (the pursuit of) agriculture and by taking service under a king,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By (practising) handicrafts, by pecuniary transactions, by (begetting) children on Sudra females only, by (trading in) cows, horses, and carriages, by (the pursuit of) agriculture and by taking service under a king.—(64)
@@ -944,11 +949,6 @@ agriculture and through serving the king, families cease to be families; as also
 
 चित्रकर्मादिशिल्पेन कलया धनप्रयोगात्मकव्यवहारेण केवलशूद्वापत्येन गवाश्वरथक्रयविक्रयादिना कृषिराजसेवाभ्यां कुलानि विनश्यन्तीत्युत्तरेण सम्बन्धः ॥६४॥
 </details>
-
-<details><summary>Bühler</summary>
-
-064	By (practising) handicrafts, by pecuniary transactions, by (begetting) children on Sudra females only, by (trading in) cows, horses, and carriages, by (the pursuit of) agriculture and by taking service under a king,
-</details>
 </details>
 </div>
 
@@ -962,6 +962,11 @@ agriculture and through serving the king, families cease to be families; as also
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/065_ayAjyayAjanaish_chaiva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+065	By sacrificing for men unworthy to offer sacrifices and by denying (the future rewards for good) works, families, deficient in the (knowledge of the) Veda, quickly perish.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By sacrificing for men unworthy to offer sacrifices and by denying (the future rewards for good) works, families, deficient in the (knowledge of the) Veda, quickly perish.—(65)
@@ -1002,11 +1007,6 @@ See Comparative notes for [Verse 3.64].
 
 **शिल्पेन व्यवहारेणेति । अयाज्ययाजनैश् चेति **। चित्रकर्मादिशिल्पधनप्रयोगकेवलशूदापत्य-गवाश्वरथक्रयविक्रयादिकृषिराजसेवाव्रात्यादियाजनयागादिकर्माभावशुद्धि-मनानध्ययनैः क्षिप्रम् एव कुलान्य् अपकर्षं यान्ति ॥ ३.६४–६५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-065	By sacrificing for men unworthy to offer sacrifices and by denying (the future rewards for good) works, families, deficient in the (knowledge of the) Veda, quickly perish.
-</details>
 </details>
 </div>
 
@@ -1028,6 +1028,11 @@ See Comparative notes for [Verse 3.64].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/066_mantratas_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+066	But families that are rich in the knowledge of the Veda, though possessing little wealth, are numbered among the great, and acquire great fame.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (Note: the following is an alternate translation by George Bühler)
@@ -1067,11 +1072,6 @@ See Comparative notes for [Verse 3.64].
 <details><summary>गोविन्दराजः</summary>
 
 **मन्त्रत** इति । यद्य् अपि धनेन कुलम् इति प्रवादः । तथापि वेदाध्ययनावबोध-तदर्थानुष्ठानयुक्तानि पुनः कुलानि अल्पधनान्य् अपि उत्कृष्टकुलमध्ये गुण्यतां प्राप्नुवन्ति महतीं ख्यातिम् अर्जयन्ति । विवाहप्रसङ्गेन प्रसक्तानुप्रसक्तिकयैतत् सर्वम् उक्तम् ॥ ३.६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-066	But families that are rich in the knowledge of the Veda, though possessing little wealth, are numbered among the great, and acquire great fame.
 </details>
 
 <details><summary>भारुचिः</summary>

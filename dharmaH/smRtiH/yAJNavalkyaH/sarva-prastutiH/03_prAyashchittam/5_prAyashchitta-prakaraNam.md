@@ -12,6 +12,12 @@ title = "५ प्रायश्चित्त-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/206_mahApAtakajAn_ghorAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having reached the dreadful, severe hells born of mortal sins,  
+perpetrators of mortal sins are reborn here upon the exhaustion of their action.
+</details>
+
 <details><summary>मूलम्</summary>
 
 महा-पातकजान् घोरान्  
@@ -56,6 +62,12 @@ _एवं प्रत्यात्मिकान् सर्वाश्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/207_mRgAshvasUkaroShTrANAM_brahmahA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The killer of a Brahmin enters the womb of a deer, horse, boar, or camel;  
+a drinker of liquor [enters the womb] of a donkey, a Pulkasa, or a Vena, without doubt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मृगाश्व[?]-सूकरोष्ट्राणां  
@@ -121,6 +133,12 @@ _तत्र नरकान् वक्ष्यति । यथा त्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/208_kRmikITapatangatvaM_svarNahArI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The stealer of gold attains the condition of a worm, an insect, or a moth,  
+and the violator of the guru's bed gradually attains the condition of grass, a bush, or a creeper.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृमि-कीट-पतङ्गत्वं  
@@ -141,6 +159,12 @@ _तत्र नरकान् वक्ष्यति । यथा त्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/209_brahmahA_xayarogI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The killer of a Brahmin becomes consumptive; the drinker of liquor, black-toothed;  
+the stealer of gold, foul-nailed; and the violator of the guru's bed, diseased in the skin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्महा क्षय-रोगी स्यात्  
@@ -193,6 +217,12 @@ _एवं क्रमशस् तिर्यग्योनित्वम�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/210_yo_yena.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever associates with any of these is born with that person's mark.  
+The stealer of food becomes sickly; the stealer of speech, mute.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो येन संवसत्य् एषां  
@@ -259,6 +289,12 @@ _महापातकव्यतिरेकेणापि रूपविप
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/211_dhAnyamishro.atiriktA~ngaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The mixer of grains becomes possessed of a redundant limb; the slanderer, foul-nosed;  
+the stealer of oil becomes a cockroach; and the informer, foul-mouthed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धान्य-मिश्रो ऽतिरिक्ताञ्गः  
@@ -279,6 +315,12 @@ _महापातकव्यतिरेकेणापि रूपविप
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/212_parasya_yoShitaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having seized another's wife, and having stolen a Brahmin's property,  
+one becomes a Brahmarākṣasa in a waterless wilderness.
+</details>
+
 <details><summary>मूलम्</summary>
 
 परस्य योषितं हृत्वा  
@@ -325,6 +367,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/213_hInajAtau_prajAyeta.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The stealer of another's gems is born in a low caste;  
+having stolen leafy vegetables, a peacock; [having stolen] pleasant perfumes, a musk-rat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हीन-जातौ प्रजायेत  
@@ -375,6 +423,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/214_mUShako_dhAnyahArI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A stealer of grain becomes a mouse; of a vehicle, a camel; [of] fruit, a monkey;  
+[of] water, a diving bird; [of] milk, a crow; and [of] household furnishings, a wasp.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मूषको धान्य-हारी स्याद्  
@@ -417,6 +471,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/215_madhu_daMshaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+[A stealer of] honey becomes a gadfly; of meat, a vulture; of a cow, an iguana; and of fire, a heron;  
+[a stealer of] clothing becomes a leper; of flavored liquid, a dog; and the stealer of salt, a cricket.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधु दंशः पलं गृध्रो  
@@ -447,6 +507,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/216_pradarshanArtham_etat.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+This has been stated by me only by way of illustration in the matter of theft;  
+for just as there are types of objects, so indeed are the species of living beings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रदर्शनार्थम् एतत् तु  
@@ -506,6 +572,12 @@ _इदानीम् उपसंहरति ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/217_yathAkarma_phalam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having obtained the fruit according to their deeds in the animal state through the lapse of time,  
+the lowest of men are born destitute, devoid of auspicious bodily marks.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा-कर्म फलं प्राप्य  
@@ -550,6 +622,12 @@ _एतद् एव स्पष्टयति ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/218_tato_niShkalmaShIbhUtAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then, having become free of taint, they are born into a great family as men of enjoyment,  
+endowed with learning, and provided with wealth and grain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो निष्कल्मषी-भूताः  
@@ -594,6 +672,12 @@ _ये पुनः कृत्वापि पापानि तदनुर
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/219_vihitasyAnanuShThAnAn_ninditasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From not performing what is ordained, and from resorting to what is condemned,  
+and from the non-restraint of the senses, a man incurs a fall [into sin].
+</details>
+
 <details><summary>मूलम्</summary>
 
 विहितस्याननुष्ठानान्  
@@ -702,6 +786,12 @@ _इदानीं यस्मिन् निमित्ते प्रा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/220_tasmAt_teneha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore, penance must be performed here by him for purification;  
+thus both his inner self and the world are pleased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मात् तेनेह कर्तव्यं  
@@ -736,6 +826,12 @@ _यस्माच् च विहितस्याननुष्ठान�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/221_prAyashchittam_akurvANAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Men who do not perform penance, who are devoted to sins,  
+and without remorse, go to painful, terrible hells:
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तम् अकुर्वाणाः  
@@ -785,6 +881,12 @@ _एतद् एवानन्तरश्लोकेन स्पष्ट�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/222_tAmisraM_lohashanku~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Tāmisra, Lohaśaṅku, Mahāniraya, Śālmalī,  
+Raurava, Kuḍmala, Pūtimṛttika, Kālasūtra,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तामिस्रं लोह-शङ्कुं च  
@@ -839,6 +941,12 @@ _तान् इदानीं नरकान् दर्शयति ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/223_sanghAtaM_lohitoda~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Saṃghāta, Lohitoda, Saviṣa, Saṃprapātana,  
+Mahānaraka, Kākola, Saṃjīvana, Mahāpatha,
+</details>
+
 <details><summary>मूलम्</summary>
 
 सङ्घातं लोहितोदं च  
@@ -859,6 +967,12 @@ _तान् इदानीं नरकान् दर्शयति ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/224_avIchim_andhatAmisraM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Avīci, Andhatāmisra, and likewise Kumbhīpāka,  
+Asipatravana, and Tāpana as the twenty-first.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवीचिम् अन्ध-तामिस्रं  
@@ -879,6 +993,12 @@ _तान् इदानीं नरकान् दर्शयति ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/225_mahApAtakajair_ghorair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Attended by terrible [sins] born of major sins, and likewise born of minor sins,  
+the lowest of men who have not performed penance go [to these hells].
+</details>
+
 <details><summary>मूलम्</summary>
 
 महा-पातकजैर् घोरैर्  
@@ -918,6 +1038,12 @@ _एवम् एतान् एकविंशतिनरकान् स्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/226_prAyashchittair_apaity.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Guilt that was committed through ignorance departs through penances;  
+but [when done] intentionally, one becomes fit to associate with in this world only by scriptural declaration.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तैर् अपैत्य् एनो  
@@ -1090,6 +1216,12 @@ _इतश् च प्रायश्चित्तं नियोगतः 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/227_brahmahA_madyapaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A killer of a Brahmin, a drinker of liquor, a thief, and likewise a violator of the guru's bed:  
+these are major sinners, as is whoever associates with them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्महा मद्यपः स्तेनस्  
@@ -1210,6 +1342,12 @@ _के पुनस् ते महापातकिन इत्य् अ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/228_gurUNAm_adhyadhixepo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Excessive reviling of gurus, censure of the Veda, slaying a friend,  
+and destruction of what has been studied are to be known as equal to slaying a Brahmin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गुरूणाम् अध्यधिक्षेपो  
@@ -1264,6 +1402,12 @@ _इदानीं महापातकसमानि ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/229_niShiddhabhaxaNa~n_jaihmyam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Eating forbidden food, crookedness, false speech in asserting superiority,  
+and tasting the mouth of a menstruating woman are equal to drinking liquor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निषिद्ध-भक्षणं जैह्म्यम्  
@@ -1353,6 +1497,12 @@ _सुरापानसमान्य् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/230_ashvaratnamanuShyastrI_bhUdhenuharaNan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The theft of a horse, a gem, a man, a woman, land, a cow,  
+and of a deposit is indeed entirely equal to the theft of gold.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अश्व-रत्न-मनुष्य-स्त्री-  
@@ -1398,6 +1548,12 @@ _सुवर्णस्तेयसमान्य् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/231_sakhibhAryAkumArIShu_svayoniShv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+[Sexual intercourse] with a friend's wife, a maiden, one's own female relatives, lowest-caste women,  
+women of the same gotra, and wives of a son is traditionally regarded as equal to violating the guru's bed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सखि-भार्या-कुमारीषु  
@@ -1455,6 +1611,12 @@ _गुरुतल्पसमान्य् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/232_pituH_svasAram.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Approaching the father's sister, the mother's sister, the maternal uncle's wife, the daughter-in-law,  
+the father's co-wife, a sister, the teacher's daughter,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितुः स्वसारं मातुश् च  
@@ -1529,6 +1691,12 @@ _प्रायश्चित्तातिरेकार्थं तु �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/233_AchAryapatnIM_svasutAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the teacher's wife, or one's own daughter, one is a violator of the guru's bed.  
+His punishment is having cut off his penis; and also of the woman, if she was consenting.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आचार्य-पत्नीं स्व-सुतां  
@@ -1549,6 +1717,12 @@ _प्रायश्चित्तातिरेकार्थं तु �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/234_govadho_vrAtyatA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Killing a cow, outcaste status, theft, non-payment of debts,  
+not maintaining the sacred fires, sale of forbidden commodities, lamentation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 गो-वधो व्रात्यता स्तेयम्  
@@ -1903,6 +2077,12 @@ _इदानीम् उपपातकान्य् उच्यन्त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/235_bhRtAd_adhyayanAdAnaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+taking study from a hired teacher, teaching for hire,  
+adultery, marriage before an elder brother, usury, manufacture of salt,
+</details>
+
 <details><summary>मूलम्</summary>
 
 भृताद् अध्ययनादानं  
@@ -1923,6 +2103,12 @@ _इदानीम् उपपातकान्य् उच्यन्त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/236_strIshUdraviTxatravadho_ninditArthopajIvanam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+slaying a woman, a Shudra, a Vaishya, or a Kshatriya, living by censured means,  
+atheism, breaking a vow, and selling one's sons,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्त्री-शूद्र-विट्-क्षत्र-वधो  
@@ -1943,6 +2129,12 @@ _इदानीम् उपपातकान्य् उच्यन्त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/237_dhAnyakupyapashusteyam_ayAjyAnA~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+theft of grain, base metal, or cattle, performing sacrifices for those unfit to sacrifice,  
+abandoning father, mother, or son, sale of a pond or a garden,
+</details>
+
 <details><summary>मूलम्</summary>
 
 धान्य-कुप्य-पशु-स्तेयम्  
@@ -1963,6 +2155,12 @@ _इदानीम् उपपातकान्य् उच्यन्त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/238_kanyAsandUShaNa~n_chaiva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+defiling a maiden, performing sacrifices for one married before his elder brother,  
+giving a maiden to him, crookedness, breaking a vow,
+</details>
+
 <details><summary>मूलम्</summary>
 
 कन्या-सन्दूषणं चैव  
@@ -1983,6 +2181,12 @@ _इदानीम् उपपातकान्य् उच्यन्त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/239_Atmano.arthe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+undertaking rites for one's own sake, resorting to a woman who drinks liquor,  
+abandoning recitation of the Veda, sacred fires, or a son, and abandoning relatives,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आत्मनो ऽर्थे क्रियारम्भो  
@@ -2003,6 +2207,12 @@ _इदानीम् उपपातकान्य् उच्यन्त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/240_indhanArthan_drumaChedaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+cutting trees for firewood, harming women, living by medicines,  
+setting up destructive mechanical contrivances, addictions, selling oneself,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्धनार्थं द्रुम-छेदः  
@@ -2023,6 +2233,12 @@ _इदानीम् उपपातकान्य् उच्यन्त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/241_shUdrapreShyaM_hInasakhyaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+servitude to a Shudra, friendship with base persons, intercourse with women of low birth,  
+likewise living outside the stages of life, and being nourished on another's food,
+</details>
+
 <details><summary>मूलम्</summary>
 
 शूद्र-प्रेष्यं हीन-सख्यं  
@@ -2043,6 +2259,12 @@ _इदानीम् उपपातकान्य् उच्यन्त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/242_asachChAstrAdhigamanam_AkareShv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+studying uncanonical treatises, holding authority over mines,  
+and selling one's wife: each one of these is a minor sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 असच्-छास्त्राधिगमनम्  
@@ -2063,6 +2285,12 @@ _इदानीम् उपपातकान्य् उच्यन्त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/243_shiraHkapAlI_dhvajavAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Carrying a skull, bearing a staff, eating alms-food, proclaiming his deed,  
+[and] eating moderately, the killer of a Brahmin would attain purification in twelve years.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शिरः-कपाली ध्वजवान्  
@@ -2285,6 +2513,12 @@ _इदानीं यथानिर्देशं ब्रह्महत�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/244_brAhmaNasya_paritrANAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or through the rescue of a Brahmin and of twelve cows,  
+or through the concluding ablution bath of a horse sacrifice, he would attain purification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्राह्मणस्य परित्राणाद्  
@@ -2371,6 +2605,12 @@ _तथेदम् अन्यद् वैकल्पिकम् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/245_dIrghatIvrAmayagrastaM_brAhmaNa~N.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or having seen a Brahmin or a cow on the road afflicted by a long and severe disease,  
+and having relieved them of suffering, the killer of a Brahmin becomes pure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दीर्घ-तीव्रामय-ग्रस्तं  
@@ -2419,6 +2659,12 @@ _तथेदम् अन्यत् वैकल्पिकम् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/246_AnIya_viprasarvasvaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having recovered a Brahmin's property that was stolen, or [if] he was killed  
+for that purpose, even if wounded by weapons while surviving, he is purified.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आनीय विप्र-सर्वस्वं  
@@ -2467,6 +2713,12 @@ _तथेदम् अन्यद् वैकल्पिकं ब्रह�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/247_lomabhyaH_svAhety.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or he should offer his body into the fire with the mantras, 'Svāhā to the hairs,'  
+beginning with the hairs and ending with the marrow, in due order.
+</details>
+
 <details><summary>मूलम्</summary>
 
 लोमभ्यः स्वाहेत्य् एवं हि  
@@ -2542,6 +2794,12 @@ _ब्रह्महत्यायाम् एवेदम् अन्य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/248_sangrAme_vA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or having been slain in battle as a target, he would attain purification;  
+[or] having been reduced to a near-dead state, afflicted with wounds, he is purified even while living.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सङ्ग्रामे वा हतो लक्ष्य-  
@@ -2611,6 +2869,12 @@ _तथा प्रवृत्तस् तु सः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/249_araNye_niyato.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Restrained in a forest, having recited the Saṃhitā of the Veda three times,  
+or by eating moderately [while walking] against the current of the Sarasvatī, he would be purified.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अरण्ये नियतो जप्त्वा  
@@ -2673,6 +2937,12 @@ _तथेदम् अपरं प्रायश्चित्तद्व�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/250_pAtre_dhanaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or having given adequate wealth to a worthy recipient, he would attain purification;  
+and for the purification of the receiver, a Vaiśvānarī rite is prescribed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पात्रे धनं वा पर्याप्तं  
@@ -2840,6 +3110,12 @@ _वित्तवतस् त्रैवर्णिकस्येदम्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/251_yAgasthaxatraviDghAtI_chared.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who slays a Kshatriya or a Vaishya engaged in a sacrifice should perform the vow for slaying a Brahmin;  
+also one who slays an embryo according to the social class, and likewise a slayer of a woman who has bathed after her courses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यागस्थ-क्षत्र-विड्-घाती  
@@ -2902,6 +3178,12 @@ _इदानीम् आतिदेशिकान्य् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/252_chared_vratam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should perform the vow even without having killed, if he came for the purpose of killing;  
+but one should prescribe a double vow in the case of a Brahmin engaged in the soma pressing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चरेद् व्रतम् अहत्वा ऽपि  
@@ -2965,6 +3247,12 @@ _इदं चान्यद् आतिदेशिकम् एव ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/253_surAmbughRtagomUtra_payasAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having drunk any one of liquor, water, clarified butter, cow's urine, or milk,  
+resembling fire, the drinker of liquor attains purification through death.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सुराम्बु-घृत-गो-मूत्र-  
@@ -3133,6 +3421,12 @@ _इदानीं सुरां प्रत्य् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/254_vAlavAsA_jaTI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or clad in horsehair garments, or wearing matted hair, he should perform the vow for slaying a Brahmin,  
+or he should eat oil-cake or broken grains at night for three years.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाल-वासा जटी वा ऽपि  
@@ -3275,6 +3569,12 @@ _एवं कामकृते त्व् अभ्यासे मरणा
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/255_ajnAnAt_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having drunk liquor unwittingly, or semen, feces, or urine,  
+the three twice-born social classes deserve to undergo the life-cycle rite once again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अज्ञानात् तु सुरां पीत्वा  
@@ -3359,6 +3659,12 @@ _एवं मतिपूर्वे ऽभ्यासे मरणान्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/256_patilokan_na.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Brahmin woman who drinks liquor does not attain her husband's world;  
+in this very world she is reborn as a female dog, a female vulture, or a sow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पति-लोकं न सा याति  
@@ -3447,6 +3753,12 @@ _ब्रह्मण्या अप्य् एतद् एव सुरा
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/257_brAhmaNasvarNahArI_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A stealer of Brahmin gold, however, should offer an iron pestle to the king,  
+declaring his deed; killed or released by him, he becomes purified.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्राह्मण-स्वर्ण-हारी तु  
@@ -3588,6 +3900,12 @@ _इदानीं क्रमप्राप्तं सुवर्णस�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/258_anivedya_nRpe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Without reporting [it] to the king, he becomes purified by observing the vow of a liquor-drinker,  
+or he should give gold equal [in weight] to himself, or pleasing Brahmins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनिवेद्य नृपे शुध्येत्  
@@ -3728,6 +4046,12 @@ _इदानीम् अत्रैव प्रायश्चित्त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/259_tapte.ayaHshayane.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should sleep on a heated iron bed together with an iron woman,  
+[or] seizing and cutting off his testicles, he should cast off his body towards the southwest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तप्ते ऽयः-शयने सार्धम्  
@@ -3985,6 +4309,12 @@ _इदानीं गुरुतल्पप्रायश्चित्त
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/260_prAjApatya~n_charet.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or, one who violates the guru's bed should observe a Prājāpatya penance for a year,  
+or a lunar penance for three months, [and] practice the Vedic Saṃhitā.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राजापत्यं चरेत् कृच्छ्रं  
@@ -4181,6 +4511,12 @@ _प्रायश्चित्तान्तरम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/261_ebhis_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever resides with these [sinners] for a year becomes equal to them.  
+One should marry a maiden of theirs who fasts and has no possessions.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एभिस् तु संवसेद् यो वै  
@@ -4419,6 +4755,12 @@ _एवं तावच् चतुर्णां गुरुतल्पप�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/262_chAndrAyaNa~n_charet.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should perform a lunar penance having slain any inferior person;  
+even a Shudra devoid of religious competence is purified by this duration of time.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चान्द्रायणं चरेत् सर्वान्  
@@ -4503,6 +4845,12 @@ _यदि त्व् अपकृष्टे ऽपि क्षत्रि
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/263_panchagavyam_pibed.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A cow-killer should drink the five products of a cow and sit self-controlled for a month,  
+sleeping in a cowshed, following cows; he is purified by the gift of a cow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्च-गव्यं पिबेद् गोघ्नो  
@@ -4807,6 +5155,12 @@ _एवं महापातकप्रायश्चित्तानि �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/264_kRchChra~n_chaivAtikRchChra~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or, composed in mind, he should observe a penitential hardship and a severe kṛcchra penance,  
+and having fasted for three nights, he should give cows with a bull as the eleventh.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृच्छ्रं चैवातिकृच्छ्रं च  
@@ -4845,6 +5199,12 @@ _तथेदम् अन्यद् गोवध एव ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/265_upapAtakashuddhiH_syAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Purification from a secondary sin can be achieved in this manner, or through a lunar penance,  
+or through milk for a month, or again by a Parāka fast.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उपपातक-शुद्धिः स्याद्  
@@ -5220,6 +5580,12 @@ _एतद् एवोपपातकान्तरेष्व् अपि �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/266_RShabhaikasahasrA_gA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For killing a Kshatriya, a man should give one thousand cows with one bull,  
+or he should observe the vow for killing a Brahmin for three years.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋषभैकसहस्रा गा  
@@ -5354,6 +5720,12 @@ _स्त्रीशुद्रविट्क्षत्रवधस्य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/267_vaishyahA.abda~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The killer of a Vaishya should observe this for a year, or give one hundred and one cows;  
+the killer of a Shudra should do this for six months, or give ten milch cows.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वैश्य-हा ऽब्दं चरेद् एतद्  
@@ -5374,6 +5746,12 @@ _स्त्रीशुद्रविट्क्षत्रवधस्य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/268_durvRttabrahmaviTxatra_shUdrayoShAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having killed unchaste women of the Brahmin, Vaishya, Kshatriya, and Shudra [classes],  
+one should give a leather bag, a bow, a he-goat, and a sheep, in order, for purification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दुर्वृत्त-ब्रह्म-विट्-क्षत्र-  
@@ -5443,6 +5821,12 @@ _इदानीम् उपपातकमध्यपाठात् स्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/269_apraduShTAM_striyaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having killed an uncorrupted woman, one should observe the vow for killing a Shudra;  
+[and for killing] a thousand animals possessing bones, or a cart-load of boneless creatures.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप्रदुष्टां स्त्रियं हत्वा  
@@ -5528,6 +5912,12 @@ _एवं तावद् व्यभिचारिण्यां दृत�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/270_mArjAragodhAnakula_maNDUkAMsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having killed a cat, an alligator, a mongoose, frogs, or birds,  
+one should drink milk for three days, or perform a quarter-kṛcchra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मार्जार-गोधा-नकुल-  
@@ -5630,6 +6020,12 @@ _एवं तावत् सामान्येनोक्त्वाध�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/271_gaje_nIlavRShAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For an elephant, five dark-blue bulls [must be given]; for a parrot, a two-year-old calf;  
+for an ass, a goat, or a sheep, a bull is to be given; for a heron, a three-year-old [calf];
+</details>
+
 <details><summary>मूलम्</summary>
 
 गजे नील-वृषाः पञ्च  
@@ -5677,6 +6073,12 @@ _एवं तावद् मार्जारादीनां प्रा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/272_haMsashyenakapikravyAj_jalasthalashikhaNDinaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having killed a swan, a falcon, a monkey, a carnivorous bird, water or land peafowl,  
+or a vulture, one should give a cow; for a non-carnivorous [bird], a female calf;
+</details>
+
 <details><summary>मूलम्</summary>
 
 हंस-श्येन-कपि-क्रव्याज्  
@@ -5724,6 +6126,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/273_urageShv_Ayaso.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For serpents, an iron staff; for a eunuch, tin and lead;  
+for a boar, a pot of ghee is to be given; for a camel, a guñjā [weight of gold]; for a horse, a cloth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उरगेष्व् आयसो दण्डः  
@@ -5771,6 +6179,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/274_tittirau_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For a partridge, a droṇa of sesame. Unable to give the gift  
+for an elephant and the like, one should perform a penitential hardship for the purification of each.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तित्तिरौ तु तिल-द्रोणं  
@@ -5827,6 +6241,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/275_phalapuShpAnnarasaja_sattvaghAte.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upon killing creatures born from fruits, flowers, food, or juices, eating ghee is [the expiation];  
+something should be given for killing a boned animal, but breath control [is required] for a boneless one.
+</details>
+
 <details><summary>मूलम्</summary>
 
 फल-पुष्पान्न-रसज-  
@@ -5910,6 +6330,12 @@ _सर्वत्रैव त्व् अनुक्तनिष्कृ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/276_vRxagulmalatAvIru_chChedane.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upon cutting down trees, shrubs, climbing vines, or creeping plants, a hundred ṛk-verses should be muttered;  
+upon the useless cutting of medicinal plants, [one should be] a milk-drinker following cows for a day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वृक्ष-गुल्म-लता-वीरु-  
@@ -5950,6 +6376,12 @@ _"इन्धनार्थं द्रुमच्छेदः" (य्ध�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/277_puMshchalIvAnarakharair_daShTadaShTaHshvoShTrAdivAyasaiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bitten by a harlot, a monkey, an ass, dogs, camels, and the like, or crows,  
+having performed breath control in water and tasted ghee, one is purified.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुंश्चली-वानर-खरैर्  
@@ -6047,6 +6479,12 @@ _एवं तावत् कर्तृत्वेन कारयितृ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/278_yan_me.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the two [mantras beginning with] 'Whatever semen of mine today', he should consecrate the spilled semen;  
+with that [semen], he should touch the space between his breasts and the space between his eyebrows using the ring finger.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यन् मे ऽद्य रेत इत्य्-आभ्यां  
@@ -6103,6 +6541,12 @@ _सुप्तस्य जाग्रतो वा यद् रेतः �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/279_mayi_teja.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having seen his own reflection cast in water, he should murmur: 'May splendour be in me';  
+[he should murmur] the Sāvitrī upon seeing an impurity, in rash conduct, and also upon speaking an untruth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मयि तेज इति छायां  
@@ -6153,6 +6597,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/280_avakIrNI_bhaved.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A chaste student who has sex with a woman becomes one who has broken his vow of celibacy;  
+having sacrificed a donkey as a victim to Nirṛti, he is purified.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवकीर्णी भवेद् गत्वा  
@@ -6267,6 +6717,12 @@ _उपपातकिमध्ये ऽवकीर्णिनो ऽपि �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/281_bhaixAgnikArye_tyaktvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having omitted the collection of alms and the fire rite for seven nights while not ill,  
+he should offer two oblations with the two [mantras beginning with] 'He who has violated his vow out of desire'.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भैक्षाग्नि-कार्ये त्यक्त्वा तु  
@@ -6328,6 +6784,12 @@ _ब्रह्मचार्य् एव ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/282_upasthAnan_tataH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then he should perform worship [of the sun] with: 'May they sprinkle me';  
+upon eating honey or meat, a penitential hardship must be performed, as well as the remaining vows.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उपस्थानं ततः कुर्यात्  
@@ -6372,6 +6834,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/283_pratikUla~N_guroH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having acted against the guru, one is purified only by propitiating [him];  
+the guru should perform three penitential hardships if [a student] dies when sent on an errand.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिकूलं गुरोः कृत्वा  
@@ -6424,6 +6892,12 @@ _शिष्यस् तु शक्तः सन्न् आज्ञात
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/283-1_kriyamANopakAre_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a Brahmin dies while a beneficial service is being performed [for him], there is no sin;  
+nor in the case of cows and bulls during concoction [of medicines], treatment with medicine, and the application of branding.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रियमाणोपकारे तु  
@@ -6474,6 +6948,12 @@ _एवं तर्हि प्रेषितव्यापत्तिव�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/284_mithyAbhishaMsino_doSho.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The fault of a false accuser is twice that of one who speaks the truth;  
+and uttering a lie, he takes on the fault of the falsely accused person.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मिथ्याभिशंसिनो दोषो  
@@ -6514,6 +6994,12 @@ _मिथ्याभिशंसिनः प्रायश्चित्त
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/285_mahApApopapApAbhyAM_yo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever falsely accuses another of a major sin or a secondary sin  
+should subsist on water for a month, murmuring [prayers] with restrained senses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 महा-पापोपपापाभ्यां यो  
@@ -6571,6 +7057,12 @@ _भैषज्यान्नप्रदानादिप्रभवे ऽ
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/286_abhishasto_mRShA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who is falsely accused should perform a penitential hardship, or  
+offer a sacrificial cake to Agni, or an animal victim to Vāyu.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अभिशस्तो मृषा कृच्छ्रं  
@@ -6624,6 +7116,12 @@ _अभिशंसकस्योक्तम् । यस् त्व् अ
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/287_aniyukto_bhrAtRjAyAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Going to a brother's wife without being commissioned, he should perform a lunar penance;  
+having had intercourse with a menstruating woman, he is purified after three nights by consuming ghee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनियुक्तो भ्रातृ-जायां  
@@ -6755,6 +7253,12 @@ _किं चाह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/288_trIn_kRchChrAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who sacrifices for an outcaste, or who performs malevolent sorcery, should perform three penitential hardships;  
+one who repudiates the Veda or abandons one who sought refuge, eating barley for a year [is purified].
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रीन् कृच्छ्रान् आचरेद् व्रात्य-  
@@ -6877,6 +7381,12 @@ _इदानीं व्रात्ययाजकस्याभिचरत
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/289_goShThe_vasan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Dwelling in a cowshed as a celibate student for one month on a milk vow,  
+devoted to murmuring the Gāyatrī, one is purified from accepting gifts from the unworthy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गोष्ठे वसन् ब्रह्म-चारी  
@@ -7605,6 +8115,12 @@ _इदानीं शूद्राद् अन्यस्माद् व�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/290_prANAyAmI_jale.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who rides in an ass-cart or a camel-cart,  
+one who bathes naked, eats naked, or has sex with a woman by day, [is purified] having bathed in water and practiced breath control.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राणायामी जले स्नात्वा  
@@ -7650,6 +8166,12 @@ _अधुना प्रकृतम् अनुसरामः । महा
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/291_guruM_hunkRtya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Addressing a guru with 'hum' or 'thou', or having conquered a Brahmin in debate,  
+or binding him with a cloth, one should fast for a day after promptly appeasing him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गुरुं हुं-कृत्य त्वं-कृत्य  
@@ -7695,6 +8217,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/292_vipradaNDodyame_kRchChras.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For raising a stick against a Brahmin, a penitential hardship [is prescribed], but a severe kṛcchra penance for striking him;  
+a most severe kṛcchra penance for drawing blood, and a penitential hardship for internal contusion.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विप्र-दण्डोद्यमे कृच्छ्रस् त्व्  
@@ -7878,6 +8406,12 @@ _यदि तु वधबुद्ध्यैव क्रोधाद् ब
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/293_desha~N_kAlaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Considering carefully the place, time, age, capacity, and sin,  
+an expiation should be determined wherever an atonement has not been stated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशं कालं वयः शक्तिं  
@@ -7958,6 +8492,12 @@ _सर्वत्रैव प्रायश्चित्तप्रकर
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/294_dAShIkumbham_bahirgrAmAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+His female slave's water jar should be cast out outside the village by his relatives,  
+and they should exclude that fallen person from all religious acts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दाषी-कुम्भं बहिर्-ग्रामान्  
@@ -8022,6 +8562,12 @@ _एवं तावद् उक्तनिष्कृतीनाम् अ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/295_charitavrata_AyAte.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he returns having performed the vow, they should bring a new jar;  
+and they should not despise him, and they should associate with him in every way.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चरित-व्रत आयाते  
@@ -8076,6 +8622,12 @@ _यद् वा त्यक्तो ऽसौ पश्चात्ताप
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/296_patitAnAm_eSha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+This very rule has been declared for fallen women:  
+dwelling near the house should be given [to her], food, clothing, along with protection.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पतितानाम् एष एव  
@@ -8125,6 +8677,12 @@ _यश् चैष घटापवर्जनादिको विधिर�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/297_nIchAbhigamana~N_garbha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Intercourse with a base-born man, abortion, and injury to the husband:  
+these are indeed causes of outcasting especially for women.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नीचाभिगमनं गर्भ-  
@@ -8175,6 +8733,12 @@ _<u>ननु</u> काः पतितास् ता यासाम् अ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/298_sharaNAgatabAlastrI_hiMsakAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should never associate with killers of those who sought refuge, children, or women,  
+even when they have observed the vow, nor with ungrateful persons.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शरणागत-बाल-स्त्री-  
@@ -8219,6 +8783,12 @@ _यथैव च नीचाभिगमनादिषु स्त्री�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/5_prAyashchitta-prakaraNam/299_ghaTe.apavarjite.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the jar has been discarded, he, standing among his relatives, should give fodder to cows  
+first; for an act of hospitality is due to one honoured by cows.
+</details>
+
 <details><summary>मूलम्</summary>
 
 घटे ऽपवर्जिते ज्ञाति-  

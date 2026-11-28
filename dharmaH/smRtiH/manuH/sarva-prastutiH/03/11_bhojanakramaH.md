@@ -11,6 +11,11 @@ title = "११ भोजनक्रमः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/113_itarAn_api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+113	Even to others, personal friends and so forth, who have come to his house out of affection, he may give food, garnished (with seasoning) according to his ability, (at the same time) with his wife.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Others also, friends and the rest, that may come to his house out of affection, he should feed on food specially prepared, to the best of his ability, together with his wife.—(113)
@@ -66,11 +71,6 @@ may arrive at the time.’
 **इतरान्** इति । उक्तक्षत्रियादिव्यतिरिक्तान् सखिबन्धुसहाध्यायिप्रभृतीन् **प्रीत्या** हेतुभूतया **गृहम् आगतान् अन्नं यथाशक्ति **संस्कृत्य भार्या भोजनकाले **भोजयेत् **। आत्मनो ऽपि कालः “अवशिष्टं तु दम्पती” इति वक्ष्यमाणत्वात् । गुरोस् तु कालान्वभिधानप्रभुत्वेन स्वायत्तकालत्वात् ॥ ३.११३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-113	Even to others, personal friends and so forth, who have come to his house out of affection, he may give food, garnished (with seasoning) according to his ability, (at the same time) with his wife.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सम्प्रीत्या कारणेनापि ज्ञातीनां भार्याभोजनकालोपदेशस् तद् अपि विद्यागुरोस् तु नोच्यते । भोजनकालस्वातन्त्र्यात् तस्योत्तमत्वाच् च उत्तमस्य । यथोक्तम् (?) "उत्तमेषूत्तमं कुर्यात्" (म्ध् ३.१०७) इति ।
@@ -88,6 +88,11 @@ may arrive at the time.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/114_suvAsinIH_kumArIsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+114	Without hesitation he may give food, even before his guests, to the following persons, (viz.) to newly-married women, to infants, to the sick, and to pregnant women.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Newly married girls, maidens, sick persons and pregnant women,—these he should, without hesitation, feed immediately after the guests.—(114)
@@ -166,11 +171,6 @@ relations, paternal and maternal, and also persons seeking for food, he shall fe
 **सुवासिनीर्** इति । जीवच्छ्वशुरपितृकाः स्त्रियः **कुमार्य्**आतुर**गर्भिणीश् च **अतिथ्यनुगतान् एवाविलम्बमानो **भोजयेत् **अग्रत एव (इति) पाठे अतिथिभ्यः पूर्वम् एव ॥ ३.११४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-114	Without hesitation he may give food, even before his guests, to the following persons, (viz.) to newly-married women, to infants, to the sick, and to pregnant women.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सत्य् अर्थित्वे तेषां **सुवासिन्यादीनाम् अन्वग् एव** भोजनम् । असत्य् अर्थित्वे तेषाम् असम्भवे वा कुमारादयो यथाकामम् अश्नीयुः ।
@@ -192,6 +192,11 @@ relations, paternal and maternal, and also persons seeking for food, he shall fe
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/115_adattvA_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+115	But the foolish man who eats first without having given food to these (persons) does, while he crams, not know that (after death) he himself will be devoured by dogs and vultures.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The foolish man, who eats before giving food to these, does not understand, that, in thus eating, he is himself devoured by dogs and vultures.—(115)
@@ -241,11 +246,6 @@ been fed, he eats sin, and after death, he goes to hell and is born as a feeder 
 **अदत्वेति** । **एतेभ्यो** भृत्यपर्यन्तेभ्य अतिथिभ्यो **ऽदत्वा **यो व्यतिक्रमदोषानभिज्ञः **पूर्वं भुङ्क्ते स भुञ्जानः** एतत् फलभूतं मरणसमन्तरप्राप्तम् आत्मनः **श्वगृध्र**खादनं **न जानाति** ॥ ३.११५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-115	But the foolish man who eats first without having given food to these (persons) does, while he crams, not know that (after death) he himself will be devoured by dogs and vultures.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यथा कथञ्चित् प्रतिषिद्धार्थं निन्देयम्, न निवृत्त्यर्था । स च पुरुषार्थ इत्य् अतो युक्तो ऽयम् उपदेशस् तत्सिद्धये ।
@@ -263,6 +263,11 @@ been fed, he eats sin, and after death, he goes to hell and is born as a feeder 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/116_bhuktavatsv_atha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+116	After the Brahmanas, the kinsmen, and the servants have dined, the householder and his wife may afterwards eat what remains.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After the Brāhmaṇas, his own people and servants have dined,—the husband and wife should afterwards eat what is left.—(116)
@@ -325,11 +330,6 @@ rest.’
 **भुक्तवत्स्व्** इति । अतिथ्यादिज्ञातिसम्बन्धेषु दासेषु कृतभोजनेषु ततो ऽन्नावशिष्टं जायापती पश्चाद् अश्नीयाताम् ॥ ३.११६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-116	After the Brahmanas, the kinsmen, and the servants have dined, the householder and his wife may afterwards eat what remains.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 स्वे गर्भदासादयः । भृत्यवेतनिनः चोद्यन्ते । कस्य पुनर् हेतोः । गृहस्थस्य इयान् आत्मसंयमोपदेशो महता प्रकरणेन क्रियत इत्य् उच्यते । कथम् । नायम् एवात्मसंयमज्ञः प्रयत्नेन ।
@@ -347,6 +347,11 @@ rest.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/117_devAn_RShIn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+117	Having honoured the gods, the sages, men, the manes, and the guardian deities of the house, the householder shall eat afterwards what remains.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having worshipped the gods, sages, men, the Pitṛs and the household deities, the Householder shall eat afterwards what remains.—(117)
@@ -424,11 +429,6 @@ gods, the dependents, the parents and the teacher; such is the prescribed law.�
 **देवान्** इति । गृहे भवा **गृह्या **इत्यन्तेन भूतयज्ञ उक्त इति । वक्ष्यमाणप्रत्यवायकथनार्थो ऽयम् अनुवादः ॥ ३.११७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-117	Having honoured the gods, the sages, men, the manes, and the guardian deities of the house, the householder shall eat afterwards what remains.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पूवश्लोकोक्तम् अप्य् एतत् गृहस्थस्य पश्चाद् भोजनं पुनर् उच्यते । कथं नामायं प्रोषितो ऽपि सन् तस्मिन् काले भुञ्जानो लुप्तपञ्चमहायज्ञः स्यात् । अथ वा प्रकरणोपसंहारार्थो ऽयं श्लोकः । पूर्वस् त्व् अवशिष्टभोजनार्थः । एवं च सत्य् एतं निन्दावचनम् अशेषं प्रकरणोपसंहारापेक्षं न्याय्यम् ।
@@ -446,6 +446,11 @@ gods, the dependents, the parents and the teacher; such is the prescribed law.�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/118_aghaM_sa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+118	He who prepares food for himself (alone), eats nothing but sin; for it is ordained that the food which remains after (the performance of) the sacrifices shall be the meal of virtuous men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who cooks for himself eats only sin; for the eating of good mem has been described as the eating of the remains of sacrifices.—(118).
@@ -535,11 +540,6 @@ without having repeated mantras, eats pus and blood; he who eats without having 
 <details><summary>गोविन्दराजः</summary>
 
 **अघम्** इति । **य** आत्मार्थम् एव **पचति** न देवादिभ्यो ददाति **स **पापहेतुतात् पापम् एव **केवलं भुङ्क्ते** नान्नलेशम् अपि यस्मात् यद् **एतत्** पाकयज्ञशिष्टाशनं साधूनाम् **अन्नम्** उपदिश्यते ॥ ३.११८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-118	He who prepares food for himself (alone), eats nothing but sin; for it is ordained that the food which remains after (the performance of) the sacrifices shall be the meal of virtuous men.
 </details>
 
 <details><summary>भारुचिः</summary>

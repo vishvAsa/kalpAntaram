@@ -3,218 +3,142 @@ title = "Errata"
 
 +++
 
-ERRATA 
+[[P1367]]
+## ERRATA
 
-26 
+(A few misprints due to the loss of such loose parts as anusvāras have not been specified here, since they can be easily detected)
 
-noto 57 
+Page 4, note 7: read हन्त्यासत् for हन्त्यसत्
 
-61 
+Page 26, note 57: read दस्यून् for दस्यून
 
-168 
+Page 54, note 126: read कन्यायां for कन्यायायां
 
-(A few misprints due to the loss of such loose parts as anusvāras have not been specified here, since 
+Page 56, note 132: read सवर्णो for सवणा
 
-they can be easily detected ) Pago Line or note 
+Page 57, line 3: read 'pratiloma ones'
 
-noto 7 
+Page 58, note 138: read संकरजातीना for संकरजीताना
 
-road OĦT for FPTH 
+Page 61, note 149: read सर्वे for सव
 
-read दस्यून् for दस्यून note 126 
+Page 70, note 170: read '172' for '202'
 
-read कन्या for कन्यायापा note 132 
+Page 100, line 4: read '*Saudhanvana*'
 
-read सवर्णों for सषणा line 3 
+Page 117, note 252: read दुर्वेदा for दुवेदा
 
-read 'pratiloma ones note 138 
+Page 126, note 276: read सर्वेषां न निषिध्यते
 
-read \#Tratat for Harstarar noto 149 
+Page 151, note 345: omit 'for कलिवर्ज्य texts vide Appendix'
 
-read सर्वे for सघ 70 note 170 
+Page 152, line 5: read 'kratvartha' for 'kvatvartha'
 
-road 172' for .202' 100 line 4 
+Page 152, note 351: read वचनान्नात्र for वचन्नात्र
 
-read . Saudhanvana' 117 note 252 
+Page 168, note 391: read 'N. K. Dutt' for 'N. P. Dutt'
 
-read दुर्वेदा for दुवेदा 126 boto 276 
+Page 172, note 402: read शवं तत्स्पृष्टिनं
 
-read prat a ferrara 151 note 345 
+Page 186, note 435: read यत्स्यात्स्वामी तस्य
 
-omit "for roof texts vide Appendix* 152 line 6 
+Page 236, in last line but one: read 'rites' for 'rights'
 
-read “kratvartha' for kvatvartha' note 351 
+Page 241, line 6: read 'Phālgunīs'
 
-read অদমাণ for খান note 391 
+Page 249, note 565: read चूडामणिश्चेदीश-
 
-road N. K. Dutt' for 'N. P. Dutt' 172 Dote 402 
+Page 266, line 13: read 'Raghu' for 'Aja'
 
-read To regent note 435 
+Page 266, line 18: read 'Hartlib' for 'Hartile'
 
-read 9 Terme 236 in last line but ono read.rites' for ' rights' 241 line 6 
+Page 271, note 623: read वेदा वा एते
 
-read ' Philgunis' 249 poto 565 
+Page 285, note 666: read 'on sūtras 6–7 says'
 
-read Teraforata 266 line 13 
+Page 293, note 691: read 'वसिष्ठ 8. 17' for 'वसिष्ठ 8. 9'
 
-read 'Ragbu' for ' Aja' line 18 
+Page 308, note 729: read प्रादेशान्नाधिका
 
-read · Kartlib' for 'Hartile' 271 pote 623 
+Page 322, note 766: read त्वाशिषत्पितेति
 
-read ear at gā pote 666 
+Page 359, note 875, line 7: read बृहस्पतिः
 
-read 'on sutras 6-7 says' 293 note 691 
+Page 373, line 14: read 'vratāni' for 'vratam'
 
-read for 8. 17' for THX 8.9 908 note 729 
+Page 391, line 31: read 'notes 2218a and 2219' for 'notes 2321–22'
 
-read Sree GT 322 note 766 
+Page 395, note 938: read सुन्दरकाण्ड 59. 35–36
 
-read cuiufqafat 369 poto 875 line 7 road Tera: 
+Page 432, note 1025, last line: read गीतश्चायमर्थोऽङ्गिरसा
 
-lino 14 
+Page 453, note 1071: read -शरीरारम्भकतया
 
-read vratani' for 'vraten' line 31 
+Page 463, note 1092: read 'III. 4. 6' for 'III. 4. 15'
 
-road 'notes 22181 and 2219' for notor 
+Page 489, note 1142: read हारीतो for हारतो
 
-2321-22' 395 noto 938 
+Page 489, note 1142: read बालम्भट्टी
 
-rond grave 59. 35-36 poto 1026 last line read faTyRO TFT Dote 1071 
+Page 529, note 1235: read पशुभ्यः
 
-read -TITET 463 note 1092 
+Page 559, note 1299: read सवर्णासु
 
-read III. 4. 6' for 'III. 4. 15° 489 noto 1142 read हारीतो for हारतो 
+[[P1368]]
+Page 597, line 20: read 'Yuddhakāṇḍa 117. 27' for 'the same kāṇḍa 116. 28'
 
-186 
+Page 646, note 1519, last line: read 'महीपाश्चिन्तयन्त्यर्थजातम्'
 
-285 
+Page 649, note 1527: read हिंसिषुरीश्वराः
 
-373 391 
+Page 657, note 1555: remove the bracket before ग्रा and after 108
 
-432 453 
+Page 733, note 1746: read '102. 30 and 103. 15' for '103. 30 and 104. 15'
 
-529 559 
+Page 757, note 1810: read सत्त्वशुद्धौ
 
-note 1235 note 1299 
+Page 757, note 1810: read विषयविज्ञानं
 
-road qera read fronte 
+Page 761, note 1821: read मृण्मये भोक्तव्यम् । आभीतं
 
-1368 
+Page 791, line 13: read 'a kṣatriya'
 
-History of Dharmatasira 
+Page 813, note 1933: read 'would be'
 
-Pago 597 
+Page 854, note 2015: read सुवर्णं दक्षिणा
 
-646 519 867 
+Page 870, line 22: read 'of Prayāga'
 
-733 
+Page 896, note 2088: read एष एव विधिर्दृष्टः
 
-757 
+Page 983, line 9: read 'adhvaryu' for 'hotṛ'
 
-761 
+Page 1008, note 2270: read -द्रवेत् for -व्रजेत्
 
-791 813 
+Page 1032, note 2322: read 'aśvattha'
 
-864 870 896 983 1008 1032 1034 1040 1066 1070 1077 1094 
+Page 1034, note 2328: read स्तम्बयजुषो
 
-Lino or noto line 20 
+Page 1040, line 9: read 'ājyasthālī' for 'ayasthālī'
 
-road. Yuddhakanda 117. 27' for the 
+Page 1066, note 2383: read अध्वर्युश्चान्यतरत्
 
-pame kaṇda 116. 28° pote 1519 last line read ' TARTU 
+Page 1070, note [[2993|2393]]: read 'pratihartṛ'
 
-note 1527 read हिसिएरीथरा " note 1653 tömove the bracket before y and 
+Page 1077, note 2408, line 4: read त्वष्टृ
 
-after 108 note 1746 read 102.,30 and 103, 16' for 
+Page 1094, note 2455: read अध्वर्य उपह्वयस्व
 
-103. 30 and 104. 15' noto 1810 
+Page 1106, note 2477: read अग्ने अयनं
 
-read FREE 
+Page 1186, line 10: read '[[succintly|succinctly]] indicates'
 
-" F ATA noto 1821 reat eण्मये भोक्ताम् । भामीसं lino 13 
+Page 1187, line 26: insert 'VIII. 72. 7' after VIII. 72. 8
 
-read .a ksatriya note 1933 road would be note 2016 read B খি line 22 
+Page 1191, note 2616: read in line 15 अस् and मघवन्निन्द्र in line 16
 
-road of Prayaga' Dote 2088 rend gege fefuge: line 9 
+Page 1206, note 2636: read पानं for यानं
 
-road 'adhvaryu' for 'hotr' note 2270 read -द्रवेत् for -वजेत् note 2322 road asvattha' note 2328 road raget line 8 
+Page 1227, line 18: read 'to Aditi'
 
-road djyasthair' for 'ayasthalı' note 2383 read andareara note 2993 
-
-read 'pratihartr note 2408 line 4 road more noto 2455 road se noto 2477 
-
-resd 17 line 10 
-
-read 'succintly indicates' line 26 
-
-insert VIII. 72. 7' after VIII. 72.8 note 2616 
-
-road in line 15 eund out 
-
-in line 16 pote 2636 
-
-read पान for यानं line 18 
-
-read 'to Aditi? lino 13 
-
-read.parel' 
-
-1106 
-
-1186 1187 1191 
-
-1206 1227 1253 
-
-लाल बहादुर शास्त्री राष्ट्रीय प्रशासन अकादमी, पुस्तकालय Lal Bahadur Shastri National Academy of Administration, Library 
-
-मसुरी MUSSOORIE. 
-
-यह पुस्तक निम्नांकित तारीख तक वापिस करनी है। This book is to be returned on the date last stamped. 
-
-दिनांक Date 
-
-उधारकर्ता की संख्या Borrower's 
-
-No. 
-
-दिनांक Date 
-
-उधारकर्ता की संख्या Borrower's 
-
-No. 
-
-GL294.5926 KAN V.2 PT.2 
-
-102315 
-
-102315 
-
-अवाप्ति संख्या 244.5926 
-
-Acc. No:+*2*3 वर्ग संख्या 
-
-पुस्तक संख्या Class No. Ron Book No. लेखक Author_Vanass Kame__ शीर्षक 
-
-Title_history of Dharmasastra, 294.5926 
-
-LIBRARY 
-
-LAL BAHADUR SHASTRI NATIONAL ACADEMY OF ADMINISTRATION Pt.2. 
-
-MUSSOORIE 
-
-V. 2 
-
-Accession No........10 
-
-Books are issued for 15 days only but may have to be recalled earlier if urgently required. An overdue charge of 25 paise per day per volume will be charged. Books may be renewed on request, at 
-
-the discretion of the Librarian. 4. Periodicals, Rare and Reference books 
-
-may not be issued and may be 
-
-consulted only in the Library 5. Books lost, defaced or injured in any 
-
-way shall have to be replaced or its double price shall be paid by the 
-
-borrower. HELP TO KEEP THIS BOOK FRESH, CLEAN & MOVING
+Page 1253, line 13: read 'navel'

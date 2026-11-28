@@ -12,6 +12,12 @@ title = "१० स्वामि-पाल-विवाद-प्रकरण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/10_svAmi-pAla-vivAda-prakaraNam/159_mAShAn_aShTau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A female buffalo that causes destruction of crops  
+is to be fined eight māṣas; a cow, half of that; a goat or a sheep, half of that.
+</details>
+
 <details><summary>मूलम्</summary>
 
 माषान् अष्टौ तु महिषी  
@@ -82,6 +88,12 @@ _यदि तु पशुपालापराधात् स्वाम्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/10_svAmi-pAla-vivAda-prakaraNam/160_bhaxayitvopaviShTAnAM_yathoktAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For animals that sit down after eating, the fine is double that stated;  
+the same applies to them in pasture land also; a donkey or a camel is equal to a female buffalo.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भक्षयित्वोपविष्टानां  
@@ -159,6 +171,12 @@ _राजदण्डवच् च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/10_svAmi-pAla-vivAda-prakaraNam/161_yAvat_sasyaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+As much crop as is destroyed, that much shall be the profit for the owner of the field;  
+and the herdsman is to be beaten, but the cattle-owner deserves the fine mentioned before.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यावत् सस्यं विनश्येत् तु  
@@ -228,6 +246,12 @@ _क्षेत्रस्वामिने तद् देयं पशु�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/10_svAmi-pAla-vivAda-prakaraNam/162_pathi_grAmavivItAnte.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+On a road, on the edge of a village pasture, or in an unfenced field, no fault is found  
+if unintentional; but for intentional grazing, one deserves punishment like a thief.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पथि ग्राम-विवीतान्ते  
@@ -329,6 +353,12 @@ _उक्तग्रामसमीपादिव्यतिरेकेण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/10_svAmi-pAla-vivAda-prakaraNam/163_mahoxotsRShTapashavaH_sUtikAgantukAdayaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Large bulls, consecrated animals, cows recently delivered, stray cattle, and the like,  
+which have no keeper, are to be released, as also those overtaken by acts of God or the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 महोक्षोत्सृष्ट-पशवः  
@@ -413,6 +443,12 @@ _पशुविशेषे ऽपवादम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/10_svAmi-pAla-vivAda-prakaraNam/164_yathA.arpitAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as the animals were delivered, so the herdsman must return them in the evening;  
+and one who has received wages must be made to make good those that have died or been lost through negligence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा ऽर्पितान् पशून् गोपः  
@@ -514,6 +550,12 @@ _अयं च स्वामिपालयोर् अन्योन्य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/10_svAmi-pAla-vivAda-prakaraNam/165_pAladoShavinAshe_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When loss occurs through the fault of the keeper, however, a fine is ordained for the keeper:  
+twelve and a half paṇas, and the property itself to the owner.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पाल-दोष-विनाशे तु पाले  
@@ -590,6 +632,12 @@ _राजन्य् अनिवेदितस्य पूर्वोक�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/10_svAmi-pAla-vivAda-prakaraNam/166_grAmyechChayA_goprachAro.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Pasturage for cattle exists by the wish of the villagers or under the authority of the king of the land.  
+A twice-born may take grass, fuel, and flowers from everywhere at all times.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्राम्येच्छया गो-प्रचारो  
@@ -652,6 +700,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/10_svAmi-pAla-vivAda-prakaraNam/167_dhanuHshatam_parINAho.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The space between a village and the fields around it should be an expanse of one hundred bow-lengths;  
+it should be two hundred for a market town, and four hundred for a city.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धनुः-शतं परीणाहो  

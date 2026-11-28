@@ -12,6 +12,11 @@ title = "०५ आतिथ्यम्"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/029_AsanAshana-shayyAbhir_adbhir.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+029	No guest must stay in his house without being honoured, according to his ability, with a seat, food, a couch, water, or roots and fruits.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 No guest shall dwell in his house without being honoured, to the best of his ability, with seat, food, bed, or with water, fruits and roots.—(29).
@@ -70,11 +75,6 @@ himself alone; one shall not needlessly kill animals;—no Brāhmaṇa should re
 **आसनाशनशय्याभिर्** इति । आसनादनादिभिर् यथाशक्ति अतिथिं पूजयेत् इत्य् उक्त्वा अतिथ्यनुवादो महायज्ञप्रसङ्गेन वक्ष्यमाणः पाखण्ड्यादिनिषेधार्थः ॥ ४.२९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-029	No guest must stay in his house without being honoured, according to his ability, with a seat, food, a couch, water, or roots and fruits.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पाषण्डापवादार्थम् अतीतार्थस्य पुनर्वचनम् । अतस् तत्प्रतिषेधार्थम् इदम् आरभ्यते ।
@@ -92,6 +92,11 @@ himself alone; one shall not needlessly kill animals;—no Brāhmaṇa should re
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/030_pAShANDino_vikarmasthAn.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+030	Let him not honour, even by a greeting, heretics, men who follow forbidden occupations, men who live like cats, rogues, logicians, (arguing against the Veda,) and those who live like herons.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not honour, even with speech, impostors, those who follow improper occupations, those who are cat-like in their behaviour, hypocrites, logicians, and those who behave like herons.—(30)
@@ -161,11 +166,6 @@ laws laid down in the Śruti and the Smṛti, relating to the division of castes
 तथा चाह **पाखण्डिन** इति । रक्ताम्बरादिलिङ्गधारिणः परवृत्तिजीवनरतान् बिडालवृत्तिकान् बकवृत्तिकान् वक्ष्यमाणलक्षणान् शठान् अश्र्द्दधानान् वेदबाह्यतर्कव्यवहारिणो **वाङ्मात्रेणापि न **पूजयेत् इति पूजापूर्वकान्नदानादिनिषेधो दानमात्रं तु शक्तितो ऽपचमानेभ्यो दातव्यम् इति वक्ष्यति ॥ ४.३० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-030	Let him not honour, even by a greeting, heretics, men who follow forbidden occupations, men who live like cats, rogues, logicians, (arguing against the Veda,) and those who live like herons.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **पाषण्ड**शब्दो हि यदा निन्दार्थः कल्प्यते । यथान्यत्र न पाषण्डजना कान्त इत्य् एवमादि तदा **विकर्मस्था**दिशब्दास् तत्पर्यायाः सन्तः निन्दातिशयार्था लोकवद् वेदं च प्रयोजनत्वाद् अनुवादनकल्पनायाम् एषाम् अपुनरुक्तविभक्तन्यायं चैतद् उभयम् । पूर्वो गोबलीवर्दन्यायपक्षो ऽपि (म्?) अप्रतषेधादरार्थो विज्ञेयाः । यदा पुनराय (?) पाषण्डिशब्दो लिङ्गिपर्यायस् तदा तस्योभयथाभावात् तद्विशेषणं युक्तम् इदम् । ये ये **विकर्मस्थाः पाषण्डिनो** लिङ्गिनस् तान् **वाङ्मात्रेणापि नार्चयेत्** । नितराम् एतस्यां च व्याख्यामा (अ. व.) याम् उत्तरो ऽपि कर्मस्थप्रपञ्चः प्रतिषेधादरार्थः पूर्ववद् गमनीयः । कविकर्मस्थत्वहेत्वप्रपञ्चो वा । कथं बैडालव्रतिकान् (त्स्व्? उन्च्लेअर्) वत् (?) परातिसन्धानार्थम् आश्रमद्वारेण प्रच्छन्नोपधा मार्जारलिङ्गिनः नरा (?) धिया । यद्य् अपि चेदं शृण्वन्तश् च तदर्थहेतुकानि । तत्स्तुत्यै (?) । आगमलोकायतिकादयः (?) बकवृत्तयः च भन्नभन्न्कारस् (?) तदेकधा कारणे भेदोपवर्णनार्थम् उत्तरः प्रपञ्चो विज्ञेयः । तत्प्रयोजनं च विजितविकर्मस्थभेदस्य प्रयत्नतस् तत्परिहारः । यदि चैते अश्रोत्रियास् तत एषाम् अप्राप्तप्रतिषेधानयुक्ता (?) यतः श्रोत्रियत्वेन प्राप्तातिथ्यानाम् अनेन कर्मणा यः प्रतिषेधो युक्तारम्भः । किम् अयम् अत्यन्तप्रतिषेध एव तेभ्यो दानस्य नेत्य् आहात्यन्तप्रतिषेधे निःशक्तितो वचमानेभ्य (?) इत्य् एतद् विरुध्येत । तथा च प्रदर्शयिष्यामः । प्रकृतस्य प्रतिषेधो युक्तः । प्रकृतं च सायम् अतिथिभ्यां तदागमनं पूर्वश्लोकेनास्य (आह?) कश्चित् । "गृहे वसेच् छक्तितो ऽनर्चितो ऽतिथिः" इति वचनात् प्रातर्दानम् । तर्हि ननु प्राप्तम् एषाम् अप्रतिषेधात् सर्वत्रेति यत्नत इदम् आरभ्यते । व्रतस्नातो ऽपि (??)
@@ -183,6 +183,11 @@ laws laid down in the Śruti and the Smṛti, relating to the division of castes
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/031_vedavidyA-vrata-snAtA~n_shrotriyAn.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+031	Those who have become Snatakas after studying the Veda, or after completing their vows, (and) householders, who are Srotriyas, one must worship by (gifts of food) sacred to gods and manes, but one must avoid those who are different.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those who have become Snatakas after studying the Veda, or after completing their vows, (and) householders, who are Srotriyas, one must worship by (gifts of food) sacred to gods and manes, but one must avoid those who are different.—(31)
@@ -256,11 +261,6 @@ good character, a Vedic Scholar cognisant of Brahman, young and endowed with lea
 <details><summary>गोविन्दराजः</summary>
 
 **वेदविद्याव्रतस्नातान् **इति । **वेदविद्याव्रतस्नाताण्** इत्य् अनेन वेदस्नातकव्रस्नातक-विद्याव्रतस्नातकत्वेन त्रिप्रकारा अपि स्नातका गृह्यन्ते । यथा हारीतः**: **“समाप्य वेदं असमाप्य व्रतानि यः स्नाति स वेदस्नातकः, असमाप्य वेदं समाप्य व्रतानि यः स्नाति स व्रतस्नातः । उभयं समाप्य यः स्नाति स विद्याव्रतस्नातकः” इति । तांस् तथा स्नतकग्रहनेन गृहीतान् अप्य् अतिशयार्थित्वेन पृथङ्निर्दिष्टान् **श्रोत्रियान्** गृहस्थान् **हव्यकव्येन पूजयेत्** । एतद्**विपरीतांस्** **तु वर्जयेत्** इतीदं पाखण्ड्यादिनिषेधदार्ढ्यम्, श्रोत्रियादीनां पुनर् अभिधानम्, पूजादिपूर्वकम् अन्तं पाखण्ड्याधिभ्यो न देयम् ॥ ४.३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-031	Those who have become Snatakas after studying the Veda, or after completing their vows, (and) householders, who are Srotriyas, one must worship by (gifts of food) sacred to gods and manes, but one must avoid those who are different.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -12,6 +12,11 @@ title = "२८ निवृत्तिः"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/257_maharShi-pitR-devAnA~N_gatvAnRNyam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+257	When he has paid, according to the law, his debts to the great sages, to the manes, and to the gods, let him make over everything to his son and dwell (in his house), not caring for any worldly concerns.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having paid off, according to law, the debts owing to the Great Sages, to the Pitṛs and to the Gods, he shall consign everything to his son and remain fixed in neutrality.—(257)
@@ -51,11 +56,6 @@ What is meant is the^(‘)renunciation’ of only ordinary voluntary acts done f
 **महर्षिपितृदेवानाम् **इति । **महर्षिपितृदेवानां **स्वाध्यायप्रजायज्ञसम्पादनेन यथाशास्त्रम् ऋणसंशुद्धिं कृत्वा ततः पुत्रे सर्वां गृहधुरं च सन्न्यस्य धनार्जनात् दानदीनाश्रितः सन् “वाच्य् एके जुह्वति प्राणम्” (४.२३) इत्यादिनीत्या ज्ञानबलान् महायज्ञादीन् सम्पादयन् गृह एव क्वचित् कालं वसेत् ॥ ४.२५७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-257	When he has paid, according to the law, his debts to the great sages, to the manes, and to the gods, let him make over everything to his son and dwell (in his house), not caring for any worldly concerns.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ऋष्यादीनाम् अध्ययनात् प्रेत्य पितृकर्मज्योतिष्टोमदियज्ञानुष्ठानेनानृण्यं **गत्वा** कृतकरणीयः स द्वितीयम् आयुर्भागं परिपक्वविज्ञानतया पुत्रासक्तव्यापारो गृहस्थः कश्चित् कालं **माध्यस्थ्यम् आश्रित्य** ग्रामे एव **वसेत्** । आश्रयम् असमुच्चयपक्ष्ये चैतद् एवं विज्ञेयम् । न त्व् अन्ययोः पक्षयोर् इति । एवं च परमविभागापन्नः सन् ।
@@ -73,6 +73,11 @@ What is meant is the^(‘)renunciation’ of only ordinary voluntary acts done f
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/258_ekAkI_chintayen.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+258	Alone let him constantly meditate in solitude on that which is salutary for his soul; for he who meditates in solitude attains supreme bliss.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Alone, in solitude, he shall meditate upon what is good for himself. By meditating in solitude, he attains the highest good.—(258)
@@ -102,11 +107,6 @@ By means of this practice and meditation, he obtains the highest good—called �
 <details><summary>गोविन्दराजः</summary>
 
 तथा च वसन् **एकाकीति** । निर्जने प्रदेशे **एकाकी **सन् उपनिषदुक्तोपासनादिभिः परमात्मस्वरूपनिरूपणम् आत्महितं चिन्तयन् प्रकृष्टं **श्रेयो **मोक्षाख्यं प्राप्नोति ॥ ४.२५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-258	Alone let him constantly meditate in solitude on that which is salutary for his soul; for he who meditates in solitude attains supreme bliss.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -12,6 +12,11 @@ title = "२४ धर्मः"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/238_dharmaM_shanaiH.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+238	Giving no pain to any creature, let him slowly accumulate spiritual merit, for the sake (of acquiring) a companion to the next world, just as the white ant (gradually raises its) hill.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Without causing pain to any beings, he shall, for the purpose of obtaining a companion in the other world, accumulate spiritual merit, slowly; just as the white ants accumulate the ant-hill.—(238)
@@ -57,11 +62,6 @@ See Comparative notes for [Verse 4.234].
 **धर्मं शनैर्** इति । सर्वप्राणिपीडां परिहरेत् परलोकोपकारार्थं मृद्राशिं यथा पिपीलिकाः सञ्चिन्वन्ति एवं धर्मं **शनैः** शनैः अर्जयेत् ॥ ४.२३८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-238	Giving no pain to any creature, let him slowly accumulate spiritual merit, for the sake (of acquiring) a companion to the next world, just as the white ant (gradually raises its) hill.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 कारणं त्व् अत्र प्रसङ्ख्यानं वक्ति ।
@@ -79,6 +79,11 @@ See Comparative notes for [Verse 4.234].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/239_nA-mutra_hi.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+239	For in the next world neither father, nor mother, nor wife, nor sons, nor relations stay to be his companions; spiritual merit alone remains (with him).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There, neither father, nor mother, nor wife, nor sons, nor relations stay as companions; spiritual merit alone remains.—(239)
@@ -119,11 +124,6 @@ See Comparative notes for [Verse 4.234].
 **नामुत्रेति** । यस्मात् परलोके सहायकार्यसम्पत्त्यर्थं मातृपितृपुत्रभार्याबान्धवा न तिष्ठन्ति । अपि तु **धर्म एव केवल** उपकारार्थम् आस्ते । तस्मान् न मात्राद्यपेक्षया धर्मम् उत्सृजेत् ॥ ४.२३९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-239	For in the next world neither father, nor mother, nor wife, nor sons, nor relations stay to be his companions; spiritual merit alone remains (with him).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अतस् तदपेक्षया धनसञ्चयं न हि (?) कुर्यत् । किं तर्हि । दद्याद् एव शनैः प्रत्यहं यत् किञ्चित् । यतश् च –
@@ -143,6 +143,11 @@ See Comparative notes for [Verse 4.234].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/240_ekaH_prajAyate.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+240	Single is each being born; single it dies; single it enjoys (the reward of its) virtue; single (it suffers the punishment of its) sin.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Alone is a creature born, and alone does it cease to be; alone it enjoys its good deeds and also its evil deeds.—(239)
@@ -195,11 +200,6 @@ he dies, alone by himself does he pass through difficulties, and by himself alon
 
 **एक** इति । **एक **एव सन् प्राणी उत्पद्यते न बान्धवैः सहैव । **एक एव **म्रियते । सुकृतदुष्कृतफले च **एक एव भूक्क्ते** । अतो मात्रादीनां जननमरणदुष्कृतपीडांशभोक्तृत्वाभावात् न तदपेक्षया धर्मं जह्यात् ॥ ४.२४० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-240	Single is each being born; single it dies; single it enjoys (the reward of its) virtue; single (it suffers the punishment of its) sin.
-</details>
 </details>
 </div>
 
@@ -213,6 +213,11 @@ he dies, alone by himself does he pass through difficulties, and by himself alon
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/241_mRtaM_sharIram.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+241	Leaving the dead body on the ground like a log of wood, or a clod of earth, the relatives depart with averted faces; but spiritual merit follows the (soul).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Leaving the dead body on the ground, like a log of wood or a clod of earth, the relations depart with averted faces; spiritual merit alone follows him.—(241)
@@ -258,11 +263,6 @@ log of wood or a clod of earth; having used it for a while, they turn their back
 **मृतम्** इति । मृतस्य शरीरं काष्ठवद् अवज्ञया भूमौ परित्यज्य पराङ्मुखा **बान्धवा** गच्छन्ति न तत्सहायर्थं वर्तन्ते । **धर्मः** पुनः **तं** परलोके यान्तं पश्चाद् गच्छति॥ ४.२४१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-241	Leaving the dead body on the ground like a log of wood, or a clod of earth, the relatives depart with averted faces; but spiritual merit follows the (soul).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यतश् च । अतो न मात्राद्यर्थं –
@@ -280,6 +280,11 @@ log of wood or a clod of earth; having used it for a while, they turn their back
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/242_tasmAd_dharmam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+242	Let him therefore always slowly accumulate spiritual merit, in order (that it may be his) companion (after death); for with merit as his companion he will traverse a gloom difficult to traverse.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall, therefore, slowly accumulate Spiritual Merit, for the purpose of securing a companion; for, with Merit as his companion, the man crosses over unfordable darkness.—(242)
@@ -322,11 +327,6 @@ See Comparative notes for [Verse 4.241].
 **तस्माद्** इति । यस्माद् धर्मेण सहायेन सता दुस्तरनरकादिदुःखं तरति तस्मात् धर्मं सहायार्थं सर्वदा शनैर् जयेत् ॥ ४.२४२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-242	Let him therefore always slowly accumulate spiritual merit, in order (that it may be his) companion (after death); for with merit as his companion he will traverse a gloom difficult to traverse.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अतो न मात्राद्यर्थं धनं स्थापयेद् येनामुत्रासहायास् ते ।
@@ -348,6 +348,11 @@ See Comparative notes for [Verse 4.241].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/243_dharma-pradhAnam_puruSham.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+243	(That companion) speedily conducts the man who is devoted to duty and effaces his sins by austerities, to the next world, radiant and clothed with an ethereal body.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It speedily carries the man, who is devoted to duty and has his sins destroyed by austerities, clothed in his own (spiritual) body, to the brighter regions above.—(243)
@@ -392,11 +397,6 @@ context.
 <details><summary>गोविन्दराजः</summary>
 
 **धर्मप्रधानम्** इति । धार्मिकं **पुरुषं **कथञ्चित् प्रमादकृते च व्यतिक्रमे प्रायश्चित्तेनापगतपापं स्वतेजःपुञ्जोज्ज्वलितं विचरत्वात् ब्रह्मवद् आकाशात्मकं सन्तं प्रकृतो धर्मः क्षिप्रं **परलोकं नयति** । तस्माद् धर्मं शनैः सञ्चिनुयात् ॥ ४.२४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-243	(That companion) speedily conducts the man who is devoted to duty and effaces his sins by austerities, to the next world, radiant and clothed with an ethereal body.
 </details>
 
 <details><summary>भारुचिः</summary>

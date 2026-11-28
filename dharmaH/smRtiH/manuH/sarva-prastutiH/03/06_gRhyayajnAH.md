@@ -20,6 +20,11 @@ title = "०६ गृह्ययज्ञाः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/067_vaivAhike.agnau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+067	With the sacred fire, kindled at the wedding, a householder shall perform according to the law the domestic ceremonies and the five (great) sacrifices, and (with that) he shall daily cook his food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the marriage-fire the householder should perform the ‘gṛhya’ rites; as also the rite of the ‘five sacrifices’ and the daily cooking.—(67)
@@ -152,11 +157,6 @@ Agnihotra, to live by the prescribed professions and to avoid sexual intercourse
 **वैवाहिक** इति । अष्टकादि गृह्योक्तं **कर्म** यथाशास्त्रं वक्ष्यमाण**पञ्चयज्ञा**नुष्ठानं चाग्निसम्पाद्यं प्रात्यहिकं पाकं विवाहभवे **ऽग्नौ** गृहस्थः **कुर्वीत** ॥ ३.६७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-067	With the sacred fire, kindled at the wedding, a householder shall perform according to the law the domestic ceremonies and the five (great) sacrifices, and (with that) he shall daily cook his food.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विवाहः प्रयोजनम् अस्य सो ऽयं **वैवाहिकः** । केषाञ्चित् गृह्यकाराणाम् आहितः, केषाञ्चिद् अनाहितः । उभयेषाम् अपीदं **विधानं** तस्मिन् **कुर्वीत** **गृह्यकर्मा**ष्टकपार्वणादि **पञ्चयज्ञविधानं** वक्ष्यमाणं यत् किं च वैश्वदेवार्थं वाष्टकं प्रत्य्ग्रहम् अहः प्रभृति च । तत्र स्मार्तकर्मारम्भः । किं कारणम् । एतव् एवं प्रत्यहं कर्मानुष्ठीयते । तस्मात् –
@@ -174,6 +174,11 @@ Agnihotra, to live by the prescribed professions and to avoid sexual intercourse
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/068_pancha_sUnA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+068	A householder has five slaughter-houses (as it were, viz.) the hearth, the grinding-stone, the broom, the pestle and mortar, the water-vessel, by using which he is bound (with the fetters of sin).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the householder there are five slaughter-houses: the hearth, the grinding-stone, household implements, mortar and pestle and water-jar;—by using which he becomes stricken.—(68)
@@ -262,11 +267,6 @@ beings*; these are of five kinds: The first *slaughtering* is done by people hur
 **पञ्च सूनेति** । पचनदृषत्शूर्पोलूखलाद्याः **पञ्च गृहस्थस्य सूना** इव घातनस्थानानि यानि स्वकार्ये योजयन् पापेन सम्बध्यते । एवं चास्मात् सूनावचनात् तासां निष्कृत्यर्थम् इति च निष्कृतिवचनात् सूनादोषैर् न लिप्यत इति तद्दोषाभिधानात् अधर्महेतुत्वम् आसां तन्निष्कृत्यर्थत्वं महायज्ञानाम् इत्य् अवसीयते, शास्त्रैकगोचरत्वात् धर्माधर्मयोः । न चैवं सति महायज्ञानाम् अनित्यतापत्तिः देवतातिथिभृत्यानां ऋषयः पितरो देवता इत्य् एवमादिभिर् एषां नित्यत्वप्रतिपादनात् सन्ध्योपासनवद् उभयार्थत्वम् एषाम् ॥ ३.६८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-068	A householder has five slaughter-houses (as it were, viz.) the hearth, the grinding-stone, the broom, the pestle and mortar, the water-vessel, by using which he is bound (with the fetters of sin).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यतश् चैत एवम् अतः –
@@ -284,6 +284,11 @@ beings*; these are of five kinds: The first *slaughtering* is done by people hur
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/069_tAsA~N_krameNa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+069	In order to successively expiate (the offences committed by means) of all these (five) the great sages have prescribed for householders the daily (performance of the five) great sacrifices.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the purpose of expiating all these in their course, the five great sacrifices have been ordained by the great sages, for householders (to be performed) daily.—(69)
@@ -349,11 +354,6 @@ shall honour Gods, Pitṛs, Sages, Guests and other strangers who come to him.�
 **तासाम्** इति । **तासां **चुल्ल्यादीनां सूनानां यथाक्रमं **निष्कृत्यर्थं **तदुत्पन्नपापनिर्हरणार्थं **प्रत्यहं पञ्च महायज्ञाः **गृहस्थानां मन्वादिभिः स्मृताः ॥ ३.६९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-069	In order to successively expiate (the offences committed by means) of all these (five) the great sages have prescribed for householders the daily (performance of the five) great sacrifices.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पञ्चयज्ञार्थवादार्थम् (?) इदं श्लोकद्वयम् । **सूना**वचनं च स्तुत्यर्थम् । गार्हस्थ्यकर्मणां स्तुत्य एतत् । तुरीयं न पुनर् **निष्कृतिर्** एव यथा तथा श्रुतेर् इति सामर्थ्यात् कर्मोपदेशपरम् इदं नित्यत्वाच् च न **निष्कृत्यर्थः** । **पञ्च महायज्ञास्** तेषां स्वरूपनिर्देशः ।
@@ -371,6 +371,11 @@ shall honour Gods, Pitṛs, Sages, Guests and other strangers who come to him.�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/070_adhyApanam_brahmayajnaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+070	Teaching (and studying) is the sacrifice (offered) to Brahman, the (offerings of water and food called) Tarpana the sacrifice to the manes, the burnt oblation the sacrifice offered to the gods, the Bali offering that offered to the Bhutas, and the hospitable reception of guests the offering to men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Teaching is the ‘offering to Brahma;’ the Tarpaṇa is the ‘offering to Pitṛs;’ the Homa is ‘offering to Gods;’ the Bali is ‘offering to elementals;’ and the honouring of Guests is ‘offering to men.’—(70)
@@ -506,11 +511,6 @@ first is accomplished by the water-libation; the Sacrifice to Gods is accomplish
 ते च **अध्यापनम्** इति । ऽजपो ऽहुतऽ इति वक्ष्यमाणः । अध्यापनशब्देनाध्ययनम् अपि गृह्यते । स **ब्रह्मयज्ञः । **पितृ**तर्पणं पितृयज्ञः **। अग्नौ होमो **दैवयज्ञः **। भूत**बलिर्** **भूतयज्ञः** । अतिथिपूजनं मनुष्ययज्ञः । एते वक्ष्यमाणाः कर्तव्यताविशेषा इह स्वरूपमात्रेण निर्दिष्टाः ॥ ३.७० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-070	Teaching (and studying) is the sacrifice (offered) to Brahman, the (offerings of water and food called) Tarpana the sacrifice to the manes, the burnt oblation the sacrifice offered to the gods, the Bali offering that offered to the Bhutas, and the hospitable reception of guests the offering to men.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अध्यापन**शब्देनाध्ययनं **ब्रह्मयज्ञो** गृह्यते गुणवृत्त्यापि । पितृभ्यो दानं **तर्पणं** **पितृयज्ञः** । अन्नहोमो देवयज्ञस् ततो ऽन्यत्र बलिहरणं भूतयज्ञः । अतिथिभ्यो ऽन्नदानं मनुष्ययज्ञः । एते ब्रह्मयज्ञादयः प्रकरणात् तद् वैश्वदेविकाः ।
@@ -528,6 +528,11 @@ first is accomplished by the water-libation; the Sacrifice to Gods is accomplish
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/071_panchaitAn_yo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+071	He who neglects not these five great sacrifices, while he is able (to perform them), is not tainted by the sins (committed) in the five places of slaughter, though he constantly lives in the (order of) house (-holders).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who omits not these sacrifices, to the best of his capacity, on any day, does not become tainted by the sin of the ‘slaughter-house,’ even though living in the house.—(71)
@@ -581,11 +586,6 @@ feeding of children, young girls, old persons, the pregnant woman, the sick and 
 **पञ्चेति । एतान् पञ्च महायज्ञान् यो** यथाशक्ति न जहाति स सर्वकालम् **अपि गृहे वसन्** चुल्ल्यादिसूनाजनितैः पापैर् न सम्बध्यते ॥ ३.७१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-071	He who neglects not these five great sacrifices, while he is able (to perform them), is not tainted by the sins (committed) in the five places of slaughter, though he constantly lives in the (order of) house (-holders).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उपसंहारार्थम् इदं श्लोकान्ते ऽपि चाहुर् अपुनर्भुवे विगुणा जप्येते (?) शक्तितः प्रत्यहम् अनुष्ठेयेन महासाधनेनैवेति । तथा चात्र शक्तित इति वचनं कस्य पुनर् हेतोः । येन –
@@ -603,6 +603,11 @@ feeding of children, young girls, old persons, the pregnant woman, the sick and 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/072_devatAtithi-bhRtyAnAm_pitRRNAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+072	But he who does not feed these five, the gods, his guests, those whom he is bound to maintain, the manes, and himself, lives not, though he breathes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who does not make offerings to the five—viz., gods, guests, dependents, Pitṛs and himself,—does not live, even though breathing.—(72)
@@ -676,11 +681,6 @@ See Comparative notes for [Verse 3.71].
 इत्य् उक्त्वा एषां देवतादीनां **पञ्चानां** यो न ददाति सः प्राणान् धारयन्न् अपि **न जीवति** जीवितकार्याभावात् ॥ ३.७२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-072	But he who does not feed these five, the gods, his guests, those whom he is bound to maintain, the manes, and himself, lives not, though he breathes.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 चतुर्थ्या सम्प्रदानार्थतया पठितव्यो ऽयं श्लोकः । <u>भृत्यात्मा न च विश्वेदेवान्तर्भूताव् एव गृह्येते देवता</u> (???) । एवं बलिहरणसम्बन्धाद् भूतानीत्य् अभिधीयन्ते ऽतो देवताग्रहणेन गृहीतत्वात् । पृथङ् न पर्यन्ते भूतानि न श्लोके "**उच्छ्वसन् न स जीवति**" इत्य् अपि एवं (?) श्रुतो ऽपि स्तुतिसामर्थाद् द्रष्टव्यः । निर्व्यापश् च देवतादिभ्यो दानम् उच्यते । ब्रह्मदानं च ऋषिभ्यो गुण आम्नातं तेषां सैष विध्यर्थम् इदं पुनर्वचनम् ।
@@ -698,6 +698,11 @@ See Comparative notes for [Verse 3.71].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/073_ahuta~n_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+073	They call (these) five sacrifices also, Ahuta, Huta, Prahuta, Brahmya-huta, and Prasita.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘They also call these five sacrifices—(1) “Ahuta,” (2) “Huta,” (3) “Prahuta,” (4) “Brāhmya-huta,” and (5) “Prāśita.”’—(73)
@@ -746,11 +751,6 @@ fire; those not offered into the fire are the*Prahuta*; and the feeding of Brāh
 एवं चाकरणनिन्दया एषां नित्यताम् आह **अहुतं च हुतं चेति** । उत्तरश्लोके एषां व्याख्यार्थो भविष्यति । एतान् एव पञ्चमहायज्ञान् एभिर् नामान्तरैः मुनय आचक्षते । नाममात्रभेदो न वस्तुभेद इत्य् एतत् प्रतिपादयितुं सञ्ज्ञान्तरप्रदर्शनम् एतत् ॥ ३.७३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-073	They call (these) five sacrifices also, Ahuta, Huta, Prahuta, Brahmya-huta, and Prasita.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एषाम् एव महायज्ञानां पुनर्वचनं सञ्ज्ञान्तरप्रदर्शनार्थं शेषविध्यर्थं चास्य श्लोकस्य विवरणार्थमयम् उत्तरः श्लोकः ।
@@ -776,6 +776,11 @@ fire; those not offered into the fire are the*Prahuta*; and the feeding of Brāh
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/074_japo.ahuto.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+074	Ahuta (not offered in the fire) is the muttering (of Vedic texts), Huta the burnt oblation (offered to the gods), Prahuta (offered by scattering it on the ground) the Bali offering given to the Bhutas, Brahmya-huta (offered in the digestive fire of Brahmanas), the respectful reception of Brahmana (guests), and Prasita (eaten) the (daily oblation to the manes, called) Tarpana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (1) Japa is ‘Ahuta,’ (2) Offering into fire is ‘Huta,’ (3) Offering to elementals is ‘Prahuta,’ (4) The honouring of Brāhmaṇas is ‘Brāhmya-huta,’ and (5) Water-offering to Pitṛs is ‘Prāśita.’—(74)
@@ -825,11 +830,6 @@ See Comparative notes for [Verse 3.73].
 **जप** इति । **अहुत**शब्देन **जपो** ब्रह्मयज्ञाख्यः स्मृतः । **हुतश्** च **होमो** देवयज्ञः **प्रहुतश्** च **भौतिको बलिः **भूतयज्ञः **ब्राह्मं हुतं द्विजाग्र्यस्य **ब्राह्मणस्य्**आर्चा **अतिथियज्ञः **प्राशितं **च **पितृतर्पणम्** पितृयज्ञः । यदि कथञ्चित् सकलमहायज्ञमहानुष्ठानासम्पत्तिस् तदा ॥ ३.७४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-074	Ahuta (not offered in the fire) is the muttering (of Vedic texts), Huta the burnt oblation (offered to the gods), Prahuta (offered by scattering it on the ground) the Bali offering given to the Bhutas, Brahmya-huta (offered in the digestive fire of Brahmanas), the respectful reception of Brahmana (guests), and Prasita (eaten) the (daily oblation to the manes, called) Tarpana.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **जप** इति । ब्रह्मयज्ञः प्रकरणात् । स वाक्यम् (?) इति अभिधीयते । अग्नौ **होमो** भूतः स एव देवयज्ञ इत्य् उक्तः । बलिहरणं **प्रहुतं** स एव भूतयज्ञो ऽभिहितः । ब्राह्मणाय दानं **ब्राह्म्यं हुतं** **द्विजाग्र्यार्चा** सा एवातिथिपूजोक्ता । **प्राशितं** **पितृतर्पणम्** उदकदानादि श्राद्धम् । एवं त एव वैश्वदेवकाः पञ्चमहायज्ञाः पाकयज्ञशब्देन अभिधीयते । प्रयोजनम् अस्यैवं रूपाः । अन्ये ऽपि ग्राह्या विधयः (?) पाकशब्दे गृह्येरन् । पाकयज्ञविधिप्राप्त्यर्थम् इत्य् असाधनो ऽपि त्रयं गृहस्थो यत्नतः । 
@@ -851,6 +851,11 @@ See Comparative notes for [Verse 3.73].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/075_svAdhyAye_nityayuktaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+075	Let (every man) in this (second order, at least) daily apply himself to the private recitation of the Veda, and also to the performance of the offering to the gods; for he who is diligent in the performance of sacrifices, supports both the movable and the immovable creation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should be constantly engaged in Vedic Study, as also in acts in honour of the gods; one who is engaged in acts in honour of the gods upholds the world, moveable as well as immoveable.—(75)
@@ -891,11 +896,6 @@ towards the east or the north............ one should study the Veda.’
 “स्वाध्याये नित्ययुक्तः स्यात् दैवे पित्र्ये च कर्मणि । उभयत्रापि युक्तो हि” (३.७५) इति । ब्रह्मयज्ञदेवयज्ञानुष्ठाने नित्यं यत्नवान् स्यात् । तस्माद् एवं यज्ञानुष्ठानपर इदं स्थावरजङ्गमरूपं जगत् धारयति ॥ ३.७५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-075	Let (every man) in this (second order, at least) daily apply himself to the private recitation of the Veda, and also to the performance of the offering to the gods; for he who is diligent in the performance of sacrifices, supports both the movable and the immovable creation.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं च महायज्ञैकदेशानुष्ठानाद् अपि सर्वलोकानुग्रहो यस्मात् ।
@@ -928,6 +928,11 @@ _कथं पुनर् अग्न्याहुत्या सर्व�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/076_agnau_prAstAhutiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+076	An oblation duly thrown into the fire, reaches the sun; from the sun comes rain, from rain food, therefrom the living creatures (derive their subsistence).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 An oblation duly thrown into the fire reaches the sun; from the sun proceeds rain from, rain food, and from food, the creatures.—(76)
@@ -970,11 +975,6 @@ This verse is quoted in *Aparārka* (p. 994).
 तथा च **अग्नौ प्रास्ताहुतिर्** इति । अग्नाव् आहुतिः **सम्यग्** यथाविधि प्रक्षिप्ता हुता रसाहरणरूपत्वाद् अदित्यस्य आदित्यं प्राप्नोति स आहुतिरसः कालेन परिपक्वः आदित्याद् **वृष्टि**रूपेण **जायते **। ततो ऽ**न्नम्,** तदुपभोगेन च **प्रजा जायन्ते **॥ ३.७६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-076	An oblation duly thrown into the fire, reaches the sun; from the sun comes rain, from rain food, therefrom the living creatures (derive their subsistence).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 होमयज्ञस्तुतिर् इयं प्रकरणात् किञ्च नान्यत् ।
@@ -992,6 +992,11 @@ This verse is quoted in *Aparārka* (p. 994).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/077_yathA_vAyum.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+077	As all living creatures subsist by receiving support from air, even so (the members of) all orders subsist by receiving support from the householder.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as all Creatures subsist by deriving support from air, so do the other states subsist by deriving support from the Housohelder.—(77)
@@ -1033,11 +1038,6 @@ The compound ‘*itarāśramāḥ*’ is to be expounded as a *Karmadhāraya* co
 यथा प्राणवाय्ववलम्बनेन सर्वप्राणिनो जीवन्ति, एवं **गृहस्थाश्रमम् आश्रित्य **अवलम्ब्याश्रमान्तराणि ध्रियन्ते ॥ ३.७७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-077	As all living creatures subsist by receiving support from air, even so (the members of) all orders subsist by receiving support from the householder.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 > [**यथा वायुं समाश्रित्य सर्वे जीवन्ति जन्तवः ।  
@@ -1066,6 +1066,11 @@ The compound ‘*itarāśramāḥ*’ is to be expounded as a *Karmadhāraya* co
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/078_yasmAt_trayo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+078	Because men of the three (other) orders are daily supported by the householder with (gifts of) sacred knowledge and food, therefore (the order of) householders is the most excellent order.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Because men in all the three states are sustained by householders only, with knowledge and food, therefore the householder’s is the highest state.—(78)
@@ -1143,11 +1148,6 @@ the others being unproductive.’
 एवं च **यस्माद्** इति । **यस्मात्** गृहस्थव्यतिरिक्ताः **त्रयो ऽप्य् आश्रमिणो **वेदार्थोपदेशान्नदानाभ्यां गृहस्थैर् एवोपक्रियन्ते तस्मात् **श्रेष्टाश्रमो **गृहस्थः । गृहा पत्नी मेधो यज्ञः । गृहाधीनो मेधो यस्य गृहमेधी । गृहायां तिष्ठन्तीति गृहस्थाः । गृहा अस्यास्तीति **गृही** ॥ ३.७८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-078	Because men of the three (other) orders are daily supported by the householder with (gifts of) sacred knowledge and food, therefore (the order of) householders is the most excellent order.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अधिकृतकर्मानुष्ठानस्तुतिप्रकरणसामर्थाद् वेदितव्या यतश् चैतद् एव महाप्रयोजनो गृहस्थाश्रमः सर्वलोकानुग्राहितया । अतः –
@@ -1165,6 +1165,11 @@ the others being unproductive.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/079_sa_sandhAryaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+079	(The duties of) this order, which cannot be practised by men with weak organs, must be carefully observed by him who desires imperishable (bliss in) heaven, and constant happiness in this (life).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That state, which cannot be maintained by men with weak organs, should be kept up with care by one desiring imperishable heaven and also undying happiness in this world.—(79)
@@ -1229,11 +1234,6 @@ Buhler and Burnell).
 यत् एवम् अतः **स सन्धार्यो **गृहस्थेनेति । **स** गृहस्थाश्रमः स्वर्गसम्बन्धम् अनन्तम् इहलोके सुरतसम्भोगस्वाद्वन्नातिसुखम् अन्तम् **इच्छता **प्रयत्नेनानुष्ठेयो ऽसंयतेन्द्रियैः धारयितुं न शक्य इति गृहस्थाश्रमफलकथनम् ॥ ३.७९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-079	(The duties of) this order, which cannot be practised by men with weak organs, must be carefully observed by him who desires imperishable (bliss in) heaven, and constant happiness in this (life).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 फलविधिना स्तुतिः पञ्चमहायज्ञानुष्ठानस्य ।
@@ -1261,6 +1261,11 @@ _तत्तुल्यतयायम् अप्य् अनुवाद �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/080_RShayaH_pitaro.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+080	The sages, the manes, the gods, the Bhutas, and guests ask the householders (for offerings and gifts); hence he who knows (the law), must give to them (what is due to each).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Sages, Pitṛs, gods, elementals and guests have expectations from family-men; one who knows should fulfil (one’s duty) towards them.’—(80)
@@ -1309,11 +1314,6 @@ three debts; he repays that to the sages, by means of religious studentship, tha
 न चानित्यतापत्तिः, यत आह **ऋषय** इति । ऋषिप्रभृतयो गृहस्थेभ्यः सकाशात् यतो ऽर्थयन्ते यतः शास्त्रज्ञेन एभ्यः कर्तव्यम् ॥ ३.८० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-080	The sages, the manes, the gods, the Bhutas, and guests ask the householders (for offerings and gifts); hence he who knows (the law), must give to them (what is due to each).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 किं तद् इदम् उच्यते ।
@@ -1339,6 +1339,11 @@ three debts; he repays that to the sages, by means of religious studentship, tha
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/081_svAdhyAyenA-rchayetarShIn_homair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+081	Let him worship, according to the rule, the sages by the private recitation of the Veda, the gods by burnt oblations, the manes by funeral offerings (Sraddha), men by (gifts of) food, and the Bhutas by the Bali offering.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should worship, according to law, the Sages by Vedic Study, the Gods by Homa-offerings, the Pitṛs by Śrāddha offerings, the Men by food and the Elementals by the offering of Bali.’—(81)
@@ -1422,11 +1427,6 @@ the gods, one should make offerings to the Elementals, and also offer food on th
 <details><summary>गोविन्दराजः</summary>
 
 किं तद् इत्य् आह **स्वाध्यायेनेति** । नानाप्रकारत्वाद् अर्चनस्य स्वाध्यायादेर् अर्चनार्थत्वम् अविरुद्धं पूर्वोक्तमहायज्ञार्थैः स्वाध्यायादिभिः ऋषिदेवपित्रतिथिभूतानि यथाशास्त्रम् अर्चयेत् ॥ ३.८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-081	Let him worship, according to the rule, the sages by the private recitation of the Veda, the gods by burnt oblations, the manes by funeral offerings (Sraddha), men by (gifts of) food, and the Bhutas by the Bali offering.
 </details>
 
 <details><summary>भारुचिः</summary>

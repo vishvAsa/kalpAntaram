@@ -20,6 +20,11 @@ title = "१० आतिथ्यम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/102_ekarAtran_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+102	But a Brahmana who stays one night only is declared to be a guest (atithi); for because he stays (sthita) not long (anityam), he is called atithi (a guest).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A Brāhmaṇa staying for a single night has been declared to be a “guest” (Atithi). Because his stay is not long, therefore he is called “Atithi” (guest).—(102)
@@ -98,11 +103,6 @@ that person who comes to one’s house, whose family or name is not known,—who
 अप्रसिद्धत्वाद् अतिथिलक्षणम् आह **एकरात्रम्** इति । **ब्राह्मण एकरात्रं **परगृहे **वसन् अतितिः **यतिः स्मृतः यद् अस्याहनित्यावस्थानेन न विद्यते द्वितीया तिथिर् अस्येत्य् एवम् अतिथिर् उच्यते ॥ ३.१०२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-102	But a Brahmana who stays one night only is declared to be a guest (atithi); for because he stays (sthita) not long (anityam), he is called atithi (a guest).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इदम् अतिथीनां निर्वचनम् एकाहोरात्रप्रतिवासिनो ब्राह्मणस्येयं नियमस्मृतिर् वेदितव्या । एवं च सति द्वितीयादिष्व् अहःस्व् अनुवृत्तिम् अकुर्वतो यथोक्तप्रत्यवायाभावः । अनुवृत्तेन तु सत्याम् अयम् अभ्युदयो यथा प्रदर्शितः स्याद् इत्य् एवमर्थम् इदं तन्निर्वचनम् उक्तम् ।
@@ -120,6 +120,11 @@ that person who comes to one’s house, whose family or name is not known,—who
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/103_naikagrAmINam_atithim.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+103	One must not consider as a guest a Brahmana who dwells in the same village, nor one who seeks his livelihood by social intercourse, even though he has come to a house where (there is) a wife, and where sacred fires (are kept).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should not regard as “guest” a Brāhmaṇa who lives in the same village or who is a companion. He should regard him as such when he arrives at his house, or where the wife and the fires are at the time.—(103)
@@ -180,11 +185,6 @@ See Comparative notes for [Verse 3.102].
 **नैकग्रामीणम्** इति । समानग्रामनिवासिनं यं च सङ्गत्या लोकयात्रया चरितं विचित्रपरिहासकथाजीवनं यस्य स **भार्याग्नयः **तस्मिन्न् एव ग्रामे सम्प्राप्तः तं वैश्वदेवकाले ऽपि सम्प्राप्तम् अतिथिं न विद्यात् ॥ ३.१०३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-103	One must not consider as a guest a Brahmana who dwells in the same village, nor one who seeks his livelihood by social intercourse, even though he has come to a house where (there is) a wife, and where sacred fires (are kept).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एकग्रामप्रतिवासिनं गुणवन्तम् अपि विप्रं देशान्तराद् आगत्याकले ऽपि स्वगृहम् अतिक्रम्यावस्थितं गृहे न विद्याद् अतिथि(ं?) शास्त्रात् । प्राप्तस्यायं प्रतिषेधो नियमदानस्य नान्यस्य साङ्गतिकं तथा असमानग्रामम् अपि साङ्गतिकम् । सहाध्यायी सङ्गत्यावलोकयात्रायागच्छति स साक्गतिकः । विचित्रकथापरिहासजीवी येन स्नातकस्य सो ऽप्रतिषिद्धा वृत्तिः "न लोकवृत्तं वर्तेत वृत्तिहेतोः कथञ्चन" (म्ध् ४.११) इति । सखात्र साङ्गतिको न भवति तस्योत्तरत्र प्रतिषेधाद् "वैश्यशूद्रौ सखा च" म्ध् ३.११०) इति । न गृहस्थस्य ग्रामान्तरगतस्याह्यन्योन्या (?) प्रतीतिर् भवति तत्र येनाह "**भार्या यत्रागनयो ऽपि वा**" तत्र स्याद् आतिथ्यम् । अपरस् त्व् आह "**भार्या पुत्राग्नयो ऽपि वा**" इति । अस्मिन् पाठे ऽर्थः – अस्य श्लोकपादस्य न केवलम् एकग्रामवास्य् एवानतिथिर् भवति यत्र भार्यापुत्रा नयत्य् अस्मिन् ग्रामे प्रथमागता अन्यग्रामवासिनो ऽप्य् अवतिष्ठन्ते स चानतिथिर् वेदितव्यः । तत्रैतत् पुनरुक्तम् "**नैकग्रामीणम् अतिथिम्**" इत्य् अनेन । इदानीं परपाकभोजनोद्देशेनातिथीनां प्रवास प्रतिषेधर्थम् अयं निन्दार्थवादो ऽभिधीयते ।
@@ -202,6 +202,11 @@ See Comparative notes for [Verse 3.102].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/104_upAsate_ye.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+104	Those foolish householders who constantly seek (to live on) the food of others, become, in consequence of that (baseness), after death the cattle of those who give them food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those foolish householders who wait upon the food cooked by others, become, after death, on that account, cattle belonging to the givers of food.—(104).
@@ -247,11 +252,6 @@ the house of others, except when one has been invited; he should avoid ficklenes
 **उपासत** इति । आतिथेयोद्देशत एव ग्रामान्तराणि गत्वा **ये** **गृहस्थाः **दुर्मेधसः औदरिकतया परान्नं सेवन्ते तेन परान्नभोजनेन ते जन्मान्तरे **अन्नाद्यदायिनां** गृहे **पशुतां व्रजन्ति** इति फलप्रतिपादनपरम् एतत् । अतः परपाकोपसेवनं न कार्यम् ॥ ३.१०४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-104	Those foolish householders who constantly seek (to live on) the food of others, become, in consequence of that (baseness), after death the cattle of those who give them food.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अयं (?) फलविधिः फलार्थवादो वा । अधुना तु विशेषार्थम् इदम् अस्योच्यते ।
@@ -269,6 +269,11 @@ the house of others, except when one has been invited; he should avoid ficklenes
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/105_apraNodyo.atithiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+105	A guest who is sent by the (setting) sun in the evening, must not be driven away by a householder; whether he have come at (supper-) time or at an inopportune moment, he must not stay in the house without entertainment.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The guest brought by the sun in the evening should not be driven away by the house-holder. Arrived in time, or not in time, he shall not stay in his house without taking food.—(105)
@@ -339,11 +344,6 @@ master and mistress of the house shall not refuse him; if there is no food, they
 **अप्रणोद्य** इति । यस्माद् अयम् आदित्येनास्तं गच्छता प्रापितो ऽतिथिः, तदानीं स्वगृहगमनाशक्तेः, स **गृहमेधिना** गृहानुष्ठेयपञ्चयज्ञवता गृहस्थेन न प्रत्याख्येयः । स च चैश्वदेवकाले प्राप्तः तदुत्तरकाले वा नास्य गृहस्थस्य अन्नम् **अनश्नन् गृहे वसेत्** । अवश्यम् अस्याशनं देयम्, अयं च प्रतिषिद्धातिथिप्रतिप्रसवार्थम् आरम्भः, अन्यथा “वैश्वदेवं हि नामैतत् सायं प्रातर् विधीयते” (म्ध् ३.१२१) इति वक्षमाणेनैव सायम् अतिथिदानसिद्धौ अनारम्भः स्यात् ॥ ३.१०५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-105	A guest who is sent by the (setting) sun in the evening, must not be driven away by a householder; whether he have come at (supper-) time or at an inopportune moment, he must not stay in the house without entertainment.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 प्रतिषिद्धार्हो ऽयम् अस्यारम्भः । कथं वसेत् तद् गम्यते । आरम्भसामर्थाद् अस्येत्थम् । अन्यथाभिहितलक्षणस्यातिथेः प्रातर् इव **सायम्** **अप्रणोद्य**विशेषणदाने प्राप्ते गृहस्थस्य द्विर्वैश्वदेवव्रत्वाद् अनारम्भो ऽस्य प्रसज्येत । अवश्यं (?) त्व् इदम् । अतो यथोक्त एवार्थः श्लोकः । इदानीं विव्रियते (?) "**अप्रणोद्यो ऽतिथिः सायम्**" एकग्रामनिवास्य् अपि । साङ्गतिको ऽप्य् अकिञ्चनतया यस्माद् असौ **सूर्योढः** सूर्यास्तं गच्छता ऊढः प्रापितः **सायं** च क्रमेण **[१२७]** प्रतिषेधान् **न प्रोणोद्यो** ऽस्मिन् काले **गृहमेधिना** गृहमेधाः पञ्चमहायज्ञा अस्य सन्तीति गृहमेधी गृहस्थः । **काले प्राप्तः** भोजनस्याकाले वा भोजनोत्तरकालम् अनस्तमिते वा विगुणः ईषद्गुणः सर्वगुणो वा एकग्रामिसाङ्गतिकयोर् अन्यतरो ऽप्य् अतिथिर् नास्याभुक्तो **गृहे वसेत्** । प्रतिषिद्धो ऽपीति । पुनर् इतरत्र (?) वैश्वानरश्रुतेः । तस्य हि सायं निभृतेष्व् आगच्छन् अतिथिर् वैश्वानरः सम्पद्यते तस्मात् तेनाननुज्ञातो हीनपि (२ अक्ष् lacuna)न जुहुयात् स ह्य् अस्य परादेवतेति । इदानीं सत्य् अप्य् अतिथिदाने गृहस्थस्योभयोः कालयोर् विषमभोजनप्रतिषेधार्थम् इदम् आरभ्यते ।
@@ -365,6 +365,11 @@ master and mistress of the house shall not refuse him; if there is no food, they
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/106_na_vai.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+106	Let him not eat any (dainty) food which he does not offer to his guest; the hospitable reception of guests procures wealth, fame, long life, and heavenly bliss.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He himself should not eat what he does not offer to his guest. The honouring of guests is conducive to wealth, fame, longevity and heaven.—(106)
@@ -419,11 +424,6 @@ vegetables,—these he shall not eat if they have not been offered to the guest.
 **नेति **। यद् अतिथये रोचते तत् तस्मा अदत्वा आत्मना नाश्नीयात् । अतिथिभोजनं च धनख्यात्या दुःस्वर्गनिमित्तम् इत्य् आतिथेयफलकथनं न त्व् अनित्यतापत्तिः “सर्वं सुकृतम् आदत्ते” इत्याद्युक्तत्वात् ॥ ३.१०६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-106	Let him not eat any (dainty) food which he does not offer to his guest; the hospitable reception of guests procures wealth, fame, long life, and heavenly bliss.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यथोक्तविशेषणम् । एवम् ।
@@ -441,6 +441,11 @@ vegetables,—these he shall not eat if they have not been offered to the guest.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/107_AsanAvasathau_shayyAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+107	Let him offer (to his guests) seats, rooms, beds, attendance on departure and honour (while they stay), to the most distinguished in the best form, to the lower ones in a lower form, to equals in an equal manner.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should offer seat, room, bed, foliowing and attendance of the best kind to superiors, of the inferior kind to inferiors and of the equal (ordinary) kind to equals.—(107)
@@ -511,11 +516,6 @@ warm welcome and honour him with the offering of water and seat and also with wa
 **आसनावसथाव्** इति । युगपदनेकातिथ्यवस्थाने सति ह्य् आसनस्थानविश्रामस्थानश्रद्धादि-शयनानुगमनपरिचरणं इतरेतरापेक्षयोत्कृष्टमध्यमेषु उत्कृष्टापकृष्टम् अमध्यमं कुर्यात् । अन्नं पुनस् तुल्यम् एव, तत्र विशेषाश्रवणात् ॥ ३.१०७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-107	Let him offer (to his guests) seats, rooms, beds, attendance on departure and honour (while they stay), to the most distinguished in the best form, to the lower ones in a lower form, to equals in an equal manner.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 प्रकरणाद् अतिथीनाम् एव हीनोत्तमानाम् आत्मनः स्याद् अनुवृत्तिगुणानुरूपम् उच्यते भोजनातिरेकिणः ।
@@ -533,6 +533,11 @@ warm welcome and honour him with the offering of water and seat and also with wa
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/108_vaishvadeve_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+108	But if another guest comes after the Vaisvadeva offering has been finished, (the householder) must give him food according to his ability, (but) not repeat the Bali offering.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the Vaiśvadeva having been finished, if another guest should happen to arrive,—for him also he should provide food to the best of his ability; but he shall not make any offering (out of that food).—(108)
@@ -581,11 +586,6 @@ either *Vrīhi* or *Yava* cooked for him.’
 **वैश्वदेव** इति । कृते ऽतिथिभोजनपर्यन्ते **वैश्वदेवे यद्य् **अपरो **ऽतिथिर् आव्रजेत्** तस्मै तदा च्**आन्नं यथाशक्ति **पुनः पक्त्वा **प्रदद्यात्** । बलिहरणं च ततो ऽन्नान् न कुर्यात् । बलिहरणनिषेधाद् आत्मसंस्कारार्थता वैश्वदेवस्याभिप्रेतेत्य् अवसीयते । अन्नसंस्कारपक्षे कथम् असंस्कृतान्नभोजनम् अनुजानीयात् ॥ ३.१०८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-108	But if another guest comes after the Vaisvadeva offering has been finished, (the householder) must give him food according to his ability, (but) not repeat the Bali offering.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं च बलिहरणं वैश्वदेवाख्यं न पाकसंस्काराः । किं तर्हि । आत्मसंस्कारार्थः । इतरथा हि प्रतिवादे कम् आवर्तेत (?) शास्त्रप्राप्तस्य प्रतिषेधः । अधुना भोजनप्रतिग्रहार्थम् अतिथेः स्वगुणसङ्कीर्तनम् अस्य निवार्यते ।
@@ -603,6 +603,11 @@ either *Vrīhi* or *Yava* cooked for him.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/109_na_bhojanArtham.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+109	A Brahmana shall not name his family and (Vedic) gotra in order to obtain a meal; for he who boasts of them for the sake of a meal, is called by the wise a foul feeder (vantasin).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A Brāhmaṇa should not advertise his family and Gotra for the purpose of obtaining a meal. Bragging about these, for the purpose of obtaining a meal, he comes to be called a “feeder on filth” by the wise.—(109)
@@ -657,11 +662,6 @@ Hiraṇyagarbha, not asking him about his study, *gotra*, Vedic text or family.�
 प्रसङ्गात् भोक्तृधर्मम् आह **न भोजनार्थम्** इति । **भोजन**लाभ्**आर्थं विरः स्वे कुलगोत्रे** न कथयेत् यस्मात् **भोजनार्थं ते** कथयन् उद्गीर्णाशीति विद्वद्भिः कथ्यते ॥ ३.११० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-109	A Brahmana shall not name his family and (Vedic) gotra in order to obtain a meal; for he who boasts of them for the sake of a meal, is called by the wise a foul feeder (vantasin).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं च भोजनग्रहणं सर्वप्रतिग्रहप्रदर्शनार्थम्, कुलगोत्रग्रहणं च सर्वात्मगुणानां न कुर्याद् इति सामान्याद् अवगन्तव्यम् ।
@@ -679,6 +679,11 @@ Hiraṇyagarbha, not asking him about his study, *gotra*, Vedic text or family.�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/110_na_brAhmaNasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+110	But a Kshatriya (who comes) to the house of a Brahmana is not called a guest (atithi), nor a Vaisya, nor a Sudra, nor a personal friend, nor a relative, nor the teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In a Brāhmaṇa’s house, the Kṣatriya is not called a ‘guest;’ nor the Vaiśya or the Śūdra, nor his friends or relations, or his Teacher.—(110)
@@ -740,11 +745,6 @@ be, out of that he shall make the Vaiśvadeva offerings, and then entertain, to 
 **न ब्राह्मणस्य त्व् अतिथिर्** इति । ब्राह्मणगृहे गुरुमित्रबन्धुक्षत्रियवैश्यशूद्रा नातिथयो भवन्ति । गुरोः प्रभुत्वात् मित्रबन्धूनाम् आत्मसमत्वात् क्षत्रियादेश् च हीनजातित्वात् क्षत्रियस्योत्कृष्टः ब्राह्मणः स्यात् । ब्राह्मणक्षत्रियाव् उत्कृष्टजातीयौ स्याताम् एवं वैश्यस्यापि ॥ ३.११० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-110	But a Kshatriya (who comes) to the house of a Brahmana is not called a guest (atithi), nor a Vaisya, nor a Sudra, nor a personal friend, nor a relative, nor the teacher.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **तु**शब्दो ऽवधारणार्थः । ब्राह्मणस्यानतिथयो राजन्यवैश्यशूद्राः । क्षत्रियादीनां तु सवर्णोत्कृष्टवर्णाभावं (?) ते वातिथयः । सखा चात्र ब्राह्मण एवास्यारम्भसामर्थ्याद् विज्ञेयः । एवं क्षत्रियादिष्व् अपि ज्ञातिगुरूणां च यत्नसिद्धं ब्राह्मण्यं त्व् अनतिथित्ववचनात् । न च तुल्यकारणम् एषाम् अनतिथित्वम्, राजन्यादीनां तावद् धीनजातित्वात्, सखिज्ञात्योर् आप्तत्वात्, पुत्रादिवत् । गुरौ च गृहिणः परसक्तयानतिथित्वम् (?) । तस्य –
@@ -762,6 +762,11 @@ be, out of that he shall make the Vaiśvadeva offerings, and then entertain, to 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/111_yadi_tv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+111	But if a Kshatriya comes to the house of a Brahmana in the manner of a guest, (the house-holder) may feed him according to his desire, after the above-mentioned Brahmanas have eaten.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a Kṣatriya should happen to come to one’s house in the character of a guest, one may feed him also, after the Brāhmaṇas have eaten.—(111)
@@ -807,11 +812,6 @@ See Comparative notes for [Verse 3.110].
 **यदीति** । क्षीणपाथेयो ग्रामान्तरवासित्वात् अतिथिधर्मेण **यदि क्षत्रियो** विप्रगृहे आगच्छेत् तदा गृहावस्थित**विप्रेषु** कृतभोजनेषु **तम् अपि** **भोजयेत् **॥ ३.११ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-111	But if a Kshatriya comes to the house of a Brahmana in the manner of a guest, (the house-holder) may feed him according to his desire, after the above-mentioned Brahmanas have eaten.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अतिथिधर्मेण** त्व् एवम् आगतो भवति यदि दूराद् अपरिज्ञातः अपत्यधनः (?) कालोपगतश् च तथा **भुक्तवत्सु ब्राह्मणेषु तं भोजयेत्** । पूर्वापवादो ऽयम् ।
@@ -829,6 +829,11 @@ See Comparative notes for [Verse 3.110].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/112_vaishya-shUdrAv_api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+112	Even a Vaisya and a Sudra who have approached his house in the manner of guests, he may allow to eat with his servants, showing (thereby) his compassionate disposition.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Vaiśya and the Śūdra also, when arrived in the family in the character of guests, he should feed, along with his servants,—showing his compassionate disposition.—(112)
@@ -882,11 +887,6 @@ See Comparative notes for [Verse 3.110].
 <details><summary>गोविन्दराजः</summary>
 
 **वैश्यशूद्राव्** इति । **वैश्यशूद्राव्** अपाथेयाव् अतिथिरूपौ गृहे प्राप्तौ तदा कारुण्यात् सहभोजनीयौ ॥ ३.११२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-112	Even a Vaisya and a Sudra who have approached his house in the manner of guests, he may allow to eat with his servants, showing (thereby) his compassionate disposition.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -20,6 +20,11 @@ title = "१३ मासिकश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/122_pitRyajnan_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+122	After performing the Pitriyagna, a Brahmana who keeps a sacred fire shall offer, month by month, on the new-moon day, the funeral sacrifice (Sraddha, called) Pindanvaharyaka.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Month after Month, on the moonless day, the Brāhmaṇa with the Fire shall, after having performed the Pitṛyajña, offer the “Piṇḍānvāhāryaka.”—(122)
@@ -122,11 +127,6 @@ shall offer Śrāddha every day—be he with Fire or without Fire; also every mo
 **पितृयज्ञम्** इति । आहिताग्निर् अमावास्यायां श्रौतं पिण्डयज्ञाख्यं कर्म कृत्वा, “औपसदाग्निर् अपि एवम् अनाहिताग्निर् नित्ये श्रपयित्वा” इति सूत्रवचनात् सूत्रोक्तं तद् एव कृत्वा मासि भवं पिण्डपितृयज्ञाङ्गभूतानां पिण्डानाम् अनु पश्चात् आह्रियत इति **पिण्डान्वाहार्यकं श्राद्धं कुर्यात्** । विप्रग्रहणं द्विजप्रदर्शनार्थम्, त्रयाणां प्रकृतत्वात् ॥ ३.१२२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-122	After performing the Pitriyagna, a Brahmana who keeps a sacred fire shall offer, month by month, on the new-moon day, the funeral sacrifice (Sraddha, called) Pindanvaharyaka.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सपिण्डानाम् असम्भूतं मासिकश्राद्धं विज्ञेयम् । कुतो नामधेयादध्यस्याद् (?) इदम् **अन्वाहार्यम्** इत्य् उच्यते । कथम् आहार्यम् (?) । **अनु** पश्चाद् इत्य् अर्थः । कस्य । **पिण्डानाम्** । येनान्तं (ह्रियते?) तद् **अन्वाहार्यम्** इत्य् उच्यते । एवं च तदङ्गत्वात् पिण्डवत् प्रतिमासम् इदम् अपि तद् यत् सिद्धम् (?) । आममिषस्य् (?) प्रशस्तस्य नियमार्थ उपदेशः ।
@@ -152,6 +152,11 @@ shall offer Śrāddha every day—be he with Fire or without Fire; also every mo
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/123_pitRRNAm_mAsikam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+123	The wise call the monthly funeral offering to the manes Anvaharya (to be offered after the cakes), and that must be carefully performed with the approved (sorts of) flesh (mentioned below).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The monthly śrāddha to the Pitṛs the wise call “anvāhārya;” and it should be carefully performed with such meat as has been commended.—(123)
@@ -224,11 +229,6 @@ whose father is dead must perform Śrāddha on the moonless day every month.’
 
 अधुना नामवचनेन पिण्डपितृयज्ञानन्तरम् अस्य समर्थयते **पिण्डानाम्** इति । यत् एव तन् मासिकं श्राद्धं पिण्डानाम् अनु पश्चाद् आह्रियते ततः पिण्डान्वाहार्यकम् एतद् विद्वांसो मन्यन्ते । एवं च युक्तं यत् पिण्डपितृयज्ञानन्तरं क्रियत् इति । तन् मांसेन विशेषेण विहितेन खड्गमांसादिना **प्रयत्नतः** कर्यम्, तदभावे पुनर् अन्यैर् हविष्यैः ॥ ३.१२३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-123	The wise call the monthly funeral offering to the manes Anvaharya (to be offered after the cakes), and that must be carefully performed with the approved (sorts of) flesh (mentioned below).
-</details>
 </details>
 </div>
 
@@ -252,6 +252,11 @@ _तथा चाह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/124_tatra_ye.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+124	I will fully declare what and how many (Brahmanas) must be fed on that (occasion), who must be avoided, and on what kinds of food (they shall dine).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 I am now going to describe fully which and how many Brāhmaṇas should be fed at it, and on what food,—as also those that should be avoided.—(124)
@@ -306,11 +311,6 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 377).
 **तत्रेति **। तस्मिन् श्राद्धे **भोजनीया ये च **वर्जनीयाः यथासङ्ख्याकाश् च **यैश् चान्नैस्** तत् कर्तव्यं तत् सर्वं **प्रवक्ष्यामि **॥ ३.१२४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-124	I will fully declare what and how many (Brahmanas) must be fed on that (occasion), who must be avoided, and on what kinds of food (they shall dine).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उपन्यासार्थः श्लोकः ।
@@ -336,6 +336,11 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 377).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/125_dvau_daive.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+125	One must feed two (Brahmanas) at the offering to the gods, and three at the offering to the manes, or one only on either occasion; even a very wealthy man shall not be anxious (to entertain) a large company.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even though wealthy, one should feed two at the rite performed in honour of the gods, and three at that in honour of the Pitṛs; or one only at each of the two rites he should not indulge in large company.—(125)
@@ -490,11 +495,6 @@ thoroughly versed in the Veda.’
 इत्य् एकब्राह्मणभोजनात् । यत् पुनः “न त्व् एकैकम्” इत्यादिगृह्यवचनं तत् द्रव्यब्राह्मणादिसम्यक्सम्पद्विषयम् न त्व् अन्यप्रतिषेधार्थम्; तथा च एतदनन्तरम् एव गृह्यकृत् “कामम् अनाद्य” इत्य् आह, अदनीयाद्यभावात् कामम् एकम् अपि सर्वेषां भोजयेत् इति । एवं च “निमन्त्रयेत् त्र्यवरान्” इत्य् एतद् अपि द्रव्यब्राह्मणादिसम्यक्सम्पत्तिविषयं न त्व् एकैकविध्यत्यन्ताभावज्ञापकम् । विस्तर इति वृत्तवशात् “प्रथमे वा चशब्दे” इति स्मरणात् ॥ ३.१२५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-125	One must feed two (Brahmanas) at the offering to the gods, and three at the offering to the manes, or one only on either occasion; even a very wealthy man shall not be anxious (to entertain) a large company.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **द्वौ दैवे** पित्रंशभूतस्य, प्रकरणात् । **पित्र्ये त्रीन् भोजयेत्** । इति सङ्ख्याविशिष्टब्राह्मणभोजनविधिः । "**एकैकम् उभयत्र वा**" इत्य् एवम् अर्थवादः । "**सुसमृद्धो ऽपि न प्रसज्येत विस्तरे**" इत्य् अस्य प्रतिषेधविधिस् तथा च वक्ष्यति "निमन्त्रयीत त्र्यवरान्" (म्ध् ३.१८७) इति । गौतमश् च "भोजयेद् ऊर्ध्वं त्रिभ्यः" (ग्ध् १५.२१) इति । स्मृत्यन्तरे ऽप्य् उक्तम् "न त्व् एकैकं सर्वेषाम्" इति । एवं च सत्य् अस्यार्थवादत्वाद् अधिसङ्कीर्तने ऽपि स्तुतिर् उपपद्यते । कामं सङ्ख्यागतविधिम् अपि कुर्यात् "**एकैकम् उभयत्र वा**" इति । न विस्तरे प्रसज्येत न चैवम् एकैकस्य भोजनम् उभयत्रानुज्ञातं भवति । तथा च लोके "कामं विषम् अपि भक्षय मा चास्य गृहे भुङ्क्षा" इति । नानेन विषभक्षणम् उपदिष्टं भवति । एतेन"**ऽ**एकैकम् अपि विद्वांसम्" (म्ध् ३.१२९) इत्य् एतद् **[१३२]** व्याख्यातम् । विद्वत्स्तुतिपरत्वाद् अस्य न सङ्ख्या विधीयते । तस्मात् त्र्यवरा एव पितृकर्मणि ब्राह्मणा विज्ञेयाः । एतच् चैवम् अर्थवादार्थं प्रकल्प्य ब्राह्मणान् भोजयन्ति वैकल्पिकत्र्यवरविधेर् इदम् अन्यविध्यन्तरं मन्यमानाः <u>केचित्</u> । <u>अपरः</u> पुनर् आह- नात्र ब्राह्मणानां सङ्ख्या विधीयते । क्व तर्हि । "निमन्त्रयीत त्र्यवरान्" (म्ध् १८७) इत्य् अत्र । <u>तद् अयुक्तम्</u>, **भोजयेद्** इत्य् उपदेशात् । "**सुसमृद्धो ऽपि न प्रसज्येत विस्तरे**" इति वचनाद् अयम् एव सङ्ख्याविशिष्टब्राह्मणविधिर् अर्थवादो मन्तव्यः । आमन्त्रणार्थं च तद् वाक्यं न सङ्ख्याविध्यर्थम् । तस्माद् अयम् अवरत्वात् "**सुसमृद्धो ऽपि न प्रस्ज्येत विस्तरे**" इत्य् अत्र कारणं वक्ति ।
@@ -520,6 +520,11 @@ _किं तर्हि ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/126_satkriyAn_desha-kAlau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+126	A large company destroys these five (advantages) the respectful treatment (of the invited, the propriety of) place and time, purity and (the selection of) virtuous Brahmana (guests); he therefore shall not seek (to entertain) a large company.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Respectful treatment, place and time, purity and the qualities of Brāhmaṇas,—a large company hampers these five; therefore one shall not seek a large company.—(126)
@@ -569,11 +574,6 @@ This verse is quoted in *Nirṇayasindhu* (p. 287);—also in *Aparārka* (p. 46
 **सत्क्रियाम्** इति । ब्राह्मणपूजां चोक्षादिदेशम् अपराह्णकालं शौचं गुणवद्ब्राह्मणानां विस्तारो नाशयति । तस्माद् उक्तातिरिक्तब्राह्मभोजनं न कुर्यात् । हेतुतो विस्तरनिषेधात् सत्क्रियादिसम्भवे ऽधिकब्राह्मणभोजनम् अप्य् अस्ति । तथा च गौतमेनोक्तः- “अवरान् न च ब्राह्मणान् भोजयेत् । अयुजो वा यथोत्साहम्” इति ॥ ३.१२६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-126	A large company destroys these five (advantages) the respectful treatment (of the invited, the propriety of) place and time, purity and (the selection of) virtuous Brahmana (guests); he therefore shall not seek (to entertain) a large company.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **सत्क्रियाम्** आमन्त्रिब्राह्मणानुवृत्त्यादिपूजाम् । **देशकालौ च** श्राद्धाङ्गभूतौ । **शौचं** सगुणस्यान्नस्य । **ब्राह्मणसम्पदं** यथाशास्त्रोदिष्टम् । **विस्तरो हन्ति** यस्मात् सर्वगृहस्थानाम् एककालोपदिष्टं श्राद्धं "**तस्मान् नेहेत विस्तरः**" इत्य् अर्थवादः । गुणवांस् तस्मिन् काले बहवो दुर्लभा इत्य् एवम्परम् । एतत् क्रियादिगुणकथनं न स्वार्थम्, अप्रकरणात् । कारणतश् च विस्तरप्रतिषेधं कुर्वन् सति सामर्थ्ये विस्तरम् अनुजानाति । तथा च गौतमः- "अयुजो यथोत्साहम्" (ग्ध् १५.७८) इति । "कुर्यान् मासानुमासिकम्" (म्ध् ३.१२२) इत्य् अस्य विधेः स्तुत्यर्थम् इदम् आरभ्यते ।
@@ -612,6 +612,11 @@ This verse is quoted in *Nirṇayasindhu* (p. 287);—also in *Aparārka* (p. 46
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/127_prathitA_pretakRtyaiShA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+127	Famed is this rite for the dead, called (the sacrifice sacred to the manes (and performed) on the new-moon day; if a man is diligent in (performing) that, (the reward of) the rite for the dead, which is performed according to Smarta rules, reaches him constantly.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This rite named “Pitrya,” performed on the Moonless Day is known as beneficial to the dead. To him who is intent on performing it, there always accrues benefit after death, offered according to human ordinances.—(127)
@@ -678,11 +683,6 @@ with the help of Brāhmaṇas learned in the Veda, his Pitṛs become satisfied 
 
 **प्रथितेति** । यो ऽयं पित्र्यो नाम विधिः पित्र्यं कर्म **एषा** **प्रेतकृत्या** प्रेतोपकारार्था क्रिया **क्षये** चन्द्रक्षये गृहे वा नाश्रमन्तरे, सर्वगृहिणां ख्याता । **तस्मिन् **कृत्ये पित्र्ये कर्मणि **युक्तस्य **तन्निष्ठस्य लौकिकी स्मार्ता **प्रेतक्रिया** इति प्रेत उपक्रियते गुणवत्पुत्रपौत्रप्रबन्धोपपत्त्या तस्माद् एतद् यत्नतः कार्यम् ॥ ३.१२७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-127	Famed is this rite for the dead, called (the sacrifice sacred to the manes (and performed) on the new-moon day; if a man is diligent in (performing) that, (the reward of) the rite for the dead, which is performed according to Smarta rules, reaches him constantly.
-</details>
 </details>
 </div>
 
@@ -697,6 +697,11 @@ with the help of Brāhmaṇas learned in the Veda, his Pitṛs become satisfied 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/128_shrotriyAyaiva_deyAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+128	Oblations to the gods and manes must be presented by the givers to a Srotriya alone; what is given to such a most worthy Brahmana yields great reward.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Food offered to the gods and that offered in the Pitṛs are to be given to the most deserving; Brāhmaṇa learned in the Vedas. What is given to him is conducive to great results.—(128)
@@ -762,11 +767,6 @@ arrives at the right time and place, suffering from hunger, thirst and fatigue.�
 **श्रोत्रियायेति **। दैवपित्र्यादीन्य् अन्नानि छन्दोमात्राध्यायिनि **देयानि** । छन्दोमात्राध्यायिनि श्रोत्रियशब्दप्रयोगान् नात्यन्तापायेन नियमः । सम्भवे पुनः समस्तशाखाध्यायिने दानम् । “यत्नेन भोजयेच् छ्राद्धं बह्वृचम्” इत्यादिनिमये सति पुनः श्रोत्रियत्वे सति श्रुतवृत्ताभिजनादियोगे च पूज्यतमाय **विप्राय** देयानि यतस् तस्मै दत्वा पितृतृप्तिद्वारेणातिशयेनोपकारकं भवति ॥ ३.१२८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-128	Oblations to the gods and manes must be presented by the givers to a Srotriya alone; what is given to such a most worthy Brahmana yields great reward.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अत्र **श्रोत्रिय**शब्देन न (?) छन्दोमात्राध्यायिनियमः । किं तर्हि । मन्त्रब्राह्मणाध्यापकनियमः । **एव**शब्दश् च अ?श्रोत्रियप्रतिषेधकः । सत्य् अपि ब्राह्मण्ये येन प्रथमम् इदं ब्राह्मणस्य श्राद्धभोजनाधिकारकारणम्, सति श्रोत्रियत्वे **ऽर्हत्तमाय** । **अर्हत्तम**शब्देन च विज्ञातगुणसम्पदम् अस्याचष्ट्ते । तथा चैतद् दर्शयति ।
@@ -784,6 +784,11 @@ arrives at the right time and place, suffering from hunger, thirst and fatigue.�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/129_ekaikam_api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+129	Let him feed even one learned man at (the sacrifice) to the gods, and one at (the sacrifice) to the manes; (thus) he will gain a rich reward, not (if he entertains) many who are unacquainted with the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By feeding at least one learned brāhmaṇa each at the rite performed in honour of the gods and that performed in honour of the ancestors,—one obtains a full reward; and not by feeding even many men ignorant of the Veda.’—(129)
@@ -838,11 +843,6 @@ householders, old men, persons devoted to good acts, those learned in the Veda, 
 यस्मात् **एकैकम् **इति । दैवपित्र्योः **एकैकम् अपि **वेदार्थविदं **भोजयेत् **। परिपूर्णं **फलं** पितृतृप्त्याख्यं **प्राप्नोति** । न त्व् अविदुषो **बहून् अपि **भोजयन् **पुष्कलं फलम् आप्नोति** इत्य् अभिधानात् ब्राह्मणस्य भोजनम् अत्र प्रधानं पिण्डदानादि तु अङ्गम् इत्य् अवसीयते ॥ ३.१२९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-129	Let him feed even one learned man at (the sacrifice) to the gods, and one at (the sacrifice) to the manes; (thus) he will gain a rich reward, not (if he entertains) many who are unacquainted with the Veda.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विद्वज्जनस्तुतिपरम् एतन् न विध्यर्थम् । तथा च कृतव्याख्यानो ऽयं श्लोकः ।
@@ -860,6 +860,11 @@ householders, old men, persons devoted to good acts, those learned in the Veda, 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/130_dUrAd_eva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+130	Let him make inquiries even regarding the remote (ancestors of) a Brahmana who has studied an entire (recension of the) Veda; (if descended from a virtuous race) such a man is a worthy recipient of gifts (consisting) of food offered to the gods or to the manes, he is declared (to procure as great rewards as) a guest (atithi).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From far off one should examine the Brāhmaṇa thoroughly versed in the Veda; such a one is the proper channel for offerings to gods and Pitṛ and in the matter of gifts he has been declared to be the guest.—(130)
@@ -913,11 +918,6 @@ specially at the time of the Śrāddha.’
 **दूराद्** इति । “ये मातृतो दशपुरुषं पितृतो दशपुरुषम्” इत्यादिसूत्रकारोक्तर्त्विक्परीक्षान्यायेन समस्तशाखाध्यायिनं **ब्राह्मणं** **परीक्षेत **यस्मात् तस्मात् तथाविधो ब्राह्मणो **हव्यकव्यानां तीर्थम्** इव (यथा) तीर्थेनोदकावतारणमार्गेणोदकार्थिनो गच्छन्ति एवं तथाविधेन ब्राह्मणेन हव्यकव्यानि देवान् पितॄन् गच्छन्ति । तथाविधो ब्राह्मणः **अतिथि**तुल्यः **स्मृतः** महाफलत्वात् ॥ ३.१३० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-130	Let him make inquiries even regarding the remote (ancestors of) a Brahmana who has studied an entire (recension of the) Veda; (if descended from a virtuous race) such a man is a worthy recipient of gifts (consisting) of food offered to the gods or to the manes, he is declared (to procure as great rewards as) a guest (atithi).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अभिजन्मगुणसम्प्राप्त्यर्थो ऽयं श्लोकः ।
@@ -935,6 +935,11 @@ specially at the time of the Śrāddha.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/131_sahasraM_hi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+131	Though a million of men, unaquainted with the Rikas, were to dine at a (funeral sacrifice), yet a single man, learned in the Veda, who is satisfied (with his entertainment), is worth them all as far as the (production of) spiritual merit (is concerned).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where one thousand persons ignorant of the Veda eat, all those a single man learned in the Veda, on being satisfied, absorbs, in point of merit.—(131)
@@ -998,11 +1003,6 @@ pure character, learned in the Veda, knowing Brahman, youthful, endowed with lea
 **सहस्रम्** इति । **यत्र **दैवपित्र्यादौ अनृग्विदां ब्राह्मणानां दशलक्षाणि **भुञ्जते **तत्रैको वेदवित् भुक्त्वा **प्रीतस्** तुष्टः धर्मतो धर्मोत्पादनेन **तान् सर्वान् अर्हति** स्वीकर्तुं योग्यो भवति, तद्भोजनजन्यधर्मान् उत्पादयतीत्य् अर्थः । इति विद्वद्ब्राह्मणभोजनस्तुतिः ॥ ३.१३१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-131	Though a million of men, unaquainted with the Rikas, were to dine at a (funeral sacrifice), yet a single man, learned in the Veda, who is satisfied (with his entertainment), is worth them all as far as the (production of) spiritual merit (is concerned).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इयम् अपरार्थज्ञप्रशंसा । एवं च सत्य् **अनृचां** मा भूत् । ऋग्विदाम् इति द्रष्टव्यम् । **मन्त्रविच्**छब्दश् च वेदार्थजानिवचनः । एवं च सति –
@@ -1024,6 +1024,11 @@ pure character, learned in the Veda, knowing Brahman, youthful, endowed with lea
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/132_jnAnotkRShTAya_deyAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+132	Food sacred to the manes or to the gods must be given to a man distinguished by sacred knowledge; for hands, smeared with blood, cannot be cleansed with blood.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Offerings for gods and Pitṛs should be given to one who is distinguished by knowledge; for hands smeared with blood are not cleansed by blood.—(132)
@@ -1090,11 +1095,6 @@ or gold or clothing or land or sesamum, he becomes burnt like fuel; if a man has
 **ज्ञानोत्कृष्टायेति** । विद्योत्कृष्टेभ्यो हव्यकव्यानि देयानि नान्येभ्यो यस्मात् यथा रुधिरोपलिप्तौ हस्तौ रुधिरेणैवापगतलेपौ कर्तुं न पार्यते, अपि तूदकेनैव शक्यते, एवं चाज्ञदानमुखेन नात्मा उत्तारयितुं शक्यते अपि तु विद्वद्दानद्वारेणैवेत्य् अविद्वन्निन्दया विद्वद्दानस्तुतिः ॥ ३.१३२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-132	Food sacred to the manes or to the gods must be given to a man distinguished by sacred knowledge; for hands, smeared with blood, cannot be cleansed with blood.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यथा प्रक्षालनविधिज्ञ एव **हस्ताव् असृग्दिग्धौ** समर्थः क्षालयितुं नान्यः, एवम् अर्थञ्ज एवम् आत्मानं परं च तारयितुं समर्थो नेतरः ।
@@ -1120,6 +1120,11 @@ or gold or clothing or land or sesamum, he becomes burnt like fuel; if a man has
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/133_yAvato_grasate.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+133	As many mouthfuls as an ignorant man swallows at a sacrifice to the gods or to the manes, so many red-hot spikes, spears, and iron balls must (the giver of the repast) swallow after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As many mouthfuls as the person ignorant of the Veda swallows out of the offerings to gods and Pitṛs, so many flaming spikes, spears and iron-balls does the man swallow after death.—(133)
@@ -1233,11 +1238,6 @@ learning,—if they be of base conduct and addicted to wicked deeds,—they are 
 > ग्रसते तावतः शूलान् गत्वा वैवस्वतक्षयम् ॥ ३.१३३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-133	As many mouthfuls as an ignorant man swallows at a sacrifice to the gods or to the manes, so many red-hot spikes, spears, and iron balls must (the giver of the repast) swallow after death.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ग्रासयितुर् अत्रापराधो न ग्रसतः । तस्य श्राद्धदानोपदेशशास्त्राधिकारात् । एवं **[१३४]** च सति "**यावतो ग्रसते पिण्डांश् श्राद्धकर्मणि पिण्डदः । हव्यकव्येष्व् अमन्त्रवित्**" । एवम् एवम् इदं वाक्यसामर्थ्याद् द्रष्टव्यम् । अथ वा ग्रसितुर् अमन्त्रो विज्ञेयो ऽपराधः । रङ्कुशः (क्लेशः?) कीदृशः पुनर् ग्रासयितुः इत्य् एवम् । परम् एता (एते?) ।
@@ -1255,6 +1255,11 @@ learning,—if they be of base conduct and addicted to wicked deeds,—they are 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/134_jnAnaniShThA_dvijAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+134	Some Brahmanas are devoted to (the pursuit of) knowledge, and others to (the performance of) austerities; some to austerities and to the recitation of the Veda, and others to (the performance of) sacred rites.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Some twice-born persons excel in learning; others excel in austerities; some others excel in austerities and Vedic study, and others again excel in rites.—(134)
@@ -1341,11 +1346,6 @@ the performance of their duties, devoted to austerities, and devoted to parents,
 **ज्ञाननिष्ठा** इति । **केचिद् **आत्मज्ञानपरा विप्रा भवन्ति । **अपरे** कृच्छ्रादितपःप्रधानाः । अन्ये तु तपोऽध्ययननिरताः । **अपरे** यागादितत्पराः ॥ ३.१३४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-134	Some Brahmanas are devoted to (the pursuit of) knowledge, and others to (the performance of) austerities; some to austerities and to the recitation of the Veda, and others to (the performance of) sacred rites.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 हव्यकव्यतयोर् (?) दानविभागार्थम् । तथा चाह ।
@@ -1371,6 +1371,11 @@ the performance of their duties, devoted to austerities, and devoted to parents,
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/135_jnAnaniShTheShu_kavyAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+135	Oblations to the manes ought to be carefully presented to those devoted to knowledge, but offerings to the gods, in accordance with the reason (of the sacred law), to (men of) all the four (above-mentioned classes).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The offerings to the pitṛs should be carefully presented to those excelling in learning; and the offerings to gods to all the four, according to law.—(135)
@@ -1423,11 +1428,6 @@ born in our family as may feed at the Śrāddha the Brāhmaṇa who is a Yogin! 
 
 इति किम् आह **ज्ञाननिष्ठेष्व्** इति । ज्ञानप्रधानेभ्यो यत्नेन पित्रर्थानि देयानि । देवार्थानि पुनः शास्त्रमर्यादानतिक्रमेण चतुर्भ्यो ज्ञाननिष्ठादिभ्यो ऽपीति ॥ ३.१३५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-135	Oblations to the manes ought to be carefully presented to those devoted to knowledge, but offerings to the gods, in accordance with the reason (of the sacred law), to (men of) all the four (above-mentioned classes).
-</details>
 </details>
 </div>
 
@@ -1441,6 +1441,11 @@ born in our family as may feed at the Śrāddha the Brāhmaṇa who is a Yogin! 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/136_ashrotriyaH_pitA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+136	If there is a father ignorant of the sacred texts whose son has learned one whole recension of the Veda and the Angas, and a son ignorant of the sacred texts whose father knows an entire recension of the Veda and the Angas,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a father happen to be ignorant of the Veda, whose son is thoroughly versed in the Veda,—and if the son happen to be ignorant of the Veda and the father is t horoughly versed in the Veda;—(136)
@@ -1466,11 +1471,6 @@ This verse is intended to propound a doubt (as to which of the two is superior).
 **अश्रोतिय** इति । यः अश्रोत्रियपुत्रः आत्मना श्रोत्रियो, यः श्रोत्रियपुत्रः आत्मना चाश्रोत्रियः ॥ ३.१३६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-136	If there is a father ignorant of the sacred texts whose son has learned one whole recension of the Veda and the Angas, and a son ignorant of the sacred texts whose father knows an entire recension of the Veda and the Angas,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अत्राचार्यविप्रतिपत्तौ मनुर् भगवान् आह ।
@@ -1488,6 +1488,11 @@ This verse is intended to propound a doubt (as to which of the two is superior).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/137_jyAyAMsam_anayor.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+137	Know that he whose father knows the Veda, is the more venerable one (of the two); yet the other one is worthy of honour, because respect is due to the Veda (which he has learned).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Of these two one should regard him as superior whose father is learned in the Veda; while the other deserves honour for the sake of the veneration due to the Veda.—(137)
@@ -1527,11 +1532,6 @@ And since it is this distinction that is sought to be brought out in this verse,
 तयोः कः श्रेयान् इत्य् उपन्यस्याह **ज्यायांसम्** इति । अनयोः पूर्वनिर्दिष्टयोर् मध्यात् श्रोत्रियपुत्रम् आत्मनाश्रोत्रियम् अपि प्रशस्यतरं जानीयात् । पश्चात् अश्रोत्रियपुत्रः आत्मना च श्रोत्रियः स तदधीतवेदपूजार्थं पूजाम् अर्हति । वेदस् तद्द्वारेण पूज्यते । न त्व् असौ पूजार्ह इति पित्रादिविद्यापरीक्षार्थम् । एतच् चाश्रोत्रियदानार्थम्, “श्रोत्रियैव देयानि” इति नियमात् । एवं च “दूराद् एव परीक्षेत” इत्य् एतत् विद्याव्यतिरिक्तजात्यतिशयपरीक्षार्थत्वेनावतिष्ठते ॥ ३.१३७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-137	Know that he whose father knows the Veda, is the more venerable one (of the two); yet the other one is worthy of honour, because respect is due to the Veda (which he has learned).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 श्रोत्रियपुत्रस्य पिता संस्कृतत्वात् परिग्रहः संस्कारस्तुतिपरो द्रष्टव्यः । आचारसम्पद् भोजनप्रदर्शनार्था (?) । "श्रोत्रियायैव देव्यानि" (म्ध् ३.१२८) इति वचनाद् इतरस्य निन्दैव तत्परैव विज्ञेया । तथा च मन्त्रः (?) – 
@@ -1554,6 +1554,11 @@ And since it is this distinction that is sought to be brought out in this verse,
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/138_na_shrAddhe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+138	Let him not entertain a personal friend at a funeral sacrifice; he may gain his affection by (other) valuable gifts; let him feed at a Sraddha a Brahmana whom he considers neither as a foe nor as a friend.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At a Śrāddha one should not feed a friend; his acquisition shall be made by means of riches. At a Śrāddha one should feed him whom he regards neither as friend nor as foe.—(138)
@@ -1617,11 +1622,6 @@ shall not receive a friend; for the purpose of making friends he shall make pres
 **न श्राद्धे भोजयेन् मित्रं धनैः कार्यो ऽस्य सङ्ग्रहः । नारिं न मित्रं यं विद्यात् तं श्राद्धे भोजयेद् द्विजम् ॥ मित्रं श्राद्धे न भोजयेत् ।** किं तर्हि । धनान्तरैर् अस्य मैत्र्यादिस्नेहः कार्यः । **यं** पुनः शत्रुं **न मित्रं **नाभिभर्तुं विज्ञातं ब्राह्मणं श्राद्धे भोजयेत् ॥ ३.१३८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-138	Let him not entertain a personal friend at a funeral sacrifice; he may gain his affection by (other) valuable gifts; let him feed at a Sraddha a Brahmana whom he considers neither as a foe nor as a friend.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अरिमित्रयोः श्राद्धदानप्रतिषेधार्थम् इदम् । शास्त्रात् प्राप्तयोर् अयं प्रतिषेधः । श्रोत्रियत्वादिगुणसम्पदस्यार्थवादो भवति ।
@@ -1639,6 +1639,11 @@ shall not receive a friend; for the purpose of making friends he shall make pres
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/139_yasya_mitra-pradhAnAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+139	He who performs funeral sacrifices and offerings to the gods chiefly for the sake of (gaining) friends, reaps after death no reward for Sraddhas and sacrifices.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He at whose Śrāddhas and sacrifices, the friend forms the principal factor,—for him, after death, there is no reward, either for Śrāddhas or for sacrifices.—(139)
@@ -1726,11 +1731,6 @@ reach neither the gods nor the Pitṛs.’ *Mahābhārata* (Anuśāsana, 90.42-4
 **यस्येति** । **यस्य मित्रो**पकारपराणि हव्यकव्यानि तस्य पारलौकिकं **फलं** न भवतीति फलाभावकथनपरम् एतत्, न केवलं पूर्वमित्रस्य श्राद्धादिना देयं यावत् ॥ ३.१३९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-139	He who performs funeral sacrifices and offerings to the gods chiefly for the sake of (gaining) friends, reaps after death no reward for Sraddhas and sacrifices.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अयं च अनयोर् उभयोर् यत्र प्रतिषेधः । तथा च पूर्वश्लोकेन विशेषवचनम् । **[१३५]** "नारिं न मित्रं यं विद्यात् तं श्राद्धे भोजयेद् द्विजम्" (म्ध् ३.१३८) इति तम् तद्ग्रहणं अरिप्रदर्शनार्थम् अत्र प्रकृतत्वाद् अरेः । पूर्वश्लोके निन्दार्थवादोपचयम् अपेक्षेण (?) चेदम् अन्यद् आरभ्यते (?) ।
@@ -1756,6 +1756,11 @@ reach neither the gods nor the Pitṛs.’ *Mahābhārata* (Anuśāsana, 90.42-4
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/140_yaH_sangatAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+140	That meanest among twice-born men who in his folly contracts friendships through a funeral sacrifice, loses heaven, because he performed a Sraddha for the sake of friendship.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man who, through folly, makes friendships by means of Śrāddhas,—that meanest of twice-born men, having the Śrāddha for his friend, falls from the regions of heaven.—(140)
@@ -1821,11 +1826,6 @@ See Comparative notes for [Verse 3.139].
 
 **य** इति । “श्राद्धदानेनानेन सह मैत्री मे भविष्यति” इति एवं यो मनुष्यः शास्त्रानभिज्ञतया **श्राद्धेन **मित्रभावं कुरुते स मित्रहेतुत्वात् श्राद्धं मित्रम् अस्येति **श्राद्धमित्रो** द्विजापसदः कर्मान्तरार्जितेनापि स्वर्लोके न सम्बध्यत इति ॥ ३.१४० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-140	That meanest among twice-born men who in his folly contracts friendships through a funeral sacrifice, loses heaven, because he performed a Sraddha for the sake of friendship.
-</details>
 </details>
 </div>
 
@@ -1839,6 +1839,11 @@ See Comparative notes for [Verse 3.139].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/141_sAbhihitA_paishAchI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+141	A gift (of food) by twice-born men, consumed with (friends and relatives), is said to be offered to the Pisakas; it remains in this (world) alone like a blind cow in one stable.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This convivial dinner has been called by twice-born people the “gift of devils.” It remains in this world alone, like the blind cow tied in a single room.—(141)
@@ -1889,11 +1894,6 @@ verbal variation.\]
 
 **सम्भोजिनीति **। **सा दक्षिणा **तद्दानं सह भुज्यते ययेति **सम्भोजिनी** या गोष्ठी पिशाचधर्मत्वात् **पैशाची** मन्वादिभिर् उक्ता । सा च मित्रार्थत्वाद् **इह लोके एवास्ते अन्धा गौर् **यथैकस्मिन् गृहे । न परलोके प्रत्युपकाराय भवति ॥ ३.१४१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-141	A gift (of food) by twice-born men, consumed with (friends and relatives), is said to be offered to the Pisakas; it remains in this (world) alone like a blind cow in one stable.
-</details>
 </details>
 </div>
 
@@ -1907,6 +1907,11 @@ verbal variation.\]
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/142_yatheriNe_bIjam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+142	As a husbandman reaps no harvest when he has sown the seed in barren soil, even so the giver of sacrificial food gains no reward if he presented it to a man unacquainted with the Rikas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as having sown the seed in barren soil, the sower reaps no harvest,—even so, having given the offerings to one ignorant of the Veda, the giver obtains no reward.—(142)
@@ -1946,11 +1951,6 @@ germinate and the sower does not reap even a part of the seed, so also the Śrā
 **यथेति** । **यथा **ऊषरे भूप्रदेशे धान्यान्य् उप्त्वा कर्षकः **फलं न **प्राप्नोति एवम् अश्रोत्रियाय श्राद्धादि दत्वा **दाता न फलं **प्राप्नोति । श्रोत्रियदाने वैफल्यकथनार्थम् एतत् ॥ ३.१४२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-142	As a husbandman reaps no harvest when he has sown the seed in barren soil, even so the giver of sacrificial food gains no reward if he presented it to a man unacquainted with the Rikas.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अयं गुणवन्मित्रप्रतिप्रसवार्थः श्लोकः । अन्यस्य गुणवतो ऽभावे स्यात् तथा चानन्तरस्लोके दर्शयति ।
@@ -1968,6 +1968,11 @@ germinate and the sower does not reap even a part of the seed, so also the Śrā
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/143_dAtRRn_pratigrahItRRMsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+143	But a present made in accordance with the rules to a learned man, makes the giver and the recipient partakers of rewards both in this (life) and after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The presenting of the gift, according to rule, to the learned makes the givers and receivers partakers of reward, here as well as after death.—(143)
@@ -2018,11 +2023,6 @@ them, long life, offspring, wealth, learning, heaven, final deliverance and plea
 **विदुषे दक्षिणा भवति प्रेत्य चेह च ।** वेदार्थविदे च यथाशास्त्रं श्राद्धादि दत्तं पितृतृप्त्याख्याम्मुत्रिकफलेन कीर्त्यनुषङ्गैहिकफलेन च **दातॄन्** सफला **कुरुते** । **प्रतिग्रहीतॄंश् च** तत्प्रतिग्रहलब्धधनानुष्ठितयागादिफलेन अमुत्र सफलान् कुरुते । अधर्मार्जितद्रव्यानुष्ठितयागादिनैष्फल्यात् । इह लोके च धर्मार्जितधनकृतकृष्यादिफल-विषेयान् सफलान् कुरुते इति विद्वद्दानस्य दातृप्रतिग्रहीतृदृष्टादृष्टाफलकथनार्थम् एतत्॥ ३.१४३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-143	But a present made in accordance with the rules to a learned man, makes the giver and the recipient partakers of rewards both in this (life) and after death.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 प्रकरणान् मित्रायैव विदुषे ऽन्यस्य विदुषो विहितत्वाद् इहासम्भवः । एवं च सत्य् अस्य श्रोत्रियत्वादिगुणवतो ऽभावे गुणवन्तम् ।
@@ -2044,6 +2044,11 @@ them, long life, offspring, wealth, learning, heaven, final deliverance and plea
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/144_kAmaM_shrAddhe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+144	(If no learned Brahmana be at hand), he may rather honour a (virtuous) friend than an enemy, though the latter may be qualified (by learning and so forth); for sacrificial food, eaten by a foe, bears no reward after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One may entertain a friend at Śrāddhas, but never a foe, even though qualified. The offering eaten by the enemy becomes futile after death.—(144)
@@ -2084,11 +2089,6 @@ with the Ṛk, the Yajuṣ and the Sāman.’
 **कामम्** इति । वरं गुणवद्ब्राह्मणान्तराभावे सगुणं **मित्रं श्राद्धे** भोजयेत् न योग्यम् अपि शत्रुम्, यतो ऽरिणा श्राद्धादि **भुक्तं** परलोके **निष्फलं भवतीति** । अन्याभावे गुणवान् मित्रप्रतिप्रसवार्थम् एतत् । छन्दोमात्राध्यायिनि श्रोत्रियशब्दप्रयोगात् तदाश्रयणं नैयमिकम् उक्तम् ॥ ३.१४४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-144	(If no learned Brahmana be at hand), he may rather honour a (virtuous) friend than an enemy, though the latter may be qualified (by learning and so forth); for sacrificial food, eaten by a foe, bears no reward after death.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 "नारिं न मित्रं यं विद्यात्" (म्ध् ३.१३८) इत्य् अरिमित्रयोः सम्प्रतिषिद्धयोर् मित्रवद् अरेर् अपि गुणवतः प्रतिप्रसवो मा भूद् गुणवद्ब्राह्मणाभावे इति तत्प्रतिषेधार्थम् आरभ्यत इति "श्रोत्रियायैव देयानि हव्यकव्यानि" (म्ध् ३.१२८) इत्य् उक्तम् । यतस् तान् विशिनष्टि छन्दोमात्राध्यायिप्रतिषेधार्थम् ।
@@ -2106,6 +2106,11 @@ with the Ṛk, the Yajuṣ and the Sāman.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/145_yatnena_bhojayech.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+145	Let him (take) pains (to) feed at a Sraddha an adherent of the Rig-veda who has studied one entire (recension of that) Veda, or a follower of the Yagur-veda who has finished one Sakha, or a singer of Samans who (likewise) has completed (the study of an entire recension).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 With great care one should feed at a Śrāddha the adherent of the Ṛgveda who is thoroughly versed in his Veda, or the adherent of the Yajurveda who has finished the entire recensional text, or the adherent of the Sāmaveda who has reached the end of it.—(145).
@@ -2190,11 +2195,6 @@ following.\]—‘At the Śrāddha one shall feed the Sāmavedin; at the Vaiśva
 अधुना तु सति सम्भवे फलविशेषार्थं समस्तशाखाध्यायिनि दानम् आह **यत्नेनेति **। समस्तशाखाध्ययिनं **बह्वृचं** तथाविधम् एवा**ध्वर्युं छन्दोगं** चैवंविधम् एव **यत्नेन श्राद्धे भोजयेत् **। वृत्तवशान् नानाप्रकारैः शब्दैः सकलशाखाध्यायिन एवैते युक्ताः । ये तु छन्दोमात्राध्यायिप्रतिषेधार्थं श्रोत्रियायैव देयानीत्य् एतद्विशेषणार्थत्वम् अस्याहुः । तेषां अनेनैव सिद्धे श्रोत्रियायैव देयानीत्य् एतद् अनर्थकं स्यात् ॥ ३.१४५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-145	Let him (take) pains (to) feed at a Sraddha an adherent of the Rig-veda who has studied one entire (recension of that) Veda, or a follower of the Yagur-veda who has finished one Sakha, or a singer of Samans who (likewise) has completed (the study of an entire recension).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सर्वे एवैते परिसमाप्तवेदाध्ययना नानाप्रकारैः शब्दैर् अभिधीयन्ते । एवं च सति यथा **बह्वृचो वेदपाठगः** एवम् **अध्वर्युः** **शाखान्तर**ग्रहणेन तथैवोच्यते । **छन्दोगं** च **समाप्तिकम्** । त्रिसहस्रविद्यां जानीयाद् यज्ञे ऽपि साध्यात्मविद्यालक्षणविद्ये ते ताः सहस्रवर्त्मना सहस्रेणोपलक्ष्यन्ते सहस्रवर्त्मनः । सामवेदस्य सहस्रस्येमाः साहस्रस् त्रिस्रः सहस्रो विद्या यस्य स त्रिसहस्रविद्यः ।
@@ -2220,6 +2220,11 @@ following.\]—‘At the Śrāddha one shall feed the Sāmavedin; at the Vaiśva
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/146_eShAm_anyatamo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+146	If one of these three dines, duly honoured, at a funeral sacrifice, the ancestors of him (who gives the feast), as far as the seventh person, will be satisfied for a very long time.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If any one of these should dine, duly honoured, at the Śrāddha performed by a certain person, there would be ever-lasting satisfaction for his ancestors, lasting till the seventh degree (of descendants).—(146)
@@ -2281,11 +2286,6 @@ the offerings to Gods and Pitṛs, he attains endless and imperishable results;�
 **एषाम्** इति । **एषां **बह्वृचादीनां मध्याद् **अन्यतमो यस्य **त्व् अर्चितमनाः **श्राद्धं भुञ्जीत तस्य **पित्रादिसप्तपुरुषव्यापिनी अनवच्छिन्ना **पितॄणां तृप्तिः स्याद्** इति समस्तशाखाध्यायिभोजनफलकथनम् । अत एव विज्ञायते – यत्र क्वचनावस्थिताः पितरः पुत्राद्युपहृतकव्यैः सुखम् आसते । इतश् च पितृतृप्तिफलम् एतत्, श्राद्धकर्मणि च अकृताभ्यागमकृतविप्रणाशाव् अत्र चोदनीयौ, शास्त्रैकगोचरत्वे वैश्वानरवत् तथैवागमात् ॥ ३.१४६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-146	If one of these three dines, duly honoured, at a funeral sacrifice, the ancestors of him (who gives the feast), as far as the seventh person, will be satisfied for a very long time.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 नेदं बह्वृचादीनां ग्रहणं क्रमार्थम् अभावविकल्पाश्रयेण । किं तर्हि । श्रोत्रियाणाम् एषां सततं क्रमेणोपदेशः । ऋग्वेदप्रक्रमत्वाद् वेदानां मन्त्रार्थवादेषु । तथा चोक्तम् "**एषाम् अन्यतमो यस्य भुञ्जीत श्राद्धम् अर्चितम्**" इति । 
@@ -2307,6 +2307,11 @@ the offerings to Gods and Pitṛs, he attains endless and imperishable results;�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/147_eSha_vai.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+147	This is the chief rule (to be followed) in offering sacrifices to the gods and manes; know that the virtuous always observe the following subsidiary rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This is the first course to be adopted in the presenting of the offerings made to Gods and Pitṛs. This (following) is to be regarded as the secondary course always adopted by the good.’—(147)
@@ -2355,11 +2360,6 @@ not available;—in *Madanapārijāta* (p. 558), along with the next verse;—in
 **एष** इति । हव्यकव्यप्रदानेन **एष** मुखो विधिः यद् असम्बन्धिभ्यः श्रोत्रियादिभ्यो दीयत इति । **अयं **वक्ष्यमाणः पुनर् मुखाभावे विधिर् बोद्धव्यः, मुख्याभावे च सर्वदा साधुभिर् **अनुष्ठितः** ॥ ३.१४७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-147	This is the chief rule (to be followed) in offering sacrifices to the gods and manes; know that the virtuous always observe the following subsidiary rule.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अनुकल्पो** वक्ष्यमाणः । अनुकल्पे विचारयन् प्रशस्त एव यस्मात् **सदा सद्भिर् अनुष्ठितः** । सो ऽयम् उच्यते ।
@@ -2377,6 +2377,11 @@ not available;—in *Madanapārijāta* (p. 558), along with the next verse;—in
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/148_mAtAmaham_mAtulam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+148	One may also entertain (on such occasions) one's maternal grandfather, a maternal uncle, a sister's son, a father-in-law, one's teacher, a daughter's son, a daughter's husband, a cognate kinsman, one's own officiating priest or a man for whom one offers sacrifices.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One may feed the maternal grandfather, the maternal uncle, the sister’s son, father-in-law, the teacher, the daughter’s son, the son-in-law, a relative, the priest and him at whose sacrifices the performer officiates.—(148)
@@ -2435,11 +2440,6 @@ son,—these deserve to be offered the seat at the Śrāddha to the Pitṛs; the
 **मातामहम्** इति । मातामहमातुलभागिनेयश्वशुरविद्यागुरुदौहित्रर्त्विग्याज्यान् **भोजयेत्** । विट् प्रजा तस्याः पतिं **विट्पतिं** जामातरं **बन्धुं **च सगोत्रादिकम् ॥ ३.१४८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-148	One may also entertain (on such occasions) one's maternal grandfather, a maternal uncle, a sister's son, a father-in-law, one's teacher, a daughter's son, a daughter's husband, a cognate kinsman, one's own officiating priest or a man for whom one offers sacrifices.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अत्र **गुरु**ग्रहणं विद्यागुरूणाम् अर्थाय । <u>केचित्</u> तु [आहुः?] प्रियम् अस्मिन् स्थाने परेति मित्रप्रतिप्रसवार्थम् [इति?] । <u>तद्</u> अयुक्तम् । उक्तत्वान् मित्रप्रतिप्रसवस्य "कामं श्राद्धे ऽर्चयेन् मित्रम्" (म्ध् ३.१४४) इति । **विट्पतिर्** जामाता विट्शब्दस्य प्रजावाचित्वाद्, विशां पतिर् दौहित्रसन्निधौ चास्य श्रवणात् । सम्बन्धिबान्धवमध्ये (?) चोर्वदेधादतो (?) नातिथिर् एवं च यत् । कैश्चिद् उक्तं विशां पतिर् अवेशेषेण सर्वविशाम्पतित्वाद् अतिथिस् तदासन्नम् उक्तत्वाच् च तस्य प्रथमकल्प इति । माताहहादीनां चानुकल्पोपदेशः सम्पत् (?) सो ऽथकारगन्धेनान्यथा हि ज्ञेयः ।
@@ -2457,6 +2457,11 @@ son,—these deserve to be offered the seat at the Śrāddha to the Pitṛs; the
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/149_na_brAhmaNam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+149	For a rite sacred to the gods, he who knows the law will not make (too close) inquiries regarding an (invited) Brahmana; but when one performs a ceremony in honour of the manes, one must carefully examine (the qualities and parentage of the guest).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the rite in honour of the gods, the man knowing the law shall not examine the Brāhmaṇa. But when the rite in honour of the Pitṛs comes to be performed, he shall examine him carefullv.—(149)
@@ -2511,11 +2516,6 @@ examine the Brāhmaṇa; at that in honour of Pitṛs he shall examine him with 
 **नेति** । धर्मज्ञः **दैवे कर्मणि **भोजनार्थं **ब्राह्मणं न परीक्षेत** लोकप्रसिद्धिमात्रेणैवासौ तथा प्रतिपद्य तत्र भोजनीयः । **पित्र्ये कर्मण्य् उपस्थिते **“दूराद् एव परीक्षेत" इत्युक्तनीत्या **यत्नतः परीक्षेत** ॥ ३.१४९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-149	For a rite sacred to the gods, he who knows the law will not make (too close) inquiries regarding an (invited) Brahmana; but when one performs a ceremony in honour of the manes, one must carefully examine (the qualities and parentage of the guest).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 निषिध्यते यथैनं लोको वेद, तथा प्रतिवक्तव्यम् । पित्र्ये तु वृत्तः स्वाध्यायावगमे यत्न आस्थेयः । अथ वा काणश्लिपद्यादीनां सत्य् अपि दुराचारणपाठे दुराचारता नैषां विद्यत इति दैवे तेषाम् अनुज्ञानार्थं परीक्षाप्रतिषेधः । परपाठे न सतां विगर्हिताचारान् इति तत्र गर्हिताचारवचनार्थवद् भवति प्रतिषिद्धब्राह्मणप्रकरणाद् यत्र तु गर्हिताचारास् तान् उभयत्रापि वर्जयेत् । ये ह्य् अत्र काणश्लीपद्यादयस् तां पित्र्यं तवेति । तथा च "ब्राह्मणो ह्य् अनधीयानस् तृणाग्निर् इव शाम्यति" (म्ध् ३.१६८) इति वक्ष्यमाणो हव्ये प्रतिषेधार्थवाद उपपद्यते । अनधीयान इति । ब्राह्मणस् त्यागम् अर्हति किं दुराचारो वाधीयानो ऽयम् अपि न तु **[१३७]** श्लीपद्यादयः । अथ वा "**पित्र्ये कर्मणि तु प्राप्ते परीक्षेत प्रयत्नतः**" इत्य् उत्तरतः प्रकरणार्थम् इदं परीक्षाप्रयत्नवचनम् । तथा चाह ।
@@ -2534,6 +2534,11 @@ examine the Brāhmaṇa; at that in honour of Pitṛs he shall examine him with 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/150_ye_stena-patita-klIbA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+150	Manu has declared that those Brahmanas who are thieves, outcasts, eunuchs, or atheists are unworthy (to partake) of oblations to the gods and manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Manu has declared those Brāhmaṇas undeserving of (receiving) the offerings to gods and Pitṛs who are thieves, outcasts and eunuchs, as also those that have the behaviour of atheists.—(150)
@@ -2628,11 +2633,6 @@ dam-piercer, keeper of musical time, professional actor, teacher of false religi
 **ये स्तेनाः पतिताः क्लीबा **इति । स्तेनादीन् विप्रान् हव्यकव्ययोर् उभयोर् अप्य् अयोग्यान् **मनुर्** आह । चोरान् ब्राह्मणसुवर्णाद् अन्यत्र, तस्य पतितत्वेनोपसङ्ग्रहात् । **पतितम्** एकादशे वक्षयति सुवर्णाद् अन्यत्र, तस्य पतितत्वेनोपसङ्ग्रहात् । पतितम् एकादशे वक्ष्यति क्लीबो नपुंसकम् । नास्ति परलोककर्मेत्य् एवं वर्तनं येषां ते **नास्तिकवृत्तयः** ॥ ३.१५० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-150	Manu has declared that those Brahmanas who are thieves, outcasts, eunuchs, or atheists are unworthy (to partake) of oblations to the gods and manes.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सुवर्नाद्यस्यापहर्ता **स्तेनः** पृथगुपदेशात् । प्रतीतानां **क्लीबः** अपुमान् अपहतशुक्लो वा । सति पुंस्त्वे नास्ति तेभ्यो वृत्तिर् यस्य अनास्तिकस्य सतः नास्तिकत्वेन वा नास्तिकत्वं वा वृत्तिधर्मो यस्य स नास्तिकवृत्तिर् अश्रद्दधानः । एते तावद् उभयत्र प्रतिषिद्धाः । शास्त्रप्रोक्तानां प्रतिषेधः । एवम् उत्तरेषाम् अपि ।
@@ -2650,6 +2650,11 @@ dam-piercer, keeper of musical time, professional actor, teacher of false religi
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/151_jaTila~n_chA-nadhIyAnam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+151	Let him not entertain at a Sraddha one who wears his hair in braids (a student), one who has not studied (the Veda), one afflicted with a skin-disease, a gambler, nor those who sacrifice for a multitude (of sacrificers).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should not feed, at a Śrāddha, one with braided hair, who is not learned, one who is hairless, the gambler, and those who sacrifice for hosts.—(151)
@@ -2764,11 +2769,6 @@ See Comparative notes for [Verse 3.150].
 **जटिलम्** इति । ब्रह्मचारिणम् अस्वीकृतवेदम् अत्यन्तानध्ययनस्य श्रोतिर्यायैव देयानीति नियमे सति प्राप्त्यभावात् । तथा दुश्चर्मद्यूतवृत्त्ययाज्ययाजकान् श्राद्धे न भोजयेत् । दैवे त्व् अनिषेधः, तथा यत्रोभयनिषेधम् इच्छति तत्र हव्यकव्यग्रहणम् उभयत्र चेति करोति ॥ ३.१५१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-151	Let him not entertain at a Sraddha one who wears his hair in braids (a student), one who has not studied (the Veda), one afflicted with a skin-disease, a gambler, nor those who sacrifice for a multitude (of sacrificers).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 जटाभिर् ब्रह्मचार्य् उपलक्ष्यते । अनधीयानस्य प्राप्तिर् एव नास्तीति यतः सामर्थ्यात् प्रकारान्तरेण वेदाध्ययनम् अपरिसमाप्तम् असमाप्तवेदो लभ्यते, अस्वीकृतवेदो वा । अनेन च प्रतिषेधो ऽनुज्ञायते । ईषदध्ययनस्य प्राप्तिर् अस्तीति दैवे । न तु पित्र्ये । अथ वा चाल्पाध्ययनस्य तपसि स्थितस्य प्रतिषेधः । तथा चोक्तम् तपोनिष्ठा तथापर इति । उपनीतमात्रस्य (?) वानादिवेदव्रतत्वाद् अनधीयानस्य "व्रतस्थम् अपि दौहित्रम्" (म्ध् ३.२३४) इत्य् अनेन प्राप्तस्य प्रतिषेधः । ***दुर्बलं** खलतिं लोहितकेशं विकलेन्द्रियम् इति त्रीणि पदानि अस्तव्यस्तं पतितानीवात्र* पातस्येभ्यावाससे(??) पूर्वाश् शाद्वलो नाप्य् अलं भवतीति । वक्ष्यति च "प्राप्नुवन्ति दुरात्मानो नरा रूपविपर्ययम्" (म्ध् ११.४८) इति । **कितवो** द्यूतकारः । **कितवं तथेत्य्** अत्र केचित् **तथा**शब्दस्य स्थाने "स्त्रियं" पठित्वा व्याख्यां ख्यानयन्ति (?) । स्त्रियं न भोजयेत् । स्त्रियं श्राद्धप्रसङ्गात् प्राप्तां वारयति । मात्रादिभ्यः किल तानि युज्यन्ते तरां मूलनमम्भ[१ अक्ष् उन्च्लेअर्]त्वा शाकपिण्डिभिः ब्राह्मणीश् चारित्रतूपसम्पन्ना मातृभ्यो भोजयेद् इत्य् अत्र ब्रूमः । अनेन स्त्रीश्राद्धदर्शनेन तत्राप्रतिषेधो मनुष्यं श्राद्धे चाप्राप्तत्वाद् अयुक्तस्त्रीप्रतिषेध पाथा(?) यतस् तथाशब्द एव परितर्प्यदृष्टारम्भार्थवादार्थं वा स्त्रियः । इति (?) पाठः । <u>अन्ये तु</u> पुनर् ब्रह्मवादिन्या श्रोत्रियत्वात् प्राप्तप्रतिषेधम् आहुस् तत् पुनर् न्याय्यम् अन्याय्यं वेति विचारणीयम् । "**याजयन्ति च ये पूगान्**" गणाद् अर्थं प्राप्य याजकाः । व्रात्यस्तोमैश् च वक्ष्यमाणैः । पृथग् अग्नीन् आदाहेति वचनाद् एवं तेषां गणस्य यञ्जश्रुतेस् तच् चैतद् अकार्यं प्रायश्चित्तेन ज्ञायते । वक्ष्यति हि "व्रात्यानां याजनं कृत्वा" (म्ध् ११.१९८) इति । एषां श्राद्धे प्रतिषेधाद् देवे भोगाभ्यनुज्ञानम् । अतश् चानुज्ञानन् नैते ऽत्यन्तम् अकार्यकारिणो गम्यन्ते ।
@@ -2787,6 +2787,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/152_chikitsakAn_devalakAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+152	Physicians, temple-priests, sellers of meat, and those who subsist by shop-keeping must be avoided at sacrifices offered to the gods and to the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Healers, temple-attendants, meat-sellers and those living by trade,—these should be avoided at rites performed in honour of gods and Pitṛs.—(152)
@@ -2856,11 +2861,6 @@ See Comparative notes for [Verse 3.150].
 **चिकित्सका देवलका मांसविक्रयिणस् तथेति । **चिकित्सकादयो हव्यकव्ययोर् उभयोर् अपि वर्जनीया भवेयुः । **चिकित्सको** भिषक्, **देवलकः** प्रतिषेधः न धर्मार्थम्, तत्र विहितत्वात् । **मांसविक्रयिणः **सकृद् अपि । तथा च “सद्यः पतति मांसेन” इति लिङ्गम् । अन्यथा **विपणेन** गतार्थं स्यात्, इह च **जीवन्त** इत्य् उपादानात् मांसेन सकृद् अपि प्रतीयते । **विपणो** वाणिज्यम् ।॥ ३.१५२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-152	Physicians, temple-priests, sellers of meat, and those who subsist by shop-keeping must be avoided at sacrifices offered to the gods and to the manes.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **चिकित्सकदेवलकयोः** पृथक्प्रतिषेधस्यार्थवत्त्वाय जीविकासम्बन्धेन (?) प्रतिषेधः सामर्थ्याद् विज्ञायते । **मांसविक्रयिणश्** च सकृद् अपि ये भवन्ति "सद्यः पतन्ति मांसेन" (म्ध् १०.९२) इति वचनात् । तस्माद् अन्येन पण्येन लघुनाप्य् अभ्यस्तविक्रयेण जीवन्तो वर्ज्याः स्युर् उभयत्र ।
@@ -2878,6 +2878,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/153_preShyo_grAmasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+153	A paid servant of a village or of a king, man with deformed nails or black teeth, one who opposes his teacher, one who has forsaken the sacred fire, and a usurer;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The servant of a village and of the king, one with deformed nails, one with black teeth, the opposer of his superior, one who has forsaken the Fire and the usurer.—(153)
@@ -2926,11 +2931,6 @@ See Comparative notes for [Verse 3.150].
 भूतिग्रहणपूर्वकं ग्रामाणां राज्ञवाज्ञाकारि । कुत्सितनखकृष्णदन्तः । गुरुप्रतिकूलाचरणशीलत्यक्तश्रौतस्मार्ताग्निकलोपजीविनश्च हव्यकव्ययोर्वर्ज्या इति पूर्वस्यैवात्रानुषङ्ग उत्तरत्र एव च॥१५३॥
 </details>
 
-<details><summary>Bühler</summary>
-
-153	A paid servant of a village or of a king, man with deformed nails or black teeth, one who opposes his teacher, one who has forsaken the sacred fire, and a usurer;
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **ग्रामराजप्रेष्ययोः** कर्मसम्बन्धमात्रात् प्रतिषेधः । **कुनखीश्यावदतोः** पूर्वकर्मावशेषेण । **प्रतिरोद्धा गुरोर्** यत्र तद् राजसं प्रतिकुलम् । **प्रतिरद्धेति** पाठान्तरम् । गुरोर् आभिमुख्येन हिंसकः । **त्यक्ताग्निर्** अविशेषात् । **वार्धुषिश्** च प्रतिषिद्धवृद्धिजीवनः ।
@@ -2948,6 +2948,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/154_yaxmI_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+154	One suffering from consumption, one who subsists by tending cattle, a younger brother who marries or kindles the sacred fire before the elder, one who neglects the five great sacrifices, an enemy of the Brahmana race, an elder brother who marries or kindles the sacred fire after the younger, and one who belongs to a company or corporation,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The invalid, the cattle-tender, one who has superseded h is elder brother, he who neglects the Great Sacrifices, one who is inimical to Brāhmaṇas, he who has been superseded by his younger brother, and one who is member of a company.—(154)
@@ -3039,11 +3044,6 @@ See Comparative notes for [Verse 3.150].
 **यक्ष्मीति** । क्षयी वृत्त्यर्थत्वेन पशुपालः प्रसिद्धः, परिवेत्तृपरिवित्ती च वक्ष्यमाणौ । **निराकृतिः** वेदादीनां निराकर्ता अनुपजीव्यः, ब्राह्मणानां द्वेष्टा गण्मध्यगतो ब्राह्मणादिभिः इत्य् एते हव्यकव्ययोः वर्ज्याः स्युः ॥ ३.१५४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-154	One suffering from consumption, one who subsists by tending cattle, a younger brother who marries or kindles the sacred fire before the elder, one who neglects the five great sacrifices, an enemy of the Brahmana race, an elder brother who marries or kindles the sacred fire after the younger, and one who belongs to a company or corporation,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **यक्ष्मी** क्षयी । **पशुपालस्या**जीवसम्बन्धेन प्रतिषेधः । आपुरस् (अपरस्?) तत्र पाथो (पाठो?) **गोरक्षः पशुपालश् चेति** । स च गोबलीवर्दन्यायेन व्याख्येयः । **परिवेत्तारं परिवित्तिं** च वक्ष्यति । **निराकृतिर्** निराकर्ता देवर्षिमनुष्याणाम् । अनद्धा पुरुषः अननुजीव्य इत्य् अर्थः । तथा च वाजसनेयिनां श्रुतिः- "अद्धाभवा येषां पुरुषो ये देवन् न (?) नमति पितॄन् न मनुष्यान्" । गौतमश् च प्रायश्चित्तम् अस्याह- "अग्न्युत्सादिनिराकृत्युपपातकेषु (?) चैवम्" (ग्ध् २२.३४) इति । **ब्रह्मद्विट्** ब्राह्मणद्विट् (?) ब्रह्मब्राह्मणशब्दयोर् एकर्थत्वात् । तथा च शिष्टप्रयोगः- "कुतो न पठसि ब्राह्मण" इति । शब्दद्विषस् तूत्तरत्र विधानाद् "वेदनिन्दक एव च" (म्ध् ३.१६१) इति । **गणाभ्यन्तरस्** तु गणसमयमध्यगः । अथ वा नानाजातीया नियमवृत्तयः उत्सेधजीविनः सङ्घा गणास् तदभ्यन्तरो वा ।
@@ -3061,6 +3061,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/155_kushIlavo.avakIrNI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+155	An actor or singer, one who has broken the vow of studentship, one whose (only or first) wife is a Sudra female, the son of a remarried woman, a one-eyed man, and he in whose house a paramour of his wife (resides);
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 An actor, one who has broken the vows of continence, the husband of a Śūdra woman, the son of a re-married woman, one who has only one eye, and he in whose house lives the paramour.—(155)
@@ -3127,11 +3132,6 @@ See Comparative notes for [Verse 3.150].
 **कुशीलव** इति । नटगायकादिः । कृतस्त्रीसंसर्गयोगो ब्रह्मचारी शूद्राया भर्ता । पुनर्भ्वाः पुत्रो वक्ष्यमाणः, **काणः**, यस्य च जायाजारो **गृहे** इत्य् एते हव्यकव्ययोः परिहरणीयाः ॥ ३.१५५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-155	An actor or singer, one who has broken the vow of studentship, one whose (only or first) wife is a Sudra female, the son of a remarried woman, a one-eyed man, and he in whose house a paramour of his wife (resides);
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **वृषलीपतिः** प्रासादवासी येन केवलो ज्ञेयः । स चोक्तः पुनस् तद् एते नौरविमाहिषकौ (?) व्याख्यातौ । **पौनर्भवो** वक्ष्यमाणः । **उपपतिर्** जारो गुणापेक्षया ।
@@ -3149,6 +3149,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/156_bhRtakAdhyApako_yash.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+156	He who teaches for a stipulated fee and he who is taught on that condition, he who instructs Sudra pupils and he whose teacher is a Sudra, he who speaks rudely, the son of an adulteress, and the son of a widow,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who teaches for a stipulated fee, he who is taught by one who teaches for a stipulated fee, the pupil and also the teacher of a Śūdra, one who is reprehensible in speech, the son of an adulteress and the son of a widow.—(156)
@@ -3213,11 +3218,6 @@ See Comparative notes for [Verse 3.150].
 **भृतकाध्यापक** इति । पणपूर्वाध्यापकः, पणपूर्वाध्यापितः, **शूद्रशिष्यः** तस्यैव च **गुरुः**, न स्वगुरुः, तस्यानुकल्पे भोज्यत्वेनोक्तत्वात् । परुषभाषी, **कुण्डगोलकौ** वक्ष्यमाणौ, एते हव्यकव्ययोः वर्ज्याः ॥ ३.१५६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-156	He who teaches for a stipulated fee and he who is taught on that condition, he who instructs Sudra pupils and he whose teacher is a Sudra, he who speaks rudely, the son of an adulteress, and the son of a widow,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उत्पाद्याध्यापकः **भृतकाध्यापकः** गुरुर् यदि यतेति (?) भृतैः प्रसिद्धत्वात् । **[१३९]** यदि वै तद् एवं भवति ततः "अध्याप्या दश धर्मतः"(म्ध् २.१०९), "धर्मर्थौ यत्र न स्यातां" (म्ध् २.११२), "स्नास्यंस्तु गुरुणाज्ञाप्तः शक्त्या गुर्वर्थम् आहरेत्" (म्ध् २.२४५), "त्रीणि कर्माणि जीविका" (म्ध् १०.७६) इत्येवमादीनि शास्त्राण्य् अर्थवन्ति नान्यथा । कुण्डगोलकौ वक्ष्यमाणौ ।
@@ -3235,6 +3235,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/157_akAraNe_parityaktA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+157	He who forsakes his mother, his father, or a teacher without a (sufficient) reason, he who has contracted an alliance with outcasts either through the Veda or through a marriage,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The forsaker, without cause, of his mother, father and superior; and he who has formed a connection, through the relationship of either Veda or marriage, with outcasts.—(157)
@@ -3322,11 +3327,6 @@ See Comparative notes for [Verse 3.150].
 **अकारणपरित्यक्तेति** । मातृपितृविद्यागुऋऊणां निष्कारणं **परित्यक्ता पतितैश्** चाध्ययनकन्यादानादिसम्बन्धः सम्पर्कं गतः अर्वाग् अपि संवत्सरात् । संवत्सरेण तु पतितत्वाद् एव गतर्थता “संवत्सरेण पतति” इति ॥ ३.१५७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-157	He who forsakes his mother, his father, or a teacher without a (sufficient) reason, he who has contracted an alliance with outcasts either through the Veda or through a marriage,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 मात्रादीनां परित्यागे कारणं वक्ष्यति । तेन विना यस् तेषां परित्यक्ता स चाभोजनीयः । ऋज्व् अन्यत् ।
@@ -3344,6 +3344,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/158_agAradAhI_garakUTakArakaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+158	An incendiary, a prisoner, he who eats the food given by the son of an adulteress, a seller of Soma, he who undertakes voyages by sea, a bard, an oil-man, a suborner to perjury,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The house-burner, the poisoner, one who eats the food of an adulteress’ son, the seller of Soma, the sea-voyager, the bard, the dealer in oils, and the perjuror.—(158)
@@ -3416,11 +3421,6 @@ See Comparative notes for [Verse 3.150].
 **अगारदाहीति** । गृहस्य दाहको, मारणद्रव्यदाता कुण्डस्य वक्ष्यमाणस्य यो ऽन्नम् अश्नाति, सोमस्य लतारूपस्य विक्रेता, समुद्रं यो गच्छति, स्तुतीनां पाठकः, तिलादेः पेषकः, लेख्यसाक्ष्यादौ कूटस्य कर्ता इत्य् एत उभयत्र परिहरणीयाः ॥ ३.१५८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-158	An incendiary, a prisoner, he who eats the food given by the son of an adulteress, a seller of Soma, he who undertakes voyages by sea, a bard, an oil-man, a suborner to perjury,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अगारदाही** वेश्वोद्दीपकः । प्रसिद्धो **गरदः** । **कुण्डाशी** वक्ष्यमाणः । सोमविक्रयी लता सोमस्य ज्योतिष्टोमदैवन्दी (?) प्रत्यूषसी पीतसंयुक्ताभिः स्तुतिभिः स्थापको राज्ञाम् (?) । **तैलिककूटकारकौ** अङ्गारदाहाभावे । श्मोद्री प्रसिद्धौ (?) ।
@@ -3438,6 +3438,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/159_pitrA_vivadamAnash.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+159	He who wrangles or goes to law with his father, the keeper of a gambling-house, a drunkard, he who is afflicted with a disease (in punishment of former) crimes, he who is accused of a mortal sin, a hypocrite, a seller of substances used for flavouring food,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One quarrelling with one’s father, the keeper of a gambling house, the drunkard, one afflicted with a foul disease, one accused of sins, the hypocrite, and the dealer in essence.—(159)
@@ -3542,11 +3547,6 @@ See Comparative notes for [Verse 3.150].
 **पित्रेति** । **पापरोग्य् अभिशस्तश् च जालिको रसविक्रयी । **शास्त्रालोकवस्तुषु यः **पित्रा** सह विवदते, **कितवः **अपरः देवयति, इतरस्योक्तत्वात् । **केकर** इति पाठकाचारः । सुराव्यतिरिक्तमद्यस्य पाता कुष्ठी, पातकोपपातककर्तृत्वेनोत्पन्नाभिशापो ऽसत्य् अपि तत्कारित्वनिश्चये, सव्याजो धर्मानुष्ठाने, रसशब्दस्येक्षुरसादाव् अपि प्रसिद्धत्वात् तद्विक्रयी विषस्येव तत्राप्य् अर्थशास्त्रे रसशब्दप्रयोगात् इत्य् एते उभयत्र परिहर्तव्याः ॥ ३.१५९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-159	He who wrangles or goes to law with his father, the keeper of a gambling-house, a drunkard, he who is afflicted with a disease (in punishment of former) crimes, he who is accused of a mortal sin, a hypocrite, a seller of substances used for flavouring food,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **पित्रा विवदमानो** ऽधिकस्मार्तलौकिकेषु पदार्थेषु "जटिलं च" (म्ध् ३.१५१) इत्यादिश्लोके चाभिहितः **कितवः** । पुनर् इह कस्माद् उच्यते । पूर्वो हि साक्षात् कर्ता द्यूतस्यातो मुख्ये (?) श्रावणं (?) पुअनस् तत्प्रयोजकः गौणमुख्ययोश् च मुख्ये सम्प्रत्ययात् । अयम् अपि गौणो ऽयं चातुराणाम् अभिधानीयः (?) । अवश्यवक्तव्यत्वाद् अयं पुनः पदार्थान्तरात् पादस्योपदेशे परशास्त्रक्षीरं सविकाराम् इति (?) । यथा गौतमस्य (?) मद्यपग्रहणस्य वा कितवविशेषणार्थत्वाद् अयं वा न कितवः । पूर्वस् त्व् अक्षितितपः (कितवः?) कस्मात् पुनर् इह मद्यप एव केवलो नोच्यते । किं ते विशेषणविशेष्यभावेनैवं कल्पिते । **हेति** पादपूरणार्थम् । पद्यग्रन्थस्य । <u>अपरे</u> तु पुनरुक्तिभयात् **केकरम्** अत्र पठन्ति- "**पित्रा विवदमानश् च केकरो मद्यपस् तथा**" इति । अर्थस् तु केकरो ह्य् अर्थदृष्टस्य क्रूरो भव्त्य् अतो (?) हेयः । मद्यपस् त्व् अरिष्टादीनाम् अन्यानां पाता । सुरापस् तु पठित (?) एव । यतो ऽयं (?) शास्त्रान्तरे ऽन्यद्यसुरापः (?) परितं [सुरातः पतिअतिं?] सुरामद्यपाने चान्द्रायणम् अभ्यस्येद् इत्य् अयम् अपि च वक्ष्यति । "सुराभाङ्डस्थ्ता अपः" इत्य् एवमादि । [[अपः सुराभाजनस्था मद्यभाण्डस्थितास् तथा । पञ्चरात्रं पिबेत् पीत्वा शङ्खपुष्पीशृतं पयः" इति (म्ध् ११.१४७) सङ्ख्याङ्कितं पद्यम् ]] मद्यप्रायश्चित्तविशेषं च स च तत्योदाद्युक्तः (?) । **पापरोगी** **[१४०]** कुष्ठी । **अभिशस्तः** प्रसिद्धः । **डाम्भिकः** धोपद्मे (?) धर्मचरणे **रसविक्रयी** विषविक्रेता । स्यह्मे (?) तदभिधानम् अर्थविन्यायां दृष्टम् । तथा चोपंशुवधे रसप्यैन्द्रिप्रयोग (??) उच्यते ।
@@ -3564,6 +3564,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/160_dhanuH-sharANA~N_kartA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+160	A maker of bows and of arrows, he who lasciviously dallies with a brother's widow, the betrayer of a friend, one who subsists by gambling, he who learns (the Veda) from his son,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The maker of bows and arrows, he whose wife dallies with another person and he who makes love to his brother’s widow, he who injures a friend, he who subsists by gambling and he who has his own son for his teacher.—(160)
@@ -3668,11 +3673,6 @@ See Comparative notes for [Verse 3.150].
 **धनुःशराणाम्** इति । धनुःशरस्य कारकः । **अग्रेदिधिषूपतिः **ऽभ्रातुर् मृतस्य” इति वक्ष्यमाणः । वृत्तवशात् अग्र इत्य् अध्यलोपेन सत्यभामा भामेतिवत् । यत् तु गौतमीयपर्यालोचनया अग्रेदिधिषूपतिशब्देन द्वयं निष्पद्यते – अग्रेदिधिषूपतिः दिधिषूपतिश् च । तत्राग्रेदिधिषूपतिः अनूढाकन्यागामी, दिधिषूपतिस् तद्वोढेत्य् आहुः – तद् असत्, अशब्दार्थत्वात् । न च दिधिषूपतिश् च तद्वोढेति व्याख्यानं युक्तम्, “भ्रातुर् मृतस्य” इति मानवलक्षणविरोधात् । मित्रस्य यो ऽपकारे वर्तते, **द्यूतवृत्तिः **सभिकः, पुत्रेणाध्यापितः मुख्यस्य पुत्राचार्यत्वस्यासम्भवात् ॥ ३.१६० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-160	A maker of bows and of arrows, he who lasciviously dallies with a brother's widow, the betrayer of a friend, one who subsists by gambling, he who learns (the Veda) from his son,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अग्रेदिधिषूपतिर्** इत्य् अत्र द्वयं वार्यते । अग्रेदिधिषूर् दिधिषूपतिश् च । तत्राग्रेदिधिषुर् नामानूढः कन्यागामी दिधिषूपतिस् तदुद्वोढः । तथा च गौतमः द्वयम् इदं पठत्य् अग्रे "दिधिषुर् दिधिषूपतिः" (ग्ध् १५.१६) इति । उत्तरतस् (?) तु कन्यादूषकं वा विद्यात् त्रेणेत्य् अन्यस्यापि मदोहः (?) प्रत्यवायायायं त्व् इति शयार्थो मित्रदुहः **द्यूतवृत्तिः** करयिता एतस्माद् एव च तदकार्यम् इत्य् अनुमीयते । एतेन द्यूतस्य कर्ता व्याख्यातः । पुत्राचार्यो येन पुत्राद् अधीतम् ।
@@ -3690,6 +3690,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/161_bhrAmarI_ganDamAlI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+161	An epileptic man, who suffers from scrofulous swellings of the glands, one afflicted with white leprosy, an informer, a madman, a blind man, and he who cavils at the Veda must (all) be avoided.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 An epileptic, one having a string of scrofulous swellings, one who suffers from leucoderma, the backbiter, the lunatic, the blind man, and the derider of the Veda—all these should be avoided.—(161)
@@ -3752,11 +3757,6 @@ See Comparative notes for [Verse 3.150].
 **भ्रामरीति** । अपस्मारी, गण्डमालाख्यव्याध्युपेतः, **श्वित्री**, सूचकः, धातुसङ्क्षोभादियुक्तः, **अन्धो** वेदस्य कुत्सकः, इत्य् एते हव्यकव्ययोर् **वर्ज्याः स्युः** ॥ ३.१६१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-161	An epileptic man, who suffers from scrofulous swellings of the glands, one afflicted with white leprosy, an informer, a madman, a blind man, and he who cavils at the Veda must (all) be avoided.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **भ्रामर्य्** अपस्मारी । **गण्डमाल्यादयस्** तु प्रसिद्धा एव ।
@@ -3774,6 +3774,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/162_hasti-go--shvoShTradamako_naxatrair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+162	A trainer of elephants, oxen, horses, or camels, he who subsists by astrology, a bird-fancier, and he who teaches the use of arms,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The tamer of elephants, bulls, horses or camels, one who subsists on stars, bird-keeper and the teacher of warfare.—(162)
@@ -3822,11 +3827,6 @@ See Comparative notes for [Verse 3.150].
 **हस्तिगोऽश्वोष्ट्रदमक** इति । हस्तिगवाश्वोष्ट्राणां विनेता, ज्यितिःशास्त्रेण जीवनः पक्षिणां वार्तनपूर्वकं क्रीडार्थं पोषयति युद्धशिक्षयिता एते उभयत्र परिहर्तव्याः ॥ ३.१६२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-162	A trainer of elephants, oxen, horses, or camels, he who subsists by astrology, a bird-fancier, and he who teaches the use of arms,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **युद्धाचार्यश्** चास्त्रकुशलः (?) ।
@@ -3844,6 +3844,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/163_srotasAm_bhedako.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+163	He who diverts water-courses, and he who delights in obstructing them, an architect, a messenger, and he who plants trees (for money),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who diverts water-courses, he who is addicted to obstructing them, the house-planner, the messenger and
@@ -3898,11 +3903,6 @@ See Comparative notes for [Verse 3.150].
 **स्रोतसाम्** इति । उदकागमनसेतुबन्धभेदकः भेदादिना देशान्तरनेता च । तेषाम् अवच्छादनकृत्, वास्तुविद्याजीवनः **दूतो** राजप्रेष्यव्यतिरिक्तो ऽपि । वृक्षाणां रोपयिता मूल्येन, न धर्मार्थं “दशाम्रवापी नरकं न याति” इत्यादिनोदनात् ॥ ३.१६३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-163	He who diverts water-courses, and he who delights in obstructing them, an architect, a messenger, and he who plants trees (for money),
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **दूतश्** च् राजप्रेष्यो ऽपि कदाचिद् भवति, राजाधीनो ऽपि मध्यस्थतया जानपदो ऽपि । **वृक्षारोपकस्** तु मूल्येन रोपयिता प्रतिषिध्यते इतरस्योपदेशसामर्थ्यात् ।
@@ -3920,6 +3920,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/164_shvakrIDI_shyenajIvI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+164	A breeder of sporting-dogs, a falconer, one who defiles maidens, he who delights in injuring living creatures, he who gains his subsistence from Sudras, and he who offers sacrifices to the Ganas,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who sports with dogs, the falconer, the defiler of virgins, the cruel man, he who derives his subsistence from Śūdras, and he who sacrifices to the Gaṇas.—(164)
@@ -3976,11 +3981,6 @@ See Comparative notes for [Verse 3.150].
 **श्वक्रीडीति** । श्वभिः यः क्रीडति, याजकक्रियादिजीवकः कन्याया निन्दकः हिंसारतः, शूद्रजीव्नः । वृषलपुत्र इति वा पाठः । चतुर्दश्यादौ विनायकादिगणयागकृत् इत्य् एव उभयत्र वर्जनीयाः॥ ३.१६४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-164	A breeder of sporting-dogs, a falconer, one who defiles maidens, he who delights in injuring living creatures, he who gains his subsistence from Sudras, and he who offers sacrifices to the Ganas,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **कन्यादूषको** वा चेत्य् उक्तम्, इतरस् त्व् अग्रेदिधिषुर् व्याख्यातः । **हिंस्रः** क्षुद्रजन्तुवधारभ्य(?) येन दूष्यते । अन्यस् तूक्त एव । **वृषलपुत्रः** अनुत्पन्नेतरभार्यापुत्रः शूद्रपुत्रतयोच्यते । **गणानां याजको** बहुयाज्ययाजकः लौकिकगणस्य वाचां (?) इत्यादिकर्मणा । "याजयन्ति च ये पूगान्" (म्ध् ३.१५१) इत्य् अत्र व्रात्ययाजको ऽभिहितः । लौकिकालौकिकगुणविभागेन वा द्विर्वचनम् अस्य । <u>अन्ये</u> **[१४१]** तु पुनरुक्तिभयाद् अन्यथा पठन्ति । "नृणां चैव व्येषकः (?)" इति । परिग्रहभृत्सामदीक्षाम् उदीक्षक इत्य् अर्थः । (?)
@@ -3998,6 +3998,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/165_AchAra-hInaH_klIbash.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+165	He who does not follow the rule of conduct, a (man destitute of energy like a) eunuch, one who constantly asks (for favours), he who lives by agriculture, a club-footed man, and he who is censured by virtuous men,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One devoid of right conduct, the man without vigour, the constant beggar, he who lives by agriculture, one suffering from elephantiasis, and he who is spoken ill of by good men.—(165)
@@ -4050,11 +4055,6 @@ See Comparative notes for [Verse 3.150].
 **आचारहीन** इति । प्रत्युत्थानाद्याचारवर्जितः, **क्लीबः **निरुत्साहः, नपुंसकस्योक्तत्वात्, सर्वदा याच्ञास्वभावः । अस्वयङ्कृतं वापि यः कृष्या वृत्त्यन्तरसम्भवे ऽपि जीवति, **श्लीपदी **व्याधिविशेषाद् उच्छून्नैकचरणः साधुभिर् निन्दितः केनापि निमित्तेनेत्य् एतत् । उभयत्र बहिःकार्याः ॥ ३.१६५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-165	He who does not follow the rule of conduct, a (man destitute of energy like a) eunuch, one who constantly asks (for favours), he who lives by agriculture, a club-footed man, and he who is censured by virtuous men,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **आचारेण** सन्ध्योपासनादिना **हीनः** । अपचारकृद् (?) अपि ज्ञेयः (?) । **क्लीबस्** तु अधीतवेदो ऽभिहितः । विज्ञानभार्यो ऽपि (?) गृहकर्मानुष्ठाने भग्नोत्साहः । अधिकृतः सन्न् आलस्योत् (?) **क्लीब** उच्यते । यथार्जुनो युद्धे भग्नोत्साहो वासुदेवेनोक्तः "क्लैब्यं मा स्म गमः पार्थ" (भ्ग् २.३) इति । अथ वैकत्र नपुंसकः । क्लीबो ऽन्यत्रोपहतजीवः, सत्य् अपि पुंस्त्वे पुनर्वचनसामर्थ्यात् । **नित्यं याचनको** विद्यमानस्वः विनापि निमित्तेन याचमान उच्यते । **कृषिजीवी** तु यः स्वयं कर्तृत्व नानावद्यव्यर्थकामोपभोगपरो जीवनायैव न धर्माय तां करोति स त्व् एवं (?) निन्द्यते । **श्लीपदी** प्रसिद्धः । सिद्धश् च यो निन्द्यते ईषद्व्यतिक्रमे ऽपि स तदपध्यानात् (?) गर्ह्यः ।
@@ -4072,6 +4072,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/166_aurabhrikopUrvA-patis_tathA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+166	A shepherd, a keeper of buffaloes, the husband of a remarried woman, and a carrier of dead bodies, (all these) must be carefully avoided.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The sheep-dealer, the buffalo-keeper, the husband of a woman who had another previous husband, the carrier of the dead—all these should be avoided with care.—(166)
@@ -4120,11 +4125,6 @@ See Comparative notes for [Verse 3.150].
 **औरभ्रिकः** मेषमहिषजीवी पुनर्भुवो भर्ता मूल्येन प्रेतानां निर्हारकः न धर्मार्थम्, “एतद् वै परमं तपो यं प्रेतम् अरण्यं हरन्ति” इति श्रुत्या नोदितत्वात् । एते यत्नत उभयत्र वर्जनीयाः ॥ ३.१६६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-166	A shepherd, a keeper of buffaloes, the husband of a remarried woman, and a carrier of dead bodies, (all these) must be carefully avoided.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **औरभ्रमाहिषकौ** व्याख्यातौ ॥ **प्रेतनिर्याससकः** शापस्य कर्मणः कर्तेति <u>केचित्</u> । तद् अयुक्तं शिष्यज्ञात्यादीनाम् अन्त्यकर्मप्रतिषेधात् । अज्ञातिं तर्हि पदकारुण्येन (?) धर्मार्थम् । एवं च श्रुतिः "एतद् वै परमं तपः यत् प्रेतम् अरण्यं नयन्ति" ।
@@ -4142,6 +4142,11 @@ See Comparative notes for [Verse 3.150].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/167_etAn_vigarhitAchArAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+167	A Brahmana who knows (the sacred law) should shun at (sacrifices) both (to the gods and to the manes) these lowest of twice-born men, whose conduct is reprehensible, and who are unworthy (to sit) in the company (at a repast).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The learned Brāhmaṇa should avoid at both (rites) these l owest of twice-born men, who are of reprehensible conduct and who are unworthy of company.—(167)
@@ -4187,11 +4192,6 @@ of the line; the wise man should avoid them with great care at the performance o
 **एतान्** इति । एते निन्दिताचाराः स्तेनादयः इहजन्मनि । काणादयश् च “एवं कर्माव्शेषेण जायन्ते” इति वक्ष्यमाणत्वात् प्राग्जन्मनि । अत एतान् योग्यब्राह्मणैः सह एकपङ्क्तिभोजनानर्हान् ब्राह्मणापसदान् द्विजश्रेष्ठः शास्त्रज्ञः दैवे पित्र्ये च वर्जयेत् ॥ ३.१६७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-167	A Brahmana who knows (the sacred law) should shun at (sacrifices) both (to the gods and to the manes) these lowest of twice-born men, whose conduct is reprehensible, and who are unworthy (to sit) in the company (at a repast).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **गर्हिताचार**वचनाद् (?) ये तु काणश्लिपद्यादयः अगर्हिताचाराः स्युस् तेषां युक्तो हव्यावकाशो ऽनेन शास्त्रेण । अथ त्व् अगर्हिताचाराणाम् अपि तेषां तत्रानवकाशः । एवं तर्हि **गर्हिताचार**वचनम् अनर्थकं भवति । अश्रोत्रियास् ते स्युर् अतो वा तेषां तत्रानवकाशो युक्तः स्यात् तत् कारणम् ।
@@ -4209,6 +4209,11 @@ of the line; the wise man should avoid them with great care at the performance o
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/168_brAhmaNo_tv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+168	As a fire of dry grass is (unable to consume the offerings and is quickly) extinguished, even so (is it with) an unlearned Brahmana; sacrificial food must not be given to him, since it (would be) offered in ashes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The unlearned Brāhmaṇa becomes quenched in the same manner as the fire of dry grass. The sacrificial offering should not be presented to him; as no libation is poured upon ashes.—(168)
@@ -4277,11 +4282,6 @@ extinguished fire reaches neither the Gods nor the Pitṛs, so also what is give
 > अदूष्यं तं यमः प्राह पङ्क्तिपावन एव सः ॥ इति ॥ ३.१६८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-168	As a fire of dry grass is (unable to consume the offerings and is quickly) extinguished, even so (is it with) an unlearned Brahmana; sacrificial food must not be given to him, since it (would be) offered in ashes.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अनधीयानो हि** यत् **ब्राह्मणस्** त्यागम् अर्हतीत्य् उक्तं शास्त्रात् । अधीयानो ऽपि दुराचारः **[१४२]** यस् तु काणश्लीपद्यादिः तस्य युक्तो भोजनावकाशो दैवे एवं काणादीनां दुराचारपाठे कव्यभोजनप्रतिषेधश् चार्थवान् भवति । काणत्वादिना निमित्तेन दुराचारश्रोत्रियत्वाभ्यां चैषां हव्यभोजनावकाशः सिद्धो भवति, विपर्याससामर्थ्याद् इति ।
@@ -4299,6 +4299,11 @@ extinguished fire reaches neither the Gods nor the Pitṛs, so also what is give
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/169_apAnktadAne_yo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+169	I will fully declare what result the giver obtains after death, if he gives food, destined for the gods or manes, to a man who is unworthy to sit in the company.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 I am going to describe fully the results that afterwards accrue to the giver from giving, out of the offering to gods and to Pitṛs, to one who is unworthy of the line.—(169)
@@ -4340,11 +4345,6 @@ which is eaten by the twice-born men ‘unfit for company’ goes to the Rākṣ
 **अपङ्क्त्यदान** इति । पङ्क्तिभोजनानर्हदाने **दातुर् **यद् एनो देवपित्रर्थहविषि फलोत्पत्तिर् भवति तत् साकल्येन **प्रवक्ष्यामि **॥ ३.१६९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-169	I will fully declare what result the giver obtains after death, if he gives food, destined for the gods or manes, to a man who is unworthy to sit in the company.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अस्य प्रतिषेधस्यायं निन्दार्थवादप्रकरणोपन्यासार्थः श्लोकः ।
@@ -4362,6 +4362,11 @@ which is eaten by the twice-born men ‘unfit for company’ goes to the Rākṣ
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/170_avratair_yad.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+170	The Rakshasas, indeed, consume (the food) eaten by Brahmanas who have not fulfilled the vow of studentship, by a Parivettri and so forth, and by other men not admissible into the company.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Demons indeed consume the food that is eaten by Brāhmaṇas deviod of self-restraint, by such as those who have superseded their elder brother and the like, or by others that are unworthy of company.—(170)
@@ -4414,11 +4419,6 @@ See Comparative notes for [Verse 3.170].
 वेदग्रहणार्थं सावित्रादिव्रतरहितैः तथा **परिवेत्त्रादिभिर् अन्यैश् च **स्तेनादिभिर् अपाङ्क्तेयैः यत् देवपित्रर्थं **भुक्तं** तत् सुकृतलेशवशेन **रक्षांसि भुञ्जते **न दात्रभिमतफलाय भवति । अव्रतानां च निषिद्धमध्यापठितानां अप्य् अस्माद् एव निषेधो बोध्यः ॥ ३.१७० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-170	The Rakshasas, indeed, consume (the food) eaten by Brahmanas who have not fulfilled the vow of studentship, by a Parivettri and so forth, and by other men not admissible into the company.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यावान् कश्चिद् अकार्यकारी सर्वो ऽसाव् **अपाङ्क्त्यः** । एषां भोजने **तद् वै रक्षांसि भुञ्जत** इत्य् अर्थवादो निन्दार्थः । कथं नाम सर्वान् अपाङ्क्त्यान् (?) वर्जयेद् इत्य् एवं च सति नानेन रक्षोभ्यो दाने निन्द्ये ऽपाङ्क्त्येभ्यो दानम् अभ्यनुज्ञायते । रक्षोभ्यो दानस्याशिष्टत्वाच् छास्त्रे अप्रकरणाच् च तस्य सामान्येन यत् सर्वेषाम् अपाङ्क्त्यानां भोजनप्रतिषेधार्थवादः ।
@@ -4444,6 +4444,11 @@ See Comparative notes for [Verse 3.170].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/171_dArAgnihotrasaMyoga~N_kurute.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+171	He must be considered as a Parivettri who marries or begins the performance of the Agnihotra before his elder brother, but the latter as a Parivitti.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who unites himself with “wife” and “Agnihotra,” while his elder remains, is to be regarded as the “superseder of his elder;” and the elder is to be regarded as “one who is superseded.”’—(171)
@@ -4572,11 +4577,6 @@ marries before such brothers as are the sons of uncles or of step-mothers, or of
 परिवेत्त्रादीन् अप्रसिद्धत्वाल् लक्षयति **दानाग्निहोत्रसंयोगम्** इति । यो ज्येष्ठे भ्रातरि अकृतदारके सति दारश्रौतस्मार्ताग्न्यानयनं कुरुते **स परिवेत्ता, **ज्येष्ठश् च **परिवित्तिर्** बोध्यः ॥ ३.१७१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-171	He must be considered as a Parivettri who marries or begins the performance of the Agnihotra before his elder brother, but the latter as a Parivitti.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अत्रागिनोत्रशब्देन आवसथो ऽपि गृह्यते सामर्थात् कर्माङ्गत्वाद् उभयोः । तथा च स्वाग्निहोत्रशब्देन ग्रहणं करिष्यते । "नैव कन्या न युवतिर् नाल्पविद्यो न बालिशः । होता स्याद् अग्निहोत्रस्य" (म्ध् ११.३६) इत्य् उभयोः सञ्ज्ञायाश् च शास्त्रेणैवार्थाभिधानम् अस्य व्यभिचारस्य निन्दार्थवादो वर्जनार्थः ।
@@ -4602,6 +4602,11 @@ marries before such brothers as are the sons of uncles or of step-mothers, or of
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/172_parivittiH_parivettA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+172	The elder brother who marries after the younger, the younger brother who marries before the elder, the female with whom such a marriage is contracted, he who gives her away, and the sacrificing priest, as the fifth, all fall into hell.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The superseded elder brother, the superseding younger brother, and she through whom the superseding is done,—all these go to hell, along with the giver and the officiating priest as the fifth.—(172)
@@ -4668,11 +4673,6 @@ marries illegally—all these are outcasts.’
 प्रसङ्गाद् एतद्व्यतिक्रमफलम् आह **परिवित्तिर्** इति । **परिवित्तिपरिवेत्तारौ यया च** कन्यया हेतुभूतया परिवेदनं क्रियते **दाता** च कन्यायाः याजकश् च तदुद्वाहहोमस्योपदेष्टा येषां **पञ्चमः **ते नरकं गच्छन्ति ॥ ३.१७२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-172	The elder brother who marries after the younger, the younger brother who marries before the elder, the female with whom such a marriage is contracted, he who gives her away, and the sacrificing priest, as the fifth, all fall into hell.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **परिवेत्ता** तावच् छास्त्रातिक्र्मात् **परिवित्तिर्** विघ्नहेतुत्वात् । कनीयसः कर्मानुष्ठाने कन्या च प्रत्यवायहेतुर् येन पतेद् एवं यो **दातृयाजकौ** च प्रतिषिद्धार्थानुष्ठानसहकारितया पञ्चश[१ अक्ष् उन्च्लेअर्; पञ्चमौ?] **दातृयाजक**ग्रहणात् सर्वकार्येषु साहित्यप्रतिषेधो ऽनुमीयते । तथा चेन् निबन्धन एवायं शिष्टप्रतिवादः । पुरुषस्य भवन्ति ये सभायाः कलुषे कर्मणि धर्मसञ्चये वा अवगच्छति तांस् तदन्तरात्मा नियतं ते ऽपि नरास् तदंशभाज इति । (?)
@@ -4690,6 +4690,11 @@ marries illegally—all these are outcasts.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/173_bhrAtur_mRtasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+173	He who lasciviously dallies with the widow of a deceased brother, though she be appointed (to bear a child by him) in accordance with the sacred law, must be known to be a Didhishupati.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who would lasciviously make love to the wife of his dead brother, even though she may have been appointed according to law (to bear a child by him), should be known as the “didhiṣūpati.”—(173)
@@ -4751,11 +4756,6 @@ husband of a woman who has had a previous husband,—the wise called
 **भ्रातुर्** इति । **मृतस्य भ्रातुः** वक्ष्यमाणनियोगे **धर्मेणापि नियुक्तायां भार्यायां यो **नियोगधर्मं हित्वा कामेन हेतुभूतेनानुरागं भावयेत् **सो ऽग्रेदिधिषूपतिः** निषिद्धत्वात् । अत्र वृत्तवशात् सत्यभामावच् चाग्रशब्दस्याप्रयोगः ॥३.१७३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-173	He who lasciviously dallies with the widow of a deceased brother, though she be appointed (to bear a child by him) in accordance with the sacred law, must be known to be a Didhishupati.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 आम्नाये अपठितं केचिच् चैतं पठन्ति । **दिधिषूपतिश्** चायम् उक्तेनाग्रेदिधिषुश् चात्र स्मृत्यन्त्रसामर्थ्येन व्याख्यातः । दिधिषूपतिश् चायं यश् चाग्रेदिधिषूपतिर् इत्य् अत्र प्रतिषेधपरे वाक्ये कुण्डगोलकाव् इदानीं निर्दिशति ।
@@ -4773,6 +4773,11 @@ husband of a woman who has had a previous husband,—the wise called
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/174_paradAreShu_jAyete.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+174	Two (kinds of) sons, a Kunda and a Golaka, are born by wives of other men; (he who is born) while the husband lives, will be a Kunda, and (he who is begotten) after the husband's death, a Golaka.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By the wives of other men two kinds of sons are born: the “Kuṇḍa” and the “Golaka;” he who is born while the husband is alive is the “Kuṇḍa,” and one born after the death of the husband is the “Golaka.”—(174)
@@ -4859,11 +4864,6 @@ the other being excluded on the ground of his being a non-Brāhmaṇa;—in
 **परदारेष्व्** इति । परभायायां **कुण्डगोलका**ख्यौ सुताव् उत्पद्येते । तत्र सपतिकायां य उत्पद्यते स **कुण्डः, **विधवायां च **गोलकः** ॥ ३.१७४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-174	Two (kinds of) sons, a Kunda and a Golaka, are born by wives of other men; (he who is born) while the husband lives, will be a Kunda, and (he who is begotten) after the husband's death, a Golaka.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं च **कुण्डः** स्यान् न मन्नत् (?) कुण्डाशीति प्रसिद्धः । **कुण्ड**ग्रहणं **गोलका**र्थम् अपि स्यात्, प्रतिषेधे साहचर्योपदेशात् । तत्र
@@ -4881,6 +4881,11 @@ the other being excluded on the ground of his being a non-Brāhmaṇa;—in
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/175_tau_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+175	But those two creatures, who are born of wives of other men, cause to the giver the loss (of the rewards), both in this life and after death, for the food sacred to gods or manes which has been given (to them).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These creatures, born of other men’s wives, cause, for the giver, the destruction, in this life as well as after death, of their offerings to gods and pitṛs that have been presented to them.—(175)
@@ -4923,11 +4928,6 @@ See Comparative notes for [Verse 3.175].
 **ते तु जाताः परक्षेत्रे** इति । **ते** परभार्याजाताः कुण्डगोलकाखाः अदृष्टार्थानुपयोगात् प्राणिमात्रव्यपदेशार्हा **हवकव्यानीह दत्तानि **इहलोके आनुषङ्गिककीर्त्याख्यफलाभावात् अमुत्र देवपितृतृप्त्यभावात् दातॄणां निष्फलानि भवन्ति कुर्वन्ति वा ॥ ३.१७५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-175	But those two creatures, who are born of wives of other men, cause to the giver the loss (of the rewards), both in this life and after death, for the food sacred to gods or manes which has been given (to them).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अयं चान्यो विशेषार्थवादः ।
@@ -4945,6 +4945,11 @@ See Comparative notes for [Verse 3.175].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/176_apAnktyo_yAvataH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+176	The foolish giver (of a funeral repast) does not reap the reward for as many worthy guests as a man, inadmissible into company, can look on while they are feeding.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one who is unworthy of company happen to look upon a number of those that are worthy of company, while those are eating, then the foolish giver (of food) does not obtain the reward of feeding so many men.—(176).
@@ -4986,11 +4991,6 @@ eunuch, a hundred; the man suffering from leucoderma, as much as he sees _(;)—
 
 **अपाङ्क्त्या **इति । पङ्क्तिभुञ्जानानर्हान् तान् अपि । **यावतः** यावत्सङ्ख्याकान् अनर्हा भोजनानर्हा अनुपश्यन्ति तावत्सङ्ख्याकानां सम्बन्धि तत्र श्राद्धादौ **दाता** अज्ञः **नात्र फलम् आप्नुयात्** इति अपाङ्क्त्यदर्शनफलम् उक्तम् ॥ ३.१७६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-176	The foolish giver (of a funeral repast) does not reap the reward for as many worthy guests as a man, inadmissible into company, can look on while they are feeding.
-</details>
 </details>
 </div>
 
@@ -5004,6 +5004,11 @@ eunuch, a hundred; the man suffering from leucoderma, as much as he sees _(;)—
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/177_vIxyA-ndho_navateH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+177	A blind man by his presence causes to the giver (of the feast) the loss of the reward for ninety (guests), a one-eyed man for sixty, one who suffers from white leprosy for a hundred, and one punished by a (terrible) disease for a thousand.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The blind man, by looking, destroys the feeder’s reward for feeding ninety men, the one-eyed man of sixty, the leper of one hundred, and the man afflicted with a foul disease of a thousand.—(177)
@@ -5045,11 +5050,6 @@ This verse is quoted in *Aparārka* (p. 454), which adds that what is meant is t
 अन्धादीनां विशेषम् आह **वीक्ष्येति** । अन्धस्य दर्शनाभावात् तत्र सन्निहितो ऽसौ पाङ्क्त्यानां **नवतेः** सम्बन्धिभोजनफलं नाशयति । एवं **काणः षष्टेः श्वित्री शतस्य कुष्ठी सहस्रस्य **इत्य् अन्धादिसन्निधिफलकथनम् । सङ्ख्यावैचित्र्याद् एवेदम् अप्य् अवसीयते यत् अथ चेन् मन्त्रवियुक्त इत्य् उक्तं च शष्टिदर्शनावष्टम्भेन काणादीन् भोजयिष्यतः पूर्वपूर्वम् अपचितसङ्ख्या निन्दितप्रवृत्तिः । तदकामे ऽधिकनिनिदिते इति ॥ ३.१७७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-177	A blind man by his presence causes to the giver (of the feast) the loss of the reward for ninety (guests), a one-eyed man for sixty, one who suffers from white leprosy for a hundred, and one punished by a (terrible) disease for a thousand.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पङ्क्तिगता एते ऽपि पश्यन्तो ऽपीत्य् अर्थः । एवं च "**वीक्ष्यान्धो नवतेः काणः**" इत्य् एतद् अर्थवद् भवति, तस्य दर्शनाभावात् षष्ट्यादिनिर्देशाच् च । यथा कथञ्चिन् निन्दार्थवादः अविवक्षितसङ्ख्याङ्कः (?) । अधिकस्य सङ्ख्याविशेषस्याभ्यनुज्ञार्थः । एषु सत्सु,
@@ -5067,6 +5067,11 @@ This verse is quoted in *Aparārka* (p. 454), which adds that what is meant is t
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/178_yAvataH_saMspRshed.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+178	The giver (of a Sraddha) loses the reward, due for such a non-sacrificial gift, for as many Brahmanas as a (guest) who sacrifices for Sudras may touch (during the meal) with his limbs.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As many Brāhmaṇas the officiator at the sacrifices performed by Śūdras may happen to touch with his limbs,—the reward relating to charity in connection with the gift to so many Brāhmaṇas fails to accrue to the giver.—(178)
@@ -5121,11 +5126,6 @@ heretic, the decrier of the Veda, the sophist, the sacrificer for the Śūdra, a
 **यावतः संस्पृशतीति** । शूद्रस्य पाकयज्ञादेर् उपदेष्टा कर्ता च यत्सङ्ख्याकान् ब्राह्मणान् **अङ्गैः स्पृशति **आसनेषूपकॢप्तेषु बर्हिष्मत्सु पृथग् इति स्पर्शनिषेधात् यावतां पङ्क्ताव् उपविशति तत्सङ्ख्याकानां सम्बन्धि **भोजनफलं** न भवतीति । शूद्रयाजकभोजनफलम् । अत एव चाग्रनिषिद्धगणपठितस्यापि निषेधो बोद्धव्यः ॥ ३.१७८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-178	The giver (of a Sraddha) loses the reward, due for such a non-sacrificial gift, for as many Brahmanas as a (guest) who sacrifices for Sudras may touch (during the meal) with his limbs.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अत्राङ्गशब्दो दृ[१ अक्ष् उन्च्लेअर्]तो वेदितव्यः, प्रकरणात् । अथ वा पङ्क्तिगतः एवैते अपङ्क्तियोगात् परस्परतः संस्पृष्टा इव भवन्तीति । एतस्मात् सामान्याद् अयं संस्पर्श उच्यते ।
@@ -5143,6 +5143,11 @@ heretic, the decrier of the Veda, the sophist, the sacrificer for the Śūdra, a
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/179_vedavich_chA-pi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+179	And if a Brahmana, though learned in the Veda, accepts through covetousness a gift from such (a man), he will quickly perish, like a vessel of unburnt clay in water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a Brāhmaṇa, though learned in the Veda, should, through covetousness, accept a gift from him,—he quickly perishes; just like the unbaked vessel in water.—(170)
@@ -5191,11 +5196,6 @@ by water.’
 वेदज्ञो ऽपि **विप्रः** शूद्रयाजकसकाशाल् लोभेन दानादि प्रतिगृह्य मृन्मयापक्वशरावाद्युदक इवाशु **विनाश्म् **उपैति । प्रसङ्गाल् लाघवार्थं अप्रकृतम् अप्य् एतद् उक्तम् । अन्यत्र हि क्रियमाणे शूद्रयाजकग्रहणं कर्तव्यं स्यात् ॥ ३.१७९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-179	And if a Brahmana, though learned in the Veda, accepts through covetousness a gift from such (a man), he will quickly perish, like a vessel of unburnt clay in water.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **वेदविद् अपीति** द्रष्टव्यम् असत्प्रतिग्रहसंयोगाच् चायं प्रतिषेधो वेदितव्यः लिङ्गतः ।
@@ -5213,6 +5213,11 @@ by water.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/180_somavikrayiNe_viShThA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+180	(Food) given to a seller of Soma becomes ordure, (that given) to a physician pus and blood, but (that presented) to a temple-priest is lost, and (that given) to a usurer finds no place (in the world of the gods).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What is given to the Soma-seller becomes ordure; to the physician, pus and blood; that to the temple-attendant becomes lost; and that to the usurer has no place.—(180)
@@ -5261,11 +5266,6 @@ the physician becomes pus and blood; what is given to the temple-servant perishe
 **सोमविक्रयिण **इति । **सोमविक्रयिणे **यद् **दत्तं **तद् दातृभोजनार्थं शकृत् सम्पद्यते । तच् च शकृद्भोजने तिर्यग्जात्युत्पत्तिफलता स्यात् [इति] अनेन प्रकारेणोक्तं भवति । एवं **पूयरुधिरे** अपि व्याख्येये । **नष्टं **विनाशम् उपगतम्, अतश् च न तत्फलं भवति । **अप्रतिष्ठितम्** अलब्धास्पदम्, अतश् चानाश्रयत्वात् न फलदानसमर्थम् ॥ ३.१८० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-180	(Food) given to a seller of Soma becomes ordure, (that given) to a physician pus and blood, but (that presented) to a temple-priest is lost, and (that given) to a usurer finds no place (in the world of the gods).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यथा कथञ्चिद् देयानि वृत्त्यर्थानि (?) [एदितोर् थिन्क्स् थिस् मय् बे फ़्रोम् अ दिफ़्फ़ेरेन्त् वेर्से]
@@ -5283,6 +5283,11 @@ the physician becomes pus and blood; what is given to the temple-servant perishe
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/181_yat_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+181	What has been given to a Brahmana who lives by trade that is not (useful) in this world and the next, and (a present) to a Brahmana born of a remarried woman (resembles) an oblation thrown into ashes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That which is given to the trader is neither here nor there. Similarly, what is given to the Brāhmaṇa born of a remarried woman is like a libation poured on ashes.—(181)
@@ -5321,11 +5326,6 @@ This verse is quoted in *Aparārka* (p. 454).
 
 **यद् **इति । वाणिजकाय **यद् दत्तं तत् नेह **कीर्तये, नापि परलोकफलाय भवति । पुनर्भूपुत्राय च दत्तं निष्फलं **भस्मनीव हुतं** हव्यं तत्प्रेष्यम् [तद्वज् ज्ञेयम्] ॥ ३.१८१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-181	What has been given to a Brahmana who lives by trade that is not (useful) in this world and the next, and (a present) to a Brahmana born of a remarried woman (resembles) an oblation thrown into ashes.
-</details>
 </details>
 </div>
 
@@ -5339,6 +5339,11 @@ This verse is quoted in *Aparārka* (p. 454).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/182_itareShu_tv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+182	But the wise declare that the food which (is offered) to other unholy, inadmissible men, enumerated above, (is turned into) adipose secretions, blood, flesh, marrow, and bone.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wise ones declare that food given to the other unfit persons unworthy of company, described above, becomes fat, blood, flesh, marrow and bone.—(182)
@@ -5393,11 +5398,6 @@ avoided: those *fit for the line* alone should be invited; if one feeds the sinf
 **इतरेष्व्** इति । इतरेभ्यः अनुक्तफलेभ्यो ऽपाङ्क्त्रेभ्यः यद् दत्तम् अन्नं तत् मेदशोणितमांसमज्जास्थि भवतीति विद्वांसः । अथ “सोमविक्रयिणे विष्ठा” इतिवद् व्याख्येयम् ॥ ३.१८२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-182	But the wise declare that the food which (is offered) to other unholy, inadmissible men, enumerated above, (is turned into) adipose secretions, blood, flesh, marrow, and bone.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अविशेषेण सर्वेषां निन्दार्थवादः । अयम् अभिप्रायः । न केवलं निन्दितेभ्यो दत्तं निष्फलं भवति, अपरम् अनर्थम् उत्पादयति । युक्ता चानर्थोत्पत्तिः प्रतिषिद्धापरणा (?) श्लोकपत्सस्याम् (?) अनर्थोत्पत्तौ । यथाश्रुतकल्पना न्यायविरोधिनी मुण्डित्वासामर्थ्यात् प्रत्यवायार्थतैवैषा परिकल्पनीया ।
@@ -5416,6 +5416,11 @@ avoided: those *fit for the line* alone should be invited; if one feeds the sinf
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/183_apAnktyopahatA_panktiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+183	Now hear by what chief of twice-born men a company defiled by (the presence of) unworthy (guests) is purified, and the full (description of) the Brahmanas who sanctify a company.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Now listen to the full description of those chief of twice-born men, the sanctifiers of company, by which best of the twice-born a company defiled by men unworthy of company becomes purified.—(183)
@@ -5458,11 +5463,6 @@ that is why they are called the *sanctifiers of company*.’
 **अपाङ्क्त्योपहतेति ।** स्तेनादिभिः पङ्क्त्युपविष्टैः दूषिता **पङ्क्तिः यैर्** ब्राह्मणैः पवित्रीक्रियते **तान् **पङ्क्तिपवित्रीकरणात् ब्राह्मणान् साकल्येन शृणुत । यद्य् अप्य् अस्य पङ्क्तिनिषेधात् स्तेनादीनां स्तेनादीनां श्राद्धदानासम्भवे ऽपि सति पङ्क्तिपावनवचनम् अनर्थकम्, तथापि परीक्षायां कृतायाम् अपि रहस्यविज्ञानदोषसम्भवात् इदं तन्निवृत्त्यर्थम् अर्थवद् भवति ॥ ३.१८३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-183	Now hear by what chief of twice-born men a company defiled by (the presence of) unworthy (guests) is purified, and the full (description of) the Brahmanas who sanctify a company.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 नन्व् अपाङ्क्त्यानां प्रतिषेधाच् छ्राद्धनियोगासम्भवे पङ्क्तिपावनोपन्यासवचनम् अनर्थकम् इत्य् एवं तर्ह्य् अभिजनाध्ययनविज्ञानवताम् अप्य् अविज्ञातदोषाणां यदृच्छया नियोगपदे ऽर्थाद् भवति । कथं पङ्क्तिपावनाभिप्रयत्नतः परीक्ष्य नियुक्ताः "पित्र्ये कर्मणि तु प्राप्ते परीक्षेत प्रयत्नतः" (म्ध् ३.१४९) इत्य् अनेन तत्रापङ्क्त्यभोजनदोषं पाठयन्ति स्वमहिम्ना, श्राद्धस्य वा वैगुण्यं च कल्पयन्ति, कुत एतत् । पङ्क्तिपावननियोगोपदेशसामर्थ्यात् । इतरथा हि तदुपदेशो ऽनर्थकः स्यात् । अथ वा वक्ष्यमाणब्राह्मणस्तुत्यर्थम् इदं पङ्क्तिपावनम् । कथम् ।
@@ -5480,6 +5480,11 @@ that is why they are called the *sanctifiers of company*.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/184_agryAH_sarveShu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+184	Those men must be considered as the sanctifiers of a company who are most learned in all the Vedas and in all the Angas, and who are the descendants of Srotriyas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those persons should be known as “sanctifiers of company” who are foremost in all the vedas and in all the explanatory sciences, and who are born in the family of men learned in the veda.—(184)
@@ -5574,11 +5579,6 @@ the *Jyeṣṭhasāman*, one who is free from avarice, one who is devoted to the
 **अग्र्या** इति । **सर्वेषु वेदेषु** ऋग्वेदादिषु ये अग्रे भवाः (व्याः) वेदपारगत्वे सत्य् अपि वेदं करामलकवत् पश्यन्तीति **अग्र्या **उच्यन्ते, ते **पङ्क्तिपावना **बोद्धव्याः । तथा प्रोच्यते एभिर् वेदार्थम् इति **प्रवचान्य् **अङ्गानि तेषु पूर्ववद् अग्र्याः वेदज्ञत्वाभावे ऽपि पङ्क्तिपावनाः तथा वंशम् अविच्छिन्नवेदाः पङ्क्तिपावनाः । पूर्वं “अश्रोत्रियः पिता यस्य” (१.१३६) इति पितृगतश्रोतियत्वेन भोज्यत्वम् उक्तम् । अनेन तु सकलवंशाविच्छिन्नवेदत्वेन पङ्क्तिपावन उच्यते ॥ ३.१८४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-184	Those men must be considered as the sanctifiers of a company who are most learned in all the Vedas and in all the Angas, and who are the descendants of Srotriyas.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पूर्वोक्ता यथामी ब्राह्मणा अभिजातादिगुणसम्पदा प्रथमकल्पानुकल्पजा पङ्क्तिपावना भवन्ति, एवम् अमी वक्ष्यमाणास् त्रिणाचिकेतादयो ऽपि । कस्मात् पुनर् अयं श्लोकः दृष्टान्तार्थ एवम् उच्यते । परार्थं न स्वार्थम् उक्तत्वात् । एतेषां पुनर्वचनम् इहानर्थकं स्याद् दृष्टान्तत्वे त्रिणाचिकेतादयस् (?) त्व् अनुक्ता अयथोक्तगुणत्वाद् अतस् तेषां स्तुत्यर्थपूर्वोक्तानाम् अयम् उपदेशो ऽनेन श्लोके (१ अक्ष् lacuna) न द्रव्यनानार्थो वर्ण्यते ।
@@ -5602,6 +5602,11 @@ the *Jyeṣṭhasāman*, one who is free from avarice, one who is devoted to the
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/185_triNAchiketaH_panchAgnis.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+185	A Trinakiketa, one who keeps five sacred fires, a Trisuparna, one who is versed in the six Angas, the son of a woman married according to the Brahma rite, one who sings the Gyeshthasaman,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who has learnt the “Triṇāciketa,” one who knows the science of the five fires, one who has learnt the “Trisuparṇa,” one who knows the six-limbed science, one who is born of a woman married in the “Brahma (Brāhma)” form, one who sings the Jyeṣṭha-sāmas.—(185)
@@ -5687,11 +5692,6 @@ See Comparative notes for [Verse 3.184].
 **त्रिणाचिकेत** इति । त्रिणाचिकेताख्याध्वर्यव वेदव्रताचरणात् गुणात् ब्राह्मणो ऽपि **त्रिणाचिकेतः, पञ्चाग्निर् **व्याख्यातः, त्रिसुपर्णाख्यऋग्वेदव्रतयोगात् पूर्ववत् **त्रिसुपर्णः** । व्याकरणादीनि षडङ्गानि यो वेत्ति । “सर्वप्रवचनेषु” इत्य् अनेन अङ्गाध्येता उक्तः । अनेन त्व् अङ्गज्ञ उच्यते । ब्राह्मविवाहोढापत्यं ज्येष्ठसामाख्यसामवेदव्रतयोगात् **ज्येष्ठसामगः** ॥ ३.१८५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-185	A Trinakiketa, one who keeps five sacred fires, a Trisuparna, one who is versed in the six Angas, the son of a woman married according to the Brahma rite, one who sings the Gyeshthasaman,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **त्रिणाचिकेतम्** अध्ययनं व्रतं साहचर्यात् तच् चानूच्यते । ब्राह्मणः **[१४५]** **पञ्चाग्निर्** बहुव्रीहिणोक्तः । सव्यापसव्यार्थाभ्यां सहते तया वानप्रस्थस्य [१ अक्ष् उन्च्लेअर्] प्राप्तिः "शीर्षे पञ्चतपास् तु स्यात्" इत्य् अनेन **त्रिसुपर्ण**बह्वृचव्रतं तत्साहचर्यात् तद्वानूच्यत इत्य् उक्तम् । अपरस् तु तद्धितपाठत्वात् (?) सौपर्णस् तत्र भवत्वाद् उच्यते । एतेषाम् अल्पाध्ययनानाम् अपि त्रिणाचिकेतादिभिः कारणैर् इह प्राप्तिर् अस्यारम्भासामर्थात् **षडङ्गम्** इदम् । सम्पूर्णाधयनो ऽपि **ब्रह्मदेयानुसन्तान**दः ब्राह्मविवाहोत्पन्नः । ज्येष्ठसाम तच्छन्दोगानां तद् अस्यास्तीति **ज्येष्ठसामिकः** । अपरे तु **ज्येष्ठसामग** इति पठन्ति । तेषाम् अपि व्युत्पत्तिर् गुणतो वचनीया ।
@@ -5709,6 +5709,11 @@ See Comparative notes for [Verse 3.184].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/186_vedArtha-vit_pravaktA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+186	One who knows the meaning of the Veda, and he who expounds it, a student, one who has given a thousand (cows), and a centenarian must be considered as Brahmanas who sanctify a company.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who understands the meaning of the Veda, he who expounds it, the Student, the giver of a thousand, the centenarian;—these Brāhmaṇas should be known as “Sanctifiers of Company.”—(186)
@@ -5779,11 +5784,6 @@ See Comparative notes for [Verse 3.184].
 **वेदार्थविद्** इति । अन्तरेणाप्य् अङ्गानि यो वेदार्थं प्राज्ञतया वेत्ति **प्रवक्ता** अध्यापयिता व्याख्याता धर्मार्थं वेदवेदार्थयोः **ब्रह्मचारी **। “गावो वै यज्ञस्य मातरः” इति वेददर्शनात् इहापि वेदमूलत्वात् गोसहस्रस्य दाता बहुप्रदश् च, एवं शतवर्षश् च इत्य् एते ब्राह्मणाः “श्रोत्रियायैव देयानि” इति नियमात् । सति श्रोत्रियत्वे एतद्गुणयोगे पङ्क्तिपावना बोद्धव्याः ॥ ३.१८६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-186	One who knows the meaning of the Veda, and he who expounds it, a student, one who has given a thousand (cows), and a centenarian must be considered as Brahmanas who sanctify a company.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 वेदार्थाद् अन्तरेणाप्य् अङ्गान्य् अथागमतः (?) । तथा च नैरुक्ताः- "न ह्य् एषु प्रत्यक्षम् अस्त्य् अनृषेः (?) । अपाङ्क्तेया (?) वा" इति । **प्रवक्ता** शास्त्रान्तराणां (?) स्मृतिप्रभृतीनाम्, न वेदबाह्यानाम् । वक्ष्यति हि "असच्छास्त्राधिगमनम्" (म्ध् ११.६६), "या वेदबाह्याः श्रुतयः" (म्ध् १२.९५) इति च । एवं "षडङ्गवित्"पदात् **प्रवक्तृ**पदं भिन्नार्थं व्याख्येयम् । **ब्रह्मचारि** च पूर्ववद् वचनीयः । श्राद्धभोजनप्रतिषेधं चास्य समाधास्यामः । **सहस्रदो** विधेयाद् गवां **शतायुषो**(?) ऽनपेक्ष्यैतान् गणान् परिपक्वदोषः कालेन समाधिप्रलम्भात् **पङ्क्तिपावनः** अपङ्क्त्योपहतपङ्क्तिर् इति (?) विकल्पाल् लिङ्गाद् एभिः (?) सहैकपङ्क्तिभोजने प्रत्यवायो ऽनुमीयते । एवं हि पङ्क्त्युपघातवचनम् अत्रार्थवद् भवति । यतो ऽन्यत्राप्य् एभिः सह न भुञ्जीत न चैकत्र समासीत । पङ्क्तिपावनानां तु साधुत्वम् अनेनाभ्युपायेनोच्यते । अथ वा तैः सहैकपङ्क्त्यां भोजनाद् अभ्युदयं प्रत्यवायानुत्पत्तिमात्रं वा येन पङ्क्तिपावना न पङ्क्तिदूषकास् तैः सहैकपङ्क्त्याम् भोजनेनाभ्युदहः न प्रत्यवायः । पर्वाश् चैवं (?) ब्राह्मणपरीक्षा श्राद्धभोजने ऽप्य् उच्यमाना तुल्यत्वात् कारणस्य, समाचाराद् अन्यत्रापि द्रष्टव्या । यच् चापि दैवसङ्कीर्तनं न तत् पितृगतम् एव केवलदैवे ऽपि विज्ञेयम् । कार्याविशेषाद् अन्यत्र च दैवार्थं "वेदविद्याव्रतस्नातान्" (म्ध् ४.३१) इति सामान्यनिर्देशात् । सर्वदेवार्थं द्रष्टव्यम् इत्य् उक्तो ब्राह्मणपरीक्षाविधिः । कर्मविवक्षया त्व् इदम् उच्यते ।
@@ -5802,6 +5802,11 @@ See Comparative notes for [Verse 3.184].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/187_pUrvedyur_aparedyur.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+187	On the day before the Sraddha-rite is performed, or on the day when it takes place, let him invite with due respect at least three Brahmanas, such as have been mentioned above.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the śrāddha-performance has approaohed, one should invite, either on the preceding day or the next day, in the proper manner, at least three brāhmaṇas, such as have been described.—(187)
@@ -5891,11 +5896,6 @@ approach the Brāhmaṇas after they have taken their evening meal and invite th
 **पूर्वेद्युर्** इति । श्राद्धे कर्मणि प्राप्ते स्त्रीप्रयोगाशङ्कायां श्राद्धदिवसात् पूर्वस्मिन्न् अहनि परस्मिन्न् एव असति सम्भवे यद्य् अत्यन्तन्यूनान् ततस् त्रीन् न तु त्रीन् एव, एकैकविधेर् अप्य् उक्तत्वात् । प्रश्रयपूर्वं वा यथोक्तान् विप्रान् **निमन्त्रयेत्** ॥ ३.१८७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-187	On the day before the Sraddha-rite is performed, or on the day when it takes place, let him invite with due respect at least three Brahmanas, such as have been mentioned above.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **पूर्वेद्युः** श्राद्धात् पूर्वस्मिन् अहनि मैथुनशङ्कयेदम् अनागतकालोपनिमन्त्रणम् । पर्वप्रतीतौ च मैथुनस्य मासिकश्राद्धम् अदिन्यतैतत् (?) कृतार्थं दुर्लभत्वाद् वा तद् अहर् एव ब्राह्मणानाम् **अपरेद्युर्** अप्य् एकस्मिन्न् अहनि । एतत्कारणद्वयाभावे सति **त्र्यवरान्** इत्य् एतत् कृतविचारम् । ऋज्व् अन्यत् ।
@@ -5913,6 +5913,11 @@ approach the Brāhmaṇas after they have taken their evening meal and invite th
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/188_nimantrito_dvijaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+188	A Brahmana who has been invited to a (rite) in honour of the manes shall always control himself and not recite the Veda, and he who performs the Sraddha (must act in the same manner).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The brāhmaṇa invited at a rite in honor of Pitṛs shall remain self-controlled and shall not recite the Veda; so also the man who performs the śrāddha.—(188)
@@ -5982,11 +5987,6 @@ Brāhmaṇa accept a gift, or if he eat at the Śrāddha after having taken his 
 **निमन्त्रित** इति । श्राद्धे ब्राह्मणो **निमन्त्रितः **स्त्रीनिवृत्तियमनियमानुष्ठानवान् **सदा** निमन्त्रणात् प्रभृति श्राद्धाहोरात्रं यावत् स्यात् । वेदांश् च जपाद्यवश्यकर्तव्यव्यतिरेकेण **नाधीयीत** **।** श्राद्धकृच् च तद्वद् एव स्यात् ॥ ३.१८८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-188	A Brahmana who has been invited to a (rite) in honour of the manes shall always control himself and not recite the Veda, and he who performs the Sraddha (must act in the same manner).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अतश् च युक्तम् अनागतनिमन्त्रणं श्राद्धभुजां तदहोरात्रं ब्रह्मचर्योपदेशार्थम् इदं **पित्र्ये** नियमो ब्रह्मचर्यस्य । दैवत्ववचनाच् छन्दोऽनध्ययनं च पित्र्यर्थं निमन्त्रितस्य प्रकरणात् तदवस्थानलिङ्गाच् च छन्दोग्रहणं ब्राह्मणार्थम् अपि सदा दातर्य् अपि चैतत् समानस्यार्थवादः ।
@@ -6004,6 +6004,11 @@ Brāhmaṇa accept a gift, or if he eat at the Śrāddha after having taken his 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/189_nimantritAn_hi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+189	For the manes attend the invited Brahmanas, follow them (when they walk) like the wind, and sit near them when they are seated.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Pitṛs attend upon those invited Brāhmaṇas; like the wind, they follow them and sit down when they are seated.—(189)
@@ -6052,11 +6057,6 @@ should keep pure.
 **निमन्त्रितान्** इति । यस्तान् **तान् द्विजान् निमन्त्रितान् पितर उपतिष्ठन्ति **अदृश्यरूपेण समीपम् आयान्ति । प्राणवच् च गच्छतो **ऽनुगच्छन्ति** । उपविष्टेषु विप्रेषु समीपे उपविशन्ति तस्मात् नियतात्मना निमन्त्रितेन भाव्यम् इति पूर्वविध्यर्थवादः ॥ ३.१८९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-189	For the manes attend the invited Brahmanas, follow them (when they walk) like the wind, and sit near them when they are seated.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अनतिक्रमस्तुत्यर्थः श्लोकः ।
@@ -6074,6 +6074,11 @@ should keep pure.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/190_ketitas_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+190	But a Brahmana who, being duly invited to a rite in honour of the gods or of the manes, in any way breaks (the appointment), becomes guilty (of a crime), and (in his next birth) a hog.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The rest of Brāhmaṇas, who, when duly invited at the rite in honour of Gods and Pitṛs, happens, somehow, to neglect it, incurs sin and becomes a hog.’—(190)
@@ -6138,11 +6143,6 @@ who is late... falls into hell.’
 **केतित** इति । हव्यकव्ययोः शास्त्रमर्यादानतिक्रमेण निमन्त्रितो ब्राह्मणः अङ्गीकृत्य केनापि प्रकारेणाभुञ्जानः तदतिक्रमपापवान् जन्मान्तरे **सूकरत्वं** याति । पापशूकर इति पाठे पापसूकरो ग्रामसूकरः ॥ ३.१९० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-190	But a Brahmana who, being duly invited to a rite in honour of the gods or of the manes, in any way breaks (the appointment), becomes guilty (of a crime), and (in his next birth) a hog.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 निमन्त्रिते भोक्ष्य इति प्रतिज्ञाय यो न भुङ्क्ते सो ऽस्यातिक्रमः ।
@@ -6168,6 +6168,11 @@ who is late... falls into hell.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/191_Amantritas_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+191	But he who, being invited to a Sraddha, dallies with a Sudra woman, takes upon himself all the sins which the giver (of the feast) committed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the man invited at the śrāddha dallies with a woman, he takes upon himself all the sin that there may be in the giver.—(191)
@@ -6214,11 +6219,6 @@ to his bed a Śūdra woman, he throws his forefathers into her ordure for three 
 **आमन्त्रित** इति । “तद् अहर् ब्रह्मचारी स्यात्” इति गौतमस्मरणात् । वृषल्य् अपि कामयमाना चालयति भर्तारम् इति वृषल्य् अत्र ब्राह्मण्य् अपि । श्राद्धे निमन्त्रितः सन् तया सह स्त्रीपुन्धर्मेण यो रमते स दातुर् यत् पापं **तत् सर्वं** प्राप्नोति इति पापोत्पत्तिप्रतिपादनमात्रम् एतत् । अन्यथा अपापे दातरि दुष्कृतसम्बन्धो न स्यात् । तत्र (न चात्र) दातुर् एतत् प्रायश्चित्ततया चोदितं येनासौ दुष्कृतान् मुच्यते ॥ ३.१९१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-191	But he who, being invited to a Sraddha, dallies with a Sudra woman, takes upon himself all the sins which the giver (of the feast) committed.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **वृषली**शब्देन ब्राह्मण्य् एव निन्द्यते । यस्माद् वृषस्यन्ती भर्तारं चलयति ब्रह्मचर्याद् उभयोर् दोषे ऽपि तत् सर्वं धनत्वाद् व्रतभङ्गस्य युक्ता तन्निन्दा । अभुक्तवतश् चायं नियमव्यतिक्रमदोषः । भुक्तवतस् तु वक्ष्यति "श्राद्धभुग् वृषलीतल्पम्" (म्ध् ३.२५०) इति ।
@@ -6236,6 +6236,11 @@ to his bed a Śūdra woman, he throws his forefathers into her ordure for three 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/192_akrodhanAH_shaucha-parAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+192	The manes are primeval deities, free from anger, careful of purity, ever chaste, averse from strife, and endowed with great virtues.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Pitṛs are the foremost gods, free from anger, ever intent on purity, chaste, rid of all means of offence, and supremely blessed.—(192)
@@ -6305,11 +6310,6 @@ carefully offer into vessels, such as may be available; but specially in those o
 **अक्रोधना** इति । क्रोधशून्याः मृद्वार्यादिशुद्धिनिरताः सर्वदावर्जितस्त्रीसम्प्रयोगाः त्यक्तायुधाः महात्मानः अनादिदेवतारूपाः **पितरः **अतः क्रोधादिरहितैः श्राद्धब्राह्मणैर् भाव्यम् ॥ ३.१९२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-192	The manes are primeval deities, free from anger, careful of purity, ever chaste, averse from strife, and endowed with great virtues.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उपन्यासार्थः श्लोकः ।
@@ -6328,6 +6328,11 @@ carefully offer into vessels, such as may be available; but specially in those o
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/193_yasmAd_utpattir.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+193	Now learn fully from whom all these (manes derive) their origin, and with what ceremonies they ought to be worshipped.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Now fully learn from whom all these have their origin and who are to be worshipped, by whom and by what roles.—(193)
@@ -6356,11 +6361,6 @@ this ‘*learn fully*,’ as described now.
 
 **यस्माद्** इति । एषां पितॄणां यस्य सकाशाद् **उपत्तिः ये च **पितरो **यैः** ब्राह्मणादिभिः यागादिभिर् **नियमैः** शास्त्रोक्तकर्मभिः यथा स्युः तत् शृणुत ॥ ३.१९३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-193	Now learn fully from whom all these (manes derive) their origin, and with what ceremonies they ought to be worshipped.
-</details>
 </details>
 </div>
 
@@ -6374,6 +6374,11 @@ this ‘*learn fully*,’ as described now.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/194_manor_hairaNyagarbhasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+194	The (various) classes of the manes are declared to be the sons of all those sages, Mariki and the rest, who are children of Manu, the son of Hiranyagarbha.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of Manu, the son of Hiraṇyagarbha, Marīci and the rest were sons; and the sons of all these sages have been declared to constitute the “Body of Pitṛs.”—(194)
@@ -6524,11 +6529,6 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 43).
 
 **मनोर्** इति । हिरण्यगर्भापत्यस्य **मनोः स्मृताः ये मरीच्यादयः **पुत्राः यथोक्तम् “मरीचिम् अत्र्य् आङ्गिरसम्” इत्यादि । **तेषां **मरीच्यादीनां **सर्वेषाम् ऋषीणाम् **एते ये सोमपादयः पितृमुख्याः मन्वादिभिः **स्मृताः **॥ ३.१९४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-194	The (various) classes of the manes are declared to be the sons of all those sages, Mariki and the rest, who are children of Manu, the son of Hiranyagarbha.
-</details>
 </details>
 </div>
 
@@ -6542,6 +6542,11 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 43).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/195_virAT-sutAH_somasadaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+195	The Somasads, the sons of Virag, are stated to be the manes of the Sadhyas, and the Agnishvattas, the children of Mariki, are famous in the world (as the manes) of the gods.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Somasads, the sons of Virāj, have been declared to be the Pitṛs of the Sādhyas; and the Agnisvāttas, the sons of Marīci, are famed in the world as the Pitṛs of the Gods.—(195)
@@ -6599,11 +6604,6 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 
 **विराट्सुता** इति । **विराट्सुताः सोमसदो** नाम **साध्यानां पितरः देवानां च **मरीचिपुत्राः **अग्निष्वात्ताख्याः** लोके ख्याताः ॥ ३.१९५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-195	The Somasads, the sons of Virag, are stated to be the manes of the Sadhyas, and the Agnishvattas, the children of Mariki, are famous in the world (as the manes) of the gods.
-</details>
 </details>
 </div>
 
@@ -6619,6 +6619,11 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/196_daitya-dAnava-yaxANA~N_gandharvoraga-raxasAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+196	The Barhishads, born of Atri, are recorded to be (the manes) of the Daityas, Danavas, Yakshas, Gandharvas, Snake-deities, Rakshasas, Suparnas, and a Kimnaras,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Barhisads, the sons of Atri, are declared to be the Pitṛs of Daityas, Dānavas, Yakṣas, Gandharvas, Uragas, Rākṣasas, Suparṇas and Kinnaras.—(196)
@@ -6660,11 +6665,6 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 
 **दैत्यदानवयक्षाणाम्** इति । दैत्यादीनां प्रथमाध्यायोक्तभेदानां अत्रिपुत्राः **बर्हिषदो** नाम पितरः स्मृताः ॥ ३.१९६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-196	The Barhishads, born of Atri, are recorded to be (the manes) of the Daityas, Danavas, Yakshas, Gandharvas, Snake-deities, Rakshasas, Suparnas, and a Kimnaras,
-</details>
 </details>
 </div>
 
@@ -6678,6 +6678,11 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/197_somapA_nAma.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+197	The Somapas those of the Brahmanas, the Havirbhugs those of the Kshatriyas, the Agyapas those of the Vaisyas, but the Sukalins those of the Sudras.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those by name Somapās are the Pitṛs of Brāhmaṇas; the Havirbhujs are the Pitṛs of Kṣatriyas; those by name Ājyapas, of Vaiśyas; and of Śūdras, Sukālins.—(197)
@@ -6725,11 +6730,6 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 55); — and in
 **सोमपा नामेति** । ब्राह्मणक्षत्रियवैश्यशूद्राणां यथाक्रमं सोमपहविर्भुजाज्यप-सुकालिनामानः पितरः ॥ ३.१९७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-197	The Somapas those of the Brahmanas, the Havirbhugs those of the Kshatriyas, the Agyapas those of the Vaisyas, but the Sukalins those of the Sudras.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अनेनैषां ब्राह्मणादिपितॄणां पितर उच्यन्ते ।
@@ -6747,6 +6747,11 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 55); — and in
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/198_somapAs_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+198	The Somapas are the sons of Kavi (Bhrigu), the Havishmats the children of Angiras, the Agyapas the offspring of Pulastya, but the Sukalins (the issue) of Vasishtha.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Somapas are the sons of Kavi; Haviṣmats are the sons of Aṅgiras; Ājyapās are the sons of Pulastya, and Sukālins, of Vaśiṣṭha.—(198)
@@ -6781,11 +6786,6 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 
 **सोमपा** इति । ब्राह्मणस्य पितरः **सोमपाः कवेः** भृगोः** पुत्राः **। क्षत्रियपितरो हविर्भुजो **हविष्मन्तो ऽङ्गिरःसुताः **। वैश्यपितरस् त्व् **आज्यपाः पुलस्त्यस्य पुत्राः** । शूद्रपितरः **सुकालिनो वसिष्ठस्य **पुत्राः ॥ ३.१९८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-198	The Somapas are the sons of Kavi (Bhrigu), the Havishmats the children of Angiras, the Agyapas the offspring of Pulastya, but the Sukalins (the issue) of Vasishtha.
-</details>
 </details>
 </div>
 
@@ -6799,6 +6799,11 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/199_agnidagdhAnagnidagdhAn_kAvyAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+199	One should know that (other classes), the Agnidagdhas, the Anagnidagdhas, the Kavyas, the Barhishads, the Agnishvattas, and the Saumyas, are (the manes) of the Brahmanas alone.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘The Anagnidagdhas, the Agnidagdhas, the Kāvyas, the Barhiṣads, the Agniṣvāttas, and the Saumyas,—these one should regard as the Pitṛs of Brāhmaṇas.—(199)
@@ -6852,11 +6857,6 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 
 **अनग्निदग्धान्** इति । **अनग्निदग्धाग्निदग्धकाव्यबर्हिषदः अग्निष्वात्तसौमा**ख्यान् अपरान् पितॄन् **विप्राणाम् एव** जानीयत् । वेदे पुराणेषु च एवन्नाम(कं) पितॄणां प्रसिद्धम् ॥ ३.१९९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-199	One should know that (other classes), the Agnidagdhas, the Anagnidagdhas, the Kavyas, the Barhishads, the Agnishvattas, and the Saumyas, are (the manes) of the Brahmanas alone.
-</details>
 </details>
 </div>
 
@@ -6870,6 +6870,11 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/200_ya_ete.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+200	But know also that there exist in this (world) countless sons and grandsons of those chief classes of manes which have been enumerated.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of the principal bodies of Pitṛs that have been described, know that there are endless sons and grandsons in this world.—(200)
@@ -6909,11 +6914,6 @@ This verse is quoted in *Hemādri*, (Śrāddha, p. 48).
 
 **य** इति** । य एते **सोमपादयः प्रधानभूताः पितृगणा उक्ताः **तेषाम् अपीह** संसारे पितर एव पुत्रपौत्रा विज्ञेयाः ॥ ३.२०० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-200	But know also that there exist in this (world) countless sons and grandsons of those chief classes of manes which have been enumerated.
-</details>
 </details>
 </div>
 
@@ -6927,6 +6927,11 @@ This verse is quoted in *Hemādri*, (Śrāddha, p. 48).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/201_RShibhyaH_pitaro.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+201	From the sages sprang the manes, from the manes the gods and the Danavas, but from the gods the whole world, both the movable and the immovable in due order.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From the sages were born the Pitṛs, Gods and Men; and from the gods the entire world, moveable and immoveable, in due order.—(201)
@@ -6956,11 +6961,6 @@ The entire series of purely laudatory descriptions has now come to an end.—(20
 **ऋषिभ्यः पितर** इति । मरीच्यादिभ्य उक्तं नामभ्यो ये सोमपादयो जाताः, तेभ्यश् च देवदानवं जातम् । **देवेभ्यश्** च स्थावरजङ्गमरूपं **सर्वं जगत् **क्रमेण जातम् । एवं चोक्तपितृभवत्वात् पितृपितामहप्रपितामहादीनां तत्पूजायां ते पूजिता भवन्तीत्य् एतत्प्रतिपादनार्थं सोमपादिपितृगणोपन्यासः प्रकृतपितृपूजास्तुत्यर्थं विज्ञेयः ॥ ३.२०१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-201	From the sages sprang the manes, from the manes the gods and the Danavas, but from the gods the whole world, both the movable and the immovable in due order.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अष्टौ श्लोकाः पितॄणाम् उत्पत्त्यर्थाः स्तुतित्वम् आपद्यन्ते प्रकरणसामर्थात् न्यायाविरोधेन व्याख्येयाः । अनधिकृतानां च **दैत्यादीनां** परिकीर्तनात् । न चेत् **सोमपादीनाम्** अपि विप्रादिग्रहणेन ग्रहणम् अर्थवादो गम्यते । एवन्नामानश् च पितरो वेदेषु पठ्यन्त इत्य् अत एतेषां विविधैर् नामभिः परिकीर्तितम् । न चैते पितरः कदापि तदुत्पन्नस्थानाधिकारनित्यत्वात् । कर्मसिद्धये तु साधनभावेन नित्यं व्यवस्थितानाम् इयम् उत्पत्तिस् तत्र कथं तावत् स्तुत्यर्था । विधिप्ररोचनायोच्यते । कथम् । देवादीनाम् एव तावत् पितरः श्राद्धेन पूजनीयाः । किं पुनर् मनुष्याणाम् इति । तत्पूजायै त्व् अधुना कर्मणो गुणविधिर् उच्यते ।
@@ -6979,6 +6979,11 @@ The entire series of purely laudatory descriptions has now come to an end.—(20
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/202_rAjatair_bhAjanair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+202	Even water offered with faith (to the manes) in vessels made of silver or adorned with silver, produces endless (bliss).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even water offered to these with faith, in vessels, either made of silver or connected with silver, is conducive to imperishability.—(202)
@@ -7052,11 +7057,6 @@ carefully offer into vessels, such as may be available; but specially in those o
 **राजतैर् **इति । तेषां पितॄणां रौप्यपात्रैः रौप्ययुक्तैर् वा पानीयम् अपि भक्त्या दत्तम् अक्षय्यसुखहेतु सम्पद्यते । किं पुनः प्रशस्तामिषादीनि घृतादीनि दानपात्रविशेषफलम् एतत् ॥ ३.२०२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-202	Even water offered with faith (to the manes) in vessels made of silver or adorned with silver, produces endless (bliss).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 नियमो राजतानां तु रजतान्वितानां चाथ वाक्षय्यकामस्य राजतानि स्युर् अपर एवं च नैमित्तिकत्वं राजतानां प्राप्नोति । न चैतद् इष्टं संस्तुतिपरत्वाद् अक्षय्यशब्दस्य । अपरे तु दण्डापूपिकया सौवर्णेत्य् अपि पठन्ति, तान्य् अधिकतरफलानीति । तद् अयुक्तम् । न्यायस्य व्यवस्थितत्वाद् अन्यत्र दोषः स्याद् अतो यथाश्रुतकल्पनैव ज्यायसी । परस् तु गुणविधिः ।
@@ -7075,6 +7075,11 @@ carefully offer into vessels, such as may be available; but specially in those o
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/203_daivakAryAd_dvijAtInAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+203	For twice-born men the rite in honour of the manes is more important than the rite in honour of the gods; for the offering to the gods which precedes (the Sraddhas), has been declared to be a means of fortifying (the latter).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For twice-born men, the rite in honour of the Pitṛs excels that in honour of the gods; the rite in honour of the gods has been declared to be the previous sustainer of the rite in honour of the Pitṛs.—(203)
@@ -7115,11 +7120,6 @@ the annual Śrāddha to individual ancestors,—if one performs other five sacri
 **देवकार्याद्** इति । दैवस्य देवकर्मणः सकाशात् पित्र्यं कर्म द्विजातीनां विशेषेण कर्तव्यतयोपदिश्यते । प्रधानं हि तत् यस्मात् दैवकर्म पितृकर्मणः पूर्व सत् परिपूरकं स्मृतम् । एवं च तस्य पितृकार्यपरिपूरकवद् अङ्गत्वम् इति ॥ ३.२०३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-203	For twice-born men the rite in honour of the manes is more important than the rite in honour of the gods; for the offering to the gods which precedes (the Sraddhas), has been declared to be a means of fortifying (the latter).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यतश् चैतद् एवम् अतः ।
@@ -7137,6 +7137,11 @@ the annual Śrāddha to individual ancestors,—if one performs other five sacri
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/204_teShAm_AraxabhUtam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+204	Let him first invite a (Brahmana) in honour of the gods as a protection for the (offering to the manes); for the Rakshasas destroy a funeral sacrifice which is left without such a protection.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should first engage the Brāhmaṇa in honour of the gods, as a protection to these (offerings to) Pitṛs; for the Rākṣasas take away the śrāddha that is devoid of protection.—(204)
@@ -7196,11 +7201,6 @@ Pitṛs.’
 **तेषाम्** इति । पितॄणां रक्षाभूतम्, गृह्यदर्शनात् विश्वान् देवान् उद्दिश्य **पूर्वं** ब्राह्मणं निमन्त्रयेत् । यस्माद् रक्षोदर्शितं श्राद्धं **रक्षांस्य्** आच्छिन्दन्ति यस्माद् रक्षाभूतं पित्र्यस्य दैवं तस्मात् ॥ ३.२०४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-204	Let him first invite a (Brahmana) in honour of the gods as a protection for the (offering to the manes); for the Rakshasas destroy a funeral sacrifice which is left without such a protection.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इष्टन् दैवतम् उद्दिश्य **दैवं पूर्वं** नियोक्तव्यम् अविशेषाद् वा सर्वदैवतम् **आरक्षभूतं** चेत् पित्र्यस्य तत् । एवम् एवं (?) च सति,
@@ -7218,6 +7218,11 @@ Pitṛs.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/205_daivAdyantan_tad.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+205	Let him make (the Sraddha) begin and end with (a rite) in honour of the gods; it shall not begin and end with a (rite) to the manes; for he who makes it begin and end with a (rite) in honour of the manes, soon perishes together with his progeny.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should first engage the Brāhmaṇa in honour of the gods, as a protection to these (offerings to) Pitṛs; for the Rākṣasas take away the śrāddha that is devoid of protection.—(204)
@@ -7307,11 +7312,6 @@ preceded by the offering to the Viśvedevas.’
 **दैवाद्यन्तम्** इति । **पित्राद्यन्तं त्व् ईहमानः क्षिप्रं नश्यति सान्वय **इति । ततः श्राद्धं दैवादि दैवान्तं चानुतिष्ठेत । न च पित्र्योपक्रमापवर्गं **पित्राद्यन्तं **तद् अनुतिष्ठन् ससन्तानम् आशु विनश्यतीति ॥ ३.२०५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-205	Let him make (the Sraddha) begin and end with (a rite) in honour of the gods; it shall not begin and end with a (rite) to the manes; for he who makes it begin and end with a (rite) in honour of the manes, soon perishes together with his progeny.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 "पूर्वं दैवं नियोजयेद्" (म्ध् ३.२०४) इत्य् अस्य विधेः स्तुत्यर्थं त(१ अक्ष् lacuna) त् । व्युत्क्रमं च श्राद्धे सर्वम् अन्यत् स्याद् इति क्रमार्थं पूर्वम् एव चास्मात् –
@@ -7330,6 +7330,11 @@ preceded by the offering to the Viśvedevas.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/206_shuchin_desham.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+206	Let him smear a pure and secluded place with cowdung, and carefully make it sloping towards the south.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should prepare with care a clean and secluded place Sloping towards the south, and smear it with cowdung.—(206)
@@ -7388,11 +7393,6 @@ which is full of living beings, very dry, burnt by fire, where disagreeable and 
 **शुचिम्** इति । अनुपहतं **देशं** जनैर् अनाकीर्णं गोशकृता **उपलेपयेत् **। अथ वा दक्षिणस्यां दिशि अवनतो यदि स्वभावतो न स्यात् तदा प्रयत्नतः तं सम्पादयेत् ॥ ३.२०६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-206	Let him smear a pure and secluded place with cowdung, and carefully make it sloping towards the south.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यस्मात्,
@@ -7410,6 +7410,11 @@ which is full of living beings, very dry, burnt by fire, where disagreeable and 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/207_avakAsheShu_choxeShu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+207	The manes are always pleased with offerings made in open, naturally pure places, on the banks of rivers, and in secluded spots.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Pitṛs are always pleased with what is offered in clean places, on water-banks and in secluded places.—(207)
@@ -7465,11 +7470,6 @@ buildings, on river-banks, in Tīrthas, and on one’s own land, in groves near 
 **अवकाशेष्व्** इति । स्वभावशुचिषु स्थानेषु नद्यादिपुलिनेषु च निर्जनेषु प्रदेशेषु **दत्तेन** श्राद्धादिना **पितरः** सर्वदा तुष्यन्ति तस्मिंश् च देशे ॥ ३.२०७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-207	The manes are always pleased with offerings made in open, naturally pure places, on the banks of rivers, and in secluded spots.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अगोमयेना(ओ?)पलिप्तेष्व् अपि स्वभावशुचिषु । तत्र च –
@@ -7487,6 +7487,11 @@ buildings, on river-banks, in Tīrthas, and on one’s own land, in groves near 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/208_AsaneShUpakLLipteShu_barhiShmatsu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+208	The (sacrificer) shall make the (invited) Brahmanas, who have duly performed their ablutions, sit down on separate, prepared seats, on which blades of Kusa grass have been placed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Seats with kuśa grass having been separately placed, he should seat the said Brāhmaṇas who have performed their ablutions.—(208)
@@ -7547,11 +7552,6 @@ character, and excellent conduct, who may have arrived at the same time and have
 **आसनेष्व्** इति । **आसनेषु **संसर्भेषु **पृथक् पृथक्** विन्यस्तेषु **सम्यक् **कृतस्नानाचमनान् **तान् **पूर्वं निमन्त्रितान् **उपवेशयेत् **॥ ३.२०८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-208	The (sacrificer) shall make the (invited) Brahmanas, who have duly performed their ablutions, sit down on separate, prepared seats, on which blades of Kusa grass have been placed.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवम् –
@@ -7569,6 +7569,11 @@ character, and excellent conduct, who may have arrived at the same time and have
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/209_upaveshya_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+209	Having placed those blameless Brahmanas on their seats, he shall honour them with fragrant garlands and perfumes, beginning with (those who are invited in honour of) the gods.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having seated those unreproached Brāhmaṇas on those seats, he should worship them with sweet-smelling perfumes and Garlands, beginning with those invited in honour of the gods.—(209)
@@ -7627,11 +7632,6 @@ offering of sandal-paste, garlands, incense, lamp, and clothes.’
 
 **उपवेश्येति** । **तान् विप्रान् **अनिन्दितान् **आसनेषूपवेश्य **अनन्तरं कुङ्कुममाल्यधूपादिभिः स्वामोदैः देवब्राह्मणपूर्वकम् **अर्चयेत्** ॥ ३.२०९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-209	Having placed those blameless Brahmanas on their seats, he shall honour them with fragrant garlands and perfumes, beginning with (those who are invited in honour of) the gods.
-</details>
 </details>
 </div>
 
@@ -7646,6 +7646,11 @@ offering of sandal-paste, garlands, incense, lamp, and clothes.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/210_teShAm_udakam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+210	Having presented to them water, sesamum grains, and blades of Kusa grass, the Brahmana (sacrificer) shall offer (oblations) in the sacred fire, after having received permission (to do so) from (all) the Brahmana (guests) conjointly.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having presented to them water, and also sesamum along with kuśa-blade, the Brāhmaṇa, permitted by the Brāhmaṇas collectively, should make an offering into fire.—(210)
@@ -7711,11 +7716,6 @@ offered the seat in the form of kuśa-blades twisted twice,—he shall offer wat
 
 **तेषाम्** इति । **तेषां **ब्राह्मणानाम् **उदकं **दर्भतिलमिश्रं दत्वा “अग्नौ करवाणि करिष्ये चेत्य् अनुज्ञातो यदा कुर्वित्य् एवं ब्रूयुः” इति गृह्योक्त्रूपेण **सह ब्राह्मणैर् अनुज्ञातः अग्नौ** वक्ष्यमाणं होमं **कुर्यात् **। ब्राह्मणग्रहणं द्विजप्रदर्शनार्थम्, त्रयाणां प्रकृतत्वा ॥ ३.२१० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-210	Having presented to them water, sesamum grains, and blades of Kusa grass, the Brahmana (sacrificer) shall offer (oblations) in the sacred fire, after having received permission (to do so) from (all) the Brahmana (guests) conjointly.
-</details>
 </details>
 </div>
 
@@ -7729,6 +7729,11 @@ offered the seat in the form of kuśa-blades twisted twice,—he shall offer wat
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/211_agneH_soma-yamAbhyAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+211	Having first, according to the rule, performed, as a means of protecting (the Sraddha), oblations to Agni, to Soma, and to Yama, let him afterwards satisfy the manes by a gift of sacrificial food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having at fir st brought about the satisfaction of Agni and Soma-Yama by the offering of sacrificial food, he should afterwards satisfy, according to rule, the Pitṛs.—(211).
@@ -7777,11 +7782,6 @@ as declared before.’
 
 **अग्नेर्** इति । सोमयमयोः द्वन्द्वनिर्देशे ऽपि **अग्नेर्** निर्देशाभावात् देवताद्वयं तेन अग्नये स्वाहा, सोमाय स्वाहा, यमाय स्वाहेत्य् एवं अग्न्यादीनां पर्युक्षणादि विधिपूर्वकं हविर्दानेन तर्पणं आदौ कृत्वा पश्चाद् ब्राह्मणभोजनादि ॥ ३.२११ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-211	Having first, according to the rule, performed, as a means of protecting (the Sraddha), oblations to Agni, to Soma, and to Yama, let him afterwards satisfy the manes by a gift of sacrificial food.
-</details>
 </details>
 </div>
 
@@ -7795,6 +7795,11 @@ as declared before.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/212_agny-abhAve_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+212	But if no (sacred) fire (is available), he shall place (the offerings) into the hand of a Brahmana; for Brahmanas who know the sacred texts declare, 'What fire is, even such is a Brahmana.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the absence of Fire, he shall make the offering into the Brāhmaṇa’s hand; for it has been declared by the Brāhmaṇa seers of Vedic texts that what the Fire is, that same is the Brāhmaṇa.—(212).
@@ -7962,11 +7967,6 @@ Iṣṭi, and the unitary Śrāddha; at the first four of these, the man with th
 
 **अग्न्यभाव** इति । अनग्निकस्य अनुपनीतोपनीतासमावृत्ताकृतदारमृतभार्यादेर् मृताहादिश्राद्धे विधानाद् औपासनाग्न्यभावे ब्राह्मणहस्त एतदाहुतित्रयं दद्यात्, यस्मात् य एवाग्निः स एव ब्राह्मण इति वेदविद्भिः ब्राह्मणैर् उच्यते ॥ ३.२१२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-212	But if no (sacred) fire (is available), he shall place (the offerings) into the hand of a Brahmana; for Brahmanas who know the sacred texts declare, 'What fire is, even such is a Brahmana.'
-</details>
 </details>
 </div>
 
@@ -7980,6 +7980,11 @@ Iṣṭi, and the unitary Śrāddha; at the first four of these, the man with th
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/213_akrodhanAn_su-prasAdAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+213	They (also) call those first of twice-born men the ancient deities of the funeral sacrifice, free from anger, easily pleased, employed in making men prosper.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ancients describe these good Brāhmaṇas as the “Gods of Śrāddha,” free from anger, easily satisfied, intent upon sustaining the universe.—(213).
@@ -8050,11 +8055,6 @@ persons as are free from anger, not fickle, tolerant, self-controlled, with sens
 **अक्रोधनान् ** इति । **अक्रोधनान्** क्रोधशून्यान् स्वाराधनादीन् “अग्नौ प्रास्ताहुतिर्” इति न्यायेन लोकवृद्ध्युपादानात् श्राद्धसम्प्रदानभूतान् एतान् ब्राह्मणान् मन्वादयो वदन्ति । तस्मात् देवतुल्यत्वात् तद्धस्ते पूर्वविध्यर्थवादः ॥ ३.२१३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-213	They (also) call those first of twice-born men the ancient deities of the funeral sacrifice, free from anger, easily pleased, employed in making men prosper.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तस्माद् एते चाकुद्धाः (?) परिचरणीयाः । यस्माद् एते सुप्रसन्नाः ।
@@ -8072,6 +8072,11 @@ persons as are free from anger, not fickle, tolerant, self-controlled, with sens
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/214_apasavyam_agnau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+214	After he has performed (the oblations) in the fire, (and) the whole series of ceremonies in such a manner that they end in the south, let him sprinkle water with his right hand on the spot (where the cakes are to be placed).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having done the entire serial performance in Fire, in the “Apasavya” form, he should offer water on the ground with the hand in the “Apasavya” position.—(214)
@@ -8131,11 +8136,6 @@ towards the south-east, he shall draw a line with the mantra *Apahata*, etc.; he
 
 **अपसव्यम् **इति । **अग्नौ** यः पर्युक्षणपरिस्तरणाहुतिदानादीनि कर्तव्यताक्रमः तं सर्वम् अपसव्यपितृकर्मवत् दक्षिणासंस्थं कृत्वा तद् एतद् उदक्संस्थं **अपसव्येन **दक्षिणेन **हस्तेन** पितृतीर्थेन पिण्डाधारभूतायां **भुवि उदकं** प्रक्षिपेत् ॥ ३.२१४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-214	After he has performed (the oblations) in the fire, (and) the whole series of ceremonies in such a manner that they end in the south, let him sprinkle water with his right hand on the spot (where the cakes are to be placed).
-</details>
 </details>
 </div>
 
@@ -8149,6 +8149,11 @@ towards the south-east, he shall draw a line with the mantra *Apahata*, etc.; he
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/215_trIMs_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+215	But having made three cakes out of the remainder of that sacrificial food, he must, concentrating his mind and turning towards the south, place them on (Kusa grass) exactly in the same manner in which (he poured out the libations of) water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having made these balls out of the remnant of the said sacrificial material, he should, with collected mind and facing the South, offer them in the manner of the water-libations.—(215)
@@ -8215,11 +8220,6 @@ sesamum, he shall offer the balls near the food-remnant, in the manner of the Pi
 
 **त्रीन्** इति । तस्माद् अग्न्यादिहोमार्थाहुतिं दत्वा हुतशिष्टान् **त्रीन् पिण्डान् कृत्वा** औदकेन विधिना दक्षिणहस्तेन पितृतीर्थेनानन्यचित्तो **दक्षिणामुखस् **तेषु दर्भेषु “तं हस्तं निमृज्यात्” इति दर्शनात् दर्भेषु दद्यात् । अत एव चोदकम् अपि पूर्वोक्तपिण्डाधारभुवि दर्भेष्व् एव दद्यात् ॥ ३.१२५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-215	But having made three cakes out of the remainder of that sacrificial food, he must, concentrating his mind and turning towards the south, place them on (Kusa grass) exactly in the same manner in which (he poured out the libations of) water.
-</details>
 </details>
 </div>
 
@@ -8233,6 +8233,11 @@ sesamum, he shall offer the balls near the food-remnant, in the manner of the Pi
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/216_nyupya_piNDAMs.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+216	Having offered those cakes according to the (prescribed) rule, being pure, let him wipe the same hand with (the roots of) those blades of Kusa grass for the sake of the (three ancestors) who partake of the wipings (lepa).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Self-controlled, he should, after having offered those balls on Kuśa-blades, according to rule, wipe that hand on those same (Kuśa-blades), for the sake of the “Partakers of Smearings.”—(216)
@@ -8323,11 +8328,6 @@ at the root-end of the kuśa.’
 **न्य्प्येति** । **तान् पिण्डान् **पिण्डेषु अञ्जनाभ्यञ्जनवासो दद्यात् इत्य् एवमादिसूत्रकारोक्त**विधिपूर्वकं** दत्वा ततः **तेषु **पिण्डाधारभूतेषु **दर्भेषु** करावघर्षणं इति वैष्णवस्मरणात् । दर्भमूलेषु **तं हस्तं **प्रपितामहात् पूर्वेषां त्रयाणां **लेपभागिनां **हस्तसंश्लिष्टान्नावयवभागितृप्तये समर्पितलेपं कुर्यात् ॥ ३.२१६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-216	Having offered those cakes according to the (prescribed) rule, being pure, let him wipe the same hand with (the roots of) those blades of Kusa grass for the sake of the (three ancestors) who partake of the wipings (lepa).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 द्वौ च लेपभागिनौ परतेः (?) । अपरे तु त्रीन् आहुः ।
@@ -8345,6 +8345,11 @@ at the root-end of the kuśa.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/217_AchamyodakparAvRtya_trir.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+217	Having (next) sipped water, turned round (towards the north), and thrice slowly suppressed his breath, (the sacrificer) who knows the sacred texts shall worship (the guardian deities of) the six seasons and the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Turning to the north, having sipped water and having gently suppressed his breath three times, he shall salute, with proper formulas, the six seasons and also the Pitṛs.—(217)
@@ -8404,11 +8409,6 @@ etc*., he shall turn towards the north and restrain his breath.’
 **आचम्योदक्परावृत्येति **। तद् अनूपस्पृश्य **आचम्यो**दङ्मुखः यथाशक्ति त्रीन् प्राणायामान् कृत्वा “वसन्ताय नमः” इति **षडृतून् नमस्कुर्यात्** । **पितॄन् च **पितॄंश् च “नमो वः पितरः” इत्य् एवमादि मन्त्रयुक्तं कृत्वा “अभिपर्यावृत्त्या” इति (म्ध् ४.१) गृह्यदर्शनात् दक्षिणाभिमुखो भूत्वा नमस्कुर्यात् ॥ ३.२१७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-217	Having (next) sipped water, turned round (towards the north), and thrice slowly suppressed his breath, (the sacrificer) who knows the sacred texts shall worship (the guardian deities of) the six seasons and the manes.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 "नमो वः पितर" इत्य् एतेन ।
@@ -8426,6 +8426,11 @@ etc*., he shall turn towards the north and restrain his breath.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/218_udakan_ninayech.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+218	Let him gently pour out the remainder of the water near the cakes, and, with fixed attention, smell those cakes, in the order in which they were placed (on the ground).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The remaining water he should gently pour near the balls; and with collected mind he should smell those halls in the order in which they were offered.—(218).
@@ -8475,11 +8480,6 @@ sandal, flowers, garlands, incense, lamp, cloth and unguents, he should pour ṭ
 
 **उदकम्** इति । पिण्डाधारदर्भदत्तोदक**शेषम् उदकं पिण्ड**समीपे **पुनः **उत्तरयोत्सृजेत् । **तांश् च पिण्डान्** येनैव क्रमेण दत्तान् तेनैव क्रमेण अनन्यमना **जिघ्रेत्** ॥ ३.२१८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-218	Let him gently pour out the remainder of the water near the cakes, and, with fixed attention, smell those cakes, in the order in which they were placed (on the ground).
-</details>
 </details>
 </div>
 
@@ -8493,6 +8493,11 @@ sandal, flowers, garlands, incense, lamp, cloth and unguents, he should pour ṭ
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/219_piNDebhyas_tv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+219	But taking successively very small portions from the cakes, he shall make those seated Brahmana eat them, in accordance with the rule, before (their dinner).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having, in due order of sequence, taken very small portions out of the halls, he shall first feed those same seated Brāhmaṇas with them, in accordance with role.—(219).
@@ -8544,11 +8549,6 @@ This verse is quoted in *Śrāddhakriyākaumudī* (p. 326);—and in *Hemādri* 
 **पिण्डेभ्य** इति । **पिण्डेभ्यः **अत्यन्ताल्पभागं पितृपिण्डक्रमेण गृहीत्वा तान् एव पित्राद्यर्थोपवेशितान् विप्रान् विधिवत् नयेच् च । आनुपूर्व्यां भोजनकाले अन्यभाजनात् पूर्वं भोजयेत् ॥ ३.२१९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-219	But taking successively very small portions from the cakes, he shall make those seated Brahmana eat them, in accordance with the rule, before (their dinner).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 चतुर्दशश्लोकाः स्फुटार्थत्वान् न व्याख्याताः । अत्र च श्रौतस्य कर्मणः पिण्डपितृयज्ञस्य श्राद्धकर्मणो गत्व(?) विध्यर्थं ग्रहणम् आहिताग्नेर् अपि वास्त्रि(?) पिण्डपितृयज्ञः आवसथ्ये । तथा च सूत्रकारः- "आहिताग्नेर् अप्य् एवम् आहुः" इति ।
@@ -8570,6 +8570,11 @@ This verse is quoted in *Śrāddhakriyākaumudī* (p. 326);—and in *Hemādri* 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/220_dhriyamANe_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+220	But if the (sacrificer's) father is living, he must offer (the cakes) to three remoter (ancestors); or he may also feed his father at the funeral sacrifice as (one of the) Brahmana (guests).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 While his father holds, one should make the offering to the previous ancestors; or, he may feed his own father at the Śrāddha as a Brāhmana.—(220).
@@ -8673,11 +8678,6 @@ he shall offer it to those whom his father offers it.’
 **ध्रियमाण** इति । जीवति **पितरि** पितामहादीनाम् एव त्रयाणां श्राद्धं कुर्यात् न पितुः । अथ वा पितृस्थाने **तम्** एव स्वकं पितरं श्राद्धे भोजयेत् पितामहप्रपितामहयोश् च ब्राह्मणौ भोजयेत् पिण्डौ च दद्यात् ॥ ३.२२० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-220	But if the (sacrificer's) father is living, he must offer (the cakes) to three remoter (ancestors); or he may also feed his father at the funeral sacrifice as (one of the) Brahmana (guests).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 परतश् च द्वाभ्याम् एव प्रेताभ्यां दद्यात् । तथा च जातूकर्णिः- "न जीवन्तम् अतिददातीति श्रुतेः" इत्य् आह । "चतुर्थं पिण्डो न गच्छति" इति । एवं च सत्यां पितृप्रीतौ कर्तव्यतायां को जीवति पितरि भवेद् यतः । साक्षाद् एवासौ आशयितव्यः । अपरः पक्षो जीवत्पितृकस्य होमान्तं कर्मनाग्रम्भो (?) वा कर्मणः ।
@@ -8695,6 +8695,11 @@ he shall offer it to those whom his father offers it.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/221_pitA_yasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+221	But he whose father is dead, while his grandfather lives, shall, after pronouncing his father's name, mention (that of) his great-grandfather.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He whose father is dead, but grandfather is living, should mention the great-grandfather after having pronounced the name of the father.—(221)
@@ -8736,11 +8741,6 @@ grand-father is alive, three balls shall be offered beginning with the great-gra
 **पिता यस्य तु वृत्तः** इति । पितृजीवनपक्षापेक्षो **वा**शब्दः । **यस्य ** पुनः **पिता **मृतः **स्यात् पितामहश् च जीवच् च स पितुर्** ब्राःमणभोजनपिण्डदानादौ नामोच्चार्यं **प्रपितामहं कीर्तयेत् **ताभ्यां द्वाभ्यां श्राद्धं कुर्यात् प्रपितामहस्य च पितुः । यथाह विष्णुः- “यस्य पिता प्रेतः स्यात् स पित्रे पिण्डं निधाय पितामहात् पराभ्यां द्वाभ्यां दद्यात्” इति ॥ ३.२२१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-221	But he whose father is dead, while his grandfather lives, shall, after pronouncing his father's name, mention (that of) his great-grandfather.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पितामहस्य नामग्राहप्रतिषेधो ऽत्र पिण्डनिवृत्त्यर्थः । यस्मात् प्रेतानां पितृपूजादिपितृपूजाधिकारः शास्त्रे प्रेतेभ्य उदाहरतीति वचनात् । तस्मात् जीवत्पितामहः प्रेतयोर् एव दद्यात् । न जीवते दानम् उपपद्यते । न चतुर्थस्य परस्य दातव्यं "न चतुर्थं पिण्डो गच्छति" इति वचनात् । तस्माद् द्वाभ्याम् एव दातव्यम् इति । एवं च इदानीं जीवत्पितृको ऽपि द्वाभ्याम् एव दद्यात् तुल्यत्वात् कारणे ऽस्येति पुनर् ब्रूमः । कुतः । व्याख्यातम् अस्माभिर् न चतुर्थं पिण्डो गच्छतीति, पिण्डतानुग्रहसामर्थाच् च त्रिभ्य एव दानं विज्ञेयम् । तथा चोक्तम् "त्रिषु पिण्डः प्रवर्तते" (म्ध् ९.१८६) इति ।
@@ -8762,6 +8762,11 @@ grand-father is alive, three balls shall be offered beginning with the great-gra
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/222_pitAmaho_vA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+222	Manu has declared that either the grandfather may eat at that Sraddha (as a guest), or (the grandson) having received permission, may perform it, as he desires.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Manu has declared that either the grandfather may eat at that Śrāddha, or the man himself may, according to his will, perform it, after being permitted by him.—(222)
@@ -8811,11 +8816,6 @@ father and to the grand-father.’
 **पितामह** इति । पितामहविप्रस्थाने पितामहं वा भोजयेत् । पितृप्रपितामहयोः पिण्डदानं ब्राह्मणभोजनं च कुर्यात् । अथ वा पित्रा पितामहेन वा जीवता अहं न भुञ्जे यथेच्छम् एव (कुर्विति) **अनुज्ञातः** **स्वयम् एव** यथारुचि **समाचरेत्** । उक्तपक्षेभ्यः पक्षान्तरं यथा गृह्ये उक्तम्- “जीवत्पितृकस्यानारम्भः कर्माणीति होमान्तः” ॥ ३.२२२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-222	Manu has declared that either the grandfather may eat at that Sraddha (as a guest), or (the grandson) having received permission, may perform it, as he desires.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 केनानुज्ञातः । प्रकृतत्वात् पितामहेन । स्वयम् एव यद्य् उक्तं तत् समाचरेत् । किं पुनर् युक्तम् । वामपक्षात् तद्विवक्षाश्रयणं कथम् । त्रयाणाम् अधिकृतत्वात्, प्रेतभावं च गतानां पूजार्हत्वात् । श्राद्धं प्रत्यक्षार्चनम् अयुक्तम् । पितामहः स्याद् अथ वा जीवतो (?) ऽनर्चनीयत्वात् त्रयाणां यथा न नियमाद् अनधिकार एवं, जीवत्पितामहस्य श्राद्धदानेनेति होमान्तं वेत्य् उक्तम् । एतेन जीवत्प्रपितामहो ऽपि व्याख्यातो विज्ञेयः । समानत्वात् कारन्तस्येति (?) ।
@@ -8833,6 +8833,11 @@ father and to the grand-father.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/223_teShAn_dattvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+223	Having poured water mixed with sesamum, in which a blade of Kusa grass has been placed, into the hands of the (guests), he shall give (to each) that (above-mentioned) portion of the cake, saying, 'To those, Svadha!'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having poured into their hands water and sesamum along with kuśa blades, he should offer the top portion of the ball, saying “May this be svadhā to these.”—(223)
@@ -8872,11 +8877,6 @@ Manu.)
 
 **तेषाम्** इति । **तेषां** ब्राह्मणानां **हस्तेषु** सदर्भं **तिलोदकं दत्वा** पिण्डेभ्यः स्वल्पिकां मात्राम् इत्य् अनेन यन् निर्दिष्टं तत् **पिण्डाग्रं **पित्रे **स्वधास्तु** इत्य् एवमाइ **ब्रुवन् **क्रमेण दद्यात् ॥ ३.२२३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-223	Having poured water mixed with sesamum, in which a blade of Kusa grass has been placed, into the hands of the (guests), he shall give (to each) that (above-mentioned) portion of the cake, saying, 'To those, Svadha!'
-</details>
 </details>
 </div>
 
@@ -8890,6 +8890,11 @@ Manu.)
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/224_pANibhyAn_tUpasangRhya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+224	But carrying (the vessel) filled with food with both hands, the (sacrificer) himself shall gently place it before the Brahmanas, meditating on the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Taking up with his hands the supply of food, he shall himself gently place it near the Brāhmaṇas, thinking of his Pitṛs (all the time).—(224)
@@ -8948,11 +8953,6 @@ meat, cakes, curds, butter, milk-pudding, mixed rice, and preparations of fruits
 
 **पाणिभ्याम्** इति । अन्नपूर्णपात्रं कराभ्यां गृहीत्वा **पितृन् **स्मरन् विप्रसमीपे परिवेषणार्थं **शनैः** स्थापयेत् ॥ ३.२२४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-224	But carrying (the vessel) filled with food with both hands, the (sacrificer) himself shall gently place it before the Brahmanas, meditating on the manes.
-</details>
 </details>
 </div>
 
@@ -8966,6 +8966,11 @@ meat, cakes, curds, butter, milk-pudding, mixed rice, and preparations of fruits
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/225_ubhayor_hastayor.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+225	The malevolent Asuras forcibly snatch away that food which is brought without being held with both hands.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wicked-minded demons forcibly destroy that food which is abandoned by both hands.—(225)
@@ -9017,11 +9022,6 @@ shall bring up the food, with both hands, then serve it, with a calm mind, keepi
 
 **उभयोर्** इति । उभाभ्यां हस्ताभ्याम् अगृहीतं **यद् अन्नं** ब्राह्मणान्तिकम् आनीयते दीयते वा तत् **असुराः **देवद्विषः **दुष्ट**बुद्धयः** **आच्छिन्दति । तस्मान् नैकेन (स्मरन्) हस्तेनानीय परिवेष्टव्यम् ॥ ३.२२५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-225	The malevolent Asuras forcibly snatch away that food which is brought without being held with both hands.
-</details>
 </details>
 </div>
 
@@ -9036,6 +9036,11 @@ shall bring up the food, with both hands, then serve it, with a calm mind, keepi
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/226_guNAMsh_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+226	Let him, being pure and attentive, carefully place on the ground the seasoning (for the rice), such as broths and pot herbs, sweet and sour milk, and honey,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Pure and with collected mind, he shall first place on the ground the accessories, such as soups and vegetaui.es, &c., milk, curd, butter and honey.—(226)
@@ -9089,11 +9094,6 @@ articles of food,—‘*bhūmau*’ as ‘not on the feeding-dish itself *i*.
 
 **गुणान्** इति । सूपादीनि व्यञ्जनानि क्षीरादीनि चोपसेचनानि प्राधान्यात् पृथक् पृथक् यथोपदिष्टानि **प्रयतः **शुचिः **समाहितः** अनन्यमनाः सन् यथा न विशीर्यन्ते तथा **भूमाव् एव **नान्यत्र स्थापयेत् ॥ ३.२२६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-226	Let him, being pure and attentive, carefully place on the ground the seasoning (for the rice), such as broths and pot herbs, sweet and sour milk, and honey,
-</details>
 </details>
 </div>
 
@@ -9107,6 +9107,11 @@ articles of food,—‘*bhūmau*’ as ‘not on the feeding-dish itself *i*.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/227_bhaxyam_bhojyam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+227	(As well as) various (kinds of) hard food which require mastication, and of soft food, roots, fruits, savoury meat, and fragrant drinks.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Also hard food and soft food of various kinds, roots, fruits, savoury meat and sweet-smelling drinks.—(227)
@@ -9152,11 +9157,6 @@ See Comparative notes for [Verse 3.226].
 
 **भक्ष्यं भोज्यं च विविधं सुरसानि फलानि चेति** । तथा **भक्ष्यं **खरविशदं मोदकादि **भोज्यं** पायसादिना यथ्प्रकारं **मूलं फलं च **हृदयस्य प्रियाणि **मांसानि **पानकादीन च **सुरभीणि **भवन्ति** **भूमाव् एव विन्यसेत् ॥ ३.२२७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-227	(As well as) various (kinds of) hard food which require mastication, and of soft food, roots, fruits, savoury meat, and fragrant drinks.
-</details>
 </details>
 </div>
 
@@ -9170,6 +9170,11 @@ See Comparative notes for [Verse 3.226].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/228_upanIya_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+228	All this he shall present (to his guests), being pure and attentive, successively invite them to partake of each (dish), proclaiming its qualities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having gently brought up all this, he shall, with collected mind and pure, serve it,—describing all its qualities.—(228)
@@ -9215,11 +9220,6 @@ See Comparative notes for [Verse 3.226].
 
 **उपनीय सर्वम् एतद्** इति । **सर्वम् एतद्** अन्नादि ब्राह्मणसमीपे आनीय “इदं मधुरं” “इदं श्लक्ष्णम्” इत्य् एवं **सर्वान् **माधुर्यादीन् कथयन् सुचिरम् अनन्यमनाः शनैः यथोपयोगं न तु युगपद् एव सर्वं **परिवेषयेत्** ॥ ३.२२८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-228	All this he shall present (to his guests), being pure and attentive, successively invite them to partake of each (dish), proclaiming its qualities.
-</details>
 </details>
 </div>
 
@@ -9233,6 +9233,11 @@ See Comparative notes for [Verse 3.226].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/229_nA-sram_ApAtayej.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+229	Let him on no account drop a tear, become angry or utter an untruth, nor let him touch the food with his foot nor violently shake it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Never should he shed tears; nor should he become angry; nor tell a lie. He should not touch the food with his foot, nob shake it.—(229)
@@ -9295,11 +9300,6 @@ people should not shed tears, nor converse, nor laugh among themselves, nor wand
 
 **नास्रम्** इति । रोदनक्रोधासत्यभाषणानि न कुर्यात् **पादेन चान्नं न स्पृशेत्** । नाप्य् उत्क्षिप्योत्क्षिप्य सन्त्यजेत् । क्रोधाद् **अनृतं न वदेत् **क्रोधानृतयोर् अपुरुषार्थत्वात् निषिद्धयोः श्राद्धाङ्गत्वार्थं श्राद्धाङ्गत्वार्थम् इहोपदेशः ॥ ३.२२९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-229	Let him on no account drop a tear, become angry or utter an untruth, nor let him touch the food with his foot nor violently shake it.
-</details>
 </details>
 </div>
 
@@ -9313,6 +9313,11 @@ people should not shed tears, nor converse, nor laugh among themselves, nor wand
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/230_asra~N_gamayati.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+230	A tear sends the (food) to the Pretas, anger to his enemies, a falsehood to the dogs, contact with his foot to the Rakshasas, a shaking to the sinners.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Tears make the food go to ghosts, anger to enemies, lie to dogs, touching with the foot to demons, and shaking to sinners.—(230)
@@ -9356,11 +9361,6 @@ in cleanliness, Rākṣasas take away all that is sacrificed or offered or given
 
 **अस्रं गमयति प्रेतान्** इति । अश्रु क्रियमाणं प्रेताखान् भूतविशेषान् श्राद्धान्नादि प्रापयति क्रोधः **अनृतं शुनः पादस्पर्शो रक्षांसि अवधूननं **पापकारिणं तस्माद् एतन् न कुर्यात् ॥ ३.२३० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-230	A tear sends the (food) to the Pretas, anger to his enemies, a falsehood to the dogs, contact with his foot to the Rakshasas, a shaking to the sinners.
-</details>
 </details>
 </div>
 
@@ -9374,6 +9374,11 @@ in cleanliness, Rākṣasas take away all that is sacrificed or offered or given
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/231_yad_yad.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+231	Whatever may please the Brahmanas, let him give without grudging it; let him give riddles from the Veda, for that is agreeable to the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whatever may be agreeable to the Brāhmaṇas, that he shall give ungrudgingly. He shall relate stories told in the Veda; as this is liked by the Pitṛs.—(231)
@@ -9442,11 +9447,6 @@ each such dishes as he may relish; they should be fed till they are fully satisf
 
 **यद्** इति । **ब्रह्मोद्याश् चेति** । **यद् यद् **अन्नं व्यञ्जनादि भवति **तत् तद्** अदुष्टः सन् **दद्यात् **। तथा परमात्मनिरूपणं पुण्यकथास्तोत्रं कुर्यात् यद् **एतत्** **पितॄणाम् **अभिप्रेतम् ॥ ३.२३१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-231	Whatever may please the Brahmanas, let him give without grudging it; let him give riddles from the Veda, for that is agreeable to the manes.
-</details>
 </details>
 </div>
 
@@ -9461,6 +9461,11 @@ each such dishes as he may relish; they should be fed till they are fully satisf
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/232_svAdhyAyaM_shrAvayet.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+232	At a (sacrifice in honour) of the manes, he must let (his guests) hear the Veda, the Institutes of the sacred law, legends, tales, Puranas, and Khilas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the rite in honour of the Pitṛs, one should recite the Vedic text, Legal Institutes, Stories, Histories, Legends and supplementary Texts.—(232)
@@ -9532,11 +9537,6 @@ mantras.’
 
 **स्वाध्यायं श्रावयेत् पित्र्यम्** इति । वेदमानवादिशास्त्राणि **आख्यानानि **सौपर्णमैत्रावरुणादीनि पृथक् वेदोदितानि भारतादीनि वाय्वादिप्रोक्तानि शिवसङ्कल्पादीनि श्राद्धे ब्राह्मणान् **श्रावयेत्** ॥ ३.२३२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-232	At a (sacrifice in honour) of the manes, he must let (his guests) hear the Veda, the Institutes of the sacred law, legends, tales, Puranas, and Khilas.
-</details>
 </details>
 </div>
 
@@ -9551,6 +9551,11 @@ mantras.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/233_harShayed_brAhmaNAMs.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+233	Himself being delighted, let him give delight to the Brahmanas, cause them to partake gradually and slowly (of each dish), and repeatedly invite (them to eat) by (offering) the food and (praising) its qualities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Being happy himself, he shall bring delight to the Brāhmaṇas; he shall feed them, gently and slowly, with dishes, and urge them repeatedly by means of seasonings.—(233)
@@ -9604,11 +9609,6 @@ qualities of the dishes, he shall feed the Brāhmaṇas slowly, and shall deligh
 
 **हर्षयेद् ब्राह्मणान् हृष्टो भोजयेच् चाशनं शनैः । अन्न्द्येनासकृच् चैनान् गुणैश् च परिशोधयेत् ॥** हृष्टो भूत्वा तैस् तैः प्रियवचनादिभिः **ब्राह्मणान् **तोषयेत् अन्नं चात्वरया **भोजयेत्** पायसादिना घृतपूरादिभिः **एतान् **ब्राह्मणान् इदं गृह्यताम् इत्य् एवं पुनः पुनः प्रबोधयेत् ॥ ३.२३३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-233	Himself being delighted, let him give delight to the Brahmanas, cause them to partake gradually and slowly (of each dish), and repeatedly invite (them to eat) by (offering) the food and (praising) its qualities.
-</details>
 </details>
 </div>
 
@@ -9622,6 +9622,11 @@ qualities of the dishes, he shall feed the Brāhmaṇas slowly, and shall deligh
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/234_vratastham_api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+234	Let him eagerly entertain at a funeral sacrifice a daughter's son, though he be a student, and let him place a Nepal blanket on the on the seat (of each guest), scattering sesamum grains on the ground.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At a śrāddha he should, with special care, feed the daughter’s son, even though he be still under vows (of studentship). He should offer the blanket as seat and scatter sesamum on the ground.—(234)
@@ -9704,11 +9709,6 @@ the body, Yava, Nīvāra, Mudga, while flowers, clarified butter,—these are ve
 **व्रतस्थम् अपि दौहित्रम्** इति । ब्रह्मचारिणम् अपि सदा **दौहित्रं श्राद्धे यत्नेन भोजयेत् **। दौहित्रस्य चानुकल्पकमध्याद् आम्नाते सति पुनः इदं यत्नवचनम् आनुकल्पिकमध्ये ऽत्याज्यत्वं (जाड्यत्वं) ख्यापयति । सत्कृतं चारु आसनं दद्यात् । न दौहित्र एव दद्यात् अपि तु सर्वब्राह्मणेषु, “त्रीणि श्राद्धे पवित्राणि” (३.२३५) इत्यादिवचनात् । तिलांश् च भूमौ प्रक्षिपेत् ॥ ३.२३४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-234	Let him eagerly entertain at a funeral sacrifice a daughter's son, though he be a student, and let him place a Nepal blanket on the on the seat (of each guest), scattering sesamum grains on the ground.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **व्रतस्थम् अपि दौहित्रं** पित्र्य एव प्रकरणात् **यत्न**वचनम् । तद् एवं तु तृचा नियम (?) एव **व्रतस्थ**ग्रहणम् । **दौहित्र**स्तुत्यर्थम् । "व्रतवद् देवदैवत्ये" (म्ध् २.१८९) इत्यादि । यतस् तद् अदोषः (?) "मासिकार्थं तु यो ऽश्नीयात्" (म्ध् ११.१५८) इत्यत्र तत्रैव परिहारं वक्ष्यामः । दौहित्रस्य चानुक्तप्रोक्तत्वाद् (?) आनुकल्पिकेभ्य एव मातामहादिभ्यः तस्य ज्यायस्त्वम् उच्यते । **कुतपस्य** च । दौहित्रसन्नियोगे विधानम् अथ वा आसनदानप्रकरणे **[१५२]** अपरिमितत्वात् कुतपस्यानुकल्पिके तद्दौहित्रेण सहोपदेशाद् अस्यानुकल्पिक एतामहम्यतेति (?) । कस्मात् पुनर् एतद् एवम् । यस्मात् –
@@ -9726,6 +9726,11 @@ the body, Yava, Nīvāra, Mudga, while flowers, clarified butter,—these are ve
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/235_trINi_shrAddhe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+235	There are three means of sanctification, (to be used) at a Sraddha, a daughter's son, a Nepal blanket, and sesamum grains; and they recommend three (other things) for it, cleanliness, suppression of anger, and absence of haste.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Three things are sacred at Śrāddhas—the daughter’s son, blanket and sesamum, and they commend three things in this connection—cleanliness, absence of anger and absence of haste.—(235)
@@ -9770,11 +9775,6 @@ See Comparative notes for [Verse 3.234].
 यस्मात् **त्रीणीति** । **दौहित्रा**दीनि **त्रीणि श्राद्धे पवित्राणि त्रीणि चैव **वस्तूनि शौचाक्रोधविश्रम्भाख्यानि श्राद्धे अतिशयेनेच्छन्ति ॥ ३.२३५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-235	There are three means of sanctification, (to be used) at a Sraddha, a daughter's son, a Nepal blanket, and sesamum grains; and they recommend three (other things) for it, cleanliness, suppression of anger, and absence of haste.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 शौचादीनां प्रशंसावचनं विध्यर्थम् । अपरे तु सत्यम् । परे तु सत्यम् अक्रोधम् अत्वराम् इति ।
@@ -9792,6 +9792,11 @@ See Comparative notes for [Verse 3.234].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/236_atyuShNaM_sarvam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+236	All the food must be very hot, and the (guests) shall eat in silence; (even though) asked by the giver (of the feast), the Brahmanas shall not proclaim the qualities of the sacrificial food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All the food should be very hot, and they should eat with controlled speech; when asked by the giver, the Brāhmaṇas should not describe the qualities of the sacrificial food.—(236)
@@ -9885,11 +9890,6 @@ praise or decry the food. They should say nothing except by the gesture of the h
 इति शङ्खस्मरणात् फलादिव्यतिरेकेण सर्वम् उष्णं दद्यात् । संयतवाचश् च ब्राह्मणा अश्नीयुः । दात्रा च स्वाद्वस्वादु वेत्य् एनम् अन्नगुणान् पृष्टाः न कथयेयुः अभिनयेनापि । वाङ्नियमस्योक्तत्वात् (चाग्निप्रशस्योक्तत्वात्) ॥ ३.२३६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-236	All the food must be very hot, and the (guests) shall eat in silence; (even though) asked by the giver (of the feast), the Brahmanas shall not proclaim the qualities of the sacrificial food.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अभिनयेनापि । नियमविध्यर्थः श्लोकः । कारणं वक्ति ।
@@ -9907,6 +9907,11 @@ praise or decry the food. They should say nothing except by the gesture of the h
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/237_yAvad_uShmA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+237	As long as the food remains warm, as long as they eat in silence, as long as the qualities of the food are not proclaimed, so long the manes partake (of it).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As long as the food is steaming, as long as they eat with speech controlled, so long do the Pitṛs eat, as long as the qualities of the food are not described.—(237)
@@ -9950,11 +9955,6 @@ See Comparative notes for [Verse 3.236].
 **यावद् ऊष्मा भवत्य् अन्न **इति । **यावद् अन्ने **औष्ण्यं **हवति **विप्रा मौनेनाश्नन्ति हविर्गुणांश् च नाभिदधति **तावत् पितरस्** तद् अन्नं ब्राह्मणमुखेन भुञ्जते ॥ ३.२३७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-237	As long as the food remains warm, as long as they eat in silence, as long as the qualities of the food are not proclaimed, so long the manes partake (of it).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विध्यर्था स्तुतिर् ऊष्मादीनाम् ।
@@ -9972,6 +9972,11 @@ See Comparative notes for [Verse 3.236].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/238_yad_veShTita-shirA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+238	What (a guest) eats, covering his head, what he eats with his face turned towards the south, what he eats with sandals on (his feet), that the Rakshasas consume.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What the guest eats with his head wound up, what he eats with his face towards the south, what he eats with shoes on, all this verily the demons eat.—(238)
@@ -10043,11 +10048,6 @@ vidyāt tadāsuram*’ for ‘*tadvai rakṣāṃsi bhuñjaṭe*.’\]
 **यद्** इति । उष्णीषादिना **वेष्टितशिराः **यद् अन्नं ब्राह्मणो **बुङ्क्ते **तथा **दक्षिणामुखः सोपानत्क**पादश् **च** **तद्** अन्नं **रक्षांसि **अश्नन्ति, न पितरः । तस्माद् एतत् परिहरणीयम् ॥ ३.२३८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-238	What (a guest) eats, covering his head, what he eats with his face turned towards the south, what he eats with sandals on (his feet), that the Rakshasas consume.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अकृतान्नश्राद्धे तु प्राप्तानाम् एषां प्रतिषेधः । वक्ष्यति "प्राणि वा यदि वाप्राणि" (म्ध् ४.११७) इति । **भुङ्क्त** इति । ग्रहीतुर् हस्तेन द्रष्टव्यसम्बन्ध उच्यते । "पाण्यास्यो हि द्विजः स्मृतः" (म्ध् ४.११७) इति वचनात् । भोजने ऽपि चार्थप्राप्तिर् अस्त्व् एव । एकदा यथासम्भवम् अर्थप्रतिषेधो ऽयम् अधिकृतनियमस्तुत्यर्थः । सर्वप्रकारे च श्राद्धे,
@@ -10065,6 +10065,11 @@ vidyāt tadāsuram*’ for ‘*tadvai rakṣāṃsi bhuñjaṭe*.’\]
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/239_chANDAlash_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+239	A Kandala, a village pig, a cock, a dog, a menstruating woman, and a eunuch must not look at the Brahmanas while they eat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Cāṇdāla, the pig, the cock, as also the dog, the unclean woman and the eunuch should not look at the Brāhmaṇas while eating.—(239)
@@ -10140,11 +10145,6 @@ leper, the outcast, the embryo-killer, one of doubtful birth, relatives of outca
 तथा च कार्यं यथा **चण्डालश् च वराहश् च कुक्कुट** इति । चण्डालवराहग्रामसूकरकुक्कुटश् चोदक्यानपुंसकानि द्विजभोजनकाले ततो ऽपसारयेत् ॥ ३.२३९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-239	A Kandala, a village pig, a cock, a dog, a menstruating woman, and a eunuch must not look at the Brahmanas while they eat.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तस्मात् परीक्षिते दद्याज् जलतीरपुलिनादिषु । अपरीक्षितदेशेषु प्राप्तानां प्रतिषेधः । यस्मात्,
@@ -10162,6 +10162,11 @@ leper, the outcast, the embryo-killer, one of doubtful birth, relatives of outca
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/240_home_pradAne.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+240	What (any of) these sees at a burnt-oblation, at a (solemn) gift, at a dinner (given to Brahmanas), or at any rite in honour of the gods and manes, that produces not the intended result.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the offering into Fire, at gifts, at feeding, or at any rite in honour of the Gods or of the Pitṛs,—whatever is seen by these goes wrong.—(240)
@@ -10222,11 +10227,6 @@ See Comparative notes for [Verse 3.239].
 यस्माद् **होम** इति । अग्निहोत्रादि**होमे दाने **धर्मार्थं ब्राह्मणभोजने हव्यकव्ययोश् च यत् कर्म चण्डालादिभिर् अवेक्ष्यते यत् यद् अर्थं क्रियते तत् न साधयति ॥ ३.२४० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-240	What (any of) these sees at a burnt-oblation, at a (solemn) gift, at a dinner (given to Brahmanas), or at any rite in honour of the gods and manes, that produces not the intended result.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एते ऽपि विधयो दैवे पित्र्ये वचनात् स्युः । विशेषात् त्व् इदं ब्रवीति –
@@ -10244,6 +10244,11 @@ See Comparative notes for [Verse 3.239].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/241_ghrANena_sUkaro.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+241	A boar makes (the rite) useless by inhaling the smell (of the offerings), a cock by the air of his wings, a dog by throwing his eye (on them), a low-caste man by touching (them).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The pig defiles by sniffing, the cock by wind raised by its wings, the dog by casting his eye, and the man born of the low caste by touch.—(241).
@@ -10316,11 +10321,6 @@ See Comparative notes for [Verse 3.239].
 **घ्राणेनेति** । **सूकरस् **तदन्नादि घ्रात्वा तत्कर्म निष्फलयति । **कुक्कुटः पक्षवातेन **वायुना, **श्वापि** अक्षिनिरीक्षणेन, **अवरवर्णेन **शूद्रेण ब्राह्मण्यां जातः **अवरवर्णजः **चाण्डालः । नदीतीरादिश्राद्धकृत् स्पर्शनेन तत्र वायुजशुचित्वाशङ्कायाम् इदम् । न दातुः न चान्नादिस्पर्शविषयं येन चण्डालस्य सामान्यतः स्पर्शनिषेधेनैव सिद्धम् अन्नवचनम् अनर्थकं स्यात् । इत्य् एवम् आनर्थक्याशङ्कायां यच् छूद्रस्पर्शनिषेधार्थत्वम् अस्याहुः – तद् असत्, उक्तनीत्यार्थवत्त्वात् । अवरजशब्देन च शूद्रस्यानभिधानात् । सूकरादीनां च स्वभावानुवादो ऽयं प्रकृतविशेषतयोच्यते न त्व् एतत् क्रियाव्यतिरेकेण दुष्टम् इति ॥ ३.२४१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-241	A boar makes (the rite) useless by inhaling the smell (of the offerings), a cock by the air of his wings, a dog by throwing his eye (on them), a low-caste man by touching (them).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 नेक्षेतन्न् (३.२३९) इत्य् अस्य विधेः सर्व एते ऽर्थवादाः । अशुचयः सर्व एते पश्यन्तो ऽप्य् उपघ्नन्तीत्य् अतो नेक्षेरन् न च सन्निकृष्टा दृष्ट्तिनिपाते (?) वा श्राद्धस्य् स्युः । **अपरवर्णजं** च चण्डालं केचिद् आहुः । तद् अयुक्तं तत्सर्गस्य सामान्यशास्त्रेणैव प्रतिषिद्धत्वात् । तेन शूद्रो ऽवरवर्णजः द्विजातिश्राद्धेषु स्पर्शनोपघातकृद् वेदितव्यः, नात्मीयश्राद्धे तस्य तत्रानुशिष्टत्वात् । नृणाम् (?) अवरवर्णजश् चण्डाल एव प्रकृतः । "चण्डालश् च वराहश् च" (म्ध् ३.२३९) इति ईक्षणप्रतिषेधश् च । तत इह स्पर्शेनावरवर्णज इति स्पर्शप्रतिषेधः । यतश् चण्डालस्याप्राप्तिस्पर्शे शूद्रस्य स्वस्ति (?) ।
@@ -10338,6 +10338,11 @@ See Comparative notes for [Verse 3.239].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/242_khanjo_vA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+242	If a lame man, a one-eyed man, one deficient in a limb, or one with a redundant limb, be even the servant of the performer (of the Sraddha), he must be removed from that place (where the Sraddha is held).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The cripple, or the one-eyed man, the man without a limb, or the man with a redundant limb,—even if he be the offerer’s servant—he should remove from there.—(242)
@@ -10383,11 +10388,6 @@ not look at the Śrāddha.’
 **खञ्ज** इति । **खञ्जः **पादविकलः, **काणः** एकेक्षणविकलः, **दातुर् वा** सासः शूद्रस्यैव प्रेष्यत्वात् । अपिशब्दाद् अन्यो ऽपि शूद्रो, यो वा कुनखिषण्डकादिः तम् अपि ततः प्रदेशाद् अपोसारयेत् ॥ ३.२४२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-242	If a lame man, a one-eyed man, one deficient in a limb, or one with a redundant limb, be even the servant of the performer (of the Sraddha), he must be removed from that place (where the Sraddha is held).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **खञ्जादयः** शूद्रा वेदितव्याः शास्त्रारम्भसामर्थ्यात् । प्रेष्याश् चाप्रेष्याश् च ।
@@ -10405,6 +10405,11 @@ not look at the Śrāddha.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/243_brAhmaNam_bhixukam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+243	To a Brahmana (householder), or to an ascetic who comes for food, he may, with the permission of (his) Brahmana (guests), show honour according to his ability.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa or the mendicant who comes seeking for food, he shall entertain, to the best of his ability, on being permitted by the Brāhmaṇas.—(243)
@@ -10459,11 +10464,6 @@ one shall welcome the Ascetic and the Religious Student.’
 **ब्राह्मणं भिक्षुकं वापीति** । **ब्राह्मणम् **अतिथिरूपं अन्यं वा **भिक्षुकं भोजनार्थं** तत्कालम् आगतं श्राद्धब्राह्मणैर् अनुज्ञातो दाता यथाशक्त्या अन्नदानेन पूजयेत् ॥ ३.२४३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-243	To a Brahmana (householder), or to an ascetic who comes for food, he may, with the permission of (his) Brahmana (guests), show honour according to his ability.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अन्यम् आमन्त्रितेभ्यस् तत्काल आगतम् अतिथिं **भिक्षुकं** वा तैर् **अभ्यनुज्ञात** इति युक्तम् इदं तदर्थत्वात् प्रोक्तस्य ।
@@ -10481,6 +10481,11 @@ one shall welcome the Ascetic and the Religious Student.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/244_sArvavarNikam_annAdyam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+244	Let him mix all the kinds of food together, sprinkle them with water and put them, scattering them (on Kusa grass), down on the ground in front of (his guests), when they have finished their meal.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having mixed up the food of all kinds and wetted it with water, he should throw it before the Brāhmaṇas who have eaten, scattering it on the ground.—(244)
@@ -10526,11 +10531,6 @@ ground, with the mantra *Ye agni*, etc.’
 
 **सार्ववर्णिकम्** इति । सर्वप्रकारम् **अन्नाद्यम्** एकीकृत्य उदकेन प्लावयित्वा **भुक्तवतां** ब्राह्मणानाम् अग्रे विक्षिपन् भूमौ “दर्भेषु विकिरश् च यः” इति वक्ष्यमाणलिङ्गात् दर्भेषु समुत्सृजेत् ॥ ३.२४४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-244	Let him mix all the kinds of food together, sprinkle them with water and put them, scattering them (on Kusa grass), down on the ground in front of (his guests), when they have finished their meal.
-</details>
 </details>
 </div>
 
@@ -10544,6 +10544,11 @@ ground, with the mantra *Ye agni*, etc.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/245_asaMskRta-pramItAnAn_tyAginAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+245	The remnant (in the dishes), and the portion scattered on Kusa grass, shall be the share of deceased (children) who received not the sacrament (of cremation) and of those who (unjustly) forsook noble wives.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The remnant and that which has been scattered on the Kuśa grass form the share of those who have died without sacraments, and of those who have abandoned family ladies.—(245)
@@ -10618,11 +10623,6 @@ pronouncing the syllable *svasti*, he shall throw on each of the spots sesamum a
 
 **असंस्कृतप्रमीतानाम् **इति । “नास्य कार्यो ऽग्निसंस्कारः” [५.६९] इत्यादिना निषिद्धाग्निकार्याणां मृतानां कुलस्त्रीणां च कुलं त्यक्त्वा गतानां पात्रस्थम् **उच्छिष्टं धर्भेषु यो विकिरः** स भागः स्यात् । **कुलयोषिताम् **इति विशेषाभिधानं संस्कृतं भैक्षम् इत्य्वत् ॥ ३.२४५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-245	The remnant (in the dishes), and the portion scattered on Kusa grass, shall be the share of deceased (children) who received not the sacrament (of cremation) and of those who (unjustly) forsook noble wives.
-</details>
 </details>
 </div>
 
@@ -10636,6 +10636,11 @@ pronouncing the syllable *svasti*, he shall throw on each of the spots sesamum a
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/246_uchCheShaNAm_bhUmigatam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+246	They declare the fragments which have fallen on the ground at a (Sraddha) to the manes, to be the share of honest, dutiful servants.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the rite in honour of the Pitṛs, the remnant fallen on the ground is regarded as the share of straightforward, dutiful servants.—(246)
@@ -10684,11 +10689,6 @@ scattered, as also the smearings and water,—should be offered as food for thos
 **उच्छेषणम्** इति । भूमिपतितं यद् उच्छिष्टं तत् अकुटिलस्य अनलसस्य दासगणस्य **भागधेयं** भागं मन्वादयः प्राहुः ॥ ३.२४६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-246	They declare the fragments which have fallen on the ground at a (Sraddha) to the manes, to be the share of honest, dutiful servants.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ऋज्वर्थास् त्रयः श्लोकाः । "**दर्भेषु विकिरञ् च यः**" इति । न च नादर्भेष्व् एव वासो देय इति गम्यते, न भूमौ । इतरथा हि दर्भग्रहणम् अर्थकरं स्यात् । एवं तावत् सपित्रोर्ध्वम् (?) । इदं चान्यत् –
@@ -10706,6 +10706,11 @@ scattered, as also the smearings and water,—should be offered as food for thos
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/247_A-sapiNDakriyAkarma_dvijAteH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+247	But before the performance of the Sapindikarana, one must feed at the funeral sacrifice in honour of a (recently-) deceased Aryan (one Brahmana) without (making an offering) to the gods, and give one cake only.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the twice-born person just dead, there should be (performed) the rite up to the ‘Sapiṇḍīkaraṇa’: one should do the feeding at his Śrāddha without any in honour of the gods, and he shall offer one ball.—(247)
@@ -10788,11 +10793,6 @@ perform the sixteen Śrāddhas; and all these should be performed by the unitary
 **आसपिण्डक्रियाकर्मेति । **अचिरमृतस्य द्विज्तेर् एकादशाहादाव् आसपिण्डक्रियाधिष्ठानं कर्तव्यम् । नामावास्यावत् पूर्वाभ्यां सहपिण्डदानं कार्यम् । किं तर्हि । वैश्वदेवब्राह्मणभोजनरहितं श्राद्धार्थम् अन्नं ब्राह्मणं च भोजयेत् । एकं पिण्डं तस्मा एव दद्यात् । तस्मात् यावद् ब्राह्मणं भोजयेत् । साधितं चैतत् सविस्तरं स्मृतिमञ्जर्यां (?) ऋजुपञ्जिकायां च** **। इह तु ग्रन्थभारभयान् न प्रतार्यते ॥ ३.२४७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-247	But before the performance of the Sapindikarana, one must feed at the funeral sacrifice in honour of a (recently-) deceased Aryan (one Brahmana) without (making an offering) to the gods, and give one cake only.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 नवश्राद्धं सपिण्डाः सह कुर्युः । पिण्डम् एकं च निर्वपेत् । इत्य् एकस्यैव श्राद्धकर्म स्यात् सा चेयम् असपिण्डक्रिया संवत्सरात् भवति । दद्याद् एकस्मै पिण्डं चैकवच् च मन्त्रान्तं हेतुत्वात् (?) तं च शास्त्रान्तरप्रसिद्धा तत्रैकता तद् एवं च न कुर्यात् । भुवि चैकम् एव पिण्डं निर्वपेद् यदा तु "सन्नयं **[१५४]** तु त्वा पितरः" इति मन्त्रवर्णात् पिण्डसंसर्गो भवति तदा –
@@ -10810,6 +10810,11 @@ perform the sixteen Śrāddhas; and all these should be performed by the unitary
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/248_sahapiNDakriyAyAn_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+248	But after the Sapindikarana of the (deceased father) has been performed according to the sacred law, the sons must offer the cakes with those ceremonies, (described above.)
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But after the Amalgamating Rite has been duly performed, the offering of balls shall be done by the sons, by this same method.—(248)
@@ -11144,11 +11149,6 @@ with the Piṭṛs, the body-born son shall offer to the parents, on the day of 
 > _ननु_ सन्निहितपरामर्शकत्वात् सर्वनाम्नः अनयैवेत्य् एकोद्दिष्टातिदेशो न्याय्यः । _नैवम्_, एवं भेदनिर्देशेन शास्त्रनिर्देशं न कुर्यात् । असपिण्डक्रियायाम् एष विधिः । सहपिण्डक्रियायां पुनः कृतायाम् अयम् इति । तस्माद् अमावास्येतिकर्तव्यतानिर्देश एवं न्याय्यः । इति सपिण्डकरणसांवत्सरिके ऽपि स्मृतिमञ्जर्याम् । ऋजुपञ्जिकायां विस्तरतो निरूप्यते ॥ ३.२४८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-248	But after the Sapindikarana of the (deceased father) has been performed according to the sacred law, the sons must offer the cakes with those ceremonies, (described above.)
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उक्तयैवावृता तदूर्ध्वं तस्य पुत्राः स्त्रीभ्यो दद्युः ।
@@ -11167,6 +11167,11 @@ with the Piṭṛs, the body-born son shall offer to the parents, on the day of 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/249_shrAddham_bhuktvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+249	The foolish man who, after having eaten a Sraddha (-dinner), gives the leavings to a Sudra, falls headlong into the Kalasutra hell.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who, having eaten at a śrāddha, gives the leavings to a śūdra,—this foolish man falls headlong into the Kālasūtra hell.—(249)
@@ -11209,11 +11214,6 @@ jāyate*’ for ‘*kālasūtramavākśirāḥ*.’\]
 **श्राद्धम्** इति । श्राद्धभोजनोच्छिष्टं यः शूद्राय ददाति स मूर्खः कालसूत्राख्यनरकमध्ये अधोमुखो व्रजति । आश्रितसच्छूद्रत्वात् उच्छिष्टम् अन्नं दातव्यम् इति प्राप्ते ऽयं प्रतिषेधः ॥ ३.२४९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-249	The foolish man who, after having eaten a Sraddha (-dinner), gives the leavings to a Sudra, falls headlong into the Kalasutra hell.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विशेषप्रतिषेधो ऽयम् ।
@@ -11231,6 +11231,11 @@ jāyate*’ for ‘*kālasūtramavākśirāḥ*.’\]
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/250_shrAddhabhug_vRShalItalpam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+250	If the partaker of a Sraddha (-dinner) enters on the same day the bed of a Sudra female, the manes of his (ancestors) will lie during that month in her ordure.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having eaten at a Śrāddha, if one enters the bed of a woman on that day, his ancestors lie in her ordure for the whole of that month.—(250)
@@ -11288,11 +11293,6 @@ Veda, or enters the bed of a woman (the rest as in Manu).’
 **श्राद्धभुग्** इति । आमन्त्रितस् तु यः श्राद्धे (इति) भोजनात् प्राक् ब्रह्मचर्यम् उक्तम् । अनेन तु तदुत्तरकालं तद् अहोरात्रम् उच्यते । **वृषली** च व्याख्याता । श्राद्धं भुक्त्वा यः तद् अहोरात्रं स्त्रीसंयोगं भजते तस्य तद्विष्ठायां **मासं पितरः **अवतिष्ठन्ते इत्य् अतश् च इयान् अस्या धर्मयोगो भवति ॥ ३.२५० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-250	If the partaker of a Sraddha (-dinner) enters on the same day the bed of a Sudra female, the manes of his (ancestors) will lie during that month in her ordure.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 व्यतिक्रमनिन्दा अनतिक्रमस्तुयर्था । वृषली च व्याख्याता ।
@@ -11310,6 +11310,11 @@ Veda, or enters the bed of a woman (the rest as in Manu).’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/251_pRShTvA_svaditam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+251	Having addressed the question, 'Have you dined well?' (to his guests), let him give water for sipping to them who are satisfied, and dismiss them, after they have sipped water, (with the words) 'Rest either (here or at home)!'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having asked—“Have you dined well?”—he shall, after they have been fully satisfied, make them wash; and when they have washed, he shall say—“You may rest where you choose.—(251)
@@ -11383,11 +11388,6 @@ completed?), he shall gather all the food that has been used and having taken ou
 
 **पृष्ट्वा स्वदितम् इत्य् एवम्** इति । तान् ब्राह्मणान् तृप्तान् वृद्ध्या **स्वदितम् इत्य् एवं पृष्ट्वा** तत उपस्पर्शयेत् । कृताचमनांश् च इह वा स्वगृहे वास्यताम् इत्य् एवम् अनुज्ञातव्य्ः ॥ ३.२५१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-251	Having addressed the question, 'Have you dined well?' (to his guests), let him give water for sipping to them who are satisfied, and dismiss them, after they have sipped water, (with the words) 'Rest either (here or at home)!'
-</details>
 </details>
 </div>
 
@@ -11401,6 +11401,11 @@ completed?), he shall gather all the food that has been used and having taken ou
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/252_svadhAstv_ity.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+252	The Brahmana (guests) shall then answer him, 'Let there be Svadha;' for at all rites in honour of the manes the word Svadha is the highest benison.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇas should thereupon tell him—“May there be svadhā.” at all rites performed in honour of the Pitṛs, the syllable “Svadhā” constitutes the highest benediction.—(252)
@@ -11437,11 +11442,6 @@ svadhā*.’
 
 **स्वधेत्य् एवं वचनं ब्रूयुर्** इति । अनुज्ञानन्तरं दातारं **स्वधेय् एवं ब्राह्मणा ब्रूयुः **यस्मात् सर्वेषु कृतान्नाकृतान्नश्राद्धोदकतर्पणादिषु पितृकर्मसु स्वधाशब्दोच्चारणं प्रकृष्टा **आशीः **॥ ३.२५२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-252	The Brahmana (guests) shall then answer him, 'Let there be Svadha;' for at all rites in honour of the manes the word Svadha is the highest benison.
-</details>
 </details>
 </div>
 
@@ -11455,6 +11455,11 @@ svadhā*.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/253_tato_bhuktavatAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+253	Next let him inform (his guests) who have finished their meal, of the food which remains; with the permission of the Brahmanas let him dispose (of that), as they may direct.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall then inform them of the food that may be left after they have eaten; being permitted by the Brāhmaṇas he shall do as they tell him.—(253)
@@ -11504,11 +11509,6 @@ ask them ‘*what is to he done with the remnants?*’—On being permitted by t
 **तत** इति । सहकृतभोजनानां विप्राणां स्वधाकाराद् अनन्तरं शेषम् अन्नम् इत्य् एवं गृह्योक्तविधिना **अन्नशेषं निवेदयेत् **। तैश् च **द्विजैः** इदम् अनेनान्नेन क्रियताम् इति दत्तानुज्ञः **यथा **तैर् उक्तं **तथा **विनियुञ्जीत ॥ ३.२५३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-253	Next let him inform (his guests) who have finished their meal, of the food which remains; with the permission of the Brahmanas let him dispose (of that), as they may direct.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ऋज्वर्थाः पञ्चश्लोकाः ।
@@ -11534,6 +11534,11 @@ ask them ‘*what is to he done with the remnants?*’—On being permitted by t
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/254_pitrye_svaditam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+254	At a (Sraddha) in honour of the manes one must use (in asking of the guests if they are satisfied, the word) svaditam; at a Goshthi-sraddha, (the word) susrutam; at a Vriddhi-sraddha, (the word) sampannam; and at (a rite) in honour of the gods, (the word) rukitam.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the rite in honour of the Pitṛs, one should say “svaditam” (well-dined); at the Goṣṭha, “suśṛtam” (well-cooked); at the Ābhyudayika rite, “sampannam” (accomplished); and at the rite in honour of the gods, “rucitam” (agreeable).—(254)
@@ -11622,11 +11627,6 @@ the Ābhyudayika offerings—*Sampannam*.’
 **पित्र्ये स्वदितम् इत्य् एवं गोष्ठे वाच्यम् इति शृतम्** इति । अन्येनापि श्राद्धकालोपस्थितेन स्वदितम् इत्य् एवं गोगणमध्ये च शृतम् इति, **सम्पन्नम् इति**, विवाहादौ देवतार्थं **रोचितम्** इति ॥ ३.२५४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-254	At a (Sraddha) in honour of the manes one must use (in asking of the guests if they are satisfied, the word) svaditam; at a Goshthi-sraddha, (the word) susrutam; at a Vriddhi-sraddha, (the word) sampannam; and at (a rite) in honour of the gods, (the word) rukitam.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 भोजनकाल एतैः शब्दैः सम्भावयितव्या इति नियम उच्यते ऽथ वाभ्यनुज्ञानं भोजन एभिः शब्दैः क्रियते । तथा च सति **स्वदताम्** इत्य् एवमादिः पाठो विज्ञेयः ।
@@ -11645,6 +11645,11 @@ the Ābhyudayika offerings—*Sampannam*.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/255_aparAhNas_tathA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+255	The afternoon, Kusa grass, the due preparation of the dwelling, sesamum grains, liberality, the careful preparation of the food, and (the company of) distinguished Brahmanas are true riches at all funeral sacrifices.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The afternoon, Kuśa-Grass, setting up of the dwelling, sesamum grains, liberality, cleaning and superior Brāhmaṇas;—these are the essentials of Śrāddha-rites.—(255)
@@ -11719,11 +11724,6 @@ accomplishment of the Śrāddha:—Those that are devoted to the Vedic duties, t
 **अपराह्णस् तथा दर्भा** इति । **अपराह्णः** विष्टरार्थं **दर्भाः वास्तुसम्पादनं **सुधागोमयादिना गृहसंशोधनम्, **तिलाश्** चान्तर्भूविकरणाद्यर्थाः, **सृष्टिः **अकार्पण्येनान्नविसर्गः । **मृष्टिः** अन्नसम्स्कारः, **अग्र्या ब्राह्मणाः** इत्य् एताः **श्राद्धे सम्पदः** इत्य् अङ्गान्तरेभ्यः एषां प्रशस्यत्वज्ञापनार्थम् एतत् ॥ ३.२५५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-255	The afternoon, Kusa grass, the due preparation of the dwelling, sesamum grains, liberality, the careful preparation of the food, and (the company of) distinguished Brahmanas are true riches at all funeral sacrifices.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अपराह्णादीनां स्तुत्यर्थं पुनर् ग्रहणम् । ततो ऽन्येषां वा विकल्पार्थम् ।
@@ -11741,6 +11741,11 @@ accomplishment of the Śrāddha:—Those that are devoted to the Vedic duties, t
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/256_darbhAH_pavitram.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+256	Know that Kusa grass, purificatory (texts), the morning, sacrificial viands of all kinds, and those means of purification, mentioned above, are blessings at a sacrifice to the gods.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Kuśa-Grass, the sanctificatory texts, the forenoon, all kinds of sacrificial food, purity and also the afore-mentioned these should be regarded as the essentials of a sacrifice.—(256)
@@ -11794,11 +11799,6 @@ Kuśa-Grass, the sanctificatory texts, the forenoon, all kinds of sacrificial fo
 **दर्भा** इति । विष्टराद्यर्थं **धर्भाः पवित्रं **दर्भं प्राधान्यात् पृथग् उपदिष्टम् । **पूर्वाह्ण**कालः **हविष्याणि** मुन्यन्नादीनि सर्वाणि । **यच् च **वास्तुसम्पादनादि पावनं **पूर्वम् उक्तम्** एतावद् एवार्थकर्मणः सिद्धयः ॥ ३.२५६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-256	Know that Kusa grass, purificatory (texts), the morning, sacrificial viands of all kinds, and those means of purification, mentioned above, are blessings at a sacrifice to the gods.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अग्रदर्भादया एव कर्म सम्पदं ते दैवे कर्मणि कार्याः । सम्पच्छब्दाच् च विकल्पो ऽनुमीयते ।
@@ -11816,6 +11816,11 @@ Kuśa-Grass, the sanctificatory texts, the forenoon, all kinds of sacrificial fo
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/257_muny-annAni_payaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+257	The food eaten by hermits in the forest, milk, Soma-juice, meat which is not prepared (with spices), and salt unprepared by art, are called, on account of their nature, sacrificial food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The food of hermits, milk, the soma-herb, meat that is not forbidden, salt other than alkaline. are, by nature, called “sacrificial food.”—(257)
@@ -11873,11 +11878,6 @@ This verse is quoted in *Smṛtitattva* (p. 225), which explains ‘*anupaskṛt
 **मुन्यन्नानीति **। आरण्यान्नं क्षीरं **सोमो मांसं **चानतितीक्ष्णं बिडलवणादिवर्जितं लवणं सैन्धवं स्वभावत एवैतद् **धविर्** इति मन्वादिभिर् उच्यते ॥ ३.२५७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-257	The food eaten by hermits in the forest, milk, Soma-juice, meat which is not prepared (with spices), and salt unprepared by art, are called, on account of their nature, sacrificial food.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 हविष्याणीत्य् उक्त्वेमानि हविष्याणि निदर्शयति । **पयो**ग्रहणं सर्वपयोविकारार्थम् ।
@@ -11896,6 +11896,11 @@ This verse is quoted in *Smṛtitattva* (p. 225), which explains ‘*anupaskṛt
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/258_visRjya_brAhmaNAMs.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+258	Having dismissed the (invited) Brahmanas, let him, with a concentrated mind, silent and pure, look towards the south and ask these blessings of the manes:
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having dismissed those Brāhmaṇas, he, with collected mind, controlled in speech and pure, turning towards the southern quarter, shall beg these boons of his ancestors.—(258)
@@ -11946,11 +11951,6 @@ the *imperishable water*; then he shall address the words—*Viśvedevāḥ priy
 
 **विसृज्येति । तान् ब्राह्मणान् विसृज्य **अनन्यमनाः शुचिः सन् **दक्षिणां दिशम् **ईक्षमाणः **इमान् **वक्ष्यमाणान् अभिलषितार्थान् **पितॄन् **प्रार्थयेत् ॥ ३.२५८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-258	Having dismissed the (invited) Brahmanas, let him, with a concentrated mind, silent and pure, look towards the south and ask these blessings of the manes:
-</details>
 </details>
 </div>
 
@@ -11972,6 +11972,11 @@ _के पुनस् ते वरा याचितव्या इत्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/259_dAtAro_no.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+259	'May liberal men abound with us! May (our knowledge of) the Vedas and (our) progeny increase! May faith not forsake us! May we have much to give (to the needy)!'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘May our benefactors prosper! As also the Vedas and our progeny! May our faith never waver! May there be much for us to give away!’—(259)
@@ -12018,11 +12023,6 @@ See Comparative notes for [Verse 3.258].
 
 **दातार** इति । **श्रद्धा च नो मा व्यगमत् बहु देयं च नो ऽस्त्व् इति । **अस्मत्कुले बहवो दानशीला भवन्तु । **वेदाश् च **अध्ययनाध्यापनावभोधेज्यारूपेण **वर्धन्ताम्** । **सन्ततिः **पुत्रादिः वर्धताम् । हव्यकव्यविषया **श्रद्धा**स्माकं **मा व्यगमत् । बहु देयं च नो ऽस्त्व् इति **। दानार्थं च धनं बह्वस्माकं भवतात् ॥ ३.२५९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-259	'May liberal men abound with us! May (our knowledge of) the Vedas and (our) progeny increase! May faith not forsake us! May we have much to give (to the needy)!'
-</details>
 </details>
 </div>
 
@@ -12037,6 +12037,11 @@ See Comparative notes for [Verse 3.258].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/260_evan_nirvapaNam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+260	Having thus offered (the cakes), let him, after (the prayer), cause a cow, a Brahmana, a goat, or the sacred fire to consume those cakes, or let him throw them into water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having made the offering thus, he should, after this, either make the cow or the Brāhmaṇa or the goat or the fire to eat the balls, or throw them into water.—(260)
@@ -12097,11 +12102,6 @@ down for the offering of the balls, one should follow the practice of his own re
 **एवम्** इति । **एवं** “त्रींस् तु तस्माद् धविःशेषात्” (३.२१५) इत्यादिप्रक्रियया पिण्डा**निर्वपणं कृत्वा तान्** पिण्डान् **अनन्तरं** प्रक्रान्तवरयाचनानन्तरं गोविप्राजानाम् अन्यतमम् आशयेत् । अग्नाव् उदके **वा क्षिपेत् ** ॥ ३.२६० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-260	Having thus offered (the cakes), let him, after (the prayer), cause a cow, a Brahmana, a goat, or the sacred fire to consume those cakes, or let him throw them into water.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं पितृवरयाचनानन्तरं यजमानः पिण्डनिर्वपणं कृत्वा पितृपूजितप्रजायै तान् पितृयज्ञविद्धांस् तदनन्तरं गवादीनि प्राशयेत् । केचित् तु विकिरपिण्डानाम् एतां प्रतिपत्तिम् आहुः । तद् अयुक्तम् । तत्र पिण्डानां तावत् पुरस्तान् निर्वापो विरुध्येत । अनन्तरश्लोकोपदिष्टः पञ्याश् च मध्यमपिण्डविरोधः स्यात् तदभावात् । पितृयज्ञपिण्डेषु तु सर्वम् एतद् अविरोधात् सम्भवति –
@@ -12123,6 +12123,11 @@ down for the offering of the balls, one should follow the practice of his own re
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/261_piNDanirvapaNa~N_ke.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+261	Some make the offering of the cakes after (the dinner); some cause (them) to be eaten by birds or throw them into fire or into water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Some people do the ball-offering afterwards, others cause them to be eaten by birds, or throw them into fire or water.—(261)
@@ -12190,11 +12195,6 @@ See Comparative notes for [Verse 3.260].
 **पिण्डनिर्वपणम्** इति । पिण्डदानं **केचिद्** आचार्याः ब्राह्मणभोजनाद् अर्वाक् कुर्वते । **अन्ये** पक्षिभिः **खादयन्ति** । इदं पूर्वप्रतिपत्तिवैकल्पिकम् । अप्य् **अन्ये** अग्न्युदकप्रक्षेपं पक्षिभक्षणं वैकल्पिकम् इच्छन्ति ॥ ३.२६१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-261	Some make the offering of the cakes after (the dinner); some cause (them) to be eaten by birds or throw them into fire or into water.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ऋज्वर्थाः श्लोकाः (?) । न तु सर्वान् एव वयःप्रभृतिभ्यो दद्यात् । किं तर्हि ।
@@ -12212,6 +12212,11 @@ See Comparative notes for [Verse 3.260].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/262_pati-vratA_dharmapatnI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+262	The (sacrificer's) first wife, who is faithful and intent on the worship of the manes, may eat the middle-most cake, (if she be) desirous of bearing a son.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The lawful wife, devoted to her husband and intent upon the worshipping of the Pitṛs, should, if desirous of a son, eat in the proper manner, the middlemost ball.—(262)
@@ -12286,11 +12291,6 @@ Brāhmaṇa or the fire, the goat or the bull; or it may be thrown into water.�
 
 **पतिव्रता धर्मपतीति** । मनोवाक्कायकर्मभिः धर्मार्थकामेषु पतिर् एव मया (परि)चरणीय इति व्रतं यस्याः सा **पतिव्रता धर्मपत्नी **प्रथमोढा सवर्णा श्रद्धावती पुत्रार्थिनी तेषां पिण्डानां **मध्यमपिण्डं सम्यक् **“आधत्त पितरो गर्भं” इत्यादिसूत्रकारोक्तमन्त्रेण्**आद्यात्** ॥ ३.२६२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-262	The (sacrificer's) first wife, who is faithful and intent on the worship of the manes, may eat the middle-most cake, (if she be) desirous of bearing a son.
-</details>
 </details>
 </div>
 
@@ -12304,6 +12304,11 @@ Brāhmaṇa or the fire, the goat or the bull; or it may be thrown into water.�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/263_AyuShmantaM_sutam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+263	(Thus) she will bring forth a son who will be long-lived, famous, intelligent, rich, the father of numerous offspring, endowed with (the quality of) goodness, and righteous.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 She brings forth a long-lived son, endowed with fame and intelligence, wealthy, with numerous offspring, good and righteous.—(263)
@@ -12341,11 +12346,6 @@ See Comparative notes for [Verse 3.262].
 **आयुष्मन्तम्** इति । धर्मानुष्ठानरतं द्वादशाध्यायवक्ष्यमाणसत्त्वाख्यगुणयुक्तं चिरायुषं ख्यातिमन्तम् अतीतार्थस्मरणयुक्तं हिरण्यादिधनयुक्तं सन्ततिमन्तं एवंविधगुणयुक्तं पुत्रं जनयति ॥ ३.२६३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-263	(Thus) she will bring forth a son who will be long-lived, famous, intelligent, rich, the father of numerous offspring, endowed with (the quality of) goodness, and righteous.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 मध्यमपिण्डप्राशनार्थः श्लोकः ।
@@ -12364,6 +12364,11 @@ See Comparative notes for [Verse 3.262].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/264_praxAlya_hastAv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+264	Having washed his hands and sipped water, let him prepare (food) for his paternal relations and, after giving it to them with due respect, let him feed his maternal relatives also.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having washed the hands and sipped water, he should make offerings to his paternal relations; and having treated his paternal relations well, he should feed his other relations also.—(264)
@@ -12441,11 +12446,6 @@ along with his servants, sons and relations, and accompanied by guests, he shall
 **प्रक्षाल्य हस्ताव् आचम्येति । ज्ञातिभ्यः सत्कृतं दत्वा ब्राह्मणान् अपि पूजयेत् **। तदनु **हस्तौ प्रक्षाल्याचम्य** ज्ञातीन् पितृपक्षात् प्रतियच्छतीति **ज्ञातिप्रायम् **अन्नं कुर्यात् । तेभ्यः पूजापूर्वकं **दत्वा **मातृपक्षादिभ्यो ऽपि सम्पूजां दद्यात् ॥ ३.२६४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-264	Having washed his hands and sipped water, let him prepare (food) for his paternal relations and, after giving it to them with due respect, let him feed his maternal relatives also.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 श्राद्धं (द्धे?) परिषिच्य नियमनम् इदम् उच्यते । **ज्ञात्यादिभ्यो** दारञ्च (?) (दातव्यं?)
@@ -12463,6 +12463,11 @@ along with his servants, sons and relations, and accompanied by guests, he shall
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/265_uchCheShaNan_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+265	But the remnants shall be left (where they lie) until the Brahmanas have been dismissed; afterwards he shall perform the (daily) domestic Bali-offering; that is a settled (rule of the) sacred law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The leavings shall remain until the Brāhmaṇas have been dismissed. After that, he should make the domestic offerings. Such is the established law.—(265)
@@ -12531,11 +12536,6 @@ leavings shall not he washed.’
 
 इति **धर्मो व्यवस्थितः** ॥ ३.२६५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-265	But the remnants shall be left (where they lie) until the Brahmanas have been dismissed; afterwards he shall perform the (daily) domestic Bali-offering; that is a settled (rule of the) sacred law.
-</details>
 </details>
 </div>
 
@@ -12550,6 +12550,11 @@ leavings shall not he washed.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/266_havir_yach.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+266	I will now fully declare what kind of sacrificial food, given to the manes according to the rule, will serve for a long time or for eternity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 I shall now fully describe what offering-material, on being offered to the Pitṛs, according to role, serves for a long time, and for eternity.—(266)
@@ -12622,11 +12627,6 @@ Saindhava and Trapusa are commended at Śrāddha.’
 **हविर् यच् चिररात्रायेति । यत् पितृभ्यो **यथा च **दत्तं **हव्यकव्यम् अन्नं दीर्घकालतृप्तये सम्यक् प्रतिपद्यते । यच् चान्नं तत् तृप्तये तन्निःशेषेण **वक्ष्यामि** ॥ ३.२६६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-266	I will now fully declare what kind of sacrificial food, given to the manes according to the rule, will serve for a long time or for eternity.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उपन्यासार्थः श्लोकः ।
@@ -12644,6 +12644,11 @@ Saindhava and Trapusa are commended at Śrāddha.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/267_tilair_vrIhi-yavair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+267	The ancestors of men are satisfied for one month with sesamum grains, rice, barley, masha beans, water, roots, and fruits, which have been given according to the prescribed rule,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By the proper offering of sesamum, rice and barley, māṣa, water, roots and fruits, men’s ancestors are satisfied for one month.—(267)
@@ -12687,11 +12692,6 @@ See Comparative notes for [Verse 3.266].
 **तिलर्** इति । **द्वै मासौ मत्स्यमांसेनेति । षण्मासांश् छागमांसेनेति ।** तिलधान्ययवमाषोदकमूलफलानां श्राद्धेन **दत्तेन** मनुष्याणां **मासं पितरस् तृप्यन्ति द्वौ** पाठीनादि**मत्यमांसेन** **त्रीन्** मार्गेण मांसेन **चतुरो **मेषसम्बन्धिना, **पञ्च **भक्ष्यपक्ष्युद्भवेन षड् आजेन सप्त चित्रमृगसम्बन्धिना अष्टौ सारङ्गमांसेन, नव शम्बराख्यमृगजेन ॥ ३.२६७–२६९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-267	The ancestors of men are satisfied for one month with sesamum grains, rice, barley, masha beans, water, roots, and fruits, which have been given according to the prescribed rule,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यावत् किञ्चिद् अप्रतिषिद्धम् आद्यं तत्सर्वं श्रवणात्, ज्ञापकात् गृह्यते ।
@@ -12709,6 +12709,11 @@ See Comparative notes for [Verse 3.266].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/268_dvau_mAsau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+268	Two months with fish, three months with the meat of gazelles, four with mutton, and five indeed with the flesh of birds,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For two months by fish-meat; for three months by the meat of deer; for four by that of sheep, and for five by that of birds.—(268)
@@ -12753,11 +12758,6 @@ that of old goat.’
 *Mahābhārata* (13.88.5)—‘The satisfaction of Pitṛs, obtained with fish,
 lasts for two months.’
 </details>
-
-<details><summary>Bühler</summary>
-
-268	Two months with fish, three months with the meat of gazelles, four with mutton, and five indeed with the flesh of birds,
-</details>
 </details>
 </div>
 
@@ -12771,6 +12771,11 @@ lasts for two months.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/269_ShaNmAsAMsh_ChAgamAMsena.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+269	Six months with the flesh of kids, seven with that of spotted deer, eight with that of the black antelope, but nine with that of the (deer called) Ruru,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For six months by the meat of goat; for seven by that of spotted deer; for eight by that of the black antelope, and for nine by that of the Ruru deer.—(269)
@@ -12815,11 +12820,6 @@ buffalo.’
 *Viṣṇu* (80.10-12).—‘For ten months, with the meat of the buffalo; for
 eleven months, with the meat of the Tapara goat; for one year, with cow’s milk and with preparations of milk.’
 </details>
-
-<details><summary>Bühler</summary>
-
-269	Six months with the flesh of kids, seven with that of spotted deer, eight with that of the black antelope, but nine with that of the (deer called) Ruru,
-</details>
 </details>
 </div>
 
@@ -12833,6 +12833,11 @@ eleven months, with the meat of the Tapara goat; for one year, with cow’s milk
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/270_dashamAsAMs_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+270	Ten months they are satisfied with the meat of boars and buffaloes, but eleven months indeed with that of hares and tortoises,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They are satisfied for ten months by the meat of boars and buffaloes; and for eleven months by the meat of the hare and the tortoise.’—(270)
@@ -12865,11 +12870,6 @@ See Comparative notes for [Verse 3.269].
 
 **दशमासांस् तु तृप्यन्तीति** । **दशमासान् **आरण्यसूकरमहिष**मांसैस्** **तृप्यन्ति** । **एकादश** शशकच्छपमांसेन ॥ ३.२७० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-270	Ten months they are satisfied with the meat of boars and buffaloes, but eleven months indeed with that of hares and tortoises,
-</details>
 </details>
 </div>
 
@@ -12883,6 +12883,11 @@ See Comparative notes for [Verse 3.269].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/271_saMvatsaran_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+271	One year with cow-milk and milk-rice; from the flesh of a long-eared white he-goat their satisfaction endures twelve years.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For one year by cow’s milk and milk-preparations; and by the meat of old goat there is satisfaction lasting for twelve years.—(271)
@@ -12943,11 +12948,6 @@ See Comparative notes for [Verse 3.269].
 
 इत्य् एवं निगमे पठितस्य् **मांसेन द्वादशवार्षिकी तृप्तिर् भवति ** । पिबतः कर्णजिह्वं यस्य जलं स्पृशति सः त्रिपिब इव त्रिपिबः ॥ ३.२७१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-271	One year with cow-milk and milk-rice; from the flesh of a long-eared white he-goat their satisfaction endures twelve years.
-</details>
 </details>
 </div>
 
@@ -12961,6 +12961,11 @@ See Comparative notes for [Verse 3.269].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/272_kAlashAkam_mahAshalkAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+272	The (vegetable called) Kalasaka, (the fish called) Mahasalka, the flesh of a rhinoceros and that of a red goat, and all kinds of food eaten by hermits in the forest serve for an endless time.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The “Kālaśāka,” the porcupine, the meat of the rhinoceros and the red goat, and honey serve for endless time; as also all kinds ok her mit’s food.—(272)
@@ -13030,11 +13035,6 @@ honey, hermit’s food, meat of the red goat, Mahāśāka, and the meat of the o
 
 **कालशाकं महाशल्कम्** इति । **कालशाकाख्यं** शाकं **महाशल्काख्यो** मत्स्यभेदः शकलीचितचिम इत्याद्यायुर्वेदप्रसिद्धः । **खड्गो** गण्डकः **लोहो** रक्तछागः । तयोर् आमिषं मांसं मधुमाक्षिकं **मुन्यन्नानि **आरण्यानि सर्वाण्य् एतानि अनन्ततृप्त्युत्पादनाय सम्पद्यन्ते ॥ ३.२७२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-272	The (vegetable called) Kalasaka, (the fish called) Mahasalka, the flesh of a rhinoceros and that of a red goat, and all kinds of food eaten by hermits in the forest serve for an endless time.
-</details>
 </details>
 </div>
 
@@ -13048,6 +13048,11 @@ honey, hermit’s food, meat of the red goat, Mahāśāka, and the meat of the o
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/273_yat_kim.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+273	Whatever (food), mixed with honey, one gives on the thirteenth lunar day in the rainy season under the asterism of Maghah, that also procures endless (satisfaction).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whatever thing, mixed with honey, one might offer on the thirteenth day of the month, during the rains, under the asterism of Maghā,—that also would be imperishable.—(273)
@@ -13102,11 +13107,6 @@ hope that he would offer Śrāddha to them with honey, meat, vegetables, milk an
 
 **यत् किञ्चिन् मधुसंयुक्तम्** इति । **यत् किञ्चिद्** अप्रतिषिद्धं **मधुसंयुक्तं **वर्षाकाले मघात्रयोदश्यां हस्तिसम्बन्धिनी छाया यस्मिन् प्रदेशे प्राचीं दिशं गता तत्र तस्यां छायायां मधुसंयुक्तं पायसं **दद्यात् **॥ ३.२७३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-273	Whatever (food), mixed with honey, one gives on the thirteenth lunar day in the rainy season under the asterism of Maghah, that also procures endless (satisfaction).
-</details>
 </details>
 </div>
 
@@ -13121,6 +13121,11 @@ hope that he would offer Śrāddha to them with honey, meat, vegetables, milk an
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/274_api_naH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+274	'May such a man (the manes say) be born in our family who will give us milk-rice, with honey and clarified butter, on the thirteenth lunar day (of the month of Bhadrapada) and (in the afternoon) when the shadow of an elephant falls towards the east.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘May there be one in our family, who may offer milk-rice mixed with honey and butter on the thirteenth, and when the shadow of the elephant falls towards the east.’—(274)
@@ -13184,11 +13189,6 @@ family who, during the rains, on the thirteenth day of the brighter fortnight, p
 **अपीति** ।॥ ३.२७४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-274	'May such a man (the manes say) be born in our family who will give us milk-rice, with honey and clarified butter, on the thirteenth lunar day (of the month of Bhadrapada) and (in the afternoon) when the shadow of an elephant falls towards the east.'
-</details>
-
 <details><summary>भारुचिः</summary>
 
 "द्वौ मासौ (मात्स्येन?)" इत्य अत आरभ्य सप्तश्लोकाः फलविशेषापेक्षया स्तुतिविशेषणार्थाः साक्षाद् अतिथितृप्तिवत् पितृतृप्तेर् अनुपलब्धेः स्तुत्यर्था एवैते कल्पे तु न्याय्याः (?) **[१५७]** येन कुर्यान् मासानुमासि किम् इत्य् अविशेषेणात्र पितृभ्यो दानं चोद्यते । न च छागादिमांसदाने सति द्वौ न मात्स्येन (?) दाहतव्यम् इति किञ्चिद् अत्र कारणम् अभिधातुं शक्यम्, प्रतिमासं चोदितत्वात् । श्राद्धस्य शक्यन्ते चामी न न्यायेन स्तुत्यर्थाः कल्पयितुं श्रुतिबाधितत्वात् तृप्तानाम् अपि वैश्द्याद् (?) विधिसामर्थाद् वा पुनस् तृप्तिसामर्थम् अनुमानस्य ते यदि तृप्यसे (?) षन्दानं (?) स्याद् बहूनां भ्रातॄणाम् एकेन तर्पितत्वाद् इतरेषाम् अप्रवृत्तिः स्यात् । अपि च देवताभोगेन विशिष्टः पितृभोगः । कथम् । यथैव हि दैवतानां सम्प्रदानत्वम् अवगच्छन्तीनां तृप्तिवादः । एवं पितॄणाम् अपि द्रष्टव्यम् ।
@@ -13206,6 +13206,11 @@ family who, during the rains, on the thirteenth day of the brighter fortnight, p
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/275_yad_yad.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+275	Whatever (a man), full of faith, duly gives according to the prescribed rule, that becomes in the other world a perpetual and imperishable (gratification) for the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whatever one endowed with faith, offers, according to rule and in the right manner,—that becomes endless and inexhaustible for the Pitṛs in the other world.—(275)
@@ -13253,11 +13258,6 @@ faith save their forefathers from the most terrible hell; he who performs the Ś
 **यद् यद्** अप्रतिषिद्धं **सम्यक् **रूपश्रद्धायुक्तो यथाशास्त्रं दद्यात् इति तत्र सर्वकालम् अनपचयं परलोके पितॄणां भवति अन्नं च सत्य् अपि द्विमासाद्यनन्तावधि तृप्तिवद् एवं कुर्वन् मासानुमासिकम् इति नोदनात् शास्त्रैकगोचरत्वेन चामुष्यार्थस्य तृप्तानाम् आप्यायनकपुत्रो ऽपहृतकव्यतृप्तिसामर्थ्यात् प्रतिमासम् एतद् अवश्यं कर्तव्यम् ॥ ३.२७५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-275	Whatever (a man), full of faith, duly gives according to the prescribed rule, that becomes in the other world a perpetual and imperishable (gratification) for the manes.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 श्राधाङ्गीकरणार्थो ऽयं यत्नः । एवं सति **यद् यद् ददातीत्य्** अनेनादरवचनेन पूर्वशास्त्राविरोधः श्राद्धस्तुतिपरत्वाद् अस्योपदेशसामर्थ्याद् विज्ञेयः ।
@@ -13275,6 +13275,11 @@ faith save their forefathers from the most terrible hell; he who performs the Ś
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/276_kRShNapaxe_dashamyAdau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+276	The days of the dark half of the month, beginning with the tenth, but excepting the fourteenth, are recommended for a funeral sacrifice; (it is) not thus (with) the others.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘No dates are so commended for the offering of śrāddha as those of the dark fortnight, beginning with the tenth day, leaving out the fourteenth.—(276)
@@ -13397,11 +13402,6 @@ who has died through weapons should be performed on the fourteenth day of the Ma
 **क्ष्णपक्ष** इति । **कृष्णपक्षे दशमी**प्रप्भृति **चतुर्दशीं वर्जयित्वा तथयः श्राद्धे प्रशस्ताः **युक्ताः महाफलाः पवित्राः प्रशस्ता **न तथेतरा** इति ॥ ३.२७६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-276	The days of the dark half of the month, beginning with the tenth, but excepting the fourteenth, are recommended for a funeral sacrifice; (it is) not thus (with) the others.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तस्यां शक्तौ यजमानस्य पूर्वतिथ्यपेक्षया दशम्यादिविशेषस्य दानस्याभ्युदयविशेषार्थ आरम्भः । 
@@ -13424,6 +13424,11 @@ who has died through weapons should be performed on the fourteenth day of the Ma
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/277_yuxu_kurvan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+277	He who performs it on the even (lunar) days and under the even constellations, gains (the fulfilment of) all his wishes; he who honours the manes on odd (lunar days) and under odd (constellations), obtains distinguished offspring.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Performing (the śrāddha) on the even dates and under the even asterisms, one obtains all desires; and honouring the Pitṛs on the odd ones, he obtains prosperous offspring.—(277)
@@ -13483,11 +13488,6 @@ suitable substances, place and Brāhmaṇas.’
 **युक्ष्व्** इति । युग्मासु तिथिषु द्वितीयाचतुर्थ्यादिषु युग्मेषु नक्षत्रेषु अश्विनीकृत्तिकादिषु श्राद्धेषु **पितॄन्** पूजयन् श्रुतधनादि**परिपुष्टां** सन्ततिं **प्राप्नोति** ॥ ३.२७७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-277	He who performs it on the even (lunar) days and under the even constellations, gains (the fulfilment of) all his wishes; he who honours the manes on odd (lunar days) and under odd (constellations), obtains distinguished offspring.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 कृष्णदशमीप्रभृतिषु युक्षु नक्षत्रेषु चाहुः । अर्चन् (?) प्रजाम् अवाप्नोतीत्य् अभिप्रेतम् । काम्यो ऽयं विधिः । अथ वा स्तुत्यर्थत्वाद् एतयोर् अभ्युदयविशेषार्थ आरम्भः । केचित् त्व् एतस्माच् छ्राधात् कृष्णपक्षप्रभृतियुगायुग्मोपदेशं दिनर्क्षयोश् च नयन्ति काम्यम् । तद् अयुक्तम् । दशम्यादाव् इत्य् अधिकृतत्वात् । इत्य् अनुपदृष्टार्थम् इदम् । श्राद्धाङ्गम् अधुनोच्यते ।
@@ -13505,6 +13505,11 @@ suitable substances, place and Brāhmaṇas.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/278_yathA_chaivA-paraH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+278	As the second half of the month is preferable to the first half, even so the afternoon is better for (the performance of) a funeral sacrifice than the forenoon.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as, for purposes of śrāddha, the latter half of the month is preferable to the former half, so also, the afternoon is preferable to the forenoon.—(278)
@@ -13574,11 +13579,6 @@ afternoon for Pitṛs.’
 
 **यथेति** । “चैत्रसिताद्या मासा” इति ज्योतिःशास्त्रदर्शनेन **अपरपक्षः **शुक्लपक्षात् श्राद्धे विशिषीतफलो भवति । एवं श्राद्धसम्बन्धिपूर्वाह्णभागाद् अपराह्णभागो विशिष्टफलो भवति । **विशिष्यत** इति वचनात् कदाचित् पूर्वाह्णे ऽपि श्राद्धं कर्तव्यम् इति प्रतीयत् । दृष्टान्तस्य च दृष्टान्तदानान्य् अथानुपपत्त्यैव सिद्धिर् बोद्धव्या । न ह्य् असिद्धस्य दृष्टान्ततोपपद्यते ॥ ३.२७८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-278	As the second half of the month is preferable to the first half, even so the afternoon is better for (the performance of) a funeral sacrifice than the forenoon.
-</details>
 </details>
 </div>
 
@@ -13592,6 +13592,11 @@ afternoon for Pitṛs.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/279_prAchInAvItinA_samyag.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+279	Let him, untired, duly perform the (rites) in honour of the manes in accordance with the prescribed rule, passing the sacred thread over the right shoulder, proceeding from the left to the right (and) holding Kusa grass in his hands, up to the end (of the ceremony).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Until death, one shall perform, with assiduity, the rite in honour of the Pitṛs, according to rule, with the sacred thread passing over the right shoulder, making offerings “from off the left” (to the right) with kuśa-grass in his hand.—(279)
@@ -13649,11 +13654,6 @@ shoulder, he shall make the offering to the Pitṛs.’
 **प्राचीनावीतिनेति** । सर्वेण प्राचीनावीतीत्युक्तप्राचीनावीतयुक्तेनानलसेन दर्भपवित्रहस्तेन **अपसव्य**पितृतीर्थेन यथाशास्त्रं सम्यक् **पित्र्यं **कर्म यावज्जीवं **कार्यम्** ॥ ३.२७९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-279	Let him, untired, duly perform the (rites) in honour of the manes in accordance with the prescribed rule, passing the sacred thread over the right shoulder, proceeding from the left to the right (and) holding Kusa grass in his hands, up to the end (of the ceremony).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 श्राद्धाङ्गगुणविध्यर्थः श्लोकः ।
@@ -13671,6 +13671,11 @@ shoulder, he shall make the offering to the Pitṛs.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/280_rAtrau_shrAddham.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+280	Let him not perform a funeral sacrifice at night, because the (night) is declared to belong to the Rakshasas, nor in the twilight, nor when the sun has just risen.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should not perform Śrāddha at night; for the night has been declared to be ‘fit for demons;’—nor at the two twilights, nor when the sun has just risen.—(280)
@@ -13773,11 +13778,6 @@ except during an eclipse; during the two twilights however, it should never be p
 **रात्राव्** इति । **रात्रौ श्राद्धं न कुर्वीत **श्राद्धस्य ध्वंसनसामान्यात् **राक्षसी **चासौ मन्वादिभिः कथिता । तथा **सन्ध्यहोः **“आदित्ये ऽचिरोदिते” इति रात्र्यादौ निषेधं कुर्वन् अपराह्णाद् अन्यत्रापि तिथिच्छेदग्रहणाद्यपेक्षया श्राद्धम् अस्तीति ज्ञापयति मासानुमासिकश्राद्धाद्यसम्भवेन ॥ ३.२८० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-280	Let him not perform a funeral sacrifice at night, because the (night) is declared to belong to the Rakshasas, nor in the twilight, nor when the sun has just risen.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अप्राप्तानां रात्र्यादीनां श्राद्धाङ्गत्वेन प्रतिषेधाद् अपराह्णाद् अन्यत्रापि श्राद्धकर्म भवतीति गम्यते । इतरथा स्याद् अनर्थको ऽस्यारम्भः प्रसज्यते । एतस्मिंश् च सति पूर्वाह्णप्राप्त्यर्थं श्राद्धं युज्यते । तद् उक्तम् "तथा श्राद्धस्य पुऋवाह्णाद् अपराह्णो विशिष्यते" [म्ध् ३.२७८] इत्य् अतः कृतान्नश्राद्धपक्षे चैतत् स्यात् ।
@@ -13795,6 +13795,11 @@ except during an eclipse; during the two twilights however, it should never be p
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/281_anena_vidhinA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+281	Let him offer here below a funeral sacrifice, according to the rule given above, (at least) thrice a year, in winter, in summer, and in the rainy season, but that which is included among the five great sacrifices, every day.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In accordance with this rule, one should offer Śrāddha thrice in the year—during winter, summer and the rain; and that which forms part of the “five sacrifices” should be done every day.—(281)
@@ -13833,11 +13838,6 @@ This verse is quoted in *Aparārka* (p. 420);—and in *Gadādharapaddhati* (Kā
 **अनेनेति** । **अनेन **उक्तविधानेन संवत्सरस्य मध्ये त्रीन् वारान् हेमन्तग्रीष्मवर्षासु श्राद्धं कुर्वीत । पञ्चयज्ञमहायज्ञमध्यभवं पुनः प्रत्यहं कुर्वीत ॥ ३.२८१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-281	Let him offer here below a funeral sacrifice, according to the rule given above, (at least) thrice a year, in winter, in summer, and in the rainy season, but that which is included among the five great sacrifices, every day.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 निर्वचनम् इदम् अनाहिताग्नेर् इति वक्ष्यत्य् अनन्तरम् एव ।
@@ -13856,6 +13856,11 @@ This verse is quoted in *Aparārka* (p. 420);—and in *Gadādharapaddhati* (Kā
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/282_na_paitRyajniyo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+282	The burnt-oblation, offered at a sacrifice to the manes, must not be made in a common fire; a Brahmana who keeps a sacred fire (shall) not (perform) a funeral sacrifice except on the new-moon day.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The oblation into fire made in connection with the rite in honour of the Pitṛs has not been prescribed as to be offered into the common fire; and for the Brāhmaṇa who has set up the fire, there is no Śrāddha apart from the Moonless day.—(282)
@@ -13969,11 +13974,6 @@ Do. (1(?).236).—‘When going to pour the oblation into the fire, he shall tak
 <details><summary>गोविन्दराजः</summary>
 
 **न पैत्र्ययज्ञिको होम** इति । अग्नेः सोमयमाभ्याम् इत्य् एवं पितृयज्ञाङ्गभूतो **होमः लौकिके **श्रौतस्मार्तव्यतिरिक्ते ऽग्नौ शास्त्रेण न चोद्यते । **आहिताग्नेश् **च द्विजाग्नेः अमावास्यकर्मणा विना कृष्णपक्षदशम्यादौ **श्राद्धं न **विधीयते । मृताहश्राद्धादेस् तु अनिषेधः, तस्य नैयमिकत्वेन चोदितत्वात् ॥ ३.२८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-282	The burnt-oblation, offered at a sacrifice to the manes, must not be made in a common fire; a Brahmana who keeps a sacred fire (shall) not (perform) a funeral sacrifice except on the new-moon day.
 </details>
 
 <details><summary>भारुचिः</summary>

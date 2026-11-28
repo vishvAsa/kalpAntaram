@@ -1,6 +1,6 @@
 +++
 title = "Publisher's Note"
-
+proofreader = [ "Gemini 4 Hydrogen",]
 +++
 
 PUBLISHER'S NOTE 

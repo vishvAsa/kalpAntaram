@@ -12,6 +12,11 @@ title = "११ आचार्यादिलक्षणम्"
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/140_upanIya_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+140	They call that Brahmana who initiates a pupil and teaches him the Veda together with the Kalpa and the Rahasyas, the teacher (akarya, of the latter).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmana who, having initiated a pupil, teaches him the Veda along with the Ritualistic and esoteric treatises,—him they call, ‘Ācārya,’ ‘Preceptor’—(140)
@@ -133,11 +138,6 @@ truthful in speech, steady, expert, kind to all beings, orthodox, devoted to the
 सोपचारत्वाद् आचार्यादिलक्षणं पूर्ववैचित्र्यार्थम् आह **उपनीयेति** । **यः शिष्यं** उपनयनपूर्वकं कल्पसूत्रोपनिषत्सहितं **वेदम् अध्यापयति तम् आचार्यं** मन्वादय आहुः । **रहस्यस्य **वेदशब्देन ग्रहणे सति प्राधान्यात् पृथग् उपदेशः ॥ १.१४० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-140	They call that Brahmana who initiates a pupil and teaches him the Veda together with the Kalpa and the Rahasyas, the teacher (akarya, of the latter).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **सकल्पं सरहस्यं** **चे**ति कर्मण्य् आत्मविद्याभ्यासहेत्वर्थः । अथ वा **कल्प**ग्रहणं सर्वाङ्गप्रदर्शणार्थम् । **रहस्य**ग्रहणं च वेदार्थविज्ञानप्रदर्शनार्थम् । तथा च ग्रन्थार्थविज्ञानदानाद् आचार्यस्य सर्वगुरुभ्यः श्रैष्ठ्यम् । क्षत्रियस्य (?) च शैशवाख्यम् आचार्यस्य सञ्ज्ञोपदेशः सोकरत्व(?) व्यवहारार्थः । तथा च वक्ष्यति "उपाध्यायाद् दशाचार्यः" (म्ध् २.१४५) इत्येवमादि । तेनोपाध्यायादिस्ञ्ज्ञा व्याख्याता ।
@@ -171,6 +171,11 @@ truthful in speech, steady, expert, kind to all beings, orthodox, devoted to the
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/141_ekadeshan_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+141	But he who for his livelihood teaches a portion only of the Veda, or also the Angas of the Veda, is called the sub-teacher (upadhyaya).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He is called “Upādhyāya,” “Sub-teacher,” who teaches, for a living, only a part of the Veda, or only the Vedic subsidiary sciences.—(141)
@@ -235,11 +240,6 @@ teaches a portion of the Veda, is the *Upādhyāya*.’
 
 **एकदेशम्** इति । वेदभागं वेदाङ्गानि वा शिक्षाकल्पनिरुक्तव्याकरणज्योतिषछन्दांसि यो जीविकार्थम् अर्पणपूर्वम् **अध्यापयति स उपाध्याय उच्यते **॥ १.१४१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-141	But he who for his livelihood teaches a portion only of the Veda, or also the Angas of the Veda, is called the sub-teacher (upadhyaya).
-</details>
 </details>
 </div>
 
@@ -253,6 +253,11 @@ teaches a portion of the Veda, is the *Upādhyāya*.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/142_niShekAdIni_karmANi.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+142	That Brahmana, who performs in accordance with the rules (of the Veda) the rites, the Garbhadhana (conception-rite), and so forth, and gives food (to the child), is called the Guru (the venerable one).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That Brāhmaṇa, who performs, in the prescribed manner, one’s sacramental rites beginning with the rites of impregnation, and supports him with food, is called the “Guru,” “Mentor.”—(142)
@@ -336,11 +341,6 @@ paternal uncle, father-in-law are *gurus*; the elder brother, the Accomplished S
 **निषेकादीनीति** । गर्भाधानादिकर्माणि यथाशास्त्रं **यः करोति अन्नेन च सम्भावयति** वर्धयति **स विप्रो गुरुर् उच्यते** । एवं च पितायं गुरुः निषेकग्रहणात् ॥ १.१४२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-142	That Brahmana, who performs in accordance with the rules (of the Veda) the rites, the Garbhadhana (conception-rite), and so forth, and gives food (to the child), is called the Guru (the venerable one).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 नोपनयनाध्यापनाभ्याम् । आरम्भसामर्थ्याद् एतद् विज्ञायते, **निषेक**ग्रहणाच् च । पितायम् उपनयनाध्यापनोपकाररहितो विज्ञायते । तथा च पोषणसहितं निषेकाद्युपकारमात्रं **[८५]** दर्शयति- "**सम्भावयति चान्नेन**" इति । स एवम् अश्लोवकारो (?) । विप्रग्रहणम् उदाहरणार्थम् । **गुरुर् उच्यते** । केचित् त्व् एतां सामान्यसञ्ज्ञाम् एवाहुः । एवम् आचार्यः श्रेष्ठो गुरूणाम् इत्य् अस्य तु विशेषसञ्ज्ञो ऽयम् । यथा च व्यासः ।
@@ -363,6 +363,11 @@ paternal uncle, father-in-law are *gurus*; the elder brother, the Accomplished S
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/143_agnyAdheyam_pAkayajnAn.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+143	He who, being (duly) chosen (for the purpose), performs the Agnyadheya, the Pakayagnas, (and) the (Srauta) sacrifices, such as the Agnishtoma (for another man), is called (his) officiating priest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who, being duly appointed, performs, for one the Fire-laying rite, the Cooked Sacrifices and the Agniṣṭoma and other sacrifices,—is called his “officiating priest.”—(143)
@@ -421,11 +426,6 @@ purposes of the obligatory rites, (3) the *Viśesavṛta, i.e*., one who is appo
 **अग्न्याधेयम्** इति । आधानदर्शपूर्णमासाग्निष्टोमादिसोमयागान् यस्य कृतशास्त्रीयाचरणः सन् **यः करोति स तस्येह **शास्त्रे** ऋत्विग् उच्यते ** । तस्यापि मान्यत्वाद् इहोपदेशः, तद् उक्तं श्वशुरादि ऋत्विजो गुरून् इति ॥ १.१४३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-143	He who, being (duly) chosen (for the purpose), performs the Agnyadheya, the Pakayagnas, (and) the (Srauta) sacrifices, such as the Agnishtoma (for another man), is called (his) officiating priest.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 गुरुप्रकरणे ऋत्विक्सञ्ज्ञो चादेशस् तेषां गुरुत्वज्ञापनार्थः । गुरूणां तद् उच्यते प्रत्युत्थानाभिवादनादि, तद् एषाम् अपि यथा स्याद् इति । इदानीं सर्वगुरुभ्य आचार्यस्य ज्यायस् त्व् अध्या(ज्ञा)पनार्थम् इयं स्तुतिः ।
@@ -443,6 +443,11 @@ purposes of the obligatory rites, (3) the *Viśesavṛta, i.e*., one who is appo
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/144_ya_AvRNoty.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+144	That (man) who truthfully fills both his ears with the Veda, (the pupil) shall consider as his father and mother; he must never offend him.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who rightly fills one’s both ears with the Veda should be regarded as his Father and Mother; one should not, at any time, do him harm.—(144)
@@ -536,11 +541,6 @@ regarded as similar to Viṣṇu.’
 **य आवृणोतीति **। आपूरयत्य् **अवितथं** विस्वरादिरहितं कृत्वा वेदेनोभौ कर्णौ **स मातापितृवत् ज्ञेयः** । तस्मै चाध्ययनोत्तरकाले ऽपि द्रोहं न कुर्यात् ॥ २.१४४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-144	That (man) who truthfully fills both his ears with the Veda, (the pupil) shall consider as his father and mother; he must never offend him.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **आवृणोत्य्** आच्छादयत्य् अपि । कथम् । सत्येन । केनाच्छादयति । ब्रह्मणा वेदाध्यापनेन तदर्थव्याख्यानेन उभाभ्यां वा । किं तत् । श्रवणाव् उभौ (?) । कस्य । शिष्यस्य । "**स माता स पिता ज्ञेयः**" अनेनोपकारविशेषेणैवं च (?) कृत्वा गुणवद्भ्यां मातापिट्भ्याम् इयम् आचार्यस्य स्तुतिस्मृतीयस्थानोपदेशसामर्थ्याद् वेदितव्या । न निर्गुणाभ्याम् । अतस् **तं न द्रुह्येत् कदाचन** । कस्मिंश् चिद् अपि काले कृतार्थो ऽपीत्य् अर्थः । अपरे त्व् आहुः — आचार्योपाध्याययोर् इयं स्तुतिः, आचार्यस्यैवोत्तरविवक्षार्था । तत् त्व् इदम् असमर्थाविरोधाद् इति । तस्मात् पुनर् निषेकाद्यल्पोपकाराभ्यां मातापितृभ्याम् अज्यायोभ्यां महोपकारस्य ज्यायः सयमः (?) आचार्यस्य स्तुतिः क्रियते "**स माता स पिता ज्ञेयः**" इत्य् अत्र । उच्यते यस्मात् ।
@@ -558,6 +558,11 @@ regarded as similar to Viṣṇu.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/145_upAdhyAyAn_dashAchArya.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+145	The teacher (akarya) is ten times more venerable than a sub-teacher (upadhyaya), the father a hundred times more than the teacher, but the mother a thousand times more than the father.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In veneration, the Preceptor excels ten Sub-teachers; the Father a hundred preceptors, and the Mother a thousand Fathers.—(145)
@@ -647,11 +652,6 @@ suffering from shooting pains, then she gives him birth, being rendered unconsci
 **उपाध्यायान्** इति । दशभ्य उपाध्यायेभ्य आचार्यो **गौरवेण** हेतुभूतेनाधिकी भवति । उपाध्यायपूजातः दशगुणा आचार्यस्य पूजा कार्येत्य् अर्थः । एवम् **आचार्याणां शतं पिता गौरवेण्**आधिको भवति यः सकलसंस्कारादिकर्ता । जनकमात्रपितृसहस्रात् सकलसंस्कारादिकारयित्री **माता गौरवेणा**धिकी भवति ॥ २.१४५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-145	The teacher (akarya) is ten times more venerable than a sub-teacher (upadhyaya), the father a hundred times more than the teacher, but the mother a thousand times more than the father.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यः सर्वगुण उपनयनाध्यापनादिसंस्कारहेतुत्वेन 
@@ -683,6 +683,11 @@ _मुख्याचार्यसंनिधौ पितरि च सं�
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/146_utpAdaka-brahmadAtror_garIyAn.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+146	Of him who gives natural birth and him who gives (the knowledge of) the Veda, the giver of the Veda is the more venerable father; for the birth for the sake of the Veda (ensures) eternal (rewards) both in this (life) and after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Between the progenitor and the imparter of the veda, the imparter op the veda is the more venerable father; for the brāhmaṇa’s “birth” is the veda, eternally,—here as well as after death.—(146)
@@ -743,11 +748,6 @@ the physical body.’
 **उत्पादकेति **। संस्कारादिकरणरहितोत्पादकाचार्ययोः पित्रोः आचार्याख्यः **पिता** प्रशस्ततरः । यस्माद् ब्रह्मग्रहणार्थं यज् जन्म उपनयनाख्यं विप्रस्य तद् **इह** लोके **शाश्वतं** नित्यं पारम्पर्येण मुक्तिनिमित्तत्वात् । अतश् च जनकमातृपित्राचार्यसन्निधाव् आचार्य एवादौ पूजनीयः । विप्रग्रहणं द्विजप्रदर्शनाच् च त्रयाणां प्रकृतत्वाच् च ॥ २.१४६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-146	Of him who gives natural birth and him who gives (the knowledge of) the Veda, the giver of the Veda is the more venerable father; for the birth for the sake of the Veda (ensures) eternal (rewards) both in this (life) and after death.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विप्रग्रहणं दर्शनार्थम् । त्रयाणां प्रकृतत्वात् । किं चान्यत् ।
@@ -765,6 +765,11 @@ the physical body.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/147_kAmAn_mAtA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+147	Let him consider that (he received) a (mere animal) existence, when his parents begat him through mutual affection, and when he was born from the womb (of his mother).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the Father and Mother beget one through mutual desire,—this that he is born in the womb is to be regarded as his “production.”—(147)
@@ -809,11 +814,6 @@ his imparting the Veda.’—‘Therefore the learned expounder of the Veda is n
 अत्रार्थवादः **कामाद्** इति । **आचार्यस् त्व्** इति । पितराव् एनं **मिथः** परस्परं **कामाद् उत्पादयतो** न तदुपकारचिकीर्षया । पुनः सम्भवमात्रं **तस्य **जानीयाद् **यद् योनाव्** असाव् उत्पद्यते । **आचार्यः** पुनः समस्तवेदाध्यापयिता यथाशास्त्रम् उपनयनाङ्गबूतया **सावित्र्या यां जातिं **यज् जन्म **अस्य **करोति **सा सत्या **स्यात् सत्यात्मका श्रौतादिकर्मनिमित्तत्वात् । सा **अजरा** अबाधका पुनस् तूद्भवे तस्यानपचयात्, **अमरा **अमरात्मकज्ञानाधिकारोत्पादनद्वारेणामरहेतुत्वात्॥ २.१४७–४८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-147	Let him consider that (he received) a (mere animal) existence, when his parents begat him through mutual affection, and when he was born from the womb (of his mother).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इयं यया (?) मातापितृनिन्दयाचार्यस्तुतिः प्रकरणसामर्थ्याद् वेदितव्या इयं चा [१ अक्ष् उन्च्लेअर्] अव्यवहिता (?) ।
@@ -831,6 +831,11 @@ his imparting the Veda.’—‘Therefore the learned expounder of the Veda is n
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/148_AchAryas_tv.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+148	But that birth which a teacher acquainted with the whole Veda, in accordance with the law, procures for him through the Savitri, is real, exempt from age and death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But the “birth” which the Preceptor, well-versed in the Veda, brings about for him, in the lawful manner, by means of the Sāvitrī,—that is real, imperishable, immortal.—(148)
@@ -874,11 +879,6 @@ gives him birth in knowledge.’
 आचार्यःपुनर्वेदज्ञोऽस्य माणवकस्य यां जाति यज्जन्म विधिवत्सावित्र्येति साङ्गोपनयनपूर्व कसावित्र्यनुवचनेनोत्पादयति, सा जातिःसत्या अजराऽमरा च, ब्रह्मप्राप्तिफलत्वात् । उपनयनपूर्वकस्य वेदाध्ययनतदर्थज्ञानानुष्ठानैनिष्कामस्य मोक्षलाभात् ॥१४८॥
 </details>
 
-<details><summary>Bühler</summary>
-
-148	But that birth which a teacher acquainted with the whole Veda, in accordance with the law, procures for him through the Savitri, is real, exempt from age and death.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 प्रकरणान्तरेणेयम् अन्या प्रकृतार्थस्तुतिः ।
@@ -896,6 +896,11 @@ gives him birth in knowledge.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/149_alpaM_vA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+149	(The pupil) must know that that man also who benefits him by (instruction in) the Veda, be it little or much, is called in these (Institutes) his Guru, in consequence of that benefit (conferred by instruction in) the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one benefits him by means of knowledge, more or less,—him also one should regard herb as the “mentor,” by virtue of that benefit of knowledge.—(149)
@@ -962,11 +967,6 @@ a *Guru* who, having performed the rite, imparts to him the Veda.’
 अपरं गुरुलक्षणम् आह पूजार्थम् **अल्पम्** इति । **यस्य **कस्यचित् **श्रुतस्याल्पं बहु वा **यो बोधयति **तम् अपीह **पूजाप्रकरणे तेन श्रुतोपकारेण जानीयात् ॥ २.१४९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-149	(The pupil) must know that that man also who benefits him by (instruction in) the Veda, be it little or much, is called in these (Institutes) his Guru, in consequence of that benefit (conferred by instruction in) the Veda.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एकदेशोपकारम् अपि सन्तम् उपाध्यायसञ्ज्ञं किं पुनर् महोपकारम् आचार्यम् इत्य् आचार्यप्रशंसापि सती न ह्य् अकस्मात् प्रशंसा स्याद् इत्य् अस्याप्य् उपाध्यायस्य गुरुत्वावगतिः । अधुना परकृतेर् उपोद्घातार्थम् अयम् आरभ्यते श्लोकः प्रकृतार्थस्तुत्यै ।
@@ -984,6 +984,11 @@ a *Guru* who, having performed the rite, imparts to him the Veda.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/150_brAhmasya_janmanaH.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+150	That Brahmana who is the giver of the birth for the sake of the Veda and the teacher of the prescribed duties becomes by law the father of an aged man, even though he himself be a child.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa, who brings about his Vedic birth, and teaches him his duty,—even though he be a mere child,—becomes in law the father of the old man (whom he teaches).—(150)
@@ -1054,11 +1059,6 @@ Teacher,—be he a child or of the same age as oneself,—as towards the Guru.�
 न च वयोज्यैष्ठ्यं विद्यागुरोः पूजार्थम् अपेक्ष्यम्, यस्मात् **ब्राह्मस्येति** । उपनयनस्य कनीयः कर्तृत्वासम्भवात् तदुपलक्षिताध्यापनादि **कर्ता स्वधर्मस्य च **अयं धर्मम् इत्य् एवं बोधयिता **बालो ऽपि वृद्धस्यापि **धर्मार्थकर्मनिमित्तत्वेन पितृतुल्यो भवति ॥ २.१५० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-150	That Brahmana who is the giver of the birth for the sake of the Veda and the teacher of the prescribed duties becomes by law the father of an aged man, even though he himself be a child.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 न च जन्मतः (?) पिता । किं तर्हि । ब्रह्मदः पितेत्य् अस्मिन्न् अर्थे पुराकृतिर् उदाह्रियते ।
@@ -1084,6 +1084,11 @@ Teacher,—be he a child or of the same age as oneself,—as towards the Guru.�
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/151_adhyApayAm_Asa.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+151	Young Kavi, the son of Angiras, taught his (relatives who were old enough to be) fathers, and, as he excelled them in (sacred) knowledge, he called them 'Little sons.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The child Kavi, the son of Aṅgiras, taught his fathers; and having received and trained them by knowledge, he called them “little sons.”—(151)
@@ -1138,11 +1143,6 @@ See Comparative notes for [Verse 2.150].
 
 अङ्गिरसः पुत्रो बालःकविर्विद्वान् पितृृन्गौणान पितृव्यतत्पुत्रादीनधिकवयसोऽध्यापितवान् । ताञ्ज्ञानेन परिगृह्य शिष्यान्कृत्वा पुत्रका इति आजुहाव । 'इति ह' इत्यव्ययं दुरावृत्तसूचनार्थम् ॥१५१॥
 </details>
-
-<details><summary>Bühler</summary>
-
-151	Young Kavi, the son of Angiras, taught his (relatives who were old enough to be) fathers, and, as he excelled them in (sacred) knowledge, he called them 'Little sons.'
-</details>
 </details>
 </div>
 
@@ -1156,6 +1156,11 @@ See Comparative notes for [Verse 2.150].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/152_te_tam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+152	They, moved with resentment, asked the gods concerning that matter, and the gods, having assembled, answered, 'The child has addressed you properly.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They, having their anger aroused, questioned the gods about this matter; and the gods, having met together, said to them—“the child has addressed you in the lawful manner.”—(152)
@@ -1198,11 +1203,6 @@ See Comparative notes for [Verse 2.150].
 अत्रार्थवादः परः प्रकृतिरूपः **अध्यापयामासेति ।** **त** इति । **अज्ञ** इति **। अङ्गिरसः **पुत्रः **कविर्** नाम बालः सन् पितृपितृव्यादीन् अध्यापितवान् । तांश् च वेदादि**ज्ञानेन **हेतुभूतेन शिष्यत्वेन स्वीकृत्य कार्यार्थेन आह्वानादिकालेषु **पुत्रका** इत्य् उक्तवान् । ततस् ते पितरः तथाह्वानोत्पन्नक्रोधाः तम् अर्थं समागत्य पुत्रकशब्दाह्वानाख्यं किम् एतत् साधु इत्य् एवं देवान् पृष्टवन्तः । **देवाश् **चैतद्विचारार्थं समागत्य “युक्तं शिशुः युष्मान् उक्तवान्” इत्य् एवम् एतांस् तान् पितॄन् उक्तवन्तः । यतो ऽ**ज्ञो** मूर्खः स **बालो भवति **वृद्धो ऽपि सन् । यश् चाध्यापयिता स **बालो** ऽपि सन् पितृतुल्यो **भवति** । यतो ऽसमदन्ये **अज्ञं बालम् इत्य् आहुः** अध्यापयितारं च **पितेत्य्** एवं ब्रुवते ॥ २.१५१–५३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-152	They, moved with resentment, asked the gods concerning that matter, and the gods, having assembled, answered, 'The child has addressed you properly.'
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यस्माद् इयम् अत्र स्तुतिः ।
@@ -1220,6 +1220,11 @@ See Comparative notes for [Verse 2.150].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/153_ajno_bhavati.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+153	'For (a man) destitute of (sacred) knowledge is indeed a child, and he who teaches him the Veda is his father; for (the sages) have always said "child" to an ignorant man, and "father" to a teacher of the Veda.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ignorant person is verily a “child,” while the imparted of mantras is the “father.” They have called the ignorant man “child,” and the imparter of mantras, “father.”—(153)
@@ -1267,11 +1272,6 @@ See Comparative notes for [Verse 2.150].
 वैशब्दोऽवधारणे । अज्ञ एव बालो भवति, न त्वल्पवयाः । मन्त्रदः पिताभवति । मन्त्रग्रहणं वेदोपलक्षणार्थम् - यो वेदमध्यापयति । व्याचष्टे स पिता । अत्रैव हेतुमाह -यस्मात्पूर्वेऽपि मुनयोऽज्ञं बालमित्यूचुः मन्दं च पितेत्येवाब्रुवन्नित्याह ॥१५३॥
 </details>
 
-<details><summary>Bühler</summary>
-
-153	'For (a man) destitute of (sacred) knowledge is indeed a child, and he who teaches him the Veda is his father; for (the sages) have always said "child" to an ignorant man, and "father" to a teacher of the Veda.'
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं च सति –
@@ -1289,6 +1289,11 @@ See Comparative notes for [Verse 2.150].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/154_na_hAyanair.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+154	Neither through years, nor through white (hairs), nor through wealth, nor through (powerful) kinsmen (comes greatness). The sages have made this law, 'He who has learnt the Veda together with the Angas (Anukana) is (considered) great by us.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Neither by years, nor by grey hair, nor by wealth, nor by relatives (is greatness attained); since the sages have made the law that ‘he who teaches is the greatest among us.’—(154)
@@ -1341,11 +1346,6 @@ See Comparative notes for [Verse 2.150].
 अतश् च **न हायनैर् **इति । न वयो भूयः शिरः पाण्दुर्यधनबन्धुभिः ज्यायस्त्वम् । अपि तु यो ऽध्यापनसमर्थः स श्रेष्ठ इत्य् अस्माकं मतम् इत्य् एवम् **ऋषयो धर्मं** व्यवस्थापितवन्तः ॥ २.१५४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-154	Neither through years, nor through white (hairs), nor through wealth, nor through (powerful) kinsmen (comes greatness). The sages have made this law, 'He who has learnt the Veda together with the Angas (Anukana) is (considered) great by us.'
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तथा च सति –
@@ -1363,6 +1363,11 @@ See Comparative notes for [Verse 2.150].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/155_viprANA~n_jnAnato.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+155	The seniority of Brahmanas is from (sacred) knowledge, that of Kshatriyas from valour, that of Vaisyas from wealth in grain (and other goods), but that of Sudras alone from age.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among Brāhmaṇas seniority is by knowledge; among Kṣatriyas by valour; and among Vaiśyas by grains and riches; among Shudras alone it is by age.—(155)
@@ -1418,11 +1423,6 @@ sense that where one uses the term ‘*Brāhmaṇaparivrājaka*’, the Brāhma�
 एवं च सति **विप्राणाम् **इति । **विप्राणां **ज्ञानेन श्रैष्ठ्यम्, **क्षत्रियाणां** पुनः पौरुषेण, **वैश्यानां** धान्यहिरण्यादेः, **शूद्राणां** वयस्तः ॥ २.१५५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-155	The seniority of Brahmanas is from (sacred) knowledge, that of Kshatriyas from valour, that of Vaisyas from wealth in grain (and other goods), but that of Sudras alone from age.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **क्षत्रियादीनां** च **वीर्यादि**ग्रहणं प्रकृतार्थस्तुत्यर्थम् अप्रकरणाद् वीर्यादीनां दृष्टान्तत्वेन । एवं च व्यवस्थिते प्रकरणार्थे,
@@ -1440,6 +1440,11 @@ sense that where one uses the term ‘*Brāhmaṇaparivrājaka*’, the Brāhma�
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/156_na_tena.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+156	A man is not therefore (considered) venerable because his head is gray; him who, though young, has learned the Veda, the gods consider to be venerable.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One does not become venerable by the fact that his hair has turned grey; the gods know him to be venerable who, though young, continues to study.—(156)
@@ -1472,11 +1477,6 @@ He who, ‘*though young*’—is of young age—and yet carries on his study,�
 **येन **कारणेन वयोभूयिष्ठ्याख्येन **अस्य पलित**युक्तं **शिरः न तेन वृद्धो भवति **। यस् तरुणो ऽपि सन् अधीतवेदो भवति **तं देवाः **वृद्धं मन्यन्ते इत्य् अभिधानं प्रकृतदार्ढ्यार्थम् ॥ २.१५६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-156	A man is not therefore (considered) venerable because his head is gray; him who, though young, has learned the Veda, the gods consider to be venerable.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं च सति –
@@ -1494,6 +1494,11 @@ He who, ‘*though young*’—is of young age—and yet carries on his study,�
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/157_yathA_kAShThamayo.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+157	As an elephant made of wood, as an antelope made of leather, such is an unlearned Brahmana; those three have nothing but the names (of their kind).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As the elephant made of wood, as the deer made of leather, so the non-learning Brāhmaṇa,—these three merely bear their names.—(157)
@@ -1547,11 +1552,6 @@ is expressed in slightly different words (12. 30. 40 ff.) and with added similes
 **यथेति** । दारुमयो **यथा हस्ती **न युद्धादिसमर्थः **यथा चर्ममयो मृगः** आखेटकादाव् अकिञ्चित्करः, एवम् **अनधीयानो **ब्राह्मणः** **ब्राह्मणसम्पाद्यासु प्रतिग्रहादिक्रियासु । एवं च त्रयो ऽप्य् एते नाममात्रं धारयति । न तु हस्त्यादिसम्पाद्याः क्रियाः कुर्वन्ति ॥ २.१५७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-157	As an elephant made of wood, as an antelope made of leather, such is an unlearned Brahmana; those three have nothing but the names (of their kind).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 किं च –
@@ -1569,6 +1569,11 @@ is expressed in slightly different words (12. 30. 40 ff.) and with added similes
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/158_yathA_ShaNDho.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+158	As a eunuch is unproductive with women, as a cow with a cow is unprolific, and as a gift made to an ignorant man yields no reward, even so is a Brahmana useless, who (does) not (know) the Rikas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As the eunuch is useless among women, as the cow is useless among cows, as a gift to the ignorant person is useless, even so is the Bbrāhmaṇa useless who is devoid of the Veda.—(158)
@@ -1617,11 +1622,6 @@ without wings, so is the Brāhmaṇa devoid of *Mantras*.’
 <details><summary>गोविन्दराजः</summary>
 
 **यथा षण्ढ** इति । यथा नपुंसकं **स्त्रीषु **गच्छन्न् अपि (गच्छद् अपि) अपत्यशून्यं यथा च स्त्रीगौः स्त्रीगवि गमनाभावाद् अपत्यफलशून्या यथा **चाज्ञे निष्फलं दानं तथा **वेदरहितो ब्राह्मणः अफलः परमात्मनो दृष्टादृष्टानुपकारित्वात् ॥ २.१५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-158	As a eunuch is unproductive with women, as a cow with a cow is unprolific, and as a gift made to an ignorant man yields no reward, even so is a Brahmana useless, who (does) not (know) the Rikas.
 </details>
 
 <details><summary>भारुचिः</summary>

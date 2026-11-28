@@ -1,8 +1,12 @@
 +++
 title = "+3"
-
 +++
+<details><summary>LLM proofreading state</summary>
 
+- **Source PDF**: `/media/vvasuki/vData/text/granthasangrahaH/kalpaH/kANe/v3.pdf` (1140 pp, 1946); `indike` second witness: `ins.polity.kane-1930.v5`.
+- **Status**: Body/front/back files proofread in Nov 6 sessions (`50333847`, `77940f70`, `5682f72f`).
+- **Remaining work**: Clean minor odd-asterisk paragraphs (`02,03,09,13,14,26,31,33,34,4/Appendix,4/General_Index`) and `v3/_index.md` title-page OCR. (`12_Bhukti` / `33` bracket issues resolved; 0 duplicate/out-of-order pages, 0 missing/orphan fn defs, and 0 unclosed/nested brackets across all 46 files per `audit_proofread_dir`.)
+</details>
 
 HISTORY OF DHARMAŚĀSTRA 
 

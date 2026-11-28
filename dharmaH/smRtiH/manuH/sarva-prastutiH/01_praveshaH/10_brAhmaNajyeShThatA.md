@@ -12,6 +12,11 @@ title = "१० ब्राह्मणज्येष्ठता"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/092_Urdhvan_nAbher.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+092	Man is stated to be purer above the navel (than below); hence the Self-existent (Svayambhu) has declared the purest (part) of him (to be) his mouth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Man is described as purer above his naval; hence the Self-existent One has declared the mouth to be his purest part. (92)
@@ -35,11 +40,6 @@ See 5.132.
 <details><summary>गोविन्दराजः</summary>
 
 इदानीं ब्राह्मणादिकर्मविवेकार्थत्वमुखेन शास्त्रस्य स्तुतिम् अध्ययनश्रवणानुष्ठानफलां कर्तुं ब्राह्मणस्तुतिम् आह – **ऊर्ध्वम्** इति । पुंसः सर्वतो ऽपि [मेध्यत्वस्य] सिद्धत्वे सति **नाभेर् ऊर्ध्वं मेध्यतरत्वं **ततो ऽपि मुखस्य **मेध्यतमत्वं** स्वयम्भुवोक्तम् ॥ १.९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-092	Man is stated to be purer above the navel (than below); hence the Self-existent (Svayambhu) has declared the purest (part) of him (to be) his mouth.
 </details>
 
 <details><summary>भारुचिः</summary>
@@ -67,6 +67,11 @@ _ततः किम् । अत आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/093_uttamAngodbhavAj_jyeShThyAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+093	As the Brahmana sprang from (Brahman's) mouth, as he was the first-born, and as he possesses the Veda, he is by right the lord of this whole creation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In matters regauding ‘Dharma’, the Brāhmaṇa is the Lord of this whole world;—because he sprang out of the best part of (Prajāpati’s) body, because he is the eldest ok all, and because he upholds the Veda.—(98)
@@ -94,11 +99,6 @@ regarding *Dharma*,’—the affix ‘*tasi*’ (in ‘*dharmataḥ*’) being a
 ततः किम् अत आह – **उत्तमाङ्गोद्भवाद्** इति । मूर्धोद्भवत्वात् पूर्वोत्पन्नत्वात् प्रवचनादियुक्तत्वात् सातिशयवेदधारणात् **सर्वस्य **जगतो धर्मानुशासने **ब्राह्मणः प्रभुः **॥ १.९३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-093	As the Brahmana sprang from (Brahman's) mouth, as he was the first-born, and as he possesses the Veda, he is by right the lord of this whole creation.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उत्तमाङ्गोद्भवत्वं ज्यैष्ठ्यत्वं च साधारणं ब्राह्मणस्य । तद्भवप्रतपस् (?) तप्यते । बहूनि वर्षसहस्राण्य् अन्तरदेवाती(?) इत्येवमादि । एवं च सर्वभूतानां स्थावरसरीसृपमृगपशुमनुष्याणां ब्राह्मणाः विशिष्टाः । किं बहुना । 
@@ -121,6 +121,11 @@ regarding *Dharma*,’—the affix ‘*tasi*’ (in ‘*dharmataḥ*’) being a
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/094_taM_hi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+094	For the Self-existent (Svayambhu), having performed austerities, produced him first from his own mouth, in order that the offerings might be conveyed to the gods and manes and that this universe might be preserved.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Him the Sself-existent one, after performing austerities, created, in the beginning, out of his own mouth, for the conveying of offerings (to the gods) and of oblations (to the Pitṛs), and for the preservation of this entire creation. (94).
@@ -160,11 +165,6 @@ the Brāhmaṇas, for the guarding of the Vedas, for the satisfaction of Pitṛs
 कस्य पुनर् अयम् उत्तमाङ्गाद् उद्भूत इत्य् अत आह – **तम्** इति । **तं **ब्राह्मणं **स्वयम्भूः **आत्ममुखात् **तपः **कृत्वा देवपित्रन्नवहनार्थं जगद्रक्षार्थं च प्रथमसृष्टौ सृष्टवान् ॥ १.९४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-094	For the Self-existent (Svayambhu), having performed austerities, produced him first from his own mouth, in order that the offerings might be conveyed to the gods and manes and that this universe might be preserved.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उत्तमाङ्गोद्भवत्वविशेषणपरोपायम् अस्यादरार्थः आरम्भः । तं हि स्वयम्भूः ब्राह्मणं हिरण्यगर्भो नान्यप्रजापतिस् तदधिकृतः प्रजासृष्टौ स्वाद् आस्याद् असृजत् । तपश् च तप्त्वा नान्तरेणात्मासंयमम् अवज्ञायातत्पदार्थागौरवात् । आदितश् च । अन्यसृष्टेर् न । पश्चाद् अनादरेण । एवम् इदम् आदरोत्पादनप्रदर्शनार्थं विशेषणत्रयं प्रकृतार्थस्तुत्यै सम्पद्यते । कस्य पुनर् हेतोः । अयं हिरण्यगर्भ एवम् आदरं चकार । ब्राह्मणसृष्टौ हव्यकव्याभिवाह्याय तथातिथीनां प्रत्यक्षत्वात् तद्दानं साक्षाच् छक्यम् अनुष्ठातुम्, एवं देवपितरो न प्रत्यक्षा येन तेभ्यः साक्षाद् दीयत एतत् तयोस् तत्प्राप्तिसाधनत्वान् महाप्रयोजनत्वं ब्राह्मणसृष्टेः । किं च, सर्वस्यास्य च गुप्तये ब्राह्मणो हि जुह्वद् आहुतेर् आदित्यतृप्तिद्वारेण सर्वलोकानुग्रही च सम्पद्यत इत्य् उक्तम् । यस्माद् अतश् चायं महाप्रयोजनो युक्तं एवम्मरिणोत्पादयितुम् (?) । एवं चैतद् अतः.
@@ -182,6 +182,11 @@ the Brāhmaṇas, for the guarding of the Vedas, for the satisfaction of Pitṛs
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/095_yasyAsyena_sadAshnanti.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+095	What created being can surpass him, through whose mouth the gods continually consume the sacrificial viands and the manes the offerings to the dead?
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What being is superior to him through whose mouth the gods always eat the offerings and the Pitṛs the oblations? (95).
@@ -213,11 +218,6 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 एवं च **यस्येति** । **यस्य **ब्राह्मणाख्यस्य महात्मनो मुखेन महाप्रभावाः **त्रिदिवौकसः** स्वर्गवासिनो देवाः **हव्यानि **अनवरतम् **अश्नन्ति पितरश्** **च कव्यानि ततो **ऽन्यत् प्रकृष्टं **किं भूतं **स्यात् ॥ १.९५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-095	What created being can surpass him, through whose mouth the gods continually consume the sacrificial viands and the manes the offerings to the dead?
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अन्यप्राप्त्युपायासम्भवाद् धव्यकव्यानां देवपितृभिर् युक्तम् इदं विस्मयात् तत्स्तुतिवचनं "**किं भूतम् अधिकं ततः**" इति तज्जग्धान्नाशनेन वा देवपितॄणां प्रकल्प्य, पादेनेयं स्तुतिः । अस्मिन् पक्षे स्तुत्यब्राह्मणविशेषनार्थम् इदम् अधुना स्लोकद्वयम् आरभ्यते । एवं च न जातिमात्रापेक्षेयम् अस्मिन् प्रकरणे ब्राह्मणस्तुतिः, किं तर्हि । यादृग्गुनं ब्राह्मणं वक्ष्यामस् तदपेक्षेयं ब्राह्मणप्रशंसा ।
@@ -235,6 +235,11 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/096_bhUtAnAm_prANinaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+096	Of created beings the most excellent are said to be those which are animated; of the animated, those which subsist by intelligence; of the intelligent, mankind; and of men, the Brahmanas;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among beings, aminated ones are regarded as foremost; among aminated ones, those that subsist by reason: among rational beings men are foremost; and among men, Brāhmaṇas. (96).
@@ -282,11 +287,6 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 
 अधुना विद्वत्तादिगुणयोगेन ब्राह्मणं स्तोतुम् आह – **भूतानाम्** इति । **भूतानां **स्थावरजङ्गमानां मध्यात् प्राणिनां सर्वेषां गुणवत्त्वे ऽपि ये तूद्रिक्तचैतन्या वृश्चिकादयः । ते स्थावरेभ्यः तदुत्तरसुखानुभवात् **श्रेष्ठाः **। तेभ्यो ऽपि श्वादयो **बुद्धिजीविनः **निरन्नसान्नदेशगमागमकारणात् । तेभ्यो ऽपि मनुष्याः विशिष्ठविज्ञानात् । तेभ्यो ऽपि **ब्राह्मणाः **अपवर्गाधिकारयोग्यत्वात् ॥ १.९६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-096	Of created beings the most excellent are said to be those which are animated; of the animated, those which subsist by intelligence; of the intelligent, mankind; and of men, the Brahmanas;
-</details>
 </details>
 </div>
 
@@ -300,6 +300,11 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/097_brAhmaNeShu_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+097	Of Brahmanas, those learned (in the Veda); of the learned, those who recognise (the necessity and the manner of performing the prescribed duties); of those who possess this knowledge, those who perform them; of the performers, those who know the Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among Brāhmaṇas, the learned are the best, among the learned, those with firm convictions, among the men with firm convictions, those that act up to them; and among the actors, those that know Brahman.—(97).
@@ -331,11 +336,6 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 <details><summary>गोविन्दराजः</summary>
 
 **ब्राह्मणेष्व्** इति । तेभ्यो ऽपि **विद्वांसः** महाफलकर्माधिकारात् तेभ्यो ऽपि **कृतबुद्धयः** शास्त्रार्थानुष्ठानेषूत्पन्नसङ्कल्पाः । तेभ्यो ऽय् अनुष्ठातारः इष्टानिष्टप्राप्तिपरिहारयुक्तत्वात् । तेभ्यो ऽपि ज्ञातात्मानः अपवर्गफलत्वात् ॥ १.९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-097	Of Brahmanas, those learned (in the Veda); of the learned, those who recognise (the necessity and the manner of performing the prescribed duties); of those who possess this knowledge, those who perform them; of the performers, those who know the Brahman.
 </details>
 
 <details><summary>भारुचिः</summary>
@@ -372,6 +372,11 @@ _विद्वत्तादिगुणसंबन्धिनो ब्र
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/098_utpattir_eva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+098	The very birth of a Brahmana is an eternal incarnation of the sacred law; for he is born to (fulfil) the sacred law, and becomes one with Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The very genesis of the Brāhmaṇa is the eternal incarnation of Virtue; for he is born for the sake of Virtue; and this (birth) leads to the state of Brahman. (98).
@@ -417,11 +422,6 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 
 किं च **उत्पत्तिर्** इति । जन्ममात्रम् एव ब्राह्मणस्य अविनश्वरं धर्मस्य शरीरम्, यस्माद् असौ धर्मार्थम् उत्पन्नः उपनीतः सन् आत्मज्ञानेन ब्रह्मत्वाय सम्पद्यते ॥ १.९८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-098	The very birth of a Brahmana is an eternal incarnation of the sacred law; for he is born to (fulfil) the sacred law, and becomes one with Brahman.
-</details>
 </details>
 </div>
 
@@ -435,6 +435,11 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/099_brAhmaNo_jAyamAno.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+099	A Brahmana, coming into existence, is born as the highest on earth, the lord of all created beings, for the protection of the treasury of the law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa, on coming into existence, becomes supreme on earth; he is the supreme lord of all beings, serving the purpose of guarding the treasure of Virtue. (99).
@@ -472,11 +477,6 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 **ब्राह्मण् **इति । यस्माद् **ब्राह्मण **उत्पद्यमानः धर्मसञ्चयरक्षणार्थं **सर्वभूतानाम् ईश्वरः **प्रभुः सन् **पृथिव्याम् अध्**इकः एकः श्रेष्ठः शुक्लैः गुणैः **जायते **तस्माद् असौ मूर्तिः धर्मस्य शास्वती पूर्वोक्तहेतुर् अयम् । **कोशो** धनसञ्चयः (न) इहोपचारात् कोशश्ब्दः । तद्गोप्तृत्वं च ब्राह्मणोपदेशकत्वात् सर्वधर्माणाम् ॥ १.९९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-099	A Brahmana, coming into existence, is born as the highest on earth, the lord of all created beings, for the protection of the treasury of the law.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **ब्राह्मणो जायमान** एव । **हि**शब्दो ऽवधारणार्थः । क्व । **पृथिव्याम्** । उपरि भवति । कस्य । **सर्वभूतानां** इति व्यवहितेनाभिसम्बन्धः सामर्थाद् विज्ञेयः । येन कारणेन ये न (?) परः । तेषां किं राजत्वम् । नेत्य् आह । कथं तर्हि । धर्मकोशगोप्तृत्वात् । एतच् चास्याध्यापनानुवचनयाजनकृतं वेदितव्यम् । तथा च वक्ष्यति । 
@@ -499,6 +499,11 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/100_sarvaM_svam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+100	Whatever exists in the world is, the property of the Brahmana; on account of the excellence of his origin The Brahmana is, indeed, entitled to all.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whatever is contained in this world is all the property of the Brāhmaṇa; the Brāhmaṇa verily deserves all by virtue of his superiority and noble birth. (100).
@@ -535,11 +540,6 @@ This verse is quoted in the *Aparārka* (p. 282) as indicating that the learned 
 **सर्वं स्वम्** इति । वक्ष्यमाणस्तेयादिशास्त्रविरोधात् अस्य च श्रुतिप्रधानत्वात् **सर्वं** जगद्गतं द्रव्यजातं **ब्राह्मणस्वम्** इव स्तुत्योच्यते । तत्र स्वयम् एव यस्मात् **श्रैष्ठेनाभिजनेन** मुखोद्भवत्वेन **सर्वं ब्राह्मणो **योग्यो भवति स्वीकर्तुं तस्मात् तस्येयं सर्वं स्वम् एव ॥ १.१०० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-100	Whatever exists in the world is, the property of the Brahmana; on account of the excellence of his origin The Brahmana is, indeed, entitled to all.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **सर्वं स्वं ब्राह्मणस्येदम्** । स्वम् इव **स्वम्** । कथं गम्यते ऽऽस्यैवं लुप्तोपम्[आ]त्वम् । स्तुतिप्रकरणसामर्थ्यात् नेय[म्] । राजदण्डप्रायश्चित्तोपदेशसामर्थ्येभ्यश् चायम् एवार्थो गम्यते (?) । यथा **[२९]** हि पूर्वोत्तरविरोधाद् उभयशास्त्रं प्रस्ज्येत यत् किं च जगतीगतम् अअन्यदीयम् अपि यद् वा हिरण्यादि । न केवलं याजनाध्यपनप्रतिग्रहादिभिर् आगतं गुणवन्तं च प्रत्य् एषा स्तुतिः । यद् अयम् आह — श्रैष्ठ्यैनाभिजनेनेदं मुखोद्भवत्वेन एतच् चेतनयोर् अपि साहचर्यात् । ब्राह्मणविशेषस् तु तैर् एव । अतश् चैवंविधो ब्राःमणः सर्वम् अअर्हति । अर्हतिशब्दाच् च स्तुतिपरम् एतत् प्रतीयते यथावोचाम, न तु स्वस्वामिसम्बन्धो प्पदेशपरम् । तथा च सति स्तुत्या गुणवृत्त्या चेदं शक्यम् एवं वक्तुम् ।
@@ -557,6 +557,11 @@ This verse is quoted in the *Aparārka* (p. 282) as indicating that the learned 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/101_svam_eva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+101	The Brahmana eats but his own food, wears but his own apparel, bestows but his own in alms; other mortals subsist through the benevolence of the Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What the Brāhmana eats is his own; his own what he wears and his own also what he gives; it ts due to the good will of the Brāhmaṇa that other people enjoy (things). (101).
@@ -590,11 +595,6 @@ What the Brāhmaṇa eats as a guest in the house of others is really his own; i
 **एवं च स्वम्** इति । यत् परकीयस्यापि भोजनाच्छादनादि असौ करोति तत् तस्य स्वम् एवेति पूर्ववत् स्तुतिः । एवं **चानृशंस्यात् **तद्गतकारुण्याद् अन्ये **जना** भोजनाच्छादनादि कुर्वते ॥ १.१०१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-101	The Brahmana eats but his own food, wears but his own apparel, bestows but his own in alms; other mortals subsist through the benevolence of the Brahmana.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यथा नृपवत् क्रियया स्वं भुज्यते एव मनुः(नः) प्रकृत्यैव पित्रादिषु ब्राह्मणो भुङ्क्ते ऽतिथित्वेन विवाहादिषु चावष्टभ्यैव प्रतिगृह्णाति दानक्रियांश् चोपदिशन् न स्वामिवद् दापयति तत्प्रयुक्तत्वाच् च दापयन् ददातीत्य् उच्यते गुणतः एभिः करणैः "स्वम् एव ब्राह्मणो भुङ्क्ते स्वं वस्ते स्वं ददाति च" इत्युक्तिश् च पूर्वश्लोक उपशब्दलो(लक्षणो)पन्यासशब्दार्थ-व्यवस्थाहेतोः । एवं व्यवस्थिते मा (आ)नृशंस्यात् ब्राह्मणस्य साङ्गोपनिषद्वेदशास्त्राध्येतुस् तद्विज्ञातुश् चाधिकारपुरुषानुशासनाधिकृतस्य शास्त्रेण भुञ्जते हीतरे जनाः । शास्त्रचोदितानुष्ठानफलं दृष्टम् अदृष्टं च यदा हीत्थम्भूतो वक्ताधिकृतशास्त्रेण यथाधिकारम् अर्थिभ्यो नानुब्रूयात् ग्रन्थम् अर्थं च । स्यात् (?) । तथा च श्रुतिः "यो ह वै विद्यामेधीत्य् आर्थिनौ स प्रदद्यात् स कार्यहान्यात् स श्रेयसा द्वारम् आवृणुयाद् अध्यापयेन् महद् एतद् यशस् स्ववाचो विकारयत् कवयो वदन्त्य् अस्मिन् योगे सर्वम् इदं प्रतिष्ठितम् । य एवं विदुर् अमृतास् ते भवन्ति" इति । सर्वथैव तत्प्रकरणसामर्थ्याद् ब्राह्मणस्तुतिपरम् एव वेदितव्यम् । यतश् चैत्द् आह (?) ।
@@ -620,6 +620,11 @@ What the Brāhmaṇa eats as a guest in the house of others is really his own; i
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/102_tasya_karmavivekArtham.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+102	In order to clearly settle his duties those of the other (castes) according to their order, wise Manu sprung from the Self-existent, composed these Institutes (of the sacred Law).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It was for the purpose of regulating the actions of the Brāhmaṇa,—and incidentally of others also,—that the wise Manu Svāyambhuva Elaborated these institutes.—(102)
@@ -654,11 +659,6 @@ This verse serves the purpose of indicating the upshot of the entire eulogium pr
 <details><summary>गोविन्दराजः</summary>
 
 अधुनोक्तब्राह्मणस्तुतेः फलम् आह – **तस्येति** । ईदृग् एतन् महच्छास्त्रं यद् उक्तलक्षणस्य **ब्राह्मणस्य **प्रधानतः कार्याकार्यविवेकार्थं **शेषाणां** क्षत्रियादिसङ्करपर्यन्तानाम् अनुषङ्गतः तद्**विवेदार्थम् **एतत् प्रजापतिनप्ता प्रशस्तबुद्धिमान् **मनुः** कल्पितवान् ॥ १.१०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-102	In order to clearly settle his duties those of the other (castes) according to their order, wise Manu sprung from the Self-existent, composed these Institutes (of the sacred Law).
 </details>
 
 <details><summary>भारुचिः</summary>

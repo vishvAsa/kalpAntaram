@@ -12,6 +12,11 @@ title = "०९ वर्णकर्माणि"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/087_sarvasyA-sya_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+087	But in order to protect this universe He, the most resplendent one, assigned separate (duties and) occupations to those who sprang from his mouth, arms, thighs, and feet.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 With a view to the protection of this entire creation, the Resplendent One ordained the distinct functions of those who sprang from the mouth, the arms, the thighs and the feet—(86).
@@ -36,11 +41,6 @@ The divisions of time have been described. The qualifications of the Brāhmaṇa
 **सर्वस्येति **। स महादीप्तिर् ब्रह्मा **अस्य सर्वस्य** जगतः “अग्नौ प्रास्ताहुतिः” इत्यादिन्यायेन रक्षार्थं **मुखा**दिजातानां ब्राह्मणादीनां **पृथक्** पृथक् **कर्माणि **अदृष्टार्थानि वृत्त्यर्थानि च कल्पितवान् । एतानि सृष्टिशेषत्वेनेहाभिधीयन्ते । तथा च **सर्वस्यास्य तु सर्गस्य गुप्त्यर्थम्** इत्य् उक्तम् । विधिस् त्व् एषाम् अस्यार्थवादप्रकरणत्वाद् उत्तरत्र भविष्यति ॥ १.८७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-087	But in order to protect this universe He, the most resplendent one, assigned separate (duties and) occupations to those who sprang from his mouth, arms, thighs, and feet.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सर्गसृष्टिः सहचरितं जगत्साहचर्यवद् उच्यते । गुप्तिर् अनुच्छितिः । स्थितिश् च तदर्थं ब्राह्मणादीनां वक्ष्यमाणानि पृथक् कर्माण्य् अकल्पयत् धर्मवृत्त्यर्थानि । तानि च,
@@ -58,6 +58,11 @@ The divisions of time have been described. The qualifications of the Brāhmaṇa
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/088_adhyApanam_adhyayanam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+088	To Brahmanas he assigned teaching and studying (the Veda), sacrificing for their own benefit and for others, giving and accepting (of alms).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Brāhmaṇas he ordained teaching, studying, sacrificing and officiating at sacrifices, as also the giving and accepting of gifts. (88).
@@ -77,11 +82,6 @@ The said ‘functions’ are now described. (88).
 
 तत्र **अध्यापनम् **इति । **अध्ययनाध्यापने **साङ्गवेदस्मृतीनां पठनप्रवचने । **यजनयाजने **यागार्त्विज्ये । अन्नोदकानि [दत्वा] यथाशक्त्या प्राणिनाम् अर्त्यपहरणं दानम् । साधुतः प्रतिग्रहं **ब्राह्मणानां **कल्पितवान् ॥ १.८८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-088	To Brahmanas he assigned teaching and studying (the Veda), sacrificing for their own benefit and for others, giving and accepting (of alms).
-</details>
 </details>
 </div>
 
@@ -95,6 +95,11 @@ The said ‘functions’ are now described. (88).
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/089_prajAnAM_raxaNam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+089	The Kshatriya he commanded to protect the people, to bestow gifts, to offer sacrifices, to study (the Veda), and to abstain from attaching himself to sensual pleasures;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Kṣatriya he ordained protecting of the people, giving of gifts, sacrificing and studying, as also abstaining prom being addicted to the objects of sense. (89).
@@ -126,11 +131,6 @@ This verse is quoted in the Vīramitrodaya—Paribhāṣā, p. 45, which reads �
 
 **प्रजानाम्** इति । **इज्या** यागः । **विषयेषु **स्त्र्यादिगतरूपादिषु । अत्यन्तम् एव परिहारः । **समासतः **सङ्क्षेपेण ॥ १.८९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-089	The Kshatriya he commanded to protect the people, to bestow gifts, to offer sacrifices, to study (the Veda), and to abstain from attaching himself to sensual pleasures;
-</details>
 </details>
 </div>
 
@@ -144,6 +144,11 @@ This verse is quoted in the Vīramitrodaya—Paribhāṣā, p. 45, which reads �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/090_pashUnAM_raxaNam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+090	The Vaisya to tend cattle, to bestow gifts, to offer sacrifices, to study (the Veda), to trade, to lend money, and to cultivate land.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Vaiśya, tending of cattle, giving of gifts, sacrificing and studying; as also trade, money-lending and cultivating of land. (90).
@@ -170,11 +175,6 @@ This verse is quoted in *Parāśara-mādhava* (Ācāra, p. 416), in support of *
 
 **वणिक्पथं** स्थपथवारिपथादिना वाणिज्यायै गमनम् । **कुसीदं **वृद्ध्यर्थं धनप्रयोगः ॥ १.९० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-090	The Vaisya to tend cattle, to bestow gifts, to offer sacrifices, to study (the Veda), to trade, to lend money, and to cultivate land.
-</details>
 </details>
 </div>
 
@@ -188,6 +188,11 @@ This verse is quoted in *Parāśara-mādhava* (Ācāra, p. 416), in support of *
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/091_ekam_eva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+091	One occupation only the lord prescribed to the Sudra, to serve meekly even these (other) three castes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Śūdra the Lord ordained only one function: the ungrudging service of the said castes. (91).
@@ -217,11 +222,6 @@ This verse is quoted in the *Vīramitrodaya* — *Paribhāṣā*, p. 45;—and i
 <details><summary>गोविन्दराजः</summary>
 
 **एकम्** इति । स **प्रभुः **अनिन्दया ब्राह्मणादिपरिचरणं **कर्मा**दिष्टवान् ॥ १.९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-091	One occupation only the lord prescribed to the Sudra, to serve meekly even these (other) three castes.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -12,6 +12,11 @@ title = "१० स्नेहादरक्रमः"
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/117_laukikaM_vaidikam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+117	(A student) shall first reverentially salute that (teacher) from whom he receives (knowledge), referring to worldly affairs, to the Veda, or to the Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should first salute him from whom he receives knowledge, either temporal or scriptural or spiritual.—(117)
@@ -105,11 +110,6 @@ whom one acquires knowledge, either temporal or scriptural or related to Dharma.
 **लौकिकम्** इति । **लौकिकं** दृष्टहितार्थम् आयुर्वेदादिकं **वैदिकं** वेदवेदाङ्गविषयम् । **आध्यात्मिकं** साङ्ख्याद्यध्यात्मविद्याविषयं ज्ञानम् । **यतः** शिक्षेत् **तं पूर्वं **तदभिभाषणनिरपेक्षवक्ष्यमाणप्रकारेण्**आभिवादयेत् **॥ २.११७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-117	(A student) shall first reverentially salute that (teacher) from whom he receives (knowledge), referring to worldly affairs, to the Veda, or to the Brahman.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 लौकिकं पौरुषेयत्वाद् अन्नं विज्ञानवैदिकम् । मन्त्रब्राह्मणम् आध्यात्मिकमौनिवदन्तस् तत्त्वादरार्थं (?) पृथग्वचनम् । अथ वा वेदाव्यतिरिक्तास्वाध्यात्मविद्यासु भवम् आध्यत्मिकम् आयुर्वेदशास्त्रात्मकं वा किञ्चिद् ज्ञानं तद्धितार्थं यस् तद् आददीत तं पूर्वम् अभिवादयेत् । कुतः । स्वयोनिगुरुभ्य एवं च स्वयोनिगुरुविद्या गुरुसन्निधाव् एतच्छास्त्रम् अर्थवद् विज्ञेयम् । अन्ययोथा(?)ध्ययनप्रतिषेधद्वारेणान्यायाध्ययनं विधाय यत् स्तेनेति (??) ।
@@ -127,6 +127,11 @@ whom one acquires knowledge, either temporal or scriptural or related to Dharma.
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/118_sAvitrImAtra-sAro.api.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+118	A Brahmana who completely governs himself, though he know the Savitri only, is better than he who knows the three Vedas, (but) does not control himself, eats all (sorts of) food, and sells all (sorts of goods).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Better the Brāhmaṇa knowing the Sāvitrī alone, if he is thoroughly self-controlled,—and not he who knows all the three Vedas, but is not self-controlled, and eats all things and sells all things.—(118)
@@ -184,11 +189,6 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 460).
 अत्रार्थवादः **सावित्रीमात्रसार** इति । यदि **विप्रः सुयन्त्रितः **अभिवादाचारानुष्ठानयन्त्रितात्मा भवति तदा **सावित्रीमात्र**प्रधानो ऽपि तावन्मात्राध्येतापि **वरं** प्रशस्तः । न त्व् अनाचारस् **त्रिवेदो ऽपि **प्रशस्यः, यतः असाव् अयन्त्रितत्वात् **सर्वाशी सर्वविक्रयी **च भवति ॥ २.११८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-118	A Brahmana who completely governs himself, though he know the Savitri only, is better than he who knows the three Vedas, (but) does not control himself, eats all (sorts of) food, and sells all (sorts of goods).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 न्यायतः सावित्र्यध्ययनमात्रेणापि परितुष्येत् सामर्थ्ये ऽप्य् अध्येतुं ब्रह्मचारी न चान्यो येन वेदत्रयम् अप्य् अधीयीत । एवं च न्यायाध्ययनप्रशंसैषा, न तु सावित्र्यध्ययनमात्रोपदेशः, कृत्स्नवेदाध्ययननिर्णयस्मरणात् । तथा च वक्ष्यति "वेदः कृत्स्नो ऽधिगन्तव्यः" (म्ध् २.१६५) इति । **सावित्री**ग्रहणं चेतरेषु प्रदर्शनार्थम् उक्तम् । नायन्ता च(?) कृत्वैतत् त्रिकं ब्रह्मणो मुखम् अभिहितम् इति । एवम् अध्ययनधर्मम् अभिधाय ब्रह्मचारिधर्मम् अनुशास्ति (?) ।
@@ -206,6 +206,11 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 460).
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/119_shayyAsane.adhyAcharite.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+119	One must not sit down on a couch or seat which a superior occupies; and he who occupies a couch or seat shall rise to meet a (superior), and (afterwards) salute him.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should not sit with a superior upon the couch or seat prepared for him. and if he himself should happen to be seated on a couch or skat, he should rise to meet (the superior) and salute him.—(119)
@@ -277,11 +282,6 @@ seat before the Teacher.’
 **शय्यासने** इति । **शय्यासनं** यत् गुर्वादिना सेवितं सेव्यमानं वा तत्र नोपविशेत् । **शय्यासनस्थश् चैनम्** आयान्तं दृष्ट्वा ततः **उत्थायाभिवादयेत्** ॥ २.११९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-119	One must not sit down on a couch or seat which a superior occupies; and he who occupies a couch or seat shall rise to meet a (superior), and (afterwards) salute him.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 व्रताविरोध्नि **शय्यासना**धिष्ठिते **श्रेयसा** गुरुणा तत्समौ वान्येन । कुतः । आत्मनः अवचनाद् अन्यस्येति विज्ञायते येनोपविशेत् तत्र स्वयं च शय्यासन एवम् आयान्तं स्थितं वा दृष्टं(ष्ट्वा?) **[७४]** **प्रत्युत्थायाभिवादयेत्** । एवं विधिद्वयम् अत्र श्रेयोनिमित्तं हि बलाबलं च वक्ष्यति । अस्य विधेर् अर्थवादः ।
@@ -307,6 +307,11 @@ seat before the Teacher.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/120_Urdhvam_prANA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+120	For the vital airs of a young man mount upwards to leave his body when an elder approaches; but by rising to meet him and saluting he recovers them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the elder approaching, the vital breaths of the younger rush outward; and he recovers them by the acts of rising to meet and salute him.—(120)
@@ -351,11 +356,6 @@ uncle, the maternal uncle—those not junior in age;—these he shall salute aft
 अत्रार्थवादो भयदर्शनेन । **ऊर्ध्वम्** इति । यस्मात् ज्येष्ठ आगच्छति सति कनीयसः **प्राणाः** **ऊर्ध्वं **निर्गन्तुम् इच्छन्ति अनाचारेणायुःक्षयात् । **प्रत्युत्थानाभिवादाभ्यां **हेतुभूताभ्यां **पुनस् तान्** स्वीकरोति तस्मात् तौ कर्तव्यौ ॥ २.१२० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-120	For the vital airs of a young man mount upwards to leave his body when an elder approaches; but by rising to meet him and saluting he recovers them.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 शिष्टस्याक्रियायां प्रत्यवायदर्शनेन नान्तरविध्यनुष्ठानस्तुतिर् इयं चापरा ।
@@ -373,6 +373,11 @@ uncle, the maternal uncle—those not junior in age;—these he shall salute aft
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/121_abhivAdana-shIlasya_nityam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+121	He who habitually salutes and constantly pays reverence to the aged obtains an increase of four (things), (viz.) length of life, knowledge, fame, (and) strength.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For one who is in the habit of saluting and constantly revering elders,—four things prosper: viz., longevity, merit, fame and strength.—(121)
@@ -420,11 +425,6 @@ should grasp his right foot with the right hand and the left foot with the left.
 अयं त्व् अपरो ऽत्रैवोपकारदर्शनेन **अभिवादनशीलस्येति **। अभिवादनकरणस्वभावस्य सर्वदा सर्वदा वृद्धेषु परिचर्यारतस्य **आयुःप्रज्ञा**ख्याति**बलानि** चत्वारि वृद्धिम् उपयान्ति॥ २.१२१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-121	He who habitually salutes and constantly pays reverence to the aged obtains an increase of four (things), (viz.) length of life, knowledge, fame, (and) strength.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 श्रेयोनिमित्तस्य स्थाविर्यस्य स्तुतिर् अथ वा सत्स्व् अपि श्रेयोनिमित्तेष्व् अस्यातिथविरेणाभिवाद्य इति गम्यते । "प्रत्युत्थायाभिवादयेत्" (म्ध् २.११९) इत्य् उक्तम् । यतस् तद्विधिर् अयम् एवं वक्तव्यताम् आपन्नः शिष्यते ।
@@ -450,6 +450,11 @@ should grasp his right foot with the right hand and the left foot with the left.
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/122_abhivAdAt_param.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+122	After the (word of) salutation, a Brahmana who greets an elder must pronounce his name, saying, 'I am N. N.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa, when greeting an elder, should, after the accosting, pronounce his name, (saying) “this here, I am named so and so,”—(122)
@@ -546,11 +551,6 @@ am*.’
 कथं पुनर् अभिवादनं कार्यम् इत्य् अत आह **अभिवादात् परम्** इति । ज्येष्ठाभिवादनं कुर्वन् “अभिवादये” इत्य् एतच्छब्दात् परं “भद्रनामास्मि” इत्य् एवं **स्वं नाम्**ओच्चारयेत् । विप्रग्रहणम् इह प्रत्यभिवादवाक्ये च द्विजोपदर्शनार्थं त्रयाणां प्रकृतत्वात् ॥ २.१२२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-122	After the (word of) salutation, a Brahmana who greets an elder must pronounce his name, saying, 'I am N. N.'
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **ज्यायांसम् अभ्यिवादयन्** तस्मात् परं स्वनामोच्चारयेत् "**असौ नामाहम् अस्मि**" इति । सर्वेषां नाम्नां स्थाने स्वर्वनाम "**असाव् अहम्**" इति । विशेषनाम प्रदर्शयति । अभिवादनार्थ नाम्नो ऽयम् उपदेशविकीर्(?) अभिवादने । इदानीं सर्वाभिवाद्यसन्निधौ तस्य स्वनामोच्चारणम् अवेशेषेण प्राप्तः तत्कारणान्तरतो ऽपोद्यते (?) ।
@@ -568,6 +568,11 @@ am*.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/123_nAmadheyasya_ye.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+123	To those (persons) who, when a name is pronounced, do not understand (the meaning of) the salutation, a wise man should say, 'It is I;' and (he should address) in the same manner all women.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 To those persons who do not comprehend the (significance of the) name (pronounced) in the words of greeting, the wise one should say ‘I’; similarly to all, women.—(123)
@@ -645,11 +650,6 @@ bowing the head; all ladies are to be saluted with one’s name; not so one’s 
 एवं सर्वत्र स्वनामोच्चारणप्राप्ताव् आह **नामधेयस्येति** । नाम्नः उच्चारितस्य सतो यद् अभिवादनं अभिवाद्या न बुध्यन्ते असंस्कृतत्वाद् अनभिज्ञा ये **तान् प्राज्ञः **“अभिवादये ऽहम्” इत्य् एवं ब्रूयात् । **स्त्रियश्** चाभिज्ञा अप्य् एवम् एव ब्रूयात् ॥ २.१२३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-123	To those (persons) who, when a name is pronounced, do not understand (the meaning of) the salutation, a wise man should say, 'It is I;' and (he should address) in the same manner all women.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **नामधेयस्य** परिग्रहं कृत्वा **ये केचिद्** अभिवाद्या अभिवादयन्तीत्य् अर्थः, प्रत्यभिवादसाहचर्यात् । इह सामर्थ्याद् अभिवादशब्दो न । प्रत्यभिवादम् आचष्टे - तं **ये न जानते** यथाशास्त्रं प्रयोक्तुं **तान्** प्रत्यभिवादप्रयोगासमर्थान् **अहम् इति ब्रूयात्** । कः । **प्राज्ञः** । एवं यथाभिहितं शब्दस्योच्चारनोपदेशः अभिवादनान्ते स्वनामोच्चारणनिवृत्त्यर्थम् । अन्यथा हि प्राप्तिवचनम् अनर्थकं स्याद् इति । **स्त्रियश् च** प्रत्यभिवादनकुशला अपि सत्य इतराश् चेति । **सर्व**ग्रहणं कुतः । पतदशरं (अभिवादशब्दो) ?? हि सामर्थात् । अन्यथा ह्य् अनारम्भसमम् इदं पूर्वेणैव स्याद् इत्य् एवं च चूर्णिकाकारः- "प्रत्यभिवादे नाम्नो ऽन्ते येन क्लृप्तिं (?) विदुः कामं तेषु हि विप्रो ऽप्य् अस्त्रीष्व् इव ऽअयम् अहम्ऽ इति वदेत्" इति । अपरस् त्व् आह- "शूद्रो ऽपि दशमी गतः" (म्ध् २.१३७) इत्य् एतस्माच् छूद्रस्याभिवाद्यतां वक्ष्यति । एवं च कदाचिद् असाव् अप्राज्ञत्वात् संस्कृतम् उच्यमानं नावबुध्येत यतस् तत्र "अहम्" इति ब्रूयात् । अथ वा वक्यैर् वर्तमानादिनोपनामकेन प्रसिद्धस्य गृह्यनामपरिकीर्तनं **[७५]** नावबुध्येत कश्चिद् अशूद्रो ऽपि । यत इदम् उच्यते । इत्य् उच्चारणानुच्चारणपक्षद्वये ऽपि नाम्नः शेषविध्यर्थम् इदम् अभिवादस्य प्रतिवदतः ।
@@ -667,6 +667,11 @@ bowing the head; all ladies are to be saluted with one’s name; not so one’s 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/124_bhoHshabda~N_kIrtayed.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+124	In saluting he should pronounce after his name the word bhoh; for the sages have declared that the nature of bhoh is the same as that of (all proper) names.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In saluting, one should pronounce the term “Oh, Sir” at the end op his own name; since it has been declared by the sages that the form “Oh, Sir” represents the form of all names.—(124)
@@ -723,11 +728,6 @@ and at the end the word *bhoḥ*.’
 **भोशब्दम्** इति । **अभिवादने** यत् स्वं नाम तदन्ते **भोःशब्दं कीर्तयेत्** । स चाभिवाद्यसम्बोधनार्थम्, यत आह **नाम्नाम्** इति । यस्मान् **नाम्नां **या **स्वरूप**सत्ता सैव **भोभागः **भो इत्य् अस्य सत्ता इति मन्वादिभिः **स्मृतः । **अतश् चाभिवाद्यनामस्थानापन्नं तत्सम्बोधनार्थं** भोःशब्दं कीर्तयेत्** । तेनाभिवादयेत् “भद्रनामाहम् अस्मि भो” इत्य् अभिवादनरूपम् ॥ २.१२४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-124	In saluting he should pronounce after his name the word bhoh; for the sages have declared that the nature of bhoh is the same as that of (all proper) names.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अभिवाद्यानां तन्नामग्रहणम् अयुक्तं शास्त्रतः । न चागृहीतनाम्नो ऽभिवाद्यस्याभिवादं प्रतिसम्बोधनाभिमुख्यम् अस्ति । न च तदनन्तरेण प्रत्यभिवादप्रयोगो ऽस्य विद्यते । यत इदम् उच्यते । **भोःशब्दं कीर्तयेद्** इत्य् अनेनाप्य् अभिवाद्यस्य नामग्रहणदोषश् च परिहृतो भविष्यति । सम्बोधनाभिमुख्यं च सेत्स्यतीत्य् उत्तरस् तु श्लोकार्थः पूर्वविधिस्तुत्यर्थो व्याकरणीयः । 
@@ -747,6 +747,11 @@ and at the end the word *bhoḥ*.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/125_AyuShmAn_bhava.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+125	A Brahmana should thus be saluted in return, 'May'st thou be long-lived, O gentle one!' and the vowel 'a' must be added at the end of the name (of the person addressed), the syllable preceding it being drawn out to the length of three moras.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On saluting, the Brāhmaṇa should he answered with the words ‘Be long lived, O Gentle One’; and at the end of his name the vowel “a,” which occurs at the end of the consonant, should be pronounced ultra long.—(125)
@@ -853,11 +858,6 @@ greeting is ultra-long.’
 इदानीं प्रत्यभिवादनविधिम् आह **आयुष्मान्** इति । **अभिवादने** कृते **आयुष्मान् भव सौमे**त्य् एवम् अभिवादयिता वाच्यः अभिवादयितुश् च **नाम्नो ऽन्ते** यः अकारादिवर्णः नाम्नाम् अकारान्तत्वनियमाभावात् स प्लुतः कार्यः । पूर्वाण्य् अक्षराणि यस्मात् सः **पूर्वाक्षरः **नागन्तुकः ततो ऽपकृष्य वा । तेन्**आयुष्मान्** **भव** सौम्य (म्येति) भद्रा ३ इति प्रत्यभिवादरूपम् ॥ २.१२५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-125	A Brahmana should thus be saluted in return, 'May'st thou be long-lived, O gentle one!' and the vowel 'a' must be added at the end of the name (of the person addressed), the syllable preceding it being drawn out to the length of three moras.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **आयुष्मान्** इत्य् एतद् अर्थग्रहणम् । अपरे तु शब्दग्रणम् आहुः । **भवे**तीदम् आशिषो लोट् मध्यमपुरुषैकवचनम् । **सौम्येति** चायुष्मत्वाद् अविशेषणस् तस्य प्रीत्यर्थम् इति । शब्द एव शब्दार्थो **वाच्य** इति प्रत्यभिवादनविधिः । **विप्र**ग्रहणं च प्रदर्शनार्थम् इतरेषां प्रत्यभिवादानुपदेशाद् अवश्यम्भावित्वाच् चाभिवादस्य विप्रवत् । तथा च व्याकरणस्मृतिः "प्रत्यभिवादे ऽशूद्रे" (पाणिनि ८.२.८३) इत्य् एतेनाभिवादनश्लोकः गतः । **विप्र**ग्रहणं व्याख्यातम् । "अभिवादात् परं विप्रः" (म्ध् २.१२२) इत्य् एतद् एवं **विप्रो वाच्यः** । अभिवादने कृते सतीति वाक्यशेषः । किं चान्याकारश् (**अकारश्**) **चास्य नाम्नो ऽन्ते** (?) इत्य् (आ) अकारग्रहणम् इकारादिस्वरप्रदर्शनार्थं विज्ञेयम् । नियमशास्त्राभाववाच्यशब्दः समुच्चयार्थः । पूर्वं च यद् उक्तं तद् वक्तव्यम् इदं च यद् वक्ष्यामः । **अस्येति** विशेषणषष्ठी । कस्य । अभिवादयितुर् नाम्नः । **अन्त**ग्रहणम् (?) आदिमध्यप्रतिषेधार्थम् । तथा हि गुरोर् (अन्ततन्त्य) (?) अत्यन्तस्य ह्य् एकैकस्य प्रवाच्यम् इति वाच्यो ऽन्त्येकारो नाम्नः । कीदृशे । यत (?) इदम् उच्यते । **प्लुतस्** त्रिमात्रः नैकद्विमात्रः । एवं च अकारविशेषणसम्बन्धेनैवायम् अनुवादो वाच्य इदं त्व् अपरम् (?) **अकार**विशेषणम् । **पूर्वाक्षरः** पूर्वम् अक्षरम् । कुतः । प्रकृताद् अकारात् किन्त (?) व्यञ्जनम् । एतच् च गुणतो** ऽक्षर**शब्देनोच्यते । अकाराक्षरसाहचर्याद् व्यञ्जने ऽक्षरशब्दः । अकारे त्व् अयं पूर्वशब्दविशिष्टो ऽक्षरशब्दो न घटते । तस्यान्यविध्यभावात् परतः । ततः सामान्याद् एवं व्यञ्जने ऽक्षरशब्दो गुणवृत्त्या विज्ञेयः । एवं च सति पूर्वाक्षरस्थो ऽकारः पूर्वाक्षरशब्दस्थानाद् उपचर्यते मान्तवत् (?) । तथा च कृत्वेदम् उक्तं भवति । व्यञ्जनेनाविर्बाववृत्तिर् अयम् अकारः परतो वक्तव्यो नास्माद् अप्लुत्य (?) पृथङ् नान्यो (?) वा सति पूर्वस्मिन् व्यञ्जने ऽथ वा पूर्वाक्षरसमेतः पूर्वाक्षर इति । तस्मिन् पक्षे **(७६)** समवेतशब्दोक्तफलोपो (?) विज्ञेयः । अन्यत् समानम् । तथा चोक्तम्- "प्रत्यभिवादे ऽशूद्रः" (पाणिनि ८.२.८३) इति । मनुना (१२ अक्ष् मिस्सिन्ग्) मान्तेश्वरस्य प्लुतवृद्धनं लक्ष (?)
@@ -877,6 +877,11 @@ greeting is ultra-long.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/126_yo_na.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+126	A Brahmana who does not know the form of returning a salutation, must not be saluted by a learned man; as a Sudra, even so is he.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa who knows not the return-greeting of the greeting of salutation does not deserve to be saluted by the learned; he is exactly as the śūdra is.—(126)
@@ -947,11 +952,6 @@ senior, also one of the same age, about his *welfare*; the Kṣatriya about his 
 अत्रार्थवादः – **यो न वेत्त्य् अभिवादस्येति **। यथाशास्त्रम् अभिवादनस्य कृतस्य **यः प्रत्यभिवादनं** कर्तुं न जानाति **विप्रो **ऽपि किम् उतान्यः **स विदुषा **शूद्रवन् **नाद्भिवाद्यः** । तस्मात् प्रत्यभिवाद्ये ऽयं यथाशास्त्रं विज्ञाय सम्यक् कर्तव्य इति स्थितिः प्रत्यभिवादस्तुतिः । विध्यर्थत्वे प्रकरणोपरोधः । “नामधेयस्य ये केचिद्” इत्य् एतद्बाधश् च ॥ २.१२६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-126	A Brahmana who does not know the form of returning a salutation, must not be saluted by a learned man; as a Sudra, even so is he.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अभिवादाभिमुखं यदा शि [१ अक्ष् उन्च्लेअर्] दानम् अभिवादयितुर् असौ प्रत्यभिवादो ऽभिहितस्वरूपः तयोर् न वेद प्रयोक्तुं यथालक्षणं नाभिवादः । स विदुषा (?) किम् अयं प्रतिषेधो ऽभिवादनस्य । नेत्य् उच्यते । किं तर्हि । प्रत्यभिवादनप्रशंसैषा । दृष्टान्तात्, नाभिधानसामर्थात् (?) । न तस्य प्रत्यभिवादासमर्थस्यात्यन्तम् अनभिवाद उच्यते । तथा चोक्तम्- 
@@ -974,6 +974,11 @@ senior, also one of the same age, about his *welfare*; the Kṣatriya about his 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/127_brAhmaNa~N_kushalam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+127	Let him ask a Brahmana, on meeting him, after (his health, with the word) kusala, a Kshatriya (with the word) anamaya, a Vaisya (with the word) kshema, and a Sudra (with the word) anarogya.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having met a Brāhmaṇa, one should ask him his “welfare,” a Kṣatriya his “freedom from distemper,” a Vaiśya his “prosperity,” and a Shudra his “freedom from disease.”—(127)
@@ -1032,11 +1037,6 @@ salutation has been returned;—in *Saṃskāramayūkha* (p. 47);—and in
 प्रत्यभिवादनप्रसङ्गेन अन्यम् अपि प्रत्यभिवादयितुर् धर्मम् आह **ब्राह्मणम्** इति । प्रत्यभिवादयिता समागत्याभिवादयितारं **ब्राह्मणं कुशलम् **अस्ति इत्य् एवं **पृच्छेत्, क्षत्र**जातीयं **अनामयम्** इति, **वैश्यं क्षेमम्** इति, **शूद्रम् **पुनर् **आरोग्यम्** इति ॥ २.१२७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-127	Let him ask a Brahmana, on meeting him, after (his health, with the word) kusala, a Kshatriya (with the word) anamaya, a Vaisya (with the word) kshema, and a Sudra (with the word) anarogya.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 कथं पुनर् एतद् गम्यते अभिवादननियमो ऽयं नाभिवादयितुर् इति । प्रत्यभिवादप्रकरणोपदेशसामर्थ्याद् अयं तदभिव्याहारः प्रतीयते । अभिवादननियमश् चायम् । अन्यथा हि पौनरुक्त्याद् अवचनीयम् एतत् स्यात् (?) नियमाभावाच् च शास्त्रं [अप्रमाणम्?] प्रसज्येत । समागम्येति सर्वशेषः । अथ वा श्रेयःसु पूर्वो विधिः समानेषु त्व् अयम् उच्यते "**ब्राह्मणं कुशलं पृच्छेत्**" इत्येवमादि । **समागम्येति** च लिङ्गाद् अयम् अर्थः प्रतीयते । सम्भाषणनियमप्रसङ्गाद् इदम् अन्यत् उच्यते ।
@@ -1054,6 +1054,11 @@ salutation has been returned;—in *Saṃskāramayūkha* (p. 47);—and in
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/128_avAchyo_dIxito.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+128	He who has been initiated (to perform a Srauta sacrifice) must not be addressed by his name, even though he be a younger man; he who knows the sacred law must use in speaking to such (a man the particle) bhoh and (the pronoun) bhavat (your worship).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A person who has been initiated (for a rite), even though he be younger, should not be addressed by name; one who knows the law should address him beginning with such terms as “sir” and “your worship.”—(128)
@@ -1107,11 +1112,6 @@ Soma) \[should be addressed as Sir\].’
 **अवाच** इति । यागार्थं कृतदीक्षः प्रत्यभिवादनार्थं कार्यान्तरार्थं वा **नाम्ना** कनीयान् अपि न वाच्यः । किं तर्हि । भो दीक्षित भवता यजमानेन इत्य् एवं **भोभवच्**छब्द**पूर्वं** यौगिकं शब्दैः **एनं **धर्मज्ञो **ऽभिभाषेत **॥ २.१२८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-128	He who has been initiated (to perform a Srauta sacrifice) must not be addressed by his name, even though he be a younger man; he who knows the sacred law must use in speaking to such (a man the particle) bhoh and (the pronoun) bhavat (your worship).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अर्थप्राप्तस्य दीक्षितत्वेन निमित्तेन प्रतिषेधः । अनन्तराशास्त्रानन्तरा प्राप्तस्य वा (?) **यवीयान् अपि** इति वचनाद् दण्डापूपिकया समान्स्याभिजन्मज्येष्ठस्यापि दीक्षितस्य गुरोर् नामग्रहणं (?) प्रतिषिद्धम् । 
@@ -1137,6 +1137,11 @@ Soma) \[should be addressed as Sir\].’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/129_parapatnI_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+129	But to a female who is the wife of another man, and not a blood-relation, he must say, 'Lady' (bhavati) or 'Beloved sister!'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A female who is the wife of another person, and is not related to one by birth, should be addressed as “Lady,” and also “blessed,” or “sister.”—(129)
@@ -1205,11 +1210,6 @@ should be addressed as *sister*, or *daughter*, or *mother*.’
 परस्य पत्नी या भवति सा चात्मनो यदि मातृपितृभ्यो योनिसम्बद्धा न भवेत्, तदा तां कार्यार्थं **भवति** इत्य् अनेन शब्देन ब्रूयात् **सुभगे भगिनि** इत्येवमाद्यन्तेन “भवति सुभगे” “भवति मातः” इत्येवं ब्रूयात् । आनुरूप्येण भगिनीति चेति इतिशब्दस्य प्रकारार्थत्वात् ॥ २.१२९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-129	But to a female who is the wife of another man, and not a blood-relation, he must say, 'Lady' (bhavati) or 'Beloved sister!'
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **परपत्नी तु या स्त्री स्यात्** । कीदृशी । तां विवृणोति । **असम्बन्धा च योनितः** । मातापित्रोः परपत्नी सेह विज्ञेया । **तां ब्रूयाद्** इत्य् एवं सम्भाषणनियमः तताक्षिस्समतिष्यते (?) ब्रह्मचारी कथंलक्षणो भवतीत्य् एवंरूपः । **सुभगे भगिनीति वा** । भवतीति यो ऽयम् अत्र इतिकरणः प्रश्लिष्टनिर्दिष्टः असौ शब्दः पदार्थको विज्ञेयः प्रतिपदोपस्थायी चेति । भगिनीत्य् अयं पुनर् उत्तरः प्रकारावरोधार्थः मातरं चेत्य् एवमादीनाम् । तथा च लोकप्रसिद्धिः । अयं च सम्भाष्य स्त्रीणाम् आत्मनश् च वयआनुरूप्येण सम्भाषणनियमो विज्ञेयः । अपरे तु व्यपदेशाद् (?) विकल्पम् अत्र वर्णयन्ति (?) । परपरिगृहीता स्त्री सुभगेति वाच्या । स्वपत्नी कुलजा भगिनी सन्दिग्धा भवतीति । तत् त्व् इदं स्यार्य्यं (स्यादार्थं?) प्रकरणात् । अयम् अन्यो ब्रह्मचारिधर्मः ।
@@ -1227,6 +1227,11 @@ should be addressed as *sister*, or *daughter*, or *mother*.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/130_mAtulAMsh_cha.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+130	To his maternal and paternal uncles, fathers-in-law, officiating priests, (and other) venerable persons, he must say, 'I am N. N.,' and rise (to meet them), even though they be younger (than himself).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should rise and say ‘here (so and so) I am,’ to such maternal uncles, paternal uncles, fathers-in-law and superiors as happen to be younger.—(130)
@@ -1303,11 +1308,6 @@ uncle and the maternal uncle, if these are junior in age—salutation consists i
 **मातुलांश् चेति **। **मातुलादीन् **हीनवयसः **प्रत्युत्थाय **भद्रो ऽहम् इत्य् एवं ब्रूयात् । **ऋत्विक् **वक्ष्यते । **गुरुश्** चात्र मातृश्वस्रपत्यादिः, न विद्यागुरुः शैशवाख्यानस्य वक्ष्यमाणत्वात् ॥२.१३० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-130	To his maternal and paternal uncles, fathers-in-law, officiating priests, (and other) venerable persons, he must say, 'I am N. N.,' and rise (to meet them), even though they be younger (than himself).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अत्र **गुरु**शब्दो ऽनुक्तानां मातृष्वसृप्रभृतीनाम् उपसङ्ग्रहार्थो विज्ञेयः विद्यागुरुवर्जितानाम् । तस्य हि परमगुरुत्वाद् अभिवादनरहितं प्रत्युत्थानमातयुक्तं यवीयसो ऽपि सतः शास्त्रान्तरविरोधात् । तथा च शैशवं वक्ष्यति । "अध्यापयामस पितॄन्" (म्ध् २.२५१) इत्येवमादि । न **[८१]** च मातुलादिविषयम् अत्रातुरग्रहणं पुनरुक्तगुर्वनुपसङ्गप्रसङ्गाच् च । उदाहरणाभिधाने च बहूनाम् आनर्थक्यम् । यतो न मातुलादिविषयो गुरुशब्दः । अथ तु बहूनाम् अपि प्रदर्शनार्थत्वं सामर्थ्यात् कथञ्चिद् भवति, ततो मातुलादीनाम् अनुवादो ऽयं गुरुशब्दो युज्यते स्तुत्यर्थः । कथं गुरुसमर्थाद् एते यवीयांसो ऽपि सन्तः प्रत्युत्थेया इत्य् असाव् इति च सर्वनाम्नस् तथानेन चोक्तविधानम् इदम् अस्य "**असाव् अहम् इति ब्रूयात्**" इति । किं तर्हि भवदप्रतिषेधपरम् (?) । तथा च गौतमः- "ऋत्विक्श्वशुरपितृव्यमातुलानां तु यवीयसां प्रत्युत्थानम् अनभिवादाश् च" इति । अभिवादनलक्षणसामर्थ्याच् चैतद् एवं प्रतीयत इति ।
@@ -1325,6 +1325,11 @@ uncle and the maternal uncle, if these are junior in age—salutation consists i
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/131_mAtRshvasA_mAtulAnI.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+131	A maternal aunt, the wife of a maternal uncle, a mother-in-law, and a paternal aunt must be honoured like the wife of one's teacher; they are equal to the wife of one's teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Mother’s sister, maternal uncle’s wife, mother-in-law, and father’s sister deserve to re honoured like the teacher’s wife; all these are equal to the wife of the Teacher.—(131)
@@ -1374,11 +1379,6 @@ done of the mother’s sister, also of the wives of one’s paternal uncle.’
 **मातृस्वसेति **। **मातृष्वस्राद्याः गुरुपत्नीवत्** वक्ष्यमाणरूपेण पादोपसङ्ग्रहणादिना **सम्पूज्याः,** यतः ता **गुरुभार्या**तुल्याः ॥ २.१३१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-131	A maternal aunt, the wife of a maternal uncle, a mother-in-law, and a paternal aunt must be honoured like the wife of one's teacher; they are equal to the wife of one's teacher.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 "**सम्पूज्या गुरुपत्नीवत्**" इत्य् उक्ते "**समास् ता गुरुभार्यया**" इत्येतदर्थं सिद्धत्वाद् अवचनीयं सद् उच्यते ऽर्थवाचार्थं (-दार्थं?) यथा आगमतः (?) यवीयस्यो ऽपि सत्य एता ज्येष्ठानाम् तद्भर्तॄणां सम्पूज्या इत्य् उपदेशात् प्रत्युत्थायाभिवाद्याश् च । तथा च वक्ष्यति- "ज्यायस्यां च स्वसर्य् अपि" (म्ध् २.१३३) इत्य् एतस्माल् लिङ्गाद् अस्या गुरुस्त्रियो ज्यायस्त्वम् अनपेक्ष्याभिवाद्या । स्मृत्यन्तरे ऽप्य् उक्तम्- "पतिवयस्य (परिवयस्याः?) स्त्रियः" इति । ज्येष्ठस्त्रीणां तु प्रत्युत्थानं मातुलाद् इव ज्येष्ठभार्याणां तूभयं दण्डापूपिकया सिद्धम् । अथ वा हेतुर् अयम् "सम्पूज्या गुरुपत्नीवत्" इति । कस्य हेतोः । "**समास् ता गुरुभार्यया**" इति । पूजाप्रकरणे च प्रत्युत्तानाभिवादनाद् अधिकम् इदम् । अन्यासां पादोपसङ्ग्रहणं पूजाहेतुः सविशेषं अभिधीयते ।
@@ -1396,6 +1396,11 @@ done of the mother’s sister, also of the wives of one’s paternal uncle.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/132_bhrAtur_bhAryopasangrAhyA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+132	(The feet of the) wife of one's brother, if she be of the same caste (varna), must be clasped every day; but (the feet of) wives of (other) paternal and maternal relatives need only be embraced on one's return from a journey.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The brother’s wife, if of the same caste, should be clasped in the feet day by day; but the wives of other paternal, maternal and other relatives should be so clasped only when one has gone on a journey.—(132)
@@ -1440,11 +1445,6 @@ mother-in-law, there should be no clasping of the feet.’
 **भ्रातुर् भार्येति **। पूजाप्रकरणात् ज्येष्ठ**भ्रातृभार्या उपसङ्ग्राह्या** पादयोः, “नाभिवाद्येह पादयोः” इति दर्शनात् । **सवर्णा** समानजातीया प्रत्यहम् । **ज्ञतयो** मातृपितृपक्षाः **सम्बन्धिनो** वैवाह्याः तद्भार्याः पुनः प्रवासप्रत्यागतेन्**ओपसङ्ग्राह्याः,** न त्व अहर् अहः ॥ २.१३२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-132	(The feet of the) wife of one's brother, if she be of the same caste (varna), must be clasped every day; but (the feet of) wives of (other) paternal and maternal relatives need only be embraced on one's return from a journey.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **ज्ञातियोषित्**सन्निधौ **भ्रातृ**शब्दो ऽयम् एकमातृकम् । सन्दर्भान्तरं दर्शयति । **भ्रातुर् भार्योपसङ्ग्राह्या** पादयोः । स्मृत्यन्तरसमाचाराभ्यां गुरुप्रकरणे ऽप्य् (?) अज्येष्ठस्य भ्रातुस् तद्विशेषणं **सर्वर्णाहन्य् अह्न्य् अपि** प्रोषितं प्रत्यागतेन च **ज्ञातिसम्बन्धियोषितस्** तु प्रोषितं प्रत्यागतेनैव प्रत्युत्थानाभिवादनं इति विकल्पकत्वान् नित्यम् ।
@@ -1462,6 +1462,11 @@ mother-in-law, there should be no clasping of the feet.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/133_pitur_bhaginyAm.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+133	Towards a sister of one's father and of one's mother, and towards one's own elder sister, one must behave as towards one's mother; (but) the mother is more venerable than they.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Towards his father’s sister, his mother’s sister, and his own elder sister, one should adopt the same behaviour as towards his mother; but the mother is more venerable than these.—(133)
@@ -1519,11 +1524,6 @@ sister also.’
 **पितुर् भगिन्याम्** इति । पितृष्वसृमातृष्वसृज्येष्ठभगिनीनां मातृवद् वर्तेत । मातृष्वसृपितृष्वस्रोः “सम्पूम्या गुरुपत्नीवत्” इत्य् अनेनैव पादोपसङ्ग्रहणादिपूजासिद्धाव् इदं वचनम् प्रियकरणादिमातृवृत्त्यतिदेशार्थम् । यथा वक्ष्यति – “तयोर् नित्यं प्रियं कुर्यात्” इति औपदेशिकातिदेशिकवृत्तिविधानेनैव च मातुः प्रकर्षसिद्धौ “माता त्व् आभ्यो गरीयसी” “पितृष्वसृमातृष्वसृज्येष्ठेति” वचनं मातृनिषिद्धस्य तत्प्रियकरणप्रतिनिषेधार्थम् ॥ २.१३३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-133	Towards a sister of one's father and of one's mother, and towards one's own elder sister, one must behave as towards one's mother; (but) the mother is more venerable than they.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 आपदि हि विद्याम् अप्रोच्यमृत्नन्य(??) प्रत्यवायो भवति । तत एतद् एवं युक्तम् अभिधानं "**विद्ययैव समं कामं मर्तव्यम्**" इति । तथा लोके "कामं विषम् अपि भक्षय मा चास्य गृहे भुङ्क्ष्व" इति । तथा च ब्राह्मणम्- "यो ह वै विद्याम् अधीत्यार्थिने न सम्प्रदद्यात् । स कार्यभा(हा)(?) स्यात् । अध्यापयेन् महद् एतद् यंस्यं(यः स??) वाचोविकारं यत् कवयो वदन्ति । अस्मिन् योगे सर्वम् इदं प्रतिष्ठितम् । य एवं विदुर् अमृतास् ते भवन्ति" इति । एवं च श्रुत्यर्थानुवादिनी स्मृतिर् इयत्नच्छैषैव (??) ।
@@ -1554,6 +1554,11 @@ _अथ पुनः स्नेहवृत्तिर् अतिदिश�
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/134_dashAbdAkhyam_paurasakhyam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+134	Fellow-citizens are called friends (and equals though one be) ten years (older than the other), men practising (the same) fine art (though one be) five years (older than the other), Srotriyas (though) three years (intervene between their ages), but blood-relations only (if the) difference of age be very small.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among citizens friendship and equality are regarded as ranging within ten years (of age-difference); among artists, it is regarded as ranging within five years; among learned men, it proceeds up to three years; and among blood-relations, it ranges only within a very short period of time.—(134)
@@ -1669,11 +1674,6 @@ his *friend*; a citizen who is senior by ten years; an artisan, who is senior by
 **दशाब्दाख्यम्** इति । एकपुरनिवासिना निर्गुणानाम् एकस्य **दशभिर् वर्षैः** ज्येष्ठे सत्य् अपि सख्यम् आख्यायते । ततश् चासौ “भो भवत् इति वयस्यः” [ग्ध् ६.१४] इत्य् एवं गौतमस्मरणाद् वाच्यः । एवं **कलाभृतां **गीतज्ञानां **पञ्चभिर् अब्दैः** सख्यम् आख्यायते वेदाध्यायिनां **त्र्यब्दपूर्वं **त्र्यब्दाधिकं त्रिवर्षज्येष्ठेन सख्यम् । ज्ञातिषु पुनर् अप्य् **अल्पेनैव **कालेन । यत्र वर्षव्यवहारो नास्ति तेन सख्यम् अन्यथा सर्वत्रात्र ज्येष्थत्वव्यवहारः ॥ २.१३४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-134	Fellow-citizens are called friends (and equals though one be) ten years (older than the other), men practising (the same) fine art (though one be) five years (older than the other), Srotriyas (though) three years (intervene between their ages), but blood-relations only (if the) difference of age be very small.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 आत्मनो दशवराधिकेन सह यद् आख्यायते तद् **दशाख्याब्दम्** । किं तत् **पौरसख्यम्** । पुरे भवः पौरः । तस्य सख्यं पौरसख्यम् । पुरग्रहणं निदर्शनार्थम् । सख्यं तु पूर्ववयाः "प्रत्युत्थायाभिवादयेत्" (म्ध् २.११९) इत्य् एतस्माच् छास्त्रात् प्रातः प्रत्युत्थानादिर् अत्र प्रतिषिध्यते । तथा च गौतमः- "भो भवन्न् इति वयस्यः" [ग्ध् ६.१४] । मित्रत्वाद् एवं वक्तव्यः । न तु मान्यः निर्गुणे चैतद् एकजातौ द्रष्टव्यम् उत्तरत्र गुणोपदेशाज् जातिस्तुतश् चेत्य् एवं कलाभृतौ इति । गुणाधिक्याद् वर्षावरः (?) । "**त्र्यब्दपूर्वं श्रोत्रियाणाम्**" इतीदं द्विजातिलिङ्गश्रोत्रियग्रहणं द्विजातिग्रहणम् उत्तरत्र च शूद्रग्रहणम् एतदर्थं लिङ्गयति । अल्पेनाप्य् अधिकस्वल्पे यो (?) निष्ठः समानयोनिष्ठश् च जातिप्रति । समानं (?) पूर्वेण
@@ -1691,6 +1691,11 @@ his *friend*; a citizen who is senior by ten years; an artisan, who is senior by
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/135_brAhmaNan_dashavarSham.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+135	Know that a Brahmana of ten years and Kshatriya of a hundred years stand to each other in the relation of father and son; but between those two the Brahmana is the father.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa or ten years and the Kṣatriya or a hundred years should be known as father and son; and of the two this Brāhmaṇa is the father.—(135)
@@ -1755,11 +1760,6 @@ Brāhmaṇa, ten years old, should he regarded as father and son; of the two, th
 **ब्राह्मणम्** इति । ब्राह्मणक्षत्रिययोः दशवर्षशतवर्षवयसयोः अभिवादनादौ पितापुत्रव्यवहारः स्यात् । तयोर् मध्यात् पुनः ब्राह्मणः पितृस्थानीयः ॥ १.१३५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-135	Know that a Brahmana of ten years and Kshatriya of a hundred years stand to each other in the relation of father and son; but between those two the Brahmana is the father.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पित्रादिषु (?) जाते ऽनुक्तत्वात् तस्य मान्यस्थानतोच्यते । एवं क्षत्रियादिष्व् अपि च द्रष्टव्यम् । वयश् च जातेः प्राधान्यवचनाद् वित्तबन्धुभ्याम् अपि तस्याः प्राधान्यम् अनुनीयते । कर्मविद्याभ्यां न जातेः प्राधान्यम् । एवं च पूर्वश्लोकः समानजातिष्व् एव द्रष्टव्यः । अतश् च तच्छेषत्वाद् उवयुत्य (भयस्य?) वित्तादिभ्यो जतेर् इहाभिधानं न तज्जातिर् एव मान्यस्थानम् । इमानि च –
@@ -1777,6 +1777,11 @@ Brāhmaṇa, ten years old, should he regarded as father and son; of the two, th
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/136_vittam_bandhur.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+136	Wealth, kindred, age, (the due performance of) rites, and, fifthly, sacred learning are titles to respect; but each later-named (cause) is more weighty (than the preceding ones).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Wealth, Relation, Age, Action and Learning, as the fifth,—these are the grounds of respect; (among them) that which follows is weightier (than that which goes before it).—(136)
@@ -1939,11 +1944,6 @@ Relationship, etc., and Wealth, in order, does a man become respected.’
 **वित्तम्** इति । धनज्ञातियवःश्रौतस्मार्तकर्माचरणविद्याः समानजातीयत्वे सति **मान्यस्थानानि** पूज्यत्वे करणीयानि । ततश् चावित्तस्य वित्तवान् मान्यः । यथैषां वित्तादीनां मध्यात् **यद् यत्** पश्चान् निर्दिष्टं तत् तत् पूर्वस्मात् पूर्वस्मात् गुरुतरम् । अतश् च वित्तवतां बन्धुमान् मान्य इत्य् अवतिष्ठते ॥ १.१३६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-136	Wealth, kindred, age, (the due performance of) rites, and, fifthly, sacred learning are titles to respect; but each later-named (cause) is more weighty (than the preceding ones).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 <u>पूजा भा मान्यस् त्रिषु त्यस्मिन्न् इति</u> (??) मान्यस्थानम् । एषां तानीमानि **मान्यस्थानानि** । एवं च **वित्ता**दीनां मान्यत्वम् अर्थाद् उक्तम् । बलाबलं वैषाम् उच्यते । गरीयो गुरुतरं द्वये द्वयोः सामान्याद् वेदितव्यम् । किं तन्मान्यस्थानम् । यद् यद् उत्तरं पूर्वस्मात् पूर्वस्मात् अर्थसिद्धम् । वीप्सा सामर्थ्याद् श्रुतापि ।
@@ -1969,6 +1969,11 @@ _एकैकगुणसंबन्धे परस्य ज्यायस�
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/137_panchAnAn_triShu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+137	Whatever man of the three (highest) castes possesses most of those five, both in number and degree, that man is worthy of honour among them; and (so is) also a Sudra who has entered the tenth (decade of his life).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among the three (higher) castes, he, in whom there are present most op these five, and of high degree, deserves (greater) respect; as also the Śūdra who has reached the tenth stage (of life).—(137)
@@ -2072,11 +2077,6 @@ present in a very large degree, the Śūdra also deserves respect, when he has r
 **पञ्चानां **इति । त्रिषु वर्णेषु ब्राह्मणादिषु यस्य हीनजातीयस्यापि पञ्चानां वित्तादीनां मध्यात् भूयांसि बहूनि त्रीणि चत्वारि पञ्च वा भवन्ति न त्व् एकं द्वे वा तानि यदि गुणवन्ति प्रकृष्टानि भवन्ति तदा स उत्कृष्टजातेर् अपि मान्यः । एवं च “ब्राह्मणं दशवर्षं तु” इत्य् एतत् निर्गुणविषये समगुणविषये वावतिष्ठते । तथा शूद्रो ऽपि नवतिहायनातीतो द्विजातीनां मान्यः । एवं च वित्तबन्धुकर्माणि द्विजातीन् प्रति शूद्रस्य मानहेतवः । विद्या तु तस्य नैवास्ति ॥ १.१३७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-137	Whatever man of the three (highest) castes possesses most of those five, both in number and degree, that man is worthy of honour among them; and (so is) also a Sudra who has entered the tenth (decade of his life).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अधिकृतानां पूर्वजाहेतूनां (?) विशेषणद्वयसम्बन्धेन स्तुत्यर्थम् इदम् आरभ्यते । **पञ्चानां** वित्तादीनां **यत्र** द्विजातौ हि (?) **भूयांसि गुणवन्ति च** । वित्तादीनि स्युर् अतः सो ऽत्र लोके चातुर्वर्ण्ये वा मानार्हतरो (?) विज्ञेयः । सामर्थ्याच् **छूद्रो ऽपि** प्रकृष्टवयः । पूर्वे वात्र [प्राग्] वैश्यो ऽपि पूर्वयोः क्षत्रियो ऽपि पूर्वस्मात् प्राग् एव समानजातिर् उत्कृष्टो वेति । "**दशमीं गतः**" इति वचनं वित्तादीनां प्रकर्षप्रदर्शनार्थं विज्ञेयम् । एवं सति **शूद्रो ऽपीति अपिर्** अयं सम्भावनायम् (?) । अन्यत् तु (?) समुच्चये । कुतः । जातेर् अत्यन्तमान्यस्थानतो ऽपि देशा ब्राह्म [३ अक्ष् मिस्स्सिन्ग्] णो दश वा दशवर्षश् चेति शूद्राभिवादप्रतिषेधाच् च "नाभिवाद्यः स विदुषा" (म्ध् २.१२६) इत्य् उक्तम् । एवं च यत् कैश्चिद् उच्यते — अनुवादो मा भूद् इति । यतो हीनजातिविषयो ऽयम् उपदेशः प्रकल्प्येत । शूद्रो ऽपि वैश्यो ऽपि क्षत्रियो ऽप्य् एवङ्गुणो मान्य इत्य् एतद् अयुक्तम् इति जातिवित्तादीनां मान्यहेतुत्वम् उपदिशेत् तद्विनाकृतानां मानैकदेशो ऽपि न प्राप्त इष्यते तान् निरस्यापि इत्य् अत इदम् आरब्यते ।
@@ -2094,6 +2094,11 @@ present in a very large degree, the Śūdra also deserves respect, when he has r
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/138_chakriNo_dashamIsthasya.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+138	Way must be made for a man in a carriage, for one who is above ninety years old, for one diseased, for the carrier of a burden, for a woman, for a Snataka, for the king, and for a bridegroom.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Way should be made for one in a chariot, for one who is in the tenth stage of life, for one suffering from disease, for one carrying a burden, for a woman, for the person who has just passed out of studentship, for the king and for the bridegroom.—(138)
@@ -2181,11 +2186,6 @@ the aged, the man with a load, the King, the Accomplished Student, a woman, the 
 **चक्रिण** इति । चक्रयुक्तगन्त्र्यादियानारूढस्य अतिवृद्धातुर**भारिकस्त्रीणां** च राजशब्दसन्निधानाच् च ब्राह्मणस्यैव कृतसमावर्तनस्नानस्य भूपतिविवाहार्थप्रस्थितयोश् च गमनोपरोधिपथो ऽपक्रामेद् इति पूजाप्रकरणात् एषाम् एतत् पूजैकदेशविधानम् ॥ १.१३८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-138	Way must be made for a man in a carriage, for one who is above ninety years old, for one diseased, for the carrier of a burden, for a woman, for a Snataka, for the king, and for a bridegroom.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 चक्रवद् यानं च कुर्वतश् चास्य (?) मञ्चवद् उपचाराच् **चक्रिणो** जात्यादिहीनस्यापि **पन्था देयश्** चक्रित्वात् । एवम् उत्तरत्रापि (?) । कुत एतत् । आरम्भसाम्यम् अर्थ्यात् (?) । **दशमीस्थस्य** अचक्रिणो ऽपि । **रोगिणः** चाचक्रिदशमीस्थस्यापि **भारिणश्** चातथाभूतस्यापि । स्त्र्याश् चासन्नप्रसवायाः अतिपरिगुदुपरि (?) सरणत्वात् अनुग्राह्या । यानस्त्रीमात्रस्य (?) रोग्यादिभिर् अनुग्राह्यैः सहोपदेशात् । **स्नातक**ग्रहणं च ब्राह्मणविषयम् एव, राजसन्निधिसामर्थ्यात् । अयं चाधिपत्यादिगुणयुक्तः पार्थिवो ऽपि क्षत्रियत्वतः (?) न क्षत्रियमात्रम् । नन्व् अत्र स्नातकग्रहणम् अनर्थकम् उक्तत्वाद् वाच्यं समानत्वाच् च रोग्यादिभिः । सत्यम् एतत् । दृष्टान्तार्थस् त्व् अयं विज्ञेयः नाप्राप्तप्रापणार्थः । कथं कृत्वा । यथा स्नातको मान्यः एवं चेद् अन्यो ऽपि यथोक्तमानार्हा तूत्तरार्थं च वक्ष्यति हि । "तेषां तु समवेतानां मान्यो स्नातकपार्थिवौ" (म्ध् २.१३९) इत्येवमादि । एवं कृत्वा राजग्रहणम् अप्य् अत्र युक्तरूपं भवति । परग्रहणं च पूर्ववद् व्याख्येयम् । तस्य च पृथक् श्रवणात् सर्वेभ्यश् चक्र्यादिभ्यः (?) प्राधान्यं निरपवादं प्रतीयते । एभ्यश् च यथामानानियमात् (?) अन्यत्र यथाकामम् । एवम् एषां चक्र्यादीनां मान्यसकाशान् मान्यत्वं नियोगत उपपाद्य तद्विशेषविवक्षयेदम् (?) अधुना प्रारभ्यते ।
@@ -2203,6 +2203,11 @@ the aged, the man with a load, the King, the Accomplished Student, a woman, the 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/139_teShAn_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+139	Among all those, if they meet (at one time), a Snataka and the king must be (most) honoured; and if the king and a Snataka (meet), the latter receives respect from the king.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among these, when they come together, the man who has just passed his studentship and the King deserve to be honoured; and between the person just passed his studentship and the King, the person just passed his studentship receives the respects op the King.—(139)
@@ -2247,11 +2252,6 @@ See Comparative notes for [Verse 2.138].
 <details><summary>गोविन्दराजः</summary>
 
 **तेषाम्** इति । **तेषां तु** पुनः चक्रादीनाम् एकवर्त्मनि वर्तिनां चक्रादिभिः प्रकृतेन पथो दानेन **राजस्नातकौ मान्यौ** । राजस्नातकयोः एकवर्त्मनि वर्तिनोः **स्नातको मानं** भजते ॥ १.१३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-139	Among all those, if they meet (at one time), a Snataka and the king must be (most) honoured; and if the king and a Snataka (meet), the latter receives respect from the king.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -25,6 +25,12 @@ title = "१६ वेतनादान-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/16_vetanAdAna-prakaraNam/193_gRhItavetanaH_karma.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A labourer who has received wages and abandons the work shall pay double;  
+if wages have not been received, he should be made to pay an equal amount; tools must be preserved by the servants.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृहीत-वेतनः कर्म  
@@ -136,6 +142,12 @@ _परिभाषाप्रसङ्गेन स्वामिकर्म
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/16_vetanAdAna-prakaraNam/194_dApyas_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who has work done without fixing the wages, however,  
+should be made by the ruler of the earth to pay a tenth share of the trade, livestock, or grain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दाप्यस् तु दशमं भागं  
@@ -206,6 +218,12 @@ _अपरिभाष्य वेतनं कर्मणि कृते य
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/16_vetanAdAna-prakaraNam/195_desha~N_kAla~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For one who exceeds the place or time, or who realizes a different profit,  
+the decision rests with the master; more is to be given if more work has been done.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशं कालं च यो ऽतीयाल्  
@@ -258,6 +276,12 @@ _यथा स्वामिना निर्दिष्टः कर्म�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/16_vetanAdAna-prakaraNam/196_yo_yAvat.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+However much work a person does, that much shall be his wages;  
+if an undertaking proves impossible for both, he should do as agreed when it is achievable.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो यावत् कुरुते कर्म  
@@ -310,6 +334,12 @@ _असमाप्तकर्मत्यागे तु वेतनहा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/16_vetanAdAna-prakaraNam/197_arAjadaivikan_naShTaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A carrier must pay for goods lost through reasons other than the king or an act of God;  
+and one who obstructs the departure must be made to pay double the wages.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अराज-दैविकं नष्टं  
@@ -373,6 +403,12 @@ _शाठ्येनैव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/16_vetanAdAna-prakaraNam/198_prakrAnte_saptamam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who abandons [goods] at the start [shall pay] a seventh part, one-fourth along the way,  
+and all the wages at midway; a master who dismisses [a carrier midway] must likewise be made to pay.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रक्रान्ते सप्तमं भागं  

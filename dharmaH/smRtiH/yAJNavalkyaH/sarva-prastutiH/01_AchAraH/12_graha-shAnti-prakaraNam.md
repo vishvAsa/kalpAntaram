@@ -12,6 +12,12 @@ title = "१२ ग्रह-शान्ति-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/12_graha-shAnti-prakaraNam/295_shrIkAmaH_shAntikAmo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who desires prosperity, or one who desires pacification, should perform a sacrifice to the planets,  
+or one who desires rain, longevity, or nourishment, or even one performing an incantation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्री-कामः शान्ति-कामो वा  
@@ -63,6 +69,12 @@ _ग्रहानां कर्माविघ्नसिद्ध्यर
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/12_graha-shAnti-prakaraNam/296_sUryaH_somo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Sun, the Moon, the Son of the Earth, the Son of the Moon, Bṛhaspati,  
+Venus, Saturn, Rāhu, and Ketu—these are known as the planets.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सूर्यः सोमो मही-पुत्रः  
@@ -113,6 +125,12 @@ _के पुनर् अमी ग्रहा नाम ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/12_graha-shAnti-prakaraNam/297_tAmrakAt_sphaTikAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From copper, crystal, red sandalwood, gold—both [the next two]—,  
+silver, iron, lead, and bronze, the planets should be made in order;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ताम्रकात् स्फटिकाद् रक्त-  
@@ -194,6 +212,12 @@ _किम् एते गगनस्थाः पूज्यन्ते ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/12_graha-shAnti-prakaraNam/298_svavarNair_vA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or they should be drawn on cloth with their respective colours, or with perfumes in circular diagrams;  
+clothing and flowers are to be given corresponding to their colours,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्व-वर्णैर् वा पटे लेख्या  
@@ -388,6 +412,12 @@ _सर्वकल्पेष्व् एव ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/12_graha-shAnti-prakaraNam/299_gandhAsh_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+And perfumes, offerings, incense, and bdellium are to be given;  
+and sacrificial porridge endowed with mantras is to be prepared for each deity.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गन्धाश् च बलयश् चैव  
@@ -433,6 +463,12 @@ _सर्वेषां चादित्यादीनां ग्रह�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/12_graha-shAnti-prakaraNam/300_AkRShNena_iman.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘Ā kṛṣṇena’, ‘Imaṃ devāḥ’, ‘Agnir mūrdhā divaḥ kakut’,  
+and ‘Udbudhyasva’ are proclaimed as the verses in respective order;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आकृष्णेन इमं देवा  
@@ -489,6 +525,12 @@ _अमी तु सर्वार्था प्रधानमन्त्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/12_graha-shAnti-prakaraNam/301_bRhaspate.ati.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘Bṛhaspate ati yad aryaḥ’, and likewise ‘Annāt parisrutaḥ’,  
+‘Śaṃ no devīḥ’, and ‘Kāṇḍāt’, and then ‘Ketuṃ kṛṇvan’—these [verses].
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृहस्पते ऽति यद् अर्यस्  
@@ -509,6 +551,12 @@ _अमी तु सर्वार्था प्रधानमन्त्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/12_graha-shAnti-prakaraNam/302_arkaH_palAshaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Arka, palāśa, khadira, and apāmārga, then pippala,  
+udumbara, śamī, dūrvā, and kuśa are the firewood sticks in order.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अर्कः पलाशः खदिर  
@@ -568,6 +616,12 @@ _पाकयज्ञसामान्येन च यज्ञवृक्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/12_graha-shAnti-prakaraNam/303_ekaikasya_tv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For each one, one hundred and eight, or indeed twenty-eight,  
+should be offered, mixed with honey and clarified butter, or curd, or milk.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एकैकस्य त्व् अष्ट-शतम्  
@@ -612,6 +666,12 @@ _इदानीं संख्याविशेषार्थम् आह �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/12_graha-shAnti-prakaraNam/304_guDaudanam_pAyasa~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Jaggery-rice, rice-milk pudding, sacrificial food, milk rice from sixty-day grain,  
+curd-rice, clarified butter, meal, meat, and variegated food—
+</details>
+
 <details><summary>मूलम्</summary>
 
 गुडौदनं पायसं च  
@@ -672,6 +732,12 @@ _पक्षद्वये ऽपि तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/12_graha-shAnti-prakaraNam/305_dadyAd_grahakramAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A wise man should thus give food to the twice-born in the order of the planets,  
+or according to his ability, as available, honouring them according to the rule.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दद्याद् ग्रह-क्रमाद् एवं  
@@ -692,6 +758,12 @@ _पक्षद्वये ऽपि तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/12_graha-shAnti-prakaraNam/306_dhenuH_shankhas.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A milch cow, a conch shell, an ox, gold, cloth, a horse in order,  
+a black cow, iron, and a goat—these are indeed remembered as the sacrificial gifts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धेनुः शङ्खस् तथा ऽनड्वान्  
@@ -758,6 +830,12 @@ _एवं ब्राह्मणान् भोजयित्वा ते�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/12_graha-shAnti-prakaraNam/307_yash_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+And whichever [planet] is ill-placed for anyone at any time, he should worship that one with effort;  
+for a boon was given to them by Brahmā: ‘Worshipped, you will bring honour.’
+</details>
+
 <details><summary>मूलम्</summary>
 
 यश् च यस्य यदा दुःस्थः  
@@ -815,6 +893,12 @@ _कस्मात् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/12_graha-shAnti-prakaraNam/308_grahAdhInA_narendrANAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Subject to the planets are the rises and falls of kings  
+and the existence and non-existence of the world; therefore, the planets are most worthy of worship.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्रहाधीना नरेन्द्राणाम्  
@@ -881,6 +965,12 @@ _भूयश् च ग्रहाणां प्रत्येकं सं
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/12_graha-shAnti-prakaraNam/309-1_grahANAm_idam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should offer this hospitality to the planets even once a year;  
+endowed with health and strength, he would live for a hundred autumns.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्रहाणाम् इदम् आतिथ्यं  

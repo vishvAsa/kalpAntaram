@@ -38,6 +38,11 @@ title = "०१ गृहस्थाश्रमप्रवेशः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/001_ShaTtriMshad-Abdika~n_charyam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+001	The vow (of studying) the three Vedas under a teacher must be kept for thirty-six years, or for half that time, or for a quarter, or until the (student) has perfectly learnt them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Duties relating to the Three Vedas should be observed under the Preceptor for thirty-six years, or for half that period, or for a quarter, or precisely till they have been got up.—(1)
@@ -350,11 +355,6 @@ according to some, for 12 years.’
 > अत्र चाथर्ववेदस्य “नेता एते अथर्वाङ्गिरसी” इत्यादिश्रुतेः, “श्रुतीर् अथर्वाङ्गिरसीः” इत्यादिस्मृतेश् च दृष्टव्यवहारे च इतरवेदवत् निरुपपदवेदशब्दप्रोयोगात् “अङ्गानि वेदाश् चत्वार” इति धर्मः (धर्मस्थानत्वस्य) तेष्व् अपि चतुर्षु व्यवहारात् सत्य् अपि वेदत्वे शान्त्यादिप्रयोजनत्वेन प्रायेण दृष्टार्थत्वात् “ऋग्वेदेनैव हौत्रम् अकुर्वत यजुर्वेदेनाध्वर्यवं सामवेदेनोद्गीथं यद् एव त्रय्यै विद्यायै संश्लेषं तेन ब्र्ह्मत्वम्” इति श्रुतेः त्रय्यैव क्रियापरिसमाप्तेः ग्रहणम् । “वेदः कृत्स्नो ऽधिगन्तव्यः” इति एकशाखाध्ययनेनैव स्वाध्यायनिवृत्तौ पुण्यातिशयापेक्षया ॥ ३.१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-001	The vow (of studying) the three Vedas under a teacher must be kept for thirty-six years, or for half that time, or for a quarter, or until the (student) has perfectly learnt them.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **षट्त्रिंशद्** इति द्वन्द्वः । षट्त्रिंशताम् अब्दानां समाहारः षट्त्रिंशदब्दम् । द्विगुर् अयं समाहारार्थो वेदितव्यः । षट्त्रिंशदब्दे भवत् **षट्त्रिशदब्दिकं** तद्व्रतं **चर्यं** चरितव्यम् । क्व । **गुरौ** । कर्मकवेदाध्ययनं नायं (?) किं तर्हि । **त्रैवेदिकम्** । त्रयाणां वेदानां समाहारस् त्रिवेदः । तत्र भवं **त्रैवेदिकम्** । एवं च प्रतिवेदं द्वादशाब्दानि भवन्ति, उपदेशसामर्थ्यान् नित्यम् एव । तस्मिन् ब्रह्मचर्यकाले प्राप्त अध्येतृसामर्थ्यापेक्षया तत्कालविकल्पार्थम् इदं प्रक्रम्यते । **तदर्धम्** अष्टादशानि भवन्ति । प्रतिवेदं विभागो द्रष्टव्यः । **पादिकं वा ग्रहणान्तिकं वेति** । अब्दं प्रत्यवधारणं द्रष्टव्यम् । "**चर्यं गुरौ त्रैवेदिकं व्रतम्**" इति समानं पूर्वेण । अथ कस्माद् अथर्ववेदः पर्युदस्तः । तस्यर्ग्वेदाविशेषात् । तद्विभागश् च शान्त्यादिप्रयोजनः । अथ वा त्रय्यैव क्रियापरिसमाप्तेः । तथा च श्रुतिः, यद् "ऋग्वेदेनैव हौत्रं कुर्वीत यजुर्वेद्नाध्वर्यवं सामवेदेनोत्गीथं यद् एव त्रय्यै विद्यायै सूक्तं तेन (?) ब्रह्मत्वम्" इति । यतो ब्रह्मत्वे ऽप्य् अथर्वेवेदस्याव्यापारः त्रिवेदसंयोगाच् च ब्रह्मत्वश्रुतेः "तद् वा यद् ऋचा होत्रा श्रावयति यजुषाध्वर्यवं साम्नोद्गिथम् अथ केन ब्रह्मत्वम् इति प्रणेतर्या विद्यया" इति प्रतिवचनोपपत्तेः । तस्मात् पर्युदस्ताद् अपि (?) कर्मनो ऽथर्ववेदः । तथा च कात्यायनः "त्रिवेदसंयोगाद् एव ब्रह्मत्वम्" आह । ब्रह्मप्रकरणे च श्रुतिः प्रतिषेधं करोति "तस्माद् आथर्वणेन न सम्प्रपश्यात्" इति त्रयाणां च वेदानां वेदशब्देन सर्वत्र श्रुतिष्व् अभिधानात् । तर्हि ऋग्वेदात् "भुव" इति, यजुर्वेदात् "स्वः" इति, सामवेदाङ्गत्वेनाथर्ववेदस्य कुतश्चिद् विभागम् आह "त्रयीं विद्याच् च सामानि यजूंषि थथा ऋचः । यजूंषि सामानीत्य् अष्टाक्षरानि" इति । तथा च "तेभ्यो हि तृप्तेभ्यस् त्रयो (?) वेदा अन्वसृज्यन्त ऋग्वेद एवाङ्गैर् अजायत यजुर्वेदो वायोः सामवेद आदित्याद् इति । तत्व (?) वाथर्ववेदं कुतश्चिद् आह । तस्मात् **[१०६]** त्रयाणाम् एव वेदत्वात् । त्रिवेदब्रह्मचर्यम् एवेहोच्यते । तथा तर्ह्य् आथर्वणे वेदशब्द इतिहासपुराणायुर्वेदवद् इति । अथ कथम् इदं गृह्यशास्त्रम् "अयं चत्वारिंशद् वर्षाणि वेदब्रह्मचर्यं चरेत्" इति, "षोडश षोडश भविष्यन्ति" इति, प्रतिवेदम् एवं च न चतुःसङ्ख्यानुग्रहः कुतो भवति । न च तत्र चतुर्ग्रहणम् अस्ति, यतस् त्रैवेदिकम् एतत् ब्रह्मचर्यम् । प्रतिवेदं षोडशाब्दो विभागेन एवं कृत्वा द्वितीयम् इदं गृह्यकारस् तं (?) तद् वैकल्पिकं भवति द्वादश् द्वादश वा प्रतिवेदम् एतच् चैवं समर्थं भवति यथावोचामो वयम् (?) । इतरथा पुऋवशास्त्रं मनुनारम्भसमं प्राप्नोति यतो युक्त इह त्रैवेदिब्रह्मचर्योपदेशः । अपि चेयम् ऋक् अष्टचत्वारिंशता वर्षाणि वेदब्रह्मचर्यं चरेद् इति स्मृतिः । कृष्णकेशविरोधान् मीषां (?) स तैर् अस्मृतिः । कल्पितात् तव (?) । इदानीम् अनेन शास्त्रेण नियमतस् त्रिवेदाध्ययने प्राप्त इदम् उच्यते ।
@@ -372,6 +372,11 @@ according to some, for 12 years.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/002_vedAn_adhItya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+002	(A student) who has studied in due order the three Vedas, or two, or even one only, without breaking the (rules of) studentship, shall enter the order of householders.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having learnt, in due course, three Vedas, or two Vedas, or one Veda, he should enter upon the state of the householder, having never deviated from the vows of studentship.—(2).
@@ -489,11 +494,6 @@ he shall marry a girl endowed with good qualities.’
 **वेदान्** इति । शाखात्रयं द्वयं चैकां वा स्वशाखापूर्वक्रमेण मन्त्रब्राह्मणपौर्वापर्यस्थितिक्रमेण **चाधीत्य **अखण्डित**ब्रह्मचर्यो **ऽसञ्जातस्त्रीसम्प्रयोगः गार्हस्थ्यं प्रतिपद्यते ॥ ३.२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-002	(A student) who has studied in due order the three Vedas, or two, or even one only, without breaking the (rules of) studentship, shall enter the order of householders.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अत्र वेदलक्षणस्याग्निहोत्रादेः प्रतिशाखभेदेनावस्थानात् तन्निमित्तो ऽपि वेदशब्दो न प्रतिशाखम् अवतिष्ठते गुणतस् तत्समूहे । अतो ऽन्यतमाम् अपि वेदशाखाम् (?) अधीत्य स्नानम् अस्य् अस्याद् अनेन शास्त्रेण, न स्वर्या (?) एव । ये तु सर्ववेदशाखावस्थितं वेदशब्दं मन्यन्ते तेषाम् अशक्यार्थविधान्नोपदेशानर्थक्यम् एकस्मिन्न् एव तावद् वेदे, किं पुनस् त्रिषु । एवं च "वेदः कृत्स्नो ऽधिगन्तव्यः" (म्ध् २.१६५) इत्य् अत्र कृत्स्नग्रहणं यथोक्तं विज्ञेयम्, न तु शाखासमूहविषयं वा समानत्वात् । पूर्वेण सामर्थ्यापेक्षया च प्रयत्नविशेषात् फलविशेषेण भवितव्यम् । द्वित्रिवेदाध्येतुर् एकवेदाध्येतुः सकाशाद् ऋग्वेदप्रक्रमत्वाद् वेदानां तत्क्रमेण यथाव्रतं वा यथाचारं यथाभिजनवेत्राविप्लुतब्रह्मचर्यो गृहथाश्रमी स्याद् आभार्योपगमकालात् । एवं च तदतिक्रम उपपातकप्रायश्चित्तेनाधिक्रियते । "**गृहस्थाश्रमम् आवसेत्**" इति गृहस्थाश्रमप्रतिपत्तिचोदनाइषा । एवं च वाक्यद्वयम् अत्रार्थबेदाद् विज्ञेयम् । तत् प्रत्युच्यते (?) । **वेदं वेदौ वेदान् अधीत्य** यथासामर्थ्यम् । गृहस्थाश्रमम् आवसेद् अविप्लुतब्रह्मचर्यश् चेत्य् एवं च ब्रह्मचर्येणाधिगतवेदशास्त्रं गृहस्थाश्रमं प्रति विवित्सुं स्नोनोतरकालम् (स्नानोत्तरकालम्?) ।
@@ -511,6 +511,11 @@ he shall marry a girl endowed with good qualities.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/003_haram_pituH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+003	He who is famous for (the strict performance of) his duties and has received his heritage, the Veda, from his father, shall be honoured, sitting on a couch and adorned with a garland, with (the present of) a cow (and the honey-mixture).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When, by the due observance of his duties, he has acquired the Veda and his heritage from his father, and is so inclined,—his father shall first honour him, adorned with garlands and seated upon a couch, with the “Cow.”—(3)
@@ -622,11 +627,6 @@ Cow-honey-mixture;—as also the Ācārya, the Priest, the Accomplished Student,
 **तम्** इति । **तं** कृतब्रह्मचर्यं ब्रह्मचर्यावस्थानोदितधर्मानुष्ठानानुशयेन प्रतिख्यातं “तस्मात् पुत्रम् अनुशिष्टं लोक्यम् आहुः” इति श्रुत्या **पितुः** प्रथमकल्पिकत्वात् पितुः सकाशात् तदभाव आचार्य अधीतवेदं कृतमाल्याद्यलङ्कारं परार्घ्यशयनोपविष्टं पिता तदभावे आचार्यादिः गृह्योक्तस्वरूपगोसाधनकमधुपर्काख्यकर्मणा गार्हपथ्यप्रतिपत्तेः प्राक् पूजयेत् । दियते इति दायः, ब्रह्मैव दायो ब्रह्मदायः, तं हरतीति **ब्रह्मदायहरति **॥ ३.३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-003	He who is famous for (the strict performance of) his duties and has received his heritage, the Veda, from his father, shall be honoured, sitting on a couch and adorned with a garland, with (the present of) a cow (and the honey-mixture).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 स्नातकस्यैतद् (?) यस्यार्हतोच्यते (?) । **तम्** अधिकृतं स्नातकम् । **प्रतिर्** आभिमुख्ये । इतं गतं गृहस्थाश्रमम् अभिमुखीभूतम् । कथम् । **स्वधर्मेण** । पूर्वोत्तरविसेषणार्थम् इदं स्वधर्मग्रहणम् । दीयत इति **दायः** । ब्रह्मणो दायो **ब्रह्मदायः** । तं हरतीति **ब्रह्मदायहरम्** । **पितुः** सकाशाद् अधिगतवेदम् इत्य् अर्थः । एवं च सत्य् एषः प्रथमः कल्पः । यत् पिता पुत्रम् अध्यापयेत् । तथा च ब्राह्मणम् "तस्मात् **[१०७]** पुत्रम् अनुशिष्टं लोक्यम् आहुः" इति । एवम् इत्य् अस्याप्य् अयम् एव न्यायः । स्रग् अस्यास्तीति **स्रग्वी** । स्रग्ग्रहणं च सर्वालङ्कारप्रदर्शनार्थम् । तथा च गृह्यकारस् तान् आह इत्थम् "भूतं चैनं तल्प आसीनं स्वस्त्रीर् न (?) शयनोपविष्टं तु पूजयेत्" । कः । अधिकृतः पिता । प्राथमिककल्पित (?) आचार्यः प्रथमं वृतः (?) । "गृहस्थाश्रमम् आवसेत्" इत्य् अतो ऽधिकृतान् कर्मणः । केन । **गवा** । गोप्रदानेन तद्ग्रहणेन प्रधानकर्मोपदिशति मधुपर्काख्यं पूजासाधनम् इति । एवं च ।
@@ -644,6 +644,11 @@ Cow-honey-mixture;—as also the Ācārya, the Priest, the Accomplished Student,
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/004_guruNAnumataH_snAtvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+004	Having bathed, with the permission of his teacher, and performed according to the rule the Samavartana (the rite on returning home), a twice-born man shall marry a wife of equal caste who is endowed with auspicious (bodily) marks.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born person, having, on being permitted by the Preceptor, “bathed” and “returned” according to rule, shall take a wife of the same caste as himself, who is endowed with signs.—(4).
@@ -782,11 +787,6 @@ Veda both verbally and intelligently, he shall marry a girl endowed with good qu
 <details><summary>गोविन्दराजः</summary>
 
 **गुरुणेति** । गुर्वनुज्ञातः गृह्यशास्त्रविध्यनतिक्रमेण कृतगृह्योक्तस्वरूपस्नानसमावर्तनाख्यकर्म **द्विजः** समानजातीयां प्रशस्तलक्षणां **भार्याम्** उपयछेत् ॥ ३.४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-004	Having bathed, with the permission of his teacher, and performed according to the rule the Samavartana (the rite on returning home), a twice-born man shall marry a wife of equal caste who is endowed with auspicious (bodily) marks.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -26,6 +26,12 @@ title = "०१ साधारण-व्यवहार-मातृका-प�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/01_sAdhAraNa-vyavahAra-mAtRkA-prakaraNam/001_vyavahArAn_nRpaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The king should examine legal disputes together with learned Brahmins,  
+in accordance with the treatise on duty, free from anger and greed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्यवहारान् नृपः पश्येद्  
@@ -250,6 +256,12 @@ _श्रियः समुदयं प्राप्तुम् इच्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/01_sAdhAraNa-vyavahAra-mAtRkA-prakaraNam/002_shrutAdhyayanasampannA_dharmajnAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those accomplished in sacred learning and study, knowers of duty, speakers of truth,  
+and impartial toward foe and friend, should be appointed by the king as court assessors.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रुताध्ययनसम्पन्ना  
@@ -378,6 +390,12 @@ _यतश् च धर्मशास्त्रप्राधान्य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/01_sAdhAraNa-vyavahAra-mAtRkA-prakaraNam/003_apashyatA_kAryavashAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If, however, the king cannot examine legal disputes owing to other affairs,  
+he should appoint a Brahmin who knows all duty, along with the assessors.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपश्यता कार्यवशाद्  
@@ -468,6 +486,12 @@ _दृष्टमूलत्वाच् च राज्ञः स्वय�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/01_sAdhAraNa-vyavahAra-mAtRkA-prakaraNam/004_rAgAl_lobhAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If assessors act against traditional law through partiality, greed, or fear,  
+they are each to be punished separately with a fine twice the value of the legal dispute.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रागाल् लोभाद् भयाद् वापि  
@@ -598,6 +622,12 @@ _अत एव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/01_sAdhAraNa-vyavahAra-mAtRkA-prakaraNam/005_smRtyAchAravyapetena_mArgeNAdharShitaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a person aggrieved by others in a manner contrary to traditional law and custom  
+reports it to the king, that constitutes a cause for legal procedure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्मृत्याचारव्यपेतेन  
@@ -857,6 +887,12 @@ _<u>अथ किं</u> राज्ञा स्वपुरुषैर् �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/01_sAdhAraNa-vyavahAra-mAtRkA-prakaraNam/006_pratyarthino.agrato.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the presence of the defendant, the claim made by the plaintiff should be recorded,  
+marked by year, month, fortnight, day, name, caste, and so forth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रत्यर्थिनो ऽग्रतो लेख्यं  
@@ -1104,6 +1140,12 @@ _एवं चार्थिभिर् आवेदिते निर्व�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/01_sAdhAraNa-vyavahAra-mAtRkA-prakaraNam/007_shrutArthasyottaraM_lekhyaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Once he has heard the matter, the answer [of the defendant] should be recorded in the presence of the complainant;  
+thereupon the plaintiff must immediately cause the proof of the matter asserted to be recorded.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रुतार्थस्योत्तरं लेख्यं  
@@ -1400,6 +1442,12 @@ _यतश् चैवम् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/01_sAdhAraNa-vyavahAra-mAtRkA-prakaraNam/008_tatsiddhau_siddhim.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If that is established, he achieves success; if otherwise, the reverse.  
+This legal procedure is declared to consist of four feet in legal disputes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्-सिद्धौ सिद्धिम् आप्नोति  

@@ -25,6 +25,12 @@ title = "०८ द्रव्य-शुद्धि-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/182_sauvarNarAjatAbjAnAm_UrdhvapAtragrahAshmanAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vessels of gold, silver, or conch-shell, upright wooden cups, planetary ladles, stone vessels,  
+vegetables, ropes, roots, fruits, garments, split bamboo, and hides;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सौवर्ण-राजताब्जानाम्  
@@ -258,6 +264,12 @@ _<u>ननु</u> एवं मांसभक्षणविधानम् अ
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/183_pAtrANA~n_chamasAnA~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Dishes and goblets—their purification is held to be by water;  
+cooking pots, sacrificial ladles, spoons, and vessels containing oil or clarified butter, with hot water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पात्राणां चमसानां च  
@@ -291,6 +303,12 @@ _एवम् एषां सोमेष्टिलौकिकानां �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/184_sphyashUrpAjinadhAnyAnAM_musalolUkhalAnasAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrificial wooden sword, winnowing baskets, animal skins, grain,  
+pestles, mortars, and carts are purified by sprinkling, as are large heaps of grain and cloth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्फ्य-शूर्पाजिन-धान्यानां  
@@ -382,6 +400,12 @@ _स्पर्शनमात्रोपघाते निर्लेपा
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/185_taxaNan_dArushRngAsthnAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Chiselling is the purification for wood, horns, and bones; with cow hair for products of fruits;  
+wiping with the hand during sacrificial performance for sacrificial vessels.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तक्षणं दारु-शृङ्गास्थ्नां  
@@ -450,6 +474,12 @@ _अल्पोपघात उक्तम् । महति पुनः �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/186_soSharodakagomUtraiH_shudhyaty.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Woollen and silk cloth is purified with saline water and cow urine;  
+bark-cloth with bel fruit, and mountain-wool cloth with soap-berries.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोषरोदक-गो-मूत्रैः  
@@ -560,6 +590,12 @@ _उपघातातिरेक एवम् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/187_sagaurasarShapaiH_xaumaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Linen [is purified] with white mustard; earthenware through refiring.  
+An artisan's hand is pure, as is merchandise, alms, and a woman's mouth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स-गौर-सर्षपैः क्षौमं  
@@ -668,6 +704,12 @@ _सर्वदैवोपहतप्रायत्वे ऽपि ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/188_bhUshuddhir_mArjanAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The purification of the ground [is accomplished] by sweeping, by burning, by time, and by the treading of cows,  
+by sprinkling, by scraping, and by smearing; a house [is purified] by sweeping and smearing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भू-शुद्धिर् मार्जनाद् दाहात्  
@@ -792,6 +834,12 @@ _यथास्थानं तु दोषविशेषात् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/189_goghrAte.anne.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When food has been sniffed by a cow, or spoiled by hair, flies, or insects,  
+water, ashes, or earth should be thrown into it for its purification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गो-घ्राते ऽन्ने तथा केश-  
@@ -894,6 +942,12 @@ _अनभ्यवहार्य उक्तम् । अभ्यवहा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/190_trapusIsakatAmrANAM_xArAmlodakavAribhiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The purification of tin, lead, and copper is by alkaline water, sour liquids, and water;  
+of bell-metal and iron, by ashes and water; and of a liquid, by overflowing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रपु-सीसक-ताम्राणां  
@@ -1038,6 +1092,12 @@ _अन्नाधिकारात् तदुच्छिष्टलेप
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/191_amedhyAktasya_mRttoyaiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The purification of what is smeared with impure matter is by earth and water, until smell and the rest are removed.  
+What is praised by speech, washed with water, and unknown [to be impure] is always pure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अमेध्याक्तस्य मृत्-तोयैः  
@@ -1187,6 +1247,12 @@ _एवम् आपः शुद्धिकारणत्वेनोक्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/192_shuchi_gotRptikRt.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Pure is water that satisfies a cow, is in its natural state, and is on the ground;  
+likewise, meat felled by dogs, Cāṇḍālas, carnivorous beasts, and the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शुचि गो-तृप्ति-कृत् तोयं  
@@ -1329,6 +1395,12 @@ _एवम् आपः शुद्धिकारणत्वेनोक्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/193_rashmir_agnI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sunlight, fire, dust, shade, a cow, a horse, earth, wind,  
+drops [of saliva], and flies are pure to the touch; a calf [is pure] during lactation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रश्मिर् अग्नी रजश्-छाया  
@@ -1468,6 +1540,12 @@ _यथा चोपघाताशङ्कायाम् अप्य् उ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/194_ajAshvayor_mukham.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The mouth of a goat and of a horse is pure, but not that of a cow, nor are excretions born of humans.  
+Roads are purified by the rays of the moon and sun and by the wind.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अजाश्वयोर् मुखं मेध्यं  
@@ -1535,6 +1613,12 @@ _<u>ननु</u> गवाश्वयोर् मेध्यत्ववच�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/195_mukhajA_vipruSho.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Drops issuing from the mouth are pure, as are drops from sipping water for purification;  
+and having discarded facial hair that entered the mouth or [food] stuck in the teeth, one is then pure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मुखजा विप्रुषो मेध्यास्  
@@ -1629,6 +1713,12 @@ _अमेध्यत्वशङ्कायाम् अपि हि ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/196_snAtvA_pItvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having bathed, drunk, sneezed, slept, eaten, or walked along a road,  
+and having changed one's garment, one who has sipped water for purification should sip water for purification again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्नात्वा पीत्वा क्षुते सुप्ते  
@@ -1829,6 +1919,12 @@ _पूर्वस्माद् एवाचमनाच् छिद्द�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/08_dravya-shuddhi-prakaraNam/197_rathyAkardamatoyAni_spRShTAny.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Road mud and water touched by outcastes, dogs, and crows,  
+and structures built of baked bricks, are purified by the wind alone.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रथ्या-कर्दम-तोयानि  

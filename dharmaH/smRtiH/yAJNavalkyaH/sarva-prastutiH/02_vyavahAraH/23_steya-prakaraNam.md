@@ -28,6 +28,12 @@ title = "२३ स्तेय-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/266_grAhakair_gRhyate.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A thief is caught by captors by means of the stolen goods or footprints,  
+or by previous criminal history, and likewise by questionable lodging.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्राहकैर् गृह्यते चौरो  
@@ -82,6 +88,12 @@ _यदि पुनः प्रत्येकं प्रतिग्रह�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/267_anye.api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Others also are to be seized on suspicion: those who conceal their social class, name, and the like;  
+those addicted to gambling, women, and drinking; and those whose mouths and voices are dry and faltering;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्ये ऽपि शङ्कया ग्राह्या  
@@ -146,6 +158,12 @@ _लोप्त्रादिवच् च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/268_paradravyagRhANA~n_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+and those who inquire into the property and houses of others; those who move secretly;  
+those who have expenses without income; and those selling stolen property.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पर-द्रव्य-गृहाणां च  
@@ -233,6 +251,12 @@ _लोप्त्रादिवच् च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/269_gRhItaH_shankayA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If one seized on suspicion of theft does not clear himself,  
+[the king], having made him restore the stolen property, should punish him with the punishment for a thief.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृहीतः शङ्कया चौर्ये  
@@ -291,6 +315,12 @@ _उक्तन्यायानुसारेण च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/270_chauram_pradApyApahRtaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having made the thief return what was stolen, he should have him executed by various methods of execution;  
+but marking a Brahmin with an indelible sign, he should banish him from his kingdom.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चौरं प्रदाप्यापहृतं  
@@ -410,6 +440,12 @@ _एवम् अब्राह्मणम् । ब्राह्मणं 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/271_ghAtite.apahRte.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a person is killed or property stolen, the fault lies on the headman of the village if it has not left [the village];  
+on the master of the pasture on a road; and on the police officer outside the pasture.
+</details>
+
 <details><summary>मूलम्</summary>
 
 घातिते ऽपहृते दोषो  
@@ -512,6 +548,12 @@ _प्रयत्नेनान्विष्यमाणघातकचो�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/272_svasInni_dadyAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The village must pay [if the crime occurs] within its own boundary, or whither the footprints lead;  
+or a cluster of five villages, or a cluster of ten villages, if beyond a krośa.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्व-सीन्नि दद्याद् ग्रामस् तु  
@@ -569,6 +611,12 @@ _असंनिहिते तु ग्रामभर्तरि ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/273_bandigrAhAMs_tathA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who take captives, and likewise those who steal horses and elephants,  
+and those who kill by violent assault, he should impale on stakes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बन्दि-ग्राहांस् तथा वाजि-  
@@ -656,6 +704,12 @@ _द्रव्यादिविशेषापेक्षया तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/274_utxepakagranthibhedau_karasandaMshahInakau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Pickpockets and cutpurses should be made to lose their thumb and forefinger;  
+on a second offence, they should be made to lose a hand and a foot.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उत्क्षेपक-ग्रन्थि-भेदौ  
@@ -721,6 +775,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/275_xudramadhyamahAdravya_haraNe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the case of stealing small, middling, or valuable property, the fine is according to the value;  
+the place, time, age, and ability are to be considered in inflicting punishment.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षुद्र-मध्य-महा-द्रव्य-  
@@ -950,6 +1010,12 @@ _यश् चायम् उक्तः शारीरो दण्डः, �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/276_bhaktAvakAshAgnyudaka_mantropakaraNavyayAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For knowingly providing a thief or a murderer with food, shelter, fire,  
+water, counsel, implements, and funds, the fine is the highest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भक्तावकाशाग्न्य्-उदक-  
@@ -1032,6 +1098,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/277_shastrAvapAte_garbhasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For striking with a weapon, and for causing an abortion, the highest fine [is imposed];  
+and the highest or lowest [fine] in the case of killing a man or a woman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शस्त्रावपाते गर्भस्य  
@@ -1124,6 +1196,12 @@ _स्त्रीष्व् अदुष्टासु चोरयित�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/278_vipraduShTAM_striya~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A woman who is exceedingly wicked, who has killed a man, and is not pregnant,  
+and who destroys a dike, he should cause to be submerged in water after tying a stone [to her].
+</details>
+
 <details><summary>मूलम्</summary>
 
 विप्रदुष्टां स्त्रियं चैव  
@@ -1181,6 +1259,12 @@ _स्तेयव्यतिरेकेणापि तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/279_viShAgnidAm_patiguru.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A woman who gives poison, sets fire, or kills her husband, elders, or own offspring,  
+having cut off her ears, hands, nose, and lips, he should cause to be trampled to death by bulls.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विषाग्निदां पति-गुरु-  
@@ -1235,6 +1319,12 @@ _भर्त्रादीनां तु विषप्रदानाद�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/280_avijnAtahatasyaAshu_kalahaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a man has been killed by unknown persons, his sons and kinsmen must be questioned swiftly about any quarrel,  
+and his womenfolk separately, regarding their attachment to another man;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अविज्ञात-हतस्य+आशु  
@@ -1307,6 +1397,12 @@ _विषाग्निदानेन च वधसिद्धाव् अ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/281_strIdravyavRttikAmo_vA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+or whether he was desirous of women, wealth, or livelihood, or with whom he went.  
+Or he should gently question people living near the place of death.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्त्री-द्रव्य-वृत्ति-कामो वा  
@@ -1351,6 +1447,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/23_steya-prakaraNam/282_xetraveshmavanagrAma_vivItakhaladAhakAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who set fire to fields, houses, forests, villages, pasture lands, or threshing floors,  
+and one who has intercourse with a king's wife, must be burned by a fire of reed mats.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षेत्र-वेश्म-वन-ग्राम-  

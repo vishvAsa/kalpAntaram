@@ -12,6 +12,11 @@ title = "१० सदाचारः"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/128_amAvAsyAm_aShTamIm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+128	A twice-born man who is a Snataka shall remain chaste on the new-moon day, on the eighth (lunar day of each half-month), on the full-moon day, and on the fourteenth, even (if they fall) in the period (proper for conjugal intercourse).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the Moonless Day, on the eighth, on the Full Moon Day, and on the Fourteenth, the twice-born Accomplished Student shall always remain a “Religious Student,” even during the “season.”—(128)
@@ -88,11 +93,6 @@ moonless day, full moon day, the day on which the sun passes from one sign to th
 **अमावास्याम्** इति । अमावास्यादिषु **स्नातको द्विजः ऋताव् अपि **नित्यं स्त्रियं नोपेयात् । “पर्ववर्जं व्रजेच् चैनाम्” इत्य् अनेन पौनरुक्थ्यं तत्रैव परिहृतम् । स्नातकव्रतप्रायश्चित्ताङ्गत्वेनास्येहाभिधानम् ॥ ४.१२८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-128	A twice-born man who is a Snataka shall remain chaste on the new-moon day, on the eighth (lunar day of each half-month), on the full-moon day, and on the fourteenth, even (if they fall) in the period (proper for conjugal intercourse).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पर्वकालेन तु कालातिक्रमाद् युक्तः पर्वसु परिहारार्थः । पाठो यम् अपि – "**ऋतौ स्नातको द्विजः**" इति । तथा चोक्तम् – "पर्ववजं व्रजेच् चैनाम्" (म्ध् ३.४५) इत्य् अतश् च । "**अनृतौ**" इत्य् अयम् अन्यः पाठः उत्सृज्यते, व्यर्थानर्थसमानार्थम्, आर्षं न वचो यत इति ।
@@ -110,6 +110,11 @@ moonless day, full moon day, the day on which the sun passes from one sign to th
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/129_na_snAnam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+129	Let him not bathe (immediately) after a meal, nor when he is sick, nor in the middle of the night, nor frequently dressed in all his garments, nor in a pool which he does not perfectly know.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not bathe after a meal, nor when he is ill, nor at midnight, nor along with his garments; and never in an unknown water-reservoir.—(129)
@@ -221,11 +226,6 @@ taking food, nor at midnight.’
 इति देवलस्मरणात् तत्र न स्नायात् । बहुवासस्कश् च सततं न स्नायात् । नैमित्तिके त्व् अनिषेधः । गाधागाधग्राहाद्याकीर्णतया वा अज्ञाते जलाधारे न स्नायात् ॥ ४.१२९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-129	Let him not bathe (immediately) after a meal, nor when he is sick, nor in the middle of the night, nor frequently dressed in all his garments, nor in a pool which he does not perfectly know.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अदृष्टार्थस्य स्नातस्यायं विधिः । शौचार्थस्य स्नानस्य नैमित्तिकत्वान् निमित्तानां च नियतकालत्वात् सर्वदा प्रतिषेधः । **आतुर**वचनम् अप्रायश्चित्तार्थम् एतस्माद् एव यतो ऽन्यत्रातुरस्यासति वचने नियमातिक्रमात् । प्रायश्चित्तीय्[ते?]र् सिद्धा (?) न महान् इत्य् अर्धरात्रे नैमित्तिकम् अपि निवासो (निर्वासाः?) हि नित्यं तुर्वास (बहुवासाः?) <u>स्मृतीयं स्नातकस्य नित्यागगत पश्यन् प्रतिशेधति</u> (?) ।
@@ -243,6 +243,11 @@ taking food, nor at midnight.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/130_devatAnA~N_guro.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+130	Let him not intentionally step on the shadow of (images of) the gods, of a Guru, of a king, of a Snataka, of his teacher, of a reddish-brown animal, or of one who has been initiated to the performance of a Srauta sacrifice (Dikshita).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not intentionally step over the shadow of the gods, of a superior, of the king, of an Accomplished Student, of his own Preceptor, of the tawny thing, or of the Initiated Person.—(130)
@@ -305,11 +310,6 @@ shadow of a deity, the twice-born, the teacher, the wise man, the accomplished s
 **देवतानाम्** इति । **देवतानां **चित्रपुस्तकादिकृतानां **गुरोः** पित्रादेः नृपतेः **स्नातकाचार्यस्य **च प्राधान्याद् गुरुतः पृथगुपदिष्टस्य कपिलस्य यज्ञार्थं कृतदीक्षस्येच्छातः **छायां नाक्रामेत् **॥ ४.१३० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-130	Let him not intentionally step on the shadow of (images of) the gods, of a Guru, of a king, of a Snataka, of his teacher, of a reddish-brown animal, or of one who has been initiated to the performance of a Srauta sacrifice (Dikshita).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अमूर्तत्वाद् देवतानां तत्प्रकृतये दृढं ते ऽनेनैव दर्शनेन च्छत(?)प्रकृतीः शिष्टाः पूजयति बभ्रुर् इति यतः सोमस्य कर्माङ्गभूतस्येयम् आख्या तदाप्य् अयं बभ्रुशब्दो न श्रूयते । कपिला वा गौर् बभ्रुशब्देनोच्यते । "सा बभुं लिङ्गाक्षी" इति श्रुतेः । ब्रह्मचारिणम् अपरे बभ्रुशब्दार्थम् आहुः । कपिलशिरोरुहत्वाद् इति कामत इति च । अकामतः प्रायश्चित्तनिवृत्त्यर्थम् इदं वचनं सामर्थात् गम्यते ।
@@ -327,6 +327,11 @@ shadow of a deity, the twice-born, the teacher, the wise man, the accomplished s
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/131_madhyandine.ardharAtre.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+131	At midday and at midnight, after partaking of meat at a funeral dinner, and in the two twilights let him not stay long on a cross-road.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not have recourse to a cross-road at midday, or at midnight, or after having partaken of meat-food at a śrāddha, or at the two twilights.—(131)
@@ -370,11 +375,6 @@ road-crossings at midday, or at midnight, or late at night, or during the two tw
 
 **मधन्दिन** इति । मध्याह्नार्धरात्रसन्ध्यासु समांसं च **श्राद्धं भुक्त्वा **चतुष्पथे चिरं न तिष्ठेत् ॥ ४.१३१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-131	At midday and at midnight, after partaking of meat at a funeral dinner, and in the two twilights let him not stay long on a cross-road.
-</details>
 </details>
 </div>
 
@@ -388,6 +388,11 @@ road-crossings at midday, or at midnight, or late at night, or during the two tw
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/132_udvartanam_apasnAnam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+132	Let him not step intentionally on things used for cleansing the body, on water used for a bath, on urine or ordure, on blood, on mucus, and on anything spat out or vomited.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not intentionally stand upon unguent-powder, or upon used water, or on urine or ordure, or on blood, or on mucus, spittings and vomitings.—(132)
@@ -438,11 +443,6 @@ or spittings or unguent-powder.’
 
 **उद्वर्तनम्** इति । **उद्वर्तनं** स्नानोदकमूत्रपुरीषरुधिर**श्लेष्मवान्तानि **इच्छातो नाक्रामेत् **तिष्ठ्यूतं **च ताम्बूलाद्यं श्लेष्मरूपम् अपि ॥ ४.१३२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-132	Let him not step intentionally on things used for cleansing the body, on water used for a bath, on urine or ordure, on blood, on mucus, and on anything spat out or vomited.
-</details>
 </details>
 </div>
 
@@ -456,6 +456,11 @@ or spittings or unguent-powder.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/133_vairiNan_nopaseveta.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+133	Let him not show particular attention to an enemy, to the friend of an enemy, to a wicked man, to a thief, or to the wife of another man.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not pay attention to his enemy, or to his enemy’s friend, or to an unrighteous person, or to a thief, or to the lady of another person.—(133)
@@ -511,11 +516,6 @@ Do. (139.75).—‘Having done harm to a certain person, he shall not trust him.
 
 **वैरिणम्** इति । शत्रुतन्मित्राधर्मशीलवौरपरदानान् **नोपसेवेत** । चौरस्यात्यन्तकुत्सितत्वात् अधार्मिकात् पृथक्ग्रहणम् । शत्रुसेवनादौ च यद्य् अपि दृष्ट एव दोषः तथापि शास्त्रनिषेधसामर्थ्याद् अदृष्टो ऽपि भवतीत्य् अवसीयते । एवम् अन्यत्रापि विज्ञेयम् ॥ ४.१३३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-133	Let him not show particular attention to an enemy, to the friend of an enemy, to a wicked man, to a thief, or to the wife of another man.
-</details>
 </details>
 </div>
 
@@ -529,6 +529,11 @@ Do. (139.75).—‘Having done harm to a certain person, he shall not trust him.
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/134_na_hIdRsham.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+134	For in this world there is nothing so detrimental to long life as criminal conversation with another man's wife.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In this world, there is nothing so detrimental to a man’s longevity as paying attention to the wife of another person.—(134)
@@ -571,11 +576,6 @@ Any such thing as the eating of indigestible food, the stealing of gold, etc., �
 **न हीदृशम्** इति । यस्मात् पुंस एवंविधम् आयुःक्षयकरं लोके अन्यन् न किञ्चिद् अस्ति यादृक् लोके परदारगमनम्, तस्माद् एतन् न कार्यम् ॥ ४.१३४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-134	For in this world there is nothing so detrimental to long life as criminal conversation with another man's wife.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 प्रतीतार्थाः श्लोकाः । **कामत** इति व्याख्यातम् ।
@@ -593,6 +593,11 @@ Any such thing as the eating of indigestible food, the stealing of gold, etc., �
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/135_xatriya~n_chaiva.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+135	Let him who desires prosperity, indeed, never despise a Kshatriya, a snake, and a learned Brahmana, be they ever so feeble.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Desiring his own prosperity, he shall never despise a Kṣatriya, a serpent, a learned Brāhmaṇa,—even if they be feeble.—(135)
@@ -640,11 +645,6 @@ shall never despise the following three, even though they be very much reduced�
 **क्षत्रियं चैवेति** । यो भवनशीलः क्षत्रियसर्पविद्वद्ब्राह्मणान् तदानीं दुर्बलान् अपि कदाचिन् नावजानीयात् ॥ ४.१३५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-135	Let him who desires prosperity, indeed, never despise a Kshatriya, a snake, and a learned Brahmana, be they ever so feeble.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **क्षत्रियसर्पयोर्** दृष्टान्तार्थम् उपादानं च गुणवद्ब्राह्मणपरिवारस्य (?) ।
@@ -666,6 +666,11 @@ shall never despise the following three, even though they be very much reduced�
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/136_etat_trayam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+136	Because these three, when treated with disrespect, may utterly destroy him; hence a wise man must never despise them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Because these three, when despised, may destroy the man,—therefore, the intelligent man shall never despise these three.—(136)
@@ -716,11 +721,6 @@ See Comparative notes for [Verse 4.135].
 **एतत् त्रयम्** इति । यस्माद् **एतत् त्रयम् **अवज्ञातं **पुरुषं **विनाशयति । क्षत्रियसर्पौ दृष्टशक्त्या ब्राह्मणस् त्व् अभिचारादिना । तस्मात् प्रशस्तबुद्धिः **एतत् त्रयं **सर्वदा न तिरस्कुर्यात् ॥ ४.१३६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-136	Because these three, when treated with disrespect, may utterly destroy him; hence a wise man must never despise them.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 <u>अन्ये</u> ऽप्य् आहुः । त्रयाणाम् अप्य् अदृष्टार्थं सति क्षत्रियसर्पयोः सामर्थ्याद् व्यवस्थितानाम् अबहुश्रुतानाम् अप्य् अयं प्रतिषेधो गम्यते । हीनाङ्गादीनाम् आक्षेपप्रतिषेधाद् उत्तरत्र दण्डापूपिकया क्षत्रियादीनाम् अनाक्षेपः सिद्धः । उत्कृष्टत्वात् तु विशेषप्रतिषेधो ऽयं प्रायश्चित्तविशेषनार्थो वा क्षत्रियादीनां प्रतिषेधः ।
@@ -738,6 +738,11 @@ See Comparative notes for [Verse 4.135].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/137_nAtmAnam_avamanyeta.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+137	Let him not despise himself on account of former failures; until death let him seek fortune, nor despair of gaining it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not despise himself by reason of former failures. Until death, he should seek fortune, and he should never think her unattainable.—(137)
@@ -803,11 +808,6 @@ not touch any one in his vitals.’
 **नात्मानम्** इति । प्रथमोत्पन्नाभिर् असम्पद्धिः **आत्मानं **नावजानीयात् । अपि तु **आ मृत्योः **श्र्यर्थम् उद्यमं कुर्यात्, **न दुर्लभा** श्रीर् इति बुध्येत ॥ ४.१३७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-137	Let him not despise himself on account of former failures; until death let him seek fortune, nor despair of gaining it.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 आत्मा नावमन्तव्य इत्य् अदृष्टार्थो ऽयं नियमः । आत्मावमानाच् च कदाचिद् अप्य् अयं विषभक्षणादिष्व् अप्य् आकार्येषु प्रवर्तते ।
@@ -825,6 +825,11 @@ not touch any one in his vitals.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/138_satyam_brUyAt.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+138	Let him say what is true, let him say what is pleasing, let him utter no disagreeable truth, and let him utter no agreeable falsehood; that is the eternal law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall say what is true; and he shall say what is agreeable; he shall not say what is true, but disagreeale; nor shall he say what is agreeable, but untrue; this is the eternal law.—(138)
@@ -891,11 +896,6 @@ words, specially in regard to Brāhmaṇas.’
 **सत्यम्** इति । केनचित् पृष्टः सन् **सत्यम्** एव **ब्रूयात् । सत्यं प्रियं **चाप्य् अपृष्टो ऽपि पुत्रजन्मादि कथयेत् । **अप्रियं **पुनः **सत्यं **बन्धुवियोगादि न वदेत्, अपि तु सत्यां गतौ तूष्णीम् आसीत । **प्रियम्** अपि चासत्यं नापि(भि) **ब्रूयात्** इत्य् **एष** नित्यो **धर्मः** ॥ ४.१३८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-138	Let him say what is true, let him say what is pleasing, let him utter no disagreeable truth, and let him utter no agreeable falsehood; that is the eternal law.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तत्र **सत्यं ब्रूयाद्** इत्य् एतद् उक्तम् । सत्यवच् चेदम् अन्यपदार्थान्तरवक्तव्यतया तद्विशेषार्थं विधीयते, "**प्रियं ब्रूयात्**" इति । सो ऽयम् अधुनोच्यते विसेषः । **न ब्रूयात् सत्यम् अप्रियम्** । यथा "ब्राह्मण, कन्या ते गर्भिणी" इति । अयं तावत् सत्यवचनापवादाद् अप्रियवचनम् इदानीम् अपोह्यते । "**प्रियं च नानृतं ब्रूयात्**" यथा कन्यायां जातायाम् "ब्राह्मण, पुत्रस् ते जातः" इति । तत्रानेन सत्यां गतौ अज्ञानम् आश्रयितव्यम् । असत्यं तु परपीडातः । अत्र वीद्धः (?) परम् इति यतः कारुण्यात् परदुःखोत्पत्तिपरिहारार्थम् अनृतम् आश्रयितव्यम् । एवं सर्वाप्रियेषु बन्धुमरणादिषु वेदितव्यम् । साक्षिवचने तु व्यवहारत एकस्य पीडापरम् इति स्याद् (?) अनुग्रहो ऽवश्यं भाव्यम् उभयत्रापि । तत्र युक्तं शक्यम् एव वक्तुं नानृतम् अत्र दोषाद् वदनानुषङ्गाद् इति विषयविवेकात्मकम् एवं चेदं सत्यम् प्रिययोर् उक्तम् । नापूर्वविप्यत्मिः (नानृतम् इत्यादिभिः?) सत्यस्य (?) ।
@@ -913,6 +913,11 @@ words, specially in regard to Brāhmaṇas.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/139_bhadram_bhadram.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+139	(What is) well, let him call well, or let him say 'well' only; let him not engage in a useless enmity or dispute with anybody.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What is (not) well, he shall call “well”; or, he shall simply say “well;” he shall not create needless enmity or dispute with any one.—(139)
@@ -978,11 +983,6 @@ not needed. He shall say *well*.’
 **भद्रम्** इति । “अभद्रं भद्रम्” इति गौतमस्मरणाद् इह वृत्तवशात् प्रयुक्तम् । तत्राध्याहारेण व्याख्येयम् अकल्यानरूपं यत् तत् **भद्रं** कल्याणं श्रेय इत्य् एवमादिभिः शब्दैः इतिकरणस्य प्रकारार्थत्वात् **ब्रूयात् । भद्रम्** इत्य् अनेनैवं वाशब्देन तत् । वादानिमित्तौ वैरकलहौ चासमर्थेनापि सह नैव **कुर्यात्** ॥ ४.१३९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-139	(What is) well, let him call well, or let him say 'well' only; let him not engage in a useless enmity or dispute with anybody.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अभद्रं भद्रम् इत्य् उक्तम् आदरार्थम् । तथा च गौतमः- "अभद्रं भद्रम् इत्य् आहुः" (ग्ध् ९.२०) । एवं च सत्य् अत्र न शब्दनियमः भद्रम् इति चेद् द्वितीयं भद्रशब्दग्रहणं शब्दनियमार्थं तथा त्व् **एव**कारग्रहणम् । **भद्रम् इत्य् एव वा वदेद्** इत्य् अत्र इदम् अशब्द एवं नियम्यते ।
@@ -1000,6 +1000,11 @@ not needed. He shall say *well*.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/140_nA-tikalyan_nA-tisAyam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+140	Let him not journey too early in the morning, nor too late in the evening, nor just during the midday (heat), nor with an unknown (companion), nor alone, nor with Sudras.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not go about either too early in the morning or too late in the evening, or just at midday; nor with an unknown person, nor alone, nor with Śūdras.—(140)
@@ -1056,11 +1061,6 @@ wicked conveyance; nor shall he go under the shadow cast by a river-bank; one sh
 
 **नातिकल्यम्** इति । उषःप्रदोषयोः मध्याह्ने च जाते **अविज्ञातेन **पुरुषेण शूद्रैश् चाध्वानं न **गच्छेत्** । “नैकः प्रपद्येताध्वानम्” इत्य् उक्ते ऽपीह एक इत् पुनर्वचनं प्रायश्चित्तविशेषार्थम् ॥ ४.१४० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-140	Let him not journey too early in the morning, nor too late in the evening, nor just during the midday (heat), nor with an unknown (companion), nor alone, nor with Sudras.
-</details>
 </details>
 </div>
 
@@ -1074,6 +1074,11 @@ wicked conveyance; nor shall he go under the shadow cast by a river-bank; one sh
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/141_hInAngAn_atiriktAngAn.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+141	Let him not insult those who have redundant limbs or are deficient in limbs, nor those destitute of knowledge, nor very aged men, nor those who have no beauty or wealth, nor those who are of low birth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not insult those who have redundant limbs, or those who are deficient in limbs, or those destitute of learning, or those who are far advanced in age, or those destitute of beauty or wealth, or those of low birth.—(141)
@@ -1132,11 +1137,6 @@ calling the blind *one with excellent eyes*, the Caṇḍāla a *Brāhmaṇa*; n
 
 **हीनाङ्गान्** इति । हीनाङ्गाधिकाङ्गमूर्खातिवृद्धविरूपदरिद्रवैधवेयादीन् काणादिशब्दाह्वानादिना नोपहसेत् ॥ ४.१४१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-141	Let him not insult those who have redundant limbs or are deficient in limbs, nor those destitute of knowledge, nor very aged men, nor those who have no beauty or wealth, nor those who are of low birth.
-</details>
 </details>
 </div>
 
@@ -1150,6 +1150,11 @@ calling the blind *one with excellent eyes*, the Caṇḍāla a *Brāhmaṇa*; n
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/142_na_spRshet.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+142	A Brahmana who is impure must not touch with his hand a cow, a Brahmana, or fire; nor, being in good health, let him look at the luminaries in the sky, while he is impure.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A Brāhmaṇa, while unclean, shall hot touch, with his hand, a cow, a Brāhmaṇa or fire. Nor shall he, being in good health, look at the luminaries in the sky, while he is impure.—(142)
@@ -1198,11 +1203,6 @@ impure, a cow, a Brāhmaṇa, fire or food.’
 
 **न स्पृशेद्** इति । आचमनाद्यर्हो ब्राह्मणः गोब्राह्मणाग्नीन् न स्पृशेत् । तथ्**आशुचिः** सन् अनातुरो द्युलोकगतम् आदित्यादिज्योतिःसमूहम् अपि **न पश्येत्** ॥ ४.१४२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-142	A Brahmana who is impure must not touch with his hand a cow, a Brahmana, or fire; nor, being in good health, let him look at the luminaries in the sky, while he is impure.
-</details>
 </details>
 </div>
 
@@ -1216,6 +1216,11 @@ impure, a cow, a Brāhmaṇa, fire or food.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/143_spRShTvaitAn_ashuchir.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+143	If he has touched these, while impure, let him always sprinkle with his hand water on the organs of sensation, all his limbs, and the navel.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having touched these, while impure, he shall always wipe with water, with his palm, his sense-organs, as also his limbs and the navel.—(143)
@@ -1260,11 +1265,6 @@ touching a horse, or blood or hairs, or fire or cows or Brāhmaṇas or a woman;
 **स्पृट्वेति । अशुचिः** सन् गवादीन् **स्पृष्ट्वा अद्भिः** प्राणायतनानि चक्षुरादीन्य् अङ्गानि च **सर्वाणि स्पृशेत्** “नाभिम् अद्भिर् हस्तमध्येन स्पृशेत्” इति प्रकरणपठितं प्रायश्चित्तं लाघवार्थम् । तत्र हि क्रियमाणे गवादिस्पर्शे कर्तव्यं स्यात् ॥ ४.१४३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-143	If he has touched these, while impure, let him always sprinkle with his hand water on the organs of sensation, all his limbs, and the navel.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं दृष्ट्वा ज्योतींष्य् अशुचिर् एतद् एव कुर्याद् उभयस्य प्रतिषिद्धत्वात् तुल्यव्यतिक्रमप्रायश्चित्तम् अधिकारसामर्थात् ।
@@ -1282,6 +1282,11 @@ touching a horse, or blood or hairs, or fire or cows or Brāhmaṇas or a woman;
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/144_anAturaH_svAni.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+144	Except when sick he must not touch the cavities (of the body) without a reason, and he must avoid (to touch) the hair on the secret (parts).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Unless he be in trouble, he shall not, without cause, touch his cavities. He shall also avoid all secret hairs.—(144)
@@ -1320,11 +1325,6 @@ Unless he be in trouble, he shall not, without cause, touch his cavities. He sha
 **अनातुर **इति । स्वस्थः सन् **स्वानि **छिद्राणि **रोमाणि च **पायूपस्थगतानि **अनिमित्तं न स्पृशेत् **॥ ४.१४४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-144	Except when sick he must not touch the cavities (of the body) without a reason, and he must avoid (to touch) the hair on the secret (parts).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 स्वनिगदव्याख्यातः श्लोकः ।
@@ -1342,6 +1342,11 @@ Unless he be in trouble, he shall not, without cause, touch his cavities. He sha
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/145_mangalAchArayuktaH_syAt.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+145	Let him eagerly follow the (customs which are) auspicious and the rule of good conduct, be careful of purity, and control all his organs, let him mutter (prayers) and, untired, daily offer oblations in the fire.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall be intent upon auspicious customs, with his mind under control and the senses subjugated; and he shall, untired, daily recite prayers and offer oblations into the fire.—(145)
@@ -1414,11 +1419,6 @@ Do. (3. 220).—‘By omitting what has been enjoined, by doing what has been fo
 **मङ्गलाचारयुक्त** इति । अभिप्रेतसिद्धिरूपमङ्गलहेतुत्वात् गोरोचनाचन्दनादौ मङ्गले प्रत्युत्थानादौ आचारे यत्नवान् शुद्धात्मा वशीकृतजिह्वादीन्द्रियः स्यात्, अनलसश् च सन् जपहोमौ **नित्यं** कुर्यात् । अत्र आचारादीनाम् उक्तानाम् अपि विनिपातविनिवृत्त्यर्थं विवक्षया पुनर् अभिधानम् ॥ ४.१४५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-145	Let him eagerly follow the (customs which are) auspicious and the rule of good conduct, be careful of purity, and control all his organs, let him mutter (prayers) and, untired, daily offer oblations in the fire.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 दुःखस्वप्नदर्शनादिषु यत् क्रियते तदुपघाताय तन्मङ्गलम् अथ वा क्रियमाणम् अभ्युदयाय रोचताम् इति । संस्पर्शः शिरआदीनाम् अक्रियमाणो वा क्रियमाणो वा प्रत्यवाय । यथा तद् एव मङ्गलाचारः सत्यवचनादिः । यदि उक्तौ मङ्गलाचारस् ततो ऽस्य पुनःश्रुतिर् अर्थवादार्था । अथ युक्तस् ततो युक्तम् एवास्य वचनम् अपूर्वविध्यर्थम् । तथा च वक्ष्यति । अथ वा सादनाभावपक्षम् आश्रित्य गृहस्थस्यैतद् उच्यते । आत्मैकसाधनसाध्यम् अपराधीनं क्रमेत्य् अस्य स्तुतिः (?) ।
@@ -1444,6 +1444,11 @@ Do. (3. 220).—‘By omitting what has been enjoined, by doing what has been fo
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/146_mangalAchArayuktAnAn_nityam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+146	No calamity happens to those who eagerly follow auspicious customs and the rule of good conduct, to those who are always careful of purity, and to those who mutter (sacred texts) and offer burnt-oblations.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For those who are ever intent upon auspicious customs, who have their mind under control, and who go on reciting prayers and offering oblations,—there is no calamity.—(146)
@@ -1482,11 +1487,6 @@ This verse is quoted in *Nityācārapradīpa* (p. 492).
 यथा चाह **मङ्गलाचारयुक्तानाम्** इति । मङ्गलाद्यनुष्ठानशीलानां शुद्धानां जपहोमपरायणानां दैवपुरुषकृत उपद्रवो **न विद्यते** ॥ ४.१४६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-146	No calamity happens to those who eagerly follow auspicious customs and the rule of good conduct, to those who are always careful of purity, and to those who mutter (sacred texts) and offer burnt-oblations.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तद् इदम् आचारमुख्यत्वप्रदर्शनायोच्यते तस्य ।
@@ -1504,6 +1504,11 @@ This verse is quoted in *Nityācārapradīpa* (p. 492).
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/147_vedam_evA-bhyasen.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+147	Let him, without tiring, daily mutter the Veda at the proper time; for they declare that to be one's highest duty; (all) other (observances) are called secondary duties.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall diligently recite the Veda, whenever he finds time. They declare this to be his primary duty; everything else is declared to be his secondary duty.—(147)
@@ -1560,11 +1565,6 @@ elder superior to the mother; there is no friend superior to charity,—either h
 **वेदम् एव जपेन् नित्यम्** इति । यस्मिन् यस्मिन् काले दृष्टार्थकर्मोपरोधो भवति तत्र नित्यं **वेदम् एवा**नलसः सन् **जपएत् **। यस्मात् तं ब्रह्मणस्य **परं धर्मं **मन्वादय **आहुः** । तदन्यस् त्व् अमुख्यो धर्मस् तैर् **उच्यते **॥ ४.१४७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-147	Let him, without tiring, daily mutter the Veda at the proper time; for they declare that to be one's highest duty; (all) other (observances) are called secondary duties.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अन्याचारनिन्दा वेदाध्ययनस्तुत्यर्था ।
@@ -1582,6 +1582,11 @@ elder superior to the mother; there is no friend superior to charity,—either h
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/148_vedAbhyAsena_satatam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+148	By daily reciting the Veda, by (the observance of the rules of) purification, by (practising) austerities, and by doing no injury to created beings, one (obtains the faculty of) remembering former births.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By the constant recitation of the Veda, by purification, by austerity, and by doing no harm to living beings, he remembers his previous birth.—(148)
@@ -1619,11 +1624,6 @@ This verse is quoted in *Aparārka* (p. 229), where ‘*jātī*’ is explained 
 
 उक्तस्यापि वेदाभ्यासस्य यद् अर्थं पुनर् अभिधानं तद् आह **वेदाभ्यासेनेति** । नित्यं वेदाभ्यासशौचतपोऽहिंसाभिः** **पूर्वभवस्य जन्म **स्मरति** ॥ ४.१४८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-148	By daily reciting the Veda, by (the observance of the rules of) purification, by (practising) austerities, and by doing no injury to created beings, one (obtains the faculty of) remembering former births.
-</details>
 </details>
 </div>
 
@@ -1645,6 +1645,11 @@ This verse is quoted in *Aparārka* (p. 229), where ‘*jātī*’ is explained 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/149_paurvikIM_saMsmaran.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+149	He who, recollecting his former existences, again recites the Veda, gains endless bliss by the continual study of the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Recollecting his former births, the twice-born person continues to study the Veda; and by his continuous study of the Veda, he obtains absolute, endless bliss.—(149)
@@ -1691,11 +1696,6 @@ This verse is quoted in *Aparārka* (p. 229);—and in *Vīramitrodaya* (Āhnika
 ततः किम् अत आह **पौर्विकीम्** इति । पूर्वजातिं स्वां **संस्मरन् **ईदृग् अयं वेदाभ्यासः येन जन्मान्तरं स्मर्यत इति मत्वा अभीक्ष्णं वेदाभ्यासम् एव करोति तेन चानवरतम् आचर्यमाणे वेदार्थावबोधजाते सति ब्रह्मप्राप्तौ परमात्मरूपम् **अक्षयं सुखं **प्राप्नोति ॥ ४.१४९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-149	He who, recollecting his former existences, again recites the Veda, gains endless bliss by the continual study of the Veda.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 वेदाभ्यासस्य् पुनर्वचनं स्तुत्यर्थम् ।
@@ -1713,6 +1713,11 @@ This verse is quoted in *Aparārka* (p. 229);—and in *Vīramitrodaya* (Āhnika
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/150_sAvitrA~n_shAntihomAMsh.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+150	Let him always offer on the Parva-days oblations to Savitri and such as avert evil omens, and on the Ashtakas and Anvashtakas let him constantly worship the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On special days, he shall always offer the oblations to Savitṛ, and also the Pacificatory Oblations; on the “Aṣtakas” and on the “Anvaṣṭakas” he shall always worship the Pitṛs.’—(150)
@@ -1777,11 +1782,6 @@ should offer balls of food, which is conducive to endless satisfaction.’
 **सावित्रान्** इति । सवितृदेवताकान् अनिष्टनिवृत्त्यर्थांश् च होमान् पक्षसन्धिषु अमावास्यादिषु च “आज्यं हविर् अनादेयम्” इति सूत्रकारस्मरणात् आज्येन नित्यं कुर्यात् । तथा अष्टकाख्येन कर्मणा अष्टकापश्चाद्भाविनीषु च नवमीषु **अन्वष्टकाख्येन** कर्मणा प्रमीतान् पित्रादीन् तर्पयेत् ॥ ४.१५० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-150	Let him always offer on the Parva-days oblations to Savitri and such as avert evil omens, and on the Ashtakas and Anvashtakas let him constantly worship the manes.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **सावित्राञ् छान्तिहोमांश् चेति** (?) वचनाद् आज्येन कर्तव्याद् अमुख्यस्यान्यस्य 
@@ -1801,6 +1801,11 @@ should offer balls of food, which is conducive to endless satisfaction.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/151_dUrAd_AvasathAn.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+151	Far from his dwelling let him remove urine (and ordure), far (let him remove) the water used for washing his feet, and far the remnants of food and the water from his bath.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Far from the dwelling-place shall he perform urination, far off he shall perform feet-washing, and far away he shall do the throwing of the leavings of food.—(151)
@@ -1859,11 +1864,6 @@ second line as ‘*Ucchiṣṭotsarjanañ caivadūre kāryam hitaiṣiṇā*.’
 **दूराद्** इति । “क्षिप्रं गत्वा क्षेपमात्रं शरस्य” इति पुराणस्मरणद् एवंविधात् गृहस्य दूरात् मूत्रपुरीषपादधावनोदकोच्छिष्टपरिषेकोदकाद्य् उत्सृजेत् ॥ ४.१५१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-151	Far from his dwelling let him remove urine (and ordure), far (let him remove) the water used for washing his feet, and far the remnants of food and the water from his bath.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 प्रसिद्धार्थः श्लोकः ।
@@ -1881,6 +1881,11 @@ second line as ‘*Ucchiṣṭotsarjanañ caivadūre kāryam hitaiṣiṇā*.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/152_maitram_prasAdhanam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+152	Early in the morning only let him void faeces, decorate (his body), bathe, clean his teeth, apply collyrium to his eyes, and worship the gods.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the forenoon, he shall perform the evacuation of bow els, toilette, bath, cleaning of the teeth, dying of the eyes, and the worship of the gods.—(152)
@@ -1944,11 +1949,6 @@ Do. (Do., 161.25).—(Same as Manu.)
 **मैत्रम्** इति । **मैत्रं** पायुर् इति पश्वङ्गसंस्तवे पायौ मित्रदेवताकथनश्रवणाद् इहाप्य् अभेदोपचारेण **मैत्रः **पायुः । तत्र भवः उत्सर्गे सति शौचं तथानुलेपनादिशरीरसंस्कारनित्यस्नानदन्तधावनाञ्जनदेवार्चनानि **पूर्वाह्ण एव कुर्वीत **॥ ४.१५२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-152	Early in the morning only let him void faeces, decorate (his body), bathe, clean his teeth, apply collyrium to his eyes, and worship the gods.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 नियमार्थः शास्त्रारम्भः ।
@@ -1966,6 +1966,11 @@ Do. (Do., 161.25).—(Same as Manu.)
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/153_daivatAny_abhigachChet.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+153	But on the Parva-days let him go to visit the (images of the) gods, and virtuous Brahmanas, and the ruler (of the country), for the sake of protection, as well as his Gurus.
+</details>
+
 <details><summary>कुल्लूकः</summary>
 
 पाषाणादिमयानि धर्मप्रधानांश्च ब्राह्मणान्रक्षार्थं राजादिकं गुरूंश्च पित्रादीनमावास्यादिपर्वसु द्रष्टुर्माभिमुखो गच्छेत् ॥१५३॥
@@ -1974,11 +1979,6 @@ Do. (Do., 161.25).—(Same as Manu.)
 <details><summary>गोविन्दराजः</summary>
 
 **दैवतान्य् अभिगच्छेद्** इति । **दैवतानि **सुवर्णमण्यादिकृतानि धर्मप्रधानांश् च ब्राह्मणान् पालनसमर्थं च राजादिकं **रक्षार्थं गुरूंश् **चापि पित्रादीन् अमावास्यादिषु पक्षसन्धिषु च द्रष्टुं गच्छेत् ॥ ४.१५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-153	But on the Parva-days let him go to visit the (images of the) gods, and virtuous Brahmanas, and the ruler (of the country), for the sake of protection, as well as his Gurus.
 </details>
 </details>
 </div>
@@ -1993,6 +1993,11 @@ Do. (Do., 161.25).—(Same as Manu.)
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/154_abhivAdayed_vRddhAMsh.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+154	Let him reverentially salute venerable men (who visit him), give them his own seat, let him sit near them with joined hands and, when they leave, (accompany them), walking behind them.
+</details>
+
 <details><summary>कुल्लूकः</summary>
 
 गृहागतान्गुरूनभिवादयेत्तेषां च स्वीयमासनमुपवेष्टुं च दद्यात् । बद्धाञ्जलिश्च गुरुसमीपे आसीत् ।गच्छतश्च पृष्ठदेशेऽनुगच्छेत् । उक्तोऽव्ययमभिवादनाद्याचारः फलाभिधानाय पुनरुच्यते ॥१५४॥
@@ -2001,11 +2006,6 @@ Do. (Do., 161.25).—(Same as Manu.)
 <details><summary>गोविन्दराजः</summary>
 
 **अभिवादयेद्** इति । गृहागतान् (गता) ज्यायसो (ज्यायांसो) ऽ**भिवादयेत्** तेषां चात्मीयम् **आसनम्** उपवेशनार्थं **दद्यात् । **बद्धाञ्जलिंश् च तत्समीपम् आसीत । **गच्छतश्च्ब् **च पश्चाद् अनुव्रजेत् ।** **उक्तम् अपीदम् अभिवादनादि वक्ष्यमाणफलाभिधित्सया पुनर् उच्यते ॥ ४.१५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-154	Let him reverentially salute venerable men (who visit him), give them his own seat, let him sit near them with joined hands and, when they leave, (accompany them), walking behind them.
 </details>
 
 <details><summary>भारुचिः</summary>

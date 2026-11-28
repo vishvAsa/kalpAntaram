@@ -12,6 +12,11 @@ title = "१२ स्वातन्त्र्यम्"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/159_yad_yat.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+159	Let him carefully avoid all undertakings (the success of) which depends on others; but let him eagerly pursue that (the accomplishment of) which depends on himself.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall carefully avoid every such act as is dependent upon others; such acts as are dependent upon himself, every one of these he shall eagerly pursue.—(159)
@@ -57,11 +62,6 @@ This verse is quoted in *Aparārka* (p. 224);—and in *Madanapārijāta* (p. 14
 **यद् यत् परवशम्** इति । **यद् यत् **परायत्तम् अयाचितलाभादिना विशेषदानादि **कर्म तत् तद् **यत्नतो **वर्जयेत् । यद् यत्** पुनर् आत्माधीनं स्वधनलेशेनापि केनचित् स्वलाभपरोपकारादिना **तत् तत् **यत्नेन अभ्यसेत् ॥ ४.१५९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-159	Let him carefully avoid all undertakings (the success of) which depends on others; but let him eagerly pursue that (the accomplishment of) which depends on himself.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 लोके ऽपि चैतद् दृष्टम् ।
@@ -87,6 +87,11 @@ This verse is quoted in *Aparārka* (p. 224);—and in *Madanapārijāta* (p. 14
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/160_sarvam_paravasham.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+160	Everything that depends on others (gives) pain, everything that depends on oneself (gives) pleasure; know that this is the short definition of pleasure and pain.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All that is dependent on others is painful; all that is dependent on oneself is pleasing; he shall know this to be, in short, the definition of pleasure and pain.—(160)
@@ -127,11 +132,6 @@ This verse is quoted in *Madanapārijāta* (p. 14);—and in *Aparārka* (p. 224
 यस्मात् **सर्वम्** इति । यत् परप्रार्थनादिसंसाध्यं तत् सर्वं दुःखहेतु । यच् चात्मैकसाधनं तत् सर्वं सुखनिमित्तम् इत्य् एतत् सङ्क्षेपतः **सुखदुःखलक्षणं **जानीयात् ॥ ४.१६० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-160	Everything that depends on others (gives) pain, everything that depends on oneself (gives) pleasure; know that this is the short definition of pleasure and pain.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उपर्य् एव स्वविषयोपभोगार्थं द्रव्यादानं प्रतिग्रहादिभिर् आत्मवशम् इन्द्रियसंयमः (?) सन्तोषपरतया सो ऽयम् अपरेण प्रकारेणेन्द्रियसंयम उक्तो ऽपि पुनः श्लोकद्वयेनानूद्यते । अधिकृताचारानुष्ठानसुतिसम्बन्धेनाचारबहुत्वे ऽपि सति –
@@ -149,6 +149,11 @@ This verse is quoted in *Madanapārijāta* (p. 14);—and in *Aparārka* (p. 224
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/161_yat_karma.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+161	When the performance of an act gladdens his heart, let him perform it with diligence; but let him avoid the opposite.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall perform, with diligence that act, by performing which there arises satisfaction in his inner soul; and he shall avoid the contrary.—(161)
@@ -179,11 +184,6 @@ This verse is quoted in *Aparārka* (p. 224), which explains ‘*Karma*’ as �
 <details><summary>गोविन्दराजः</summary>
 
 अशिष्टाप्रतिषिद्धं वैकल्पिकं वा । **यत् कर्मेति । यत् कर्म** अनुतिष्ठतः पुंसो ऽ**न्तरामनः** **परितोषो **भवति **तत् **यत्नतः **कुर्वीत** । आत्मतुष्टिकरं पुनर् **वर्जयेत् **॥ ४.१६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-161	When the performance of an act gladdens his heart, let him perform it with diligence; but let him avoid the opposite.
 </details>
 
 <details><summary>भारुचिः</summary>

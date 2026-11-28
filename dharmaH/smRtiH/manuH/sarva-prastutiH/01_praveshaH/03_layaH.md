@@ -12,6 +12,11 @@ title = "०३ लयः"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/052_yadA_sa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+052	When that divine one wakes, then this world stirs; when he slumbers tranquilly, then the universe sinks to sleep.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When that divine being is awake, then this world is active; when he slumbers, with his mind in calm repose, then all vanishes.—(52)
@@ -39,11 +44,6 @@ When that divine being is awake, then this world is active; when he slumbers, wi
 **यदा स देव** इति । **यदा स **प्रजापतिर् इच्छति **तद् एवं जगत् **उत्पत्त्यवस्थिती करोति । **यदा** तु नेच्छति **शान्तात्मा** उपसंहृतव्यापारमनाः **तद् एवं प्रलीयते **। अन्तरालप्रलयस् तदा भवति । यथा शरीरे यदा क्षेत्रज्ञो जागर्ति तदा पशुपक्षिसरीसृपात्मकं जगत् चेष्टते चेष्टायुक्तं भवति । यदा स्वपिति तदा निश्चेष्टम् इति जाग्रत्स्वप्नसुषुप्त्याख्या आत्मवृत्तयो ऽत्र प्रजापतिकृतानां जाग्रत्स्वपसुषुप्तवृत्तीनां स्थित्यन्तरालप्रलयम् आह, प्रलयकारणभूतानां दृष्टान्तत्वेनोपपत्तेः ॥ १.५२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-052	When that divine one wakes, then this world stirs; when he slumbers tranquilly, then the universe sinks to sleep.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 दृष्टो हि लोके व्यापारो परमः स्वापकाले पुरुषस्य । एवं च,
@@ -63,6 +63,11 @@ When that divine being is awake, then this world is active; when he slumbers, wi
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/053_tasmin_svapiti.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+053	But when he reposes in calm sleep, the corporeal beings whose nature is action, desist from their actions and mind becomes inert.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When he slumbers, having retired within himself, all active embodied beings desist from their actions, and their mind falls into depression.—(53)
@@ -98,11 +103,6 @@ The meaning of this verse is quite clear, its meaning having been already explai
 पूर्वोक्तम् एव स्पष्टयितुम् आह – **तस्मिन् स्वपति तु स्वस्थे** इति । **तस्मिन् **निवृत्तिस्थे **स्वस्थे** उपसंहृतव्यापारमनस्के कर्माक्षिप्तशरीराः शरीरिणः क्षेत्रज्ञाः **स्वकर्मभ्यः** शरीरग्रहणादिभ्यो **निवर्तन्ते **। मनश् च सर्वेन्द्रियरहितं निर्व्यापारं भवति ॥ १.५३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-053	But when he reposes in calm sleep, the corporeal beings whose nature is action, desist from their actions and mind becomes inert.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यथा तथेहापीति ।
@@ -120,6 +120,11 @@ The meaning of this verse is quite clear, its meaning having been already explai
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/054_yugapat_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+054	When they are absorbed all at once in that great soul, then he who is the soul of all beings sweetly slumbers, free from all care and occupation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When this Soul of all things sleeps happy and contented, then all things become absorbed all at once in that Great Soul.—(54)
@@ -162,11 +167,6 @@ second explanation put forward by Medhātithi;—according to the other explanat
 <details><summary>गोविन्दराजः</summary>
 
 इदानीं महाप्रलयम् आह – **युगपद्** इति । तुल्यकालम् एव पुनः यस्मिन् काले **तस्मिन्** परमेश्वरे सर्वभूतानि **प्रलीयन्ते **तस्मिन्न् एव काले अयं **सर्वभूतात्म**भूतो **निर्वृतः** निवृत्तजाग्रत्स्वप्न(सुषुप्ति)व्यापारः **सुखं स्वपिति** सुषुप्तिम् अनुभवति । तत्र सुषुप्तावस्था महाप्रलयश् च युगपद् एव भवत इत्य् अर्थः ॥ १.५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-054	When they are absorbed all at once in that great soul, then he who is the soul of all beings sweetly slumbers, free from all care and occupation.
 </details>
 
 <details><summary>भारुचिः</summary>

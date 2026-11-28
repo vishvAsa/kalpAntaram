@@ -12,6 +12,11 @@ title = "०८ अनध्यायः"
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/105_vedopakaraNe_chaiva.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+105	Both when (one studies) the supplementary treatises of the Veda, and when (one recites) the daily portion of the Veda, no regard need be paid to forbidden days, likewise when (one repeats) the sacred texts required for a burnt oblation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There is no regard for (observance of) days forbidden for study in connection with the appurtenances to the Veda, and with the mantras recited during oblations.—(105)
@@ -99,11 +104,6 @@ for the study of the Subsidiary Sciences, or of Itihāsas and Purāṇas, or of 
 स्वाध्यायविधिवत् प्रकरणान्तरेणानध्यायाम्नानात् वेदवेदाङ्गोच्चारणधर्मत्वात् (शङ्कायां) ब्रह्मयज्ञादाव् अप्य् अनध्यायप्राप्ताव् आह **वेदोपकरण** इति । वेदोपकारके निरुक्तादाव् अङ्गे, नित्यभवे च **स्वाध्याये** ब्रह्मयज्ञाख्ये होमार्थं मन्त्रोच्चारणे वानध्यायानुरोधो नास्ति । वेदोपकरणादीनां प्रसङ्गाच् च लाघवार्थम्(अन्)अभिधानम् । **हि**शब्दः आगमप्रसूचकः ॥ २.१०५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-105	Both when (one studies) the supplementary treatises of the Veda, and when (one recites) the daily portion of the Veda, no regard need be paid to forbidden days, likewise when (one repeats) the sacred texts required for a burnt oblation.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 "वेदः कृत्स्नो ऽधिगन्तव्यः" (म्ध् २.१६५) इत्य् अत्र वेदाध्ययनसहशिष्टत्वाद् अङ्गाध्ययनस्य वेदानध्यायाध्ययनवर्जनं (?) तेषाम् अपि प्राप्तं यतस् तत् । प्रतिविध्य (?) चेदं प्रकरणे कल्पादाव् अंशे ब्रह्मयज्ञप्रसङ्गेन वायम् अनध्यायाध्ययनवर्जनप्रतिषेधस् तेषां नस्यार्थः (?) । दृष्टान्तार्थवादो वायं ब्रह्मयज्ञार्थः । अनुमानतश् च स्वार्थ इति । अन्ये तु **वेदोपकरणे चैव** (?) दोषकर्माचक्षते । "उपाकर्मणि चोत्सर्गे त्रिरात्रं क्षपणं स्मृतम्" (म्ध् ४.११९) इत्य् अनध्यायं वक्ष्यति । तत्रापि त्व् अधीयीतैवेति । तद् अयुक्तम् । उत्तरेणैव तत्सिद्धेर् इति । "**स्वाध्याये चैव नैत्यके**" । नित्य एव नैत्यको ब्रह्मयज्ञः । **नानुरोधो ऽस्त्य् अनध्याये** । यथान्यस्मिन्न् अध्ययने ग्रहणधारणार्थे वेदोपकरणब्रह्मयज्ञाभ्यां चान्यत्रायं विधिर् अप्राप्तो यतो विधीयते । "होममन्त्रेषु चैव होममन्त्रग्रहणं च निदर्शनार्थं सर्वविशेषाणां होमबलियजमानजपब्रह्मचरणमार्जनादिमन्त्रेष्व् इति किमर्थ्ं पुनर् इदम् उक्तम् अनध्यायाध्ययनप्रतिषेधो विशेषतः सर्वाध्ययनेषु प्राप्तो यतः ब्रह्मयज्ञादीनां प्रतिषेधविषये प्रत्युद्धारः क्रियते ।
@@ -157,6 +157,11 @@ for the study of the Subsidiary Sciences, or of Itihāsas and Purāṇas, or of 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/106_naityake_nA-sty.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+106	There are no forbidden days for the daily recitation, since that is declared to be a Brahmasattra (an everlasting sacrifice offered to Brahman); at that the Veda takes the place of the burnt oblations, and it is meritorious (even), when (natural phenomena, requiring) a cessation of the Veda-study, take the place of the exclamation Vashat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There is no “day forbidden for study” in regard to the daily recitation; since this has been called “Brahmasatra”; it is meritorious, being offered with the offering of study, and being maintained by the syllable “vaṣaṭ” in the shape of the recitation made on forbidden days.—(106)
@@ -212,11 +217,6 @@ See Comparative notes for [Verse 2.105 (Non-observance of Holidays)].
 
 अत्रार्थवादम् आह **नैत्यक** इति । **नैत्यके** एकस्मिन् ब्रह्मयज्ञे **अनध्यायो नास्ति **। यस्मात् **ब्रह्मसत्रं** **तत्** मन्वादिभिः **स्मृतम्** । अतः सततप्रवृत्तगवामयनादिसत्रतुल्यत्वात् सर्वदैव तद् अनुष्ठेयम् । किम् अस्य सत्त्रसादृश्यम् इत्य् अत आह **ब्रह्माहुतितुअम्** इत्यादि । सत्त्रं सोमाहुत्याहुतं भवति । इदम् अपि वेदोच्चारणाहुत्याहुतं ब्रह्म, आहुतिर् इव आहुत्यर्थत्वात् पुण्यहेतुत्वाच् च सत्त्रतुल्यम् । सत्त्रं च प्रदानार्थेन वषट्कारेण युक्तं भवति । इदम् अपि अनध्यायाध्ययनात् **अनध्यायवषट्कृतम्** ॥ २.१०६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-106	There are no forbidden days for the daily recitation, since that is declared to be a Brahmasattra (an everlasting sacrifice offered to Brahman); at that the Veda takes the place of the burnt oblations, and it is meritorious (even), when (natural phenomena, requiring) a cessation of the Veda-study, take the place of the exclamation Vashat.
-</details>
 </details>
 </div>
 
@@ -230,6 +230,11 @@ See Comparative notes for [Verse 2.105 (Non-observance of Holidays)].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/107_yaH_svAdhyAyam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+107	For him who, being pure and controlling his organs, during a year daily recites the Veda according to the rule, that (daily recitation) will ever cause sweet and sour milk, clarified butter and honey to flow.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who, clean and self-controlled, recites the Veda, in due form, for one year,—for him this constantly fours out milk, curd, clarified butter and honey.—(107)
@@ -306,11 +311,6 @@ satisfies the gods with offerings of milk;—when he reads the Yajuṣ verses, w
 <details><summary>गोविन्दराजः</summary>
 
 **य** इति । एवं ब्रह्मयज्ञाख्यं **स्वाध्यायम्** अरण्ये गमनाद्युक्तविधानेन संयतमनाः **शुचिः **सन् **यः **संवत्सरम् **अधीते **तस्यैष **पयोदधिघृतमधूनि नित्यं** ददातीति । एवं च नित्यत्वे ऽपि फलकामनया फलम् अप्य् अतो भवति दर्शपौर्णमास्वत् ॥ २.१०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-107	For him who, being pure and controlling his organs, during a year daily recites the Veda according to the rule, that (daily recitation) will ever cause sweet and sour milk, clarified butter and honey to flow.
 </details>
 </details>
 </div>

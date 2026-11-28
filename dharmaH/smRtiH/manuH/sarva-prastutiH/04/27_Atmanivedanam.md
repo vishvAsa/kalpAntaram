@@ -20,6 +20,11 @@ title = "२७ आत्मनिवेदनम्"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/254_yAdRsho.asya.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+254	As his character is, as the work is which he desires to perform, and as the manner is in which he means to serve, even so (a voluntary slave) must offer himself.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As the man’s character may be, as may be the nature of the work he wishes to do, and as may be the manner in which he may serve,—even so must he offer himself.—(254)
@@ -69,11 +74,6 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 492), which explains ‘*�
 यथा आत्मनिवेदनं तेन कार्यं तथाह **यादृश **इति । **यादृशो ऽस्य भवेद् आत्मा **कुलशीलादिभिर् **यादृशं **दृष्टार्थम् अदृष्टातिशयार्थं चोपचरणं कर्तुम् इष्टं येन वा प्रकारेण मृदुदकाद्याहरणादिनिमित्तं ब्राह्मणं सेवेत अनेन प्रकारेण्**आत्मानं** **निवेदयेत्** ॥ ४.२५४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-254	As his character is, as the work is which he desires to perform, and as the manner is in which he means to serve, even so (a voluntary slave) must offer himself.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **यादृशो ऽस्य भवेद् आत्मा** नववृत्तादिभिर् **यादृशं च चिकीर्षितम्** आत्मनो वा रक्षादिप्रयोजनं दृष्टार्थम् अदृष्टार्थं वा ब्राह्मणारिराधयिषया गुणप्रधानभावेन चोभयं **यथोपचरेद् एनं** शिल्पकृषिवाणिज्यादिभिर् न दासः पुनर् उक्तदोषप्रसङ्गात् । उक्तं हि "गोपालो दासनापितौ" (म्ध् ४.२५३) इति । तथात्मानं निवृत्तं कृत्वा सत्येन निवेदयेन् नान्यथा येन –
@@ -91,6 +91,11 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 492), which explains ‘*�
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/255_yo.anyathA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+255	He who describes himself to virtuous (men), in a manner contrary to truth, is the most sinful (wretch) in this world; he is a thief who makes away with his own self.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He, who describes himself to good men otherwise than what he is, is the worst sinner in the world, a thief stealing himself.—(255)
@@ -120,11 +125,6 @@ it to be something else,—such a person is the worst of all sinners.
 यस्मात् **य** इति । यः कश्चित् प्रकृताच् छूद्राद् अन्यो ऽपि कुलादिभिः **अन्यथा **भूतम् **आत्मानं **इत्थम्भूतो ऽहम् इत्य् **अन्यथा **साधु कथयति स आतमरूपापलापत एव चोरो लोके अतिशयेन पापकृत् सर्ववस्तुप्रधानात्मापहारित्वात् ॥ ४.२५५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-255	He who describes himself to virtuous (men), in a manner contrary to truth, is the most sinful (wretch) in this world; he is a thief who makes away with his own self.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अर्थवादः । यस्मात् –
@@ -142,6 +142,11 @@ it to be something else,—such a person is the worst of all sinners.
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/256_vAchy_arthA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+256	All things (have their nature) determined by speech; speech is their root, and from speech they proceed; but he who is dishonest with respect to speech, is dishonest in everything.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All things are regulated by speech, have their root in speech, and emanate from speech. The man who steals such speech is the stealer of all things.—(256)
@@ -182,11 +187,6 @@ This is an *imaginary* statement, deprecatory of *telling a lie*.—(*256*)
 <details><summary>गोविन्दराजः</summary>
 
 **वाच्य् अर्था **इति । **सर्वे ऽर्थाः **शब्देषु सम्बद्धाः शब्दार्थसम्बन्धस्य नियतत्वात् शब्दमूलकाश् च यतः शब्देभ्यः प्रतीयन्ते शब्दप्रतीतिपुरःसरं चार्थसंव्यवहारप्रतीतेः शब्दविनियता एव । अतस् तां वाचं यास् चोरयेत्, अन्यद् उक्त्वा अन्यद् अनुतिष्ठेत् **स सर्व**वस्तु**स्तेयकृन् नरो **भवति ॥ ४.२५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-256	All things (have their nature) determined by speech; speech is their root, and from speech they proceed; but he who is dishonest with respect to speech, is dishonest in everything.
 </details>
 
 <details><summary>भारुचिः</summary>

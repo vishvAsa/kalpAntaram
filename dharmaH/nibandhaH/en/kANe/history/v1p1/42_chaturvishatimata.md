@@ -22,7 +22,7 @@ The work often quotes the views of Uśanas, Manu, Pārāśarya, Aṅgiras, Yama,
 
 [^587]: यन्नास्ति वेदे न च यत्पुराणे रामायणे भारतसङ्गरे वा । मन्वादिशास्त्रेषु च यन्न वोक्तं तन्नास्ति नास्तीति न तेन कार्यम् ॥
 
-The Caturviṃśatimata is frequently quoted by the Mit., Aparārka and later [[work8,688|works[^588]]] but not by Viśvarūpa and
+The Caturviṃśatimata is frequently quoted by the Mit., Aparārka and later [[work8,688|works]][^588] but not by Viśvarūpa and
 
 [[P512]]
 

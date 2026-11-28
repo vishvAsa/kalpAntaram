@@ -12,6 +12,11 @@ title = "२० स्नानम्"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/203_nadIShu_devakhAteShu.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+203	Let him always bathe in rivers, in ponds, dug by the gods (themselves), in lakes, and in waterholes or springs.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall always bathe in rivers and in tanks and lakes dug by the gods; as also in water-holes and springs.—(203)
@@ -73,11 +78,6 @@ bathe in the smaller one; nor in an artificial one, where there is a river.’
 <details><summary>गोविन्दराजः</summary>
 
 **नदीष्व्** इति । **नदीष्व् **अकृतकेषु **तडागेषु सरःसु च **महत्सु उदकाधारेषु छिद्रस्रोतःसु च सर्वदा स्नानं समाचरेत् अनेनैव परकीयनिपानव्यावृत्तिसिद्धौ च पृथग्वचनं तदात्मीयोत्सृष्टानुज्ञातेषु स्नानाभ्यनुज्ञानार्थम्, तत्रापीह नित्यग्रहणात् प्रथमं नद्यादिस्नाने यतितव्यम् । तदभावे आत्मीयादिषु ॥ ४.२०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-203	Let him always bathe in rivers, in ponds, dug by the gods (themselves), in lakes, and in waterholes or springs.
 </details>
 
 <details><summary>भारुचिः</summary>

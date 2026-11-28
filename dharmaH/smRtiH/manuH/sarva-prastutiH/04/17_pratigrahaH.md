@@ -12,6 +12,11 @@ title = "१७ प्रतिग्रहः"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/186_pratigraha-samartho.api.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+186	Though (by his learning and sanctity) he may be entitled to accept presents, let him not attach himself (too much) to that (habit); for through his accepting (many) presents the divine light in him is soon extinguished.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Though entitled to accept presents, he shall avoid addiction to it; because, by receiving gifts, his spiritual light is quickly extinguished.—(186)
@@ -56,11 +61,6 @@ not accept them, he obtains those spacious regions which are meant for the extre
 **प्रतिग्रहसमर्थम्** इति । श्रुताध्ययनादिना **प्रतिग्रहेण समर्थो ऽपि **तत्र पुनःप्रवृत्तिं वर्जयेत् । यस्मात् **प्रतिग्रहेणास्या**ध्ययनादिनिमित्तप्रभावः क्षिप्रम् एव प्रलीयते “यात्रामात्रप्रसिद्ध्यर्थम्” इत्यादिनोक्तम् अप्य् एतत् **तेजः **प्रशमफलकथनार्थं पुनर् उच्यते ॥ ४.१८६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-186	Though (by his learning and sanctity) he may be entitled to accept presents, let him not attach himself (too much) to that (habit); for through his accepting (many) presents the divine light in him is soon extinguished.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 "यात्रामात्रप्रसिद्ध्यर्थम्" (म्ध् ४.३) इत्य् अत्रोक्तम् अपि तद् एतत् पुनर् उच्यते । कृतकरणीयस्य विशेषप्रतिषेधार्थं विशेषतो वक्ष्ये । दास्य (?) इत्य् एवं च सति सत्प्रतिग्रहाद् अपि वृत्तिनियमस्याभ्युदयविशेषार्था उत्तरार्थं वा प्रतिग्रहविशेषाभिधित्सया । तथा च दर्शयति ।
@@ -86,6 +86,11 @@ _तद् दर्शयति_ ।
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/187_na_dravyANAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+187	Without a full knowledge of the rules, prescribed by the sacred law for the acceptance of presents, a wise man should not take anything, even though he may pine with hunger.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Withuot knowing the lawful method of receiving gifts, the wise man shall not accept any gifts; even though he may be pining with hunger.—(187)
@@ -130,11 +135,6 @@ method of receiving them, he falls along with the giver.’
 **न द्रव्याणाम्** इति । प्रतिग्रहमन्त्रद्रव्यदेवतादिकं धर्माद् अनपेतं प्रतिग्रहविधानम् अबुद्ध्वा । **क्षुधा**वसादं गच्छन्न् अपि न **प्राज्ञः प्रतिग्रहं कुर्यात् **किं पुनर् अनापदि ॥ ४.१८७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-187	Without a full knowledge of the rules, prescribed by the sacred law for the acceptance of presents, a wise man should not take anything, even though he may pine with hunger.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **धर्म्यो विधिर्** यज्ञार्थत्वम् । धनस्य एतद् विज्ञाय द्रव्यदेवताम् वा "वरुणायाश्वं रुद्राय गाम्" इत्य् एवम् आरभ्य **द्रव्याणां** देवताभिहिता शास्त्रान्तरे । **प्रतिग्रहम्** अन्तं वा सामान्यं विनष्टं वा । "**अवसीदन्न् अपि क्षुदा**" इत्य् अर्थवादो ऽयं प्रतिग्रहविधिस्तुत्यर्थः । एवं च क्षुधावसादे अबुद्ध्यापि गृह्यमाणो (?) न प्रत्यवायाय । एतद् अपि शब्दात् । तद् इदानीं प्रतिग्रहद्रव्यं दर्शयति ।
@@ -160,6 +160,11 @@ _अविदुषो द्रव्यविशेषं प्रति प�
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/188_hiraNyam_bhUmim.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+188	But an ignorant (man) who accepts gold, land, a horse, a cow, food, a dress, sesamum-grains, (or) clarified butter, is reduced to ashes like (a piece of) wood.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The illiterate person, accepting gold, land, horse, cow food, clothing, sesamum and clarified butter, becomes reduced to ashes, like wood.—(188)
@@ -203,11 +208,6 @@ an unbaked vessel becomes destroyed through the weakness of the vessel, and the 
 **हिरण्यम्** इति । श्रुताध्ययनशून्यः सुवर्णादीन् **प्रतिगृह्णन् **अग्निसंयोगेन **दारुवत् भस्मीभवति **॥ ४.१८८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-188	But an ignorant (man) who accepts gold, land, a horse, a cow, food, a dress, sesamum-grains, (or) clarified butter, is reduced to ashes like (a piece of) wood.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एतद् द्रव्यविषयो वा । अयं विधिर् उत्पाते तेषां द्रव्याणां निदर्शनार्थत्वाद् वै तेषां ग्रहणस्य सामान्येनेव स्तुत्यर्थः । प्रकृतस्य प्रतिग्रहविधेः । तथा च हिरण्यादिग्रहणं विवक्षितम् अस्य विशेषप्रतिषेधार्थाद् आदरार्थम् अयम् उच्यते ।
@@ -225,6 +225,11 @@ an unbaked vessel becomes destroyed through the weakness of the vessel, and the 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/189_hiraNyam_Ayur.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+189	Gold and food destroy his longevity, land and a cow his body, a horse his eye (sight), a garment his skin, clarified butter his energy, sesamum-grains his offspring.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Gold and food destroy longevity; land and cow destroy the body; the horse destroys the eye; clothing destroys the skin; clarified butter destroys energy; and sesamum destroys offspring.—(189)
@@ -257,11 +262,6 @@ This verse is quoted in *Prāyaścittaviveka* (p. 405), which has the same note 
 तथा चाह **हिरण्यम् आयुर् अन्नं च भूर् गौश् चाप्य् ओषतस् तनुम्** इति । हिरण्यान्ने प्रतिगृहीते अविदुषश् चायुर् दहतः गोभूमी च शरीरम् । अश्ववस्त्रघृततिलाः यथाक्रमं चक्षुश्चर्मतेजोऽपत्यानि दहन्ति । न केवलम् अविद्वान् प्रतिग्रहेण सर्वदा तं दह्यते यावत्॥ ४.१८९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-189	Gold and food destroy his longevity, land and a cow his body, a horse his eye (sight), a garment his skin, clarified butter his energy, sesamum-grains his offspring.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यतश् चैतद् एवम् ।
@@ -279,6 +279,11 @@ This verse is quoted in *Prāyaścittaviveka* (p. 405), which has the same note 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/190_atapAs_tv.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+190	A Brahmana who neither performs austerities nor studies the Veda, yet delights in accepting gifts, sinks with the (donor into hell), just as (he who attempts to cross over in) a boat made of stone (is submerged) in the water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the twice-born person,who is without austerities and does not study the Veda, seeks for gifts, he sinks along with him into water; just like one who sinks along with the stone-raft.—(190)
@@ -332,11 +337,6 @@ learning and austerities; if he does accept it, he drags down himself as well as
 **अतपास् त्व् अनधीयान** इति । यस् तपःस्वाध्यायशून्यः प्रतिग्रहे ऽभिलाषुको भवति तदात्रैवानर्हप्रतिग्रहदानपापयुक्तेन सह पाषाणमयेन नावादिन तरन् उदक इव नरके ऽन्तर्धीयते । दाता ह्य् अत्र प्रतिग्रहसम्बन्धाद् अज्ञौ दातृप्रतीच्छकाव् इति वक्ष्यमाणदर्शनात् तेनेति परामृश्यते ॥ ४.१९० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-190	A Brahmana who neither performs austerities nor studies the Veda, yet delights in accepting gifts, sinks with the (donor into hell), just as (he who attempts to cross over in) a boat made of stone (is submerged) in the water.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं च सति तपोविज्ञानसहायम् अत्रोपदेशाद् विज्ञेयम् । पूर्वविधिवद् अध्यनग्रहणं च विज्ञानाधिकारसामर्थ्यात् । तदर्थं विज्ञेयं स्वार्थं वा तपसो विशेषणार्थं वा । अतपस्वी यो **ऽनधीयान** इति प्रकृतार्थोपसंहारम् इदानीं करोति ।
@@ -354,6 +354,11 @@ learning and austerities; if he does accept it, he drags down himself as well as
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/191_tasmAd_avidvAn.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+191	Hence an ignorant (man) should be afraid of accepting any presents; for by reason of a very small (gift) even a fool sinks (into hell) as a cow into a morass.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For these reasons, the illiterate man should fight shy of accepting each and every gift. By receiving even a small gift, the illiterate person sinks, like the cow in a morass.—(191)
@@ -398,11 +403,6 @@ See Comparative notes for [Verse 4.190].
 **तस्माद्** इति । यस्माद् असारद्रव्यप्र्तिग्रहे ऽपि अज्ञः कर्दमे **गौर् इव **नरके मज्जति, **तस्माद् अविद्वान् **यतः कुतश्चित् हिरण्यादिव्यतिरिक्तप्रतिग्रहाद् अपि त्रस्येत् ॥ ४.१९१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-191	Hence an ignorant (man) should be afraid of accepting any presents; for by reason of a very small (gift) even a fool sinks (into hell) as a cow into a morass.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 न केवलम् अभतो (?) ऽश्वादिप्रतिग्रहाद् **अल्पके नाप्य् अविद्वान्** इति च । ब्रुवन्न् अधीतवेदश् च विदुषश् च तपस्विनश् च गुरुद्रव्यप्रतिग्रहम् अपि तस्य (?) प्रतिषेधयति । वेदार्थविञाने सत्य् अपि च ।
@@ -428,6 +428,11 @@ See Comparative notes for [Verse 4.190].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/192_na_vAry.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+192	(A man) who knows the law should not offer even water to a Brahmana who acts like a cat, nor to a Brahmana who acts like a heron, nor to one who is unacquainted with the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man knowing the Law, shall not offer even water to the Brāhmaṇa who behaves like a cat; nor to the wicked Brāhmaṇa who behaves like a heron, nor to one ignorant of the Veda.—(192)
@@ -533,11 +538,6 @@ is neither here nor there.’
 **न नारीति** । उदकं किल सर्वदेयं तद् अपि बैडालव्रतिकादिभ्यो धर्मज्ञो न दद्यात् इति अतिशयोक्त्या द्रव्यान्तरदानं निषिध्यते, न तु दारिदानम्, पाखण्ड्यादि लोकविद्धो ऽपि बैडालव्रतिके दाननिषेधः तल्लक्षणविवक्षयेह पुनर् उच्यते । अविद्वद्दाननिषेधः पुनः विद्वत्सम्भवे सति अविद्वद्दानप्रतिषेधार्थः । एवं च “श्रोत्रियायैव देयानि” इत्य् एतत् विद्वच्छ्रोत्रियासम्भवे सति द्रष्टव्यम् ॥ ४.१९२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-192	(A man) who knows the law should not offer even water to a Brahmana who acts like a cat, nor to a Brahmana who acts like a heron, nor to one who is unacquainted with the Veda.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 "बैडालव्रतिकान् विप्रान् वाङ्मात्रेणापि नार्चयेत्" (म्ध् ४.३०) इत्य् अत्र सिद्धम् अप्य् एतत् पुनर् उच्यते यदर्थं तद् वक्ष्यामः । **न वार्य् अपीत्य्** अत्रापिशब्दाद् वारिणः सर्वार्थत्वं दर्शयति । तथा चोक्तम् "तृणानि भूमिर् उदकम्" (म्ध् ३.१०१) इत्य् अत्र । एवं च प्रतिप्रसिद्धस्य सर्वार्थस्य वारिणो दानप्रतिषेधेनान्यद्रव्यदानप्रतिषेधं करोतिना वारिणो ऽप्य् उक्तन्यायसामर्थ्यात् बैडालव्रतिकबकव्रतिकौलक्षतोता (?) वक्ष्यति । "**नवेदविदि**" इत्य् अनेनानधिगतवेदवेदार्थम् आह । नाधीते वेदम् अनधिगतवेदार्थम् । येनाविदुषो ऽपि श्रोत्रियस्य दानम् उक्तम् । शास्त्रेण चाधीतवेदस्य सतः अश्रुतशास्त्राथस्य । ताभ्यां साम्यम् अयुक्तम् । शास्त्रन्यायविरोधात् तदश्रुतम् [१ अक्ष् उन्च्लेअर्] त्वासामर्थ्यात् यथोक्त एवार्थो ग्रहीतव्यः । धर्मविच् चात्र प्रतिषेधशास्त्रज्ञो नेतरो ऽस्य प्रतिषेधस्य विद्वेषणार्थवादो निवृत्त्यर्थः ।
@@ -557,6 +557,11 @@ is neither here nor there.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/193_triShv_apy.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+193	For property, though earned in accordance with prescribed rules, which is given to these three (persons), causes in the next world misery both to the giver and to the recipient.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For property, even though acquired by lawful means,—if given to these three persons,—brings calamity, in the next world, to the giver, as also to the receiver.—(193)
@@ -591,11 +596,6 @@ This verse is quoted in *Aparārka*, (p. 285), which explains ‘*anarthe*’ as
 **त्रिष्व्** इति । न्याय्पार्जितं **धनं **बैडालव्रतिकादिषु **त्रिष्व् अपि दत्तं **दातृप्रतिग्रहीत्रोः परलोके नरकपातहेतुत्वात् **अनर्थाय **सम्पद्यते ॥ ४.१९३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-193	For property, though earned in accordance with prescribed rules, which is given to these three (persons), causes in the next world misery both to the giver and to the recipient.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 न केवलं निन्दितेभ्यो तान् धर्मेणोत्पादयति तेभ्यो धर्मम् अपरं प्रतिषिद्धाचरणात् करोतीति एवं च धनवचनाद् अत्र बैडाल (?) उद्व्रतिकादिभ्यो न पूर्वाभ्यनुज्ञातस्य प्रतिषेधः । पाषण्डिश्लोकोक्तश् च विशेषप्रतिषेधन्यायः । इतरथा ह्य् अत्र सर्वप्रतिषेधे पूर्वोक्तन्यायोपरोधाद् इत्य् अथ वा विहितप्रतिषिद्धानां विकल्पे सति नियमदानं पूर्वोक्तस्य भोजनस्य नास्त्य् अतिथिवद् इत्य् एतद् दर्शयति । <u>अन्यस्</u> त्व् आह – तत्रोक्तं बैडालव्रतिकादिभ्यो न देयम् इतीह तु बैडालव्रतिकादिभ्यः प्रतिग्रहो न कर्तव्य इत्य् एवम्पर आरम्भः । यत एतद् विधिस् तयोक्तो ऽर्थः पुनर् अनूद्यते । न पुनर् (?) एषणार्थवादे हि प्रच्छन्नपापता दुर्विज्ञानायतस् तल्लक्षणविवक्षयेदं पुनर् उक्तं पूर्वश्लोके इदम् अभिहितम् । "**विधिनाप्य् अर्जितं धनम्**" एभ्यो दीयमानं नाभ्युदयाय, अनर्थाय भवतीत्य् अत्र दृष्टार्थं तदर्थं विभावमान (?)
@@ -613,6 +613,11 @@ This verse is quoted in *Aparārka*, (p. 285), which explains ‘*anarthe*’ as
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/194_yathA_plavenaupalena.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+194	As he who (attempts to) cross water in a boat of stone sinks (to the bottom), even so an ignorant donor and an ignorant donee sink low.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as a man crossing water by means of a stone-raft sinks down, so also sink downwards the ignorant giver and receiver.—(194)
@@ -646,11 +651,6 @@ The term, ‘*pratīcchaka*’ is to be explained as ‘*pratīcchām karoti*’
 **यथेति** । **तथा निमज्जतो विप्राव् अग्ञौ दातृप्रतीच्छकौ** । यथाश्ममयेन नावादिन तरन् तेनैव सह (नरके) उदके ऽन्तर्धीयते एवं दातृप्रतिग्रहीतारौ प्रतिग्रहशास्त्रानभिज्ञौ अनर्हदानप्रतिग्रहकर्तारौ नरकं यातः । दाता किल प्रतिग्रहीतृपोतावतरणमार्गेण संसारार्णवपारम् उत्तितीर्षुः यदि बालिशतया उपप्लवप्रख्यप्रतिग्रहीतृसमवलम्बनम् उररीकरोति तदा प्रत्युत तेनैव समम् अगाधोदध्यन्तर्धानवेदनासन्निहितम् अधिकतराम् अर्थान्तरतयानर्थान्तरम् अधिकम् अपि मज्जत इत्य् उपमार्थः । “अतपास् त्व् अनधीयानः” इति प्रतिग्रहीतृप्राधान्येनोक्तम्, इदं तु दातृप्राधान्येनेति अपौनरुक्त्यं (अप्रसिद्धात्) प्रतिषिद्धाद् यत्नतः परिहारार्थम् ॥ ४.१९४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-194	As he who (attempts to) cross water in a boat of stone sinks (to the bottom), even so an ignorant donor and an ignorant donee sink low.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 कः अत्र (?) उपमानार्थः । यथा प्लव आत्मना निमज्जति तदारूढं धारयितुम् अशक्तः न्यायागतम् एभ्या (?) दीयमानं स नमन्नधो (?) गच्छति दातारं धारयितुम् असमर्थम् इत्य् अधुना प्रच्छन्नभावदोषतयैषा दुर्विज्ञानत्वात् तद्विभावम् इदं लक्षणम् आरभ्यते परिहारार्थम् ।
@@ -668,6 +668,11 @@ The term, ‘*pratīcchaka*’ is to be explained as ‘*pratīcchām karoti*’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/195_dharmadhvajI_sadA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+195	(A man) who, ever covetous, displays the flag of virtue, (who is) a hypocrite, a deceiver of the people, intent on doing injury, (and) a detractor (from the merits) of all men, one must know to be one who acts like a cat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who displays his flag of virtue, is ever covetous, a cheat and a hypocrite, intent on doing harm, and the traducer of all persons, is to be known as “one behaving like the cat.”—(195)
@@ -750,11 +755,6 @@ This verse is quoted in *Aparārka* (p. 170);—in *Mitākṣarā* (on 1.130);�
 बैडालव्रतिकादिलक्षणम् आह **धर्मध्वजीति** । धर्मः चिह्नम् इति लोकख्यापनार्थं प्रकाशदेशावरणात् यस्य स **धर्मध्वजी** । **लुब्धः** कृपणः **छाद्मिकः** गूढपापो **लोकदम्भको **वञ्चकः **हिंस्रः **हिंसाशीलः **सर्वाभिसन्धकः** परगुणासहनतया सर्वाक्षेपकः स बिडालव्रतेन चरतीति **बैडालव्रतिको **ब्राह्मणो ज्ञेयः ॥ ४.१९५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-195	(A man) who, ever covetous, displays the flag of virtue, (who is) a hypocrite, a deceiver of the people, intent on doing injury, (and) a detractor (from the merits) of all men, one must know to be one who acts like a cat.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तत्कर्मतद्गुणयोगाद् वा केनचिद् वृत्तिसामान्येनायं तथोच्यते निन्दार्थम् । <u>अपरे</u> तु द्वितीयश्लोकं तदर्थम् एव पठन्त्य् अस्मिन् देशे-
@@ -777,6 +777,11 @@ This verse is quoted in *Aparārka* (p. 170);—in *Mitākṣarā* (on 1.130);�
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/196_adho-dRShTir_naiShkRtikaH.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+196	That Brahmana, who with downcast look, of a cruel disposition, is solely intent on attaining his own ends, dishonest and falsely gentle, is one who acts like a heron.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 With eyes cast downwards, of cruel disposition, intent upon the accomplishment of his own ends, dishonest and falsely humble;—such is the Brāhmaṇa ‘who behaves like the heron’.—(196)
@@ -835,11 +840,6 @@ See Comparative notes for [Verse 4.195].
 **अधोदृष्टिर् नैष्कृतिक** इति । **अधोदृष्टिर्** विनीतत्वख्यापनार्थम् । अध एव निरीक्षते । **नैष्कृतिकः **नैष्ठुर्यव्यवहारी **स्वार्थसाधनतत्परः **स्वार्थसाधननिष्ठः** शठः** परान्नस्योपेक्षकः** मिथ्याविनीतः **कपटे प्रश्रयवान् यः स बकवृत्तेन चरति इति **बकव्रतधरो** ब्राह्मणः ॥ ४.१९६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-196	That Brahmana, who with downcast look, of a cruel disposition, is solely intent on attaining his own ends, dishonest and falsely gentle, is one who acts like a heron.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 असद्ब्राह्मणनिन्दार्थम् अस्योपाना (?) यद्य् अपि किञ्चिद् अत्र पूर्वश्लोकेन पुनर् उक्तं स्यात् तथापि तद् अविवक्षितं विज्ञेयम् । यस्मान् न ह्य् अनेन किञ्चिद् विधीयते प्रतिषिध्यते वेत्य् एवं च सति ।
@@ -857,6 +857,11 @@ See Comparative notes for [Verse 4.195].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/197_ye_bakavratino.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+197	Those Brahmanas who act like herons, and those who display the characteristics of cats, fall in consequence of that wicked mode of acting into (the hell called) Andhatamisra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those Brāhmaṇas who are heron-like in their behaviour, and those who are cat-like, fall, by that sinful act, into the Andhatāmisra hell.—(197)
@@ -888,11 +893,6 @@ See Comparative notes for [Verse 4.195].
 <details><summary>गोविन्दराजः</summary>
 
 **य** इति । **ये **ब्राह्मणाः **बकव्रत**बिडालचिह्नयुक्ताः **तेन **पापहेतुना **कर्मणा अन्धतामिस्रा**ख्ये नरके **पतन्ति **॥ ४.१९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-197	Those Brahmanas who act like herons, and those who display the characteristics of cats, fall in consequence of that wicked mode of acting into (the hell called) Andhatamisra.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -68,6 +68,12 @@ title = "१९ दण्ड-पारुष्य-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/212_asAxikahate_chihnair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In an unwitnessed battery, the legal dispute is to be determined  
+by physical marks, inferences, and past record, because of fear of fabricated marks.
+</details>
+
 <details><summary>मूलम्</summary>
 
 असाक्षिक-हते चिह्नैर्  
@@ -190,6 +196,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/213_bhasmapankarajaHsparshe_daNDo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For touching [someone] with ashes, mud, or dust, the fine is stated to be ten paṇas;  
+for touching with impure substances, the heel, or spittle, it is double that.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भस्म-पङ्क-रजः-स्पर्शे  
@@ -261,6 +273,12 @@ _एतद् एवोदाहरणमात्रतया प्रपञ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/214_sameShv_evam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+This applies to equals; it is doubled for other men's wives and superiors;  
+for inferiors, half the fine; there is no fine for actions caused by delusion, intoxication, or the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 समेष्व् एवं पर-स्त्रीषु  
@@ -295,6 +313,12 @@ _यच् चैतद् उक्तम् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/215_viprapIDAkara~n_Chedyam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The limb of a non-Brahmin that inflicts pain on a Brahmin is to be cut off;  
+if it is raised [in menace], the first fine [applies], but half that for mere contact.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विप्र-पीडा-करं छेद्यम्  
@@ -385,6 +409,12 @@ _अयं चान्यो विशेषः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/216_udgUrNe_hastapAde.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a hand or foot is raised in menace, the fines are ten and twenty respectively;  
+mutually among all persons, with a weapon, [the fine is that of] the middling heinous offence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उद्गूर्णे हस्त-पादे तु  
@@ -442,6 +472,12 @@ _अनुत्कृष्टविषयत्वे तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/217_pAdakeshAMshukakarol_lunchaneShu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For pulling a foot, hair, garment, or hand, [the fine is] ten paṇas;  
+for squeezing, dragging, wrapping in a garment, or resting a foot upon [someone], the fine is one hundred.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पाद-केशांशुक-करोल्-  
@@ -496,6 +532,12 @@ _जात्यादिसाम्य एव तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/218_shoNitena_vinA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A man causing pain without blood by means of wood and the like  
+is to be fined thirty-two paṇas; double if blood is seen.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शोणितेन विना दुःखं  
@@ -565,6 +607,12 @@ _साम्य एव ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/219_karapAdadato_bhange.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For breaking a hand, foot, or tooth, or severing an ear or nose,  
+the middling fine applies, as well as for opening a wound or beating [someone] almost to death.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कर-पाद-दतो भङ्गे  
@@ -622,6 +670,12 @@ _निकृष्टविषयत्वे तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/220_cheShTAbhojanavAgrodhe_netrAdipratibhedane.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For hindering movement, eating, or speech, for piercing an eye and the like,  
+and for breaking the neck, arm, or thigh, [the fine is that of] the middling heinous offence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चेष्टा-भोजन-वाग्-रोधे  
@@ -676,6 +730,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/221_eka~N_ghnatAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When many strike one person, the fine is double that stated;  
+property seized in an affray must be restored, and a fine double its value [paid].
+</details>
+
 <details><summary>मूलम्</summary>
 
 एकं घ्नतां बहूनां च  
@@ -758,6 +818,12 @@ _सर्वत्रैवास्मिन् प्रकरणे ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/222_duHkham_utpAdayed.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever causes pain must be made to pay the expenses arising from convalescence,  
+as well as the fine that has been declared for that particular affray.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दुःखम् उत्पादयेद् यस् तु  
@@ -837,6 +903,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/223_abhighAte_tathA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For striking, cutting, breaking, or knocking down a wall,  
+he should be made to pay five, ten, and twenty paṇas, as well as the repair expenses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अभिघाते तथा छेदे  
@@ -889,6 +961,12 @@ _दर्पेणैव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/224_duHkhotpAdi_gRhe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Throwing into a house an object causing pain or one taking life,  
+the first [actor] should be made to pay sixteen paṇas, the second the middling fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दुःखोत्पादि गृहे द्रव्यं  
@@ -941,6 +1019,12 @@ _परकीये ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/225_duHkhe_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For causing pain, shedding blood, and cutting off a tail or a limb,  
+the fine in the case of small animals begins from two paṇas progressively.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दुःखे च शोणितोत्पादे  
@@ -994,6 +1078,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/226_lingasya_Chedane.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For cutting off the generative organ or causing death, [the fine is] the middling one, plus the actual value;  
+in these circumstances regarding large animals, the fine is double.
+</details>
+
 <details><summary>मूलम्</summary>
 
 लिङ्गस्य छेदने मृत्यौ  
@@ -1050,6 +1140,12 @@ _परकीयानां तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/227_prarohishAkhinAM_shAkhA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For cutting branches, trunks, or destroying entirely trees with shoots,  
+and for trees that provide a livelihood, the fine is twice twenty [paṇas].
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्ररोहि-शाखिनां शाखा-  
@@ -1102,6 +1198,12 @@ _आरामारोपितानां सपरिग्रहाणाम
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/228_chaityashmashAnasImAsu_puNyasthAne.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For trees grown at sacred shrines, cremation grounds, boundaries, holy places, or temples,  
+and for a renowned tree, the fine is double.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चैत्य-श्मशान-सीमासु  
@@ -1154,6 +1256,12 @@ _उपजीव्यानाम् एव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/19_daNDa-pAruShya-prakaraNam/229_gulmaguchChaxupalatA_pratAnauShadhivIrudhAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For cutting down shrubs, clusters, bushes, climbing plants, spreading creepers, medicinal herbs, and vines  
+in the stated places, the fine is half of that previously stated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गुल्म-गुच्छ-क्षुप-लता-  

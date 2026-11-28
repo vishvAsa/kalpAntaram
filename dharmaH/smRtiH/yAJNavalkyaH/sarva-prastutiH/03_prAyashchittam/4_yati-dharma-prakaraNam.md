@@ -12,6 +12,12 @@ title = "४ यति-धर्म-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/056_vanAd_gRhAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the forest or from the house, having performed the Prājāpatya sacrifice  
+with all one's possessions as the sacrificial gift, and at its conclusion having deposited those fires within oneself,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वनाद् गृहाद् वा कृत्वेष्टिं  
@@ -78,6 +84,12 @@ _एवं यथोक्तविध्यर्थानुष्ठाना
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/057_adhItavedo_japakRt.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+having studied the Veda, muttered prayers, fathered sons, given food, maintained fires,  
+and offered sacrifices according to his ability, he should set his mind on liberation—not otherwise.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अधीत-वेदो जप-कृत्  
@@ -98,6 +110,12 @@ _एवं यथोक्तविध्यर्थानुष्ठाना
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/058_sarvabhUtahitaH_shAntas.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Beneficent to all beings, tranquil, carrying three staves and a water pot,  
+delighting in solitude, having renounced, seeking alms, he should resort to a village.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्व-भूत-हितः शान्तस्  
@@ -169,6 +187,12 @@ _एवम् अधिकारिणं निरूप्य तद्धर�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/059_apramattash_chared.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vigilant, unobserved, in the evening, in a village free of beggars,  
+not greedy, he should beg alms only for sustenance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप्रमत्तश् चरेद् भैक्षं  
@@ -238,6 +262,12 @@ _कथं भिक्षाटनं कार्यम् इत्य् अ
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/060_yatipAtrANi_mRdveNu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The vessels of an ascetic are made of earth, bamboo, wood, or gourd;  
+purification of these is by water and scrubbing with cow-hair.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यति-पात्राणि मृद्-वेणु-  
@@ -287,6 +317,12 @@ _यथायोगं व्यवस्थया तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/061_sannirudhyendriyagrAmaM_rAgadveShau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Restraining the collection of sense organs, abandoning passion and aversion,  
+and removing fear from living beings, a twice-born becomes immortal.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्निरुध्येन्द्रिय-ग्रामं  
@@ -331,6 +367,12 @@ _एवं च नित्यम् उत्पन्नवैराग्य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/062_kartavya_Ashayashuddhis.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Purification of disposition, especially, must be cultivated by a mendicant,  
+because it is the cause for the arising of knowledge and for the attainment of spiritual autonomy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कर्तव्य +आशय-शुद्धिस् तु  
@@ -378,6 +420,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/063_avexyA_garbhavAsAsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Dwellings in the womb should be observed, and the states resulting from karma,  
+worries, diseases, afflictions, old age, the decay of physical form,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवेक्ष्या गर्भ-वासाश् च  
@@ -426,6 +474,12 @@ _अथ किम् आशयशुद्ध्यादिना स्वा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/064_bhavo_jAtisahasreShu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+rebirth in thousands of wombs, and the reversal of the agreeable and disagreeable;  
+through the discipline of meditation he should perceive the subtle Self abiding in the self.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भवो जाति-सहस्रेषु  
@@ -455,6 +509,12 @@ _एवम् अवेक्ष्यानन्तरं किं कार�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/065_naAshramaH_kAraNan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The stage of life is not the cause in duty; duty is what is actually done.  
+Therefore, what is disagreeable to oneself one should not do to others.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न+आश्रमः कारणं धर्मे  
@@ -507,6 +567,12 @@ _यतश् चैतद् एवम्, अतः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/066_satyam_asteyam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Truthfulness, non-stealing, freedom from anger, modesty, purification, wisdom, steadfastness, self-restraint,  
+control of the senses, knowledge: this is declared to be the whole of duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सत्यम् अस्तेयम् अक्रोधो  
@@ -573,6 +639,12 @@ _एवं चेत् कर्मसंन्यासिनाम् अप�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/067_niHsaranti_yathA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as sparks burst forth from a glowing lump of iron,  
+so indeed do individual selves issue forth from the Self.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निःसरन्ति यथा लोह-  
@@ -619,6 +691,12 @@ _इमम् एवार्थं योगीन्द्रः प्रप�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/068_tatraAtmA_hi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+There the self performs actions: some on its own, some from inherent nature,  
+and some from habitual practice, consisting of both duty and non-duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्र+आत्मा हि स्वयं किञ्चित्  
@@ -672,6 +750,12 @@ _एवं तावद् अविच्छिन्नो ऽविद्य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/069_nimittam_axaraH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The instrumental cause, imperishable, the agent, the knower, possessing qualities, self-controlled,  
+unborn—it is spoken of as 'born' only from its taking up of a body.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निमित्तम् अक्षरः  
@@ -720,6 +804,12 @@ _कथं तर्हि जातव्यपदेशः कथं वा �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/070_sargAdau_sa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as in the beginning of creation it produces ether, air, fire, water, and earth,  
+each having one quality more than the last, so taking birth it assumes them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्गादौ स यथाकाशं  
@@ -764,6 +854,12 @@ _इदानीम् अज्ञानातिरेकाच् छरी�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/071_Ahutya_ApyAyate.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+By the offering the sun is nourished; from the sun comes rain, and then plants;  
+that food, through transformation into chyle, attains the state of semen.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आहुत्य +आप्यायते सूर्यः  
@@ -808,6 +904,12 @@ _यथा चाज्ञाननिबन्धन एव शरीरप्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/072_strIpuMsayos_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the union of man and woman, when semen and menstrual blood are pure,  
+the Lord himself, as the sixth, assumes the five elements all at once.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्त्री-पुंसयोस् तु संयोगे  
@@ -852,6 +954,12 @@ _नित्यानाम् एव चार्थानां कार्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/073_indriyANi_manaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The senses, mind, vital breath, knowledge, lifespan, pleasure, steadfastness,  
+retention, impulse, pain, desire, and egoism,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रियाणि मनः प्राणो  
@@ -900,6 +1008,12 @@ _अस्यैव दार्ढ्यार्थं भूयः प्र�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/074_prayatna_AkRtir.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+effort, bodily form, complexion, voice, aversion, prosperity and ruin—  
+all this is born of the Self for him who, though beginningless, wishes for a beginning.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रयत्न आकृतिर् वर्णः  
@@ -920,6 +1034,12 @@ _अस्यैव दार्ढ्यार्थं भूयः प्र�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/075_prathame_mAsi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the first month it is liquefied, compounded of the elements;  
+in the second month it is a lump; and in the third it is endowed with limbs and senses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रथमे मासि सङ्क्लेद-  
@@ -964,6 +1084,12 @@ _अविद्यावच्छिन्नस्य च ब्रह्म�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/076_AkAshAl_lAghavaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From ether it takes lightness, subtlety, sound, the ear, and bodily force;  
+and from air touch, movement, physical organisation, and dryness;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आकाशाल् लाघवं सौक्ष्म्यं  
@@ -1018,6 +1144,12 @@ _इदानीम् अङ्गेन्द्रिययोगं वि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/077_pittAt_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+from bile sight, digestion, heat, colour, and brightness;  
+from moisture taste, coldness, unctuousness, liquidity, and softness;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पित्तात् तु दर्शनं पक्तिम्  
@@ -1038,6 +1170,12 @@ _इदानीम् अङ्गेन्द्रिययोगं वि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/078_bhUmer_gandhan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+from earth smell, the organ of scent, heaviness, and solid form—  
+the unborn Self assumes all this; then in the third month it stirs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भूमेर् गन्धं तथा घ्राणं  
@@ -1058,6 +1196,12 @@ _इदानीम् अङ्गेन्द्रिययोगं वि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/079_dauhRdasyApradAnena_garbho.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through not granting the pregnancy longings, the foetus may incur a defect,  
+deformity, or even death; therefore, one must do what is pleasing to the woman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दौहृदस्याप्रदानेन  
@@ -1102,6 +1246,12 @@ _भिषक्छास्त्रानुसारेणैव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/080_sthairya~n_chaturthe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the fourth month comes firmness of the limbs; in the fifth, the production of blood;  
+in the sixth, the emergence of strength, complexion, nails, and hair.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्थैर्यं चतुर्थे त्व् अङ्गानां  
@@ -1142,6 +1292,12 @@ _एवं तृतीये ऽङ्गेन्द्रिययुक्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/081_manashchaitanyayukto.asau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Endowed with mind and consciousness, furnished with vessels, ligaments, and veins  
+in the seventh and eighth months, it is also endowed with skin, flesh, and memory.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मनश्-चैतन्य-युक्तो ऽसौ  
@@ -1186,6 +1342,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/082_punar_dhAtrIm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Its vitality runs repeatedly to the mother and repeatedly to the foetus;  
+hence, if born in the eighth month, the child is deprived of life.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुनर् धात्रीं पुनर् घर्मम्  
@@ -1233,6 +1395,12 @@ _परिपूर्नेन्द्रियस्यापि तु य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/083_navame_dashame.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the ninth or tenth month, by the powerful winds of delivery,  
+it is expelled like an arrow through the opening of the birth canal, suffering fever.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नवमे दशमे वा ऽपि  
@@ -1277,6 +1445,12 @@ _निर्व्यूढे त्व् अष्टमे मासि क
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/084_tasya_ShoDhA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Its bodies are sixfold, six layers of skin support them,  
+six are the major limbs, and there are three hundred and sixty bones.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य षोढा शरीराणि  
@@ -1321,6 +1495,12 @@ _इदम् एवाविद्याविलसितं भूयः प�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/085_sthAlaiH_saha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are sixty-four teeth together with their sockets, twenty nails,  
+and the small bones of the hands and feet, which have four locations.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्थालैः सह चतुः-षष्टिर्  
@@ -1365,6 +1545,12 @@ _इदानीं षष्ट्यधिकं शतत्रयम् अ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/086_ShaShTyangulInAn_dve.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are sixty bones of the digits, two in the heels, four in the ankles,  
+four bones in the forearms, and just as many in the shanks.
+</details>
+
 <details><summary>मूलम्</summary>
 
 षष्ट्य्-अङ्गुलीनां द्वे पार्ष्ण्योर्  
@@ -1411,6 +1597,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/087_dve_dve.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should point out two each in the knees, cheeks, thighs, shoulder blades, collarbones,  
+eye sockets, palate, and hip bones.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वे द्वे जानु-कपोलोरु-  
@@ -1451,6 +1643,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/088_bhagAsthy_ekan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The pubic bone is one; in the back there are forty-five;  
+the neck has fifteen bones; the clavicles are one on each side, and likewise the jaw.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भगास्थ्य् एकं तथा पृष्ठे  
@@ -1491,6 +1689,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/089_tanmUle_dve.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+At its base are two, two in the forehead, eyes, and temples; the nose is a solid bone;  
+the ribs together with their sockets and tubercles are seventy-two.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन्-मूले द्वे ललाटाक्षि-  
@@ -1531,6 +1735,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/090_dvau_shankhakau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are two temples, four cranial plates of the head,  
+and seventeen bones in the chest: this is the sum of a man's bones.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वौ शङ्खकौ कपालानि  
@@ -1571,6 +1781,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/091_gandharUparasasparsha_shabdAsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Smell, form, taste, touch, and sound are taught as sense objects;  
+the nose, eyes, tongue, skin, and ear are the sense organs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गन्ध-रूप-रस-स्पर्श-  
@@ -1620,6 +1836,12 @@ _एषाम् एव च ग्राहकाणि ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/092_hastau_pAyur.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two hands, the anus, the genitals, the tongue, and the two feet—  
+one should know these as the five organs of action, and the mind shares the nature of both.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हस्तौ पायुर् उपस्थं च  
@@ -1664,6 +1886,12 @@ _इमानि तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/093_nAbhir_ojo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The navel, vitality, rectum, semen, blood, both temples,  
+the head, shoulders, throat, and heart are the seats of the vital breath.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नाभिर् ओजो गुदं शुक्रं  
@@ -1708,6 +1936,12 @@ _किं च _।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/094_vapA_vasA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The omentum, fat tissue, navel, trachea, liver, spleen,  
+small intestine, kidneys, bladder, and receptacle for faeces,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वपा वसा ऽवहननं  
@@ -1764,6 +1998,12 @@ _कोष्ठसंबन्धितया _।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/095_AmAshayo.atha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the stomach, heart, large intestine, anus,  
+abdomen, and both buttocks and pelvic organs: this is proclaimed as the full extent.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आमाशयो ऽथ हृदयं  
@@ -1784,6 +2024,12 @@ _कोष्ठसंबन्धितया _।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/096_kanInike_chAxikUTe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The pupils, eye sockets, ear cavities, auricles,  
+ears, temples, eyebrows, gums, lips, buttocks,
+</details>
+
 <details><summary>मूलम्</summary>
 
 कनीनिके चाक्षि-कूटे  
@@ -1838,6 +2084,12 @@ _अविभक्ते ऽप्य् अवयवशो विभज्य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/097_vanxaNau_vRShaNau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+groins, testicles, kidneys, breasts arising from accumulations of phlegm,  
+uvula, hips, arms, and the calf-muscles in the shanks and thighs,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वङ्क्षणौ वृषणौ वृक्कौ  
@@ -1858,6 +2110,12 @@ _अविभक्ते ऽप्य् अवयवशो विभज्य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/098_tAlUdaram_bastishIrShaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+palate, belly, crown of the bladder, chin, tonsils,  
+and nape: these are the anatomical sites in this body.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तालूदरं बस्ति-शीर्षं  
@@ -1878,6 +2136,12 @@ _अविभक्ते ऽप्य् अवयवशो विभज्य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/099_axikarNachatuShka~n_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The four pairs of eyes and ears, the feet, hands, and heart,  
+and the nine apertures are indeed the seats of the vital breath.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अक्षि-कर्ण-चतुष्कं च  
@@ -1912,6 +2176,12 @@ _अस्मिन्न् एव शरीरके ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/100_shirAH_shatAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are seven hundred veins, nine hundred ligaments,  
+two hundred arteries, and five hundred muscles.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शिराः शतानि सप्तैव  
@@ -1956,6 +2226,12 @@ _किं च _।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/101_ekonatriMshallaxANi_tathA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Know that there are twenty-nine hundred thousand, nine hundred,  
+and fifty-six vessels termed veins and arteries.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एकोन-त्रिंशल्-लक्षाणि  
@@ -2000,6 +2276,12 @@ _वायुविजयार्थं तु सूक्ष्मपरि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/102_trayo_laxAs.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Three hundred thousand hairs of the beard and head are known in embodied beings,  
+one hundred and seven vital points, and two hundred joints.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रयो लक्षास् तु विज्ञेयाः  
@@ -2053,6 +2335,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/103_romNA~N_koTyas.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are fifty-four crores,  
+and sixty-seven and a half lakhs of body hairs together with the sweat-ducts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रोम्णां कोट्यस् तु पञ्चाशच्  
@@ -2099,6 +2387,12 @@ _शास्त्रान्तरोक्तपरिमाणवैकल�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/104_vAyavIyair_vigaNyante.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Even if divided, the ultimate atoms can be calculated by the wind-particles,  
+although someone alone perceives their development and persistence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वायवीयैर् विगण्यन्ते  
@@ -2133,6 +2427,12 @@ _एतद् एव स्पष्टयति ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/105_rasasya_nava.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Nine handfuls should be known of chyle, ten of water,  
+seven of faeces, and eight of blood are proclaimed;
+</details>
+
 <details><summary>मूलम्</summary>
 
 रसस्य नव विज्ञेया  
@@ -2193,6 +2493,12 @@ _आगमानुसारेणैव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/106_ShaT_shleShmA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+six of phlegm, five of bile, four of urine,  
+three of muscle-fat, two of adipose tissue, one of marrow, and above in the head [one of brain-marrow];
+</details>
+
 <details><summary>मूलम्</summary>
 
 षट् श्लेष्मा पञ्च पित्तं तु  
@@ -2227,6 +2533,12 @@ _अञ्जलिनैव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/107_shleShmaujasas_tAvad.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the same amount of phlegm-vitality, and the same amount of semen.  
+Such is this unstable body, for the liberation of which he acts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्लेष्मौजसस् तावद् एव  
@@ -2257,6 +2569,12 @@ _अञ्जलिनैव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/108_dvAsaptatisahasrANi_hRdayAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seventy-two thousand channels called the wholesome and unwholesome  
+issue forth from the heart; in the midst of them is a moon-like radiant
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वासप्तति-सहस्राणि  
@@ -2305,6 +2623,12 @@ _कः पुनर् अत्र मोक्षप्रकारो ये
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/109_maNDalan_tasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+orb; dwelling in the middle of it is the Self, motionless like a lamp.  
+It is to be known; having known it here, one is not born again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मण्डलं तस्य मध्यस्थ  
@@ -2325,6 +2649,12 @@ _कः पुनर् अत्र मोक्षप्रकारो ये
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/110_jneya~n_chaAraNyakam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should know the Āraṇyaka which I obtained from the sun,  
+and the treatise on yoga spoken by me should be known by one seeking yoga.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्ञेयं च+आरण्यकम् अहं  
@@ -2374,6 +2704,12 @@ _अस्यैव तु सम्यग् विवेकार्थम् 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/111_ananyaviShaya~N_kRtvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having made the mind, intellect, memory, and senses free from other objects,  
+the Self which resides in the heart like a lamp, the Lord, is to be meditated upon.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनन्य-विषयं कृत्वा  
@@ -2418,6 +2754,12 @@ _तद् इदानीं वेदानुगुणध्यानप्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/112_yathAvidhAnena_paThan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Reciting the chanting of the Sāman according to rule without mistake,  
+attentive, through that practice he attains the supreme Brahman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा-विधानेन पठन्  
@@ -2467,6 +2809,12 @@ _<u>ननु</u> एतत् दुर्वारत्वाद् इन्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/113_aparAntakam_ullopyaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The aparāntaka, the ullopya, the madraka, and the prakarī,  
+as well as the auveṇaka, the sarobindu, the uttara, and the songs,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपरान्तकम् उल्लोप्यं  
@@ -2523,6 +2871,12 @@ _अत एव चेन्द्रियनिरोधकत्वेन प�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/114_RggAthA_pANikA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the ṛc-hymn, the song-verse, the pāṇikā, and the brahmagītikā prescribed by Dakṣa—  
+by practicing the singing of these, known as [instruments of] liberation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋग्-गाथा पाणिका दक्ष-  
@@ -2543,6 +2897,12 @@ _अत एव चेन्द्रियनिरोधकत्वेन प�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/115_vINAvAdanatattvajnaH_shrutijAtivishAradaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+one who knows the truth of lute-playing, is skilled in microtones and melodic types,  
+and knows rhythm, enters upon the path to liberation without effort.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वीणा-वादन-तत्त्वज्ञः  
@@ -2587,6 +2947,12 @@ _भूयश् च नारदाद्यभिप्रायेणैव�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/116_gItajno_yadi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If a knower of song does not attain the highest state through yoga,  
+he becomes an attendant of Rudra and rejoices with him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गीतज्ञो यदि योगेन  
@@ -2636,6 +3002,12 @@ _तथापि तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/117_anAdir_AtmA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The self is taught to be beginningless, but its beginning is the physical body;  
+from the self arises the entire world, and the origin of the world is from the self.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनादिर् आत्मा कथितस्  
@@ -2680,6 +3052,12 @@ _प्रासङ्गिकम् अभिधायेदानीम् �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/118_katham_etad.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+“How is this? We are bewildered. Tell us how the world,  
+with gods, asuras, and humans, arose, and how the self is within it.”
+</details>
+
 <details><summary>मूलम्</summary>
 
 कथम् एतद् विमुह्यामः  
@@ -2724,6 +3102,12 @@ _एवं चानुपपन्ने जगतश् चात्मनश�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/119_mohajAlam_apAsyeha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the snare of delusion is cast aside here, the Puruṣa is indeed perceived—  
+he who has a thousand hands, feet, and eyes, has the splendour of the sun, and is thousandfold.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मोह-जालम् अपास्येह  
@@ -2772,6 +3156,12 @@ _इदानीं योगीन्द्रस् तेषाम् उत�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/120_sa_AtmA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He is the self, the sacrifice, the all-formed Prajāpati;  
+in the form of the food of Virāj, he attains the nature of the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स आत्मा चैव यज्ञश् च  
@@ -2792,6 +3182,12 @@ _इदानीं योगीन्द्रस् तेषाम् उत�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/121_yo_dravyadevatAtyAga.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The highest essence that arises from the renunciation of substance and deity,  
+that essence, having satisfied the gods and [endowed] the sacrificer with reward,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो द्रव्य-देवता-त्याग-  
@@ -2844,6 +3240,12 @@ _ततश् च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/122_saMyojya_vAyunA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+and united with wind and soma, is then drawn up by the rays;  
+ordained by the Ṛg, Yajur, and Sāma Vedas, it is brought to the solar realm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 संयोज्य वायुना सोमं  
@@ -2864,6 +3266,12 @@ _ततश् च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/123_khamaNDalAd_asau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the circle of the sky, that sun creates the highest nectar,  
+which is the birth of all beings, both the eating and the non-eating.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ख-मण्डलाद् असौ सूर्यः  
@@ -2898,6 +3306,12 @@ _यश् चासौ याज्ञो रसः सौरं धाम प�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/124_tasmAd_annAt.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From that food [arises] sacrifice again, from sacrifice again food, and again sacrifice;  
+in this way this wheel without beginning or end revolves.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्माद् अन्नात् पुनर् यज्ञः  
@@ -2932,6 +3346,12 @@ _यो ऽसाव् उदकभावेन याज्ञो रस इ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/125_anAdir_AtmA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The self is beginningless; there is no origin of the inner self;  
+but the composite individual soul is born of delusion, desire, hatred, and action.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनादिर् आत्मा सम्भूतिर्  
@@ -2976,6 +3396,12 @@ _इदं चानादिनिधनं चक्रं परिवर्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/126_sahasrAtmA_mayA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the mouth, arms, thighs, and feet of that thousand-formed primordial god  
+whom I have described to you, the social classes are born in order.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सहस्रात्मा मया यो व[वा?]  
@@ -3024,6 +3450,12 @@ _अतश् चायं परावरात्मको मूर्ता�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/127_pRthivI_pAdatas.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From his feet the earth was born, from his head heaven;  
+from his nostrils the vital breaths, from his ear the directions, from his skin wind, and from his mouth fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृथिवी पादतस् तस्य  
@@ -3054,6 +3486,12 @@ _एवम् एव प्रतिष्ठादिपदादिकार�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/128_manasash_chandramA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From his mind the moon was born, and from his eye the sun;  
+from his loins the atmosphere, and the world with all that moves and is still.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मनसश् चन्द्रमा जातश्  
@@ -3088,6 +3526,12 @@ _मानसेन दर्शनेन चाभिव्यङ्ग्य�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/129_yady_evaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+“If it is so, O Brahmin, how is he born in sinful wombs?  
+How is that Lord conjoined with undesirable states of existence?
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्य् एवं स कथं ब्रह्मन्  
@@ -3134,6 +3578,12 @@ _एवं परमात्मस्वरूपे ऽभिहिते म�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/130_karaNair_anvitasyApi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Though endowed with organs, why has he no prior knowledge?  
+And being all-pervading, why does he not perceive all-pervading sensation?”
+</details>
+
 <details><summary>मूलम्</summary>
 
 करणैर् अन्वितस्यापि  
@@ -3164,6 +3614,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/131_antyapaxisthAvaratAM_manovAkkAyakarmajaiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through faults born of the actions of mind, speech, and body,  
+this individual soul goes to the state of an outcaste, a bird, or an immobile thing, and to existence in hundreds of wombs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्त्य-पक्षि-स्थावरतां  
@@ -3208,6 +3664,12 @@ _एवं मुनिभिः परिचोदिते भगवतोत�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/132_anantAsh_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as there are endless states of being in the bodies of the embodied,  
+so too are there forms for embodied souls in all wombs in this world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनन्ताश् च यथा भावाः  
@@ -3252,6 +3714,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/133_vipAkaH_karmaNAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The fruition of some actions occurs after death, of some here [in this life],  
+and of some either here or in the next world; mental disposition is the cause in that.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विपाकः कर्मणां प्रेत्य  
@@ -3306,6 +3774,12 @@ _किं च नैव हि तत्र कर्मफलोत्पा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/134_paradravyANy_abhidhyAyaMs.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Coveting the property of others, dwelling on harmful thoughts,  
+and persisting in falsehood, one is born in lower wombs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पर-द्रव्याण्य् अभिध्यायंस्  
@@ -3350,6 +3824,12 @@ _तद् इदानीं कर्मजं कार्यकारणभ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/135_puruSho.anRtavAdI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A man who speaks untruth, is slanderous, harsh,  
+and given to incoherent babble, is born among beasts and birds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुरुषो ऽनृत-वादी च  
@@ -3394,6 +3874,12 @@ _स वाग्दोषैस् तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/136_adattAdAnanirataH_paradAropasevakaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Devoted to taking what is not given, consorting with another's wife,  
+and injuring without scriptural sanction, one is born among immobile things.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदत्तादान-निरतः  
@@ -3434,6 +3920,12 @@ _कायिकैस् तु कर्मदोषैः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/137_AtmajnaH_shauchavAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Knowing the self, pure, self-controlled, ascetic, having conquered the senses,  
+performing duty, and knowing the Vedic learning, a sāttvika person attains birth among the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आत्मज्ञः शौचवान् दान्तस्  
@@ -3480,6 +3972,12 @@ _सत्त्वगुणातिशययोगात् पुनः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/138_asatkAryarato.adhIra.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Devoted to bad deeds, unsteady, undertaking bold enterprises, and sensual—  
+such a rājasa person, having died, attains birth among human beings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 असत्-कार्य-रतो ऽधीर  
@@ -3524,6 +4022,12 @@ _अतिशयरजःसंबन्धात् तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/139_nidrAluH_krUrakRl.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sleepy, cruel, greedy, atheistic, and a beggar,  
+negligent and of broken conduct—such a tāmasa person is born among animals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निद्रालुः क्रूर-कृल् लुब्धो  
@@ -3570,6 +4074,12 @@ _अपुण्यभूयस्त्वात् तु स्वभाव�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/140_rajasA_tamasA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thus pervaded by rajas and tamas, wandering here,  
+joined with undesirable states, he enters the cycle of rebirth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रजसा तमसा चैवं  
@@ -3614,6 +4124,12 @@ _एवं च मनोभावमूलत्वात् संसारस�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/141_malino_hi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For just as a tarnished mirror is not capable of reflecting an image,  
+so the [mind whose] faculties are unripened is not capable of knowledge of the self.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मलिनो हि यथा आदर्शो  
@@ -3658,6 +4174,12 @@ _रजस्तमोभ्याम् अभिभूतसत्त्वश
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/142_kaTver_vArau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as sweet juice, though present, is not obtained  
+in an unripe bitter gourd, so consciousness is not found in the self when its faculties are unripened.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कट्वेर् वारौ यथा ऽपक्वे  
@@ -3706,6 +4228,12 @@ _अतश् चानुच्छिन्नकरणशक्ताव् �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/143_sarvAshrayAn_nije.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The embodied soul experiences sensation residing in its own body;  
+and a yogi is liberated who experiences no sensations of any kind.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वाश्रयां निजे देहे  
@@ -3750,6 +4278,12 @@ _यद् उक्तं "वेत्ति सर्वगतां कस�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/144_AkAsham_ekaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For just as space, though one, becomes distinct in pots and other things,  
+so the self is one and many, like the sun in vessels of water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आकाशम् एकं हि यथा  
@@ -3802,6 +4336,12 @@ _कथं पुनर् एकस्यैव विभक्ताविभ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/145_brahmakhAnilatejAMsi_jalam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Brahman, space, wind, fire, water, and earth are the primary elements;  
+these worlds and this self [arise from them], and from that [comes] all that moves and is still.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म-खानिल-तेजांसि  
@@ -3855,6 +4395,12 @@ _यदि तर्हि सवितुर् इवाभिन्नस्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/146_mRddaNDachakrasaMyogAt_kumbhakAro.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as a potter makes a pot through the combination of clay, staff, and wheel,  
+or a builder makes a house with grass, earth, and wood,
+</details>
+
 <details><summary>मूलम्</summary>
 
 मृद्-दण्ड-चक्र-संयोगात्  
@@ -3906,6 +4452,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/147_hemamAtram_upAdAya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+or a goldsmith makes a form using gold alone,  
+or a silkworm makes a cocoon through the union of its own saliva,
+</details>
+
 <details><summary>मूलम्</summary>
 
 हेम-मात्रम् उपादाय  
@@ -3926,6 +4478,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/148_kAraNAny_evam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+so the self, taking up the causes and coming together with the organs  
+in various wombs in this world, creates itself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कारणान्य् एवम् आदाय  
@@ -3963,6 +4521,12 @@ _तद् दर्शयति,_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/149_mahAbhUtAni_satyAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The great elements are real, and just so is the self;  
+for who otherwise sees with one eye what was seen with the other?
+</details>
+
 <details><summary>मूलम्</summary>
 
 महा-भूतानि सत्यानि  
@@ -4011,6 +4575,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/150_vAchaM_vA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or who recognizes speech after hearing it repeatedly?  
+Who has memory of past things, or who is the maker of dreams?
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाचं वा को विजानाति  
@@ -4045,6 +4615,12 @@ _एतद् एव भूयः स्पष्टयति ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/151_jAtirUpavayovRtta_vidyAdibhir.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Filled with egoism on account of birth, appearance, age, conduct, and learning,  
+undertaking action toward objects such as sound through deeds, mind, and speech,
+</details>
+
 <details><summary>मूलम्</summary>
 
 जाति-रूप-वयो-वृत्त-  
@@ -4090,6 +4666,12 @@ _अपि चानुभवत एवात्मतत्त्वावग�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/152_sa_sandigdhamatiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+his mind doubting whether the fruit of action exists or not,  
+astray, though unaccomplished he considers himself accomplished.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स सन्दिग्ध-मतिः कर्म-  
@@ -4134,6 +4716,12 @@ _किं च यस् तावद् योगसंसिद्धः स �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/153_mama_dArAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thinking ‘My wife, my sons, my ministers; I belong to them’—such is his condition;  
+he is always perverse in judgment concerning what is beneficial and harmful.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मम दाराः सुतामात्या  
@@ -4182,6 +4770,12 @@ _तथा हि ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/154_jneyajne_prakRtau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Making no distinction between the object of knowledge and the knower, or between primary nature and its modifications,  
+he is eager to end his life by starvation, fire, poison, or jumping into water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्ञेयज्ञे प्रकृतौ चैव  
@@ -4214,6 +4808,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/155_evaMvRtto.avinItAtmA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Behaving thus, his soul undisciplined and committed to falsehood,  
+he is bound by action, by hatred and delusion, and by desire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवं-वृत्तो ऽविनीतात्मा  
@@ -4234,6 +4834,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/156_AchAryopAsanaM_veda.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Attendance upon the preceptor, discernment regarding the meaning of the Vedas and treatises,  
+performance of their rites, association with the virtuous, auspicious speech,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आचार्योपासनं वेद-  
@@ -4290,6 +4896,12 @@ _एवं च महाघोरं संसारम् आपन्नस्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/157_stryAlokAlambhavigamaH_sarvabhUtAtmadarshanam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+desisting from looking at or touching women, seeing oneself in all beings,  
+renunciation of possessions, wearing worn ochre robes,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्त्र्य्-आलोकालम्भ-विगमः  
@@ -4310,6 +4922,12 @@ _एवं च महाघोरं संसारम् आपन्नस्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/158_viShayendriyasaMrodhas_tandrAlasyavivarjanam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+restraint of the senses from sense-objects, avoidance of drowsiness and laziness,  
+critical reflection on the body, perceiving evil in active pursuits,
+</details>
+
 <details><summary>मूलम्</summary>
 
 विषयेन्द्रिय-संरोधस्  
@@ -4330,6 +4948,12 @@ _एवं च महाघोरं संसारम् आपन्नस्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/159_nIrajastamasA_sattva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+purification of sattva through the removal of rajas and tamas, freedom from craving, and tranquillity—  
+purified by these means, endowed with sattva, one becomes immortal.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नीरजस्-तमसा[?] सत्त्व-  
@@ -4350,6 +4974,12 @@ _एवं च महाघोरं संसारम् आपन्नस्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/160_tattvasmRter_upasthAnAt.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through the presence of memory of the reality, through union with sattva, through the destruction  
+of actions, and through proximity to the virtuous, yoga proceeds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्त्व-स्मृतेर् उपस्थानात्  
@@ -4394,6 +5024,12 @@ _योगात् कैवल्यम् उक्तम् । स एव �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/161_sharIrasanxaye_yasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+At the dissolution of the body, he whose mind is fixed on purity [and] the Lord,  
+with an unwavering intellect, fully attains the recollection of his former births.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शरीर-सङ्क्षये यस्य  
@@ -4438,6 +5074,12 @@ _यद्य् अपि च कथंचिद् युक्तस्या
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/162_yathA_hi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For just as an actor colours his body with paints  
+creating various forms, so does the self [assume] bodies born of action.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा हि भरतो वर्णैर्  
@@ -4482,6 +5124,12 @@ _किं च स्वयंकृतैर् एव शुभाशुभै
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/163_kAlakarmAtmabIjAnAM_doShair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through defects of time, action, the self's seed, and likewise of the mother,  
+deformity of the embryo is observed, such as being born lacking limbs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 काल-कर्मात्म-बीजानां  
@@ -4526,6 +5174,12 @@ _<u>ननु</u> च जातिस्मरत्वे ऽप्य् अ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/164_ahankAreNa_manasA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Never before has this self been liberated from egoism,  
+mind, transmigration, the fruit of action, and the physical body.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अहङ्कारेण मनसा  
@@ -4583,6 +5237,12 @@ _अस्यैव च परप्राप्त्युपदेशमा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/165_vartyAdhArasnehayogAd_yathA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as the persistence of a lamp depends on the combination of wick, base, and oil,  
+and its destruction is likewise observed, so occurs premature exhaustion of vital breath.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वर्त्य्-आधार-स्नेह-योगाद्  
@@ -4627,6 +5287,12 @@ _<u>ननु</u> च साधारणविशेषात्मकस्य 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/166_anantA_rashmayas.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Endless are the rays of him who dwells like a lamp in the heart:  
+white, black, variegated, tawny, dark blue, and red.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनन्ता रश्मयस् तस्य  
@@ -4673,6 +5339,12 @@ _तद् इदानीं प्राणसंक्षयहेतुभ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/167_Urdhvam_ekaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One of them extends upwards; piercing the orb of the sun  
+and passing beyond the realm of Brahmā, one attains through it the supreme goal.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊर्ध्वम् एकः स्थितस् तेषां  
@@ -4703,6 +5375,12 @@ _परप्राप्त्युपायभूतश् च सुषु�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/168_yad_asyAnyad.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through the hundred other rays of his that are also directed upwards,  
+one attains the bodies of gods along with their celestial abodes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद् अस्यान्यद् रश्मि-शतम्  
@@ -4745,6 +5423,12 @@ _काम्योपासनयोगाद् ब्रह्मार्प
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/169_ye.anekarUpAsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those multiform rays of his extending downwards, endowed with soft radiance—  
+by means of them, helpless, he transmigrates here to experience [the fruits of] action.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये ऽनेक-रूपाश् चाधस्ताद्  
@@ -4789,6 +5473,12 @@ _यस् तु कामात्मको राजसः खलु कर�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/170_vedaiH_shAstraiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through the Vedas, the treatises along with higher knowledge, through birth and death,  
+through distress, departure, and return, through truth and falsehood,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वेदैः शास्त्रैः स-विज्ञानैर्  
@@ -4845,6 +5535,12 @@ _एवं चैतत् परावरं ब्रह्मणः स्व
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/171_shreyasA_sukhaduHkhAbhyAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+through the highest good, pleasure and pain, through good and evil deeds,  
+through the results born of the knowledge of omens, auguries, and planetary conjunctions,
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रेयसा सुख-दुःखाभ्यां  
@@ -4865,6 +5561,12 @@ _एवं चैतत् परावरं ब्रह्मणः स्व
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/172_tArAnaxatrasanchArair_jAgaraiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+through the movements of stars and asterisms, waking states, and those born of dreams,  
+and likewise through space, wind, fire, water, and earth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तारा-नक्षत्र-सञ्चारैर्  
@@ -4885,6 +5587,12 @@ _एवं चैतत् परावरं ब्रह्मणः स्व
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/173_manvantarair_yugaprAptyA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+through cosmic eras, the arrival of world-ages, and the fruits of mantras and medicinal herbs—  
+know the self as the object of knowledge and the cause of the universe.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मन्वन्तरैर् युग-प्राप्त्या  
@@ -4905,6 +5613,12 @@ _एवं चैतत् परावरं ब्रह्मणः स्व
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/174_ahankAraH_smRtir.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Egoism, memory, intellect, hatred, discernment, pleasure, resolve,  
+the movement between different sense organs, desire, bodily sustenance and life,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अहङ्कारः स्मृतिर् मेधा  
@@ -4957,6 +5671,12 @@ _भूयश् चोपसंहारार्थं सौहृदात�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/175_svargaH_svapnash.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+heaven, dream, the impulse of mental states, the movement of the mind,  
+blinking, consciousness, effort, and the acquisition of the five elements—
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वर्गः स्वप्नश् च भावानां  
@@ -4977,6 +5697,12 @@ _भूयश् चोपसंहारार्थं सौहृदात�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/176_yata_etAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+since these are observed as the marks of the Supreme Self,  
+therefore there is a self beyond the body, all-pervading and sovereign.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत एतानि दृश्यन्ते  
@@ -4997,6 +5723,12 @@ _भूयश् चोपसंहारार्थं सौहृदात�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/177_buddhIndriyANi_sArthAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sense organs along with their objects, the mind, the organs of action,  
+egoism, intellect, and earth and the other [elements],
+</details>
+
 <details><summary>मूलम्</summary>
 
 बुद्धीन्द्रियाणि सार्थानि  
@@ -5043,6 +5775,12 @@ _इदानीं क्षेत्रज्ञपत्योर् वि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/178_avyaktam_AtmA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the unmanifest, and the self are declared as the knower of the field of this field—  
+the Lord dwelling in all beings, who is existence, non-existence, and both existence and non-existence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अव्यक्तम् आत्मा क्षेत्रज्ञः  
@@ -5081,6 +5819,12 @@ _एतच् चतुर्विंशतितत्त्वात्मक
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/179_buddher_utpattir.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The arising of the intellect is from the unmanifest; from that arises egoism;  
+from egoism arise the subtle elements and the rest, having successively one additional quality.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बुद्धेर् उत्पत्तिर् अव्यक्तात्  
@@ -5125,6 +5869,12 @@ _इदानीं क्षेत्रज्ञोत्पत्तिक्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/180_shabdaH_sparshash.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sound, touch, form, taste, and smell are their qualities;  
+whichever has emerged from whatever dissolves back into that very thing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शब्दः स्पर्शश् च रूपं च  
@@ -5180,6 +5930,12 @@ _सृष्टौ च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/181_yatha_AtmAnaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thus has it been declared to you by me how the self creates itself,  
+even though it is the Lord, through the ripening of the three kinds of action.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथ +आत्मानं सृजत्य् आत्मा  
@@ -5228,6 +5984,12 @@ _इदानीं पूर्वोक्तम् अर्थं कार�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/182_sattvaM_rajas.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Purity, passion, and darkness are celebrated as its very qualities;  
+enveloped by passion and darkness, it is indeed whirled around like a wheel.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सत्त्वं रजस् तमश् चैव  
@@ -5271,6 +6033,12 @@ _यद्य् एवं कथं तर्हि बन्धमुक्त
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/183_anAdir_AdimAMsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Beginningless yet possessing a beginning, that very one is the supreme person;  
+having a form perceptible through bodily marks and senses, he is declared subject to modification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनादिर् आदिमांश् चैव  
@@ -5305,6 +6073,12 @@ _इदानीं परावरब्रह्मोपसंहर्तु
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/184_pitRyAno.ajavIthyAsh.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The space between the path of the ancestors, the Goat's Way, and Agastya—  
+along that path the performers of the Agnihotra, desiring heaven, proceed to the sky.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितृ-यानो ऽज-वीथ्याश् च  
@@ -5349,6 +6123,12 @@ _यश् चायं क्षेत्रज्ञतया प्रवि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/185_ye_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+And those devoted to generosity, properly endowed with the eight virtues,  
+dedicated to the vow of truth, also go by that very path.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये च दान-पराः सम्यग्  
@@ -5393,6 +6173,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/186_tatrAShTAshItisAhasra_munayo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+There dwell eighty-eight thousand householder sages  
+who return again, serving as the seeds [of mankind] and promoters of duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्राष्टाशीति-साहस्र-  
@@ -5437,6 +6223,12 @@ _यश् चानेन मार्गेण द्युर्लोकः,
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/187_saptarShinAgavIthyantar_devalokaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Between the Seven Seers and the Serpent's Way, settled in the realm of the gods,  
+are just as many sages who have abandoned all worldly undertakings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सप्तर्षि-नाग-वीथ्य्-अन्तर्  
@@ -5487,6 +6279,12 @@ _सप्तर्षिनागवीथ्योर् अन्तराल
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/188_tapasA_brahmacharyeNa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through austerity, celibate studenthood, abandonment of attachment, and wisdom,  
+having gone there, they remain until the dissolution of the elements.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तपसा ब्रह्म-चर्येण  
@@ -5513,6 +6311,12 @@ _सप्तर्षिनागवीथ्योर् अन्तराल
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/189_yato_vedAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From whom [originate] the Vedas, the Purāṇas, the sciences and the Upaniṣads,  
+verses, aphorisms, commentaries, and whatever speech exists—
+</details>
+
 <details><summary>मूलम्</summary>
 
 यतो वेदाः पुराणानि  
@@ -5559,6 +6363,12 @@ _<u>ननु</u> च कार्यार्थत्वाद् वेदस
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/190_vedAnuvachanaM_yajno.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the recitation of the Veda, sacrifice, celibate studenthood, austerity, self-control,  
+faith, fasting, and mastery over oneself are the means of knowing the self.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वेदानुवचनं यज्ञो  
@@ -5589,6 +6399,12 @@ _ततः किम्, इत्य् अत आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/191_sa_hy.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should indeed be sought after in this very manner by all the stages of life;  
+and he must be seen, contemplated, and heard of by the twice-born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ह्य् आश्रमैर् विजिज्ञास्यः  
@@ -5646,6 +6462,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/192_ya_enam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who know him thus, or those forest-dwelling twice-born  
+who worship the truth endowed with supreme faith—
+</details>
+
 <details><summary>मूलम्</summary>
 
 य एनम् एवं विन्दन्ति  
@@ -5680,6 +6502,12 @@ _पूर्वोकमार्गद्वयानुसारिणश् 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/193_kramAt_te.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+they successively attain the flame, the day, the bright fortnight, the northern  
+course [of the sun], the realm of the gods, the sun, and the realm of lightning.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रमात् ते सम्भवन्त्य् अर्चिर्  
@@ -5728,6 +6556,12 @@ _ये चैवं विदुः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/194_tatas_tAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then a mind-born person, approaching them, leads them to the realm of Brahmā;  
+for them, there is no return to this world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततस् तान् पुरुषो ऽभ्येत्य  
@@ -5748,6 +6582,12 @@ _ये चैवं विदुः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/195_yajnena_tapasA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those men, however, who conquer heaven through sacrifice, austerity, and gifts,  
+successively attain the smoke, the night, the dark fortnight, the southern course [of the sun],
+</details>
+
 <details><summary>मूलम्</summary>
 
 यज्ञेन तपसा दानैर्  
@@ -5798,6 +6638,12 @@ _अजवीथिमार्गावस्थित्या च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/196_pitRloka~n_chandramasaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the realm of the ancestors, the moon, wind, rain, water, and earth,  
+and they return again into this world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितृ-लोकं चन्द्रमसं  
@@ -5818,6 +6664,12 @@ _अजवीथिमार्गावस्थित्या च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/197_etad_yo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who, having a self, does not understand this pair of paths  
+becomes a venomous serpent, a moth, an insect, or a worm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एतद् यो न विजानाति  
@@ -5852,6 +6704,12 @@ _रजस्तमोभ्याम् अतिपरिप्लवाद्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/198_UrusthottAnacharaNaH_savye.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the upturned foot placed on the thigh, resting the upper hand on the left,  
+raising the upturned face slightly, and steadying the chin against the chest,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊरुस्थोत्तान-चरणः  
@@ -5911,6 +6769,12 @@ _इदानीम् अतिसौहृदात् परमात्म�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/199_nimIlitAxaH_sattvastho.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+with closed eyes, established in purity, not letting the teeth touch the teeth,  
+keeping the motionless tongue against the palate, with mouth closed, perfectly still,
+</details>
+
 <details><summary>मूलम्</summary>
 
 निमीलिताक्षः सत्त्वस्थो  
@@ -5931,6 +6795,12 @@ _इदानीम् अतिसौहृदात् परमात्म�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/200_sannirudhyendriyagrAmaM_nAtinIchochChritAsanaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+having restrained the collection of senses, seated on a seat neither too low nor too high,  
+he should undertake breath control doubled or tripled.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्निरुध्येन्द्रिय-ग्रामं  
@@ -5951,6 +6821,12 @@ _इदानीम् अतिसौहृदात् परमात्म�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/201_tato_dhyeyaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then the Lord, who dwells like a lamp in the heart, should be meditated upon;  
+and fixing the mind there, the wise man should practice concentration.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो ध्येयः स्थितो यो ऽसौ  
@@ -5985,6 +6861,12 @@ _प्राणायामैश् चात्मानं संशोध�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/202_antardhAnaM_smRtiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Invisibility, memory, beauty, clairvoyance, clairaudience,  
+abandoning one's own body and entering another's body,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्तर्धानं स्मृतिः कान्तिर्  
@@ -6033,6 +6915,12 @@ _प्रतिपन्नान्तर्यामिस्वरूपस�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/203_arthAnA~n_ChandataH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+and the creation of objects at will are indeed the marks of the perfection of yoga;  
+when yoga is perfected, one who casts off the body is fit for immortality.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अर्थानां छन्दतः सृष्टिर्  
@@ -6053,6 +6941,12 @@ _प्रतिपन्नान्तर्यामिस्वरूपस�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/204_atha_vA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or rather, practicing the Veda, having cast off rites, dwelling in the forest,  
+eating unbegged food, and eating in moderation, he may attain supreme perfection.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ वा ऽप्य् अभ्यसन् वेदं  
@@ -6097,6 +6991,12 @@ _एवम् एतत्प्राप्तिपर्यन्तं प�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/4_yati-dharma-prakaraNam/205_nyAyAgatadhanas_tattva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One whose wealth is acquired righteously, devoted to knowledge of the truth, fond of guests,  
+performing ancestral rites, and speaking the truth—even a householder is liberated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न्यायागत-धनस् तत्त्व-  

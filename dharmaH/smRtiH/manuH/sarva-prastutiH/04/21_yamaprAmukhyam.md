@@ -12,6 +12,11 @@ title = "२१ यमप्रामुख्यम्"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/204_yamAn_seveta.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+204	A wise man should constantly discharge the paramount duties (called yama), but not always the minor ones (called niyama); for he who does not discharge the former, while he obeys the latter alone, becomes an outcast.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wise man shall always observe the Restraints, but not necessarily the Observances. Not observing the Restraints, and keeping the Observances alone, he falls.—(204)
@@ -122,11 +127,6 @@ the sexual organs, Attendance on the teacher, Cleanliness, Freedom from anger an
 <details><summary>गोविन्दराजः</summary>
 
 **यमान्** इति । हिंसादयो वर्जनीया यमाः सन्ध्यानुष्ठानादयः कर्तव्यात्मका नियमाः तत्र गुरुलाघवज्ञः नियमकोपेनापि सर्वदा यमान् अनुतिष्ठेत् । य यमत्यागेन **नियमान्** यस्मात् **केवनान् **कर्तव्यरूपान् अनुतिष्ठेत् वर्जनीयान् ब्रह्महत्यादीन् अवर्जयन् **पतति **। नियमानुष्ठाने ऽप्य् अनधिकृतो भवति । यथोक्तं गौतमेन “द्विजातिकर्मभ्यो हानिः पतनम्” इति । एतच् च यमगौरवख्यापनार्थम् उच्यते, न नियमनिषेधार्थम्, तेषां शास्त्रेण कर्तव्यतया चोदितत्वात् ॥ ४.२०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-204	A wise man should constantly discharge the paramount duties (called yama), but not always the minor ones (called niyama); for he who does not discharge the former, while he obeys the latter alone, becomes an outcast.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -12,6 +12,12 @@ title = "२ आपद्-धर्म-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/2_Apad-dharma-prakaraNam/035_xAtreNa_karmaNA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In distress, a twice-born may live by the work of a Kshatriya or even of a Vaishya;  
+having crossed over it, he should purify himself and set himself upon the proper path.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षात्रेण कर्मणा जीवेद्  
@@ -84,6 +90,12 @@ _"अकार्यकारिणां दानाच् छुद्धि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/2_Apad-dharma-prakaraNam/036_phalopalaxaumasoma_manuShyApUpavIrudhaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Fruits, gems, linen, soma, human beings, cakes, creepers,  
+sesame, boiled rice, essences, alkaline salts, curds, milk, ghee, water,
+</details>
+
 <details><summary>मूलम्</summary>
 
 फलोपल-क्षौम-सोम-  
@@ -167,6 +179,12 @@ _आपद्गतो ऽपि च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/2_Apad-dharma-prakaraNam/037_shastrAsavamadhUchChiShTaM_madhu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+weapons, spirituous liquor, beeswax, honey, lac, kuśa grass,  
+earth, skins, flowers, woollen blankets, hair, buttermilk, poison, land,
+</details>
+
 <details><summary>मूलम्</summary>
 
 शस्त्रासव-मधूच्छिष्टं  
@@ -187,6 +205,12 @@ _आपद्गतो ऽपि च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/2_Apad-dharma-prakaraNam/038_kausheyanIlalavaNa_mAMsaikashaphasIsakAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+silk, indigo, salt, meat, single-hoofed animals, lead,  
+dung, moist medicinal herbs, oil-cake, beasts, and perfumes—
+</details>
+
 <details><summary>मूलम्</summary>
 
 कौशेय-नील-लवण-  
@@ -207,6 +231,12 @@ _आपद्गतो ऽपि च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/2_Apad-dharma-prakaraNam/039_vaishyavRttyA.api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+even when living by the occupation of a Vaishya, he must never sell these.  
+For religious purposes, sesame may be bartered for equal grain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वैश्य-वृत्त्या ऽपि जीवन् नो  
@@ -256,6 +286,12 @@ _प्रतिप्रसवम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/2_Apad-dharma-prakaraNam/040_lAxAlavaNamAMsAni_patanIyAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Lac, salt, and meat cause degradation when sold;  
+milk, curds, and intoxicating drink make one lower in class.
+</details>
+
 <details><summary>मूलम्</summary>
 
 लाक्षा-लवण-मांसानि  
@@ -305,6 +341,12 @@ _अपि च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/2_Apad-dharma-prakaraNam/041_ApadgataH_sampragRhNan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A Brahmin in distress, accepting gifts or eating from anyone whatsoever,  
+is not tainted by sin, for he is equal to fire and the sun.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आपद्-गतः सम्प्रगृह्णन्  
@@ -352,6 +394,12 @@ _तद् एव स्पष्टयति ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/2_Apad-dharma-prakaraNam/042_kRShiH_shilpam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agriculture, crafts, hired labour, teaching, money-lending, carting, [gathering in] mountains,  
+service, [clearing] wetlands, the king, and begging are livelihoods in distress.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृषिः शिल्पं भृतिर् विद्या  
@@ -399,6 +447,12 @@ _यतश् चैतद् एवम् अतः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/2_Apad-dharma-prakaraNam/043_bubhuxitas_tryahaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Remaining hungry for three days, he may take grain from a non-Brahmin;  
+having taken it, if charged, he must declare it according to duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बुभुक्षितस् त्र्यहं स्थित्वा  
@@ -451,6 +505,12 @@ _दुस्तरत्वाद् एव चापदाम् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/2_Apad-dharma-prakaraNam/044_tasya_vRtta~N.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having ascertained his conduct, family, character, learning, recitation, austerity,  
+and household, the king should assign him a righteous livelihood.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य वृत्तं कुलं शीलं  

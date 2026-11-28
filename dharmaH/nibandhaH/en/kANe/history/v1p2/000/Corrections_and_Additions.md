@@ -1,34 +1,29 @@
 +++
 title = "Corrections and Additions"
-
+proofreader = [ "Gemini 4 Hydrogen",]
 +++
 
-CORRECTIONS AND ADDITIONS 
+[[Pxlv]]
+CORRECTIONS AND ADDITIONS
 
-(N. B. : Errors in printing that can be easily detected 
+(N. B. : Errors in printing that can be easily detected have been passed over).
 
-have been passed over ). 
+PART : I
 
-Part : 1 
+Page 469 Line 32 : Read 'note 320' for 'note 269'.
 
-Page 469 Line 32 : Read • note 320' for note 269. Page 499 Line 6 : Read · Manu' for 'Bhsgu'. 
+Page 499 Line 6 : Read 'Manu' for 'Bhṛgu'.
 
-PART : 11 
+PART : II
 
-Page 597 Line 22 : Read · Misarumisra' for Harinātha', 
+Page 597 Line 22 : Read 'Misarumiśra' for 'Harinātha'.
 
-Page 762 Line 28 : Read 1310 A. D.' for ‘1510 A. D.'. 
+Page 762 Line 28 : Read '1310 A. D.' for '1510 A. D.'.
 
-Page 836 Line 27 : Omit of' after “Prof.'. Page 843 note 1273 : Read' 
+Page 836 Line 27 : Omit 'of' after 'Prof.'.
 
-3 ' for '3 HT Nati! 
+Page 843 note 1273 : Read 'अलभत सुनयं' for 'अलभत तनयं'.
 
-Page 979 Line 10 : Read the following additional sentence after 
+Page 979 Line 10 : Read the following additional sentence after the word '_taraṅgas_'—
 
-the word tarangas' 
-
-But the most famous of such digests that owed their in spiration to the British is the Vivādabhangārpava compiled by Jagannatha Tarkapancānana of Triveni on the Ganges, son of Rudra Tarkavāgisa. 
-
-65. Dhāreśvara Bhojadeva 
-
-585 
+But the most famous of such digests that owed their inspiration to the British is the Vivādabhaṅgārṇava compiled by Jagannātha Tarkapañcānana of Triveṇī on the Ganges, son of Rudra Tarkavāgīśa. 

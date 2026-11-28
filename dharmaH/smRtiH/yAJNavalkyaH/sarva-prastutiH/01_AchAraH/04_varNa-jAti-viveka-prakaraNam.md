@@ -20,6 +20,12 @@ title = "०४ वर्ण-जाति-विवेक-प्रकरणम�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/04_varNa-jAti-viveka-prakaraNam/090_savarNebhyaH_savarNAsu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From men of the same social class in women of the same social class are indeed born children of the same caste  
+in blameless marriages—sons who increase the lineage.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सवर्णेभ्यः सवर्णासु  
@@ -102,6 +108,12 @@ _पुत्रार्थं "स्त्रियः सेव्या भ
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/04_varNa-jAti-viveka-prakaraNam/091_viprAn_mUrdhAvasikto.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From a Brahmin [is born] a Mūrdhāvasikta on a Kshatriya woman; on a woman of the Vaishya [class],  
+an Ambaṣṭha; on a Shudra woman, a Niṣāda or Pāraśava is born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विप्रान् मूर्धावसिक्तो हि  
@@ -160,6 +172,12 @@ _एवं तावत् सवर्णाया अव्यभिचार�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/04_varNa-jAti-viveka-prakaraNam/092_vaishyAshUdryos_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From a Kshatriya on a Vaishya woman and a Shudra woman, a Māhiṣya and an Ugra son are recorded;  
+but from a Vaishya on a Shudra woman, a Karaṇa [is born]; this rule is recorded with regard to married wives.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वैश्या-शूद्र्योस् तु राजन्यान्  
@@ -220,6 +238,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/04_varNa-jAti-viveka-prakaraNam/093_brAhmaNyA~N_xatriyAt.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From a Kshatriya on a Brahmin woman is born a Sūta, and likewise from a Vaishya, a Vaidehaka;  
+but born from a Shudra is a Caṇḍāla, excluded from all duties.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्राह्मण्यां क्षत्रियात् सूतो  
@@ -297,6 +321,12 @@ _उत्कृष्टवर्णसंबन्धेनोत्कर्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/04_varNa-jAti-viveka-prakaraNam/094_xatriyA_mAgadhaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A Kshatriya woman bore a Māgadha from a Vaishya, and a Kṣattṛ from a Shudra;  
+a Vaishya woman bore an Āyogava son from a Shudra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षत्रिया मागधं वैश्याच्  
@@ -325,6 +355,12 @@ _उत्कृष्टवर्णसंबन्धेनोत्कर्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/04_varNa-jAti-viveka-prakaraNam/095_mAhiShyeNa_karaNyAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From a Māhiṣya on a Karaṇa woman a Rathakāra is produced.  
+Those born against the grain and with the grain are to be known as base and noble respectively.
+</details>
+
 <details><summary>मूलम्</summary>
 
 माहिष्येण करण्यां तु  
@@ -380,6 +416,12 @@ _एवं तावत् प्रातिलोम्येनोत्क�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/04_varNa-jAti-viveka-prakaraNam/096_jAtyutkarSho_yuge.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+An elevation of class is to be understood [to take place] in the seventh or in the fifth generation;  
+in the case of an inversion of conduct, equality [of class] and descent [occur], as previously explained.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जात्य्-उत्कर्षो युगे ज्ञेयः  

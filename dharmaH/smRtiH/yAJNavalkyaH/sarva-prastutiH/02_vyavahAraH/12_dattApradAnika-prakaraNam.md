@@ -30,6 +30,12 @@ title = "१२ दत्ताप्रदानिक-प्रकरणम्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/12_dattApradAnika-prakaraNam/175_sva~N_kuTumbAvirodhena.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One's own property, except for wife and son, may be given without detriment to the family;  
+not one's entire estate when there is progeny, nor what has been promised to another.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वं कुटुम्बाविरोधेन  
@@ -231,6 +237,12 @@ _पारितोषिकदानप्रसङ्गेनादृष्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/12_dattApradAnika-prakaraNam/176_pratigrahaH_prakAshaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Acceptance of a gift should be public, especially of immovable property;  
+what is proper to give and has been promised should be given, and once given, he must not take it back.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिग्रहः प्रकाशः स्यात्  

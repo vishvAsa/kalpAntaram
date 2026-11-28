@@ -12,6 +12,12 @@ title = "०९ सीमा-विवाद-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/09_sImA-vivAda-prakaraNam/150_sInno_vivAde.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In a legal dispute over the boundary of a field, neighbouring landholders, elders, and others,  
+herdsmen, cultivators along the boundary, and all forest-dwellers,
+</details>
+
 <details><summary>मूलम्</summary>
 
 सीन्नो विवादे क्षेत्रस्य  
@@ -265,6 +271,12 @@ _क्षेत्रादीनां पृथक्त्वेनावस
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/09_sImA-vivAda-prakaraNam/151_nayeyur_ete.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+shall determine the boundary marked by mounds, charcoal, chaff, trees,  
+dikes, anthills, hollows, bones, shrines, and the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नयेयुर् एते सीमानं  
@@ -299,6 +311,12 @@ _नृपब्राह्मणाधिष्ठिताश् च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/09_sImA-vivAda-prakaraNam/152_sAmantA_vA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or neighbouring landholders, men of the same village, four, eight, or even ten,  
+wearing red garlands and garments, bearing earth, shall determine the boundary.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सामन्ता वा सम-ग्रामाश्  
@@ -435,6 +453,12 @@ _यत्र न सन्ति सीमनिर्णयसमर्था�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/09_sImA-vivAda-prakaraNam/153_anRte_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If they testify falsely, they shall each be punished by the king with the middling fine for heinous offences;  
+in the absence of witnesses and marks, the king is the fixer of the boundary.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनृते तु पृथग् दण्ड्या  
@@ -578,6 +602,12 @@ _एते च सीमाप्रणेतारः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/09_sImA-vivAda-prakaraNam/154_ArAmAyatanagrAma_nipAnodyAnaveshmasu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the case of pleasure-groves, temples, villages, reservoirs, gardens, and houses,  
+as well as channels of rainwater and the like, this very same rule is to be known.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आरामायतन-ग्राम-  
@@ -680,6 +710,12 @@ _यो ऽयं क्षेत्रसीमाविधिर् उक्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/09_sImA-vivAda-prakaraNam/155_maryAdAyAH_prabhede.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For breaking a landmark, for trespassing beyond a boundary,  
+and for seizing a field, the fines are lowest, highest, and middling [respectively].
+</details>
+
 <details><summary>मूलम्</summary>
 
 मर्यादायाः प्रभेदे च  
@@ -761,6 +797,12 @@ _उक्तमर्यादक्षेत्रादीनां च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/09_sImA-vivAda-prakaraNam/156_na_niShedhyo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A dike that causes little injury but produces benefit is not to be prohibited;  
+nor a well taking up another's land, occupying a very small area but having abundant water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न निषेध्यो ऽल्प-बाधस् तु  
@@ -825,6 +867,12 @@ _सर्वथा च परक्षेत्राद्यनपहरण�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/09_sImA-vivAda-prakaraNam/157_svAmine_yo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who constructs a dike in a field without first informing the owner:  
+when profit arises, the enjoyment belongs to the owner; in his absence, to the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वामिने यो ऽनिवेद्यैव  
@@ -899,6 +947,12 @@ _एवं च सति क्षेत्रस्वाम्यननुज�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/09_sImA-vivAda-prakaraNam/158_phAlAhatam_api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who does not cultivate a field, nor cause it to be cultivated, even though it has been broken with the plough,  
+shall be made to pay the produce of cultivation, and he shall cause the field to be cultivated by another.
+</details>
+
 <details><summary>मूलम्</summary>
 
 फालाहतम् अपि क्षेत्रं  

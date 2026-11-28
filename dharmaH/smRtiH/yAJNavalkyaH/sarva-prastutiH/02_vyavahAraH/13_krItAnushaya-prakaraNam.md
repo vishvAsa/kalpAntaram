@@ -35,6 +35,12 @@ title = "१३ क्रीतानुशय-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/13_krItAnushaya-prakaraNam/177_dashaikapanchasaptAha_mAsatryahArdhamAsikam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Ten days, one day, five days, seven days, a month, three days, and half a month:  
+these are the periods for examining seed, iron, draft animals, gems, female slaves, milch cattle, and male slaves.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दशैक-पञ्च-सप्ताह-  
@@ -102,6 +108,12 @@ _अस्वामिविक्रयो निरूपितः । स्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/13_krItAnushaya-prakaraNam/178_agnau_suvarNam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In fire, gold suffers no loss; silver loses two palas in a hundred;  
+eight in tin and lead; five in copper; and ten in iron.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्नौ सुवर्णम् अक्षीणं  
@@ -156,6 +168,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/13_krItAnushaya-prakaraNam/179_shate_dashapalA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+An increase of ten palas in a hundred is recognized in woolen and cotton thread;  
+an increase of five palas in medium quality, but three palas in fine thread.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शते दश-पला वृद्धिर्  
@@ -213,6 +231,12 @@ _तौलिकादिभिस् तु वस्त्रनिर्म�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/13_krItAnushaya-prakaraNam/180_kArmike_romabaddhe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In embroidered cloth and in fabrics woven with hair, a loss of one-thirtieth part is considered normal;  
+there is neither loss nor increase in silk and bark-cloth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कार्मिके रोम-बद्धे च  
@@ -278,6 +302,12 @@ _अस्य विशेषे ऽपवादः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/13_krItAnushaya-prakaraNam/181_desha~N_kAla~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Knowing the place, the time, the use, and the strength and weakness of articles when damaged,  
+experts shall state what is to be paid, without a doubt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशं कालं च भोगं च  

@@ -24,6 +24,12 @@ _	ब्राह्मणः क्षत्रियो वापि वैश
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/051_gurave_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having given an honorarium to the guru, he may take the ceremonial bath with his permission,  
+after bringing to completion either the Veda, the vows, or both.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गुरवे तु वरं दत्त्वा  
@@ -169,6 +175,12 @@ _उक्तो ब्रह्मचारी, अनन्तरं गृह
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/052_aviplutabrahmacharyo_laxaNyAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+With his celibate studenthood unbroken, he should marry an auspicious woman  
+who has belonged to no other man before, who is attractive, not a sapiṇḍa, and younger than himself,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अविप्लुत-ब्रह्म-चर्यो  
@@ -293,6 +305,12 @@ _ब्रह्मचारिणो ब्रह्मचर्यविधा
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/053_arogiNIm_bhrAtRmatIm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+free from disease, having brothers, not born of the same ṛṣi and gotra,  
+and beyond the fifth degree on the mother's side and the seventh on the father's;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अरोगिणीं भ्रातृमतीम्  
@@ -463,6 +481,12 @@ _किं चान्यत् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/054_dashapUruShavikhyAtAch_ChrotriyANAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+from a great family of Vedic scholars renowned for ten generations,  
+even if flourishing, [provided it is] free from contagious diseases and faults.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दश-पूरुष-विख्याताच्  
@@ -547,6 +571,12 @@ _किं चान्यत् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/055_etair_eva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A bridegroom endowed with these very qualities, of the same social class, learned in the Veda,  
+carefully tested as to his virility, young, intelligent, and popular with the people, [should be chosen].
+</details>
+
 <details><summary>मूलम्</summary>
 
 एतैर् एव गुणैर् युक्तः  
@@ -642,6 +672,12 @@ _उक्ताः कन्यागुनाः । वरस्येदा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/056_yad_uchyate.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+As for what is said regarding the taking of a wife from among Shudras by the twice-born,  
+that is not my opinion, because he himself is born in her.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद् उच्यते द्विजातीनां  
@@ -723,6 +759,12 @@ _"श्रोत्रियाणां महाकुलाद्" इति
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/057_tisro_varNAnupUrvyeNa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Three wives in order of social classes [are permitted] to a Brahmin, two to a Kshatriya, and one to a Vaishya respectively;  
+to a person born a Shudra, only one of his own [social class].
+</details>
+
 <details><summary>मूलम्</summary>
 
 तिस्रो वर्णानुपूर्व्येण  
@@ -799,6 +841,12 @@ _इदं पुनर् अस्माभिर् अप्य् अभि
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/058_brAhmo_vivAha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Brāhma marriage is [when a maiden] is given having been summoned and adorned according to ability;  
+the son born of it purifies twenty-one generations on both sides.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्राह्मो विवाह आहूय  
@@ -871,6 +919,12 @@ _<u>ननु</u> अयं विवाहाख्यः संस्कार
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/059_yajnastha_Rtvije.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Daiva is [given] to a sacrificial priest engaged in a sacrifice; the Ārṣa, however, upon receiving a pair of cattle;  
+the son born of the first purifies fourteen [generations], and the son born of the latter six.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यज्ञस्थ ऋत्विजे दैव  
@@ -946,6 +1000,12 @@ _इमे त्व् अनुकल्पाः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/060_ity_uktvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Kāya is that [marriage] where she is given to a suitor after saying, 'Practise duty together';  
+the son born of it purifies six generations [before him], six [after him], along with himself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इत्य् उक्त्वा चरतां धर्मं  
@@ -1009,6 +1069,12 @@ _अयं तु सार्ववर्णिकः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/061_Asuro_draviNAdAnAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Āsura is from the acceptance of wealth; the Gāndharva from mutual agreement;  
+the Rākṣasa from abduction in war; the Paiśāca from deceit practised on the maiden.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आसुरो द्रविणादानाद्  
@@ -1107,6 +1173,12 @@ _<u>ननु</u> एवं सत्य् आहूय यदि कश्च�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/062_pANir_grAhyaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The hand should be grasped with women of the same social class; a Kshatriya woman should hold an arrow;  
+a Vaishya woman should take a goad, in marriage to a man of the highest social class.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पाणिर् ग्राह्यः सवर्णासु  
@@ -1163,6 +1235,12 @@ _किम् एकरूप एव सवर्णासवर्णयोर�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/063_pitA_pitAmaho.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The father, grandfather, brother, a member of the same family, and the mother—  
+in the absence of the preceding one, the next in order, if sound of mind, is the giver of a maiden.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पिता पितामहो भ्राता  
@@ -1231,6 +1309,12 @@ _कस्य पुनर् अयं कन्याप्रदानोप�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/064_aprayachChan_samApnoti.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+By not giving [her], he incurs the guilt of abortion at every menstrual period;  
+but in the absence of givers, the maiden may choose a suitable husband herself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप्रयच्छन् समाप्नोति  
@@ -1332,6 +1416,12 @@ _<u>ननु</u> एतद् अप्य् उक्तम् । दात�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/065_sakRt_pradIyate.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A maiden is given away once; he who abducts her is liable to the punishment of a thief;  
+even if given away, she may be taken away from the former [suitor] if a better groom arrives.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सकृत् प्रदीयते कन्या  
@@ -1434,6 +1524,12 @@ _किम् एष एवोत्सर्गः । नेत्य् आ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/066_anAkhyAya_dadad.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who gives [a girl] without declaring a defect is to be fined the highest heinous offence fine;  
+but one who abandons a faultless girl is to be fined; one who falsely defames her [is to be fined] one hundred [paṇas].
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनाख्याय ददद् दोषं  
@@ -1525,6 +1621,12 @@ _न केवलं दाता, वरोऽपि च,_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/067_axatA_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A woman consecrated a second time, whether deflowered or undeflowered, is a remarried woman;  
+an unchaste woman is she who, having abandoned her husband, resorts to a man of the same social class out of lust.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अक्षता च क्षता चैव  
@@ -1605,6 +1707,12 @@ _यदा पुनः स्वयम् एवान्यं सवर्ण
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/068_aputrA~N_gurvanujnAto.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Permitted by his elders, a brother-in-law, or a sapiṇḍa, or a sagotra, desiring a son,  
+smeared with clarified butter, may approach a childless woman during her fertile period.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपुत्रां गुर्व्-अनुज्ञातो  
@@ -1696,6 +1804,12 @@ _<u>ननु</u> एवं सत्य् अपुत्रस्य मर�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/069_AgarbhasambhavAd_gachChet.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He may approach her until conception occurs; otherwise he would become fallen;  
+the son born according to this rule becomes his 'soil-born' son.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ-गर्भ-सम्भवाद् गच्छेत्  
@@ -1832,6 +1946,12 @@ _यद् वैवं योजना । <u>ननु</u> अयं निय
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/070_hRtAdhikArAm_malinAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Deprived of her rights, unkempt, subsisting on bare morsels of food,  
+treated with contempt, sleeping on the ground, an unchaste woman should be made to live.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हृताधिकारां मलिनां  
@@ -1902,6 +2022,12 @@ _यदा पुनर् ब्राह्मण्य् अप्य् ए
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/071_somaH_shauchan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma gave them purification; a Gandharva, sweet speech;  
+the Fire, universal purity; therefore, indeed, women are pure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोमः शौचं ददाव् आसां  
@@ -1956,6 +2082,12 @@ _अथ वा, यदि स्त्रियः स्वातन्त्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/072_vyabhichArAd_Rtau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Purification from adultery is [effected] by menstruation; abandonment is prescribed in case of conception,  
+and in the slaying of a foetus, of the husband, and the like, as well as in a major sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्यभिचाराद् ऋतौ शुद्धिर्  
@@ -2046,6 +2178,12 @@ _क्व पुनः स्त्रीणां दोषः । क्व �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/073_surApI_vyAdhitA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A woman who drinks liquor, is diseased, cunning, barren, destructive of property, sharp-tongued,  
+bearing only female children, or hostile to men, may be superseded.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सुरापी व्याधिता धूर्ता  
@@ -2139,6 +2277,12 @@ _किं तर्हि ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/074_adhivinnA_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A superseded wife, however, must be maintained; otherwise there would be a great sin;  
+where there is harmony between husband and wife, there the threefold aim of life flourishes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अधिविन्ना तु भर्तव्या  
@@ -2194,6 +2338,12 @@ _<u>ननु</u> अधिवेदनम् अपि त्याग एव, 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/075_mRte_jIvati.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whether her husband is dead or living, she who does not approach another [man]  
+attains fame in this world and rejoices with Umā [in the next].
+</details>
+
 <details><summary>मूलम्</summary>
 
 मृते जीवति वा पत्यौ  
@@ -2251,6 +2401,12 @@ _कस्मात् पुनर् अधिविन्ना भर्त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/076_AjnAsampAdinIn_daxAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who abandons a wife who obeys commands, is skilful, bears brave sons, and speaks sweetly,  
+must be compelled to give her a third of his wealth, or maintenance if he has no wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आज्ञा-सम्पादिनीं दक्षां  
@@ -2290,6 +2446,12 @@ _अधिवेदनकारणाभावे अधिवेत्तार
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/077_strIbhir_bhartRvachaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The husband's word should be carried out by women; this is the highest duty of a woman;  
+indeed, even one tainted by a major sin should be waited upon until his purification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्त्रीभिर् भर्तृ-वचः कार्यम्  
@@ -2384,6 +2546,12 @@ _भर्ता तु दोषवान् मध्ये त्याज्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/078_lokAnantyan_divaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Since eternity of the worlds and the attainment of heaven [come] through sons, grandsons, and great-grandsons,  
+women must therefore be served and well protected.
+</details>
+
 <details><summary>मूलम्</summary>
 
 लोकानन्त्यं दिवः प्राप्तिः  
@@ -2458,6 +2626,12 @@ _किं च,_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/079_ShoDashartunishAH_strINAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are sixteen fertile nights for women; during that [time] he should unite on the even [nights];  
+behaving as a chaste student, however, he should avoid the change-of-moon days and the first four [nights].
+</details>
+
 <details><summary>मूलम्</summary>
 
 षोडशर्तु-निशाः स्त्रीणां  
@@ -2559,6 +2733,12 @@ _स्त्रियः सेव्या इत्य् उक्तम् 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/080_eva~N_gachChan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Approaching his wife thus when she is slender, he should avoid the Maghā and Mūla asterisms;  
+the moon being favourable, a man should beget a son possessing auspicious marks, once [per night].
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवं गच्छन् स्त्रियं क्षामां  
@@ -2672,6 +2852,12 @@ _किं चान्यत् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/081_yathAkAmI_bhaved.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or he may approach her according to her desire, remembering the boon granted to women,  
+yet devoted only to his own wife, since it is taught that women must be protected.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा-कामी भवेद् वा ऽपि  
@@ -2755,6 +2941,12 @@ _एवं तावद् ऋतौ गमनविधिम् उक्त्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/082_bhartRbhrAtRpitRjnAti_shvashrUshvashuradevaraiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Women are to be honoured with ornaments, garments, and food  
+by husband, brother, father, agnates, mother-in-law, father-in-law, brother-in-law, and kin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भर्तृ-भ्रातृ-पितृ-ज्ञाति-  
@@ -2821,6 +3013,12 @@ _यस्माच् च लोकानन्त्यदिवप्रा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/083_saMyatopaskarA_daxA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Keeping the household utensils collected, skilful, cheerful, averse to lavish expenditure,  
+she should bow to the feet of her parents-in-law, devoted to her husband.
+</details>
+
 <details><summary>मूलम्</summary>
 
 संयतोपस्करा दक्षा  
@@ -2890,6 +3088,12 @@ _एवं सर्वैः परिपूज्यमाना न गर्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/084_krIDAM_sharIrasaMskAraM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Games, bodily adornment, visiting gatherings and festivals,  
+laughing, and going to another's house—a woman whose husband is abroad should avoid these.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रीडां शरीर-संस्कारं  
@@ -2952,6 +3156,12 @@ _इदं चान्यत् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/085_raxet_kanyAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The father should protect a maiden; the husband, a married woman; but sons in old age;  
+in their absence, relatives: a woman is never independent at any time.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रक्षेत् कन्यां पिता विन्नां  
@@ -3014,6 +3224,12 @@ _यदा पुनर् एतान्य् अनियमात् स्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/086_pitRmAtRsutabhrAtR_shvashrUshvashuramAtulaiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+She should not be separated from father, mother, son, brother, mother-in-law, father-in-law, or maternal uncles,  
+without her husband; otherwise she would become blameworthy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितृ-मातृ-सुत-भ्रातृ-  
@@ -3116,6 +3332,12 @@ _<u>ननु</u> एवं सति स्त्रीणाम् अदो�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/087_patipriyahite_yuktA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Intent on her husband's pleasure and welfare, well-behaved, with her senses conquered,  
+she attains fame here and the supreme destination after death.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पति-प्रिय-हिते युक्ता  
@@ -3272,6 +3494,12 @@ _वृत्तवत्या अग्निहोत्रेण दाह �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/088_satyAm_anyAM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+While a wife of the same social class is present, he should not perform a religious act with another;  
+among wives of the same social class, in a religious rite, not without the senior wife [should it be performed] by another.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सत्याम् अन्यां सवर्णायां  
@@ -3351,6 +3579,12 @@ _<u>ननु</u> एवं सति भर्तृतन्त्रत्व
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/03_vivAha-prakaraNam/089_dAhayitvA.agnihotreNa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having cremated a virtuous wife with the sacrificial fire,  
+the husband should without delay take a wife and the sacred fires according to the rule.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दाहयित्वा ऽग्नि-होत्रेण  

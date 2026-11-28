@@ -12,6 +12,11 @@ title = "०४ जीवयात्रा"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/055_tamo.ayam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+055	When this (soul) has entered darkness, it remains for a long time united with the organs (of sensation), but performs not its functions; it then leaves the corporeal frame.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This (individual Soul), on entering into ‘Darkness,’ remains, for a long time, equipped with the sense-organs, but does not perform its functions; then it departs from the body.—(55)
@@ -82,11 +87,6 @@ Verses 55 and 56 have been variously interpreted. (1) According to Medhātithi, 
 
 प्रलयप्रसङ्गेन च क्षेत्रज्ञोत्क्रमणम् आह – **तमो यद्** इति । स आत्मा अत्यन्तव्यामोहव्याप्तः सन् यदा **सेन्द्रियो** ऽप्य् अनल्पम् कालम् आस्ते इन्द्रियाणां शरीरविनाशे ऽप्य् अविनाशेन च श्वासप्रश्वासादिकं **कर्म कुरुते तदा** शरीरं जहाति ॥ १.५५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-055	When this (soul) has entered darkness, it remains for a long time united with the organs (of sensation), but performs not its functions; it then leaves the corporeal frame.
-</details>
 </details>
 </div>
 
@@ -100,6 +100,11 @@ Verses 55 and 56 have been variously interpreted. (1) According to Medhātithi, 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/056_yadANumAtriko_bhUtvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+056	When, being clothed with minute particles (only), it enters into vegetable or animal seed, it then assumes, united (with the fine body), a (new) corporeal frame.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When, invested with minute particles, the Individual enters the moveable or immoveable Seed;—then, becoming united with the aforesaid (Subtile body), it assumes the (new) body.—(56)
@@ -123,11 +128,6 @@ When, invested with minute particles, the Individual enters the moveable or immo
 
 किं शरीरान्तरनिरपेक्ष एव मूर्तिं परित्य्जतीत्य् आह – **यदेति ।** **यदा** सूक्ष्मप्रमाणः सन् स्थावरबीजं जङ्गमबीजं वा अन्यद् अधितिष्ठति **तदा** इदं शरीरं त्यजति । **संसृष्टः** प्राणादिसंयुक्तः, यथोक्तं बृहदारण्यके- “तम् उत्क्रामन्तं प्राणो ऽनूत्क्रामति प्राणम् अनूत्क्रामन्तं सर्वे प्राणा अनूत्क्रामन्ति” इति ॥ १.५६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-056	When, being clothed with minute particles (only), it enters into vegetable or animal seed, it then assumes, united (with the fine body), a (new) corporeal frame.
-</details>
 </details>
 </div>
 
@@ -141,6 +141,11 @@ When, invested with minute particles, the Individual enters the moveable or immo
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/057_evaM_sa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+057	Thus he, the imperishable one, by (alternately) waking and slumbering, incessantly revivifies and destroys this whole movable and immovable (creation).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus by waking and sleeping, the Imperishable One incessantly brings to like and destroys all this that is moveable and immoveable.—(57)
@@ -161,11 +166,6 @@ By means of his own ‘*waking and sleeping*,’ he produces and destroys the wo
 <details><summary>गोविन्दराजः</summary>
 
 **एवम्** इति । **स** ब्रह्मा अनेन प्रकारेण आत्मीयाभ्यां **जाग्रत्स्वप्नाभ्यां** जङ्गमस्थावरम् **अजस्रं **अनवरतं **जीवयति** मारयति चानश्वरः ॥ १.५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-057	Thus he, the imperishable one, by (alternately) waking and slumbering, incessantly revivifies and destroys this whole movable and immovable (creation).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -12,6 +12,12 @@ title = "०२ असाधारण-व्यवहार-मातृका-�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/009_abhiyogam_anistIrya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Without refuting the accusation, one should not bring a counter-accusation against him,  
+nor may one alter what has already been stated by an accused person or by another.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अभियोगम् अनिस्तीर्य  
@@ -85,6 +91,12 @@ _<u>ननु</u> च यदा तु ममानेनापराद्ध�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/010_kuryAt_pratyabhiyoga~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One may, however, make a counter-accusation in cases of brawl and heinous offences.  
+For both parties, a surety capable of fulfilling the determination of the suit should be taken.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कुर्यात् प्रत्यभियोगं च  
@@ -179,6 +191,12 @@ _अस्यापवादः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/011_nihnave_bhAvito.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If convicted after denial, he shall pay the money and an equal amount to the king;  
+a false accuser shall pay twice the amount of the claim.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निह्नवे भावितो दद्याद्  
@@ -238,6 +256,12 @@ _यदा तु न्यायेनान्यतरः कार्यो 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/012_sAhasasteyapAruShya_gobhishApAtyaye.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In cases of heinous offence, theft, assault, insult, emergency concerning a cow, and regarding a woman,  
+the trial must be held immediately; in other cases, a delay is prescribed according to desire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 साहसस्तेयपारुष्य-  
@@ -341,6 +365,12 @@ _<u>ननु</u> अनेकप्रकाराः पुंशां प्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/013_deshAd_deshAntaraM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who moves from place to place, repeatedly licks the corners of his mouth,  
+whose forehead sweats, and whose face loses its colour,
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशाद् देशान्तरं याति  
@@ -410,6 +440,12 @@ _दुष्टलक्षणान्य् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/014_parishuShyatskhaladvAkyo_viruddham.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+whose speech dries up and falters, who says much that is contradictory,  
+who does not meet one's words or gaze, and bites his lips,
+</details>
+
 <details><summary>मूलम्</summary>
 
 परिशुष्यत्स्खलद्वाक्यो  
@@ -430,6 +466,12 @@ _दुष्टलक्षणान्य् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/015_svabhAvAd_vikRti~N.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+who undergoes an unnatural change through mind, speech, and bodily actions—  
+he is declared corrupt, whether in an accusation or in testimony.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वभावाद् विकृतिं गच्छेन्  
@@ -450,6 +492,12 @@ _दुष्टलक्षणान्य् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/016_sandigdhArthaM_svatantro.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who on his own recovers a disputed claim, or flees,  
+or says nothing when summoned, is held to have lost and is to be fined.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्दिग्धार्थं स्वतन्त्रो यः  
@@ -557,6 +605,12 @@ _<u>यदा</u> पुनर् द्वयोर् व्यवहारव
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/017_sAxiShUbhayataH_satsu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When there are witnesses on both sides, the witnesses of the claimant [are to be heard];  
+if the prima facie case is refuted, those of the respondent are heard.
+</details>
+
 <details><summary>मूलम्</summary>
 
 साक्षिषूभयतः सत्सु  
@@ -642,6 +696,12 @@ _एवं तावद् यत्र साक्षिणः स्युः
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/018_sapaNash_ched.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If the legal dispute involves a wager, the loser must be made to pay  
+the fine, his own wager, and the debt itself to the creditor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सपणश् चेद् विवादः स्यात्  
@@ -696,6 +756,12 @@ _<u>यदा</u> तु प्रत्यवस्कन्दनम् अन
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/019_Chalan_nirasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rejecting deception, the king should conduct legal proceedings according to the facts;  
+yet even a fact, if not presented, is lost through legal procedure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 छलं निरस्य भूतेन  
@@ -782,6 +848,12 @@ _यतश् चैतद् एवम्, अतश् च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/020_nihnute_likhitan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If one denies all items listed, but is proved liable in one part,  
+he must be made by the king to pay the whole amount; but what was not claimed cannot be recovered.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निह्नुते लिखितं नैकम्  
@@ -866,6 +938,12 @@ _यदि त्व् अनेकत्रार्थे ऽभियुक�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/021_smRtyor_virodhe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the case of a conflict between two legal traditions, equity prevails in legal procedure;  
+but the rule is that a treatise on duty is stronger than a treatise on worldly profit.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्मृत्योर् विरोधे न्यायस् तु  
@@ -1031,6 +1109,12 @@ _<u>ननु</u> असौ तदनभिप्रेतत्वे ऽप्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/022_pramANaM_likhitam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Proof is declared to be written evidence, possession, and witnesses;  
+in the absence of any of these, one of the ordeals is prescribed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रमाणं लिखितं भुक्तिः  
@@ -1210,6 +1294,12 @@ _न चावश्यं तत्त्वाभिनिवेशिना�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/023_sarveShv_arthavivAdeShu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In all disputes over property, a later act carries greater weight;  
+but in the case of a pledge, a gift, or a purchase, the earlier act is stronger.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वेष्व् अर्थविवादेषु  
@@ -1271,6 +1361,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/024_pashyato.abruvato.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For land being enjoyed by another before the owner's eyes without his speaking, the loss occurs in twenty years;  
+for movable property, in ten years.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पश्यतो ऽब्रुवतो भूमेर्  
@@ -1429,6 +1525,12 @@ _भुक्तौ तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/025_AdhisImopanixepa_jaDabAladhanair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Excepting pledges, boundaries, open deposits, the property of idiots and minors,  
+as well as sealed deposits, and the property of the king, women, and learned Brahmins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आधिसीमोपनिक्षेप-  
@@ -1478,6 +1580,12 @@ _<u>किम्</u> उपेक्षया सर्वत्रैव व्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/026_AdhyAdInAM_vihartAraM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who appropriates a pledge and the like must be made to return the property to the owner,  
+and to pay an equal fine to the king, or according to his means.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आध्यादीनां विहर्तारं  
@@ -1601,6 +1709,12 @@ _यतश् चाध्यादिषु निमित्तान्त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/027_Agamo.abhyadhiko.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Title is superior to possession, except when handed down through ancestral succession;  
+yet even with title, there is no strength where possession is not even slight.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आगमो ऽभ्यधिको भोगाद्  
@@ -1766,6 +1880,12 @@ _तत्र ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/028_Agamas_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He by whom the title was acquired must establish it when sued,  
+but not his son or his son's son; in their case, possession carries greater weight.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आगमस् तु कृतो येन  
@@ -1904,6 +2024,12 @@ _लेख्यकृत्पुत्रस् तु किम् इति 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/029_yo.abhiyuktaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If one who has been sued dies, his heir must establish the title;  
+there, possession unsupported by title is no proof.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो ऽभियुक्तः परेतः स्यात्  
@@ -1967,6 +2093,12 @@ _यदि तु दुष्टे ऽपि लेख्यादौ तत�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/030_nRpeNAdhikRtAH_pUgAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Officers appointed by the king, corporate assemblies, guilds, and families:  
+each preceding one is to be regarded as weightier in judicial procedure for men.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नृपेणाधिकृताः पूगाः  
@@ -2025,6 +2157,12 @@ _व्यवहारद्रष्टॄणां प्रबलदुर्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/031_balopAdhivinirvRttAn_vyavahArAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Transactions brought about by force or fraudulent misrepresentation should be annulled,  
+as also those made by women, at night, inside a house, outside, or by enemies.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बलोपाधिविनिर्वृत्तान्  
@@ -2082,6 +2220,12 @@ _प्रभुत्वाद् एव च राजा तदर्थाध
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/032_mattonmattArtavyasani_bAlabhItAdiyojitaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A transaction entered into by an intoxicated person, a lunatic, one afflicted, an addict, a minor, a frightened person, and the like,  
+or made by an unauthorised person, does not hold valid.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मत्तोन्मत्तार्तव्यसनि-  
@@ -2200,6 +2344,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/033_pranaShTAdhigatan_deyaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Property lost and found should be returned by the king to the owner;  
+if he fails to prove ownership by identifying marks, he deserves a fine equal to it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रनष्टाधिगतं देयं  
@@ -2271,6 +2421,12 @@ _यस्माच् च राजा व्यवहारविधाव् 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/034_rAjA_labdhvA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A king, having found a treasure trove, should give half to twice-born men;  
+a learned twice-born man, however, may take the whole, since he is master of everything.
+</details>
+
 <details><summary>मूलम्</summary>
 
 राजा लब्ध्वा निधिं दद्याद्  
@@ -2342,6 +2498,12 @@ _यत् तूसन्नस्वामिकं निध्यादि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/035_itareNa_nidhau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If a treasure trove is found by any other person, the king shall take a sixth share;  
+if it is discovered without having been reported, he shall also make him pay a fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इतरेण निधौ लब्धे  
@@ -2388,6 +2550,12 @@ _विद्वद्व्यतिरिक्तेन निधौ दृ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/02_asAdhAraNa-vyavahAra-mAtRkA-prakaraNam/036_deya~n_chaurahRtan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Property carried off by thieves must be restored by the king to the inhabitant of the countryside;  
+for if he does not restore it, he incurs that person's sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देयं चौरहृतं द्रव्यं  

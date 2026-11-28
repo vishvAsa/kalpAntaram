@@ -12,6 +12,11 @@ title = "१९ परवस्तुप्रयोगः"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/201_parakIyanipAneShu_na.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+201	Let him never bathe in tanks belonging to other men; if he bathes (in such a one), he is tainted by a portion of the guilt of him who made the tank.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall never bathe in the tanks belonging to other persons. Having bathed there, he becomes tainted with a part of the tank-digger’s sin.—(201)
@@ -81,11 +86,6 @@ and wells built by others; the builder becomes a partaker in the merit: one shou
 **परकीयनिपानेष्व्** इति । परकीयपुष्करिण्यादिषु **न** कदाचिद् अपि **स्नायात्** । तत्र स्नात्वा तत् पुष्करिण्यादिषु यत् पापं कतुः तच्चतुर्थांशेन वक्ष्यमाणेन सम्बध्यते । धार्मिकाणाम् अपि सञ्चितकृतं जन्मान्तरकृतं दुष्कृतं भवत्य् एव । अतो न धार्मिकनिपानस्नानेन पापाभावप्रसङ्गः ॥ ४.२०१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-201	Let him never bathe in tanks belonging to other men; if he bathes (in such a one), he is tainted by a portion of the guilt of him who made the tank.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 निपीयते (?) ऽस्मिन्नापान इति **निपानं** पुष्करिण्यादि । तस्मिन् **परकीये न स्नायात् कदाचनेति** कदापीत्य् अर्थः । दृष्टार्थम् अप्य् आत्मनो मृजायै (?) चण्डालादिस्पृष्टो न तच्छुद्दये किं पुनर् धर्माय यो नात्र स्नातकस् तत्**कर्तुर् दोषांशेन लिपयते** । अत्रांशशब्दश् चतुर्भागवचन उत्तरत्र तृतीयश्रवणाद् इति <u>केचित्</u> । तद् <u>अयुक्तम्</u>, अर्थवादत्वाद् अस्य । एवं च सत्य् अविवक्षितम् अत्र चतुर्थांशत्वम् । प्रत्यवायस् तु शास्त्रव्यतिक्रमकारिणः प्रतीयते । अत्र दृष्टान्तं वक्ति ।
@@ -103,6 +103,11 @@ and wells built by others; the builder becomes a partaker in the merit: one shou
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/202_yAna-shayyAsanAny_asya.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+202	He who uses without permission a carriage, a bed, a seat, a well, a garden or a house belonging to an (other man), takes upon himself one fourth of (the owner's) guilt.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By using another person’s conveyance, couch, seat, well, garden or house,—when these have not been given,—one becomes the partaker of the fourth part of that person’s sins.—(202)
@@ -149,11 +154,6 @@ conveyances belonging to others, unless they are offered to him.’
 <details><summary>गोविन्दराजः</summary>
 
 **यानशय्यासनानीति **। **यानशय्यासनानि **रथखट्वामञ्चकादीनि कूपारामगृहाणि च परस्य सम्बन्धीनि **अदत्तान्य् उपयुञ्जानः **तत्पापस्य चुतुर्भागं प्राप्नोति । अत्र च परकीयग्रहणात् अदत्तग्रहणाच् च सर्वार्थोत्सृष्टानुज्ञातस्नाने नास्ति दोषः ॥ ४.२०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-202	He who uses without permission a carriage, a bed, a seat, a well, a garden or a house belonging to an (other man), takes upon himself one fourth of (the owner's) guilt.
 </details>
 
 <details><summary>भारुचिः</summary>

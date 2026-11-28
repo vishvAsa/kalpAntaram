@@ -12,6 +12,11 @@ title = "१८ छद्मव्रतानि"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/198_na_dharmasyA-padeshena.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+198	When he has committed a sin, let him not perform a penance under the pretence (that the act is intended to gain) spiritual merit, (thus) hiding his sin under (the pretext of) a vow and deceiving women and Sudras.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having committed a sin, he shall not perform penance un der the pretext of doing a righteous act,—deceiving women and Śūdras by thus covering his sin by a penance.—(198)
@@ -54,11 +59,6 @@ See Comparative notes for [Verse 4.195].
 **न धर्मस्येति** । **पापं कृत्वा **धर्मार्थव्रतख्यापनव्याजेन धार्मिको ऽयम् इति शूद्रादिमूर्खलोकमोहनं कुर्वन् तेन धर्मव्रतव्याजेन **पापम्** अवच्छाद्य प्रायश्चित्तं न कुर्यात् ॥ ४.१९८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-198	When he has committed a sin, let him not perform a penance under the pretence (that the act is intended to gain) spiritual merit, (thus) hiding his sin under (the pretext of) a vow and deceiving women and Sudras.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यस्मात्
@@ -76,6 +76,11 @@ See Comparative notes for [Verse 4.195].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/199_pretyeha_chedRshA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+199	Such Brahmanas are reprehended after death and in this (life) by those who expound the Veda, and a vow, performed under a false pretence, goes to the Rakshasas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Such Brāhmaṇas are condemned after death, and also here (in this life) by the expounders of the Veda; and penance done under a false pretence goes to the evil spirits.—(199)
@@ -120,11 +125,6 @@ See Comparative notes for [Verse 4.195].
 **अलिङ्गीति** । अब्रह्मचारी ब्रह्मचार्यादिवेषेण यस् तद्वृत्त्या जीवति स ब्रह्मचार्यादीनां यत् पापं तद् आत्मन्य् आहरति । श्वादियोनौ च **जायते **। तस्माद् एतन् न कर्तव्यम् ॥ ४.२०० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-199	Such Brahmanas are reprehended after death and in this (life) by those who expound the Veda, and a vow, performed under a false pretence, goes to the Rakshasas.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तस्मान् न धर्मचरणापदेशेन प्रायश्चित्तं चरितव्यम् इतीदं चान्यत् तत्समम् ।
@@ -142,6 +142,11 @@ See Comparative notes for [Verse 4.195].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/200_alingI_lingiveSheNa.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+200	He who, without being a student, gains his livelihood by (wearing) the dress of a student, takes upon himself the guilt of (all) students and is born again in the womb of an animal.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who, though not entitled to the wearing of a certain badge, gains one’s living by wearing that badge, takes off the sins of persons entitled to that badge, and is born in the womb of a lower animal.—(200)
@@ -178,11 +183,6 @@ jāyate*.’\]
 <details><summary>कुल्लूकः</summary>
 
 प्रेत्येहेति श्लोकद्वयम् । प्रथमं सुबोधम् ।अब्रह्मचारी यो ब्राह्मणो ब्रह्मचार्यादिलिङ्ग मेखलाजिनदण्डादिवेषोपलक्षितस्तद्वृत्त्या भिक्षाभ्रमणादिना जीवति स ब्रह्मचार्यादीनां यत्पापं तदात्मन्याहरति । कुक्कुरादितिर्यग्योनौ चोत्पद्यते । तस्मादेतन्न कर्तव्यमिति निषेधः कल्प्यते ॥१९९॥२००॥
-</details>
-
-<details><summary>Bühler</summary>
-
-200	He who, without being a student, gains his livelihood by (wearing) the dress of a student, takes upon himself the guilt of (all) students and is born again in the womb of an animal.
 </details>
 
 <details><summary>भारुचिः</summary>

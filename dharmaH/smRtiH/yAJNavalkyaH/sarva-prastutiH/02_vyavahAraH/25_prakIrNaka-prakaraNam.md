@@ -43,6 +43,12 @@ title = "२५ प्रकीर्णक-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/25_prakIrNaka-prakaraNam/295_UnaM_vA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever writes less or more in a royal edict,  
+or releases an adulterer or a thief, faces the highest fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊनं वा ऽभ्यधिकं वा ऽपि  
@@ -107,6 +113,12 @@ _यत् पूर्वप्रकरणेष्व् अनुक्त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/25_prakIrNaka-prakaraNam/296_abhaxyeNa_dvijan.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Corrupting a twice-born with inedible food, one should be fined the highest heinous offence;  
+a Kshatriya, the middling; a Vaishya, the first; a Shudra, half.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अभक्ष्येण द्विजं दूष्यो[दूष्य?]  
@@ -160,6 +172,12 @@ _यो राजप्रसादाद्यवष्टम्भात् �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/25_prakIrNaka-prakaraNam/297_kUTasvarNavyavahArI_vimAMsasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A dealer in counterfeit gold and a seller of forbidden meat  
+must be deprived of three limbs and made to pay the highest heinous offence fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कूट-स्वर्ण-व्यवहारी  
@@ -222,6 +240,12 @@ _प्रच्छन्नतास्कर्ययोगात् तु �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/25_prakIrNaka-prakaraNam/298_chatuShpAdakRto_doSho.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+No fault attaches to the driver who shouts: 'Get out of the way!' for harm caused by a quadruped,  
+or caused by wood, clod, arrow, stone, arm, or yoked draught animal;
+</details>
+
 <details><summary>मूलम्</summary>
 
 चतुष्पाद-कृतो दोषो  
@@ -278,6 +302,12 @@ _अकामतस् तु प्रवृत्तत्वात् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/25_prakIrNaka-prakaraNam/299_Chinnanasyena_yAnena.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+nor by a carriage whose nose-rope has broken, or whose yoke or the like is shattered,  
+nor when it slips backwards: the owner incurs no guilt in case of injury.
+</details>
+
 <details><summary>मूलम्</summary>
 
 छिन्न-नस्येन यानेन  
@@ -360,6 +390,12 @@ _अनभिप्रेतत्वाद् एव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/25_prakIrNaka-prakaraNam/300_shakto.apy.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+An owner, though able, who does not release [animals] with fangs or with horns,  
+shall pay the first heinous offence fine; and twice that if an alarm was cried.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शक्तो ऽप्य् अमोक्षयन् स्वामी  
@@ -423,6 +459,12 @@ _हिंसतः परिगृहीतस्य बलीवर्दा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/25_prakIrNaka-prakaraNam/301_jAra~n_chaurety.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Calling a paramour a 'thief', one shall be made to pay a fine of five hundred;  
+releasing him after taking money, eight times that amount.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जारं चौरेत्य् अभिवदन्  
@@ -475,6 +517,12 @@ _लोभादिना प्रच्छन्नं यदि तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/25_prakIrNaka-prakaraNam/302_rAjno.aniShTapravaktAraM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who speaks what is disagreeable to the king, one who reviles him,  
+and one who reveals his secret counsel: having cut out his tongue, he should banish him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 राज्ञो ऽनिष्ट-प्रवक्तारं  
@@ -554,6 +602,12 @@ _साहसिकतयैव तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/25_prakIrNaka-prakaraNam/303_mRtAngalagnavikretur_guros.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For a seller of clothes taken from the limbs of a corpse, for a striker of a guru,  
+and for an mounter of the king's carriage or throne, the fine is the highest heinous offence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मृताङ्ग-लग्न-विक्रेतुर्  
@@ -601,6 +655,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/25_prakIrNaka-prakaraNam/304_dvinetrabhedino_rAja.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For one who blinds both eyes, for one who executes a command hostile to the king,  
+and for a Shudra living by claiming Brahminhood, the fine is eight hundred.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वि-नेत्र-भेदिनो राज-  
@@ -662,6 +722,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/25_prakIrNaka-prakaraNam/305_durdRShTAMs_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When lawsuits improperly judged are reconsidered by the king,  
+the court assessors together with the winning party are to be fined twice the penalty of the suit.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दुर्दृष्टांस् तु पुनर् दृष्ट्वा  
@@ -728,6 +794,12 @@ _यश् चायं व्यवहारमार्ग उक्तः, �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/25_prakIrNaka-prakaraNam/306_yo_manyetAjito.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who thinks 'I am not defeated' although defeated in accordance with justice,  
+having defeated him again when he comes back, the king shall make him pay double the fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो मन्येताजितो ऽस्मीति  
@@ -805,6 +877,12 @@ _यथा विजितो दण्ड्यो मिथ्याभिध�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/25_prakIrNaka-prakaraNam/307_rAjnA.anyAyena.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever fine has been unlawfully taken by the king, having offered it to Varuṇa,  
+he should give it to Brahmins, increased thirtyfold by himself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 राज्ञा ऽन्यायेन यो दण्डो  

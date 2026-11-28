@@ -11,6 +11,11 @@ title = "०९ भिक्षा"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/094_kRtvaitad_balikarmaivam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+094	Having performed this Bali offering, he shall first feed his guest and, according to the rule, give alms to an ascetic (and) to a student.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having performed this rite of offerings, he should first feed his guest and then give alms in the proper form, to one who is mendicant and a ‘Brahmacārin’—(94)
@@ -93,11 +98,6 @@ offerings have been made to the Viśvedevas, the Householder shall keep aside fo
 
 **कृत्वेति** । **एवम् **उक्तस्वरूपेण **एतद् बलिकर्म **कृत्वा सर्वगृहभोक्तृभ्यः पूर्वं **अतिथिं **पूजयेत् । भिक्षणशीलाय ब्रह्मचारिणे समकालम् एव “स्वस्तिवाच्य भिक्षादानं अप्पूर्वम्” इति गौतमोक्तविधानेन भिक्षां दद्यात् ॥ ३.९४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-094	Having performed this Bali offering, he shall first feed his guest and, according to the rule, give alms to an ascetic (and) to a student.
-</details>
 </details>
 </div>
 
@@ -111,6 +111,11 @@ offerings have been made to the Viśvedevas, the Householder shall keep aside fo
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/095_yat_puNyaphalam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+095	A twice-born householder gains, by giving alms, the same reward for his meritorious act which (a student) obtains for presenting, in accordance with the rule, a cow to his teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born householder, giving alms, obtains the same reward for merit which reward for merit one obtains by giving a cow, in the proper form, to his Teacher.—(95)
@@ -164,11 +169,6 @@ highest reward: by worshipping him, he attains heaven; neither by Vedic Study, n
 **यत् पुण्यफलम्** इति । “अल्पगुर् हेमश्ट्ङ्गी” इत्य् आदियाज्ञवल्क्योक्तविधिना गां दत्वा यत् पुण्यफलं “गोदो ब्रध्नस्य विष्टपम्” इति प्राप्नोति तद् एव द्विजगृहस्थः भिक्षां दत्वा प्राप्नोति ॥ ३.९५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-095	A twice-born householder gains, by giving alms, the same reward for his meritorious act which (a student) obtains for presenting, in accordance with the rule, a cow to his teacher.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 श्लोकद्वयम् ऋज्वर्थम् \
@@ -186,6 +186,11 @@ highest reward: by worshipping him, he attains heaven; neither by Vedic Study, n
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/096_bhixAm_apy.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+096	Let him give, in accordance with the rule, to a Brahmana who knows the true meaning of the Veda, even (a small portion of food as) alms, or a pot full of water, having garnished (the food with seasoning, or the pot with flowers and fruit).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In accordance with scriptural injunctions, one should make over to the Brāhmaṇa knowing the true meaning of the Veda even alms and a water-put, after having honoured him.—(90)
@@ -267,11 +272,6 @@ pronounce the syllable *svasti*,—it is excellent.’
 
 **भिक्षाम्** इति । फलपुष्पादिना सत्कृत्य पारमार्थिकवेदार्थज्ञाय ब्राह्मणाय स्वस्तिवाच्येत्यादिविधिपूर्वकं प्रतिपादयेत् इति ब्रह्मचारिभिक्षादानाद् विध्यन्तरम् इदम् । तथा च वसिष्ठः- “श्रोत्रियाय अन्नं दत्वा ब्रह्मचारिणे” इत्य् आह ॥ ३.९६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-096	Let him give, in accordance with the rule, to a Brahmana who knows the true meaning of the Veda, even (a small portion of food as) alms, or a pot full of water, having garnished (the food with seasoning, or the pot with flowers and fruit).
-</details>
 </details>
 </div>
 
@@ -293,6 +293,11 @@ _प्राप्ते दाने दोषः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/097_nashyanti_havya-kavyAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+097	The oblations to gods and manes, made by men ignorant (of the law of gifts), are lost, if the givers in their folly present (shares of them) to Brahmanas who are mere ashes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Rites in honour of the gods and those in honour of the Pitṛs performed by ignorant men become lost, when they are presented by the givers, through folly, to ash-like Brāhmaṇas.—(97)
@@ -361,11 +366,6 @@ man learned in the Veda, he becomes freed from heinous sins, and attains union w
 
 **नश्यन्तीति** । यानि पितृदैवोद्देशेन अन्नानि **मोहात्** दानशास्त्रानभिज्ञतया **दातृभिः** अध्ययनविधियज्ञानुष्ठानतेजःशून्यत्वात् **भस्म**रूपेषु **विप्रेषु** **दत्तानि** तानि तेषां दानशास्त्रानभिज्ञानां मनुष्याणां निष्फलीभवन्ति ॥ ३.९७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-097	The oblations to gods and manes, made by men ignorant (of the law of gifts), are lost, if the givers in their folly present (shares of them) to Brahmanas who are mere ashes.
-</details>
 </details>
 </div>
 
@@ -387,6 +387,11 @@ _कीदृशाः पुनर् अभस्मभूताः । ता
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/098_vidyA-tapaH-samRddheShu_hutam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+098	An offering made in the mouth-fire of Brahmanas rich in sacred learning and austerities, saves from misfortune and from great guilt.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 An oblation thrown into the mouth-fire of Brāhmaṇas, effulgent with learning and austerities, saves from trouble, and also from great sin.—(98)
@@ -447,11 +452,6 @@ See Comparative notes for [Verse 3.97].
 **विद्यातपःसमृद्देष्व् **इति । ज्ञानानुष्ठानतेजःसम्पन्नेषु **विप्रमुखेषु **अग्नितुल्येषु हव्यकव्यादि यत् प्रक्षिप्तं तद् इह दुस्तरात् शत्रुव्याध्याद्यभिभवात् अमुत्र च महतः पापात् त्रायते ॥ ३.९८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-098	An offering made in the mouth-fire of Brahmanas rich in sacred learning and austerities, saves from misfortune and from great guilt.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 त्रिभिः श्लोकैर् अतिथिलक्षणम् । भिक्षुलक्षणं चेदं सार्थवादं द्रष्टव्यम् ।
@@ -469,6 +469,11 @@ See Comparative notes for [Verse 3.97].
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/099_samprAptAya_tv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+099	But let him offer, in accordance with the rule, to a guest who has come (of his own accord) a seat and water, as well as food, garnished (with seasoning), according to his ability.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 To the guest that has happened to come, he should offer; according to rule, water and seat, and also food prepared to the best of his abilitv.—(99)
@@ -545,11 +550,6 @@ best of one’s capacity; and in the evening the guest is not to be deprived of 
 
 **सम्प्राप्तायेति** । स्वयम् उपस्थितायातिथये आसनाचमनादि उदकान्नं च व्यजनविशेषैः यथासम्भवं सत्कृत्य “आसनावसथौ” इत्यादिवक्ष्यमाणविधिपूर्वकं दद्यात् ॥ ३.९९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-099	But let him offer, in accordance with the rule, to a guest who has come (of his own accord) a seat and water, as well as food, garnished (with seasoning), according to his ability.
-</details>
 </details>
 </div>
 
@@ -563,6 +563,11 @@ best of one’s capacity; and in the evening the guest is not to be deprived of 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/100_shilAn_apy.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+100	A Brahmana who stays unhonoured (in the house), takes away (with him) all the spiritual merit even of a man who subsists by gleaning ears of corn, or offers oblations in five fires.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A Brāhmaṇa staying unhonoured (in one’s house) takes away all his merit, even though he be one who subsists by gathering harvest-droppings, or offers oblations into the five fires.—(100)
@@ -653,11 +658,6 @@ day after day, the Vedas and the subsidiaries, if he honours not his guest, all 
 
 **शिलान् अप्य् उञ्छतो नित्यम्** इति । अतिदौर्गत्या वृत्तिसंयमातिशयार्थितया शिलान् क्षेत्रफलदोषान् अप्य् उच्चिन्वतः सभ्यावसथ्याभ्यां सह त्रेतया पञ्चस्व् अप्य् अग्निषु होमं वा कुर्वाणस्य सर्ववृत्तिसङ्कोचाग्निहोमार्जितं पुण्यं अनर्चितो ऽतिथिर् वसन् स्वीकरोति । अदानदोषकथनेन नियमान् आह सभ्यो नामाग्निः महासाधन इति । सीताद्यपनुत्त्यर्थं यस् तत्र तत्र विहीयते ॥ ३.१०० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-100	A Brahmana who stays unhonoured (in the house), takes away (with him) all the spiritual merit even of a man who subsists by gleaning ears of corn, or offers oblations in five fires.
-</details>
 </details>
 </div>
 
@@ -671,6 +671,11 @@ day after day, the Vedas and the subsidiaries, if he honours not his guest, all 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/101_tRNAni_bhUmir.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+101	Grass, room (for resting), water, and fourthly a kind word; these (things) never fail in the houses of good men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Grasses, place, water and kind word as the fourth,—even these never fail in the house of good people.—(101)
@@ -754,11 +759,6 @@ householder or an accomplished student,—to him he shall offer welcome, water f
 <details><summary>गोविन्दराजः</summary>
 
 अन्नासम्भवे पुनः **तृणानीति** । **तृणानि **विश्रामभूम्याचमनाद्युदकप्रियसत्यवचनानि साधुगृहेषु अतिथ्यर्थं न कदाचिद् अप्य् **उच्छिद्यन्ते** । अतो ऽन्नाभावे एतान्य् अवश्यं देयानि॥ ३.१०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-101	Grass, room (for resting), water, and fourthly a kind word; these (things) never fail in the houses of good men.
 </details>
 </details>
 </div>

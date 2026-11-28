@@ -67,6 +67,12 @@ title = "१४ अभ्युपेत्याशुश्रूषा-प्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/14_abhyupetyAshushrUShA-prakaraNam/182_balAddAsIkRtash_chaurair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One made a slave by force or sold by thieves is set free;  
+as is one who saves the master's life, by abandonment of maintenance, and also by payment of ransom.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बलाद्-दासी-कृतश् चौरैर्  
@@ -195,6 +201,12 @@ _अस्यापवादार्थम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/14_abhyupetyAshushrUShA-prakaraNam/183_pravrajyAvasito_rAjno.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who has lapsed from ascetic life becomes the slave of the king until death.  
+Slavery exists in direct order of the social classes, never in reverse order.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रव्रज्यावसितो राज्ञो  
@@ -352,6 +364,12 @@ _एवं दास्यान् निर्मोचनप्राप्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/14_abhyupetyAshushrUShA-prakaraNam/184_kRtashilpo.api.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Even having acquired the craft, an apprentice should reside in the guru's house for the agreed period,  
+receiving food from the guru and giving him the fruits [of his labor].
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृत-शिल्पो ऽपि निवसेत्  

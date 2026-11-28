@@ -12,6 +12,11 @@ title = "१४ ब्राह्मणहिंसा"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/165_brAhmaNAyA-vagurya_eva.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+165	A twice-born man who has merely threatened a Brahmana with the intention of (doing him) a corporal injury, will wander about for a hundred years in the Tamisra hell.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born person who threatens a Brāhmaṇa, with the intention of striking him, wanders about in the tāmisra hell for a hundred years.—(165)
@@ -53,11 +58,6 @@ unfit for heaven for a hundred years.’
 
 **ब्राह्मणायेति । द्विजातिर् **अपि हननेच्छया ब्राह्मणस्य दण्डाद्युद्यम्यैव वर्षशतं तामिस्राख्ये नरके परिभ्राम्यति ॥ ४.१६५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-165	A twice-born man who has merely threatened a Brahmana with the intention of (doing him) a corporal injury, will wander about for a hundred years in the Tamisra hell.
-</details>
 </details>
 </div>
 
@@ -71,6 +71,11 @@ unfit for heaven for a hundred years.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/166_tADayitvA_tRNenA-pi.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+166	Having intentionally struck him in anger, even with a blade of grass, he will be born during twenty-one existences in the wombs (of such beings where men are born in punishment of their) sins.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having, in anger, struck him intentionally, even with a straw, he is born, during twenty-one births, in sinful wombs.—(166)
@@ -118,11 +123,6 @@ heaven), for a thousand years.’
 
 **ताडयित्वेति** । क्रोधेन बुद्धिपूर्वं तृणेनापि प्रहृत्य एकविंशतिजन्मानि पापनिमित्तासु श्वादियोनिषु जायते । आजातीर् इत्य् आङ् पादपूरणः ॥ ४.१६६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-166	Having intentionally struck him in anger, even with a blade of grass, he will be born during twenty-one existences in the wombs (of such beings where men are born in punishment of their) sins.
-</details>
 </details>
 </div>
 
@@ -136,6 +136,11 @@ heaven), for a thousand years.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/167_ayudhyamAnasyotpAdya_brAhmaNasyA-sRg.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+167	A man who in his folly caused blood to flow from the body of a Brahmana who does not attack him, will suffer after death exceedingly great pain.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man, who, through folly, causes blood to flow from the body or a Brāhmaṇa who is not fighting, undergoes, after death, very great suffrring.—(167)
@@ -188,11 +193,6 @@ becomes defiled under the law; for this unintentional striking, the sages have p
 
 **अयुध्यमानस्येति** । युद्धं विना ब्राह्मणशरीरतो मौर्ख्यात् रुधिरं नर उत्पाद्य परलोके महद् दुःखं प्राप्नोति ॥ ४.१६७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-167	A man who in his folly caused blood to flow from the body of a Brahmana who does not attack him, will suffer after death exceedingly great pain.
-</details>
 </details>
 </div>
 
@@ -206,6 +206,11 @@ becomes defiled under the law; for this unintentional striking, the sages have p
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/168_shoNitaM_yAvataH.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+168	As many particles of dust as the blood takes up from the ground, during so many years the spiller of the blood will be devoured by other (animals) in the next world.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As many particles of dust the blood takes up from the ground, during so many years is the blood-spiller devoured by others in the other world.—(168)
@@ -246,11 +251,6 @@ See Comparative notes for [Verse 4.167].
 **शोणितम्** इति । प्रहृतब्राह्मणोत्पन्नं रुधिरं क्षितिपृष्ठान् यत्सङ्ख्याकान् रजःकणान् पिण्डीकरोति तत्सङ्ख्याकानि वर्षाणि रुधिरस्योत्पादकः परलोके श्वादिभिः भक्ष्यते ॥ ४.१६८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-168	As many particles of dust as the blood takes up from the ground, during so many years the spiller of the blood will be devoured by other (animals) in the next world.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अन्यैर् इति व्याग्राटादिभिर् (?) इत्य् अर्थः ।
@@ -268,6 +268,11 @@ See Comparative notes for [Verse 4.167].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/169_na_kadA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+169	A wise man should therefore never threaten a Brahmana, nor strike him even with a blade of grass, nor cause his blood to flow.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For these reasons, the learned man shall never even threaten a twice-born person; he shall not strike him even with a straw; and he shall not spill blood from his body.—(169).
@@ -308,11 +313,6 @@ nor spill his blood.’
 <details><summary>गोविन्दराजः</summary>
 
 **न कदाचिद्** इति । यत् एवं ब्राह्मणावगोरणादिना भवति तस्मात् शास्त्रविन् न कदाचिद् अपि ब्राह्मणस्य दण्डादि उद्यच्छेत् । नापि तं **तृणेनापि** हन्यात् । न च शरीराद् रुधिरम् उत्पादयेत् ॥ ४.१६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-169	A wise man should therefore never threaten a Brahmana, nor strike him even with a blade of grass, nor cause his blood to flow.
 </details>
 
 <details><summary>भारुचिः</summary>

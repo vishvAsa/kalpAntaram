@@ -12,6 +12,12 @@ title = "०२ ब्रह्म-चारि-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/010_brahmaxatriyaviTshUdrA_varNAs.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Brahmins, Kshatriyas, Vaishyas, and Shudras are the social classes; the first three are the twice-born.  
+Their life-cycle rites, beginning with insemination and ending at the cremation ground, are performed with sacred formulas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म-क्षत्रिय-विट्-शूद्रा  
@@ -98,6 +104,12 @@ _उक्तं धर्मादीनां स्वरूपं प्र�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/011_garbhAdhAnam_Rtau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The rite of insemination is [performed] during the fertile period; the rite for quickening a male child before the fetus moves;  
+the parting of the hair rite in the sixth or eighth month; and the birth rite upon delivery.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गर्भाधानम् ऋतौ पुंसः  
@@ -302,6 +314,12 @@ _काः पुनस् ताः क्रियाः, कस्मिन�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/012_ahany_ekAdashe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the eleventh day is the naming rite; in the fourth month, the rite of the first outing;  
+in the sixth month, the rite of first solid food; the tonsure rite should be performed according to family custom.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अहन्य् एकादशे नाम  
@@ -340,6 +358,12 @@ _किं चान्यत् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/013_evam_enaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In this way the sin arising from seed and womb is subdued.  
+These rites are performed silently for women, but marriage is accompanied by sacred formulas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवम् एनः शमं याति  
@@ -452,6 +476,12 @@ _न च स्त्रीणाम् आत्यन्तिको मन्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/014_garbhAShTame.aShTame.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The initiation rite of a Brahmin takes place in the eighth year from conception or the eighth year [after birth];  
+of kings in the eleventh, of Vaishyas in the eleventh plus one [twelfth], according to family custom.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गर्भाष्टमे ऽष्टमे वा ऽब्दे  
@@ -531,6 +561,12 @@ _अतः परं तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/015_upanIya_guruH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having initiated the student, the guru, preceded by the great sacred utterances,  
+should teach him the Veda and instruct him in purification and proper conduct.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उपनीय गुरुः शिष्यं  
@@ -628,6 +664,12 @@ _अथ किम् उपनीयानन्तरं वेद एवाध
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/016_divAsandhyAsu_karNastha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+During the day and at the twilight devotions, with his sacred thread placed over his ear and facing north,  
+he should void urine and feces; at night, however, facing south.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दिवा-सन्ध्यासु कर्णस्थ-  
@@ -709,6 +751,12 @@ _इदानीं शौचाभिधित्सया तन्निम�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/017_gRhItashishnash_chotthAya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having risen while holding his penis, he should unweariedly perform purification  
+with earth and drawn-up water, removing odour and coating.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृहीत-शिश्नश् चोत्थाय  
@@ -900,6 +948,12 @@ _किं पुनस् तस्मिन्न् एव देशे श�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/018_antarjAnu_shuchau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seated in a pure place with his hands between his knees, facing north  
+or east, a twice-born should always sip water for purification using the sacred part of the hand belonging to Brahmā.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्तर्-जानु शुचौ देश  
@@ -1002,6 +1056,12 @@ _एवं तावन् मृद्वारिलक्षणम् शौ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/019_kaniShThAdeshinyanguShTha_mUlAny.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The base of the little finger, of the forefinger, and of the thumb, and the tip of the hand:  
+these are, in order, the sacred parts belonging to Prajāpati, the ancestors, Brahmā, and the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कनिष्ठा-देशिन्य्-अङ्गुष्ठ-  
@@ -1075,6 +1135,12 @@ _ब्राह्मेण तीर्थेनेत्य् उक्त�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/020_triH_prAshyApo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having sipped water three times and wiped twice, he should touch the apertures [of the head] with water.  
+[The sipping must be done] with natural water, free from foam and bubbles.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रिः प्राश्यापो द्विर् उन्मृज्य  
@@ -1249,6 +1315,12 @@ _किंलक्षणाः पुनर् आप आचमनयोग्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/021_hRtkaNThatAlugAbhis_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Twice-born persons are purified by water reaching the heart, the throat, and the palate respectively;  
+women and Shudras by water merely touched once at the lips.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हृत्-कण्ठ-तालुगाभिस् तु  
@@ -1291,6 +1363,12 @@ _किं पुनस् तासां परिमाणम् । उच�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/022_snAnam_abdaivatair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bathing with verses dedicated to the waters, sprinkling, breath control,  
+paying homage to the sun, and the daily chanting of the Gāyatrī [are required].
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्नानम् अब्-दैवतैर् मन्त्रैर्  
@@ -1417,6 +1495,12 @@ _एवं तावद् आचमनविधिम् उक्त्वा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/023_gAyatrIM_shirasA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should chant the Gāyatrī together with its head, preceded by the sacred utterances,  
+each joined with the sacred syllable Om; this, repeated thrice, is breath control.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गायत्रीं शिरसा सार्धं  
@@ -1631,6 +1715,12 @@ _प्राणायामः कर्तव्य इत्य् उक्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/024_prANAn_Ayamya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having controlled his breath and sprinkled himself with the triplet dedicated to the waters,  
+he should sit facing west, chanting the Sāvitrī until the rising of the stars.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राणान् आयम्य सम्प्रोक्ष्य  
@@ -1694,6 +1784,12 @@ _पाठक्रमाच् च मार्जनात् परतः प
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/025_sandhyAm_prAk.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the morning, in the same way, he should stand facing east for the twilight devotion until the sun is seen.  
+Then he should perform the fire-service at both twilight devotions.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्ध्यां प्राक् प्रातर् एवं हि  
@@ -1888,6 +1984,12 @@ _किं सायम् एव संध्योपासनम् उत �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/026_tato.abhivAdayed.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then he should salute the elders, saying, “I am so-and-so,”  
+and attend upon his guru with focused mind for the recitation of the Veda.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो ऽभिवादयेद् वृद्धान्  
@@ -1993,6 +2095,12 @@ _एवम् अग्निकार्यं निर्वर्त्य,_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/027_AhUtash_chApy.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Summoned, he should study; and what he has received [as alms] he should report to him.  
+He should always act for his benefit with mind, speech, body, and deeds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आहूतश् चाप्य् अधीयीत  
@@ -2063,6 +2171,12 @@ _अयं चान्यस् तद्धर्मः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/028_kRtajnAdrohimedhAvi_shuchikalyAnasUyakAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who are grateful, non-malicious, intelligent, pure, healthy, free from envy,  
+capable, honest, and those who impart knowledge or wealth are fit to be taught according to duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृतज्ञाद्रोहि-मेधावि-  
@@ -2132,6 +2246,12 @@ _गुरोः पुनः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/029_daNDAjinopavItAni_mekhalA~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should carry a staff, a deer hide, and a sacred cord, and wear a girdle.  
+He should beg alms for his sustenance among blameless Brahmins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दण्डाजिनोपवीतानि  
@@ -2278,6 +2398,12 @@ _उपनीतं प्रत्य् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/030_AdimadhyAvasAneShu_bhavachChabdopalaxitA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Marked by the word 'bhavat' at the beginning, middle, and end, respectively,  
+is the begging of alms for Brahmins, Kshatriyas, and Vaishyas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आदि-मध्यावसानेषु  
@@ -2339,6 +2465,12 @@ _ब्राह्मणविषयैवेयं बैक्षवृत्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/031_kRtAgnikAryo_bhunjIta.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having performed the fire-service, restrained in speech, with the guru's permission,  
+preceded by the rite of sipping water, he should eat, honouring his food and not reviling it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृताग्नि-कार्यो भुञ्जीत  
@@ -2413,6 +2545,12 @@ _भूयश् च गुरोर् मान्यत्वं दर्श
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/032_brahmacharye_sthito.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Established in celibate studenthood, he should not eat solitary food unless in distress.  
+A Brahmin may eat at will at an ancestral rite without violating his vow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म-चर्ये स्थितो नैकम्  
@@ -2477,6 +2615,12 @@ _वृत्त्यर्थत्वाद् अविद्यमानध
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/033_madhumAMsAnjanochChiShTa_shuktastrIprANihiMsanam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should avoid honey, meat, eye salve, leftover food, sour substances, women, harming living beings,  
+looking at the sun, vulgar speech, slander, and the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधु-मांसाञ्जनोच्छिष्ट-  
@@ -2575,6 +2719,12 @@ _उक्ताश् च ब्रह्मचारिणो नियमा�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/034_sa_gurur.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He is the guru who, having performed the rites, imparts the Veda to him;  
+he who initiates and then imparts the Veda is designated the preceptor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स गुरुर् यः क्रियाः कृत्वा  
@@ -2671,6 +2821,12 @@ _किंलक्षणः पुनर् गुरुः किंलक्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/035_ekadesham_upAdhyAya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who teaches a portion [of the Veda] is a sub-teacher; he who performs a sacrifice is called the sacrificial priest.  
+These are venerable in order of precedence; greater than all of them is the mother.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एकदेशम् उपाध्याय  
@@ -2786,6 +2942,12 @@ _मान्यत्वज्ञापनार्थं प्रसङ्ग
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/036_prativedam_brahmacharyaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For each Veda, celibate studenthood is twelve years, or five;  
+some say it lasts until comprehension; and the first shaving of the beard is in the sixteenth year.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिवेदं ब्रह्म-चर्यं  
@@ -2861,6 +3023,12 @@ _कियान् पुनः काल एवं व्रतचर्या
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/037_AShoDashAd_AdvAviMshAch.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Up to the sixteenth, twenty-second, and twenty-fourth year, respectively,  
+is the upper time limit for initiation for Brahmins, Kshatriyas, and Vaishyas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ-षोडशाद् आ-द्वाविंशाच्  
@@ -2925,6 +3093,12 @@ _एवं तर्हि यावज्जीवम् उपनयनं स
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/038_ata_Urdhvam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Beyond this, excluded from all duties, they fall;  
+fallen from the Sāvitrī, they become outcastes, except through the Vrātyastoma sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अत ऊर्ध्वं पतन्त्य् एते  
@@ -2978,6 +3152,12 @@ _एतद् एव निन्दार्थवादेन स्पष्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/039_mAtur_yad.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because they are born first from their mother, and secondly from the tying of the girdle of muñja grass,  
+therefore Brahmins, Kshatriyas, and Vaishyas are traditionally known as the twice-born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मातुर् यद् अग्रे जायन्ते  
@@ -3032,6 +3212,12 @@ _कस्मात् पुनर् अद्विजातित्वम�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/040_yajnAnAn_tapasA~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Among sacrifices, austerities, and auspicious deeds,  
+the Veda alone is the supreme bringer of the highest good for the twice-born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यज्ञानां तपसां चैव  
@@ -3092,6 +3278,12 @@ _अस्यैव दार्ढ्यार्थम् इयम् अन�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/041_madhunA_payasA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The twice-born who recites verses of the Ṛgveda daily libates the gods with honey and milk,  
+and the ancestors with honey and clarified butter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधुना पयसा चैव  
@@ -3150,6 +3342,12 @@ _तथा चाह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/042_yajUMShi_shaktito.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who recites the Yajurveda formulas daily according to his ability pleases the gods with clarified butter and nectar,  
+and likewise the ancestors with clarified butter and honey.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यजूंषि शक्तितो ऽधीते  
@@ -3188,6 +3386,12 @@ _तथा चाह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/043_sa_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who chants the Sāmaveda chants daily libates the gods with soma and clarified butter,  
+and satisfies the ancestors with honey and clarified butter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स तु सोम-घृतैर् देवांस्  
@@ -3226,6 +3430,12 @@ _तथा चाह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/044_medasA_tarpayed.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The twice-born who chants the Atharvāṅgiras hymns daily according to his ability libates the gods with fat,  
+and the ancestors with honey and clarified butter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मेदसा तर्पयेद् देवान्  
@@ -3261,7 +3471,7 @@ _तथा चाह ।_
 
 <details open><summary>विश्वास-प्रस्तुतिः - १.४५ वाकोवाक्यम्</summary>
 
-वाकोवाक्यं पुराणं च  
+वाको-वाक्यं पुराणं च  
 नाराशंसीश् च गाथिकाः।  
 इतिहासांस् तथा विद्याः  
 शक्त्या ऽधीते हि यो ऽन्वहम्  ॥ १.४५ ॥
@@ -3269,6 +3479,12 @@ _तथा चाह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/045_vAkovAkyam_purANa~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who recites daily according to his ability the dialogues, the Purāṇas, the praise songs, the ballads,  
+the historical legends, and the sciences,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाकोवाक्यं पुराणं च  
@@ -3285,7 +3501,16 @@ _तथा चाह ।_
 > **मांसक्षीरौदनमधुतर्पणं स दिवौकसाम् ।**  
 > **करोति तृप्तिं च तथा प्तिॠणां मधुसर्पिषा ॥ १.४६ ॥**
 
-वाकोवाक्यं प्रश्नप्रतिप्रश्नरूपो वेदभागः । पुराणं प्रसिद्धम् । नाराशंस्य ऋग्वेदखिलग्रन्थाधीता "इदं जना उपश्रुत" इत्याद्यास् तिस्र ऋचः । गाथिका इन्द्रगाथाद्याः । इतिहासा भारताद्याः । विद्या मधुविद्याद्याः । एतद् यः प्रत्यहं यथाशक्त्य् अधीते स मांस्क्षीरौदनमधुभिर् देवतर्पणं मधुसर्पिषा च पितृतृप्तिं करोति ॥ १.४५–४६ ॥
+**वाकोवाक्यं** प्रश्न-प्रतिप्रश्न-रूपो वेदभागः ।  
+**पुराणं** प्रसिद्धम् ।  
+**नाराशंस्य** ऋग्वेद-खिल-ग्रन्थाधीता  
+"इदं जना उपश्रुत" इत्याद्यास् तिस्र ऋचः ।  
+**गाथिका** इन्द्रगाथाद्याः ।  
+**इतिहासा** भारताद्याः ।  
+**विद्या** मधुविद्याद्याः ।  
+एतद् यः प्रत्यहं यथाशक्त्य् अधीते  
+स मांस-क्षीरौदन-मधुभिर् देवतर्पणं  
+मधुसर्पिषा च पितृतृप्तिं करोति ॥ १.४५–४६ ॥
 </details>
 
 <details><summary>विश्वरूपः</summary>
@@ -3293,9 +3518,14 @@ _तथा चाह ।_
 > **वाकोवाक्यं पुराणं च नाराशंसीश् च गाथिकाः ।**  
 > **इतिहासांस् तथा विद्या यो ऽधीते शक्तितो ऽन्वहम् ॥ १.४५ ॥**
 
- 
-
-वाकोवाक्यं त्रय्यनुगतानि वादप्रकरणानि । नाराशंस्यः पौरेषेय्यो यज्ञगाथाः, देवस्तोत्राणि पुरुषकृतान्य् एवेत्य् अन्ये । गाथा आत्मवादश्लोकाः । पुरुषकृता एव यज्ञगाथा इत्य् अन्ये । विद्या मीमांसादयः । यो ऽन्वहं शक्तितो द्विजातिर् अद्विजातिर् वाधिकृतः सन्न् अधीते ॥ ४५ ॥
+**वाकोवाक्यं** त्रय्य्-अनुगतानि वाद-प्रकरणानि ।  
+**नाराशंस्यः** पौरेषेय्यो यज्ञगाथाः,  
+देवस्तोत्राणि पुरुषकृतान्य् एवेत्य् अन्ये ।  
+**गाथा** आत्मवाद-श्लोकाः,  
+पुरुषकृता एव यज्ञगाथा इत्य् अन्ये ।  
+**विद्या** मीमांसादयः ।  
+यो ऽन्वहं शक्तितो द्विजातिर् अद्विजातिर् वा  
+अधिकृतः सन्न् अधीते ॥ ४५ ॥
 </details>
 </details>
 </div>
@@ -3310,6 +3540,12 @@ _तथा चाह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/046_mAMsaxIraudanamadhu_tarpaNaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+makes an offering of meat, milk, boiled rice, and honey to the dwellers of heaven,  
+and brings satisfaction to the ancestors with honey and clarified butter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मांस-क्षीरौदन-मधु-  
@@ -3340,6 +3576,12 @@ _तथा चाह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/047_te_tRptAs.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+They, being gratified, gratify him with all auspicious fruits of desire;  
+and whatever sacrifice he recites, he attains the fruit of that sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते तृप्तास् तर्पयन्त्य् एनं  
@@ -3396,6 +3638,12 @@ _किं पुनस् तैस् तृप्तैः प्रयोज
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/048_trir_vittapUrNapRthivI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A twice-born man who constantly recites the Veda obtains here the fruit of gifting the earth filled with wealth three times,  
+and of the supreme asceticism.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रिर् वित्त-पूर्ण-पृथिवी-  
@@ -3452,6 +3700,12 @@ _एवम् उक्तकालं ब्रह्मचर्ये सम�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/049_naiShThiko_brahmachArI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A lifelong chaste student, however, should dwell near his preceptor;  
+in his absence, near his son, near his wife, or near the sacred fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नैष्ठिको ब्रह्म-चारी तु  
@@ -3512,6 +3766,12 @@ _द्विविधः खलु ब्रह्मचारी उपकु�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/02_brahma-chAri-prakaraNam/050_anena_vidhinA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mortifying his body by this rule, with his senses conquered,  
+he attains the world of Brahmā and is not born here again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनेन विधिना देहं  

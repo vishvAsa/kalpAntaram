@@ -12,6 +12,11 @@ title = "०८ सदाचारः"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/037_nexetodyantam_Adityam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+037	Let him never look at the sun, when he sets or rises, is eclipsed or reflected in water, or stands in the middle of the sky.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not look at the Sun when rising, nor when setting, nor when it is eclipsed, nor when it is in water, nor when it has reached the middle of the sky.—(37)
@@ -75,11 +80,6 @@ naked woman; nor the rising or setting sun and moon.’
 
 **नेति** । उदयास्तमनराहुग्रस्तोदकप्रतिबिम्बमध्याह्नवर्तिनम् आदित्यं कस्मिंश्चिद् अपि **नेक्षेत **॥ ४.३७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-037	Let him never look at the sun, when he sets or rises, is eclipsed or reflected in water, or stands in the middle of the sky.
-</details>
 </details>
 </div>
 
@@ -93,6 +93,11 @@ naked woman; nor the rising or setting sun and moon.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/038_na_langhayed.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+038	Let him not step over a rope to which a calf is tied, let him not run when it rains, and let him not look at his own image in water; that is a settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not step over the rope to which a calf is tied; he shall not run when it is raining; he shall not look at his own figure in water; such is the established rule.—(38).
@@ -151,11 +156,6 @@ Do. (63.42-43).—‘He shall not cross over the rope to which the calf is tied;
 
 **न लङ्घयेद्** इति । वत्सवन्धनरज्जुं **न लङ्घयेत् वर्षति न धावेत् उदके च **स्वप्रतिबिम्बं नेक्षेतेत्य् एवं निश्चयः ॥ ४.३८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-038	Let him not step over a rope to which a calf is tied, let him not run when it rains, and let him not look at his own image in water; that is a settled rule.
-</details>
 </details>
 </div>
 
@@ -169,6 +169,11 @@ Do. (63.42-43).—‘He shall not cross over the rope to which the calf is tied;
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/039_mRda~N_gAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+039	Let him pass by (a mound of) earth, a cow, an idol, a Brahmana, clarified butter, honey, a crossway, and well-known trees, turning his right hand towards them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By a mound of clay, a cow, a deity, a Brāhmaṇa, clarified butter, honey, a cross-way and the well-known trees—he shall pass in such a manner as to leave them on his right.—(39)
@@ -233,11 +238,6 @@ trees he shall salute; and he shall pass by all auspicious objects in such a way
 **मृदम्** इति । प्रस्थितः सन् सम्मुखोपरिस्थान् उद्धृतमृद्गोपाषाणादिकृतदेवताब्राह्मणघृत-माक्षिकचतुष्पथाश्वत्थादिध्यातवृक्षान् दक्षिणहस्तमार्गेण कुर्यात् ॥ ४.३९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-039	Let him pass by (a mound of) earth, a cow, an idol, a Brahmana, clarified butter, honey, a crossway, and well-known trees, turning his right hand towards them.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 शास्त्रे लोके वा देवताधिष्ठानेन ।
@@ -257,6 +257,11 @@ trees he shall salute; and he shall pass by all auspicious objects in such a way
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/040_nopagachChet_pramatto.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+040	Let him, though mad with desire, not approach his wife when her courses appear; nor let him sleep with her in the same bed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even though mad, he shall not approach a woman during her courses; nor shall he sleep on the same bed with her.—(40)
@@ -308,11 +313,6 @@ his wife before she has bathed or when she is ill, or in her courses.’
 
 प्रमत्तः कामार्तोऽपि रजोदशने निषिद्धस्पर्शदिनत्रये स्त्रियं नोपगच्छेत् । स्पर्श निषेधेनैव **“तासामाद्याश्चतस्रः”**इति निषेधसिद्धौ प्रायश्चित्तगौरवार्थं स्नातकव्रतत्वार्थं च पुनरारम्भः । न चागच्छन्नपि तया सहैकशय्यायां सुप्यात ॥४०॥
 </details>
-
-<details><summary>Bühler</summary>
-
-040	Let him, though mad with desire, not approach his wife when her courses appear; nor let him sleep with her in the same bed.
-</details>
 </details>
 </div>
 
@@ -326,6 +326,11 @@ his wife before she has bathed or when she is ill, or in her courses.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/041_rajasAbhiplutAn_nArIm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+041	For the wisdom, the energy, the strength, the sight, and the vitality of a man who approaches a woman covered with menstrual excretions, utterly perish.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of the man who approaches a woman covered with impurity,—intelligence, vitality, strength, sight and longevity wear off.—(41)
@@ -368,11 +373,6 @@ See Comparative notes for [Verse 4.40].
 
 **रजसेति** । यस्माद् रजस्वलास्त्रियं पुंस **उपगच्छतः प्रज्ञा**वीर्यादीनि** **नश्यन्ति, तस्मात् तां नोपेयात् ॥ ४.४१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-041	For the wisdom, the energy, the strength, the sight, and the vitality of a man who approaches a woman covered with menstrual excretions, utterly perish.
-</details>
 </details>
 </div>
 
@@ -386,6 +386,11 @@ See Comparative notes for [Verse 4.40].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/042_tAM_vivarjayatas.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+042	If he avoids her, while she is in that condition, his wisdom, energy, strength, sight, and vitality will increase.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of that same man, if he avoids the woman covered with impurity, intelligence, vitality, strength, sight and longevity flourish.—(42)
@@ -424,11 +429,6 @@ See Comparative notes for [Verse 4.40].
 **ताम्** इति । **तां** पुनः रजस्वलां न गच्छतः प्रज्ञादीनि वर्धन्ते तस्मात् तां न व्रजेद् इति ॥ ४.४२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-042	If he avoids her, while she is in that condition, his wisdom, energy, strength, sight, and vitality will increase.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उभयथा वाक्यस्वाभाव्याद् वर्जनस्तुतिः ।
@@ -448,6 +448,11 @@ See Comparative notes for [Verse 4.40].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/043_nA-shnIyAd_bhAryayA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+043	Let him not eat in the company of his wife, nor look at her, while she eats, sneezes, yawns, or sits at her ease.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not eat with his wife; nor shall he look at her while she is eating, or snoring, or yawning, or sitting at her ease.—(43)
@@ -575,11 +580,6 @@ harm in a man eating with his own wife, or her leavings.’
 **नाश्नीयाद्** इति । **भार्यया **सह नाद्यात् यत् पुनः “नित्यम् आस्यं शुचि स्त्रीणाम्” (५.१३०) इति तत् “स्त्रियश् च रतिसंसर्गे” इति गौतमस्मरणात् रतिकालविषयम् एव । न चाप्य् एनां भुञ्जानां **क्षुवन्तीं **वायुना चास्यविकासं कुर्वाणां प्रसृतचरणत्वादिना वा अनियन्त्रणावस्थां पश्येत् ॥ ४.४३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-043	Let him not eat in the company of his wife, nor look at her, while she eats, sneezes, yawns, or sits at her ease.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 "नित्यम् आस्यं शुचि स्त्रीणाम्" (म्ध् ५.१३०) इतीदम् अवशिष्टम् अप्य् अनुज्ञातम् अनेन प्रतिषेधेन रतिविषयं विज्ञायते । रत्याम् (?) इह भार्यया सह भुज्यते । इतरथा हि स्त्रीशूद्रोच्छिष्टप्रतिषेधाद् एव **[१७३]** भार्यया सह भोजनप्रतिषेधे सिद्धे पुनः प्रतिषेधो ऽनर्थकः स्यात् । न चानेन हनिन्यादि (?) स्त्रीभिः सह भोजनम् अनुज्ञायते नापि भोजनाद् अन्यत्र भार्योच्चिष्ठस्यानुज्ञानम् । एवं च सति न्यायात् स्मृत्याचारात् त्रिसन्ध्यं च प्रज्ञा नश्यति मे भुक्तः । ततश् च ।
@@ -680,6 +680,11 @@ harm in a man eating with his own wife, or her leavings.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/044_nA-njayantIM_svake.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+044	A Brahmana who desires energy must not look at (a woman) who applies collyrium to her eyes, has anointed or uncovered herself or brings forth (a child).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The brāhmaṇa, desiring brightness, shall not look at a woman who is a pplying collyrium to her own eyes, or who has anointed herself, or who is uncovered, or is bringing forth a child.—(44)
@@ -801,11 +806,6 @@ See Comparative notes for [Verse 4.43].
 
 **नाञ्जयन्तीम्** इति । तथा स्वनेत्रयोः अञ्जनं ददतीं घृ**आभ्यक्तां **“नग्नां नान्यत्र मैथुनात्” इत्य् आपस्तम्बस्मरणात् नेक्षेत । अपत्यं च **प्रसवन्तीं **वीर्यकामो ब्राह्मणो **न पश्येत्** ॥ ४.४४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-044	A Brahmana who desires energy must not look at (a woman) who applies collyrium to her eyes, has anointed or uncovered herself or brings forth (a child).
-</details>
 </details>
 </div>
 
@@ -821,6 +821,11 @@ See Comparative notes for [Verse 4.43].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/045_nA-nnam_adyAd.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+045	Let him not eat, dressed with one garment only; let him not bathe naked; let him not void urine on a road, on ashes, or in a cow-pen,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not eat food with only one piece of cloth on him; he shall not bathe naked; he shall not pass urine on the road, nor on ashes, nor on the haunts of cows.—(45)
@@ -934,11 +939,6 @@ uncovered place; nor with his lower garment on, nor naked.’
 
 **नान्नम्** इति । एकवस्त्रो नाश्नीयात् । न च कौपीनाच्छादनं विना स्नायात् । मूत्रपुरीषे च मार्गभस्मगोष्ठेषु न कुर्यात् ॥ ४.४५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-045	Let him not eat, dressed with one garment only; let him not bathe naked; let him not void urine on a road, on ashes, or in a cow-pen,
-</details>
 </details>
 </div>
 
@@ -952,6 +952,11 @@ uncovered place; nor with his lower garment on, nor naked.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/046_na_phAlakRShTe.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+046	Nor on ploughed land, in water, on an altar of bricks, on a mountain, on the ruins of a temple, nor ever on an ant-hill,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor on ploughed land, nor in water, nor on an oven, nor on a mountain, nor in a ruined temple, nor on an ant-hill. (46)
@@ -998,11 +1003,6 @@ See Comparative notes for [Verse 4.45].
 
 **न फालकृष्ट** इति । तथा **फालकृष्टे** उदके इष्टकाचिते चाग्न्यधिकरणे पर्वते देवायतने पिपीलिकाकृष्टे मृत्सञ्चये च न कदाचित् कुर्यात् ॥ ४.४६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-046	Nor on ploughed land, in water, on an altar of bricks, on a mountain, on the ruins of a temple, nor ever on an ant-hill,
-</details>
 </details>
 </div>
 
@@ -1016,6 +1016,11 @@ See Comparative notes for [Verse 4.45].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/047_na_sa-sattveShu.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+047	Nor in holes inhabited by living creatures, nor while he walks or stands, nor on reaching the bank of a river, nor on the top of a mountain.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor in holes inhabited by living creatures, nor walking, nor standing, nor on reaching the banks of a river, nor on the mountain-top.—(47)
@@ -1058,11 +1063,6 @@ See Comparative notes for [Verse 4.45].
 
 **न ससत्त्वेष्व्** इति । तथा सप्राणिषु बिलेषु न कुर्यात्, न व्रजन् **न स्थितो** वा नापि **नदीतीरम्** आश्रित्य कुर्यात् पर्वतशृङ्गे वा । पर्वतग्रहणास् एव पर्वतमस्तकनिषेधसिद्धौ पुनर्वचनं न शृङ्गाद् अन्यत्र पर्वते विकल्पार्थम् । न च तुल्यविकल्पः । तथाविधौ स्वेच्छासिद्धत्वात् सामान्यप्रतिषेधानर्थक्यम् । तस्माद् अत्यन्तार्तस्य पर्वते न दोषः, अन्यदा तु दोष इति व्यवस्थितो ऽयं विकल्पः ॥ ४.४७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-047	Nor in holes inhabited by living creatures, nor while he walks or stands, nor on reaching the bank of a river, nor on the top of a mountain.
-</details>
 </details>
 </div>
 
@@ -1076,6 +1076,11 @@ See Comparative notes for [Verse 4.45].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/048_vAyv-agni-vipram_Adityam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+048	Let him never void faeces or urine, facing the wind, or a fire, or looking towards a Brahmana, the sun, water, or cows.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should never pass faeces or urine, while looking at the wind or fire, or a Brāhmaṇa, or the sun, or water, or cows.—(48)
@@ -1115,11 +1120,6 @@ See Comparative notes for [Verse 4.45].
 
 **वाय्वग्निब्राह्मणादित्यम्** इति । **वाय्वग्निब्राह्मणादित्योदकगा** अवलोकयन् न **कदाचिन् **मूत्रपुरीषोत्सर्गं कुर्यात् वायोश् च सम्मुखीभावो ऽवलोकनम् ॥ ४.४८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-048	Let him never void faeces or urine, facing the wind, or a fire, or looking towards a Brahmana, the sun, water, or cows.
-</details>
 </details>
 </div>
 
@@ -1141,6 +1141,11 @@ _अस्यार्थवादः ।_[^११८]
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/049_tiraskRtyochcharet_kAShTha-.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+049	He may ease himself, having covered (the ground) with sticks, clods, leaves, grass, and the like, restraining his speech, (keeping himself) pure, wrapping up his body, and covering his head.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 केचिद् इमं श्लोकम् अस्मिन्न् अध्याये नाधीयते[^१२०] ।
@@ -1192,11 +1197,6 @@ See Comparative notes for [Verse 4.45].
 
 **तिरस्कृत्येति** । काष्ठपत्रलोष्टतृणैः भूमिम् अन्तर्धाय मौनी उच्छिष्टचाण्डालादिस्पर्श-प्रायश्चित्तरहितः आच्छादितगात्रः प्रावृतशिरा मूत्रपुरीषे कुर्यात् ॥ ४.४९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-049	He may ease himself, having covered (the ground) with sticks, clods, leaves, grass, and the like, restraining his speech, (keeping himself) pure, wrapping up his body, and covering his head.
-</details>
 </details>
 </div>
 
@@ -1210,6 +1210,11 @@ See Comparative notes for [Verse 4.45].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/050_mUtrochchAra-samutsargan_divA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+050	Let him void faeces and urine, in the daytime turning to the north, at night turning towards the south, during the two twilights in the same (position) as by day.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall pass it after placing a stick, or a clod, or leaves, or grass, or some such thing, restraining his speech, clean, his b ody wrapped and covered.—(50)
@@ -1292,11 +1297,6 @@ grass or wood or leaves or split bamboo or earthen vessels.’
 
 **मूत्रोच्चारसमुत्सर्गम् **इति । मूत्रपुरीषोत्सर्गं **दिवा सन्ध्ययोश् **चोत्तराभिमुखो **रात्रौ दक्षिणाभिमुखः कुर्यात् **॥ ४.५० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-050	Let him void faeces and urine, in the daytime turning to the north, at night turning towards the south, during the two twilights in the same (position) as by day.
-</details>
 </details>
 </div>
 
@@ -1310,6 +1310,11 @@ grass or wood or leaves or split bamboo or earthen vessels.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/051_ChAyAyAm_andhakAre.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+051	In the shade or in darkness a Brahmana may, both by day and at night, do it, assuming any position he pleases; likewise when his life is in danger.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 **मूत्रोच्चारसमुत्सर्गं** त्यागम् ॥ ४.५१ ॥
@@ -1345,11 +1350,6 @@ See Comparative notes for [Verse 3.50].
 
 **छायायाम्** इति । **रात्राव् अहनि वा छायायां रात्राव् अन्धकारे अहनि वा **नीहाराद्यन्धकारे एतेषु, दिङ्मोहे सति तथा च वाय्वादिकृतप्राणविनाशसंशयेषु यथेष्टमुखो मूत्रपुरीषे कुर्यात् ॥ ४.५१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-051	In the shade or in darkness a Brahmana may, both by day and at night, do it, assuming any position he pleases; likewise when his life is in danger.
-</details>
 </details>
 </div>
 
@@ -1363,6 +1363,11 @@ See Comparative notes for [Verse 3.50].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/052_praty-agnim_prati-sUryam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+052	The intellect of (a man) who voids urine against a fire, the sun, the moon, in water, against a Brahmana, a cow, or the wind, perishes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the shade, or in darkness, the Brāhmaṇa may—during the day or the night—do it, with his face towards any direction he pleases; as also where there is danger to life, and when there is fear.’—(52)
@@ -1418,11 +1423,6 @@ This is quoted in *Smṛtitattva* (p. 329);—in *Vidhānapārijāta* (II, p. 15
 
 **प्रत्यग्निम्** इति । अग्न्यादित्यसोमाम्भोब्राह्मणगोवाय्वभिमुखम् मूत्रपुरीषे कुर्वतः **प्रज्ञा नश्यति**, अत एव तन् न कर्तव्यम् इति वायुअग्निविप्रम् इत्य् अस्य फलकथनं सीमाभिमुखं च, अत एव निषेधसिद्धिः पूर्वत्रापठितत्वात् ॥ ४.५२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-052	The intellect of (a man) who voids urine against a fire, the sun, the moon, in water, against a Brahmana, a cow, or the wind, perishes.
-</details>
 </details>
 </div>
 
@@ -1438,6 +1438,11 @@ This is quoted in *Smṛtitattva* (p. 329);—in *Vidhānapārijāta* (II, p. 15
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/053_nA-gnim_mukhenopadhamen.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+053	Let him not blow a fire with his mouth; let him not look at a naked woman; let him not throw any impure substance into the fire, and let him not warm his feet at it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not blow fire with the mouth; nor shall he look at a naked woman. He shall not throw an unclean thing into fire; nor shall he warm his feet at it.—(53)
@@ -1513,11 +1518,6 @@ with water.’
 
 **नाग्निम्** इति । मुखवायुनाग्निं न धमेत् । **न नग्नां **परयोषितम् **ईक्षेत **गौतमस्मरणात् । मूत्रादि **अग्नौ न निक्षिपेत् पादौ न **तत्र **प्रतापयेत् **॥ ४.५३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-053	Let him not blow a fire with his mouth; let him not look at a naked woman; let him not throw any impure substance into the fire, and let him not warm his feet at it.
-</details>
 </details>
 </div>
 
@@ -1531,6 +1531,11 @@ with water.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/054_adhastAn_nopadadhyAch.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+054	Let him not place (fire) under (a bed or the like); nor step over it, nor place it (when he sleeps) at the foot-(end of his bed); let him not torment living creatures.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not place fire under himself; nor shall he step over it; he shall not place it under his feet. He shall not do anything dangerous to life.—(54)
@@ -1577,11 +1582,6 @@ Do. (1.12.6).—‘He shall not pass between the fire and the Brāhmaṇa.’
 
 **अधस्ताद्** इति । **न चैनं पादतः कुर्यान्** **न** प्राणिवधम् **आचरेत्** । तथा च खट्वादिषु अग्निं अधस्तान् न स्थापयेत् । नाप्य् एनम् उल्लङ्घयेत् । न च पाददेशतः कुर्यात् । प्राणिपीडाकरं च नाचरेत् ॥ ४.५४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-054	Let him not place (fire) under (a bed or the like); nor step over it, nor place it (when he sleeps) at the foot-(end of his bed); let him not torment living creatures.
-</details>
 </details>
 </div>
 
@@ -1595,6 +1595,11 @@ Do. (1.12.6).—‘He shall not pass between the fire and the Brāhmaṇa.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/055_nA-shnIyAt_sandhivelAyAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+055	Let him not eat, nor travel, nor sleep during the twilight; let him not scratch the ground; let him not take off his garland.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At junction-time, he shall not eat, nor travel, nor sleep. He shall not scratch the ground; and he shall not remove his own garland.—(55).
@@ -1646,11 +1651,6 @@ The first quarter of this verse is quoted in *Mitākṣarā* (on 3.290).
 
 **नाश्नीयाद् **इति । सन्ध्याकाले अशनगमनस्वापान् न कुर्यात्, **भूमिं **सर्वदा नखादिना **न लिखेत् **। मालां च शिरसः स्वयं नापनयेत् ॥ ४.५५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-055	Let him not eat, nor travel, nor sleep during the twilight; let him not scratch the ground; let him not take off his garland.
-</details>
 </details>
 </div>
 
@@ -1664,6 +1664,11 @@ The first quarter of this verse is quoted in *Mitākṣarā* (on 3.290).
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/056_nA-psu_mUtram.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+056	Let him not throw urine or faeces into the water, nor saliva, nor (clothes) defiled by impure substances, nor any other (impurity), nor blood, nor poisonous things.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not throw into water urine, or faeces, or spittings, or anything else contaminated by unclean things, or blood or poisons.—(56).
@@ -1701,11 +1706,6 @@ blood, or faeces, or urine, or semen.’
 
 **नाप्स्व्** इति । मूत्रपुरीषश्लेष्मामेध्यलिप्तरुधिरविषाणि उदके न क्षिपेत् ॥ ४.५६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-056	Let him not throw urine or faeces into the water, nor saliva, nor (clothes) defiled by impure substances, nor any other (impurity), nor blood, nor poisonous things.
-</details>
 </details>
 </div>
 
@@ -1719,6 +1719,11 @@ blood, or faeces, or urine, or semen.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/057_naikaH_supyAch.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+057	Let him not sleep alone in a deserted dwelling; let him not wake (a superior) who is sleeping; let him not converse with a menstruating woman; nor let him go to a sacrifice, if he is not chosen (to be officiating priest).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Alone he shall not sleep in a deserted house. He shall not offer advice to his superior. He shall not converse with a woman in her courses. He shall not go to a sacrifice uninvited.—(57).
@@ -1766,11 +1771,6 @@ shall not arouse a sleeping man.’
 
 **नैकः स्वप्याद्** इति । उद्वसितगृहे **एको** न शयीत वित्ताद्यभ्यधिकं सुप्तं च **न प्रोबोधयेत् **। रजस्वलया सह सम्भाषणं न कुर्यात् । **यज्ञं** चाकृतवरणं ऋत्विक् **न गच्छेत्** । “दर्शनार्थं तु कामम्” इति गौतमः ॥ ४.५७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-057	Let him not sleep alone in a deserted dwelling; let him not wake (a superior) who is sleeping; let him not converse with a menstruating woman; nor let him go to a sacrifice, if he is not chosen (to be officiating priest).
-</details>
 </details>
 </div>
 
@@ -1784,6 +1784,11 @@ shall not arouse a sleeping man.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/058_agnyagAre_gavAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+058	Let him keep his right arm uncovered in a place where a sacred fire is kept, in a cow-pen, in the presence of Brahmanas, during the private recitation of the Veda, and at meals.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the abode of fire, in the cow-pen, in the presence of Brāhmaṇas, during the reading of Vedas, at the time of eating, he shall uncover his right hand.—(58).
@@ -1833,11 +1838,6 @@ in cow-pens, at sacrifices, near Brāhmaṇas, during the twilights, at meeting 
 
 **अग्न्यागार** इति । अग्निशालायां **गवां गोष्ठे **निवासे ब्राह्मणसमीपे स्वाध्यायभोजनकालयोः **दक्षिणं पाणिम्** आ बाहोर् वासस **उद्धरेत्** ॥ ४.५८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-058	Let him keep his right arm uncovered in a place where a sacred fire is kept, in a cow-pen, in the presence of Brahmanas, during the private recitation of the Veda, and at meals.
-</details>
 </details>
 </div>
 
@@ -1851,6 +1851,11 @@ in cow-pens, at sacrifices, near Brāhmaṇas, during the twilights, at meeting 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/059_na_vArayed.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+059	Let him not interrupt a cow who is suckling (her calf), nor tell anybody of it. A wise man, if he sees a rainbow in the sky, must not point it out to anybody.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not prevent a heifer while she is drinking, nor shall he point her out to anybody. Having seen the rainbow in the sky, the wise man shall not show it to any person.—(59)
@@ -1901,11 +1906,6 @@ that may be grazing in another man’s field; nor shall he point out the calf th
 
 **न वारयेद्** इति । **गां **पिबन्तीं न निवर्तयेत् । नापि परकीयां क्षीरादि पिबन्तीं तस्य कथयेत् । न च द्युलोके इन्द्रधनुर् **दृष्ट्वा** शास्त्रज्ञो ऽन्यस्य **दर्शयेत् **॥ ४.५९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-059	Let him not interrupt a cow who is suckling (her calf), nor tell anybody of it. A wise man, if he sees a rainbow in the sky, must not point it out to anybody.
-</details>
 </details>
 </div>
 
@@ -1921,6 +1921,11 @@ that may be grazing in another man’s field; nor shall he point out the calf th
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/060_nA-dharmike_vased.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+060	Let him not dwell in a village where the sacred law is not obeyed, nor (stay) long where diseases are endemic; let him not go alone on a journey, nor reside long on a mountain.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not dwell long in an unrighteous village, nor in one abounding in sickness. Alone, he shall not undertake a journey; nor shall he reside for long on a mountain.—(60)
@@ -1963,11 +1968,6 @@ village where there is abundance of fuel and water, of fodder, sacrificial fuel,
 
 **नाधार्मिक** इति । अधर्मबहुलजनग्रामादौ अत्यर्थं व्याधिबहुले **न वसेत्** । **एकश् चाध्वानं** न यायात् । **पर्वते **च दीर्घकालं न तिष्ठेत् ॥ ४.६० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-060	Let him not dwell in a village where the sacred law is not obeyed, nor (stay) long where diseases are endemic; let him not go alone on a journey, nor reside long on a mountain.
-</details>
 </details>
 </div>
 
@@ -1981,6 +1981,11 @@ village where there is abundance of fuel and water, of fodder, sacrificial fuel,
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/061_na_shUdrarAjye.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+061	Let him not dwell in a country where the rulers are Sudras, nor in one which is surrounded by unrighteous men, nor in one which has become subject to heretics, nor in one swarming with men of the lowest castes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not dwell in a country with a Śūdra King; nor in one surrounded by unrighteous persons; nor in one occupied by impostors;. nor in one frequented by men of the lowest castes.—(61)
@@ -2034,11 +2039,6 @@ See Comparative notes for [Verse 4.60].
 
 **न शूद्रराज्य **इति । शूद्रराजके देशे अधार्मिकजनिअश् च बाह्यतः परिवृते श्रुत्यादिबाह्य्लिङ्गधारिभिश् च वशीकृते चण्डालादिभिश् चोपद्रुते न निवसेत् ॥ ४.६१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-061	Let him not dwell in a country where the rulers are Sudras, nor in one which is surrounded by unrighteous men, nor in one which has become subject to heretics, nor in one swarming with men of the lowest castes.
-</details>
 </details>
 </div>
 
@@ -2054,6 +2054,11 @@ See Comparative notes for [Verse 4.60].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/062_na_bhunjItoddhRta-sneham.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+062	Let him not eat anything from which the oil has been extracted; let him not be a glutton; let him not eat very early (in the morning), nor very late (in the evening), nor (take any food) in the evening, if he has eaten (his fill) in the morning.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not eat anything from which oil has been extract ed; he shall not commit gluttony; he shall not eat very early in the morning, nor very late in the evening; nor in the evening, if he has eaten in the morning.—(62).
@@ -2147,11 +2152,6 @@ indigestion,... nor during the twilights, or at midday or at midnight.’
 
 **न भुञ्ज्तेति** । **उद्धृतस्नेहं** पिण्याकादि **न भुञ्जीत** । तृप्तिं च नाचरेत् । अतिप्रातः दिनान्ते न भुञ्जीत । सायं प्रातश् च न तृप्तः स्यात् । अपि तु एकस्मिन् काले तृप्तो ऽपरस्मिन् साकाङ्क्षम् अश्नीयात् ॥ ४.६२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-062	Let him not eat anything from which the oil has been extracted; let him not be a glutton; let him not eat very early (in the morning), nor very late (in the evening), nor (take any food) in the evening, if he has eaten (his fill) in the morning.
-</details>
 </details>
 </div>
 
@@ -2165,6 +2165,11 @@ indigestion,... nor during the twilights, or at midday or at midnight.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/063_na_kurvIta.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+063	Let him not exert himself without a purpose; let him not drink water out of his joined palms; let him not eat food (placed) in his lap; let him not show (idle) curiosity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not put forth any exertion without a purpose. He shall not drink water with joined hands. He shall not eat articles of food in his lap. He shall never be too curious.—(63)
@@ -2204,11 +2209,6 @@ not do such acts as cutting, breaking, scratching, crushing, clapping, without r
 
 **न कुर्वीतेति** । दृष्टादृष्टानुपकारफलं व्यापारं न कुर्यात् । उदकं **चाञ्जलिना न पिबेत्** । ऊर्वोश् चोपरि विन्यस्य मोदकानि **न भक्षयेत् **। निष्प्रयोजनं च किम् एतत् स्याद् इति कुतूहलपरो न कदाचित् स्यात् ॥ ४.६३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-063	Let him not exert himself without a purpose; let him not drink water out of his joined palms; let him not eat food (placed) in his lap; let him not show (idle) curiosity.
-</details>
 </details>
 </div>
 
@@ -2222,6 +2222,11 @@ not do such acts as cutting, breaking, scratching, crushing, clapping, without r
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/064_na_nRtyed.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+064	Let him not dance, nor sing, nor play musical instruments, nor slap (his limbs), nor grind his teeth, nor let him make uncouth noises, though he be in a passion.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not dance, nor sing, nor play upon musical instruments, nor clap, nor grind his teeth, nor, when satisfied, shall he create enmity.—(64)
@@ -2288,11 +2293,6 @@ singing or playing of musical instruments. Singing he may do; but being captivat
 
 **न नृत्येद्** इति । अशास्त्रीयाणि नृत्यगीतवाद्यानि न कुर्यात् । पाणिना बाहुं नाभिहन्यात् । अव्यक्तदन्तध्वनिं न कुर्यात् च हर्षितः सन् खरविरावं न कुर्यात् ॥ ४.६४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-064	Let him not dance, nor sing, nor play musical instruments, nor slap (his limbs), nor grind his teeth, nor let him make uncouth noises, though he be in a passion.
-</details>
 </details>
 </div>
 
@@ -2306,6 +2306,11 @@ singing or playing of musical instruments. Singing he may do; but being captivat
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/065_na_pAdau.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+065	Let him never wash his feet in a vessel of white brass; let him not eat out of a broken (earthen) dish, nor out of one that (to judge) from its appearance (is) defiled.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall never wash his feet in a vessel of white brass. He shall not eat out of a broken dish; nor out of one that is felt to be defiled.—(65)
@@ -2348,11 +2353,6 @@ shall he rub one foot with another.’
 
 **न पादाव्** इति । कांस्यपात्रे न कदाचिद् अपि पादौ प्रक्षालयेत् । “ताम्ररजतसुवर्णानां भिन्नम् अभिन्नं च” इति पैठीनसिस्मरणात् ततो ऽन्यत्र भिन्नभाजने नाभि**भुञ्जीत** नापि हृल्लेखोत्पादके ॥ ४.६५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-065	Let him never wash his feet in a vessel of white brass; let him not eat out of a broken (earthen) dish, nor out of one that (to judge) from its appearance (is) defiled.
-</details>
 </details>
 </div>
 
@@ -2366,6 +2366,11 @@ shall he rub one foot with another.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/066_upAnahau_cha.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+066	Let him not use shoes, garments, a sacred string, ornaments, a garland, or a water-vessel which have been used by others.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not use shoes, on clothes, or sacred thread, or ornament, or garland, or water-pot, which has been used by others.—(66)
@@ -2405,11 +2410,6 @@ thread, which have been worn by others.’
 
 **उपानहाव्** इति । उपानद्वस्त्रयज्ञोपवीताभरणमाल्यकमण्ड्लून् अन्योपयुक्तान् **न धारयेत् **॥ ४.६६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-066	Let him not use shoes, garments, a sacred string, ornaments, a garland, or a water-vessel which have been used by others.
-</details>
 </details>
 </div>
 
@@ -2425,6 +2425,11 @@ thread, which have been worn by others.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/067_nA-vinItair_bhajed.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+067	Let him not travel with untrained beasts of burden, nor with (animals) that are tormented by hunger or disease, or whose horns, eyes, and hoofs have been injured, or whose tails have been disfigured.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not travel with untrained beasts of burden; nor with such as are suffering from hunger or disease; nor with those whose horns, eyes or hoofs are injured; nor with those that are disfigured by their tails.—(67)
@@ -2479,11 +2484,6 @@ defective conveyances.’
 
 **नाविनीतैर्** इति । अश्ववृषभादिभिः गन्त्र्यादिधुर्वहनविनियुक्तैर् अदान्तैः बुभुक्षाव्याध्यार्तियुक्तैः भिन्नशृङ्गाक्षिखुरैः छिन्नपुच्छैः न यायात् ॥ ४.६७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-067	Let him not travel with untrained beasts of burden, nor with (animals) that are tormented by hunger or disease, or whose horns, eyes, and hoofs have been injured, or whose tails have been disfigured.
-</details>
 </details>
 </div>
 
@@ -2497,6 +2497,11 @@ defective conveyances.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/068_vinItais_tu.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+068	Let him always travel with (beasts) which are well broken in, swift, endowed with lucky marks, and perfect in colour and form, without urging them much with the goad.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should always travel with beasts that are trained, fast, equipped with signs, well endowed with colour and figure,—without striking them much with the goad.—(68)
@@ -2548,11 +2553,6 @@ See Comparative notes for [Verse 4.67].
 
 **विनीतैर्** इति । सुशिक्षितैः पुनः क्षिप्रगामिभिः देवमण्याद्यावर्तादियुक्तैः ककुदादिशून्यैः शोणादिवर्णसम्पन्नैः स्वाकृतिभिः **प्रतोदेना**त्यर्थम् अव्यथयन् **व्रजेत् **॥ ४.६८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-068	Let him always travel with (beasts) which are well broken in, swift, endowed with lucky marks, and perfect in colour and form, without urging them much with the goad.
-</details>
 </details>
 </div>
 
@@ -2568,6 +2568,11 @@ See Comparative notes for [Verse 4.67].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/069_bAlAtapaH_pretadhUmo.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+069	The morning sun, the smoke rising from a (burning) corpse, and a broken seat must be avoided. Let him not clip his nails or hair, and not tear his nails with his teeth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The young sun and the smoke from the dead body, should be avoided, as also a broken seat. He shall not cut his nails and hair, nob shall he tear his nails with his teeth.—(69)
@@ -2632,11 +2637,6 @@ body.’
 
 **बालातप** इति । प्रथमोदितादित्यातपः । शवधूमभग्नपीठाद्युपवेशनानि वर्ज्यानि । **नखलोमानि **चात्मन **न छिन्द्यात् । दन्तैश् **च** नखान् नोत्पाटयेत्** ॥ ४.६९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-069	The morning sun, the smoke rising from a (burning) corpse, and a broken seat must be avoided. Let him not clip his nails or hair, and not tear his nails with his teeth.
-</details>
 </details>
 </div>
 
@@ -2650,6 +2650,11 @@ body.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/070_na_mRl-loShTham.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+070	Let him not crush earth or clods, nor tear off grass with his nails; let him not do anything that is useless or will have disagreeable results in the future.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not crush clods of earth; nor shall he cut grass with hi s nails. He shall not do an aimless act, nor one that is likely to lead to disagreeable results.—(70)
@@ -2724,11 +2729,6 @@ chops grass or eats his nails, is ever unclean and never attains long life.’
 
 **न मृल्लोष्टम्** इति । “नाकारणं मृल्लोष्टं गृह्णीयात् तृणानि वा छिन्द्यात्” इत्य् आपस्तम्बस्मरणात् । निर्निमित्तं **मृल्लोष्टं न** गृह्णीयात् नखैस् **तृणं न छिन्द्यात्** । यतः स्वकर्मणो दृष्टम् अदृष्टं फलं नोत्पद्यते यच् चागामिनि असुखावहं तन्** न कुर्यात् **॥ ४.७० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-070	Let him not crush earth or clods, nor tear off grass with his nails; let him not do anything that is useless or will have disagreeable results in the future.
-</details>
 </details>
 </div>
 
@@ -2750,6 +2750,11 @@ _अत्रार्थवादः ।_
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/071_loShThamardI_tRNachChedI.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+071	A man who crushes clods, tears off grass, or bites his nails, goes soon to perdition, likewise an informer and he who neglects (the rules of) purification.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A man who crushes clods, cuts grass or bites his nails, quickly goes to perdition; so also the back-biter and the unclean man.—(71)
@@ -2803,11 +2808,6 @@ See Comparative notes for [Verse 4.70].
 
 **लोष्टमर्दीति** । लोष्टतृणनखानां मर्दनछेदनखादनकृत् **सूचको ऽशुचिश् च **मनुष्यो **विनाशं **क्षिप्रं **याति **। तस्माद् एतानि न कर्तव्यानि । भक्षणाशुचित्वयोर् अत एव निषेधः ॥ ४.७१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-071	A man who crushes clods, tears off grass, or bites his nails, goes soon to perdition, likewise an informer and he who neglects (the rules of) purification.
-</details>
 </details>
 </div>
 
@@ -2823,6 +2823,11 @@ See Comparative notes for [Verse 4.70].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/072_na_vigarhya.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+072	Let him not wrangle; let him not wear a garland over (his hair). To ride on the back of cows (or of oxen) is anyhow a blamable act.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall hot carry on a wrangling conversatioh. He shall not wear a garland outside. Riding on the back of cows and oxen is altogether deprecated.—(72)
@@ -2881,11 +2886,6 @@ devoid of fragrance or one whose fragrance is very strong, or which is red.’
 
 **नि विगृह्येति** । साभिनिवेशं **कथां न कुर्यात्,** वासश् च **बहिर्माल्यं न धारयेत्** । गोपृष्ठारोहणेन गमनं पर्यटनव्यवधानादिप्रकारेणादिधर्मापहम् ॥ ४.७२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-072	Let him not wrangle; let him not wear a garland over (his hair). To ride on the back of cows (or of oxen) is anyhow a blamable act.
-</details>
 </details>
 </div>
 
@@ -2899,6 +2899,11 @@ devoid of fragrance or one whose fragrance is very strong, or which is red.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/073_advAreNa_cha.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+073	Let him not enter a walled village or house except by the gate, and by night let him keep at a long distance from the roots of trees.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall hot enter a walled village or house, except through the gate. At night, he shalt, keep away, at a long distance, from the roots of trees.—(73)
@@ -2945,11 +2950,6 @@ right gate.’
 
 **अद्वारेणेति** । प्राकाराद्यावृतं **ग्रामं **गृहं **वा **द्वारव्यतिरिक्तप्रदेशेन नातिक्रम्य प्रविशेत् । **रात्रौ च वृक्षमूला**वस्थानं दूरात् **परिवर्जयेत् **॥ ४.७३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-073	Let him not enter a walled village or house except by the gate, and by night let him keep at a long distance from the roots of trees.
-</details>
 </details>
 </div>
 
@@ -2963,6 +2963,11 @@ right gate.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/074_nA-xair_dIvyet.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+074	Let him never play with dice, nor himself take off his shoes; let him not eat, lying on a bed, nor what has been placed in his hand or on a seat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall never gamble with dice; he shall not himself carry his shoes; he shall not eat, seated on a bed; nor what has been placed in his hand or on the seat.—(74)
@@ -3025,11 +3030,6 @@ shall he gamble with dice.’
 
 **नाक्षैर् **इति । अक्षादिभिः केल्यर्थम् अपि न क्रीडेत । आत्मना **चोपानहौ **पादव्यतिरेकेण न गृह्णीयात् । खट्वाव्यवस्थितश् च **न भुञ्जीत** । नापि पात्राव्यवहितहस्तम् अन्नम् आसने च पात्रम् अवस्थाय भुञ्जीत ॥ ४.७४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-074	Let him never play with dice, nor himself take off his shoes; let him not eat, lying on a bed, nor what has been placed in his hand or on a seat.
-</details>
 </details>
 </div>
 
@@ -3045,6 +3045,11 @@ shall he gamble with dice.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/075_sarva~n_cha.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+075	Let him not eat after sunset any (food) containing sesamum grains; let him never sleep naked, nor go anywhere unpurified (after meals).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Any food containing sesamum, he shall not eat after sunset; he shall never sleep naked; nor go anywhere with mouth unwashed after meals.—(75)
@@ -3096,11 +3101,6 @@ shall not bathe naked; he shall not sleep naked; he shall not look at a naked wo
 
 **सर्वम्** इति । यत् किञ्चित् तिलसंयुक्तं कृसरादि तद् **अस्तम् इते **ऽर्के **नाद्यात् **। कौपीनाच्छादनरहितश् चास्मिन् लोके न सुप्यात् । **उच्छिष्टश् **च **क्वचिद् **यायात् ॥ ४.७५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-075	Let him not eat after sunset any (food) containing sesamum grains; let him never sleep naked, nor go anywhere unpurified (after meals).
-</details>
 </details>
 </div>
 
@@ -3114,6 +3114,11 @@ shall not bathe naked; he shall not sleep naked; he shall not look at a naked wo
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/076_Ardra-pAdas_tu.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+076	Let him eat while his feet are (yet) wet (from the ablution), but let him not go to bed with wet feet. He who eats while his feet are (still) wet, will attain long life.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall eat with wet feet; but he shall not sleep with his feet wet. By eating with wet feet, one would attain long life.—(176)
@@ -3166,11 +3171,6 @@ Do. (13.104.61).—\[Reproduces Manu.\]
 
 इति व्यासेन नित्यस्मरणात् ॥ ४.७६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-076	Let him eat while his feet are (yet) wet (from the ablution), but let him not go to bed with wet feet. He who eats while his feet are (still) wet, will attain long life.
-</details>
 </details>
 </div>
 
@@ -3186,6 +3186,11 @@ Do. (13.104.61).—\[Reproduces Manu.\]
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/077_achaxur_viShayam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+077	Let him never enter a place, difficult of access, which is impervious to his eye; let him not look at urine or ordure, nor cross a river (swimming) with his arms.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall never approach a place difficult of access, which is not within range of his vision; he shall not look at urine or excreta; nor shall he cross a river with his arms—(77)
@@ -3260,11 +3265,6 @@ fruit-gathering, crossing over difficult places......, these he shall not do.’
 
 **अचक्षुर्विषयम्** इति । चक्षुर्गोचरो यो न भवति दुर्गमो देशः तं कदाचिद् अपि न गच्छेत् । मूत्रपुरीषे च नो**दीक्षेत** । **बाहुभ्यां नद्य्**आदि** न तरेत् ॥ ४.७७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-077	Let him never enter a place, difficult of access, which is impervious to his eye; let him not look at urine or ordure, nor cross a river (swimming) with his arms.
-</details>
 </details>
 </div>
 
@@ -3278,6 +3278,11 @@ fruit-gathering, crossing over difficult places......, these he shall not do.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/078_adhitiShThen_na.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+078	Let him not step on hair, ashes, bones, potsherds, cotton-seed or chaff, if he desires long life.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who is desirous of living a long life, shall not step on hair, nor on ashes, bones and potsherds; or on cotton-seed or chaff.—(78)
@@ -3337,11 +3342,6 @@ grass or a heap of pebbles.’
 
 **अधितिष्ठेद्** इति । **दीर्घम् आयुर् **जीवितुम् इच्छुः केश**भस्मास्थिकपालिकाः कार्पास**बीजतुषान् नाधिरोहेत् ॥ ४.७८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-078	Let him not step on hair, ashes, bones, potsherds, cotton-seed or chaff, if he desires long life.
-</details>
 </details>
 </div>
 
@@ -3357,6 +3357,11 @@ grass or a heap of pebbles.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/079_na_saMvasech.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+079	Let him not stay together with outcasts, nor with Kandalas, nor with Pukkasas, nor with fools, nor with overbearing men, nor with low-caste men, nor with Antyavasayins.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not associate with outcasts, nor with Cāṇḍālas, nor with Pulkasas; nor with the illiterate; nor with the haughty; nor with Antyas; nor with Antyāvasāyins.—(79)
@@ -3435,11 +3440,6 @@ extending from five to twenty years—for him the expiation has been prescribed 
 
 **न संवशेद्** इति । पतितचाण्डालपुल्कसाल्पबुद्धिगर्हितान्त्यावसायिभिः ग्रामन्तरनिवासिभिर् अपि कार्त्यार्थम् एकप्रदेशे मुहूर्तम् अपि नासीतेति । “नाधर्मिके वसेद् ग्रामे” इत्यादिभ्यो भेदः । पतितादयश् च दशमैकादशाध्याये वक्ष्यन्ते ॥ ४.७९ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-079	Let him not stay together with outcasts, nor with Kandalas, nor with Pukkasas, nor with fools, nor with overbearing men, nor with low-caste men, nor with Antyavasayins.
-</details>
 </details>
 </div>
 
@@ -3453,6 +3453,11 @@ extending from five to twenty years—for him the expiation has been prescribed 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/080_na_shUdrAya.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+080	Let him not give to a Sudra advice, nor the remnants (of his meal), nor food offered to the gods; nor let him explain the sacred law (to such a man), nor impose (upon him) a penance.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not offer advice to a Śūdra, nor the leavings, nor what has been prepared as an offering to the Gods. He shall hot expound the law to him; nor shall he indicate to him any penance.—(80)
@@ -3990,11 +3995,6 @@ the leavings or the sacrificial materials; nor sesamum; he shall not expound to 
 ब्राह्मणोपदेशप्रणालिकया प्रायश्चित्तदानम् आह न साक्षाद् इति ॥ ४.८० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-080	Let him not give to a Sudra advice, nor the remnants (of his meal), nor food offered to the gods; nor let him explain the sacred law (to such a man), nor impose (upon him) a penance.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 "**न शूद्राय मतिं दद्यात्**" इत्य् अप्रवृत्तस्य धर्मे शूद्रस्य वृत्त्यर्थम् उपदेशम् अनिच्छतो न कुर्यात् । "पृच्छतस् तु कथयेत् । प्रायश्चित्तोपदेशवत्" इति कश्चिद् आह । तद् असत्, शास्त्रान्तरासिद्धत्वात् । उक्तं हि "नापृष्टः कस्यचिद् ब्रूयात्" (म्ध् ३.११०) इति । कस् तर्ह्य् अस्यार्थः । अदृष्टार्थम् इति दानम् अनेन सर्वप्रकारं वार्यते । न तु लौकिकं कटकरणादि धर्मोपदेशप्रतिषेधसामर्थ्यात् । **नोच्छिष्टम्** इति । भुक्तम् इति भुक्तशिष्टं भुञ्ज्य(?)धिकरणस्थं प्रतिषिध्यते । भुञ्जानस्यैव इति (?) केचित् । तद् अयुक्तम्, अनुज्ञातत्वाद् अस्य । वक्ष्यति हि "उच्छिष्टम् अन्नं दातव्यम्" (म्ध् १०.१२५) इति । तद् अनेन विरुध्यते । एते प्रतिषेधानुज्ञानस्मृती परस्परविरोधिन्यौ मा भूताम् इति, यतो ऽयम् नर्थः । अपि स्यात् – अनुज्ञानस्मृतिर् अन्यार्थातिथ्यादिभुक्तशिष्टात् पाकाच् छूद्राय देयम् एवं चाविरोध इति, तद् एतद् असत् । प्रदेशान्तरसिद्धत्वाद् अस्यार्थय्स् "वैश्यशूद्राव् अपि प्राप्तौ" (म्ध् ३.११२) इत्येवमादिना । तथा च तदवस्थो विरोधः । आज्ञाय चैनं स्मृत्यर्थम् उक्तत्वे (?) "शूद्राणां मासिकं कार्यं वपनं न्यायवर्तिनां" (म्ध् ५.१४०) इत्य् अवच्छेदविकल्पश् च । "द्विजोच्छिष्टं च भोजनम्" (म्ध् ५.१४०) इत्य् अतः वक्ष्यति । अतो ऽन्यतरेणेदम् अर्थेन भवितव्यम् इदानीं चापरं लिङ्गात् । शूद्रायोच्छिष्टदानस्य श्राद्धप्रकरणे ह्य् उक्तम् उच्छोषणं भूतम् अजिह्मअस्याशठस्य (?) दासवर्गस्य तत् पित्रे भागधेयं प्रवक्ष्यत इति सर्वस्मृतिधर्मेषु चाविमानेन शूद्रादयः ब्राह्मणोच्छिष्टम् अनुज्ञातं न शक्यं प्रत्यख्यातुम् अन्तरेण प्रमाणम् । तथा च गौतमः- "उच्छिष्टाशनं शिल्पवृत्तिश् च" (ग्ध् १०.५९–६०) इत्य् आह । किं च "श्राद्धं भुक्त्वा य उच्छिष्टं वृषलाय प्रयच्छति ***?" (म्ध् ३.२४९) इत्य् अयं च विशेषप्रतिषेधाद् दर्शयति । श्राद्धाद् अन्यत्रोच्छिष्टदानप्राप्तिर् अस्तीति ॥ इतरथा हि "नोच्छिष्टम्" (म्ध् २.५६) इत्य् अनेनैव सिद्धो ऽन्यत्र च सामान्येनैवोच्छिष्टम् इत्य् अयम् प्रतिषेधाद् विशेषप्रतिषेधार्थो निर्विषयत्वा अस्येत्य् अभ्यनुज्ञायवादेन वेदम् उच्यते । अथ मन्यसे, नित्यार्थो ऽयं श्राद्धप्रतिषेधो भविष्यत्य् एवं च "**नोच्छिष्टम्**" इत्य् अयं प्रतिषेधत्वनित्यत्वसिद्धाव् अन्यत्र श्राद्धात् पाक्षिकं दानम् अनुजानाति । एवं चोभयं प्रतिषेधसिद्धिः । तेद् एतद् अयुक्तम्, उक्तन्यायशास्त्रविरोधात् । असति तस्मिन् एतत्समञ्जसं स्याद् अप्य् अनुज्ञात चैतद् अनित्यम् उच्यते । हविःशेषम् अप्य् उच्छिष्टं शूद्राय दीयते तद् धि श्राद्दोच्छिष्टाद् अन्यं न दीयते । समाचारविरोधात् । तस्माद् अयम् उक्तस्मृत्यर्थः । <u>अन्ये</u> तु, देवताभ्यो दत्तम् अशेषं पुरोडाशाद्युच्छिष्टं प्रतिषिध्यत **[१७७]** इति मन्यन्ते । तद् अयुक्तम् । अप्रसिद्धत्वाद् रूढितो वायम् अर्थः प्रकल्प्यते, उच्छिष्टशब्दस्य व्युत्पत्तितो वा । न च लोकशास्त्रयोर् अयं शब्दार्थः प्रसिद्धः । न च प्रकृतिप्रत्ययार्थप्रसङ्गेन व्युत्पत्तितः पाकवन् न च समर्थः प्रकरणाद्य् अस्ति (?) किञ्चिच्छब्दार्थव्यवस्थायां न च वाचकीभूततद्व्यव्स्थान्वया (?) अप्य् अनुज्ञाय चैतद् उच्यते । "**न हविष्कृतम्**" इत्य् अनेनोत्तरपदेन न त्व् अयम् अर्थो यथोपदिष्टः सम्पद्यते कथं हविष्कृतं चार्थ्यते (?) तत्र हविःशेषस्य कुतः प्राप्तिः । अतो न किञ्चिद् एतत् । कस् तस्यार्थः । नोच्छिष्टम् अर्थः स्यात् इति (?) ब्रूमः । न सर्वम् उच्छिष्टं सामान्यतो ऽनेन प्रतिषिध्यते । किं तर्हि । शिष्टं किं पुनस् तद् धुतशिष्टं ब्राह्मणोच्छिष्टं शूद्राय न देयं स्नातकेन । कथं गम्यते । परिशेषानुमानसामर्थ्यात् । सामान्येन तावत् सर्वोच्छिष्टप्रतिषेधे ऽनुज्ञानश्राद्धस्मृती बाध्येयातां यथोक्तेन न्यायेन तयोर् बाधेष्यते । अन्यश् चोच्छिष्टपदार्थानां स्त्रियोपचादी (?) भवेत् सामान्यस्योच्छिष्टदानस्य शिष्यते चेत्य् (?) अतो हविःशेषस्य पुरोडाशादेर् ब्राह्मणस्येदं ग्रहणम् । समाचारश् चैवम् एव शिष्टानां विरोधश् च स्मृत्यन्तरेणास्य नास्ति सामर्थ्यं चोपपद्यते । अथ प्रत्यनीकं यतो ऽयम् एव शास्त्रार्थः । किं च "शूद्रेण हि समस् तावद् यावद् वेदेन जायते" (म्ध् २.१७२) इति शूद्रसामान्याद् अनुपनीतेब्यो ऽपि द्विजातिभ्यो न दीयते । तस्माद् अयम् एवार्थः । हविष्कृतम् इत्य् अस्य पदान्तस्य सन्निधिसामर्थ्याद् अयम् एवार्थः सुतरां विज्ञायते । तच् च सामर्थ्यम् अस्यैव पदस्य व्याख्यान उत्तरत्र प्रदर्शयिष्यामः । स्याद् एतत् । <u>नन्व् एवं</u> पुनरुक्तं भवति **नोच्छिष्टम्** इत्य् उत्तरेण पदेन । ननु **हविष्कृतम्** इत्य् अनेन भवति । कुतः । पदान्तरत्वाद् अस्य हविःशिष्टा (?) तत्संसृष्टाच् चोपदेशपरत्वाच् च शास्त्रस्य यथोपदेशं प्रवृत्तिर् अर्थेषु श्रोतुर् अतो न हविःशेषसंसृष्टाच् चोपदेशपरत्वाच् च शास्त्रस्य यथोपदेशं प्रवृत्तिर् अर्थेषु श्रोतुः [रेपेअतेद् ?] । अतो न हविःशेषसंसृष्टाप्रतिषेधेन तदुच्छिष्टप्रतिषेधः शक्यते विज्ञातुम् । एवं च न हविष्कृतम् इत्य् अनेनाप्रतिषिद्धं तद् इदं युक्तम् । पदान्तरेण प्रतिषेद्धुं **नोच्छिष्टम्** इत्य् अनेन । तथा च सामान्यस्मृतेर् अपवादो ऽयम् । कथम् । "उच्छिष्टम् अन्नं दातव्यम्" (म्ध् १०.१२५) इतीयं स्मृतिः सामान्यविषया । उत्सर्गः तद्विशेषेण यो वादो (?) नोच्छिष्ठेनोच्छिष्टम् इति । यथा श्राद्धोच्छिष्टम् अन्यद् उच्छिष्टं देयम् इहापीति । तद् एवम् उत्सर्गापवादधर्मेणैते समञ्जसे भवत इति सिद्धम् । अथ वा "उच्छिष्टम् अन्नं दातव्यम् (म्ध् १०.१२५) इत्य् अमुष्य ब्राह्मणाश्रितस्य शूद्रस्य प्रकरणे विधानाद् एतद्विषयम् उच्छिष्टाभ्यनुज्ञानप्रति*पेद्य्स्मृतयः*(?) सामञ्जस्यायायं (?) कल्पनीयः । तथा हि (च?) प्रकरणम् अनुगृहीतं भवति । अथ वा शूद्रायोच्छिष्टं विशिष्टप्रतिषिद्धत्वाद् विकल्पः । उभयोः शास्त्रयोर् अर्थत्वायाश्रितान् आश्रितशूद्रव्यव्यस्थया सर्वत्र विकल्पप्राप्ते इदानीं श्राद्धे प्रतिषेधो नित्यार्थः । व्याख्यातं पदं नोच्छिष्टम् इत्य् एतन् न (?) । हविष्कृतम् इत्य् एतद् अधुना व्याख्यायते । हविषे कृतं व्याख्यातम् । न शूद्राय देयम् इति कश्चिद् आह । तद् अयुक्तम् । सामान्येनैव सर्वेषां प्रतिषिद्धत्वाद् अभक्ष्यप्रकरणे । "देवान्नानि हवींषि च" (म्ध् ५.७) इत्येवमादि च विशेषप्रतिषेधः **[१७८]** शूद्रार्हो ऽयं न युज्यते । कस् तर्ह्य् अस्यार्थः । हविषा हविःशेषेणेत्य् अर्थः । पुरोडाशादिना संसृष्टं यद् हविष्कृतं तन् न देयम् (?) । शूद्रायैवं चोभ्यम् अप्रतिषिध्यते सामर्थ्याद् हविःशेषं च केवलं तत्संसृष्टं च किं पुनः सामर्थ्यम् इदं तद् उच्यते । यत्र हविःशेषसंसृष्टं वारयति तत्र हविःशेषस्य कृते (?) दातृप्राप्तिर् इति यथा विषसंसृष्टप्रतिषेधे विषप्रतिषेधः । तथा स्मृत्यन्तरम्, तथाचाराः । एवं च सति त्रिकम् अत्र प्रतिषिध्यते । शूद्रस्य हविःशेषं च पुरोडाशादि तत्संसृष्टं च हविःशेषम् अपि तद् एव द्विः षट्प्रकारम् अप्य् उच्छिष्टम् इति । "**न चास्योपदिशेद् धर्मम्**" इति धर्मप्रयोजनस्य शास्त्रस्य प्रवचनव्याकरणे प्रतिषिद्धे (?) । तत् तर्हि कथं "**न शूद्राय मतिं दद्यात्**" इति गोबलीवर्दन्यायेनायं (?) सामान्यविशेषधर्मप्रतिषेधाद् एवार्थः । अथ वा "**न चास्योपदिशेद् धर्मम्**" इति प्रवचनम् अत्र वार्यते, पूर्वत्र तदर्थव्याकरणात् । तथा च मतिदानं पूर्वत्र श्रूयते । तच् च ग्रन्थव्याख्यानलिङ्गं श्रुतिर् वोत्तरं पूर्वत्र स्मृतिः । तथा च मतिदानम् उक्तम् । लिङ्गग्रन्थतो चोत्तरत्र ग्रन्थोक्तं (?) पूर्वत्र धर्मव्याकरणं प्रतिषिद्ध्यते । मतिदानं च लिङ्गत्वेनोक्तम् । शूद्रमतिदानप्रतिषेधो वा स्त्रीमतिदानाभ्यनुज्ञानपरः । किं प्राप्तम् । ताभ्यो मतिदानं प्राप्तं सह शिष्टत्वात् प्रतिषेधस्य । स्त्रीशूद्रं तन् नाधीयीतेति यत एवमर्थं प्रतिषेधः । यथा चार्थवादत्वलिङ्गम् "इत्य् उक्त्वानुशासनासि मैत्रेयि तावद् अरे खलु मुक्तत्वम् इति हे त्वा याज्ञवल्क्यः पप्रच्छ" (??) इति [एद्. पाठो ऽत्रातीव भ्रष्टः । बृहदारण्यकोपनिषद्गतं वाक्यम् एतत्- "इत्य् उक्तानुशासनासि मैत्रेयि एतावद् अरे खल्व् अमृतत्वम् इति होत्क्वा याज्ञव्ल्क्यो विजहार (४.५.१५) इत्याकारकम्] नित्यार्थं वा "**न चास्योपदिशेद् धर्मम्**" इति नित्यं धर्मार्थं शास्त्रं "शुद्राय नानुवक्तव्यम्" न व्याकरणीयम् अर्थतः । एवं च मतिदानप्रतिषेधस्यानित्यत्वम् अग्रग्रन्थोक्तस्य (?) सिद्धं भवति । यथा जालपादप्रतिषेधाद् एव हंसचक्रवाकप्रतिषेधे सिद्धे हंसचक्रवाकग्रहणं पुनर् नित्यार्थं स्याद् अन्येषां मत्स्यादीनां जालपादानां पाक्षिकप्रवृत्तेः क्षुत्परीतस्यावस्थितस्य भक्षणम् अनुजानाति न अनापदि । एवम् अस्यापि क्षुदवसन्नात्मकलत्रपुत्रस्य परस्मिन् दौर्गत्येकवृत्तिमानस्य वृत्तेर् युक्त्यर्थं स्याद् अनुग्रन्थओकं (?) शूद्रमतिदानम् एकदा तद्धर्मे । तथा च गौतमः- "सर्वथा तु शूद्रवृत्तिर् अशक्ता" (ग्ध् ७.२२) प्रीतियुक्तं चैतद् एवं कर्तुं येन ब्राह्मणस्य वृत्त्कर्शितेन जीवितात्ययम् आपन्नात्मकुटुम्बस्यासत्प्रतिग्रहो विशिष्यते । शास्त्रे "सर्वतः प्रतिगृह्णीयात् ब्राह्मणस् त्व् अनयं गतः" (म्ध् १०.१०२) इत्य् अभोज्यभोजनम् अपि "जीवितात्ययम् आपन्नो यो ऽन्नम् अत्ति यतस् ततः" (म्ध् १०.१०४) इति । चौर्यम् अपि तथैव । <u>सप्तमे भक्तेति । किम् उतावृत्ते वृत्त्यर्थः</u> (?) शूद्रमतिदानम् आचस्थिकं (?) यथा सर्वस्वं वा देवदेवेति ब्रह्मघप्रायश्चित्तार्थवत्त्वाय ब्राह्मणस्यानयं गतस्यासत्प्रतिग्रहस्याधिकारः (?) शास्त्र इष्यते उपदेशसामर्थात् । ब्राह्मणस्यैवम् **[१७९]** इहापि निस्तीर्णोदपपश् च (?) तस्यानिवृत्तिशास्त्रम् अस्तीति वर्तेत यः शक्तिमान् इति । युक्तं चैतद् एवं कल्पयितुं शास्त्रे शूद्रस्य धर्मोपदेशसामर्थ्यात् । इतरथा ह्य् अनर्थक उपदेशस् तद्धर्मः स्यात् । कथम् । शूद्रस् तावद् अनुपदिष्टः स्वधर्मं न शक्तः प्रवक्तुम् (?) । ब्राह्मणस्य च तदुपदेशः प्रतिषिद्धः आर्षसिद्धदर्शने चास्य स्वधर्मो (ऽनन्तः महर्षिवन्त्ताचा) शक्तः महर्षिवत् तच् चान्यधर्मप्रतिपत्त्युपायः कः स्याद् अस्याः स्त्रीत्य् अनर्थकः तदुपदेशस्मृतौ प्राप्नोति । न चैतद् इष्टम् अतो ऽवश्यं प्रतिपादनीयो ऽयम् । यथाव्याख्यातः स्मृत्यर्थः । अस्मात् सामर्थाद् इति । यद् चैतद् एवं भवति, तत एतत् सङ्गच्छते । शूद्रशास्त्रधर्मे च वस्तुधर्मज्ञा "यथा यथा हि सद्वृत्तम् आतिष्ठत्य् अनसूयकः" (म्ध् १०.१२८), "शूद्राणां मासिकं कार्यं वपनं न्यायवर्तिनाम्" (म्ध् ५,१४९), इति चैवम् अन्याः शूद्रस्मृतयः शास्त्र उपदिष्टा युज्यन्त (?) इति । "**न चास्य व्रतम् आदिशेत्**" इत्य् अत्र कश्चिद् आह । कर्मक्रियोपदिष्टां शूद्रस्य स्मृत्यध्ययनम् अर्थात् प्रापयति तद् अपि य (?) विद्याग्रहणं व्रतादेशनम् इति । यतः एवं प्राप्तस्य प्रतिषेधो ऽयं "**न चास्य व्रतम् आदिशेत्**" इति, तद् एतद् अयुक्तम् । तस्माद् वेदाध्ययनधर्म एष न स्मृतेः । तथा च नामधेयं वेदव्रतानि वेदग्रहनार्थानि व्रतानि वेदव्रतानि । "न चानुपनीतस्य व्रतादेशनम् इष्यते" (२.१७३) इति वचनात् ।उपनयनं चास्य पर्युदास्य प्रतिषिद्धं पूर्वत्र । तच् चोपोद्बलयति (?) इत्य् (?) अपरे । वाक्ये उत्तरत्र "ब्राह्मणः क्षत्रियो वैश्यः" (म्ध् १०.४) इति । अतो न किञ्चिद् एतत् । कस् तर्ह्य् अस्यार्थः । नित्यार्थ एवास्यारम्बो वेदितव्यः । कथम् । सूक्ष्मव्प्रतिषेधः स्याद् अनित्यत्वात् स्नातकधर्मव्रतादेशनम् अस्य प्राप्तं तत् प्रतिषिध्यते शूद्रस्य, प्रकरणसामार्थात् । तथा च "धर्मेप्सवस् तु धर्मज्ञाः" [म्ध् १०.१२७) इत्य् एवमादि । "यथा यथा हि सद्वृत्तम् आतिष्ठत्य् अनसूयकः" (म्ध् १०.१२८) इति चानेन शास्त्रसामर्थ्येनोत्कृष्यमाणस्याचारतः शूद्रस्य "वैणवीं धारयेद् यष्टिम्" (म्ध् ४.३६) इत्येवमादिस्नातकव्रतम् अस्य नादिशेत् । सम्भवन्त्याम् अपि प्राप्तौ यथामयोम् (?) । तथा च राजधर्मेषूपविष्टम् इदम् एव दण्डार्थम् "शूद्रांस् तु द्विजलिङ्गिनः" (म्ध् ९.२२४) इति यतो ऽयम् एव स्मृत्यर्थो वेदितव्यः । अथ वा व्रतं प्रायश्चित्तं वक्ष्यति हि "एतैर् व्रतैर् अपोहेत" (११.१६९) इति वचनात् अत्ं नोपदिशेद् इत्य् अर्थः । "यथा यथा हि सद्वृत्तम्" (१०१२८) इत्य् अनेन शास्त्रेण सद्वृत्तप्रारेथनायां तत्रास्थितस्य् व्यतिक्रमे प्रायश्चित्तं नोप्दिशेद् इत्य् अर्थः प्रकरणाच् च गम्यते । एतेषाम् एव धर्माणां प्रतिषिद्धानां व्यतिक्रमे अभोज्यादि भोजनादीनां व्यतिक्रमप्रायश्चित्तं नोपदिशेत् । न तु पातकोपपातकादिव्यतिक्रमप्रकरणसामर्थ्याद् इत्य् उक्तम् ।
@@ -4014,6 +4014,11 @@ the leavings or the sacrificial materials; nor sesamum; he shall not expound to 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/081_yo_hy.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+081	For he who explains the sacred law (to a Sudra) or dictates to him a penance, will sink together with that (man) into the hell (called) Asamvrita.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who expounds to him the law, and he who indicates the penance to him, will sink, along with him, into the hell called “asaṃvṛta.”—(81).
@@ -4051,11 +4056,6 @@ See Comparative notes for [Verse 4.80].
 **य** इति । यस्मात् **यः** शूद्रस्य धर्मव्रते उपदिशति स ब्राह्मणः पापोत्पत्तिनिमित्तभूतेन तेनैव शूद्रेण सह अतिमहत्त्वाद् असंवृताख्यं तमः अन्धकारं प्रविशति । पञ्चके प्रकृते द्वयोः फलकथनं प्रायश्चित्तगौरवार्थम् ॥ ४.८१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-081	For he who explains the sacred law (to a Sudra) or dictates to him a penance, will sink together with that (man) into the hell (called) Asamvrita.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यदि शूद्रस्यानेन न्यायेनानुज्ञायते धर्मोपदेश एकदावस्थितेर् अस्तु नायम् अपवादो युक्तः । "**सो ऽसंवृतं नाम तमः सह तेनैव गच्छति**" इत्य् अधिकारविरोधाद् युक्तम् एतन् निन्दावचनम् । अतो ऽन्यथोपदेष्टुर् यथाधिकारं धर्मोपदेशस्तुत्यर्थः ।
@@ -4075,6 +4075,11 @@ See Comparative notes for [Verse 4.80].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/082_na_saMhatAbhyAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+082	Let him not scratch his head with both hands joined; let him not touch it while he is impure, nor bathe without (submerging) it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not scratch his own head with both hands joined together; he shall not touch it while unclean; and he shall not bathe without it.—(82).
@@ -4152,11 +4157,6 @@ head or his belly.’
 **न संहताभ्याम्** इति । संश्लिष्टाभ्यां पाणिभ्यां स्वशिरो न कण्डयेत् । संहतवचनाद् असंहताभ्यां न निषेधः । एवं सर्वत्र व्यावर्त्य ज्ञेयम् । उच्छिष्टहस्तादिना येन केनचिद् अपि शिरो न स्पृशेत् । शिरसा विना च नित्यनैमित्तकस्नाने न कुर्यात् । दृष्टार्थे त्व् अनिषेधः, स्नानविधिनास्यैकवाक्यत्वात् ॥ ४.८२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-082	Let him not scratch his head with both hands joined; let him not touch it while he is impure, nor bathe without (submerging) it.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 संहतोपदेशाद् असंहतयोर् अप्रतिषेधः । कण्डूयतेः प्रतिषेधात् स्पर्शनादिक्रियान्तराणाम् अप्रतिषेधः । आत्मग्रहणात् परस्य संहताभ्याम् अपि हस्ताभ्यां कण्डूयनाप्रतिषेधः । शिरोग्रहणाच् चान्यावयवकण्डूयनाप्रतिषेधः । संहताभ्याम् अप्य् आत्मनः न संस्पृशेद् एतद् उच्छिष्ट उपसंहतासंहताभ्याम् अपि पाणिभ्यां "न च स्नायाद् विना ततः" नित्यनैमित्तिकयोर् न तु दृष्टार्थेनानेन सामर्थ्याच् च । सर्वत्रैष (?) गुरुलघुभावो दर्शयितव्यः ।
@@ -4176,6 +4176,11 @@ head or his belly.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/083_keshagrahAn_prahArAMsh.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+083	Let him avoid (in anger) to lay hold of (his own or other men's) hair, or to strike (himself or others) on the head. When he has bathed (submerging) his head, he shall not touch any of his limbs with oil.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Catching of the hair, as also striking on the head,—these he shall avoid; having his head bathed, he shall touch no limb with oil.—(83)
@@ -4213,11 +4218,6 @@ This verse is quoted in *Aparārka* (p. 183), which construes the second line to
 
 **केशग्रहान् **इति । केशग्रहणप्रहारौ** **कोपेन मूर्धनि न कुर्यात् । सशिरस्कः** स्नातः** **तैलेन किञ्चिद् अप्य् अङ्गं स्पृशेत् **॥ ४.८३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-083	Let him avoid (in anger) to lay hold of (his own or other men's) hair, or to strike (himself or others) on the head. When he has bathed (submerging) his head, he shall not touch any of his limbs with oil.
-</details>
 </details>
 </div>
 
@@ -4233,6 +4233,11 @@ This verse is quoted in *Aparārka* (p. 183), which construes the second line to
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/084_na_rAjnaH.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+084	Let him not accept presents from a king who is not descended from the Kshatriya race, nor from butchers, oil-manufacturers, and publicans, nor from those who subsist by the gain of prostitutes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not accept gifts from a king not born of the Kṣatriya caste; nor from the keepers of slaughterhouses, oil-presses or grog-shops; nor from those who live on brothels.—(84)
@@ -4286,11 +4291,6 @@ something terrible; it is like wine-drinking, and like poison; it is better to f
 **न राज्ञ** इति । “राज्ञो ऽपत्ये जातिग्रहणम्” इति क्षत्रिय एव राजन्य उच्यते । तस्य सन्ततिर् अपत्यं विशेषवचनात् क्षत्रिय एव राजन्यप्रसूतिः न राजन्यप्रसूतिः **अराजन्यप्रसूतिः** । अक्षत्रियः तस्मात् अक्षत्रियाद् राज्ञः प्रकरणाद् अनापदि न प्रतिगृह्णीयात् तथा सौनिकतैलिकमद्यवणिजां पण्यस्त्रीव्यवहारेण च जीवतां न प्रतिगृह्णीयात् ॥ ४.८४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-084	Let him not accept presents from a king who is not descended from the Kshatriya race, nor from butchers, oil-manufacturers, and publicans, nor from those who subsist by the gain of prostitutes.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अक्षत्रियाद् राज्ञः शूद्राद् अनापदि प्रतिग्रहप्रतिषेधः । येन राज्ञो ऽपत्यं राजन्यः क्षत्रिय एवोच्यते । तस्य प्रसूतिस् तत्प्रसूतिस् तज्जातिर् एवोच्यते । न राजन्यप्रसूतिर् अराजन्यप्रसूतिस् तस्माद् अराजन्यप्रसूतिनः शूद्राद् इत्य् अर्थः । अनेन राज्याभ्युत्पत्तिसामर्थ्येनोच्यते । एवं "राजतो धनम् अन्विच्छेत्" (म्ध् ४.३३) इत्य् अनेन शास्त्रेण प्राप्तस्य प्रतिषेधः । इत्य् अनेन शास्त्रेण प्राप्तस्य प्रतिषेधः । सूनादीनां चार्थात् प्राप्तः प्रतिषिध्यते ।
@@ -4308,6 +4308,11 @@ something terrible; it is like wine-drinking, and like poison; it is better to f
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/085_dashasUnA-sama~n_chakram.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+085	One oil-press is as (bad) as ten slaughter-houses, one tavern as (bad as) ten oil-presses, one brothel as (bad as) ten taverns, one king as (bad as) ten brothels.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One oil-press is equal to ten slaughter-houses; one grog-shop is equal to ten oil-presses; one brothel is equal to ten grog-shops; and one king is equal to ten brothels.—(85)
@@ -4337,11 +4342,6 @@ See Comparative notes for [Verse 4.84].
 
 **दशसूनासमम्** इति । **दशध्वजसमा वेश्या दशवेश्यासमो नृपः** । **सूना **आघातनस्थानं दशसु सूनासु यावान् सौनिकस्य दोषः तावान् चक्रवर्तिनि तैलिके । दशसु च तिलिकेषु यावांस् तावान् ध्वजिनि मद्यवणिजि । दशसु ध्वजिषु यावांस् तावान् वेशवति । दशसु वेशवत्सु यावांस् तावान् नृपे । एवं चोत्तरोत्तरनिन्दातिशयदर्शनेन आपदि पूर्वदातृसंह्वे उत्तरः परिहरणीयः ॥ ४.८५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-085	One oil-press is as (bad) as ten slaughter-houses, one tavern as (bad as) ten oil-presses, one brothel as (bad as) ten taverns, one king as (bad as) ten brothels.
-</details>
 </details>
 </div>
 
@@ -4355,6 +4355,11 @@ See Comparative notes for [Verse 4.84].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/086_dasha_sUnAsahasrANi.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+086	A king is declared to be equal (in wickedness) to a butcher who keeps a hundred thousand slaughter-houses; to accept presents from him is a terrible (crime).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A king has been declared to be equal to a butcher who maintains ten thousand slaughter-houses; and terrible is the receiving of gifts from him.—(86)
@@ -4390,11 +4395,6 @@ Manu.\]
 एवं चोक्तकलनया – **दशसूनासहस्राणीति **। **दशसूनासहस्राणियः सौनिकः **स्वार्थे व्यापारयति **तेन तुल्यो राजा** मन्वादिभिः **स्मृतः **। अतस् तत्सम्बन्धी **प्रतिग्रहो **नरकपातहेतुत्वात् भीषनीयः ॥ ४.८६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-086	A king is declared to be equal (in wickedness) to a butcher who keeps a hundred thousand slaughter-houses; to accept presents from him is a terrible (crime).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अक्षत्रियाद् राज्ञः प्रतिग्रहनिन्दैषा निवृत्त्यर्था । **दशसूनासमम्** इति परस्परस्य शुद्धता । तस्माद् यत्नाद् विज्ञेया राजनिन्दार्था वा । सूनाग्रहणं दशगुणोत्तरवृद्ध्यास्मिन्न् अपि पक्षे तेषाम् अपि निन्द्यतार्थसिद्धा । एवं सति
@@ -4420,6 +4420,11 @@ _अवयुत्यवादेन राजप्रतिग्रहे �
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/087_yo_rAjnaH.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+087	He who accepts presents from an avaricious king who acts contrary to the Institutes (of the sacred law), will go in succession to the following twenty-one hells:
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who accepts gifts from a king who is avaricious and behaves contrary to the scriptures, goes, in succession, to these twenty-one hells:—(87)
@@ -4474,11 +4479,6 @@ been brought up on gifts from the king becomes a Brahmarākṣasa in the water-l
 
 **य** इति । क्षत्रियस्यापि च कृपणस्य शास्त्रातिक्रमवर्तिनः राज्ञो यः प्रतिग्रहं करोति **स** **इमान्** वक्ष्यमाणान् **नरकान्** यातनास्थानानि क्रमेण प्राप्नोति ॥ ४.८७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-087	He who accepts presents from an avaricious king who acts contrary to the Institutes (of the sacred law), will go in succession to the following twenty-one hells:
-</details>
 </details>
 </div>
 
@@ -4492,17 +4492,17 @@ been brought up on gifts from the king becomes a Brahmarākṣasa in the water-l
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/088_tAmisram_andhatAmisram.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+088	Tamisra, Andhatamisra, Maharaurava, Raurava, the Kalasutra hell, Mahanaraka,
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 तामिस्रम् अन्धतामिस्रं  
 महारौरव-रौरवौ ।  
 नरकं कालसूत्रं च  
 महानरकम् एव च  ॥ ४.८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-088	Tamisra, Andhatamisra, Maharaurava, Raurava, the Kalasutra hell, Mahanaraka,
 </details>
 </details>
 </div>
@@ -4517,17 +4517,17 @@ been brought up on gifts from the king becomes a Brahmarākṣasa in the water-l
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/089_sanjIvanam_mahAvIchim.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+089	Samgivana, Mahaviki, Tapana, Sampratapana, Samghata, Sakakola, Kudmala, Putimrittika,
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 सञ्जीवनं महावीचिं  
 तपनं सम्प्रतापनम् ।  
 संहातं च स-काकोलं  
 कुड्मलं प्रतिमूर्तिकम् [मेधातिथिपाठः - पूतिमृत्तिकम्]  ॥ ४.८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-089	Samgivana, Mahaviki, Tapana, Sampratapana, Samghata, Sakakola, Kudmala, Putimrittika,
 </details>
 </details>
 </div>
@@ -4542,6 +4542,11 @@ been brought up on gifts from the king becomes a Brahmarākṣasa in the water-l
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/090_lohashankum_RjISham.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+090	Lohasanku, Rigisha, Pathin, the (flaming) river, Salmala, Asipatravana, and Lohakaraka.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (1) Tāmisra, (2) Andhatāmisra, (3) Mahāraurava, (4) Raurava, (5) Kālasūtra-Naraka, (6) Mahānaraka, (7) Sañjīvana, (8) Mahāvīci, (9) Tāpana, (10) Sampatāpana, (11) Saṃhāta, (12) Sakākola, (13) Kuḍmala, (14) Pūtimṛttika, (15) Lohaśaṅku, (16) Ṛjīṣa, (17) Pathin, (18) Śālmalī, (19) Nadī, (20) Asipatravana and (21) Lohadāraka.—(88-90).
@@ -4591,11 +4596,6 @@ See Comparative notes for [Verse 4.87].
 
 **तामिस्रम्** इति । **सञ्जीवनम्** इति । **लोहशङ्कुम् ऋजीषम्** इति । अत्र **यातीत्य्** अनुवर्तते । तत्रान्ध्काररूपस् **तामिस्रः **निबिडान्धकारात्मक्**आन्धतामिस्रो महारौरवरौरवौ** महाकलकल-कलकलात्मकौ **कालसूत्राख्यो** नरको यत्र महती सर्वप्रकारपीडा ॥ **सञ्जीवनं** यत्र बहुशः सञ्जीव्य व्यापाद्यन्ते । **महावीचिर् **यत्र महाकल्लोलैर् नीयते । **तपनो **ऽग्न्यादिसन्तापात्मकः । **सम्प्रतापनः** कुम्भीपाकः । **सङ्घातो **ऽत्यन्तसंवृते प्रदेशे बहूनाम् अवस्थानम् । **काकोलं **यत्र काकैर् भक्ष्यन्ते । **कुड्मलं **यत्र रज्जुभिः पीडनम् । **पूतिमृत्तिकः **पुरीषगन्धमृत्तिकः । **लोहशङ्कुः **सूचीभेदनं यत्र । **ऋजीषं** पिष्टपचनप्रक्षेपो यत्र । **पन्था** यत्राट्यते । **शाल्मलो** यत्र शाल्मलिपण्टकैस् तुद्यते । **नदी** यत्र नद्यापह्रियते । **असिपत्रवनं **यत्र करपत्रैर् विदार्यते । **लोहदारको **यत्र निगडबन्धः ॥ ४.८८–९० ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-090	Lohasanku, Rigisha, Pathin, the (flaming) river, Salmala, Asipatravana, and Lohakaraka.
-</details>
 </details>
 </div>
 
@@ -4609,6 +4609,11 @@ See Comparative notes for [Verse 4.87].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/091_etad_vidanto.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+091	Learned Brahmanas, who know that, who study the Veda and desire bliss after death, do not accept presents from a king.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Knowing this, the learned Brāhmaṇas reading the Vedas do not accept gifts from a king, if they desire to secure welfare after death.—(91)
@@ -4658,11 +4663,6 @@ See Comparative notes for [Verse 4.87].
 **एतद् **राजप्रतिग्रहफलं शास्त्रज्ञा वेदाध्यायिनः **ब्राह्मणा **जानन्तः परलोकदुःखाभावार्थिनः **राज्ञो** धनं न **प्रतिगृह्णन्ति** ॥ ४.९१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-091	Learned Brahmanas, who know that, who study the Veda and desire bliss after death, do not accept presents from a king.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अक्षत्रियाद् राज्ञो ऽनापदि प्रतिग्रहप्रतिषेधः प्रकरणाद् वेदितव्यः । कारणाच् च प्रतिग्रहप्रतिषेधं ब्रुवन् दर्शयति य उच्छास्त्रवर्ती न भवति तस्माद् अनुजानाति प्रतिग्रहं शूद्राद् अपि यश् च क्षत्रियो ऽप्य् उच्छास्त्रवर्ती तस्माच् च प्रतिग्रहप्रतिषेधस् तुल्यत्वात् कारणस्य । इत्य् एवं च सति धर्माधिकारणे च जाते गुणभावो वेदितव्यः ॥
@@ -4682,6 +4682,11 @@ See Comparative notes for [Verse 4.87].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/092_brAhme_muhUrte.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+092	Let him wake in the muhurta, sacred to Brahman, and think of (the acquisition of) spiritual merit and wealth, of the bodily fatigue arising therefrom, and of the true meaning of the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall wake up at the point of time sacred to Brahman, and then think over the means of acquiring Merit and wealth, of the bodily troubles involved therein, and also of the true meaning of the Veda.—(92).
@@ -4770,11 +4775,6 @@ moment sacred to Brahman; at that time should the wise man always rise and ponde
 **ब्राह्म** इति । रात्रेः पश्चिमे **मुहूर्ते** प्रति**बुध्येत **। ततो **धर्मार्तौ** इतरेतराविरोधेनार्जनार्थं विचारयेत् । तथा धर्माऋथतन्मूलभूतं **कायक्लेशं** इयता कालक्लेशेन इयान् इयान् धर्मो (ऽर्थो) वार्ज्यत् इत्य् एवं चिन्तयेत् । वेदस्य च कः पारमार्थिको ऽर्थः स्याद् इत्य् एवं तम् अपि चिन्तयेत् ॥ ४.९२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-092	Let him wake in the muhurta, sacred to Brahman, and think of (the acquisition of) spiritual merit and wealth, of the bodily fatigue arising therefrom, and of the true meaning of the Veda.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **ब्राह्मो मुहूर्तः** पश्चिमयामो रात्रेः प्रसिद्धो योगशास्त्रादिषु । प्रतिबुद्धश् च तत्र **धर्मार्थाव् अनुचिन्तयेत्** क्लेशानुष्ठानतया साध्यसाधनभावेन परस्पराविरोधेन चेति **कालक्लेशांश् च** धर्मानुष्ठानमूलांश् च **वेदतत्त्वार्थम् एव च** षड्भिर् अङ्गैः । को ऽत्र विधिः । को ऽर्थवादप्रतिप्रसवः । किमर्थश् च । को ऽनुवादः । इयं कर्मविद्या उपनिषदि हि कर्मशेषा । इयं पुनर् अकर्मशेषा स्वतन्त्रा फलसम्बन्धिनी । इदं जानम् एतेन समुच्चीयते । कर्मणेदं विकल्प्यते । अस्यानेनाधिकारः । कर्मणा नास्येदं चास्यं फलम् अभ्युदयं निश्रेयसं चेति । कर्माङ्गदेवता चेत्थम्भूता । केवलकर्मकृत्क्षयिणो (?) लोकज्ञानसमुच्चयकारिणस् तु ब्रह्मत्वम् इत्य् एवमादिपदार्थांश् चिन्तयेत् । तस्मिन् काले प्रसन्नबुद्धिर अनुपसृष्टमोहादिभिः (?) । एवम्
@@ -4792,6 +4792,11 @@ moment sacred to Brahman; at that time should the wise man always rise and ponde
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/093_utthAyAvashyaka~N_kRtvA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+093	When he has risen, has relieved the necessities of nature and carefully purified himself, let him stand during the morning twilight, muttering for a long time (the Gayatri), and at the proper time (he must similarly perform) the evening (devotion).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having risen, and saving accomplished the necessities of nature, he shall perform the purifications, and, with collected mind, he shall stand, repeating for a long time (the Sāvitrī), during the morning-twilight, as also during the evening-twilight, at its proper time.’—(93).
@@ -4850,11 +4855,6 @@ etc.’
 **उत्थायेति** । ततः उषःकाले शयनाद् उत्थाय सति सम्भवे मेहनादि कृत्वा **कृत**वक्ष्यमाण**शौचः** संयतमनाः उक्ते काले पूर्वापरे सन्ध्ये अर्कदर्शनाद् ऊर्ध्वम् अपि जपं कुर्वन् उदितहोमो वर्तेत । अनुदितहोम्य् अपि होमं कृत्वा चासीत । आयुरादिदीर्घसन्ध्याफलविधानार्थम् इदं पुनः सन्ध्याभिधानम् ॥ ४.९३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-093	When he has risen, has relieved the necessities of nature and carefully purified himself, let him stand during the morning twilight, muttering for a long time (the Gayatri), and at the proper time (he must similarly perform) the evening (devotion).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अस्य स्तुतिः ।
@@ -4872,6 +4872,11 @@ etc.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/094_RShayo_dIrghasandhyatvAd.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+094	By prolonging the twilight devotions, the sages obtained long life, wisdom, honour, fame, and excellence in Vedic knowledge.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It was by reason or their prolonged twilight-devotions that the sages obtained long life, wisdom, fame, refutation and Brahmic glory.—(94)
@@ -4911,11 +4916,6 @@ This verse is quoted in *Nityācārapradīpa* (p. 386), which explains that ‘*
 <details><summary>गोविन्दराजः</summary>
 
 तथा चाह **ऋषय** इति । **प्रज्ञाम्** इति । यद्माद् **ऋषयो दीर्घसन्ध्य्**आनुष्ठानात्** दीर्घम् आयुः** प्रज्ञावन्तश् च **यशः **स्वर्याताश् च **कीर्तिइम्** अध्ययनादिसम्पत्तिश् च प्राप्तवन्तः तस्माद् एतत् कामेन दीर्घसन्ध्यानुष्ठानं कर्तव्यम् ॥ ४.९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-094	By prolonging the twilight devotions, the sages obtained long life, wisdom, honour, fame, and excellence in Vedic knowledge.
 </details>
 
 <details><summary>भारुचिः</summary>

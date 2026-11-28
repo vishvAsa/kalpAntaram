@@ -3,7 +3,7 @@ title = "List of Abbreviations"
 
 +++
 
-[[P2]]
+[[Pi]]
 
 ABORI = Annals of the Bhandarkar Oriental Research Institute, Poona 4.  
 A. Br. = Aitareya Brāhmaṇa.  
@@ -28,6 +28,8 @@ Caturvarga = Caturvarga-Cintāmaṇi of Hemādri ( B. I. Series ).
 C. O. = Calcutta Oriental Series.  
 CWN = Calcutta Weekly Notes.  
 D. C. = Deccan College Collection of Sanskrit mss. now housed at the Bhandarkar Oriental Research Institute, Poona 4.  
+
+[[Pii]]
 DCRI = Deccan College Research Institute, Poona 6.  
 Dh. S. = Dharmasūtra.  
 E. C. = Epigraphia Carnatica.  
@@ -55,7 +57,8 @@ JOI = Journal of the Oriental Institute.
 JOR = Journal of Oriental Research.  
 JRAS = Journal of the Royal Asiatic Society of Great Britain.  
 
-[[P2]]Jivananda Sm. = Dharmaśāstra-saṁgraha, published by Jīvānanda at Calcutta in 1876 ( two parts ).  
+[[Piii]]
+Jivananda Sm. = Dharmaśāstra-saṁgraha, published by Jīvānanda at Calcutta in 1876 ( two parts ).  
 JVOI = Journal of the Venkatesvara Oriental Institute.  
 KA = Kauṭilīya Arthaśāstra.  
 L. R. I. A. = Law Reports, Indian appeals, the number of the Volume being inserted between L. R. and I. A.  
@@ -85,7 +88,8 @@ V. S. = Vedāntasūtra.
 W. B. = West and Bühler's Digest of Hindu Law ( 3rd ed. ).  
 Yāj. = Yājñavalkyasmṛti.  
 
-[[P3]]आ. गृ. सू. or आप. गृ. or आप. गृ. सू. = आपस्तम्बगृह्यसूत्र.  
+[[Piv]]
+आ. गृ. सू. or आप. गृ. or आप. गृ. सू. = आपस्तम्बगृह्यसूत्र.  
 आ. ध. सू. or आ. ध. सू. = आपस्तम्बधर्मसूत्र.  
 ऐ. ब्रा. = ऐतरेयब्राह्मण.  
 काम. = कामन्दकीयनीतिसार.  

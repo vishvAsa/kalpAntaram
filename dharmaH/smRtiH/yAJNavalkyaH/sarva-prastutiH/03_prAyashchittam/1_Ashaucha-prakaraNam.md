@@ -20,6 +20,12 @@ title = "१ आशौच-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/001_UnadvivarShan_nikhanen.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should bury a child under two years old; no water offering should be made thereafter.  
+Following [the corpse] to the cremation ground, any other person, accompanied by relatives,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊन-द्वि-वर्षं निखनेन्  
@@ -151,6 +157,12 @@ _श्रियाम् अव्यभिचरितनिर्व्या
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/002_yamasUktan_tathA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+should be burned with secular fire by those reciting the Yama hymn and sacred verses,  
+but if initiated, according to the rule of the keeper of sacred fire, with proper rites.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यम-सूक्तं तथा गाथा  
@@ -185,6 +197,12 @@ _यस्य च दाहाधिकारः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/003_saptamAd_dashamAd.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the seventh or tenth [degree of kinship], relatives enter the water,  
+facing the direction of the ancestors, with the verse: 'May our sin burn away.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 सप्तमाद् दशमाद् वा ऽपि  
@@ -234,6 +252,12 @@ _एवं च यथाधिकारं दग्ध्वा ततः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/004_evam_mAtAmahAchArya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Such is the water rite for deceased maternal grandfathers and teachers.  
+The water offering is optional for friends, married daughters, sisters' sons, fathers-in-law, and sacrificial priests.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवं मातामहाचार्य-  
@@ -278,6 +302,12 @@ _समानोदकत्वाभावे ऽपि हि यथा ज्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/005_sakRt_prasinchanty.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Remaining silent, they pour out water once, uttering the name and clan.  
+Chaste students and outcasts must not perform the water offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सकृत् प्रसिञ्चन्त्य् उदकं  
@@ -355,6 +385,12 @@ _सपिण्डत्वे ऽपि च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/006_pAkhaNDyanAshritAH_stenA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who belong to heretical sects, thieves, husband-slayers, unchaste women and the like,  
+female wine-drinkers, and women who commit suicide are not entitled to impurity or water offerings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पाखण्ड्य्-अनाश्रिताः स्तेना  
@@ -509,6 +545,12 @@ _कर्तृत्वेनापवादम् उक्त्वेदा
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/007_kRtodakAn_samuttIrNAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having offered water, emerged [from it], and sat down on soft green grass,  
+after bathing, others should console them with ancient legends:
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृतोदकान् समुत्तीर्णान्  
@@ -553,6 +595,12 @@ _ये त्व अधिकृता ज्ञातयः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/008_mAnuShye_kadalIstambha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Whoever seeks substance in human existence, which is devoid of substance like a plantain stalk  
+and resembles a water bubble, is completely deluded.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मानुष्ये कदली-स्तम्भ-  
@@ -593,6 +641,12 @@ _एतम् एवापवादं प्रपञ्चयति ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/009_panchadhA_sambhRtaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If the body, composed of the five elements, has returned to the five elements  
+by means of deeds arising from one's own body, what lamentation can there be?
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्चधा सम्भृतः कायो  
@@ -633,6 +687,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/010_gantrI_vasumatI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The earth will go to destruction, as will the ocean and the deities;  
+how shall the mortal world, resembling foam, not go to destruction?
+</details>
+
 <details><summary>मूलम्</summary>
 
 गन्त्री वसुमती नाशम्  
@@ -673,6 +733,12 @@ _पश्य ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/011_shleShmAshru_bAndhavair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because the deceased helplessly consumes the phlegm and tears shed by kinsmen,  
+one must not weep; rather, rites should be performed according to one's capacity.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्लेष्माश्रु बान्धवैर् मुक्तं  
@@ -717,6 +783,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/012_iti_saMshrutya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having listened to this, they should go home, led by the children;  
+chewing neem leaves, with restrained minds, at the door of the house,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इति संश्रुत्य गच्छेयुर्  
@@ -768,6 +840,12 @@ _ _
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/013_AchamyAgnyAdi_salilaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+having sipped water for purification, touching fire, water, cow dung, and white mustard seeds,  
+and placing a foot gently upon a stone, they should enter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आचम्याग्न्य्-आदि सलिलं  
@@ -802,6 +880,12 @@ _अभ्यवहाराभावे ऽपि च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/014_praveshanAdika~N_karma.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The rite of entering and so forth is also for those who touched the corpse;  
+for others desiring immediate purification, it is through bathing and self-restraint.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रवेशनादिकं कर्म  
@@ -867,6 +951,12 @@ _अतिदेशम् आह ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/015_AchAryapitRupAdhyAyAn_nirhRtyApi.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A student under vow who carries out [the corpse of] his preceptors, father, or sub-teachers remains a student under vow;  
+he must not eat food prepared during impurity, nor live together with them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आचार्य-पितृ-उपाध्यायान्  
@@ -911,6 +1001,12 @@ _स्नेहादिनापि तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/016_krItalabdhAshanA_bhUmau.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Eating food bought or obtained by begging, they should sleep on the bare earth separately.  
+According to the procedure of the funeral cake offering, food should be given to the deceased for three days.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रीत-लब्धाशना भूमौ  
@@ -998,6 +1094,12 @@ _ _
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/017_jalam_ekAham.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Water and milk in an earthen pot should be placed in the open air for one day.  
+The Vedic and domestic rites must be performed, as enjoined by revealed scripture.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जलम् एकाहम् आकाशे  
@@ -1149,6 +1251,12 @@ _सत्य् अपि चाशौचनिमित्ते ऽनधि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/018_trirAtran_dasharAtraM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Death impurity is prescribed for three nights or ten nights.  
+For a child under two years old, [impurity applies] to both parents; birth impurity, however, is for the mother alone.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि-रात्रं दश-रात्रं वा  
@@ -1229,6 +1337,12 @@ _उदकक्रियाधिकृतानाम् अपि सपि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/019_pitros_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Birth impurity belongs to both parents, but surely to the mother because of the appearance of blood;  
+the day [of birth] does not cause impurity for the father and others on account of the occasion of birth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पित्रोस् तु सूतकं मातुस्  
@@ -1310,6 +1424,12 @@ _एवं शावाशौचम् अभिधायेदानीं स�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/020_antarA_janmamaraNe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If a birth or death occurs in between, one becomes purified after the remaining days.  
+In the case of a miscarriage, the number of nights equal to the months [of pregnancy] is the cause of purification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्तरा जन्म-मरणे  
@@ -1530,6 +1650,12 @@ _किं चानयत् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/021_hatAnAn_nRpagoviprair.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For those killed by kings, cows, or Brahmins, and for suicides, [purification is] immediate.  
+When [a kinsman dies] abroad, [the period of impurity] should be the remainder of the time; once [that period has] fully passed, one is pure after offering water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हतानां नृप-गो-विप्रैर्  
@@ -1639,6 +1765,12 @@ _सपिण्डतयैव प्राप्तस्य यथोक्�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/022_xatrasya_dvAdashAhAni.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Twelve days are prescribed for a Kshatriya, and fifteen for a Vaishya,  
+thirty days for a Shudra, and half of that for one who follows righteous conduct.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षत्रस्य द्वादशाहानि  
@@ -1701,6 +1833,12 @@ _क्षत्रियादिषु दशरात्रस्य सप�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/023_AdantajanmanaH_sadyA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Until the eruption of teeth [purification is] immediate; until tonsure it is taught to be one night;  
+three nights until the investiture of vows; beyond that, ten nights.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ-दन्त-जन्मनः सद्या  
@@ -1764,6 +1902,12 @@ _वयोवस्थाविशेषाद् अपि दशाहाद�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/024_ahas_tv.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One day is the purifier for unmarried girls and young boys,  
+and for a guru, a resident pupil, a learned teacher, a maternal uncle, and a Vedic scholar;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अहस् त्व् अदत्त-कन्यासु  
@@ -1898,6 +2042,12 @@ _अविशेषेणैव तु सर्ववर्णानाम् �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/025_anauraseShu_putreShu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+and for sons not born of one's own body, wives gone to another,  
+and when the king of one's place of residence has died, that day is the cause of purification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनौरसेषु पुत्रेषु  
@@ -1961,6 +2111,12 @@ _सर्ववर्णावैशेषिकत्वेनैव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/026_brAhmaNenAnugantavyo_na.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A Brahmin should never follow the corpse of a Shudra, nor that of a twice-born.  
+If he follows [one], he becomes pure after bathing in water, touching fire, and eating ghee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्राह्मणेनानुगन्तव्यो  
@@ -2036,6 +2192,12 @@ _यस् त्व् अनुगन्तव्यो ज्ञातिर�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/027_mahIpatInAn_naAshauchaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+There is no impurity for rulers of the earth, nor for those killed by lightning,  
+nor in battle for the sake of cows and Brahmins, nor for anyone the ruler of the earth desires.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मही-पतीनां न+आशौचं  
@@ -2102,6 +2264,12 @@ _कार्यान्तरोपरोधाच् च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/028_RtvijAn_dIxitAnA~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Nor for sacrificial priests and initiated persons performing sacrificial rites;  
+likewise for those engaged in a sacrificial session, vow-holders, chaste students, donors, and knowers of Brahman;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋत्विजां दीक्षितानां च  
@@ -2219,6 +2387,12 @@ _सपिण्डत्वे ऽपि च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/029_dAne_vivAhe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+at a gift, a marriage, and a sacrifice; in battle, during civil disturbance,  
+and in dire distress, immediate purification is prescribed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दाने विवाहे यज्ञे च  
@@ -2239,6 +2413,12 @@ _सपिण्डत्वे ऽपि च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/030_udakyA.ashuchibhiH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If touched by a menstruating woman or impure persons, one should bathe and sip water for purification;  
+and one should mutter the water hymns and the Gāyatrī once in thought.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदक्या ऽशुचिभिः स्नायात्  
@@ -2490,6 +2670,12 @@ _अयं तु सामान्येन पुरुषमात्रध�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/031_kAlo.agniH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Time, fire, rite, earth, wind, mind, knowledge, austerity, water,  
+repentance, and abstention from food: all these are causes of purification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कालो ऽग्निः कर्म मृद् वायुर्  
@@ -2538,6 +2724,12 @@ _एवं तावद् विस्पष्टविजाननिमि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/032_akAryakAriNAn_dAnaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For those who have committed misdeeds, giving is the purifier; and for a river, its current;  
+for an object to be cleansed, earth and water; and renunciation, indeed, for the twice-born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अकार्य-कारिणां दानं  
@@ -2589,6 +2781,12 @@ _एतद् एव स्पष्टयितुं विषयव्यव�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/033_tapo_vedavidA~N.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Austerity is said to be the purifier of knowers of the Veda; forbearance, of the wise; water, of the body;  
+muttering, of secret drinkers; truth, of the mind.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तपो वेदविदां क्षान्तिर्  
@@ -2628,6 +2826,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/03_prAyashchittam/1_Ashaucha-prakaraNam/034_bhUtAtmanas_tapovidye.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Austerity and sacred knowledge are the purifier of the individual self; knowledge, of the intellect;  
+from the knowledge of the Lord, supreme purification of the knower of the field is recognized.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भूतात्मनस् तपो-विद्ये  

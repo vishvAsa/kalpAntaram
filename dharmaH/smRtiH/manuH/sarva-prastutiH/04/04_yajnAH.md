@@ -12,6 +12,11 @@ title = "०४ यज्ञाः"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/021_RShiyajnan_devayajnam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+021	Let him never, if he is able (to perform them), neglect the sacrifices to the sages, to the gods, to the Bhutas, to men, and to the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 To the rest of his power, he shall never omit the sacrifice to the sages, the sacrifice to the gods, the sacrifice to elementals, the sacrifice to men and the sacrifice to the Pitṛs.—(21)
@@ -74,11 +79,6 @@ perform the five sacrifices.’
 **ऋषियज्ञम्** इति । स्वाध्यायादीन् **यथाशक्ति **न परित्यजेद् इति उक्तपञ्चयज्ञाभिधानं वक्ष्यमाणेन्दिर्यसम्पाद्यत्वकथनार्थम् ॥ ४.२१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-021	Let him never, if he is able (to perform them), neglect the sacrifices to the sages, to the gods, to the Bhutas, to men, and to the manes.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 वैश्वदेवादिकानां महायज्ञानाम् अभ्यासार्थ आरम्भ इति <u>केचित्</u> । तत् पुनर् युक्तम् अयुक्तं वेति विचारणीयम् । <u>वयं</u> पुनर् ब्रूमः । शेषविध्यर्थ एषां पुनर् उपन्यासस्तुत्यर्थो वा । तथा च प्रदर्शयिष्यामः ।
@@ -96,6 +96,11 @@ perform the five sacrifices.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/022_etAn_eke.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+022	Some men who know the ordinances for sacrificial rites, always offer these great sacrifices in their organs (of sensation), without any (external) effort.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Some persons, conversant with the ordinances relating to sacrifices, who do not cherish ant desires, regularly offer these great sacrifices into the sense-organs.—(22)
@@ -173,11 +178,6 @@ Prāṇas, to be made by the Śālīna, the Yāyāvara and the Ātmayājin.’
 **एतान्** इति । बाह्याभ्यन्तरयज्ञोपदेशकशास्त्रज्ञाः केचिन् मनुष्याः ज्ञानबलान् नित्यानुष्ठानार्थम् उपरतधनचेष्टा एतान् महायज्ञान् **इन्द्रियेष्व् एव **सर्वकालं सम्पादयन्ति । इन्द्रियाणि अग्न्यातिथ्यादिरूपतया तत्संयमं वाग्बाहुल्यादिरूपत्वेन भावयन्ति । एतान् सम्पादयन्ति ॥ ४.२२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-022	Some men who know the ordinances for sacrificial rites, always offer these great sacrifices in their organs (of sensation), without any (external) effort.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ये सर्वप्रकारस्य यज्ञस्य शास्त्रजाश् ते नाधिकृतत्वाद् अनीहमानास् तान् । महायज्ञात् सततं यावज्जीवम् "**इन्द्रियाग्निषु (?) जुह्वति**" । किं पुनस् तदास्तिक्यश्राद्धाभिनिवेशो वा ग्रहेण तन्मयाम् आहुतिमयं चास्य प्रपञ्चो वृत्तिस्थाने भवति \
@@ -195,6 +195,11 @@ Prāṇas, to be made by the Śālīna, the Yāyāvara and the Ātmayājin.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/023_vAchy_eke.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+023	Knowing that the (performance of the) sacrifice in their speech and their breath yields imperishable (rewards), some always offer their breath in their speech, and their speech in their breath.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Some people constantly offer their life-breath into speech, and their speech into the life-breath,—knowing that in speech and in life-breath rests the imperishable fulfilment of sacrifices.—(23)
@@ -242,11 +247,6 @@ different sacrifice, the Daiva sacrifice; other Yogins have recourse to another 
 **वाचीति** । अन्ये पुनः **वाचि** प्राणाख्ये च वायौ अक्षयफलां यज्ञसम्पत्तिं मन्यमाना अभिधानकामे वागग्नौ तूष्णीम्भावकाद् एव च प्राणाग्नौ वागाहुतिं जुह्वति प्राणाहुतिं जुह्वति । एवम् अनवरतं भावयत्न आसते । तथा च कौषीतकिरहस्यब्राह्मणम्- “यावद् वै पुरुषो भाषते न तावत् प्राणितुं शक्नोति प्राणं तदा वाचि जुहोति । यावद् वै पुरुषः पाणिति न तावद् भाषितुं शक्नोति वाचं तदा प्राणे जुहोति । एते अनन्ते अमृते आहुती जागत् स्वपंश् च सततं जुहोति अथ या अन्या आहुतयो ऽन्नवत्यस् ताः कर्ममय्यो हि भवन्ति, एवं तद्वस्मै तत्पूर्वे विद्वांसो ऽग्निहोत्रं जुहवां चक्रुः” इति ॥ ४.२३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-023	Knowing that the (performance of the) sacrifice in their speech and their breath yields imperishable (rewards), some always offer their breath in their speech, and their speech in their breath.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 वायुवागिन्द्रिययोः (?) परस्परविरोधेन वृत्तिर् अर्थलक्षणा । तां दर्शयति । येन वाचि प्रवर्तमानायाम् अध्ययनादिषु प्राणस्य तदुपयोगो दृष्टस् तत् । गुणत्वाद् अहुतेः । आहुतिश् चात्मओपमर्देनाग्न्याबिश् (?) च वा न दृष्टः । यत इदं गुणवृत्त्योच्यते । "**वाच्य् एके जुह्वति प्राणम्**" एवं विपर्ययेण "**प्राणे वाचं च सर्वदा**" इति वक्तव्यम् । अत्र कारणम् आह "**वाचि प्राणे च पश्यन्तः**" । अनया शास्त्रोपासनयाधिकृतयज्ञानि वृत्तिम् अक्षयां शास्त्रस्यानतिशङ्क्यत्वाद् उपासनाविधेर् वायम् उपदेशस्तुतिपरं चैतत् । "इन्द्रियाग्निष्व् जुह्वति" (म्ध् ४.२२) इत्य् अस्य पूर्वश्लोकं विधेर् निदर्शनं चैतत् सर्वेन्द्रियप्राणवृत्त्योर् विज्ञेयं पक्षद्वये ऽपि । तथा च कौषीतकिब्राह्मणम् "यावद् वै पुरुषो न भाष्यते न तावत् प्राणितुं शक्नोति प्राणं तदा वाचि जुहोति यावद् वै पुरुषः प्राणिति न तावत् भषीतुं शक्नोति वाचं तदा प्राणेषु जुहोति एते अनन्ते अमृते जुहोति जाग्रच् च स्वपंश् च सततं जुहोत्य् अथ या अन्या आहुतयोन्तवत्यस् ताः कर्मयो (?) भवन्त्य् एवं एवं ह स्मैतत् पूर्वे विद्वांसो ऽग्निहोत्रं न जुहुवां चक्रुः" । श्रुतिपरम् एतत् कथम् एवं नामैते नित्याः । येनानधिकृता एव कर्मभिर् एतैर् अन्येन प्रकारेण यजन्ते नैषाम् उच्छितिर् अस्तीति मन्यमानः । सैषानुष्ठानस्तुतिर् एव । तेषाम् उपासनाविधिर् व्यानधिकृतपुरुषविषया (?) । युक्ता चैवम् इयं स्मृत्यर्थकल्पना, यस्माच् छ्रुताव् अपि –
@@ -285,6 +285,11 @@ different sacrifice, the Daiva sacrifice; other Yogins have recourse to another 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/024_jnAnenaivA-pare_viprA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+024	Other Brahmanas, seeing with the eye of knowledge that the performance of those rites has knowledge for its root, always perform them through knowledge alone.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Other Brāhmaṇas, looking, with the eye of knowledge, upon this act as having its root in knowledge, always sacrifice with these sacrifices, by means of knowledge.—(24)
@@ -353,11 +358,6 @@ See Comparative notes for [Verse 4.23].
 
 **ज्ञानेनेति** । **अपरे **पुनर् **विप्राः एषां** यज्ञानां विद्वान् यजते विद्वान् याजयतीत्य् एवं अवबोधंउलम् अनुष्ठानं **ज्ञानचक्षुषा ** शास्त्रेण **पश्यन्तः** विज्ञानबलाद् एतान् यज्ञान् एतद्विषयसम्यगवबोधेनैव यावज्जीवं सम्पादयन्ति । तथा च “यो ह्य् एवं द्विजान् एतत् कर्म कुरुते यो वै तद् एवं वेद” इति ब्राह्मणम् ॥ ४.२४ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-024	Other Brahmanas, seeing with the eye of knowledge that the performance of those rites has knowledge for its root, always perform them through knowledge alone.
-</details>
 </details>
 </div>
 
@@ -371,6 +371,11 @@ See Comparative notes for [Verse 4.23].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/025_agnihotra~n_cha.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+025	A Brahmana shall always offer the Agnihotra at the beginning or at the end of the day and of the night, and the Darsa and Paurnamasa (Ishtis) at the end of each half-month,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall always offer the Agnihotra, either at the beginning, or, at the end, of day and night, as also the “Darśa” and the “Paurṇamāsa” at the end of each half-month.—(25).
@@ -470,11 +475,6 @@ evening;—oblations should be poured to the gods;—one shall offer sacrifices 
 
 **अग्निहोत्रं चेति** । उदितहोमपक्षे दिनादौ दिनान्ते होमं कुर्यात् । तथा अनुदितहोमपक्षे रात्र्यादौ रात्र्यन्ते च होमं कुर्यात् । तथा कृष्णपक्षान्ते दर्शाख्येन कर्मणा, शुक्लपक्षान्ते पौर्णमासाख्येन यजेत ॥ ४.२५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-025	A Brahmana shall always offer the Agnihotra at the beginning or at the end of the day and of the night, and the Darsa and Paurnamasa (Ishtis) at the end of each half-month,
-</details>
 </details>
 </div>
 
@@ -490,6 +490,11 @@ evening;—oblations should be poured to the gods;—one shall offer sacrifices 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/026_sasyAnte_navasasyeShTyA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+026	When the old grain has been consumed the (Agrayana) Ishti with new grain, at the end of the (three) seasons the (Katurmasya-) sacrifices, at the solstices an animal (sacrifice), at the end of the year Soma-offerings.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the end of the grains, the Brāhmaṇa shall perform the “New-Harvest sacrifice;” at the end of the seasons, the “Adhvara-sacrifices;” at the end of the solstices the “Animal-sacrifice;” and at the end of the year the “Soma-sacrifices.”—(26)
@@ -569,11 +574,6 @@ Paśu,—and the Āgrayaṇeṣṭi and the Cāturmāsya also shall be performed
 **सस्यान्त** इति । प्राक्सञ्चितधान्यादिक्षये यदा वर्षस्य तृप्तः स्यात् “अथाग्रयणेन यजेत शरदि नवान्नम्” इति सूत्रकारवचनात् । विद्यमानधान्यो ऽपि चाग्रयणेन यजेत । ऋतुः संवत्सरम् इत्य् अस्मिन् दर्शनेन चतुर्षु चतुर्षु मासेष्व् ऋत्वन्ते ऽध्वरैः चातुर्मास्याख्यैः कर्मभिर् यजेत । पशुबन्धाख्येन कर्मणा उत्तरायणदक्षिणायनादौ यजेत । वर्षान्ते च ज्योतिष्टोमादिना सोमयागेनेति ॥ ४.२६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-026	When the old grain has been consumed the (Agrayana) Ishti with new grain, at the end of the (three) seasons the (Katurmasya-) sacrifices, at the solstices an animal (sacrifice), at the end of the year Soma-offerings.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अग्निहोत्रे यज्ञशब्दो जुहोतिशब्देन पाठः । दर्शपूर्णमासादिषु तु श्रुतो ऽपि यजतिशब्दः शास्त्राद् विज्ञेयः । कथम् । "**द्विजो ऽध्वरैः**" इति सौमिकेषु चातुर्मासेष्व् अयम् अध्वरशब्दो वेदितव्यः, एवं च सत्य् अनधिकृतो ऽप्य् अत्र यथोक्तो वासनया परिप्रापयत्य् एवांस् तया (?) यथोक्तया एवं महायज्ञान् अपि परिप्रापयेद् इति स्तुत्यर्थम् इदम् अनधिकृतं वा प्रत्ययम् उपदेशः । एवं कृतशास्त्रन्यायविरोधसामर्थाइनयस्येष्टिपशुप्रसङ्गेन वेदम् अपरं श्लोकद्वयं प्रकृतार्थानुग्रहाय दृष्टान्तत्वेनोच्यते ।
@@ -591,6 +591,11 @@ Paśu,—and the Āgrayaṇeṣṭi and the Cāturmāsya also shall be performed
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/027_nA-niShTvA_navasasyeShTyA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+027	A Brahmana, who keeps sacred fires, shall, if he desires to live long, not eat new grain or meat, without having offered the (Agrayana) Ishti with new grain and an animal-(sacrifice).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Without having performed the New-Harvest sacrifice, and the animal Sacrifice, the Brāhmaṇa, who has set up the fire, shall not eat new grain or meat,—if he desires to live a long life.—(27)
@@ -656,11 +661,6 @@ offered it in sacrifice, for him the expiation consists in making the Vaiśvāna
 
 **नेति** । आहिताग्निर् द्विजो दीर्घायुर् जीवितुम् इच्छुः आग्रयणम् अकृत्वा **नवान्नं **पशुयागं वाकृत्वा **मांसं **नाश्नीयत् ॥ ४.२७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-027	A Brahmana, who keeps sacred fires, shall, if he desires to live long, not eat new grain or meat, without having offered the (Agrayana) Ishti with new grain and an animal-(sacrifice).
-</details>
 </details>
 </div>
 
@@ -682,6 +682,11 @@ offered it in sacrifice, for him the expiation consists in making the Vaiśvāna
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/028_navenA-narchitA_hy.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+028	For his fires, not being worshipped by offerings of new grain and of an animal, seek to devour his vital spirits, (because they are) greedy for new grain and flesh.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For his Fires, greedy or n ew grains and meat, seek to devour his very life, if they are not worshipped with new grains and with meat.—(28)
@@ -710,11 +715,6 @@ By pointing out the evils arising from the omission of the said rites, the text 
 <details><summary>गोविन्दराजः</summary>
 
 **नवेनेति** । यस्मान् नवसस्येन पशुयागेन (दानेन) चानिष्ट्वा **अग्नयो **नवान्नमांसानि काङ्क्षिणो ऽस्याग्न्याहितस्य **प्राणान् एव** भक्षयितुम् **इच्छन्ति **। तस्माद् आग्रयणपशुयागौ कर्तव्यौ ॥ ४.२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-028	For his fires, not being worshipped by offerings of new grain and of an animal, seek to devour his vital spirits, (because they are) greedy for new grain and flesh.
 </details>
 
 <details><summary>भारुचिः</summary>

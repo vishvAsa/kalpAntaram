@@ -12,6 +12,12 @@ title = "०७ भक्ष्याभक्ष्य-प्रकरणम्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/167_anarchitaM_vRthAmAMsaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unconsecrated food, meat not used in sacrifice, food contaminated with hair or insects,  
+sour food, stale food, remnants, food touched by a dog, or looked upon by a degraded person;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनर्चितं वृथा-मांसं  
@@ -63,6 +69,12 @@ _एवं तावद् अनौपासनाद्याश्रयत�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/168_udakyAspRShTasanghuShTaM_paryAyAnna~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Food touched by a menstruating woman, food loudly proclaimed for all, and food offered in succession, he should avoid;  
+as also food sniffed by a cow, remnants left by a bird, or deliberately touched with the foot.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदक्या-स्पृष्ट-सङ्घुष्टं  
@@ -93,6 +105,12 @@ _एवं तावद् अनौपासनाद्याश्रयत�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/169_annam_paryuShitam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Stale food may be eaten if it is mixed with oil or clarified butter, even if kept long;  
+preparations of wheat, barley, and cow's milk may be eaten even without oil.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्नं पर्युषितं भोज्यं  
@@ -182,6 +200,12 @@ _पर्युषितं न भोक्तव्यम् इत्य् 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/170_sandhinyanirdashAvatsA_gopayaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should avoid the milk of a cow in heat, a cow within ten days of calving, or one without a calf;  
+as also the milk of camels, one-hoofed animals, women, wild animals, and sheep;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्धिन्य्-अनिर्दशा-वत्सा-  
@@ -274,6 +298,12 @@ _किं च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/171_devatArthaM_haviH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Food prepared for deities, the śigru plant, red exudations from incisions in trees,  
+unoffered meats, excrement-born items, and mushrooms.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवतार्थं हविः शिग्रुं  
@@ -339,6 +369,12 @@ _अपि च_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/172_kravyAdapaxidAtyUha_shukapratudaTiTTibhAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Carnivorous birds, the water-cock, parrot, woodpecker, lapwing,  
+crane, one-hoofed animals, geese, and all village-dwelling birds;
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रव्याद-पक्षि-दात्यूह-  
@@ -392,6 +428,12 @@ _एवं सति मांसस्य स्वभावाद् अभक
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/173_koyaShTiplavachakrAhva_balAkAbakaviShkirAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The koyaṣṭi bird, water-fowl, ruddy sheldrake, white heron, egret, scratching birds,  
+preparations of rice with sesame, barley cakes, sweet rice pudding, cakes, and pastry prepared uselessly [not for gods or ancestors];
+</details>
+
 <details><summary>मूलम्</summary>
 
 कोयष्टि-प्लव-चक्राह्व-  
@@ -439,6 +481,12 @@ _अपि च_ ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/174_kalavinkaM_sakAkolaM.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sparrow, raven, osprey, green pigeon,  
+web-footed birds, wagtails, and unknown beasts and birds;
+</details>
+
 <details><summary>मूलम्</summary>
 
 कलविङ्कं स-काकोलं  
@@ -493,6 +541,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/175_chAShAMsh_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Blue jays, red-legged birds, meat from a slaughterhouse, dried meat,  
+and fish—having eaten these intentionally, he should fast for three days.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चाषांश् च रक्त-पादांश् च  
@@ -556,6 +610,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/176_palANDuM_viDvarAha~n.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having eaten onions, village pigs, mushrooms, village cocks,  
+garlic, or small wild turnips, he must perform a lunar penance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पलाण्डुं विड्-वराहं च  
@@ -664,6 +724,12 @@ _तथा कामत एव ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/177_bhaxyAH_panchanakhAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Among five-toed animals, the porcupine, monitor lizard, tortoise, hedgehog,  
+and hare may be eaten; and among fish: the lion-snout and rohita;
+</details>
+
 <details><summary>मूलम्</summary>
 
 भक्ष्याः पञ्च-नखाः  
@@ -735,6 +801,12 @@ _किं सर्वान्य् अभक्ष्यान्य् ए�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/178_tathA_pAThInarAjIva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Likewise, the pāṭhīna, the rājīva, and fish with scales may be eaten by the twice-born.  
+Now hear from me the rule concerning the eating and abstaining from meat:
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथा पाठीन-राजीव-  
@@ -794,6 +866,12 @@ _"अनर्चितं वृथामांसम्" (य्ध् १.१
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/179_prANAtyaye_tathA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+At risk of life, in an ancestral rite, when sprinkled [for sacrifice], or by the wish of twice-born people,  
+after having worshipped the gods and ancestors, eating meat does not incur guilt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राणात्यये तथा श्राद्धे  
@@ -844,6 +922,12 @@ _कः पुनर् असौ विधिर् इत्य् अत आ�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/180_vaset_sa.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+That evil-doer who slaughters animals contrary to the prescribed rule  
+shall dwell in a terrible hell for as many days as there are hairs on the animal.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वसेत् स नरके घोरे  
@@ -936,6 +1020,12 @@ _यस् त्व् अतो ऽन्यथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/181_sarvAn_kAmAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He obtains all desires and the fruit of the horse sacrifice—  
+even while living in his home, a Brahmin becomes an ascetic through abstaining from meat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वान् कामान् अवाप्नोति  

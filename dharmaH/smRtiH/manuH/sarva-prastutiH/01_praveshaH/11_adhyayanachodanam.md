@@ -12,6 +12,11 @@ title = "११ अध्ययनचोदनम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/103_viduShA_brAhmaNenedam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+103	A learned Brahmana must carefully study them, and he must duly instruct his pupils in them, but nobody else (shall do it).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This may he studied with care, and duly taught to pupils, by the learned Brāhmaṇa,—not by any one else.—(103)
@@ -55,11 +60,6 @@ This verse is quoted in the *Mitākṣarā* (on I, 3)—along with another verse
 **विदुषेति** । हिताहितानीच्छता तज्ज्ञेन **ब्राह्मणेनेदं** शास्त्रं **प्रयत्नेनाध्येतव्यम्** इति ब्राह्मणस्य प्रयत्नाध्ययनार्थो ऽयम् आरम्भः । प्रयत्नग्रहणात् क्षत्रियवैश्ययोर् अप्य् अत्राध्ययनाधिकारः । तथा च “निषेकादिश्मशानान्त” इत्यादि वक्ष्यति । न तु ब्राह्मणवद् यत्नातिशयः । न च तेनैतत् ब्राह्मणस्यापि विद्ध्यति, तत्र ब्राह्मणविशेषणस्य् प्रयत्नशब्दस्यानुपादानात्, न च क्षत्रियवैश्ययोर् अप्य् अनेनैव सिद्ध्यति । निषेकादीत्य् एतदनारम्भे प्रयत्नशब्दस्यैवंविधविशेषप्रतिपादनासामर्थात् । न हीह क्षत्रियवैश्यग्रहणम अस्ति । सति निषेकादिशास्त्रे ऽस्मिंश् च एतल् लभ्यते द्विजातिमात्रस्याध्ययनाधिकारो ब्राह्मणस्य तु प्रयत्नवान् । इति । **शिष्येभ्यश् च **ब्राह्मणेनैतत् **प्रवक्तव्यं** न क्षत्रियादिनेति । ब्राह्मणस्यैतच्छास्राध्यापनाधिकारर्थो ऽयम् आरम्भः अन्यस्याध्यापननिषेधर्थश् च । यथा [यत् तु] अर्थवादत्वम् अस्य श्लोकस्य कैश्चिद् उक्तम् । तद् असिद्धम् अर्थप्रतीतेः । अर्थस्य चार्थवादत्वे सति प्रयत्नकृतो विशेषो न भवति । तन् मा नामात्र भूत् ब्राह्मणस्यैतच्छास्त्राध्यापनाधिकारो ऽन्यस्य निषेध इत्य् अयं पुनर् विशेषो ऽस्यार्थवादत्वे सति दुर्लभः । यत् तु अधीयीरंस् त्रयो वर्णा इत्यादि स वेदविषयो ऽनुवाद इति व्याख्यास्यामः ॥ १.१०३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-103	A learned Brahmana must carefully study them, and he must duly instruct his pupils in them, but nobody else (shall do it).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उभयथापीयं स्वपरशास्त्रं सम्बन्धेष्विद्वत्तान (विद्वद्ब्राह्मणेन?) स्मृतिशास्त्राध्ययने कारणम् अर्थविरोधाद् अन्यत्रादर्शनाच् च । न च शास्त्रम् एवैतत् कल्पयितुं युक्तम् । विशेषानुपदेशाद् वेदशास्त्रदर्शनाञ् च । न च विद्वद्ब्रह्मणाध्ययनम् अस्य स्तुतौ सव(सर्व)न्नियमपरिसङ्ख्योपमं तथा यथा [यथा तथा?] वक्ष्यामः । यतो ऽस्मात् सामर्थ्याद् इयम् अध्ययनचोदना शास्त्रश्रवणार्था द्रष्टव्या । कथम् । **[३०]** अध्याहारेण पदवाक्यप्रमाणशास्त्रविदुषा ब्राह्मणेनेदम् अध्येतव्यं श्रोतव्यम् इत्य् अर्थः । यस्माद् इह विधिप्रतिषेधप्रतिप्रसवनियमपरिसङ्ख्यापुनर्वचनार्थवादश् च यथा तथा श्रुतप्रमाणग्राहिणो विदुषः परमार्थ हन्ति (?) हेतवस् तस्मात् परमदुर्विज्ञानतयैवं पण्डितैर् उपवेदनीयम् एतत् स्मृतिशास्त्रं विदित्वार्येण कृतम् इदं विशेषणम् । विदुषा ब्राह्मणेनेदम् अध्येतव्यं श्रोतव्यम् इत्य् अर्थः । प्रयत्नतः सम्यक् शिष्येभ्यश् च प्रवक्तव्यं चेत्य् एवम् एव सम्यक् शब्दाव् आदरो युक्ताव् उभयविशेषणे द्रष्टव्यौ । तथा च वक्ष्यति ।
@@ -94,6 +94,11 @@ This verse is quoted in the *Mitākṣarā* (on I, 3)—along with another verse
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/104_idaM_shAstram.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+104	A Brahmana who studies these Institutes (and) faithfully fulfils the duties (prescribed therein), is never tainted by sins, arising from thoughts, words, or deeds.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa studying these institutes, and (thence) discharging all prescribed duties, is never defiled by sins of commission (or omission), proceeding from mind, speech or body.—(104)
@@ -130,11 +135,6 @@ This verse is quoted in the *Smṛticandrikā* (Saṃskāra, p. 10) which reads 
 **इदम्** इति । **इदं शास्त्रं **पठन् **ब्राह्मणः **एतदर्थावबोधेन **शंसितव्रतः **अविकलयमनियमः सन् **मनोवाक्कायजैर्** विहिताकरणप्रतिषेधसेवनजनितैः पापैः न सम्बध्यते ॥ १.१०४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-104	A Brahmana who studies these Institutes (and) faithfully fulfils the duties (prescribed therein), is never tainted by sins, arising from thoughts, words, or deeds.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 नित्यं तत्कारणाभावाद्(?) एवं च शास्त्रस्थो (?) ऽसौ ।
@@ -152,6 +152,11 @@ This verse is quoted in the *Smṛticandrikā* (Saṃskāra, p. 10) which reads 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/105_punAti_panktim.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+105	He sanctifies any company (which he may enter), seven ancestors and seven descendants, and he alone deserves (to possess) this whole earth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He purifies his company, and also his kindreds—seven higher (ancestors) and seven lower (descendants). he alone deserves this entire earth.—(105)
@@ -185,11 +190,6 @@ He alone is entitled to receive the gift of this earth extending to the oceans; 
 किं च **पुनातीति** । भोजनादानपङ्क्तिसम्बन्धाद् अपवित्रीभूतां **पङ्क्तिं** शास्त्रस्थत्वात् पङ्क्तिपावनत्वे सति पवित्रीकरोति । तथैवान्वयात् **सप्त परान् **अतीतान् पित्रादीन् **सप्तावरान्** आगामिनः **पुनाति । **समग्रां चेमां **प्र्थिवीं **प्रतिग्रहीतुम् अर्हति । विदुषः प्रतिग्रहदोषापाकरणसामर्थात् ॥ १.१०५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-105	He sanctifies any company (which he may enter), seven ancestors and seven descendants, and he alone deserves (to possess) this whole earth.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 प्रतिगृहीतुर् अलिप्यमानः प्रतिग्रहदोषेण । प्रकृतार्थस्तुतिपरम् एतत् किञ्चान्यत् ।
@@ -207,6 +207,11 @@ He alone is entitled to receive the gift of this earth extending to the oceans; 
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/106_idaM_svastyayanam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+106	(To study) this (work) is the best means of securing welfare, it increases understanding, it procures fame and long life, it (leads to) supreme bliss.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This (treatise) is ever conducive to welfare; it is most excellent; it expands the understanding brings fame and constitutes the highest good.—(106)
@@ -245,11 +250,6 @@ are spoken of as ‘*most excellent*.’
 इदानीं शास्त्रं साक्षात् स्तौति – **इदम्** इति । **इदम्** अन्यस्मात् स्वस्त्ययनकर्मणः **श्रेष्टं **अतिशयेन प्रशस्यम्, **स्वत्ययनं** अविनाशप्रापकम् । विनाशोपशमकर्मावबोधेन, **बुद्धिविवर्धनं** च शास्त्रार्थपरिगणनात्, बुद्धिविकासेन यशोनिमित्तं च सततं सर्वकालं ख्यातिकरत्वात्, परं प्रकृष्टं **निःश्रेयसं **निःश्रेयसस्य मोक्षस्य साधकत्वात् ॥ १.१०६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-106	(To study) this (work) is the best means of securing welfare, it increases understanding, it procures fame and long life, it (leads to) supreme bliss.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **स्वस्ती**त्य् उत्कर्षस् तत्प्राप्त्यर्थम् अयं [**अयनम्**?] मार्गः पन्थाः । **इदम्** शास्त्रं कृतयेत् [कीर्तयेत्?] । न तदर्थानुष्ठानद्वारेण्**एदं** **निःश्रेयसं परम्** । निःश्रेयसार्थत्वान् नैश्रेयसं वा सतद्धितम् । को ऽयं निर्देशस् तदर्थविवक्षयाथ वा **स्वस्ती**त्य् अविनाशः । **अयनं** मार्गः । स्वस्त्यर्थम् अयनम् अनर्थोपरमस् तस्य साधनं **स्वत्ययनम्** । **निःश्रेयसम्** उत्कर्षो ऽभ्युदयो मोक्षाख्यशास्त्रं तदर्थं तच्छब्दं भवति । तद्धितप्रत्यये ऽप्य् (?) अयम् एवार्थः । इदानीम् अनन्तरश्लोकत्रयोपदिष्टार्थकारणं वक्ति । यस्मात्,
@@ -267,6 +267,11 @@ are spoken of as ‘*most excellent*.’
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/107_asmin_dharmo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+107	In this (work) the sacred law has been fully stated as well as the good and bad qualities of (human) actions and the immemorial rule of conduct, (to be followed) by all the four castes (varna).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Herein has been expounded Dharma in its entirety: the good and bad features of actions of all the four castes; as also eternal Morality.—(107)
@@ -327,11 +332,6 @@ hyperbolic eulogium; what is meant is only that *such Dharma as is adumbrated in
 **अस्मिन्न्** इति । **अस्मिन्** स्मार्तो **धर्मः** कार्त्स्न्येनोक्तः **कर्मणां च **विहितप्रतिषिद्धानाम्, **गुणदोषौ** इष्टानिष्टफले **वर्णानाम्** **आचारः **पुरुषघर्माख्यः साधारणप्राधान्यख्यापनार्थं चास्य पृथग् ग्रहणम् । एवं चैव तत्सन्निधौ धर्मशब्दो ऽत्र साधारणः सन्ध्योपासनादिप्रतिवचनः ॥ १.१०७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-107	In this (work) the sacred law has been fully stated as well as the good and bad qualities of (human) actions and the immemorial rule of conduct, (to be followed) by all the four castes (varna).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अस्मिन् धर्मो ऽखिलेनोक्तः** कर्तव्यः परिहर्तव्यश् च । न तु यथा बुद्धादिवचनादिषु <u>परा</u>नुशासनापेक्षत्वम् (?) अकृत्स्नार्थत्वात् तेषाम् एवात्र निरपेक्षत्वाद् अस्य **गुणदोषौ च कर्मणां** फलस्येष्टानिष्टत्वस्य <u>प्ररो</u>चनाविद्वेषणार्थो (?) ऽपि हितप्रतिषिद्धयोश् **चतुर्णाम् अपि वर्णानाम्** अपि शब्दान्तरप्रभावानां चोक्तत्वात् (?) तेषाम् **आचारश् चैव शाश्वतः** पुरुषधर्माखस् तत्सन्निधौ च कर्माष्टकादिस्मार्तं विज्ञेयम् । अथ वा कर्मशब्दगृहीतो ऽप्य् आचारम् उत्तरार्थो निर्दिश्यते । तथा चेदम् आह ।
@@ -353,6 +353,11 @@ hyperbolic eulogium; what is meant is only that *such Dharma as is adumbrated in
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/108_AchAraH_paramo.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+108	The rule of conduct is transcendent law, whether it be taught in the revealed texts or in the sacred tradition; hence a twice-born man who possesses regard for himself, should be always careful to (follow) it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Morality [Right Behaviour] is highest Dharma; that which is prescribed in the śruti and laid down in the Smṛti. hence the twice-born person, desiring the welfare of his soul, should be always intent upon Right Behaviour.—(108)
@@ -382,11 +387,6 @@ Morality [Right Behaviour] is highest Dharma; that which is prescribed in the ś
 **आचार** इति । यः **श्रुत्युक्तः आचारः **पुरुषसाधारणप्राधान्यख्यापनार्थं स धर्माख्यः, यश् च **स्मार्तः** स **परमः **पर्क्ēष्ट्तो **धर्मः **परमो ज्योतिष्टोमाष्टकादिभ्यः श्रौतस्मार्तधर्मेभ्यः यतः तस्मात् यो **नित्यं** प्रशस्तात्मा आचारे सर्वकाले **युक्तो** यत्नवान् स्यात् ॥ १.१०८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-108	The rule of conduct is transcendent law, whether it be taught in the revealed texts or in the sacred tradition; hence a twice-born man who possesses regard for himself, should be always careful to (follow) it.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इति । तथा व्यासश्लोकः ।
@@ -413,6 +413,11 @@ Morality [Right Behaviour] is highest Dharma; that which is prescribed in the ś
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/01_praveshaH/109_AchArAd_vichyuto.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+109	A Brahmana who departs from the rule of conduct, does not reap the fruit of the Veda, but he who duly follows it, will obtain the full reward.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa who departs from Right Behaviour, does not obtain the fruit of the Veda; he however who is equipped with Right Behaviour obtains the full reward.—(109)
@@ -463,11 +468,6 @@ See Comparative notes for [Verse 1.108 (On morality \[right behaviour\])].
 <details><summary>गोविन्दराजः</summary>
 
 **आचारद्** इति । **आचाराद् विच्युतः **श्रौतस्मार्ताधिकारात् भ्रष्टाचारो ब्राह्मणो न वैदिकं कर्मफलं लभते । आचारवान् पुनः समग्रफलभाग् भवति ॥ १.१०९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-109	A Brahmana who departs from the rule of conduct, does not reap the fruit of the Veda, but he who duly follows it, will obtain the full reward.
 </details>
 
 <details><summary>भारुचिः</summary>

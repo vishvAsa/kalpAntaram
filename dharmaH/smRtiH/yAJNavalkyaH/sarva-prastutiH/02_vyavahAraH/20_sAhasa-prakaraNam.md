@@ -12,6 +12,12 @@ title = "२० साहस-प्रकरणम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/230_sAmAnyadravyaprasabha_haraNAt.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the forcible taking of common property, a heinous offence is declared;  
+the fine is double its value, but fourfold in the case of denial.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सामान्य-द्रव्य-प्रसभ-  
@@ -147,6 +153,12 @@ _स्तेयम् अपि प्रसह्य कृतं साहस
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/231_yaH_sAhasa~N.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who instigates a heinous offence should be made to pay double the fine;  
+and he who instigates it by saying, 'I will pay,' should pay fourfold.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यः साहसं कारयति  
@@ -208,6 +220,12 @@ _अन्येनापि प्रयोक्तृतया ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/232_arghyAxepAtikramakRd_bhrAtRbhAryAprahArakaH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who reviles an honoured guest or commits a transgression, one who strikes a brother's wife,  
+one who fails to deliver what was entrusted, and one who breaks into a sealed house—
+</details>
+
 <details><summary>मूलम्</summary>
 
 अर्घ्याक्षेपातिक्रम-कृद्  
@@ -306,6 +324,12 @@ _साहसिकत्वाद् एव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/233_sAmantakulikAdInAm_apakArasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+And whoever causes harm to neighbouring landholders, kinsmen, and the like:  
+the fine for these is fifty paṇas; such is the settled rule.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सामन्त-कुलिकादीनाम्  
@@ -326,6 +350,12 @@ _साहसिकत्वाद् एव च ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/234_svachChandavidhavAgAmI_vikruShTe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who approaches a widow at will; one who does not run to help upon a cry of distress;  
+one who cries out in distress without cause; and a Caṇḍāla who touches higher classes;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वच्छन्द-विधवागामी  
@@ -403,6 +433,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/235_shUdrapravrajitAnA~n_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+and one who feeds Shudras and ascetics at rites for the gods or ancestors;  
+one who takes an improper oath; one unfit who performs the task of a fit person;
+</details>
+
 <details><summary>मूलम्</summary>
 
 शूद्र-प्रव्रजितानां च  
@@ -423,6 +459,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/236_vRShaxudrapashUnA~n_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+one who destroys the virility of bulls and small animals;  
+one who conceals common property; one who destroys the fetus of a female slave;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वृष-क्षुद्र-पशूनां च  
@@ -443,6 +485,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/237_pitRputrasvasRbhAtR_dampatyAchAryashiShyakAH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+and whoever abandons father, son, sister, brother, spouse, preceptor, or student  
+when they have not fallen from caste, shall incur a fine of one hundred [paṇas].
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितृ-पुत्र-स्वसृ-भातृ-  
@@ -463,6 +511,12 @@ _तथा ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/238_vasAnastrIn_paNAn.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A washerman wearing another's garment is to be fined three paṇas;  
+but in the case of sale, hiring out, mortgaging, or borrowing, ten paṇas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वसानस्-त्रीन् पणान् दण्ड्यो  
@@ -532,6 +586,12 @@ _प्रक्षालनार्थम् अर्पितम् ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/239_pitAputravirodhe_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In a dispute between father and son, the fine for the witnesses is three paṇas;  
+and whoever comes between the two, his fine is eight times that.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पिता-पुत्र-विरोधे तु  
@@ -582,6 +642,12 @@ _एवमादेयव्यवहारविषये तावद् द�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/240_tulAshAsanamAnAnAM_kUTakRnnANakasya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who counterfeits scales, royal decrees, measures, or coins,  
+and whoever transacts with these, is to be made to pay the highest fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तुला-शासन-मानानां  
@@ -632,6 +698,12 @@ _स्वाभिप्रेतव्यवहारसिद्ध्यर�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/241_akUTa~N_kUTakam.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever calls a genuine coin counterfeit, or a counterfeit coin genuine,  
+that coin examiner is to be made to pay the highest fine for heinous offences.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अकूटं कूटकं ब्रूते  
@@ -684,6 +756,12 @@ _जानन्न् अपि तु लोभादिना ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/242_bhiSha~N_mithya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A physician acting deceitfully is to be fined the lowest fine in the case of animals,  
+the middling fine in the case of a human, and the highest fine in the case of royal officers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भिषङ् मिथ्य +आचरन् दण्ड्यस्  
@@ -750,6 +828,12 @@ _वर्णापर्थिकथया (?) तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/243_abandhyaM_yash.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever imprisons one not to be imprisoned, or releases one imprisoned,  
+or [imprisons] one who has not attained legal majority, is to be made to pay the highest fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अबन्ध्यं यश् च बध्नाति  
@@ -803,6 +887,12 @@ _वर्णापर्थिकथया (?) तु ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/244_mAnena_tulayA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever takes away an eighth part by measure or scale  
+is to be made to pay a fine of two hundred [paṇas], adjusted for increases and decreases.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मानेन तुलया वा ऽपि  
@@ -875,6 +965,12 @@ _सादृश्यादिना क्रेतुर् भ्रमं �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/245_bheShajasnehalavaNa_gandhadhAnyaguDAdiShu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever adulterates commodities such as medicine, oil, salt,  
+perfumes, grain, raw sugar, and the like with inferior substances is to be made to pay sixteen paṇas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भेषज-स्नेह-लवण-  
@@ -921,6 +1017,12 @@ _सादृश्यादिना क्रेतुर् भ्रमं �
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/246_mRchcharmamaNisUtrAyaH_kAShThavalkalavAsasAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In making clay, hide, gems, thread, iron, wood, bark, or cloth  
+appear to be of a species to which they do not belong, the fine is eight times the value of the saleable item.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मृच्-चर्म-मणि-सूत्रायः-  
@@ -980,6 +1082,12 @@ _क्रेतुः पण्यस्वरूपाज्ञत्वम्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/247_samudgaparivarta~n_cha.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For substituting a sealed box, or pledging or selling  
+an imitation of a valuable vessel, the assessment of the fine [is as follows]:
+</details>
+
 <details><summary>मूलम्</summary>
 
 समुद्ग-परिवर्तं च  
@@ -1034,6 +1142,12 @@ _यदि तु समुद्गकादिस्थं दर्शयि�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/248_bhinne_paNe.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For [a value of] a fraction of a paṇa, fifty [paṇas]; for one paṇa, one hundred is declared;  
+for two paṇas, the fine is two hundred, and it increases with the increase of the value.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भिन्ने पणे च पञ्चाशत्-  
@@ -1068,6 +1182,12 @@ _<u>किं</u> स्वमत्यैव दण्डकल्पना ।
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/249_sambhUya_kurvatAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For artisans and craftsmen who conspire to set a price that causes obstruction,  
+or knowingly cause a fall or rise in price, the fine is the highest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम्भूय कुर्वताम् अर्घं  
@@ -1120,6 +1240,12 @@ _एवं तावत् प्रत्येकव्यतिक्रम�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/250_sambhUya_vaNijAm.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For merchants who conspire to withhold commodities,  
+selling them or holding them at an improper price, the highest fine for heinous offences is ordained.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम्भूय वणिजां पण्यम्  
@@ -1173,6 +1299,12 @@ _उक्ताद् एव हेतोः ।_
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/251_rAjani_sthApyate.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The price that is fixed daily by the king is that by which sale  
+or purchase [takes place]; the surplus derived from that is traditionally regarded as the merchants' profit.
+</details>
+
 <details><summary>मूलम्</summary>
 
 राजनि स्थाप्यते यो ऽर्घः  
@@ -1245,6 +1377,12 @@ _यश् चासौ राजकुलाधिष्ठितनिपु�
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/252_svadeshapaNye_tu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+A merchant who buys and sells immediately may take five percent  
+on local commodities, but ten percent on foreign goods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्व-देश-पण्ये तु शतं  
@@ -1297,6 +1435,12 @@ _लाभकल्पना तु वणिजां किं यदृच्
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/yAjJNavalkyaH/sarvASh_TIkAH/02_vyavahAraH/20_sAhasa-prakaraNam/253_paNyasyopari_saMsthApya.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Adding to the commodity the expenses arising from the commodity,  
+a price should be fixed that is favourable to both the buyer and the seller.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पण्यस्योपरि संस्थाप्य  

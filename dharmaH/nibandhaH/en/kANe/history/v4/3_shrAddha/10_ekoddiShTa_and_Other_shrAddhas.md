@@ -493,6 +493,6 @@ Those who have faith in the duty of performing śrāddhas and their efficacy for
 
 
 
-If the implication of this formula be thoroughly understood and [[P551]]implemented by actual practice, it will make the whole world kin. Therefore, while discarding the heavy accretions accumulated through ages, we Hindus of these days must see to it that we do not throw overboard the gold that lies buried under the crust of ritual and ill-understood ceremonies.*
+If the implication of this formula be thoroughly understood and [[P551]]implemented by actual practice, it will make the whole world kin. Therefore, while discarding the heavy accretions accumulated through ages, we Hindus of these days must see to it that we do not throw overboard the gold that lies buried under the crust of ritual and ill-understood ceremonies.[^*]
 
-*In passing I may mention that my friend Mr. N. G. Chapekar, B. A., LL. B., retired First Class Subordinate Judge residing at Badlapur in the Thana District, has been celebrating the yearly śrāddha of his mother in the manner indicated above for about twenty-five years.
+[^*]: In passing I may mention that my friend Mr. N. G. Chapekar, B. A., LL. B., retired First Class Subordinate Judge residing at Badlapur in the Thana District, has been celebrating the yearly śrāddha of his mother in the manner indicated above for about twenty-five years.

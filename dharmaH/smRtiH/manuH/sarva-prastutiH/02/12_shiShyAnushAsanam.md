@@ -20,6 +20,11 @@ _सप्ताष्टश्लोकाः अध्येतृवेदि
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/159_ahiMsayaiva_bhUtAnAm.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+159	Created beings must be instructed in (what concerns) their welfare without giving them pain, and sweet and gentle speech must be used by (a teacher) who desires (to abide by) the sacred law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Teaching for good should be imparted to living beings, without injury to them; and sweet and soft words should be employed by one who seeks for merit.—(159)
@@ -82,11 +87,6 @@ some fault, the Teacher should admonish him; and until the pupil desists, the fo
 शियाचार्यप्रक्रमे अधुनाचर्यस्यापि किञ्चिन् नियमम् आह **अहिंसयैवेति** । “रज्ज्वा वेणुदलेन वा” इति शरीरपृष्टे ईषत्ताडनस्य वक्ष्यमाणत्वात् अतिताडनपरिहारेणैव **भूतानां** भार्यादीनाम् अपि भूतग्रहणान् न शिष्याणाम् एव प्रकृतानाम् आचार्येण वेदाध्ययनादि कर्तव्यम् । तदर्थं च **वाग्** एवानाक्रोशरूपानुच्चैर् वक्तव्या अनुशासनाद् धर्माद् **धमम् इच्छता** ॥ २.१५९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-159	Created beings must be instructed in (what concerns) their welfare without giving them pain, and sweet and gentle speech must be used by (a teacher) who desires (to abide by) the sacred law.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं चानुशासननियमाद् अस्माद् अस्ति धर्मः यथा – यो ऽस्माद् एव सर्वनियमः सर्वेभ्यः । एवं चेयं प्रकृतार्थस्तुतिः ।
@@ -104,6 +104,11 @@ some fault, the Teacher should admonish him; and until the pupil desists, the fo
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/160_yasya_vA~N-manasI.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+160	He, forsooth, whose speech and thoughts are pure and ever perfectly guarded, gains the whole reward which is conferred by the Vedanta.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He, whose speech and mind are pure and ever properly guarded, obtains the whole reward recognised by the canons of the Veda.—(160)
@@ -173,11 +178,6 @@ over his mind, his speech, his nose, his ears, his eyes, his tactile organ, his 
 यस्मात् **यस्येति** । **यस्य वाङ्मनसी शुद्धे **विकाररहितौ सत्य् अपि न कालुष्यं गच्छतः । **सम्यग् गुप्ते** चोत्पन्ने न कथञ्चित् कालुष्येण तत् कार्यं कुरुतः **सर्वदा **यावज्जीवम् उपनिषदुक्तं मोक्षाख्यं **फलम्** अखिलं प्राप्नोति ॥ २.१६० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-160	He, forsooth, whose speech and thoughts are pure and ever perfectly guarded, gains the whole reward which is conferred by the Vedanta.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं च सति –
@@ -195,6 +195,11 @@ over his mind, his speech, his nose, his ears, his eyes, his tactile organ, his 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/161_nA-runtudaH_syAd.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+161	Let him not, even though in pain, (speak words) cutting (others) to the quick; let him not injure others in thought or deed; let him not utter speeches which make (others) afraid of him, since that will prevent him from gaining heaven.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even though pained, one should not (use such words as) cut to the quick; he should not do, or think of, injury to others; he should not utter words by which others are pained, and which (therefore) will obstruct his passage to (higher) regions.—(161)
@@ -281,11 +286,6 @@ disrespect towards any one.’
 अतश् च **नारुन्तुद** इति । मर्मस्पृक् अत्य्**आर्तो **ऽ**पि न स्यात्** न परहिंसार्थव्यापारबुद्धिः स्यात् । **यया **च **वाचा **लोकः एनं द्वेष्टि तां स्वर्गादिलोकप्रतिबन्धिकां नोच्चारयेत् ॥ २.१६१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-161	Let him not, even though in pain, (speak words) cutting (others) to the quick; let him not injure others in thought or deed; let him not utter speeches which make (others) afraid of him, since that will prevent him from gaining heaven.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अथान्यैश् च यो गर्वेण दर्पेणाचार्यं न पूजयेद् अवमानयेद् (?) वा तथाप्य् आचार्यश् चित्तसङ्क्षोभम् आत्मना अनेन प्रसङ्ख्यानेनोपायेन परिहरेत् ।
@@ -307,6 +307,11 @@ disrespect towards any one.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/162_sammAnAd_brAhmaNo.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+162	A Brahmana should always fear homage as if it were poison; and constantly desire (to suffer) scorn as (he would long for) nectar.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa should ever shrink from reverence, as from poison; and he should always seek for disrespect, as for nectar.—(162)
@@ -354,11 +359,6 @@ when arrogant, he transgresses Dharma; and transgression of Dharma leads to hell
 **सम्मानाद्** इति । पूजातो **ब्राह्मणः **यावज्जीवं **विषाद् इव **खिद्येत । अमृतम् इव चावज्ञां **सर्वदा** काङ्क्षेत् ॥ २.१६२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-162	A Brahmana should always fear homage as if it were poison; and constantly desire (to suffer) scorn as (he would long for) nectar.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 कस्य हेतोः येन (?)
@@ -384,6 +384,11 @@ when arrogant, he transgresses Dharma; and transgression of Dharma leads to hell
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/163_sukhaM_hy.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+163	For he who is scorned (nevertheless may) sleep with an easy mind, awake with an easy mind, and with an easy mind walk here among men; but the scorner utterly perishes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who is scorned sleeps in comport and wakes up in comfort and goes about in the world in comport; it is the scorner that perishes.—(163)
@@ -425,11 +430,6 @@ See Comparative notes for [Verse 2.162].
 **सुखम्** इति । यो वावज्ञातः स **सुखं** स्वपिति न ययावमन्तुः “अयुक्तं मया कृतम्” इति चित्तसम्क्षोभो भवति । एवं स च **सुखं **निद्रां जहाति । **सुखं लोके** व्यवहरति । न पुनर् अवमानकृत् सो ऽसाधु मया कृतम् इतीह लोके परलोके चापुण्याद् **विनश्यति** ॥ २.१६३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-163	For he who is scorned (nevertheless may) sleep with an easy mind, awake with an easy mind, and with an easy mind walk here among men; but the scorner utterly perishes.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अध्यापयितुश् चित्तसङ्क्षोभहेतूपगमनार्थं श्लोकद्वयम् । जातिधर्मो वायम् अन्यप्रकरणोपदिष्त इहाध्यापयितुर् अध्याप्यब्रह्मचारिप्रशंसयाभिहितो (?) विज्ञेयो नापूर्वविध्यर्थः । किमर्थो ऽयं ब्रह्मचारिण इयान् यमनियमकथादेश उच्यते । कथम् । नामधेयम् ।
@@ -451,6 +451,11 @@ See Comparative notes for [Verse 2.162].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/164_anena_kramayogena.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+164	A twice-born man who has been sanctified by the (employment of) the means, (described above) in due order, shall gradually and cumulatively perform the various austerities prescribed for (those who) study the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Sanctified in self, the twice-born man, while dwelling with his Teacher, should, by the adoption of this course, generally accumulate sanctity for the learning of the Veda.—(164)
@@ -502,11 +507,6 @@ Students.’
 एवं प्रसक्तानुप्रसक्तिकया रुषमात्रधर्मम् उक्त्वा अधुना प्रकृतम् आह **अनेनेति** । उक्तपरिपाटीसम्बन्धेन कृतोपनयनो **द्विजः **गुरुकुले **वसन् **वेदप्राप्तिप्रयोजनं तपोनियमाख्यं तपोऽर्जनम् आत्मसंस्कारं च **शनैः **अन्वहम् उपार्जयेत् ॥ २.१६४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-164	A twice-born man who has been sanctified by the (employment of) the means, (described above) in due order, shall gradually and cumulatively perform the various austerities prescribed for (those who) study the Veda.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 प्रकृतार्थोप्संहारार्थः श्लोकः । एवं च सत्य् अनेन ब्रह्मचारिणैवं संस्कृतात्मना –
@@ -532,6 +532,11 @@ Students.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/165_tapo-visheShair_vividhair.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+165	An Aryan must study the whole Veda together with the Rahasyas, performing at the same time various kinds of austerities and the vows prescribed by the rules (of the Veda).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The entire Veda, along with the Esoteric Treatises, should be learnt by the twice-born person,—by means of various kinds of austerities and observances prescribed by rule.—(165)
@@ -814,11 +819,6 @@ study of the Veda, to the best of his ability; one should recite it, teach it to
 > _सत्यम्_ । क एवम् आह । अर्थान्तरनिमित्तका एताः समाख्याः । को वा वयं कठा इत्य् एवमादेर् व्यपदेशस्यानित्यत्वम् आह । कथम् । प्रोक्ताध्ययननिमित्तकः इदानीन्तनो ऽयं व्यपदेशः । समाख्याश् च प्रवचननिमित्ताः तथापि समाख्यानाम् आविर्भावतिरोभावेषु सत्स्व् अपि शाखाया नित्यत्वात् नित्यसम्बन्धत्वस्मरणस्य न कदाचिद् धानिः । **रहस्यम्** उपनिषदः, आत्मज्ञानपरत्वेनासां प्राधान्यात् पृथग् उपदेशः ॥ २.१६५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-165	An Aryan must study the whole Veda together with the Rahasyas, performing at the same time various kinds of austerities and the vows prescribed by the rules (of the Veda).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **तपोविशेषैर्** अग्नीन्धनभैक्षचरणादिभिः । उक्तैर् वक्ष्यमाणैश् च ब्रह्मचारिणः धर्मैर् यमनियमाख्यैस् तत्प्रकरणोपदेशसामर्थ्याद् विविधैर् अनेकाकारैः । तपोविशेषणम् इदम् । व्रतैश् च प्रतिवेदं गृह्यशास्त्रोक्तैः संस्कृतात्मना ब्रह्मचारिणा वेदो मन्त्रब्राह्मणाख्यो ऽधिगन्तव्य इति वेदस्वीकरणपर्यायः । तस्य विशेषणम् । कृत्स्नः साङ्ग इत्य् अर्थः । कथं पुनर् एतत् गम्यते । एवं कृत्स्नत्वं **[८९]** वेदस्य न पुनर् ब्राह्मणापेक्षस्य मन्त्रस्येत्य् उच्यते । मन्त्रब्राह्मणयोर् वेदनामधेयत्वाद् एकदेशत्वाभिधानं युक्तं वेदशब्देनासति सामर्थ्ये यतश् च साङ्गस्य समर्थत्वं मन्त्रब्राह्मणराशेर् वेदाख्यस्य पुरुषार्थक्रियायां न केवलस्य । अतश् च गम्यते । साङ्गः कृत्स्नो निरपेक्षत्वाद् उच्यते । तथा पदभाष्यम् इदं स्मृतिनिबन्धनम् एव- "ब्राह्मणेन निष्कारणं षडङ्गो वेदो ऽध्येतव्यः" इति । सरहस्य इति तद्विशेषणम् एव । किं पुनस् तद्रहस्यम् । वेदार्थक्रियाविज्ञानम् । कुतः पुनर् एतद् विज्ञानस्योपनिषच्छब्दार्थत्वम् । सामर्थ्याद् रहस्यब्राह्मणस्य च वेदशब्देन ग्रहणात् । पुनस् तदभिधानम् अयुक्तम् अङ्गानां च कृत्स्नग्रहणेनाविरोधाद् अशास्त्रार्थत्वाद् (?) अन्यार्थसम्भवाच् च । रहस्यशब्दस्य विषयत्वम् अयुक्तम् । यतो यथोक्त एवास्यार्थश् चोद्यते । नन्व् अङ्ङाधिगमोपदेशाद् एवैतत् सिद्धं सरहस्य इति । पदार्थान्तरत्वाद् अध्यय्नात् तद्विज्ञानाधिगमस्यासिद्धम् । अतो यत्नान्तरार्थो ऽयम् उपदेशः । विषयान्तरयुक्तं **सरहस्य** इत्य् अभ्यनुज्ञापदेन वायम् उपदेशः आदरार्थकत्वे (?) कर्माधिकारसामर्थ्याद् अधीतश्रुतवेदस्य श्रुतिलिङ्गानि च "विद्वान् यजते, विद्वान् याजयति" इति । सैषा कृत्स्नवेदाध्ययनस्मृतिर् एकवेदाध्ययन एव कृतार्थाध्येतुः । तथा चैकवचनं **वेद** इति । एवं च वक्ष्यति-
@@ -841,6 +841,11 @@ study of the Veda, to the best of his ability; one should recite it, teach it to
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/166_vedam_eva.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+166	Let a Brahmana who desires to perform austerities, constantly repeat the Veda; for the study of the Veda is declared (to be) in this world the highest austerity for a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The best of Brāhmaṇas, desiring to acquire piety, should constantly repeat the Veda; because for the Brāhmaṇa, Veda-repeating is declared to be the highest penance on earth.—(100)
@@ -895,11 +900,6 @@ See Comparative notes for [Verse 2.165].
 प्रसङ्गात् यावज्जीवम् अध्ययनधर्मम् आह **वेदम्** इति । **तपः **यमनियमादि कर्तुम् इच्छन् ब्राह्मणः **वेदम् एव **यावज्जीवम् **अभ्यस्येत् **। यस्माद् **वेदाभ्यासः **तस्य तपो ऽन्तरेभ्यः प्रकृष्टं **तपः **शास्त्रे उच्यते । द्विजोत्तमस्य ग्रहणं (द्विजपर्दर्शनार्थम्) त्रयाणां प्रदर्शनार्थम् । प्रकृतत्वाद् एवार्थवादः ॥ २.१६६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-166	Let a Brahmana who desires to perform austerities, constantly repeat the Veda; for the study of the Veda is declared (to be) in this world the highest austerity for a Brahmana.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 "वेदः कृत्स्नो ऽधिगन्तव्यः" (म्ध् २.१६५) इति श्रुतस्य विधेः स्तुत्यर्थवादः । प्रकरणाच् च ब्रह्मचारिणो ऽयम् उपदेशः **सदा**ग्रहणाद् द्विजातिधर्म एव विज्ञेयः । नित्यप्रायश्चित्तार्थं वा **सदा**ग्रहणम् । तथा च वाजसनेयकं ब्राह्मणम् इमम् एवार्थम् अनुवदति ।
@@ -917,6 +917,11 @@ See Comparative notes for [Verse 2.165].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/167_A_haiva.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+167	Verily, that twice-born man performs the highest austerity up to the extremities of his nails, who, though wearing a garland, daily recites the Veda in private to the utmost of his ability.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It is said that that twice-born man, who, even though garlanded, recites the Veda daily to the best of his capacity, undergoes the highest penance to his very nail-tips.—(167)
@@ -987,11 +992,6 @@ trees, so does one knowing the Veda burn all the evil in one’s self.’
 > तद्दानं चैव शिष्येभ्यो वेदाभ्यासो हि पञ्चधा ॥ २.१६७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-167	Verily, that twice-born man performs the highest austerity up to the extremities of his nails, who, though wearing a garland, daily recites the Veda in private to the utmost of his ability.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **आ**न्दो? (**आ**शब्दो?) नखाग्रपदे नाभिसम्बन्धः । **ह**शब्द ऐतिह्यार्थः (?) । **एव**शब्दो ऽवधारणे । वाक्यार्थं ब्रूमः । **आ नखाग्रेभ्यः** एष **तपस् तप्यते** **यः स्वाध्यायम् अधीत** । वेदम् **[९०]** अभ्यस्यतीत्य् अर्थः । एवं हि श्रूयते स्वाध्यायप्रशंसाप्रकरणे- "यदि ह वा अप्य् अभ्यक्तो (?) ऽलङ्कृतः मुखे शयने शयानः स्वाध्यायम् अधीत आहैव स नखाग्रेभ्यः तपस् तप्यते । य एवं विद्वान् स्वाध्यायम् अधीते," "तस्मात् स्वाध्यायो ऽध्येतव्यः" इति । स एषो ऽपरेण प्रकारेण स्तुत्यतिशयो वेदितव्यः प्रकृतस्य वेदाभ्यासस्य । येन विदुर् इन्द्रियत्वान् नखाग्रेणान्नास्ति स तालदुख्खं (?) यः **स्रग्वी** । विप्रतिषिद्धा चरणेनापि वेदो ऽध्येतव्य इति स्तुतिपरम् एतन् न विध्युपदेशनिदर्शनार्थं चैतत् **स्रग्वि**ग्रहणं सर्वाध्ययनव्यतिक्रमाणां वेदितव्यम् । तथा च ब्राह्मणम् उदाहृतम् । "वेदः कृत्स्नो ऽधिगन्तव्यः" (म्ध् २.१६५) इत्य् अनेन साङ्गवेदाध्ययनानुपूर्वम् अर्थात् प्राप्तम् इदं नियम्यते –
@@ -1009,6 +1009,11 @@ trees, so does one knowing the Veda burn all the evil in one’s self.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/168_yo.anadhItya.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+168	A twice-born man who, not having studied the Veda, applies himself to other (and worldly study), soon falls, even while living, to the condition of a Sudra and his descendants (after him).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born man, who, not having learnt the veda, labours over other things, soon falls, along with his descendants, even while living, to the state of the śūdra.—(168)
@@ -1084,11 +1089,6 @@ should not study any other science, except the Vedic Subsidiaries.’
 **य** इति । **यो द्विज **उपनीतः सन् **वेदम् **अगृहीत्वैवाङ्गादौ यत्नं **कुरुते स** वेदानभिज्ञत्वात् आत्मपुत्रादिसंस्काराकरणेन **जीवन्न् एव सान्वयः** क्षिप्रं **शूद्र**तुल्यतां प्राप्नोति । द्विजग्रहणाच् च वेदमिश्रवेदाङ्गाध्ययने अनुपनीतस्य निषेधः । तथा च “नाभिव्याहारयेद् ब्रह्म” इति वेद एव निषेधो भविष्यति ॥ २.१६८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-168	A twice-born man who, not having studied the Veda, applies himself to other (and worldly study), soon falls, even while living, to the condition of a Sudra and his descendants (after him).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उपनीतस्यायं नियम उच्यते । एवं सति प्रागुपनयनाद् अङ्गाध्ययनस्याप्रतिषेधं <u>केचिद्</u> आहुः । <u>वयं</u> च (?) "तपोविशेषैः" (म्ध् २.१६५) इत्येवमादिवचनसामर्थ्यात् प्रकरणाच् चोपनीतस्य सतः साङ्गवेदाध्ययने नियमेन प्राप्ते ऽयं नियम आरभ्यते इति मन्यामहे । एवं च व्यतिक्रमनिन्दैषा "**स जीवन्न् एव शूद्रत्वम् आशु गच्छति सान्वयः**" इति अध्ययनस्तुत्यर्था । स्तुतिनिन्दाभ्यां च विधिप्रतिषेधवाक्यानुमानं लोकवद् अत्र शास्त्रे वेदितव्यम् । वेदाध्यननाधिकारसामान्याच् च **शूद्रत्वम् आशु** **गच्छती**त्य् उच्यते । **सान्वय** इति निन्दातिशयः प्रकृतार्थस्तुत्यतिशयार्थाच् च । वेदाध्ययनाधिकारप्रयोजनम् इदं ब्रह्मजन्म स्तौति ।
@@ -1123,6 +1123,11 @@ _द्विजातीनां तत्र तत्राधिकार�
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/169_mAtur_agre.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+169	According to the injunction of the revealed texts the first birth of an Aryan is from (his natural) mother, the second (happens) on the tying of the girdle of Munga grass, and the third on the initiation to (the performance of) a (Srauta) sacrifice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 According to the directions of the Revealed Word, the first birth of the twice-born man is from the mother, the second, after the Ggirdle-tying ceremony, and the third, after sacrificial initiation.—(169)
@@ -1185,11 +1190,6 @@ and the Vaiśya are born from their mother; for the second time, out of the gird
 इदानीं वेदाध्ययनम् एव तस्करणस्तुतिद्वारेण स्रोतम् इदम् आह **मातुर् अग्रे ऽधिजननम्** इति । **मातुः** सकाशात् प्रथमं पुरुषस्य जन्म । **द्वितीयं** मेखलानिबन्धनम् । **तृतीयं **यागार्थं **दीक्षा**काले **द्विजस्य **सतः, “पुनर् वा एतम् ऋत्विजो गर्भं कुर्वन्ति यद् दीक्षयन्ति” इत्य् एवं श्रुतिचोदनात् ॥ २.१६९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-169	According to the injunction of the revealed texts the first birth of an Aryan is from (his natural) mother, the second (happens) on the tying of the girdle of Munga grass, and the third on the initiation to (the performance of) a (Srauta) sacrifice.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **मातुर् अग्रे ऽधिजननम्** इतीदं योनिजन्मनः सम्भवेन मातृप्रदर्शनान् न निन्दावचनं ब्रह्मजन्मस्तुत्यर्थं प्रकृतत्वाद् अत्र स्तुतिश् च वेदाध्यय्नहेतुत्वाद् अस्य । अत्र दृष्टान्तम् आह- यथा च यज्ञदीक्षा जन्मोत्कर्षप्रयोजनं न सत्तामात्रम् । एवम् इदम् अपि ब्रह्मजन्म । इत्य् एवं च प्रनाडिकया प्रकृतार्थस्तुतिः । जन्म च मातापितृकहेतुकं दृष्टम् । यतो यत्र ब्रह्मजन्मापि मातापितरौ कल्पयति प्रकृतस्य व्यवहितस्य वा स्तुत्यर्थम् एव । तत्र –
@@ -1207,6 +1207,11 @@ and the Vaiśya are born from their mother; for the second time, out of the gird
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/170_tatra_yad.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+170	Among those (three) the birth which is symbolised by the investiture with the girdle of Munga grass, is his birth for the sake of the Veda; they declare that in that (birth) the Sivitri (verse) is his mother and the teacher his father.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among these, at that Brahmic birth which is. marked by the tying of the girdle, the Sāvitrī has been declared to be his “Mother,” and the Teacher his “Father.”—(170)
@@ -1262,11 +1267,6 @@ whereat the Sāvitrī is the *mother*, and the Teacher the *father*
 **तत्रेति** । यस्मिन् जन्मत्रयमध्ये यत् **ब्रह्म**ग्रहणार्थं पुंसो **जन्म** मेखलाबन्धनोपलक्षणार्थं **तस्य माता सावित्री पिता **पुनः **आचार्यः** वक्ष्यते इति रूपकभङ्ग्या जन्म समर्थयते ॥ २.१७० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-170	Among those (three) the birth which is symbolised by the investiture with the girdle of Munga grass, is his birth for the sake of the Veda; they declare that in that (birth) the Sivitri (verse) is his mother and the teacher his father.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 आदौ कारणम् (?) आह ।
@@ -1297,6 +1297,11 @@ _मौञ्जीबन्धनचिह्नितम् इत्य् �
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/171_vedapradAnAd_AchAryam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+171	They call the teacher (the pupil's) father because he gives the Veda; for nobody can perform a (sacred) rite before the investiture with the girdle of Munga grass.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They call the Teacher “father,” on account of his imparting the Veda. Before the tying of the girdle, the performance of no religious act is proper for him.—(171)
@@ -1375,11 +1380,6 @@ actions of the boy.’
 **वेदप्रदानाद् **इति । **वेदा**ध्यापनाद् **आचार्यं पितरम्** अस्याहुः यस्मात् तस्मिन् उपनयनात् प्राक् किञ्चिद् उत्कर्षहेतुभूतं **कर्म** अध्ययनादि **न युज्यते **। एवं च प्राग् उपनयनाद् अजातसमत्वात् युक्तं **वेदप्रदाने**नार्यजन्मत्वम् ॥ २.१७१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-171	They call the teacher (the pupil's) father because he gives the Veda; for nobody can perform a (sacred) rite before the investiture with the girdle of Munga grass.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अध्ययनादि । सैषा प्रकृतार्थस्तुतिर् अपरेण प्रकारेण । तथा चेदम् आह – स्वधाभिर् व्याहारप्रतिप्रसवार्थम् एव प्रति सत् (एवं सति तत् – ?) ।
@@ -1401,6 +1401,11 @@ actions of the boy.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/172_nA-bhivyAhArayed_brahma.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+172	(He who has not been initiated) should not pronounce (any) Vedic text excepting (those required for) the performance of funeral rites, since he is on a level with a Sudra before his birth from the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should hot pronounce Vedic texts, apart from the Svadhā-offering; because so long as he is not born in the Veda, he is equal to a śūdra.—(172)
@@ -1479,11 +1484,6 @@ he likes, short of committing degrading sins.’
 एवं च प्राग् उपनयनाद् अध्ययनप्रतिषेधे सति प्रतिप्रसवम् आह **नाभिव्याहारयेद्** इति । स्वधाशब्दाख्यमन्त्रसाधनं कर्म निनीयते पितॄन् प्रति प्राप्यते येन तत् **स्वधानिनयनम्**, पित्र्यं कर्म तद् वर्जयित्वा न वेदम् उदाहारयेत् । यस्मात् वेदनिमित्तं **यावन् न जायते** यावद् उपनीतस् तावत् शूद्रतुल्यो ऽसौ । एतद् एव ज्ञापकम् उपनीतपितृप्रसवे (अनुपनीतपितृमरणे) सत्य् एकोद्दिष्टं श्राद्धादिकरणाधिकारस्य ॥ २.१७२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-172	(He who has not been initiated) should not pronounce (any) Vedic text excepting (those required for) the performance of funeral rites, since he is on a level with a Sudra before his birth from the Veda.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तथा च स्मृत्यन्तरम्- "प्राग् उपनयनात् कामचारवादभक्षः" (ग्ध् २.१) इति । अपरे (?) "**नाभिव्याहरेद्**" इति प्रकृत्यन्तेन हरतिं पठन्ति । तद् अयुक्तं स्मृत्यन्तरसामर्थ्यात्- "न ब्रह्माभिव्याहारेद् अन्यत्र स्वधानिनयनात्" (ग्ध् २.९) इति । तस्मात् ण्यन्तेन हरतिर् उक्तः । पितुर् अयम् उपदेशः न कुमारस्य । अस्तु वा कुमारस्य, प्रकृत्यन्तेन यदि शास्त्रदोषो नास्ति । इदानीं "तत्र यद् ब्रह्मजन्मास्य मौञ्जीबन्धनचिह्नितम्" (म्ध् २.१७०) इत्येवमादिभ्यो लिङ्गेभ्य उपनयनान्तरम् अस्य ब्रह्मचारिणा वेदाध्ययने प्राप्ते इदं क्रमविध्यनुष्ठानार्थम् आरभ्यते –
@@ -1501,6 +1501,11 @@ he likes, short of committing degrading sins.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/173_kRtopanayanasyA-sya_vratAdeshanam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+173	The (student) who has been initiated must be instructed in the performance of the vows, and gradually learn the Veda, observing the prescribed rules.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the boy whose initiatory rite has been performed, instruction regarding; observances is considered desirable; as also the getting up of the Veda, in due course, according to the prescribed rule.—(173)
@@ -1587,11 +1592,6 @@ of all instruct him regarding cleanliness, course of conduct, fire-tending, the 
 **कृतोपनयनसेति **। उपनीतस्य सतो ऽस्य आदौ स्वशास्त्राचोदितसावित्रादिव्रतोपदेश **इष्यते** । तत उक्तरूपवेदाध्ययनं स्वशाखागतमन्त्रब्राह्मणाध्ययनं क्रमेणोक्तं प्राणायामादिपूर्वकम् ॥ २.१७३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-173	The (student) who has been initiated must be instructed in the performance of the vows, and gradually learn the Veda, observing the prescribed rules.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 [एद्. चोम्मेन्त्- इदं पद्यं ४.८० सङ्ख्याकपद्यस्य व्याख्यायाम् उद्धृतम् । तत्र प्रथमपादे "कृतोपनयनस्यास्य" इत्य् अत्र "न चा[प्य?]नुपनीतस्य" इति पाठः]
@@ -1611,6 +1611,11 @@ of all instruct him regarding cleanliness, course of conduct, fire-tending, the 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/174_yady_asya.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+174	Whatever dress of skin, sacred thread, girdle, staff, and lower garment are prescribed for a (student at the initiation), the like (must again be used) at the (performance of the) vows.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That skin, that sac red thread, that girdle, that staff and that garment, which has been prescribed for one, stand during the observances also.—(174)
@@ -1659,11 +1664,6 @@ This verse is quoted in *Aparārka* (p. 58), which explains ‘*vrateṣu*’ as
 **यद्** इति । **यस्य **ब्रह्मचारिणो **यज्**जातीयानि **चर्मो**वीत**मेखलादण्ड**वस्त्राण्य् उपनयने उक्तानि तज्जातीयान्य् एव नान्यानि प्रतिव्रतम् उपादेयानि । पूर्वोपात्तानां धारणोपदेशात् पुनस् तद्विधानम् अनर्थकम् इति तज्जातीयान्य् अन्यानि प्रतीयते । पूर्वेषां च कार्यानुपयोगात् विनष्टतुल्यत्वे सति अप्सु प्रास्येति प्रतिपत्तिः ॥ २.१७४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-174	Whatever dress of skin, sacred thread, girdle, staff, and lower garment are prescribed for a (student at the initiation), the like (must again be used) at the (performance of the) vows.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं च व्रतादेशने पूर्वेषाम् उत्सर्गं कृत्वा तान्य् अस्या [१ अक्ष् उन्च्लेअर्]पादेयानि । न तु तान्य् एव धार्याणि । प्रतिपत्तिनियमश् च तेषां कृत एव – शास्त्रमेखला अजिनं दण्डम् इत्येवमादि च । प्रकरणाच् च **[९२]** ब्रह्मचारिण इदम् अन्यद् उच्यते यमनियमोपदेशन्यायार्थम् ।
@@ -1685,6 +1685,11 @@ This verse is quoted in *Aparārka* (p. 58), which explains ‘*vrateṣu*’ as
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/175_sevetemAMs_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+175	But a student who resides with his teacher must observe the following restrictive rules, duly controlling all his organs, in order to increase his spiritual merit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 With a view to enhancing his own piety, the Rreligious Student should, while living with his Teacher, observe all these rules,—having fully subjugated all his organs.—(175)
@@ -1784,11 +1789,6 @@ attend diligently on his Teacher; the same conduct has to be observed by him tow
 **सेवेतेति** । **ब्रह्मचारी **गुरुकुले **वसन् इन्द्रियग्रामम्** इन्द्रियसमूहं **नियम्य आतमस् तपोवृद्ध्यर्थं इमान् **यम**नियमान् **अनुतिष्ठेत् ॥ २.१७५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-175	But a student who resides with his teacher must observe the following restrictive rules, duly controlling all his organs, in order to increase his spiritual merit.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **नियम**ग्रहण(ं)? प्रदर्शनार्थम् । तथा च तान् अपि वक्ष्यति । नियमास् तावद् इमे तस्य भवन्ति ।
@@ -1816,6 +1816,11 @@ _तानीदानीं पूर्वेण प्रतिज्ञा�
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/176_nityaM_snAtvA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+176	Every day, having bathed, and being purified, he must offer libations of water to the gods, sages and manes, worship (the images of) the gods, and place fuel on (the sacred fire).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Every day, having bathed and become clean, he should make offerings to deities, Sages and Fathers, and do the worshipping of the deities and the placing of fuel.—(176)
@@ -1950,11 +1955,6 @@ self under control, he shall avoid sleeping and sitting on the couch, and the cl
 **नित्यम्** इति । प्रत्यहं **स्नात्वा शुचिः **देवानां महेश्वरादीनाम् अङ्गिरःप्रभृतीनाम् ऋषीणां च प्रमीतानां च पित्रादीनाम् उदकदानं कुर्यात् । तथा देवतानां हरादीनां पुष्पादिनार्चनं सायम्प्रातर् अग्नि**समिदाधानं** च **कुर्यात्** ॥ २.१७६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-176	Every day, having bathed, and being purified, he must offer libations of water to the gods, sages and manes, worship (the images of) the gods, and place fuel on (the sacred fire).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **नित्य**ग्रहणम् आदरानुवादार्थं जातिधर्मार्थं वा । क्रमार्थं च **समिदाधानस्य** ग्रहणं नापूर्वविध्यर्थम् । नियमास् तु –
@@ -1972,6 +1972,11 @@ self under control, he shall avoid sleeping and sitting on the couch, and the cl
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/177_varjayen_madhu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+177	Let him abstain from honey, meat, perfumes, garlands, substances (used for) flavouring (food), women, all substances turned acid, and from doing injury to living creatures.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should abstain from honey, meat, scent, garland, flavours, women, all fermented acids and also the killing of living creatures.—(177)
@@ -2115,11 +2120,6 @@ shall not cleanse his teeth; the leavings of his teacher also he shall use as a 
 **वर्जयेद्** इति । माक्षिकमांसमाल्यस्त्रीप्राणिहिंसनानि **वर्जयेत् **तथा **गन्ध**वद् द्रव्यं कर्पूरादि उद्रिक्तरसं च गुडादि । मधुनो रसशब्दग्रहणे ऽपि प्रायश्चित्तविशेषार्थं पृथग् उपदेशः । **शुक्तानि यानि **प्राप्तस्वरसानि कालपरिवासेनोदकादिद्रव्यान्तरकालपरिवासाभ्यां चाम्लीभवन्ति । **सर्व**ग्रहणं पादपूरणम् । न त्व् अस्यार्थान्तरग्रहणे सामर्थ्यम् अस्ति । यत् तु गौतमीये “शुक्ता वाच” इति तत् वाक्शब्दसन्निधानात् शुक्तशब्दस्यार्थान्तरवृत्तित्वम् । इह चैवमभिप्रेते बुद्धिपूर्वकारी शुक्लाश् चैव गिरः सर्वा इत्य् एवम् अवेक्षते । यद्य् अपि “सर्वशुक्तानि चैवेह” इत्य् अनेन ब्रह्मचारिणो ऽपि प्रतिषेधसिद्धिः तथापीहाभिधानं स्वाध्यायाङ्गत्वार्थम् । एतेन प्रतिषेधेन भक्षणे पुरुषार्थो ऽतिक्रममात्रं स्यात् न विधिवैगुण्यं का वा गतिर् अनृतहिंसादिप्रतिषेधानाम् । पुनर् अभिधानस्यात्र चोपभोगार्थं मांसादिप्रतिषेधो न औषधार्थः । तथा च वसिष्ठेन सा “चान्याधीयीत कामाद् गुरोर् उच्छिष्टं भेषजार्थं प्राश्नीयात्” इति मांसाद्यभ्यनुज्ञानम् ॥ २.१७७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-177	Let him abstain from honey, meat, perfumes, garlands, substances (used for) flavouring (food), women, all substances turned acid, and from doing injury to living creatures.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **मध्व्**आदीनाम् अत्रोपभोग[ः?] स्तुत्यर्थः ? । **शुक्तं** परुषवचनम् । हिंसा च ज्ञाशुष्कस्य (?) गतरसस्य प्रकरणे प्रतिषिद्धत्वाद् इमानि वचांसि प्रतियोरन्ने(?) पञ्चरसं (?) प्रतिषेधो ऽर्थत्वात् भवति । तथा च श्रौतम् (सूत्रम्?): शुक्ता वाचः" (ग्ध् २.१९) इति । किं चान्यत् –
@@ -2137,6 +2137,11 @@ shall not cleanse his teeth; the leavings of his teacher also he shall use as a 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/178_abhyangam_anjanam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+178	From anointing (his body), applying collyrium to his eyes, from the use of shoes and of an umbrella (or parasol), from (sensual) desire, anger, covetousness, dancing, singing, and playing (musical instruments),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From anointing, applying collyrium to the eyes, shoes, holding the umbrella, attachment, anger, avarice, dancing, singing and playing on musical instruments.—(178)
@@ -2204,11 +2209,6 @@ See Comparative notes for [Verse 2.177].
 **अभ्यङ्गम्** इति । **अभ्यङ्गम् अञ्जन**घृताद्यभ्यञ्जन्**ओपानच्छत्रधारणकामक्रोध**-परद्रव्यादि**गीतवादनानि** वर्जयेत् । **कामः **भोजनाद्यभिलाषातिशयः । मन्मथस्य स्त्रीग्रहणेन निषिद्धत्वात् ॥ २.१७८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-178	From anointing (his body), applying collyrium to his eyes, from the use of shoes and of an umbrella (or parasol), from (sensual) desire, anger, covetousness, dancing, singing, and playing (musical instruments),
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अभ्यङ्गाञ्जन**(?)प्रतिषेधो ऽयं निषेधाद् अञ्जनस्य सामर्थात् (?) । स्त्रीप्रतिषेधात् **काम**प्रतिषेधः । पुनर् अन्यार्थम् । अर्थप्राप्तानां चैषां प्रतिषेधः ।
@@ -2226,6 +2226,11 @@ See Comparative notes for [Verse 2.177].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/179_dyUta~n_cha.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+179	From gambling, idle disputes, backbiting, and lying, from looking at and touching women, and from hurting others.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From gambling, quarelling with people, calumniating, and also lying; prom gazing at and touching of women, and prom the injuring op others.—(179)
@@ -2301,11 +2306,6 @@ going on.’
 **द्यूतम्** इति । अक्षादिक्रीडां जनैः सह कलहं परदोषादिकीर्तनम् असत्यं च स्त्रीणां च मैथुनसेवाशङ्कयालिङ्गनं परस्य च अर्थनाशाद्युपघातं च वर्जयेत् ॥ २.१७९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-179	From gambling, idle disputes, backbiting, and lying, from looking at and touching women, and from hurting others.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **स्त्रीणां च प्रेक्षणालम्भम्** इति भावचक्षुर्निरपातके न (??) स्पर्शने ऽस्य प्रतिषिध्येते । आरम्भप्रयोजनम् उक्तम् ।
@@ -2331,6 +2331,11 @@ going on.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/180_ekaH_shayIta.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+180	Let him always sleep alone, let him never waste his manhood; for he who voluntarily wastes his manhood, breaks his vow.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should always sleep alone; nowhere should he allow his manhood to run out; by intentionally allowing his manhood to run out, hr breaks his vow.—(180)
@@ -2380,11 +2385,6 @@ couch and teeth-cleansing should be avoided; he should sleep alone, on kuśa-gra
 **एक** इति । नान्येन सह **शयीत । सर्वत्र** गुरुगृहे पितृगृहादौ । न च स्त्रीप्रयोगात् प्रकारान्तरेणापि रेतः प्रक्षारयेत् **क्वचिद्** अयोनाव् अपि । यस्माद् बुद्धिपूर्वं **रेतः** **स्कन्दयन्** आत्मनो ब्रह्मचर्यं खण्डयति ॥ २.१८० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-180	Let him always sleep alone, let him never waste his manhood; for he who voluntarily wastes his manhood, breaks his vow.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अस्य व्यतिक्रमस्य प्रायश्चित्तम् अप्रकरणे ऽप्य् आदरार्थम् ।
@@ -2402,6 +2402,11 @@ couch and teeth-cleansing should be avoided; he should sleep alone, on kuśa-gra
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/181_svapne_siktvA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+181	A twice-born student, who has involuntarily wasted his manly strength during sleep, must bathe, worship the sun, and afterwards thrice mutter the Rik-verse (which begins), 'Again let my strength return to me.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born religious student, haying unintentionally dropped his manhood during a dream, should thrice recite the three vedic verses beginning with “punarmām,” after having bathed and worshipped the sun.—(181)
@@ -2463,11 +2468,6 @@ semen during a dream shall bathe, look at the Sun and repeat the Gāyatrī a hun
 **स्वप्न** इति । (यत्) **द्विजो ब्रह्मचारी **अबुद्धिपूर्वं **स्व्प्ने **रेत उत्सृज्य **स्नात्वार्कं **पुष्पादिना **अर्जयित्वा **त्रीन् वारान् “**पुनर् माम् एत्व् इन्द्रियं”** इत्य् एताम् **ऋचं जपेत्** । अस्य प्रायश्चित्तस्य प्रकरणोत्कर्षो रेतःसंरक्षणनियमान्तरेभ्यो ब्रह्मचारिणो गुरुत्वप्रख्यापनार्थः ॥ २.१८१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-181	A twice-born student, who has involuntarily wasted his manly strength during sleep, must bathe, worship the sun, and afterwards thrice mutter the Rik-verse (which begins), 'Again let my strength return to me.'
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **ब्रह्मचारि**ग्रहणं प्रकरणाच् च तस्यैवेदम् । व्यतिक्रमे प्रायश्चित्तं नेतरेषाम् । नियमास् तु तस्य –
@@ -2485,6 +2485,11 @@ semen during a dream shall bathe, look at the Sun and repeat the Gāyatrī a hun
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/182_udakumbhaM_sumanaso.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+182	Let him fetch a pot full of water, flowers, cowdung, earth, and Kusa grass, as much as may be required (by his teacher), and daily go to beg food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should fetch the jar of water, flowers, cowdung, earth and kuśa-grass,—as much as may be required; and day by day he should beg for alms.—(182)
@@ -2555,11 +2560,6 @@ carrying of the staff, fetching of fuel, bathing in water, and morning-salutatio
 **उदकुम्भम्** इति । **उदकुम्भ**पुष्पगोमयमृद्दर्भान् गुर्वात्मनोः यावत्प्रयोजनम् आनयेत् **भैक्षं** प्रत्यहं **चरेत् **। नैकदिनाहृतेन पर्युषितेन स्नेहानियम [स्नेहयुक्त] शुक्तादिना परेद्युर् वर्तेत ॥ २.१८२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-182	Let him fetch a pot full of water, flowers, cowdung, earth, and Kusa grass, as much as may be required (by his teacher), and daily go to beg food.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 आचार्यार्थम् आत्मार्थम् उभयार्थं च वा भैक्षस्य प्रत्यहं ग्रहणोपदेशः । कालान्तरावस्थायिनो भैक्षभोजनस्य प्रतिषेधार्थम् उत्तरविवक्षार्थं च । तेभ्यः पुनस् तद् भक्षम् –
@@ -2585,6 +2585,11 @@ _येभ्यो भैक्षम् आसादयितव्यं त�
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/183_veda-yajnair_ahInAnAm.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+183	A student, being pure, shall daily bring food from the houses of men who are not deficient in (the knowledge of) the Veda and in (performing) sacrifices, and who are famous for (following their lawful) occupations.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Religious Student, being pure, should fetch alms daily from the houses of persons who are not devoid of Veda and sacrifices, and who are famed for their deeds.—(183)
@@ -2666,11 +2671,6 @@ from the right sources, he may heg from all the four castes.’
 **वेदयज्ञैर्** इति । वेदवेदार्थानुष्ठानयुक्तानां **स्वकर्मसु** च वृत्त्यर्थेषु अध्यापनादिषु **प्रशस्तानां** स्ववृत्त्या जीवतां **गृहेभ्यो ब्रह्मचारी **शुचिः सन् प्रत्यहं **भैक्षम् आहरेत् **॥ २.१८३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-183	A student, being pure, shall daily bring food from the houses of men who are not deficient in (the knowledge of) the Veda and in (performing) sacrifices, and who are famous for (following their lawful) occupations.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **प्रयतश्** चित्तवाक्चक्षुर्भिः । अयं भैक्षचरणस्य द्विजातिभ्य आद्यः कल्पः । तस्य विशेषणम् ।
@@ -2688,6 +2688,11 @@ from the right sources, he may heg from all the four castes.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/184_guroH_kule.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+184	Let him not beg from the relatives of his teacher, nor from his own or his mother's blood-relations; but if there are no houses belonging to strangers, let him go to one of those named above, taking the last-named first;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should not beg for food from his Teacher’s family; nor from the family of his paternal or maternal relations. But when other houses are not available, he should avoid the preceding in preference to the succeeding.—(184)
@@ -2750,11 +2755,6 @@ into the Fire;—in *Vīramitrodaya* (Saṃskāra, p. 448), where ‘*dūrāt*�
 **गुरोर्** इति । गुरुगृहे **न भिक्षेत **। तथा आत्मनः पितृमातृगृहेषु । यदि पुनर् एतद्व्यतिरिक्तगृहेभ्यो न लभ्यते **पूर्वं पूर्वं **परिहरेत् । प्रथमं बन्धुगृहे भिक्षेत । तदलाभे गुरुगृहे ॥ २.१८४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-184	Let him not beg from the relatives of his teacher, nor from his own or his mother's blood-relations; but if there are no houses belonging to strangers, let him go to one of those named above, taking the last-named first;
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **गुरोः** **कुल**प्रतिषेधः गुरुकुलाद् अप्य् अभियाचनम् अर्थसिद्धम् । अथ वा **गुरुकुलम्** एव **गुरुकुल**शब्देनाभिधीयते । **ज्ञातिकुलं** तु ब्रह्मचारिणः । गुरोर् वा सगोत्रकुलं मातृपितृतुष्यसम्बन्धानाम् (?) **अलाभे ऽयगेहानाम्** इत्य् असम्बन्धश्रोत्रियगेहानां गुर्वादीनां **पूर्वस्य्स् पूर्वस्य** वर्जनम् । शास्त्रप्राप्तस्यायं नियमः । अयं चानुकल्पः पूर्वाभावे ।
@@ -2772,6 +2772,11 @@ into the Fire;—in *Vīramitrodaya* (Saṃskāra, p. 448), where ‘*dūrāt*�
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/185_sarvaM_vApi.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+185	Or, if there are no (virtuous men of the kind) mentioned above, he may go to each (house in the) village, being pure and remaining silent; but let him avoid Abhisastas (those accused of mortal sin).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the event of al the afouesaid being not available, he may wander over the whole village, remaining pure and having his speech well-controlled; but he should avoid persons of ill-repute.—(185)
@@ -2818,11 +2823,6 @@ only raw food, that also just enough for one night.’
 **सर्वम्** इति । बन्धुगृहादिभ्यो ऽप्य् अलाभे चातुर्वर्ण्यादिष्व् आहरेत् । स जितेन्द्रियः सन् भिक्षावाक्यवर्जं मौनं **अभिशस्तान् **पुनः पातकित्वेन प्रसिद्धान् निश्चितपातकान् दण्डापूपकया पतितांश् च **वर्जयेत् **॥ २.१८५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-185	Or, if there are no (virtuous men of the kind) mentioned above, he may go to each (house in the) village, being pure and remaining silent; but let him avoid Abhisastas (those accused of mortal sin).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **सर्व**शब्दाद् अहिनुस्तु (?) प्रतिषेधाच् चतुर्भ्यो ऽपि वर्णेभ्यो भैक्षग्रहणम् उपदिष्टम् । तथा च गौतमः- "सार्ववर्णिकं भैक्षचरणम् (?) अभिशस्तपतितवर्जम्" (ग्ध् २.३५) इति । अभिशंसनं चोपपातकं तदुक्तप्रतिषेधे स्व(?)महापातकिभ्यो दण्डापूपिकया भवति नेतरेभ्यो लघुपुत्वा (?) वायव्यमरु (?) ।
@@ -2840,6 +2840,11 @@ only raw food, that also just enough for one night.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/186_dUrAd_AhRtya.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+186	Having brought sacred fuel from a distance, let him place it anywhere but on the ground, and let him, unwearied, make with it burnt oblations to the sacred fire, both evening and morning.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having fetched fuel-sticks from a distance, he should place them in the air; and with these he should, without fail, make offerings to the fire, morning and evening.—(188)
@@ -2926,11 +2931,6 @@ in the absence of that, Khadira or Śamī or Rohitaka or Aśvattha; and in the a
 **दूराद् आहृत्येति** । अरण्यात् **समिध आहृत्येति** गृह्यदर्शनात् । दूरस्य वा अपर्यवसितत्वात् अपरिगृहीताः समिध आनीय **विहायसि** आकाशे निधानासम्भवात् गृहपटकादौ स्थापयेत् । **ताभिश्** चानलसः सन् **सायम्प्रातर् **अग्निकार्यं कुर्यात् ॥ २.१८६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-186	Having brought sacred fuel from a distance, let him place it anywhere but on the ground, and let him, unwearied, make with it burnt oblations to the sacred fire, both evening and morning.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 दूरशब्दः (?) परिगृहीतार्थः सामर्थ्यात् । **सन्निदध्यात् विहायसीति** भूसंसर्गप्रतिषेधार्थः । **समिधः** बहुसूक्ष्मप्राण्याश्रयत्वात् । भुवः प्राणिसङ्क्रान्तिसमत्स (?) मा भूद् इति ।
@@ -2948,6 +2948,11 @@ in the absence of that, Khadira or Śamī or Rohitaka or Aśvattha; and in the a
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/187_akRtvA_bhaixacharaNam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+187	He who, without being sick, neglects during seven (successive) days to go out begging, and to offer fuel in the sacred fire, shall perform the penance of an Avakirnin (one who has broken his vow).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who, without being ill, omits for seven days, to beg alms and to offer fuel to the fire, shall perform the rites prescribed for the Avakīrṇin.—(187)
@@ -3013,11 +3018,6 @@ the non-kindling of fire; one who omits these for seven days should perform the 
 **अकृत्वेति** । प्रायश्चित्तगुरुत्वात् भैक्षाग्निकार्ये समुच्चिते । कामकारेण सप्ताहानि प्रबन्धेन **अनातुरः **सन् **अकृत्वा** **अवकीर्णी **प्रायश्चित्तं एकादशे वक्ष्यमाणं **चरेत् **। कथञ्चित् पुनः प्रत्येकव्यक्तिक्रमे गौतमीयम् अग्नीन्धनभैक्षचरणे सप्तरात्रम् अकृत्वा आज्यहोमं समिधो वा रेतस्य् आभ्याम् इति । **अनातुर** इत्य् आतुरस्य प्रायश्चित्तान्तरम् । न तु प्रायश्चित्ताभावः । एतावद् यतः प्रतीयते अनातुरस्येदं प्रायश्चित्तं न त्व् आतुरस्य व्यतिक्रमो नास्ति इति । वाह्यं (न हि) तत् अनातुरः स्वानि खानि न स्पृशेत् । इतिवन् नियमवाक्यगतं विशेषणम्, येनातुरस्यानधिकार इति गम्येत । अपि तु प्रायश्चित्तविशेषणं तस्माद् आतुरस्य प्रायश्चित्तान्तरं भवत्य् एव । अस्यापि प्रायश्चित्तस्य प्रकर्षेणोत्कर्षो लाघवार्थः । तत्र हि क्रियमाणे ब्रह्मचारिग्रहणं कर्तव्यं स्यात् ॥ २.१८७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-187	He who, without being sick, neglects during seven (successive) days to go out begging, and to offer fuel in the sacred fire, shall perform the penance of an Avakirnin (one who has broken his vow).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **अकृत्वा भैक्षचरणम्** उत्थायोत्थायाव्यवहितं **सप्तरात्रम्** असमिध्य च पावकम् एव । न सर्वावस्थः । किं तर्हि । **अनातुरः** सन्न् अनयोर् अनिन्धनभक्षचरणयोः प्रत्येकव्यतिक्रमे सत्य् अयम् **अवकीर्णिव्रतं चरेत्** । चित्तेनाप्य् (?) अनाकृत इति केचित् । तद् एतद् अप्रसिद्धं विचार्यते । किम् इदं व्यतिक्रमप्रायश्चित्तोपदेशपरं वाक्यम्, यथा श्रूयते, आहो स्विद् अयं गौरवोपदेशनार्थम् । अत्रोच्यते । नेदं प्रायश्चित्तविधानम् । किं तर्हि । सप्तरात्रविध्यर्हो ऽयम् अर्थवादः, अप्रकरणात् प्रायश्चित्तस्य । नैतौ व्यतिक्रमाव् उपपातकमध्यपठितौ । नैतासाम् (?) अन्याद् इदम् अत्र प्रायश्चित्तं कथञ्चित् कल्प्येत । एवं च सत्य् अवकीर्णिग्रहणम् अस्य गुरुत्वज्ञापनार्थम् ईदृशम् एतद् अकार्यं येनावकीर्णिप्रायश्चित्तम् अत्र चरितव्यम् इति प्रायश्चित्तपक्षे ऽपि सन्ध्योपासनादिप्रतिक्रमप्रायश्चित्तोपदेशवद् अयम् अप्रकरणो ऽपि च तदुपदेशो ऽयं विज्ञेयः आदरार्थः । अस्मिंश् च पक्षे यत् <u>कैश्चिद्</u> उच्यते – "आतुरस्य सामान्यविहितं प्रायश्चित्तम् अस्ति । यदि ह्य् आतुर्सय न किञ्चित् प्रायश्चित्तं भवेन् मांसभक्षणादिष्व् अन्यतमं (?) न स्यात् । न चैतद् इष्टं नियतस्मृत्या सर्वस्य सर्वदाधिकृतत्वात् । नातुरवर्जम् अधिकार उपपद्यते । न च नित्यो ऽधिकारम् अनित्यम् आतुररं प्रेक्ष्य (?) पाक्षिकः साधयितुम् (?) । न चाग्नीन्धनभैक्ष्यचरणयोः केवलयोर् आतुरस्यादोषस्मृतिर् आकस्मिकी युक्ता" इति । <u>अत्र ब्रूमः</u> । शस्त्रलक्षणत्वाद् अधिकारस्य यथाशास्त्रम् अधिकारो विज्ञेयः, नानुमानतः । यत्र ह्य् आतुरस्याधिकारप्रतिषेधशास्त्रम् अस्ति, तत्रादौ नाधिक्रियते यथान्यत्र "नातुरो न महानिशि" (म्ध् ४.१२९), "अनातुरः स्वानि खानि" (म्ध् ४.१४४) । किं च यत्र त्व् अस्य तन् नास्ति तत्रासाव् अधिकारशास्त्राद् एव तस्मिन्न् अधिकृतो वेदितव्यः । एवं च सत्य् अत्र नास्ति यथोक्तन्यायावकाशः । यतश् चैतद् एवम् अतः –
@@ -3035,6 +3035,11 @@ the non-kindling of fire; one who omits these for seven days should perform the 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/188_bhaixeNa_vartayen.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+188	He who performs the vow (of studentship) shall constantly subsist on alms, (but) not eat the food of one (person only); the subsistence of a student on begged food is declared to be equal (in merit) to fasting.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The avowed student should subsist on alms; he should not (habitually) eat the food given by one person. for the student, subsisting on alms has been declared to be equal to fasting.—(188)
@@ -3132,11 +3137,6 @@ times of distress, habitually eat food given by a single person; at a Śrāddha 
 > यस् तस्य ग्रसते ग्रासान् तत् तस्य क्रतुभिः समाः ॥ २.११८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-188	He who performs the vow (of studentship) shall constantly subsist on alms, (but) not eat the food of one (person only); the subsistence of a student on begged food is declared to be equal (in merit) to fasting.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अत्रोच्यते । "भैक्षं चाहर् अहश् चरेत्" (म्ध् २.१८२) इति भैक्षं न वृत्तेः सिद्धत्वात् । नन्व् इदम् अनारभ्यम् । नियमार्थस् त्व् आरम्भः । कथम् । विद्यमानान्नस्यापि ब्रह्मचारिणो भैक्षेणैव वृत्तिर् यथा स्यात् । आरम्भः प्रतिग्रहादिषु इति यः शास्त्रस्यासम्भवे सति नियमस्याविद्यमानत्वाद् अथाभावः अर्थवादार्थं वा पुनः श्रुतिः- "**भैक्षेण व्रतिनो वृत्तिर् उपवाससमा स्मृता**" इति । भैक्षवृत्त्युपसंहारार्थो **[९५]** वायम् अग्नीन्धनाद् वा भैक्षस्य गुरुत्वज्ञापनार्थः पुनर् आरम्भः । प्रतिषिद्धैकान्नादनप्रतिप्रस्वार्थसमं वेदं पुनर् अभिधानम् । तथा च रभे (?) ।
@@ -3154,6 +3154,11 @@ times of distress, habitually eat food given by a single person; at a Śrāddha 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/189_vratavad_deva-daivatye.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+189	At his pleasure he may eat, when invited, the food of one man at (a rite) in honour of the gods, observing (however the conditions on his vow, or at a (funeral meal) in honor of the manes, behaving (however) like a hermit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 During a performance in honour of gods and in honour of ancestors, he may, when invited, eat freely, like an ascetic, in due accordance with his observances. by this his observances do not suffer.—(189)
@@ -3503,11 +3508,6 @@ See Comparative notes for [Verse 2.188].
 **व्रतवद्** इति । दैवे कर्मणि व्रतार्थं मध्वादिवर्जितम् । श्राद्धे च **ऋषिवत्** अरण्यनीवारादि न ग्राम्यम्, प्रार्थितः सन् (अ) **कामं **इच्छते एकान्नं समश्नीयात् । नास्यैवं कुर्वतो व्रतलोपो भवति । ऋषिशब्दश् च वसिष्ठादौ प्रसिद्धप्रयोगो न वैखानसे येन तदर्हान्नाभ्यनुज्ञाने चैकम् अप्य् उपभुञ्जीतेति मांसाशनाशङ्का स्यात् । श्राद्धभोजनस्याचाराधिकदुष्टत्वाद् **ऋषिवद्** इति नियमातिशयम् आह ॥ २.१८९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-189	At his pleasure he may eat, when invited, the food of one man at (a rite) in honour of the gods, observing (however the conditions on his vow, or at a (funeral meal) in honor of the manes, behaving (however) like a hermit.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 व्रतम् अर्हतीति **व्रतवान्** । किं त्व् अन्यमधुमांसवर्जितम् अशनं तद् अश्नीयात् । कस्मिन् । **देवदैवत्ये** । देवा देवता यस्य तद् **देवदैवत्यम्** अभ्युदयश्राद्धं तस्मिन्न् अभ्यर्थितः सन् मातामहादीनां "व्रतस्थम् अपि दौहित्रं कामं श्राद्धे नियोजयेत्" (म्ध् ३.२३४) इत्य् अनेन शास्त्रेण भुञ्जानस्यैकान्नम् अपि तत् परिवर्जितं व्रतम् अस्य न हिनस्तीति संसृतिप्रभृत्यर्था एवं च ग्रामाशनम् उत्तरत्रारण्योपदेशाद् विज्ञेयम् । पितरो देवता यस्य तत् पित्र्यं कर्मपिण्डान्वाहार्यकादिश्राद्धम् अत्रर्षिवन् मुन्यन्नम् आरण्यं यथोक्तविशेषणम् । एवं च सति न दैवपित्र्यश्राद्धाश्रयेयं ग्राम्यारण्यैकान्नदानादिव्यवस्था ब्रह्मचारिणः येन तद् इत्य् एतद् असमर्थम् । नेइषोपदेशपक्षे तापसान्नविशेषणम् । अतोपि ज्ञायते नेदम् आरण्योपदेशार्थं विशेषणं सम्भवति । एवं च कृत्वा ग्राम्य्म् आरण्यं वा यद् व्रताविरुद्धं तत् प्रार्थितः श्राद्धयोर् एवाश्नीयात् एकाह्नं नान्यत्र (?) । एवं **दैवपित्र्य**ग्रहणम् अर्थवद् भवति । केचित् तु ग्राम्यारण्याशने दैवपित्र्योर् यथोक्तविशेषणे विषयविभागेन वर्णयन्ति दैवे ग्राम्यं व्रतवत् पित्र्ये मुन्यन्नं तत् पुनर् यमन्यायम् इति विचारितं ब्रह्मचारित्रयप्रकरणम् । इदानीं ब्राह्मणवत् क्षत्रियवैश्ययोर् अपि ब्रह्मचारिणः श्राद्धैकान्नभोजने प्राप्ते इदं तत्प्रतिषेधायारभ्यत् –
@@ -3525,6 +3525,11 @@ See Comparative notes for [Verse 2.188].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/190_brAhmaNasyaiva_karmaitad.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+190	This duty is prescribed by the wise for a Brahmana only; but no such duty is ordained for a Kshatriya and a Vaisya.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This duty has been prescribed by the sages for the Brāhmaṇa only; this duty has not been so ordained for the Kṣatriya and the Vaiśya.—(190)
@@ -3569,11 +3574,6 @@ than the one cited by Medhātithi is found in Manu 3. 234—‘*Vṛatasṭhamap
 **ब्राह्मनस्येति ।** **एतद् **दैवपित्र्यैकान्नभोजनाख्यं **कर्म ब्राह्मणस्यैव **मन्वादिभिः स्मृतम् । क्षत्रियवैश्ययोः पुनः **नैतत् कर्म **ब्रुवते भैक्षस्य प्रतिग्रहप्रकारत्वे ऽपि । ब्रह्मचारित्वं च प्रकरणात् क्षत्रियवैश्ययोर् अपि । ब्रह्मचारिणो भैक्ष्यभोजनाभ्यनुज्ञाने सति तदपवादैकान्नभोजने ऽपि तयोर् अपि प्रस्तुतत्वात् प्रतिग्रहस्य च ब्रह्मचारिव्यतिरिक्तक्षत्रियविषये चरितार्थत्वात् प्राप्तौ सत्याम् एवं प्रतिषेधः ॥ २.१९० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-190	This duty is prescribed by the wise for a Brahmana only; but no such duty is ordained for a Kshatriya and a Vaisya.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 न च सिद्धम् एवेदं पूर्वत्र "यस्यास्येन सदाश्नन्ति" (म्ध् १.९५) इत्येवमाद्यैः । तदपेक्षं हि तद् विज्ञेयं प्रतिषेधविधित्वाद् अस्य ब्राह्मणस्तुतिप्रकरणोपदेशसामर्थ्याच् च । तस्येत्य् उपसंह्र्त्य ब्रह्मचारिणो वृत्तिम् इदम् अन्यत् तत्प्रकरण एवोच्यते ऽस्य ।
@@ -3591,6 +3591,11 @@ than the one cited by Medhātithi is found in Manu 3. 234—‘*Vṛatasṭhamap
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/191_chodito_guruNA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+191	Both when ordered by his teacher, and without a (special) command, (a student) shall always exert himself in studying (the Veda), and in doing what is serviceable to his teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Prompted by the Teacher, or even when not prompted, he should put forth his exertion to study, and also to doing what is helpful to the teacher.—(191)
@@ -3650,11 +3655,6 @@ teacher.’
 **नोदित** इति । **गुरुणा **नियुक्तः अनियुक्तो वा गृहीताध्ययनभागाभ्यासयत्नम् आचार्यपरिचार्यायत्नं यावद् ब्रह्मचर्यं **कुर्यात्** ॥ २.१९१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-191	Both when ordered by his teacher, and without a (special) command, (a student) shall always exert himself in studying (the Veda), and in doing what is serviceable to his teacher.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विषयार्थं पुनर् आरम्भः ।
@@ -3672,6 +3672,11 @@ teacher.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/192_sharIra~n_chaiva.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+192	Controlling his body, his speech, his organs (of sense), and his mind, let him stand with joined hands, looking at the face of his teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having under control his body and his speech, as also his organs of sensation and his hind, he should stand with joined palms, looking at the face of his Teacher.—(192)
@@ -3723,11 +3728,6 @@ free, he should request the teacher with the words, *Teach*,
 **शरीरम्** इति । देहवाक्चक्षुरादि**बुद्धीन्द्रियमनांसि नियम्य** बद्धाञ्जलिः सन् **गुरोर् मुखं वीक्ष्यमानस् तिष्ठेत्** ॥ २.१९२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-192	Controlling his body, his speech, his organs (of sense), and his mind, let him stand with joined hands, looking at the face of his teacher.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अयम् अध्ययनकाले ऽन्यदा च गुरुसन्निधौ विधिः । अयं चान्यस् तत्कालः (?) ।
@@ -3745,6 +3745,11 @@ free, he should request the teacher with the words, *Teach*,
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/193_nityam_uddhRta-pANiH.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+193	Let him always keep his right arm uncovered, behave decently and keep his body well covered, and when he is addressed (with the words), 'Be seated,' he shall sit down, facing his teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should always have his arm raised, remain well behaved, and well-guarded; when addressed with the words “be seated,” he should sit facing his teacher.—(193)
@@ -3801,11 +3806,6 @@ teacher’s right, facing either the east or the north.’
 **नित्यम्** इति । यावज्जीवं गुरुसन्निधौ वसेद् उद्धृतबाहुः सदाचारयुक्तो ऽनलसः स्यात् । गुरुणा उपविश्यताम् इति **चोक्तः सन्** **गुरोः** सम्मुखम् उपविशेत् ॥ २.१९३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-193	Let him always keep his right arm uncovered, behave decently and keep his body well covered, and when he is addressed (with the words), 'Be seated,' he shall sit down, facing his teacher.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अनुज्ञात उपविशेद् इत्य् अर्थः । अयं त्व् अपि सार्वत्रिक एव विधिः । इदं चान्यत् – व्रतदर्मम् अपि सत् सदाग्रहणाद् यावज्जीवं द्रष्टव्यम् ।
@@ -3823,6 +3823,11 @@ teacher’s right, facing either the east or the north.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/194_hInAnna-vastra-veShaH_syAt.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+194	In the presence of his teacher let him always eat less, wear a less valuable dress and ornaments (than the former), and let him rise earlier (from his bed), and go to rest later.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the peesenge of his Teacher, he should always have inferior food, dress and apparel; he should rise before him, and go to sleep later.—(194)
@@ -3892,11 +3897,6 @@ Do. Do. (1.4.28).—‘One who sleeps after and rises before the teacher is desc
 **हीनान्नवस्त्रवेष** इति । गुर्वपेक्षया संस्कारपरिमाणादिना न्यूनान्नवस्त्रालङ्कारो यावज्जीवं गुरोः सन्निधाने स्यात् । शयनाच् च गुरूत्थानात् प्राग् उत्तिष्ठेत् । तत्स्वप्नानन्तरं शयीत ॥ २.१९४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-194	In the presence of his teacher let him always eat less, wear a less valuable dress and ornaments (than the former), and let him rise earlier (from his bed), and go to rest later.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 सुषुप्सोर् अन्यत्र वायं चान्यो व्रतधर्मः ।
@@ -3914,6 +3914,11 @@ Do. Do. (1.4.28).—‘One who sleeps after and rises before the teacher is desc
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/195_pratishrAvaNa-sambhAShe_shayAno.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+195	Let him not answer or converse with (his teacher), reclining on a bed, nor sitting, nor eating, nor standing, nor with an averted face.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should not listen to and converse with (his Teacher), while lying down; nor while seated, nor while eating, nor while standing, nor with his face turned away.—(196)
@@ -3980,11 +3985,6 @@ seated or lying down, or eating, or with face turned away.’
 **प्रतिश्रवणसम्भाषे** इति । आज्ञाङ्गीकरणकार्यार्थसम्भाषणे शयितः उपविष्टः अश्नन्न् उत्थितः अनभिमुखो न कुर्यात् ॥ २.१९६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-195	Let him not answer or converse with (his teacher), reclining on a bed, nor sitting, nor eating, nor standing, nor with an averted face.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 किं तर्हि ।
@@ -4002,6 +4002,11 @@ seated or lying down, or eating, or with face turned away.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/196_AsInasya_sthitaH.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+196	Let him do (that), standing up, if (his teacher) is seated, advancing towards him when he stands, going to meet him if he advances, and running after him when he runs;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should do (these) standing, when the teacher is seated; advancing towards him, when he is standing; going forward to him, when he advances; and running after him, when he runs;—(196)
@@ -4055,11 +4060,6 @@ should be seated^; if he is seated, he should stand; if he is standing, he shoul
 
 कथं तर्हि । **आसीनस्येति** । **पराङ्मुखस्येति** । उपविष्टस्याज्ञां ददतः उत्थितः प्रतिश्रवणसम्भाषे कुर्यात् । उत्थितस्य च तदभिमुखं गत्वा, वेगेन गच्छतः तस्य पश्चाद् वेगेन गच्छन् । परावृत्तस्य अवस्थितस्य च **अभिमुखो **भूत्वा **दूरावस्थितस्य** समीपम् आगत्य, शयानस्य प्रह्वो भूत्वा निकटे च देशे **तिष्ठतः **॥ २.१९६–९७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-196	Let him do (that), standing up, if (his teacher) is seated, advancing towards him when he stands, going to meet him if he advances, and running after him when he runs;
-</details>
 </details>
 </div>
 
@@ -4073,6 +4073,11 @@ should be seated^; if he is seated, he should stand; if he is standing, he shoul
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/197_parA~N-mukhasyA-bhimukho_dUrasthasyaitya.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+197	Going (round) to face (the teacher), if his face is averted, approaching him if he stands at a distance, but bending towards him if he lies on a bed, and if he stands in a lower place.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Facing him, when the teacher has his pace averted; going near him, when the teacher is at a distance; bowing low, when the teacher is lying down, as also if he is standing close by.—(197)
@@ -4114,11 +4119,6 @@ away;—if he is far away, he should approach near him;—if he is lying down, h
 
 ग्रहो भूत्वा, निदेशे निकटेऽवतिष्ठतो गुरोरा दिशतः प्रह्वीभूयैव प्रतिश्रवणसंभाषे कुर्यात् ॥१९७॥
 </details>
-
-<details><summary>Bühler</summary>
-
-197	Going (round) to face (the teacher), if his face is averted, approaching him if he stands at a distance, but bending towards him if he lies on a bed, and if he stands in a lower place.
-</details>
 </details>
 </div>
 
@@ -4132,6 +4132,11 @@ away;—if he is far away, he should approach near him;—if he is lying down, h
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/198_nIchaM_shayyAsanam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+198	When his teacher is nigh, let his bed or seat be low; but within sight of his teacher he shall not sit carelessly at ease.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When near his Teacher, his bed or seat should always be low; and within sight op his Teacher, he should not sit at ease.—(198)
@@ -4195,11 +4200,6 @@ seat with the teacher, except on a stone-slab, or on a boat, or on a conveyance.
 
 तथैव **नीचं शय्यासनम्** इति । गुरुशय्याद्यपेक्षया ह्रस्वशय्यासनं यावज्जीवं गुरुसन्निधौ स्यात् । तथा **गुरोश् चक्षुर्विषये न यथेष्टासनः** स्यात् ॥ २.१९८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-198	When his teacher is nigh, let his bed or seat be low; but within sight of his teacher he shall not sit carelessly at ease.
-</details>
 </details>
 </div>
 
@@ -4213,6 +4213,11 @@ seat with the teacher, except on a stone-slab, or on a boat, or on a conveyance.
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/199_nodAhared_asya.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+199	Let him not pronounce the mere name of his teacher (without adding an honorific title) behind his back even, and let him not mimic his gait, speech, and deportment.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even behind the Teacher’s back, he should not pronounce his mere name; nor should he mimic his gait, speech or deportment.—(199)
@@ -4277,11 +4282,6 @@ learned man, father-in-law, husband, and the mother’s sister.’
 **नोदाहरेद्** इति । गुरोर् असन्निधाने ऽपि पूजावाक्यपदरहितं नाम नोच्चारयेत् । गुरोर् गमनभाषणभोजनादिचेष्टां नानुकुर्यात् एवम् अस्मद्गुरुर् गच्छतीति ॥ २.१९९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-199	Let him not pronounce the mere name of his teacher (without adding an honorific title) behind his back even, and let him not mimic his gait, speech, and deportment.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ब्रह्मचारिप्रकरणोपदिष्टा अपि सन्त एते यावज्जीवं प्रत्येतव्याः ।
@@ -4299,6 +4299,11 @@ learned man, father-in-law, husband, and the mother’s sister.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/200_guror_yatra.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+200	Wherever (people) justly censure or falsely defame his teacher, there he must cover his ears or depart thence to another place.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where the censuring or defaming of his Teacher is going on, there he should either close his ears, or go away thence to another place.—(200)
@@ -4354,11 +4359,6 @@ their Teacher, by speech, mind and deed,—are as useless to them, as they are t
 **गुरोर्** इति । यस्मिन् देशे गुरोः सदोषाभिधानम् असद्दोषकथनं वा केचन कुर्वन्ति **कर्णौ तत्रा**च्छादनीयौ तस्मात् प्रदेशाद् अन्यत्र **गन्तव्यम्** । न चात्मना परीवादादि कर्तव्यम् ॥ २.२०० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-200	Wherever (people) justly censure or falsely defame his teacher, there he must cover his ears or depart thence to another place.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **परिवादनिन्दयोर्** **गुरु**विषययोर् अश्रवणोपदेशपरम् इदम् । "न चैवास्यानुकुर्वीत गतिभाषितचेष्ट्तिअम्" (२.१९९) इत्य् अस्य पूर्वविधेः शेषः । कथं कृत्वा । यत्र गुरोः परिवादश्रवणम् अपि तावन् नानुमन्यते । तत्र **गत्य्**आद्यनुकरणम् आत्मना कृतः । कः पुनर् अनयोः **परिवादनिन्दयोर्** विशेषः । **परिवादः** प्रकृतशरीरचेष्टानुकथनम् । **निन्दा** तु "अस्मद्गुरुः अजागरूकः **[९७]** अनध्यायाध्यापनशीलः तर्जनादिदुःखहेतुश् च" इति । अथ वा शिष्टाकरणस्यानुकथनं **परिवादः** । **निन्दा** प्रतिषिद्धसेवनम् । तथा च शब्दार्थः । अथ एवायं पदार्थो गुर्वभिप्रेतेतरः अप्रकृष्टः **परिवादः**, प्रकृष्टो **निन्दा** (?) । अविद्यमानदोषानुकथनं वा **परिवादः** । विद्यमानदोषसङ्कीर्तनं वा **निन्दा** । एवम् अयं पूर्वविधिविशेषः श्लोकः । अथ वा गुरोः परिवादनिन्दाश् च गुणप्रतिषेधार्थम् अन्येद् एव विध्यन्तरम् । कस्य पुनर् हेतोः । अश्रवणम् एतयोः यतः प्रतिषेधार्थविशेषणार्थम् इदं सत्यव्रतार्थम् आचष्टे —
@@ -4384,6 +4384,11 @@ their Teacher, by speech, mind and deed,—are as useless to them, as they are t
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/201_parIvAdAt_kharo.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+201	By censuring (his teacher), though justly, he will become (in his next birth) an ass, by falsely defaming him, a dog; he who lives on his teacher's substance, will become a worm, and he who is envious (of his merit), a (larger) insect.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Through censure one becomes an ass, and the defamer becomes a dog; he who lives on him becomes a worm, and he who is jealous becomes an insect.—(201)
@@ -4456,11 +4461,6 @@ See Comparative notes for [Verse 2.200].
 **परीवादाद्** इति । परीवादकर्ता जन्मान्तरे **खर** उत्पद्यते । **श्वा **च **निन्दा**कर्ता । अननुज्ञातगुरुधनोपजीवकः **कृमिर् भवति** । गुरुगुणासहनः **कीटः, **कृमेर् ईषदुपचितः प्राणि भवतीति पृथक्कथनम्, अत एव न कर्तव्यम् इति । न चाद्यार्थस्य लोकस्य पूर्वार्धवादित्वं युक्तम्, श्रुतशब्दानुपादानात् । उत्तराभ्यां च विध्यर्थाभ्यां साहचर्यात् । श्रवणनिषेधे दण्डापूपिकासिद्धः करणनिषेध इति चेत्, फलाभिधानं तर्हि कुतः सिद्धम्॥ २.२०१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-201	By censuring (his teacher), though justly, he will become (in his next birth) an ass, by falsely defaming him, a dog; he who lives on his teacher's substance, will become a worm, and he who is envious (of his merit), a (larger) insect.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 श्रवणं गुरुपरिवादः प्रतिषिद्धम् अन्यः करोति अर्थात् निर्दिश्यते **परिवादात् खरो भवतीति** । कथम् इदम् उच्यते । अध्याहारेण व्याखेयं प्रकृतार्थानुग्रहाय । **परिवादाच्** छ्रुतात् **खरो भवतीति** । एवमादि सामर्थ्यात् । अथ वा गुरोः परिवादादिश्रवणं <u>स इमा न एषां कर्तव्यासु भवति</u> (??) इत्य् एवं वेदं व्याख्येयम् । **परिभोगमत्सरयोस्** तर्हि पूर्वत्राप्रतिषिद्धयोः कथम् इदं निन्दावचनम् उच्यते । यथैव नाकस्मात् स्तुतिः प्रवर्तत इति कृत्वा । स्तुत्वा विधिर् अनुमीयते । लोकशास्त्रयोर् एवम् अस्मान् निन्दा न पर्वर्तत इति । इहापि निन्दया प्रतिषेधो ऽनुमातव्यः । पूर्वत्र परिभोगमत्सरौ ततर (?) क्रियापि तद्दृष्टान्तार्थं वैकयोर् (?) वचनं यथैव परिभोगमत्सरौ कुवंस् तिर्यक्षूत्पद्यते एवं गुरोः परिवादनिन्दे कुर्वन् खरयोनिम् आपद्यत इत्य् अन्यं च फलार्थवादः । यदि शान्त्यन्ययोर् ह्य् अविरुद्धो ऽथ त्व् अस्य ताभ्याम् अविरुद्धस् तत एष फलविधिर् ज्ञेयः । किं च —
@@ -4495,6 +4495,11 @@ See Comparative notes for [Verse 2.200].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/202_dUrastho_nA-rchayed.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+202	He must not serve the (teacher by the intervention of another) while he himself stands aloof, nor when he (himself) is angry, nor when a woman is near; if he is seated in a carriage or on a (raised) seat, he must descend and afterwards salute his (teacher).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should not offer his worship to the teacher while at a distance from him; nor when angry, nor near a woman. If seated upon a conveyance or a seat, he should come down and then salute him.—(202)
@@ -4588,11 +4593,6 @@ repeating Mantras, or attending a sacrificial session, or carrying fuel, flowers
 
 **दूरस्थ** इति । **दूरस्थः** सन् परहस्तपुष्पप्रेषणेनाचार्यं नार्चयेत्, नाप्य् एनं प्रत्युपजातक्रोधम्, न च भार्याणां समीपस्थम् **अर्चयेत् **। **यानासनस्थश् च** यदा भवति तदा अवतीर्यैनम् **अभिवादयेत्** । यानासनस्थास् चैवैनं प्रत्युत्थायाभिवादयेत् । अनेन चावरुह्याभिवादयेत् । तत्र नीचयानासनात् अनुत्थायाप्य् अवरोहणं सम्भवति एतद् उक्तं प्रत्युत्थायाभिवादयेत् । गन्त्रीगवादियानासनस्थस्यापि चोत्थानं सम्भवति अत उक्तम् **अवरुह्याभिवादयेद्** इति ॥ २.२०२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-202	He must not serve the (teacher by the intervention of another) while he himself stands aloof, nor when he (himself) is angry, nor when a woman is near; if he is seated in a carriage or on a (raised) seat, he must descend and afterwards salute his (teacher).
-</details>
 </details>
 </div>
 
@@ -4606,6 +4606,11 @@ repeating Mantras, or attending a sacrificial session, or carrying fuel, flowers
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/203_prativAte.anuvAte.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+203	Let him not sit with his teacher, to the leeward or to the windward (of him); nor let him say anything which his teacher cannot hear.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When sitting in the company of his teacher, uk should not sit either to the lee-ward or to the wind-ward of him; nor should he say anything beyond the hearing of his teacher.—(203)
@@ -4653,11 +4658,6 @@ windward of the Teacher;—or to the leeward,’
 
 **प्रतिवात** इति । **प्रतिवातो **मुखीभूतः पुरोवर्ती गुरुदेशाच् छिष्यदेशं प्रति वायुः यस्मिन् प्रदेशे, यत्र चानुगतशिष्यः गुरुदेशं **प्रतिवातः** । तत्र पश्चाद् **गुरुणा सह नासीत** । तथा गुरुसन्निधाने यस्मिन् देशे गुरोः संश्रवः आकर्णनं नास्ति तत्रान्यस्य तत्रान्यस्य कस्यचित् **न किञ्चिद् अपि **कथयेत् ॥ २.२०३ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-203	Let him not sit with his teacher, to the leeward or to the windward (of him); nor let him say anything which his teacher cannot hear.
-</details>
 </details>
 </div>
 
@@ -4671,6 +4671,11 @@ windward of the Teacher;—or to the leeward,’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/204_go--shvoShTra-yAna-prAsAda-_prastareShu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+204	He may sit with his teacher in a carriage drawn by oxen, horses, or camels, on a terrace, on a bed of grass or leaves, on a mat, on a rock, on a wooden bench, or in a boat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He may sit with the teacher on carts drawn by oxen, horses and camels, on terraces and on grass-mats; as also on reedmats, rocks, benches and boats.—(204)
@@ -4739,11 +4744,6 @@ Teacher;—except on a stone-slab, a boat, or a conveyance.’
 इति प्रतिषेधस्यायं प्रतिप्रसवः ॥ २.२०४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-204	He may sit with his teacher in a carriage drawn by oxen, horses, or camels, on a terrace, on a bed of grass or leaves, on a mat, on a rock, on a wooden bench, or in a boat.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 "नासीत गुरुणा सह" (२.२०३) इत्य् अनेन प्रतिषिद्धस्य प्रत्युद्धारार्थम् इदम् । शिष्यवृद्ध्यर्था एकादशश्लोका निगदव्याख्याताः । अध्वर्यन(?) सम्बन्धे सति कार्यसामान्यात् अप्रतिनो (?) ऽपीयं ग्रन्थार्थः शिष्यस्य वृत्तिः स्यात् । गुरौ इदानीं गुर्वपदिष्टा विष्त्तिस् तत् गुरौ न प्राप्नोति । शास्त्राभावात् तत्रे(त्रो?)ह्यते च गुराव् अपि तद्वृत्तिर् यत इदम् आरभ्यते ।
@@ -4765,6 +4765,11 @@ Teacher;—except on a stone-slab, a boat, or a conveyance.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/205_guror_gurau.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+205	If his teacher's teacher is near, let him behave (towards him) as towards his own teacher; but let him, unless he has received permission from his teacher, not salute venerable persons of his own (family).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the Teacher’s teacher happens to be close by, he should adopt towards him the same behaviour as towards his own teacher; but until permitted by his teacher, he should not pay respects to his own elders.—(205)
@@ -4828,11 +4833,6 @@ behaviour towards him is prescribed to be like that towards the Teacher.’
 **गुरोर्** इति । आचार्यगुरुर् यदा शिष्यस्य **सन्निहितो **भवति तदा तस्याप्य् आचार्यवत् वर्तेत । तथा आचार्यगृहे ऽवस्थितः तेनाननुज्ञातः स्वयोनि**गुरून्** **अभिवादयेत्** ॥ २.२०५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-205	If his teacher's teacher is near, let him behave (towards him) as towards his own teacher; but let him, unless he has received permission from his teacher, not salute venerable persons of his own (family).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विद्यागुरुमातृपितृसन्निधाने विकल्प उक्तस् तेन **स्वान् गुरून्** इत्य् एतद् अन्यत्र माता पितृभ्याम् इति गम्यते । पितृव्यादौ गुराव् इति ।
@@ -4850,6 +4850,11 @@ behaviour towards him is prescribed to be like that towards the Teacher.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/206_vidyAguruShv_evam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+206	This is likewise (ordained as) his constant behaviour towards (other) instructors in science, towards his relatives (to whom honour is due), towards all who may restrain him from sin, or may give him salutary advice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This same shall be his constant behaviour towards his intellectual teachers, towards his blood-relations, towards persons restraining him from sin and towards those who give him salutary advice.—(206)
@@ -4914,11 +4919,6 @@ prevents him from doing wrong, the sub-teacher, the paternal uncle, the maternal
 **विद्यागुरुष्व् एवेम् एवेति** । आचार्याद् अन्येषु उपाध्यायादिषु **विद्यागुरुष्व् एवम् एव **वर्तेत । तथा **स्वयोनिषु गुरुषु** अधर्मनिवर्तकौषधाद्युपदेष्टृष्व् एव **नित्या वृत्तिः** ॥ २.२०६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-206	This is likewise (ordained as) his constant behaviour towards (other) instructors in science, towards his relatives (to whom honour is due), towards all who may restrain him from sin, or may give him salutary advice.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 दृष्ट्वा **स्वयोनिषु** ज्ञातिषु पित्रादिषु चानित्या **वृत्तिः** स्वाभाविकी विद्याप्रदानम् अन्तरेणापि स्यात् । सन्निकर्षविप्रकर्षपिक्षया (?) च वृत्तिविशेषणस् तेषु परिकल्प्यः । "**हितं चोपदिशत्स्व् अपि**" इति दृष्टार्थविषयसम्बन्धेन वेद्यविषयम् एतत् ।
@@ -4936,6 +4936,11 @@ prevents him from doing wrong, the sub-teacher, the paternal uncle, the maternal
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/207_shreyaHsu_guruvad.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+207	Towards his betters let him always behave as towards his teacher, likewise towards sons of his teacher, born by wives of equal caste, and towards the teacher's relatives both on the side of the father and of the mother.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Towards superiors he should always behave as towards the Teacher, as also towards the Teacher’s son who has acquired the position of the Teacher, and towards the Teacher’s own blood-relations.—(207)
@@ -5010,11 +5015,6 @@ See Comparative notes for [Verse 2.206].
 **श्रेयःसु **स्वापेक्षया विद्यादिभिर् अधिकेषु आचार्येष्व् इति (आर्येष्व् इति) गुरुपुत्रविशेषणम् । अनेन विशेषणेन स्वापेक्षायाधिकवयस्केषु स्वसमानजातिषु उत्कृष्टजातिषु परमावस्थेषु च गुरुपुत्रेषु **गुरुवद् वृत्तिम् आचरेद्** इत्य् अभिप्रायो मनोर् बोध्यः । **गुरोश् चैव स्वबन्धुषु** गुरोः पितृव्यादिषु ॥ २.२०७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-207	Towards his betters let him always behave as towards his teacher, likewise towards sons of his teacher, born by wives of equal caste, and towards the teacher's relatives both on the side of the father and of the mother.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 किमर्थं पुनर् इदम् असम्बन्धेषु **श्रेयःसु गुरुवद् वृत्तिना** प्राप्तो ऽपि शास्त्राभावाद् इष्यते चान्यस्यापीत्य् आरम्भः । श्रेयोनिमित्तानि चाध्ययनाभिजनसंस्कारविज्ञानाचारकर्माणि ।
@@ -5032,6 +5032,11 @@ See Comparative notes for [Verse 2.206].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/208_bAlaH_samAna-janmA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+208	The son of the teacher who imparts instruction (in his father's stead), whether younger or of equal age, or a student of (the science of) sacrifices (or of other Angas), deserves the same honour as the teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whether he be younger, or of equal age, or a student of sacrificial ritual,—the Teacher’s son, imparting instruction, dfserves the same honour as the Teacher.—(208)
@@ -5109,11 +5114,6 @@ son should be like that towards the teacher himself,—with the exception of eat
 **बाल** इति । ब्रह्मचारिणः कनीयान् समः यज्ञविद्यादौ वा शिष्यः तथा अध्यापयन् गुरुसुतो गुरुवत् पूजाम् अर्हति । न त्व् अध्यापयितृत्वाद् एवास्य गुरुवृत्तिः सैद्धैव विद्यागुरुष्व् एवम् एवम् इति । न च कनीयस्त्वापेक्षया शैशवाख्या(प)नस्य दर्शितत्वात् । सत्यम् । किं तु “शिष्यो वा यज्ञकर्मणि” इत्य् उक्तो ऽध्यापयतो (व्य) ऽर्थशिष्यत्वात् अप्राप्ताशङ्कायाम् इदं वचनम् । इदम् एव ज्ञापकं ग्रन्थगुरोर् अर्थगुरुर् गरीयान् ॥ २.२०८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-208	The son of the teacher who imparts instruction (in his father's stead), whether younger or of equal age, or a student of (the science of) sacrifices (or of other Angas), deserves the same honour as the teacher.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 जीवति गुरुआव् एतद् उच्यते । इतरत्र तु वक्ष्यति "आचार्ये तु खलु प्रेते" (म्ध् २.२४७) इति । ब्रह्मचारिणः आत्मावृद्ध्यपेक्षया (?) बालः समानजन्मा चोच्यते । कः पुनर् असौ । **गुरुसुतः शिष्यो वा यज्ञकर्मणि** । अत्र **वा**शब्दः सामर्थ्याद् उत्तरत्र द्रष्टव्यः । शिष्यो यज्ञकर्मणि चान्यस्मिन् याकारणादौ (?) यज्ञकर्मगुणेदं (?) यज्ञकर्मार्थं शास्त्रं यज्ञविद्योच्यते तादर्थ्यात् । तुणतो ऽप्य् अर्थो वा । पञ्चाशब्दः (?) कथं शिष्यो ऽपि सन् यज्ञकर्मणि । अत्र यथास्थान एव वाशब्दं यज्ञकर्मग्रहणं **[९९]** च सर्वाङ्गप्रदर्शनार्थम् अस्मिन् पक्षे द्रष्टव्यः । शिष्यो ऽपि सन् यज्ञकर्मण्य् अत्र चाध्यापयन् (?) वेदाध्यापनसमर्थश् चेद् अध्यापयतु वा मा वा । अन्यं सर्वथैदधीतवेदं (?) चोपलक्षणपरम् । ततः किम् । एवङ्गुणो यो गुरुसुतः सो ऽङ्गविद्यायाम् एतस्यान्वयो बह्वीषु बाधिष्योपि (?) सन् गुरुसम्मानन् अशेषम् अर्हति न तथान्यो गुरुपुत्र इत्य् एतद् आरम्भसामर्थ्याद् विज्ञायते । एवं च विशेषार्थस्यारम्भः अन्यनिवृत्त्यर्थो वा गुरुपुत्रेषु चाचार्येष्व् एतद् इति एतस्माद् वै विशेषविधानाद् इदम् एव ज्ञापकं ग्रन्थगुरोर् अर्थगुरुर् ज्यायान् इति । युक्तं चैतत् ग्रन्थस्य तदर्थत्वात् । एवं च कर्मस्व् अधिकारसामर्थ्यं शास्त्रचोदनसामर्थ्याद् इति । इदानीं प्रकरणात् गुणवति गुरुपुत्रे सर्व्स्यां पूजायां (?) प्राप्तायाम् इदम् आरभ्यते ।
@@ -5139,6 +5139,11 @@ son should be like that towards the teacher himself,—with the exception of eat
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/209_utsAdana~n_cha.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+209	(A student) must not shampoo the limbs of his teacher's son, nor assist him in bathing, nor eat the fragments of his food, nor wash his feet.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not shampoo the limbs of his teacher’s son, nor assist him in bathing, nor eat of the food left by him; nor should he wash his feet.—(209)
@@ -5187,11 +5192,6 @@ See Comparative notes for [Verse 2.208].
 **उत्सादनम्** इति । उद्वर्तन**स्नापनोच्छिष्टभोजनपाद**धावनानि **गुरुपुत्रस्य **न कार्याणि । अस्माद् एव प्रतिषेधात् गुरोर् एतत् अनुक्तम् अपि कर्तव्यम् इत्य् अवसीयते ॥ २.२०९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-209	(A student) must not shampoo the limbs of his teacher's son, nor assist him in bathing, nor eat the fragments of his food, nor wash his feet.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 "गुरुसुतो ऽपि गुरुवन् मानम् अर्हति" (म्ध् २.२०८) इत्य् अस्यापवादो ऽयं विज्ञेयः । एतद् एव च ज्ञापकम् । गुरोर् एतानि कार्याणि पूर्वशास्त्रानुप्दिष्टान्य् अपि सन्तीति । तथा च गुणप्रबन्धाभावेनाप्य् अत्यर्थम् इदं निवृत्तौ प्रधानतः तस्य साक्षाच् छ्रवणाद् इतरत्र गुणतो ऽनुमानात् । एवं च यत् कैश्चिद् उच्यते । अधाहारार्थं (?) वाक्यम् इति । तदसनात् (?) गुरूपदिष्टश्रुश्रूषाविधिर् (?) उक्तव्यतिरिक्तम् अन्यत्र न प्राप्नोति । इष्यते च । स्याद् इत्य् आरम्भः ।
@@ -5209,6 +5209,11 @@ See Comparative notes for [Verse 2.208].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/210_guruvat_pratipUjyAH.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+210	The wives of the teacher, who belong to the same caste, must be treated as respectfully as the teacher; but those who belong to a different caste, must be honoured by rising and salutation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The teacher’s ladies belonging to the same caste should be honoured like the teacher himself; those not belonging to the same caste should be honoured with rising and salutations.—(210)
@@ -5258,11 +5263,6 @@ avoid hair-dressing, dressing, bathing and eating of the leavings.’
 **गुरुवद्** इति । गुरोः सजातीया भार्याः **गुरुवत् पूजनीयाः ।** विजातीयाः पुनः **प्रत्युत्थानाभिवादन**मात्रेण ॥ २.२१० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-210	The wives of the teacher, who belong to the same caste, must be treated as respectfully as the teacher; but those who belong to a different caste, must be honoured by rising and salutation.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यथान्यायं व्यस्तसमस्तैः कनीयस्यो ऽपि सत्या आत्मनः प्रतिवयस्यस्त्रिय इति स्वना(?) **गुरुवत् प्रतिपूज्यास्** त्व् इत्य् अस्मात् सर्वम् उपदिष्टं गुरुवृत्तम् आसुप्राप्तं (?) सत् प्रतिषिध्यते ।
@@ -5280,6 +5280,11 @@ avoid hair-dressing, dressing, bathing and eating of the leavings.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/211_abhyanjanaM_snApanam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+211	Let him not perform for a wife of his teacher (the offices of) anointing her, assisting her in the bath, shampooing her limbs, or arranging her hair.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Annointing, assisting at bath, shampooing of limbs and dressing of the hair should not be done for the teacher’s wife.—(211)
@@ -5336,11 +5341,6 @@ applying of collyrium, dressing of hair, or touching the feet and such like acts
 **अभ्यञ्जनम्** इति । अभ्यङ्गस्नापनोद्वर्तनकेशरचा गुरुभार्याया **न कार्याः** ॥ २.२११ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-211	Let him not perform for a wife of his teacher (the offices of) anointing her, assisting her in the bath, shampooing her limbs, or arranging her hair.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 चशब्दात् तदुच्छिष्टभोजनं च पादावनेजनं तद् अस्यां पादस्पर्शनप्रतिषेधाद् एवाभिवादनकाले <u>सो ऽपूपियोचार्यते</u> (दण्डापूपिकयोच्यते??) ।
@@ -5358,6 +5358,11 @@ applying of collyrium, dressing of hair, or touching the feet and such like acts
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/212_gurupatnI_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+212	(A pupil) who is full twenty years old, and knows what is becoming and unbecoming, shall not salute a young wife of his teacher (by clasping) her feet.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The teacher’s wife, when young, shall not be saluted at her feet by a pupil who is full twenty years old, and who is conscious of what is good and what is bad.—(212)
@@ -5405,11 +5410,6 @@ the teacher’s wife.’
 **गुरुपतीति** । तरुणी गुरुभार्या यूना कामं सुखदुःखे **जानता** पादोपसङ्ग्रहपूर्वकं **नाभिवाद्या **॥ २.२१२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-212	(A pupil) who is full twenty years old, and knows what is becoming and unbecoming, shall not salute a young wife of his teacher (by clasping) her feet.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विशेषप्रतिषेधो ऽयम् । पूर्व उत्तरश् च **पूर्णविंशतिवर्षेण** **गुणदोषज्ञेन** नान्यदेत्य् अर्थः । अस्यार्थवादः ।
@@ -5427,6 +5427,11 @@ the teacher’s wife.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/213_svabhAva_eSha.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+213	It is the nature of women to seduce men in this (world); for that reason the wise are never unguarded in (the company of) females.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It is the very nature of women to corrupt men. It is for this reason that the wise are never unguarded regarding women.—(213)
@@ -5484,11 +5489,6 @@ wise men do not become too much. attached to women.’
 **स्वभाव** इति । स्वरूपम् एतत् स्त्रीणां यन् मनुष्याणां स्मरोद्रेकजननम् । **अतो** ऽस्माद् धेतोः प्राज्ञः न स्पर्शनादिप्रमादं भजते ॥ २.२१३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-213	It is the nature of women to seduce men in this (world); for that reason the wise are never unguarded in (the company of) females.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 तत्प्रयत्नपूर्वकव्यापारो विन्यस्य संयतात्मनो व्यभिचारो मा भूद् इत्य् अयम् उपदेशः । येन कारेणेन ।
@@ -5506,6 +5506,11 @@ wise men do not become too much. attached to women.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/214_avidvAMsam_alam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+214	For women are able to lead astray in (this) world not only a fool, but even a learned man, and (to make) him a slave of desire and anger.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In this world women are capable op leading astray the ignorant, as well as the learned, who becomes a servile follower of desire and passion.—(214)
@@ -5556,11 +5561,6 @@ See Comparative notes for [Verse 2.213].
 यतः **कामक्रोध**विधेयं पुरुषं सम्यक् शास्त्रज्ञं वा **लोके** अधर्ममार्गं **नेतुं** स्त्रियो **ऽलम्** समर्थाः ॥ २.२१४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-214	For women are able to lead astray in (this) world not only a fool, but even a learned man, and (to make) him a slave of desire and anger.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एतस्मात् कारणात् –
@@ -5586,6 +5586,11 @@ See Comparative notes for [Verse 2.213].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/215_mAtrA_svasrA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+215	One should not sit in a lonely place with one's mother, sister, or daughter; for the senses are powerful, and master even a learned man.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should not sit alone with his mother, sister or daughter. The powerful host of sense-organs overpowers even the learned.—(215)
@@ -5619,11 +5624,6 @@ See Comparative notes for [Verse 2.213].
 **मत्रेति** । मातृभगिनीदुहितृभिर् अपि सह विजने न आसीत । यतो ऽप्रधृष्य **इन्द्रिय**समूहः शास्त्रज्ञम् अपि प्रसङ्गात् च्यावयति ॥ २.२१५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-215	One should not sit in a lonely place with one's mother, sister, or daughter; for the senses are powerful, and master even a learned man.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एतस्माद् एव कारणात् दूरस्थः ।
@@ -5641,6 +5641,11 @@ See Comparative notes for [Verse 2.213].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/216_kAman_tu.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+216	But at his pleasure a young student may prostrate himself on the ground before the young wife of a teacher, in accordance with the rule, and say, 'I, N. N., (worship thee, O lady).'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The young man may perform the proper salutation on the ground to the young wives of his Teacher,—saying “here i am.”—(216)
@@ -5683,11 +5688,6 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 30l), as laying down h
 
 **कामम्** इति । **गुरुपत्नीनां युवा **वन्दनं **भुवि** व्यत्यस्तपाणिना इति अनेन विधिना **असाव् अहम् इति ब्रुवन्** इत्य् उक्तरूपेनाभिवादनं **कुर्यात्** ॥ २.२१६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-216	But at his pleasure a young student may prostrate himself on the ground before the young wife of a teacher, in accordance with the rule, and say, 'I, N. N., (worship thee, O lady).'
-</details>
 </details>
 </div>
 
@@ -5701,6 +5701,11 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 30l), as laying down h
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/217_viproShya_pAdagrahaNam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+217	On returning from a journey he must clasp the feet of his teacher's wife and daily salute her (in the manner just mentioned), remembering the duty of the virtuous.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having returned from a journey, he should clasp the feet of his Teacher’s wife, and daily he should salute her, bearing in mind the duty of the righteous.—(217)
@@ -5752,11 +5757,6 @@ journey.’
 **विप्रोष्येति** । प्रवासप्रत्यागतः **पादो**पसं**ग्रहणं **प्रत्यहं पुनर् अभिवादनमात्रं गुरुभार्यासु कुर्यात् । एष एव साध्वाचार इति सञ्चिन्तयन् ॥ २.२१७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-217	On returning from a journey he must clasp the feet of his teacher's wife and daily salute her (in the manner just mentioned), remembering the duty of the virtuous.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 इयद् जानाति विदुषो ब्रह्मचारिणः प्रोषितप्रत्यागतस्य कदाचिद् अष्टौ (?) श्लोका गुरुदारेषु शिष्यवृत्त्यर्था अपि सन्तः सर्वस्त्रीविषयाः प्रत्येतव्याः । किमर्थं यपन(दुप?)रि गुरुवत् पुत्रदारेषु शुश्रूषोपदेशयत्नः क्रियते, आगमात् । यस्माद् एवम् आह ।
@@ -5782,6 +5782,11 @@ journey.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/218_yathA_khanan.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+218	As the man who digs with a spade (into the ground) obtains water, even so an obedient (pupil) obtains the knowledge which lies (hidden) in his teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as a man digging with the spade obtains water,—even so one who is eager to serve acquires the learning that is in the Teacher.—(218)
@@ -5841,11 +5846,6 @@ service of the Teacher, or by much wealth, or by knowledge (in exchange); there 
 युक्तम् एतत् पुत्रदारादिपर्यन्तं गुरुपरिचरणं यस्मात् **यथेति** । यथा कुद्दालादिना **खनित्रेण** महता यत्नेन **खनन् नरः** पातालगतम् उदकं प्राप्नोति एवम् आचार्यस्थां **विद्यां **परिचरणशीलः प्राप्नोति न त्व् आलस्यात् ॥ २.२१८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-218	As the man who digs with a spade (into the ground) obtains water, even so an obedient (pupil) obtains the knowledge which lies (hidden) in his teacher.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 गुर्वादिशुश्रूषाविध्यनुष्ठानशेषः श्लोकः (४ अक्ष् lacuna) रश् च ।
@@ -5867,6 +5867,11 @@ service of the Teacher, or by much wealth, or by knowledge (in exchange); there 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/219_muNDo_vA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+219	A (student) may either shave his head, or wear his hair in braids, or braid one lock on the crown of his head; the sun must never set or rise while he (lies asleep) in the village.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He may have his head shaved, or wear his hair in braids, or have only the top-hair braided. The sun should never set, nor should it rise, while he is still in the village.—(219)
@@ -5933,11 +5938,6 @@ shaven or all in braids.’
 **मुण्ड** इति । लूनाखिलकेशो वा स्यात्, इतरेतरसंलग्नधृतसमस्तकेशो वा स्यात् **शिखैव **वा **जटा** अस्य यथाभूतः स्यात् । तथा च कुर्याद् येनास्य **ग्राम**नगरावस्थितस्योत्तरश्लोके शयानग्रहणाच् छयानस्य **सूर्यो** नास्तं यायात् **नाभ्युदियात् क्वचित्** कस्मिंश्चित् काले ॥ २.२१९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-219	A (student) may either shave his head, or wear his hair in braids, or braid one lock on the crown of his head; the sun must never set or rise while he (lies asleep) in the village.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ग्रामसुखात् सङ्गो लौकिको वा तत्र वसन्तो ब्रह्मचारिणः । सूर्यो नास्तं यायाद् वारण्ये तस्योदयम् अस्तम् अयं च सम्भावयेद् इत्य् एवं तर्हि नियमगौरवार्थम् उपदिश्यते, अवक्तव्यम् अपि सद् यथाग्नीन्धनभैक्षचरणे । अन्यथेदं नियमव्यतिक्रमानुकथनम् असति प्रोजने नार्थकत्वं(?) प्राप्नोति । तथा **[१०१]** चायं प्रायश्चित्तोपदेशः । अप्रकरणे ऽपि तत्प्रयत्नगौरवप्रदर्शनार्थो न स्वार्थः ।
@@ -5963,6 +5963,11 @@ shaven or all in braids.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/220_ta~n_ched.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+220	If the sun should rise or set while he is sleeping, be it (that he offended) intentionally or unintentionally, he shall fast during the (next) day, muttering (the Savitri).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the sun should rise or set while he is still sleeping, either intentionally or unintentionally, he should fast during the day, reciting. (the Sāvitrī).—(220)
@@ -6078,11 +6083,6 @@ forestalled by sunset, who has bad nails, who has black teeth...... are sinners.
 **तम्** इति । **तं** ब्रह्मचारिणम् इच्छातः सुप्तं यदि **सूर्यः **उदयेनाभिव्याप्तं कुर्यात्, तस्य वा शास्त्रार्थापरिज्ञानात् शयानस्य यद्य् अस्तं यायात् तदा “जपन् सावित्रीम्” इति गौतमस्मरणात् सावित्रीं जपन् दिनं नाश्नीयात् । अस्यापि प्रायश्चित्तस्य प्रकरणोत्कर्षो लाघ्वार्थम् । तत्र हि क्रियमाणे ब्रह्मचारिग्रहणं कर्तव्यं स्यात् ॥ २.२२० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-220	If the sun should rise or set while he is sleeping, be it (that he offended) intentionally or unintentionally, he shall fast during the (next) day, muttering (the Savitri).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पूर्वसन्ध्याव्यतिक्रमे पश्चिमसन्ध्याव्यतिक्रमे रात्रौ भुक्तित्यागो जपश् च । तथा च गौतमः- "सूर्याभ्युदितो ब्रह्मचारी तिष्ठेद् अहर् भुञ्जानो ऽभ्यस्तमितश् च रात्रिं जपन् सावित्रीम्" (ग्ध् २३.२१) इति । अपरे त्व् आहुः । "**जपन् उपवसेद् दिनम्**" इति उभयसन्ध्याव्यतिक्रमे पश्चिमसन्ध्या व्यतिक्रमे ऽपि प्रत्येकं तच् चानेन स्मृत्यन्तरेण न सम्बध्यते । इदं चान्यत् प्रकृतार्थसामर्थ्याभिधानाय तदुपो[द्]बलकं शिष्यते ।
@@ -6108,6 +6108,11 @@ forestalled by sunset, who has bad nails, who has black teeth...... are sinners.
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/221_sUryeNa_hy.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+221	For he who lies (sleeping), while the sun sets or rises, and does not perform (that) penance, is tainted by great guilt.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If during one’s sleep the sun has set, and if during one’s sleep the sun has risen,—if he does not perform the Expiatory Rite, he becomes tainted by grievous sin.—(221)
@@ -6143,11 +6148,6 @@ See Comparative notes for [Verse 2.220].
 अत्रार्थवादः । **सूर्येण ह्य् अभिनिम्लुक्त** इति । **सूर्येनाभिनिम्लुक्तः** निम्लोचनेनास्तं गमनेन **शयानः **सन् अभिव्याप्तः अनन्तरोक्तं **प्रायश्चित्तम् अकुर्वाणो महत्** पापेन** युक्तः स्यात्** ॥ २.२२१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-221	For he who lies (sleeping), while the sun sets or rises, and does not perform (that) penance, is tainted by great guilt.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 प्रायश्चित्तार्थवादो ऽयं सन्ध्योपासनस्य तदनुष्ठानाभिनिवेशप्रयोजनः यतश् चैतद् एवम् अतस् तत्परिहारार्थम् ।
@@ -6173,6 +6173,11 @@ See Comparative notes for [Verse 2.220].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/222_Achamya_prayato.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+222	Purified by sipping water, he shall daily worship during both twilights with a concentrated mind in a pure place, muttering the prescribed text according to the rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having sipped water, with calm and collected mind, he shall daily attend upon the two twilights, in a clean place, reciting the mantras to be recited, according to rule.—(222)
@@ -6222,11 +6227,6 @@ Evening one, seated; the former while stars are visible, the latter before the s
 यत एवम् अतः **आचम्येति** । **प्रयतः **शुचिः सन् **समाहितः **संयतेन्द्रियः उपस्पृश्य **शुचौ देशे जपं **कुर्वन् सन्ध्योपासनोक्तविधिना “यावज्जीवम् उभे सन्ध्ये सेवेत” इति सन्ध्यालोपप्रायश्चित्तप्रसङ्गेनायं सन्ध्योपासनानुवादः । प्रयतत्वं समाहितत्वं शुचिदेशे विध्यर्थम् ॥ २.२२२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-222	Purified by sipping water, he shall daily worship during both twilights with a concentrated mind in a pure place, muttering the prescribed text according to the rule.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 प्रकरणान् नियमगौरवार्थ एवायं सन्ध्योपासनस्य पुनर् उपदेशः उपसंहारो वायं प्रकरणान्ते स्तुतिरूपः सन्ध्य्पासननियमस्यानुष्ठानादरार्थः । बहिर्ग्रामदेशगणविधिसम्बन्धेन वा इदम् अस्य पुनर् अभिधानम् आश्रमब्रह्मचर्यार्थम् । तथा चोक्तम् अत्र- "**शुचौ देशे जपञ् जप्यम् उपासीत यथाविधि**" इति । वेदग्रहणं ब्रह्मचारिण एव वा वयोविभागेन सामथ्यपिक्षया (सामर्थ्यापेक्षया?) तपोविशेषार्थं सन्ध्योपासनोपदेशः ।
@@ -6244,6 +6244,11 @@ Evening one, seated; the former while stars are visible, the latter before the s
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/223_yadi_strI.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+223	If a woman or a man of low caste perform anything (leading to) happiness, let him diligently practise it, as well as (any other permitted act) in which his heart finds pleasure.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If either a woman; or a junior person, do something good, he should faithfully perform all that; as also that in which his mind finds satisfaction.—(223)
@@ -6347,11 +6352,6 @@ specially good rewards.’
 **यदीति **। **स्त्रीश्**ऊद्राव् अपि यच् **छ्रेयो** वक्ष्यमाणं शास्त्रविरुद्धम् अनुतिष्ठतः तद् अपि तयोः सकाशात् दृष्ट्वा **युक्तो** यत्नवान् अनुतिष्ठेत् । तत्या यत्र च शास्त्रीयपदार्थे जपादौ **मनो ऽस्य **परितुष्येत् तत् समाचरेत् ॥ २.२२३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-223	If a woman or a man of low caste perform anything (leading to) happiness, let him diligently practise it, as well as (any other permitted act) in which his heart finds pleasure.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 स्त्रीशुद्रमन्त्राप्रैबद्धम् अपि (?) सच् छ्रेयो धर्माख्यं यदि किञ्चित् समाचरेत् कुतस्चिद् आगमय्य अग्रन्थकं (?) तत्सर्वम् आचरेत् आचरितुम् अस्य युक्तो ऽसौ धर्मश्रद्धया किं पुनः श्रुतसकाशात् इत्य् अधिकारविरोधे सति स्त्रीशूद्राद् अप्य् आगमय्य युक्तः स्वधर्मो ऽनुष्ठातुम् । किं पुनर् गुरोर् ग्रन्थकः शिष्टाचाराद् अन्यस्माद् वा इति । स्मृतिपरम् एतत्, ब्रह्मचारिधर्माणाम् अनुक्तधर्मसङ्ग्रहपरं वा । "**यत्र वास्य रमेन् मनः**" । तद् अभ्यसेद् विहितं स्वाध्यायशुश्रूषेन्द्रियजयादिना विहितम् । विशेषार्थः पुनर् अयम् उपदेशः । अन्यथाविहितविधानाद् अकौशलप्रसङ्गः स्यात् । **[१०२]** धर्मशास्त्रप्रयोक्ता । "**यदि स्त्री यद्य् अवरजः श्रेयः किञ्चित् समाचरेत्**" इत्य् अत्र धर्मः श्रेयान् इत्य् उक्तम् । तत् किम् एष एव पुरुषार्थ इति । नेति । उभे (?) । किं तर्हि ।
@@ -6377,6 +6377,11 @@ specially good rewards.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/224_dharmArthAv_uchyate.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+224	(Some declare that) the chief good consists in (the acquisition of) spiritual merit and wealth, (others place it) in (the gratification of) desire and (the acquisition of) wealth, (others) in (the acquisition of) spiritual merit alone, and (others say that the acquisition of) wealth alone is the chief good here (below); but the (correct) decision is that it consists of the aggregate of (those) three.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Spiritual merit and wealth are called “good”; or pleasure and wealth; or spiritual merit alone, or wealth alone is “good”; but the truth is that it is the aggregate of the three.—(224)
@@ -6454,11 +6459,6 @@ wealth follows.’
 “श्रेय आचरेद्” इत्य् उक्तम्, किं तच् छ्रेय इत्य् अत आह **धर्मार्थाव्** इति । **धर्मार्थौ श्रेय** इति कैश्चिद् **उच्यते **। परलोकेहलोकयोः यथाक्रमं तयोः कर्मनिमित्तत्वात् । **कर्मार्थाव्** इत्य् परैः कथ्यते, प्रत्यक्षतः तयोर् एव पुरुषार्थसाधकत्वोपलभ्यात् **धर्म एवे**त्य् अन्यैः भाष्यते अर्थकामयोस् तन्मूलत्वश्रवणात् । अर्थ एवेहलोके श्रेय इत्य् अन्यैः अभिधीयते । तत एव धर्मकामसिद्धेः । एवं मतान्तराण्य् उक्त्वा स्थितपक्षम् आह **त्रिवर्ग इति तु स्थितिर् इति** । धर्मार्थकामरूपत्र्यात्मको वर्गः श्रेय इत्य् उच्यते । इत्य् एष निश्चयः । परस्पराविरोधेन त्रयाणाम् अपि पुरुषार्थसाधकत्वात् । न च ब्रह्मचारिणः कामसेवनम् अतो नोपदिश्यते श्रेयःपदार्थनिरूपणपरत्वात् ॥ २.२२४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-224	(Some declare that) the chief good consists in (the acquisition of) spiritual merit and wealth, (others place it) in (the gratification of) desire and (the acquisition of) wealth, (others) in (the acquisition of) spiritual merit alone, and (others say that the acquisition of) wealth alone is the chief good here (below); but the (correct) decision is that it consists of the aggregate of (those) three.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अर्थसुखयोर् अनुज्ञातार्थम् इदम् आरभ्यते । कथं धर्माविरोधे सति नात्यन्तं निःसुखः स्याद् एवं नात्यन्तम् अर्थतापेक्ष्यते । परस्परापेक्षत्वाद् एतेषाम् । तथा च वक्ष्यति- 
@@ -6481,6 +6481,11 @@ wealth follows.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/225_AchAryash_cha.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+225	The teacher, the father, the mother, and an elder brother must not be treated with disrespect, especially by a Brahmana, though one be grievously offended (by them).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The preceptor, the father, the mother and the elder brother should not be treated with disrespect, especially by a Brāhmaṇa,—even though he be distressed—(225)
@@ -6534,11 +6539,6 @@ Mother and the Ācārya;—one should ever attend upon these;—one should do wh
 **आचार्यश् च पिता चैवेति **। **आचार्यपितृमातृज्येष्ठभ्रातरः **पीडितेनापि क्षत्रियादिना **नावमाननीयाः **विशेषतो ब्राह्मणेन नान्येषां तन्मूलत्वाद् धर्मानुष्ठानस्यातिप्रसङ्गः स्याद् यस्माद् इति ॥ २.२२५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-225	The teacher, the father, the mother, and an elder brother must not be treated with disrespect, especially by a Brahmana, though one be grievously offended (by them).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 ब्रह्मचारिणाम् उपदिष्टो ऽप्य् अयं धर्मः सामर्थ्याद् इतरेषाम् अपि द्रष्टव्यः । तथा च लिङ्गानि वक्ष्यति । नावमन्तव्या इत्य् अस्य विधेः स्तुत्यर्थम् इदम् आरभ्यते । यस्मात् (?) ।
@@ -6564,6 +6564,11 @@ Mother and the Ācārya;—one should ever attend upon these;—one should do wh
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/226_AchAryo_brahmaNo.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+226	The teacher is the image of Brahman, the father the image of Pragipati (the lord of created beings), the mother the image of the earth, and an (elder) full brother the image of oneself.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The preceptor is the embodiment of Brahman; the father is the embodiment of Prajāpati; the Mother is the embodiment of the earth, and one’s own brother is the embodiment of the self.—(226)
@@ -6605,11 +6610,6 @@ See Comparative notes for [Verse 2.225].
 
 **आचार्यो ब्रह्मणो मूर्तिर्** इति । ब्रह्मोपदेशोत्पादनसाधारणैकोदरनिवासालम्बनम् एतद् एषां ब्रह्मादिशरीरत्वाभिधानं प्रकृतविध्यर्थवादार्थं ब्रह्माप्रजापती परमात्महिरण्यगर्भो **स्वः **सोदर्यः ॥ २.२२६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-226	The teacher is the image of Brahman, the father the image of Pragipati (the lord of created beings), the mother the image of the earth, and an (elder) full brother the image of oneself.
-</details>
 </details>
 </div>
 
@@ -6623,6 +6623,11 @@ See Comparative notes for [Verse 2.225].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/227_yam_mAtA-pitarau.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+227	That trouble (and pain) which the parents undergo on the birth of (their) children, cannot be compensated even in a hundred years.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The trouble that the parents undergo in the birth of children,—for that there can be no compensation even in a hundred years.—(227)
@@ -6668,11 +6673,6 @@ See Comparative notes for [Verse 2.225].
 **सम्भवे **गर्भग्रहणे सति तदनन्तरम् एवानवरतं यद् दुःखम् अपत्यानां सम्बन्धि मातापितराव् अनुभवतः । तस्यानेकवर्षशतं प्रत्युपकारकरणेनापि आनृण्यं प्राप्तुं न शक्यते किम् उतैकजन्मनेति ॥ २.२२७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-227	That trouble (and pain) which the parents undergo on the birth of (their) children, cannot be compensated even in a hundred years.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 <u>सम्भवकार्ये स्थितिवृद्धिसुरवा(षु अश?)कयसम्भवो गुणतः ते हि मातापित्रोः श्लेष(क्लेश?)साध्ये न सम्भवः</u> (?) एवम् आचार्यो विशिष्यानुशासने क्लेशानुभवाद् अनुपदिष्टो प्य् अत्र समानकार्यत्वात् गृह्यते प्रकृतत्वाद् उत्तरत्र वर्णाचरणभ्राता (?) । यतश् चैतद् एवम् अतः ।
@@ -6702,6 +6702,11 @@ See Comparative notes for [Verse 2.225].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/228_tayor_nityam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+228	Let him always do what is agreeable to those (two) and always (what may please) his teacher; when those three are pleased, he obtains all (those rewards which) austerities (yield).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should always do what is pleasing to those two and to the preceptor; on these three being satisfied, all austerity becomes completed.—(228)
@@ -6743,11 +6748,6 @@ See Comparative notes for [Verse 2.225].
 तस्मात् **तपोनित्यम्** इति । मातापित्राचार्याणां यावज्जीवं **प्रियं कुर्यात्** । न च तपोन्तरासक्त्या तत्प्रियोपेक्षया कार्या। तस्मात् **तेष्व् एव **च तुष्टेषु **सर्वं** **तपः**फलं सम्यक् **प्राप्यते** ॥ २.२२८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-228	Let him always do what is agreeable to those (two) and always (what may please) his teacher; when those three are pleased, he obtains all (those rewards which) austerities (yield).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यत एतद् एवं कर्तव्यं नान्यद् इत्य् अर्थवादः (?) । किं च तेषां प्रियं शुश्रूषा । यद् अयम् आह
@@ -6765,6 +6765,11 @@ See Comparative notes for [Verse 2.225].
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/229_teShAn_trayANAm.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+229	Obedience towards those three is declared to be the best (form of) austerity; let him not perform other meritorious acts without their permission.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The service of these three is declared to be the highest austerity; until permitted by them, one should not perform any other meritorious act.—(229)
@@ -6823,11 +6828,6 @@ nothing until permitted by them.’
 यत एवम् अतः **तेषाम्** इति । **तेषां** मात्रादीनां **रयाणां** परिचर्या तपोऽन्तरेभ्यः प्रकृष्टं **तपः** मन्वादिभिः कथ्यते । एवं च **तैर् अनुज्ञातः **नित्यनैमित्तकवर्जम् **अन्यं धर्मं **नाचरेत् ॥ २.२२९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-229	Obedience towards those three is declared to be the best (form of) austerity; let him not perform other meritorious acts without their permission.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 स्मृतिमात्रम् एतन् न त्व् अन्यधर्माचारप्रतिषेधः, तदुपदेशसामर्थ्यात् । यतश् चैतति –
@@ -6845,6 +6845,11 @@ nothing until permitted by them.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/230_ta_eva.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+230	For they are declared to be the three worlds, they the three (principal) orders, they the three Vedas, and they the three sacred fires.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These have been declared to be the three regions, these the three life-stages, these the three Vedas and these the three fires.—(230)
@@ -6894,11 +6899,6 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra, P. 95).
 यस्मात् **त **इति । पृथिव्यन्तरिक्षब्रह्मलोकावाप्तिहेतुत्वात् तच्छुश्रूषायाः **त एव त्रयो लोका **इत्य् उच्यन्ते । एवं च ब्रह्मचर्यव्यतिरिक्ताश्रमत्रयतुल्यफलत्वात् तत्सेवायाः **त एव त्रय आश्रमाः **। वेदत्रयजपतुल्यफलत्वात् तत्परिचर्यायाः **त एव त्रयो वेदाः **। अग्निसम्पाद्यकर्मतुल्यफलत्वात् तदाराधनायाः **त एव त्रयो ऽग्नयः** । इति मन्वादिभिर् उक्ता इति पूर्वविध्यर्थवादः ॥ २.२३० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-230	For they are declared to be the three worlds, they the three (principal) orders, they the three Vedas, and they the three sacred fires.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 किञ्चित् सामान्याद् अयम् अग्निविभागः । तत्प्रतिषेधार्थम् इदम् आरभ्यते ॥
@@ -6923,6 +6923,11 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra, P. 95).
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/231_pitA_vai.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+231	The father, forsooth, is stated to be the Garhapatya fire, the mother the Dakshinagni, but the teacher the Ahavaniya fire; this triad of fires is most venerable.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Father has been declared to be the Gārhapatya Fire, the Mother the Dakṣiṇa Fire, and the Preceptor the Āhavanīya fire; and this Triad of fires is highly important.—(231)
@@ -6967,11 +6972,6 @@ Dakṣiṇāgni; and the Teacher, the Āhavanīya.’
 
 **पिता वै गार्हपतो ऽग्निर्** इति । गार्हपत्याद् हविषां सम्भवः, अस्य च पितुः सकाशात् । दक्षिनाग्नेश् च गुणत्वम्, मातुश् च पितृपरतन्त्रत्वम् । आहवनीयस्य यागनिर्वर्तक्त्वं प्राधान्यम् । आचार्यस्याप्य् अखिलपुरुषार्थकारित्वात् प्राधान्यम् इत्य् एव । किञ्चित् सामान्यम् आश्रित्यायम् एषां अग्निव्यपदेशः । अग्निभ्यश्चैषाम् उपकरोति **साग्नित्रेता **त्राणार्थम् इव गुरुतरेति । अयम् अप्य् अर्थवादः ॥ २.२३१ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-231	The father, forsooth, is stated to be the Garhapatya fire, the mother the Dakshinagni, but the teacher the Ahavaniya fire; this triad of fires is most venerable.
-</details>
 </details>
 </div>
 
@@ -6985,6 +6985,11 @@ Dakṣiṇāgni; and the Teacher, the Āhavanīya.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/232_triShv_apramAdyann.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+232	He who neglects not those three, (even after he has become) a householder, will conquer the three worlds and, radiant in body like a god, he will enjoy bliss in heaven.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Householder who fails not towards these three would win the three regions, and rejoice in heaven, radiant in body, like a God.—(232)
@@ -7022,11 +7027,6 @@ order—‘*Pitṛvṛttyā imam lokam mātṛvṛttyā tathāparam*.’)
 **त्रिष्व्** इति । **एतेषु त्रिषु** शुश्रूषायाम् अस्खलन् **त्रीन् लोकान् **वक्ष्यमाणान् जयेत् **गृही **आधिपत्येन स्वीकुर्यात् । ततः स्वदेहेन कान्तियुक्तेन ज्वलनादित्यादिदेववत् सुखं द्युलोके भवति । गृहस्थस्याप्य् अयं धर्मः इति दर्शयितुं गृहीत्य् उक्तम् ॥ २.२३२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-232	He who neglects not those three, (even after he has become) a householder, will conquer the three worlds and, radiant in body like a god, he will enjoy bliss in heaven.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अयं पुनर् लोके विभागः किञ्चित् सामान्याद् एव स्तुत्यतिशयार्थः ।
@@ -7044,6 +7044,11 @@ order—‘*Pitṛvṛttyā imam lokam mātṛvṛttyā tathāparam*.’)
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/233_imaM_lokam.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+233	By honouring his mother he gains this (nether) world, by honouring his father the middle sphere, but by obedience to his teacher the world of Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He acquires this region by devotion to his Mother, the middle region by devotion to his Father, and the region of Brahman by serving his Preceptor.—(233)
@@ -7100,11 +7105,6 @@ be Śiva.’
 **इमम्** इति । मातृपित्राचार्यशुश्रूषाभिः पृथिव्यन्तरिक्ष**ब्रह्मलोकान्** प्राप्नोति ॥ २.२३३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-233	By honouring his mother he gains this (nether) world, by honouring his father the middle sphere, but by obedience to his teacher the world of Brahman.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एवं च श्रद्दधानस्य (?) ।
@@ -7122,6 +7122,11 @@ be Śiva.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/234_sarve_tasyAdRtA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+234	All duties have been fulfilled by him who honours those three; but to him who honours them not, all rites remain fruitless.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All the duties have been honoured by him who has honoured these three; and all acts remain fruitless for him who does not honour them.—(234).
@@ -7170,11 +7175,6 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 336) along with verse 
 **सर्व** इति । **सर्वे **यागादयो **धर्माः तस्य **फलदानोन्मुखा भवन्ति येन मातृपित्राचार्या **आदृताः **आराधिताः । येन पुनस् एते न परितोषिताः **तस्य सर्वा **यागादिक्रिया **निष्फला इति **शुश्रूषाविध्यर्थवादः ॥ २.२३४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-234	All duties have been fulfilled by him who honours those three; but to him who honours them not, all rites remain fruitless.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अन्यक्रिया नैष्फल्याभिधानम् इदं विधिस्तुत्यर्थम् उपदेशसामर्थाद् इत्य् उक्तम् । तथा च ।
@@ -7192,6 +7192,11 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 336) along with verse 
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/235_yAvat_trayas.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+235	As long as those three live, so long let him not (independently) perform any other (meritorious acts); let him always serve them, rejoicing (to do what is) agreeable and beneficial (to them).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 So long as these three live, he should not do anything else; he should always bender service unto them, rejoicing in what is pleasing and beneficial to them.—(235)
@@ -7232,11 +7237,6 @@ what is agreeable and beneficial to them;—he should do nothing without their p
 मातृपित्राचार्येषु **जीवत्सु अन्यं धर्मं नाचरेत् **। किं तर्हि । **तेष्व् एव** सर्वदा वर्तमानभविष्यदुपकारतः **कुर्याद्** इति प्रकृतविध्यर्थ्वादः । “तेषां त्रयाणाम्” इत्य् एतत्सिद्धस्यैवस्य पुनर् अभिधानं प्रकृतविधिदार्ढ्यार्थम् ॥ २.२३५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-235	As long as those three live, so long let him not (independently) perform any other (meritorious acts); let him always serve them, rejoicing (to do what is) agreeable and beneficial (to them).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 किं चान्यत् ।
@@ -7254,6 +7254,11 @@ what is agreeable and beneficial to them;—he should do nothing without their p
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/236_teShAm_anuparodhena.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+236	He shall inform them of everything that with their consent he may perform in thought, word, or deed for the sake of the next world.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should communicate to them by thought, word or deed whatever he may do without injury to them, for the sake of the next life.—(236)
@@ -7318,11 +7323,6 @@ anything until permitted by them.’
 **तेषाम्** इति । तच्छुश्रूषाविरोधेन परलोकार्थं यागार्थं **यद् यद् आचरेत् तत् तद्** एषां तत्फलं स्याद् इत्य् एवं मनोवाक्कायव्यापारेण **तेभ्यो** दद्यात् ॥ २.२३६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-236	He shall inform them of everything that with their consent he may perform in thought, word, or deed for the sake of the next world.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 यस्मात् –
@@ -7340,6 +7340,11 @@ anything until permitted by them.’
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/02/237_triShv_eteShv.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>Bühler</summary>
+
+237	By (honouring) these three all that ought to be done by man, is accomplished; that is clearly the highest duty, every other (act) is a subordinate duty.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All that ought to be done by man is finished on these three; this is the highest direct duty; every other is a subordinate duty.—(237)
@@ -7376,11 +7381,6 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 95).
 <details><summary>गोविन्दराजः</summary>
 
 **त्रिष्व्** इति । यस्मान् मात्रादिष्व् आराधितेषु यावत् किञ्चिद् यागादिकर्तव्यं तत् सर्वं **पुरुषस्य **परिपूर्णं भवति । यस्माद् **एष साक्षात् **प्रकृष्टो **धमः **अग्निहोत्रादिः गौण इति मन्वादिभिर् **उच्यते** इति प्रकृतविध्यर्थवादः ॥ २.२३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-237	By (honouring) these three all that ought to be done by man, is accomplished; that is clearly the highest duty, every other (act) is a subordinate duty.
 </details>
 
 <details><summary>भारुचिः</summary>

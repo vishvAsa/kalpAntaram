@@ -11,6 +11,11 @@ title = "१४ नित्यश्राद्धम्"
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/03/283_yad_eva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Bühler</summary>
+
+283	Even when a Brahmana, after bathing, satisfies the manes with water, he obtains thereby the whole reward for the performance of the (daily) Sraddha.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the best of Brāhmaṇas, having bathed, satisfies the Pitṛs with water,—by that alone he obtains the whole reward of the performance of the offering to the Pitṛs.—(283)
@@ -53,11 +58,6 @@ the offering to gods, the offering to Pitṛs and also Vedic Study.’
 <details><summary>गोविन्दराजः</summary>
 
 पूर्वोक्तपाञ्चयज्ञिकश्राद्धासम्भवे **यद् **इति । **स्नात्वा **उदकतर्पणं यत् पितॄणां ब्राह्मणः करोति **तेनैव** सर्वं **पितृयज्ञा**नुष्ठानफलं **प्राप्नोति** । द्विजोत्तमग्रहणं प्रदर्शनार्थम्, त्रयाणां प्रकृतत्वात् ॥ ३.२८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-283	Even when a Brahmana, after bathing, satisfies the manes with water, he obtains thereby the whole reward for the performance of the (daily) Sraddha.
 </details>
 
 <details><summary>भारुचिः</summary>

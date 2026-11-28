@@ -12,6 +12,11 @@ title = "०९ अध्ययनम्"
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/095_shrAvaNyAm_prauShThapadyAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+095	Having performed the Upakarman according to the prescribed rule on (the full moon of the month) Sravana, or on that of Praushthapada (Bhadrapada), a Brahmana shall diligently study the Vedas during four months and a half.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having perfomed the “Upākarma” (starting rite) on the full- moon day in the month of Śrāvaṇa or of Bhādrapada, the Brāhmaṇa shall, with due diligence, study the vedas, according to rule, during four months and a half.—(95)
@@ -108,11 +113,6 @@ the fullmoon day of Bhādra, under the asterism of Hastā.’
 **श्रावण्याम्** इति । श्रावणस्य भाद्रपदस्य वा पौर्णमास्याम् उपाकर्माख्यं (कर्म) गृह्योक्तविधानेन कृत्वा ततः सार्धाश् चतुरो मासान् ब्राह्मणो यत्नवान् वेदान्** अधीयीत** ॥ ४.९५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-095	Having performed the Upakarman according to the prescribed rule on (the full moon of the month) Sravana, or on that of Praushthapada (Bhadrapada), a Brahmana shall diligently study the Vedas during four months and a half.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अयम् उपकरणविधिर् युक्तः । प्रयत्नवान् **विप्र**ग्रहणाच् च क्षत्रियवैश्ययोर् निवृत्तिमात्रं दर्शयत्य् **अर्धपञ्चमान्** इति चोभयत्र ज्ञेयम् । व्यवस्थितविकल्पश् चायम् अध्वर्यूनां **श्रावण्याम्** उपाकर्म **प्रौष्ठपद्यां** छन्दोगानाम् ।
@@ -130,6 +130,11 @@ the fullmoon day of Bhādra, under the asterism of Hastā.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/096_puShye_tu.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+096	When the Pushya-day (of the month Pausha), or the first day of the bright half of Magha has come, a Brahmana shall perform in the forenoon the Utsargana of the Vedas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa shall perform, outside, the “Utsarjana” (Suspension) of the Vedas on the day of the Puṣya asterism, or on the forenoon of the first day of the bright fortnight of the month of Māgha.—(96)
@@ -186,11 +191,6 @@ Rohiṇī, or on the middlemost Aṣtakā day, he shall perform the suspension (
 येन श्रावण्याम् उपाकर्म कृतं स द्विजो ऽर्धपञ्चमेषु मासेषु पौषमासे तु पुष्यनक्षत्रे ग्रामाद् बहिर् निष्क्रम्य **छन्दसाम्** उत्सर्गाख्यं गृह्योक्तं कर्म कुर्यात् । येन पौष्ठपद्यां कृतं स माघशुक्लपक्षस्य **प्रथमे ऽहनि** **प्राप्ते पूर्वाह्णे** वा कुर्यात् ॥ ४.९६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-096	When the Pushya-day (of the month Pausha), or the first day of the bright half of Magha has come, a Brahmana shall perform in the forenoon the Utsargana of the Vedas.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उत्सर्गविध्यर्थो निगदार्थः श्लोकः ।
@@ -208,6 +208,11 @@ Rohiṇī, or on the middlemost Aṣtakā day, he shall perform the suspension (
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/097_yathAshAstran_tu.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+097	Having performed the Utsarga outside (the village), as the Institutes (of the sacred law) prescribe, he shall stop reading during two days and the intervening night, or during that day (of the Utsarga) and (the following) night.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having performed, according to law, the “Utsarga” of the Vedas, he shall cease for the night with its two wings, including the same day and night.—(97)
@@ -252,11 +257,6 @@ fullmoon day of Śrāvaṇa, one should not read at night, for one month.’
 **यथाशास्त्रम्** इति । एवम् उक्तशास्त्रानतिक्रमेण **छन्दसाम् उत्सर्गा**ख्यं कर्म ग्रामाद् **बहिः** कृत्वा ततः उभयतोहनी पक्षाव् इव यस्या मध्यवर्तुन्या रात्याः तां **रात्रिं** तम् **एवैकम्** अहोरात्रम् अनध्यायं कुर्यात् ॥ ४.९७ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-097	Having performed the Utsarga outside (the village), as the Institutes (of the sacred law) prescribe, he shall stop reading during two days and the intervening night, or during that day (of the Utsarga) and (the following) night.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उभयत्राहः पक्षापक्षिणी अहोरात्रं च (?) ।
@@ -274,6 +274,11 @@ fullmoon day of Śrāvaṇa, one should not read at night, for one month.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/098_ata_Urdhvam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+098	Afterwards he shall diligently recite the Vedas during the bright (halves of the months), and duly study all the Angas of the Vedas during the dark fortnights.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After this, he shall diligently read the Vedas during the bright fortnights, and all the subsidiary sciences during the dark fortnights.—(98)
@@ -310,11 +315,6 @@ carry on the study of the Subsidiary Sciences.’
 **अत** इति । उत्सर्गानध्यायाद् **ऊर्ध्वं** शुक्लपक्षेषु संयमवान् वेदान् अधीयीत । **कृष्णपक्षे** तु **वेदाङ्गानि **व्याकरणादीनि नियमितः **पठेत् **॥ ४.९८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-098	Afterwards he shall diligently recite the Vedas during the bright (halves of the months), and duly study all the Angas of the Vedas during the dark fortnights.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उत्सर्गाद् ऊर्ध्वम् अयं प्रविभागः पृथक् ब्राह्मणस्यावचनात् छन्दोग्रहणं ब्राह्मणार्थम् अपि स्यात् । तस्मिन् श्लोकत्रये ऽपि विभक्तमन्त्रब्राह्मणसामर्थात् । क्वचिद् वेदे ।
@@ -332,6 +332,11 @@ carry on the study of the Subsidiary Sciences.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/099_nA-vispaShTam_adhIyIta.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+099	Let him not recite (the texts) indistinctly, nor in the presence of Sudras; nor let him, if in the latter part of the night he is tired with reciting the Veda, go again to sleep.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall recite, not indistinctly, nor in the proximity of Śūdras; nor shall he go to sleep again, at the end of night, when he is tired after having recited the Veda.—(99)
@@ -386,11 +391,6 @@ obtaining gifts, leads one to hell.’
 **नाविस्पष्टम्** इति । सर्वदा **अविस्पष्टम् **अव्यक्तं न पठेत् । तथा **शूद्रजनसन्निधौ नाधीयीत** । तथा सुप्तोत्थितः न रात्रेः पश्चिमे भागे वेदान् अधीत्य **श्रान्तः** सन् **पुनः** सुप्यात् ॥ ४.९८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-099	Let him not recite (the texts) indistinctly, nor in the presence of Sudras; nor let him, if in the latter part of the night he is tired with reciting the Veda, go again to sleep.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 वृषलसन्निधौ प्रतिषेधाद् उत्तरत्र, इह "**स्त्रीजनसन्निधौ**" इति युक्तः पाठः । अथ वा त्व् अधार्मिकस् तत्र गृह्यते वृषलव्युत्पत्त्या न जातिवृषलः । ततो ऽयम् एव ज्यायान् पाठः ।
@@ -408,6 +408,11 @@ obtaining gifts, leads one to hell.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/100_yathoditena_vidhinA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+100	According to the rule declared above, let him recite the daily (portion of the) Mantras, and a zealous Brahmana, (who is) not in distress, (shall study) the Brahmana and the Mantrasamhita.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 According to the prescribed rule, the Brāhmaṇa shall, every day, during normal times, diligently recite the Veda in verse, as also the Veda in verse and prose.—(100)
@@ -466,11 +471,6 @@ stopping of reading for that reading which has been laid down as to be done ever
 **यथोदितेनेति** । अध्यापकस्य कर्मान्तरव्यग्रत्वं आत्मनश् च बहुवेदने ह्य् आपत् तदभावे पूर्वोक्तविधिना द्विजो यत्नवान् सर्वदा गायत्र्यादिछन्दोयुक्तं ऋक्सामाख्यं **ब्रह्म **पठेत् । तथा **ब्रह्म** ब्राह्मणं गायत्र्यादिछन्दोयुक्तमन्त्रमिश्रं यजुर्वेदाख्यम् । मन्त्रब्राह्मणयोर् मिश्रपाठात् वैलक्षण्ये सत्य् अयं पृथङ्निर्देशः ॥ ४.१०० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-100	According to the rule declared above, let him recite the daily (portion of the) Mantras, and a zealous Brahmana, (who is) not in distress, (shall study) the Brahmana and the Mantrasamhita.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 उपसंहारार्थः श्लोकः । ब्रह्मब्राह्मणछन्दस्कृतं मन्त्रा गायत्रछन्दोऽनुगतः उभयत्र छन्दसि ब्राह्मणे च ।
@@ -490,6 +490,11 @@ stopping of reading for that reading which has been laid down as to be done ever
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/101_imAn_nityam.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+101	Let him who studies always avoid (reading) on the following occasions when the Veda-study is forbidden, and (let) him who teaches pupils according to the prescribed rule (do it likewise).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who is studying the Veda should always avoid these days, as unfit for study; so also the person who is doing the teaching of pupils according to rule.—(101)
@@ -529,11 +534,6 @@ knowledge in the fertile soil of the true pupil, except on the days unfit for st
 **इमान्** इति । पूर्वोक्तेन विधानेन्**आधीयानः **शिष्यांश् चाध्यापयन् वक्ष्यमाणान् अनध्यायान् सर्वदा वर्जयेत् ॥ ४.१०१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-101	Let him who studies always avoid (reading) on the following occasions when the Veda-study is forbidden, and (let) him who teaches pupils according to the prescribed rule (do it likewise).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 आदरार्थं नित्यग्रहणम् । अनध्यायाध्ययनवर्जनः प्रयत्नतो यथा स्याद् इति । अथ वा नित्यग्रहणं वारिषिकाद् अध्ययनाद् अन्यत्रापि वक्ष्यमाणः अनध्यायप्रकरणार्थं तत्रैव –
@@ -551,6 +551,11 @@ knowledge in the fertile soil of the true pupil, except on the days unfit for st
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/102_karNashrave.anile.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+102	Those who know the (rules of) recitation declare that in the rainy season the Veda-study must be stopped on these two (occasions), when the wind is audible at night, and when it whirls up the dust in the day-time.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (a) At night, when air is audible by the ear, and (b) in the day when there is dust-whorl,—these two occasions during the rains are declared by those versed in the rules of teaching to be unfit for study.—(102)
@@ -599,11 +604,6 @@ are fiery, during the twilights, during fogs, and when there is danger.’
 **कर्णश्रव** इति । कर्णाभ्याम् एव श्रवणोपपत्तेः अतिशयविवक्षया **कर्णश्रव** इत्य् उक्तम् । तेन रात्राव् अतिशब्दवति वायौ, दिवा च रजःसमाहरणसमर्थे वाति, एतौ वएषाकाले तावत्कालिकाव् **अनध्यायौ** अध्ययनविधिज्ञाः कथयन्ति** **॥ ४.१०२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-102	Those who know the (rules of) recitation declare that in the rainy season the Veda-study must be stopped on these two (occasions), when the wind is audible at night, and when it whirls up the dust in the day-time.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एतेन या (?) यन्निमित्तम् अनध्यायौ वर्षास्व् एव ।
@@ -621,6 +621,11 @@ are fiery, during the twilights, during fogs, and when there is danger.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/103_vidyut-stanita-varSheShu_maholkAnAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+103	Manu has stated, that when lightning, thunder, and rain (are observed together), or when large fiery meteors fall on all sides, the recitation must be interrupted until the same hour (on the next day, counting from the occurrence of the event).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When there is lightning, thunder and rain,—when there is promiscuous falling of meteors;—on these occasions, there shall be no study till the same time (next day):—thus has Manu declared.—(103)
@@ -682,11 +687,6 @@ appearance of lightning, thunder and rain, out of season, three days shall he re
 **विद्युत्स्तनितवर्षेष्व् **इति । विद्युद्गर्जितवर्षेषु युगपदुपस्थितेषु महतां च दिव्यज्योतिर्विशेषेण पुनः स्थानतश् च पाते सति एतेषु निमित्तकालाद् आरब्यापरेद्युयावत् स एव कालः तावत् प्रकृतासु वर्षासु **अनध्यायं मनुर्** आह ॥ ४.१०३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-103	Manu has stated, that when lightning, thunder, and rain (are observed together), or when large fiery meteors fall on all sides, the recitation must be interrupted until the same hour (on the next day, counting from the occurrence of the event).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 न सर्वस्मिन् काले । अशनिसन्निपाते ।
@@ -704,6 +704,11 @@ appearance of lightning, thunder and rain, out of season, three days shall he re
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/104_etAMs_tv.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+104	When one perceives these (phenomena) all together (in the twilight), after the sacred fires have been made to blaze (for the performance of the Agnihotra), then one must know the recitation of the Veda to be forbidden, and also when clouds appear out of season.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When these appear after the Fires have been lighted, then is it to be regarded as time unfit for study; as also when clouds are seen out of season.—(104)
@@ -750,11 +755,6 @@ See Comparative notes for [Verse 4.103].
 **एतान्** इति । **एतान् **विद्युदादीन् जुहूषया प्रकटी**कृताग्निषु** सन्ध्यालक्षणेषु कालेषु यतोपजातान् जानीयात् तदानध्यायं कुर्यात् । न सर्वदा वर्षासु एतदुत्पाते तथा वर्षाभ्यो ऽन्यत्र्**आभ्रदर्शने** सत्य् **अनध्यायः** ॥ ४.१०४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-104	When one perceives these (phenomena) all together (in the twilight), after the sacred fires have been made to blaze (for the performance of the Agnihotra), then one must know the recitation of the Veda to be forbidden, and also when clouds appear out of season.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **एतांस् तु** विदुः दादन् (?) । सन्ध्याकाले यदा पश्येत् तदानध्यायः । अधिकाराद् आकालिकम् एवानर्थक्याच् चान्यत्र । वर्षाभ्यो ऽयम् अनध्यायो गम्यते । तेषु विद्यादिषु (?) सन्ध्याकाले वर्षास्व् अन्यत्र वाकालिक उक्तः । अतः सम्ध्याकाले पुनर् विधीयमानो ऽनर्थकः स्यात् तस्मात् वर्षास्व् अनधिकारो निवर्तते । आकालिकाधिकार एष्व् (?) अनुवर्तते इत्य् उच्यते । अथ वास्त्य् एवात्रानृताव् इति ग्रहणाद् उभयार्थं करिष्यामस् तथा च सति । चकार उपरिपरिकल्पः । अनृताप्रदर्शने चेति केचित् । वयं पुनः पूर्वश्लोकशेषतया मकं(?) कल्पयामः अनुवादादिष्टकालविशेषणार्थम् (?) ।
@@ -772,6 +772,11 @@ See Comparative notes for [Verse 4.103].
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/105_nirghAte_bhUmichalane.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+105	On (the occasion of) a preternatural sound from the sky, (of) an earthquake, and when the lights of heaven are surrounded by a halo, let him know that (the Veda-study must be) stopped until the same hour (on the next day), even if (these phenomena happen) in the (rainy) season.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When there is preter-natural sound, when there is earthquake, and when there is an impact of planets,—these are to be regarded as time unfit for study, until the same hour next day,—even during the season.—(105).
@@ -838,11 +843,6 @@ fall of meteors and earthquake, there shall be no study for three days.’
 **निर्घात** इति । अन्तरिक्षे उत्पातध्वनौ भूकम्पे आदितादीनां परिवेषणे सति अनृताव् अपि वर्षास्व् अपि । **अपि**शब्दात् अन्यदापि **आकालिकान् अनध्यायान्** जानीयात् ॥ ४.१०५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-105	On (the occasion of) a preternatural sound from the sky, (of) an earthquake, and when the lights of heaven are surrounded by a halo, let him know that (the Veda-study must be) stopped until the same hour (on the next day), even if (these phenomena happen) in the (rainy) season.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 निर्घातादीनां वर्षासु प्रायेण दर्शनाद् **ऋताव् अपीत्य्** उच्यते । **अपि**शब्दाद् अनृताव् अपि ।
@@ -860,6 +860,11 @@ fall of meteors and earthquake, there shall be no study for three days.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/106_prAduShkRteShv_agniShu.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+106	But when lightning and the roar of thunder (are observed) after the sacred fires have been made to blaze, the stoppage shall last as long as the light (of the sun or of the stars is visible); if the remaining (above-named phenomenon, rain, occurs, the reading shall cease), both in the day-time and at night.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When lightning and the roar of thunder appear after the Fires have been lighted, the time shall continue to be unfit for study, till the lights are there; and when the remaining (phenomenon) ocours, it is unfit for study during the night, as also during the day.—(106).
@@ -937,11 +942,6 @@ not study during the night: if it thunders in the morning they shall not study d
 **प्रादुष्कृतेष्व्** इति । अग्नीनां पुनर् अपासितभस्मतया प्रकटीकरणवेलायां सन्ध्याकाले विद्युद्गर्जितशब्दाव् एव यदा भवतो न वर्षं तदा यावज् ज्योतिः तावद् एवानध्यायः नाकालिकम्, दिवादित्यज्योतिः रात्रौ तारकाः । अतः पूर्वं सन्ध्यायाम् एतद् उत्पाते दिवैवानध्यायः पश्चिमायां चोत्पाते रात्राव् एव । शेषेषु च पुनर् वर्षाख्ये तृतीय उपजाते **यथा दिवा** तथा **रात्राव्** अप्य् अनध्यायः इत्य् उक्तानुवादः ॥ ४.१०६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-106	But when lightning and the roar of thunder (are observed) after the sacred fires have been made to blaze, the stoppage shall last as long as the light (of the sun or of the stars is visible); if the remaining (above-named phenomenon, rain, occurs, the reading shall cease), both in the day-time and at night.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अपरस् तु कल्पः । उद्यतेष्व् अग्निषु जुहुयाद् अपि विद्युत्स्तनितशब्दयोर् अन्यतरनिमित्तोपनिपाते ऽपि **सज्योतिः स्याद् अनध्यायः** । दिवैवेत्य् अर्थः । शेषं त्रयस्य प्रकृतस्य **[१८४]** विद्युत्स्तनितवर्षेषु । अत्र श्लोके विद्युत्स्तनितयोर् वर्षं तस्मिन् उपजाते **रात्राव्** अपि **दिवा**नध्यायः स्याद् अथ वा शेषे दृश्यमाने रात्राव् अपीति पूर्वसन्ध्यातो वा पश्चिमसन्ध्याशेषं तत्र भवत्वाद् विद्युत्स्तनितयोर् अपि शेषशब्द एवं च कृत्वा तच्छेषम् अपि गृह्यमाणं रात्राव् अनध्यायं करोति यथा दिवा पूर्वसन्ध्याभवं विद्युत्स्तनितम् इदं च विध्यन्तरक्रमाणाम् इत्य् अयं विकल्पः सर्वस्मिन् अध्यायप्रकरणे ऽनधिकृतो वेदितव्यः । विकल्पलिङ्गानि चात्रैव प्रतिश्लोकं दर्शयिष्यामः ।
@@ -959,6 +959,11 @@ not study during the night: if it thunders in the morning they shall not study d
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/107_nityAnadhyAya_eva.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+107	For those who wish to acquire exceedingiy great merit, a continual interruption of the Veda-study (is prescribed) in villages and in towns, and (the Veda-study must) always (cease) when any kind of foul smell (is perceptible).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In villages and cities, it is always unfit for study, for those who seek for perfect merit; as also in foul-shelling places.—(107).
@@ -1023,11 +1028,6 @@ should he cessation of the study of all subjects till they last.’
 
 **नित्यानध्याय** इति । धर्मातिशयार्थिनां ग्रामनगरयोः सर्वदानध्यायः स्यात् । कुत्सितगन्धेन च सर्वस्मिन्न् उपलभ्यमाने ऽनध्यायः अस्मिन्न् अनध्यायप्रकरणे नित्यशब्दादीनां क्वचित् क्वचिद् अभावात् तत्र तत्र नित्यत्वं अन्यत्र विकल्पः । स च धर्मनैप्पुणविद्यानैपुणकामभेदेन व्यवस्थितो ज्ञेयः । द्विविधा ह्य् अध्येतारः, धर्मनैपुणकामा विद्यानैपुणकामाश् च । तत्र ये स्वीकृतप्रायवेदाः केवलं नियमानुष्थानजन्यम् अदृष्टातिशयम् अर्थयन्ते ते धर्मनैपुणकामाः तेषाम् अशेषानध्यायादरणम् । पुनः प्रथमाध्येतारः ते विद्यातिशयार्थिनः एषां नित्यत्वलिङ्गव्यतिरिक्तानध्यायादरणं नास्ति ॥ ४.१०७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-107	For those who wish to acquire exceedingiy great merit, a continual interruption of the Veda-study (is prescribed) in villages and in towns, and (the Veda-study must) always (cease) when any kind of foul smell (is perceptible).
-</details>
 </details>
 </div>
 
@@ -1041,6 +1041,11 @@ should he cessation of the study of all subjects till they last.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/108_antargata-shave_grAme.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+108	In a village where a corpse lies, in the presence of a (man who lives as unrighteously as a) Sudra, while (the sound of) weeping (is heard), and in a crowd of men the (recitation of the Veda must be) stopped.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In a village where a corpse still lies, in the presence of low people, during weeping, and in a crowd of hen,—it is unfit for study.—(108).
@@ -1108,11 +1113,6 @@ instruments, or of weeping,—and when there is high wind;—during that time it
 
 **अन्तर्गतशव** इति । विद्यमानशवे **वृषलस्य च** अधार्मिकस्य च **सन्निधौ** “न शूद्रजनसन्निधौ” इत् शूद्रस्योक्तत्वात् रोदने च, जनानां कार्यार्थम् एकत्र सन्निधाने सत्य् **अनध्यायः** ॥ ४.१०८ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-108	In a village where a corpse lies, in the presence of a (man who lives as unrighteously as a) Sudra, while (the sound of) weeping (is heard), and in a crowd of men the (recitation of the Veda must be) stopped.
-</details>
 </details>
 </div>
 
@@ -1128,6 +1128,11 @@ instruments, or of weeping,—and when there is high wind;—during that time it
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/109_udake_madhyarAtre.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+109	In water, during the middle part of the night, while he voids excrements, or is impure, and after he has partaken of a funeral dinner, a man must not even think in his heart (of the sacred texts).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In water, at midnight, during the evacuation of the bladder and the bowels, while one is unclean, when one has eaten at a śrāddha, one shall not even think in his mind (of the Veda).—(109)
@@ -1199,11 +1204,6 @@ meteors, on earthquake, at fiery portents, at the junction of two seasons,—the
 **उदक** इति । जलमध्ये मधमे च प्रहरद्वये महानिशाख्ये “महानिशा च विज्ञेया मध्यस्थं प्रहरद्वयम्” इति देवलस्मरणात् । मूत्रपुरीषकाले प्राग् आचमनाद् **उच्छिष्टः** **श्राद्धभुक्** निमन्त्रणात् प्रभृति श्राद्धभोजनाद् अहोरात्रं यावत् मनसापि वेदस्य न स्मरेत् ॥ ४.१०९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-109	In water, during the middle part of the night, while he voids excrements, or is impure, and after he has partaken of a funeral dinner, a man must not even think in his heart (of the sacred texts).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अशूद्राणाम् अपि । [एद्. अत्र ग्रन्थपात इव] वृषलश् च व्याख्यातः पूर्वत्र । **उदके मध्यरात्रौ** **च** विसर्जयन्न् **उच्छिष्टः** (?) **श्राद्धं** भुक्त्वैव **मनसापि न चिन्तयेत्** । अविकल्पार्थम् इदम् आदरवचनम् । न त्व् अनेनान्येष्व् अनध्यायेषु मनोवृत्त्याध्ययनम् अनुज्ञायते ।
@@ -1221,6 +1221,11 @@ meteors, on earthquake, at fiery portents, at the junction of two seasons,—the
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/110_pratigRhya_dvijo.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+110	A learned Brahmana shall not recite the Veda during three days, when he has accepted an invitation to a (funeral rite) in honour of one ancestor (ekoddishta), or when the king has become impure through a birth or death in his family (sutaka), or when Rahu by an eclipse makes the moon impure.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After having accepted invitation to a unitary funeral rite, the learned Brāhmaṇa shall not recite the Veda for three days; as also during the impurity of the king and also of Rāhu.—(110)
@@ -1276,11 +1281,6 @@ things connected with Śrāddhas,—on accepting the gift of these, it is unfit 
 **प्रतिगृह्येति** । शास्त्रविद् ब्राह्मणः नवश्राद्धे च निमन्त्रणम् उररीकृत्य नृपस्य च पुत्रजन्मादौ राहुणा वा अर्केन्दुग्रामे सति **त्र्यहं** वेदं नाधीयीत ॥ ४.११० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-110	A learned Brahmana shall not recite the Veda during three days, when he has accepted an invitation to a (funeral rite) in honour of one ancestor (ekoddishta), or when the king has become impure through a birth or death in his family (sutaka), or when Rahu by an eclipse makes the moon impure.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एकोद्दिष्टं नवश्राद्धं यत्रैकवन् मन्त्राणाम् ऊहस् तदा मन्त्रणं **प्रतिगृह्य** **विद्वान्** अपीति शब्दलोपः । <u>केचित्</u> त्व् आहुः- न त्र्यहम् । किं तर्हि ।
@@ -1298,6 +1298,11 @@ things connected with Śrāddhas,—on accepting the gift of these, it is unfit 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/111_yAvad_ekAnudiShTasya.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+111	As long as the smell and the stains of the (food given) in honour of one ancestor remain on the body of a learned Brahmana, so long he must not recite the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 While the odour and stain of a funeral rite not offered to his own ancestor remain upon the body of a learned Brāhmaṇa, he shall not recite the Veda.—(111)
@@ -1340,11 +1345,6 @@ etc. (see under 109). According to some only on eating at Śrāddha.’
 त्र्यहाद् ऊर्ध्वम् अपि वा । **यावद्** इति । **यावद्** एकोद्देशेन निमन्त्रितस्य शास्त्रविदो ब्राह्मणस्य श्राद्धगतस्रक्चन्दनादिगन्धलेपो गात्रे भवतः तावव् वेदम् नाधीयीत ॥ ४.१११ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-111	As long as the smell and the stains of the (food given) in honour of one ancestor remain on the body of a learned Brahmana, so long he must not recite the Veda.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 एकानुद्दिष्टस्य त्र्यहं वानध्यायः । स्नेहावगमो वा तावत् ।
@@ -1364,6 +1364,11 @@ etc. (see under 109). According to some only on eating at Śrāddha.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/112_shayAnaH_prauDha-pAdash.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+112	While lying on a bed, while his feet are raised (on a bench), while he sits on his hams with a cloth tied round his knees, let him not study, nor when he has eaten meat or food given by a person impure on account of a birth or a death,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 While lying down, while his feet are prominently thrust forward, and while he is seated with his knees tied together, he shall not study; as also after having eaten meat or food given by a person during impurity.—(112).
@@ -1412,11 +1417,6 @@ and other such things spreading, seated on a tree, on the boat, in the army, aft
 **शयान **इति । शय्योत्सृष्टाङ्गप्रसारितपादः पादारोपितपादो वा पर्यस्तिकां च कृत्वा मांसम् आशौचान्नं च भुक्त्वा **नाधीयीत **॥ ४.११२ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-112	While lying on a bed, while his feet are raised (on a bench), while he sits on his hams with a cloth tied round his knees, let him not study, nor when he has eaten meat or food given by a person impure on account of a birth or a death,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अश्राद्धार्थम् अमिषस्य ग्रहणम् । सूतकान्नादनेनानध्यायवचनाद् अन्येष्व् अभोज्यभोजनेषु नास्त्य् अनाध्यायः ।
@@ -1434,6 +1434,11 @@ and other such things spreading, seated on a tree, on the boat, in the army, aft
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/113_nIhAre_bANashabde.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+113	Nor during a fog, nor while the sound of arrows is audible, nor during both the twilights, nor on the new-moon day, nor on the fourteenth and the eighth (days of each half-month), nor on the full-moon day.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor during a fog, nor during the sound of arrows, nor at the two twilights, nor on the Moonless Day, nor on the fourteenth day, nor on the Full Moon Day, nor on the eighth day.—(113).
@@ -1501,11 +1506,6 @@ days of the months of Kārtika, Phālguna and Āṣāḍha.’
 धूमिकायां **वाणशब्दे सन्ध्ययोः अमावास्याचतुर्दशीपौर्णमास्यष्टमीषु च न अधीयीत **। अष्टकानाम् उत्तरत्राभिधानाद् इहामावास्यादिसाहचर्याद् अष्टकाग्रहणम् अष्टम्यर्थम् ॥ ४.११३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-113	Nor during a fog, nor while the sound of arrows is audible, nor during both the twilights, nor on the new-moon day, nor on the fourteenth and the eighth (days of each half-month), nor on the full-moon day.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **बाणो** वीणा, "बाणं वितन्वति (वादयति?)" इति प्रयोगदर्शनाच् छास्त्रान्तरे ऽपि चान्यातोद्यसाहचर्याद् **बाणो** विणा । भेरीमृदङ्गगर्त्तार्त्तशब्देष्व् (??) इति वचनाद् आतोद्यशब्दोपलक्षणपरं वैतद् बाणग्रहणम् । न स्वार्थम् एतत् तृचाष्टकाग्रहणम् अष्टमीनवम्यर्थम् अमावास्यादिसाहचर्यात् । एवं च सत्य् अष्टकादिष्व् अहोरात्रम् इत्य् एतद् अर्थवद् भवति ।
@@ -1523,6 +1523,11 @@ days of the months of Kārtika, Phālguna and Āṣāḍha.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/114_amAvAsyA_gurum.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+114	The new-moon day destroys the teacher, the fourteenth (day) the pupil, the eighth and the full-moon days (destroy all remembrance of) the Veda; let him therefore avoid (reading on) those (days).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Moonless Day destroys the Teacher, the Fourteenth Day destroys the pupil, and the Eighth Day and the Full-moon days destroy the Veda; hence these he shall avoid.—(114).
@@ -1561,11 +1566,6 @@ reward either in this world or in the other; by study on those days, I here is d
 यस्मात् **अमावास्येति** । **अमावास्या गुरुं हन्ति शिष्यं **च **चतुर्दशी** हन्ति वेदं चाष्टमीपौर्णमास्यौ विस्मार्यतः । **तस्माद्** एतासु नित्यम् अध्ययनं परिहरेत् ॥ ४.११४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-114	The new-moon day destroys the teacher, the fourteenth (day) the pupil, the eighth and the full-moon days (destroy all remembrance of) the Veda; let him therefore avoid (reading on) those (days).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 विशेषवचनाद् अविकल्पो ऽनध्ययस्य चतुर्दश्यादिषु गम्यते । तथा शखलिखितौ नित्यानधायं पर्वस्व् आहतुः (?) ।
@@ -1583,6 +1583,11 @@ reward either in this world or in the other; by study on those days, I here is d
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/115_pAMsuvarShe_dishAm.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+115	A Brahmana shall not recite (the Veda) during a dust-storm, nor while the sky is preternaturally red, nor while jackals howl, nor while the barking of dogs, the braying of donkeys, or the grunting of camels (is heard), nor while (he is seated) in a company.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa shall not read during a dust-storm, or while the sky is burning, or while jackals are howling, or while dogs ur donkeys or camels are crying in a line.—(115).
@@ -1634,11 +1639,6 @@ instruments, or cry of distress,—in the outskirts of the village, or in the cr
 
 **पांसुवर्ष** इति । रजोवर्षे दिग्दाहे च यत्र ज्वलिता इव दिशो लक्ष्यन्ते । शृगालश्वखरविरुते पङ्क्त्याकारेण चोपविश्य **द्विजो न पठेत्** ॥ ४.११५ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-115	A Brahmana shall not recite (the Veda) during a dust-storm, nor while the sky is preternaturally red, nor while jackals howl, nor while the barking of dogs, the braying of donkeys, or the grunting of camels (is heard), nor while (he is seated) in a company.
-</details>
 </details>
 </div>
 
@@ -1652,6 +1652,11 @@ instruments, or cry of distress,—in the outskirts of the village, or in the cr
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/116_nA-dhIyIta_shmashAnAnte.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+116	Let him not study near a burial-ground, nor near a village, nor in a cow-pen, nor dressed in a garment which he wore during conjugal intercourse, nor after receiving a present at a funeral sacrifice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not study near the cremation-ground, nor near the village, nor in the cow-pasture, nor while dressed in the garment worn during sexual intercourse, nor after receiving presents in connection with funeral rites.—(116).
@@ -1709,11 +1714,6 @@ road-crossings.’
 
 **नाधीयीतेति** । “श्मश्ने सर्वतः शम्याप्रासान् नाधीयीत” इत्य् आपस्तम्बस्मरणात् तथाविधश्मशानसमीपगोष्ठयोश् च स्त्रीसम्प्रयोगप्रावृतं च **वासः **प्रावृत्य श्राद्धार्थं (चा) कृतान्नाद्यर्थं प्रतिगृह्य **नाधीयीत** ॥ ४.११६ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-116	Let him not study near a burial-ground, nor near a village, nor in a cow-pen, nor dressed in a garment which he wore during conjugal intercourse, nor after receiving a present at a funeral sacrifice.
-</details>
 </details>
 </div>
 
@@ -1727,6 +1727,11 @@ road-crossings.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/117_prANi_vA.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+117	Be it an animal or a thing inanimate, whatever be the (gift) at a Sraddha, let him not, having just accepted it, recite the Veda; for the hand of a Brahmana is his mouth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Any śrāddha-gift, be it animate or inanimate, if the Brāhmaṇa accepts, it becomes an occasion unfit for study; because the Brāhmaṇa has been declared as having the hand for his mouth.—(117)
@@ -1766,11 +1771,6 @@ connected with the Śrāddha,—on the acceptance of all this, it becomes unfit 
 
 गोहिरण्यादि **यत् किञ्चित्** श्राद्धार्थं तत् स्पृष्ट्वाप्य् अनध्यायः । किम् उत प्रतिगृह्य । यस्मात् पाणिर् एवास्यम् अस्येति **पाण्यास्यो **ब्राह्मणः ॥ ४.११७ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-117	Be it an animal or a thing inanimate, whatever be the (gift) at a Sraddha, let him not, having just accepted it, recite the Veda; for the hand of a Brahmana is his mouth.
-</details>
 </details>
 </div>
 
@@ -1784,6 +1784,11 @@ connected with the Śrāddha,—on the acceptance of all this, it becomes unfit 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/118_chorair_upadrute.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+118	When the village has been beset by robbers, and when an alarm has been raised by fire, let him know that (the Veda-study must be) interrupted until the same hour (on the next day), and on (the occurrence of) all portents.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the village has bees beset with thieves, when alarm has been caused by fire, it is unfit for study, till the same time next day; as also at the appearance of all portents.—(118)
@@ -1834,11 +1839,6 @@ meteor-shower, or earthquake, or fire-calamity till the same time next day;—du
 **चौरैर्** इति । **चौरैर् उपप्लुते ग्रामे **अग्निदाहकृते च भये दिव्यान्तरिक्षभौमेषु चाश्वर्यरूपेषु उत्पातेषु रुधिरवर्षणादिषु **आकालिकम् अनध्यायं** जानीयात् ॥ ४.११८ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-118	When the village has been beset by robbers, and when an alarm has been raised by fire, let him know that (the Veda-study must be) interrupted until the same hour (on the next day), and on (the occurrence of) all portents.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अद्भुतानि दिव्यन्तरिक्षभौमान्य् अथर्ववेदाद् उपलब्धव्यानि यजुर्वेदे च केषाञ्चिद् एतानि सूत्रकारैर् उपदिष्टानि ।
@@ -1856,6 +1856,11 @@ meteor-shower, or earthquake, or fire-calamity till the same time next day;—du
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/119_upAkarmaNi_chotsarge.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+119	On (the occasion of) the Upakarman and (of) the Vedotsarga an omission (of the Veda-study) for three days has been prescribed, but on the Ashtakas and on the last nights of the seasons for a day and a night.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the ceremony of upākarma and at that of utsarjana, omission of study has been prescribed for three days, but at the Aṣṭakāṣ for one day and night; as also on the last nights of the seasons.—(119)
@@ -1912,11 +1917,6 @@ and Āṣāḍha.’
 **उपाकर्मणीति** । उपाकर्मोत्सर्गाख्ययोः गृह्योक्तकर्मणोः कृतयोः **त्रिरात्रम् स्मृतम्** । तत्रोत्सर्गे पक्षिण्य् अहोरात्राभ्याम् उक्ताभ्यां सह अनेन विकल्पः । ऊर्ध्वम् आग्रहायण्याः कृष्णपक्षाष्टमीषु तिसृषु चतसृषु वा अहोरात्रम् अनध्यायः । अष्टमीषु पुनः यावद् अष्टमीत्य् एवम् अर्थम् । तथा च तत्र “अष्टकासु नाधीयीत” इत्य् उक्तम् । इह पुनः “अष्टकासु त्व् अहोरात्रम्” इति यत् तु पुनर्वचनं नित्यार्थम् इत्य् आहुस् तद् असत् । तत्रापि “अमावास्या गुरुं हन्ति” इत्य् अर्थवादेन नित्यत्वस्य समर्थितत्वात् ऋत्वन्तरेषु चाहोरात्रम् अनध्यायः ॥ ४.११९ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-119	On (the occasion of) the Upakarman and (of) the Vedotsarga an omission (of the Veda-study) for three days has been prescribed, but on the Ashtakas and on the last nights of the seasons for a day and a night.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अष्टकास् तु चतस्रश् "चतुरष्टको हेमन्तः" इति वचनात् । यत्यष्टक इत्य् <u>अपरे</u> । **ऋत्वन्त्यासु च रात्रिष्व्** अनध्यायः ।
@@ -1934,6 +1934,11 @@ and Āṣāḍha.’
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/120_nA-dhIyItA-shvam_ArUDho.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+120	Let him not recite the Veda on horseback, nor on a tree, nor on an elephant, nor in a boat (or ship), nor on a donkey, nor on camel, nor standing on barren ground, nor riding in a carriage,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not recite the Veda while seated on a horse, or a tree, or an elephant, or a boat, or a donkey, or a camel; nor when seated on barren ground, nor when going on a conveyance.—(120).
@@ -1987,11 +1992,6 @@ boat,—while seated on these, or on a barren plot of land,...... these are occa
 **नाधीयीतेति **। अश्ववृक्षहस्तिनौखरोष्ट्रारूढः तथोषरप्रदेशस्थः गन्त्र्यादिभिर् यानेन च गच्छन् **नाधीयीत **॥ ४.१२० ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-120	Let him not recite the Veda on horseback, nor on a tree, nor on an elephant, nor in a boat (or ship), nor on a donkey, nor on camel, nor standing on barren ground, nor riding in a carriage,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अश्वादियानोपदेशात् तेभ्यो ऽन्यद् यानं गन्त्र्याद्य् उपदिश्यते सामर्थ्यात् ।
@@ -2009,6 +2009,11 @@ boat,—while seated on these, or on a barren plot of land,...... these are occa
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/121_na_vivAde.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+121	Nor during a verbal altercation, nor during a mutual assault, nor in a camp, nor during a battle, nor when he has just eaten, nor during an indigestion, nor after vomiting, nor with sour eructations,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Non during an al tercation, ok during a fight; nor in the midst of an army, nor during a battle, nor when he has just eaten, nor during indigestion, nor after vomiting, nor when there is eructation.—(121)
@@ -2093,11 +2098,6 @@ arrive, he shall not proceed with his study; but he may go on, on being permitte
 **न विवाद** इति । व्याक्रोशायां प्रवृत्तायां दण्डादण्डि वा यदोत्पन्नं भवति अप्रवृत्तयुद्धायां वा **सेनायां** प्रवृत्तयुद्धे वा स्थितः भोजनसमनन्तरं च “यावद् आर्द्रपाणिः” इति वसिष्ठस्मरणात् । अपरेद्युश् **चाजीर्णे वमित्वा** चान्नानि **शुक्तके **वोद्गारे नाधीयीत॥ ४.१२१ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-121	Nor during a verbal altercation, nor during a mutual assault, nor in a camp, nor during a battle, nor when he has just eaten, nor during an indigestion, nor after vomiting, nor with sour eructations,
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **विवादकलहयोर्** आत्मगतयोर् अनध्यायः । असैनिको ऽपि **सेनायाम्** अलक्षितो (?) नाधीयीत । तथा **सङ्गरे** । कः पुनर् अनयोर् विशेषः । अप्रवृत्तयुद्धा **सेना** । प्रवृत्तयुद्धाह् **सङ्गरः** । गोबलीवर्दन्यायेन व्याख्येयौ ।
@@ -2115,6 +2115,11 @@ arrive, he shall not proceed with his study; but he may go on, on being permitte
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/122_atithi~n_chA-nanujnApya.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+122	Nor without receiving permission from a guest (who stays in his house), nor while the wind blows vehemently, nor while blood flows from his body, nor when he is wounded by a weapon.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Not without having obtained the permission of his guest, nor while the wind blows vehemently; nor when blood has flowed from his body, or his body has been wounded by a weapon.—(122).
@@ -2174,11 +2179,6 @@ Brāhmaṇa arrives, the reader should offer him water etc., and then having obt
 
 **अतिथिम्** इति । **अतिथिः** अधीष्वेत्य् एवं यावद् अननुज्ञापितः, वायौ चाध्ययनश्रमेणातिकुप्यति **रुधिरे च **श्रीरात् **स्रुते, शस्त्रेण** चारुधिरोत्पादितापि **क्ष्ते** उत्पन्ने नाधीयीत ॥ ४.१२२ ॥
 </details>
-
-<details><summary>Bühler</summary>
-
-122	Nor without receiving permission from a guest (who stays in his house), nor while the wind blows vehemently, nor while blood flows from his body, nor when he is wounded by a weapon.
-</details>
 </details>
 </div>
 
@@ -2192,6 +2192,11 @@ Brāhmaṇa arrives, the reader should offer him water etc., and then having obt
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/123_sAmadhvanAv_Rg-yajuShI.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+123	Let him never recite the Rig-veda or the Yagur-veda while the Saman (melodies) are heard; (let him stop all Veda-study for a day and a night) after finishing a Veda or after reciting an Aranyaka.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall never recite the Ṛk or the Yajuṣ during a Sāma-chant; nor after having read the end of the Veda, or after having read the Āraṇyaka.—(123).
@@ -2253,11 +2258,6 @@ shall not be read while there is sound of Sāma-singing; or when there is very h
 **सामध्वनाव्** इति । **सामध्वनौ** शूयमाणे ऋग्यजुषोर् न कदाचिद् अप्य् अध्ययनं कुर्यात् । तथा वेदं समाप्य आरण्याख्यं च वेदैकदेशं **अधीत्य **तस्मिन्न् अहोरात्रे अन्यत् **नाधीयीत** ॥ ४.१२३ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-123	Let him never recite the Rig-veda or the Yagur-veda while the Saman (melodies) are heard; (let him stop all Veda-study for a day and a night) after finishing a Veda or after reciting an Aranyaka.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 कदाचिद् अप्य् अनध्यायापेषुर् विद्वान् नैव च "वर्जयेन् नित्यम्" (म्ध् ४.१२७) इत्य् एवमादि । **आरण्यकं** चैकाकिनाप्य् **अधीत्या**नारब्धवेदाध्यय्नो ऽप्य् अत्र कद(?) कारणाभासम् अर्थवादम् आह ।
@@ -2275,6 +2275,11 @@ shall not be read while there is sound of Sāma-singing; or when there is very h
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/124_Rgvedo_deva-daivatyo.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+124	The Rig-veda is declared to be sacred to the gods, the Yagur-veda sacred to men, and the Sama-veda sacred to the manes; hence the sound of the latter is impure (as it were).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Ṛgveda is sacred to the gods and the Yajurveda is human; the Sāmaveda has been declared to be related to the Pitṛs; hence its sound is impure.—(124)
@@ -2318,11 +2323,6 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 534), which adds that 
 **ऋग्वेद** इति । देवा देवता यस्यासौ **देवदैवत्य ऋग्वेदः **। मनुष्यदेवताकत्वात् **यजुर्वेदो मानुषः । सामवेदः **पितृदेवताकः **स्मृतः । **पित्र्यं कर्म कृत्वा आचम्यते । तस्मात् **तस्याशुचिर्** इति **ध्वनिः **। अतस् तस्मिन् श्रूयमाणे ऋग्यजुषी नाध्येये इति पूर्वविध्यर्थवादः ॥ ४.१२४ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-124	The Rig-veda is declared to be sacred to the gods, the Yagur-veda sacred to men, and the Sama-veda sacred to the manes; hence the sound of the latter is impure (as it were).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 अर्थवादेभ्यः केनचित् सामान्येनेदम् उच्यते । तुल्यबलानां विरोधः । यतो ऽत्र स्मृतिः श्रुत्या बाध्यते, बलीयस्त्वाच् छ्रुतेः । इत्य् एवं च सति –
@@ -2340,6 +2340,11 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 534), which adds that 
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/125_etad_vidvanto.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+125	Knowing this, the learned daily repeat first in due order the essence of the three (Vedas) and afterwards the (text of the) Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Knowing this, the learned dally recite first the essence of the three Vedas, in due order; and it is only after this that they recite the Veda.—(125)
@@ -2370,11 +2375,6 @@ Though this matter has already been asserted in Discourse II, yet it is repeated
 **एतद्** देवपितृमनुष्यादौ देवत्वं (-त्वात् कथं) वेदत्रयस्य (जानन्तः) नानाशस्त्रज्ञा ऋग्यजुःसामात्मिकायास् त्रय्याः सारभूतं प्रणवव्याहृतिसावित्र्याख्यं प्रत्यहं प्रणवव्याहृतिसावित्र्यात्मकेन द्वितीयाध्यायोक्तक्रमेण प्रथमं **अभ्यस्य पश्चाद् वेदम् अधीयीयते ।** यथानध्यायेषु नाध्ययनं एवं प्रणवाद्यभ्यासं विना नाध्येयम् इत्य् एतद् अस्येह पुनर्वचनम् ॥ ४.१२५ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-125	Knowing this, the learned daily repeat first in due order the essence of the three (Vedas) and afterwards the (text of the) Veda.
-</details>
-
 <details><summary>भारुचिः</summary>
 
 **एतद्** एव पितृमनुष्यात्मकत्वन्तर्या (?) एवं **विदित्वा त्रयीनिष्कर्षं** प्रणवव्याहृतिसावित्र्याख्यम् **अन्वहं** **क्रमशः पूर्वं** वेदाध्ययनं त्रिर् **अभ्यस्य** ततो यं कञ्चिद् **वेदम् अधीयते** । विद्यासंशयकारणम् एवाधिक्रियमाणे देवपितृमानुष्यात्मकं ब्रह्मलोकत्रयावजयाय (?) तस्याध्ययनेनैवं गुणवतः कल्पितं भवति । अन्या सम्पादशिष्यवौ (?) । आचार्यप्रकरणे एवायम् अर्थो वक्तव्यः सन्न् अर्थवादोपजिजीविषया पूर्वस्य प्रतिषेधो ऽपीहोक्त इति ।
@@ -2392,6 +2392,11 @@ Though this matter has already been asserted in Discourse II, yet it is repeated
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/126_pashu-maNDUka-mArjAra-_shva-sarpa-nakulAkhubhiH.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+126	Know that (the Veda-study must be) interrupted for a day and a night, when cattle, a frog, a cat, a dog, a snake, an ichneumon, or a rat pass between (the teacher and his pupil).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When cattle, a frog, a cat, a dog, a snake, a mongoose or a rat come between,—one should regard the day and night as unfit for study.—(126)
@@ -2437,11 +2442,6 @@ or a mongoose or a dog or a serpent or a cat or a rat,—it will be unfit for st
 **पशुमण्डूकमार्जारश्वसर्पनकुलाखुभिर्** इति । शिष्योपाध्याययोर् अधीयानयोः गवादिपशुमण्डूकबिडालश्वसर्पनकुलमूषकैः मध्यगमने कृते अहोरात्रम् अनध्यायं जानीयत् ॥ ४.१२६ ॥
 </details>
 
-<details><summary>Bühler</summary>
-
-126	Know that (the Veda-study must be) interrupted for a day and a night, when cattle, a frog, a cat, a dog, a snake, an ichneumon, or a rat pass between (the teacher and his pupil).
-</details>
-
 <details><summary>भारुचिः</summary>
 
 पशुशब्दाच् च केचिद् विशेषण (?) सप्त ग्राम्यान् पशून् इच्छन्ति । गोऽव्याजाश्वाश्वअतरगर्दभपुरुषान् सप्त चारण्यानुष्ठादीन् (?) । **[१८७]** 
@@ -2463,6 +2463,11 @@ or a mongoose or a dog or a serpent or a cat or a rat,—it will be unfit for st
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled="" url="/kalpAntaram/smRtiH/manuH/sarvASh_TIkAH/04/127_dvAv_eva.md">
 <details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
+<details><summary>Bühler</summary>
+
+127	Let a twice-born man always carefully interrupt the Veda-study on two (occasions, viz.) when the place where he recites is impure, and when he himself is unpurified.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born man shall always carefully avoid only two conditions as unfit for study: viz. an unclean place of study and his own unclean condition.—(127)
@@ -2517,11 +2522,6 @@ note;—and in *Gadādharapaddhati* (Kāla, p. 196).
 <details><summary>गोविन्दराजः</summary>
 
 विद्यानैपुणकामं प्रति पूर्वोक्तानध्यायविकल्पार्थम् आह **द्वाव्** इति । अध्ययनभूमिम् **अशुद्धां आत्मानं चाशुचिम्** अपेक्ष्य **द्वौ वानध्यायौ । **ताव् एव प्रयत्नेन **नित्यं द्विजो वर्जयेत् । **ताभ्यां (मन्त्रो ऽपि) अन्यत्रापि यत्र नित्यग्रहणम् अर्थवादादि वा नित्यत्वे लिङ्गम् अस्ति तथापि नित्यम् एव वर्जयेत् । अन्यत्र तु विकल्पः ॥ ४.१२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-127	Let a twice-born man always carefully interrupt the Veda-study on two (occasions, viz.) when the place where he recites is impure, and when he himself is unpurified.
 </details>
 
 <details><summary>भारुचिः</summary>
